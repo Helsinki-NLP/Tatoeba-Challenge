@@ -7,7 +7,7 @@ foreach (@ARGV){
     my ($s,$t) = split(/\-/);
     my $S = get_macro_language($s,1);
     my $T = get_macro_language($t,1);
-    if ($S < $T) {
+    if ($S lt $T) {
 	push(@langpairs,"$S-$T");
     }
     else{

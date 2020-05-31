@@ -6,7 +6,7 @@ ISO639       = ${HOME}/projappl/ISO639/iso639
 GET_ISO_CODE = ${ISO639} -m -k
 
 OPUS_CORPORA    = ${sort ${notdir ${shell find ${OPUS_HOME} -maxdepth 1 -mindepth 1 -type d}}}
-EXCLUDE_CORPORA = Tatoeba
+EXCLUDE_CORPORA = Tatoeba WMT-News MPC1
 TRAIN_CORPORA   = ${filter-out ${EXCLUDE_CORPORA},${OPUS_CORPORA}}
 
 ## set additional argument options for opus_read (if it is used)
@@ -25,7 +25,7 @@ TATOEBA_PAIRS = ${sort ${patsubst %.xml.gz,%,${notdir ${wildcard ${OPUS_HOME}/Ta
 
 OPUS_LANGS3    = ${shell ${GET_ISO_CODE} ${OPUS_LANGS}}
 TATOEBA_LANGS3 = ${shell ${GET_ISO_CODE} ${TATOEBA_LANGS}}
-TATOEBA_PAIRS3 = ${sort ${shell scripts/convert_langpair_codes.pl ${TATOEBA_PAIRS}}
+TATOEBA_PAIRS3 = ${sort ${shell scripts/convert_langpair_codes.pl ${TATOEBA_PAIRS}}}
 # TATOEBA_PAIRS3 = ${sort ${shell ${GET_ISO_CODE} ${subst -, ,${TATOEBA_PAIRS}} | \
 # 			sed 's/$$/ /;s/\(\S\S*\) \(\S\S*\) /\1-\2 /g' }}
 
@@ -33,6 +33,9 @@ TATOEBA_PAIRS3 = ${sort ${shell scripts/convert_langpair_codes.pl ${TATOEBA_PAIR
 TRAIN_DATA = ${patsubst %,${DATADIR}/%/train.ids.gz,${TATOEBA_PAIRS3}}
 TEST_DATA  = ${patsubst %,${DATADIR}/%/test.ids,${TATOEBA_PAIRS3}}
 
+ttt:
+	echo ${TATOEBA_PAIRS}
+	echo ${TATOEBA_PAIRS3}
 
 DATADIR = data
 
@@ -75,7 +78,7 @@ ${DATADIR}/%/train.ids.gz:
 		  elif 	[ -e ${OPUS_HOME}/$$c/latest/xml/$$e-$$f.xml.gz ] || \
 			[ -e ${OPUS_HOME}/$$c/latest/xml/$$f-$$e.xml.gz ]; then \
 		    echo "opus-read $$c ($$e-$$f)!"; \
-		    opus_read ${OPUSREAD_ARGS} -ln -rd ${OPUS_HOME} \
+		    opus_read ${OPUSREAD_ARGS} -q -ln -rd ${OPUS_HOME} \
 				-d $$c -s $$e -t $$f -wm moses -p raw > $@.tmp3; \
 		    cut -f1 $@.tmp3  | sed "s/^/$$c	$$e	/" >> $@.tmp1; \
 		    cut -f2 $@.tmp3  | sed "s/^/$$f	/"         >> $@.tmp2; \
@@ -166,6 +169,8 @@ ${DATADIR}/%/test.ids:
 Data.md:
 	echo "# Tatoeba Challenge Data" > $@
 	echo "" >> $@
+#	echo "| lang-pair |    test    |    dev     |    train   |  train-src |  train-trg |" >> $@
+#	echo "|-----------|------------|------------|------------|------------|------------|" >> $@
 	echo "| lang-pair |    test    |    dev     |    train   |" >> $@
 	echo "|-----------|------------|------------|------------|" >> $@
 	for l in ${TATOEBA_PAIRS3}; do \
@@ -180,8 +185,16 @@ Data.md:
 	  echo -n "| " >> $@; \
 	  if [ -e data/$$l/train.ids.gz ]; then \
 	    zcat data/$$l/train.ids.gz | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	    echo "|" >> $@; \
 	  else \
-	    echo -n "           " >> $@; \
+	    echo "           |" >> $@; \
 	  fi; \
-	  echo "| " >> $@; \
 	done
+
+
+#	    echo -n "| " >> $@; \
+#	    zcat data/$$l/train.src.gz | wc -w | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+#	    echo -n "| " >> $@; \
+#	    zcat data/$$l/train.trg.gz | wc -w | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+#
+#	    echo "           |            |            |" >> $@; \
