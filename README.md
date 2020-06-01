@@ -39,11 +39,19 @@ For all those selected language pairs, the data set provides at least 200 senten
 
 Therefore, another challenge we want to open here is to increase the coverage of test sets for low-resource languages. This challenge is really important and contributions are necessary. The approach here would be to directly [contribute translations](https://tatoeba.org/eng/users/login?redirect=%2Feng%2Factivities%2Ftranslate_sentences) for your favorite language directly to the Tatoeba data collection. The new translations will make their way into the data set here through OPUS! Make an effort and provide new data already today!
 
+Other notes about the compilation of the data sets can be found in [Development.md](Development.md).
 
 
 ## How to participate
 
 Everyone interested is free to use the data for their own development. Naturally, we encourage contributions by the community and will develop a leader board for individual language pairs. The idea is also to make pre-trained models available in order to support re-use and replciability. This will be organised in connection with [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT) and [translation models integrated in huggingface](https://huggingface.co/Helsinki-NLP).
+
+Certain rules apply:
+
+* Don't use any dev or test data for training (dev can be used for validation during training as an early stopping criterion).
+* Only use the provided training data for training models with comparable results in constrained settings. Any combination of language pairs is fine or backtranslation of sentences included in training data for any language pair is allowed, too. That means that additional data sets, parallel or monolingual, are not allowed for official models to be compared with others. Unconstrained models may also be trained and can be reported as a separate category.
+* Using pre-trained language or translation models fall into the unconstrained category. Make sure that the pre-trained model does not include Tatoeba data that we reserve for testing! Note that current OPUS-MT models can not be used as they contain Tatoeba data that may overlap with the test data in this release!
+* We encourage to make the models available through OPUS-MT or other public means. This ensures replicability and re-use of pre-trained models! If you want to enter the official leader board you must have to make your model available including instructions on how to use them!
 
 
 

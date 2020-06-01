@@ -37,6 +37,24 @@ TRAIN_CORPORA   = ${filter-out ${EXCLUDE_CORPORA},${OPUS_CORPORA}}
 OPUSREAD_ARGS =
 
 
+## some more tools and parameters
+## - check if there is dedicated scratch space (e.g. on puhti nodes)
+## - check if terashuf and pigz are available
+
+ifdef LOCAL_SCRATCH
+  TMPDIR = ${LOCAL_SCRATCH}
+endif
+
+THREADS ?= 4
+SORT = sort -T ${TMPDIR} --parallel=${THREADS}
+SHUFFLE = ${shell which terashuf 2>/dev/null}
+ifeq (${SHUFFLE},)
+  SHUFFLE = ${SORT} --random-sort
+endif
+GZIP := ${shell which pigz 2>/dev/null}
+GZIP ?= gzip
+
+
 ## available OPUS languages (IDs in the way they appear in the corpus)
 ## (skip 'simple' = simple English in Wikipedia in the English data sets)
 ##
@@ -69,42 +87,13 @@ DATADIR = data
 .PHONY: all testdata traindata upload
 all: ${TEST_DATA} ${TRAIN_DATA}
 	${MAKE} Data.md
+	${MAKE} subsets
 
 traindata: ${TRAIN_DATA}
 testdata: ${TEST_DATA}
 upload: ${patsubst %,${DATADIR}/%.done,${TATOEBA_PAIRS3}}
 
 
-
-
-ifdef LOCAL_SCRATCH
-  TMPDIR = ${LOCAL_SCRATCH}
-endif
-
-THREADS ?= 4
-SORT = sort -T ${TMPDIR} --parallel=${THREADS}
-SHUFFLE = ${shell which terashuf 2>/dev/null}
-ifeq (${SHUFFLE},)
-  SHUFFLE = ${SORT} --random-sort
-endif
-GZIP := ${shell which pigz 2>/dev/null}
-GZIP ?= gzip
-
-
-SHUFFLED_DATA = ${patsubst ${DATADIR}/%,data-shuffled/%,${wildcard ${DATADIR}/*/train.ids.gz}}
-
-shuffle-all: ${SHUFFLED_DATA}
-
-data-shuffled/%/train.ids.gz: ${DATADIR}/%/train.ids.gz
-	mkdir -p ${dir $@}
-	${GZIP} -cd < $< > $@.ids
-	${GZIP} -cd < ${dir $<}train.src.gz > $@.src
-	${GZIP} -cd < ${dir $<}train.trg.gz > $@.trg
-	paste $@.ids $@.src $@.trg | ${SHUFFLE} > $@.shuffled
-	cut -f1,2,3 $@.shuffled | ${GZIP} -c > $@
-	cut -f4 $@.shuffled | ${GZIP} -c > ${dir $@}train.src.gz
-	cut -f5 $@.shuffled | ${GZIP} -c > ${dir $@}train.trg.gz
-	rm -f $@.ids $@.src $@.trg $@.shuffled
 
 
 ## create training data by concatenating all data sets
@@ -152,7 +141,7 @@ ${DATADIR}/%/train.ids.gz:
 	    done \
 	  done \
 	)
-	if [ -e $@.tmp1 ]; then \
+	if [ -s $@.tmp1 ]; then \
 	  paste $@.tmp1 $@.tmp2 | ${SHUFFLE} > $@.tmp3; \
 	  cut -f3 $@.tmp3 | ${GZIP} -c > ${dir $@}train.src.gz; \
 	  cut -f5 $@.tmp3 | ${GZIP} -c > ${dir $@}train.trg.gz; \
@@ -240,7 +229,10 @@ Data.md:
 	echo "| lang-pair |    test    |    dev     |    train   |" >> $@
 	echo "|-----------|------------|------------|------------|" >> $@
 	for l in ${TATOEBA_PAIRS3}; do \
-	  echo -n "|  [$$l](${DOWNLOADURL}/$$l.tar)  | " >> $@; \
+	  echo -n "| " >> $@; \
+	  echo "$$l" | sed 's/-/ /' | xargs ${ISO639} | \
+		sed 's/" "/ - /' | awk '{printf "%30s\n", $$0}' | tr "\"\n" '  ' >> $@; \
+	  echo -n "[$$l](${DOWNLOADURL}/$$l.tar)  | " >> $@; \
 	  cat data/$$l/test.ids | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	  echo -n "| " >> $@; \
 	  if [ -e data/$$l/dev.ids ]; then \
@@ -288,6 +280,7 @@ Statisics.md:
 	done
 
 
+.PHONY: subsets
 subsets: insufficient/README.md zero/README.md lowest/README.md lower/README.md \
 	medium/README.md higher/README.md highest/README.md
 
@@ -319,3 +312,24 @@ data/%.done: data/%
 	a-put ${APUT_FLAGS} -b Tatoeba-Challenge $<
 
 #	swift post Tatoeba-Challenge --read-acl ".r:*"
+
+
+
+
+## fix data that has not been shuffled
+
+SHUFFLED_DATA = ${patsubst ${DATADIR}/%,data-shuffled/%,${wildcard ${DATADIR}/*/train.ids.gz}}
+
+.PHONY: shuffle-all
+shuffle-all: ${SHUFFLED_DATA}
+
+data-shuffled/%/train.ids.gz: ${DATADIR}/%/train.ids.gz
+	mkdir -p ${dir $@}
+	${GZIP} -cd < $< > $@.ids
+	${GZIP} -cd < ${dir $<}train.src.gz > $@.src
+	${GZIP} -cd < ${dir $<}train.trg.gz > $@.trg
+	paste $@.ids $@.src $@.trg | ${SHUFFLE} > $@.shuffled
+	cut -f1,2,3 $@.shuffled | ${GZIP} -c > $@
+	cut -f4 $@.shuffled | ${GZIP} -c > ${dir $@}train.src.gz
+	cut -f5 $@.shuffled | ${GZIP} -c > ${dir $@}train.trg.gz
+	rm -f $@.ids $@.src $@.trg $@.shuffled
