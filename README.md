@@ -50,7 +50,8 @@ Everyone interested is free to use the data for their own development. Naturally
 ## License
 
 These data are released under this licensing scheme:
- * ![CC-BY-NC-SA](by-nc-sa.png) [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+<img src="by-nc-sa.png" alt="CC-BY-NC-SA" width="80" /> [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 
