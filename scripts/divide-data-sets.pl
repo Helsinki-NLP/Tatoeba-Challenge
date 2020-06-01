@@ -1,5 +1,6 @@
 #!/usr/bin/env perl
 
+# my $MinTestSize=100;
 my $MinTestSize=200;
 # my $MinTestSize=500;
 # my $MinTestSize=250;
@@ -16,7 +17,7 @@ while (<>){
 	next;
     }
     if ($fields[2]<$MinTestSize){
-	print "$_   test data too small\n";
+	print "$_   insufficient test data\n";
     }
     elsif ($fields[4]>10000000){
 	print "$_   highest resource language pair\n";
