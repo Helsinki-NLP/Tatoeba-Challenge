@@ -1,6 +1,6 @@
 # Tatoeba Challenge Data - Zero-Shot Language Pairs
 
-This is a "subsets/LessThan1000.md" sub-set of the Tatoeba data.
+This is a "LessThan1000" sub-set of the Tatoeba data.
 Download the data files from the link in the table below.
 There is a total of
 
