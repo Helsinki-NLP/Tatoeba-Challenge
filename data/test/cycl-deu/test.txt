@@ -1,0 +1,6 @@
+cycl	de	((TypeCapableFn behaviorCapable) Bear-Animal (SubcollectionOfWithRelationToTypeFn Climbing eventOccursAt Tree-ThePlant) performedBy)	Ein Bär kann auf einen Baum klettern.
+cycl	de	(implies (isa ?AP (FruitFn AppleTree)) (or (colorOfObject ?AP RedColor) (colorOfObject ?AP GreenColor)))	Äpfel sind rot oder grün.
+cycl	de	(isa CityOfAucklandNewZealand (CityInCountryFn NewZealand) )	Auckland ist eine Stadt in Neuseeland.
+cycl	de	(personFoundInLocation BritneySpears ?WHERE)	Wo ist Britney Spears?
+cycl	de	(thereExists ?M (and (mother (TheFn NewbornAnimal) ?M) (needs-Generic (TheFn NewbornAnimal) ?M)))	Das Baby braucht seine Mutter.
+cycl	de	(not (languageSpoken (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) JapaneseLanguage))	Ich spreche kein Japanisch.

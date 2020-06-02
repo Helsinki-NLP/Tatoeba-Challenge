@@ -1,0 +1,5 @@
+cycl	fi	(not (languageSpoken (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) JapaneseLanguage))	En puhu japania.
+cycl	fi	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Farshad")	Mää oon Farshad.
+cycl	fi	(#$capitalCity #$France #$Paris)	Pariisi on Ranskan pääkaupunki.
+cycl	fi	(#$capitalCity #$France #$Paris)	Ranskan pääkaupunki on Pariisi.
+cycl	fi	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Farshad")	Mun nimi on Farshad.

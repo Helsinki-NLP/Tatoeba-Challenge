@@ -1,0 +1,2 @@
+cycl	cmn	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	我叫傑克。
+cycl	cmn	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	我叫Jack。
