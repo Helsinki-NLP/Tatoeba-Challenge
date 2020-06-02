@@ -78,19 +78,24 @@ TATOEBA_PAIRS3 = ${sort ${shell scripts/convert_langpair_codes.pl ${TATOEBA_PAIR
 
 ## all data files we need to produce
 
-TRAIN_DATA = ${patsubst %,${DATADIR}/%/train.ids.gz,${TATOEBA_PAIRS3}}
-TEST_DATA  = ${patsubst %,${DATADIR}/%/test.ids,${TATOEBA_PAIRS3}}
-
-
 DATADIR = data
 
-.PHONY: all testdata traindata upload
+TRAIN_DATA  = ${patsubst %,${DATADIR}/%/train.ids.gz,${TATOEBA_PAIRS3}}
+TEST_DATA   = ${patsubst %,${DATADIR}/%/test.ids,${TATOEBA_PAIRS3}}
+TEST_TSV    = ${patsubst ${DATADIR}/%.ids,${DATADIR}/test/%.txt,${wildcard ${DATADIR}/*/test.ids}}
+DEV_TSV     = ${patsubst ${DATADIR}/%.ids,${DATADIR}/dev/%.txt,${wildcard ${DATADIR}/*/dev.ids}}
+
+
+.PHONY: all testdata traindata test-tsv dev-tsv upload
 all: ${TEST_DATA} ${TRAIN_DATA}
+	${MAKE} dev-tsv test-tsv
 	${MAKE} Data.md
 	${MAKE} subsets
 
 traindata: ${TRAIN_DATA}
 testdata: ${TEST_DATA}
+test-tsv: ${TEST_TSV}
+dev-tsv: ${DEV_TSV}
 upload: ${patsubst %,${DATADIR}/%.done,${TATOEBA_PAIRS3}}
 
 
@@ -231,6 +236,17 @@ ${DATADIR}/%/test.ids:
 	@rmdir ${dir $@}test.d
 	@rm -f $@.tmp1 $@.tmp2 $@.tmp3 $@.test $@.dev
 	@echo ""
+
+## tab-separated versions of test and dev data (for github and downloads)
+
+${TEST_TSV}: ${DATADIR}/test/%/test.txt: ${DATADIR}/%/test.ids
+	mkdir -p ${dir $@}
+	paste $< ${<:.ids=.src} ${<:.ids=.trg} > $@
+
+${DEV_TSV}: ${DATADIR}/dev/%/dev.txt: ${DATADIR}/%/dev.ids
+	mkdir -p ${dir $@}
+	paste $< ${<:.ids=.src} ${<:.ids=.trg} > $@
+
 
 
 DOWNLOADURL = https://object.pouta.csc.fi/Tatoeba-Challenge
