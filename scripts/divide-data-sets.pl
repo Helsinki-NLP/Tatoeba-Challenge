@@ -22,8 +22,8 @@ while (<>){
     $fields[1]=~/\[(\S+)\]/;
     my $langpair = $1;
     my @newfields = @fields;
-    $newfields[2] = $fields[2]>0 ? "[$fields[2]](data/test/$langpair/test.txt)" : $fields[2];
-    $newfields[3] = $fields[3]>0 ? "[$fields[3]](data/dev/$langpair/dev.txt)" : $fields[3];
+    $newfields[2] = $fields[2]>0 ? "[$fields[2]](../data/test/$langpair/test.txt)" : $fields[2];
+    $newfields[3] = $fields[3]>0 ? "[$fields[3]](../data/dev/$langpair/dev.txt)" : $fields[3];
     $_ = join('| ',@newfields);
 
     if ($fields[2]<$MinTestSize){
