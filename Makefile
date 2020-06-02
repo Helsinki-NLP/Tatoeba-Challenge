@@ -314,7 +314,7 @@ subsets/%.md: Data.md
 	@echo "" >> $@
 	@echo -n "* " >> $@
 	scripts/divide-data-sets.pl < $< |\
-	grep '${patsubst %/README.md,%,$@}' |\
+	grep '${patsubst subsets/%.md,%,$@}' |\
 	wc -l | tr "\n" ' ' >> $@
 	@echo " language pairs in this sub-set" >> $@
 	@echo "" >> $@
