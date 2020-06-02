@@ -294,11 +294,17 @@ Statisics.md:
 
 
 .PHONY: subsets
-subsets: insufficient/README.md zero/README.md lowest/README.md lower/README.md \
-	medium/README.md higher/README.md highest/README.md LessThan1000/README.md
+subsets: subsets/insufficient.md \
+	subsets/zero.md \
+	subsets/lowest.md \
+	subsets/lower.md \
+	subsets/medium.md \
+	subsets/higher.md \
+	subsets/highest.md \
+	subsets/LessThan1000.md
 
 
-%/README.md: Data.md
+subsets/%.md: Data.md
 	mkdir -p ${dir $@}
 	@echo "# Tatoeba Challenge Data - Zero-Shot Language Pairs" > $@
 	@echo "" >> $@
