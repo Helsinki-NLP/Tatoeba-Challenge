@@ -321,7 +321,7 @@ subsets/%.md: Data.md
 	@echo "| lang-pair |    test    |    dev     |    train   |" >> $@
 	@echo "|-----------|------------|------------|------------|" >> $@
 	scripts/divide-data-sets.pl < $< |\
-	grep '${patsubst %/README.md,%,$@}' |\
+	grep '${patsubst subsets/%.md,%,$@}' |\
 	sed 's/|[^|]*$$/|/' >> $@
 
 
