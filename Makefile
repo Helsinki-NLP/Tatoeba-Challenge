@@ -353,6 +353,7 @@ APUT_FLAGS = -p ${CSC_PROJECT} --override --nc --skip-filelist
 
 data/%.done: data/%
 	a-put ${APUT_FLAGS} -b Tatoeba-Challenge $<
+	touch $@
 
 #	swift post Tatoeba-Challenge --read-acl ".r:*"
 
