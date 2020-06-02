@@ -94,6 +94,19 @@ testdata: ${TEST_DATA}
 upload: ${patsubst %,${DATADIR}/%.done,${TATOEBA_PAIRS3}}
 
 
+print-languages:
+	@echo "${TATOEBA_LANGS3}"
+
+print-langpairs:
+	@echo "${TATOEBA_PAIRS3}"
+
+move-diff-langpairs:
+	@echo ${filter-out ${TATOEBA_PAIRS3},${shell ls ${DATADIR}}}
+	mkdir -p data-wrong
+	for d in ${filter-out ${TATOEBA_PAIRS3},${shell ls ${DATADIR}}}; do \
+	  mv ${DATADIR}/$$d data-wrong/; \
+	done
+
 
 
 ## create training data by concatenating all data sets
@@ -282,20 +295,28 @@ Statisics.md:
 
 .PHONY: subsets
 subsets: insufficient/README.md zero/README.md lowest/README.md lower/README.md \
-	medium/README.md higher/README.md highest/README.md
+	medium/README.md higher/README.md highest/README.md LessThan1000/README.md
+
 
 %/README.md: Data.md
 	mkdir -p ${dir $@}
-	echo "# Tatoeba Challenge Data - Zero-Shot Language Pairs" > $@
-	echo "" >> $@
-	echo "| lang-pair |    test    |    dev     |    train   |" >> $@
-	echo "|-----------|------------|------------|------------|" >> $@
+	@echo "# Tatoeba Challenge Data - Zero-Shot Language Pairs" > $@
+	@echo "" >> $@
+	@echo "This is a \"${patsubst %/README.md,%,$@}\" sub-set of the Tatoeba data." >> $@
+	@echo "Download the data files from the link in the table below." >> $@
+	@echo "There is a total of" >> $@
+	@echo "" >> $@
+	@echo -n "* " >> $@
+	scripts/divide-data-sets.pl < $< |\
+	grep '${patsubst %/README.md,%,$@}' |\
+	wc -l | tr "\n" ' ' >> $@
+	@echo " language pairs in this sub-set" >> $@
+	@echo "" >> $@
+	@echo "| lang-pair |    test    |    dev     |    train   |" >> $@
+	@echo "|-----------|------------|------------|------------|" >> $@
 	scripts/divide-data-sets.pl < $< |\
 	grep '${patsubst %/README.md,%,$@}' |\
 	sed 's/|[^|]*$$/|/' >> $@
-
-
-
 
 
 ## upload data to ObjectStorage on allas
