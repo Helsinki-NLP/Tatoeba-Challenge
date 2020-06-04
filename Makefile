@@ -82,8 +82,22 @@ DATADIR = data
 
 TRAIN_DATA  = ${patsubst %,${DATADIR}/%/train.ids.gz,${TATOEBA_PAIRS3}}
 TEST_DATA   = ${patsubst %,${DATADIR}/%/test.ids,${TATOEBA_PAIRS3}}
-TEST_TSV    = ${patsubst ${DATADIR}/%.ids,${DATADIR}/test/%.txt,${wildcard ${DATADIR}/*/test.ids}}
-DEV_TSV     = ${patsubst ${DATADIR}/%.ids,${DATADIR}/dev/%.txt,${wildcard ${DATADIR}/*/dev.ids}}
+# TEST_TSV    = ${patsubst ${DATADIR}/%.ids,${DATADIR}/test/%.txt,${wildcard ${DATADIR}/*/test.ids}}
+# DEV_TSV     = ${patsubst ${DATADIR}/%.ids,${DATADIR}/dev/%.txt,${wildcard ${DATADIR}/*/dev.ids}}
+TEST_TSV    = ${patsubst ${DATADIR}/%.id,${DATADIR}/test/%.txt,${wildcard ${DATADIR}/*/test.id}}
+DEV_TSV     = ${patsubst ${DATADIR}/%.id,${DATADIR}/dev/%.txt,${wildcard ${DATADIR}/*/dev.id}}
+
+
+
+## new lang ID files with normalised codes and script info
+
+NEW_TEST_IDS  = ${patsubst ${DATADIR}/%.ids,${DATADIR}/%.id,${wildcard ${DATADIR}/*/test.ids}}
+NEW_DEV_IDS   = ${patsubst ${DATADIR}/%.ids,${DATADIR}/%.id,${wildcard ${DATADIR}/*/dev.ids}}
+NEW_TRAIN_IDS = ${patsubst ${DATADIR}/%.ids.gz,${DATADIR}/%.id.gz,${wildcard ${DATADIR}/*/train.ids.gz}}
+
+new_test_ids: ${NEW_TEST_IDS}
+new_dev_ids: ${NEW_DEV_IDS}
+new_train_ids: ${NEW_TRAIN_IDS}
 
 
 .PHONY: all testdata traindata test-tsv dev-tsv upload
@@ -237,15 +251,46 @@ ${DATADIR}/%/test.ids:
 	@rm -f $@.tmp1 $@.tmp2 $@.tmp3 $@.test $@.dev
 	@echo ""
 
+
+
+
+
+
+
+## normalise language IDs and detect scripts
+
+${DATADIR}/%.id: ${DATADIR}/%.ids
+	cut -f1 $< > $@.1
+	cut -f2 $< > $@.2
+	paste $@.1 $(<:.ids=.src) | langscript -3 -L -r -D > $@.11
+	paste $@.2 $(<:.ids=.trg) | langscript -3 -L -r -D > $@.22
+	paste $@.11 $@.22 > $@
+	rm -f $@.1 $@.2 $@.11 $@.22
+
+${DATADIR}/%.id.gz: ${DATADIR}/%.ids.gz
+	${GZIP} -cd < $< | cut -f1 > $@.0
+	${GZIP} -cd < $< | cut -f2 > $@.1
+	${GZIP} -cd < $< | cut -f3 > $@.2
+	${GZIP} -cd < $(<:.ids.gz=.src.gz) > $@.11
+	${GZIP} -cd < $(<:.ids.gz=.trg.gz) > $@.22
+	paste $@.1 $@.11 | langscript -3 -L -r -D > $@.111
+	paste $@.2 $@.22 | langscript -3 -L -r -D > $@.222
+	paste $@.0 $@.111 $@.222 | ${GZIP} -c > $@
+	rm -f $@.0 $@.1 $@.2 $@.11 $@.22 $@.111 $@.222
+
+
+
+
+
 ## tab-separated versions of test and dev data (for github and downloads)
 
-${TEST_TSV}: ${DATADIR}/test/%/test.txt: ${DATADIR}/%/test.ids
+${TEST_TSV}: ${DATADIR}/test/%/test.txt: ${DATADIR}/%/test.id
 	mkdir -p ${dir $@}
-	paste $< ${<:.ids=.src} ${<:.ids=.trg} > $@
+	paste $< ${<:.id=.src} ${<:.id=.trg} > $@
 
-${DEV_TSV}: ${DATADIR}/dev/%/dev.txt: ${DATADIR}/%/dev.ids
+${DEV_TSV}: ${DATADIR}/dev/%/dev.txt: ${DATADIR}/%/dev.id
 	mkdir -p ${dir $@}
-	paste $< ${<:.ids=.src} ${<:.ids=.trg} > $@
+	paste $< ${<:.id=.src} ${<:.id=.trg} > $@
 
 
 
@@ -262,16 +307,16 @@ Data.md:
 	  echo "$$l" | sed 's/-/ /' | xargs ${ISO639} | \
 		sed 's/" "/ - /' | awk '{printf "%30s\n", $$0}' | tr "\"\n" '  ' >> $@; \
 	  echo -n "[$$l](${DOWNLOADURL}/$$l.tar)  | " >> $@; \
-	  cat data/$$l/test.ids | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	  cat data/$$l/test.id | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	  echo -n "| " >> $@; \
-	  if [ -e data/$$l/dev.ids ]; then \
-	    cat data/$$l/dev.ids | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	  if [ -e data/$$l/dev.id ]; then \
+	    cat data/$$l/dev.id | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	  else \
 	    echo -n "           " >> $@; \
 	  fi; \
 	  echo -n "| " >> $@; \
-	  if [ -e data/$$l/train.ids.gz ]; then \
-	    ${GZIP} -cd < data/$$l/train.ids.gz | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	  if [ -e data/$$l/train.id.gz ]; then \
+	    ${GZIP} -cd < data/$$l/train.id.gz | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	    echo "|" >> $@; \
 	  else \
 	    echo "           |" >> $@; \
@@ -287,16 +332,16 @@ Statisics.md:
 	echo "|-----------|------------|------------|------------|------------|------------|" >> $@
 	for l in ${TATOEBA_PAIRS3}; do \
 	  echo -n "|  $$l  | " >> $@; \
-	  cat data/$$l/test.ids | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	  cat data/$$l/test.id | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	  echo -n "| " >> $@; \
-	  if [ -e data/$$l/dev.ids ]; then \
-	    cat data/$$l/dev.ids | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	  if [ -e data/$$l/dev.id ]; then \
+	    cat data/$$l/dev.id | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	  else \
 	    echo -n "           " >> $@; \
 	  fi; \
 	  echo -n "| " >> $@; \
-	  if [ -e data/$$l/train.ids.gz ]; then \
-	    ${GZIP} -cd < data/$$l/train.ids.gz | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	  if [ -e data/$$l/train.id.gz ]; then \
+	    ${GZIP} -cd < data/$$l/train.id.gz | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	    echo -n "| " >> $@; \
 	    ${GZIP} -cd < data/$$l/train.src.gz | wc -w | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	    echo -n "| " >> $@; \

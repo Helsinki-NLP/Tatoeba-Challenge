@@ -1,4 +1,4 @@
-id	sa	Saya tidak ada nafsu makan.	न भिभक्षामि ।
-id	sa	Halo, apa kabar?	भो कः विशेषः?
-id	sa	Apa kabar?	कः विशेषः?
-id	sa	Itu benar!	एवमेतत् ।
+ind	san_Deva	Saya tidak ada nafsu makan.	न भिभक्षामि ।
+ind	san_Deva	Halo, apa kabar?	भो कः विशेषः?
+ind	san_Deva	Apa kabar?	कः विशेषः?
+ind	san_Deva	Itu benar!	एवमेतत् ।

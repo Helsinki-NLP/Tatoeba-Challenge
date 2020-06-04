@@ -1,65 +1,65 @@
-kw	pl	25 bloodh ov.	Mam 25 lat.
-kw	pl	A wre’ta kewsel nihonek?	Czy mówisz po japońsku?
-kw	pl	Ny grysav yn Duw.	Nie wierzę w Boga.
-kw	pl	Yma dhymm dew vab ha diw vyrgh.	Mam dwóch synów i dwie córki.
-kw	pl	Yma diwros koth dhymm.	Mam stary rower.
-kw	pl	Hi yw ow hwor.	Ona jest moją siostrą.
-kw	pl	Eus arghans dhywgh?	Macie pieniądze?
-kw	pl	A yll’ta ow gweres?	Możesz mi pomóc?
-kw	pl	My a’m beus diwros koth.	Mam stary rower.
-kw	pl	Deg, ugens, deg warn ugens, dew-ugens, deg ha dew-ugens, tri-ugens, deg ha tri-ugens, peswar-ugens, deg ha peswar-ugens, kans.	Dziesięć, dwadzieścia, trzydzieści, czterdzieści, pięćdziesiąt, sześćdziesiąt, siedemdziesiąt, osiemdziesiąt, dziewięćdziesiąt, sto.
-kw	pl	Yma ow broder byghan ow mires orth an bellwolok.	Mój mały brat ogląda TV.
-kw	pl	Nyns eus den vyth y’n stevel.	Nikogo nie ma w pokoju.
-kw	pl	Ple’ma dha skol?	Gdzie jest Twoja szkoła?
-kw	pl	Ple’ma Britney Spears?	Gdzie jest Britney Spears?
-kw	pl	Dewdhek bloodh ov.	Mam dwanaście lat.
-kw	pl	Yma dhymm kath ha ki.	Mam kota i psa.
-kw	pl	Pyth yw dha hanow?	Jak się nazywasz?
-kw	pl	Nyns eus den vyth y’n stevel.	W pokoju nie ma nikogo.
-kw	pl	Pyth yw dha hanow?	Jak masz na imię?
-kw	pl	Prag yth es’ta ow kul hemma?	Czemu Ty to robisz?
-kw	pl	Nyns eus fleghes dhymm.	Nie mam dzieci.
-kw	pl	Prag yth esos ow kul hemma?	Czemu Ty to robisz?
-kw	pl	Seytek bloodh yw ow howethes.	Moja przyjaciółka ma siedemnaście lat.
-kw	pl	Ple feu Tom genys?	Gdzie się urodził Tom?
-kw	pl	Pymp bloodh warn ugens ov.	Mam dwadzieścia pięc lat.
-kw	pl	Gorthugher da!	Dobry wieczór.
-kw	pl	Fatla genes?	Jak się masz?
-kw	pl	Ny’m beus tokyn.	Nie mam biletu.
-kw	pl	Nyns eus dhyn marnas te.	Mamy tylko herbatę.
-kw	pl	Eus mona dhywgh?	Macie pieniądze?
-kw	pl	Yma’gan kath y’n gegin.	Nasz kot jest w kuchni.
-kw	pl	Helen, homm yw ow heniterow.	Helen, to moja kuzynka.
-kw	pl	Ow babi a vynn kewsel.	Moje niemowlę chce mówić.
-kw	pl	Nyns esa den vyth y’n stevel.	W pokoju nie było nikogo.
-kw	pl	Pyth yw agas hanow?	Jak się pan nazywa?
-kw	pl	Farshad yw ow hanow.	Nazywam się Farshad.
-kw	pl	Yth esa Pablo ha María omma.	Pablo i Maria byli tutaj.
-kw	pl	Ple’th esos ta?	Gdzie jesteś?
-kw	pl	Pandr’a vyn’ta dhe wul?	Co chcesz robić?
-kw	pl	Farshad yw ow hanow.	Mam na imię Farszad.
-kw	pl	Ple’ma ow lyver?	Gdzie jest moja książka ?
-kw	pl	Na red y’n stevel-ma.	Nie czytaj w tym pokoju.
-kw	pl	Ow hwor yw hi.	Ona jest moją siostrą.
-kw	pl	Yma dhymm kath ha ki. Du yw an gath ha gwynn yw an ki.	Mam kota i psa. Kot jest czarny, a pies biały.
-kw	pl	Ple’ma va?	Gdzie on jest?
-kw	pl	Yma kudyn bras dhe Tom.	Tom ma wielki problem.
-kw	pl	Duw genes, Sayoko.	Do widzenia, Sayoko.
-kw	pl	25 bloodh ov.	Mam dwadzieścia pięc lat.
-kw	pl	Ny allav dybri.	Nie mogę jeść.
-kw	pl	Ny goskav yn ta.	Nie śpię za dobrze.
-kw	pl	Nyns eus tokyn dhymm.	Nie mam biletu.
-kw	pl	Piw os ta?	Kto ty?
-kw	pl	Eus dhywgh hwerydh?	Czy ma pan siostrę?
-kw	pl	Ny wor.	On nie wie.
-kw	pl	Eus arghans dhis?	Masz pieniądze?
-kw	pl	Pyth yw hanow dha vyrgh?	Jak ma na imie twoja córka?
-kw	pl	My a’th kar!	Kocham cie!
-kw	pl	Eus mona dhis?	Masz pieniądze?
-kw	pl	Nos da, Mammik.	Dobranoc, mamo.
-kw	pl	Ygor yw an daras.	Drzwi są otwarte.
-kw	pl	Nos dha, Mammik.	Dobranoc, mamo.
-kw	pl	Nyns eus genen marnas te.	Mamy tylko herbatę.
-kw	pl	Yw hemma dha lyver jy?	Czy to twoja książka?
-kw	pl	Yw hemma dha lyver?	Czy to twoja książka?
-kw	pl	Helen, hemm yw ow henderow.	Helen, to mój kuzyn.
+cor	pol	25 bloodh ov.	Mam 25 lat.
+cor	pol	A wre’ta kewsel nihonek?	Czy mówisz po japońsku?
+cor	pol	Ny grysav yn Duw.	Nie wierzę w Boga.
+cor	pol	Yma dhymm dew vab ha diw vyrgh.	Mam dwóch synów i dwie córki.
+cor	pol	Yma diwros koth dhymm.	Mam stary rower.
+cor	pol	Hi yw ow hwor.	Ona jest moją siostrą.
+cor	pol	Eus arghans dhywgh?	Macie pieniądze?
+cor	pol	A yll’ta ow gweres?	Możesz mi pomóc?
+cor	pol	My a’m beus diwros koth.	Mam stary rower.
+cor	pol	Deg, ugens, deg warn ugens, dew-ugens, deg ha dew-ugens, tri-ugens, deg ha tri-ugens, peswar-ugens, deg ha peswar-ugens, kans.	Dziesięć, dwadzieścia, trzydzieści, czterdzieści, pięćdziesiąt, sześćdziesiąt, siedemdziesiąt, osiemdziesiąt, dziewięćdziesiąt, sto.
+cor	pol	Yma ow broder byghan ow mires orth an bellwolok.	Mój mały brat ogląda TV.
+cor	pol	Nyns eus den vyth y’n stevel.	Nikogo nie ma w pokoju.
+cor	pol	Ple’ma dha skol?	Gdzie jest Twoja szkoła?
+cor	pol	Ple’ma Britney Spears?	Gdzie jest Britney Spears?
+cor	pol	Dewdhek bloodh ov.	Mam dwanaście lat.
+cor	pol	Yma dhymm kath ha ki.	Mam kota i psa.
+cor	pol	Pyth yw dha hanow?	Jak się nazywasz?
+cor	pol	Nyns eus den vyth y’n stevel.	W pokoju nie ma nikogo.
+cor	pol	Pyth yw dha hanow?	Jak masz na imię?
+cor	pol	Prag yth es’ta ow kul hemma?	Czemu Ty to robisz?
+cor	pol	Nyns eus fleghes dhymm.	Nie mam dzieci.
+cor	pol	Prag yth esos ow kul hemma?	Czemu Ty to robisz?
+cor	pol	Seytek bloodh yw ow howethes.	Moja przyjaciółka ma siedemnaście lat.
+cor	pol	Ple feu Tom genys?	Gdzie się urodził Tom?
+cor	pol	Pymp bloodh warn ugens ov.	Mam dwadzieścia pięc lat.
+cor	pol	Gorthugher da!	Dobry wieczór.
+cor	pol	Fatla genes?	Jak się masz?
+cor	pol	Ny’m beus tokyn.	Nie mam biletu.
+cor	pol	Nyns eus dhyn marnas te.	Mamy tylko herbatę.
+cor	pol	Eus mona dhywgh?	Macie pieniądze?
+cor	pol	Yma’gan kath y’n gegin.	Nasz kot jest w kuchni.
+cor	pol	Helen, homm yw ow heniterow.	Helen, to moja kuzynka.
+cor	pol	Ow babi a vynn kewsel.	Moje niemowlę chce mówić.
+cor	pol	Nyns esa den vyth y’n stevel.	W pokoju nie było nikogo.
+cor	pol	Pyth yw agas hanow?	Jak się pan nazywa?
+cor	pol	Farshad yw ow hanow.	Nazywam się Farshad.
+cor	pol	Yth esa Pablo ha María omma.	Pablo i Maria byli tutaj.
+cor	pol	Ple’th esos ta?	Gdzie jesteś?
+cor	pol	Pandr’a vyn’ta dhe wul?	Co chcesz robić?
+cor	pol	Farshad yw ow hanow.	Mam na imię Farszad.
+cor	pol	Ple’ma ow lyver?	Gdzie jest moja książka ?
+cor	pol	Na red y’n stevel-ma.	Nie czytaj w tym pokoju.
+cor	pol	Ow hwor yw hi.	Ona jest moją siostrą.
+cor	pol	Yma dhymm kath ha ki. Du yw an gath ha gwynn yw an ki.	Mam kota i psa. Kot jest czarny, a pies biały.
+cor	pol	Ple’ma va?	Gdzie on jest?
+cor	pol	Yma kudyn bras dhe Tom.	Tom ma wielki problem.
+cor	pol	Duw genes, Sayoko.	Do widzenia, Sayoko.
+cor	pol	25 bloodh ov.	Mam dwadzieścia pięc lat.
+cor	pol	Ny allav dybri.	Nie mogę jeść.
+cor	pol	Ny goskav yn ta.	Nie śpię za dobrze.
+cor	pol	Nyns eus tokyn dhymm.	Nie mam biletu.
+cor	pol	Piw os ta?	Kto ty?
+cor	pol	Eus dhywgh hwerydh?	Czy ma pan siostrę?
+cor	pol	Ny wor.	On nie wie.
+cor	pol	Eus arghans dhis?	Masz pieniądze?
+cor	pol	Pyth yw hanow dha vyrgh?	Jak ma na imie twoja córka?
+cor	pol	My a’th kar!	Kocham cie!
+cor	pol	Eus mona dhis?	Masz pieniądze?
+cor	pol	Nos da, Mammik.	Dobranoc, mamo.
+cor	pol	Ygor yw an daras.	Drzwi są otwarte.
+cor	pol	Nos dha, Mammik.	Dobranoc, mamo.
+cor	pol	Nyns eus genen marnas te.	Mamy tylko herbatę.
+cor	pol	Yw hemma dha lyver jy?	Czy to twoja książka?
+cor	pol	Yw hemma dha lyver?	Czy to twoja książka?
+cor	pol	Helen, hemm yw ow henderow.	Helen, to mój kuzyn.

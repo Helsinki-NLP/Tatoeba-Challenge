@@ -1,870 +1,870 @@
-zsm	id	Tiada sesiapa yang membantu saya.	Tak seorang pun membantu saya.
-id	zsm	Langit berwarna biru.	Langit berwarna biru.
-id	zsm	Diamlah!	Diamlah!
-zsm	id	Saya belum tengok itu wayang.	Saya belum menonton film itu.
-id	zsm	Kegiatan senam sangat disarankan untuk menjaga kesehatan, yaitu sekurang-kurangnya 30 menit, dua kali seminggu.	Aktiviti senaman adalah sangat digalakkan untuk mengekalkan kesihatan, iaitu sekurang-kurangnya selama 30 minit, dua kali seminggu.
-min	id	Murah bana sadonyo.	Semuanya sangat murah.
-id	zsm	Saya harus melakukan sesuatu.	Aku kena buat sesuatu.
-max	id	Kita tara bole makang ayam.	Saya tidak boleh makan ayam.
-max	id	Ngana bikiapa?	Ada apa denganmu?
-min	id	Ambo indak yakin do kalau ambo tau iko atau ndak.	Saya tidak yakin apakah saya mengetahui hal ini atau tidak.
-id	zsm	Kamu dapat membelinya di toko buku.	Kamu boleh membelinya di kedai buku.
-max	id	Ngana ada makang apa?	Apa yang sedang kamu makan?
-zsm	id	Sudah berapa kali awak menonton wayang itu?	Sudah berapa kali kamu menonton film itu?
-max	id	Ngana mu pigi di mana?	Mau ke mana?
-zsm	id	Anda telah melawat Menara Tokyo?	Apakah anda sudah mengunjungi Menara Tokyo?
-id	zsm	Saya guru bahasa Jepang.	Saya seorang guru bahasa Jepun.
-id	max	Bob biasanya tidur jam sepuluh.	Biasa Bob tidor jam spulu.
-id	zsm	Majalah apapun boleh.	Mana-mana satu majalah pun boleh.
-zsm	id	Kamu semua mesti membacanya.	Kalian semua harus membacanya.
-id	max	Sudah minum obat?	Su minum obat ka balong?
-max	id	Ngana paling suka olahraga yang bagimana?	Apa olahraga favoritmu?
-id	max	Nama saya Ichiro Tanaka.	Kita pe nama Ichiro Tanaka.
-id	min	Ingat!	Ingek!
-max	id	Kita pe nama Ichiro Tanaka.	Nama saya Ichiro Tanaka.
-id	max	Piza adalah makanan kesukaanku.	Kita paling suka skali pizza suda.
-max	id	Di dapur ada piso ka tarada?	Apakah di dapur ada pisau?
-id	max	Hentikan!	Barenti!
-max	id	Langit su baorens.	Warna langit sudah berubah menjadi jingga.
-id	max	Pulau itu ditemukan oleh siapa?	Sapa yang dapa pulau itu?
-max	id	Mangkali.	Mungkin.
-id	zsm	Tunggu sebentar.	Tunggu sebentar.
-id	min	Dimanakah tempat yang ramai disini yang bisa untuk berbisnis?	Dima tampek nan rami disiko untuak manggaleh.
-zsm	id	Tidak ada kejayaan yang mutlak di dunia, hanya kemajuan yang berterusan.	Tidak ada keberhasilan yang mutlak di dunia, hanya kemajuan yang terus-menerus.
-id	zsm	Sekarang, keadaannya sudah tak terkendali.	Sekarang, situasi sudah tidak terkawal.
-zsm	id	Secara amnya, wanita hidup sepuluh tahun lebih lama daripada lelaki.	Secara umum, wanita hidup sepuluh tahun lebih lama dibanding laki-laki.
-zsm	id	Berapa harganya?	Berapa harganya?
-zsm	id	Tangga ini diperbuat daripada kayu jati.	Tangga ini dibuat dari kayu jati.
-id	max	Anda akan pergi ke mana?	Ngoni mu pigi di mana?
-id	min	Kamu serius atau bercanda ketika mengatakan ini?	Ang ko sedang bagarah ato serius katiko mangecek an ko?
-id	zsm	Dia membelikan aku sebuah mainan kecil.	Dia belikan saya sebuah mainan kecil.
-id	zsm	Saya tidak mengerti.	Saya tidak faham.
-id	min	Betul!	Batua!
-id	min	Apakah ini dijual per kilo, sebungkus, atau eceran?	Iko di jua per kilo atau sabungkuih atau ciek ciek?
-max	id	Kita masi balong dengar dia pe kabar.	Aku masih belum menerima kabar darinya.
-max	id	Di Cina tu torang pe fam taru di muka, nanti torang pe nama taru di balakang.	Di cina, kami meletakkan nama keluarga kami didepan, kemudian nama kami.
-id	min	Gila!	Gilo!
-min	id	Yo bana tu?	Benarkah?
-min	id	Bara sewa rumah ko?	Berapa sewa rumah ini?
-id	max	Tidurlah Una, hari sudah larut malam.	Tidor suda Una, su lat ni.
-id	min	Ya!	Yo!
-zsm	id	Ini kerana aku berkawan dengan seseorang yang membuat perbezaan.	Ini karena aku berteman dengan seseorang yang membuat perbedaan.
-id	min	Kemari.	Kamari.
-id	max	Warna langit sudah berubah menjadi jingga.	Langit su baorens.
-zsm	id	Saya perlu sebuah basikal baru.	Saya butuh sebuah sepeda baru.
-id	zsm	Saya ingin bertemu kamu.	Saya nak jumpa awak.
-zsm	id	Proses pemindahan mangsa banjir itu berjalan perlahan kerana kekurangan sukarelawan.	Proses evakuasi korban banjir terhambat karena kekurangan sukarelawan.
-id	max	Kaki Tom terluka.	Tom pe kaki badara.
-zsm	id	Dia tidak berminat pada politik.	Dia tidak tertarik pada politik.
-id	max	Bisakah kau bermain piano?	Ngana bisa barmaeng piano ka tarada?
-min	id	Dima tampek nan rami disiko untuak manggaleh.	Dimanakah tempat yang ramai disini yang bisa untuk berbisnis?
-max	id	Ngana su perna sampe di Prancis ka balong?	Apa kau pernah pergi ke Prancis sebelumnya?
-zsm	id	Mungkin Mona Lisa itu lukisan yang paling terkenal yang pernah diciptakan.	Mona Lisa mungkin adalah lukisan paling terkenal yang pernah dibuat.
-max	id	Ngana suka skali warna apa?	Apa warna kesukaanmu?
-max	id	Mu pigi di mana?	Mau ke mana?
-id	zsm	Dia takut adiknya akan gagal.	Dia takut adiknya akan gagal.
-id	max	Apa yang sedang kamu makan?	Ngana ada makang apa?
-id	zsm	Saya belum menonton film itu.	Saya belum tengok itu wayang.
-max	id	Una deng Sakila tu Una yang kaka.	Una lebih tua daripada Sakila.
-id	zsm	Dia sudah membuat kesalahan besar.	Dia telah membuat sebuah kesilapan serius.
-max	id	Dia tara akang kase maaf kita.	Dia tidak akan pernah memaafkanku.
-zsm	id	Tak boleh!	Tak bisa!
-zsm	id	Macam akulah, dia sering pergi ke Nunukan untuk bercuti.	Kayak gue, dia sering liburan ke Nunukan.
-id	max	Apa kamu mempunyai korek?	Ngana ada gares ka tarada?
-zsm	id	Dia telah bercakap dengan presiden.	Dia sudah berbicara dengan presiden.
-max	id	Kita bera calana.	Saya berak di celana.
-max	id	Kita tara mangarti bahasa Inggris.	Saya tidak mengerti bahasa Inggris.
-min	id	Batua!	Betul!
-id	max	Saya sangat lelah.	Kita lala skali.
-max	id	Kita tara tau bali tiket tu bagimana.	Saya tidak tahu cara membeli tiket.
-id	min	Mana yang merupakan sekolah yang menelaah tentang ideologi Buddhisme?	Sakolah ma nan mandalami paham budha?
-zsm	id	Namakan negara pengeksport emas terbesar di dunia.	Sebutkan negara pengekspor emas terbesar di dunia.
-max	id	Bunu lampu ka.	Tolong matikan lampunya.
-zsm	id	Aktiviti senaman adalah sangat digalakkan untuk mengekalkan kesihatan, iaitu sekurang-kurangnya selama 30 minit, dua kali seminggu.	Kegiatan senam sangat disarankan untuk menjaga kesehatan, yaitu sekurang-kurangnya 30 menit, dua kali seminggu.
-id	max	Punya korek?	Ngana ada macis ka tarada?
-max	id	Kita inga ngana.	Aku sangat rindu padamu!
-zsm	id	Boleh saya singgah di rumah awak dalam perjalanan pulang nanti?	Bolehkah saya mampir di rumahmu dalam perjalanan pulang nanti?
-id	zsm	Kadang kita lupa mempunyai dua tangan, satu untuk membantu diri sendiri dan keluarga, sementara satu lagi untuk membantu orang lain.	Kadangkala kita terlupa bahawa mempunyai dua belah tangan; satu untuk membantu diri sendiri dan keluarga, manakala sebelah lagi untuk membantu insan lain.
-max	id	Su malam tu jang kaluar suda.	Jangan pergi keluar setelah hari menjadi gelap.
-max	id	Mona Lisa tu sapa?	Siapakah Mona Lisa?
-min	id	Samparono!	Sempurna!
-max	id	Kita su tara tau mu bilang bagimana.	Saya tidak tahu harus berbicara apa.
-id	zsm	Mata uang Prancis dulunya adalah franc, dan simbolnya adalah ₣. Meskipun tidak lagi digunakan di Prancis, franc masih digunakan di beberapa negara bekas jajahan Prancis seperti Guinea.	Mata wang Perancis adalah franc, dan simbolnya adalah ₣. Walaupun ia tidak lagi digunakan di Perancis, franca masih digunakan di beberapa bekas tanah jajahan Perancis seperti Guinea.
-id	max	Mati?	Dia su maninggal?
-zsm	id	Boleh awak periksa tekanan tayar itu?	Apakah kamu bisa mengecek tekanan bannya?
-zsm	id	Saya pusing ke kanan.	Saya belok ke kanan.
-id	zsm	Seperti kata pepatah "Waktu adalah uang".	Bak kata pepatah, "Masa itu emas."
-id	max	Tim mana yang kamu favoritkan?	Ngana fens tim apa?
-zsm	id	Kotak ini mengandungi epal.	Kotak ini berisi apel.
-id	min	Saya tidak yakin apakah saya mengetahui hal ini atau tidak.	Ambo indak yakin do kalau ambo tau iko atau ndak.
-id	zsm	Paragraf ini maksudnya bagaimana?	Apakah maksud perenggan ini?
-zsm	id	Di sini, pengurusan masa dan disiplin diri amat penting.	Di sini, mengelola waktu dan disiplin diri amat penting.
-id	min	Terserah!	Tasarah!
-zsm	id	Dia berkata, "Saya mahu menjadi saintis."	Dia pernah berkata, "Aku ingin menjadi seorang ilmuwan".
-zsm	id	Saya tak ingat!	Saya tidak ingat!
-zsm	id	Dompet saya sudah hilang.	Saya kehilangan dompet.
-id	zsm	Kenapa anda menolak permintaannya untuk menaikkan gaji?	Kenapa anda menolak permintaannya untuk menaikan gajinya?
-max	id	Boston tu di mana?	Boston itu di mana?
-max	id	Bikiapa?	Untuk apa?
-id	max	Rapatnya akan dimulai pada pukul tiga.	Jam tiga rapat mulai.
-zsm	id	Sebuah gempa bumi besar magnitud 8.8 skala richter melanda kepulauan Jepun hari ini.	Sebuah gempa berkekuatan 8.8 skala richter mengguncang kepulauan Jepang hari ini.
-id	zsm	Mona Lisa mungkin adalah lukisan paling terkenal yang pernah dibuat.	Mungkin Mona Lisa itu lukisan yang paling terkenal yang pernah diciptakan.
-zsm	id	Dia belikan saya sebuah mainan kecil.	Dia membelikan aku sebuah mainan kecil.
-max	id	Bikiapa dia tara datang?	Kenapa dia tidak datang?
-id	min	Tunggu!	Tunggu!
-id	min	Berapa harga rata-rata untuk sewa toko disini?	Bara harago sewa toko siko?
-id	max	Aku masih belum menerima kabar darinya.	Kita masi balong dengar dia pe kabar.
-zsm	id	Hanya Tuhan yang mengetahui betapa tulusnya saya mencintai awak.	Hanya Tuhan yang mengetahui betapa tulus saya mencintai kamu.
-id	zsm	Saya tidak punya sepatu yang cocok untuk acara itu.	Saya tiada kasut yang sesuai untuk acara itu.
-zsm	id	Jangan sampai awak menjadi anak derhaka seperti Si Tanggang!	Jangan sampai kamu menjadi anak durhaka seperti Sang Malin Kundang!
-zsm	id	Pelajar itu pergi tanpa menyebut apa-apa.	Murid itu pergi tanpa berkata sesuatu.
-max	id	Kita ada basambunyi.	Aku sedang sembunyi.
-id	max	Apakah sore ini akan hujan?	Sadiki sore akang ujang ka tarada?
-id	zsm	Abjad bahasa Esperanto terdiri dari 28 huruf: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Sistem abjad bahasa Esperanto terdiri daripada 28 huruf: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.
-zsm	id	Bilik ini akan menjadi lebih panas.	Ruangan ini akan segera menjadi lebih hangat.
-max	id	Ngana dari mana, Karen?	Kamu dari mana, Karen?
-zsm	id	Bila anda dilahirkan?	Kapan kamu dilahirkan?
-id	zsm	Jangan lupakan kami!	Jangan lupakan kami!
-id	zsm	Dia kurang cantik dibanding kakaknya.	Dia kurang cantik berbanding kakaknya.
-id	zsm	Pandanglah burung-burung di langit, yang tidak menabur dan tidak menuai dan tidak mengumpulkan bekal dalam lumbung, namun diberi makan oleh Bapamu yang di sorga. Bukankah kamu jauh melebihi burung-burung itu?	Lihatlah burung di udara yang tidak menyemai benih, tidak menuai tuaian, dan tidak mengumpulkan hasil di dalam jelapang, tetapi Bapa kamu yang di syurga memelihara semuanya! Bukankah kamu jauh lebih berharga daripada burung?
-id	max	Dia menghilang dalam kegelapan.	Galap-galap bagitu dia bailang.
-min	id	Awak indak tau do kalau ado rumah sakik di siko atau indak.	Aku tidak tahu apakah ada rumah sakit di sekitar sini.
-zsm	id	Ini ialah fesyen terkini.	Ini adalah model pakaian terkini.
-id	zsm	Ifulki Ṭom did-i bahra.	Tom sangat baik kepada saya.
-min	id	Litak?	Lapar?
-id	max	Apakah saya boleh membuka jendela?	Bole kita buka jendela?
-id	zsm	Jangan berbicara tentang bisnis saat kita makan.	Jangan bercakap tentang perniagaan semasa kita makan.
-max	id	Kita ada basambunyi ni.	Aku sedang sembunyi.
-zsm	id	Sekarang, situasi sudah tidak terkawal.	Sekarang, keadaannya sudah tak terkendali.
-max	id	Biking diri sampe.	Betapa sombongnya dirimu.
-zsm	id	Ayah saya memiliki kereta yang sama sebagai Encik Kimura.	Ayah saya punya mobil yang sama dengan Pak Kimura.
-min	id	Rancak.	Bagus.
-id	max	Tim mana yang kamu favoritkan?	Ngana fens tim mana?
-zsm	id	Tom menggunakan Windows 7.	Tom menggunakan Windows 7.
-id	zsm	Kamu tidak berubah sama sekali.	Awak tidak berubah langsung.
-max	id	Di Cina tu fam di muka, nama di balakang.	Di cina, kami meletakkan nama keluarga kami didepan, kemudian nama kami.
-zsm	id	Bermula dari sekarang, kita akan bertemu di bilik ini.	Mulai sekarang, kita akan berjumpa di kamar ini.
-max	id	Mama ada mumasa di dapur.	Ibu sedang masak di dapur.
-max	id	Di kita pe ruma ada ayam tiga ekor.	Ada tiga ayam di rumah saya.
-max	id	FBI mu tangka Dan me ana itu su kabur kamuka.	FBI mencoba untuk menangkap Dan, tapi dia berhasil melarikan diri.
-id	max	Tolong matikan lampunya.	Kase mati lampu ka.
-max	id	Biking diri sampe.	Kamu sangat sombong.
-id	max	Ada batu di dalam sepatu saya.	Di kita pe spatu ada batu dalam situ.
-id	max	Kamu mau makan apa hari ini?	Ini hari ngana mu makang apa?
-id	max	FBI mencoba untuk menangkap Dan, tapi dia berhasil melarikan diri.	FBI mu tangka Dan me ana itu su kabur kamuka.
-max	id	Kita su suru-suru dorang la badiam dalam ruma me dorang tara dengar.	Aku bersikeras menyuruh mereka untuk tetap tinggal, tetapi mereka tidak sekali-kali mendengarkan perkataanku.
-zsm	id	Ken mengumpulkan duit syiling lama.	Ken mengkoleksi uang-uang kuno.
-zsm	id	Apakah maksud perenggan ini?	Paragraf ini maksudnya bagaimana?
-max	id	Jam tiga rapat mulai.	Rapatnya akan dimulai pada pukul tiga.
-max	id	Dorang di mana ni?	Di mana mereka?
-zsm	id	Kali ini, Najwa seolah-olah enggan melepaskan suaminya pergi.	Kali ini, Najwa seolah-olah enggan melepaskan suaminya pergi.
-zsm	id	Dia telah membuat sebuah kesilapan serius.	Dia sudah membuat kesalahan besar.
-max	id	Torang pangge-pangge dia Mike.	Kami memanggil dia Mike.
-id	min	Ini masjid.	Iko masjid.
-zsm	id	Rasanya, saya akan memakan angin minggu ini.	Kelihatannya, saya akan berwisata minggu ini.
-zsm	id	Ini kumpulan keempat yang membuat persembahan.	Ini kelompok keempat yang tampil.
-min	id	Lompek!	Lompat!
-max	id	Bikiapa ngana buka kotak itu?	Kenapa kau membuka kotaknya?
-min	id	Capeklah!	Cepatlah!
-id	zsm	Bagian atas gunung itu diselimuti salju.	Bahagian atas gunung itu diliputi oleh salji.
-id	zsm	Mulai sekarang, kita akan berjumpa di kamar ini.	Bermula dari sekarang, kita akan bertemu di bilik ini.
-max	id	Ngana orang mana?	Dari mana asalmu?
-zsm	id	Saya tak boleh bercakap kerana saya dalam lif yang penuh dengan orang.	Aku tak bisa bicara karena sedang di lift yang sesak.
-id	max	Kamu itu masih muda.	Ngana masi kacil.
-min	id	Dingin.	Dingin.
-id	zsm	Teman yang dirindukan.	Kawan yang dirindui.
-id	max	Aku sedang sembunyi.	Kita ada basambunyi ni.
-zsm	id	Ialah sebuah peraturan yang bagus untuk melihat dua-dua arah sebelum melintasi jalan raya di mana-mana sahaja.	Aturan yang bagus untuk melihat kedua arah sebelum menyeberang jalan raya di mana saja.
-id	max	Kau melihat Nancy di mana?	Ngana lia Nancy di mana?
-zsm	id	Mona Lisa dilukis oleh Leonardo da Vinci.	Mona Lisa dilukis oleh Leonardo da Vinci.
-id	zsm	Saat saya pulang, saya mendapati mobil saya hilang!	Apabila saya pulang, saya mendapati bahawa kereta saya hilang!
-id	zsm	Saat kita menanam padi, rumput pun ikut tumbuh tapi saat kita menanam rumput, tidak pernah tumbuhnya padi. Dalam kita melakukan "kebaikan" kadang-kadang hal yang "buruk" turut menyertai. Namun, saat melakukan "keburukan" tidak ada "kebaikan" bersamanya. Jangan bosan untuk berbuat "baik" meskipun kadang-kadang tidak sempurna.	Saat kita menanam padi, rumput pun ikut tumbuh tapi saat kita menanam rumput, tidak pernah tumbuhnya padi. Dalam kita melakukan "kebaikan" kadang-kadang hal yang "buruk" turut menyertai. Namun, saat melakukan "keburukan" tidak ada "kebaikan" bersamanya. Jangan bosan untuk berbuat "baik" meskipun kadang-kadang tidak sempurna.
-zsm	id	Mana-mana satu majalah pun boleh.	Majalah apapun boleh.
-zsm	id	Saya tidak boleh membaiki komputer.	Saya tidak bisa memperbaiki komputer.
-id	zsm	Bakar surat ini setelah anda membacanya.	Bakar surat ini selepas anda membacanya.
-zsm	id	Saya pergi ke sekolah pada pukul tujuh.	Saya berangkat sekolah jam tujuh.
-zsm	id	Kemudahan kelas pertama tetapi pemikiran bertaraf kelas ketiga.	Fasilitasnya kelas satu tetapi cara pikirnya setingkat kelas tiga.
-id	min	Apa?	Apo?
-max	id	Ada gares?	Punya korek?
-min	id	Ngantuak?	Ngantuk?
-max	id	Mu pi mana?	Mau ke mana?
-zsm	id	Saya mahu mengundang kamu ke parti.	Saya ingin mengundang kamu ke pesta.
-id	max	Saya tidak mengerti bahasa Inggris.	Kita tara mangarti bahasa Inggris.
-zsm	id	Bila anda membukai kedai baru anda?	Kapan kamu membuka toko barunya?
-id	zsm	Saya tidak suka belajar.	Saya tidak suka belajar.
-id	zsm	Keluarga saya dari Malaysia.	Keluarga saya dari Malaysia.
-zsm	id	Bolehkah saya makan epal ini?	Saya boleh makan apel ini?
-id	max	Tarik!	Hela!
-id	max	Kenapa dia tidak datang?	Bikiapa dia tara kamari?
-id	max	Saya boleh makan apel ini?	Bole kita makang ini apel?
-zsm	id	Saya masih belum biasa dengan pekerjaan itu.	Saya belum terbiasa dengan pekerjaan itu.
-id	max	Tutup pintunya ketika kamu pergi.	Kalo mu pigi tu tutu pintu.
-max	id	Bikiapa dia tara kamari?	Kenapa dia tidak datang?
-zsm	id	Buku saya amat berat.	Buku saya amat berat.
-max	id	Biasa Bob tidor jam spulu.	Bob biasanya tidur jam sepuluh.
-id	zsm	Kelihatannya, saya akan berwisata minggu ini.	Rasanya, saya akan memakan angin minggu ini.
-id	zsm	Aku tak bisa bicara karena sedang di lift yang sesak.	Saya tak boleh bercakap kerana saya dalam lif yang penuh dengan orang.
-id	zsm	Timmu santai mengerjakan tugasnya karena ini hari libur.	Pasukanmu santai mengerjakan tugasnya kerana ini hari cuti.
-id	zsm	Mona Lisa dilukis oleh Leonardo da Vinci.	Mona Lisa dilukis oleh Leonardo da Vinci.
-zsm	id	Bak kata pepatah, "Masa itu emas."	Seperti kata pepatah "Waktu adalah uang".
-id	zsm	Jembatan Golden Gate terbuat dari besi.	Jambatan Golden Gate itu diperbuat daripada besi.
-id	zsm	Saya malas.	Saya malas.
-max	id	Ngoni tau reggae tu bagimana?	Apa pendapat Anda tentang Reggae?
-id	zsm	Kampung ini dikenal karena berbagai hasil pertaniannya seperti coklat dan nanas.	Kampung ini terkenal dengan pelbagai hasil pertanian seperti koko dan nanas.
-zsm	id	Saya nak jumpa awak.	Saya ingin bertemu kamu.
-zsm	id	Apabila saya bangun, matahari telah terbit tinggi di dalam langit.	Ketika saya bangun, matahari sudah terbit tinggi di langit.
-id	max	Apa kau pernah pergi ke Prancis sebelumnya?	Ngana su perna pigi di Prancis ka balong?
-zsm	id	Bagus!	Bagus!
-max	id	Kita pe jam di mana ni?	Di mana jamku?
-id	zsm	Buku itu kecil.	Buku itu kecil.
-max	id	Buka pintu tu!	Dia membuka pintu.
-max	id	Ngana fens tim mana?	Tim mana yang kamu favoritkan?
-id	zsm	Berapa harganya?	Berapa harga untuk ini?
-max	id	Tom deng kita tu dia yang kaka.	Tom lebih tua daripada aku.
-min	id	Ngeceklah!	Bicaralah!
-zsm	id	Kamu tak payah risau.	Anda tidak perlu kuatir dengan hal itu.
-zsm	id	Salam dunia	Apa kabar, dunia!
-id	zsm	Ayo kita ke masjid.	Jom kita ke masjid.
-max	id	Tom deng kita tu dia yang basar.	Tom lebih besar ketimbang aku.
-id	zsm	Saya akan membaca sebuah buku ketika anda tidur.	Saya akan membaca sebuah buku ketika anda tidur.
-id	zsm	Profesor Brown menjelaskan suatu hal dengan baik.	Profesor Brown menerangkan perkara-perkara dengan baik.
-zsm	id	Sangat jarang kita mendengar ada orang yang mencanang perihal rumahtangganya kepada orang lain.	Jarang sekali kita mendengar ada orang yang menceritakan semua tentang rumah tangganya kepada orang lain.
-zsm	id	Hatiku dipenuhi dengan kebahagiaan.	Hatiku penuh dengan kebahagiaan.
-id	zsm	Para anjing pemburu mengikuti bau dari rubah itu.	Anjing-anjing pemburu itu diikuti bau musang itu.
-id	min	Selamat!	Salamaik!
-id	max	Punya korek?	Ngana ada gares ka tarada?
-max	id	Kita lapar skali.	Aku sangat lapar!
-max	id	Mama e, capat ka.	Beritahu aku kalau ada yang bisa kubantu.
-min	id	Den sangko ang sedang flu.	Apakah kamu sedang sakit flu?
-zsm	id	Kalau saya anda, saya tidak akan membuat perkara begitu.	Kalau saya jadi anda, saya tidak akan berbuat seperti itu.
-zsm	id	Dia telah pergi ke Switzerland.	Dia sudah pergi ke Swiss.
-id	zsm	Dia tidak tertarik pada politik.	Dia tidak berminat pada politik.
-id	zsm	Saya lupa bertanya padanya.	Saya terlupa untuk bertanyakannya.
-id	zsm	Saya dari Saitama.	Saya berasal dari Saitama.
-zsm	id	Mata wang Perancis adalah franc, dan simbolnya adalah ₣. Walaupun ia tidak lagi digunakan di Perancis, franca masih digunakan di beberapa bekas tanah jajahan Perancis seperti Guinea.	Mata uang Prancis dulunya adalah franc, dan simbolnya adalah ₣. Meskipun tidak lagi digunakan di Prancis, franc masih digunakan di beberapa negara bekas jajahan Prancis seperti Guinea.
-max	id	Dalam kita pe spatu ada batu.	Ada batu di dalam sepatu saya.
-id	max	Saya tidak boleh makan ayam.	Kita tara bole makang ayam.
-zsm	id	Bakar surat ini selepas anda membacanya.	Bakar surat ini setelah anda membacanya.
-zsm	id	Langit berwarna biru.	Langit berwarna biru.
-zsm	id	Hampir-hampir saya dilanggar kereta.	Saya hampir saja ditabrak mobil.
-id	zsm	Saya lapar.	Saya lapar.
-id	min	Pergi!	Pai!
-id	zsm	Rasa air laut asin.	Rasa air laut masin.
-id	max	Boston itu di mana?	Boston tu di mana?
-zsm	id	Awak mesti membersihkan bilik awak.	Kamu harus membersihkan kamarmu.
-id	zsm	Sebuah gempa berkekuatan 8.8 skala richter mengguncang kepulauan Jepang hari ini.	Sebuah gempa bumi besar magnitud 8.8 skala richter melanda kepulauan Jepun hari ini.
-id	zsm	Dia mengundangnya untuk bermain sepak bola dengan kami.	Dia menjumputnya untuk bermain bola sepak dengan kami.
-zsm	id	Saya tiada di pejabat hari ini.	Saya tidak ada di kantor hari ini.
-id	max	Kenapa kau membuka kotaknya?	Bikiapa ngana buka kotak itu?
-max	id	Tom deng kita tu Tom yang tinggi.	Tom lebih tinggi dari saya.
-zsm	id	Aku berasa sangat rendah diri sehingga pernah berfikir hendak berhenti bersekolah sahaja.	Saya merasa kurang percaya diri bahkan pernah berpikir untuk berhenti sekolah.
-id	zsm	Ruangan ini akan segera menjadi lebih hangat.	Bilik ini akan menjadi lebih panas.
-id	zsm	Ketika saya bangun, matahari sudah terbit tinggi di langit.	Apabila saya bangun, matahari telah terbit tinggi di dalam langit.
-min	id	Mati?	Mati?
-id	max	Aku sedang sembunyi.	Kita ada basambunyi.
-id	zsm	Saya kehilangan dompet.	Dompet saya sudah hilang.
-min	id	Salamaik!	Selamat!
-zsm	id	Apa Khabar?	Apa kabar?
-id	min	Berisik!	Anok lah!
-zsm	id	Muhammad memang seorang yang suka berseloroh.	Muhammad memang seorang yang senang bercanda.
-id	zsm	Kesehatan lebih penting dibanding emas.	Kesihatan lebih penting berbanding dengan emas.
-id	min	Semangat!	Sumangaik!
-min	id	Kalua!	Keluar!
-max	id	Beso surat itu su sampe.	Surat itu akan sampai besok.
-min	id	Tampek ko labiah rancak pado nan tadi.	Saya pikir tempat ini lebih bagus daripada yang ini.
-id	zsm	Aku tidak punya pilihan lain selain pergi ke sana.	Saya tidak mempunyai pilihan selain pergi ke sana.
-id	zsm	Bolehkah saya mampir di rumahmu dalam perjalanan pulang nanti?	Boleh saya singgah di rumah awak dalam perjalanan pulang nanti?
-zsm	id	Stesen kereta api akan tutup mulai esok.	Stasiun kereta akan ditutup mulai besok.
-zsm	id	Saya mengharapkan awak untuk mengawasi Tom.	Aku mengandalkanmu untuk mengawasi Tom.
-id	zsm	Ia sesekali mengirim sepucuk surat kepada ibundanya.	Beliau menulis sepucuk surat kepada ibunya setiap sekarang dan kemudian.
-zsm	id	Kad kredit boleh?	Bisa pakai kartu kredit?
-id	min	Aku tidak tahu apakah ada rumah sakit di sekitar sini.	Awak indak tau do kalau ado rumah sakik di siko atau indak.
-max	id	Tom deng kita tu dia yang tinggi.	Tom lebih tinggi ketimbang aku.
-min	id	Tarimo kasih banyak!	Terima kasih banyak!
-zsm	id	Sudahkah awak pergi ke pilihan raya hari ini?	Apakah Anda sudah pergi ke tempat pemungutan suara?
-max	id	Macam kita su lapar ka.	Aku merasa lapar.
-max	id	Kita lala skali.	Saya sangat lelah.
-zsm	id	Saya terlupa untuk bertanyakannya.	Saya lupa bertanya padanya.
-id	zsm	Tom menggunakan Windows 7.	Tom menggunakan Windows 7.
-id	min	Jangan meremehkan kekuatanku.	Jan remehan tanago wak.
-zsm	id	Apa yang awak ingin jadi apabila awak besar?	Saat besar nanti kamu ingin menjadi apa?
-id	min	Apakah kamu sedang sakit flu?	Den sangko ang sedang flu.
-zsm	id	Awak baru?	Kamu orang baru?
-min	id	Jago!	Bangun!
-id	zsm	Apakah kamu percaya akan Tuhan?	Awak percaya kepada Tuhan?
-zsm	id	Tom akan pergi ke Australia musim sejuk ini.	Tom akan pergi ke Australia musim dingin ini.
-id	zsm	Apa acara TV kesukaanmu?	Apakah rancangan televisyen kegemaran awak?
-id	min	Mati?	Mati?
-min	id	Ambo harus baraja bahaso jopang.	Saya harus belajar bahasa jepang.
-id	zsm	Kamu sebaiknya pulang ke rumah.	Awak perlu pulang ke rumah.
-id	zsm	Apa nama ibu kota negara Amerika?	Apakah nama ibu negara Amerika?
-max	id	Su minum obat ka balong?	Sudah minum obat?
-id	zsm	Dia pernah berkata, "Aku ingin menjadi seorang ilmuwan".	Dia berkata, "Saya mahu menjadi saintis."
-id	zsm	Saya mandi sehari sekali.	Saya mandi sekali setiap hari.
-id	zsm	Jam sudah menunjukkan pukul 12 tengah malam.	Jam sudah menunjukkan pukul 12 tengah malam.
-id	max	Apa yang sedang kamu makan?	Ngana ada makang apa tu?
-id	zsm	Muhammad memang seorang yang senang bercanda.	Muhammad memang seorang yang suka berseloroh.
-max	id	Kase manyala lampu ka.	Tolong nyalakan lampunya.
-zsm	id	Berapa lamakah kamu telah tinggal di Osaka?	Sudah berapa lama kamu tinggal di Osaka?
-max	id	Ngana bisa bicara bahasa Indonesia ka tarada?	Apakah Anda bisa berbicara bahasa Indonesia?
-max	id	Ngana lia Nancy di mana?	Kau melihat Nancy di mana?
-id	max	Dia memiliki dua puluh orang anak.	Dia pe ana dua pulu orang.
-id	max	Tidak! Saya tidak mau pergi.	Tarada! Kita tara mau pigi!
-id	max	Berapa harga dasi ini?	Dasi satu ni dia pe harga barapa?
-id	zsm	Ayolah!	Jomlah!
-zsm	id	Yang ini tak mahal.	Ini tidak mahal.
-id	max	Apa olahraga favoritmu?	Ngana paling suka olahraga yang bagimana?
-id	zsm	Kayak gue, dia sering liburan ke Nunukan.	Macam akulah, dia sering pergi ke Nunukan untuk bercuti.
-max	id	Ini hari ngana mu makang apa?	Kamu mau makan apa hari ini?
-min	id	Masih barangok nyo?	Nafasnya?
-id	zsm	Tak bisa!	Tak boleh!
-id	min	Diam!	Anok!
-min	id	Iyo.	Ya.
-id	zsm	Berapa harganya?	Berapa harganya?
-id	min	gratis	Gratis.
-min	id	Bia wak ma antaan pulang.	Biarkan aku mengantarmu pulang.
-id	zsm	Lagu ini mudah dipelajari.	Lagu ini adalah mudah untuk dipelajari.
-max	id	Beso Tom pigi kase tinggal Kobe.	Tom akan meninggalkan Kobe besok pagi.
-min	id	Makan malam kama wak kini ko?	Makan malam kemana kita sekarang?
-id	max	Beritahu aku kalau ada yang bisa kubantu.	Mama e, capat ka.
-id	zsm	Ini tidak mahal.	Yang ini tak mahal.
-id	zsm	Kamu sudah makan nasi?	Awak sudah makan nasi?
-zsm	id	Kadangkala kita terlupa bahawa mempunyai dua belah tangan; satu untuk membantu diri sendiri dan keluarga, manakala sebelah lagi untuk membantu insan lain.	Kadang kita lupa mempunyai dua tangan, satu untuk membantu diri sendiri dan keluarga, sementara satu lagi untuk membantu orang lain.
-id	min	Semuanya sangat murah.	Murah bana sadonyo.
-id	zsm	Ayah saya punya mobil yang sama dengan Pak Kimura.	Ayah saya memiliki kereta yang sama sebagai Encik Kimura.
-id	zsm	Kapan kamu dilahirkan?	Bila anda dilahirkan?
-id	max	Apakah kamu sudah tidur?	Su tidor?
-min	id	Panduto!	Pembohong!
-max	id	Ngana bole kase pinjam kita doi 10.000 yen?	Bisakah kau meminjamkanku 10.000 yen?
-max	id	Tadi malam ngana pigi di mana?	Semalam kamu ke mana?
-zsm	id	Aku tidak tahu kenapa Tuhan beri kita 10 jari, kerana kita hanya perlukan tiga.	Aku tidak tau mengapa Tuhan memberi kita 10 jari, karena kita hanya butuh tiga.
-id	max	Kami merasakan gempa bumi yang sangat kuat.	Torang dapa rasa tana goyang kuat skali.
-id	max	Ada batu di dalam sepatu saya.	Dalam kita pe spatu ada batu.
-zsm	id	Dia kelihatan sedikit letih.	Dia terlihat sedikit letih.
-max	id	Dia pigi di mana?	Dia pergi ke mana?
-zsm	id	Berapa harga untuk ini?	Berapa harganya?
-id	zsm	Apa kabar?	Apa Khabar?
-id	min	Lapar?	Litak?
-id	zsm	Saya akan mengantar anda ke bandar udara.	Saya akan memandu anda ke lapangan terbang.
-min	id	Alah pai ka TPS tadi?	Sudah pergi ke tempat pemungutan suara tadi?
-id	zsm	Dengki itu bagaikan tulang yang busuk.	Kedengkian adalah seperti kebusukan tulang.
-min	id	Sakolah ma nan mandalami paham budha?	Mana yang merupakan sekolah yang menelaah tentang ideologi Buddhisme?
-id	max	Aku bersikeras menyuruh mereka untuk tetap tinggal, tetapi mereka tidak sekali-kali mendengarkan perkataanku.	Kita su bilang ulang-ulang la badiam dalam ruma me dorang tara dengar.
-zsm	id	Saya mahu belajar di luar negeri.	Saya ingin belajar di luar negeri.
-id	max	Saya tidak tahu harus berbicara apa.	Kita su tara tau mu bilang bagimana.
-zsm	id	Saya akan membaca sebuah buku ketika anda tidur.	Saya akan membaca sebuah buku ketika anda tidur.
-id	zsm	Sebutkan negara pengekspor emas terbesar di dunia.	Namakan negara pengeksport emas terbesar di dunia.
-max	id	Tara pigi skola kong di ruma.	Bukannya sekolah, dia malah di rumah.
-id	max	Dia menghilang dalam kegelapan.	Galap-galap bagitu dia pigi bailang.
-id	zsm	Dia adalah orang yang baik, tetapi sesungguhnya, dia tidak terlalu pandai.	Dialah orang yang baik, tapi sesungguhnya, dia tak berapa pandai.
-zsm	id	Mereka tidak lagi bertarung selama empat puluh tahun lebih.	Mereka sudah tidak bertarung selama lebih dari 40 tahun.
-id	max	Sudah kuduga.	Su rai da.
-zsm	id	Lihatlah burung di udara yang tidak menyemai benih, tidak menuai tuaian, dan tidak mengumpulkan hasil di dalam jelapang, tetapi Bapa kamu yang di syurga memelihara semuanya! Bukankah kamu jauh lebih berharga daripada burung?	Pandanglah burung-burung di langit, yang tidak menabur dan tidak menuai dan tidak mengumpulkan bekal dalam lumbung, namun diberi makan oleh Bapamu yang di sorga. Bukankah kamu jauh melebihi burung-burung itu?
-max	id	Dia su maninggal?	Mati?
-zsm	id	Tunggu sebentar.	Tunggu sebentar.
-id	max	Kyoto dulunya adalah ibukota Jepang.	Dulu tu Kyoto to Japang pe ibukota.
-id	min	Nafasnya?	Masih barangok nyo?
-id	zsm	Sudah berapa kali kamu menonton film itu?	Sudah berapa kali awak menonton wayang itu?
-min	id	Jaleh.	Jelas.
-id	zsm	Kali ini, Najwa seolah-olah enggan melepaskan suaminya pergi.	Kali ini, Najwa seolah-olah enggan melepaskan suaminya pergi.
-zsm	id	Anda tahu siapa yang lukiskan gambar ini?	Kamu tahu siapa yang melukis gambar ini?
-id	max	Bisakah kau meminjamkanku 10.000 yen?	Ngana bole kase pinjam kita doi 10.000 yen?
-id	zsm	Maaf, bisa tolong ambilkan garam dan mericanya?	Maafkan saya, bolehkah tolong ambilkan garam dan ladanya?
-id	max	Kapan hari ulang tahunmu?/Kapan kamu berulang tahun.	Tempo apa ngana pe ulang tahun?
-id	max	Apa yang dilakukan ibumu saat kamu kembali ke rumah.	Pas ngana bale di ruma, ngana pe mama ada biking apa?
-zsm	id	Saya berasal dari Saitama.	Saya dari Saitama.
-zsm	id	Rasa air laut masin.	Rasa air laut asin.
-zlm	id	Takkanlah aku terlupa nama dia kut?	Kok gue lupa ya namanya?
-id	zsm	Saya merasa kurang percaya diri bahkan pernah berpikir untuk berhenti sekolah.	Aku berasa sangat rendah diri sehingga pernah berfikir hendak berhenti bersekolah sahaja.
-id	max	Hari Valentine dirayakan pada bulan Februari.	Bulan Februari torang rayakan itu Valentine.
-id	max	Saya tidak ingat nada lagu itu.	Lagu itu pe mamanyanyi kita tara inga.
-zsm	id	Adakah sebarang pertanyaan tentang makanan?	Ada pertanyaan tentang makanannya?
-zsm	id	Saya belajar Bahasa Inggeris dan Bahasa Jepun.	Saya belajar bahasa Inggris dan bahasa Jepang.
-zsm	id	Sedih.	Sedih.
-id	zsm	Dia terlihat sedikit letih.	Dia kelihatan sedikit letih.
-id	zsm	Saya belum terbiasa dengan pekerjaan itu.	Saya masih belum biasa dengan pekerjaan itu.
-id	min	Benarkah?	Yo bana tu?
-id	zsm	Ken mengkoleksi uang-uang kuno.	Ken mengumpulkan duit syiling lama.
-id	min	Bicaralah!	Ngeceklah!
-id	zsm	Ini karena aku berteman dengan seseorang yang membuat perbedaan.	Ini kerana aku berkawan dengan seseorang yang membuat perbezaan.
-zsm	id	Bahkan ada juga yang miskin melarat, saat majoriti menikmati kemakmuran ekonomi.	Bahkan ada juga yang miskin melarat, saat sebagian besar menikmati kemakmuran ekonomi.
-zsm	id	Kami sudah buat hal yang mustahil.	Kami telah melakukan hal yang mustahil.
-min	id	Cukuik!	Cukup!
-id	zsm	Hasil bumi lainnya termasuk batu bara, kelapa, tebu, nanas, tembakau, sayuran, sagu, tapioka, kopi, teh, jagung, dan kacang tanah.	Hasil lain termasuk arang batu, kelapa, tebu, nanas, tembakau, sayur-sayuran, sagu, ubi kayu, kopi, teh, jagung dan kacang tanah.
-zsm	id	Saat kita menanam padi, rumput pun ikut tumbuh tapi saat kita menanam rumput, tidak pernah tumbuhnya padi. Dalam kita melakukan "kebaikan" kadang-kadang hal yang "buruk" turut menyertai. Namun, saat melakukan "keburukan" tidak ada "kebaikan" bersamanya. Jangan bosan untuk berbuat "baik" meskipun kadang-kadang tidak sempurna.	Saat kita menanam padi, rumput pun ikut tumbuh tapi saat kita menanam rumput, tidak pernah tumbuhnya padi. Dalam kita melakukan "kebaikan" kadang-kadang hal yang "buruk" turut menyertai. Namun, saat melakukan "keburukan" tidak ada "kebaikan" bersamanya. Jangan bosan untuk berbuat "baik" meskipun kadang-kadang tidak sempurna.
-id	zsm	Saya akan tinggal di tempat paman saya di Kyoto.	Saya akan tinggal di tempat pakcik saya di Kyoto.
-id	max	Antara Ken dan Taro, siapa yang badannya lebih tinggi?	Ken deng Taro tu sapa yang tinggi?
-zsm	id	Kita yang perlu sentiasa peka andai ada yang memerlukan.	Kita yang perlu selalu siap sewaktu-waktu dibutuhkan.
-id	max	Ada tiga ayam di rumah saya.	Di kita pe ruma ada ayam tiga ekor.
-zsm	id	Dia selalu mengemas meja selepas makan.	Dia selalu merapikan meja setelah makan.
-max	id	Pas ngana bale di ruma, ngana pe mama ada biking apa?	Apa yang dilakukan ibumu saat kamu kembali ke rumah.
-max	id	Kita su 18 taong.	Saya berusia 18 tahun.
-id	max	Kamu sangat sombong.	Biking diri sampe.
-zsm	id	Lupakannya.	Lupakan.
-zsm	id	Dia bertanya jika saya tahu alamatnya	Dia bertanya apakah saya tahu alamat orang itu.
-id	zsm	Selamat!	Tahniah!
-id	max	Tom lebih besar ketimbang aku.	Tom deng kita tu dia yang basar.
-id	zsm	Semalam sangat dingin, makanya kami tidak ke luar, di dalam rumah saja.	Disebabkan semalam sangat sejuk, kami tidak keluar dari rumah dan hanya duduk di dalam rumah.
-id	max	Tom punya teman yang ayahnya seorang astronot.	Tom ada tamang satu, dia pe papa astronot.
-id	min	Awas!	Awas!
-zsm	id	Saya telah meminta daripadanya untuk menghantar buku itu kepada kita.	Saya telah memintanya untuk mengantar buku itu kepada kita.
-zsm	id	Ahli rombongan dapat bertukar-tukar fikiran dan saling membantu untuk meringankan serta menyelesaikan sesuatu tugasan.	Anggota kelompok dapat bertukar pikiran dan saling membantu untuk meringankan dan menyelesaikan suatu pekerjaan.
-id	zsm	Kotak ini berisi apel.	Kotak ini mengandungi epal.
-id	zsm	Padahal hanya lari sebentar, tapi lutut saya sudah gemetar.	Dengan berlari sedikit sahaja, kaki saya bergetar.
-id	zsm	Di mana rumah sakit yang paling dekat?	Di mana hospital yang paling dekat?
-max	id	Ngana masi kacil.	Kamu itu masih muda.
-id	min	Tom berjanji padaku bahwa dia tidak akan melakukan hal itu lagi.	Tom bajanji ka awak untuak ndak mangarajoan itu lai.
-id	max	Mau ke mana?	Mu pigi di mana?
-id	max	Dari mana asalmu?	Ngana orang mana?
-zsm	id	Lesen memandu anda telah tamat tempohnya.	Surat Izin Mengemudi anda sudah habis masa berlakunya.
-id	max	Ibu sedang masak di dapur.	Mama ada mumasa di dapur.
-max	id	Tidor suda Una, su lat ni.	Tidurlah Una, hari sudah larut malam.
-zsm	id	Bilakah akan teksi bertolak ke lapangan terbang?	Kapan taksi akan berangkat ke bandar udara?
-id	zsm	Tolong saya ambilkan buku di atas meja itu.	Tolong saya ambilkan buku di atas meja itu.
-id	max	Apa kau pernah pergi ke Prancis sebelumnya?	Ngana su perna sampe di Prancis ka balong?
-id	zsm	Aturan yang bagus untuk melihat kedua arah sebelum menyeberang jalan raya di mana saja.	Ialah sebuah peraturan yang bagus untuk melihat dua-dua arah sebelum melintasi jalan raya di mana-mana sahaja.
-id	min	Lompat!	Lompek!
-id	zsm	Hujannya berlanjut hingga sehari penuh.	Hujan itu berlanjutan sehari.
-id	min	Bangun!	Jago!
-max	id	Tempo apa ngana pe ulang tahun?	Kapan hari ulang tahunmu?/Kapan kamu berulang tahun.
-id	max	Tolong matikan lampunya.	Bunu lampu ka.
-min	id	Iko masjid.	Ini masjid.
-max	id	Sadiki sore akang ujang ka tarada?	Apakah sore ini akan hujan?
-max	id	Kita su kasana di dia pe ruma me dia tarada kong.	Aku sudah pergi ke rumahnya tetapi dia tidak berada di sana.
-id	max	Betapa sombongnya dirimu.	Biking diri sampe.
-min	id	Makanlah!	Makanlah!
-id	zsm	Pak guru, izinkan saya pergi ke kamar kecil.	Cikgu, izinkan saya pergi ke tandas.
-id	max	Sekarang, Muiriel sudah berumur dua puluh tahun.	Skarang Muriel su 20 taong.
-id	max	Enam derajat dibawah nol.	Ini min anam derajat.
-max	id	Kita pe tiket ilang.	Aku kehilangan tiketku.
-zsm	id	Hujan itu berlanjutan sehari.	Hujannya berlanjut hingga sehari penuh.
-id	zsm	Tom akan pergi ke Australia musim dingin ini.	Tom akan pergi ke Australia musim sejuk ini.
-id	zsm	Saya suka makan semangka	Saya suka untuk makan tembikai.
-id	zsm	Teman yang lain tidak bisa datang karena ada urusan masing-masing.	Kawan-kawan yang lain tidak dapat datang kerana masing-masing ada urusan lain.
-id	zsm	Saya telah memintanya untuk mengantar buku itu kepada kita.	Saya telah meminta daripadanya untuk menghantar buku itu kepada kita.
-id	zsm	Waktu luangnya digunakan untuk main golf.	Masa lapangnya digunakan untuk bermain golf.
-id	zsm	Bahasa Melayu sudah terbukti berperan sebagai bahasa keilmuan sejak lama.	Bahasa Melayu sudah terbukti berperanan sebagai bahasa ilmu sejak dahulu lagi.
-zsm	id	Tolong saya ambilkan buku di atas meja itu.	Tolong saya ambilkan buku di atas meja itu.
-id	zsm	Saya boleh makan apel ini?	Bolehkah saya makan epal ini?
-zsm	id	Kenapa anda menolak permintaannya untuk menaikan gajinya?	Kenapa anda menolak permintaannya untuk menaikkan gaji?
-id	zsm	Jarang sekali kita mendengar ada orang yang menceritakan semua tentang rumah tangganya kepada orang lain.	Sangat jarang kita mendengar ada orang yang mencanang perihal rumahtangganya kepada orang lain.
-id	max	Tim mana yang kamu favoritkan?	Ngana fens apa?
-zsm	id	Tom ingin memakai kasut baru nya.	Tom ingin mengenakan sepatu barunya.
-max	id	Skarang Muriel su 20 taong.	Sekarang, Muiriel sudah berumur dua puluh tahun.
-max	id	Bae-bae la jang babasa.	Tom menunggu Mary pulang ke rumah.
-id	zsm	Di sini, mengelola waktu dan disiplin diri amat penting.	Di sini, pengurusan masa dan disiplin diri amat penting.
-id	zsm	Pemilik toko tidak menyadari barang-barang di tokonya sudah banyak yang kadaluwarsa.	Pekedai itu tidak perasan barang-barang di kedainya sudah banyak yang tamat tempoh.
-id	max	Tom lebih tinggi ketimbang aku.	Tom deng kita tu dia yang tinggi.
-min	id	Gilo!	Gila!
-id	min	Apakah itu penting?	Apo itu paralu?
-id	zsm	Sedih.	Sedih.
-id	max	Mati?	Maninggal?
-max	id	Barenti!	Hentikan!
-zsm	id	Masa lapangnya digunakan untuk bermain golf.	Waktu luangnya digunakan untuk main golf.
-zsm	id	Kenapa awak ada komputer riba tetapi tiada telefon bimbit?	Kenapa kamu punya komputer jinjing tetapi tidak punya telepon seluler?
-zsm	id	Jomlah!	Ayolah!
-id	max	Jaga bayinya sebentar.	Lia tu ana bayi sadiki.
-id	zsm	Hari ini, saya tidak mau pergi ke sekolah.	Hari ini, saya tidak mahu pergi ke sekolah.
-zsm	id	Diamlah!	Diamlah!
-zsm	id	Buku itu kecil.	Buku itu kecil.
-id	max	Sudahlah.	Kase tinggal suda.
-zsm	id	Saya tidak suka belajar.	Saya tidak suka belajar.
-id	zsm	Aku tinggal di rumah selama seminggu.	Saya tinggal di rumah selama seminggu.
-zsm	id	Jawablah.	Jawablah.
-id	zsm	Saya tidak ada di kantor hari ini.	Saya tiada di pejabat hari ini.
-id	zsm	Tom bilang dia akan membayar semuanya.	Tom berkata dia akan membayar semua perkara itu.
-min	id	Lari!	Lari!
-zsm	id	Anjing-anjing pemburu itu diikuti bau musang itu.	Para anjing pemburu mengikuti bau dari rubah itu.
-id	min	Berapa sewa rumah ini?	Bara sewa rumah ko?
-id	zsm	Tom menyarankan agar kita menunggu di sini.	Tom telah mencadangkan agar kita menunggu di sini.
-id	zsm	Saya minta maaf jika saya tak bisa menerima cintamu.	Maafkan saya jika saya tidak dapat menerima cinta awak.
-id	zsm	Apakah kamu bisa mengecek tekanan bannya?	Boleh awak periksa tekanan tayar itu?
-id	zsm	Aku tidak tau mengapa Tuhan memberi kita 10 jari, karena kita hanya butuh tiga.	Aku tidak tahu kenapa Tuhan beri kita 10 jari, kerana kita hanya perlukan tiga.
-id	max	Dia membuka pintu.	Buka pintu tu!
-id	zsm	Lupakan.	Lupakannya.
-id	min	Aku makan apel.	Awak makan apel.
-max	id	Ngana ada gares ka tarada?	Punya korek?
-max	id	Di kita pe spatu ada batu dalam situ.	Ada batu di dalam sepatu saya.
-zlm	id	Kau pernah tak bakar kot kau ngan sebatang rokok?	Lu pernah nggak bakarin jas lu sama sebatang rokok?
-max	id	Sapa yang dapa pulau itu?	Pulau itu ditemukan oleh siapa?
-max	id	Kase mati lampu ka.	Tolong matikan lampunya.
-zsm	id	Bahagian atas gunung itu diliputi oleh salji.	Bagian atas gunung itu diselimuti salju.
-id	min	Hujankah?	Hujan hari?
-max	id	Torang pe tifi ada dua biji.	Kami memiliki dua buah televisi.
-id	zsm	Kerongkongan saya kering.	Tekak saya kering.
-max	id	Pulau satu tu torang lia dari atas pesawat tu pe bagus bahaya.	Dilihat dari pesawat, pulau itu terlihat indah sekali.
-max	id	Tarada! Kita tara mau pigi!	Tidak! Saya tidak mau pergi.
-max	id	Kita su bilang ulang-ulang la badiam dalam ruma me dorang tara dengar.	Aku bersikeras menyuruh mereka untuk tetap tinggal, tetapi mereka tidak sekali-kali mendengarkan perkataanku.
-max	id	Bae-bae la jang kanal ujang.	Tom menunggu Mary pulang ke rumah.
-id	max	Di cina, kami meletakkan nama keluarga kami didepan, kemudian nama kami.	Di Cina tu fam di muka, nama di balakang.
-id	min	Tidak.	Indak.
-min	id	Iko di jua per kilo atau sabungkuih atau ciek ciek?	Apakah ini dijual per kilo, sebungkus, atau eceran?
-id	max	Dia tidak sebodoh yang kamu kira.	Ngana kira dia pambodo macam itu? Tarada e!
-zsm	id	Dia takut adiknya akan gagal.	Dia takut adiknya akan gagal.
-id	max	Mau ke mana?	Ngana mu pigi di mana?
-id	zsm	Semua jalan berakhir di Roma.	Semua jalan sampai ke Rome.
-zsm	id	Awak sudah makan nasi?	Kamu sudah makan nasi?
-id	zsm	Ada pertanyaan tentang makanannya?	Adakah sebarang pertanyaan tentang makanan?
-zsm	id	Tom berkata dia akan membayar semua perkara itu.	Tom bilang dia akan membayar semuanya.
-id	zsm	Saya tidak ingat!	Saya tak ingat!
-id	max	Una lebih tua daripada Sakila.	Una deng Sakila tu Una yang kaka.
-id	zsm	Hatiku penuh dengan kebahagiaan.	Hatiku dipenuhi dengan kebahagiaan.
-id	max	Tom menunggu Mary pulang ke rumah.	Basombar la jang babasa.
-id	min	Sudah pergi ke tempat pemungutan suara tadi?	Alah pai ka TPS tadi?
-zsm	id	Pulau Sebatik adalah salah satu kawasan sempadan antara Indonesia dan Malaysia.	Pulau Sebatik merupakan daerah perbatasan Indonesia-Malaysia.
-zsm	id	Nampak saya ok tak?	Apa saya terlihat baik-baik saja?
-max	id	Ngana pe mama ada biking apa di ruma pas ngana bale?	Apa yang dilakukan ibumu saat kamu kembali ke rumah.
-max	id	Tadi ngana ada di sana?	Kamu tadi di sana?
-max	id	Ngana ada macis ka tarada?	Punya korek?
-id	max	Dua ratus orang meninggal karena kolera tahun lalu.	Kolera bage sampe 200 orang maninggal.
-zsm	id	Awak tidak berubah langsung.	Kamu tidak berubah sama sekali.
-id	zsm	Kapan kamu membuka toko barunya?	Bila anda membukai kedai baru anda?
-zsm	id	Cikgu, izinkan saya pergi ke tandas.	Pak guru, izinkan saya pergi ke kamar kecil.
-id	zsm	Hobiku menulis cerita.	Hobi saya ialah menulis cerita.
-max	id	Ujang turung su ampa hari.	Hujannya bertahan selama empat hari.
-id	zsm	Dia sudah berbicara dengan presiden.	Dia telah bercakap dengan presiden.
-zsm	id	Dia sedang belajar sekarang.	Dia sedang belajar.
-id	zsm	Saya berangkat sekolah jam tujuh.	Saya pergi ke sekolah pada pukul tujuh.
-zsm	id	Apakah rancangan televisyen kegemaran awak?	Apa acara TV kesukaanmu?
-zsm	id	Awak tidak dibenarkan untuk menyentuh lukisan itu.	Kamu tidak diperbolehkan untuk menyentuh lukisan itu.
-max	id	Su tidor?	Apakah kamu sudah tidur?
-id	zsm	Saya butuh sebuah sepeda baru.	Saya perlu sebuah basikal baru.
-id	min	Ini bukan ikan.	Indak ikan ko do.
-zsm	id	Kedengkian adalah seperti kebusukan tulang.	Dengki itu bagaikan tulang yang busuk.
-id	max	Saya berusia 18 tahun.	Kita su 18 taong.
-id	max	Tom lebih tinggi dari saya.	Tom deng kita tu Tom yang tinggi.
-id	max	Rumahku berlantai 2.	Kita pe ruma dua lantai.
-id	max	Aku bersikeras menyuruh mereka untuk tetap tinggal, tetapi mereka tidak sekali-kali mendengarkan perkataanku.	Kita su suru-suru dorang la badiam dalam ruma me dorang tara dengar.
-id	max	Kami bermain sepak bola kemarin.	Kalmaring torang barmaeng bola kaki.
-id	zsm	Apakah Anda sudah pergi ke tempat pemungutan suara?	Sudahkah awak pergi ke pilihan raya hari ini?
-id	zsm	Saya membayar mobil itu dengan uang tunai.	Saya membayar kereta itu dengan wang tunai.
-max	id	Ngana ni baru dari mana?	Kamu dari mana saja?
-min	id	Ingek!	Ingat!
-id	min	Pembohong!	Panduto!
-id	zsm	Saya hampir saja ditabrak mobil.	Hampir-hampir saya dilanggar kereta.
-id	max	Apa pendapat Anda tentang Reggae?	Ngana tau reggae tu bagimana?
-zsm	id	Kampung ini terkenal dengan pelbagai hasil pertanian seperti koko dan nanas.	Kampung ini dikenal karena berbagai hasil pertaniannya seperti coklat dan nanas.
-id	zsm	Fasilitasnya kelas satu tetapi cara pikirnya setingkat kelas tiga.	Kemudahan kelas pertama tetapi pemikiran bertaraf kelas ketiga.
-id	zsm	Hanya Tuhan yang mengetahui betapa tulus saya mencintai kamu.	Hanya Tuhan yang mengetahui betapa tulusnya saya mencintai awak.
-zsm	id	Apa yang patut untuk saya bawa?	Saya harus bawa apa?
-id	zsm	Kita yang perlu selalu siap sewaktu-waktu dibutuhkan.	Kita yang perlu sentiasa peka andai ada yang memerlukan.
-id	zsm	Tom mengatakannya sebagai hiburan.	Tom berkata bahawa untuk mencuit hati.
-zsm	id	Saya seorang guru bahasa Jepun.	Saya guru bahasa Jepang.
-min	id	Awak makan apel.	Aku makan apel.
-id	zsm	Kue ini enak. Coba dimakan.	Kek ini sedap. Cubalah makan.
-id	zsm	Aku mulai bisa melihatnya, tapi belum bisa membaca pikirannya.	Aku dah mula nampak dia, tapi aku belum dapat menyentuh fikirannya.
-min	id	Jan remehan tanago wak.	Jangan meremehkan kekuatanku.
-zsm	id	Hasil lain termasuk arang batu, kelapa, tebu, nanas, tembakau, sayur-sayuran, sagu, ubi kayu, kopi, teh, jagung dan kacang tanah.	Hasil bumi lainnya termasuk batu bara, kelapa, tebu, nanas, tembakau, sayuran, sagu, tapioka, kopi, teh, jagung, dan kacang tanah.
-min	id	Apo lagunyo ka jadi terkenal masih diraguan.	Ayahku tidak akan membiarkanku menikahinya.
-id	min	Jelas.	Jaleh.
-max	id	Ngana su perna pigi di Prancis ka balong?	Apa kau pernah pergi ke Prancis sebelumnya?
-id	zsm	Sampai tahap mana kita perlu mempercayainya?	Sehingga tahap mana kita perlu percayakan dia?
-id	max	Mereka berkata seperti apa?	Dong bilang bagimana?
-zsm	id	Apabila saya pulang, saya mendapati bahawa kereta saya hilang!	Saat saya pulang, saya mendapati mobil saya hilang!
-id	max	"Apa hujannya terlihat akan mereda?" "Aku harap begitu."	"Ujang su mu barenti ka"? "Kita harap la dia bagitu."
-id	zsm	Kalian semua harus membacanya.	Kamu semua mesti membacanya.
-max	id	"Kabar bagimana?" "Bae-bae saja, trima kasi e."	"Apa kabar?" "Kabar saya baik, terima kasih."
-max	id	Galap-galap bagitu dia bailang.	Dia menghilang dalam kegelapan.
-id	zsm	Apakah anda sudah mengunjungi Menara Tokyo?	Anda telah melawat Menara Tokyo?
-id	max	Tom dan Sue sudah saling mengenal sejak 1985.	Tom deng Sue su baku kanal dari taong 1985.
-id	zsm	Ini kelompok keempat yang tampil.	Ini kumpulan keempat yang membuat persembahan.
-zsm	id	Aku dah mula nampak dia, tapi aku belum dapat menyentuh fikirannya.	Aku mulai bisa melihatnya, tapi belum bisa membaca pikirannya.
-id	max	Hujannya bertahan selama empat hari.	Ujang turung su ampa hari.
-id	zsm	Jawablah.	Jawablah.
-zsm	id	Beliau menulis sepucuk surat kepada ibunya setiap sekarang dan kemudian.	Ia sesekali mengirim sepucuk surat kepada ibundanya.
-zsm	id	Saya tidak boleh ingat kembali melodi lagu itu.	Saya tidak ingat nada lagu itu.
-id	zsm	Dia bertanya apakah saya tahu alamat orang itu.	Dia bertanya jika saya tahu alamatnya
-zsm	id	Saya malas.	Saya malas.
-id	zsm	Kami telah melakukan hal yang mustahil.	Kami sudah buat hal yang mustahil.
-zsm	id	Dengan berlari sedikit sahaja, kaki saya bergetar.	Padahal hanya lari sebentar, tapi lutut saya sudah gemetar.
-id	zsm	Saya perlu belajar bahasa Jepang.	Saya perlu belajar bahasa Jepun.
-id	max	Siapakah Mona Lisa?	Mona Lisa tu sapa?
-max	id	Una masi SMA me su batunangan.	Meskipun Una masih bersekolah di SMA, dia sudah berpacaran.
-id	max	Berapa lama kau tinggal di luar negeri?	Su barapa lama ngana di luar negeri?
-id	zsm	Bagus!	Bagus!
-zsm	id	Tom berkata bahawa untuk mencuit hati.	Tom mengatakannya sebagai hiburan.
-id	zsm	Hidup bagaikan permainan catur.	Hayat bagaikan permainan catur.
-id	min	Cepatlah!	Capeklah!
-max	id	Kita pe ruma dua lantai.	Rumahku berlantai 2.
-min	id	Kamari.	Kemari.
-id	zsm	Mereka sudah tidak bertarung selama lebih dari 40 tahun.	Mereka tidak lagi bertarung selama empat puluh tahun lebih.
-zsm	id	Saya suka buku-buku Harry Potter.	Saya suka buku-buku Harry Potter.
-max	id	Ngana bisa barmaeng piano ka tarada?	Bisakah kau bermain piano?
-id	zsm	Dia sudah pergi ke Swiss.	Dia telah pergi ke Switzerland.
-zsm	id	Kesihatan lebih penting berbanding dengan emas.	Kesehatan lebih penting dibanding emas.
-zsm	id	Apakah nama ibu negara Amerika?	Apa nama ibu kota negara Amerika?
-id	max	Di mana jamku?	Kita pe jam di mana ni?
-max	id	Ngoni mu pigi di mana?	Anda akan pergi ke mana?
-id	zsm	Cobalah berkata dengan lemah lembut dan tidak memaki-maki.	Cubalah bercakap dengan lemah lembut dan tidak mencarut-marut.
-max	id	Tom pe kaki badara.	Kaki Tom terluka.
-zsm	id	Dialah orang yang baik, tapi sesungguhnya, dia tak berapa pandai.	Dia adalah orang yang baik, tetapi sesungguhnya, dia tidak terlalu pandai.
-min	id	Baranti.	Berhenti.
-zsm	id	Dimulakan!	Mulai!
-zsm	id	Profesor Brown menerangkan perkara-perkara dengan baik.	Profesor Brown menjelaskan suatu hal dengan baik.
-max	id	Maninggal?	Mati?
-zsm	id	Kamu boleh membelinya di kedai buku.	Kamu dapat membelinya di toko buku.
-id	max	Dia pergi ke mana?	Dia pigi di mana?
-zsm	id	Cubalah bercakap dengan lemah lembut dan tidak mencarut-marut.	Cobalah berkata dengan lemah lembut dan tidak memaki-maki.
-id	max	Aku sangat rindu padamu!	Kita inga ngana.
-zsm	id	Tom telah mencadangkan agar kita menunggu di sini.	Tom menyarankan agar kita menunggu di sini.
-max	id	Basombar la jang babasa.	Tom menunggu Mary pulang ke rumah.
-id	zsm	Kita salah belok.	Kita telah masuk ke simpang yang salah.
-max	id	Tom ada tamang satu, dia pe papa astronot.	Tom punya teman yang ayahnya seorang astronot.
-id	max	Saya tidak tahu cara membeli tiket.	Kita tara tau bali tiket tu bagimana.
-zsm	id	Dia juga sedang belajar Bahasa Cina.	Dia juga belajar bahasa Cina.
-id	zsm	Saat besar nanti kamu ingin menjadi apa?	Apa yang awak ingin jadi apabila awak besar?
-id	zsm	Dia selalu merapikan meja setelah makan.	Dia selalu mengemas meja selepas makan.
-zsm	id	Saya akan tinggal di tempat pakcik saya di Kyoto.	Saya akan tinggal di tempat paman saya di Kyoto.
-id	zsm	Dia sedang belajar.	Dia sedang belajar sekarang.
-id	zsm	Tom ingin mengenakan sepatu barunya.	Tom ingin memakai kasut baru nya.
-min	id	Tunggu!	Tunggu!
-zsm	id	Kawan yang dirindui.	Teman yang dirindukan.
-max	id	Su rai da.	Sudah kuduga.
-zsm	id	Hayat bagaikan permainan catur.	Hidup bagaikan permainan catur.
-id	max	Apakah di dapur ada pisau?	Di dapur ada piso ka tarada?
-zsm	id	Biarlah kita mula dari pelajaran 10.	Mari mulai dari Pelajaran 10.
-max	id	Kalo mu pigi tu tutu pintu.	Tutup pintunya ketika kamu pergi.
-zsm	id	Disebabkan semalam sangat sejuk, kami tidak keluar dari rumah dan hanya duduk di dalam rumah.	Semalam sangat dingin, makanya kami tidak ke luar, di dalam rumah saja.
-max	id	Ngana ada gares ka tarada?	Apa kamu mempunyai korek?
-id	zsm	Farhan akan mengumandangkan azan tepat ketika sudah masuk waktunya.	Farhan akan melaungkan azan tepat pada masanya apabila masuk waktu.
-zsm	id	Jambatan Golden Gate itu diperbuat daripada besi.	Jembatan Golden Gate terbuat dari besi.
-max	id	Dorang pangge-pangge ngana sapa?	Siapa nama panggilanmu ?
-id	max	Saya dari Thailand.	Kita dari Thailand.
-zsm	id	Saya membayar kereta itu dengan wang tunai.	Saya membayar mobil itu dengan uang tunai.
-id	max	Nyalakan radionya.	Putar radio tu.
-id	zsm	Secara umum, wanita hidup sepuluh tahun lebih lama dibanding laki-laki.	Secara amnya, wanita hidup sepuluh tahun lebih lama daripada lelaki.
-zsm	id	Saya suka untuk makan tembikai.	Saya suka makan semangka
-id	max	Di cina, kami meletakkan nama keluarga kami didepan, kemudian nama kami.	Di Cina tu torang pe fam taru di muka, nanti torang pe nama taru di balakang.
-zsm	id	Hari ini, saya tidak mahu pergi ke sekolah.	Hari ini, saya tidak mau pergi ke sekolah.
-id	zsm	Buku saya amat berat.	Buku saya amat berat.
-id	max	Kamu dari mana saja?	Ngana ni baru dari mana?
-zsm	id	Hobi saya ialah menulis cerita.	Hobiku menulis cerita.
-id	min	Cukup!	Cukuik!
-id	min	Saya pikir tempat ini lebih bagus daripada yang ini.	Tampek ko labiah rancak pado nan tadi.
-min	id	Indak.	Tidak.
-id	min	Sungguh terima kasih atas bantuannya.	Tarimo kasih bana untuak bantuannyo.
-zsm	id	Kek ini sedap. Cubalah makan.	Kue ini enak. Coba dimakan.
-id	zsm	Jam tangan ini perlu diperbaiki.	Jam tangan ini perlu dipasang.
-id	zsm	Tidak ada keberhasilan yang mutlak di dunia, hanya kemajuan yang terus-menerus.	Tidak ada kejayaan yang mutlak di dunia, hanya kemajuan yang berterusan.
-id	max	Kamu dari mana, Karen?	Karen, ngana dari mana?
-id	max	Apa pendapat Anda tentang Reggae?	Ngoni tau reggae tu bagimana?
-id	max	Nama keluarga saya adalah Wang.	Kita pe fam Wang.
-id	zsm	Kalau saya jadi anda, saya tidak akan berbuat seperti itu.	Kalau saya anda, saya tidak akan membuat perkara begitu.
-id	max	Tom lebih tua daripada aku.	Tom deng kita tu dia yang kaka.
-id	zsm	Sepeda saya telah dicuri semalam.	Basikal saya telah dicuri semalam.
-id	max	Apakah Anda bisa berbicara bahasa Indonesia?	Ngana bisa bicara bahasa Indonesia ka tarada?
-id	min	Makanlah!	Makanlah!
-zsm	id	Tekak saya kering.	Kerongkongan saya kering.
-zsm	id	Saya perlu belajar bahasa Jepun.	Saya perlu belajar bahasa Jepang.
-zsm	id	Maafkan saya, bolehkah tolong ambilkan garam dan ladanya?	Maaf, bisa tolong ambilkan garam dan mericanya?
-max	id	Ngana kira dia pambodo macam itu? Tarada e!	Dia tidak sebodoh yang kamu kira.
-id	max	Saya berak di celana.	Kita bera calana.
-id	max	Bukannya sekolah, dia malah di rumah.	Tara pigi skola kong di ruma.
-zsm	id	Maafkan saya jika saya tidak dapat menerima cinta awak.	Saya minta maaf jika saya tak bisa menerima cintamu.
-id	zsm	Aku mengandalkanmu untuk mengawasi Tom.	Saya mengharapkan awak untuk mengawasi Tom.
-min	id	Hujan hari?	Hujankah?
-zsm	id	Saya lapar.	Saya lapar.
-id	min	Sempurna!	Samparono!
-id	max	Kami memiliki dua buah televisi.	Torang pe tifi ada dua biji.
-id	zsm	Saya suka buku-buku Harry Potter.	Saya suka buku-buku Harry Potter.
-id	max	Kenapa dia tidak datang?	Bikiapa dia tara datang?
-zsm	id	Lagu ini adalah mudah untuk dipelajari.	Lagu ini mudah dipelajari.
-max	id	Kita dari Thailand.	Saya dari Thailand.
-id	zsm	Bisa pakai kartu kredit?	Kad kredit boleh?
-min	id	Ambo indak takuik mati.	Aku tidak takut mati.
-zsm	id	Saya tidak pandai bercakap bahasa Albania.	Saya tidak bisa berbicara dengan bahasa Albania.
-zsm	id	Saya mandi sekali setiap hari.	Saya mandi sehari sekali.
-max	id	Tom deng Sue su baku kanal dari taong 1985.	Tom dan Sue sudah saling mengenal sejak 1985.
-id	zsm	Pulau Sebatik merupakan daerah perbatasan Indonesia-Malaysia.	Pulau Sebatik adalah salah satu kawasan sempadan antara Indonesia dan Malaysia.
-max	id	Dia pe muka bulat.	Ia memiliki wajah bulat.
-min	id	Awas!	Awas!
-zsm	id	Kita telah masuk ke simpang yang salah.	Kita salah belok.
-id	max	Ia memiliki wajah bulat.	Dia pe muka bulat.
-id	min	Tenanglah.	Tananglah.
-id	min	Ada pertanyaan tentang makanannya?	Ado pertanyaan ndak tentang makanannyo?
-max	id	Putar radio tu.	Nyalakan radionya.
-max	id	Ngana tau reggae tu bagimana?	Apa pendapat Anda tentang Reggae?
-min	id	Pai!	Pergi!
-id	zsm	Saya belok ke kanan.	Saya pusing ke kanan.
-id	max	Ada apa denganmu?	Ngana bikiapa?
-max	id	Ngana musti baku bicara deng ngana pe dokter.	Kau harus berkonsultasi dengan doktermu.
-id	min	Keluar!	Kalua!
-id	zsm	Ini adalah model pakaian terkini.	Ini ialah fesyen terkini.
-zsm	id	Sehingga tahap mana kita perlu percayakan dia?	Sampai tahap mana kita perlu mempercayainya?
-id	min	Biarkan aku mengantarmu pulang.	Bia wak ma antaan pulang.
-id	zsm	Tangga ini dibuat dari kayu jati.	Tangga ini diperbuat daripada kayu jati.
-zsm	id	Aku kena buat sesuatu.	Saya harus melakukan sesuatu.
-max	id	Ngana fens tim apa?	Tim mana yang kamu favoritkan?
-id	zsm	Surat Izin Mengemudi anda sudah habis masa berlakunya.	Lesen memandu anda telah tamat tempohnya.
-id	max	Apakah saya boleh membuka jendela?	Bole kita buka jendela ka tarada?
-id	max	Tolong nyalakan lampunya.	Kase manyala lampu ka.
-id	zsm	Kamu tahu siapa yang melukis gambar ini?	Anda tahu siapa yang lukiskan gambar ini?
-zsm	id	Jom kita ke masjid.	Ayo kita ke masjid.
-id	zsm	Anda tidak perlu kuatir dengan hal itu.	Kamu tak payah risau.
-max	id	Kase tinggal suda.	Sudahlah.
-min	id	Ang ko sedang bagarah ato serius katiko mangecek an ko?	Kamu serius atau bercanda ketika mengatakan ini?
-id	max	"Apa kabar?" "Kabar saya baik, terima kasih."	"Kabar bagimana?" "Bae-bae saja, trima kasi e."
-zsm	id	Saya tinggal di rumah selama seminggu.	Aku tinggal di rumah selama seminggu.
-id	max	Dilihat dari pesawat, pulau itu terlihat indah sekali.	Pulau satu tu torang lia dari atas pesawat tu pe bagus bahaya.
-id	max	Apa yang dilakukan ibumu saat kamu kembali ke rumah.	Ngana pe mama ada biking apa di ruma pas ngana bale?
-max	id	Kalmaring torang barmaeng bola kaki.	Kami bermain sepak bola kemarin.
-id	max	Punya korek?	Ada gares?
-id	zsm	Saya ingin belajar di luar negeri.	Saya mahu belajar di luar negeri.
-id	zsm	Ada berapa banyak orang dalam kamar ini?	Ada berapa banyak orang dalam bilik ini?
-min	id	Bara harago rumah ko?	Berapa harga rumah ini?
-min	id	Anok lah!	Berisik!
-zsm	id	Basikal saya telah dicuri semalam.	Sepeda saya telah dicuri semalam.
-id	max	Kau harus berkonsultasi dengan doktermu.	Ngana musti baku bicara deng ngana pe dokter.
-id	zsm	Saya ingin mengundang kamu ke pesta.	Saya mahu mengundang kamu ke parti.
-min	id	Sumangaik!	Semangat!
-id	zsm	Tak seorang pun membantu saya.	Tiada sesiapa yang membantu saya.
-zsm	id	Saya tiada kasut yang sesuai untuk acara itu.	Saya tidak punya sepatu yang cocok untuk acara itu.
-min	id	Tasarah!	Terserah!
-id	max	Aku sangat lapar!	Kita lapar skali.
-id	zsm	Aku punya saudara kembar kakak laki-laki.	Saya mempunyai kembar lelaki.
-zsm	id	Pekedai itu tidak perasan barang-barang di kedainya sudah banyak yang tamat tempoh.	Pemilik toko tidak menyadari barang-barang di tokonya sudah banyak yang kadaluwarsa.
-max	id	Ken deng Taro tu sapa yang tinggi?	Antara Ken dan Taro, siapa yang badannya lebih tinggi?
-zsm	id	Dia kurang cantik berbanding kakaknya.	Dia kurang cantik dibanding kakaknya.
-id	max	Surat itu akan sampai besok.	Beso surat itu su sampe.
-zsm	id	Ia penting?	Itu penting?
-zsm	id	Adakah anda mempunyai wang tunai lebih daripada sepuluh ribu euro?	Apakah Anda memiliki uang tunai senilai lebih dari sepuluh ribu Euro?
-id	max	Meskipun Una masih bersekolah di SMA, dia sudah berpacaran.	Una masi SMA me su batunangan.
-id	max	Tom menunggu Mary pulang ke rumah.	Bae-bae la jang kanal ujang.
-min	id	Apo itu paralu?	Apakah itu penting?
-id	max	Untuk apa?	Bikiapa?
-zsm	id	Jam tangan ini perlu dipasang.	Jam tangan ini perlu diperbaiki.
-id	max	Kami memanggil dia Mike.	Torang pangge-pangge dia Mike.
-id	max	Aku kehilangan tiketku.	Kita pe tiket ilang.
-id	max	Sudahlah.	Biar suda.
-max	id	Ngana fens apa?	Tim mana yang kamu favoritkan?
-id	zsm	Kamu orang baru?	Awak baru?
-id	zsm	Apa kabar, dunia!	Salam dunia
-max	id	Dulu tu Kyoto to Japang pe ibukota.	Kyoto dulunya adalah ibukota Jepang.
-id	zsm	Saya tidak bisa memperbaiki komputer.	Saya tidak boleh membaiki komputer.
-id	min	Berapa harga rumah ini?	Bara harago rumah ko?
-id	max	Tuliskan itu.	Tulis suda.
-id	zsm	Dia juga belajar bahasa Cina.	Dia juga sedang belajar Bahasa Cina.
-id	zsm	Saya harus bawa apa?	Apa yang patut untuk saya bawa?
-max	id	Lagu itu pe mamanyanyi kita tara inga.	Saya tidak ingat nada lagu itu.
-id	zsm	Kampus ini didirikan pada tahun 1910.	Kolej ini ditubuhkan pada tahun 1910.
-id	zsm	Kamu tidak diperbolehkan untuk menyentuh lukisan itu.	Awak tidak dibenarkan untuk menyentuh lukisan itu.
-zsm	id	Jangan lupakan kami!	Jangan lupakan kami!
-zsm	id	Saya tidak faham.	Saya tidak mengerti.
-zsm	id	Semua jalan sampai ke Rome.	Semua jalan berakhir di Roma.
-id	zsm	Murid itu pergi tanpa berkata sesuatu.	Pelajar itu pergi tanpa menyebut apa-apa.
-zsm	id	Kawan-kawan yang lain tidak dapat datang kerana masing-masing ada urusan lain.	Teman yang lain tidak bisa datang karena ada urusan masing-masing.
-id	min	Saya harus belajar bahasa jepang.	Ambo harus baraja bahaso jopang.
-id	zsm	Kamu harus membersihkan kamarmu.	Awak mesti membersihkan bilik awak.
-id	zlm	Lu pernah nggak bakarin jas lu sama sebatang rokok?	Kau pernah tak bakar kot kau ngan sebatang rokok?
-zsm	id	Tom sangat baik kepada saya.	Ifulki Ṭom did-i bahra.
-id	zsm	Kenapa kamu punya komputer jinjing tetapi tidak punya telepon seluler?	Kenapa awak ada komputer riba tetapi tiada telefon bimbit?
-id	zsm	Saya belajar bahasa Inggris dan bahasa Jepang.	Saya belajar Bahasa Inggeris dan Bahasa Jepun.
-id	max	Kamu tadi di sana?	Tadi ngana ada di sana?
-zsm	id	Keluarga saya dari Malaysia.	Keluarga saya dari Malaysia.
-max	id	Karen, ngana dari mana?	Kamu dari mana, Karen?
-max	id	Dasi satu ni dia pe harga barapa?	Berapa harga dasi ini?
-id	max	Di mana mereka?	Dorang di mana ni?
-id	max	Aku merasa lapar.	Macam kita su lapar ka.
-zsm	id	Jangan bercakap tentang perniagaan semasa kita makan.	Jangan berbicara tentang bisnis saat kita makan.
-id	zsm	Walaupun dulu Karim pengusaha yang kaya raya, kini dia hanya seorang pengemis.	Walaupun Karim dahulu usahawan yang kaya raya, kini dia hanya seorang pengemis.
-zsm	id	Saya tidak mempunyai pilihan selain pergi ke sana.	Aku tidak punya pilihan lain selain pergi ke sana.
-id	zsm	Apakah Anda memiliki uang tunai senilai lebih dari sepuluh ribu Euro?	Adakah anda mempunyai wang tunai lebih daripada sepuluh ribu euro?
-id	max	Dia tidak akan pernah memaafkanku.	Dia tara akang kase maaf kita.
-zsm	id	Kolej ini ditubuhkan pada tahun 1910.	Kampus ini didirikan pada tahun 1910.
-min	id	Ado pertanyaan ndak tentang makanannyo?	Ada pertanyaan tentang makanannya?
-zsm	id	Dia telah bersunat walaupun masih lagi bayi.	Dia sudah disunat walaupun masih bayi.
-zsm	id	Awak perlu pulang ke rumah.	Kamu sebaiknya pulang ke rumah.
-id	zsm	Proses evakuasi korban banjir terhambat karena kekurangan sukarelawan.	Proses pemindahan mangsa banjir itu berjalan perlahan kerana kekurangan sukarelawan.
-max	id	Dong bilang bagimana?	Mereka berkata seperti apa?
-id	max	Ibu, makan malam jam berapa?	Ma, sabantar malam torang makang jam barapa?
-id	min	Makan malam kemana kita sekarang?	Makan malam kama wak kini ko?
-id	zsm	Jangan sampai kamu menjadi anak durhaka seperti Sang Malin Kundang!	Jangan sampai awak menjadi anak derhaka seperti Si Tanggang!
-zsm	id	Awak percaya kepada Tuhan?	Apakah kamu percaya akan Tuhan?
-min	id	Tom bajanji ka awak untuak ndak mangarajoan itu lai.	Tom berjanji padaku bahwa dia tidak akan melakukan hal itu lagi.
-id	zsm	Mulai!	Dimulakan!
-min	id	Kalau ado tampek nan rancak disiko, bara haragonyo kiro-kiro sameter, pasarannyo bara?	Jika aku menemukan tempat disini, berapa harga tanahnya per meter atau berapa harga rata-rata tanah disini?
-id	max	Mungkin.	Mangkali.
-id	zsm	Terkadang mengoreksi lebih sulit daripada menulis.	Kadang-kadang untuk membetulkan adalah lebih sukar daripada menulis.
-id	min	Dingin.	Dingin.
-id	min	Mungkin.	Mungkin.
-min	id	Gratis.	gratis
-id	min	Terima kasih banyak!	Tarimo kasih banyak!
-zsm	id	Walaupun Karim dahulu usahawan yang kaya raya, kini dia hanya seorang pengemis.	Walaupun dulu Karim pengusaha yang kaya raya, kini dia hanya seorang pengemis.
-max	id	Ngana ada makang apa tu?	Apa yang sedang kamu makan?
-id	max	Semalam kamu ke mana?	Tadi malam ngana pigi di mana?
-id	zsm	Itu penting?	Ia penting?
-min	id	Tananglah.	Tenanglah.
-id	max	Tom akan meninggalkan Kobe besok pagi.	Beso Tom pigi kase tinggal Kobe.
-max	id	Bole kita makang ini apel?	Saya boleh makan apel ini?
-zsm	id	Ada berapa banyak orang dalam bilik ini?	Ada berapa banyak orang dalam kamar ini?
-max	id	Ini min anam derajat.	Enam derajat dibawah nol.
-id	max	Siapa nama panggilanmu ?	Dorang pangge-pangge ngana sapa?
-max	id	Kita pe fam Wang.	Nama keluarga saya adalah Wang.
-id	min	Lari!	Lari!
-zsm	id	Dia menjumputnya untuk bermain bola sepak dengan kami.	Dia mengundangnya untuk bermain sepak bola dengan kami.
-id	zsm	Saya tidak ingat nada lagu itu.	Saya tidak boleh ingat kembali melodi lagu itu.
-id	min	Jika aku menemukan tempat disini, berapa harga tanahnya per meter atau berapa harga rata-rata tanah disini?	Kalau ado tampek nan rancak disiko, bara haragonyo kiro-kiro sameter, pasarannyo bara?
-id	zsm	Mari mulai dari Pelajaran 10.	Biarlah kita mula dari pelajaran 10.
-id	min	Aku tidak takut mati.	Ambo indak takuik mati.
-zsm	id	Kadang-kadang untuk membetulkan adalah lebih sukar daripada menulis.	Terkadang mengoreksi lebih sulit daripada menulis.
-id	zsm	Sudah berapa lama kamu tinggal di Osaka?	Berapa lamakah kamu telah tinggal di Osaka?
-id	max	Apa warna kesukaanmu?	Ngana suka skali warna apa?
-id	zsm	Dia sudah disunat walaupun masih bayi.	Dia telah bersunat walaupun masih lagi bayi.
-max	id	Bole kita buka jendela?	Apakah saya boleh membuka jendela?
-max	id	Lia tu ana bayi sadiki.	Jaga bayinya sebentar.
-id	min	Ngantuk?	Ngantuak?
-id	zsm	Stasiun kereta akan ditutup mulai besok.	Stesen kereta api akan tutup mulai esok.
-zsm	id	Sistem abjad bahasa Esperanto terdiri daripada 28 huruf: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Abjad bahasa Esperanto terdiri dari 28 huruf: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.
-zsm	id	Bahasa Melayu sudah terbukti berperanan sebagai bahasa ilmu sejak dahulu lagi.	Bahasa Melayu sudah terbukti berperan sebagai bahasa keilmuan sejak lama.
-max	id	Dia pe ana dua pulu orang.	Dia memiliki dua puluh orang anak.
-max	id	Kita pe kapala pusing skali.	Saya menderita sakit kepala yang parah.
-max	id	Hela!	Tarik!
-zsm	id	Aku tak mengetahui Tom, tetapi aku mengetahui kakaknya.	Saya tidak mengenal Tom, tetapi saya mengenal kakaknya.
-id	zsm	Bahkan ada juga yang miskin melarat, saat sebagian besar menikmati kemakmuran ekonomi.	Bahkan ada juga yang miskin melarat, saat majoriti menikmati kemakmuran ekonomi.
-id	max	Kamu dari mana, Karen?	Ngana dari mana, Karen?
-min	id	Anok!	Diam!
-min	id	Apo?	Apa?
-max	id	Ini hari hari Salasa.	Hari ini hari Selasa.
-max	id	Kolera bage sampe 200 orang maninggal.	Dua ratus orang meninggal karena kolera tahun lalu.
-min	id	Tarimo kasih bana untuak bantuannyo.	Sungguh terima kasih atas bantuannya.
-id	max	Mau ke mana?	Mu pi mana?
-zsm	id	Tahniah!	Selamat!
-id	max	Saya menderita sakit kepala yang parah.	Kita pe kapala pusing skali.
-id	min	Bagus.	Rancak.
-max	id	Tulis suda.	Tuliskan itu.
-id	zsm	Kapan taksi akan berangkat ke bandar udara?	Bilakah akan teksi bertolak ke lapangan terbang?
-id	max	Tom menunggu Mary pulang ke rumah.	Bae-bae la jang babasa.
-zsm	id	Saya akan memandu anda ke lapangan terbang.	Saya akan mengantar anda ke bandar udara.
-id	zsm	Apa saya terlihat baik-baik saja?	Nampak saya ok tak?
-id	min	Tentu!	Jadih!
-id	zsm	Saya tidak mengenal Tom, tetapi saya mengenal kakaknya.	Aku tak mengetahui Tom, tetapi aku mengetahui kakaknya.
-min	id	Indak ikan ko do.	Ini bukan ikan.
-max	id	Biar suda.	Sudahlah.
-max	id	Kita paling suka skali pizza suda.	Piza adalah makanan kesukaanku.
-zsm	id	Di mana hospital yang paling dekat?	Di mana rumah sakit yang paling dekat?
-max	id	Galap-galap bagitu dia pigi bailang.	Dia menghilang dalam kegelapan.
-zsm	id	Jam sudah menunjukkan pukul 12 tengah malam.	Jam sudah menunjukkan pukul 12 tengah malam.
-max	id	Su barapa lama ngana di luar negeri?	Berapa lama kau tinggal di luar negeri?
-max	id	Ma, sabantar malam torang makang jam barapa?	Ibu, makan malam jam berapa?
-id	zsm	Saya tidak bisa berbicara dengan bahasa Albania.	Saya tidak pandai bercakap bahasa Albania.
-max	id	Bole kita buka jendela ka tarada?	Apakah saya boleh membuka jendela?
-id	max	Hari ini hari Selasa.	Ini hari hari Salasa.
-id	zsm	Anggota kelompok dapat bertukar pikiran dan saling membantu untuk meringankan dan menyelesaikan suatu pekerjaan.	Ahli rombongan dapat bertukar-tukar fikiran dan saling membantu untuk meringankan serta menyelesaikan sesuatu tugasan.
-id	min	Berhenti.	Baranti.
-min	id	Bara harago sewa toko siko?	Berapa harga rata-rata untuk sewa toko disini?
-id	min	Ya.	Iyo.
-id	min	Ayahku tidak akan membiarkanku menikahinya.	Apo lagunyo ka jadi terkenal masih diraguan.
-id	max	Aku sudah pergi ke rumahnya tetapi dia tidak berada di sana.	Kita su kasana di dia pe ruma me dia tarada kong.
-zsm	id	Karut.	Omong kosong.
-zsm	id	Farhan akan melaungkan azan tepat pada masanya apabila masuk waktu.	Farhan akan mengumandangkan azan tepat ketika sudah masuk waktunya.
-max	id	Torang dapa rasa tana goyang kuat skali.	Kami merasakan gempa bumi yang sangat kuat.
-id	zsm	Omong kosong.	Karut.
-min	id	Mungkin.	Mungkin.
-max	id	"Ujang su mu barenti ka"? "Kita harap la dia bagitu."	"Apa hujannya terlihat akan mereda?" "Aku harap begitu."
-max	id	Bulan Februari torang rayakan itu Valentine.	Hari Valentine dirayakan pada bulan Februari.
-id	zlm	Kok gue lupa ya namanya?	Takkanlah aku terlupa nama dia kut?
-min	id	Jadih!	Tentu!
-zsm	id	Pasukanmu santai mengerjakan tugasnya kerana ini hari cuti.	Timmu santai mengerjakan tugasnya karena ini hari libur.
-id	max	Jangan pergi keluar setelah hari menjadi gelap.	Su malam tu jang kaluar suda.
-zsm	id	Saya mempunyai kembar lelaki.	Aku punya saudara kembar kakak laki-laki.
-min	id	Yo!	Ya!
+zsm_Latn	ind	Tiada sesiapa yang membantu saya.	Tak seorang pun membantu saya.
+ind	zsm_Latn	Langit berwarna biru.	Langit berwarna biru.
+ind	zsm_Latn	Diamlah!	Diamlah!
+zsm_Latn	ind	Saya belum tengok itu wayang.	Saya belum menonton film itu.
+ind	zsm_Latn	Kegiatan senam sangat disarankan untuk menjaga kesehatan, yaitu sekurang-kurangnya 30 menit, dua kali seminggu.	Aktiviti senaman adalah sangat digalakkan untuk mengekalkan kesihatan, iaitu sekurang-kurangnya selama 30 minit, dua kali seminggu.
+min	ind	Murah bana sadonyo.	Semuanya sangat murah.
+ind	zsm_Latn	Saya harus melakukan sesuatu.	Aku kena buat sesuatu.
+max_Latn	ind	Kita tara bole makang ayam.	Saya tidak boleh makan ayam.
+max_Latn	ind	Ngana bikiapa?	Ada apa denganmu?
+min	ind	Ambo indak yakin do kalau ambo tau iko atau ndak.	Saya tidak yakin apakah saya mengetahui hal ini atau tidak.
+ind	zsm_Latn	Kamu dapat membelinya di toko buku.	Kamu boleh membelinya di kedai buku.
+max_Latn	ind	Ngana ada makang apa?	Apa yang sedang kamu makan?
+zsm_Latn	ind	Sudah berapa kali awak menonton wayang itu?	Sudah berapa kali kamu menonton film itu?
+max_Latn	ind	Ngana mu pigi di mana?	Mau ke mana?
+zsm_Latn	ind	Anda telah melawat Menara Tokyo?	Apakah anda sudah mengunjungi Menara Tokyo?
+ind	zsm_Latn	Saya guru bahasa Jepang.	Saya seorang guru bahasa Jepun.
+ind	max_Latn	Bob biasanya tidur jam sepuluh.	Biasa Bob tidor jam spulu.
+ind	zsm_Latn	Majalah apapun boleh.	Mana-mana satu majalah pun boleh.
+zsm_Latn	ind	Kamu semua mesti membacanya.	Kalian semua harus membacanya.
+ind	max_Latn	Sudah minum obat?	Su minum obat ka balong?
+max_Latn	ind	Ngana paling suka olahraga yang bagimana?	Apa olahraga favoritmu?
+ind	max_Latn	Nama saya Ichiro Tanaka.	Kita pe nama Ichiro Tanaka.
+ind	min	Ingat!	Ingek!
+max_Latn	ind	Kita pe nama Ichiro Tanaka.	Nama saya Ichiro Tanaka.
+ind	max_Latn	Piza adalah makanan kesukaanku.	Kita paling suka skali pizza suda.
+max_Latn	ind	Di dapur ada piso ka tarada?	Apakah di dapur ada pisau?
+ind	max_Latn	Hentikan!	Barenti!
+max_Latn	ind	Langit su baorens.	Warna langit sudah berubah menjadi jingga.
+ind	max_Latn	Pulau itu ditemukan oleh siapa?	Sapa yang dapa pulau itu?
+max_Latn	ind	Mangkali.	Mungkin.
+ind	zsm_Latn	Tunggu sebentar.	Tunggu sebentar.
+ind	min	Dimanakah tempat yang ramai disini yang bisa untuk berbisnis?	Dima tampek nan rami disiko untuak manggaleh.
+zsm_Latn	ind	Tidak ada kejayaan yang mutlak di dunia, hanya kemajuan yang berterusan.	Tidak ada keberhasilan yang mutlak di dunia, hanya kemajuan yang terus-menerus.
+ind	zsm_Latn	Sekarang, keadaannya sudah tak terkendali.	Sekarang, situasi sudah tidak terkawal.
+zsm_Latn	ind	Secara amnya, wanita hidup sepuluh tahun lebih lama daripada lelaki.	Secara umum, wanita hidup sepuluh tahun lebih lama dibanding laki-laki.
+zsm_Latn	ind	Berapa harganya?	Berapa harganya?
+zsm_Latn	ind	Tangga ini diperbuat daripada kayu jati.	Tangga ini dibuat dari kayu jati.
+ind	max_Latn	Anda akan pergi ke mana?	Ngoni mu pigi di mana?
+ind	min	Kamu serius atau bercanda ketika mengatakan ini?	Ang ko sedang bagarah ato serius katiko mangecek an ko?
+ind	zsm_Latn	Dia membelikan aku sebuah mainan kecil.	Dia belikan saya sebuah mainan kecil.
+ind	zsm_Latn	Saya tidak mengerti.	Saya tidak faham.
+ind	min	Betul!	Batua!
+ind	min	Apakah ini dijual per kilo, sebungkus, atau eceran?	Iko di jua per kilo atau sabungkuih atau ciek ciek?
+max_Latn	ind	Kita masi balong dengar dia pe kabar.	Aku masih belum menerima kabar darinya.
+max_Latn	ind	Di Cina tu torang pe fam taru di muka, nanti torang pe nama taru di balakang.	Di cina, kami meletakkan nama keluarga kami didepan, kemudian nama kami.
+ind	min	Gila!	Gilo!
+min	ind	Yo bana tu?	Benarkah?
+min	ind	Bara sewa rumah ko?	Berapa sewa rumah ini?
+ind	max_Latn	Tidurlah Una, hari sudah larut malam.	Tidor suda Una, su lat ni.
+ind	min	Ya!	Yo!
+zsm_Latn	ind	Ini kerana aku berkawan dengan seseorang yang membuat perbezaan.	Ini karena aku berteman dengan seseorang yang membuat perbedaan.
+ind	min	Kemari.	Kamari.
+ind	max_Latn	Warna langit sudah berubah menjadi jingga.	Langit su baorens.
+zsm_Latn	ind	Saya perlu sebuah basikal baru.	Saya butuh sebuah sepeda baru.
+ind	zsm_Latn	Saya ingin bertemu kamu.	Saya nak jumpa awak.
+zsm_Latn	ind	Proses pemindahan mangsa banjir itu berjalan perlahan kerana kekurangan sukarelawan.	Proses evakuasi korban banjir terhambat karena kekurangan sukarelawan.
+ind	max_Latn	Kaki Tom terluka.	Tom pe kaki badara.
+zsm_Latn	ind	Dia tidak berminat pada politik.	Dia tidak tertarik pada politik.
+ind	max_Latn	Bisakah kau bermain piano?	Ngana bisa barmaeng piano ka tarada?
+min	ind	Dima tampek nan rami disiko untuak manggaleh.	Dimanakah tempat yang ramai disini yang bisa untuk berbisnis?
+max_Latn	ind	Ngana su perna sampe di Prancis ka balong?	Apa kau pernah pergi ke Prancis sebelumnya?
+zsm_Latn	ind	Mungkin Mona Lisa itu lukisan yang paling terkenal yang pernah diciptakan.	Mona Lisa mungkin adalah lukisan paling terkenal yang pernah dibuat.
+max_Latn	ind	Ngana suka skali warna apa?	Apa warna kesukaanmu?
+max_Latn	ind	Mu pigi di mana?	Mau ke mana?
+ind	zsm_Latn	Dia takut adiknya akan gagal.	Dia takut adiknya akan gagal.
+ind	max_Latn	Apa yang sedang kamu makan?	Ngana ada makang apa?
+ind	zsm_Latn	Saya belum menonton film itu.	Saya belum tengok itu wayang.
+max_Latn	ind	Una deng Sakila tu Una yang kaka.	Una lebih tua daripada Sakila.
+ind	zsm_Latn	Dia sudah membuat kesalahan besar.	Dia telah membuat sebuah kesilapan serius.
+max_Latn	ind	Dia tara akang kase maaf kita.	Dia tidak akan pernah memaafkanku.
+zsm_Latn	ind	Tak boleh!	Tak bisa!
+zsm_Latn	ind	Macam akulah, dia sering pergi ke Nunukan untuk bercuti.	Kayak gue, dia sering liburan ke Nunukan.
+ind	max_Latn	Apa kamu mempunyai korek?	Ngana ada gares ka tarada?
+zsm_Latn	ind	Dia telah bercakap dengan presiden.	Dia sudah berbicara dengan presiden.
+max_Latn	ind	Kita bera calana.	Saya berak di celana.
+max_Latn	ind	Kita tara mangarti bahasa Inggris.	Saya tidak mengerti bahasa Inggris.
+min	ind	Batua!	Betul!
+ind	max_Latn	Saya sangat lelah.	Kita lala skali.
+max_Latn	ind	Kita tara tau bali tiket tu bagimana.	Saya tidak tahu cara membeli tiket.
+ind	min	Mana yang merupakan sekolah yang menelaah tentang ideologi Buddhisme?	Sakolah ma nan mandalami paham budha?
+zsm_Latn	ind	Namakan negara pengeksport emas terbesar di dunia.	Sebutkan negara pengekspor emas terbesar di dunia.
+max_Latn	ind	Bunu lampu ka.	Tolong matikan lampunya.
+zsm_Latn	ind	Aktiviti senaman adalah sangat digalakkan untuk mengekalkan kesihatan, iaitu sekurang-kurangnya selama 30 minit, dua kali seminggu.	Kegiatan senam sangat disarankan untuk menjaga kesehatan, yaitu sekurang-kurangnya 30 menit, dua kali seminggu.
+ind	max_Latn	Punya korek?	Ngana ada macis ka tarada?
+max_Latn	ind	Kita inga ngana.	Aku sangat rindu padamu!
+zsm_Latn	ind	Boleh saya singgah di rumah awak dalam perjalanan pulang nanti?	Bolehkah saya mampir di rumahmu dalam perjalanan pulang nanti?
+ind	zsm_Latn	Kadang kita lupa mempunyai dua tangan, satu untuk membantu diri sendiri dan keluarga, sementara satu lagi untuk membantu orang lain.	Kadangkala kita terlupa bahawa mempunyai dua belah tangan; satu untuk membantu diri sendiri dan keluarga, manakala sebelah lagi untuk membantu insan lain.
+max_Latn	ind	Su malam tu jang kaluar suda.	Jangan pergi keluar setelah hari menjadi gelap.
+max_Latn	ind	Mona Lisa tu sapa?	Siapakah Mona Lisa?
+min	ind	Samparono!	Sempurna!
+max_Latn	ind	Kita su tara tau mu bilang bagimana.	Saya tidak tahu harus berbicara apa.
+ind	zsm_Latn	Mata uang Prancis dulunya adalah franc, dan simbolnya adalah ₣. Meskipun tidak lagi digunakan di Prancis, franc masih digunakan di beberapa negara bekas jajahan Prancis seperti Guinea.	Mata wang Perancis adalah franc, dan simbolnya adalah ₣. Walaupun ia tidak lagi digunakan di Perancis, franca masih digunakan di beberapa bekas tanah jajahan Perancis seperti Guinea.
+ind	max_Latn	Mati?	Dia su maninggal?
+zsm_Latn	ind	Boleh awak periksa tekanan tayar itu?	Apakah kamu bisa mengecek tekanan bannya?
+zsm_Latn	ind	Saya pusing ke kanan.	Saya belok ke kanan.
+ind	zsm_Latn	Seperti kata pepatah "Waktu adalah uang".	Bak kata pepatah, "Masa itu emas."
+ind	max_Latn	Tim mana yang kamu favoritkan?	Ngana fens tim apa?
+zsm_Latn	ind	Kotak ini mengandungi epal.	Kotak ini berisi apel.
+ind	min	Saya tidak yakin apakah saya mengetahui hal ini atau tidak.	Ambo indak yakin do kalau ambo tau iko atau ndak.
+ind	zsm_Latn	Paragraf ini maksudnya bagaimana?	Apakah maksud perenggan ini?
+zsm_Latn	ind	Di sini, pengurusan masa dan disiplin diri amat penting.	Di sini, mengelola waktu dan disiplin diri amat penting.
+ind	min	Terserah!	Tasarah!
+zsm_Latn	ind	Dia berkata, "Saya mahu menjadi saintis."	Dia pernah berkata, "Aku ingin menjadi seorang ilmuwan".
+zsm_Latn	ind	Saya tak ingat!	Saya tidak ingat!
+zsm_Latn	ind	Dompet saya sudah hilang.	Saya kehilangan dompet.
+ind	zsm_Latn	Kenapa anda menolak permintaannya untuk menaikkan gaji?	Kenapa anda menolak permintaannya untuk menaikan gajinya?
+max_Latn	ind	Boston tu di mana?	Boston itu di mana?
+max_Latn	ind	Bikiapa?	Untuk apa?
+ind	max_Latn	Rapatnya akan dimulai pada pukul tiga.	Jam tiga rapat mulai.
+zsm_Latn	ind	Sebuah gempa bumi besar magnitud 8.8 skala richter melanda kepulauan Jepun hari ini.	Sebuah gempa berkekuatan 8.8 skala richter mengguncang kepulauan Jepang hari ini.
+ind	zsm_Latn	Mona Lisa mungkin adalah lukisan paling terkenal yang pernah dibuat.	Mungkin Mona Lisa itu lukisan yang paling terkenal yang pernah diciptakan.
+zsm_Latn	ind	Dia belikan saya sebuah mainan kecil.	Dia membelikan aku sebuah mainan kecil.
+max_Latn	ind	Bikiapa dia tara datang?	Kenapa dia tidak datang?
+ind	min	Tunggu!	Tunggu!
+ind	min	Berapa harga rata-rata untuk sewa toko disini?	Bara harago sewa toko siko?
+ind	max_Latn	Aku masih belum menerima kabar darinya.	Kita masi balong dengar dia pe kabar.
+zsm_Latn	ind	Hanya Tuhan yang mengetahui betapa tulusnya saya mencintai awak.	Hanya Tuhan yang mengetahui betapa tulus saya mencintai kamu.
+ind	zsm_Latn	Saya tidak punya sepatu yang cocok untuk acara itu.	Saya tiada kasut yang sesuai untuk acara itu.
+zsm_Latn	ind	Jangan sampai awak menjadi anak derhaka seperti Si Tanggang!	Jangan sampai kamu menjadi anak durhaka seperti Sang Malin Kundang!
+zsm_Latn	ind	Pelajar itu pergi tanpa menyebut apa-apa.	Murid itu pergi tanpa berkata sesuatu.
+max_Latn	ind	Kita ada basambunyi.	Aku sedang sembunyi.
+ind	max_Latn	Apakah sore ini akan hujan?	Sadiki sore akang ujang ka tarada?
+ind	zsm_Latn	Abjad bahasa Esperanto terdiri dari 28 huruf: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Sistem abjad bahasa Esperanto terdiri daripada 28 huruf: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.
+zsm_Latn	ind	Bilik ini akan menjadi lebih panas.	Ruangan ini akan segera menjadi lebih hangat.
+max_Latn	ind	Ngana dari mana, Karen?	Kamu dari mana, Karen?
+zsm_Latn	ind	Bila anda dilahirkan?	Kapan kamu dilahirkan?
+ind	zsm_Latn	Jangan lupakan kami!	Jangan lupakan kami!
+ind	zsm_Latn	Dia kurang cantik dibanding kakaknya.	Dia kurang cantik berbanding kakaknya.
+ind	zsm_Latn	Pandanglah burung-burung di langit, yang tidak menabur dan tidak menuai dan tidak mengumpulkan bekal dalam lumbung, namun diberi makan oleh Bapamu yang di sorga. Bukankah kamu jauh melebihi burung-burung itu?	Lihatlah burung di udara yang tidak menyemai benih, tidak menuai tuaian, dan tidak mengumpulkan hasil di dalam jelapang, tetapi Bapa kamu yang di syurga memelihara semuanya! Bukankah kamu jauh lebih berharga daripada burung?
+ind	max_Latn	Dia menghilang dalam kegelapan.	Galap-galap bagitu dia bailang.
+min	ind	Awak indak tau do kalau ado rumah sakik di siko atau indak.	Aku tidak tahu apakah ada rumah sakit di sekitar sini.
+zsm_Latn	ind	Ini ialah fesyen terkini.	Ini adalah model pakaian terkini.
+ind	zsm_Latn	Ifulki Ṭom did-i bahra.	Tom sangat baik kepada saya.
+min	ind	Litak?	Lapar?
+ind	max_Latn	Apakah saya boleh membuka jendela?	Bole kita buka jendela?
+ind	zsm_Latn	Jangan berbicara tentang bisnis saat kita makan.	Jangan bercakap tentang perniagaan semasa kita makan.
+max_Latn	ind	Kita ada basambunyi ni.	Aku sedang sembunyi.
+zsm_Latn	ind	Sekarang, situasi sudah tidak terkawal.	Sekarang, keadaannya sudah tak terkendali.
+max_Latn	ind	Biking diri sampe.	Betapa sombongnya dirimu.
+zsm_Latn	ind	Ayah saya memiliki kereta yang sama sebagai Encik Kimura.	Ayah saya punya mobil yang sama dengan Pak Kimura.
+min	ind	Rancak.	Bagus.
+ind	max_Latn	Tim mana yang kamu favoritkan?	Ngana fens tim mana?
+zsm_Latn	ind	Tom menggunakan Windows 7.	Tom menggunakan Windows 7.
+ind	zsm_Latn	Kamu tidak berubah sama sekali.	Awak tidak berubah langsung.
+max_Latn	ind	Di Cina tu fam di muka, nama di balakang.	Di cina, kami meletakkan nama keluarga kami didepan, kemudian nama kami.
+zsm_Latn	ind	Bermula dari sekarang, kita akan bertemu di bilik ini.	Mulai sekarang, kita akan berjumpa di kamar ini.
+max_Latn	ind	Mama ada mumasa di dapur.	Ibu sedang masak di dapur.
+max_Latn	ind	Di kita pe ruma ada ayam tiga ekor.	Ada tiga ayam di rumah saya.
+max_Latn	ind	FBI mu tangka Dan me ana itu su kabur kamuka.	FBI mencoba untuk menangkap Dan, tapi dia berhasil melarikan diri.
+ind	max_Latn	Tolong matikan lampunya.	Kase mati lampu ka.
+max_Latn	ind	Biking diri sampe.	Kamu sangat sombong.
+ind	max_Latn	Ada batu di dalam sepatu saya.	Di kita pe spatu ada batu dalam situ.
+ind	max_Latn	Kamu mau makan apa hari ini?	Ini hari ngana mu makang apa?
+ind	max_Latn	FBI mencoba untuk menangkap Dan, tapi dia berhasil melarikan diri.	FBI mu tangka Dan me ana itu su kabur kamuka.
+max_Latn	ind	Kita su suru-suru dorang la badiam dalam ruma me dorang tara dengar.	Aku bersikeras menyuruh mereka untuk tetap tinggal, tetapi mereka tidak sekali-kali mendengarkan perkataanku.
+zsm_Latn	ind	Ken mengumpulkan duit syiling lama.	Ken mengkoleksi uang-uang kuno.
+zsm_Latn	ind	Apakah maksud perenggan ini?	Paragraf ini maksudnya bagaimana?
+max_Latn	ind	Jam tiga rapat mulai.	Rapatnya akan dimulai pada pukul tiga.
+max_Latn	ind	Dorang di mana ni?	Di mana mereka?
+zsm_Latn	ind	Kali ini, Najwa seolah-olah enggan melepaskan suaminya pergi.	Kali ini, Najwa seolah-olah enggan melepaskan suaminya pergi.
+zsm_Latn	ind	Dia telah membuat sebuah kesilapan serius.	Dia sudah membuat kesalahan besar.
+max_Latn	ind	Torang pangge-pangge dia Mike.	Kami memanggil dia Mike.
+ind	min	Ini masjid.	Iko masjid.
+zsm_Latn	ind	Rasanya, saya akan memakan angin minggu ini.	Kelihatannya, saya akan berwisata minggu ini.
+zsm_Latn	ind	Ini kumpulan keempat yang membuat persembahan.	Ini kelompok keempat yang tampil.
+min	ind	Lompek!	Lompat!
+max_Latn	ind	Bikiapa ngana buka kotak itu?	Kenapa kau membuka kotaknya?
+min	ind	Capeklah!	Cepatlah!
+ind	zsm_Latn	Bagian atas gunung itu diselimuti salju.	Bahagian atas gunung itu diliputi oleh salji.
+ind	zsm_Latn	Mulai sekarang, kita akan berjumpa di kamar ini.	Bermula dari sekarang, kita akan bertemu di bilik ini.
+max_Latn	ind	Ngana orang mana?	Dari mana asalmu?
+zsm_Latn	ind	Saya tak boleh bercakap kerana saya dalam lif yang penuh dengan orang.	Aku tak bisa bicara karena sedang di lift yang sesak.
+ind	max_Latn	Kamu itu masih muda.	Ngana masi kacil.
+min	ind	Dingin.	Dingin.
+ind	zsm_Latn	Teman yang dirindukan.	Kawan yang dirindui.
+ind	max_Latn	Aku sedang sembunyi.	Kita ada basambunyi ni.
+zsm_Latn	ind	Ialah sebuah peraturan yang bagus untuk melihat dua-dua arah sebelum melintasi jalan raya di mana-mana sahaja.	Aturan yang bagus untuk melihat kedua arah sebelum menyeberang jalan raya di mana saja.
+ind	max_Latn	Kau melihat Nancy di mana?	Ngana lia Nancy di mana?
+zsm_Latn	ind	Mona Lisa dilukis oleh Leonardo da Vinci.	Mona Lisa dilukis oleh Leonardo da Vinci.
+ind	zsm_Latn	Saat saya pulang, saya mendapati mobil saya hilang!	Apabila saya pulang, saya mendapati bahawa kereta saya hilang!
+ind	zsm_Latn	Saat kita menanam padi, rumput pun ikut tumbuh tapi saat kita menanam rumput, tidak pernah tumbuhnya padi. Dalam kita melakukan "kebaikan" kadang-kadang hal yang "buruk" turut menyertai. Namun, saat melakukan "keburukan" tidak ada "kebaikan" bersamanya. Jangan bosan untuk berbuat "baik" meskipun kadang-kadang tidak sempurna.	Saat kita menanam padi, rumput pun ikut tumbuh tapi saat kita menanam rumput, tidak pernah tumbuhnya padi. Dalam kita melakukan "kebaikan" kadang-kadang hal yang "buruk" turut menyertai. Namun, saat melakukan "keburukan" tidak ada "kebaikan" bersamanya. Jangan bosan untuk berbuat "baik" meskipun kadang-kadang tidak sempurna.
+zsm_Latn	ind	Mana-mana satu majalah pun boleh.	Majalah apapun boleh.
+zsm_Latn	ind	Saya tidak boleh membaiki komputer.	Saya tidak bisa memperbaiki komputer.
+ind	zsm_Latn	Bakar surat ini setelah anda membacanya.	Bakar surat ini selepas anda membacanya.
+zsm_Latn	ind	Saya pergi ke sekolah pada pukul tujuh.	Saya berangkat sekolah jam tujuh.
+zsm_Latn	ind	Kemudahan kelas pertama tetapi pemikiran bertaraf kelas ketiga.	Fasilitasnya kelas satu tetapi cara pikirnya setingkat kelas tiga.
+ind	min	Apa?	Apo?
+max_Latn	ind	Ada gares?	Punya korek?
+min	ind	Ngantuak?	Ngantuk?
+max_Latn	ind	Mu pi mana?	Mau ke mana?
+zsm_Latn	ind	Saya mahu mengundang kamu ke parti.	Saya ingin mengundang kamu ke pesta.
+ind	max_Latn	Saya tidak mengerti bahasa Inggris.	Kita tara mangarti bahasa Inggris.
+zsm_Latn	ind	Bila anda membukai kedai baru anda?	Kapan kamu membuka toko barunya?
+ind	zsm_Latn	Saya tidak suka belajar.	Saya tidak suka belajar.
+ind	zsm_Latn	Keluarga saya dari Malaysia.	Keluarga saya dari Malaysia.
+zsm_Latn	ind	Bolehkah saya makan epal ini?	Saya boleh makan apel ini?
+ind	max_Latn	Tarik!	Hela!
+ind	max_Latn	Kenapa dia tidak datang?	Bikiapa dia tara kamari?
+ind	max_Latn	Saya boleh makan apel ini?	Bole kita makang ini apel?
+zsm_Latn	ind	Saya masih belum biasa dengan pekerjaan itu.	Saya belum terbiasa dengan pekerjaan itu.
+ind	max_Latn	Tutup pintunya ketika kamu pergi.	Kalo mu pigi tu tutu pintu.
+max_Latn	ind	Bikiapa dia tara kamari?	Kenapa dia tidak datang?
+zsm_Latn	ind	Buku saya amat berat.	Buku saya amat berat.
+max_Latn	ind	Biasa Bob tidor jam spulu.	Bob biasanya tidur jam sepuluh.
+ind	zsm_Latn	Kelihatannya, saya akan berwisata minggu ini.	Rasanya, saya akan memakan angin minggu ini.
+ind	zsm_Latn	Aku tak bisa bicara karena sedang di lift yang sesak.	Saya tak boleh bercakap kerana saya dalam lif yang penuh dengan orang.
+ind	zsm_Latn	Timmu santai mengerjakan tugasnya karena ini hari libur.	Pasukanmu santai mengerjakan tugasnya kerana ini hari cuti.
+ind	zsm_Latn	Mona Lisa dilukis oleh Leonardo da Vinci.	Mona Lisa dilukis oleh Leonardo da Vinci.
+zsm_Latn	ind	Bak kata pepatah, "Masa itu emas."	Seperti kata pepatah "Waktu adalah uang".
+ind	zsm_Latn	Jembatan Golden Gate terbuat dari besi.	Jambatan Golden Gate itu diperbuat daripada besi.
+ind	zsm_Latn	Saya malas.	Saya malas.
+max_Latn	ind	Ngoni tau reggae tu bagimana?	Apa pendapat Anda tentang Reggae?
+ind	zsm_Latn	Kampung ini dikenal karena berbagai hasil pertaniannya seperti coklat dan nanas.	Kampung ini terkenal dengan pelbagai hasil pertanian seperti koko dan nanas.
+zsm_Latn	ind	Saya nak jumpa awak.	Saya ingin bertemu kamu.
+zsm_Latn	ind	Apabila saya bangun, matahari telah terbit tinggi di dalam langit.	Ketika saya bangun, matahari sudah terbit tinggi di langit.
+ind	max_Latn	Apa kau pernah pergi ke Prancis sebelumnya?	Ngana su perna pigi di Prancis ka balong?
+zsm_Latn	ind	Bagus!	Bagus!
+max_Latn	ind	Kita pe jam di mana ni?	Di mana jamku?
+ind	zsm_Latn	Buku itu kecil.	Buku itu kecil.
+max_Latn	ind	Buka pintu tu!	Dia membuka pintu.
+max_Latn	ind	Ngana fens tim mana?	Tim mana yang kamu favoritkan?
+ind	zsm_Latn	Berapa harganya?	Berapa harga untuk ini?
+max_Latn	ind	Tom deng kita tu dia yang kaka.	Tom lebih tua daripada aku.
+min	ind	Ngeceklah!	Bicaralah!
+zsm_Latn	ind	Kamu tak payah risau.	Anda tidak perlu kuatir dengan hal itu.
+zsm_Latn	ind	Salam dunia	Apa kabar, dunia!
+ind	zsm_Latn	Ayo kita ke masjid.	Jom kita ke masjid.
+max_Latn	ind	Tom deng kita tu dia yang basar.	Tom lebih besar ketimbang aku.
+ind	zsm_Latn	Saya akan membaca sebuah buku ketika anda tidur.	Saya akan membaca sebuah buku ketika anda tidur.
+ind	zsm_Latn	Profesor Brown menjelaskan suatu hal dengan baik.	Profesor Brown menerangkan perkara-perkara dengan baik.
+zsm_Latn	ind	Sangat jarang kita mendengar ada orang yang mencanang perihal rumahtangganya kepada orang lain.	Jarang sekali kita mendengar ada orang yang menceritakan semua tentang rumah tangganya kepada orang lain.
+zsm_Latn	ind	Hatiku dipenuhi dengan kebahagiaan.	Hatiku penuh dengan kebahagiaan.
+ind	zsm_Latn	Para anjing pemburu mengikuti bau dari rubah itu.	Anjing-anjing pemburu itu diikuti bau musang itu.
+ind	min	Selamat!	Salamaik!
+ind	max_Latn	Punya korek?	Ngana ada gares ka tarada?
+max_Latn	ind	Kita lapar skali.	Aku sangat lapar!
+max_Latn	ind	Mama e, capat ka.	Beritahu aku kalau ada yang bisa kubantu.
+min	ind	Den sangko ang sedang flu.	Apakah kamu sedang sakit flu?
+zsm_Latn	ind	Kalau saya anda, saya tidak akan membuat perkara begitu.	Kalau saya jadi anda, saya tidak akan berbuat seperti itu.
+zsm_Latn	ind	Dia telah pergi ke Switzerland.	Dia sudah pergi ke Swiss.
+ind	zsm_Latn	Dia tidak tertarik pada politik.	Dia tidak berminat pada politik.
+ind	zsm_Latn	Saya lupa bertanya padanya.	Saya terlupa untuk bertanyakannya.
+ind	zsm_Latn	Saya dari Saitama.	Saya berasal dari Saitama.
+zsm_Latn	ind	Mata wang Perancis adalah franc, dan simbolnya adalah ₣. Walaupun ia tidak lagi digunakan di Perancis, franca masih digunakan di beberapa bekas tanah jajahan Perancis seperti Guinea.	Mata uang Prancis dulunya adalah franc, dan simbolnya adalah ₣. Meskipun tidak lagi digunakan di Prancis, franc masih digunakan di beberapa negara bekas jajahan Prancis seperti Guinea.
+max_Latn	ind	Dalam kita pe spatu ada batu.	Ada batu di dalam sepatu saya.
+ind	max_Latn	Saya tidak boleh makan ayam.	Kita tara bole makang ayam.
+zsm_Latn	ind	Bakar surat ini selepas anda membacanya.	Bakar surat ini setelah anda membacanya.
+zsm_Latn	ind	Langit berwarna biru.	Langit berwarna biru.
+zsm_Latn	ind	Hampir-hampir saya dilanggar kereta.	Saya hampir saja ditabrak mobil.
+ind	zsm_Latn	Saya lapar.	Saya lapar.
+ind	min	Pergi!	Pai!
+ind	zsm_Latn	Rasa air laut asin.	Rasa air laut masin.
+ind	max_Latn	Boston itu di mana?	Boston tu di mana?
+zsm_Latn	ind	Awak mesti membersihkan bilik awak.	Kamu harus membersihkan kamarmu.
+ind	zsm_Latn	Sebuah gempa berkekuatan 8.8 skala richter mengguncang kepulauan Jepang hari ini.	Sebuah gempa bumi besar magnitud 8.8 skala richter melanda kepulauan Jepun hari ini.
+ind	zsm_Latn	Dia mengundangnya untuk bermain sepak bola dengan kami.	Dia menjumputnya untuk bermain bola sepak dengan kami.
+zsm_Latn	ind	Saya tiada di pejabat hari ini.	Saya tidak ada di kantor hari ini.
+ind	max_Latn	Kenapa kau membuka kotaknya?	Bikiapa ngana buka kotak itu?
+max_Latn	ind	Tom deng kita tu Tom yang tinggi.	Tom lebih tinggi dari saya.
+zsm_Latn	ind	Aku berasa sangat rendah diri sehingga pernah berfikir hendak berhenti bersekolah sahaja.	Saya merasa kurang percaya diri bahkan pernah berpikir untuk berhenti sekolah.
+ind	zsm_Latn	Ruangan ini akan segera menjadi lebih hangat.	Bilik ini akan menjadi lebih panas.
+ind	zsm_Latn	Ketika saya bangun, matahari sudah terbit tinggi di langit.	Apabila saya bangun, matahari telah terbit tinggi di dalam langit.
+min	ind	Mati?	Mati?
+ind	max_Latn	Aku sedang sembunyi.	Kita ada basambunyi.
+ind	zsm_Latn	Saya kehilangan dompet.	Dompet saya sudah hilang.
+min	ind	Salamaik!	Selamat!
+zsm_Latn	ind	Apa Khabar?	Apa kabar?
+ind	min	Berisik!	Anok lah!
+zsm_Latn	ind	Muhammad memang seorang yang suka berseloroh.	Muhammad memang seorang yang senang bercanda.
+ind	zsm_Latn	Kesehatan lebih penting dibanding emas.	Kesihatan lebih penting berbanding dengan emas.
+ind	min	Semangat!	Sumangaik!
+min	ind	Kalua!	Keluar!
+max_Latn	ind	Beso surat itu su sampe.	Surat itu akan sampai besok.
+min	ind	Tampek ko labiah rancak pado nan tadi.	Saya pikir tempat ini lebih bagus daripada yang ini.
+ind	zsm_Latn	Aku tidak punya pilihan lain selain pergi ke sana.	Saya tidak mempunyai pilihan selain pergi ke sana.
+ind	zsm_Latn	Bolehkah saya mampir di rumahmu dalam perjalanan pulang nanti?	Boleh saya singgah di rumah awak dalam perjalanan pulang nanti?
+zsm_Latn	ind	Stesen kereta api akan tutup mulai esok.	Stasiun kereta akan ditutup mulai besok.
+zsm_Latn	ind	Saya mengharapkan awak untuk mengawasi Tom.	Aku mengandalkanmu untuk mengawasi Tom.
+ind	zsm_Latn	Ia sesekali mengirim sepucuk surat kepada ibundanya.	Beliau menulis sepucuk surat kepada ibunya setiap sekarang dan kemudian.
+zsm_Latn	ind	Kad kredit boleh?	Bisa pakai kartu kredit?
+ind	min	Aku tidak tahu apakah ada rumah sakit di sekitar sini.	Awak indak tau do kalau ado rumah sakik di siko atau indak.
+max_Latn	ind	Tom deng kita tu dia yang tinggi.	Tom lebih tinggi ketimbang aku.
+min	ind	Tarimo kasih banyak!	Terima kasih banyak!
+zsm_Latn	ind	Sudahkah awak pergi ke pilihan raya hari ini?	Apakah Anda sudah pergi ke tempat pemungutan suara?
+max_Latn	ind	Macam kita su lapar ka.	Aku merasa lapar.
+max_Latn	ind	Kita lala skali.	Saya sangat lelah.
+zsm_Latn	ind	Saya terlupa untuk bertanyakannya.	Saya lupa bertanya padanya.
+ind	zsm_Latn	Tom menggunakan Windows 7.	Tom menggunakan Windows 7.
+ind	min	Jangan meremehkan kekuatanku.	Jan remehan tanago wak.
+zsm_Latn	ind	Apa yang awak ingin jadi apabila awak besar?	Saat besar nanti kamu ingin menjadi apa?
+ind	min	Apakah kamu sedang sakit flu?	Den sangko ang sedang flu.
+zsm_Latn	ind	Awak baru?	Kamu orang baru?
+min	ind	Jago!	Bangun!
+ind	zsm_Latn	Apakah kamu percaya akan Tuhan?	Awak percaya kepada Tuhan?
+zsm_Latn	ind	Tom akan pergi ke Australia musim sejuk ini.	Tom akan pergi ke Australia musim dingin ini.
+ind	zsm_Latn	Apa acara TV kesukaanmu?	Apakah rancangan televisyen kegemaran awak?
+ind	min	Mati?	Mati?
+min	ind	Ambo harus baraja bahaso jopang.	Saya harus belajar bahasa jepang.
+ind	zsm_Latn	Kamu sebaiknya pulang ke rumah.	Awak perlu pulang ke rumah.
+ind	zsm_Latn	Apa nama ibu kota negara Amerika?	Apakah nama ibu negara Amerika?
+max_Latn	ind	Su minum obat ka balong?	Sudah minum obat?
+ind	zsm_Latn	Dia pernah berkata, "Aku ingin menjadi seorang ilmuwan".	Dia berkata, "Saya mahu menjadi saintis."
+ind	zsm_Latn	Saya mandi sehari sekali.	Saya mandi sekali setiap hari.
+ind	zsm_Latn	Jam sudah menunjukkan pukul 12 tengah malam.	Jam sudah menunjukkan pukul 12 tengah malam.
+ind	max_Latn	Apa yang sedang kamu makan?	Ngana ada makang apa tu?
+ind	zsm_Latn	Muhammad memang seorang yang senang bercanda.	Muhammad memang seorang yang suka berseloroh.
+max_Latn	ind	Kase manyala lampu ka.	Tolong nyalakan lampunya.
+zsm_Latn	ind	Berapa lamakah kamu telah tinggal di Osaka?	Sudah berapa lama kamu tinggal di Osaka?
+max_Latn	ind	Ngana bisa bicara bahasa Indonesia ka tarada?	Apakah Anda bisa berbicara bahasa Indonesia?
+max_Latn	ind	Ngana lia Nancy di mana?	Kau melihat Nancy di mana?
+ind	max_Latn	Dia memiliki dua puluh orang anak.	Dia pe ana dua pulu orang.
+ind	max_Latn	Tidak! Saya tidak mau pergi.	Tarada! Kita tara mau pigi!
+ind	max_Latn	Berapa harga dasi ini?	Dasi satu ni dia pe harga barapa?
+ind	zsm_Latn	Ayolah!	Jomlah!
+zsm_Latn	ind	Yang ini tak mahal.	Ini tidak mahal.
+ind	max_Latn	Apa olahraga favoritmu?	Ngana paling suka olahraga yang bagimana?
+ind	zsm_Latn	Kayak gue, dia sering liburan ke Nunukan.	Macam akulah, dia sering pergi ke Nunukan untuk bercuti.
+max_Latn	ind	Ini hari ngana mu makang apa?	Kamu mau makan apa hari ini?
+min	ind	Masih barangok nyo?	Nafasnya?
+ind	zsm_Latn	Tak bisa!	Tak boleh!
+ind	min	Diam!	Anok!
+min	ind	Iyo.	Ya.
+ind	zsm_Latn	Berapa harganya?	Berapa harganya?
+ind	min	gratis	Gratis.
+min	ind	Bia wak ma antaan pulang.	Biarkan aku mengantarmu pulang.
+ind	zsm_Latn	Lagu ini mudah dipelajari.	Lagu ini adalah mudah untuk dipelajari.
+max_Latn	ind	Beso Tom pigi kase tinggal Kobe.	Tom akan meninggalkan Kobe besok pagi.
+min	ind	Makan malam kama wak kini ko?	Makan malam kemana kita sekarang?
+ind	max_Latn	Beritahu aku kalau ada yang bisa kubantu.	Mama e, capat ka.
+ind	zsm_Latn	Ini tidak mahal.	Yang ini tak mahal.
+ind	zsm_Latn	Kamu sudah makan nasi?	Awak sudah makan nasi?
+zsm_Latn	ind	Kadangkala kita terlupa bahawa mempunyai dua belah tangan; satu untuk membantu diri sendiri dan keluarga, manakala sebelah lagi untuk membantu insan lain.	Kadang kita lupa mempunyai dua tangan, satu untuk membantu diri sendiri dan keluarga, sementara satu lagi untuk membantu orang lain.
+ind	min	Semuanya sangat murah.	Murah bana sadonyo.
+ind	zsm_Latn	Ayah saya punya mobil yang sama dengan Pak Kimura.	Ayah saya memiliki kereta yang sama sebagai Encik Kimura.
+ind	zsm_Latn	Kapan kamu dilahirkan?	Bila anda dilahirkan?
+ind	max_Latn	Apakah kamu sudah tidur?	Su tidor?
+min	ind	Panduto!	Pembohong!
+max_Latn	ind	Ngana bole kase pinjam kita doi 10.000 yen?	Bisakah kau meminjamkanku 10.000 yen?
+max_Latn	ind	Tadi malam ngana pigi di mana?	Semalam kamu ke mana?
+zsm_Latn	ind	Aku tidak tahu kenapa Tuhan beri kita 10 jari, kerana kita hanya perlukan tiga.	Aku tidak tau mengapa Tuhan memberi kita 10 jari, karena kita hanya butuh tiga.
+ind	max_Latn	Kami merasakan gempa bumi yang sangat kuat.	Torang dapa rasa tana goyang kuat skali.
+ind	max_Latn	Ada batu di dalam sepatu saya.	Dalam kita pe spatu ada batu.
+zsm_Latn	ind	Dia kelihatan sedikit letih.	Dia terlihat sedikit letih.
+max_Latn	ind	Dia pigi di mana?	Dia pergi ke mana?
+zsm_Latn	ind	Berapa harga untuk ini?	Berapa harganya?
+ind	zsm_Latn	Apa kabar?	Apa Khabar?
+ind	min	Lapar?	Litak?
+ind	zsm_Latn	Saya akan mengantar anda ke bandar udara.	Saya akan memandu anda ke lapangan terbang.
+min	ind	Alah pai ka TPS tadi?	Sudah pergi ke tempat pemungutan suara tadi?
+ind	zsm_Latn	Dengki itu bagaikan tulang yang busuk.	Kedengkian adalah seperti kebusukan tulang.
+min	ind	Sakolah ma nan mandalami paham budha?	Mana yang merupakan sekolah yang menelaah tentang ideologi Buddhisme?
+ind	max_Latn	Aku bersikeras menyuruh mereka untuk tetap tinggal, tetapi mereka tidak sekali-kali mendengarkan perkataanku.	Kita su bilang ulang-ulang la badiam dalam ruma me dorang tara dengar.
+zsm_Latn	ind	Saya mahu belajar di luar negeri.	Saya ingin belajar di luar negeri.
+ind	max_Latn	Saya tidak tahu harus berbicara apa.	Kita su tara tau mu bilang bagimana.
+zsm_Latn	ind	Saya akan membaca sebuah buku ketika anda tidur.	Saya akan membaca sebuah buku ketika anda tidur.
+ind	zsm_Latn	Sebutkan negara pengekspor emas terbesar di dunia.	Namakan negara pengeksport emas terbesar di dunia.
+max_Latn	ind	Tara pigi skola kong di ruma.	Bukannya sekolah, dia malah di rumah.
+ind	max_Latn	Dia menghilang dalam kegelapan.	Galap-galap bagitu dia pigi bailang.
+ind	zsm_Latn	Dia adalah orang yang baik, tetapi sesungguhnya, dia tidak terlalu pandai.	Dialah orang yang baik, tapi sesungguhnya, dia tak berapa pandai.
+zsm_Latn	ind	Mereka tidak lagi bertarung selama empat puluh tahun lebih.	Mereka sudah tidak bertarung selama lebih dari 40 tahun.
+ind	max_Latn	Sudah kuduga.	Su rai da.
+zsm_Latn	ind	Lihatlah burung di udara yang tidak menyemai benih, tidak menuai tuaian, dan tidak mengumpulkan hasil di dalam jelapang, tetapi Bapa kamu yang di syurga memelihara semuanya! Bukankah kamu jauh lebih berharga daripada burung?	Pandanglah burung-burung di langit, yang tidak menabur dan tidak menuai dan tidak mengumpulkan bekal dalam lumbung, namun diberi makan oleh Bapamu yang di sorga. Bukankah kamu jauh melebihi burung-burung itu?
+max_Latn	ind	Dia su maninggal?	Mati?
+zsm_Latn	ind	Tunggu sebentar.	Tunggu sebentar.
+ind	max_Latn	Kyoto dulunya adalah ibukota Jepang.	Dulu tu Kyoto to Japang pe ibukota.
+ind	min	Nafasnya?	Masih barangok nyo?
+ind	zsm_Latn	Sudah berapa kali kamu menonton film itu?	Sudah berapa kali awak menonton wayang itu?
+min	ind	Jaleh.	Jelas.
+ind	zsm_Latn	Kali ini, Najwa seolah-olah enggan melepaskan suaminya pergi.	Kali ini, Najwa seolah-olah enggan melepaskan suaminya pergi.
+zsm_Latn	ind	Anda tahu siapa yang lukiskan gambar ini?	Kamu tahu siapa yang melukis gambar ini?
+ind	max_Latn	Bisakah kau meminjamkanku 10.000 yen?	Ngana bole kase pinjam kita doi 10.000 yen?
+ind	zsm_Latn	Maaf, bisa tolong ambilkan garam dan mericanya?	Maafkan saya, bolehkah tolong ambilkan garam dan ladanya?
+ind	max_Latn	Kapan hari ulang tahunmu?/Kapan kamu berulang tahun.	Tempo apa ngana pe ulang tahun?
+ind	max_Latn	Apa yang dilakukan ibumu saat kamu kembali ke rumah.	Pas ngana bale di ruma, ngana pe mama ada biking apa?
+zsm_Latn	ind	Saya berasal dari Saitama.	Saya dari Saitama.
+zsm_Latn	ind	Rasa air laut masin.	Rasa air laut asin.
+zlm_Latn	ind	Takkanlah aku terlupa nama dia kut?	Kok gue lupa ya namanya?
+ind	zsm_Latn	Saya merasa kurang percaya diri bahkan pernah berpikir untuk berhenti sekolah.	Aku berasa sangat rendah diri sehingga pernah berfikir hendak berhenti bersekolah sahaja.
+ind	max_Latn	Hari Valentine dirayakan pada bulan Februari.	Bulan Februari torang rayakan itu Valentine.
+ind	max_Latn	Saya tidak ingat nada lagu itu.	Lagu itu pe mamanyanyi kita tara inga.
+zsm_Latn	ind	Adakah sebarang pertanyaan tentang makanan?	Ada pertanyaan tentang makanannya?
+zsm_Latn	ind	Saya belajar Bahasa Inggeris dan Bahasa Jepun.	Saya belajar bahasa Inggris dan bahasa Jepang.
+zsm_Latn	ind	Sedih.	Sedih.
+ind	zsm_Latn	Dia terlihat sedikit letih.	Dia kelihatan sedikit letih.
+ind	zsm_Latn	Saya belum terbiasa dengan pekerjaan itu.	Saya masih belum biasa dengan pekerjaan itu.
+ind	min	Benarkah?	Yo bana tu?
+ind	zsm_Latn	Ken mengkoleksi uang-uang kuno.	Ken mengumpulkan duit syiling lama.
+ind	min	Bicaralah!	Ngeceklah!
+ind	zsm_Latn	Ini karena aku berteman dengan seseorang yang membuat perbedaan.	Ini kerana aku berkawan dengan seseorang yang membuat perbezaan.
+zsm_Latn	ind	Bahkan ada juga yang miskin melarat, saat majoriti menikmati kemakmuran ekonomi.	Bahkan ada juga yang miskin melarat, saat sebagian besar menikmati kemakmuran ekonomi.
+zsm_Latn	ind	Kami sudah buat hal yang mustahil.	Kami telah melakukan hal yang mustahil.
+min	ind	Cukuik!	Cukup!
+ind	zsm_Latn	Hasil bumi lainnya termasuk batu bara, kelapa, tebu, nanas, tembakau, sayuran, sagu, tapioka, kopi, teh, jagung, dan kacang tanah.	Hasil lain termasuk arang batu, kelapa, tebu, nanas, tembakau, sayur-sayuran, sagu, ubi kayu, kopi, teh, jagung dan kacang tanah.
+zsm_Latn	ind	Saat kita menanam padi, rumput pun ikut tumbuh tapi saat kita menanam rumput, tidak pernah tumbuhnya padi. Dalam kita melakukan "kebaikan" kadang-kadang hal yang "buruk" turut menyertai. Namun, saat melakukan "keburukan" tidak ada "kebaikan" bersamanya. Jangan bosan untuk berbuat "baik" meskipun kadang-kadang tidak sempurna.	Saat kita menanam padi, rumput pun ikut tumbuh tapi saat kita menanam rumput, tidak pernah tumbuhnya padi. Dalam kita melakukan "kebaikan" kadang-kadang hal yang "buruk" turut menyertai. Namun, saat melakukan "keburukan" tidak ada "kebaikan" bersamanya. Jangan bosan untuk berbuat "baik" meskipun kadang-kadang tidak sempurna.
+ind	zsm_Latn	Saya akan tinggal di tempat paman saya di Kyoto.	Saya akan tinggal di tempat pakcik saya di Kyoto.
+ind	max_Latn	Antara Ken dan Taro, siapa yang badannya lebih tinggi?	Ken deng Taro tu sapa yang tinggi?
+zsm_Latn	ind	Kita yang perlu sentiasa peka andai ada yang memerlukan.	Kita yang perlu selalu siap sewaktu-waktu dibutuhkan.
+ind	max_Latn	Ada tiga ayam di rumah saya.	Di kita pe ruma ada ayam tiga ekor.
+zsm_Latn	ind	Dia selalu mengemas meja selepas makan.	Dia selalu merapikan meja setelah makan.
+max_Latn	ind	Pas ngana bale di ruma, ngana pe mama ada biking apa?	Apa yang dilakukan ibumu saat kamu kembali ke rumah.
+max_Latn	ind	Kita su 18 taong.	Saya berusia 18 tahun.
+ind	max_Latn	Kamu sangat sombong.	Biking diri sampe.
+zsm_Latn	ind	Lupakannya.	Lupakan.
+zsm_Latn	ind	Dia bertanya jika saya tahu alamatnya	Dia bertanya apakah saya tahu alamat orang itu.
+ind	zsm_Latn	Selamat!	Tahniah!
+ind	max_Latn	Tom lebih besar ketimbang aku.	Tom deng kita tu dia yang basar.
+ind	zsm_Latn	Semalam sangat dingin, makanya kami tidak ke luar, di dalam rumah saja.	Disebabkan semalam sangat sejuk, kami tidak keluar dari rumah dan hanya duduk di dalam rumah.
+ind	max_Latn	Tom punya teman yang ayahnya seorang astronot.	Tom ada tamang satu, dia pe papa astronot.
+ind	min	Awas!	Awas!
+zsm_Latn	ind	Saya telah meminta daripadanya untuk menghantar buku itu kepada kita.	Saya telah memintanya untuk mengantar buku itu kepada kita.
+zsm_Latn	ind	Ahli rombongan dapat bertukar-tukar fikiran dan saling membantu untuk meringankan serta menyelesaikan sesuatu tugasan.	Anggota kelompok dapat bertukar pikiran dan saling membantu untuk meringankan dan menyelesaikan suatu pekerjaan.
+ind	zsm_Latn	Kotak ini berisi apel.	Kotak ini mengandungi epal.
+ind	zsm_Latn	Padahal hanya lari sebentar, tapi lutut saya sudah gemetar.	Dengan berlari sedikit sahaja, kaki saya bergetar.
+ind	zsm_Latn	Di mana rumah sakit yang paling dekat?	Di mana hospital yang paling dekat?
+max_Latn	ind	Ngana masi kacil.	Kamu itu masih muda.
+ind	min	Tom berjanji padaku bahwa dia tidak akan melakukan hal itu lagi.	Tom bajanji ka awak untuak ndak mangarajoan itu lai.
+ind	max_Latn	Mau ke mana?	Mu pigi di mana?
+ind	max_Latn	Dari mana asalmu?	Ngana orang mana?
+zsm_Latn	ind	Lesen memandu anda telah tamat tempohnya.	Surat Izin Mengemudi anda sudah habis masa berlakunya.
+ind	max_Latn	Ibu sedang masak di dapur.	Mama ada mumasa di dapur.
+max_Latn	ind	Tidor suda Una, su lat ni.	Tidurlah Una, hari sudah larut malam.
+zsm_Latn	ind	Bilakah akan teksi bertolak ke lapangan terbang?	Kapan taksi akan berangkat ke bandar udara?
+ind	zsm_Latn	Tolong saya ambilkan buku di atas meja itu.	Tolong saya ambilkan buku di atas meja itu.
+ind	max_Latn	Apa kau pernah pergi ke Prancis sebelumnya?	Ngana su perna sampe di Prancis ka balong?
+ind	zsm_Latn	Aturan yang bagus untuk melihat kedua arah sebelum menyeberang jalan raya di mana saja.	Ialah sebuah peraturan yang bagus untuk melihat dua-dua arah sebelum melintasi jalan raya di mana-mana sahaja.
+ind	min	Lompat!	Lompek!
+ind	zsm_Latn	Hujannya berlanjut hingga sehari penuh.	Hujan itu berlanjutan sehari.
+ind	min	Bangun!	Jago!
+max_Latn	ind	Tempo apa ngana pe ulang tahun?	Kapan hari ulang tahunmu?/Kapan kamu berulang tahun.
+ind	max_Latn	Tolong matikan lampunya.	Bunu lampu ka.
+min	ind	Iko masjid.	Ini masjid.
+max_Latn	ind	Sadiki sore akang ujang ka tarada?	Apakah sore ini akan hujan?
+max_Latn	ind	Kita su kasana di dia pe ruma me dia tarada kong.	Aku sudah pergi ke rumahnya tetapi dia tidak berada di sana.
+ind	max_Latn	Betapa sombongnya dirimu.	Biking diri sampe.
+min	ind	Makanlah!	Makanlah!
+ind	zsm_Latn	Pak guru, izinkan saya pergi ke kamar kecil.	Cikgu, izinkan saya pergi ke tandas.
+ind	max_Latn	Sekarang, Muiriel sudah berumur dua puluh tahun.	Skarang Muriel su 20 taong.
+ind	max_Latn	Enam derajat dibawah nol.	Ini min anam derajat.
+max_Latn	ind	Kita pe tiket ilang.	Aku kehilangan tiketku.
+zsm_Latn	ind	Hujan itu berlanjutan sehari.	Hujannya berlanjut hingga sehari penuh.
+ind	zsm_Latn	Tom akan pergi ke Australia musim dingin ini.	Tom akan pergi ke Australia musim sejuk ini.
+ind	zsm_Latn	Saya suka makan semangka	Saya suka untuk makan tembikai.
+ind	zsm_Latn	Teman yang lain tidak bisa datang karena ada urusan masing-masing.	Kawan-kawan yang lain tidak dapat datang kerana masing-masing ada urusan lain.
+ind	zsm_Latn	Saya telah memintanya untuk mengantar buku itu kepada kita.	Saya telah meminta daripadanya untuk menghantar buku itu kepada kita.
+ind	zsm_Latn	Waktu luangnya digunakan untuk main golf.	Masa lapangnya digunakan untuk bermain golf.
+ind	zsm_Latn	Bahasa Melayu sudah terbukti berperan sebagai bahasa keilmuan sejak lama.	Bahasa Melayu sudah terbukti berperanan sebagai bahasa ilmu sejak dahulu lagi.
+zsm_Latn	ind	Tolong saya ambilkan buku di atas meja itu.	Tolong saya ambilkan buku di atas meja itu.
+ind	zsm_Latn	Saya boleh makan apel ini?	Bolehkah saya makan epal ini?
+zsm_Latn	ind	Kenapa anda menolak permintaannya untuk menaikan gajinya?	Kenapa anda menolak permintaannya untuk menaikkan gaji?
+ind	zsm_Latn	Jarang sekali kita mendengar ada orang yang menceritakan semua tentang rumah tangganya kepada orang lain.	Sangat jarang kita mendengar ada orang yang mencanang perihal rumahtangganya kepada orang lain.
+ind	max_Latn	Tim mana yang kamu favoritkan?	Ngana fens apa?
+zsm_Latn	ind	Tom ingin memakai kasut baru nya.	Tom ingin mengenakan sepatu barunya.
+max_Latn	ind	Skarang Muriel su 20 taong.	Sekarang, Muiriel sudah berumur dua puluh tahun.
+max_Latn	ind	Bae-bae la jang babasa.	Tom menunggu Mary pulang ke rumah.
+ind	zsm_Latn	Di sini, mengelola waktu dan disiplin diri amat penting.	Di sini, pengurusan masa dan disiplin diri amat penting.
+ind	zsm_Latn	Pemilik toko tidak menyadari barang-barang di tokonya sudah banyak yang kadaluwarsa.	Pekedai itu tidak perasan barang-barang di kedainya sudah banyak yang tamat tempoh.
+ind	max_Latn	Tom lebih tinggi ketimbang aku.	Tom deng kita tu dia yang tinggi.
+min	ind	Gilo!	Gila!
+ind	min	Apakah itu penting?	Apo itu paralu?
+ind	zsm_Latn	Sedih.	Sedih.
+ind	max_Latn	Mati?	Maninggal?
+max_Latn	ind	Barenti!	Hentikan!
+zsm_Latn	ind	Masa lapangnya digunakan untuk bermain golf.	Waktu luangnya digunakan untuk main golf.
+zsm_Latn	ind	Kenapa awak ada komputer riba tetapi tiada telefon bimbit?	Kenapa kamu punya komputer jinjing tetapi tidak punya telepon seluler?
+zsm_Latn	ind	Jomlah!	Ayolah!
+ind	max_Latn	Jaga bayinya sebentar.	Lia tu ana bayi sadiki.
+ind	zsm_Latn	Hari ini, saya tidak mau pergi ke sekolah.	Hari ini, saya tidak mahu pergi ke sekolah.
+zsm_Latn	ind	Diamlah!	Diamlah!
+zsm_Latn	ind	Buku itu kecil.	Buku itu kecil.
+ind	max_Latn	Sudahlah.	Kase tinggal suda.
+zsm_Latn	ind	Saya tidak suka belajar.	Saya tidak suka belajar.
+ind	zsm_Latn	Aku tinggal di rumah selama seminggu.	Saya tinggal di rumah selama seminggu.
+zsm_Latn	ind	Jawablah.	Jawablah.
+ind	zsm_Latn	Saya tidak ada di kantor hari ini.	Saya tiada di pejabat hari ini.
+ind	zsm_Latn	Tom bilang dia akan membayar semuanya.	Tom berkata dia akan membayar semua perkara itu.
+min	ind	Lari!	Lari!
+zsm_Latn	ind	Anjing-anjing pemburu itu diikuti bau musang itu.	Para anjing pemburu mengikuti bau dari rubah itu.
+ind	min	Berapa sewa rumah ini?	Bara sewa rumah ko?
+ind	zsm_Latn	Tom menyarankan agar kita menunggu di sini.	Tom telah mencadangkan agar kita menunggu di sini.
+ind	zsm_Latn	Saya minta maaf jika saya tak bisa menerima cintamu.	Maafkan saya jika saya tidak dapat menerima cinta awak.
+ind	zsm_Latn	Apakah kamu bisa mengecek tekanan bannya?	Boleh awak periksa tekanan tayar itu?
+ind	zsm_Latn	Aku tidak tau mengapa Tuhan memberi kita 10 jari, karena kita hanya butuh tiga.	Aku tidak tahu kenapa Tuhan beri kita 10 jari, kerana kita hanya perlukan tiga.
+ind	max_Latn	Dia membuka pintu.	Buka pintu tu!
+ind	zsm_Latn	Lupakan.	Lupakannya.
+ind	min	Aku makan apel.	Awak makan apel.
+max_Latn	ind	Ngana ada gares ka tarada?	Punya korek?
+max_Latn	ind	Di kita pe spatu ada batu dalam situ.	Ada batu di dalam sepatu saya.
+zlm_Latn	ind	Kau pernah tak bakar kot kau ngan sebatang rokok?	Lu pernah nggak bakarin jas lu sama sebatang rokok?
+max_Latn	ind	Sapa yang dapa pulau itu?	Pulau itu ditemukan oleh siapa?
+max_Latn	ind	Kase mati lampu ka.	Tolong matikan lampunya.
+zsm_Latn	ind	Bahagian atas gunung itu diliputi oleh salji.	Bagian atas gunung itu diselimuti salju.
+ind	min	Hujankah?	Hujan hari?
+max_Latn	ind	Torang pe tifi ada dua biji.	Kami memiliki dua buah televisi.
+ind	zsm_Latn	Kerongkongan saya kering.	Tekak saya kering.
+max_Latn	ind	Pulau satu tu torang lia dari atas pesawat tu pe bagus bahaya.	Dilihat dari pesawat, pulau itu terlihat indah sekali.
+max_Latn	ind	Tarada! Kita tara mau pigi!	Tidak! Saya tidak mau pergi.
+max_Latn	ind	Kita su bilang ulang-ulang la badiam dalam ruma me dorang tara dengar.	Aku bersikeras menyuruh mereka untuk tetap tinggal, tetapi mereka tidak sekali-kali mendengarkan perkataanku.
+max_Latn	ind	Bae-bae la jang kanal ujang.	Tom menunggu Mary pulang ke rumah.
+ind	max_Latn	Di cina, kami meletakkan nama keluarga kami didepan, kemudian nama kami.	Di Cina tu fam di muka, nama di balakang.
+ind	min	Tidak.	Indak.
+min	ind	Iko di jua per kilo atau sabungkuih atau ciek ciek?	Apakah ini dijual per kilo, sebungkus, atau eceran?
+ind	max_Latn	Dia tidak sebodoh yang kamu kira.	Ngana kira dia pambodo macam itu? Tarada e!
+zsm_Latn	ind	Dia takut adiknya akan gagal.	Dia takut adiknya akan gagal.
+ind	max_Latn	Mau ke mana?	Ngana mu pigi di mana?
+ind	zsm_Latn	Semua jalan berakhir di Roma.	Semua jalan sampai ke Rome.
+zsm_Latn	ind	Awak sudah makan nasi?	Kamu sudah makan nasi?
+ind	zsm_Latn	Ada pertanyaan tentang makanannya?	Adakah sebarang pertanyaan tentang makanan?
+zsm_Latn	ind	Tom berkata dia akan membayar semua perkara itu.	Tom bilang dia akan membayar semuanya.
+ind	zsm_Latn	Saya tidak ingat!	Saya tak ingat!
+ind	max_Latn	Una lebih tua daripada Sakila.	Una deng Sakila tu Una yang kaka.
+ind	zsm_Latn	Hatiku penuh dengan kebahagiaan.	Hatiku dipenuhi dengan kebahagiaan.
+ind	max_Latn	Tom menunggu Mary pulang ke rumah.	Basombar la jang babasa.
+ind	min	Sudah pergi ke tempat pemungutan suara tadi?	Alah pai ka TPS tadi?
+zsm_Latn	ind	Pulau Sebatik adalah salah satu kawasan sempadan antara Indonesia dan Malaysia.	Pulau Sebatik merupakan daerah perbatasan Indonesia-Malaysia.
+zsm_Latn	ind	Nampak saya ok tak?	Apa saya terlihat baik-baik saja?
+max_Latn	ind	Ngana pe mama ada biking apa di ruma pas ngana bale?	Apa yang dilakukan ibumu saat kamu kembali ke rumah.
+max_Latn	ind	Tadi ngana ada di sana?	Kamu tadi di sana?
+max_Latn	ind	Ngana ada macis ka tarada?	Punya korek?
+ind	max_Latn	Dua ratus orang meninggal karena kolera tahun lalu.	Kolera bage sampe 200 orang maninggal.
+zsm_Latn	ind	Awak tidak berubah langsung.	Kamu tidak berubah sama sekali.
+ind	zsm_Latn	Kapan kamu membuka toko barunya?	Bila anda membukai kedai baru anda?
+zsm_Latn	ind	Cikgu, izinkan saya pergi ke tandas.	Pak guru, izinkan saya pergi ke kamar kecil.
+ind	zsm_Latn	Hobiku menulis cerita.	Hobi saya ialah menulis cerita.
+max_Latn	ind	Ujang turung su ampa hari.	Hujannya bertahan selama empat hari.
+ind	zsm_Latn	Dia sudah berbicara dengan presiden.	Dia telah bercakap dengan presiden.
+zsm_Latn	ind	Dia sedang belajar sekarang.	Dia sedang belajar.
+ind	zsm_Latn	Saya berangkat sekolah jam tujuh.	Saya pergi ke sekolah pada pukul tujuh.
+zsm_Latn	ind	Apakah rancangan televisyen kegemaran awak?	Apa acara TV kesukaanmu?
+zsm_Latn	ind	Awak tidak dibenarkan untuk menyentuh lukisan itu.	Kamu tidak diperbolehkan untuk menyentuh lukisan itu.
+max_Latn	ind	Su tidor?	Apakah kamu sudah tidur?
+ind	zsm_Latn	Saya butuh sebuah sepeda baru.	Saya perlu sebuah basikal baru.
+ind	min	Ini bukan ikan.	Indak ikan ko do.
+zsm_Latn	ind	Kedengkian adalah seperti kebusukan tulang.	Dengki itu bagaikan tulang yang busuk.
+ind	max_Latn	Saya berusia 18 tahun.	Kita su 18 taong.
+ind	max_Latn	Tom lebih tinggi dari saya.	Tom deng kita tu Tom yang tinggi.
+ind	max_Latn	Rumahku berlantai 2.	Kita pe ruma dua lantai.
+ind	max_Latn	Aku bersikeras menyuruh mereka untuk tetap tinggal, tetapi mereka tidak sekali-kali mendengarkan perkataanku.	Kita su suru-suru dorang la badiam dalam ruma me dorang tara dengar.
+ind	max_Latn	Kami bermain sepak bola kemarin.	Kalmaring torang barmaeng bola kaki.
+ind	zsm_Latn	Apakah Anda sudah pergi ke tempat pemungutan suara?	Sudahkah awak pergi ke pilihan raya hari ini?
+ind	zsm_Latn	Saya membayar mobil itu dengan uang tunai.	Saya membayar kereta itu dengan wang tunai.
+max_Latn	ind	Ngana ni baru dari mana?	Kamu dari mana saja?
+min	ind	Ingek!	Ingat!
+ind	min	Pembohong!	Panduto!
+ind	zsm_Latn	Saya hampir saja ditabrak mobil.	Hampir-hampir saya dilanggar kereta.
+ind	max_Latn	Apa pendapat Anda tentang Reggae?	Ngana tau reggae tu bagimana?
+zsm_Latn	ind	Kampung ini terkenal dengan pelbagai hasil pertanian seperti koko dan nanas.	Kampung ini dikenal karena berbagai hasil pertaniannya seperti coklat dan nanas.
+ind	zsm_Latn	Fasilitasnya kelas satu tetapi cara pikirnya setingkat kelas tiga.	Kemudahan kelas pertama tetapi pemikiran bertaraf kelas ketiga.
+ind	zsm_Latn	Hanya Tuhan yang mengetahui betapa tulus saya mencintai kamu.	Hanya Tuhan yang mengetahui betapa tulusnya saya mencintai awak.
+zsm_Latn	ind	Apa yang patut untuk saya bawa?	Saya harus bawa apa?
+ind	zsm_Latn	Kita yang perlu selalu siap sewaktu-waktu dibutuhkan.	Kita yang perlu sentiasa peka andai ada yang memerlukan.
+ind	zsm_Latn	Tom mengatakannya sebagai hiburan.	Tom berkata bahawa untuk mencuit hati.
+zsm_Latn	ind	Saya seorang guru bahasa Jepun.	Saya guru bahasa Jepang.
+min	ind	Awak makan apel.	Aku makan apel.
+ind	zsm_Latn	Kue ini enak. Coba dimakan.	Kek ini sedap. Cubalah makan.
+ind	zsm_Latn	Aku mulai bisa melihatnya, tapi belum bisa membaca pikirannya.	Aku dah mula nampak dia, tapi aku belum dapat menyentuh fikirannya.
+min	ind	Jan remehan tanago wak.	Jangan meremehkan kekuatanku.
+zsm_Latn	ind	Hasil lain termasuk arang batu, kelapa, tebu, nanas, tembakau, sayur-sayuran, sagu, ubi kayu, kopi, teh, jagung dan kacang tanah.	Hasil bumi lainnya termasuk batu bara, kelapa, tebu, nanas, tembakau, sayuran, sagu, tapioka, kopi, teh, jagung, dan kacang tanah.
+min	ind	Apo lagunyo ka jadi terkenal masih diraguan.	Ayahku tidak akan membiarkanku menikahinya.
+ind	min	Jelas.	Jaleh.
+max_Latn	ind	Ngana su perna pigi di Prancis ka balong?	Apa kau pernah pergi ke Prancis sebelumnya?
+ind	zsm_Latn	Sampai tahap mana kita perlu mempercayainya?	Sehingga tahap mana kita perlu percayakan dia?
+ind	max_Latn	Mereka berkata seperti apa?	Dong bilang bagimana?
+zsm_Latn	ind	Apabila saya pulang, saya mendapati bahawa kereta saya hilang!	Saat saya pulang, saya mendapati mobil saya hilang!
+ind	max_Latn	"Apa hujannya terlihat akan mereda?" "Aku harap begitu."	"Ujang su mu barenti ka"? "Kita harap la dia bagitu."
+ind	zsm_Latn	Kalian semua harus membacanya.	Kamu semua mesti membacanya.
+max_Latn	ind	"Kabar bagimana?" "Bae-bae saja, trima kasi e."	"Apa kabar?" "Kabar saya baik, terima kasih."
+max_Latn	ind	Galap-galap bagitu dia bailang.	Dia menghilang dalam kegelapan.
+ind	zsm_Latn	Apakah anda sudah mengunjungi Menara Tokyo?	Anda telah melawat Menara Tokyo?
+ind	max_Latn	Tom dan Sue sudah saling mengenal sejak 1985.	Tom deng Sue su baku kanal dari taong 1985.
+ind	zsm_Latn	Ini kelompok keempat yang tampil.	Ini kumpulan keempat yang membuat persembahan.
+zsm_Latn	ind	Aku dah mula nampak dia, tapi aku belum dapat menyentuh fikirannya.	Aku mulai bisa melihatnya, tapi belum bisa membaca pikirannya.
+ind	max_Latn	Hujannya bertahan selama empat hari.	Ujang turung su ampa hari.
+ind	zsm_Latn	Jawablah.	Jawablah.
+zsm_Latn	ind	Beliau menulis sepucuk surat kepada ibunya setiap sekarang dan kemudian.	Ia sesekali mengirim sepucuk surat kepada ibundanya.
+zsm_Latn	ind	Saya tidak boleh ingat kembali melodi lagu itu.	Saya tidak ingat nada lagu itu.
+ind	zsm_Latn	Dia bertanya apakah saya tahu alamat orang itu.	Dia bertanya jika saya tahu alamatnya
+zsm_Latn	ind	Saya malas.	Saya malas.
+ind	zsm_Latn	Kami telah melakukan hal yang mustahil.	Kami sudah buat hal yang mustahil.
+zsm_Latn	ind	Dengan berlari sedikit sahaja, kaki saya bergetar.	Padahal hanya lari sebentar, tapi lutut saya sudah gemetar.
+ind	zsm_Latn	Saya perlu belajar bahasa Jepang.	Saya perlu belajar bahasa Jepun.
+ind	max_Latn	Siapakah Mona Lisa?	Mona Lisa tu sapa?
+max_Latn	ind	Una masi SMA me su batunangan.	Meskipun Una masih bersekolah di SMA, dia sudah berpacaran.
+ind	max_Latn	Berapa lama kau tinggal di luar negeri?	Su barapa lama ngana di luar negeri?
+ind	zsm_Latn	Bagus!	Bagus!
+zsm_Latn	ind	Tom berkata bahawa untuk mencuit hati.	Tom mengatakannya sebagai hiburan.
+ind	zsm_Latn	Hidup bagaikan permainan catur.	Hayat bagaikan permainan catur.
+ind	min	Cepatlah!	Capeklah!
+max_Latn	ind	Kita pe ruma dua lantai.	Rumahku berlantai 2.
+min	ind	Kamari.	Kemari.
+ind	zsm_Latn	Mereka sudah tidak bertarung selama lebih dari 40 tahun.	Mereka tidak lagi bertarung selama empat puluh tahun lebih.
+zsm_Latn	ind	Saya suka buku-buku Harry Potter.	Saya suka buku-buku Harry Potter.
+max_Latn	ind	Ngana bisa barmaeng piano ka tarada?	Bisakah kau bermain piano?
+ind	zsm_Latn	Dia sudah pergi ke Swiss.	Dia telah pergi ke Switzerland.
+zsm_Latn	ind	Kesihatan lebih penting berbanding dengan emas.	Kesehatan lebih penting dibanding emas.
+zsm_Latn	ind	Apakah nama ibu negara Amerika?	Apa nama ibu kota negara Amerika?
+ind	max_Latn	Di mana jamku?	Kita pe jam di mana ni?
+max_Latn	ind	Ngoni mu pigi di mana?	Anda akan pergi ke mana?
+ind	zsm_Latn	Cobalah berkata dengan lemah lembut dan tidak memaki-maki.	Cubalah bercakap dengan lemah lembut dan tidak mencarut-marut.
+max_Latn	ind	Tom pe kaki badara.	Kaki Tom terluka.
+zsm_Latn	ind	Dialah orang yang baik, tapi sesungguhnya, dia tak berapa pandai.	Dia adalah orang yang baik, tetapi sesungguhnya, dia tidak terlalu pandai.
+min	ind	Baranti.	Berhenti.
+zsm_Latn	ind	Dimulakan!	Mulai!
+zsm_Latn	ind	Profesor Brown menerangkan perkara-perkara dengan baik.	Profesor Brown menjelaskan suatu hal dengan baik.
+max_Latn	ind	Maninggal?	Mati?
+zsm_Latn	ind	Kamu boleh membelinya di kedai buku.	Kamu dapat membelinya di toko buku.
+ind	max_Latn	Dia pergi ke mana?	Dia pigi di mana?
+zsm_Latn	ind	Cubalah bercakap dengan lemah lembut dan tidak mencarut-marut.	Cobalah berkata dengan lemah lembut dan tidak memaki-maki.
+ind	max_Latn	Aku sangat rindu padamu!	Kita inga ngana.
+zsm_Latn	ind	Tom telah mencadangkan agar kita menunggu di sini.	Tom menyarankan agar kita menunggu di sini.
+max_Latn	ind	Basombar la jang babasa.	Tom menunggu Mary pulang ke rumah.
+ind	zsm_Latn	Kita salah belok.	Kita telah masuk ke simpang yang salah.
+max_Latn	ind	Tom ada tamang satu, dia pe papa astronot.	Tom punya teman yang ayahnya seorang astronot.
+ind	max_Latn	Saya tidak tahu cara membeli tiket.	Kita tara tau bali tiket tu bagimana.
+zsm_Latn	ind	Dia juga sedang belajar Bahasa Cina.	Dia juga belajar bahasa Cina.
+ind	zsm_Latn	Saat besar nanti kamu ingin menjadi apa?	Apa yang awak ingin jadi apabila awak besar?
+ind	zsm_Latn	Dia selalu merapikan meja setelah makan.	Dia selalu mengemas meja selepas makan.
+zsm_Latn	ind	Saya akan tinggal di tempat pakcik saya di Kyoto.	Saya akan tinggal di tempat paman saya di Kyoto.
+ind	zsm_Latn	Dia sedang belajar.	Dia sedang belajar sekarang.
+ind	zsm_Latn	Tom ingin mengenakan sepatu barunya.	Tom ingin memakai kasut baru nya.
+min	ind	Tunggu!	Tunggu!
+zsm_Latn	ind	Kawan yang dirindui.	Teman yang dirindukan.
+max_Latn	ind	Su rai da.	Sudah kuduga.
+zsm_Latn	ind	Hayat bagaikan permainan catur.	Hidup bagaikan permainan catur.
+ind	max_Latn	Apakah di dapur ada pisau?	Di dapur ada piso ka tarada?
+zsm_Latn	ind	Biarlah kita mula dari pelajaran 10.	Mari mulai dari Pelajaran 10.
+max_Latn	ind	Kalo mu pigi tu tutu pintu.	Tutup pintunya ketika kamu pergi.
+zsm_Latn	ind	Disebabkan semalam sangat sejuk, kami tidak keluar dari rumah dan hanya duduk di dalam rumah.	Semalam sangat dingin, makanya kami tidak ke luar, di dalam rumah saja.
+max_Latn	ind	Ngana ada gares ka tarada?	Apa kamu mempunyai korek?
+ind	zsm_Latn	Farhan akan mengumandangkan azan tepat ketika sudah masuk waktunya.	Farhan akan melaungkan azan tepat pada masanya apabila masuk waktu.
+zsm_Latn	ind	Jambatan Golden Gate itu diperbuat daripada besi.	Jembatan Golden Gate terbuat dari besi.
+max_Latn	ind	Dorang pangge-pangge ngana sapa?	Siapa nama panggilanmu ?
+ind	max_Latn	Saya dari Thailand.	Kita dari Thailand.
+zsm_Latn	ind	Saya membayar kereta itu dengan wang tunai.	Saya membayar mobil itu dengan uang tunai.
+ind	max_Latn	Nyalakan radionya.	Putar radio tu.
+ind	zsm_Latn	Secara umum, wanita hidup sepuluh tahun lebih lama dibanding laki-laki.	Secara amnya, wanita hidup sepuluh tahun lebih lama daripada lelaki.
+zsm_Latn	ind	Saya suka untuk makan tembikai.	Saya suka makan semangka
+ind	max_Latn	Di cina, kami meletakkan nama keluarga kami didepan, kemudian nama kami.	Di Cina tu torang pe fam taru di muka, nanti torang pe nama taru di balakang.
+zsm_Latn	ind	Hari ini, saya tidak mahu pergi ke sekolah.	Hari ini, saya tidak mau pergi ke sekolah.
+ind	zsm_Latn	Buku saya amat berat.	Buku saya amat berat.
+ind	max_Latn	Kamu dari mana saja?	Ngana ni baru dari mana?
+zsm_Latn	ind	Hobi saya ialah menulis cerita.	Hobiku menulis cerita.
+ind	min	Cukup!	Cukuik!
+ind	min	Saya pikir tempat ini lebih bagus daripada yang ini.	Tampek ko labiah rancak pado nan tadi.
+min	ind	Indak.	Tidak.
+ind	min	Sungguh terima kasih atas bantuannya.	Tarimo kasih bana untuak bantuannyo.
+zsm_Latn	ind	Kek ini sedap. Cubalah makan.	Kue ini enak. Coba dimakan.
+ind	zsm_Latn	Jam tangan ini perlu diperbaiki.	Jam tangan ini perlu dipasang.
+ind	zsm_Latn	Tidak ada keberhasilan yang mutlak di dunia, hanya kemajuan yang terus-menerus.	Tidak ada kejayaan yang mutlak di dunia, hanya kemajuan yang berterusan.
+ind	max_Latn	Kamu dari mana, Karen?	Karen, ngana dari mana?
+ind	max_Latn	Apa pendapat Anda tentang Reggae?	Ngoni tau reggae tu bagimana?
+ind	max_Latn	Nama keluarga saya adalah Wang.	Kita pe fam Wang.
+ind	zsm_Latn	Kalau saya jadi anda, saya tidak akan berbuat seperti itu.	Kalau saya anda, saya tidak akan membuat perkara begitu.
+ind	max_Latn	Tom lebih tua daripada aku.	Tom deng kita tu dia yang kaka.
+ind	zsm_Latn	Sepeda saya telah dicuri semalam.	Basikal saya telah dicuri semalam.
+ind	max_Latn	Apakah Anda bisa berbicara bahasa Indonesia?	Ngana bisa bicara bahasa Indonesia ka tarada?
+ind	min	Makanlah!	Makanlah!
+zsm_Latn	ind	Tekak saya kering.	Kerongkongan saya kering.
+zsm_Latn	ind	Saya perlu belajar bahasa Jepun.	Saya perlu belajar bahasa Jepang.
+zsm_Latn	ind	Maafkan saya, bolehkah tolong ambilkan garam dan ladanya?	Maaf, bisa tolong ambilkan garam dan mericanya?
+max_Latn	ind	Ngana kira dia pambodo macam itu? Tarada e!	Dia tidak sebodoh yang kamu kira.
+ind	max_Latn	Saya berak di celana.	Kita bera calana.
+ind	max_Latn	Bukannya sekolah, dia malah di rumah.	Tara pigi skola kong di ruma.
+zsm_Latn	ind	Maafkan saya jika saya tidak dapat menerima cinta awak.	Saya minta maaf jika saya tak bisa menerima cintamu.
+ind	zsm_Latn	Aku mengandalkanmu untuk mengawasi Tom.	Saya mengharapkan awak untuk mengawasi Tom.
+min	ind	Hujan hari?	Hujankah?
+zsm_Latn	ind	Saya lapar.	Saya lapar.
+ind	min	Sempurna!	Samparono!
+ind	max_Latn	Kami memiliki dua buah televisi.	Torang pe tifi ada dua biji.
+ind	zsm_Latn	Saya suka buku-buku Harry Potter.	Saya suka buku-buku Harry Potter.
+ind	max_Latn	Kenapa dia tidak datang?	Bikiapa dia tara datang?
+zsm_Latn	ind	Lagu ini adalah mudah untuk dipelajari.	Lagu ini mudah dipelajari.
+max_Latn	ind	Kita dari Thailand.	Saya dari Thailand.
+ind	zsm_Latn	Bisa pakai kartu kredit?	Kad kredit boleh?
+min	ind	Ambo indak takuik mati.	Aku tidak takut mati.
+zsm_Latn	ind	Saya tidak pandai bercakap bahasa Albania.	Saya tidak bisa berbicara dengan bahasa Albania.
+zsm_Latn	ind	Saya mandi sekali setiap hari.	Saya mandi sehari sekali.
+max_Latn	ind	Tom deng Sue su baku kanal dari taong 1985.	Tom dan Sue sudah saling mengenal sejak 1985.
+ind	zsm_Latn	Pulau Sebatik merupakan daerah perbatasan Indonesia-Malaysia.	Pulau Sebatik adalah salah satu kawasan sempadan antara Indonesia dan Malaysia.
+max_Latn	ind	Dia pe muka bulat.	Ia memiliki wajah bulat.
+min	ind	Awas!	Awas!
+zsm_Latn	ind	Kita telah masuk ke simpang yang salah.	Kita salah belok.
+ind	max_Latn	Ia memiliki wajah bulat.	Dia pe muka bulat.
+ind	min	Tenanglah.	Tananglah.
+ind	min	Ada pertanyaan tentang makanannya?	Ado pertanyaan ndak tentang makanannyo?
+max_Latn	ind	Putar radio tu.	Nyalakan radionya.
+max_Latn	ind	Ngana tau reggae tu bagimana?	Apa pendapat Anda tentang Reggae?
+min	ind	Pai!	Pergi!
+ind	zsm_Latn	Saya belok ke kanan.	Saya pusing ke kanan.
+ind	max_Latn	Ada apa denganmu?	Ngana bikiapa?
+max_Latn	ind	Ngana musti baku bicara deng ngana pe dokter.	Kau harus berkonsultasi dengan doktermu.
+ind	min	Keluar!	Kalua!
+ind	zsm_Latn	Ini adalah model pakaian terkini.	Ini ialah fesyen terkini.
+zsm_Latn	ind	Sehingga tahap mana kita perlu percayakan dia?	Sampai tahap mana kita perlu mempercayainya?
+ind	min	Biarkan aku mengantarmu pulang.	Bia wak ma antaan pulang.
+ind	zsm_Latn	Tangga ini dibuat dari kayu jati.	Tangga ini diperbuat daripada kayu jati.
+zsm_Latn	ind	Aku kena buat sesuatu.	Saya harus melakukan sesuatu.
+max_Latn	ind	Ngana fens tim apa?	Tim mana yang kamu favoritkan?
+ind	zsm_Latn	Surat Izin Mengemudi anda sudah habis masa berlakunya.	Lesen memandu anda telah tamat tempohnya.
+ind	max_Latn	Apakah saya boleh membuka jendela?	Bole kita buka jendela ka tarada?
+ind	max_Latn	Tolong nyalakan lampunya.	Kase manyala lampu ka.
+ind	zsm_Latn	Kamu tahu siapa yang melukis gambar ini?	Anda tahu siapa yang lukiskan gambar ini?
+zsm_Latn	ind	Jom kita ke masjid.	Ayo kita ke masjid.
+ind	zsm_Latn	Anda tidak perlu kuatir dengan hal itu.	Kamu tak payah risau.
+max_Latn	ind	Kase tinggal suda.	Sudahlah.
+min	ind	Ang ko sedang bagarah ato serius katiko mangecek an ko?	Kamu serius atau bercanda ketika mengatakan ini?
+ind	max_Latn	"Apa kabar?" "Kabar saya baik, terima kasih."	"Kabar bagimana?" "Bae-bae saja, trima kasi e."
+zsm_Latn	ind	Saya tinggal di rumah selama seminggu.	Aku tinggal di rumah selama seminggu.
+ind	max_Latn	Dilihat dari pesawat, pulau itu terlihat indah sekali.	Pulau satu tu torang lia dari atas pesawat tu pe bagus bahaya.
+ind	max_Latn	Apa yang dilakukan ibumu saat kamu kembali ke rumah.	Ngana pe mama ada biking apa di ruma pas ngana bale?
+max_Latn	ind	Kalmaring torang barmaeng bola kaki.	Kami bermain sepak bola kemarin.
+ind	max_Latn	Punya korek?	Ada gares?
+ind	zsm_Latn	Saya ingin belajar di luar negeri.	Saya mahu belajar di luar negeri.
+ind	zsm_Latn	Ada berapa banyak orang dalam kamar ini?	Ada berapa banyak orang dalam bilik ini?
+min	ind	Bara harago rumah ko?	Berapa harga rumah ini?
+min	ind	Anok lah!	Berisik!
+zsm_Latn	ind	Basikal saya telah dicuri semalam.	Sepeda saya telah dicuri semalam.
+ind	max_Latn	Kau harus berkonsultasi dengan doktermu.	Ngana musti baku bicara deng ngana pe dokter.
+ind	zsm_Latn	Saya ingin mengundang kamu ke pesta.	Saya mahu mengundang kamu ke parti.
+min	ind	Sumangaik!	Semangat!
+ind	zsm_Latn	Tak seorang pun membantu saya.	Tiada sesiapa yang membantu saya.
+zsm_Latn	ind	Saya tiada kasut yang sesuai untuk acara itu.	Saya tidak punya sepatu yang cocok untuk acara itu.
+min	ind	Tasarah!	Terserah!
+ind	max_Latn	Aku sangat lapar!	Kita lapar skali.
+ind	zsm_Latn	Aku punya saudara kembar kakak laki-laki.	Saya mempunyai kembar lelaki.
+zsm_Latn	ind	Pekedai itu tidak perasan barang-barang di kedainya sudah banyak yang tamat tempoh.	Pemilik toko tidak menyadari barang-barang di tokonya sudah banyak yang kadaluwarsa.
+max_Latn	ind	Ken deng Taro tu sapa yang tinggi?	Antara Ken dan Taro, siapa yang badannya lebih tinggi?
+zsm_Latn	ind	Dia kurang cantik berbanding kakaknya.	Dia kurang cantik dibanding kakaknya.
+ind	max_Latn	Surat itu akan sampai besok.	Beso surat itu su sampe.
+zsm_Latn	ind	Ia penting?	Itu penting?
+zsm_Latn	ind	Adakah anda mempunyai wang tunai lebih daripada sepuluh ribu euro?	Apakah Anda memiliki uang tunai senilai lebih dari sepuluh ribu Euro?
+ind	max_Latn	Meskipun Una masih bersekolah di SMA, dia sudah berpacaran.	Una masi SMA me su batunangan.
+ind	max_Latn	Tom menunggu Mary pulang ke rumah.	Bae-bae la jang kanal ujang.
+min	ind	Apo itu paralu?	Apakah itu penting?
+ind	max_Latn	Untuk apa?	Bikiapa?
+zsm_Latn	ind	Jam tangan ini perlu dipasang.	Jam tangan ini perlu diperbaiki.
+ind	max_Latn	Kami memanggil dia Mike.	Torang pangge-pangge dia Mike.
+ind	max_Latn	Aku kehilangan tiketku.	Kita pe tiket ilang.
+ind	max_Latn	Sudahlah.	Biar suda.
+max_Latn	ind	Ngana fens apa?	Tim mana yang kamu favoritkan?
+ind	zsm_Latn	Kamu orang baru?	Awak baru?
+ind	zsm_Latn	Apa kabar, dunia!	Salam dunia
+max_Latn	ind	Dulu tu Kyoto to Japang pe ibukota.	Kyoto dulunya adalah ibukota Jepang.
+ind	zsm_Latn	Saya tidak bisa memperbaiki komputer.	Saya tidak boleh membaiki komputer.
+ind	min	Berapa harga rumah ini?	Bara harago rumah ko?
+ind	max_Latn	Tuliskan itu.	Tulis suda.
+ind	zsm_Latn	Dia juga belajar bahasa Cina.	Dia juga sedang belajar Bahasa Cina.
+ind	zsm_Latn	Saya harus bawa apa?	Apa yang patut untuk saya bawa?
+max_Latn	ind	Lagu itu pe mamanyanyi kita tara inga.	Saya tidak ingat nada lagu itu.
+ind	zsm_Latn	Kampus ini didirikan pada tahun 1910.	Kolej ini ditubuhkan pada tahun 1910.
+ind	zsm_Latn	Kamu tidak diperbolehkan untuk menyentuh lukisan itu.	Awak tidak dibenarkan untuk menyentuh lukisan itu.
+zsm_Latn	ind	Jangan lupakan kami!	Jangan lupakan kami!
+zsm_Latn	ind	Saya tidak faham.	Saya tidak mengerti.
+zsm_Latn	ind	Semua jalan sampai ke Rome.	Semua jalan berakhir di Roma.
+ind	zsm_Latn	Murid itu pergi tanpa berkata sesuatu.	Pelajar itu pergi tanpa menyebut apa-apa.
+zsm_Latn	ind	Kawan-kawan yang lain tidak dapat datang kerana masing-masing ada urusan lain.	Teman yang lain tidak bisa datang karena ada urusan masing-masing.
+ind	min	Saya harus belajar bahasa jepang.	Ambo harus baraja bahaso jopang.
+ind	zsm_Latn	Kamu harus membersihkan kamarmu.	Awak mesti membersihkan bilik awak.
+ind	zlm_Latn	Lu pernah nggak bakarin jas lu sama sebatang rokok?	Kau pernah tak bakar kot kau ngan sebatang rokok?
+zsm_Latn	ind	Tom sangat baik kepada saya.	Ifulki Ṭom did-i bahra.
+ind	zsm_Latn	Kenapa kamu punya komputer jinjing tetapi tidak punya telepon seluler?	Kenapa awak ada komputer riba tetapi tiada telefon bimbit?
+ind	zsm_Latn	Saya belajar bahasa Inggris dan bahasa Jepang.	Saya belajar Bahasa Inggeris dan Bahasa Jepun.
+ind	max_Latn	Kamu tadi di sana?	Tadi ngana ada di sana?
+zsm_Latn	ind	Keluarga saya dari Malaysia.	Keluarga saya dari Malaysia.
+max_Latn	ind	Karen, ngana dari mana?	Kamu dari mana, Karen?
+max_Latn	ind	Dasi satu ni dia pe harga barapa?	Berapa harga dasi ini?
+ind	max_Latn	Di mana mereka?	Dorang di mana ni?
+ind	max_Latn	Aku merasa lapar.	Macam kita su lapar ka.
+zsm_Latn	ind	Jangan bercakap tentang perniagaan semasa kita makan.	Jangan berbicara tentang bisnis saat kita makan.
+ind	zsm_Latn	Walaupun dulu Karim pengusaha yang kaya raya, kini dia hanya seorang pengemis.	Walaupun Karim dahulu usahawan yang kaya raya, kini dia hanya seorang pengemis.
+zsm_Latn	ind	Saya tidak mempunyai pilihan selain pergi ke sana.	Aku tidak punya pilihan lain selain pergi ke sana.
+ind	zsm_Latn	Apakah Anda memiliki uang tunai senilai lebih dari sepuluh ribu Euro?	Adakah anda mempunyai wang tunai lebih daripada sepuluh ribu euro?
+ind	max_Latn	Dia tidak akan pernah memaafkanku.	Dia tara akang kase maaf kita.
+zsm_Latn	ind	Kolej ini ditubuhkan pada tahun 1910.	Kampus ini didirikan pada tahun 1910.
+min	ind	Ado pertanyaan ndak tentang makanannyo?	Ada pertanyaan tentang makanannya?
+zsm_Latn	ind	Dia telah bersunat walaupun masih lagi bayi.	Dia sudah disunat walaupun masih bayi.
+zsm_Latn	ind	Awak perlu pulang ke rumah.	Kamu sebaiknya pulang ke rumah.
+ind	zsm_Latn	Proses evakuasi korban banjir terhambat karena kekurangan sukarelawan.	Proses pemindahan mangsa banjir itu berjalan perlahan kerana kekurangan sukarelawan.
+max_Latn	ind	Dong bilang bagimana?	Mereka berkata seperti apa?
+ind	max_Latn	Ibu, makan malam jam berapa?	Ma, sabantar malam torang makang jam barapa?
+ind	min	Makan malam kemana kita sekarang?	Makan malam kama wak kini ko?
+ind	zsm_Latn	Jangan sampai kamu menjadi anak durhaka seperti Sang Malin Kundang!	Jangan sampai awak menjadi anak derhaka seperti Si Tanggang!
+zsm_Latn	ind	Awak percaya kepada Tuhan?	Apakah kamu percaya akan Tuhan?
+min	ind	Tom bajanji ka awak untuak ndak mangarajoan itu lai.	Tom berjanji padaku bahwa dia tidak akan melakukan hal itu lagi.
+ind	zsm_Latn	Mulai!	Dimulakan!
+min	ind	Kalau ado tampek nan rancak disiko, bara haragonyo kiro-kiro sameter, pasarannyo bara?	Jika aku menemukan tempat disini, berapa harga tanahnya per meter atau berapa harga rata-rata tanah disini?
+ind	max_Latn	Mungkin.	Mangkali.
+ind	zsm_Latn	Terkadang mengoreksi lebih sulit daripada menulis.	Kadang-kadang untuk membetulkan adalah lebih sukar daripada menulis.
+ind	min	Dingin.	Dingin.
+ind	min	Mungkin.	Mungkin.
+min	ind	Gratis.	gratis
+ind	min	Terima kasih banyak!	Tarimo kasih banyak!
+zsm_Latn	ind	Walaupun Karim dahulu usahawan yang kaya raya, kini dia hanya seorang pengemis.	Walaupun dulu Karim pengusaha yang kaya raya, kini dia hanya seorang pengemis.
+max_Latn	ind	Ngana ada makang apa tu?	Apa yang sedang kamu makan?
+ind	max_Latn	Semalam kamu ke mana?	Tadi malam ngana pigi di mana?
+ind	zsm_Latn	Itu penting?	Ia penting?
+min	ind	Tananglah.	Tenanglah.
+ind	max_Latn	Tom akan meninggalkan Kobe besok pagi.	Beso Tom pigi kase tinggal Kobe.
+max_Latn	ind	Bole kita makang ini apel?	Saya boleh makan apel ini?
+zsm_Latn	ind	Ada berapa banyak orang dalam bilik ini?	Ada berapa banyak orang dalam kamar ini?
+max_Latn	ind	Ini min anam derajat.	Enam derajat dibawah nol.
+ind	max_Latn	Siapa nama panggilanmu ?	Dorang pangge-pangge ngana sapa?
+max_Latn	ind	Kita pe fam Wang.	Nama keluarga saya adalah Wang.
+ind	min	Lari!	Lari!
+zsm_Latn	ind	Dia menjumputnya untuk bermain bola sepak dengan kami.	Dia mengundangnya untuk bermain sepak bola dengan kami.
+ind	zsm_Latn	Saya tidak ingat nada lagu itu.	Saya tidak boleh ingat kembali melodi lagu itu.
+ind	min	Jika aku menemukan tempat disini, berapa harga tanahnya per meter atau berapa harga rata-rata tanah disini?	Kalau ado tampek nan rancak disiko, bara haragonyo kiro-kiro sameter, pasarannyo bara?
+ind	zsm_Latn	Mari mulai dari Pelajaran 10.	Biarlah kita mula dari pelajaran 10.
+ind	min	Aku tidak takut mati.	Ambo indak takuik mati.
+zsm_Latn	ind	Kadang-kadang untuk membetulkan adalah lebih sukar daripada menulis.	Terkadang mengoreksi lebih sulit daripada menulis.
+ind	zsm_Latn	Sudah berapa lama kamu tinggal di Osaka?	Berapa lamakah kamu telah tinggal di Osaka?
+ind	max_Latn	Apa warna kesukaanmu?	Ngana suka skali warna apa?
+ind	zsm_Latn	Dia sudah disunat walaupun masih bayi.	Dia telah bersunat walaupun masih lagi bayi.
+max_Latn	ind	Bole kita buka jendela?	Apakah saya boleh membuka jendela?
+max_Latn	ind	Lia tu ana bayi sadiki.	Jaga bayinya sebentar.
+ind	min	Ngantuk?	Ngantuak?
+ind	zsm_Latn	Stasiun kereta akan ditutup mulai besok.	Stesen kereta api akan tutup mulai esok.
+zsm_Latn	ind	Sistem abjad bahasa Esperanto terdiri daripada 28 huruf: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.	Abjad bahasa Esperanto terdiri dari 28 huruf: a, b, c, ĉ, d, e, f, g, ĝ, h, ĥ, i, j, ĵ, k, l, m, n, o, p, r, s, ŝ, t, u, ŭ, v, z.
+zsm_Latn	ind	Bahasa Melayu sudah terbukti berperanan sebagai bahasa ilmu sejak dahulu lagi.	Bahasa Melayu sudah terbukti berperan sebagai bahasa keilmuan sejak lama.
+max_Latn	ind	Dia pe ana dua pulu orang.	Dia memiliki dua puluh orang anak.
+max_Latn	ind	Kita pe kapala pusing skali.	Saya menderita sakit kepala yang parah.
+max_Latn	ind	Hela!	Tarik!
+zsm_Latn	ind	Aku tak mengetahui Tom, tetapi aku mengetahui kakaknya.	Saya tidak mengenal Tom, tetapi saya mengenal kakaknya.
+ind	zsm_Latn	Bahkan ada juga yang miskin melarat, saat sebagian besar menikmati kemakmuran ekonomi.	Bahkan ada juga yang miskin melarat, saat majoriti menikmati kemakmuran ekonomi.
+ind	max_Latn	Kamu dari mana, Karen?	Ngana dari mana, Karen?
+min	ind	Anok!	Diam!
+min	ind	Apo?	Apa?
+max_Latn	ind	Ini hari hari Salasa.	Hari ini hari Selasa.
+max_Latn	ind	Kolera bage sampe 200 orang maninggal.	Dua ratus orang meninggal karena kolera tahun lalu.
+min	ind	Tarimo kasih bana untuak bantuannyo.	Sungguh terima kasih atas bantuannya.
+ind	max_Latn	Mau ke mana?	Mu pi mana?
+zsm_Latn	ind	Tahniah!	Selamat!
+ind	max_Latn	Saya menderita sakit kepala yang parah.	Kita pe kapala pusing skali.
+ind	min	Bagus.	Rancak.
+max_Latn	ind	Tulis suda.	Tuliskan itu.
+ind	zsm_Latn	Kapan taksi akan berangkat ke bandar udara?	Bilakah akan teksi bertolak ke lapangan terbang?
+ind	max_Latn	Tom menunggu Mary pulang ke rumah.	Bae-bae la jang babasa.
+zsm_Latn	ind	Saya akan memandu anda ke lapangan terbang.	Saya akan mengantar anda ke bandar udara.
+ind	zsm_Latn	Apa saya terlihat baik-baik saja?	Nampak saya ok tak?
+ind	min	Tentu!	Jadih!
+ind	zsm_Latn	Saya tidak mengenal Tom, tetapi saya mengenal kakaknya.	Aku tak mengetahui Tom, tetapi aku mengetahui kakaknya.
+min	ind	Indak ikan ko do.	Ini bukan ikan.
+max_Latn	ind	Biar suda.	Sudahlah.
+max_Latn	ind	Kita paling suka skali pizza suda.	Piza adalah makanan kesukaanku.
+zsm_Latn	ind	Di mana hospital yang paling dekat?	Di mana rumah sakit yang paling dekat?
+max_Latn	ind	Galap-galap bagitu dia pigi bailang.	Dia menghilang dalam kegelapan.
+zsm_Latn	ind	Jam sudah menunjukkan pukul 12 tengah malam.	Jam sudah menunjukkan pukul 12 tengah malam.
+max_Latn	ind	Su barapa lama ngana di luar negeri?	Berapa lama kau tinggal di luar negeri?
+max_Latn	ind	Ma, sabantar malam torang makang jam barapa?	Ibu, makan malam jam berapa?
+ind	zsm_Latn	Saya tidak bisa berbicara dengan bahasa Albania.	Saya tidak pandai bercakap bahasa Albania.
+max_Latn	ind	Bole kita buka jendela ka tarada?	Apakah saya boleh membuka jendela?
+ind	max_Latn	Hari ini hari Selasa.	Ini hari hari Salasa.
+ind	zsm_Latn	Anggota kelompok dapat bertukar pikiran dan saling membantu untuk meringankan dan menyelesaikan suatu pekerjaan.	Ahli rombongan dapat bertukar-tukar fikiran dan saling membantu untuk meringankan serta menyelesaikan sesuatu tugasan.
+ind	min	Berhenti.	Baranti.
+min	ind	Bara harago sewa toko siko?	Berapa harga rata-rata untuk sewa toko disini?
+ind	min	Ya.	Iyo.
+ind	min	Ayahku tidak akan membiarkanku menikahinya.	Apo lagunyo ka jadi terkenal masih diraguan.
+ind	max_Latn	Aku sudah pergi ke rumahnya tetapi dia tidak berada di sana.	Kita su kasana di dia pe ruma me dia tarada kong.
+zsm_Latn	ind	Karut.	Omong kosong.
+zsm_Latn	ind	Farhan akan melaungkan azan tepat pada masanya apabila masuk waktu.	Farhan akan mengumandangkan azan tepat ketika sudah masuk waktunya.
+max_Latn	ind	Torang dapa rasa tana goyang kuat skali.	Kami merasakan gempa bumi yang sangat kuat.
+ind	zsm_Latn	Omong kosong.	Karut.
+min	ind	Mungkin.	Mungkin.
+max_Latn	ind	"Ujang su mu barenti ka"? "Kita harap la dia bagitu."	"Apa hujannya terlihat akan mereda?" "Aku harap begitu."
+max_Latn	ind	Bulan Februari torang rayakan itu Valentine.	Hari Valentine dirayakan pada bulan Februari.
+ind	zlm_Latn	Kok gue lupa ya namanya?	Takkanlah aku terlupa nama dia kut?
+min	ind	Jadih!	Tentu!
+zsm_Latn	ind	Pasukanmu santai mengerjakan tugasnya kerana ini hari cuti.	Timmu santai mengerjakan tugasnya karena ini hari libur.
+ind	max_Latn	Jangan pergi keluar setelah hari menjadi gelap.	Su malam tu jang kaluar suda.
+zsm_Latn	ind	Saya mempunyai kembar lelaki.	Aku punya saudara kembar kakak laki-laki.
+min	ind	Yo!	Ya!

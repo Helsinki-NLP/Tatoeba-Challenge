@@ -1,43 +1,43 @@
-cycl	en	(genls Android Robot)	All androids are robots.
-cycl	en	(personFoundInLocation BritneySpears ?WHERE)	Where is Britney Spears?
-cycl	en	(numberOfInhabitants CityOfAucklandNZ 1000000)	There are a million people in Auckland.
-cycl	en	(commonFoodTypeOfCuisine Baguette FrenchCuisine)	The baguette is French.
-cycl	en	(evaluate 3 (PlusFn 1 2))	One plus two equals three.
-cycl	en	(not (thereExists ?X (owns ?X MoonOfEarth)))	Nobody owns the moon.
-cycl	en	(mostNotableIsa Batman Superhero)	The thing you have to know about Batman is, he's a superhero.
-cycl	en	(implies (isa ?AP (FruitFn AppleTree)) (or (colorOfObject ?AP RedColor) (colorOfObject ?AP GreenColor)))	Apples are red or green.
-cycl	en	(and (isa 1 OddNumber) (isa 3 OddNumber) (isa 5 OddNumber))	One, three, and five are odd numbers.
-cycl	en	(on-Physical (TheFn Cat) (TheFn Mat))	The cat is on the mat.
-cycl	en	(relationAllInstance sellsProductType ConvenienceStore CandyBar)	Convenience stores sell candy bars.
-cycl	en	(not (languageSpoken (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) JapaneseLanguage))	I don't speak Japanese.
-cycl	en	(oppositeCollections WakingUpFromSleep GoingToSleep)	Waking up is the opposite of going to sleep.
-cycl	en	(genls Android Robot)	An android is a kind of robot.
-cycl	en	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	My name is Jack.
-cycl	en	(cost (TheFn (SubcollectionOfWithRelationToTypeFn Chair-PieceOfFurniture primaryConstituent Wood)) Expensive)	The wooden chair is expensive.
-cycl	en	(isa CityOfAucklandNewZealand (CityInCountryFn NewZealand) )	Auckland is a city in New Zealand.
-cycl	en	(thereExists ?Y (forAll ?X (loves ?Y ?X)))	Somebody loves everyone.
-cycl	en	(goals Sauron (forAll ?HOB (implies (isa ?HOB Hobbit) (feelsTowardsObjectToDegree ?HOB Sauron Fear highToVeryHighAmountOf))))	Sauron wants every hobbit to fear him.
-cycl	en	(isa AbrahamLincoln FamousHuman)	Abraham Lincoln is a famous person.
-cycl	en	(forAll ?X (implies (and (different PlanetJupiter ?X) (isa ?X PlanetInTheSolarSystem)) (largerThan PlanetJupiter ?X massOfObject)))	Jupiter is the most massive planet in the solar system.
-cycl	en	(genls Android Robot)	If something's an android, it's also a robot.
-cycl	en	(genls Android Robot)	Every android is a robot.
-cycl	en	(exceptionalAtActivityType (PronounFn ThirdPerson-NLAttr Singular-NLAttr Masculine-NLAttr SubjectPronoun) (InstrumentPlayingFn Cello))	He plays cello exceptionally well.
-cycl	en	(behaviorCapable-PerformedBy Madonna Singing-Human)	Madonna is able to sing.
-cycl	en	(agentTypeSellsProductType ConvenienceStore CandyBar)	Convenience stores sell candy bars.
-cycl	en	(thereExists ?PERSON1 (thereExists ?PERSON2 (and (nameStrings ?PERSON1 "Philip") (nameStrings ?PERSON2 "Tom") (relatives ?PERSON1 ?PERSON2))))	Philip and Tom are related to each other.
-cycl	en	(#$capitalCity #$France #$Paris)	Paris is the capital of France.
-cycl	en	(#$capitalCity #$France #$Paris)	Paris is France's capital.
-cycl	en	(implies (isa ?AP (FruitFn AppleTree)) (colorOfObject ?AP RedColor))	Every apple is red.
-cycl	en	(likesAsFriend Batman Robin-BatmanSidekick)	Batman is friends with Robin.
-cycl	en	(implies (isa ?AP (FruitFn AppleTree)) (or (colorOfObject ?AP RedColor) (colorOfObject ?AP GreenColor)))	If something is an apple, then it's either red or green, or possibly both.
-cycl	en	(numberOfInhabitants CityOfAucklandNZ 1000000)	Auckland has a population of a million.
-cycl	en	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Farshad")	My name is Farshad.
-cycl	en	(relationAllExists properPhysicalParts IPhone-AppleCellphone Touchscreen-Capacitive)	iPhones have capacitive touchscreens.
-cycl	en	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	My name's Jack.
-cycl	en	((TypeCapableFn behaviorCapable) Bear-Animal (SubcollectionOfWithRelationToTypeFn Climbing eventOccursAt Tree-ThePlant) performedBy)	A bear can climb a tree.
-cycl	en	((TypeCapableFn behaviorCapable) Bear-Animal (SubcollectionOfWithRelationToTypeFn Climbing eventOccursAt Tree-ThePlant) doneBy)	A bear can climb a tree.
-cycl	en	(thereExists ?M (and (mother (TheFn NewbornAnimal) ?M) (needs-Generic (TheFn NewbornAnimal) ?M)))	The baby needs its mother.
-cycl	en	(likesAsFriend Batman Robin-BatmanSidekick)	The Caped Crusader is friends with Robin, the boy Wonder.
-cycl	en	(isa (TheFn (MaleFn HumanYoungAdult)) Doctor-Medical)	The young man is a doctor.
-cycl	en	(organizationHead CityCouncilOfAustin LeeLeffingwell)	Lee Leffingwell is the head of the Austin City Council.
-cycl	en	(implies (isa ?AP (FruitFn AppleTree)) (colorOfObject ?AP RedColor))	Apples are red.
+cycl_Latn	eng	(genls Android Robot)	All androids are robots.
+cycl_Latn	eng	(personFoundInLocation BritneySpears ?WHERE)	Where is Britney Spears?
+cycl_Latn	eng	(numberOfInhabitants CityOfAucklandNZ 1000000)	There are a million people in Auckland.
+cycl_Latn	eng	(commonFoodTypeOfCuisine Baguette FrenchCuisine)	The baguette is French.
+cycl_Latn	eng	(evaluate 3 (PlusFn 1 2))	One plus two equals three.
+cycl_Latn	eng	(not (thereExists ?X (owns ?X MoonOfEarth)))	Nobody owns the moon.
+cycl_Latn	eng	(mostNotableIsa Batman Superhero)	The thing you have to know about Batman is, he's a superhero.
+cycl_Latn	eng	(implies (isa ?AP (FruitFn AppleTree)) (or (colorOfObject ?AP RedColor) (colorOfObject ?AP GreenColor)))	Apples are red or green.
+cycl_Latn	eng	(and (isa 1 OddNumber) (isa 3 OddNumber) (isa 5 OddNumber))	One, three, and five are odd numbers.
+cycl_Latn	eng	(on-Physical (TheFn Cat) (TheFn Mat))	The cat is on the mat.
+cycl_Latn	eng	(relationAllInstance sellsProductType ConvenienceStore CandyBar)	Convenience stores sell candy bars.
+cycl_Latn	eng	(not (languageSpoken (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) JapaneseLanguage))	I don't speak Japanese.
+cycl_Latn	eng	(oppositeCollections WakingUpFromSleep GoingToSleep)	Waking up is the opposite of going to sleep.
+cycl_Latn	eng	(genls Android Robot)	An android is a kind of robot.
+cycl_Latn	eng	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	My name is Jack.
+cycl_Latn	eng	(cost (TheFn (SubcollectionOfWithRelationToTypeFn Chair-PieceOfFurniture primaryConstituent Wood)) Expensive)	The wooden chair is expensive.
+cycl_Latn	eng	(isa CityOfAucklandNewZealand (CityInCountryFn NewZealand) )	Auckland is a city in New Zealand.
+cycl_Latn	eng	(thereExists ?Y (forAll ?X (loves ?Y ?X)))	Somebody loves everyone.
+cycl_Latn	eng	(goals Sauron (forAll ?HOB (implies (isa ?HOB Hobbit) (feelsTowardsObjectToDegree ?HOB Sauron Fear highToVeryHighAmountOf))))	Sauron wants every hobbit to fear him.
+cycl_Latn	eng	(isa AbrahamLincoln FamousHuman)	Abraham Lincoln is a famous person.
+cycl_Latn	eng	(forAll ?X (implies (and (different PlanetJupiter ?X) (isa ?X PlanetInTheSolarSystem)) (largerThan PlanetJupiter ?X massOfObject)))	Jupiter is the most massive planet in the solar system.
+cycl_Latn	eng	(genls Android Robot)	If something's an android, it's also a robot.
+cycl_Latn	eng	(genls Android Robot)	Every android is a robot.
+cycl_Latn	eng	(exceptionalAtActivityType (PronounFn ThirdPerson-NLAttr Singular-NLAttr Masculine-NLAttr SubjectPronoun) (InstrumentPlayingFn Cello))	He plays cello exceptionally well.
+cycl_Latn	eng	(behaviorCapable-PerformedBy Madonna Singing-Human)	Madonna is able to sing.
+cycl_Latn	eng	(agentTypeSellsProductType ConvenienceStore CandyBar)	Convenience stores sell candy bars.
+cycl_Latn	eng	(thereExists ?PERSON1 (thereExists ?PERSON2 (and (nameStrings ?PERSON1 "Philip") (nameStrings ?PERSON2 "Tom") (relatives ?PERSON1 ?PERSON2))))	Philip and Tom are related to each other.
+cycl_Latn	eng	(#$capitalCity #$France #$Paris)	Paris is the capital of France.
+cycl_Latn	eng	(#$capitalCity #$France #$Paris)	Paris is France's capital.
+cycl_Latn	eng	(implies (isa ?AP (FruitFn AppleTree)) (colorOfObject ?AP RedColor))	Every apple is red.
+cycl_Latn	eng	(likesAsFriend Batman Robin-BatmanSidekick)	Batman is friends with Robin.
+cycl_Latn	eng	(implies (isa ?AP (FruitFn AppleTree)) (or (colorOfObject ?AP RedColor) (colorOfObject ?AP GreenColor)))	If something is an apple, then it's either red or green, or possibly both.
+cycl_Latn	eng	(numberOfInhabitants CityOfAucklandNZ 1000000)	Auckland has a population of a million.
+cycl_Latn	eng	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Farshad")	My name is Farshad.
+cycl_Latn	eng	(relationAllExists properPhysicalParts IPhone-AppleCellphone Touchscreen-Capacitive)	iPhones have capacitive touchscreens.
+cycl_Latn	eng	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	My name's Jack.
+cycl_Latn	eng	((TypeCapableFn behaviorCapable) Bear-Animal (SubcollectionOfWithRelationToTypeFn Climbing eventOccursAt Tree-ThePlant) performedBy)	A bear can climb a tree.
+cycl_Latn	eng	((TypeCapableFn behaviorCapable) Bear-Animal (SubcollectionOfWithRelationToTypeFn Climbing eventOccursAt Tree-ThePlant) doneBy)	A bear can climb a tree.
+cycl_Latn	eng	(thereExists ?M (and (mother (TheFn NewbornAnimal) ?M) (needs-Generic (TheFn NewbornAnimal) ?M)))	The baby needs its mother.
+cycl_Latn	eng	(likesAsFriend Batman Robin-BatmanSidekick)	The Caped Crusader is friends with Robin, the boy Wonder.
+cycl_Latn	eng	(isa (TheFn (MaleFn HumanYoungAdult)) Doctor-Medical)	The young man is a doctor.
+cycl_Latn	eng	(organizationHead CityCouncilOfAustin LeeLeffingwell)	Lee Leffingwell is the head of the Austin City Council.
+cycl_Latn	eng	(implies (isa ?AP (FruitFn AppleTree)) (colorOfObject ?AP RedColor))	Apples are red.

@@ -1,1 +1,1 @@
-cycl	it	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	Mi chiamo Jack.
+cycl_Latn	ita	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	Mi chiamo Jack.
