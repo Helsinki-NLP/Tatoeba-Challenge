@@ -17,16 +17,16 @@ The data sets are released per language pair with the following structure (using
 data/deu-eng/
 data/deu-eng/train.src.gz
 data/deu-eng/train.trg.gz
-data/deu-eng/train.ids.gz
-data/deu-eng/dev.ids
+data/deu-eng/train.id.gz
+data/deu-eng/dev.id
 data/deu-eng/dev.src
 data/deu-eng/dev.trg
 data/deu-eng/test.src
 data/deu-eng/test.trg
-data/deu-eng/test.ids
+data/deu-eng/test.id
 ```
 
-Files with the extension `.src` refer to sentences in the source language (`deu` in this case) and files with extension `.trg` contain sentences in the target laguage (`eng` here). File with extension `.ids` include the original language labels used in OPUS (mostly ISO-639-1 codes) with possible extensions for regional variants. In the `.ids` file for the training data there are also labels for the OPUS corpus the sentences come from.
+Files with the extension `.src` refer to sentences in the source language (`deu` in this case) and files with extension `.trg` contain sentences in the target laguage (`eng` here). File with extension `.id` include the ISO-639-3 language labels with possibly extensions about the orthographic script and information about regional variants. In the `.id` file for the training data there are also labels for the OPUS corpus the sentences come from.
 
 Not all language pairs have sufficient data sets for test, development (dev) and training (train) data. Hence, the Tatoeba challenge includes various sub-challenges:
 
@@ -40,6 +40,11 @@ For all those selected language pairs, the data set provides at least 200 senten
 Therefore, another challenge we want to open here is to increase the coverage of test sets for low-resource languages. This challenge is really important and contributions are necessary. The approach here would be to directly [contribute translations](https://tatoeba.org/eng/users/login?redirect=%2Feng%2Factivities%2Ftranslate_sentences) for your favorite language directly to the Tatoeba data collection. The new translations will make their way into the data set here through OPUS! Make an effort and provide new data already today! A list of language pairs with a test set below 1,000 examples is provided in this [README file](subsets/LessThan1000.md).
 
 Other notes about the compilation of the data sets can be found in [Development.md](Development.md) and the complete lists of language pairs is in [Data.md](Data.md).
+
+
+### Note on language labels
+
+The labels are converted from the original OPUS language IDs (which are mostly ISO-639-1) and information about the script is automatically assigned using Unicode regular expressions and counting letters from specific script character properties. Only the most frequently present script is shown. Be aware of mixed content and possible mistakes in the assignment. Note that the code `Zyyy` refers to common characters that cannot be used to distinguish scripts.
 
 
 ## How to participate

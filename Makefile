@@ -16,9 +16,10 @@ VERSION = v1
 ## TODO: get rid of some hard-coded paths?
 
 OPUS_HOME    = /projappl/nlpl/data/OPUS
+SCRIPTDIR    = scripts
 ISO639       = ${HOME}/projappl/ISO639/iso639
 GET_ISO_CODE = ${ISO639} -m -k
-
+TOKENIZER    = ${SCRIPTDIR}/moses/tokenizer
 
 
 ## corpora in OPUS used for training
@@ -55,13 +56,21 @@ GZIP := ${shell which pigz 2>/dev/null}
 GZIP ?= gzip
 
 
+## basic training data filtering pipeline
+
+BASIC_FILTERS = | perl -CS -pe 'tr[\x{9}\x{A}\x{D}\x{20}-\x{D7FF}\x{E000}-\x{FFFD}\x{10000}-\x{10FFFF}][]cd;' \
+		| perl -CS -pe 's/\&\s*\#\s*160\s*\;/ /g' \
+		| perl -pe 's/[\p{C}-[\n\t]]/ /g;' \
+		| recode -f utf8..utf16 | recode -f utf16..utf8 \
+		| $(TOKENIZER)/deescape-special-chars.perl
+
+
 ## available OPUS languages (IDs in the way they appear in the corpus)
 ## (skip 'simple' = simple English in Wikipedia in the English data sets)
-##
-## TODO: should get them from the OPUS API instead!
 
-OPUS_LANGS = ${sort fi sv fr es de en ar he cmn cn yue zhs zht zh ze_zh zh_cn zh_CN zh_HK zh_tw zh_TW zh_yue pt pt_br pt_BR pt_PT aa ab ace ach acm acu ada ady aeb aed ae afb afh af agr aha aii ain ajg aka ake akl ak aln alt alz amh ami amu am ang an aoc aoz apc ara arc arh arn arq ary arz ase asf ast as ati atj avk av awa aym ay azb az az_IR bal bam ban bar bas ba bbc bbj bci bcl bem ber be be_tarask bfi bg bho bhw bh bin bi bjn bm bn bnt bo bpy brx br bsn bs btg bts btx bua bug bum bvl bvy bxr byn byv bzj bzs cab cac cak cat cay ca cbk cbk_zam cce cdo ceb ce chf chj chk cho chq chr chw chy ch cjk cjp cjy ckb ckt cku cmo cnh cni cop co crh crh_latn crp crs cr csb cse csf csg csl csn csr cs cto ctu cuk cu cv cycl cyo cy daf da dga dhv dik din diq dje djk dng dop dsb dtp dty dua dv dws dyu dz ecs ee efi egl el eml enm eo esn  et eu ewo ext fan fat fa fcs ff fil fj fkv fon foo fo frm frp frr fse fsl fuc ful fur fuv fy gaa gag gan ga gbi gbm gcf gcr gd gil glk gl gn gom gor gos got grc gr gsg gsm gss gsw guc gug gum gur guw gu gv gxx gym hai hak hau haw ha haz hb hch hds hif hi hil him hmn hne hnj hoc ho hrx hr hsb hsh hsn ht hup hus hu hyw hy hz ia iba ibg ibo id ie ig ike ik ilo inh inl ins io iro ise ish iso is it iu izh jak jam jap ja jbo jdt jiv jmx jp jsl jv kaa kab kac kam kar kau ka kbd kbh kbp kea kek kg kha kik kin ki kjh kj kk kl kmb kmr km kn koi kok kon koo ko kpv kqn krc kri krl kr ksh kss ksw ks kum ku kvk kv kwn kwy kw kxi ky kzj lad lam la lbe lb ldn lez lfn lg lij lin liv li lkt lld lmo ln lou lo loz lrc lsp ltg lt lua lue lun luo lus luy lu lv lzh lzz mad mai mam map_bms mau max maz mco mcp mdf men me mfe mfs mgm mgr mg mhr mh mic min miq mi mk mlg ml mnc mni mnw mn moh mos mo mrj mrq mr ms ms_MY mt mus mvv mwl mww mxv myv my mzn mzy nah nan nap na nba nb nn no nb_NO nn_NO no_nb nog nch nci ncj ncs ncx ndc nds nds_nl nd new ne ngl ngt ngu ng nhg nhk nhn nia nij niu nlv nl nnh non nov npi nqo nrm nr nso nst nv nya nyk nyn nyu ny nzi oar oc ojb oj oke olo om orm orv or osx os ota ote otk pag pam pan pap pau pa pbb pcd pck pcm pdc pdt pes pfl pid pih pis pi plt pl pms pmy pnb pnt pon pot po ppk ppl prg prl prs pso psp psr ps pys quc que qug qus quw quy qu quz qvi qvz qya rap rar rcf rif rmn rms rmy rm rnd rn rom ro rsl rue run rup ru rw ry sah sat sa sbs scn sco sc sd seh se sfs sfw sgn sgs sg shi shn shs shy sh sid si sjn sk sl sma sml sm sna sn som son sop sot so sqk sq sr srp sr_ME srm srn ssp ss stq st sux su svk swa swc swg swh sw sxn syr szl ta ta_LK tcf tcy tc tdt tdx tet te tg tg_TJ thv th tig tir tiv ti tkl tk tlh tll tl tl_PH tly tmh tmp tmw tn tob tog toh toi toj toki top to tpi tpw trv tr tsc tss ts tsz ttj tt tum tvl tw tyv ty tzh tzl tzo udm ug uk umb urh ur ur_PK usp uz vec vep ve vi vi_VN vls vmw vo vro vsl wae wal war wa wba wes wls wlv wol wo wuu xal xho xh xmf xpe yao yap yaq ybb yi yor yo yua zab zai zam za zdj zea zib zlm zne zpa zpg zsl zsm zul zu zza}
-
+ifneq (${wildcard opus-langs.txt},)
+  OPUS_LANGS = ${filter-out simple,${shell head -1 opus-langs.txt}}
+endif
 
 ## all languages in the current Tatoeba data set in OPUS
 
@@ -73,17 +82,15 @@ TATOEBA_PAIRS = ${sort ${patsubst %.xml.gz,%,${notdir ${wildcard ${OPUS_HOME}/Ta
 
 OPUS_LANGS3    = ${shell ${GET_ISO_CODE} ${OPUS_LANGS}}
 TATOEBA_LANGS3 = ${shell ${GET_ISO_CODE} ${TATOEBA_LANGS}}
-TATOEBA_PAIRS3 = ${sort ${shell scripts/convert_langpair_codes.pl ${TATOEBA_PAIRS}}}
+TATOEBA_PAIRS3 = ${sort ${shell ${SCRIPTDIR}/convert_langpair_codes.pl ${TATOEBA_PAIRS}}}
 
 
 ## all data files we need to produce
 
 DATADIR = data
 
-TRAIN_DATA  = ${patsubst %,${DATADIR}/%/train.ids.gz,${TATOEBA_PAIRS3}}
-TEST_DATA   = ${patsubst %,${DATADIR}/%/test.ids,${TATOEBA_PAIRS3}}
-# TEST_TSV    = ${patsubst ${DATADIR}/%.ids,${DATADIR}/test/%.txt,${wildcard ${DATADIR}/*/test.ids}}
-# DEV_TSV     = ${patsubst ${DATADIR}/%.ids,${DATADIR}/dev/%.txt,${wildcard ${DATADIR}/*/dev.ids}}
+TRAIN_DATA  = ${patsubst %,${DATADIR}/%/train.id.gz,${TATOEBA_PAIRS3}}
+TEST_DATA   = ${patsubst %,${DATADIR}/%/test.id,${TATOEBA_PAIRS3}}
 TEST_TSV    = ${patsubst ${DATADIR}/%.id,${DATADIR}/test/%.txt,${wildcard ${DATADIR}/*/test.id}}
 DEV_TSV     = ${patsubst ${DATADIR}/%.id,${DATADIR}/dev/%.txt,${wildcard ${DATADIR}/*/dev.id}}
 
@@ -95,17 +102,15 @@ NEW_TEST_IDS  = ${patsubst ${DATADIR}/%.ids,${DATADIR}/%.id,${wildcard ${DATADIR
 NEW_DEV_IDS   = ${patsubst ${DATADIR}/%.ids,${DATADIR}/%.id,${wildcard ${DATADIR}/*/dev.ids}}
 NEW_TRAIN_IDS = ${patsubst ${DATADIR}/%.ids.gz,${DATADIR}/%.id.gz,${wildcard ${DATADIR}/*/train.ids.gz}}
 
-new_test_ids: ${NEW_TEST_IDS}
-new_dev_ids: ${NEW_DEV_IDS}
-new_train_ids: ${NEW_TRAIN_IDS}
 
 
 .PHONY: all testdata traindata test-tsv dev-tsv upload
-all: ${TEST_DATA} ${TRAIN_DATA}
+all: opus-langs.txt
 	${MAKE} dev-tsv test-tsv
 	${MAKE} Data.md
 	${MAKE} subsets
 
+data: ${TEST_DATA} ${TRAIN_DATA}
 traindata: ${TRAIN_DATA}
 testdata: ${TEST_DATA}
 test-tsv: ${TEST_TSV}
@@ -126,94 +131,105 @@ move-diff-langpairs:
 	  mv ${DATADIR}/$$d data-wrong/; \
 	done
 
+## list of all languages in OPUS
+opus-langs.txt:
+	wget -O $@.tmp http://opus.nlpl.eu/opusapi/?languages=true
+	grep '",' $@.tmp | tr '",' '  ' | sort | tr "\n" ' ' | sed 's/  */ /g' > $@
+	rm -f $@.tmp
 
 
 ## create training data by concatenating all data sets
 ## using normalized language codes (macro-languages)
 
-${DATADIR}/%/train.ids.gz:
-	@echo "make train data for ${patsubst ${DATADIR}/%/train.ids.gz,%,$@}"
+${DATADIR}/%/train.id.gz:
+	@echo "make train data for ${patsubst ${DATADIR}/%/train.id.gz,%,$@}"
 	@rm -f $@.tmp1 $@.tmp2
 	@mkdir -p ${dir $@}train.d
-	@( l=${patsubst ${DATADIR}/%/train.ids.gz,%,$@}; \
-	  s=${firstword ${subst -, ,${patsubst ${DATADIR}/%/train.ids.gz,%,$@}}}; \
-	  t=${lastword ${subst -, ,${patsubst ${DATADIR}/%/train.ids.gz,%,$@}}}; \
-	  E=`scripts/find_opus_langs.pl $$s ${OPUS_LANGS}`; \
-	  F=`scripts/find_opus_langs.pl $$t ${OPUS_LANGS}`; \
+	@( l=${patsubst ${DATADIR}/%/train.id.gz,%,$@}; \
+	  s=${firstword ${subst -, ,${patsubst ${DATADIR}/%/train.id.gz,%,$@}}}; \
+	  t=${lastword ${subst -, ,${patsubst ${DATADIR}/%/train.id.gz,%,$@}}}; \
+	  E=`${SCRIPTDIR}/find_opus_langs.pl $$s ${OPUS_LANGS}`; \
+	  F=`${SCRIPTDIR}/find_opus_langs.pl $$t ${OPUS_LANGS}`; \
 	  for e in $$E; do \
 	    for f in $$F; do \
-		if [ $$e == $$f ]; then \
-		  a=$${e}1;b=$${f}2; \
-		else \
-		  a=$${e};b=$${f}; \
-		fi; \
+		if [ $$e == $$f ]; then a=$${e}1;b=$${f}2; \
+		                   else a=$${e};b=$${f}; fi; \
 		for c in ${TRAIN_CORPORA}; do \
 		  if [ -e ${OPUS_HOME}/$$c/latest/moses/$$e-$$f.txt.zip ]; then \
 		    echo "get all $$c data for $$s-$$t ($$e-$$f)"; \
 		    unzip -qq -n -d ${dir $@}train.d ${OPUS_HOME}/$$c/latest/moses/$$e-$$f.txt.zip; \
-		    cat ${dir $@}train.d/*.$$a | sed "s/^/$$c	$$e	/" >> $@.tmp1; \
-		    cat ${dir $@}train.d/*.$$b | sed "s/^/$$f	/"         >> $@.tmp2; \
+		    paste ${dir $@}train.d/*.$$a ${dir $@}train.d/*.$$b ${BASIC_FILTERS} |\
+		    ${SCRIPTDIR}/bitext-match-lang.py -s $$e -t $$f   > $@.tmp2; \
 		    rm -f ${dir $@}train.d/*; \
 		  elif [ -e ${OPUS_HOME}/$$c/latest/moses/$$f-$$e.txt.zip ]; then \
 		    echo "get all $$c data for $$s-$$t ($$e-$$f)"; \
 		    unzip -qq -n -d ${dir $@}train.d ${OPUS_HOME}/$$c/latest/moses/$$f-$$e.txt.zip; \
-		    cat ${dir $@}train.d/*.$$a | sed "s/^/$$c	$$e	/" >> $@.tmp1; \
-		    cat ${dir $@}train.d/*.$$b | sed "s/^/$$f	/"         >> $@.tmp2; \
+		    paste ${dir $@}train.d/*.$$a ${dir $@}train.d/*.$$b ${BASIC_FILTERS} |\
+		    ${SCRIPTDIR}/bitext-match-lang.py -s $$e -t $$f   > $@.tmp2; \
 		    rm -f ${dir $@}train.d/*; \
 		  elif 	[ -e ${OPUS_HOME}/$$c/latest/xml/$$e-$$f.xml.gz ] || \
 			[ -e ${OPUS_HOME}/$$c/latest/xml/$$f-$$e.xml.gz ]; then \
 		    echo "opus-read $$c ($$e-$$f)!"; \
 		    opus_read ${OPUSREAD_ARGS} -q -ln -rd ${OPUS_HOME} \
-				-d $$c -s $$e -t $$f -wm moses -p raw > $@.tmp3; \
-		    cut -f1 $@.tmp3  | sed "s/^/$$c	$$e	/" >> $@.tmp1; \
-		    cut -f2 $@.tmp3  | sed "s/^/$$f	/"         >> $@.tmp2; \
-		    rm -f $@.tmp3; \
+				-d $$c -s $$e -t $$f -wm moses -p raw ${BASIC_FILTERS} |\
+		    ${SCRIPTDIR}/bitext-match-lang.py -s $$e -t $$f   > $@.tmp2; \
+		  fi; \
+		  if [ -e $@.tmp2 ]; then \
+		    cut -f1 $@.tmp2 | langscript -3 -l $$e -r -D  > $@.tmp2srcid; \
+		    cut -f2 $@.tmp2 | langscript -3 -l $$f -r -D  > $@.tmp2trgid; \
+		    paste $@.tmp2srcid $@.tmp2trgid $@.tmp2 | sed "s/^/$$c	/"  >> $@.tmp1; \
+		    rm -f $@.tmp2 $@.tmp2srcid $@.tmp2trgid; \
 		  fi \
 		done \
 	    done \
 	  done \
 	)
 	if [ -s $@.tmp1 ]; then \
-	  paste $@.tmp1 $@.tmp2 | ${SHUFFLE} > $@.tmp3; \
-	  cut -f3 $@.tmp3 | ${GZIP} -c > ${dir $@}train.src.gz; \
-	  cut -f5 $@.tmp3 | ${GZIP} -c > ${dir $@}train.trg.gz; \
-	  cut -f1,2,4 $@.tmp3 | ${GZIP} -c > $@; \
+	  ${SHUFFLE} < $@.tmp1 > $@.tmp2; \
+	  cut -f4 $@.tmp2 | ${GZIP} -c > ${dir $@}train.src.gz; \
+	  cut -f5 $@.tmp2 | ${GZIP} -c > ${dir $@}train.trg.gz; \
+	  cut -f1,2,3 $@.tmp2 | ${GZIP} -c > $@; \
 	fi
-	rm -f $@.tmp1 $@.tmp2 $@.tmp3
+	rm -f $@.tmp1 $@.tmp2
 	rmdir ${dir $@}train.d
 
+
+#
+#		    rm -f ${dir $@}train.d/*; \
 
 ## make test and dev data
 ## split shuffled Tatoeba data
 
-${DATADIR}/%/test.ids:
-	@echo "make test data for ${patsubst ${DATADIR}/%/test.ids,%,$@}"
+${DATADIR}/%/test.id:
+	@echo "make test data for ${patsubst ${DATADIR}/%/test.id,%,$@}"
 	@rm -f $@.tmp1 $@.tmp2
 	@mkdir -p ${dir $@}test.d
-	@( l=${patsubst ${DATADIR}/%/test.ids,%,$@}; \
-	  s=${firstword ${subst -, ,${patsubst ${DATADIR}/%/test.ids,%,$@}}}; \
-	  t=${lastword ${subst -, ,${patsubst ${DATADIR}/%/test.ids,%,$@}}}; \
-	  E=`scripts/find_opus_langs.pl $$s ${TATOEBA_LANGS}`; \
-	  F=`scripts/find_opus_langs.pl $$t ${TATOEBA_LANGS}`; \
+	@( l=${patsubst ${DATADIR}/%/test.id,%,$@}; \
+	  s=${firstword ${subst -, ,${patsubst ${DATADIR}/%/test.id,%,$@}}}; \
+	  t=${lastword ${subst -, ,${patsubst ${DATADIR}/%/test.id,%,$@}}}; \
+	  E=`${SCRIPTDIR}/find_opus_langs.pl $$s ${TATOEBA_LANGS}`; \
+	  F=`${SCRIPTDIR}/find_opus_langs.pl $$t ${TATOEBA_LANGS}`; \
 	  for e in $$E; do \
 	    for f in $$F; do \
-		if [ $$e == $$f ]; then \
-		  a=$${e}1;b=$${f}2; \
-		else \
-		  a=$${e};b=$${f}; \
-		fi; \
+		if [ $$e == $$f ]; then a=$${e}1;b=$${f}2; \
+		                   else a=$${e};b=$${f}; fi; \
 		if [ -e ${OPUS_HOME}/Tatoeba/latest/moses/$$e-$$f.txt.zip ]; then \
 		  echo "get all Tatoeba data for $$s-$$t ($$e-$$f)"; \
+		  echo "unzip -qq -n -d ${dir $@}test.d ${OPUS_HOME}/Tatoeba/latest/moses/$$e-$$f.txt.zip"; \
 		  unzip -qq -n -d ${dir $@}test.d ${OPUS_HOME}/Tatoeba/latest/moses/$$e-$$f.txt.zip; \
-		  cat ${dir $@}test.d/*.$$a | sed "s/^/$$e	/" >> $@.tmp1; \
-		  cat ${dir $@}test.d/*.$$b | sed "s/^/$$f	/" >> $@.tmp2; \
-		  rm -f ${dir $@}test.d/*; \
+		  cat ${dir $@}test.d/*.$$a | langscript -3 -l $$e -r -D > $@.tmp1id; \
+		  cat ${dir $@}test.d/*.$$b | langscript -3 -l $$f -r -D  > $@.tmp2id; \
+		  paste $@.tmp1id ${dir $@}test.d/*.$$a >> $@.tmp1; \
+		  paste $@.tmp2id ${dir $@}test.d/*.$$b >> $@.tmp2; \
+		  rm -f $@.tmp1id $@.tmp2id ${dir $@}test.d/*; \
 		elif [ -e ${OPUS_HOME}/Tatoeba/latest/moses/$$f-$$e.txt.zip ]; then \
 		  echo "get all Tatoeba data for $$s-$$t ($$e-$$f)"; \
 		  unzip -qq -n -d ${dir $@}test.d ${OPUS_HOME}/Tatoeba/latest/moses/$$f-$$e.txt.zip; \
-		  cat ${dir $@}test.d/*.$$a | sed "s/^/$$e	/" >> $@.tmp1; \
-		  cat ${dir $@}test.d/*.$$b | sed "s/^/$$f	/" >> $@.tmp2; \
-		  rm -f ${dir $@}test.d/*; \
+		  cat ${dir $@}test.d/*.$$a | langscript -3 -l $$e -r -D > $@.tmp1id; \
+		  cat ${dir $@}test.d/*.$$b | langscript -3 -l $$f -r -D > $@.tmp2id; \
+		  paste $@.tmp1id ${dir $@}test.d/*.$$a >> $@.tmp1; \
+		  paste $@.tmp2id ${dir $@}test.d/*.$$b >> $@.tmp2; \
+		  rm -f $@.tmp1id $@.tmp2id ${dir $@}test.d/*; \
 		fi \
 	    done \
 	  done \
@@ -236,49 +252,74 @@ ${DATADIR}/%/test.ids:
 	    mv $@.tmp3 $@.test; \
 	  fi )
 	@cut -f1,3 $@.test > $@
-	@( s=${firstword ${subst -, ,${patsubst ${DATADIR}/%/test.ids,%,$@}}}; \
-	   t=${lastword ${subst -, ,${patsubst ${DATADIR}/%/test.ids,%,$@}}}; \
+	@( s=${firstword ${subst -, ,${patsubst ${DATADIR}/%/test.id,%,$@}}}; \
+	   t=${lastword ${subst -, ,${patsubst ${DATADIR}/%/test.id,%,$@}}}; \
 	   cut -f2 $@.test > $(dir $@)test.src; \
 	   cut -f4 $@.test > $(dir $@)test.trg; )
 	@if [ -e $@.dev ]; then \
-	   s=${firstword ${subst -, ,${patsubst ${DATADIR}/%/test.ids,%,$@}}}; \
-	   t=${lastword ${subst -, ,${patsubst ${DATADIR}/%/test.ids,%,$@}}}; \
+	   s=${firstword ${subst -, ,${patsubst ${DATADIR}/%/test.id,%,$@}}}; \
+	   t=${lastword ${subst -, ,${patsubst ${DATADIR}/%/test.id,%,$@}}}; \
 	   cut -f2 $@.dev > $(dir $@)dev.src; \
 	   cut -f4 $@.dev > $(dir $@)dev.trg; \
-	   cut -f1,3 $@.dev  > $(dir $@)dev.ids; \
+	   cut -f1,3 $@.dev  > $(dir $@)dev.id; \
 	fi
 	@rmdir ${dir $@}test.d
 	@rm -f $@.tmp1 $@.tmp2 $@.tmp3 $@.test $@.dev
 	@echo ""
 
 
+# ####################################################
+# ## temporary fix, obsolete now ...
+# ####################################################
+
+# ## make the style language IDs
+# new_test_ids: ${NEW_TEST_IDS}
+# new_dev_ids: ${NEW_DEV_IDS}
+# new_train_ids: ${NEW_TRAIN_IDS}
 
 
+# ## normalise language IDs and detect scripts
+
+# ${DATADIR}/%.id: ${DATADIR}/%.ids
+# 	cut -f1 $< > $@.1
+# 	cut -f2 $< > $@.2
+# 	paste $@.1 $(<:.ids=.src) | langscript -3 -L -r -D > $@.11
+# 	paste $@.2 $(<:.ids=.trg) | langscript -3 -L -r -D > $@.22
+# 	paste $@.11 $@.22 > $@
+# 	rm -f $@.1 $@.2 $@.11 $@.22
 
 
+# ## create new training data files
+# ## - normalized language flags + language scripts
+# ## - langid filtering
+# ## - basic pre-processing filters
 
-## normalise language IDs and detect scripts
-
-${DATADIR}/%.id: ${DATADIR}/%.ids
-	cut -f1 $< > $@.1
-	cut -f2 $< > $@.2
-	paste $@.1 $(<:.ids=.src) | langscript -3 -L -r -D > $@.11
-	paste $@.2 $(<:.ids=.trg) | langscript -3 -L -r -D > $@.22
-	paste $@.11 $@.22 > $@
-	rm -f $@.1 $@.2 $@.11 $@.22
-
-${DATADIR}/%.id.gz: ${DATADIR}/%.ids.gz
-	${GZIP} -cd < $< | cut -f1 > $@.0
-	${GZIP} -cd < $< | cut -f2 > $@.1
-	${GZIP} -cd < $< | cut -f3 > $@.2
-	${GZIP} -cd < $(<:.ids.gz=.src.gz) > $@.11
-	${GZIP} -cd < $(<:.ids.gz=.trg.gz) > $@.22
-	paste $@.1 $@.11 | langscript -3 -L -r -D > $@.111
-	paste $@.2 $@.22 | langscript -3 -L -r -D > $@.222
-	paste $@.0 $@.111 $@.222 | ${GZIP} -c > $@
-	rm -f $@.0 $@.1 $@.2 $@.11 $@.22 $@.111 $@.222
-
-
+# ${DATADIR}/%.id.gz: ${DATADIR}/%.ids.gz
+# 	${GZIP} -cd < $< | cut -f1 > $@.0
+# 	${GZIP} -cd < $< | cut -f2 > $@.1
+# 	${GZIP} -cd < $< | cut -f3 > $@.2
+# 	${GZIP} -cd < $(<:.ids.gz=.src.gz) ${BASIC_FILTERS} > $@.3
+# 	${GZIP} -cd < $(<:.ids.gz=.trg.gz) ${BASIC_FILTERS} > $@.4
+# 	paste $@.3 $@.4 | ${SCRIPTDIR}/bitext-match-lang.py -f \
+# 		-s ${firstword ${subst -, ,${patsubst ${DATADIR}/%/,%,${dir $@}}}} \
+# 		-t ${lastword ${subst -, ,${patsubst ${DATADIR}/%/,%,${dir $@}}}} > $@.5
+# 	paste $@.5 $@.0 $@.1 $@.2 $@.3 $@.4 | grep '^1' | cut -f2 > $@.00
+# 	paste $@.5 $@.0 $@.1 $@.2 $@.3 $@.4 | grep '^1' | cut -f3 > $@.11
+# 	paste $@.5 $@.0 $@.1 $@.2 $@.3 $@.4 | grep '^1' | cut -f4 > $@.22
+# 	paste $@.5 $@.0 $@.1 $@.2 $@.3 $@.4 | grep '^1' | cut -f5 > $@.33
+# 	paste $@.5 $@.0 $@.1 $@.2 $@.3 $@.4 | grep '^1' | cut -f6 > $@.44
+# 	paste $@.11 $@.33 | langscript -3 -L -r -D > $@.5
+# 	paste $@.22 $@.44 | langscript -3 -L -r -D > $@.6
+# 	mv -f $(<:.ids.gz=.src.gz) $(<:.ids.gz=-old.src.gz)
+# 	mv -f $(<:.ids.gz=.trg.gz) $(<:.ids.gz=-old.trg.gz)
+# 	paste $@.11 $@.22 | ${GZIP} -c >  $(<:.ids.gz=-old.ids.gz)
+# 	if [ `cat $@.00 | wc -l` -gt 0 ]; then \
+# 	  paste $@.00 $@.5 $@.6 | ${GZIP} -c > $@; \
+# 	  ${GZIP} -c < $@.33 > $(<:.ids.gz=.src.gz); \
+# 	  ${GZIP} -c < $@.44 > $(<:.ids.gz=.trg.gz); \
+# 	fi
+# 	rm -f $@.0 $@.1 $@.2 $@.3 $@.4 $@.5 $@.6
+# 	rm -f $@.00 $@.11 $@.22 $@.33 $@.44
 
 
 
@@ -374,14 +415,14 @@ subsets/%.md: Data.md
 	@echo "There is a total of" >> $@
 	@echo "" >> $@
 	@echo -n "* " >> $@
-	scripts/divide-data-sets.pl < $< |\
+	${SCRIPTDIR}/divide-data-sets.pl < $< |\
 	grep '${patsubst subsets/%.md,%,$@}' |\
 	wc -l | tr "\n" ' ' >> $@
 	@echo " language pairs in this sub-set" >> $@
 	@echo "" >> $@
 	@echo "| lang-pair |    test    |    dev     |    train   |" >> $@
 	@echo "|-----------|------------|------------|------------|" >> $@
-	scripts/divide-data-sets.pl < $< |\
+	${SCRIPTDIR}/divide-data-sets.pl < $< |\
 	grep '${patsubst subsets/%.md,%,$@}' |\
 	sed 's/|[^|]*$$/|/' >> $@
 
