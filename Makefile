@@ -463,3 +463,47 @@ data-shuffled/%/train.ids.gz: ${DATADIR}/%/train.ids.gz
 	cut -f4 $@.shuffled | ${GZIP} -c > ${dir $@}train.src.gz
 	cut -f5 $@.shuffled | ${GZIP} -c > ${dir $@}train.trg.gz
 	rm -f $@.ids $@.src $@.trg $@.shuffled
+
+
+
+
+
+CSCPROJECT  ?= project_2003093
+
+HPC_QUEUE   ?= small
+HPC_MEM     ?= 32g
+HPC_CORES   ?= 8
+HPC_DISK    ?= 500
+HPC_NODES   ?= 1
+HPC_TIME    ?= 72:00
+
+%.submit:
+	echo '#!/bin/bash -l' > $@
+	echo '#SBATCH -J "${@:.submit=}"' >>$@
+	echo '#SBATCH -o ${@:.submit=}.out.%j' >> $@
+	echo '#SBATCH -e ${@:.submit=}.err.%j' >> $@
+	echo '#SBATCH --mem=${HPC_MEM}' >> $@
+ifdef EMAIL
+	echo '#SBATCH --mail-type=END' >> $@
+	echo '#SBATCH --mail-user=${EMAIL}' >> $@
+endif
+ifeq (${shell hostname --domain},bullx)
+	echo '#SBATCH --account=${CSCPROJECT}' >> $@
+	echo '#SBATCH --gres=nvme:${HPC_DISK}' >> $@
+endif
+	echo '#SBATCH -n ${HPC_CORES}' >> $@
+	echo '#SBATCH -N ${HPC_NODES}' >> $@
+	echo '#SBATCH -p ${HPC_QUEUE}' >> $@
+	echo '#SBATCH -t ${HPC_TIME}:00' >> $@
+	echo '${HPC_EXTRA}' >> $@
+	echo 'module use -a /proj/nlpl/modules' >> $@
+	for m in ${CPU_MODULES}; do \
+	  echo "module load $$m" >> $@; \
+	done
+	echo 'module list' >> $@
+	echo 'cd $${SLURM_SUBMIT_DIR:-.}' >> $@
+	echo 'pwd' >> $@
+	echo 'echo "Starting at `date`"' >> $@
+	echo '${MAKE} -j ${HPC_CORES} ${MAKEARGS} ${@:.submit=}' >> $@
+	echo 'echo "Finishing at `date`"' >> $@
+	sbatch $@
