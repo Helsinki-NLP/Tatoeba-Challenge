@@ -17,9 +17,11 @@ VERSION = v1
 
 OPUS_HOME    = /projappl/nlpl/data/OPUS
 SCRIPTDIR    = scripts
-ISO639       = ${HOME}/projappl/ISO639/iso639
-GET_ISO_CODE = ${ISO639} -m -k
 TOKENIZER    = ${SCRIPTDIR}/moses/tokenizer
+ISO639       = ${HOME}/projappl/ISO639/iso639
+GET_ISO_CODE = ${ISO639} -m
+# GET_ISO_CODE = ${ISO639} -m -k
+
 
 
 ## corpora in OPUS used for training
@@ -80,10 +82,9 @@ TATOEBA_PAIRS = ${sort ${patsubst %.xml.gz,%,${notdir ${wildcard ${OPUS_HOME}/Ta
 
 ## ISO-639-3 language codes
 
-OPUS_LANGS3    = ${shell ${GET_ISO_CODE} ${OPUS_LANGS}}
-TATOEBA_LANGS3 = ${shell ${GET_ISO_CODE} ${TATOEBA_LANGS}}
-TATOEBA_PAIRS3 = ${sort ${shell ${SCRIPTDIR}/convert_langpair_codes.pl ${TATOEBA_PAIRS}}}
-
+OPUS_LANGS3       = ${sort ${filter-out xxx,${shell ${GET_ISO_CODE} ${OPUS_LANGS}}}}
+TATOEBA_LANGS3    = ${sort ${filter-out xxx,${shell ${GET_ISO_CODE} ${TATOEBA_LANGS}}}}
+TATOEBA_PAIRS3    = ${sort ${shell ${SCRIPTDIR}/convert_langpair_codes.pl ${TATOEBA_PAIRS}}}
 
 ## all data files we need to produce
 
@@ -94,6 +95,18 @@ TEST_DATA   = ${patsubst %,${DATADIR}/%/test.id,${TATOEBA_PAIRS3}}
 TEST_TSV    = ${patsubst ${DATADIR}/%.id,${DATADIR}/test/%.txt,${wildcard ${DATADIR}/*/test.id}}
 DEV_TSV     = ${patsubst ${DATADIR}/%.id,${DATADIR}/dev/%.txt,${wildcard ${DATADIR}/*/dev.id}}
 
+STATISTICS  = Data.md
+
+EXTRA_OPUS_LANGS3 = ${filter-out ${TATOEBA_LANGS3},${OPUS_LANGS3}}
+EXTRA_OPUS_PAIRS3 = ${shell for l in ${EXTRA_OPUS_LANGS3}; do \
+				if [ $$l \< 'eng' ]; then \
+				  echo "$$l-eng"; \
+				else \
+				  echo "eng-$$l"; \
+				fi \
+			    done}
+
+EXTRA_TRAIN_DATA  = ${patsubst %,${DATADIR}/%/train.id.gz,${EXTRA_OPUS_PAIRS3}}
 
 
 ## new lang ID files with normalised codes and script info
@@ -107,29 +120,28 @@ NEW_TRAIN_IDS = ${patsubst ${DATADIR}/%.ids.gz,${DATADIR}/%.id.gz,${wildcard ${D
 .PHONY: all testdata traindata test-tsv dev-tsv upload
 all: opus-langs.txt
 	${MAKE} dev-tsv test-tsv
-	${MAKE} Data.md
+	${MAKE} statistics
 	${MAKE} subsets
+	${MAKE} extra-traindata
+	${MAKE} extra-statistics
+
 
 data: ${TEST_DATA} ${TRAIN_DATA}
 traindata: ${TRAIN_DATA}
 testdata: ${TEST_DATA}
 test-tsv: ${TEST_TSV}
 dev-tsv: ${DEV_TSV}
+statistics: ${STATISTICS}
 upload: ${patsubst %,${DATADIR}/%.done,${TATOEBA_PAIRS3}}
 
 
-print-languages:
-	@echo "${TATOEBA_LANGS3}"
+## extra training data where we don't have any 
+## tatoeba test data (only paired with English)
+extra-traindata: ${EXTRA_TRAIN_DATA}
+extra-statistics:
+	${MAKE} STATISTICS=subsets/NoTestData.md TATOEBA_PAIRS3="${EXTRA_OPUS_PAIRS3}" statistics
+extra-upload: ${patsubst %,${DATADIR}/%.done,${EXTRA_OPUS_PAIRS3}}
 
-print-langpairs:
-	@echo "${TATOEBA_PAIRS3}"
-
-move-diff-langpairs:
-	@echo ${filter-out ${TATOEBA_PAIRS3},${shell ls ${DATADIR}}}
-	mkdir -p data-wrong
-	for d in ${filter-out ${TATOEBA_PAIRS3},${shell ls ${DATADIR}}}; do \
-	  mv ${DATADIR}/$$d data-wrong/; \
-	done
 
 ## list of all languages in OPUS
 opus-langs.txt:
@@ -137,6 +149,15 @@ opus-langs.txt:
 	grep '",' $@.tmp | tr '",' '  ' | sort | tr "\n" ' ' | sed 's/  */ /g' > $@
 	rm -f $@.tmp
 
+## cleanup some orphan files and directories
+cleanup:
+	-for d in ${EXTRA_OPUS_PAIRS3}; do \
+	  if [ -e ${DATADIR}/$$d/train.d ]; then \
+	    rm -f ${DATADIR}/$$d/train.d/*; \
+	    rmdir ${DATADIR}/$$d/train.d; \
+	  fi; \
+	  rmdir ${DATADIR}/$$d; \
+	done
 
 ## create training data by concatenating all data sets
 ## using normalized language codes (macro-languages)
@@ -338,17 +359,23 @@ ${DEV_TSV}: ${DATADIR}/dev/%/dev.txt: ${DATADIR}/%/dev.id
 DOWNLOADURL = https://object.pouta.csc.fi/Tatoeba-Challenge
 
 ## statistics of the data sets
-Data.md:
+${STATISTICS}:
+	mkdir -p $(dir $@)
 	echo "# Tatoeba Challenge Data" > $@
 	echo "" >> $@
 	echo "| lang-pair |    test    |    dev     |    train   |" >> $@
 	echo "|-----------|------------|------------|------------|" >> $@
 	for l in ${TATOEBA_PAIRS3}; do \
+	  if [ -s data/$$l/test.id ] || [ -e data/$$l/train.id.gz ]; then \
 	  echo -n "| " >> $@; \
 	  echo "$$l" | sed 's/-/ /' | xargs ${ISO639} | \
 		sed 's/" "/ - /' | awk '{printf "%30s\n", $$0}' | tr "\"\n" '  ' >> $@; \
 	  echo -n "[$$l](${DOWNLOADURL}/$$l.tar)  | " >> $@; \
-	  cat data/$$l/test.id | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	  if [ -e data/$$l/test.id ]; then \
+	    cat data/$$l/test.id | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	  else \
+	    echo -n "           " >> $@; \
+	  fi; \
 	  echo -n "| " >> $@; \
 	  if [ -e data/$$l/dev.id ]; then \
 	    cat data/$$l/dev.id | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
@@ -362,6 +389,7 @@ Data.md:
 	  else \
 	    echo "           |" >> $@; \
 	  fi; \
+	  fi \
 	done
 
 
@@ -372,6 +400,7 @@ Statisics.md:
 	echo "| lang-pair |    test    |    dev     |    train   |  train-src |  train-trg |" >> $@
 	echo "|-----------|------------|------------|------------|------------|------------|" >> $@
 	for l in ${TATOEBA_PAIRS3}; do \
+	  if [ -s data/$$l/test.id ] || [ -e data/$$l/train.id.gz ]; then \
 	  echo -n "|  $$l  | " >> $@; \
 	  cat data/$$l/test.id | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	  echo -n "| " >> $@; \
@@ -392,6 +421,7 @@ Statisics.md:
 	    echo "           |            |            |" >> $@; \
 	    echo "           |" >> $@; \
 	  fi; \
+	  fi \
 	done
 
 
@@ -507,3 +537,33 @@ endif
 	echo '${MAKE} -j ${HPC_CORES} ${MAKEARGS} ${@:.submit=}' >> $@
 	echo 'echo "Finishing at `date`"' >> $@
 	sbatch $@
+
+
+
+## some auxiliary functions
+
+print-additional-opuslangs:
+	@echo "${EXTRA_OPUS_LANGS3}"
+	@echo "${EXTRA_OPUS_PAIRS3}"
+	@echo "${EXTRA_TRAIN_DATA}"
+
+print-languages:
+	@echo "${TATOEBA_LANGS3}"
+
+print-langpairs:
+	@echo "${TATOEBA_PAIRS3}"
+
+nonstandard-codes:
+	@${ISO639} -n -m ${OPUS_LANGS} | tr ' ' "\n" > $@.isoopus
+	@${ISO639} -n -m -k ${OPUS_LANGS} | tr ' ' "\n" > $@.allopus
+
+nonstandard-tatoeba:
+	@${GET_ISO_CODE} -n -k ${TATOEBA_LANGS} | tr ' ' "\n" > $@.all
+	@${GET_ISO_CODE} -n ${TATOEBA_LANGS} | tr ' ' "\n" > $@.iso
+
+move-diff-langpairs:
+	@echo ${filter-out ${TATOEBA_PAIRS3},${shell ls ${DATADIR}}}
+	mkdir -p data-wrong
+	for d in ${filter-out ${TATOEBA_PAIRS3},${shell ls ${DATADIR}}}; do \
+	  mv ${DATADIR}/$$d data-wrong/; \
+	done

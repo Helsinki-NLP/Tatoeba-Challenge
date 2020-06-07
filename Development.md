@@ -7,7 +7,7 @@
 Required software:
 
 * [OpusTools](https://pypi.org/project/opustools): library and tools for accessing OPUS data
-* [ISO::639_3](https://github.com/Helsinki-NLP/ISO639): tools for converting language codes
+* [ISO::639-3](https://github.com/Helsinki-NLP/ISO639): tools for converting language codes
 
 Optional software:
 
