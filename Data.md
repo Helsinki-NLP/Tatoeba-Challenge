@@ -1483,7 +1483,7 @@
 |               French - Samoan  [fra-smo](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-smo.tar)  |          2 |            |     377975 |
 |                French - Shona  [fra-sna](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-sna.tar)  |         52 |            |     751375 |
 |               French - Somali  [fra-som](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-som.tar)  |          1 |            |      80184 |
-|              French - Spanish  [fra-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-spa.tar)  |      10000 |      40448 |            |
+|              French - Spanish  [fra-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-spa.tar)  |      10000 |      40448 |   93334819 |
 |             French - Albanian  [fra-sqi](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-sqi.tar)  |         32 |            |    2294785 |
 |            French - Sardinian  [fra-srd](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-srd.tar)  |         10 |            |        512 |
 |             French - Sumerian  [fra-sux](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-sux.tar)  |          3 |            |            |
@@ -1518,7 +1518,7 @@
 |              French - Walloon  [fra-wln](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-wln.tar)  |         73 |            |      44959 |
 |                French - Wolof  [fra-wol](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-wol.tar)  |         22 |            |       8093 |
 |              French - Yiddish  [fra-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-yid.tar)  |        230 |            |       2396 |
-|              French - Chinese  [fra-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-zho.tar)  |      10000 |       7502 |            |
+|              French - Chinese  [fra-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-zho.tar)  |      10000 |       7502 |   34786389 |
 |  Northern Frisian - Western Frisian  [frr-fry](https://object.pouta.csc.fi/Tatoeba-Challenge/frr-fry.tar)  |          3 |            |            |
 |   Northern Frisian - Gronings  [frr-gos](https://object.pouta.csc.fi/Tatoeba-Challenge/frr-gos.tar)  |          3 |            |            |
 |  Northern Frisian - Low German  [frr-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/frr-nds.tar)  |          1 |            |            |
@@ -1647,518 +1647,518 @@
 |   Serbo-Croatian - Macedonian  [hbs-mkd](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-mkd.tar)  |          1 |            |    7366043 |
 |    Serbo-Croatian - Norwegian  [hbs-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-nor.tar)  |       5000 |       6147 |   15935387 |
 |       Serbo-Croatian - Polish  [hbs-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-pol.tar)  |        417 |            |   63606485 |
-|   Serbo-Croatian - Portuguese  [hbs-por](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-por.tar)  |        107 |            |            |
+|   Serbo-Croatian - Portuguese  [hbs-por](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-por.tar)  |        107 |            |  127811662 |
 |      Serbo-Croatian - Russian  [hbs-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-rus.tar)  |       2500 |       4163 |   34694212 |
 |  Serbo-Croatian - Northern Sami  [hbs-sme](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-sme.tar)  |          3 |            |      28954 |
-|      Serbo-Croatian - Spanish  [hbs-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-spa.tar)  |        606 |            |            |
+|      Serbo-Croatian - Spanish  [hbs-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-spa.tar)  |        606 |            |   75870992 |
 |      Serbo-Croatian - Swedish  [hbs-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-swe.tar)  |          2 |            |   31450802 |
-|      Serbo-Croatian - Turkish  [hbs-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-tur.tar)  |        179 |            |            |
+|      Serbo-Croatian - Turkish  [hbs-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-tur.tar)  |        179 |            |   64378570 |
 |    Serbo-Croatian - Ukrainian  [hbs-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-ukr.tar)  |        941 |            |    2144095 |
 |         Serbo-Croatian - Urdu  [hbs-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-urd.tar)  |          1 |            |     490435 |
 |      Serbo-Croatian - Volapük  [hbs-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-vol.tar)  |          2 |            |            |
-|      Serbo-Croatian - Chinese  [hbs-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-zho.tar)  |        236 |            |            |
+|      Serbo-Croatian - Chinese  [hbs-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/hbs-zho.tar)  |        236 |            |   22721224 |
 |              Hebrew - Hunsrik  [heb-hrx](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-hrx.tar)  |          1 |            |            |
 |            Hebrew - Hungarian  [heb-hun](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-hun.tar)  |        401 |            |   24175209 |
 |                  Hebrew - Ido  [heb-ido](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-ido.tar)  |         35 |            |      12527 |
 |          Hebrew - Interlingue  [heb-ile](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-ile.tar)  |         26 |            |         87 |
 |  Hebrew - Interlingua (International Auxiliary Language Association)  [heb-ina](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-ina.tar)  |        141 |            |       7146 |
 |            Hebrew - Icelandic  [heb-isl](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-isl.tar)  |         11 |            |    1684213 |
-|              Hebrew - Italian  [heb-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-ita.tar)  |       1706 |            |            |
+|              Hebrew - Italian  [heb-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-ita.tar)  |       1706 |            |   19498649 |
 |               Hebrew - Lojban  [heb-jbo](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-jbo.tar)  |          7 |            |        342 |
 |  Hebrew - Jewish Palestinian Aramaic  [heb-jpa](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-jpa.tar)  |          1 |            |            |
-|             Hebrew - Japanese  [heb-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-jpn.tar)  |        242 |            |            |
-|               Hebrew - Kabyle  [heb-kab](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-kab.tar)  |          3 |            |            |
-|              Hebrew - Kurdish  [heb-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-kur.tar)  |          3 |            |            |
+|             Hebrew - Japanese  [heb-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-jpn.tar)  |        242 |            |    2831004 |
+|               Hebrew - Kabyle  [heb-kab](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-kab.tar)  |          3 |            |       5856 |
+|              Hebrew - Kurdish  [heb-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-kur.tar)  |          3 |            |      32736 |
 |               Hebrew - Ladino  [heb-lad](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-lad.tar)  |        137 |            |            |
-|                Hebrew - Latin  [heb-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-lat.tar)  |        224 |            |            |
+|                Hebrew - Latin  [heb-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-lat.tar)  |        224 |            |      32368 |
 |   Hebrew - Lingua Franca Nova  [heb-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-lfn.tar)  |        130 |            |            |
-|  Hebrew - Malay (macrolanguage)  [heb-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-msa.tar)  |         15 |            |            |
-|                Hebrew - Dutch  [heb-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-nld.tar)  |       2500 |       4327 |            |
-|            Hebrew - Norwegian  [heb-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-nor.tar)  |         23 |            |            |
+|  Hebrew - Malay (macrolanguage)  [heb-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-msa.tar)  |         15 |            |    8442788 |
+|                Hebrew - Dutch  [heb-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-nld.tar)  |       2500 |       4327 |   22094626 |
+|            Hebrew - Norwegian  [heb-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-nor.tar)  |         23 |            |    6703831 |
 |               Hebrew - Novial  [heb-nov](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-nov.tar)  |          3 |            |            |
 |              Hebrew - Nyungar  [heb-nys](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-nys.tar)  |          1 |            |            |
 |  Hebrew - Old Aramaic (up to 700 BCE)  [heb-oar](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-oar.tar)  |          8 |            |            |
 |          Hebrew - Old Spanish  [heb-osp](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-osp.tar)  |          2 |            |            |
 |  Hebrew - Ottoman Turkish (1500-1928)  [heb-ota](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-ota.tar)  |          4 |            |            |
 |           Hebrew - Phoenician  [heb-phn](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-phn.tar)  |          9 |            |            |
-|               Hebrew - Polish  [heb-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-pol.tar)  |       5000 |       7754 |            |
-|           Hebrew - Portuguese  [heb-por](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-por.tar)  |        702 |            |            |
+|               Hebrew - Polish  [heb-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-pol.tar)  |       5000 |       7754 |   24966355 |
+|           Hebrew - Portuguese  [heb-por](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-por.tar)  |        702 |            |   48325488 |
 |               Hebrew - Quenya  [heb-qya](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-qya.tar)  |          2 |            |            |
-|             Hebrew - Romanian  [heb-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-ron.tar)  |          1 |            |            |
-|              Hebrew - Russian  [heb-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-rus.tar)  |       2500 |       3540 |            |
+|             Hebrew - Romanian  [heb-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-ron.tar)  |          1 |            |   25816061 |
+|              Hebrew - Russian  [heb-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-rus.tar)  |       2500 |       3540 |   15322867 |
 |             Hebrew - Sindarin  [heb-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-sjn.tar)  |          6 |            |            |
-|            Hebrew - Slovenian  [heb-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-slv.tar)  |          1 |            |            |
-|              Hebrew - Spanish  [heb-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-spa.tar)  |       1849 |       1000 |            |
+|            Hebrew - Slovenian  [heb-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-slv.tar)  |          1 |            |   13913232 |
+|              Hebrew - Spanish  [heb-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-spa.tar)  |       1849 |       1000 |   27154366 |
 |       Hebrew - Saterfriesisch  [heb-stq](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-stq.tar)  |          1 |            |            |
-|              Hebrew - Swedish  [heb-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-swe.tar)  |          2 |            |            |
+|              Hebrew - Swedish  [heb-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-swe.tar)  |          2 |            |   12165310 |
 |     Hebrew - Classical Syriac  [heb-syc](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-syc.tar)  |          1 |            |            |
-|              Hebrew - Tagalog  [heb-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-tgl.tar)  |         15 |            |            |
-|              Hebrew - Klingon  [heb-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-tlh.tar)  |         32 |            |            |
+|              Hebrew - Tagalog  [heb-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-tgl.tar)  |         15 |            |     632267 |
+|              Hebrew - Klingon  [heb-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-tlh.tar)  |         32 |            |         77 |
 |  Hebrew - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [heb-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-tmr.tar)  |         16 |            |            |
 |            Hebrew - Toki Pona  [heb-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-toki.tar)  |         57 |            |            |
-|              Hebrew - Turkish  [heb-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-tur.tar)  |       1377 |            |            |
+|              Hebrew - Turkish  [heb-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-tur.tar)  |       1377 |            |   25326715 |
 |             Hebrew - Talossan  [heb-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-tzl.tar)  |         24 |            |            |
-|            Hebrew - Ukrainian  [heb-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-ukr.tar)  |        959 |            |            |
-|           Hebrew - Vietnamese  [heb-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-vie.tar)  |          1 |            |            |
+|            Hebrew - Ukrainian  [heb-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-ukr.tar)  |        959 |            |    1149178 |
+|           Hebrew - Vietnamese  [heb-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-vie.tar)  |          1 |            |    3570834 |
 |              Hebrew - Volapük  [heb-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-vol.tar)  |         28 |            |            |
-|              Hebrew - Yiddish  [heb-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-yid.tar)  |        570 |            |            |
-|              Hebrew - Chinese  [heb-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-zho.tar)  |        708 |            |            |
-|         Hiligaynon - Japanese  [hil-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/hil-jpn.tar)  |         15 |            |            |
-|          Hiligaynon - Chinese  [hil-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/hil-zho.tar)  |          7 |            |            |
-|              Hindi - Japanese  [hin-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-jpn.tar)  |        107 |            |            |
-|               Hindi - Marathi  [hin-mar](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-mar.tar)  |        158 |            |            |
-|             Hindi - Norwegian  [hin-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-nor.tar)  |          8 |            |            |
-|                Hindi - Polish  [hin-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-pol.tar)  |         11 |            |            |
-|               Hindi - Russian  [hin-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-rus.tar)  |         31 |            |            |
-|               Hindi - Spanish  [hin-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-spa.tar)  |         32 |            |            |
-|               Hindi - Swedish  [hin-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-swe.tar)  |          1 |            |            |
-|               Hindi - Turkish  [hin-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-tur.tar)  |         69 |            |            |
-|                  Hindi - Urdu  [hin-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-urd.tar)  |        239 |            |            |
-|               Hindi - Chinese  [hin-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-zho.tar)  |        324 |            |            |
-|               Hmong - Spanish  [hmn-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/hmn-spa.tar)  |          5 |            |            |
+|              Hebrew - Yiddish  [heb-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-yid.tar)  |        570 |            |       6473 |
+|              Hebrew - Chinese  [heb-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-zho.tar)  |        708 |            |    9373060 |
+|         Hiligaynon - Japanese  [hil-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/hil-jpn.tar)  |         15 |            |     857747 |
+|          Hiligaynon - Chinese  [hil-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/hil-zho.tar)  |          7 |            |         33 |
+|              Hindi - Japanese  [hin-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-jpn.tar)  |        107 |            |     704152 |
+|               Hindi - Marathi  [hin-mar](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-mar.tar)  |        158 |            |     365986 |
+|             Hindi - Norwegian  [hin-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-nor.tar)  |          8 |            |     804441 |
+|                Hindi - Polish  [hin-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-pol.tar)  |         11 |            |     681166 |
+|               Hindi - Russian  [hin-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-rus.tar)  |         31 |            |     757854 |
+|               Hindi - Spanish  [hin-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-spa.tar)  |         32 |            |     826348 |
+|               Hindi - Swedish  [hin-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-swe.tar)  |          1 |            |     641939 |
+|               Hindi - Turkish  [hin-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-tur.tar)  |         69 |            |     602249 |
+|                  Hindi - Urdu  [hin-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-urd.tar)  |        239 |            |     384371 |
+|               Hindi - Chinese  [hin-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-zho.tar)  |        324 |            |     223274 |
+|               Hmong - Spanish  [hmn-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/hmn-spa.tar)  |          5 |            |      31968 |
 |                  Ho - Spanish  [hoc-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/hoc-spa.tar)  |         23 |            |            |
 |          Hunsrik - Portuguese  [hrx-por](https://object.pouta.csc.fi/Tatoeba-Challenge/hrx-por.tar)  |          8 |            |            |
 |             Hunsrik - Yiddish  [hrx-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/hrx-yid.tar)  |          1 |            |            |
-|       Upper Sorbian - Spanish  [hsb-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/hsb-spa.tar)  |         20 |            |            |
-|               Hungarian - Ido  [hun-ido](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ido.tar)  |         12 |            |            |
-|       Hungarian - Interlingue  [hun-ile](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ile.tar)  |          7 |            |            |
-|  Hungarian - Interlingua (International Auxiliary Language Association)  [hun-ina](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ina.tar)  |         28 |            |            |
-|           Hungarian - Italian  [hun-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ita.tar)  |       5000 |       7117 |            |
-|            Hungarian - Lojban  [hun-jbo](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-jbo.tar)  |          4 |            |            |
+|       Upper Sorbian - Spanish  [hsb-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/hsb-spa.tar)  |         20 |            |      10107 |
+|               Hungarian - Ido  [hun-ido](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ido.tar)  |         12 |            |      10373 |
+|       Hungarian - Interlingue  [hun-ile](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ile.tar)  |          7 |            |          2 |
+|  Hungarian - Interlingua (International Auxiliary Language Association)  [hun-ina](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ina.tar)  |         28 |            |       8412 |
+|           Hungarian - Italian  [hun-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ita.tar)  |       5000 |       7117 |   33428586 |
+|            Hungarian - Lojban  [hun-jbo](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-jbo.tar)  |          4 |            |        374 |
 |  Hungarian - Jewish Palestinian Aramaic  [hun-jpa](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-jpa.tar)  |          2 |            |            |
-|          Hungarian - Japanese  [hun-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-jpn.tar)  |       2500 |       3558 |            |
-|            Hungarian - Korean  [hun-kor](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-kor.tar)  |        271 |            |            |
-|           Hungarian - Kurdish  [hun-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-kur.tar)  |          6 |            |            |
+|          Hungarian - Japanese  [hun-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-jpn.tar)  |       2500 |       3558 |    3019958 |
+|            Hungarian - Korean  [hun-kor](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-kor.tar)  |        271 |            |    2432159 |
+|           Hungarian - Kurdish  [hun-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-kur.tar)  |          6 |            |      32735 |
 |            Hungarian - Ladino  [hun-lad](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-lad.tar)  |         35 |            |            |
-|             Hungarian - Latin  [hun-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-lat.tar)  |        579 |            |            |
+|             Hungarian - Latin  [hun-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-lat.tar)  |        579 |            |      32494 |
 |            Hungarian - Láadan  [hun-ldn](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ldn.tar)  |          1 |            |            |
 |  Hungarian - Lingua Franca Nova  [hun-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-lfn.tar)  |         30 |            |            |
-|          Hungarian - Ligurian  [hun-lij](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-lij.tar)  |          1 |            |            |
-|     Hungarian - Luxembourgish  [hun-ltz](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ltz.tar)  |          2 |            |            |
-|           Hungarian - Marathi  [hun-mar](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-mar.tar)  |          1 |            |            |
-|        Hungarian - Macedonian  [hun-mkd](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-mkd.tar)  |          1 |            |            |
-|  Hungarian - Malay (macrolanguage)  [hun-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-msa.tar)  |         51 |            |            |
-|             Hungarian - Dutch  [hun-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-nld.tar)  |       1629 |            |            |
-|         Hungarian - Norwegian  [hun-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-nor.tar)  |        137 |            |            |
+|          Hungarian - Ligurian  [hun-lij](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-lij.tar)  |          1 |            |          3 |
+|     Hungarian - Luxembourgish  [hun-ltz](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ltz.tar)  |          2 |            |       4938 |
+|           Hungarian - Marathi  [hun-mar](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-mar.tar)  |          1 |            |     308630 |
+|        Hungarian - Macedonian  [hun-mkd](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-mkd.tar)  |          1 |            |    2906100 |
+|  Hungarian - Malay (macrolanguage)  [hun-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-msa.tar)  |         51 |            |    9264004 |
+|             Hungarian - Dutch  [hun-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-nld.tar)  |       1629 |            |   34622107 |
+|         Hungarian - Norwegian  [hun-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-nor.tar)  |        137 |            |    7721429 |
 |            Hungarian - Novial  [hun-nov](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-nov.tar)  |          2 |            |            |
 |       Hungarian - Old Spanish  [hun-osp](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-osp.tar)  |          2 |            |            |
 |  Hungarian - Ottoman Turkish (1500-1928)  [hun-ota](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ota.tar)  |          2 |            |            |
-|            Hungarian - Polish  [hun-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-pol.tar)  |       1934 |            |            |
-|        Hungarian - Portuguese  [hun-por](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-por.tar)  |       2500 |       3405 |            |
+|            Hungarian - Polish  [hun-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-pol.tar)  |       1934 |            |   39877194 |
+|        Hungarian - Portuguese  [hun-por](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-por.tar)  |       2500 |       3405 |   68981047 |
 |            Hungarian - Quenya  [hun-qya](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-qya.tar)  |          2 |            |            |
-|          Hungarian - Romanian  [hun-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ron.tar)  |          2 |            |            |
-|           Hungarian - Russian  [hun-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-rus.tar)  |       2500 |       6097 |            |
+|          Hungarian - Romanian  [hun-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ron.tar)  |          2 |            |   38721681 |
+|           Hungarian - Russian  [hun-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-rus.tar)  |       2500 |       6097 |   19242589 |
 |          Hungarian - Sindarin  [hun-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-sjn.tar)  |          3 |            |            |
-|         Hungarian - Slovenian  [hun-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-slv.tar)  |         42 |            |            |
-|           Hungarian - Spanish  [hun-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-spa.tar)  |       2500 |       4033 |            |
+|         Hungarian - Slovenian  [hun-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-slv.tar)  |         42 |            |   22274104 |
+|           Hungarian - Spanish  [hun-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-spa.tar)  |       2500 |       4033 |   43944951 |
 |          Hungarian - Sumerian  [hun-sux](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-sux.tar)  |          1 |            |            |
-|           Hungarian - Swedish  [hun-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-swe.tar)  |       1614 |            |            |
+|           Hungarian - Swedish  [hun-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-swe.tar)  |       1614 |            |   21183523 |
 |           Hungarian - Swabian  [hun-swg](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-swg.tar)  |          4 |            |            |
-|             Hungarian - Tatar  [hun-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-tat.tar)  |          1 |            |            |
-|           Hungarian - Klingon  [hun-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-tlh.tar)  |         21 |            |            |
+|             Hungarian - Tatar  [hun-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-tat.tar)  |          1 |            |     230667 |
+|           Hungarian - Klingon  [hun-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-tlh.tar)  |         21 |            |         64 |
 |  Hungarian - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [hun-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-tmr.tar)  |          5 |            |            |
 |         Hungarian - Toki Pona  [hun-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-toki.tar)  |          4 |            |            |
-|           Hungarian - Turkish  [hun-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-tur.tar)  |        965 |            |            |
+|           Hungarian - Turkish  [hun-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-tur.tar)  |        965 |            |   31829901 |
 |          Hungarian - Talossan  [hun-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-tzl.tar)  |         12 |            |            |
-|         Hungarian - Ukrainian  [hun-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ukr.tar)  |        464 |            |            |
-|              Hungarian - Urdu  [hun-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-urd.tar)  |          2 |            |            |
-|        Hungarian - Vietnamese  [hun-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-vie.tar)  |         29 |            |            |
+|         Hungarian - Ukrainian  [hun-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-ukr.tar)  |        464 |            |    1503410 |
+|              Hungarian - Urdu  [hun-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-urd.tar)  |          2 |            |     342691 |
+|        Hungarian - Vietnamese  [hun-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-vie.tar)  |         29 |            |    3704837 |
 |           Hungarian - Volapük  [hun-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-vol.tar)  |         14 |            |            |
-|           Hungarian - Yiddish  [hun-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-yid.tar)  |         63 |            |            |
-|           Hungarian - Chinese  [hun-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-zho.tar)  |        433 |            |            |
-|           Armenian - Japanese  [hye-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/hye-jpn.tar)  |         15 |            |            |
-|            Armenian - Russian  [hye-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/hye-rus.tar)  |        227 |            |            |
-|            Armenian - Spanish  [hye-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/hye-spa.tar)  |         65 |            |            |
-|            Armenian - Turkish  [hye-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/hye-tur.tar)  |          1 |            |            |
-|            Armenian - Chinese  [hye-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/hye-zho.tar)  |         14 |            |            |
-|  Iban - Malay (macrolanguage)  [iba-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/iba-msa.tar)  |          4 |            |            |
+|           Hungarian - Yiddish  [hun-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-yid.tar)  |         63 |            |       2158 |
+|           Hungarian - Chinese  [hun-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-zho.tar)  |        433 |            |   10152417 |
+|           Armenian - Japanese  [hye-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/hye-jpn.tar)  |         15 |            |     482593 |
+|            Armenian - Russian  [hye-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/hye-rus.tar)  |        227 |            |     442644 |
+|            Armenian - Spanish  [hye-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/hye-spa.tar)  |         65 |            |     435229 |
+|            Armenian - Turkish  [hye-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/hye-tur.tar)  |          1 |            |     424156 |
+|            Armenian - Chinese  [hye-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/hye-zho.tar)  |         14 |            |      11389 |
+|  Iban - Malay (macrolanguage)  [iba-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/iba-msa.tar)  |          4 |            |       9666 |
 |             Ido - Interlingue  [ido-ile](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-ile.tar)  |         60 |            |            |
-|  Ido - Interlingua (International Auxiliary Language Association)  [ido-ina](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-ina.tar)  |        132 |            |            |
-|                 Ido - Italian  [ido-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-ita.tar)  |       1460 |            |            |
-|                  Ido - Lojban  [ido-jbo](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-jbo.tar)  |          3 |            |            |
-|                Ido - Japanese  [ido-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-jpn.tar)  |         53 |            |            |
-|                  Ido - Kazakh  [ido-kaz](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-kaz.tar)  |          1 |            |            |
-|                  Ido - Korean  [ido-kor](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-kor.tar)  |          1 |            |            |
-|                 Ido - Kurdish  [ido-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-kur.tar)  |          4 |            |            |
+|  Ido - Interlingua (International Auxiliary Language Association)  [ido-ina](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-ina.tar)  |        132 |            |       3911 |
+|                 Ido - Italian  [ido-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-ita.tar)  |       1460 |            |       9477 |
+|                  Ido - Lojban  [ido-jbo](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-jbo.tar)  |          3 |            |         33 |
+|                Ido - Japanese  [ido-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-jpn.tar)  |         53 |            |       8633 |
+|                  Ido - Kazakh  [ido-kaz](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-kaz.tar)  |          1 |            |       8418 |
+|                  Ido - Korean  [ido-kor](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-kor.tar)  |          1 |            |        498 |
+|                 Ido - Kurdish  [ido-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-kur.tar)  |          4 |            |       9301 |
 |                  Ido - Ladino  [ido-lad](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-lad.tar)  |         50 |            |            |
-|                   Ido - Latin  [ido-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-lat.tar)  |         77 |            |            |
-|                 Ido - Latvian  [ido-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-lav.tar)  |          1 |            |            |
+|                   Ido - Latin  [ido-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-lat.tar)  |         77 |            |        194 |
+|                 Ido - Latvian  [ido-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-lav.tar)  |          1 |            |      12035 |
 |                  Ido - Láadan  [ido-ldn](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-ldn.tar)  |          3 |            |            |
 |      Ido - Lingua Franca Nova  [ido-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-lfn.tar)  |        107 |            |            |
-|              Ido - Lithuanian  [ido-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-lit.tar)  |          1 |            |            |
-|   Ido - Malay (macrolanguage)  [ido-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-msa.tar)  |         22 |            |            |
-|              Ido - Low German  [ido-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-nds.tar)  |          1 |            |            |
-|                   Ido - Dutch  [ido-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-nld.tar)  |         73 |            |            |
-|               Ido - Norwegian  [ido-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-nor.tar)  |          7 |            |            |
+|              Ido - Lithuanian  [ido-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-lit.tar)  |          1 |            |       1225 |
+|   Ido - Malay (macrolanguage)  [ido-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-msa.tar)  |         22 |            |      20522 |
+|              Ido - Low German  [ido-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-nds.tar)  |          1 |            |       8313 |
+|                   Ido - Dutch  [ido-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-nld.tar)  |         73 |            |      10707 |
+|               Ido - Norwegian  [ido-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-nor.tar)  |          7 |            |      20377 |
 |                  Ido - Novial  [ido-nov](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-nov.tar)  |          6 |            |            |
 |             Ido - Old Spanish  [ido-osp](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-osp.tar)  |          1 |            |            |
-|                  Ido - Polish  [ido-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-pol.tar)  |         23 |            |            |
-|              Ido - Portuguese  [ido-por](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-por.tar)  |         20 |            |            |
+|                  Ido - Polish  [ido-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-pol.tar)  |         23 |            |      10135 |
+|              Ido - Portuguese  [ido-por](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-por.tar)  |         20 |            |      23326 |
 |                  Ido - Quenya  [ido-qya](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-qya.tar)  |          5 |            |            |
-|                Ido - Romanian  [ido-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-ron.tar)  |          1 |            |            |
-|                 Ido - Russian  [ido-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-rus.tar)  |        104 |            |            |
+|                Ido - Romanian  [ido-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-ron.tar)  |          1 |            |      11323 |
+|                 Ido - Russian  [ido-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-rus.tar)  |        104 |            |       7799 |
 |                Ido - Sindarin  [ido-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-sjn.tar)  |          6 |            |            |
-|               Ido - Slovenian  [ido-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-slv.tar)  |          1 |            |            |
-|                 Ido - Spanish  [ido-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-spa.tar)  |        429 |            |            |
-|                 Ido - Swedish  [ido-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-swe.tar)  |          2 |            |            |
-|                   Ido - Tatar  [ido-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-tat.tar)  |          2 |            |            |
-|                 Ido - Klingon  [ido-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-tlh.tar)  |         47 |            |            |
+|               Ido - Slovenian  [ido-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-slv.tar)  |          1 |            |       1225 |
+|                 Ido - Spanish  [ido-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-spa.tar)  |        429 |            |      12395 |
+|                 Ido - Swedish  [ido-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-swe.tar)  |          2 |            |      11966 |
+|                   Ido - Tatar  [ido-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-tat.tar)  |          2 |            |       5652 |
+|                 Ido - Klingon  [ido-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-tlh.tar)  |         47 |            |          5 |
 |  Ido - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [ido-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-tmr.tar)  |          7 |            |            |
 |               Ido - Toki Pona  [ido-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-toki.tar)  |         20 |            |            |
-|                 Ido - Turkish  [ido-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-tur.tar)  |         14 |            |            |
+|                 Ido - Turkish  [ido-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-tur.tar)  |         14 |            |      12823 |
 |                Ido - Talossan  [ido-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-tzl.tar)  |         21 |            |            |
-|               Ido - Ukrainian  [ido-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-ukr.tar)  |          5 |            |            |
-|                   Ido - Uzbek  [ido-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-uzb.tar)  |          1 |            |            |
+|               Ido - Ukrainian  [ido-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-ukr.tar)  |          5 |            |       9446 |
+|                   Ido - Uzbek  [ido-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-uzb.tar)  |          1 |            |       9300 |
 |                 Ido - Volapük  [ido-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-vol.tar)  |         57 |            |            |
-|                 Ido - Yiddish  [ido-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-yid.tar)  |        111 |            |            |
-|                 Ido - Chinese  [ido-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-zho.tar)  |         30 |            |            |
+|                 Ido - Yiddish  [ido-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-yid.tar)  |        111 |            |       4148 |
+|                 Ido - Chinese  [ido-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-zho.tar)  |         30 |            |       1986 |
 |  Interlingue - Interlingua (International Auxiliary Language Association)  [ile-ina](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-ina.tar)  |        118 |            |            |
-|         Interlingue - Italian  [ile-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-ita.tar)  |         10 |            |            |
+|         Interlingue - Italian  [ile-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-ita.tar)  |         10 |            |          1 |
 |          Interlingue - Lojban  [ile-jbo](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-jbo.tar)  |          4 |            |            |
 |        Interlingue - Japanese  [ile-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-jpn.tar)  |          6 |            |            |
 |          Interlingue - Kabyle  [ile-kab](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-kab.tar)  |          1 |            |            |
 |         Interlingue - Kurdish  [ile-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-kur.tar)  |          3 |            |            |
 |          Interlingue - Ladino  [ile-lad](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-lad.tar)  |         59 |            |            |
-|           Interlingue - Latin  [ile-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-lat.tar)  |         89 |            |            |
+|           Interlingue - Latin  [ile-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-lat.tar)  |         89 |            |          1 |
 |          Interlingue - Láadan  [ile-ldn](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-ldn.tar)  |          4 |            |            |
 |  Interlingue - Lingua Franca Nova  [ile-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-lfn.tar)  |        125 |            |            |
 |      Interlingue - Low German  [ile-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-nds.tar)  |          1 |            |            |
 |           Interlingue - Dutch  [ile-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-nld.tar)  |         11 |            |            |
 |       Interlingue - Norwegian  [ile-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-nor.tar)  |          1 |            |            |
 |          Interlingue - Novial  [ile-nov](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-nov.tar)  |          8 |            |            |
-|      Interlingue - Portuguese  [ile-por](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-por.tar)  |         57 |            |            |
+|      Interlingue - Portuguese  [ile-por](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-por.tar)  |         57 |            |         96 |
 |          Interlingue - Quenya  [ile-qya](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-qya.tar)  |          6 |            |            |
-|        Interlingue - Romanian  [ile-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-ron.tar)  |          9 |            |            |
-|         Interlingue - Russian  [ile-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-rus.tar)  |         13 |            |            |
+|        Interlingue - Romanian  [ile-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-ron.tar)  |          9 |            |        198 |
+|         Interlingue - Russian  [ile-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-rus.tar)  |         13 |            |          3 |
 |        Interlingue - Sindarin  [ile-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-sjn.tar)  |         13 |            |            |
-|         Interlingue - Spanish  [ile-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-spa.tar)  |        120 |            |            |
-|         Interlingue - Swedish  [ile-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-swe.tar)  |          2 |            |            |
+|         Interlingue - Spanish  [ile-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-spa.tar)  |        120 |            |        186 |
+|         Interlingue - Swedish  [ile-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-swe.tar)  |          2 |            |         83 |
 |         Interlingue - Klingon  [ile-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-tlh.tar)  |         63 |            |            |
 |  Interlingue - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [ile-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-tmr.tar)  |          8 |            |            |
 |       Interlingue - Toki Pona  [ile-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-toki.tar)  |         12 |            |            |
-|         Interlingue - Turkish  [ile-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-tur.tar)  |         15 |            |            |
+|         Interlingue - Turkish  [ile-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-tur.tar)  |         15 |            |        117 |
 |        Interlingue - Talossan  [ile-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-tzl.tar)  |         27 |            |            |
 |       Interlingue - Ukrainian  [ile-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-ukr.tar)  |          2 |            |            |
 |         Interlingue - Volapük  [ile-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-vol.tar)  |         63 |            |            |
 |         Interlingue - Yiddish  [ile-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-yid.tar)  |         99 |            |            |
 |         Interlingue - Chinese  [ile-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ile-zho.tar)  |          3 |            |            |
-|              Iloko - Japanese  [ilo-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/ilo-jpn.tar)  |          2 |            |            |
+|              Iloko - Japanese  [ilo-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/ilo-jpn.tar)  |          2 |            |     891638 |
 |               Iloko - Chinese  [ilo-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ilo-zho.tar)  |          3 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Italian  [ina-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-ita.tar)  |        898 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Lojban  [ina-jbo](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-jbo.tar)  |         12 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Japanese  [ina-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-jpn.tar)  |         37 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Kabyle  [ina-kab](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-kab.tar)  |          5 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Kurdish  [ina-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-kur.tar)  |         18 |            |            |
+|  Interlingua (International Auxiliary Language Association) - Italian  [ina-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-ita.tar)  |        898 |            |       9755 |
+|  Interlingua (International Auxiliary Language Association) - Lojban  [ina-jbo](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-jbo.tar)  |         12 |            |         20 |
+|  Interlingua (International Auxiliary Language Association) - Japanese  [ina-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-jpn.tar)  |         37 |            |       7340 |
+|  Interlingua (International Auxiliary Language Association) - Kabyle  [ina-kab](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-kab.tar)  |          5 |            |          7 |
+|  Interlingua (International Auxiliary Language Association) - Kurdish  [ina-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-kur.tar)  |         18 |            |       5447 |
 |  Interlingua (International Auxiliary Language Association) - Ladino  [ina-lad](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-lad.tar)  |        215 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Latin  [ina-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-lat.tar)  |        823 |            |            |
+|  Interlingua (International Auxiliary Language Association) - Latin  [ina-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-lat.tar)  |        823 |            |        163 |
 |  Interlingua (International Auxiliary Language Association) - Láadan  [ina-ldn](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-ldn.tar)  |         18 |            |            |
 |  Interlingua (International Auxiliary Language Association) - Lingua Franca Nova  [ina-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-lfn.tar)  |        435 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Lithuanian  [ina-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-lit.tar)  |          1 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Luxembourgish  [ina-ltz](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-ltz.tar)  |          3 |            |            |
+|  Interlingua (International Auxiliary Language Association) - Lithuanian  [ina-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-lit.tar)  |          1 |            |       1784 |
+|  Interlingua (International Auxiliary Language Association) - Luxembourgish  [ina-ltz](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-ltz.tar)  |          3 |            |         13 |
 |  Interlingua (International Auxiliary Language Association) - Mohawk  [ina-moh](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-moh.tar)  |          1 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Low German  [ina-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-nds.tar)  |          3 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Dutch  [ina-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-nld.tar)  |       1009 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Norwegian  [ina-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-nor.tar)  |         55 |            |            |
+|  Interlingua (International Auxiliary Language Association) - Low German  [ina-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-nds.tar)  |          3 |            |       5646 |
+|  Interlingua (International Auxiliary Language Association) - Dutch  [ina-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-nld.tar)  |       1009 |            |       9449 |
+|  Interlingua (International Auxiliary Language Association) - Norwegian  [ina-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-nor.tar)  |         55 |            |      17213 |
 |  Interlingua (International Auxiliary Language Association) - Novial  [ina-nov](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-nov.tar)  |         10 |            |            |
 |  Interlingua (International Auxiliary Language Association) - Old Spanish  [ina-osp](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-osp.tar)  |          2 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Polish  [ina-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-pol.tar)  |        119 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Portuguese  [ina-por](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-por.tar)  |       2500 |       7080 |            |
+|  Interlingua (International Auxiliary Language Association) - Polish  [ina-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-pol.tar)  |        119 |            |       9392 |
+|  Interlingua (International Auxiliary Language Association) - Portuguese  [ina-por](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-por.tar)  |       2500 |       7080 |      19169 |
 |  Interlingua (International Auxiliary Language Association) - Quenya  [ina-qya](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-qya.tar)  |          5 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Romanian  [ina-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-ron.tar)  |          2 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Russian  [ina-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-rus.tar)  |       1453 |            |            |
+|  Interlingua (International Auxiliary Language Association) - Romanian  [ina-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-ron.tar)  |          2 |            |       9278 |
+|  Interlingua (International Auxiliary Language Association) - Russian  [ina-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-rus.tar)  |       1453 |            |       1674 |
 |  Interlingua (International Auxiliary Language Association) - Sindarin  [ina-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-sjn.tar)  |         13 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Spanish  [ina-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-spa.tar)  |       1613 |            |            |
+|  Interlingua (International Auxiliary Language Association) - Spanish  [ina-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-spa.tar)  |       1613 |            |       9564 |
 |  Interlingua (International Auxiliary Language Association) - Saterfriesisch  [ina-stq](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-stq.tar)  |          1 |            |            |
 |  Interlingua (International Auxiliary Language Association) - Sumerian  [ina-sux](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-sux.tar)  |          2 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Swedish  [ina-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-swe.tar)  |          1 |            |            |
+|  Interlingua (International Auxiliary Language Association) - Swedish  [ina-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-swe.tar)  |          1 |            |       1852 |
 |  Interlingua (International Auxiliary Language Association) - Swabian  [ina-swg](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-swg.tar)  |          3 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Klingon  [ina-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-tlh.tar)  |        145 |            |            |
+|  Interlingua (International Auxiliary Language Association) - Klingon  [ina-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-tlh.tar)  |        145 |            |          5 |
 |  Interlingua (International Auxiliary Language Association) - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [ina-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-tmr.tar)  |          8 |            |            |
 |  Interlingua (International Auxiliary Language Association) - Toki Pona  [ina-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-toki.tar)  |         40 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Turkish  [ina-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-tur.tar)  |        295 |            |            |
+|  Interlingua (International Auxiliary Language Association) - Turkish  [ina-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-tur.tar)  |        295 |            |       9578 |
 |  Interlingua (International Auxiliary Language Association) - Talossan  [ina-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-tzl.tar)  |         49 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Ukrainian  [ina-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-ukr.tar)  |         14 |            |            |
+|  Interlingua (International Auxiliary Language Association) - Ukrainian  [ina-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-ukr.tar)  |         14 |            |       1644 |
 |  Interlingua (International Auxiliary Language Association) - Volapük  [ina-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-vol.tar)  |         98 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Yiddish  [ina-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-yid.tar)  |        448 |            |            |
-|  Interlingua (International Auxiliary Language Association) - Chinese  [ina-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-zho.tar)  |          1 |            |            |
-|           Icelandic - Italian  [isl-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-ita.tar)  |        236 |            |            |
-|          Icelandic - Japanese  [isl-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-jpn.tar)  |        252 |            |            |
-|          Icelandic - Georgian  [isl-kat](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-kat.tar)  |          1 |            |            |
-|             Icelandic - Latin  [isl-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-lat.tar)  |          6 |            |            |
-|           Icelandic - Latvian  [isl-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-lav.tar)  |          1 |            |            |
-|  Icelandic - Malay (macrolanguage)  [isl-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-msa.tar)  |          2 |            |            |
-|         Icelandic - Norwegian  [isl-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-nor.tar)  |        126 |            |            |
+|  Interlingua (International Auxiliary Language Association) - Yiddish  [ina-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-yid.tar)  |        448 |            |       3699 |
+|  Interlingua (International Auxiliary Language Association) - Chinese  [ina-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-zho.tar)  |          1 |            |       2505 |
+|           Icelandic - Italian  [isl-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-ita.tar)  |        236 |            |    1580753 |
+|          Icelandic - Japanese  [isl-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-jpn.tar)  |        252 |            |     690904 |
+|          Icelandic - Georgian  [isl-kat](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-kat.tar)  |          1 |            |     321625 |
+|             Icelandic - Latin  [isl-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-lat.tar)  |          6 |            |      32288 |
+|           Icelandic - Latvian  [isl-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-lav.tar)  |          1 |            |     526425 |
+|  Icelandic - Malay (macrolanguage)  [isl-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-msa.tar)  |          2 |            |    1350393 |
+|         Icelandic - Norwegian  [isl-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-nor.tar)  |        126 |            |    1471709 |
 |       Icelandic - Old Spanish  [isl-osp](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-osp.tar)  |          1 |            |            |
-|            Icelandic - Polish  [isl-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-pol.tar)  |         18 |            |            |
-|        Icelandic - Portuguese  [isl-por](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-por.tar)  |         64 |            |            |
-|           Icelandic - Russian  [isl-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-rus.tar)  |        139 |            |            |
-|           Icelandic - Spanish  [isl-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-spa.tar)  |        238 |            |            |
+|            Icelandic - Polish  [isl-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-pol.tar)  |         18 |            |    1909789 |
+|        Icelandic - Portuguese  [isl-por](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-por.tar)  |         64 |            |    3418860 |
+|           Icelandic - Russian  [isl-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-rus.tar)  |        139 |            |    1297301 |
+|           Icelandic - Spanish  [isl-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-spa.tar)  |        238 |            |    2085931 |
 |    Icelandic - Saterfriesisch  [isl-stq](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-stq.tar)  |          1 |            |            |
-|           Icelandic - Swedish  [isl-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-swe.tar)  |          1 |            |            |
+|           Icelandic - Swedish  [isl-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-swe.tar)  |          1 |            |    1706596 |
 |          Icelandic - Talossan  [isl-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-tzl.tar)  |          1 |            |            |
-|           Icelandic - Chinese  [isl-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-zho.tar)  |         12 |            |            |
-|              Italian - Lojban  [ita-jbo](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-jbo.tar)  |        169 |            |            |
+|           Icelandic - Chinese  [isl-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-zho.tar)  |         12 |            |     948521 |
+|              Italian - Lojban  [ita-jbo](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-jbo.tar)  |        169 |            |        372 |
 |  Italian - Jewish Palestinian Aramaic  [ita-jpa](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-jpa.tar)  |          1 |            |            |
-|            Italian - Japanese  [ita-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-jpn.tar)  |       2665 |       1000 |            |
-|              Italian - Kabyle  [ita-kab](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-kab.tar)  |          8 |            |            |
-|              Italian - Kazakh  [ita-kaz](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-kaz.tar)  |          9 |            |            |
-|              Italian - Korean  [ita-kor](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-kor.tar)  |         79 |            |            |
-|             Italian - Kurdish  [ita-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-kur.tar)  |          6 |            |            |
+|            Italian - Japanese  [ita-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-jpn.tar)  |       2665 |       1000 |    3618212 |
+|              Italian - Kabyle  [ita-kab](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-kab.tar)  |          8 |            |       5743 |
+|              Italian - Kazakh  [ita-kaz](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-kaz.tar)  |          9 |            |      72818 |
+|              Italian - Korean  [ita-kor](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-kor.tar)  |         79 |            |    3037539 |
+|             Italian - Kurdish  [ita-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-kur.tar)  |          6 |            |      70723 |
 |              Italian - Ladino  [ita-lad](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-lad.tar)  |         26 |            |            |
-|               Italian - Latin  [ita-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-lat.tar)  |       1716 |            |            |
-|             Italian - Latvian  [ita-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-lav.tar)  |         21 |            |            |
-|  Italian - Lingua Franca Nova  [ita-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-lfn.tar)  |         31 |            |            |
-|            Italian - Ligurian  [ita-lij](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-lij.tar)  |        107 |            |            |
-|          Italian - Lithuanian  [ita-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-lit.tar)  |        224 |            |            |
-|       Italian - Luxembourgish  [ita-ltz](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-ltz.tar)  |         50 |            |            |
-|             Italian - Maltese  [ita-mlt](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-mlt.tar)  |         20 |            |            |
-|  Italian - Malay (macrolanguage)  [ita-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-msa.tar)  |        426 |            |            |
-|          Italian - Low German  [ita-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-nds.tar)  |        310 |            |            |
-|               Italian - Dutch  [ita-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-nld.tar)  |       2500 |       6940 |            |
-|           Italian - Norwegian  [ita-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-nor.tar)  |        931 |            |            |
+|               Italian - Latin  [ita-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-lat.tar)  |       1716 |            |      32013 |
+|             Italian - Latvian  [ita-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-lav.tar)  |         21 |            |    8930788 |
+|  Italian - Lingua Franca Nova  [ita-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-lfn.tar)  |         31 |            |         50 |
+|            Italian - Ligurian  [ita-lij](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-lij.tar)  |        107 |            |         13 |
+|          Italian - Lithuanian  [ita-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-lit.tar)  |        224 |            |    9365564 |
+|       Italian - Luxembourgish  [ita-ltz](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-ltz.tar)  |         50 |            |       7227 |
+|             Italian - Maltese  [ita-mlt](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-mlt.tar)  |         20 |            |    4676984 |
+|  Italian - Malay (macrolanguage)  [ita-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-msa.tar)  |        426 |            |    7572767 |
+|          Italian - Low German  [ita-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-nds.tar)  |        310 |            |     181992 |
+|               Italian - Dutch  [ita-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-nld.tar)  |       2500 |       6940 |   39463115 |
+|           Italian - Norwegian  [ita-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-nor.tar)  |        931 |            |    7875740 |
 |              Italian - Novial  [ita-nov](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-nov.tar)  |          2 |            |            |
-|  Italian - Occitan (post 1500)  [ita-oci](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-oci.tar)  |         80 |            |            |
+|  Italian - Occitan (post 1500)  [ita-oci](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-oci.tar)  |         80 |            |      31302 |
 |         Italian - Old Russian  [ita-orv](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-orv.tar)  |          8 |            |            |
 |         Italian - Old Turkish  [ita-otk](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-otk.tar)  |          1 |            |            |
-|          Italian - Piemontese  [ita-pms](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-pms.tar)  |        232 |            |            |
-|              Italian - Polish  [ita-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-pol.tar)  |       1294 |       1000 |            |
-|          Italian - Portuguese  [ita-por](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-por.tar)  |       2500 |       6357 |            |
-|            Italian - Romanian  [ita-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-ron.tar)  |       1004 |            |            |
-|             Italian - Russian  [ita-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-rus.tar)  |      10000 |      66049 |            |
-|             Italian - Shuswap  [ita-shs](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-shs.tar)  |          6 |            |            |
-|           Italian - Slovenian  [ita-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-slv.tar)  |         68 |            |            |
-|             Italian - Spanish  [ita-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-spa.tar)  |       5000 |       9085 |            |
-|            Italian - Albanian  [ita-sqi](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-sqi.tar)  |         51 |            |            |
-|  Italian - Swahili (macrolanguage)  [ita-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-swa.tar)  |         22 |            |            |
-|             Italian - Swedish  [ita-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-swe.tar)  |        673 |            |            |
-|               Italian - Tatar  [ita-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-tat.tar)  |         52 |            |            |
-|             Italian - Tagalog  [ita-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-tgl.tar)  |         92 |            |            |
-|                Italian - Thai  [ita-tha](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-tha.tar)  |         15 |            |            |
-|             Italian - Klingon  [ita-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-tlh.tar)  |        120 |            |            |
+|          Italian - Piemontese  [ita-pms](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-pms.tar)  |        232 |            |         32 |
+|              Italian - Polish  [ita-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-pol.tar)  |       1294 |       1000 |   35047057 |
+|          Italian - Portuguese  [ita-por](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-por.tar)  |       2500 |       6357 |   66685881 |
+|            Italian - Romanian  [ita-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-ron.tar)  |       1004 |            |   31532538 |
+|             Italian - Russian  [ita-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-rus.tar)  |      10000 |      66049 |   17345928 |
+|             Italian - Shuswap  [ita-shs](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-shs.tar)  |          6 |            |        132 |
+|           Italian - Slovenian  [ita-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-slv.tar)  |         68 |            |   18650792 |
+|             Italian - Spanish  [ita-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-spa.tar)  |       5000 |       9085 |   50127170 |
+|            Italian - Albanian  [ita-sqi](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-sqi.tar)  |         51 |            |    2125802 |
+|  Italian - Swahili (macrolanguage)  [ita-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-swa.tar)  |         22 |            |    1456313 |
+|             Italian - Swedish  [ita-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-swe.tar)  |        673 |            |   23226046 |
+|               Italian - Tatar  [ita-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-tat.tar)  |         52 |            |     235293 |
+|             Italian - Tagalog  [ita-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-tgl.tar)  |         92 |            |    1160993 |
+|                Italian - Thai  [ita-tha](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-tha.tar)  |         15 |            |    3185653 |
+|             Italian - Klingon  [ita-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-tlh.tar)  |        120 |            |         68 |
 |  Italian - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [ita-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-tmr.tar)  |          2 |            |            |
 |           Italian - Toki Pona  [ita-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-toki.tar)  |        183 |            |            |
-|             Italian - Turkish  [ita-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-tur.tar)  |      10000 |       5690 |            |
+|             Italian - Turkish  [ita-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-tur.tar)  |      10000 |       5690 |   24463855 |
 |            Italian - Talossan  [ita-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-tzl.tar)  |         10 |            |            |
-|              Italian - Uighur  [ita-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-uig.tar)  |         81 |            |            |
-|           Italian - Ukrainian  [ita-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-ukr.tar)  |       5000 |       8658 |            |
-|            Italian - Venetian  [ita-vec](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-vec.tar)  |         11 |            |            |
-|          Italian - Vietnamese  [ita-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-vie.tar)  |        250 |            |            |
-|             Italian - Volapük  [ita-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-vol.tar)  |          6 |            |            |
-|             Italian - Yiddish  [ita-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-yid.tar)  |        133 |            |            |
-|             Italian - Chinese  [ita-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-zho.tar)  |       2943 |       1000 |            |
+|              Italian - Uighur  [ita-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-uig.tar)  |         81 |            |      10637 |
+|           Italian - Ukrainian  [ita-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-ukr.tar)  |       5000 |       8658 |    1683593 |
+|            Italian - Venetian  [ita-vec](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-vec.tar)  |         11 |            |        364 |
+|          Italian - Vietnamese  [ita-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-vie.tar)  |        250 |            |    3257326 |
+|             Italian - Volapük  [ita-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-vol.tar)  |          6 |            |          3 |
+|             Italian - Yiddish  [ita-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-yid.tar)  |        133 |            |      37617 |
+|             Italian - Chinese  [ita-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-zho.tar)  |       2943 |       1000 |    7784323 |
 |            Ingrian - Karelian  [izh-krl](https://object.pouta.csc.fi/Tatoeba-Challenge/izh-krl.tar)  |          3 |            |            |
 |           Ingrian - Norwegian  [izh-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/izh-nor.tar)  |          2 |            |            |
 |             Ingrian - Russian  [izh-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/izh-rus.tar)  |          8 |            |            |
-|            Javanese - Spanish  [jav-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/jav-spa.tar)  |          4 |            |            |
-|             Lojban - Japanese  [jbo-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-jpn.tar)  |        921 |            |            |
-|              Lojban - Kurdish  [jbo-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-kur.tar)  |          1 |            |            |
+|            Javanese - Spanish  [jav-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/jav-spa.tar)  |          4 |            |      19762 |
+|             Lojban - Japanese  [jbo-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-jpn.tar)  |        921 |            |        328 |
+|              Lojban - Kurdish  [jbo-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-kur.tar)  |          1 |            |        337 |
 |               Lojban - Ladino  [jbo-lad](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-lad.tar)  |         12 |            |            |
-|                Lojban - Latin  [jbo-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-lat.tar)  |          7 |            |            |
+|                Lojban - Latin  [jbo-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-lat.tar)  |          7 |            |         43 |
 |               Lojban - Láadan  [jbo-ldn](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-ldn.tar)  |          4 |            |            |
 |   Lojban - Lingua Franca Nova  [jbo-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-lfn.tar)  |         12 |            |            |
-|                Lojban - Dutch  [jbo-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-nld.tar)  |          1 |            |            |
+|                Lojban - Dutch  [jbo-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-nld.tar)  |          1 |            |        323 |
 |               Lojban - Novial  [jbo-nov](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-nov.tar)  |          1 |            |            |
 |          Lojban - Old Spanish  [jbo-osp](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-osp.tar)  |          2 |            |            |
-|               Lojban - Polish  [jbo-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-pol.tar)  |        140 |            |            |
-|           Lojban - Portuguese  [jbo-por](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-por.tar)  |          2 |            |            |
+|               Lojban - Polish  [jbo-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-pol.tar)  |        140 |            |        341 |
+|           Lojban - Portuguese  [jbo-por](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-por.tar)  |          2 |            |        134 |
 |               Lojban - Quenya  [jbo-qya](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-qya.tar)  |          1 |            |            |
-|              Lojban - Russian  [jbo-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-rus.tar)  |       1199 |            |            |
+|              Lojban - Russian  [jbo-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-rus.tar)  |       1199 |            |        371 |
 |             Lojban - Sindarin  [jbo-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-sjn.tar)  |          3 |            |            |
-|              Lojban - Spanish  [jbo-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-spa.tar)  |       1507 |            |            |
-|              Lojban - Swedish  [jbo-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-swe.tar)  |        242 |            |            |
-|              Lojban - Klingon  [jbo-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-tlh.tar)  |          8 |            |            |
+|              Lojban - Spanish  [jbo-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-spa.tar)  |       1507 |            |         78 |
+|              Lojban - Swedish  [jbo-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-swe.tar)  |        242 |            |        327 |
+|              Lojban - Klingon  [jbo-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-tlh.tar)  |          8 |            |         11 |
 |  Lojban - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [jbo-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-tmr.tar)  |          2 |            |            |
 |            Lojban - Toki Pona  [jbo-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-toki.tar)  |          4 |            |            |
-|              Lojban - Turkish  [jbo-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-tur.tar)  |          2 |            |            |
+|              Lojban - Turkish  [jbo-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-tur.tar)  |          2 |            |        375 |
 |             Lojban - Talossan  [jbo-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-tzl.tar)  |          5 |            |            |
-|            Lojban - Ukrainian  [jbo-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-ukr.tar)  |          1 |            |            |
+|            Lojban - Ukrainian  [jbo-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-ukr.tar)  |          1 |            |        379 |
 |              Lojban - Volapük  [jbo-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-vol.tar)  |         10 |            |            |
-|              Lojban - Yiddish  [jbo-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-yid.tar)  |         16 |            |            |
-|              Lojban - Chinese  [jbo-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-zho.tar)  |        518 |            |            |
+|              Lojban - Yiddish  [jbo-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-yid.tar)  |         16 |            |          5 |
+|              Lojban - Chinese  [jbo-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/jbo-zho.tar)  |        518 |            |        759 |
 |  Jewish Palestinian Aramaic - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [jpa-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/jpa-tmr.tar)  |          1 |            |            |
-|             Japanese - Kabyle  [jpn-kab](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-kab.tar)  |         18 |            |            |
-|           Japanese - Georgian  [jpn-kat](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-kat.tar)  |         55 |            |            |
-|              Japanese - Khmer  [jpn-khm](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-khm.tar)  |         25 |            |            |
-|            Japanese - Kirghiz  [jpn-kir](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-kir.tar)  |          2 |            |            |
-|             Japanese - Korean  [jpn-kor](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-kor.tar)  |        593 |            |            |
-|             Japanese - Kölsch  [jpn-ksh](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-ksh.tar)  |          3 |            |            |
-|            Japanese - Kurdish  [jpn-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-kur.tar)  |         10 |            |            |
+|             Japanese - Kabyle  [jpn-kab](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-kab.tar)  |         18 |            |         55 |
+|           Japanese - Georgian  [jpn-kat](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-kat.tar)  |         55 |            |     663909 |
+|              Japanese - Khmer  [jpn-khm](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-khm.tar)  |         25 |            |     166060 |
+|            Japanese - Kirghiz  [jpn-kir](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-kir.tar)  |          2 |            |     336231 |
+|             Japanese - Korean  [jpn-kor](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-kor.tar)  |        593 |            |    2701560 |
+|             Japanese - Kölsch  [jpn-ksh](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-ksh.tar)  |          3 |            |         20 |
+|            Japanese - Kurdish  [jpn-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-kur.tar)  |         10 |            |      36993 |
 |             Japanese - Ladino  [jpn-lad](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-lad.tar)  |          5 |            |            |
-|                Japanese - Lao  [jpn-lao](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-lao.tar)  |          1 |            |            |
-|              Japanese - Latin  [jpn-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-lat.tar)  |        129 |            |            |
-|            Japanese - Latvian  [jpn-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-lav.tar)  |          3 |            |            |
+|                Japanese - Lao  [jpn-lao](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-lao.tar)  |          1 |            |       1367 |
+|              Japanese - Latin  [jpn-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-lat.tar)  |        129 |            |       2108 |
+|            Japanese - Latvian  [jpn-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-lav.tar)  |          3 |            |     782619 |
 |             Japanese - Láadan  [jpn-ldn](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-ldn.tar)  |          1 |            |            |
 |  Japanese - Lingua Franca Nova  [jpn-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-lfn.tar)  |         18 |            |            |
-|         Japanese - Lithuanian  [jpn-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-lit.tar)  |        242 |            |            |
+|         Japanese - Lithuanian  [jpn-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-lit.tar)  |        242 |            |    1043108 |
 |                Japanese - Liv  [jpn-liv](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-liv.tar)  |          1 |            |            |
-|          Japanese - Malayalam  [jpn-mal](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-mal.tar)  |          2 |            |            |
-|            Japanese - Marathi  [jpn-mar](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-mar.tar)  |        340 |            |            |
-|            Japanese - Maltese  [jpn-mlt](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-mlt.tar)  |          2 |            |            |
-|          Japanese - Mongolian  [jpn-mon](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-mon.tar)  |         54 |            |            |
-|  Japanese - Malay (macrolanguage)  [jpn-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-msa.tar)  |       2644 |       1000 |            |
-|            Japanese - Burmese  [jpn-mya](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-mya.tar)  |          6 |            |            |
+|          Japanese - Malayalam  [jpn-mal](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-mal.tar)  |          2 |            |     536289 |
+|            Japanese - Marathi  [jpn-mar](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-mar.tar)  |        340 |            |     332996 |
+|            Japanese - Maltese  [jpn-mlt](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-mlt.tar)  |          2 |            |     368034 |
+|          Japanese - Mongolian  [jpn-mon](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-mon.tar)  |         54 |            |     213802 |
+|  Japanese - Malay (macrolanguage)  [jpn-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-msa.tar)  |       2644 |       1000 |    2598008 |
+|            Japanese - Burmese  [jpn-mya](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-mya.tar)  |          6 |            |     679392 |
 |  Japanese - Nahuatl languages  [jpn-nah](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-nah.tar)  |          2 |            |            |
-|         Japanese - Low German  [jpn-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-nds.tar)  |        363 |            |            |
-|  Japanese - Nepali (macrolanguage)  [jpn-nep](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-nep.tar)  |          3 |            |            |
-|              Japanese - Dutch  [jpn-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-nld.tar)  |       3443 |       1000 |            |
-|          Japanese - Norwegian  [jpn-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-nor.tar)  |       1046 |            |            |
+|         Japanese - Low German  [jpn-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-nds.tar)  |        363 |            |      79076 |
+|  Japanese - Nepali (macrolanguage)  [jpn-nep](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-nep.tar)  |          3 |            |     426867 |
+|              Japanese - Dutch  [jpn-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-nld.tar)  |       3443 |       1000 |    3643442 |
+|          Japanese - Norwegian  [jpn-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-nor.tar)  |       1046 |            |    2704583 |
 |             Japanese - Novial  [jpn-nov](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-nov.tar)  |          2 |            |            |
 |            Japanese - Nyungar  [jpn-nys](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-nys.tar)  |          1 |            |            |
-|  Japanese - Occitan (post 1500)  [jpn-oci](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-oci.tar)  |         60 |            |            |
+|  Japanese - Occitan (post 1500)  [jpn-oci](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-oci.tar)  |         60 |            |      20965 |
 |        Japanese - Old Russian  [jpn-orv](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-orv.tar)  |          4 |            |            |
-|           Japanese - Ossetian  [jpn-oss](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-oss.tar)  |          4 |            |            |
-|         Japanese - Piemontese  [jpn-pms](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-pms.tar)  |         10 |            |            |
-|             Japanese - Polish  [jpn-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-pol.tar)  |      10000 |      14807 |            |
-|         Japanese - Portuguese  [jpn-por](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-por.tar)  |       1943 |       1000 |            |
+|           Japanese - Ossetian  [jpn-oss](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-oss.tar)  |          4 |            |      70015 |
+|         Japanese - Piemontese  [jpn-pms](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-pms.tar)  |         10 |            |         33 |
+|             Japanese - Polish  [jpn-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-pol.tar)  |      10000 |      14807 |    3295824 |
+|         Japanese - Portuguese  [jpn-por](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-por.tar)  |       1943 |       1000 |    5542948 |
 |              Japanese - Pipil  [jpn-ppl](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-ppl.tar)  |          2 |            |            |
 |           Japanese - Prussian  [jpn-prg](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-prg.tar)  |          7 |            |            |
 |             Japanese - Quenya  [jpn-qya](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-qya.tar)  |          1 |            |            |
-|           Japanese - Romanian  [jpn-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-ron.tar)  |        152 |            |            |
-|            Japanese - Russian  [jpn-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-rus.tar)  |      10000 |      15301 |            |
-|           Japanese - Sanskrit  [jpn-san](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-san.tar)  |          9 |            |            |
-|            Japanese - Shuswap  [jpn-shs](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-shs.tar)  |          8 |            |            |
-|          Japanese - Slovenian  [jpn-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-slv.tar)  |         68 |            |            |
-|            Japanese - Spanish  [jpn-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-spa.tar)  |      10000 |      23383 |            |
-|           Japanese - Albanian  [jpn-sqi](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-sqi.tar)  |          4 |            |            |
+|           Japanese - Romanian  [jpn-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-ron.tar)  |        152 |            |    3046830 |
+|            Japanese - Russian  [jpn-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-rus.tar)  |      10000 |      15301 |    2812096 |
+|           Japanese - Sanskrit  [jpn-san](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-san.tar)  |          9 |            |        982 |
+|            Japanese - Shuswap  [jpn-shs](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-shs.tar)  |          8 |            |          7 |
+|          Japanese - Slovenian  [jpn-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-slv.tar)  |         68 |            |    2420410 |
+|            Japanese - Spanish  [jpn-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-spa.tar)  |      10000 |      23383 |    4182722 |
+|           Japanese - Albanian  [jpn-sqi](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-sqi.tar)  |          4 |            |    1022178 |
 |           Japanese - Sumerian  [jpn-sux](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-sux.tar)  |          1 |            |            |
-|  Japanese - Swahili (macrolanguage)  [jpn-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-swa.tar)  |          3 |            |            |
-|            Japanese - Swedish  [jpn-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-swe.tar)  |        898 |            |            |
-|              Japanese - Tatar  [jpn-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tat.tar)  |         81 |            |            |
-|              Japanese - Tajik  [jpn-tgk](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tgk.tar)  |          3 |            |            |
-|            Japanese - Tagalog  [jpn-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tgl.tar)  |        131 |            |            |
-|               Japanese - Thai  [jpn-tha](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tha.tar)  |         24 |            |            |
-|            Japanese - Klingon  [jpn-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tlh.tar)  |        676 |            |            |
+|  Japanese - Swahili (macrolanguage)  [jpn-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-swa.tar)  |          3 |            |    1415233 |
+|            Japanese - Swedish  [jpn-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-swe.tar)  |        898 |            |    3099109 |
+|              Japanese - Tatar  [jpn-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tat.tar)  |         81 |            |     250641 |
+|              Japanese - Tajik  [jpn-tgk](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tgk.tar)  |          3 |            |     151796 |
+|            Japanese - Tagalog  [jpn-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tgl.tar)  |        131 |            |    1119070 |
+|               Japanese - Thai  [jpn-tha](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tha.tar)  |         24 |            |    1731849 |
+|            Japanese - Klingon  [jpn-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tlh.tar)  |        676 |            |         72 |
 |          Japanese - Toki Pona  [jpn-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-toki.tar)  |        198 |            |            |
-|            Japanese - Turkmen  [jpn-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tuk.tar)  |          2 |            |            |
-|            Japanese - Turkish  [jpn-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tur.tar)  |        806 |            |            |
+|            Japanese - Turkmen  [jpn-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tuk.tar)  |          2 |            |     136366 |
+|            Japanese - Turkish  [jpn-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tur.tar)  |        806 |            |    2707742 |
 |           Japanese - Talossan  [jpn-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-tzl.tar)  |          2 |            |            |
-|             Japanese - Uighur  [jpn-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-uig.tar)  |         64 |            |            |
-|          Japanese - Ukrainian  [jpn-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-ukr.tar)  |        436 |            |            |
-|               Japanese - Urdu  [jpn-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-urd.tar)  |          8 |            |            |
-|              Japanese - Uzbek  [jpn-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-uzb.tar)  |          5 |            |            |
-|         Japanese - Vietnamese  [jpn-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-vie.tar)  |       1098 |            |            |
+|             Japanese - Uighur  [jpn-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-uig.tar)  |         64 |            |       6501 |
+|          Japanese - Ukrainian  [jpn-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-ukr.tar)  |        436 |            |    1397412 |
+|               Japanese - Urdu  [jpn-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-urd.tar)  |          8 |            |     421541 |
+|              Japanese - Uzbek  [jpn-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-uzb.tar)  |          5 |            |      30715 |
+|         Japanese - Vietnamese  [jpn-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-vie.tar)  |       1098 |            |    1517217 |
 |            Japanese - Volapük  [jpn-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-vol.tar)  |         10 |            |            |
-|             Japanese - Kalmyk  [jpn-xal](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-xal.tar)  |          4 |            |            |
-|            Japanese - Yiddish  [jpn-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-yid.tar)  |         16 |            |            |
-|            Japanese - Chinese  [jpn-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-zho.tar)  |       2500 |       2829 |            |
+|             Japanese - Kalmyk  [jpn-xal](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-xal.tar)  |          4 |            |         27 |
+|            Japanese - Yiddish  [jpn-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-yid.tar)  |         16 |            |       2171 |
+|            Japanese - Chinese  [jpn-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-zho.tar)  |       2500 |       2829 |    1839365 |
 |         Kara-Kalpak - Turkish  [kaa-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kaa-tur.tar)  |          1 |            |            |
-|             Kabyle - Georgian  [kab-kat](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-kat.tar)  |          1 |            |            |
-|              Kabyle - Kurdish  [kab-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-kur.tar)  |          5 |            |            |
+|             Kabyle - Georgian  [kab-kat](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-kat.tar)  |          1 |            |         45 |
+|              Kabyle - Kurdish  [kab-kur](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-kur.tar)  |          5 |            |        141 |
 |               Kabyle - Ladino  [kab-lad](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-lad.tar)  |          5 |            |            |
-|                Kabyle - Latin  [kab-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-lat.tar)  |          2 |            |            |
+|                Kabyle - Latin  [kab-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-lat.tar)  |          2 |            |       5782 |
 |   Kabyle - Lingua Franca Nova  [kab-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-lfn.tar)  |          3 |            |            |
-|           Kabyle - Lithuanian  [kab-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-lit.tar)  |          1 |            |            |
-|           Kabyle - Low German  [kab-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-nds.tar)  |          1 |            |            |
-|                Kabyle - Dutch  [kab-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-nld.tar)  |          6 |            |            |
-|               Kabyle - Polish  [kab-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-pol.tar)  |         62 |            |            |
-|           Kabyle - Portuguese  [kab-por](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-por.tar)  |          4 |            |            |
-|              Kabyle - Russian  [kab-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-rus.tar)  |        391 |            |            |
+|           Kabyle - Lithuanian  [kab-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-lit.tar)  |          1 |            |       5845 |
+|           Kabyle - Low German  [kab-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-nds.tar)  |          1 |            |         73 |
+|                Kabyle - Dutch  [kab-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-nld.tar)  |          6 |            |       5629 |
+|               Kabyle - Polish  [kab-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-pol.tar)  |         62 |            |       5848 |
+|           Kabyle - Portuguese  [kab-por](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-por.tar)  |          4 |            |       5885 |
+|              Kabyle - Russian  [kab-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-rus.tar)  |        391 |            |       5700 |
 |             Kabyle - Tachawit  [kab-shy](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-shy.tar)  |          3 |            |            |
 |             Kabyle - Sindarin  [kab-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-sjn.tar)  |          2 |            |            |
-|              Kabyle - Spanish  [kab-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-spa.tar)  |        212 |            |            |
-|              Kabyle - Klingon  [kab-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-tlh.tar)  |          1 |            |            |
-|             Kabyle - Tamashek  [kab-tmh](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-tmh.tar)  |          1 |            |            |
+|              Kabyle - Spanish  [kab-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-spa.tar)  |        212 |            |       5831 |
+|              Kabyle - Klingon  [kab-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-tlh.tar)  |          1 |            |          9 |
+|             Kabyle - Tamashek  [kab-tmh](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-tmh.tar)  |          1 |            |        506 |
 |  Kabyle - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [kab-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-tmr.tar)  |          1 |            |            |
 |            Kabyle - Toki Pona  [kab-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-toki.tar)  |          2 |            |            |
-|              Kabyle - Turkish  [kab-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-tur.tar)  |          4 |            |            |
-|           Kabyle - Vietnamese  [kab-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-vie.tar)  |          2 |            |            |
+|              Kabyle - Turkish  [kab-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-tur.tar)  |          4 |            |       5480 |
+|           Kabyle - Vietnamese  [kab-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-vie.tar)  |          2 |            |      11610 |
 |              Kabyle - Volapük  [kab-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-vol.tar)  |          2 |            |            |
-|              Kabyle - Yiddish  [kab-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-yid.tar)  |          8 |            |            |
-|              Kabyle - Chinese  [kab-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-zho.tar)  |         22 |            |            |
-|          Kalaallisut - Polish  [kal-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/kal-pol.tar)  |          1 |            |            |
-|         Kalaallisut - Spanish  [kal-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kal-spa.tar)  |          8 |            |            |
+|              Kabyle - Yiddish  [kab-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-yid.tar)  |          8 |            |          4 |
+|              Kabyle - Chinese  [kab-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-zho.tar)  |         22 |            |       6065 |
+|          Kalaallisut - Polish  [kal-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/kal-pol.tar)  |          1 |            |     177424 |
+|         Kalaallisut - Spanish  [kal-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kal-spa.tar)  |          8 |            |     193681 |
 |  Georgian - Lingua Franca Nova  [kat-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-lfn.tar)  |          1 |            |            |
-|         Georgian - Lithuanian  [kat-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-lit.tar)  |          2 |            |            |
-|              Georgian - Dutch  [kat-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-nld.tar)  |          2 |            |            |
-|          Georgian - Norwegian  [kat-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-nor.tar)  |          1 |            |            |
-|             Georgian - Polish  [kat-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-pol.tar)  |         13 |            |            |
-|            Georgian - Russian  [kat-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-rus.tar)  |        622 |            |            |
-|            Georgian - Tagalog  [kat-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-tgl.tar)  |          2 |            |            |
-|            Georgian - Turkish  [kat-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-tur.tar)  |        113 |            |            |
-|          Georgian - Ukrainian  [kat-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-ukr.tar)  |          5 |            |            |
-|         Georgian - Vietnamese  [kat-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-vie.tar)  |          1 |            |            |
-|            Georgian - Chinese  [kat-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-zho.tar)  |         14 |            |            |
-|              Kazakh - Latvian  [kaz-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-lav.tar)  |          1 |            |            |
-|           Kazakh - Lithuanian  [kaz-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-lit.tar)  |          1 |            |            |
-|  Kazakh - Malay (macrolanguage)  [kaz-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-msa.tar)  |          5 |            |            |
-|            Kazakh - Norwegian  [kaz-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-nor.tar)  |          1 |            |            |
-|               Kazakh - Polish  [kaz-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-pol.tar)  |          9 |            |            |
-|              Kazakh - Russian  [kaz-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-rus.tar)  |       1400 |       1000 |            |
-|              Kazakh - Spanish  [kaz-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-spa.tar)  |         78 |            |            |
-|                Kazakh - Tatar  [kaz-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-tat.tar)  |          4 |            |            |
-|              Kazakh - Turkish  [kaz-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-tur.tar)  |         67 |            |            |
-|                Kazakh - Uzbek  [kaz-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-uzb.tar)  |          1 |            |            |
+|         Georgian - Lithuanian  [kat-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-lit.tar)  |          2 |            |     538380 |
+|              Georgian - Dutch  [kat-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-nld.tar)  |          2 |            |     676836 |
+|          Georgian - Norwegian  [kat-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-nor.tar)  |          1 |            |     620742 |
+|             Georgian - Polish  [kat-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-pol.tar)  |         13 |            |     696844 |
+|            Georgian - Russian  [kat-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-rus.tar)  |        622 |            |     690882 |
+|            Georgian - Tagalog  [kat-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-tgl.tar)  |          2 |            |     548782 |
+|            Georgian - Turkish  [kat-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-tur.tar)  |        113 |            |     610949 |
+|          Georgian - Ukrainian  [kat-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-ukr.tar)  |          5 |            |     623750 |
+|         Georgian - Vietnamese  [kat-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-vie.tar)  |          1 |            |     514882 |
+|            Georgian - Chinese  [kat-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-zho.tar)  |         14 |            |     152741 |
+|              Kazakh - Latvian  [kaz-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-lav.tar)  |          1 |            |      62661 |
+|           Kazakh - Lithuanian  [kaz-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-lit.tar)  |          1 |            |      62315 |
+|  Kazakh - Malay (macrolanguage)  [kaz-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-msa.tar)  |          5 |            |      93619 |
+|            Kazakh - Norwegian  [kaz-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-nor.tar)  |          1 |            |     119718 |
+|               Kazakh - Polish  [kaz-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-pol.tar)  |          9 |            |      77882 |
+|              Kazakh - Russian  [kaz-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-rus.tar)  |       1400 |       1000 |      69542 |
+|              Kazakh - Spanish  [kaz-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-spa.tar)  |         78 |            |      80851 |
+|                Kazakh - Tatar  [kaz-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-tat.tar)  |          4 |            |       2058 |
+|              Kazakh - Turkish  [kaz-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-tur.tar)  |         67 |            |      78617 |
+|                Kazakh - Uzbek  [kaz-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-uzb.tar)  |          1 |            |      46798 |
 |              Kazakh - Volapük  [kaz-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-vol.tar)  |          1 |            |            |
-|              Kazakh - Yiddish  [kaz-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-yid.tar)  |          4 |            |            |
-|              Kazakh - Chinese  [kaz-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-zho.tar)  |         17 |            |            |
-|              Kekchí - Spanish  [kek-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kek-spa.tar)  |         28 |            |            |
+|              Kazakh - Yiddish  [kaz-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-yid.tar)  |          4 |            |        919 |
+|              Kazakh - Chinese  [kaz-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-zho.tar)  |         17 |            |     112911 |
+|              Kekchí - Spanish  [kek-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kek-spa.tar)  |         28 |            |      27504 |
 |               Khasi - Spanish  [kha-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kha-spa.tar)  |        182 |            |            |
 |            Khasi - Vietnamese  [kha-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/kha-vie.tar)  |          4 |            |            |
-|  Khmer - Malay (macrolanguage)  [khm-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/khm-msa.tar)  |         17 |            |            |
-|                Khmer - Polish  [khm-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/khm-pol.tar)  |          3 |            |            |
-|               Khmer - Russian  [khm-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/khm-rus.tar)  |         63 |            |            |
-|               Khmer - Spanish  [khm-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/khm-spa.tar)  |       1472 |            |            |
-|            Khmer - Vietnamese  [khm-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/khm-vie.tar)  |         18 |            |            |
-|               Khmer - Chinese  [khm-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/khm-zho.tar)  |         88 |            |            |
-|             Kirghiz - Latvian  [kir-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/kir-lav.tar)  |          1 |            |            |
-|          Kirghiz - Lithuanian  [kir-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/kir-lit.tar)  |          1 |            |            |
-|             Kirghiz - Russian  [kir-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kir-rus.tar)  |         47 |            |            |
-|             Kirghiz - Turkish  [kir-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kir-tur.tar)  |         16 |            |            |
+|  Khmer - Malay (macrolanguage)  [khm-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/khm-msa.tar)  |         17 |            |     152386 |
+|                Khmer - Polish  [khm-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/khm-pol.tar)  |          3 |            |     162912 |
+|               Khmer - Russian  [khm-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/khm-rus.tar)  |         63 |            |     160455 |
+|               Khmer - Spanish  [khm-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/khm-spa.tar)  |       1472 |            |     177518 |
+|            Khmer - Vietnamese  [khm-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/khm-vie.tar)  |         18 |            |     103412 |
+|               Khmer - Chinese  [khm-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/khm-zho.tar)  |         88 |            |     118587 |
+|             Kirghiz - Latvian  [kir-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/kir-lav.tar)  |          1 |            |     273504 |
+|          Kirghiz - Lithuanian  [kir-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/kir-lit.tar)  |          1 |            |     327195 |
+|             Kirghiz - Russian  [kir-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kir-rus.tar)  |         47 |            |     318773 |
+|             Kirghiz - Turkish  [kir-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kir-tur.tar)  |         16 |            |     291083 |
 |              Khakas - Turkish  [kjh-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kjh-tur.tar)  |          1 |            |            |
-|                Korean - Latin  [kor-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-lat.tar)  |          7 |            |            |
-|              Korean - Latvian  [kor-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-lav.tar)  |          1 |            |            |
-|           Korean - Lithuanian  [kor-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-lit.tar)  |          1 |            |            |
-|            Korean - Mongolian  [kor-mon](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-mon.tar)  |         23 |            |            |
-|  Korean - Malay (macrolanguage)  [kor-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-msa.tar)  |        184 |            |            |
-|                Korean - Dutch  [kor-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-nld.tar)  |        103 |            |            |
-|            Korean - Norwegian  [kor-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-nor.tar)  |          2 |            |            |
-|               Korean - Polish  [kor-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-pol.tar)  |         75 |            |            |
-|           Korean - Portuguese  [kor-por](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-por.tar)  |         82 |            |            |
-|             Korean - Romanian  [kor-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-ron.tar)  |         12 |            |            |
-|              Korean - Russian  [kor-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-rus.tar)  |        221 |            |            |
-|            Korean - Slovenian  [kor-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-slv.tar)  |          7 |            |            |
-|              Korean - Spanish  [kor-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-spa.tar)  |        942 |            |            |
+|                Korean - Latin  [kor-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-lat.tar)  |          7 |            |      32509 |
+|              Korean - Latvian  [kor-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-lav.tar)  |          1 |            |     749759 |
+|           Korean - Lithuanian  [kor-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-lit.tar)  |          1 |            |     959291 |
+|            Korean - Mongolian  [kor-mon](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-mon.tar)  |         23 |            |     206452 |
+|  Korean - Malay (macrolanguage)  [kor-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-msa.tar)  |        184 |            |    1769188 |
+|                Korean - Dutch  [kor-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-nld.tar)  |        103 |            |    3020518 |
+|            Korean - Norwegian  [kor-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-nor.tar)  |          2 |            |    2312137 |
+|               Korean - Polish  [kor-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-pol.tar)  |         75 |            |    2722656 |
+|           Korean - Portuguese  [kor-por](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-por.tar)  |         82 |            |    4216912 |
+|             Korean - Romanian  [kor-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-ron.tar)  |         12 |            |    2491820 |
+|              Korean - Russian  [kor-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-rus.tar)  |        221 |            |    2207039 |
+|            Korean - Slovenian  [kor-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-slv.tar)  |          7 |            |    1866837 |
+|              Korean - Spanish  [kor-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-spa.tar)  |        942 |            |    3306282 |
 |              Korean - Swabian  [kor-swg](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-swg.tar)  |          1 |            |            |
-|                Korean - Tatar  [kor-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-tat.tar)  |          2 |            |            |
-|              Korean - Klingon  [kor-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-tlh.tar)  |          2 |            |            |
-|              Korean - Turkish  [kor-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-tur.tar)  |        177 |            |            |
-|               Korean - Uighur  [kor-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-uig.tar)  |         13 |            |            |
-|            Korean - Ukrainian  [kor-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-ukr.tar)  |         28 |            |            |
-|           Korean - Vietnamese  [kor-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-vie.tar)  |         31 |            |            |
+|                Korean - Tatar  [kor-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-tat.tar)  |          2 |            |     246435 |
+|              Korean - Klingon  [kor-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-tlh.tar)  |          2 |            |         75 |
+|              Korean - Turkish  [kor-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-tur.tar)  |        177 |            |    2070759 |
+|               Korean - Uighur  [kor-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-uig.tar)  |         13 |            |       6793 |
+|            Korean - Ukrainian  [kor-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-ukr.tar)  |         28 |            |    1315563 |
+|           Korean - Vietnamese  [kor-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-vie.tar)  |         31 |            |    1240006 |
 |              Korean - Volapük  [kor-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-vol.tar)  |          1 |            |            |
-|              Korean - Chinese  [kor-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-zho.tar)  |        397 |            |            |
+|              Korean - Chinese  [kor-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-zho.tar)  |        397 |            |     866558 |
 |     Karachay-Balkar - Turkish  [krc-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/krc-tur.tar)  |          1 |            |            |
 |              Karelian - Dutch  [krl-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/krl-nld.tar)  |        119 |            |            |
 |          Karelian - Norwegian  [krl-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/krl-nor.tar)  |         15 |            |            |
-|              Kölsch - Spanish  [ksh-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ksh-spa.tar)  |         10 |            |            |
+|              Kölsch - Spanish  [ksh-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ksh-spa.tar)  |         10 |            |         20 |
 |               Kumyk - Russian  [kum-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kum-rus.tar)  |          1 |            |            |
 |               Kumyk - Turkish  [kum-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kum-tur.tar)  |          2 |            |            |
 |              Kurdish - Ladino  [kur-lad](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-lad.tar)  |         20 |            |            |
-|               Kurdish - Latin  [kur-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-lat.tar)  |          5 |            |            |
+|               Kurdish - Latin  [kur-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-lat.tar)  |          5 |            |        715 |
 |              Kurdish - Láadan  [kur-ldn](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-ldn.tar)  |          2 |            |            |
 |  Kurdish - Lingua Franca Nova  [kur-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-lfn.tar)  |         10 |            |            |
-|               Kurdish - Ladin  [kur-lld](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-lld.tar)  |          1 |            |            |
-|               Kurdish - Dutch  [kur-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-nld.tar)  |          3 |            |            |
-|           Kurdish - Norwegian  [kur-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-nor.tar)  |          1 |            |            |
+|               Kurdish - Ladin  [kur-lld](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-lld.tar)  |          1 |            |        113 |
+|               Kurdish - Dutch  [kur-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-nld.tar)  |          3 |            |      92036 |
+|           Kurdish - Norwegian  [kur-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-nor.tar)  |          1 |            |     120113 |
 |              Kurdish - Novial  [kur-nov](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-nov.tar)  |          1 |            |            |
 |         Kurdish - Old Spanish  [kur-osp](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-osp.tar)  |          3 |            |            |
 |  Kurdish - Ottoman Turkish (1500-1928)  [kur-ota](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-ota.tar)  |          2 |            |            |
-|              Kurdish - Polish  [kur-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-pol.tar)  |          4 |            |            |
-|          Kurdish - Portuguese  [kur-por](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-por.tar)  |          8 |            |            |
-|             Kurdish - Russian  [kur-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-rus.tar)  |          5 |            |            |
+|              Kurdish - Polish  [kur-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-pol.tar)  |          4 |            |      39595 |
+|          Kurdish - Portuguese  [kur-por](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-por.tar)  |          8 |            |      58826 |
+|             Kurdish - Russian  [kur-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-rus.tar)  |          5 |            |      77968 |
 |            Kurdish - Sindarin  [kur-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-sjn.tar)  |          5 |            |            |
-|             Kurdish - Spanish  [kur-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-spa.tar)  |          3 |            |            |
-|             Kurdish - Swedish  [kur-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-swe.tar)  |          5 |            |            |
-|             Kurdish - Klingon  [kur-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-tlh.tar)  |          4 |            |            |
+|             Kurdish - Spanish  [kur-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-spa.tar)  |          3 |            |     183913 |
+|             Kurdish - Swedish  [kur-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-swe.tar)  |          5 |            |      40120 |
+|             Kurdish - Klingon  [kur-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-tlh.tar)  |          4 |            |         48 |
 |  Kurdish - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [kur-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-tmr.tar)  |          2 |            |            |
-|      Kurdish - Tonga (Zambia)  [kur-toi](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-toi.tar)  |          1 |            |            |
+|      Kurdish - Tonga (Zambia)  [kur-toi](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-toi.tar)  |          1 |            |      14650 |
 |           Kurdish - Toki Pona  [kur-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-toki.tar)  |          1 |            |            |
-|             Kurdish - Turkmen  [kur-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-tuk.tar)  |          1 |            |            |
-|             Kurdish - Turkish  [kur-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-tur.tar)  |        113 |            |            |
+|             Kurdish - Turkmen  [kur-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-tuk.tar)  |          1 |            |      21299 |
+|             Kurdish - Turkish  [kur-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-tur.tar)  |        113 |            |      92748 |
 |            Kurdish - Talossan  [kur-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-tzl.tar)  |          4 |            |            |
 |             Kurdish - Volapük  [kur-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-vol.tar)  |         11 |            |            |
-|             Kurdish - Yiddish  [kur-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-yid.tar)  |         29 |            |            |
-|             Kurdish - Chinese  [kur-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-zho.tar)  |          5 |            |            |
+|             Kurdish - Yiddish  [kur-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-yid.tar)  |         29 |            |       8870 |
+|             Kurdish - Chinese  [kur-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/kur-zho.tar)  |          5 |            |      43801 |
 |  Keningau Murut - Tagal Murut  [kxi-mvv](https://object.pouta.csc.fi/Tatoeba-Challenge/kxi-mvv.tar)  |          1 |            |            |
 |                Ladino - Latin  [lad-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-lat.tar)  |        131 |            |            |
 |               Ladino - Láadan  [lad-ldn](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-ldn.tar)  |          7 |            |            |
@@ -2179,8 +2179,8 @@
 |                Ladino - Scots  [lad-sco](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-sco.tar)  |          1 |            |            |
 |             Ladino - Sindarin  [lad-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-sjn.tar)  |         10 |            |            |
 |            Ladino - Slovenian  [lad-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-slv.tar)  |          1 |            |            |
-|              Ladino - Spanish  [lad-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-spa.tar)  |        207 |            |            |
-|              Ladino - Swedish  [lad-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-swe.tar)  |          1 |            |            |
+|              Ladino - Spanish  [lad-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-spa.tar)  |        207 |            |          3 |
+|              Ladino - Swedish  [lad-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-swe.tar)  |          1 |            |          8 |
 |              Ladino - Klingon  [lad-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-tlh.tar)  |         81 |            |            |
 |  Ladino - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [lad-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-tmr.tar)  |         30 |            |            |
 |            Ladino - Toki Pona  [lad-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-toki.tar)  |         15 |            |            |
@@ -2189,52 +2189,52 @@
 |            Ladino - Ukrainian  [lad-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-ukr.tar)  |         20 |            |            |
 |              Ladino - Volapük  [lad-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-vol.tar)  |         54 |            |            |
 |              Ladino - Yiddish  [lad-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/lad-yid.tar)  |        400 |            |            |
-|                 Lao - Chinese  [lao-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/lao-zho.tar)  |         25 |            |            |
+|                 Lao - Chinese  [lao-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/lao-zho.tar)  |         25 |            |       1883 |
 |                Latin - Láadan  [lat-ldn](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-ldn.tar)  |          5 |            |            |
-|    Latin - Lingua Franca Nova  [lat-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-lfn.tar)  |        205 |            |            |
-|            Latin - Lithuanian  [lat-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-lit.tar)  |          3 |            |            |
-|         Latin - Luxembourgish  [lat-ltz](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-ltz.tar)  |          2 |            |            |
-|                 Latin - Dutch  [lat-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-nld.tar)  |        354 |            |            |
-|             Latin - Norwegian  [lat-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-nor.tar)  |        332 |            |            |
+|    Latin - Lingua Franca Nova  [lat-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-lfn.tar)  |        205 |            |          1 |
+|            Latin - Lithuanian  [lat-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-lit.tar)  |          3 |            |      32332 |
+|         Latin - Luxembourgish  [lat-ltz](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-ltz.tar)  |          2 |            |        102 |
+|                 Latin - Dutch  [lat-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-nld.tar)  |        354 |            |      30087 |
+|             Latin - Norwegian  [lat-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-nor.tar)  |        332 |            |      32901 |
 |                Latin - Novial  [lat-nov](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-nov.tar)  |         10 |            |            |
 |           Latin - Old Russian  [lat-orv](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-orv.tar)  |         85 |            |            |
 |           Latin - Old Spanish  [lat-osp](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-osp.tar)  |          5 |            |            |
 |  Latin - Ottoman Turkish (1500-1928)  [lat-ota](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-ota.tar)  |          2 |            |            |
 |            Latin - Phoenician  [lat-phn](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-phn.tar)  |          3 |            |            |
-|                Latin - Polish  [lat-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-pol.tar)  |        914 |            |            |
-|            Latin - Portuguese  [lat-por](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-por.tar)  |       5000 |       8123 |            |
-|              Latin - Romanian  [lat-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-ron.tar)  |         65 |            |            |
-|               Latin - Russian  [lat-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-rus.tar)  |       1041 |       1000 |            |
-|                 Latin - Scots  [lat-sco](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-sco.tar)  |          4 |            |            |
+|                Latin - Polish  [lat-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-pol.tar)  |        914 |            |      31715 |
+|            Latin - Portuguese  [lat-por](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-por.tar)  |       5000 |       8123 |      33143 |
+|              Latin - Romanian  [lat-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-ron.tar)  |         65 |            |      32486 |
+|               Latin - Russian  [lat-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-rus.tar)  |       1041 |       1000 |      30991 |
+|                 Latin - Scots  [lat-sco](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-sco.tar)  |          4 |            |         56 |
 |              Latin - Sindarin  [lat-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-sjn.tar)  |          8 |            |            |
-|               Latin - Spanish  [lat-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-spa.tar)  |       3131 |       1000 |            |
-|               Latin - Swedish  [lat-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-swe.tar)  |          5 |            |            |
-|               Latin - Klingon  [lat-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-tlh.tar)  |        190 |            |            |
+|               Latin - Spanish  [lat-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-spa.tar)  |       3131 |       1000 |      32545 |
+|               Latin - Swedish  [lat-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-swe.tar)  |          5 |            |      31289 |
+|               Latin - Klingon  [lat-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-tlh.tar)  |        190 |            |         16 |
 |  Latin - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [lat-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-tmr.tar)  |         16 |            |            |
 |             Latin - Toki Pona  [lat-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-toki.tar)  |         33 |            |            |
-|               Latin - Turkish  [lat-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-tur.tar)  |        112 |            |            |
+|               Latin - Turkish  [lat-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-tur.tar)  |        112 |            |      31600 |
 |              Latin - Talossan  [lat-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-tzl.tar)  |         38 |            |            |
-|             Latin - Ukrainian  [lat-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-ukr.tar)  |        375 |            |            |
-|            Latin - Vietnamese  [lat-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-vie.tar)  |          1 |            |            |
+|             Latin - Ukrainian  [lat-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-ukr.tar)  |        375 |            |       9958 |
+|            Latin - Vietnamese  [lat-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-vie.tar)  |          1 |            |      62495 |
 |               Latin - Volapük  [lat-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-vol.tar)  |         66 |            |            |
-|               Latin - Yiddish  [lat-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-yid.tar)  |        245 |            |            |
-|               Latin - Chinese  [lat-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-zho.tar)  |        172 |            |            |
-|             Latvian - Latvian  [lav-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-lav.tar)  |          8 |            |            |
-|          Latvian - Lithuanian  [lav-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-lit.tar)  |          2 |            |            |
-|          Latvian - Macedonian  [lav-mkd](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-mkd.tar)  |          2 |            |            |
-|              Latvian - Polish  [lav-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-pol.tar)  |         31 |            |            |
-|             Latvian - Russian  [lav-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-rus.tar)  |        274 |            |            |
+|               Latin - Yiddish  [lat-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-yid.tar)  |        245 |            |         79 |
+|               Latin - Chinese  [lat-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-zho.tar)  |        172 |            |      27931 |
+|             Latvian - Latvian  [lav-lav](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-lav.tar)  |          8 |            |      14201 |
+|          Latvian - Lithuanian  [lav-lit](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-lit.tar)  |          2 |            |    9183378 |
+|          Latvian - Macedonian  [lav-mkd](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-mkd.tar)  |          2 |            |     548805 |
+|              Latvian - Polish  [lav-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-pol.tar)  |         31 |            |    9466547 |
+|             Latvian - Russian  [lav-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-rus.tar)  |        274 |            |    1091421 |
 |               Latvian - Yakut  [lav-sah](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-sah.tar)  |          1 |            |            |
-|           Latvian - Slovenian  [lav-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-slv.tar)  |          1 |            |            |
-|             Latvian - Spanish  [lav-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-spa.tar)  |         58 |            |            |
-|             Latvian - Swedish  [lav-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-swe.tar)  |          1 |            |            |
-|               Latvian - Tatar  [lav-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-tat.tar)  |          3 |            |            |
-|             Latvian - Turkmen  [lav-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-tuk.tar)  |          1 |            |            |
-|             Latvian - Turkish  [lav-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-tur.tar)  |          5 |            |            |
-|           Latvian - Ukrainian  [lav-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-ukr.tar)  |          1 |            |            |
-|               Latvian - Uzbek  [lav-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-uzb.tar)  |          1 |            |            |
+|           Latvian - Slovenian  [lav-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-slv.tar)  |          1 |            |    7703622 |
+|             Latvian - Spanish  [lav-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-spa.tar)  |         58 |            |    9254566 |
+|             Latvian - Swedish  [lav-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-swe.tar)  |          1 |            |    8903678 |
+|               Latvian - Tatar  [lav-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-tat.tar)  |          3 |            |     206083 |
+|             Latvian - Turkmen  [lav-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-tuk.tar)  |          1 |            |     125681 |
+|             Latvian - Turkish  [lav-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-tur.tar)  |          5 |            |    1013580 |
+|           Latvian - Ukrainian  [lav-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-ukr.tar)  |          1 |            |     726070 |
+|               Latvian - Uzbek  [lav-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-uzb.tar)  |          1 |            |      70905 |
 |             Latvian - Volapük  [lav-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-vol.tar)  |          2 |            |            |
-|             Latvian - Chinese  [lav-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-zho.tar)  |         41 |            |            |
+|             Latvian - Chinese  [lav-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/lav-zho.tar)  |         41 |            |     548481 |
 |   Láadan - Lingua Franca Nova  [ldn-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge/ldn-lfn.tar)  |          6 |            |            |
 |                  Láadan - Liv  [ldn-liv](https://object.pouta.csc.fi/Tatoeba-Challenge/ldn-liv.tar)  |          1 |            |            |
 |        Láadan - Luxembourgish  [ldn-ltz](https://object.pouta.csc.fi/Tatoeba-Challenge/ldn-ltz.tar)  |          1 |            |            |
@@ -2277,156 +2277,156 @@
 |  Lingua Franca Nova - Yiddish  [lfn-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/lfn-yid.tar)  |        380 |            |            |
 |  Lingua Franca Nova - Chinese  [lfn-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/lfn-zho.tar)  |          1 |            |            |
 |  Ligurian - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [lij-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/lij-tmr.tar)  |          1 |            |            |
-|             Lingala - Spanish  [lin-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/lin-spa.tar)  |         14 |            |            |
-|             Lingala - Chinese  [lin-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/lin-zho.tar)  |          1 |            |            |
-|       Lithuanian - Macedonian  [lit-mkd](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-mkd.tar)  |          2 |            |            |
-|  Lithuanian - Malay (macrolanguage)  [lit-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-msa.tar)  |          2 |            |            |
-|           Lithuanian - Polish  [lit-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-pol.tar)  |       1787 |            |            |
-|       Lithuanian - Portuguese  [lit-por](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-por.tar)  |         73 |            |            |
-|          Lithuanian - Russian  [lit-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-rus.tar)  |       2500 |       5155 |            |
+|             Lingala - Spanish  [lin-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/lin-spa.tar)  |         14 |            |     540701 |
+|             Lingala - Chinese  [lin-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/lin-zho.tar)  |          1 |            |        175 |
+|       Lithuanian - Macedonian  [lit-mkd](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-mkd.tar)  |          2 |            |     891203 |
+|  Lithuanian - Malay (macrolanguage)  [lit-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-msa.tar)  |          2 |            |    2127218 |
+|           Lithuanian - Polish  [lit-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-pol.tar)  |       1787 |            |    9973745 |
+|       Lithuanian - Portuguese  [lit-por](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-por.tar)  |         73 |            |   11014130 |
+|          Lithuanian - Russian  [lit-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-rus.tar)  |       2500 |       5155 |    1698961 |
 |            Lithuanian - Yakut  [lit-sah](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-sah.tar)  |          1 |            |            |
-|        Lithuanian - Slovenian  [lit-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-slv.tar)  |          1 |            |            |
-|          Lithuanian - Spanish  [lit-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-spa.tar)  |        452 |            |            |
-|            Lithuanian - Tatar  [lit-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-tat.tar)  |          2 |            |            |
-|             Lithuanian - Thai  [lit-tha](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-tha.tar)  |          3 |            |            |
+|        Lithuanian - Slovenian  [lit-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-slv.tar)  |          1 |            |    8563860 |
+|          Lithuanian - Spanish  [lit-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-spa.tar)  |        452 |            |    9773648 |
+|            Lithuanian - Tatar  [lit-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-tat.tar)  |          2 |            |     232942 |
+|             Lithuanian - Thai  [lit-tha](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-tha.tar)  |          3 |            |     855896 |
 |        Lithuanian - Toki Pona  [lit-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-toki.tar)  |          4 |            |            |
-|          Lithuanian - Turkmen  [lit-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-tuk.tar)  |          1 |            |            |
-|          Lithuanian - Turkish  [lit-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-tur.tar)  |       1473 |            |            |
-|        Lithuanian - Ukrainian  [lit-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-ukr.tar)  |          2 |            |            |
-|            Lithuanian - Uzbek  [lit-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-uzb.tar)  |          1 |            |            |
+|          Lithuanian - Turkmen  [lit-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-tuk.tar)  |          1 |            |     135963 |
+|          Lithuanian - Turkish  [lit-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-tur.tar)  |       1473 |            |    1975209 |
+|        Lithuanian - Ukrainian  [lit-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-ukr.tar)  |          2 |            |     877285 |
+|            Lithuanian - Uzbek  [lit-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-uzb.tar)  |          1 |            |      64929 |
 |          Lithuanian - Volapük  [lit-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-vol.tar)  |          3 |            |            |
-|          Lithuanian - Yiddish  [lit-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-yid.tar)  |          1 |            |            |
-|          Lithuanian - Chinese  [lit-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-zho.tar)  |         30 |            |            |
+|          Lithuanian - Yiddish  [lit-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-yid.tar)  |          1 |            |      40054 |
+|          Lithuanian - Chinese  [lit-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/lit-zho.tar)  |         30 |            |    1317054 |
 |                 Liv - Spanish  [liv-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/liv-spa.tar)  |          1 |            |            |
 |                    Liv - Veps  [liv-vep](https://object.pouta.csc.fi/Tatoeba-Challenge/liv-vep.tar)  |          1 |            |            |
 |           Ladin - Old Spanish  [lld-osp](https://object.pouta.csc.fi/Tatoeba-Challenge/lld-osp.tar)  |          1 |            |            |
-|               Ladin - Spanish  [lld-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/lld-spa.tar)  |         13 |            |            |
+|               Ladin - Spanish  [lld-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/lld-spa.tar)  |         13 |            |         79 |
 |         Lombard - Old Spanish  [lmo-osp](https://object.pouta.csc.fi/Tatoeba-Challenge/lmo-osp.tar)  |          1 |            |            |
-|         Luxembourgish - Dutch  [ltz-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-nld.tar)  |        273 |            |            |
-|     Luxembourgish - Norwegian  [ltz-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-nor.tar)  |          2 |            |            |
-|    Luxembourgish - Portuguese  [ltz-por](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-por.tar)  |          2 |            |            |
+|         Luxembourgish - Dutch  [ltz-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-nld.tar)  |        273 |            |       6322 |
+|     Luxembourgish - Norwegian  [ltz-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-nor.tar)  |          2 |            |      10617 |
+|    Luxembourgish - Portuguese  [ltz-por](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-por.tar)  |          2 |            |       8933 |
 |        Luxembourgish - Quenya  [ltz-qya](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-qya.tar)  |          2 |            |            |
-|       Luxembourgish - Russian  [ltz-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-rus.tar)  |          1 |            |            |
+|       Luxembourgish - Russian  [ltz-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-rus.tar)  |          1 |            |       4278 |
 |      Luxembourgish - Sindarin  [ltz-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-sjn.tar)  |          2 |            |            |
-|       Luxembourgish - Spanish  [ltz-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-spa.tar)  |         10 |            |            |
+|       Luxembourgish - Spanish  [ltz-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-spa.tar)  |         10 |            |       4996 |
 |  Luxembourgish - Saterfriesisch  [ltz-stq](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-stq.tar)  |          6 |            |            |
-|       Luxembourgish - Swedish  [ltz-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-swe.tar)  |          8 |            |            |
+|       Luxembourgish - Swedish  [ltz-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-swe.tar)  |          8 |            |       4697 |
 |      Luxembourgish - Talossan  [ltz-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-tzl.tar)  |          2 |            |            |
 |       Luxembourgish - Volapük  [ltz-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-vol.tar)  |          2 |            |            |
-|       Luxembourgish - Yiddish  [ltz-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-yid.tar)  |         11 |            |            |
-|       Luxembourgish - Chinese  [ltz-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-zho.tar)  |          1 |            |            |
+|       Luxembourgish - Yiddish  [ltz-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-yid.tar)  |         11 |            |          3 |
+|       Luxembourgish - Chinese  [ltz-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-zho.tar)  |          1 |            |       8072 |
 |                 Laz - Turkish  [lzz-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/lzz-tur.tar)  |          5 |            |            |
-|            Maithili - Spanish  [mai-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/mai-spa.tar)  |          5 |            |            |
-|             Marathi - Russian  [mar-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/mar-rus.tar)  |          1 |            |            |
-|               Marathi - Tatar  [mar-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/mar-tat.tar)  |          1 |            |            |
-|            Macedonian - Dutch  [mkd-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-nld.tar)  |          1 |            |            |
-|           Macedonian - Polish  [mkd-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-pol.tar)  |          1 |            |            |
-|       Macedonian - Portuguese  [mkd-por](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-por.tar)  |          2 |            |            |
-|         Macedonian - Romanian  [mkd-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-ron.tar)  |          1 |            |            |
-|          Macedonian - Russian  [mkd-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-rus.tar)  |          3 |            |            |
-|          Macedonian - Spanish  [mkd-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-spa.tar)  |        217 |            |            |
-|          Macedonian - Swedish  [mkd-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-swe.tar)  |          1 |            |            |
-|            Macedonian - Tatar  [mkd-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-tat.tar)  |          1 |            |            |
-|        Macedonian - Ukrainian  [mkd-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-ukr.tar)  |          1 |            |            |
+|            Maithili - Spanish  [mai-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/mai-spa.tar)  |          5 |            |     119018 |
+|             Marathi - Russian  [mar-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/mar-rus.tar)  |          1 |            |     332821 |
+|               Marathi - Tatar  [mar-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/mar-tat.tar)  |          1 |            |     210922 |
+|            Macedonian - Dutch  [mkd-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-nld.tar)  |          1 |            |    2740933 |
+|           Macedonian - Polish  [mkd-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-pol.tar)  |          1 |            |    2919850 |
+|       Macedonian - Portuguese  [mkd-por](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-por.tar)  |          2 |            |    5508153 |
+|         Macedonian - Romanian  [mkd-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-ron.tar)  |          1 |            |    3285723 |
+|          Macedonian - Russian  [mkd-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-rus.tar)  |          3 |            |    2165710 |
+|          Macedonian - Spanish  [mkd-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-spa.tar)  |        217 |            |    3190726 |
+|          Macedonian - Swedish  [mkd-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-swe.tar)  |          1 |            |    2277852 |
+|            Macedonian - Tatar  [mkd-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-tat.tar)  |          1 |            |     210808 |
+|        Macedonian - Ukrainian  [mkd-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-ukr.tar)  |          1 |            |     619097 |
 |          Macedonian - Volapük  [mkd-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/mkd-vol.tar)  |          1 |            |            |
-|               Maltese - Dutch  [mlt-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/mlt-nld.tar)  |          5 |            |            |
-|              Maltese - Polish  [mlt-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/mlt-pol.tar)  |          9 |            |            |
-|          Maltese - Portuguese  [mlt-por](https://object.pouta.csc.fi/Tatoeba-Challenge/mlt-por.tar)  |          8 |            |            |
-|             Maltese - Spanish  [mlt-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/mlt-spa.tar)  |         76 |            |            |
+|               Maltese - Dutch  [mlt-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/mlt-nld.tar)  |          5 |            |    4739979 |
+|              Maltese - Polish  [mlt-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/mlt-pol.tar)  |          9 |            |    4863031 |
+|          Maltese - Portuguese  [mlt-por](https://object.pouta.csc.fi/Tatoeba-Challenge/mlt-por.tar)  |          8 |            |    4795525 |
+|             Maltese - Spanish  [mlt-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/mlt-spa.tar)  |         76 |            |    4656861 |
 |              Mohawk - Spanish  [moh-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/moh-spa.tar)  |         14 |            |            |
 |            Mohawk - Ukrainian  [moh-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/moh-ukr.tar)  |          1 |            |            |
 |              Mohawk - Yiddish  [moh-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/moh-yid.tar)  |          2 |            |            |
-|           Mongolian - Spanish  [mon-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/mon-spa.tar)  |         66 |            |            |
-|           Mongolian - Chinese  [mon-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/mon-zho.tar)  |         22 |            |            |
-|  Malay (macrolanguage) - Malay (macrolanguage)  [msa-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-msa.tar)  |        870 |            |            |
-|  Malay (macrolanguage) - Dutch  [msa-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-nld.tar)  |         53 |            |            |
-|  Malay (macrolanguage) - Norwegian  [msa-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-nor.tar)  |          3 |            |            |
-|  Malay (macrolanguage) - Papiamento  [msa-pap](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-pap.tar)  |          2 |            |            |
-|  Malay (macrolanguage) - Polish  [msa-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-pol.tar)  |         43 |            |            |
-|  Malay (macrolanguage) - Portuguese  [msa-por](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-por.tar)  |         98 |            |            |
-|  Malay (macrolanguage) - Romanian  [msa-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-ron.tar)  |          2 |            |            |
-|  Malay (macrolanguage) - Russian  [msa-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-rus.tar)  |         88 |            |            |
-|  Malay (macrolanguage) - Sanskrit  [msa-san](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-san.tar)  |          4 |            |            |
-|  Malay (macrolanguage) - Spanish  [msa-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-spa.tar)  |        227 |            |            |
-|  Malay (macrolanguage) - Turkish  [msa-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-tur.tar)  |         52 |            |            |
-|  Malay (macrolanguage) - Ukrainian  [msa-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-ukr.tar)  |          9 |            |            |
-|  Malay (macrolanguage) - Urdu  [msa-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-urd.tar)  |          1 |            |            |
-|  Malay (macrolanguage) - Vietnamese  [msa-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-vie.tar)  |         32 |            |            |
-|  Malay (macrolanguage) - Chinese  [msa-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-zho.tar)  |        369 |            |            |
-|        Mirandese - Portuguese  [mwl-por](https://object.pouta.csc.fi/Tatoeba-Challenge/mwl-por.tar)  |          2 |            |            |
-|             Burmese - Spanish  [mya-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/mya-spa.tar)  |         17 |            |            |
-|                Burmese - Thai  [mya-tha](https://object.pouta.csc.fi/Tatoeba-Challenge/mya-tha.tar)  |          2 |            |            |
-|             Burmese - Chinese  [mya-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/mya-zho.tar)  |         17 |            |            |
-|   Nahuatl languages - Spanish  [nah-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/nah-spa.tar)  |        132 |            |            |
-|  Central Huasteca Nahuatl - Spanish  [nch-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/nch-spa.tar)  |         46 |            |            |
-|            Low German - Dutch  [nds-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-nld.tar)  |       1657 |       1000 |            |
-|        Low German - Norwegian  [nds-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-nor.tar)  |         53 |            |            |
-|           Low German - Polish  [nds-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-pol.tar)  |         70 |            |            |
-|       Low German - Portuguese  [nds-por](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-por.tar)  |        206 |            |            |
-|         Low German - Romanian  [nds-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-ron.tar)  |          1 |            |            |
-|          Low German - Russian  [nds-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-rus.tar)  |        894 |            |            |
-|          Low German - Spanish  [nds-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-spa.tar)  |        913 |            |            |
+|           Mongolian - Spanish  [mon-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/mon-spa.tar)  |         66 |            |     323028 |
+|           Mongolian - Chinese  [mon-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/mon-zho.tar)  |         22 |            |      10764 |
+|  Malay (macrolanguage) - Malay (macrolanguage)  [msa-msa](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-msa.tar)  |        870 |            |    6944663 |
+|  Malay (macrolanguage) - Dutch  [msa-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-nld.tar)  |         53 |            |    8847191 |
+|  Malay (macrolanguage) - Norwegian  [msa-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-nor.tar)  |          3 |            |    2150985 |
+|  Malay (macrolanguage) - Papiamento  [msa-pap](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-pap.tar)  |          2 |            |     341303 |
+|  Malay (macrolanguage) - Polish  [msa-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-pol.tar)  |         43 |            |    8941192 |
+|  Malay (macrolanguage) - Portuguese  [msa-por](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-por.tar)  |         98 |            |   17927024 |
+|  Malay (macrolanguage) - Romanian  [msa-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-ron.tar)  |          2 |            |    9892899 |
+|  Malay (macrolanguage) - Russian  [msa-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-rus.tar)  |         88 |            |    6737492 |
+|  Malay (macrolanguage) - Sanskrit  [msa-san](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-san.tar)  |          4 |            |       2346 |
+|  Malay (macrolanguage) - Spanish  [msa-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-spa.tar)  |        227 |            |   10108782 |
+|  Malay (macrolanguage) - Turkish  [msa-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-tur.tar)  |         52 |            |   10189544 |
+|  Malay (macrolanguage) - Ukrainian  [msa-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-ukr.tar)  |          9 |            |    1063330 |
+|  Malay (macrolanguage) - Urdu  [msa-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-urd.tar)  |          1 |            |     632393 |
+|  Malay (macrolanguage) - Vietnamese  [msa-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-vie.tar)  |         32 |            |    3608119 |
+|  Malay (macrolanguage) - Chinese  [msa-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/msa-zho.tar)  |        369 |            |    6472486 |
+|        Mirandese - Portuguese  [mwl-por](https://object.pouta.csc.fi/Tatoeba-Challenge/mwl-por.tar)  |          2 |            |       4123 |
+|             Burmese - Spanish  [mya-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/mya-spa.tar)  |         17 |            |     582143 |
+|                Burmese - Thai  [mya-tha](https://object.pouta.csc.fi/Tatoeba-Challenge/mya-tha.tar)  |          2 |            |     631481 |
+|             Burmese - Chinese  [mya-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/mya-zho.tar)  |         17 |            |      30311 |
+|   Nahuatl languages - Spanish  [nah-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/nah-spa.tar)  |        132 |            |         10 |
+|  Central Huasteca Nahuatl - Spanish  [nch-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/nch-spa.tar)  |         46 |            |      31898 |
+|            Low German - Dutch  [nds-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-nld.tar)  |       1657 |       1000 |     201421 |
+|        Low German - Norwegian  [nds-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-nor.tar)  |         53 |            |     315466 |
+|           Low German - Polish  [nds-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-pol.tar)  |         70 |            |     116707 |
+|       Low German - Portuguese  [nds-por](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-por.tar)  |        206 |            |     232868 |
+|         Low German - Romanian  [nds-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-ron.tar)  |          1 |            |     126204 |
+|          Low German - Russian  [nds-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-rus.tar)  |        894 |            |      97536 |
+|          Low German - Spanish  [nds-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-spa.tar)  |        913 |            |     120492 |
 |          Low German - Swabian  [nds-swg](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-swg.tar)  |         14 |            |            |
-|          Low German - Klingon  [nds-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-tlh.tar)  |          1 |            |            |
-|          Low German - Turkish  [nds-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-tur.tar)  |          3 |            |            |
-|        Low German - Ukrainian  [nds-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-ukr.tar)  |         68 |            |            |
-|          Low German - Yiddish  [nds-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-yid.tar)  |          2 |            |            |
-|          Low German - Chinese  [nds-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-zho.tar)  |         59 |            |            |
-|             Dutch - Norwegian  [nld-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-nor.tar)  |        203 |            |            |
+|          Low German - Klingon  [nds-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-tlh.tar)  |          1 |            |         13 |
+|          Low German - Turkish  [nds-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-tur.tar)  |          3 |            |     117008 |
+|        Low German - Ukrainian  [nds-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-ukr.tar)  |         68 |            |     120530 |
+|          Low German - Yiddish  [nds-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-yid.tar)  |          2 |            |      24391 |
+|          Low German - Chinese  [nds-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-zho.tar)  |         59 |            |     192188 |
+|             Dutch - Norwegian  [nld-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-nor.tar)  |        203 |            |    8986340 |
 |                Dutch - Novial  [nld-nov](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-nov.tar)  |          1 |            |            |
-|   Dutch - Occitan (post 1500)  [nld-oci](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-oci.tar)  |         62 |            |            |
-|            Dutch - Papiamento  [nld-pap](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-pap.tar)  |         52 |            |            |
-|                Dutch - Polish  [nld-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-pol.tar)  |       1193 |       1000 |            |
-|            Dutch - Portuguese  [nld-por](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-por.tar)  |       2500 |       4312 |            |
-|              Dutch - Romanian  [nld-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-ron.tar)  |       2269 |       1000 |            |
-|               Dutch - Russian  [nld-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-rus.tar)  |       2500 |       6528 |            |
-|                 Dutch - Scots  [nld-sco](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-sco.tar)  |          2 |            |            |
-|               Dutch - Spanish  [nld-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-spa.tar)  |      10000 |      18028 |            |
+|   Dutch - Occitan (post 1500)  [nld-oci](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-oci.tar)  |         62 |            |      29304 |
+|            Dutch - Papiamento  [nld-pap](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-pap.tar)  |         52 |            |     316892 |
+|                Dutch - Polish  [nld-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-pol.tar)  |       1193 |       1000 |   37372163 |
+|            Dutch - Portuguese  [nld-por](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-por.tar)  |       2500 |       4312 |   71641538 |
+|              Dutch - Romanian  [nld-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-ron.tar)  |       2269 |       1000 |   35944418 |
+|               Dutch - Russian  [nld-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-rus.tar)  |       2500 |       6528 |   16673493 |
+|                 Dutch - Scots  [nld-sco](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-sco.tar)  |          2 |            |        501 |
+|               Dutch - Spanish  [nld-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-spa.tar)  |      10000 |      18028 |   48165271 |
 |        Dutch - Saterfriesisch  [nld-stq](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-stq.tar)  |         21 |            |            |
 |              Dutch - Sumerian  [nld-sux](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-sux.tar)  |          2 |            |            |
-|  Dutch - Swahili (macrolanguage)  [nld-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-swa.tar)  |          4 |            |            |
-|               Dutch - Swedish  [nld-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-swe.tar)  |         11 |            |            |
+|  Dutch - Swahili (macrolanguage)  [nld-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-swa.tar)  |          4 |            |    1484001 |
+|               Dutch - Swedish  [nld-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-swe.tar)  |         11 |            |   26215311 |
 |               Dutch - Swabian  [nld-swg](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-swg.tar)  |          1 |            |            |
-|                 Dutch - Tatar  [nld-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-tat.tar)  |        119 |            |            |
-|               Dutch - Klingon  [nld-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-tlh.tar)  |        161 |            |            |
+|                 Dutch - Tatar  [nld-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-tat.tar)  |        119 |            |     255311 |
+|               Dutch - Klingon  [nld-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-tlh.tar)  |        161 |            |         62 |
 |  Dutch - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [nld-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-tmr.tar)  |          2 |            |            |
 |             Dutch - Toki Pona  [nld-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-toki.tar)  |        592 |            |            |
-|               Dutch - Turkish  [nld-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-tur.tar)  |       2500 |       3859 |            |
+|               Dutch - Turkish  [nld-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-tur.tar)  |       2500 |       3859 |   27926237 |
 |              Dutch - Talossan  [nld-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-tzl.tar)  |          5 |            |            |
-|             Dutch - Ukrainian  [nld-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-ukr.tar)  |      10000 |       5001 |            |
-|            Dutch - Vietnamese  [nld-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-vie.tar)  |         39 |            |            |
+|             Dutch - Ukrainian  [nld-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-ukr.tar)  |      10000 |       5001 |    1676117 |
+|            Dutch - Vietnamese  [nld-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-vie.tar)  |         39 |            |    3485628 |
 |               Dutch - Volapük  [nld-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-vol.tar)  |          6 |            |            |
-|               Dutch - Walloon  [nld-wln](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-wln.tar)  |         87 |            |            |
-|               Dutch - Yiddish  [nld-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-yid.tar)  |         55 |            |            |
-|               Dutch - Chinese  [nld-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-zho.tar)  |       1654 |            |            |
+|               Dutch - Walloon  [nld-wln](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-wln.tar)  |         87 |            |      97767 |
+|               Dutch - Yiddish  [nld-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-yid.tar)  |         55 |            |      39016 |
+|               Dutch - Chinese  [nld-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/nld-zho.tar)  |       1654 |            |    9796675 |
 |               Nogai - Russian  [nog-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/nog-rus.tar)  |          4 |            |            |
 |               Nogai - Turkish  [nog-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/nog-tur.tar)  |          6 |            |            |
-|         Norwegian - Norwegian  [nor-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-nor.tar)  |        948 |            |            |
+|         Norwegian - Norwegian  [nor-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-nor.tar)  |        948 |            |    1442077 |
 |            Norwegian - Novial  [nor-nov](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-nov.tar)  |          1 |            |            |
-|            Norwegian - Polish  [nor-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-pol.tar)  |        281 |            |            |
-|        Norwegian - Portuguese  [nor-por](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-por.tar)  |        481 |            |            |
+|            Norwegian - Polish  [nor-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-pol.tar)  |        281 |            |    7909565 |
+|        Norwegian - Portuguese  [nor-por](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-por.tar)  |        481 |            |   15874048 |
 |            Norwegian - Quenya  [nor-qya](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-qya.tar)  |          2 |            |            |
-|          Norwegian - Romanian  [nor-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-ron.tar)  |         13 |            |            |
-|           Norwegian - Russian  [nor-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-rus.tar)  |       1279 |            |            |
+|          Norwegian - Romanian  [nor-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-ron.tar)  |         13 |            |    8342258 |
+|           Norwegian - Russian  [nor-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-rus.tar)  |       1279 |            |    5447125 |
 |          Norwegian - Sindarin  [nor-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-sjn.tar)  |          2 |            |            |
-|         Norwegian - Slovenian  [nor-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-slv.tar)  |        113 |            |            |
+|         Norwegian - Slovenian  [nor-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-slv.tar)  |        113 |            |    5862447 |
 |     Norwegian - Southern Sami  [nor-sma](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-sma.tar)  |          2 |            |            |
-|     Norwegian - Northern Sami  [nor-sme](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-sme.tar)  |          2 |            |            |
-|           Norwegian - Spanish  [nor-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-spa.tar)  |        960 |            |            |
+|     Norwegian - Northern Sami  [nor-sme](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-sme.tar)  |          2 |            |      38414 |
+|           Norwegian - Spanish  [nor-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-spa.tar)  |        960 |            |    9429990 |
 |          Norwegian - Sumerian  [nor-sux](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-sux.tar)  |          1 |            |            |
-|           Norwegian - Swedish  [nor-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-swe.tar)  |        562 |            |            |
-|             Norwegian - Tatar  [nor-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-tat.tar)  |          5 |            |            |
-|           Norwegian - Tagalog  [nor-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-tgl.tar)  |          1 |            |            |
-|           Norwegian - Klingon  [nor-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-tlh.tar)  |          9 |            |            |
+|           Norwegian - Swedish  [nor-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-swe.tar)  |        562 |            |    8144583 |
+|             Norwegian - Tatar  [nor-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-tat.tar)  |          5 |            |     246845 |
+|           Norwegian - Tagalog  [nor-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-tgl.tar)  |          1 |            |    1177973 |
+|           Norwegian - Klingon  [nor-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-tlh.tar)  |          9 |            |        102 |
 |         Norwegian - Toki Pona  [nor-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-toki.tar)  |          2 |            |            |
-|           Norwegian - Turkish  [nor-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-tur.tar)  |         91 |            |            |
+|           Norwegian - Turkish  [nor-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-tur.tar)  |         91 |            |    7720015 |
 |          Norwegian - Talossan  [nor-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-tzl.tar)  |          3 |            |            |
-|         Norwegian - Ukrainian  [nor-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-ukr.tar)  |        670 |            |            |
+|         Norwegian - Ukrainian  [nor-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-ukr.tar)  |        670 |            |    1503314 |
 |              Norwegian - Veps  [nor-vep](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-vep.tar)  |          2 |            |            |
 |           Norwegian - Volapük  [nor-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-vol.tar)  |          3 |            |            |
-|           Norwegian - Yiddish  [nor-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-yid.tar)  |          3 |            |            |
-|           Norwegian - Chinese  [nor-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-zho.tar)  |        200 |            |            |
-|           Novial - Portuguese  [nov-por](https://object.pouta.csc.fi/Tatoeba-Challenge/nov-por.tar)  |          3 |            |            |
+|           Norwegian - Yiddish  [nor-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-yid.tar)  |          3 |            |      72577 |
+|           Norwegian - Chinese  [nor-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/nor-zho.tar)  |        200 |            |    3787972 |
+|           Novial - Portuguese  [nov-por](https://object.pouta.csc.fi/Tatoeba-Challenge/nov-por.tar)  |          3 |            |          3 |
 |             Novial - Romanian  [nov-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/nov-ron.tar)  |          1 |            |            |
 |              Novial - Russian  [nov-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/nov-rus.tar)  |          2 |            |            |
 |             Novial - Sindarin  [nov-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/nov-sjn.tar)  |          1 |            |            |
@@ -2442,13 +2442,13 @@
 |             Nyungar - Turkish  [nys-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/nys-tur.tar)  |          1 |            |            |
 |  Old Aramaic (up to 700 BCE) - Classical Syriac  [oar-syc](https://object.pouta.csc.fi/Tatoeba-Challenge/oar-syc.tar)  |          1 |            |            |
 |  Occitan (post 1500) - Old Spanish  [oci-osp](https://object.pouta.csc.fi/Tatoeba-Challenge/oci-osp.tar)  |          1 |            |            |
-|  Occitan (post 1500) - Polish  [oci-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/oci-pol.tar)  |         74 |            |            |
-|  Occitan (post 1500) - Russian  [oci-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/oci-rus.tar)  |         84 |            |            |
-|  Occitan (post 1500) - Spanish  [oci-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/oci-spa.tar)  |        188 |            |            |
-|  Occitan (post 1500) - Turkish  [oci-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/oci-tur.tar)  |         52 |            |            |
-|  Occitan (post 1500) - Yiddish  [oci-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/oci-yid.tar)  |          1 |            |            |
-|  Occitan (post 1500) - Chinese  [oci-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/oci-zho.tar)  |         61 |            |            |
-|  Oriya (macrolanguage) - Russian  [ori-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ori-rus.tar)  |          3 |            |            |
+|  Occitan (post 1500) - Polish  [oci-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/oci-pol.tar)  |         74 |            |      31742 |
+|  Occitan (post 1500) - Russian  [oci-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/oci-rus.tar)  |         84 |            |      22183 |
+|  Occitan (post 1500) - Spanish  [oci-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/oci-spa.tar)  |        188 |            |     212774 |
+|  Occitan (post 1500) - Turkish  [oci-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/oci-tur.tar)  |         52 |            |      25476 |
+|  Occitan (post 1500) - Yiddish  [oci-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/oci-yid.tar)  |          1 |            |      11758 |
+|  Occitan (post 1500) - Chinese  [oci-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/oci-zho.tar)  |         61 |            |      41729 |
+|  Oriya (macrolanguage) - Russian  [ori-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ori-rus.tar)  |          3 |            |       6825 |
 |          Old Russian - Polish  [orv-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/orv-pol.tar)  |          7 |            |            |
 |         Old Russian - Russian  [orv-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/orv-rus.tar)  |        171 |            |            |
 |         Old Russian - Spanish  [orv-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/orv-spa.tar)  |         33 |            |            |
@@ -2463,7 +2463,7 @@
 |        Old Spanish - Talossan  [osp-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/osp-tzl.tar)  |          4 |            |            |
 |         Old Spanish - Volapük  [osp-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/osp-vol.tar)  |          4 |            |            |
 |         Old Spanish - Yiddish  [osp-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/osp-yid.tar)  |          4 |            |            |
-|            Ossetian - Russian  [oss-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/oss-rus.tar)  |         87 |            |            |
+|            Ossetian - Russian  [oss-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/oss-rus.tar)  |         87 |            |      65984 |
 |  Ottoman Turkish (1500-1928) - Russian  [ota-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ota-rus.tar)  |          1 |            |            |
 |  Ottoman Turkish (1500-1928) - Turkish  [ota-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/ota-tur.tar)  |        268 |            |            |
 |  Ottoman Turkish (1500-1928) - Talossan  [ota-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/ota-tzl.tar)  |          4 |            |            |
@@ -2472,54 +2472,54 @@
 |              Picard - Spanish  [pcd-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/pcd-spa.tar)  |         26 |            |            |
 |  Phoenician - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [phn-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/phn-tmr.tar)  |          1 |            |            |
 |        Phoenician - Toki Pona  [phn-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/phn-toki.tar)  |          1 |            |            |
-|                 Pam - Spanish  [pmn-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/pmn-spa.tar)  |         27 |            |            |
-|           Piemontese - Polish  [pms-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/pms-pol.tar)  |          2 |            |            |
-|          Piemontese - Spanish  [pms-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/pms-spa.tar)  |        149 |            |            |
-|  Piemontese - Swahili (macrolanguage)  [pms-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/pms-swa.tar)  |         11 |            |            |
-|          Piemontese - Chinese  [pms-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/pms-zho.tar)  |          4 |            |            |
-|           Polish - Portuguese  [pol-por](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-por.tar)  |        704 |            |            |
+|                 Pam - Spanish  [pmn-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/pmn-spa.tar)  |         27 |            |         21 |
+|           Piemontese - Polish  [pms-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/pms-pol.tar)  |          2 |            |         32 |
+|          Piemontese - Spanish  [pms-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/pms-spa.tar)  |        149 |            |         53 |
+|  Piemontese - Swahili (macrolanguage)  [pms-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/pms-swa.tar)  |         11 |            |         26 |
+|          Piemontese - Chinese  [pms-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/pms-zho.tar)  |          4 |            |         61 |
+|           Polish - Portuguese  [pol-por](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-por.tar)  |        704 |            |   72450936 |
 |             Polish - Prussian  [pol-prg](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-prg.tar)  |        144 |            |            |
-|             Polish - Romanian  [pol-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-ron.tar)  |        177 |            |            |
-|              Polish - Russian  [pol-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-rus.tar)  |       3543 |       1000 |            |
-|            Polish - Slovenian  [pol-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-slv.tar)  |        175 |            |            |
-|              Polish - Spanish  [pol-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-spa.tar)  |       2500 |       5075 |            |
-|  Polish - Swahili (macrolanguage)  [pol-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-swa.tar)  |          1 |            |            |
-|              Polish - Swedish  [pol-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-swe.tar)  |       1392 |            |            |
-|                Polish - Tatar  [pol-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-tat.tar)  |        159 |            |            |
-|              Polish - Tagalog  [pol-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-tgl.tar)  |         25 |            |            |
-|              Polish - Klingon  [pol-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-tlh.tar)  |         13 |            |            |
+|             Polish - Romanian  [pol-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-ron.tar)  |        177 |            |   40038969 |
+|              Polish - Russian  [pol-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-rus.tar)  |       3543 |       1000 |   19172340 |
+|            Polish - Slovenian  [pol-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-slv.tar)  |        175 |            |   23030357 |
+|              Polish - Spanish  [pol-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-spa.tar)  |       2500 |       5075 |   46872957 |
+|  Polish - Swahili (macrolanguage)  [pol-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-swa.tar)  |          1 |            |    1424025 |
+|              Polish - Swedish  [pol-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-swe.tar)  |       1392 |            |   22945631 |
+|                Polish - Tatar  [pol-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-tat.tar)  |        159 |            |     239791 |
+|              Polish - Tagalog  [pol-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-tgl.tar)  |         25 |            |    1039378 |
+|              Polish - Klingon  [pol-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-tlh.tar)  |         13 |            |         66 |
 |            Polish - Toki Pona  [pol-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-toki.tar)  |         20 |            |            |
-|              Polish - Turkmen  [pol-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-tuk.tar)  |          2 |            |            |
-|              Polish - Turkish  [pol-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-tur.tar)  |        891 |            |            |
+|              Polish - Turkmen  [pol-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-tuk.tar)  |          2 |            |     134569 |
+|              Polish - Turkish  [pol-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-tur.tar)  |        891 |            |   32475074 |
 |             Polish - Talossan  [pol-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-tzl.tar)  |          1 |            |            |
-|               Polish - Uighur  [pol-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-uig.tar)  |         23 |            |            |
-|            Polish - Ukrainian  [pol-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-ukr.tar)  |       2500 |       6900 |            |
-|                 Polish - Urdu  [pol-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-urd.tar)  |          3 |            |            |
-|                Polish - Uzbek  [pol-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-uzb.tar)  |          4 |            |            |
-|           Polish - Vietnamese  [pol-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-vie.tar)  |         38 |            |            |
-|              Polish - Yiddish  [pol-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-yid.tar)  |         18 |            |            |
-|              Polish - Chinese  [pol-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-zho.tar)  |       1004 |            |            |
-|          Portuguese - Romansh  [por-roh](https://object.pouta.csc.fi/Tatoeba-Challenge/por-roh.tar)  |          1 |            |            |
-|         Portuguese - Romanian  [por-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/por-ron.tar)  |        681 |            |            |
-|          Portuguese - Russian  [por-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/por-rus.tar)  |      10000 |       9489 |            |
+|               Polish - Uighur  [pol-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-uig.tar)  |         23 |            |      11004 |
+|            Polish - Ukrainian  [pol-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-ukr.tar)  |       2500 |       6900 |    1688128 |
+|                 Polish - Urdu  [pol-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-urd.tar)  |          3 |            |     392029 |
+|                Polish - Uzbek  [pol-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-uzb.tar)  |          4 |            |      78176 |
+|           Polish - Vietnamese  [pol-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-vie.tar)  |         38 |            |    3791362 |
+|              Polish - Yiddish  [pol-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-yid.tar)  |         18 |            |       6032 |
+|              Polish - Chinese  [pol-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/pol-zho.tar)  |       1004 |            |   10379330 |
+|          Portuguese - Romansh  [por-roh](https://object.pouta.csc.fi/Tatoeba-Challenge/por-roh.tar)  |          1 |            |         38 |
+|         Portuguese - Romanian  [por-ron](https://object.pouta.csc.fi/Tatoeba-Challenge/por-ron.tar)  |        681 |            |   74620276 |
+|          Portuguese - Russian  [por-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/por-rus.tar)  |      10000 |       9489 |   35749465 |
 |         Portuguese - Sindarin  [por-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/por-sjn.tar)  |          2 |            |            |
-|    Portuguese - Northern Sami  [por-sme](https://object.pouta.csc.fi/Tatoeba-Challenge/por-sme.tar)  |          3 |            |            |
-|          Portuguese - Spanish  [por-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/por-spa.tar)  |      10000 |      56562 |            |
-|          Portuguese - Swedish  [por-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/por-swe.tar)  |        299 |            |            |
-|          Portuguese - Tagalog  [por-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/por-tgl.tar)  |       1777 |            |            |
-|          Portuguese - Klingon  [por-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/por-tlh.tar)  |         22 |            |            |
+|    Portuguese - Northern Sami  [por-sme](https://object.pouta.csc.fi/Tatoeba-Challenge/por-sme.tar)  |          3 |            |      36095 |
+|          Portuguese - Spanish  [por-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/por-spa.tar)  |      10000 |      56562 |   99324134 |
+|          Portuguese - Swedish  [por-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/por-swe.tar)  |        299 |            |   40365856 |
+|          Portuguese - Tagalog  [por-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/por-tgl.tar)  |       1777 |            |    1187078 |
+|          Portuguese - Klingon  [por-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/por-tlh.tar)  |         22 |            |         75 |
 |  Portuguese - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [por-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/por-tmr.tar)  |          4 |            |            |
 |        Portuguese - Toki Pona  [por-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/por-toki.tar)  |       1719 |            |            |
-|          Portuguese - Turkish  [por-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/por-tur.tar)  |       1794 |            |            |
+|          Portuguese - Turkish  [por-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/por-tur.tar)  |       1794 |            |   64950983 |
 |         Portuguese - Talossan  [por-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/por-tzl.tar)  |         15 |            |            |
-|        Portuguese - Ukrainian  [por-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/por-ukr.tar)  |       3372 |       1000 |            |
-|       Portuguese - Vietnamese  [por-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/por-vie.tar)  |         18 |            |            |
+|        Portuguese - Ukrainian  [por-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/por-ukr.tar)  |       3372 |       1000 |    2350476 |
+|       Portuguese - Vietnamese  [por-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/por-vie.tar)  |         18 |            |    6744062 |
 |          Portuguese - Volapük  [por-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/por-vol.tar)  |         15 |            |            |
-|          Portuguese - Yiddish  [por-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/por-yid.tar)  |         69 |            |            |
-|          Portuguese - Chinese  [por-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/por-zho.tar)  |       1029 |            |            |
+|          Portuguese - Yiddish  [por-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/por-yid.tar)  |         69 |            |      10377 |
+|          Portuguese - Chinese  [por-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/por-zho.tar)  |       1029 |            |   22918304 |
 |            Prussian - Spanish  [prg-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/prg-spa.tar)  |         24 |            |            |
-|              Pushto - Turkish  [pus-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/pus-tur.tar)  |          1 |            |            |
-|             Quechua - Spanish  [que-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/que-spa.tar)  |        162 |            |            |
+|              Pushto - Turkish  [pus-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/pus-tur.tar)  |          1 |            |       5981 |
+|             Quechua - Spanish  [que-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/que-spa.tar)  |        162 |            |     548717 |
 |              Quenya - Russian  [qya-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/qya-rus.tar)  |         54 |            |            |
 |             Quenya - Sindarin  [qya-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/qya-sjn.tar)  |          5 |            |            |
 |              Quenya - Spanish  [qya-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/qya-spa.tar)  |          2 |            |            |
@@ -2532,62 +2532,62 @@
 |              Quenya - Volapük  [qya-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/qya-vol.tar)  |          5 |            |            |
 |              Quenya - Yiddish  [qya-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/qya-yid.tar)  |          5 |            |            |
 |             Tarifit - Spanish  [rif-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/rif-spa.tar)  |         11 |            |            |
-|             Romansh - Spanish  [roh-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/roh-spa.tar)  |          4 |            |            |
-|                Romany - Tatar  [rom-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/rom-tat.tar)  |          3 |            |            |
-|              Romany - Chinese  [rom-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/rom-zho.tar)  |          1 |            |            |
-|            Romanian - Russian  [ron-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-rus.tar)  |        782 |            |            |
-|          Romanian - Slovenian  [ron-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-slv.tar)  |          1 |            |            |
-|            Romanian - Spanish  [ron-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-spa.tar)  |       1961 |            |            |
-|  Romanian - Swahili (macrolanguage)  [ron-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-swa.tar)  |          1 |            |            |
-|            Romanian - Swedish  [ron-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-swe.tar)  |          1 |            |            |
-|            Romanian - Klingon  [ron-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-tlh.tar)  |          1 |            |            |
-|            Romanian - Turkish  [ron-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-tur.tar)  |       2464 |       1000 |            |
+|             Romansh - Spanish  [roh-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/roh-spa.tar)  |          4 |            |         22 |
+|                Romany - Tatar  [rom-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/rom-tat.tar)  |          3 |            |         23 |
+|              Romany - Chinese  [rom-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/rom-zho.tar)  |          1 |            |       6400 |
+|            Romanian - Russian  [ron-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-rus.tar)  |        782 |            |   19088043 |
+|          Romanian - Slovenian  [ron-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-slv.tar)  |          1 |            |   22373180 |
+|            Romanian - Spanish  [ron-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-spa.tar)  |       1961 |            |   46933810 |
+|  Romanian - Swahili (macrolanguage)  [ron-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-swa.tar)  |          1 |            |    1418646 |
+|            Romanian - Swedish  [ron-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-swe.tar)  |          1 |            |   20504549 |
+|            Romanian - Klingon  [ron-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-tlh.tar)  |          1 |            |         51 |
+|            Romanian - Turkish  [ron-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-tur.tar)  |       2464 |       1000 |   35000037 |
 |           Romanian - Talossan  [ron-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-tzl.tar)  |          1 |            |            |
-|         Romanian - Vietnamese  [ron-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-vie.tar)  |          1 |            |            |
+|         Romanian - Vietnamese  [ron-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-vie.tar)  |          1 |            |    3888892 |
 |            Romanian - Volapük  [ron-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-vol.tar)  |          1 |            |            |
-|            Romanian - Yiddish  [ron-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-yid.tar)  |          7 |            |            |
-|             Romanian - Yoruba  [ron-yor](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-yor.tar)  |          1 |            |            |
-|            Romanian - Chinese  [ron-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-zho.tar)  |         36 |            |            |
+|            Romanian - Yiddish  [ron-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-yid.tar)  |          7 |            |      39108 |
+|             Romanian - Yoruba  [ron-yor](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-yor.tar)  |          1 |            |     446912 |
+|            Romanian - Chinese  [ron-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ron-zho.tar)  |         36 |            |   11548524 |
 |               Rusyn - Spanish  [rue-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/rue-spa.tar)  |         97 |            |            |
-|               Rundi - Russian  [run-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/run-rus.tar)  |       1251 |            |            |
-|               Rundi - Spanish  [run-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/run-spa.tar)  |        963 |            |            |
-|  Rundi - Swahili (macrolanguage)  [run-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/run-swa.tar)  |        133 |            |            |
-|               Russian - Yakut  [rus-sah](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-sah.tar)  |        994 |            |            |
-|             Russian - Shuswap  [rus-shs](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-shs.tar)  |          7 |            |            |
+|               Rundi - Russian  [run-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/run-rus.tar)  |       1251 |            |     365524 |
+|               Rundi - Spanish  [run-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/run-spa.tar)  |        963 |            |     365099 |
+|  Rundi - Swahili (macrolanguage)  [run-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/run-swa.tar)  |        133 |            |     723736 |
+|               Russian - Yakut  [rus-sah](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-sah.tar)  |        994 |            |        927 |
+|             Russian - Shuswap  [rus-shs](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-shs.tar)  |          7 |            |          5 |
 |            Russian - Sindarin  [rus-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-sjn.tar)  |         10 |            |            |
-|           Russian - Slovenian  [rus-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-slv.tar)  |        378 |            |            |
-|             Russian - Spanish  [rus-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-spa.tar)  |      10000 |      86621 |            |
+|           Russian - Slovenian  [rus-slv](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-slv.tar)  |        378 |            |    9539016 |
+|             Russian - Spanish  [rus-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-spa.tar)  |      10000 |      86621 |   50220446 |
 |            Russian - Sumerian  [rus-sux](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-sux.tar)  |          3 |            |            |
-|  Russian - Swahili (macrolanguage)  [rus-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-swa.tar)  |          9 |            |            |
-|             Russian - Swedish  [rus-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-swe.tar)  |       1282 |            |            |
-|            Russian - Tahitian  [rus-tah](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tah.tar)  |          1 |            |            |
-|               Russian - Tatar  [rus-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tat.tar)  |       2138 |       1000 |            |
-|             Russian - Tagalog  [rus-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tgl.tar)  |         59 |            |            |
-|             Russian - Klingon  [rus-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tlh.tar)  |        243 |            |            |
+|  Russian - Swahili (macrolanguage)  [rus-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-swa.tar)  |          9 |            |    1411875 |
+|             Russian - Swedish  [rus-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-swe.tar)  |       1282 |            |    8978238 |
+|            Russian - Tahitian  [rus-tah](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tah.tar)  |          1 |            |     458323 |
+|               Russian - Tatar  [rus-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tat.tar)  |       2138 |       1000 |     297753 |
+|             Russian - Tagalog  [rus-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tgl.tar)  |         59 |            |     958480 |
+|             Russian - Klingon  [rus-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tlh.tar)  |        243 |            |         75 |
 |  Russian - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [rus-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tmr.tar)  |          1 |            |            |
 |           Russian - Toki Pona  [rus-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-toki.tar)  |        868 |            |            |
-|             Russian - Turkmen  [rus-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tuk.tar)  |          6 |            |            |
-|             Russian - Turkish  [rus-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tur.tar)  |       5000 |       6092 |            |
+|             Russian - Turkmen  [rus-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tuk.tar)  |          6 |            |     130396 |
+|             Russian - Turkish  [rus-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tur.tar)  |       5000 |       6092 |   19118708 |
 |            Russian - Talossan  [rus-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tzl.tar)  |         12 |            |            |
-|              Russian - Udmurt  [rus-udm](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-udm.tar)  |         54 |            |            |
-|              Russian - Uighur  [rus-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-uig.tar)  |        535 |            |            |
-|           Russian - Ukrainian  [rus-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-ukr.tar)  |      10000 |       6815 |            |
-|                Russian - Urdu  [rus-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-urd.tar)  |          8 |            |            |
-|               Russian - Uzbek  [rus-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-uzb.tar)  |        152 |            |            |
-|          Russian - Vietnamese  [rus-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-vie.tar)  |        313 |            |            |
+|              Russian - Udmurt  [rus-udm](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-udm.tar)  |         54 |            |      10504 |
+|              Russian - Uighur  [rus-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-uig.tar)  |        535 |            |      48924 |
+|           Russian - Ukrainian  [rus-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-ukr.tar)  |      10000 |       6815 |    1525582 |
+|                Russian - Urdu  [rus-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-urd.tar)  |          8 |            |     721943 |
+|               Russian - Uzbek  [rus-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-uzb.tar)  |        152 |            |     145977 |
+|          Russian - Vietnamese  [rus-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-vie.tar)  |        313 |            |    3048826 |
 |             Russian - Volapük  [rus-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-vol.tar)  |         28 |            |            |
-|              Russian - Kalmyk  [rus-xal](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-xal.tar)  |        209 |            |            |
-|             Russian - Yiddish  [rus-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-yid.tar)  |        150 |            |            |
-|              Russian - Yoruba  [rus-yor](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-yor.tar)  |          1 |            |            |
-|             Russian - Chinese  [rus-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-zho.tar)  |       2500 |       4460 |            |
+|              Russian - Kalmyk  [rus-xal](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-xal.tar)  |        209 |            |         26 |
+|             Russian - Yiddish  [rus-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-yid.tar)  |        150 |            |       2318 |
+|              Russian - Yoruba  [rus-yor](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-yor.tar)  |          1 |            |     430216 |
+|             Russian - Chinese  [rus-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-zho.tar)  |       2500 |       4460 |   30310871 |
 |               Yakut - Turkish  [sah-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/sah-tur.tar)  |          4 |            |            |
 |               Yakut - Chinese  [sah-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/sah-zho.tar)  |          4 |            |            |
-|            Sicilian - Spanish  [scn-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/scn-spa.tar)  |          4 |            |            |
-|               Scots - Turkish  [sco-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/sco-tur.tar)  |          6 |            |            |
-|               Scots - Chinese  [sco-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/sco-zho.tar)  |          5 |            |            |
+|            Sicilian - Spanish  [scn-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/scn-spa.tar)  |          4 |            |         37 |
+|               Scots - Turkish  [sco-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/sco-tur.tar)  |          6 |            |        491 |
+|               Scots - Chinese  [sco-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/sco-zho.tar)  |          5 |            |        565 |
 |          Samogitian - Spanish  [sgs-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/sgs-spa.tar)  |          2 |            |            |
-|             Shuswap - Spanish  [shs-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/shs-spa.tar)  |         99 |            |            |
-|             Shuswap - Chinese  [shs-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/shs-zho.tar)  |          3 |            |            |
+|             Shuswap - Spanish  [shs-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/shs-spa.tar)  |         99 |            |        164 |
+|             Shuswap - Chinese  [shs-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/shs-zho.tar)  |          3 |            |         10 |
 |            Tachawit - Turkish  [shy-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/shy-tur.tar)  |          1 |            |            |
 |            Sindarin - Klingon  [sjn-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/sjn-tlh.tar)  |         12 |            |            |
 |  Sindarin - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [sjn-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/sjn-tmr.tar)  |          4 |            |            |
@@ -2596,82 +2596,82 @@
 |           Sindarin - Talossan  [sjn-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/sjn-tzl.tar)  |          8 |            |            |
 |            Sindarin - Volapük  [sjn-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/sjn-vol.tar)  |         10 |            |            |
 |            Sindarin - Yiddish  [sjn-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/sjn-yid.tar)  |         21 |            |            |
-|           Slovenian - Spanish  [slv-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-spa.tar)  |        125 |            |            |
-|           Slovenian - Swedish  [slv-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-swe.tar)  |          1 |            |            |
-|             Slovenian - Tatar  [slv-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-tat.tar)  |          2 |            |            |
-|           Slovenian - Turkish  [slv-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-tur.tar)  |          2 |            |            |
+|           Slovenian - Spanish  [slv-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-spa.tar)  |        125 |            |   23885936 |
+|           Slovenian - Swedish  [slv-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-swe.tar)  |          1 |            |   16628074 |
+|             Slovenian - Tatar  [slv-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-tat.tar)  |          2 |            |     230005 |
+|           Slovenian - Turkish  [slv-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-tur.tar)  |          2 |            |   16143883 |
 |          Slovenian - Talossan  [slv-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-tzl.tar)  |          1 |            |            |
-|         Slovenian - Ukrainian  [slv-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-ukr.tar)  |        848 |            |            |
-|        Slovenian - Vietnamese  [slv-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-vie.tar)  |          8 |            |            |
+|         Slovenian - Ukrainian  [slv-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-ukr.tar)  |        848 |            |    1331119 |
+|        Slovenian - Vietnamese  [slv-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-vie.tar)  |          8 |            |    2941280 |
 |           Slovenian - Volapük  [slv-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-vol.tar)  |          1 |            |            |
-|           Slovenian - Chinese  [slv-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-zho.tar)  |        825 |            |            |
-|       Northern Sami - Spanish  [sme-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/sme-spa.tar)  |         14 |            |            |
-|       Northern Sami - Swedish  [sme-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/sme-swe.tar)  |          4 |            |            |
-|              Somali - Turkish  [som-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/som-tur.tar)  |          1 |            |            |
+|           Slovenian - Chinese  [slv-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/slv-zho.tar)  |        825 |            |    7586432 |
+|       Northern Sami - Spanish  [sme-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/sme-spa.tar)  |         14 |            |      18219 |
+|       Northern Sami - Swedish  [sme-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/sme-swe.tar)  |          4 |            |      17801 |
+|              Somali - Turkish  [som-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/som-tur.tar)  |          1 |            |     130162 |
 |      Spanish - Saterfriesisch  [spa-stq](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-stq.tar)  |          2 |            |            |
 |            Spanish - Sumerian  [spa-sux](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-sux.tar)  |        164 |            |            |
-|  Spanish - Swahili (macrolanguage)  [spa-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-swa.tar)  |         51 |            |            |
-|             Spanish - Swedish  [spa-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-swe.tar)  |       1351 |            |            |
-|               Spanish - Tamil  [spa-tam](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tam.tar)  |         16 |            |            |
-|               Spanish - Tatar  [spa-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tat.tar)  |        441 |            |            |
-|              Spanish - Telugu  [spa-tel](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tel.tar)  |         23 |            |            |
-|             Spanish - Tagalog  [spa-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tgl.tar)  |        629 |            |            |
-|                Spanish - Thai  [spa-tha](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tha.tar)  |         80 |            |            |
-|             Spanish - Klingon  [spa-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tlh.tar)  |        308 |            |            |
+|  Spanish - Swahili (macrolanguage)  [spa-swa](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-swa.tar)  |         51 |            |    1437766 |
+|             Spanish - Swedish  [spa-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-swe.tar)  |       1351 |            |   27934499 |
+|               Spanish - Tamil  [spa-tam](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tam.tar)  |         16 |            |     832246 |
+|               Spanish - Tatar  [spa-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tat.tar)  |        441 |            |     230065 |
+|              Spanish - Telugu  [spa-tel](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tel.tar)  |         23 |            |     344178 |
+|             Spanish - Tagalog  [spa-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tgl.tar)  |        629 |            |    1148187 |
+|                Spanish - Thai  [spa-tha](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tha.tar)  |         80 |            |    3851188 |
+|             Spanish - Klingon  [spa-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tlh.tar)  |        308 |            |         91 |
 |  Spanish - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [spa-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tmr.tar)  |          1 |            |            |
 |           Spanish - Toki Pona  [spa-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-toki.tar)  |        533 |            |            |
-|  Spanish - Tonga (Tonga Islands)  [spa-ton](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-ton.tar)  |          3 |            |            |
+|  Spanish - Tonga (Tonga Islands)  [spa-ton](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-ton.tar)  |          3 |            |     325178 |
 |                Spanish - Tupí  [spa-tpw](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tpw.tar)  |          7 |            |            |
-|             Spanish - Turkish  [spa-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tur.tar)  |      10000 |      18052 |            |
+|             Spanish - Turkish  [spa-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tur.tar)  |      10000 |      18052 |   38490772 |
 |            Spanish - Talossan  [spa-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tzl.tar)  |        106 |            |            |
-|              Spanish - Uighur  [spa-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-uig.tar)  |        120 |            |            |
-|           Spanish - Ukrainian  [spa-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-ukr.tar)  |      10000 |      12924 |            |
-|          Spanish - Vietnamese  [spa-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-vie.tar)  |        582 |            |            |
-|             Spanish - Volapük  [spa-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-vol.tar)  |         45 |            |            |
-|             Spanish - Walloon  [spa-wln](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-wln.tar)  |          7 |            |            |
-|               Spanish - Wolof  [spa-wol](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-wol.tar)  |         10 |            |            |
-|              Spanish - Kalmyk  [spa-xal](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-xal.tar)  |          4 |            |            |
-|             Spanish - Yiddish  [spa-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-yid.tar)  |        170 |            |            |
+|              Spanish - Uighur  [spa-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-uig.tar)  |        120 |            |      99208 |
+|           Spanish - Ukrainian  [spa-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-ukr.tar)  |      10000 |      12924 |    1891614 |
+|          Spanish - Vietnamese  [spa-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-vie.tar)  |        582 |            |    4056729 |
+|             Spanish - Volapük  [spa-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-vol.tar)  |         45 |            |          7 |
+|             Spanish - Walloon  [spa-wln](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-wln.tar)  |          7 |            |     135943 |
+|               Spanish - Wolof  [spa-wol](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-wol.tar)  |         10 |            |       8097 |
+|              Spanish - Kalmyk  [spa-xal](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-xal.tar)  |          4 |            |         44 |
+|             Spanish - Yiddish  [spa-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-yid.tar)  |        170 |            |       5584 |
 |             Spanish - Chinese  [spa-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-zho.tar)  |       2500 |       6921 |            |
-|            Albanian - Chinese  [sqi-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/sqi-zho.tar)  |         31 |            |            |
+|            Albanian - Chinese  [sqi-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/sqi-zho.tar)  |         31 |            |    1487842 |
 |     Saterfriesisch - Sumerian  [stq-sux](https://object.pouta.csc.fi/Tatoeba-Challenge/stq-sux.tar)  |          2 |            |            |
 |      Saterfriesisch - Yiddish  [stq-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/stq-yid.tar)  |          4 |            |            |
-|  Swahili (macrolanguage) - Swedish  [swa-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/swa-swe.tar)  |          4 |            |            |
+|  Swahili (macrolanguage) - Swedish  [swa-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/swa-swe.tar)  |          4 |            |    1429951 |
 |  Swahili (macrolanguage) - Toki Pona  [swa-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/swa-toki.tar)  |          2 |            |            |
-|  Swahili (macrolanguage) - Turkish  [swa-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/swa-tur.tar)  |         15 |            |            |
-|  Swahili (macrolanguage) - Ukrainian  [swa-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/swa-ukr.tar)  |          1 |            |            |
-|             Swedish - Klingon  [swe-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/swe-tlh.tar)  |          1 |            |            |
-|             Swedish - Turkish  [swe-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/swe-tur.tar)  |        201 |            |            |
+|  Swahili (macrolanguage) - Turkish  [swa-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/swa-tur.tar)  |         15 |            |    1061366 |
+|  Swahili (macrolanguage) - Ukrainian  [swa-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/swa-ukr.tar)  |          1 |            |    1377751 |
+|             Swedish - Klingon  [swe-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge/swe-tlh.tar)  |          1 |            |         72 |
+|             Swedish - Turkish  [swe-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/swe-tur.tar)  |        201 |            |   14383670 |
 |            Swedish - Talossan  [swe-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/swe-tzl.tar)  |          1 |            |            |
 |             Swedish - Volapük  [swe-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/swe-vol.tar)  |          1 |            |            |
-|             Swedish - Yiddish  [swe-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/swe-yid.tar)  |         11 |            |            |
-|             Swedish - Chinese  [swe-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/swe-zho.tar)  |       1050 |            |            |
+|             Swedish - Yiddish  [swe-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/swe-yid.tar)  |         11 |            |      41780 |
+|             Swedish - Chinese  [swe-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/swe-zho.tar)  |       1050 |            |    6995702 |
 |           Swabian - Toki Pona  [swg-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/swg-toki.tar)  |         26 |            |            |
 |             Swabian - Turkish  [swg-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/swg-tur.tar)  |          1 |            |            |
 |             Swabian - Yiddish  [swg-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/swg-yid.tar)  |         10 |            |            |
-|              Syriac - Turkish  [syr-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/syr-tur.tar)  |          1 |            |            |
-|               Tatar - Turkmen  [tat-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-tuk.tar)  |          1 |            |            |
-|               Tatar - Turkish  [tat-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-tur.tar)  |        518 |            |            |
-|             Tatar - Ukrainian  [tat-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-ukr.tar)  |        143 |            |            |
-|                 Tatar - Uzbek  [tat-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-uzb.tar)  |          2 |            |            |
-|            Tatar - Vietnamese  [tat-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-vie.tar)  |        284 |            |            |
+|              Syriac - Turkish  [syr-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/syr-tur.tar)  |          1 |            |       7516 |
+|               Tatar - Turkmen  [tat-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-tuk.tar)  |          1 |            |     126327 |
+|               Tatar - Turkish  [tat-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-tur.tar)  |        518 |            |     312682 |
+|             Tatar - Ukrainian  [tat-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-ukr.tar)  |        143 |            |     236303 |
+|                 Tatar - Uzbek  [tat-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-uzb.tar)  |          2 |            |      20204 |
+|            Tatar - Vietnamese  [tat-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-vie.tar)  |        284 |            |     233806 |
 |               Tatar - Volapük  [tat-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-vol.tar)  |          2 |            |            |
-|               Tatar - Yiddish  [tat-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-yid.tar)  |          2 |            |            |
-|               Tatar - Chinese  [tat-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-zho.tar)  |         65 |            |            |
-|               Tajik - Chinese  [tgk-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tgk-zho.tar)  |          1 |            |            |
-|             Tagalog - Turkish  [tgl-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/tgl-tur.tar)  |         45 |            |            |
-|             Tagalog - Chinese  [tgl-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tgl-zho.tar)  |         51 |            |            |
+|               Tatar - Yiddish  [tat-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-yid.tar)  |          2 |            |       3060 |
+|               Tatar - Chinese  [tat-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-zho.tar)  |         65 |            |      16366 |
+|               Tajik - Chinese  [tgk-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tgk-zho.tar)  |          1 |            |      95263 |
+|             Tagalog - Turkish  [tgl-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/tgl-tur.tar)  |         45 |            |     532981 |
+|             Tagalog - Chinese  [tgl-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tgl-zho.tar)  |         51 |            |      42331 |
 |      Thai - Northeastern Thai  [tha-tts](https://object.pouta.csc.fi/Tatoeba-Challenge/tha-tts.tar)  |          5 |            |            |
-|             Thai - Vietnamese  [tha-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/tha-vie.tar)  |          1 |            |            |
-|                Thai - Chinese  [tha-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tha-zho.tar)  |         82 |            |            |
+|             Thai - Vietnamese  [tha-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/tha-vie.tar)  |          1 |            |    1388510 |
+|                Thai - Chinese  [tha-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tha-zho.tar)  |         82 |            |    1840741 |
 |  Klingon - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [tlh-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge/tlh-tmr.tar)  |          6 |            |            |
 |           Klingon - Toki Pona  [tlh-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/tlh-toki.tar)  |         13 |            |            |
-|             Klingon - Turkish  [tlh-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/tlh-tur.tar)  |         19 |            |            |
+|             Klingon - Turkish  [tlh-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/tlh-tur.tar)  |         19 |            |         54 |
 |            Klingon - Talossan  [tlh-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/tlh-tzl.tar)  |         26 |            |            |
-|           Klingon - Ukrainian  [tlh-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/tlh-ukr.tar)  |         10 |            |            |
+|           Klingon - Ukrainian  [tlh-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/tlh-ukr.tar)  |         10 |            |         77 |
 |             Klingon - Volapük  [tlh-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/tlh-vol.tar)  |         56 |            |            |
-|             Klingon - Yiddish  [tlh-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/tlh-yid.tar)  |        166 |            |            |
-|             Klingon - Chinese  [tlh-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tlh-zho.tar)  |        447 |            |            |
+|             Klingon - Yiddish  [tlh-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/tlh-yid.tar)  |        166 |            |          3 |
+|             Klingon - Chinese  [tlh-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tlh-zho.tar)  |        447 |            |         52 |
 |  Jewish Babylonian Aramaic (ca. 200-1200 CE) - Toki Pona  [tmr-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/tmr-toki.tar)  |          2 |            |            |
 |  Jewish Babylonian Aramaic (ca. 200-1200 CE) - Turkish  [tmr-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/tmr-tur.tar)  |          4 |            |            |
 |  Jewish Babylonian Aramaic (ca. 200-1200 CE) - Talossan  [tmr-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/tmr-tzl.tar)  |          9 |            |            |
@@ -2684,36 +2684,36 @@
 |           Toki Pona - Volapük  [toki-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/toki-vol.tar)  |         12 |            |            |
 |           Toki Pona - Yiddish  [toki-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/toki-yid.tar)  |         31 |            |            |
 |           Toki Pona - Chinese  [toki-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/toki-zho.tar)  |         34 |            |            |
-|             Turkmen - Turkish  [tuk-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/tuk-tur.tar)  |         22 |            |            |
-|           Turkmen - Ukrainian  [tuk-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/tuk-ukr.tar)  |          1 |            |            |
-|             Turkmen - Chinese  [tuk-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tuk-zho.tar)  |          4 |            |            |
-|            Turkish - Tuvinian  [tur-tyv](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-tyv.tar)  |          1 |            |            |
+|             Turkmen - Turkish  [tuk-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/tuk-tur.tar)  |         22 |            |     141238 |
+|           Turkmen - Ukrainian  [tuk-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/tuk-ukr.tar)  |          1 |            |     135965 |
+|             Turkmen - Chinese  [tuk-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tuk-zho.tar)  |          4 |            |      37400 |
+|            Turkish - Tuvinian  [tur-tyv](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-tyv.tar)  |          1 |            |      14842 |
 |            Turkish - Talossan  [tur-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-tzl.tar)  |         18 |            |            |
-|              Turkish - Uighur  [tur-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-uig.tar)  |       1400 |       1000 |            |
-|           Turkish - Ukrainian  [tur-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-ukr.tar)  |       2500 |       6722 |            |
-|                Turkish - Urdu  [tur-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-urd.tar)  |          8 |            |            |
-|               Turkish - Uzbek  [tur-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-uzb.tar)  |        203 |            |            |
-|          Turkish - Vietnamese  [tur-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-vie.tar)  |         36 |            |            |
+|              Turkish - Uighur  [tur-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-uig.tar)  |       1400 |       1000 |      56267 |
+|           Turkish - Ukrainian  [tur-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-ukr.tar)  |       2500 |       6722 |    1194087 |
+|                Turkish - Urdu  [tur-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-urd.tar)  |          8 |            |     784097 |
+|               Turkish - Uzbek  [tur-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-uzb.tar)  |        203 |            |     171624 |
+|          Turkish - Vietnamese  [tur-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-vie.tar)  |         36 |            |    3759643 |
 |             Turkish - Volapük  [tur-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-vol.tar)  |         14 |            |            |
-|             Turkish - Yiddish  [tur-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-yid.tar)  |         84 |            |            |
-|             Turkish - Chinese  [tur-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-zho.tar)  |        985 |            |            |
+|             Turkish - Yiddish  [tur-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-yid.tar)  |         84 |            |       6065 |
+|             Turkish - Chinese  [tur-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-zho.tar)  |        985 |            |   12084929 |
 |          Talossan - Ukrainian  [tzl-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/tzl-ukr.tar)  |          6 |            |            |
 |            Talossan - Volapük  [tzl-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/tzl-vol.tar)  |         33 |            |            |
 |            Talossan - Yiddish  [tzl-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/tzl-yid.tar)  |         57 |            |            |
-|            Uighur - Ukrainian  [uig-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/uig-ukr.tar)  |         62 |            |            |
-|                Uighur - Uzbek  [uig-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/uig-uzb.tar)  |          1 |            |            |
-|           Uighur - Vietnamese  [uig-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/uig-vie.tar)  |          9 |            |            |
-|              Uighur - Chinese  [uig-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/uig-zho.tar)  |       1929 |            |            |
-|        Ukrainian - Vietnamese  [ukr-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/ukr-vie.tar)  |         16 |            |            |
+|            Uighur - Ukrainian  [uig-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/uig-ukr.tar)  |         62 |            |        353 |
+|                Uighur - Uzbek  [uig-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/uig-uzb.tar)  |          1 |            |      45185 |
+|           Uighur - Vietnamese  [uig-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/uig-vie.tar)  |          9 |            |       3252 |
+|              Uighur - Chinese  [uig-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/uig-zho.tar)  |       1929 |            |      15882 |
+|        Ukrainian - Vietnamese  [ukr-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/ukr-vie.tar)  |         16 |            |     841877 |
 |           Ukrainian - Volapük  [ukr-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/ukr-vol.tar)  |          5 |            |            |
-|           Ukrainian - Yiddish  [ukr-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ukr-yid.tar)  |         28 |            |            |
-|           Ukrainian - Chinese  [ukr-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ukr-zho.tar)  |       1575 |            |            |
+|           Ukrainian - Yiddish  [ukr-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ukr-yid.tar)  |         28 |            |       1858 |
+|           Ukrainian - Chinese  [ukr-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ukr-zho.tar)  |       1575 |            |     442640 |
 |               Uzbek - Volapük  [uzb-vol](https://object.pouta.csc.fi/Tatoeba-Challenge/uzb-vol.tar)  |          1 |            |            |
-|               Uzbek - Yiddish  [uzb-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/uzb-yid.tar)  |          1 |            |            |
-|               Uzbek - Chinese  [uzb-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/uzb-zho.tar)  |         39 |            |            |
-|          Vietnamese - Chinese  [vie-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/vie-zho.tar)  |        438 |            |            |
+|               Uzbek - Yiddish  [uzb-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/uzb-yid.tar)  |          1 |            |      11595 |
+|               Uzbek - Chinese  [uzb-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/uzb-zho.tar)  |         39 |            |      68168 |
+|          Vietnamese - Chinese  [vie-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/vie-zho.tar)  |        438 |            |    2697352 |
 |             Volapük - Yiddish  [vol-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/vol-yid.tar)  |        103 |            |            |
 |             Volapük - Chinese  [vol-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/vol-zho.tar)  |          1 |            |            |
-|              Kalmyk - Chinese  [xal-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/xal-zho.tar)  |         30 |            |            |
-|             Yiddish - Chinese  [yid-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/yid-zho.tar)  |         10 |            |            |
-|             Chinese - Chinese  [zho-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/zho-zho.tar)  |       2500 |       5810 |            |
+|              Kalmyk - Chinese  [xal-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/xal-zho.tar)  |         30 |            |        109 |
+|             Yiddish - Chinese  [yid-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/yid-zho.tar)  |         10 |            |      39376 |
+|             Chinese - Chinese  [zho-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/zho-zho.tar)  |       2500 |       5810 |   13948817 |

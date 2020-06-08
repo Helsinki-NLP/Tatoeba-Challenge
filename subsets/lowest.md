@@ -4,7 +4,7 @@ This is a "lowest" sub-set of the Tatoeba data.
 Download the data files from the link in the table below.
 There is a total of
 
-* 12  language pairs in this sub-set
+* 24  language pairs in this sub-set
 
 | lang-pair |    test    |    dev     |    train   |
 |-----------|------------|------------|------------|
@@ -20,3 +20,15 @@ There is a total of
 |  Esperanto - Interlingua (International Auxiliary Language Association)  [epo-ina](https://object.pouta.csc.fi/Tatoeba-Challenge/epo-ina.tar)  | [      2644 ](../data/test/epo-ina/test.txt)| [      1000 ](../data/dev/epo-ina/dev.txt)|       8199 |
 |               French - Kabyle  [fra-kab](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-kab.tar)  | [     10000 ](../data/test/fra-kab/test.txt)| [     16791 ](../data/dev/fra-kab/dev.txt)|       5965 |
 |              French - Yiddish  [fra-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-yid.tar)  | [       230 ](../data/test/fra-yid/test.txt)|            |       2396 |
+|              Hebrew - Yiddish  [heb-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-yid.tar)  | [       570 ](../data/test/heb-yid/test.txt)|            |       6473 |
+|                 Ido - Italian  [ido-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-ita.tar)  | [      1460 ](../data/test/ido-ita/test.txt)|            |       9477 |
+|  Interlingua (International Auxiliary Language Association) - Italian  [ina-ita](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-ita.tar)  | [       898 ](../data/test/ina-ita/test.txt)|            |       9755 |
+|  Interlingua (International Auxiliary Language Association) - Dutch  [ina-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-nld.tar)  | [      1009 ](../data/test/ina-nld/test.txt)|            |       9449 |
+|  Interlingua (International Auxiliary Language Association) - Russian  [ina-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-rus.tar)  | [      1453 ](../data/test/ina-rus/test.txt)|            |       1674 |
+|  Interlingua (International Auxiliary Language Association) - Spanish  [ina-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-spa.tar)  | [      1613 ](../data/test/ina-spa/test.txt)|            |       9564 |
+|  Interlingua (International Auxiliary Language Association) - Turkish  [ina-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-tur.tar)  | [       295 ](../data/test/ina-tur/test.txt)|            |       9578 |
+|  Interlingua (International Auxiliary Language Association) - Yiddish  [ina-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-yid.tar)  | [       448 ](../data/test/ina-yid/test.txt)|            |       3699 |
+|              Kabyle - Russian  [kab-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-rus.tar)  | [       391 ](../data/test/kab-rus/test.txt)|            |       5700 |
+|              Kabyle - Spanish  [kab-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/kab-spa.tar)  | [       212 ](../data/test/kab-spa/test.txt)|            |       5831 |
+|             Latin - Ukrainian  [lat-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-ukr.tar)  | [       375 ](../data/test/lat-ukr/test.txt)|            |       9958 |
+|         Luxembourgish - Dutch  [ltz-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/ltz-nld.tar)  | [       273 ](../data/test/ltz-nld/test.txt)|            |       6322 |

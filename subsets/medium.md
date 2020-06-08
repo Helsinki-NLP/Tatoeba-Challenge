@@ -4,7 +4,7 @@ This is a "medium" sub-set of the Tatoeba data.
 Download the data files from the link in the table below.
 There is a total of
 
-* 77  language pairs in this sub-set
+* 97  language pairs in this sub-set
 
 | lang-pair |    test    |    dev     |    train   |
 |-----------|------------|------------|------------|
@@ -85,3 +85,23 @@ There is a total of
 |         Galician - Portuguese  [glg-por](https://object.pouta.csc.fi/Tatoeba-Challenge/glg-por.tar)  | [       430 ](../data/test/glg-por/test.txt)|            |     541122 |
 |            Galician - Spanish  [glg-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/glg-spa.tar)  | [      2121 ](../data/test/glg-spa/test.txt)| [      1000 ](../data/dev/glg-spa/dev.txt)|     470179 |
 |             Guarani - Spanish  [grn-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/grn-spa.tar)  | [       609 ](../data/test/grn-spa/test.txt)|            |     151739 |
+|                  Hindi - Urdu  [hin-urd](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-urd.tar)  | [       239 ](../data/test/hin-urd/test.txt)|            |     384371 |
+|               Hindi - Chinese  [hin-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/hin-zho.tar)  | [       324 ](../data/test/hin-zho/test.txt)|            |     223274 |
+|            Armenian - Russian  [hye-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/hye-rus.tar)  | [       227 ](../data/test/hye-rus/test.txt)|            |     442644 |
+|          Icelandic - Japanese  [isl-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge/isl-jpn.tar)  | [       252 ](../data/test/isl-jpn/test.txt)|            |     690904 |
+|          Italian - Low German  [ita-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-nds.tar)  | [       310 ](../data/test/ita-nds/test.txt)|            |     181992 |
+|            Japanese - Marathi  [jpn-mar](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-mar.tar)  | [       340 ](../data/test/jpn-mar/test.txt)|            |     332996 |
+|            Georgian - Russian  [kat-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kat-rus.tar)  | [       622 ](../data/test/kat-rus/test.txt)|            |     690882 |
+|               Khmer - Spanish  [khm-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/khm-spa.tar)  | [      1472 ](../data/test/khm-spa/test.txt)|            |     177518 |
+|              Korean - Chinese  [kor-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/kor-zho.tar)  | [       397 ](../data/test/kor-zho/test.txt)|            |     866558 |
+|            Low German - Dutch  [nds-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-nld.tar)  | [      1657 ](../data/test/nds-nld/test.txt)| [      1000 ](../data/dev/nds-nld/dev.txt)|     201421 |
+|       Low German - Portuguese  [nds-por](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-por.tar)  | [       206 ](../data/test/nds-por/test.txt)|            |     232868 |
+|          Low German - Spanish  [nds-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-spa.tar)  | [       913 ](../data/test/nds-spa/test.txt)|            |     120492 |
+|               Rundi - Russian  [run-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/run-rus.tar)  | [      1251 ](../data/test/run-rus/test.txt)|            |     365524 |
+|               Rundi - Spanish  [run-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/run-spa.tar)  | [       963 ](../data/test/run-spa/test.txt)|            |     365099 |
+|               Russian - Tatar  [rus-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-tat.tar)  | [      2138 ](../data/test/rus-tat/test.txt)| [      1000 ](../data/dev/rus-tat/dev.txt)|     297753 |
+|               Spanish - Tatar  [spa-tat](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tat.tar)  | [       441 ](../data/test/spa-tat/test.txt)|            |     230065 |
+|               Tatar - Turkish  [tat-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-tur.tar)  | [       518 ](../data/test/tat-tur/test.txt)|            |     312682 |
+|            Tatar - Vietnamese  [tat-vie](https://object.pouta.csc.fi/Tatoeba-Challenge/tat-vie.tar)  | [       284 ](../data/test/tat-vie/test.txt)|            |     233806 |
+|               Turkish - Uzbek  [tur-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-uzb.tar)  | [       203 ](../data/test/tur-uzb/test.txt)|            |     171624 |
+|           Ukrainian - Chinese  [ukr-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/ukr-zho.tar)  | [      1575 ](../data/test/ukr-zho/test.txt)|            |     442640 |

@@ -47,7 +47,34 @@ Other notes about the compilation of the data sets can be found in [Development.
 
 ### Note on language labels
 
-The labels are converted from the original OPUS language IDs (which are mostly ISO-639-1) and information about the script is automatically assigned using Unicode regular expressions and counting letters from specific script character properties. Only the most frequently present script is shown. Be aware of mixed content and possible mistakes in the assignment. Note that the code `Zyyy` refers to common characters that cannot be used to distinguish scripts.
+The labels are converted from the original OPUS language IDs (which are mostly ISO-639-1) and information about the script is automatically assigned using Unicode regular expressions and counting letters from specific script character properties. Only the most frequently present script is shown. Be aware of mixed content and possible mistakes in the assignment. Note that the code `Zyyy` refers to common characters that cannot be used to distinguish scripts. The script code is not added if there is only one script in that language and no other scripts are detected in the string. If there is a default script among several alternatives then this script is not shown either. Note that the assignment is done fully automatically and no corrections have been made. This may go wrong for several reasons. For illustration, here is an example for Serbo-Croatian languages and Chinese from the Tatoeba test data:
+
+```
+bos_Latn        cmn_Hani        Želim da mi ti kažeš istinu.    我想你把真相告诉我。
+hrv     cmn_Hani        Molim Vas odgovorite na moje pitanje.   请回答我的问题。
+hrv     cmn_Hani        Hvala ti, ne bih to mogao bez tebe.     没有你我无法做到，谢谢。
+hrv     cmn_Hani        Ti si moja majka.       你是我妈妈。
+srp_Cyrl        cmn_Kana        То је моја мачка.       那是我的猫。
+hrv     cmn_Yiii        Bok.    你好。
+```
+
+
+### Note on test and development data
+
+Test and development data are taken from a shuffled version of Tatoeba. All translation alternatives are included in the data set to obtain the best coverage of languages in the collection. Development and test sets are disjoint in the sense that they do not include identical source-target language sentence pairs. However, there can be identical source sentences or identical target sentences in both sets, which are not linked to the same translations. Similarily, there can be identical source or target sentences in one of the sets, for example the test set, with different translations. Below, you can see examples from the Esperanto-Ladino test set:
+
+```
+epo     lad     Kio estas vorto?        קי איס און ביירבﬞו?
+epo     lad     Kio estas vorto?        קי איס אונה פאלאבﬞרה?
+epo     lad_Latn        Ĉu vi estas en Berlino? Estash en Berlin?
+epo     lad_Latn        Ĉu vi estas en Berlino? Vos estash en Berlin?
+epo     lad_Latn        Ĉu vi estas en Berlino? Vozotras estash en Berlin?
+epo     lad_Latn        La hundo estas nigra.   El perro es preto.
+epo     lad_Latn        La hundo nigras.        El perro es preto.
+```
+
+The test data could have been organized as multi-reference data sets but this would require to provide different sets in both translation directions. Removing alternative translations is also not a good option as this would take away a lot of relevant data. Hence, we decided to provide the data sets as they are, which implicitly creates multi-reference test sets but with the wrong normalization.
+
 
 
 ## How to participate

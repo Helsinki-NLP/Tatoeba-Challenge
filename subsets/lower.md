@@ -4,7 +4,7 @@ This is a "lower" sub-set of the Tatoeba data.
 Download the data files from the link in the table below.
 There is a total of
 
-* 46  language pairs in this sub-set
+* 63  language pairs in this sub-set
 
 | lang-pair |    test    |    dev     |    train   |
 |-----------|------------|------------|------------|
@@ -54,3 +54,20 @@ There is a total of
 |               French - Uighur  [fra-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/fra-uig.tar)  | [       694 ](../data/test/fra-uig/test.txt)|            |      11418 |
 |       Western Frisian - Dutch  [fry-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/fry-nld.tar)  | [       233 ](../data/test/fry-nld/test.txt)|            |      50199 |
 |     Scottish Gaelic - Spanish  [gla-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/gla-spa.tar)  | [       289 ](../data/test/gla-spa/test.txt)|            |      21615 |
+|                Hebrew - Latin  [heb-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/heb-lat.tar)  | [       224 ](../data/test/heb-lat/test.txt)|            |      32368 |
+|             Hungarian - Latin  [hun-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/hun-lat.tar)  | [       579 ](../data/test/hun-lat/test.txt)|            |      32494 |
+|                 Ido - Spanish  [ido-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/ido-spa.tar)  | [       429 ](../data/test/ido-spa/test.txt)|            |      12395 |
+|  Interlingua (International Auxiliary Language Association) - Portuguese  [ina-por](https://object.pouta.csc.fi/Tatoeba-Challenge/ina-por.tar)  | [      2500 ](../data/test/ina-por/test.txt)| [      7080 ](../data/dev/ina-por/dev.txt)|      19169 |
+|               Italian - Latin  [ita-lat](https://object.pouta.csc.fi/Tatoeba-Challenge/ita-lat.tar)  | [      1716 ](../data/test/ita-lat/test.txt)|            |      32013 |
+|         Japanese - Low German  [jpn-nds](https://object.pouta.csc.fi/Tatoeba-Challenge/jpn-nds.tar)  | [       363 ](../data/test/jpn-nds/test.txt)|            |      79076 |
+|              Kazakh - Russian  [kaz-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/kaz-rus.tar)  | [      1400 ](../data/test/kaz-rus/test.txt)| [      1000 ](../data/dev/kaz-rus/dev.txt)|      69542 |
+|                 Latin - Dutch  [lat-nld](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-nld.tar)  | [       354 ](../data/test/lat-nld/test.txt)|            |      30087 |
+|             Latin - Norwegian  [lat-nor](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-nor.tar)  | [       332 ](../data/test/lat-nor/test.txt)|            |      32901 |
+|                Latin - Polish  [lat-pol](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-pol.tar)  | [       914 ](../data/test/lat-pol/test.txt)|            |      31715 |
+|            Latin - Portuguese  [lat-por](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-por.tar)  | [      5000 ](../data/test/lat-por/test.txt)| [      8123 ](../data/dev/lat-por/dev.txt)|      33143 |
+|               Latin - Russian  [lat-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-rus.tar)  | [      1041 ](../data/test/lat-rus/test.txt)| [      1000 ](../data/dev/lat-rus/dev.txt)|      30991 |
+|               Latin - Spanish  [lat-spa](https://object.pouta.csc.fi/Tatoeba-Challenge/lat-spa.tar)  | [      3131 ](../data/test/lat-spa/test.txt)| [      1000 ](../data/dev/lat-spa/dev.txt)|      32545 |
+|          Low German - Russian  [nds-rus](https://object.pouta.csc.fi/Tatoeba-Challenge/nds-rus.tar)  | [       894 ](../data/test/nds-rus/test.txt)|            |      97536 |
+|              Russian - Uighur  [rus-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-uig.tar)  | [       535 ](../data/test/rus-uig/test.txt)|            |      48924 |
+|              Turkish - Uighur  [tur-uig](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-uig.tar)  | [      1400 ](../data/test/tur-uig/test.txt)| [      1000 ](../data/dev/tur-uig/dev.txt)|      56267 |
+|              Uighur - Chinese  [uig-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/uig-zho.tar)  | [      1929 ](../data/test/uig-zho/test.txt)|            |      15882 |
