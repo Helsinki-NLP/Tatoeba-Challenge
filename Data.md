@@ -2632,7 +2632,7 @@
 |               Spanish - Wolof  [spa-wol](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-wol.tar)  |         10 |            |       8097 |
 |              Spanish - Kalmyk  [spa-xal](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-xal.tar)  |          4 |            |         44 |
 |             Spanish - Yiddish  [spa-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-yid.tar)  |        170 |            |       5584 |
-|             Spanish - Chinese  [spa-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-zho.tar)  |       2500 |       6921 |            |
+|             Spanish - Chinese  [spa-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-zho.tar)  |       2500 |       6921 |   38463997 |
 |            Albanian - Chinese  [sqi-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/sqi-zho.tar)  |         31 |            |    1487842 |
 |     Saterfriesisch - Sumerian  [stq-sux](https://object.pouta.csc.fi/Tatoeba-Challenge/stq-sux.tar)  |          2 |            |            |
 |      Saterfriesisch - Yiddish  [stq-yid](https://object.pouta.csc.fi/Tatoeba-Challenge/stq-yid.tar)  |          4 |            |            |

@@ -4,7 +4,7 @@ This is a "zero" sub-set of the Tatoeba data.
 Download the data files from the link in the table below.
 There is a total of
 
-* 41  language pairs in this sub-set
+* 40  language pairs in this sub-set
 
 | lang-pair |    test    |    dev     |    train   |
 |-----------|------------|------------|------------|
@@ -48,4 +48,3 @@ There is a total of
 |        Portuguese - Toki Pona  [por-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/por-toki.tar)  | [      1719 ](../data/test/por-toki/test.txt)|            |            |
 |           Russian - Toki Pona  [rus-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-toki.tar)  | [       868 ](../data/test/rus-toki/test.txt)|            |            |
 |           Spanish - Toki Pona  [spa-toki](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-toki.tar)  | [       533 ](../data/test/spa-toki/test.txt)|            |            |
-|             Spanish - Chinese  [spa-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-zho.tar)  | [      2500 ](../data/test/spa-zho/test.txt)| [      6921 ](../data/dev/spa-zho/dev.txt)|            |

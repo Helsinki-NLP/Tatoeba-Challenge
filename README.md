@@ -40,6 +40,7 @@ For all those selected language pairs, the data set provides at least 200 senten
 Therefore, another challenge we want to open here is to increase the coverage of test sets for low-resource languages. This challenge is really important and contributions are necessary. The approach here would be to directly [contribute translations](https://tatoeba.org/eng/users/login?redirect=%2Feng%2Factivities%2Ftranslate_sentences) for your favorite language directly to the Tatoeba data collection. The new translations will make their way into the data set here through OPUS! Make an effort and provide new data already today! 
 
 * [A list of language pairs with a test set below 1,000 examples](subsets/LessThan1000.md)
+* [A list of language pairs with a test set below 200 examples](subsets/insufficient.md)
 * [A list of language pairs with training data but no test data from Tatoeba](subsets/NoTestData.md) (paired with English only)
 
 Other notes about the compilation of the data sets can be found in [Development.md](Development.md) and the complete lists of language pairs is in [Data.md](Data.md).

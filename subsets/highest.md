@@ -4,7 +4,7 @@ This is a "highest" sub-set of the Tatoeba data.
 Download the data files from the link in the table below.
 There is a total of
 
-* 172  language pairs in this sub-set
+* 173  language pairs in this sub-set
 
 | lang-pair |    test    |    dev     |    train   |
 |-----------|------------|------------|------------|
@@ -177,6 +177,7 @@ There is a total of
 |             Russian - Chinese  [rus-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/rus-zho.tar)  | [      2500 ](../data/test/rus-zho/test.txt)| [      4460 ](../data/dev/rus-zho/dev.txt)|   30310871 |
 |             Spanish - Swedish  [spa-swe](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-swe.tar)  | [      1351 ](../data/test/spa-swe/test.txt)|            |   27934499 |
 |             Spanish - Turkish  [spa-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-tur.tar)  | [     10000 ](../data/test/spa-tur/test.txt)| [     18052 ](../data/dev/spa-tur/dev.txt)|   38490772 |
+|             Spanish - Chinese  [spa-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/spa-zho.tar)  | [      2500 ](../data/test/spa-zho/test.txt)| [      6921 ](../data/dev/spa-zho/dev.txt)|   38463997 |
 |             Swedish - Turkish  [swe-tur](https://object.pouta.csc.fi/Tatoeba-Challenge/swe-tur.tar)  | [       201 ](../data/test/swe-tur/test.txt)|            |   14383670 |
 |             Turkish - Chinese  [tur-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/tur-zho.tar)  | [       985 ](../data/test/tur-zho/test.txt)|            |   12084929 |
 |             Chinese - Chinese  [zho-zho](https://object.pouta.csc.fi/Tatoeba-Challenge/zho-zho.tar)  | [      2500 ](../data/test/zho-zho/test.txt)| [      5810 ](../data/dev/zho-zho/dev.txt)|   13948817 |
