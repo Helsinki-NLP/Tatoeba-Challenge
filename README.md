@@ -11,6 +11,7 @@ This is an open challenge and the idea s to encourage people to develop machine 
 
 ## Data releases
 
+The current release includes data for 2,963 language pairs covering 555 languages.
 The data sets are released per language pair with the following structure (using deu-eng as an example):
 
 ```
