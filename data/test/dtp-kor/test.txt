@@ -1,41 +1,41 @@
-dtp	kor_Hang	Kouhaan o ginavo ku do tingadan(gaji) ku dii.	나는 봉급에 만족하고 있다.
-dtp	kor_Hang	Avasi no kozo ginavo diaho'.	그녀는 기분이 아주 좋다.
 dtp	kor_Hang	Oidau no tongkusan. Nung au ii, insudan no tiinu.	더 빨리 뛰어. 안그럼 기차 놓칠수도 있어.
-dtp	kor_Hang	Onu di pisuvazan do A om B?	A와 B의 차이가 뭐예요?
-dtp	kor_Zyyy	Nosusu zou doid tadau duvo ngoopod om duvo, vuhan koopod om iso, toun opod om sizam apat ngoopod om vahun.	나는 1948년 11월 22일에 태어났다.
-dtp	kor_Hang	Mugad zou id wayang miampai i koluang ku do tiinu kio.	나중에 친구랑 같이 영화 보러 갈거다.
-dtp	kor_Hang	Diisai iti bosikal?	이 자전거는 누구 것이지?
-dtp	kor_Hang	Biio mai iho tombohog ngaavi do id tavan. Au izioho mananom toi ko mongomot toi ko monima do id tangkob; om sumadon nogi di Tama diozu do id surga izioho. Okon naku ko agazo po o gatang diozu mantad dioho?	공중의 새를 보아라. 씨를 뿌리지도 않고, 거두지도 않고, 곳간에 모아들이지도 않으나, 너희의 하늘 아버지께서 그것들을 먹이신다. 너희는 새보다 귀하지 아니하냐?
-dtp	kor_Hang	Songkuo i sinodu ino mantad id kapal tutubpoon kumaa id hutel?	공항에서부터 호텔까지는 거리가 얼마나 됩니까?
-dtp	kor_Hang	Au zou koiho nung kivao do timpu dii.	시간 있는지 잘 모르겠어요.
-dtp	kor_Hang	Momoguno zou po daa do timpu do potounda dii.	좀더 준비할 시간이 필요해.
-dtp	kor_Hang	Koiho ko moboos do Kadazan?	카다잔어를 할 수 있나요?
-dtp	kor_Hang	Doiho zou id hobus pogun ontok koundaangan.	나는 외국에서 휴가를 보냈다.
-dtp	kor_Hang	Nokopodu ko no?	너 목욕했니?
-dtp	kor_Hang	Tanak kusai ko tondu?	아들이야, 딸이야?
-dtp	kor_Hang	Naganit iho tohu susumangod.	군인 세명이 부상을 당했다.
-dtp	kor_Hang	Iziau dogo.	넌 내 거야.
-dtp	kor_Hang	Tu minisingiho i Jenny do boos Jipun, aiso kobohingkangan dosido mooi tombuhui doiho Jipun.	일본어를 공부하고 있었으므로, 제니는 일본에서 전혀 당황하지 않았다.
-dtp	kor_Hang	Kihinasu o pogun Jipun di kouha'.	일본은 기후가 온화하다.
-dtp	kor_Hang	Osonong sinding diti.	이 노래는 좋다.
-dtp	kor_Hang	Iti gitar diisai?	이 기타는 누구 것이지?
-dtp	kor_Hang	Nokotingkod no umasam.	비가 그쳤다.
-dtp	kor_Hang	Titiugad zou id Korea.	한국에 가고 싶어요.
-dtp	kor_Hang	Au zou kaanu momohiiu diau.	너를 잊을 수 없어.
-dtp	kor_Hang	Onu ka nu dii?	뭐라카노
-dtp	kor_Hang	Pahantazo zou no. Nga sokio au zou kahantoi, pohogoso zou do katama do kuminam.	나는 승리합니다. 그러나 만약 이길 수 없더라도, 용기를 잃지 않고 도전하겠습니다.
-dtp	kor_Hang	Nung mimang isido, momoguno zi Tom do papapagambal vidio ku.	탐은 내 비디오 카메라를 쓰고 싶으면 쓸 수 있다.
-dtp	kor_Hang	Oihaan i Kinoingan nunu ih pokionuon tokou.	우리에게 필요한 것이 무엇인지 하나님께서는 아신다.
+dtp	kor	Nosusu zou doid tadau duvo ngoopod om duvo, vuhan koopod om iso, toun opod om sizam apat ngoopod om vahun.	나는 1948년 11월 22일에 태어났다.
 dtp	kor_Hang	I am Korean.	한국 사람입니다.
-dtp	kor_Hang	Tadau di tavavasi.	좋은 하루!
-dtp	kor_Hang	Miaga ko do ibut no oduuk bo.	폭풍이 불 것이라고 생각한다.
-dtp	kor_Hang	Songkuo i sinodu ino mantad id New York kumaa id London?	뉴욕에서부터 런던까지는 거리가 얼마나 됩니까?
-dtp	kor_Hang	Kada' akanai!	먹지 마.
-dtp	kor_Hang	Diisai iti pazung?	이 우산은 누구 것이지?
-dtp	kor_Hang	Iho noo do tipizan i talaat.	그냥 악몽이었어.
+dtp	kor_Hang	Avasi no kozo ginavo diaho'.	그녀는 기분이 아주 좋다.
+dtp	kor_Hang	Titiugad zou id Korea.	한국에 가고 싶어요.
+dtp	kor_Hang	Onu ka nu dii?	뭐라카노
+dtp	kor_Hang	Koiho ko moboos do Kadazan?	카다잔어를 할 수 있나요?
+dtp	kor_Hang	Biio mai iho tombohog ngaavi do id tavan. Au izioho mananom toi ko mongomot toi ko monima do id tangkob; om sumadon nogi di Tama diozu do id surga izioho. Okon naku ko agazo po o gatang diozu mantad dioho?	공중의 새를 보아라. 씨를 뿌리지도 않고, 거두지도 않고, 곳간에 모아들이지도 않으나, 너희의 하늘 아버지께서 그것들을 먹이신다. 너희는 새보다 귀하지 아니하냐?
 dtp	kor_Hang	Vahu ngoopod kilo disido.	그는 80 키로 이상 나간다.
-dtp	kor_Hang	Natagak nodii pakalajaan dau.	그는 자기 일을 잃었다.
-dtp	kor_Hang	Osoou ku, sabap dino nga izou dii.	나는 생각한다. 그러므로 나는 존재한다.
-dtp	kor_Hang	Id noombo oh tasu nu?	네 개가 어디 있어?
-dtp	kor_Hang	Minsingiho zou daa do boos Onggilis.	난 영어를 공부 하고 싶어.
+dtp	kor_Hang	Tanak kusai ko tondu?	아들이야, 딸이야?
+dtp	kor_Hang	Kada' akanai!	먹지 마.
+dtp	kor_Hang	Kouhaan o ginavo ku do tingadan(gaji) ku dii.	나는 봉급에 만족하고 있다.
+dtp	kor_Hang	Momoguno zou po daa do timpu do potounda dii.	좀더 준비할 시간이 필요해.
+dtp	kor_Hang	Doiho zou id hobus pogun ontok koundaangan.	나는 외국에서 휴가를 보냈다.
+dtp	kor_Hang	Au zou kaanu momohiiu diau.	너를 잊을 수 없어.
+dtp	kor_Hang	Kihinasu o pogun Jipun di kouha'.	일본은 기후가 온화하다.
+dtp	kor_Hang	Tu minisingiho i Jenny do boos Jipun, aiso kobohingkangan dosido mooi tombuhui doiho Jipun.	일본어를 공부하고 있었으므로, 제니는 일본에서 전혀 당황하지 않았다.
+dtp	kor_Hang	Miaga ko do ibut no oduuk bo.	폭풍이 불 것이라고 생각한다.
 dtp	kor_Hang	Diisai iti beg?	이 가방은 누구 것이지?
+dtp	kor_Hang	Nokotingkod no umasam.	비가 그쳤다.
+dtp	kor_Hang	Iziau dogo.	넌 내 거야.
+dtp	kor_Hang	Nokopodu ko no?	너 목욕했니?
+dtp	kor_Hang	Osonong sinding diti.	이 노래는 좋다.
+dtp	kor_Hang	Songkuo i sinodu ino mantad id New York kumaa id London?	뉴욕에서부터 런던까지는 거리가 얼마나 됩니까?
+dtp	kor_Hang	Diisai iti pazung?	이 우산은 누구 것이지?
+dtp	kor_Hang	Diisai iti bosikal?	이 자전거는 누구 것이지?
+dtp	kor_Hang	Iho noo do tipizan i talaat.	그냥 악몽이었어.
+dtp	kor_Hang	Au zou koiho nung kivao do timpu dii.	시간 있는지 잘 모르겠어요.
+dtp	kor_Hang	Pahantazo zou no. Nga sokio au zou kahantoi, pohogoso zou do katama do kuminam.	나는 승리합니다. 그러나 만약 이길 수 없더라도, 용기를 잃지 않고 도전하겠습니다.
+dtp	kor_Hang	Mugad zou id wayang miampai i koluang ku do tiinu kio.	나중에 친구랑 같이 영화 보러 갈거다.
+dtp	kor_Hang	Nung mimang isido, momoguno zi Tom do papapagambal vidio ku.	탐은 내 비디오 카메라를 쓰고 싶으면 쓸 수 있다.
+dtp	kor_Hang	Osoou ku, sabap dino nga izou dii.	나는 생각한다. 그러므로 나는 존재한다.
+dtp	kor_Hang	Naganit iho tohu susumangod.	군인 세명이 부상을 당했다.
+dtp	kor_Hang	Tadau di tavavasi.	좋은 하루!
+dtp	kor_Hang	Iti gitar diisai?	이 기타는 누구 것이지?
+dtp	kor_Hang	Id noombo oh tasu nu?	네 개가 어디 있어?
+dtp	kor_Hang	Songkuo i sinodu ino mantad id kapal tutubpoon kumaa id hutel?	공항에서부터 호텔까지는 거리가 얼마나 됩니까?
+dtp	kor_Hang	Minsingiho zou daa do boos Onggilis.	난 영어를 공부 하고 싶어.
+dtp	kor_Hang	Onu di pisuvazan do A om B?	A와 B의 차이가 뭐예요?
+dtp	kor_Hang	Oihaan i Kinoingan nunu ih pokionuon tokou.	우리에게 필요한 것이 무엇인지 하나님께서는 아신다.
+dtp	kor_Hang	Natagak nodii pakalajaan dau.	그는 자기 일을 잃었다.

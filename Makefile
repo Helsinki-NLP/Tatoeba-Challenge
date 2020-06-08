@@ -215,9 +215,6 @@ ${DATADIR}/%/train.id.gz:
 	rmdir ${dir $@}train.d
 
 
-#
-#		    rm -f ${dir $@}train.d/*; \
-
 ## make test and dev data
 ## split shuffled Tatoeba data
 
@@ -287,60 +284,6 @@ ${DATADIR}/%/test.id:
 	@rmdir ${dir $@}test.d
 	@rm -f $@.tmp1 $@.tmp2 $@.tmp3 $@.test $@.dev
 	@echo ""
-
-
-# ####################################################
-# ## temporary fix, obsolete now ...
-# ####################################################
-
-# ## make the style language IDs
-# new_test_ids: ${NEW_TEST_IDS}
-# new_dev_ids: ${NEW_DEV_IDS}
-# new_train_ids: ${NEW_TRAIN_IDS}
-
-
-# ## normalise language IDs and detect scripts
-
-# ${DATADIR}/%.id: ${DATADIR}/%.ids
-# 	cut -f1 $< > $@.1
-# 	cut -f2 $< > $@.2
-# 	paste $@.1 $(<:.ids=.src) | langscript -3 -L -r -D > $@.11
-# 	paste $@.2 $(<:.ids=.trg) | langscript -3 -L -r -D > $@.22
-# 	paste $@.11 $@.22 > $@
-# 	rm -f $@.1 $@.2 $@.11 $@.22
-
-
-# ## create new training data files
-# ## - normalized language flags + language scripts
-# ## - langid filtering
-# ## - basic pre-processing filters
-
-# ${DATADIR}/%.id.gz: ${DATADIR}/%.ids.gz
-# 	${GZIP} -cd < $< | cut -f1 > $@.0
-# 	${GZIP} -cd < $< | cut -f2 > $@.1
-# 	${GZIP} -cd < $< | cut -f3 > $@.2
-# 	${GZIP} -cd < $(<:.ids.gz=.src.gz) ${BASIC_FILTERS} > $@.3
-# 	${GZIP} -cd < $(<:.ids.gz=.trg.gz) ${BASIC_FILTERS} > $@.4
-# 	paste $@.3 $@.4 | ${SCRIPTDIR}/bitext-match-lang.py -f \
-# 		-s ${firstword ${subst -, ,${patsubst ${DATADIR}/%/,%,${dir $@}}}} \
-# 		-t ${lastword ${subst -, ,${patsubst ${DATADIR}/%/,%,${dir $@}}}} > $@.5
-# 	paste $@.5 $@.0 $@.1 $@.2 $@.3 $@.4 | grep '^1' | cut -f2 > $@.00
-# 	paste $@.5 $@.0 $@.1 $@.2 $@.3 $@.4 | grep '^1' | cut -f3 > $@.11
-# 	paste $@.5 $@.0 $@.1 $@.2 $@.3 $@.4 | grep '^1' | cut -f4 > $@.22
-# 	paste $@.5 $@.0 $@.1 $@.2 $@.3 $@.4 | grep '^1' | cut -f5 > $@.33
-# 	paste $@.5 $@.0 $@.1 $@.2 $@.3 $@.4 | grep '^1' | cut -f6 > $@.44
-# 	paste $@.11 $@.33 | langscript -3 -L -r -D > $@.5
-# 	paste $@.22 $@.44 | langscript -3 -L -r -D > $@.6
-# 	mv -f $(<:.ids.gz=.src.gz) $(<:.ids.gz=-old.src.gz)
-# 	mv -f $(<:.ids.gz=.trg.gz) $(<:.ids.gz=-old.trg.gz)
-# 	paste $@.11 $@.22 | ${GZIP} -c >  $(<:.ids.gz=-old.ids.gz)
-# 	if [ `cat $@.00 | wc -l` -gt 0 ]; then \
-# 	  paste $@.00 $@.5 $@.6 | ${GZIP} -c > $@; \
-# 	  ${GZIP} -c < $@.33 > $(<:.ids.gz=.src.gz); \
-# 	  ${GZIP} -c < $@.44 > $(<:.ids.gz=.trg.gz); \
-# 	fi
-# 	rm -f $@.0 $@.1 $@.2 $@.3 $@.4 $@.5 $@.6
-# 	rm -f $@.00 $@.11 $@.22 $@.33 $@.44
 
 
 

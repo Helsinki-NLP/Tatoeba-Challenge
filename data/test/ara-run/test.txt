@@ -1,139 +1,139 @@
-ara	run	خذ كتاباً واقرأه!	Akira igitabo usome.
-ara	run	أنا في البيت.	Ndi imuhira.
-ara	run	لا أحتاج لهذا.	Simbikeneye.
-ara	run	هل عندك سيارة؟	Urafise umuduga?
-ara	run	لا، شكراً لك.	Oya, urakoze.
-ara	run	أين أشياءك؟	Ibintu vyawe birihe?
-ara	run	اخرج من غرفتي	Sohoka mu cumba canje!
-ara	run	أعرف تلك الفتاة.	Ndazi uyo mukobwa.
-ara	run	هٰذَا حَاسِبِيٌّ.	Ni ordinateri yanje.
-ara	run	تَكَوّنَ الصديد في الجرح.	Mu ruguma hari amashira.
-ara	run	اليوم هو الأحد.	Uyu munsi ni umunsi w'Imana.
-ara	run	هل ستأتي أم لا؟	Uraza? Ego canke oya?
-ara	run	اليوم هو الأربعاء	Uyu munsi ni kuwagatatu.
-ara	run	نسيتُ شراء الخبز.	Niibagiye kugura umukate.
-ara	run	كم عمرك؟	Ufise imyaka ingahe?
-ara	run	اليوم الإثنين.	Ni ku wambere.
-ara	run	هذه لنا	Ni rwacu.
-ara	run	هل تريدني أن آتي؟	Urashaka ko nza?
-ara	run	شكراً جزيلاً!	Murakoze cane.
-ara	run	هل هذا هو الحب؟	Uru ni urukundo?
-ara	run	انا واحد من طلابك	Ndi umwe mu banyeshuri bawe.
+ara	run	أعذرني	Mbabarira!
+ara	run	هل توم هناك أيضاً؟	Tom nihari nawe?
+ara	run	هذه سيارة أبي.	Nyene uyu muduga ni data wanje.
+ara	run	متى تستيقظ؟	Uhaguruka ryari?
+ara	run	أنا في السيارة	Ndi mu muduga.
+ara	run	أنت طباخ جيد	Uri umutetsi mwiza.
 ara	run	هل لديك سيارة؟	Urafise umuduga?
-ara	run	لا أحتاج لهذا.	Sindabikeneye.
-ara	run	أين ساعتي؟	Isaha yanje irihe?
+ara	run	أعطني الكتاب.	Mpa igitabo.
+ara	run	ليس هناك أي مشاكل.	Nta ngorane.
+ara	run	خذ كتاباً واقرأه!	Akira igitabo usome.
+ara	run	أين الكتب؟	Igitabo kirihe?
 ara	run	استمع إلي	Nyumviriza.
-ara	run	لدي أخوات	Ndafise bashikanje.
+ara	run	ارید الذهاب الی المنزل.	Nshaka gutaha.
+ara	run	لماذا تسأل؟	Kubera iki ubaza?
+ara	run	هناك صفحة ناقصة.	Urupapuru rumwe rurabuze.
+ara	run	أنت تفهمني.	Urantegera.
+ara	run	لا أحد يفهمني.	Ntanumwe antegura.
+ara	run	أين نحن؟	Turihe?
+ara	run	كم عمرك؟	Ufise imyaka ingana iki?
+ara	run	أين والدك؟	So wawe arihe?
+ara	run	أعرف تلك الفتاة.	Ndazi uyo mwigeme.
+ara	run	كم عمره؟	Afise imyaka ingahe?
+ara	run	متى تستيقظ؟	Uvyuka ryari?
+ara	run	شكراً كثيراً!	Murakoze cane.
+ara	run	أين أشياءك؟	Ibintu vyawe birihe?
+ara	run	هذه لنا	Ni rwacu.
+ara	run	كم عمرك؟	Ufise imyaka ingahe?
+ara	run	هل ستأتي أم لا؟	Uraza? Ego canke oya?
+ara	run	ليلة سعيدة!	Ijoro ryiza!
+ara	run	خذ ما تريد	Akira ico ushaka.
+ara	run	هل تريدني أن آتي؟	Urashaka ko nza?
+ara	run	ماذا تفعل؟	Ukora iki?
+ara	run	أين الأحذية؟	Ibirato birihe?
+ara	run	إنه شخص جيد.	Ni umuntu mwiza.
+ara	run	نحن لا نعرفه.	Ntitumuzi.
+ara	run	أعرفه.	Ndamuzi.
+ara	run	تَكَوّنَ الصديد في الجرح.	Mu ruguma hari amashira.
+ara	run	يمكنك الذهاب إلى هناك.	Urashobora kugendayo.
+ara	run	شكراً كثيراً!	Urakoze cane.
+ara	run	هل تحب ذلك؟	Uragikunda?
+ara	run	اليوم هو الأحد.	Uyu munsi ni umunsi w'Imana.
+ara	run	إنه لا يحبنا.	Ntadukunda.
+ara	run	انا واحد من طلابك	Ndi umwe mu banyeshuri bawe.
+ara	run	ليست طفلة.	We si umwana.
+ara	run	سأفكّر في الأمر.	Nzovyiyumvira.
+ara	run	أين أنا؟	Ndi hehe?
+ara	run	سَفَر سَعِيد!	Urugendo rwiza!
+ara	run	هل عندك سيارة؟	Urafise umuduga?
+ara	run	لدي أخوات	Mfise benewacu.
+ara	run	ماذا يجب أن ألبس: سروال أو تنورة؟	Mbe nambare iki - ipantalo canke ijipo?
+ara	run	ماذا؟	Niki?
+ara	run	ليس لدي نقود	Simfise amahera.
+ara	run	إلى أين نذهب؟	Tuja hehe?
+ara	run	لدي سؤال.	Ndafise ikibazo.
+ara	run	هل تعيش هنا؟	Uba ngaha?
+ara	run	أنا صيني	Ndi umushinwakazi.
 ara	run	أنا أيضاً.	Nanje.
 ara	run	أنا لست طالباً.	Sindi umunyeshuri.
-ara	run	نحن لا نعرفه.	Ntitumuzi.
-ara	run	أنت تفهمني.	Urantegera.
-ara	run	أعيش هنا.	Mba ngaha.
-ara	run	أين توم؟	Tom arihe?
-ara	run	لذلك أحبك	Ni naco gituma ndagukunda.
-ara	run	الموز أصفر.	Ibitoke bisa n'umuhondo.
-ara	run	هل لديكم أرز؟	Murafise umuceri?
-ara	run	أريد أن أذهب إلى البيت	Nshaka gutaha.
-ara	run	لا تنس أن ترسل الرسالة.	Ntiwibagire gutwara ibaruwa.
-ara	run	كم عمرك؟	Ufise imyaka ingana iki?
-ara	run	هذه سيارة أبي.	Nyene uyu muduga ni data wanje.
-ara	run	أين سيارتي؟	Umuduga wanje urihe?
-ara	run	ليست طفلة.	We si umwana.
-ara	run	متى تريد أن تذهب؟	Ushaka kugenda ryari?
 ara	run	أنت صديقي.	Uri umugenzi wanje.
-ara	run	اقرأ!	Soma!
-ara	run	أفكر فيك.	Ndakwiyumvira.
-ara	run	لا أعرفه.	Sindamuzi.
-ara	run	لدي سيارة	Ndafise umuduga.
-ara	run	أحبها.	Ndamukunda.
-ara	run	شكراً كثيراً!	Murakoze cane.
-ara	run	لماذا لا نذهب إلى البيت؟	Kubera iki tutaja imuhira?
-ara	run	هناك صفحة ناقصة.	Urupapuru rumwe rurabuze.
-ara	run	لديك أخ؟	Urafise musazawe?
-ara	run	أنا في السيارة	Ndi mu muduga.
-ara	run	كم عمره؟	Afise imyaka ingahe?
-ara	run	هذا جيد جدا	Ni neza cane.
-ara	run	عندي سؤال.	Ndafise ikibazo.
-ara	run	شكراً كثيراً!	Urakoze cane.
-ara	run	كيف حالك اليوم؟	Bite uyu munsi?
-ara	run	ليس لدي نقود	Simfise amahera.
-ara	run	ماذا تفعل؟	Ukora iki?
-ara	run	أنا آسف جداً	Mbabarire cane!
-ara	run	أنا خباز.	Ndi umwotsi w'imikate.
-ara	run	لديك أخ؟	Urafise mwenewawe?
-ara	run	أنا جائع.	Ndashonje.
-ara	run	لماذا أنا؟	Kubera iki jewe?
-ara	run	أين نحن؟	Turihe?
-ara	run	أعرِفها.	Ndamuzi.
-ara	run	لا تنس أن ترسل الرسالة.	Ntiwibagire gutwara ikete.
-ara	run	هو سعيد	Aranezerewe.
-ara	run	إني في المنزل.	Ndi imuhira.
-ara	run	انا طباخ.	Ndi umutetsi.
-ara	run	أين نحن؟	Turi hehe?
-ara	run	خذ ما تريد	Akira ico ushaka.
-ara	run	ليسَ طفلًا.	We si umwana.
-ara	run	شكراً لك!	Urakoze!
-ara	run	أعذرني	Mbabarira!
-ara	run	ارتفعت الأسعار.	Ibiciro vyaraduze.
-ara	run	أين والدك؟	So wawe arihe?
-ara	run	لا يفهمني أحد.	Ntanumwe antegura.
-ara	run	أنت طالب جيد.	Uri umunyeshuri mwiza.
-ara	run	ليلة سعيدة!	Ijoro ryiza!
-ara	run	أين الأحذية؟	Ibirato birihe?
-ara	run	هذا الكتاب جديد	Iki gitabo ni gishasha.
-ara	run	أريدك أن تقرأه	Nshaka ko ubisoma.
-ara	run	هذه ليست فرنسية	Si igifaransi.
-ara	run	لدي أخوات	Mfise benewacu.
-ara	run	إلى أين نذهب؟	Tuja hehe?
-ara	run	لديه سيارة.	Afise umuduga.
-ara	run	أين الكتب؟	Igitabo kirihe?
-ara	run	يمكنك الذهاب إلى هناك.	Urashobora kugendayo.
-ara	run	يمكنك الذهاب إلى هناك.	Urashobora kujayo.
-ara	run	متى تستيقظ؟	Uhaguruka ryari?
-ara	run	هذه السيارة تبدو كالجديدة	Uyu muduga usa na mushasha.
-ara	run	أنا جديد هنا	Ndi mushasha aha.
-ara	run	ليس هناك أي مشاكل.	Nta ngorane.
-ara	run	أعرفه.	Ndamuzi.
-ara	run	إنه شخص جيد.	Ni umuntu mwiza.
-ara	run	أريد أن أقرأ هذا الكتاب.	Ndashaka gusoma iki gitabo.
-ara	run	ماذا يجب أن ألبس: سروال أو تنورة؟	Mbe nambare iki - ipantalo canke ijipo?
-ara	run	كم عمره؟	Afise imyaka ingana iki?
-ara	run	هل توم هناك أيضاً؟	Tom nihari nawe?
-ara	run	أنا صيني	Ndi umushinwakazi.
-ara	run	سأفكّر في الأمر.	Nzovyiyumvira.
-ara	run	أعتقد أني فهمت.	Ndibaza ko ntegeye.
-ara	run	أحبك.	Ndagukunda.
-ara	run	لدي سؤال.	Ndafise ikibazo.
-ara	run	أين تريد أن تعيش؟	Ushaka kuba hehe?
-ara	run	أين أخوك؟	Musazawe arihe?
 ara	run	هل هي أختك؟	Ni mushiki wawe?
-ara	run	أعرف تلك الفتاة.	Ndazi uyo mwigeme.
-ara	run	أنت طباخ جيد	Uri umutetsi mwiza.
-ara	run	أين أنت؟	Urihe?
-ara	run	أنا أعرف أمك	Ndazi nyoko.
-ara	run	يناير هو أول شهر في السنة.	Nzero ni ukwezi kwambere mu mwaka.
-ara	run	رأيت أباك	Nabonye so wawe.
-ara	run	هل تحب ذلك؟	Uragikunda?
-ara	run	إنه لا يحبنا.	Ntadukunda.
-ara	run	تعطلت السيارة.	Umuduga wapfuye.
-ara	run	هل أنت تحبها؟	Uramukunda?
-ara	run	أنا في البيت.	Ndi iwanje.
-ara	run	أين أنا؟	Ndi hehe?
-ara	run	هي سعيدة.	Aranezerewe.
-ara	run	لا تنظر إلي!	Reka kundaba!
-ara	run	هل تعيش هنا؟	Uba ngaha?
+ara	run	شكراً جزيلاً!	Murakoze cane.
+ara	run	أين أخوك؟	Musazawe arihe?
+ara	run	أعتقد أني فهمت.	Ndibaza ko ntegeye.
+ara	run	لدي سيارة	Ndafise umuduga.
+ara	run	يمكنك الذهاب إلى هناك.	Urashobora kujayo.
+ara	run	شكراً لك!	Urakoze!
+ara	run	ارتفعت الأسعار.	Ibiciro vyaraduze.
+ara	run	هل هذا هو الحب؟	Uru ni urukundo?
+ara	run	أفكر فيك.	Ndakwiyumvira.
+ara	run	كم عمره؟	Afise imyaka ingana iki?
+ara	run	كيف حالك اليوم؟	Bite uyu munsi?
+ara	run	إني في المنزل.	Ndi imuhira.
+ara	run	أنا خباز.	Ndi umwotsi w'imikate.
+ara	run	هٰذَا حَاسِبِيٌّ.	Ni ordinateri yanje.
+ara	run	لا تنس أن ترسل الرسالة.	Ntiwibagire gutwara ibaruwa.
+ara	run	أعيش هنا.	Mba ngaha.
+ara	run	أنا جائع.	Ndashonje.
+ara	run	الموز أصفر.	Ibitoke bisa n'umuhondo.
+ara	run	اخرج من غرفتي	Sohoka mu cumba canje!
+ara	run	هذا الكتاب جديد	Iki gitabo ni gishasha.
+ara	run	أحبها.	Ndamukunda.
+ara	run	هل لديكم أرز؟	Murafise umuceri?
 ara	run	ليس لدي أخوات.	Singifise umushikiwanje n'umwe.
-ara	run	لا توقفه	Ntumuhagarike.
-ara	run	ارید الذهاب الی المنزل.	Nshaka gutaha.
 ara	run	الحب أعمى.	Urukundo rurahuma.
-ara	run	أنا أحبه.	Ndamukunda.
-ara	run	سَفَر سَعِيد!	Urugendo rwiza!
-ara	run	ماذا؟	Niki?
-ara	run	متى تستيقظ؟	Uvyuka ryari?
-ara	run	أعطني الكتاب.	Mpa igitabo.
+ara	run	تعطلت السيارة.	Umuduga wapfuye.
+ara	run	ليسَ طفلًا.	We si umwana.
 ara	run	أنا سعيد بذلك	Biranshimishije.
-ara	run	انظر إليه	Murabe.
-ara	run	لماذا تسأل؟	Kubera iki ubaza?
+ara	run	لدي أخوات	Ndafise bashikanje.
+ara	run	أين أنت؟	Urihe?
+ara	run	رأيت أباك	Nabonye so wawe.
+ara	run	لا يفهمني أحد.	Ntanumwe antegura.
+ara	run	هذه ليست فرنسية	Si igifaransi.
+ara	run	أين نحن؟	Turi hehe?
+ara	run	هذه السيارة تبدو كالجديدة	Uyu muduga usa na mushasha.
+ara	run	أعرِفها.	Ndamuzi.
+ara	run	أين توم؟	Tom arihe?
+ara	run	لا أحتاج لهذا.	Sindabikeneye.
+ara	run	أنا أحبه.	Ndamukunda.
+ara	run	يناير هو أول شهر في السنة.	Nzero ni ukwezi kwambere mu mwaka.
+ara	run	هذا جيد جدا	Ni neza cane.
+ara	run	أين تريد أن تعيش؟	Ushaka kuba hehe?
+ara	run	لماذا أنا؟	Kubera iki jewe?
+ara	run	انا طباخ.	Ndi umutetsi.
 ara	run	الأسود لي.	Ivyirabura ni vyanje.
+ara	run	لديه سيارة.	Afise umuduga.
+ara	run	أنا جديد هنا	Ndi mushasha aha.
+ara	run	أنا آسف جداً	Mbabarire cane!
 ara	run	يجب علي أن أذهب الأن.	Ntegerezwa kugenda ubu.
-ara	run	لا أحد يفهمني.	Ntanumwe antegura.
+ara	run	لا أعرفه.	Sindamuzi.
+ara	run	أنا في البيت.	Ndi imuhira.
+ara	run	أين ساعتي؟	Isaha yanje irihe?
+ara	run	لا توقفه	Ntumuhagarike.
+ara	run	أين سيارتي؟	Umuduga wanje urihe?
+ara	run	لا أحتاج لهذا.	Simbikeneye.
+ara	run	هو سعيد	Aranezerewe.
+ara	run	لديك أخ؟	Urafise mwenewawe?
+ara	run	اليوم الإثنين.	Ni ku wambere.
+ara	run	أحبك.	Ndagukunda.
+ara	run	هي سعيدة.	Aranezerewe.
+ara	run	انظر إليه	Murabe.
+ara	run	اليوم هو الأربعاء	Uyu munsi ni kuwagatatu.
+ara	run	أنت طالب جيد.	Uri umunyeshuri mwiza.
+ara	run	أريدك أن تقرأه	Nshaka ko ubisoma.
+ara	run	نسيتُ شراء الخبز.	Niibagiye kugura umukate.
+ara	run	أريد أن أقرأ هذا الكتاب.	Ndashaka gusoma iki gitabo.
+ara	run	اقرأ!	Soma!
+ara	run	لا، شكراً لك.	Oya, urakoze.
+ara	run	أنا في البيت.	Ndi iwanje.
+ara	run	عندي سؤال.	Ndafise ikibazo.
+ara	run	متى تريد أن تذهب؟	Ushaka kugenda ryari?
+ara	run	أنا أعرف أمك	Ndazi nyoko.
+ara	run	أريد أن أذهب إلى البيت	Nshaka gutaha.
+ara	run	هل أنت تحبها؟	Uramukunda?
+ara	run	لا تنظر إلي!	Reka kundaba!
+ara	run	لذلك أحبك	Ni naco gituma ndagukunda.
+ara	run	لديك أخ؟	Urafise musazawe?
+ara	run	لا تنس أن ترسل الرسالة.	Ntiwibagire gutwara ikete.
+ara	run	لماذا لا نذهب إلى البيت؟	Kubera iki tutaja imuhira?
+ara	run	أعرف تلك الفتاة.	Ndazi uyo mukobwa.
