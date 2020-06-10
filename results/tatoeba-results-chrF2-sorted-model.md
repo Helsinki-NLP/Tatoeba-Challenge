@@ -1,7 +1,7 @@
 # Tatoeba translation results
 
-| Model            | LangPair   | Score      |
-|------------------|------------|------------|
+| Model            | LangPair   | Score      | Details  |
+|-----------------:|------------|-----------:|---------:|
 | afr-epo | afr.epo | 0.411 |
 | ara-epo | apc.epo | 0.376 |
 | bel-deu | bel.deu | 0.102 |

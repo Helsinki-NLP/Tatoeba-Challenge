@@ -1,7 +1,7 @@
 # Tatoeba translation results
 
-| Model            | LangPair   | Score      |
-|------------------|------------|------------|
+| Model            | LangPair   | Score      | Details  |
+|-----------------:|------------|-----------:|---------:|
 | jpn-epo | jpn.epo | 0.021 |
 | glg-epo | glg.epo | 0.025 |
 | bel-epo | bel.epo | 0.028 |
