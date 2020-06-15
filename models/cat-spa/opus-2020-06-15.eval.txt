@@ -1,0 +1,2 @@
+BLEU+case.mixed+numrefs.1+smooth.exp+tok.13a+version.1.4.2 = 73.9 88.5/78.2/70.1/63.4 (BP = 0.993 ratio = 0.993 hyp_len = 12012 ref_len = 12094)
+chrF2+case.mixed+numchars.6+numrefs.1+space.False+version.1.4.2 = 0.856
