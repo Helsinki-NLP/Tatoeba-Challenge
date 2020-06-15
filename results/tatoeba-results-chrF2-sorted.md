@@ -381,7 +381,6 @@
 | spa-run | spa.run | 0.410 |
 | jpn-fin | jpn.fin | 0.408 |
 | epo-dan | epo.dan | 0.407 |
-| hin-eng | ewstest2014-hien.opus.spm32k-spm32k1.transformer-align.hin.eng | 0.407 |
 | tatoeba-lowest | eng.heb | 0.407 |
 | tatoeba-lowest | heb.eng | 0.407 |
 | tatoeba-lowest | lat.epo | 0.407 |
@@ -446,7 +445,6 @@
 | tatoeba-lowest | ido.heb | 0.354 |
 | tatoeba-lowest | yid.fra | 0.354 |
 | tatoeba-lowest | ido.ina | 0.353 |
-| hin-eng | ewsdev2014.opus.spm32k-spm32k1.transformer-align.hin.eng | 0.351 |
 | tatoeba-lowest | tur.ita | 0.351 |
 | tatoeba-lowest | tur.rus | 0.351 |
 | tatoeba-lowest | spa.lat | 0.350 |
@@ -486,7 +484,6 @@
 | nds-deu | nds.deu | 0.303 |
 | tatoeba-lowest | eng.lat | 0.303 |
 | hun-kor | hun.kor | 0.301 |
-| eng-hin | ewsdev2014.opus.spm32k-spm32k1.transformer-align.eng.hin | 0.296 |
 | dan-jpn | dan.jpn | 0.293 |
 | tatoeba-lowest | heb.ina | 0.293 |
 | spa-kor | spa.kor | 0.291 |

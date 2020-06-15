@@ -431,7 +431,6 @@
 | zho-msa | zho.msa | 13.9 | 48.1/20.8/10.2/5.0 (BP = 0.923 ratio = 0.926 hyp_len = 2557 ref_len = 2762) |
 | tatoeba-lowest | lat.ukr | 13.5 | 46.2/16.7/9.0/5.5 (BP = 0.962 ratio = 0.963 hyp_len = 1955 ref_len = 2030) |
 | tatoeba-lowest | ina.rus | 13.4 | 44.6/17.3/9.0/4.6 (BP = 1.000 ratio = 1.042 hyp_len = 11196 ref_len = 10746) |
-| hin-eng | ewstest2014-hien.opus.spm32k-spm32k1.transformer-align.hin.eng | 13.3 | 47.9/18.9/8.8/4.4 (BP = 0.979 ratio = 0.979 hyp_len = 54395 ref_len = 55571) |
 | tatoeba-lowest | yid.rus | 13.3 | 46.2/16.7/8.3/4.9 (BP = 1.000 ratio = 1.020 hyp_len = 820 ref_len = 804) |
 | tatoeba-lowest | ita.ina | 13.1 | 47.5/18.3/9.3/5.1 (BP = 0.924 ratio = 0.926 hyp_len = 6773 ref_len = 7312) |
 | tatoeba-lowest | yid.ita | 13.1 | 45.0/16.2/8.7/4.7 (BP = 1.000 ratio = 1.032 hyp_len = 714 ref_len = 692) |
@@ -471,7 +470,6 @@
 | tatoeba-lowest | epo.ina | 9.3 | 41.5/13.4/5.9/2.7 (BP = 0.961 ratio = 0.961 hyp_len = 22408 ref_len = 23311) |
 | tatoeba-lowest | tur.ina | 9.2 | 44.0/13.3/5.8/2.5 (BP = 0.956 ratio = 0.957 hyp_len = 1665 ref_len = 1740) |
 | urd-hin | urd.hin | 9.2 | 29.3/13.3/6.2/3.0 (BP = 1.000 ratio = 1.233 hyp_len = 1950 ref_len = 1581) |
-| hin-eng | ewsdev2014.opus.spm32k-spm32k1.transformer-align.hin.eng | 9.1 | 45.2/14.8/6.0/2.6 (BP = 0.899 ratio = 0.904 hyp_len = 9403 ref_len = 10406) |
 | tatoeba-lowest | deu.ina | 9.1 | 42.1/13.3/5.8/2.7 (BP = 0.940 ratio = 0.942 hyp_len = 11566 ref_len = 12280) |
 | tat-fra | tat.fra | 9.0 | 33.6/10.7/6.0/3.0 (BP = 1.000 ratio = 1.144 hyp_len = 2251 ref_len = 1967) |
 | tatoeba-lowest | heb.ina | 9.0 | 39.3/12.5/5.9/2.2 (BP = 1.000 ratio = 1.023 hyp_len = 1095 ref_len = 1070) |
@@ -493,7 +491,6 @@
 | fra-run | fra.run | 7.4 | 32.9/10.1/4.4/2.1 (BP = 1.000 ratio = 1.305 hyp_len = 6649 ref_len = 5095) |
 | rus-kat | rus.kat | 7.1 | 31.9/7.4/4.3/2.5 (BP = 1.000 ratio = 1.030 hyp_len = 3777 ref_len = 3667) |
 | tat-tur | tat.tur | 7.1 | 35.1/10.8/4.4/1.5 (BP = 1.000 ratio = 1.057 hyp_len = 2952 ref_len = 2792) |
-| eng-hin | ewsdev2014.opus.spm32k-spm32k1.transformer-align.eng.hin | 6.9 | 31.9/10.8/4.2/1.6 (BP = 1.000 ratio = 1.052 hyp_len = 10033 ref_len = 9538) |
 | spa-kor | spa.kor | 6.7 | 35.2/10.6/4.4/1.8 (BP = 0.912 ratio = 0.916 hyp_len = 4579 ref_len = 5001) |
 | nor-epo | nor.epo | 6.6 | 41.8/11.3/4.3/1.7 (BP = 0.858 ratio = 0.867 hyp_len = 25160 ref_len = 29015) |
 | epo-nor | epo.nor | 6.5 | 41.3/11.3/4.1/1.4 (BP = 0.913 ratio = 0.917 hyp_len = 26653 ref_len = 29074) |

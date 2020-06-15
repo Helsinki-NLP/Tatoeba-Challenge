@@ -253,9 +253,6 @@
 | eus-eng | eus.eng | 45.2 | 74.0/52.7/40.1/30.8 (BP = 0.966 ratio = 0.966 hyp_len = 7882 ref_len = 8157) |
 | eus-rus | eus.rus | 31.3 | 65.6/38.0/26.5/18.5 (BP = 0.942 ratio = 0.943 hyp_len = 2290 ref_len = 2428) |
 | eus-spa | eus.spa | 48.8 | 75.7/56.1/44.1/35.2 (BP = 0.964 ratio = 0.965 hyp_len = 12033 ref_len = 12469) |
-| eng-hin | ewsdev2014.opus.spm32k-spm32k1.transformer-align.eng.hin | 6.9 | 31.9/10.8/4.2/1.6 (BP = 1.000 ratio = 1.052 hyp_len = 10033 ref_len = 9538) |
-| hin-eng | ewsdev2014.opus.spm32k-spm32k1.transformer-align.hin.eng | 9.1 | 45.2/14.8/6.0/2.6 (BP = 0.899 ratio = 0.904 hyp_len = 9403 ref_len = 10406) |
-| hin-eng | ewstest2014-hien.opus.spm32k-spm32k1.transformer-align.hin.eng | 13.3 | 47.9/18.9/8.8/4.4 (BP = 0.979 ratio = 0.979 hyp_len = 54395 ref_len = 55571) |
 | tatoeba-lowest | fao.eng | 2.2 | 28.9/4.2/1.2/0.2 (BP = 1.000 ratio = 1.052 hyp_len = 2088 ref_len = 1984) |
 | fas-deu | fas.deu | 0.4 | 18.3/1.0/0.1/0.0 (BP = 1.000 ratio = 1.165 hyp_len = 29825 ref_len = 25590) |
 | fas-eng | fas.eng | 0.7 | 15.6/1.4/0.2/0.0 (BP = 1.000 ratio = 1.485 hyp_len = 46784 ref_len = 31508) |

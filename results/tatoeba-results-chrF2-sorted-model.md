@@ -90,7 +90,6 @@
 | eng-gle | eng.gle | 0.593 |
 | eng-glg | eng.glg | 0.593 |
 | eng-hin | eng.hin | 0.447 |
-| eng-hin | ewsdev2014.opus.spm32k-spm32k1.transformer-align.eng.hin | 0.296 |
 | eng-hye | eng.hye | 0.404 |
 | eng-ilo | eng.ilo | 0.569 |
 | eng-isl | eng.isl | 0.516 |
@@ -199,8 +198,6 @@
 | heb-ukr | heb.ukr | 0.552 |
 | heb-zho | heb.zho | 0.221 |
 | hin-eng | hin.eng | 0.569 |
-| hin-eng | ewstest2014-hien.opus.spm32k-spm32k1.transformer-align.hin.eng | 0.407 |
-| hin-eng | ewsdev2014.opus.spm32k-spm32k1.transformer-align.hin.eng | 0.351 |
 | hin-urd | hin.urd | 0.393 |
 | hsb-deu | hsb.deu | 0.126 |
 | hun-epo | hun.epo | 0.378 |
