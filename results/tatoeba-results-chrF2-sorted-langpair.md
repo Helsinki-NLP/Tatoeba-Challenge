@@ -259,10 +259,6 @@
 | eus-eng | eus.eng | 0.627 |
 | eus-rus | eus.rus | 0.502 |
 | eus-spa | eus.spa | 0.673 |
-| eng-hin | ewsdev2014.opus.spm32k-spm32k1.transformer-align.eng.hin | 0.296 |
-| hin-eng | ewsdev2014.opus.spm32k-spm32k1.transformer-align.hin.eng | 0.351 |
-| eng-hin | ewstest2014-hien.opus.spm32k-spm32k1.transformer-align.eng.hin | 0.323 |
-| hin-eng | ewstest2014-hien.opus.spm32k-spm32k1.transformer-align.hin.eng | 0.407 |
 | tatoeba-lowest | fao.eng | 0.179 |
 | fas-deu | fas.deu | 0.142 |
 | fas-eng | fas.eng | 0.136 |
