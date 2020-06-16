@@ -1,6 +1,6 @@
 # Tatoeba translation results
 
-| Model            | LangPair   | Score      | Details  |
+| Model            | LangPair   | BLEU       | Details  |
 |-----------------:|------------|-----------:|---------:|
 | afr-deu | afr.deu | 47.1 | 73.1/52.6/40.5/31.7 (BP = 1.000 ratio = 1.019 hyp_len = 9276 ref_len = 9105) |
 | afr-eng | afr.eng | 59.4 | 81.6/65.1/53.7/44.4 (BP = 0.996 ratio = 0.996 hyp_len = 9587 ref_len = 9622) |
@@ -32,7 +32,7 @@
 | bul-epo | bul.epo | 24.5 | 59.0/30.6/18.9/12.1 (BP = 0.967 ratio = 0.968 hyp_len = 3913 ref_len = 4043) |
 | bul-jpn | bul.jpn | 0.4 | 0.2/0.3/0.7/1.1 (BP = 1.000 ratio = 1.559 hyp_len = 505 ref_len = 324) |
 | bul-ukr | bul.ukr | 49.2 | 77.5/55.8/42.9/33.7 (BP = 0.983 ratio = 0.983 hyp_len = 4850 ref_len = 4932) |
-| bul-zho | atoeba-test.opus.spm32k-spm32k1.transformer.bul.cmn_Latn | 1.5 | 2.1/1.9/1.6/0.7 (BP = 1.000 ratio = 1.534 hyp_len = 678 ref_len = 442) |
+| bul-zho | bul.cmn_Latn | 1.5 | 2.1/1.9/1.6/0.7 (BP = 1.000 ratio = 1.534 hyp_len = 678 ref_len = 442) |
 | cat-deu | cat.deu | 39.5 | 67.5/43.9/32.5/25.3 (BP = 1.000 ratio = 1.002 hyp_len = 5655 ref_len = 5643) |
 | cat-eng | cat.eng | 50.2 | 76.5/57.7/46.1/37.1 (BP = 0.958 ratio = 0.959 hyp_len = 12105 ref_len = 12627) |
 | cat-epo | cat.epo | 0.0 | 3.7/0.1/0.0/0.0 (BP = 1.000 ratio = 4.783 hyp_len = 25749 ref_len = 5383) |
@@ -767,7 +767,7 @@
 | vie-zho | vie.zho | 1.1 | 1.8/0.7/0.8/1.2 (BP = 1.000 ratio = 1.531 hyp_len = 727 ref_len = 475) |
 | yid-eng | yid.eng | 0.1 | 7.1/0.3/0.0/0.0 (BP = 1.000 ratio = 2.224 hyp_len = 17215 ref_len = 7741) |
 | yid-epo | yid.epo | 0.1 | 7.9/0.4/0.0/0.0 (BP = 1.000 ratio = 1.054 hyp_len = 6223 ref_len = 5904) |
-| zho-bul | atoeba-test.opus.spm32k-spm32k1.transformer.cmn_Hani.bul | 29.6 | 64.6/38.6/26.9/18.9 (BP = 0.883 ratio = 0.889 hyp_len = 2768 ref_len = 3113) |
+| zho-bul | cmn_Hani.bul | 29.6 | 64.6/38.6/26.9/18.9 (BP = 0.883 ratio = 0.889 hyp_len = 2768 ref_len = 3113) |
 | zho-deu | zho.deu | 32.1 | 64.7/38.4/26.7/19.3 (BP = 0.954 ratio = 0.955 hyp_len = 18236 ref_len = 19102) |
 | zho-fin | zho.fin | 35.1 | 68.7/43.4/29.8/22.3 (BP = 0.935 ratio = 0.937 hyp_len = 1730 ref_len = 1847) |
 | zho-heb | zho.heb | 28.5 | 60.3/33.4/22.4/15.4 (BP = 0.986 ratio = 0.986 hyp_len = 3602 ref_len = 3654) |

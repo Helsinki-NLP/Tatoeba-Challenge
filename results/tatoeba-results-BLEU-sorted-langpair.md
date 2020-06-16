@@ -1,6 +1,6 @@
 # Tatoeba translation results
 
-| Model            | LangPair   | Score      | Details  |
+| Model            | LangPair   | BLEU       | Details  |
 |-----------------:|------------|-----------:|---------:|
 | afr-deu | afr.deu | 47.1 | 73.1/52.6/40.5/31.7 (BP = 1.000 ratio = 1.019 hyp_len = 9276 ref_len = 9105) |
 | afr-eng | afr.eng | 59.4 | 81.6/65.1/53.7/44.4 (BP = 0.996 ratio = 0.996 hyp_len = 9587 ref_len = 9622) |
@@ -10,8 +10,6 @@
 | afr-spa | afr.spa | 49.9 | 73.2/54.5/43.7/35.6 (BP = 1.000 ratio = 1.003 hyp_len = 2792 ref_len = 2783) |
 | ara-epo | ara.epo | 18.9 | 52.1/23.9/14.3/8.9 (BP = 0.948 ratio = 0.949 hyp_len = 4278 ref_len = 4506) |
 | ara-jpn | ara.jpn | 0.2 | 0.2/0.1/0.2/0.2 (BP = 1.000 ratio = 1.441 hyp_len = 1928 ref_len = 1338) |
-| bul-zho | atoeba-test.opus.spm32k-spm32k1.transformer.bul.cmn_Latn | 1.5 | 2.1/1.9/1.6/0.7 (BP = 1.000 ratio = 1.534 hyp_len = 678 ref_len = 442) |
-| zho-bul | atoeba-test.opus.spm32k-spm32k1.transformer.cmn_Hani.bul | 29.6 | 64.6/38.6/26.9/18.9 (BP = 0.883 ratio = 0.889 hyp_len = 2768 ref_len = 3113) |
 | tatoeba-zero | avk.deu | 1.2 | 22.9/1.2/0.5/0.3 (BP = 0.823 ratio = 0.837 hyp_len = 292 ref_len = 349) |
 | tatoeba-zero | avk.eng | 0.6 | 21.4/1.2/0.1/0.1 (BP = 0.858 ratio = 0.868 hyp_len = 1074 ref_len = 1238) |
 | tatoeba-zero | avk.fra | 0.2 | 21.2/0.5/0.0/0.0 (BP = 0.698 ratio = 0.736 hyp_len = 7727 ref_len = 10504) |
@@ -46,6 +44,7 @@
 | ben-eng | ben.eng | 49.7 | 75.9/55.5/44.5/35.8 (BP = 0.976 ratio = 0.976 hyp_len = 13644 ref_len = 13978) |
 | bre-eng | bre.eng | 8.3 | 36.7/11.0/5.0/2.4 (BP = 1.000 ratio = 1.076 hyp_len = 2222 ref_len = 2065) |
 | bre-fra | bre.fra | 5.6 | 37.2/8.6/3.5/1.1 (BP = 0.948 ratio = 0.950 hyp_len = 12672 ref_len = 13343) |
+| bul-zho | bul.cmn_Latn | 1.5 | 2.1/1.9/1.6/0.7 (BP = 1.000 ratio = 1.534 hyp_len = 678 ref_len = 442) |
 | bul-epo | bul.epo | 24.5 | 59.0/30.6/18.9/12.1 (BP = 0.967 ratio = 0.968 hyp_len = 3913 ref_len = 4043) |
 | bul-jpn | bul.jpn | 0.4 | 0.2/0.3/0.7/1.1 (BP = 1.000 ratio = 1.559 hyp_len = 505 ref_len = 324) |
 | bul-ukr | bul.ukr | 49.2 | 77.5/55.8/42.9/33.7 (BP = 0.983 ratio = 0.983 hyp_len = 4850 ref_len = 4932) |
@@ -68,6 +67,7 @@
 | chv-eng | chv.eng | 0.1 | 12.3/0.1/0.0/0.0 (BP = 1.000 ratio = 1.359 hyp_len = 3045 ref_len = 2240) |
 | chv-rus | chv.rus | 0.5 | 19.9/0.6/0.1/0.0 (BP = 0.965 ratio = 0.966 hyp_len = 2210 ref_len = 2288) |
 | chv-tur | chv.tur | 0.1 | 11.9/0.0/0.0/0.0 (BP = 1.000 ratio = 1.373 hyp_len = 3532 ref_len = 2573) |
+| zho-bul | cmn_Hani.bul | 29.6 | 64.6/38.6/26.9/18.9 (BP = 0.883 ratio = 0.889 hyp_len = 2768 ref_len = 3113) |
 | tatoeba-lowest | cor.deu | 1.2 | 22.7/1.3/0.5/0.2 (BP = 1.000 ratio = 1.090 hyp_len = 5096 ref_len = 4676) |
 | tatoeba-lowest | cor.eng | 0.7 | 22.2/1.5/0.3/0.0 (BP = 1.000 ratio = 1.091 hyp_len = 18357 ref_len = 16829) |
 | tatoeba-lowest | cor.epo | 1.3 | 21.6/2.0/0.5/0.1 (BP = 1.000 ratio = 1.241 hyp_len = 4498 ref_len = 3625) |

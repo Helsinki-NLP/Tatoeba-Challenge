@@ -1,6 +1,6 @@
 # Tatoeba translation results
 
-| Model            | LangPair   | Score      | Details  |
+| Model            | LangPair   | BLEU       | Details  |
 |-----------------:|------------|-----------:|---------:|
 | cat-spa | cat.spa | 73.9 | 88.5/78.2/70.1/63.4 (BP = 0.993 ratio = 0.993 hyp_len = 12012 ref_len = 12094) |
 | glg-spa | glg.spa | 72.2 | 88.0/77.1/69.1/62.2 (BP = 0.982 ratio = 0.982 hyp_len = 17133 ref_len = 17443) |
@@ -213,7 +213,7 @@
 | nor-deu | nor.deu | 29.6 | 64.4/36.9/23.8/16.0 (BP = 0.960 ratio = 0.961 hyp_len = 33229 ref_len = 34575) |
 | tatoeba-lowest | fra.nld | 29.6 | 63.6/35.8/23.2/15.7 (BP = 0.979 ratio = 0.979 hyp_len = 68393 ref_len = 69845) |
 | tatoeba-lowest | rus.epo | 29.6 | 62.7/35.4/23.3/15.9 (BP = 0.982 ratio = 0.983 hyp_len = 75852 ref_len = 77197) |
-| zho-bul | atoeba-test.opus.spm32k-spm32k1.transformer.cmn_Hani.bul | 29.6 | 64.6/38.6/26.9/18.9 (BP = 0.883 ratio = 0.889 hyp_len = 2768 ref_len = 3113) |
+| zho-bul | cmn_Hani.bul | 29.6 | 64.6/38.6/26.9/18.9 (BP = 0.883 ratio = 0.889 hyp_len = 2768 ref_len = 3113) |
 | epo-swe | epo.swe | 29.5 | 63.3/36.0/23.9/16.1 (BP = 0.964 ratio = 0.964 hyp_len = 10584 ref_len = 10977) |
 | tatoeba-lowest | tur.spa | 29.5 | 62.8/36.3/24.0/15.9 (BP = 0.967 ratio = 0.967 hyp_len = 62079 ref_len = 64184) |
 | epo-spa | epo.spa | 29.3 | 63.7/38.6/25.4/16.8 (BP = 0.916 ratio = 0.919 hyp_len = 71605 ref_len = 77893) |
@@ -584,7 +584,7 @@
 | tatoeba-lowest | yid.lat | 1.6 | 31.4/3.3/0.7/0.1 (BP = 1.000 ratio = 1.002 hyp_len = 1247 ref_len = 1245) |
 | tatoeba-zero | egl.eng | 1.6 | 28.5/1.4/0.7/0.3 (BP = 0.995 ratio = 0.995 hyp_len = 442 ref_len = 444) |
 | tatoeba-zero | egl.ita | 1.6 | 27.9/2.6/0.4/0.2 (BP = 1.000 ratio = 1.092 hyp_len = 1096 ref_len = 1004) |
-| bul-zho | atoeba-test.opus.spm32k-spm32k1.transformer.bul.cmn_Latn | 1.5 | 2.1/1.9/1.6/0.7 (BP = 1.000 ratio = 1.534 hyp_len = 678 ref_len = 442) |
+| bul-zho | bul.cmn_Latn | 1.5 | 2.1/1.9/1.6/0.7 (BP = 1.000 ratio = 1.534 hyp_len = 678 ref_len = 442) |
 | tatoeba-lowest | deu.chm | 1.5 | 25.4/2.4/0.8/0.1 (BP = 0.903 ratio = 0.908 hyp_len = 767 ref_len = 845) |
 | fra-bel | fra.bel | 1.3 | 32.1/2.5/0.5/0.2 (BP = 0.747 ratio = 0.774 hyp_len = 1318 ref_len = 1703) |
 | khm-eng | khm.eng | 1.3 | 19.5/1.5/0.5/0.2 (BP = 1.000 ratio = 1.237 hyp_len = 5435 ref_len = 4394) |

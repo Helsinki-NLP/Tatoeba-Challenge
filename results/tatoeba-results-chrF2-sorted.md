@@ -1,7 +1,7 @@
 # Tatoeba translation results
 
-| Model            | LangPair   | Score      | Details  |
-|-----------------:|------------|-----------:|---------:|
+| Model            | LangPair   | chrF2      |
+|-----------------:|------------|-----------:|
 | cat-spa | cat.spa | 0.856 |
 | glg-spa | glg.spa | 0.836 |
 | spa-cat | spa.cat | 0.832 |
@@ -260,7 +260,7 @@
 | tatoeba-lowest | fra.deu | 0.497 |
 | tatoeba-lowest | fra.nld | 0.497 |
 | tatoeba-lowest | tur.epo | 0.497 |
-| zho-bul | atoeba-test.opus.spm32k-spm32k1.transformer.cmn_Hani.bul | 0.497 |
+| zho-bul | cmn_Hani.bul | 0.497 |
 | tatoeba-lowest | nld.epo | 0.496 |
 | ron-epo | ron.epo | 0.495 |
 | tatoeba-lowest | deu.fra | 0.494 |
@@ -561,7 +561,7 @@
 | bul-jpn | bul.jpn | 0.229 |
 | tatoeba-lowest | kab.eng | 0.229 |
 | tur-jpn | tur.jpn | 0.229 |
-| bul-zho | atoeba-test.opus.spm32k-spm32k1.transformer.bul.cmn_Latn | 0.228 |
+| bul-zho | bul.cmn_Latn | 0.228 |
 | swe-jpn | swe.jpn | 0.227 |
 | deu-zho | deu.zho | 0.226 |
 | fry-eng | fry.eng | 0.226 |

@@ -1,7 +1,7 @@
 # Tatoeba translation results
 
-| Model            | LangPair   | Score      | Details  |
-|-----------------:|------------|-----------:|---------:|
+| Model            | LangPair   | chrF2      |
+|-----------------:|------------|-----------:|
 | afr-deu | afr.deu | 0.671 |
 | afr-eng | afr.eng | 0.738 |
 | afr-epo | afr.epo | 0.411 |
@@ -10,8 +10,6 @@
 | afr-spa | afr.spa | 0.680 |
 | ara-epo | ara.epo | 0.376 |
 | ara-jpn | ara.jpn | 0.207 |
-| bul-zho | atoeba-test.opus.spm32k-spm32k1.transformer.bul.cmn_Latn | 0.228 |
-| zho-bul | atoeba-test.opus.spm32k-spm32k1.transformer.cmn_Hani.bul | 0.497 |
 | tatoeba-zero | avk.deu | 0.122 |
 | tatoeba-zero | avk.eng | 0.119 |
 | tatoeba-zero | avk.fra | 0.115 |
@@ -48,6 +46,7 @@
 | ben-eng | ben.eng | 0.641 |
 | bre-eng | bre.eng | 0.256 |
 | bre-fra | bre.fra | 0.233 |
+| bul-zho | bul.cmn_Latn | 0.228 |
 | bul-epo | bul.epo | 0.438 |
 | bul-jpn | bul.jpn | 0.229 |
 | bul-ukr | bul.ukr | 0.683 |
@@ -72,6 +71,7 @@
 | chv-eng | chv.eng | 0.120 |
 | chv-rus | chv.rus | 0.112 |
 | chv-tur | chv.tur | 0.114 |
+| zho-bul | cmn_Hani.bul | 0.497 |
 | tatoeba-lowest | cor.deu | 0.139 |
 | tatoeba-lowest | cor.eng | 0.128 |
 | tatoeba-lowest | cor.epo | 0.137 |

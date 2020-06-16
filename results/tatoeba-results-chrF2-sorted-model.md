@@ -1,7 +1,7 @@
 # Tatoeba translation results
 
-| Model            | LangPair   | Score      | Details  |
-|-----------------:|------------|-----------:|---------:|
+| Model            | LangPair   | chrF2      |
+|-----------------:|------------|-----------:|
 | afr-deu | afr.deu | 0.671 |
 | afr-eng | afr.eng | 0.738 |
 | afr-epo | afr.epo | 0.411 |
@@ -33,7 +33,7 @@
 | bul-epo | bul.epo | 0.438 |
 | bul-jpn | bul.jpn | 0.229 |
 | bul-ukr | bul.ukr | 0.683 |
-| bul-zho | atoeba-test.opus.spm32k-spm32k1.transformer.bul.cmn_Latn | 0.228 |
+| bul-zho | bul.cmn_Latn | 0.228 |
 | cat-deu | cat.deu | 0.593 |
 | cat-eng | cat.eng | 0.668 |
 | cat-epo | cat.epo | 0.028 |
@@ -784,7 +784,7 @@
 | war-eng | war.eng | 0.308 |
 | yid-eng | yid.eng | 0.124 |
 | yid-epo | yid.epo | 0.133 |
-| zho-bul | atoeba-test.opus.spm32k-spm32k1.transformer.cmn_Hani.bul | 0.497 |
+| zho-bul | cmn_Hani.bul | 0.497 |
 | zho-deu | zho.deu | 0.522 |
 | zho-epo | zho.epo | 0.129 |
 | zho-fin | zho.fin | 0.579 |
