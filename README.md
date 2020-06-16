@@ -56,16 +56,22 @@ We also encourage to incorporate other test sets besides of the Tatoeba data. Ra
 
 
 
-## Results
+## Results and models
 
 There are some initial baseline results for parts of the data set using the setup of [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT-train/) but running on Tatoeba MT challenge data (see also [OPUS-MT-TatoebaChallenge](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md)).
 
-* results sorted by [chrF scores](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-chrF2-sorted.md) and [BLEU scores](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-BLEU-sorted.md)
-* results sorted by language pair: [chrF scores](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-chrF2-sorted-langpair.md) and [BLEU scores](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-BLEU-sorted-langpair.md)
+* results for the [zero-shot language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-BLEU-subset-zero.md)
+* results for the [lowest resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-BLEU-subset-lowest.md)
+* results for the [lower resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-BLEU-subset-lower.md)
+* results for the [medium resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-BLEU-subset-medium.md)
+* results for the [higher resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-BLEU-subset-higher.md)
+* results for the [highest resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-BLEU-subset-highest.md)
+* all results sorted by [chrF scores](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-chrF2-sorted.md) and [BLEU scores](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-BLEU-sorted.md)
+* all results sorted by language pair: [chrF scores](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-chrF2-sorted-langpair.md) and [BLEU scores](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-BLEU-sorted-langpair.md)
 
-We will also publish (reasonable) models to be re-used and deployed through OPUS-MT and linked from the [model subdir in this github](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models). This includes multilingual models that cover several languages in source and target to enable transfer learning across languages. For example, there are models for
+We will also publish (reasonable) models to be re-used and deployed through OPUS-MT and linked from the [model subdir in this github](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models). This includes multilingual models that cover several languages in source and target to enable transfer learning across languages. For example, there are multilingual models for
 
-* all languages included in the [lowest resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/tatoeba-lowest)
+* [all the lowest resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/tatoeba-lowest)
 * [bel+rus+ukr-bel+rus+ukr](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/bel+rus+ukr-bel+rus+ukr)
 
 

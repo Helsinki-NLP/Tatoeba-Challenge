@@ -1,0 +1,49 @@
+# Tatoeba translation results
+
+| Model            | LangPair   | Score      | Details  |
+|-----------------:|------------|-----------:|---------:|
+| tatoeba-zero | deu.eng | 31.4 | 64.9/38.9/25.6/17.1 (BP = 0.970 ratio = 0.970 hyp_len = 78808 ref_len = 81233) |
+| tatoeba-lowest | deu.eng | 30.2 | 64.1/37.4/24.3/16.2 (BP = 0.971 ratio = 0.971 hyp_len = 78874 ref_len = 81233) |
+| tatoeba-zero | deu.fin | 21.2 | 57.4/27.4/16.0/10.2 (BP = 0.941 ratio = 0.942 hyp_len = 13331 ref_len = 14145) |
+| tatoeba-zero | deu.fra | 28.7 | 60.2/35.5/23.6/15.9 (BP = 0.960 ratio = 0.961 hyp_len = 78502 ref_len = 81669) |
+| tatoeba-lowest | deu.fra | 28.2 | 59.7/34.7/23.1/15.4 (BP = 0.962 ratio = 0.963 hyp_len = 78640 ref_len = 81669) |
+| tatoeba-lowest | deu.heb | 18.5 | 53.0/23.7/13.0/7.6 (BP = 0.983 ratio = 0.983 hyp_len = 19992 ref_len = 20341) |
+| tatoeba-zero | deu.ita | 26.5 | 59.0/33.7/21.4/13.7 (BP = 0.959 ratio = 0.960 hyp_len = 71455 ref_len = 74421) |
+| tatoeba-lowest | deu.ita | 25.2 | 57.9/32.2/20.2/12.8 (BP = 0.955 ratio = 0.956 hyp_len = 71117 ref_len = 74421) |
+| tatoeba-zero | deu.nld | 34.6 | 69.2/42.4/28.8/20.1 (BP = 0.959 ratio = 0.960 hyp_len = 70623 ref_len = 73546) |
+| tatoeba-zero | deu.por | 23.3 | 57.4/30.8/18.7/11.4 (BP = 0.941 ratio = 0.943 hyp_len = 76797 ref_len = 81482) |
+| tatoeba-zero | deu.rus | 23.2 | 58.9/28.7/17.5/11.1 (BP = 0.967 ratio = 0.967 hyp_len = 65222 ref_len = 67433) |
+| tatoeba-lowest | deu.rus | 22.7 | 59.3/28.7/17.2/10.8 (BP = 0.958 ratio = 0.959 hyp_len = 64638 ref_len = 67433) |
+| tatoeba-zero | deu.spa | 28.4 | 60.1/35.0/22.8/15.0 (BP = 0.976 ratio = 0.976 hyp_len = 75680 ref_len = 77529) |
+| tatoeba-lowest | deu.spa | 26.6 | 59.6/33.6/21.4/13.6 (BP = 0.961 ratio = 0.961 hyp_len = 74536 ref_len = 77529) |
+| tatoeba-zero | deu.tur | 19.0 | 54.1/26.8/15.6/9.2 (BP = 0.890 ratio = 0.896 hyp_len = 26149 ref_len = 29200) |
+| tatoeba-lowest | deu.tur | 18.5 | 54.0/26.4/15.3/9.2 (BP = 0.873 ratio = 0.881 hyp_len = 25720 ref_len = 29200) |
+| tatoeba-zero | eng.fin | 19.5 | 56.1/26.0/14.7/9.2 (BP = 0.925 ratio = 0.928 hyp_len = 56161 ref_len = 60517) |
+| tatoeba-zero | eng.fra | 31.4 | 62.2/38.0/25.9/17.9 (BP = 0.970 ratio = 0.970 hyp_len = 78370 ref_len = 80769) |
+| tatoeba-lowest | eng.fra | 30.5 | 61.5/36.9/25.0/17.2 (BP = 0.970 ratio = 0.971 hyp_len = 78387 ref_len = 80769) |
+| tatoeba-lowest | eng.heb | 19.3 | 53.5/24.4/13.5/7.9 (BP = 1.000 ratio = 1.014 hyp_len = 61214 ref_len = 60359) |
+| tatoeba-lowest | eng.ita | 30.0 | 62.2/37.5/25.2/17.1 (BP = 0.948 ratio = 0.949 hyp_len = 62157 ref_len = 65500) |
+| tatoeba-lowest | eng.nld | 33.6 | 68.5/40.9/27.5/19.1 (BP = 0.964 ratio = 0.965 hyp_len = 68920 ref_len = 71436) |
+| tatoeba-lowest | eng.rus | 24.7 | 60.0/29.8/18.5/12.0 (BP = 0.982 ratio = 0.983 hyp_len = 65708 ref_len = 66872) |
+| tatoeba-lowest | eng.spa | 30.9 | 63.4/38.2/25.6/17.1 (BP = 0.964 ratio = 0.964 hyp_len = 74549 ref_len = 77311) |
+| tatoeba-lowest | eng.tur | 19.4 | 56.7/28.0/15.8/9.2 (BP = 0.887 ratio = 0.893 hyp_len = 53989 ref_len = 60469) |
+| tatoeba-lowest | fra.heb | 19.7 | 53.9/25.2/13.7/8.1 (BP = 1.000 ratio = 1.012 hyp_len = 20908 ref_len = 20655) |
+| tatoeba-lowest | fra.ita | 34.6 | 63.5/41.3/29.7/21.6 (BP = 0.960 ratio = 0.961 hyp_len = 58862 ref_len = 61282) |
+| tatoeba-lowest | fra.nld | 29.6 | 63.6/35.8/23.2/15.7 (BP = 0.979 ratio = 0.979 hyp_len = 68393 ref_len = 69845) |
+| tatoeba-lowest | fra.rus | 23.4 | 59.4/28.2/17.2/11.1 (BP = 0.984 ratio = 0.984 hyp_len = 59831 ref_len = 60792) |
+| tatoeba-lowest | fra.spa | 33.7 | 64.8/40.7/28.1/19.4 (BP = 0.975 ratio = 0.975 hyp_len = 74114 ref_len = 76002) |
+| tatoeba-lowest | heb.ita | 19.4 | 51.3/25.4/15.2/9.1 (BP = 0.943 ratio = 0.945 hyp_len = 10828 ref_len = 11464) |
+| tatoeba-lowest | heb.nld | 18.3 | 55.4/25.0/13.8/8.3 (BP = 0.920 ratio = 0.923 hyp_len = 18962 ref_len = 20550) |
+| tatoeba-lowest | heb.rus | 19.8 | 55.0/25.1/14.9/9.4 (BP = 0.942 ratio = 0.944 hyp_len = 15655 ref_len = 16583) |
+| tatoeba-lowest | heb.spa | 23.6 | 56.7/29.8/18.2/11.2 (BP = 0.973 ratio = 0.974 hyp_len = 13837 ref_len = 14213) |
+| tatoeba-lowest | heb.tur | 22.0 | 57.3/31.2/19.0/10.7 (BP = 0.897 ratio = 0.902 hyp_len = 6309 ref_len = 6996) |
+| tatoeba-lowest | ita.nld | 34.2 | 67.6/40.8/27.5/19.0 (BP = 0.988 ratio = 0.988 hyp_len = 15923 ref_len = 16118) |
+| tatoeba-lowest | ita.rus | 24.5 | 60.2/30.1/18.5/12.1 (BP = 0.970 ratio = 0.971 hyp_len = 63749 ref_len = 65658) |
+| tatoeba-lowest | ita.spa | 40.9 | 70.4/48.2/35.6/26.0 (BP = 0.972 ratio = 0.972 hyp_len = 33974 ref_len = 34937) |
+| tatoeba-lowest | ita.tur | 15.4 | 56.4/28.7/13.0/3.5 (BP = 0.934 ratio = 0.936 hyp_len = 70984 ref_len = 75807) |
+| tatoeba-lowest | nld.rus | 25.0 | 59.6/30.5/18.8/12.1 (BP = 0.986 ratio = 0.986 hyp_len = 15503 ref_len = 15724) |
+| tatoeba-lowest | nld.spa | 28.7 | 61.4/36.0/23.4/15.0 (BP = 0.967 ratio = 0.967 hyp_len = 71821 ref_len = 74235) |
+| tatoeba-lowest | nld.tur | 17.6 | 52.0/24.2/13.9/8.1 (BP = 0.906 ratio = 0.910 hyp_len = 12332 ref_len = 13548) |
+| tatoeba-lowest | rus.spa | 25.7 | 59.5/33.2/20.7/12.9 (BP = 0.953 ratio = 0.955 hyp_len = 68245 ref_len = 71496) |
+| tatoeba-lowest | rus.tur | 12.4 | 47.1/18.9/9.3/4.8 (BP = 0.875 ratio = 0.883 hyp_len = 25365 ref_len = 28739) |
+| tatoeba-lowest | spa.tur | 25.7 | 61.1/34.3/22.1/14.5 (BP = 0.897 ratio = 0.902 hyp_len = 47136 ref_len = 52245) |
