@@ -6,6 +6,24 @@ to be useful for anything.
 
 | Model            | LangPair   | chrF2      | BLEU     |
 |-----------------:|------------|-----------:|---------:|
+| [ara-deu](../models/ara-deu) | ara.deu | 0.628 | 45.0 |
+| [ara-ell](../models/ara-ell) | ara.ell | 0.634 | 43.7 |
+| [ara-eng](../models/ara-eng) | ara.eng | 0.613 | 44.5 |
+| [ara-fra](../models/ara-fra) | ara.fra | 0.553 | 38.9 |
+| [ara-heb](../models/ara-heb) | ara.heb | 0.609 | 41.4 |
+| [ara-ita](../models/ara-ita) | ara.ita | 0.644 | 43.2 |
+| [ara-pol](../models/ara-pol) | ara.pol | 0.617 | 37.4 |
+| [ara-rus](../models/ara-rus) | ara.rus | 0.595 | 41.1 |
+| [ara-spa](../models/ara-spa) | ara.spa | 0.637 | 45.5 |
+| [ara-tur](../models/ara-tur) | ara.tur | 0.617 | 32.7 |
+| [bul-deu](../models/bul-deu) | bul.deu | 0.681 | 49.3 |
+| [bul-eng](../models/bul-eng) | bul.eng | 0.721 | 58.4 |
+| [bul-fra](../models/bul-fra) | bul.fra | 0.690 | 53.3 |
+| [bul-ita](../models/bul-ita) | bul.ita | 0.655 | 43.5 |
+| [bul-rus](../models/bul-rus) | bul.rus | 0.695 | 50.0 |
+| [bul-spa](../models/bul-spa) | bul.spa | 0.674 | 49.8 |
+| [bul-tur](../models/bul-tur) | bul.tur | 0.685 | 40.3 |
+| [bul-zho](../models/bul-zho) | bul.zho | 0.228 | 1.5 |
 | [tatoeba-zero](../models/tatoeba-zero) | deu.eng | 0.515 | 31.4 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | deu.eng | 0.501 | 30.2 |
 | [tatoeba-zero](../models/tatoeba-zero) | deu.fin | 0.448 | 21.2 |

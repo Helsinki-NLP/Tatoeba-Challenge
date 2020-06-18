@@ -18,7 +18,7 @@ VERSION = v1
 OPUS_HOME    = /projappl/nlpl/data/OPUS
 SCRIPTDIR    = scripts
 TOKENIZER    = ${SCRIPTDIR}/moses/tokenizer
-ISO639       = ${HOME}/projappl/ISO639/iso639
+ISO639       = iso639
 GET_ISO_CODE = ${ISO639} -m
 # GET_ISO_CODE = ${ISO639} -m -k
 
@@ -159,6 +159,10 @@ cleanup:
 	  rmdir ${DATADIR}/$$d; \
 	done
 
+
+## some minor fixes with uncommon langIDs in OPUS data
+FIXLANGIDS = | sed 's/ze_zh/zh/g;s/_Hani//g;s/-han[st]//g;s/zht/zh_TW/g;s/zhs/zh_CN/g'
+
 ## create training data by concatenating all data sets
 ## using normalized language codes (macro-languages)
 
@@ -196,8 +200,8 @@ ${DATADIR}/%/train.id.gz:
 		    ${SCRIPTDIR}/bitext-match-lang.py -s $$e -t $$f   > $@.tmp2; \
 		  fi; \
 		  if [ -e $@.tmp2 ]; then \
-		    cut -f1 $@.tmp2 | langscript -3 -l $$e -r -D  > $@.tmp2srcid; \
-		    cut -f2 $@.tmp2 | langscript -3 -l $$f -r -D  > $@.tmp2trgid; \
+		    cut -f1 $@.tmp2 ${FIXLANGIDS} | langscript -3 -l $$e -r -D  > $@.tmp2srcid; \
+		    cut -f2 $@.tmp2 ${FIXLANGIDS} | langscript -3 -l $$f -r -D  > $@.tmp2trgid; \
 		    paste $@.tmp2srcid $@.tmp2trgid $@.tmp2 | sed "s/^/$$c	/"  >> $@.tmp1; \
 		    rm -f $@.tmp2 $@.tmp2srcid $@.tmp2trgid; \
 		  fi \
@@ -510,3 +514,56 @@ move-diff-langpairs:
 	for d in ${filter-out ${TATOEBA_PAIRS3},${shell ls ${DATADIR}}}; do \
 	  mv ${DATADIR}/$$d data-wrong/; \
 	done
+
+
+
+### fix ZHO language tags (old version to a more standardized new version)
+### ---> include tag for simplified vs traditional Chinese
+
+ZHO_TEST_TRG  = ${patsubst %.id,%.oldid,${wildcard data/*-zho/test.id}}
+ZHO_DEV_TRG   = ${patsubst %.id,%.oldid,${wildcard data/*-zho/dev.id}}
+ZHO_TRAIN_TRG = ${patsubst %.id.gz,%.oldid.gz,${wildcard data/*-zho/train.id.gz}}
+
+## fix source language again ...
+ZHO_TRAIN_SRC = ${patsubst %.id.gz,%.oldid2.gz,${wildcard data/*-zho/train.id.gz}}
+
+fix-zho-ids: ${ZHO_TEST_TRG} ${ZHO_DEV_TRG} ${ZHO_TRAIN_TRG} 
+fix-zho-more: data/zho-zho/test.oldid2 ${ZHO_TRAIN_SRC}
+fix-zho-source: ${ZHO_TRAIN_SRC}
+
+${ZHO_TEST_TRG} ${ZHO_DEV_TRG}: %.oldid: %.id
+	paste $< ${<:.id=.trg} | cut -f2,3 | langscript -3 -L -r -D > $@.new
+	mv $< $@
+	paste $@ $@.new | cut -f1,3 > $<
+	rm -f $@.new
+	touch $@
+
+data/zho-zho/%.oldid2: data/zho-zho/%.oldid
+	paste $< ${<:.oldid=.src} | cut -f1,3 | langscript -3 -L -r -D > $@.new
+	mv $(<:.oldid=.id) $@
+	paste $@.new $@  | cut -f1,3 > $(<:.oldid=.id)
+	rm -f $@.new
+	touch $@
+
+%.oldid.gz: %.id.gz
+	${GZIP} -cd < $< | \
+	sed 's/ze_zh/zh/g;s/_Hani//g;s/-han[st]//g;s/zht/zh_TW/g;s/zhs/zh_CN/g' > $@.id
+	${GZIP} -cd < ${<:.id.gz=.trg.gz} > $@.trg
+	paste $@.id $@.trg | cut -f3,4 | langscript -3 -L -r -D > $@.new
+	mv $< $@
+	paste $@.id $@.new | cut -f1,2,4 | ${GZIP} -c > $<
+	rm -f $@.id $@.trg $@.new
+	touch $@
+
+%.oldid2.gz: %.id.gz
+	${GZIP} -cd < $< | \
+	sed 's/ze_zh/zh/g;s/_Hani//g;s/-han[st]//g;s/zht/zh_TW/g;s/zhs/zh_CN/g' > $@.id
+	${GZIP} -cd < ${<:.id.gz=.src.gz} > $@.src
+	paste $@.id $@.src | cut -f2,4 | langscript -3 -L -r -D > $@.new
+	mv $< $@
+	cut -f1 $@.id > $@.data
+	cut -f3 $@.id > $@.trgids
+	paste $@.data $@.new $@.trgids | ${GZIP} -c > $<
+	rm -f $@.id $@.src $@.new $@.data $@.trgids
+	touch $@
+
