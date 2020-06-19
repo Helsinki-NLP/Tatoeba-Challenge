@@ -45,3 +45,4 @@ to be useful for anything.
 | [tatoeba-zero](../models/tatoeba-zero) | ota.tur | 0.106 | 0.4 |
 | [tatoeba-zero](../models/tatoeba-zero) | por.toki | 0.071 | 0.2 |
 | [tatoeba-zero](../models/tatoeba-zero) | rus.toki | 0.057 | 0.1 |
+| [tatoeba-zero](../models/tatoeba-zero) | spa.toki | 0.066 | 0.1 |
