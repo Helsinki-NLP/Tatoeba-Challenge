@@ -4,27 +4,34 @@ Note that some links to the actual models below are broken
 because the models are not yet released or their performance is too poor
 to be useful for anything.
 
-| Model            | Language Pair   | chrF2      | BLEU     |
-|-----------------:|------------|-----------:|---------:|
+| Model                 | Test Set   | chrF2      | BLEU     |
+|----------------------:|------------|-----------:|---------:|
 | [ara-deu](../models/ara-deu) | ara.deu | 0.630 | 44.5 |
 | [ara-deu](../models/ara-deu) | ara.deu | 0.629 | 44.7 |
 | [ara-ell](../models/ara-ell) | ara.ell | 0.636 | 43.9 |
+| [ara-ell](../models/ara-ell) | ara.ell | 0.633 | 42.6 |
 | [ara-eng](../models/ara-eng) | ara.eng | 0.617 | 44.9 |
-| [ara-fra](../models/ara-fra) | ara.fra | 0.556 | 39.3 |
+| [sem-eng](../models/sem-eng) | ara.eng | 0.549 | 37.2 |
+| [afa-eng](../models/afa-eng) | ara.eng | 0.374 | 13.3 |
+| [ara-fra](../models/ara-fra) | ara.fra | 0.562 | 39.8 |
 | [ara-heb](../models/ara-heb) | ara.heb | 0.605 | 40.4 |
 | [ara-ita](../models/ara-ita) | ara.ita | 0.658 | 44.2 |
 | [ara-pol](../models/ara-pol) | ara.pol | 0.623 | 38.0 |
-| [ara-rus](../models/ara-rus) | ara.rus | 0.598 | 41.4 |
+| [ara-rus](../models/ara-rus) | ara.rus | 0.605 | 42.5 |
 | [ara-spa](../models/ara-spa) | ara.spa | 0.641 | 46.0 |
 | [ara-tur](../models/ara-tur) | ara.tur | 0.619 | 33.1 |
 | [bul-deu](../models/bul-deu) | bul.deu | 0.676 | 49.3 |
 | [bul-eng](../models/bul-eng) | bul.eng | 0.721 | 58.3 |
-| [bul-fra](../models/bul-fra) | bul.fra | 0.696 | 54.3 |
+| [sla-eng](../models/sla-eng) | bul.eng | 0.692 | 54.7 |
+| [zls-eng](../models/zls-eng) | bul.eng | 0.686 | 53.9 |
+| [bul-fra](../models/bul-fra) | bul.fra | 0.693 | 53.7 |
 | [bul-ita](../models/bul-ita) | bul.ita | 0.653 | 43.1 |
 | [bul-rus](../models/bul-rus) | bul.rus | 0.691 | 48.5 |
 | [bul-spa](../models/bul-spa) | bul.spa | 0.661 | 49.1 |
 | [bul-tur](../models/bul-tur) | bul.tur | 0.687 | 40.9 |
 | [tatoeba-lower](../models/tatoeba-lower) | ces.deu | 0.489 | 27.8 |
+| [sla-eng](../models/sla-eng) | ces.eng | 0.684 | 52.6 |
+| [zlw-eng](../models/zlw-eng) | ces.eng | 0.670 | 50.6 |
 | [tatoeba-lower](../models/tatoeba-lower) | ces.eng | 0.495 | 30.3 |
 | [tatoeba-lower](../models/tatoeba-lower) | ces.fra | 0.517 | 31.2 |
 | [tatoeba-lower](../models/tatoeba-lower) | ces.hun | 0.466 | 24.6 |
@@ -32,7 +39,11 @@ to be useful for anything.
 | [tatoeba-lower](../models/tatoeba-lower) | ces.pol | 0.480 | 24.2 |
 | [tatoeba-lower](../models/tatoeba-lower) | ces.rus | 0.524 | 32.7 |
 | [tatoeba-lower](../models/tatoeba-lower) | ces.spa | 0.510 | 30.1 |
-| [westgermanic](../models/westgermanic) | deu.eng | 0.581 | 38.7 |
+| [gem-eng](../models/gem-eng) | dan.eng | 0.744 | 60.3 |
+| [gmq-eng](../models/gmq-eng) | dan.eng | 0.741 | 59.9 |
+| [deu-eng](../models/deu-eng) | deu.eng | 0.693 | 53.1 |
+| [gem-eng](../models/gem-eng) | deu.eng | 0.659 | 48.7 |
+| [gmw-eng](../models/gmw-eng) | deu.eng | 0.649 | 47.5 |
 | [tatoeba-zero](../models/tatoeba-zero) | deu.eng | 0.515 | 31.5 |
 | [tatoeba-lower](../models/tatoeba-lower) | deu.eng | 0.507 | 31.1 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | deu.eng | 0.507 | 30.8 |
@@ -47,7 +58,6 @@ to be useful for anything.
 | [tatoeba-zero](../models/tatoeba-zero) | deu.ita | 0.512 | 26.5 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | deu.ita | 0.505 | 26.0 |
 | [tatoeba-lower](../models/tatoeba-lower) | deu.ita | 0.496 | 25.3 |
-| [westgermanic](../models/westgermanic) | deu.nld | 0.633 | 43.9 |
 | [tatoeba-zero](../models/tatoeba-zero) | deu.nld | 0.551 | 34.7 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | deu.nld | 0.546 | 34.4 |
 | [tatoeba-lower](../models/tatoeba-lower) | deu.nld | 0.540 | 33.5 |
@@ -63,6 +73,7 @@ to be useful for anything.
 | [tatoeba-lower](../models/tatoeba-lower) | deu.tur | 0.456 | 19.0 |
 | [tatoeba-zero](../models/tatoeba-zero) | deu.tur | 0.456 | 18.9 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | deu.tur | 0.454 | 18.9 |
+| [grk-eng](../models/grk-eng) | ell.eng | 0.761 | 63.5 |
 | [tatoeba-zero](../models/tatoeba-zero) | eng.fin | 0.437 | 19.4 |
 | [tatoeba-lower](../models/tatoeba-lower) | eng.fin | 0.410 | 17.3 |
 | [tatoeba-zero](../models/tatoeba-zero) | eng.fra | 0.527 | 31.4 |
@@ -75,7 +86,6 @@ to be useful for anything.
 | [tatoeba-lowest](../models/tatoeba-lowest) | eng.ita | 0.542 | 30.3 |
 | [tatoeba-lower](../models/tatoeba-lower) | eng.ita | 0.538 | 29.8 |
 | [tatoeba-zero](../models/tatoeba-zero) | eng.msa | 0.458 | 22.2 |
-| [westgermanic](../models/westgermanic) | eng.nld | 0.630 | 43.8 |
 | [tatoeba-zero](../models/tatoeba-zero) | eng.nld | 0.550 | 34.9 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | eng.nld | 0.541 | 34.0 |
 | [tatoeba-lower](../models/tatoeba-lower) | eng.nld | 0.533 | 32.8 |
@@ -92,6 +102,7 @@ to be useful for anything.
 | [tatoeba-zero](../models/tatoeba-zero) | eng.tur | 0.484 | 20.6 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | eng.tur | 0.477 | 20.0 |
 | [tatoeba-lower](../models/tatoeba-lower) | eng.tur | 0.471 | 19.8 |
+| [eng-zhx](../models/eng-zhx) | eng.zho | 0.107 | 0.0 |
 | [tatoeba-lower](../models/tatoeba-lower) | eng.zho | 0.060 | 0.1 |
 | [tatoeba-zero](../models/tatoeba-zero) | fin.fra | 0.480 | 28.2 |
 | [tatoeba-lower](../models/tatoeba-lower) | fin.fra | 0.466 | 26.5 |
