@@ -7,7 +7,19 @@ The Tatoeba translation challenge includes shuffled training data taken from [OP
 
 This is an open challenge and the idea s to encourage people to develop machine translation in real-world cases for many languages. The most important point is to get away from artificial settings that simulate low-resource scenarios or zero-shot translations. Here, we extracted data sets with all the data we have in a large collection of parallel corpora instead and do not reduce high-resource scenarios in an unnatural way. Tatoeba is, admittedly, a rather easy test set in general but it includes a wide varity of languages and makes it easy to get started with rather encouraging results even for lesser resourced languages. The release also includes medium and high resource settings and allows a wide range of experiments with all supported language pairs including studies of transfer learning and pivot-based methods.
 
+There is no dedicated publication yet about the Tatoeba Translation Challenge; please, cite the following paper if you use data and models from this distribution:
 
+```
+@inproceedings{TiedemannThottingal:2020,
+  title        = {{OPUS-MT} – {B}uilding open translation services for the World},
+  author       = {Tiedemann, J{\"o}rg and Thottingal, Santhosh},
+  booktitle    = {Proceedings of the 22nd Annual Conference of the European Association for Machine Translation (EAMT)},
+  year         = {2020},
+  isbn         = {978-989-33-0589-8},
+  url          = {http://eamt2020.inesc-id.pt/proceedings-eamt2020.pdf},
+  organization = {European Association for Machine Translation}
+}
+```
 
 ## Data releases
 
@@ -66,12 +78,16 @@ There are some initial baseline results for parts of the data set using the setu
 * results for the [medium resource language pairs](results/tatoeba-results-subset-medium.md)
 * results for the [higher resource language pairs](results/tatoeba-results-subset-higher.md)
 * results for the [highest resource language pairs](results/tatoeba-results-subset-highest.md)
+* results for [multilingual models of various language groups](results/tatoeba-results-langgroup.md)
 * [all results sorted by chrF scores](results/tatoeba-results-sorted.md)
 * [all results sorted by language pair](results/tatoeba-results-sorted-langpair.md)
 
 We will also publish (reasonable) models to be re-used and deployed through OPUS-MT and linked from the [model subdir in this github](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models). This includes multilingual models that cover several languages in source and target to enable transfer learning across languages. For example, there are multilingual models for
 
+* [all the zero resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/tatoeba-zero)
 * [all the lowest resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/tatoeba-lowest)
+* [all the lower resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/tatoeba-lower)
+* [multilingual models of various language groups](results/tatoeba-results-langgroup.md)
 * [bel+rus+ukr-bel+rus+ukr](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/bel+rus+ukr-bel+rus+ukr)
 
 
