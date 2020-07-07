@@ -78,7 +78,7 @@ There are some initial baseline results for parts of the data set using the setu
 * results for the [medium resource language pairs](results/tatoeba-results-subset-medium.md)
 * results for the [higher resource language pairs](results/tatoeba-results-subset-higher.md)
 * results for the [highest resource language pairs](results/tatoeba-results-subset-highest.md)
-* results for [multilingual models of various language groups](results/tatoeba-results-langgroup.md)
+* results for [multilingual models of various ISO639-5 language groups](results/tatoeba-results-langgroup.md)
 * [all results sorted by chrF scores](results/tatoeba-results-sorted.md)
 * [all results sorted by language pair](results/tatoeba-results-sorted-langpair.md)
 
@@ -87,7 +87,7 @@ We will also publish (reasonable) models to be re-used and deployed through OPUS
 * [all the zero resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/tatoeba-zero)
 * [all the lowest resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/tatoeba-lowest)
 * [all the lower resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/tatoeba-lower)
-* [multilingual models of various language groups](results/tatoeba-results-langgroup.md)
+* [multilingual models of various ISO639-5 language groups](results/tatoeba-results-langgroup.md)
 * [bel+rus+ukr-bel+rus+ukr](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/bel+rus+ukr-bel+rus+ukr)
 
 

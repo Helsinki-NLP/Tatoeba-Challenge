@@ -1,6 +1,6 @@
-# Tatoeba Challenge Data - Zero-Shot Language Pairs
+# Tatoeba Challenge Data
 
-This is a "highest" sub-set of the Tatoeba data.
+This is the "highest" sub-set of the Tatoeba data.
 Download the data files from the link in the table below.
 There is a total of
 

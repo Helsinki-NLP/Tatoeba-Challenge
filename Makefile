@@ -385,9 +385,9 @@ subsets: subsets/insufficient.md \
 
 subsets/%.md: Data.md
 	mkdir -p ${dir $@}
-	@echo "# Tatoeba Challenge Data - Zero-Shot Language Pairs" > $@
+	@echo "# Tatoeba Challenge Data" > $@
 	@echo "" >> $@
-	@echo "This is a \"${patsubst subsets/%.md,%,$@}\" sub-set of the Tatoeba data." >> $@
+	@echo "This is the \"${patsubst subsets/%.md,%,$@}\" sub-set of the Tatoeba data." >> $@
 	@echo "Download the data files from the link in the table below." >> $@
 	@echo "There is a total of" >> $@
 	@echo "" >> $@
