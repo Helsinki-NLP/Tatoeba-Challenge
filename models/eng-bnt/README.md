@@ -61,3 +61,33 @@
 | Tatoeba-test.eng-xho.eng.xho 	| 23.4 	| 0.600 |
 | Tatoeba-test.eng-zul.eng.zul 	| 33.0 	| 0.725 |
 
+# opus-2020-07-14.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): eng
+* target language(s): kin lin lug nya run sna swh toi_Latn tso umb xho zul
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus-2020-07-14.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bnt/opus-2020-07-14.zip)
+* test set translations: [opus-2020-07-14.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bnt/opus-2020-07-14.test.txt)
+* test set scores: [opus-2020-07-14.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bnt/opus-2020-07-14.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.eng-kin.eng.kin 	| 10.2 	| 0.540 |
+| Tatoeba-test.eng-lin.eng.lin 	| 1.1 	| 0.275 |
+| Tatoeba-test.eng-lug.eng.lug 	| 5.1 	| 0.433 |
+| Tatoeba-test.eng.multi 	| 12.0 	| 0.444 |
+| Tatoeba-test.eng-nya.eng.nya 	| 25.7 	| 0.621 |
+| Tatoeba-test.eng-run.eng.run 	| 13.2 	| 0.487 |
+| Tatoeba-test.eng-sna.eng.sna 	| 32.3 	| 0.652 |
+| Tatoeba-test.eng-toi.eng.toi 	| 10.7 	| 0.255 |
+| Tatoeba-test.eng-tso.eng.tso 	| 41.3 	| 0.698 |
+| Tatoeba-test.eng-umb.eng.umb 	| 4.4 	| 0.329 |
+| Tatoeba-test.eng-xho.eng.xho 	| 24.9 	| 0.613 |
+| Tatoeba-test.eng-zul.eng.zul 	| 35.7 	| 0.753 |
+

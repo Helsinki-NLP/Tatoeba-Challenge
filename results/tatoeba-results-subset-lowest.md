@@ -4,11 +4,13 @@ Note that some links to the actual models below are broken
 because the models are not yet released or their performance is too poor
 to be useful for anything.
 
-| Model            | Language Pair   | chrF2      | BLEU     |
-|-----------------:|------------|-----------:|---------:|
+| Model                 | Test Set   | chrF2      | BLEU     |
+|----------------------:|------------|-----------:|---------:|
 | [tatoeba-lower](../models/tatoeba-lower) | bel.lat | 0.228 | 3.1 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | bel.lat | 0.208 | 1.8 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | chm.rus | 0.171 | 2.8 |
+| [ine-eng](../models/ine-eng) | cor.eng | 0.202 | 5.0 |
+| [mul-eng](../models/mul-eng) | cor.eng | 0.187 | 4.0 |
 | [cel-eng](../models/cel-eng) | cor.eng | 0.175 | 2.7 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | cor.eng | 0.131 | 1.0 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | deu.ido | 0.134 | 0.4 |
@@ -16,15 +18,24 @@ to be useful for anything.
 | [tatoeba-lower](../models/tatoeba-lower) | deu.kab | 0.154 | 1.2 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | deu.kab | 0.134 | 0.2 |
 | [tatoeba-lower](../models/tatoeba-lower) | deu.ltz | 0.261 | 8.4 |
+| [gmw-gmw](../models/gmw-gmw) | deu.ltz | 0.254 | 12.7 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | deu.ltz | 0.236 | 4.4 |
 | [tatoeba-lower](../models/tatoeba-lower) | deu.yid | 0.176 | 1.3 |
+| [gmw-gmw](../models/gmw-gmw) | deu.yid | 0.165 | 1.6 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | deu.yid | 0.154 | 0.5 |
 | [tatoeba-zero](../models/tatoeba-zero) | deu.yid | 0.132 | 0.2 |
+| [eng-gmq](../models/eng-gmq) | eng.fao | 0.311 | 7.0 |
+| [eng-gem](../models/eng-gem) | eng.fao | 0.310 | 8.1 |
+| [eng-ine](../models/eng-ine) | eng.fao | 0.291 | 7.5 |
+| [eng-mul](../models/eng-mul) | eng.fao | 0.271 | 5.7 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | eng.fao | 0.125 | 1.0 |
+| [eng-art](../models/eng-art) | eng.jbo | 0.124 | 0.2 |
+| [eng-mul](../models/eng-mul) | eng.jbo | 0.121 | 0.2 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | eng.jbo | 0.114 | 0.1 |
 | [tatoeba-lower](../models/tatoeba-lower) | epo.ina | 0.331 | 9.9 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | epo.ina | 0.319 | 9.4 |
 | [tatoeba-zero](../models/tatoeba-zero) | epo.ina | 0.271 | 6.8 |
+| [art-art](../models/art-art) | epo.ina | 0.161 | 0.1 |
 | [tatoeba-lower](../models/tatoeba-lower) | fra.kab | 0.163 | 0.7 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | fra.kab | 0.144 | 0.2 |
 | [tatoeba-lower](../models/tatoeba-lower) | fra.yid | 0.167 | 0.7 |
@@ -58,5 +69,6 @@ to be useful for anything.
 | [tatoeba-lowest](../models/tatoeba-lowest) | kab.spa | 0.209 | 4.5 |
 | [tatoeba-lower](../models/tatoeba-lower) | lat.ukr | 0.312 | 11.2 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | lat.ukr | 0.302 | 12.6 |
+| [gmw-gmw](../models/gmw-gmw) | ltz.nld | 0.530 | 36.2 |
 | [tatoeba-lower](../models/tatoeba-lower) | ltz.nld | 0.473 | 30.7 |
 | [tatoeba-lowest](../models/tatoeba-lowest) | ltz.nld | 0.435 | 28.2 |

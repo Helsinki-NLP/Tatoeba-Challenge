@@ -73,6 +73,9 @@ BASIC_FILTERS = | perl -CS -pe 'tr[\x{9}\x{A}\x{D}\x{20}-\x{D7FF}\x{E000}-\x{FFF
 ifneq (${wildcard opus-langs.txt},)
   OPUS_LANGS = ${filter-out simple,${shell head -1 opus-langs.txt}}
 endif
+ifneq (${wildcard opus-langpairs3.txt},)
+  OPUS_PAIRS3 = ${filter-out simple,${shell head -1 opus-langpairs.txt}}
+endif
 
 ## all languages in the current Tatoeba data set in OPUS
 
@@ -97,16 +100,36 @@ DEV_TSV     = ${patsubst ${DATADIR}/%.id,${DATADIR}/dev/%.txt,${wildcard ${DATAD
 
 STATISTICS  = Data.md
 
+PIVOT_LANG ?= eng
 EXTRA_OPUS_LANGS3 = ${filter-out ${TATOEBA_LANGS3},${OPUS_LANGS3}}
-EXTRA_OPUS_PAIRS3 = ${shell for l in ${EXTRA_OPUS_LANGS3}; do \
-				if [ $$l \< 'eng' ]; then \
-				  echo "$$l-eng"; \
-				else \
-				  echo "eng-$$l"; \
-				fi \
-			    done}
+EXTRA_OPUS_PAIRS3 = ${filter-out ${TATOEBA_PAIRS3},\
+		     ${shell cat opus-langpairs3.txt | tr ' ' "\n" |\
+			     grep '${PIVOT_LANG}' | grep -v xxx}}
 
 EXTRA_TRAIN_DATA  = ${patsubst %,${DATADIR}/%/train.id.gz,${EXTRA_OPUS_PAIRS3}}
+
+
+## OLD way of finding extra language pairs
+## --> does not check whether OPUS language pairs really exist
+## NEW (above): rely on language pairs stored in opus-langpairs3.txt
+##
+# EXTRA2_OPUS_PAIRS3 = ${shell for l in ${EXTRA_OPUS_LANGS3}; do \
+# 				if [ $$l \< '${PIVOT_LANG}' ]; then \
+# 				  echo "$$l-${PIVOT_LANG}"; \
+# 				else \
+# 				  echo "${PIVOT_LANG}-$$l"; \
+# 				fi \
+# 			    done}
+
+# EXTRA3_OPUS_PAIRS3 = ${filter-out ${TATOEBA_PAIRS3},\
+# 		     ${shell for l in ${OPUS_LANGS3}; do \
+# 				if [ $$l \< '${PIVOT_LANG}' ]; then \
+# 				  echo "$$l-${PIVOT_LANG}"; \
+# 				else \
+# 				  echo "${PIVOT_LANG}-$$l"; \
+# 				fi \
+# 			    done}}
+
 
 
 ## new lang ID files with normalised codes and script info
@@ -136,7 +159,7 @@ upload: ${patsubst %,${DATADIR}/%.done,${TATOEBA_PAIRS3}}
 
 
 ## extra training data where we don't have any 
-## tatoeba test data (only paired with English)
+## tatoeba test data (only paired with PIVOT_LANG (English))
 extra-traindata: ${EXTRA_TRAIN_DATA}
 extra-statistics:
 	${MAKE} STATISTICS=subsets/NoTestData.md TATOEBA_PAIRS3="${EXTRA_OPUS_PAIRS3}" statistics
@@ -148,6 +171,30 @@ opus-langs.txt:
 	wget -O $@.tmp http://opus.nlpl.eu/opusapi/?languages=true
 	grep '",' $@.tmp | tr '",' '  ' | sort | tr "\n" ' ' | sed 's/  */ /g' > $@
 	rm -f $@.tmp
+
+## all language pairs in opus in one file
+opus-langpairs.txt:
+	for l in ${OPUS_LANGS}; do \
+	  wget -O $@.tmp http://opus.nlpl.eu/opusapi/?source=$$l\&languages=true; \
+	  grep '",' $@.tmp | tr '",' '  ' | sort | tr "\n" ' ' | sed 's/  */ /g' > $@.tmp2; \
+	  for t in `cat $@.tmp2`; do \
+	    if [ $$t \< $$l ]; then \
+	      echo "$$t-$$l" >> $@.all; \
+	    else \
+	      echo "$$l-$$t" >> $@.all; \
+	    fi \
+	  done; \
+	  rm -f $@.tmp $@.tmp2; \
+	done
+	tr ' ' "\n" < $@.all |\
+	sed 's/ //g' | sort -u | tr "\n" ' ' > $@
+	rm -f $@.all
+
+## opus language pairs in ISO639-3 codes
+opus-langpairs3.txt: opus-langpairs.txt
+	cat $< | xargs ${SCRIPTDIR}/convert_langpair_codes.pl | \
+	tr ' ' "\n" | sort -u | tr "\n" ' ' | sed 's/ $$//' > $@
+
 
 ## cleanup some orphan files and directories
 cleanup:
@@ -490,9 +537,12 @@ endif
 ## some auxiliary functions
 
 print-additional-opuslangs:
-	@echo "${EXTRA_OPUS_LANGS3}"
+	@echo "nr of additional language pairs: $(words ${EXTRA_OPUS_PAIRS3})"
 	@echo "${EXTRA_OPUS_PAIRS3}"
-	@echo "${EXTRA_TRAIN_DATA}"
+#	@echo "${EXTRA_OPUS_LANGS3}"
+#	@echo "${EXTRA_TRAIN_DATA}"
+
+
 
 print-languages:
 	@echo "${TATOEBA_LANGS3}"
