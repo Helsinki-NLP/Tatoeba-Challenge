@@ -38,3 +38,43 @@
 | Tatoeba-test.swe-isl.swe.isl 	| 70.7 	| 0.822 |
 | Tatoeba-test.swe-nor.swe.nor 	| 23.4 	| 0.519 |
 
+# opus-2020-07-21.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): dan fao isl nno nob swe
+* target language(s): dan fao isl nno nob swe
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus-2020-07-21.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-07-21.zip)
+* test set translations: [opus-2020-07-21.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-07-21.test.txt)
+* test set scores: [opus-2020-07-21.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-07-21.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.dan-fao.dan.fao 	| 8.1 	| 0.173 |
+| Tatoeba-test.dan-isl.dan.isl 	| 52.5 	| 0.827 |
+| Tatoeba-test.dan-nor.dan.nor 	| 62.8 	| 0.769 |
+| Tatoeba-test.dan-swe.dan.swe 	| 67.5 	| 0.802 |
+| Tatoeba-test.fao-dan.fao.dan 	| 14.5 	| 0.255 |
+| Tatoeba-test.fao-isl.fao.isl 	| 26.3 	| 0.359 |
+| Tatoeba-test.fao-nor.fao.nor 	| 36.5 	| 0.462 |
+| Tatoeba-test.fao-swe.fao.swe 	| 0.0 	| 0.632 |
+| Tatoeba-test.isl-dan.isl.dan 	| 67.0 	| 0.739 |
+| Tatoeba-test.isl-fao.isl.fao 	| 14.5 	| 0.226 |
+| Tatoeba-test.isl-nor.isl.nor 	| 50.2 	| 0.650 |
+| Tatoeba-test.isl-swe.isl.swe 	| 100.0 	| 1.000 |
+| Tatoeba-test.multi.multi 	| 64.9 	| 0.783 |
+| Tatoeba-test.nor-dan.nor.dan 	| 66.0 	| 0.800 |
+| Tatoeba-test.nor-fao.nor.fao 	| 9.9 	| 0.345 |
+| Tatoeba-test.nor-isl.nor.isl 	| 38.5 	| 0.588 |
+| Tatoeba-test.nor-nor.nor.nor 	| 52.4 	| 0.727 |
+| Tatoeba-test.nor-swe.nor.swe 	| 67.2 	| 0.796 |
+| Tatoeba-test.swe-dan.swe.dan 	| 68.0 	| 0.803 |
+| Tatoeba-test.swe-fao.swe.fao 	| 0.0 	| 0.268 |
+| Tatoeba-test.swe-isl.swe.isl 	| 32.5 	| 0.623 |
+| Tatoeba-test.swe-nor.swe.nor 	| 61.6 	| 0.763 |
+

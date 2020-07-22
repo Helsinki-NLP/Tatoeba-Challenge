@@ -116,3 +116,44 @@
 | Tatoeba-test.snd-eng.snd.eng 	| 38.5 	| 0.500 |
 | Tatoeba-test.urd-eng.urd.eng 	| 25.2 	| 0.451 |
 
+# opus-2020-07-19.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): asm awa ben bho gom guj hif_Latn hin mai mar npi ori pan_Guru pnb rom san_Deva sin snd_Arab urd
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus-2020-07-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/inc-eng/opus-2020-07-19.zip)
+* test set translations: [opus-2020-07-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/inc-eng/opus-2020-07-19.test.txt)
+* test set scores: [opus-2020-07-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/inc-eng/opus-2020-07-19.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| newsdev2014-hineng.hin.eng 	| 8.7 	| 0.335 |
+| newsdev2019-engu-gujeng.guj.eng 	| 8.3 	| 0.308 |
+| newstest2014-hien-hineng.hin.eng 	| 12.7 	| 0.389 |
+| newstest2019-guen-gujeng.guj.eng 	| 5.9 	| 0.280 |
+| Tatoeba-test.asm-eng.asm.eng 	| 18.0 	| 0.360 |
+| Tatoeba-test.awa-eng.awa.eng 	| 6.8 	| 0.217 |
+| Tatoeba-test.ben-eng.ben.eng 	| 44.6 	| 0.594 |
+| Tatoeba-test.bho-eng.bho.eng 	| 28.1 	| 0.462 |
+| Tatoeba-test.guj-eng.guj.eng 	| 16.6 	| 0.362 |
+| Tatoeba-test.hif-eng.hif.eng 	| 4.4 	| 0.235 |
+| Tatoeba-test.hin-eng.hin.eng 	| 38.0 	| 0.556 |
+| Tatoeba-test.kok-eng.kok.eng 	| 1.4 	| 0.153 |
+| Tatoeba-test.lah-eng.lah.eng 	| 15.3 	| 0.266 |
+| Tatoeba-test.mai-eng.mai.eng 	| 51.8 	| 0.661 |
+| Tatoeba-test.mar-eng.mar.eng 	| 22.6 	| 0.470 |
+| Tatoeba-test.multi.eng 	| 26.8 	| 0.484 |
+| Tatoeba-test.nep-eng.nep.eng 	| 2.8 	| 0.180 |
+| Tatoeba-test.ori-eng.ori.eng 	| 3.4 	| 0.219 |
+| Tatoeba-test.pan-eng.pan.eng 	| 15.2 	| 0.373 |
+| Tatoeba-test.rom-eng.rom.eng 	| 1.3 	| 0.166 |
+| Tatoeba-test.san-eng.san.eng 	| 3.1 	| 0.167 |
+| Tatoeba-test.sin-eng.sin.eng 	| 28.2 	| 0.507 |
+| Tatoeba-test.snd-eng.snd.eng 	| 38.5 	| 0.500 |
+| Tatoeba-test.urd-eng.urd.eng 	| 25.2 	| 0.451 |
+

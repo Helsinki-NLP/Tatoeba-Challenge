@@ -90,3 +90,51 @@
 | Tatoeba-test.eng-vec.eng.vec 	| 1.9 	| 0.166 |
 | Tatoeba-test.eng-wln.eng.wln 	| 8.1 	| 0.226 |
 
+# opus-2020-07-20.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): eng
+* target language(s): arg ast cat cos egl ext fra frm_Latn gcf_Latn glg hat ind ita lad lad_Latn lij lld_Latn lmo max_Latn mfe min mwl oci pap pms por roh ron scn spa tmw_Latn vec wln zlm_Latn zsm_Latn
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus-2020-07-20.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus-2020-07-20.zip)
+* test set translations: [opus-2020-07-20.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus-2020-07-20.test.txt)
+* test set scores: [opus-2020-07-20.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus-2020-07-20.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.eng-arg.eng.arg 	| 1.5 	| 0.132 |
+| Tatoeba-test.eng-ast.eng.ast 	| 15.4 	| 0.413 |
+| Tatoeba-test.eng-cat.eng.cat 	| 47.8 	| 0.671 |
+| Tatoeba-test.eng-cos.eng.cos 	| 3.3 	| 0.293 |
+| Tatoeba-test.eng-egl.eng.egl 	| 0.2 	| 0.085 |
+| Tatoeba-test.eng-ext.eng.ext 	| 11.7 	| 0.311 |
+| Tatoeba-test.eng-fra.eng.fra 	| 44.8 	| 0.633 |
+| Tatoeba-test.eng-frm.eng.frm 	| 1.0 	| 0.213 |
+| Tatoeba-test.eng-gcf.eng.gcf 	| 0.8 	| 0.119 |
+| Tatoeba-test.eng-glg.eng.glg 	| 44.5 	| 0.646 |
+| Tatoeba-test.eng-hat.eng.hat 	| 25.5 	| 0.494 |
+| Tatoeba-test.eng-ita.eng.ita 	| 45.1 	| 0.673 |
+| Tatoeba-test.eng-lad.eng.lad 	| 8.0 	| 0.305 |
+| Tatoeba-test.eng-lij.eng.lij 	| 1.5 	| 0.178 |
+| Tatoeba-test.eng-lld.eng.lld 	| 0.4 	| 0.171 |
+| Tatoeba-test.eng-lmo.eng.lmo 	| 1.5 	| 0.191 |
+| Tatoeba-test.eng-mfe.eng.mfe 	| 91.9 	| 0.956 |
+| Tatoeba-test.eng-msa.eng.msa 	| 31.2 	| 0.548 |
+| Tatoeba-test.eng.multi 	| 42.6 	| 0.632 |
+| Tatoeba-test.eng-mwl.eng.mwl 	| 3.3 	| 0.288 |
+| Tatoeba-test.eng-oci.eng.oci 	| 7.5 	| 0.287 |
+| Tatoeba-test.eng-pap.eng.pap 	| 44.8 	| 0.630 |
+| Tatoeba-test.eng-pms.eng.pms 	| 2.7 	| 0.198 |
+| Tatoeba-test.eng-por.eng.por 	| 41.3 	| 0.635 |
+| Tatoeba-test.eng-roh.eng.roh 	| 4.3 	| 0.271 |
+| Tatoeba-test.eng-ron.eng.ron 	| 40.6 	| 0.631 |
+| Tatoeba-test.eng-scn.eng.scn 	| 1.4 	| 0.173 |
+| Tatoeba-test.eng-spa.eng.spa 	| 49.2 	| 0.684 |
+| Tatoeba-test.eng-vec.eng.vec 	| 4.8 	| 0.240 |
+| Tatoeba-test.eng-wln.eng.wln 	| 5.4 	| 0.233 |
+

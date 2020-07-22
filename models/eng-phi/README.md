@@ -74,3 +74,28 @@
 | Tatoeba-test.eng-pag.eng.pag 	| 18.5 	| 0.505 |
 | Tatoeba-test.eng-war.eng.war 	| 12.5 	| 0.437 |
 
+# opus-2020-07-20.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): eng
+* target language(s): akl_Latn ceb hil ilo pag war
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus-2020-07-20.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus-2020-07-20.zip)
+* test set translations: [opus-2020-07-20.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus-2020-07-20.test.txt)
+* test set scores: [opus-2020-07-20.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus-2020-07-20.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.eng-akl.eng.akl 	| 3.0 	| 0.190 |
+| Tatoeba-test.eng-ceb.eng.ceb 	| 11.1 	| 0.434 |
+| Tatoeba-test.eng-hil.eng.hil 	| 18.5 	| 0.511 |
+| Tatoeba-test.eng-ilo.eng.ilo 	| 32.9 	| 0.590 |
+| Tatoeba-test.eng.multi 	| 12.8 	| 0.391 |
+| Tatoeba-test.eng-pag.eng.pag 	| 18.5 	| 0.505 |
+| Tatoeba-test.eng-war.eng.war 	| 12.5 	| 0.437 |
+

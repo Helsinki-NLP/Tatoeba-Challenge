@@ -68,3 +68,38 @@
 | Tatoeba-test.eng-uig.eng.uig 	| 0.1 	| 0.150 |
 | Tatoeba-test.eng-uzb.eng.uzb 	| 3.3 	| 0.264 |
 
+# opus-2020-07-20.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): eng
+* target language(s): aze_Latn bak chv crh crh_Latn kaz_Cyrl kaz_Latn kir_Cyrl kjh kum ota_Arab ota_Latn sah tat tat_Arab tat_Latn tuk tuk_Latn tur tyv uig_Arab uig_Cyrl uzb_Cyrl uzb_Latn
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus-2020-07-20.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus-2020-07-20.zip)
+* test set translations: [opus-2020-07-20.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus-2020-07-20.test.txt)
+* test set scores: [opus-2020-07-20.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus-2020-07-20.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.eng-aze.eng.aze 	| 26.4 	| 0.569 |
+| Tatoeba-test.eng-bak.eng.bak 	| 7.1 	| 0.309 |
+| Tatoeba-test.eng-chv.eng.chv 	| 2.6 	| 0.267 |
+| Tatoeba-test.eng-crh.eng.crh 	| 13.9 	| 0.330 |
+| Tatoeba-test.eng-kaz.eng.kaz 	| 12.2 	| 0.362 |
+| Tatoeba-test.eng-kir.eng.kir 	| 24.5 	| 0.486 |
+| Tatoeba-test.eng-kjh.eng.kjh 	| 2.1 	| 0.042 |
+| Tatoeba-test.eng-kum.eng.kum 	| 2.6 	| 0.080 |
+| Tatoeba-test.eng.multi 	| 18.6 	| 0.445 |
+| Tatoeba-test.eng-ota.eng.ota 	| 0.4 	| 0.059 |
+| Tatoeba-test.eng-sah.eng.sah 	| 0.6 	| 0.035 |
+| Tatoeba-test.eng-tat.eng.tat 	| 9.6 	| 0.309 |
+| Tatoeba-test.eng-tuk.eng.tuk 	| 5.3 	| 0.311 |
+| Tatoeba-test.eng-tur.eng.tur 	| 32.9 	| 0.611 |
+| Tatoeba-test.eng-tyv.eng.tyv 	| 3.4 	| 0.232 |
+| Tatoeba-test.eng-uig.eng.uig 	| 0.1 	| 0.154 |
+| Tatoeba-test.eng-uzb.eng.uzb 	| 3.1 	| 0.267 |
+

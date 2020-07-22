@@ -32,3 +32,22 @@
 | Tatoeba-test.shy-kab.shy.kab 	| 1.3 	| 0.013 |
 | Tatoeba-test.tmh-kab.tmh.kab 	| 2.8 	| 0.077 |
 
+# opus-2020-07-19.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): apc ara arq arz heb kab mlt shy_Latn thv
+* target language(s): apc ara arq arz heb kab mlt shy_Latn thv
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus-2020-07-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/afa-afa/opus-2020-07-19.zip)
+* test set translations: [opus-2020-07-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/afa-afa/opus-2020-07-19.test.txt)
+* test set scores: [opus-2020-07-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/afa-afa/opus-2020-07-19.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.multi.multi 	| 20.8 	| 0.434 |
+

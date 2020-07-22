@@ -67,3 +67,27 @@
 | Tatoeba-test.non-eng.non.eng 	| 36.2 	| 0.539 |
 | Tatoeba-test.swe-eng.swe.eng 	| 60.8 	| 0.737 |
 
+# opus-2020-07-19.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): dan fao isl nno nob nob_Hebr non_Latn swe
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus-2020-07-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus-2020-07-19.zip)
+* test set translations: [opus-2020-07-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus-2020-07-19.test.txt)
+* test set scores: [opus-2020-07-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus-2020-07-19.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.dan-eng.dan.eng 	| 59.4 	| 0.738 |
+| Tatoeba-test.fao-eng.fao.eng 	| 23.3 	| 0.443 |
+| Tatoeba-test.isl-eng.isl.eng 	| 49.5 	| 0.654 |
+| Tatoeba-test.multi.eng 	| 57.4 	| 0.715 |
+| Tatoeba-test.non-eng.non.eng 	| 36.2 	| 0.539 |
+| Tatoeba-test.nor-eng.nor.eng 	| 53.2 	| 0.686 |
+| Tatoeba-test.swe-eng.swe.eng 	| 60.8 	| 0.737 |
+
