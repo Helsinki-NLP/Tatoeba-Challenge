@@ -3,18 +3,12 @@
 
 A new challenge set for machine translation covering over 500 languages and thousands of language pairs.
 
-* realistic low-resource scenarios
-* training, development and test data
-* baseline models and results
-* ideal for multilingual models and transfer learning
+* Realistic low-resource scenarios
+* [Training, development and test data](Data.md)
+* [Additional bilingual](subsets/NoTestData.md) and [monolingual data sets](Wiki.md)
+* [Baseline models and results](results/tatoeba-results-sorted-langpair.md)
+* [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
 
-## Quick links
-
-* [Released data sets](Data.md)
-* [Additional bilingual training data](subsets/NoTestData.md)
-* [Additional monolingua data](Wiki.md)
-* [Results sorted by language pair]((results/tatoeba-results-sorted-langpair.md)
-* [Multilingual models of various language groups](results/tatoeba-results-langgroup.md)
 
 ## Tasks
 
