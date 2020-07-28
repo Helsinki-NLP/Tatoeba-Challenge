@@ -156,7 +156,8 @@ test-tsv: ${TEST_TSV}
 dev-tsv: ${DEV_TSV}
 statistics: ${STATISTICS}
 upload: ${patsubst %,${DATADIR}/%.done,${TATOEBA_PAIRS3}}
-
+upload-wikishuffled: ${patsubst wiki-shuffled/%,data/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
+upload-wikidoc: ${patsubst wiki-doc/%,data/wiki-doc-%.done,${wildcard wiki-doc/???}}
 
 ## extra training data where we don't have any 
 ## tatoeba test data (only paired with PIVOT_LANG (English))
@@ -418,6 +419,38 @@ Statisics.md:
 	  fi \
 	done
 
+TATOEBA_WIKIDOC_URL := https://object.pouta.csc.fi/Tatoeba-Challenge-WikiDoc
+TATOEBA_WIKISHUFFLED_URL := https://object.pouta.csc.fi/Tatoeba-Challenge-WikiShuffled
+
+Wiki.md:
+	echo "# Tatoeba Challenge Data - Wikimedia data" > $@
+	echo "" >> $@
+	echo "Monolingual data sets extracted from"     >> $@
+	echo "[CirrusSearch Wikimedia dumps](https://dumps.wikimedia.org/other/cirrussearch/)" >> $@
+	echo "including:"                               >> $@
+	echo "* Wikipedia"                              >> $@
+	echo "* Wikibooks"                              >> $@
+	echo "* Wikinews"                               >> $@
+	echo "* Wikiquote"                              >> $@
+	echo "* Wikisource"                             >> $@
+	echo "" >> $@
+	echo "All data sets are in UTF8 plain text,"                           >> $@
+	echo "one sentence per line."                                          >> $@
+	echo "We provide a deduplicated shuffled download"                     >> $@
+	echo "and a complete download with document boundaries (empty lines)." >> $@
+	echo "Simple pre-processing like unicode character normalisation "     >> $@
+	echo "and language-identification-based filtering has been applied"    >> $@
+	echo "to reduce some noise. The extraction scripts are part of"        >> $@
+	echo "[OPUS-MT](https://github.com/Helsinki-NLP/OPUS-MT-train)."       >> $@
+	echo "" >> $@
+	for l in ${sort ${notdir ${wildcard wiki-shuffled/???}}}; do \
+	  echo -n "* [$$l shuffled](${TATOEBA_WIKISHUFFLED_URL}/$$l.tar)" >> $@; \
+	  if [ -e wiki-doc/$$l ]; then \
+	    echo -n ", [$$l documents](${TATOEBA_WIKIDOC_URL}/$$l.tar)"   >> $@; \
+	  fi; \
+	  echo "" >> $@; \
+	done
+
 
 .PHONY: subsets
 subsets: subsets/insufficient.md \
@@ -468,6 +501,23 @@ data/%.done: data/%
 #	swift post Tatoeba-Challenge --read-acl ".r:*"
 
 
+## upload wiki-data
+
+data/wiki-shuffled-%.done: wiki-shuffled/%
+	mkdir -p ${TMPDIR}/wiki-shuffled
+	cp -R -L $< ${TMPDIR}/wiki-shuffled/
+	cd ${TMPDIR}/wiki-shuffled/ && a-put ${APUT_FLAGS} -b Tatoeba-Challenge-WikiShuffled ${notdir $<}
+	rm -f ${TMPDIR}/$</*
+	rmdir ${TMPDIR}/$<
+	touch $@
+
+data/wiki-doc-%.done: wiki-doc/%
+	mkdir -p ${TMPDIR}/wiki-doc
+	cp -R -L $< ${TMPDIR}/wiki-doc/
+	cd ${TMPDIR}/wiki-doc/ && a-put ${APUT_FLAGS} -b Tatoeba-Challenge-WikiDoc ${notdir $<}
+	rm -f ${TMPDIR}/$</*
+	rmdir ${TMPDIR}/$<
+	touch $@
 
 
 ## fix data that has not been shuffled

@@ -90,3 +90,26 @@
 | Tatoeba-test.eng-tam.eng.tam 	| 9.0 	| 0.444 |
 | Tatoeba-test.eng-tel.eng.tel 	| 7.1 	| 0.363 |
 
+# opus-2020-07-26.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): eng
+* target language(s): kan mal tam tel
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus-2020-07-26.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-dra/opus-2020-07-26.zip)
+* test set translations: [opus-2020-07-26.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-dra/opus-2020-07-26.test.txt)
+* test set scores: [opus-2020-07-26.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-dra/opus-2020-07-26.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.eng-kan.eng.kan 	| 4.7 	| 0.348 |
+| Tatoeba-test.eng-mal.eng.mal 	| 13.1 	| 0.515 |
+| Tatoeba-test.eng.multi 	| 10.7 	| 0.463 |
+| Tatoeba-test.eng-tam.eng.tam 	| 9.0 	| 0.444 |
+| Tatoeba-test.eng-tel.eng.tel 	| 7.1 	| 0.363 |
+
