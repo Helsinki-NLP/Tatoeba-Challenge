@@ -1,7 +1,32 @@
 
 # The Tatoeba Translation Challenge
 
-Data sets for machine translation in many languages with test data taken from [Tatoeba](https://tatoeba.org).
+A new challenge set for machine translation covering over 500 languages and thousands of language pairs.
+
+* realistic low-resource scenarios
+* training, development and test data
+* baseline models and results
+* ideal for multilingual models and transfer learning
+
+## Quick links
+
+* [Released data sets](Data.md)
+* [Additional bilingual training data](subsets/NoTestData.md)
+* [Additional monolingua data](Wiki.md)
+* [Results sorted by language pair]((results/tatoeba-results-sorted-langpair.md)
+* [Multilingual models of various language groups](results/tatoeba-results-langgroup.md)
+
+## Tasks
+
+* [Zero-shot machine translation](subsets/zero.md)
+* [Low](subsets/lower.md) and even [lower](subsets/lowest.md) resource MT
+* [Medium](subsets/medium.md), [higher](subsets/higher.md) and [highest](subsets/highest.md) resource MT
+* [Contribute reference translations via Tatoeba](https://tatoeba.org/eng/users/login?redirect=%2Feng%2Factivities%2Ftranslate_sentences)
+
+
+## In more detail
+
+This package provides data sets for machine translation in many languages with test data taken from [Tatoeba](https://tatoeba.org).
 
 The Tatoeba translation challenge includes shuffled training data taken from [OPUS](http://opus.nlpl.eu) and test data from [Tatoeba](https://tatoeba.org) via the [aligned data set in OPUS](http://opus.nlpl.eu/Tatoeba.php). All data sets are normalised to [ISO-639-3 language codes](https://iso639-3.sil.org/) (so much as possible) using [macro-languages](https://en.wikipedia.org/wiki/ISO_639_macrolanguage) in case there are various individual sub-languages available. Naturally, training data do not include Tatoeba sentences and the popular WMT testsets are not included to allow a fair comparison to other models using those data sets.
 
