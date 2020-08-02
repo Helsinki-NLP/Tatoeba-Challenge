@@ -164,3 +164,72 @@
 | Tatoeba-test.eng-vec.eng.vec 	| 3.1 	| 0.232 |
 | Tatoeba-test.eng-wln.eng.wln 	| 5.1 	| 0.218 |
 
+# opus2m-2020-08-01.zip
+
+* dataset: opus2m
+* model: transformer
+* source language(s): eng
+* target language(s): arg ast cat cos egl ext fra frm_Latn gcf_Latn glg hat ind ita lad lad_Latn lat_Latn lij lld_Latn lmo max_Latn mfe min mwl oci pap pms por roh ron scn spa tmw_Latn vec wln zlm_Latn zsm_Latn
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus2m-2020-08-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-itc/opus2m-2020-08-01.zip)
+* test set translations: [opus2m-2020-08-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-itc/opus2m-2020-08-01.test.txt)
+* test set scores: [opus2m-2020-08-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-itc/opus2m-2020-08-01.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| newsdev2016-enro-engron.eng.ron 	| 27.1 	| 0.565 |
+| newsdiscussdev2015-enfr-engfra.eng.fra 	| 29.9 	| 0.574 |
+| newsdiscusstest2015-enfr-engfra.eng.fra 	| 35.3 	| 0.609 |
+| newssyscomb2009-engfra.eng.fra 	| 27.7 	| 0.567 |
+| newssyscomb2009-engita.eng.ita 	| 28.6 	| 0.586 |
+| newssyscomb2009-engspa.eng.spa 	| 29.8 	| 0.569 |
+| news-test2008-engfra.eng.fra 	| 25.0 	| 0.536 |
+| news-test2008-engspa.eng.spa 	| 27.1 	| 0.548 |
+| newstest2009-engfra.eng.fra 	| 26.7 	| 0.557 |
+| newstest2009-engita.eng.ita 	| 28.9 	| 0.583 |
+| newstest2009-engspa.eng.spa 	| 28.9 	| 0.567 |
+| newstest2010-engfra.eng.fra 	| 29.6 	| 0.574 |
+| newstest2010-engspa.eng.spa 	| 33.8 	| 0.598 |
+| newstest2011-engfra.eng.fra 	| 30.9 	| 0.590 |
+| newstest2011-engspa.eng.spa 	| 34.8 	| 0.598 |
+| newstest2012-engfra.eng.fra 	| 29.1 	| 0.574 |
+| newstest2012-engspa.eng.spa 	| 34.9 	| 0.600 |
+| newstest2013-engfra.eng.fra 	| 30.1 	| 0.567 |
+| newstest2013-engspa.eng.spa 	| 31.8 	| 0.576 |
+| newstest2016-enro-engron.eng.ron 	| 25.9 	| 0.548 |
+| Tatoeba-test.eng-arg.eng.arg 	| 1.6 	| 0.120 |
+| Tatoeba-test.eng-ast.eng.ast 	| 17.2 	| 0.389 |
+| Tatoeba-test.eng-cat.eng.cat 	| 47.6 	| 0.668 |
+| Tatoeba-test.eng-cos.eng.cos 	| 4.3 	| 0.287 |
+| Tatoeba-test.eng-egl.eng.egl 	| 0.9 	| 0.101 |
+| Tatoeba-test.eng-ext.eng.ext 	| 8.7 	| 0.287 |
+| Tatoeba-test.eng-fra.eng.fra 	| 44.9 	| 0.635 |
+| Tatoeba-test.eng-frm.eng.frm 	| 1.0 	| 0.225 |
+| Tatoeba-test.eng-gcf.eng.gcf 	| 0.7 	| 0.115 |
+| Tatoeba-test.eng-glg.eng.glg 	| 44.9 	| 0.648 |
+| Tatoeba-test.eng-hat.eng.hat 	| 30.9 	| 0.533 |
+| Tatoeba-test.eng-ita.eng.ita 	| 45.4 	| 0.673 |
+| Tatoeba-test.eng-lad.eng.lad 	| 5.6 	| 0.279 |
+| Tatoeba-test.eng-lat.eng.lat 	| 12.1 	| 0.380 |
+| Tatoeba-test.eng-lij.eng.lij 	| 1.4 	| 0.183 |
+| Tatoeba-test.eng-lld.eng.lld 	| 0.5 	| 0.199 |
+| Tatoeba-test.eng-lmo.eng.lmo 	| 0.7 	| 0.187 |
+| Tatoeba-test.eng-mfe.eng.mfe 	| 83.6 	| 0.909 |
+| Tatoeba-test.eng-msa.eng.msa 	| 31.3 	| 0.549 |
+| Tatoeba-test.eng.multi 	| 38.0 	| 0.588 |
+| Tatoeba-test.eng-mwl.eng.mwl 	| 2.7 	| 0.322 |
+| Tatoeba-test.eng-oci.eng.oci 	| 8.2 	| 0.293 |
+| Tatoeba-test.eng-pap.eng.pap 	| 46.7 	| 0.663 |
+| Tatoeba-test.eng-pms.eng.pms 	| 2.1 	| 0.194 |
+| Tatoeba-test.eng-por.eng.por 	| 41.2 	| 0.635 |
+| Tatoeba-test.eng-roh.eng.roh 	| 2.6 	| 0.237 |
+| Tatoeba-test.eng-ron.eng.ron 	| 40.6 	| 0.632 |
+| Tatoeba-test.eng-scn.eng.scn 	| 1.6 	| 0.181 |
+| Tatoeba-test.eng-spa.eng.spa 	| 49.5 	| 0.685 |
+| Tatoeba-test.eng-vec.eng.vec 	| 1.6 	| 0.223 |
+| Tatoeba-test.eng-wln.eng.wln 	| 7.1 	| 0.250 |
+

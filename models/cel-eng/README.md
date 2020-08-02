@@ -118,3 +118,27 @@
 | Tatoeba-test.glv-eng.glv.eng 	| 45.2 	| 0.614 |
 | Tatoeba-test.multi.eng 	| 21.7 	| 0.387 |
 
+# opus2m-2020-07-31.zip
+
+* dataset: opus2m
+* model: transformer
+* source language(s): bre cor cym gla gle glv
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus2m-2020-07-31.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/cel-eng/opus2m-2020-07-31.zip)
+* test set translations: [opus2m-2020-07-31.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cel-eng/opus2m-2020-07-31.test.txt)
+* test set scores: [opus2m-2020-07-31.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cel-eng/opus2m-2020-07-31.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.bre-eng.bre.eng 	| 17.2 	| 0.385 |
+| Tatoeba-test.cor-eng.cor.eng 	| 3.0 	| 0.172 |
+| Tatoeba-test.cym-eng.cym.eng 	| 41.5 	| 0.582 |
+| Tatoeba-test.gla-eng.gla.eng 	| 15.4 	| 0.330 |
+| Tatoeba-test.gle-eng.gle.eng 	| 50.8 	| 0.668 |
+| Tatoeba-test.glv-eng.glv.eng 	| 11.0 	| 0.297 |
+| Tatoeba-test.multi.eng 	| 22.8 	| 0.398 |
+

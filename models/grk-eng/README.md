@@ -78,3 +78,23 @@
 | Tatoeba-test.grc-eng.grc.eng 	| 2.9 	| 0.166 |
 | Tatoeba-test.multi.eng 	| 58.7 	| 0.714 |
 
+# opus2m-2020-08-01.zip
+
+* dataset: opus2m
+* model: transformer
+* source language(s): ell grc_Grek
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm12k,spm12k)
+* download: [opus2m-2020-08-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/grk-eng/opus2m-2020-08-01.zip)
+* test set translations: [opus2m-2020-08-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/grk-eng/opus2m-2020-08-01.test.txt)
+* test set scores: [opus2m-2020-08-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/grk-eng/opus2m-2020-08-01.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.ell-eng.ell.eng 	| 65.9 	| 0.779 |
+| Tatoeba-test.grc-eng.grc.eng 	| 4.1 	| 0.187 |
+| Tatoeba-test.multi.eng 	| 60.9 	| 0.733 |
+

@@ -141,3 +141,39 @@
 | Tatoeba-test.yor-eng.yor.eng 	| 30.1 	| 0.430 |
 | Tatoeba-test.zul-eng.zul.eng 	| 39.6 	| 0.553 |
 
+# opus2m-2020-07-31.zip
+
+* dataset: opus2m
+* model: transformer
+* source language(s): ewe fuc fuv ibo kin lin lug nya run sag sna swh toi_Latn tso umb wol xho yor zul
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus2m-2020-07-31.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/alv-eng/opus2m-2020-07-31.zip)
+* test set translations: [opus2m-2020-07-31.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/alv-eng/opus2m-2020-07-31.test.txt)
+* test set scores: [opus2m-2020-07-31.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/alv-eng/opus2m-2020-07-31.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.ewe-eng.ewe.eng 	| 6.3 	| 0.328 |
+| Tatoeba-test.ful-eng.ful.eng 	| 0.4 	| 0.108 |
+| Tatoeba-test.ibo-eng.ibo.eng 	| 4.5 	| 0.196 |
+| Tatoeba-test.kin-eng.kin.eng 	| 30.7 	| 0.511 |
+| Tatoeba-test.lin-eng.lin.eng 	| 2.8 	| 0.213 |
+| Tatoeba-test.lug-eng.lug.eng 	| 3.4 	| 0.140 |
+| Tatoeba-test.multi.eng 	| 20.9 	| 0.376 |
+| Tatoeba-test.nya-eng.nya.eng 	| 38.7 	| 0.492 |
+| Tatoeba-test.run-eng.run.eng 	| 24.5 	| 0.417 |
+| Tatoeba-test.sag-eng.sag.eng 	| 5.5 	| 0.177 |
+| Tatoeba-test.sna-eng.sna.eng 	| 26.9 	| 0.412 |
+| Tatoeba-test.swa-eng.swa.eng 	| 4.9 	| 0.196 |
+| Tatoeba-test.toi-eng.toi.eng 	| 3.9 	| 0.147 |
+| Tatoeba-test.tso-eng.tso.eng 	| 76.7 	| 0.957 |
+| Tatoeba-test.umb-eng.umb.eng 	| 4.0 	| 0.195 |
+| Tatoeba-test.wol-eng.wol.eng 	| 3.7 	| 0.170 |
+| Tatoeba-test.xho-eng.xho.eng 	| 38.9 	| 0.556 |
+| Tatoeba-test.yor-eng.yor.eng 	| 25.1 	| 0.412 |
+| Tatoeba-test.zul-eng.zul.eng 	| 46.1 	| 0.623 |
+

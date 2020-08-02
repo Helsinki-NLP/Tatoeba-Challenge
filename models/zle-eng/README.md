@@ -153,3 +153,34 @@
 | Tatoeba-test.rus-eng.rus.eng 	| 50.6 	| 0.660 |
 | Tatoeba-test.ukr-eng.ukr.eng 	| 50.2 	| 0.659 |
 
+# opus2m-2020-08-01.zip
+
+* dataset: opus2m
+* model: transformer
+* source language(s): bel bel_Latn orv_Cyrl rue rus ukr
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus2m-2020-08-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opus2m-2020-08-01.zip)
+* test set translations: [opus2m-2020-08-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opus2m-2020-08-01.test.txt)
+* test set scores: [opus2m-2020-08-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opus2m-2020-08-01.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| newstest2012-ruseng.rus.eng 	| 31.1 	| 0.579 |
+| newstest2013-ruseng.rus.eng 	| 24.9 	| 0.522 |
+| newstest2014-ruen-ruseng.rus.eng 	| 27.9 	| 0.563 |
+| newstest2015-enru-ruseng.rus.eng 	| 26.8 	| 0.541 |
+| newstest2016-enru-ruseng.rus.eng 	| 25.8 	| 0.535 |
+| newstest2017-enru-ruseng.rus.eng 	| 29.1 	| 0.561 |
+| newstest2018-enru-ruseng.rus.eng 	| 25.4 	| 0.537 |
+| newstest2019-ruen-ruseng.rus.eng 	| 26.8 	| 0.545 |
+| Tatoeba-test.bel-eng.bel.eng 	| 38.3 	| 0.569 |
+| Tatoeba-test.multi.eng 	| 50.1 	| 0.656 |
+| Tatoeba-test.orv-eng.orv.eng 	| 6.9 	| 0.217 |
+| Tatoeba-test.rue-eng.rue.eng 	| 15.4 	| 0.345 |
+| Tatoeba-test.rus-eng.rus.eng 	| 52.5 	| 0.674 |
+| Tatoeba-test.ukr-eng.ukr.eng 	| 52.1 	| 0.673 |
+

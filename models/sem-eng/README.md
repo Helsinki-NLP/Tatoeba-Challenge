@@ -115,3 +115,26 @@
 | Tatoeba-test.multi.eng 	| 40.6 	| 0.578 |
 | Tatoeba-test.tir-eng.tir.eng 	| 15.5 	| 0.341 |
 
+# opus2m-2020-08-01.zip
+
+* dataset: opus2m
+* model: transformer
+* source language(s): acm afb amh apc ara arq ary arz heb mlt tir
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus2m-2020-08-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-eng/opus2m-2020-08-01.zip)
+* test set translations: [opus2m-2020-08-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-eng/opus2m-2020-08-01.test.txt)
+* test set scores: [opus2m-2020-08-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-eng/opus2m-2020-08-01.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.amh-eng.amh.eng 	| 37.5 	| 0.565 |
+| Tatoeba-test.ara-eng.ara.eng 	| 38.9 	| 0.566 |
+| Tatoeba-test.heb-eng.heb.eng 	| 44.6 	| 0.610 |
+| Tatoeba-test.mlt-eng.mlt.eng 	| 53.7 	| 0.688 |
+| Tatoeba-test.multi.eng 	| 41.7 	| 0.588 |
+| Tatoeba-test.tir-eng.tir.eng 	| 18.3 	| 0.370 |
+

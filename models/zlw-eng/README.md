@@ -166,3 +166,37 @@
 | Tatoeba-test.multi.eng 	| 49.4 	| 0.660 |
 | Tatoeba-test.pol-eng.pol.eng 	| 48.1 	| 0.649 |
 
+# opus2m-2020-08-01.zip
+
+* dataset: opus2m
+* model: transformer
+* source language(s): ces csb_Latn dsb hsb pol
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus2m-2020-08-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-eng/opus2m-2020-08-01.zip)
+* test set translations: [opus2m-2020-08-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-eng/opus2m-2020-08-01.test.txt)
+* test set scores: [opus2m-2020-08-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-eng/opus2m-2020-08-01.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| newssyscomb2009-ceseng.ces.eng 	| 25.7 	| 0.536 |
+| newstest2009-ceseng.ces.eng 	| 24.6 	| 0.530 |
+| newstest2010-ceseng.ces.eng 	| 25.0 	| 0.540 |
+| newstest2011-ceseng.ces.eng 	| 25.9 	| 0.539 |
+| newstest2012-ceseng.ces.eng 	| 24.8 	| 0.533 |
+| newstest2013-ceseng.ces.eng 	| 27.8 	| 0.551 |
+| newstest2014-csen-ceseng.ces.eng 	| 30.3 	| 0.585 |
+| newstest2015-encs-ceseng.ces.eng 	| 27.5 	| 0.542 |
+| newstest2016-encs-ceseng.ces.eng 	| 29.1 	| 0.564 |
+| newstest2017-encs-ceseng.ces.eng 	| 26.0 	| 0.537 |
+| newstest2018-encs-ceseng.ces.eng 	| 27.3 	| 0.544 |
+| Tatoeba-test.ces-eng.ces.eng 	| 53.3 	| 0.691 |
+| Tatoeba-test.csb-eng.csb.eng 	| 10.2 	| 0.313 |
+| Tatoeba-test.dsb-eng.dsb.eng 	| 11.7 	| 0.296 |
+| Tatoeba-test.hsb-eng.hsb.eng 	| 24.6 	| 0.426 |
+| Tatoeba-test.multi.eng 	| 51.8 	| 0.680 |
+| Tatoeba-test.pol-eng.pol.eng 	| 50.4 	| 0.667 |
+

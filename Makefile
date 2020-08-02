@@ -426,9 +426,9 @@ Wiki.md:
 	echo "# Tatoeba Challenge Data - Wikimedia data" > $@
 	echo "" >> $@
 	echo "This is part of the "                     >> $@
-	echo "[Tatoeba Translation Challenge Data set](https://github.com/Helsinki-NLP/Tatoeba-Challenge)" >> $@
-	echo "The following monolingual data sets are extracted from"                                      >> $@
-	echo "[CirrusSearch Wikimedia dumps](https://dumps.wikimedia.org/other/cirrussearch/)"             >> $@
+	echo "[Tatoeba Translation Challenge Data set](https://github.com/Helsinki-NLP/Tatoeba-Challenge)." >> $@
+	echo "The following monolingual data sets are extracted from"                                       >> $@
+	echo "[CirrusSearch Wikimedia dumps](https://dumps.wikimedia.org/other/cirrussearch/)"              >> $@
 	echo "including:"                               >> $@
 	echo "* Wikipedia"                              >> $@
 	echo "* Wikibooks"                              >> $@

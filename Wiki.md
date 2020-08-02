@@ -1,7 +1,7 @@
 # Tatoeba Challenge Data - Wikimedia data
 
 This is part of the 
-[Tatoeba Translation Challenge Data set](https://github.com/Helsinki-NLP/Tatoeba-Challenge)
+[Tatoeba Translation Challenge Data set](https://github.com/Helsinki-NLP/Tatoeba-Challenge).
 The following monolingual data sets are extracted from
 [CirrusSearch Wikimedia dumps](https://dumps.wikimedia.org/other/cirrussearch/)
 including:

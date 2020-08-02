@@ -133,3 +133,30 @@
 | Tatoeba-test.eng-prg.eng.prg 	| 0.5 	| 0.130 |
 | Tatoeba-test.eng-sgs.eng.sgs 	| 3.8 	| 0.192 |
 
+# opus2m-2020-08-01.zip
+
+* dataset: opus2m
+* model: transformer
+* source language(s): eng
+* target language(s): lav lit ltg prg_Latn sgs
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus2m-2020-08-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bat/opus2m-2020-08-01.zip)
+* test set translations: [opus2m-2020-08-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bat/opus2m-2020-08-01.test.txt)
+* test set scores: [opus2m-2020-08-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bat/opus2m-2020-08-01.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| newsdev2017-enlv-englav.eng.lav 	| 24.0 	| 0.546 |
+| newsdev2019-enlt-englit.eng.lit 	| 20.9 	| 0.533 |
+| newstest2017-enlv-englav.eng.lav 	| 18.3 	| 0.506 |
+| newstest2019-enlt-englit.eng.lit 	| 13.6 	| 0.466 |
+| Tatoeba-test.eng-lav.eng.lav 	| 42.8 	| 0.652 |
+| Tatoeba-test.eng-lit.eng.lit 	| 37.1 	| 0.650 |
+| Tatoeba-test.eng.multi 	| 37.0 	| 0.616 |
+| Tatoeba-test.eng-prg.eng.prg 	| 0.5 	| 0.130 |
+| Tatoeba-test.eng-sgs.eng.sgs 	| 4.1 	| 0.178 |
+

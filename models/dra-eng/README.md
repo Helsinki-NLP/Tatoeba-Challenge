@@ -108,3 +108,25 @@
 | Tatoeba-test.tam-eng.tam.eng 	| 22.9 	| 0.405 |
 | Tatoeba-test.tel-eng.tel.eng 	| 12.2 	| 0.322 |
 
+# opus2m-2020-07-31.zip
+
+* dataset: opus2m
+* model: transformer
+* source language(s): kan mal tam tel
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus2m-2020-07-31.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/dra-eng/opus2m-2020-07-31.zip)
+* test set translations: [opus2m-2020-07-31.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/dra-eng/opus2m-2020-07-31.test.txt)
+* test set scores: [opus2m-2020-07-31.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/dra-eng/opus2m-2020-07-31.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.kan-eng.kan.eng 	| 9.1 	| 0.312 |
+| Tatoeba-test.mal-eng.mal.eng 	| 42.0 	| 0.584 |
+| Tatoeba-test.multi.eng 	| 30.0 	| 0.493 |
+| Tatoeba-test.tam-eng.tam.eng 	| 30.2 	| 0.467 |
+| Tatoeba-test.tel-eng.tel.eng 	| 15.9 	| 0.378 |
+

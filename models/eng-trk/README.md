@@ -142,3 +142,42 @@
 | Tatoeba-test.eng-uig.eng.uig 	| 0.1 	| 0.152 |
 | Tatoeba-test.eng-uzb.eng.uzb 	| 3.3 	| 0.268 |
 
+# opus2m-2020-08-01.zip
+
+* dataset: opus2m
+* model: transformer
+* source language(s): eng
+* target language(s): aze_Latn bak chv crh crh_Latn kaz_Cyrl kaz_Latn kir_Cyrl kjh kum ota_Arab ota_Latn sah tat tat_Arab tat_Latn tuk tuk_Latn tur tyv uig_Arab uig_Cyrl uzb_Cyrl uzb_Latn
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus2m-2020-08-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus2m-2020-08-01.zip)
+* test set translations: [opus2m-2020-08-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus2m-2020-08-01.test.txt)
+* test set scores: [opus2m-2020-08-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus2m-2020-08-01.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| newsdev2016-entr-engtur.eng.tur 	| 10.1 	| 0.437 |
+| newstest2016-entr-engtur.eng.tur 	| 9.2 	| 0.410 |
+| newstest2017-entr-engtur.eng.tur 	| 9.0 	| 0.410 |
+| newstest2018-entr-engtur.eng.tur 	| 9.2 	| 0.413 |
+| Tatoeba-test.eng-aze.eng.aze 	| 26.8 	| 0.577 |
+| Tatoeba-test.eng-bak.eng.bak 	| 7.6 	| 0.308 |
+| Tatoeba-test.eng-chv.eng.chv 	| 4.3 	| 0.270 |
+| Tatoeba-test.eng-crh.eng.crh 	| 8.1 	| 0.330 |
+| Tatoeba-test.eng-kaz.eng.kaz 	| 11.1 	| 0.359 |
+| Tatoeba-test.eng-kir.eng.kir 	| 28.6 	| 0.524 |
+| Tatoeba-test.eng-kjh.eng.kjh 	| 1.0 	| 0.041 |
+| Tatoeba-test.eng-kum.eng.kum 	| 2.2 	| 0.075 |
+| Tatoeba-test.eng.multi 	| 19.9 	| 0.455 |
+| Tatoeba-test.eng-ota.eng.ota 	| 0.5 	| 0.065 |
+| Tatoeba-test.eng-sah.eng.sah 	| 0.7 	| 0.030 |
+| Tatoeba-test.eng-tat.eng.tat 	| 9.7 	| 0.316 |
+| Tatoeba-test.eng-tuk.eng.tuk 	| 5.9 	| 0.317 |
+| Tatoeba-test.eng-tur.eng.tur 	| 34.6 	| 0.623 |
+| Tatoeba-test.eng-tyv.eng.tyv 	| 5.4 	| 0.210 |
+| Tatoeba-test.eng-uig.eng.uig 	| 0.1 	| 0.155 |
+| Tatoeba-test.eng-uzb.eng.uzb 	| 3.4 	| 0.275 |
+

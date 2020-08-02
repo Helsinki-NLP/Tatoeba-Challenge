@@ -74,3 +74,22 @@
 | Tatoeba-test.kat-eng.kat.eng 	| 13.9 	| 0.311 |
 | Tatoeba-test.multi.eng 	| 13.9 	| 0.311 |
 
+# opus2m-2020-07-31.zip
+
+* dataset: opus2m
+* model: transformer
+* source language(s): kat
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm12k,spm12k)
+* download: [opus2m-2020-07-31.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/ccs-eng/opus2m-2020-07-31.zip)
+* test set translations: [opus2m-2020-07-31.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ccs-eng/opus2m-2020-07-31.test.txt)
+* test set scores: [opus2m-2020-07-31.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ccs-eng/opus2m-2020-07-31.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.kat-eng.kat.eng 	| 18.0 	| 0.357 |
+| Tatoeba-test.multi.eng 	| 18.0 	| 0.357 |
+
