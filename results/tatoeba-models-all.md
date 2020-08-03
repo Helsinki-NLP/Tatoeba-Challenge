@@ -4,749 +4,749 @@ The scores refer to results on Tatoeba-test data
 For multilingual models, it is a mix of all language pairs
 
 | Model | chrF2 | BLEU | BP | Reference Length |
-|:--|---|--:|--:|--:|--:|
-| [aav-aav/opus2m](../models/aav-aav) | 0.067 | 0.2 | 1.000 | 214
-| [aav-aav/opus](../models/aav-aav) | 0.070 | 0.2 | 1.000 | 214
-| [aav-eng/opus2m](../models/aav-eng) | 0.391 | 24.8 | 0.968 | 36693
-| [aav-eng/opus](../models/aav-eng) | 0.384 | 23.7 | 0.945 | 36693
-| [afa-afa/opus2m](../models/afa-afa) | 0.443 | 22.6 | 1.000 | 15215
-| [afa-afa/opus](../models/afa-afa) | 0.434 | 20.8 | 1.000 | 15215
-| [afa-eng/opus2m](../models/afa-eng) | 0.464 | 27.1 | 1.000 | 69373
-| [afa-eng/opus](../models/afa-eng) | 0.450 | 25.4 | 1.000 | 69373
-| [afr-deu/opus](../models/afr-deu) | 0.671 | 47.1 | 1.000 | 9105
-| [afr-eng/opus](../models/afr-eng) | 0.738 | 59.4 | 0.996 | 9622
-| [afr-epo/opus](../models/afr-epo) | 0.411 | 18.3 | 0.995 | 7517
-| [afr-nld/opus](../models/afr-nld) | 0.715 | 55.2 | 0.995 | 6710
-| [afr-rus/opus](../models/afr-rus) | 0.580 | 38.2 | 0.992 | 1213
-| [afr-spa/opus](../models/afr-spa) | 0.680 | 49.9 | 1.000 | 2783
-| [alv-eng/opus2m](../models/alv-eng) | 0.376 | 20.9 | 1.000 | 15208
-| [alv-eng/opus](../models/alv-eng) | 0.371 | 20.6 | 1.000 | 15208
-| [apa-eng/opus](../models/apa-eng) | 0.126 | 0.3 | 1.000 | 545
-| [ara-deu/opus](../models/ara-deu) | 0.629 | 44.7 | 0.986 | 8371
-| [ara-deu/opus](../models/ara-deu) | 0.630 | 44.5 | 0.982 | 8371
-| [ara-ell/opus](../models/ara-ell) | 0.636 | 43.9 | 0.993 | 2009
-| [ara-ell/opus](../models/ara-ell) | 0.633 | 42.6 | 1.000 | 2009
-| [ara-eng/opus](../models/ara-eng) | 0.617 | 44.9 | 0.984 | 73977
-| [ara-epo/opus](../models/ara-epo) | 0.376 | 18.9 | 0.948 | 4506
-| [ara-fra/opus](../models/ara-fra) | 0.562 | 39.8 | 0.994 | 11066
-| [ara-heb/opus](../models/ara-heb) | 0.605 | 40.4 | 1.000 | 6801
-| [ara-ita/opus](../models/ara-ita) | 0.658 | 44.2 | 0.989 | 1495
-| [ara-pol/opus](../models/ara-pol) | 0.623 | 38.0 | 0.948 | 1171
-| [ara-rus/opus](../models/ara-rus) | 0.605 | 42.5 | 0.970 | 21830
-| [ara-spa/opus](../models/ara-spa) | 0.641 | 46.0 | 0.962 | 9708
-| [ara-tur/opus](../models/ara-tur) | 0.619 | 33.1 | 0.957 | 6949
-| [art-art/opus2m](../models/art-art) | 0.128 | 0.1 | 1.000 | 63561
-| [art-art/opus](../models/art-art) | 0.127 | 0.1 | 1.000 | 63561
-| [art-eng/opus2m](../models/art-eng) | 0.287 | 11.6 | 1.000 | 73037
-| [art-eng/opus](../models/art-eng) | 0.284 | 11.6 | 1.000 | 73037
-| [ath-eng/opus2m](../models/ath-eng) | 0.133 | 0.3 | 1.000 | 545
-| [ath-eng/opus](../models/ath-eng) | 0.126 | 0.3 | 1.000 | 545
-| [aze-eng/opus](../models/aze-eng) | 0.490 | 31.9 | 0.997 | 16165
-| [aze-spa/opus](../models/aze-spa) | 0.346 | 11.8 | 1.000 | 1144
-| [aze-tur/opus](../models/aze-tur) | 0.529 | 24.4 | 0.956 | 5380
-| [bat-bat/opus2m](../models/bat-bat) | 0.493 | 19.0 | 1.000 | 60
-| [bat-bat/opus](../models/bat-bat) | 0.472 | 8.8 | 1.000 | 60
-| [bat-eng/opus2m](../models/bat-eng) | 0.662 | 50.6 | 0.989 | 30772
-| [bat-eng/opus](../models/bat-eng) | 0.643 | 48.2 | 0.983 | 30772
-| [bel-deu/opus](../models/bel-deu) | 0.102 | 0.8 | 0.516 | 4175
-| [bel-eng/opus](../models/bel-eng) | 0.268 | 10.0 | 0.881 | 18571
-| [bel-epo/opus](../models/bel-epo) | 0.028 | 0.0 | 1.000 | 5452
-| [bel-fra/opus](../models/bel-fra) | 0.106 | 1.2 | 0.490 | 2005
-| [bel-ita/opus](../models/bel-ita) | 0.097 | 0.7 | 0.611 | 1681
-| [bel-nld/opus](../models/bel-nld) | 0.107 | 0.7 | 0.545 | 4809
-| [bel-pol/opus](../models/bel-pol) | 0.081 | 0.8 | 0.447 | 1706
-| [bel-rus/opus](../models/bel-rus) | 0.141 | 2.7 | 1.000 | 18895
-| [bel+rus+ukr-bel+rus+ukr/opus](../models/bel+rus+ukr-bel+rus+ukr) | 0.760 | 59.5 | 0.993 | 63391
-| [bel-spa/opus](../models/bel-spa) | 0.272 | 11.8 | 0.892 | 1412
-| [bel-ukr/opus](../models/bel-ukr) | 0.122 | 3.7 | 0.832 | 15179
-| [ben-eng/opus](../models/ben-eng) | 0.641 | 49.7 | 0.976 | 13978
-| [ber-eng/opus2m](../models/ber-eng) | 0.147 | 0.4 | 1.000 | 60161
-| [ber-eng/opus](../models/ber-eng) | 0.120 | 0.2 | 1.000 | 60161
-| [bnt-eng/opus2m](../models/bnt-eng) | 0.394 | 23.1 | 1.000 | 14565
-| [bnt-eng/opus](../models/bnt-eng) | 0.389 | 22.5 | 1.000 | 14565
-| [bre-eng/opus](../models/bre-eng) | 0.256 | 8.3 | 1.000 | 2065
-| [bre-fra/opus](../models/bre-fra) | 0.233 | 5.6 | 0.948 | 13343
-| [bul-deu/opus](../models/bul-deu) | 0.676 | 49.3 | 1.000 | 2218
-| [bul-eng/opus](../models/bul-eng) | 0.721 | 58.3 | 0.983 | 71872
-| [bul-epo/opus](../models/bul-epo) | 0.438 | 24.5 | 0.967 | 4043
-| [bul-fra/opus](../models/bul-fra) | 0.693 | 53.7 | 0.977 | 3669
-| [bul-ita/opus](../models/bul-ita) | 0.653 | 43.1 | 0.987 | 16951
-| [bul-rus/opus](../models/bul-rus) | 0.691 | 48.5 | 1.000 | 7870
-| [bul-spa/opus](../models/bul-spa) | 0.661 | 49.1 | 0.992 | 1783
-| [bul-tur/opus](../models/bul-tur) | 0.687 | 40.9 | 0.946 | 4948
-| [bul-ukr/opus](../models/bul-ukr) | 0.683 | 49.2 | 0.983 | 4932
-| [cat-deu/opus](../models/cat-deu) | 0.593 | 39.5 | 1.000 | 5643
-| [cat-eng/opus](../models/cat-eng) | 0.668 | 50.2 | 0.958 | 12627
-| [cat-epo/opus](../models/cat-epo) | 0.028 | 0.0 | 1.000 | 5383
-| [cat-fra/opus](../models/cat-fra) | 0.694 | 52.4 | 0.987 | 5517
-| [cat-ita/opus](../models/cat-ita) | 0.690 | 48.6 | 0.985 | 1995
-| [cat-nld/opus](../models/cat-nld) | 0.632 | 45.1 | 0.965 | 4157
-| [cat-por/opus](../models/cat-por) | 0.658 | 44.9 | 0.953 | 5847
-| [cat-spa/opus](../models/cat-spa) | 0.856 | 73.9 | 0.993 | 12094
-| [cat-ukr/opus](../models/cat-ukr) | 0.503 | 28.6 | 0.967 | 2438
-| [cau-eng/opus2m](../models/cau-eng) | 0.351 | 16.6 | 1.000 | 6285
-| [cau-eng/opus](../models/cau-eng) | 0.340 | 15.0 | 1.000 | 6285
-| [ccn-eng/opus2m](../models/ccn-eng) | 0.117 | 0.4 | 1.000 | 293
-| [ccn-eng/opus](../models/ccn-eng) | 0.115 | 0.4 | 1.000 | 293
-| [ccs-eng/opus2m](../models/ccs-eng) | 0.357 | 18.0 | 1.000 | 5992
-| [ccs-eng/opus](../models/ccs-eng) | 0.311 | 13.9 | 1.000 | 5992
-| [cdc-eng/opus](../models/cdc-eng) | 0.355 | 6.0 | 1.000 | 379
-| [ceb-deu/opus](../models/ceb-deu) | 0.310 | 9.9 | 0.920 | 7376
-| [ceb-eng/opus](../models/ceb-eng) | 0.387 | 21.5 | 1.000 | 2293
-| [cel-cel/opus2m](../models/cel-cel) | 0.144 | 1.1 | 1.000 | 234
-| [cel-cel/opus](../models/cel-cel) | 0.145 | 0.9 | 1.000 | 234
-| [cel-eng/opus2m](../models/cel-eng) | 0.398 | 22.8 | 1.000 | 42097
-| [cel-eng/opus](../models/cel-eng) | 0.387 | 21.7 | 1.000 | 42097
-| [ces-epo/opus](../models/ces-epo) | 0.459 | 26.0 | 0.940 | 24901
-| [ces-ukr/opus](../models/ces-ukr) | 0.680 | 50.9 | 0.994 | 8891
-| [cha-eng/opus](../models/cha-eng) | 0.113 | 0.1 | 1.000 | 1212
-| [chv-eng/opus](../models/chv-eng) | 0.120 | 0.1 | 1.000 | 2240
-| [chv-rus/opus](../models/chv-rus) | 0.112 | 0.5 | 0.965 | 2288
-| [chv-tur/opus](../models/chv-tur) | 0.114 | 0.1 | 1.000 | 2573
-| [cpf-eng/opus2m](../models/cpf-eng) | 0.323 | 16.3 | 1.000 | 990
-| [cpf-eng/opus](../models/cpf-eng) | 0.334 | 16.1 | 1.000 | 990
-| [cpp-cpp/opus2m](../models/cpp-cpp) | 0.539 | 44.9 | 1.000 | 18
-| [cpp-cpp/opus](../models/cpp-cpp) | 0.369 | 21.1 | 0.882 | 18
-| [cpp-eng/opus2m](../models/cpp-eng) | 0.580 | 39.7 | 0.972 | 37399
-| [cpp-eng/opus](../models/cpp-eng) | 0.570 | 38.4 | 0.967 | 37399
-| [cus-eng/opus2m](../models/cus-eng) | 0.248 | 13.1 | 1.000 | 3
-| [cus-eng/opus](../models/cus-eng) | 0.303 | 16.2 | 1.000 | 3
-| [cym-eng/opus](../models/cym-eng) | 0.535 | 35.6 | 1.000 | 5563
-| [dan-epo/opus](../models/dan-epo) | 0.432 | 23.6 | 0.942 | 69856
-| [dan-rus/opus](../models/dan-rus) | 0.715 | 52.5 | 0.991 | 10480
-| [deu-afr/opus](../models/deu-afr) | 0.690 | 51.3 | 1.000 | 9507
-| [deu-ara/opus](../models/deu-ara) | 0.486 | 19.7 | 0.993 | 6324
-| [deu-ara/opus](../models/deu-ara) | 0.486 | 17.8 | 0.967 | 6324
-| [deu-bul/opus](../models/deu-bul) | 0.683 | 50.7 | 0.980 | 2032
-| [deu-cat/opus](../models/deu-cat) | 0.582 | 37.4 | 0.956 | 5507
-| [deu-ceb/opus](../models/deu-ceb) | 0.413 | 9.3 | 1.000 | 6330
-| [deu-eng/opus](../models/deu-eng) | 0.693 | 53.1 | 0.975 | 81233
-| [deu-epo/opus](../models/deu-epo) | 0.453 | 24.1 | 0.938 | 87063
-| [deu-eus/opus](../models/deu-eus) | 0.574 | 31.8 | 0.921 | 2829
-| [deu-fas/opus](../models/deu-fas) | 0.139 | 0.3 | 1.000 | 24941
-| [deu-hsb/opus](../models/deu-hsb) | 0.078 | 0.2 | 0.673 | 3903
-| [deu-isl/opus](../models/deu-isl) | 0.533 | 27.1 | 0.962 | 5939
-| [deu-msa/opus](../models/deu-msa) | 0.607 | 34.0 | 0.954 | 3729
-| [deu-nds/opus](../models/deu-nds) | 0.287 | 6.4 | 0.914 | 76144
-| [deu-nor/opus](../models/deu-nor) | 0.554 | 33.2 | 0.956 | 32928
-| [deu-run/opus](../models/deu-run) | 0.366 | 7.8 | 1.000 | 6954
-| [deu-tat/opus](../models/deu-tat) | 0.138 | 0.9 | 1.000 | 21331
-| [deu-tgl/opus](../models/deu-tgl) | 0.541 | 21.2 | 1.000 | 2329
-| [deu-ukr/opus](../models/deu-ukr) | 0.612 | 40.2 | 0.984 | 54213
-| [deu-vie/opus](../models/deu-vie) | 0.443 | 25.0 | 1.000 | 3768
-| [dmn-eng/opus2m](../models/dmn-eng) | 0.124 | 1.2 | 1.000 | 20
-| [dmn-eng/opus](../models/dmn-eng) | 0.064 | 5.2 | 1.000 | 20
-| [dra-eng/opus2m](../models/dra-eng) | 0.493 | 30.0 | 1.000 | 10641
-| [dra-eng/opus](../models/dra-eng) | 0.443 | 25.5 | 1.000 | 10641
-| [ell-ara/opus](../models/ell-ara) | 0.486 | 21.9 | 0.974 | 1686
-| [ell-ara/opus](../models/ell-ara) | 0.485 | 21.9 | 0.972 | 1686
-| [ell-epo/opus](../models/ell-epo) | 0.517 | 32.4 | 0.979 | 3807
-| [eng-aav/opus2m](../models/eng-aav) | 0.307 | 14.8 | 1.000 | 38261
-| [eng-aav/opus](../models/eng-aav) | 0.311 | 16.1 | 1.000 | 38261
-| [eng-afa/opus2m](../models/eng-afa) | 0.375 | 14.4 | 1.000 | 58110
-| [eng-afa/opus](../models/eng-afa) | 0.363 | 13.7 | 1.000 | 58110
-| [eng-afr/opus](../models/eng-afr) | 0.728 | 54.5 | 0.965 | 10317
-| [eng-alv/opus2m](../models/eng-alv) | 0.429 | 11.4 | 1.000 | 10603
-| [eng-alv/opus](../models/eng-alv) | 0.430 | 11.2 | 1.000 | 10603
-| [eng-apa/opus](../models/eng-apa) | 0.101 | 0.5 | 1.000 | 388
-| [eng-ara/opus](../models/eng-ara) | 0.437 | 14.0 | 1.000 | 58935
-| [eng-art/opus2m](../models/eng-art) | 0.274 | 9.9 | 1.000 | 69567
-| [eng-art/opus](../models/eng-art) | 0.271 | 9.2 | 1.000 | 69567
-| [eng-ath/opus2m](../models/eng-ath) | 0.120 | 0.2 | 1.000 | 388
-| [eng-ath/opus](../models/eng-ath) | 0.111 | 0.4 | 1.000 | 388
-| [eng-aze/opus](../models/eng-aze) | 0.477 | 18.6 | 1.000 | 13012
-| [eng-bat/opus2m](../models/eng-bat) | 0.616 | 37.0 | 0.956 | 26417
-| [eng-bat/opus](../models/eng-bat) | 0.599 | 35.1 | 0.954 | 26417
-| [eng-bel/opus](../models/eng-bel) | 0.261 | 8.2 | 0.918 | 16237
-| [eng-ben/opus](../models/eng-ben) | 0.484 | 16.9 | 1.000 | 11654
-| [eng-ber/opus2m](../models/eng-ber) | 0.134 | 0.2 | 1.000 | 54400
-| [eng-ber/opus](../models/eng-ber) | 0.097 | 0.1 | 1.000 | 54400
-| [eng-bnt/opus2m](../models/eng-bnt) | 0.446 | 12.1 | 1.000 | 9989
-| [eng-bnt/opus](../models/eng-bnt) | 0.449 | 12.1 | 1.000 | 9989
-| [eng-bre/opus](../models/eng-bre) | 0.233 | 4.2 | 0.802 | 2269
-| [eng-bul/opus](../models/eng-bul) | 0.680 | 50.6 | 0.960 | 69504
-| [eng-cat/opus](../models/eng-cat) | 0.659 | 46.5 | 0.984 | 12344
-| [eng-cau/opus2m](../models/eng-cau) | 0.146 | 3.3 | 1.000 | 4741
-| [eng-cau/opus](../models/eng-cau) | 0.056 | 0.5 | 0.909 | 4741
-| [eng-ccn/opus2m](../models/eng-ccn) | 0.089 | 0.5 | 1.000 | 268
-| [eng-ccn/opus](../models/eng-ccn) | 0.080 | 0.4 | 1.000 | 268
-| [eng-ccs/opus2m](../models/eng-ccs) | 0.164 | 4.7 | 1.000 | 4473
-| [eng-ccs/opus](../models/eng-ccs) | 0.161 | 4.5 | 1.000 | 4473
-| [eng-cdc/opus](../models/eng-cdc) | 0.355 | 6.0 | 1.000 | 379
-| [eng-ceb/opus](../models/eng-ceb) | 0.432 | 11.3 | 1.000 | 2088
-| [eng-cel/opus2m](../models/eng-cel) | 0.342 | 18.0 | 0.959 | 45370
-| [eng-cel/opus](../models/eng-cel) | 0.329 | 16.5 | 1.000 | 45370
-| [eng-cha/opus](../models/eng-cha) | 0.109 | 0.1 | 1.000 | 1080
-| [eng-chv/opus](../models/eng-chv) | 0.118 | 0.2 | 1.000 | 1716
-| [eng-cpf/opus2m](../models/eng-cpf) | 0.344 | 14.1 | 1.000 | 1012
-| [eng-cpf/opus](../models/eng-cpf) | 0.354 | 15.9 | 1.000 | 1012
-| [eng-cpp/opus2m](../models/eng-cpp) | 0.574 | 32.7 | 0.996 | 34010
-| [eng-cpp/opus](../models/eng-cpp) | 0.567 | 31.5 | 1.000 | 34010
-| [eng-cus/opus2m](../models/eng-cus) | 0.173 | 16.0 | 1.000 | 3
-| [eng-cus/opus](../models/eng-cus) | 0.199 | 8.1 | 1.000 | 3
-| [eng-cym/opus](../models/eng-cym) | 0.499 | 27.4 | 0.968 | 6020
-| [eng-dmn/opus2m](../models/eng-dmn) | 0.037 | 3.0 | 1.000 | 22
-| [eng-dmn/opus](../models/eng-dmn) | 0.007 | 0.3 | 1.000 | 22
-| [eng-dra/opus2m](../models/eng-dra) | 0.463 | 10.5 | 1.000 | 7928
-| [eng-dra/opus](../models/eng-dra) | 0.463 | 10.7 | 1.000 | 7928
-| [eng-epo/opus](../models/eng-epo) | 0.577 | 35.6 | 0.973 | 76439
-| [eng-esx/opus2m](../models/eng-esx) | 0.162 | 0.6 | 1.000 | 248
-| [eng-esx/opus](../models/eng-esx) | 0.207 | 1.7 | 1.000 | 248
-| [eng-euq/opus](../models/eng-euq) | 0.555 | 27.9 | 0.917 | 7080
-| [eng-eus/opus](../models/eng-eus) | 0.590 | 31.8 | 0.944 | 7080
-| [eng-fas/opus](../models/eng-fas) | 0.132 | 0.7 | 1.000 | 31135
-| [eng-fiu/opus2m](../models/eng-fiu) | 0.590 | 35.4 | 0.944 | 59311
-| [eng-fiu/opus](../models/eng-fiu) | 0.578 | 33.8 | 0.942 | 59311
-| [eng-fry/opus](../models/eng-fry) | 0.202 | 4.7 | 0.895 | 1529
-| [eng-gem/opus2m](../models/eng-gem) | 0.641 | 46.5 | 0.979 | 73328
-| [eng-gem/opus](../models/eng-gem) | 0.636 | 46.0 | 0.983 | 73328
-| [eng-gla/opus](../models/eng-gla) | 0.159 | 0.4 | 1.000 | 7072
-| [eng-gle/opus](../models/eng-gle) | 0.593 | 37.5 | 1.000 | 12200
-| [eng-glg/opus](../models/eng-glg) | 0.593 | 37.8 | 0.976 | 7830
-| [eng-gmq/opus2m](../models/eng-gmq) | 0.688 | 52.8 | 0.973 | 71881
-| [eng-gmq/opus](../models/eng-gmq) | 0.683 | 52.3 | 0.973 | 71881
-| [eng-gmw/opus2m](../models/eng-gmw) | 0.609 | 41.6 | 0.989 | 74922
-| [eng-gmw/opus](../models/eng-gmw) | 0.599 | 40.6 | 0.992 | 74922
-| [eng-grk/opus2m](../models/eng-grk) | 0.677 | 45.6 | 1.000 | 59951
-| [eng-grk/opus](../models/eng-grk) | 0.649 | 38.2 | 1.000 | 59951
-| [eng-hin/opus](../models/eng-hin) | 0.447 | 16.1 | 1.000 | 32904
-| [eng-hye/opus](../models/eng-hye) | 0.404 | 16.6 | 1.000 | 5115
-| [eng-iir/opus2m](../models/eng-iir) | 0.392 | 13.7 | 1.000 | 63351
-| [eng-iir/opus](../models/eng-iir) | 0.384 | 13.3 | 1.000 | 63351
-| [eng-ilo/opus](../models/eng-ilo) | 0.569 | 30.8 | 1.000 | 7241
-| [eng-inc/opus2m](../models/eng-inc) | 0.448 | 17.3 | 1.000 | 59917
-| [eng-inc/opus](../models/eng-inc) | 0.436 | 16.6 | 1.000 | 59917
-| [eng-ine/opus2m](../models/eng-ine) | 0.539 | 32.6 | 0.973 | 68664
-| [eng-ine/opus](../models/eng-ine) | 0.533 | 32.0 | 0.973 | 68664
-| [eng-ira/opus2m](../models/eng-ira) | 0.160 | 1.1 | 1.000 | 36937
-| [eng-ira/opus](../models/eng-ira) | 0.161 | 1.0 | 1.000 | 36937
-| [eng-iro/opus2m](../models/eng-iro) | 0.015 | 0.1 | 1.000 | 454
-| [eng-iro/opus](../models/eng-iro) | 0.015 | 0.1 | 1.000 | 454
-| [eng-isl/opus](../models/eng-isl) | 0.516 | 24.7 | 0.935 | 18999
-| [eng-itc/opus2m](../models/eng-itc) | 0.588 | 38.0 | 0.967 | 73951
-| [eng-itc/opus](../models/eng-itc) | 0.585 | 37.5 | 0.963 | 73951
-| [eng-jpx/opus](../models/eng-jpx) | 0.226 | 0.0 | 1.000 | 10079
-| [eng-kab/opus](../models/eng-kab) | 0.113 | 0.2 | 1.000 | 54472
-| [eng-kat/opus](../models/eng-kat) | 0.157 | 5.1 | 1.000 | 4473
-| [eng-kaz/opus](../models/eng-kaz) | 0.181 | 3.1 | 0.825 | 2151
-| [eng-khm/opus](../models/eng-khm) | 0.103 | 0.1 | 1.000 | 1737
-| [eng-kur/opus](../models/eng-kur) | 0.026 | 0.0 | 0.008 | 1723
-| [eng-ltz/opus](../models/eng-ltz) | 0.123 | 0.5 | 0.938 | 1733
-| [eng-mal/opus](../models/eng-mal) | 0.497 | 11.7 | 0.966 | 4265
-| [eng-map/opus2m](../models/eng-map) | 0.411 | 17.0 | 1.000 | 66963
-| [eng-map/opus](../models/eng-map) | 0.411 | 17.6 | 1.000 | 66963
-| [eng-mar/opus](../models/eng-mar) | 0.110 | 0.7 | 1.000 | 58672
-| [eng-mkd/opus](../models/eng-mkd) | 0.641 | 45.1 | 0.975 | 61969
-| [eng-mkh/opus2m](../models/eng-mkh) | 0.322 | 14.9 | 1.000 | 34734
-| [eng-mkh/opus](../models/eng-mkh) | 0.330 | 16.5 | 1.000 | 34734
-| [eng-mlt/opus](../models/eng-mlt) | 0.579 | 20.0 | 1.000 | 899
-| [eng-mon/opus](../models/eng-mon) | 0.173 | 2.2 | 0.972 | 2385
-| [eng-mri/opus](../models/eng-mri) | 0.257 | 4.8 | 1.000 | 3742
-| [eng-mul/opus2m](../models/eng-mul) | 0.451 | 22.4 | 0.987 | 68724
-| [eng-mul/opus](../models/eng-mul) | 0.434 | 19.1 | 1.000 | 68724
-| [eng-mya/opus](../models/eng-mya) | 0.069 | 0.2 | 1.000 | 1208
-| [eng-myn/opus2m](../models/eng-myn) | 0.125 | 0.3 | 1.000 | 89
-| [eng-myn/opus](../models/eng-myn) | 0.132 | 0.3 | 1.000 | 89
-| [eng-nds/opus](../models/eng-nds) | 0.205 | 2.8 | 1.000 | 18264
-| [eng-ngb/opus](../models/eng-ngb) | 0.147 | 3.7 | 1.000 | 47
-| [eng-nic/opus2m](../models/eng-nic) | 0.430 | 11.1 | 1.000 | 10625
-| [eng-nic/opus](../models/eng-nic) | 0.427 | 11.1 | 1.000 | 10625
-| [eng-oci/opus](../models/eng-oci) | 0.036 | 0.0 | 0.229 | 5219
-| [eng-phi/opus2m](../models/eng-phi) | 0.392 | 13.1 | 1.000 | 30022
-| [eng-phi/opus](../models/eng-phi) | 0.391 | 12.8 | 1.000 | 30022
-| [eng-poz/opus2m](../models/eng-poz) | 0.405 | 16.2 | 1.000 | 66803
-| [eng-poz/opus](../models/eng-poz) | 0.410 | 16.2 | 1.000 | 66803
-| [eng-pqe/opus2m](../models/eng-pqe) | 0.306 | 11.3 | 1.000 | 5786
-| [eng-pqe/opus](../models/eng-pqe) | 0.304 | 10.3 | 1.000 | 5786
-| [eng-pqw/opus2m](../models/eng-pqw) | 0.422 | 17.5 | 1.000 | 66758
-| [eng-pqw/opus](../models/eng-pqw) | 0.418 | 17.2 | 1.000 | 66758
-| [eng-pra/opus2m](../models/eng-pra) | 0.098 | 0.1 | 1.000 | 389
-| [eng-pra/opus](../models/eng-pra) | 0.095 | 0.1 | 1.000 | 389
-| [eng-que/opus](../models/eng-que) | 0.186 | 0.4 | 1.000 | 1083
-| [eng-roa/opus2m](../models/eng-roa) | 0.636 | 42.9 | 0.978 | 72751
-| [eng-roa/opus](../models/eng-roa) | 0.633 | 42.6 | 0.969 | 72751
-| [eng-rom/opus](../models/eng-rom) | 0.134 | 0.1 | 1.000 | 4974
-| [eng-run/opus](../models/eng-run) | 0.436 | 10.4 | 1.000 | 6710
-| [eng-sal/opus2m](../models/eng-sal) | 0.073 | 1.7 | 1.000 | 199
-| [eng-sal/opus](../models/eng-sal) | 0.072 | 1.1 | 1.000 | 199
-| [eng-sal/opus](../models/eng-sal) | 0.072 | 1.1 | 1.000 | 199
-| [eng-sem/opus2m](../models/eng-sem) | 0.486 | 23.5 | 1.000 | 59258
-| [eng-sem/opus](../models/eng-sem) | 0.480 | 22.7 | 1.000 | 59258
-| [eng-sit/opus2m](../models/eng-sit) | 0.223 | 25.7 | 0.907 | 109538
-| [eng-sit/opus](../models/eng-sit) | 0.111 | 0.0 | 1.000 | 11146
-| [eng-sla/opus2m](../models/eng-sla) | 0.610 | 41.0 | 0.976 | 64809
-| [eng-sla/opus](../models/eng-sla) | 0.604 | 40.3 | 0.975 | 64809
-| [eng-smi/opus2m](../models/eng-smi) | 0.106 | 0.4 | 1.000 | 471
-| [eng-smi/opus](../models/eng-smi) | 0.106 | 0.4 | 1.000 | 471
-| [eng-sqi/opus](../models/eng-sqi) | 0.671 | 46.0 | 0.993 | 7880
-| [eng-ssa/opus](../models/eng-ssa) | 0.165 | 1.0 | 1.000 | 42
-| [eng-tam/opus](../models/eng-tam) | 0.412 | 8.0 | 1.000 | 1501
-| [eng-tat/opus](../models/eng-tat) | 0.170 | 2.0 | 1.000 | 8908
-| [eng-taw/opus2m](../models/eng-taw) | 0.522 | 1.2 | 1.000 | 1652
-| [eng-taw/opus](../models/eng-taw) | 0.504 | 1.8 | 1.000 | 1652
-| [eng-tbq/opus2m](../models/eng-tbq) | 0.136 | 0.1 | 1.000 | 85
-| [eng-tbq/opus](../models/eng-tbq) | 0.128 | 0.3 | 1.000 | 85
-| [eng-tel/opus](../models/eng-tel) | 0.285 | 4.1 | 1.000 | 1208
-| [eng-tgl/opus](../models/eng-tgl) | 0.571 | 26.5 | 1.000 | 17801
-| [eng-tha/opus](../models/eng-tha) | 0.544 | 1.9 | 1.000 | 1596
-| [eng-trk/opus2m](../models/eng-trk) | 0.455 | 19.9 | 1.000 | 57072
-| [eng-trk/opus](../models/eng-trk) | 0.447 | 18.8 | 1.000 | 57072
-| [eng-tuk/opus](../models/eng-tuk) | 0.170 | 1.0 | 0.990 | 15504
-| [eng-tup/opus2m](../models/eng-tup) | 0.095 | 0.1 | 1.000 | 1545
-| [eng-tup/opus](../models/eng-tup) | 0.102 | 0.1 | 1.000 | 1545
-| [eng-tut/opus2m](../models/eng-tut) | 0.451 | 19.5 | 1.000 | 57472
-| [eng-tut/opus](../models/eng-tut) | 0.441 | 18.6 | 1.000 | 57472
-| [eng-uig/opus](../models/eng-uig) | 0.132 | 0.0 | 1.000 | 15757
-| [eng-ukr/opus](../models/eng-ukr) | 0.594 | 38.5 | 0.977 | 60756
-| [eng-urd/opus](../models/eng-urd) | 0.390 | 12.1 | 1.000 | 12155
-| [eng-urj/opus2m](../models/eng-urj) | 0.588 | 35.1 | 0.943 | 59664
-| [eng-urj/opus](../models/eng-urj) | 0.572 | 33.3 | 0.940 | 59664
-| [eng-uzb/opus](../models/eng-uzb) | 0.151 | 0.2 | 1.000 | 2012
-| [eng-vie/opus](../models/eng-vie) | 0.542 | 37.2 | 0.973 | 24427
-| [eng-war/opus](../models/eng-war) | 0.390 | 9.7 | 1.000 | 11027
-| [eng-wen/opus2m](../models/eng-wen) | 0.107 | 0.2 | 1.000 | 391
-| [eng-wen/opus](../models/eng-wen) | 0.100 | 0.2 | 1.000 | 391
-| [eng-xgn/opus2m](../models/eng-xgn) | 0.157 | 1.9 | 1.000 | 4140
-| [eng-xgn/opus](../models/eng-xgn) | 0.149 | 1.7 | 1.000 | 4140
-| [eng-xnd/opus2m](../models/eng-xnd) | 0.120 | 0.2 | 1.000 | 388
-| [eng-xnd/opus](../models/eng-xnd) | 0.111 | 0.4 | 1.000 | 388
-| [eng-yid/opus](../models/eng-yid) | 0.120 | 0.2 | 1.000 | 8094
-| [eng-zho/opus](../models/eng-zho) | 0.268 | 31.4 | 0.896 | 110468
-| [eng-zle/opus2m](../models/eng-zle) | 0.580 | 37.2 | 0.989 | 63493
-| [eng-zle/opus](../models/eng-zle) | 0.564 | 35.3 | 0.989 | 63493
-| [eng-zls/opus2m](../models/eng-zls) | 0.622 | 42.7 | 0.969 | 64788
-| [eng-zls/opus](../models/eng-zls) | 0.615 | 41.9 | 0.966 | 64788
-| [eng-zlw/opus2m](../models/eng-zlw) | 0.632 | 42.8 | 0.973 | 65397
-| [eng-zlw/opus](../models/eng-zlw) | 0.616 | 40.9 | 0.974 | 65397
-| [epo-afr/opus](../models/epo-afr) | 0.369 | 19.5 | 0.957 | 8432
-| [epo-ara/opus](../models/epo-ara) | 0.310 | 6.2 | 0.906 | 3591
-| [epo-bul/opus](../models/epo-bul) | 0.395 | 19.0 | 0.891 | 3961
-| [epo-cat/opus](../models/epo-cat) | 0.031 | 0.0 | 1.000 | 5545
-| [epo-ces/opus](../models/epo-ces) | 0.376 | 17.5 | 0.922 | 22148
-| [epo-dan/opus](../models/epo-dan) | 0.407 | 21.6 | 0.936 | 72349
-| [epo-deu/opus](../models/epo-deu) | 0.413 | 19.9 | 0.902 | 92868
-| [epo-ell/opus](../models/epo-ell) | 0.438 | 23.2 | 0.916 | 3892
-| [epo-eng/opus](../models/epo-eng) | 0.558 | 36.4 | 0.941 | 79719
-| [epo-fas/opus](../models/epo-fas) | 0.140 | 0.7 | 1.000 | 20095
-| [epo-fin/opus](../models/epo-fin) | 0.371 | 15.9 | 0.894 | 15881
-| [epo-fra/opus](../models/epo-fra) | 0.468 | 25.4 | 0.928 | 84797
-| [epo-glg/opus](../models/epo-glg) | 0.099 | 0.3 | 0.517 | 2236
-| [epo-hbs/opus](../models/epo-hbs) | 0.351 | 13.6 | 0.888 | 17999
-| [epo-heb/opus](../models/epo-heb) | 0.306 | 11.5 | 0.943 | 65645
-| [epo-hun/opus](../models/epo-hun) | 0.333 | 12.8 | 0.914 | 65704
-| [epo-isl/opus](../models/epo-isl) | 0.254 | 8.0 | 1.000 | 1553
-| [epo-ita/opus](../models/epo-ita) | 0.465 | 23.8 | 0.942 | 67118
-| [epo-lit/opus](../models/epo-lit) | 0.280 | 7.5 | 0.877 | 62528
-| [epo-nds/opus](../models/epo-nds) | 0.126 | 0.3 | 1.000 | 18330
-| [epo-nld/opus](../models/epo-nld) | 0.337 | 15.3 | 0.864 | 78770
-| [epo-nor/opus](../models/epo-nor) | 0.256 | 6.5 | 0.913 | 29074
-| [epo-oci/opus](../models/epo-oci) | 0.080 | 0.1 | 1.000 | 5149
-| [epo-pol/opus](../models/epo-pol) | 0.392 | 17.2 | 0.893 | 15343
-| [epo-por/opus](../models/epo-por) | 0.438 | 20.2 | 0.895 | 89991
-| [epo-ron/opus](../models/epo-ron) | 0.420 | 19.4 | 0.918 | 25619
-| [epo-rus/opus](../models/epo-rus) | 0.379 | 17.7 | 0.918 | 71288
-| [epo-slv/opus](../models/epo-slv) | 0.194 | 3.0 | 0.970 | 1765
-| [epo-spa/opus](../models/epo-spa) | 0.519 | 29.3 | 0.916 | 77893
-| [epo-swe/opus](../models/epo-swe) | 0.463 | 29.5 | 0.964 | 10977
-| [epo-tur/opus](../models/epo-tur) | 0.329 | 9.8 | 0.816 | 27062
-| [epo-ukr/opus](../models/epo-ukr) | 0.071 | 0.6 | 0.591 | 13514
-| [epo-vie/opus](../models/epo-vie) | 0.273 | 10.0 | 1.000 | 17797
-| [epo-yid/opus](../models/epo-yid) | 0.108 | 0.1 | 1.000 | 6378
-| [est-rus/opus](../models/est-rus) | 0.702 | 50.2 | 0.988 | 3569
-| [esx-eng/opus2m](../models/esx-eng) | 0.187 | 4.3 | 1.000 | 427
-| [esx-eng/opus](../models/esx-eng) | 0.189 | 4.7 | 1.000 | 427
-| [euq-eng/opus](../models/euq-eng) | 0.594 | 41.5 | 0.964 | 8157
-| [eus-deu/opus](../models/eus-deu) | 0.562 | 36.3 | 0.953 | 3315
-| [eus-eng/opus](../models/eus-eng) | 0.627 | 45.2 | 0.966 | 8157
-| [eus-rus/opus](../models/eus-rus) | 0.502 | 31.3 | 0.942 | 2428
-| [eus-spa/opus](../models/eus-spa) | 0.673 | 48.8 | 0.964 | 12469
-| [fas-deu/opus](../models/fas-deu) | 0.142 | 0.4 | 1.000 | 25590
-| [fas-eng/opus](../models/fas-eng) | 0.136 | 0.7 | 1.000 | 31508
-| [fas-epo/opus](../models/fas-epo) | 0.157 | 0.7 | 1.000 | 18357
-| [fin-epo/opus](../models/fin-epo) | 0.413 | 22.5 | 0.949 | 18881
-| [fin-nor/opus](../models/fin-nor) | 0.426 | 23.5 | 1.000 | 14768
-| [fiu-eng/opus2m](../models/fiu-eng) | 0.648 | 47.8 | 0.988 | 71020
-| [fiu-eng/opus](../models/fiu-eng) | 0.626 | 45.4 | 0.989 | 71020
-| [fiu-fiu/opus2m](../models/fiu-fiu) | 0.593 | 38.3 | 0.978 | 19444
-| [fiu-fiu/opus](../models/fiu-fiu) | 0.581 | 36.7 | 0.981 | 19444
-| [fra-ara/opus](../models/fra-ara) | 0.439 | 14.4 | 1.000 | 7956
-| [fra-bel/opus](../models/fra-bel) | 0.078 | 1.3 | 0.747 | 1703
-| [fra-bre/opus](../models/fra-bre) | 0.210 | 3.8 | 0.849 | 14394
-| [fra-bul/opus](../models/fra-bul) | 0.657 | 46.3 | 0.953 | 3286
-| [fra-cat/opus](../models/fra-cat) | 0.645 | 43.4 | 0.982 | 5214
-| [fra-epo/opus](../models/fra-epo) | 0.509 | 29.2 | 0.976 | 78053
-| [fra-msa/opus](../models/fra-msa) | 0.617 | 35.3 | 0.978 | 6696
-| [fra-nds/opus](../models/fra-nds) | 0.186 | 2.0 | 0.934 | 5571
-| [fra-nor/opus](../models/fra-nor) | 0.555 | 36.1 | 0.981 | 3089
-| [fra-oci/opus](../models/fra-oci) | 0.097 | 0.3 | 1.000 | 6047
-| [fra-pes/opus](../models/fra-pes) | 0.131 | 0.3 | 1.000 | 3212
-| [fra-run/opus](../models/fra-run) | 0.368 | 7.4 | 1.000 | 5095
-| [fra-tat/opus](../models/fra-tat) | 0.250 | 6.4 | 1.000 | 1562
-| [fra-tgl/opus](../models/fra-tgl) | 0.536 | 24.1 | 1.000 | 5778
-| [fra-ukr/opus](../models/fra-ukr) | 0.599 | 39.3 | 0.986 | 54082
-| [fra-vie/opus](../models/fra-vie) | 0.486 | 31.1 | 0.985 | 13219
-| [fry-eng/opus](../models/fry-eng) | 0.226 | 4.9 | 0.923 | 1500
-| [fry-nld/opus](../models/fry-nld) | 0.120 | 0.4 | 0.585 | 1672
-| [gem-eng/opus2m](../models/gem-eng) | 0.687 | 54.0 | 0.993 | 72120
-| [gem-eng/opus](../models/gem-eng) | 0.682 | 53.4 | 0.990 | 72120
-| [gem-gem/opus](../models/gem-gem) | 0.614 | 42.7 | 0.993 | 73459
-| [gla-eng/opus](../models/gla-eng) | 0.120 | 0.4 | 1.000 | 6366
-| [gla-spa/opus](../models/gla-spa) | 0.109 | 0.3 | 0.970 | 1608
-| [gle-eng/opus](../models/gle-eng) | 0.672 | 51.6 | 1.000 | 11247
-| [glg-eng/opus](../models/glg-eng) | 0.628 | 44.4 | 0.975 | 8365
-| [glg-epo/opus](../models/glg-epo) | 0.025 | 0.0 | 1.000 | 2257
-| [glg-por/opus](../models/glg-por) | 0.758 | 57.9 | 0.977 | 3078
-| [glg-spa/opus](../models/glg-spa) | 0.836 | 72.2 | 0.982 | 17443
-| [gmq-eng/opus2m](../models/gmq-eng) | 0.720 | 58.1 | 0.982 | 72641
-| [gmq-eng/opus4m](../models/gmq-eng) | 0.718 | 57.7 | 0.982 | 72641
-| [gmq-eng/opus](../models/gmq-eng) | 0.715 | 57.4 | 0.980 | 72641
-| [gmq-gmq/opus2m](../models/gmq-gmq) | 0.781 | 64.7 | 0.992 | 49385
-| [gmq-gmq/opus](../models/gmq-gmq) | 0.782 | 64.7 | 0.994 | 49385
-| [gmw-eng/opus2m](../models/gmw-eng) | 0.646 | 48.5 | 0.997 | 72584
-| [gmw-eng/opus](../models/gmw-eng) | 0.637 | 47.5 | 1.000 | 72584
-| [gmw-gmw/opus](../models/gmw-gmw) | 0.568 | 36.4 | 1.000 | 72534
-| [grk-eng/opus2m](../models/grk-eng) | 0.733 | 60.9 | 0.973 | 62205
-| [grk-eng/opus](../models/grk-eng) | 0.714 | 58.7 | 0.980 | 62205
-| [grn-spa/opus](../models/grn-spa) | 0.133 | 0.1 | 1.000 | 3866
-| [hbs-epo/opus](../models/hbs-epo) | 0.383 | 18.7 | 0.999 | 18457
-| [hbs-ukr/opus](../models/hbs-ukr) | 0.665 | 49.6 | 0.984 | 4959
-| [heb-ara/opus](../models/heb-ara) | 0.532 | 23.6 | 0.926 | 6372
-| [heb-epo/opus](../models/heb-epo) | 0.348 | 17.6 | 0.899 | 78217
-| [heb-ukr/opus](../models/heb-ukr) | 0.552 | 35.4 | 0.971 | 5163
-| [hin-eng/opus](../models/hin-eng) | 0.569 | 39.0 | 0.956 | 33943
-| [hin-urd/opus](../models/hin-urd) | 0.393 | 12.4 | 1.000 | 1618
-| [hsb-deu/opus](../models/hsb-deu) | 0.126 | 0.2 | 0.789 | 4478
-| [hun-epo/opus](../models/hun-epo) | 0.378 | 17.9 | 0.934 | 76005
-| [hun-ukr/opus](../models/hun-ukr) | 0.611 | 41.2 | 0.966 | 2568
-| [hye-eng/opus](../models/hye-eng) | 0.511 | 34.6 | 1.000 | 5066
-| [hye-rus/opus](../models/hye-rus) | 0.476 | 25.6 | 0.929 | 1624
-| [ido-eng/opus](../models/ido-eng) | 0.075 | 0.1 | 1.000 | 14126
-| [iir-eng/opus2m](../models/iir-eng) | 0.424 | 21.3 | 1.000 | 67026
-| [iir-eng/opus](../models/iir-eng) | 0.405 | 19.2 | 1.000 | 67026
-| [iir-iir/opus2m](../models/iir-iir) | 0.468 | 16.9 | 1.000 | 4992
-| [iir-iir/opus](../models/iir-iir) | 0.460 | 17.7 | 1.000 | 4992
-| [ilo-eng/opus](../models/ilo-eng) | 0.558 | 36.4 | 1.000 | 7384
-| [inc-eng/opus2m](../models/inc-eng) | 0.502 | 29.0 | 1.000 | 64706
-| [inc-eng/opus](../models/inc-eng) | 0.484 | 26.8 | 1.000 | 64706
-| [inc-inc/opus2m](../models/inc-inc) | 0.474 | 17.7 | 1.000 | 4985
-| [inc-inc/opus](../models/inc-inc) | 0.464 | 17.1 | 1.000 | 4985
-| [ine-eng/opus2m](../models/ine-eng) | 0.615 | 45.6 | 0.997 | 71872
-| [ine-eng/opus](../models/ine-eng) | 0.613 | 45.4 | 0.997 | 71872
-| [ine-ine/opus](../models/ine-ine) | 0.509 | 30.8 | 0.989 | 69953
-| [ira-eng/opus2m](../models/ira-eng) | 0.184 | 1.7 | 1.000 | 37313
-| [ira-eng/opus](../models/ira-eng) | 0.184 | 1.7 | 1.000 | 37313
-| [iro-eng/opus2m](../models/iro-eng) | 0.151 | 0.3 | 1.000 | 498
-| [iro-eng/opus](../models/iro-eng) | 0.148 | 0.3 | 1.000 | 498
-| [isl-deu/opus](../models/isl-deu) | 0.661 | 49.2 | 0.998 | 6265
-| [isl-eng/opus](../models/isl-eng) | 0.667 | 50.5 | 0.972 | 19763
-| [isl-epo/opus](../models/isl-epo) | 0.314 | 11.8 | 1.000 | 1528
-| [isl-ita/opus](../models/isl-ita) | 0.662 | 46.7 | 0.977 | 1450
-| [isl-spa/opus](../models/isl-spa) | 0.665 | 51.2 | 0.985 | 1229
-| [ita-ara/opus](../models/ita-ara) | 0.517 | 21.9 | 0.950 | 1161
-| [ita-bul/opus](../models/ita-bul) | 0.664 | 47.9 | 0.961 | 16512
-| [ita-cat/opus](../models/ita-cat) | 0.706 | 52.5 | 0.993 | 2074
-| [ita-epo/opus](../models/ita-epo) | 0.500 | 28.2 | 0.957 | 67846
-| [ita-isl/opus](../models/ita-isl) | 0.524 | 28.6 | 0.972 | 1459
-| [ita-lit/opus](../models/ita-lit) | 0.652 | 38.1 | 0.959 | 1321
-| [ita-msa/opus](../models/ita-msa) | 0.536 | 26.0 | 0.921 | 2765
-| [ita-nds/opus](../models/ita-nds) | 0.205 | 4.3 | 0.918 | 2130
-| [ita-nob/opus](../models/ita-nob) | 0.555 | 34.0 | 0.965 | 8856
-| [ita-ukr/opus](../models/ita-ukr) | 0.657 | 45.9 | 0.989 | 25353
-| [ita-vie/opus](../models/ita-vie) | 0.535 | 36.2 | 1.000 | 2144
-| [itc-eng/opus2m](../models/itc-eng) | 0.634 | 47.6 | 0.981 | 77633
-| [itc-eng/opus](../models/itc-eng) | 0.631 | 47.2 | 0.982 | 77633
-| [jav-eng/opus](../models/jav-eng) | 0.109 | 0.7 | 1.000 | 1814
-| [jpn-ara/opus](../models/jpn-ara) | 0.394 | 11.6 | 1.000 | 7089
-| [jpn-bul/opus](../models/jpn-bul) | 0.422 | 20.2 | 0.957 | 2346
-| [jpn-dan/opus](../models/jpn-dan) | 0.590 | 43.2 | 0.972 | 5823
-| [jpn-deu/opus](../models/jpn-deu) | 0.466 | 24.6 | 0.961 | 85296
-| [jpn-eng/opus](../models/jpn-eng) | 0.502 | 30.1 | 0.943 | 89256
-| [jpn-epo/opus](../models/jpn-epo) | 0.021 | 0.0 | 1.000 | 18009
-| [jpn-eus/opus](../models/jpn-eus) | 0.235 | 5.5 | 0.896 | 1040
-| [jpn-fin/opus](../models/jpn-fin) | 0.408 | 17.7 | 0.867 | 60612
-| [jpn-fra/opus](../models/jpn-fra) | 0.491 | 28.9 | 0.949 | 87434
-| [jpn-hbs/opus](../models/jpn-hbs) | 0.447 | 22.6 | 0.962 | 2525
-| [jpn-heb/opus](../models/jpn-heb) | 0.397 | 20.2 | 1.000 | 1598
-| [jpn-hun/opus](../models/jpn-hun) | 0.364 | 12.2 | 1.000 | 18625
-| [jpn-isl/opus](../models/jpn-isl) | 0.132 | 3.9 | 1.000 | 1575
-| [jpn-ita/opus](../models/jpn-ita) | 0.460 | 22.8 | 0.954 | 21500
-| [jpn-lit/opus](../models/jpn-lit) | 0.234 | 5.5 | 0.935 | 1359
-| [jpn-mar/opus](../models/jpn-mar) | 0.088 | 0.3 | 1.000 | 1970
-| [jpn-msa/opus](../models/jpn-msa) | 0.469 | 21.5 | 0.926 | 17028
-| [jpn-nld/opus](../models/jpn-nld) | 0.534 | 34.7 | 0.939 | 25849
-| [jpn-nor/opus](../models/jpn-nor) | 0.120 | 0.5 | 1.000 | 8497
-| [jpn-pol/opus](../models/jpn-pol) | 0.386 | 15.7 | 1.000 | 69904
-| [jpn-por/opus](../models/jpn-por) | 0.444 | 22.2 | 0.922 | 15570
-| [jpn-rus/opus](../models/jpn-rus) | 0.441 | 23.2 | 0.974 | 70820
-| [jpn-spa/opus](../models/jpn-spa) | 0.518 | 30.1 | 0.951 | 77638
-| [jpn-swe/opus](../models/jpn-swe) | 0.416 | 22.6 | 0.841 | 7034
-| [jpn-tur/opus](../models/jpn-tur) | 0.434 | 16.7 | 0.932 | 4755
-| [jpn-ukr/opus](../models/jpn-ukr) | 0.111 | 0.5 | 1.000 | 2626
-| [jpn-vie/opus](../models/jpn-vie) | 0.380 | 20.3 | 0.909 | 10779
-| [jpx-eng/opus](../models/jpx-eng) | 0.434 | 22.9 | 0.923 | 89256
-| [kab-eng/opus](../models/kab-eng) | 0.125 | 0.4 | 1.000 | 60196
-| [kat-eng/opus](../models/kat-eng) | 0.538 | 37.9 | 0.991 | 5992
-| [kat-rus/opus](../models/kat-rus) | 0.604 | 38.2 | 0.996 | 3899
-| [kaz-eng/opus](../models/kaz-eng) | 0.196 | 4.9 | 0.990 | 2655
-| [khm-eng/opus](../models/khm-eng) | 0.129 | 1.3 | 1.000 | 4394
-| [khm-spa/opus](../models/khm-spa) | 0.102 | 0.1 | 1.000 | 8721
-| [kor-deu/opus](../models/kor-deu) | 0.509 | 28.4 | 0.974 | 9013
-| [kor-eng/opus](../models/kor-eng) | 0.588 | 41.3 | 0.959 | 17711
-| [kor-fin/opus](../models/kor-fin) | 0.502 | 26.6 | 0.892 | 2251
-| [kor-fra/opus](../models/kor-fra) | 0.503 | 30.4 | 0.918 | 2714
-| [kor-hun/opus](../models/kor-hun) | 0.520 | 28.6 | 0.905 | 1615
-| [kor-rus/opus](../models/kor-rus) | 0.514 | 30.3 | 0.961 | 1382
-| [kor-spa/opus](../models/kor-spa) | 0.521 | 31.3 | 0.950 | 6805
-| [kur-eng/opus](../models/kur-eng) | 0.087 | 0.1 | 0.798 | 1751
-| [lav-rus/opus](../models/lav-rus) | 0.702 | 53.3 | 0.984 | 1541
-| [lit-epo/opus](../models/lit-epo) | 0.313 | 13.0 | 1.000 | 70340
-| [lit-ita/opus](../models/lit-ita) | 0.657 | 42.2 | 0.974 | 1505
-| [lit-pol/opus](../models/lit-pol) | 0.721 | 53.6 | 0.957 | 10629
-| [lit-rus/opus](../models/lit-rus) | 0.695 | 51.7 | 0.982 | 15395
-| [lit-spa/opus](../models/lit-spa) | 0.680 | 50.5 | 0.963 | 2738
-| [lit-tur/opus](../models/lit-tur) | 0.648 | 35.8 | 0.927 | 7700
-| [ltz-eng/opus](../models/ltz-eng) | 0.123 | 0.5 | 1.000 | 1751
-| [mal-eng/opus](../models/mal-eng) | 0.599 | 42.2 | 0.965 | 5558
-| [map-eng/opus2m](../models/map-eng) | 0.165 | 3.1 | 1.000 | 17380
-| [map-eng/opus](../models/map-eng) | 0.154 | 3.6 | 1.000 | 17380
-| [map-map/opus](../models/map-map) | 0.120 | 0.0 | 1.000 | 7733
-| [mar-eng/opus](../models/mar-eng) | 0.137 | 0.4 | 1.000 | 64831
-| [mkd-eng/opus](../models/mkd-eng) | 0.680 | 54.8 | 0.985 | 65604
-| [mkd-spa/opus](../models/mkd-spa) | 0.717 | 56.5 | 0.997 | 1121
-| [mkh-eng/opus2m](../models/mkh-eng) | 0.411 | 24.0 | 1.000 | 33985
-| [mkh-eng/opus](../models/mkh-eng) | 0.407 | 24.5 | 1.000 | 33985
-| [mkh-mkh/opus2m](../models/mkh-mkh) | 0.067 | 0.2 | 1.000 | 214
-| [mkh-mkh/opus](../models/mkh-mkh) | 0.070 | 0.2 | 1.000 | 214
-| [mlt-eng/opus](../models/mlt-eng) | 0.662 | 49.3 | 1.000 | 1165
-| [mon-eng/opus](../models/mon-eng) | 0.216 | 4.2 | 1.000 | 2693
-| [mri-eng/opus](../models/mri-eng) | 0.198 | 2.4 | 1.000 | 2733
-| [msa-deu/opus](../models/msa-deu) | 0.584 | 36.5 | 0.966 | 4198
-| [msa-fra/opus](../models/msa-fra) | 0.609 | 43.7 | 0.974 | 7808
-| [msa-ita/opus](../models/msa-ita) | 0.613 | 37.8 | 0.995 | 2758
-| [msa-msa/opus](../models/msa-msa) | 0.418 | 18.6 | 1.000 | 6029
-| [mul-eng/opus2m](../models/mul-eng) | 0.518 | 34.7 | 1.000 | 72346
-| [mul-eng/opus](../models/mul-eng) | 0.518 | 34.7 | 1.000 | 72346
-| [mya-eng/opus](../models/mya-eng) | 0.144 | 0.4 | 1.000 | 1659
-| [nds-deu/opus](../models/nds-deu) | 0.303 | 5.9 | 0.919 | 74571
-| [nds-eng/opus](../models/nds-eng) | 0.238 | 4.9 | 1.000 | 17589
-| [nds-epo/opus](../models/nds-epo) | 0.137 | 0.6 | 0.863 | 17244
-| [nds-fra/opus](../models/nds-fra) | 0.200 | 3.5 | 0.976 | 5487
-| [nds-ita/opus](../models/nds-ita) | 0.211 | 3.5 | 1.000 | 1952
-| [nds-nld/opus](../models/nds-nld) | 0.316 | 9.4 | 0.943 | 11490
-| [nds-por/opus](../models/nds-por) | 0.226 | 5.2 | 0.993 | 1250
-| [nds-rus/opus](../models/nds-rus) | 0.089 | 0.3 | 0.660 | 5288
-| [nds-spa/opus](../models/nds-spa) | 0.209 | 3.9 | 0.935 | 5477
-| [ngb-eng/opus](../models/ngb-eng) | 0.090 | 1.3 | 1.000 | 42
-| [nic-eng/opus2m](../models/nic-eng) | 0.377 | 21.3 | 1.000 | 15228
-| [nic-eng/opus](../models/nic-eng) | 0.371 | 20.3 | 1.000 | 15228
-| [nld-afr/opus](../models/nld-afr) | 0.749 | 57.8 | 1.000 | 6823
-| [nld-bel/opus](../models/nld-bel) | 0.082 | 1.1 | 0.668 | 4036
-| [nld-cat/opus](../models/nld-cat) | 0.624 | 42.1 | 0.988 | 3942
-| [nld-epo/opus](../models/nld-epo) | 0.355 | 16.1 | 0.936 | 72293
-| [nld-fry/opus](../models/nld-fry) | 0.114 | 0.4 | 0.504 | 1679
-| [nld-nds/opus](../models/nld-nds) | 0.271 | 5.9 | 0.900 | 11711
-| [nld-nor/opus](../models/nld-nor) | 0.562 | 36.1 | 0.966 | 1459
-| [nld-ukr/opus](../models/nld-ukr) | 0.619 | 40.8 | 0.992 | 51674
-| [nob-ita/opus](../models/nob-ita) | 0.556 | 31.1 | 0.933 | 9118
-| [nor-dan/opus](../models/nor-dan) | 0.792 | 65.0 | 0.995 | 9865
-| [nor-deu/opus](../models/nor-deu) | 0.541 | 29.6 | 0.960 | 34575
-| [nor-epo/opus](../models/nor-epo) | 0.236 | 6.6 | 0.858 | 29015
-| [nor-fin/opus](../models/nor-fin) | 0.374 | 14.1 | 0.894 | 13066
-| [nor-fra/opus](../models/nor-fra) | 0.578 | 39.1 | 0.987 | 3205
-| [nor-nld/opus](../models/nor-nld) | 0.596 | 40.2 | 0.959 | 1535
-| [nor-nor/opus](../models/nor-nor) | 0.784 | 58.4 | 0.988 | 6351
-| [nor-pol/opus](../models/nor-pol) | 0.455 | 20.9 | 0.941 | 1828
-| [nor-rus/opus](../models/nor-rus) | 0.400 | 18.6 | 0.958 | 10671
-| [nor-spa/opus](../models/nor-spa) | 0.565 | 34.2 | 0.997 | 7311
-| [nor-swe/opus](../models/nor-swe) | 0.773 | 63.7 | 0.967 | 3672
-| [nor-ukr/opus](../models/nor-ukr) | 0.384 | 16.6 | 1.000 | 3982
-| [oci-eng/opus](../models/oci-eng) | 0.035 | 0.0 | 1.000 | 5299
-| [oci-epo/opus](../models/oci-epo) | 0.061 | 0.1 | 1.000 | 5134
-| [oci-fra/opus](../models/oci-fra) | 0.116 | 0.1 | 1.000 | 6302
-| [pes-fra/opus](../models/pes-fra) | 0.144 | 0.2 | 1.000 | 3371
-| [phi-eng/opus2m](../models/phi-eng) | 0.391 | 21.5 | 1.000 | 2380
-| [phi-eng/opus](../models/phi-eng) | 0.385 | 21.0 | 1.000 | 2380
-| [pol-ara/opus](../models/pol-ara) | 0.491 | 20.4 | 0.959 | 1028
-| [pol-epo/opus](../models/pol-epo) | 0.451 | 24.8 | 0.967 | 17191
-| [pol-lit/opus](../models/pol-lit) | 0.688 | 43.7 | 0.981 | 10084
-| [pol-nor/opus](../models/pol-nor) | 0.479 | 27.5 | 0.969 | 2045
-| [pol-ukr/opus](../models/pol-ukr) | 0.665 | 47.1 | 0.992 | 13434
-| [por-cat/opus](../models/por-cat) | 0.672 | 45.7 | 0.972 | 5878
-| [por-epo/opus](../models/por-epo) | 0.497 | 26.8 | 0.948 | 87408
-| [por-glg/opus](../models/por-glg) | 0.737 | 55.8 | 0.996 | 2989
-| [por-nds/opus](../models/por-nds) | 0.215 | 4.3 | 0.935 | 1284
-| [por-tgl/opus](../models/por-tgl) | 0.565 | 28.4 | 1.000 | 13620
-| [por-ukr/opus](../models/por-ukr) | 0.616 | 39.8 | 0.999 | 18933
-| [poz-eng/opus2m](../models/poz-eng) | 0.165 | 3.1 | 1.000 | 17380
-| [poz-eng/opus](../models/poz-eng) | 0.154 | 3.6 | 1.000 | 17380
-| [pqw-eng/opus2m](../models/pqw-eng) | 0.171 | 3.7 | 1.000 | 17380
-| [pqw-eng/opus](../models/pqw-eng) | 0.154 | 3.6 | 1.000 | 17380
-| [pra-eng/opus2m](../models/pra-eng) | 0.106 | 0.1 | 1.000 | 659
-| [pra-eng/opus](../models/pra-eng) | 0.119 | 0.1 | 1.000 | 659
-| [que-eng/opus](../models/que-eng) | 0.154 | 2.0 | 1.000 | 1693
-| [roa-eng/opus2m](../models/roa-eng) | 0.697 | 54.9 | 0.979 | 74762
-| [roa-eng/opus](../models/roa-eng) | 0.694 | 54.5 | 0.984 | 74762
-| [rom-eng/opus](../models/rom-eng) | 0.100 | 0.1 | 1.000 | 4457
-| [ron-epo/opus](../models/ron-epo) | 0.495 | 27.8 | 0.955 | 25751
-| [run-deu/opus](../models/run-deu) | 0.344 | 17.1 | 0.961 | 10562
-| [run-eng/opus](../models/run-eng) | 0.428 | 26.7 | 0.990 | 10041
-| [run-fra/opus](../models/run-fra) | 0.397 | 18.2 | 1.000 | 7496
-| [run-rus/opus](../models/run-rus) | 0.321 | 17.1 | 1.000 | 6635
-| [run-spa/opus](../models/run-spa) | 0.376 | 14.4 | 1.000 | 5167
-| [rus-afr/opus](../models/rus-afr) | 0.669 | 48.1 | 1.000 | 1390
-| [rus-ara/opus](../models/rus-ara) | 0.486 | 16.6 | 0.969 | 18878
-| [rus-bel/opus](../models/rus-bel) | 0.137 | 2.5 | 1.000 | 18895
-| [rus-bul/opus](../models/rus-bul) | 0.704 | 52.3 | 0.919 | 8272
-| [rus-chv/opus](../models/rus-chv) | 0.129 | 0.3 | 1.000 | 1982
-| [rus-dan/opus](../models/rus-dan) | 0.714 | 56.6 | 0.977 | 11746
-| [rus-epo/opus](../models/rus-epo) | 0.436 | 24.2 | 0.925 | 77197
-| [rus-est/opus](../models/rus-est) | 0.749 | 57.5 | 0.975 | 3572
-| [rus-eus/opus](../models/rus-eus) | 0.539 | 29.7 | 0.944 | 2373
-| [rus-hye/opus](../models/rus-hye) | 0.494 | 21.7 | 1.000 | 1602
-| [rus-kat/opus](../models/rus-kat) | 0.235 | 7.1 | 1.000 | 3667
-| [rus-lav/opus](../models/rus-lav) | 0.696 | 50.0 | 0.968 | 1518
-| [rus-lit/opus](../models/rus-lit) | 0.675 | 43.5 | 0.937 | 14406
-| [rus-nds/opus](../models/rus-nds) | 0.097 | 0.3 | 0.579 | 6082
-| [rus-nor/opus](../models/rus-nor) | 0.418 | 20.3 | 0.946 | 11686
-| [rus-run/opus](../models/rus-run) | 0.397 | 9.6 | 1.000 | 5040
-| [rus-slv/opus](../models/rus-slv) | 0.492 | 32.3 | 0.992 | 2135
-| [rus-swe/opus](../models/rus-swe) | 0.677 | 51.9 | 0.968 | 8449
-| [rus-tat/opus](../models/rus-tat) | 0.134 | 0.6 | 1.000 | 21002
-| [rus-ukr/opus](../models/rus-ukr) | 0.793 | 64.0 | 0.990 | 60212
-| [rus-vie/opus](../models/rus-vie) | 0.346 | 16.9 | 1.000 | 2566
-| [sal-eng/opus2m](../models/sal-eng) | 0.089 | 1.4 | 0.835 | 222
-| [sal-eng/opus](../models/sal-eng) | 0.097 | 2.2 | 0.819 | 222
-| [sal-eng/opus](../models/sal-eng) | 0.097 | 2.2 | 0.819 | 222
-| [sem-eng/opus2m](../models/sem-eng) | 0.588 | 41.7 | 0.987 | 72950
-| [sem-eng/opus](../models/sem-eng) | 0.578 | 40.6 | 0.993 | 72950
-| [sem-sem/opus2m](../models/sem-sem) | 0.510 | 27.1 | 0.972 | 13472
-| [sem-sem/opus](../models/sem-sem) | 0.507 | 27.1 | 0.972 | 13472
-| [sit-eng/opus2m](../models/sit-eng) | 0.118 | 0.3 | 1.000 | 284
-| [sit-eng/opus](../models/sit-eng) | 0.118 | 0.2 | 1.000 | 284
-| [sit-sit/opus2m](../models/sit-sit) | 0.127 | 0.5 | 1.000 | 310
-| [sit-sit/opus](../models/sit-sit) | 0.110 | 0.3 | 1.000 | 87
-| [sla-eng/opus2m](../models/sla-eng) | 0.683 | 53.2 | 0.974 | 70897
-| [sla-eng/opus](../models/sla-eng) | 0.680 | 52.8 | 0.974 | 70897
-| [sla-sla/opus](../models/sla-sla) | 0.672 | 48.5 | 1.000 | 59320
-| [slv-epo/opus](../models/slv-epo) | 0.212 | 6.4 | 1.000 | 1942
-| [slv-rus/opus](../models/slv-rus) | 0.504 | 37.3 | 0.988 | 2101
-| [slv-ukr/opus](../models/slv-ukr) | 0.236 | 10.6 | 1.000 | 3906
-| [smi-eng/opus2m](../models/smi-eng) | 0.115 | 0.3 | 1.000 | 488
-| [smi-eng/opus](../models/smi-eng) | 0.117 | 0.4 | 1.000 | 488
-| [spa-afr/opus](../models/spa-afr) | 0.718 | 55.0 | 0.974 | 3044
-| [spa-ara/opus](../models/spa-ara) | 0.517 | 20.0 | 0.939 | 7547
-| [spa-aze/opus](../models/spa-aze) | 0.336 | 7.1 | 1.000 | 912
-| [spa-bel/opus](../models/spa-bel) | 0.265 | 9.0 | 0.943 | 1259
-| [spa-bul/opus](../models/spa-bul) | 0.674 | 50.9 | 0.955 | 1707
-| [spa-cat/opus](../models/spa-cat) | 0.832 | 68.9 | 1.000 | 12343
-| [spa-epo/opus](../models/spa-epo) | 0.560 | 33.2 | 0.968 | 77048
-| [spa-eus/opus](../models/spa-eus) | 0.638 | 37.0 | 0.983 | 10945
-| [spa-gla/opus](../models/spa-gla) | 0.151 | 1.0 | 1.000 | 2014
-| [spa-glg/opus](../models/spa-glg) | 0.808 | 67.6 | 0.993 | 16581
-| [spa-grn/opus](../models/spa-grn) | 0.100 | 0.1 | 1.000 | 3089
-| [spa-isl/opus](../models/spa-isl) | 0.528 | 27.1 | 1.000 | 1220
-| [spa-khm/opus](../models/spa-khm) | 0.055 | 0.0 | 1.000 | 3391
-| [spa-lit/opus](../models/spa-lit) | 0.643 | 40.2 | 0.956 | 2341
-| [spa-mkd/opus](../models/spa-mkd) | 0.681 | 48.2 | 1.000 | 1073
-| [spa-nds/opus](../models/spa-nds) | 0.202 | 3.2 | 0.917 | 5868
-| [spa-nor/opus](../models/spa-nor) | 0.565 | 36.7 | 0.990 | 7217
-| [spa-run/opus](../models/spa-run) | 0.410 | 10.1 | 1.000 | 3886
-| [spa-tat/opus](../models/spa-tat) | 0.163 | 2.7 | 1.000 | 2002
-| [spa-tgl/opus](../models/spa-tgl) | 0.538 | 24.7 | 1.000 | 4422
-| [spa-ukr/opus](../models/spa-ukr) | 0.614 | 41.3 | 0.983 | 53833
-| [spa-vie/opus](../models/spa-vie) | 0.508 | 33.1 | 0.980 | 4654
-| [sqi-eng/opus](../models/sqi-eng) | 0.722 | 56.8 | 0.947 | 7762
-| [ssa-eng/opus](../models/ssa-eng) | 0.208 | 1.6 | 1.000 | 47
-| [swe-epo/opus](../models/swe-epo) | 0.498 | 29.7 | 0.958 | 10987
-| [swe-nor/opus](../models/swe-nor) | 0.796 | 65.8 | 0.991 | 3682
-| [swe-rus/opus](../models/swe-rus) | 0.655 | 45.9 | 0.988 | 7659
-| [tam-eng/opus](../models/tam-eng) | 0.445 | 26.7 | 1.000 | 2125
-| [tat-deu/opus](../models/tat-deu) | 0.207 | 3.0 | 0.974 | 25736
-| [tat-eng/opus](../models/tat-eng) | 0.175 | 3.3 | 1.000 | 11261
-| [tat-fra/opus](../models/tat-fra) | 0.286 | 9.0 | 1.000 | 1967
-| [tatoeba-lower/opus](../models/tatoeba-lower) | 0.437 | 23.5 | 0.999 | 66586
-| [tatoeba-lowest/opus](../models/tatoeba-lowest) | 0.447 | 24.3 | 0.994 | 70353
-| [tatoeba-zero/opus](../models/tatoeba-zero) | 0.440 | 24.0 | 1.000 | 68484
-| [tat-rus/opus](../models/tat-rus) | 0.211 | 3.5 | 0.909 | 22576
-| [tat-spa/opus](../models/tat-spa) | 0.218 | 3.9 | 1.000 | 2436
-| [tat-tur/opus](../models/tat-tur) | 0.305 | 7.1 | 1.000 | 2792
-| [tat-vie/opus](../models/tat-vie) | 0.185 | 3.8 | 1.000 | 2310
-| [tbq-eng/opus2m](../models/tbq-eng) | 0.116 | 0.2 | 1.000 | 284
-| [tbq-eng/opus](../models/tbq-eng) | 0.118 | 0.2 | 1.000 | 284
-| [tel-eng/opus](../models/tel-eng) | 0.320 | 12.3 | 1.000 | 1706
-| [tgl-deu/opus](../models/tgl-deu) | 0.473 | 22.7 | 0.969 | 2453
-| [tgl-eng/opus](../models/tgl-eng) | 0.542 | 35.0 | 0.975 | 18168
-| [tgl-fra/opus](../models/tgl-fra) | 0.485 | 27.3 | 1.000 | 6043
-| [tgl-por/opus](../models/tgl-por) | 0.522 | 28.8 | 0.981 | 12826
-| [tgl-spa/opus](../models/tgl-spa) | 0.531 | 31.6 | 0.997 | 4327
-| [tha-eng/opus](../models/tha-eng) | 0.644 | 48.1 | 0.974 | 7407
-| [trk-eng/opus2m](../models/trk-eng) | 0.304 | 12.0 | 1.000 | 18733
-| [trk-eng/opus](../models/trk-eng) | 0.254 | 7.8 | 1.000 | 18733
-| [trk-trk/opus](../models/trk-trk) | 0.291 | 7.0 | 1.000 | 45666
-| [tuk-eng/opus](../models/tuk-eng) | 0.220 | 4.0 | 1.000 | 19066
-| [tur-ara/opus](../models/tur-ara) | 0.455 | 14.9 | 0.988 | 6944
-| [tur-aze/opus](../models/tur-aze) | 0.551 | 27.7 | 1.000 | 5436
-| [tur-chv/opus](../models/tur-chv) | 0.119 | 0.2 | 1.000 | 2581
-| [tur-epo/opus](../models/tur-epo) | 0.373 | 17.0 | 0.881 | 33762
-| [tur-lit/opus](../models/tur-lit) | 0.631 | 35.6 | 0.949 | 8285
-| [tur-tat/opus](../models/tur-tat) | 0.221 | 2.5 | 1.000 | 2894
-| [tur-ukr/opus](../models/tur-ukr) | 0.624 | 42.5 | 0.983 | 12988
-| [tur-uzb/opus](../models/tur-uzb) | 0.143 | 0.5 | 1.000 | 949
-| [tut-eng/opus2m](../models/tut-eng) | 0.284 | 9.9 | 1.000 | 18813
-| [tut-eng/opus](../models/tut-eng) | 0.258 | 8.0 | 1.000 | 18813
-| [tut-tut/opus](../models/tut-tut) | 0.270 | 6.0 | 1.000 | 45709
-| [uig-eng/opus](../models/uig-eng) | 0.134 | 0.5 | 1.000 | 23090
-| [ukr-bul/opus](../models/ukr-bul) | 0.734 | 55.7 | 0.976 | 5181
-| [ukr-cat/opus](../models/ukr-cat) | 0.538 | 33.7 | 0.972 | 2670
-| [ukr-ces/opus](../models/ukr-ces) | 0.686 | 52.0 | 0.993 | 8550
-| [ukr-deu/opus](../models/ukr-deu) | 0.661 | 48.2 | 0.980 | 62298
-| [ukr-eng/opus](../models/ukr-eng) | 0.670 | 51.7 | 0.972 | 66118
-| [ukr-epo/opus](../models/ukr-epo) | 0.031 | 0.1 | 1.000 | 14983
-| [ukr-fra/opus](../models/ukr-fra) | 0.637 | 46.4 | 0.990 | 62877
-| [ukr-hbs/opus](../models/ukr-hbs) | 0.631 | 42.8 | 0.960 | 5128
-| [ukr-heb/opus](../models/ukr-heb) | 0.557 | 35.7 | 1.000 | 4765
-| [ukr-hun/opus](../models/ukr-hun) | 0.649 | 41.4 | 0.974 | 2433
-| [ukr-ita/opus](../models/ukr-ita) | 0.662 | 46.0 | 0.949 | 27846
-| [ukr-nld/opus](../models/ukr-nld) | 0.656 | 48.7 | 0.985 | 59943
-| [ukr-nor/opus](../models/ukr-nor) | 0.397 | 21.3 | 0.966 | 4378
-| [ukr-pol/opus](../models/ukr-pol) | 0.685 | 49.9 | 0.947 | 13098
-| [ukr-por/opus](../models/ukr-por) | 0.601 | 38.1 | 0.981 | 21315
-| [ukr-rus/opus](../models/ukr-rus) | 0.826 | 69.2 | 0.992 | 60387
-| [ukr-slv/opus](../models/ukr-slv) | 0.280 | 11.8 | 1.000 | 3823
-| [ukr-spa/opus](../models/ukr-spa) | 0.649 | 46.4 | 0.971 | 58486
-| [ukr-tur/opus](../models/ukr-tur) | 0.655 | 39.3 | 0.934 | 11844
-| [urd-eng/opus](../models/urd-eng) | 0.435 | 23.2 | 0.975 | 12029
-| [urd-hin/opus](../models/urd-hin) | 0.306 | 9.2 | 1.000 | 1581
-| [urj-eng/opus2m](../models/urj-eng) | 0.646 | 47.8 | 0.993 | 70882
-| [urj-eng/opus](../models/urj-eng) | 0.630 | 46.2 | 0.991 | 70882
-| [urj-urj/opus](../models/urj-urj) | 0.580 | 32.9 | 1.000 | 19444
-| [uzb-eng/opus](../models/uzb-eng) | 0.138 | 1.3 | 1.000 | 2699
-| [uzb-tur/opus](../models/uzb-tur) | 0.146 | 1.1 | 0.992 | 956
-| [vie-deu/opus](../models/vie-deu) | 0.484 | 27.6 | 0.958 | 3365
-| [vie-eng/opus](../models/vie-eng) | 0.608 | 42.8 | 0.955 | 20241
-| [vie-epo/opus](../models/vie-epo) | 0.332 | 12.2 | 0.990 | 13637
-| [vie-fra/opus](../models/vie-fra) | 0.544 | 34.2 | 0.955 | 11519
-| [vie-ita/opus](../models/vie-ita) | 0.548 | 31.2 | 0.932 | 1774
-| [vie-rus/opus](../models/vie-rus) | 0.331 | 16.9 | 0.878 | 2207
-| [vie-spa/opus](../models/vie-spa) | 0.540 | 32.9 | 0.953 | 3832
-| [vie-tat/opus](../models/vie-tat) | 0.175 | 2.2 | 0.875 | 1810
-| [war-eng/opus](../models/war-eng) | 0.308 | 12.3 | 1.000 | 11345
-| [wen-eng/opus2m](../models/wen-eng) | 0.122 | 0.2 | 1.000 | 460
-| [wen-eng/opus](../models/wen-eng) | 0.130 | 0.2 | 1.000 | 460
-| [xgn-eng/opus2m](../models/xgn-eng) | 0.184 | 1.9 | 1.000 | 4748
-| [xgn-eng/opus](../models/xgn-eng) | 0.183 | 2.2 | 1.000 | 4748
-| [xnd-eng/opus2m](../models/xnd-eng) | 0.133 | 0.3 | 1.000 | 545
-| [xnd-eng/opus](../models/xnd-eng) | 0.126 | 0.3 | 1.000 | 545
-| [yid-eng/opus](../models/yid-eng) | 0.124 | 0.1 | 1.000 | 7741
-| [yid-epo/opus](../models/yid-epo) | 0.133 | 0.1 | 1.000 | 5904
-| [zho-eng/opus](../models/zho-eng) | 0.548 | 36.1 | 0.948 | 82826
-| [zle-eng/opus2m](../models/zle-eng) | 0.656 | 50.1 | 0.970 | 69599
-| [zle-eng/opus](../models/zle-eng) | 0.640 | 48.1 | 0.974 | 69599
-| [zle-zle/opus2m](../models/zle-zle) | 0.750 | 59.2 | 0.996 | 62731
-| [zle-zle/opus](../models/zle-zle) | 0.742 | 58.0 | 1.000 | 62731
-| [zls-eng/opus2m](../models/zls-eng) | 0.676 | 53.6 | 0.980 | 68623
-| [zls-eng/opus](../models/zls-eng) | 0.668 | 52.5 | 0.979 | 68623
-| [zls-zls/opus](../models/zls-zls) | 0.563 | 26.5 | 1.000 | 58
-| [zlw-eng/opus2m](../models/zlw-eng) | 0.680 | 51.8 | 0.962 | 75742
-| [zlw-eng/opus](../models/zlw-eng) | 0.660 | 49.4 | 0.964 | 75742
-| [zlw-zlw/opus](../models/zlw-zlw) | 0.580 | 38.8 | 0.990 | 7792
+|:--|--:|--:|--:|--:|
+| [aav-aav/opus2m](../models/aav-aav) | 0.067 | 0.2 | 1.000 | 214 |
+| [aav-aav/opus](../models/aav-aav) | 0.070 | 0.2 | 1.000 | 214 |
+| [aav-eng/opus2m](../models/aav-eng) | 0.391 | 24.8 | 0.968 | 36693 |
+| [aav-eng/opus](../models/aav-eng) | 0.384 | 23.7 | 0.945 | 36693 |
+| [afa-afa/opus2m](../models/afa-afa) | 0.443 | 22.6 | 1.000 | 15215 |
+| [afa-afa/opus](../models/afa-afa) | 0.434 | 20.8 | 1.000 | 15215 |
+| [afa-eng/opus2m](../models/afa-eng) | 0.464 | 27.1 | 1.000 | 69373 |
+| [afa-eng/opus](../models/afa-eng) | 0.450 | 25.4 | 1.000 | 69373 |
+| [afr-deu/opus](../models/afr-deu) | 0.671 | 47.1 | 1.000 | 9105 |
+| [afr-eng/opus](../models/afr-eng) | 0.738 | 59.4 | 0.996 | 9622 |
+| [afr-epo/opus](../models/afr-epo) | 0.411 | 18.3 | 0.995 | 7517 |
+| [afr-nld/opus](../models/afr-nld) | 0.715 | 55.2 | 0.995 | 6710 |
+| [afr-rus/opus](../models/afr-rus) | 0.580 | 38.2 | 0.992 | 1213 |
+| [afr-spa/opus](../models/afr-spa) | 0.680 | 49.9 | 1.000 | 2783 |
+| [alv-eng/opus2m](../models/alv-eng) | 0.376 | 20.9 | 1.000 | 15208 |
+| [alv-eng/opus](../models/alv-eng) | 0.371 | 20.6 | 1.000 | 15208 |
+| [apa-eng/opus](../models/apa-eng) | 0.126 | 0.3 | 1.000 | 545 |
+| [ara-deu/opus](../models/ara-deu) | 0.629 | 44.7 | 0.986 | 8371 |
+| [ara-deu/opus](../models/ara-deu) | 0.630 | 44.5 | 0.982 | 8371 |
+| [ara-ell/opus](../models/ara-ell) | 0.636 | 43.9 | 0.993 | 2009 |
+| [ara-ell/opus](../models/ara-ell) | 0.633 | 42.6 | 1.000 | 2009 |
+| [ara-eng/opus](../models/ara-eng) | 0.617 | 44.9 | 0.984 | 73977 |
+| [ara-epo/opus](../models/ara-epo) | 0.376 | 18.9 | 0.948 | 4506 |
+| [ara-fra/opus](../models/ara-fra) | 0.562 | 39.8 | 0.994 | 11066 |
+| [ara-heb/opus](../models/ara-heb) | 0.605 | 40.4 | 1.000 | 6801 |
+| [ara-ita/opus](../models/ara-ita) | 0.658 | 44.2 | 0.989 | 1495 |
+| [ara-pol/opus](../models/ara-pol) | 0.623 | 38.0 | 0.948 | 1171 |
+| [ara-rus/opus](../models/ara-rus) | 0.605 | 42.5 | 0.970 | 21830 |
+| [ara-spa/opus](../models/ara-spa) | 0.641 | 46.0 | 0.962 | 9708 |
+| [ara-tur/opus](../models/ara-tur) | 0.619 | 33.1 | 0.957 | 6949 |
+| [art-art/opus2m](../models/art-art) | 0.128 | 0.1 | 1.000 | 63561 |
+| [art-art/opus](../models/art-art) | 0.127 | 0.1 | 1.000 | 63561 |
+| [art-eng/opus2m](../models/art-eng) | 0.287 | 11.6 | 1.000 | 73037 |
+| [art-eng/opus](../models/art-eng) | 0.284 | 11.6 | 1.000 | 73037 |
+| [ath-eng/opus2m](../models/ath-eng) | 0.133 | 0.3 | 1.000 | 545 |
+| [ath-eng/opus](../models/ath-eng) | 0.126 | 0.3 | 1.000 | 545 |
+| [aze-eng/opus](../models/aze-eng) | 0.490 | 31.9 | 0.997 | 16165 |
+| [aze-spa/opus](../models/aze-spa) | 0.346 | 11.8 | 1.000 | 1144 |
+| [aze-tur/opus](../models/aze-tur) | 0.529 | 24.4 | 0.956 | 5380 |
+| [bat-bat/opus2m](../models/bat-bat) | 0.493 | 19.0 | 1.000 | 60 |
+| [bat-bat/opus](../models/bat-bat) | 0.472 | 8.8 | 1.000 | 60 |
+| [bat-eng/opus2m](../models/bat-eng) | 0.662 | 50.6 | 0.989 | 30772 |
+| [bat-eng/opus](../models/bat-eng) | 0.643 | 48.2 | 0.983 | 30772 |
+| [bel-deu/opus](../models/bel-deu) | 0.102 | 0.8 | 0.516 | 4175 |
+| [bel-eng/opus](../models/bel-eng) | 0.268 | 10.0 | 0.881 | 18571 |
+| [bel-epo/opus](../models/bel-epo) | 0.028 | 0.0 | 1.000 | 5452 |
+| [bel-fra/opus](../models/bel-fra) | 0.106 | 1.2 | 0.490 | 2005 |
+| [bel-ita/opus](../models/bel-ita) | 0.097 | 0.7 | 0.611 | 1681 |
+| [bel-nld/opus](../models/bel-nld) | 0.107 | 0.7 | 0.545 | 4809 |
+| [bel-pol/opus](../models/bel-pol) | 0.081 | 0.8 | 0.447 | 1706 |
+| [bel-rus/opus](../models/bel-rus) | 0.141 | 2.7 | 1.000 | 18895 |
+| [bel+rus+ukr-bel+rus+ukr/opus](../models/bel+rus+ukr-bel+rus+ukr) | 0.760 | 59.5 | 0.993 | 63391 |
+| [bel-spa/opus](../models/bel-spa) | 0.272 | 11.8 | 0.892 | 1412 |
+| [bel-ukr/opus](../models/bel-ukr) | 0.122 | 3.7 | 0.832 | 15179 |
+| [ben-eng/opus](../models/ben-eng) | 0.641 | 49.7 | 0.976 | 13978 |
+| [ber-eng/opus2m](../models/ber-eng) | 0.147 | 0.4 | 1.000 | 60161 |
+| [ber-eng/opus](../models/ber-eng) | 0.120 | 0.2 | 1.000 | 60161 |
+| [bnt-eng/opus2m](../models/bnt-eng) | 0.394 | 23.1 | 1.000 | 14565 |
+| [bnt-eng/opus](../models/bnt-eng) | 0.389 | 22.5 | 1.000 | 14565 |
+| [bre-eng/opus](../models/bre-eng) | 0.256 | 8.3 | 1.000 | 2065 |
+| [bre-fra/opus](../models/bre-fra) | 0.233 | 5.6 | 0.948 | 13343 |
+| [bul-deu/opus](../models/bul-deu) | 0.676 | 49.3 | 1.000 | 2218 |
+| [bul-eng/opus](../models/bul-eng) | 0.721 | 58.3 | 0.983 | 71872 |
+| [bul-epo/opus](../models/bul-epo) | 0.438 | 24.5 | 0.967 | 4043 |
+| [bul-fra/opus](../models/bul-fra) | 0.693 | 53.7 | 0.977 | 3669 |
+| [bul-ita/opus](../models/bul-ita) | 0.653 | 43.1 | 0.987 | 16951 |
+| [bul-rus/opus](../models/bul-rus) | 0.691 | 48.5 | 1.000 | 7870 |
+| [bul-spa/opus](../models/bul-spa) | 0.661 | 49.1 | 0.992 | 1783 |
+| [bul-tur/opus](../models/bul-tur) | 0.687 | 40.9 | 0.946 | 4948 |
+| [bul-ukr/opus](../models/bul-ukr) | 0.683 | 49.2 | 0.983 | 4932 |
+| [cat-deu/opus](../models/cat-deu) | 0.593 | 39.5 | 1.000 | 5643 |
+| [cat-eng/opus](../models/cat-eng) | 0.668 | 50.2 | 0.958 | 12627 |
+| [cat-epo/opus](../models/cat-epo) | 0.028 | 0.0 | 1.000 | 5383 |
+| [cat-fra/opus](../models/cat-fra) | 0.694 | 52.4 | 0.987 | 5517 |
+| [cat-ita/opus](../models/cat-ita) | 0.690 | 48.6 | 0.985 | 1995 |
+| [cat-nld/opus](../models/cat-nld) | 0.632 | 45.1 | 0.965 | 4157 |
+| [cat-por/opus](../models/cat-por) | 0.658 | 44.9 | 0.953 | 5847 |
+| [cat-spa/opus](../models/cat-spa) | 0.856 | 73.9 | 0.993 | 12094 |
+| [cat-ukr/opus](../models/cat-ukr) | 0.503 | 28.6 | 0.967 | 2438 |
+| [cau-eng/opus2m](../models/cau-eng) | 0.351 | 16.6 | 1.000 | 6285 |
+| [cau-eng/opus](../models/cau-eng) | 0.340 | 15.0 | 1.000 | 6285 |
+| [ccn-eng/opus2m](../models/ccn-eng) | 0.117 | 0.4 | 1.000 | 293 |
+| [ccn-eng/opus](../models/ccn-eng) | 0.115 | 0.4 | 1.000 | 293 |
+| [ccs-eng/opus2m](../models/ccs-eng) | 0.357 | 18.0 | 1.000 | 5992 |
+| [ccs-eng/opus](../models/ccs-eng) | 0.311 | 13.9 | 1.000 | 5992 |
+| [cdc-eng/opus](../models/cdc-eng) | 0.355 | 6.0 | 1.000 | 379 |
+| [ceb-deu/opus](../models/ceb-deu) | 0.310 | 9.9 | 0.920 | 7376 |
+| [ceb-eng/opus](../models/ceb-eng) | 0.387 | 21.5 | 1.000 | 2293 |
+| [cel-cel/opus2m](../models/cel-cel) | 0.144 | 1.1 | 1.000 | 234 |
+| [cel-cel/opus](../models/cel-cel) | 0.145 | 0.9 | 1.000 | 234 |
+| [cel-eng/opus2m](../models/cel-eng) | 0.398 | 22.8 | 1.000 | 42097 |
+| [cel-eng/opus](../models/cel-eng) | 0.387 | 21.7 | 1.000 | 42097 |
+| [ces-epo/opus](../models/ces-epo) | 0.459 | 26.0 | 0.940 | 24901 |
+| [ces-ukr/opus](../models/ces-ukr) | 0.680 | 50.9 | 0.994 | 8891 |
+| [cha-eng/opus](../models/cha-eng) | 0.113 | 0.1 | 1.000 | 1212 |
+| [chv-eng/opus](../models/chv-eng) | 0.120 | 0.1 | 1.000 | 2240 |
+| [chv-rus/opus](../models/chv-rus) | 0.112 | 0.5 | 0.965 | 2288 |
+| [chv-tur/opus](../models/chv-tur) | 0.114 | 0.1 | 1.000 | 2573 |
+| [cpf-eng/opus2m](../models/cpf-eng) | 0.323 | 16.3 | 1.000 | 990 |
+| [cpf-eng/opus](../models/cpf-eng) | 0.334 | 16.1 | 1.000 | 990 |
+| [cpp-cpp/opus2m](../models/cpp-cpp) | 0.539 | 44.9 | 1.000 | 18 |
+| [cpp-cpp/opus](../models/cpp-cpp) | 0.369 | 21.1 | 0.882 | 18 |
+| [cpp-eng/opus2m](../models/cpp-eng) | 0.580 | 39.7 | 0.972 | 37399 |
+| [cpp-eng/opus](../models/cpp-eng) | 0.570 | 38.4 | 0.967 | 37399 |
+| [cus-eng/opus2m](../models/cus-eng) | 0.248 | 13.1 | 1.000 | 3 |
+| [cus-eng/opus](../models/cus-eng) | 0.303 | 16.2 | 1.000 | 3 |
+| [cym-eng/opus](../models/cym-eng) | 0.535 | 35.6 | 1.000 | 5563 |
+| [dan-epo/opus](../models/dan-epo) | 0.432 | 23.6 | 0.942 | 69856 |
+| [dan-rus/opus](../models/dan-rus) | 0.715 | 52.5 | 0.991 | 10480 |
+| [deu-afr/opus](../models/deu-afr) | 0.690 | 51.3 | 1.000 | 9507 |
+| [deu-ara/opus](../models/deu-ara) | 0.486 | 19.7 | 0.993 | 6324 |
+| [deu-ara/opus](../models/deu-ara) | 0.486 | 17.8 | 0.967 | 6324 |
+| [deu-bul/opus](../models/deu-bul) | 0.683 | 50.7 | 0.980 | 2032 |
+| [deu-cat/opus](../models/deu-cat) | 0.582 | 37.4 | 0.956 | 5507 |
+| [deu-ceb/opus](../models/deu-ceb) | 0.413 | 9.3 | 1.000 | 6330 |
+| [deu-eng/opus](../models/deu-eng) | 0.693 | 53.1 | 0.975 | 81233 |
+| [deu-epo/opus](../models/deu-epo) | 0.453 | 24.1 | 0.938 | 87063 |
+| [deu-eus/opus](../models/deu-eus) | 0.574 | 31.8 | 0.921 | 2829 |
+| [deu-fas/opus](../models/deu-fas) | 0.139 | 0.3 | 1.000 | 24941 |
+| [deu-hsb/opus](../models/deu-hsb) | 0.078 | 0.2 | 0.673 | 3903 |
+| [deu-isl/opus](../models/deu-isl) | 0.533 | 27.1 | 0.962 | 5939 |
+| [deu-msa/opus](../models/deu-msa) | 0.607 | 34.0 | 0.954 | 3729 |
+| [deu-nds/opus](../models/deu-nds) | 0.287 | 6.4 | 0.914 | 76144 |
+| [deu-nor/opus](../models/deu-nor) | 0.554 | 33.2 | 0.956 | 32928 |
+| [deu-run/opus](../models/deu-run) | 0.366 | 7.8 | 1.000 | 6954 |
+| [deu-tat/opus](../models/deu-tat) | 0.138 | 0.9 | 1.000 | 21331 |
+| [deu-tgl/opus](../models/deu-tgl) | 0.541 | 21.2 | 1.000 | 2329 |
+| [deu-ukr/opus](../models/deu-ukr) | 0.612 | 40.2 | 0.984 | 54213 |
+| [deu-vie/opus](../models/deu-vie) | 0.443 | 25.0 | 1.000 | 3768 |
+| [dmn-eng/opus2m](../models/dmn-eng) | 0.124 | 1.2 | 1.000 | 20 |
+| [dmn-eng/opus](../models/dmn-eng) | 0.064 | 5.2 | 1.000 | 20 |
+| [dra-eng/opus2m](../models/dra-eng) | 0.493 | 30.0 | 1.000 | 10641 |
+| [dra-eng/opus](../models/dra-eng) | 0.443 | 25.5 | 1.000 | 10641 |
+| [ell-ara/opus](../models/ell-ara) | 0.486 | 21.9 | 0.974 | 1686 |
+| [ell-ara/opus](../models/ell-ara) | 0.485 | 21.9 | 0.972 | 1686 |
+| [ell-epo/opus](../models/ell-epo) | 0.517 | 32.4 | 0.979 | 3807 |
+| [eng-aav/opus2m](../models/eng-aav) | 0.307 | 14.8 | 1.000 | 38261 |
+| [eng-aav/opus](../models/eng-aav) | 0.311 | 16.1 | 1.000 | 38261 |
+| [eng-afa/opus2m](../models/eng-afa) | 0.375 | 14.4 | 1.000 | 58110 |
+| [eng-afa/opus](../models/eng-afa) | 0.363 | 13.7 | 1.000 | 58110 |
+| [eng-afr/opus](../models/eng-afr) | 0.728 | 54.5 | 0.965 | 10317 |
+| [eng-alv/opus2m](../models/eng-alv) | 0.429 | 11.4 | 1.000 | 10603 |
+| [eng-alv/opus](../models/eng-alv) | 0.430 | 11.2 | 1.000 | 10603 |
+| [eng-apa/opus](../models/eng-apa) | 0.101 | 0.5 | 1.000 | 388 |
+| [eng-ara/opus](../models/eng-ara) | 0.437 | 14.0 | 1.000 | 58935 |
+| [eng-art/opus2m](../models/eng-art) | 0.274 | 9.9 | 1.000 | 69567 |
+| [eng-art/opus](../models/eng-art) | 0.271 | 9.2 | 1.000 | 69567 |
+| [eng-ath/opus2m](../models/eng-ath) | 0.120 | 0.2 | 1.000 | 388 |
+| [eng-ath/opus](../models/eng-ath) | 0.111 | 0.4 | 1.000 | 388 |
+| [eng-aze/opus](../models/eng-aze) | 0.477 | 18.6 | 1.000 | 13012 |
+| [eng-bat/opus2m](../models/eng-bat) | 0.616 | 37.0 | 0.956 | 26417 |
+| [eng-bat/opus](../models/eng-bat) | 0.599 | 35.1 | 0.954 | 26417 |
+| [eng-bel/opus](../models/eng-bel) | 0.261 | 8.2 | 0.918 | 16237 |
+| [eng-ben/opus](../models/eng-ben) | 0.484 | 16.9 | 1.000 | 11654 |
+| [eng-ber/opus2m](../models/eng-ber) | 0.134 | 0.2 | 1.000 | 54400 |
+| [eng-ber/opus](../models/eng-ber) | 0.097 | 0.1 | 1.000 | 54400 |
+| [eng-bnt/opus2m](../models/eng-bnt) | 0.446 | 12.1 | 1.000 | 9989 |
+| [eng-bnt/opus](../models/eng-bnt) | 0.449 | 12.1 | 1.000 | 9989 |
+| [eng-bre/opus](../models/eng-bre) | 0.233 | 4.2 | 0.802 | 2269 |
+| [eng-bul/opus](../models/eng-bul) | 0.680 | 50.6 | 0.960 | 69504 |
+| [eng-cat/opus](../models/eng-cat) | 0.659 | 46.5 | 0.984 | 12344 |
+| [eng-cau/opus2m](../models/eng-cau) | 0.146 | 3.3 | 1.000 | 4741 |
+| [eng-cau/opus](../models/eng-cau) | 0.056 | 0.5 | 0.909 | 4741 |
+| [eng-ccn/opus2m](../models/eng-ccn) | 0.089 | 0.5 | 1.000 | 268 |
+| [eng-ccn/opus](../models/eng-ccn) | 0.080 | 0.4 | 1.000 | 268 |
+| [eng-ccs/opus2m](../models/eng-ccs) | 0.164 | 4.7 | 1.000 | 4473 |
+| [eng-ccs/opus](../models/eng-ccs) | 0.161 | 4.5 | 1.000 | 4473 |
+| [eng-cdc/opus](../models/eng-cdc) | 0.355 | 6.0 | 1.000 | 379 |
+| [eng-ceb/opus](../models/eng-ceb) | 0.432 | 11.3 | 1.000 | 2088 |
+| [eng-cel/opus2m](../models/eng-cel) | 0.342 | 18.0 | 0.959 | 45370 |
+| [eng-cel/opus](../models/eng-cel) | 0.329 | 16.5 | 1.000 | 45370 |
+| [eng-cha/opus](../models/eng-cha) | 0.109 | 0.1 | 1.000 | 1080 |
+| [eng-chv/opus](../models/eng-chv) | 0.118 | 0.2 | 1.000 | 1716 |
+| [eng-cpf/opus2m](../models/eng-cpf) | 0.344 | 14.1 | 1.000 | 1012 |
+| [eng-cpf/opus](../models/eng-cpf) | 0.354 | 15.9 | 1.000 | 1012 |
+| [eng-cpp/opus2m](../models/eng-cpp) | 0.574 | 32.7 | 0.996 | 34010 |
+| [eng-cpp/opus](../models/eng-cpp) | 0.567 | 31.5 | 1.000 | 34010 |
+| [eng-cus/opus2m](../models/eng-cus) | 0.173 | 16.0 | 1.000 | 3 |
+| [eng-cus/opus](../models/eng-cus) | 0.199 | 8.1 | 1.000 | 3 |
+| [eng-cym/opus](../models/eng-cym) | 0.499 | 27.4 | 0.968 | 6020 |
+| [eng-dmn/opus2m](../models/eng-dmn) | 0.037 | 3.0 | 1.000 | 22 |
+| [eng-dmn/opus](../models/eng-dmn) | 0.007 | 0.3 | 1.000 | 22 |
+| [eng-dra/opus2m](../models/eng-dra) | 0.463 | 10.5 | 1.000 | 7928 |
+| [eng-dra/opus](../models/eng-dra) | 0.463 | 10.7 | 1.000 | 7928 |
+| [eng-epo/opus](../models/eng-epo) | 0.577 | 35.6 | 0.973 | 76439 |
+| [eng-esx/opus2m](../models/eng-esx) | 0.162 | 0.6 | 1.000 | 248 |
+| [eng-esx/opus](../models/eng-esx) | 0.207 | 1.7 | 1.000 | 248 |
+| [eng-euq/opus](../models/eng-euq) | 0.555 | 27.9 | 0.917 | 7080 |
+| [eng-eus/opus](../models/eng-eus) | 0.590 | 31.8 | 0.944 | 7080 |
+| [eng-fas/opus](../models/eng-fas) | 0.132 | 0.7 | 1.000 | 31135 |
+| [eng-fiu/opus2m](../models/eng-fiu) | 0.590 | 35.4 | 0.944 | 59311 |
+| [eng-fiu/opus](../models/eng-fiu) | 0.578 | 33.8 | 0.942 | 59311 |
+| [eng-fry/opus](../models/eng-fry) | 0.202 | 4.7 | 0.895 | 1529 |
+| [eng-gem/opus2m](../models/eng-gem) | 0.641 | 46.5 | 0.979 | 73328 |
+| [eng-gem/opus](../models/eng-gem) | 0.636 | 46.0 | 0.983 | 73328 |
+| [eng-gla/opus](../models/eng-gla) | 0.159 | 0.4 | 1.000 | 7072 |
+| [eng-gle/opus](../models/eng-gle) | 0.593 | 37.5 | 1.000 | 12200 |
+| [eng-glg/opus](../models/eng-glg) | 0.593 | 37.8 | 0.976 | 7830 |
+| [eng-gmq/opus2m](../models/eng-gmq) | 0.688 | 52.8 | 0.973 | 71881 |
+| [eng-gmq/opus](../models/eng-gmq) | 0.683 | 52.3 | 0.973 | 71881 |
+| [eng-gmw/opus2m](../models/eng-gmw) | 0.609 | 41.6 | 0.989 | 74922 |
+| [eng-gmw/opus](../models/eng-gmw) | 0.599 | 40.6 | 0.992 | 74922 |
+| [eng-grk/opus2m](../models/eng-grk) | 0.677 | 45.6 | 1.000 | 59951 |
+| [eng-grk/opus](../models/eng-grk) | 0.649 | 38.2 | 1.000 | 59951 |
+| [eng-hin/opus](../models/eng-hin) | 0.447 | 16.1 | 1.000 | 32904 |
+| [eng-hye/opus](../models/eng-hye) | 0.404 | 16.6 | 1.000 | 5115 |
+| [eng-iir/opus2m](../models/eng-iir) | 0.392 | 13.7 | 1.000 | 63351 |
+| [eng-iir/opus](../models/eng-iir) | 0.384 | 13.3 | 1.000 | 63351 |
+| [eng-ilo/opus](../models/eng-ilo) | 0.569 | 30.8 | 1.000 | 7241 |
+| [eng-inc/opus2m](../models/eng-inc) | 0.448 | 17.3 | 1.000 | 59917 |
+| [eng-inc/opus](../models/eng-inc) | 0.436 | 16.6 | 1.000 | 59917 |
+| [eng-ine/opus2m](../models/eng-ine) | 0.539 | 32.6 | 0.973 | 68664 |
+| [eng-ine/opus](../models/eng-ine) | 0.533 | 32.0 | 0.973 | 68664 |
+| [eng-ira/opus2m](../models/eng-ira) | 0.160 | 1.1 | 1.000 | 36937 |
+| [eng-ira/opus](../models/eng-ira) | 0.161 | 1.0 | 1.000 | 36937 |
+| [eng-iro/opus2m](../models/eng-iro) | 0.015 | 0.1 | 1.000 | 454 |
+| [eng-iro/opus](../models/eng-iro) | 0.015 | 0.1 | 1.000 | 454 |
+| [eng-isl/opus](../models/eng-isl) | 0.516 | 24.7 | 0.935 | 18999 |
+| [eng-itc/opus2m](../models/eng-itc) | 0.588 | 38.0 | 0.967 | 73951 |
+| [eng-itc/opus](../models/eng-itc) | 0.585 | 37.5 | 0.963 | 73951 |
+| [eng-jpx/opus](../models/eng-jpx) | 0.226 | 0.0 | 1.000 | 10079 |
+| [eng-kab/opus](../models/eng-kab) | 0.113 | 0.2 | 1.000 | 54472 |
+| [eng-kat/opus](../models/eng-kat) | 0.157 | 5.1 | 1.000 | 4473 |
+| [eng-kaz/opus](../models/eng-kaz) | 0.181 | 3.1 | 0.825 | 2151 |
+| [eng-khm/opus](../models/eng-khm) | 0.103 | 0.1 | 1.000 | 1737 |
+| [eng-kur/opus](../models/eng-kur) | 0.026 | 0.0 | 0.008 | 1723 |
+| [eng-ltz/opus](../models/eng-ltz) | 0.123 | 0.5 | 0.938 | 1733 |
+| [eng-mal/opus](../models/eng-mal) | 0.497 | 11.7 | 0.966 | 4265 |
+| [eng-map/opus2m](../models/eng-map) | 0.411 | 17.0 | 1.000 | 66963 |
+| [eng-map/opus](../models/eng-map) | 0.411 | 17.6 | 1.000 | 66963 |
+| [eng-mar/opus](../models/eng-mar) | 0.110 | 0.7 | 1.000 | 58672 |
+| [eng-mkd/opus](../models/eng-mkd) | 0.641 | 45.1 | 0.975 | 61969 |
+| [eng-mkh/opus2m](../models/eng-mkh) | 0.322 | 14.9 | 1.000 | 34734 |
+| [eng-mkh/opus](../models/eng-mkh) | 0.330 | 16.5 | 1.000 | 34734 |
+| [eng-mlt/opus](../models/eng-mlt) | 0.579 | 20.0 | 1.000 | 899 |
+| [eng-mon/opus](../models/eng-mon) | 0.173 | 2.2 | 0.972 | 2385 |
+| [eng-mri/opus](../models/eng-mri) | 0.257 | 4.8 | 1.000 | 3742 |
+| [eng-mul/opus2m](../models/eng-mul) | 0.451 | 22.4 | 0.987 | 68724 |
+| [eng-mul/opus](../models/eng-mul) | 0.434 | 19.1 | 1.000 | 68724 |
+| [eng-mya/opus](../models/eng-mya) | 0.069 | 0.2 | 1.000 | 1208 |
+| [eng-myn/opus2m](../models/eng-myn) | 0.125 | 0.3 | 1.000 | 89 |
+| [eng-myn/opus](../models/eng-myn) | 0.132 | 0.3 | 1.000 | 89 |
+| [eng-nds/opus](../models/eng-nds) | 0.205 | 2.8 | 1.000 | 18264 |
+| [eng-ngb/opus](../models/eng-ngb) | 0.147 | 3.7 | 1.000 | 47 |
+| [eng-nic/opus2m](../models/eng-nic) | 0.430 | 11.1 | 1.000 | 10625 |
+| [eng-nic/opus](../models/eng-nic) | 0.427 | 11.1 | 1.000 | 10625 |
+| [eng-oci/opus](../models/eng-oci) | 0.036 | 0.0 | 0.229 | 5219 |
+| [eng-phi/opus2m](../models/eng-phi) | 0.392 | 13.1 | 1.000 | 30022 |
+| [eng-phi/opus](../models/eng-phi) | 0.391 | 12.8 | 1.000 | 30022 |
+| [eng-poz/opus2m](../models/eng-poz) | 0.405 | 16.2 | 1.000 | 66803 |
+| [eng-poz/opus](../models/eng-poz) | 0.410 | 16.2 | 1.000 | 66803 |
+| [eng-pqe/opus2m](../models/eng-pqe) | 0.306 | 11.3 | 1.000 | 5786 |
+| [eng-pqe/opus](../models/eng-pqe) | 0.304 | 10.3 | 1.000 | 5786 |
+| [eng-pqw/opus2m](../models/eng-pqw) | 0.422 | 17.5 | 1.000 | 66758 |
+| [eng-pqw/opus](../models/eng-pqw) | 0.418 | 17.2 | 1.000 | 66758 |
+| [eng-pra/opus2m](../models/eng-pra) | 0.098 | 0.1 | 1.000 | 389 |
+| [eng-pra/opus](../models/eng-pra) | 0.095 | 0.1 | 1.000 | 389 |
+| [eng-que/opus](../models/eng-que) | 0.186 | 0.4 | 1.000 | 1083 |
+| [eng-roa/opus2m](../models/eng-roa) | 0.636 | 42.9 | 0.978 | 72751 |
+| [eng-roa/opus](../models/eng-roa) | 0.633 | 42.6 | 0.969 | 72751 |
+| [eng-rom/opus](../models/eng-rom) | 0.134 | 0.1 | 1.000 | 4974 |
+| [eng-run/opus](../models/eng-run) | 0.436 | 10.4 | 1.000 | 6710 |
+| [eng-sal/opus2m](../models/eng-sal) | 0.073 | 1.7 | 1.000 | 199 |
+| [eng-sal/opus](../models/eng-sal) | 0.072 | 1.1 | 1.000 | 199 |
+| [eng-sal/opus](../models/eng-sal) | 0.072 | 1.1 | 1.000 | 199 |
+| [eng-sem/opus2m](../models/eng-sem) | 0.486 | 23.5 | 1.000 | 59258 |
+| [eng-sem/opus](../models/eng-sem) | 0.480 | 22.7 | 1.000 | 59258 |
+| [eng-sit/opus2m](../models/eng-sit) | 0.223 | 25.7 | 0.907 | 109538 |
+| [eng-sit/opus](../models/eng-sit) | 0.111 | 0.0 | 1.000 | 11146 |
+| [eng-sla/opus2m](../models/eng-sla) | 0.610 | 41.0 | 0.976 | 64809 |
+| [eng-sla/opus](../models/eng-sla) | 0.604 | 40.3 | 0.975 | 64809 |
+| [eng-smi/opus2m](../models/eng-smi) | 0.106 | 0.4 | 1.000 | 471 |
+| [eng-smi/opus](../models/eng-smi) | 0.106 | 0.4 | 1.000 | 471 |
+| [eng-sqi/opus](../models/eng-sqi) | 0.671 | 46.0 | 0.993 | 7880 |
+| [eng-ssa/opus](../models/eng-ssa) | 0.165 | 1.0 | 1.000 | 42 |
+| [eng-tam/opus](../models/eng-tam) | 0.412 | 8.0 | 1.000 | 1501 |
+| [eng-tat/opus](../models/eng-tat) | 0.170 | 2.0 | 1.000 | 8908 |
+| [eng-taw/opus2m](../models/eng-taw) | 0.522 | 1.2 | 1.000 | 1652 |
+| [eng-taw/opus](../models/eng-taw) | 0.504 | 1.8 | 1.000 | 1652 |
+| [eng-tbq/opus2m](../models/eng-tbq) | 0.136 | 0.1 | 1.000 | 85 |
+| [eng-tbq/opus](../models/eng-tbq) | 0.128 | 0.3 | 1.000 | 85 |
+| [eng-tel/opus](../models/eng-tel) | 0.285 | 4.1 | 1.000 | 1208 |
+| [eng-tgl/opus](../models/eng-tgl) | 0.571 | 26.5 | 1.000 | 17801 |
+| [eng-tha/opus](../models/eng-tha) | 0.544 | 1.9 | 1.000 | 1596 |
+| [eng-trk/opus2m](../models/eng-trk) | 0.455 | 19.9 | 1.000 | 57072 |
+| [eng-trk/opus](../models/eng-trk) | 0.447 | 18.8 | 1.000 | 57072 |
+| [eng-tuk/opus](../models/eng-tuk) | 0.170 | 1.0 | 0.990 | 15504 |
+| [eng-tup/opus2m](../models/eng-tup) | 0.095 | 0.1 | 1.000 | 1545 |
+| [eng-tup/opus](../models/eng-tup) | 0.102 | 0.1 | 1.000 | 1545 |
+| [eng-tut/opus2m](../models/eng-tut) | 0.451 | 19.5 | 1.000 | 57472 |
+| [eng-tut/opus](../models/eng-tut) | 0.441 | 18.6 | 1.000 | 57472 |
+| [eng-uig/opus](../models/eng-uig) | 0.132 | 0.0 | 1.000 | 15757 |
+| [eng-ukr/opus](../models/eng-ukr) | 0.594 | 38.5 | 0.977 | 60756 |
+| [eng-urd/opus](../models/eng-urd) | 0.390 | 12.1 | 1.000 | 12155 |
+| [eng-urj/opus2m](../models/eng-urj) | 0.588 | 35.1 | 0.943 | 59664 |
+| [eng-urj/opus](../models/eng-urj) | 0.572 | 33.3 | 0.940 | 59664 |
+| [eng-uzb/opus](../models/eng-uzb) | 0.151 | 0.2 | 1.000 | 2012 |
+| [eng-vie/opus](../models/eng-vie) | 0.542 | 37.2 | 0.973 | 24427 |
+| [eng-war/opus](../models/eng-war) | 0.390 | 9.7 | 1.000 | 11027 |
+| [eng-wen/opus2m](../models/eng-wen) | 0.107 | 0.2 | 1.000 | 391 |
+| [eng-wen/opus](../models/eng-wen) | 0.100 | 0.2 | 1.000 | 391 |
+| [eng-xgn/opus2m](../models/eng-xgn) | 0.157 | 1.9 | 1.000 | 4140 |
+| [eng-xgn/opus](../models/eng-xgn) | 0.149 | 1.7 | 1.000 | 4140 |
+| [eng-xnd/opus2m](../models/eng-xnd) | 0.120 | 0.2 | 1.000 | 388 |
+| [eng-xnd/opus](../models/eng-xnd) | 0.111 | 0.4 | 1.000 | 388 |
+| [eng-yid/opus](../models/eng-yid) | 0.120 | 0.2 | 1.000 | 8094 |
+| [eng-zho/opus](../models/eng-zho) | 0.268 | 31.4 | 0.896 | 110468 |
+| [eng-zle/opus2m](../models/eng-zle) | 0.580 | 37.2 | 0.989 | 63493 |
+| [eng-zle/opus](../models/eng-zle) | 0.564 | 35.3 | 0.989 | 63493 |
+| [eng-zls/opus2m](../models/eng-zls) | 0.622 | 42.7 | 0.969 | 64788 |
+| [eng-zls/opus](../models/eng-zls) | 0.615 | 41.9 | 0.966 | 64788 |
+| [eng-zlw/opus2m](../models/eng-zlw) | 0.632 | 42.8 | 0.973 | 65397 |
+| [eng-zlw/opus](../models/eng-zlw) | 0.616 | 40.9 | 0.974 | 65397 |
+| [epo-afr/opus](../models/epo-afr) | 0.369 | 19.5 | 0.957 | 8432 |
+| [epo-ara/opus](../models/epo-ara) | 0.310 | 6.2 | 0.906 | 3591 |
+| [epo-bul/opus](../models/epo-bul) | 0.395 | 19.0 | 0.891 | 3961 |
+| [epo-cat/opus](../models/epo-cat) | 0.031 | 0.0 | 1.000 | 5545 |
+| [epo-ces/opus](../models/epo-ces) | 0.376 | 17.5 | 0.922 | 22148 |
+| [epo-dan/opus](../models/epo-dan) | 0.407 | 21.6 | 0.936 | 72349 |
+| [epo-deu/opus](../models/epo-deu) | 0.413 | 19.9 | 0.902 | 92868 |
+| [epo-ell/opus](../models/epo-ell) | 0.438 | 23.2 | 0.916 | 3892 |
+| [epo-eng/opus](../models/epo-eng) | 0.558 | 36.4 | 0.941 | 79719 |
+| [epo-fas/opus](../models/epo-fas) | 0.140 | 0.7 | 1.000 | 20095 |
+| [epo-fin/opus](../models/epo-fin) | 0.371 | 15.9 | 0.894 | 15881 |
+| [epo-fra/opus](../models/epo-fra) | 0.468 | 25.4 | 0.928 | 84797 |
+| [epo-glg/opus](../models/epo-glg) | 0.099 | 0.3 | 0.517 | 2236 |
+| [epo-hbs/opus](../models/epo-hbs) | 0.351 | 13.6 | 0.888 | 17999 |
+| [epo-heb/opus](../models/epo-heb) | 0.306 | 11.5 | 0.943 | 65645 |
+| [epo-hun/opus](../models/epo-hun) | 0.333 | 12.8 | 0.914 | 65704 |
+| [epo-isl/opus](../models/epo-isl) | 0.254 | 8.0 | 1.000 | 1553 |
+| [epo-ita/opus](../models/epo-ita) | 0.465 | 23.8 | 0.942 | 67118 |
+| [epo-lit/opus](../models/epo-lit) | 0.280 | 7.5 | 0.877 | 62528 |
+| [epo-nds/opus](../models/epo-nds) | 0.126 | 0.3 | 1.000 | 18330 |
+| [epo-nld/opus](../models/epo-nld) | 0.337 | 15.3 | 0.864 | 78770 |
+| [epo-nor/opus](../models/epo-nor) | 0.256 | 6.5 | 0.913 | 29074 |
+| [epo-oci/opus](../models/epo-oci) | 0.080 | 0.1 | 1.000 | 5149 |
+| [epo-pol/opus](../models/epo-pol) | 0.392 | 17.2 | 0.893 | 15343 |
+| [epo-por/opus](../models/epo-por) | 0.438 | 20.2 | 0.895 | 89991 |
+| [epo-ron/opus](../models/epo-ron) | 0.420 | 19.4 | 0.918 | 25619 |
+| [epo-rus/opus](../models/epo-rus) | 0.379 | 17.7 | 0.918 | 71288 |
+| [epo-slv/opus](../models/epo-slv) | 0.194 | 3.0 | 0.970 | 1765 |
+| [epo-spa/opus](../models/epo-spa) | 0.519 | 29.3 | 0.916 | 77893 |
+| [epo-swe/opus](../models/epo-swe) | 0.463 | 29.5 | 0.964 | 10977 |
+| [epo-tur/opus](../models/epo-tur) | 0.329 | 9.8 | 0.816 | 27062 |
+| [epo-ukr/opus](../models/epo-ukr) | 0.071 | 0.6 | 0.591 | 13514 |
+| [epo-vie/opus](../models/epo-vie) | 0.273 | 10.0 | 1.000 | 17797 |
+| [epo-yid/opus](../models/epo-yid) | 0.108 | 0.1 | 1.000 | 6378 |
+| [est-rus/opus](../models/est-rus) | 0.702 | 50.2 | 0.988 | 3569 |
+| [esx-eng/opus2m](../models/esx-eng) | 0.187 | 4.3 | 1.000 | 427 |
+| [esx-eng/opus](../models/esx-eng) | 0.189 | 4.7 | 1.000 | 427 |
+| [euq-eng/opus](../models/euq-eng) | 0.594 | 41.5 | 0.964 | 8157 |
+| [eus-deu/opus](../models/eus-deu) | 0.562 | 36.3 | 0.953 | 3315 |
+| [eus-eng/opus](../models/eus-eng) | 0.627 | 45.2 | 0.966 | 8157 |
+| [eus-rus/opus](../models/eus-rus) | 0.502 | 31.3 | 0.942 | 2428 |
+| [eus-spa/opus](../models/eus-spa) | 0.673 | 48.8 | 0.964 | 12469 |
+| [fas-deu/opus](../models/fas-deu) | 0.142 | 0.4 | 1.000 | 25590 |
+| [fas-eng/opus](../models/fas-eng) | 0.136 | 0.7 | 1.000 | 31508 |
+| [fas-epo/opus](../models/fas-epo) | 0.157 | 0.7 | 1.000 | 18357 |
+| [fin-epo/opus](../models/fin-epo) | 0.413 | 22.5 | 0.949 | 18881 |
+| [fin-nor/opus](../models/fin-nor) | 0.426 | 23.5 | 1.000 | 14768 |
+| [fiu-eng/opus2m](../models/fiu-eng) | 0.648 | 47.8 | 0.988 | 71020 |
+| [fiu-eng/opus](../models/fiu-eng) | 0.626 | 45.4 | 0.989 | 71020 |
+| [fiu-fiu/opus2m](../models/fiu-fiu) | 0.593 | 38.3 | 0.978 | 19444 |
+| [fiu-fiu/opus](../models/fiu-fiu) | 0.581 | 36.7 | 0.981 | 19444 |
+| [fra-ara/opus](../models/fra-ara) | 0.439 | 14.4 | 1.000 | 7956 |
+| [fra-bel/opus](../models/fra-bel) | 0.078 | 1.3 | 0.747 | 1703 |
+| [fra-bre/opus](../models/fra-bre) | 0.210 | 3.8 | 0.849 | 14394 |
+| [fra-bul/opus](../models/fra-bul) | 0.657 | 46.3 | 0.953 | 3286 |
+| [fra-cat/opus](../models/fra-cat) | 0.645 | 43.4 | 0.982 | 5214 |
+| [fra-epo/opus](../models/fra-epo) | 0.509 | 29.2 | 0.976 | 78053 |
+| [fra-msa/opus](../models/fra-msa) | 0.617 | 35.3 | 0.978 | 6696 |
+| [fra-nds/opus](../models/fra-nds) | 0.186 | 2.0 | 0.934 | 5571 |
+| [fra-nor/opus](../models/fra-nor) | 0.555 | 36.1 | 0.981 | 3089 |
+| [fra-oci/opus](../models/fra-oci) | 0.097 | 0.3 | 1.000 | 6047 |
+| [fra-pes/opus](../models/fra-pes) | 0.131 | 0.3 | 1.000 | 3212 |
+| [fra-run/opus](../models/fra-run) | 0.368 | 7.4 | 1.000 | 5095 |
+| [fra-tat/opus](../models/fra-tat) | 0.250 | 6.4 | 1.000 | 1562 |
+| [fra-tgl/opus](../models/fra-tgl) | 0.536 | 24.1 | 1.000 | 5778 |
+| [fra-ukr/opus](../models/fra-ukr) | 0.599 | 39.3 | 0.986 | 54082 |
+| [fra-vie/opus](../models/fra-vie) | 0.486 | 31.1 | 0.985 | 13219 |
+| [fry-eng/opus](../models/fry-eng) | 0.226 | 4.9 | 0.923 | 1500 |
+| [fry-nld/opus](../models/fry-nld) | 0.120 | 0.4 | 0.585 | 1672 |
+| [gem-eng/opus2m](../models/gem-eng) | 0.687 | 54.0 | 0.993 | 72120 |
+| [gem-eng/opus](../models/gem-eng) | 0.682 | 53.4 | 0.990 | 72120 |
+| [gem-gem/opus](../models/gem-gem) | 0.614 | 42.7 | 0.993 | 73459 |
+| [gla-eng/opus](../models/gla-eng) | 0.120 | 0.4 | 1.000 | 6366 |
+| [gla-spa/opus](../models/gla-spa) | 0.109 | 0.3 | 0.970 | 1608 |
+| [gle-eng/opus](../models/gle-eng) | 0.672 | 51.6 | 1.000 | 11247 |
+| [glg-eng/opus](../models/glg-eng) | 0.628 | 44.4 | 0.975 | 8365 |
+| [glg-epo/opus](../models/glg-epo) | 0.025 | 0.0 | 1.000 | 2257 |
+| [glg-por/opus](../models/glg-por) | 0.758 | 57.9 | 0.977 | 3078 |
+| [glg-spa/opus](../models/glg-spa) | 0.836 | 72.2 | 0.982 | 17443 |
+| [gmq-eng/opus2m](../models/gmq-eng) | 0.720 | 58.1 | 0.982 | 72641 |
+| [gmq-eng/opus4m](../models/gmq-eng) | 0.718 | 57.7 | 0.982 | 72641 |
+| [gmq-eng/opus](../models/gmq-eng) | 0.715 | 57.4 | 0.980 | 72641 |
+| [gmq-gmq/opus2m](../models/gmq-gmq) | 0.781 | 64.7 | 0.992 | 49385 |
+| [gmq-gmq/opus](../models/gmq-gmq) | 0.782 | 64.7 | 0.994 | 49385 |
+| [gmw-eng/opus2m](../models/gmw-eng) | 0.646 | 48.5 | 0.997 | 72584 |
+| [gmw-eng/opus](../models/gmw-eng) | 0.637 | 47.5 | 1.000 | 72584 |
+| [gmw-gmw/opus](../models/gmw-gmw) | 0.568 | 36.4 | 1.000 | 72534 |
+| [grk-eng/opus2m](../models/grk-eng) | 0.733 | 60.9 | 0.973 | 62205 |
+| [grk-eng/opus](../models/grk-eng) | 0.714 | 58.7 | 0.980 | 62205 |
+| [grn-spa/opus](../models/grn-spa) | 0.133 | 0.1 | 1.000 | 3866 |
+| [hbs-epo/opus](../models/hbs-epo) | 0.383 | 18.7 | 0.999 | 18457 |
+| [hbs-ukr/opus](../models/hbs-ukr) | 0.665 | 49.6 | 0.984 | 4959 |
+| [heb-ara/opus](../models/heb-ara) | 0.532 | 23.6 | 0.926 | 6372 |
+| [heb-epo/opus](../models/heb-epo) | 0.348 | 17.6 | 0.899 | 78217 |
+| [heb-ukr/opus](../models/heb-ukr) | 0.552 | 35.4 | 0.971 | 5163 |
+| [hin-eng/opus](../models/hin-eng) | 0.569 | 39.0 | 0.956 | 33943 |
+| [hin-urd/opus](../models/hin-urd) | 0.393 | 12.4 | 1.000 | 1618 |
+| [hsb-deu/opus](../models/hsb-deu) | 0.126 | 0.2 | 0.789 | 4478 |
+| [hun-epo/opus](../models/hun-epo) | 0.378 | 17.9 | 0.934 | 76005 |
+| [hun-ukr/opus](../models/hun-ukr) | 0.611 | 41.2 | 0.966 | 2568 |
+| [hye-eng/opus](../models/hye-eng) | 0.511 | 34.6 | 1.000 | 5066 |
+| [hye-rus/opus](../models/hye-rus) | 0.476 | 25.6 | 0.929 | 1624 |
+| [ido-eng/opus](../models/ido-eng) | 0.075 | 0.1 | 1.000 | 14126 |
+| [iir-eng/opus2m](../models/iir-eng) | 0.424 | 21.3 | 1.000 | 67026 |
+| [iir-eng/opus](../models/iir-eng) | 0.405 | 19.2 | 1.000 | 67026 |
+| [iir-iir/opus2m](../models/iir-iir) | 0.468 | 16.9 | 1.000 | 4992 |
+| [iir-iir/opus](../models/iir-iir) | 0.460 | 17.7 | 1.000 | 4992 |
+| [ilo-eng/opus](../models/ilo-eng) | 0.558 | 36.4 | 1.000 | 7384 |
+| [inc-eng/opus2m](../models/inc-eng) | 0.502 | 29.0 | 1.000 | 64706 |
+| [inc-eng/opus](../models/inc-eng) | 0.484 | 26.8 | 1.000 | 64706 |
+| [inc-inc/opus2m](../models/inc-inc) | 0.474 | 17.7 | 1.000 | 4985 |
+| [inc-inc/opus](../models/inc-inc) | 0.464 | 17.1 | 1.000 | 4985 |
+| [ine-eng/opus2m](../models/ine-eng) | 0.615 | 45.6 | 0.997 | 71872 |
+| [ine-eng/opus](../models/ine-eng) | 0.613 | 45.4 | 0.997 | 71872 |
+| [ine-ine/opus](../models/ine-ine) | 0.509 | 30.8 | 0.989 | 69953 |
+| [ira-eng/opus2m](../models/ira-eng) | 0.184 | 1.7 | 1.000 | 37313 |
+| [ira-eng/opus](../models/ira-eng) | 0.184 | 1.7 | 1.000 | 37313 |
+| [iro-eng/opus2m](../models/iro-eng) | 0.151 | 0.3 | 1.000 | 498 |
+| [iro-eng/opus](../models/iro-eng) | 0.148 | 0.3 | 1.000 | 498 |
+| [isl-deu/opus](../models/isl-deu) | 0.661 | 49.2 | 0.998 | 6265 |
+| [isl-eng/opus](../models/isl-eng) | 0.667 | 50.5 | 0.972 | 19763 |
+| [isl-epo/opus](../models/isl-epo) | 0.314 | 11.8 | 1.000 | 1528 |
+| [isl-ita/opus](../models/isl-ita) | 0.662 | 46.7 | 0.977 | 1450 |
+| [isl-spa/opus](../models/isl-spa) | 0.665 | 51.2 | 0.985 | 1229 |
+| [ita-ara/opus](../models/ita-ara) | 0.517 | 21.9 | 0.950 | 1161 |
+| [ita-bul/opus](../models/ita-bul) | 0.664 | 47.9 | 0.961 | 16512 |
+| [ita-cat/opus](../models/ita-cat) | 0.706 | 52.5 | 0.993 | 2074 |
+| [ita-epo/opus](../models/ita-epo) | 0.500 | 28.2 | 0.957 | 67846 |
+| [ita-isl/opus](../models/ita-isl) | 0.524 | 28.6 | 0.972 | 1459 |
+| [ita-lit/opus](../models/ita-lit) | 0.652 | 38.1 | 0.959 | 1321 |
+| [ita-msa/opus](../models/ita-msa) | 0.536 | 26.0 | 0.921 | 2765 |
+| [ita-nds/opus](../models/ita-nds) | 0.205 | 4.3 | 0.918 | 2130 |
+| [ita-nob/opus](../models/ita-nob) | 0.555 | 34.0 | 0.965 | 8856 |
+| [ita-ukr/opus](../models/ita-ukr) | 0.657 | 45.9 | 0.989 | 25353 |
+| [ita-vie/opus](../models/ita-vie) | 0.535 | 36.2 | 1.000 | 2144 |
+| [itc-eng/opus2m](../models/itc-eng) | 0.634 | 47.6 | 0.981 | 77633 |
+| [itc-eng/opus](../models/itc-eng) | 0.631 | 47.2 | 0.982 | 77633 |
+| [jav-eng/opus](../models/jav-eng) | 0.109 | 0.7 | 1.000 | 1814 |
+| [jpn-ara/opus](../models/jpn-ara) | 0.394 | 11.6 | 1.000 | 7089 |
+| [jpn-bul/opus](../models/jpn-bul) | 0.422 | 20.2 | 0.957 | 2346 |
+| [jpn-dan/opus](../models/jpn-dan) | 0.590 | 43.2 | 0.972 | 5823 |
+| [jpn-deu/opus](../models/jpn-deu) | 0.466 | 24.6 | 0.961 | 85296 |
+| [jpn-eng/opus](../models/jpn-eng) | 0.502 | 30.1 | 0.943 | 89256 |
+| [jpn-epo/opus](../models/jpn-epo) | 0.021 | 0.0 | 1.000 | 18009 |
+| [jpn-eus/opus](../models/jpn-eus) | 0.235 | 5.5 | 0.896 | 1040 |
+| [jpn-fin/opus](../models/jpn-fin) | 0.408 | 17.7 | 0.867 | 60612 |
+| [jpn-fra/opus](../models/jpn-fra) | 0.491 | 28.9 | 0.949 | 87434 |
+| [jpn-hbs/opus](../models/jpn-hbs) | 0.447 | 22.6 | 0.962 | 2525 |
+| [jpn-heb/opus](../models/jpn-heb) | 0.397 | 20.2 | 1.000 | 1598 |
+| [jpn-hun/opus](../models/jpn-hun) | 0.364 | 12.2 | 1.000 | 18625 |
+| [jpn-isl/opus](../models/jpn-isl) | 0.132 | 3.9 | 1.000 | 1575 |
+| [jpn-ita/opus](../models/jpn-ita) | 0.460 | 22.8 | 0.954 | 21500 |
+| [jpn-lit/opus](../models/jpn-lit) | 0.234 | 5.5 | 0.935 | 1359 |
+| [jpn-mar/opus](../models/jpn-mar) | 0.088 | 0.3 | 1.000 | 1970 |
+| [jpn-msa/opus](../models/jpn-msa) | 0.469 | 21.5 | 0.926 | 17028 |
+| [jpn-nld/opus](../models/jpn-nld) | 0.534 | 34.7 | 0.939 | 25849 |
+| [jpn-nor/opus](../models/jpn-nor) | 0.120 | 0.5 | 1.000 | 8497 |
+| [jpn-pol/opus](../models/jpn-pol) | 0.386 | 15.7 | 1.000 | 69904 |
+| [jpn-por/opus](../models/jpn-por) | 0.444 | 22.2 | 0.922 | 15570 |
+| [jpn-rus/opus](../models/jpn-rus) | 0.441 | 23.2 | 0.974 | 70820 |
+| [jpn-spa/opus](../models/jpn-spa) | 0.518 | 30.1 | 0.951 | 77638 |
+| [jpn-swe/opus](../models/jpn-swe) | 0.416 | 22.6 | 0.841 | 7034 |
+| [jpn-tur/opus](../models/jpn-tur) | 0.434 | 16.7 | 0.932 | 4755 |
+| [jpn-ukr/opus](../models/jpn-ukr) | 0.111 | 0.5 | 1.000 | 2626 |
+| [jpn-vie/opus](../models/jpn-vie) | 0.380 | 20.3 | 0.909 | 10779 |
+| [jpx-eng/opus](../models/jpx-eng) | 0.434 | 22.9 | 0.923 | 89256 |
+| [kab-eng/opus](../models/kab-eng) | 0.125 | 0.4 | 1.000 | 60196 |
+| [kat-eng/opus](../models/kat-eng) | 0.538 | 37.9 | 0.991 | 5992 |
+| [kat-rus/opus](../models/kat-rus) | 0.604 | 38.2 | 0.996 | 3899 |
+| [kaz-eng/opus](../models/kaz-eng) | 0.196 | 4.9 | 0.990 | 2655 |
+| [khm-eng/opus](../models/khm-eng) | 0.129 | 1.3 | 1.000 | 4394 |
+| [khm-spa/opus](../models/khm-spa) | 0.102 | 0.1 | 1.000 | 8721 |
+| [kor-deu/opus](../models/kor-deu) | 0.509 | 28.4 | 0.974 | 9013 |
+| [kor-eng/opus](../models/kor-eng) | 0.588 | 41.3 | 0.959 | 17711 |
+| [kor-fin/opus](../models/kor-fin) | 0.502 | 26.6 | 0.892 | 2251 |
+| [kor-fra/opus](../models/kor-fra) | 0.503 | 30.4 | 0.918 | 2714 |
+| [kor-hun/opus](../models/kor-hun) | 0.520 | 28.6 | 0.905 | 1615 |
+| [kor-rus/opus](../models/kor-rus) | 0.514 | 30.3 | 0.961 | 1382 |
+| [kor-spa/opus](../models/kor-spa) | 0.521 | 31.3 | 0.950 | 6805 |
+| [kur-eng/opus](../models/kur-eng) | 0.087 | 0.1 | 0.798 | 1751 |
+| [lav-rus/opus](../models/lav-rus) | 0.702 | 53.3 | 0.984 | 1541 |
+| [lit-epo/opus](../models/lit-epo) | 0.313 | 13.0 | 1.000 | 70340 |
+| [lit-ita/opus](../models/lit-ita) | 0.657 | 42.2 | 0.974 | 1505 |
+| [lit-pol/opus](../models/lit-pol) | 0.721 | 53.6 | 0.957 | 10629 |
+| [lit-rus/opus](../models/lit-rus) | 0.695 | 51.7 | 0.982 | 15395 |
+| [lit-spa/opus](../models/lit-spa) | 0.680 | 50.5 | 0.963 | 2738 |
+| [lit-tur/opus](../models/lit-tur) | 0.648 | 35.8 | 0.927 | 7700 |
+| [ltz-eng/opus](../models/ltz-eng) | 0.123 | 0.5 | 1.000 | 1751 |
+| [mal-eng/opus](../models/mal-eng) | 0.599 | 42.2 | 0.965 | 5558 |
+| [map-eng/opus2m](../models/map-eng) | 0.165 | 3.1 | 1.000 | 17380 |
+| [map-eng/opus](../models/map-eng) | 0.154 | 3.6 | 1.000 | 17380 |
+| [map-map/opus](../models/map-map) | 0.120 | 0.0 | 1.000 | 7733 |
+| [mar-eng/opus](../models/mar-eng) | 0.137 | 0.4 | 1.000 | 64831 |
+| [mkd-eng/opus](../models/mkd-eng) | 0.680 | 54.8 | 0.985 | 65604 |
+| [mkd-spa/opus](../models/mkd-spa) | 0.717 | 56.5 | 0.997 | 1121 |
+| [mkh-eng/opus2m](../models/mkh-eng) | 0.411 | 24.0 | 1.000 | 33985 |
+| [mkh-eng/opus](../models/mkh-eng) | 0.407 | 24.5 | 1.000 | 33985 |
+| [mkh-mkh/opus2m](../models/mkh-mkh) | 0.067 | 0.2 | 1.000 | 214 |
+| [mkh-mkh/opus](../models/mkh-mkh) | 0.070 | 0.2 | 1.000 | 214 |
+| [mlt-eng/opus](../models/mlt-eng) | 0.662 | 49.3 | 1.000 | 1165 |
+| [mon-eng/opus](../models/mon-eng) | 0.216 | 4.2 | 1.000 | 2693 |
+| [mri-eng/opus](../models/mri-eng) | 0.198 | 2.4 | 1.000 | 2733 |
+| [msa-deu/opus](../models/msa-deu) | 0.584 | 36.5 | 0.966 | 4198 |
+| [msa-fra/opus](../models/msa-fra) | 0.609 | 43.7 | 0.974 | 7808 |
+| [msa-ita/opus](../models/msa-ita) | 0.613 | 37.8 | 0.995 | 2758 |
+| [msa-msa/opus](../models/msa-msa) | 0.418 | 18.6 | 1.000 | 6029 |
+| [mul-eng/opus2m](../models/mul-eng) | 0.518 | 34.7 | 1.000 | 72346 |
+| [mul-eng/opus](../models/mul-eng) | 0.518 | 34.7 | 1.000 | 72346 |
+| [mya-eng/opus](../models/mya-eng) | 0.144 | 0.4 | 1.000 | 1659 |
+| [nds-deu/opus](../models/nds-deu) | 0.303 | 5.9 | 0.919 | 74571 |
+| [nds-eng/opus](../models/nds-eng) | 0.238 | 4.9 | 1.000 | 17589 |
+| [nds-epo/opus](../models/nds-epo) | 0.137 | 0.6 | 0.863 | 17244 |
+| [nds-fra/opus](../models/nds-fra) | 0.200 | 3.5 | 0.976 | 5487 |
+| [nds-ita/opus](../models/nds-ita) | 0.211 | 3.5 | 1.000 | 1952 |
+| [nds-nld/opus](../models/nds-nld) | 0.316 | 9.4 | 0.943 | 11490 |
+| [nds-por/opus](../models/nds-por) | 0.226 | 5.2 | 0.993 | 1250 |
+| [nds-rus/opus](../models/nds-rus) | 0.089 | 0.3 | 0.660 | 5288 |
+| [nds-spa/opus](../models/nds-spa) | 0.209 | 3.9 | 0.935 | 5477 |
+| [ngb-eng/opus](../models/ngb-eng) | 0.090 | 1.3 | 1.000 | 42 |
+| [nic-eng/opus2m](../models/nic-eng) | 0.377 | 21.3 | 1.000 | 15228 |
+| [nic-eng/opus](../models/nic-eng) | 0.371 | 20.3 | 1.000 | 15228 |
+| [nld-afr/opus](../models/nld-afr) | 0.749 | 57.8 | 1.000 | 6823 |
+| [nld-bel/opus](../models/nld-bel) | 0.082 | 1.1 | 0.668 | 4036 |
+| [nld-cat/opus](../models/nld-cat) | 0.624 | 42.1 | 0.988 | 3942 |
+| [nld-epo/opus](../models/nld-epo) | 0.355 | 16.1 | 0.936 | 72293 |
+| [nld-fry/opus](../models/nld-fry) | 0.114 | 0.4 | 0.504 | 1679 |
+| [nld-nds/opus](../models/nld-nds) | 0.271 | 5.9 | 0.900 | 11711 |
+| [nld-nor/opus](../models/nld-nor) | 0.562 | 36.1 | 0.966 | 1459 |
+| [nld-ukr/opus](../models/nld-ukr) | 0.619 | 40.8 | 0.992 | 51674 |
+| [nob-ita/opus](../models/nob-ita) | 0.556 | 31.1 | 0.933 | 9118 |
+| [nor-dan/opus](../models/nor-dan) | 0.792 | 65.0 | 0.995 | 9865 |
+| [nor-deu/opus](../models/nor-deu) | 0.541 | 29.6 | 0.960 | 34575 |
+| [nor-epo/opus](../models/nor-epo) | 0.236 | 6.6 | 0.858 | 29015 |
+| [nor-fin/opus](../models/nor-fin) | 0.374 | 14.1 | 0.894 | 13066 |
+| [nor-fra/opus](../models/nor-fra) | 0.578 | 39.1 | 0.987 | 3205 |
+| [nor-nld/opus](../models/nor-nld) | 0.596 | 40.2 | 0.959 | 1535 |
+| [nor-nor/opus](../models/nor-nor) | 0.784 | 58.4 | 0.988 | 6351 |
+| [nor-pol/opus](../models/nor-pol) | 0.455 | 20.9 | 0.941 | 1828 |
+| [nor-rus/opus](../models/nor-rus) | 0.400 | 18.6 | 0.958 | 10671 |
+| [nor-spa/opus](../models/nor-spa) | 0.565 | 34.2 | 0.997 | 7311 |
+| [nor-swe/opus](../models/nor-swe) | 0.773 | 63.7 | 0.967 | 3672 |
+| [nor-ukr/opus](../models/nor-ukr) | 0.384 | 16.6 | 1.000 | 3982 |
+| [oci-eng/opus](../models/oci-eng) | 0.035 | 0.0 | 1.000 | 5299 |
+| [oci-epo/opus](../models/oci-epo) | 0.061 | 0.1 | 1.000 | 5134 |
+| [oci-fra/opus](../models/oci-fra) | 0.116 | 0.1 | 1.000 | 6302 |
+| [pes-fra/opus](../models/pes-fra) | 0.144 | 0.2 | 1.000 | 3371 |
+| [phi-eng/opus2m](../models/phi-eng) | 0.391 | 21.5 | 1.000 | 2380 |
+| [phi-eng/opus](../models/phi-eng) | 0.385 | 21.0 | 1.000 | 2380 |
+| [pol-ara/opus](../models/pol-ara) | 0.491 | 20.4 | 0.959 | 1028 |
+| [pol-epo/opus](../models/pol-epo) | 0.451 | 24.8 | 0.967 | 17191 |
+| [pol-lit/opus](../models/pol-lit) | 0.688 | 43.7 | 0.981 | 10084 |
+| [pol-nor/opus](../models/pol-nor) | 0.479 | 27.5 | 0.969 | 2045 |
+| [pol-ukr/opus](../models/pol-ukr) | 0.665 | 47.1 | 0.992 | 13434 |
+| [por-cat/opus](../models/por-cat) | 0.672 | 45.7 | 0.972 | 5878 |
+| [por-epo/opus](../models/por-epo) | 0.497 | 26.8 | 0.948 | 87408 |
+| [por-glg/opus](../models/por-glg) | 0.737 | 55.8 | 0.996 | 2989 |
+| [por-nds/opus](../models/por-nds) | 0.215 | 4.3 | 0.935 | 1284 |
+| [por-tgl/opus](../models/por-tgl) | 0.565 | 28.4 | 1.000 | 13620 |
+| [por-ukr/opus](../models/por-ukr) | 0.616 | 39.8 | 0.999 | 18933 |
+| [poz-eng/opus2m](../models/poz-eng) | 0.165 | 3.1 | 1.000 | 17380 |
+| [poz-eng/opus](../models/poz-eng) | 0.154 | 3.6 | 1.000 | 17380 |
+| [pqw-eng/opus2m](../models/pqw-eng) | 0.171 | 3.7 | 1.000 | 17380 |
+| [pqw-eng/opus](../models/pqw-eng) | 0.154 | 3.6 | 1.000 | 17380 |
+| [pra-eng/opus2m](../models/pra-eng) | 0.106 | 0.1 | 1.000 | 659 |
+| [pra-eng/opus](../models/pra-eng) | 0.119 | 0.1 | 1.000 | 659 |
+| [que-eng/opus](../models/que-eng) | 0.154 | 2.0 | 1.000 | 1693 |
+| [roa-eng/opus2m](../models/roa-eng) | 0.697 | 54.9 | 0.979 | 74762 |
+| [roa-eng/opus](../models/roa-eng) | 0.694 | 54.5 | 0.984 | 74762 |
+| [rom-eng/opus](../models/rom-eng) | 0.100 | 0.1 | 1.000 | 4457 |
+| [ron-epo/opus](../models/ron-epo) | 0.495 | 27.8 | 0.955 | 25751 |
+| [run-deu/opus](../models/run-deu) | 0.344 | 17.1 | 0.961 | 10562 |
+| [run-eng/opus](../models/run-eng) | 0.428 | 26.7 | 0.990 | 10041 |
+| [run-fra/opus](../models/run-fra) | 0.397 | 18.2 | 1.000 | 7496 |
+| [run-rus/opus](../models/run-rus) | 0.321 | 17.1 | 1.000 | 6635 |
+| [run-spa/opus](../models/run-spa) | 0.376 | 14.4 | 1.000 | 5167 |
+| [rus-afr/opus](../models/rus-afr) | 0.669 | 48.1 | 1.000 | 1390 |
+| [rus-ara/opus](../models/rus-ara) | 0.486 | 16.6 | 0.969 | 18878 |
+| [rus-bel/opus](../models/rus-bel) | 0.137 | 2.5 | 1.000 | 18895 |
+| [rus-bul/opus](../models/rus-bul) | 0.704 | 52.3 | 0.919 | 8272 |
+| [rus-chv/opus](../models/rus-chv) | 0.129 | 0.3 | 1.000 | 1982 |
+| [rus-dan/opus](../models/rus-dan) | 0.714 | 56.6 | 0.977 | 11746 |
+| [rus-epo/opus](../models/rus-epo) | 0.436 | 24.2 | 0.925 | 77197 |
+| [rus-est/opus](../models/rus-est) | 0.749 | 57.5 | 0.975 | 3572 |
+| [rus-eus/opus](../models/rus-eus) | 0.539 | 29.7 | 0.944 | 2373 |
+| [rus-hye/opus](../models/rus-hye) | 0.494 | 21.7 | 1.000 | 1602 |
+| [rus-kat/opus](../models/rus-kat) | 0.235 | 7.1 | 1.000 | 3667 |
+| [rus-lav/opus](../models/rus-lav) | 0.696 | 50.0 | 0.968 | 1518 |
+| [rus-lit/opus](../models/rus-lit) | 0.675 | 43.5 | 0.937 | 14406 |
+| [rus-nds/opus](../models/rus-nds) | 0.097 | 0.3 | 0.579 | 6082 |
+| [rus-nor/opus](../models/rus-nor) | 0.418 | 20.3 | 0.946 | 11686 |
+| [rus-run/opus](../models/rus-run) | 0.397 | 9.6 | 1.000 | 5040 |
+| [rus-slv/opus](../models/rus-slv) | 0.492 | 32.3 | 0.992 | 2135 |
+| [rus-swe/opus](../models/rus-swe) | 0.677 | 51.9 | 0.968 | 8449 |
+| [rus-tat/opus](../models/rus-tat) | 0.134 | 0.6 | 1.000 | 21002 |
+| [rus-ukr/opus](../models/rus-ukr) | 0.793 | 64.0 | 0.990 | 60212 |
+| [rus-vie/opus](../models/rus-vie) | 0.346 | 16.9 | 1.000 | 2566 |
+| [sal-eng/opus2m](../models/sal-eng) | 0.089 | 1.4 | 0.835 | 222 |
+| [sal-eng/opus](../models/sal-eng) | 0.097 | 2.2 | 0.819 | 222 |
+| [sal-eng/opus](../models/sal-eng) | 0.097 | 2.2 | 0.819 | 222 |
+| [sem-eng/opus2m](../models/sem-eng) | 0.588 | 41.7 | 0.987 | 72950 |
+| [sem-eng/opus](../models/sem-eng) | 0.578 | 40.6 | 0.993 | 72950 |
+| [sem-sem/opus2m](../models/sem-sem) | 0.510 | 27.1 | 0.972 | 13472 |
+| [sem-sem/opus](../models/sem-sem) | 0.507 | 27.1 | 0.972 | 13472 |
+| [sit-eng/opus2m](../models/sit-eng) | 0.118 | 0.3 | 1.000 | 284 |
+| [sit-eng/opus](../models/sit-eng) | 0.118 | 0.2 | 1.000 | 284 |
+| [sit-sit/opus2m](../models/sit-sit) | 0.127 | 0.5 | 1.000 | 310 |
+| [sit-sit/opus](../models/sit-sit) | 0.110 | 0.3 | 1.000 | 87 |
+| [sla-eng/opus2m](../models/sla-eng) | 0.683 | 53.2 | 0.974 | 70897 |
+| [sla-eng/opus](../models/sla-eng) | 0.680 | 52.8 | 0.974 | 70897 |
+| [sla-sla/opus](../models/sla-sla) | 0.672 | 48.5 | 1.000 | 59320 |
+| [slv-epo/opus](../models/slv-epo) | 0.212 | 6.4 | 1.000 | 1942 |
+| [slv-rus/opus](../models/slv-rus) | 0.504 | 37.3 | 0.988 | 2101 |
+| [slv-ukr/opus](../models/slv-ukr) | 0.236 | 10.6 | 1.000 | 3906 |
+| [smi-eng/opus2m](../models/smi-eng) | 0.115 | 0.3 | 1.000 | 488 |
+| [smi-eng/opus](../models/smi-eng) | 0.117 | 0.4 | 1.000 | 488 |
+| [spa-afr/opus](../models/spa-afr) | 0.718 | 55.0 | 0.974 | 3044 |
+| [spa-ara/opus](../models/spa-ara) | 0.517 | 20.0 | 0.939 | 7547 |
+| [spa-aze/opus](../models/spa-aze) | 0.336 | 7.1 | 1.000 | 912 |
+| [spa-bel/opus](../models/spa-bel) | 0.265 | 9.0 | 0.943 | 1259 |
+| [spa-bul/opus](../models/spa-bul) | 0.674 | 50.9 | 0.955 | 1707 |
+| [spa-cat/opus](../models/spa-cat) | 0.832 | 68.9 | 1.000 | 12343 |
+| [spa-epo/opus](../models/spa-epo) | 0.560 | 33.2 | 0.968 | 77048 |
+| [spa-eus/opus](../models/spa-eus) | 0.638 | 37.0 | 0.983 | 10945 |
+| [spa-gla/opus](../models/spa-gla) | 0.151 | 1.0 | 1.000 | 2014 |
+| [spa-glg/opus](../models/spa-glg) | 0.808 | 67.6 | 0.993 | 16581 |
+| [spa-grn/opus](../models/spa-grn) | 0.100 | 0.1 | 1.000 | 3089 |
+| [spa-isl/opus](../models/spa-isl) | 0.528 | 27.1 | 1.000 | 1220 |
+| [spa-khm/opus](../models/spa-khm) | 0.055 | 0.0 | 1.000 | 3391 |
+| [spa-lit/opus](../models/spa-lit) | 0.643 | 40.2 | 0.956 | 2341 |
+| [spa-mkd/opus](../models/spa-mkd) | 0.681 | 48.2 | 1.000 | 1073 |
+| [spa-nds/opus](../models/spa-nds) | 0.202 | 3.2 | 0.917 | 5868 |
+| [spa-nor/opus](../models/spa-nor) | 0.565 | 36.7 | 0.990 | 7217 |
+| [spa-run/opus](../models/spa-run) | 0.410 | 10.1 | 1.000 | 3886 |
+| [spa-tat/opus](../models/spa-tat) | 0.163 | 2.7 | 1.000 | 2002 |
+| [spa-tgl/opus](../models/spa-tgl) | 0.538 | 24.7 | 1.000 | 4422 |
+| [spa-ukr/opus](../models/spa-ukr) | 0.614 | 41.3 | 0.983 | 53833 |
+| [spa-vie/opus](../models/spa-vie) | 0.508 | 33.1 | 0.980 | 4654 |
+| [sqi-eng/opus](../models/sqi-eng) | 0.722 | 56.8 | 0.947 | 7762 |
+| [ssa-eng/opus](../models/ssa-eng) | 0.208 | 1.6 | 1.000 | 47 |
+| [swe-epo/opus](../models/swe-epo) | 0.498 | 29.7 | 0.958 | 10987 |
+| [swe-nor/opus](../models/swe-nor) | 0.796 | 65.8 | 0.991 | 3682 |
+| [swe-rus/opus](../models/swe-rus) | 0.655 | 45.9 | 0.988 | 7659 |
+| [tam-eng/opus](../models/tam-eng) | 0.445 | 26.7 | 1.000 | 2125 |
+| [tat-deu/opus](../models/tat-deu) | 0.207 | 3.0 | 0.974 | 25736 |
+| [tat-eng/opus](../models/tat-eng) | 0.175 | 3.3 | 1.000 | 11261 |
+| [tat-fra/opus](../models/tat-fra) | 0.286 | 9.0 | 1.000 | 1967 |
+| [tatoeba-lower/opus](../models/tatoeba-lower) | 0.437 | 23.5 | 0.999 | 66586 |
+| [tatoeba-lowest/opus](../models/tatoeba-lowest) | 0.447 | 24.3 | 0.994 | 70353 |
+| [tatoeba-zero/opus](../models/tatoeba-zero) | 0.440 | 24.0 | 1.000 | 68484 |
+| [tat-rus/opus](../models/tat-rus) | 0.211 | 3.5 | 0.909 | 22576 |
+| [tat-spa/opus](../models/tat-spa) | 0.218 | 3.9 | 1.000 | 2436 |
+| [tat-tur/opus](../models/tat-tur) | 0.305 | 7.1 | 1.000 | 2792 |
+| [tat-vie/opus](../models/tat-vie) | 0.185 | 3.8 | 1.000 | 2310 |
+| [tbq-eng/opus2m](../models/tbq-eng) | 0.116 | 0.2 | 1.000 | 284 |
+| [tbq-eng/opus](../models/tbq-eng) | 0.118 | 0.2 | 1.000 | 284 |
+| [tel-eng/opus](../models/tel-eng) | 0.320 | 12.3 | 1.000 | 1706 |
+| [tgl-deu/opus](../models/tgl-deu) | 0.473 | 22.7 | 0.969 | 2453 |
+| [tgl-eng/opus](../models/tgl-eng) | 0.542 | 35.0 | 0.975 | 18168 |
+| [tgl-fra/opus](../models/tgl-fra) | 0.485 | 27.3 | 1.000 | 6043 |
+| [tgl-por/opus](../models/tgl-por) | 0.522 | 28.8 | 0.981 | 12826 |
+| [tgl-spa/opus](../models/tgl-spa) | 0.531 | 31.6 | 0.997 | 4327 |
+| [tha-eng/opus](../models/tha-eng) | 0.644 | 48.1 | 0.974 | 7407 |
+| [trk-eng/opus2m](../models/trk-eng) | 0.304 | 12.0 | 1.000 | 18733 |
+| [trk-eng/opus](../models/trk-eng) | 0.254 | 7.8 | 1.000 | 18733 |
+| [trk-trk/opus](../models/trk-trk) | 0.291 | 7.0 | 1.000 | 45666 |
+| [tuk-eng/opus](../models/tuk-eng) | 0.220 | 4.0 | 1.000 | 19066 |
+| [tur-ara/opus](../models/tur-ara) | 0.455 | 14.9 | 0.988 | 6944 |
+| [tur-aze/opus](../models/tur-aze) | 0.551 | 27.7 | 1.000 | 5436 |
+| [tur-chv/opus](../models/tur-chv) | 0.119 | 0.2 | 1.000 | 2581 |
+| [tur-epo/opus](../models/tur-epo) | 0.373 | 17.0 | 0.881 | 33762 |
+| [tur-lit/opus](../models/tur-lit) | 0.631 | 35.6 | 0.949 | 8285 |
+| [tur-tat/opus](../models/tur-tat) | 0.221 | 2.5 | 1.000 | 2894 |
+| [tur-ukr/opus](../models/tur-ukr) | 0.624 | 42.5 | 0.983 | 12988 |
+| [tur-uzb/opus](../models/tur-uzb) | 0.143 | 0.5 | 1.000 | 949 |
+| [tut-eng/opus2m](../models/tut-eng) | 0.284 | 9.9 | 1.000 | 18813 |
+| [tut-eng/opus](../models/tut-eng) | 0.258 | 8.0 | 1.000 | 18813 |
+| [tut-tut/opus](../models/tut-tut) | 0.270 | 6.0 | 1.000 | 45709 |
+| [uig-eng/opus](../models/uig-eng) | 0.134 | 0.5 | 1.000 | 23090 |
+| [ukr-bul/opus](../models/ukr-bul) | 0.734 | 55.7 | 0.976 | 5181 |
+| [ukr-cat/opus](../models/ukr-cat) | 0.538 | 33.7 | 0.972 | 2670 |
+| [ukr-ces/opus](../models/ukr-ces) | 0.686 | 52.0 | 0.993 | 8550 |
+| [ukr-deu/opus](../models/ukr-deu) | 0.661 | 48.2 | 0.980 | 62298 |
+| [ukr-eng/opus](../models/ukr-eng) | 0.670 | 51.7 | 0.972 | 66118 |
+| [ukr-epo/opus](../models/ukr-epo) | 0.031 | 0.1 | 1.000 | 14983 |
+| [ukr-fra/opus](../models/ukr-fra) | 0.637 | 46.4 | 0.990 | 62877 |
+| [ukr-hbs/opus](../models/ukr-hbs) | 0.631 | 42.8 | 0.960 | 5128 |
+| [ukr-heb/opus](../models/ukr-heb) | 0.557 | 35.7 | 1.000 | 4765 |
+| [ukr-hun/opus](../models/ukr-hun) | 0.649 | 41.4 | 0.974 | 2433 |
+| [ukr-ita/opus](../models/ukr-ita) | 0.662 | 46.0 | 0.949 | 27846 |
+| [ukr-nld/opus](../models/ukr-nld) | 0.656 | 48.7 | 0.985 | 59943 |
+| [ukr-nor/opus](../models/ukr-nor) | 0.397 | 21.3 | 0.966 | 4378 |
+| [ukr-pol/opus](../models/ukr-pol) | 0.685 | 49.9 | 0.947 | 13098 |
+| [ukr-por/opus](../models/ukr-por) | 0.601 | 38.1 | 0.981 | 21315 |
+| [ukr-rus/opus](../models/ukr-rus) | 0.826 | 69.2 | 0.992 | 60387 |
+| [ukr-slv/opus](../models/ukr-slv) | 0.280 | 11.8 | 1.000 | 3823 |
+| [ukr-spa/opus](../models/ukr-spa) | 0.649 | 46.4 | 0.971 | 58486 |
+| [ukr-tur/opus](../models/ukr-tur) | 0.655 | 39.3 | 0.934 | 11844 |
+| [urd-eng/opus](../models/urd-eng) | 0.435 | 23.2 | 0.975 | 12029 |
+| [urd-hin/opus](../models/urd-hin) | 0.306 | 9.2 | 1.000 | 1581 |
+| [urj-eng/opus2m](../models/urj-eng) | 0.646 | 47.8 | 0.993 | 70882 |
+| [urj-eng/opus](../models/urj-eng) | 0.630 | 46.2 | 0.991 | 70882 |
+| [urj-urj/opus](../models/urj-urj) | 0.580 | 32.9 | 1.000 | 19444 |
+| [uzb-eng/opus](../models/uzb-eng) | 0.138 | 1.3 | 1.000 | 2699 |
+| [uzb-tur/opus](../models/uzb-tur) | 0.146 | 1.1 | 0.992 | 956 |
+| [vie-deu/opus](../models/vie-deu) | 0.484 | 27.6 | 0.958 | 3365 |
+| [vie-eng/opus](../models/vie-eng) | 0.608 | 42.8 | 0.955 | 20241 |
+| [vie-epo/opus](../models/vie-epo) | 0.332 | 12.2 | 0.990 | 13637 |
+| [vie-fra/opus](../models/vie-fra) | 0.544 | 34.2 | 0.955 | 11519 |
+| [vie-ita/opus](../models/vie-ita) | 0.548 | 31.2 | 0.932 | 1774 |
+| [vie-rus/opus](../models/vie-rus) | 0.331 | 16.9 | 0.878 | 2207 |
+| [vie-spa/opus](../models/vie-spa) | 0.540 | 32.9 | 0.953 | 3832 |
+| [vie-tat/opus](../models/vie-tat) | 0.175 | 2.2 | 0.875 | 1810 |
+| [war-eng/opus](../models/war-eng) | 0.308 | 12.3 | 1.000 | 11345 |
+| [wen-eng/opus2m](../models/wen-eng) | 0.122 | 0.2 | 1.000 | 460 |
+| [wen-eng/opus](../models/wen-eng) | 0.130 | 0.2 | 1.000 | 460 |
+| [xgn-eng/opus2m](../models/xgn-eng) | 0.184 | 1.9 | 1.000 | 4748 |
+| [xgn-eng/opus](../models/xgn-eng) | 0.183 | 2.2 | 1.000 | 4748 |
+| [xnd-eng/opus2m](../models/xnd-eng) | 0.133 | 0.3 | 1.000 | 545 |
+| [xnd-eng/opus](../models/xnd-eng) | 0.126 | 0.3 | 1.000 | 545 |
+| [yid-eng/opus](../models/yid-eng) | 0.124 | 0.1 | 1.000 | 7741 |
+| [yid-epo/opus](../models/yid-epo) | 0.133 | 0.1 | 1.000 | 5904 |
+| [zho-eng/opus](../models/zho-eng) | 0.548 | 36.1 | 0.948 | 82826 |
+| [zle-eng/opus2m](../models/zle-eng) | 0.656 | 50.1 | 0.970 | 69599 |
+| [zle-eng/opus](../models/zle-eng) | 0.640 | 48.1 | 0.974 | 69599 |
+| [zle-zle/opus2m](../models/zle-zle) | 0.750 | 59.2 | 0.996 | 62731 |
+| [zle-zle/opus](../models/zle-zle) | 0.742 | 58.0 | 1.000 | 62731 |
+| [zls-eng/opus2m](../models/zls-eng) | 0.676 | 53.6 | 0.980 | 68623 |
+| [zls-eng/opus](../models/zls-eng) | 0.668 | 52.5 | 0.979 | 68623 |
+| [zls-zls/opus](../models/zls-zls) | 0.563 | 26.5 | 1.000 | 58 |
+| [zlw-eng/opus2m](../models/zlw-eng) | 0.680 | 51.8 | 0.962 | 75742 |
+| [zlw-eng/opus](../models/zlw-eng) | 0.660 | 49.4 | 0.964 | 75742 |
+| [zlw-zlw/opus](../models/zlw-zlw) | 0.580 | 38.8 | 0.990 | 7792 |

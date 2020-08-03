@@ -6,7 +6,7 @@ A new challenge set for machine translation covering over 500 languages and thou
 * Realistic low-resource scenarios
 * [Training, development and test data](Data.md)
 * [Additional bilingual](subsets/NoTestData.md) and [monolingual data sets](Wiki.md)
-* [Baseline models and results](results/tatoeba-results-all.md)
+* [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-all.md)
 * [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
 
 
@@ -91,6 +91,7 @@ We also encourage to incorporate other test sets besides of the Tatoeba data. Ra
 
 There are some initial baseline results for parts of the data set using the setup of [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT-train/) but running on Tatoeba MT challenge data (see also [OPUS-MT-TatoebaChallenge](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md)).
 
+* available [translation models](results/tatoeba-models-all.md)
 * results for the [zero-shot language pairs](results/tatoeba-results-all-subset-zero.md)
 * results for the [lowest resource language pairs](results/tatoeba-results-all-subset-lowest.md)
 * results for the [lower resource language pairs](results/tatoeba-results-all-subset-lower.md)
