@@ -12,9 +12,9 @@ A new challenge set for machine translation covering over 500 languages and thou
 
 ## Tasks
 
-* [Zero-shot machine translation](subsets/zero.md)
-* [Low](subsets/lower.md) and even [lower](subsets/lowest.md) resource MT
-* [Medium](subsets/medium.md), [higher](subsets/higher.md) and [highest](subsets/highest.md) resource MT
+* [Zero-shot machine translation](results/tatoeba-results-all-subset-zero.md) (data: [zero](subsets/zero.md))
+* [Low](results/tatoeba-results-all-subset-lower.md) and even [lower](results/tatoeba-results-all-subset-lowest.md)(subsets/lowest.md) resource MT (data: [low](subsets/lower.md), [lower](subsets/lowest.md))
+* [Medium](results/tatoeba-results-all-subset-medium.md), [higher](results/tatoeba-results-all-subset-higher.md) and [highest](results/tatoeba-results-all-subset-highest.md) resource MT (data: [medium](subsets/medium.md), [higher](subsets/higher.md), [highest](subsets/highest.md))
 * [Contribute reference translations via Tatoeba](https://tatoeba.org/eng/users/login?redirect=%2Feng%2Factivities%2Ftranslate_sentences)
 
 
