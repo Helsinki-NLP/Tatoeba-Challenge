@@ -6,7 +6,7 @@ A new challenge set for machine translation covering over 500 languages and thou
 * Realistic low-resource scenarios
 * [Training, development and test data](Data.md)
 * [Additional bilingual](subsets/NoTestData.md) and [monolingual data sets](Wiki.md)
-* [Baseline models and results](results/tatoeba-results-sorted-langpair.md)
+* [Baseline models and results](results/tatoeba-results-all.md)
 * [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
 
 
@@ -91,15 +91,15 @@ We also encourage to incorporate other test sets besides of the Tatoeba data. Ra
 
 There are some initial baseline results for parts of the data set using the setup of [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT-train/) but running on Tatoeba MT challenge data (see also [OPUS-MT-TatoebaChallenge](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md)).
 
-* results for the [zero-shot language pairs](results/tatoeba-results-subset-zero.md)
-* results for the [lowest resource language pairs](results/tatoeba-results-subset-lowest.md)
-* results for the [lower resource language pairs](results/tatoeba-results-subset-lower.md)
-* results for the [medium resource language pairs](results/tatoeba-results-subset-medium.md)
-* results for the [higher resource language pairs](results/tatoeba-results-subset-higher.md)
-* results for the [highest resource language pairs](results/tatoeba-results-subset-highest.md)
+* results for the [zero-shot language pairs](results/tatoeba-results-all-subset-zero.md)
+* results for the [lowest resource language pairs](results/tatoeba-results-all-subset-lowest.md)
+* results for the [lower resource language pairs](results/tatoeba-results-all-subset-lower.md)
+* results for the [medium resource language pairs](results/tatoeba-results-all-subset-medium.md)
+* results for the [higher resource language pairs](results/tatoeba-results-all-subset-higher.md)
+* results for the [highest resource language pairs](results/tatoeba-results-all-subset-highest.md)
 * results for [multilingual models of various ISO639-5 language groups](results/tatoeba-results-langgroup.md)
-* [all results sorted by chrF scores](results/tatoeba-results-sorted.md)
-* [all results sorted by language pair](results/tatoeba-results-sorted-langpair.md)
+* [all results sorted by chrF2 scores](results/tatoeba-results-sorted.md)
+* [all results sorted by language pair](results/tatoeba-results-all.md)
 
 We will also publish (reasonable) models to be re-used and deployed through OPUS-MT and linked from the [model subdir in this github](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models). This includes multilingual models that cover several languages in source and target to enable transfer learning across languages. For example, there are multilingual models for
 
