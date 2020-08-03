@@ -54,15 +54,15 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.125 | 1.0 | 0.877 | 1933 |
 | | lang = eng-jbo | | | | |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.127 | 0.2 | 1.000 | 35300 |
-| [eng-art/opus](../models/eng-art) | tatoeba | 0.124 | 0.2 | 1.000 | 35294 |
+| eng-art/opus | tatoeba | 0.124 | 0.2 | 1.000 | 35294 |
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.123 | 0.1 | 1.000 | 35300 |
-| [eng-art/opus2m](../models/eng-art) | tatoeba | 0.122 | 0.1 | 1.000 | 35294 |
+| eng-art/opus2m | tatoeba | 0.122 | 0.1 | 1.000 | 35294 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.114 | 0.1 | 0.987 | 35294 |
 | | lang = epo-ina | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.331 | 9.9 | 0.974 | 23311 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.319 | 9.4 | 0.976 | 23311 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.271 | 6.8 | 0.993 | 23311 |
-| [art-art/opus](../models/art-art) | tatoeba | 0.161 | 0.1 | 1.000 | 23311 |
+| art-art/opus | tatoeba | 0.161 | 0.1 | 1.000 | 23311 |
 | | lang = fra-kab | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.163 | 0.7 | 1.000 | 64305 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.144 | 0.2 | 1.000 | 64305 |

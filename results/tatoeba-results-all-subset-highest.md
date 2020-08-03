@@ -1478,4 +1478,4 @@ to be useful for anything.
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.016 | 0.0 | 1.000 | 1034 |
 | | lang = zho-zho | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.025 | 0.0 | 1.000 | 2558 |
-| [sit-sit/opus](../models/sit-sit) | tatoeba | 0.005 | 0.0 | 1.000 | 29103 |
+| sit-sit/opus | tatoeba | 0.005 | 0.0 | 1.000 | 29103 |

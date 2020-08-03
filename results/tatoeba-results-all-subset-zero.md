@@ -33,17 +33,17 @@ to be useful for anything.
 | | lang = dtp-eng | | | | |
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.151 | 1.1 | 1.000 | 13788 |
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.149 | 1.0 | 1.000 | 13788 |
-| [pqw-eng/opus2m](../models/pqw-eng) | tatoeba | 0.140 | 0.9 | 1.000 | 13788 |
-| [map-eng/opus2m](../models/map-eng) | tatoeba | 0.138 | 0.8 | 1.000 | 13788 |
-| [poz-eng/opus2m](../models/poz-eng) | tatoeba | 0.138 | 0.8 | 1.000 | 13788 |
+| pqw-eng/opus2m | tatoeba | 0.140 | 0.9 | 1.000 | 13788 |
+| map-eng/opus2m | tatoeba | 0.138 | 0.8 | 1.000 | 13788 |
+| poz-eng/opus2m | tatoeba | 0.138 | 0.8 | 1.000 | 13788 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.136 | 0.7 | 1.000 | 13788 |
-| [map-eng/opus](../models/map-eng) | tatoeba | 0.120 | 0.6 | 1.000 | 13788 |
-| [poz-eng/opus](../models/poz-eng) | tatoeba | 0.120 | 0.6 | 1.000 | 13788 |
-| [pqw-eng/opus](../models/pqw-eng) | tatoeba | 0.120 | 0.6 | 1.000 | 13788 |
+| map-eng/opus | tatoeba | 0.120 | 0.6 | 1.000 | 13788 |
+| poz-eng/opus | tatoeba | 0.120 | 0.6 | 1.000 | 13788 |
+| pqw-eng/opus | tatoeba | 0.120 | 0.6 | 1.000 | 13788 |
 | | lang = dtp-jpn | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.029 | 0.2 | 1.000 | 251 |
 | | lang = dtp-msa | | | | |
-| [map-map/opus](../models/map-map) | tatoeba | 0.128 | 0.0 | 1.000 | 3479 |
+| map-map/opus | tatoeba | 0.128 | 0.0 | 1.000 | 3479 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.099 | 0.2 | 1.000 | 3479 |
 | | lang = egl-ita | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.184 | 2.5 | 1.000 | 1004 |
@@ -110,17 +110,17 @@ to be useful for anything.
 | | lang = eng-toki | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.078 | 0.1 | 0.919 | 48630 |
 | | lang = epo-ile | | | | |
-| [art-art/opus](../models/art-art) | tatoeba | 0.112 | 0.1 | 1.000 | 1677 |
+| art-art/opus | tatoeba | 0.112 | 0.1 | 1.000 | 1677 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.070 | 0.4 | 0.685 | 1677 |
 | | lang = epo-lad | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.116 | 0.4 | 1.000 | 1173 |
 | | lang = epo-lfn | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.127 | 2.2 | 0.926 | 2891 |
-| [art-art/opus](../models/art-art) | tatoeba | 0.107 | 0.1 | 1.000 | 2891 |
+| art-art/opus | tatoeba | 0.107 | 0.1 | 1.000 | 2891 |
 | | lang = epo-toki | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.055 | 0.1 | 1.000 | 28422 |
 | | lang = epo-vol | | | | |
-| [art-art/opus](../models/art-art) | tatoeba | 0.096 | 0.0 | 1.000 | 3742 |
+| art-art/opus | tatoeba | 0.096 | 0.0 | 1.000 | 3742 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.078 | 0.1 | 1.000 | 3742 |
 | | lang = fin-fkv | | | | |
 | [urj-urj/opus](../models/urj-urj) | tatoeba | 0.254 | 1.8 | 1.000 | 1721 |
@@ -142,7 +142,7 @@ to be useful for anything.
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.126 | 0.2 | 1.000 | 1234 |
 | | lang = ina-lfn | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.110 | 1.2 | 0.834 | 2793 |
-| [art-art/opus](../models/art-art) | tatoeba | 0.101 | 0.1 | 1.000 | 2793 |
+| art-art/opus | tatoeba | 0.101 | 0.1 | 1.000 | 2793 |
 | | lang = lad-yid | | | | |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.212 | 4.8 | 0.924 | 2296 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.134 | 0.1 | 1.000 | 2296 |
@@ -158,8 +158,8 @@ to be useful for anything.
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.169 | 3.0 | 1.000 | 5446 |
 | [zle-zle/opus](../models/zle-zle) | tatoeba | 0.161 | 2.5 | 1.000 | 5446 |
 | | lang = ota-tur | | | | |
-| [trk-trk/opus](../models/trk-trk) | tatoeba | 0.171 | 3.2 | 0.926 | 1503 |
-| [tut-tut/opus](../models/tut-tut) | tatoeba | 0.147 | 1.8 | 0.945 | 1503 |
+| trk-trk/opus | tatoeba | 0.171 | 3.2 | 0.926 | 1503 |
+| tut-tut/opus | tatoeba | 0.147 | 1.8 | 0.945 | 1503 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.110 | 0.4 | 1.000 | 1503 |
 | | lang = por-toki | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.070 | 0.2 | 1.000 | 18434 |
