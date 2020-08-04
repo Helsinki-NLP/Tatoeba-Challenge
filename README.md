@@ -5,7 +5,7 @@ A new challenge set for machine translation covering over 500 languages and thou
 
 * Realistic low-resource scenarios
 * [Training, development and test data](Data.md)
-* [Additional bilingual](subsets/NoTestData.md) and [monolingual data sets](Wiki.md)
+* [Additional bilingual](subsets/NoTestData.md) and [monolingual data sets](MonolingualData.md)
 * [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-all.md)
 * [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
 

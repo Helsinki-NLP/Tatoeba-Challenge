@@ -13,13 +13,15 @@ VERSION = v1
 
 
 ## OPUS home directory and language code conversion tools
+## OPUSMT_HOMEDIR: local copy of Opus-MT-train project
 ## TODO: get rid of some hard-coded paths?
 
-OPUS_HOME    = /projappl/nlpl/data/OPUS
-SCRIPTDIR    = scripts
-TOKENIZER    = ${SCRIPTDIR}/moses/tokenizer
-ISO639       = iso639
-GET_ISO_CODE = ${ISO639} -m
+OPUS_HOME      = /projappl/nlpl/data/OPUS
+OPUSMT_HOMEDIR = ../Opus-MT-train
+SCRIPTDIR      = scripts
+TOKENIZER      = ${SCRIPTDIR}/moses/tokenizer
+ISO639         = iso639
+GET_ISO_CODE   = ${ISO639} -m
 # GET_ISO_CODE = ${ISO639} -m -k
 
 
@@ -56,7 +58,7 @@ ifeq (${SHUFFLE},)
 endif
 GZIP := ${shell which pigz 2>/dev/null}
 GZIP ?= gzip
-
+ZCAT := ${GZIP} -cd
 
 ## basic training data filtering pipeline
 
@@ -108,7 +110,6 @@ EXTRA_OPUS_PAIRS3 = ${filter-out ${TATOEBA_PAIRS3},\
 
 EXTRA_TRAIN_DATA  = ${patsubst %,${DATADIR}/%/train.id.gz,${EXTRA_OPUS_PAIRS3}}
 
-
 ## OLD way of finding extra language pairs
 ## --> does not check whether OPUS language pairs really exist
 ## NEW (above): rely on language pairs stored in opus-langpairs3.txt
@@ -129,6 +130,20 @@ EXTRA_TRAIN_DATA  = ${patsubst %,${DATADIR}/%/train.id.gz,${EXTRA_OPUS_PAIRS3}}
 # 				  echo "${PIVOT_LANG}-$$l"; \
 # 				fi \
 # 			    done}}
+
+## monolingual data taken from Wikimedia sources
+## prepared by the Opus-MT-train project
+
+OPUSMT_WIKIDIR = ${OPUSMT_HOMEDIR}/backtranslate/wikidoc
+# WIKI_LANGS   = ${notdir ${wildcard ${OPUSMT_WIKIDIR}/*}}
+WIKI_LANGS     = aa ab ace ady af ak als am an ang ar arc ary arz as ast atj av awa ay az azb ba ban bar bcl be bg bh bi bjn bm bn bo bpy br bs bug bxr ca cdo ce ceb ch cho chr chy ckb co cr crh cs csb cu cv cy da de din diq dsb dty dv dz ee el eml en eo es et eu ext fa ff fi fj fo fr frp frr fur fy ga gag gan gcr gd gl glk gn gom gor got gu gv ha hak haw he hi hif ho hr hsb ht hu hy hyw hz ia id ie ig ii ik ilo inh io is it iu ja jam jbo jv ka kaa kab kbd kbp kg ki kj kk kl km kn ko koi kr krc ks ksh ku kv kw ky la lad lb lbe lez lfn lg li lij lmo ln lo lrc lt ltg lv mai mdf mg mh mhr mi min mk ml mn mnw mr mrj ms mt mus mwl my myv mzn na nah nap nds ne new ng nl nn no nov nqo nrm nso nv ny oc olo om or os pa pag pam pap pcd pdc pfl pi pih pl pms pnb pnt ps pt qu rm rmy rn ro ru rue rw sa sah sat sc scn sco sd se sg sh shn si sk sl sm sn so sq sr srn ss st stq su sv sw szl szy ta tcy te ten tet tg th ti tk tl tn to tpi tr ts tt tum tw ty tyv udm ug uk ur uz ve vec vep vi vls vo wa war wo wuu xal xh xmf yi yo za zea zh zu
+WIKI_LANGS3    = ${sort ${filter-out xxx,${shell ${GET_ISO_CODE} ${WIKI_LANGS}}}}
+
+WIKI_DOCS      = ${patsubst %,${DATADIR}/%/wikipedia.id.gz,${WIKI_LANGS3}} \
+		 ${patsubst %,${DATADIR}/%/wikibooks.id.gz,${WIKI_LANGS3}} \
+		 ${patsubst %,${DATADIR}/%/wikinews.id.gz,${WIKI_LANGS3}} \
+		 ${patsubst %,${DATADIR}/%/wikiquote.id.gz,${WIKI_LANGS3}} \
+		 ${patsubst %,${DATADIR}/%/wikisource.id.gz,${WIKI_LANGS3}}
 
 
 
@@ -156,6 +171,7 @@ test-tsv: ${TEST_TSV}
 dev-tsv: ${DEV_TSV}
 statistics: ${STATISTICS}
 upload: ${patsubst %,${DATADIR}/%.done,${TATOEBA_PAIRS3}}
+upload-mono: ${patsubst %,${DATADIR}/%.done,${WIKI_LANGS3}}
 upload-wikishuffled: ${patsubst wiki-shuffled/%,data/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
 upload-wikidoc: ${patsubst wiki-doc/%,data/wiki-doc-%.done,${wildcard wiki-doc/???}}
 
@@ -350,6 +366,27 @@ ${DEV_TSV}: ${DATADIR}/dev/%/dev.txt: ${DATADIR}/%/dev.id
 	paste $< ${<:.id=.src} ${<:.id=.trg} > $@
 
 
+wikidocs: ${WIKI_DOCS}
+
+${WIKI_DOCS}:
+	mkdir -p ${dir $@}
+	( w=$(patsubst %.id.gz,%,${notdir $@}); \
+	  if [ $$w == wikipedia ]; then w=wiki; fi; \
+	  for l in ${shell ${SCRIPTDIR}/find_opus_langs.pl \
+			${patsubst ${DATADIR}/%/,%,${dir $@}} \
+			${WIKI_LANGS}}; do \
+	    echo "get wikidata for $$l"; \
+	    if [ -e ${OPUSMT_WIKIDIR}/$$l/$$w.$$l.gz ]; then \
+	      ${ZCAT} ${OPUSMT_WIKIDIR}/$$l/$$w.$$l.gz | langscript -3 -l $$l -r -D >> $@.tmpids; \
+	      ${ZCAT} ${OPUSMT_WIKIDIR}/$$l/$$w.$$l.gz >> $@.tmptxt; \
+	    fi \
+	  done )
+	if [ -e $@.tmptxt ]; then \
+	  gzip -c < $@.tmptxt > $(@:.id.gz=.txt.gz); \
+	  gzip -c < $@.tmpids > $@; \
+	  rm -f $@.tmptxt $@.tmpids; \
+	fi
+
 
 DOWNLOADURL = https://object.pouta.csc.fi/Tatoeba-Challenge
 
@@ -454,6 +491,47 @@ Wiki.md:
 	done
 
 
+MonolingualData.md:
+	echo "# Tatoeba Challenge Data - Monolingual data sets" > $@
+	echo "" >> $@
+	echo "This is part of the "                     >> $@
+	echo "[Tatoeba Translation Challenge Data set](https://github.com/Helsinki-NLP/Tatoeba-Challenge)." >> $@
+	echo "The following monolingual data sets are extracted from"                                       >> $@
+	echo "[CirrusSearch Wikimedia dumps](https://dumps.wikimedia.org/other/cirrussearch/)"              >> $@
+	echo "including:"                               >> $@
+	echo "* Wikipedia"                              >> $@
+	echo "* Wikibooks"                              >> $@
+	echo "* Wikinews"                               >> $@
+	echo "* Wikiquote"                              >> $@
+	echo "* Wikisource"                             >> $@
+	echo "" >> $@
+	echo "All data sets are in UTF8 plain text, one sentence"           >> $@
+	echo "per line and document boundaries (empty lines)."              >> $@
+	echo "" >> $@
+	echo "The packages below use the same division into languages"      >> $@
+	echo "and macro-languages as they are defined in the Tatoeba"       >> $@
+	echo "translation challenge. Language ID files with script"         >> $@
+	echo "information are also added to each data source in the "       >> $@
+	echo "same way as it is done for the bilingual data sets."          >> $@
+	echo "" >> $@
+	echo "There are also packages with the original Wikipedia"          >> $@
+	echo "languages (converted to ISO-639-3) that you can"              >> $@
+	echo "download in a deduplicated and shuffled version"              >> $@
+	echo "or with document boundaries from [this page](Wiki.md)"        >> $@
+	echo "" >> $@
+	echo "Simple pre-processing like unicode character normalisation "  >> $@
+	echo "and language-identification-based filtering has been applied" >> $@
+	echo "to reduce some noise. The extraction scripts are part of"     >> $@
+	echo "[OPUS-MT](https://github.com/Helsinki-NLP/OPUS-MT-train)."    >> $@
+	echo "" >> $@
+	for l in ${WIKI_LANGS3}; do \
+	  echo -n "* [$$l](${DOWNLOADURL}/$$l.tar)"   >> $@; \
+	  echo "" >> $@; \
+	done
+
+
+
+
 .PHONY: subsets
 subsets: subsets/insufficient.md \
 	subsets/zero.md \
@@ -500,7 +578,6 @@ data/%.done: data/%
 	a-put ${APUT_FLAGS} -b Tatoeba-Challenge $<
 	touch $@
 
-#	swift post Tatoeba-Challenge --read-acl ".r:*"
 
 
 ## upload wiki-data
