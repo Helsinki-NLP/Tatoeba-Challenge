@@ -239,7 +239,7 @@
 | deu-bul | deu.bul | 50.7 | 75.7/55.8/45.1/37.5 (BP = 0.980 ratio = 0.980 hyp_len = 1991 ref_len = 2032) |
 | deu-cat | deu.cat | 37.4 | 67.0/44.9/32.7/23.8 (BP = 0.956 ratio = 0.957 hyp_len = 5272 ref_len = 5507) |
 | deu-ceb | deu.ceb | 9.3 | 39.1/13.1/6.0/2.5 (BP = 1.000 ratio = 1.200 hyp_len = 7593 ref_len = 6330) |
-| deu-eng | deu.eng | 53.1 | 78.1/59.9/48.2/39.1 (BP = 0.975 ratio = 0.975 hyp_len = 79195 ref_len = 81233) |
+| deu-eng | deu.eng | 53.4 | 78.2/60.1/48.4/39.4 (BP = 0.976 ratio = 0.976 hyp_len = 79314 ref_len = 81233) |
 | deu-epo | deu.epo | 24.1 | 59.9/31.2/19.3/12.1 (BP = 0.938 ratio = 0.940 hyp_len = 81801 ref_len = 87063) |
 | deu-eus | deu.eus | 31.8 | 65.7/39.6/27.5/19.7 (BP = 0.921 ratio = 0.924 hyp_len = 2615 ref_len = 2829) |
 | deu-fas | deu.fas | 0.3 | 17.6/1.9/0.1/0.0 (BP = 1.000 ratio = 1.151 hyp_len = 28698 ref_len = 24941) |
@@ -1482,6 +1482,7 @@
 | fas-deu | fas.deu | 0.4 | 18.3/1.0/0.1/0.0 (BP = 1.000 ratio = 1.165 hyp_len = 29825 ref_len = 25590) |
 | fas-eng | fas.eng | 0.7 | 15.6/1.4/0.2/0.0 (BP = 1.000 ratio = 1.485 hyp_len = 46784 ref_len = 31508) |
 | fas-epo | fas.epo | 0.7 | 17.5/1.5/0.3/0.0 (BP = 1.000 ratio = 1.498 hyp_len = 27501 ref_len = 18357) |
+| fin-eng | fin.eng | 53.4 | 76.8/59.3/47.7/38.9 (BP = 0.990 ratio = 0.990 hyp_len = 73940 ref_len = 74651) |
 | fin-epo | fin.epo | 22.5 | 56.0/27.9/17.5/11.5 (BP = 0.949 ratio = 0.950 hyp_len = 17936 ref_len = 18881) |
 | fin-nor | fin.nor | 23.5 | 56.9/27.9/17.0/11.3 (BP = 1.000 ratio = 1.015 hyp_len = 14988 ref_len = 14768) |
 | fiu-eng | est.eng | 55.3 | 78.9/62.0/50.5/41.5 (BP = 0.977 ratio = 0.977 hyp_len = 8612 ref_len = 8811) |

@@ -167,10 +167,12 @@
 | itc-eng | cat.eng | 0.699 |
 | ine-ine | nor.nor | 0.698 |
 | eng-gem | eng.nld | 0.697 |
+| fin-eng | fin.eng | 0.697 |
 | itc-eng | glg.eng | 0.697 |
 | itc-eng | ron.eng | 0.697 |
 | sla-eng | bul.eng | 0.697 |
 | bel+rus+ukr-bel+rus+ukr | rus.bel | 0.696 |
+| deu-eng | deu.eng | 0.696 |
 | gem-eng | nor.eng | 0.696 |
 | ine-ine | dan.swe | 0.696 |
 | ine-ine | spa.cat | 0.696 |
@@ -186,7 +188,6 @@
 | cat-fra | cat.fra | 0.694 |
 | ine-eng | nld.eng | 0.694 |
 | bul-fra | bul.fra | 0.693 |
-| deu-eng | deu.eng | 0.693 |
 | zls-eng | bul.eng | 0.693 |
 | zls-eng | hbs.eng | 0.693 |
 | eng-gmw | eng.nld | 0.692 |

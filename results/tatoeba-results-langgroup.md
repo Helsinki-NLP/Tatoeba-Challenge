@@ -9,41 +9,54 @@ to be useful for anything.
 | Source | Target | Model | Test Set      | chrF2 | BLEU |
 |--------|--------|------:|---------------|------:|-----:|
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | multi.eng | 0.391 | 24.8 |
+| Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | multi.eng | 0.390 | 24.5 |
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | multi.eng | 0.384 | 23.7 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | multi.eng | 0.464 | 27.1 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | multi.eng | 0.450 | 25.4 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | multi.eng | 0.376 | 20.9 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | multi.eng | 0.371 | 20.6 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | multi.eng | 0.287 | 11.6 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | multi.eng | 0.286 | 11.5 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | multi.eng | 0.284 | 11.6 |
+| Athapascan languages | English  | [ath-eng](../models/ath-eng) | multi.eng | 0.139 | 0.3 |
 | Athapascan languages | English  | [ath-eng](../models/ath-eng) | multi.eng | 0.133 | 0.3 |
 | Athapascan languages | English  | [ath-eng](../models/ath-eng) | multi.eng | 0.126 | 0.3 |
 | Baltic languages | English  | [bat-eng](../models/bat-eng) | multi.eng | 0.662 | 50.6 |
 | Baltic languages | English  | [bat-eng](../models/bat-eng) | multi.eng | 0.643 | 48.2 |
 | Berber languages | English  | [ber-eng](../models/ber-eng) | multi.eng | 0.147 | 0.4 |
+| Berber languages | English  | [ber-eng](../models/ber-eng) | multi.eng | 0.146 | 0.3 |
 | Berber languages | English  | [ber-eng](../models/ber-eng) | multi.eng | 0.120 | 0.2 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | multi.eng | 0.394 | 23.1 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | multi.eng | 0.389 | 22.5 |
+| Caucasian languages | English  | [cau-eng](../models/cau-eng) | multi.eng | 0.356 | 17.4 |
 | Caucasian languages | English  | [cau-eng](../models/cau-eng) | multi.eng | 0.351 | 16.6 |
 | Caucasian languages | English  | [cau-eng](../models/cau-eng) | multi.eng | 0.340 | 15.0 |
 | North Caucasian languages | English  | [ccn-eng](../models/ccn-eng) | multi.eng | 0.117 | 0.4 |
 | North Caucasian languages | English  | [ccn-eng](../models/ccn-eng) | multi.eng | 0.115 | 0.4 |
+| North Caucasian languages | English  | [ccn-eng](../models/ccn-eng) | multi.eng | 0.113 | 0.4 |
+| South Caucasian languages | English  | [ccs-eng](../models/ccs-eng) | multi.eng | 0.402 | 22.0 |
 | South Caucasian languages | English  | [ccs-eng](../models/ccs-eng) | multi.eng | 0.357 | 18.0 |
 | South Caucasian languages | English  | [ccs-eng](../models/ccs-eng) | multi.eng | 0.311 | 13.9 |
+| Celtic languages | English  | [cel-eng](../models/cel-eng) | multi.eng | 0.404 | 23.3 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | multi.eng | 0.398 | 22.8 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | multi.eng | 0.387 | 21.7 |
 | Creoles and pidgins, French‑based | English  | [cpf-eng](../models/cpf-eng) | multi.eng | 0.334 | 16.1 |
+| Creoles and pidgins, French‑based | English  | [cpf-eng](../models/cpf-eng) | multi.eng | 0.328 | 16.3 |
 | Creoles and pidgins, French‑based | English  | [cpf-eng](../models/cpf-eng) | multi.eng | 0.323 | 16.3 |
+| Creoles and pidgins, Portuguese-based | English  | [cpp-eng](../models/cpp-eng) | multi.eng | 0.585 | 40.1 |
 | Creoles and pidgins, Portuguese-based | English  | [cpp-eng](../models/cpp-eng) | multi.eng | 0.580 | 39.7 |
 | Creoles and pidgins, Portuguese-based | English  | [cpp-eng](../models/cpp-eng) | multi.eng | 0.570 | 38.4 |
 | Cushitic languages | English  | [cus-eng](../models/cus-eng) | multi.eng | 0.303 | 16.2 |
 | Cushitic languages | English  | [cus-eng](../models/cus-eng) | multi.eng | 0.248 | 13.1 |
+| Cushitic languages | English  | [cus-eng](../models/cus-eng) | multi.eng | 0.240 | 8.4 |
 | Mande languages | English  | [dmn-eng](../models/dmn-eng) | multi.eng | 0.124 | 1.2 |
+| Mande languages | English  | [dmn-eng](../models/dmn-eng) | multi.eng | 0.118 | 1.0 |
 | Mande languages | English  | [dmn-eng](../models/dmn-eng) | multi.eng | 0.064 | 5.2 |
 | Dravidian languages | English  | [dra-eng](../models/dra-eng) | multi.eng | 0.493 | 30.0 |
 | Dravidian languages | English  | [dra-eng](../models/dra-eng) | multi.eng | 0.443 | 25.5 |
 | Eskimo-Aleut languages | English  | [esx-eng](../models/esx-eng) | multi.eng | 0.189 | 4.7 |
 | Eskimo-Aleut languages | English  | [esx-eng](../models/esx-eng) | multi.eng | 0.187 | 4.3 |
+| Eskimo-Aleut languages | English  | [esx-eng](../models/esx-eng) | multi.eng | 0.181 | 2.0 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | multi.eng | 0.648 | 47.8 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | multi.eng | 0.626 | 45.4 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | multi.eng | 0.687 | 54.0 |
@@ -53,6 +66,7 @@ to be useful for anything.
 | North Germanic languages | English  | [gmq-eng](../models/gmq-eng) | multi.eng | 0.715 | 57.4 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | multi.eng | 0.646 | 48.5 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | multi.eng | 0.637 | 47.5 |
+| Greek languages | English  | [grk-eng](../models/grk-eng) | multi.eng | 0.741 | 62.2 |
 | Greek languages | English  | [grk-eng](../models/grk-eng) | multi.eng | 0.733 | 60.9 |
 | Greek languages | English  | [grk-eng](../models/grk-eng) | multi.eng | 0.714 | 58.7 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | multi.eng | 0.424 | 21.3 |
@@ -61,8 +75,10 @@ to be useful for anything.
 | Indic languages | English  | [inc-eng](../models/inc-eng) | multi.eng | 0.484 | 26.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | multi.eng | 0.615 | 45.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | multi.eng | 0.613 | 45.4 |
+| Iranian languages | English  | [ira-eng](../models/ira-eng) | multi.eng | 0.184 | 1.6 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | multi.eng | 0.184 | 1.7 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | multi.eng | 0.184 | 1.7 |
+| Iroquoian languages | English  | [iro-eng](../models/iro-eng) | multi.eng | 0.153 | 0.8 |
 | Iroquoian languages | English  | [iro-eng](../models/iro-eng) | multi.eng | 0.151 | 0.3 |
 | Iroquoian languages | English  | [iro-eng](../models/iro-eng) | multi.eng | 0.148 | 0.3 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | multi.eng | 0.634 | 47.6 |
@@ -70,6 +86,7 @@ to be useful for anything.
 | Austronesian languages | English  | [map-eng](../models/map-eng) | multi.eng | 0.165 | 3.1 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | multi.eng | 0.154 | 3.6 |
 | Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | multi.eng | 0.411 | 24.0 |
+| Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | multi.eng | 0.410 | 23.9 |
 | Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | multi.eng | 0.407 | 24.5 |
 | Multiple languages | English  | [mul-eng](../models/mul-eng) | multi.eng | 0.518 | 34.7 |
 | Multiple languages | English  | [mul-eng](../models/mul-eng) | multi.eng | 0.518 | 34.7 |
@@ -116,42 +133,56 @@ to be useful for anything.
 | South Slavic languages | English  | [zls-eng](../models/zls-eng) | multi.eng | 0.668 | 52.5 |
 | West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | multi.eng | 0.680 | 51.8 |
 | West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | multi.eng | 0.660 | 49.4 |
+| English | Austro-Asiatic languages  | [eng-aav](../models/eng-aav) | eng.multi | 0.315 | 16.2 |
 | English | Austro-Asiatic languages  | [eng-aav](../models/eng-aav) | eng.multi | 0.311 | 16.1 |
 | English | Austro-Asiatic languages  | [eng-aav](../models/eng-aav) | eng.multi | 0.307 | 14.8 |
 | English | Afro-Asiatic languages  | [eng-afa](../models/eng-afa) | eng.multi | 0.375 | 14.4 |
 | English | Afro-Asiatic languages  | [eng-afa](../models/eng-afa) | eng.multi | 0.363 | 13.7 |
 | English | Atlantic-Congo languages  | [eng-alv](../models/eng-alv) | eng.multi | 0.430 | 11.2 |
 | English | Atlantic-Congo languages  | [eng-alv](../models/eng-alv) | eng.multi | 0.429 | 11.4 |
+| English | Artificial languages  | [eng-art](../models/eng-art) | eng.multi | 0.275 | 10.6 |
 | English | Artificial languages  | [eng-art](../models/eng-art) | eng.multi | 0.274 | 9.9 |
 | English | Artificial languages  | [eng-art](../models/eng-art) | eng.multi | 0.271 | 9.2 |
+| English | Athapascan languages  | [eng-ath](../models/eng-ath) | eng.multi | 0.126 | 0.2 |
 | English | Athapascan languages  | [eng-ath](../models/eng-ath) | eng.multi | 0.120 | 0.2 |
 | English | Athapascan languages  | [eng-ath](../models/eng-ath) | eng.multi | 0.111 | 0.4 |
 | English | Baltic languages  | [eng-bat](../models/eng-bat) | eng.multi | 0.616 | 37.0 |
 | English | Baltic languages  | [eng-bat](../models/eng-bat) | eng.multi | 0.599 | 35.1 |
 | English | Berber languages  | [eng-ber](../models/eng-ber) | eng.multi | 0.134 | 0.2 |
+| English | Berber languages  | [eng-ber](../models/eng-ber) | eng.multi | 0.133 | 0.1 |
 | English | Berber languages  | [eng-ber](../models/eng-ber) | eng.multi | 0.097 | 0.1 |
 | English | Bantu languages  | [eng-bnt](../models/eng-bnt) | eng.multi | 0.449 | 12.1 |
 | English | Bantu languages  | [eng-bnt](../models/eng-bnt) | eng.multi | 0.446 | 12.1 |
+| English | Caucasian languages  | [eng-cau](../models/eng-cau) | eng.multi | 0.148 | 3.9 |
 | English | Caucasian languages  | [eng-cau](../models/eng-cau) | eng.multi | 0.146 | 3.3 |
 | English | Caucasian languages  | [eng-cau](../models/eng-cau) | eng.multi | 0.056 | 0.5 |
+| English | North Caucasian languages  | [eng-ccn](../models/eng-ccn) | eng.multi | 0.102 | 0.4 |
 | English | North Caucasian languages  | [eng-ccn](../models/eng-ccn) | eng.multi | 0.089 | 0.5 |
 | English | North Caucasian languages  | [eng-ccn](../models/eng-ccn) | eng.multi | 0.080 | 0.4 |
 | English | South Caucasian languages  | [eng-ccs](../models/eng-ccs) | eng.multi | 0.164 | 4.7 |
 | English | South Caucasian languages  | [eng-ccs](../models/eng-ccs) | eng.multi | 0.161 | 4.5 |
+| English | South Caucasian languages  | [eng-ccs](../models/eng-ccs) | eng.multi | 0.148 | 4.4 |
+| English | Celtic languages  | [eng-cel](../models/eng-cel) | eng.multi | 0.347 | 18.5 |
 | English | Celtic languages  | [eng-cel](../models/eng-cel) | eng.multi | 0.342 | 18.0 |
 | English | Celtic languages  | [eng-cel](../models/eng-cel) | eng.multi | 0.329 | 16.5 |
 | English | Creoles and pidgins, French‑based  | [eng-cpf](../models/eng-cpf) | eng.multi | 0.354 | 15.9 |
 | English | Creoles and pidgins, French‑based  | [eng-cpf](../models/eng-cpf) | eng.multi | 0.344 | 14.1 |
+| English | Creoles and pidgins, French‑based  | [eng-cpf](../models/eng-cpf) | eng.multi | 0.328 | 12.5 |
+| English | Creoles and pidgins, Portuguese-based  | [eng-cpp](../models/eng-cpp) | eng.multi | 0.574 | 32.5 |
 | English | Creoles and pidgins, Portuguese-based  | [eng-cpp](../models/eng-cpp) | eng.multi | 0.574 | 32.7 |
 | English | Creoles and pidgins, Portuguese-based  | [eng-cpp](../models/eng-cpp) | eng.multi | 0.567 | 31.5 |
 | English | Cushitic languages  | [eng-cus](../models/eng-cus) | eng.multi | 0.199 | 8.1 |
 | English | Cushitic languages  | [eng-cus](../models/eng-cus) | eng.multi | 0.173 | 16.0 |
+| English | Cushitic languages  | [eng-cus](../models/eng-cus) | eng.multi | 0.173 | 16.0 |
 | English | Mande languages  | [eng-dmn](../models/eng-dmn) | eng.multi | 0.037 | 3.0 |
+| English | Mande languages  | [eng-dmn](../models/eng-dmn) | eng.multi | 0.035 | 2.9 |
 | English | Mande languages  | [eng-dmn](../models/eng-dmn) | eng.multi | 0.007 | 0.3 |
+| English | Dravidian languages  | [eng-dra](../models/eng-dra) | eng.multi | 0.466 | 10.7 |
 | English | Dravidian languages  | [eng-dra](../models/eng-dra) | eng.multi | 0.463 | 10.5 |
 | English | Dravidian languages  | [eng-dra](../models/eng-dra) | eng.multi | 0.463 | 10.7 |
 | English | Eskimo-Aleut languages  | [eng-esx](../models/eng-esx) | eng.multi | 0.207 | 1.7 |
 | English | Eskimo-Aleut languages  | [eng-esx](../models/eng-esx) | eng.multi | 0.162 | 0.6 |
+| English | Eskimo-Aleut languages  | [eng-esx](../models/eng-esx) | eng.multi | 0.160 | 0.5 |
 | English | Finno-Ugrian languages  | [eng-fiu](../models/eng-fiu) | eng.multi | 0.590 | 35.4 |
 | English | Finno-Ugrian languages  | [eng-fiu](../models/eng-fiu) | eng.multi | 0.578 | 33.8 |
 | English | Germanic languages  | [eng-gem](../models/eng-gem) | eng.multi | 0.641 | 46.5 |
@@ -164,19 +195,23 @@ to be useful for anything.
 | English | Greek languages  | [eng-grk](../models/eng-grk) | eng.multi | 0.649 | 38.2 |
 | English | Indo-Iranian languages  | [eng-iir](../models/eng-iir) | eng.multi | 0.392 | 13.7 |
 | English | Indo-Iranian languages  | [eng-iir](../models/eng-iir) | eng.multi | 0.384 | 13.3 |
+| English | Indic languages  | [eng-inc](../models/eng-inc) | eng.multi | 0.450 | 17.5 |
 | English | Indic languages  | [eng-inc](../models/eng-inc) | eng.multi | 0.448 | 17.3 |
 | English | Indic languages  | [eng-inc](../models/eng-inc) | eng.multi | 0.436 | 16.6 |
 | English | Indo-European languages  | [eng-ine](../models/eng-ine) | eng.multi | 0.539 | 32.6 |
 | English | Indo-European languages  | [eng-ine](../models/eng-ine) | eng.multi | 0.533 | 32.0 |
 | English | Iranian languages  | [eng-ira](../models/eng-ira) | eng.multi | 0.161 | 1.0 |
 | English | Iranian languages  | [eng-ira](../models/eng-ira) | eng.multi | 0.160 | 1.1 |
+| English | Iranian languages  | [eng-ira](../models/eng-ira) | eng.multi | 0.160 | 1.1 |
 | English | Iroquoian languages  | [eng-iro](../models/eng-iro) | eng.multi | 0.015 | 0.1 |
 | English | Iroquoian languages  | [eng-iro](../models/eng-iro) | eng.multi | 0.015 | 0.1 |
+| English | Iroquoian languages  | [eng-iro](../models/eng-iro) | eng.multi | 0.014 | 0.1 |
 | English | Italic languages  | [eng-itc](../models/eng-itc) | eng.multi | 0.588 | 38.0 |
 | English | Italic languages  | [eng-itc](../models/eng-itc) | eng.multi | 0.585 | 37.5 |
 | English | Austronesian languages  | [eng-map](../models/eng-map) | eng.multi | 0.411 | 17.0 |
 | English | Austronesian languages  | [eng-map](../models/eng-map) | eng.multi | 0.411 | 17.6 |
 | English | Mon-Khmer languages  | [eng-mkh](../models/eng-mkh) | eng.multi | 0.330 | 16.5 |
+| English | Mon-Khmer languages  | [eng-mkh](../models/eng-mkh) | eng.multi | 0.323 | 14.8 |
 | English | Mon-Khmer languages  | [eng-mkh](../models/eng-mkh) | eng.multi | 0.322 | 14.9 |
 | English | Multiple languages  | [eng-mul](../models/eng-mul) | eng.multi | 0.451 | 22.4 |
 | English | Multiple languages  | [eng-mul](../models/eng-mul) | eng.multi | 0.434 | 19.1 |
@@ -237,6 +272,7 @@ to be useful for anything.
 | Afro-Asiatic languages | Afro-Asiatic languages  | [afa-afa](../models/afa-afa) | multi.multi | 0.434 | 20.8 |
 | Artificial languages | Artificial languages  | [art-art](../models/art-art) | multi.multi | 0.128 | 0.1 |
 | Artificial languages | Artificial languages  | [art-art](../models/art-art) | multi.multi | 0.127 | 0.1 |
+| Baltic languages | Baltic languages  | [bat-bat](../models/bat-bat) | multi.multi | 0.493 | 19.0 |
 | Baltic languages | Baltic languages  | [bat-bat](../models/bat-bat) | multi.multi | 0.472 | 8.8 |
 | Celtic languages | Celtic languages  | [cel-cel](../models/cel-cel) | multi.multi | 0.145 | 0.9 |
 | Celtic languages | Celtic languages  | [cel-cel](../models/cel-cel) | multi.multi | 0.144 | 1.1 |
@@ -260,12 +296,18 @@ to be useful for anything.
 | Semitic languages | Semitic languages  | [sem-sem](../models/sem-sem) | multi.multi | 0.507 | 27.1 |
 | Sino-Tibetan languages | Sino-Tibetan languages  | [sit-sit](../models/sit-sit) | multi.multi | 0.127 | 0.5 |
 | Sino-Tibetan languages | Sino-Tibetan languages  | [sit-sit](../models/sit-sit) | multi.multi | 0.110 | 0.3 |
+| Slavic languages | Slavic languages  | [sla-sla](../models/sla-sla) | multi.multi | 0.673 | 48.9 |
 | Slavic languages | Slavic languages  | [sla-sla](../models/sla-sla) | multi.multi | 0.672 | 48.5 |
+| Turkic languages | Turkic languages  | [trk-trk](../models/trk-trk) | multi.multi | 0.299 | 7.2 |
 | Turkic languages | Turkic languages  | [trk-trk](../models/trk-trk) | multi.multi | 0.291 | 7.0 |
+| Altaic languages | Altaic languages  | [tut-tut](../models/tut-tut) | multi.multi | 0.281 | 6.6 |
 | Altaic languages | Altaic languages  | [tut-tut](../models/tut-tut) | multi.multi | 0.270 | 6.0 |
 | Uralic languages | Uralic languages  | [urj-urj](../models/urj-urj) | multi.multi | 0.580 | 32.9 |
+| East Slavic languages | East Slavic languages  | [zle-zle](../models/zle-zle) | multi.multi | 0.750 | 59.2 |
 | East Slavic languages | East Slavic languages  | [zle-zle](../models/zle-zle) | multi.multi | 0.742 | 58.0 |
+| South Slavic languages | South Slavic languages  | [zls-zls](../models/zls-zls) | multi.multi | 0.689 | 45.6 |
 | South Slavic languages | South Slavic languages  | [zls-zls](../models/zls-zls) | multi.multi | 0.563 | 26.5 |
+| West Slavic languages | West Slavic languages  | [zlw-zlw](../models/zlw-zlw) | multi.multi | 0.594 | 40.2 |
 | West Slavic languages | West Slavic languages  | [zlw-zlw](../models/zlw-zlw) | multi.multi | 0.580 | 38.8 |
 
 ## Performance on individual language pairs

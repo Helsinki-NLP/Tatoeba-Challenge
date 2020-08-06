@@ -511,7 +511,7 @@
 | ine-ine | deu.dan | 37.8 | 71.1/45.7/32.0/22.8 (BP = 0.965 ratio = 0.965 hyp_len = 72054 ref_len = 74655) |
 | ine-ine | deu.dsb | 0.1 | 7.7/0.2/0.0/0.0 (BP = 1.000 ratio = 2.233 hyp_len = 8605 ref_len = 3854) |
 | ine-ine | deu.ell | 27.1 | 59.3/33.2/21.4/13.7 (BP = 0.984 ratio = 0.984 hyp_len = 15266 ref_len = 15517) |
-| deu-eng | deu.eng | 53.1 | 78.1/59.9/48.2/39.1 (BP = 0.975 ratio = 0.975 hyp_len = 79195 ref_len = 81233) |
+| deu-eng | deu.eng | 53.4 | 78.2/60.1/48.4/39.4 (BP = 0.976 ratio = 0.976 hyp_len = 79314 ref_len = 81233) |
 | gem-eng | deu.eng | 49.7 | 76.0/56.5/44.3/35.2 (BP = 0.977 ratio = 0.977 hyp_len = 79367 ref_len = 81233) |
 | gem-eng | deu.eng | 48.7 | 75.4/55.6/43.3/34.1 (BP = 0.976 ratio = 0.976 hyp_len = 79283 ref_len = 81233) |
 | gmw-eng | deu.eng | 48.3 | 75.2/55.3/42.9/33.7 (BP = 0.974 ratio = 0.974 hyp_len = 79140 ref_len = 81233) |
@@ -2328,6 +2328,7 @@
 | tatoeba-lower | fin.ces | 45.6 | 68.1/47.2/39.7/36.5 (BP = 0.981 ratio = 0.981 hyp_len = 408 ref_len = 416) |
 | tatoeba-zero | fin.deu | 24.3 | 57.6/29.5/18.0/12.0 (BP = 0.989 ratio = 0.989 hyp_len = 17884 ref_len = 18076) |
 | tatoeba-lower | fin.deu | 22.8 | 56.4/27.8/16.8/11.1 (BP = 0.979 ratio = 0.979 hyp_len = 17695 ref_len = 18076) |
+| fin-eng | fin.eng | 53.4 | 76.8/59.3/47.7/38.9 (BP = 0.990 ratio = 0.990 hyp_len = 73940 ref_len = 74651) |
 | fiu-eng | fin.eng | 48.7 | 73.8/54.7/42.8/34.0 (BP = 0.990 ratio = 0.990 hyp_len = 73888 ref_len = 74651) |
 | fiu-eng | fin.eng | 46.3 | 72.1/52.2/40.3/31.6 (BP = 0.990 ratio = 0.990 hyp_len = 73901 ref_len = 74651) |
 | mul-eng | fin.eng | 36.5 | 64.6/41.7/30.2/22.5 (BP = 0.993 ratio = 0.993 hyp_len = 74094 ref_len = 74651) |

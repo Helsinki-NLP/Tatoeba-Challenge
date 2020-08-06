@@ -244,7 +244,7 @@
 | deu-bul | deu.bul | 0.683 |
 | deu-cat | deu.cat | 0.582 |
 | deu-ceb | deu.ceb | 0.413 |
-| deu-eng | deu.eng | 0.693 |
+| deu-eng | deu.eng | 0.696 |
 | deu-epo | deu.epo | 0.453 |
 | deu-eus | deu.eus | 0.574 |
 | deu-fas | deu.fas | 0.139 |
@@ -1511,6 +1511,7 @@
 | fas-deu | fas.deu | 0.142 |
 | fas-eng | fas.eng | 0.136 |
 | fas-epo | fas.epo | 0.157 |
+| fin-eng | fin.eng | 0.697 |
 | fin-epo | fin.epo | 0.413 |
 | fin-nor | fin.nor | 0.426 |
 | fiu-eng | est.eng | 0.706 |

@@ -515,7 +515,7 @@
 | ine-ine | deu.dan | 0.579 |
 | ine-ine | deu.dsb | 0.082 |
 | ine-ine | deu.ell | 0.485 |
-| deu-eng | deu.eng | 0.693 |
+| deu-eng | deu.eng | 0.696 |
 | gem-eng | deu.eng | 0.665 |
 | gem-eng | deu.eng | 0.658 |
 | gmw-eng | deu.eng | 0.657 |
@@ -2361,6 +2361,7 @@
 | tatoeba-lower | fin.ces | 0.552 |
 | tatoeba-zero | fin.deu | 0.457 |
 | tatoeba-lower | fin.deu | 0.434 |
+| fin-eng | fin.eng | 0.697 |
 | fiu-eng | fin.eng | 0.660 |
 | fiu-eng | fin.eng | 0.639 |
 | mul-eng | fin.eng | 0.539 |
