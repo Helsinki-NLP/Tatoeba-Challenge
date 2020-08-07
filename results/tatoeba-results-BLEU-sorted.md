@@ -778,6 +778,7 @@
 | sal-eng | msa.eng | 38.8 | 68.5/46.0/33.5/24.9 (BP = 0.965 ratio = 0.965 hyp_len = 35746 ref_len = 37033) |
 | tatoeba-zero | nld.eng | 38.8 | 69.6/45.5/32.8/24.0 (BP = 0.978 ratio = 0.978 hyp_len = 68296 ref_len = 69848) |
 | aav-eng | vie.eng | 38.7 | 69.5/46.7/34.0/25.6 (BP = 0.945 ratio = 0.947 hyp_len = 19164 ref_len = 20241) |
+| eng-fin | eng.fin | 38.7 | 71.3/47.3/34.1/25.3 (BP = 0.935 ratio = 0.937 hyp_len = 56714 ref_len = 60517) |
 | eng-ine | eng.bul | 38.7 | 70.8/46.1/33.4/24.8 (BP = 0.955 ratio = 0.956 hyp_len = 66433 ref_len = 69504) |
 | eng-zle | eng.ukr | 38.7 | 71.0/44.8/32.4/24.3 (BP = 0.973 ratio = 0.974 hyp_len = 59149 ref_len = 60756) |
 | ine-eng | sgs.eng | 38.7 | 64.9/44.0/33.7/26.2 (BP = 0.971 ratio = 0.971 hyp_len = 202 ref_len = 208) |

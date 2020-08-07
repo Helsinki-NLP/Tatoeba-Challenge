@@ -174,6 +174,7 @@ to be useful for anything.
 | [eng-fiu](../models/eng-fiu) | eng.est | 0.679 | 48.8 |
 | [eng-mul](../models/eng-mul) | eng.est | 0.545 | 30.3 |
 | [eng-mul](../models/eng-mul) | eng.est | 0.530 | 29.1 |
+| [eng-fin](../models/eng-fin) | eng.fin | 0.629 | 38.7 |
 | [eng-fiu](../models/eng-fiu) | eng.fin | 0.597 | 34.7 |
 | [eng-urj](../models/eng-urj) | eng.fin | 0.597 | 34.6 |
 | [eng-fiu](../models/eng-fiu) | eng.fin | 0.584 | 33.2 |

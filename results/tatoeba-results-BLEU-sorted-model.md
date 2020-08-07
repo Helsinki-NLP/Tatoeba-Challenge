@@ -387,6 +387,7 @@
 | eng-euq | eng.eus | 27.9 | 64.4/36.3/23.2/15.9 (BP = 0.917 ratio = 0.920 hyp_len = 6513 ref_len = 7080) |
 | eng-eus | eng.eus | 31.8 | 66.0/38.9/26.3/19.0 (BP = 0.944 ratio = 0.945 hyp_len = 6694 ref_len = 7080) |
 | eng-fas | eng.fas | 0.7 | 18.8/1.8/0.2/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 31146 ref_len = 31135) |
+| eng-fin | eng.fin | 38.7 | 71.3/47.3/34.1/25.3 (BP = 0.935 ratio = 0.937 hyp_len = 56714 ref_len = 60517) |
 | eng-fiu | eng.est | 49.8 | 79.4/56.9/44.4/35.2 (BP = 0.966 ratio = 0.967 hyp_len = 7728 ref_len = 7992) |
 | eng-fiu | eng.est | 48.8 | 78.4/55.4/43.3/34.6 (BP = 0.966 ratio = 0.967 hyp_len = 7725 ref_len = 7992) |
 | eng-fiu | eng.fin | 34.7 | 69.1/43.7/30.3/21.9 (BP = 0.923 ratio = 0.926 hyp_len = 56032 ref_len = 60517) |

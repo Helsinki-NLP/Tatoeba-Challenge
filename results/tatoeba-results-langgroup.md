@@ -11,6 +11,7 @@ to be useful for anything.
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | multi.eng | 0.391 | 24.8 |
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | multi.eng | 0.390 | 24.5 |
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | multi.eng | 0.384 | 23.7 |
+| Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | multi.eng | 0.467 | 27.5 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | multi.eng | 0.464 | 27.1 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | multi.eng | 0.450 | 25.4 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | multi.eng | 0.376 | 20.9 |
@@ -21,6 +22,7 @@ to be useful for anything.
 | Athapascan languages | English  | [ath-eng](../models/ath-eng) | multi.eng | 0.139 | 0.3 |
 | Athapascan languages | English  | [ath-eng](../models/ath-eng) | multi.eng | 0.133 | 0.3 |
 | Athapascan languages | English  | [ath-eng](../models/ath-eng) | multi.eng | 0.126 | 0.3 |
+| Baltic languages | English  | [bat-eng](../models/bat-eng) | multi.eng | 0.666 | 51.2 |
 | Baltic languages | English  | [bat-eng](../models/bat-eng) | multi.eng | 0.662 | 50.6 |
 | Baltic languages | English  | [bat-eng](../models/bat-eng) | multi.eng | 0.643 | 48.2 |
 | Berber languages | English  | [ber-eng](../models/ber-eng) | multi.eng | 0.147 | 0.4 |
@@ -52,11 +54,13 @@ to be useful for anything.
 | Mande languages | English  | [dmn-eng](../models/dmn-eng) | multi.eng | 0.124 | 1.2 |
 | Mande languages | English  | [dmn-eng](../models/dmn-eng) | multi.eng | 0.118 | 1.0 |
 | Mande languages | English  | [dmn-eng](../models/dmn-eng) | multi.eng | 0.064 | 5.2 |
+| Dravidian languages | English  | [dra-eng](../models/dra-eng) | multi.eng | 0.493 | 28.4 |
 | Dravidian languages | English  | [dra-eng](../models/dra-eng) | multi.eng | 0.493 | 30.0 |
 | Dravidian languages | English  | [dra-eng](../models/dra-eng) | multi.eng | 0.443 | 25.5 |
 | Eskimo-Aleut languages | English  | [esx-eng](../models/esx-eng) | multi.eng | 0.189 | 4.7 |
 | Eskimo-Aleut languages | English  | [esx-eng](../models/esx-eng) | multi.eng | 0.187 | 4.3 |
 | Eskimo-Aleut languages | English  | [esx-eng](../models/esx-eng) | multi.eng | 0.181 | 2.0 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | multi.eng | 0.655 | 48.7 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | multi.eng | 0.648 | 47.8 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | multi.eng | 0.626 | 45.4 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | multi.eng | 0.687 | 54.0 |
@@ -64,13 +68,16 @@ to be useful for anything.
 | North Germanic languages | English  | [gmq-eng](../models/gmq-eng) | multi.eng | 0.720 | 58.1 |
 | North Germanic languages | English  | [gmq-eng](../models/gmq-eng) | multi.eng | 0.718 | 57.7 |
 | North Germanic languages | English  | [gmq-eng](../models/gmq-eng) | multi.eng | 0.715 | 57.4 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | multi.eng | 0.653 | 49.4 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | multi.eng | 0.646 | 48.5 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | multi.eng | 0.637 | 47.5 |
 | Greek languages | English  | [grk-eng](../models/grk-eng) | multi.eng | 0.741 | 62.2 |
 | Greek languages | English  | [grk-eng](../models/grk-eng) | multi.eng | 0.733 | 60.9 |
 | Greek languages | English  | [grk-eng](../models/grk-eng) | multi.eng | 0.714 | 58.7 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | multi.eng | 0.427 | 21.4 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | multi.eng | 0.424 | 21.3 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | multi.eng | 0.405 | 19.2 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | multi.eng | 0.510 | 30.0 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | multi.eng | 0.502 | 29.0 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | multi.eng | 0.484 | 26.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | multi.eng | 0.615 | 45.6 |
@@ -81,9 +88,11 @@ to be useful for anything.
 | Iroquoian languages | English  | [iro-eng](../models/iro-eng) | multi.eng | 0.153 | 0.8 |
 | Iroquoian languages | English  | [iro-eng](../models/iro-eng) | multi.eng | 0.151 | 0.3 |
 | Iroquoian languages | English  | [iro-eng](../models/iro-eng) | multi.eng | 0.148 | 0.3 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | multi.eng | 0.636 | 47.8 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | multi.eng | 0.634 | 47.6 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | multi.eng | 0.631 | 47.2 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | multi.eng | 0.165 | 3.1 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | multi.eng | 0.164 | 3.2 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | multi.eng | 0.154 | 3.6 |
 | Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | multi.eng | 0.411 | 24.0 |
 | Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | multi.eng | 0.410 | 23.9 |
@@ -99,6 +108,7 @@ to be useful for anything.
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | multi.eng | 0.171 | 3.7 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | multi.eng | 0.154 | 3.6 |
 | Prakrit languages | English  | [pra-eng](../models/pra-eng) | multi.eng | 0.119 | 0.1 |
+| Prakrit languages | English  | [pra-eng](../models/pra-eng) | multi.eng | 0.110 | 0.1 |
 | Prakrit languages | English  | [pra-eng](../models/pra-eng) | multi.eng | 0.106 | 0.1 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | multi.eng | 0.697 | 54.9 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | multi.eng | 0.694 | 54.5 |
@@ -108,11 +118,14 @@ to be useful for anything.
 | Semitic languages | English  | [sem-eng](../models/sem-eng) | multi.eng | 0.578 | 40.6 |
 | Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | multi.eng | 0.118 | 0.2 |
 | Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | multi.eng | 0.118 | 0.3 |
+| Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | multi.eng | 0.116 | 0.1 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | multi.eng | 0.683 | 53.2 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | multi.eng | 0.680 | 52.8 |
 | Sami languages | English  | [smi-eng](../models/smi-eng) | multi.eng | 0.117 | 0.4 |
 | Sami languages | English  | [smi-eng](../models/smi-eng) | multi.eng | 0.115 | 0.3 |
+| Sami languages | English  | [smi-eng](../models/smi-eng) | multi.eng | 0.112 | 0.2 |
 | Nilo-Saharan languages | English  | [ssa-eng](../models/ssa-eng) | multi.eng | 0.208 | 1.6 |
+| Tibeto-Burman languages | English  | [tbq-eng](../models/tbq-eng) | multi.eng | 0.121 | 0.2 |
 | Tibeto-Burman languages | English  | [tbq-eng](../models/tbq-eng) | multi.eng | 0.118 | 0.2 |
 | Tibeto-Burman languages | English  | [tbq-eng](../models/tbq-eng) | multi.eng | 0.116 | 0.2 |
 | Turkic languages | English  | [trk-eng](../models/trk-eng) | multi.eng | 0.304 | 12.0 |
@@ -183,16 +196,21 @@ to be useful for anything.
 | English | Eskimo-Aleut languages  | [eng-esx](../models/eng-esx) | eng.multi | 0.207 | 1.7 |
 | English | Eskimo-Aleut languages  | [eng-esx](../models/eng-esx) | eng.multi | 0.162 | 0.6 |
 | English | Eskimo-Aleut languages  | [eng-esx](../models/eng-esx) | eng.multi | 0.160 | 0.5 |
+| English | Finno-Ugrian languages  | [eng-fiu](../models/eng-fiu) | eng.multi | 0.597 | 36.3 |
 | English | Finno-Ugrian languages  | [eng-fiu](../models/eng-fiu) | eng.multi | 0.590 | 35.4 |
 | English | Finno-Ugrian languages  | [eng-fiu](../models/eng-fiu) | eng.multi | 0.578 | 33.8 |
 | English | Germanic languages  | [eng-gem](../models/eng-gem) | eng.multi | 0.641 | 46.5 |
 | English | Germanic languages  | [eng-gem](../models/eng-gem) | eng.multi | 0.636 | 46.0 |
+| English | North Germanic languages  | [eng-gmq](../models/eng-gmq) | eng.multi | 0.693 | 53.5 |
 | English | North Germanic languages  | [eng-gmq](../models/eng-gmq) | eng.multi | 0.688 | 52.8 |
 | English | North Germanic languages  | [eng-gmq](../models/eng-gmq) | eng.multi | 0.683 | 52.3 |
+| English | West Germanic languages  | [eng-gmw](../models/eng-gmw) | eng.multi | 0.611 | 41.8 |
 | English | West Germanic languages  | [eng-gmw](../models/eng-gmw) | eng.multi | 0.609 | 41.6 |
 | English | West Germanic languages  | [eng-gmw](../models/eng-gmw) | eng.multi | 0.599 | 40.6 |
+| English | Greek languages  | [eng-grk](../models/eng-grk) | eng.multi | 0.684 | 45.7 |
 | English | Greek languages  | [eng-grk](../models/eng-grk) | eng.multi | 0.677 | 45.6 |
 | English | Greek languages  | [eng-grk](../models/eng-grk) | eng.multi | 0.649 | 38.2 |
+| English | Indo-Iranian languages  | [eng-iir](../models/eng-iir) | eng.multi | 0.396 | 14.1 |
 | English | Indo-Iranian languages  | [eng-iir](../models/eng-iir) | eng.multi | 0.392 | 13.7 |
 | English | Indo-Iranian languages  | [eng-iir](../models/eng-iir) | eng.multi | 0.384 | 13.3 |
 | English | Indic languages  | [eng-inc](../models/eng-inc) | eng.multi | 0.450 | 17.5 |
@@ -216,11 +234,13 @@ to be useful for anything.
 | English | Multiple languages  | [eng-mul](../models/eng-mul) | eng.multi | 0.451 | 22.4 |
 | English | Multiple languages  | [eng-mul](../models/eng-mul) | eng.multi | 0.434 | 19.1 |
 | English | Mayan languages  | [eng-myn](../models/eng-myn) | eng.multi | 0.132 | 0.3 |
+| English | Mayan languages  | [eng-myn](../models/eng-myn) | eng.multi | 0.129 | 0.3 |
 | English | Mayan languages  | [eng-myn](../models/eng-myn) | eng.multi | 0.125 | 0.3 |
 | English | Niger-Kordofanian languages  | [eng-nic](../models/eng-nic) | eng.multi | 0.430 | 11.1 |
 | English | Niger-Kordofanian languages  | [eng-nic](../models/eng-nic) | eng.multi | 0.427 | 11.1 |
 | English | Philippine languages  | [eng-phi](../models/eng-phi) | eng.multi | 0.392 | 13.1 |
 | English | Philippine languages  | [eng-phi](../models/eng-phi) | eng.multi | 0.391 | 12.8 |
+| English | Philippine languages  | [eng-phi](../models/eng-phi) | eng.multi | 0.390 | 12.7 |
 | English | Malayo-Polynesian languages  | [eng-poz](../models/eng-poz) | eng.multi | 0.410 | 16.2 |
 | English | Malayo-Polynesian languages  | [eng-poz](../models/eng-poz) | eng.multi | 0.405 | 16.2 |
 | English | Eastern Malayo-Polynesian languages  | [eng-pqe](../models/eng-pqe) | eng.multi | 0.306 | 11.3 |
@@ -229,9 +249,11 @@ to be useful for anything.
 | English | Western Malayo-Polynesian languages  | [eng-pqw](../models/eng-pqw) | eng.multi | 0.418 | 17.2 |
 | English | Prakrit languages  | [eng-pra](../models/eng-pra) | eng.multi | 0.098 | 0.1 |
 | English | Prakrit languages  | [eng-pra](../models/eng-pra) | eng.multi | 0.095 | 0.1 |
+| English | Prakrit languages  | [eng-pra](../models/eng-pra) | eng.multi | 0.093 | 0.1 |
 | English | Romance languages  | [eng-roa](../models/eng-roa) | eng.multi | 0.636 | 42.9 |
 | English | Romance languages  | [eng-roa](../models/eng-roa) | eng.multi | 0.633 | 42.6 |
 | English | Salishan languages  | [eng-sal](../models/eng-sal) | eng.multi | 0.073 | 1.7 |
+| English | Salishan languages  | [eng-sal](../models/eng-sal) | eng.multi | 0.073 | 2.0 |
 | English | Salishan languages  | [eng-sal](../models/eng-sal) | eng.multi | 0.072 | 1.1 |
 | English | Semitic languages  | [eng-sem](../models/eng-sem) | eng.multi | 0.486 | 23.5 |
 | English | Semitic languages  | [eng-sem](../models/eng-sem) | eng.multi | 0.480 | 22.7 |
@@ -241,15 +263,18 @@ to be useful for anything.
 | English | Slavic languages  | [eng-sla](../models/eng-sla) | eng.multi | 0.604 | 40.3 |
 | English | Sami languages  | [eng-smi](../models/eng-smi) | eng.multi | 0.106 | 0.4 |
 | English | Sami languages  | [eng-smi](../models/eng-smi) | eng.multi | 0.106 | 0.4 |
+| English | Sami languages  | [eng-smi](../models/eng-smi) | eng.multi | 0.105 | 0.4 |
 | English | Nilo-Saharan languages  | [eng-ssa](../models/eng-ssa) | eng.multi | 0.165 | 1.0 |
 | English | Tai  | [eng-taw](../models/eng-taw) | eng.multi | 0.522 | 1.2 |
 | English | Tai  | [eng-taw](../models/eng-taw) | eng.multi | 0.504 | 1.8 |
+| English | Tibeto-Burman languages  | [eng-tbq](../models/eng-tbq) | eng.multi | 0.139 | 0.1 |
 | English | Tibeto-Burman languages  | [eng-tbq](../models/eng-tbq) | eng.multi | 0.136 | 0.1 |
 | English | Tibeto-Burman languages  | [eng-tbq](../models/eng-tbq) | eng.multi | 0.128 | 0.3 |
 | English | Turkic languages  | [eng-trk](../models/eng-trk) | eng.multi | 0.455 | 19.9 |
 | English | Turkic languages  | [eng-trk](../models/eng-trk) | eng.multi | 0.447 | 18.8 |
 | English | Tupi languages  | [eng-tup](../models/eng-tup) | eng.multi | 0.102 | 0.1 |
 | English | Tupi languages  | [eng-tup](../models/eng-tup) | eng.multi | 0.095 | 0.1 |
+| English | Tupi languages  | [eng-tup](../models/eng-tup) | eng.multi | 0.036 | 0.1 |
 | English | Altaic languages  | [eng-tut](../models/eng-tut) | eng.multi | 0.451 | 19.5 |
 | English | Altaic languages  | [eng-tut](../models/eng-tut) | eng.multi | 0.441 | 18.6 |
 | English | Uralic languages  | [eng-urj](../models/eng-urj) | eng.multi | 0.588 | 35.1 |

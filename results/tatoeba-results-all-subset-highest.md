@@ -266,6 +266,7 @@ to be useful for anything.
 | | lang = deu-eng | | | | |
 | [deu-eng/opus](../models/deu-eng) | newssyscomb2009 | 0.557 | 28.8 | 1.000 | 11821 |
 | [gem-eng/opus2m](../models/gem-eng) | newssyscomb2009 | 0.542 | 27.2 | 0.997 | 11821 |
+| [gmw-eng/opus4m](../models/gmw-eng) | newssyscomb2009 | 0.541 | 27.4 | 0.993 | 11821 |
 | [gmw-eng/opus2m](../models/gmw-eng) | newssyscomb2009 | 0.538 | 27.2 | 0.993 | 11821 |
 | [gem-eng/opus](../models/gem-eng) | newssyscomb2009 | 0.537 | 26.8 | 0.993 | 11821 |
 | [gmw-eng/opus](../models/gmw-eng) | newssyscomb2009 | 0.536 | 26.7 | 0.991 | 11821 |
@@ -280,6 +281,7 @@ to be useful for anything.
 | [deu-eng/opus](../models/deu-eng) | news-test2008 | 0.551 | 28.0 | 1.000 | 49380 |
 | [gem-eng/opus2m](../models/gem-eng) | news-test2008 | 0.536 | 26.3 | 1.000 | 49380 |
 | [gmw-eng/opus2m](../models/gmw-eng) | news-test2008 | 0.534 | 25.7 | 1.000 | 49380 |
+| [gmw-eng/opus4m](../models/gmw-eng) | news-test2008 | 0.534 | 25.8 | 1.000 | 49380 |
 | [gem-eng/opus](../models/gem-eng) | news-test2008 | 0.531 | 25.6 | 1.000 | 49380 |
 | [gmw-eng/opus](../models/gmw-eng) | news-test2008 | 0.529 | 25.2 | 1.000 | 49380 |
 | [gmw-gmw/opus](../models/gmw-gmw) | news-test2008 | 0.515 | 23.7 | 0.994 | 49380 |
@@ -291,6 +293,7 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | news-test2008 | 0.456 | 18.0 | 0.983 | 49380 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | news-test2008 | 0.439 | 16.1 | 0.967 | 49380 |
 | [deu-eng/opus](../models/deu-eng) | newstest2009 | 0.546 | 27.1 | 0.988 | 65402 |
+| [gmw-eng/opus4m](../models/gmw-eng) | newstest2009 | 0.533 | 25.5 | 0.987 | 65402 |
 | [gem-eng/opus2m](../models/gem-eng) | newstest2009 | 0.531 | 25.1 | 0.987 | 65402 |
 | [gmw-eng/opus2m](../models/gmw-eng) | newstest2009 | 0.530 | 25.1 | 0.987 | 65402 |
 | [gem-eng/opus](../models/gem-eng) | newstest2009 | 0.527 | 24.6 | 0.985 | 65402 |
@@ -305,6 +308,7 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | newstest2009 | 0.442 | 16.0 | 0.955 | 65402 |
 | [deu-eng/opus](../models/deu-eng) | newstest2010 | 0.588 | 30.8 | 1.000 | 61724 |
 | [gem-eng/opus2m](../models/gem-eng) | newstest2010 | 0.569 | 28.3 | 1.000 | 61724 |
+| [gmw-eng/opus4m](../models/gmw-eng) | newstest2010 | 0.569 | 28.5 | 1.000 | 61724 |
 | [gmw-eng/opus2m](../models/gmw-eng) | newstest2010 | 0.565 | 27.9 | 1.000 | 61724 |
 | [gem-eng/opus](../models/gem-eng) | newstest2010 | 0.564 | 27.8 | 1.000 | 61724 |
 | [gmw-eng/opus](../models/gmw-eng) | newstest2010 | 0.559 | 27.2 | 1.000 | 61724 |
@@ -318,6 +322,7 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | newstest2010 | 0.461 | 17.6 | 0.992 | 61724 |
 | [deu-eng/opus](../models/deu-eng) | newstest2011 | 0.556 | 27.5 | 1.000 | 74681 |
 | [gem-eng/opus2m](../models/gem-eng) | newstest2011 | 0.543 | 26.0 | 1.000 | 74681 |
+| [gmw-eng/opus4m](../models/gmw-eng) | newstest2011 | 0.542 | 25.8 | 1.000 | 74681 |
 | [gmw-eng/opus2m](../models/gmw-eng) | newstest2011 | 0.539 | 25.3 | 1.000 | 74681 |
 | [gem-eng/opus](../models/gem-eng) | newstest2011 | 0.536 | 25.1 | 1.000 | 74681 |
 | [gmw-eng/opus](../models/gmw-eng) | newstest2011 | 0.534 | 24.9 | 1.000 | 74681 |
@@ -330,6 +335,7 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | newstest2011 | 0.464 | 18.3 | 0.989 | 74681 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | newstest2011 | 0.447 | 16.5 | 0.974 | 74681 |
 | [deu-eng/opus](../models/deu-eng) | newstest2012 | 0.570 | 29.4 | 1.000 | 72812 |
+| [gmw-eng/opus4m](../models/gmw-eng) | newstest2012 | 0.552 | 27.0 | 1.000 | 72812 |
 | [gem-eng/opus2m](../models/gem-eng) | newstest2012 | 0.550 | 26.8 | 1.000 | 72812 |
 | [gem-eng/opus](../models/gem-eng) | newstest2012 | 0.548 | 26.5 | 1.000 | 72812 |
 | [gmw-eng/opus2m](../models/gmw-eng) | newstest2012 | 0.548 | 26.6 | 1.000 | 72812 |
@@ -344,6 +350,7 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | newstest2012 | 0.454 | 17.8 | 0.993 | 72812 |
 | [deu-eng/opus](../models/deu-eng) | newstest2013 | 0.585 | 32.3 | 1.000 | 64505 |
 | [gem-eng/opus2m](../models/gem-eng) | newstest2013 | 0.570 | 30.2 | 1.000 | 64505 |
+| [gmw-eng/opus4m](../models/gmw-eng) | newstest2013 | 0.568 | 30.0 | 1.000 | 64505 |
 | [gmw-eng/opus2m](../models/gmw-eng) | newstest2013 | 0.565 | 29.6 | 1.000 | 64505 |
 | [gem-eng/opus](../models/gem-eng) | newstest2013 | 0.564 | 29.5 | 1.000 | 64505 |
 | [gmw-eng/opus](../models/gmw-eng) | newstest2013 | 0.558 | 28.8 | 1.000 | 64505 |
@@ -357,6 +364,7 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | newstest2013 | 0.461 | 18.5 | 0.986 | 64505 |
 | [deu-eng/opus](../models/deu-eng) | newstest2014 | 0.603 | 34.6 | 0.981 | 67337 |
 | [gem-eng/opus2m](../models/gem-eng) | newstest2014 | 0.574 | 30.7 | 0.984 | 67337 |
+| [gmw-eng/opus4m](../models/gmw-eng) | newstest2014 | 0.574 | 30.6 | 0.982 | 67337 |
 | [gmw-eng/opus2m](../models/gmw-eng) | newstest2014 | 0.571 | 30.2 | 0.983 | 67337 |
 | [gem-eng/opus](../models/gem-eng) | newstest2014 | 0.569 | 29.9 | 0.982 | 67337 |
 | [gmw-eng/opus](../models/gmw-eng) | newstest2014 | 0.565 | 29.5 | 0.982 | 67337 |
@@ -371,6 +379,7 @@ to be useful for anything.
 | [deu-eng/opus](../models/deu-eng) | newstest2015 | 0.602 | 34.6 | 0.980 | 46443 |
 | [gem-eng/opus2m](../models/gem-eng) | newstest2015 | 0.581 | 32.1 | 0.983 | 46443 |
 | [gmw-eng/opus2m](../models/gmw-eng) | newstest2015 | 0.577 | 31.5 | 0.984 | 46443 |
+| [gmw-eng/opus4m](../models/gmw-eng) | newstest2015 | 0.577 | 31.5 | 0.981 | 46443 |
 | [gem-eng/opus](../models/gem-eng) | newstest2015 | 0.574 | 31.1 | 0.981 | 46443 |
 | [gmw-eng/opus](../models/gmw-eng) | newstest2015 | 0.570 | 30.6 | 0.979 | 46443 |
 | [gmw-gmw/opus](../models/gmw-gmw) | newstest2015 | 0.552 | 28.4 | 0.975 | 46443 |
@@ -382,6 +391,7 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | newstest2015 | 0.480 | 21.1 | 0.972 | 46443 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | newstest2015 | 0.460 | 19.1 | 0.954 | 46443 |
 | [deu-eng/opus](../models/deu-eng) | newstest2016 | 0.653 | 40.9 | 1.000 | 64126 |
+| [gmw-eng/opus4m](../models/gmw-eng) | newstest2016 | 0.626 | 37.0 | 1.000 | 64126 |
 | [gem-eng/opus2m](../models/gem-eng) | newstest2016 | 0.624 | 36.9 | 1.000 | 64126 |
 | [gmw-eng/opus2m](../models/gmw-eng) | newstest2016 | 0.622 | 36.7 | 1.000 | 64126 |
 | [gem-eng/opus](../models/gem-eng) | newstest2016 | 0.619 | 36.3 | 1.000 | 64126 |
@@ -396,6 +406,7 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | newstest2016 | 0.489 | 21.8 | 0.977 | 64126 |
 | [deu-eng/opus](../models/deu-eng) | newstest2017 | 0.615 | 36.3 | 0.988 | 64399 |
 | [gem-eng/opus2m](../models/gem-eng) | newstest2017 | 0.588 | 32.8 | 0.986 | 64399 |
+| [gmw-eng/opus4m](../models/gmw-eng) | newstest2017 | 0.588 | 32.8 | 0.988 | 64399 |
 | [gmw-eng/opus2m](../models/gmw-eng) | newstest2017 | 0.585 | 32.3 | 0.988 | 64399 |
 | [gem-eng/opus](../models/gem-eng) | newstest2017 | 0.583 | 32.4 | 0.983 | 64399 |
 | [gmw-eng/opus](../models/gmw-eng) | newstest2017 | 0.578 | 31.7 | 0.984 | 64399 |
@@ -408,6 +419,7 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | newstest2017 | 0.484 | 21.5 | 0.970 | 64399 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | newstest2017 | 0.463 | 19.4 | 0.953 | 64399 |
 | [deu-eng/opus](../models/deu-eng) | newstest2018 | 0.674 | 44.6 | 0.984 | 67013 |
+| [gmw-eng/opus4m](../models/gmw-eng) | newstest2018 | 0.643 | 40.4 | 0.984 | 67013 |
 | [gem-eng/opus2m](../models/gem-eng) | newstest2018 | 0.640 | 40.2 | 0.985 | 67013 |
 | [gmw-eng/opus2m](../models/gmw-eng) | newstest2018 | 0.638 | 39.9 | 0.984 | 67013 |
 | [gem-eng/opus](../models/gem-eng) | newstest2018 | 0.636 | 39.4 | 0.983 | 67013 |
@@ -421,6 +433,7 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | newstest2018 | 0.518 | 26.0 | 0.970 | 67013 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | newstest2018 | 0.492 | 23.1 | 0.957 | 67013 |
 | [deu-eng/opus](../models/deu-eng) | newstest2019 | 0.645 | 40.5 | 1.000 | 39282 |
+| [gmw-eng/opus4m](../models/gmw-eng) | newstest2019 | 0.615 | 36.6 | 0.998 | 39282 |
 | [gem-eng/opus2m](../models/gem-eng) | newstest2019 | 0.614 | 36.8 | 1.000 | 39282 |
 | [gmw-eng/opus2m](../models/gmw-eng) | newstest2019 | 0.611 | 35.9 | 1.000 | 39282 |
 | [gem-eng/opus](../models/gem-eng) | newstest2019 | 0.604 | 35.5 | 0.993 | 39282 |
@@ -566,12 +579,14 @@ to be useful for anything.
 | | lang = ell-swe | | | | |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.521 | 36.0 | 0.980 | 1479 |
 | | lang = eng-est | | | | |
+| [eng-fiu/opus4m](../models/eng-fiu) | newsdev2018 | 0.529 | 20.4 | 0.996 | 34508 |
 | [eng-fiu/opus2m](../models/eng-fiu) | newsdev2018 | 0.521 | 19.4 | 0.991 | 34508 |
 | [eng-urj/opus2m](../models/eng-urj) | newsdev2018 | 0.520 | 19.3 | 0.993 | 34508 |
 | [eng-fiu/opus](../models/eng-fiu) | newsdev2018 | 0.507 | 17.9 | 0.987 | 34508 |
 | [eng-urj/opus](../models/eng-urj) | newsdev2018 | 0.506 | 18.2 | 0.992 | 34508 |
 | [eng-mul/opus2m](../models/eng-mul) | newsdev2018 | 0.423 | 10.9 | 0.978 | 34492 |
 | [eng-mul/opus](../models/eng-mul) | newsdev2018 | 0.413 | 10.3 | 0.970 | 34492 |
+| [eng-fiu/opus4m](../models/eng-fiu) | newstest2018 | 0.542 | 21.4 | 0.991 | 36236 |
 | [eng-urj/opus2m](../models/eng-urj) | newstest2018 | 0.535 | 20.8 | 0.988 | 36236 |
 | [eng-fiu/opus2m](../models/eng-fiu) | newstest2018 | 0.532 | 20.4 | 0.992 | 36236 |
 | [eng-fiu/opus](../models/eng-fiu) | newstest2018 | 0.520 | 19.2 | 0.989 | 36236 |
@@ -585,54 +600,71 @@ to be useful for anything.
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.545 | 30.3 | 0.966 | 7990 |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.530 | 29.1 | 0.964 | 7990 |
 | | lang = eng-fin | | | | |
+| eng-fin/opus | newsdev2015 | 0.556 | 21.6 | 1.000 | 23375 |
+| [eng-fiu/opus4m](../models/eng-fiu) | newsdev2015 | 0.528 | 18.9 | 1.000 | 23375 |
 | [eng-fiu/opus2m](../models/eng-fiu) | newsdev2015 | 0.522 | 18.7 | 1.000 | 23375 |
 | [eng-urj/opus2m](../models/eng-urj) | newsdev2015 | 0.519 | 18.3 | 1.000 | 23375 |
 | [eng-fiu/opus](../models/eng-fiu) | newsdev2015 | 0.507 | 17.4 | 0.995 | 23375 |
 | [eng-urj/opus](../models/eng-urj) | newsdev2015 | 0.500 | 16.5 | 0.991 | 23375 |
 | [eng-mul/opus2m](../models/eng-mul) | newsdev2015 | 0.418 | 9.3 | 0.979 | 23361 |
 | [eng-mul/opus](../models/eng-mul) | newsdev2015 | 0.406 | 8.5 | 0.980 | 23361 |
+| eng-fin/opus | newstest2015 | 0.567 | 23.2 | 1.000 | 19968 |
+| [eng-fiu/opus4m](../models/eng-fiu) | newstest2015 | 0.539 | 20.6 | 1.000 | 19968 |
 | [eng-urj/opus2m](../models/eng-urj) | newstest2015 | 0.534 | 20.2 | 0.999 | 19968 |
 | [eng-fiu/opus2m](../models/eng-fiu) | newstest2015 | 0.532 | 19.9 | 1.000 | 19968 |
 | [eng-fiu/opus](../models/eng-fiu) | newstest2015 | 0.516 | 18.3 | 0.996 | 19968 |
 | [eng-urj/opus](../models/eng-urj) | newstest2015 | 0.513 | 18.2 | 1.000 | 19968 |
 | [eng-mul/opus2m](../models/eng-mul) | newstest2015 | 0.421 | 10.1 | 0.989 | 19935 |
 | [eng-mul/opus](../models/eng-mul) | newstest2015 | 0.410 | 9.3 | 0.985 | 19935 |
+| eng-fin/opus | newstest2016 | 0.578 | 24.9 | 0.986 | 48116 |
+| [eng-fiu/opus4m](../models/eng-fiu) | newstest2016 | 0.550 | 22.0 | 0.981 | 48116 |
 | [eng-fiu/opus2m](../models/eng-fiu) | newstest2016 | 0.544 | 21.1 | 0.979 | 48116 |
 | [eng-urj/opus2m](../models/eng-urj) | newstest2016 | 0.541 | 20.7 | 0.976 | 48116 |
 | [eng-fiu/opus](../models/eng-fiu) | newstest2016 | 0.530 | 19.6 | 0.971 | 48116 |
 | [eng-urj/opus](../models/eng-urj) | newstest2016 | 0.525 | 19.0 | 0.970 | 48116 |
 | [eng-mul/opus2m](../models/eng-mul) | newstest2016 | 0.435 | 11.2 | 0.958 | 48055 |
 | [eng-mul/opus](../models/eng-mul) | newstest2016 | 0.425 | 10.3 | 0.954 | 48055 |
+| eng-fin/opus | newstest2017 | 0.605 | 27.5 | 0.996 | 45718 |
+| [eng-fiu/opus4m](../models/eng-fiu) | newstest2017 | 0.575 | 24.7 | 0.989 | 45718 |
 | [eng-fiu/opus2m](../models/eng-fiu) | newstest2017 | 0.567 | 23.8 | 0.988 | 45718 |
 | [eng-urj/opus2m](../models/eng-urj) | newstest2017 | 0.566 | 23.6 | 0.987 | 45718 |
 | [eng-fiu/opus](../models/eng-fiu) | newstest2017 | 0.548 | 21.8 | 0.976 | 45718 |
 | [eng-urj/opus](../models/eng-urj) | newstest2017 | 0.547 | 21.7 | 0.985 | 45718 |
 | [eng-mul/opus2m](../models/eng-mul) | newstest2017 | 0.440 | 11.8 | 0.975 | 45654 |
 | [eng-mul/opus](../models/eng-mul) | newstest2017 | 0.429 | 11.3 | 0.974 | 45654 |
+| eng-fin/opus | newstest2018 | 0.532 | 18.4 | 1.000 | 45475 |
+| [eng-fiu/opus4m](../models/eng-fiu) | newstest2018 | 0.508 | 16.4 | 1.000 | 45475 |
 | [eng-urj/opus2m](../models/eng-urj) | newstest2018 | 0.499 | 15.8 | 1.000 | 45475 |
 | [eng-fiu/opus2m](../models/eng-fiu) | newstest2018 | 0.498 | 15.6 | 1.000 | 45475 |
 | [eng-fiu/opus](../models/eng-fiu) | newstest2018 | 0.486 | 14.6 | 1.000 | 45475 |
 | [eng-urj/opus](../models/eng-urj) | newstest2018 | 0.483 | 14.2 | 1.000 | 45475 |
 | [eng-mul/opus2m](../models/eng-mul) | newstest2018 | 0.398 | 7.8 | 1.000 | 45432 |
 | [eng-mul/opus](../models/eng-mul) | newstest2018 | 0.389 | 7.5 | 1.000 | 45432 |
+| eng-fin/opus | newstest2019 | 0.551 | 23.3 | 0.966 | 38369 |
+| [eng-fiu/opus4m](../models/eng-fiu) | newstest2019 | 0.527 | 21.0 | 0.956 | 38369 |
 | [eng-fiu/opus2m](../models/eng-fiu) | newstest2019 | 0.520 | 20.0 | 0.953 | 38369 |
 | [eng-urj/opus2m](../models/eng-urj) | newstest2019 | 0.518 | 19.9 | 0.950 | 38369 |
 | [eng-fiu/opus](../models/eng-fiu) | newstest2019 | 0.504 | 18.7 | 0.941 | 38369 |
 | [eng-urj/opus](../models/eng-urj) | newstest2019 | 0.501 | 18.6 | 0.943 | 38369 |
 | [eng-mul/opus2m](../models/eng-mul) | newstest2019 | 0.420 | 10.4 | 0.922 | 38344 |
 | [eng-mul/opus](../models/eng-mul) | newstest2019 | 0.409 | 9.8 | 0.920 | 38344 |
+| eng-fin/opus | newstestB2016 | 0.542 | 19.7 | 1.000 | 45766 |
+| [eng-fiu/opus4m](../models/eng-fiu) | newstestB2016 | 0.518 | 17.7 | 1.000 | 45766 |
 | [eng-fiu/opus2m](../models/eng-fiu) | newstestB2016 | 0.512 | 17.0 | 1.000 | 45766 |
 | [eng-urj/opus2m](../models/eng-urj) | newstestB2016 | 0.509 | 16.6 | 1.000 | 45766 |
 | [eng-fiu/opus](../models/eng-fiu) | newstestB2016 | 0.499 | 15.9 | 1.000 | 45766 |
 | [eng-urj/opus](../models/eng-urj) | newstestB2016 | 0.495 | 15.5 | 1.000 | 45766 |
 | [eng-mul/opus2m](../models/eng-mul) | newstestB2016 | 0.414 | 9.0 | 1.000 | 45767 |
 | [eng-mul/opus](../models/eng-mul) | newstestB2016 | 0.404 | 8.3 | 1.000 | 45767 |
+| eng-fin/opus | newstestB2017 | 0.565 | 22.7 | 1.000 | 45506 |
+| [eng-fiu/opus4m](../models/eng-fiu) | newstestB2017 | 0.537 | 20.4 | 0.993 | 45506 |
 | [eng-fiu/opus2m](../models/eng-fiu) | newstestB2017 | 0.531 | 19.7 | 0.992 | 45506 |
 | [eng-urj/opus2m](../models/eng-urj) | newstestB2017 | 0.529 | 19.4 | 0.992 | 45506 |
 | [eng-fiu/opus](../models/eng-fiu) | newstestB2017 | 0.514 | 18.1 | 0.980 | 45506 |
 | [eng-urj/opus](../models/eng-urj) | newstestB2017 | 0.511 | 17.7 | 0.989 | 45506 |
 | [eng-mul/opus2m](../models/eng-mul) | newstestB2017 | 0.415 | 9.5 | 0.978 | 45490 |
 | [eng-mul/opus](../models/eng-mul) | newstestB2017 | 0.405 | 9.1 | 0.977 | 45490 |
+| eng-fin/opus | tatoeba | 0.629 | 38.7 | 0.935 | 60517 |
 | [eng-fiu/opus2m](../models/eng-fiu) | tatoeba | 0.597 | 34.7 | 0.923 | 60517 |
 | [eng-urj/opus2m](../models/eng-urj) | tatoeba | 0.597 | 34.6 | 0.924 | 60517 |
 | [eng-fiu/opus](../models/eng-fiu) | tatoeba | 0.584 | 33.2 | 0.919 | 60517 |
@@ -764,12 +796,14 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.414 | 19.8 | 1.000 | 60359 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.396 | 18.2 | 1.000 | 60359 |
 | | lang = eng-hun | | | | |
+| [eng-fiu/opus4m](../models/eng-fiu) | newssyscomb2009 | 0.479 | 15.9 | 1.000 | 9733 |
 | [eng-fiu/opus2m](../models/eng-fiu) | newssyscomb2009 | 0.472 | 15.5 | 1.000 | 9733 |
 | [eng-urj/opus2m](../models/eng-urj) | newssyscomb2009 | 0.471 | 15.4 | 1.000 | 9733 |
 | [eng-fiu/opus](../models/eng-fiu) | newssyscomb2009 | 0.465 | 15.2 | 0.994 | 9733 |
 | [eng-urj/opus](../models/eng-urj) | newssyscomb2009 | 0.462 | 14.9 | 0.998 | 9733 |
 | [eng-mul/opus2m](../models/eng-mul) | newssyscomb2009 | 0.371 | 8.1 | 0.979 | 9732 |
 | [eng-mul/opus](../models/eng-mul) | newssyscomb2009 | 0.363 | 7.7 | 0.974 | 9732 |
+| [eng-fiu/opus4m](../models/eng-fiu) | newstest2009 | 0.473 | 16.0 | 1.000 | 54965 |
 | [eng-fiu/opus2m](../models/eng-fiu) | newstest2009 | 0.468 | 15.4 | 0.998 | 54965 |
 | [eng-urj/opus2m](../models/eng-urj) | newstest2009 | 0.468 | 15.7 | 0.995 | 54965 |
 | [eng-fiu/opus](../models/eng-fiu) | newstest2009 | 0.455 | 14.3 | 0.994 | 54965 |

@@ -531,6 +531,7 @@ to be useful for anything.
 | [ine-ine](../models/ine-ine) | fra.afr | 0.630 | 49.7 |
 | [ara-deu](../models/ara-deu) | ara.deu | 0.629 | 44.7 |
 | [eng-alv](../models/eng-alv) | eng.xho | 0.629 | 27.1 |
+| [eng-fin](../models/eng-fin) | eng.fin | 0.629 | 38.7 |
 | [eng-sla](../models/eng-sla) | eng.pol | 0.629 | 40.9 |
 | [eng-ine](../models/eng-ine) | eng.cat | 0.628 | 41.5 |
 | [glg-eng](../models/glg-eng) | glg.eng | 0.628 | 44.4 |

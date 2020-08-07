@@ -398,6 +398,7 @@ to be useful for anything.
 | [eng-euq](../models/eng-euq) | eng.eus | 0.555 | 27.9 |
 | [eng-eus](../models/eng-eus) | eng.eus | 0.590 | 31.8 |
 | [eng-fas](../models/eng-fas) | eng.fas | 0.132 | 0.7 |
+| [eng-fin](../models/eng-fin) | eng.fin | 0.629 | 38.7 |
 | [eng-fiu](../models/eng-fiu) | eng.est | 0.689 | 49.8 |
 | [eng-fiu](../models/eng-fiu) | eng.est | 0.679 | 48.8 |
 | [eng-fiu](../models/eng-fiu) | eng.fin | 0.597 | 34.7 |

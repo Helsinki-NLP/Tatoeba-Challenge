@@ -156,6 +156,7 @@ to be useful for anything.
 | [eng-inc/opus2m](../models/eng-inc) | newsdev2014 | 0.342 | 8.2 | 1.000 | 9538 |
 | [eng-inc/opus4m](../models/eng-inc) | newsdev2014 | 0.340 | 8.0 | 1.000 | 9538 |
 | [eng-inc/opus](../models/eng-inc) | newsdev2014 | 0.337 | 7.5 | 1.000 | 9538 |
+| [eng-iir/opus4m](../models/eng-iir) | newsdev2014 | 0.327 | 7.0 | 1.000 | 9538 |
 | [eng-iir/opus2m](../models/eng-iir) | newsdev2014 | 0.326 | 6.7 | 1.000 | 9538 |
 | [eng-iir/opus](../models/eng-iir) | newsdev2014 | 0.318 | 6.8 | 1.000 | 9538 |
 | [eng-ine/opus2m](../models/eng-ine) | newsdev2014 | 0.317 | 6.2 | 1.000 | 9538 |
@@ -169,6 +170,7 @@ to be useful for anything.
 | [eng-inc/opus2m](../models/eng-inc) | newstest2014 | 0.364 | 11.4 | 0.964 | 60878 |
 | [eng-inc/opus](../models/eng-inc) | newstest2014 | 0.358 | 11.0 | 0.959 | 60878 |
 | [eng-iir/opus2m](../models/eng-iir) | newstest2014 | 0.353 | 10.4 | 0.942 | 60878 |
+| [eng-iir/opus4m](../models/eng-iir) | newstest2014 | 0.353 | 10.4 | 0.950 | 60878 |
 | [eng-iir/opus](../models/eng-iir) | newstest2014 | 0.344 | 9.9 | 0.944 | 60878 |
 | [eng-ine/opus2m](../models/eng-ine) | newstest2014 | 0.344 | 9.5 | 0.944 | 60878 |
 | [eng-ine/opus](../models/eng-ine) | newstest2014 | 0.341 | 9.2 | 0.950 | 60878 |

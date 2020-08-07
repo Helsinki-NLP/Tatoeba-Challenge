@@ -1068,6 +1068,7 @@
 | eng-ira | eng.fas | 0.181 |
 | eng-ira | eng.fas | 0.180 |
 | eng-fas | eng.fas | 0.132 |
+| eng-fin | eng.fin | 0.629 |
 | eng-fiu | eng.fin | 0.597 |
 | eng-urj | eng.fin | 0.597 |
 | eng-fiu | eng.fin | 0.584 |

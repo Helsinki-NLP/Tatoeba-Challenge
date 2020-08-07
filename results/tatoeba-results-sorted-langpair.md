@@ -1072,6 +1072,7 @@ to be useful for anything.
 | [eng-ira](../models/eng-ira) | eng.fas | 0.181 | 1.1 |
 | [eng-ira](../models/eng-ira) | eng.fas | 0.180 | 1.2 |
 | [eng-fas](../models/eng-fas) | eng.fas | 0.132 | 0.7 |
+| [eng-fin](../models/eng-fin) | eng.fin | 0.629 | 38.7 |
 | [eng-fiu](../models/eng-fiu) | eng.fin | 0.597 | 34.7 |
 | [eng-urj](../models/eng-urj) | eng.fin | 0.597 | 34.6 |
 | [eng-fiu](../models/eng-fiu) | eng.fin | 0.584 | 33.2 |

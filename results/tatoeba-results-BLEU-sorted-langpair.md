@@ -1056,6 +1056,7 @@
 | eng-ira | eng.fas | 1.2 | 20.6/2.5/0.4/0.1 (BP = 1.000 ratio = 1.224 hyp_len = 38119 ref_len = 31135) |
 | eng-ira | eng.fas | 1.1 | 20.3/2.4/0.4/0.1 (BP = 1.000 ratio = 1.249 hyp_len = 38902 ref_len = 31135) |
 | eng-fas | eng.fas | 0.7 | 18.8/1.8/0.2/0.0 (BP = 1.000 ratio = 1.000 hyp_len = 31146 ref_len = 31135) |
+| eng-fin | eng.fin | 38.7 | 71.3/47.3/34.1/25.3 (BP = 0.935 ratio = 0.937 hyp_len = 56714 ref_len = 60517) |
 | eng-fiu | eng.fin | 34.7 | 69.1/43.7/30.3/21.9 (BP = 0.923 ratio = 0.926 hyp_len = 56032 ref_len = 60517) |
 | eng-urj | eng.fin | 34.6 | 69.1/43.6/30.1/21.6 (BP = 0.924 ratio = 0.926 hyp_len = 56065 ref_len = 60517) |
 | eng-fiu | eng.fin | 33.2 | 68.1/42.1/28.8/20.5 (BP = 0.919 ratio = 0.922 hyp_len = 55807 ref_len = 60517) |

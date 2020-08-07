@@ -179,7 +179,7 @@ upload-wikidoc: ${patsubst wiki-doc/%,data/wiki-doc-%.done,${wildcard wiki-doc/?
 ## tatoeba test data (only paired with PIVOT_LANG (English))
 extra-traindata: ${EXTRA_TRAIN_DATA}
 extra-statistics:
-	${MAKE} STATISTICS=subsets/NoTestData.md TATOEBA_PAIRS3="${EXTRA_OPUS_PAIRS3}" statistics
+	${MAKE} STATISTICS=subsets/NoTestData-${PIVOT_LANG}.md TATOEBA_PAIRS3="${EXTRA_OPUS_PAIRS3}" statistics
 extra-upload: ${patsubst %,${DATADIR}/%.done,${EXTRA_OPUS_PAIRS3}}
 
 

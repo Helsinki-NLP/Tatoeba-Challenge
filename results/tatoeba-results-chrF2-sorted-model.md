@@ -394,6 +394,7 @@
 | eng-euq | eng.eus | 0.555 |
 | eng-eus | eng.eus | 0.590 |
 | eng-fas | eng.fas | 0.132 |
+| eng-fin | eng.fin | 0.629 |
 | eng-fiu | eng.est | 0.689 |
 | eng-fiu | eng.est | 0.679 |
 | eng-fiu | eng.fin | 0.597 |

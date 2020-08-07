@@ -527,6 +527,7 @@
 | ine-ine | fra.afr | 0.630 |
 | ara-deu | ara.deu | 0.629 |
 | eng-alv | eng.xho | 0.629 |
+| eng-fin | eng.fin | 0.629 |
 | eng-sla | eng.pol | 0.629 |
 | eng-ine | eng.cat | 0.628 |
 | glg-eng | glg.eng | 0.628 |
