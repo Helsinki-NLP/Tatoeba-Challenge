@@ -14,10 +14,12 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.171 | 2.8 | 0.910 | 20288 |
 | | lang = cor-eng | | | | |
 | [ine-eng/opus2m](../models/ine-eng) | tatoeba | 0.214 | 5.4 | 1.000 | 16829 |
+| [ine-eng/opus4m](../models/ine-eng) | tatoeba | 0.213 | 5.6 | 1.000 | 16829 |
 | [ine-eng/opus](../models/ine-eng) | tatoeba | 0.204 | 5.2 | 1.000 | 16829 |
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.204 | 5.4 | 1.000 | 16829 |
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.198 | 4.6 | 1.000 | 16829 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.193 | 4.4 | 1.000 | 16829 |
+| [cel-eng/opus4m](../models/cel-eng) | tatoeba | 0.177 | 3.2 | 1.000 | 16829 |
 | [cel-eng/opus](../models/cel-eng) | tatoeba | 0.175 | 2.7 | 1.000 | 16829 |
 | [cel-eng/opus2m](../models/cel-eng) | tatoeba | 0.172 | 3.0 | 1.000 | 16829 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.131 | 1.0 | 1.000 | 16829 |

@@ -103,3 +103,24 @@
 | Tatoeba-test.mfe-eng.mfe.eng 	| 66.0 	| 0.808 |
 | Tatoeba-test.multi.eng 	| 16.3 	| 0.323 |
 
+# opus4m-2020-08-12.zip
+
+* dataset: opus4m
+* model: transformer
+* source language(s): gcf_Latn hat mfe
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus4m-2020-08-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/cpf-eng/opus4m-2020-08-12.zip)
+* test set translations: [opus4m-2020-08-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cpf-eng/opus4m-2020-08-12.test.txt)
+* test set scores: [opus4m-2020-08-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cpf-eng/opus4m-2020-08-12.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.gcf-eng.gcf.eng 	| 7.2 	| 0.221 |
+| Tatoeba-test.hat-eng.hat.eng 	| 29.6 	| 0.445 |
+| Tatoeba-test.mfe-eng.mfe.eng 	| 66.0 	| 0.810 |
+| Tatoeba-test.multi.eng 	| 16.3 	| 0.328 |
+

@@ -232,3 +232,54 @@
 | Tatoeba-test.slv-eng.slv.eng 	| 43.4 	| 0.610 |
 | Tatoeba-test.ukr-eng.ukr.eng 	| 53.8 	| 0.685 |
 
+# opus4m-2020-08-12.zip
+
+* dataset: opus4m
+* model: transformer
+* source language(s): bel bel_Latn bos_Latn bul bul_Latn ces csb_Latn dsb hrv hsb mkd orv_Cyrl pol rue rus slv srp_Cyrl srp_Latn ukr
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus4m-2020-08-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/sla-eng/opus4m-2020-08-12.zip)
+* test set translations: [opus4m-2020-08-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sla-eng/opus4m-2020-08-12.test.txt)
+* test set scores: [opus4m-2020-08-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sla-eng/opus4m-2020-08-12.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| newssyscomb2009-ceseng.ces.eng 	| 26.4 	| 0.541 |
+| newstest2009-ceseng.ces.eng 	| 25.5 	| 0.535 |
+| newstest2010-ceseng.ces.eng 	| 26.1 	| 0.547 |
+| newstest2011-ceseng.ces.eng 	| 26.7 	| 0.544 |
+| newstest2012-ceseng.ces.eng 	| 25.9 	| 0.538 |
+| newstest2012-ruseng.rus.eng 	| 32.6 	| 0.589 |
+| newstest2013-ceseng.ces.eng 	| 28.8 	| 0.556 |
+| newstest2013-ruseng.rus.eng 	| 26.5 	| 0.534 |
+| newstest2014-csen-ceseng.ces.eng 	| 31.5 	| 0.591 |
+| newstest2014-ruen-ruseng.rus.eng 	| 29.8 	| 0.577 |
+| newstest2015-encs-ceseng.ces.eng 	| 28.5 	| 0.549 |
+| newstest2015-enru-ruseng.rus.eng 	| 28.2 	| 0.552 |
+| newstest2016-encs-ceseng.ces.eng 	| 30.0 	| 0.569 |
+| newstest2016-enru-ruseng.rus.eng 	| 27.6 	| 0.550 |
+| newstest2017-encs-ceseng.ces.eng 	| 26.6 	| 0.538 |
+| newstest2017-enru-ruseng.rus.eng 	| 31.3 	| 0.576 |
+| newstest2018-encs-ceseng.ces.eng 	| 27.8 	| 0.548 |
+| newstest2018-enru-ruseng.rus.eng 	| 27.0 	| 0.546 |
+| newstest2019-ruen-ruseng.rus.eng 	| 29.9 	| 0.566 |
+| Tatoeba-test.bel-eng.bel.eng 	| 42.7 	| 0.610 |
+| Tatoeba-test.bul-eng.bul.eng 	| 55.2 	| 0.696 |
+| Tatoeba-test.ces-eng.ces.eng 	| 53.2 	| 0.690 |
+| Tatoeba-test.csb-eng.csb.eng 	| 25.0 	| 0.447 |
+| Tatoeba-test.dsb-eng.dsb.eng 	| 30.9 	| 0.463 |
+| Tatoeba-test.hbs-eng.hbs.eng 	| 55.8 	| 0.701 |
+| Tatoeba-test.hsb-eng.hsb.eng 	| 49.8 	| 0.618 |
+| Tatoeba-test.mkd-eng.mkd.eng 	| 54.7 	| 0.682 |
+| Tatoeba-test.multi.eng 	| 53.2 	| 0.683 |
+| Tatoeba-test.orv-eng.orv.eng 	| 13.8 	| 0.293 |
+| Tatoeba-test.pol-eng.pol.eng 	| 51.0 	| 0.671 |
+| Tatoeba-test.rue-eng.rue.eng 	| 23.1 	| 0.421 |
+| Tatoeba-test.rus-eng.rus.eng 	| 54.1 	| 0.685 |
+| Tatoeba-test.slv-eng.slv.eng 	| 44.3 	| 0.621 |
+| Tatoeba-test.ukr-eng.ukr.eng 	| 53.6 	| 0.685 |
+

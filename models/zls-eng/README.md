@@ -127,3 +127,25 @@
 | Tatoeba-test.multi.eng 	| 53.6 	| 0.676 |
 | Tatoeba-test.slv-eng.slv.eng 	| 25.6 	| 0.407 |
 
+# opus4m-2020-08-12.zip
+
+* dataset: opus4m
+* model: transformer
+* source language(s): bos_Latn bul bul_Latn hrv mkd slv srp_Cyrl srp_Latn
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus4m-2020-08-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-eng/opus4m-2020-08-12.zip)
+* test set translations: [opus4m-2020-08-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-eng/opus4m-2020-08-12.test.txt)
+* test set scores: [opus4m-2020-08-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-eng/opus4m-2020-08-12.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.bul-eng.bul.eng 	| 55.4 	| 0.697 |
+| Tatoeba-test.hbs-eng.hbs.eng 	| 55.6 	| 0.701 |
+| Tatoeba-test.mkd-eng.mkd.eng 	| 54.7 	| 0.682 |
+| Tatoeba-test.multi.eng 	| 53.8 	| 0.677 |
+| Tatoeba-test.slv-eng.slv.eng 	| 25.0 	| 0.408 |
+

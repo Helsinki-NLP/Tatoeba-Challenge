@@ -14,10 +14,11 @@ to be useful for anything.
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.542 | 37.0 | 1.000 | 16165 |
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.535 | 35.9 | 1.000 | 16165 |
 | [aze-eng/opus](../models/aze-eng) | tatoeba | 0.490 | 31.9 | 0.997 | 16165 |
-| [trk-eng/opus2m](../models/trk-eng) | tatoeba | 0.330 | 15.1 | 1.000 | 16165 |
-| tut-eng/opus2m | tatoeba | 0.308 | 12.4 | 1.000 | 16165 |
-| tut-eng/opus | tatoeba | 0.276 | 9.9 | 1.000 | 16165 |
-| [trk-eng/opus](../models/trk-eng) | tatoeba | 0.270 | 9.4 | 1.000 | 16165 |
+| trk-eng-old/opus2m | tatoeba | 0.330 | 15.1 | 1.000 | 16165 |
+| [tut-eng/opus4m](../models/tut-eng) | tatoeba | 0.322 | 13.2 | 1.000 | 16165 |
+| [tut-eng/opus2m](../models/tut-eng) | tatoeba | 0.308 | 12.4 | 1.000 | 16165 |
+| [tut-eng/opus](../models/tut-eng) | tatoeba | 0.276 | 9.9 | 1.000 | 16165 |
+| trk-eng-old/opus | tatoeba | 0.270 | 9.4 | 1.000 | 16165 |
 | | lang = aze-spa | | | | |
 | [aze-spa/opus](../models/aze-spa) | tatoeba | 0.346 | 11.8 | 1.000 | 1144 |
 | | lang = aze-tur | | | | |
@@ -25,10 +26,13 @@ to be useful for anything.
 | trk-trk/opus | tatoeba | 0.454 | 19.1 | 0.971 | 5380 |
 | tut-tut/opus | tatoeba | 0.409 | 15.4 | 0.975 | 5380 |
 | | lang = bel-eng | | | | |
+| [sla-eng/opus4m](../models/sla-eng) | tatoeba | 0.610 | 42.7 | 0.986 | 18571 |
 | [sla-eng/opus2m](../models/sla-eng) | tatoeba | 0.609 | 42.5 | 0.989 | 18571 |
 | [sla-eng/opus](../models/sla-eng) | tatoeba | 0.599 | 41.7 | 0.994 | 18571 |
 | [ine-eng/opus2m](../models/ine-eng) | tatoeba | 0.597 | 42.2 | 0.978 | 18571 |
+| [ine-eng/opus4m](../models/ine-eng) | tatoeba | 0.597 | 41.7 | 0.978 | 18571 |
 | [ine-eng/opus](../models/ine-eng) | tatoeba | 0.588 | 41.0 | 0.980 | 18571 |
+| [zle-eng/opus4m](../models/zle-eng) | tatoeba | 0.573 | 38.7 | 0.996 | 18571 |
 | [zle-eng/opus2m](../models/zle-eng) | tatoeba | 0.569 | 38.3 | 0.996 | 18571 |
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.550 | 37.0 | 0.976 | 18571 |
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.549 | 36.8 | 0.979 | 18571 |
@@ -43,7 +47,9 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.497 | 29.7 | 0.960 | 1412 |
 | [bel-spa/opus](../models/bel-spa) | tatoeba | 0.272 | 11.8 | 0.892 | 1412 |
 | | lang = bre-eng | | | | |
+| [ine-eng/opus4m](../models/ine-eng) | tatoeba | 0.412 | 24.3 | 1.000 | 2065 |
 | [ine-eng/opus2m](../models/ine-eng) | tatoeba | 0.405 | 24.4 | 1.000 | 2065 |
+| [cel-eng/opus4m](../models/cel-eng) | tatoeba | 0.395 | 17.2 | 1.000 | 2065 |
 | [ine-eng/opus](../models/ine-eng) | tatoeba | 0.386 | 22.3 | 1.000 | 2065 |
 | [cel-eng/opus2m](../models/cel-eng) | tatoeba | 0.385 | 17.2 | 1.000 | 2065 |
 | [cel-eng/opus](../models/cel-eng) | tatoeba | 0.375 | 16.7 | 1.000 | 2065 |
@@ -61,10 +67,13 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.523 | 31.0 | 0.998 | 5643 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.489 | 27.2 | 0.998 | 5643 |
 | | lang = cat-eng | | | | |
+| [roa-eng/opus4m](../models/roa-eng) | tatoeba | 0.708 | 55.1 | 0.964 | 12627 |
 | [roa-eng/opus2m](../models/roa-eng) | tatoeba | 0.703 | 54.9 | 0.963 | 12627 |
+| [itc-eng/opus4m](../models/itc-eng) | tatoeba | 0.700 | 54.2 | 0.962 | 12627 |
 | [itc-eng/opus](../models/itc-eng) | tatoeba | 0.699 | 54.4 | 0.968 | 12627 |
 | [itc-eng/opus2m](../models/itc-eng) | tatoeba | 0.696 | 53.7 | 0.964 | 12627 |
 | [roa-eng/opus](../models/roa-eng) | tatoeba | 0.696 | 53.7 | 0.961 | 12627 |
+| [ine-eng/opus4m](../models/ine-eng) | tatoeba | 0.680 | 51.7 | 0.970 | 12627 |
 | [ine-eng/opus2m](../models/ine-eng) | tatoeba | 0.677 | 51.2 | 0.970 | 12627 |
 | [ine-eng/opus](../models/ine-eng) | tatoeba | 0.677 | 51.3 | 0.968 | 12627 |
 | [cat-eng/opus](../models/cat-eng) | tatoeba | 0.668 | 50.2 | 0.958 | 12627 |

@@ -108,3 +108,25 @@
 | Tatoeba-test.kat-eng.kat.eng 	| 18.6 	| 0.366 |
 | Tatoeba-test.multi.eng 	| 16.6 	| 0.351 |
 
+# opus4m-2020-08-12.zip
+
+* dataset: opus4m
+* model: transformer
+* source language(s): abk ady che kat
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus4m-2020-08-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/cau-eng/opus4m-2020-08-12.zip)
+* test set translations: [opus4m-2020-08-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cau-eng/opus4m-2020-08-12.test.txt)
+* test set scores: [opus4m-2020-08-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cau-eng/opus4m-2020-08-12.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.abk-eng.abk.eng 	| 0.6 	| 0.123 |
+| Tatoeba-test.ady-eng.ady.eng 	| 0.4 	| 0.111 |
+| Tatoeba-test.che-eng.che.eng 	| 0.7 	| 0.109 |
+| Tatoeba-test.kat-eng.kat.eng 	| 19.5 	| 0.371 |
+| Tatoeba-test.multi.eng 	| 17.4 	| 0.356 |
+

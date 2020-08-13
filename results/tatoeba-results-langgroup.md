@@ -14,6 +14,7 @@ to be useful for anything.
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | multi.eng | 0.467 | 27.5 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | multi.eng | 0.464 | 27.1 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | multi.eng | 0.450 | 25.4 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | multi.eng | 0.382 | 21.3 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | multi.eng | 0.376 | 20.9 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | multi.eng | 0.371 | 20.6 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | multi.eng | 0.287 | 11.6 |
@@ -28,6 +29,7 @@ to be useful for anything.
 | Berber languages | English  | [ber-eng](../models/ber-eng) | multi.eng | 0.147 | 0.4 |
 | Berber languages | English  | [ber-eng](../models/ber-eng) | multi.eng | 0.146 | 0.3 |
 | Berber languages | English  | [ber-eng](../models/ber-eng) | multi.eng | 0.120 | 0.2 |
+| Bantu languages | English  | [bnt-eng](../models/bnt-eng) | multi.eng | 0.395 | 23.0 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | multi.eng | 0.394 | 23.1 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | multi.eng | 0.389 | 22.5 |
 | Caucasian languages | English  | [cau-eng](../models/cau-eng) | multi.eng | 0.356 | 17.4 |
@@ -63,6 +65,7 @@ to be useful for anything.
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | multi.eng | 0.655 | 48.7 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | multi.eng | 0.648 | 47.8 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | multi.eng | 0.626 | 45.4 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | multi.eng | 0.692 | 54.6 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | multi.eng | 0.687 | 54.0 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | multi.eng | 0.682 | 53.4 |
 | North Germanic languages | English  | [gmq-eng](../models/gmq-eng) | multi.eng | 0.720 | 58.1 |
@@ -80,6 +83,7 @@ to be useful for anything.
 | Indic languages | English  | [inc-eng](../models/inc-eng) | multi.eng | 0.510 | 30.0 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | multi.eng | 0.502 | 29.0 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | multi.eng | 0.484 | 26.8 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | multi.eng | 0.619 | 46.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | multi.eng | 0.615 | 45.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | multi.eng | 0.613 | 45.4 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | multi.eng | 0.184 | 1.6 |
@@ -100,25 +104,33 @@ to be useful for anything.
 | Multiple languages | English  | [mul-eng](../models/mul-eng) | multi.eng | 0.518 | 34.7 |
 | Multiple languages | English  | [mul-eng](../models/mul-eng) | multi.eng | 0.518 | 34.7 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | multi.eng | 0.377 | 21.3 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | multi.eng | 0.372 | 20.2 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | multi.eng | 0.371 | 20.3 |
+| Philippine languages | English  | [phi-eng](../models/phi-eng) | multi.eng | 0.393 | 20.9 |
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | multi.eng | 0.391 | 21.5 |
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | multi.eng | 0.385 | 21.0 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | multi.eng | 0.165 | 3.1 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | multi.eng | 0.164 | 3.2 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | multi.eng | 0.154 | 3.6 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | multi.eng | 0.171 | 3.7 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | multi.eng | 0.169 | 4.0 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | multi.eng | 0.154 | 3.6 |
 | Prakrit languages | English  | [pra-eng](../models/pra-eng) | multi.eng | 0.119 | 0.1 |
 | Prakrit languages | English  | [pra-eng](../models/pra-eng) | multi.eng | 0.110 | 0.1 |
 | Prakrit languages | English  | [pra-eng](../models/pra-eng) | multi.eng | 0.106 | 0.1 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | multi.eng | 0.699 | 55.1 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | multi.eng | 0.697 | 54.9 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | multi.eng | 0.694 | 54.5 |
 | Salishan languages | English  | [sal-eng](../models/sal-eng) | multi.eng | 0.097 | 2.2 |
+| Salishan languages | English  | [sal-eng](../models/sal-eng) | multi.eng | 0.094 | 2.0 |
 | Salishan languages | English  | [sal-eng](../models/sal-eng) | multi.eng | 0.089 | 1.4 |
+| Semitic languages | English  | [sem-eng](../models/sem-eng) | multi.eng | 0.592 | 42.3 |
 | Semitic languages | English  | [sem-eng](../models/sem-eng) | multi.eng | 0.588 | 41.7 |
 | Semitic languages | English  | [sem-eng](../models/sem-eng) | multi.eng | 0.578 | 40.6 |
 | Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | multi.eng | 0.118 | 0.2 |
 | Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | multi.eng | 0.118 | 0.3 |
 | Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | multi.eng | 0.116 | 0.1 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | multi.eng | 0.683 | 53.2 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | multi.eng | 0.683 | 53.2 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | multi.eng | 0.680 | 52.8 |
 | Sami languages | English  | [smi-eng](../models/smi-eng) | multi.eng | 0.117 | 0.4 |
@@ -128,22 +140,30 @@ to be useful for anything.
 | Tibeto-Burman languages | English  | [tbq-eng](../models/tbq-eng) | multi.eng | 0.121 | 0.2 |
 | Tibeto-Burman languages | English  | [tbq-eng](../models/tbq-eng) | multi.eng | 0.118 | 0.2 |
 | Tibeto-Burman languages | English  | [tbq-eng](../models/tbq-eng) | multi.eng | 0.116 | 0.2 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | multi.eng | 0.304 | 12.0 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | multi.eng | 0.254 | 7.8 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | multi.eng | 0.304 | 12.0 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | multi.eng | 0.254 | 7.8 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | multi.eng | 0.296 | 10.6 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | multi.eng | 0.284 | 9.9 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | multi.eng | 0.258 | 8.0 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | multi.eng | 0.649 | 48.3 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | multi.eng | 0.646 | 47.8 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | multi.eng | 0.630 | 46.2 |
 | Sorbian languages | English  | [wen-eng](../models/wen-eng) | multi.eng | 0.130 | 0.2 |
+| Sorbian languages | English  | [wen-eng](../models/wen-eng) | multi.eng | 0.126 | 0.2 |
 | Sorbian languages | English  | [wen-eng](../models/wen-eng) | multi.eng | 0.122 | 0.2 |
 | Mongolian languages | English  | [xgn-eng](../models/xgn-eng) | multi.eng | 0.184 | 1.9 |
 | Mongolian languages | English  | [xgn-eng](../models/xgn-eng) | multi.eng | 0.183 | 2.2 |
+| Mongolian languages | English  | [xgn-eng](../models/xgn-eng) | multi.eng | 0.180 | 2.0 |
+| Na-Dene languages | English  | [xnd-eng](../models/xnd-eng) | multi.eng | 0.139 | 0.3 |
 | Na-Dene languages | English  | [xnd-eng](../models/xnd-eng) | multi.eng | 0.133 | 0.3 |
 | Na-Dene languages | English  | [xnd-eng](../models/xnd-eng) | multi.eng | 0.126 | 0.3 |
+| East Slavic languages | English  | [zle-eng](../models/zle-eng) | multi.eng | 0.660 | 50.7 |
 | East Slavic languages | English  | [zle-eng](../models/zle-eng) | multi.eng | 0.656 | 50.1 |
 | East Slavic languages | English  | [zle-eng](../models/zle-eng) | multi.eng | 0.640 | 48.1 |
+| South Slavic languages | English  | [zls-eng](../models/zls-eng) | multi.eng | 0.677 | 53.8 |
 | South Slavic languages | English  | [zls-eng](../models/zls-eng) | multi.eng | 0.676 | 53.6 |
 | South Slavic languages | English  | [zls-eng](../models/zls-eng) | multi.eng | 0.668 | 52.5 |
+| West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | multi.eng | 0.687 | 52.8 |
 | West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | multi.eng | 0.680 | 51.8 |
 | West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | multi.eng | 0.660 | 49.4 |
 | English | Austro-Asiatic languages  | [eng-aav](../models/eng-aav) | eng.multi | 0.315 | 16.2 |
@@ -228,6 +248,7 @@ to be useful for anything.
 | English | Italic languages  | [eng-itc](../models/eng-itc) | eng.multi | 0.585 | 37.5 |
 | English | Austronesian languages  | [eng-map](../models/eng-map) | eng.multi | 0.411 | 17.0 |
 | English | Austronesian languages  | [eng-map](../models/eng-map) | eng.multi | 0.411 | 17.6 |
+| English | Austronesian languages  | [eng-map](../models/eng-map) | eng.multi | 0.410 | 17.0 |
 | English | Mon-Khmer languages  | [eng-mkh](../models/eng-mkh) | eng.multi | 0.330 | 16.5 |
 | English | Mon-Khmer languages  | [eng-mkh](../models/eng-mkh) | eng.multi | 0.323 | 14.8 |
 | English | Mon-Khmer languages  | [eng-mkh](../models/eng-mkh) | eng.multi | 0.322 | 14.9 |
@@ -243,10 +264,13 @@ to be useful for anything.
 | English | Philippine languages  | [eng-phi](../models/eng-phi) | eng.multi | 0.390 | 12.7 |
 | English | Malayo-Polynesian languages  | [eng-poz](../models/eng-poz) | eng.multi | 0.410 | 16.2 |
 | English | Malayo-Polynesian languages  | [eng-poz](../models/eng-poz) | eng.multi | 0.405 | 16.2 |
+| English | Malayo-Polynesian languages  | [eng-poz](../models/eng-poz) | eng.multi | 0.401 | 15.3 |
 | English | Eastern Malayo-Polynesian languages  | [eng-pqe](../models/eng-pqe) | eng.multi | 0.306 | 11.3 |
+| English | Eastern Malayo-Polynesian languages  | [eng-pqe](../models/eng-pqe) | eng.multi | 0.305 | 11.1 |
 | English | Eastern Malayo-Polynesian languages  | [eng-pqe](../models/eng-pqe) | eng.multi | 0.304 | 10.3 |
 | English | Western Malayo-Polynesian languages  | [eng-pqw](../models/eng-pqw) | eng.multi | 0.422 | 17.5 |
 | English | Western Malayo-Polynesian languages  | [eng-pqw](../models/eng-pqw) | eng.multi | 0.418 | 17.2 |
+| English | Western Malayo-Polynesian languages  | [eng-pqw](../models/eng-pqw) | eng.multi | 0.416 | 16.8 |
 | English | Prakrit languages  | [eng-pra](../models/eng-pra) | eng.multi | 0.098 | 0.1 |
 | English | Prakrit languages  | [eng-pra](../models/eng-pra) | eng.multi | 0.095 | 0.1 |
 | English | Prakrit languages  | [eng-pra](../models/eng-pra) | eng.multi | 0.093 | 0.1 |
@@ -257,6 +281,7 @@ to be useful for anything.
 | English | Salishan languages  | [eng-sal](../models/eng-sal) | eng.multi | 0.072 | 1.1 |
 | English | Semitic languages  | [eng-sem](../models/eng-sem) | eng.multi | 0.486 | 23.5 |
 | English | Semitic languages  | [eng-sem](../models/eng-sem) | eng.multi | 0.480 | 22.7 |
+| English | Sino-Tibetan languages  | [eng-sit](../models/eng-sit) | eng.multi | 0.227 | 26.3 |
 | English | Sino-Tibetan languages  | [eng-sit](../models/eng-sit) | eng.multi | 0.223 | 25.7 |
 | English | Sino-Tibetan languages  | [eng-sit](../models/eng-sit) | eng.multi | 0.111 | 0.0 |
 | English | Slavic languages  | [eng-sla](../models/eng-sla) | eng.multi | 0.610 | 41.0 |
@@ -265,6 +290,7 @@ to be useful for anything.
 | English | Sami languages  | [eng-smi](../models/eng-smi) | eng.multi | 0.106 | 0.4 |
 | English | Sami languages  | [eng-smi](../models/eng-smi) | eng.multi | 0.105 | 0.4 |
 | English | Nilo-Saharan languages  | [eng-ssa](../models/eng-ssa) | eng.multi | 0.165 | 1.0 |
+| English | Tai  | [eng-taw](../models/eng-taw) | eng.multi | 0.531 | 1.2 |
 | English | Tai  | [eng-taw](../models/eng-taw) | eng.multi | 0.522 | 1.2 |
 | English | Tai  | [eng-taw](../models/eng-taw) | eng.multi | 0.504 | 1.8 |
 | English | Tibeto-Burman languages  | [eng-tbq](../models/eng-tbq) | eng.multi | 0.139 | 0.1 |
@@ -280,13 +306,17 @@ to be useful for anything.
 | English | Uralic languages  | [eng-urj](../models/eng-urj) | eng.multi | 0.588 | 35.1 |
 | English | Uralic languages  | [eng-urj](../models/eng-urj) | eng.multi | 0.572 | 33.3 |
 | English | Sorbian languages  | [eng-wen](../models/eng-wen) | eng.multi | 0.107 | 0.2 |
+| English | Sorbian languages  | [eng-wen](../models/eng-wen) | eng.multi | 0.104 | 0.2 |
 | English | Sorbian languages  | [eng-wen](../models/eng-wen) | eng.multi | 0.100 | 0.2 |
+| English | Mongolian languages  | [eng-xgn](../models/eng-xgn) | eng.multi | 0.159 | 1.7 |
 | English | Mongolian languages  | [eng-xgn](../models/eng-xgn) | eng.multi | 0.157 | 1.9 |
 | English | Mongolian languages  | [eng-xgn](../models/eng-xgn) | eng.multi | 0.149 | 1.7 |
+| English | Na-Dene languages  | [eng-xnd](../models/eng-xnd) | eng.multi | 0.126 | 0.2 |
 | English | Na-Dene languages  | [eng-xnd](../models/eng-xnd) | eng.multi | 0.120 | 0.2 |
 | English | Na-Dene languages  | [eng-xnd](../models/eng-xnd) | eng.multi | 0.111 | 0.4 |
 | English | East Slavic languages  | [eng-zle](../models/eng-zle) | eng.multi | 0.580 | 37.2 |
 | English | East Slavic languages  | [eng-zle](../models/eng-zle) | eng.multi | 0.564 | 35.3 |
+| English | South Slavic languages  | [eng-zls](../models/eng-zls) | eng.multi | 0.624 | 43.1 |
 | English | South Slavic languages  | [eng-zls](../models/eng-zls) | eng.multi | 0.622 | 42.7 |
 | English | South Slavic languages  | [eng-zls](../models/eng-zls) | eng.multi | 0.615 | 41.9 |
 | English | West Slavic languages  | [eng-zlw](../models/eng-zlw) | eng.multi | 0.632 | 42.8 |
@@ -342,56 +372,86 @@ Note that some of the test sets are way too small to be reliable!
 | Source | Target | Model | Test Set      | chrF2 | BLEU |
 |--------|--------|------:|---------------|------:|-----:|
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | vie.eng | 0.567 | 38.7 |
+| Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | vie.eng | 0.564 | 38.3 |
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | vie.eng | 0.554 | 36.6 |
+| Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | khm.eng | 0.282 | 9.8 |
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | khm.eng | 0.271 | 8.9 |
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | khm.eng | 0.269 | 9.4 |
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | mnw.eng | 0.120 | 0.8 |
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | mnw.eng | 0.118 | 0.8 |
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | kha.eng | 0.117 | 0.8 |
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | kha.eng | 0.115 | 1.0 |
+| Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | kha.eng | 0.114 | 0.8 |
+| Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | mnw.eng | 0.106 | 1.3 |
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | hoc.eng | 0.096 | 0.3 |
+| Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | hoc.eng | 0.096 | 0.4 |
 | Austro-Asiatic languages | English  | [aav-eng](../models/aav-eng) | hoc.eng | 0.095 | 0.3 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | mlt.eng | 0.618 | 44.3 |
+| Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | mlt.eng | 0.618 | 45.2 |
+| Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | heb.eng | 0.598 | 43.3 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | heb.eng | 0.591 | 42.7 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | mlt.eng | 0.586 | 40.5 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | heb.eng | 0.578 | 41.2 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | amh.eng | 0.553 | 35.1 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | amh.eng | 0.550 | 35.9 |
+| Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | ara.eng | 0.547 | 37.1 |
+| Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | amh.eng | 0.543 | 35.1 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | ara.eng | 0.543 | 36.6 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | ara.eng | 0.526 | 34.5 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | som.eng | 0.472 | 23.6 |
+| Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | som.eng | 0.472 | 23.6 |
+| Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | tir.eng | 0.376 | 17.3 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | tir.eng | 0.337 | 13.9 |
+| Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | hau.eng | 0.330 | 12.6 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | tir.eng | 0.328 | 13.1 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | hau.eng | 0.327 | 11.9 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | hau.eng | 0.307 | 11.5 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | som.eng | 0.285 | 16.2 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | kab.eng | 0.213 | 4.3 |
+| Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | kab.eng | 0.212 | 4.2 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | kab.eng | 0.203 | 3.7 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | rif.eng | 0.143 | 3.5 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | rif.eng | 0.141 | 3.5 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | shy.eng | 0.141 | 1.4 |
+| Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | rif.eng | 0.136 | 2.2 |
 | Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | shy.eng | 0.125 | 0.6 |
+| Afro-Asiatic languages | English  | [afa-eng](../models/afa-eng) | shy.eng | 0.116 | 0.8 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | tso.eng | 1.000 | 100.0 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | tso.eng | 1.000 | 100.0 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | tso.eng | 0.957 | 76.7 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | zul.eng | 0.623 | 46.1 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | zul.eng | 0.573 | 42.4 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | xho.eng | 0.556 | 38.9 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | xho.eng | 0.555 | 38.4 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | zul.eng | 0.553 | 39.6 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | kin.eng | 0.545 | 38.4 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | xho.eng | 0.536 | 36.5 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | kin.eng | 0.511 | 30.7 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | nya.eng | 0.508 | 32.1 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | nya.eng | 0.492 | 38.7 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | kin.eng | 0.489 | 31.5 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | nya.eng | 0.478 | 37.2 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | yor.eng | 0.430 | 30.1 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | run.eng | 0.427 | 25.5 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | run.eng | 0.417 | 24.5 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | run.eng | 0.414 | 24.7 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | sna.eng | 0.412 | 26.9 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | yor.eng | 0.412 | 25.1 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | sna.eng | 0.399 | 23.1 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | sna.eng | 0.393 | 23.3 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | ewe.eng | 0.373 | 9.2 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | yor.eng | 0.331 | 15.1 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | ewe.eng | 0.328 | 6.3 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | wol.eng | 0.323 | 8.7 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | toi.eng | 0.301 | 13.1 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | umb.eng | 0.285 | 11.4 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | ewe.eng | 0.268 | 6.9 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | wol.eng | 0.231 | 5.7 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | lin.eng | 0.222 | 6.8 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | lug.eng | 0.218 | 4.5 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | lin.eng | 0.213 | 2.8 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | toi.eng | 0.200 | 5.5 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | swa.eng | 0.197 | 4.6 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | ibo.eng | 0.196 | 4.5 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | swa.eng | 0.196 | 4.9 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | umb.eng | 0.196 | 5.3 |
@@ -400,184 +460,271 @@ Note that some of the test sets are way too small to be reliable!
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | lin.eng | 0.188 | 2.1 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | ibo.eng | 0.179 | 2.8 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | sag.eng | 0.177 | 5.5 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | ibo.eng | 0.171 | 5.0 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | wol.eng | 0.170 | 3.7 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | sag.eng | 0.169 | 2.7 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | toi.eng | 0.147 | 3.9 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | lug.eng | 0.142 | 3.6 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | lug.eng | 0.140 | 3.4 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | sag.eng | 0.122 | 1.3 |
+| Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | ful.eng | 0.119 | 0.9 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | ful.eng | 0.108 | 0.4 |
 | Atlantic-Congo languages | English  | [alv-eng](../models/alv-eng) | ful.eng | 0.100 | 0.5 |
 | Apache languages | English  | [apa-eng](../models/apa-eng) | nav.eng | 0.126 | 0.3 |
 | Apache languages | English  | [apa-eng](../models/apa-eng) | nav.eng | 0.126 | 0.3 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | epo.eng | 0.530 | 34.6 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | epo.eng | 0.529 | 34.8 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | epo.eng | 0.528 | 34.2 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | ido.eng | 0.310 | 12.7 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | ido.eng | 0.310 | 13.0 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | ido.eng | 0.306 | 12.0 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | ina.eng | 0.254 | 5.8 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | ina.eng | 0.251 | 5.4 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | ina.eng | 0.250 | 5.5 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | ile.eng | 0.227 | 5.2 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | ile.eng | 0.218 | 4.6 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | ile.eng | 0.218 | 4.7 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | nov.eng | 0.215 | 5.1 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | nov.eng | 0.210 | 4.2 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | nov.eng | 0.207 | 4.7 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | lfn.eng | 0.176 | 1.9 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | lfn.eng | 0.172 | 1.8 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | lfn.eng | 0.171 | 1.8 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | tlh.eng | 0.124 | 0.2 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | tlh.eng | 0.124 | 0.2 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | tlh.eng | 0.124 | 0.2 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | vol.eng | 0.118 | 0.6 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | vol.eng | 0.116 | 0.5 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | jbo.eng | 0.115 | 0.1 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | jbo.eng | 0.115 | 0.2 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | tzl.eng | 0.115 | 1.0 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | vol.eng | 0.115 | 0.5 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | qya.eng | 0.113 | 0.7 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | jbo.eng | 0.111 | 0.2 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | tzl.eng | 0.111 | 1.0 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | avk.eng | 0.110 | 0.4 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | tzl.eng | 0.109 | 1.4 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | avk.eng | 0.105 | 0.4 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | avk.eng | 0.104 | 0.4 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | qya.eng | 0.100 | 0.4 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | afh.eng | 0.099 | 1.2 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | qya.eng | 0.099 | 0.3 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | sjn.eng | 0.097 | 0.6 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | afh.eng | 0.096 | 1.7 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | sjn.eng | 0.091 | 0.5 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | sjn.eng | 0.090 | 0.9 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | ldn.eng | 0.088 | 0.8 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | afh.eng | 0.084 | 1.5 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | ldn.eng | 0.083 | 0.7 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | dws.eng | 0.076 | 1.6 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | ldn.eng | 0.075 | 0.3 |
+| Artificial languages | English  | [art-eng](../models/art-eng) | dws.eng | 0.068 | 1.6 |
 | Artificial languages | English  | [art-eng](../models/art-eng) | dws.eng | 0.060 | 0.5 |
+| Athapascan languages | English  | [ath-eng](../models/ath-eng) | nav.eng | 0.139 | 0.3 |
 | Athapascan languages | English  | [ath-eng](../models/ath-eng) | nav.eng | 0.133 | 0.3 |
 | Athapascan languages | English  | [ath-eng](../models/ath-eng) | nav.eng | 0.126 | 0.3 |
+| Baltic languages | English  | [bat-eng](../models/bat-eng) | lit.eng | 0.708 | 55.9 |
 | Baltic languages | English  | [bat-eng](../models/bat-eng) | lit.eng | 0.703 | 55.1 |
+| Baltic languages | English  | [bat-eng](../models/bat-eng) | lav.eng | 0.692 | 52.3 |
 | Baltic languages | English  | [bat-eng](../models/bat-eng) | lav.eng | 0.687 | 51.5 |
 | Baltic languages | English  | [bat-eng](../models/bat-eng) | lit.eng | 0.684 | 52.6 |
 | Baltic languages | English  | [bat-eng](../models/bat-eng) | lav.eng | 0.662 | 48.7 |
 | Baltic languages | English  | [bat-eng](../models/bat-eng) | sgs.eng | 0.325 | 13.4 |
+| Baltic languages | English  | [bat-eng](../models/bat-eng) | sgs.eng | 0.303 | 14.1 |
 | Baltic languages | English  | [bat-eng](../models/bat-eng) | sgs.eng | 0.265 | 16.5 |
 | Baltic languages | English  | [bat-eng](../models/bat-eng) | prg.eng | 0.159 | 1.0 |
 | Baltic languages | English  | [bat-eng](../models/bat-eng) | prg.eng | 0.155 | 0.8 |
+| Baltic languages | English  | [bat-eng](../models/bat-eng) | prg.eng | 0.153 | 0.8 |
 | Berber languages | English  | [ber-eng](../models/ber-eng) | kab.eng | 0.147 | 0.4 |
+| Berber languages | English  | [ber-eng](../models/ber-eng) | kab.eng | 0.146 | 0.3 |
+| Berber languages | English  | [ber-eng](../models/ber-eng) | shy.eng | 0.131 | 0.4 |
 | Berber languages | English  | [ber-eng](../models/ber-eng) | shy.eng | 0.127 | 0.3 |
 | Berber languages | English  | [ber-eng](../models/ber-eng) | kab.eng | 0.120 | 0.2 |
 | Berber languages | English  | [ber-eng](../models/ber-eng) | rif.eng | 0.118 | 0.3 |
+| Berber languages | English  | [ber-eng](../models/ber-eng) | rif.eng | 0.116 | 0.3 |
 | Berber languages | English  | [ber-eng](../models/ber-eng) | rif.eng | 0.116 | 0.6 |
 | Berber languages | English  | [ber-eng](../models/ber-eng) | shy.eng | 0.094 | 1.1 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | tso.eng | 1.000 | 100.0 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | tso.eng | 1.000 | 100.0 |
+| Bantu languages | English  | [bnt-eng](../models/bnt-eng) | tso.eng | 1.000 | 100.0 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | zul.eng | 0.600 | 44.6 |
+| Bantu languages | English  | [bnt-eng](../models/bnt-eng) | zul.eng | 0.582 | 42.3 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | zul.eng | 0.576 | 40.9 |
+| Bantu languages | English  | [bnt-eng](../models/bnt-eng) | xho.eng | 0.557 | 39.1 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | xho.eng | 0.554 | 37.2 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | xho.eng | 0.539 | 35.3 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | nya.eng | 0.527 | 38.3 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | nya.eng | 0.519 | 38.6 |
+| Bantu languages | English  | [bnt-eng](../models/bnt-eng) | kin.eng | 0.514 | 36.4 |
+| Bantu languages | English  | [bnt-eng](../models/bnt-eng) | nya.eng | 0.507 | 34.8 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | kin.eng | 0.502 | 32.7 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | kin.eng | 0.481 | 31.7 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | sna.eng | 0.440 | 27.5 |
+| Bantu languages | English  | [bnt-eng](../models/bnt-eng) | run.eng | 0.433 | 26.4 |
+| Bantu languages | English  | [bnt-eng](../models/bnt-eng) | sna.eng | 0.433 | 26.5 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | run.eng | 0.431 | 26.6 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | sna.eng | 0.429 | 21.8 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | run.eng | 0.425 | 26.0 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | toi.eng | 0.342 | 16.2 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | toi.eng | 0.342 | 16.2 |
+| Bantu languages | English  | [bnt-eng](../models/bnt-eng) | toi.eng | 0.321 | 16.8 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | lug.eng | 0.282 | 8.2 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | lin.eng | 0.271 | 8.3 |
+| Bantu languages | English  | [bnt-eng](../models/bnt-eng) | umb.eng | 0.254 | 8.8 |
+| Bantu languages | English  | [bnt-eng](../models/bnt-eng) | lin.eng | 0.246 | 6.7 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | umb.eng | 0.231 | 8.4 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | lin.eng | 0.228 | 7.6 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | swa.eng | 0.197 | 5.1 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | swa.eng | 0.195 | 4.6 |
+| Bantu languages | English  | [bnt-eng](../models/bnt-eng) | swa.eng | 0.194 | 4.5 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | umb.eng | 0.190 | 6.0 |
+| Bantu languages | English  | [bnt-eng](../models/bnt-eng) | lug.eng | 0.139 | 3.6 |
 | Bantu languages | English  | [bnt-eng](../models/bnt-eng) | lug.eng | 0.128 | 5.3 |
+| Caucasian languages | English  | [cau-eng](../models/cau-eng) | kat.eng | 0.371 | 19.5 |
 | Caucasian languages | English  | [cau-eng](../models/cau-eng) | kat.eng | 0.366 | 18.6 |
 | Caucasian languages | English  | [cau-eng](../models/cau-eng) | kat.eng | 0.353 | 16.7 |
 | Caucasian languages | English  | [cau-eng](../models/cau-eng) | abk.eng | 0.134 | 0.3 |
 | Caucasian languages | English  | [cau-eng](../models/cau-eng) | abk.eng | 0.130 | 0.4 |
 | Caucasian languages | English  | [cau-eng](../models/cau-eng) | che.eng | 0.128 | 0.6 |
 | Caucasian languages | English  | [cau-eng](../models/cau-eng) | che.eng | 0.125 | 0.5 |
+| Caucasian languages | English  | [cau-eng](../models/cau-eng) | abk.eng | 0.123 | 0.6 |
 | Caucasian languages | English  | [cau-eng](../models/cau-eng) | ady.eng | 0.114 | 0.7 |
+| Caucasian languages | English  | [cau-eng](../models/cau-eng) | ady.eng | 0.111 | 0.4 |
+| Caucasian languages | English  | [cau-eng](../models/cau-eng) | che.eng | 0.109 | 0.7 |
 | Caucasian languages | English  | [cau-eng](../models/cau-eng) | ady.eng | 0.104 | 0.4 |
+| North Caucasian languages | English  | [ccn-eng](../models/ccn-eng) | abk.eng | 0.125 | 0.5 |
 | North Caucasian languages | English  | [ccn-eng](../models/ccn-eng) | abk.eng | 0.125 | 0.7 |
 | North Caucasian languages | English  | [ccn-eng](../models/ccn-eng) | ady.eng | 0.125 | 0.4 |
 | North Caucasian languages | English  | [ccn-eng](../models/ccn-eng) | abk.eng | 0.124 | 0.7 |
+| North Caucasian languages | English  | [ccn-eng](../models/ccn-eng) | ady.eng | 0.110 | 0.6 |
 | North Caucasian languages | English  | [ccn-eng](../models/ccn-eng) | che.eng | 0.110 | 0.9 |
 | North Caucasian languages | English  | [ccn-eng](../models/ccn-eng) | che.eng | 0.105 | 0.7 |
 | North Caucasian languages | English  | [ccn-eng](../models/ccn-eng) | ady.eng | 0.102 | 0.4 |
+| North Caucasian languages | English  | [ccn-eng](../models/ccn-eng) | che.eng | 0.100 | 0.7 |
+| South Caucasian languages | English  | [ccs-eng](../models/ccs-eng) | kat.eng | 0.402 | 22.0 |
 | South Caucasian languages | English  | [ccs-eng](../models/ccs-eng) | kat.eng | 0.357 | 18.0 |
 | South Caucasian languages | English  | [ccs-eng](../models/ccs-eng) | kat.eng | 0.311 | 13.9 |
 | Chadic languages | English  | [cdc-eng](../models/cdc-eng) | hau.eng | 0.355 | 6.0 |
 | Chadic languages | English  | [cdc-eng](../models/cdc-eng) | hau.eng | 0.083 | 0.3 |
+| Celtic languages | English  | [cel-eng](../models/cel-eng) | gle.eng | 0.675 | 51.3 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | gle.eng | 0.668 | 50.8 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | gle.eng | 0.642 | 47.8 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | glv.eng | 0.614 | 45.2 |
+| Celtic languages | English  | [cel-eng](../models/cel-eng) | cym.eng | 0.584 | 41.3 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | cym.eng | 0.582 | 41.5 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | cym.eng | 0.563 | 39.3 |
+| Celtic languages | English  | [cel-eng](../models/cel-eng) | glv.eng | 0.525 | 17.0 |
+| Celtic languages | English  | [cel-eng](../models/cel-eng) | bre.eng | 0.395 | 17.2 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | bre.eng | 0.385 | 17.2 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | bre.eng | 0.375 | 16.7 |
+| Celtic languages | English  | [cel-eng](../models/cel-eng) | gla.eng | 0.337 | 16.3 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | gla.eng | 0.330 | 15.4 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | gla.eng | 0.312 | 13.7 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | glv.eng | 0.297 | 11.0 |
+| Celtic languages | English  | [cel-eng](../models/cel-eng) | cor.eng | 0.177 | 3.2 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | cor.eng | 0.175 | 2.7 |
 | Celtic languages | English  | [cel-eng](../models/cel-eng) | cor.eng | 0.172 | 3.0 |
+| Creoles and pidgins, French‑based | English  | [cpf-eng](../models/cpf-eng) | mfe.eng | 0.810 | 66.0 |
 | Creoles and pidgins, French‑based | English  | [cpf-eng](../models/cpf-eng) | mfe.eng | 0.808 | 66.0 |
 | Creoles and pidgins, French‑based | English  | [cpf-eng](../models/cpf-eng) | mfe.eng | 0.800 | 63.3 |
+| Creoles and pidgins, French‑based | English  | [cpf-eng](../models/cpf-eng) | hat.eng | 0.445 | 29.6 |
 | Creoles and pidgins, French‑based | English  | [cpf-eng](../models/cpf-eng) | hat.eng | 0.443 | 29.1 |
 | Creoles and pidgins, French‑based | English  | [cpf-eng](../models/cpf-eng) | hat.eng | 0.421 | 28.0 |
 | Creoles and pidgins, French‑based | English  | [cpf-eng](../models/cpf-eng) | gcf.eng | 0.232 | 7.6 |
 | Creoles and pidgins, French‑based | English  | [cpf-eng](../models/cpf-eng) | gcf.eng | 0.229 | 8.4 |
+| Creoles and pidgins, French‑based | English  | [cpf-eng](../models/cpf-eng) | gcf.eng | 0.221 | 7.2 |
+| Creoles and pidgins, Portuguese-based | English  | [cpp-eng](../models/cpp-eng) | pap.eng | 0.625 | 57.2 |
 | Creoles and pidgins, Portuguese-based | English  | [cpp-eng](../models/cpp-eng) | pap.eng | 0.598 | 52.9 |
+| Creoles and pidgins, Portuguese-based | English  | [cpp-eng](../models/cpp-eng) | msa.eng | 0.585 | 40.0 |
 | Creoles and pidgins, Portuguese-based | English  | [cpp-eng](../models/cpp-eng) | msa.eng | 0.580 | 39.6 |
 | Creoles and pidgins, Portuguese-based | English  | [cpp-eng](../models/cpp-eng) | pap.eng | 0.579 | 49.1 |
 | Creoles and pidgins, Portuguese-based | English  | [cpp-eng](../models/cpp-eng) | msa.eng | 0.570 | 38.3 |
 | Cushitic languages | English  | [cus-eng](../models/cus-eng) | som.eng | 0.303 | 16.2 |
 | Cushitic languages | English  | [cus-eng](../models/cus-eng) | som.eng | 0.248 | 13.1 |
+| Cushitic languages | English  | [cus-eng](../models/cus-eng) | som.eng | 0.240 | 8.4 |
 | Mande languages | English  | [dmn-eng](../models/dmn-eng) | bam.eng | 0.124 | 1.2 |
+| Mande languages | English  | [dmn-eng](../models/dmn-eng) | bam.eng | 0.118 | 1.0 |
 | Mande languages | English  | [dmn-eng](../models/dmn-eng) | bam.eng | 0.064 | 5.2 |
+| Dravidian languages | English  | [dra-eng](../models/dra-eng) | mal.eng | 0.590 | 42.3 |
 | Dravidian languages | English  | [dra-eng](../models/dra-eng) | mal.eng | 0.584 | 42.0 |
 | Dravidian languages | English  | [dra-eng](../models/dra-eng) | mal.eng | 0.533 | 36.8 |
 | Dravidian languages | English  | [dra-eng](../models/dra-eng) | tam.eng | 0.467 | 30.2 |
+| Dravidian languages | English  | [dra-eng](../models/dra-eng) | tam.eng | 0.463 | 27.0 |
 | Dravidian languages | English  | [dra-eng](../models/dra-eng) | tam.eng | 0.405 | 22.9 |
 | Dravidian languages | English  | [dra-eng](../models/dra-eng) | tel.eng | 0.378 | 15.9 |
+| Dravidian languages | English  | [dra-eng](../models/dra-eng) | tel.eng | 0.356 | 13.2 |
+| Dravidian languages | English  | [dra-eng](../models/dra-eng) | kan.eng | 0.326 | 9.7 |
 | Dravidian languages | English  | [dra-eng](../models/dra-eng) | tel.eng | 0.322 | 12.2 |
 | Dravidian languages | English  | [dra-eng](../models/dra-eng) | kan.eng | 0.312 | 9.1 |
 | Dravidian languages | English  | [dra-eng](../models/dra-eng) | kan.eng | 0.288 | 8.6 |
 | Eskimo-Aleut languages | English  | [esx-eng](../models/esx-eng) | kal.eng | 0.250 | 8.9 |
 | Eskimo-Aleut languages | English  | [esx-eng](../models/esx-eng) | kal.eng | 0.238 | 8.3 |
+| Eskimo-Aleut languages | English  | [esx-eng](../models/esx-eng) | kal.eng | 0.216 | 3.8 |
+| Eskimo-Aleut languages | English  | [esx-eng](../models/esx-eng) | iku.eng | 0.155 | 1.3 |
 | Eskimo-Aleut languages | English  | [esx-eng](../models/esx-eng) | iku.eng | 0.152 | 2.6 |
 | Eskimo-Aleut languages | English  | [esx-eng](../models/esx-eng) | iku.eng | 0.142 | 1.8 |
 | Basque (family)-English  | [euq-eng](../models/euq-eng) | eus.eng | 0.594 | 41.5 |
 | Basque (family)-English  | [euq-eng](../models/euq-eng) | eus.eng | 0.594 | 41.5 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | est.eng | 0.706 | 55.1 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | est.eng | 0.706 | 55.3 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | est.eng | 0.682 | 52.9 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | izh.eng | 0.678 | 48.3 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | izh.eng | 0.678 | 48.3 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | fin.eng | 0.665 | 49.3 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | fin.eng | 0.660 | 48.7 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | hun.eng | 0.647 | 47.8 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | fin.eng | 0.639 | 46.3 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | hun.eng | 0.638 | 46.7 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | hun.eng | 0.619 | 44.6 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | izh.eng | 0.608 | 38.4 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | krl.eng | 0.491 | 35.4 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | krl.eng | 0.485 | 36.1 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | krl.eng | 0.453 | 32.7 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | fkv.eng | 0.391 | 10.6 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | fkv.eng | 0.384 | 11.5 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | fkv.eng | 0.376 | 8.0 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | sme.eng | 0.251 | 8.7 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | sme.eng | 0.229 | 7.8 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | sme.eng | 0.204 | 8.3 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | chm.eng | 0.166 | 1.1 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | udm.eng | 0.166 | 0.9 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | chm.eng | 0.163 | 1.2 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | chm.eng | 0.159 | 1.1 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | udm.eng | 0.148 | 0.8 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | kkt.eng | 0.142 | 0.5 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | mdf.eng | 0.123 | 1.3 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | myv.eng | 0.121 | 0.7 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | mdf.eng | 0.120 | 0.9 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | mdf.eng | 0.119 | 1.2 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | udm.eng | 0.119 | 0.9 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | sma.eng | 0.116 | 2.3 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | myv.eng | 0.114 | 0.3 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | kom.eng | 0.113 | 0.7 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | myv.eng | 0.109 | 0.4 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | kom.eng | 0.105 | 0.6 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | sma.eng | 0.105 | 2.3 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | sma.eng | 0.101 | 1.7 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | liv.eng | 0.086 | 2.1 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | kom.eng | 0.081 | 0.6 |
 | Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | liv.eng | 0.080 | 1.4 |
+| Finno-Ugrian languages | English  | [fiu-eng](../models/fiu-eng) | liv.eng | 0.072 | 1.4 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | afr.eng | 0.762 | 63.2 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | afr.eng | 0.758 | 62.8 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | afr.eng | 0.756 | 62.8 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | dan.eng | 0.756 | 61.9 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | dan.eng | 0.754 | 61.6 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | swe.eng | 0.748 | 62.5 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | swe.eng | 0.745 | 62.0 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | dan.eng | 0.744 | 60.4 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | swe.eng | 0.741 | 61.3 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | nld.eng | 0.738 | 59.6 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | nld.eng | 0.733 | 58.9 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | nld.eng | 0.727 | 58.2 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | nor.eng | 0.700 | 55.4 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | nor.eng | 0.696 | 54.9 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | nor.eng | 0.692 | 54.1 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | deu.eng | 0.670 | 50.3 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | isl.eng | 0.669 | 50.9 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | isl.eng | 0.669 | 51.0 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | deu.eng | 0.665 | 49.7 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | deu.eng | 0.658 | 48.7 |
@@ -585,35 +732,52 @@ Note that some of the test sets are way too small to be reliable!
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | sco.eng | 0.581 | 40.5 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | non.eng | 0.577 | 35.0 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | sco.eng | 0.569 | 35.9 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | non.eng | 0.562 | 37.3 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | sco.eng | 0.558 | 35.8 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | non.eng | 0.546 | 37.3 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | nds.eng | 0.534 | 34.1 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | nds.eng | 0.529 | 33.6 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | nds.eng | 0.511 | 31.5 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | ltz.eng | 0.505 | 33.0 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | ltz.eng | 0.504 | 34.0 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | enm.eng | 0.491 | 23.9 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | fry.eng | 0.490 | 30.1 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | enm.eng | 0.487 | 22.8 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | fry.eng | 0.486 | 29.6 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | ltz.eng | 0.485 | 34.4 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | enm.eng | 0.478 | 22.4 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | pdc.eng | 0.466 | 32.5 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | fao.eng | 0.462 | 27.4 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | fao.eng | 0.451 | 23.8 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | fry.eng | 0.449 | 24.8 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | fao.eng | 0.446 | 23.4 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | pdc.eng | 0.446 | 29.6 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | stq.eng | 0.430 | 21.6 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | pdc.eng | 0.427 | 28.1 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | yid.eng | 0.409 | 20.8 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | yid.eng | 0.400 | 19.4 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | yid.eng | 0.389 | 18.6 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | stq.eng | 0.361 | 14.5 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | gos.eng | 0.355 | 18.3 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | gos.eng | 0.352 | 17.8 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | stq.eng | 0.349 | 4.8 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | gsw.eng | 0.345 | 16.3 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | gos.eng | 0.341 | 17.3 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | swg.eng | 0.334 | 17.1 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | gsw.eng | 0.333 | 15.3 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | gsw.eng | 0.324 | 13.3 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | swg.eng | 0.315 | 17.8 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | swg.eng | 0.294 | 14.8 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | ang.eng | 0.273 | 10.4 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | ksh.eng | 0.266 | 6.7 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | ang.eng | 0.262 | 10.5 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | ang.eng | 0.258 | 9.7 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | ksh.eng | 0.258 | 6.8 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | frr.eng | 0.241 | 16.8 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | ksh.eng | 0.240 | 3.2 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | frr.eng | 0.230 | 11.8 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | frr.eng | 0.184 | 10.2 |
+| Germanic languages | English  | [gem-eng](../models/gem-eng) | got.eng | 0.069 | 0.1 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | got.eng | 0.058 | 0.1 |
 | Germanic languages | English  | [gem-eng](../models/gem-eng) | got.eng | 0.022 | 0.1 |
 | North Germanic languages | English  | [gmq-eng](../models/gmq-eng) | dan.eng | 0.744 | 60.1 |
@@ -636,170 +800,255 @@ Note that some of the test sets are way too small to be reliable!
 | North Germanic languages | English  | [gmq-eng](../models/gmq-eng) | fao.eng | 0.443 | 23.3 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | afr.eng | 0.750 | 61.8 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | afr.eng | 0.748 | 61.3 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | afr.eng | 0.747 | 61.1 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | nld.eng | 0.734 | 59.1 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | nld.eng | 0.728 | 58.1 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | nld.eng | 0.723 | 57.5 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | deu.eng | 0.661 | 49.0 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | deu.eng | 0.657 | 48.3 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | deu.eng | 0.649 | 47.5 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | sco.eng | 0.602 | 45.3 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | sco.eng | 0.572 | 39.3 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | sco.eng | 0.570 | 40.8 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | nds.eng | 0.522 | 32.5 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | nds.eng | 0.509 | 31.4 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | nds.eng | 0.494 | 30.1 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | fry.eng | 0.488 | 28.6 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | fry.eng | 0.482 | 28.5 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | fry.eng | 0.468 | 25.5 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | ltz.eng | 0.453 | 28.7 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | ltz.eng | 0.443 | 29.1 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | pdc.eng | 0.438 | 29.3 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | ltz.eng | 0.437 | 27.3 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | enm.eng | 0.430 | 16.3 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | pdc.eng | 0.427 | 28.9 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | enm.eng | 0.426 | 15.9 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | enm.eng | 0.423 | 16.1 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | pdc.eng | 0.406 | 25.1 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | stq.eng | 0.405 | 21.4 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | stq.eng | 0.385 | 20.1 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | stq.eng | 0.380 | 20.3 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | yid.eng | 0.378 | 17.8 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | yid.eng | 0.366 | 16.0 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | yid.eng | 0.341 | 14.2 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | gos.eng | 0.329 | 16.1 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | gos.eng | 0.326 | 15.5 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | swg.eng | 0.321 | 15.8 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | swg.eng | 0.315 | 20.5 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | gos.eng | 0.308 | 12.5 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | gsw.eng | 0.308 | 12.7 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | gsw.eng | 0.289 | 11.8 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | swg.eng | 0.284 | 13.8 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | gsw.eng | 0.279 | 8.5 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | ksh.eng | 0.261 | 8.4 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | frr.eng | 0.255 | 16.8 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | ksh.eng | 0.254 | 8.4 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | ksh.eng | 0.236 | 7.5 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | ang.eng | 0.220 | 7.3 |
+| West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | ang.eng | 0.217 | 7.4 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | ang.eng | 0.203 | 6.4 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | frr.eng | 0.168 | 7.0 |
 | West Germanic languages | English  | [gmw-eng](../models/gmw-eng) | frr.eng | 0.073 | 6.1 |
+| Greek languages | English  | [grk-eng](../models/grk-eng) | ell.eng | 0.788 | 67.3 |
 | Greek languages | English  | [grk-eng](../models/grk-eng) | ell.eng | 0.779 | 65.9 |
 | Greek languages | English  | [grk-eng](../models/grk-eng) | ell.eng | 0.761 | 63.5 |
+| Greek languages | English  | [grk-eng](../models/grk-eng) | grc.eng | 0.200 | 5.0 |
 | Greek languages | English  | [grk-eng](../models/grk-eng) | grc.eng | 0.187 | 4.1 |
 | Greek languages | English  | [grk-eng](../models/grk-eng) | grc.eng | 0.166 | 2.9 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | mai.eng | 0.715 | 66.2 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | mai.eng | 0.703 | 65.4 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | mai.eng | 0.622 | 38.7 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | ben.eng | 0.578 | 43.4 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | ben.eng | 0.576 | 42.5 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | ben.eng | 0.556 | 40.7 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | hin.eng | 0.551 | 37.3 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | hin.eng | 0.544 | 36.5 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | bho.eng | 0.525 | 35.0 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | hin.eng | 0.525 | 34.3 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | sin.eng | 0.497 | 27.4 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | sin.eng | 0.477 | 26.3 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | sin.eng | 0.474 | 22.8 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | mar.eng | 0.470 | 22.3 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | mar.eng | 0.468 | 22.5 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | bho.eng | 0.452 | 27.3 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | urd.eng | 0.445 | 24.7 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | bho.eng | 0.439 | 24.1 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | mar.eng | 0.439 | 19.7 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | urd.eng | 0.438 | 23.9 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | urd.eng | 0.419 | 22.2 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | pan.eng | 0.370 | 17.6 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | guj.eng | 0.355 | 17.2 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | asm.eng | 0.352 | 17.2 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | guj.eng | 0.350 | 15.9 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | pan.eng | 0.348 | 14.8 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | guj.eng | 0.345 | 16.0 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | snd.eng | 0.332 | 10.2 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | pan.eng | 0.331 | 12.4 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | asm.eng | 0.327 | 13.9 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | tgk.eng | 0.324 | 9.5 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | tgk.eng | 0.321 | 11.9 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | lah.eng | 0.315 | 19.4 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | asm.eng | 0.314 | 12.8 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | lah.eng | 0.301 | 17.4 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | lah.eng | 0.301 | 20.0 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | snd.eng | 0.287 | 8.2 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | tgk.eng | 0.270 | 9.5 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | fas.eng | 0.267 | 6.2 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | fas.eng | 0.262 | 5.6 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | kok.eng | 0.256 | 6.6 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | hif.eng | 0.255 | 6.0 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | fas.eng | 0.254 | 4.9 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | hif.eng | 0.247 | 10.1 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | awa.eng | 0.244 | 7.1 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | ori.eng | 0.244 | 4.8 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | snd.eng | 0.244 | 6.5 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | ori.eng | 0.228 | 2.6 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | awa.eng | 0.219 | 7.0 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | awa.eng | 0.214 | 7.9 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | hif.eng | 0.205 | 1.1 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | san.eng | 0.204 | 4.1 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | oss.eng | 0.196 | 1.7 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | nep.eng | 0.195 | 4.3 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | ori.eng | 0.192 | 2.3 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | nep.eng | 0.185 | 3.4 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | rom.eng | 0.185 | 2.8 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | san.eng | 0.185 | 2.8 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | pus.eng | 0.184 | 0.9 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | pus.eng | 0.182 | 1.1 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | rom.eng | 0.180 | 2.1 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | oss.eng | 0.179 | 1.9 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | pus.eng | 0.177 | 0.8 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | oss.eng | 0.173 | 1.6 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | rom.eng | 0.173 | 1.4 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | san.eng | 0.165 | 2.2 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | nep.eng | 0.159 | 1.9 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | kok.eng | 0.157 | 6.9 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | kok.eng | 0.156 | 6.6 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | kur.eng | 0.151 | 3.5 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | kur.eng | 0.149 | 3.4 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | kur.eng | 0.144 | 2.2 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | zza.eng | 0.102 | 0.8 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | jdt.eng | 0.101 | 11.4 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | zza.eng | 0.101 | 0.9 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | tly.eng | 0.099 | 1.3 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | zza.eng | 0.098 | 0.6 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | jdt.eng | 0.094 | 11.4 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | tly.eng | 0.076 | 0.9 |
+| Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | jdt.eng | 0.064 | 0.0 |
 | Indo-Iranian languages | English  | [iir-eng](../models/iir-eng) | tly.eng | 0.064 | 0.8 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | mai.eng | 0.796 | 75.6 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | mai.eng | 0.713 | 53.2 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | snd.eng | 0.670 | 45.7 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | mai.eng | 0.661 | 51.8 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | ben.eng | 0.601 | 45.1 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | ben.eng | 0.595 | 44.7 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | ben.eng | 0.594 | 44.6 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | hin.eng | 0.570 | 39.2 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | hin.eng | 0.564 | 38.6 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | hin.eng | 0.556 | 38.0 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | sin.eng | 0.525 | 32.0 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | sin.eng | 0.511 | 31.2 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | sin.eng | 0.507 | 28.2 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | mar.eng | 0.504 | 26.6 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | snd.eng | 0.500 | 38.5 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | snd.eng | 0.500 | 38.5 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | mar.eng | 0.497 | 25.9 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | mar.eng | 0.470 | 22.6 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | urd.eng | 0.468 | 26.6 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | bho.eng | 0.462 | 28.1 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | bho.eng | 0.458 | 29.4 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | urd.eng | 0.456 | 25.6 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | urd.eng | 0.451 | 25.2 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | bho.eng | 0.411 | 25.7 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | guj.eng | 0.386 | 21.8 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | guj.eng | 0.383 | 19.3 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | asm.eng | 0.382 | 19.8 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | pan.eng | 0.375 | 17.4 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | pan.eng | 0.373 | 15.2 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | pan.eng | 0.370 | 17.3 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | asm.eng | 0.363 | 18.1 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | guj.eng | 0.362 | 16.6 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | asm.eng | 0.360 | 18.0 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | lah.eng | 0.315 | 17.5 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | hif.eng | 0.288 | 9.0 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | kok.eng | 0.287 | 6.6 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | lah.eng | 0.272 | 16.0 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | lah.eng | 0.266 | 15.3 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | hif.eng | 0.235 | 4.4 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | awa.eng | 0.234 | 8.8 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | ori.eng | 0.229 | 5.8 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | ori.eng | 0.226 | 5.0 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | awa.eng | 0.222 | 6.2 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | hif.eng | 0.220 | 3.7 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | ori.eng | 0.219 | 3.4 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | awa.eng | 0.217 | 6.8 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | nep.eng | 0.206 | 3.8 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | nep.eng | 0.198 | 4.5 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | nep.eng | 0.180 | 2.8 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | rom.eng | 0.174 | 1.7 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | san.eng | 0.173 | 4.8 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | san.eng | 0.173 | 5.0 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | rom.eng | 0.172 | 1.8 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | san.eng | 0.167 | 3.1 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | rom.eng | 0.166 | 1.3 |
 | Indic languages | English  | [inc-eng](../models/inc-eng) | kok.eng | 0.153 | 1.4 |
+| Indic languages | English  | [inc-eng](../models/inc-eng) | kok.eng | 0.147 | 1.8 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | mfe.eng | 0.822 | 63.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | mfe.eng | 0.822 | 63.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | mfe.eng | 0.805 | 63.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | mai.eng | 0.769 | 74.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | mwl.eng | 0.767 | 40.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | mai.eng | 0.758 | 72.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | ell.eng | 0.743 | 62.3 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ell.eng | 0.741 | 62.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ell.eng | 0.740 | 61.9 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | mai.eng | 0.740 | 67.8 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | ita.eng | 0.738 | 61.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ita.eng | 0.735 | 60.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ita.eng | 0.732 | 60.5 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | afr.eng | 0.725 | 59.3 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | afr.eng | 0.724 | 59.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | afr.eng | 0.719 | 58.1 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | por.eng | 0.714 | 56.9 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | dan.eng | 0.711 | 56.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | por.eng | 0.710 | 56.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | por.eng | 0.710 | 56.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | dan.eng | 0.708 | 56.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | swe.eng | 0.707 | 57.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | dan.eng | 0.705 | 55.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | swe.eng | 0.705 | 57.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | pap.eng | 0.703 | 60.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | swe.eng | 0.703 | 57.1 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | nld.eng | 0.697 | 54.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | nld.eng | 0.694 | 54.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | nld.eng | 0.690 | 53.7 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | spa.eng | 0.688 | 53.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | spa.eng | 0.687 | 53.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | sqi.eng | 0.686 | 52.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | spa.eng | 0.685 | 52.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | sqi.eng | 0.682 | 52.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | cat.eng | 0.680 | 51.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | pap.eng | 0.680 | 57.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | sqi.eng | 0.679 | 51.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | cat.eng | 0.677 | 51.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | cat.eng | 0.677 | 51.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | gle.eng | 0.676 | 53.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | cos.eng | 0.675 | 61.0 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | ron.eng | 0.674 | 51.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | gle.eng | 0.671 | 52.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | lit.eng | 0.671 | 51.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lit.eng | 0.670 | 51.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ron.eng | 0.670 | 51.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | glg.eng | 0.669 | 50.5 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | hbs.eng | 0.668 | 51.9 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | nor.eng | 0.668 | 51.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ron.eng | 0.668 | 51.1 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | glg.eng | 0.667 | 50.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | gle.eng | 0.666 | 51.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | hbs.eng | 0.666 | 51.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lit.eng | 0.665 | 51.0 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | fra.eng | 0.664 | 50.6 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | bul.eng | 0.663 | 51.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | nor.eng | 0.663 | 50.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | fra.eng | 0.661 | 50.3 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | hbs.eng | 0.661 | 50.9 |
@@ -807,49 +1056,76 @@ Note that some of the test sets are way too small to be reliable!
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | nor.eng | 0.660 | 50.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | fra.eng | 0.659 | 50.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | bul.eng | 0.658 | 50.5 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | pap.eng | 0.658 | 56.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | glg.eng | 0.657 | 48.8 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | lav.eng | 0.654 | 48.7 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | mwl.eng | 0.653 | 38.4 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | non.eng | 0.650 | 47.5 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | ces.eng | 0.648 | 48.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lav.eng | 0.646 | 47.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | ukr.eng | 0.645 | 48.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ces.eng | 0.641 | 47.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lav.eng | 0.641 | 46.8 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | mkd.eng | 0.640 | 49.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ukr.eng | 0.639 | 48.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | mkd.eng | 0.638 | 49.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ukr.eng | 0.638 | 47.9 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | rus.eng | 0.637 | 48.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | mkd.eng | 0.636 | 49.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | pol.eng | 0.636 | 47.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ces.eng | 0.634 | 46.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | rus.eng | 0.634 | 47.8 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | cos.eng | 0.633 | 54.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | pol.eng | 0.632 | 46.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | pol.eng | 0.630 | 46.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | rus.eng | 0.630 | 47.4 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | deu.eng | 0.628 | 45.3 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | deu.eng | 0.625 | 44.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | deu.eng | 0.619 | 44.3 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | cos.eng | 0.615 | 53.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | isl.eng | 0.610 | 44.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | hsb.eng | 0.609 | 47.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | isl.eng | 0.605 | 43.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | isl.eng | 0.601 | 43.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | ben.eng | 0.599 | 45.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ben.eng | 0.599 | 45.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ben.eng | 0.598 | 45.8 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | bel.eng | 0.597 | 41.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | bel.eng | 0.597 | 42.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | hsb.eng | 0.590 | 46.4 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | hin.eng | 0.589 | 42.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | bel.eng | 0.588 | 41.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | hin.eng | 0.585 | 41.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | sco.eng | 0.584 | 43.3 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | sco.eng | 0.582 | 41.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | hin.eng | 0.581 | 41.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | slv.eng | 0.581 | 40.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | hsb.eng | 0.575 | 44.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | non.eng | 0.573 | 39.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | msa.eng | 0.568 | 38.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | hat.eng | 0.567 | 44.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | mar.eng | 0.566 | 33.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | msa.eng | 0.566 | 38.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | msa.eng | 0.565 | 38.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | hye.eng | 0.564 | 40.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | slv.eng | 0.564 | 38.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | slv.eng | 0.564 | 38.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | hye.eng | 0.559 | 39.8 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | hat.eng | 0.556 | 42.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | hat.eng | 0.554 | 40.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | hye.eng | 0.554 | 38.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | mar.eng | 0.554 | 32.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | mar.eng | 0.548 | 30.9 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | ltz.eng | 0.547 | 41.0 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | nds.eng | 0.544 | 36.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | cym.eng | 0.541 | 37.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | nds.eng | 0.538 | 35.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ltz.eng | 0.536 | 39.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | non.eng | 0.534 | 39.4 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | ast.eng | 0.533 | 37.7 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | sco.eng | 0.533 | 35.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | nds.eng | 0.529 | 34.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | bho.eng | 0.527 | 31.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | pdc.eng | 0.526 | 41.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | fry.eng | 0.525 | 34.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | cym.eng | 0.522 | 34.7 |
@@ -857,6 +1133,8 @@ Note that some of the test sets are way too small to be reliable!
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | cym.eng | 0.520 | 34.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ltz.eng | 0.519 | 34.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | bho.eng | 0.518 | 34.4 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | pdc.eng | 0.518 | 41.6 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | fry.eng | 0.514 | 33.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | bho.eng | 0.513 | 31.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | pdc.eng | 0.512 | 40.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ast.eng | 0.507 | 35.6 |
@@ -864,10 +1142,17 @@ Note that some of the test sets are way too small to be reliable!
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | sgs.eng | 0.498 | 38.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ext.eng | 0.496 | 33.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | tgk.eng | 0.496 | 35.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | arg.eng | 0.494 | 38.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | arg.eng | 0.493 | 37.9 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | lad.eng | 0.493 | 32.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | ext.eng | 0.491 | 30.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | arg.eng | 0.487 | 41.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lad.eng | 0.484 | 30.7 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | sin.eng | 0.484 | 28.9 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | sgs.eng | 0.483 | 31.8 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | urd.eng | 0.481 | 28.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lad.eng | 0.480 | 30.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | enm.eng | 0.476 | 21.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | enm.eng | 0.473 | 21.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | fry.eng | 0.473 | 27.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | mwl.eng | 0.473 | 18.7 |
@@ -876,7 +1161,11 @@ Note that some of the test sets are way too small to be reliable!
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | fao.eng | 0.469 | 28.3 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | enm.eng | 0.466 | 22.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | urd.eng | 0.465 | 27.0 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | yid.eng | 0.465 | 28.1 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | fao.eng | 0.463 | 28.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | fao.eng | 0.460 | 28.1 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | rue.eng | 0.460 | 26.0 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | frm.eng | 0.459 | 30.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | frm.eng | 0.457 | 30.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | yid.eng | 0.457 | 26.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | hif.eng | 0.451 | 22.3 |
@@ -884,31 +1173,48 @@ Note that some of the test sets are way too small to be reliable!
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | rue.eng | 0.447 | 26.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | hif.eng | 0.443 | 19.3 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | scn.eng | 0.440 | 45.1 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | lat.eng | 0.436 | 24.8 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | roh.eng | 0.435 | 20.4 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | tgk.eng | 0.435 | 25.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | scn.eng | 0.434 | 46.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lat.eng | 0.432 | 24.4 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | dsb.eng | 0.431 | 22.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | rue.eng | 0.430 | 24.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | guj.eng | 0.428 | 28.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ext.eng | 0.426 | 15.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lat.eng | 0.426 | 23.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | yid.eng | 0.426 | 23.4 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | guj.eng | 0.421 | 28.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | vec.eng | 0.421 | 35.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | roh.eng | 0.420 | 17.5 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | snd.eng | 0.420 | 21.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | hif.eng | 0.418 | 12.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | dsb.eng | 0.417 | 23.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | guj.eng | 0.415 | 25.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | roh.eng | 0.414 | 20.0 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | scn.eng | 0.414 | 39.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | tgk.eng | 0.413 | 24.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | bre.eng | 0.412 | 24.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | gla.eng | 0.412 | 24.7 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | csb.eng | 0.410 | 24.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | pan.eng | 0.409 | 17.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | snd.eng | 0.409 | 15.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | bre.eng | 0.405 | 24.4 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | asm.eng | 0.403 | 21.8 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | oci.eng | 0.401 | 20.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | gla.eng | 0.400 | 24.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | vec.eng | 0.398 | 28.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | pan.eng | 0.395 | 18.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | sgs.eng | 0.395 | 29.5 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | vec.eng | 0.395 | 30.3 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | csb.eng | 0.394 | 22.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | asm.eng | 0.392 | 22.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | stq.eng | 0.391 | 9.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | gsw.eng | 0.390 | 23.9 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | gos.eng | 0.389 | 21.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | pan.eng | 0.389 | 17.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | stq.eng | 0.389 | 21.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | stq.eng | 0.387 | 8.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | bre.eng | 0.386 | 22.3 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | oci.eng | 0.386 | 19.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lmo.eng | 0.384 | 28.0 |
@@ -919,173 +1225,266 @@ Note that some of the test sets are way too small to be reliable!
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lmo.eng | 0.381 | 26.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | csb.eng | 0.379 | 20.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | gos.eng | 0.378 | 19.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | gsw.eng | 0.376 | 21.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | gsw.eng | 0.370 | 19.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | gos.eng | 0.369 | 18.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lld.eng | 0.369 | 22.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ori.eng | 0.364 | 16.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | lmo.eng | 0.362 | 19.5 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | ori.eng | 0.361 | 15.4 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | glv.eng | 0.357 | 32.1 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | swg.eng | 0.355 | 18.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ori.eng | 0.353 | 18.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | pms.eng | 0.353 | 15.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lld.eng | 0.351 | 20.1 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | lld.eng | 0.348 | 19.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | snd.eng | 0.342 | 12.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | pms.eng | 0.338 | 13.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | swg.eng | 0.338 | 18.0 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | wln.eng | 0.338 | 18.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | pms.eng | 0.333 | 13.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | swg.eng | 0.322 | 17.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | wln.eng | 0.320 | 17.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | gcf.eng | 0.317 | 18.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lah.eng | 0.311 | 11.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | gcf.eng | 0.310 | 18.0 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | orv.eng | 0.310 | 14.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | fas.eng | 0.309 | 9.7 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | lah.eng | 0.309 | 11.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | fas.eng | 0.306 | 9.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | fas.eng | 0.305 | 9.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | frr.eng | 0.301 | 15.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | oss.eng | 0.301 | 9.4 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | gcf.eng | 0.294 | 15.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | oss.eng | 0.292 | 10.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | ksh.eng | 0.288 | 12.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | orv.eng | 0.288 | 13.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lij.eng | 0.287 | 9.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lah.eng | 0.286 | 11.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | awa.eng | 0.285 | 10.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ksh.eng | 0.284 | 15.8 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | lij.eng | 0.284 | 7.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | lij.eng | 0.281 | 7.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | awa.eng | 0.280 | 11.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | wln.eng | 0.278 | 11.9 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | awa.eng | 0.271 | 10.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | orv.eng | 0.271 | 11.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ksh.eng | 0.269 | 10.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | oss.eng | 0.260 | 5.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ang.eng | 0.254 | 9.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | ang.eng | 0.250 | 9.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | ang.eng | 0.240 | 7.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | rom.eng | 0.237 | 5.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | rom.eng | 0.235 | 4.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | kok.eng | 0.233 | 4.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | kur.eng | 0.232 | 11.6 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | rom.eng | 0.232 | 5.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | pus.eng | 0.226 | 3.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | egl.eng | 0.221 | 6.9 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | kur.eng | 0.221 | 11.7 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | nep.eng | 0.220 | 5.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | kur.eng | 0.218 | 10.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | cor.eng | 0.214 | 5.4 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | cor.eng | 0.213 | 5.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | nep.eng | 0.209 | 4.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | kok.eng | 0.205 | 7.8 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | cor.eng | 0.204 | 5.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | pus.eng | 0.202 | 2.6 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | egl.eng | 0.200 | 3.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | prg.eng | 0.198 | 3.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | san.eng | 0.195 | 4.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | pus.eng | 0.194 | 3.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | san.eng | 0.194 | 2.3 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | prg.eng | 0.193 | 2.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | san.eng | 0.193 | 4.2 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | nep.eng | 0.192 | 3.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | glv.eng | 0.189 | 5.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | glv.eng | 0.188 | 3.0 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | egl.eng | 0.185 | 3.6 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | prg.eng | 0.182 | 2.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | frr.eng | 0.176 | 4.8 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | kok.eng | 0.167 | 3.7 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | grc.eng | 0.144 | 2.1 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | zza.eng | 0.134 | 2.0 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | grc.eng | 0.133 | 1.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | zza.eng | 0.131 | 1.7 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | zza.eng | 0.127 | 1.4 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | tly.eng | 0.122 | 1.4 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | jdt.eng | 0.114 | 4.3 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | frr.eng | 0.111 | 9.3 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | grc.eng | 0.095 | 0.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | tly.eng | 0.094 | 0.9 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | tly.eng | 0.094 | 1.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | jdt.eng | 0.091 | 5.5 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | got.eng | 0.039 | 0.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | jdt.eng | 0.035 | 1.2 |
+| Indo-European languages | English  | [ine-eng](../models/ine-eng) | got.eng | 0.030 | 0.1 |
 | Indo-European languages | English  | [ine-eng](../models/ine-eng) | got.eng | 0.022 | 0.1 |
+| Iranian languages | English  | [ira-eng](../models/ira-eng) | tgk.eng | 0.233 | 2.7 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | tgk.eng | 0.219 | 4.4 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | tgk.eng | 0.214 | 2.5 |
+| Iranian languages | English  | [ira-eng](../models/ira-eng) | fas.eng | 0.193 | 1.6 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | fas.eng | 0.193 | 1.7 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | fas.eng | 0.191 | 1.7 |
+| Iranian languages | English  | [ira-eng](../models/ira-eng) | pus.eng | 0.159 | 0.6 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | pus.eng | 0.152 | 0.6 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | pus.eng | 0.146 | 0.8 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | oss.eng | 0.142 | 0.9 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | oss.eng | 0.134 | 1.0 |
+| Iranian languages | English  | [ira-eng](../models/ira-eng) | oss.eng | 0.133 | 1.2 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | jdt.eng | 0.132 | 3.9 |
+| Iranian languages | English  | [ira-eng](../models/ira-eng) | jdt.eng | 0.126 | 6.4 |
+| Iranian languages | English  | [ira-eng](../models/ira-eng) | kur.eng | 0.118 | 0.3 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | jdt.eng | 0.117 | 2.7 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | kur.eng | 0.112 | 0.5 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | kur.eng | 0.108 | 0.4 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | tly.eng | 0.105 | 0.9 |
+| Iranian languages | English  | [ira-eng](../models/ira-eng) | tly.eng | 0.094 | 0.3 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | zza.eng | 0.090 | 0.2 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | zza.eng | 0.088 | 0.1 |
+| Iranian languages | English  | [ira-eng](../models/ira-eng) | zza.eng | 0.083 | 0.1 |
 | Iranian languages | English  | [ira-eng](../models/ira-eng) | tly.eng | 0.079 | 0.3 |
+| Iroquoian languages | English  | [iro-eng](../models/iro-eng) | chr.eng | 0.199 | 3.0 |
 | Iroquoian languages | English  | [iro-eng](../models/iro-eng) | chr.eng | 0.182 | 1.2 |
 | Iroquoian languages | English  | [iro-eng](../models/iro-eng) | chr.eng | 0.179 | 1.0 |
 | Iroquoian languages | English  | [iro-eng](../models/iro-eng) | moh.eng | 0.143 | 0.1 |
+| Iroquoian languages | English  | [iro-eng](../models/iro-eng) | moh.eng | 0.140 | 0.1 |
 | Iroquoian languages | English  | [iro-eng](../models/iro-eng) | moh.eng | 0.138 | 0.1 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | mfe.eng | 0.820 | 66.0 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | mfe.eng | 0.820 | 66.0 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | mfe.eng | 0.820 | 66.0 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | ita.eng | 0.767 | 64.7 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | ita.eng | 0.767 | 64.8 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | ita.eng | 0.764 | 64.5 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | por.eng | 0.737 | 59.5 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | por.eng | 0.734 | 59.3 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | por.eng | 0.733 | 59.1 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | spa.eng | 0.712 | 55.8 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | spa.eng | 0.712 | 55.9 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | spa.eng | 0.711 | 55.6 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | mwl.eng | 0.707 | 41.3 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | mwl.eng | 0.707 | 41.3 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | mwl.eng | 0.707 | 41.3 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | glg.eng | 0.701 | 54.8 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | cat.eng | 0.700 | 54.2 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | cat.eng | 0.699 | 54.4 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | glg.eng | 0.699 | 53.9 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | glg.eng | 0.697 | 54.1 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | ron.eng | 0.697 | 54.5 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | cat.eng | 0.696 | 53.7 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | ron.eng | 0.696 | 54.2 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | ron.eng | 0.696 | 54.3 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | fra.eng | 0.688 | 53.4 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | fra.eng | 0.688 | 53.4 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | fra.eng | 0.685 | 53.0 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | cos.eng | 0.659 | 63.2 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | pap.eng | 0.647 | 53.6 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | pap.eng | 0.647 | 53.6 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | pap.eng | 0.642 | 53.9 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | cos.eng | 0.640 | 56.5 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | cos.eng | 0.632 | 62.9 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | ext.eng | 0.597 | 46.8 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | ext.eng | 0.593 | 46.4 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | msa.eng | 0.590 | 40.7 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | msa.eng | 0.590 | 40.8 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | msa.eng | 0.587 | 40.2 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | hat.eng | 0.583 | 42.6 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | hat.eng | 0.578 | 42.0 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | hat.eng | 0.565 | 38.3 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | ext.eng | 0.547 | 39.1 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | arg.eng | 0.539 | 43.7 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | ast.eng | 0.532 | 37.7 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | arg.eng | 0.528 | 41.5 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | ast.eng | 0.519 | 36.0 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | arg.eng | 0.512 | 40.9 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | ast.eng | 0.503 | 34.8 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | vec.eng | 0.459 | 36.2 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | lad.eng | 0.444 | 19.8 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | scn.eng | 0.443 | 40.0 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | frm.eng | 0.434 | 26.4 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | lad.eng | 0.433 | 14.4 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | lad.eng | 0.430 | 14.7 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | frm.eng | 0.423 | 23.2 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | scn.eng | 0.422 | 38.3 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | roh.eng | 0.420 | 17.7 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | frm.eng | 0.409 | 22.3 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | roh.eng | 0.405 | 17.4 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | roh.eng | 0.404 | 14.9 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | scn.eng | 0.403 | 40.3 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | oci.eng | 0.401 | 20.3 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | oci.eng | 0.400 | 20.4 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | oci.eng | 0.395 | 19.8 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | lat.eng | 0.392 | 19.8 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | lat.eng | 0.390 | 19.5 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | lat.eng | 0.382 | 18.8 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | wln.eng | 0.360 | 20.9 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | wln.eng | 0.339 | 17.9 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | wln.eng | 0.335 | 18.5 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | pms.eng | 0.334 | 12.2 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | lld.eng | 0.331 | 17.4 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | lld.eng | 0.330 | 16.7 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | pms.eng | 0.330 | 12.8 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | pms.eng | 0.325 | 11.3 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | lmo.eng | 0.324 | 11.9 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | lmo.eng | 0.315 | 10.7 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | vec.eng | 0.313 | 7.8 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | gcf.eng | 0.310 | 17.1 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | gcf.eng | 0.308 | 18.7 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | lmo.eng | 0.306 | 10.8 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | vec.eng | 0.304 | 11.2 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | gcf.eng | 0.294 | 17.1 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | lij.eng | 0.289 | 8.5 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | lij.eng | 0.280 | 8.9 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | lij.eng | 0.275 | 9.5 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | lld.eng | 0.266 | 7.2 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | egl.eng | 0.217 | 4.6 |
+| Italic languages | English  | [itc-eng](../models/itc-eng) | egl.eng | 0.204 | 4.2 |
 | Italic languages | English  | [itc-eng](../models/itc-eng) | egl.eng | 0.185 | 2.7 |
 | Japanese (family)-English  | [jpx-eng](../models/jpx-eng) | jpn.eng | 0.434 | 22.9 |
 | Japanese (family)-English  | [jpx-eng](../models/jpx-eng) | jpn.eng | 0.415 | 21.3 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | tvl.eng | 0.658 | 60.1 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | tvl.eng | 0.656 | 63.9 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | gil.eng | 0.611 | 58.1 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | gil.eng | 0.589 | 48.7 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | msa.eng | 0.548 | 36.2 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | msa.eng | 0.540 | 35.5 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | niu.eng | 0.538 | 41.2 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | ilo.eng | 0.527 | 33.1 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | ilo.eng | 0.523 | 32.5 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | niu.eng | 0.513 | 43.3 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | pag.eng | 0.507 | 27.1 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | smo.eng | 0.504 | 40.4 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | smo.eng | 0.495 | 40.1 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | sun.eng | 0.494 | 36.0 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | pag.eng | 0.484 | 23.7 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | ton.eng | 0.475 | 45.2 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | mlg.eng | 0.452 | 38.7 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | ton.eng | 0.452 | 34.1 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | mlg.eng | 0.443 | 37.8 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | sun.eng | 0.401 | 26.9 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | fij.eng | 0.376 | 23.8 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | hil.eng | 0.371 | 17.7 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | ceb.eng | 0.355 | 18.1 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | mah.eng | 0.345 | 18.3 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | hil.eng | 0.342 | 14.2 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | war.eng | 0.339 | 14.8 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | war.eng | 0.335 | 14.8 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | ceb.eng | 0.332 | 15.1 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | iba.eng | 0.331 | 9.6 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | ceb.eng | 0.330 | 14.5 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | fij.eng | 0.326 | 20.4 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | jav.eng | 0.313 | 12.3 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | hil.eng | 0.309 | 11.1 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | jav.eng | 0.303 | 11.2 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | akl.eng | 0.283 | 8.8 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | mri.eng | 0.283 | 10.9 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | rap.eng | 0.282 | 21.7 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | mri.eng | 0.278 | 9.7 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | mah.eng | 0.277 | 16.0 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | iba.eng | 0.272 | 8.9 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | akl.eng | 0.262 | 5.5 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | tah.eng | 0.262 | 23.8 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | rap.eng | 0.254 | 20.6 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | war.eng | 0.213 | 4.0 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | akl.eng | 0.208 | 4.0 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | tah.eng | 0.203 | 13.5 |
@@ -1093,20 +1492,27 @@ Note that some of the test sets are way too small to be reliable!
 | Austronesian languages | English  | [map-eng](../models/map-eng) | pag.eng | 0.163 | 1.7 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | cha.eng | 0.161 | 3.1 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | pau.eng | 0.158 | 6.1 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | cha.eng | 0.156 | 4.3 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | cha.eng | 0.152 | 4.2 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | pau.eng | 0.148 | 6.9 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | haw.eng | 0.146 | 2.6 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | mad.eng | 0.144 | 8.0 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | tet.eng | 0.144 | 5.3 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | dtp.eng | 0.138 | 0.8 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | nau.eng | 0.138 | 1.9 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | dtp.eng | 0.136 | 1.1 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | mad.eng | 0.135 | 2.1 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | msa.eng | 0.135 | 1.2 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | haw.eng | 0.134 | 3.0 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | nau.eng | 0.133 | 1.1 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | tet.eng | 0.131 | 2.2 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | pau.eng | 0.127 | 2.4 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | tet.eng | 0.127 | 2.4 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | nau.eng | 0.124 | 1.2 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | sun.eng | 0.123 | 4.9 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | dtp.eng | 0.120 | 0.6 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | gil.eng | 0.120 | 2.0 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | mad.eng | 0.118 | 2.5 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | mri.eng | 0.118 | 0.5 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | mlg.eng | 0.113 | 1.8 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | fij.eng | 0.109 | 3.5 |
@@ -1117,6 +1523,7 @@ Note that some of the test sets are way too small to be reliable!
 | Austronesian languages | English  | [map-eng](../models/map-eng) | tvl.eng | 0.099 | 4.2 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | haw.eng | 0.096 | 0.6 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | ton.eng | 0.096 | 1.9 |
+| Austronesian languages | English  | [map-eng](../models/map-eng) | lkt.eng | 0.094 | 1.1 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | niu.eng | 0.092 | 2.7 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | tah.eng | 0.091 | 1.8 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | lkt.eng | 0.090 | 0.7 |
@@ -1124,12 +1531,16 @@ Note that some of the test sets are way too small to be reliable!
 | Austronesian languages | English  | [map-eng](../models/map-eng) | rap.eng | 0.080 | 1.2 |
 | Austronesian languages | English  | [map-eng](../models/map-eng) | mah.eng | 0.073 | 0.7 |
 | Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | vie.eng | 0.535 | 35.5 |
+| Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | vie.eng | 0.532 | 35.3 |
 | Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | vie.eng | 0.529 | 34.4 |
 | Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | khm.eng | 0.206 | 8.5 |
 | Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | khm.eng | 0.199 | 5.9 |
+| Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | khm.eng | 0.192 | 7.1 |
 | Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | mnw.eng | 0.110 | 0.7 |
 | Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | kha.eng | 0.108 | 0.5 |
 | Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | kha.eng | 0.103 | 0.6 |
+| Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | mnw.eng | 0.102 | 0.4 |
+| Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | kha.eng | 0.099 | 0.5 |
 | Mon-Khmer languages | English  | [mkh-eng](../models/mkh-eng) | mnw.eng | 0.084 | 0.6 |
 | Multiple languages | English  | [mul-eng](../models/mul-eng) | mfe.eng | 0.771 | 59.2 |
 | Multiple languages | English  | [mul-eng](../models/mul-eng) | mfe.eng | 0.764 | 59.2 |
@@ -1632,50 +2043,75 @@ Note that some of the test sets are way too small to be reliable!
 | Northern Ngbandi-English  | [ngb-eng](../models/ngb-eng) | sag.eng | 0.090 | 1.3 |
 | Northern Ngbandi-English  | [ngb-eng](../models/ngb-eng) | sag.eng | 0.090 | 1.3 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | tso.eng | 1.000 | 100.0 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | tso.eng | 1.000 | 100.0 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | tso.eng | 0.878 | 80.0 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | zul.eng | 0.593 | 40.8 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | zul.eng | 0.589 | 42.3 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | zul.eng | 0.576 | 41.3 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | xho.eng | 0.558 | 38.2 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | nya.eng | 0.552 | 40.5 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | xho.eng | 0.533 | 35.1 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | xho.eng | 0.521 | 34.8 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | nya.eng | 0.502 | 31.6 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | nya.eng | 0.493 | 34.0 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | kin.eng | 0.484 | 35.5 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | kin.eng | 0.481 | 30.7 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | kin.eng | 0.473 | 33.1 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | run.eng | 0.420 | 24.9 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | run.eng | 0.416 | 24.0 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | run.eng | 0.416 | 24.1 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | yor.eng | 0.393 | 22.9 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | ewe.eng | 0.384 | 10.3 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | ewe.eng | 0.382 | 8.0 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | sna.eng | 0.374 | 20.1 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | sna.eng | 0.367 | 17.7 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | yor.eng | 0.364 | 21.2 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | sna.eng | 0.362 | 17.2 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | ewe.eng | 0.351 | 7.1 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | yor.eng | 0.351 | 19.3 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | sag.eng | 0.268 | 16.1 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | lug.eng | 0.261 | 3.1 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | umb.eng | 0.246 | 9.0 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | wol.eng | 0.246 | 5.2 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | sag.eng | 0.231 | 5.2 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | umb.eng | 0.220 | 5.1 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | wol.eng | 0.216 | 13.6 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | wol.eng | 0.212 | 14.0 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | umb.eng | 0.203 | 3.5 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | ibo.eng | 0.202 | 4.3 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | ibo.eng | 0.197 | 7.5 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | swa.eng | 0.196 | 4.3 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | lin.eng | 0.191 | 3.6 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | swa.eng | 0.191 | 4.6 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | swa.eng | 0.189 | 3.8 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | lin.eng | 0.188 | 3.8 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | ibo.eng | 0.186 | 3.6 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | lin.eng | 0.185 | 3.1 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | toi.eng | 0.183 | 4.8 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | toi.eng | 0.154 | 5.3 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | lug.eng | 0.153 | 4.5 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | sag.eng | 0.152 | 1.9 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | lug.eng | 0.135 | 3.6 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | toi.eng | 0.122 | 4.8 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | ful.eng | 0.121 | 1.4 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | ful.eng | 0.114 | 1.2 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | ful.eng | 0.109 | 0.6 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | bam.eng | 0.100 | 3.4 |
 | Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | bam.eng | 0.090 | 2.4 |
+| Niger-Kordofanian languages | English  | [nic-eng](../models/nic-eng) | bam.eng | 0.086 | 3.7 |
+| Philippine languages | English  | [phi-eng](../models/phi-eng) | ilo.eng | 0.560 | 36.6 |
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | ilo.eng | 0.560 | 36.6 |
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | pag.eng | 0.494 | 27.5 |
+| Philippine languages | English  | [phi-eng](../models/phi-eng) | pag.eng | 0.484 | 25.7 |
+| Philippine languages | English  | [phi-eng](../models/phi-eng) | ceb.eng | 0.396 | 21.1 |
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | ceb.eng | 0.393 | 21.7 |
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | ceb.eng | 0.391 | 21.4 |
+| Philippine languages | English  | [phi-eng](../models/phi-eng) | hil.eng | 0.386 | 19.7 |
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | war.eng | 0.380 | 17.3 |
+| Philippine languages | English  | [phi-eng](../models/phi-eng) | war.eng | 0.377 | 16.3 |
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | hil.eng | 0.371 | 17.6 |
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | akl.eng | 0.321 | 11.6 |
+| Philippine languages | English  | [phi-eng](../models/phi-eng) | akl.eng | 0.313 | 11.7 |
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | hil.eng | 0.280 | 9.3 |
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | war.eng | 0.209 | 3.9 |
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | akl.eng | 0.208 | 5.6 |
@@ -1683,27 +2119,48 @@ Note that some of the test sets are way too small to be reliable!
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | ilo.eng | 0.164 | 1.6 |
 | Philippine languages | English  | [phi-eng](../models/phi-eng) | pmn.eng | 0.102 | 0.6 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | tvl.eng | 0.658 | 60.1 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | tvl.eng | 0.656 | 63.9 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | gil.eng | 0.611 | 58.1 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | gil.eng | 0.589 | 48.7 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | msa.eng | 0.548 | 36.2 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | msa.eng | 0.540 | 35.5 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | niu.eng | 0.538 | 41.2 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | ilo.eng | 0.527 | 33.1 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | ilo.eng | 0.523 | 32.5 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | niu.eng | 0.513 | 43.3 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | pag.eng | 0.507 | 27.1 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | smo.eng | 0.504 | 40.4 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | smo.eng | 0.495 | 40.1 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | sun.eng | 0.494 | 36.0 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | pag.eng | 0.484 | 23.7 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | ton.eng | 0.475 | 45.2 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | mlg.eng | 0.452 | 38.7 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | ton.eng | 0.452 | 34.1 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | mlg.eng | 0.443 | 37.8 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | sun.eng | 0.401 | 26.9 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | fij.eng | 0.376 | 23.8 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | hil.eng | 0.371 | 17.7 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | ceb.eng | 0.355 | 18.1 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | mah.eng | 0.345 | 18.3 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | hil.eng | 0.342 | 14.2 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | war.eng | 0.339 | 14.8 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | war.eng | 0.335 | 14.8 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | ceb.eng | 0.332 | 15.1 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | iba.eng | 0.331 | 9.6 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | ceb.eng | 0.330 | 14.5 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | fij.eng | 0.326 | 20.4 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | jav.eng | 0.313 | 12.3 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | hil.eng | 0.309 | 11.1 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | jav.eng | 0.303 | 11.2 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | akl.eng | 0.283 | 8.8 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | mri.eng | 0.283 | 10.9 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | rap.eng | 0.282 | 21.7 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | mri.eng | 0.278 | 9.7 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | mah.eng | 0.277 | 16.0 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | iba.eng | 0.272 | 8.9 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | akl.eng | 0.262 | 5.5 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | tah.eng | 0.262 | 23.8 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | rap.eng | 0.254 | 20.6 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | war.eng | 0.213 | 4.0 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | akl.eng | 0.208 | 4.0 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | tah.eng | 0.203 | 13.5 |
@@ -1711,20 +2168,27 @@ Note that some of the test sets are way too small to be reliable!
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | pag.eng | 0.163 | 1.7 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | cha.eng | 0.161 | 3.1 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | pau.eng | 0.158 | 6.1 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | cha.eng | 0.156 | 4.3 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | cha.eng | 0.152 | 4.2 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | pau.eng | 0.148 | 6.9 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | haw.eng | 0.146 | 2.6 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | mad.eng | 0.144 | 8.0 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | tet.eng | 0.144 | 5.3 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | dtp.eng | 0.138 | 0.8 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | nau.eng | 0.138 | 1.9 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | dtp.eng | 0.136 | 1.1 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | mad.eng | 0.135 | 2.1 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | msa.eng | 0.135 | 1.2 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | haw.eng | 0.134 | 3.0 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | nau.eng | 0.133 | 1.1 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | tet.eng | 0.131 | 2.2 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | pau.eng | 0.127 | 2.4 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | tet.eng | 0.127 | 2.4 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | nau.eng | 0.124 | 1.2 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | sun.eng | 0.123 | 4.9 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | dtp.eng | 0.120 | 0.6 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | gil.eng | 0.120 | 2.0 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | mad.eng | 0.118 | 2.5 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | mri.eng | 0.118 | 0.5 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | mlg.eng | 0.113 | 1.8 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | fij.eng | 0.109 | 3.5 |
@@ -1735,37 +2199,53 @@ Note that some of the test sets are way too small to be reliable!
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | tvl.eng | 0.099 | 4.2 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | haw.eng | 0.096 | 0.6 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | ton.eng | 0.096 | 1.9 |
+| Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | lkt.eng | 0.094 | 1.1 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | niu.eng | 0.092 | 2.7 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | tah.eng | 0.091 | 1.8 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | lkt.eng | 0.090 | 0.7 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | lkt.eng | 0.084 | 1.2 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | rap.eng | 0.080 | 1.2 |
 | Malayo-Polynesian languages | English  | [poz-eng](../models/poz-eng) | mah.eng | 0.073 | 0.7 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | msa.eng | 0.563 | 37.3 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | ilo.eng | 0.553 | 35.9 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | msa.eng | 0.542 | 35.5 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | ilo.eng | 0.533 | 34.5 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | pag.eng | 0.523 | 32.9 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | sun.eng | 0.515 | 36.5 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | mlg.eng | 0.495 | 39.0 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | pag.eng | 0.458 | 21.6 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | mlg.eng | 0.444 | 38.2 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | sun.eng | 0.409 | 20.1 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | hil.eng | 0.384 | 17.5 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | war.eng | 0.369 | 17.6 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | ceb.eng | 0.364 | 18.4 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | war.eng | 0.359 | 16.4 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | ceb.eng | 0.356 | 18.5 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | ceb.eng | 0.355 | 18.1 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | hil.eng | 0.349 | 16.0 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | jav.eng | 0.311 | 12.0 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | hil.eng | 0.309 | 11.1 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | jav.eng | 0.309 | 10.4 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | akl.eng | 0.300 | 11.3 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | iba.eng | 0.297 | 11.1 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | iba.eng | 0.277 | 11.9 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | akl.eng | 0.274 | 9.6 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | war.eng | 0.213 | 4.0 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | akl.eng | 0.208 | 4.0 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | cha.eng | 0.182 | 5.4 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | cha.eng | 0.169 | 5.6 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | ilo.eng | 0.164 | 1.6 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | pag.eng | 0.163 | 1.7 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | cha.eng | 0.161 | 3.1 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | mad.eng | 0.152 | 7.5 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | mad.eng | 0.148 | 4.0 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | dtp.eng | 0.140 | 0.9 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | dtp.eng | 0.137 | 1.0 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | pau.eng | 0.136 | 1.7 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | mad.eng | 0.135 | 2.1 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | msa.eng | 0.135 | 1.2 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | pau.eng | 0.127 | 2.4 |
+| Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | pau.eng | 0.125 | 1.8 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | sun.eng | 0.123 | 4.9 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | dtp.eng | 0.120 | 0.6 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | mlg.eng | 0.113 | 1.8 |
@@ -1773,102 +2253,153 @@ Note that some of the test sets are way too small to be reliable!
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | pmn.eng | 0.109 | 0.6 |
 | Western Malayo-Polynesian languages | English  | [pqw-eng](../models/pqw-eng) | iba.eng | 0.107 | 0.8 |
 | Prakrit languages | English  | [pra-eng](../models/pra-eng) | san.eng | 0.119 | 0.1 |
+| Prakrit languages | English  | [pra-eng](../models/pra-eng) | san.eng | 0.110 | 0.1 |
 | Prakrit languages | English  | [pra-eng](../models/pra-eng) | san.eng | 0.106 | 0.1 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | mfe.eng | 0.819 | 63.1 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | mfe.eng | 0.805 | 63.1 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | mfe.eng | 0.805 | 66.0 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | ita.eng | 0.772 | 65.4 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | ita.eng | 0.768 | 64.8 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | ita.eng | 0.765 | 64.5 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | por.eng | 0.738 | 59.7 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | por.eng | 0.738 | 59.8 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | por.eng | 0.735 | 59.3 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | spa.eng | 0.716 | 56.4 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | spa.eng | 0.714 | 56.2 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | spa.eng | 0.713 | 56.1 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | glg.eng | 0.712 | 55.4 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | glg.eng | 0.711 | 55.4 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | cat.eng | 0.708 | 55.1 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | ron.eng | 0.704 | 55.4 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | cat.eng | 0.703 | 54.9 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | glg.eng | 0.703 | 54.6 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | ron.eng | 0.703 | 55.2 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | cat.eng | 0.696 | 53.7 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | ron.eng | 0.696 | 54.2 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | fra.eng | 0.692 | 53.9 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | fra.eng | 0.691 | 53.9 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | fra.eng | 0.687 | 53.3 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | pap.eng | 0.675 | 55.7 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | mwl.eng | 0.674 | 44.6 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | pap.eng | 0.672 | 56.6 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | pap.eng | 0.669 | 56.2 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | cos.eng | 0.666 | 68.1 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | cos.eng | 0.651 | 63.2 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | cos.eng | 0.641 | 59.9 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | msa.eng | 0.595 | 41.1 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | msa.eng | 0.592 | 40.9 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | msa.eng | 0.588 | 40.5 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | hat.eng | 0.553 | 37.3 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | arg.eng | 0.549 | 45.7 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | hat.eng | 0.540 | 37.0 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | arg.eng | 0.535 | 44.6 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | ast.eng | 0.527 | 34.9 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | hat.eng | 0.523 | 35.1 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | mwl.eng | 0.523 | 24.3 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | ast.eng | 0.520 | 35.2 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | arg.eng | 0.512 | 38.7 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | ast.eng | 0.506 | 33.7 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | ext.eng | 0.481 | 32.9 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | ext.eng | 0.468 | 29.3 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | lad.eng | 0.452 | 21.7 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | lad.eng | 0.441 | 14.0 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | roh.eng | 0.429 | 19.4 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | ext.eng | 0.427 | 24.2 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | frm.eng | 0.423 | 25.7 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | lad.eng | 0.413 | 13.4 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | oci.eng | 0.410 | 21.7 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | oci.eng | 0.408 | 20.8 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | frm.eng | 0.405 | 23.6 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | frm.eng | 0.405 | 24.0 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | oci.eng | 0.404 | 20.5 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | roh.eng | 0.402 | 15.2 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | scn.eng | 0.396 | 40.0 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | mwl.eng | 0.393 | 22.3 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | scn.eng | 0.388 | 35.8 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | roh.eng | 0.378 | 14.8 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | vec.eng | 0.343 | 13.6 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | lld.eng | 0.336 | 19.3 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | pms.eng | 0.335 | 12.9 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | pms.eng | 0.324 | 10.3 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | wln.eng | 0.323 | 17.3 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | pms.eng | 0.322 | 11.6 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | vec.eng | 0.317 | 13.8 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | gcf.eng | 0.316 | 18.0 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | vec.eng | 0.316 | 12.7 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | wln.eng | 0.315 | 13.4 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | lmo.eng | 0.305 | 7.4 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | lij.eng | 0.299 | 11.2 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | wln.eng | 0.293 | 13.3 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | gcf.eng | 0.288 | 14.8 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | lij.eng | 0.288 | 10.2 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | gcf.eng | 0.287 | 14.3 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | lmo.eng | 0.287 | 10.8 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | lij.eng | 0.282 | 9.2 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | lld.eng | 0.273 | 10.8 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | lld.eng | 0.267 | 8.7 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | lmo.eng | 0.260 | 5.8 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | scn.eng | 0.259 | 10.2 |
+| Romance languages | English  | [roa-eng](../models/roa-eng) | egl.eng | 0.212 | 5.6 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | egl.eng | 0.209 | 6.7 |
 | Romance languages | English  | [roa-eng](../models/roa-eng) | egl.eng | 0.184 | 3.2 |
+| Salishan languages | English  | [sal-eng](../models/sal-eng) | msa.eng | 0.595 | 41.5 |
 | Salishan languages | English  | [sal-eng](../models/sal-eng) | msa.eng | 0.588 | 40.5 |
 | Salishan languages | English  | [sal-eng](../models/sal-eng) | msa.eng | 0.574 | 38.8 |
 | Salishan languages | English  | [sal-eng](../models/sal-eng) | shs.eng | 0.097 | 2.2 |
 | Salishan languages | English  | [sal-eng](../models/sal-eng) | shs.eng | 0.097 | 2.2 |
+| Salishan languages | English  | [sal-eng](../models/sal-eng) | shs.eng | 0.094 | 2.0 |
 | Salishan languages | English  | [sal-eng](../models/sal-eng) | shs.eng | 0.089 | 1.4 |
 | Semitic languages | English  | [sem-eng](../models/sem-eng) | mlt.eng | 0.688 | 53.7 |
+| Semitic languages | English  | [sem-eng](../models/sem-eng) | mlt.eng | 0.670 | 51.5 |
 | Semitic languages | English  | [sem-eng](../models/sem-eng) | mlt.eng | 0.647 | 48.1 |
+| Semitic languages | English  | [sem-eng](../models/sem-eng) | heb.eng | 0.612 | 45.0 |
 | Semitic languages | English  | [sem-eng](../models/sem-eng) | heb.eng | 0.610 | 44.6 |
 | Semitic languages | English  | [sem-eng](../models/sem-eng) | heb.eng | 0.599 | 43.4 |
 | Semitic languages | English  | [sem-eng](../models/sem-eng) | amh.eng | 0.592 | 42.4 |
+| Semitic languages | English  | [sem-eng](../models/sem-eng) | amh.eng | 0.587 | 41.8 |
+| Semitic languages | English  | [sem-eng](../models/sem-eng) | ara.eng | 0.570 | 39.4 |
 | Semitic languages | English  | [sem-eng](../models/sem-eng) | ara.eng | 0.566 | 38.9 |
 | Semitic languages | English  | [sem-eng](../models/sem-eng) | amh.eng | 0.565 | 37.5 |
 | Semitic languages | English  | [sem-eng](../models/sem-eng) | ara.eng | 0.555 | 37.5 |
 | Semitic languages | English  | [sem-eng](../models/sem-eng) | tir.eng | 0.370 | 18.3 |
+| Semitic languages | English  | [sem-eng](../models/sem-eng) | tir.eng | 0.357 | 17.1 |
 | Semitic languages | English  | [sem-eng](../models/sem-eng) | tir.eng | 0.341 | 15.5 |
 | Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | mya.eng | 0.139 | 0.1 |
 | Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | zho.eng | 0.133 | 0.0 |
 | Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | bod.eng | 0.131 | 0.4 |
+| Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | bod.eng | 0.124 | 0.2 |
 | Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | bod.eng | 0.118 | 0.2 |
+| Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | mya.eng | 0.109 | 0.1 |
 | Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | mya.eng | 0.108 | 0.1 |
 | Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | brx.eng | 0.097 | 0.2 |
 | Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | zho.eng | 0.062 | 0.2 |
+| Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | brx.eng | 0.060 | 0.1 |
+| Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | zho.eng | 0.059 | 0.2 |
 | Sino-Tibetan languages | English  | [sit-eng](../models/sit-eng) | brx.eng | 0.057 | 0.2 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | hbs.eng | 0.702 | 56.1 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | hbs.eng | 0.701 | 55.8 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | hbs.eng | 0.701 | 55.9 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | bul.eng | 0.697 | 55.4 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | bul.eng | 0.696 | 55.2 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | bul.eng | 0.696 | 55.2 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | ces.eng | 0.690 | 53.2 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | ces.eng | 0.688 | 53.1 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | ces.eng | 0.686 | 52.8 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | rus.eng | 0.686 | 54.1 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | rus.eng | 0.685 | 54.1 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | ukr.eng | 0.685 | 53.6 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | ukr.eng | 0.685 | 53.8 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | ukr.eng | 0.683 | 53.4 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | mkd.eng | 0.682 | 54.7 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | rus.eng | 0.682 | 53.5 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | mkd.eng | 0.680 | 54.5 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | mkd.eng | 0.680 | 54.5 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | pol.eng | 0.671 | 51.0 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | pol.eng | 0.671 | 51.1 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | pol.eng | 0.668 | 50.6 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | slv.eng | 0.621 | 44.3 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | hsb.eng | 0.618 | 49.8 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | bel.eng | 0.610 | 42.7 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | slv.eng | 0.610 | 43.4 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | bel.eng | 0.609 | 42.5 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | slv.eng | 0.603 | 42.8 |
@@ -1877,74 +2408,98 @@ Note that some of the test sets are way too small to be reliable!
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | hsb.eng | 0.545 | 37.7 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | dsb.eng | 0.511 | 36.2 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | dsb.eng | 0.467 | 31.1 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | dsb.eng | 0.463 | 30.9 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | csb.eng | 0.447 | 25.0 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | csb.eng | 0.446 | 23.1 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | rue.eng | 0.421 | 23.1 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | rue.eng | 0.412 | 22.6 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | csb.eng | 0.399 | 21.4 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | rue.eng | 0.389 | 19.6 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | orv.eng | 0.296 | 12.0 |
+| Slavic languages | English  | [sla-eng](../models/sla-eng) | orv.eng | 0.293 | 13.8 |
 | Slavic languages | English  | [sla-eng](../models/sla-eng) | orv.eng | 0.292 | 12.1 |
 | Sami languages | English  | [smi-eng](../models/smi-eng) | sme.eng | 0.140 | 0.9 |
+| Sami languages | English  | [smi-eng](../models/smi-eng) | sme.eng | 0.131 | 0.3 |
 | Sami languages | English  | [smi-eng](../models/smi-eng) | sme.eng | 0.131 | 0.7 |
 | Sami languages | English  | [smi-eng](../models/smi-eng) | sma.eng | 0.109 | 0.6 |
 | Sami languages | English  | [smi-eng](../models/smi-eng) | sma.eng | 0.101 | 0.5 |
+| Sami languages | English  | [smi-eng](../models/smi-eng) | sma.eng | 0.091 | 0.1 |
 | Nilo-Saharan languages | English  | [ssa-eng](../models/ssa-eng) | fvr.eng | 0.208 | 1.6 |
 | Tibeto-Burman languages | English  | [tbq-eng](../models/tbq-eng) | bod.eng | 0.125 | 0.2 |
+| Tibeto-Burman languages | English  | [tbq-eng](../models/tbq-eng) | bod.eng | 0.123 | 0.2 |
 | Tibeto-Burman languages | English  | [tbq-eng](../models/tbq-eng) | bod.eng | 0.118 | 0.2 |
 | Tibeto-Burman languages | English  | [tbq-eng](../models/tbq-eng) | brx.eng | 0.100 | 0.2 |
 | Tibeto-Burman languages | English  | [tbq-eng](../models/tbq-eng) | brx.eng | 0.097 | 0.2 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | tur.eng | 0.443 | 26.8 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | aze.eng | 0.330 | 15.1 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | kir.eng | 0.328 | 15.3 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | crh.eng | 0.325 | 10.8 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | kum.eng | 0.277 | 16.1 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | aze.eng | 0.270 | 9.4 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | kaz.eng | 0.264 | 9.6 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | tuk.eng | 0.243 | 5.5 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | crh.eng | 0.224 | 6.3 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | tat.eng | 0.215 | 4.0 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | uzb.eng | 0.195 | 4.6 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | bak.eng | 0.185 | 3.3 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | bak.eng | 0.175 | 2.0 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | chv.eng | 0.165 | 0.9 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | tur.eng | 0.165 | 1.7 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | chv.eng | 0.161 | 1.3 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | tat.eng | 0.153 | 0.4 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | ota.eng | 0.149 | 2.0 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | kum.eng | 0.148 | 1.0 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | kir.eng | 0.140 | 0.3 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | sah.eng | 0.140 | 0.7 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | kaz.eng | 0.139 | 0.1 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | tuk.eng | 0.137 | 0.4 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | sah.eng | 0.134 | 0.3 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | uzb.eng | 0.130 | 0.3 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | kjh.eng | 0.121 | 1.8 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | ota.eng | 0.119 | 0.1 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | tyv.eng | 0.111 | 1.3 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | uig.eng | 0.111 | 0.2 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | kjh.eng | 0.104 | 0.5 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | tyv.eng | 0.103 | 1.0 |
-| Turkic languages | English  | [trk-eng](../models/trk-eng) | uig.eng | 0.097 | 0.0 |
+| Tibeto-Burman languages | English  | [tbq-eng](../models/tbq-eng) | brx.eng | 0.091 | 0.1 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | tur.eng | 0.443 | 26.8 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | aze.eng | 0.330 | 15.1 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | kir.eng | 0.328 | 15.3 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | crh.eng | 0.325 | 10.8 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | kum.eng | 0.277 | 16.1 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | aze.eng | 0.270 | 9.4 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | kaz.eng | 0.264 | 9.6 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | tuk.eng | 0.243 | 5.5 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | crh.eng | 0.224 | 6.3 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | tat.eng | 0.215 | 4.0 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | uzb.eng | 0.195 | 4.6 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | bak.eng | 0.185 | 3.3 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | bak.eng | 0.175 | 2.0 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | chv.eng | 0.165 | 0.9 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | tur.eng | 0.165 | 1.7 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | chv.eng | 0.161 | 1.3 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | tat.eng | 0.153 | 0.4 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | ota.eng | 0.149 | 2.0 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | kum.eng | 0.148 | 1.0 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | kir.eng | 0.140 | 0.3 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | sah.eng | 0.140 | 0.7 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | kaz.eng | 0.139 | 0.1 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | tuk.eng | 0.137 | 0.4 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | sah.eng | 0.134 | 0.3 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | uzb.eng | 0.130 | 0.3 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | kjh.eng | 0.121 | 1.8 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | ota.eng | 0.119 | 0.1 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | tyv.eng | 0.111 | 1.3 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | uig.eng | 0.111 | 0.2 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | kjh.eng | 0.104 | 0.5 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | tyv.eng | 0.103 | 1.0 |
+| Turkic languages | English | Mochi  | [trk-eng-old](../models/trk-eng-old) | uig.eng | 0.097 | 0.0 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | tur.eng | 0.459 | 28.6 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | tur.eng | 0.426 | 25.4 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | kir.eng | 0.337 | 15.1 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | aze.eng | 0.322 | 13.2 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | crh.eng | 0.322 | 14.6 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | kir.eng | 0.315 | 12.7 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | kum.eng | 0.314 | 14.6 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | aze.eng | 0.308 | 12.4 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | kaz.eng | 0.302 | 11.8 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | aze.eng | 0.276 | 9.9 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | crh.eng | 0.263 | 9.6 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | nog.eng | 0.263 | 9.0 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | tuk.eng | 0.256 | 5.5 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | kaz.eng | 0.251 | 8.1 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | mon.eng | 0.251 | 6.4 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | nog.eng | 0.234 | 6.1 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | tuk.eng | 0.233 | 4.4 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | mon.eng | 0.231 | 4.6 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | tat.eng | 0.228 | 4.6 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | kum.eng | 0.218 | 10.5 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | tat.eng | 0.213 | 3.9 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | crh.eng | 0.212 | 5.3 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | uzb.eng | 0.208 | 5.1 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | uzb.eng | 0.192 | 4.5 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | bak.eng | 0.190 | 2.9 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | tyv.eng | 0.190 | 5.5 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | chv.eng | 0.172 | 1.4 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | tur.eng | 0.169 | 1.6 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | kum.eng | 0.167 | 1.2 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | bak.eng | 0.165 | 1.6 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | chv.eng | 0.162 | 0.8 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | bak.eng | 0.160 | 1.2 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | chv.eng | 0.160 | 0.8 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | tat.eng | 0.152 | 0.2 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | ota.eng | 0.151 | 1.6 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | ota.eng | 0.150 | 1.4 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | xal.eng | 0.150 | 1.4 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | tyv.eng | 0.147 | 3.5 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | mon.eng | 0.146 | 0.2 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | sah.eng | 0.146 | 1.1 |
@@ -1958,74 +2513,110 @@ Note that some of the test sets are way too small to be reliable!
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | nog.eng | 0.129 | 0.5 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | uzb.eng | 0.125 | 0.4 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | ota.eng | 0.121 | 0.2 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | sah.eng | 0.118 | 0.7 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | bub.eng | 0.116 | 0.2 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | tyv.eng | 0.115 | 1.1 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | uig.eng | 0.113 | 0.1 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | uig.eng | 0.113 | 0.1 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | kjh.eng | 0.111 | 0.8 |
 | Altaic languages | English  | [tut-eng](../models/tut-eng) | kjh.eng | 0.108 | 0.6 |
+| Altaic languages | English  | [tut-eng](../models/tut-eng) | kjh.eng | 0.099 | 1.7 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | est.eng | 0.559 | 37.5 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | est.eng | 0.526 | 34.5 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | fin.eng | 0.507 | 31.0 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | fin.eng | 0.485 | 28.1 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | hun.eng | 0.481 | 29.3 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | hun.eng | 0.452 | 25.1 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | est.eng | 0.414 | 25.2 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | fin.eng | 0.413 | 23.7 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | hun.eng | 0.396 | 22.0 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | krl.eng | 0.365 | 18.6 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | fkv.eng | 0.335 | 6.8 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | fkv.eng | 0.334 | 7.1 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | krl.eng | 0.328 | 13.0 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | izh.eng | 0.315 | 11.0 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | krl.eng | 0.305 | 17.2 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | fkv.eng | 0.275 | 3.5 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | izh.eng | 0.224 | 11.6 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | izh.eng | 0.168 | 2.8 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | sme.eng | 0.147 | 1.5 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | sme.eng | 0.142 | 1.8 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | mdf.eng | 0.141 | 1.1 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | chm.eng | 0.137 | 0.9 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | sme.eng | 0.133 | 2.5 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | chm.eng | 0.131 | 0.8 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | udm.eng | 0.130 | 1.0 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | myv.eng | 0.128 | 0.7 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | chm.eng | 0.125 | 0.4 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | kkt.eng | 0.120 | 0.6 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | udm.eng | 0.118 | 1.2 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | mdf.eng | 0.117 | 1.5 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | sma.eng | 0.115 | 1.0 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | kom.eng | 0.110 | 2.4 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | sma.eng | 0.110 | 1.2 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | myv.eng | 0.103 | 0.5 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | udm.eng | 0.103 | 1.0 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | myv.eng | 0.101 | 0.5 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | kom.eng | 0.094 | 0.9 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | liv.eng | 0.092 | 0.4 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | mdf.eng | 0.092 | 1.3 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | sma.eng | 0.089 | 0.3 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | kom.eng | 0.086 | 1.0 |
+| Uralic languages | English  | [urj-eng](../models/urj-eng) | liv.eng | 0.079 | 0.3 |
 | Uralic languages | English  | [urj-eng](../models/urj-eng) | liv.eng | 0.078 | 0.5 |
 | Sorbian languages | English  | [wen-eng](../models/wen-eng) | hsb.eng | 0.139 | 0.4 |
 | Sorbian languages | English  | [wen-eng](../models/wen-eng) | hsb.eng | 0.138 | 0.3 |
+| Sorbian languages | English  | [wen-eng](../models/wen-eng) | hsb.eng | 0.128 | 0.3 |
+| Sorbian languages | English  | [wen-eng](../models/wen-eng) | dsb.eng | 0.123 | 0.3 |
 | Sorbian languages | English  | [wen-eng](../models/wen-eng) | dsb.eng | 0.118 | 0.1 |
 | Sorbian languages | English  | [wen-eng](../models/wen-eng) | dsb.eng | 0.105 | 0.2 |
 | Mongolian languages | English  | [xgn-eng](../models/xgn-eng) | mon.eng | 0.215 | 3.7 |
 | Mongolian languages | English  | [xgn-eng](../models/xgn-eng) | mon.eng | 0.211 | 3.3 |
+| Mongolian languages | English  | [xgn-eng](../models/xgn-eng) | mon.eng | 0.207 | 3.4 |
 | Mongolian languages | English  | [xgn-eng](../models/xgn-eng) | xal.eng | 0.150 | 0.4 |
+| Mongolian languages | English  | [xgn-eng](../models/xgn-eng) | xal.eng | 0.147 | 0.5 |
 | Mongolian languages | English  | [xgn-eng](../models/xgn-eng) | xal.eng | 0.143 | 0.7 |
+| Na-Dene languages | English  | [xnd-eng](../models/xnd-eng) | nav.eng | 0.139 | 0.3 |
 | Na-Dene languages | English  | [xnd-eng](../models/xnd-eng) | nav.eng | 0.133 | 0.3 |
 | Na-Dene languages | English  | [xnd-eng](../models/xnd-eng) | nav.eng | 0.126 | 0.3 |
+| East Slavic languages | English  | [zle-eng](../models/zle-eng) | rus.eng | 0.682 | 53.4 |
+| East Slavic languages | English  | [zle-eng](../models/zle-eng) | ukr.eng | 0.677 | 52.5 |
 | East Slavic languages | English  | [zle-eng](../models/zle-eng) | rus.eng | 0.674 | 52.5 |
 | East Slavic languages | English  | [zle-eng](../models/zle-eng) | ukr.eng | 0.673 | 52.1 |
 | East Slavic languages | English  | [zle-eng](../models/zle-eng) | rus.eng | 0.660 | 50.6 |
 | East Slavic languages | English  | [zle-eng](../models/zle-eng) | ukr.eng | 0.659 | 50.2 |
+| East Slavic languages | English  | [zle-eng](../models/zle-eng) | bel.eng | 0.573 | 38.7 |
 | East Slavic languages | English  | [zle-eng](../models/zle-eng) | bel.eng | 0.569 | 38.3 |
 | East Slavic languages | English  | [zle-eng](../models/zle-eng) | bel.eng | 0.543 | 35.4 |
 | East Slavic languages | English  | [zle-eng](../models/zle-eng) | rue.eng | 0.345 | 15.4 |
 | East Slavic languages | English  | [zle-eng](../models/zle-eng) | rue.eng | 0.344 | 18.7 |
+| East Slavic languages | English  | [zle-eng](../models/zle-eng) | rue.eng | 0.335 | 13.1 |
+| East Slavic languages | English  | [zle-eng](../models/zle-eng) | orv.eng | 0.227 | 7.7 |
 | East Slavic languages | English  | [zle-eng](../models/zle-eng) | orv.eng | 0.217 | 6.9 |
 | East Slavic languages | English  | [zle-eng](../models/zle-eng) | orv.eng | 0.207 | 7.5 |
+| South Slavic languages | English  | [zls-eng](../models/zls-eng) | hbs.eng | 0.701 | 55.6 |
 | South Slavic languages | English  | [zls-eng](../models/zls-eng) | hbs.eng | 0.700 | 55.7 |
+| South Slavic languages | English  | [zls-eng](../models/zls-eng) | bul.eng | 0.697 | 55.4 |
 | South Slavic languages | English  | [zls-eng](../models/zls-eng) | bul.eng | 0.693 | 54.9 |
 | South Slavic languages | English  | [zls-eng](../models/zls-eng) | hbs.eng | 0.693 | 54.8 |
 | South Slavic languages | English  | [zls-eng](../models/zls-eng) | bul.eng | 0.686 | 53.9 |
+| South Slavic languages | English  | [zls-eng](../models/zls-eng) | mkd.eng | 0.682 | 54.7 |
 | South Slavic languages | English  | [zls-eng](../models/zls-eng) | mkd.eng | 0.681 | 54.6 |
 | South Slavic languages | English  | [zls-eng](../models/zls-eng) | mkd.eng | 0.672 | 53.4 |
+| South Slavic languages | English  | [zls-eng](../models/zls-eng) | slv.eng | 0.408 | 25.0 |
 | South Slavic languages | English  | [zls-eng](../models/zls-eng) | slv.eng | 0.407 | 25.6 |
 | South Slavic languages | English  | [zls-eng](../models/zls-eng) | slv.eng | 0.405 | 24.9 |
+| West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | ces.eng | 0.699 | 54.4 |
 | West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | ces.eng | 0.691 | 53.3 |
+| West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | pol.eng | 0.674 | 51.1 |
 | West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | ces.eng | 0.670 | 50.6 |
 | West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | pol.eng | 0.667 | 50.4 |
 | West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | pol.eng | 0.649 | 48.1 |
 | West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | hsb.eng | 0.426 | 24.6 |
 | West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | hsb.eng | 0.415 | 20.2 |
+| West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | hsb.eng | 0.382 | 15.6 |
+| West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | dsb.eng | 0.360 | 20.0 |
+| West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | csb.eng | 0.332 | 15.6 |
 | West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | csb.eng | 0.313 | 10.2 |
 | West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | dsb.eng | 0.296 | 11.7 |
 | West Slavic languages | English  | [zlw-eng](../models/zlw-eng) | dsb.eng | 0.291 | 11.3 |

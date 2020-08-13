@@ -139,3 +139,31 @@
 | Tatoeba-test.som-eng.som.eng 	| 23.6 	| 0.472 |
 | Tatoeba-test.tir-eng.tir.eng 	| 13.1 	| 0.328 |
 
+# opus4m-2020-08-12.zip
+
+* dataset: opus4m
+* model: transformer
+* source language(s): acm afb amh apc ara arq ary arz hau_Latn heb kab mlt rif_Latn shy_Latn som tir
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus4m-2020-08-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/afa-eng/opus4m-2020-08-12.zip)
+* test set translations: [opus4m-2020-08-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/afa-eng/opus4m-2020-08-12.test.txt)
+* test set scores: [opus4m-2020-08-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/afa-eng/opus4m-2020-08-12.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.amh-eng.amh.eng 	| 35.1 	| 0.543 |
+| Tatoeba-test.ara-eng.ara.eng 	| 37.1 	| 0.547 |
+| Tatoeba-test.hau-eng.hau.eng 	| 12.6 	| 0.330 |
+| Tatoeba-test.heb-eng.heb.eng 	| 43.3 	| 0.598 |
+| Tatoeba-test.kab-eng.kab.eng 	| 4.2 	| 0.212 |
+| Tatoeba-test.mlt-eng.mlt.eng 	| 45.2 	| 0.618 |
+| Tatoeba-test.multi.eng 	| 27.5 	| 0.467 |
+| Tatoeba-test.rif-eng.rif.eng 	| 2.2 	| 0.136 |
+| Tatoeba-test.shy-eng.shy.eng 	| 0.8 	| 0.116 |
+| Tatoeba-test.som-eng.som.eng 	| 23.6 	| 0.472 |
+| Tatoeba-test.tir-eng.tir.eng 	| 17.3 	| 0.376 |
+

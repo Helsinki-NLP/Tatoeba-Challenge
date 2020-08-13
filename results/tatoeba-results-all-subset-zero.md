@@ -13,8 +13,11 @@ to be useful for anything.
 | | lang = awa-eng | | | | |
 | [ine-eng/opus](../models/ine-eng) | tatoeba | 0.285 | 10.0 | 1.000 | 1335 |
 | [ine-eng/opus2m](../models/ine-eng) | tatoeba | 0.280 | 11.6 | 1.000 | 1335 |
+| [ine-eng/opus4m](../models/ine-eng) | tatoeba | 0.271 | 10.2 | 1.000 | 1335 |
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.271 | 9.7 | 1.000 | 1335 |
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.257 | 9.4 | 1.000 | 1335 |
+| [iir-eng/opus4m](../models/iir-eng) | tatoeba | 0.244 | 7.1 | 0.955 | 1335 |
+| [inc-eng/opus4m](../models/inc-eng) | tatoeba | 0.234 | 8.8 | 1.000 | 1335 |
 | [inc-eng/opus2m](../models/inc-eng) | tatoeba | 0.222 | 6.2 | 1.000 | 1335 |
 | [iir-eng/opus2m](../models/iir-eng) | tatoeba | 0.219 | 7.0 | 0.962 | 1335 |
 | [inc-eng/opus](../models/inc-eng) | tatoeba | 0.217 | 6.8 | 1.000 | 1335 |
@@ -36,6 +39,9 @@ to be useful for anything.
 | pqw-eng/opus2m | tatoeba | 0.140 | 0.9 | 1.000 | 13788 |
 | map-eng/opus2m | tatoeba | 0.138 | 0.8 | 1.000 | 13788 |
 | poz-eng/opus2m | tatoeba | 0.138 | 0.8 | 1.000 | 13788 |
+| pqw-eng/opus4m | tatoeba | 0.137 | 1.0 | 1.000 | 13788 |
+| map-eng/opus4m | tatoeba | 0.136 | 1.1 | 1.000 | 13788 |
+| poz-eng/opus4m | tatoeba | 0.136 | 1.1 | 1.000 | 13788 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.136 | 0.7 | 1.000 | 13788 |
 | map-eng/opus | tatoeba | 0.120 | 0.6 | 1.000 | 13788 |
 | poz-eng/opus | tatoeba | 0.120 | 0.6 | 1.000 | 13788 |

@@ -154,3 +154,29 @@
 | Tatoeba-test.prg-eng.prg.eng 	| 1.0 	| 0.159 |
 | Tatoeba-test.sgs-eng.sgs.eng 	| 16.5 	| 0.265 |
 
+# opus4m-2020-08-12.zip
+
+* dataset: opus4m
+* model: transformer
+* source language(s): lav lit ltg prg_Latn sgs
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus4m-2020-08-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/bat-eng/opus4m-2020-08-12.zip)
+* test set translations: [opus4m-2020-08-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/bat-eng/opus4m-2020-08-12.test.txt)
+* test set scores: [opus4m-2020-08-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/bat-eng/opus4m-2020-08-12.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| newsdev2017-enlv-laveng.lav.eng 	| 28.3 	| 0.574 |
+| newsdev2019-enlt-liteng.lit.eng 	| 28.8 	| 0.563 |
+| newstest2017-enlv-laveng.lav.eng 	| 22.1 	| 0.517 |
+| newstest2019-lten-liteng.lit.eng 	| 31.3 	| 0.602 |
+| Tatoeba-test.lav-eng.lav.eng 	| 52.3 	| 0.692 |
+| Tatoeba-test.lit-eng.lit.eng 	| 55.9 	| 0.708 |
+| Tatoeba-test.multi.eng 	| 51.2 	| 0.666 |
+| Tatoeba-test.prg-eng.prg.eng 	| 0.8 	| 0.153 |
+| Tatoeba-test.sgs-eng.sgs.eng 	| 14.1 	| 0.303 |
+
