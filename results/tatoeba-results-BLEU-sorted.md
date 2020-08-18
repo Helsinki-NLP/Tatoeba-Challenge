@@ -13,6 +13,7 @@
 | gmq-gmq | dan.swe | 67.6 | 86.7/72.9/63.3/55.2 (BP = 0.986 ratio = 0.986 hyp_len = 9940 ref_len = 10082) |
 | gmq-gmq | swe.dan | 67.6 | 87.0/73.5/63.2/54.3 (BP = 0.988 ratio = 0.988 hyp_len = 10135 ref_len = 10261) |
 | spa-glg | spa.glg | 67.6 | 85.2/72.5/63.1/55.3 (BP = 0.993 ratio = 0.993 hyp_len = 16459 ref_len = 16581) |
+| dan-nor | dan.nor | 67.5 | 86.0/72.0/62.6/54.6 (BP = 0.995 ratio = 0.995 hyp_len = 9643 ref_len = 9691) |
 | grk-eng | ell.eng | 67.3 | 85.2/73.0/64.1/56.7 (BP = 0.977 ratio = 0.977 hyp_len = 59554 ref_len = 60970) |
 | gem-gem | swe.nor | 67.1 | 87.2/72.8/62.8/54.3 (BP = 0.984 ratio = 0.984 hyp_len = 3622 ref_len = 3682) |
 | gmq-gmq | nor.swe | 66.5 | 86.0/71.4/62.1/54.3 (BP = 0.985 ratio = 0.985 hyp_len = 3617 ref_len = 3672) |
@@ -66,6 +67,7 @@
 | roa-eng | por.eng | 59.8 | 82.2/66.4/55.4/46.8 (BP = 0.975 ratio = 0.975 hyp_len = 73373 ref_len = 75240) |
 | roa-eng | por.eng | 59.7 | 82.0/66.3/55.3/46.6 (BP = 0.976 ratio = 0.976 hyp_len = 73439 ref_len = 75240) |
 | gem-eng | nld.eng | 59.6 | 81.5/65.7/55.1/46.6 (BP = 0.978 ratio = 0.979 hyp_len = 68359 ref_len = 69848) |
+| spa-eng | spa.eng | 59.6 | 81.9/66.0/55.3/46.8 (BP = 0.974 ratio = 0.974 hyp_len = 77338 ref_len = 79376) |
 | bel+rus+ukr-bel+rus+ukr | bel.ukr | 59.5 | 81.6/64.7/53.8/45.2 (BP = 0.993 ratio = 0.993 hyp_len = 62970 ref_len = 63391) |
 | ine-ine | swe.nor | 59.5 | 83.4/65.9/54.6/44.9 (BP = 0.982 ratio = 0.983 hyp_len = 3618 ref_len = 3682) |
 | itc-eng | por.eng | 59.5 | 82.0/66.2/55.2/46.4 (BP = 0.974 ratio = 0.974 hyp_len = 73319 ref_len = 75240) |
@@ -170,6 +172,7 @@
 | sla-sla | bel.ukr | 55.1 | 79.6/60.7/49.1/40.1 (BP = 0.993 ratio = 0.993 hyp_len = 15069 ref_len = 15179) |
 | eng-gmw | eng.afr | 55.0 | 83.0/63.7/50.2/40.3 (BP = 0.962 ratio = 0.963 hyp_len = 9931 ref_len = 10317) |
 | spa-afr | spa.afr | 55.0 | 81.6/62.6/49.7/40.1 (BP = 0.974 ratio = 0.974 hyp_len = 2965 ref_len = 3044) |
+| eng-spa | eng.spa | 54.9 | 78.3/61.3/50.2/41.3 (BP = 0.978 ratio = 0.979 hyp_len = 75656 ref_len = 77311) |
 | gem-eng | nor.eng | 54.9 | 78.4/61.5/50.2/41.4 (BP = 0.975 ratio = 0.976 hyp_len = 39368 ref_len = 40355) |
 | roa-eng | cat.eng | 54.9 | 78.9/61.9/51.1/42.2 (BP = 0.963 ratio = 0.964 hyp_len = 12174 ref_len = 12627) |
 | zls-eng | bul.eng | 54.9 | 78.4/61.0/49.8/41.1 (BP = 0.982 ratio = 0.982 hyp_len = 70574 ref_len = 71872) |
@@ -2372,6 +2375,7 @@
 | ine-ine | fra.pol | 22.4 | 56.7/28.7/17.5/10.5 (BP = 0.955 ratio = 0.956 hyp_len = 19087 ref_len = 19957) |
 | ine-ine | spa.lit | 22.4 | 58.9/27.2/16.8/10.6 (BP = 0.967 ratio = 0.968 hyp_len = 2265 ref_len = 2341) |
 | mul-eng | sin.eng | 22.4 | 56.2/31.0/16.7/8.9 (BP = 0.992 ratio = 0.992 hyp_len = 258 ref_len = 260) |
+| dan-jpn | dan.jpn | 22.3 | 45.9/27.0/17.6/11.2 (BP = 1.000 ratio = 1.041 hyp_len = 7253 ref_len = 6970) |
 | iir-eng | mar.eng | 22.3 | 47.6/26.3/17.3/11.4 (BP = 1.000 ratio = 1.318 hyp_len = 85440 ref_len = 64831) |
 | ine-eng | bre.eng | 22.3 | 49.7/24.4/16.8/12.2 (BP = 1.000 ratio = 1.065 hyp_len = 2200 ref_len = 2065) |
 | ine-eng | hif.eng | 22.3 | 55.7/26.9/17.4/9.5 (BP = 1.000 ratio = 1.012 hyp_len = 244 ref_len = 241) |
@@ -2979,6 +2983,7 @@
 | phi-eng | war.eng | 16.3 | 46.8/20.6/11.3/6.6 (BP = 1.000 ratio = 1.083 hyp_len = 12289 ref_len = 11345) |
 | tatoeba-lower | nld.bel | 16.3 | 49.0/20.2/11.2/6.3 (BP = 1.000 ratio = 1.013 hyp_len = 4090 ref_len = 4036) |
 | tatoeba-zero | yid.fra | 16.3 | 47.7/19.4/11.0/7.0 (BP = 1.000 ratio = 1.035 hyp_len = 1459 ref_len = 1410) |
+| bul-jpn | bul.jpn | 16.2 | 40.7/21.2/11.7/6.7 (BP = 1.000 ratio = 1.079 hyp_len = 3120 ref_len = 2892) |
 | eng-mul | eng.guj | 16.2 | 41.0/20.6/11.3/7.2 (BP = 1.000 ratio = 1.124 hyp_len = 926 ref_len = 824) |
 | ine-eng | ori.eng | 16.2 | 46.7/21.1/10.5/6.7 (BP = 1.000 ratio = 1.034 hyp_len = 246 ref_len = 238) |
 | mul-eng | kan.eng | 16.2 | 39.8/19.0/11.7/7.7 (BP = 1.000 ratio = 1.363 hyp_len = 1707 ref_len = 1252) |
@@ -3002,6 +3007,7 @@
 | iir-eng | guj.eng | 16.0 | 37.1/18.5/12.5/7.6 (BP = 1.000 ratio = 1.264 hyp_len = 1216 ref_len = 962) |
 | mul-eng | gcf.eng | 16.0 | 38.5/17.4/11.4/8.6 (BP = 1.000 ratio = 1.193 hyp_len = 680 ref_len = 570) |
 | mul-eng | nog.eng | 16.0 | 38.9/17.9/12.4/7.6 (BP = 1.000 ratio = 1.205 hyp_len = 553 ref_len = 459) |
+| ara-jpn | ara.jpn | 15.9 | 49.0/30.5/19.7/13.8 (BP = 0.632 ratio = 0.685 hyp_len = 7883 ref_len = 11502) |
 | dra-eng | tel.eng | 15.9 | 40.4/19.8/11.5/7.0 (BP = 1.000 ratio = 1.206 hyp_len = 2058 ref_len = 1706) |
 | epo-fin | epo.fin | 15.9 | 52.4/22.0/12.1/7.2 (BP = 0.894 ratio = 0.899 hyp_len = 14278 ref_len = 15881) |
 | gem-gem | gsw.deu | 15.9 | 50.0/21.6/10.0/6.6 (BP = 0.972 ratio = 0.973 hyp_len = 284 ref_len = 292) |
@@ -3013,6 +3019,7 @@
 | mul-eng | war.eng | 15.9 | 44.0/19.1/11.2/6.8 (BP = 1.000 ratio = 1.093 hyp_len = 12403 ref_len = 11345) |
 | tatoeba-lower | heb.pol | 15.9 | 50.9/21.3/11.9/6.7 (BP = 0.929 ratio = 0.932 hyp_len = 29332 ref_len = 31483) |
 | tatoeba-lowest | epo.heb | 15.9 | 49.3/20.6/10.7/5.8 (BP = 1.000 ratio = 1.010 hyp_len = 66308 ref_len = 65645) |
+| ukr-zho | ukr.zho | 15.9 | 46.4/24.3/13.2/6.9 (BP = 0.889 ratio = 0.894 hyp_len = 12256 ref_len = 13703) |
 | eng-ine | eng.slv | 15.8 | 42.6/16.5/11.2/8.2 (BP = 0.991 ratio = 0.991 hyp_len = 11802 ref_len = 11909) |
 | gem-gem | eng.fry | 15.8 | 51.6/20.9/11.3/5.6 (BP = 0.976 ratio = 0.976 hyp_len = 1493 ref_len = 1529) |
 | gmw-eng | swg.eng | 15.8 | 42.3/17.7/11.8/7.1 (BP = 1.000 ratio = 1.008 hyp_len = 253 ref_len = 251) |
@@ -3025,6 +3032,7 @@
 | tatoeba-lower | tur.tgl | 15.8 | 51.3/22.3/10.9/5.0 (BP = 1.000 ratio = 1.009 hyp_len = 337 ref_len = 334) |
 | tatoeba-lower | yid.epo | 15.8 | 50.3/20.1/10.8/5.8 (BP = 1.000 ratio = 1.040 hyp_len = 6143 ref_len = 5904) |
 | tatoeba-zero | yid.ita | 15.8 | 45.4/18.6/11.4/6.4 (BP = 1.000 ratio = 1.045 hyp_len = 723 ref_len = 692) |
+| deu-jpn | deu.jpn | 15.7 | 38.6/19.9/11.5/6.9 (BP = 1.000 ratio = 1.177 hyp_len = 107837 ref_len = 91644) |
 | eng-ine | eng.hin | 15.7 | 42.5/20.8/11.1/6.2 (BP = 1.000 ratio = 1.132 hyp_len = 37254 ref_len = 32904) |
 | eng-mul | eng.ast | 15.7 | 48.7/19.9/10.9/6.2 (BP = 0.985 ratio = 0.985 hyp_len = 713 ref_len = 724) |
 | eng-mul | eng.hun | 15.7 | 53.9/21.5/11.1/5.9 (BP = 0.948 ratio = 0.949 hyp_len = 55906 ref_len = 58904) |
@@ -3415,6 +3423,7 @@
 | tatoeba-lower | jpn.deu | 11.8 | 46.7/17.1/8.2/4.4 (BP = 0.906 ratio = 0.910 hyp_len = 77596 ref_len = 85296) |
 | tut-eng | kaz.eng | 11.8 | 41.9/16.1/7.9/3.7 (BP = 1.000 ratio = 1.031 hyp_len = 2738 ref_len = 2655) |
 | ukr-slv | ukr.slv | 11.8 | 40.1/11.5/7.7/5.6 (BP = 1.000 ratio = 1.013 hyp_len = 3874 ref_len = 3823) |
+| zho-ukr | zho.ukr | 11.8 | 44.7/15.5/8.0/4.3 (BP = 0.948 ratio = 0.949 hyp_len = 8728 ref_len = 9193) |
 | eng-iir | eng.sin | 11.7 | 47.6/17.0/8.0/3.2 (BP = 0.970 ratio = 0.970 hyp_len = 227 ref_len = 234) |
 | eng-mal | eng.mal | 11.7 | 48.5/18.0/7.5/3.3 (BP = 0.966 ratio = 0.966 hyp_len = 4122 ref_len = 4265) |
 | eng-mul | eng.mlt | 11.7 | 43.3/16.3/7.6/3.5 (BP = 1.000 ratio = 1.134 hyp_len = 1025 ref_len = 904) |
@@ -3455,6 +3464,7 @@
 | eng-pqw | eng.ceb | 11.4 | 40.7/14.4/7.6/3.8 (BP = 1.000 ratio = 1.148 hyp_len = 2398 ref_len = 2088) |
 | eng-pqw | eng.ceb | 11.4 | 40.1/14.5/7.5/3.8 (BP = 1.000 ratio = 1.160 hyp_len = 2422 ref_len = 2088) |
 | ine-ine | fra.fry | 11.4 | 52.8/21.5/7.9/2.2 (BP = 0.956 ratio = 0.957 hyp_len = 269 ref_len = 281) |
+| kor-zho | kor.zho | 11.4 | 38.9/18.0/8.7/4.1 (BP = 0.908 ratio = 0.912 hyp_len = 3678 ref_len = 4033) |
 | mul-eng | uig.eng | 11.4 | 37.5/13.9/7.6/4.3 (BP = 1.000 ratio = 1.108 hyp_len = 25593 ref_len = 23090) |
 | tatoeba-lower | zho.cat | 11.4 | 44.5/17.7/8.7/3.6 (BP = 0.905 ratio = 0.909 hyp_len = 833 ref_len = 916) |
 | tatoeba-lowest | spa.ina | 11.4 | 45.1/16.2/7.5/3.6 (BP = 0.964 ratio = 0.964 hyp_len = 14747 ref_len = 15293) |
@@ -4037,6 +4047,7 @@
 | eng-trk | eng.tuk | 5.9 | 33.1/8.7/3.1/1.4 (BP = 1.000 ratio = 1.072 hyp_len = 16615 ref_len = 15504) |
 | ine-ine | eng.fao | 5.9 | 38.5/8.1/3.3/1.3 (BP = 0.987 ratio = 0.987 hyp_len = 1908 ref_len = 1933) |
 | ine-ine | eng.yid | 5.9 | 38.8/9.4/3.0/1.2 (BP = 0.981 ratio = 0.981 hyp_len = 7938 ref_len = 8094) |
+| isl-jpn | isl.jpn | 5.9 | 22.2/7.7/3.6/2.0 (BP = 1.000 ratio = 1.361 hyp_len = 2562 ref_len = 1882) |
 | mkh-eng | khm.eng | 5.9 | 20.6/7.2/3.9/2.1 (BP = 1.000 ratio = 1.280 hyp_len = 5624 ref_len = 4394) |
 | nds-deu | nds.deu | 5.9 | 40.6/10.2/3.4/1.2 (BP = 0.919 ratio = 0.923 hyp_len = 68793 ref_len = 74571) |
 | nld-nds | nld.nds | 5.9 | 40.6/10.4/3.7/1.2 (BP = 0.900 ratio = 0.905 hyp_len = 10595 ref_len = 11711) |
@@ -4155,6 +4166,7 @@
 | ine-ine | cor.fra | 5.0 | 28.0/6.1/2.7/1.3 (BP = 1.000 ratio = 1.227 hyp_len = 3848 ref_len = 3136) |
 | tatoeba-lower | tur.lat | 5.0 | 34.8/7.2/2.3/1.1 (BP = 0.984 ratio = 0.984 hyp_len = 609 ref_len = 619) |
 | tatoeba-lowest | rus.ina | 5.0 | 35.7/8.3/3.1/1.1 (BP = 0.887 ratio = 0.893 hyp_len = 12120 ref_len = 13574) |
+| zho-epo | zho.epo | 5.0 | 34.7/7.6/2.8/1.1 (BP = 0.931 ratio = 0.933 hyp_len = 14588 ref_len = 15628) |
 | alv-eng | swa.eng | 4.9 | 28.2/6.7/2.6/1.2 (BP = 1.000 ratio = 1.186 hyp_len = 2964 ref_len = 2499) |
 | eng-ine | eng.csb | 4.9 | 33.2/7.5/2.3/1.4 (BP = 0.928 ratio = 0.930 hyp_len = 226 ref_len = 243) |
 | fry-eng | fry.eng | 4.9 | 36.9/8.2/3.1/0.9 (BP = 0.923 ratio = 0.926 hyp_len = 1389 ref_len = 1500) |
@@ -4398,6 +4410,7 @@
 | eng-kaz | eng.kaz | 3.1 | 32.3/5.5/1.8/0.6 (BP = 0.825 ratio = 0.839 hyp_len = 1804 ref_len = 2151) |
 | eng-map | eng.cha | 3.1 | 25.9/4.5/2.4/0.3 (BP = 1.000 ratio = 1.202 hyp_len = 1298 ref_len = 1080) |
 | eng-zlw | eng.csb | 3.1 | 30.1/5.5/1.2/0.7 (BP = 0.928 ratio = 0.930 hyp_len = 226 ref_len = 243) |
+| epo-zho | epo.zho | 3.1 | 25.2/7.0/2.0/0.6 (BP = 0.827 ratio = 0.840 hyp_len = 18609 ref_len = 22149) |
 | inc-eng | san.eng | 3.1 | 25.0/4.1/1.7/0.6 (BP = 1.000 ratio = 1.146 hyp_len = 755 ref_len = 659) |
 | ine-eng | pus.eng | 3.1 | 24.0/4.6/1.7/0.5 (BP = 1.000 ratio = 1.066 hyp_len = 292 ref_len = 274) |
 | map-eng | cha.eng | 3.1 | 24.1/3.4/1.8/0.6 (BP = 1.000 ratio = 1.206 hyp_len = 1462 ref_len = 1212) |
@@ -4459,6 +4472,7 @@
 | eng-inc | eng.asm | 2.7 | 24.2/5.1/1.3/0.4 (BP = 1.000 ratio = 1.104 hyp_len = 628 ref_len = 569) |
 | eng-ine | eng.ori | 2.7 | 26.1/6.6/0.8/0.5 (BP = 0.970 ratio = 0.971 hyp_len = 199 ref_len = 205) |
 | eng-sem | eng.tir | 2.7 | 19.0/6.9/1.8/0.2 (BP = 1.000 ratio = 1.308 hyp_len = 416 ref_len = 318) |
+| hin-zho | hin.zho | 2.7 | 21.1/5.4/1.4/0.5 (BP = 0.881 ratio = 0.887 hyp_len = 2891 ref_len = 3258) |
 | ira-eng | tgk.eng | 2.7 | 25.4/4.9/1.7/0.2 (BP = 1.000 ratio = 1.411 hyp_len = 295 ref_len = 209) |
 | itc-eng | egl.eng | 2.7 | 30.4/4.9/1.8/0.2 (BP = 1.000 ratio = 1.113 hyp_len = 494 ref_len = 444) |
 | spa-tat | spa.tat | 2.7 | 24.8/2.7/1.0/0.8 (BP = 1.000 ratio = 1.223 hyp_len = 2449 ref_len = 2002) |
@@ -4477,6 +4491,7 @@
 | map-eng | haw.eng | 2.6 | 23.2/2.9/1.3/0.5 (BP = 1.000 ratio = 1.455 hyp_len = 646 ref_len = 444) |
 | poz-eng | haw.eng | 2.6 | 23.2/2.9/1.3/0.5 (BP = 1.000 ratio = 1.455 hyp_len = 646 ref_len = 444) |
 | tatoeba-lower | pol.oci | 2.6 | 29.5/4.9/1.1/0.4 (BP = 0.929 ratio = 0.931 hyp_len = 499 ref_len = 536) |
+| zho-kor | zho.kor | 2.6 | 25.5/4.8/1.6/0.4 (BP = 0.914 ratio = 0.918 hyp_len = 2009 ref_len = 2189) |
 | zlw-zlw | ces.hsb | 2.6 | 24.9/2.4/0.9/0.8 (BP = 1.000 ratio = 1.064 hyp_len = 502 ref_len = 472) |
 | eng-gmw | eng.gos | 2.5 | 32.2/5.2/1.2/0.2 (BP = 1.000 ratio = 1.102 hyp_len = 6074 ref_len = 5514) |
 | eng-ine | eng.hif | 2.5 | 26.8/3.4/0.9/0.5 (BP = 1.000 ratio = 1.294 hyp_len = 299 ref_len = 231) |
@@ -4498,6 +4513,7 @@
 | eng-ine | eng.pdc | 2.4 | 18.7/3.4/1.8/0.3 (BP = 1.000 ratio = 1.272 hyp_len = 491 ref_len = 386) |
 | eng-ine | eng.san | 2.4 | 10.2/2.2/1.6/1.9 (BP = 0.812 ratio = 0.828 hyp_len = 322 ref_len = 389) |
 | eng-sem | eng.tir | 2.4 | 18.0/5.4/1.4/0.2 (BP = 1.000 ratio = 1.327 hyp_len = 422 ref_len = 318) |
+| eus-jpn | eus.jpn | 2.4 | 17.7/8.0/2.0/0.3 (BP = 0.783 ratio = 0.803 hyp_len = 959 ref_len = 1194) |
 | ine-ine | awa.eng | 2.4 | 26.3/4.8/1.1/0.2 (BP = 1.000 ratio = 1.283 hyp_len = 1713 ref_len = 1335) |
 | ine-ine | cor.rus | 2.4 | 28.6/3.6/1.0/0.3 (BP = 1.000 ratio = 1.154 hyp_len = 1232 ref_len = 1068) |
 | ine-ine | fra.slv | 2.4 | 27.9/3.2/0.9/0.4 (BP = 1.000 ratio = 1.014 hyp_len = 3046 ref_len = 3004) |
@@ -4644,6 +4660,7 @@
 | tatoeba-lowest | cor.nld | 1.7 | 26.3/2.7/1.1/0.1 (BP = 1.000 ratio = 1.078 hyp_len = 841 ref_len = 780) |
 | tatoeba-zero | egl.eng | 1.7 | 28.6/1.6/0.7/0.2 (BP = 1.000 ratio = 1.016 hyp_len = 451 ref_len = 444) |
 | trk-eng-old | tur.eng | 1.7 | 21.6/2.5/0.7/0.2 (BP = 1.000 ratio = 1.200 hyp_len = 93210 ref_len = 77701) |
+| zho-hin | zho.hin | 1.7 | 17.3/3.6/1.0/0.2 (BP = 1.000 ratio = 1.133 hyp_len = 2940 ref_len = 2596) |
 | eng-afa | eng.kab | 1.6 | 19.5/2.3/0.7/0.2 (BP = 1.000 ratio = 1.406 hyp_len = 76612 ref_len = 54472) |
 | eng-art | eng.ina | 1.6 | 24.0/3.2/0.8/0.1 (BP = 1.000 ratio = 1.045 hyp_len = 46646 ref_len = 44648) |
 | eng-gmw | eng.gsw | 1.6 | 25.8/4.2/0.5/0.1 (BP = 1.000 ratio = 1.027 hyp_len = 1011 ref_len = 984) |
@@ -4985,6 +5002,7 @@
 | ine-ine | enm.lad | 0.7 | 11.6/1.5/0.1/0.1 (BP = 1.000 ratio = 1.969 hyp_len = 441 ref_len = 224) |
 | ine-ine | fry.gos | 0.7 | 13.4/1.5/0.1/0.1 (BP = 1.000 ratio = 2.113 hyp_len = 448 ref_len = 212) |
 | jav-eng | jav.eng | 0.7 | 20.8/1.1/0.2/0.0 (BP = 1.000 ratio = 1.022 hyp_len = 1854 ref_len = 1814) |
+| mar-jpn | mar.jpn | 0.7 | 13.2/2.0/0.4/0.0 (BP = 1.000 ratio = 1.911 hyp_len = 4943 ref_len = 2587) |
 | mul-eng | hoc.eng | 0.7 | 22.9/1.3/0.3/0.0 (BP = 1.000 ratio = 1.091 hyp_len = 3847 ref_len = 3527) |
 | mul-eng | hoc.eng | 0.7 | 21.7/1.4/0.3/0.0 (BP = 1.000 ratio = 1.108 hyp_len = 3908 ref_len = 3527) |
 | smi-eng | sme.eng | 0.7 | 14.0/0.6/0.2/0.1 (BP = 1.000 ratio = 1.833 hyp_len = 550 ref_len = 300) |

@@ -38,6 +38,8 @@ to be useful for anything.
 | | lang = afr-spa | | | | |
 | [afr-spa/opus](../models/afr-spa) | tatoeba | 0.680 | 49.9 | 1.000 | 2783 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.611 | 44.1 | 0.993 | 2783 |
+| | lang = ara-jpn | | | | |
+| ara-jpn/opus | tatoeba | 0.196 | 15.9 | 0.632 | 11502 |
 | | lang = ben-eng | | | | |
 | [ben-eng/opus](../models/ben-eng) | tatoeba | 0.641 | 49.7 | 0.976 | 13978 |
 | [inc-eng/opus4m](../models/inc-eng) | tatoeba | 0.601 | 45.1 | 0.979 | 13978 |
@@ -52,6 +54,8 @@ to be useful for anything.
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.548 | 40.0 | 1.000 | 13978 |
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.546 | 39.7 | 1.000 | 13978 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.430 | 26.5 | 1.000 | 13978 |
+| | lang = bul-jpn | | | | |
+| bul-jpn/opus | tatoeba | 0.241 | 16.2 | 1.000 | 2892 |
 | | lang = bul-ukr | | | | |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.691 | 49.9 | 0.991 | 4932 |
 | [bul-ukr/opus](../models/bul-ukr) | tatoeba | 0.683 | 49.2 | 0.983 | 4932 |
@@ -96,8 +100,11 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.496 | 33.1 | 0.999 | 5563 |
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.407 | 23.4 | 1.000 | 5563 |
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.401 | 22.5 | 1.000 | 5563 |
+| | lang = dan-jpn | | | | |
+| dan-jpn/opus | tatoeba | 0.317 | 22.3 | 1.000 | 6970 |
 | | lang = dan-nor | | | | |
 | [gem-gem/opus](../models/gem-gem) | tatoeba | 0.812 | 68.1 | 1.000 | 9691 |
+| [dan-nor/opus](../models/dan-nor) | tatoeba | 0.804 | 67.5 | 0.995 | 9691 |
 | [gmq-gmq/opus](../models/gmq-gmq) | tatoeba | 0.772 | 62.8 | 1.000 | 9691 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.749 | 58.8 | 1.000 | 9691 |
 | | lang = dan-rus | | | | |
@@ -112,6 +119,7 @@ to be useful for anything.
 | [gem-gem/opus](../models/gem-gem) | tatoeba | 0.504 | 24.3 | 0.954 | 5939 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.395 | 16.5 | 0.950 | 5939 |
 | | lang = deu-jpn | | | | |
+| deu-jpn/opus | tatoeba | 0.262 | 15.7 | 1.000 | 91644 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.167 | 0.1 | 1.000 | 10114 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.159 | 0.1 | 1.000 | 10114 |
 | | lang = deu-msa | | | | |

@@ -74,6 +74,7 @@
 | ara-fra | ara.fra | 0.562 |
 | ara-heb | ara.heb | 0.605 |
 | ara-ita | ara.ita | 0.658 |
+| ara-jpn | ara.jpn | 0.196 |
 | ara-pol | ara.pol | 0.623 |
 | ara-rus | ara.rus | 0.605 |
 | ara-spa | ara.spa | 0.641 |
@@ -232,6 +233,7 @@
 | bul-epo | bul.epo | 0.438 |
 | bul-fra | bul.fra | 0.693 |
 | bul-ita | bul.ita | 0.653 |
+| bul-jpn | bul.jpn | 0.241 |
 | bul-rus | bul.rus | 0.691 |
 | bul-spa | bul.spa | 0.661 |
 | bul-tur | bul.tur | 0.687 |
@@ -291,6 +293,8 @@
 | cpp-eng | msa.eng | 0.570 |
 | cym-eng | cym.eng | 0.535 |
 | dan-epo | dan.epo | 0.432 |
+| dan-jpn | dan.jpn | 0.317 |
+| dan-nor | dan.nor | 0.804 |
 | dan-rus | dan.rus | 0.715 |
 | deu-afr | deu.afr | 0.690 |
 | deu-ara | deu.ara | 0.486 |
@@ -304,6 +308,7 @@
 | deu-fas | deu.fas | 0.139 |
 | deu-hsb | deu.hsb | 0.078 |
 | deu-isl | deu.isl | 0.533 |
+| deu-jpn | deu.jpn | 0.262 |
 | deu-msa | deu.msa | 0.607 |
 | deu-nds | deu.nds | 0.287 |
 | deu-nor | deu.nor | 0.554 |
@@ -1409,6 +1414,7 @@
 | eng-sla | eng.orv | 0.011 |
 | eng-smi | eng.sme | 0.129 |
 | eng-smi | eng.sme | 0.127 |
+| eng-spa | eng.spa | 0.721 |
 | eng-sqi | eng.sqi | 0.671 |
 | eng-tam | eng.tam | 0.412 |
 | eng-tat | eng.tat | 0.170 |
@@ -1558,6 +1564,7 @@
 | epo-ukr | epo.ukr | 0.071 |
 | epo-vie | epo.vie | 0.273 |
 | epo-yid | epo.yid | 0.108 |
+| epo-zho | epo.zho | 0.050 |
 | est-rus | est.rus | 0.702 |
 | esx-eng | iku.eng | 0.155 |
 | esx-eng | iku.eng | 0.152 |
@@ -1566,6 +1573,7 @@
 | euq-eng | eus.eng | 0.594 |
 | eus-deu | eus.deu | 0.562 |
 | eus-eng | eus.eng | 0.627 |
+| eus-jpn | eus.jpn | 0.071 |
 | eus-rus | eus.rus | 0.502 |
 | eus-spa | eus.spa | 0.673 |
 | fas-deu | fas.deu | 0.142 |
@@ -1959,6 +1967,7 @@
 | heb-ukr | heb.ukr | 0.552 |
 | hin-eng | hin.eng | 0.569 |
 | hin-urd | hin.urd | 0.393 |
+| hin-zho | hin.zho | 0.042 |
 | hsb-deu | hsb.deu | 0.126 |
 | hun-epo | hun.epo | 0.378 |
 | hun-ukr | hun.ukr | 0.611 |
@@ -3235,6 +3244,7 @@
 | isl-eng | isl.eng | 0.667 |
 | isl-epo | isl.epo | 0.314 |
 | isl-ita | isl.ita | 0.662 |
+| isl-jpn | isl.jpn | 0.136 |
 | isl-spa | isl.spa | 0.665 |
 | ita-ara | ita.ara | 0.517 |
 | ita-bul | ita.bul | 0.664 |
@@ -3362,6 +3372,7 @@
 | kor-hun | kor.hun | 0.520 |
 | kor-rus | kor.rus | 0.514 |
 | kor-spa | kor.spa | 0.521 |
+| kor-zho | kor.zho | 0.110 |
 | kur-eng | kur.eng | 0.087 |
 | lav-rus | lav.rus | 0.702 |
 | lit-epo | lit.epo | 0.313 |
@@ -3420,6 +3431,7 @@
 | map-map | msa.dtp | 0.114 |
 | map-map | dtp.dtp | 0.104 |
 | mar-eng | mar.eng | 0.137 |
+| mar-jpn | mar.jpn | 0.083 |
 | mkd-eng | mkd.eng | 0.680 |
 | mkd-spa | mkd.spa | 0.717 |
 | mkh-eng | vie.eng | 0.535 |
@@ -4186,6 +4198,7 @@
 | spa-bel | spa.bel | 0.265 |
 | spa-bul | spa.bul | 0.674 |
 | spa-cat | spa.cat | 0.832 |
+| spa-eng | spa.eng | 0.739 |
 | spa-epo | spa.epo | 0.560 |
 | spa-eus | spa.eus | 0.638 |
 | spa-gla | spa.gla | 0.151 |
@@ -5772,6 +5785,7 @@
 | ukr-slv | ukr.slv | 0.280 |
 | ukr-spa | ukr.spa | 0.649 |
 | ukr-tur | ukr.tur | 0.655 |
+| ukr-zho | ukr.zho | 0.143 |
 | urd-eng | urd.eng | 0.435 |
 | urd-hin | urd.hin | 0.306 |
 | urj-eng | est.eng | 0.559 |
@@ -5833,6 +5847,10 @@
 | yid-eng | yid.eng | 0.124 |
 | yid-epo | yid.epo | 0.133 |
 | zho-eng | zho.eng | 0.548 |
+| zho-epo | zho.epo | 0.190 |
+| zho-hin | zho.hin | 0.163 |
+| zho-kor | zho.kor | 0.136 |
+| zho-ukr | zho.ukr | 0.293 |
 | zle-eng | rus.eng | 0.682 |
 | zle-eng | ukr.eng | 0.677 |
 | zle-eng | rus.eng | 0.674 |

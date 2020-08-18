@@ -11,6 +11,7 @@
 | gem-gem | nor.swe | 0.813 |
 | gem-gem | dan.nor | 0.812 |
 | spa-glg | spa.glg | 0.808 |
+| dan-nor | dan.nor | 0.804 |
 | gmq-gmq | dan.swe | 0.802 |
 | gmq-gmq | swe.dan | 0.802 |
 | bel+rus+ukr-bel+rus+ukr | ukr.rus | 0.800 |
@@ -78,6 +79,7 @@
 | eng-gmw | eng.afr | 0.740 |
 | ine-eng | ell.eng | 0.740 |
 | eng-gem | eng.afr | 0.739 |
+| spa-eng | spa.eng | 0.739 |
 | afr-eng | afr.eng | 0.738 |
 | bel+rus+ukr-bel+rus+ukr | bel.rus | 0.738 |
 | gem-eng | nld.eng | 0.738 |
@@ -115,6 +117,7 @@
 | fiu-fiu | fin.est | 0.722 |
 | sqi-eng | sqi.eng | 0.722 |
 | bul-eng | bul.eng | 0.721 |
+| eng-spa | eng.spa | 0.721 |
 | gem-gem | eng.afr | 0.721 |
 | gmq-gmq | nor.nor | 0.721 |
 | lit-pol | lit.pol | 0.721 |
@@ -3581,6 +3584,7 @@
 | ine-ine | ukr.fry | 0.318 |
 | tatoeba-lower | deu.fry | 0.318 |
 | tatoeba-lower | fas.epo | 0.318 |
+| dan-jpn | dan.jpn | 0.317 |
 | eng-cel | eng.gla | 0.317 |
 | eng-ine | eng.bre | 0.317 |
 | eng-mul | eng.sin | 0.317 |
@@ -3788,6 +3792,7 @@
 | roa-eng | wln.eng | 0.293 |
 | sla-eng | orv.eng | 0.293 |
 | tatoeba-lower | nld.lat | 0.293 |
+| zho-ukr | zho.ukr | 0.293 |
 | eng-mul | eng.hsb | 0.292 |
 | eng-poz | eng.jav | 0.292 |
 | eng-roa | eng.oci | 0.292 |
@@ -4002,6 +4007,7 @@
 | ine-ine | ukr.slv | 0.263 |
 | tatoeba-lower | spa.kaz | 0.263 |
 | tut-eng | nog.eng | 0.263 |
+| deu-jpn | deu.jpn | 0.262 |
 | eng-cpf | eng.gcf | 0.262 |
 | eng-gmw | eng.pdc | 0.262 |
 | eng-ine | eng.hif | 0.262 |
@@ -4135,6 +4141,7 @@
 | eng-mul | eng.khm | 0.242 |
 | gmw-gmw | eng.gos | 0.242 |
 | tatoeba-zero | dtp.dtp | 0.242 |
+| bul-jpn | bul.jpn | 0.241 |
 | eng-art | eng.nov | 0.241 |
 | eng-gmw | eng.enm | 0.241 |
 | ine-ine | eng.guj | 0.241 |
@@ -4479,6 +4486,7 @@
 | tatoeba-lower | jav.eng | 0.197 |
 | tatoeba-lower | kur.eng | 0.197 |
 | alv-eng | swa.eng | 0.196 |
+| ara-jpn | ara.jpn | 0.196 |
 | eng-inc | eng.ori | 0.196 |
 | eng-poz | eng.cha | 0.196 |
 | gmw-gmw | swg.nds | 0.196 |
@@ -4532,6 +4540,7 @@
 | tatoeba-lower | jpn.fas | 0.190 |
 | tatoeba-lower | nld.yid | 0.190 |
 | tut-eng | bak.eng | 0.190 |
+| zho-epo | zho.epo | 0.190 |
 | eng-gem | eng.pdc | 0.189 |
 | eng-gmw | eng.ksh | 0.189 |
 | eng-pqw | eng.cha | 0.189 |
@@ -4746,6 +4755,7 @@
 | spa-tat | spa.tat | 0.163 |
 | tatoeba-lower | bel.zho | 0.163 |
 | tatoeba-lower | fra.kab | 0.163 |
+| zho-hin | zho.hin | 0.163 |
 | tatoeba-lower | rus.jpn | 0.162 |
 | tatoeba-zero | fra.jpn | 0.162 |
 | tatoeba-zero | ita.jpn | 0.162 |
@@ -4922,6 +4932,7 @@
 | tatoeba-lowest | cor.epo | 0.143 |
 | tur-uzb | tur.uzb | 0.143 |
 | tut-eng | kaz.eng | 0.143 |
+| ukr-zho | ukr.zho | 0.143 |
 | xgn-eng | xal.eng | 0.143 |
 | art-art | ido.epo | 0.142 |
 | eng-mul | eng.hif | 0.142 |
@@ -5014,6 +5025,7 @@
 | eng-mul | eng.tpw | 0.136 |
 | fas-eng | fas.eng | 0.136 |
 | ine-ine | eng.ang | 0.136 |
+| isl-jpn | isl.jpn | 0.136 |
 | map-eng | dtp.eng | 0.136 |
 | poz-eng | dtp.eng | 0.136 |
 | tatoeba-lower | fin.jpn | 0.136 |
@@ -5022,6 +5034,7 @@
 | tatoeba-zero | eng.gos | 0.136 |
 | tatoeba-zero | lfn.lad | 0.136 |
 | tatoeba-zero | toki.fra | 0.136 |
+| zho-kor | zho.kor | 0.136 |
 | ine-ine | zza.eng | 0.135 |
 | map-eng | msa.eng | 0.135 |
 | mul-eng | tly.eng | 0.135 |
@@ -5345,6 +5358,7 @@
 | eng-mar | eng.mar | 0.110 |
 | eng-tup | eng.grn | 0.110 |
 | ine-ine | ita.pms | 0.110 |
+| kor-zho | kor.zho | 0.110 |
 | mul-eng | moh.eng | 0.110 |
 | pra-eng | san.eng | 0.110 |
 | tatoeba-lower | rus.ido | 0.110 |
@@ -5596,6 +5610,7 @@
 | eng-mul | eng.vol | 0.083 |
 | ine-ine | pol.prg | 0.083 |
 | ira-eng | zza.eng | 0.083 |
+| mar-jpn | mar.jpn | 0.083 |
 | tatoeba-zero | fra.avk | 0.083 |
 | tatoeba-zero | ita.avk | 0.083 |
 | tatoeba-zero | toki.lfn | 0.083 |
@@ -5661,6 +5676,7 @@
 | eng-mul | eng.pdc | 0.072 |
 | tatoeba-zero | yid.toki | 0.072 |
 | epo-ukr | epo.ukr | 0.071 |
+| eus-jpn | eus.jpn | 0.071 |
 | ine-ine | eng.zza | 0.071 |
 | tatoeba-zero | lfn.toki | 0.071 |
 | tatoeba-zero | msa.dtp | 0.071 |
@@ -5743,6 +5759,7 @@
 | tatoeba-zero | ina.ile | 0.052 |
 | eng-mul | eng.lld | 0.051 |
 | eng-mul | eng.rif | 0.051 |
+| epo-zho | epo.zho | 0.050 |
 | ine-ine | got.eng | 0.050 |
 | mul-eng | got.eng | 0.050 |
 | ine-ine | por.cor | 0.049 |
@@ -5764,6 +5781,7 @@
 | eng-aav | eng.kha | 0.043 |
 | eng-mul | eng.haw | 0.043 |
 | ine-ine | deu.cor | 0.043 |
+| hin-zho | hin.zho | 0.042 |
 | tatoeba-zero | awa.eng | 0.042 |
 | gem-gem | got.deu | 0.041 |
 | mul-eng | got.eng | 0.041 |

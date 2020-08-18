@@ -411,7 +411,10 @@ to be useful for anything.
 | | lang = epo-vie | | | | |
 | epo-vie/opus | tatoeba | 0.273 | 10.0 | 1.000 | 17797 |
 | | lang = epo-zho | | | | |
+| epo-zho/opus | tatoeba | 0.050 | 3.1 | 0.827 | 22149 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.017 | 0.0 | 1.000 | 2396 |
+| | lang = eus-jpn | | | | |
+| eus-jpn/opus | tatoeba | 0.071 | 2.4 | 0.783 | 1194 |
 | | lang = eus-rus | | | | |
 | [eus-rus/opus](../models/eus-rus) | tatoeba | 0.502 | 31.3 | 0.942 | 2428 |
 | | lang = fra-nds | | | | |
@@ -437,9 +440,13 @@ to be useful for anything.
 | [iir-iir/opus](../models/iir-iir) | tatoeba | 0.507 | 21.4 | 1.000 | 1618 |
 | [hin-urd/opus](../models/hin-urd) | tatoeba | 0.393 | 12.4 | 1.000 | 1618 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.376 | 10.4 | 1.000 | 1618 |
+| | lang = hin-zho | | | | |
+| hin-zho/opus | tatoeba | 0.042 | 2.7 | 0.881 | 3258 |
 | | lang = hye-rus | | | | |
 | [hye-rus/opus](../models/hye-rus) | tatoeba | 0.476 | 25.6 | 0.929 | 1624 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.407 | 21.9 | 0.962 | 1624 |
+| | lang = isl-jpn | | | | |
+| isl-jpn/opus | tatoeba | 0.136 | 5.9 | 1.000 | 1882 |
 | | lang = ita-nds | | | | |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.378 | 13.3 | 0.946 | 2130 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.332 | 9.4 | 0.959 | 2130 |
@@ -450,6 +457,8 @@ to be useful for anything.
 | [kat-rus/opus](../models/kat-rus) | tatoeba | 0.604 | 38.2 | 0.996 | 3899 |
 | | lang = khm-spa | | | | |
 | khm-spa/opus | tatoeba | 0.102 | 0.1 | 1.000 | 8721 |
+| | lang = kor-zho | | | | |
+| kor-zho/opus | tatoeba | 0.110 | 11.4 | 0.908 | 4033 |
 | | lang = nds-nld | | | | |
 | [gem-gem/opus](../models/gem-gem) | tatoeba | 0.634 | 44.1 | 0.992 | 11490 |
 | [gmw-gmw/opus](../models/gmw-gmw) | tatoeba | 0.618 | 41.4 | 0.996 | 11490 |
@@ -483,4 +492,5 @@ to be useful for anything.
 | tut-tut/opus | tatoeba | 0.285 | 2.8 | 1.000 | 949 |
 | tur-uzb/opus | tatoeba | 0.143 | 0.5 | 1.000 | 949 |
 | | lang = ukr-zho | | | | |
+| ukr-zho/opus | tatoeba | 0.143 | 15.9 | 0.889 | 13703 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.013 | 0.0 | 1.000 | 1659 |

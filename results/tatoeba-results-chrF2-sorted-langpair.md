@@ -79,6 +79,7 @@
 | sem-sem | ara.heb | 0.542 |
 | afa-afa | ara.heb | 0.525 |
 | ara-ita | ara.ita | 0.658 |
+| ara-jpn | ara.jpn | 0.196 |
 | afa-afa | ara.kab | 0.120 |
 | ara-pol | ara.pol | 0.623 |
 | ara-rus | ara.rus | 0.605 |
@@ -300,6 +301,7 @@
 | ine-ine | bul.fra | 0.558 |
 | bul-ita | bul.ita | 0.653 |
 | ine-ine | bul.ita | 0.479 |
+| bul-jpn | bul.jpn | 0.241 |
 | ine-ine | bul.nld | 0.505 |
 | sla-sla | bul.pol | 0.607 |
 | ine-ine | bul.pol | 0.461 |
@@ -534,10 +536,12 @@
 | dan-epo | dan.epo | 0.432 |
 | ine-ine | dan.fra | 0.640 |
 | ine-ine | dan.ita | 0.589 |
+| dan-jpn | dan.jpn | 0.317 |
 | ine-ine | dan.lad | 0.096 |
 | gem-gem | dan.nld | 0.748 |
 | ine-ine | dan.nld | 0.650 |
 | gem-gem | dan.nor | 0.812 |
+| dan-nor | dan.nor | 0.804 |
 | gmq-gmq | dan.nor | 0.772 |
 | ine-ine | dan.nor | 0.749 |
 | ine-ine | dan.pol | 0.527 |
@@ -656,6 +660,7 @@
 | tatoeba-lowest | deu.ita | 0.505 |
 | tatoeba-lower | deu.ita | 0.496 |
 | tatoeba-lowest | deu.jbo | 0.114 |
+| deu-jpn | deu.jpn | 0.262 |
 | tatoeba-zero | deu.jpn | 0.167 |
 | tatoeba-lower | deu.jpn | 0.159 |
 | tatoeba-lower | deu.kab | 0.154 |
@@ -2014,6 +2019,7 @@
 | eng-mul | eng.smo | 0.416 |
 | eng-mul | eng.smo | 0.413 |
 | eng-poz | eng.smo | 0.407 |
+| eng-spa | eng.spa | 0.721 |
 | eng-roa | eng.spa | 0.689 |
 | eng-itc | eng.spa | 0.685 |
 | eng-roa | eng.spa | 0.685 |
@@ -2376,6 +2382,7 @@
 | tatoeba-lowest | epo.yid | 0.151 |
 | tatoeba-zero | epo.yid | 0.137 |
 | epo-yid | epo.yid | 0.108 |
+| epo-zho | epo.zho | 0.050 |
 | tatoeba-lower | epo.zho | 0.017 |
 | fiu-eng | est.eng | 0.706 |
 | fiu-eng | est.eng | 0.706 |
@@ -2394,6 +2401,7 @@
 | euq-eng | eus.eng | 0.594 |
 | mul-eng | eus.eng | 0.557 |
 | mul-eng | eus.eng | 0.549 |
+| eus-jpn | eus.jpn | 0.071 |
 | eus-rus | eus.rus | 0.502 |
 | eus-spa | eus.spa | 0.673 |
 | itc-eng | ext.eng | 0.597 |
@@ -3036,6 +3044,7 @@
 | iir-iir | hin.urd | 0.507 |
 | hin-urd | hin.urd | 0.393 |
 | ine-ine | hin.urd | 0.376 |
+| hin-zho | hin.zho | 0.042 |
 | mul-eng | hmn.eng | 0.131 |
 | mul-eng | hmn.eng | 0.120 |
 | mul-eng | hoc.eng | 0.132 |
@@ -3280,6 +3289,7 @@
 | ine-ine | isl.fra | 0.469 |
 | isl-ita | isl.ita | 0.662 |
 | ine-ine | isl.ita | 0.501 |
+| isl-jpn | isl.jpn | 0.136 |
 | gem-gem | isl.nor | 0.690 |
 | gmq-gmq | isl.nor | 0.674 |
 | ine-ine | isl.nor | 0.566 |
@@ -3605,6 +3615,7 @@
 | kor-hun | kor.hun | 0.520 |
 | kor-rus | kor.rus | 0.514 |
 | kor-spa | kor.spa | 0.521 |
+| kor-zho | kor.zho | 0.110 |
 | fiu-eng | krl.eng | 0.491 |
 | fiu-eng | krl.eng | 0.485 |
 | fiu-eng | krl.eng | 0.453 |
@@ -3902,6 +3913,7 @@
 | inc-inc | mar.hin | 0.466 |
 | iir-iir | mar.hin | 0.463 |
 | ine-ine | mar.hin | 0.407 |
+| mar-jpn | mar.jpn | 0.083 |
 | ine-ine | mkd.deu | 0.548 |
 | sla-eng | mkd.eng | 0.682 |
 | zls-eng | mkd.eng | 0.682 |
@@ -5095,6 +5107,7 @@
 | ine-ine | spa.egl | 0.060 |
 | tatoeba-zero | spa.egl | 0.058 |
 | ine-ine | spa.ell | 0.487 |
+| spa-eng | spa.eng | 0.739 |
 | roa-eng | spa.eng | 0.716 |
 | roa-eng | spa.eng | 0.714 |
 | roa-eng | spa.eng | 0.713 |
@@ -5651,6 +5664,7 @@
 | tatoeba-zero | ukr.tur | 0.508 |
 | tatoeba-lowest | ukr.tur | 0.505 |
 | tatoeba-lower | ukr.uig | 0.161 |
+| ukr-zho | ukr.zho | 0.143 |
 | tatoeba-lower | ukr.zho | 0.013 |
 | ine-ine | urd.deu | 0.451 |
 | ine-eng | urd.eng | 0.481 |
@@ -5855,13 +5869,16 @@
 | sit-eng | zho.eng | 0.062 |
 | sit-eng | zho.eng | 0.059 |
 | tatoeba-lower | zho.epo | 0.458 |
+| zho-epo | zho.epo | 0.190 |
 | tatoeba-lower | zho.fas | 0.215 |
 | tatoeba-lower | zho.fin | 0.428 |
 | tatoeba-lower | zho.fra | 0.364 |
 | tatoeba-lower | zho.heb | 0.312 |
+| zho-hin | zho.hin | 0.163 |
 | tatoeba-lower | zho.hun | 0.300 |
 | tatoeba-lower | zho.ita | 0.383 |
 | tatoeba-lower | zho.jpn | 0.146 |
+| zho-kor | zho.kor | 0.136 |
 | tatoeba-lower | zho.lat | 0.147 |
 | tatoeba-lower | zho.nds | 0.280 |
 | tatoeba-lower | zho.nld | 0.376 |
@@ -5875,6 +5892,7 @@
 | tatoeba-lower | zho.tur | 0.443 |
 | tatoeba-lower | zho.uig | 0.167 |
 | tatoeba-lower | zho.ukr | 0.355 |
+| zho-ukr | zho.ukr | 0.293 |
 | tatoeba-lower | zho.zho | 0.025 |
 | sit-sit | zho.zho | 0.005 |
 | ine-ine | zza.eng | 0.135 |

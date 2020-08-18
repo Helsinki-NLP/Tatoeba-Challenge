@@ -351,6 +351,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-14.zip	eng-sla	en-sla
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-20.zip	eng-sla	en-sla	0.604	40.3	0.973	64809	English	Slavic languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-27.zip	eng-sla	en-sla	0.604	40.3	0.975	64809	English	Slavic languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus2m-2020-08-01.zip	eng-sla	en-sla	0.610	41.0	0.976	64809	English	Slavic languages
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-08-18.zip	eng-spa	en-es	0.721	54.9	0.978	77311	English	Spanish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-06-17.zip	eng-sqi	en-sq	0.671	46.0	0.993	7880	English	Albanian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-06-17.zip	eng-tgl	en-tl	0.571	26.5	1.000	17801	English	Tagalog
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-06-28.zip	eng-trk	en-trk	0.443	18.5	1.000	57120	English	Turkic languages
@@ -705,6 +706,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	spa-ara	es-ar	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-06-18.zip	spa-bul	es-bg	0.674	50.9	0.955	1707	Spanish	Bulgarian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	spa-bul	es-bg	0.674	50.9	0.955	1707	Spanish	Bulgarian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-06-17.zip	spa-cat	es-ca	0.832	68.9	1.000	12343	Spanish	Catalan
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-08-18.zip	spa-eng	es-en	0.739	59.6	0.974	79376	Spanish	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-06-16.zip	spa-epo	es-eo	0.560	33.2	0.968	77048	Spanish	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-06-17.zip	spa-eus	es-eu	0.638	37.0	0.983	10945	Spanish	Basque
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-06-16.zip	spa-glg	es-gl	0.808	67.6	0.993	16581	Spanish	Galician

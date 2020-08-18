@@ -356,6 +356,7 @@ to be useful for anything.
 | [eng-mul](../models/eng-mul) | eng.slv | 0.313 | 12.8 |
 | [eng-mul](../models/eng-mul) | eng.slv | 0.309 | 11.9 |
 | [ine-ine](../models/ine-ine) | eng.slv | 0.298 | 12.5 |
+| [eng-spa](../models/eng-spa) | eng.spa | 0.721 | 54.9 |
 | [eng-roa](../models/eng-roa) | eng.spa | 0.689 | 50.1 |
 | [eng-itc](../models/eng-itc) | eng.spa | 0.685 | 49.5 |
 | [eng-roa](../models/eng-roa) | eng.spa | 0.685 | 49.4 |
