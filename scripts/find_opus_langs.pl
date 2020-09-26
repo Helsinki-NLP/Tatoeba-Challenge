@@ -1,7 +1,7 @@
 #!/usr/bin/env perl
 
 
-use ISO::639_3 qw/:all/;
+use ISO::639::3 qw/:all/;
 
 my $lang = shift(@ARGV);
 

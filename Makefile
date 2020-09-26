@@ -30,9 +30,9 @@ GET_ISO_CODE   = ${ISO639} -m
 ## exclude Tatoeba (= test/dev data), WMT-News (reserve for comparison with other models)
 ## TODO: do we want to / need toexclude some other data sets?
 
-OPUS_CORPORA    = ${sort ${notdir ${shell find ${OPUS_HOME} -maxdepth 1 -mindepth 1 -type d}}}
-EXCLUDE_CORPORA = Tatoeba WMT-News MPC1
-TRAIN_CORPORA   = ${filter-out ${EXCLUDE_CORPORA},${OPUS_CORPORA}}
+OPUS_CORPORA    := ${sort ${notdir ${shell find ${OPUS_HOME} -maxdepth 1 -mindepth 1 -type d}}}
+EXCLUDE_CORPORA := Tatoeba WMT-News MPC1
+TRAIN_CORPORA   := ${filter-out ${EXCLUDE_CORPORA},${OPUS_CORPORA}}
 
 
 ## set additional argument options for opus_read (if it is used)
@@ -99,6 +99,7 @@ TRAIN_DATA  = ${patsubst %,${DATADIR}/%/train.id.gz,${TATOEBA_PAIRS3}}
 TEST_DATA   = ${patsubst %,${DATADIR}/%/test.id,${TATOEBA_PAIRS3}}
 TEST_TSV    = ${patsubst ${DATADIR}/%.id,${DATADIR}/test/%.txt,${wildcard ${DATADIR}/*/test.id}}
 DEV_TSV     = ${patsubst ${DATADIR}/%.id,${DATADIR}/dev/%.txt,${wildcard ${DATADIR}/*/dev.id}}
+LANGIDS     = ${patsubst %,${DATADIR}/info/%/langids,${TATOEBA_PAIRS3}}
 
 STATISTICS  = Data.md
 
@@ -169,6 +170,8 @@ traindata: ${TRAIN_DATA}
 testdata: ${TEST_DATA}
 test-tsv: ${TEST_TSV}
 dev-tsv: ${DEV_TSV}
+langids: ${DATADIR}/langids-train.txt ${DATADIR}/langids-dev.txt ${DATADIR}/langids-test.txt \
+	${DATADIR}/langids-common.txt ${DATADIR}/langids-train-only.txt ${DATADIR}/langids-devtest-only.txt
 statistics: ${STATISTICS}
 upload: ${patsubst %,${DATADIR}/%.done,${TATOEBA_PAIRS3}}
 upload-mono: ${patsubst %,${DATADIR}/%.done,${WIKI_LANGS3}}
@@ -211,6 +214,34 @@ opus-langpairs.txt:
 opus-langpairs3.txt: opus-langpairs.txt
 	cat $< | xargs ${SCRIPTDIR}/convert_langpair_codes.pl | \
 	tr ' ' "\n" | sort -u | tr "\n" ' ' | sed 's/ $$//' > $@
+
+
+## language IDs in training/dev/test
+
+${DATADIR}/langids-train.txt: # ${LANGIDS}
+	find ${DATADIR} -name langids | xargs cat | grep 'train ' | \
+	cut -f2 | tr ' ' "\n" | sort -u > $@
+
+${DATADIR}/langids-test.txt: # ${LANGIDS}
+	find ${DATADIR} -name langids | xargs cat | grep 'test ' | \
+	cut -f2 | tr ' ' "\n" | sort -u > $@
+
+${DATADIR}/langids-dev.txt: # ${LANGIDS}
+	find ${DATADIR} -name langids | xargs cat | grep 'dev ' | \
+	cut -f2 | tr ' ' "\n" | sort -u > $@
+
+${DATADIR}/langids-devtest.txt: ${DATADIR}/langids-dev.txt ${DATADIR}/langids-test.txt
+	cat $^ | sort -u | grep . > $@
+
+${DATADIR}/langids-common.txt: ${DATADIR}/langids-train.txt ${DATADIR}/langids-devtest.txt
+	comm -1 -2 $^ | grep . > $@
+
+${DATADIR}/langids-train-only.txt: ${DATADIR}/langids-train.txt ${DATADIR}/langids-devtest.txt
+	comm -2 -3 $^ | grep . > $@
+
+${DATADIR}/langids-devtest-only.txt: ${DATADIR}/langids-train.txt ${DATADIR}/langids-devtest.txt
+	comm -1 -3 $^ | grep . > $@
+
 
 
 ## cleanup some orphan files and directories
@@ -352,6 +383,62 @@ ${DATADIR}/%/test.id:
 	@rmdir ${dir $@}test.d
 	@rm -f $@.tmp1 $@.tmp2 $@.tmp3 $@.test $@.dev
 	@echo ""
+
+
+
+## list all langids used in all data sets
+## (also diff between devtest and train)
+
+${DATADIR}/info/%/langids: ${DATADIR}/%/train.id.gz
+	echo -n "train source	" >> $@
+	zcat $< | cut -f2 | sort -u | tr "\n" ' ' | sed 's/ *$$//' >> $@
+	echo ""                   >> $@
+	echo -n "train target	" >> $@
+	zcat $< | cut -f3 | sort -u | tr "\n" ' ' | sed 's/ *$$//' >> $@
+	echo ""                   >> $@
+	if [ -e ${patsubst ${DATADIR}/%/train.id.gz,${DATADIR}/%/test.id,$<} ]; then \
+	  echo -n "test source	" >> $@; \
+	  cat ${patsubst ${DATADIR}/%/train.id.gz,${DATADIR}/%/test.id,$<} | \
+		cut -f1 | sort -u | tr "\n" ' ' | sed 's/ *$$//' >> $@; \
+	  echo ""                 >> $@; \
+	  echo -n "test target	" >> $@; \
+	  cat ${patsubst ${DATADIR}/%/train.id.gz,${DATADIR}/%/test.id,$<} | \
+		cut -f2 | sort -u | tr "\n" ' ' | sed 's/ *$$//' >> $@; \
+	  echo ""                 >> $@; \
+	fi
+	if [ -e ${patsubst ${DATADIR}/%/train.id.gz,${DATADIR}/%/dev.id,$<} ]; then \
+	  echo -n "dev source	" >> $@; \
+	  cat ${patsubst ${DATADIR}/%/train.id.gz,${DATADIR}/%/dev.id,$<} | \
+		cut -f1 | sort -u | tr "\n" ' ' | sed 's/ *$$//' >> $@; \
+	  echo ""                 >> $@; \
+	  echo -n "dev target	" >> $@; \
+	  cat ${patsubst ${DATADIR}/%/train.id.gz,${DATADIR}/%/dev.id,$<} | \
+		cut -f2 | sort -u | tr "\n" ' ' | sed 's/ *$$//' >> $@; \
+	  echo ""                 >> $@; \
+	fi
+	grep -v 'train source' $@ | grep source | cut -f2 | tr ' ' "\n" | sort -u > $@.srctest
+	grep -v 'train target' $@ | grep target | cut -f2 | tr ' ' "\n" | sort -u > $@.trgtest
+	grep 'train source' $@ | cut -f2 | tr ' ' "\n" > $@.srctrain
+	grep 'train target' $@ | cut -f2 | tr ' ' "\n" > $@.trgtrain
+	echo -n 'comm source	' >> $@
+	comm -1 -2 $@.srctest $@.srctrain | tr "\n" ' ' | sed 's/ *$$//' >> $@
+	echo ""                   >> $@
+	echo -n 'comm target	' >> $@
+	comm -1 -2 $@.trgtest $@.trgtrain | tr "\n" ' ' | sed 's/ *$$//' >> $@
+	echo ""                   >> $@
+	echo -n 'devtestonly source	' >> $@
+	comm -2 -3 $@.srctest $@.srctrain | tr "\n" ' ' | sed 's/ *$$//' >> $@
+	echo ""                   >> $@
+	echo -n 'devtestonly target	' >> $@
+	comm -2 -3 $@.trgtest $@.trgtrain | tr "\n" ' ' | sed 's/ *$$//' >> $@
+	echo ""                   >> $@
+	echo -n 'trainonly source	' >> $@
+	comm -1 -3 $@.srctest $@.srctrain | tr "\n" ' ' | sed 's/ *$$//' >> $@
+	echo ""                   >> $@
+	echo -n 'trainonly target	' >> $@
+	comm -1 -3 $@.trgtest $@.trgtrain | tr "\n" ' ' | sed 's/ *$$//' >> $@
+	echo ""                   >> $@
+	rm -f $@.srctest $@.srctrain $@.trgtest $@.trgtrain
 
 
 

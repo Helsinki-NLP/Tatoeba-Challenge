@@ -118,3 +118,55 @@
 | Tatoeba-test.swe-isl.swe.isl 	| 65.8 	| 0.914 |
 | Tatoeba-test.swe-nor.swe.nor 	| 60.6 	| 0.755 |
 
+# opus-2020-09-26.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): dan eng fao isl nno nob nob_Hebr non_Latn swe
+* target language(s): dan eng fao isl nno nob nob_Hebr non_Latn swe
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus-2020-09-26.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip)
+* test set translations: [opus-2020-09-26.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.test.txt)
+* test set scores: [opus-2020-09-26.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.dan-eng.dan.eng 	| 59.1 	| 0.737 |
+| Tatoeba-test.dan-fao.dan.fao 	| 6.6 	| 0.162 |
+| Tatoeba-test.dan-isl.dan.isl 	| 65.8 	| 0.914 |
+| Tatoeba-test.dan-nor.dan.nor 	| 74.3 	| 0.849 |
+| Tatoeba-test.dan-swe.dan.swe 	| 69.5 	| 0.818 |
+| Tatoeba-test.eng-dan.eng.dan 	| 57.0 	| 0.717 |
+| Tatoeba-test.eng-fao.eng.fao 	| 8.3 	| 0.305 |
+| Tatoeba-test.eng-isl.eng.isl 	| 24.2 	| 0.505 |
+| Tatoeba-test.eng-non.eng.non 	| 0.3 	| 0.160 |
+| Tatoeba-test.eng-nor.eng.nor 	| 51.7 	| 0.681 |
+| Tatoeba-test.eng-swe.eng.swe 	| 57.3 	| 0.710 |
+| Tatoeba-test.fao-dan.fao.dan 	| 23.0 	| 0.536 |
+| Tatoeba-test.fao-eng.fao.eng 	| 26.0 	| 0.454 |
+| Tatoeba-test.fao-isl.fao.isl 	| 19.0 	| 0.303 |
+| Tatoeba-test.fao-nor.fao.nor 	| 47.8 	| 0.631 |
+| Tatoeba-test.fao-swe.fao.swe 	| 0.0 	| 1.000 |
+| Tatoeba-test.isl-dan.isl.dan 	| 77.7 	| 0.901 |
+| Tatoeba-test.isl-eng.isl.eng 	| 49.6 	| 0.659 |
+| Tatoeba-test.isl-fao.isl.fao 	| 14.5 	| 0.183 |
+| Tatoeba-test.isl-nor.isl.nor 	| 60.5 	| 0.761 |
+| Tatoeba-test.isl-swe.isl.swe 	| 60.0 	| 0.800 |
+| Tatoeba-test.multi.multi 	| 57.0 	| 0.716 |
+| Tatoeba-test.non-eng.non.eng 	| 26.7 	| 0.501 |
+| Tatoeba-test.nor-dan.nor.dan 	| 71.5 	| 0.834 |
+| Tatoeba-test.nor-eng.nor.eng 	| 54.2 	| 0.694 |
+| Tatoeba-test.nor-fao.nor.fao 	| 13.1 	| 0.377 |
+| Tatoeba-test.nor-isl.nor.isl 	| 29.7 	| 0.545 |
+| Tatoeba-test.nor-nor.nor.nor 	| 61.9 	| 0.786 |
+| Tatoeba-test.nor-swe.nor.swe 	| 72.9 	| 0.838 |
+| Tatoeba-test.swe-dan.swe.dan 	| 68.7 	| 0.809 |
+| Tatoeba-test.swe-eng.swe.eng 	| 60.9 	| 0.737 |
+| Tatoeba-test.swe-fao.swe.fao 	| 12.7 	| 0.290 |
+| Tatoeba-test.swe-isl.swe.isl 	| 65.8 	| 0.914 |
+| Tatoeba-test.swe-nor.swe.nor 	| 72.0 	| 0.832 |
+
