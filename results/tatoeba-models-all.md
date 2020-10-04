@@ -6,7 +6,7 @@ For multilingual models, it is a mix of all language pairs
 | Model | chrF2 | BLEU | BP | Reference Length |
 |:--|--:|--:|--:|--:|
 | [aav-aav/opus](../models/aav-aav) | 0.324 | 16.6 | 1.000 | 71329 |
-| [afa-afa/opus](../models/afa-afa) | 0.409 | 20.0 | 1.000 | 62781 |
+| [afa-afa/opus](../models/afa-afa) | 0.412 | 20.3 | 1.000 | 62781 |
 | [afr-deu/opus](../models/afr-deu) | 0.671 | 47.1 | 1.000 | 9105 |
 | [afr-eng/opus](../models/afr-eng) | 0.738 | 59.4 | 0.996 | 9622 |
 | [afr-epo/opus](../models/afr-epo) | 0.411 | 18.3 | 0.995 | 7517 |
@@ -139,6 +139,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-gla/opus](../models/eng-gla) | 0.159 | 0.4 | 1.000 | 7072 |
 | [eng-gle/opus](../models/eng-gle) | 0.593 | 37.5 | 1.000 | 12200 |
 | [eng-glg/opus](../models/eng-glg) | 0.593 | 37.8 | 0.976 | 7830 |
+| [eng-heb/opus](../models/eng-heb) | 0.602 | 37.9 | 1.000 | 60359 |
 | [eng-hin/opus](../models/eng-hin) | 0.447 | 16.1 | 1.000 | 32904 |
 | [eng-hye/opus](../models/eng-hye) | 0.267 | 7.2 | 1.000 | 5115 |
 | [eng-ilo/opus](../models/eng-ilo) | 0.569 | 30.8 | 1.000 | 7241 |
@@ -253,7 +254,7 @@ For multilingual models, it is a mix of all language pairs
 | [fra-vie/opus](../models/fra-vie) | 0.486 | 31.1 | 0.985 | 13219 |
 | [fry-eng/opus](../models/fry-eng) | 0.226 | 4.9 | 0.923 | 1500 |
 | [fry-nld/opus](../models/fry-nld) | 0.120 | 0.4 | 0.585 | 1672 |
-| [gem-gem/opus](../models/gem-gem) | 0.622 | 43.6 | 1.000 | 72899 |
+| [gem-gem/opus](../models/gem-gem) | 0.625 | 44.1 | 1.000 | 72899 |
 | [gla-eng/opus](../models/gla-eng) | 0.120 | 0.4 | 1.000 | 6366 |
 | [gla-spa/opus](../models/gla-spa) | 0.109 | 0.3 | 0.970 | 1608 |
 | [gle-eng/opus](../models/gle-eng) | 0.672 | 51.6 | 1.000 | 11247 |
@@ -261,8 +262,8 @@ For multilingual models, it is a mix of all language pairs
 | [glg-epo/opus](../models/glg-epo) | 0.025 | 0.0 | 1.000 | 2257 |
 | [glg-por/opus](../models/glg-por) | 0.756 | 58.5 | 0.978 | 3078 |
 | [glg-spa/opus](../models/glg-spa) | 0.836 | 72.2 | 0.982 | 17443 |
-| [gmq-gmq/opus](../models/gmq-gmq) | 0.716 | 57.0 | 0.972 | 72271 |
-| [gmw-gmw/opus](../models/gmw-gmw) | 0.567 | 36.7 | 1.000 | 73472 |
+| [gmq-gmq/opus](../models/gmq-gmq) | 0.717 | 57.1 | 0.974 | 72271 |
+| [gmw-gmw/opus](../models/gmw-gmw) | 0.567 | 36.4 | 1.000 | 73472 |
 | [grk-grk/opus](../models/grk-grk) | 0.696 | 54.6 | 0.992 | 61220 |
 | [grn-spa/opus](../models/grn-spa) | 0.157 | 1.0 | 1.000 | 3866 |
 | hbs-deu/opus | 0.692 | 51.5 | 0.987 | 31118 |
@@ -270,8 +271,10 @@ For multilingual models, it is a mix of all language pairs
 | [hbs-ukr/opus](../models/hbs-ukr) | 0.653 | 46.4 | 0.990 | 4959 |
 | [heb-ara/opus](../models/heb-ara) | 0.532 | 23.6 | 0.926 | 6372 |
 | heb-deu/opus | 0.645 | 45.2 | 0.992 | 25096 |
+| [heb-eng/opus](../models/heb-eng) | 0.670 | 52.0 | 0.969 | 73560 |
 | [heb-epo/opus](../models/heb-epo) | 0.348 | 17.6 | 0.899 | 78217 |
 | [heb-lat/opus](../models/heb-lat) | 0.030 | 0.0 | 1.000 | 1367 |
+| [heb-rus/opus](../models/heb-rus) | 0.599 | 40.5 | 0.963 | 16583 |
 | [heb-ukr/opus](../models/heb-ukr) | 0.552 | 35.4 | 0.971 | 5163 |
 | [hin-eng/opus](../models/hin-eng) | 0.569 | 39.0 | 0.956 | 33943 |
 | [hin-urd/opus](../models/hin-urd) | 0.174 | 1.7 | 1.000 | 1618 |
@@ -289,7 +292,7 @@ For multilingual models, it is a mix of all language pairs
 | [ilo-eng/opus](../models/ilo-eng) | 0.558 | 36.4 | 1.000 | 7384 |
 | [ina-deu/opus](../models/ina-deu) | 0.105 | 0.2 | 1.000 | 11657 |
 | [ina-fra/opus](../models/ina-fra) | 0.136 | 0.3 | 1.000 | 9340 |
-| [inc-inc/opus](../models/inc-inc) | 0.470 | 24.1 | 1.000 | 62194 |
+| [inc-inc/opus](../models/inc-inc) | 0.478 | 25.1 | 1.000 | 62194 |
 | [ira-ira/opus](../models/ira-ira) | 0.344 | 15.6 | 0.970 | 80432 |
 | iro-iro/opus | 0.079 | 0.4 | 1.000 | 1016 |
 | [isl-deu/opus](../models/isl-deu) | 0.661 | 49.2 | 0.998 | 6265 |
@@ -436,7 +439,7 @@ For multilingual models, it is a mix of all language pairs
 | [por-nds/opus](../models/por-nds) | 0.215 | 4.3 | 0.935 | 1284 |
 | [por-tgl/opus](../models/por-tgl) | 0.555 | 26.1 | 1.000 | 27240 |
 | [por-ukr/opus](../models/por-ukr) | 0.624 | 41.2 | 0.986 | 18933 |
-| [pqe-pqe/opus](../models/pqe-pqe) | 0.293 | 12.1 | 1.000 | 10458 |
+| [pqe-pqe/opus](../models/pqe-pqe) | 0.296 | 12.2 | 1.000 | 10458 |
 | [pqw-pqw/opus](../models/pqw-pqw) | 0.414 | 21.3 | 1.000 | 69881 |
 | pra-pra/opus | 0.097 | 0.1 | 1.000 | 2096 |
 | [que-eng/opus](../models/que-eng) | 0.149 | 0.8 | 1.000 | 1693 |
@@ -456,6 +459,7 @@ For multilingual models, it is a mix of all language pairs
 | [rus-epo/opus](../models/rus-epo) | 0.436 | 24.2 | 0.925 | 77197 |
 | [rus-est/opus](../models/rus-est) | 0.749 | 57.5 | 0.975 | 3572 |
 | [rus-eus/opus](../models/rus-eus) | 0.539 | 29.7 | 0.944 | 2373 |
+| [rus-heb/opus](../models/rus-heb) | 0.569 | 36.1 | 0.999 | 15028 |
 | [rus-hye/opus](../models/rus-hye) | 0.494 | 21.7 | 1.000 | 1602 |
 | [rus-kat/opus](../models/rus-kat) | 0.235 | 7.1 | 1.000 | 3667 |
 | [rus-lat/opus](../models/rus-lat) | 0.060 | 0.1 | 0.469 | 6107 |
@@ -470,9 +474,9 @@ For multilingual models, it is a mix of all language pairs
 | [rus-ukr/opus](../models/rus-ukr) | 0.793 | 64.0 | 0.990 | 60212 |
 | [rus-vie/opus](../models/rus-vie) | 0.346 | 16.9 | 1.000 | 2566 |
 | [sal-sal/opus](../models/sal-sal) | 0.571 | 35.1 | 0.961 | 70539 |
-| [sem-sem/opus](../models/sem-sem) | 0.534 | 33.2 | 0.999 | 65304 |
+| [sem-sem/opus](../models/sem-sem) | 0.537 | 33.5 | 0.998 | 65304 |
 | [sit-sit/opus](../models/sit-sit) | 0.428 | 28.4 | 0.921 | 95139 |
-| [sla-sla/opus](../models/sla-sla) | 0.617 | 43.8 | 0.971 | 64192 |
+| [sla-sla/opus](../models/sla-sla) | 0.618 | 44.1 | 0.975 | 64192 |
 | [slv-epo/opus](../models/slv-epo) | 0.212 | 6.4 | 1.000 | 1942 |
 | [slv-rus/opus](../models/slv-rus) | 0.504 | 37.3 | 0.988 | 2101 |
 | [slv-ukr/opus](../models/slv-ukr) | 0.236 | 10.6 | 1.000 | 3906 |
@@ -523,7 +527,7 @@ For multilingual models, it is a mix of all language pairs
 | [tgl-por/opus](../models/tgl-por) | 0.521 | 28.9 | 0.985 | 25652 |
 | [tgl-spa/opus](../models/tgl-spa) | 0.525 | 30.5 | 1.000 | 8654 |
 | [tha-eng/opus](../models/tha-eng) | 0.644 | 48.1 | 0.974 | 7407 |
-| [trk-trk/opus](../models/trk-trk) | 0.392 | 17.5 | 1.000 | 64290 |
+| [trk-trk/opus](../models/trk-trk) | 0.395 | 17.5 | 1.000 | 64290 |
 | [tuk-eng/opus](../models/tuk-eng) | 0.174 | 1.9 | 1.000 | 19066 |
 | tup-tup/opus | 0.135 | 0.4 | 1.000 | 3495 |
 | tur-bul/opus | 0.644 | 47.3 | 0.930 | 6352 |
@@ -535,7 +539,7 @@ For multilingual models, it is a mix of all language pairs
 | [tur-uig/opus](../models/tur-uig) | 0.126 | 0.0 | 1.000 | 7497 |
 | [tur-ukr/opus](../models/tur-ukr) | 0.624 | 42.5 | 0.983 | 12988 |
 | [tur-uzb/opus](../models/tur-uzb) | 0.143 | 0.5 | 1.000 | 949 |
-| [tut-tut/opus](../models/tut-tut) | 0.393 | 18.5 | 1.000 | 65555 |
+| [tut-tut/opus](../models/tut-tut) | 0.398 | 19.0 | 1.000 | 65555 |
 | [uig-eng/opus](../models/uig-eng) | 0.133 | 0.3 | 1.000 | 23090 |
 | [uig-fra/opus](../models/uig-fra) | 0.112 | 0.2 | 1.000 | 4706 |
 | [uig-rus/opus](../models/uig-rus) | 0.031 | 0.1 | 1.000 | 3470 |
@@ -563,7 +567,7 @@ For multilingual models, it is a mix of all language pairs
 | [ukr-zho/opus](../models/ukr-zho) | 0.090 | 9.1 | 0.904 | 13703 |
 | [urd-eng/opus](../models/urd-eng) | 0.435 | 23.2 | 0.975 | 12029 |
 | [urd-hin/opus](../models/urd-hin) | 0.164 | 1.0 | 1.000 | 1581 |
-| [urj-urj/opus](../models/urj-urj) | 0.592 | 39.7 | 0.969 | 64422 |
+| [urj-urj/opus](../models/urj-urj) | 0.593 | 39.6 | 0.972 | 64422 |
 | [uzb-eng/opus](../models/uzb-eng) | 0.138 | 1.3 | 1.000 | 2699 |
 | [uzb-tur/opus](../models/uzb-tur) | 0.146 | 1.1 | 0.992 | 956 |
 | [vie-deu/opus](../models/vie-deu) | 0.484 | 27.6 | 0.958 | 3365 |
@@ -585,6 +589,6 @@ For multilingual models, it is a mix of all language pairs
 | [zho-kor/opus](../models/zho-kor) | 0.115 | 1.1 | 0.897 | 2189 |
 | [zho-ukr/opus](../models/zho-ukr) | 0.277 | 10.3 | 0.924 | 9193 |
 | [zhx-zhx/opus](../models/zhx-zhx) | 0.433 | 28.8 | 0.925 | 97382 |
-| [zle-zle/opus](../models/zle-zle) | 0.655 | 47.5 | 0.997 | 65030 |
+| [zle-zle/opus](../models/zle-zle) | 0.656 | 47.5 | 0.997 | 65030 |
 | [zls-zls/opus](../models/zls-zls) | 0.596 | 44.2 | 0.959 | 66607 |
 | [zlw-zlw/opus](../models/zlw-zlw) | 0.633 | 45.2 | 0.964 | 70134 |

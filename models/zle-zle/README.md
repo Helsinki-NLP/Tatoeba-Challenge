@@ -100,3 +100,57 @@
 | Tatoeba-test.ukr-orv.ukr.orv 	| 0.4 	| 0.136 |
 | Tatoeba-test.ukr-rus.ukr.rus 	| 68.9 	| 0.824 |
 
+# opus-2020-10-04.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): bel bel_Latn eng orv_Cyrl rue rus ukr
+* target language(s): bel bel_Latn eng orv_Cyrl rue rus ukr
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus-2020-10-04.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opus-2020-10-04.zip)
+* test set translations: [opus-2020-10-04.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opus-2020-10-04.test.txt)
+* test set scores: [opus-2020-10-04.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opus-2020-10-04.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| newstest2012-engrus.eng.rus 	| 26.4 	| 0.538 |
+| newstest2012-ruseng.rus.eng 	| 29.6 	| 0.568 |
+| newstest2013-engrus.eng.rus 	| 20.4 	| 0.481 |
+| newstest2013-ruseng.rus.eng 	| 23.8 	| 0.513 |
+| newstest2014-ruen-ruseng.rus.eng 	| 26.4 	| 0.550 |
+| newstest2015-enru-engrus.eng.rus 	| 22.4 	| 0.515 |
+| newstest2015-enru-ruseng.rus.eng 	| 25.2 	| 0.529 |
+| newstest2016-enru-engrus.eng.rus 	| 21.6 	| 0.505 |
+| newstest2016-enru-ruseng.rus.eng 	| 23.9 	| 0.521 |
+| newstest2017-enru-engrus.eng.rus 	| 23.6 	| 0.524 |
+| newstest2017-enru-ruseng.rus.eng 	| 27.5 	| 0.546 |
+| newstest2018-enru-engrus.eng.rus 	| 20.4 	| 0.509 |
+| newstest2018-enru-ruseng.rus.eng 	| 23.3 	| 0.518 |
+| newstest2019-enru-engrus.eng.rus 	| 22.3 	| 0.487 |
+| newstest2019-ruen-ruseng.rus.eng 	| 26.0 	| 0.537 |
+| Tatoeba-test.bel-eng.bel.eng 	| 36.7 	| 0.562 |
+| Tatoeba-test.bel-rus.bel.rus 	| 56.9 	| 0.753 |
+| Tatoeba-test.bel-ukr.bel.ukr 	| 54.5 	| 0.742 |
+| Tatoeba-test.eng-bel.eng.bel 	| 19.3 	| 0.452 |
+| Tatoeba-test.eng-orv.eng.orv 	| 0.3 	| 0.138 |
+| Tatoeba-test.eng-rue.eng.rue 	| 0.8 	| 0.152 |
+| Tatoeba-test.eng-rus.eng.rus 	| 38.9 	| 0.597 |
+| Tatoeba-test.eng-ukr.eng.ukr 	| 36.3 	| 0.578 |
+| Tatoeba-test.multi.multi 	| 47.5 	| 0.656 |
+| Tatoeba-test.orv-eng.orv.eng 	| 6.3 	| 0.210 |
+| Tatoeba-test.orv-rus.orv.rus 	| 5.3 	| 0.224 |
+| Tatoeba-test.orv-ukr.orv.ukr 	| 3.1 	| 0.175 |
+| Tatoeba-test.rue-eng.rue.eng 	| 18.1 	| 0.351 |
+| Tatoeba-test.rus-bel.rus.bel 	| 44.0 	| 0.659 |
+| Tatoeba-test.rus-eng.rus.eng 	| 50.4 	| 0.662 |
+| Tatoeba-test.rus-orv.rus.orv 	| 0.2 	| 0.149 |
+| Tatoeba-test.rus-ukr.rus.ukr 	| 63.0 	| 0.789 |
+| Tatoeba-test.ukr-bel.ukr.bel 	| 46.7 	| 0.680 |
+| Tatoeba-test.ukr-eng.ukr.eng 	| 49.5 	| 0.655 |
+| Tatoeba-test.ukr-orv.ukr.orv 	| 0.4 	| 0.138 |
+| Tatoeba-test.ukr-rus.ukr.rus 	| 68.8 	| 0.824 |
+
