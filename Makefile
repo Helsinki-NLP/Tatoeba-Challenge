@@ -100,6 +100,8 @@ TEST_DATA   = ${patsubst %,${DATADIR}/%/test.id,${TATOEBA_PAIRS3}}
 TEST_TSV    = ${patsubst ${DATADIR}/%.id,${DATADIR}/test/%.txt,${wildcard ${DATADIR}/*/test.id}}
 DEV_TSV     = ${patsubst ${DATADIR}/%.id,${DATADIR}/dev/%.txt,${wildcard ${DATADIR}/*/dev.id}}
 LANGIDS     = ${patsubst %,${DATADIR}/info/%/langids,${TATOEBA_PAIRS3}}
+OVERLAPTEST = ${patsubst ${DATADIR}/%/train.id.gz,${DATADIR}/info/%/overlap-with-test,${wildcard ${DATADIR}/*/train.id.gz}}
+OVERLAPDEV  = ${patsubst ${DATADIR}/%/train.id.gz,${DATADIR}/info/%/overlap-with-dev,${wildcard ${DATADIR}/*/train.id.gz}}
 
 STATISTICS  = Data.md
 
@@ -173,6 +175,7 @@ dev-tsv: ${DEV_TSV}
 langids: ${DATADIR}/langids-train.txt ${DATADIR}/langids-dev.txt ${DATADIR}/langids-test.txt \
 	${DATADIR}/langids-common.txt ${DATADIR}/langids-train-only.txt ${DATADIR}/langids-devtest-only.txt
 statistics: ${STATISTICS}
+overlaps: ${OVERLAPTEST} ${OVERLAPDEV}
 upload: ${patsubst %,${DATADIR}/%.done,${TATOEBA_PAIRS3}}
 upload-mono: ${patsubst %,${DATADIR}/%.done,${WIKI_LANGS3}}
 upload-wikishuffled: ${patsubst wiki-shuffled/%,data/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
@@ -384,6 +387,38 @@ ${DATADIR}/%/test.id:
 	@rm -f $@.tmp1 $@.tmp2 $@.tmp3 $@.test $@.dev
 	@echo ""
 
+
+${DATADIR}/info/%/overlap-with-test: ${DATADIR}/%/train.id.gz
+	mkdir -p ${dir $@}
+	echo "# overlap with test set" > $@
+	echo ""                       >> $@
+	scripts/check-overlap.pl $(<:id.gz=src.gz) $(<:id.gz=trg.gz) \
+		${dir $<}test.src  ${dir $<}test.trg >> $@
+
+${DATADIR}/info/%/overlap-with-dev: ${DATADIR}/%/train.id.gz
+	echo "# overlap with dev set" >> $@
+	echo ""                       >> $@
+	scripts/check-overlap.pl $(<:id.gz=src.gz) $(<:id.gz=trg.gz) \
+		${dir $<}dev.src  ${dir $<}dev.trg >> $@
+
+
+# ${DATADIR}/info/%/overlaps:
+# 	mkdir -p ${dir $@}
+# 	echo "# overlap with test set" > $@
+# 	echo ""                       >> $@
+# 	scripts/check-overlap.pl \
+# 		${patsubst ${DATADIR}/info/%/overlaps,${DATADIR}/%/train.src.gz,$@} \
+# 		${patsubst ${DATADIR}/info/%/overlaps,${DATADIR}/%/train.trg.gz,$@} \
+# 		${patsubst ${DATADIR}/info/%/overlaps,${DATADIR}/%/test.src,$@} \
+# 		${patsubst ${DATADIR}/info/%/overlaps,${DATADIR}/%/test.trg,$@}  >> $@
+# 	echo ""                       >> $@
+# 	echo "# overlap with dev set" >> $@
+# 	echo ""                       >> $@
+# 	scripts/check-overlap.pl \
+# 		${patsubst ${DATADIR}/info/%/overlaps,${DATADIR}/%/train.src.gz,$@} \
+# 		${patsubst ${DATADIR}/info/%/overlaps,${DATADIR}/%/train.trg.gz,$@} \
+# 		${patsubst ${DATADIR}/info/%/overlaps,${DATADIR}/%/dev.src,$@} \
+# 		${patsubst ${DATADIR}/info/%/overlaps,${DATADIR}/%/dev.trg,$@}  >> $@
 
 
 ## list all langids used in all data sets

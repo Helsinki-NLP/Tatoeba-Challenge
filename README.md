@@ -6,7 +6,7 @@ A new challenge set for machine translation covering over 500 languages and thou
 * Realistic low-resource scenarios
 * [Training, development and test data](Data.md)
 * [Additional bilingual](subsets/NoTestData.md) and [monolingual data sets](MonolingualData.md)
-* [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-all.md)
+* [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-all.md) ([training procedures](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md))
 * [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
 
 
@@ -26,17 +26,16 @@ The Tatoeba translation challenge includes shuffled training data taken from [OP
 
 This is an open challenge and the idea s to encourage people to develop machine translation in real-world cases for many languages. The most important point is to get away from artificial settings that simulate low-resource scenarios or zero-shot translations. Here, we extracted data sets with all the data we have in a large collection of parallel corpora instead and do not reduce high-resource scenarios in an unnatural way. Tatoeba is, admittedly, a rather easy test set in general but it includes a wide varity of languages and makes it easy to get started with rather encouraging results even for lesser resourced languages. The release also includes medium and high resource settings and allows a wide range of experiments with all supported language pairs including studies of transfer learning and pivot-based methods.
 
-There is no dedicated publication yet about the Tatoeba Translation Challenge; please, cite the following paper if you use data and models from this distribution:
+Please, cite the following paper if you use data and models from this distribution:
 
 ```
-@inproceedings{TiedemannThottingal:2020,
-  title        = {{OPUS-MT} – {B}uilding open translation services for the World},
-  author       = {Tiedemann, J{\"o}rg and Thottingal, Santhosh},
-  booktitle    = {Proceedings of the 22nd Annual Conference of the European Association for Machine Translation (EAMT)},
-  year         = {2020},
-  isbn         = {978-989-33-0589-8},
-  url          = {http://eamt2020.inesc-id.pt/proceedings-eamt2020.pdf},
-  organization = {European Association for Machine Translation}
+@inproceedings{tiedemann-2020-ttc,
+    title = "The {T}atoeba {T}ranslation {C}hallenge -- {R}ealistic Data Sets for Low Resource and Multilingual {MT}",
+    author = {Tiedemann, J{\"o}rg},
+    booktitle = "Proceedings of the Fifth Conference on Machine Translation (Volume 1: Research Papers)",
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+    url = {https://arxiv.org/abs/2010.06354}
 }
 ```
 
