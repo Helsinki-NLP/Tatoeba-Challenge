@@ -2324,6 +2324,7 @@
 | eng-tut | eng.tuk | 0.310 |
 | eng-trk | eng.tuk | 0.309 |
 | eng-tuk | eng.tuk | 0.156 |
+| eng-tur | eng.tur | 0.684 |
 | eng-trk | eng.tur | 0.623 |
 | eng-tut | eng.tur | 0.623 |
 | eng-trk | eng.tur | 0.617 |
@@ -5596,6 +5597,7 @@
 | spa-tgl | spa.tgl | 0.486 |
 | tatoeba-lower | spa.tgl | 0.421 |
 | tatoeba-zero | spa.toki | 0.066 |
+| spa-tur | spa.tur | 0.712 |
 | tatoeba-zero | spa.tur | 0.546 |
 | tatoeba-lower | spa.tur | 0.542 |
 | tatoeba-lowest | spa.tur | 0.537 |
@@ -5838,6 +5840,7 @@
 | tatoeba-lower | tur.deu | 0.452 |
 | tatoeba-zero | tur.deu | 0.452 |
 | tatoeba-lowest | tur.deu | 0.451 |
+| tur-eng | tur.eng | 0.725 |
 | mul-eng | tur.eng | 0.580 |
 | mul-eng | tur.eng | 0.573 |
 | trk-trk | tur.eng | 0.554 |
@@ -5893,6 +5896,7 @@
 | tatoeba-lower | tur.rus | 0.359 |
 | tatoeba-lowest | tur.rus | 0.357 |
 | tatoeba-zero | tur.rus | 0.357 |
+| tur-spa | tur.spa | 0.727 |
 | tatoeba-zero | tur.spa | 0.534 |
 | tatoeba-lower | tur.spa | 0.529 |
 | tatoeba-lowest | tur.spa | 0.518 |

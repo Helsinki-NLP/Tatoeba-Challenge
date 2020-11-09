@@ -1550,6 +1550,7 @@
 | eng-tup | eng.grn | 0.098 |
 | eng-tup | eng.tpw | 0.085 |
 | eng-tup | eng.tpw | 0.077 |
+| eng-tur | eng.tur | 0.684 |
 | eng-tut | eng.tur | 0.623 |
 | eng-tut | eng.tur | 0.616 |
 | eng-tut | eng.aze | 0.580 |
@@ -4523,6 +4524,7 @@
 | spa-run | spa.run | 0.410 |
 | spa-tat | spa.tat | 0.163 |
 | spa-tgl | spa.tgl | 0.486 |
+| spa-tur | spa.tur | 0.712 |
 | spa-ukr | spa.ukr | 0.614 |
 | spa-vie | spa.vie | 0.508 |
 | sqi-eng | sqi.eng | 0.722 |
@@ -6019,8 +6021,10 @@
 | tur-bul | tur.bul | 0.644 |
 | tur-chv | tur.chv | 0.119 |
 | tur-crh | tur.crh | 0.137 |
+| tur-eng | tur.eng | 0.725 |
 | tur-epo | tur.epo | 0.373 |
 | tur-lit | tur.lit | 0.631 |
+| tur-spa | tur.spa | 0.727 |
 | tur-tat | tur.tat | 0.221 |
 | tur-uig | tur.uig | 0.126 |
 | tur-ukr | tur.ukr | 0.624 |

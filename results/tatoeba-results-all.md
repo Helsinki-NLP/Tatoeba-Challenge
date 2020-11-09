@@ -1322,14 +1322,19 @@ to be useful for anything.
 | [trk-trk/opus](../models/trk-trk) | tatoeba | 0.346 | 8.2 | 1.000 | 15504 |
 | [eng-tuk/opus](../models/eng-tuk) | tatoeba | 0.156 | 0.9 | 1.000 | 15504 |
 | | lang = eng-tur | | | | |
+| [eng-tur/opus](../models/eng-tur) | newsdev2016 | 0.564 | 20.9 | 1.000 | 16127 |
 | [tut-tut/opus](../models/tut-tut) | newsdev2016 | 0.372 | 7.4 | 0.859 | 16127 |
 | [trk-trk/opus](../models/trk-trk) | newsdev2016 | 0.370 | 7.6 | 0.839 | 16127 |
+| [eng-tur/opus](../models/eng-tur) | newstest2016 | 0.548 | 20.3 | 0.982 | 50782 |
 | [trk-trk/opus](../models/trk-trk) | newstest2016 | 0.355 | 7.0 | 0.817 | 50782 |
 | [tut-tut/opus](../models/tut-tut) | newstest2016 | 0.352 | 7.0 | 0.820 | 50782 |
+| [eng-tur/opus](../models/eng-tur) | newstest2017 | 0.551 | 20.8 | 0.957 | 51977 |
 | [trk-trk/opus](../models/trk-trk) | newstest2017 | 0.346 | 7.0 | 0.799 | 51977 |
 | [tut-tut/opus](../models/tut-tut) | newstest2017 | 0.345 | 6.7 | 0.810 | 51977 |
+| [eng-tur/opus](../models/eng-tur) | newstest2018 | 0.547 | 19.7 | 0.963 | 53731 |
 | [trk-trk/opus](../models/trk-trk) | newstest2018 | 0.353 | 7.3 | 0.799 | 53731 |
 | [tut-tut/opus](../models/tut-tut) | newstest2018 | 0.352 | 7.2 | 0.803 | 53731 |
+| [eng-tur/opus](../models/eng-tur) | tatoeba | 0.684 | 41.5 | 0.932 | 60469 |
 | [trk-trk/opus](../models/trk-trk) | tatoeba | 0.559 | 27.8 | 0.905 | 60469 |
 | [tut-tut/opus](../models/tut-tut) | tatoeba | 0.556 | 27.7 | 0.903 | 60469 |
 | | lang = eng-tvl | | | | |
@@ -3252,6 +3257,8 @@ to be useful for anything.
 | [spa-tat/opus](../models/spa-tat) | tatoeba | 0.163 | 2.7 | 1.000 | 2002 |
 | | lang = spa-tgl | | | | |
 | [spa-tgl/opus](../models/spa-tgl) | tatoeba | 0.486 | 13.7 | 1.000 | 8844 |
+| | lang = spa-tur | | | | |
+| [spa-tur/opus](../models/spa-tur) | tatoeba | 0.712 | 45.1 | 0.937 | 52245 |
 | | lang = spa-ukr | | | | |
 | [spa-ukr/opus](../models/spa-ukr) | tatoeba | 0.614 | 41.3 | 0.983 | 53833 |
 | | lang = spa-vie | | | | |
@@ -3490,14 +3497,19 @@ to be useful for anything.
 | [tut-tut/opus](../models/tut-tut) | tatoeba | 0.334 | 2.3 | 0.925 | 1052 |
 | [tur-crh/opus](../models/tur-crh) | tatoeba | 0.137 | 0.4 | 0.940 | 2104 |
 | | lang = tur-eng | | | | |
+| [tur-eng/opus](../models/tur-eng) | newsdev2016 | 0.546 | 27.9 | 0.927 | 22011 |
 | [tut-tut/opus](../models/tut-tut) | newsdev2016 | 0.371 | 12.0 | 0.831 | 22011 |
 | [trk-trk/opus](../models/trk-trk) | newsdev2016 | 0.365 | 11.7 | 0.816 | 22011 |
+| [tur-eng/opus](../models/tur-eng) | newstest2016 | 0.526 | 24.2 | 0.942 | 66175 |
 | [trk-trk/opus](../models/trk-trk) | newstest2016 | 0.360 | 10.7 | 0.840 | 66175 |
 | [tut-tut/opus](../models/tut-tut) | newstest2016 | 0.360 | 10.8 | 0.857 | 66175 |
+| [tur-eng/opus](../models/tur-eng) | newstest2017 | 0.533 | 24.9 | 0.943 | 67703 |
 | [tut-tut/opus](../models/tut-tut) | newstest2017 | 0.358 | 11.0 | 0.850 | 67703 |
 | [trk-trk/opus](../models/trk-trk) | newstest2017 | 0.356 | 10.9 | 0.844 | 67703 |
+| [tur-eng/opus](../models/tur-eng) | newstest2018 | 0.548 | 27.0 | 0.957 | 68725 |
 | [trk-trk/opus](../models/trk-trk) | newstest2018 | 0.359 | 11.2 | 0.843 | 68725 |
 | [tut-tut/opus](../models/tut-tut) | newstest2018 | 0.358 | 10.8 | 0.857 | 68725 |
+| [tur-eng/opus](../models/tur-eng) | tatoeba | 0.725 | 58.4 | 0.966 | 77701 |
 | [trk-trk/opus](../models/trk-trk) | tatoeba | 0.554 | 37.0 | 0.954 | 77701 |
 | [tut-tut/opus](../models/tut-tut) | tatoeba | 0.551 | 37.0 | 0.958 | 77701 |
 | | lang = tur-epo | | | | |
@@ -3533,6 +3545,8 @@ to be useful for anything.
 | | lang = tur-sah | | | | |
 | [tut-tut/opus](../models/tut-tut) | tatoeba | 0.010 | 7.3 | 0.931 | 15 |
 | [trk-trk/opus](../models/trk-trk) | tatoeba | 0.008 | 0.4 | 1.000 | 15 |
+| | lang = tur-spa | | | | |
+| [tur-spa/opus](../models/tur-spa) | tatoeba | 0.727 | 56.9 | 0.975 | 64184 |
 | | lang = tur-tat | | | | |
 | [trk-trk/opus](../models/trk-trk) | tatoeba | 0.352 | 10.6 | 1.000 | 2894 |
 | [tut-tut/opus](../models/tut-tut) | tatoeba | 0.343 | 10.7 | 1.000 | 2894 |

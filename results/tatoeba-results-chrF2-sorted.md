@@ -112,8 +112,10 @@
 | urj-urj | fin.est | 0.728 |
 | gem-eng | nld.eng | 0.727 |
 | gmw-gmw | afr.eng | 0.727 |
+| tur-spa | tur.spa | 0.727 |
 | eng-gem | eng.dan | 0.726 |
 | ine-eng | afr.eng | 0.725 |
+| tur-eng | tur.eng | 0.725 |
 | eng-gmq | eng.dan | 0.724 |
 | gem-gem | afr.eng | 0.724 |
 | ine-eng | afr.eng | 0.724 |
@@ -148,6 +150,7 @@
 | itc-eng | spa.eng | 0.712 |
 | itc-eng | spa.eng | 0.712 |
 | roa-eng | glg.eng | 0.712 |
+| spa-tur | spa.tur | 0.712 |
 | eng-gmq | eng.swe | 0.711 |
 | fiu-fiu | fin.est | 0.711 |
 | ine-eng | dan.eng | 0.711 |
@@ -293,6 +296,7 @@
 | sla-eng | ukr.eng | 0.685 |
 | ukr-pol | ukr.pol | 0.685 |
 | bat-eng | lit.eng | 0.684 |
+| eng-tur | eng.tur | 0.684 |
 | gem-gem | dan.deu | 0.684 |
 | gem-gem | eng.swe | 0.684 |
 | sla-sla | ces.rus | 0.684 |

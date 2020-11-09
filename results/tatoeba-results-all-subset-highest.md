@@ -252,14 +252,19 @@ to be useful for anything.
 | [gmq-gmq/opus](../models/gmq-gmq) | tatoeba | 0.712 | 57.3 | 0.969 | 65581 |
 | [gem-gem/opus](../models/gem-gem) | tatoeba | 0.684 | 53.7 | 0.969 | 65581 |
 | | lang = eng-tur | | | | |
+| [eng-tur/opus](../models/eng-tur) | newsdev2016 | 0.564 | 20.9 | 1.000 | 16127 |
 | [tut-tut/opus](../models/tut-tut) | newsdev2016 | 0.372 | 7.4 | 0.859 | 16127 |
 | [trk-trk/opus](../models/trk-trk) | newsdev2016 | 0.370 | 7.6 | 0.839 | 16127 |
+| [eng-tur/opus](../models/eng-tur) | newstest2016 | 0.548 | 20.3 | 0.982 | 50782 |
 | [trk-trk/opus](../models/trk-trk) | newstest2016 | 0.355 | 7.0 | 0.817 | 50782 |
 | [tut-tut/opus](../models/tut-tut) | newstest2016 | 0.352 | 7.0 | 0.820 | 50782 |
+| [eng-tur/opus](../models/eng-tur) | newstest2017 | 0.551 | 20.8 | 0.957 | 51977 |
 | [trk-trk/opus](../models/trk-trk) | newstest2017 | 0.346 | 7.0 | 0.799 | 51977 |
 | [tut-tut/opus](../models/tut-tut) | newstest2017 | 0.345 | 6.7 | 0.810 | 51977 |
+| [eng-tur/opus](../models/eng-tur) | newstest2018 | 0.547 | 19.7 | 0.963 | 53731 |
 | [trk-trk/opus](../models/trk-trk) | newstest2018 | 0.353 | 7.3 | 0.799 | 53731 |
 | [tut-tut/opus](../models/tut-tut) | newstest2018 | 0.352 | 7.2 | 0.803 | 53731 |
+| [eng-tur/opus](../models/eng-tur) | tatoeba | 0.684 | 41.5 | 0.932 | 60469 |
 | [trk-trk/opus](../models/trk-trk) | tatoeba | 0.559 | 27.8 | 0.905 | 60469 |
 | [tut-tut/opus](../models/tut-tut) | tatoeba | 0.556 | 27.7 | 0.903 | 60469 |
 | | lang = eng-zho | | | | |
@@ -276,6 +281,8 @@ to be useful for anything.
 | [heb-rus/opus](../models/heb-rus) | tatoeba | 0.599 | 40.5 | 0.963 | 16583 |
 | | lang = pol-rus | | | | |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.670 | 48.2 | 0.988 | 22067 |
+| | lang = spa-tur | | | | |
+| [spa-tur/opus](../models/spa-tur) | tatoeba | 0.712 | 45.1 | 0.937 | 52245 |
 | | lang = zho-zho | | | | |
 | [zhx-zhx/opus](../models/zhx-zhx) | tatoeba | 0.102 | 14.1 | 0.951 | 29103 |
 | [sit-sit/opus](../models/sit-sit) | tatoeba | 0.099 | 13.1 | 0.943 | 29103 |

@@ -2292,6 +2292,7 @@
 | eng-tut | eng.tuk | 5.6 | 34.1/9.0/3.0/1.1 (BP = 1.000 ratio = 1.054 hyp_len = 16338 ref_len = 15504) |
 | eng-trk | eng.tuk | 5.5 | 32.5/8.2/2.9/1.2 (BP = 1.000 ratio = 1.067 hyp_len = 16541 ref_len = 15504) |
 | eng-tuk | eng.tuk | 0.9 | 21.3/1.5/0.3/0.1 (BP = 1.000 ratio = 1.008 hyp_len = 15628 ref_len = 15504) |
+| eng-tur | eng.tur | 41.5 | 72.9/50.2/37.5/28.5 (BP = 0.932 ratio = 0.934 hyp_len = 56491 ref_len = 60469) |
 | eng-tut | eng.tur | 34.2 | 69.3/44.2/30.8/22.1 (BP = 0.899 ratio = 0.903 hyp_len = 54627 ref_len = 60469) |
 | eng-trk | eng.tur | 33.4 | 68.9/43.4/30.1/21.3 (BP = 0.898 ratio = 0.903 hyp_len = 54595 ref_len = 60469) |
 | eng-tut | eng.tur | 33.2 | 68.6/43.2/29.9/21.1 (BP = 0.898 ratio = 0.903 hyp_len = 54606 ref_len = 60469) |
@@ -5504,6 +5505,7 @@
 | spa-tgl | spa.tgl | 13.7 | 35.2/17.2/10.1/5.8 (BP = 1.000 ratio = 1.575 hyp_len = 13929 ref_len = 8844) |
 | tatoeba-lower | spa.tgl | 13.6 | 46.1/18.9/9.2/4.3 (BP = 1.000 ratio = 1.100 hyp_len = 4863 ref_len = 4422) |
 | tatoeba-zero | spa.toki | 0.1 | 11.2/0.1/0.0/0.0 (BP = 1.000 ratio = 1.019 hyp_len = 4432 ref_len = 4348) |
+| spa-tur | spa.tur | 45.1 | 74.6/53.6/41.5/32.4 (BP = 0.937 ratio = 0.939 hyp_len = 49036 ref_len = 52245) |
 | tatoeba-zero | spa.tur | 26.8 | 62.2/35.4/23.0/15.5 (BP = 0.900 ratio = 0.905 hyp_len = 47271 ref_len = 52245) |
 | tatoeba-lower | spa.tur | 26.5 | 62.2/35.2/22.6/15.2 (BP = 0.902 ratio = 0.907 hyp_len = 47370 ref_len = 52245) |
 | tatoeba-lowest | spa.tur | 26.1 | 61.6/34.8/22.4/14.9 (BP = 0.898 ratio = 0.903 hyp_len = 47172 ref_len = 52245) |
@@ -5742,6 +5744,7 @@
 | tatoeba-lowest | tur.deu | 24.5 | 59.2/31.0/19.5/13.1 (BP = 0.940 ratio = 0.941 hyp_len = 36792 ref_len = 39079) |
 | tatoeba-lower | tur.deu | 24.3 | 58.6/30.5/19.0/12.7 (BP = 0.949 ratio = 0.950 hyp_len = 37119 ref_len = 39079) |
 | tatoeba-zero | tur.deu | 24.0 | 58.5/30.3/18.8/12.5 (BP = 0.945 ratio = 0.947 hyp_len = 36991 ref_len = 39079) |
+| tur-eng | tur.eng | 58.4 | 81.6/65.4/54.6/46.0 (BP = 0.966 ratio = 0.966 hyp_len = 75096 ref_len = 77701) |
 | mul-eng | tur.eng | 41.6 | 70.2/48.1/36.1/27.5 (BP = 0.972 ratio = 0.972 hyp_len = 75543 ref_len = 77701) |
 | mul-eng | tur.eng | 40.5 | 69.3/46.9/34.8/26.3 (BP = 0.975 ratio = 0.976 hyp_len = 75814 ref_len = 77701) |
 | trk-trk | tur.eng | 37.0 | 69.2/45.0/31.8/22.8 (BP = 0.954 ratio = 0.955 hyp_len = 74228 ref_len = 77701) |
@@ -5795,6 +5798,7 @@
 | tatoeba-lower | tur.rus | 15.5 | 50.4/20.2/10.9/6.2 (BP = 0.957 ratio = 0.958 hyp_len = 31739 ref_len = 33126) |
 | tatoeba-lowest | tur.rus | 15.5 | 50.0/20.1/10.9/6.2 (BP = 0.957 ratio = 0.958 hyp_len = 31741 ref_len = 33126) |
 | tatoeba-zero | tur.rus | 15.3 | 49.8/20.0/10.7/6.0 (BP = 0.962 ratio = 0.963 hyp_len = 31893 ref_len = 33126) |
+| tur-spa | tur.spa | 56.9 | 79.9/63.1/52.4/44.1 (BP = 0.975 ratio = 0.975 hyp_len = 62608 ref_len = 64184) |
 | tatoeba-zero | tur.spa | 32.3 | 64.3/39.0/26.6/18.2 (BP = 0.972 ratio = 0.973 hyp_len = 62429 ref_len = 64184) |
 | tatoeba-lower | tur.spa | 32.1 | 64.1/38.8/26.3/18.0 (BP = 0.974 ratio = 0.974 hyp_len = 62532 ref_len = 64184) |
 | tatoeba-lowest | tur.spa | 30.7 | 63.8/37.6/25.2/17.1 (BP = 0.965 ratio = 0.965 hyp_len = 61947 ref_len = 64184) |

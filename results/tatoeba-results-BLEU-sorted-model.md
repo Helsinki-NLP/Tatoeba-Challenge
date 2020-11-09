@@ -1514,6 +1514,7 @@
 | eng-tup | eng.grn | 0.1 | 7.9/0.1/0.0/0.0 (BP = 1.000 ratio = 1.498 hyp_len = 1667 ref_len = 1113) |
 | eng-tup | eng.grn | 0.1 | 8.3/0.1/0.0/0.0 (BP = 1.000 ratio = 1.727 hyp_len = 1922 ref_len = 1113) |
 | eng-tup | eng.tpw | 0.1 | 6.9/0.1/0.0/0.0 (BP = 1.000 ratio = 1.810 hyp_len = 782 ref_len = 432) |
+| eng-tur | eng.tur | 41.5 | 72.9/50.2/37.5/28.5 (BP = 0.932 ratio = 0.934 hyp_len = 56491 ref_len = 60469) |
 | eng-tut | eng.tur | 34.2 | 69.3/44.2/30.8/22.1 (BP = 0.899 ratio = 0.903 hyp_len = 54627 ref_len = 60469) |
 | eng-tut | eng.tur | 33.2 | 68.6/43.2/29.9/21.1 (BP = 0.898 ratio = 0.903 hyp_len = 54606 ref_len = 60469) |
 | eng-tut | eng.aze | 27.5 | 60.3/33.4/20.8/13.7 (BP = 1.000 ratio = 1.015 hyp_len = 13205 ref_len = 13012) |
@@ -4448,6 +4449,7 @@
 | spa-run | spa.run | 10.1 | 39.0/13.5/6.3/3.1 (BP = 1.000 ratio = 1.207 hyp_len = 4689 ref_len = 3886) |
 | spa-tat | spa.tat | 2.7 | 24.8/2.7/1.0/0.8 (BP = 1.000 ratio = 1.223 hyp_len = 2449 ref_len = 2002) |
 | spa-tgl | spa.tgl | 13.7 | 35.2/17.2/10.1/5.8 (BP = 1.000 ratio = 1.575 hyp_len = 13929 ref_len = 8844) |
+| spa-tur | spa.tur | 45.1 | 74.6/53.6/41.5/32.4 (BP = 0.937 ratio = 0.939 hyp_len = 49036 ref_len = 52245) |
 | spa-ukr | spa.ukr | 41.3 | 72.0/47.0/34.6/26.6 (BP = 0.983 ratio = 0.984 hyp_len = 52945 ref_len = 53833) |
 | spa-vie | spa.vie | 33.1 | 67.7/40.9/26.7/17.6 (BP = 0.980 ratio = 0.980 hyp_len = 4560 ref_len = 4654) |
 | sqi-eng | sqi.eng | 56.8 | 82.0/65.9/54.2/44.4 (BP = 0.947 ratio = 0.948 hyp_len = 7359 ref_len = 7762) |
@@ -5923,8 +5925,10 @@
 | tur-bul | tur.bul | 47.3 | 78.2/56.5/44.0/34.6 (BP = 0.930 ratio = 0.932 hyp_len = 5920 ref_len = 6352) |
 | tur-chv | tur.chv | 0.2 | 14.9/0.2/0.0/0.0 (BP = 1.000 ratio = 1.185 hyp_len = 3058 ref_len = 2581) |
 | tur-crh | tur.crh | 0.4 | 23.3/0.3/0.1/0.1 (BP = 0.940 ratio = 0.942 hyp_len = 1982 ref_len = 2104) |
+| tur-eng | tur.eng | 58.4 | 81.6/65.4/54.6/46.0 (BP = 0.966 ratio = 0.966 hyp_len = 75096 ref_len = 77701) |
 | tur-epo | tur.epo | 17.0 | 54.2/24.1/13.5/7.8 (BP = 0.881 ratio = 0.888 hyp_len = 29975 ref_len = 33762) |
 | tur-lit | tur.lit | 35.6 | 69.7/43.4/30.2/21.7 (BP = 0.949 ratio = 0.950 hyp_len = 7869 ref_len = 8285) |
+| tur-spa | tur.spa | 56.9 | 79.9/63.1/52.4/44.1 (BP = 0.975 ratio = 0.975 hyp_len = 62608 ref_len = 64184) |
 | tur-tat | tur.tat | 2.5 | 19.3/4.2/1.3/0.4 (BP = 1.000 ratio = 1.633 hyp_len = 4725 ref_len = 2894) |
 | tur-uig | tur.uig | 0.0 | 1.2/0.0/0.0/0.0 (BP = 1.000 ratio = 2.117 hyp_len = 15872 ref_len = 7497) |
 | tur-ukr | tur.ukr | 42.5 | 73.4/48.3/35.9/27.4 (BP = 0.983 ratio = 0.983 hyp_len = 12772 ref_len = 12988) |

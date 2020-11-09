@@ -399,6 +399,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-20.zip	eng-trk	en-trk
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-27.zip	eng-trk	en-trk	0.447	18.8	1.000	57072	English	Turkic languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus2m-2020-08-01.zip	eng-trk	en-trk	0.455	19.9	1.000	57072	English	Turkic languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	eng-tuk	en-tk	0.156	0.9	1.000	15504	English	Turkmen
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-11-09.zip	eng-tur	en-tr	0.684	41.5	0.932	60469	English	Turkish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-06.zip	eng-tut	en-tut	0.431	17.5	1.000	57472	English	Altaic languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-14.zip	eng-tut	en-tut	0.439	18.2	1.000	57472	English	Altaic languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-20.zip	eng-tut	en-tut	0.441	18.4	1.000	57472	English	Altaic languages
@@ -883,6 +884,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-nor	es-no	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-run	es-rn	0.410	10.1	1.000	3886	Spanish	Rundi
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-tat	es-tt	0.163	2.7	1.000	2002	Spanish	Tatar
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-tgl	es-tl	0.486	13.7	1.000	8844	Spanish	Tagalog
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-11-09.zip	spa-tur	es-tr	0.712	45.1	0.937	52245	Spanish	Turkish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-ukr	es-uk	0.614	41.3	0.983	53833	Spanish	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-vie	es-vi	0.508	33.1	0.980	4654	Spanish	Vietnamese
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	sqi-eng	sq-en	0.722	56.8	0.947	7762	Albanian	English
@@ -917,8 +919,10 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	tuk-eng	tk-en	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	tur-ara	tr-ar	0.455	14.9	0.988	6944	Turkish	Arabic
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	tur-chv	tr-cv	0.119	0.2	1.000	2581	Turkish	Chuvash
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	tur-crh	tr-crh	0.137	0.4	0.940	2104	Turkish	Crimean Tatar
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-11-09.zip	tur-eng	tr-en	0.725	58.4	0.966	77701	Turkish	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	tur-epo	tr-eo	0.373	17.0	0.881	33762	Turkish	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	tur-lit	tr-lt	0.631	35.6	0.949	8285	Turkish	Lithuanian
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-11-09.zip	tur-spa	tr-es	0.727	56.9	0.975	64184	Turkish	Spanish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	tur-tat	tr-tt	0.221	2.5	1.000	2894	Turkish	Tatar
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	tur-uig	tr-ug	0.126	0.0	1.000	7497	Turkish	Uighur
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	tur-ukr	tr-uk	0.624	42.5	0.983	12988	Turkish	Ukrainian
