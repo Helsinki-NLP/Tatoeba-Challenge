@@ -52,19 +52,19 @@ while (<$S>){
 
 my $TotalSmall = scalar keys %SentPairs;
 if ($total){
-    printf "source exists in big\t%d\t%5.2f\%\n",$SrcExists,100*$SrcExists/$total;
-    printf "target exists in big\t%d\t%5.2f\%\n",$TrgExists,100*$TrgExists/$total;
-    printf "  pair exists in big\t%d\t%5.2f\%\n",$PairExists,100*$PairExists/$total;
-    print "     total big\t",$total,"\n";
+    printf "source sentences from train found in devtest\t%d\t%5.2f\%\n",$SrcExists,100*$SrcExists/$total;
+    printf "target sentences from train found in devtest\t%d\t%5.2f\%\n",$TrgExists,100*$TrgExists/$total;
+    printf "  sentence pairs from train found in devtest\t%d\t%5.2f\%\n",$PairExists,100*$PairExists/$total;
+    print "total size of training data\t",$total,"\n";
 }
 if ($TotalSmall){
     my $SrcExistsSmall = scalar keys %SrcUniqueExists;
     my $TrgExistsSmall = scalar keys %TrgUniqueExists;
     my $PairExistsSmall = scalar keys %PairUniqueExists;
-    printf "source from small exists\t%d\t%5.2f\%\n",$SrcExistsSmall,100*$SrcExistsSmall/$TotalSmall;
-    printf "target from small exists\t%d\t%5.2f\%\n",$TrgExistsSmall,100*$TrgExistsSmall/$TotalSmall;
-    printf "  pair from small exists\t%d\t%5.2f\%\n",$PairExistsSmall,100*$PairExistsSmall/$TotalSmall;
-    print "              total small\t",$TotalSmall,"\n";
+    printf "source sentences from devtest found in train\t%d\t%5.2f\%\n",$SrcExistsSmall,100*$SrcExistsSmall/$TotalSmall;
+    printf "target sentences from devtest found in train\t%d\t%5.2f\%\n",$TrgExistsSmall,100*$TrgExistsSmall/$TotalSmall;
+    printf "  sentence pairs from devtest found in train\t%d\t%5.2f\%\n",$PairExistsSmall,100*$PairExistsSmall/$TotalSmall;
+    print "total size of devtest data\t",$TotalSmall,"\n";
 }
 
 
