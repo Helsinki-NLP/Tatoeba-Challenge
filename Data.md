@@ -1,4 +1,4 @@
-# Tatoeba Challenge Data
+# Tatoeba Challenge Data - v2020-07-28
 
 | lang-pair |    test    |    dev     |    train   |
 |-----------|------------|------------|------------|

@@ -184,12 +184,13 @@ NEW_TRAIN_IDS = ${patsubst ${TESTDATADIR}/%.ids.gz,${TESTDATADIR}/%.id.gz,${wild
 
 
 
-.PHONY: all data testdata devdata traindata test-tsv dev-tsv
+.PHONY: all data testdata devdata traindata statistics test-tsv dev-tsv
 .PHONY: upload upload-test upload-devtest upload-train upload-mono
 .PHONY: extra-traindata extra-statistics extra-upload
 .PHONY: update update-testdata
 
 all: opus-langs.txt
+	${MAKE} update
 	${MAKE} dev-tsv test-tsv
 	${MAKE} Data.md
 	${MAKE} subsets
@@ -550,7 +551,7 @@ Data.md: Data-${VERSION}.md
 ## statistics of the data sets
 ${STATISTICS}:
 	mkdir -p $(dir $@)
-	echo "# Tatoeba Challenge Data" > $@
+	echo "# Tatoeba Challenge Data - ${VERSION}" > $@
 	echo "" >> $@
 	echo "| lang-pair |    test    |    dev     |    train   |" >> $@
 	echo "|-----------|------------|------------|------------|" >> $@
@@ -653,7 +654,7 @@ Wiki-${VERSION}.md:
 MonolingualData.md: MonolingualData-${VERSION}.md
 
 MonolingualData-${VERSION}.md:
-	echo "# Tatoeba Challenge Data - Monolingual data sets" > $@
+	echo "# Tatoeba Challenge Data - Monolingual data sets - ${VERSION}" > $@
 	echo "" >> $@
 	echo "This is part of the "                     >> $@
 	echo "[Tatoeba Translation Challenge Data set](https://github.com/Helsinki-NLP/Tatoeba-Challenge)." >> $@
@@ -709,7 +710,7 @@ subsets/%.md: subsets/${VERSION}/%.md
 
 subsets/${VERSION}/%.md: ${STATISTICS}
 	mkdir -p ${dir $@}
-	@echo "# Tatoeba Challenge Data" > $@
+	@echo "# Tatoeba Challenge Data - ${VERSION}" > $@
 	@echo "" >> $@
 	@echo "This is the \"${patsubst %.md,%,${notdir $@}}\" sub-set of the Tatoeba data." >> $@
 	@echo "Download the data files from the link in the table below." >> $@
