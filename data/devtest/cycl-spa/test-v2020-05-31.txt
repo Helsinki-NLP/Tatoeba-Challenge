@@ -1,0 +1,2 @@
+cycl_Latn	spa	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	Me llamo Jack.
+cycl_Latn	spa	(not (languageSpoken (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) JapaneseLanguage))	No hablo japonés.

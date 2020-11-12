@@ -3,8 +3,8 @@
 
 A new challenge set for machine translation covering over 500 languages and thousands of language pairs.
 
-* Realistic low-resource scenarios
-* [Training, development and test data](Data.md)
+* Benchmark for realistic low-resource scenarios
+* [Training, development and test data](Data.md) (complete [devtest data set](https://object.pouta.csc.fi/Tatoeba-Challenge/devtest.tar) with updates)
 * [Additional bilingual](subsets/NoTestData.md) and [monolingual data sets](MonolingualData.md)
 * [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-all.md) ([training procedures](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md))
 * [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
@@ -60,6 +60,8 @@ data/deu-eng/test.id
 Files with the extension `.src` refer to sentences in the source language (`deu` in this case) and files with extension `.trg` contain sentences in the target laguage (`eng` here). File with extension `.id` include the ISO-639-3 language labels with possibly extensions about the orthographic script and information about regional variants. In the `.id` file for the training data there are also labels for the OPUS corpus the sentences come from.
 
 Other notes about the compilation of the data sets can be found in [Development.md](Development.md) and the complete lists of language pairs is in [Data.md](Data.md).
+
+New releases are planned in the future and will be announced here. Development and test data will be updated regularly but the original test sets will stay in the release. Updates of the test data will be available through this [devtest release](https://object.pouta.csc.fi/Tatoeba-Challenge/devtest.tar) and will not include any examples available in development data. Those data sets are also available from this git repository in the sub directory [data/devtest/](tree/master/data/devtest).
 
 
 ## The translation challenge

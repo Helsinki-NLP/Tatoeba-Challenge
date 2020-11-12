@@ -1,0 +1,1251 @@
+run	rus	Urabona iyi nzu? Ni rwanje.	Видишь этот дом? Он мой.
+run	rus	Reka ndakugurire gishasha.	Давай я куплю тебе новую.
+run	rus	Mwahuye?	Ты с ним встретился?
+run	rus	Nshaka kuganira nawe.	Я хочу поговорить с тобой.
+run	rus	Ndakwumviriza.	Я тебя слушаю.
+run	rus	Bite uyu munsi?	Как ты сегодня?
+run	rus	Sinzi ico nshaka.	Я не знаю, чего хочу.
+run	rus	Waciye ku kimenyetso c'itara ritukura.	Ты на красный проехала.
+run	rus	Ndabasavye, mumpe ifagitiri.	Простите, можно мне счёт?
+run	rus	Ntegerezwa gutaha.	Мне надо домой.
+run	rus	Ntanumwe azi ibikenewe gukorwa.	Никто не знает, что делать.
+run	rus	Nzobiguha.	Я дам это тебе.
+run	rus	Kubera iki mumbaza?	Почему вы спрашиваете меня?
+run	rus	Urarurumba.	У тебя температура.
+run	rus	Ntaco nywa.	Я ничего не пью.
+run	rus	Ufise bazoka mu kanwa, yicire.	Если у тебя во рту жвачка, выплюнь её.
+run	rus	Wifashe gute?	Ты в форме?
+run	rus	Ingo!	Иди сюда!
+run	rus	Urashaka ko nza?	Хочешь, чтобы я пришла?
+run	rus	We si umwana.	Она не ребёнок.
+run	rus	Uragenda canke?	Ты идёшь или нет?
+run	rus	Nagira ngo woba watashe.	Я думал, ты пошёл домой.
+run	rus	Urashaka ko nza?	Ты хочешь, чтобы я пришёл?
+run	rus	Igituma c'urugendo rwanyu ni nyabaki?	Какова цель вашей поездки?
+run	rus	Nyene uyu muduga ni data wanje.	Это автомобиль моего отца.
+run	rus	Harashushe cane, sivyo?	Очень жарко, правда?
+run	rus	Sindagutegera.	Я тебя не понимаю.
+run	rus	Sinkunda kwiruka.	Я не люблю бегать.
+run	rus	Ntundabe gutyo.	Не смотри на меня так.
+run	rus	Biragushimishije?	Ты этим довольна?
+run	rus	Kubera iki mbwirizwa kugenda.	Почему я должен идти?
+run	rus	Kubera iki utari kw ishure?	Почему ты не в школе?
+run	rus	Ndakwiyumvira.	Думаю о тебе.
+run	rus	Bite uyu munsi?	Как Вы сегодня?
+run	rus	Sindi umuntu mwiza.	Я нехороший человек.
+run	rus	Urihe?	Ты где?
+run	rus	Naguze amagi n'amata make.	Я купил несколько яиц и немного молока.
+run	rus	Ugurura idirisha.	Открой окно.
+run	rus	Ntutegerejwe kuza.	Тебе необязательно приходить.
+run	rus	Ndazi ingene umuntu ashikayo.	Я знаю, как добраться туда.
+run	rus	Turavukana.	Мы брат и сестра.
+run	rus	Bagutwaraye hehe?	Куда они тебя ведут?
+run	rus	Ndakunda kuza ino.	Я люблю сюда приходить.
+run	rus	Nahaye umuhungu igitabo.	Я дала мальчику книгу.
+run	rus	Ndazi iyo mbwirizwa kuja.	Я знаю, куда идти.
+run	rus	Ni binini birenze?	Слишком большой?
+run	rus	Ntukomeye muri vyo.	Ты в этом не сильна.
+run	rus	Uyu muduga ni mwiza cane.	Это очень хорошая машина.
+run	rus	Iri jambo riva mu kigereki.	Это слово пришло из греческого языка.
+run	rus	Urazi ko mbwirizwa kugenda.	Ты знаешь, что мне надо идти.
+run	rus	Narinzi ko bigushimisha.	Я знал, что ты будешь счастлив.
+run	rus	Uyu muvinyu ni uwande?	Чьё это вино?
+run	rus	Ushaka kuja hehe?	Куда хочешь пойти?
+run	rus	Ntugende zirayoye.	Не уходи с пустыми руками.
+run	rus	Sinzi gute.	Я не знаю как.
+run	rus	Ndazi ko wumviriza.	Я знаю, что ты слушаешь.
+run	rus	Iki ciyumviro cari icande?	Чья это была идея?
+run	rus	Mbabarira ko nagutaye mu rudubi.	Прости, что втянул тебя во всё это.
+run	rus	Nkeneye umwanya wo kwiyumvira.	Мне нужно время подумать.
+run	rus	Ndazi uvyirumvira.	Я знаю, о чём ты думаешь.
+run	rus	Ndiko nduhuka.	Я отдыхаю.
+run	rus	Noshimishwa no kumenya izina ryawe.	Я хочу знать твоё имя.
+run	rus	Iyi hinguriro rikora ivyuma vy'imiduga.	Этот завод производит автозапчасти.
+run	rus	Kubera iki bari aha?	Почему они здесь?
+run	rus	Umuvyeyi wanje arankunda.	Моя мать любит меня.
+run	rus	Ni rwacu.	Это наша.
+run	rus	Uranezereza.	Ты меня радуешь.
+run	rus	Urambabarira ko ndabivuze.	Мне жаль, что я это сказала.
+run	rus	Twugurure idirisha!	Давай откроем окно.
+run	rus	Ntimukeneye gunkengurukira.	Не стоит благодарности.
+run	rus	Ndanezerewe ko uhari.	Я рад, что ты здесь.
+run	rus	Murashaka kubitora?	Вы хотите взять это?
+run	rus	Nje gusezera.	Я пришла попрощаться.
+run	rus	Uranhunga ko ndabivuze.	Мне жаль, что я это сказала.
+run	rus	Ni umuduga wanje mushasha.	Это моя новая машина.
+run	rus	Ndanezerewe ko uhari.	Я счастлива, что ты здесь.
+run	rus	Biranyuze.	Я этим довольна.
+run	rus	Ico gisa n'ivu naco nyene ni rwanje.	Та коричневая тоже моя.
+run	rus	Sinshaka gutunga.	Я не хочу быть богатой.
+run	rus	Ntanumwe yarazi ibikenewe kurangurwa.	Никто не знал, что делать.
+run	rus	Uribuka?	Ты помнишь?
+run	rus	Mpore ko ndabivuze.	Прости, что я это сказал.
+run	rus	Mpore ko ndabivuze.	Прости, что я это сказала.
+run	rus	Si neza.	Это не есть хорошо.
+run	rus	Ukora iki ngaha?	Что ты здесь делаешь?
+run	rus	Uramuzi.	Ты её знаешь.
+run	rus	Asa na nyina wiwe.	Он похож на мать.
+run	rus	Nta wundi muntu yarahari kiretse jewe.	Здесь никого не было, кроме меня.
+run	rus	Biragushimisha?	Тебе это нравится?
+run	rus	Utaha ryari?	Когда идёшь домой?
+run	rus	Ntimukeneye gunkengurukira.	Не надо меня благодарить.
+run	rus	Murazi aho mba?	Вы знаете, где я живу?
+run	rus	Nta mahera tugifise.	У нас закончились деньги.
+run	rus	Yamoye umutwe wiwe.	Она побрила голову.
+run	rus	Uzi iki?	Что ты знаешь?
+run	rus	Nganirira umugambi wawe.	Расскажи мне о своём плане.
+run	rus	Ntusubire kubikora.	Больше так не делай.
+run	rus	Sinzi aho muba.	Я не знаю, где Вы живёте.
+run	rus	Uvyuka ryari?	Когда ты встаёшь?
+run	rus	Ico gisa n'ivu naco nyene ni rwanje.	То коричневое тоже моё.
+run	rus	Uri ngaha kugira umbone?	Ты здесь, чтобы увидеться со мной?
+run	rus	Ndazi ibikenewe gukorwa.	Я знаю, что мне надо делать.
+run	rus	Ndazi kubikora.	Я знаю, как это делается.
+run	rus	Umuduga wanje urihe?	Где мой автомобиль?
+run	rus	Uramuzi?	Ты её знаешь?
+run	rus	Mbe nambare iki - ipantalo canke ijipo?	Что мне надеть — брюки или юбку?
+run	rus	Ndazi ico wiyumvira.	Я знаю, о чём ты думаешь.
+run	rus	Birampimbaza.	Это меня радует.
+run	rus	Kubera iki ujaho?	Почему ты идёшь туда?
+run	rus	Uranezerewe?	Ты счастлив?
+run	rus	Iyi nomero ya terefone ni iyande?	Чей это номер телефона?
+run	rus	Igitabo kirihe?	Где книга?
+run	rus	Mpa isaha yawe.	Дай мне свои часы.
+run	rus	Kubera iki umbaza?	Почему ты меня спрашиваешь?
+run	rus	Umuduga wanje wapfuye.	Моя машина сломалась.
+run	rus	Sinzi ingene witwa.	Я не знаю, как тебя зовут.
+run	rus	Yamugomwe.	Он в неё влюблён.
+run	rus	Abo ni abajapani?	Они японки?
+run	rus	Ndamukunda.	Я люблю её.
+run	rus	Ntitwumva igifaransa.	Мы не понимаем по-французски.
+run	rus	Ndamubonye.	Я его видел.
+run	rus	Nagira ngo urabizi.	Я думал, ты знаешь.
+run	rus	Ni umufaransa.	Она француженка.
+run	rus	Mwebwe muri abana.	Вы дети.
+run	rus	Mukunda gusoma ubwoko bw'ibitabo ibihe?	Какие книги вы любите читать?
+run	rus	Mvyuka isaha imwe zo mugitondo.	Я встаю в семь.
+run	rus	Kubera iki utumviriza?	Ты почему не слушаешь?
+run	rus	Usa n'umupolisi!	Ты похож на полицейского.
+run	rus	Twashitse.	Мы приехали.
+run	rus	Si vyiza.	Это не есть хорошо.
+run	rus	Mvuga ico niyumvira.	Я говорю, что думаю.
+run	rus	Kubera iki tudataha imuhira?	Почему бы нам не пойти домой?
+run	rus	Ndashobora kubibona kandi?	Можно мне ещё раз посмотреть?
+run	rus	Wibaza ko ico ariki?	Что это, по-твоему?
+run	rus	Amakuru maki?	Какие новости?
+run	rus	Bambonye.	Они увидели меня.
+run	rus	Umuryango wawe uri hehe?	Где твоя семья?
+run	rus	Uri umuntu mwiza.	Ты хороший человек.
+run	rus	Arazi ko umukunda?	Он знает, что ты его любишь?
+run	rus	Ndi mu gikoni.	Я на кухне.
+run	rus	Urazi ico yavuze?	Ты знаешь, что он сказал?
+run	rus	Ntibashaka ko tubimenya.	Они не хотят, чтобы мы знали.
+run	rus	Ndazi ko ubifise.	Я знаю, что оно у тебя.
+run	rus	Ibi bitabo ni rwacu.	Эти книги наши.
+run	rus	Urakunda kwiga?	Ты любишь учиться?
+run	rus	Sindakunda kwiga.	Я не люблю учиться.
+run	rus	Sinshaka guteka.	Я не хочу готовить.
+run	rus	Igitwazi kirasimba.	Конь прыгает.
+run	rus	Uyu muhungu ni mwenebabo.	Этот мальчик — его брат.
+run	rus	Nta numwe ahari!	Здесь никого нет.
+run	rus	Tuzongera ku wambere.	В понедельник увидимся.
+run	rus	Ni vyiza uko biri.	Так хорошо.
+run	rus	Turi ngaha kubera wewe.	Мы здесь из-за тебя.
+run	rus	Araguzi?	Она знает тебя?
+run	rus	Urabinyemereye?	Ты мне это обещаешь?
+run	rus	Mvyuka isaha imwe zo mugitondo.	Я встаю в 7.
+run	rus	Uvyuka ryari?	Ты когда встаёшь?
+run	rus	Urazi ico ubwirizwa kugira?	Ты знаешь, что делать?
+run	rus	Sinkora uko.	Я так не работаю.
+run	rus	Reka nje kugura umukate.	Давай я схожу за хлебом.
+run	rus	Biranyuze.	Я этим доволен.
+run	rus	Uri iwawe?	Ты дома?
+run	rus	Ivyo ni vy'umugenzi wanje.	Это для моей подруги.
+run	rus	Kuki utaja imuhira?	Почему бы тебе не пойти домой?
+run	rus	Nariye amagi ejo.	Вчера я ел яйца.
+run	rus	Magdalena na Ania ni abagenzi pfampfe.	Магдалена и Аня - хорошие друзья.
+run	rus	Ndazi ico wiyumvira.	Я знаю, что ты думаешь.
+run	rus	Uranezerewe?	Ты счастлива?
+run	rus	Sinshobora kuvuga ko bimbabaje.	Не могу сказать, что мне жаль.
+run	rus	Ni rwacu.	Это наш.
+run	rus	Ndazi neza ko hari aho maze kumubona.	Я уверена, что где-то его уже видела.
+run	rus	Ntiwibagire gutwara ikete.	Не забудь отправить письмо.
+run	rus	Nirukiye kwa mama.	Я побежал к матери.
+run	rus	Nanje.	Я тоже.
+run	rus	Arakunda gusoma ibitabo.	Она любит читать книги.
+run	rus	Sinzi iryo jambo.	Я не знаю этого слова.
+run	rus	Umuduga wapfuye.	Машина сломалась.
+run	rus	Mbwirizwa kwiyumvira.	Мне надо подумать.
+run	rus	Ndazi ingene bigirwa.	Я знаю, как это сделать.
+run	rus	Raba hariya!	Смотри туда.
+run	rus	Ndazi ibikenewe gukorwa.	Я знаю, что мне нужно делать.
+run	rus	Turabizi.	Мы это знаем.
+run	rus	Araguzi?	Она тебя знает?
+run	rus	Ntaco ndabiziko.	Я об этом ничего не знаю.
+run	rus	Ishure riraheze.	Уроки закончились.
+run	rus	Ntaco.	Ничего!
+run	rus	Ndazi ingene bikorwa.	Я знаю, как это сделать.
+run	rus	Twama dukina ku munsi w'Imana.	Мы играем по воскресеньям.
+run	rus	Ntanumwe antega ugutwi.	Меня никто не слушает.
+run	rus	Simbikeneye.	Мне это не нужно.
+run	rus	Murashaka kubitwara?	Вы хотите взять это?
+run	rus	Yama ata mobile yiwe.	Он все время теряет свой сотовый.
+run	rus	Waciye ku kimenyetso gitukura.	Ты на красный проехала.
+run	rus	Ndashaka kubana na wewe.	Я хочу жить с тобой.
+run	rus	Ntimubitegera?	Вы этого не понимаете?
+run	rus	Ushaka ko ndagusigira irangi ku nzara zawe?	Хочешь, я тебе ногти покрашу?
+run	rus	Ndafise amahera.	У меня есть деньги.
+run	rus	Si ikintu co kwishima.	Это не то, чем можно хвастаться.
+run	rus	Uraba iki?	Что ты смотришь?
+run	rus	Tega amatwi!	Слушай!
+run	rus	Ndamubaza.	Я у него спрошу.
+run	rus	Urazi ico bashaka?	Ты знаешь, чего они хотят?
+run	rus	Ntanumwe antegura.	Никто меня не понимает.
+run	rus	Iciyumviro nyabaki!	Какая мысль!
+run	rus	Ikiganza gifise intoki zitanu: urukumu, inkombarukoko, msumba zose, igihugunibenga, agahererezi.	На руке есть пять пальцев: большой, указательный, средний, безымянный и мизинец.
+run	rus	Uko ni vyiza gusumba?	Так лучше?
+run	rus	Ndazi ko utega ugutwi.	Я знаю, что ты слушаешь.
+run	rus	Amahera yarampereyeko.	У меня деньги кончились.
+run	rus	Muri beza cane gwose.	Они очень-очень хорошие.
+run	rus	Bigurwa angahe?	Сколько стоит?
+run	rus	Ndakunda imishatsi migufi.	Мне нравится короткая стрижка.
+run	rus	Ndazi igituma uri ngaha.	Я знаю, почему ты здесь.
+run	rus	Udushakako iki?	Чего ты от нас хочешь?
+run	rus	Kubera iki ujaho?	Зачем ты туда идёшь?
+run	rus	Ja mu buriri!	Иди в кровать.
+run	rus	Ndashobora kuronka iki gitabo?	Можно мне эту книгу?
+run	rus	Ndarurumba.	У меня температура.
+run	rus	Turumva.	Понимаем.
+run	rus	Sinteka.	Я не готовлю.
+run	rus	Ntibiri nkuko uvyiyumvira.	Это не то, что ты думаешь!
+run	rus	Ndiko ndasoma igitabo.	Я сейчас читаю книгу.
+run	rus	Umuduga uraje.	Едет машина.
+run	rus	Asa na nyina wiwe.	Она похожа на свою мать.
+run	rus	Reka tugure ivyo.	Давай купим эту.
+run	rus	Kubera iki wiga igifaransa?	Зачем ты учишь французский?
+run	rus	Sintegera igifaransa.	Я не понимаю по-французски.
+run	rus	Kubera iki wiga igifaransa?	Почему ты изучаешь французский?
+run	rus	Ihinguriro rikora ibihumbi n'ibihumbi vy'amacupa kira kwezi.	Завод производит тысячи бутылок ежемесячно.
+run	rus	Bitebe bitebuke vyose birahera.	Всему рано или поздно приходит конец.
+run	rus	Ico gisa n'ivu naco nyene ni rwanje.	Коричневый тоже мой.
+run	rus	Umubanyi wanje ni umubaji.	Мой сосед - плотник.
+run	rus	Wabonye amaso yabo?	Ты видел их лица?
+run	rus	Biranshimishije.	Я этим довольна.
+run	rus	Nshaka ko mubibona.	Я хочу, чтобы вы увидели это.
+run	rus	Ntusa neza.	Ты не очень-то хорошо выглядишь.
+run	rus	Ndakunda ibiharuro.	Я люблю математику.
+run	rus	Iki gitabo ntigifise akamo.	Эта книга бесполезна.
+run	rus	Natanguye gukora muri ino societé kuva umwaka uheze.	Я начал работать в этой компании в прошлом году.
+run	rus	Kera hari urusengero ngaha.	Раньше здесь была церковь.
+run	rus	Ndibaza ku mfise umwanya w'ikindi gikombe c'ikawa.	Я думаю, что ещё есть время для новой чашки кофе.
+run	rus	Inzoka yamize igikere.	Змея проглотила лягушку.
+run	rus	Vyibagire ivyo.	Забудь об этом!
+run	rus	Kubera iki ubaza?	Почему ты спрашиваешь?
+run	rus	Iryo jambo ntaryonzi.	Я не знаю этого слова.
+run	rus	Iyi nzu ni iyande?	Чей это дом?
+run	rus	Kubera iki utari aha?	Почему ты не здесь?
+run	rus	Turi imuhira.	Мы дома.
+run	rus	Turahura nabo rimwe rimwe.	Мы их время от времени встречаем.
+run	rus	„Namaki?“ – „Nameza, murakoze!“	"Как дела?" - "Спасибо, хорошо!"
+run	rus	Ngiyo ifagitiri.	Здесь счёт.
+run	rus	Ndazi nyoko.	Я знаю твою маму.
+run	rus	Birera?	Это белое?
+run	rus	Ndashobora kwinjira?	Я могу войти?
+run	rus	Ejo naryamye umunsi wose, kuko wari umunsi w'Imana.	Вчера я весь день спал, потому что было воскресенье.
+run	rus	Nabonye hariya mushikanje.	Я видел там свою сестру.
+run	rus	Urazi ko mbwirizwa kugenda.	Ты знаешь, что я должен идти.
+run	rus	Turajana?	Мы идём вместе?
+run	rus	Twojana.	Мы могли бы поехать вместе.
+run	rus	Urabikunda?	Тебе это нравится?
+run	rus	Uri umugore nkunda.	Ты женщина, которую я люблю.
+run	rus	Iri kosa ni iryande?	Чья это вина?
+run	rus	Noshimishwa no kumenya izina ryawe.	Я хочу знать, как тебя зовут.
+run	rus	Novuga gutyo.	Я бы сказал то же самое.
+run	rus	Uri umuhinga.	Ты знаток.
+run	rus	Araza nawe?	Она тоже придёт?
+run	rus	Kubera iki mumbaza?	Почему вы меня спрашиваете?
+run	rus	Nabarira vyose abavyeyi banje.	Я всё рассказал родителям.
+run	rus	Urafise uwo muvukana?	У тебя есть брат?
+run	rus	Iri terefone ni iryande?	Чей это телефон?
+run	rus	Ivyirabura ni vyanje.	Чёрная — моя.
+run	rus	Kubera iki udashaka kugenda?	Почему ты не хочешь идти?
+run	rus	Ngirango ntubikunda.	Тебе это может не понравиться.
+run	rus	Ndi umunyeshuri mushaha muri kaminuza.	Я новый студент.
+run	rus	Nanje ndavyiyumvira uko.	Я тоже так думаю.
+run	rus	Nitwa Jack.	Меня зовут Джек.
+run	rus	Icumba cawe gifise amadirisha abiri?	В твоей комнате два окна?
+run	rus	Ndazi ingene bikoreshwa.	Я знаю, как этим пользоваться.
+run	rus	Ni umufaransa.	Он француз.
+run	rus	"Aya marori ni ayande?" – "Ni aya Data."	"Чьи это очки?" - "Моего отца".
+run	rus	Ntanumwe azi izina ryiwe.	Никто не знает её имени.
+run	rus	Ahari ugushaka haba inzira.	Где есть воля, там есть путь.
+run	rus	Iyo menya sinari kuza.	Если бы я знала, я бы не пришла.
+run	rus	Bitebe bitebuke bizoshika.	Рано или поздно это случится.
+run	rus	Kera hari isengero ngaha.	Раньше здесь была церковь.
+run	rus	Igihe ntikigize gukanya gusa, kiranajovye.	Погода была не только холодной, но также и сырой.
+run	rus	Ukora iki?	Что ты делаешь?
+run	rus	Ashaka gushika kuki?	Какова его цель?
+run	rus	Sinzi izina ryiwe.	Я не знаю его имени.
+run	rus	Ntiwibagire gutwara ikete.	Не забудь отослать письмо.
+run	rus	Ndazi uyo mwigeme.	Я знаю эту девочку.
+run	rus	Uranhunga ko ndabivuze.	Прости, что я это сказала.
+run	rus	Kubera iki tutabiraba?	Почему бы нам не взглянуть?
+run	rus	Kubera iki jewe?	Почему я?
+run	rus	Ntiwibagire gutwara ibaruwa.	Не забудь отослать письмо.
+run	rus	Sinshonje.	Я не голодный.
+run	rus	Nazanwe no kuramukanya.	Я зашёл поздороваться.
+run	rus	Sinzi iyo ngana.	Я не знаю, куда идти.
+run	rus	Uyu mukobwa yiyambika nk'umuhungu.	Эта девушка похожа на парня.
+run	rus	Reka kundaba!	Не смотри на меня!
+run	rus	Ur'uwacu.	Ты один из нас.
+run	rus	Urambabarira ko ndabivuze.	Прости, что я это сказала.
+run	rus	Kubera iki muri imuhira?	Почему вы дома?
+run	rus	Ntusubire kumbaza.	Не спрашивай меня снова.
+run	rus	Uyu ni nyoko?	Это твоя мать?
+run	rus	Ndi mu kiruhuko.	У меня перерыв.
+run	rus	Uwu muduga ni mushasha?	Это новая машина?
+run	rus	Data wanje ntari imuhira.	Моего отца нет дома.
+run	rus	Kubera iki wibaza ivyo?	Почему ты так думаешь?
+run	rus	Urabishaka canke?	Ты хочешь этого или нет?
+run	rus	Uhaguruka ryari?	Ты когда встаёшь?
+run	rus	Ndazi izina ryiwe gusa.	Я знаю только его имя.
+run	rus	Ibintu vyawe birihe?	Где твои вещи?
+run	rus	Urashobora gutora irangi iryariryo ryose rigushimisha.	Ты можешь выбрать любой цвет, который тебе нравится.
+run	rus	Sinshaka kuba umutunzi.	Я не хочу быть богатым.
+run	rus	Ndameneka umutwe.	У меня болит голова.
+run	rus	Hari ijana y'abantu mu ngoro.	В помещении была сотня человек.
+run	rus	Nshaka gutaha.	Я хочу пойти домой.
+run	rus	Turiko dutakaza umwanya uzimvye.	Мы теряем драгоценное время.
+run	rus	Iyi kanzu nijewe nayikoreye.	Я сама сшила это платье.
+run	rus	Tuzobabwira iki?	Что мы им скажем?
+run	rus	Ndameneka umutwe.	У меня голова болит.
+run	rus	Ni rwacu.	Это наше.
+run	rus	Urazi izina ryiwe?	Тебе известно её имя?
+run	rus	Kera waranywa itabi, sivyo?	Ты раньше курил, так?
+run	rus	Ijoro ryiza!	Спокойной ночи!
+run	rus	Kubera iki utari kw ishure?	Ты почему не в школе?
+run	rus	Ntabana nawe.	Она не живёт с ним.
+run	rus	Sindashaka kurwara.	Я не хочу заболеть.
+run	rus	Turi ngaha kubwawe.	Мы здесь из-за тебя.
+run	rus	Dushaka ko ubitwara.	Мы хотим, чтобы ты его взял.
+run	rus	Ngaha nta numwe afise umuduga.	Здесь ни у кого нет машины.
+run	rus	Ni umuntu mwiza.	Он хороший человек.
+run	rus	Nimusohoke mu muduga.	Выйдите из машины!
+run	rus	Ndamuzi.	Я её знаю.
+run	rus	Urazi aho arihe?	Ты знаешь, где он?
+run	rus	Iki gitabo ntigifise akamo.	Эта книга никуда не годится.
+run	rus	Tom arihe?	Где Том?
+run	rus	Urabona iyi nzu? Ni rwanje.	Видишь тот дом? Он мой.
+run	rus	Twojana.	Мы могли бы пойти вместе.
+run	rus	Namubonye yiruka.	Я видел, как он бежал.
+run	rus	Ni murabe neza iri foto.	Посмотрите внимательно на эту фотографию.
+run	rus	Ndazi ko ubizi.	Я знаю, что ты это знаешь.
+run	rus	Namugomwe.	Я влюблён в неё.
+run	rus	Uri umugenzi wanje.	Ты мой друг.
+run	rus	Simfise mushikanje.	У меня нет сестры.
+run	rus	Ndashimishwa nivyo mbona.	Мне нравится то, что я вижу.
+run	rus	Ku minsi y'Imana simba ndi imuhira.	По воскресеньям меня не бывает дома.
+run	rus	Kera hari urusengero ngaha.	Когда-то здесь была церковь.
+run	rus	Turategera.	Мы понимаем.
+run	rus	Urukundo rurahuma.	Любовь слепа.
+run	rus	Ni bitoya birenze.	Слишком маленький.
+run	rus	Urazi nyene uyu muduga?	Ты знаешь, чья это здесь машина?
+run	rus	Ndi umushinwakazi.	Я китаец.
+run	rus	Urashaka ko nza?	Хочешь, чтобы я пришёл?
+run	rus	Idirisha rirugaye.	Окно закрыто.
+run	rus	Kubera iki utari mw'isomero?	Почему ты не в школе?
+run	rus	Ndaguhwatira umucungwa.	Я почищу тебе апельсин.
+run	rus	Uragenda canke ntugenda?	Ты идёшь или нет?
+run	rus	Ibisi irahagaze ariko nta muntu yururutse.	Автобус остановился, но никто не вышел.
+run	rus	Tuja hehe?	Куда пойдём?
+run	rus	Naje kukurondera.	Я пришёл тебя поискать.
+run	rus	Rabira mw'idirisha.	Посмотри из окна.
+run	rus	Ndakunda kuba ngaha.	Мне нравится жить здесь.
+run	rus	Kubera iki ataho tutajana?	Почему бы нам не сходить куда-нибудь вместе?
+run	rus	Amahera yanje ari hehe?	Где мои деньги?
+run	rus	Noshimishwa no kumubona.	Я хотел бы её видеть.
+run	rus	Ndibaza ko ntegeye.	Думаю, я поняла.
+run	rus	Ntanzi.	Он меня не знает.
+run	rus	Nyene ibi bitabo ni mushikanje.	Это книги моей сестры.
+run	rus	Urazi ico ubwirizwa gukora?	Ты знаешь, что делать?
+run	rus	Urashobora gutera ururirimbo.	Можешь спеть песню.
+run	rus	Ndakunda umuduga wanyu.	Мне нравится ваша машина.
+run	rus	Ntanumwe ari i muhira.	Никого нет дома.
+run	rus	Twoshobora kujana.	Мы могли бы пойти вместе.
+run	rus	Bariko baturaba?	Они смотрят на нас?
+run	rus	Ndi umwigisha.	Я учитель.
+run	rus	Nyoko niho ari?	Твоя мама здесь?
+run	rus	Simfise musazanje.	У меня нет брата.
+run	rus	Ndakunda kwiga igifaransa.	Мне нравится учить французский.
+run	rus	Kera yari umwigisha.	Она была учительницей.
+run	rus	Ndi umwotsi w'imikate.	Я пекарь.
+run	rus	Singushimye.	Я в тебя не влюблена.
+run	rus	Uri mushasha?	Ты новенький?
+run	rus	Narasomye iki gitabo.	Я прочитала эту книгу.
+run	rus	Uyu mwigeme yiyambika nk'umuhungu.	Эта девушка похожа на парня.
+run	rus	Muraturondera?	Вы нас ищете?
+run	rus	Kubera iki tugira ivyo?	Зачем мы это делаем?
+run	rus	Ndanezerewe ko uhari.	Я рада, что ты здесь.
+run	rus	Ntidufise amahera.	У нас нет денег.
+run	rus	Kubera iki utariyo?	Почему ты не там?
+run	rus	Ubu buriri ni ubwande?	Чья это кровать?
+run	rus	Ndabasavye, mumpe ifagitiri.	Простите, можно счёт?
+run	rus	Uraza? Ego canke oya?	Ты придёшь или нет?
+run	rus	Yarabimpaye.	Он дал это мне.
+run	rus	Turamuzi.	Мы её знаем.
+run	rus	Nibiki bibaye ngaha?	Что здесь происходит?
+run	rus	Sinshaka kukubona.	Я не хочу тебя видеть.
+run	rus	Sindashaka kuba ngaha.	Я не хочу здесь быть.
+run	rus	Sintegera ingene.	Не понимаю как.
+run	rus	Nta mahera dufise.	У нас нет денег.
+run	rus	Ururuka mu muduga.	Выйди из машины!
+run	rus	Biragenda?	Как дела?
+run	rus	Wahuye nawe?	Ты с ним встретился?
+run	rus	We si umwana.	Он не ребёнок.
+run	rus	Tujanayo twese hamwe.	Мы все вместе туда пойдем.
+run	rus	Urakoze cane.	Большое спасибо!
+run	rus	Murakoze!	Спасибо!
+run	rus	Ni beza cane gwose.	Они очень-очень хорошие.
+run	rus	Indahiro ni ideni.	Обещание — есть долг.
+run	rus	Kubera iki batankunda?	Почему они меня не любят?
+run	rus	Sindakwumva.	Я тебя не понимаю.
+run	rus	Ushaka kugenda ryari?	Когда ты хочешь идти?
+run	rus	Ipantalo yawe iranduye.	У тебя штаны грязные.
+run	rus	Reka tugure ivyo.	Давай купим этот.
+run	rus	Uramukunda?	Ты его любишь?
+run	rus	Ngenda n'umuduga.	Я приеду на машине.
+run	rus	Urafise mwenewawe?	У тебя есть брат?
+run	rus	Ni bitoya birenze?	Слишком маленькая?
+run	rus	Naje kukurondera.	Я пришла тебя поискать.
+run	rus	Kubera iki mutagerageza iyi goti? Ijanye neza n'ipantalo yanyu.	Почему бы Вам не примерить этот пиджак? Он хорошо сочетается с брюками.
+run	rus	Asa na mwenewanyu.	Он похож на твоего брата.
+run	rus	Kubera iki mbwirizwa kubikora?	Почему я должен это сделать?
+run	rus	Mubwirizwa kugenda i muhira.	Вам надо пойти домой.
+run	rus	Mugenda hehe?	Куда вы идёте?
+run	rus	Sinibaza ko aza.	Я не думаю, что он придёт.
+run	rus	Ubironderera ngaha?	Ты это ищешь?
+run	rus	Urazi aho arihe?	Ты знаешь, где она?
+run	rus	Ndakubonye.	Я видела тебя.
+run	rus	Urabona iyi nzu? Ni inzu yanje.	Видишь тот дом? Это мой.
+run	rus	Sindabitegera.	Я этого не понимаю.
+run	rus	Turajana.	Мы пойдём вместе.
+run	rus	Narakunze uyu muduga.	Мне очень нравилась эта машина.
+run	rus	Birahimbaye gusubira kukubona.	Рад тебя снова видеть.
+run	rus	Tubwirizwa gushira uburinganire hagati y'bisohoka n'ivyinjira.	Нам следует установить баланс между расходами и прибылью.
+run	rus	Ndamanikwa impuzu.	Я вешаю бельё.
+run	rus	Urafise umuduga?	У тебя есть машина?
+run	rus	Uyu munsi ni kuwagatatu.	Сегодня среда.
+run	rus	Sinkunda aba bantu.	Мне не нравятся эти люди.
+run	rus	Urashaka kumenya ingene?	Хочешь знать как?
+run	rus	Ntibashaka kubikoresha.	Они не хотят использовать это.
+run	rus	Bitebe bitebuke vyose birahera.	Всё рано или поздно кончается.
+run	rus	Iki giti kirashaje.	Это дерево очень старое.
+run	rus	Ndakunda ico nkora.	Я люблю то, что делаю.
+run	rus	Mukora iki?	Что Вы делаете?
+run	rus	Uyu ni data wanje.	Это мой отец.
+run	rus	Bambonye.	Они меня видели.
+run	rus	Amapome vyose aguye hasi azoribwa n'ingurube.	Все осыпающиеся яблоки съедают свиньи.
+run	rus	Dusangiye indoto imwe.	У нас есть общая мечта.
+run	rus	Aramukunda.	Она его любит.
+run	rus	Yavyaye umwana wa mbere afise imyaka mirongo ibiri.	Она родила первого ребенка в двадцать лет.
+run	rus	Urashaka kumenya igituma?	Хочешь знать почему?
+run	rus	Niga igifaransa mw'ishure.	Я учу французский в школе.
+run	rus	Reka nje kugura umukate.	Дай я схожу за хлебом.
+run	rus	Ntaco ndabiziko.	Я ничего об этом не знаю.
+run	rus	Aya ni amadolari atanu.	Вот пять долларов.
+run	rus	Ushaka kuja hehe?	Куда ты хочешь поехать?
+run	rus	Kubera iki ndi ngaha?	Почему я здесь?
+run	rus	Mpa icarico cose co kugira.	Дай мне поделать что-нибудь.
+run	rus	Turihe?	Где мы?
+run	rus	Ivyo ni ibiki?	Что у нас тут?
+run	rus	Ico nico uriko urondera?	Ты это ищешь?
+run	rus	Urazi aho nzoba ndi.	Ты знаешь, где буду я.
+run	rus	Ntegerezwa kuja imuhira.	Мне надо идти домой.
+run	rus	Oya, urakoze.	Нет, спасибо.
+run	rus	Ntubaze.	Не спрашивай.
+run	rus	Ndakeneye umwanya wo kwiyumvira.	Мне нужно время подумать.
+run	rus	Turanezerewe.	Мы счастливы.
+run	rus	Narinzi ko bigushimisha.	Я знал, что ты будешь рад.
+run	rus	Yazunguje umutwe.	Он покачал головой.
+run	rus	Sinzi aba bantu.	Я этих людей не знаю.
+run	rus	Ubwirizwa guheba inzoga.	Тебе надо бросать пить.
+run	rus	Namerewe nabi.	Я плохо себя чувствовал.
+run	rus	Aba ngaha?	Она здесь живёт?
+run	rus	Urondera iki?	Что ты ищешь?
+run	rus	Ndi hehe?	Где я?
+run	rus	Ibi biro ni ivyande?	Чей это офис?
+run	rus	Ntibimpa agateka.	Я этим не горжусь.
+run	rus	Ni isaha icenda ibuze iminuta icumi n'itanu.	Сейчас без пятнадцати три.
+run	rus	Ntusabe amahera.	Не проси денег.
+run	rus	Ihinguriro rizotangura gukora mu mwaka uza.	Фабрика заработает в следующем году.
+run	rus	Urazi ico yavuze?	Знаешь, что она сказала?
+run	rus	Ashaka gushika kuki?	Какова её цель?
+run	rus	Muzovyigaya cane.	Вы ещё очень пожалеете.
+run	rus	Ubona iki?	Что ты видишь?
+run	rus	Si umuduga wanje.	Это не мой автомобиль.
+run	rus	Ndategera ico uvuga.	Я понимаю, что ты говоришь.
+run	rus	Ni ku wagatandatu.	Суббота.
+run	rus	Ni naco gituma ndagukunda.	Вот за это я тебя и люблю.
+run	rus	Ni umunsi!	Какой день!
+run	rus	Ndi imuhira.	Я дома.
+run	rus	Ntushavure!	Не сердись!
+run	rus	Simfise amahera.	У меня нет денег.
+run	rus	Kubera iki tubikora?	Зачем мы это делаем?
+run	rus	Nico nshaka kumenya.	Это то, что я хочу знать.
+run	rus	Nico ndiko ndondera.	Это то, что я ищу.
+run	rus	Nturi musazanje.	Ты мне не брат.
+run	rus	Muzinaniye hehe?	Откуда вы знаете друг друга?
+run	rus	Sinzi ico nokora.	Я не знаю, что делать.
+run	rus	Ngirango ntanezerewe.	Быть может, он несчастлив.
+run	rus	Ntiwibagire gutwara ibaruwa.	Не забудь послать письмо.
+run	rus	Sinzorabayo.	Я не буду смотреть.
+run	rus	Nzero, Ruruhuma, Ntwarante, Ndamukiza, Rusama, Ruheshi, Mukakaro, Myandagaro, Nyakanga, Gitugutu, Munyonyo na Kigarama ni amezi icumi n'abiri y'umwaka.	Январь, февраль, март, апрель, май, июнь, июль, август, сентябрь, октябрь, ноябрь и декабрь составляют двенадцать месяцев в году.
+run	rus	Umuduga wacu urihe?	Где наша машина?
+run	rus	Umuryango wiwe urihe?	Где её семья?
+run	rus	Mpore cane!	Мне очень жаль.
+run	rus	Kubera iki mbwirizwa kugenda.	Почему я должен ходить?
+run	rus	Akira igitabo usome.	Возьми книгу и читай её.
+run	rus	Ndabubaha.	Я Вас уважаю.
+run	rus	Ntibimeze uko uvyiyumvira.	Это не то, что ты думаешь!
+run	rus	Urya mugambi wari uwande?	Чей это был план?
+run	rus	Hagati y'igisigara hadutse umuriro.	В самом центре города вспыхнул пожар.
+run	rus	Uri umuhinga.	Ты эксперт.
+run	rus	Ndazi ico nzokora.	Я знаю, что буду делать.
+run	rus	Narinzi ko bikunezereza.	Я знал, что ты будешь счастлив.
+run	rus	Sindashonje.	Я не голодный.
+run	rus	Reka gutegeka ngaha!	Хватит здесь командовать!
+run	rus	Umuhungu arasimba.	Мальчик прыгает.
+run	rus	Namukunze.	Я влюблён в неё.
+run	rus	Urabishobora.	Ты справишься.
+run	rus	Data ari imuhira.	Отец дома.
+run	rus	Ikosa ni iryande?	Чья это вина?
+run	rus	Asa na musazawe.	Он похож на твоего брата.
+run	rus	Waciye ku kimenyetso gitukura.	Ты на красный проехал.
+run	rus	Ndibaza ko ntegeye.	Думаю, я понял.
+run	rus	Urashaka ikintu co kunywa?	Хочешь что-нибудь выпить?
+run	rus	Afise ibitabo amajana n'amajana.	У неё сотни книг.
+run	rus	Nshobore gusubira kubibona?	Можно мне ещё раз посмотреть?
+run	rus	Ndafise ibikorwa vy'ishure.	У меня уроки.
+run	rus	Urazi ico ubaza?	Ты знаешь, о чём просишь?
+run	rus	Bisa nkaho ata muntu ari mu nzu.	Похоже, дома никого нет.
+run	rus	Ndi umutetsi.	Я повариха.
+run	rus	Abo ni abavukanyi banje.	Это мои братья.
+run	rus	Ntibikenewe ko mwinyegeza.	Можете не прятаться.
+run	rus	Bandanya kurondera!	Ищи дальше.
+run	rus	Ntiwoshobora kubisubira ico wavuze?	Ты не мог бы это повторить?
+run	rus	Ntanumwe amuzi neza kiretse abavyeyi biwe.	Кроме его родителей, никто не знал его хорошо.
+run	rus	Sinumva igifaransa.	Я не понимаю по-французски.
+run	rus	Mubaze izina ryiwe.	Спроси у него, как его зовут.
+run	rus	Ni vyiza, sivyo?	Это ведь хорошо?
+run	rus	Nje gusezera.	Я пришёл попрощаться.
+run	rus	Ndazi uyo mwigeme.	Я знаю эту девушку.
+run	rus	Kubera iki wibaza uko?	Почему ты так думаешь?
+run	rus	Uru ni urukundo?	Это любовь?
+run	rus	Ihinguriro rikora ibihumbi n'ibihumbi vy'amacupa kira kwezi.	Фабрика производит тысячи бутылок в месяц.
+run	rus	Ndarindirira hanze.	Я подожду снаружи.
+run	rus	Hari imashini yo kumesura mu nzu?	В доме есть стиральная машина?
+run	rus	Nimwambure ibirato vyanyu.	Снимите вашу обувь.
+run	rus	Ntanumwe antega ugutwi.	Никто меня не слушает.
+run	rus	Narinzi ko wojayo.	Я знал, что ты пойдёшь туда.
+run	rus	Nasivye kw'ishuri.	Я прогулял.
+run	rus	Urazi ingene bisa?	Ты знаешь, как это выглядит?
+run	rus	Kubera iki mbwirizwa kugenda.	Почему я должен ехать?
+run	rus	Ugara amadirisha yose.	Закрой все окна.
+run	rus	Ni neza, siko?	Это ведь хорошо?
+run	rus	Nataye impfunguzo zanje.	Я потерял свои ключи.
+run	rus	Ivyirabura ni vyanje.	Тот черный — мой.
+run	rus	Abashakashatsi bubutse ku magufa y'umuntu mw'isenga.	Исследователи обнаружили в пещере скелет.
+run	rus	Ukuboko kwanje kw'ibubamfu kwagize ibinyanya.	У меня онемела левая рука.
+run	rus	Ikiganza gifise intoki zitanu: urukumu, inkombarukoko, msumba zose, igihugunibenga, agahererezi.	На руке пять пальцев: большой, указательный, средний, безымянный, мизинец.
+run	rus	Urazi aho aba?	Ты знаешь, где она живёт?
+run	rus	Ubwirizwa kuvyuka.	Ты должен вставать.
+run	rus	Uba he?	Ты где живёшь?
+run	rus	Mushikawe amerewe gute?	Как поживает твоя сестра?
+run	rus	Ndazi uyo mukobwa.	Я знаю эту девушку.
+run	rus	Urandondera?	Ты меня ищешь?
+run	rus	Aramutegera.	Она его понимает.
+run	rus	Ijipo ntiyari inkwiye nico gituma nabwirijwe guyihindura.	Юбка плохо сидела, поэтому мне пришлось её переделать.
+run	rus	Iki ni igifaransa?	Это по-французски?
+run	rus	Uyu ni mama wawe?	Это твоя мама?
+run	rus	Ntutegerejwe kuza.	Можешь не приходить.
+run	rus	Mfise mukuruwanje.	У меня есть старший брат.
+run	rus	Sindamuzi.	Я его не знаю.
+run	rus	Soma!	Читай!
+run	rus	Ngiye guzana umuduga wanje.	Я пойду за машиной.
+run	rus	Si ikintu co kwirata.	Это не то, чем можно хвастаться.
+run	rus	Urafise ikintu co gusoma?	У тебя есть что-нибудь почитать?
+run	rus	Mugenda hehe?	Куда Вы идёте?
+run	rus	Nta mahera yari agifise.	У него закончились деньги.
+run	rus	Ndazi aho uba.	Я знаю, где ты живёшь.
+run	rus	Ntiyasomaye iki gitabo.	Она не прочитала книгу.
+run	rus	Ndazi so wawe.	Я знаю твоего отца.
+run	rus	Sinkugomwe.	Я в тебя не влюблена.
+run	rus	Nikomerekeje n'igisu ku rutoki.	Я порезал палец ножом.
+run	rus	Uranhunga ko ndabivuze.	Мне жаль, что я это сказал.
+run	rus	Bazomenya uko bagira.	Они будут знать, что делать.
+run	rus	Nje kugutwara i muhira.	Я пришёл, чтобы отвести тебя домой.
+run	rus	Ntubwirizwa kuza.	Тебе необязательно приходить.
+run	rus	Ntukomeye muri vyo.	Ты в этом не силён.
+run	rus	Ntavuga icongereza.	Он не говорит по-английски.
+run	rus	Nari mborewe cane.	Я был бухой.
+run	rus	Sinshaka gutunga.	Я не хочу быть богатым.
+run	rus	Urashaka kubibona?	Хочешь это увидеть?
+run	rus	Urafise musazawe?	У тебя есть брат?
+run	rus	Afise imyaka ingana iki?	Сколько ему лет?
+run	rus	Ubwirizwa kureka kunywa.	Тебе надо прекращать пить.
+run	rus	Ni twebwe murondera?	Вы нас ищете?
+run	rus	Ndafise umuduga.	У меня есть машина.
+run	rus	Tuzobonana ejo!	Увидимся завтра!
+run	rus	Si umuduga wanje.	Это не моя машина.
+run	rus	Muri abanyeshuri?	Вы студенты?
+run	rus	Nibajije ko ndakuzi.	Я думал, я тебя знаю.
+run	rus	Igiciro kiraduga.	Цена растёт.
+run	rus	Tuzotunga.	Мы будем богаты.
+run	rus	Ntimukeneye gunkengurukira.	Можете не благодарить.
+run	rus	Ico gisa n'ivu naco nyene kiranyegukira.	То коричневое тоже моё.
+run	rus	Bobo ni abana.	Они дети.
+run	rus	Urukundo ni iki?	Что есть любовь?
+run	rus	Ndibaza ko azoza.	Думаю, что он придёт.
+run	rus	Sindi umunyeshuri.	Я не студент.
+run	rus	Iki gitabo ni gishasha.	Эта книга новая.
+run	rus	Ndazi ibikenewe kurangurwa.	Я знаю, что мне надо делать.
+run	rus	Ico nico uriko urondera?	Это то, что ты ищешь?
+run	rus	Urashaka kumenya igituma?	Ты хочешь знать почему?
+run	rus	Ndakunda uyu muduga.	Я люблю эту машину.
+run	rus	Ikibazo ciza.	Хороший вопрос.
+run	rus	Ntitubwirizwe kubivugana ubu nyene.	Нам ведь необязательно сейчас об этом говорить, правда?
+run	rus	Ni bitoya birenze urugero.	Слишком маленький.
+run	rus	Ntibimara umwanya mu nini.	Это не занимает много времени.
+run	rus	Urashaka kwinjira?	Хочешь войти?
+run	rus	Kubera iki utari mw'isomero?	Ты почему не в школе?
+run	rus	Ndamuzi.	Я его знаю.
+run	rus	Urabibonye?	Ты это видишь?
+run	rus	Sinzi izina ryawe.	Я не знаю твоего имени.
+run	rus	Mbwirizwa kukubona.	Мне надо тебя увидеть.
+run	rus	Ntavuga icongereza gusa, avuga kandi n'ikidagi.	Она говорит не только по-английски, но и по-немецки.
+run	rus	Mbirizwa kwiga gifaransa.	Мне нужно учить французский.
+run	rus	Nahaye umuhungu igitabo.	Я отдал мальчику книгу.
+run	rus	Nshaka ko utaha.	Я хочу, чтобы ты пошёл домой.
+run	rus	Narinzi ko biguhimbara.	Я знал, что ты будешь рад.
+run	rus	Urazi ko ndagukunda.	Ты знаешь, что я тебя люблю.
+run	rus	Ivyo ni ibiki?	Что у нас здесь?
+run	rus	Narinzi ko wojayo.	Я знал, что ты туда пойдёшь.
+run	rus	Nshaka kwiga igifaransa.	Я хочу выучить французский.
+run	rus	Urazi aho aba?	Ты знаешь, где он живёт?
+run	rus	Kubera iki wijiriwe?	Почему ты грустный?
+run	rus	Nzogenda ku munsi w'Imana.	Я пойду в воскресенье.
+run	rus	Sintegera iri jambo.	Я не понимаю это слово.
+run	rus	Mpore ko ndabivuze.	Мне жаль, что я это сказал.
+run	rus	Urigisha?	Ты преподаёшь?
+run	rus	Uru ruhome rurakanye.	Эта стена холодная.
+run	rus	Uva hehe?	Откуда ты пришла?
+run	rus	Ni umuhungu muremure.	Он большой мальчик.
+run	rus	Urakoze!	Спасибо тебе.
+run	rus	Narinzi ko biguhimbara.	Я знал, что ты будешь счастлива.
+run	rus	O yawe isa na A yawe.	У тебя "о" похожи на "а".
+run	rus	Birakwiye vyose ivy'urugendo?	К поездке всё готово?
+run	rus	Nazanwe no kwiga.	Я пришла сюда учиться.
+run	rus	Ugenda ryari?	Когда ты едешь?
+run	rus	Ibirato birihe?	Где обувь?
+run	rus	Ndafise ikibazo.	У меня есть вопрос.
+run	rus	Hariko haba iki hariya epfo?	Что происходит там, внизу?
+run	rus	Nzogenda n'umuduga.	Я поеду на своей машине.
+run	rus	Turanezerewe cane.	Мы очень счастливы.
+run	rus	Ntumwumvirize.	Не слушай её.
+run	rus	Ndafise bashikanje.	У меня есть сёстры.
+run	rus	Ntusubire!	Больше так не делай.
+run	rus	Biranshimishije.	Я этим доволен.
+run	rus	Ndazi ico nkora.	Я знаю, что делаю.
+run	rus	Kubera iki udataha?	Почему бы тебе не пойти домой?
+run	rus	Sinzi neza igifaransa.	Я не очень хорошо знаю французский.
+run	rus	Urashaka ikintu co kunywa?	Ты хочешь чего-нибудь выпить?
+run	rus	Ni naco gituma ndagukunda.	Поэтому ты мне и нравишься.
+run	rus	Ushaka kugenda ryari?	Когда ты хочешь поехать?
+run	rus	Ntanumwe arazi aho turi.	Никто не знает, где мы находимся.
+run	rus	Ico gisa n'ivu naco nyene kiranyegukira.	Коричневый тоже мой.
+run	rus	Ni birebire birenze?	Слишком большой?
+run	rus	Ntuzi icarico?	Ты не знаешь, что это?
+run	rus	Ngirango ntibigushimisha.	Тебе это может не понравиться.
+run	rus	Iyo udategereye, baza.	Если не понимаешь, спроси.
+run	rus	Ku minsi y'Imana simba ndi imuhira.	По воскресеньям меня дома не бывает.
+run	rus	Ni mushiki wawe?	Она твоя сестра?
+run	rus	Ntibaza uyu munsi.	Они сегодня не придут.
+run	rus	Ndiga igifaransa imuhira.	Я учу французский дома.
+run	rus	Mu mwaka uheze navyaye imfura yanje.	В прошлом году я родила своего первого ребёнка.
+run	rus	Ndanezerewe ko ariho uri.	Я рада, что ты здесь.
+run	rus	Nyogokuru avuga buhoro buhoro.	Моя бабушка говорит медленно.
+run	rus	Uyu mwaka ntegekanya gusoma ibitabo vyinshi bishoboka.	В этом году я планирую прочитать все книги, какие могу.
+run	rus	Ukora iki, data?	Папа, что ты делаешь?
+run	rus	Mubwirizwa kugenda i muhira.	Вы должны идти домой.
+run	rus	Ndi mu karuhuko.	У меня перерыв.
+run	rus	Iyi kanzu nijewe nayigiriye.	Я сама сшила это платье.
+run	rus	Ndakurondera.	Я ищу тебя.
+run	rus	Kubera iki udashaka kugenda?	Почему ты не хочешь ехать?
+run	rus	Uranzi.	Ты меня знаешь.
+run	rus	Simbizi.	Этого я не знаю.
+run	rus	Baranezerewe.	Они счастливы.
+run	rus	Ni igiki gituma abantu bagira uko ivyo?	Что заставляет людей делать это?
+run	rus	Uyu muduga ni rwacu.	Это наш автомобиль.
+run	rus	Turabitegera.	Мы это понимаем.
+run	rus	Nimumutware mu cumba co kubaga.	Несите её в операционную.
+run	rus	Ni bitoya birenze?	Слишком маленькое?
+run	rus	Urambabarira ko ndabivuze.	Мне жаль, что я это сказал.
+run	rus	Wiyumvira iki?	Как ты думаешь?
+run	rus	Abo nabo mu bujapani?	Они японцы?
+run	rus	Ndategera.	Понимаю.
+run	rus	Ndababonye.	Я вас видел.
+run	rus	Nturi mwenewacu.	Ты мне не брат.
+run	rus	Nturabe hasi.	Не смотри вниз.
+run	rus	Urugendo rwacu ruva ku gihe.	Наша поездка зависит от погоды.
+run	rus	Afise imyaka ingahe?	Сколько ему лет?
+run	rus	Ukora iki ngaha?	Что ты тут делаешь?
+run	rus	Urafise aya mahera?	Деньги у тебя?
+run	rus	Ndashaka kukubona pe.	Я в самом деле хочу тебя видеть.
+run	rus	Ivyo birashavuza!	Какая досада!
+run	rus	Abo ni abajapani?	Они японцы?
+run	rus	Nyoko ari imuhira?	Мать дома?
+run	rus	Ninde akuri inyuma?	Кто тебя преследует?
+run	rus	Iki cayi ni icande?	Это чей чай?
+run	rus	Sindashaka kuba ngaha.	Я не хочу здесь находиться.
+run	rus	Uba ngaha?	Ты живёшь здесь?
+run	rus	Urazi ico yavuze?	Знаешь, что он сказал?
+run	rus	Kubera iki utaciga igifaransa?	Почему ты не учишь французский?
+run	rus	Reka ndabe.	Дай посмотрю.
+run	rus	Oza ibirenge!	Помой ноги!
+run	rus	Nzoza kugutora.	Я за тобой зайду.
+run	rus	Ndazi neza ko bari mu nzira.	Я уверена, что они уже едут.
+run	rus	Data ari imuhira.	Мой отец дома.
+run	rus	Ngurisha impuzu ku murongo.	Я продаю одежду в Интернете.
+run	rus	Niyumviye ko vyogutwenza.	Я думал, тебя это рассмешит.
+run	rus	Kubera iki udashaka kugenda?	Почему ты не хочешь пойти?
+run	rus	Nta ngorane.	Нет проблем.
+run	rus	Nzoba ndi mu muduga wanje.	Я буду в своей машине.
+run	rus	Ndi mu muduga.	Я в машине.
+run	rus	Ni angahe?	Это сколько?
+run	rus	Twamanutse twiruka agasozi.	Мы сбежали с холма.
+run	rus	Ntushaka kumenya ivyo!	Ты не хочешь этого знать!
+run	rus	Baba mu nzu duhangana.	Они живут в доме напротив нас.
+run	rus	Yataye urupfunguzo rw'umuduga wiwe.	Она потеряла свой ключ от машины.
+run	rus	Ijipo iranduta.	Для меня эта юбка слишком широкая.
+run	rus	Ntuzi musazanje.	Ты не знаешь моего брата.
+run	rus	Narabiravye muri yu tubi.	Я видел это на Ютубе.
+run	rus	Ndazi ko ubifise.	Я знаю, что она у тебя.
+run	rus	Ur'uwiwacu.	Ты один из нас.
+run	rus	Ijwi ryanje rirasaraye kubera inkorora.	У меня хриплый голос из-за простуды.
+run	rus	Ndashonje.	Я голодная.
+run	rus	Umviriza nyoko!	Слушай твою маму!
+run	rus	Baratuzi.	Они нас знают.
+run	rus	Sinshaka kubisoma.	Я не хочу читать это.
+run	rus	Ntiwibagire gutwara ikete.	Не забудь послать письмо.
+run	rus	Urakoza ko wajanye natwe.	Спасибо, что пришёл с нами.
+run	rus	Ntunzi.	Ты меня не знаешь.
+run	rus	Sinkugomwe.	Я в тебя не влюблён.
+run	rus	Ntavyo bazi.	Они об этом не знают.
+run	rus	Umuduga wa data ni mushasha.	Машина моего отца новая.
+run	rus	Sinzi aba bantu.	Я не знаю этих людей.
+run	rus	Ntimwugurure idirisha.	Не открывайте окно.
+run	rus	Ndi mu karuhuko.	Я на перерыве.
+run	rus	Sindi ikijuju.	Я не идиот.
+run	rus	Duteka umuceri uku.	Вот так мы готовим рис.
+run	rus	Akira ico ushaka.	Бери что хочешь.
+run	rus	Bitebe bitebuke bizoba.	Рано или поздно это случится.
+run	rus	Ndakuzi.	Я знаю тебя.
+run	rus	Sinzi aho bari.	Я не знаю, где они.
+run	rus	Ndakurondera.	Я тебя ищу.
+run	rus	Muri Abadagi, sivyo?	Вы немцы, да?
+run	rus	Narinzi ko vyogushimisha.	Я знала, что тебе понравится.
+run	rus	Ndagukunda.	Я тебя люблю.
+run	rus	Ndazi ko wabivuze.	Я знаю, что ты это сказал.
+run	rus	Nturyame idirisha ryuguruye.	Не спи с открытым окном.
+run	rus	Ndazi icarico urukundo.	Я знаю, что такое любовь.
+run	rus	Bavuga ko atunze cane.	Говорят, что он очень богат.
+run	rus	Ntumuhagarike.	Не останавливай его.
+run	rus	Turazi igituma waje ngaha.	Мы знаем, зачем ты сюда пришёл.
+run	rus	Ndi umunyeshuri muri kaminuza.	Я студент университета.
+run	rus	Urafise ico gusoma?	У тебя есть что-нибудь почитать?
+run	rus	Urambabarira ko ndabivuze.	Прости, что я это сказал.
+run	rus	Igituro ca bisi kiri iminota itanu uvuye ngaha.	Автобусная остановка находится в пяти минутах ходьбы отсюда.
+run	rus	Narasomye iki gitabo.	Я прочитал эту книгу.
+run	rus	Ubwirizwa guheba inzoga.	Ты должен бросить пить.
+run	rus	Haraza gushuha.	Будет жарко.
+run	rus	Ndondera inzu mu gisagara, ata cizero.	Я отчаянно ищу квартиру в центре города.
+run	rus	Asa na Se wiwe.	Он похож на своего отца.
+run	rus	Akinirahe?	Где он играет?
+run	rus	Ndafise umuduga.	У меня есть автомобиль.
+run	rus	Yamugomwe.	Она в него влюблена.
+run	rus	Yamukunze.	Она в него влюблена.
+run	rus	Nawe turagukumbuye.	Мы тоже по тебе скучаем.
+run	rus	Nagasaga!	До свидания!
+run	rus	Nzoza kugutora.	Я за тобой заеду.
+run	rus	Ni bitoya birenze?	Слишком маленький?
+run	rus	Kora ibikorwa vyawe vy'ishure.	Делай домашнее задание.
+run	rus	Urashaka ko nza?	Хочешь, я приду?
+run	rus	Wibaza ko ivyo ari ibiki?	Что это, по-твоему?
+run	rus	Umuduga wanje urihe?	Где моя машина?
+run	rus	Sinzi ingene.	Я не знаю как.
+run	rus	Sinzi ico nshaka.	Я не знаю, чего я хочу.
+run	rus	Wabonye amaso yabo?	Ты видела их лица?
+run	rus	Reka gutanga amategeko ngaha!	Хватит здесь командовать!
+run	rus	Iyi mbugita irapfushe.	Этот нож тупой.
+run	rus	Injira.	Входи.
+run	rus	Ntubwirizwa kwandika ikete rirerire.	Тебе не обязательно писать длинное письмо.
+run	rus	Ndakwiyumvira.	Я думаю о тебе.
+run	rus	Ndazi umuryango wiwe.	Я знаю его семью.
+run	rus	Ntundabe gutyo.	Не смотри так на меня.
+run	rus	Wanyoye ibikombe vy'ikawa bingahe?	Сколько чашек кофе ты сегодня уже выпил?
+run	rus	Nagira ngo ni ikigorwa cawe.	Я думал, это твоя работа.
+run	rus	Kubera iki utabikora?	Почему ты этого не делаешь?
+run	rus	Urazi icarico urukundo?	Ты знаешь, что такое любовь?
+run	rus	Uri imuhira?	Ты дома?
+run	rus	Sinshaka kuba umutunzi.	Я не хочу быть богатой.
+run	rus	Bitwarire nyoko.	Отнеси это своей матери.
+run	rus	Ndakunda umuryango wanje.	Я люблю свою семью.
+run	rus	Ukora iki, data?	Ты что делаешь, папа?
+run	rus	Abana bagiye kw ishure?	Дети ходят в школу?
+run	rus	Baba iwawe?	Они живут с тобой?
+run	rus	Ndabubaha.	Я вас уважаю.
+run	rus	Ndazi ibikenewe kurangurwa.	Я знаю, что мне нужно делать.
+run	rus	Ndazi neza ko bari mu nzira.	Я уверен, что они уже едут.
+run	rus	Nuko rero nabigize.	Вот как я это сделал.
+run	rus	Iri saho ni irya nde?	Чья это сумочка?
+run	rus	Narinzi ko bigushimisha.	Я знал, что ты будешь счастлива.
+run	rus	Ntiyasomaye iki gitabo.	Он не прочитал книгу.
+run	rus	Kubera iki mbikora?	Зачем я это делаю?
+run	rus	Nazanwe no kuramukanya.	Я пришёл поздороваться.
+run	rus	Turaja ku burengero.	Мы идём на запад.
+run	rus	So wawe amerewe gute?	Как твой отец?
+run	rus	Ndazi igituma uri ngaha.	Я знаю, зачем ты здесь.
+run	rus	Narinzi ko bikunezereza.	Я знал, что ты будешь рад.
+run	rus	Iyi nyabu ni yanje.	Это моя кошка.
+run	rus	Urantegera.	Ты меня понимаешь.
+run	rus	Nshaka kubibona.	Я хочу это увидеть.
+run	rus	Ntibikenewe ko mwihisha.	Можете не прятаться.
+run	rus	Nimukure ibirato vyanyu.	Снимите обувь.
+run	rus	Urazi aho nzoba ndi.	Ты знаешь, где я буду.
+run	rus	Narumvise ko warongoye.	Я слышал, ты женился.
+run	rus	Musazawe arihe?	Где твой брат?
+run	rus	Kubera iki abantu bavuga ivyo?	Почему люди так говорят?
+run	rus	Ntanumwe amuzi neza kiretse abavyeyi biwe.	За исключением его родителей, никто не знал его хорошо.
+run	rus	Ninde asoma?	Кто читает?
+run	rus	Ndazi ico baravuze.	Я знаю, что они сказали.
+run	rus	Amadirisha araguruye.	Окна открыты.
+run	rus	Urazi ko tugukunda.	Ты знаешь, что мы тебя любим.
+run	rus	Bikuvako.	Это зависит от тебя.
+run	rus	Urukundo ni iki?	Что такое любовь?
+run	rus	Kubera iki urwanko rwinshi?	Почему столько ненависти?
+run	rus	Birakwiye vyose ivyerekeye vy'urugendo?	К поездке всё готово?
+run	rus	Ndakunda aho mba.	Мне нравится место, где я живу.
+run	rus	Nabo baraza?	Они тоже придут?
+run	rus	Dushaka ko ubitwara.	Мы хотим, чтобы ты её взял.
+run	rus	Ndonka ico nshaka.	Я получаю, что хочу.
+run	rus	Aba ngaha?	Он здесь живёт?
+run	rus	Ushobora kuvga icongereza.	Можешь говорить по-английски.
+run	rus	Sinzi guteka.	Я не умею готовить.
+run	rus	Ndazi aho turi.	Я знаю, где мы.
+run	rus	Asa na nyina.	Она похожа на свою мать.
+run	rus	Sindi umunyeshuri muri kaminuza.	Я не студент.
+run	rus	Mama wanje arihe?	Где моя мама?
+run	rus	Umunsi mwiza.	Добрый день.
+run	rus	Ntasa n'uwunezerewe.	Он не выглядит счастливым.
+run	rus	Mama wanje arankunda.	Мама меня любит.
+run	rus	Kubera iki abantu batankunda?	Почему я не нравлюсь людям?
+run	rus	Sindabikeneye.	Мне это не нужно.
+run	rus	Urazi icarico?	Знаешь, что это?
+run	rus	Nabigiriye wewe.	Я сделала это для тебя.
+run	rus	Iyi hinguriro rikora ivyuma vy'imiduga.	Этот завод выпускает автозапчасти.
+run	rus	Ikanzu rikozwe mw'iharire.	Это платье из шёлка.
+run	rus	Haraho uzogenda muri iri ci?	Ты куда-нибудь едешь этим летом?
+run	rus	Uyu munsi ni umunsi w'Imana.	Сегодня воскресенье.
+run	rus	Ndabikorera wewe.	Я делаю это для тебя.
+run	rus	Urabizi?	Ты это знаешь?
+run	rus	Ndakunda gusoma.	Я люблю читать.
+run	rus	Nguyo!	Вот он!
+run	rus	Kubera iki ubibaza?	Почему ты это спрашиваешь?
+run	rus	Ntusubire kumbaza.	Больше меня не спрашивай.
+run	rus	Ndafise ikibazo.	У меня вопрос.
+run	rus	Ushaka kuba hehe?	Где ты хочешь жить?
+run	rus	Urazi nyene uyu muduga?	Ты знаешь, чья это машина?
+run	rus	Ndabibonye.	Я это видела.
+run	rus	Yitwa ngwiki kandi?	Как там её зовут?
+run	rus	Kubera iki tutaja imuhira?	Почему бы нам не пойти домой?
+run	rus	Ndibaza ko navyicayeko.	Думаю, я сел на него.
+run	rus	Urashobora gutora irangi iryariryo ryose ushimye.	Ты можешь выбрать любой цвет, который тебе нравится.
+run	rus	Nshaka ko ubisoma.	Хочу, чтобы ты это прочитал.
+run	rus	Ndoza amadirisha.	Я мою окна.
+run	rus	Sinywa.	Я не пью.
+run	rus	Ntanumwe yabonye ikintu.	Никто ничего не видел.
+run	rus	Mpa igitabo.	Дай мне книгу.
+run	rus	Ndashaka nanje kugenda.	Я тоже хочу пойти.
+run	rus	Sintegera gute.	Не понимаю как.
+run	rus	Nta muduga mfise.	У меня нет машины.
+run	rus	Raba iyi foto.	Посмотри на эту фотографию.
+run	rus	Nta muduga dufise.	У нас нет машины.
+run	rus	Kubera iki bataza?	Почему они не придут?
+run	rus	Ndazi neza ko namubonye ahantu ikindi gihe.	Я уверена, что где-то его уже видела.
+run	rus	Wasomye iki gitabo?	Ты читал эту книгу?
+run	rus	Uzi izina ryanje hehe?	Откуда ты знаешь моё имя?
+run	rus	Ni naco gituma ndagukunda.	Поэтому ты мне нравишься.
+run	rus	Uramuzi.	Ты его знаешь.
+run	rus	Nshaka kukubona.	Я хочу тебя видеть.
+run	rus	Ndi mu kiruhuko.	Я на перерыве.
+run	rus	Urashobora kurara iwacu.	Можешь переночевать у нас.
+run	rus	Ntidushaka kubimenya.	Мы не хотим знать.
+run	rus	Ndazi ko wabivuze.	Я знаю, что ты так сказал.
+run	rus	Ndagenda kuryama.	Я пошёл спать.
+run	rus	Ndazi aba bagore.	Я знаю этих женщин.
+run	rus	Umuryango wiwe urihe?	Где его семья?
+run	rus	Nazanwe no kwiga.	Я пришёл сюда учиться.
+run	rus	Ndazi ko unkunda.	Я знаю, что нравлюсь тебе.
+run	rus	Biragushimishije?	Ты этим доволен?
+run	rus	Ntiyasomaye iki gitabo.	Он не читал книгу.
+run	rus	Umuryango wanje ni muto.	Моя семья небольшая.
+run	rus	Ndazi ico nogira.	Я знаю, что бы я сделал.
+run	rus	Simfise mwenewacu.	У меня нет брата.
+run	rus	Asa na nyina.	Она похожа на мать.
+run	rus	Umuntu ni co gikoko co nyene gishobora kuvuga.	Человек — единственное животное, которое может говорить.
+run	rus	Ku wambere musée yama yugaye.	По понедельникам музей закрыт.
+run	rus	Sinzi ico novyiyumvirako.	Не знаю, что и думать.
+run	rus	Wiga ryari?	Когда ты учишься?
+run	rus	Ndi umutetsi.	Я повар.
+run	rus	Tuzongera ku wambere.	Увидимся в понедельник.
+run	rus	Kora ibikorwa vyawe vy'ishure.	Делай уроки.
+run	rus	Uramuzi?	Ты его знаешь?
+run	rus	Nahaye umuhungu igitabo.	Я отдала мальчику книгу.
+run	rus	Ndanezerewe ko ariho uri.	Я счастлива, что ты здесь.
+run	rus	Ntariye nopfa.	Если я не буду есть, то умру.
+run	rus	Ndashika isaha zine.	Я приду в десять.
+run	rus	Ntimusubire kubigira.	Больше так не делайте.
+run	rus	Ni umugambi mwiza.	Это хороший план.
+run	rus	Ntubwirizwa kuza.	Тебя никто не заставляет приходить.
+run	rus	Ntegerezwa kugenda ubu.	Я должен сейчас идти.
+run	rus	Ni umuntu mwiza.	Она хороший человек.
+run	rus	Namugwiriye.	Я влюблён в неё.
+run	rus	Data ntari i muhira.	Папы нет дома.
+run	rus	Sindi umunyeshuri.	Я не ученик.
+run	rus	Nimusohoke mu muduga.	Выходите из машины.
+run	rus	Siko biri nkuko uvyiyumvira.	Это не то, что ты думаешь!
+run	rus	Ukuboko kwanje kw'ibubamfu kwagize ibinyanya.	У меня левая рука затекла.
+run	rus	Nari naborewe cane.	Я был бухой.
+run	rus	Mbwirizwa kuruhuka.	Мне надо сделать перерыв.
+run	rus	Kigurwa angahe?	Сколько стоит?
+run	rus	Isaha yawe irihe?	Где твои часы?
+run	rus	Ntanumwe antegura.	Меня никто не понимает.
+run	rus	Intumbero y'urugendo rwanyu ni iyihe?	Какова цель вашей поездки?
+run	rus	Ntubwirizwa kuza.	Можешь не приходить.
+run	rus	Nabigiriye wewe.	Я сделал это для тебя.
+run	rus	Birakunyuze?	Ты этим довольна?
+run	rus	Turahura nabo rimwe rimwe.	Мы их встречаем время от времени.
+run	rus	Nahaye umuhungu igitabo.	Я дал мальчику книгу.
+run	rus	Twiga ubuhinga bw'umuziki.	Мы изучаем музыку.
+run	rus	Kubera iki babikora?	Почему они это делают?
+run	rus	Ndanezerewe ko uhari.	Я счастлив, что ты здесь.
+run	rus	Sinshaka amahera yawe.	Я не хочу твоих денег.
+run	rus	Woba ufise umunota?	У тебя есть свободная минутка?
+run	rus	Ndiga igifaransa imuhira.	Я изучаю французский дома.
+run	rus	Ibitoke bisa n'umuhondo.	Бананы жёлтые.
+run	rus	Tom ni umubaji.	Том плотник.
+run	rus	Sinashoboye kutarira.	Я не смог сдержать слёз.
+run	rus	Sinzi ico ushaka.	Я не знаю, чего ты хочешь.
+run	rus	Iyo azakugira umwanya yari kugenda.	Если бы у него было время, он бы пошёл.
+run	rus	Waciye ku kimenyetso c'itara ritukura.	Ты на красный проехал.
+run	rus	Ndazi ico bagira.	Я знаю, что они делают.
+run	rus	Ubugeni buzoba ku wagatandatu.	Свадьба состоится в субботу.
+run	rus	Haguye amama make y'imvura.	Упало только несколько капель дождя.
+run	rus	Ni mwenewacu.	Мы братья.
+run	rus	Mbwira umugambi wawe.	Расскажи мне о своём плане.
+run	rus	Iri jambo ryamuka mu kigereki.	Это слово греческого происхождения.
+run	rus	Urivuza?	Ты в форме?
+run	rus	Ntaco ndabiziko.	Об этом я ничего не знаю.
+run	rus	Ushaka kuzobibona.	Ты захочешь на это посмотреть.
+run	rus	Akira amahera.	Возьми деньги.
+run	rus	Sinzi.	Я не знаю.
+run	rus	Ndakeneye abakozi b'abitanzi batatu.	Мне нужны три добровольца.
+run	rus	Umwigisha wanyu ni nde?	Кто Ваш учитель?
+run	rus	Ni naco gituma ndagukunda.	За это ты мне и нравишься.
+run	rus	Bakora iki ngaha?	Что они здесь делают?
+run	rus	Ufise imyaka ingana iki?	Сколько тебе лет?
+run	rus	Ndabibonye nanje.	Я это тоже видела.
+run	rus	Nshaka kwiga igifaransa.	Я хочу изучать французский язык.
+run	rus	Umuryango umerewe gute?	Как семья?
+run	rus	Ntushaka kubimenya!	Ты не хочешь этого знать!
+run	rus	Vyiza kuruta vyobaye iyo utajaho.	Было бы лучше, если бы ты туда не ходил.
+run	rus	Sibiraba amahera.	Дело не в деньгах.
+run	rus	Mba ngaha.	Я живу здесь.
+run	rus	Twoshobora kujana.	Мы могли бы поехать вместе.
+run	rus	Usa naho unezerewe cane.	Ты выглядишь очень счастливым.
+run	rus	Ndi ngaha kubera wewe gusa.	Я здесь только из-за тебя.
+run	rus	Ntumpate kubikora.	Не заставляй меня это делать.
+run	rus	Nivyo urondera?	Ты это ищешь?
+run	rus	Sinumva igifaransa.	Я не понимаю французского.
+run	rus	Nari mbizi.	Я это знала.
+run	rus	Nguyo araje!	Вот она идёт.
+run	rus	Sinshaka amahera yawe.	Не хочу я твоих денег.
+run	rus	Bavuga ko atunze cane.	Говорят, он очень богат.
+run	rus	Mubwirizwa gutaha.	Вы должны идти домой.
+run	rus	Nta mazi akiri mw'icupa.	В бутылке больше нет воды.
+run	rus	Indimi zifise amajambo agoye.	В языках есть трудные слова.
+run	rus	Kubera iki bavuga ivyo?	Почему они это говорят?
+run	rus	Bashaka ko tubigira.	Они хотят, чтобы мы это сделали.
+run	rus	Ndazi neza ko hari aho maze kumubona.	Я уверен, что где-то его уже видел.
+run	rus	Ndazi Tom?	Я знаю Тома?
+run	rus	Urashobora gukoresha uwu muduga.	Можешь взять эту машину.
+run	rus	Narinzi ko wojayo.	Я знала, что ты пойдёшь туда.
+run	rus	Narinzi ko biguhimbara.	Я знал, что ты будешь счастлив.
+run	rus	Ntadukunda.	Он нас не любит.
+run	rus	Namerewe nabi.	Я почувствовал себя плохо.
+run	rus	Mpore ko ndabivuze.	Мне жаль, что я это сказала.
+run	rus	Ntugende n'iminwe misa.	Не уходи с пустыми руками.
+run	rus	Sinshaka kubisoma.	Я не хочу это читать.
+run	rus	Isaha yanje irihe?	Где мои часы?
+run	rus	Ni umunyamerika?	Он американец?
+run	rus	Ndagukunda.	Я люблю тебя.
+run	rus	Nandika kuri twebwe.	Я пишу о нас.
+run	rus	So arihe?	Где твой отец?
+run	rus	Turazi ico ukora.	Мы знаем, что ты делаешь.
+run	rus	Yamukunze.	Он в неё влюблён.
+run	rus	Urazi aho biri?	Ты знаешь, где они?
+run	rus	Ngico igitabo cawe.	Вот твоя книга.
+run	rus	Reka gutanga amategeko ngaha!	Хватит здесь приказывать!
+run	rus	Muri kino gisomwa ca umurongo munsi y'amavuga yose ya kazoza muri.	Подчеркни в этом тексте все глаголы в будущем времени.
+run	rus	Ntanumwe yumviriza.	Никто не слушает.
+run	rus	Sinkunda kwiruka.	Мне не нравится бегать.
+run	rus	Urabitegera?	Ты это понимаешь?
+run	rus	Nshaka ko uja imuhira.	Я хочу, чтобы ты пошёл домой.
+run	rus	Ni igiki ntategera?	Чего я не понимаю?
+run	rus	Ntiyasomaye iki gitabo.	Она не прочитала книги.
+run	rus	Abana na we.	Она живёт с ним.
+run	rus	Urazi aho bari?	Ты знаешь, где они?
+run	rus	Izi ntambwe zirashobora kubuza ko ingwara isasagazwa.	Эти меры могут предотвратить распространение болезни.
+run	rus	Ntanumwe yakubajije.	Тебя никто не спрашивал.
+run	rus	Ico gisa n'ivu naco nyene kiranyegukira.	Та коричневая тоже моя.
+run	rus	Kubera iki bataza?	Почему они не приходят?
+run	rus	Mara umwanya munini niga igitari.	Я провожу много времени, практикуясь в игре на гитаре.
+run	rus	Iyi hinguriro rikora ivyuma vy'imiduga.	Эта фабрика производит автозапчасти.
+run	rus	Urabinyemereye?	Ты мне обещаешь?
+run	rus	Ndazi ico nokora.	Я знаю, что бы я сделал.
+run	rus	Akora mw'ihinguriro.	Он работает на заводе.
+run	rus	Sinshonje.	Я не голодная.
+run	rus	Urakeneye umugambi.	Тебе нужен план.
+run	rus	Ubuzima niko bumeze.	Жизнь, она такая.
+run	rus	Uhaguruka ryari?	Когда ты встаёшь?
+run	rus	Ikiganza gifise intoki zitanu: urukumu, inkombarukoko, msumba zose, igihugunibenga, agahererezi.	На руке пять пальцев: большой, указательный, средний, безымянный и мизинец.
+run	rus	Kubera wewe ndi mu rudubi.	Из-за тебя у меня проблемы.
+run	rus	Kubera iki mwabeshe mu vyerekeye imyaka yanyu?	Почему вы солгали о своём возрасте?
+run	rus	Asa na nyina.	Он похож на мать.
+run	rus	Arumva igifaransa.	Он понимает по-французски.
+run	rus	Ntiwitinye.	Не будь робким.
+run	rus	Tuja hehe?	Куда мы идём?
+run	rus	Uza imuhira ryari?	Когда придёшь домой?
+run	rus	Ndaribwa mu nda.	У меня болит живот.
+run	rus	Ni murabe neza iri foto.	Хорошенько посмотрите на эту фотографию.
+run	rus	Ntanumwe azi izina ryiwe.	Никто не знает его имени.
+run	rus	Ndanezerewe ko ariho uri.	Я счастлив, что ты здесь.
+run	rus	Amatapi yo mukahise arafise agaciro kanini.	Старинные ковры особенно ценны.
+run	rus	Sindi umubaji mwiza cane.	Плотник из меня не очень хороший.
+run	rus	Abo nabo mu bujapani?	Они японки?
+run	rus	"Aya marori ni ayande?" – "Nyeneyo ni Data."	"Чьи это очки?" - "Моего отца".
+run	rus	Ndabibonye.	Я это видел.
+run	rus	Ndi umwigisha.	Я учительница.
+run	rus	Sinkubona.	Я тебя не вижу.
+run	rus	Nshaka kwiga igifaransa.	Я хочу изучать французский.
+run	rus	Uramukunda?	Ты её любишь?
+run	rus	Musazanje siho ari.	Моего брата нет.
+run	rus	Urashaka umuduga?	Ты хочешь машину?
+run	rus	Wigahe?	Где ты учишься?
+run	rus	Ndazi aho ari.	Я знаю, где она.
+run	rus	Ndabibonye nanje.	Я это тоже видел.
+run	rus	Simfise mwenewacu.	У меня нет сестры.
+run	rus	Umwigisha wanyu ni nde?	Кто ваш учитель?
+run	rus	Uraza canke?	Ты придёшь или нет?
+run	rus	Subira gusoma.	Прочти это ещё раз.
+run	rus	Ndakunda ibiharuro.	Мне нравится математика.
+run	rus	Ipantaro ntinkwira. Ndashobora kuyiguza?	К сожалению, брюки мне не подходят. Можно мне их поменять?
+run	rus	Uribuka uru rukino?	Ты помнишь эту игру?
+run	rus	Sindi intore.	Я нехороший человек.
+run	rus	Uriga igifaransa?	Ты изучаешь французский?
+run	rus	Iki gitabo ni ciza cane.	Эта книга очень хорошая.
+run	rus	Mukora iki?	Что вы делаете?
+run	rus	Mariya arihe?	Где Мария?
+run	rus	Urashobora kuruhuka.	Можешь отдохнуть.
+run	rus	Ndamubonye.	Я видел его.
+run	rus	Ndazi aho turi.	Я знаю, где мы находимся.
+run	rus	Ntaco ndabiziko.	Я не знаю ничего об этом.
+run	rus	Iyo aguma imuhira uyo munsi, ntiyogize isanganya.	Если бы он остался в тот день дома, то не попал бы в беду.
+run	rus	Ngibi ibisu, amakanya n'ibiyiko.	Вот ножи, вилки и ложки.
+run	rus	Kera waranywa itabi, sivyo?	Ты курил раньше, нет?
+run	rus	Iyi nyabu ni yanje.	Это мой кот.
+run	rus	Sinzi izina ryiwe.	Я не знаю её имени.
+run	rus	Murategera igifaransa?	Вы понимаете по-французски?
+run	rus	Numa!	Молчи!
+run	rus	Turakuzi.	Мы тебя знаем.
+run	rus	Ntaco babiziko.	Они об этом не знают.
+run	rus	Nzoba ndi mu muduga wanje.	Я буду в моей машине.
+run	rus	Umuntu wese arashobora kubisoma.	Каждый может это прочитать.
+run	rus	Nyoko arihe?	Где твоя мать?
+run	rus	Sinzi aho aba.	Я не знаю, где он живёт.
+run	rus	Ntiwibagire gutwara ibaruwa.	Не забудь отправить письмо.
+run	rus	Ururuka mu muduga.	Выходи из машины.
+run	rus	Ndazi uvyirumvira.	Я знаю, что ты думаешь.
+run	rus	Si igifaransi.	Это не французский.
+run	rus	Iki gitabo kiri ku meza ni icande?	Чья это здесь книга на столе?
+run	rus	Singushimye.	Я в тебя не влюблён.
+run	rus	Uzi izina ryanje hehe?	Откуда ты знаешь, как меня зовут?
+run	rus	Mushikanje asa na Mama.	Моя сестра похожа на мою мать.
+run	rus	Uranhunga ko ndabivuze.	Прости, что я это сказал.
+run	rus	Birampimbaza.	Это делает меня счастливой.
+run	rus	Iki gitabo ni ciza cane.	Это очень хорошая книга.
+run	rus	Murakoze cane.	Большое спасибо.
+run	rus	Uba he?	Где ты живёшь?
+run	rus	Ipantalo yawe iranduye.	У тебя брюки грязные.
+run	rus	Twasezeye.	Мы попрощались.
+run	rus	Ndi mushasha aha.	Я здесь новичок.
+run	rus	Uri umugenzi wanje.	Ты моя подруга.
+run	rus	Akora mw'ihinguriro.	Он работает на фабрике.
+run	rus	Wiga kw ishure irihe?	В какую школу ты ходишь?
+run	rus	Ndashonje.	Я голодный.
+run	rus	Ndazi ko ubifise.	Я знаю, что он у тебя.
+run	rus	Ubwirizwa kuvyuka.	Тебе надо вставать.
+run	rus	Ndazi aba bantu.	Я знаю этих людей.
+run	rus	Nturi mwenewacu.	Ты не мой брат.
+run	rus	Ndashobora kwugururura irido?	Могу я открыть занавеску?
+run	rus	Niki?	Что?
+run	rus	Tugende ku gituro c'igari ya moshi tugure amatike.	Пойдём на железнодорожный вокзал и купим билеты.
+run	rus	Nshaka ko umubona.	Я хочу, чтобы ты её увидел.
+run	rus	Nico gituma cakuzanye ngaha?	Ты поэтому сюда пришёл?
+run	rus	Birakunyuze?	Ты этим доволен?
+run	rus	Ndanezerewe gusubira kukubona.	Рад тебя снова видеть.
+run	rus	Ni naco gituma ndagukunda.	Вот за что я тебя люблю.
+run	rus	Ndategera ico ushaka kuvuga.	Я понимаю, что ты хочешь сказать.
+run	rus	Kira gitondo mva imuhira imbere y'isaha zibiri.	Каждое утро я выхожу из дому до восьми часов.
+run	rus	Muri abana.	Вы дети.
+run	rus	Ndumva ico uvuga.	Я слышу, что ты говоришь.
+run	rus	Usa gute?	Как ты выглядишь?
+run	rus	Nataye impfunguzo zanje.	Я ключи потерял.
+run	rus	Bakora iki ngaha?	Что они тут делают?
+run	rus	Ntibafise amahera.	У них нет денег.
+run	rus	Ntwumviriza.	Ты не слушаешь.
+run	rus	Ndamukunda.	Я люблю его.
+run	rus	Raba neza ingene ndabikora!	Смотри, как я это делаю.
+run	rus	Ntuzi icarico?	Ты не знаешь, что это такое?
+run	rus	Nosubira kubikora.	Я бы сделал это опять.
+run	rus	Bitwarire nyoko.	Отнеси это маме.
+run	rus	Nikomerekeje n'imbugita ku rutoki.	Я порезал палец ножом.
+run	rus	Urazi izina ryiwe?	Ты знаешь, как его зовут?
+run	rus	Musazanje ntari i muhira.	Моего брата нет дома.
+run	rus	Niga igifaransa mw'ishure.	Я изучаю французский в школе.
+run	rus	Urafise umuduga?	У тебя есть автомобиль?
+run	rus	Narinzi ko bikunezereza.	Я знал, что ты будешь счастлива.
+run	rus	Iki cayi ni icande?	Чей это чай?
+run	rus	Ntimubitegeye?	Вы этого не понимаете?
+run	rus	Mpembwa neza.	Я хорошо зарабатываю.
+run	rus	Sinshaka aya mahera.	Я не хочу денег.
+run	rus	Mvuga indimi zitatu.	Я говорю на трёх языках.
+run	rus	Ni abanyamerika?	Они американцы?
+run	rus	Mwahuye?	Ты с ней встретился?
+run	rus	Nshaka ko ubimenya.	Я хочу, чтобы ты это знал.
+run	rus	Simfise umuduga.	У меня нет машины.
+run	rus	Rimwe rimwe tujana muri cenema.	Иногда мы вместе ходим в кино.
+run	rus	Abo ni abavukanyi banje.	Это мои братья и сёстры.
+run	rus	Kubera iki udatomora ico ufise ku muzirikanyi?	Почему бы тебе просто не сказать нам, что у тебя на уме?
+run	rus	Urazi ko mbwirizwa kugenda.	Ты знаешь, что я должен пойти.
+run	rus	Mfise benewacu.	У меня есть сёстры.
+run	rus	Urazi ico bavuze?	Ты знаешь, что они сказали?
+run	rus	Ndazi neza ko namubonye ahantu ikindi gihe.	Я уверен, я видел его где-то раньше.
+run	rus	Nanje ndururutse.	Я там тоже выхожу.
+run	rus	Nico cakuzanye ngaha?	Ты поэтому сюда пришёл?
+run	rus	Ufise imyaka ingahe?	Сколько тебе лет?
+run	rus	Ninde agukurikirina?	Кто тебя преследует?
+run	rus	Uradundega?	Ты в форме?
+run	rus	Iyo menya sinari kuza.	Если бы я знал, я бы не пришёл.
+run	rus	Turagukunda.	Мы тебя любим.
+run	rus	Ndakubonye.	Я видел тебя.
+run	rus	Naganiriye vyose abavyeyi banje.	Я всё рассказал родителям.
+run	rus	Hari umuntu ahagaze inyuma y'uruhome.	Кто-то стоит за стеной.
+run	rus	Harashushe birenze.	Слишком жарко.
+run	rus	Naje kukurondera.	Я пришёл в поисках тебя.
+run	rus	Birampimbaza.	Это делает меня счастливым.
+run	rus	Ipantalo yanje yajovye.	У меня брюки мокрые.
+run	rus	Turi hehe?	Где мы?
+run	rus	Ushobora gukoresha umuduga wanje.	Ты можешь пользоваться моей машиной.
+run	rus	Harashushe cane ngaha.	Здесь очень жарко.
+run	rus	Urataha?	Ты идёшь домой?
+run	rus	Nguyo!	Вот она!
+run	rus	Sindamubona.	Я его не вижу.
+run	rus	Aramukunda.	Он её любит.
+run	rus	Kubera iki utari kumwe na jewe?	Почему ты не со мной?
+run	rus	Nico nshaka kumenya.	Это-то я и хочу знать.
+run	rus	So wawe arihe?	Где твой отец?
+run	rus	Ntibintera iteka.	Я этим не горжусь.
+run	rus	Yakarihije igisu.	Он точил нож.
+run	rus	Turavukana.	Мы братья.
+run	rus	Sinzi aho muba.	Я не знаю, где вы живёте.
+run	rus	Sinshaka kubimenya.	Я не хочу знать об этом.
+run	rus	Bikozwe muki?	Из чего это сделано?
+run	rus	Uyu muduga usa na mushasha.	Эта машина как новая.
+run	rus	Ijipo irandenze.	Для меня эта юбка слишком широкая.
+run	rus	Ndazi kubikora.	Я знаю, как это сделать.
+run	rus	Iri darapo ni nziza cane.	Этот флаг очень красивый.
+run	rus	Ushaka kubimenya iki?	Что ты хочешь знать?
+run	rus	Ni naco gituma ndagukunda.	За это я тебя и люблю.
+run	rus	Sindashonje.	Я не голодная.
+run	rus	Kuki utinjira?	Почему бы тебе не войти?
+run	rus	Amasobe yanje ntarongorotse.	У меня мутная моча.
+run	rus	Reka gutegeka ngaha!	Хватит здесь приказывать!
+run	rus	Ndazi uyo mukobwa.	Я знаю эту девочку.
+run	rus	Ni neza cane.	Очень хорошо.
+run	rus	Narinzi ko uri ngaha.	Я знал, что ты здесь будешь.
+run	rus	Nabonye so wawe.	Я видел твоего отца.
+run	rus	Ni umunyeshuri mwiza.	Он хороший студент.
+run	rus	Sindi ikijuju.	Я не дурак.
+run	rus	Ubishatse, ushobora gukoresha umuduga wanje.	Можешь взять мою машину, если хочешь.
+run	rus	Umuduga wawe urihe?	Где твоя машина?
+run	rus	Nshaka kuganira nawe.	Я хочу с тобой поговорить.
+run	rus	Reka ndakugurire gishasha.	Давай я куплю тебе новое.
+run	rus	Munywa iki?	Что вы пьёте?
+run	rus	Nimukure ibirato vyanyu.	Снимите вашу обувь.
+run	rus	Woba ufise akanya ko kumfasha ikintu?	У тебя не найдётся времени кое с чем мне помочь?
+run	rus	Ejo hari kuwagatanu.	Вчера была пятница.
+run	rus	Ndazi ico mvuga.	Я знаю, что говорю.
+run	rus	Ndanezerewe ko ariho uri.	Я рад, что ты здесь.
+run	rus	Nyoko ari imuhira?	Твоя мать дома?
+run	rus	Wari umugambi wande?	Чей это был план?
+run	rus	Iyi koti ni iyande?	Чьё это пальто?
+run	rus	Reka ndakugurire gishasha.	Давай я куплю тебе новый.
+run	rus	Ukora iki ngaha?	Ты что здесь делаешь?
+run	rus	Nturabe munsi.	Не смотри вниз.
+run	rus	Kubera iki wijiriwe?	Почему ты грустная?
+run	rus	Arakunda gusoma ibitabo.	Он любит читать книги.
+run	rus	Bashaka ko tubikora.	Они хотят, чтобы мы это сделали.
+run	rus	Ntitubizi.	Мы этого не знаем.
+run	rus	Turamuzi.	Мы его знаем.
+run	rus	Ndi umunyeshuri mushaha muri kaminuza.	Я новая студентка.
+run	rus	Kubera wewe ndi mu ngorane.	Из-за тебя у меня проблемы.
+run	rus	Nzokora ico unsaba.	Я сделаю то, что ты просишь.
+run	rus	Uri umuvyeyi mwiza.	Ты хорошая мать.
+run	rus	Mva muri Bresil.	Я приехал из Бразилии.
+run	rus	Mubwirizwa gutaha.	Вам надо пойти домой.
+run	rus	Nzero ni ukwezi kwambere mu mwaka.	Январь — первый месяц года.
+run	rus	Urugendo rwacu ruvana n'igihe.	Наша поездка зависит от погоды.
+run	rus	Nta gishasha.	Это не ново.
+run	rus	Turakuzi.	Мы знаем тебя.
+run	rus	Ntanumwe yavuze ijambo.	Никто не сказал ни слова.
+run	rus	Aramwumva.	Она его понимает.
+run	rus	Umuduga wanyu uranshimisha.	Мне нравится ваша машина.
+run	rus	Uribaza ko nezerewe?	Думаешь, я счастлив?
+run	rus	Ntanumwe arazi aho turi.	Никто не знает, где мы.
+run	rus	Ndi umushinwakazi.	Я китаянка.
+run	rus	Murafise umuceri?	У вас есть рис?
+run	rus	Amahera narayakiriye.	Я взял деньги.
+run	rus	Ndashaka kuruhuka gato.	Я хочу сделать перерыв.
+run	rus	Neza, nawe?	Хорошо. А ты?
+run	rus	Bishire nyoko.	Отнеси это своей матери.
+run	rus	Ndakujana.	Я возьму тебя с собой.
+run	rus	Sinzi ico novuga...	Не знаю, что и сказать.
+run	rus	Nshaka ko mubibona.	Я хочу, чтобы вы это увидели.
+run	rus	Ntitumuzi.	Мы его не знаем.
+run	rus	Mpamagara hagati y'isaha imwe n'isaha zibiri.	Пожалуйста, позвони мне между семью и восьмью.
+run	rus	Urihe?	Где ты?
+run	rus	Tuzosubira kubonana!	Увидимся.
+run	rus	Kubera iki babikora?	Зачем они это делают?
+run	rus	Ndazi ibikenewe gukorwa.	Я знаю, что делать.
+run	rus	Uri umunyeshuri mushasha?	Ты новый студент?

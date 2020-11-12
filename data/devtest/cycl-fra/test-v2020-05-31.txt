@@ -1,0 +1,15 @@
+cycl_Latn	fra	(thereExists ?PERSON1 (thereExists ?PERSON2 (and (nameStrings ?PERSON1 "Philip") (nameStrings ?PERSON2 "Tom") (relatives ?PERSON1 ?PERSON2))))	Philip et Tom sont des proches l'un de l'autre.
+cycl_Latn	fra	(not (languageSpoken (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) JapaneseLanguage))	Je ne parle pas japonais.
+cycl_Latn	fra	(behaviorCapable-PerformedBy Madonna Singing-Human)	Madonna peut chanter.
+cycl_Latn	fra	(#$capitalCity #$France #$Paris)	La capitale de la France, c'est Paris.
+cycl_Latn	fra	(likesAsFriend Batman Robin-BatmanSidekick)	Robin est l'ami de Batman.
+cycl_Latn	fra	(implies (isa ?AP (FruitFn AppleTree)) (colorOfObject ?AP RedColor))	Toutes les pommes sont rouges.
+cycl_Latn	fra	(implies (isa ?AP (FruitFn AppleTree)) (colorOfObject ?AP RedColor))	Les fruits d'un pommier sont forcément rouges.
+cycl_Latn	fra	(numberOfInhabitants CityOfAucklandNZ 1000000)	La ville d'Auckland en Nouvelle-Zélande a un million d'habitants.
+cycl_Latn	fra	(isa CityOfAucklandNewZealand (CityInCountryFn NewZealand) )	Auckland est une ville de la Nouvelle-Zélande.
+cycl_Latn	fra	(commonFoodTypeOfCuisine Baguette FrenchCuisine)	La baguette est un aliment courant dans la cuisine française.
+cycl_Latn	fra	(goals Sauron (forAll ?HOB (implies (isa ?HOB Hobbit) (feelsTowardsObjectToDegree ?HOB Sauron Fear highToVeryHighAmountOf))))	Sauron veut que chaque hobbit le craigne.
+cycl_Latn	fra	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Farshad")	Mon nom est Farshad.
+cycl_Latn	fra	(isa AbrahamLincoln FamousHuman)	Abraham Lincoln est un être humain célèbre.
+cycl_Latn	fra	(organizationHead CityCouncilOfAustin LeeLeffingwell)	Lee Leffingwell préside le conseil municipal de la ville d'Austin.
+cycl_Latn	fra	(personFoundInLocation BritneySpears ?WHERE)	Où est Britney Spears ?

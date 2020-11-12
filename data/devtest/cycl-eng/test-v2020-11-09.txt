@@ -1,0 +1,2 @@
+cycl_Latn	eng	(numberOfInhabitants CityOfAucklandNZ 1000000) 	There are a million people in Auckland. 
+cycl_Latn	eng	(thereExists ?PERSON1 (thereExists ?PERSON2 (and (nameStrings ?PERSON1 "Philip") (nameStrings ?PERSON2 "Tom") (relatives ?PERSON1 ?PERSON2)))) 	Philip and Tom are related to each other. 

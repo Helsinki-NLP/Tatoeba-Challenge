@@ -26,7 +26,7 @@ while (<>){
     $newfields[3] = $fields[3]>0 ? "[$fields[3]](../data/dev/$langpair/dev.txt)" : $fields[3];
     $_ = join('| ',@newfields);
 
-    $fields[4]=~s/^.*\[(.*?)\].*$/$1/;
+    # $fields[4]=~s/^.*\[(.*?)\].*$/$1/;
     if ($fields[2]<$MinTestSize){
 	print "$_   insufficient test data$extranote\n";
     }

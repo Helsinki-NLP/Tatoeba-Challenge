@@ -1,0 +1,731 @@
+cat	epo	De vegades la lectura li exigia la meitat del seu temps.	Foje legado postulis duonon de lia tempo.
+cat	epo	En Bob és l'únic de la classe que sap espanyol.	Bob estas la sola lernanto en nia klaso, kiu povas paroli la hispanan.
+cat	epo	Com que he viscut a Tòquio, conec bastant bé la ciutat.	Mi konas la urbon sufiĉe bone ĉar mi loĝis en Tokio.
+cat	epo	Em vaig cansar d'estar tot el dia estirat al llit.	Mi laciĝis pro tutataga kuŝado en lito.
+cat	epo	Estaba planejant anar a la platja avui, però llavors ha començar a ploure.	Mi planis hodiaŭ iri al la plaĝo sed tiam ekpluvis.
+cat	epo	No estic satisfet.	Mi ne estas sata.
+cat	epo	Tatoeba no és una escola — és una universitat!	Tatoebao ne estas lernejo — ĝi estas universitato!
+cat	epo	Vull morir amb Getter Jaani.	Mi volas morti kun Getter Jaani.
+cat	epo	Parlant d'història, és possible l'objectivitat?	Ĉu objektiva historio ekzistas?
+cat	epo	El Japó importa una gran quantitat de petroli.	Japanujo importas grandan kvanton da petrolo.
+cat	epo	El llatí és una llengua morta.	La latina estas mortinta lingvo.
+cat	epo	Vull aprendre anglès standard.	Mi volas lerni la norman anglan.
+cat	epo	Hi ha moltes coses dignes de veure a Suècia.	Estas multe da vidindaĵoj en Svislando.
+cat	epo	El meu apartament té una sala d'estar, un dormitori, una cuina i un bany.	Mia loĝejo havas vivĉambron, dormĉambron, kuirejon kaj banejon.
+cat	epo	Té la cabota més aviat rosada.	Li havas la glanon iom rozkoloran.
+cat	epo	Tinc dos gats.	Mi havas du katojn.
+cat	epo	Si un estudiant i el seu professor s'avorreixen l'un a l'altre, llavors tots dos estan malgastant el seu temps.	Se studento kaj ties profesoro enuigas unu la alian, tiam ambaŭ malŝparas sian tempon.
+cat	epo	El número de la meva habitació és el 5.	La numero de mia ĉambro estas kvin.
+cat	epo	L'he de veure demà.	Mi estas vidonta lin morgaŭ.
+cat	epo	No sap el que és ser pobre.	Li ne scias kion signifas esti malriĉa.
+cat	epo	Tens un gos?	Ĉu vi havas hundon?
+cat	epo	Benvingut a Tatoeba.	Bonvenon ĉe Tatoeba.
+cat	epo	Llegir aquest llibre és fàcil per a mi.	Legi tiun libron facilas al mi.
+cat	epo	Una aigua neta és necessària en la nostra vida diària.	Pura akvo necesas en nia ĉiutaga vivo.
+cat	epo	Considero impossible que ell ressolgui el problema.	Mi pensis, ke estas neeble por li solvi la problemon.
+cat	epo	Provem quelcom!	Ni provu ion!
+cat	epo	La millor arma contra l'enemic és altre enemic.	La plej bona armilo kontraŭ la malamiko estas alia malamiko.
+cat	epo	Quin és la muntanya més alta d'Amèrica del Nord?	Kiu estas la plej alta monto en Nord-Ameriko?
+cat	epo	No sé exactament quan tornaré a ser aquí.	Mi ne scias precize kiam mi revenos.
+cat	epo	Callar val tant com l'or.	Silento estas oro.
+cat	epo	Mercès per tot.	Dankon pro ĉio.
+cat	epo	No m'imposis la teva opinió.	Ne trudu viajn opiniojn sur min.
+cat	epo	Escolteu!	Aŭskultu!
+cat	epo	Em sap greu no haver-la pogut veure.	Mi bedaŭras ke mi ne povis vidi ŝin.
+cat	epo	No dubtis a demanar consell.	Ne hezitu peti konsilon.
+cat	epo	Quin cigalot que té el xicot!	Tian kacegon havas la knabo!
+cat	epo	No vull treballar.	Mi ne volas labori.
+cat	epo	Fins demà.	Ĝis morgaŭ!
+cat	epo	Va explicar el significat literal de la frase.	Li klarigis la laŭvortan sencon de tiu frazo.
+cat	epo	Qui fa règim?	Kiu observas dieton?
+cat	epo	M'agrada la llengua occitana.	Mi ŝatas la okcitanan lingvon.
+cat	epo	El meu gos és gran.	Mi hundo estas granda.
+cat	epo	Gràcies pel regal.	Dankon pro la donaco.
+cat	epo	Les peces d'escacs són: peó, cavall, alfil, roque, dama i rei.	La ŝakpecoj estas peono, ĉevalo, kuriero, turo, damo kaj reĝo.
+cat	epo	Ha fugit un bou en pantalons curts acusat de furt.	Fuĝis taŭro en ĉemizo, akuzata pro krizo.
+cat	epo	Preneu aquest medicament abans de cada àpat.	Prenu tiun medikamenton antaŭ ĉiu manĝo.
+cat	epo	Jo, el Predicador, vaig ser rei d'Israel a Jerusalem.	Mi, Kohelet, estis reĝo super Izraelujo en Jerusalemo.
+cat	epo	La familia és el nucli de la societat.	La familio estas la atomo de la socio.
+cat	epo	"Quants anys tens?" "Tinc setze anys."	"Kiom vi aĝas?" "Mi estas deksesjara."
+cat	epo	Son bons amics meus.	Ili estas bonaj amikoj de mi.
+cat	epo	La llengua internacional Interlingue ha estat publicada en 1922 amb el nom Occidental.	La internacia lingvo Interlingveo estis publikigita en 1922 sub la nomo Okcidentalo.
+cat	epo	És culpa teva.	Tio estas via kulpo.
+cat	epo	Em sap greu no haver pogut veure-la.	Mi bedaŭras ke mi ne povis vidi ŝin.
+cat	epo	Ell creu en allò sobrenatural.	Li kredas je supernatureco.
+cat	epo	Vull enviar aquesta carta al Japó.	Mi volas sendi tiun leteron al Japanio.
+cat	epo	Quasi no podem esperar la festa del divendres.	Ni preskaŭ ne povas atendi la vendredan feston.
+cat	epo	A quina hora se'n va anar ell?	Je kioma horo li foriris?
+cat	epo	Jo canto ara.	Mi kantas nun.
+cat	epo	No parlo pas castellà.	Mi ne scipovas la hispanan.
+cat	epo	Si vols ensenyar-te esperanto, llig molt i practica molt.	Se vi volas lerni Esperanton, multe legu kaj praktiku.
+cat	epo	El seu germà no em cau gens bé.	Mi tute ne simpatias kun lia frato.
+cat	epo	Naixerà a juliol.	Ŝi naskos en Julio.
+cat	epo	He vist un gos.	Mi vidis hundon.
+cat	epo	"Tatoeba" significa "per exemple" en japonès.	"Tatoeba" japane signifas "ekzemple".
+cat	epo	Tom vol ser famós.	Tomaso volas esti fama.
+cat	epo	Calla i escolta!	Silentu kaj aŭskultu!
+cat	epo	M'agrada mirar els ocells.	Mi ŝatas observi birdojn.
+cat	epo	Els dijous no obri la botiga.	La vendejo ne estas malfermita jaŭde.
+cat	epo	Va morir de càncer.	Ŝi mortis pro kancero.
+cat	epo	És fàcil d'entendre que el dormir té influència en el benestar.	Estas facile kompreni, ke la dormo influas la farton.
+cat	epo	Escriu-me quan arribis.	Skribu al mi, kiam vi alvenos.
+cat	epo	Benvingudes a Tatoeba.	Bonvenon al Tatoeba.
+cat	epo	El pa amb tomàquet és una recepta típica de Catalunya.	Pano kun tomato estas tipa recepto de Katalunio.
+cat	epo	Té un culet bonic de veres.	Ŝi havas vere tre belan pugeton.
+cat	epo	Si trobeu una errada, gràcies per deixar un comentari.	Se vi trovos eraron, bonvolu skribi komenton.
+cat	epo	La seva professió és dentista.	Lia profesio estas dentisto.
+cat	epo	Avui hi ha pocs clients.	Estas malmultaj klientoj hodiaŭ.
+cat	epo	Ell té tres filles.	Li havas tri filinojn.
+cat	epo	Vull un llibre. Ón és la llibreria?	Mi deziras libron. Kie estas la librovendejo?
+cat	epo	Faré els deures després de veure la televisió.	Mi faros la taskojn post kiam mi spektis televidon.
+cat	epo	Et trobaràs la casa buida.	Vi trovos la domon malplena.
+cat	epo	Provem alguna cosa!	Provu ni ion!
+cat	epo	Sembla una història de veritat.	Tio ŝajnas esti reala rakonto.
+cat	epo	Tom no beu.	Tomo ne drinkas.
+cat	epo	Ella parla molt.	Ŝi multe parolas.
+cat	epo	Pots venir amb mi.	Vi povas veni kun mi.
+cat	epo	Al principi Déu creà el cel i la terra.	En la komenco Dio kreis la ĉielon kaj la teron.
+cat	epo	Des del punt de vista de na Kate, ell treballa massa.	El la vidpunkto de Kate, li tro laboras.
+cat	epo	Aigua corrent - aigua pura.	Akvo kura - akvo pura.
+cat	epo	M'encanta el seu conyet depilat.	Tre plaĉas al mi ŝia senharigita piĉeto.
+cat	epo	Per dir "viure una vida còmoda" els alemanys diuen "viure com un Déu a França".	Por vivi komfortan vivon, la germanoj diras, "vivi kiel Dio en Francujo".
+cat	epo	Si vols.	Se vi volas.
+cat	epo	Sóc tan fort com tu.	Mi estas tiel forta, kiel vi.
+cat	epo	Em vaig trobar amb un amic meu.	Mi renkontis amikon mian.
+cat	epo	En Tom no sap la diferència entre un déu i un dimoni.	Tom ne scias la diferencon inter dio kaj diablo.
+cat	epo	La llibertat no és gratuïta.	Libero ne estas senkosta.
+cat	epo	Que fa calor a fora?	Ĉu estas varme ekstere?
+cat	epo	Sóc Tom.	Mi estas Tom.
+cat	epo	D'això se'n diu una gran bajanada.	Jen kiel granda idiotaĵo.
+cat	epo	Parlem sobre el mil·lenarisme.	Ni parolu pri mileniismo.
+cat	epo	He de vomitar.	Mi emas vomi.
+cat	epo	És tan difícil triar entre el cel i l'infern?	Ĉu estas tiom malfacile elekti inter paradizo kaj infero?
+cat	epo	Que n'aprenguin!	Ili vidu kaj lernu!
+cat	epo	Té números de sortir-se'n?	Ĉu li havas ŝancojn sukcesi?
+cat	epo	Tom i Maria no podien parlar l'un amb l'altre en aquell temps, doncs no parlaven cap llengua comuna.	Tom kaj Mary ne povis paroli unu kun la alia tiam, ĉar ili ne parolis komunan lingvon.
+cat	epo	(Jo) estava a punt de saltar per damunt del mur.	Mi estis saltonta trans la muron.
+cat	epo	Ella va romandre soltera tota la seva vida.	Ŝi restis fraŭlino dum sia tuta vivo.
+cat	epo	Recordeu en quin any va passar?	Ĉu vi memoras, en kiu jaro tio okazis?
+cat	epo	És una pena que estigui malalta.	Estas bedaŭrinde, ke ŝi malsanas.
+cat	epo	He perdut l'equipatge.	Mi perdis mian bagaĝon.
+cat	epo	Samsung és una gran empresa.	Samsung estas granda firmao.
+cat	epo	És una idea brillant.	Tio estas bonega ideo.
+cat	epo	Hi ha seixanta segons en un minut.	Unu minuto havas sesdek sekundojn.
+cat	epo	No podia respondre cap pregunta de la prova.	Eĉ ne unu demandon en tiu testo mi povis respondi.
+cat	epo	On puc deixar la bici?	Kie mi povas lasi la biciklon?
+cat	epo	Per molt estrany que sembli, ell no sabia la notícia	Ŝajnas strange, sed li ne sciis la novaĵon.
+cat	epo	He oblidat cridar-lo avui.	Mi forgesis alvoki lin hodiaŭ.
+cat	epo	Per què les persones van al cinema?	Kial homoj iras en kinejon?
+cat	epo	El supermercat és obert.	La vendejego estas malfermita.
+cat	epo	No vull ficar-me en els teus assumptes, però no tindràs més remei que anar-hi.	Mi ne volas meti min en viajn aferojn, sed vi ne povos fari ion alian ol iri tien.
+cat	epo	Els nens es cansen de pressa.	Infanoj rapide laciÄas.
+cat	epo	Ha d'anar a Anglaterra aquest estiu.	Mi devas iri al Anglujo ĉi-somere.
+cat	epo	El suicidi és una de les causes principals als paísos amb major esperança de vida.	Memmortigo estas unu el la ĉefaj mortokaŭzoj en la lando kun la plej longa vivespero.
+cat	epo	Hi havia quatre cadires a prop de la taula.	Estis kvar seĝoj apud la tablo.
+cat	epo	Aquest camí va a l'estació?	Ĉu tiu ĉi vojo kondukas al la stacidomo?
+cat	epo	No sóc gai, però m'agrada masturbar-me amb hòmens.	Mi ne estas gejo, sed mi ŝatas masturbi min kun viroj.
+cat	epo	No tinc altra opció que acceptar l'oferta.	Mi ne havis alian eblon ol akcepti la proponon.
+cat	epo	Ja ets suficientment adult com per saber el que fas.	Vi jam estas sufiĉe adolta por scii kion vi faras.
+cat	epo	Posa els diners al banc.	Metu la monon en la banko.
+cat	epo	Tots els éssers humans neixen lliures i iguals en dignitat i en drets. Són dotats de raó i de consciència, i han de comportar-se fraternalment els uns amb els altres.	Ĉiuj homoj estas denaske liberaj kaj egalaj laŭ digno kaj rajtoj. Ili posedas racion kaj konsciencon, kaj devus konduti unu al alia en spirito de frateco.
+cat	epo	Tu parles.	Vi parolas.
+cat	epo	El futur és nostre.	La estonteco estas nia.
+cat	epo	Sempre canviarem, sempre aprendrem.	Ni ĉiam ŝanĝiĝos, ni ĉiam lernos.
+cat	epo	Passa'm la sal, sisplau.	La salon, mi petas.
+cat	epo	Benvinguda a Tatoeba.	Bonvenon al Tatoeba.
+cat	epo	Oliva Esperanto-Klub' és una associació d'esperanto que té el seu club a Oliva (València, Espanya).	Oliva Esperanto-Klub' estas asocio de Esperanto kiu havas sian klubejon en Olivo (Valencio, Hispanio).
+cat	epo	Tinc un cotxe.	Mi havas aŭton.
+cat	epo	Vull enviar aquesta carta al Japó.	Mi volas sendi tiun ĉi leteron al Japanio.
+cat	epo	Tatoeba és una eina molt útil per millorar el nostre esperanto.	Tatoeba estas tre utila ilo por plibonigi nian Esperanton.
+cat	epo	El nostre estiu és curt, però calorós.	La somero ĉe ni estas mallonga sed varma.
+cat	epo	Ell és un home molt modest.	Li estas tre modesta viro.
+cat	epo	Mai és possible ser neutral. Inclús callar és una opinió.	Neniam eblas esti neŭtrala. Eĉ silenti estas opinio.
+cat	epo	Vaig baixar en l'estació equivocada.	Mi forlasis la trajnon en malĝusta stacio.
+cat	epo	No, eixa olor no em fa pensar sobre delicades roses. Convé més dir que em fa recordar el perfum inevitable d'una senyora major i coqueta.	Ne, tiu odoro ne pensigis pri delikataj rozoj. Pli trafas diri, ke ĝi igis min memori la trudeman parfumon de koketa maljuna sinjorino.
+cat	epo	Andorra és un dels països més petits d'Europa.	Andoro estas unu el la plej malgrandaj landoj en Eŭropo.
+cat	epo	Menjo perquè tinc gana.	Mi manĝas, ĉar mi estas malsata.
+cat	epo	Ella va guanyar tres mil euros en una nit.	En unu nokto ŝi enspezis tri mil eŭrojn.
+cat	epo	La doma que ahir va cridar ja ha vingut.	La virino, kiu hieraŭ telefonis, jam alvenis.
+cat	epo	No sé quan vindrà.	Mi ne scias, kiam li venos.
+cat	epo	És fàcil d'entendre que el dormir té influència en el benestar.	Facilas kompreni, ke la dormo havas influon al la sanstato.
+cat	epo	Tots els homes son mortals.	Ĉiuj viroj estas mortemaj.
+cat	epo	Hi ha supermercat en aquest centre comercial?	Ĉu ekzistas superbazaro en tiu ĉi aĉetcentro?
+cat	epo	Gràcies per tot.	Dankon pro ĉio.
+cat	epo	Tens una bona memòria.	Vi havas bonan memoron.
+cat	epo	Saps què vol dir això?	Ĉu vi scias, kion tio signifas?
+cat	epo	Son bons amics d'ell.	Ili estas bonaj amikoj de li.
+cat	epo	Encercleu la resposta correcta, sisplau.	Bonvolu ĉirkaŭstreki la ĝustan respondon.
+cat	epo	En Tom menja massa.	Tom manĝas tro.
+cat	epo	En Tom quasi no té experiència en les dones.	Tom havas preskaŭ neniun sperton pri virinoj.
+cat	epo	Hem de pagar el lloguer demà.	La lupago estas pagenda morgaŭ.
+cat	epo	Idiota!	Idioto!
+cat	epo	La dona ferida era una turista brasilera.	La vundita virino estis brazila turistino.
+cat	epo	Romanès és l'única llengua neolatina en la qual l'article definit es posposa al substantiu.	La rumana estas la sola latinida lingvo, en kiu la difina artikolo estas aldonata al la fino de la substantivo.
+cat	epo	Viatjar és un luxe que no puc permetre'm.	Vojaĝi estas lukso, kiun mi ne povas permesi al mi.
+cat	epo	Treballa en una investigació sobre la SIDA.	Li laboras pri esplorado de aidoso.
+cat	epo	Puc fer-ho.	Mi povas fari tion.
+cat	epo	No domina l'esperanto, però el xampurreja.	Li ne regas Esperanton, sed ja fuŝparolas ĝin.
+cat	epo	Deixa de donar pel cul!	Ĉesu tedaĉi!
+cat	epo	Tinc un amic el pare del qual és un pianista famós.	Mi havas amikon, kies patro estas fama pianisto.
+cat	epo	Davant de ma casa hi ha una llibreria.	Antaŭ mia domo troviĝas librovendejo.
+cat	epo	Avui fa molt de fred, oi?	Hodiaŭ tre malvarmas, ĉu ne?
+cat	epo	No m'agrada usar consoladors, preferisc els pius de veritat.	Mi ne ŝatas uzi gadmesojn, mi preferas la verajn kacojn.
+cat	epo	El Japó no és tant gran com el Canadà.	Japanio ne estas tiel granda kiel Kanado.
+cat	epo	Tomàs es va alçar i anà a la cuina per agafar-se una tassa de café.	Tomo ekstaris kaj iris en la kuirejon por havigi al si tason da kafo.
+cat	epo	Gràcies a Déu, van sortir incòlumes de l'accident.	Danke al Dio, ili eliris senvundaj el la akcidento.
+cat	epo	Ells varen atacar l'enemic.	Ili atakis la malamikon.
+cat	epo	Bon dia!	Bonan tagon!
+cat	epo	Ell va tenir un accident i es va fracturar un os.	Li havis akcidenton kaj rompis oston.
+cat	epo	Un, dos, tres, quatre, cinc, sis, set, vuit, nou, deu.	Unu, du, tri, kvar, kvin, ses, sep, ok, naŭ, dek.
+cat	epo	L'anglès no és fàcil per a mi.	La angla ne estas facila por mi.
+cat	epo	Aquest és el teu gos.	Tio estas via hundo.
+cat	epo	Mercès per tot.	Dankon por ĉio.
+cat	epo	Aquest medicament t'ajudarà.	Ĉi tiu medikamento helpos vin.
+cat	epo	Bill era al Japó.	Bill estis en Japanio.
+cat	epo	L'oficina de correus és a mitja milla.	La poŝta oficejo troviĝas duonmejlon de ĉi tie.
+cat	epo	Tinc un maldecap.	Mi havas problemon.
+cat	epo	França és a l'Europa Occidental.	Francujo estas en okcidenta Eŭropo.
+cat	epo	Ells no beuen.	Ili ne trinkas.
+cat	epo	Al final em vaig guanyar la cardamistat d'aquella noia.	Fine mi gajnis al mi la fikamikecon de tiu knabino.
+cat	epo	Feliç aniversari!	Feliĉan datrevenon!
+cat	epo	El vaig confundir amb el seu germà.	Mi konfuzis lin kun lia frato.
+cat	epo	Benvingut!	Estu bonvena!
+cat	epo	Ets sord?	Ĉu vi estas surda?
+cat	epo	Me'n vaig a la platja.	Mi iras al la plaĝo.
+cat	epo	Fins i tot un professor pot cometre errades.	Ankaŭ instruisto foje eraras.
+cat	epo	ET, telèfon, ma casa.	ET, telefono, mia domo.
+cat	epo	A en Tom no li agrada que li diguin el que ha de fer.	Al Tom ne plaĉas, se oni diras al li, kion li faru.
+cat	epo	El dia de Sant Valentí se celebra el febrer.	Sankta Valenteno estas festata en februaro.
+cat	epo	Ell és fort, valent i sobretot, amable.	Li estas forta, kuraĝa kaj, plejmulte, ĝentila.
+cat	epo	Una quantitat considerable d'alumnes vol anar a la universitat.	Konsiderinda kvanto da studentoj volas iri al universitato.
+cat	epo	Vostè rebrà el dret a escollir.	Vi ricevos la rajton elekti.
+cat	epo	Hola, el meu nom és Ken Saitou.	Saluton, mi nomiĝas Ken Saitou.
+cat	epo	La nit que vam quedar, jo no tenia cap preservatiu a mà— o millor dit al penis.	La vesperon kiam mi renkontis ŝin, mi bedaŭrinde ne havis kondomon disponeblan ĉe mano, tiu signifas ĉe peniso.
+cat	epo	Avui fa més vent que ahir.	Hodiaŭ pli ventas ol hieraŭ.
+cat	epo	Gràcies de tot cor.	Elkoran dankon!
+cat	epo	Esperarem fins que ell arribe.	Ni atendu ĝis li revenos.
+cat	epo	Bon nadal!	Bonan kristnaskon!
+cat	epo	En Tom caminava sol.	Tom marŝis sola.
+cat	epo	Has començat a aprendre esperanto.	Vi komencis lerni Esperanton.
+cat	epo	Això és tot, amics.	Jen ĉio, amikoj.
+cat	epo	Ha fugit un bou en pantalons curts acusat de furt.	Eskapis taŭro en pantalono kurta, akuzata pri ŝtelo.
+cat	epo	El Japó importa una gran quantitat de petroli.	Japanujo importas grandajn kvantojn da petrolo.
+cat	epo	Digues-li que esperi, per favor.	Bonvolu peti lin atendi.
+cat	epo	No pots parlar amb anglès, o si?	Vi ne povas paroli la anglan, aŭ ĉu vi povas?
+cat	epo	Sempre hem estat molt bons cardamics.	Ni ĉiam estis tre bonaj fikamikoj.
+cat	epo	Això no és espanyol.	Ĉi tio ne estas hispana.
+cat	epo	Giri a la dreta.	Turnu vin dekstren.
+cat	epo	Na María s'assembla a la seva mare.	Maria aspektas kiel ŝia patrino.
+cat	epo	Estic cansada.	Mi estas edziniĝinta.
+cat	epo	Quina mala notícia!	Kia malbona novaĵo!
+cat	epo	Ella sempre està intentant trobar la felicitat.	Ŝi ĉiam intencas trovi la feliĉon.
+cat	epo	Vull llogar un cotxe.	Mi volas lui aŭton.
+cat	epo	Sabeu a quina divinitat està dedicat aquest temple?	Ĉu vi scias, al kiu dio tiu templo estas dediĉita?
+cat	epo	Jo ignorava que ell era allà.	Mi ne sciis, ke li estas tie.
+cat	epo	Jo també tinc 17 anys.	Ankaŭ mi havas dek sep jarojn.
+cat	epo	Hi ha diverses preguntes importants que la ciència no pot respondre.	Estas kelkaj gravaj demandoj, kiujn scienco ne povas respondi.
+cat	epo	Si vols jutjar un amic, mira abans si tu ets un sant.	Antaŭ ol juĝi pri amiko, pripensu, ĉu vi estas sanktulo!
+cat	epo	El Tom es va divertir molt a la festa.	Tom sin multe amuzis en la festo.
+cat	epo	Hi ha díes que sento que el meu cervell em vol abandonar.	Estas tagoj, kiam mi havas la impreson, ke mia cerbo volas forlasi min.
+cat	epo	Fa fred.	Malvarmas.
+cat	epo	La guerra va durar dos anys.	La milito daŭris du jarojn.
+cat	epo	Em vaig quedar molt sorpresa per la mort de Joan.	Mi estis ŝokita pro la morto de John.
+cat	epo	Poses sucre al teu cafè?	Ĉu vi metas sukeron en vian kafon?
+cat	epo	He comprat la novel·la en la qual es basa la pel·licula.	Mi aĉetis la romanon, al kiu la filmo estis adaptita.
+cat	epo	En comptes d'anar directament a casa, vaig agafar el camí llarg i vaig parar a l'oficina de correus.	Anstataŭ iri rekte hejmen mi prenis la longan vojon kaj haltis en la poŝtoficejo.
+cat	epo	La seva professió és dentista.	Profesie li estas dentisto.
+cat	epo	Aquesta poma és dolça.	Ĉi tiu pomo estas dolĉa.
+cat	epo	Tots ells són d'Islàndia.	Ili ĉiuj estas de Islando.
+cat	epo	Sóc bisexual: tinc una nóvia a París i una altra a Lió.	Mi estas ambaŭseksemulo: mi havas koramikinon en Parizo kaj alian en Liono.
+cat	epo	Tu ets mes alt que ella.	Vi estas pli alta ol ŝi.
+cat	epo	No puc respirar pel nas.	Mi ne povas spiri per la nazo.
+cat	epo	La batalla va durar 15 minuts. Sí, va ser una representació.	La batalo daŭris 15 minutojn. Jes, ĝi estis prezentaĵo.
+cat	epo	Per què està prohibit pescar ací?	Kial fiŝkapti tie ĉi estas malpermesata?
+cat	epo	Mai no tindré una filla.	Mi neniam havos filinon.
+cat	epo	Què opines d'una tal acció?	Kion vi opinias pri tia ago?
+cat	epo	En general, els homes són més alts que les dones.	Ĝenerale, viroj pli altas ol virinoj.
+cat	epo	Les paraules no poden descriure fins a quin punt estàs equivocat.	Vortoj ne plu povas priskribi kiagrade vi eraregas.
+cat	epo	Vàrem jugar a bàsquet al gimnàs.	Ni ludis korbopilkon en la gimnastikejo.
+cat	epo	Pots cridar-me a cualsevol hora.	Vi povas alvoki min je iu ajn horo.
+cat	epo	Li surt un ou pels pantalons.	Al li eliĝas unu ovo tra la kalsono.
+cat	epo	Ell va descriure la seva pròpia experiència.	Li priskribis sian propran sperton.
+cat	epo	Els flocs de neu són blancs.	La neĝeroj estas blankaj.
+cat	epo	M'agrada l'atmòsfera d'aquest restaurant.	La etoso de ĉi tiu restoracio plaĉas al mi.
+cat	epo	L'estiu ja ha passat.	La somero pasis.
+cat	epo	No l'he vist des d'aleshores.	Mi ne vidis lin ekde tiam.
+cat	epo	La Coca-Cola va inventar la Fanta, en plena Segona Guerra Mundial, per al mercat alemany.	La firmao Coca Cola evoluigis la limonadon Fanta, meze de la Dua Monda Milito, por la germana merkato.
+cat	epo	Odio aquestes paraules.	Mi malamas ĉi tiujn vortojn.
+cat	epo	El teu termos està regalant.	Via izolokruĉo likas.
+cat	epo	Disculpi, quina hora és?	Pardonu, kioma horo estas?
+cat	epo	Déu li ha donat una cara bonica i una veu dolça.	Dio donis al ŝi beletan vizaĝon kaj dolĉan voĉon.
+cat	epo	Tot passa per una raó	Ĉio okazas pro iu motivo.
+cat	epo	He visitat el Canadà fa molt de temps.	Mi vizitis Kanadon antaŭ longe.
+cat	epo	Tot el cel s'il·luminà i va haver-hi una explosió.	La tuta ĉielo lumiĝis kaj estiĝis eksplodo.
+cat	epo	El nostre amic Pere s'ha tornat boig.	Nia amiko Peter freneziĝis.
+cat	epo	Esperanto, llengua internacional y fàcil!	Esperanto estas internacia kaj facila lingvo!
+cat	epo	Sóc prim però estic gras	Mi kutime estas maldika, sed nun mi estas dika.
+cat	epo	Crist ha ressuscitat!	Kristo resurektis!
+cat	epo	La meva mare ha sortit de casa fa deu minuts.	Mia patrino forlasis la domon antaŭ dek minutoj.
+cat	epo	No m'éntén ningú.	Neniu komprenas min.
+cat	epo	Crec que no funciona.	Mi ne kredas, ke ĝi funkcias.
+cat	epo	Com es pronuncia el símbol "@" en la teva llengua?	Kiel oni elparolas la signon @ en via lingvo?
+cat	epo	Provem quelcom!	Provu ni ion!
+cat	epo	Tom sap com arribar-hi.	Tom scias kiel iri tien.
+cat	epo	Ell arribarà força aviat.	Li alvenos vere baldaŭ.
+cat	epo	Acaba d'arribar.	Li ĵus venis.
+cat	epo	Qui farà el paper de princesa?	Kiu ludos la rolon de princino?
+cat	epo	Em dutxo tots els dies.	Mi ĉiutage duŝas min.
+cat	epo	Els peixos viuen al mar.	Fiŝoj vivas en la maro.
+cat	epo	Qui és el vostre advocat?	Kiu estas via advokato?
+cat	epo	Jo sóc!	Mi estas!
+cat	epo	Ell guanya vint dòlars al día.	Li lukras po dudek dolarojn en tago.
+cat	epo	He optat pel verd per a les cortines.	Mi elektis verdon por la kurtenoj.
+cat	epo	Vull saber a quina hora començarà el concert.	Mi scivolis je kiu horo la koncerto komenciĝos.
+cat	epo	Ella té curiositat per saber qui va enviar les flors.	Ŝi volas ekscii, kiu al ŝi sendis la florojn.
+cat	epo	Parles àrab?	Ĉu vi parolas la araban?
+cat	epo	Els dofins i les balenes no són peixos.	Delfenoj kaj balenoj ne estas fiŝoj.
+cat	epo	Jo era un estudiant en aquella època.	Mi estis studento tiutempe.
+cat	epo	Hola, hi és el senyor Freeman?	Saluton, ĉu sinjoro Freeman ĉeestas?
+cat	epo	No van tornar mai al seu país.	Ili neniam revenis al sia lando.
+cat	epo	Aquella és la causa del seu fracàs.	Jen la kaŭzo de lia fiasko.
+cat	epo	He oblidat el seu número de telèfon.	Mi forgesis lian telefonnumeron.
+cat	epo	Un dia m'agradaria visitar New York.	Mi ŝatus iam viziti Nov-Jorkon.
+cat	epo	Eixa metja no sap res del teu assumpt.	Tiu kuracistino scias nenion pri via afero.
+cat	epo	No li hauríeu h'haver dit coses així.	Vi ne estus devinta diri tian aferon al li.
+cat	epo	Vaig oblidar portar el meu paraigües amb mi.	Mi forgesis kunporti mian pluvombrelon.
+cat	epo	Encara que sigui ric, no és feliç.	Kvankam riĉa, li ne estas feliĉa.
+cat	epo	S'han de llegir molts llibres a la joventut.	Estante juna oni legu multajn librojn.
+cat	epo	Les pupil·les dels seus ulls tenien la negror d'un profund abisme.	Ŝiaj pupiloj estis nigraj kaj profundaj kiel abismo.
+cat	epo	Gràcies per tot.	Dankon por ĉio.
+cat	epo	Na Jane és més atractiva que na Susan.	Jane estas pli alloga ol Susan.
+cat	epo	La Terra és massa petit.	La Tero estas tro malgranda.
+cat	epo	Entre el desig i la realització s'estenia un llarg camí.	Inter deziro kaj realigo sin etendas longa vojo.
+cat	epo	L'amor apareix a l'horitzont.	La amo aperas en horizonto.
+cat	epo	Si em quedo a casa m'avorriré.	Se mi restos hejme mi ja enuos.
+cat	epo	Ella no fuma.	Ŝi ne fumas.
+cat	epo	Com va menjar? - Molt ràpid.	Kiel ŝi manĝis? - Tre rapide.
+cat	epo	Ell no pot parar-me.	Li ne povas haltigi min.
+cat	epo	Quin és més gran: el Sol o la Terra?	Kiu pli grandas, ĉu Suno, ĉu Tero?
+cat	epo	Teniu un?	Ĉu vi havas unu?
+cat	epo	Tinc una amica que els coneix.	Mi havas amikinon, kiu konas ilin.
+cat	epo	Ja duus barba?	Ĉu vi jam havas barbon?
+cat	epo	Jo no puc parlar Francès.	Mi ne povas paroli la francan.
+cat	epo	Estic embarassada de quatre mesos.	Mi estas graveda kvar monatojn.
+cat	epo	Ho sap tot d'Alemanya.	Li scias ĉion pri Germanujo.
+cat	epo	M'agradaria saber quan tens la intenció de retornar-me les estisores que et vaig deixar.	Mi ŝatus scii, kiam vi intencos redoni al mi la tondilon, kiun mi pruntedonis al vi.
+cat	epo	Ambdues paraules es poden utilitzar d'acord amb la lliure elecció dels usuaris.	Ambaŭ vortoj estas uzeblaj laŭ la libera elekto de la uzantoj.
+cat	epo	Si una nació espera ser ignorant i lliure, espera el que mai va ser i mai ho serà.	Se nacio esperas esti senscia kaj libera, ĝi esperas ion, kio neniam estis kaj neniam estos.
+cat	epo	Com ha pagat Tom el lloguer?	Kiel Tomo pagis la luprezon?
+cat	epo	No, gràcies.	Ne, dankon.
+cat	epo	La teva tos és conseqüència de fumar.	Via tusado estas sekvo de fumado.
+cat	epo	No puges les escales de tres en tres.	Ne supreniru la ŝtupojn po tri unupaŝe.
+cat	epo	Vaig ser arrestat perquè el vaig ajudar a fugir.	Mi estis arestita, ĉar mi helpis lin eskapi.
+cat	epo	El teu amic està cansat.	Via amiko lacas.
+cat	epo	Júpiter és el planeta més gran del sistema solar.	Jupitero estas la plej granda planedo de la sunsistemo.
+cat	epo	Va morir de càncer.	Li mortis pro kancero.
+cat	epo	Quants minuts hi han en una hora? - En una hora hi han seixanta minuts.	Kiom da minutoj estas en unu horo? - En unu horo estas sesdek minutoj.
+cat	epo	La traducció era fidel a l'original.	La traduko estis fidela al la originalo.
+cat	epo	Alguns diuen que ho saben tot.	Kelkaj pretendas scii ĉion.
+cat	epo	Tinc moltes monedes en aquesta caixa.	Mi havas multajn monerojn en tiu ĉi skatolo.
+cat	epo	Tinc un problema.	Mi havas problemon.
+cat	epo	Ell treballa al laboratori.	Li laboras en la laboratorio.
+cat	epo	Hellen Keller era sorda i cega.	Helen Keller estis surda kaj blinda.
+cat	epo	Tornarem a veure'ns algún día.	Ni revidos iam unu la alian.
+cat	epo	El Japó no és tant gran com el Canadà.	Japanio ne estas tiel granda, kiel Kanado.
+cat	epo	He venut el meu ordinador.	Mi vendis mian komputilon.
+cat	epo	Tots saben, que ella es comprensiva.	Ĉiuj scias, ke ŝi estas komprenema.
+cat	epo	Provem alguna cosa!	Ni provu ion!
+cat	epo	M'alegro de veure't de nou.	Mi ĝojas revidi vin.
+cat	epo	A l'hotel Hilton, sisplau.	Al la hotelo Hilton bonvolu.
+cat	epo	Les il·lusions no duren gaire.	Iluzioj daŭras nelonge.
+cat	epo	Durant les vacances d'estiu he conegut una dona bella.	Dum miaj somerferioj mi renkontis belan virinon.
+cat	epo	No dibuixis el diable a les parets.	Ne pentru la diablon sur la muron.
+cat	epo	Abans que res, acaba les teues tasques.	Plej unue plenumu viajn hejmtaskojn.
+cat	epo	Vols un suc de fruita?	Ĉu vi deziras fruktsukon?
+cat	epo	No tinc la força per continuar triant.	Mi ne havas la forton por provadi plu.
+cat	epo	França és a l'Europa Occidental.	Francio situas en Okcident-Eŭropo.
+cat	epo	Quan tornarà?	Kiam li revenos?
+cat	epo	Pots passar la nit aquí.	Vi povas tranokti tie ĉi.
+cat	epo	Son bons amics vostres.	Ili estas bonaj amikoj de vi.
+cat	epo	Visc a prop de la mar.	Mi loĝas apud la maro.
+cat	epo	Charlotte, quina mena d'idioma és aquest?	Ŝarlota, jen kiu lingvo?
+cat	epo	Ell va viatjar en metro.	Li veturis per metroo.
+cat	epo	Vinga, juguem als escacs un altre cop!	Ni ludu ŝakon plian fojon.
+cat	epo	El seu pare es japonès.	Lia patro estas japano.
+cat	epo	No sabia perquè servia l'eternitat. És per donar a alguns de nosaltres una oportunitat d'aprendre l'alemany.	Antaŭe mi ne sciis, kial eterneco ekzistas. Ĝi donas kelkajn el ni la eblon lerni la germanan.
+cat	epo	Parla anglès molt bé.	Li bonege parolas angle.
+cat	epo	Perquè sé parlar xinès.	Ĉar mi povas paroli la ĉinan.
+cat	epo	El gos és el millor amic de l'home.	Hundo estas la plej bona amiko de la homo.
+cat	epo	Gràcies de tot cor.	Koran dankon!
+cat	epo	Ara he d'anar a aquella reunió.	Mi devas nun iri al tiu kunsido.
+cat	epo	Els drets no es pidolen, sinò que es conquereixen.	Rajtojn oni ne almozas, sed ilin konkeras.
+cat	epo	Va a ploure.	Ekpluvos.
+cat	epo	L'ocell és al cel.	La birdo estas en la ĉielo.
+cat	epo	En Tom està progressant molt amb el francès.	Tomo bone progresas en la franca.
+cat	epo	Res de nou a l'oest.	En okcidento nenio nova.
+cat	epo	Hui l'esperanto té 125 anys!	Hodiaŭ Esperanto aĝas 125 jarojn!
+cat	epo	Quan els vaig veure els ho vaig dir, i a ell també l'hi vaig comentar.	Kiam mi vidis ilin mi diris tion al ili kaj al li ankaŭ mi tion komentis.
+cat	epo	Vaig comprar un periòdic anglès.	Mi aĉetis anglalingvan ĵurnalon.
+cat	epo	No sent les cames.	Mi ne sentas miajn krurojn.
+cat	epo	Ell es vesteix com un cavaller però parla i actúa com un paiaso.	Li vestiĝas kiel ĝentilulo, sed parolas kaj kondutas kiel arlekeno.
+cat	epo	En general, els homes són més alts que les dones.	Ĝenerale viroj estas pli altaj ol virinoj.
+cat	epo	Les faldilles curtes ja no estan de moda.	Mallongaj jupoj ne plu modas.
+cat	epo	No puc dormir per culpa de tots aquestos grans sorolls.	Mi ne povas dormi pro ĉiuj ĉi bruegoj.
+cat	epo	Va anar-se'n de l'oficina sense dir-ne res a ningú.	Li eliris la oficejon sen mencii tion al iu ajn.
+cat	epo	A Tomàs tampoc li agrades massa.	Ankaŭ Tomo ne tre ŝatas vin.
+cat	epo	Diuen que va morir aquí.	Onidire li mortis ĉi tie.
+cat	epo	Van acordar quedar de nou el matí següent.	Ili interkonsentis renkontiĝi denove la sekvan matenon.
+cat	epo	Paseu bon día.	Pasigu bonan tagon.
+cat	epo	Jo prefereixo la natació a l'esquí.	Mi preferas naĝadon al skiado.
+cat	epo	La gana és la millor cuinera.	Malsato estas la plej bona kuiristo.
+cat	epo	No vull que sigui descurat.	Mi deziras, ke oni ne neglektu lin.
+cat	epo	Moltes gràcies!	Dankegon!
+cat	epo	Ell és tres anys més gran que ella.	Li aĝas tri jarojn pli ol ŝi.
+cat	epo	El sou del just és la vida, un final desastrós és el sou del malvat.	La laborpago de piulo estas por la vivo; la enspezoj de malpiulo estas por peko.
+cat	epo	Fins demà.	Ĝis morgaŭ.
+cat	epo	Ha mirat la tele tot el dia.	Li spektis televidon dum la tuta tago.
+cat	epo	El 1981 Reagan es va convertir en president dels Estats Units.	En 1981 Reagan fariĝis prezidento de Usono.
+cat	epo	Bon nadal!	Feliĉan Kristnaskon!
+cat	epo	La seva dona és la nostra professora d'italià.	Lia edzino estas nia instruistino pri la itala.
+cat	epo	Vols casar-te amb mi?	Ĉu vi volas edzinigi min?
+cat	epo	És il·legal copiar llibres sense l'autorització de l'autor.	Estas kontraŭleĝe kopii el libroj sen permeso de la aŭtoro.
+cat	epo	Als nens els agrada veure la televisió.	Infanoj Åatas spekti televidon.
+cat	epo	Quins idiomes es parlen a Amèrica?	Kiujn lingvojn oni parolas en Ameriko?
+cat	epo	És una bona resposta.	Tio estas bona respondo.
+cat	epo	M'agraden els idiomes!	Al mi plaĉas la lingvoj!
+cat	epo	La vida s'ha tornat molt difícil.	La vivo tre malfaciliĝis.
+cat	epo	Moltes gràcies.	Multan dankon!
+cat	epo	Passejo cada dia menys quan plou.	Mi ĉiutage promenadas, escepte se pluvas.
+cat	epo	Ells guarden els peixos en caixes.	Ili konservas fiŝaĵon en skatoloj.
+cat	epo	És difícil parlar tres llengues.	Estas malfacile paroli tri lingvojn.
+cat	epo	Ella té dues germanes. Totes dues viuen a Kyoto.	Ŝi havas du fratinojn. Ambaŭ loĝas en Kioto.
+cat	epo	No tinc temps per viatjar als Estats Units.	Mi ne havas tempon veturi al Usono.
+cat	epo	No sé si és amor.	Mi ne scias ĉu tio estas amo.
+cat	epo	Pots abaixar la ràdio?	Ĉu vi povus mallaŭtigi la radioaparaton?
+cat	epo	Ell guanya vint dòlars al día.	Li perlaboras dudek dolarojn tage.
+cat	epo	Clava-me-la per la figa.	Piĉpiku min.
+cat	epo	El seu únic desig era veure el seu fill un altre cop.	Lia sola deziro estis ankoraŭfoje revidi sian filon.
+cat	epo	Tens por a l'obscuritat?	Ĉu vi timas la malhelecon?
+cat	epo	A Tomàs tampoc li agrades massa.	Ankaŭ al Tomo ne tre plaĉas vi.
+cat	epo	Com es diu "a reveure" en alemany?	Kiel oni diras "ĝis revido" en la germana?
+cat	epo	Ets és la persona més important en la meva vida.	Vi estas la plej grava persono en mia vivo.
+cat	epo	Ella haurà de cuinar per tots.	Ŝi devos kuiri por ĉiuj.
+cat	epo	Intentà d'ampliar la seva esfera d'influència.	Li provis plivastigi sian influsferon.
+cat	epo	Tenien un bon motiu per estar feliços.	Ili havis bonan motivon por esti feliĉaj.
+cat	epo	No hi ha tovalloles a l'habitació quinze.	Ne estas mantukoj en ĉambro numero dek kvin.
+cat	epo	Deus estar trist, ja que has perdut un dels teus amics.	Vi devas esti malgaja, ĉar vi perdis unu el viaj amikoj.
+cat	epo	Han mort en Kenny.	Ili mortigis Kenny.
+cat	epo	Sóc un noi.	Mi estas knabo.
+cat	epo	Has de llevar-te les sabates abans d'entrar a l'habitació.	Vi devas demeti viajn ŝuojn antaŭ ol eniri la ĉambron.
+cat	epo	Bon profit!	Bonan apetiton!
+cat	epo	M'agraden ambdós.	Mi ŝatas ambaŭ.
+cat	epo	Vull veure la pel·lícula.	Mi volas vidi la filmon.
+cat	epo	Et criden l'atenció aquests quadres?	Ĉu atentigas vin tiuj kadroj?
+cat	epo	Aixo depen del contexte	Tio dependas de la kunteksto.
+cat	epo	Saben què ha passat.	Ili scias, kio okazis.
+cat	epo	El supermercat és obert.	La superbazaro estas malfermita.
+cat	epo	Sempre hem sigut molt bons follamics.	Ni ĉiam estis tre bonaj fikamikoj.
+cat	epo	Hi ha seixanta segons en un minut.	Estas sesdek sekundoj en unu minuto.
+cat	epo	Tom no és feliç.	Tom ne feliĉas.
+cat	epo	No parlo ni francès ni alemany.	Mi parolas nek la francan nek la germanan.
+cat	epo	Ha fugit un bou en pantaons curts.	Eskapis bovo kun pantalono kurta.
+cat	epo	Mentre hi ha vida, hi ha esperança.	Dum estas vivo tiam estas espero.
+cat	epo	Un passaport és una cosa, sense la qual ningú no pot viatjar a un país estranger.	Pasporto estas nemalhaveblaĵo, kiam oni iras eksterlanden.
+cat	epo	(Ell) ha perdut el seu fill estimat.	Li perdis sian amatan filon.
+cat	epo	Ell va deixar de fumar.	Li ĉesis fumi.
+cat	epo	(Vosaltres) Sou grans, com el Tom.	Vi estas same grandaj, kiel Tom.
+cat	epo	Tots s'han rigut del seu error.	Ili ĉiuj ridis pri lia eraro.
+cat	epo	Vaig anar a l'aeroport per acomiadar un amic.	Mi iris la flughavenon por adiaŭi amikon.
+cat	epo	En Tom ja no estudia francès.	Tomo ne plu lernas la francan.
+cat	epo	Que vols més pastís?	Ĉu vi volas pli da kuko?
+cat	epo	No ho oblideu: ningú no ho sap tot!	Ne forgesu: neniu scias ĉion.
+cat	epo	Tens bona cara.	Vi aspektas bone.
+cat	epo	No som la policia.	Ni ne estas la polico.
+cat	epo	Ella té cinc anys.	Ŝi havas kvin jarojn.
+cat	epo	No sols m'ha donat consells sinó també diners.	Li donis al mi ne nur instruojn, sed ankaŭ monon.
+cat	epo	Vostè quan beu cafè?	Kiam vi trinkas kafon?
+cat	epo	Aquesta és una carta molt estranya.	Tio estas tre stranga letero.
+cat	epo	Ho sap la teua mare?	Ĉu via patrino scias tion?
+cat	epo	M'agrada escoltar música.	Mi ŝatas aŭskulti muzikon.
+cat	epo	Avui hi ha pocs clients.	Klientoj malmultas hodiaŭ.
+cat	epo	"A què s'assembla?" "A un home trist."	"Kio li aspektas?" "Malgaja ulo."
+cat	epo	Fes l'amor i no la guerra.	Amoru, ne militu.
+cat	epo	Vosté és sempre benvingut.	Vi ĉiam bonvenas.
+cat	epo	Merda!	Feko!
+cat	epo	Quants amics del cor tens?	Kiom da intimaj amikoj vi havas?
+cat	epo	El seu comportament és admirable.	Ŝia konduto estas admirinda.
+cat	epo	Miro la televisió abans d'estudiar.	Mi spektas televidon antaŭ ol studi.
+cat	epo	Molts mariners no saben nedar,	Multaj maristoj ne scipovas naĝi.
+cat	epo	Vull aprendre l'esperanto.	Mi volas lerni Esperanton.
+cat	epo	Avui t'estimo més que ahir, però menys que demà.	Hodiaŭ mi amas vin pli ol hieraŭ, sed malpli ol morgaŭ.
+cat	epo	No pots dir "no".	Vi ne povas diri "ne".
+cat	epo	Ell té més de quaranta anys.	Li havas pli ol kvardek jarojn.
+cat	epo	Ha fugit un bou en pantaons curts.	Bovo kun mallonga pantalono fuĝis.
+cat	epo	L'anglès és una llengua molt important al món d'avui.	La angla estas tre grava lingvo en la hodiaŭa mondo.
+cat	epo	L'home proposa i Déu disposa.	Homo pafas, Dio trafas.
+cat	epo	És un bon amic teu.	Li estas bona amiko de vi.
+cat	epo	En València es parla valencià i espanyol.	En Valencio oni parolas valencie kaj hispane.
+cat	epo	Les vacances d'estiu arribaran avait.	Baldaŭ estos somerferioj.
+cat	epo	Que us estimeu els uns als altres, tal com jo us he estimat.	Amu unu alian tiel same, kiel mi vin amis.
+cat	epo	L'home és sobre tot un animal que jutja.	La homo estas ĉefe animalo, kiu juĝas.
+cat	epo	Vols casar-te amb mi?	Ĉu vi volas edziniĝi kun mi?
+cat	epo	Què passaria si dos països poderosos amb diferents llengües - tal com els Estats Units i Xina - acceptassin l'ensenyança experimental de l'esperanto a les escoles primàries?	Kio okazus, se du potencaj landoj kun malsamaj lingvoj - kiaj Usono kaj Ĉinujo - konsentus pri eksperimenta instruado de Esperanto en bazaj lernejoj?
+cat	epo	La vostra resposta és errònia.	Via respondo malĝustas.
+cat	epo	Quin gos més gran!	Kiom granda hundo ĝi estas.
+cat	epo	Una tercera part dels membres són dones.	Triono de la ses anoj estis virinoj.
+cat	epo	Ella gasta molts diners en llibres.	Ŝi multe elspezas por libroj.
+cat	epo	El gos és el millor amic de l'home.	La hundo estas la plej bona amiko de la homo.
+cat	epo	M'agrada masturbar-me olorant les bragues de la meua nóvia.	Mi ŝatas masturbi min priflarante la kalsonetojn de mia koramikino.
+cat	epo	Vés a cagar!	Forfeku!
+cat	epo	Qui no fa res malament, no fa res.	Nur tiu ne eraras, kiu neniam ion faras.
+cat	epo	A classe no hi ha ningú que el superi corrent.	Neniu klasano kuras tiel rapide kiel li.
+cat	epo	He comprat un diccionari de butxaca.	Mi aĉetis poŝvortaron.
+cat	epo	Com els vols?	Kiel vi volas ilin ?
+cat	epo	Què fas normalment a les vacances?	Kion vi kutime faras dum ferioj?
+cat	epo	El meu número de telèfon es el dos, quatre, sis, vuit.	Mia telefonnumero estas du, kvar, ses, ok.
+cat	epo	Treballo per tu.	Mi laboras por vi.
+cat	epo	Ella té un gat blanc.	Ŝi havas blankan katon.
+cat	epo	Dorm com un bebè	Li dormas kiel bebo.
+cat	epo	Què hi ha?	Kio okazas?
+cat	epo	El meu hobby és escoltar música.	Mia hobio estas aŭskulti muzikon.
+cat	epo	Fins i tot el meu lloro sap parlar esperanto.	Eĉ mia papago scipovas paroli Esperanton.
+cat	epo	Els meus llibres estan en romenès; els d'ella, en anglès.	Miaj libroj estas en la rumana, ŝiaj estas en la angla.
+cat	epo	Crec que en Tom no està a casa.	Mi supozas, ke Tom ne estas hejme.
+cat	epo	Ella és forta.	Ŝi estas forta.
+cat	epo	Jo tampoc entenc res.	Ankaŭ mi komprenis nenion.
+cat	epo	Quant et dec?	Kiom mi ŝuldas al vi?
+cat	epo	"Això no és possible!" — "Però així és!"	"Tio ne eblas!" — "Sed tiel estas!"
+cat	epo	El cafè té un gust amarg.	La kafo gustas amare.
+cat	epo	Vull anar allà on vagis.	Mi volas iri tien, kien vi iros.
+cat	epo	Qui compra aquest tipus d'art?	Kiu aĉetas tian artaĵon?
+cat	epo	La meva àvia per part de mare sempre porta roba de l'any de la castanya.	Mia avino de la patrina flanko persistas porti ĉi tiun malmodernan robon.
+cat	epo	Feliç dia de la Mare!	Feliĉan patrinan tagon!
+cat	epo	Son bons amics nostres.	Ili estas bonaj amikoj de ni.
+cat	epo	Ella no té més de quinze dòlars	Ŝi havas ne pli ol dek kvin dolarojn.
+cat	epo	Hola.	Saluton!
+cat	epo	La vida no és fàcil.	La vivo malfacilas.
+cat	epo	Aquí fa fresca i s'hi està bé.	Ĉi tie malvarmetas kaj estas agrable.
+cat	epo	Hi ha moltes llengües planificades, però l'esperanto és la més parlada.	Ekzistas multaj planlingvoj, sed Esperanto estas la plej parolata.
+cat	epo	D'on véns?	El kie vi venas?
+cat	epo	Ha fugit un bou en pantalons curts acusat de furt.	Fuĝis bovo en ĉemizo, por eskapi de la krizo.
+cat	epo	I, jo sóc el seu entrenador.	Kaj, mi estas via trejnisto.
+cat	epo	Quan et mire el cul se'm posa dura.	Kiam mi rigardas vian pugon mi iĝas durkaca.
+cat	epo	Realitze les tasques domèstiques.	Mi faras miajn hejmmastrumajn laborojn.
+cat	epo	El tenis és molt popular entre els estudiants.	Teniso estas tre populara inter la studentoj.
+cat	epo	Li ha dit Carles.	Ŝi nomis lin Charles.
+cat	epo	Demá compliré 28 anys.	Morgaŭ mi iĝos dudek-ok-jara.
+cat	epo	Ell coneix la moderna literatura anglesa.	Li konas la modernan anglan literaturon.
+cat	epo	Hem de reduir la despesa per tal d'estalviar diners.	Ni devas malpliigi niajn elspezojn por ŝpari monon.
+cat	epo	Ell té por del pare.	Li timas la patron.
+cat	epo	hi ha una flor sobre la taula.	Sur la tablo estas floro.
+cat	epo	Quan tornaràs als Estats Units?	Kiam vi revenis al Usono?
+cat	epo	Roma és la capital del món.	Romo estas la ĉefurbo de l'mondo.
+cat	epo	Tots s'han rigut del seu error.	Ĉiuj ridis pri lia eraro.
+cat	epo	Tal pare, tal fill.	Kia patro, tia filo.
+cat	epo	Molts són cridats, però pocs elegits.	Multaj estas vokitaj, sed malmultaj estas elektitaj.
+cat	epo	Voldria que el Quim Monzó em firmés el llibre però em fa vergonya demanar-li.	Mi dezirus, ke Quim Monzó subskribu la libron por mi, sed mi hontas peti lin.
+cat	epo	Què passarà el dijous?	Kio okazos ĵaŭdon?
+cat	epo	No ha vist a ningú.	Li vidis neniun.
+cat	epo	No és fàcil parlar una llengua estrangera.	Ne facilas paroli fremdan lingvon.
+cat	epo	Els he vist entrar al banc.	Mi vidis ilin eniri la bankon.
+cat	epo	L'ix un ou pels calçotets	Al li eliĝas unu ovo tra la kalsono.
+cat	epo	Parles català?	Ĉu vi parolas la katalunan?
+cat	epo	Bon viatge.	Agrablan veturadon!
+cat	epo	Que eixa figa no passe fam.	Tiu piĉo ne malsatu.
+cat	epo	Em manquen paraules per expressar el meu agraïment.	Mankas al mi vortoj por esprimi mian dankemon.
+cat	epo	Quina situació més divertida!	Kiel amuza situacio!
+cat	epo	Tinc un amic que els coneix.	Mi havas amikon, kiu konas ilin.
+cat	epo	Mai oblidaré la visita a París de l'estiu passat.	Mi neniam forgesos mian pasintsomeran viziton al Parizo.
+cat	epo	Parla vosté alemany?	Ĉu vi parolas germane?
+cat	epo	A la dona li agrada jugar al tennis.	La virino ŝatas tenisi.
+cat	epo	Quina hora és?	Kioma horo estas?
+cat	epo	És difícil parlar tres llengues.	Malfacilas paroli tri lingvojn.
+cat	epo	Els beduïns viuen al desert.	La beduinoj vivas en la dezerto.
+cat	epo	L'home jove és metge.	La juna viro estas kuracisto.
+cat	epo	Faré els deures després de veure la televisió.	Mi faros miajn taskojn post kiam mi estos spektinta televidon.
+cat	epo	"Això no pot ser!" — "Però així és!"	"Tio ne eblas!" — "Sed tiel estas!"
+cat	epo	No puc marxar. És massa aviat.	Mi ne povas foriri. Tro fruas.
+cat	epo	M'has trobat a faltar?	Ĉu mi mankis al vi?
+cat	epo	Passejo cada dia menys quan plou.	Mi ĉiutage piediras, escepte kiam pluvas.
+cat	epo	Està content?	Ĉu li estas kontenta?
+cat	epo	El gos és el millor amic de l'home.	Hundo estas la plej bona amiko de viro.
+cat	epo	Un dia, correré com el vent.	Iam mi kuros kiel la vento.
+cat	epo	El que puguis fer avui, no ho deixis per l'endemà.	Ne prokrastu ĝis morgaŭ, kion vi povas fari hodiaŭ.
+cat	epo	M'ha sorprés veure't ací.	Mi estas surprizita vidi vin ĉi tie.
+cat	epo	És un bon amic seu.	Li estas bona amiko de li.
+cat	epo	Jo vull escriure un llibre.	Mi volas verki libron.
+cat	epo	Els polítics catalans estan acusats de desobediència, malversació i prevaricació.	La katalunaj politikistoj estas akuzitaj pri malobeo, malversacio kaj prisilentado.
+cat	epo	Tota la ciutat es va quedar a fosques.	La tuta urbo kuŝis en la mallumo.
+cat	epo	Vostè m'ha escollit com a objecte de la seva diversió.	Vi elektis min kiel objekton de via amuziĝo.
+cat	epo	Visca Maduro	Vivu Maduro.
+cat	epo	Vaig a visitar als meus amics.	Mi iros viziti miajn amikinojn.
+cat	epo	Sóc Tom.	Mi estas Tomo.
+cat	epo	Hi ha un traidor entre nosaltres.	Ni havas perfidanton inter ni.
+cat	epo	Sóc francès.	Mi estas franco.
+cat	epo	L'edifici de la dreta és una escola.	La konstruaĵo dekstre estas lernejo.
+cat	epo	Malauradament, el meu aniversario només succeeix una vegada a l'any.	Bedaŭrinde ĉiujare nur unufoje estas mia naskiĝdato.
+cat	epo	L'home és una cosa que deu ser superada; l'home és un pont i no un fi.	La homo estas io superenda; la homo estas ponto kaj ne celo.
+cat	epo	L'última esperança havia desaparegut de la seva ment.	La lasta espero malaperis el ŝia animo.
+cat	epo	Sembla que plourà.	Ŝajne pluvos.
+cat	epo	Em puc córrer en la teua cara?	Ĉu mi povas ĉuradi sur vian vizaĝon?
+cat	epo	Ha fugit un bou en pantalons curts acusat de furt.	Fuĝis bovo en pantalono, akuzata pro ŝtelo.
+cat	epo	No bevem.	Ni ne drinkas.
+cat	epo	Ell ha de fer una elecció entre els objectes.	Li devas fari elekton inter la objektoj.
+cat	epo	Hem de reduir la despesa per tal d'estalviar diners.	Ni devas redukti niajn elspezojn por ŝpari monon.
+cat	epo	He de dormir.	Mi devas dormi.
+cat	epo	Quin és el proper poble on para l'autocar?	Kiu estas la venonta vilaĝo kie la buso haltas?
+cat	epo	M'expliquen acudits i després no me'n recordo.	Oni rakontas al mi anekdotojn, kaj poste mi ilin ne memoras.
+cat	epo	Vull donar-te alguna cosa.	Mi volas doni ion al vi.
+cat	epo	Estàs a favor o en contra de la pena de mort?	Ĉu vi subtenas aŭ kontraŭas la mortpunon?
+cat	epo	La mare ha sortit de compres.	Nia patrino iris por butikumi.
+cat	epo	Son bons amics teus.	Ili estas bonaj amikoj de vi.
+cat	epo	L'aigua se solidifica als zero graus, no?	Akvo solidiĝas ĉe nul gradoj, ĉu ne?
+cat	epo	No m'agraden les ciutats grans.	Mi ne ŝatas grandajn urbojn.
+cat	epo	El clima canvia.	Klimato ŝanĝiĝas.
+cat	epo	Travessar el mercat.	Transiri la bazaron.
+cat	epo	Saps la diferència entre un microscopi i un telescopi?	Ĉu vi konas la diferencon inter mikroskopo kaj teleskopo?
+cat	epo	Perquè estas enfadat amb ell?	Kial vi koleras je li?
+cat	epo	Pot posar per escrit les seves preguntes?	Ĉu vi povas skribe meti viajn demandojn?
+cat	epo	L'esperanto és la llengua planificada més parlada del món.	Esperanto estas la plej parolata planlingvo en la mondo.
+cat	epo	Ha fugit un bou en pantalons curts acusat de furt.	Fuĝis bovo en mantelo, akuzata pri fojnŝtelo.
+cat	epo	Austràlia no és Àustria.	Aŭstralio ne estas Aŭstrio.
+cat	epo	El sol aviat es va revelar des del núvol.	La suno subite sin montris el la nubo.
+cat	epo	A cavall regalat no li miris el dentat	Al donita ĉevalo oni buŝon ne esploras.
+cat	epo	El gos és el millor amic de l'home.	Hundo estas la plej bona amiko de homo.
+cat	epo	No gràcies, només miro.	Ne dankon, mi nur rigardas.
+cat	epo	Ella és obstinada.	Ŝi estas obstina.
+cat	epo	Avui està ennuvolat.	Hodiaŭ estas nuboplene.
+cat	epo	El considerava un geni de la química.	Mi konsideris lin geniulo pri ĥemio.
+cat	epo	Aquesta colecció d'art és rica en pintures de mestres holandesos.	Tiu kolekto abundas je pentraĵoj de holandaj mastroj.
+cat	epo	Li agrada la flor més bonica.	Li ŝatas la plej belan floron.
+cat	epo	Ell toca el piano molt bé.	Li bonege ludas pianon.
+cat	epo	Soc un gran admirador de la cultura americana.	Mi ege admiras la usonan kulturon.
+cat	epo	És fàcil d'entendre que el dormir té influència en el benestar.	Simple kompreneblas, ke dormo influas la sanstaton.
+cat	epo	Besa'm si m'estimes de debò.	Kisu min se vi vere min amas.
+cat	epo	Espero poder-te veure per nadal.	Mi esperas, ke mi vidos vin je Kristnasko.
+cat	epo	Merda!	Fek!
+cat	epo	Avui hem tingut un exàmen de matemàtiques.	Hodiaŭ ni havis ekzamenon pri matematiko.
+cat	epo	Tots els homes son mortals.	Ĉiu homo mortemas.
+cat	epo	Com es cuina aquest peix a França?	Kiel oni kuiras ĉi tiun fiŝon en Francio?
+cat	epo	Quin us agrada més, el vi blanc o el vi negre?	Kion vi preferas, ĉu blankan ĉu ruĝan vinon?
+cat	epo	Jack és difícil de convèncer.	Estas malfacile konvinki Jakobon.
+cat	epo	No gràcies, només miro.	Ne, dankon. Mi nur rigardas.
+cat	epo	Quins dibuixos animats prefereixes mirar?	Kiujn desegnajn filmojn vi preferas spekti?
+cat	epo	Bon viatge.	Bonan vojaĝon.
+cat	epo	Tinc por que plogui.	Mi timas ke pluvos.
+cat	epo	Aquella és la causa del seu fracàs.	Tio estas la kaŭzo de lia fiasko.
+cat	epo	M'agrada la cuina coreana.	Mi ŝatas la korean kuirarton.
+cat	epo	A Tom no li agrada el formatge.	Tom ne ŝatas fromaĝon.
+cat	epo	Sóc tan fort com tu.	Mi estas same forta, kiel vi.
+cat	epo	Vull ensenyar-me el francés i després l'italià.	Mi volas lerni la francan kaj poste la italan.
+cat	epo	Vull córrer-me en la teua boca.	Mi volas ĉuradi en vian buŝon.
+cat	epo	No ho oblideu: ningú no ho sap tot!	Ne forgesu: neniu estas ĉioscia!
+cat	epo	Benvinguts a Tatoeba.	Bonvenon al Tatoeba.
+cat	epo	D'ara endavant vaig a publicar oracions en esperanto i castellà.	De nun mi publikigos frazojn en Esperanto kaj kastilie.
+cat	epo	Hem de viatjar en autobús.	Ni veturu aŭtobuse.
+cat	epo	Deixeu parlar la minoria silenciosa.	Lasu paroli la silentan minoritaton.
+cat	epo	He visitat Romania fa uns quants anys.	Mi vizitis Rumanion antaŭ kelkaj jaroj.
+cat	epo	La vida és dura, però jo sóc més dur.	Vivo estas malmilda, sed mi estas ankoraŭ pli malmilda.
+cat	epo	Europa està en crisi.	Eŭropo estas en krizo.
+cat	epo	És una idea brillant.	Tio estas elstara ideo.
+cat	epo	"Quants anys tens?" "Tinc setze anys."	"Kiom vi aĝas?" "Dek ses jarojn."
+cat	epo	Ella ens va dir que el carrer estava tancat.	Ŝi diris al ni, ke la vojo estis fermita.
+cat	epo	El gos és el millor amic de l'home.	La hundo estas la plej bona amiko de l' homo.
+cat	epo	Espero que estiguis bé.	Mi esperas, ke vi bone fartas.
+cat	epo	Hola a tots!	Saluton vi ĉiuj!
+cat	epo	Aquesta professió és atractiva per les dones.	Tiu profesio estas atrakcia por virinoj.
+cat	epo	Jo no crec!	Mi ne kredas!
+cat	epo	Vam sentir que es tancava la porta.	Ni aŭdis la fermiĝantan pordon.
+cat	epo	Bona sort.	Bonan ŝancon!
+cat	epo	No dibuixis el diable a les parets.	Ne pentru diablon sur la muro.
+cat	epo	Parlant de genocidis, avui és el Dia de la Hispanitat.	Ĉar ni ĝuste nun parolas pri gentomurdo: hodiaŭ estas la Tago de Kolumbo.
+cat	epo	És millor de consultar un diccionari quan no saps el significat d'una paraula.	Kiam oni ne scias la signifon de vorto, oni prefere konsultu vortaron.
+cat	epo	Tota persona té dret a fundar sindicats i a sindicar-se per a la defensa del seus interessos.	Ĉiu rajtas formi kaj aliĝi sindikatojn por protekto de siaj interesoj.
+cat	epo	Son bons amics seus.	Ili estas bonaj amikoj de ili.
+cat	epo	Sóc de Singapur.	Mi estas el Singapuro.
+cat	epo	No miro la tele.	Mi ne rigardas televidon.
+cat	epo	M'agrada el repte de traduir l'intraduïble.	Mi ŝatas la defion traduki la netradukeblan.
+cat	epo	No aprenem per l'escola sinó per plaer.	Ne por la lernejo, sed por la ĝojo ni lernas.
+cat	epo	Vaig decidir que siga la meua dona.	Mi ŝin elektis por esti mia edzino.
+cat	epo	L'escola no permet que les noies portin vestits tan curts.	La lernejo ne permesas, ke la knabinoj alvenu portante tiel mallongajn vestaĵojn.
+cat	epo	Cap problema!	Neniu problemo!
+cat	epo	Tens segells estrangers?	Ĉu vi havas eksterlandajn poŝtmarkojn?
+cat	epo	Tot està perfecte.	Ĉio estas perfekta.
+cat	epo	És tan gandul com son pare.	Li estas tiel nelaborema, kiel lia patro.
+cat	epo	L'home és sobre tot un animal que jutja.	La homo estas ĉefe animalo juĝanta.
+cat	epo	L'alemany és la millor llengua del món.	La germana estas la plej bona lingvo el la mondo.
+cat	epo	En el seu pais de naixement, França, Tatoeba s'ha convertit en un fenòmen cultural i social.	En ĝia denaska lando, Francio, Tatoeba fariĝis socia kaj kultura fenomeno.
+cat	epo	Feliç aniversari!	Feliĉan naskiĝtagon!
+cat	epo	Mai no és massa tard per aprendre.	Vivu, progresu, sed lerni ne ĉesu.
+cat	epo	Tom va decidir que estudiará dret.	Tom decidis, ke li studos juron.
+cat	epo	Què? Encara no saps conduir?	Kio...vi ankoraŭ ne scipovas stiri aŭton?
+cat	epo	Sempre parla algú.	Ĉiam parolas iu.
+cat	epo	Ella parla molt.	Ŝi parolas multe.
+cat	epo	No dibuixis el diable a les parets.	Ne pentru diablon sur muro.
+cat	epo	El rellotge no va.	La horloĝo ne funkcias.
+cat	epo	Fes l'amor i no la guerra.	Faru amon, ne militon.
+cat	epo	Em deixaràs que ho provi un vegada més?	Ĉu vi lasos min provi ankoraŭfoje?
+cat	epo	M'agrada molt el seu piu.	Mi tre ŝatas lian kacon.
+cat	epo	Parlava cada cop més fort.	Li parolis pli kaj pli laŭte.
+cat	epo	És un cosí meu.	Li estas unu mia kuzo.
+cat	epo	Vols matar-me?	Ĉu vi volas mortigi min?
+cat	epo	El periodisme consisteix normalment a dir "Lord Jones Mort" a gent que no han sabut mai que Lord Jones era viu.	Ĵurnalismo grandparte konsistas el diro: "Sinjoro Jones mortis" al homoj, kiuj neniam sciis, ke sinjoro Jones vivas.
+cat	epo	Jo també et vull.	Mi ankaŭ amas vin.
+cat	epo	Vinc de Rússia.	Mi venas el Rusio.
+cat	epo	La llibertat no és gratuïta.	La libereco ne estas senpaga.
+cat	epo	A l'hotel Hilton, sisplau.	Al hotelo Hilton, bonvolu.
+cat	epo	"Crec que plourà." "Jo també."	"Mi kredas, ke ekpluvos." "Ankaŭ mi."
+cat	epo	Gràcies!	Dankon!
+cat	epo	Has de llevar-te les sabates abans d'entrar a l'habitació.	Vi devas demeti viajn ŝuojn antaŭ ol enpaŝi la ĉambron.
+cat	epo	Benvingut!	Bonvenon!
+cat	epo	Es parla el francès al Canadà?	Ĉu la franca estas parolata en Kanado?
+cat	epo	M'encanta la seua figueta depilada.	Tre plaĉas al mi ŝia senharigita piĉeto.
+cat	epo	No em casaré aquest any. De fet, potser mai em casaré.	Mi ne edziniĝos ĉi-jare. Fakte, mi eble neniam edziniĝos.
+cat	epo	Moltes gràcies!	Grandan dankon!
+cat	epo	El rellotge no funciona.	La horloĝo ne funkcias.
+cat	epo	És més feliç aquell que dona, que el que reb.	Pli feliĉa estas la donanto, ol la prenanto.
+cat	epo	Caldrà que verifiqui la meva agenda.	Estos necese, ke mi kontrolu mian agendon.
+cat	epo	El lleó és el rei de la selva.	La leono estas la reĝo de la ĝangalo.
+cat	epo	Moltes gràcies.	Grandan dankon!
+cat	epo	Benvingut a Tatoeba.	Bonvenon al Tatoeba.
+cat	epo	Ella va ser una de les més belles noies.	Ŝi estis unu el la plej belaj knabinoj.
+cat	epo	És un llibre collonut.	Ĝi estas ĉuriga libro.
+cat	epo	L'exèrcit d'en Napoleó ha avançat fins a Moscou.	La armeo de Napoleono avancis ĝis Moskvo.
+cat	epo	Tu coneixes al senyor Brown?	Ĉu vi konas sinjoron Braŭn?
+cat	epo	La trobo encantadora i atractiva.	Mi trovas ŝin alloga kaj rava.
+cat	epo	Quan la voluntat està absent, el poder desapareix.	Kiam la volo forestas, la povo malaperas.
+cat	epo	Sí, puc.	Jes, mi povas.
+cat	epo	Este és un cavall.	Tio estas ĉevalo.
+cat	epo	Ell ha traballat durant tot el dia.	Li laboris dum la tuta tago.
+cat	epo	Et vull més que ningú.	Mi amas vin pli ol iun alian.
+cat	epo	En Tom no mira la tele.	Tom ne televidas.
+cat	epo	Sóc estudiant universitari.	Mi estas studento de universitato.
+cat	epo	Vull escriure una carta. Tinc un sobre, però no tinc segells.	Mi volas skribi leteron. Mi havas koverton, sed mi ne havas poŝtmarkojn.
+cat	epo	Que em pots deixar tot sol, si us plau?	Ĉu vi bonvolas lasi min sola?
+cat	epo	Per començar, és massa car.	Por komenci, ĝi estas tro multekosta.
+cat	epo	Què fas demà?	Kion vi faros morgaŭ?
+cat	epo	Pot anar-se'n ara, senyor.	Vi rajtas iri nun, sinjoro.
+cat	epo	Conta'ns un acudit picant.	Diru al ni pipran humuraĵon.
+cat	epo	Allò no pot ser veritat.	Tio ne povas esti vera.
+cat	epo	Ells odien les aranyes.	Ili malŝategas araneojn.
+cat	epo	El terra és ple de corregudes.	La planko estas kovrita de ĉuro.
+cat	epo	Si vols estudiar, ve a estudiar!	Se vi volas studi, iru studi!
+cat	epo	Mercés !	Dankon!
+cat	epo	Mentre hi ha vida, hi ha esperança.	Dum estas vivo, estas espero.
+cat	epo	Era un home indolent que només vivia per menjar, beure i jugar a cartes.	Li estis mallaboremulo, kiu vivis nur por manĝi, trinki kaj kartludi.
+cat	epo	La meva àvia materna sempre porta aquesta roba passada de moda.	Mia avino de la patrina flanko persistas porti ĉi tiun malmodernan robon.
+cat	epo	Tenia ambició.	Li estis ambicia.
+cat	epo	No he cagat en tota una setmana.	Mi ne fekis dum tuta semajno.
+cat	epo	És el meu oncle.	Li estas mia onklo.
+cat	epo	És una idea brillant.	Jen brila ideo.
+cat	epo	Roma és la capital del món.	Romo estas la ĉefurbo de la mondo.
+cat	epo	És impossible acampar aquí on no hi ha aigua.	Ne eblas kampi tie kie ne estas akvo.
+cat	epo	Pareces más jóven que tu hermano mayor.	Vi aspektas pli juna ol via pli aĝa frato.
+cat	epo	Es parla el francès al Canadà?	Ĉu oni parolas la francan en Kanado?
+cat	epo	Allò va ser un colp molt dur per a tots nosaltres.	Tio estis frapego por ni ĉiuj.
+cat	epo	Necessito un traductor.	Mi bezonas tradukiston.
+cat	epo	Desembre és el darrer mes de l'any.	Decembro estas la fina monato de la jaro.
+cat	epo	En Tom no mira la tele.	Tom ne spektas televidon.
+cat	epo	Ella ha trobat les claus del meu cor.	Ŝi trovis la ŝlosilon de mia koro.
+cat	epo	Vaig parlar sobre música.	Mi parolis pri muziko.
+cat	epo	Molts nens, moltes mans.	Multaj infanoj, multaj manoj.

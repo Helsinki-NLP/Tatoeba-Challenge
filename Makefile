@@ -7,6 +7,11 @@
 #
 # https://github.com/Helsinki-NLP/Tatoeba-Challenge
 #------------------------------------------------------------
+##
+## TODO: add clean-up recipes
+## TODO: get rid of some hard-coded paths
+## TODO: properly integrate software dependencies
+## TODO: integrate more data filters (OPUS-Filter?)
 
 
 ## OPUS home directory and language code conversion tools
@@ -24,14 +29,6 @@ VERSION         = v$(shell date +%F)
 TATOEBA_VERSION = ${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest}}
 
 
-## scripts and tools
-
-SCRIPTDIR      = scripts
-TOKENIZER      = ${SCRIPTDIR}/moses/tokenizer
-ISO639         = iso639
-GET_ISO_CODE   = ${ISO639} -m
-# GET_ISO_CODE = ${ISO639} -m -k
-
 
 
 ## corpora in OPUS used for training
@@ -43,13 +40,6 @@ EXCLUDE_CORPORA := Tatoeba WMT-News MPC1
 TRAIN_CORPORA   := ${filter-out ${EXCLUDE_CORPORA},${OPUS_CORPORA}}
 
 
-## set additional argument options for opus_read (if it is used)
-## e.g. OPUSREAD_ARGS = -a certainty -tr 0.3
-## TODO: should we always use opus_read instead of pre-extracted moses-style files?
-##       (disadvantage: much slower!)
-OPUSREAD_ARGS =
-
-
 ## some more tools and parameters
 ## - check if there is dedicated scratch space (e.g. on puhti nodes)
 ## - check if terashuf and pigz are available
@@ -57,6 +47,21 @@ OPUSREAD_ARGS =
 ifdef LOCAL_SCRATCH
   TMPDIR = ${LOCAL_SCRATCH}
 endif
+
+## scripts and tools
+
+SCRIPTDIR      = scripts
+TOKENIZER      = ${SCRIPTDIR}/moses/tokenizer
+ISO639         = iso639
+GET_ISO_CODE   = ${ISO639} -m
+# GET_ISO_CODE = ${ISO639} -m -k
+
+
+## set additional argument options for opus_read (if it is used)
+## e.g. OPUSREAD_ARGS = -a certainty -tr 0.3
+## TODO: should we always use opus_read instead of pre-extracted moses-style files?
+##       (disadvantage: much slower!)
+OPUSREAD_ARGS =
 
 THREADS ?= 4
 SORT = sort -T ${TMPDIR} --parallel=${THREADS}
@@ -111,11 +116,6 @@ TRAINDATADIR = ${RELEASEDIR}
 TESTDATADIR  = ${RELEASEDIR}
 MONODATADIR  = ${RELEASEDIR}
 
-# INFODIR      = ${DATADIR}/info
-# TRAINDATADIR = ${DATADIR}/train/${OPUS_VERSION}
-# TESTDATADIR  = ${DATADIR}/devtest/${TATOEBA_VERSION}
-# MONODATADIR  = ${DATADIR}/mono/${WIKI_VERSION}
-
 
 ## all data files we need to produce
 
@@ -144,17 +144,10 @@ STATISTICS  = Data-${VERSION}.md
 
 
 DOWNLOADURL         = https://object.pouta.csc.fi
+TATOEBA_CONTAINER   = Tatoeba-Challenge
 RELEASE_CONTAINER   = Tatoeba-Challenge-${VERSION}
-TEST_CONTAINER      = Tatoeba-Challenge-test
-DEV_CONTAINER       = Tatoeba-Challenge-dev
 WIKIDOC_CONTAINER   = Tatoeba-Challenge-WikiDoc-${VERSION}
 WIKISHUF_CONTAINER  = Tatoeba-Challenge-WikiShuffled-${VERSION}
-
-#TRAINDATA_CONTAINER = Tatoeba-Challenge-train-${OPUS_VERSION}
-#TESTDATA_CONTAINER  = Tatoeba-Challenge-test-${TATOEBA_VERSION}
-#MONODATA_CONTAINER  = Tatoeba-Challenge-mono-${WIKI_VERSION}
-#WIKIDOC_CONTAINER   = Tatoeba-Challenge-WikiDoc-${WIKI_VERSION}
-#WIKISHUF_CONTAINER  = Tatoeba-Challenge-WikiShuffled-${WIKI_VERSION}
 
 
 
@@ -192,8 +185,9 @@ NEW_TRAIN_IDS = ${patsubst ${TESTDATADIR}/%.ids.gz,${TESTDATADIR}/%.id.gz,${wild
 
 
 .PHONY: all data testdata devdata traindata test-tsv dev-tsv
-.PHONY: upload upload-test upload-train upload-mono
+.PHONY: upload upload-test upload-devtest upload-train upload-mono
 .PHONY: extra-traindata extra-statistics extra-upload
+.PHONY: update update-testdata
 
 all: opus-langs.txt
 	${MAKE} dev-tsv test-tsv
@@ -207,23 +201,25 @@ data: ${TEST_DATA} ${DEV_DATA} ${TRAIN_DATA}
 traindata: ${TRAIN_DATA}
 testdata: ${TEST_DATA}
 devdata: ${DEV_DATA}
+
+## this is for regular updates of testdata with new Tatoeba releases in OPUS
+## call `make update-testdata`
+update update-testdata: ${UPDATED_TEST_DATA}
+
 test-tsv: ${TEST_TSV}
 dev-tsv: ${DEV_TSV}
 langids: ${DATADIR}/langids-train.txt ${DATADIR}/langids-dev.txt ${DATADIR}/langids-test.txt \
 	${DATADIR}/langids-common.txt ${DATADIR}/langids-train-only.txt ${DATADIR}/langids-devtest-only.txt
 statistics: ${STATISTICS}
 overlaps: ${OVERLAPTEST} ${OVERLAPDEV}
-upload: upload-test upload-train upload-mono
-upload-test: ${patsubst %,${TESTDATADIR}/%.done,${TATOEBA_PAIRS3}}
+
+upload: upload-devtest upload-train upload-mono
+upload-test upload-devtest:${DEVTESTDIR}.done
 upload-train: ${patsubst %,${TRAINDATADIR}/%.done,${TATOEBA_PAIRS3}}
 upload-mono: ${patsubst %,${MONODATADIR}/%.done,${WIKI_LANGS3}}
 upload-wikishuffled: ${patsubst wiki-shuffled/%,${MONODATADIR}/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
 upload-wikidoc: ${patsubst wiki-doc/%,${MONODATADIR}/wiki-doc-%.done,${wildcard wiki-doc/???}}
 
-
-## this is for regular updates of testdata with new Tatoeba releases in OPUS
-## call `make update-testdata`
-update-testdata: ${UPDATED_TEST_DATA}
 
 
 ## extra training data where we don't have any 
@@ -746,12 +742,8 @@ ${TRAINDATADIR}/%.done: ${TRAINDATADIR}/%
 	a-put ${APUT_FLAGS} -b ${RELEASE_CONTAINER} $<
 	touch $@
 
-${TEST_RELEASEDIR}/%.done: ${TEST_RELEASEDIR}/%
-	a-put ${APUT_FLAGS} -b ${TEST_CONTAINER} $<
-	touch $@
-
-${DEV_RELEASEDIR}/%.done: ${DEV_RELEASEDIR}/%
-	a-put ${APUT_FLAGS} -b ${DEV_CONTAINER} $<
+${DEVTESTDIR}.done: ${DEVTESTDIR}
+	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} $<
 	touch $@
 
 
