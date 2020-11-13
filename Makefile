@@ -107,26 +107,24 @@ TATOEBA_PAIRS3    = ${sort ${shell ${SCRIPTDIR}/convert_langpair_codes.pl ${TATO
 
 ## data directories
 
-DATADIR         = data
-RELEASEDIR      = ${DATADIR}/release
-DEVTESTDIR      = ${DATADIR}/devtest
-
-INFODIR      = ${RELEASEDIR}
-TRAINDATADIR = ${RELEASEDIR}
-TESTDATADIR  = ${RELEASEDIR}
-MONODATADIR  = ${RELEASEDIR}
+DATADIR     = data
+RELEASEDIR  = ${DATADIR}/release
+DEVTESTDIR  = ${DATADIR}/devtest
+TESTDATADIR = ${DATADIR}/test
+DEVDATADIR  = ${DATADIR}/dev
+INFODIR     = ${RELEASEDIR}
 
 
 ## all data files we need to produce
 
-TRAIN_DATA  = ${patsubst %,${TRAINDATADIR}/%/train.id.gz,${TATOEBA_PAIRS3}}
-TEST_DATA   = ${patsubst %,${TESTDATADIR}/%/test.id,${TATOEBA_PAIRS3}}
-DEV_DATA    = ${patsubst %,${TESTDATADIR}/%/dev.id,${TATOEBA_PAIRS3}}
-TEST_TSV    = ${patsubst ${TESTDATADIR}/%.id,${DATADIR}/test/%.txt,${wildcard ${TESTDATADIR}/*/test.id}}
-DEV_TSV     = ${patsubst ${TESTDATADIR}/%.id,${DATADIR}/dev/%.txt,${wildcard ${TESTDATADIR}/*/dev.id}}
+TRAIN_DATA  = ${patsubst %,${RELEASEDIR}/%/train.id.gz,${TATOEBA_PAIRS3}}
+TEST_DATA   = ${patsubst %,${RELEASEDIR}/%/test.id,${TATOEBA_PAIRS3}}
+DEV_DATA    = ${patsubst %,${RELEASEDIR}/%/dev.id,${TATOEBA_PAIRS3}}
+TEST_TSV    = ${patsubst ${RELEASEDIR}/%.id,${DATADIR}/test/%.txt,${wildcard ${RELEASEDIR}/*/test.id}}
+DEV_TSV     = ${patsubst ${RELEASEDIR}/%.id,${DATADIR}/dev/%.txt,${wildcard ${RELEASEDIR}/*/dev.id}}
 LANGIDS     = ${patsubst %,${INFODIR}/%/langids,${TATOEBA_PAIRS3}}
-OVERLAPTEST = ${patsubst ${TESTDATADIR}/%/train.id.gz,${INFODIR}/%/overlap-with-test,${wildcard ${TESTDATADIR}/*/train.id.gz}}
-OVERLAPDEV  = ${patsubst ${TESTDATADIR}/%/train.id.gz,${INFODIR}/%/overlap-with-dev,${wildcard ${TESTDATADIR}/*/train.id.gz}}
+OVERLAPTEST = ${patsubst ${RELEASEDIR}/%/train.id.gz,${INFODIR}/%/overlap-with-test,${wildcard ${RELEASEDIR}/*/train.id.gz}}
+OVERLAPDEV  = ${patsubst ${RELEASEDIR}/%/train.id.gz,${INFODIR}/%/overlap-with-dev,${wildcard ${RELEASEDIR}/*/train.id.gz}}
 
 
 ## this is for regular updates of testdata with new Tatoeba releases in OPUS
@@ -157,7 +155,7 @@ EXTRA_OPUS_PAIRS3 = ${filter-out ${TATOEBA_PAIRS3},\
 		     ${shell cat opus-langpairs3.txt | tr ' ' "\n" |\
 			     grep '${PIVOT_LANG}' | grep -v xxx}}
 
-EXTRA_TRAIN_DATA  = ${patsubst %,${TRAINDATADIR}/%/train.id.gz,${EXTRA_OPUS_PAIRS3}}
+EXTRA_TRAIN_DATA  = ${patsubst %,${RELEASEDIR}/%/train.id.gz,${EXTRA_OPUS_PAIRS3}}
 
 
 ## monolingual data taken from Wikimedia sources
@@ -168,19 +166,19 @@ OPUSMT_WIKIDIR = ${OPUSMT_HOMEDIR}/backtranslate/wikidoc
 WIKI_LANGS     = aa ab ace ady af ak als am an ang ar arc ary arz as ast atj av awa ay az azb ba ban bar bcl be bg bh bi bjn bm bn bo bpy br bs bug bxr ca cdo ce ceb ch cho chr chy ckb co cr crh cs csb cu cv cy da de din diq dsb dty dv dz ee el eml en eo es et eu ext fa ff fi fj fo fr frp frr fur fy ga gag gan gcr gd gl glk gn gom gor got gu gv ha hak haw he hi hif ho hr hsb ht hu hy hyw hz ia id ie ig ii ik ilo inh io is it iu ja jam jbo jv ka kaa kab kbd kbp kg ki kj kk kl km kn ko koi kr krc ks ksh ku kv kw ky la lad lb lbe lez lfn lg li lij lmo ln lo lrc lt ltg lv mai mdf mg mh mhr mi min mk ml mn mnw mr mrj ms mt mus mwl my myv mzn na nah nap nds ne new ng nl nn no nov nqo nrm nso nv ny oc olo om or os pa pag pam pap pcd pdc pfl pi pih pl pms pnb pnt ps pt qu rm rmy rn ro ru rue rw sa sah sat sc scn sco sd se sg sh shn si sk sl sm sn so sq sr srn ss st stq su sv sw szl szy ta tcy te ten tet tg th ti tk tl tn to tpi tr ts tt tum tw ty tyv udm ug uk ur uz ve vec vep vi vls vo wa war wo wuu xal xh xmf yi yo za zea zh zu
 WIKI_LANGS3    = ${sort ${filter-out xxx,${shell ${GET_ISO_CODE} ${WIKI_LANGS}}}}
 
-WIKI_DOCS      = ${patsubst %,${MONODATADIR}/%/wikipedia.id.gz,${WIKI_LANGS3}} \
-		 ${patsubst %,${MONODATADIR}/%/wikibooks.id.gz,${WIKI_LANGS3}} \
-		 ${patsubst %,${MONODATADIR}/%/wikinews.id.gz,${WIKI_LANGS3}} \
-		 ${patsubst %,${MONODATADIR}/%/wikiquote.id.gz,${WIKI_LANGS3}} \
-		 ${patsubst %,${MONODATADIR}/%/wikisource.id.gz,${WIKI_LANGS3}}
+WIKI_DOCS      = ${patsubst %,${RELEASEDIR}/%/wikipedia.id.gz,${WIKI_LANGS3}} \
+		 ${patsubst %,${RELEASEDIR}/%/wikibooks.id.gz,${WIKI_LANGS3}} \
+		 ${patsubst %,${RELEASEDIR}/%/wikinews.id.gz,${WIKI_LANGS3}} \
+		 ${patsubst %,${RELEASEDIR}/%/wikiquote.id.gz,${WIKI_LANGS3}} \
+		 ${patsubst %,${RELEASEDIR}/%/wikisource.id.gz,${WIKI_LANGS3}}
 
 
 
 ## new lang ID files with normalised codes and script info
 
-NEW_TEST_IDS  = ${patsubst ${TESTDATADIR}/%.ids,${TESTDATADIR}/%.id,${wildcard ${TESTDATADIR}/*/test.ids}}
-NEW_DEV_IDS   = ${patsubst ${TESTDATADIR}/%.ids,${TESTDATADIR}/%.id,${wildcard ${TESTDATADIR}/*/dev.ids}}
-NEW_TRAIN_IDS = ${patsubst ${TESTDATADIR}/%.ids.gz,${TESTDATADIR}/%.id.gz,${wildcard ${TESTDATADIR}/*/train.ids.gz}}
+NEW_TEST_IDS  = ${patsubst ${RELEASEDIR}/%.ids,${RELEASEDIR}/%.id,${wildcard ${RELEASEDIR}/*/test.ids}}
+NEW_DEV_IDS   = ${patsubst ${RELEASEDIR}/%.ids,${RELEASEDIR}/%.id,${wildcard ${RELEASEDIR}/*/dev.ids}}
+NEW_TRAIN_IDS = ${patsubst ${RELEASEDIR}/%.ids.gz,${RELEASEDIR}/%.id.gz,${wildcard ${RELEASEDIR}/*/train.ids.gz}}
 
 
 
@@ -214,12 +212,14 @@ langids: ${DATADIR}/langids-train.txt ${DATADIR}/langids-dev.txt ${DATADIR}/lang
 statistics: ${STATISTICS}
 overlaps: ${OVERLAPTEST} ${OVERLAPDEV}
 
-upload: upload-devtest upload-train upload-mono
-upload-test upload-devtest:${DEVTESTDIR}.done
-upload-train: ${patsubst %,${TRAINDATADIR}/%.done,${TATOEBA_PAIRS3}}
-upload-mono: ${patsubst %,${MONODATADIR}/%.done,${WIKI_LANGS3}}
-upload-wikishuffled: ${patsubst wiki-shuffled/%,${MONODATADIR}/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
-upload-wikidoc: ${patsubst wiki-doc/%,${MONODATADIR}/wiki-doc-%.done,${wildcard wiki-doc/???}}
+upload: upload-test upload-dev upload-devtest upload-train upload-mono
+upload-devtest: ${DEVTESTDIR}.done
+upload-test: ${TESTDATADIR}-${VERSION}.done
+upload-dev: ${DEVDATADIR}-${VERSION}.done
+upload-train: ${patsubst %,${RELEASEDIR}/%.done,${TATOEBA_PAIRS3}}
+upload-mono: ${patsubst %,${RELEASEDIR}/%.done,${WIKI_LANGS3}}
+upload-wikishuffled: ${patsubst wiki-shuffled/%,${RELEASEDIR}/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
+upload-wikidoc: ${patsubst wiki-doc/%,${RELEASEDIR}/wiki-doc-%.done,${wildcard wiki-doc/???}}
 
 
 
@@ -229,7 +229,7 @@ extra-traindata: ${EXTRA_TRAIN_DATA}
 extra-statistics:
 	${MAKE} STATISTICS=subsets/NoTestData-${VERSION}.md \
 		TATOEBA_PAIRS3="${EXTRA_OPUS_PAIRS3}" statistics
-extra-upload: ${patsubst %,${TRAINDATADIR}/%.done,${EXTRA_OPUS_PAIRS3}}
+extra-upload: ${patsubst %,${RELEASEDIR}/%.done,${EXTRA_OPUS_PAIRS3}}
 
 
 ## list of all languages in OPUS
@@ -264,16 +264,16 @@ opus-langpairs3.txt: opus-langpairs.txt
 
 ## language IDs in training/dev/test
 
-${TESTDATADIR}/langids-train.txt: # ${LANGIDS}
-	find ${TESTDATADIR} -name langids | xargs cat | grep 'train ' | \
+${RELEASEDIR}/langids-train.txt: # ${LANGIDS}
+	find ${RELEASEDIR} -name langids | xargs cat | grep 'train ' | \
 	cut -f2 | tr ' ' "\n" | sort -u > $@
 
-${TESTDATADIR}/langids-test.txt: # ${LANGIDS}
-	find ${TESTDATADIR} -name langids | xargs cat | grep 'test ' | \
+${RELEASEDIR}/langids-test.txt: # ${LANGIDS}
+	find ${RELEASEDIR} -name langids | xargs cat | grep 'test ' | \
 	cut -f2 | tr ' ' "\n" | sort -u > $@
 
 ${DATADIR}/langids-dev.txt: # ${LANGIDS}
-	find ${TESTDATADIR} -name langids | xargs cat | grep 'dev ' | \
+	find ${RELEASEDIR} -name langids | xargs cat | grep 'dev ' | \
 	cut -f2 | tr ' ' "\n" | sort -u > $@
 
 ${DATADIR}/langids-devtest.txt: ${DATADIR}/langids-dev.txt ${DATADIR}/langids-test.txt
@@ -293,11 +293,11 @@ ${DATADIR}/langids-devtest-only.txt: ${DATADIR}/langids-train.txt ${DATADIR}/lan
 ## cleanup some orphan files and directories
 cleanup:
 	-for d in ${EXTRA_OPUS_PAIRS3}; do \
-	  if [ -e ${TRAINDATADIR}/$$d/train.d ]; then \
-	    rm -f ${TRAINDATADIR}/$$d/train.d/*; \
-	    rmdir ${TRAINDATADIR}/$$d/train.d; \
+	  if [ -e ${RELEASEDIR}/$$d/train.d ]; then \
+	    rm -f ${RELEASEDIR}/$$d/train.d/*; \
+	    rmdir ${RELEASEDIR}/$$d/train.d; \
 	  fi; \
-	  rmdir ${TRAINDATADIR}/$$d; \
+	  rmdir ${RELEASEDIR}/$$d; \
 	done
 
 
@@ -307,13 +307,13 @@ FIXLANGIDS = | sed 's/ze_zh/zh/g;s/_Hani//g;s/-han[st]//g;s/zht/zh_TW/g;s/zhs/zh
 ## create training data by concatenating all data sets
 ## using normalized language codes (macro-languages)
 
-${TRAINDATADIR}/%/train.id.gz:
-	@echo "make train data for ${patsubst ${TRAINDATADIR}/%/train.id.gz,%,$@}"
+${RELEASEDIR}/%/train.id.gz:
+	@echo "make train data for ${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}"
 	@rm -f $@.tmp1 $@.tmp2
 	@mkdir -p ${dir $@}train.d
-	@( l=${patsubst ${TRAINDATADIR}/%/train.id.gz,%,$@}; \
-	  s=${firstword ${subst -, ,${patsubst ${TRAINDATADIR}/%/train.id.gz,%,$@}}}; \
-	  t=${lastword ${subst -, ,${patsubst ${TRAINDATADIR}/%/train.id.gz,%,$@}}}; \
+	@( l=${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}; \
+	  s=${firstword ${subst -, ,${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}}}; \
+	  t=${lastword ${subst -, ,${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}}}; \
 	  E=`${SCRIPTDIR}/find_opus_langs.pl $$s ${OPUS_LANGS}`; \
 	  F=`${SCRIPTDIR}/find_opus_langs.pl $$t ${OPUS_LANGS}`; \
 	  for e in $$E; do \
@@ -404,10 +404,10 @@ ${DEVTESTDIR}/%/tatoeba-shuffled.tsv:
 
 ## test data in the release: merge all cumulated test data in data/devtest
 
-${TESTDATADIR}/%/test.id: 
-	${MAKE} $(patsubst ${TESTDATADIR}/%/test.id,${DEVTESTDIR}/%/test-${TATOEBA_VERSION}.txt,$@)
+${RELEASEDIR}/%/test.id: 
+	${MAKE} $(patsubst ${RELEASEDIR}/%/test.id,${DEVTESTDIR}/%/test-${TATOEBA_VERSION}.txt,$@)
 	mkdir -p ${dir $@}
-	cat ${patsubst ${TESTDATADIR}/%/test.id,${DEVTESTDIR}/%,$@}/test-*.txt > $@.merged
+	cat ${patsubst ${RELEASEDIR}/%/test.id,${DEVTESTDIR}/%,$@}/test-*.txt > $@.merged
 	cut -f1,2 $@.merged > $@
 	cut -f3 $@.merged > ${dir $@}test.src
 	cut -f4 $@.merged > ${dir $@}test.trg
@@ -415,10 +415,10 @@ ${TESTDATADIR}/%/test.id:
 
 ## dev data in the release: merge all cumulated dev data in data/devtest
 
-${TESTDATADIR}/%/dev.id: 
-	${MAKE} ${patsubst ${TESTDATADIR}/%/dev.id,${DEVTESTDIR}/%/dev-${TATOEBA_VERSION}.txt,$@}
+${RELEASEDIR}/%/dev.id: 
+	${MAKE} ${patsubst ${RELEASEDIR}/%/dev.id,${DEVTESTDIR}/%/dev-${TATOEBA_VERSION}.txt,$@}
 	mkdir -p ${dir $@}
-	cat ${patsubst ${TESTDATADIR}/%/dev.id,${DEVTESTDIR}/%,$@}/dev-*.txt > $@.merged
+	cat ${patsubst ${RELEASEDIR}/%/dev.id,${DEVTESTDIR}/%,$@}/dev-*.txt > $@.merged
 	cut -f1,2 $@.merged > $@
 	cut -f3 $@.merged > ${dir $@}dev.src
 	cut -f4 $@.merged > ${dir $@}dev.trg
@@ -440,14 +440,14 @@ ${DEVTESTDIR}/%/test-${TATOEBA_VERSION}.txt: ${DEVTESTDIR}/%/tatoeba-shuffled.ts
 
 
 
-${INFODIR}/%/overlap-with-test: ${TRAINDATADIR}/%/train.id.gz
+${INFODIR}/%/overlap-with-test: ${RELEASEDIR}/%/train.id.gz
 	mkdir -p ${dir $@}
 	echo "# overlap with test set" > $@
 	echo ""                       >> $@
 	scripts/check-overlap.pl $(<:id.gz=src.gz) $(<:id.gz=trg.gz) \
 		${dir $<}test.src  ${dir $<}test.trg >> $@
 
-${INFODIR}/%/overlap-with-dev: ${TRAINDATADIR}/%/train.id.gz
+${INFODIR}/%/overlap-with-dev: ${RELEASEDIR}/%/train.id.gz
 	echo "# overlap with dev set" >> $@
 	echo ""                       >> $@
 	scripts/check-overlap.pl $(<:id.gz=src.gz) $(<:id.gz=trg.gz) \
@@ -458,30 +458,30 @@ ${INFODIR}/%/overlap-with-dev: ${TRAINDATADIR}/%/train.id.gz
 ## list all langids used in all data sets
 ## (also diff between devtest and train)
 
-${INFODIR}/%/langids: ${TRAINDATADIR}/%/train.id.gz
+${INFODIR}/%/langids: ${RELEASEDIR}/%/train.id.gz
 	echo -n "train source	" >> $@
 	zcat $< | cut -f2 | sort -u | tr "\n" ' ' | sed 's/ *$$//' >> $@
 	echo ""                   >> $@
 	echo -n "train target	" >> $@
 	zcat $< | cut -f3 | sort -u | tr "\n" ' ' | sed 's/ *$$//' >> $@
 	echo ""                   >> $@
-	if [ -e ${patsubst ${TRAINDATADIR}/%/train.id.gz,${TESTDATADIR}/%/test.id,$<} ]; then \
+	if [ -e ${patsubst ${RELEASEDIR}/%/train.id.gz,${RELEASEDIR}/%/test.id,$<} ]; then \
 	  echo -n "test source	" >> $@; \
-	  cat ${patsubst ${TRAINDATADIR}/%/train.id.gz,${TESTDATADIR}/%/test.id,$<} | \
+	  cat ${patsubst ${RELEASEDIR}/%/train.id.gz,${RELEASEDIR}/%/test.id,$<} | \
 		cut -f1 | sort -u | tr "\n" ' ' | sed 's/ *$$//' >> $@; \
 	  echo ""                 >> $@; \
 	  echo -n "test target	" >> $@; \
-	  cat ${patsubst ${TRAINDATADIR}/%/train.id.gz,${TESTDATADIR}/%/test.id,$<} | \
+	  cat ${patsubst ${RELEASEDIR}/%/train.id.gz,${RELEASEDIR}/%/test.id,$<} | \
 		cut -f2 | sort -u | tr "\n" ' ' | sed 's/ *$$//' >> $@; \
 	  echo ""                 >> $@; \
 	fi
-	if [ -e ${patsubst ${TRAINDATADIR}/%/train.id.gz,${TESTDATADIR}/%/dev.id,$<} ]; then \
+	if [ -e ${patsubst ${RELEASEDIR}/%/train.id.gz,${RELEASEDIR}/%/dev.id,$<} ]; then \
 	  echo -n "dev source	" >> $@; \
-	  cat ${patsubst ${TRAINDATADIR}/%/train.id.gz,${TESTDATADIR}/%/dev.id,$<} | \
+	  cat ${patsubst ${RELEASEDIR}/%/train.id.gz,${RELEASEDIR}/%/dev.id,$<} | \
 		cut -f1 | sort -u | tr "\n" ' ' | sed 's/ *$$//' >> $@; \
 	  echo ""                 >> $@; \
 	  echo -n "dev target	" >> $@; \
-	  cat ${patsubst ${TRAINDATADIR}/%/train.id.gz,${TESTDATADIR}/%/dev.id,$<} | \
+	  cat ${patsubst ${RELEASEDIR}/%/train.id.gz,${RELEASEDIR}/%/dev.id,$<} | \
 		cut -f2 | sort -u | tr "\n" ' ' | sed 's/ *$$//' >> $@; \
 	  echo ""                 >> $@; \
 	fi
@@ -513,11 +513,11 @@ ${INFODIR}/%/langids: ${TRAINDATADIR}/%/train.id.gz
 
 ## tab-separated versions of test and dev data (for github and downloads)
 
-${TEST_TSV}: ${DATADIR}/test/%/test.txt: ${TESTDATADIR}/%/test.id
+${TEST_TSV}: ${DATADIR}/test/%/test.txt: ${RELEASEDIR}/%/test.id
 	mkdir -p ${dir $@}
 	paste $< ${<:.id=.src} ${<:.id=.trg} > $@
 
-${DEV_TSV}: ${DATADIR}/dev/%/dev.txt: ${TESTDATADIR}/%/dev.id
+${DEV_TSV}: ${DATADIR}/dev/%/dev.txt: ${RELEASEDIR}/%/dev.id
 	mkdir -p ${dir $@}
 	paste $< ${<:.id=.src} ${<:.id=.trg} > $@
 
@@ -529,7 +529,7 @@ ${WIKI_DOCS}:
 	( w=$(patsubst %.id.gz,%,${notdir $@}); \
 	  if [ $$w == wikipedia ]; then w=wiki; fi; \
 	  for l in ${shell ${SCRIPTDIR}/find_opus_langs.pl \
-			${patsubst ${MONODATADIR}/%/,%,${dir $@}} \
+			${patsubst ${RELEASEDIR}/%/,%,${dir $@}} \
 			${WIKI_LANGS}}; do \
 	    echo "get wikidata for $$l"; \
 	    if [ -e ${OPUSMT_WIKIDIR}/$$l/$$w.$$l.gz ]; then \
@@ -556,25 +556,25 @@ ${STATISTICS}:
 	echo "| lang-pair |    test    |    dev     |    train   |" >> $@
 	echo "|-----------|------------|------------|------------|" >> $@
 	for l in ${TATOEBA_PAIRS3}; do \
-	  if [ -s ${TESTDATADIR}/$$l/test.id ] || [ -e ${TRAINDATADIR}/$$l/train.id.gz ]; then \
+	  if [ -s ${RELEASEDIR}/$$l/test.id ] || [ -e ${RELEASEDIR}/$$l/train.id.gz ]; then \
 	  echo -n "| " >> $@; \
 	  echo "$$l" | sed 's/-/ /' | xargs ${ISO639} | \
 		sed 's/" "/ - /' | awk '{printf "%30s\n", $$0}' | tr "\"\n" '  ' >> $@; \
 	  echo -n "[$$l](${DOWNLOADURL}/${RELEASE_CONTAINER}/$$l.tar)  | " >> $@; \
-	  if [ -e ${TESTDATADIR}/$$l/test.id ]; then \
-	    cat ${TESTDATADIR}/$$l/test.id | wc -l | awk '{printf "%10s", $$0}' >> $@; \
+	  if [ -e ${RELEASEDIR}/$$l/test.id ]; then \
+	    cat ${RELEASEDIR}/$$l/test.id | wc -l | awk '{printf "%10s", $$0}' >> $@; \
 	  else \
 	    echo -n "           " >> $@; \
 	  fi; \
 	  echo -n "| " >> $@; \
-	  if [ -e ${TESTDATADIR}/$$l/dev.id ]; then \
-	    cat ${TESTDATADIR}/$$l/dev.id | wc -l | awk '{printf "%10s", $$0}' >> $@; \
+	  if [ -e ${RELEASEDIR}/$$l/dev.id ]; then \
+	    cat ${RELEASEDIR}/$$l/dev.id | wc -l | awk '{printf "%10s", $$0}' >> $@; \
 	  else \
 	    echo -n "           " >> $@; \
 	  fi; \
 	  echo -n "| " >> $@; \
-	  if [ -e ${TRAINDATADIR}/$$l/train.id.gz ]; then \
-	    ${GZIP} -cd < ${TRAINDATADIR}/$$l/train.id.gz | wc -l | awk '{printf "%10s", $$0}' >> $@; \
+	  if [ -e ${RELEASEDIR}/$$l/train.id.gz ]; then \
+	    ${GZIP} -cd < ${RELEASEDIR}/$$l/train.id.gz | wc -l | awk '{printf "%10s", $$0}' >> $@; \
 	    echo "|" >> $@; \
 	  else \
 	    echo "           |" >> $@; \
@@ -590,22 +590,22 @@ Statisics-${VERSION}.md:
 	echo "| lang-pair |    test    |    dev     |    train   |  train-src |  train-trg |" >> $@
 	echo "|-----------|------------|------------|------------|------------|------------|" >> $@
 	for l in ${TATOEBA_PAIRS3}; do \
-	  if [ -s ${TESTDATADIR}/$$l/test.id ] || [ -e ${TRAINDATADIR}/$$l/train.id.gz ]; then \
+	  if [ -s ${RELEASEDIR}/$$l/test.id ] || [ -e ${RELEASEDIR}/$$l/train.id.gz ]; then \
 	  echo -n "|  $$l  | " >> $@; \
-	  cat ${TESTDATADIR}/$$l/test.id | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	  cat ${RELEASEDIR}/$$l/test.id | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	  echo -n "| " >> $@; \
-	  if [ -e ${TESTDATADIR}/$$l/dev.id ]; then \
-	    cat ${TESTDATADIR}/$$l/dev.id | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	  if [ -e ${RELEASEDIR}/$$l/dev.id ]; then \
+	    cat ${RELEASEDIR}/$$l/dev.id | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	  else \
 	    echo -n "           " >> $@; \
 	  fi; \
 	  echo -n "| " >> $@; \
-	  if [ -e ${TRAINDATADIR}/$$l/train.id.gz ]; then \
-	    ${GZIP} -cd < ${TRAINDATADIR}/$$l/train.id.gz | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	  if [ -e ${RELEASEDIR}/$$l/train.id.gz ]; then \
+	    ${GZIP} -cd < ${RELEASEDIR}/$$l/train.id.gz | wc -l | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	    echo -n "| " >> $@; \
-	    ${GZIP} -cd < ${TRAINDATADIR}/$$l/train.src.gz | wc -w | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	    ${GZIP} -cd < ${RELEASEDIR}/$$l/train.src.gz | wc -w | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	    echo -n "| " >> $@; \
-	    ${GZIP} -cd < ${TRAINDATADIR}/$$l/train.trg.gz | wc -w | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
+	    ${GZIP} -cd < ${RELEASEDIR}/$$l/train.trg.gz | wc -w | awk '{printf "%10s\n", $$0}' | tr "\n" ' ' >> $@; \
 	    echo "|" >> $@; \
 	  else \
 	    echo "           |            |            |" >> $@; \
@@ -739,10 +739,22 @@ subsets/${VERSION}/%.md: ${STATISTICS}
 CSC_PROJECT = project_2003093
 APUT_FLAGS = -p ${CSC_PROJECT} --override --nc --skip-filelist
 
-${TRAINDATADIR}/%.done: ${TRAINDATADIR}/%
+## released train/dev/test data
+${RELEASEDIR}/%.done: ${RELEASEDIR}/%
 	a-put ${APUT_FLAGS} -b ${RELEASE_CONTAINER} $<
 	touch $@
 
+## released test sets
+${TESTDATADIR}-${VERSION}.done: ${TESTDATADIR}
+	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} -o test-${VERSION} $<
+	touch $@
+
+## released dev sets
+${DEVDATADIR}-${VERSION}.done: ${DEVDATADIR}
+	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} -o dev-${VERSION} $<
+	touch $@
+
+## incremental data sets
 ${DEVTESTDIR}.done: ${DEVTESTDIR}
 	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} $<
 	touch $@
@@ -752,7 +764,7 @@ ${DEVTESTDIR}.done: ${DEVTESTDIR}
 
 ## upload wiki-data
 
-${MONODATADIR}/wiki-shuffled-%.done: wiki-shuffled/%
+${RELEASEDIR}/wiki-shuffled-%.done: wiki-shuffled/%
 	mkdir -p ${TMPDIR}/wiki-shuffled
 	cp -R -L $< ${TMPDIR}/wiki-shuffled/
 	cd ${TMPDIR}/wiki-shuffled/ && a-put ${APUT_FLAGS} -b Tatoeba-Challenge-WikiShuffled ${notdir $<}
@@ -760,7 +772,7 @@ ${MONODATADIR}/wiki-shuffled-%.done: wiki-shuffled/%
 	rmdir ${TMPDIR}/$<
 	touch $@
 
-${MONODATADIR}/wiki-doc-%.done: wiki-doc/%
+${RELEASEDIR}/wiki-doc-%.done: wiki-doc/%
 	mkdir -p ${TMPDIR}/wiki-doc
 	cp -R -L $< ${TMPDIR}/wiki-doc/
 	cd ${TMPDIR}/wiki-doc/ && a-put ${APUT_FLAGS} -b Tatoeba-Challenge-WikiDoc ${notdir $<}
@@ -839,23 +851,23 @@ nonstandard-tatoeba:
 	@${GET_ISO_CODE} -n ${TATOEBA_LANGS} | tr ' ' "\n" > $@.iso
 
 move-diff-langpairs:
-	@echo ${filter-out ${TATOEBA_PAIRS3},${shell ls ${TRAINDATADIR}}}
+	@echo ${filter-out ${TATOEBA_PAIRS3},${shell ls ${RELEASEDIR}}}
 	mkdir -p data-wrong
-	for d in ${filter-out ${TATOEBA_PAIRS3},${shell ls ${TRAINDATADIR}}}; do \
-	  mv ${TRAINDATADIR}/$$d data-wrong/; \
+	for d in ${filter-out ${TATOEBA_PAIRS3},${shell ls ${RELEASEDIR}}}; do \
+	  mv ${RELEASEDIR}/$$d data-wrong/; \
 	done
 
 
 
 copy-old-testsets:
 	for p in ${TATOEBA_PAIRS3}; do \
-	  if [ -e ${TESTDATADIR}/$$p/test.id ]; then \
+	  if [ -e ${RELEASEDIR}/$$p/test.id ]; then \
 	    mkdir -p ${DEVTESTDIR}/$$p; \
-	    paste ${TESTDATADIR}/$$p/test.id ${TESTDATADIR}/$$p/test.src ${TESTDATADIR}/$$p/test.trg > ${DEVTESTDIR}/$$p/test-v2020-05-31.txt; \
+	    paste ${RELEASEDIR}/$$p/test.id ${RELEASEDIR}/$$p/test.src ${RELEASEDIR}/$$p/test.trg > ${DEVTESTDIR}/$$p/test-v2020-05-31.txt; \
 	  fi; \
-	  if [ -e ${TESTDATADIR}/$$p/dev.id ]; then \
+	  if [ -e ${RELEASEDIR}/$$p/dev.id ]; then \
 	    mkdir -p ${DEVTESTDIR}/$$p; \
-	    paste ${TESTDATADIR}/$$p/dev.id ${TESTDATADIR}/$$p/dev.src ${TESTDATADIR}/$$p/dev.trg > ${DEVTESTDIR}/$$p/dev-v2020-05-31.txt; \
+	    paste ${RELEASEDIR}/$$p/dev.id ${RELEASEDIR}/$$p/dev.src ${RELEASEDIR}/$$p/dev.trg > ${DEVTESTDIR}/$$p/dev-v2020-05-31.txt; \
 	  fi; \
 	done
 

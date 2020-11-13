@@ -4,8 +4,7 @@
 A new challenge set for machine translation covering over 500 languages and thousands of language pairs.
 
 * Benchmark for realistic low-resource scenarios
-* [Training, development and test data](Data.md) (complete [devtest data set](https://object.pouta.csc.fi/Tatoeba-Challenge/devtest.tar) with updates)
-* [Additional bilingual](subsets/NoTestData.md) and [monolingual data sets](MonolingualData.md)
+* [Training, development and test data](Data.md)
 * [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-all.md) ([training procedures](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md))
 * [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
 
@@ -16,6 +15,16 @@ A new challenge set for machine translation covering over 500 languages and thou
 * [Low](results/tatoeba-results-all-subset-lower.md) and even [lower](results/tatoeba-results-all-subset-lowest.md) resource MT (data: [low](subsets/lower.md), [lower](subsets/lowest.md))
 * [Medium](results/tatoeba-results-all-subset-medium.md), [higher](results/tatoeba-results-all-subset-higher.md) and [highest](results/tatoeba-results-all-subset-highest.md) resource MT (data: [medium](subsets/medium.md), [higher](subsets/higher.md), [highest](subsets/highest.md))
 * [Contribute reference translations via Tatoeba](https://tatoeba.org/eng/users/login?redirect=%2Feng%2Factivities%2Ftranslate_sentences)
+
+## Downloads
+
+* [Test data](https://object.pouta.csc.fi/Tatoeba-Challenge/test-v2020-07-28.tar) (v2020-07-28)
+* [Development data](https://object.pouta.csc.fi/Tatoeba-Challenge/dev-v2020-07-28.tar) (v2020-07-28)
+* [Bilingual training data](Data.md) (language-pair specific downloads)
+# [Extra bilingual training data](subsets/NoTestData.md) (language-pair specific downloads)
+* [Monolingual data sets](MonolingualData.md)
+* [Incrementally updated development and test data](https://object.pouta.csc.fi/Tatoeba-Challenge/devtest.tar)
+
 
 
 ## In more detail
