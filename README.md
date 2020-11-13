@@ -22,7 +22,7 @@ A new challenge set for machine translation covering over 500 languages and thou
 * [Development data](https://object.pouta.csc.fi/Tatoeba-Challenge/dev-v2020-07-28.tar) (v2020-07-28)
 * [Bilingual training data](Data.md) (language-pair specific downloads)
 * [Extra bilingual training data](subsets/NoTestData.md) (language-pair specific downloads)
-* [Monolingual data sets](MonolingualData.md)
+* [Monolingual data sets](MonolingualData.md), [with document boundaries](Wiki.md), [de-duplicated and shuffled](Wiki.md)
 * [Incrementally updated development and test data](https://object.pouta.csc.fi/Tatoeba-Challenge/devtest.tar)
 
 
