@@ -1,4 +1,9 @@
 
+# NEWS AND ANNOUNCEMENTS
+
+Unfortunately, the data server is still down and the IT service is working on the issue. The data sets are, therefore, not available at the moment. Sorry! Hopefully, everything will be up and running again later this week. Apologies for the inconvenience!
+
+
 # The Tatoeba Translation Challenge
 
 A new challenge set for machine translation covering over 500 languages and thousands of language pairs.
