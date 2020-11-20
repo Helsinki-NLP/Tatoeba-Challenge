@@ -1,9 +1,4 @@
 
-# NEWS AND ANNOUNCEMENTS
-
-Unfortunately, the data server is still down and the IT service is working on the issue. The data sets are, therefore, not available at the moment. Sorry! Hopefully, everything will be up and running again later this week. Apologies for the inconvenience!
-
-
 # The Tatoeba Translation Challenge
 
 A new challenge set for machine translation covering over 500 languages and thousands of language pairs.
@@ -23,12 +18,12 @@ A new challenge set for machine translation covering over 500 languages and thou
 
 ## Downloads
 
-* [Test data](http://opus.nlpl.eu/Tatoeba-Challenge/test-v2020-07-28.tar) (v2020-07-28)
-* [Development data](http://opus.nlpl.eu/Tatoeba-Challenge/dev-v2020-07-28.tar) (v2020-07-28)
+* [Test data](https://object.pouta.csc.fi/Tatoeba-Challenge/test-v2020-07-28.tar) (v2020-07-28)
+* [Development data](https://object.pouta.csc.fi/Tatoeba-Challenge/dev-v2020-07-28.tar) (v2020-07-28)
 * [Bilingual training data](Data.md) (language-pair specific downloads)
 * [Extra bilingual training data](subsets/NoTestData.md) (language-pair specific downloads)
 * [Monolingual data sets](MonolingualData.md), [with document boundaries](Wiki.md), [de-duplicated and shuffled](Wiki.md)
-* [Incrementally updated development and test data](http://opus.nlpl.eu/Tatoeba-Challenge/devtest.tar)
+* [Incrementally updated development and test data](https://object.pouta.csc.fi/Tatoeba-Challenge/devtest.tar)
 
 
 
@@ -75,7 +70,7 @@ Files with the extension `.src` refer to sentences in the source language (`deu`
 
 Other notes about the compilation of the data sets can be found in [Development.md](Development.md) and the complete lists of language pairs is in [Data.md](Data.md).
 
-New releases are planned in the future and will be announced here. Development and test data will be updated regularly but the original test sets will stay in the release. Updates of the test data will be available through this [devtest release](http://opus.nlpl.eu/Tatoeba-Challenge/devtest.tar) and will not include any examples available in development data. Those data sets are also available from this git repository in the sub directory [data/devtest/](tree/master/data/devtest).
+New releases are planned in the future and will be announced here. Development and test data will be updated regularly but the original test sets will stay in the release. Updates of the test data will be available through this [devtest release](https://object.pouta.csc.fi/Tatoeba-Challenge/devtest.tar) and will not include any examples available in development data. Those data sets are also available from this git repository in the sub directory [data/devtest/](tree/master/data/devtest).
 
 
 ## The translation challenge

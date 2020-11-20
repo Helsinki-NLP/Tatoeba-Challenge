@@ -744,20 +744,65 @@ ${RELEASEDIR}/%.done: ${RELEASEDIR}/%
 	a-put ${APUT_FLAGS} -b ${RELEASE_CONTAINER} $<
 	touch $@
 
-## released test sets
-${TESTDATADIR}-${VERSION}.done: ${TESTDATADIR}
-	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} -o test-${VERSION} $<
-	touch $@
-
-## released dev sets
-${DEVDATADIR}-${VERSION}.done: ${DEVDATADIR}
-	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} -o dev-${VERSION} $<
-	touch $@
-
 ## incremental data sets
 ${DEVTESTDIR}.done: ${DEVTESTDIR}
 	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} $<
 	touch $@
+
+
+# ## released test sets
+# ${TESTDATADIR}-${VERSION}.done: ${TESTDATADIR}
+# 	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} -o test-${VERSION} $<
+# 	touch $@
+
+# ## released dev sets
+# ${DEVDATADIR}-${VERSION}.done: ${DEVDATADIR}
+# 	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} -o dev-${VERSION} $<
+# 	touch $@
+
+
+
+
+
+
+## size of each test set
+${TESTDATADIR}-${VERSION}.size: ${TESTDATADIR}
+	find $< -name 'test.txt' -exec wc -l {} \; > $@
+
+## subset of test sets that are larger than 200 sentences
+${TESTDATADIR}-${VERSION}: ${TESTDATADIR}-${VERSION}.size
+	mkdir -p ${dir $@}
+	egrep '[0-9]{4,}' $< | cut -f2 -d' '  > $@.selected
+	egrep '[2-9]{3}'  $< | cut -f2 -d' ' >> $@.selected
+	tar -T $@.selected --transform 's,^${TESTDATADIR},${TESTDATADIR}-${VERSION},' -cf $@.tar
+	tar -xf $@.tar
+	rm -f $@.tar
+
+## released test sets
+${TESTDATADIR}-${VERSION}.done: ${TESTDATADIR}-${VERSION}
+	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} $<
+	touch $@
+
+
+
+## size of each test set
+${DEVDATADIR}-${VERSION}.size: ${DEVDATADIR}
+	find $< -name 'dev.txt' -exec wc -l {} \; > $@
+
+## subset of test sets that are larger than 200 sentences
+${DEVDATADIR}-${VERSION}: ${DEVDATADIR}-${VERSION}.size
+	mkdir -p ${dir $@}
+	egrep '[0-9]{4,}' $< | cut -f2 -d' '  > $@.selected
+	egrep '[2-9]{3}'  $< | cut -f2 -d' ' >> $@.selected
+	tar -T $@.selected --transform 's,^${DEVDATADIR},${DEVDATADIR}-${VERSION},' -cf $@.tar
+	tar -xf $@.tar
+	rm -f $@.tar
+
+## released test sets
+${DEVDATADIR}-${VERSION}.done: ${DEVDATADIR}-${VERSION}
+	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} $<
+	touch $@
+
 
 
 
