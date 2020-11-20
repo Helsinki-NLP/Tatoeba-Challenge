@@ -1,7 +1,7 @@
 
 # NEWS AND ANNOUNCEMENTS
 
-Unfortunately, the data server is still down and the IT service is working on the issue. The data sets are, therefore, not available at the moment. Sorry! Hopefully, everything will be up and running again later this week. Apologies for the inconvenience!
+Unfortunately, the data server is still down and the IT service is working on the issue. The data sets are now available from a different location but download might be slower. The monolingual data sets and pre-trained translation models are still not available. Apologies for the inconvenience!
 
 
 # The Tatoeba Translation Challenge
@@ -28,7 +28,7 @@ A new challenge set for machine translation covering over 500 languages and thou
 * [Bilingual training data](Data.md) (language-pair specific downloads)
 * [Extra bilingual training data](subsets/NoTestData.md) (language-pair specific downloads)
 * [Monolingual data sets](MonolingualData.md), [with document boundaries](Wiki.md), [de-duplicated and shuffled](Wiki.md)
-* [Incrementally updated development and test data](http://opus.nlpl.eu/Tatoeba-Challenge/devtest.tar)
+* [Incrementally updated development and test data](http://opus.nlpl.eu/Tatoeba-Challenge/devtest.tar) ([data/devset](for individual language pairs))
 
 
 
