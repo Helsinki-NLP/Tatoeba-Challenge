@@ -1,4 +1,9 @@
 
+# NEWS AND ANNOUNCEMENTS
+
+Unfortunately, the data server is still down and the IT service is working on the issue. The data sets are now available from a different location but download might be slower. The monolingual data sets and pre-trained translation models are still not available. Apologies for the inconvenience!
+
+
 # The Tatoeba Translation Challenge
 
 A new challenge set for machine translation covering over 500 languages and thousands of language pairs.
@@ -18,12 +23,12 @@ A new challenge set for machine translation covering over 500 languages and thou
 
 ## Downloads
 
-* [Test data](https://object.pouta.csc.fi/Tatoeba-Challenge/test-v2020-07-28.tar) (v2020-07-28)
-* [Development data](https://object.pouta.csc.fi/Tatoeba-Challenge/dev-v2020-07-28.tar) (v2020-07-28)
+* [Test data](http://opus.nlpl.eu/Tatoeba-Challenge/test-v2020-07-28.tar) (v2020-07-28)
+* [Development data](http://opus.nlpl.eu/Tatoeba-Challenge/dev-v2020-07-28.tar) (v2020-07-28)
 * [Bilingual training data](Data.md) (language-pair specific downloads)
 * [Extra bilingual training data](subsets/NoTestData.md) (language-pair specific downloads)
 * [Monolingual data sets](MonolingualData.md), [with document boundaries](Wiki.md), [de-duplicated and shuffled](Wiki.md)
-* [Incrementally updated development and test data](https://object.pouta.csc.fi/Tatoeba-Challenge/devtest.tar), ([here for individual language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/data/devtest))
+* [Incrementally updated development and test data](http://opus.nlpl.eu/Tatoeba-Challenge/devtest.tar), ([here for individual language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/data/devtest))
 
 
 
@@ -31,7 +36,7 @@ A new challenge set for machine translation covering over 500 languages and thou
 
 This package provides data sets for machine translation in many languages with test data taken from [Tatoeba](https://tatoeba.org).
 
-The Tatoeba translation challenge includes shuffled training data taken from [OPUS](http://opus.nlpl.eu) and test data from [Tatoeba](https://tatoeba.org) via the [aligned data set in OPUS](https://object.pouta.csc.fi/Tatoeba.php). All data sets are normalised to [ISO-639-3 language codes](https://iso639-3.sil.org/) (so much as possible) using [macro-languages](https://en.wikipedia.org/wiki/ISO_639_macrolanguage) in case there are various individual sub-languages available. Naturally, training data do not include Tatoeba sentences and the popular WMT testsets are not included to allow a fair comparison to other models using those data sets.
+The Tatoeba translation challenge includes shuffled training data taken from [OPUS](http://opus.nlpl.eu) and test data from [Tatoeba](https://tatoeba.org) via the [aligned data set in OPUS](http://opus.nlpl.eu/Tatoeba.php). All data sets are normalised to [ISO-639-3 language codes](https://iso639-3.sil.org/) (so much as possible) using [macro-languages](https://en.wikipedia.org/wiki/ISO_639_macrolanguage) in case there are various individual sub-languages available. Naturally, training data do not include Tatoeba sentences and the popular WMT testsets are not included to allow a fair comparison to other models using those data sets.
 
 This is an open challenge and the idea s to encourage people to develop machine translation in real-world cases for many languages. The most important point is to get away from artificial settings that simulate low-resource scenarios or zero-shot translations. Here, we extracted data sets with all the data we have in a large collection of parallel corpora instead and do not reduce high-resource scenarios in an unnatural way. Tatoeba is, admittedly, a rather easy test set in general but it includes a wide varity of languages and makes it easy to get started with rather encouraging results even for lesser resourced languages. The release also includes medium and high resource settings and allows a wide range of experiments with all supported language pairs including studies of transfer learning and pivot-based methods.
 
@@ -70,7 +75,7 @@ Files with the extension `.src` refer to sentences in the source language (`deu`
 
 Other notes about the compilation of the data sets can be found in [Development.md](Development.md) and the complete lists of language pairs is in [Data.md](Data.md).
 
-New releases are planned in the future and will be announced here. Development and test data will be updated regularly but the original test sets will stay in the release. Updates of the test data will be available through this [devtest release](https://object.pouta.csc.fi/Tatoeba-Challenge/devtest.tar) and will not include any examples available in development data. Those data sets are also available from this git repository in the sub directory [data/devtest/](tree/master/data/devtest).
+New releases are planned in the future and will be announced here. Development and test data will be updated regularly but the original test sets will stay in the release. Updates of the test data will be available through this [devtest release](http://opus.nlpl.eu/Tatoeba-Challenge/devtest.tar) and will not include any examples available in development data. Those data sets are also available from this git repository in the sub directory [data/devtest/](tree/master/data/devtest).
 
 
 ## The translation challenge
