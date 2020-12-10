@@ -273,12 +273,18 @@ to be useful for anything.
 | | lang = fin-hun | | | | |
 | [fiu-fiu/opus](../models/fiu-fiu) | tatoeba | 0.671 | 44.3 | 0.997 | 6484 |
 | [urj-urj/opus](../models/urj-urj) | tatoeba | 0.667 | 44.6 | 0.995 | 6484 |
+| | lang = fra-heb | | | | |
+| [fra-heb/opus](../models/fra-heb) | tatoeba | 0.598 | 39.2 | 1.000 | 20655 |
 | | lang = hbs-pol | | | | |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.639 | 42.9 | 0.957 | 2600 |
 | | lang = hbs-rus | | | | |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.704 | 52.4 | 0.985 | 14213 |
+| | lang = heb-ita | | | | |
+| [heb-ita/opus](../models/heb-ita) | tatoeba | 0.643 | 41.1 | 0.997 | 11464 |
 | | lang = heb-rus | | | | |
 | [heb-rus/opus](../models/heb-rus) | tatoeba | 0.599 | 40.5 | 0.963 | 16583 |
+| | lang = heb-spa | | | | |
+| [heb-spa/opus](../models/heb-spa) | tatoeba | 0.689 | 51.3 | 0.970 | 14213 |
 | | lang = pol-rus | | | | |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.670 | 48.2 | 0.988 | 22067 |
 | | lang = spa-tur | | | | |

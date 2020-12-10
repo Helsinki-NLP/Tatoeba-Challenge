@@ -488,6 +488,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	eus-spa	eu-es	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fas-deu	fa-de	0.527	29.6	1.000	51180	Persian	German
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fas-eng	fa-en	0.566	38.2	0.969	63016	Persian	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fas-epo	fa-eo	0.117	0.3	0.995	36714	Persian	Esperanto
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-12-10.zip	fas-rus	fa-ru	0.474	18.6	1.000	62	Persian	Russian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-08-05.zip	fin-eng	fi-en	0.697	53.4	0.990	74651	Finnish	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fin-eng	fi-en	0.697	53.4	0.990	74651	Finnish	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fin-epo	fi-eo	0.413	22.5	0.949	18881	Finnish	Esperanto
@@ -511,6 +512,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fra-bre	fr-br	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	fra-bul	fr-bg	0.657	46.3	0.953	3286	French	Bulgarian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fra-cat	fr-ca	0.645	43.4	0.982	5214	French	Catalan
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fra-epo	fr-eo	0.509	29.2	0.976	78053	French	Esperanto
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-12-10.zip	fra-heb	fr-he	0.598	39.2	1.000	20655	French	Hebrew
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fra-ina	fr-ia	0.132	0.5	1.000	9325	French	Interlingua (International Auxiliary Language Association)
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fra-msa	fr-ms	0.620	35.6	0.972	6696	French	Malay (macrolanguage)
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fra-nds	fr-nds	0.186	2.0	0.934	5571	French	Low German
@@ -578,8 +580,11 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	heb-ara	he-ar	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	heb-ara	he-ar	0.532	23.6	0.926	6372	Hebrew	Arabic
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-10-04.zip	heb-eng	he-en	0.670	52.0	0.969	73560	Hebrew	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	heb-epo	he-eo	0.348	17.6	0.899	78217	Hebrew	Esperanto
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-12-10.zip	heb-fra	he-fr	0.644	47.3	0.974	26123	Hebrew	French
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-12-10.zip	heb-ita	he-it	0.643	41.1	0.997	11464	Hebrew	Italian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	heb-lat	he-la	0.030	0.0	1.000	1367	Hebrew	Latin
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-10-04.zip	heb-rus	he-ru	0.599	40.5	0.963	16583	Hebrew	Russian
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-12-10.zip	heb-spa	he-es	0.689	51.3	0.970	14213	Hebrew	Spanish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	heb-ukr	he-uk	0.552	35.4	0.971	5163	Hebrew	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	hin-eng	hi-en	0.569	39.0	0.956	33943	Hindi	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	hin-urd	hi-ur	0.174	1.7	1.000	1618	Hindi	Urdu
@@ -636,6 +641,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ita-bel	it-be	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	ita-bul	it-bg	0.664	47.9	0.961	16512	Italian	Bulgarian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ita-cat	it-ca	0.706	52.5	0.993	2074	Italian	Catalan
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ita-epo	it-eo	0.296	11.8	0.905	67846	Italian	Esperanto
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-12-10.zip	ita-heb	it-he	0.593	38.5	0.985	9796	Italian	Hebrew
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ita-isl	it-is	0.524	28.6	0.972	1459	Italian	Icelandic
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ita-lat	it-la	0.044	0.1	0.528	10047	Italian	Latin
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ita-lit	it-lt	0.652	38.1	0.959	1321	Italian	Lithuanian
@@ -820,6 +826,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	rus-dan	ru-da	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	rus-epo	ru-eo	0.436	24.2	0.925	77197	Russian	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	rus-est	ru-et	0.749	57.5	0.975	3572	Russian	Estonian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	rus-eus	ru-eu	0.539	29.7	0.944	2373	Russian	Basque
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-12-10.zip	rus-fas	ru-fa	0.347	6.5	1.000	70	Russian	Persian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-10-04.zip	rus-heb	ru-he	0.569	36.1	0.999	15028	Russian	Hebrew
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	rus-hye	ru-hy	0.494	21.7	1.000	1602	Russian	Armenian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	rus-kat	ru-ka	0.235	7.1	1.000	3667	Russian	Georgian
@@ -874,6 +881,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-eus	es-eu	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-gla	es-gd	0.151	1.0	1.000	2014	Spanish	Scottish Gaelic
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-glg	es-gl	0.808	67.6	0.993	16581	Spanish	Galician
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-grn	es-gn	0.122	0.4	1.000	3089	Spanish	Guarani
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-12-10.zip	spa-heb	es-he	0.636	43.6	0.992	12112	Spanish	Hebrew
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-ido	es-io	0.118	0.1	1.000	5670	Spanish	Ido
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-isl	es-is	0.528	27.1	1.000	1220	Spanish	Icelandic
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-khm	es-km	0.055	0.0	1.000	3391	Spanish	Khmer

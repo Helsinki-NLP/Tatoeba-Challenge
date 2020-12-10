@@ -82,6 +82,7 @@ to be useful for anything.
 | | lang = eng-fas | | | | |
 | [eng-fas/opus](../models/eng-fas) | tatoeba | 0.364 | 11.8 | 0.924 | 62270 |
 | [ira-ira/opus](../models/ira-ira) | tatoeba | 0.253 | 5.4 | 0.961 | 31135 |
+| [eng-fas/opus](../models/eng-fas) | tico19-test-engfas | 0.422 | 13.7 | 0.826 | 62758 |
 | | lang = eng-gle | | | | |
 | [eng-gle/opus](../models/eng-gle) | tatoeba | 0.593 | 37.5 | 1.000 | 12200 |
 | [cel-cel/opus](../models/cel-cel) | tatoeba | 0.567 | 34.2 | 1.000 | 12200 |

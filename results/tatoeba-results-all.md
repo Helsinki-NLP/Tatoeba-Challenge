@@ -851,6 +851,7 @@ to be useful for anything.
 | | lang = eng-fas | | | | |
 | [eng-fas/opus](../models/eng-fas) | tatoeba | 0.364 | 11.8 | 0.924 | 62270 |
 | [ira-ira/opus](../models/ira-ira) | tatoeba | 0.253 | 5.4 | 0.961 | 31135 |
+| [eng-fas/opus](../models/eng-fas) | tico19-test-engfas | 0.422 | 13.7 | 0.826 | 62758 |
 | | lang = eng-fij | | | | |
 | [pqe-pqe/opus](../models/pqe-pqe) | tatoeba | 0.428 | 25.8 | 1.000 | 180 |
 | | lang = eng-fin | | | | |
@@ -1162,6 +1163,7 @@ to be useful for anything.
 | [phi-phi/opus](../models/phi-phi) | tatoeba | 0.488 | 16.2 | 1.000 | 320 |
 | | lang = eng-pan | | | | |
 | [inc-inc/opus](../models/inc-inc) | tatoeba | 0.321 | 7.5 | 1.000 | 603 |
+| eng-pan/opus | tatoeba | 0.256 | 2.5 | 1.000 | 1206 |
 | | lang = eng-pap | | | | |
 | [cpp-cpp/opus](../models/cpp-cpp) | tatoeba | 0.638 | 45.1 | 1.000 | 376 |
 | | lang = eng-pau | | | | |
@@ -1584,6 +1586,8 @@ to be useful for anything.
 | [ira-ira/opus](../models/ira-ira) | tatoeba | 0.446 | 25.8 | 0.988 | 31508 |
 | | lang = fas-epo | | | | |
 | [fas-epo/opus](../models/fas-epo) | tatoeba | 0.117 | 0.3 | 0.995 | 36714 |
+| | lang = fas-rus | | | | |
+| [fas-rus/opus](../models/fas-rus) | tatoeba | 0.474 | 18.6 | 1.000 | 62 |
 | | lang = fij-eng | | | | |
 | [pqe-pqe/opus](../models/pqe-pqe) | tatoeba | 0.354 | 25.0 | 1.000 | 159 |
 | | lang = fin-eng | | | | |
@@ -1667,6 +1671,8 @@ to be useful for anything.
 | [fra-cat/opus](../models/fra-cat) | tatoeba | 0.645 | 43.4 | 0.982 | 5214 |
 | | lang = fra-epo | | | | |
 | [fra-epo/opus](../models/fra-epo) | tatoeba | 0.509 | 29.2 | 0.976 | 78053 |
+| | lang = fra-heb | | | | |
+| [fra-heb/opus](../models/fra-heb) | tatoeba | 0.598 | 39.2 | 1.000 | 20655 |
 | | lang = fra-ina | | | | |
 | [fra-ina/opus](../models/fra-ina) | tatoeba | 0.132 | 0.5 | 1.000 | 9325 |
 | | lang = fra-msa | | | | |
@@ -1893,6 +1899,10 @@ to be useful for anything.
 | [afa-afa/opus](../models/afa-afa) | tatoeba | 0.578 | 40.9 | 0.969 | 73560 |
 | | lang = heb-epo | | | | |
 | [heb-epo/opus](../models/heb-epo) | tatoeba | 0.348 | 17.6 | 0.899 | 78217 |
+| | lang = heb-fra | | | | |
+| [heb-fra/opus](../models/heb-fra) | tatoeba | 0.644 | 47.3 | 0.974 | 26123 |
+| | lang = heb-ita | | | | |
+| [heb-ita/opus](../models/heb-ita) | tatoeba | 0.643 | 41.1 | 0.997 | 11464 |
 | | lang = heb-kab | | | | |
 | [afa-afa/opus](../models/afa-afa) | tatoeba | 0.115 | 2.8 | 1.000 | 11 |
 | | lang = heb-lat | | | | |
@@ -1902,6 +1912,8 @@ to be useful for anything.
 | [sem-sem/opus](../models/sem-sem) | tatoeba | 0.008 | 1.9 | 1.000 | 47 |
 | | lang = heb-rus | | | | |
 | [heb-rus/opus](../models/heb-rus) | tatoeba | 0.599 | 40.5 | 0.963 | 16583 |
+| | lang = heb-spa | | | | |
+| [heb-spa/opus](../models/heb-spa) | tatoeba | 0.689 | 51.3 | 0.970 | 14213 |
 | | lang = heb-syc | | | | |
 | [afa-afa/opus](../models/afa-afa) | tatoeba | 0.000 | 1.9 | 1.000 | 6 |
 | [sem-sem/opus](../models/sem-sem) | tatoeba | 0.000 | 0.2 | 1.000 | 6 |
@@ -2121,6 +2133,8 @@ to be useful for anything.
 | [ita-cat/opus](../models/ita-cat) | tatoeba | 0.706 | 52.5 | 0.993 | 2074 |
 | | lang = ita-epo | | | | |
 | [ita-epo/opus](../models/ita-epo) | tatoeba | 0.296 | 11.8 | 0.905 | 67846 |
+| | lang = ita-heb | | | | |
+| [ita-heb/opus](../models/ita-heb) | tatoeba | 0.593 | 38.5 | 0.985 | 9796 |
 | | lang = ita-isl | | | | |
 | [ita-isl/opus](../models/ita-isl) | tatoeba | 0.524 | 28.6 | 0.972 | 1459 |
 | | lang = ita-lat | | | | |
@@ -2906,6 +2920,7 @@ to be useful for anything.
 | [phi-phi/opus](../models/phi-phi) | tatoeba | 0.465 | 21.3 | 1.000 | 316 |
 | | lang = pan-eng | | | | |
 | [inc-inc/opus](../models/inc-inc) | tatoeba | 0.376 | 18.4 | 1.000 | 616 |
+| pan-eng/opus | tatoeba | 0.306 | 11.2 | 1.000 | 1232 |
 | | lang = pap-eng | | | | |
 | [cpp-cpp/opus](../models/cpp-cpp) | tatoeba | 0.603 | 48.9 | 1.000 | 366 |
 | | lang = pap-msa | | | | |
@@ -3078,6 +3093,8 @@ to be useful for anything.
 | [rus-est/opus](../models/rus-est) | tatoeba | 0.749 | 57.5 | 0.975 | 3572 |
 | | lang = rus-eus | | | | |
 | [rus-eus/opus](../models/rus-eus) | tatoeba | 0.539 | 29.7 | 0.944 | 2373 |
+| | lang = rus-fas | | | | |
+| [rus-fas/opus](../models/rus-fas) | tatoeba | 0.347 | 6.5 | 1.000 | 70 |
 | | lang = rus-hbs | | | | |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.654 | 44.5 | 0.949 | 14736 |
 | | lang = rus-heb | | | | |
@@ -3237,6 +3254,8 @@ to be useful for anything.
 | [spa-glg/opus](../models/spa-glg) | tatoeba | 0.808 | 67.6 | 0.993 | 16581 |
 | | lang = spa-grn | | | | |
 | [spa-grn/opus](../models/spa-grn) | tatoeba | 0.122 | 0.4 | 1.000 | 3089 |
+| | lang = spa-heb | | | | |
+| [spa-heb/opus](../models/spa-heb) | tatoeba | 0.636 | 43.6 | 0.992 | 12112 |
 | | lang = spa-ido | | | | |
 | [spa-ido/opus](../models/spa-ido) | tatoeba | 0.118 | 0.1 | 1.000 | 5670 |
 | | lang = spa-isl | | | | |
