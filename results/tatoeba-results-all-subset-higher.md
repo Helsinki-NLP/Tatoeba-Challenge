@@ -100,6 +100,7 @@ to be useful for anything.
 | [gmq-gmq/opus](../models/gmq-gmq) | tatoeba | 0.506 | 24.3 | 0.940 | 18999 |
 | [gem-gem/opus](../models/gem-gem) | tatoeba | 0.473 | 22.1 | 0.937 | 18999 |
 | | lang = eng-jpn | | | | |
+| [eng-jpn/opus](../models/eng-jpn) | tatoeba | 0.266 | 15.7 | 1.000 | 99206 |
 | [jpx-jpx/opus](../models/jpx-jpx) | tatoeba | 0.230 | 11.3 | 1.000 | 99206 |
 | | lang = eng-mal | | | | |
 | [dra-dra/opus](../models/dra-dra) | tatoeba | 0.499 | 13.2 | 0.946 | 4265 |
@@ -171,6 +172,8 @@ to be useful for anything.
 | [ita-ukr/opus](../models/ita-ukr) | tatoeba | 0.657 | 45.9 | 0.989 | 25353 |
 | | lang = ita-vie | | | | |
 | [ita-vie/opus](../models/ita-vie) | tatoeba | 0.535 | 36.2 | 1.000 | 2144 |
+| | lang = ita-zho | | | | |
+| [roa-zho/opus](../models/roa-zho) | tatoeba | 0.129 | 14.5 | 1.000 | 26638 |
 | | lang = jpn-lit | | | | |
 | [jpn-lit/opus](../models/jpn-lit) | tatoeba | 0.234 | 5.5 | 0.935 | 1359 |
 | | lang = jpn-msa | | | | |
@@ -215,6 +218,8 @@ to be useful for anything.
 | [cpp-cpp/opus](../models/cpp-cpp) | tatoeba | 0.353 | 14.8 | 1.000 | 6029 |
 | [pqw-pqw/opus](../models/pqw-pqw) | tatoeba | 0.312 | 13.9 | 1.000 | 6029 |
 | [sal-sal/opus](../models/sal-sal) | tatoeba | 0.232 | 8.2 | 1.000 | 6029 |
+| | lang = msa-zho | | | | |
+| [roa-zho/opus](../models/roa-zho) | tatoeba | 0.095 | 9.4 | 1.000 | 4028 |
 | | lang = nld-nor | | | | |
 | [nld-nor/opus](../models/nld-nor) | tatoeba | 0.773 | 63.2 | 0.981 | 1459 |
 | [gem-gem/opus](../models/gem-gem) | tatoeba | 0.729 | 56.5 | 0.990 | 1459 |

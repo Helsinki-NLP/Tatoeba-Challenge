@@ -99,6 +99,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	cat-nld	ca-nl	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	cat-por	ca-pt	0.659	44.8	0.950	5847	Catalan	Portuguese
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	cat-spa	ca-es	0.856	73.9	0.993	12094	Catalan	Spanish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	cat-ukr	ca-uk	0.503	28.6	0.967	2438	Catalan	Ukrainian
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-12-28.zip	cat-zho	ca-zh	0.069	6.4	0.897	1216	Catalan	Chinese
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-04.zip	cau-eng	cau-en	0.340	15.0	1.000	6285	Caucasian languages	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-14.zip	cau-eng	cau-en	0.340	15.0	1.000	6285	Caucasian languages	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-19.zip	cau-eng	cau-en	0.340	15.0	1.000	6285	Caucasian languages	English
@@ -123,8 +124,16 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-19.zip	cel-eng	cel-en
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-26.zip	cel-eng	cel-en	0.387	21.7	1.000	42097	Celtic languages	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus2m-2020-07-31.zip	cel-eng	cel-en	0.398	22.8	1.000	42097	Celtic languages	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus4m-2020-08-12.zip	cel-eng	cel-en	0.404	23.3	1.000	42097	Celtic languages	English
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	ces-deu	cs-de	0.692	51.5	0.978	27155	Czech	German
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	ces-eng	cs-en	0.719	57.0	0.963	75376	Czech	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ces-epo	cs-eo	0.459	26.0	0.940	24901	Czech	Esperanto
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	ces-fra	cs-fr	0.720	56.0	0.982	3231	Czech	French
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	ces-hun	cs-hu	0.691	48.6	0.975	10352	Czech	Hungarian
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	ces-ita	cs-it	0.675	44.9	0.982	7872	Czech	Italian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ces-lat	cs-la	0.060	0.2	0.549	1775	Czech	Latin
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	ces-pol	cs-pl	0.701	50.5	0.965	3369	Czech	Polish
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	ces-rus	cs-ru	0.722	55.1	0.979	15084	Czech	Russian
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	ces-spa	cs-es	0.706	53.4	0.971	12716	Czech	Spanish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ces-ukr	cs-uk	0.680	50.9	0.994	8891	Czech	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	cha-eng	ch-en	0.113	0.1	1.000	1212	Chamorro	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	chv-eng	cv-en	0.120	0.1	1.000	2240	Chuvash	English
@@ -157,10 +166,19 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-19.zip	cus-eng	cus-en
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-26.zip	cus-eng	cus-en	0.303	16.2	1.000	3	Cushitic languages	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-08-12.zip	cus-eng	cus-en	0.303	16.2	1.000	3	Cushitic languages	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	cym-eng	cy-en	0.535	35.6	1.000	5563	Welsh	English
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	dan-deu	da-de	0.740	56.7	0.993	76069	Danish	German
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	dan-eng	da-en	0.776	64.4	0.977	73617	Danish	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	dan-epo	da-eo	0.432	23.6	0.942	69856	Danish	Esperanto
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	dan-fin	da-fi	0.617	37.4	0.928	14305	Danish	Finnish
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	dan-fra	da-fr	0.759	63.0	1.000	11929	Danish	French
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	dan-ita	da-it	0.727	52.7	0.977	2202	Danish	Italian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	dan-jpn	da-ja	0.317	22.3	1.000	6970	Danish	Japanese
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	dan-nld	da-nl	0.778	64.4	0.993	10802	Danish	Dutch
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	dan-nor	da-no	0.863	76.0	0.999	9691	Danish	Norwegian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	dan-rus	da-ru	0.715	52.5	0.991	10480	Danish	Russian
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	dan-spa	da-es	0.718	53.8	0.974	35528	Danish	Spanish
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	dan-swe	da-sv	0.832	72.1	0.988	10082	Danish	Swedish
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	dan-tur	da-tr	0.662	40.5	0.945	3429	Danish	Turkish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-afr	de-af	0.690	51.3	1.000	9507	German	Afrikaans
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	deu-ara	de-ar	0.486	19.7	0.993	6324	German	Arabic
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-ara	de-ar	0.486	17.8	0.967	6324	German	Arabic
@@ -168,14 +186,21 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-bel	de-be	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	deu-bul	de-bg	0.683	50.7	0.980	2032	German	Bulgarian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-cat	de-ca	0.582	37.4	0.956	5507	German	Catalan
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-ceb	de-ceb	0.413	9.3	1.000	6330	German	Cebuano
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	deu-ces	de-cs	0.631	42.4	0.976	22864	German	Czech
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	deu-dan	de-da	0.727	56.6	0.981	74655	German	Danish
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	deu-ell	de-el	0.652	45.3	0.982	15517	German	Modern Greek (1453-)
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	deu-eng	de-en	0.693	53.1	0.975	81233	German	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-08-05.zip	deu-eng	de-en	0.696	53.4	0.976	81233	German	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-eng	de-en	0.696	53.4	0.976	81233	German	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-epo	de-eo	0.453	24.1	0.938	87063	German	Esperanto
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	deu-est	de-et	0.741	55.4	0.984	1222	German	Estonian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-eus	de-eu	0.574	31.8	0.921	2829	German	Basque
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-fas	de-fa	0.335	10.4	0.960	49882	German	Persian
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	deu-fin	de-fi	0.634	40.1	0.944	14145	German	Finnish
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	deu-fra	de-fr	0.661	48.6	0.979	81669	German	French
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-heb	de-he	0.580	37.1	0.980	20337	German	Hebrew
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-hsb	de-hsb	0.078	0.2	0.673	3903	German	Upper Sorbian
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	deu-hun	de-hu	0.582	33.0	0.954	68302	German	Hungarian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-ina	de-ia	0.111	0.2	0.731	12280	German	Interlingua (International Auxiliary Language Association)
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-isl	de-is	0.533	27.1	0.962	5939	German	Icelandic
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	deu-jpn	de-ja	0.262	15.7	1.000	91644	German	Japanese
@@ -200,6 +225,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-26.zip	dra-eng	dra-en
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus2m-2020-07-31.zip	dra-eng	dra-en	0.493	30.0	1.000	10641	Dravidian languages	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus2m-2020-08-12.zip	dra-eng	dra-en	0.493	30.0	1.000	10641	Dravidian languages	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	ell-ara	el-ar	0.485	21.9	0.972	1686	Modern Greek (1453-)	Arabic
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	ell-deu	el-de	0.692	53.3	0.989	17025	Modern Greek (1453-)	German
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ell-epo	el-eo	0.517	32.4	0.979	3807	Modern Greek (1453-)	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-06.zip	eng-aav	en-aav	0.311	16.1	1.000	38261	English	Austro-Asiatic languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-14.zip	eng-aav	en-aav	0.311	16.1	1.000	38261	English	Austro-Asiatic languages
@@ -238,6 +264,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-14.zip	eng-cel	en-cel
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-19.zip	eng-cel	en-cel	0.329	16.5	1.000	45370	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-26.zip	eng-cel	en-cel	0.329	16.5	1.000	45370	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus2m-2020-08-01.zip	eng-cel	en-cel	0.342	18.0	0.959	45370	English	Celtic languages
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	eng-ces	en-cs	0.663	47.8	0.988	65288	English	Czech
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	eng-cha	en-ch	0.109	0.1	1.000	1080	English	Chamorro
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	eng-chv	en-cv	0.118	0.2	1.000	1716	English	Chuvash
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-06.zip	eng-cpf	en-cpf	0.354	15.9	1.000	1012	English	Creoles and pidgins, French‑based
@@ -250,6 +277,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-26.zip	eng-cpp	en-cpp
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus2m-2020-08-01.zip	eng-cpp	en-cpp	0.574	32.7	0.996	34010	English	Creoles and pidgins, Portuguese-based
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus2m-2020-08-01.zip	eng-cus	en-cus	0.173	16.0	1.000	3	English	Cushitic languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	eng-cym	en-cy	0.499	27.4	0.968	6020	English	Welsh
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	eng-dan	en-da	0.753	61.7	0.987	73213	English	Danish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-08-25.zip	eng-deu	en-de	0.655	45.8	0.995	83347	English	German
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-06.zip	eng-dra	en-dra	0.463	10.7	1.000	7928	English	Dravidian languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-14.zip	eng-dra	en-dra	0.463	10.7	1.000	7928	English	Dravidian languages
@@ -315,6 +343,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-20.zip	eng-itc	en-itc
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-27.zip	eng-itc	en-itc	0.585	37.5	0.963	73951	English	Italic languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus2m-2020-08-01.zip	eng-itc	en-itc	0.588	38.0	0.967	73951	English	Italic languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	eng-jav	en-jv	0.085	0.2	1.000	1615	English	Javanese
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-12-20.zip	eng-jpn	en-ja	0.266	15.7	1.000	99206	English	Japanese
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	eng-kab	en-kab	0.113	0.2	1.000	54472	English	Kabyle
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	eng-kat	en-ka	0.157	5.1	1.000	4473	English	Georgian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	eng-kaz	en-kk	0.181	3.1	0.825	2151	English	Kazakh
@@ -351,6 +380,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-14.zip	eng-phi	en-phi
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-20.zip	eng-phi	en-phi	0.391	12.8	1.000	30022	English	Philippine languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-27.zip	eng-phi	en-phi	0.391	12.8	1.000	30022	English	Philippine languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus2m-2020-08-01.zip	eng-phi	en-phi	0.392	13.1	1.000	30022	English	Philippine languages
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	eng-por	en-pt	0.652	43.9	0.969	75371	English	Portuguese
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-06.zip	eng-poz	en-poz	0.410	16.2	1.000	66803	English	Malayo-Polynesian languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-14.zip	eng-poz	en-poz	0.410	16.2	1.000	66803	English	Malayo-Polynesian languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-20.zip	eng-poz	en-poz	0.410	16.2	1.000	66803	English	Malayo-Polynesian languages
@@ -472,6 +502,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	epo-ukr	eo-uk	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	epo-vie	eo-vi	0.273	10.0	1.000	17797	Esperanto	Vietnamese
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	epo-yid	eo-yi	0.108	0.1	1.000	6378	Esperanto	Yiddish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	epo-zho	eo-zh	0.047	3.0	0.891	22149	Esperanto	Chinese
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	est-deu	et-de	0.681	50.8	1.000	1390	Estonian	German
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	est-rus	et-ru	0.702	50.2	0.988	3569	Estonian	Russian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-04.zip	euq-eng	euq-en	0.594	41.5	0.964	8157	Basque (family)	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-14.zip	euq-eng	euq-en	0.594	41.5	0.964	8157	Basque (family)	English
@@ -489,6 +520,8 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fas-deu	fa-de	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fas-eng	fa-en	0.566	38.2	0.969	63016	Persian	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fas-epo	fa-eo	0.117	0.3	0.995	36714	Persian	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-12-10.zip	fas-rus	fa-ru	0.474	18.6	1.000	62	Persian	Russian
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	fin-dan	fi-da	0.708	55.0	1.000	16672	Finnish	Danish
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	fin-deu	fi-de	0.658	47.4	1.000	18076	Finnish	German
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-08-05.zip	fin-eng	fi-en	0.697	53.4	0.990	74651	Finnish	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fin-eng	fi-en	0.697	53.4	0.990	74651	Finnish	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fin-epo	fi-eo	0.413	22.5	0.949	18881	Finnish	Esperanto
@@ -511,6 +544,9 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fra-bel	fr-be	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fra-bre	fr-br	0.210	3.8	0.849	14394	French	Breton
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	fra-bul	fr-bg	0.657	46.3	0.953	3286	French	Bulgarian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fra-cat	fr-ca	0.645	43.4	0.982	5214	French	Catalan
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	fra-ces	fr-cs	0.672	46.7	0.993	2625	French	Czech
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	fra-dan	fr-da	0.766	63.7	0.997	11361	French	Danish
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	fra-deu	fr-de	0.678	49.5	0.997	80271	French	German
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fra-epo	fr-eo	0.509	29.2	0.976	78053	French	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-12-10.zip	fra-heb	fr-he	0.598	39.2	1.000	20655	French	Hebrew
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	fra-ina	fr-ia	0.132	0.5	1.000	9325	French	Interlingua (International Auxiliary Language Association)
@@ -590,6 +626,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	hin-eng	hi-en	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	hin-urd	hi-ur	0.174	1.7	1.000	1618	Hindi	Urdu
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	hin-zho	hi-zh	0.043	2.8	0.802	3258	Hindi	Chinese
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	hsb-deu	hsb-de	0.126	0.2	0.789	4478	Upper Sorbian	German
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	hun-ces	hu-cs	0.665	48.4	0.981	10641	Hungarian	Czech
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	hun-epo	hu-eo	0.378	17.9	0.934	76005	Hungarian	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	hun-lat	hu-la	0.063	0.1	1.000	3185	Hungarian	Latin
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	hun-ukr	hu-uk	0.611	41.2	0.966	2568	Hungarian	Ukrainian
@@ -640,6 +677,8 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	ita-ara	it-ar	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ita-bel	it-be	0.086	0.6	0.786	1513	Italian	Belarusian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	ita-bul	it-bg	0.664	47.9	0.961	16512	Italian	Bulgarian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ita-cat	it-ca	0.706	52.5	0.993	2074	Italian	Catalan
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	ita-ces	it-cs	0.619	41.2	0.991	6973	Italian	Czech
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	ita-dan	it-da	0.704	54.2	0.998	2199	Italian	Danish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ita-epo	it-eo	0.296	11.8	0.905	67846	Italian	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-12-10.zip	ita-heb	it-he	0.593	38.5	0.985	9796	Italian	Hebrew
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ita-isl	it-is	0.524	28.6	0.972	1459	Italian	Icelandic
@@ -758,6 +797,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus2m-2020-08-01.zip	nic-eng	nic-
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus2m-2020-08-12.zip	nic-eng	nic-en	0.377	21.3	1.000	15228	Niger-Kordofanian languages	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	nld-bel	nl-be	0.075	1.1	0.598	4036	Dutch	Belarusian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	nld-cat	nl-ca	0.624	42.1	0.988	3942	Dutch	Catalan
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	nld-dan	nl-da	0.784	66.1	0.997	10380	Dutch	Danish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	nld-epo	nl-eo	0.355	16.1	0.936	72293	Dutch	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	nld-fry	nl-fy	0.114	0.4	0.504	1679	Dutch	Western Frisian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	nld-lat	nl-la	0.060	0.1	1.000	1836	Dutch	Latin
@@ -789,12 +829,14 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-26.zip	phi-phi	phi-ph
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-10-04.zip	phi-phi	phi-phi	0.465	21.7	1.000	42472	Philippine languages	Philippine languages
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	pol-ara	pl-ar	0.491	20.4	0.959	1028	Polish	Arabic
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	pol-bel	pl-be	0.089	1.4	0.707	1730	Polish	Belarusian
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	pol-ces	pl-cs	0.659	47.5	0.995	3349	Polish	Czech
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	pol-epo	pl-eo	0.451	24.8	0.967	17191	Polish	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	pol-lat	pl-la	0.057	0.1	0.731	4731	Polish	Latin
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	pol-lit	pl-lt	0.688	43.7	0.981	10084	Polish	Lithuanian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	pol-nor	pl-no	0.668	50.1	0.954	2045	Polish	Norwegian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	pol-ukr	pl-uk	0.665	47.1	0.992	13434	Polish	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	por-cat	pt-ca	0.633	41.5	0.975	5878	Portuguese	Catalan
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	por-dan	pt-da	0.775	63.3	1.000	5250	Portuguese	Danish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	por-epo	pt-eo	0.392	18.1	0.930	87408	Portuguese	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	por-glg	pt-gl	0.740	56.2	0.990	2989	Portuguese	Galician
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	por-nds	pt-nds	0.215	4.3	0.935	1284	Portuguese	Low German
@@ -810,6 +852,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-20.zip	roa-eng	roa-en
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-27.zip	roa-eng	roa-en	0.694	54.5	0.984	74762	Romance languages	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus2m-2020-08-01.zip	roa-eng	roa-en	0.697	54.9	0.979	74762	Romance languages	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus4m-2020-08-12.zip	roa-eng	roa-en	0.699	55.1	0.980	74762	Romance languages	English
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	roa-zho	roa-zh	0.248	29.8	0.939	101202	Romance languages	Chinese
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	rom-eng	rom-en	0.125	0.9	1.000	4457	Romany	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	ron-epo	ro-eo	0.310	12.3	0.945	25751	Romanian	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	run-deu	rn-de	0.344	17.1	0.961	10562	Rundi	German
@@ -821,6 +864,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	rus-afr	ru-af	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	rus-ara	ru-ar	0.486	16.6	0.969	18878	Russian	Arabic
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	rus-bel	ru-be	0.137	2.5	1.000	18895	Russian	Belarusian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	rus-bul	ru-bg	0.704	52.3	0.919	8272	Russian	Bulgarian
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	rus-ces	ru-cs	0.683	51.8	0.987	14266	Russian	Czech
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	rus-chv	ru-cv	0.129	0.3	1.000	1982	Russian	Chuvash
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	rus-dan	ru-da	0.714	56.6	0.977	11746	Russian	Danish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	rus-epo	ru-eo	0.436	24.2	0.925	77197	Russian	Esperanto
@@ -874,6 +918,8 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	spa-ara	es-ar	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-bel	es-be	0.265	9.0	0.943	1259	Spanish	Belarusian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	spa-bul	es-bg	0.674	50.9	0.955	1707	Spanish	Bulgarian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-cat	es-ca	0.832	68.9	1.000	12343	Spanish	Catalan
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	spa-ces	es-cs	0.649	45.0	1.000	11295	Spanish	Czech
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	spa-dan	es-da	0.718	56.5	0.985	35937	Spanish	Danish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-08-18.zip	spa-eng	es-en	0.739	59.6	0.974	79376	Spanish	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-eng	es-en	0.739	59.6	0.974	79376	Spanish	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-epo	es-eo	0.560	33.2	0.968	77048	Spanish	Esperanto
@@ -895,10 +941,12 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-tgl	es-tl	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-11-09.zip	spa-tur	es-tr	0.712	45.1	0.937	52245	Spanish	Turkish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-ukr	es-uk	0.614	41.3	0.983	53833	Spanish	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	spa-vie	es-vi	0.508	33.1	0.980	4654	Spanish	Vietnamese
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-04.zip	spa-zho	es-zh	0.324	38.8	0.878	22762	Spanish	Chinese
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	sqi-eng	sq-en	0.722	56.8	0.947	7762	Albanian	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	swa-eng	sw-en	0.580	43.5	0.956	4998	Swahili (macrolanguage)	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-26.zip	swa-swa	sw-sw	0.571	35.9	1.000	8760	Swahili (macrolanguage)	Swahili (macrolanguage)
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-10-04.zip	swa-swa	sw-sw	0.571	35.9	1.000	8760	Swahili (macrolanguage)	Swahili (macrolanguage)
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	swe-dan	sv-da	0.825	71.2	0.995	10261	Swedish	Danish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	swe-epo	sv-eo	0.498	29.7	0.958	10987	Swedish	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	swe-nor	sv-no	0.843	73.6	0.994	3682	Swedish	Norwegian
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	swe-rus	sv-ru	0.655	45.9	0.988	7659	Swedish	Russian
@@ -927,6 +975,7 @@ https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	tuk-eng	tk-en	
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-07-03.zip	tur-ara	tr-ar	0.455	14.9	0.988	6944	Turkish	Arabic
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	tur-chv	tr-cv	0.119	0.2	1.000	2581	Turkish	Chuvash
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	tur-crh	tr-crh	0.137	0.4	0.940	2104	Turkish	Crimean Tatar
+https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2021-01-03.zip	tur-dan	tr-da	0.682	53.8	1.000	4261	Turkish	Danish
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-11-09.zip	tur-eng	tr-en	0.725	58.4	0.966	77701	Turkish	English
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	tur-epo	tr-eo	0.373	17.0	0.881	33762	Turkish	Esperanto
 https://object.pouta.csc.fi/Tatoeba-Challenge/opus-2020-09-10.zip	tur-lit	tr-lt	0.631	35.6	0.949	8285	Turkish	Lithuanian
