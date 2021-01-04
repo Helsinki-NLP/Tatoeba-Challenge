@@ -26,7 +26,7 @@ OPUSMT_HOMEDIR = ../Opus-MT-train
 ## TATOEBA_VERSION: latest Tatoeba release in OPUS
 
 VERSION         = v$(shell date +%F)
-TATOEBA_VERSION = ${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest}}
+TATOEBA_VERSION = ${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest 2>/dev/null}}
 
 
 
@@ -848,7 +848,7 @@ ifdef EMAIL
 	echo '#SBATCH --mail-type=END' >> $@
 	echo '#SBATCH --mail-user=${EMAIL}' >> $@
 endif
-ifeq (${shell hostname --domain},bullx)
+ifeq (${shell hostname --domain 2>/dev/null},bullx)
 	echo '#SBATCH --account=${CSCPROJECT}' >> $@
 	echo '#SBATCH --gres=nvme:${HPC_DISK}' >> $@
 endif
@@ -916,3 +916,67 @@ copy-old-testsets:
 	  fi; \
 	done
 
+
+
+
+
+############# huggingface integration #######################
+
+MODELS ?= heb-ita ita-heb fra-heb heb-fra
+MODEL  ?= ${firstword ${MODELS}}
+
+CONVERTED_MODELS ?= ${notdir ${wildcard transformers/converted/*}}
+CONVERTED_MODEL  ?= ${firstword ${CONVERTED_MODELS}}
+RENAMED_MODEL     = ${patsubst opus-mt-%,opus-tatoeba-%,${CONVERTED_MODEL}}
+
+huggingface-convert: transformers/${MODEL}.converted
+huggingface-commit: transformers/${CONVERTED_MODEL}.committed
+
+huggingface-convert-all:
+	for m in ${MODELS}; do \
+	  ${MAKE} MODEL=$$m huggingface-convert; \
+	done
+
+huggingface-commit-all:
+	for m in ${CONVERTED_MODELS}; do \
+	  ${MAKE} CONVERTED_MODEL=$$m huggingface-commit; \
+	done
+
+
+transformers:
+	git clone git@github.com:huggingface/transformers.git
+	cd transformers
+	pip install -e --user .
+	pip install --user pandas
+	pip install --user -r examples/requirements.txt
+	curl https://cdn-datasets.huggingface.co/language_codes/language-codes-3b2.csv  > language-codes-3b2.csv
+	curl https://cdn-datasets.huggingface.co/language_codes/iso-639-3.csv > iso-639-3.csv
+	-apt-get install git-lfs
+
+
+transformers/Tatoeba-Challenge: transformers
+	ln -s `pwd` $@
+
+${HOME}/.huggingface/token: # transformers
+	transformers-cli login
+
+transformers/${MODEL}.converted: transformers
+	cd transformers && \
+	python src/transformers/models/marian/convert_marian_tatoeba_to_pytorch.py --models ${MODEL} --save_dir converted
+	touch $@
+
+ifneq (${CONVERTED_MODEL},)
+transformers/${CONVERTED_MODEL}.committed: transformers/converted/${CONVERTED_MODEL} ${HOME}/.huggingface/token
+	-transformers-cli repo create ${RENAMED_MODEL} \
+		--organization Helsinki-NLP
+	-git clone https://tiedeman:`cat ${HOME}/.huggingface/token`@huggingface.co/Helsinki-NLP/${RENAMED_MODEL}
+	cd ${RENAMED_MODEL} && git lfs install
+	cd ${RENAMED_MODEL} && git config --global user.email "jorg.tiedemann@helsinki.fi"
+	cd ${RENAMED_MODEL} && git config --global user.name "Joerg Tiedemann"
+	mv  $</* ${RENAMED_MODEL}/
+	cd ${RENAMED_MODEL} && git add .
+	cd ${RENAMED_MODEL} && git commit -m "Initial commit"
+	cd ${RENAMED_MODEL} && git push
+	rm -fr $<
+	touch $@
+endif
