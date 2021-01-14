@@ -141,7 +141,8 @@ UPDATED_TEST_DATA = ${patsubst %,${DEVTESTDIR}/%/test-${TATOEBA_VERSION}.txt,${T
 STATISTICS  = Data-${VERSION}.md
 
 
-DOWNLOADURL         = https://object.pouta.csc.fi
+DOWNLOADURL        := https://object.pouta.csc.fi
+TATOEBA_DATAURL    := https://object.pouta.csc.fi/Tatoeba-Challenge
 TATOEBA_CONTAINER   = Tatoeba-Challenge
 RELEASE_CONTAINER   = Tatoeba-Challenge-${VERSION}
 WIKIDOC_CONTAINER   = Tatoeba-Challenge-WikiDoc-${VERSION}
@@ -186,6 +187,7 @@ NEW_TRAIN_IDS = ${patsubst ${RELEASEDIR}/%.ids.gz,${RELEASEDIR}/%.id.gz,${wildca
 .PHONY: upload upload-test upload-devtest upload-train upload-mono
 .PHONY: extra-traindata extra-statistics extra-upload
 .PHONY: update update-testdata
+.PHONY: released-model-list
 
 all: opus-langs.txt
 	${MAKE} update
@@ -221,6 +223,7 @@ upload-mono: ${patsubst %,${RELEASEDIR}/%.done,${WIKI_LANGS3}}
 upload-wikishuffled: ${patsubst wiki-shuffled/%,${RELEASEDIR}/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
 upload-wikidoc: ${patsubst wiki-doc/%,${RELEASEDIR}/wiki-doc-%.done,${wildcard wiki-doc/???}}
 
+released-model-list: models/released-models.txt models-tatoeba/released-model-results.txt
 
 
 ## extra training data where we don't have any 
@@ -727,6 +730,43 @@ subsets/${VERSION}/%.md: ${STATISTICS}
 	${SCRIPTDIR}/divide-data-sets.pl < $< |\
 	grep '${patsubst %.md,%,${notdir $@}}' |\
 	sed 's/|[^|]*$$/|/' >> $@
+
+
+TATOEBA_READMES = $(wildcard models/*/README.md)
+
+models/released-models.txt: ${TATOEBA_READMES}
+	-cat $@ > $@.old
+	find models/ -name '*.eval.txt' | sort | xargs grep chrF2 > $@.1
+	find models/ -name '*.eval.txt' | sort | xargs grep BLEU > $@.2
+	cut -f3 -d '/' $@.1 | sed 's/\.eval.txt.*$$/.zip/' > $@.zip
+	cut -f2 -d '/' $@.1 > $@.iso639-3
+	paste -d '/' $@.iso639-3 $@.zip | sed 's#^#${TATOEBA_DATAURL}/#' > $@.url
+	cut -f2 -d '/' $@.1 | xargs iso639 -2 -k -p | tr ' ' "\n" > $@.iso639-1
+	cut -f2 -d '=' $@.1 | cut -f2 -d ' ' > $@.chrF2
+	cut -f2 -d '=' $@.2 | cut -f2 -d ' ' > $@.bleu
+	cut -f3 -d '=' $@.2 | cut -f2 -d ' ' > $@.bp
+	cut -f6 -d '=' $@.2 | cut -f2 -d ' ' | cut -f1 -d')' > $@.reflen
+	cut -f2 -d '/' $@.1 | sed 's/^\([^ \-]*\)$$/\1-\1/g' | tr '-' ' ' | \
+	xargs iso639 -k | sed 's/$$/ /' |\
+	sed -e 's/\" \"\([^\"]*\)\" /\t\1\n/g' | sed 's/^\"//g' > $@.langs
+	paste $@.url $@.iso639-3 $@.iso639-1 $@.chrF2 $@.bleu $@.bp $@.reflen $@.langs > $@
+	rm -f $@.url $@.iso639-3 $@.iso639-1 $@.chrF2 $@.bleu $@.bp $@.reflen $@.1 $@.2 $@.langs $@.zip
+	cat $@.old $@.new | sort | uniq > $@
+	rm -f $@.old $@.new
+
+models-tatoeba/released-model-results.txt: ${TATOEBA_READMES}
+	-cat $@ > $@.old
+	find models-tatoeba/ -name 'README.md' | sort | \
+	xargs egrep -h '^(# |\| Tatoeba-test|\* download:)' |\
+	tr "\t" " " | tr "\n" "\t" | sed "s/# /\n# /g" |\
+	perl -e 'while (<>){s/^.*\((.*)\)/\1/;@_=split(/\t/);$$m=shift(@_);for (@_){print "$$_\t$$m\n";}}' |\
+	grep -v '.multi.' |\
+	sed -e 's/Tatoeba-test.\S*\(...\....\) /\1/' |\
+	grep '^|' |\
+	sed -e 's/ *| */\t/g' | cut -f2,3,4,6 > $@.new
+	cat $@.old $@.new | sort -k1,1 -k3,3nr -k2,2nr -k4,4 | uniq > $@
+	rm -f $@.old $@.new
+
 
 
 ## upload data to ObjectStorage on allas
