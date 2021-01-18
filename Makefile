@@ -223,7 +223,18 @@ upload-mono: ${patsubst %,${RELEASEDIR}/%.done,${WIKI_LANGS3}}
 upload-wikishuffled: ${patsubst wiki-shuffled/%,${RELEASEDIR}/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
 upload-wikidoc: ${patsubst wiki-doc/%,${RELEASEDIR}/wiki-doc-%.done,${wildcard wiki-doc/???}}
 
-released-model-list: models/released-models.txt models-tatoeba/released-model-results.txt
+released-model-list: models/released-models.txt models/released-model-results.txt
+
+RESULT_FILES = results/tatoeba-results-all.md \
+	results/tatoeba-results-all-subset-zero.md \
+	results/tatoeba-results-all-subset-lowest.md \
+	results/tatoeba-results-all-subset-lower.md \
+	results/tatoeba-results-all-subset-medium.md \
+	results/tatoeba-results-all-subset-higher.md \
+	results/tatoeba-results-all-subset-highest.md
+
+results: ${RESULT_FILES}
+
 
 
 ## extra training data where we don't have any 
@@ -754,9 +765,9 @@ models/released-models.txt: ${TATOEBA_READMES}
 	cat $@.old $@.new | sort | uniq > $@
 	rm -f $@.old $@.new
 
-models-tatoeba/released-model-results.txt: ${TATOEBA_READMES}
+models/released-model-results.txt: ${TATOEBA_READMES}
 	-cat $@ > $@.old
-	find models-tatoeba/ -name 'README.md' | sort | \
+	find models/ -name 'README.md' | sort | \
 	xargs egrep -h '^(# |\| Tatoeba-test|\* download:)' |\
 	tr "\t" " " | tr "\n" "\t" | sed "s/# /\n# /g" |\
 	perl -e 'while (<>){s/^.*\((.*)\)/\1/;@_=split(/\t/);$$m=shift(@_);for (@_){print "$$_\t$$m\n";}}' |\
@@ -766,6 +777,69 @@ models-tatoeba/released-model-results.txt: ${TATOEBA_READMES}
 	sed -e 's/ *| */\t/g' | cut -f2,3,4,6 > $@.new
 	cat $@.old $@.new | sort -k1,1 -k3,3nr -k2,2nr -k4,4 | uniq > $@
 	rm -f $@.old $@.new
+
+
+
+RESULT_TABLE_HEADER=model\tlanguage-pair\ttestset\tchrF2\tBLEU\tBP\treference-length\n--------------------------------------------------------------------------\n
+
+${RESULT_FILES}: results/%.md: %
+	mkdir -p ${dir $@}
+	echo "# Tatoeba translation results" >$@
+	echo "" >>$@
+	echo "Note that some links to the actual models below are broken"                  >> $@
+	echo "because the models are not yet released or their performance is too poor"    >> $@
+	echo "to be useful for anything."                                                  >> $@
+	echo ""                                                                            >> $@
+	echo '| Model | Test Set | chrF2 | BLEU | BP | Reference Length |' >> $@
+	echo '|:--|---|--:|--:|--:|--:|'                                                   >> $@
+	grep -v '^model' $< | grep -v -- '----' | grep . | \
+		sort -k2,2 -k3,3 -k4,4nr | sort -k2,2 -k3,3 -k 1,1 -u | sort -k2,2 -k3,3 -k4,4nr |\
+	perl -pe '@a=split;print "| lang = $$a[1] | | | |\n" if ($$b ne $$a[1]);$$b=$$a[1];' |\
+	cut -f1,3- |\
+	perl -pe '/^(\S*)\/(\S*)\t/;if (-d "models/$$1"){s/^(\S*)\/(\S*)\t/[$$1\/$$2](..\/models\/$$1)\t/;}' |\
+	sed 's/	/ | /g;s/^/| /;s/$$/ |/;s/Tatoeba-test/tatoeba/' |\
+	sed 's/\(news[^ ]*\)-...... /\1 /;s/\(news[^ ]*\)-.... /\1 /;'                     >> $@
+
+## new: also consider the opposite translation direction!
+tatoeba-results-all-subset-%: tatoeba-results-all-sorted-langpair
+	${MAKE} ${patsubst tatoeba-results-all-subset-%,subsets/%.md,$@}
+	( l="${shell grep '\[' ${patsubst tatoeba-results-all-subset-%,subsets/%.md,$@} | \
+		cut -f2 -d '[' | cut -f1 -d ']' | \
+		sort -u  | tr "\n" '|' | sed 's/|$$//;s/\-/\\\-/g'}"; \
+	  r="${shell grep '\[' ${patsubst tatoeba-results-all-subset-%,subsets/%.md,$@} | \
+		cut -f2 -d '[' | cut -f1 -d ']' | \
+		sort -u  | sed 's/\(...\)-\(...\)/\2-\1/' | tr "\n" '|' | sed 's/|$$//;s/\-/\\\-/g'}"; \
+	  grep -P "$$l|$$r" $< |\
+	  perl -pe '@a=split;print "\n${RESULT_TABLE_HEADER}" if ($$b ne $$a[1]);$$b=$$a[1];' > $@ )
+
+
+
+## get the latest results from OPUS-MT
+
+OPUS_MT_RAW = https://raw.githubusercontent.com/Helsinki-NLP/OPUS-MT-train/master/
+
+tatoeba-results-all:  models/released-model-results.txt
+	wget -O $@-work ${OPUS_MT_RAW}/work-tatoeba/$@
+	cut -f4 $< | cut -f5,6 -d'/' | sed 's/-....-..-..\.zip$$//' > $@.1
+	cut -f1 $< | tr '.' '-' > $@.2
+	cut -f4 $< | cut -f4 -d'/' > $@.3
+	cut -f3 $< > $@.4
+	cut -f2 $< > $@.5
+	paste $@.1 $@.2 $@.3 $@.4 $@.5 | sed 's/Tatoeba-MT-models/Tatoeba-test/' >> $@-work
+	sort -r $@-work | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
+	rm -f $@.1 $@.2 $@.3 $@.4 $@.5 $@-work
+
+tatoeba-results-all-sorted-langpair: tatoeba-results-all
+	sort -k2,2 -k3,3 -k4,4nr < $< |\
+	perl -pe '@a=split;print "\n${RESULT_TABLE_HEADER}" if ($$b ne $$a[1]);$$b=$$a[1];' \
+	> $@
+
+tatoeba-results-all-sorted-chrf2: tatoeba-results-all
+	sort -k3,3 -k4,4nr < $< > $@
+
+tatoeba-results-all-sorted-bleu: tatoeba-results-all
+	sort -k3,3 -k5,5nr < $< > $@
+
 
 
 
