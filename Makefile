@@ -154,7 +154,7 @@ PIVOT_LANG ?= eng
 EXTRA_OPUS_LANGS3 = ${filter-out ${TATOEBA_LANGS3},${OPUS_LANGS3}}
 EXTRA_OPUS_PAIRS3 = ${filter-out ${TATOEBA_PAIRS3},\
 		     ${shell cat opus-langpairs3.txt | tr ' ' "\n" |\
-			     grep '${PIVOT_LANG}' | grep -v xxx}}
+			     grep '${PIVOT_LANG}' | grep -v xxx | grep '^...-...$$'}}
 
 EXTRA_TRAIN_DATA  = ${patsubst %,${RELEASEDIR}/%/train.id.gz,${EXTRA_OPUS_PAIRS3}}
 
@@ -234,6 +234,16 @@ RESULT_FILES = results/tatoeba-results-all.md \
 	results/tatoeba-results-all-subset-highest.md
 
 results: ${RESULT_FILES}
+
+
+print-extra-traindata:
+	for l in ${EXTRA_TRAIN_DATA}; do \
+	  if [ ! -e $$l ]; then \
+		echo $$l; \
+	  fi \
+	done
+
+#	@echo ${sort ${EXTRA_TRAIN_DATA}} | tr ' ' "\n"
 
 
 
