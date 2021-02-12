@@ -6,10 +6,6 @@ to be useful for anything.
 
 | Model | Test Set | chrF2 | BLEU | BP | Reference Length |
 |:--|---|--:|--:|--:|--:|
-| | lang = afr-nld | | | | |
-| [bul-rus/opus](../models/bul-rus) | tatoeba | 0.715 | 55.2 | 0.995 | 6710 |
-| | lang = ani-bul | | | | |
-| [zho-bul/opus](../models/zho-bul) | tatoeba | 0.497 | 29.6 |
 | | lang = ara-deu | | | | |
 | [ara-deu/opus](../models/ara-deu) | tatoeba | 0.630 | 44.5 | 0.982 | 8371 |
 | | lang = ara-ell | | | | |

@@ -103,7 +103,6 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.158 | 1.0 |
 | | lang = afr-nld | | | | |
 | [afr-nld/opus](../models/afr-nld) | tatoeba | 0.715 | 55.2 |
-| [bul-rus/opus](../models/bul-rus) | tatoeba | 0.715 | 55.2 | 0.995 | 6710 |
 | [gmw-gmw/opus](../models/gmw-gmw) | tatoeba | 0.715 | 55.4 |
 | [gem-gem/opus](../models/gem-gem) | tatoeba | 0.713 | 54.6 | 0.983 | 6710 |
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.682 | 50.9 |
