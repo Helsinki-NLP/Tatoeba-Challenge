@@ -25,7 +25,8 @@ OPUSMT_HOMEDIR = ../Opus-MT-train
 ## VERSION = date of today
 ## TATOEBA_VERSION: latest Tatoeba release in OPUS
 
-VERSION         = v$(shell date +%F)
+# VERSION         = v$(shell date +%F)
+VERSION         = v20190709
 TATOEBA_VERSION = ${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest 2>/dev/null}}
 
 

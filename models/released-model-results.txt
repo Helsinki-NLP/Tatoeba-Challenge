@@ -7819,6 +7819,7 @@ epo.dws	1.1	0.095	https://object.pouta.csc.fi/Tatoeba-MT-models/art-art/opus-202
 epo.dws	1.1	0.095	https://object.pouta.csc.fi/Tatoeba-MT-models/art-art/opus-2020-10-04.zip
 epo.ell	23.2	0.438	https://object.pouta.csc.fi/Tatoeba-MT-models/epo-ell/opus-2020-06-16.zip
 epo.ell	23.2	0.438	https://object.pouta.csc.fi/Tatoeba-MT-models/epo-ell/opus-2020-09-10.zip
+epo.ell	23.2	0.438	https://object.pouta.csc.fi/Tatoeba-MT-models/epo-ell/opus-2021-02-12.zip
 epo.eng	41.8	0.591	https://object.pouta.csc.fi/Tatoeba-MT-models/mul-eng/opus2m-2020-08-01.zip
 epo.eng	41.8	0.591	https://object.pouta.csc.fi/Tatoeba-MT-models/mul-eng/opus2m-2020-08-12.zip
 epo.eng	41.8	0.589	https://object.pouta.csc.fi/Tatoeba-MT-models/mul-eng/opus-2020-07-27.zip
