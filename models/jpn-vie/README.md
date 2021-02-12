@@ -34,3 +34,22 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.jpn.vie 	| 20.3 	| 0.380 |
 
+# opus-2021-02-10.zip
+
+* dataset: opus
+* model: transformer-align
+* source language(s): jpn
+* target language(s): vie
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus-2021-02-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-vie/opus-2021-02-10.zip)
+* test set translations: [opus-2021-02-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-vie/opus-2021-02-10.test.txt)
+* test set scores: [opus-2021-02-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-vie/opus-2021-02-10.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.jpn.vie 	| 20.3 	| 0.380 |
+| Tatoeba-test.jpn-vie.jpn.vie 	| 20.3 	| 0.380 |
+

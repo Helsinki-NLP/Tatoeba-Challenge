@@ -34,3 +34,22 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.zho.eng 	| 36.1 	| 0.548 |
 
+# opus-2021-02-11.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): zho
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus-2021-02-11.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2021-02-11.zip)
+* test set translations: [opus-2021-02-11.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2021-02-11.test.txt)
+* test set scores: [opus-2021-02-11.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2021-02-11.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.zho.eng 	| 36.0 	| 0.546 |
+| Tatoeba-test.zho-eng.zho.eng 	| 36.0 	| 0.547 |
+

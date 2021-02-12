@@ -34,3 +34,22 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.ukr.deu 	| 48.2 	| 0.661 |
 
+# opus-2021-02-11.zip
+
+* dataset: opus
+* model: transformer-align
+* source language(s): ukr
+* target language(s): deu
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus-2021-02-11.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opus-2021-02-11.zip)
+* test set translations: [opus-2021-02-11.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opus-2021-02-11.test.txt)
+* test set scores: [opus-2021-02-11.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opus-2021-02-11.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.ukr.deu 	| 48.2 	| 0.661 |
+| Tatoeba-test.ukr-deu.ukr.deu 	| 48.2 	| 0.661 |
+

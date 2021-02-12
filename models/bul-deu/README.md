@@ -34,3 +34,22 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.bul.deu 	| 49.3 	| 0.676 |
 
+# opus-2021-02-10.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): bul
+* target language(s): deu
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus-2021-02-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/bul-deu/opus-2021-02-10.zip)
+* test set translations: [opus-2021-02-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/bul-deu/opus-2021-02-10.test.txt)
+* test set scores: [opus-2021-02-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/bul-deu/opus-2021-02-10.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.bul.deu 	| 49.5 	| 0.677 |
+| Tatoeba-test.bul-deu.bul.deu 	| 49.5 	| 0.677 |
+

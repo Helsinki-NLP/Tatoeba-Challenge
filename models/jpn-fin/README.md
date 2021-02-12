@@ -16,3 +16,22 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.jpn.fin 	| 17.7 	| 0.408 |
 
+# opus-2021-02-11.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): jpn
+* target language(s): fin
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus-2021-02-11.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-fin/opus-2021-02-11.zip)
+* test set translations: [opus-2021-02-11.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-fin/opus-2021-02-11.test.txt)
+* test set scores: [opus-2021-02-11.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-fin/opus-2021-02-11.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.jpn.fin 	| 17.7 	| 0.405 |
+| Tatoeba-test.jpn-fin.jpn.fin 	| 17.7 	| 0.405 |
+
