@@ -1,0 +1,39 @@
+release: fin-eng/opus-2021-02-14.zip
+release-date: 2021-02-14
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - eng
+BLEU-scores:
+   - newsdev2015-enfi-fineng.fin.eng: 25.3
+   - newstest2015-enfi-fineng.fin.eng: 26.9
+   - newstest2016-enfi-fineng.fin.eng: 29.0
+   - newstest2017-enfi-fineng.fin.eng: 32.3
+   - newstest2018-enfi-fineng.fin.eng: 23.8
+   - newstest2019-fien-fineng.fin.eng: 29.0
+   - newstestB2016-enfi-fineng.fin.eng: 24.5
+   - newstestB2017-enfi-fineng.fin.eng: 27.4
+   - newstestB2017-fien-fineng.fin.eng: 27.4
+   - Tatoeba-test.fin.eng: 53.4
+   - Tatoeba-test.fin-eng.fin.eng: 53.4
+chr-F-scores:
+   - newsdev2015-enfi-fineng.fin.eng: 0.536
+   - newstest2015-enfi-fineng.fin.eng: 0.547
+   - newstest2016-enfi-fineng.fin.eng: 0.571
+   - newstest2017-enfi-fineng.fin.eng: 0.594
+   - newstest2018-enfi-fineng.fin.eng: 0.517
+   - newstest2019-fien-fineng.fin.eng: 0.565
+   - newstestB2016-enfi-fineng.fin.eng: 0.527
+   - newstestB2017-enfi-fineng.fin.eng: 0.557
+   - newstestB2017-fien-fineng.fin.eng: 0.557
+   - Tatoeba-test.fin.eng: 0.697
+   - Tatoeba-test.fin-eng.fin.eng: 0.697

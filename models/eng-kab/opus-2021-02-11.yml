@@ -1,0 +1,21 @@
+release: eng-kab/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - kab
+BLEU-scores:
+   - Tatoeba-test.eng.kab: 0.2
+   - Tatoeba-test.eng-kab.eng.kab: 0.2
+chr-F-scores:
+   - Tatoeba-test.eng.kab: 0.113
+   - Tatoeba-test.eng-kab.eng.kab: 0.113

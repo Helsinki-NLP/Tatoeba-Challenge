@@ -1,0 +1,21 @@
+release: vie-spa/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - vie
+target-languages:
+   - spa
+BLEU-scores:
+   - Tatoeba-test.vie.spa: 32.9
+   - Tatoeba-test.vie-spa.vie.spa: 32.9
+chr-F-scores:
+   - Tatoeba-test.vie.spa: 0.540
+   - Tatoeba-test.vie-spa.vie.spa: 0.540

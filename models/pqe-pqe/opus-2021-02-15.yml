@@ -1,0 +1,541 @@
+release: pqe-pqe/opus-2021-02-15.zip
+release-date: 2021-02-15
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+use-target-labels:
+   - >>aoz<<
+   - >>bhw<<
+   - >>chk<<
+   - >>dhv<<
+   - >>fij<<
+   - >>gil<<
+   - >>haw<<
+   - >>mah<<
+   - >>mgm<<
+   - >>mri<<
+   - >>mrq<<
+   - >>nau<<
+   - >>niu<<
+   - >>pon<<
+   - >>rap<<
+   - >>rar<<
+   - >>smo<<
+   - >>tah<<
+   - >>tdt<<
+   - >>tet<<
+   - >>tkl<<
+   - >>ton<<
+   - >>tvl<<
+   - >>wls<<
+   - >>yap<<
+   - aoz
+   - bhw
+   - chk
+   - dhv
+   - fij
+   - gil
+   - haw
+   - mah
+   - mgm
+   - mri
+   - mrq
+   - nau
+   - niu
+   - pon
+   - rap
+   - rar
+   - smo
+   - tah
+   - tdt
+   - tet
+   - tkl
+   - ton
+   - tvl
+   - wls
+   - yap
+target-languages:
+   - aoz
+   - bhw
+   - chk
+   - dhv
+   - fij
+   - gil
+   - haw
+   - mah
+   - mgm
+   - mri
+   - mrq
+   - nau
+   - niu
+   - pon
+   - rap
+   - rar
+   - smo
+   - tah
+   - tdt
+   - tet
+   - tkl
+   - ton
+   - tvl
+   - wls
+   - yap
+training-data:
+   - eng-eng: 
+   - eng-fij: Tatoeba-train (381656) 
+   - eng-gil: Tatoeba-train (208646) 
+   - eng-haw: 
+   - eng-lkt: 
+   - eng-mah: Tatoeba-train (158609) 
+   - eng-mri: Tatoeba-train (120668) 
+   - eng-nau: 
+   - eng-niu: Tatoeba-train (224855) 
+   - eng-rap: 
+   - eng-smo: Tatoeba-train (390149) 
+   - eng-tah: Tatoeba-train (578133) 
+   - eng-ton: Tatoeba-train (345565) 
+   - eng-tvl: Tatoeba-train (179991) 
+   - fij-eng: Tatoeba-train (381656) 
+   - fij-fij: 
+   - fij-gil: 
+   - fij-haw: 
+   - fij-lkt: 
+   - fij-mah: 
+   - fij-mri: 
+   - fij-nau: 
+   - fij-niu: 
+   - fij-rap: 
+   - fij-smo: 
+   - fij-tah: 
+   - fij-ton: 
+   - fij-tvl: 
+   - gil-eng: Tatoeba-train (208646) 
+   - gil-fij: 
+   - gil-gil: 
+   - gil-haw: 
+   - gil-lkt: 
+   - gil-mah: 
+   - gil-mri: 
+   - gil-nau: 
+   - gil-niu: 
+   - gil-rap: 
+   - gil-smo: 
+   - gil-tah: 
+   - gil-ton: 
+   - gil-tvl: 
+   - haw-eng: 
+   - haw-fij: 
+   - haw-gil: 
+   - haw-haw: 
+   - haw-lkt: 
+   - haw-mah: 
+   - haw-mri: 
+   - haw-nau: 
+   - haw-niu: 
+   - haw-rap: 
+   - haw-smo: 
+   - haw-tah: 
+   - haw-ton: 
+   - haw-tvl: 
+   - lkt-eng: 
+   - lkt-fij: 
+   - lkt-gil: 
+   - lkt-haw: 
+   - lkt-lkt: 
+   - lkt-mah: 
+   - lkt-mri: 
+   - lkt-nau: 
+   - lkt-niu: 
+   - lkt-rap: 
+   - lkt-smo: 
+   - lkt-tah: 
+   - lkt-ton: 
+   - lkt-tvl: 
+   - mah-eng: Tatoeba-train (158609) 
+   - mah-fij: 
+   - mah-gil: 
+   - mah-haw: 
+   - mah-lkt: 
+   - mah-mah: 
+   - mah-mri: 
+   - mah-nau: 
+   - mah-niu: 
+   - mah-rap: 
+   - mah-smo: 
+   - mah-tah: 
+   - mah-ton: 
+   - mah-tvl: 
+   - mri-eng: Tatoeba-train (120668) 
+   - mri-fij: 
+   - mri-gil: 
+   - mri-haw: 
+   - mri-lkt: 
+   - mri-mah: 
+   - mri-mri: 
+   - mri-nau: 
+   - mri-niu: 
+   - mri-rap: 
+   - mri-smo: 
+   - mri-tah: 
+   - mri-ton: 
+   - mri-tvl: 
+   - nau-eng: 
+   - nau-fij: 
+   - nau-gil: 
+   - nau-haw: 
+   - nau-lkt: 
+   - nau-mah: 
+   - nau-mri: 
+   - nau-nau: 
+   - nau-niu: 
+   - nau-rap: 
+   - nau-smo: 
+   - nau-tah: 
+   - nau-ton: 
+   - nau-tvl: 
+   - niu-eng: Tatoeba-train (224855) 
+   - niu-fij: 
+   - niu-gil: 
+   - niu-haw: 
+   - niu-lkt: 
+   - niu-mah: 
+   - niu-mri: 
+   - niu-nau: 
+   - niu-niu: 
+   - niu-rap: 
+   - niu-smo: 
+   - niu-tah: 
+   - niu-ton: 
+   - niu-tvl: 
+   - rap-eng: 
+   - rap-fij: 
+   - rap-gil: 
+   - rap-haw: 
+   - rap-lkt: 
+   - rap-mah: 
+   - rap-mri: 
+   - rap-nau: 
+   - rap-niu: 
+   - rap-rap: 
+   - rap-smo: 
+   - rap-tah: 
+   - rap-ton: 
+   - rap-tvl: 
+   - smo-eng: Tatoeba-train (390149) 
+   - smo-fij: 
+   - smo-gil: 
+   - smo-haw: 
+   - smo-lkt: 
+   - smo-mah: 
+   - smo-mri: 
+   - smo-nau: 
+   - smo-niu: 
+   - smo-rap: 
+   - smo-smo: 
+   - smo-tah: 
+   - smo-ton: 
+   - smo-tvl: 
+   - tah-eng: Tatoeba-train (578133) 
+   - tah-fij: 
+   - tah-gil: 
+   - tah-haw: 
+   - tah-lkt: 
+   - tah-mah: 
+   - tah-mri: 
+   - tah-nau: 
+   - tah-niu: 
+   - tah-rap: 
+   - tah-smo: 
+   - tah-tah: 
+   - tah-ton: 
+   - tah-tvl: 
+   - ton-eng: Tatoeba-train (345565) 
+   - ton-fij: 
+   - ton-gil: 
+   - ton-haw: 
+   - ton-lkt: 
+   - ton-mah: 
+   - ton-mri: 
+   - ton-nau: 
+   - ton-niu: 
+   - ton-rap: 
+   - ton-smo: 
+   - ton-tah: 
+   - ton-ton: 
+   - ton-tvl: 
+   - tvl-eng: Tatoeba-train (179991) 
+   - tvl-fij: 
+   - tvl-gil: 
+   - tvl-haw: 
+   - tvl-lkt: 
+   - tvl-mah: 
+   - tvl-mri: 
+   - tvl-nau: 
+   - tvl-niu: 
+   - tvl-rap: 
+   - tvl-smo: 
+   - tvl-tah: 
+   - tvl-ton: 
+   - tvl-tvl: 
+validation-data:
+   - eng-eng: Tatoeba-dev, 0
+   - eng-fij: Tatoeba-dev, 1000
+   - eng-gil: Tatoeba-dev, 1000
+   - eng-haw: Tatoeba-dev, 25
+   - eng-lkt: Tatoeba-dev, 2
+   - eng-mah: Tatoeba-dev, 1000
+   - eng-mri: Tatoeba-dev, 1000
+   - eng-nau: Tatoeba-dev, 4
+   - eng-niu: Tatoeba-dev, 1000
+   - eng-rap: Tatoeba-dev, 0
+   - eng-smo: Tatoeba-dev, 1000
+   - eng-tah: Tatoeba-dev, 1000
+   - eng-ton: Tatoeba-dev, 1000
+   - eng-tvl: Tatoeba-dev, 1000
+   - eng-fij: Tatoeba-dev, 1000
+   - fij-fij: Tatoeba-dev, 0
+   - fij-gil: Tatoeba-dev, 0
+   - fij-haw: Tatoeba-dev, 0
+   - fij-lkt: Tatoeba-dev, 0
+   - fij-mah: Tatoeba-dev, 0
+   - fij-mri: Tatoeba-dev, 0
+   - fij-nau: Tatoeba-dev, 0
+   - fij-niu: Tatoeba-dev, 0
+   - fij-rap: Tatoeba-dev, 0
+   - fij-smo: Tatoeba-dev, 0
+   - fij-tah: Tatoeba-dev, 0
+   - fij-ton: Tatoeba-dev, 0
+   - fij-tvl: Tatoeba-dev, 0
+   - eng-gil: Tatoeba-dev, 1000
+   - fij-gil: Tatoeba-dev, 0
+   - gil-gil: Tatoeba-dev, 0
+   - gil-haw: Tatoeba-dev, 0
+   - gil-lkt: Tatoeba-dev, 0
+   - gil-mah: Tatoeba-dev, 0
+   - gil-mri: Tatoeba-dev, 0
+   - gil-nau: Tatoeba-dev, 0
+   - gil-niu: Tatoeba-dev, 0
+   - gil-rap: Tatoeba-dev, 0
+   - gil-smo: Tatoeba-dev, 0
+   - gil-tah: Tatoeba-dev, 0
+   - gil-ton: Tatoeba-dev, 0
+   - gil-tvl: Tatoeba-dev, 0
+   - eng-haw: Tatoeba-dev, 25
+   - fij-haw: Tatoeba-dev, 0
+   - gil-haw: Tatoeba-dev, 0
+   - haw-haw: Tatoeba-dev, 0
+   - haw-lkt: Tatoeba-dev, 0
+   - haw-mah: Tatoeba-dev, 0
+   - haw-mri: Tatoeba-dev, 0
+   - haw-nau: Tatoeba-dev, 0
+   - haw-niu: Tatoeba-dev, 0
+   - haw-rap: Tatoeba-dev, 0
+   - haw-smo: Tatoeba-dev, 0
+   - haw-tah: Tatoeba-dev, 0
+   - haw-ton: Tatoeba-dev, 0
+   - haw-tvl: Tatoeba-dev, 0
+   - eng-lkt: Tatoeba-dev, 2
+   - fij-lkt: Tatoeba-dev, 0
+   - gil-lkt: Tatoeba-dev, 0
+   - haw-lkt: Tatoeba-dev, 0
+   - lkt-lkt: Tatoeba-dev, 0
+   - lkt-mah: Tatoeba-dev, 0
+   - lkt-mri: Tatoeba-dev, 0
+   - lkt-nau: Tatoeba-dev, 0
+   - lkt-niu: Tatoeba-dev, 0
+   - lkt-rap: Tatoeba-dev, 0
+   - lkt-smo: Tatoeba-dev, 0
+   - lkt-tah: Tatoeba-dev, 0
+   - lkt-ton: Tatoeba-dev, 0
+   - lkt-tvl: Tatoeba-dev, 0
+   - eng-mah: Tatoeba-dev, 1000
+   - fij-mah: Tatoeba-dev, 0
+   - gil-mah: Tatoeba-dev, 0
+   - haw-mah: Tatoeba-dev, 0
+   - lkt-mah: Tatoeba-dev, 0
+   - mah-mah: Tatoeba-dev, 0
+   - mah-mri: Tatoeba-dev, 0
+   - mah-nau: Tatoeba-dev, 0
+   - mah-niu: Tatoeba-dev, 0
+   - mah-rap: Tatoeba-dev, 0
+   - mah-smo: Tatoeba-dev, 0
+   - mah-tah: Tatoeba-dev, 0
+   - mah-ton: Tatoeba-dev, 0
+   - mah-tvl: Tatoeba-dev, 0
+   - eng-mri: Tatoeba-dev, 1000
+   - fij-mri: Tatoeba-dev, 0
+   - gil-mri: Tatoeba-dev, 0
+   - haw-mri: Tatoeba-dev, 0
+   - lkt-mri: Tatoeba-dev, 0
+   - mah-mri: Tatoeba-dev, 0
+   - mri-mri: Tatoeba-dev, 0
+   - mri-nau: Tatoeba-dev, 0
+   - mri-niu: Tatoeba-dev, 0
+   - mri-rap: Tatoeba-dev, 0
+   - mri-smo: Tatoeba-dev, 0
+   - mri-tah: Tatoeba-dev, 0
+   - mri-ton: Tatoeba-dev, 0
+   - mri-tvl: Tatoeba-dev, 0
+   - eng-nau: Tatoeba-dev, 4
+   - fij-nau: Tatoeba-dev, 0
+   - gil-nau: Tatoeba-dev, 0
+   - haw-nau: Tatoeba-dev, 0
+   - lkt-nau: Tatoeba-dev, 0
+   - mah-nau: Tatoeba-dev, 0
+   - mri-nau: Tatoeba-dev, 0
+   - nau-nau: Tatoeba-dev, 0
+   - nau-niu: Tatoeba-dev, 0
+   - nau-rap: Tatoeba-dev, 0
+   - nau-smo: Tatoeba-dev, 0
+   - nau-tah: Tatoeba-dev, 0
+   - nau-ton: Tatoeba-dev, 0
+   - nau-tvl: Tatoeba-dev, 0
+   - eng-niu: Tatoeba-dev, 1000
+   - fij-niu: Tatoeba-dev, 0
+   - gil-niu: Tatoeba-dev, 0
+   - haw-niu: Tatoeba-dev, 0
+   - lkt-niu: Tatoeba-dev, 0
+   - mah-niu: Tatoeba-dev, 0
+   - mri-niu: Tatoeba-dev, 0
+   - nau-niu: Tatoeba-dev, 0
+   - niu-niu: Tatoeba-dev, 0
+   - niu-rap: Tatoeba-dev, 0
+   - niu-smo: Tatoeba-dev, 0
+   - niu-tah: Tatoeba-dev, 0
+   - niu-ton: Tatoeba-dev, 0
+   - niu-tvl: Tatoeba-dev, 0
+   - eng-rap: Tatoeba-dev, 0
+   - fij-rap: Tatoeba-dev, 0
+   - gil-rap: Tatoeba-dev, 0
+   - haw-rap: Tatoeba-dev, 0
+   - lkt-rap: Tatoeba-dev, 0
+   - mah-rap: Tatoeba-dev, 0
+   - mri-rap: Tatoeba-dev, 0
+   - nau-rap: Tatoeba-dev, 0
+   - niu-rap: Tatoeba-dev, 0
+   - rap-rap: Tatoeba-dev, 0
+   - rap-smo: Tatoeba-dev, 0
+   - rap-tah: Tatoeba-dev, 0
+   - rap-ton: Tatoeba-dev, 0
+   - rap-tvl: Tatoeba-dev, 0
+   - eng-smo: Tatoeba-dev, 1000
+   - fij-smo: Tatoeba-dev, 0
+   - gil-smo: Tatoeba-dev, 0
+   - haw-smo: Tatoeba-dev, 0
+   - lkt-smo: Tatoeba-dev, 0
+   - mah-smo: Tatoeba-dev, 0
+   - mri-smo: Tatoeba-dev, 0
+   - nau-smo: Tatoeba-dev, 0
+   - niu-smo: Tatoeba-dev, 0
+   - rap-smo: Tatoeba-dev, 0
+   - smo-smo: Tatoeba-dev, 0
+   - smo-tah: Tatoeba-dev, 0
+   - smo-ton: Tatoeba-dev, 0
+   - smo-tvl: Tatoeba-dev, 0
+   - eng-tah: Tatoeba-dev, 1000
+   - fij-tah: Tatoeba-dev, 0
+   - gil-tah: Tatoeba-dev, 0
+   - haw-tah: Tatoeba-dev, 0
+   - lkt-tah: Tatoeba-dev, 0
+   - mah-tah: Tatoeba-dev, 0
+   - mri-tah: Tatoeba-dev, 0
+   - nau-tah: Tatoeba-dev, 0
+   - niu-tah: Tatoeba-dev, 0
+   - rap-tah: Tatoeba-dev, 0
+   - smo-tah: Tatoeba-dev, 0
+   - tah-tah: Tatoeba-dev, 0
+   - tah-ton: Tatoeba-dev, 0
+   - tah-tvl: Tatoeba-dev, 0
+   - eng-ton: Tatoeba-dev, 1000
+   - fij-ton: Tatoeba-dev, 0
+   - gil-ton: Tatoeba-dev, 0
+   - haw-ton: Tatoeba-dev, 0
+   - lkt-ton: Tatoeba-dev, 0
+   - mah-ton: Tatoeba-dev, 0
+   - mri-ton: Tatoeba-dev, 0
+   - nau-ton: Tatoeba-dev, 0
+   - niu-ton: Tatoeba-dev, 0
+   - rap-ton: Tatoeba-dev, 0
+   - smo-ton: Tatoeba-dev, 0
+   - tah-ton: Tatoeba-dev, 0
+   - ton-ton: Tatoeba-dev, 0
+   - ton-tvl: Tatoeba-dev, 0
+   - eng-tvl: Tatoeba-dev, 1000
+   - fij-tvl: Tatoeba-dev, 0
+   - gil-tvl: Tatoeba-dev, 0
+   - haw-tvl: Tatoeba-dev, 0
+   - lkt-tvl: Tatoeba-dev, 0
+   - mah-tvl: Tatoeba-dev, 0
+   - mri-tvl: Tatoeba-dev, 0
+   - nau-tvl: Tatoeba-dev, 0
+   - niu-tvl: Tatoeba-dev, 0
+   - rap-tvl: Tatoeba-dev, 0
+   - smo-tvl: Tatoeba-dev, 0
+   - tah-tvl: Tatoeba-dev, 0
+   - ton-tvl: Tatoeba-dev, 0
+   - tvl-tvl: Tatoeba-dev, 0
+   - total size of shuffled dev data: 17797
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+BLEU-scores:
+   - Tatoeba-test.eng-fij.eng.fij: 25.8
+   - Tatoeba-test.eng-gil.eng.gil: 31.2
+   - Tatoeba-test.eng-haw.eng.haw: 0.4
+   - Tatoeba-test.eng-lkt.eng.lkt: 0.6
+   - Tatoeba-test.eng-mah.eng.mah: 9.0
+   - Tatoeba-test.eng-mri.eng.mri: 6.9
+   - Tatoeba-test.eng-nau.eng.nau: 1.3
+   - Tatoeba-test.eng-niu.eng.niu: 39.3
+   - Tatoeba-test.eng-rap.eng.rap: 2.0
+   - Tatoeba-test.eng-smo.eng.smo: 25.2
+   - Tatoeba-test.eng-tah.eng.tah: 6.5
+   - Tatoeba-test.eng-ton.eng.ton: 25.8
+   - Tatoeba-test.eng-tvl.eng.tvl: 8.1
+   - Tatoeba-test.fij-eng.fij.eng: 25.0
+   - Tatoeba-test.gil-eng.gil.eng: 51.8
+   - Tatoeba-test.haw-eng.haw.eng: 4.7
+   - Tatoeba-test.lkt-eng.lkt.eng: 1.0
+   - Tatoeba-test.mah-eng.mah.eng: 13.7
+   - Tatoeba-test.mri-eng.mri.eng: 9.4
+   - Tatoeba-test.nau-eng.nau.eng: 4.3
+   - Tatoeba-test.niu-eng.niu.eng: 39.8
+   - Tatoeba-test.multi.multi: 12.2
+   - Tatoeba-test.rap-eng.rap.eng: 15.6
+   - Tatoeba-test.smo-eng.smo.eng: 35.4
+   - Tatoeba-test.tah-eng.tah.eng: 9.3
+   - Tatoeba-test.ton-eng.ton.eng: 46.3
+   - Tatoeba-test.tvl-eng.tvl.eng: 55.6
+chr-F-scores:
+   - Tatoeba-test.eng-fij.eng.fij: 0.428
+   - Tatoeba-test.eng-gil.eng.gil: 0.657
+   - Tatoeba-test.eng-haw.eng.haw: 0.091
+   - Tatoeba-test.eng-lkt.eng.lkt: 0.064
+   - Tatoeba-test.eng-mah.eng.mah: 0.360
+   - Tatoeba-test.eng-mri.eng.mri: 0.304
+   - Tatoeba-test.eng-nau.eng.nau: 0.145
+   - Tatoeba-test.eng-niu.eng.niu: 0.525
+   - Tatoeba-test.eng-rap.eng.rap: 0.077
+   - Tatoeba-test.eng-smo.eng.smo: 0.473
+   - Tatoeba-test.eng-tah.eng.tah: 0.291
+   - Tatoeba-test.eng-ton.eng.ton: 0.463
+   - Tatoeba-test.eng-tvl.eng.tvl: 0.390
+   - Tatoeba-test.fij-eng.fij.eng: 0.354
+   - Tatoeba-test.gil-eng.gil.eng: 0.627
+   - Tatoeba-test.haw-eng.haw.eng: 0.142
+   - Tatoeba-test.lkt-eng.lkt.eng: 0.105
+   - Tatoeba-test.mah-eng.mah.eng: 0.290
+   - Tatoeba-test.mri-eng.mri.eng: 0.273
+   - Tatoeba-test.nau-eng.nau.eng: 0.144
+   - Tatoeba-test.niu-eng.niu.eng: 0.491
+   - Tatoeba-test.multi.multi: 0.296
+   - Tatoeba-test.rap-eng.rap.eng: 0.264
+   - Tatoeba-test.smo-eng.smo.eng: 0.467
+   - Tatoeba-test.tah-eng.tah.eng: 0.244
+   - Tatoeba-test.ton-eng.ton.eng: 0.594
+   - Tatoeba-test.tvl-eng.tvl.eng: 0.598

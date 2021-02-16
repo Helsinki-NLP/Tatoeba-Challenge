@@ -1,0 +1,91 @@
+release: eng-pqw/opus2m-2020-08-01.zip
+release-date: 2020-08-01
+dataset-name: opus2m
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - akl_Latn
+   - ceb
+   - cha
+   - dtp
+   - hil
+   - iba
+   - ilo
+   - ind
+   - jav
+   - jav_Java
+   - mad
+   - max_Latn
+   - min
+   - mlg
+   - pag
+   - pau
+   - sun
+   - tmw_Latn
+   - war
+   - zlm_Latn
+   - zsm_Latn
+use-target-labels:
+   - >>akl_Latn<<
+   - >>ceb<<
+   - >>cha<<
+   - >>dtp<<
+   - >>hil<<
+   - >>iba<<
+   - >>ilo<<
+   - >>ind<<
+   - >>jav<<
+   - >>jav_Java<<
+   - >>mad<<
+   - >>max_Latn<<
+   - >>min<<
+   - >>mlg<<
+   - >>pag<<
+   - >>pau<<
+   - >>sun<<
+   - >>tmw_Latn<<
+   - >>war<<
+   - >>zlm_Latn<<
+   - >>zsm_Latn<<
+BLEU-scores:
+   - Tatoeba-test.eng-akl.eng.akl: 3.0
+   - Tatoeba-test.eng-ceb.eng.ceb: 11.4
+   - Tatoeba-test.eng-cha.eng.cha: 1.4
+   - Tatoeba-test.eng-dtp.eng.dtp: 0.6
+   - Tatoeba-test.eng-hil.eng.hil: 17.7
+   - Tatoeba-test.eng-iba.eng.iba: 14.6
+   - Tatoeba-test.eng-ilo.eng.ilo: 34.0
+   - Tatoeba-test.eng-jav.eng.jav: 6.2
+   - Tatoeba-test.eng-mad.eng.mad: 2.6
+   - Tatoeba-test.eng-mlg.eng.mlg: 34.3
+   - Tatoeba-test.eng-msa.eng.msa: 31.1
+   - Tatoeba-test.eng.multi: 17.5
+   - Tatoeba-test.eng-pag.eng.pag: 19.8
+   - Tatoeba-test.eng-pau.eng.pau: 1.2
+   - Tatoeba-test.eng-sun.eng.sun: 30.3
+   - Tatoeba-test.eng-war.eng.war: 12.6
+chr-F-scores:
+   - Tatoeba-test.eng-akl.eng.akl: 0.143
+   - Tatoeba-test.eng-ceb.eng.ceb: 0.432
+   - Tatoeba-test.eng-cha.eng.cha: 0.189
+   - Tatoeba-test.eng-dtp.eng.dtp: 0.139
+   - Tatoeba-test.eng-hil.eng.hil: 0.525
+   - Tatoeba-test.eng-iba.eng.iba: 0.365
+   - Tatoeba-test.eng-ilo.eng.ilo: 0.590
+   - Tatoeba-test.eng-jav.eng.jav: 0.299
+   - Tatoeba-test.eng-mad.eng.mad: 0.154
+   - Tatoeba-test.eng-mlg.eng.mlg: 0.518
+   - Tatoeba-test.eng-msa.eng.msa: 0.561
+   - Tatoeba-test.eng.multi: 0.422
+   - Tatoeba-test.eng-pag.eng.pag: 0.507
+   - Tatoeba-test.eng-pau.eng.pau: 0.129
+   - Tatoeba-test.eng-sun.eng.sun: 0.418
+   - Tatoeba-test.eng-war.eng.war: 0.439

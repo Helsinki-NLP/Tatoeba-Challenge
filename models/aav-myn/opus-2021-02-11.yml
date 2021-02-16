@@ -1,0 +1,52 @@
+release: aav-myn/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - cmo
+   - hoc
+   - kha
+   - khm
+   - mnw
+   - ngt
+   - sat
+   - vie
+target-languages:
+   - cac
+   - cak
+   - chf
+   - ctu
+   - hus
+   - kek
+   - mam
+   - quc
+   - toj
+   - tzh
+   - tzo
+   - usp
+   - yua
+use-target-labels:
+   - >>cac<<
+   - >>cak<<
+   - >>chf<<
+   - >>ctu<<
+   - >>hus<<
+   - >>kek<<
+   - >>mam<<
+   - >>quc<<
+   - >>toj<<
+   - >>tzh<<
+   - >>tzo<<
+   - >>usp<<
+   - >>yua<<
+BLEU-scores:
+   - Tatoeba-test.multi.multi: 26.8
+chr-F-scores:
+   - Tatoeba-test.multi.multi: 0.408

@@ -1,0 +1,21 @@
+release: fao-eng/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - fao
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.fao.eng: 0.1
+   - Tatoeba-test.fao-eng.fao.eng: 0.1
+chr-F-scores:
+   - Tatoeba-test.fao.eng: 0.115
+   - Tatoeba-test.fao-eng.fao.eng: 0.115

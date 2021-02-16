@@ -1,0 +1,63 @@
+release: eng-zlw/opus2m-2020-08-02.zip
+release-date: 2020-08-02
+dataset-name: opus2m
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - ces
+   - csb_Latn
+   - dsb
+   - hsb
+   - pol
+use-target-labels:
+   - >>ces<<
+   - >>csb_Latn<<
+   - >>dsb<<
+   - >>hsb<<
+   - >>pol<<
+BLEU-scores:
+   - newssyscomb2009-engces.eng.ces: 20.6
+   - news-test2008-engces.eng.ces: 18.3
+   - newstest2009-engces.eng.ces: 19.8
+   - newstest2010-engces.eng.ces: 19.8
+   - newstest2011-engces.eng.ces: 20.6
+   - newstest2012-engces.eng.ces: 18.6
+   - newstest2013-engces.eng.ces: 22.3
+   - newstest2015-encs-engces.eng.ces: 21.7
+   - newstest2016-encs-engces.eng.ces: 24.5
+   - newstest2017-encs-engces.eng.ces: 20.1
+   - newstest2018-encs-engces.eng.ces: 19.9
+   - newstest2019-encs-engces.eng.ces: 21.2
+   - Tatoeba-test.eng-ces.eng.ces: 43.7
+   - Tatoeba-test.eng-csb.eng.csb: 1.2
+   - Tatoeba-test.eng-dsb.eng.dsb: 1.5
+   - Tatoeba-test.eng-hsb.eng.hsb: 5.7
+   - Tatoeba-test.eng.multi: 42.8
+   - Tatoeba-test.eng-pol.eng.pol: 43.2
+chr-F-scores:
+   - newssyscomb2009-engces.eng.ces: 0.488
+   - news-test2008-engces.eng.ces: 0.466
+   - newstest2009-engces.eng.ces: 0.483
+   - newstest2010-engces.eng.ces: 0.486
+   - newstest2011-engces.eng.ces: 0.489
+   - newstest2012-engces.eng.ces: 0.464
+   - newstest2013-engces.eng.ces: 0.495
+   - newstest2015-encs-engces.eng.ces: 0.502
+   - newstest2016-encs-engces.eng.ces: 0.521
+   - newstest2017-encs-engces.eng.ces: 0.480
+   - newstest2018-encs-engces.eng.ces: 0.483
+   - newstest2019-encs-engces.eng.ces: 0.490
+   - Tatoeba-test.eng-ces.eng.ces: 0.632
+   - Tatoeba-test.eng-csb.eng.csb: 0.188
+   - Tatoeba-test.eng-dsb.eng.dsb: 0.167
+   - Tatoeba-test.eng-hsb.eng.hsb: 0.199
+   - Tatoeba-test.eng.multi: 0.632
+   - Tatoeba-test.eng-pol.eng.pol: 0.641

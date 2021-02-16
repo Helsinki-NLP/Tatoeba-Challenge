@@ -1,0 +1,82 @@
+release: inc-fiu/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - asm
+   - awa
+   - ben
+   - bho
+   - bpy
+   - div
+   - emx
+   - gbm
+   - guj
+   - hif
+   - hin
+   - hne
+   - kas
+   - kok
+   - lah
+   - mai
+   - mar
+   - nep
+   - ori
+   - pan
+   - pli
+   - rom
+   - san
+   - sin
+   - snd
+   - urd
+target-languages:
+   - chm
+   - est
+   - fin
+   - fkv
+   - hun
+   - izh
+   - kom
+   - krl
+   - liv
+   - mdf
+   - myv
+   - olo
+   - sma
+   - sme
+   - udm
+   - vep
+use-target-labels:
+   - >>chm<<
+   - >>est<<
+   - >>fin<<
+   - >>fkv<<
+   - >>hun<<
+   - >>izh<<
+   - >>kom<<
+   - >>krl<<
+   - >>liv<<
+   - >>mdf<<
+   - >>myv<<
+   - >>olo<<
+   - >>sma<<
+   - >>sme<<
+   - >>udm<<
+   - >>vep<<
+BLEU-scores:
+   - Tatoeba-test.asm-hun.asm.hun: 0.8
+   - Tatoeba-test.mar-hun.mar.hun: 2.3
+   - Tatoeba-test.multi.multi: 5.4
+   - Tatoeba-test.urd-hun.urd.hun: 15.6
+chr-F-scores:
+   - Tatoeba-test.asm-hun.asm.hun: 0.049
+   - Tatoeba-test.mar-hun.mar.hun: 0.123
+   - Tatoeba-test.multi.multi: 0.175
+   - Tatoeba-test.urd-hun.urd.hun: 0.186

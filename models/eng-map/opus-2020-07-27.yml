@@ -1,0 +1,147 @@
+release: eng-map/opus-2020-07-27.zip
+release-date: 2020-07-27
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - akl_Latn
+   - ceb
+   - cha
+   - dtp
+   - fij
+   - gil
+   - haw
+   - hil
+   - iba
+   - ilo
+   - ind
+   - jav
+   - jav_Java
+   - lkt
+   - mad
+   - mah
+   - max_Latn
+   - min
+   - mlg
+   - mri
+   - nau
+   - niu
+   - pag
+   - pau
+   - rap
+   - smo
+   - sun
+   - tah
+   - tet
+   - tmw_Latn
+   - ton
+   - tvl
+   - war
+   - zlm_Latn
+   - zsm_Latn
+use-target-labels:
+   - >>akl_Latn<<
+   - >>ceb<<
+   - >>cha<<
+   - >>dtp<<
+   - >>fij<<
+   - >>gil<<
+   - >>haw<<
+   - >>hil<<
+   - >>iba<<
+   - >>ilo<<
+   - >>ind<<
+   - >>jav<<
+   - >>jav_Java<<
+   - >>lkt<<
+   - >>mad<<
+   - >>mah<<
+   - >>max_Latn<<
+   - >>min<<
+   - >>mlg<<
+   - >>mri<<
+   - >>nau<<
+   - >>niu<<
+   - >>pag<<
+   - >>pau<<
+   - >>rap<<
+   - >>smo<<
+   - >>sun<<
+   - >>tah<<
+   - >>tet<<
+   - >>tmw_Latn<<
+   - >>ton<<
+   - >>tvl<<
+   - >>war<<
+   - >>zlm_Latn<<
+   - >>zsm_Latn<<
+BLEU-scores:
+   - Tatoeba-test.eng-akl.eng.akl: 2.2
+   - Tatoeba-test.eng-ceb.eng.ceb: 10.7
+   - Tatoeba-test.eng-cha.eng.cha: 3.2
+   - Tatoeba-test.eng-dtp.eng.dtp: 0.5
+   - Tatoeba-test.eng-fij.eng.fij: 26.8
+   - Tatoeba-test.eng-gil.eng.gil: 59.3
+   - Tatoeba-test.eng-haw.eng.haw: 1.0
+   - Tatoeba-test.eng-hil.eng.hil: 19.0
+   - Tatoeba-test.eng-iba.eng.iba: 15.5
+   - Tatoeba-test.eng-ilo.eng.ilo: 33.6
+   - Tatoeba-test.eng-jav.eng.jav: 7.8
+   - Tatoeba-test.eng-lkt.eng.lkt: 1.0
+   - Tatoeba-test.eng-mad.eng.mad: 1.1
+   - Tatoeba-test.eng-mah.eng.mah: 9.1
+   - Tatoeba-test.eng-mlg.eng.mlg: 35.4
+   - Tatoeba-test.eng-mri.eng.mri: 7.6
+   - Tatoeba-test.eng-msa.eng.msa: 31.1
+   - Tatoeba-test.eng.multi: 17.6
+   - Tatoeba-test.eng-nau.eng.nau: 1.4
+   - Tatoeba-test.eng-niu.eng.niu: 40.1
+   - Tatoeba-test.eng-pag.eng.pag: 16.8
+   - Tatoeba-test.eng-pau.eng.pau: 1.9
+   - Tatoeba-test.eng-rap.eng.rap: 2.7
+   - Tatoeba-test.eng-smo.eng.smo: 24.9
+   - Tatoeba-test.eng-sun.eng.sun: 33.2
+   - Tatoeba-test.eng-tah.eng.tah: 12.5
+   - Tatoeba-test.eng-tet.eng.tet: 1.6
+   - Tatoeba-test.eng-ton.eng.ton: 25.8
+   - Tatoeba-test.eng-tvl.eng.tvl: 31.1
+   - Tatoeba-test.eng-war.eng.war: 12.8
+chr-F-scores:
+   - Tatoeba-test.eng-akl.eng.akl: 0.103
+   - Tatoeba-test.eng-ceb.eng.ceb: 0.425
+   - Tatoeba-test.eng-cha.eng.cha: 0.201
+   - Tatoeba-test.eng-dtp.eng.dtp: 0.120
+   - Tatoeba-test.eng-fij.eng.fij: 0.453
+   - Tatoeba-test.eng-gil.eng.gil: 0.762
+   - Tatoeba-test.eng-haw.eng.haw: 0.116
+   - Tatoeba-test.eng-hil.eng.hil: 0.517
+   - Tatoeba-test.eng-iba.eng.iba: 0.400
+   - Tatoeba-test.eng-ilo.eng.ilo: 0.591
+   - Tatoeba-test.eng-jav.eng.jav: 0.301
+   - Tatoeba-test.eng-lkt.eng.lkt: 0.064
+   - Tatoeba-test.eng-mad.eng.mad: 0.142
+   - Tatoeba-test.eng-mah.eng.mah: 0.374
+   - Tatoeba-test.eng-mlg.eng.mlg: 0.526
+   - Tatoeba-test.eng-mri.eng.mri: 0.309
+   - Tatoeba-test.eng-msa.eng.msa: 0.565
+   - Tatoeba-test.eng.multi: 0.411
+   - Tatoeba-test.eng-nau.eng.nau: 0.098
+   - Tatoeba-test.eng-niu.eng.niu: 0.560
+   - Tatoeba-test.eng-pag.eng.pag: 0.526
+   - Tatoeba-test.eng-pau.eng.pau: 0.139
+   - Tatoeba-test.eng-rap.eng.rap: 0.090
+   - Tatoeba-test.eng-smo.eng.smo: 0.453
+   - Tatoeba-test.eng-sun.eng.sun: 0.439
+   - Tatoeba-test.eng-tah.eng.tah: 0.278
+   - Tatoeba-test.eng-tet.eng.tet: 0.140
+   - Tatoeba-test.eng-ton.eng.ton: 0.530
+   - Tatoeba-test.eng-tvl.eng.tvl: 0.523
+   - Tatoeba-test.eng-war.eng.war: 0.436

@@ -1,0 +1,27 @@
+release: jpn-fra/opus-2021-02-15.zip
+release-date: 2021-02-15
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - jpn
+target-languages:
+   - fra
+training-data:
+   - jpn-fra: Tatoeba-train (3762983) 
+validation-data:
+   - fra-jpn: Tatoeba-dev, 28518
+   - total size of shuffled dev data: 28518
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+BLEU-scores:
+   - Tatoeba-test.jpn-fra.jpn.fra: 28.6
+   - Tatoeba-test.jpn.fra: 28.7
+chr-F-scores:
+   - Tatoeba-test.jpn-fra.jpn.fra: 0.489
+   - Tatoeba-test.jpn.fra: 0.489

@@ -1,0 +1,27 @@
+release: hun-epo/opus-2021-02-16.zip
+release-date: 2021-02-16
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - hun
+target-languages:
+   - epo
+training-data:
+   - epo-hun: Tatoeba-train (137366) 
+validation-data:
+   - epo-hun: Tatoeba-dev, 28668
+   - total size of shuffled dev data: 28668
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+BLEU-scores:
+   - Tatoeba-test.hun-epo.hun.epo: 17.9
+   - Tatoeba-test.hun.epo: 17.9
+chr-F-scores:
+   - Tatoeba-test.hun-epo.hun.epo: 0.378
+   - Tatoeba-test.hun.epo: 0.378

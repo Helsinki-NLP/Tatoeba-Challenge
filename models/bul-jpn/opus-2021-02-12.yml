@@ -1,0 +1,21 @@
+release: bul-jpn/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bul
+target-languages:
+   - jpn
+BLEU-scores:
+   - Tatoeba-test.bul.jpn: 16.2
+   - Tatoeba-test.bul-jpn.bul.jpn: 16.1
+chr-F-scores:
+   - Tatoeba-test.bul.jpn: 0.241
+   - Tatoeba-test.bul-jpn.bul.jpn: 0.240

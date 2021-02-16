@@ -1,0 +1,21 @@
+release: ori-eng/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ori
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.ori.eng: 1.7
+   - Tatoeba-test.ori-eng.ori.eng: 1.7
+chr-F-scores:
+   - Tatoeba-test.ori.eng: 0.124
+   - Tatoeba-test.ori-eng.ori.eng: 0.124

@@ -1,0 +1,89 @@
+release: zle-gmw/opus-tuned4rus2eng-2021-01-17.zip
+release-date: 2021-01-17
+dataset-name: opus-tuned4rus2eng
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bel
+   - orv
+   - rue
+   - rus
+   - ukr
+target-languages:
+   - afr
+   - ang
+   - deu
+   - eng
+   - enm
+   - frr
+   - fry
+   - gos
+   - gsw
+   - ksh
+   - lim
+   - ltz
+   - nds
+   - nld
+   - ofs
+   - osx
+   - pdc
+   - pfl
+   - sco
+   - stq
+   - swg
+   - wae
+   - yid
+   - zea
+use-target-labels:
+   - >>afr<<
+   - >>ang<<
+   - >>deu<<
+   - >>eng<<
+   - >>enm<<
+   - >>frr<<
+   - >>fry<<
+   - >>gos<<
+   - >>gsw<<
+   - >>ksh<<
+   - >>lim<<
+   - >>ltz<<
+   - >>nds<<
+   - >>nld<<
+   - >>ofs<<
+   - >>osx<<
+   - >>pdc<<
+   - >>pfl<<
+   - >>sco<<
+   - >>stq<<
+   - >>swg<<
+   - >>wae<<
+   - >>yid<<
+   - >>zea<<
+BLEU-scores:
+   - newstest2012-ruseng.rus.eng: 34.2
+   - newstest2013-ruseng.rus.eng: 27.5
+   - newstest2014-ruen-ruseng.rus.eng: 30.9
+   - newstest2015-enru-ruseng.rus.eng: 29.7
+   - newstest2016-enru-ruseng.rus.eng: 29.2
+   - newstest2017-enru-ruseng.rus.eng: 32.8
+   - newstest2018-enru-ruseng.rus.eng: 28.6
+   - newstest2019-ruen-ruseng.rus.eng: 31.0
+   - Tatoeba-test.multi.multi: 46.2
+   - Tatoeba-test.rus-eng.rus.eng: 56.6
+chr-F-scores:
+   - newstest2012-ruseng.rus.eng: 0.601
+   - newstest2013-ruseng.rus.eng: 0.543
+   - newstest2014-ruen-ruseng.rus.eng: 0.588
+   - newstest2015-enru-ruseng.rus.eng: 0.564
+   - newstest2016-enru-ruseng.rus.eng: 0.562
+   - newstest2017-enru-ruseng.rus.eng: 0.588
+   - newstest2018-enru-ruseng.rus.eng: 0.561
+   - newstest2019-ruen-ruseng.rus.eng: 0.577
+   - Tatoeba-test.multi.multi: 0.627
+   - Tatoeba-test.rus-eng.rus.eng: 0.707

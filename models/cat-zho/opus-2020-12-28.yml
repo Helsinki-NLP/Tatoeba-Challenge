@@ -1,0 +1,31 @@
+release: cat-zho/opus-2020-12-28.zip
+release-date: 2020-12-28
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm4k,spm32k)
+subwords:
+   - source: spm4k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - cat
+target-languages:
+   - cmn
+   - cmn_Hans
+   - cmn_Hant
+   - nan
+   - yue_Hans
+   - yue_Hant
+use-target-labels:
+   - >>cmn<<
+   - >>cmn_Hans<<
+   - >>cmn_Hant<<
+   - >>nan<<
+   - >>yue_Hans<<
+   - >>yue_Hant<<
+BLEU-scores:
+   - Tatoeba-test.cat.zho: 6.4
+chr-F-scores:
+   - Tatoeba-test.cat.zho: 0.069

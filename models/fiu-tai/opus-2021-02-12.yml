@@ -1,0 +1,46 @@
+release: fiu-tai/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - chm
+   - est
+   - fin
+   - fkv
+   - hun
+   - izh
+   - kom
+   - krl
+   - liv
+   - mdf
+   - myv
+   - olo
+   - sma
+   - sme
+   - udm
+   - vep
+target-languages:
+   - lao
+   - shn
+   - tha
+   - tts
+   - zha
+use-target-labels:
+   - >>lao<<
+   - >>shn<<
+   - >>tha<<
+   - >>tts<<
+   - >>zha<<
+BLEU-scores:
+   - Tatoeba-test.fin-tha.fin.tha: 0.0
+   - Tatoeba-test.multi.multi: 0.0
+chr-F-scores:
+   - Tatoeba-test.fin-tha.fin.tha: 0.162
+   - Tatoeba-test.multi.multi: 0.289

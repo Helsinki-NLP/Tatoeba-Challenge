@@ -1,0 +1,27 @@
+release: eng-ron/opus-2020-08-27.zip
+release-date: 2020-08-27
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - mol
+   - ron
+use-target-labels:
+   - >>mol<<
+   - >>ron<<
+BLEU-scores:
+   - newsdev2016-enro-engron.eng.ron: 30.7
+   - newstest2016-enro-engron.eng.ron: 28.4
+   - Tatoeba-test.eng.ron: 45.0
+chr-F-scores:
+   - newsdev2016-enro-engron.eng.ron: 0.591
+   - newstest2016-enro-engron.eng.ron: 0.573
+   - Tatoeba-test.eng.ron: 0.665

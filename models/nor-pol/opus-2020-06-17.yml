@@ -1,0 +1,19 @@
+release: nor-pol/opus-2020-06-17.zip
+release-date: 2020-06-17
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - nob
+target-languages:
+   - pol
+BLEU-scores:
+   - Tatoeba-test.nor.pol: 20.9
+chr-F-scores:
+   - Tatoeba-test.nor.pol: 0.455

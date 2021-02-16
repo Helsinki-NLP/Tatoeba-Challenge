@@ -1,0 +1,27 @@
+release: ces-epo/opus-2021-02-15.zip
+release-date: 2021-02-15
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ces
+target-languages:
+   - epo
+training-data:
+   - ces-epo: Tatoeba-train (142272) 
+validation-data:
+   - ces-epo: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+BLEU-scores:
+   - Tatoeba-test.ces-epo.ces.epo: 26.0
+   - Tatoeba-test.ces.epo: 26.0
+chr-F-scores:
+   - Tatoeba-test.ces-epo.ces.epo: 0.459
+   - Tatoeba-test.ces.epo: 0.459

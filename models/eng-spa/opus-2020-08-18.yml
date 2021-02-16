@@ -1,0 +1,33 @@
+release: eng-spa/opus-2020-08-18.zip
+release-date: 2020-08-18
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - spa
+BLEU-scores:
+   - newssyscomb2009-engspa.eng.spa: 31.0
+   - news-test2008-engspa.eng.spa: 29.7
+   - newstest2009-engspa.eng.spa: 30.2
+   - newstest2010-engspa.eng.spa: 36.9
+   - newstest2011-engspa.eng.spa: 38.2
+   - newstest2012-engspa.eng.spa: 39.0
+   - newstest2013-engspa.eng.spa: 35.0
+   - Tatoeba-test.eng.spa: 54.9
+chr-F-scores:
+   - newssyscomb2009-engspa.eng.spa: 0.583
+   - news-test2008-engspa.eng.spa: 0.564
+   - newstest2009-engspa.eng.spa: 0.578
+   - newstest2010-engspa.eng.spa: 0.620
+   - newstest2011-engspa.eng.spa: 0.619
+   - newstest2012-engspa.eng.spa: 0.625
+   - newstest2013-engspa.eng.spa: 0.598
+   - Tatoeba-test.eng.spa: 0.721

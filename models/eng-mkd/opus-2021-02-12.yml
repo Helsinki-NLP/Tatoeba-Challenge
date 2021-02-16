@@ -1,0 +1,21 @@
+release: eng-mkd/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - mkd
+BLEU-scores:
+   - Tatoeba-test.eng.mkd: 45.1
+   - Tatoeba-test.eng-mkd.eng.mkd: 45.1
+chr-F-scores:
+   - Tatoeba-test.eng.mkd: 0.641
+   - Tatoeba-test.eng-mkd.eng.mkd: 0.641

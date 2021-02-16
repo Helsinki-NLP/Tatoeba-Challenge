@@ -1,0 +1,71 @@
+release: eng-afa/opus2m-2020-08-01.zip
+release-date: 2020-08-01
+dataset-name: opus2m
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - acm
+   - afb
+   - amh
+   - apc
+   - ara
+   - arq
+   - ary
+   - arz
+   - hau_Latn
+   - heb
+   - kab
+   - mlt
+   - rif_Latn
+   - shy_Latn
+   - som
+   - tir
+use-target-labels:
+   - >>acm<<
+   - >>afb<<
+   - >>amh<<
+   - >>apc<<
+   - >>ara<<
+   - >>arq<<
+   - >>ary<<
+   - >>arz<<
+   - >>hau_Latn<<
+   - >>heb<<
+   - >>kab<<
+   - >>mlt<<
+   - >>rif_Latn<<
+   - >>shy_Latn<<
+   - >>som<<
+   - >>tir<<
+BLEU-scores:
+   - Tatoeba-test.eng-amh.eng.amh: 11.6
+   - Tatoeba-test.eng-ara.eng.ara: 12.0
+   - Tatoeba-test.eng-hau.eng.hau: 10.2
+   - Tatoeba-test.eng-heb.eng.heb: 32.3
+   - Tatoeba-test.eng-kab.eng.kab: 1.6
+   - Tatoeba-test.eng-mlt.eng.mlt: 17.7
+   - Tatoeba-test.eng.multi: 14.4
+   - Tatoeba-test.eng-rif.eng.rif: 1.7
+   - Tatoeba-test.eng-shy.eng.shy: 0.8
+   - Tatoeba-test.eng-som.eng.som: 16.0
+   - Tatoeba-test.eng-tir.eng.tir: 2.7
+chr-F-scores:
+   - Tatoeba-test.eng-amh.eng.amh: 0.504
+   - Tatoeba-test.eng-ara.eng.ara: 0.404
+   - Tatoeba-test.eng-hau.eng.hau: 0.429
+   - Tatoeba-test.eng-heb.eng.heb: 0.551
+   - Tatoeba-test.eng-kab.eng.kab: 0.191
+   - Tatoeba-test.eng-mlt.eng.mlt: 0.551
+   - Tatoeba-test.eng.multi: 0.375
+   - Tatoeba-test.eng-rif.eng.rif: 0.103
+   - Tatoeba-test.eng-shy.eng.shy: 0.090
+   - Tatoeba-test.eng-som.eng.som: 0.429
+   - Tatoeba-test.eng-tir.eng.tir: 0.238

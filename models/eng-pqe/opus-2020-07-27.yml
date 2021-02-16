@@ -1,0 +1,71 @@
+release: eng-pqe/opus-2020-07-27.zip
+release-date: 2020-07-27
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - fij
+   - gil
+   - haw
+   - lkt
+   - mah
+   - mri
+   - nau
+   - niu
+   - rap
+   - smo
+   - tah
+   - ton
+   - tvl
+use-target-labels:
+   - >>fij<<
+   - >>gil<<
+   - >>haw<<
+   - >>lkt<<
+   - >>mah<<
+   - >>mri<<
+   - >>nau<<
+   - >>niu<<
+   - >>rap<<
+   - >>smo<<
+   - >>tah<<
+   - >>ton<<
+   - >>tvl<<
+BLEU-scores:
+   - Tatoeba-test.eng-fij.eng.fij: 20.5
+   - Tatoeba-test.eng-gil.eng.gil: 31.4
+   - Tatoeba-test.eng-haw.eng.haw: 0.5
+   - Tatoeba-test.eng-lkt.eng.lkt: 0.5
+   - Tatoeba-test.eng-mah.eng.mah: 8.4
+   - Tatoeba-test.eng-mri.eng.mri: 7.9
+   - Tatoeba-test.eng.multi: 10.3
+   - Tatoeba-test.eng-nau.eng.nau: 0.5
+   - Tatoeba-test.eng-niu.eng.niu: 34.6
+   - Tatoeba-test.eng-rap.eng.rap: 2.1
+   - Tatoeba-test.eng-smo.eng.smo: 25.4
+   - Tatoeba-test.eng-tah.eng.tah: 8.9
+   - Tatoeba-test.eng-ton.eng.ton: 26.1
+   - Tatoeba-test.eng-tvl.eng.tvl: 28.9
+chr-F-scores:
+   - Tatoeba-test.eng-fij.eng.fij: 0.406
+   - Tatoeba-test.eng-gil.eng.gil: 0.607
+   - Tatoeba-test.eng-haw.eng.haw: 0.141
+   - Tatoeba-test.eng-lkt.eng.lkt: 0.077
+   - Tatoeba-test.eng-mah.eng.mah: 0.331
+   - Tatoeba-test.eng-mri.eng.mri: 0.300
+   - Tatoeba-test.eng.multi: 0.304
+   - Tatoeba-test.eng-nau.eng.nau: 0.083
+   - Tatoeba-test.eng-niu.eng.niu: 0.531
+   - Tatoeba-test.eng-rap.eng.rap: 0.148
+   - Tatoeba-test.eng-smo.eng.smo: 0.467
+   - Tatoeba-test.eng-tah.eng.tah: 0.263
+   - Tatoeba-test.eng-ton.eng.ton: 0.489
+   - Tatoeba-test.eng-tvl.eng.tvl: 0.520

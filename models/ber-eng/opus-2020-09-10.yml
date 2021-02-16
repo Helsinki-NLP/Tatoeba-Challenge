@@ -1,0 +1,21 @@
+release: ber-eng/opus-2020-09-10.zip
+release-date: 2020-09-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ber_Arab
+   - ber_Latn
+   - ber_Tfng
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.ber.eng: 0.0
+chr-F-scores:
+   - Tatoeba-test.ber.eng: 0.095

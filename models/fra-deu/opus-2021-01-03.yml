@@ -1,0 +1,39 @@
+release: fra-deu/opus-2021-01-03.zip
+release-date: 2021-01-03
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - fra
+target-languages:
+   - deu
+BLEU-scores:
+   - euelections_dev2019.fr-de-fradeu.fra.deu: 26.4
+   - newssyscomb2009-fradeu.fra.deu: 22.5
+   - news-test2008-fradeu.fra.deu: 22.2
+   - newstest2009-fradeu.fra.deu: 22.2
+   - newstest2010-fradeu.fra.deu: 23.1
+   - newstest2011-fradeu.fra.deu: 21.9
+   - newstest2012-fradeu.fra.deu: 22.9
+   - newstest2013-fradeu.fra.deu: 24.7
+   - newstest2019-frde-fradeu.fra.deu: 27.6
+   - Tatoeba-test.fra.deu: 49.5
+   - Tatoeba-test.fra-deu.fra.deu: 49.5
+chr-F-scores:
+   - euelections_dev2019.fr-de-fradeu.fra.deu: 0.572
+   - newssyscomb2009-fradeu.fra.deu: 0.528
+   - news-test2008-fradeu.fra.deu: 0.527
+   - newstest2009-fradeu.fra.deu: 0.525
+   - newstest2010-fradeu.fra.deu: 0.532
+   - newstest2011-fradeu.fra.deu: 0.522
+   - newstest2012-fradeu.fra.deu: 0.520
+   - newstest2013-fradeu.fra.deu: 0.537
+   - newstest2019-frde-fradeu.fra.deu: 0.595
+   - Tatoeba-test.fra.deu: 0.678
+   - Tatoeba-test.fra-deu.fra.deu: 0.678

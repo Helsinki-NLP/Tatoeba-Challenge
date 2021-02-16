@@ -1,0 +1,21 @@
+release: hsb-eng/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - hsb
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.hsb.eng: 1.0
+   - Tatoeba-test.hsb-eng.hsb.eng: 1.0
+chr-F-scores:
+   - Tatoeba-test.hsb.eng: 0.124
+   - Tatoeba-test.hsb-eng.hsb.eng: 0.124

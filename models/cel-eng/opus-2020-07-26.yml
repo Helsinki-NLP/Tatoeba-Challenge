@@ -1,0 +1,36 @@
+release: cel-eng/opus-2020-07-26.zip
+release-date: 2020-07-26
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bre
+   - cor
+   - cym
+   - gla
+   - gle
+   - glv
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.bre-eng.bre.eng: 16.7
+   - Tatoeba-test.cor-eng.cor.eng: 2.7
+   - Tatoeba-test.cym-eng.cym.eng: 39.3
+   - Tatoeba-test.gla-eng.gla.eng: 13.7
+   - Tatoeba-test.gle-eng.gle.eng: 47.8
+   - Tatoeba-test.glv-eng.glv.eng: 45.2
+   - Tatoeba-test.multi.eng: 21.7
+chr-F-scores:
+   - Tatoeba-test.bre-eng.bre.eng: 0.375
+   - Tatoeba-test.cor-eng.cor.eng: 0.175
+   - Tatoeba-test.cym-eng.cym.eng: 0.563
+   - Tatoeba-test.gla-eng.gla.eng: 0.312
+   - Tatoeba-test.gle-eng.gle.eng: 0.642
+   - Tatoeba-test.glv-eng.glv.eng: 0.614
+   - Tatoeba-test.multi.eng: 0.387

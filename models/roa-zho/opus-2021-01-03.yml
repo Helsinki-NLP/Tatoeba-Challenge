@@ -1,0 +1,81 @@
+release: roa-zho/opus-2021-01-03.zip
+release-date: 2021-01-03
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - cat
+   - fra
+   - glg
+   - ind
+   - ita
+   - jak_Latn
+   - mol
+   - msa_Latn
+   - oci
+   - pms
+   - pob
+   - por
+   - ron
+   - spa
+   - zsm_Latn
+target-languages:
+   - cjy_Hans
+   - cjy_Hant
+   - cmn
+   - cmn_Hans
+   - cmn_Hant
+   - hak
+   - hsn
+   - hsn_Hani
+   - lzh
+   - lzh_Hans
+   - nan
+   - wuu
+   - yue_Hans
+   - yue_Hant
+use-target-labels:
+   - >>cjy_Hans<<
+   - >>cjy_Hant<<
+   - >>cmn<<
+   - >>cmn_Hans<<
+   - >>cmn_Hant<<
+   - >>hak<<
+   - >>hsn<<
+   - >>hsn_Hani<<
+   - >>lzh<<
+   - >>lzh_Hans<<
+   - >>nan<<
+   - >>wuu<<
+   - >>yue_Hans<<
+   - >>yue_Hant<<
+BLEU-scores:
+   - Tatoeba-test.cat-zho.cat.zho: 13.7
+   - Tatoeba-test.fra-zho.fra.zho: 12.8
+   - Tatoeba-test.glg-zho.glg.zho: 11.0
+   - Tatoeba-test.ita-zho.ita.zho: 14.5
+   - Tatoeba-test.msa-zho.msa.zho: 9.4
+   - Tatoeba-test.multi.zho: 29.8
+   - Tatoeba-test.oci-zho.oci.zho: 5.4
+   - Tatoeba-test.pms-zho.pms.zho: 1.7
+   - Tatoeba-test.por-zho.por.zho: 17.3
+   - Tatoeba-test.ron-zho.ron.zho: 1.0
+   - Tatoeba-test.spa-zho.spa.zho: 17.9
+chr-F-scores:
+   - Tatoeba-test.cat-zho.cat.zho: 0.124
+   - Tatoeba-test.fra-zho.fra.zho: 0.118
+   - Tatoeba-test.glg-zho.glg.zho: 0.115
+   - Tatoeba-test.ita-zho.ita.zho: 0.129
+   - Tatoeba-test.msa-zho.msa.zho: 0.095
+   - Tatoeba-test.multi.zho: 0.248
+   - Tatoeba-test.oci-zho.oci.zho: 0.061
+   - Tatoeba-test.pms-zho.pms.zho: 0.034
+   - Tatoeba-test.por-zho.por.zho: 0.150
+   - Tatoeba-test.ron-zho.ron.zho: 0.021
+   - Tatoeba-test.spa-zho.spa.zho: 0.154

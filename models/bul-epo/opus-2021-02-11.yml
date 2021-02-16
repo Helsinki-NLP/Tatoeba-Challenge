@@ -1,0 +1,21 @@
+release: bul-epo/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bul
+target-languages:
+   - epo
+BLEU-scores:
+   - Tatoeba-test.bul.epo: 24.5
+   - Tatoeba-test.bul-epo.bul.epo: 24.5
+chr-F-scores:
+   - Tatoeba-test.bul.epo: 0.438
+   - Tatoeba-test.bul-epo.bul.epo: 0.438

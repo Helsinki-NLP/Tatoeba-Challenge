@@ -1,0 +1,21 @@
+release: yid-eng/opus-2021-02-10.zip
+release-date: 2021-02-10
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - yid
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.yid.eng: 0.1
+   - Tatoeba-test.yid-eng.yid.eng: 0.1
+chr-F-scores:
+   - Tatoeba-test.yid.eng: 0.124
+   - Tatoeba-test.yid-eng.yid.eng: 0.124

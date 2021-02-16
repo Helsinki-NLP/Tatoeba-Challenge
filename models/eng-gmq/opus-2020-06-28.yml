@@ -1,0 +1,39 @@
+release: eng-gmq/opus-2020-06-28.zip
+release-date: 2020-06-28
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - dan
+   - fao
+   - isl
+   - non_Latn
+   - swe
+use-target-labels:
+   - >>dan<<
+   - >>fao<<
+   - >>isl<<
+   - >>non_Latn<<
+   - >>swe<<
+BLEU-scores:
+   - Tatoeba-test.eng-dan.eng.dan: 57.2
+   - Tatoeba-test.eng-fao.eng.fao: 8.2
+   - Tatoeba-test.eng-isl.eng.isl: 23.1
+   - Tatoeba-test.eng.multi: 52.0
+   - Tatoeba-test.eng-non.eng.non: 0.7
+   - Tatoeba-test.eng-swe.eng.swe: 57.4
+chr-F-scores:
+   - Tatoeba-test.eng-dan.eng.dan: 0.720
+   - Tatoeba-test.eng-fao.eng.fao: 0.314
+   - Tatoeba-test.eng-isl.eng.isl: 0.500
+   - Tatoeba-test.eng.multi: 0.681
+   - Tatoeba-test.eng-non.eng.non: 0.193
+   - Tatoeba-test.eng-swe.eng.swe: 0.713

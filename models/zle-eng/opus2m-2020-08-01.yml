@@ -1,0 +1,50 @@
+release: zle-eng/opus2m-2020-08-01.zip
+release-date: 2020-08-01
+dataset-name: opus2m
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bel
+   - bel_Latn
+   - orv_Cyrl
+   - rue
+   - rus
+   - ukr
+target-languages:
+   - eng
+BLEU-scores:
+   - newstest2012-ruseng.rus.eng: 31.1
+   - newstest2013-ruseng.rus.eng: 24.9
+   - newstest2014-ruen-ruseng.rus.eng: 27.9
+   - newstest2015-enru-ruseng.rus.eng: 26.8
+   - newstest2016-enru-ruseng.rus.eng: 25.8
+   - newstest2017-enru-ruseng.rus.eng: 29.1
+   - newstest2018-enru-ruseng.rus.eng: 25.4
+   - newstest2019-ruen-ruseng.rus.eng: 26.8
+   - Tatoeba-test.bel-eng.bel.eng: 38.3
+   - Tatoeba-test.multi.eng: 50.1
+   - Tatoeba-test.orv-eng.orv.eng: 6.9
+   - Tatoeba-test.rue-eng.rue.eng: 15.4
+   - Tatoeba-test.rus-eng.rus.eng: 52.5
+   - Tatoeba-test.ukr-eng.ukr.eng: 52.1
+chr-F-scores:
+   - newstest2012-ruseng.rus.eng: 0.579
+   - newstest2013-ruseng.rus.eng: 0.522
+   - newstest2014-ruen-ruseng.rus.eng: 0.563
+   - newstest2015-enru-ruseng.rus.eng: 0.541
+   - newstest2016-enru-ruseng.rus.eng: 0.535
+   - newstest2017-enru-ruseng.rus.eng: 0.561
+   - newstest2018-enru-ruseng.rus.eng: 0.537
+   - newstest2019-ruen-ruseng.rus.eng: 0.545
+   - Tatoeba-test.bel-eng.bel.eng: 0.569
+   - Tatoeba-test.multi.eng: 0.656
+   - Tatoeba-test.orv-eng.orv.eng: 0.217
+   - Tatoeba-test.rue-eng.rue.eng: 0.345
+   - Tatoeba-test.rus-eng.rus.eng: 0.674
+   - Tatoeba-test.ukr-eng.ukr.eng: 0.673

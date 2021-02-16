@@ -1,0 +1,21 @@
+release: pol-lat/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - pol
+target-languages:
+   - lat
+BLEU-scores:
+   - Tatoeba-test.pol.lat: 0.1
+   - Tatoeba-test.pol-lat.pol.lat: 0.1
+chr-F-scores:
+   - Tatoeba-test.pol.lat: 0.057
+   - Tatoeba-test.pol-lat.pol.lat: 0.057

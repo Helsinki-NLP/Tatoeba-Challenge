@@ -1,0 +1,48 @@
+release: sem-eng/opus-2020-06-28.zip
+release-date: 2020-06-28
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - acm
+   - afb
+   - amh
+   - apc
+   - apc_Latn
+   - ara
+   - ara_Latn
+   - arq
+   - arq_Latn
+   - ary
+   - arz
+   - heb
+   - mlt
+   - phn_Phnx
+   - tir
+   - tmr_Hebr
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.amh-eng.amh.eng: 35.2
+   - Tatoeba-test.ara-eng.ara.eng: 36.9
+   - Tatoeba-test.heb-eng.heb.eng: 43.1
+   - Tatoeba-test.mlt-eng.mlt.eng: 46.3
+   - Tatoeba-test.multi.eng: 40.0
+   - Tatoeba-test.phn-eng.phn.eng: 0.2
+   - Tatoeba-test.tir-eng.tir.eng: 12.3
+   - Tatoeba-test.tmr-eng.tmr.eng: 0.7
+chr-F-scores:
+   - Tatoeba-test.amh-eng.amh.eng: 0.539
+   - Tatoeba-test.ara-eng.ara.eng: 0.548
+   - Tatoeba-test.heb-eng.heb.eng: 0.597
+   - Tatoeba-test.mlt-eng.mlt.eng: 0.618
+   - Tatoeba-test.multi.eng: 0.570
+   - Tatoeba-test.phn-eng.phn.eng: 0.040
+   - Tatoeba-test.tir-eng.tir.eng: 0.327
+   - Tatoeba-test.tmr-eng.tmr.eng: 0.147

@@ -1,0 +1,385 @@
+release: sla-sla/opus-2020-10-04.zip
+release-date: 2020-10-04
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bel
+   - bel_Latn
+   - bos_Cyrl
+   - bos_Latn
+   - bul
+   - ces
+   - cnr
+   - cnr_Latn
+   - csb
+   - csb_Latn
+   - dsb
+   - eng
+   - hbs
+   - hbs_Cyrl
+   - hrv
+   - hsb
+   - mkd
+   - orv_Cyrl
+   - pol
+   - rue
+   - rus
+   - slv
+   - srp_Cyrl
+   - srp_Latn
+   - ukr
+target-languages:
+   - bel
+   - bel_Latn
+   - bos_Cyrl
+   - bos_Latn
+   - bul
+   - ces
+   - cnr
+   - cnr_Latn
+   - csb
+   - csb_Latn
+   - dsb
+   - eng
+   - hbs
+   - hbs_Cyrl
+   - hrv
+   - hsb
+   - mkd
+   - orv_Cyrl
+   - pol
+   - rue
+   - rus
+   - slv
+   - srp_Cyrl
+   - srp_Latn
+   - ukr
+use-target-labels:
+   - >>bel<<
+   - >>bel_Latn<<
+   - >>bos_Cyrl<<
+   - >>bos_Latn<<
+   - >>bul<<
+   - >>ces<<
+   - >>cnr<<
+   - >>cnr_Latn<<
+   - >>csb<<
+   - >>csb_Latn<<
+   - >>dsb<<
+   - >>eng<<
+   - >>hbs<<
+   - >>hbs_Cyrl<<
+   - >>hrv<<
+   - >>hsb<<
+   - >>mkd<<
+   - >>orv_Cyrl<<
+   - >>pol<<
+   - >>rue<<
+   - >>rus<<
+   - >>slv<<
+   - >>srp_Cyrl<<
+   - >>srp_Latn<<
+   - >>ukr<<
+BLEU-scores:
+   - newssyscomb2009-ceseng.ces.eng: 22.3
+   - newssyscomb2009-engces.eng.ces: 16.5
+   - news-test2008-engces.eng.ces: 14.9
+   - newstest2009-ceseng.ces.eng: 21.8
+   - newstest2009-engces.eng.ces: 15.5
+   - newstest2010-ceseng.ces.eng: 21.8
+   - newstest2010-engces.eng.ces: 16.2
+   - newstest2011-ceseng.ces.eng: 23.1
+   - newstest2011-engces.eng.ces: 17.3
+   - newstest2012-ceseng.ces.eng: 22.3
+   - newstest2012-cesrus.ces.rus: 16.0
+   - newstest2012-engces.eng.ces: 15.6
+   - newstest2012-engrus.eng.rus: 24.2
+   - newstest2012-rusces.rus.ces: 13.5
+   - newstest2012-ruseng.rus.eng: 28.7
+   - newstest2013-ceseng.ces.eng: 24.3
+   - newstest2013-cesrus.ces.rus: 19.7
+   - newstest2013-engces.eng.ces: 18.0
+   - newstest2013-engrus.eng.rus: 18.4
+   - newstest2013-rusces.rus.ces: 17.6
+   - newstest2013-ruseng.rus.eng: 22.8
+   - newstest2014-csen-ceseng.ces.eng: 25.7
+   - newstest2014-ruen-ruseng.rus.eng: 25.3
+   - newstest2015-encs-ceseng.ces.eng: 23.5
+   - newstest2015-encs-engces.eng.ces: 17.3
+   - newstest2015-enru-engrus.eng.rus: 20.8
+   - newstest2015-enru-ruseng.rus.eng: 23.7
+   - newstest2016-encs-ceseng.ces.eng: 24.9
+   - newstest2016-encs-engces.eng.ces: 19.5
+   - newstest2016-enru-engrus.eng.rus: 19.2
+   - newstest2016-enru-ruseng.rus.eng: 22.9
+   - newstest2017-encs-ceseng.ces.eng: 22.1
+   - newstest2017-encs-engces.eng.ces: 15.8
+   - newstest2017-enru-engrus.eng.rus: 20.8
+   - newstest2017-enru-ruseng.rus.eng: 25.7
+   - newstest2018-encs-ceseng.ces.eng: 22.9
+   - newstest2018-encs-engces.eng.ces: 15.7
+   - newstest2018-enru-engrus.eng.rus: 18.2
+   - newstest2018-enru-ruseng.rus.eng: 22.1
+   - newstest2019-encs-engces.eng.ces: 17.0
+   - newstest2019-enru-engrus.eng.rus: 19.7
+   - newstest2019-ruen-ruseng.rus.eng: 25.2
+   - Tatoeba-test.bel-bul.bel.bul: 100.0
+   - Tatoeba-test.bel-ces.bel.ces: 36.4
+   - Tatoeba-test.bel-eng.bel.eng: 40.6
+   - Tatoeba-test.bel-hbs.bel.hbs: 55.9
+   - Tatoeba-test.bel-mkd.bel.mkd: 40.9
+   - Tatoeba-test.bel-pol.bel.pol: 47.3
+   - Tatoeba-test.bel-rus.bel.rus: 58.1
+   - Tatoeba-test.bel-ukr.bel.ukr: 54.8
+   - Tatoeba-test.bul-bel.bul.bel: 14.1
+   - Tatoeba-test.bul-ces.bul.ces: 36.9
+   - Tatoeba-test.bul-eng.bul.eng: 50.0
+   - Tatoeba-test.bul-hbs.bul.hbs: 53.7
+   - Tatoeba-test.bul-mkd.bul.mkd: 37.5
+   - Tatoeba-test.bul-pol.bul.pol: 44.4
+   - Tatoeba-test.bul-rus.bul.rus: 43.1
+   - Tatoeba-test.bul-ukr.bul.ukr: 49.7
+   - Tatoeba-test.ces-bel.ces.bel: 38.5
+   - Tatoeba-test.ces-bul.ces.bul: 75.8
+   - Tatoeba-test.ces-eng.ces.eng: 47.4
+   - Tatoeba-test.ces-hbs.ces.hbs: 57.3
+   - Tatoeba-test.ces-hsb.ces.hsb: 6.1
+   - Tatoeba-test.ces-mkd.ces.mkd: 34.4
+   - Tatoeba-test.ces-pol.ces.pol: 44.4
+   - Tatoeba-test.ces-rus.ces.rus: 50.4
+   - Tatoeba-test.ces-slv.ces.slv: 4.9
+   - Tatoeba-test.ces-ukr.ces.ukr: 51.3
+   - Tatoeba-test.csb-eng.csb.eng: 16.4
+   - Tatoeba-test.dsb-eng.dsb.eng: 22.3
+   - Tatoeba-test.dsb-pol.dsb.pol: 14.9
+   - Tatoeba-test.dsb-rus.dsb.rus: 42.7
+   - Tatoeba-test.eng-bel.eng.bel: 20.3
+   - Tatoeba-test.eng-bul.eng.bul: 42.8
+   - Tatoeba-test.eng-ces.eng.ces: 37.5
+   - Tatoeba-test.eng-csb.eng.csb: 5.1
+   - Tatoeba-test.eng-dsb.eng.dsb: 0.9
+   - Tatoeba-test.eng-hbs.eng.hbs: 36.7
+   - Tatoeba-test.eng-hsb.eng.hsb: 10.5
+   - Tatoeba-test.eng-mkd.eng.mkd: 40.4
+   - Tatoeba-test.eng-orv.eng.orv: 0.3
+   - Tatoeba-test.eng-pol.eng.pol: 37.8
+   - Tatoeba-test.eng-rue.eng.rue: 0.5
+   - Tatoeba-test.eng-rus.eng.rus: 38.4
+   - Tatoeba-test.eng-slv.eng.slv: 15.6
+   - Tatoeba-test.eng-ukr.eng.ukr: 36.0
+   - Tatoeba-test.hbs-bel.hbs.bel: 38.2
+   - Tatoeba-test.hbs-bul.hbs.bul: 100.0
+   - Tatoeba-test.hbs-ces.hbs.ces: 46.4
+   - Tatoeba-test.hbs-eng.hbs.eng: 50.5
+   - Tatoeba-test.hbs-mkd.hbs.mkd: 38.0
+   - Tatoeba-test.hbs-pol.hbs.pol: 42.9
+   - Tatoeba-test.hbs-rus.hbs.rus: 52.4
+   - Tatoeba-test.hbs-ukr.hbs.ukr: 51.1
+   - Tatoeba-test.hsb-ces.hsb.ces: 17.4
+   - Tatoeba-test.hsb-eng.hsb.eng: 34.2
+   - Tatoeba-test.mkd-bel.mkd.bel: 12.7
+   - Tatoeba-test.mkd-bul.mkd.bul: 54.2
+   - Tatoeba-test.mkd-ces.mkd.ces: 12.1
+   - Tatoeba-test.mkd-eng.mkd.eng: 49.1
+   - Tatoeba-test.mkd-hbs.mkd.hbs: 10.7
+   - Tatoeba-test.mkd-pol.mkd.pol: 53.7
+   - Tatoeba-test.mkd-rus.mkd.rus: 26.5
+   - Tatoeba-test.mkd-ukr.mkd.ukr: 42.7
+   - Tatoeba-test.multi.multi: 44.1
+   - Tatoeba-test.orv-eng.orv.eng: 7.9
+   - Tatoeba-test.orv-pol.orv.pol: 11.2
+   - Tatoeba-test.orv-rus.orv.rus: 9.2
+   - Tatoeba-test.orv-ukr.orv.ukr: 6.0
+   - Tatoeba-test.pol-bel.pol.bel: 31.5
+   - Tatoeba-test.pol-bul.pol.bul: 34.8
+   - Tatoeba-test.pol-ces.pol.ces: 42.7
+   - Tatoeba-test.pol-dsb.pol.dsb: 2.2
+   - Tatoeba-test.pol-eng.pol.eng: 45.6
+   - Tatoeba-test.pol-hbs.pol.hbs: 45.0
+   - Tatoeba-test.pol-mkd.pol.mkd: 38.0
+   - Tatoeba-test.pol-orv.pol.orv: 0.7
+   - Tatoeba-test.pol-rus.pol.rus: 48.2
+   - Tatoeba-test.pol-slv.pol.slv: 6.4
+   - Tatoeba-test.pol-ukr.pol.ukr: 46.7
+   - Tatoeba-test.rue-eng.rue.eng: 21.5
+   - Tatoeba-test.rus-bel.rus.bel: 36.6
+   - Tatoeba-test.rus-bul.rus.bul: 44.3
+   - Tatoeba-test.rus-ces.rus.ces: 47.8
+   - Tatoeba-test.rus-dsb.rus.dsb: 16.0
+   - Tatoeba-test.rus-eng.rus.eng: 50.0
+   - Tatoeba-test.rus-hbs.rus.hbs: 44.5
+   - Tatoeba-test.rus-mkd.rus.mkd: 30.1
+   - Tatoeba-test.rus-orv.rus.orv: 0.1
+   - Tatoeba-test.rus-pol.rus.pol: 44.7
+   - Tatoeba-test.rus-slv.rus.slv: 29.6
+   - Tatoeba-test.rus-ukr.rus.ukr: 56.8
+   - Tatoeba-test.slv-ces.slv.ces: 39.6
+   - Tatoeba-test.slv-eng.slv.eng: 38.7
+   - Tatoeba-test.slv-pol.slv.pol: 40.9
+   - Tatoeba-test.slv-rus.slv.rus: 46.5
+   - Tatoeba-test.slv-ukr.slv.ukr: 35.1
+   - Tatoeba-test.ukr-bel.ukr.bel: 40.1
+   - Tatoeba-test.ukr-bul.ukr.bul: 56.6
+   - Tatoeba-test.ukr-ces.ukr.ces: 50.6
+   - Tatoeba-test.ukr-eng.ukr.eng: 49.1
+   - Tatoeba-test.ukr-hbs.ukr.hbs: 47.2
+   - Tatoeba-test.ukr-mkd.ukr.mkd: 19.3
+   - Tatoeba-test.ukr-orv.ukr.orv: 0.2
+   - Tatoeba-test.ukr-pol.ukr.pol: 48.8
+   - Tatoeba-test.ukr-rus.ukr.rus: 62.0
+   - Tatoeba-test.ukr-slv.ukr.slv: 14.6
+chr-F-scores:
+   - newssyscomb2009-ceseng.ces.eng: 0.510
+   - newssyscomb2009-engces.eng.ces: 0.448
+   - news-test2008-engces.eng.ces: 0.431
+   - newstest2009-ceseng.ces.eng: 0.507
+   - newstest2009-engces.eng.ces: 0.442
+   - newstest2010-ceseng.ces.eng: 0.513
+   - newstest2010-engces.eng.ces: 0.449
+   - newstest2011-ceseng.ces.eng: 0.515
+   - newstest2011-engces.eng.ces: 0.452
+   - newstest2012-ceseng.ces.eng: 0.509
+   - newstest2012-cesrus.ces.rus: 0.441
+   - newstest2012-engces.eng.ces: 0.430
+   - newstest2012-engrus.eng.rus: 0.520
+   - newstest2012-rusces.rus.ces: 0.403
+   - newstest2012-ruseng.rus.eng: 0.558
+   - newstest2013-ceseng.ces.eng: 0.521
+   - newstest2013-cesrus.ces.rus: 0.474
+   - newstest2013-engces.eng.ces: 0.454
+   - newstest2013-engrus.eng.rus: 0.464
+   - newstest2013-rusces.rus.ces: 0.446
+   - newstest2013-ruseng.rus.eng: 0.503
+   - newstest2014-csen-ceseng.ces.eng: 0.544
+   - newstest2014-ruen-ruseng.rus.eng: 0.539
+   - newstest2015-encs-ceseng.ces.eng: 0.508
+   - newstest2015-encs-engces.eng.ces: 0.456
+   - newstest2015-enru-engrus.eng.rus: 0.493
+   - newstest2015-enru-ruseng.rus.eng: 0.516
+   - newstest2016-encs-ceseng.ces.eng: 0.530
+   - newstest2016-encs-engces.eng.ces: 0.470
+   - newstest2016-enru-engrus.eng.rus: 0.481
+   - newstest2016-enru-ruseng.rus.eng: 0.513
+   - newstest2017-encs-ceseng.ces.eng: 0.503
+   - newstest2017-encs-engces.eng.ces: 0.435
+   - newstest2017-enru-engrus.eng.rus: 0.497
+   - newstest2017-enru-ruseng.rus.eng: 0.532
+   - newstest2018-encs-ceseng.ces.eng: 0.512
+   - newstest2018-encs-engces.eng.ces: 0.441
+   - newstest2018-enru-engrus.eng.rus: 0.483
+   - newstest2018-enru-ruseng.rus.eng: 0.507
+   - newstest2019-encs-engces.eng.ces: 0.449
+   - newstest2019-enru-engrus.eng.rus: 0.464
+   - newstest2019-ruen-ruseng.rus.eng: 0.527
+   - Tatoeba-test.bel-bul.bel.bul: 1.000
+   - Tatoeba-test.bel-ces.bel.ces: 0.656
+   - Tatoeba-test.bel-eng.bel.eng: 0.596
+   - Tatoeba-test.bel-hbs.bel.hbs: 0.710
+   - Tatoeba-test.bel-mkd.bel.mkd: 0.737
+   - Tatoeba-test.bel-pol.bel.pol: 0.683
+   - Tatoeba-test.bel-rus.bel.rus: 0.767
+   - Tatoeba-test.bel-ukr.bel.ukr: 0.744
+   - Tatoeba-test.bul-bel.bul.bel: 0.553
+   - Tatoeba-test.bul-ces.bul.ces: 0.601
+   - Tatoeba-test.bul-eng.bul.eng: 0.661
+   - Tatoeba-test.bul-hbs.bul.hbs: 0.807
+   - Tatoeba-test.bul-mkd.bul.mkd: 0.780
+   - Tatoeba-test.bul-pol.bul.pol: 0.631
+   - Tatoeba-test.bul-rus.bul.rus: 0.647
+   - Tatoeba-test.bul-ukr.bul.ukr: 0.688
+   - Tatoeba-test.ces-bel.ces.bel: 0.576
+   - Tatoeba-test.ces-bul.ces.bul: 0.859
+   - Tatoeba-test.ces-eng.ces.eng: 0.648
+   - Tatoeba-test.ces-hbs.ces.hbs: 0.727
+   - Tatoeba-test.ces-hsb.ces.hsb: 0.240
+   - Tatoeba-test.ces-mkd.ces.mkd: 0.681
+   - Tatoeba-test.ces-pol.ces.pol: 0.657
+   - Tatoeba-test.ces-rus.ces.rus: 0.684
+   - Tatoeba-test.ces-slv.ces.slv: 0.245
+   - Tatoeba-test.ces-ukr.ces.ukr: 0.678
+   - Tatoeba-test.csb-eng.csb.eng: 0.396
+   - Tatoeba-test.dsb-eng.dsb.eng: 0.410
+   - Tatoeba-test.dsb-pol.dsb.pol: 0.432
+   - Tatoeba-test.dsb-rus.dsb.rus: 0.770
+   - Tatoeba-test.eng-bel.eng.bel: 0.461
+   - Tatoeba-test.eng-bul.eng.bul: 0.616
+   - Tatoeba-test.eng-ces.eng.ces: 0.579
+   - Tatoeba-test.eng-csb.eng.csb: 0.217
+   - Tatoeba-test.eng-dsb.eng.dsb: 0.163
+   - Tatoeba-test.eng-hbs.eng.hbs: 0.583
+   - Tatoeba-test.eng-hsb.eng.hsb: 0.284
+   - Tatoeba-test.eng-mkd.eng.mkd: 0.602
+   - Tatoeba-test.eng-orv.eng.orv: 0.011
+   - Tatoeba-test.eng-pol.eng.pol: 0.598
+   - Tatoeba-test.eng-rue.eng.rue: 0.017
+   - Tatoeba-test.eng-rus.eng.rus: 0.589
+   - Tatoeba-test.eng-slv.eng.slv: 0.334
+   - Tatoeba-test.eng-ukr.eng.ukr: 0.571
+   - Tatoeba-test.hbs-bel.hbs.bel: 0.564
+   - Tatoeba-test.hbs-bul.hbs.bul: 1.000
+   - Tatoeba-test.hbs-ces.hbs.ces: 0.693
+   - Tatoeba-test.hbs-eng.hbs.eng: 0.662
+   - Tatoeba-test.hbs-mkd.hbs.mkd: 0.718
+   - Tatoeba-test.hbs-pol.hbs.pol: 0.639
+   - Tatoeba-test.hbs-rus.hbs.rus: 0.704
+   - Tatoeba-test.hbs-ukr.hbs.ukr: 0.689
+   - Tatoeba-test.hsb-ces.hsb.ces: 0.373
+   - Tatoeba-test.hsb-eng.hsb.eng: 0.541
+   - Tatoeba-test.mkd-bel.mkd.bel: 0.479
+   - Tatoeba-test.mkd-bul.mkd.bul: 0.833
+   - Tatoeba-test.mkd-ces.mkd.ces: 0.385
+   - Tatoeba-test.mkd-eng.mkd.eng: 0.640
+   - Tatoeba-test.mkd-hbs.mkd.hbs: 0.460
+   - Tatoeba-test.mkd-pol.mkd.pol: 0.833
+   - Tatoeba-test.mkd-rus.mkd.rus: 0.668
+   - Tatoeba-test.mkd-ukr.mkd.ukr: 0.708
+   - Tatoeba-test.multi.multi: 0.618
+   - Tatoeba-test.orv-eng.orv.eng: 0.259
+   - Tatoeba-test.orv-pol.orv.pol: 0.352
+   - Tatoeba-test.orv-rus.orv.rus: 0.268
+   - Tatoeba-test.orv-ukr.orv.ukr: 0.231
+   - Tatoeba-test.pol-bel.pol.bel: 0.563
+   - Tatoeba-test.pol-bul.pol.bul: 0.568
+   - Tatoeba-test.pol-ces.pol.ces: 0.626
+   - Tatoeba-test.pol-dsb.pol.dsb: 0.168
+   - Tatoeba-test.pol-eng.pol.eng: 0.633
+   - Tatoeba-test.pol-hbs.pol.hbs: 0.651
+   - Tatoeba-test.pol-mkd.pol.mkd: 0.718
+   - Tatoeba-test.pol-orv.pol.orv: 0.007
+   - Tatoeba-test.pol-rus.pol.rus: 0.670
+   - Tatoeba-test.pol-slv.pol.slv: 0.255
+   - Tatoeba-test.pol-ukr.pol.ukr: 0.663
+   - Tatoeba-test.rue-eng.rue.eng: 0.418
+   - Tatoeba-test.rus-bel.rus.bel: 0.603
+   - Tatoeba-test.rus-bul.rus.bul: 0.656
+   - Tatoeba-test.rus-ces.rus.ces: 0.659
+   - Tatoeba-test.rus-dsb.rus.dsb: 0.030
+   - Tatoeba-test.rus-eng.rus.eng: 0.658
+   - Tatoeba-test.rus-hbs.rus.hbs: 0.654
+   - Tatoeba-test.rus-mkd.rus.mkd: 0.593
+   - Tatoeba-test.rus-orv.rus.orv: 0.007
+   - Tatoeba-test.rus-pol.rus.pol: 0.652
+   - Tatoeba-test.rus-slv.rus.slv: 0.478
+   - Tatoeba-test.rus-ukr.rus.ukr: 0.745
+   - Tatoeba-test.slv-ces.slv.ces: 0.594
+   - Tatoeba-test.slv-eng.slv.eng: 0.576
+   - Tatoeba-test.slv-pol.slv.pol: 0.608
+   - Tatoeba-test.slv-rus.slv.rus: 0.645
+   - Tatoeba-test.slv-ukr.slv.ukr: 0.553
+   - Tatoeba-test.ukr-bel.ukr.bel: 0.624
+   - Tatoeba-test.ukr-bul.ukr.bul: 0.732
+   - Tatoeba-test.ukr-ces.ukr.ces: 0.675
+   - Tatoeba-test.ukr-eng.ukr.eng: 0.653
+   - Tatoeba-test.ukr-hbs.ukr.hbs: 0.671
+   - Tatoeba-test.ukr-mkd.ukr.mkd: 0.535
+   - Tatoeba-test.ukr-orv.ukr.orv: 0.010
+   - Tatoeba-test.ukr-pol.ukr.pol: 0.690
+   - Tatoeba-test.ukr-rus.ukr.rus: 0.780
+   - Tatoeba-test.ukr-slv.ukr.slv: 0.291

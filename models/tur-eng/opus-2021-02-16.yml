@@ -1,0 +1,35 @@
+release: tur-eng/opus-2021-02-16.zip
+release-date: 2021-02-16
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - tur
+target-languages:
+   - eng
+training-data:
+   - eng-tur: Tatoeba-train (46256176) 
+validation-data:
+   - eng-tur: Tatoeba-dev, 656843
+   - total size of shuffled dev data: 656832
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+BLEU-scores:
+   - newsdev2016-entr-tureng.tur.eng: 27.9
+   - newstest2016-entr-tureng.tur.eng: 24.2
+   - newstest2017-entr-tureng.tur.eng: 24.9
+   - newstest2018-entr-tureng.tur.eng: 27.0
+   - Tatoeba-test.tur.eng: 58.4
+   - Tatoeba-test.tur-eng.tur.eng: 58.4
+chr-F-scores:
+   - newsdev2016-entr-tureng.tur.eng: 0.546
+   - newstest2016-entr-tureng.tur.eng: 0.526
+   - newstest2017-entr-tureng.tur.eng: 0.533
+   - newstest2018-entr-tureng.tur.eng: 0.548
+   - Tatoeba-test.tur.eng: 0.725
+   - Tatoeba-test.tur-eng.tur.eng: 0.725

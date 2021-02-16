@@ -1,0 +1,25 @@
+release: ces-rus/opus-2021-01-03.zip
+release-date: 2021-01-03
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ces
+target-languages:
+   - rus
+BLEU-scores:
+   - newstest2012-cesrus.ces.rus: 19.4
+   - newstest2013-cesrus.ces.rus: 23.9
+   - Tatoeba-test.ces.rus: 55.1
+   - Tatoeba-test.ces-rus.ces.rus: 55.1
+chr-F-scores:
+   - newstest2012-cesrus.ces.rus: 0.470
+   - newstest2013-cesrus.ces.rus: 0.507
+   - Tatoeba-test.ces.rus: 0.722
+   - Tatoeba-test.ces-rus.ces.rus: 0.722

@@ -1,0 +1,63 @@
+release: phi-phi/opus-2020-10-04.zip
+release-date: 2020-10-04
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - akl_Latn
+   - ceb
+   - eng
+   - hil
+   - ilo
+   - pag
+   - war
+target-languages:
+   - akl_Latn
+   - ceb
+   - eng
+   - hil
+   - ilo
+   - pag
+   - war
+use-target-labels:
+   - >>akl_Latn<<
+   - >>ceb<<
+   - >>eng<<
+   - >>hil<<
+   - >>ilo<<
+   - >>pag<<
+   - >>war<<
+BLEU-scores:
+   - Tatoeba-test.akl-eng.akl.eng: 9.4
+   - Tatoeba-test.ceb-eng.ceb.eng: 21.7
+   - Tatoeba-test.eng-akl.eng.akl: 3.2
+   - Tatoeba-test.eng-ceb.eng.ceb: 10.8
+   - Tatoeba-test.eng-hil.eng.hil: 17.9
+   - Tatoeba-test.eng-ilo.eng.ilo: 33.7
+   - Tatoeba-test.eng-pag.eng.pag: 16.2
+   - Tatoeba-test.eng-war.eng.war: 12.8
+   - Tatoeba-test.hil-eng.hil.eng: 17.7
+   - Tatoeba-test.ilo-eng.ilo.eng: 37.0
+   - Tatoeba-test.multi.multi: 21.7
+   - Tatoeba-test.pag-eng.pag.eng: 21.3
+   - Tatoeba-test.war-eng.war.eng: 16.1
+chr-F-scores:
+   - Tatoeba-test.akl-eng.akl.eng: 0.287
+   - Tatoeba-test.ceb-eng.ceb.eng: 0.404
+   - Tatoeba-test.eng-akl.eng.akl: 0.188
+   - Tatoeba-test.eng-ceb.eng.ceb: 0.432
+   - Tatoeba-test.eng-hil.eng.hil: 0.517
+   - Tatoeba-test.eng-ilo.eng.ilo: 0.588
+   - Tatoeba-test.eng-pag.eng.pag: 0.488
+   - Tatoeba-test.eng-war.eng.war: 0.435
+   - Tatoeba-test.hil-eng.hil.eng: 0.385
+   - Tatoeba-test.ilo-eng.ilo.eng: 0.559
+   - Tatoeba-test.multi.multi: 0.465
+   - Tatoeba-test.pag-eng.pag.eng: 0.465
+   - Tatoeba-test.war-eng.war.eng: 0.365

@@ -1,0 +1,196 @@
+release: fiu-tut/opus-2021-02-16.zip
+release-date: 2021-02-16
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+use-target-labels:
+   - >>alt<<
+   - >>aze<<
+   - >>bak<<
+   - >>bua<<
+   - >>chg<<
+   - >>chv<<
+   - >>crh<<
+   - >>evn<<
+   - >>gag<<
+   - >>kaa<<
+   - >>kaz<<
+   - >>kir<<
+   - >>kjh<<
+   - >>krc<<
+   - >>kum<<
+   - >>mnc<<
+   - >>mon<<
+   - >>nog<<
+   - >>ota<<
+   - >>otk<<
+   - >>sah<<
+   - >>tat<<
+   - >>tuk<<
+   - >>tur<<
+   - >>tyv<<
+   - >>uig<<
+   - >>uzb<<
+   - >>xal<<
+   - chm
+   - est
+   - fin
+   - fkv
+   - hun
+   - izh
+   - kom
+   - krl
+   - liv
+   - mdf
+   - myv
+   - olo
+   - sma
+   - sme
+   - udm
+   - vep
+target-languages:
+   - alt
+   - aze
+   - bak
+   - bua
+   - chg
+   - chv
+   - crh
+   - evn
+   - gag
+   - kaa
+   - kaz
+   - kir
+   - kjh
+   - krc
+   - kum
+   - mnc
+   - mon
+   - nog
+   - ota
+   - otk
+   - sah
+   - tat
+   - tuk
+   - tur
+   - tyv
+   - uig
+   - uzb
+   - xal
+training-data:
+   - est-bak: Tatoeba-train (27897) 
+   - est-kaz_Cyrl: Tatoeba-train (68848) 
+   - est-kaz_Latn: Tatoeba-train (5635) 
+   - est-ota_Arab: 
+   - est-ota_Latn: 
+   - est-tat: Tatoeba-train (226677) 
+   - est-tat_Latn: Tatoeba-train (4111) 
+   - est-tur: Tatoeba-train (1000000) 
+   - est-uzb_Cyrl: Tatoeba-train (146) 
+   - est-uzb_Latn: Tatoeba-train (66509) 
+   - fin-bak: 
+   - fin-kaz_Cyrl: 
+   - fin-kaz_Latn: 
+   - fin-ota_Arab: 
+   - fin-ota_Latn: 
+   - fin-tat: Tatoeba-train (227627) 
+   - fin-tat_Latn: Tatoeba-train (4294) 
+   - fin-tur: Tatoeba-train (1000000) 
+   - fin-uzb_Cyrl: 
+   - fin-uzb_Latn: 
+   - hun-bak: 
+   - hun-kaz_Cyrl: 
+   - hun-kaz_Latn: 
+   - hun-ota_Arab: 
+   - hun-ota_Latn: 
+   - hun-tat: Tatoeba-train (227460) 
+   - hun-tat_Latn: Tatoeba-train (2207) 
+   - hun-tur: Tatoeba-train (1000000) 
+   - hun-uzb_Cyrl: 
+   - hun-uzb_Latn: 
+   - mhr-bak: 
+   - mhr-kaz_Cyrl: 
+   - mhr-kaz_Latn: 
+   - mhr-ota_Arab: 
+   - mhr-ota_Latn: 
+   - mhr-tat: 
+   - mhr-tat_Latn: 
+   - mhr-tur: 
+   - mhr-uzb_Cyrl: 
+   - mhr-uzb_Latn: 
+validation-data:
+   - bak-est: Tatoeba-dev, 1000
+   - est-kaz_Cyrl: Tatoeba-dev, 909
+   - est-kaz_Latn: Tatoeba-dev, 89
+   - est-ota_Arab: Tatoeba-dev, 0
+   - est-ota_Latn: Tatoeba-dev, 0
+   - est-tat: Tatoeba-dev, 982
+   - est-tat_Latn: Tatoeba-dev, 18
+   - est-tur: Tatoeba-dev, 1000
+   - est-uzb_Cyrl: Tatoeba-dev, 1
+   - est-uzb_Latn: Tatoeba-dev, 999
+   - bak-fin: Tatoeba-dev, 0
+   - fin-kaz_Cyrl: Tatoeba-dev, 0
+   - fin-kaz_Latn: Tatoeba-dev, 0
+   - fin-ota_Arab: Tatoeba-dev, 0
+   - fin-ota_Latn: Tatoeba-dev, 0
+   - fin-tat: Tatoeba-dev, 971
+   - fin-tat_Latn: Tatoeba-dev, 29
+   - fin-tur: Tatoeba-dev, 1000
+   - fin-uzb_Cyrl: Tatoeba-dev, 0
+   - fin-uzb_Latn: Tatoeba-dev, 0
+   - bak-hun: Tatoeba-dev, 0
+   - hun-kaz_Cyrl: Tatoeba-dev, 0
+   - hun-kaz_Latn: Tatoeba-dev, 0
+   - hun-ota_Arab: Tatoeba-dev, 0
+   - hun-ota_Latn: Tatoeba-dev, 0
+   - hun-tat: Tatoeba-dev, 987
+   - hun-tat_Latn: Tatoeba-dev, 13
+   - hun-tur: Tatoeba-dev, 1000
+   - hun-uzb_Cyrl: Tatoeba-dev, 0
+   - hun-uzb_Latn: Tatoeba-dev, 0
+   - bak-mhr: Tatoeba-dev, 0
+   - kaz_Cyrl-mhr: Tatoeba-dev, 0
+   - kaz_Latn-mhr: Tatoeba-dev, 0
+   - mhr-ota_Arab: Tatoeba-dev, 0
+   - mhr-ota_Latn: Tatoeba-dev, 0
+   - mhr-tat: Tatoeba-dev, 114
+   - mhr-tat_Latn: Tatoeba-dev, 3
+   - mhr-tur: Tatoeba-dev, 0
+   - mhr-uzb_Cyrl: Tatoeba-dev, 0
+   - mhr-uzb_Latn: Tatoeba-dev, 0
+   - total size of shuffled dev data: 9033
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+BLEU-scores:
+   - Tatoeba-test.chm-tat.chm.tat: 1.1
+   - Tatoeba-test.est-bak.est.bak: 21.4
+   - Tatoeba-test.est-kaz.est.kaz: 19.3
+   - Tatoeba-test.est-tat.est.tat: 39.2
+   - Tatoeba-test.est-tur.est.tur: 48.6
+   - Tatoeba-test.est-uzb.est.uzb: 12.7
+   - Tatoeba-test.fin-tat.fin.tat: 1.6
+   - Tatoeba-test.fin-tur.fin.tur: 23.9
+   - Tatoeba-test.hun-ota.hun.ota: 0.0
+   - Tatoeba-test.hun-tat.hun.tat: 9.3
+   - Tatoeba-test.hun-tur.hun.tur: 30.7
+   - Tatoeba-test.multi.multi: 25.9
+chr-F-scores:
+   - Tatoeba-test.chm-tat.chm.tat: 0.003
+   - Tatoeba-test.est-bak.est.bak: 0.245
+   - Tatoeba-test.est-kaz.est.kaz: 0.319
+   - Tatoeba-test.est-tat.est.tat: 0.424
+   - Tatoeba-test.est-tur.est.tur: 0.697
+   - Tatoeba-test.est-uzb.est.uzb: 0.136
+   - Tatoeba-test.fin-tat.fin.tat: 0.128
+   - Tatoeba-test.fin-tur.fin.tur: 0.528
+   - Tatoeba-test.hun-ota.hun.ota: 0.025
+   - Tatoeba-test.hun-tat.hun.tat: 0.237
+   - Tatoeba-test.hun-tur.hun.tur: 0.575
+   - Tatoeba-test.multi.multi: 0.539

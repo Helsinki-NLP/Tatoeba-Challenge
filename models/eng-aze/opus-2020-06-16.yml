@@ -1,0 +1,19 @@
+release: eng-aze/opus-2020-06-16.zip
+release-date: 2020-06-16
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - aze_Latn
+BLEU-scores:
+   - Tatoeba-test.eng.aze: 18.6
+chr-F-scores:
+   - Tatoeba-test.eng.aze: 0.477

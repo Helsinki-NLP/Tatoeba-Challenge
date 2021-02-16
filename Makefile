@@ -12,7 +12,23 @@
 ## TODO: get rid of some hard-coded paths
 ## TODO: properly integrate software dependencies
 ## TODO: integrate more data filters (OPUS-Filter?)
-
+##
+##
+## make VERSION=`date +%F` all . make a new release
+## make update ................. update test data with latest Tatoeba data
+## make cleanup ................ some cleanup in tatoeba data release dirs
+##
+##--------------------------------------------------------------------
+## working with Tatoeba-MT models
+##
+## make update-models .......... update the model releases
+##
+## make cleanup-model-dirs ..... remove duplicates in released model dir
+## make upload-models .......... upload models in release-dir
+## make released-model-list .... generate a list of released models
+## make released-model-results . generate results tables
+## make update-git ............. update the git repository
+##
 
 ## OPUS home directory and language code conversion tools
 ## OPUSMT_HOMEDIR: local copy of Opus-MT-train project
@@ -25,10 +41,10 @@ OPUSMT_HOMEDIR = ../Opus-MT-train
 ## VERSION = date of today
 ## TATOEBA_VERSION: latest Tatoeba release in OPUS
 
+TODAY          := $(shell date +%F)
 # VERSION         = v$(shell date +%F)
 VERSION         = v20190709
 TATOEBA_VERSION = ${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest 2>/dev/null}}
-
 
 
 
@@ -39,6 +55,14 @@ TATOEBA_VERSION = ${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest 2>/dev/n
 OPUS_CORPORA    := ${sort ${notdir ${shell find ${OPUS_HOME} -maxdepth 1 -mindepth 1 -type d}}}
 EXCLUDE_CORPORA := Tatoeba WMT-News MPC1
 TRAIN_CORPORA   := ${filter-out ${EXCLUDE_CORPORA},${OPUS_CORPORA}}
+
+
+## Tatoeba MT models
+## - release directory
+## - data container on allas
+
+MODEL_RELEASEDIR = models
+MODEL_CONTAINER = Tatoeba-MT-models
 
 
 ## some more tools and parameters
@@ -144,6 +168,8 @@ STATISTICS  = Data-${VERSION}.md
 
 DOWNLOADURL        := https://object.pouta.csc.fi
 TATOEBA_DATAURL    := https://object.pouta.csc.fi/Tatoeba-Challenge
+TATOEBA_MODELURL   := https://object.pouta.csc.fi/Tatoeba-MT-models
+
 TATOEBA_CONTAINER   = Tatoeba-Challenge
 RELEASE_CONTAINER   = Tatoeba-Challenge-${VERSION}
 WIKIDOC_CONTAINER   = Tatoeba-Challenge-WikiDoc-${VERSION}
@@ -188,10 +214,9 @@ NEW_TRAIN_IDS = ${patsubst ${RELEASEDIR}/%.ids.gz,${RELEASEDIR}/%.id.gz,${wildca
 .PHONY: upload upload-test upload-devtest upload-train upload-mono
 .PHONY: extra-traindata extra-statistics extra-upload
 .PHONY: update update-testdata
-.PHONY: released-model-list
 
 all: opus-langs.txt
-	${MAKE} update
+	${MAKE} data
 	${MAKE} dev-tsv test-tsv
 	${MAKE} Data.md
 	${MAKE} subsets
@@ -224,7 +249,43 @@ upload-mono: ${patsubst %,${RELEASEDIR}/%.done,${WIKI_LANGS3}}
 upload-wikishuffled: ${patsubst wiki-shuffled/%,${RELEASEDIR}/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
 upload-wikidoc: ${patsubst wiki-doc/%,${RELEASEDIR}/wiki-doc-%.done,${wildcard wiki-doc/???}}
 
-released-model-list: models/released-models.txt models/released-model-results.txt
+
+.PHONY: update-models
+update-models:
+	${MAKE} cleanup-model-dirs
+	${MAKE} upload-models
+	${MAKE} released-model-list
+	${MAKE} released-model-results
+	git add ${MODEL_RELEASEDIR}/*/README.md
+	git add ${MODEL_RELEASEDIR}/*/*.yml
+	${MAKE} GIT_COMMIT_MESSAGE='latest models added' update-git
+
+GIT_COMMIT_MESSAGE ?= latest changes
+
+.PHONY: update-git
+update-git:
+	git commit -am "${GIT_COMMIT_MESSAGE}"
+	git push origin master
+
+.PHONY: upload-models
+upload-models:
+	which a-put
+	find ${MODEL_RELEASEDIR}/ -type l | tar -cf models-links.tar -T -
+	find ${MODEL_RELEASEDIR}/ -type l -delete
+	cd ${MODEL_RELEASEDIR} && swift upload ${MODEL_CONTAINER} --changed --skip-identical *
+	tar -xf models-links.tar
+	rm -f models-links.tar
+	swift post ${MODEL_CONTAINER} --read-acl ".r:*"
+	swift list ${MODEL_CONTAINER} > index.txt
+	swift upload ${MODEL_CONTAINER} index.txt
+	rm -f index.txt
+
+
+.PHONY: released-model-list
+released-model-list: 	models/released-models.txt \
+			models/released-model-results.txt
+#			models/released-model-languages.txt
+
 
 RESULT_FILES = results/tatoeba-results-all.md \
 	results/tatoeba-results-all-subset-zero.md \
@@ -234,7 +295,8 @@ RESULT_FILES = results/tatoeba-results-all.md \
 	results/tatoeba-results-all-subset-higher.md \
 	results/tatoeba-results-all-subset-highest.md
 
-results: ${RESULT_FILES}
+.PHONY: released-model-results results
+released-model-results results: ${RESULT_FILES} results/tatoeba-models-all.md
 
 
 print-extra-traindata:
@@ -754,44 +816,102 @@ subsets/${VERSION}/%.md: ${STATISTICS}
 	sed 's/|[^|]*$$/|/' >> $@
 
 
-TATOEBA_READMES = $(wildcard models/*/README.md)
+# TATOEBA_READMES = $(wildcard models/*/README.md)
+TATOEBA_YAML = $(wildcard models/*/*.yml)
 
-models/released-models.txt: ${TATOEBA_READMES}
-	-cat $@ > $@.old
-	find models/ -name '*.eval.txt' | sort | xargs grep chrF2 > $@.1
-	find models/ -name '*.eval.txt' | sort | xargs grep BLEU > $@.2
-	cut -f3 -d '/' $@.1 | sed 's/\.eval.txt.*$$/.zip/' > $@.zip
-	cut -f2 -d '/' $@.1 > $@.iso639-3
-	paste -d '/' $@.iso639-3 $@.zip | sed 's#^#${TATOEBA_DATAURL}/#' > $@.url
-	cut -f2 -d '/' $@.1 | xargs iso639 -2 -k -p | tr ' ' "\n" > $@.iso639-1
-	cut -f2 -d '=' $@.1 | cut -f2 -d ' ' > $@.chrF2
-	cut -f2 -d '=' $@.2 | cut -f2 -d ' ' > $@.bleu
-	cut -f3 -d '=' $@.2 | cut -f2 -d ' ' > $@.bp
-	cut -f6 -d '=' $@.2 | cut -f2 -d ' ' | cut -f1 -d')' > $@.reflen
-	cut -f2 -d '/' $@.1 | sed 's/^\([^ \-]*\)$$/\1-\1/g' | tr '-' ' ' | \
+models/released-models.txt: ${TATOEBA_YAML}
+	find models -name '*.yml' | \
+	xargs scripts/get-model-scores.pl -t |\
+	cut -f1,4,5                                            > $@.1
+	cut -f1 -d'/' $@.1                                     > $@.iso639-3
+	cut -f1 -d'/' $@.1 | \
+	xargs iso639 -2 -k -p | tr ' ' "\n"                    > $@.iso639-1
+	cut -f1 -d'/' $@.1 | \
+	sed 's/^\([^ \-]*\)$$/\1-\1/g' | \
+	tr '-' ' ' | \
 	xargs iso639 -k | sed 's/$$/ /' |\
-	sed -e 's/\" \"\([^\"]*\)\" /\t\1\n/g' | sed 's/^\"//g' > $@.langs
-	paste $@.url $@.iso639-3 $@.iso639-1 $@.chrF2 $@.bleu $@.bp $@.reflen $@.langs > $@
-	rm -f $@.url $@.iso639-3 $@.iso639-1 $@.chrF2 $@.bleu $@.bp $@.reflen $@.1 $@.2 $@.langs $@.zip
-	cat $@.old $@.new | sort | uniq > $@
-	rm -f $@.old $@.new
+	sed -e 's/\" \"\([^\"]*\)\" /\t\1\n/g' | \
+	sed 's/^\"//g'                                         > $@.langs
+	cut -f1 $@.1 | \
+	sed 's#^#${TATOEBA_MODELURL}/#'                        > $@.url
+	cut -f2,3 $@.1                                         > $@.scores
+	paste $@.url $@.iso639-3 $@.iso639-1 $@.scores $@.langs | grep zip > $@
+	rm -f $@.url $@.iso639-3 $@.iso639-1 $@.scores $@.langs $@.1
 
-models/released-model-results.txt: ${TATOEBA_READMES}
-	-cat $@ > $@.old
-	find models/ -name 'README.md' | sort | \
-	xargs egrep -h '^(# |\| Tatoeba-test|\* download:)' |\
-	tr "\t" " " | tr "\n" "\t" | sed "s/# /\n# /g" |\
-	perl -e 'while (<>){s/^.*\((.*)\)/\1/;@_=split(/\t/);$$m=shift(@_);for (@_){print "$$_\t$$m\n";}}' |\
-	grep -v '.multi.' |\
-	sed -e 's/Tatoeba-test.\S*\(...\....\) /\1/' |\
-	grep '^|' |\
-	sed -e 's/ *| */\t/g' | cut -f2,3,4,6 > $@.new
-	cat $@.old $@.new | sort -k1,1 -k3,3nr -k2,2nr -k4,4 | uniq > $@
-	rm -f $@.old $@.new
+models/released-model-results.txt: ${TATOEBA_YAML}
+	find models -name '*.yml' | \
+	xargs scripts/get-model-scores.pl |\
+	grep 'Tatoeba-test' | grep -v 'multi'          > $@.1 
+	cut -f2 $@.1                                   > $@.langs
+	cut -f1 $@.1 | sed 's#^#${TATOEBA_MODELURL}/#' > $@.url
+	cut -f4,5 $@.1                                 > $@.scores
+	paste $@.langs $@.scores $@.url | \
+	sort -k1,1 -k3,3nr -k2,2nr -k4,4 | uniq | grep zip > $@
+	rm -f $@.1 $@.langs $@.url $@.scores
+
+
+# models/released-models.txt: ${TATOEBA_READMES}
+# #	-cat $@ > $@.${TODAY}
+# 	find models/ -name '*.eval.txt' | sort | xargs grep chrF2 > $@.1
+# 	find models/ -name '*.eval.txt' | sort | xargs grep BLEU > $@.2
+# 	cut -f3 -d '/' $@.1 | sed 's/\.eval.txt.*$$/.zip/' > $@.zip
+# 	cut -f2 -d '/' $@.1 > $@.iso639-3
+# 	paste -d '/' $@.iso639-3 $@.zip | sed 's#^#${TATOEBA_MODELURL}/#' > $@.url
+# 	cut -f2 -d '/' $@.1 | xargs iso639 -2 -k -p | tr ' ' "\n" > $@.iso639-1
+# 	cut -f2 -d '=' $@.1 | cut -f2 -d ' ' > $@.chrF2
+# 	cut -f2 -d '=' $@.2 | cut -f2 -d ' ' > $@.bleu
+# 	cut -f3 -d '=' $@.2 | cut -f2 -d ' ' > $@.bp
+# 	cut -f6 -d '=' $@.2 | cut -f2 -d ' ' | cut -f1 -d')' > $@.reflen
+# 	cut -f2 -d '/' $@.1 | sed 's/^\([^ \-]*\)$$/\1-\1/g' | tr '-' ' ' | \
+# 	xargs iso639 -k | sed 's/$$/ /' |\
+# 	sed -e 's/\" \"\([^\"]*\)\" /\t\1\n/g' | sed 's/^\"//g' > $@.langs
+# 	paste $@.url $@.iso639-3 $@.iso639-1 $@.chrF2 $@.bleu $@.bp $@.reflen $@.langs > $@.new
+# 	rm -f $@.url $@.iso639-3 $@.iso639-1 $@.chrF2 $@.bleu $@.bp $@.reflen $@.1 $@.2 $@.langs $@.zip
+# 	cat $@.${TODAY} $@.new | sort | uniq | grep zip |\
+# 	scripts/check-model-availability.pl models/available-models.txt 2> $@.log > $@
+# 	rm -f $@.new
+
+
+# models/released-model-languages.txt: ${TATOEBA_READMES}
+# 	-cat $@ > $@.${TODAY}
+# 	find models/ -name 'README.md' | sort | \
+# 	xargs egrep -h '^(# |\* source language|\* target language|\* download:)' |\
+# 	tr "\t" " " | tr "\n" "\t" | sed "s/# /\n# /g" > $@.1
+# 	grep -o '\* download: [^ ]*)' $@.1 | cut -f2 -d\( | sed 's/)//' > $@.url
+# 	grep -o '# [^ ]*	'  $@.1 | sed 's/^# *//' > $@.model
+# 	grep -o '\* source language(s): [^	]*	' $@.1 | \
+# 		cut -f2 -d: | cut -f1 | sed 's/^ *//' > $@.src
+# 	grep -o '\* target language(s): [^	]*	' $@.1 | \
+# 		cut -f2 -d: | cut -f1 | sed 's/^ *//' > $@.trg
+# 	cut -f5 -d/ $@.url > $@.iso639-3
+# 	cut -f5 -d/ $@.url | xargs iso639 -2 -k -p | tr ' ' "\n" > $@.iso639-1
+# 	cut -f5 -d/ $@.url | sed 's/^\([^ \-]*\)$$/\1-\1/g' | tr '-' ' ' | \
+# 	xargs iso639 -k | sed 's/$$/ /' |\
+# 	sed -e 's/\" \"\([^\"]*\)\" /\t\1\n/g' | sed 's/^\"//g' > $@.langs
+# 	paste $@.url $@.iso639-3 $@.iso639-1 $@.langs $@.src $@.trg > $@.new
+# 	rm -f $@.1 $@.url $@.iso639-3 $@.iso639-1 $@.langs $@.src $@.trg
+# 	cat $@.${TODAY} $@.new | sort | uniq | grep zip |\
+# 	scripts/check-model-availability.pl models/available-models.txt 2> $@.log > $@
+# 	rm -f $@.new
+
+# models/released-model-results.txt: ${TATOEBA_READMES}
+# 	-cat $@ > $@.${TODAY}
+# 	find models/ -name 'README.md' | sort | \
+# 	xargs egrep -h '^(# |\| Tatoeba-test|\* download:)' |\
+# 	tr "\t" " " | tr "\n" "\t" | sed "s/# /\n# /g" |\
+# 	perl -e 'while (<>){s/^.*\((.*)\)/\1/;@_=split(/\t/);$$m=shift(@_);for (@_){print "$$_\t$$m\n";}}' |\
+# 	grep -v '.multi.' |\
+# 	sed -e 's/Tatoeba-test.\S*\(...\....\) /\1/' |\
+# 	grep '^|' |\
+# 	sed -e 's/ *| */\t/g' | cut -f2,3,4,6 > $@.new
+# 	cat $@.${TODAY} $@.new | sort -k1,1 -k3,3nr -k2,2nr -k4,4 | uniq | grep zip |\
+# 	scripts/check-model-availability.pl models/available-models.txt 2> $@.log > $@
+# 	rm -f $@.new
 
 
 
-RESULT_TABLE_HEADER=model\tlanguage-pair\ttestset\tchrF2\tBLEU\tBP\treference-length\n--------------------------------------------------------------------------\n
+# RESULT_TABLE_HEADER=model\tlanguage-pair\ttestset\tchrF2\tBLEU\tBP\treference-length\n--------------------------------------------------------------------------\n
+RESULT_TABLE_HEADER=model\tlanguage-pair\ttestset\tchrF2\tBLEU\n--------------------------------------------------------------------------\n
 
 ${RESULT_FILES}: results/%.md: %
 	mkdir -p ${dir $@}
@@ -801,8 +921,10 @@ ${RESULT_FILES}: results/%.md: %
 	echo "because the models are not yet released or their performance is too poor"    >> $@
 	echo "to be useful for anything."                                                  >> $@
 	echo ""                                                                            >> $@
-	echo '| Model | Test Set | chrF2 | BLEU | BP | Reference Length |' >> $@
-	echo '|:--|---|--:|--:|--:|--:|'                                                   >> $@
+#	echo '| Model | Test Set | chrF2 | BLEU | BP | Reference Length |' >> $@
+#	echo '|:--|---|--:|--:|--:|--:|'                                                   >> $@
+	echo '| Model | Test Set | chrF2 | BLEU |'                                         >> $@
+	echo '|:--|---|--:|--:|'                                                           >> $@
 	grep -v '^model' $< | grep -v -- '----' | grep . | \
 		sort -k2,2 -k3,3 -k4,4nr | sort -k2,2 -k3,3 -k 1,1 -u | sort -k2,2 -k3,3 -k4,4nr |\
 	perl -pe '@a=split;print "| lang = $$a[1] | | | |\n" if ($$b ne $$a[1]);$$b=$$a[1];' |\
@@ -810,6 +932,26 @@ ${RESULT_FILES}: results/%.md: %
 	perl -pe '/^(\S*)\/(\S*)\t/;if (-d "models/$$1"){s/^(\S*)\/(\S*)\t/[$$1\/$$2](..\/models\/$$1)\t/;}' |\
 	sed 's/	/ | /g;s/^/| /;s/$$/ |/;s/Tatoeba-test/tatoeba/' |\
 	sed 's/\(news[^ ]*\)-...... /\1 /;s/\(news[^ ]*\)-.... /\1 /;'                     >> $@
+
+
+
+## TODO:  should check available models
+##        in ObjectStore instead of local file directories!
+
+results/tatoeba-models-all.md: tatoeba-models-all
+	mkdir -p ${dir $@}
+	echo "# Tatoeba translation models" >$@
+	echo "" >>$@
+	echo "The scores refer to results on Tatoeba-test data"                            >> $@
+	echo "For multilingual models, it is a mix of all language pairs"                  >> $@
+	echo ""                                                                            >> $@
+	echo '| Model | chrF2 | BLEU | BP | Reference Length |'                            >> $@
+	echo '|:--|--:|--:|--:|--:|'                                                       >> $@
+	cut -f1,4- $< | \
+	perl -pe '/^(\S*)\/(\S*)\t/;if (-d "models/$$1"){s/^(\S*)\/(\S*)\t/[$$1\/$$2](..\/models\/$$1)\t/;}' |\
+	sed 's/	/ | /g;s/^/| /;s/$$/ |/'                                                   >> $@
+
+
 
 ## new: also consider the opposite translation direction!
 tatoeba-results-all-subset-%: tatoeba-results-all-sorted-langpair
@@ -829,16 +971,29 @@ tatoeba-results-all-subset-%: tatoeba-results-all-sorted-langpair
 
 OPUS_MT_RAW = https://raw.githubusercontent.com/Helsinki-NLP/OPUS-MT-train/master/
 
-tatoeba-results-all:  models/released-model-results.txt
-	wget -O $@-work ${OPUS_MT_RAW}/work-tatoeba/$@
-	cut -f4 $< | cut -f5,6 -d'/' | sed 's/-....-..-..\.zip$$//' > $@.1
-	cut -f1 $< | tr '.' '-' > $@.2
-	cut -f4 $< | cut -f4 -d'/' > $@.3
-	cut -f3 $< > $@.4
-	cut -f2 $< > $@.5
-	paste $@.1 $@.2 $@.3 $@.4 $@.5 | sed 's/Tatoeba-MT-models/Tatoeba-test/' >> $@-work
-	sort -r $@-work | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
-	rm -f $@.1 $@.2 $@.3 $@.4 $@.5 $@-work
+tatoeba-results-all: ${TATOEBA_YAML}
+	find models -name '*.yml' | \
+	xargs scripts/get-model-scores.pl |\
+	sed 's/-....-..-..\.zip//' |\
+	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
+
+#	wget -O $@-work ${OPUS_MT_RAW}/work-tatoeba/$@
+#	cut -f4 $< | cut -f5,6 -d'/' | sed 's/-....-..-..\.zip$$//' > $@.1
+#	cut -f1 $< | tr '.' '-' > $@.2
+#	cut -f4 $< | cut -f4 -d'/' > $@.3
+#	cut -f3 $< > $@.4
+#	cut -f2 $< > $@.5
+#	paste $@.1 $@.2 $@.3 $@.4 $@.5 | sed 's/Tatoeba-MT-models/Tatoeba-test/' >> $@-work
+#	sort -r $@-work | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
+#	rm -f $@.1 $@.2 $@.3 $@.4 $@.5 $@-work
+
+
+tatoeba-models-all: ${TATOEBA_YAML}
+	find models -name '*.yml' | \
+	xargs scripts/get-model-scores.pl -t |\
+	sed 's/-....-..-..\.zip//' |\
+	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
+
 
 tatoeba-results-all-sorted-langpair: tatoeba-results-all
 	sort -k2,2 -k3,3 -k4,4nr < $< |\
@@ -852,6 +1007,13 @@ tatoeba-results-all-sorted-bleu: tatoeba-results-all
 	sort -k3,3 -k5,5nr < $< > $@
 
 
+cleanup-model-dirs:
+	which a-put
+	for d in `find models -maxdepth 1 -mindepth 1 -type d`; do \
+	  echo "check $$d"; \
+	  scripts/cleanup-model-releases.pl $$d; \
+	done
+	swift list Tatoeba-MT-models > models/available-models.txt
 
 
 ## upload data to ObjectStorage on allas

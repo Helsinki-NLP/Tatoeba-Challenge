@@ -1,0 +1,71 @@
+release: eng-bnt/opus-2020-06-28.zip
+release-date: 2020-06-28
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - kdx
+   - kin
+   - lin
+   - lug
+   - nya
+   - run
+   - sna
+   - swh
+   - toi_Latn
+   - tso
+   - umb
+   - xho
+   - zul
+use-target-labels:
+   - >>kdx<<
+   - >>kin<<
+   - >>lin<<
+   - >>lug<<
+   - >>nya<<
+   - >>run<<
+   - >>sna<<
+   - >>swh<<
+   - >>toi_Latn<<
+   - >>tso<<
+   - >>umb<<
+   - >>xho<<
+   - >>zul<<
+BLEU-scores:
+   - Tatoeba-test.eng-kdx.eng.kdx: 2.8
+   - Tatoeba-test.eng-kin.eng.kin: 5.1
+   - Tatoeba-test.eng-lin.eng.lin: 1.0
+   - Tatoeba-test.eng-lug.eng.lug: 15.2
+   - Tatoeba-test.eng.multi: 13.6
+   - Tatoeba-test.eng-nya.eng.nya: 16.2
+   - Tatoeba-test.eng-run.eng.run: 12.6
+   - Tatoeba-test.eng-sna.eng.sna: 24.9
+   - Tatoeba-test.eng-swa.eng.swa: 1.5
+   - Tatoeba-test.eng-toi.eng.toi: 8.3
+   - Tatoeba-test.eng-tso.eng.tso: 41.3
+   - Tatoeba-test.eng-umb.eng.umb: 4.6
+   - Tatoeba-test.eng-xho.eng.xho: 29.1
+   - Tatoeba-test.eng-zul.eng.zul: 30.4
+chr-F-scores:
+   - Tatoeba-test.eng-kdx.eng.kdx: 0.266
+   - Tatoeba-test.eng-kin.eng.kin: 0.522
+   - Tatoeba-test.eng-lin.eng.lin: 0.267
+   - Tatoeba-test.eng-lug.eng.lug: 0.576
+   - Tatoeba-test.eng.multi: 0.490
+   - Tatoeba-test.eng-nya.eng.nya: 0.600
+   - Tatoeba-test.eng-run.eng.run: 0.476
+   - Tatoeba-test.eng-sna.eng.sna: 0.633
+   - Tatoeba-test.eng-swa.eng.swa: 0.149
+   - Tatoeba-test.eng-toi.eng.toi: 0.210
+   - Tatoeba-test.eng-tso.eng.tso: 0.698
+   - Tatoeba-test.eng-umb.eng.umb: 0.349
+   - Tatoeba-test.eng-xho.eng.xho: 0.619
+   - Tatoeba-test.eng-zul.eng.zul: 0.749

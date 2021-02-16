@@ -1,0 +1,27 @@
+release: bul-deu/opus-2021-02-15.zip
+release-date: 2021-02-15
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bul
+target-languages:
+   - deu
+training-data:
+   - bul-deu: Tatoeba-train (19583957) 
+validation-data:
+   - bul-deu: Tatoeba-dev, 999
+   - total size of shuffled dev data: 999
+   - devset = top 999  lines of Tatoeba-dev.src.shuffled!
+BLEU-scores:
+   - Tatoeba-test.bul-deu.bul.deu: 49.5
+   - Tatoeba-test.bul.deu: 49.5
+chr-F-scores:
+   - Tatoeba-test.bul-deu.bul.deu: 0.677
+   - Tatoeba-test.bul.deu: 0.677

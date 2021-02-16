@@ -1,0 +1,27 @@
+release: spa-eus/opus-2021-02-16.zip
+release-date: 2021-02-16
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - spa
+target-languages:
+   - eus
+training-data:
+   - eus-spa: Tatoeba-train (2151765) 
+validation-data:
+   - eus-spa: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+BLEU-scores:
+   - Tatoeba-test.spa.eus: 37.0
+   - Tatoeba-test.spa-eus.spa.eus: 37.0
+chr-F-scores:
+   - Tatoeba-test.spa.eus: 0.638
+   - Tatoeba-test.spa-eus.spa.eus: 0.638

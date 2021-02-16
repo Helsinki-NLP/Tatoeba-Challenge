@@ -1,0 +1,143 @@
+release: eng-gem/opus-2020-07-26.zip
+release-date: 2020-07-26
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - afr
+   - ang_Latn
+   - dan
+   - deu
+   - enm_Latn
+   - fao
+   - frr
+   - fry
+   - gos
+   - got_Goth
+   - gsw
+   - isl
+   - ksh
+   - ltz
+   - nds
+   - nld
+   - nno
+   - nob
+   - nob_Hebr
+   - non_Latn
+   - pdc
+   - sco
+   - stq
+   - swe
+   - swg
+   - yid
+use-target-labels:
+   - >>afr<<
+   - >>ang_Latn<<
+   - >>dan<<
+   - >>deu<<
+   - >>enm_Latn<<
+   - >>fao<<
+   - >>frr<<
+   - >>fry<<
+   - >>gos<<
+   - >>got_Goth<<
+   - >>gsw<<
+   - >>isl<<
+   - >>ksh<<
+   - >>ltz<<
+   - >>nds<<
+   - >>nld<<
+   - >>nno<<
+   - >>nob<<
+   - >>nob_Hebr<<
+   - >>non_Latn<<
+   - >>pdc<<
+   - >>sco<<
+   - >>stq<<
+   - >>swe<<
+   - >>swg<<
+   - >>yid<<
+BLEU-scores:
+   - newssyscomb2009-engdeu.eng.deu: 20.3
+   - news-test2008-engdeu.eng.deu: 20.5
+   - newstest2009-engdeu.eng.deu: 20.1
+   - newstest2010-engdeu.eng.deu: 22.2
+   - newstest2011-engdeu.eng.deu: 20.0
+   - newstest2012-engdeu.eng.deu: 20.4
+   - newstest2013-engdeu.eng.deu: 23.9
+   - newstest2015-ende-engdeu.eng.deu: 27.5
+   - newstest2016-ende-engdeu.eng.deu: 32.3
+   - newstest2017-ende-engdeu.eng.deu: 26.0
+   - newstest2018-ende-engdeu.eng.deu: 38.7
+   - newstest2019-ende-engdeu.eng.deu: 34.4
+   - Tatoeba-test.eng-afr.eng.afr: 56.1
+   - Tatoeba-test.eng-ang.eng.ang: 6.3
+   - Tatoeba-test.eng-dan.eng.dan: 57.2
+   - Tatoeba-test.eng-deu.eng.deu: 39.9
+   - Tatoeba-test.eng-enm.eng.enm: 1.3
+   - Tatoeba-test.eng-fao.eng.fao: 9.4
+   - Tatoeba-test.eng-frr.eng.frr: 3.6
+   - Tatoeba-test.eng-fry.eng.fry: 16.6
+   - Tatoeba-test.eng-gos.eng.gos: 2.2
+   - Tatoeba-test.eng-got.eng.got: 0.3
+   - Tatoeba-test.eng-gsw.eng.gsw: 0.9
+   - Tatoeba-test.eng-isl.eng.isl: 23.0
+   - Tatoeba-test.eng-ksh.eng.ksh: 0.8
+   - Tatoeba-test.eng-ltz.eng.ltz: 20.8
+   - Tatoeba-test.eng.multi: 46.0
+   - Tatoeba-test.eng-nds.eng.nds: 19.1
+   - Tatoeba-test.eng-nld.eng.nld: 52.7
+   - Tatoeba-test.eng-non.eng.non: 0.6
+   - Tatoeba-test.eng-nor.eng.nor: 49.5
+   - Tatoeba-test.eng-pdc.eng.pdc: 4.0
+   - Tatoeba-test.eng-sco.eng.sco: 29.8
+   - Tatoeba-test.eng-stq.eng.stq: 2.8
+   - Tatoeba-test.eng-swe.eng.swe: 57.5
+   - Tatoeba-test.eng-swg.eng.swg: 0.8
+   - Tatoeba-test.eng-yid.eng.yid: 6.3
+chr-F-scores:
+   - newssyscomb2009-engdeu.eng.deu: 0.517
+   - news-test2008-engdeu.eng.deu: 0.506
+   - newstest2009-engdeu.eng.deu: 0.512
+   - newstest2010-engdeu.eng.deu: 0.523
+   - newstest2011-engdeu.eng.deu: 0.504
+   - newstest2012-engdeu.eng.deu: 0.503
+   - newstest2013-engdeu.eng.deu: 0.529
+   - newstest2015-ende-engdeu.eng.deu: 0.565
+   - newstest2016-ende-engdeu.eng.deu: 0.601
+   - newstest2017-ende-engdeu.eng.deu: 0.555
+   - newstest2018-ende-engdeu.eng.deu: 0.642
+   - newstest2019-ende-engdeu.eng.deu: 0.608
+   - Tatoeba-test.eng-afr.eng.afr: 0.739
+   - Tatoeba-test.eng-ang.eng.ang: 0.152
+   - Tatoeba-test.eng-dan.eng.dan: 0.722
+   - Tatoeba-test.eng-deu.eng.deu: 0.612
+   - Tatoeba-test.eng-enm.eng.enm: 0.219
+   - Tatoeba-test.eng-fao.eng.fao: 0.318
+   - Tatoeba-test.eng-frr.eng.frr: 0.124
+   - Tatoeba-test.eng-fry.eng.fry: 0.419
+   - Tatoeba-test.eng-gos.eng.gos: 0.182
+   - Tatoeba-test.eng-got.eng.got: 0.012
+   - Tatoeba-test.eng-gsw.eng.gsw: 0.134
+   - Tatoeba-test.eng-isl.eng.isl: 0.504
+   - Tatoeba-test.eng-ksh.eng.ksh: 0.143
+   - Tatoeba-test.eng-ltz.eng.ltz: 0.392
+   - Tatoeba-test.eng.multi: 0.636
+   - Tatoeba-test.eng-nds.eng.nds: 0.441
+   - Tatoeba-test.eng-nld.eng.nld: 0.697
+   - Tatoeba-test.eng-non.eng.non: 0.171
+   - Tatoeba-test.eng-nor.eng.nor: 0.671
+   - Tatoeba-test.eng-pdc.eng.pdc: 0.165
+   - Tatoeba-test.eng-sco.eng.sco: 0.520
+   - Tatoeba-test.eng-stq.eng.stq: 0.327
+   - Tatoeba-test.eng-swe.eng.swe: 0.715
+   - Tatoeba-test.eng-swg.eng.swg: 0.153
+   - Tatoeba-test.eng-yid.eng.yid: 0.293

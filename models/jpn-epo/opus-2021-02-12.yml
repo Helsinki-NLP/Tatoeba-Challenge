@@ -1,0 +1,21 @@
+release: jpn-epo/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm1k)
+subwords:
+   - source: spm32k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - jpn
+target-languages:
+   - epo
+BLEU-scores:
+   - Tatoeba-test.jpn.epo: 0.1
+   - Tatoeba-test.jpn-epo.jpn.epo: 0.1
+chr-F-scores:
+   - Tatoeba-test.jpn.epo: 0.020
+   - Tatoeba-test.jpn-epo.jpn.epo: 0.020

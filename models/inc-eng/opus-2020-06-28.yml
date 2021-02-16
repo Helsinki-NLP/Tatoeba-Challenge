@@ -1,0 +1,72 @@
+release: inc-eng/opus-2020-06-28.zip
+release-date: 2020-06-28
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - asm
+   - awa
+   - ben
+   - bho
+   - gom
+   - guj
+   - hif_Latn
+   - hin
+   - mai
+   - mar
+   - npi
+   - ori
+   - pan_Guru
+   - pnb
+   - rom
+   - sin
+   - snd_Arab
+   - urd
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.asm-eng.asm.eng: 17.3
+   - Tatoeba-test.awa-eng.awa.eng: 6.9
+   - Tatoeba-test.ben-eng.ben.eng: 46.3
+   - Tatoeba-test.bho-eng.bho.eng: 30.6
+   - Tatoeba-test.guj-eng.guj.eng: 19.0
+   - Tatoeba-test.hif-eng.hif.eng: 4.2
+   - Tatoeba-test.hin-eng.hin.eng: 38.9
+   - Tatoeba-test.kok-eng.kok.eng: 4.8
+   - Tatoeba-test.lah-eng.lah.eng: 17.6
+   - Tatoeba-test.mai-eng.mai.eng: 47.6
+   - Tatoeba-test.mar-eng.mar.eng: 23.0
+   - Tatoeba-test.multi.eng: 27.6
+   - Tatoeba-test.nep-eng.nep.eng: 1.4
+   - Tatoeba-test.ori-eng.ori.eng: 2.0
+   - Tatoeba-test.pan-eng.pan.eng: 15.5
+   - Tatoeba-test.rom-eng.rom.eng: 3.2
+   - Tatoeba-test.sin-eng.sin.eng: 30.5
+   - Tatoeba-test.snd-eng.snd.eng: 10.0
+   - Tatoeba-test.urd-eng.urd.eng: 28.0
+chr-F-scores:
+   - Tatoeba-test.asm-eng.asm.eng: 0.357
+   - Tatoeba-test.awa-eng.awa.eng: 0.224
+   - Tatoeba-test.ben-eng.ben.eng: 0.606
+   - Tatoeba-test.bho-eng.bho.eng: 0.456
+   - Tatoeba-test.guj-eng.guj.eng: 0.367
+   - Tatoeba-test.hif-eng.hif.eng: 0.240
+   - Tatoeba-test.hin-eng.hin.eng: 0.568
+   - Tatoeba-test.kok-eng.kok.eng: 0.238
+   - Tatoeba-test.lah-eng.lah.eng: 0.284
+   - Tatoeba-test.mai-eng.mai.eng: 0.699
+   - Tatoeba-test.mar-eng.mar.eng: 0.475
+   - Tatoeba-test.multi.eng: 0.490
+   - Tatoeba-test.nep-eng.nep.eng: 0.189
+   - Tatoeba-test.ori-eng.ori.eng: 0.207
+   - Tatoeba-test.pan-eng.pan.eng: 0.349
+   - Tatoeba-test.rom-eng.rom.eng: 0.174
+   - Tatoeba-test.sin-eng.sin.eng: 0.526
+   - Tatoeba-test.snd-eng.snd.eng: 0.330
+   - Tatoeba-test.urd-eng.urd.eng: 0.476

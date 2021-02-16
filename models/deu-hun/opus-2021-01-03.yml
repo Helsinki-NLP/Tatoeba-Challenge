@@ -1,0 +1,25 @@
+release: deu-hun/opus-2021-01-03.zip
+release-date: 2021-01-03
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - deu
+target-languages:
+   - hun
+BLEU-scores:
+   - newssyscomb2009-deuhun.deu.hun: 17.7
+   - newstest2009-deuhun.deu.hun: 17.3
+   - Tatoeba-test.deu.hun: 33.0
+   - Tatoeba-test.deu-hun.deu.hun: 33.0
+chr-F-scores:
+   - newssyscomb2009-deuhun.deu.hun: 0.492
+   - newstest2009-deuhun.deu.hun: 0.481
+   - Tatoeba-test.deu.hun: 0.582
+   - Tatoeba-test.deu-hun.deu.hun: 0.582

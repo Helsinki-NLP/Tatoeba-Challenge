@@ -1,0 +1,24 @@
+release: grk-eng/opus2m-2020-08-01.zip
+release-date: 2020-08-01
+dataset-name: opus2m
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ell
+   - grc_Grek
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.ell-eng.ell.eng: 65.9
+   - Tatoeba-test.grc-eng.grc.eng: 4.1
+   - Tatoeba-test.multi.eng: 60.9
+chr-F-scores:
+   - Tatoeba-test.ell-eng.ell.eng: 0.779
+   - Tatoeba-test.grc-eng.grc.eng: 0.187
+   - Tatoeba-test.multi.eng: 0.733

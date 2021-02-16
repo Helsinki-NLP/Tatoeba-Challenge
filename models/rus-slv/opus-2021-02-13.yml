@@ -1,0 +1,21 @@
+release: rus-slv/opus-2021-02-13.zip
+release-date: 2021-02-13
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - rus
+target-languages:
+   - slv
+BLEU-scores:
+   - Tatoeba-test.rus.slv: 32.3
+   - Tatoeba-test.rus-slv.rus.slv: 32.3
+chr-F-scores:
+   - Tatoeba-test.rus.slv: 0.492
+   - Tatoeba-test.rus-slv.rus.slv: 0.492

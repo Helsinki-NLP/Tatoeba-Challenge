@@ -1,0 +1,45 @@
+release: eng-bat/opus-2020-07-26.zip
+release-date: 2020-07-26
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - lav
+   - lit
+   - ltg
+   - prg_Latn
+   - sgs
+use-target-labels:
+   - >>lav<<
+   - >>lit<<
+   - >>ltg<<
+   - >>prg_Latn<<
+   - >>sgs<<
+BLEU-scores:
+   - newsdev2017-enlv-englav.eng.lav: 22.8
+   - newsdev2019-enlt-englit.eng.lit: 19.4
+   - newstest2017-enlv-englav.eng.lav: 17.2
+   - newstest2019-enlt-englit.eng.lit: 13.1
+   - Tatoeba-test.eng-lav.eng.lav: 41.2
+   - Tatoeba-test.eng-lit.eng.lit: 34.6
+   - Tatoeba-test.eng.multi: 35.1
+   - Tatoeba-test.eng-prg.eng.prg: 0.5
+   - Tatoeba-test.eng-sgs.eng.sgs: 3.8
+chr-F-scores:
+   - newsdev2017-enlv-englav.eng.lav: 0.533
+   - newsdev2019-enlt-englit.eng.lit: 0.518
+   - newstest2017-enlv-englav.eng.lav: 0.493
+   - newstest2019-enlt-englit.eng.lit: 0.456
+   - Tatoeba-test.eng-lav.eng.lav: 0.636
+   - Tatoeba-test.eng-lit.eng.lit: 0.631
+   - Tatoeba-test.eng.multi: 0.599
+   - Tatoeba-test.eng-prg.eng.prg: 0.130
+   - Tatoeba-test.eng-sgs.eng.sgs: 0.192

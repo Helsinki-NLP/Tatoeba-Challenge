@@ -1,0 +1,21 @@
+release: vie-rus/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - vie
+target-languages:
+   - rus
+BLEU-scores:
+   - Tatoeba-test.vie.rus: 16.9
+   - Tatoeba-test.vie-rus.vie.rus: 17.0
+chr-F-scores:
+   - Tatoeba-test.vie.rus: 0.331
+   - Tatoeba-test.vie-rus.vie.rus: 0.331

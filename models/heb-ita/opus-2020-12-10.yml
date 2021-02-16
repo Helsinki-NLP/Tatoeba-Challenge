@@ -1,0 +1,19 @@
+release: heb-ita/opus-2020-12-10.zip
+release-date: 2020-12-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - heb
+target-languages:
+   - ita
+BLEU-scores:
+   - Tatoeba-test.heb.ita: 41.1
+chr-F-scores:
+   - Tatoeba-test.heb.ita: 0.643

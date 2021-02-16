@@ -1,0 +1,31 @@
+release: eng-cpf/opus-2020-07-26.zip
+release-date: 2020-07-26
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - gcf_Latn
+   - hat
+   - mfe
+use-target-labels:
+   - >>gcf_Latn<<
+   - >>hat<<
+   - >>mfe<<
+BLEU-scores:
+   - Tatoeba-test.eng-gcf.eng.gcf: 6.2
+   - Tatoeba-test.eng-hat.eng.hat: 25.7
+   - Tatoeba-test.eng-mfe.eng.mfe: 80.1
+   - Tatoeba-test.eng.multi: 15.9
+chr-F-scores:
+   - Tatoeba-test.eng-gcf.eng.gcf: 0.262
+   - Tatoeba-test.eng-hat.eng.hat: 0.451
+   - Tatoeba-test.eng-mfe.eng.mfe: 0.900
+   - Tatoeba-test.eng.multi: 0.354

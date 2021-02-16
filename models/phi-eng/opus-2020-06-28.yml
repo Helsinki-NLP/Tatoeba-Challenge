@@ -1,0 +1,39 @@
+release: phi-eng/opus-2020-06-28.zip
+release-date: 2020-06-28
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - akl_Latn
+   - ceb
+   - hil
+   - ilo
+   - pag
+   - pmn
+   - war
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.akl-eng.akl.eng: 7.3
+   - Tatoeba-test.ceb-eng.ceb.eng: 19.8
+   - Tatoeba-test.hil-eng.hil.eng: 20.7
+   - Tatoeba-test.ilo-eng.ilo.eng: 33.5
+   - Tatoeba-test.multi.eng: 16.4
+   - Tatoeba-test.pag-eng.pag.eng: 25.3
+   - Tatoeba-test.pmn-eng.pmn.eng: 0.7
+   - Tatoeba-test.war-eng.war.eng: 14.1
+chr-F-scores:
+   - Tatoeba-test.akl-eng.akl.eng: 0.295
+   - Tatoeba-test.ceb-eng.ceb.eng: 0.373
+   - Tatoeba-test.hil-eng.hil.eng: 0.395
+   - Tatoeba-test.ilo-eng.ilo.eng: 0.538
+   - Tatoeba-test.multi.eng: 0.320
+   - Tatoeba-test.pag-eng.pag.eng: 0.452
+   - Tatoeba-test.pmn-eng.pmn.eng: 0.110
+   - Tatoeba-test.war-eng.war.eng: 0.349

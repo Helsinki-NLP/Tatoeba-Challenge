@@ -1,0 +1,28 @@
+release: ccs-ccs/opus-2020-10-04.zip
+release-date: 2020-10-04
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+   - kat
+target-languages:
+   - eng
+   - kat
+use-target-labels:
+   - >>eng<<
+   - >>kat<<
+BLEU-scores:
+   - Tatoeba-test.eng-kat.eng.kat: 4.6
+   - Tatoeba-test.kat-eng.kat.eng: 40.3
+   - Tatoeba-test.multi.multi: 25.4
+chr-F-scores:
+   - Tatoeba-test.eng-kat.eng.kat: 0.163
+   - Tatoeba-test.kat-eng.kat.eng: 0.564
+   - Tatoeba-test.multi.multi: 0.365

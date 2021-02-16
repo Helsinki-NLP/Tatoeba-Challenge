@@ -1,0 +1,23 @@
+release: spa-ido/opus-2020-09-10.zip
+release-date: 2020-09-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - spa
+target-languages:
+   - ido
+   - ido_Latn
+use-target-labels:
+   - >>ido<<
+   - >>ido_Latn<<
+BLEU-scores:
+   - Tatoeba-test.spa.ido: 0.1
+chr-F-scores:
+   - Tatoeba-test.spa.ido: 0.118

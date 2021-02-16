@@ -1,0 +1,19 @@
+release: por-ukr/opus-2020-06-17.zip
+release-date: 2020-06-17
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - por
+target-languages:
+   - ukr
+BLEU-scores:
+   - Tatoeba-test.por.ukr: 39.8
+chr-F-scores:
+   - Tatoeba-test.por.ukr: 0.616

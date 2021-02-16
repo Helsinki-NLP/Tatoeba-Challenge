@@ -1,0 +1,21 @@
+release: nya-eng/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - nya
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.nya.eng: 42.1
+   - Tatoeba-test.nya-eng.nya.eng: 42.1
+chr-F-scores:
+   - Tatoeba-test.nya.eng: 0.571
+   - Tatoeba-test.nya-eng.nya.eng: 0.571

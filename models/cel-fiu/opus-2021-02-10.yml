@@ -1,0 +1,60 @@
+release: cel-fiu/opus-2021-02-10.zip
+release-date: 2021-02-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bre
+   - cor
+   - cym
+   - gla
+   - gle
+   - glv
+target-languages:
+   - chm
+   - est
+   - fin
+   - fkv
+   - hun
+   - izh
+   - kom
+   - krl
+   - liv
+   - mdf
+   - myv
+   - olo
+   - sma
+   - sme
+   - udm
+   - vep
+use-target-labels:
+   - >>chm<<
+   - >>est<<
+   - >>fin<<
+   - >>fkv<<
+   - >>hun<<
+   - >>izh<<
+   - >>kom<<
+   - >>krl<<
+   - >>liv<<
+   - >>mdf<<
+   - >>myv<<
+   - >>olo<<
+   - >>sma<<
+   - >>sme<<
+   - >>udm<<
+   - >>vep<<
+BLEU-scores:
+   - Tatoeba-test.cor-fin.cor.fin: 2.0
+   - Tatoeba-test.gle-hun.gle.hun: 0.0
+   - Tatoeba-test.multi.multi: 1.9
+chr-F-scores:
+   - Tatoeba-test.cor-fin.cor.fin: 0.100
+   - Tatoeba-test.gle-hun.gle.hun: 0.216
+   - Tatoeba-test.multi.multi: 0.115

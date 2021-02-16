@@ -1,0 +1,21 @@
+release: bod-eng/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bod
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.bod.eng: 0.6
+   - Tatoeba-test.bod-eng.bod.eng: 0.6
+chr-F-scores:
+   - Tatoeba-test.bod.eng: 0.110
+   - Tatoeba-test.bod-eng.bod.eng: 0.110

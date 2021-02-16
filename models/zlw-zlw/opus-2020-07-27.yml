@@ -1,0 +1,42 @@
+release: zlw-zlw/opus-2020-07-27.zip
+release-date: 2020-07-27
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ces
+   - dsb
+   - hsb
+   - pol
+target-languages:
+   - ces
+   - dsb
+   - hsb
+   - pol
+use-target-labels:
+   - >>ces<<
+   - >>dsb<<
+   - >>hsb<<
+   - >>pol<<
+BLEU-scores:
+   - Tatoeba-test.ces-hsb.ces.hsb: 2.6
+   - Tatoeba-test.ces-pol.ces.pol: 44.0
+   - Tatoeba-test.dsb-pol.dsb.pol: 8.5
+   - Tatoeba-test.hsb-ces.hsb.ces: 9.6
+   - Tatoeba-test.multi.multi: 38.8
+   - Tatoeba-test.pol-ces.pol.ces: 43.4
+   - Tatoeba-test.pol-dsb.pol.dsb: 2.1
+chr-F-scores:
+   - Tatoeba-test.ces-hsb.ces.hsb: 0.167
+   - Tatoeba-test.ces-pol.ces.pol: 0.649
+   - Tatoeba-test.dsb-pol.dsb.pol: 0.250
+   - Tatoeba-test.hsb-ces.hsb.ces: 0.276
+   - Tatoeba-test.multi.multi: 0.580
+   - Tatoeba-test.pol-ces.pol.ces: 0.620
+   - Tatoeba-test.pol-dsb.pol.dsb: 0.159

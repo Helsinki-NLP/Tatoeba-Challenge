@@ -1,22 +1,4 @@
-# opus-2020-06-17.zip
-
-* dataset: opus
-* model: transformer-align
-* source language(s): jpn jpn_Hani jpn_Hira jpn_Kana jpn_Latn jpn_Yiii
-* target language(s): ita
-* model: transformer-align
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* download: [opus-2020-06-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ita/opus-2020-06-17.zip)
-* test set translations: [opus-2020-06-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ita/opus-2020-06-17.test.txt)
-* test set scores: [opus-2020-06-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ita/opus-2020-06-17.eval.txt)
-
-## Benchmarks
-
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.jpn.ita 	| 22.8 	| 0.460 |
-
-# opus-2020-09-10.zip
+# opus-2021-02-16.zip
 
 * dataset: opus
 * model: transformer
@@ -24,27 +6,9 @@
 * target language(s): ita
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* download: [opus-2020-09-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ita/opus-2020-09-10.zip)
-* test set translations: [opus-2020-09-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ita/opus-2020-09-10.test.txt)
-* test set scores: [opus-2020-09-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ita/opus-2020-09-10.eval.txt)
-
-## Benchmarks
-
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.jpn.ita 	| 22.8 	| 0.460 |
-
-# opus-2021-02-11.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): jpn
-* target language(s): ita
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* download: [opus-2021-02-11.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ita/opus-2021-02-11.zip)
-* test set translations: [opus-2021-02-11.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ita/opus-2021-02-11.test.txt)
-* test set scores: [opus-2021-02-11.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ita/opus-2021-02-11.eval.txt)
+* download: [opus-2021-02-16.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ita/opus-2021-02-16.zip)
+* test set translations: [opus-2021-02-16.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ita/opus-2021-02-16.test.txt)
+* test set scores: [opus-2021-02-16.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ita/opus-2021-02-16.eval.txt)
 
 ## Benchmarks
 

@@ -1,0 +1,78 @@
+release: gmq-gmq/opus-2020-07-06.zip
+release-date: 2020-07-06
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - dan
+   - fao
+   - isl
+   - nno
+   - nob
+   - swe
+target-languages:
+   - dan
+   - fao
+   - isl
+   - nno
+   - nob
+   - swe
+use-target-labels:
+   - >>dan<<
+   - >>fao<<
+   - >>isl<<
+   - >>nno<<
+   - >>nob<<
+   - >>swe<<
+BLEU-scores:
+   - Tatoeba-test.dan-fao.dan.fao: 8.1
+   - Tatoeba-test.dan-isl.dan.isl: 70.7
+   - Tatoeba-test.dan-nor.dan.nor: 12.1
+   - Tatoeba-test.dan-swe.dan.swe: 67.5
+   - Tatoeba-test.fao-dan.fao.dan: 18.0
+   - Tatoeba-test.fao-isl.fao.isl: 11.3
+   - Tatoeba-test.fao-nor.fao.nor: 7.9
+   - Tatoeba-test.fao-swe.fao.swe: 35.4
+   - Tatoeba-test.isl-dan.isl.dan: 100.0
+   - Tatoeba-test.isl-fao.isl.fao: 14.5
+   - Tatoeba-test.isl-nor.isl.nor: 14.1
+   - Tatoeba-test.isl-swe.isl.swe: 73.5
+   - Tatoeba-test.multi.multi: 67.5
+   - Tatoeba-test.nor-dan.nor.dan: 52.9
+   - Tatoeba-test.nor-fao.nor.fao: 2.0
+   - Tatoeba-test.nor-isl.nor.isl: 20.8
+   - Tatoeba-test.nor-nor.nor.nor: 11.2
+   - Tatoeba-test.nor-swe.nor.swe: 52.7
+   - Tatoeba-test.swe-dan.swe.dan: 67.5
+   - Tatoeba-test.swe-fao.swe.fao: 0.0
+   - Tatoeba-test.swe-isl.swe.isl: 70.7
+   - Tatoeba-test.swe-nor.swe.nor: 23.4
+chr-F-scores:
+   - Tatoeba-test.dan-fao.dan.fao: 0.122
+   - Tatoeba-test.dan-isl.dan.isl: 0.909
+   - Tatoeba-test.dan-nor.dan.nor: 0.417
+   - Tatoeba-test.dan-swe.dan.swe: 0.800
+   - Tatoeba-test.fao-dan.fao.dan: 0.474
+   - Tatoeba-test.fao-isl.fao.isl: 0.262
+   - Tatoeba-test.fao-nor.fao.nor: 0.299
+   - Tatoeba-test.fao-swe.fao.swe: 0.830
+   - Tatoeba-test.isl-dan.isl.dan: 1.000
+   - Tatoeba-test.isl-fao.isl.fao: 0.206
+   - Tatoeba-test.isl-nor.isl.nor: 0.396
+   - Tatoeba-test.isl-swe.isl.swe: 0.793
+   - Tatoeba-test.multi.multi: 0.799
+   - Tatoeba-test.nor-dan.nor.dan: 0.713
+   - Tatoeba-test.nor-fao.nor.fao: 0.228
+   - Tatoeba-test.nor-isl.nor.isl: 0.453
+   - Tatoeba-test.nor-nor.nor.nor: 0.419
+   - Tatoeba-test.nor-swe.nor.swe: 0.701
+   - Tatoeba-test.swe-dan.swe.dan: 0.799
+   - Tatoeba-test.swe-fao.swe.fao: 0.279
+   - Tatoeba-test.swe-isl.swe.isl: 0.822
+   - Tatoeba-test.swe-nor.swe.nor: 0.519

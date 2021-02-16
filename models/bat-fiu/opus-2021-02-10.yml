@@ -1,0 +1,60 @@
+release: bat-fiu/opus-2021-02-10.zip
+release-date: 2021-02-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - lav
+   - lit
+   - prg
+   - sgs
+target-languages:
+   - chm
+   - est
+   - fin
+   - fkv
+   - hun
+   - izh
+   - kom
+   - krl
+   - liv
+   - mdf
+   - myv
+   - olo
+   - sma
+   - sme
+   - udm
+   - vep
+use-target-labels:
+   - >>chm<<
+   - >>est<<
+   - >>fin<<
+   - >>fkv<<
+   - >>hun<<
+   - >>izh<<
+   - >>kom<<
+   - >>krl<<
+   - >>liv<<
+   - >>mdf<<
+   - >>myv<<
+   - >>olo<<
+   - >>sma<<
+   - >>sme<<
+   - >>udm<<
+   - >>vep<<
+BLEU-scores:
+   - Tatoeba-test.lav-est.lav.est: 12.6
+   - Tatoeba-test.lit-est.lit.est: 12.6
+   - Tatoeba-test.lit-fin.lit.fin: 39.0
+   - Tatoeba-test.multi.multi: 38.4
+chr-F-scores:
+   - Tatoeba-test.lav-est.lav.est: 0.740
+   - Tatoeba-test.lit-est.lit.est: 0.643
+   - Tatoeba-test.lit-fin.lit.fin: 0.621
+   - Tatoeba-test.multi.multi: 0.623

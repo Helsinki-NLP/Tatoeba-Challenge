@@ -1,0 +1,434 @@
+release: gmw-gmw/opus-2020-09-26.zip
+release-date: 2020-09-26
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - afr
+   - ang_Latn
+   - deu
+   - eng
+   - enm_Latn
+   - frr
+   - fry
+   - gos
+   - gsw
+   - ksh
+   - ltz
+   - nds
+   - nld
+   - pdc
+   - sco
+   - stq
+   - swg
+   - yid
+target-languages:
+   - afr
+   - ang_Latn
+   - deu
+   - eng
+   - enm_Latn
+   - frr
+   - fry
+   - gos
+   - gsw
+   - ksh
+   - ltz
+   - nds
+   - nld
+   - pdc
+   - sco
+   - stq
+   - swg
+   - yid
+use-target-labels:
+   - >>afr<<
+   - >>ang_Latn<<
+   - >>deu<<
+   - >>eng<<
+   - >>enm_Latn<<
+   - >>frr<<
+   - >>fry<<
+   - >>gos<<
+   - >>gsw<<
+   - >>ksh<<
+   - >>ltz<<
+   - >>nds<<
+   - >>nld<<
+   - >>pdc<<
+   - >>sco<<
+   - >>stq<<
+   - >>swg<<
+   - >>yid<<
+BLEU-scores:
+   - newssyscomb2009-deueng.deu.eng: 25.2
+   - newssyscomb2009-engdeu.eng.deu: 19.7
+   - news-test2008-deueng.deu.eng: 24.0
+   - news-test2008-engdeu.eng.deu: 19.5
+   - newstest2009-deueng.deu.eng: 23.4
+   - newstest2009-engdeu.eng.deu: 18.8
+   - newstest2010-deueng.deu.eng: 26.1
+   - newstest2010-engdeu.eng.deu: 20.9
+   - newstest2011-deueng.deu.eng: 23.9
+   - newstest2011-engdeu.eng.deu: 19.3
+   - newstest2012-deueng.deu.eng: 24.8
+   - newstest2012-engdeu.eng.deu: 19.6
+   - newstest2013-deueng.deu.eng: 27.8
+   - newstest2013-engdeu.eng.deu: 22.7
+   - newstest2014-deen-deueng.deu.eng: 27.5
+   - newstest2015-ende-deueng.deu.eng: 28.8
+   - newstest2015-ende-engdeu.eng.deu: 26.0
+   - newstest2016-ende-deueng.deu.eng: 33.6
+   - newstest2016-ende-engdeu.eng.deu: 30.3
+   - newstest2017-ende-deueng.deu.eng: 29.4
+   - newstest2017-ende-engdeu.eng.deu: 24.3
+   - newstest2018-ende-deueng.deu.eng: 36.3
+   - newstest2018-ende-engdeu.eng.deu: 35.5
+   - newstest2019-deen-deueng.deu.eng: 32.7
+   - newstest2019-ende-engdeu.eng.deu: 32.0
+   - Tatoeba-test.afr-ang.afr.ang: 0.0
+   - Tatoeba-test.afr-deu.afr.deu: 48.8
+   - Tatoeba-test.afr-eng.afr.eng: 58.7
+   - Tatoeba-test.afr-enm.afr.enm: 20.1
+   - Tatoeba-test.afr-fry.afr.fry: 0.0
+   - Tatoeba-test.afr-gos.afr.gos: 2.1
+   - Tatoeba-test.afr-ltz.afr.ltz: 2.4
+   - Tatoeba-test.afr-nld.afr.nld: 54.7
+   - Tatoeba-test.afr-yid.afr.yid: 59.5
+   - Tatoeba-test.ang-afr.ang.afr: 5.3
+   - Tatoeba-test.ang-deu.ang.deu: 1.3
+   - Tatoeba-test.ang-eng.ang.eng: 7.4
+   - Tatoeba-test.ang-enm.ang.enm: 2.0
+   - Tatoeba-test.ang-gos.ang.gos: 5.0
+   - Tatoeba-test.ang-ltz.ang.ltz: 0.0
+   - Tatoeba-test.ang-yid.ang.yid: 0.9
+   - Tatoeba-test.deu-afr.deu.afr: 52.3
+   - Tatoeba-test.deu-ang.deu.ang: 0.9
+   - Tatoeba-test.deu-eng.deu.eng: 44.4
+   - Tatoeba-test.deu-enm.deu.enm: 3.2
+   - Tatoeba-test.deu-frr.deu.frr: 0.8
+   - Tatoeba-test.deu-fry.deu.fry: 14.1
+   - Tatoeba-test.deu-gos.deu.gos: 1.8
+   - Tatoeba-test.deu-gsw.deu.gsw: 1.1
+   - Tatoeba-test.deu-ksh.deu.ksh: 0.6
+   - Tatoeba-test.deu-ltz.deu.ltz: 9.9
+   - Tatoeba-test.deu-nds.deu.nds: 18.6
+   - Tatoeba-test.deu-nld.deu.nld: 48.8
+   - Tatoeba-test.deu-pdc.deu.pdc: 5.7
+   - Tatoeba-test.deu-sco.deu.sco: 9.9
+   - Tatoeba-test.deu-stq.deu.stq: 1.6
+   - Tatoeba-test.deu-swg.deu.swg: 0.3
+   - Tatoeba-test.deu-yid.deu.yid: 1.6
+   - Tatoeba-test.eng-afr.eng.afr: 56.7
+   - Tatoeba-test.eng-ang.eng.ang: 5.8
+   - Tatoeba-test.eng-deu.eng.deu: 37.4
+   - Tatoeba-test.eng-enm.eng.enm: 2.1
+   - Tatoeba-test.eng-frr.eng.frr: 3.6
+   - Tatoeba-test.eng-fry.eng.fry: 15.6
+   - Tatoeba-test.eng-gos.eng.gos: 1.9
+   - Tatoeba-test.eng-gsw.eng.gsw: 0.8
+   - Tatoeba-test.eng-ksh.eng.ksh: 1.0
+   - Tatoeba-test.eng-ltz.eng.ltz: 11.4
+   - Tatoeba-test.eng-nds.eng.nds: 17.0
+   - Tatoeba-test.eng-nld.eng.nld: 50.2
+   - Tatoeba-test.eng-pdc.eng.pdc: 3.5
+   - Tatoeba-test.eng-sco.eng.sco: 36.9
+   - Tatoeba-test.eng-stq.eng.stq: 5.4
+   - Tatoeba-test.eng-swg.eng.swg: 1.0
+   - Tatoeba-test.eng-yid.eng.yid: 2.0
+   - Tatoeba-test.enm-afr.enm.afr: 16.0
+   - Tatoeba-test.enm-ang.enm.ang: 0.8
+   - Tatoeba-test.enm-deu.enm.deu: 38.4
+   - Tatoeba-test.enm-eng.enm.eng: 23.3
+   - Tatoeba-test.enm-fry.enm.fry: 16.0
+   - Tatoeba-test.enm-gos.enm.gos: 12.8
+   - Tatoeba-test.enm-ksh.enm.ksh: 3.9
+   - Tatoeba-test.enm-nds.enm.nds: 14.0
+   - Tatoeba-test.enm-nld.enm.nld: 33.8
+   - Tatoeba-test.enm-yid.enm.yid: 2.5
+   - Tatoeba-test.frr-deu.frr.deu: 5.3
+   - Tatoeba-test.frr-eng.frr.eng: 18.4
+   - Tatoeba-test.frr-fry.frr.fry: 4.1
+   - Tatoeba-test.frr-gos.frr.gos: 3.2
+   - Tatoeba-test.frr-nds.frr.nds: 12.4
+   - Tatoeba-test.frr-nld.frr.nld: 5.8
+   - Tatoeba-test.frr-stq.frr.stq: 2.8
+   - Tatoeba-test.fry-afr.fry.afr: 0.0
+   - Tatoeba-test.fry-deu.fry.deu: 27.4
+   - Tatoeba-test.fry-eng.fry.eng: 29.8
+   - Tatoeba-test.fry-enm.fry.enm: 4.8
+   - Tatoeba-test.fry-frr.fry.frr: 3.1
+   - Tatoeba-test.fry-gos.fry.gos: 1.5
+   - Tatoeba-test.fry-ltz.fry.ltz: 29.9
+   - Tatoeba-test.fry-nds.fry.nds: 12.4
+   - Tatoeba-test.fry-nld.fry.nld: 42.2
+   - Tatoeba-test.fry-stq.fry.stq: 2.9
+   - Tatoeba-test.fry-yid.fry.yid: 3.3
+   - Tatoeba-test.gos-afr.gos.afr: 11.4
+   - Tatoeba-test.gos-ang.gos.ang: 5.3
+   - Tatoeba-test.gos-deu.gos.deu: 16.4
+   - Tatoeba-test.gos-eng.gos.eng: 13.8
+   - Tatoeba-test.gos-enm.gos.enm: 12.1
+   - Tatoeba-test.gos-frr.gos.frr: 3.3
+   - Tatoeba-test.gos-fry.gos.fry: 16.7
+   - Tatoeba-test.gos-ltz.gos.ltz: 1.9
+   - Tatoeba-test.gos-nds.gos.nds: 4.6
+   - Tatoeba-test.gos-nld.gos.nld: 15.0
+   - Tatoeba-test.gos-stq.gos.stq: 2.0
+   - Tatoeba-test.gos-yid.gos.yid: 4.3
+   - Tatoeba-test.gsw-deu.gsw.deu: 11.5
+   - Tatoeba-test.gsw-eng.gsw.eng: 13.9
+   - Tatoeba-test.ksh-deu.ksh.deu: 15.3
+   - Tatoeba-test.ksh-eng.ksh.eng: 5.0
+   - Tatoeba-test.ksh-enm.ksh.enm: 20.1
+   - Tatoeba-test.ltz-afr.ltz.afr: 38.1
+   - Tatoeba-test.ltz-ang.ltz.ang: 16.0
+   - Tatoeba-test.ltz-deu.ltz.deu: 38.2
+   - Tatoeba-test.ltz-eng.ltz.eng: 30.8
+   - Tatoeba-test.ltz-fry.ltz.fry: 18.5
+   - Tatoeba-test.ltz-gos.ltz.gos: 2.6
+   - Tatoeba-test.ltz-nld.ltz.nld: 37.9
+   - Tatoeba-test.ltz-stq.ltz.stq: 3.8
+   - Tatoeba-test.ltz-yid.ltz.yid: 7.7
+   - Tatoeba-test.multi.multi: 36.7
+   - Tatoeba-test.nds-deu.nds.deu: 34.7
+   - Tatoeba-test.nds-eng.nds.eng: 29.6
+   - Tatoeba-test.nds-enm.nds.enm: 7.6
+   - Tatoeba-test.nds-frr.nds.frr: 4.2
+   - Tatoeba-test.nds-fry.nds.fry: 12.4
+   - Tatoeba-test.nds-gos.nds.gos: 2.5
+   - Tatoeba-test.nds-nld.nds.nld: 42.4
+   - Tatoeba-test.nds-swg.nds.swg: 0.6
+   - Tatoeba-test.nds-yid.nds.yid: 6.1
+   - Tatoeba-test.nld-afr.nld.afr: 59.1
+   - Tatoeba-test.nld-deu.nld.deu: 50.7
+   - Tatoeba-test.nld-eng.nld.eng: 54.4
+   - Tatoeba-test.nld-enm.nld.enm: 8.2
+   - Tatoeba-test.nld-frr.nld.frr: 3.3
+   - Tatoeba-test.nld-fry.nld.fry: 23.3
+   - Tatoeba-test.nld-gos.nld.gos: 2.6
+   - Tatoeba-test.nld-ltz.nld.ltz: 12.0
+   - Tatoeba-test.nld-nds.nld.nds: 21.7
+   - Tatoeba-test.nld-sco.nld.sco: 21.1
+   - Tatoeba-test.nld-stq.nld.stq: 1.8
+   - Tatoeba-test.nld-swg.nld.swg: 3.4
+   - Tatoeba-test.nld-yid.nld.yid: 5.7
+   - Tatoeba-test.pdc-deu.pdc.deu: 39.1
+   - Tatoeba-test.pdc-eng.pdc.eng: 23.4
+   - Tatoeba-test.sco-deu.sco.deu: 33.2
+   - Tatoeba-test.sco-eng.sco.eng: 44.6
+   - Tatoeba-test.sco-nld.sco.nld: 35.6
+   - Tatoeba-test.stq-deu.stq.deu: 8.6
+   - Tatoeba-test.stq-eng.stq.eng: 21.9
+   - Tatoeba-test.stq-frr.stq.frr: 1.9
+   - Tatoeba-test.stq-fry.stq.fry: 4.3
+   - Tatoeba-test.stq-gos.stq.gos: 0.6
+   - Tatoeba-test.stq-ltz.stq.ltz: 1.2
+   - Tatoeba-test.stq-nld.stq.nld: 16.9
+   - Tatoeba-test.stq-yid.stq.yid: 2.2
+   - Tatoeba-test.swg-deu.swg.deu: 9.2
+   - Tatoeba-test.swg-eng.swg.eng: 12.4
+   - Tatoeba-test.swg-nds.swg.nds: 0.7
+   - Tatoeba-test.swg-nld.swg.nld: 10.6
+   - Tatoeba-test.swg-yid.swg.yid: 1.2
+   - Tatoeba-test.yid-afr.yid.afr: 59.5
+   - Tatoeba-test.yid-ang.yid.ang: 0.8
+   - Tatoeba-test.yid-deu.yid.deu: 18.3
+   - Tatoeba-test.yid-eng.yid.eng: 15.1
+   - Tatoeba-test.yid-enm.yid.enm: 1.4
+   - Tatoeba-test.yid-fry.yid.fry: 12.3
+   - Tatoeba-test.yid-gos.yid.gos: 4.3
+   - Tatoeba-test.yid-ltz.yid.ltz: 9.1
+   - Tatoeba-test.yid-nds.yid.nds: 10.2
+   - Tatoeba-test.yid-nld.yid.nld: 19.7
+   - Tatoeba-test.yid-stq.yid.stq: 6.5
+   - Tatoeba-test.yid-swg.yid.swg: 1.2
+chr-F-scores:
+   - newssyscomb2009-deueng.deu.eng: 0.526
+   - newssyscomb2009-engdeu.eng.deu: 0.505
+   - news-test2008-deueng.deu.eng: 0.519
+   - news-test2008-engdeu.eng.deu: 0.494
+   - newstest2009-deueng.deu.eng: 0.517
+   - newstest2009-engdeu.eng.deu: 0.499
+   - newstest2010-deueng.deu.eng: 0.547
+   - newstest2010-engdeu.eng.deu: 0.509
+   - newstest2011-deueng.deu.eng: 0.524
+   - newstest2011-engdeu.eng.deu: 0.494
+   - newstest2012-deueng.deu.eng: 0.532
+   - newstest2012-engdeu.eng.deu: 0.493
+   - newstest2013-deueng.deu.eng: 0.548
+   - newstest2013-engdeu.eng.deu: 0.518
+   - newstest2014-deen-deueng.deu.eng: 0.549
+   - newstest2015-ende-deueng.deu.eng: 0.554
+   - newstest2015-ende-engdeu.eng.deu: 0.546
+   - newstest2016-ende-deueng.deu.eng: 0.598
+   - newstest2016-ende-engdeu.eng.deu: 0.581
+   - newstest2017-ende-deueng.deu.eng: 0.560
+   - newstest2017-ende-engdeu.eng.deu: 0.536
+   - newstest2018-ende-deueng.deu.eng: 0.611
+   - newstest2018-ende-engdeu.eng.deu: 0.615
+   - newstest2019-deen-deueng.deu.eng: 0.585
+   - newstest2019-ende-engdeu.eng.deu: 0.587
+   - Tatoeba-test.afr-ang.afr.ang: 0.066
+   - Tatoeba-test.afr-deu.afr.deu: 0.679
+   - Tatoeba-test.afr-eng.afr.eng: 0.727
+   - Tatoeba-test.afr-enm.afr.enm: 0.412
+   - Tatoeba-test.afr-fry.afr.fry: 0.296
+   - Tatoeba-test.afr-gos.afr.gos: 0.227
+   - Tatoeba-test.afr-ltz.afr.ltz: 0.151
+   - Tatoeba-test.afr-nld.afr.nld: 0.710
+   - Tatoeba-test.afr-yid.afr.yid: 0.443
+   - Tatoeba-test.ang-afr.ang.afr: 0.049
+   - Tatoeba-test.ang-deu.ang.deu: 0.156
+   - Tatoeba-test.ang-eng.ang.eng: 0.209
+   - Tatoeba-test.ang-enm.ang.enm: 0.197
+   - Tatoeba-test.ang-gos.ang.gos: 0.252
+   - Tatoeba-test.ang-ltz.ang.ltz: 0.184
+   - Tatoeba-test.ang-yid.ang.yid: 0.134
+   - Tatoeba-test.deu-afr.deu.afr: 0.697
+   - Tatoeba-test.deu-ang.deu.ang: 0.105
+   - Tatoeba-test.deu-eng.deu.eng: 0.628
+   - Tatoeba-test.deu-enm.deu.enm: 0.203
+   - Tatoeba-test.deu-frr.deu.frr: 0.171
+   - Tatoeba-test.deu-fry.deu.fry: 0.365
+   - Tatoeba-test.deu-gos.deu.gos: 0.292
+   - Tatoeba-test.deu-gsw.deu.gsw: 0.145
+   - Tatoeba-test.deu-ksh.deu.ksh: 0.186
+   - Tatoeba-test.deu-ltz.deu.ltz: 0.265
+   - Tatoeba-test.deu-nds.deu.nds: 0.442
+   - Tatoeba-test.deu-nld.deu.nld: 0.672
+   - Tatoeba-test.deu-pdc.deu.pdc: 0.215
+   - Tatoeba-test.deu-sco.deu.sco: 0.297
+   - Tatoeba-test.deu-stq.deu.stq: 0.212
+   - Tatoeba-test.deu-swg.deu.swg: 0.156
+   - Tatoeba-test.deu-yid.deu.yid: 0.169
+   - Tatoeba-test.eng-afr.eng.afr: 0.735
+   - Tatoeba-test.eng-ang.eng.ang: 0.124
+   - Tatoeba-test.eng-deu.eng.deu: 0.590
+   - Tatoeba-test.eng-enm.eng.enm: 0.258
+   - Tatoeba-test.eng-frr.eng.frr: 0.231
+   - Tatoeba-test.eng-fry.eng.fry: 0.380
+   - Tatoeba-test.eng-gos.eng.gos: 0.273
+   - Tatoeba-test.eng-gsw.eng.gsw: 0.161
+   - Tatoeba-test.eng-ksh.eng.ksh: 0.181
+   - Tatoeba-test.eng-ltz.eng.ltz: 0.263
+   - Tatoeba-test.eng-nds.eng.nds: 0.413
+   - Tatoeba-test.eng-nld.eng.nld: 0.678
+   - Tatoeba-test.eng-pdc.eng.pdc: 0.216
+   - Tatoeba-test.eng-sco.eng.sco: 0.596
+   - Tatoeba-test.eng-stq.eng.stq: 0.323
+   - Tatoeba-test.eng-swg.eng.swg: 0.177
+   - Tatoeba-test.eng-yid.eng.yid: 0.191
+   - Tatoeba-test.enm-afr.enm.afr: 0.423
+   - Tatoeba-test.enm-ang.enm.ang: 0.060
+   - Tatoeba-test.enm-deu.enm.deu: 0.514
+   - Tatoeba-test.enm-eng.enm.eng: 0.525
+   - Tatoeba-test.enm-fry.enm.fry: 0.178
+   - Tatoeba-test.enm-gos.enm.gos: 0.474
+   - Tatoeba-test.enm-ksh.enm.ksh: 0.132
+   - Tatoeba-test.enm-nds.enm.nds: 0.342
+   - Tatoeba-test.enm-nld.enm.nld: 0.510
+   - Tatoeba-test.enm-yid.enm.yid: 0.178
+   - Tatoeba-test.frr-deu.frr.deu: 0.226
+   - Tatoeba-test.frr-eng.frr.eng: 0.200
+   - Tatoeba-test.frr-fry.frr.fry: 0.145
+   - Tatoeba-test.frr-gos.frr.gos: 0.208
+   - Tatoeba-test.frr-nds.frr.nds: 0.145
+   - Tatoeba-test.frr-nld.frr.nld: 0.193
+   - Tatoeba-test.frr-stq.frr.stq: 0.135
+   - Tatoeba-test.fry-afr.fry.afr: 1.000
+   - Tatoeba-test.fry-deu.fry.deu: 0.528
+   - Tatoeba-test.fry-eng.fry.eng: 0.491
+   - Tatoeba-test.fry-enm.fry.enm: 0.171
+   - Tatoeba-test.fry-frr.fry.frr: 0.132
+   - Tatoeba-test.fry-gos.fry.gos: 0.294
+   - Tatoeba-test.fry-ltz.fry.ltz: 0.427
+   - Tatoeba-test.fry-nds.fry.nds: 0.053
+   - Tatoeba-test.fry-nld.fry.nld: 0.637
+   - Tatoeba-test.fry-stq.fry.stq: 0.233
+   - Tatoeba-test.fry-yid.fry.yid: 0.145
+   - Tatoeba-test.gos-afr.gos.afr: 0.374
+   - Tatoeba-test.gos-ang.gos.ang: 0.076
+   - Tatoeba-test.gos-deu.gos.deu: 0.388
+   - Tatoeba-test.gos-eng.gos.eng: 0.313
+   - Tatoeba-test.gos-enm.gos.enm: 0.289
+   - Tatoeba-test.gos-frr.gos.frr: 0.129
+   - Tatoeba-test.gos-fry.gos.fry: 0.380
+   - Tatoeba-test.gos-ltz.gos.ltz: 0.179
+   - Tatoeba-test.gos-nds.gos.nds: 0.245
+   - Tatoeba-test.gos-nld.gos.nld: 0.403
+   - Tatoeba-test.gos-stq.gos.stq: 0.204
+   - Tatoeba-test.gos-yid.gos.yid: 0.187
+   - Tatoeba-test.gsw-deu.gsw.deu: 0.340
+   - Tatoeba-test.gsw-eng.gsw.eng: 0.311
+   - Tatoeba-test.ksh-deu.ksh.deu: 0.416
+   - Tatoeba-test.ksh-eng.ksh.eng: 0.242
+   - Tatoeba-test.ksh-enm.ksh.enm: 0.412
+   - Tatoeba-test.ltz-afr.ltz.afr: 0.516
+   - Tatoeba-test.ltz-ang.ltz.ang: 0.040
+   - Tatoeba-test.ltz-deu.ltz.deu: 0.563
+   - Tatoeba-test.ltz-eng.ltz.eng: 0.463
+   - Tatoeba-test.ltz-fry.ltz.fry: 0.589
+   - Tatoeba-test.ltz-gos.ltz.gos: 0.174
+   - Tatoeba-test.ltz-nld.ltz.nld: 0.527
+   - Tatoeba-test.ltz-stq.ltz.stq: 0.173
+   - Tatoeba-test.ltz-yid.ltz.yid: 0.245
+   - Tatoeba-test.multi.multi: 0.567
+   - Tatoeba-test.nds-deu.nds.deu: 0.572
+   - Tatoeba-test.nds-eng.nds.eng: 0.490
+   - Tatoeba-test.nds-enm.nds.enm: 0.177
+   - Tatoeba-test.nds-frr.nds.frr: 0.118
+   - Tatoeba-test.nds-fry.nds.fry: 0.043
+   - Tatoeba-test.nds-gos.nds.gos: 0.262
+   - Tatoeba-test.nds-nld.nds.nld: 0.622
+   - Tatoeba-test.nds-swg.nds.swg: 0.181
+   - Tatoeba-test.nds-yid.nds.yid: 0.308
+   - Tatoeba-test.nld-afr.nld.afr: 0.756
+   - Tatoeba-test.nld-deu.nld.deu: 0.688
+   - Tatoeba-test.nld-eng.nld.eng: 0.702
+   - Tatoeba-test.nld-enm.nld.enm: 0.249
+   - Tatoeba-test.nld-frr.nld.frr: 0.224
+   - Tatoeba-test.nld-fry.nld.fry: 0.457
+   - Tatoeba-test.nld-gos.nld.gos: 0.282
+   - Tatoeba-test.nld-ltz.nld.ltz: 0.294
+   - Tatoeba-test.nld-nds.nld.nds: 0.462
+   - Tatoeba-test.nld-sco.nld.sco: 0.468
+   - Tatoeba-test.nld-stq.nld.stq: 0.279
+   - Tatoeba-test.nld-swg.nld.swg: 0.154
+   - Tatoeba-test.nld-yid.nld.yid: 0.239
+   - Tatoeba-test.pdc-deu.pdc.deu: 0.500
+   - Tatoeba-test.pdc-eng.pdc.eng: 0.404
+   - Tatoeba-test.sco-deu.sco.deu: 0.422
+   - Tatoeba-test.sco-eng.sco.eng: 0.595
+   - Tatoeba-test.sco-nld.sco.nld: 0.524
+   - Tatoeba-test.stq-deu.stq.deu: 0.358
+   - Tatoeba-test.stq-eng.stq.eng: 0.440
+   - Tatoeba-test.stq-frr.stq.frr: 0.103
+   - Tatoeba-test.stq-fry.stq.fry: 0.244
+   - Tatoeba-test.stq-gos.stq.gos: 0.190
+   - Tatoeba-test.stq-ltz.stq.ltz: 0.097
+   - Tatoeba-test.stq-nld.stq.nld: 0.402
+   - Tatoeba-test.stq-yid.stq.yid: 0.138
+   - Tatoeba-test.swg-deu.swg.deu: 0.338
+   - Tatoeba-test.swg-eng.swg.eng: 0.325
+   - Tatoeba-test.swg-nds.swg.nds: 0.191
+   - Tatoeba-test.swg-nld.swg.nld: 0.253
+   - Tatoeba-test.swg-yid.swg.yid: 0.144
+   - Tatoeba-test.yid-afr.yid.afr: 0.891
+   - Tatoeba-test.yid-ang.yid.ang: 0.079
+   - Tatoeba-test.yid-deu.yid.deu: 0.386
+   - Tatoeba-test.yid-eng.yid.eng: 0.335
+   - Tatoeba-test.yid-enm.yid.enm: 0.167
+   - Tatoeba-test.yid-fry.yid.fry: 0.158
+   - Tatoeba-test.yid-gos.yid.gos: 0.193
+   - Tatoeba-test.yid-ltz.yid.ltz: 0.336
+   - Tatoeba-test.yid-nds.yid.nds: 0.414
+   - Tatoeba-test.yid-nld.yid.nld: 0.382
+   - Tatoeba-test.yid-stq.yid.stq: 0.177
+   - Tatoeba-test.yid-swg.yid.swg: 0.143

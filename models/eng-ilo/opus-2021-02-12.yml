@@ -1,0 +1,21 @@
+release: eng-ilo/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - ilo
+BLEU-scores:
+   - Tatoeba-test.eng.ilo: 30.8
+   - Tatoeba-test.eng-ilo.eng.ilo: 30.8
+chr-F-scores:
+   - Tatoeba-test.eng.ilo: 0.569
+   - Tatoeba-test.eng-ilo.eng.ilo: 0.569

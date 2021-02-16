@@ -1,0 +1,21 @@
+# opus-2021-02-12.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): hun
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus-2021-02-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/hun-eng/opus-2021-02-12.zip)
+* test set translations: [opus-2021-02-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/hun-eng/opus-2021-02-12.test.txt)
+* test set scores: [opus-2021-02-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/hun-eng/opus-2021-02-12.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| newssyscomb2009-huneng.hun.eng 	| 23.5 	| 0.516 |
+| newstest2009-huneng.hun.eng 	| 22.5 	| 0.510 |
+| Tatoeba-test.hun.eng 	| 51.4 	| 0.675 |
+| Tatoeba-test.hun-eng.hun.eng 	| 51.4 	| 0.675 |
+

@@ -1,0 +1,87 @@
+release: fiu-eng/opus4m-2020-08-12.zip
+release-date: 2020-08-12
+dataset-name: opus4m
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - est
+   - fin
+   - fkv_Latn
+   - hun
+   - izh
+   - kpv
+   - krl
+   - liv_Latn
+   - mdf
+   - mhr
+   - myv
+   - sma
+   - sme
+   - udm
+   - vro
+target-languages:
+   - eng
+BLEU-scores:
+   - newsdev2015-enfi-fineng.fin.eng: 23.2
+   - newsdev2018-enet-esteng.est.eng: 27.4
+   - newssyscomb2009-huneng.hun.eng: 21.5
+   - newstest2009-huneng.hun.eng: 20.6
+   - newstest2015-enfi-fineng.fin.eng: 24.9
+   - newstest2016-enfi-fineng.fin.eng: 26.4
+   - newstest2017-enfi-fineng.fin.eng: 29.4
+   - newstest2018-enet-esteng.est.eng: 27.7
+   - newstest2018-enfi-fineng.fin.eng: 21.9
+   - newstest2019-fien-fineng.fin.eng: 26.5
+   - newstestB2016-enfi-fineng.fin.eng: 22.3
+   - newstestB2017-enfi-fineng.fin.eng: 24.9
+   - newstestB2017-fien-fineng.fin.eng: 24.9
+   - Tatoeba-test.chm-eng.chm.eng: 1.1
+   - Tatoeba-test.est-eng.est.eng: 55.1
+   - Tatoeba-test.fin-eng.fin.eng: 49.3
+   - Tatoeba-test.fkv-eng.fkv.eng: 10.6
+   - Tatoeba-test.hun-eng.hun.eng: 47.8
+   - Tatoeba-test.izh-eng.izh.eng: 48.3
+   - Tatoeba-test.kom-eng.kom.eng: 0.6
+   - Tatoeba-test.krl-eng.krl.eng: 35.4
+   - Tatoeba-test.liv-eng.liv.eng: 1.4
+   - Tatoeba-test.mdf-eng.mdf.eng: 1.3
+   - Tatoeba-test.multi.eng: 48.7
+   - Tatoeba-test.myv-eng.myv.eng: 0.3
+   - Tatoeba-test.sma-eng.sma.eng: 2.3
+   - Tatoeba-test.sme-eng.sme.eng: 8.7
+   - Tatoeba-test.udm-eng.udm.eng: 0.9
+chr-F-scores:
+   - newsdev2015-enfi-fineng.fin.eng: 0.518
+   - newsdev2018-enet-esteng.est.eng: 0.552
+   - newssyscomb2009-huneng.hun.eng: 0.499
+   - newstest2009-huneng.hun.eng: 0.493
+   - newstest2015-enfi-fineng.fin.eng: 0.528
+   - newstest2016-enfi-fineng.fin.eng: 0.549
+   - newstest2017-enfi-fineng.fin.eng: 0.569
+   - newstest2018-enet-esteng.est.eng: 0.560
+   - newstest2018-enfi-fineng.fin.eng: 0.497
+   - newstest2019-fien-fineng.fin.eng: 0.541
+   - newstestB2016-enfi-fineng.fin.eng: 0.508
+   - newstestB2017-enfi-fineng.fin.eng: 0.535
+   - newstestB2017-fien-fineng.fin.eng: 0.535
+   - Tatoeba-test.chm-eng.chm.eng: 0.166
+   - Tatoeba-test.est-eng.est.eng: 0.706
+   - Tatoeba-test.fin-eng.fin.eng: 0.665
+   - Tatoeba-test.fkv-eng.fkv.eng: 0.391
+   - Tatoeba-test.hun-eng.hun.eng: 0.647
+   - Tatoeba-test.izh-eng.izh.eng: 0.678
+   - Tatoeba-test.kom-eng.kom.eng: 0.105
+   - Tatoeba-test.krl-eng.krl.eng: 0.491
+   - Tatoeba-test.liv-eng.liv.eng: 0.072
+   - Tatoeba-test.mdf-eng.mdf.eng: 0.123
+   - Tatoeba-test.multi.eng: 0.655
+   - Tatoeba-test.myv-eng.myv.eng: 0.114
+   - Tatoeba-test.sma-eng.sma.eng: 0.105
+   - Tatoeba-test.sme-eng.sme.eng: 0.251
+   - Tatoeba-test.udm-eng.udm.eng: 0.119

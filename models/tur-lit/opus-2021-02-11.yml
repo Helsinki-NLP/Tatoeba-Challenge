@@ -1,0 +1,21 @@
+release: tur-lit/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - tur
+target-languages:
+   - lit
+BLEU-scores:
+   - Tatoeba-test.tur.lit: 35.6
+   - Tatoeba-test.tur-lit.tur.lit: 35.6
+chr-F-scores:
+   - Tatoeba-test.tur.lit: 0.631
+   - Tatoeba-test.tur-lit.tur.lit: 0.631

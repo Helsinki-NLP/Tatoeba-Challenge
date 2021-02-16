@@ -1,0 +1,23 @@
+release: jpn-hun/opus-2020-06-17.zip
+release-date: 2020-06-17
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - jpn_Bopo
+   - jpn_Hani
+   - jpn_Hira
+   - jpn_Kana
+   - jpn_Yiii
+target-languages:
+   - hun
+BLEU-scores:
+   - Tatoeba-test.jpn.hun: 12.2
+chr-F-scores:
+   - Tatoeba-test.jpn.hun: 0.364

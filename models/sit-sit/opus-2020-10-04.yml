@@ -1,0 +1,100 @@
+release: sit-sit/opus-2020-10-04.zip
+release-date: 2020-10-04
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bod
+   - brx
+   - brx_Latn
+   - cjy_Hans
+   - cjy_Hant
+   - cmn
+   - cmn_Hans
+   - cmn_Hant
+   - eng
+   - gan
+   - hak
+   - hak_Hani
+   - hsn_Hani
+   - lzh
+   - lzh_Hans
+   - mya
+   - nan
+   - wuu
+   - yue_Hans
+   - yue_Hant
+target-languages:
+   - bod
+   - brx
+   - brx_Latn
+   - cjy_Hans
+   - cjy_Hant
+   - cmn
+   - cmn_Hans
+   - cmn_Hant
+   - eng
+   - gan
+   - hak
+   - hak_Hani
+   - hsn_Hani
+   - lzh
+   - lzh_Hans
+   - mya
+   - nan
+   - wuu
+   - yue_Hans
+   - yue_Hant
+use-target-labels:
+   - >>bod<<
+   - >>brx<<
+   - >>brx_Latn<<
+   - >>cjy_Hans<<
+   - >>cjy_Hant<<
+   - >>cmn<<
+   - >>cmn_Hans<<
+   - >>cmn_Hant<<
+   - >>eng<<
+   - >>gan<<
+   - >>hak<<
+   - >>hak_Hani<<
+   - >>hsn_Hani<<
+   - >>lzh<<
+   - >>lzh_Hans<<
+   - >>mya<<
+   - >>nan<<
+   - >>wuu<<
+   - >>yue_Hans<<
+   - >>yue_Hant<<
+BLEU-scores:
+   - Tatoeba-test.bod-eng.bod.eng: 2.2
+   - Tatoeba-test.brx-eng.brx.eng: 2.8
+   - Tatoeba-test.eng-bod.eng.bod: 3.1
+   - Tatoeba-test.eng-brx.eng.brx: 0.5
+   - Tatoeba-test.eng-mya.eng.mya: 0.4
+   - Tatoeba-test.eng-zho.eng.zho: 28.1
+   - Tatoeba-test.multi.multi: 28.4
+   - Tatoeba-test.mya-eng.mya.eng: 15.6
+   - Tatoeba-test.mya-zho.mya.zho: 3.6
+   - Tatoeba-test.zho-eng.zho.eng: 29.8
+   - Tatoeba-test.zho-mya.zho.mya: 0.4
+   - Tatoeba-test.zho-zho.zho.zho: 13.1
+chr-F-scores:
+   - Tatoeba-test.bod-eng.bod.eng: 0.135
+   - Tatoeba-test.brx-eng.brx.eng: 0.134
+   - Tatoeba-test.eng-bod.eng.bod: 0.132
+   - Tatoeba-test.eng-brx.eng.brx: 0.071
+   - Tatoeba-test.eng-mya.eng.mya: 0.160
+   - Tatoeba-test.eng-zho.eng.zho: 0.239
+   - Tatoeba-test.multi.multi: 0.428
+   - Tatoeba-test.mya-eng.mya.eng: 0.361
+   - Tatoeba-test.mya-zho.mya.zho: 0.056
+   - Tatoeba-test.zho-eng.zho.eng: 0.495
+   - Tatoeba-test.zho-mya.zho.mya: 0.146
+   - Tatoeba-test.zho-zho.zho.zho: 0.099

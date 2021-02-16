@@ -1,0 +1,45 @@
+release: eng-deu/opus-2021-02-13.zip
+release-date: 2021-02-13
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - deu
+BLEU-scores:
+   - newssyscomb2009-engdeu.eng.deu: 23.3
+   - news-test2008-engdeu.eng.deu: 23.9
+   - newstest2009-engdeu.eng.deu: 22.7
+   - newstest2010-engdeu.eng.deu: 25.9
+   - newstest2011-engdeu.eng.deu: 22.9
+   - newstest2012-engdeu.eng.deu: 23.8
+   - newstest2013-engdeu.eng.deu: 27.6
+   - newstest2015-ende-engdeu.eng.deu: 32.0
+   - newstest2016-ende-engdeu.eng.deu: 37.9
+   - newstest2017-ende-engdeu.eng.deu: 30.6
+   - newstest2018-ende-engdeu.eng.deu: 46.4
+   - newstest2019-ende-engdeu.eng.deu: 42.4
+   - Tatoeba-test.eng.deu: 45.8
+   - Tatoeba-test.eng-deu.eng.deu: 45.8
+chr-F-scores:
+   - newssyscomb2009-engdeu.eng.deu: 0.539
+   - news-test2008-engdeu.eng.deu: 0.533
+   - newstest2009-engdeu.eng.deu: 0.533
+   - newstest2010-engdeu.eng.deu: 0.550
+   - newstest2011-engdeu.eng.deu: 0.528
+   - newstest2012-engdeu.eng.deu: 0.530
+   - newstest2013-engdeu.eng.deu: 0.558
+   - newstest2015-ende-engdeu.eng.deu: 0.601
+   - newstest2016-ende-engdeu.eng.deu: 0.644
+   - newstest2017-ende-engdeu.eng.deu: 0.593
+   - newstest2018-ende-engdeu.eng.deu: 0.697
+   - newstest2019-ende-engdeu.eng.deu: 0.664
+   - Tatoeba-test.eng.deu: 0.655
+   - Tatoeba-test.eng-deu.eng.deu: 0.655

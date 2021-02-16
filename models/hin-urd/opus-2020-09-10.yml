@@ -1,0 +1,23 @@
+release: hin-urd/opus-2020-09-10.zip
+release-date: 2020-09-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - hin
+target-languages:
+   - urd
+   - urd_Deva
+use-target-labels:
+   - >>urd<<
+   - >>urd_Deva<<
+BLEU-scores:
+   - Tatoeba-test.hin.urd: 1.7
+chr-F-scores:
+   - Tatoeba-test.hin.urd: 0.174

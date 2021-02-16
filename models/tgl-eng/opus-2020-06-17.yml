@@ -1,0 +1,19 @@
+release: tgl-eng/opus-2020-06-17.zip
+release-date: 2020-06-17
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - tgl_Latn
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.tgl.eng: 35.0
+chr-F-scores:
+   - Tatoeba-test.tgl.eng: 0.542

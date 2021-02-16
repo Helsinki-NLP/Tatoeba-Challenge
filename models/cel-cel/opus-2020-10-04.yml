@@ -1,0 +1,83 @@
+release: cel-cel/opus-2020-10-04.zip
+release-date: 2020-10-04
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bre
+   - cor
+   - cym
+   - eng
+   - gla
+   - gle
+   - glv
+target-languages:
+   - bre
+   - cor
+   - cym
+   - eng
+   - gla
+   - gle
+   - glv
+use-target-labels:
+   - >>bre<<
+   - >>cor<<
+   - >>cym<<
+   - >>eng<<
+   - >>gla<<
+   - >>gle<<
+   - >>glv<<
+BLEU-scores:
+   - Tatoeba-test.bre-eng.bre.eng: 18.0
+   - Tatoeba-test.cor-cym.cor.cym: 8.2
+   - Tatoeba-test.cor-eng.cor.eng: 2.7
+   - Tatoeba-test.cym-cor.cym.cor: 4.3
+   - Tatoeba-test.cym-eng.cym.eng: 39.7
+   - Tatoeba-test.cym-gla.cym.gla: 7.8
+   - Tatoeba-test.cym-gle.cym.gle: 19.7
+   - Tatoeba-test.cym-glv.cym.glv: 9.9
+   - Tatoeba-test.eng-bre.eng.bre: 9.6
+   - Tatoeba-test.eng-cor.eng.cor: 0.3
+   - Tatoeba-test.eng-cym.eng.cym: 30.4
+   - Tatoeba-test.eng-gla.eng.gla: 8.3
+   - Tatoeba-test.eng-gle.eng.gle: 34.2
+   - Tatoeba-test.eng-glv.eng.glv: 11.3
+   - Tatoeba-test.gla-cym.gla.cym: 6.3
+   - Tatoeba-test.gla-eng.gla.eng: 15.2
+   - Tatoeba-test.gle-cym.gle.cym: 15.9
+   - Tatoeba-test.gle-eng.gle.eng: 47.0
+   - Tatoeba-test.gle-glv.gle.glv: 17.4
+   - Tatoeba-test.glv-cym.glv.cym: 7.4
+   - Tatoeba-test.glv-eng.glv.eng: 18.1
+   - Tatoeba-test.glv-gle.glv.gle: 48.3
+   - Tatoeba-test.multi.multi: 20.5
+chr-F-scores:
+   - Tatoeba-test.bre-eng.bre.eng: 0.378
+   - Tatoeba-test.cor-cym.cor.cym: 0.312
+   - Tatoeba-test.cor-eng.cor.eng: 0.170
+   - Tatoeba-test.cym-cor.cym.cor: 0.086
+   - Tatoeba-test.cym-eng.cym.eng: 0.574
+   - Tatoeba-test.cym-gla.cym.gla: 0.177
+   - Tatoeba-test.cym-gle.cym.gle: 0.437
+   - Tatoeba-test.cym-glv.cym.glv: 0.269
+   - Tatoeba-test.eng-bre.eng.bre: 0.330
+   - Tatoeba-test.eng-cor.eng.cor: 0.085
+   - Tatoeba-test.eng-cym.eng.cym: 0.539
+   - Tatoeba-test.eng-gla.eng.gla: 0.316
+   - Tatoeba-test.eng-gle.eng.gle: 0.567
+   - Tatoeba-test.eng-glv.eng.glv: 0.372
+   - Tatoeba-test.gla-cym.gla.cym: 0.407
+   - Tatoeba-test.gla-eng.gla.eng: 0.324
+   - Tatoeba-test.gle-cym.gle.cym: 0.424
+   - Tatoeba-test.gle-eng.gle.eng: 0.637
+   - Tatoeba-test.gle-glv.gle.glv: 0.476
+   - Tatoeba-test.glv-cym.glv.cym: 0.271
+   - Tatoeba-test.glv-eng.glv.eng: 0.438
+   - Tatoeba-test.glv-gle.glv.gle: 0.587
+   - Tatoeba-test.multi.multi: 0.357

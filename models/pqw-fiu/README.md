@@ -1,4 +1,4 @@
-# opus-2021-02-10.zip
+# opus-2021-02-12.zip
 
 * dataset: opus
 * model: transformer
@@ -7,9 +7,9 @@
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-2021-02-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/pqw-fiu/opus-2021-02-10.zip)
-* test set translations: [opus-2021-02-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/pqw-fiu/opus-2021-02-10.test.txt)
-* test set scores: [opus-2021-02-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/pqw-fiu/opus-2021-02-10.eval.txt)
+* download: [opus-2021-02-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/pqw-fiu/opus-2021-02-12.zip)
+* test set translations: [opus-2021-02-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/pqw-fiu/opus-2021-02-12.test.txt)
+* test set scores: [opus-2021-02-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/pqw-fiu/opus-2021-02-12.eval.txt)
 
 ## Benchmarks
 

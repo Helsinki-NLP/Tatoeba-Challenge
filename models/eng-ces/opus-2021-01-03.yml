@@ -1,0 +1,45 @@
+release: eng-ces/opus-2021-01-03.zip
+release-date: 2021-01-03
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - ces
+BLEU-scores:
+   - newssyscomb2009-engces.eng.ces: 23.4
+   - news-test2008-engces.eng.ces: 20.7
+   - newstest2009-engces.eng.ces: 21.9
+   - newstest2010-engces.eng.ces: 22.1
+   - newstest2011-engces.eng.ces: 23.3
+   - newstest2012-engces.eng.ces: 20.7
+   - newstest2013-engces.eng.ces: 24.9
+   - newstest2015-encs-engces.eng.ces: 24.4
+   - newstest2016-encs-engces.eng.ces: 27.5
+   - newstest2017-encs-engces.eng.ces: 22.7
+   - newstest2018-encs-engces.eng.ces: 22.4
+   - newstest2019-encs-engces.eng.ces: 23.8
+   - Tatoeba-test.eng.ces: 47.8
+   - Tatoeba-test.eng-ces.eng.ces: 47.8
+chr-F-scores:
+   - newssyscomb2009-engces.eng.ces: 0.513
+   - news-test2008-engces.eng.ces: 0.488
+   - newstest2009-engces.eng.ces: 0.502
+   - newstest2010-engces.eng.ces: 0.507
+   - newstest2011-engces.eng.ces: 0.511
+   - newstest2012-engces.eng.ces: 0.483
+   - newstest2013-engces.eng.ces: 0.518
+   - newstest2015-encs-engces.eng.ces: 0.527
+   - newstest2016-encs-engces.eng.ces: 0.546
+   - newstest2017-encs-engces.eng.ces: 0.506
+   - newstest2018-encs-engces.eng.ces: 0.506
+   - newstest2019-encs-engces.eng.ces: 0.517
+   - Tatoeba-test.eng.ces: 0.663
+   - Tatoeba-test.eng-ces.eng.ces: 0.663

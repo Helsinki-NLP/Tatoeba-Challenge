@@ -1,0 +1,21 @@
+release: pol-epo/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - pol
+target-languages:
+   - epo
+BLEU-scores:
+   - Tatoeba-test.pol.epo: 24.8
+   - Tatoeba-test.pol-epo.pol.epo: 24.8
+chr-F-scores:
+   - Tatoeba-test.pol.epo: 0.451
+   - Tatoeba-test.pol-epo.pol.epo: 0.450

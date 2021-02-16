@@ -1,0 +1,21 @@
+release: afr-epo/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - afr
+target-languages:
+   - epo
+BLEU-scores:
+   - Tatoeba-test.afr.epo: 18.3
+   - Tatoeba-test.afr-epo.afr.epo: 18.3
+chr-F-scores:
+   - Tatoeba-test.afr.epo: 0.411
+   - Tatoeba-test.afr-epo.afr.epo: 0.411

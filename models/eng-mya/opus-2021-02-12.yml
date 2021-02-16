@@ -1,0 +1,21 @@
+release: eng-mya/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - mya
+BLEU-scores:
+   - Tatoeba-test.eng.mya: 0.2
+   - Tatoeba-test.eng-mya.eng.mya: 0.2
+chr-F-scores:
+   - Tatoeba-test.eng.mya: 0.069
+   - Tatoeba-test.eng-mya.eng.mya: 0.069

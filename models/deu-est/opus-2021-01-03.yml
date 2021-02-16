@@ -1,0 +1,21 @@
+release: deu-est/opus-2021-01-03.zip
+release-date: 2021-01-03
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - deu
+target-languages:
+   - est
+BLEU-scores:
+   - Tatoeba-test.deu.est: 55.4
+   - Tatoeba-test.deu-est.deu.est: 55.4
+chr-F-scores:
+   - Tatoeba-test.deu.est: 0.741
+   - Tatoeba-test.deu-est.deu.est: 0.741

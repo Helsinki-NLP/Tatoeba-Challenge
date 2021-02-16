@@ -1,0 +1,21 @@
+release: wol-eng/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - wol
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.wol.eng: 1.5
+   - Tatoeba-test.wol-eng.wol.eng: 1.5
+chr-F-scores:
+   - Tatoeba-test.wol.eng: 0.142
+   - Tatoeba-test.wol-eng.wol.eng: 0.142

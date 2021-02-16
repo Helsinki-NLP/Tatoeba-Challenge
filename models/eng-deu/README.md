@@ -1,4 +1,4 @@
-# opus-2020-08-25.zip
+# opus-2021-02-13.zip
 
 * dataset: opus
 * model: transformer
@@ -6,9 +6,9 @@
 * target language(s): deu
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* download: [opus-2020-08-25.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-deu/opus-2020-08-25.zip)
-* test set translations: [opus-2020-08-25.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-deu/opus-2020-08-25.test.txt)
-* test set scores: [opus-2020-08-25.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-deu/opus-2020-08-25.eval.txt)
+* download: [opus-2021-02-13.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-deu/opus-2021-02-13.zip)
+* test set translations: [opus-2021-02-13.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-deu/opus-2021-02-13.test.txt)
+* test set scores: [opus-2021-02-13.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-deu/opus-2021-02-13.eval.txt)
 
 ## Benchmarks
 
@@ -27,4 +27,5 @@
 | newstest2018-ende-engdeu.eng.deu 	| 46.4 	| 0.697 |
 | newstest2019-ende-engdeu.eng.deu 	| 42.4 	| 0.664 |
 | Tatoeba-test.eng.deu 	| 45.8 	| 0.655 |
+| Tatoeba-test.eng-deu.eng.deu 	| 45.8 	| 0.655 |
 

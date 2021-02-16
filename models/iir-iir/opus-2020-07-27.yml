@@ -1,0 +1,49 @@
+release: iir-iir/opus-2020-07-27.zip
+release-date: 2020-07-27
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - asm
+   - hin
+   - mar
+   - urd
+   - zza
+target-languages:
+   - asm
+   - hin
+   - mar
+   - urd
+   - zza
+use-target-labels:
+   - >>asm<<
+   - >>hin<<
+   - >>mar<<
+   - >>urd<<
+   - >>zza<<
+BLEU-scores:
+   - Tatoeba-test.asm-hin.asm.hin: 3.5
+   - Tatoeba-test.asm-zza.asm.zza: 12.4
+   - Tatoeba-test.hin-asm.hin.asm: 6.2
+   - Tatoeba-test.hin-mar.hin.mar: 27.0
+   - Tatoeba-test.hin-urd.hin.urd: 21.4
+   - Tatoeba-test.mar-hin.mar.hin: 13.4
+   - Tatoeba-test.multi.multi: 17.7
+   - Tatoeba-test.urd-hin.urd.hin: 13.4
+   - Tatoeba-test.zza-asm.zza.asm: 5.3
+chr-F-scores:
+   - Tatoeba-test.asm-hin.asm.hin: 0.202
+   - Tatoeba-test.asm-zza.asm.zza: 0.014
+   - Tatoeba-test.hin-asm.hin.asm: 0.238
+   - Tatoeba-test.hin-mar.hin.mar: 0.560
+   - Tatoeba-test.hin-urd.hin.urd: 0.507
+   - Tatoeba-test.mar-hin.mar.hin: 0.463
+   - Tatoeba-test.multi.multi: 0.460
+   - Tatoeba-test.urd-hin.urd.hin: 0.363
+   - Tatoeba-test.zza-asm.zza.asm: 0.000

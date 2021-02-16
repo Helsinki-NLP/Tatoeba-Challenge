@@ -1,0 +1,35 @@
+release: ces-spa/opus-2021-01-03.zip
+release-date: 2021-01-03
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ces
+target-languages:
+   - spa
+BLEU-scores:
+   - newssyscomb2009-cesspa.ces.spa: 27.0
+   - news-test2008-cesspa.ces.spa: 24.8
+   - newstest2009-cesspa.ces.spa: 25.3
+   - newstest2010-cesspa.ces.spa: 29.0
+   - newstest2011-cesspa.ces.spa: 29.5
+   - newstest2012-cesspa.ces.spa: 28.8
+   - newstest2013-cesspa.ces.spa: 29.8
+   - Tatoeba-test.ces.spa: 53.4
+   - Tatoeba-test.ces-spa.ces.spa: 53.4
+chr-F-scores:
+   - newssyscomb2009-cesspa.ces.spa: 0.548
+   - news-test2008-cesspa.ces.spa: 0.531
+   - newstest2009-cesspa.ces.spa: 0.540
+   - newstest2010-cesspa.ces.spa: 0.563
+   - newstest2011-cesspa.ces.spa: 0.556
+   - newstest2012-cesspa.ces.spa: 0.554
+   - newstest2013-cesspa.ces.spa: 0.556
+   - Tatoeba-test.ces.spa: 0.706
+   - Tatoeba-test.ces-spa.ces.spa: 0.706

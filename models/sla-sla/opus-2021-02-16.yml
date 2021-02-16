@@ -1,0 +1,1617 @@
+release: sla-sla/opus-2021-02-16.zip
+release-date: 2021-02-16
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+use-target-labels:
+   - >>bel<<
+   - >>bul<<
+   - >>ces<<
+   - >>chu<<
+   - >>csb<<
+   - >>dsb<<
+   - >>hbs<<
+   - >>hsb<<
+   - >>mkd<<
+   - >>orv<<
+   - >>pol<<
+   - >>rue<<
+   - >>rus<<
+   - >>slk<<
+   - >>slv<<
+   - >>szl<<
+   - >>ukr<<
+   - bel
+   - bul
+   - ces
+   - chu
+   - csb
+   - dsb
+   - hbs
+   - hsb
+   - mkd
+   - orv
+   - pol
+   - rue
+   - rus
+   - slk
+   - slv
+   - szl
+   - ukr
+target-languages:
+   - bel
+   - bul
+   - ces
+   - chu
+   - csb
+   - dsb
+   - hbs
+   - hsb
+   - mkd
+   - orv
+   - pol
+   - rue
+   - rus
+   - slk
+   - slv
+   - szl
+   - ukr
+training-data:
+   - bel-bel: 
+   - bel-bel_Latn: 
+   - bel-bos_Cyrl: 
+   - bel-bos_Latn: Tatoeba-train (46735) 
+   - bel-bul: Tatoeba-train (64087) 
+   - bel-ces: Tatoeba-train (64844) 
+   - bel-cnr: 
+   - bel-cnr_Latn: 
+   - bel-csb: 
+   - bel-csb_Latn: 
+   - bel-dsb: 
+   - bel-eng: Tatoeba-train (154954) 
+   - bel-hbs: Tatoeba-train (164941) 
+   - bel-hbs_Cyrl: 
+   - bel-hrv: Tatoeba-train (75764) 
+   - bel-hsb: 
+   - bel-mkd: Tatoeba-train (47656) 
+   - bel-orv_Cyrl: 
+   - bel-pol: Tatoeba-train (70589) 
+   - bel-rue: 
+   - bel-rus: Tatoeba-train (71916) 
+   - bel-slv: 
+   - bel-srp_Cyrl: Tatoeba-train (36249) 
+   - bel-srp_Latn: Tatoeba-train (4748) 
+   - bel-ukr: Tatoeba-train (65451) 
+   - bel_Latn-bel: 
+   - bel_Latn-bel_Latn: 
+   - bel_Latn-bos_Cyrl: 
+   - bel_Latn-bos_Latn: Tatoeba-train (148) 
+   - bel_Latn-bul: Tatoeba-train (539) 
+   - bel_Latn-ces: Tatoeba-train (613) 
+   - bel_Latn-cnr: 
+   - bel_Latn-cnr_Latn: 
+   - bel_Latn-csb: 
+   - bel_Latn-csb_Latn: 
+   - bel_Latn-dsb: 
+   - bel_Latn-eng: Tatoeba-train (2570) 
+   - bel_Latn-hbs: 
+   - bel_Latn-hbs_Cyrl: 
+   - bel_Latn-hrv: Tatoeba-train (528) 
+   - bel_Latn-hsb: 
+   - bel_Latn-mkd: Tatoeba-train (253) 
+   - bel_Latn-orv_Cyrl: 
+   - bel_Latn-pol: Tatoeba-train (687) 
+   - bel_Latn-rue: 
+   - bel_Latn-rus: Tatoeba-train (289) 
+   - bel_Latn-slv: 
+   - bel_Latn-srp_Cyrl: Tatoeba-train (141) 
+   - bel_Latn-srp_Latn: Tatoeba-train (138) 
+   - bel_Latn-ukr: Tatoeba-train (347) 
+   - bos_Cyrl-bel: 
+   - bos_Cyrl-bel_Latn: 
+   - bos_Cyrl-bos_Cyrl: 
+   - bos_Cyrl-bos_Latn: 
+   - bos_Cyrl-bul: Tatoeba-train (71) 
+   - bos_Cyrl-ces: Tatoeba-train (33) 
+   - bos_Cyrl-cnr: 
+   - bos_Cyrl-cnr_Latn: 
+   - bos_Cyrl-csb: 
+   - bos_Cyrl-csb_Latn: 
+   - bos_Cyrl-dsb: 
+   - bos_Cyrl-eng: Tatoeba-train (225) 
+   - bos_Cyrl-hbs: 
+   - bos_Cyrl-hbs_Cyrl: 
+   - bos_Cyrl-hrv: 
+   - bos_Cyrl-hsb: 
+   - bos_Cyrl-mkd: Tatoeba-train (1) 
+   - bos_Cyrl-orv_Cyrl: 
+   - bos_Cyrl-pol: Tatoeba-train (61) 
+   - bos_Cyrl-rue: 
+   - bos_Cyrl-rus: Tatoeba-train (123) 
+   - bos_Cyrl-slv: 
+   - bos_Cyrl-srp_Cyrl: 
+   - bos_Cyrl-srp_Latn: 
+   - bos_Cyrl-ukr: Tatoeba-train (2) 
+   - bos_Latn-bel: Tatoeba-train (46735) 
+   - bos_Latn-bel_Latn: Tatoeba-train (148) 
+   - bos_Latn-bos_Cyrl: 
+   - bos_Latn-bos_Latn: 
+   - bos_Latn-bul: Tatoeba-train (1000000) 
+   - bos_Latn-ces: Tatoeba-train (1000000) 
+   - bos_Latn-cnr: 
+   - bos_Latn-cnr_Latn: 
+   - bos_Latn-csb: 
+   - bos_Latn-csb_Latn: 
+   - bos_Latn-dsb: 
+   - bos_Latn-eng: Tatoeba-train (1000000) 
+   - bos_Latn-hbs: 
+   - bos_Latn-hbs_Cyrl: 
+   - bos_Latn-hrv: 
+   - bos_Latn-hsb: 
+   - bos_Latn-mkd: Tatoeba-train (1000000) 
+   - bos_Latn-orv_Cyrl: 
+   - bos_Latn-pol: Tatoeba-train (1000000) 
+   - bos_Latn-rue: 
+   - bos_Latn-rus: Tatoeba-train (1000000) 
+   - bos_Latn-slv: 
+   - bos_Latn-srp_Cyrl: 
+   - bos_Latn-srp_Latn: 
+   - bos_Latn-ukr: Tatoeba-train (204582) 
+   - bul-bel: Tatoeba-train (64087) 
+   - bul-bel_Latn: Tatoeba-train (539) 
+   - bul-bos_Cyrl: Tatoeba-train (71) 
+   - bul-bos_Latn: Tatoeba-train (1000000) 
+   - bul-bul: 
+   - bul-ces: Tatoeba-train (1000000) 
+   - bul-cnr: 
+   - bul-cnr_Latn: 
+   - bul-csb: 
+   - bul-csb_Latn: 
+   - bul-dsb: 
+   - bul-eng: Tatoeba-train (1000000) 
+   - bul-hbs: Tatoeba-train (11168) 
+   - bul-hbs_Cyrl: Tatoeba-train (412) 
+   - bul-hrv: Tatoeba-train (1000000) 
+   - bul-hsb: 
+   - bul-mkd: Tatoeba-train (1000000) 
+   - bul-orv_Cyrl: 
+   - bul-pol: Tatoeba-train (1000000) 
+   - bul-rue: 
+   - bul-rus: Tatoeba-train (1000000) 
+   - bul-slv: 
+   - bul-srp_Cyrl: Tatoeba-train (1000000) 
+   - bul-srp_Latn: Tatoeba-train (1000000) 
+   - bul-ukr: Tatoeba-train (1000000) 
+   - ces-bel: Tatoeba-train (64844) 
+   - ces-bel_Latn: Tatoeba-train (613) 
+   - ces-bos_Cyrl: Tatoeba-train (33) 
+   - ces-bos_Latn: Tatoeba-train (1000000) 
+   - ces-bul: Tatoeba-train (1000000) 
+   - ces-ces: 
+   - ces-cnr: 
+   - ces-cnr_Latn: 
+   - ces-csb: 
+   - ces-csb_Latn: 
+   - ces-dsb: 
+   - ces-eng: Tatoeba-train (1000000) 
+   - ces-hbs: Tatoeba-train (13168) 
+   - ces-hbs_Cyrl: Tatoeba-train (300) 
+   - ces-hrv: Tatoeba-train (1000000) 
+   - ces-hsb: Tatoeba-train (9066) 
+   - ces-mkd: Tatoeba-train (1000000) 
+   - ces-orv_Cyrl: 
+   - ces-pol: Tatoeba-train (1000000) 
+   - ces-rue: 
+   - ces-rus: Tatoeba-train (1000000) 
+   - ces-slv: Tatoeba-train (1000000) 
+   - ces-srp_Cyrl: Tatoeba-train (1000000) 
+   - ces-srp_Latn: Tatoeba-train (1000000) 
+   - ces-ukr: Tatoeba-train (1000000) 
+   - cnr-bel: 
+   - cnr-bel_Latn: 
+   - cnr-bos_Cyrl: 
+   - cnr-bos_Latn: 
+   - cnr-bul: 
+   - cnr-ces: 
+   - cnr-cnr: 
+   - cnr-cnr_Latn: 
+   - cnr-csb: 
+   - cnr-csb_Latn: 
+   - cnr-dsb: 
+   - cnr-eng: Tatoeba-train (13) 
+   - cnr-hbs: 
+   - cnr-hbs_Cyrl: 
+   - cnr-hrv: 
+   - cnr-hsb: 
+   - cnr-mkd: 
+   - cnr-orv_Cyrl: 
+   - cnr-pol: 
+   - cnr-rue: 
+   - cnr-rus: 
+   - cnr-slv: 
+   - cnr-srp_Cyrl: 
+   - cnr-srp_Latn: 
+   - cnr-ukr: 
+   - cnr_Latn-bel: 
+   - cnr_Latn-bel_Latn: 
+   - cnr_Latn-bos_Cyrl: 
+   - cnr_Latn-bos_Latn: 
+   - cnr_Latn-bul: 
+   - cnr_Latn-ces: 
+   - cnr_Latn-cnr: 
+   - cnr_Latn-cnr_Latn: 
+   - cnr_Latn-csb: 
+   - cnr_Latn-csb_Latn: 
+   - cnr_Latn-dsb: 
+   - cnr_Latn-eng: Tatoeba-train (56214) 
+   - cnr_Latn-hbs: 
+   - cnr_Latn-hbs_Cyrl: 
+   - cnr_Latn-hrv: 
+   - cnr_Latn-hsb: 
+   - cnr_Latn-mkd: 
+   - cnr_Latn-orv_Cyrl: 
+   - cnr_Latn-pol: 
+   - cnr_Latn-rue: 
+   - cnr_Latn-rus: 
+   - cnr_Latn-slv: 
+   - cnr_Latn-srp_Cyrl: 
+   - cnr_Latn-srp_Latn: 
+   - cnr_Latn-ukr: 
+   - csb-bel: 
+   - csb-bel_Latn: 
+   - csb-bos_Cyrl: 
+   - csb-bos_Latn: 
+   - csb-bul: 
+   - csb-ces: 
+   - csb-cnr: 
+   - csb-cnr_Latn: 
+   - csb-csb: 
+   - csb-csb_Latn: 
+   - csb-dsb: 
+   - csb-eng: Tatoeba-train (6) 
+   - csb-hbs: 
+   - csb-hbs_Cyrl: 
+   - csb-hrv: 
+   - csb-hsb: 
+   - csb-mkd: 
+   - csb-orv_Cyrl: 
+   - csb-pol: 
+   - csb-rue: 
+   - csb-rus: 
+   - csb-slv: 
+   - csb-srp_Cyrl: 
+   - csb-srp_Latn: 
+   - csb-ukr: 
+   - csb_Latn-bel: 
+   - csb_Latn-bel_Latn: 
+   - csb_Latn-bos_Cyrl: 
+   - csb_Latn-bos_Latn: 
+   - csb_Latn-bul: 
+   - csb_Latn-ces: 
+   - csb_Latn-cnr: 
+   - csb_Latn-cnr_Latn: 
+   - csb_Latn-csb: 
+   - csb_Latn-csb_Latn: 
+   - csb_Latn-dsb: 
+   - csb_Latn-eng: Tatoeba-train (36906) 
+   - csb_Latn-hbs: 
+   - csb_Latn-hbs_Cyrl: 
+   - csb_Latn-hrv: 
+   - csb_Latn-hsb: 
+   - csb_Latn-mkd: 
+   - csb_Latn-orv_Cyrl: 
+   - csb_Latn-pol: 
+   - csb_Latn-rue: 
+   - csb_Latn-rus: 
+   - csb_Latn-slv: 
+   - csb_Latn-srp_Cyrl: 
+   - csb_Latn-srp_Latn: 
+   - csb_Latn-ukr: 
+   - dsb-bel: 
+   - dsb-bel_Latn: 
+   - dsb-bos_Cyrl: 
+   - dsb-bos_Latn: 
+   - dsb-bul: 
+   - dsb-ces: 
+   - dsb-cnr: 
+   - dsb-cnr_Latn: 
+   - dsb-csb: 
+   - dsb-csb_Latn: 
+   - dsb-dsb: 
+   - dsb-eng: 
+   - dsb-hbs: 
+   - dsb-hbs_Cyrl: 
+   - dsb-hrv: 
+   - dsb-hsb: 
+   - dsb-mkd: 
+   - dsb-orv_Cyrl: 
+   - dsb-pol: 
+   - dsb-rue: 
+   - dsb-rus: 
+   - dsb-slv: 
+   - dsb-srp_Cyrl: 
+   - dsb-srp_Latn: 
+   - dsb-ukr: 
+   - eng-bel: Tatoeba-train (154954) 
+   - eng-bel_Latn: Tatoeba-train (2570) 
+   - eng-bos_Cyrl: Tatoeba-train (225) 
+   - eng-bos_Latn: Tatoeba-train (1000000) 
+   - eng-bul: Tatoeba-train (1000000) 
+   - eng-ces: Tatoeba-train (1000000) 
+   - eng-cnr: Tatoeba-train (13) 
+   - eng-cnr_Latn: Tatoeba-train (56214) 
+   - eng-csb: Tatoeba-train (6) 
+   - eng-csb_Latn: Tatoeba-train (36906) 
+   - eng-dsb: 
+   - eng-eng: 
+   - eng-hbs: Tatoeba-train (12895) 
+   - eng-hbs_Cyrl: Tatoeba-train (334) 
+   - eng-hrv: Tatoeba-train (1000000) 
+   - eng-hsb: Tatoeba-train (22057) 
+   - eng-mkd: Tatoeba-train (1000000) 
+   - eng-orv_Cyrl: 
+   - eng-pol: Tatoeba-train (1000000) 
+   - eng-rue: 
+   - eng-rus: Tatoeba-train (1000000) 
+   - eng-slv: Tatoeba-train (1000000) 
+   - eng-srp_Cyrl: Tatoeba-train (1000000) 
+   - eng-srp_Latn: Tatoeba-train (1000000) 
+   - eng-ukr: Tatoeba-train (1000000) 
+   - hbs-bel: Tatoeba-train (164941) 
+   - hbs-bel_Latn: 
+   - hbs-bos_Cyrl: 
+   - hbs-bos_Latn: 
+   - hbs-bul: Tatoeba-train (11168) 
+   - hbs-ces: Tatoeba-train (13168) 
+   - hbs-cnr: 
+   - hbs-cnr_Latn: 
+   - hbs-csb: 
+   - hbs-csb_Latn: 
+   - hbs-dsb: 
+   - hbs-eng: Tatoeba-train (12895) 
+   - hbs-hbs: 
+   - hbs-hbs_Cyrl: 
+   - hbs-hrv: 
+   - hbs-hsb: 
+   - hbs-mkd: Tatoeba-train (1000000) 
+   - hbs-orv_Cyrl: 
+   - hbs-pol: Tatoeba-train (12960) 
+   - hbs-rue: 
+   - hbs-rus: Tatoeba-train (1000000) 
+   - hbs-slv: 
+   - hbs-srp_Cyrl: 
+   - hbs-srp_Latn: 
+   - hbs-ukr: Tatoeba-train (1000000) 
+   - hbs_Cyrl-bel: 
+   - hbs_Cyrl-bel_Latn: 
+   - hbs_Cyrl-bos_Cyrl: 
+   - hbs_Cyrl-bos_Latn: 
+   - hbs_Cyrl-bul: Tatoeba-train (412) 
+   - hbs_Cyrl-ces: Tatoeba-train (300) 
+   - hbs_Cyrl-cnr: 
+   - hbs_Cyrl-cnr_Latn: 
+   - hbs_Cyrl-csb: 
+   - hbs_Cyrl-csb_Latn: 
+   - hbs_Cyrl-dsb: 
+   - hbs_Cyrl-eng: Tatoeba-train (334) 
+   - hbs_Cyrl-hbs: 
+   - hbs_Cyrl-hbs_Cyrl: 
+   - hbs_Cyrl-hrv: 
+   - hbs_Cyrl-hsb: 
+   - hbs_Cyrl-mkd: Tatoeba-train (1) 
+   - hbs_Cyrl-orv_Cyrl: 
+   - hbs_Cyrl-pol: Tatoeba-train (334) 
+   - hbs_Cyrl-rue: 
+   - hbs_Cyrl-rus: Tatoeba-train (26) 
+   - hbs_Cyrl-slv: 
+   - hbs_Cyrl-srp_Cyrl: 
+   - hbs_Cyrl-srp_Latn: 
+   - hbs_Cyrl-ukr: Tatoeba-train (11) 
+   - hrv-bel: Tatoeba-train (75764) 
+   - hrv-bel_Latn: Tatoeba-train (528) 
+   - hrv-bos_Cyrl: 
+   - hrv-bos_Latn: 
+   - hrv-bul: Tatoeba-train (1000000) 
+   - hrv-ces: Tatoeba-train (1000000) 
+   - hrv-cnr: 
+   - hrv-cnr_Latn: 
+   - hrv-csb: 
+   - hrv-csb_Latn: 
+   - hrv-dsb: 
+   - hrv-eng: Tatoeba-train (1000000) 
+   - hrv-hbs: 
+   - hrv-hbs_Cyrl: 
+   - hrv-hrv: 
+   - hrv-hsb: 
+   - hrv-mkd: Tatoeba-train (1000000) 
+   - hrv-orv_Cyrl: 
+   - hrv-pol: Tatoeba-train (1000000) 
+   - hrv-rue: 
+   - hrv-rus: Tatoeba-train (1000000) 
+   - hrv-slv: 
+   - hrv-srp_Cyrl: 
+   - hrv-srp_Latn: 
+   - hrv-ukr: Tatoeba-train (1000000) 
+   - hsb-bel: 
+   - hsb-bel_Latn: 
+   - hsb-bos_Cyrl: 
+   - hsb-bos_Latn: 
+   - hsb-bul: 
+   - hsb-ces: Tatoeba-train (9066) 
+   - hsb-cnr: 
+   - hsb-cnr_Latn: 
+   - hsb-csb: 
+   - hsb-csb_Latn: 
+   - hsb-dsb: 
+   - hsb-eng: Tatoeba-train (22057) 
+   - hsb-hbs: 
+   - hsb-hbs_Cyrl: 
+   - hsb-hrv: 
+   - hsb-hsb: 
+   - hsb-mkd: 
+   - hsb-orv_Cyrl: 
+   - hsb-pol: 
+   - hsb-rue: 
+   - hsb-rus: 
+   - hsb-slv: 
+   - hsb-srp_Cyrl: 
+   - hsb-srp_Latn: 
+   - hsb-ukr: 
+   - mkd-bel: Tatoeba-train (47656) 
+   - mkd-bel_Latn: Tatoeba-train (253) 
+   - mkd-bos_Cyrl: Tatoeba-train (1) 
+   - mkd-bos_Latn: Tatoeba-train (1000000) 
+   - mkd-bul: Tatoeba-train (1000000) 
+   - mkd-ces: Tatoeba-train (1000000) 
+   - mkd-cnr: 
+   - mkd-cnr_Latn: 
+   - mkd-csb: 
+   - mkd-csb_Latn: 
+   - mkd-dsb: 
+   - mkd-eng: Tatoeba-train (1000000) 
+   - mkd-hbs: Tatoeba-train (1000000) 
+   - mkd-hbs_Cyrl: Tatoeba-train (1) 
+   - mkd-hrv: Tatoeba-train (1000000) 
+   - mkd-hsb: 
+   - mkd-mkd: 
+   - mkd-orv_Cyrl: 
+   - mkd-pol: Tatoeba-train (1000000) 
+   - mkd-rue: 
+   - mkd-rus: Tatoeba-train (1000000) 
+   - mkd-slv: 
+   - mkd-srp_Cyrl: Tatoeba-train (555715) 
+   - mkd-srp_Latn: Tatoeba-train (1000000) 
+   - mkd-ukr: Tatoeba-train (617107) 
+   - orv_Cyrl-bel: 
+   - orv_Cyrl-bel_Latn: 
+   - orv_Cyrl-bos_Cyrl: 
+   - orv_Cyrl-bos_Latn: 
+   - orv_Cyrl-bul: 
+   - orv_Cyrl-ces: 
+   - orv_Cyrl-cnr: 
+   - orv_Cyrl-cnr_Latn: 
+   - orv_Cyrl-csb: 
+   - orv_Cyrl-csb_Latn: 
+   - orv_Cyrl-dsb: 
+   - orv_Cyrl-eng: 
+   - orv_Cyrl-hbs: 
+   - orv_Cyrl-hbs_Cyrl: 
+   - orv_Cyrl-hrv: 
+   - orv_Cyrl-hsb: 
+   - orv_Cyrl-mkd: 
+   - orv_Cyrl-orv_Cyrl: 
+   - orv_Cyrl-pol: 
+   - orv_Cyrl-rue: 
+   - orv_Cyrl-rus: 
+   - orv_Cyrl-slv: 
+   - orv_Cyrl-srp_Cyrl: 
+   - orv_Cyrl-srp_Latn: 
+   - orv_Cyrl-ukr: 
+   - pol-bel: Tatoeba-train (70589) 
+   - pol-bel_Latn: Tatoeba-train (687) 
+   - pol-bos_Cyrl: Tatoeba-train (61) 
+   - pol-bos_Latn: Tatoeba-train (1000000) 
+   - pol-bul: Tatoeba-train (1000000) 
+   - pol-ces: Tatoeba-train (1000000) 
+   - pol-cnr: 
+   - pol-cnr_Latn: 
+   - pol-csb: 
+   - pol-csb_Latn: 
+   - pol-dsb: 
+   - pol-eng: Tatoeba-train (1000000) 
+   - pol-hbs: Tatoeba-train (12960) 
+   - pol-hbs_Cyrl: Tatoeba-train (334) 
+   - pol-hrv: Tatoeba-train (1000000) 
+   - pol-hsb: 
+   - pol-mkd: Tatoeba-train (1000000) 
+   - pol-orv_Cyrl: 
+   - pol-pol: 
+   - pol-rue: 
+   - pol-rus: Tatoeba-train (1000000) 
+   - pol-slv: Tatoeba-train (1000000) 
+   - pol-srp_Cyrl: Tatoeba-train (1000000) 
+   - pol-srp_Latn: Tatoeba-train (1000000) 
+   - pol-ukr: Tatoeba-train (1000000) 
+   - rue-bel: 
+   - rue-bel_Latn: 
+   - rue-bos_Cyrl: 
+   - rue-bos_Latn: 
+   - rue-bul: 
+   - rue-ces: 
+   - rue-cnr: 
+   - rue-cnr_Latn: 
+   - rue-csb: 
+   - rue-csb_Latn: 
+   - rue-dsb: 
+   - rue-eng: 
+   - rue-hbs: 
+   - rue-hbs_Cyrl: 
+   - rue-hrv: 
+   - rue-hsb: 
+   - rue-mkd: 
+   - rue-orv_Cyrl: 
+   - rue-pol: 
+   - rue-rue: 
+   - rue-rus: 
+   - rue-slv: 
+   - rue-srp_Cyrl: 
+   - rue-srp_Latn: 
+   - rue-ukr: 
+   - rus-bel: Tatoeba-train (71916) 
+   - rus-bel_Latn: Tatoeba-train (289) 
+   - rus-bos_Cyrl: Tatoeba-train (123) 
+   - rus-bos_Latn: Tatoeba-train (1000000) 
+   - rus-bul: Tatoeba-train (1000000) 
+   - rus-ces: Tatoeba-train (1000000) 
+   - rus-cnr: 
+   - rus-cnr_Latn: 
+   - rus-csb: 
+   - rus-csb_Latn: 
+   - rus-dsb: 
+   - rus-eng: Tatoeba-train (1000000) 
+   - rus-hbs: Tatoeba-train (1000000) 
+   - rus-hbs_Cyrl: Tatoeba-train (26) 
+   - rus-hrv: Tatoeba-train (1000000) 
+   - rus-hsb: 
+   - rus-mkd: Tatoeba-train (1000000) 
+   - rus-orv_Cyrl: 
+   - rus-pol: Tatoeba-train (1000000) 
+   - rus-rue: 
+   - rus-rus: 
+   - rus-slv: Tatoeba-train (1000000) 
+   - rus-srp_Cyrl: Tatoeba-train (1000000) 
+   - rus-srp_Latn: Tatoeba-train (1000000) 
+   - rus-ukr: Tatoeba-train (1000000) 
+   - slv-bel: 
+   - slv-bel_Latn: 
+   - slv-bos_Cyrl: 
+   - slv-bos_Latn: 
+   - slv-bul: 
+   - slv-ces: Tatoeba-train (1000000) 
+   - slv-cnr: 
+   - slv-cnr_Latn: 
+   - slv-csb: 
+   - slv-csb_Latn: 
+   - slv-dsb: 
+   - slv-eng: Tatoeba-train (1000000) 
+   - slv-hbs: 
+   - slv-hbs_Cyrl: 
+   - slv-hrv: 
+   - slv-hsb: 
+   - slv-mkd: 
+   - slv-orv_Cyrl: 
+   - slv-pol: Tatoeba-train (1000000) 
+   - slv-rue: 
+   - slv-rus: Tatoeba-train (1000000) 
+   - slv-slv: 
+   - slv-srp_Cyrl: 
+   - slv-srp_Latn: 
+   - slv-ukr: Tatoeba-train (1000000) 
+   - srp_Cyrl-bel: Tatoeba-train (36249) 
+   - srp_Cyrl-bel_Latn: Tatoeba-train (141) 
+   - srp_Cyrl-bos_Cyrl: 
+   - srp_Cyrl-bos_Latn: 
+   - srp_Cyrl-bul: Tatoeba-train (1000000) 
+   - srp_Cyrl-ces: Tatoeba-train (1000000) 
+   - srp_Cyrl-cnr: 
+   - srp_Cyrl-cnr_Latn: 
+   - srp_Cyrl-csb: 
+   - srp_Cyrl-csb_Latn: 
+   - srp_Cyrl-dsb: 
+   - srp_Cyrl-eng: Tatoeba-train (1000000) 
+   - srp_Cyrl-hbs: 
+   - srp_Cyrl-hbs_Cyrl: 
+   - srp_Cyrl-hrv: 
+   - srp_Cyrl-hsb: 
+   - srp_Cyrl-mkd: Tatoeba-train (555715) 
+   - srp_Cyrl-orv_Cyrl: 
+   - srp_Cyrl-pol: Tatoeba-train (1000000) 
+   - srp_Cyrl-rue: 
+   - srp_Cyrl-rus: Tatoeba-train (1000000) 
+   - srp_Cyrl-slv: 
+   - srp_Cyrl-srp_Cyrl: 
+   - srp_Cyrl-srp_Latn: 
+   - srp_Cyrl-ukr: Tatoeba-train (152997) 
+   - srp_Latn-bel: Tatoeba-train (4748) 
+   - srp_Latn-bel_Latn: Tatoeba-train (138) 
+   - srp_Latn-bos_Cyrl: 
+   - srp_Latn-bos_Latn: 
+   - srp_Latn-bul: Tatoeba-train (1000000) 
+   - srp_Latn-ces: Tatoeba-train (1000000) 
+   - srp_Latn-cnr: 
+   - srp_Latn-cnr_Latn: 
+   - srp_Latn-csb: 
+   - srp_Latn-csb_Latn: 
+   - srp_Latn-dsb: 
+   - srp_Latn-eng: Tatoeba-train (1000000) 
+   - srp_Latn-hbs: 
+   - srp_Latn-hbs_Cyrl: 
+   - srp_Latn-hrv: 
+   - srp_Latn-hsb: 
+   - srp_Latn-mkd: Tatoeba-train (1000000) 
+   - srp_Latn-orv_Cyrl: 
+   - srp_Latn-pol: Tatoeba-train (1000000) 
+   - srp_Latn-rue: 
+   - srp_Latn-rus: Tatoeba-train (1000000) 
+   - srp_Latn-slv: 
+   - srp_Latn-srp_Cyrl: 
+   - srp_Latn-srp_Latn: 
+   - srp_Latn-ukr: Tatoeba-train (381969) 
+   - ukr-bel: Tatoeba-train (65451) 
+   - ukr-bel_Latn: Tatoeba-train (347) 
+   - ukr-bos_Cyrl: Tatoeba-train (2) 
+   - ukr-bos_Latn: Tatoeba-train (204582) 
+   - ukr-bul: Tatoeba-train (1000000) 
+   - ukr-ces: Tatoeba-train (1000000) 
+   - ukr-cnr: 
+   - ukr-cnr_Latn: 
+   - ukr-csb: 
+   - ukr-csb_Latn: 
+   - ukr-dsb: 
+   - ukr-eng: Tatoeba-train (1000000) 
+   - ukr-hbs: Tatoeba-train (1000000) 
+   - ukr-hbs_Cyrl: Tatoeba-train (11) 
+   - ukr-hrv: Tatoeba-train (1000000) 
+   - ukr-hsb: 
+   - ukr-mkd: Tatoeba-train (617107) 
+   - ukr-orv_Cyrl: 
+   - ukr-pol: Tatoeba-train (1000000) 
+   - ukr-rue: 
+   - ukr-rus: Tatoeba-train (1000000) 
+   - ukr-slv: Tatoeba-train (1000000) 
+   - ukr-srp_Cyrl: Tatoeba-train (152997) 
+   - ukr-srp_Latn: Tatoeba-train (381969) 
+   - ukr-ukr: 
+validation-data:
+   - bel-bel: Tatoeba-dev, 0
+   - bel-bel_Latn: Tatoeba-dev, 0
+   - bel-bos_Cyrl: Tatoeba-dev, 0
+   - bel-bos_Latn: Tatoeba-dev, 258
+   - bel-bul: Tatoeba-dev, 991
+   - bel-ces: Tatoeba-dev, 994
+   - bel-cnr: Tatoeba-dev, 0
+   - bel-cnr_Latn: Tatoeba-dev, 0
+   - bel-csb: Tatoeba-dev, 0
+   - bel-csb_Latn: Tatoeba-dev, 0
+   - bel-dsb: Tatoeba-dev, 0
+   - bel-eng: Tatoeba-dev, 4241
+   - bel-hbs: Tatoeba-dev, 1000
+   - bel-hbs_Cyrl: Tatoeba-dev, 0
+   - bel-hrv: Tatoeba-dev, 493
+   - bel-hsb: Tatoeba-dev, 0
+   - bel-mkd: Tatoeba-dev, 987
+   - bel-orv_Cyrl: Tatoeba-dev, 0
+   - bel-pol: Tatoeba-dev, 985
+   - bel-rue: Tatoeba-dev, 0
+   - bel-rus: Tatoeba-dev, 2738
+   - bel-slv: Tatoeba-dev, 0
+   - bel-srp_Cyrl: Tatoeba-dev, 211
+   - bel-srp_Latn: Tatoeba-dev, 31
+   - bel-ukr: Tatoeba-dev, 994
+   - bel-bel_Latn: Tatoeba-dev, 0
+   - bel_Latn-bel_Latn: Tatoeba-dev, 0
+   - bel_Latn-bos_Cyrl: Tatoeba-dev, 0
+   - bel_Latn-bos_Latn: Tatoeba-dev, 0
+   - bel_Latn-bul: Tatoeba-dev, 9
+   - bel_Latn-ces: Tatoeba-dev, 6
+   - bel_Latn-cnr: Tatoeba-dev, 0
+   - bel_Latn-cnr_Latn: Tatoeba-dev, 0
+   - bel_Latn-csb: Tatoeba-dev, 0
+   - bel_Latn-csb_Latn: Tatoeba-dev, 0
+   - bel_Latn-dsb: Tatoeba-dev, 0
+   - bel_Latn-eng: Tatoeba-dev, 12
+   - bel_Latn-hbs: Tatoeba-dev, 0
+   - bel_Latn-hbs_Cyrl: Tatoeba-dev, 0
+   - bel_Latn-hrv: Tatoeba-dev, 1
+   - bel_Latn-hsb: Tatoeba-dev, 0
+   - bel_Latn-mkd: Tatoeba-dev, 3
+   - bel_Latn-orv_Cyrl: Tatoeba-dev, 0
+   - bel_Latn-pol: Tatoeba-dev, 15
+   - bel_Latn-rue: Tatoeba-dev, 0
+   - bel_Latn-rus: Tatoeba-dev, 5
+   - bel_Latn-slv: Tatoeba-dev, 0
+   - bel_Latn-srp_Cyrl: Tatoeba-dev, 0
+   - bel_Latn-srp_Latn: Tatoeba-dev, 0
+   - bel_Latn-ukr: Tatoeba-dev, 6
+   - bel-bos_Cyrl: Tatoeba-dev, 0
+   - bel_Latn-bos_Cyrl: Tatoeba-dev, 0
+   - bos_Cyrl-bos_Cyrl: Tatoeba-dev, 0
+   - bos_Cyrl-bos_Latn: Tatoeba-dev, 0
+   - bos_Cyrl-bul: Tatoeba-dev, 0
+   - bos_Cyrl-ces: Tatoeba-dev, 0
+   - bos_Cyrl-cnr: Tatoeba-dev, 0
+   - bos_Cyrl-cnr_Latn: Tatoeba-dev, 0
+   - bos_Cyrl-csb: Tatoeba-dev, 0
+   - bos_Cyrl-csb_Latn: Tatoeba-dev, 0
+   - bos_Cyrl-dsb: Tatoeba-dev, 0
+   - bos_Cyrl-eng: Tatoeba-dev, 0
+   - bos_Cyrl-hbs: Tatoeba-dev, 0
+   - bos_Cyrl-hbs_Cyrl: Tatoeba-dev, 0
+   - bos_Cyrl-hrv: Tatoeba-dev, 0
+   - bos_Cyrl-hsb: Tatoeba-dev, 0
+   - bos_Cyrl-mkd: Tatoeba-dev, 0
+   - bos_Cyrl-orv_Cyrl: Tatoeba-dev, 0
+   - bos_Cyrl-pol: Tatoeba-dev, 0
+   - bos_Cyrl-rue: Tatoeba-dev, 0
+   - bos_Cyrl-rus: Tatoeba-dev, 0
+   - bos_Cyrl-slv: Tatoeba-dev, 0
+   - bos_Cyrl-srp_Cyrl: Tatoeba-dev, 0
+   - bos_Cyrl-srp_Latn: Tatoeba-dev, 0
+   - bos_Cyrl-ukr: Tatoeba-dev, 0
+   - bel-bos_Latn: Tatoeba-dev, 258
+   - bel_Latn-bos_Latn: Tatoeba-dev, 0
+   - bos_Cyrl-bos_Latn: Tatoeba-dev, 0
+   - bos_Latn-bos_Latn: Tatoeba-dev, 0
+   - bos_Latn-bul: Tatoeba-dev, 141
+   - bos_Latn-ces: Tatoeba-dev, 115
+   - bos_Latn-cnr: Tatoeba-dev, 0
+   - bos_Latn-cnr_Latn: Tatoeba-dev, 0
+   - bos_Latn-csb: Tatoeba-dev, 0
+   - bos_Latn-csb_Latn: Tatoeba-dev, 0
+   - bos_Latn-dsb: Tatoeba-dev, 0
+   - bos_Latn-eng: Tatoeba-dev, 199
+   - bos_Latn-hbs: Tatoeba-dev, 0
+   - bos_Latn-hbs_Cyrl: Tatoeba-dev, 0
+   - bos_Latn-hrv: Tatoeba-dev, 0
+   - bos_Latn-hsb: Tatoeba-dev, 0
+   - bos_Latn-mkd: Tatoeba-dev, 204
+   - bos_Latn-orv_Cyrl: Tatoeba-dev, 0
+   - bos_Latn-pol: Tatoeba-dev, 120
+   - bos_Latn-rue: Tatoeba-dev, 0
+   - bos_Latn-rus: Tatoeba-dev, 38
+   - bos_Latn-slv: Tatoeba-dev, 0
+   - bos_Latn-srp_Cyrl: Tatoeba-dev, 0
+   - bos_Latn-srp_Latn: Tatoeba-dev, 0
+   - bos_Latn-ukr: Tatoeba-dev, 95
+   - bel-bul: Tatoeba-dev, 991
+   - bel_Latn-bul: Tatoeba-dev, 9
+   - bos_Cyrl-bul: Tatoeba-dev, 0
+   - bos_Latn-bul: Tatoeba-dev, 141
+   - bul-bul: Tatoeba-dev, 0
+   - bul-ces: Tatoeba-dev, 1000
+   - bul-cnr: Tatoeba-dev, 0
+   - bul-cnr_Latn: Tatoeba-dev, 0
+   - bul-csb: Tatoeba-dev, 0
+   - bul-csb_Latn: Tatoeba-dev, 0
+   - bul-dsb: Tatoeba-dev, 0
+   - bul-eng: Tatoeba-dev, 7753
+   - bul-hbs: Tatoeba-dev, 1000
+   - bul-hbs_Cyrl: Tatoeba-dev, 0
+   - bul-hrv: Tatoeba-dev, 375
+   - bul-hsb: Tatoeba-dev, 0
+   - bul-mkd: Tatoeba-dev, 1000
+   - bul-orv_Cyrl: Tatoeba-dev, 0
+   - bul-pol: Tatoeba-dev, 1000
+   - bul-rue: Tatoeba-dev, 0
+   - bul-rus: Tatoeba-dev, 1000
+   - bul-slv: Tatoeba-dev, 0
+   - bul-srp_Cyrl: Tatoeba-dev, 43
+   - bul-srp_Latn: Tatoeba-dev, 414
+   - bul-ukr: Tatoeba-dev, 1000
+   - bel-ces: Tatoeba-dev, 994
+   - bel_Latn-ces: Tatoeba-dev, 6
+   - bos_Cyrl-ces: Tatoeba-dev, 0
+   - bos_Latn-ces: Tatoeba-dev, 115
+   - bul-ces: Tatoeba-dev, 1000
+   - ces-ces: Tatoeba-dev, 0
+   - ces-cnr: Tatoeba-dev, 0
+   - ces-cnr_Latn: Tatoeba-dev, 0
+   - ces-csb: Tatoeba-dev, 0
+   - ces-csb_Latn: Tatoeba-dev, 0
+   - ces-dsb: Tatoeba-dev, 0
+   - ces-eng: Tatoeba-dev, 13217
+   - ces-hbs: Tatoeba-dev, 1000
+   - ces-hbs_Cyrl: Tatoeba-dev, 0
+   - ces-hrv: Tatoeba-dev, 350
+   - ces-hsb: Tatoeba-dev, 1000
+   - ces-mkd: Tatoeba-dev, 1000
+   - ces-orv_Cyrl: Tatoeba-dev, 0
+   - ces-pol: Tatoeba-dev, 1000
+   - ces-rue: Tatoeba-dev, 0
+   - ces-rus: Tatoeba-dev, 5432
+   - ces-slv: Tatoeba-dev, 1000
+   - ces-srp_Cyrl: Tatoeba-dev, 38
+   - ces-srp_Latn: Tatoeba-dev, 481
+   - ces-ukr: Tatoeba-dev, 1000
+   - bel-cnr: Tatoeba-dev, 0
+   - bel_Latn-cnr: Tatoeba-dev, 0
+   - bos_Cyrl-cnr: Tatoeba-dev, 0
+   - bos_Latn-cnr: Tatoeba-dev, 0
+   - bul-cnr: Tatoeba-dev, 0
+   - ces-cnr: Tatoeba-dev, 0
+   - cnr-cnr: Tatoeba-dev, 0
+   - cnr-cnr_Latn: Tatoeba-dev, 0
+   - cnr-csb: Tatoeba-dev, 0
+   - cnr-csb_Latn: Tatoeba-dev, 0
+   - cnr-dsb: Tatoeba-dev, 0
+   - cnr-eng: Tatoeba-dev, 0
+   - cnr-hbs: Tatoeba-dev, 0
+   - cnr-hbs_Cyrl: Tatoeba-dev, 0
+   - cnr-hrv: Tatoeba-dev, 0
+   - cnr-hsb: Tatoeba-dev, 0
+   - cnr-mkd: Tatoeba-dev, 0
+   - cnr-orv_Cyrl: Tatoeba-dev, 0
+   - cnr-pol: Tatoeba-dev, 0
+   - cnr-rue: Tatoeba-dev, 0
+   - cnr-rus: Tatoeba-dev, 0
+   - cnr-slv: Tatoeba-dev, 0
+   - cnr-srp_Cyrl: Tatoeba-dev, 0
+   - cnr-srp_Latn: Tatoeba-dev, 0
+   - cnr-ukr: Tatoeba-dev, 0
+   - bel-cnr_Latn: Tatoeba-dev, 0
+   - bel_Latn-cnr_Latn: Tatoeba-dev, 0
+   - bos_Cyrl-cnr_Latn: Tatoeba-dev, 0
+   - bos_Latn-cnr_Latn: Tatoeba-dev, 0
+   - bul-cnr_Latn: Tatoeba-dev, 0
+   - ces-cnr_Latn: Tatoeba-dev, 0
+   - cnr-cnr_Latn: Tatoeba-dev, 0
+   - cnr_Latn-cnr_Latn: Tatoeba-dev, 0
+   - cnr_Latn-csb: Tatoeba-dev, 0
+   - cnr_Latn-csb_Latn: Tatoeba-dev, 0
+   - cnr_Latn-dsb: Tatoeba-dev, 0
+   - cnr_Latn-eng: Tatoeba-dev, 0
+   - cnr_Latn-hbs: Tatoeba-dev, 0
+   - cnr_Latn-hbs_Cyrl: Tatoeba-dev, 0
+   - cnr_Latn-hrv: Tatoeba-dev, 0
+   - cnr_Latn-hsb: Tatoeba-dev, 0
+   - cnr_Latn-mkd: Tatoeba-dev, 0
+   - cnr_Latn-orv_Cyrl: Tatoeba-dev, 0
+   - cnr_Latn-pol: Tatoeba-dev, 0
+   - cnr_Latn-rue: Tatoeba-dev, 0
+   - cnr_Latn-rus: Tatoeba-dev, 0
+   - cnr_Latn-slv: Tatoeba-dev, 0
+   - cnr_Latn-srp_Cyrl: Tatoeba-dev, 0
+   - cnr_Latn-srp_Latn: Tatoeba-dev, 0
+   - cnr_Latn-ukr: Tatoeba-dev, 0
+   - bel-csb: Tatoeba-dev, 0
+   - bel_Latn-csb: Tatoeba-dev, 0
+   - bos_Cyrl-csb: Tatoeba-dev, 0
+   - bos_Latn-csb: Tatoeba-dev, 0
+   - bul-csb: Tatoeba-dev, 0
+   - ces-csb: Tatoeba-dev, 0
+   - cnr-csb: Tatoeba-dev, 0
+   - cnr_Latn-csb: Tatoeba-dev, 0
+   - csb-csb: Tatoeba-dev, 0
+   - csb-csb_Latn: Tatoeba-dev, 0
+   - csb-dsb: Tatoeba-dev, 0
+   - csb-eng: Tatoeba-dev, 1
+   - csb-hbs: Tatoeba-dev, 0
+   - csb-hbs_Cyrl: Tatoeba-dev, 0
+   - csb-hrv: Tatoeba-dev, 0
+   - csb-hsb: Tatoeba-dev, 0
+   - csb-mkd: Tatoeba-dev, 0
+   - csb-orv_Cyrl: Tatoeba-dev, 0
+   - csb-pol: Tatoeba-dev, 0
+   - csb-rue: Tatoeba-dev, 0
+   - csb-rus: Tatoeba-dev, 0
+   - csb-slv: Tatoeba-dev, 0
+   - csb-srp_Cyrl: Tatoeba-dev, 0
+   - csb-srp_Latn: Tatoeba-dev, 0
+   - csb-ukr: Tatoeba-dev, 0
+   - bel-csb_Latn: Tatoeba-dev, 0
+   - bel_Latn-csb_Latn: Tatoeba-dev, 0
+   - bos_Cyrl-csb_Latn: Tatoeba-dev, 0
+   - bos_Latn-csb_Latn: Tatoeba-dev, 0
+   - bul-csb_Latn: Tatoeba-dev, 0
+   - ces-csb_Latn: Tatoeba-dev, 0
+   - cnr-csb_Latn: Tatoeba-dev, 0
+   - cnr_Latn-csb_Latn: Tatoeba-dev, 0
+   - csb-csb_Latn: Tatoeba-dev, 0
+   - csb_Latn-csb_Latn: Tatoeba-dev, 0
+   - csb_Latn-dsb: Tatoeba-dev, 0
+   - csb_Latn-eng: Tatoeba-dev, 999
+   - csb_Latn-hbs: Tatoeba-dev, 0
+   - csb_Latn-hbs_Cyrl: Tatoeba-dev, 0
+   - csb_Latn-hrv: Tatoeba-dev, 0
+   - csb_Latn-hsb: Tatoeba-dev, 0
+   - csb_Latn-mkd: Tatoeba-dev, 0
+   - csb_Latn-orv_Cyrl: Tatoeba-dev, 0
+   - csb_Latn-pol: Tatoeba-dev, 0
+   - csb_Latn-rue: Tatoeba-dev, 0
+   - csb_Latn-rus: Tatoeba-dev, 0
+   - csb_Latn-slv: Tatoeba-dev, 0
+   - csb_Latn-srp_Cyrl: Tatoeba-dev, 0
+   - csb_Latn-srp_Latn: Tatoeba-dev, 0
+   - csb_Latn-ukr: Tatoeba-dev, 0
+   - bel-dsb: Tatoeba-dev, 0
+   - bel_Latn-dsb: Tatoeba-dev, 0
+   - bos_Cyrl-dsb: Tatoeba-dev, 0
+   - bos_Latn-dsb: Tatoeba-dev, 0
+   - bul-dsb: Tatoeba-dev, 0
+   - ces-dsb: Tatoeba-dev, 0
+   - cnr-dsb: Tatoeba-dev, 0
+   - cnr_Latn-dsb: Tatoeba-dev, 0
+   - csb-dsb: Tatoeba-dev, 0
+   - csb_Latn-dsb: Tatoeba-dev, 0
+   - dsb-dsb: Tatoeba-dev, 0
+   - dsb-eng: Tatoeba-dev, 173
+   - dsb-hbs: Tatoeba-dev, 0
+   - dsb-hbs_Cyrl: Tatoeba-dev, 0
+   - dsb-hrv: Tatoeba-dev, 0
+   - dsb-hsb: Tatoeba-dev, 0
+   - dsb-mkd: Tatoeba-dev, 0
+   - dsb-orv_Cyrl: Tatoeba-dev, 0
+   - dsb-pol: Tatoeba-dev, 41
+   - dsb-rue: Tatoeba-dev, 0
+   - dsb-rus: Tatoeba-dev, 40
+   - dsb-slv: Tatoeba-dev, 0
+   - dsb-srp_Cyrl: Tatoeba-dev, 0
+   - dsb-srp_Latn: Tatoeba-dev, 0
+   - dsb-ukr: Tatoeba-dev, 0
+   - bel-eng: Tatoeba-dev, 4241
+   - bel_Latn-eng: Tatoeba-dev, 12
+   - bos_Cyrl-eng: Tatoeba-dev, 0
+   - bos_Latn-eng: Tatoeba-dev, 199
+   - bul-eng: Tatoeba-dev, 7753
+   - ces-eng: Tatoeba-dev, 13217
+   - cnr-eng: Tatoeba-dev, 0
+   - cnr_Latn-eng: Tatoeba-dev, 0
+   - csb-eng: Tatoeba-dev, 1
+   - csb_Latn-eng: Tatoeba-dev, 999
+   - dsb-eng: Tatoeba-dev, 173
+   - eng-eng: Tatoeba-dev, 0
+   - eng-hbs: Tatoeba-dev, 6431
+   - eng-hbs_Cyrl: Tatoeba-dev, 0
+   - eng-hrv: Tatoeba-dev, 947
+   - eng-hsb: Tatoeba-dev, 1000
+   - eng-mkd: Tatoeba-dev, 70284
+   - eng-orv_Cyrl: Tatoeba-dev, 0
+   - eng-pol: Tatoeba-dev, 44146
+   - eng-rue: Tatoeba-dev, 0
+   - eng-rus: Tatoeba-dev, 491482
+   - eng-slv: Tatoeba-dev, 1000
+   - eng-srp_Cyrl: Tatoeba-dev, 1049
+   - eng-srp_Latn: Tatoeba-dev, 4236
+   - eng-ukr: Tatoeba-dev, 157764
+   - bel-hbs: Tatoeba-dev, 1000
+   - bel_Latn-hbs: Tatoeba-dev, 0
+   - bos_Cyrl-hbs: Tatoeba-dev, 0
+   - bos_Latn-hbs: Tatoeba-dev, 0
+   - bul-hbs: Tatoeba-dev, 1000
+   - ces-hbs: Tatoeba-dev, 1000
+   - cnr-hbs: Tatoeba-dev, 0
+   - cnr_Latn-hbs: Tatoeba-dev, 0
+   - csb-hbs: Tatoeba-dev, 0
+   - csb_Latn-hbs: Tatoeba-dev, 0
+   - dsb-hbs: Tatoeba-dev, 0
+   - eng-hbs: Tatoeba-dev, 6431
+   - hbs-hbs: Tatoeba-dev, 0
+   - hbs-hbs_Cyrl: Tatoeba-dev, 0
+   - hbs-hrv: Tatoeba-dev, 0
+   - hbs-hsb: Tatoeba-dev, 0
+   - hbs-mkd: Tatoeba-dev, 1000
+   - hbs-orv_Cyrl: Tatoeba-dev, 0
+   - hbs-pol: Tatoeba-dev, 1000
+   - hbs-rue: Tatoeba-dev, 0
+   - hbs-rus: Tatoeba-dev, 4163
+   - hbs-slv: Tatoeba-dev, 0
+   - hbs-srp_Cyrl: Tatoeba-dev, 0
+   - hbs-srp_Latn: Tatoeba-dev, 0
+   - hbs-ukr: Tatoeba-dev, 1000
+   - bel-hbs_Cyrl: Tatoeba-dev, 0
+   - bel_Latn-hbs_Cyrl: Tatoeba-dev, 0
+   - bos_Cyrl-hbs_Cyrl: Tatoeba-dev, 0
+   - bos_Latn-hbs_Cyrl: Tatoeba-dev, 0
+   - bul-hbs_Cyrl: Tatoeba-dev, 0
+   - ces-hbs_Cyrl: Tatoeba-dev, 0
+   - cnr-hbs_Cyrl: Tatoeba-dev, 0
+   - cnr_Latn-hbs_Cyrl: Tatoeba-dev, 0
+   - csb-hbs_Cyrl: Tatoeba-dev, 0
+   - csb_Latn-hbs_Cyrl: Tatoeba-dev, 0
+   - dsb-hbs_Cyrl: Tatoeba-dev, 0
+   - eng-hbs_Cyrl: Tatoeba-dev, 0
+   - hbs-hbs_Cyrl: Tatoeba-dev, 0
+   - hbs_Cyrl-hbs_Cyrl: Tatoeba-dev, 0
+   - hbs_Cyrl-hrv: Tatoeba-dev, 0
+   - hbs_Cyrl-hsb: Tatoeba-dev, 0
+   - hbs_Cyrl-mkd: Tatoeba-dev, 0
+   - hbs_Cyrl-orv_Cyrl: Tatoeba-dev, 0
+   - hbs_Cyrl-pol: Tatoeba-dev, 0
+   - hbs_Cyrl-rue: Tatoeba-dev, 0
+   - hbs_Cyrl-rus: Tatoeba-dev, 0
+   - hbs_Cyrl-slv: Tatoeba-dev, 0
+   - hbs_Cyrl-srp_Cyrl: Tatoeba-dev, 0
+   - hbs_Cyrl-srp_Latn: Tatoeba-dev, 0
+   - hbs_Cyrl-ukr: Tatoeba-dev, 0
+   - bel-hrv: Tatoeba-dev, 493
+   - bel_Latn-hrv: Tatoeba-dev, 1
+   - bos_Cyrl-hrv: Tatoeba-dev, 0
+   - bos_Latn-hrv: Tatoeba-dev, 0
+   - bul-hrv: Tatoeba-dev, 375
+   - ces-hrv: Tatoeba-dev, 350
+   - cnr-hrv: Tatoeba-dev, 0
+   - cnr_Latn-hrv: Tatoeba-dev, 0
+   - csb-hrv: Tatoeba-dev, 0
+   - csb_Latn-hrv: Tatoeba-dev, 0
+   - dsb-hrv: Tatoeba-dev, 0
+   - eng-hrv: Tatoeba-dev, 947
+   - hbs-hrv: Tatoeba-dev, 0
+   - hbs_Cyrl-hrv: Tatoeba-dev, 0
+   - hrv-hrv: Tatoeba-dev, 0
+   - hrv-hsb: Tatoeba-dev, 0
+   - hrv-mkd: Tatoeba-dev, 421
+   - hrv-orv_Cyrl: Tatoeba-dev, 0
+   - hrv-pol: Tatoeba-dev, 351
+   - hrv-rue: Tatoeba-dev, 0
+   - hrv-rus: Tatoeba-dev, 227
+   - hrv-slv: Tatoeba-dev, 0
+   - hrv-srp_Cyrl: Tatoeba-dev, 0
+   - hrv-srp_Latn: Tatoeba-dev, 0
+   - hrv-ukr: Tatoeba-dev, 628
+   - bel-hsb: Tatoeba-dev, 0
+   - bel_Latn-hsb: Tatoeba-dev, 0
+   - bos_Cyrl-hsb: Tatoeba-dev, 0
+   - bos_Latn-hsb: Tatoeba-dev, 0
+   - bul-hsb: Tatoeba-dev, 0
+   - ces-hsb: Tatoeba-dev, 1000
+   - cnr-hsb: Tatoeba-dev, 0
+   - cnr_Latn-hsb: Tatoeba-dev, 0
+   - csb-hsb: Tatoeba-dev, 0
+   - csb_Latn-hsb: Tatoeba-dev, 0
+   - dsb-hsb: Tatoeba-dev, 0
+   - eng-hsb: Tatoeba-dev, 1000
+   - hbs-hsb: Tatoeba-dev, 0
+   - hbs_Cyrl-hsb: Tatoeba-dev, 0
+   - hrv-hsb: Tatoeba-dev, 0
+   - hsb-hsb: Tatoeba-dev, 0
+   - hsb-mkd: Tatoeba-dev, 0
+   - hsb-orv_Cyrl: Tatoeba-dev, 0
+   - hsb-pol: Tatoeba-dev, 0
+   - hsb-rue: Tatoeba-dev, 0
+   - hsb-rus: Tatoeba-dev, 0
+   - hsb-slv: Tatoeba-dev, 0
+   - hsb-srp_Cyrl: Tatoeba-dev, 0
+   - hsb-srp_Latn: Tatoeba-dev, 0
+   - hsb-ukr: Tatoeba-dev, 0
+   - bel-mkd: Tatoeba-dev, 987
+   - bel_Latn-mkd: Tatoeba-dev, 3
+   - bos_Cyrl-mkd: Tatoeba-dev, 0
+   - bos_Latn-mkd: Tatoeba-dev, 204
+   - bul-mkd: Tatoeba-dev, 1000
+   - ces-mkd: Tatoeba-dev, 1000
+   - cnr-mkd: Tatoeba-dev, 0
+   - cnr_Latn-mkd: Tatoeba-dev, 0
+   - csb-mkd: Tatoeba-dev, 0
+   - csb_Latn-mkd: Tatoeba-dev, 0
+   - dsb-mkd: Tatoeba-dev, 0
+   - eng-mkd: Tatoeba-dev, 70284
+   - hbs-mkd: Tatoeba-dev, 1000
+   - hbs_Cyrl-mkd: Tatoeba-dev, 0
+   - hrv-mkd: Tatoeba-dev, 421
+   - hsb-mkd: Tatoeba-dev, 0
+   - mkd-mkd: Tatoeba-dev, 0
+   - mkd-orv_Cyrl: Tatoeba-dev, 0
+   - mkd-pol: Tatoeba-dev, 1000
+   - mkd-rue: Tatoeba-dev, 0
+   - mkd-rus: Tatoeba-dev, 1000
+   - mkd-slv: Tatoeba-dev, 0
+   - mkd-srp_Cyrl: Tatoeba-dev, 87
+   - mkd-srp_Latn: Tatoeba-dev, 287
+   - mkd-ukr: Tatoeba-dev, 1000
+   - bel-orv_Cyrl: Tatoeba-dev, 0
+   - bel_Latn-orv_Cyrl: Tatoeba-dev, 0
+   - bos_Cyrl-orv_Cyrl: Tatoeba-dev, 0
+   - bos_Latn-orv_Cyrl: Tatoeba-dev, 0
+   - bul-orv_Cyrl: Tatoeba-dev, 0
+   - ces-orv_Cyrl: Tatoeba-dev, 0
+   - cnr-orv_Cyrl: Tatoeba-dev, 0
+   - cnr_Latn-orv_Cyrl: Tatoeba-dev, 0
+   - csb-orv_Cyrl: Tatoeba-dev, 0
+   - csb_Latn-orv_Cyrl: Tatoeba-dev, 0
+   - dsb-orv_Cyrl: Tatoeba-dev, 0
+   - eng-orv_Cyrl: Tatoeba-dev, 0
+   - hbs-orv_Cyrl: Tatoeba-dev, 0
+   - hbs_Cyrl-orv_Cyrl: Tatoeba-dev, 0
+   - hrv-orv_Cyrl: Tatoeba-dev, 0
+   - hsb-orv_Cyrl: Tatoeba-dev, 0
+   - mkd-orv_Cyrl: Tatoeba-dev, 0
+   - orv_Cyrl-orv_Cyrl: Tatoeba-dev, 0
+   - orv_Cyrl-pol: Tatoeba-dev, 0
+   - orv_Cyrl-rue: Tatoeba-dev, 0
+   - orv_Cyrl-rus: Tatoeba-dev, 0
+   - orv_Cyrl-slv: Tatoeba-dev, 0
+   - orv_Cyrl-srp_Cyrl: Tatoeba-dev, 0
+   - orv_Cyrl-srp_Latn: Tatoeba-dev, 0
+   - orv_Cyrl-ukr: Tatoeba-dev, 0
+   - bel-pol: Tatoeba-dev, 985
+   - bel_Latn-pol: Tatoeba-dev, 15
+   - bos_Cyrl-pol: Tatoeba-dev, 0
+   - bos_Latn-pol: Tatoeba-dev, 120
+   - bul-pol: Tatoeba-dev, 1000
+   - ces-pol: Tatoeba-dev, 1000
+   - cnr-pol: Tatoeba-dev, 0
+   - cnr_Latn-pol: Tatoeba-dev, 0
+   - csb-pol: Tatoeba-dev, 0
+   - csb_Latn-pol: Tatoeba-dev, 0
+   - dsb-pol: Tatoeba-dev, 41
+   - eng-pol: Tatoeba-dev, 44146
+   - hbs-pol: Tatoeba-dev, 1000
+   - hbs_Cyrl-pol: Tatoeba-dev, 0
+   - hrv-pol: Tatoeba-dev, 351
+   - hsb-pol: Tatoeba-dev, 0
+   - mkd-pol: Tatoeba-dev, 1000
+   - orv_Cyrl-pol: Tatoeba-dev, 0
+   - pol-pol: Tatoeba-dev, 0
+   - pol-rue: Tatoeba-dev, 0
+   - pol-rus: Tatoeba-dev, 1000
+   - pol-slv: Tatoeba-dev, 1000
+   - pol-srp_Cyrl: Tatoeba-dev, 38
+   - pol-srp_Latn: Tatoeba-dev, 473
+   - pol-ukr: Tatoeba-dev, 6900
+   - bel-rue: Tatoeba-dev, 0
+   - bel_Latn-rue: Tatoeba-dev, 0
+   - bos_Cyrl-rue: Tatoeba-dev, 0
+   - bos_Latn-rue: Tatoeba-dev, 0
+   - bul-rue: Tatoeba-dev, 0
+   - ces-rue: Tatoeba-dev, 0
+   - cnr-rue: Tatoeba-dev, 0
+   - cnr_Latn-rue: Tatoeba-dev, 0
+   - csb-rue: Tatoeba-dev, 0
+   - csb_Latn-rue: Tatoeba-dev, 0
+   - dsb-rue: Tatoeba-dev, 0
+   - eng-rue: Tatoeba-dev, 0
+   - hbs-rue: Tatoeba-dev, 0
+   - hbs_Cyrl-rue: Tatoeba-dev, 0
+   - hrv-rue: Tatoeba-dev, 0
+   - hsb-rue: Tatoeba-dev, 0
+   - mkd-rue: Tatoeba-dev, 0
+   - orv_Cyrl-rue: Tatoeba-dev, 0
+   - pol-rue: Tatoeba-dev, 0
+   - rue-rue: Tatoeba-dev, 0
+   - rue-rus: Tatoeba-dev, 0
+   - rue-slv: Tatoeba-dev, 0
+   - rue-srp_Cyrl: Tatoeba-dev, 0
+   - rue-srp_Latn: Tatoeba-dev, 0
+   - rue-ukr: Tatoeba-dev, 0
+   - bel-rus: Tatoeba-dev, 2738
+   - bel_Latn-rus: Tatoeba-dev, 5
+   - bos_Cyrl-rus: Tatoeba-dev, 0
+   - bos_Latn-rus: Tatoeba-dev, 38
+   - bul-rus: Tatoeba-dev, 1000
+   - ces-rus: Tatoeba-dev, 5432
+   - cnr-rus: Tatoeba-dev, 0
+   - cnr_Latn-rus: Tatoeba-dev, 0
+   - csb-rus: Tatoeba-dev, 0
+   - csb_Latn-rus: Tatoeba-dev, 0
+   - dsb-rus: Tatoeba-dev, 40
+   - eng-rus: Tatoeba-dev, 491482
+   - hbs-rus: Tatoeba-dev, 4163
+   - hbs_Cyrl-rus: Tatoeba-dev, 0
+   - hrv-rus: Tatoeba-dev, 227
+   - hsb-rus: Tatoeba-dev, 0
+   - mkd-rus: Tatoeba-dev, 1000
+   - orv_Cyrl-rus: Tatoeba-dev, 0
+   - pol-rus: Tatoeba-dev, 1000
+   - rue-rus: Tatoeba-dev, 0
+   - rus-rus: Tatoeba-dev, 0
+   - rus-slv: Tatoeba-dev, 1000
+   - rus-srp_Cyrl: Tatoeba-dev, 1395
+   - rus-srp_Latn: Tatoeba-dev, 2503
+   - rus-ukr: Tatoeba-dev, 6815
+   - bel-slv: Tatoeba-dev, 0
+   - bel_Latn-slv: Tatoeba-dev, 0
+   - bos_Cyrl-slv: Tatoeba-dev, 0
+   - bos_Latn-slv: Tatoeba-dev, 0
+   - bul-slv: Tatoeba-dev, 0
+   - ces-slv: Tatoeba-dev, 1000
+   - cnr-slv: Tatoeba-dev, 0
+   - cnr_Latn-slv: Tatoeba-dev, 0
+   - csb-slv: Tatoeba-dev, 0
+   - csb_Latn-slv: Tatoeba-dev, 0
+   - dsb-slv: Tatoeba-dev, 0
+   - eng-slv: Tatoeba-dev, 1000
+   - hbs-slv: Tatoeba-dev, 0
+   - hbs_Cyrl-slv: Tatoeba-dev, 0
+   - hrv-slv: Tatoeba-dev, 0
+   - hsb-slv: Tatoeba-dev, 0
+   - mkd-slv: Tatoeba-dev, 0
+   - orv_Cyrl-slv: Tatoeba-dev, 0
+   - pol-slv: Tatoeba-dev, 1000
+   - rue-slv: Tatoeba-dev, 0
+   - rus-slv: Tatoeba-dev, 1000
+   - slv-slv: Tatoeba-dev, 0
+   - slv-srp_Cyrl: Tatoeba-dev, 0
+   - slv-srp_Latn: Tatoeba-dev, 0
+   - slv-ukr: Tatoeba-dev, 999
+   - bel-srp_Cyrl: Tatoeba-dev, 211
+   - bel_Latn-srp_Cyrl: Tatoeba-dev, 0
+   - bos_Cyrl-srp_Cyrl: Tatoeba-dev, 0
+   - bos_Latn-srp_Cyrl: Tatoeba-dev, 0
+   - bul-srp_Cyrl: Tatoeba-dev, 43
+   - ces-srp_Cyrl: Tatoeba-dev, 38
+   - cnr-srp_Cyrl: Tatoeba-dev, 0
+   - cnr_Latn-srp_Cyrl: Tatoeba-dev, 0
+   - csb-srp_Cyrl: Tatoeba-dev, 0
+   - csb_Latn-srp_Cyrl: Tatoeba-dev, 0
+   - dsb-srp_Cyrl: Tatoeba-dev, 0
+   - eng-srp_Cyrl: Tatoeba-dev, 1049
+   - hbs-srp_Cyrl: Tatoeba-dev, 0
+   - hbs_Cyrl-srp_Cyrl: Tatoeba-dev, 0
+   - hrv-srp_Cyrl: Tatoeba-dev, 0
+   - hsb-srp_Cyrl: Tatoeba-dev, 0
+   - mkd-srp_Cyrl: Tatoeba-dev, 87
+   - orv_Cyrl-srp_Cyrl: Tatoeba-dev, 0
+   - pol-srp_Cyrl: Tatoeba-dev, 38
+   - rue-srp_Cyrl: Tatoeba-dev, 0
+   - rus-srp_Cyrl: Tatoeba-dev, 1395
+   - slv-srp_Cyrl: Tatoeba-dev, 0
+   - srp_Cyrl-srp_Cyrl: Tatoeba-dev, 0
+   - srp_Cyrl-srp_Latn: Tatoeba-dev, 0
+   - srp_Cyrl-ukr: Tatoeba-dev, 74
+   - bel-srp_Latn: Tatoeba-dev, 31
+   - bel_Latn-srp_Latn: Tatoeba-dev, 0
+   - bos_Cyrl-srp_Latn: Tatoeba-dev, 0
+   - bos_Latn-srp_Latn: Tatoeba-dev, 0
+   - bul-srp_Latn: Tatoeba-dev, 414
+   - ces-srp_Latn: Tatoeba-dev, 481
+   - cnr-srp_Latn: Tatoeba-dev, 0
+   - cnr_Latn-srp_Latn: Tatoeba-dev, 0
+   - csb-srp_Latn: Tatoeba-dev, 0
+   - csb_Latn-srp_Latn: Tatoeba-dev, 0
+   - dsb-srp_Latn: Tatoeba-dev, 0
+   - eng-srp_Latn: Tatoeba-dev, 4236
+   - hbs-srp_Latn: Tatoeba-dev, 0
+   - hbs_Cyrl-srp_Latn: Tatoeba-dev, 0
+   - hrv-srp_Latn: Tatoeba-dev, 0
+   - hsb-srp_Latn: Tatoeba-dev, 0
+   - mkd-srp_Latn: Tatoeba-dev, 287
+   - orv_Cyrl-srp_Latn: Tatoeba-dev, 0
+   - pol-srp_Latn: Tatoeba-dev, 473
+   - rue-srp_Latn: Tatoeba-dev, 0
+   - rus-srp_Latn: Tatoeba-dev, 2503
+   - slv-srp_Latn: Tatoeba-dev, 0
+   - srp_Cyrl-srp_Latn: Tatoeba-dev, 0
+   - srp_Latn-srp_Latn: Tatoeba-dev, 0
+   - srp_Latn-ukr: Tatoeba-dev, 202
+   - bel-ukr: Tatoeba-dev, 994
+   - bel_Latn-ukr: Tatoeba-dev, 6
+   - bos_Cyrl-ukr: Tatoeba-dev, 0
+   - bos_Latn-ukr: Tatoeba-dev, 95
+   - bul-ukr: Tatoeba-dev, 1000
+   - ces-ukr: Tatoeba-dev, 1000
+   - cnr-ukr: Tatoeba-dev, 0
+   - cnr_Latn-ukr: Tatoeba-dev, 0
+   - csb-ukr: Tatoeba-dev, 0
+   - csb_Latn-ukr: Tatoeba-dev, 0
+   - dsb-ukr: Tatoeba-dev, 0
+   - eng-ukr: Tatoeba-dev, 157764
+   - hbs-ukr: Tatoeba-dev, 1000
+   - hbs_Cyrl-ukr: Tatoeba-dev, 0
+   - hrv-ukr: Tatoeba-dev, 628
+   - hsb-ukr: Tatoeba-dev, 0
+   - mkd-ukr: Tatoeba-dev, 1000
+   - orv_Cyrl-ukr: Tatoeba-dev, 0
+   - pol-ukr: Tatoeba-dev, 6900
+   - rue-ukr: Tatoeba-dev, 0
+   - rus-ukr: Tatoeba-dev, 6815
+   - slv-ukr: Tatoeba-dev, 999
+   - srp_Cyrl-ukr: Tatoeba-dev, 74
+   - srp_Latn-ukr: Tatoeba-dev, 202
+   - ukr-ukr: Tatoeba-dev, 0
+   - total size of shuffled dev data: 1720380
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+BLEU-scores:
+   - newssyscomb2009-ceseng.ces.eng: 22.3
+   - newssyscomb2009-engces.eng.ces: 16.5
+   - news-test2008-engces.eng.ces: 14.9
+   - newstest2009-ceseng.ces.eng: 21.8
+   - newstest2009-engces.eng.ces: 15.5
+   - newstest2010-ceseng.ces.eng: 21.7
+   - newstest2010-engces.eng.ces: 16.2
+   - newstest2011-ceseng.ces.eng: 23.1
+   - newstest2011-engces.eng.ces: 17.3
+   - newstest2012-ceseng.ces.eng: 22.3
+   - newstest2012-cesrus.ces.rus: 16.0
+   - newstest2012-engces.eng.ces: 15.6
+   - newstest2012-engrus.eng.rus: 24.2
+   - newstest2012-rusces.rus.ces: 13.5
+   - newstest2012-ruseng.rus.eng: 28.7
+   - newstest2013-ceseng.ces.eng: 24.3
+   - newstest2013-cesrus.ces.rus: 19.7
+   - newstest2013-engces.eng.ces: 18.0
+   - newstest2013-engrus.eng.rus: 18.4
+   - newstest2013-rusces.rus.ces: 17.6
+   - newstest2013-ruseng.rus.eng: 22.8
+   - newstest2014-csen-ceseng.ces.eng: 25.7
+   - newstest2014-ruen-ruseng.rus.eng: 25.3
+   - newstest2015-encs-ceseng.ces.eng: 23.4
+   - newstest2015-encs-engces.eng.ces: 17.3
+   - newstest2015-enru-engrus.eng.rus: 20.8
+   - newstest2015-enru-ruseng.rus.eng: 23.7
+   - newstest2016-encs-ceseng.ces.eng: 24.9
+   - newstest2016-encs-engces.eng.ces: 19.5
+   - newstest2016-enru-engrus.eng.rus: 19.2
+   - newstest2016-enru-ruseng.rus.eng: 22.9
+   - newstest2017-encs-ceseng.ces.eng: 22.1
+   - newstest2017-encs-engces.eng.ces: 15.8
+   - newstest2017-enru-engrus.eng.rus: 20.8
+   - newstest2017-enru-ruseng.rus.eng: 25.7
+   - newstest2018-encs-ceseng.ces.eng: 22.9
+   - newstest2018-encs-engces.eng.ces: 15.7
+   - newstest2018-enru-engrus.eng.rus: 18.2
+   - newstest2018-enru-ruseng.rus.eng: 22.1
+   - newstest2019-encs-engces.eng.ces: 17.0
+   - newstest2019-enru-engrus.eng.rus: 19.7
+   - newstest2019-ruen-ruseng.rus.eng: 25.2
+   - Tatoeba-test.bel-bul.bel.bul: 100.0
+   - Tatoeba-test.bel-ces.bel.ces: 36.4
+   - Tatoeba-test.bel-eng.bel.eng: 40.6
+   - Tatoeba-test.bel-hbs.bel.hbs: 55.9
+   - Tatoeba-test.bel-mkd.bel.mkd: 40.9
+   - Tatoeba-test.bel-pol.bel.pol: 47.3
+   - Tatoeba-test.bel-rus.bel.rus: 58.1
+   - Tatoeba-test.bel-ukr.bel.ukr: 54.8
+   - Tatoeba-test.bul-bel.bul.bel: 14.1
+   - Tatoeba-test.bul-ces.bul.ces: 36.9
+   - Tatoeba-test.bul-eng.bul.eng: 50.0
+   - Tatoeba-test.bul-hbs.bul.hbs: 53.7
+   - Tatoeba-test.bul-mkd.bul.mkd: 37.5
+   - Tatoeba-test.bul-pol.bul.pol: 44.4
+   - Tatoeba-test.bul-rus.bul.rus: 43.1
+   - Tatoeba-test.bul-ukr.bul.ukr: 49.7
+   - Tatoeba-test.ces-bel.ces.bel: 38.5
+   - Tatoeba-test.ces-bul.ces.bul: 75.8
+   - Tatoeba-test.ces-eng.ces.eng: 47.4
+   - Tatoeba-test.ces-hbs.ces.hbs: 57.3
+   - Tatoeba-test.ces-hsb.ces.hsb: 6.1
+   - Tatoeba-test.ces-mkd.ces.mkd: 34.4
+   - Tatoeba-test.ces-pol.ces.pol: 44.4
+   - Tatoeba-test.ces-rus.ces.rus: 50.4
+   - Tatoeba-test.ces-slv.ces.slv: 4.9
+   - Tatoeba-test.ces-ukr.ces.ukr: 51.3
+   - Tatoeba-test.csb-eng.csb.eng: 16.4
+   - Tatoeba-test.dsb-eng.dsb.eng: 22.3
+   - Tatoeba-test.dsb-pol.dsb.pol: 14.9
+   - Tatoeba-test.dsb-rus.dsb.rus: 42.7
+   - Tatoeba-test.eng-bel.eng.bel: 20.3
+   - Tatoeba-test.eng-bul.eng.bul: 42.8
+   - Tatoeba-test.eng-ces.eng.ces: 37.5
+   - Tatoeba-test.eng-csb.eng.csb: 5.1
+   - Tatoeba-test.eng-dsb.eng.dsb: 0.9
+   - Tatoeba-test.eng-hbs.eng.hbs: 36.7
+   - Tatoeba-test.eng-hsb.eng.hsb: 10.5
+   - Tatoeba-test.eng-mkd.eng.mkd: 40.4
+   - Tatoeba-test.eng-orv.eng.orv: 0.3
+   - Tatoeba-test.eng-pol.eng.pol: 37.8
+   - Tatoeba-test.eng-rue.eng.rue: 0.5
+   - Tatoeba-test.eng-rus.eng.rus: 38.4
+   - Tatoeba-test.eng-slv.eng.slv: 15.6
+   - Tatoeba-test.eng-ukr.eng.ukr: 36.0
+   - Tatoeba-test.hbs-bel.hbs.bel: 38.2
+   - Tatoeba-test.hbs-bul.hbs.bul: 100.0
+   - Tatoeba-test.hbs-ces.hbs.ces: 46.4
+   - Tatoeba-test.hbs-eng.hbs.eng: 50.5
+   - Tatoeba-test.hbs-mkd.hbs.mkd: 38.0
+   - Tatoeba-test.hbs-pol.hbs.pol: 42.9
+   - Tatoeba-test.hbs-rus.hbs.rus: 52.4
+   - Tatoeba-test.hbs-ukr.hbs.ukr: 51.1
+   - Tatoeba-test.hsb-ces.hsb.ces: 17.4
+   - Tatoeba-test.hsb-eng.hsb.eng: 34.2
+   - Tatoeba-test.mkd-bel.mkd.bel: 12.7
+   - Tatoeba-test.mkd-bul.mkd.bul: 54.2
+   - Tatoeba-test.mkd-ces.mkd.ces: 12.1
+   - Tatoeba-test.mkd-eng.mkd.eng: 49.1
+   - Tatoeba-test.mkd-hbs.mkd.hbs: 10.7
+   - Tatoeba-test.mkd-pol.mkd.pol: 53.7
+   - Tatoeba-test.mkd-rus.mkd.rus: 26.5
+   - Tatoeba-test.mkd-ukr.mkd.ukr: 42.7
+   - Tatoeba-test.multi.multi: 43.7
+   - Tatoeba-test.orv-eng.orv.eng: 7.9
+   - Tatoeba-test.orv-pol.orv.pol: 11.2
+   - Tatoeba-test.orv-rus.orv.rus: 9.2
+   - Tatoeba-test.orv-ukr.orv.ukr: 6.0
+   - Tatoeba-test.pol-bel.pol.bel: 31.5
+   - Tatoeba-test.pol-bul.pol.bul: 34.8
+   - Tatoeba-test.pol-ces.pol.ces: 42.7
+   - Tatoeba-test.pol-dsb.pol.dsb: 2.2
+   - Tatoeba-test.pol-eng.pol.eng: 45.6
+   - Tatoeba-test.pol-hbs.pol.hbs: 45.0
+   - Tatoeba-test.pol-mkd.pol.mkd: 38.0
+   - Tatoeba-test.pol-orv.pol.orv: 0.7
+   - Tatoeba-test.pol-rus.pol.rus: 48.2
+   - Tatoeba-test.pol-slv.pol.slv: 6.4
+   - Tatoeba-test.pol-ukr.pol.ukr: 46.7
+   - Tatoeba-test.rue-eng.rue.eng: 21.5
+   - Tatoeba-test.rus-bel.rus.bel: 36.6
+   - Tatoeba-test.rus-bul.rus.bul: 44.3
+   - Tatoeba-test.rus-ces.rus.ces: 47.8
+   - Tatoeba-test.rus-dsb.rus.dsb: 16.0
+   - Tatoeba-test.rus-eng.rus.eng: 50.0
+   - Tatoeba-test.rus-hbs.rus.hbs: 44.5
+   - Tatoeba-test.rus-mkd.rus.mkd: 30.1
+   - Tatoeba-test.rus-orv.rus.orv: 0.1
+   - Tatoeba-test.rus-pol.rus.pol: 44.7
+   - Tatoeba-test.rus-slv.rus.slv: 29.6
+   - Tatoeba-test.rus-ukr.rus.ukr: 56.8
+   - Tatoeba-test.slv-ces.slv.ces: 39.6
+   - Tatoeba-test.slv-eng.slv.eng: 38.7
+   - Tatoeba-test.slv-pol.slv.pol: 40.9
+   - Tatoeba-test.slv-rus.slv.rus: 46.5
+   - Tatoeba-test.slv-ukr.slv.ukr: 35.1
+   - Tatoeba-test.ukr-bel.ukr.bel: 40.1
+   - Tatoeba-test.ukr-bul.ukr.bul: 56.6
+   - Tatoeba-test.ukr-ces.ukr.ces: 50.6
+   - Tatoeba-test.ukr-eng.ukr.eng: 49.1
+   - Tatoeba-test.ukr-hbs.ukr.hbs: 47.2
+   - Tatoeba-test.ukr-mkd.ukr.mkd: 19.3
+   - Tatoeba-test.ukr-orv.ukr.orv: 0.2
+   - Tatoeba-test.ukr-pol.ukr.pol: 48.8
+   - Tatoeba-test.ukr-rus.ukr.rus: 62.0
+   - Tatoeba-test.ukr-slv.ukr.slv: 14.6
+   - tico19-test-engrus.eng.rus: 17.1
+chr-F-scores:
+   - newssyscomb2009-ceseng.ces.eng: 0.510
+   - newssyscomb2009-engces.eng.ces: 0.448
+   - news-test2008-engces.eng.ces: 0.431
+   - newstest2009-ceseng.ces.eng: 0.507
+   - newstest2009-engces.eng.ces: 0.442
+   - newstest2010-ceseng.ces.eng: 0.513
+   - newstest2010-engces.eng.ces: 0.449
+   - newstest2011-ceseng.ces.eng: 0.515
+   - newstest2011-engces.eng.ces: 0.452
+   - newstest2012-ceseng.ces.eng: 0.509
+   - newstest2012-cesrus.ces.rus: 0.441
+   - newstest2012-engces.eng.ces: 0.430
+   - newstest2012-engrus.eng.rus: 0.520
+   - newstest2012-rusces.rus.ces: 0.403
+   - newstest2012-ruseng.rus.eng: 0.558
+   - newstest2013-ceseng.ces.eng: 0.520
+   - newstest2013-cesrus.ces.rus: 0.474
+   - newstest2013-engces.eng.ces: 0.454
+   - newstest2013-engrus.eng.rus: 0.464
+   - newstest2013-rusces.rus.ces: 0.446
+   - newstest2013-ruseng.rus.eng: 0.503
+   - newstest2014-csen-ceseng.ces.eng: 0.544
+   - newstest2014-ruen-ruseng.rus.eng: 0.539
+   - newstest2015-encs-ceseng.ces.eng: 0.508
+   - newstest2015-encs-engces.eng.ces: 0.456
+   - newstest2015-enru-engrus.eng.rus: 0.493
+   - newstest2015-enru-ruseng.rus.eng: 0.516
+   - newstest2016-encs-ceseng.ces.eng: 0.529
+   - newstest2016-encs-engces.eng.ces: 0.470
+   - newstest2016-enru-engrus.eng.rus: 0.481
+   - newstest2016-enru-ruseng.rus.eng: 0.513
+   - newstest2017-encs-ceseng.ces.eng: 0.503
+   - newstest2017-encs-engces.eng.ces: 0.435
+   - newstest2017-enru-engrus.eng.rus: 0.497
+   - newstest2017-enru-ruseng.rus.eng: 0.532
+   - newstest2018-encs-ceseng.ces.eng: 0.512
+   - newstest2018-encs-engces.eng.ces: 0.441
+   - newstest2018-enru-engrus.eng.rus: 0.483
+   - newstest2018-enru-ruseng.rus.eng: 0.507
+   - newstest2019-encs-engces.eng.ces: 0.449
+   - newstest2019-enru-engrus.eng.rus: 0.464
+   - newstest2019-ruen-ruseng.rus.eng: 0.527
+   - Tatoeba-test.bel-bul.bel.bul: 1.000
+   - Tatoeba-test.bel-ces.bel.ces: 0.656
+   - Tatoeba-test.bel-eng.bel.eng: 0.596
+   - Tatoeba-test.bel-hbs.bel.hbs: 0.710
+   - Tatoeba-test.bel-mkd.bel.mkd: 0.737
+   - Tatoeba-test.bel-pol.bel.pol: 0.683
+   - Tatoeba-test.bel-rus.bel.rus: 0.767
+   - Tatoeba-test.bel-ukr.bel.ukr: 0.744
+   - Tatoeba-test.bul-bel.bul.bel: 0.553
+   - Tatoeba-test.bul-ces.bul.ces: 0.601
+   - Tatoeba-test.bul-eng.bul.eng: 0.661
+   - Tatoeba-test.bul-hbs.bul.hbs: 0.807
+   - Tatoeba-test.bul-mkd.bul.mkd: 0.780
+   - Tatoeba-test.bul-pol.bul.pol: 0.631
+   - Tatoeba-test.bul-rus.bul.rus: 0.647
+   - Tatoeba-test.bul-ukr.bul.ukr: 0.688
+   - Tatoeba-test.ces-bel.ces.bel: 0.576
+   - Tatoeba-test.ces-bul.ces.bul: 0.859
+   - Tatoeba-test.ces-eng.ces.eng: 0.648
+   - Tatoeba-test.ces-hbs.ces.hbs: 0.727
+   - Tatoeba-test.ces-hsb.ces.hsb: 0.240
+   - Tatoeba-test.ces-mkd.ces.mkd: 0.681
+   - Tatoeba-test.ces-pol.ces.pol: 0.657
+   - Tatoeba-test.ces-rus.ces.rus: 0.684
+   - Tatoeba-test.ces-slv.ces.slv: 0.245
+   - Tatoeba-test.ces-ukr.ces.ukr: 0.678
+   - Tatoeba-test.csb-eng.csb.eng: 0.396
+   - Tatoeba-test.dsb-eng.dsb.eng: 0.410
+   - Tatoeba-test.dsb-pol.dsb.pol: 0.432
+   - Tatoeba-test.dsb-rus.dsb.rus: 0.770
+   - Tatoeba-test.eng-bel.eng.bel: 0.461
+   - Tatoeba-test.eng-bul.eng.bul: 0.616
+   - Tatoeba-test.eng-ces.eng.ces: 0.579
+   - Tatoeba-test.eng-csb.eng.csb: 0.217
+   - Tatoeba-test.eng-dsb.eng.dsb: 0.163
+   - Tatoeba-test.eng-hbs.eng.hbs: 0.583
+   - Tatoeba-test.eng-hsb.eng.hsb: 0.284
+   - Tatoeba-test.eng-mkd.eng.mkd: 0.602
+   - Tatoeba-test.eng-orv.eng.orv: 0.011
+   - Tatoeba-test.eng-pol.eng.pol: 0.598
+   - Tatoeba-test.eng-rue.eng.rue: 0.017
+   - Tatoeba-test.eng-rus.eng.rus: 0.589
+   - Tatoeba-test.eng-slv.eng.slv: 0.334
+   - Tatoeba-test.eng-ukr.eng.ukr: 0.571
+   - Tatoeba-test.hbs-bel.hbs.bel: 0.564
+   - Tatoeba-test.hbs-bul.hbs.bul: 1.000
+   - Tatoeba-test.hbs-ces.hbs.ces: 0.693
+   - Tatoeba-test.hbs-eng.hbs.eng: 0.662
+   - Tatoeba-test.hbs-mkd.hbs.mkd: 0.718
+   - Tatoeba-test.hbs-pol.hbs.pol: 0.639
+   - Tatoeba-test.hbs-rus.hbs.rus: 0.704
+   - Tatoeba-test.hbs-ukr.hbs.ukr: 0.689
+   - Tatoeba-test.hsb-ces.hsb.ces: 0.373
+   - Tatoeba-test.hsb-eng.hsb.eng: 0.541
+   - Tatoeba-test.mkd-bel.mkd.bel: 0.479
+   - Tatoeba-test.mkd-bul.mkd.bul: 0.833
+   - Tatoeba-test.mkd-ces.mkd.ces: 0.385
+   - Tatoeba-test.mkd-eng.mkd.eng: 0.640
+   - Tatoeba-test.mkd-hbs.mkd.hbs: 0.460
+   - Tatoeba-test.mkd-pol.mkd.pol: 0.833
+   - Tatoeba-test.mkd-rus.mkd.rus: 0.668
+   - Tatoeba-test.mkd-ukr.mkd.ukr: 0.708
+   - Tatoeba-test.multi.multi: 0.614
+   - Tatoeba-test.orv-eng.orv.eng: 0.259
+   - Tatoeba-test.orv-pol.orv.pol: 0.352
+   - Tatoeba-test.orv-rus.orv.rus: 0.268
+   - Tatoeba-test.orv-ukr.orv.ukr: 0.231
+   - Tatoeba-test.pol-bel.pol.bel: 0.563
+   - Tatoeba-test.pol-bul.pol.bul: 0.568
+   - Tatoeba-test.pol-ces.pol.ces: 0.626
+   - Tatoeba-test.pol-dsb.pol.dsb: 0.168
+   - Tatoeba-test.pol-eng.pol.eng: 0.633
+   - Tatoeba-test.pol-hbs.pol.hbs: 0.651
+   - Tatoeba-test.pol-mkd.pol.mkd: 0.718
+   - Tatoeba-test.pol-orv.pol.orv: 0.007
+   - Tatoeba-test.pol-rus.pol.rus: 0.670
+   - Tatoeba-test.pol-slv.pol.slv: 0.255
+   - Tatoeba-test.pol-ukr.pol.ukr: 0.663
+   - Tatoeba-test.rue-eng.rue.eng: 0.418
+   - Tatoeba-test.rus-bel.rus.bel: 0.603
+   - Tatoeba-test.rus-bul.rus.bul: 0.656
+   - Tatoeba-test.rus-ces.rus.ces: 0.659
+   - Tatoeba-test.rus-dsb.rus.dsb: 0.030
+   - Tatoeba-test.rus-eng.rus.eng: 0.658
+   - Tatoeba-test.rus-hbs.rus.hbs: 0.654
+   - Tatoeba-test.rus-mkd.rus.mkd: 0.593
+   - Tatoeba-test.rus-orv.rus.orv: 0.007
+   - Tatoeba-test.rus-pol.rus.pol: 0.652
+   - Tatoeba-test.rus-slv.rus.slv: 0.478
+   - Tatoeba-test.rus-ukr.rus.ukr: 0.745
+   - Tatoeba-test.slv-ces.slv.ces: 0.594
+   - Tatoeba-test.slv-eng.slv.eng: 0.576
+   - Tatoeba-test.slv-pol.slv.pol: 0.608
+   - Tatoeba-test.slv-rus.slv.rus: 0.645
+   - Tatoeba-test.slv-ukr.slv.ukr: 0.553
+   - Tatoeba-test.ukr-bel.ukr.bel: 0.624
+   - Tatoeba-test.ukr-bul.ukr.bul: 0.732
+   - Tatoeba-test.ukr-ces.ukr.ces: 0.675
+   - Tatoeba-test.ukr-eng.ukr.eng: 0.653
+   - Tatoeba-test.ukr-hbs.ukr.hbs: 0.671
+   - Tatoeba-test.ukr-mkd.ukr.mkd: 0.535
+   - Tatoeba-test.ukr-orv.ukr.orv: 0.010
+   - Tatoeba-test.ukr-pol.ukr.pol: 0.690
+   - Tatoeba-test.ukr-rus.ukr.rus: 0.780
+   - Tatoeba-test.ukr-slv.ukr.slv: 0.291
+   - tico19-test-engrus.eng.rus: 0.461

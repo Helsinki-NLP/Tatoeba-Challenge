@@ -1,0 +1,41 @@
+release: deu-msa/opus-2021-02-16.zip
+release-date: 2021-02-16
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+use-target-labels:
+   - >>msa<<
+   - deu
+target-languages:
+   - msa
+training-data:
+   - deu-ind: Tatoeba-train (5319357) 
+   - deu-jak_Latn: Tatoeba-train (6601) 
+   - deu-min: Tatoeba-train (8) 
+   - deu-msa_Latn: Tatoeba-train (1402955) 
+   - deu-zlm: Tatoeba-train (342) 
+   - deu-zlm_Latn: Tatoeba-train (77905) 
+   - deu-zsm_Latn: 
+validation-data:
+   - deu-ind: Tatoeba-dev, 787
+   - deu-jak_Latn: Tatoeba-dev, 1
+   - deu-min: Tatoeba-dev, 0
+   - deu-msa_Latn: Tatoeba-dev, 202
+   - deu-zlm: Tatoeba-dev, 0
+   - deu-zlm_Latn: Tatoeba-dev, 10
+   - deu-zsm_Latn: Tatoeba-dev, 0
+   - total size of shuffled dev data: 995
+   - devset = top 995  lines of Tatoeba-dev.src.shuffled!
+BLEU-scores:
+   - Tatoeba-test.deu-msa.deu.msa: 32.5
+   - Tatoeba-test.deu.msa: 34.8
+chr-F-scores:
+   - Tatoeba-test.deu-msa.deu.msa: 0.592
+   - Tatoeba-test.deu.msa: 0.613

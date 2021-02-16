@@ -1,0 +1,21 @@
+release: eng-glg/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - glg
+BLEU-scores:
+   - Tatoeba-test.eng.glg: 37.8
+   - Tatoeba-test.eng-glg.eng.glg: 37.8
+chr-F-scores:
+   - Tatoeba-test.eng.glg: 0.593
+   - Tatoeba-test.eng-glg.eng.glg: 0.593

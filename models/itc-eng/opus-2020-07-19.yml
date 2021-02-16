@@ -1,0 +1,114 @@
+release: itc-eng/opus-2020-07-19.zip
+release-date: 2020-07-19
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - arg
+   - ast
+   - cat
+   - cos
+   - egl
+   - ext
+   - fra
+   - frm_Latn
+   - gcf_Latn
+   - glg
+   - hat
+   - ind
+   - ita
+   - lad
+   - lad_Latn
+   - lat_Latn
+   - lij
+   - lld_Latn
+   - lmo
+   - max_Latn
+   - mfe
+   - min
+   - mwl
+   - oci
+   - pap
+   - pms
+   - por
+   - roh
+   - ron
+   - scn
+   - spa
+   - tmw_Latn
+   - vec
+   - wln
+   - zlm_Latn
+   - zsm_Latn
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.arg-eng.arg.eng: 40.5
+   - Tatoeba-test.ast-eng.ast.eng: 33.6
+   - Tatoeba-test.cat-eng.cat.eng: 54.3
+   - Tatoeba-test.cos-eng.cos.eng: 60.3
+   - Tatoeba-test.egl-eng.egl.eng: 4.7
+   - Tatoeba-test.ext-eng.ext.eng: 42.7
+   - Tatoeba-test.fra-eng.fra.eng: 52.9
+   - Tatoeba-test.frm-eng.frm.eng: 25.0
+   - Tatoeba-test.gcf-eng.gcf.eng: 17.8
+   - Tatoeba-test.glg-eng.glg.eng: 54.1
+   - Tatoeba-test.hat-eng.hat.eng: 39.8
+   - Tatoeba-test.ita-eng.ita.eng: 64.1
+   - Tatoeba-test.lad-eng.lad.eng: 19.8
+   - Tatoeba-test.lat-eng.lat.eng: 18.8
+   - Tatoeba-test.lij-eng.lij.eng: 9.0
+   - Tatoeba-test.lld-eng.lld.eng: 18.3
+   - Tatoeba-test.lmo-eng.lmo.eng: 10.8
+   - Tatoeba-test.mfe-eng.mfe.eng: 56.9
+   - Tatoeba-test.msa-eng.msa.eng: 40.1
+   - Tatoeba-test.multi.eng: 47.3
+   - Tatoeba-test.mwl-eng.mwl.eng: 41.3
+   - Tatoeba-test.oci-eng.oci.eng: 20.3
+   - Tatoeba-test.pap-eng.pap.eng: 55.5
+   - Tatoeba-test.pms-eng.pms.eng: 12.2
+   - Tatoeba-test.por-eng.por.eng: 58.8
+   - Tatoeba-test.roh-eng.roh.eng: 12.8
+   - Tatoeba-test.ron-eng.ron.eng: 54.3
+   - Tatoeba-test.scn-eng.scn.eng: 50.9
+   - Tatoeba-test.spa-eng.spa.eng: 55.6
+   - Tatoeba-test.vec-eng.vec.eng: 29.3
+   - Tatoeba-test.wln-eng.wln.eng: 8.5
+chr-F-scores:
+   - Tatoeba-test.arg-eng.arg.eng: 0.512
+   - Tatoeba-test.ast-eng.ast.eng: 0.490
+   - Tatoeba-test.cat-eng.cat.eng: 0.698
+   - Tatoeba-test.cos-eng.cos.eng: 0.690
+   - Tatoeba-test.egl-eng.egl.eng: 0.190
+   - Tatoeba-test.ext-eng.ext.eng: 0.567
+   - Tatoeba-test.fra-eng.fra.eng: 0.684
+   - Tatoeba-test.frm-eng.frm.eng: 0.409
+   - Tatoeba-test.gcf-eng.gcf.eng: 0.330
+   - Tatoeba-test.glg-eng.glg.eng: 0.697
+   - Tatoeba-test.hat-eng.hat.eng: 0.573
+   - Tatoeba-test.ita-eng.ita.eng: 0.762
+   - Tatoeba-test.lad-eng.lad.eng: 0.433
+   - Tatoeba-test.lat-eng.lat.eng: 0.381
+   - Tatoeba-test.lij-eng.lij.eng: 0.280
+   - Tatoeba-test.lld-eng.lld.eng: 0.332
+   - Tatoeba-test.lmo-eng.lmo.eng: 0.300
+   - Tatoeba-test.mfe-eng.mfe.eng: 0.702
+   - Tatoeba-test.msa-eng.msa.eng: 0.587
+   - Tatoeba-test.multi.eng: 0.630
+   - Tatoeba-test.mwl-eng.mwl.eng: 0.707
+   - Tatoeba-test.oci-eng.oci.eng: 0.396
+   - Tatoeba-test.pap-eng.pap.eng: 0.653
+   - Tatoeba-test.pms-eng.pms.eng: 0.325
+   - Tatoeba-test.por-eng.por.eng: 0.731
+   - Tatoeba-test.roh-eng.roh.eng: 0.383
+   - Tatoeba-test.ron-eng.ron.eng: 0.695
+   - Tatoeba-test.scn-eng.scn.eng: 0.503
+   - Tatoeba-test.spa-eng.spa.eng: 0.710
+   - Tatoeba-test.vec-eng.vec.eng: 0.393
+   - Tatoeba-test.wln-eng.wln.eng: 0.272

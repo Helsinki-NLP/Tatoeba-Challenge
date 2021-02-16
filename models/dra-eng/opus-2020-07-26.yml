@@ -1,0 +1,30 @@
+release: dra-eng/opus-2020-07-26.zip
+release-date: 2020-07-26
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - kan
+   - mal
+   - tam
+   - tel
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.kan-eng.kan.eng: 8.6
+   - Tatoeba-test.mal-eng.mal.eng: 36.8
+   - Tatoeba-test.multi.eng: 25.5
+   - Tatoeba-test.tam-eng.tam.eng: 22.9
+   - Tatoeba-test.tel-eng.tel.eng: 12.2
+chr-F-scores:
+   - Tatoeba-test.kan-eng.kan.eng: 0.288
+   - Tatoeba-test.mal-eng.mal.eng: 0.533
+   - Tatoeba-test.multi.eng: 0.443
+   - Tatoeba-test.tam-eng.tam.eng: 0.405
+   - Tatoeba-test.tel-eng.tel.eng: 0.322

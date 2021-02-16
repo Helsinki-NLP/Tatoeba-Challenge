@@ -1,0 +1,22 @@
+release: kur-deu/opus-2020-09-10.zip
+release-date: 2020-09-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - kmr
+   - kmr_Latn
+   - kur_Arab
+   - kur_Latn
+target-languages:
+   - deu
+BLEU-scores:
+   - Tatoeba-test.kur.deu: 0.0
+chr-F-scores:
+   - Tatoeba-test.kur.deu: 0.016

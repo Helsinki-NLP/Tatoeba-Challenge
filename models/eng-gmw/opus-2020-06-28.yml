@@ -1,0 +1,87 @@
+release: eng-gmw/opus-2020-06-28.zip
+release-date: 2020-06-28
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - afr
+   - ang_Latn
+   - deu
+   - enm_Latn
+   - frr
+   - fry
+   - gos
+   - gsw
+   - ksh
+   - ltz
+   - nds
+   - nld
+   - pdc
+   - sco
+   - stq
+   - swg
+   - yid
+use-target-labels:
+   - >>afr<<
+   - >>ang_Latn<<
+   - >>deu<<
+   - >>enm_Latn<<
+   - >>frr<<
+   - >>fry<<
+   - >>gos<<
+   - >>gsw<<
+   - >>ksh<<
+   - >>ltz<<
+   - >>nds<<
+   - >>nld<<
+   - >>pdc<<
+   - >>sco<<
+   - >>stq<<
+   - >>swg<<
+   - >>yid<<
+BLEU-scores:
+   - Tatoeba-test.eng-afr.eng.afr: 56.0
+   - Tatoeba-test.eng-ang.eng.ang: 5.6
+   - Tatoeba-test.eng-deu.eng.deu: 39.2
+   - Tatoeba-test.eng-enm.eng.enm: 1.8
+   - Tatoeba-test.eng-frr.eng.frr: 8.4
+   - Tatoeba-test.eng-fry.eng.fry: 16.8
+   - Tatoeba-test.eng-gos.eng.gos: 2.6
+   - Tatoeba-test.eng-gsw.eng.gsw: 1.5
+   - Tatoeba-test.eng-ksh.eng.ksh: 1.4
+   - Tatoeba-test.eng-ltz.eng.ltz: 18.0
+   - Tatoeba-test.eng.multi: 39.5
+   - Tatoeba-test.eng-nds.eng.nds: 18.7
+   - Tatoeba-test.eng-nld.eng.nld: 52.4
+   - Tatoeba-test.eng-pdc.eng.pdc: 10.0
+   - Tatoeba-test.eng-sco.eng.sco: 31.6
+   - Tatoeba-test.eng-stq.eng.stq: 9.5
+   - Tatoeba-test.eng-swg.eng.swg: 7.7
+   - Tatoeba-test.eng-yid.eng.yid: 6.6
+chr-F-scores:
+   - Tatoeba-test.eng-afr.eng.afr: 0.739
+   - Tatoeba-test.eng-ang.eng.ang: 0.146
+   - Tatoeba-test.eng-deu.eng.deu: 0.605
+   - Tatoeba-test.eng-enm.eng.enm: 0.249
+   - Tatoeba-test.eng-frr.eng.frr: 0.250
+   - Tatoeba-test.eng-fry.eng.fry: 0.412
+   - Tatoeba-test.eng-gos.eng.gos: 0.258
+   - Tatoeba-test.eng-gsw.eng.gsw: 0.220
+   - Tatoeba-test.eng-ksh.eng.ksh: 0.225
+   - Tatoeba-test.eng-ltz.eng.ltz: 0.341
+   - Tatoeba-test.eng.multi: 0.593
+   - Tatoeba-test.eng-nds.eng.nds: 0.434
+   - Tatoeba-test.eng-nld.eng.nld: 0.694
+   - Tatoeba-test.eng-pdc.eng.pdc: 0.291
+   - Tatoeba-test.eng-sco.eng.sco: 0.519
+   - Tatoeba-test.eng-stq.eng.stq: 0.407
+   - Tatoeba-test.eng-swg.eng.swg: 0.276
+   - Tatoeba-test.eng-yid.eng.yid: 0.291

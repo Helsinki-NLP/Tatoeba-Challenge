@@ -1,0 +1,21 @@
+release: fry-nld/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - fry
+target-languages:
+   - nld
+BLEU-scores:
+   - Tatoeba-test.fry.nld: 0.4
+   - Tatoeba-test.fry-nld.fry.nld: 0.4
+chr-F-scores:
+   - Tatoeba-test.fry.nld: 0.120
+   - Tatoeba-test.fry-nld.fry.nld: 0.120

@@ -1,0 +1,21 @@
+release: nds-rus/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - nds
+target-languages:
+   - rus
+BLEU-scores:
+   - Tatoeba-test.nds.rus: 0.3
+   - Tatoeba-test.nds-rus.nds.rus: 0.3
+chr-F-scores:
+   - Tatoeba-test.nds.rus: 0.089
+   - Tatoeba-test.nds-rus.nds.rus: 0.089

@@ -1,0 +1,21 @@
+release: cym-eng/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - cym
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.cym.eng: 35.6
+   - Tatoeba-test.cym-eng.cym.eng: 35.6
+chr-F-scores:
+   - Tatoeba-test.cym.eng: 0.535
+   - Tatoeba-test.cym-eng.cym.eng: 0.535

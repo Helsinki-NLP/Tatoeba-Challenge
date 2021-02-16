@@ -1,0 +1,21 @@
+release: jpn-ukr/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm4k)
+subwords:
+   - source: spm32k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - jpn
+target-languages:
+   - ukr
+BLEU-scores:
+   - Tatoeba-test.jpn.ukr: 0.5
+   - Tatoeba-test.jpn-ukr.jpn.ukr: 0.5
+chr-F-scores:
+   - Tatoeba-test.jpn.ukr: 0.111
+   - Tatoeba-test.jpn-ukr.jpn.ukr: 0.111

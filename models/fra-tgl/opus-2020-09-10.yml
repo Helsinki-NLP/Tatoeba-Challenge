@@ -1,0 +1,23 @@
+release: fra-tgl/opus-2020-09-10.zip
+release-date: 2020-09-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - fra
+target-languages:
+   - tgl
+   - tgl_Latn
+use-target-labels:
+   - >>tgl<<
+   - >>tgl_Latn<<
+BLEU-scores:
+   - Tatoeba-test.fra.tgl: 21.1
+chr-F-scores:
+   - Tatoeba-test.fra.tgl: 0.529

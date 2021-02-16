@@ -1,4 +1,4 @@
-# opus-2020-09-10.zip
+# opus-2021-02-12.zip
 
 * dataset: opus
 * model: transformer-align
@@ -6,9 +6,9 @@
 * target language(s): fin
 * model: transformer-align
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* download: [opus-2020-09-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus-2020-09-10.zip)
-* test set translations: [opus-2020-09-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus-2020-09-10.test.txt)
-* test set scores: [opus-2020-09-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus-2020-09-10.eval.txt)
+* download: [opus-2021-02-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus-2021-02-12.zip)
+* test set translations: [opus-2021-02-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus-2021-02-12.test.txt)
+* test set scores: [opus-2021-02-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus-2021-02-12.eval.txt)
 
 ## Benchmarks
 
@@ -23,4 +23,5 @@
 | newstestB2016-enfi-engfin.eng.fin 	| 19.7 	| 0.542 |
 | newstestB2017-enfi-engfin.eng.fin 	| 22.7 	| 0.565 |
 | Tatoeba-test.eng.fin 	| 38.7 	| 0.629 |
+| Tatoeba-test.eng-fin.eng.fin 	| 38.7 	| 0.629 |
 

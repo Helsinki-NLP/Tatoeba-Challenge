@@ -1,0 +1,145 @@
+release: gmw-zle/opus1m-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus1m
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - afr
+   - ang
+   - bar
+   - bis
+   - bzj
+   - deu
+   - djk
+   - drt
+   - eng
+   - enm
+   - frr
+   - fry
+   - gos
+   - gsw
+   - hrx
+   - jam
+   - kri
+   - ksh
+   - lim
+   - ltz
+   - nds
+   - nld
+   - ofs
+   - osx
+   - pcm
+   - pdc
+   - pdt
+   - pfl
+   - pih
+   - pis
+   - sco
+   - srm
+   - srn
+   - stq
+   - swg
+   - tpi
+   - vls
+   - wae
+   - wes
+   - yid
+   - zea
+target-languages:
+   - bel
+   - orv
+   - rue
+   - rus
+   - ukr
+use-target-labels:
+   - >>bel<<
+   - >>orv<<
+   - >>rue<<
+   - >>rus<<
+   - >>ukr<<
+BLEU-scores:
+   - newstest2012-deurus.deu.rus: 17.4
+   - newstest2012-engrus.eng.rus: 30.9
+   - newstest2013-deurus.deu.rus: 20.7
+   - newstest2013-engrus.eng.rus: 23.2
+   - newstest2015-enru-engrus.eng.rus: 27.5
+   - newstest2016-enru-engrus.eng.rus: 26.1
+   - newstest2017-enru-engrus.eng.rus: 28.8
+   - newstest2018-enru-engrus.eng.rus: 24.8
+   - newstest2019-enru-engrus.eng.rus: 26.9
+   - Tatoeba-test.afr-rus.afr.rus: 44.6
+   - Tatoeba-test.afr-ukr.afr.ukr: 42.4
+   - Tatoeba-test.ang-rus.ang.rus: 2.5
+   - Tatoeba-test.ang-ukr.ang.ukr: 14.1
+   - Tatoeba-test.deu-bel.deu.bel: 14.4
+   - Tatoeba-test.deu-orv.deu.orv: 0.6
+   - Tatoeba-test.deu-rus.deu.rus: 43.0
+   - Tatoeba-test.deu-ukr.deu.ukr: 39.5
+   - Tatoeba-test.eng-bel.eng.bel: 12.8
+   - Tatoeba-test.eng-orv.eng.orv: 0.7
+   - Tatoeba-test.eng-rue.eng.rue: 0.9
+   - Tatoeba-test.eng-rus.eng.rus: 45.7
+   - Tatoeba-test.eng-ukr.eng.ukr: 37.4
+   - Tatoeba-test.enm-rus.enm.rus: 31.4
+   - Tatoeba-test.enm-ukr.enm.ukr: 13.8
+   - Tatoeba-test.fry-rus.fry.rus: 16.2
+   - Tatoeba-test.fry-ukr.fry.ukr: 8.7
+   - Tatoeba-test.gos-rus.gos.rus: 6.9
+   - Tatoeba-test.gos-ukr.gos.ukr: 14.2
+   - Tatoeba-test.ltz-rus.ltz.rus: 8.1
+   - Tatoeba-test.multi.multi: 38.9
+   - Tatoeba-test.nds-rus.nds.rus: 18.9
+   - Tatoeba-test.nds-ukr.nds.ukr: 13.7
+   - Tatoeba-test.nld-bel.nld.bel: 13.9
+   - Tatoeba-test.nld-rus.nld.rus: 47.2
+   - Tatoeba-test.nld-ukr.nld.ukr: 38.8
+   - Tatoeba-test.yid-bel.yid.bel: 5.2
+   - Tatoeba-test.yid-rus.yid.rus: 0.2
+   - Tatoeba-test.yid-ukr.yid.ukr: 1.1
+   - tico19-test-engrus.eng.rus: 25.6
+chr-F-scores:
+   - newstest2012-deurus.deu.rus: 0.451
+   - newstest2012-engrus.eng.rus: 0.579
+   - newstest2013-deurus.deu.rus: 0.479
+   - newstest2013-engrus.eng.rus: 0.511
+   - newstest2015-enru-engrus.eng.rus: 0.562
+   - newstest2016-enru-engrus.eng.rus: 0.543
+   - newstest2017-enru-engrus.eng.rus: 0.570
+   - newstest2018-enru-engrus.eng.rus: 0.547
+   - newstest2019-enru-engrus.eng.rus: 0.530
+   - Tatoeba-test.afr-rus.afr.rus: 0.619
+   - Tatoeba-test.afr-ukr.afr.ukr: 0.589
+   - Tatoeba-test.ang-rus.ang.rus: 0.113
+   - Tatoeba-test.ang-ukr.ang.ukr: 0.367
+   - Tatoeba-test.deu-bel.deu.bel: 0.385
+   - Tatoeba-test.deu-orv.deu.orv: 0.160
+   - Tatoeba-test.deu-rus.deu.rus: 0.641
+   - Tatoeba-test.deu-ukr.deu.ukr: 0.606
+   - Tatoeba-test.eng-bel.eng.bel: 0.365
+   - Tatoeba-test.eng-orv.eng.orv: 0.174
+   - Tatoeba-test.eng-rue.eng.rue: 0.182
+   - Tatoeba-test.eng-rus.eng.rus: 0.650
+   - Tatoeba-test.eng-ukr.eng.ukr: 0.583
+   - Tatoeba-test.enm-rus.enm.rus: 0.296
+   - Tatoeba-test.enm-ukr.enm.ukr: 0.402
+   - Tatoeba-test.fry-rus.fry.rus: 0.271
+   - Tatoeba-test.fry-ukr.fry.ukr: 0.200
+   - Tatoeba-test.gos-rus.gos.rus: 0.348
+   - Tatoeba-test.gos-ukr.gos.ukr: 0.390
+   - Tatoeba-test.ltz-rus.ltz.rus: 0.333
+   - Tatoeba-test.multi.multi: 0.596
+   - Tatoeba-test.nds-rus.nds.rus: 0.371
+   - Tatoeba-test.nds-ukr.nds.ukr: 0.347
+   - Tatoeba-test.nld-bel.nld.bel: 0.365
+   - Tatoeba-test.nld-rus.nld.rus: 0.669
+   - Tatoeba-test.nld-ukr.nld.ukr: 0.604
+   - Tatoeba-test.yid-bel.yid.bel: 0.077
+   - Tatoeba-test.yid-rus.yid.rus: 0.036
+   - Tatoeba-test.yid-ukr.yid.ukr: 0.075
+   - tico19-test-engrus.eng.rus: 0.536

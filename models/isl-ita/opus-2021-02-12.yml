@@ -1,0 +1,21 @@
+release: isl-ita/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - isl
+target-languages:
+   - ita
+BLEU-scores:
+   - Tatoeba-test.isl.ita: 46.7
+   - Tatoeba-test.isl-ita.isl.ita: 46.7
+chr-F-scores:
+   - Tatoeba-test.isl.ita: 0.662
+   - Tatoeba-test.isl-ita.isl.ita: 0.662

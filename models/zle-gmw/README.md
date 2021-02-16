@@ -1,15 +1,15 @@
-# opus1m-2021-01-15.zip
+# opus1m-2021-02-16.zip
 
 * dataset: opus1m
 * model: transformer
-* source language(s): bel bel_Latn orv_Cyrl rue rus ukr
-* target language(s): afr ang_Latn deu eng enm_Latn fry gos ltz nds nld yid
+* source language(s): bel orv rue rus ukr
+* target language(s): afr ang bar bis bzj deu djk drt eng enm frr fry gos gsw hrx jam kri ksh lim ltz nds nld ofs osx pcm pdc pdt pfl pih pis sco srm srn stq swg tpi vls wae wes yid zea
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus1m-2021-01-15.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-01-15.zip)
-* test set translations: [opus1m-2021-01-15.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-01-15.test.txt)
-* test set scores: [opus1m-2021-01-15.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-01-15.eval.txt)
+* download: [opus1m-2021-02-16.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-16.zip)
+* test set translations: [opus1m-2021-02-16.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-16.test.txt)
+* test set scores: [opus1m-2021-02-16.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-16.eval.txt)
 
 ## Benchmarks
 
@@ -23,7 +23,7 @@
 | newstest2015-enru-ruseng.rus.eng 	| 29.6 	| 0.564 |
 | newstest2016-enru-ruseng.rus.eng 	| 29.1 	| 0.562 |
 | newstest2017-enru-ruseng.rus.eng 	| 32.7 	| 0.589 |
-| newstest2018-enru-ruseng.rus.eng 	| 28.5 	| 0.561 |
+| newstest2018-enru-ruseng.rus.eng 	| 28.4 	| 0.561 |
 | newstest2019-ruen-ruseng.rus.eng 	| 31.3 	| 0.579 |
 | Tatoeba-test.bel-deu.bel.deu 	| 34.9 	| 0.550 |
 | Tatoeba-test.bel-eng.bel.eng 	| 34.8 	| 0.528 |
@@ -55,86 +55,65 @@
 | Tatoeba-test.ukr-nld.ukr.nld 	| 50.6 	| 0.672 |
 | Tatoeba-test.ukr-yid.ukr.yid 	| 0.6 	| 0.069 |
 
+# opus-tuned4ukr2nld-2021-01-18.zip
 
-# opus-tuned4bel2nld-2021-01-15.zip
-
-* dataset: opus-tuned4bel2nld
+* dataset: opus-tuned4ukr2nld
 * model: transformer
 * source language(s): bel orv rue rus ukr
 * target language(s): afr ang deu eng enm frr fry gos gsw ksh lim ltz nds nld ofs osx pdc pfl sco stq swg wae yid zea
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-tuned4bel2nld-2021-01-15.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2nld-2021-01-15.zip)
-* test set translations: [opus-tuned4bel2nld-2021-01-15.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2nld-2021-01-15.test.txt)
-* test set scores: [opus-tuned4bel2nld-2021-01-15.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2nld-2021-01-15.eval.txt)
+* download: [opus-tuned4ukr2nld-2021-01-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2nld-2021-01-18.zip)
+* test set translations: [opus-tuned4ukr2nld-2021-01-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2nld-2021-01-18.test.txt)
+* test set scores: [opus-tuned4ukr2nld-2021-01-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2nld-2021-01-18.eval.txt)
 
 ## Benchmarks
 
 | testset               | BLEU  | chr-F |
 |-----------------------|-------|-------|
-| Tatoeba-test.bel-nld.bel.nld 	| 33.8 	| 0.532 |
-| Tatoeba-test.multi.multi 	| 47.9 	| 0.642 |
+| Tatoeba-test.multi.multi 	| 10.2 	| 0.238 |
+| Tatoeba-test.ukr-nld.ukr.nld 	| 50.7 	| 0.673 |
 
-# opus-tuned4bel2deu-2021-01-15.zip
+# opus-tuned4rus2nld-2021-01-17.zip
 
-* dataset: opus-tuned4bel2deu
+* dataset: opus-tuned4rus2nld
 * model: transformer
 * source language(s): bel orv rue rus ukr
 * target language(s): afr ang deu eng enm frr fry gos gsw ksh lim ltz nds nld ofs osx pdc pfl sco stq swg wae yid zea
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-tuned4bel2deu-2021-01-15.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2deu-2021-01-15.zip)
-* test set translations: [opus-tuned4bel2deu-2021-01-15.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2deu-2021-01-15.test.txt)
-* test set scores: [opus-tuned4bel2deu-2021-01-15.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2deu-2021-01-15.eval.txt)
+* download: [opus-tuned4rus2nld-2021-01-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4rus2nld-2021-01-17.zip)
+* test set translations: [opus-tuned4rus2nld-2021-01-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4rus2nld-2021-01-17.test.txt)
+* test set scores: [opus-tuned4rus2nld-2021-01-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4rus2nld-2021-01-17.eval.txt)
 
 ## Benchmarks
 
 | testset               | BLEU  | chr-F |
 |-----------------------|-------|-------|
-| Tatoeba-test.bel-deu.bel.deu 	| 37.8 	| 0.584 |
-| Tatoeba-test.multi.multi 	| 46.9 	| 0.636 |
+| Tatoeba-test.multi.multi 	| 5.8 	| 0.212 |
+| Tatoeba-test.rus-nld.rus.nld 	| 47.3 	| 0.658 |
 
-# opus-tuned4bel2eng-2021-01-17.zip
+# opus-tuned4ukr2eng-2021-01-17.zip
 
-* dataset: opus-tuned4bel2eng
+* dataset: opus-tuned4ukr2eng
 * model: transformer
 * source language(s): bel orv rue rus ukr
 * target language(s): afr ang deu eng enm frr fry gos gsw ksh lim ltz nds nld ofs osx pdc pfl sco stq swg wae yid zea
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-tuned4bel2eng-2021-01-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2eng-2021-01-17.zip)
-* test set translations: [opus-tuned4bel2eng-2021-01-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2eng-2021-01-17.test.txt)
-* test set scores: [opus-tuned4bel2eng-2021-01-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2eng-2021-01-17.eval.txt)
+* download: [opus-tuned4ukr2eng-2021-01-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2eng-2021-01-17.zip)
+* test set translations: [opus-tuned4ukr2eng-2021-01-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2eng-2021-01-17.test.txt)
+* test set scores: [opus-tuned4ukr2eng-2021-01-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2eng-2021-01-17.eval.txt)
 
 ## Benchmarks
 
 | testset               | BLEU  | chr-F |
 |-----------------------|-------|-------|
-| Tatoeba-test.bel-eng.bel.eng 	| 39.5 	| 0.570 |
-| Tatoeba-test.multi.multi 	| 38.9 	| 0.550 |
-
-# opus-tuned4bel2yid-2021-01-17.zip
-
-* dataset: opus-tuned4bel2yid
-* model: transformer
-* source language(s): bel orv rue rus ukr
-* target language(s): afr ang deu eng enm frr fry gos gsw ksh lim ltz nds nld ofs osx pdc pfl sco stq swg wae yid zea
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-tuned4bel2yid-2021-01-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2yid-2021-01-17.zip)
-* test set translations: [opus-tuned4bel2yid-2021-01-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2yid-2021-01-17.test.txt)
-* test set scores: [opus-tuned4bel2yid-2021-01-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2yid-2021-01-17.eval.txt)
-
-## Benchmarks
-
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.bel-yid.bel.yid 	| 2.3 	| 0.090 |
-| Tatoeba-test.multi.multi 	| 48.9 	| 0.655 |
+| Tatoeba-test.multi.multi 	| 16.5 	| 0.279 |
+| Tatoeba-test.ukr-eng.ukr.eng 	| 53.5 	| 0.683 |
 
 # opus-tuned4rus2afr-2021-01-17.zip
 
@@ -178,6 +157,46 @@
 | Tatoeba-test.multi.multi 	| 13.1 	| 0.290 |
 | Tatoeba-test.rus-deu.rus.deu 	| 47.5 	| 0.661 |
 
+# opus-tuned4bel2eng-2021-01-17.zip
+
+* dataset: opus-tuned4bel2eng
+* model: transformer
+* source language(s): bel orv rue rus ukr
+* target language(s): afr ang deu eng enm frr fry gos gsw ksh lim ltz nds nld ofs osx pdc pfl sco stq swg wae yid zea
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus-tuned4bel2eng-2021-01-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2eng-2021-01-17.zip)
+* test set translations: [opus-tuned4bel2eng-2021-01-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2eng-2021-01-17.test.txt)
+* test set scores: [opus-tuned4bel2eng-2021-01-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2eng-2021-01-17.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.bel-eng.bel.eng 	| 39.5 	| 0.570 |
+| Tatoeba-test.multi.multi 	| 38.9 	| 0.550 |
+
+# opus-tuned4ukr2afr-2021-01-17.zip
+
+* dataset: opus-tuned4ukr2afr
+* model: transformer
+* source language(s): bel orv rue rus ukr
+* target language(s): afr ang deu eng enm frr fry gos gsw ksh lim ltz nds nld ofs osx pdc pfl sco stq swg wae yid zea
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* download: [opus-tuned4ukr2afr-2021-01-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2afr-2021-01-17.zip)
+* test set translations: [opus-tuned4ukr2afr-2021-01-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2afr-2021-01-17.test.txt)
+* test set scores: [opus-tuned4ukr2afr-2021-01-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2afr-2021-01-17.eval.txt)
+
+## Benchmarks
+
+| testset               | BLEU  | chr-F |
+|-----------------------|-------|-------|
+| Tatoeba-test.multi.multi 	| 1.4 	| 0.165 |
+| Tatoeba-test.ukr-afr.ukr.afr 	| 54.6 	| 0.723 |
+
 # opus-tuned4rus2eng-2021-01-17.zip
 
 * dataset: opus-tuned4rus2eng
@@ -206,66 +225,6 @@
 | Tatoeba-test.multi.multi 	| 46.2 	| 0.627 |
 | Tatoeba-test.rus-eng.rus.eng 	| 56.6 	| 0.707 |
 
-# opus-tuned4rus2nld-2021-01-17.zip
-
-* dataset: opus-tuned4rus2nld
-* model: transformer
-* source language(s): bel orv rue rus ukr
-* target language(s): afr ang deu eng enm frr fry gos gsw ksh lim ltz nds nld ofs osx pdc pfl sco stq swg wae yid zea
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-tuned4rus2nld-2021-01-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4rus2nld-2021-01-17.zip)
-* test set translations: [opus-tuned4rus2nld-2021-01-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4rus2nld-2021-01-17.test.txt)
-* test set scores: [opus-tuned4rus2nld-2021-01-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4rus2nld-2021-01-17.eval.txt)
-
-## Benchmarks
-
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.multi.multi 	| 5.8 	| 0.212 |
-| Tatoeba-test.rus-nld.rus.nld 	| 47.3 	| 0.658 |
-
-# opus-tuned4rus2yid-2021-01-17.zip
-
-* dataset: opus-tuned4rus2yid
-* model: transformer
-* source language(s): bel orv rue rus ukr
-* target language(s): afr ang deu eng enm frr fry gos gsw ksh lim ltz nds nld ofs osx pdc pfl sco stq swg wae yid zea
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-tuned4rus2yid-2021-01-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4rus2yid-2021-01-17.zip)
-* test set translations: [opus-tuned4rus2yid-2021-01-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4rus2yid-2021-01-17.test.txt)
-* test set scores: [opus-tuned4rus2yid-2021-01-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4rus2yid-2021-01-17.eval.txt)
-
-## Benchmarks
-
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.multi.multi 	| 48.9 	| 0.655 |
-| Tatoeba-test.rus-yid.rus.yid 	| 0.2 	| 0.070 |
-
-# opus-tuned4ukr2afr-2021-01-17.zip
-
-* dataset: opus-tuned4ukr2afr
-* model: transformer
-* source language(s): bel orv rue rus ukr
-* target language(s): afr ang deu eng enm frr fry gos gsw ksh lim ltz nds nld ofs osx pdc pfl sco stq swg wae yid zea
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-tuned4ukr2afr-2021-01-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2afr-2021-01-17.zip)
-* test set translations: [opus-tuned4ukr2afr-2021-01-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2afr-2021-01-17.test.txt)
-* test set scores: [opus-tuned4ukr2afr-2021-01-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2afr-2021-01-17.eval.txt)
-
-## Benchmarks
-
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.multi.multi 	| 1.4 	| 0.165 |
-| Tatoeba-test.ukr-afr.ukr.afr 	| 54.6 	| 0.723 |
-
 # opus-tuned4ukr2deu-2021-01-17.zip
 
 * dataset: opus-tuned4ukr2deu
@@ -286,63 +245,43 @@
 | Tatoeba-test.multi.multi 	| 12.7 	| 0.279 |
 | Tatoeba-test.ukr-deu.ukr.deu 	| 50.7 	| 0.678 |
 
-# opus-tuned4ukr2eng-2021-01-17.zip
+# opus-tuned4bel2deu-2021-01-15.zip
 
-* dataset: opus-tuned4ukr2eng
+* dataset: opus-tuned4bel2deu
 * model: transformer
 * source language(s): bel orv rue rus ukr
 * target language(s): afr ang deu eng enm frr fry gos gsw ksh lim ltz nds nld ofs osx pdc pfl sco stq swg wae yid zea
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-tuned4ukr2eng-2021-01-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2eng-2021-01-17.zip)
-* test set translations: [opus-tuned4ukr2eng-2021-01-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2eng-2021-01-17.test.txt)
-* test set scores: [opus-tuned4ukr2eng-2021-01-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2eng-2021-01-17.eval.txt)
+* download: [opus-tuned4bel2deu-2021-01-15.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2deu-2021-01-15.zip)
+* test set translations: [opus-tuned4bel2deu-2021-01-15.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2deu-2021-01-15.test.txt)
+* test set scores: [opus-tuned4bel2deu-2021-01-15.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2deu-2021-01-15.eval.txt)
 
 ## Benchmarks
 
 | testset               | BLEU  | chr-F |
 |-----------------------|-------|-------|
-| Tatoeba-test.multi.multi 	| 16.5 	| 0.279 |
-| Tatoeba-test.ukr-eng.ukr.eng 	| 53.5 	| 0.683 |
+| Tatoeba-test.bel-deu.bel.deu 	| 37.8 	| 0.584 |
+| Tatoeba-test.multi.multi 	| 46.9 	| 0.636 |
 
-# opus-tuned4ukr2nld-2021-01-18.zip
+# opus-tuned4bel2nld-2021-01-15.zip
 
-* dataset: opus-tuned4ukr2nld
+* dataset: opus-tuned4bel2nld
 * model: transformer
 * source language(s): bel orv rue rus ukr
 * target language(s): afr ang deu eng enm frr fry gos gsw ksh lim ltz nds nld ofs osx pdc pfl sco stq swg wae yid zea
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-tuned4ukr2nld-2021-01-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2nld-2021-01-18.zip)
-* test set translations: [opus-tuned4ukr2nld-2021-01-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2nld-2021-01-18.test.txt)
-* test set scores: [opus-tuned4ukr2nld-2021-01-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2nld-2021-01-18.eval.txt)
+* download: [opus-tuned4bel2nld-2021-01-15.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2nld-2021-01-15.zip)
+* test set translations: [opus-tuned4bel2nld-2021-01-15.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2nld-2021-01-15.test.txt)
+* test set scores: [opus-tuned4bel2nld-2021-01-15.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2nld-2021-01-15.eval.txt)
 
 ## Benchmarks
 
 | testset               | BLEU  | chr-F |
 |-----------------------|-------|-------|
-| Tatoeba-test.multi.multi 	| 10.2 	| 0.238 |
-| Tatoeba-test.ukr-nld.ukr.nld 	| 50.7 	| 0.673 |
-
-# opus-tuned4ukr2yid-2021-01-18.zip
-
-* dataset: opus-tuned4ukr2yid
-* model: transformer
-* source language(s): bel orv rue rus ukr
-* target language(s): afr ang deu eng enm frr fry gos gsw ksh lim ltz nds nld ofs osx pdc pfl sco stq swg wae yid zea
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-tuned4ukr2yid-2021-01-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2yid-2021-01-18.zip)
-* test set translations: [opus-tuned4ukr2yid-2021-01-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2yid-2021-01-18.test.txt)
-* test set scores: [opus-tuned4ukr2yid-2021-01-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2yid-2021-01-18.eval.txt)
-
-## Benchmarks
-
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.multi.multi 	| 48.9 	| 0.655 |
-| Tatoeba-test.ukr-yid.ukr.yid 	| 0.5 	| 0.069 |
+| Tatoeba-test.bel-nld.bel.nld 	| 33.8 	| 0.532 |
+| Tatoeba-test.multi.multi 	| 47.9 	| 0.642 |
 

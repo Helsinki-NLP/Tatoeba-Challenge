@@ -1,0 +1,71 @@
+release: sit-fiu/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bod
+   - brx
+   - cnh
+   - dng
+   - dzo
+   - iii
+   - kac
+   - ksw
+   - lus
+   - mni
+   - mya
+   - new
+   - nst
+   - pck
+   - zho
+target-languages:
+   - chm
+   - est
+   - fin
+   - fkv
+   - hun
+   - izh
+   - kom
+   - krl
+   - liv
+   - mdf
+   - myv
+   - olo
+   - sma
+   - sme
+   - udm
+   - vep
+use-target-labels:
+   - >>chm<<
+   - >>est<<
+   - >>fin<<
+   - >>fkv<<
+   - >>hun<<
+   - >>izh<<
+   - >>kom<<
+   - >>krl<<
+   - >>liv<<
+   - >>mdf<<
+   - >>myv<<
+   - >>olo<<
+   - >>sma<<
+   - >>sme<<
+   - >>udm<<
+   - >>vep<<
+BLEU-scores:
+   - Tatoeba-test.multi.multi: 15.0
+   - Tatoeba-test.zho-chm.zho.chm: 1.4
+   - Tatoeba-test.zho-fin.zho.fin: 23.3
+   - Tatoeba-test.zho-hun.zho.hun: 9.9
+chr-F-scores:
+   - Tatoeba-test.multi.multi: 0.313
+   - Tatoeba-test.zho-chm.zho.chm: 0.036
+   - Tatoeba-test.zho-fin.zho.fin: 0.393
+   - Tatoeba-test.zho-hun.zho.hun: 0.260

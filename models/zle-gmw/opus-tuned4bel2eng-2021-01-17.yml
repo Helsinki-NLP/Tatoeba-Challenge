@@ -1,0 +1,73 @@
+release: zle-gmw/opus-tuned4bel2eng-2021-01-17.zip
+release-date: 2021-01-17
+dataset-name: opus-tuned4bel2eng
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bel
+   - orv
+   - rue
+   - rus
+   - ukr
+target-languages:
+   - afr
+   - ang
+   - deu
+   - eng
+   - enm
+   - frr
+   - fry
+   - gos
+   - gsw
+   - ksh
+   - lim
+   - ltz
+   - nds
+   - nld
+   - ofs
+   - osx
+   - pdc
+   - pfl
+   - sco
+   - stq
+   - swg
+   - wae
+   - yid
+   - zea
+use-target-labels:
+   - >>afr<<
+   - >>ang<<
+   - >>deu<<
+   - >>eng<<
+   - >>enm<<
+   - >>frr<<
+   - >>fry<<
+   - >>gos<<
+   - >>gsw<<
+   - >>ksh<<
+   - >>lim<<
+   - >>ltz<<
+   - >>nds<<
+   - >>nld<<
+   - >>ofs<<
+   - >>osx<<
+   - >>pdc<<
+   - >>pfl<<
+   - >>sco<<
+   - >>stq<<
+   - >>swg<<
+   - >>wae<<
+   - >>yid<<
+   - >>zea<<
+BLEU-scores:
+   - Tatoeba-test.bel-eng.bel.eng: 39.5
+   - Tatoeba-test.multi.multi: 38.9
+chr-F-scores:
+   - Tatoeba-test.bel-eng.bel.eng: 0.570
+   - Tatoeba-test.multi.multi: 0.550

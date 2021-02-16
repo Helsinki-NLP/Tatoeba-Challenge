@@ -1,0 +1,29 @@
+release: eng-tur/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - tur
+BLEU-scores:
+   - newsdev2016-entr-engtur.eng.tur: 20.9
+   - newstest2016-entr-engtur.eng.tur: 20.3
+   - newstest2017-entr-engtur.eng.tur: 20.8
+   - newstest2018-entr-engtur.eng.tur: 19.7
+   - Tatoeba-test.eng.tur: 41.5
+   - Tatoeba-test.eng-tur.eng.tur: 41.5
+chr-F-scores:
+   - newsdev2016-entr-engtur.eng.tur: 0.564
+   - newstest2016-entr-engtur.eng.tur: 0.548
+   - newstest2017-entr-engtur.eng.tur: 0.551
+   - newstest2018-entr-engtur.eng.tur: 0.547
+   - Tatoeba-test.eng.tur: 0.684
+   - Tatoeba-test.eng-tur.eng.tur: 0.684

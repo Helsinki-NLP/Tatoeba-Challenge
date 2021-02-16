@@ -1,0 +1,27 @@
+release: ukr-bul/opus-2021-02-15.zip
+release-date: 2021-02-15
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ukr
+target-languages:
+   - bul
+training-data:
+   - bul-ukr: Tatoeba-train (1233228) 
+validation-data:
+   - bul-ukr: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+BLEU-scores:
+   - Tatoeba-test.ukr.bul: 55.7
+   - Tatoeba-test.ukr-bul.ukr.bul: 55.7
+chr-F-scores:
+   - Tatoeba-test.ukr.bul: 0.734
+   - Tatoeba-test.ukr-bul.ukr.bul: 0.734

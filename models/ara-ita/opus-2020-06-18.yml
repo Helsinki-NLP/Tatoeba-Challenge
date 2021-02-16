@@ -1,0 +1,19 @@
+release: ara-ita/opus-2020-06-18.zip
+release-date: 2020-06-18
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ara
+target-languages:
+   - ita
+BLEU-scores:
+   - Tatoeba-test.ara.ita: 42.6
+chr-F-scores:
+   - Tatoeba-test.ara.ita: 0.650

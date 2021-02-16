@@ -1,0 +1,39 @@
+release: bat-eng/opus-2020-06-28.zip
+release-date: 2020-06-28
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - lav
+   - lit
+   - ltg
+   - prg_Latn
+   - sgs
+target-languages:
+   - eng
+BLEU-scores:
+   - newsdev2017-enlv-laveng.lav.eng: 25.4
+   - newsdev2019-enlt-liteng.lit.eng: 25.3
+   - newstest2017-enlv-laveng.lav.eng: 20.0
+   - newstest2019-lten-liteng.lit.eng: 28.9
+   - Tatoeba-test.lav-eng.lav.eng: 48.8
+   - Tatoeba-test.lit-eng.lit.eng: 52.9
+   - Tatoeba-test.multi.eng: 48.5
+   - Tatoeba-test.prg-eng.prg.eng: 1.4
+   - Tatoeba-test.sgs-eng.sgs.eng: 22.4
+chr-F-scores:
+   - newsdev2017-enlv-laveng.lav.eng: 0.551
+   - newsdev2019-enlt-liteng.lit.eng: 0.537
+   - newstest2017-enlv-laveng.lav.eng: 0.498
+   - newstest2019-lten-liteng.lit.eng: 0.576
+   - Tatoeba-test.lav-eng.lav.eng: 0.666
+   - Tatoeba-test.lit-eng.lit.eng: 0.683
+   - Tatoeba-test.multi.eng: 0.645
+   - Tatoeba-test.prg-eng.prg.eng: 0.160
+   - Tatoeba-test.sgs-eng.sgs.eng: 0.334

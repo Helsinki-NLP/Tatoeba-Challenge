@@ -1,0 +1,39 @@
+release: eng-mkh/opus-2020-07-27.zip
+release-date: 2020-07-27
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - kha
+   - khm
+   - khm_Latn
+   - mnw
+   - vie
+   - vie_Hani
+use-target-labels:
+   - >>kha<<
+   - >>khm<<
+   - >>khm_Latn<<
+   - >>mnw<<
+   - >>vie<<
+   - >>vie_Hani<<
+BLEU-scores:
+   - Tatoeba-test.eng-kha.eng.kha: 0.1
+   - Tatoeba-test.eng-khm.eng.khm: 0.2
+   - Tatoeba-test.eng-mnw.eng.mnw: 0.7
+   - Tatoeba-test.eng.multi: 16.5
+   - Tatoeba-test.eng-vie.eng.vie: 33.7
+chr-F-scores:
+   - Tatoeba-test.eng-kha.eng.kha: 0.015
+   - Tatoeba-test.eng-khm.eng.khm: 0.226
+   - Tatoeba-test.eng-mnw.eng.mnw: 0.003
+   - Tatoeba-test.eng.multi: 0.330
+   - Tatoeba-test.eng-vie.eng.vie: 0.513

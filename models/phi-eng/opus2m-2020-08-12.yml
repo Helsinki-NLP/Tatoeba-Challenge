@@ -1,0 +1,36 @@
+release: phi-eng/opus2m-2020-08-12.zip
+release-date: 2020-08-12
+dataset-name: opus2m
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - akl_Latn
+   - ceb
+   - hil
+   - ilo
+   - pag
+   - war
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.akl-eng.akl.eng: 11.6
+   - Tatoeba-test.ceb-eng.ceb.eng: 21.7
+   - Tatoeba-test.hil-eng.hil.eng: 17.6
+   - Tatoeba-test.ilo-eng.ilo.eng: 36.6
+   - Tatoeba-test.multi.eng: 21.5
+   - Tatoeba-test.pag-eng.pag.eng: 27.5
+   - Tatoeba-test.war-eng.war.eng: 17.3
+chr-F-scores:
+   - Tatoeba-test.akl-eng.akl.eng: 0.321
+   - Tatoeba-test.ceb-eng.ceb.eng: 0.393
+   - Tatoeba-test.hil-eng.hil.eng: 0.371
+   - Tatoeba-test.ilo-eng.ilo.eng: 0.560
+   - Tatoeba-test.multi.eng: 0.391
+   - Tatoeba-test.pag-eng.pag.eng: 0.494
+   - Tatoeba-test.war-eng.war.eng: 0.380

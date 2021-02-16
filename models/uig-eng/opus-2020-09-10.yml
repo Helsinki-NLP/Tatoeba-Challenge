@@ -1,0 +1,21 @@
+release: uig-eng/opus-2020-09-10.zip
+release-date: 2020-09-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - uig_Arab
+   - uig_Cyrl
+   - uig_Latn
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.uig.eng: 0.3
+chr-F-scores:
+   - Tatoeba-test.uig.eng: 0.133

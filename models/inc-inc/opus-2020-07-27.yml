@@ -1,0 +1,42 @@
+release: inc-inc/opus-2020-07-27.zip
+release-date: 2020-07-27
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - asm
+   - hin
+   - mar
+   - urd
+target-languages:
+   - asm
+   - hin
+   - mar
+   - urd
+use-target-labels:
+   - >>asm<<
+   - >>hin<<
+   - >>mar<<
+   - >>urd<<
+BLEU-scores:
+   - Tatoeba-test.asm-hin.asm.hin: 2.6
+   - Tatoeba-test.hin-asm.hin.asm: 9.1
+   - Tatoeba-test.hin-mar.hin.mar: 28.1
+   - Tatoeba-test.hin-urd.hin.urd: 19.9
+   - Tatoeba-test.mar-hin.mar.hin: 11.6
+   - Tatoeba-test.multi.multi: 17.1
+   - Tatoeba-test.urd-hin.urd.hin: 13.5
+chr-F-scores:
+   - Tatoeba-test.asm-hin.asm.hin: 0.231
+   - Tatoeba-test.hin-asm.hin.asm: 0.262
+   - Tatoeba-test.hin-mar.hin.mar: 0.548
+   - Tatoeba-test.hin-urd.hin.urd: 0.508
+   - Tatoeba-test.mar-hin.mar.hin: 0.466
+   - Tatoeba-test.multi.multi: 0.464
+   - Tatoeba-test.urd-hin.urd.hin: 0.377

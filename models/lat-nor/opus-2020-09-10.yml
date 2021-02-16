@@ -1,0 +1,23 @@
+release: lat-nor/opus-2020-09-10.zip
+release-date: 2020-09-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - lat_Latn
+target-languages:
+   - nno
+   - nob
+use-target-labels:
+   - >>nno<<
+   - >>nob<<
+BLEU-scores:
+   - Tatoeba-test.lat.nor: 0.3
+chr-F-scores:
+   - Tatoeba-test.lat.nor: 0.049

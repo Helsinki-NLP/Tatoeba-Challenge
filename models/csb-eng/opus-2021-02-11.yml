@@ -1,0 +1,21 @@
+release: csb-eng/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - csb
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.csb.eng: 0.2
+   - Tatoeba-test.csb-eng.csb.eng: 0.2
+chr-F-scores:
+   - Tatoeba-test.csb.eng: 0.043
+   - Tatoeba-test.csb-eng.csb.eng: 0.042

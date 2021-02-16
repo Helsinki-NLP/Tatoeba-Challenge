@@ -1,0 +1,19 @@
+release: ita-epo/opus-2020-06-16.zip
+release-date: 2020-06-16
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ita
+target-languages:
+   - epo
+BLEU-scores:
+   - Tatoeba-test.ita.epo: 28.2
+chr-F-scores:
+   - Tatoeba-test.ita.epo: 0.500

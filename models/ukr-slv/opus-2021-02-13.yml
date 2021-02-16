@@ -1,0 +1,21 @@
+release: ukr-slv/opus-2021-02-13.zip
+release-date: 2021-02-13
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ukr
+target-languages:
+   - slv
+BLEU-scores:
+   - Tatoeba-test.ukr.slv: 11.8
+   - Tatoeba-test.ukr-slv.ukr.slv: 11.8
+chr-F-scores:
+   - Tatoeba-test.ukr.slv: 0.280
+   - Tatoeba-test.ukr-slv.ukr.slv: 0.280

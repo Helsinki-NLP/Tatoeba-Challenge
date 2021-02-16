@@ -1,0 +1,27 @@
+release: swe-rus/opus-2021-02-16.zip
+release-date: 2021-02-16
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - swe
+target-languages:
+   - rus
+training-data:
+   - rus-swe: Tatoeba-train (8975620) 
+validation-data:
+   - rus-swe: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+BLEU-scores:
+   - Tatoeba-test.swe.rus: 45.9
+   - Tatoeba-test.swe-rus.swe.rus: 45.9
+chr-F-scores:
+   - Tatoeba-test.swe.rus: 0.655
+   - Tatoeba-test.swe-rus.swe.rus: 0.655

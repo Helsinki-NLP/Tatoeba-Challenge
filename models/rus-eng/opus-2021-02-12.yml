@@ -1,0 +1,37 @@
+release: rus-eng/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - rus
+target-languages:
+   - eng
+BLEU-scores:
+   - newstest2012-ruseng.rus.eng: 35.1
+   - newstest2013-ruseng.rus.eng: 27.9
+   - newstest2014-ruen-ruseng.rus.eng: 31.9
+   - newstest2015-enru-ruseng.rus.eng: 30.9
+   - newstest2016-enru-ruseng.rus.eng: 30.3
+   - newstest2017-enru-ruseng.rus.eng: 33.9
+   - newstest2018-enru-ruseng.rus.eng: 29.4
+   - newstest2019-ruen-ruseng.rus.eng: 31.6
+   - Tatoeba-test.rus.eng: 57.8
+   - Tatoeba-test.rus-eng.rus.eng: 57.8
+chr-F-scores:
+   - newstest2012-ruseng.rus.eng: 0.609
+   - newstest2013-ruseng.rus.eng: 0.547
+   - newstest2014-ruen-ruseng.rus.eng: 0.596
+   - newstest2015-enru-ruseng.rus.eng: 0.572
+   - newstest2016-enru-ruseng.rus.eng: 0.571
+   - newstest2017-enru-ruseng.rus.eng: 0.599
+   - newstest2018-enru-ruseng.rus.eng: 0.569
+   - newstest2019-ruen-ruseng.rus.eng: 0.582
+   - Tatoeba-test.rus.eng: 0.716
+   - Tatoeba-test.rus-eng.rus.eng: 0.716

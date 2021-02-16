@@ -1,0 +1,43 @@
+release: eng-zls/opus-2020-07-27.zip
+release-date: 2020-07-27
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - bos_Latn
+   - bul
+   - bul_Latn
+   - hrv
+   - mkd
+   - slv
+   - srp_Cyrl
+   - srp_Latn
+use-target-labels:
+   - >>bos_Latn<<
+   - >>bul<<
+   - >>bul_Latn<<
+   - >>hrv<<
+   - >>mkd<<
+   - >>slv<<
+   - >>srp_Cyrl<<
+   - >>srp_Latn<<
+BLEU-scores:
+   - Tatoeba-test.eng-bul.eng.bul: 46.3
+   - Tatoeba-test.eng-hbs.eng.hbs: 40.3
+   - Tatoeba-test.eng-mkd.eng.mkd: 44.4
+   - Tatoeba-test.eng.multi: 41.9
+   - Tatoeba-test.eng-slv.eng.slv: 18.2
+chr-F-scores:
+   - Tatoeba-test.eng-bul.eng.bul: 0.648
+   - Tatoeba-test.eng-hbs.eng.hbs: 0.613
+   - Tatoeba-test.eng-mkd.eng.mkd: 0.636
+   - Tatoeba-test.eng.multi: 0.615
+   - Tatoeba-test.eng-slv.eng.slv: 0.351

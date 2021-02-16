@@ -1,0 +1,58 @@
+release: cpp-fiu/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - kea
+   - msa
+   - pap
+   - srm
+target-languages:
+   - chm
+   - est
+   - fin
+   - fkv
+   - hun
+   - izh
+   - kom
+   - krl
+   - liv
+   - mdf
+   - myv
+   - olo
+   - sma
+   - sme
+   - udm
+   - vep
+use-target-labels:
+   - >>chm<<
+   - >>est<<
+   - >>fin<<
+   - >>fkv<<
+   - >>hun<<
+   - >>izh<<
+   - >>kom<<
+   - >>krl<<
+   - >>liv<<
+   - >>mdf<<
+   - >>myv<<
+   - >>olo<<
+   - >>sma<<
+   - >>sme<<
+   - >>udm<<
+   - >>vep<<
+BLEU-scores:
+   - Tatoeba-test.msa-fin.msa.fin: 45.3
+   - Tatoeba-test.msa-hun.msa.hun: 15.2
+   - Tatoeba-test.multi.multi: 22.7
+chr-F-scores:
+   - Tatoeba-test.msa-fin.msa.fin: 0.628
+   - Tatoeba-test.msa-hun.msa.hun: 0.438
+   - Tatoeba-test.multi.multi: 0.487

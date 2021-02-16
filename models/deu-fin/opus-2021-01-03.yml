@@ -1,0 +1,25 @@
+release: deu-fin/opus-2021-01-03.zip
+release-date: 2021-01-03
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - deu
+target-languages:
+   - fin
+BLEU-scores:
+   - goethe-institute-test1-deufin.deu.fin: 18.6
+   - goethe-institute-test2-deufin.deu.fin: 18.3
+   - Tatoeba-test.deu.fin: 40.1
+   - Tatoeba-test.deu-fin.deu.fin: 40.1
+chr-F-scores:
+   - goethe-institute-test1-deufin.deu.fin: 0.501
+   - goethe-institute-test2-deufin.deu.fin: 0.498
+   - Tatoeba-test.deu.fin: 0.634
+   - Tatoeba-test.deu-fin.deu.fin: 0.634

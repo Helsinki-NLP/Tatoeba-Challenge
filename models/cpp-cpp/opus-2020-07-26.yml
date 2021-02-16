@@ -1,0 +1,30 @@
+release: cpp-cpp/opus-2020-07-26.zip
+release-date: 2020-07-26
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ind
+   - pap
+target-languages:
+   - ind
+   - pap
+use-target-labels:
+   - >>ind<<
+   - >>pap<<
+BLEU-scores:
+   - Tatoeba-test.msa-msa.msa.msa: 0.7
+   - Tatoeba-test.msa-pap.msa.pap: 31.7
+   - Tatoeba-test.multi.multi: 21.1
+   - Tatoeba-test.pap-msa.pap.msa: 17.7
+chr-F-scores:
+   - Tatoeba-test.msa-msa.msa.msa: 0.149
+   - Tatoeba-test.msa-pap.msa.pap: 0.577
+   - Tatoeba-test.multi.multi: 0.369
+   - Tatoeba-test.pap-msa.pap.msa: 0.197

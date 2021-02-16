@@ -1,0 +1,20 @@
+release: ara-ell/opus-2020-07-03.zip
+release-date: 2020-07-03
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ara
+   - arz
+target-languages:
+   - ell
+BLEU-scores:
+   - Tatoeba-test.ara.ell: 43.9
+chr-F-scores:
+   - Tatoeba-test.ara.ell: 0.636

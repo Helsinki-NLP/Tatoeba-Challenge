@@ -1,0 +1,21 @@
+release: epo-hun/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - epo
+target-languages:
+   - hun
+BLEU-scores:
+   - Tatoeba-test.epo.hun: 12.8
+   - Tatoeba-test.epo-hun.epo.hun: 12.8
+chr-F-scores:
+   - Tatoeba-test.epo.hun: 0.333
+   - Tatoeba-test.epo-hun.epo.hun: 0.333

@@ -1,0 +1,25 @@
+release: eng-rom/opus-2020-09-10.zip
+release-date: 2020-09-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - rmn
+   - rmy
+   - rom
+use-target-labels:
+   - >>rmn<<
+   - >>rmy<<
+   - >>rom<<
+BLEU-scores:
+   - Tatoeba-test.eng.rom: 0.4
+chr-F-scores:
+   - Tatoeba-test.eng.rom: 0.134

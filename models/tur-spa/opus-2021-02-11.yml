@@ -1,0 +1,21 @@
+release: tur-spa/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - tur
+target-languages:
+   - spa
+BLEU-scores:
+   - Tatoeba-test.tur.spa: 56.9
+   - Tatoeba-test.tur-spa.tur.spa: 56.9
+chr-F-scores:
+   - Tatoeba-test.tur.spa: 0.727
+   - Tatoeba-test.tur-spa.tur.spa: 0.727

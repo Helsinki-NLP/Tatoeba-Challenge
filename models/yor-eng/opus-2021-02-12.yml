@@ -1,0 +1,21 @@
+release: yor-eng/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - yor
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.yor.eng: 25.7
+   - Tatoeba-test.yor-eng.yor.eng: 25.7
+chr-F-scores:
+   - Tatoeba-test.yor.eng: 0.381
+   - Tatoeba-test.yor-eng.yor.eng: 0.381

@@ -1,0 +1,19 @@
+release: oci-epo/opus-2020-09-10.zip
+release-date: 2020-09-10
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - oci
+target-languages:
+   - epo
+BLEU-scores:
+   - Tatoeba-test.oci.epo: 0.1
+chr-F-scores:
+   - Tatoeba-test.oci.epo: 0.061

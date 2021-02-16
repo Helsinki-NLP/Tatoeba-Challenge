@@ -1,0 +1,35 @@
+release: fra-ces/opus-2021-01-03.zip
+release-date: 2021-01-03
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - fra
+target-languages:
+   - ces
+BLEU-scores:
+   - newssyscomb2009-fraces.fra.ces: 22.0
+   - news-test2008-fraces.fra.ces: 20.1
+   - newstest2009-fraces.fra.ces: 20.6
+   - newstest2010-fraces.fra.ces: 20.4
+   - newstest2011-fraces.fra.ces: 21.8
+   - newstest2012-fraces.fra.ces: 20.6
+   - newstest2013-fraces.fra.ces: 22.0
+   - Tatoeba-test.fra.ces: 46.7
+   - Tatoeba-test.fra-ces.fra.ces: 46.7
+chr-F-scores:
+   - newssyscomb2009-fraces.fra.ces: 0.501
+   - news-test2008-fraces.fra.ces: 0.484
+   - newstest2009-fraces.fra.ces: 0.486
+   - newstest2010-fraces.fra.ces: 0.489
+   - newstest2011-fraces.fra.ces: 0.495
+   - newstest2012-fraces.fra.ces: 0.478
+   - newstest2013-fraces.fra.ces: 0.488
+   - Tatoeba-test.fra.ces: 0.672
+   - Tatoeba-test.fra-ces.fra.ces: 0.672

@@ -1,0 +1,21 @@
+release: jpn-spa/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - jpn
+target-languages:
+   - spa
+BLEU-scores:
+   - Tatoeba-test.jpn.spa: 30.1
+   - Tatoeba-test.jpn-spa.jpn.spa: 30.1
+chr-F-scores:
+   - Tatoeba-test.jpn.spa: 0.518
+   - Tatoeba-test.jpn-spa.jpn.spa: 0.518

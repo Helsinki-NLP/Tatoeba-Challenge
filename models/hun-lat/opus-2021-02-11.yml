@@ -1,0 +1,21 @@
+release: hun-lat/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - hun
+target-languages:
+   - lat
+BLEU-scores:
+   - Tatoeba-test.hun.lat: 0.1
+   - Tatoeba-test.hun-lat.hun.lat: 0.1
+chr-F-scores:
+   - Tatoeba-test.hun.lat: 0.063
+   - Tatoeba-test.hun-lat.hun.lat: 0.063

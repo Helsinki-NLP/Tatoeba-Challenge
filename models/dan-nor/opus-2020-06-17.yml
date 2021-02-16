@@ -1,0 +1,23 @@
+release: dan-nor/opus-2020-06-17.zip
+release-date: 2020-06-17
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - dan
+target-languages:
+   - nno
+   - nob
+use-target-labels:
+   - >>nno<<
+   - >>nob<<
+BLEU-scores:
+   - Tatoeba-test.dan.nor: 66.4
+chr-F-scores:
+   - Tatoeba-test.dan.nor: 0.801

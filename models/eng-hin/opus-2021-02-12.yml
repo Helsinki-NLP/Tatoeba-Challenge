@@ -1,0 +1,29 @@
+release: eng-hin/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - hin
+BLEU-scores:
+   - newsdev2014.eng.hin: 6.9
+   - newsdev2014-enghin.eng.hin: 7.0
+   - newstest2014-hien.eng.hin: 9.9
+   - newstest2014-hien-enghin.eng.hin: 9.9
+   - Tatoeba-test.eng.hin: 16.1
+   - Tatoeba-test.eng-hin.eng.hin: 16.1
+chr-F-scores:
+   - newsdev2014.eng.hin: 0.296
+   - newsdev2014-enghin.eng.hin: 0.297
+   - newstest2014-hien.eng.hin: 0.323
+   - newstest2014-hien-enghin.eng.hin: 0.323
+   - Tatoeba-test.eng.hin: 0.447
+   - Tatoeba-test.eng-hin.eng.hin: 0.447

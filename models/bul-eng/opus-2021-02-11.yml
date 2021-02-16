@@ -1,0 +1,21 @@
+release: bul-eng/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bul
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.bul.eng: 58.3
+   - Tatoeba-test.bul-eng.bul.eng: 58.3
+chr-F-scores:
+   - Tatoeba-test.bul.eng: 0.720
+   - Tatoeba-test.bul-eng.bul.eng: 0.720

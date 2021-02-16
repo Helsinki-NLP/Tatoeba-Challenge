@@ -1,0 +1,21 @@
+release: tso-eng/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - tso
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.tso.eng: 79.7
+   - Tatoeba-test.tso-eng.tso.eng: 79.7
+chr-F-scores:
+   - Tatoeba-test.tso.eng: 0.837
+   - Tatoeba-test.tso-eng.tso.eng: 0.837

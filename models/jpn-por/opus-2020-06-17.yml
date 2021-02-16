@@ -1,0 +1,28 @@
+release: jpn-por/opus-2020-06-17.zip
+release-date: 2020-06-17
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - jpn
+   - jpn_Hani
+   - jpn_Hira
+   - jpn_Kana
+   - jpn_Latn
+   - jpn_Yiii
+target-languages:
+   - por
+   - por_Hira
+use-target-labels:
+   - >>por<<
+   - >>por_Hira<<
+BLEU-scores:
+   - Tatoeba-test.jpn.por: 22.2
+chr-F-scores:
+   - Tatoeba-test.jpn.por: 0.444

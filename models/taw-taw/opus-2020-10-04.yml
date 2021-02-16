@@ -1,0 +1,35 @@
+release: taw-taw/opus-2020-10-04.zip
+release-date: 2020-10-04
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+   - lao
+   - tha
+target-languages:
+   - eng
+   - lao
+   - tha
+use-target-labels:
+   - >>eng<<
+   - >>lao<<
+   - >>tha<<
+BLEU-scores:
+   - Tatoeba-test.eng-lao.eng.lao: 0.2
+   - Tatoeba-test.eng-tha.eng.tha: 2.3
+   - Tatoeba-test.lao-eng.lao.eng: 4.5
+   - Tatoeba-test.multi.multi: 32.0
+   - Tatoeba-test.tha-eng.tha.eng: 40.5
+chr-F-scores:
+   - Tatoeba-test.eng-lao.eng.lao: 0.304
+   - Tatoeba-test.eng-tha.eng.tha: 0.516
+   - Tatoeba-test.lao-eng.lao.eng: 0.200
+   - Tatoeba-test.multi.multi: 0.541
+   - Tatoeba-test.tha-eng.tha.eng: 0.589

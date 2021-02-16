@@ -1,0 +1,23 @@
+release: nld-nor/opus-2020-09-10.zip
+release-date: 2020-09-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - nld
+target-languages:
+   - nno
+   - nob
+use-target-labels:
+   - >>nno<<
+   - >>nob<<
+BLEU-scores:
+   - Tatoeba-test.nld.nor: 63.2
+chr-F-scores:
+   - Tatoeba-test.nld.nor: 0.773

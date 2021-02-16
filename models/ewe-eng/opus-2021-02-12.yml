@@ -1,0 +1,21 @@
+release: ewe-eng/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm1k,spm1k)
+subwords:
+   - source: spm1k
+   - target: spm1k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ewe
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.ewe.eng: 3.7
+   - Tatoeba-test.ewe-eng.ewe.eng: 3.7
+chr-F-scores:
+   - Tatoeba-test.ewe.eng: 0.251
+   - Tatoeba-test.ewe-eng.ewe.eng: 0.251

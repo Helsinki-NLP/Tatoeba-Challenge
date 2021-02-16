@@ -1,0 +1,21 @@
+release: kat-rus/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - kat
+target-languages:
+   - rus
+BLEU-scores:
+   - Tatoeba-test.kat.rus: 38.2
+   - Tatoeba-test.kat-rus.kat.rus: 38.2
+chr-F-scores:
+   - Tatoeba-test.kat.rus: 0.604
+   - Tatoeba-test.kat-rus.kat.rus: 0.604

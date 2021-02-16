@@ -1,0 +1,21 @@
+release: ukr-tur/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ukr
+target-languages:
+   - tur
+BLEU-scores:
+   - Tatoeba-test.ukr.tur: 39.3
+   - Tatoeba-test.ukr-tur.ukr.tur: 39.3
+chr-F-scores:
+   - Tatoeba-test.ukr.tur: 0.655
+   - Tatoeba-test.ukr-tur.ukr.tur: 0.655

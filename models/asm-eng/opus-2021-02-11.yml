@@ -1,0 +1,21 @@
+release: asm-eng/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - asm
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.asm.eng: 0.4
+   - Tatoeba-test.asm-eng.asm.eng: 0.4
+chr-F-scores:
+   - Tatoeba-test.asm.eng: 0.141
+   - Tatoeba-test.asm-eng.asm.eng: 0.141

@@ -1,0 +1,21 @@
+release: eng-euq/opus-2020-07-26.zip
+release-date: 2020-07-26
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - eus
+BLEU-scores:
+   - Tatoeba-test.eng.eus: 27.9
+   - Tatoeba-test.eng-eus.eng.eus: 27.9
+chr-F-scores:
+   - Tatoeba-test.eng.eus: 0.555
+   - Tatoeba-test.eng-eus.eng.eus: 0.555

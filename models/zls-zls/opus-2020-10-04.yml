@@ -1,0 +1,85 @@
+release: zls-zls/opus-2020-10-04.zip
+release-date: 2020-10-04
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bos_Cyrl
+   - bos_Latn
+   - bul
+   - cnr
+   - cnr_Latn
+   - eng
+   - hbs
+   - hbs_Cyrl
+   - hrv
+   - mkd
+   - slv
+   - srp_Cyrl
+   - srp_Latn
+target-languages:
+   - bos_Cyrl
+   - bos_Latn
+   - bul
+   - cnr
+   - cnr_Latn
+   - eng
+   - hbs
+   - hbs_Cyrl
+   - hrv
+   - mkd
+   - slv
+   - srp_Cyrl
+   - srp_Latn
+use-target-labels:
+   - >>bos_Cyrl<<
+   - >>bos_Latn<<
+   - >>bul<<
+   - >>cnr<<
+   - >>cnr_Latn<<
+   - >>eng<<
+   - >>hbs<<
+   - >>hbs_Cyrl<<
+   - >>hrv<<
+   - >>mkd<<
+   - >>slv<<
+   - >>srp_Cyrl<<
+   - >>srp_Latn<<
+BLEU-scores:
+   - Tatoeba-test.bul-eng.bul.eng: 53.2
+   - Tatoeba-test.bul-hbs.bul.hbs: 53.7
+   - Tatoeba-test.bul-mkd.bul.mkd: 37.5
+   - Tatoeba-test.eng-bul.eng.bul: 45.6
+   - Tatoeba-test.eng-hbs.eng.hbs: 38.7
+   - Tatoeba-test.eng-mkd.eng.mkd: 43.5
+   - Tatoeba-test.eng-slv.eng.slv: 17.1
+   - Tatoeba-test.hbs-bul.hbs.bul: 100.0
+   - Tatoeba-test.hbs-eng.hbs.eng: 52.9
+   - Tatoeba-test.hbs-mkd.hbs.mkd: 38.0
+   - Tatoeba-test.mkd-bul.mkd.bul: 54.2
+   - Tatoeba-test.mkd-eng.mkd.eng: 52.7
+   - Tatoeba-test.mkd-hbs.mkd.hbs: 53.7
+   - Tatoeba-test.multi.multi: 44.2
+   - Tatoeba-test.slv-eng.slv.eng: 24.8
+chr-F-scores:
+   - Tatoeba-test.bul-eng.bul.eng: 0.682
+   - Tatoeba-test.bul-hbs.bul.hbs: 0.871
+   - Tatoeba-test.bul-mkd.bul.mkd: 0.688
+   - Tatoeba-test.eng-bul.eng.bul: 0.638
+   - Tatoeba-test.eng-hbs.eng.hbs: 0.600
+   - Tatoeba-test.eng-mkd.eng.mkd: 0.627
+   - Tatoeba-test.eng-slv.eng.slv: 0.343
+   - Tatoeba-test.hbs-bul.hbs.bul: 1.000
+   - Tatoeba-test.hbs-eng.hbs.eng: 0.680
+   - Tatoeba-test.hbs-mkd.hbs.mkd: 0.718
+   - Tatoeba-test.mkd-bul.mkd.bul: 0.788
+   - Tatoeba-test.mkd-eng.mkd.eng: 0.667
+   - Tatoeba-test.mkd-hbs.mkd.hbs: 0.871
+   - Tatoeba-test.multi.multi: 0.596
+   - Tatoeba-test.slv-eng.slv.eng: 0.403

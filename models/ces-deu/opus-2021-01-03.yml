@@ -1,0 +1,37 @@
+release: ces-deu/opus-2021-01-03.zip
+release-date: 2021-01-03
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ces
+target-languages:
+   - deu
+BLEU-scores:
+   - newssyscomb2009-cesdeu.ces.deu: 22.1
+   - news-test2008-cesdeu.ces.deu: 21.1
+   - newstest2009-cesdeu.ces.deu: 21.9
+   - newstest2010-cesdeu.ces.deu: 22.6
+   - newstest2011-cesdeu.ces.deu: 21.9
+   - newstest2012-cesdeu.ces.deu: 22.5
+   - newstest2013-cesdeu.ces.deu: 25.0
+   - newstest2019-csde-cesdeu.ces.deu: 23.5
+   - Tatoeba-test.ces.deu: 51.5
+   - Tatoeba-test.ces-deu.ces.deu: 51.5
+chr-F-scores:
+   - newssyscomb2009-cesdeu.ces.deu: 0.521
+   - news-test2008-cesdeu.ces.deu: 0.521
+   - newstest2009-cesdeu.ces.deu: 0.526
+   - newstest2010-cesdeu.ces.deu: 0.531
+   - newstest2011-cesdeu.ces.deu: 0.519
+   - newstest2012-cesdeu.ces.deu: 0.519
+   - newstest2013-cesdeu.ces.deu: 0.540
+   - newstest2019-csde-cesdeu.ces.deu: 0.534
+   - Tatoeba-test.ces.deu: 0.692
+   - Tatoeba-test.ces-deu.ces.deu: 0.692

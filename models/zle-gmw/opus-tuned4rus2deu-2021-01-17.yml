@@ -1,0 +1,77 @@
+release: zle-gmw/opus-tuned4rus2deu-2021-01-17.zip
+release-date: 2021-01-17
+dataset-name: opus-tuned4rus2deu
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bel
+   - orv
+   - rue
+   - rus
+   - ukr
+target-languages:
+   - afr
+   - ang
+   - deu
+   - eng
+   - enm
+   - frr
+   - fry
+   - gos
+   - gsw
+   - ksh
+   - lim
+   - ltz
+   - nds
+   - nld
+   - ofs
+   - osx
+   - pdc
+   - pfl
+   - sco
+   - stq
+   - swg
+   - wae
+   - yid
+   - zea
+use-target-labels:
+   - >>afr<<
+   - >>ang<<
+   - >>deu<<
+   - >>eng<<
+   - >>enm<<
+   - >>frr<<
+   - >>fry<<
+   - >>gos<<
+   - >>gsw<<
+   - >>ksh<<
+   - >>lim<<
+   - >>ltz<<
+   - >>nds<<
+   - >>nld<<
+   - >>ofs<<
+   - >>osx<<
+   - >>pdc<<
+   - >>pfl<<
+   - >>sco<<
+   - >>stq<<
+   - >>swg<<
+   - >>wae<<
+   - >>yid<<
+   - >>zea<<
+BLEU-scores:
+   - newstest2012-rusdeu.rus.deu: 15.1
+   - newstest2013-rusdeu.rus.deu: 19.0
+   - Tatoeba-test.multi.multi: 13.1
+   - Tatoeba-test.rus-deu.rus.deu: 47.5
+chr-F-scores:
+   - newstest2012-rusdeu.rus.deu: 0.451
+   - newstest2013-rusdeu.rus.deu: 0.487
+   - Tatoeba-test.multi.multi: 0.290
+   - Tatoeba-test.rus-deu.rus.deu: 0.661

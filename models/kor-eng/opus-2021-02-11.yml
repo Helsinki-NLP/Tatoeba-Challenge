@@ -1,0 +1,21 @@
+release: kor-eng/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - kor
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.kor.eng: 40.8
+   - Tatoeba-test.kor-eng.kor.eng: 40.8
+chr-F-scores:
+   - Tatoeba-test.kor.eng: 0.586
+   - Tatoeba-test.kor-eng.kor.eng: 0.586

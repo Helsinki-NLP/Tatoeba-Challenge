@@ -1,0 +1,19 @@
+release: tam-eng/opus-2020-06-17.zip
+release-date: 2020-06-17
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - tam
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.tam.eng: 26.7
+chr-F-scores:
+   - Tatoeba-test.tam.eng: 0.445

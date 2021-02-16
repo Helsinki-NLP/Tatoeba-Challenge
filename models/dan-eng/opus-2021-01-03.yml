@@ -1,0 +1,21 @@
+release: dan-eng/opus-2021-01-03.zip
+release-date: 2021-01-03
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - dan
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.dan.eng: 64.4
+   - Tatoeba-test.dan-eng.dan.eng: 64.4
+chr-F-scores:
+   - Tatoeba-test.dan.eng: 0.776
+   - Tatoeba-test.dan-eng.dan.eng: 0.776

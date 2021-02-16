@@ -1,0 +1,23 @@
+release: fas-eng/opus-2020-09-10.zip
+release-date: 2020-09-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - fas
+   - pes
+   - pes_Latn
+   - pes_Thaa
+   - prs
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.fas.eng: 38.2
+chr-F-scores:
+   - Tatoeba-test.fas.eng: 0.566

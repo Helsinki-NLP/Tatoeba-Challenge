@@ -1,0 +1,25 @@
+release: hun-ces/opus-2021-01-03.zip
+release-date: 2021-01-03
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - hun
+target-languages:
+   - ces
+BLEU-scores:
+   - newssyscomb2009-hunces.hun.ces: 18.0
+   - newstest2009-hunces.hun.ces: 17.7
+   - Tatoeba-test.hun.ces: 48.4
+   - Tatoeba-test.hun-ces.hun.ces: 48.4
+chr-F-scores:
+   - newssyscomb2009-hunces.hun.ces: 0.468
+   - newstest2009-hunces.hun.ces: 0.460
+   - Tatoeba-test.hun.ces: 0.665
+   - Tatoeba-test.hun-ces.hun.ces: 0.665

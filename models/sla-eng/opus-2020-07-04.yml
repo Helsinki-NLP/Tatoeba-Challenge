@@ -1,0 +1,59 @@
+release: sla-eng/opus-2020-07-04.zip
+release-date: 2020-07-04
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - bel
+   - bel_Latn
+   - bul
+   - bul_Latn
+   - ces
+   - csb_Latn
+   - dsb
+   - hsb
+   - mkd
+   - orv_Cyrl
+   - pol
+   - rue
+   - rus
+   - slv
+   - ukr
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.bel-eng.bel.eng: 39.7
+   - Tatoeba-test.bul-eng.bul.eng: 54.7
+   - Tatoeba-test.ces-eng.ces.eng: 52.6
+   - Tatoeba-test.csb-eng.csb.eng: 17.1
+   - Tatoeba-test.dsb-eng.dsb.eng: 17.3
+   - Tatoeba-test.hsb-eng.hsb.eng: 31.2
+   - Tatoeba-test.mkd-eng.mkd.eng: 52.8
+   - Tatoeba-test.multi.eng: 52.0
+   - Tatoeba-test.orv-eng.orv.eng: 13.0
+   - Tatoeba-test.pol-eng.pol.eng: 49.9
+   - Tatoeba-test.rue-eng.rue.eng: 19.7
+   - Tatoeba-test.rus-eng.rus.eng: 52.8
+   - Tatoeba-test.slv-eng.slv.eng: 41.5
+   - Tatoeba-test.ukr-eng.ukr.eng: 52.1
+chr-F-scores:
+   - Tatoeba-test.bel-eng.bel.eng: 0.586
+   - Tatoeba-test.bul-eng.bul.eng: 0.692
+   - Tatoeba-test.ces-eng.ces.eng: 0.684
+   - Tatoeba-test.csb-eng.csb.eng: 0.382
+   - Tatoeba-test.dsb-eng.dsb.eng: 0.359
+   - Tatoeba-test.hsb-eng.hsb.eng: 0.502
+   - Tatoeba-test.mkd-eng.mkd.eng: 0.665
+   - Tatoeba-test.multi.eng: 0.671
+   - Tatoeba-test.orv-eng.orv.eng: 0.287
+   - Tatoeba-test.pol-eng.pol.eng: 0.663
+   - Tatoeba-test.rue-eng.rue.eng: 0.363
+   - Tatoeba-test.rus-eng.rus.eng: 0.677
+   - Tatoeba-test.slv-eng.slv.eng: 0.595
+   - Tatoeba-test.ukr-eng.ukr.eng: 0.674

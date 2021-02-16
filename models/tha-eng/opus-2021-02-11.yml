@@ -1,0 +1,21 @@
+release: tha-eng/opus-2021-02-11.zip
+release-date: 2021-02-11
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - tha
+target-languages:
+   - eng
+BLEU-scores:
+   - Tatoeba-test.tha.eng: 48.1
+   - Tatoeba-test.tha-eng.tha.eng: 48.1
+chr-F-scores:
+   - Tatoeba-test.tha.eng: 0.644
+   - Tatoeba-test.tha-eng.tha.eng: 0.644

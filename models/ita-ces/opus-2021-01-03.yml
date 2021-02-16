@@ -1,0 +1,25 @@
+release: ita-ces/opus-2021-01-03.zip
+release-date: 2021-01-03
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ita
+target-languages:
+   - ces
+BLEU-scores:
+   - newssyscomb2009-itaces.ita.ces: 22.8
+   - newstest2009-itaces.ita.ces: 21.3
+   - Tatoeba-test.ita.ces: 41.2
+   - Tatoeba-test.ita-ces.ita.ces: 41.2
+chr-F-scores:
+   - newssyscomb2009-itaces.ita.ces: 0.508
+   - newstest2009-itaces.ita.ces: 0.494
+   - Tatoeba-test.ita.ces: 0.619
+   - Tatoeba-test.ita-ces.ita.ces: 0.619

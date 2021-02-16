@@ -1,0 +1,39 @@
+release: eng-ara/opus-2020-06-18.zip
+release-date: 2020-06-18
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - acm
+   - afb
+   - apc
+   - apc_Latn
+   - ara
+   - ara_Latn
+   - arq
+   - arq_Latn
+   - ary
+   - arz
+use-target-labels:
+   - >>acm<<
+   - >>afb<<
+   - >>apc<<
+   - >>apc_Latn<<
+   - >>ara<<
+   - >>ara_Latn<<
+   - >>arq<<
+   - >>arq_Latn<<
+   - >>ary<<
+   - >>arz<<
+BLEU-scores:
+   - Tatoeba-test.eng.ara: 14.4
+chr-F-scores:
+   - Tatoeba-test.eng.ara: 0.440

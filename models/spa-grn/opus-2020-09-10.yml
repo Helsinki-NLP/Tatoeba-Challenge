@@ -1,0 +1,23 @@
+release: spa-grn/opus-2020-09-10.zip
+release-date: 2020-09-10
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - spa
+target-languages:
+   - grn
+   - gug
+use-target-labels:
+   - >>grn<<
+   - >>gug<<
+BLEU-scores:
+   - Tatoeba-test.spa.grn: 0.4
+chr-F-scores:
+   - Tatoeba-test.spa.grn: 0.122

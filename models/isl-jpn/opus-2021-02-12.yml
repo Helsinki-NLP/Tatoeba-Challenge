@@ -1,0 +1,21 @@
+release: isl-jpn/opus-2021-02-12.zip
+release-date: 2021-02-12
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm12k,spm32k)
+subwords:
+   - source: spm12k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - isl
+target-languages:
+   - jpn
+BLEU-scores:
+   - Tatoeba-test.isl.jpn: 5.9
+   - Tatoeba-test.isl-jpn.isl.jpn: 5.9
+chr-F-scores:
+   - Tatoeba-test.isl.jpn: 0.136
+   - Tatoeba-test.isl-jpn.isl.jpn: 0.136

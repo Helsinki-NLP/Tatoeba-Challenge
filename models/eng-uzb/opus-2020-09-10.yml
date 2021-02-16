@@ -1,0 +1,23 @@
+release: eng-uzb/opus-2020-09-10.zip
+release-date: 2020-09-10
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - uzb_Cyrl
+   - uzb_Latn
+use-target-labels:
+   - >>uzb_Cyrl<<
+   - >>uzb_Latn<<
+BLEU-scores:
+   - Tatoeba-test.eng.uzb: 0.2
+chr-F-scores:
+   - Tatoeba-test.eng.uzb: 0.151
