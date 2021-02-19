@@ -1,4 +1,4 @@
-# opus-2021-02-13.zip
+# opus-2021-02-19.zip
 
 * dataset: opus
 * model: transformer
@@ -6,21 +6,20 @@
 * target language(s): eng
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* download: [opus-2021-02-13.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus-2021-02-13.zip)
-* test set translations: [opus-2021-02-13.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus-2021-02-13.test.txt)
-* test set scores: [opus-2021-02-13.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus-2021-02-13.eval.txt)
+* download: [opus-2021-02-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus-2021-02-19.zip)
+* test set translations: [opus-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus-2021-02-19.test.txt)
+* test set scores: [opus-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus-2021-02-19.eval.txt)
 
 ## Benchmarks
 
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| newssyscomb2009-spaeng.spa.eng 	| 30.6 	| 0.570 |
-| news-test2008-spaeng.spa.eng 	| 27.9 	| 0.553 |
-| newstest2009-spaeng.spa.eng 	| 30.4 	| 0.572 |
-| newstest2010-spaeng.spa.eng 	| 36.1 	| 0.614 |
-| newstest2011-spaeng.spa.eng 	| 34.2 	| 0.599 |
-| newstest2012-spaeng.spa.eng 	| 37.9 	| 0.624 |
-| newstest2013-spaeng.spa.eng 	| 35.3 	| 0.609 |
-| Tatoeba-test.spa.eng 	| 59.6 	| 0.739 |
-| Tatoeba-test.spa-eng.spa.eng 	| 59.6 	| 0.739 |
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newssyscomb2009.spa-eng 	| 30.6 	| 0.570 	| 502 	| 11821 	| 1.000 |
+| news-test2008.spa-eng 	| 27.9 	| 0.553 	| 2051 	| 49380 	| 1.000 |
+| newstest2009.spa-eng 	| 30.4 	| 0.572 	| 2525 	| 65402 	| 0.986 |
+| newstest2010.spa-eng 	| 36.1 	| 0.614 	| 2489 	| 61724 	| 1.000 |
+| newstest2011.spa-eng 	| 34.2 	| 0.599 	| 3003 	| 74681 	| 1.000 |
+| newstest2012.spa-eng 	| 37.9 	| 0.624 	| 3003 	| 72812 	| 1.000 |
+| newstest2013.spa-eng 	| 35.3 	| 0.609 	| 3000 	| 64505 	| 1.000 |
+| Tatoeba-test.spa-eng 	| 59.6 	| 0.739 	| 10000 	| 79376 	| 0.974 |
 

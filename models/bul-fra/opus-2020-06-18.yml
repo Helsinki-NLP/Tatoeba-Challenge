@@ -13,7 +13,9 @@ source-languages:
    - bul
 target-languages:
    - fra
+test-data:
+   - Tatoeba-test.bul-fra: 446/3206
 BLEU-scores:
-   - Tatoeba-test.bul.fra: 54.3
+   - Tatoeba-test.bul-fra: 54.3
 chr-F-scores:
-   - Tatoeba-test.bul.fra: 0.696
+   - Tatoeba-test.bul-fra: 0.696

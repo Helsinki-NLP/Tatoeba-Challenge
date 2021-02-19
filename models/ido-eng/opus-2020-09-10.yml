@@ -11,10 +11,11 @@ subword-models:
    - target: target.spm
 source-languages:
    - ido
-   - ido_Latn
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.ido-eng: 1968/11883
 BLEU-scores:
-   - Tatoeba-test.ido.eng: 0.1
+   - Tatoeba-test.ido-eng: 0.1
 chr-F-scores:
-   - Tatoeba-test.ido.eng: 0.075
+   - Tatoeba-test.ido-eng: 0.075

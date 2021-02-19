@@ -1,4 +1,4 @@
-# opus-2021-02-11.zip
+# opus-2021-02-18.zip
 
 * dataset: opus
 * model: transformer-align
@@ -6,14 +6,13 @@
 * target language(s): ukr
 * model: transformer-align
 * pre-processing: normalization + SentencePiece (spm4k,spm4k)
-* download: [opus-2021-02-11.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/cat-ukr/opus-2021-02-11.zip)
-* test set translations: [opus-2021-02-11.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cat-ukr/opus-2021-02-11.test.txt)
-* test set scores: [opus-2021-02-11.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cat-ukr/opus-2021-02-11.eval.txt)
+* download: [opus-2021-02-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/cat-ukr/opus-2021-02-18.zip)
+* test set translations: [opus-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cat-ukr/opus-2021-02-18.test.txt)
+* test set scores: [opus-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cat-ukr/opus-2021-02-18.eval.txt)
 
 ## Benchmarks
 
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.cat.ukr 	| 28.6 	| 0.503 |
-| Tatoeba-test.cat-ukr.cat.ukr 	| 28.6 	| 0.503 |
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.cat-ukr 	| 28.6 	| 0.503 	| 455 	| 2438 	| 0.967 |
 

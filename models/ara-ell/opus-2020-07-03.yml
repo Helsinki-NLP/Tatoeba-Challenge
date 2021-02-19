@@ -14,7 +14,9 @@ source-languages:
    - arz
 target-languages:
    - ell
+test-data:
+   - Tatoeba-test.ara-ell: 425/1547
 BLEU-scores:
-   - Tatoeba-test.ara.ell: 43.9
+   - Tatoeba-test.ara-ell: 43.9
 chr-F-scores:
-   - Tatoeba-test.ara.ell: 0.636
+   - Tatoeba-test.ara-ell: 0.636

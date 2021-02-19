@@ -11,14 +11,18 @@ subword-models:
    - target: target.spm
 source-languages:
    - ell
-   - grc_Grek
+   - grc
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.ell-eng: 10000/50149
+   - Tatoeba-test.grc-eng: 592/4157
+   - Tatoeba-test.multi-eng: 10000/51258
 BLEU-scores:
-   - Tatoeba-test.ell-eng.ell.eng: 67.3
-   - Tatoeba-test.grc-eng.grc.eng: 5.0
-   - Tatoeba-test.multi.eng: 62.2
+   - Tatoeba-test.ell-eng: 67.3
+   - Tatoeba-test.grc-eng: 5.0
+   - Tatoeba-test.multi-eng: 62.2
 chr-F-scores:
-   - Tatoeba-test.ell-eng.ell.eng: 0.788
-   - Tatoeba-test.grc-eng.grc.eng: 0.200
-   - Tatoeba-test.multi.eng: 0.741
+   - Tatoeba-test.ell-eng: 0.788
+   - Tatoeba-test.grc-eng: 0.200
+   - Tatoeba-test.multi-eng: 0.741

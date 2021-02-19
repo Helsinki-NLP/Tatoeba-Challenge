@@ -30,17 +30,24 @@ use-target-labels:
    - >>arz<<
    - >>heb<<
    - >>mlt<<
+test-data:
+   - Tatoeba-test.ara-ara: 16/48
+   - Tatoeba-test.ara-heb: 1208/5440
+   - Tatoeba-test.ara-mlt: 28/59
+   - Tatoeba-test.heb-ara: 1208/5301
+   - Tatoeba-test.mlt-ara: 28/67
+   - Tatoeba-test.multi-multi: 2504/10963
 BLEU-scores:
-   - Tatoeba-test.ara-ara.ara.ara: 4.2
-   - Tatoeba-test.ara-heb.ara.heb: 34.0
-   - Tatoeba-test.ara-mlt.ara.mlt: 16.6
-   - Tatoeba-test.heb-ara.heb.ara: 18.8
-   - Tatoeba-test.mlt-ara.mlt.ara: 20.7
-   - Tatoeba-test.multi.multi: 27.1
+   - Tatoeba-test.ara-ara: 4.2
+   - Tatoeba-test.ara-heb: 34.0
+   - Tatoeba-test.ara-mlt: 16.6
+   - Tatoeba-test.heb-ara: 18.8
+   - Tatoeba-test.mlt-ara: 20.7
+   - Tatoeba-test.multi-multi: 27.1
 chr-F-scores:
-   - Tatoeba-test.ara-ara.ara.ara: 0.200
-   - Tatoeba-test.ara-heb.ara.heb: 0.542
-   - Tatoeba-test.ara-mlt.ara.mlt: 0.513
-   - Tatoeba-test.heb-ara.heb.ara: 0.477
-   - Tatoeba-test.mlt-ara.mlt.ara: 0.388
-   - Tatoeba-test.multi.multi: 0.507
+   - Tatoeba-test.ara-ara: 0.200
+   - Tatoeba-test.ara-heb: 0.542
+   - Tatoeba-test.ara-mlt: 0.513
+   - Tatoeba-test.heb-ara: 0.477
+   - Tatoeba-test.mlt-ara: 0.388
+   - Tatoeba-test.multi-multi: 0.507

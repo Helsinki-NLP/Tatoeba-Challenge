@@ -13,11 +13,12 @@ source-languages:
    - tur
 target-languages:
    - crh
-   - crh_Latn
 use-target-labels:
    - >>crh<<
    - >>crh_Latn<<
+test-data:
+   - Tatoeba-test.tur-crh: 207/821
 BLEU-scores:
-   - Tatoeba-test.tur.crh: 0.4
+   - Tatoeba-test.tur-crh: 0.4
 chr-F-scores:
-   - Tatoeba-test.tur.crh: 0.137
+   - Tatoeba-test.tur-crh: 0.137

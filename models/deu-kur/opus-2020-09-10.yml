@@ -13,15 +13,15 @@ source-languages:
    - deu
 target-languages:
    - kmr
-   - kmr_Latn
-   - kur_Arab
-   - kur_Latn
+   - kur
 use-target-labels:
    - >>kmr<<
    - >>kmr_Latn<<
    - >>kur_Arab<<
    - >>kur_Latn<<
+test-data:
+   - Tatoeba-test.deu-kur: 223/984
 BLEU-scores:
-   - Tatoeba-test.deu.kur: 0.0
+   - Tatoeba-test.deu-kur: 0.0
 chr-F-scores:
-   - Tatoeba-test.deu.kur: 0.016
+   - Tatoeba-test.deu-kur: 0.016

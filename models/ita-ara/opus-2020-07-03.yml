@@ -13,7 +13,9 @@ source-languages:
    - ita
 target-languages:
    - ara
+test-data:
+   - Tatoeba-test.ita-ara: 235/978
 BLEU-scores:
-   - Tatoeba-test.ita.ara: 21.9
+   - Tatoeba-test.ita-ara: 21.9
 chr-F-scores:
-   - Tatoeba-test.ita.ara: 0.517
+   - Tatoeba-test.ita-ara: 0.517

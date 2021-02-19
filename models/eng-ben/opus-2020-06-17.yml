@@ -13,7 +13,9 @@ source-languages:
    - eng
 target-languages:
    - ben
+test-data:
+   - Tatoeba-test.eng-ben: 2500/10942
 BLEU-scores:
-   - Tatoeba-test.eng.ben: 16.9
+   - Tatoeba-test.eng-ben: 16.9
 chr-F-scores:
-   - Tatoeba-test.eng.ben: 0.484
+   - Tatoeba-test.eng-ben: 0.484

@@ -27,23 +27,33 @@ use-target-labels:
    - >>mar<<
    - >>urd<<
    - >>zza<<
+test-data:
+   - Tatoeba-test.asm-hin: 4/15
+   - Tatoeba-test.asm-zza: 1/4
+   - Tatoeba-test.hin-asm: 4/13
+   - Tatoeba-test.hin-mar: 158/692
+   - Tatoeba-test.hin-urd: 239/1591
+   - Tatoeba-test.mar-hin: 158/860
+   - Tatoeba-test.multi-multi: 804/4689
+   - Tatoeba-test.urd-hin: 239/1512
+   - Tatoeba-test.zza-asm: 1/2
 BLEU-scores:
-   - Tatoeba-test.asm-hin.asm.hin: 3.5
-   - Tatoeba-test.asm-zza.asm.zza: 12.4
-   - Tatoeba-test.hin-asm.hin.asm: 6.2
-   - Tatoeba-test.hin-mar.hin.mar: 27.0
-   - Tatoeba-test.hin-urd.hin.urd: 21.4
-   - Tatoeba-test.mar-hin.mar.hin: 13.4
-   - Tatoeba-test.multi.multi: 17.7
-   - Tatoeba-test.urd-hin.urd.hin: 13.4
-   - Tatoeba-test.zza-asm.zza.asm: 5.3
+   - Tatoeba-test.asm-hin: 3.5
+   - Tatoeba-test.asm-zza: 12.4
+   - Tatoeba-test.hin-asm: 6.2
+   - Tatoeba-test.hin-mar: 27.0
+   - Tatoeba-test.hin-urd: 21.4
+   - Tatoeba-test.mar-hin: 13.4
+   - Tatoeba-test.multi-multi: 17.7
+   - Tatoeba-test.urd-hin: 13.4
+   - Tatoeba-test.zza-asm: 5.3
 chr-F-scores:
-   - Tatoeba-test.asm-hin.asm.hin: 0.202
-   - Tatoeba-test.asm-zza.asm.zza: 0.014
-   - Tatoeba-test.hin-asm.hin.asm: 0.238
-   - Tatoeba-test.hin-mar.hin.mar: 0.560
-   - Tatoeba-test.hin-urd.hin.urd: 0.507
-   - Tatoeba-test.mar-hin.mar.hin: 0.463
-   - Tatoeba-test.multi.multi: 0.460
-   - Tatoeba-test.urd-hin.urd.hin: 0.363
-   - Tatoeba-test.zza-asm.zza.asm: 0.000
+   - Tatoeba-test.asm-hin: 0.202
+   - Tatoeba-test.asm-zza: 0.014
+   - Tatoeba-test.hin-asm: 0.238
+   - Tatoeba-test.hin-mar: 0.560
+   - Tatoeba-test.hin-urd: 0.507
+   - Tatoeba-test.mar-hin: 0.463
+   - Tatoeba-test.multi-multi: 0.460
+   - Tatoeba-test.urd-hin: 0.363
+   - Tatoeba-test.zza-asm: 0.000

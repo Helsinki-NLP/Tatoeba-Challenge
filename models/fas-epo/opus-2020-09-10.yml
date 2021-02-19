@@ -14,7 +14,9 @@ source-languages:
    - pes
 target-languages:
    - epo
+test-data:
+   - Tatoeba-test.fas-epo: 2500/15280
 BLEU-scores:
-   - Tatoeba-test.fas.epo: 0.3
+   - Tatoeba-test.fas-epo: 0.3
 chr-F-scores:
-   - Tatoeba-test.fas.epo: 0.117
+   - Tatoeba-test.fas-epo: 0.117

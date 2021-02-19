@@ -1,0 +1,30 @@
+release: mlg-eng/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - mlg
+   - plt
+target-languages:
+   - eng
+training-data:
+   - mlg-eng: Tatoeba-train (1228693) 
+   - plt-eng: Tatoeba-train (61838) 
+validation-data:
+   - eng-mlg: Tatoeba-dev, 954
+   - eng-plt: Tatoeba-dev, 46
+   - total size of shuffled dev data: 996
+   - devset = top 996  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.mlg-eng: 51/236
+BLEU-scores:
+   - Tatoeba-test.mlg-eng: 42.5
+chr-F-scores:
+   - Tatoeba-test.mlg-eng: 0.541

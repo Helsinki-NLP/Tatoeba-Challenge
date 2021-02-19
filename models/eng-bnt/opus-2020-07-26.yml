@@ -19,7 +19,7 @@ target-languages:
    - run
    - sna
    - swh
-   - toi_Latn
+   - toi
    - tso
    - umb
    - xho
@@ -37,31 +37,45 @@ use-target-labels:
    - >>umb<<
    - >>xho<<
    - >>zul<<
+test-data:
+   - Tatoeba-test.eng-kin: 17/60
+   - Tatoeba-test.eng-lin: 28/154
+   - Tatoeba-test.eng-lug: 2/6
+   - Tatoeba-test.eng-multi: 2422/7294
+   - Tatoeba-test.eng-nya: 22/71
+   - Tatoeba-test.eng-run: 1703/4930
+   - Tatoeba-test.eng-sna: 41/100
+   - Tatoeba-test.eng-swa: 386/1357
+   - Tatoeba-test.eng-toi: 2/7
+   - Tatoeba-test.eng-tso: 3/11
+   - Tatoeba-test.eng-umb: 32/79
+   - Tatoeba-test.eng-xho: 152/456
+   - Tatoeba-test.eng-zul: 34/63
 BLEU-scores:
-   - Tatoeba-test.eng-kin.eng.kin: 12.5
-   - Tatoeba-test.eng-lin.eng.lin: 1.1
-   - Tatoeba-test.eng-lug.eng.lug: 4.8
-   - Tatoeba-test.eng.multi: 12.1
-   - Tatoeba-test.eng-nya.eng.nya: 22.1
-   - Tatoeba-test.eng-run.eng.run: 13.2
-   - Tatoeba-test.eng-sna.eng.sna: 32.1
-   - Tatoeba-test.eng-swa.eng.swa: 1.7
-   - Tatoeba-test.eng-toi.eng.toi: 10.7
-   - Tatoeba-test.eng-tso.eng.tso: 26.9
-   - Tatoeba-test.eng-umb.eng.umb: 5.2
-   - Tatoeba-test.eng-xho.eng.xho: 22.6
-   - Tatoeba-test.eng-zul.eng.zul: 41.1
+   - Tatoeba-test.eng-kin: 12.5
+   - Tatoeba-test.eng-lin: 1.1
+   - Tatoeba-test.eng-lug: 4.8
+   - Tatoeba-test.eng-multi: 12.1
+   - Tatoeba-test.eng-nya: 22.1
+   - Tatoeba-test.eng-run: 13.2
+   - Tatoeba-test.eng-sna: 32.1
+   - Tatoeba-test.eng-swa: 1.7
+   - Tatoeba-test.eng-toi: 10.7
+   - Tatoeba-test.eng-tso: 26.9
+   - Tatoeba-test.eng-umb: 5.2
+   - Tatoeba-test.eng-xho: 22.6
+   - Tatoeba-test.eng-zul: 41.1
 chr-F-scores:
-   - Tatoeba-test.eng-kin.eng.kin: 0.519
-   - Tatoeba-test.eng-lin.eng.lin: 0.277
-   - Tatoeba-test.eng-lug.eng.lug: 0.415
-   - Tatoeba-test.eng.multi: 0.449
-   - Tatoeba-test.eng-nya.eng.nya: 0.616
-   - Tatoeba-test.eng-run.eng.run: 0.492
-   - Tatoeba-test.eng-sna.eng.sna: 0.669
-   - Tatoeba-test.eng-swa.eng.swa: 0.180
-   - Tatoeba-test.eng-toi.eng.toi: 0.266
-   - Tatoeba-test.eng-tso.eng.tso: 0.631
-   - Tatoeba-test.eng-umb.eng.umb: 0.295
-   - Tatoeba-test.eng-xho.eng.xho: 0.615
-   - Tatoeba-test.eng-zul.eng.zul: 0.769
+   - Tatoeba-test.eng-kin: 0.519
+   - Tatoeba-test.eng-lin: 0.277
+   - Tatoeba-test.eng-lug: 0.415
+   - Tatoeba-test.eng-multi: 0.449
+   - Tatoeba-test.eng-nya: 0.616
+   - Tatoeba-test.eng-run: 0.492
+   - Tatoeba-test.eng-sna: 0.669
+   - Tatoeba-test.eng-swa: 0.180
+   - Tatoeba-test.eng-toi: 0.266
+   - Tatoeba-test.eng-tso: 0.631
+   - Tatoeba-test.eng-umb: 0.295
+   - Tatoeba-test.eng-xho: 0.615
+   - Tatoeba-test.eng-zul: 0.769

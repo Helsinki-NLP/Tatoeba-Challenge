@@ -13,9 +13,12 @@ source-languages:
    - pap
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.multi-eng: 70/275
+   - Tatoeba-test.pap-eng: 70/275
 BLEU-scores:
-   - Tatoeba-test.multi.eng: 48.1
-   - Tatoeba-test.pap-eng.pap.eng: 48.1
+   - Tatoeba-test.multi-eng: 48.1
+   - Tatoeba-test.pap-eng: 48.1
 chr-F-scores:
-   - Tatoeba-test.multi.eng: 0.595
-   - Tatoeba-test.pap-eng.pap.eng: 0.595
+   - Tatoeba-test.multi-eng: 0.595
+   - Tatoeba-test.pap-eng: 0.595

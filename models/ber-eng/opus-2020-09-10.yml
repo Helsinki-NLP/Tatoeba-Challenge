@@ -10,12 +10,12 @@ subword-models:
    - source: source.spm
    - target: target.spm
 source-languages:
-   - ber_Arab
-   - ber_Latn
-   - ber_Tfng
+   - ber
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.ber-eng: 10000/61461
 BLEU-scores:
-   - Tatoeba-test.ber.eng: 0.0
+   - Tatoeba-test.ber-eng: 0.0
 chr-F-scores:
-   - Tatoeba-test.ber.eng: 0.095
+   - Tatoeba-test.ber-eng: 0.095

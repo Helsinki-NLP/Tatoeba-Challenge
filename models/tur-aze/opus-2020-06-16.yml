@@ -12,8 +12,10 @@ subword-models:
 source-languages:
    - tur
 target-languages:
-   - aze_Latn
+   - aze
+test-data:
+   - Tatoeba-test.tur-aze: 1126/4159
 BLEU-scores:
-   - Tatoeba-test.tur.aze: 27.7
+   - Tatoeba-test.tur-aze: 27.7
 chr-F-scores:
-   - Tatoeba-test.tur.aze: 0.551
+   - Tatoeba-test.tur-aze: 0.551

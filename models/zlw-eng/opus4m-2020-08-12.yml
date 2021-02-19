@@ -11,45 +11,63 @@ subword-models:
    - target: target.spm
 source-languages:
    - ces
-   - csb_Latn
+   - csb
    - dsb
    - hsb
    - pol
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.ces-eng: 10000/64235
+   - Tatoeba-test.csb-eng: 27/197
+   - Tatoeba-test.dsb-eng: 34/168
+   - Tatoeba-test.hsb-eng: 40/194
+   - Tatoeba-test.multi-eng: 10000/64481
+   - Tatoeba-test.pol-eng: 10000/63754
+   - newssyscomb2009.ces-eng: 502/10424
+   - newstest2009.ces-eng: 2525/57625
+   - newstest2010.ces-eng: 2489/54021
+   - newstest2011.ces-eng: 3003/65829
+   - newstest2012.ces-eng: 3003/63778
+   - newstest2013.ces-eng: 3000/56089
+   - newstest2014-csen.ces-eng: 3003/60441
+   - newstest2015-encs.ces-eng: 2656/47160
+   - newstest2016-encs.ces-eng: 2999/57418
+   - newstest2017-encs.ces-eng: 3005/54762
+   - newstest2018-encs.ces-eng: 2983/55920
 BLEU-scores:
-   - newssyscomb2009-ceseng.ces.eng: 26.8
-   - newstest2009-ceseng.ces.eng: 26.1
-   - newstest2010-ceseng.ces.eng: 26.1
-   - newstest2011-ceseng.ces.eng: 27.1
-   - newstest2012-ceseng.ces.eng: 25.6
-   - newstest2013-ceseng.ces.eng: 29.0
-   - newstest2014-csen-ceseng.ces.eng: 31.8
-   - newstest2015-encs-ceseng.ces.eng: 29.0
-   - newstest2016-encs-ceseng.ces.eng: 30.1
-   - newstest2017-encs-ceseng.ces.eng: 27.4
-   - newstest2018-encs-ceseng.ces.eng: 28.5
-   - Tatoeba-test.ces-eng.ces.eng: 54.4
-   - Tatoeba-test.csb-eng.csb.eng: 15.6
-   - Tatoeba-test.dsb-eng.dsb.eng: 20.0
-   - Tatoeba-test.hsb-eng.hsb.eng: 15.6
-   - Tatoeba-test.multi.eng: 52.8
-   - Tatoeba-test.pol-eng.pol.eng: 51.1
+   - Tatoeba-test.ces-eng: 54.4
+   - Tatoeba-test.csb-eng: 15.6
+   - Tatoeba-test.dsb-eng: 20.0
+   - Tatoeba-test.hsb-eng: 15.6
+   - Tatoeba-test.multi-eng: 52.8
+   - Tatoeba-test.pol-eng: 51.1
+   - newssyscomb2009.ces-eng: 26.8
+   - newstest2009.ces-eng: 26.1
+   - newstest2010.ces-eng: 26.1
+   - newstest2011.ces-eng: 27.1
+   - newstest2012.ces-eng: 25.6
+   - newstest2013.ces-eng: 29.0
+   - newstest2014-csen.ces-eng: 31.8
+   - newstest2015-encs.ces-eng: 29.0
+   - newstest2016-encs.ces-eng: 30.1
+   - newstest2017-encs.ces-eng: 27.4
+   - newstest2018-encs.ces-eng: 28.5
 chr-F-scores:
-   - newssyscomb2009-ceseng.ces.eng: 0.546
-   - newstest2009-ceseng.ces.eng: 0.541
-   - newstest2010-ceseng.ces.eng: 0.548
-   - newstest2011-ceseng.ces.eng: 0.548
-   - newstest2012-ceseng.ces.eng: 0.540
-   - newstest2013-ceseng.ces.eng: 0.560
-   - newstest2014-csen-ceseng.ces.eng: 0.596
-   - newstest2015-encs-ceseng.ces.eng: 0.553
-   - newstest2016-encs-ceseng.ces.eng: 0.572
-   - newstest2017-encs-ceseng.ces.eng: 0.546
-   - newstest2018-encs-ceseng.ces.eng: 0.553
-   - Tatoeba-test.ces-eng.ces.eng: 0.699
-   - Tatoeba-test.csb-eng.csb.eng: 0.332
-   - Tatoeba-test.dsb-eng.dsb.eng: 0.360
-   - Tatoeba-test.hsb-eng.hsb.eng: 0.382
-   - Tatoeba-test.multi.eng: 0.687
-   - Tatoeba-test.pol-eng.pol.eng: 0.674
+   - Tatoeba-test.ces-eng: 0.699
+   - Tatoeba-test.csb-eng: 0.332
+   - Tatoeba-test.dsb-eng: 0.360
+   - Tatoeba-test.hsb-eng: 0.382
+   - Tatoeba-test.multi-eng: 0.687
+   - Tatoeba-test.pol-eng: 0.674
+   - newssyscomb2009.ces-eng: 0.546
+   - newstest2009.ces-eng: 0.541
+   - newstest2010.ces-eng: 0.548
+   - newstest2011.ces-eng: 0.548
+   - newstest2012.ces-eng: 0.540
+   - newstest2013.ces-eng: 0.560
+   - newstest2014-csen.ces-eng: 0.596
+   - newstest2015-encs.ces-eng: 0.553
+   - newstest2016-encs.ces-eng: 0.572
+   - newstest2017-encs.ces-eng: 0.546
+   - newstest2018-encs.ces-eng: 0.553

@@ -11,15 +11,15 @@ subword-models:
    - target: target.spm
 source-languages:
    - afr
-   - ang_Latn
+   - ang
    - dan
    - deu
-   - enm_Latn
+   - enm
    - fao
    - frr
    - fry
    - gos
-   - got_Goth
+   - got
    - gsw
    - isl
    - ksh
@@ -28,8 +28,7 @@ source-languages:
    - nld
    - nno
    - nob
-   - nob_Hebr
-   - non_Latn
+   - non
    - pdc
    - sco
    - stq
@@ -38,81 +37,120 @@ source-languages:
    - yid
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.afr-eng: 1374/8101
+   - Tatoeba-test.ang-eng: 189/1693
+   - Tatoeba-test.dan-eng: 10000/62015
+   - Tatoeba-test.deu-eng: 10000/69484
+   - Tatoeba-test.enm-eng: 49/238
+   - Tatoeba-test.fao-eng: 294/1631
+   - Tatoeba-test.frr-eng: 2/7
+   - Tatoeba-test.fry-eng: 205/1234
+   - Tatoeba-test.gos-eng: 1152/4319
+   - Tatoeba-test.got-eng: 207/865
+   - Tatoeba-test.gsw-eng: 205/770
+   - Tatoeba-test.isl-eng: 2500/16860
+   - Tatoeba-test.ksh-eng: 26/175
+   - Tatoeba-test.ltz-eng: 283/1378
+   - Tatoeba-test.multi-eng: 10000/60677
+   - Tatoeba-test.nds-eng: 2500/14803
+   - Tatoeba-test.nld-eng: 10000/58489
+   - Tatoeba-test.non-eng: 15/112
+   - Tatoeba-test.nor-eng: 5000/34479
+   - Tatoeba-test.pdc-eng: 53/295
+   - Tatoeba-test.sco-eng: 27/183
+   - Tatoeba-test.stq-eng: 5/28
+   - Tatoeba-test.swe-eng: 10000/54997
+   - Tatoeba-test.swg-eng: 33/205
+   - Tatoeba-test.yid-eng: 1168/6380
+   - news-test2008.deu-eng: 2051/43455
+   - newssyscomb2009.deu-eng: 502/10424
+   - newstest2009.deu-eng: 2525/57625
+   - newstest2010.deu-eng: 2489/54021
+   - newstest2011.deu-eng: 3003/65829
+   - newstest2012.deu-eng: 3003/63778
+   - newstest2013.deu-eng: 3000/56089
+   - newstest2014-deen.deu-eng: 3003/59325
+   - newstest2015-ende.deu-eng: 2169/40771
+   - newstest2016-ende.deu-eng: 2999/56789
+   - newstest2017-ende.deu-eng: 3004/56435
+   - newstest2018-ende.deu-eng: 2998/58628
+   - newstest2019-deen.deu-eng: 2000/34386
 BLEU-scores:
-   - newssyscomb2009-deueng.deu.eng: 26.8
-   - news-test2008-deueng.deu.eng: 25.6
-   - newstest2009-deueng.deu.eng: 24.6
-   - newstest2010-deueng.deu.eng: 27.8
-   - newstest2011-deueng.deu.eng: 25.1
-   - newstest2012-deueng.deu.eng: 26.5
-   - newstest2013-deueng.deu.eng: 29.5
-   - newstest2014-deen-deueng.deu.eng: 29.9
-   - newstest2015-ende-deueng.deu.eng: 31.1
-   - newstest2016-ende-deueng.deu.eng: 36.3
-   - newstest2017-ende-deueng.deu.eng: 32.4
-   - newstest2018-ende-deueng.deu.eng: 39.4
-   - newstest2019-deen-deueng.deu.eng: 35.5
-   - Tatoeba-test.afr-eng.afr.eng: 62.8
-   - Tatoeba-test.ang-eng.ang.eng: 9.7
-   - Tatoeba-test.dan-eng.dan.eng: 60.4
-   - Tatoeba-test.deu-eng.deu.eng: 48.7
-   - Tatoeba-test.enm-eng.enm.eng: 22.4
-   - Tatoeba-test.fao-eng.fao.eng: 23.8
-   - Tatoeba-test.frr-eng.frr.eng: 16.8
-   - Tatoeba-test.fry-eng.fry.eng: 24.8
-   - Tatoeba-test.gos-eng.gos.eng: 17.3
-   - Tatoeba-test.got-eng.got.eng: 0.1
-   - Tatoeba-test.gsw-eng.gsw.eng: 13.3
-   - Tatoeba-test.isl-eng.isl.eng: 49.9
-   - Tatoeba-test.ksh-eng.ksh.eng: 3.2
-   - Tatoeba-test.ltz-eng.ltz.eng: 34.4
-   - Tatoeba-test.multi.eng: 53.4
-   - Tatoeba-test.nds-eng.nds.eng: 31.5
-   - Tatoeba-test.nld-eng.nld.eng: 58.2
-   - Tatoeba-test.non-eng.non.eng: 35.0
-   - Tatoeba-test.nor-eng.nor.eng: 54.1
-   - Tatoeba-test.pdc-eng.pdc.eng: 32.5
-   - Tatoeba-test.sco-eng.sco.eng: 35.9
-   - Tatoeba-test.stq-eng.stq.eng: 4.8
-   - Tatoeba-test.swe-eng.swe.eng: 61.3
-   - Tatoeba-test.swg-eng.swg.eng: 14.8
-   - Tatoeba-test.yid-eng.yid.eng: 18.6
+   - Tatoeba-test.afr-eng: 62.8
+   - Tatoeba-test.ang-eng: 9.7
+   - Tatoeba-test.dan-eng: 60.4
+   - Tatoeba-test.deu-eng: 48.7
+   - Tatoeba-test.enm-eng: 22.4
+   - Tatoeba-test.fao-eng: 23.8
+   - Tatoeba-test.frr-eng: 16.8
+   - Tatoeba-test.fry-eng: 24.8
+   - Tatoeba-test.gos-eng: 17.3
+   - Tatoeba-test.got-eng: 0.1
+   - Tatoeba-test.gsw-eng: 13.3
+   - Tatoeba-test.isl-eng: 49.9
+   - Tatoeba-test.ksh-eng: 3.2
+   - Tatoeba-test.ltz-eng: 34.4
+   - Tatoeba-test.multi-eng: 53.4
+   - Tatoeba-test.nds-eng: 31.5
+   - Tatoeba-test.nld-eng: 58.2
+   - Tatoeba-test.non-eng: 35.0
+   - Tatoeba-test.nor-eng: 54.1
+   - Tatoeba-test.pdc-eng: 32.5
+   - Tatoeba-test.sco-eng: 35.9
+   - Tatoeba-test.stq-eng: 4.8
+   - Tatoeba-test.swe-eng: 61.3
+   - Tatoeba-test.swg-eng: 14.8
+   - Tatoeba-test.yid-eng: 18.6
+   - news-test2008.deu-eng: 25.6
+   - newssyscomb2009.deu-eng: 26.8
+   - newstest2009.deu-eng: 24.6
+   - newstest2010.deu-eng: 27.8
+   - newstest2011.deu-eng: 25.1
+   - newstest2012.deu-eng: 26.5
+   - newstest2013.deu-eng: 29.5
+   - newstest2014-deen.deu-eng: 29.9
+   - newstest2015-ende.deu-eng: 31.1
+   - newstest2016-ende.deu-eng: 36.3
+   - newstest2017-ende.deu-eng: 32.4
+   - newstest2018-ende.deu-eng: 39.4
+   - newstest2019-deen.deu-eng: 35.5
 chr-F-scores:
-   - newssyscomb2009-deueng.deu.eng: 0.537
-   - news-test2008-deueng.deu.eng: 0.531
-   - newstest2009-deueng.deu.eng: 0.527
-   - newstest2010-deueng.deu.eng: 0.564
-   - newstest2011-deueng.deu.eng: 0.536
-   - newstest2012-deueng.deu.eng: 0.548
-   - newstest2013-deueng.deu.eng: 0.564
-   - newstest2014-deen-deueng.deu.eng: 0.569
-   - newstest2015-ende-deueng.deu.eng: 0.574
-   - newstest2016-ende-deueng.deu.eng: 0.619
-   - newstest2017-ende-deueng.deu.eng: 0.583
-   - newstest2018-ende-deueng.deu.eng: 0.636
-   - newstest2019-deen-deueng.deu.eng: 0.604
-   - Tatoeba-test.afr-eng.afr.eng: 0.756
-   - Tatoeba-test.ang-eng.ang.eng: 0.258
-   - Tatoeba-test.dan-eng.dan.eng: 0.744
-   - Tatoeba-test.deu-eng.deu.eng: 0.658
-   - Tatoeba-test.enm-eng.enm.eng: 0.478
-   - Tatoeba-test.fao-eng.fao.eng: 0.451
-   - Tatoeba-test.frr-eng.frr.eng: 0.241
-   - Tatoeba-test.fry-eng.fry.eng: 0.449
-   - Tatoeba-test.gos-eng.gos.eng: 0.341
-   - Tatoeba-test.got-eng.got.eng: 0.022
-   - Tatoeba-test.gsw-eng.gsw.eng: 0.324
-   - Tatoeba-test.isl-eng.isl.eng: 0.658
-   - Tatoeba-test.ksh-eng.ksh.eng: 0.240
-   - Tatoeba-test.ltz-eng.ltz.eng: 0.485
-   - Tatoeba-test.multi.eng: 0.682
-   - Tatoeba-test.nds-eng.nds.eng: 0.511
-   - Tatoeba-test.nld-eng.nld.eng: 0.727
-   - Tatoeba-test.non-eng.non.eng: 0.577
-   - Tatoeba-test.nor-eng.nor.eng: 0.692
-   - Tatoeba-test.pdc-eng.pdc.eng: 0.466
-   - Tatoeba-test.sco-eng.sco.eng: 0.569
-   - Tatoeba-test.stq-eng.stq.eng: 0.349
-   - Tatoeba-test.swe-eng.swe.eng: 0.741
-   - Tatoeba-test.swg-eng.swg.eng: 0.294
-   - Tatoeba-test.yid-eng.yid.eng: 0.389
+   - Tatoeba-test.afr-eng: 0.756
+   - Tatoeba-test.ang-eng: 0.258
+   - Tatoeba-test.dan-eng: 0.744
+   - Tatoeba-test.deu-eng: 0.658
+   - Tatoeba-test.enm-eng: 0.478
+   - Tatoeba-test.fao-eng: 0.451
+   - Tatoeba-test.frr-eng: 0.241
+   - Tatoeba-test.fry-eng: 0.449
+   - Tatoeba-test.gos-eng: 0.341
+   - Tatoeba-test.got-eng: 0.022
+   - Tatoeba-test.gsw-eng: 0.324
+   - Tatoeba-test.isl-eng: 0.658
+   - Tatoeba-test.ksh-eng: 0.240
+   - Tatoeba-test.ltz-eng: 0.485
+   - Tatoeba-test.multi-eng: 0.682
+   - Tatoeba-test.nds-eng: 0.511
+   - Tatoeba-test.nld-eng: 0.727
+   - Tatoeba-test.non-eng: 0.577
+   - Tatoeba-test.nor-eng: 0.692
+   - Tatoeba-test.pdc-eng: 0.466
+   - Tatoeba-test.sco-eng: 0.569
+   - Tatoeba-test.stq-eng: 0.349
+   - Tatoeba-test.swe-eng: 0.741
+   - Tatoeba-test.swg-eng: 0.294
+   - Tatoeba-test.yid-eng: 0.389
+   - news-test2008.deu-eng: 0.531
+   - newssyscomb2009.deu-eng: 0.537
+   - newstest2009.deu-eng: 0.527
+   - newstest2010.deu-eng: 0.564
+   - newstest2011.deu-eng: 0.536
+   - newstest2012.deu-eng: 0.548
+   - newstest2013.deu-eng: 0.564
+   - newstest2014-deen.deu-eng: 0.569
+   - newstest2015-ende.deu-eng: 0.574
+   - newstest2016-ende.deu-eng: 0.619
+   - newstest2017-ende.deu-eng: 0.583
+   - newstest2018-ende.deu-eng: 0.636
+   - newstest2019-deen.deu-eng: 0.604

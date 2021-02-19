@@ -1,22 +1,23 @@
-# opus-2021-02-11.zip
+# opus-2021-02-18.zip
 
 * dataset: opus
 * model: transformer
-* source language(s): chm est fin fkv hun izh kom krl liv mdf myv olo sma sme udm vep
-* target language(s): cmo kha khm mnw ngt vie
+* source language(s): fin hun
+* target language(s): khm vie
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-2021-02-11.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-11.zip)
-* test set translations: [opus-2021-02-11.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-11.test.txt)
-* test set scores: [opus-2021-02-11.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-11.eval.txt)
+* valid language labels: >>vie<< >>khm<< >>khm_Latn<<
+* download: [opus-2021-02-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.zip)
+* test set translations: [opus-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.test.txt)
+* test set scores: [opus-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.eval.txt)
 
 ## Benchmarks
 
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.fin-khm.fin.khm 	| 1.8 	| 0.098 |
-| Tatoeba-test.fin-vie.fin.vie 	| 31.6 	| 0.549 |
-| Tatoeba-test.hun-vie.hun.vie 	| 24.3 	| 0.390 |
-| Tatoeba-test.multi.multi 	| 24.2 	| 0.372 |
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.fin-khm 	| 1.8 	| 0.098 	| 5 	| 12 	| 1.000 |
+| Tatoeba-test.fin-vie 	| 31.6 	| 0.549 	| 3 	| 26 	| 0.834 |
+| Tatoeba-test.hun-vie 	| 24.3 	| 0.390 	| 29 	| 261 	| 0.957 |
+| Tatoeba-test.multi-multi 	| 24.2 	| 0.372 	| 37 	| 299 	| 1.000 |
 

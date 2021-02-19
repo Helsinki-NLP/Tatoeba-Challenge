@@ -12,7 +12,7 @@ subword-models:
 source-languages:
    - eng
 target-languages:
-   - akl_Latn
+   - akl
    - ceb
    - hil
    - ilo
@@ -27,21 +27,30 @@ use-target-labels:
    - >>pag<<
    - >>pmn<<
    - >>war<<
+test-data:
+   - Tatoeba-test.eng-akl: 27/69
+   - Tatoeba-test.eng-ceb: 378/1678
+   - Tatoeba-test.eng-hil: 22/104
+   - Tatoeba-test.eng-ilo: 1093/6040
+   - Tatoeba-test.eng-multi: 0/0
+   - Tatoeba-test.eng-pag: 49/268
+   - Tatoeba-test.eng-pmn: 1497/7499
+   - Tatoeba-test.eng-war: 1512/9364
 BLEU-scores:
-   - Tatoeba-test.eng-akl.eng.akl: 6.2
-   - Tatoeba-test.eng-ceb.eng.ceb: 10.6
-   - Tatoeba-test.eng-hil.eng.hil: 17.1
-   - Tatoeba-test.eng-ilo.eng.ilo: 33.9
-   - Tatoeba-test.eng.multi: 13.6
-   - Tatoeba-test.eng-pag.eng.pag: 16.8
-   - Tatoeba-test.eng-pmn.eng.pmn: 0.5
-   - Tatoeba-test.eng-war.eng.war: 12.8
+   - Tatoeba-test.eng-akl: 6.2
+   - Tatoeba-test.eng-ceb: 10.6
+   - Tatoeba-test.eng-hil: 17.1
+   - Tatoeba-test.eng-ilo: 33.9
+   - Tatoeba-test.eng-multi: 13.6
+   - Tatoeba-test.eng-pag: 16.8
+   - Tatoeba-test.eng-pmn: 0.5
+   - Tatoeba-test.eng-war: 12.8
 chr-F-scores:
-   - Tatoeba-test.eng-akl.eng.akl: 0.245
-   - Tatoeba-test.eng-ceb.eng.ceb: 0.436
-   - Tatoeba-test.eng-hil.eng.hil: 0.490
-   - Tatoeba-test.eng-ilo.eng.ilo: 0.587
-   - Tatoeba-test.eng.multi: 0.392
-   - Tatoeba-test.eng-pag.eng.pag: 0.484
-   - Tatoeba-test.eng-pmn.eng.pmn: 0.163
-   - Tatoeba-test.eng-war.eng.war: 0.437
+   - Tatoeba-test.eng-akl: 0.245
+   - Tatoeba-test.eng-ceb: 0.436
+   - Tatoeba-test.eng-hil: 0.490
+   - Tatoeba-test.eng-ilo: 0.587
+   - Tatoeba-test.eng-multi: 0.392
+   - Tatoeba-test.eng-pag: 0.484
+   - Tatoeba-test.eng-pmn: 0.163
+   - Tatoeba-test.eng-war: 0.437

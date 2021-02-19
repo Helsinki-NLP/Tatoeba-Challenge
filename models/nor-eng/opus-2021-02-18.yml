@@ -1,0 +1,30 @@
+release: nor-eng/opus-2021-02-18.zip
+release-date: 2021-02-18
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - nno
+   - nob
+target-languages:
+   - eng
+training-data:
+   - nno-eng: Tatoeba-train (1661769) 
+   - nob-eng: Tatoeba-train (11525999) 
+validation-data:
+   - eng-nno: Tatoeba-dev, 505
+   - eng-nob: Tatoeba-dev, 5189
+   - total size of shuffled dev data: 5686
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.nor-eng: 5000/40355
+BLEU-scores:
+   - Tatoeba-test.nor-eng: 57.2
+chr-F-scores:
+   - Tatoeba-test.nor-eng: 0.715

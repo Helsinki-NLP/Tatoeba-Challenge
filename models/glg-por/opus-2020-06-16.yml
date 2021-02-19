@@ -13,7 +13,9 @@ source-languages:
    - glg
 target-languages:
    - por
+test-data:
+   - Tatoeba-test.glg-por: 430/2588
 BLEU-scores:
-   - Tatoeba-test.glg.por: 57.9
+   - Tatoeba-test.glg-por: 57.9
 chr-F-scores:
-   - Tatoeba-test.glg.por: 0.758
+   - Tatoeba-test.glg-por: 0.758

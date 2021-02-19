@@ -1,4 +1,4 @@
-# opus-2021-01-03.zip
+# opus-2021-02-18.zip
 
 * dataset: opus
 * model: transformer
@@ -6,14 +6,13 @@
 * target language(s): fra
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* download: [opus-2021-01-03.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/dan-fra/opus-2021-01-03.zip)
-* test set translations: [opus-2021-01-03.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/dan-fra/opus-2021-01-03.test.txt)
-* test set scores: [opus-2021-01-03.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/dan-fra/opus-2021-01-03.eval.txt)
+* download: [opus-2021-02-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/dan-fra/opus-2021-02-18.zip)
+* test set translations: [opus-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/dan-fra/opus-2021-02-18.test.txt)
+* test set scores: [opus-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/dan-fra/opus-2021-02-18.eval.txt)
 
 ## Benchmarks
 
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.dan.fra 	| 63.0 	| 0.759 |
-| Tatoeba-test.dan-fra.dan.fra 	| 63.0 	| 0.759 |
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.dan-fra 	| 63.0 	| 0.759 	| 1742 	| 11929 	| 1.000 |
 

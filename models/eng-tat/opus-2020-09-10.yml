@@ -13,13 +13,13 @@ source-languages:
    - eng
 target-languages:
    - tat
-   - tat_Arab
-   - tat_Latn
 use-target-labels:
    - >>tat<<
    - >>tat_Arab<<
    - >>tat_Latn<<
+test-data:
+   - Tatoeba-test.eng-tat: 1451/6996
 BLEU-scores:
-   - Tatoeba-test.eng.tat: 2.0
+   - Tatoeba-test.eng-tat: 2.0
 chr-F-scores:
-   - Tatoeba-test.eng.tat: 0.170
+   - Tatoeba-test.eng-tat: 0.170

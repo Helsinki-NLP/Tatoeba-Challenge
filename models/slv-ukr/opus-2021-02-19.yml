@@ -1,0 +1,27 @@
+release: slv-ukr/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - slv
+target-languages:
+   - ukr
+training-data:
+   - slv-ukr: Tatoeba-train (1328656) 
+validation-data:
+   - slv-ukr: Tatoeba-dev, 999
+   - total size of shuffled dev data: 999
+   - devset = top 999  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.slv-ukr: 848/3906
+BLEU-scores:
+   - Tatoeba-test.slv-ukr: 10.6
+chr-F-scores:
+   - Tatoeba-test.slv-ukr: 0.236

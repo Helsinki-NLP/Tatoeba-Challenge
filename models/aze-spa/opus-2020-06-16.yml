@@ -10,10 +10,12 @@ subword-models:
    - source: source.spm
    - target: target.spm
 source-languages:
-   - aze_Latn
+   - aze
 target-languages:
    - spa
+test-data:
+   - Tatoeba-test.aze-spa: 210/923
 BLEU-scores:
-   - Tatoeba-test.aze.spa: 11.8
+   - Tatoeba-test.aze-spa: 11.8
 chr-F-scores:
-   - Tatoeba-test.aze.spa: 0.346
+   - Tatoeba-test.aze-spa: 0.346

@@ -13,7 +13,9 @@ source-languages:
    - fry
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.fry-eng: 205/1234
 BLEU-scores:
-   - Tatoeba-test.fry.eng: 4.9
+   - Tatoeba-test.fry-eng: 4.9
 chr-F-scores:
-   - Tatoeba-test.fry.eng: 0.226
+   - Tatoeba-test.fry-eng: 0.226

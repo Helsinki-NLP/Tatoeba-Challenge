@@ -10,14 +10,16 @@ subword-models:
    - source: source.spm
    - target: target.spm
 source-languages:
-   - lat_Latn
+   - lat
 target-languages:
    - nno
    - nob
 use-target-labels:
    - >>nno<<
    - >>nob<<
+test-data:
+   - Tatoeba-test.lat-nor: 332/1835
 BLEU-scores:
-   - Tatoeba-test.lat.nor: 0.3
+   - Tatoeba-test.lat-nor: 0.3
 chr-F-scores:
-   - Tatoeba-test.lat.nor: 0.049
+   - Tatoeba-test.lat-nor: 0.049

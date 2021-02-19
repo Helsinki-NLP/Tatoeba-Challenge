@@ -1,0 +1,27 @@
+release: afr-spa/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - afr
+target-languages:
+   - spa
+training-data:
+   - afr-spa: Tatoeba-train (1274543) 
+validation-data:
+   - afr-spa: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.afr-spa: 448/2783
+BLEU-scores:
+   - Tatoeba-test.afr-spa: 49.9
+chr-F-scores:
+   - Tatoeba-test.afr-spa: 0.680

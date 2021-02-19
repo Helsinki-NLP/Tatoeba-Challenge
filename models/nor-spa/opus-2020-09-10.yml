@@ -14,7 +14,9 @@ source-languages:
    - nob
 target-languages:
    - spa
+test-data:
+   - Tatoeba-test.nor-spa: 960/6228
 BLEU-scores:
-   - Tatoeba-test.nor.spa: 53.2
+   - Tatoeba-test.nor-spa: 53.2
 chr-F-scores:
-   - Tatoeba-test.nor.spa: 0.708
+   - Tatoeba-test.nor-spa: 0.708

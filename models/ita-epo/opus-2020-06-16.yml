@@ -13,7 +13,9 @@ source-languages:
    - ita
 target-languages:
    - epo
+test-data:
+   - Tatoeba-test.ita-epo: 10000/55570
 BLEU-scores:
-   - Tatoeba-test.ita.epo: 28.2
+   - Tatoeba-test.ita-epo: 28.2
 chr-F-scores:
-   - Tatoeba-test.ita.epo: 0.500
+   - Tatoeba-test.ita-epo: 0.500

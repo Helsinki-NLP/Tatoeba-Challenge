@@ -1,0 +1,66 @@
+release: deu-eng/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - deu
+target-languages:
+   - eng
+training-data:
+   - deu-eng: Tatoeba-train (86845165) 
+validation-data:
+   - deu-eng: Tatoeba-dev, 284809
+   - total size of shuffled dev data: 284809
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newssyscomb2009.deu-eng: 502/11821
+   - news-test2008.deu-eng: 2051/49380
+   - newstest2009.deu-eng: 2525/65402
+   - newstest2010.deu-eng: 2489/61724
+   - newstest2011.deu-eng: 3003/74681
+   - newstest2012.deu-eng: 3003/72812
+   - newstest2013.deu-eng: 3000/64505
+   - newstest2014-deen.deu-eng: 3003/67337
+   - newstest2015-ende.deu-eng: 2169/46443
+   - newstest2016-ende.deu-eng: 2999/64126
+   - newstest2017-ende.deu-eng: 3004/64399
+   - newstest2018-ende.deu-eng: 2998/67013
+   - newstest2019-deen.deu-eng: 2000/39282
+   - Tatoeba-test.deu-eng: 10000/81233
+BLEU-scores:
+   - newssyscomb2009.deu-eng: 28.9
+   - news-test2008.deu-eng: 27.8
+   - newstest2009.deu-eng: 27.1
+   - newstest2010.deu-eng: 30.6
+   - newstest2011.deu-eng: 27.7
+   - newstest2012.deu-eng: 29.3
+   - newstest2013.deu-eng: 32.4
+   - newstest2014-deen.deu-eng: 34.4
+   - newstest2015-ende.deu-eng: 34.3
+   - newstest2016-ende.deu-eng: 40.4
+   - newstest2017-ende.deu-eng: 36.1
+   - newstest2018-ende.deu-eng: 44.4
+   - newstest2019-deen.deu-eng: 40.3
+   - Tatoeba-test.deu-eng: 53.3
+chr-F-scores:
+   - newssyscomb2009.deu-eng: 0.554
+   - news-test2008.deu-eng: 0.550
+   - newstest2009.deu-eng: 0.545
+   - newstest2010.deu-eng: 0.587
+   - newstest2011.deu-eng: 0.557
+   - newstest2012.deu-eng: 0.570
+   - newstest2013.deu-eng: 0.584
+   - newstest2014-deen.deu-eng: 0.602
+   - newstest2015-ende.deu-eng: 0.601
+   - newstest2016-ende.deu-eng: 0.651
+   - newstest2017-ende.deu-eng: 0.613
+   - newstest2018-ende.deu-eng: 0.671
+   - newstest2019-deen.deu-eng: 0.645
+   - Tatoeba-test.deu-eng: 0.696

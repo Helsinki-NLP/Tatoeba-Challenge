@@ -13,13 +13,14 @@ source-languages:
    - ukr
 target-languages:
    - hrv
-   - srp_Cyrl
-   - srp_Latn
+   - srp
 use-target-labels:
    - >>hrv<<
    - >>srp_Cyrl<<
    - >>srp_Latn<<
+test-data:
+   - Tatoeba-test.ukr-hbs: 941/4006
 BLEU-scores:
-   - Tatoeba-test.ukr.hbs: 42.8
+   - Tatoeba-test.ukr-hbs: 42.8
 chr-F-scores:
-   - Tatoeba-test.ukr.hbs: 0.631
+   - Tatoeba-test.ukr-hbs: 0.631

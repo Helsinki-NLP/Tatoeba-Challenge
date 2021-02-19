@@ -13,7 +13,9 @@ source-languages:
    - nld
 target-languages:
    - afr
+test-data:
+   - Tatoeba-test.nld-afr: 1056/5695
 BLEU-scores:
-   - Tatoeba-test.nld.afr: 57.8
+   - Tatoeba-test.nld-afr: 57.8
 chr-F-scores:
-   - Tatoeba-test.nld.afr: 0.749
+   - Tatoeba-test.nld-afr: 0.749

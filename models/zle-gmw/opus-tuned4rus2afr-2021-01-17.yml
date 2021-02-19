@@ -65,9 +65,12 @@ use-target-labels:
    - >>wae<<
    - >>yid<<
    - >>zea<<
+test-data:
+   - Tatoeba-test.multi-multi: 0/0
+   - Tatoeba-test.rus-afr: 228/1134
 BLEU-scores:
-   - Tatoeba-test.multi.multi: 1.2
-   - Tatoeba-test.rus-afr.rus.afr: 51.7
+   - Tatoeba-test.multi-multi: 1.2
+   - Tatoeba-test.rus-afr: 51.7
 chr-F-scores:
-   - Tatoeba-test.multi.multi: 0.166
-   - Tatoeba-test.rus-afr.rus.afr: 0.693
+   - Tatoeba-test.multi-multi: 0.166
+   - Tatoeba-test.rus-afr: 0.693

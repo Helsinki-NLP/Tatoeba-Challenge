@@ -16,15 +16,21 @@ source-languages:
    - kat
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.abk-eng: 27/105
+   - Tatoeba-test.ady-eng: 12/35
+   - Tatoeba-test.che-eng: 16/78
+   - Tatoeba-test.kat-eng: 983/4898
+   - Tatoeba-test.multi-eng: 1038/5116
 BLEU-scores:
-   - Tatoeba-test.abk-eng.abk.eng: 0.4
-   - Tatoeba-test.ady-eng.ady.eng: 0.7
-   - Tatoeba-test.che-eng.che.eng: 0.5
-   - Tatoeba-test.kat-eng.kat.eng: 16.7
-   - Tatoeba-test.multi.eng: 15.0
+   - Tatoeba-test.abk-eng: 0.4
+   - Tatoeba-test.ady-eng: 0.7
+   - Tatoeba-test.che-eng: 0.5
+   - Tatoeba-test.kat-eng: 16.7
+   - Tatoeba-test.multi-eng: 15.0
 chr-F-scores:
-   - Tatoeba-test.abk-eng.abk.eng: 0.130
-   - Tatoeba-test.ady-eng.ady.eng: 0.114
-   - Tatoeba-test.che-eng.che.eng: 0.125
-   - Tatoeba-test.kat-eng.kat.eng: 0.353
-   - Tatoeba-test.multi.eng: 0.340
+   - Tatoeba-test.abk-eng: 0.130
+   - Tatoeba-test.ady-eng: 0.114
+   - Tatoeba-test.che-eng: 0.125
+   - Tatoeba-test.kat-eng: 0.353
+   - Tatoeba-test.multi-eng: 0.340

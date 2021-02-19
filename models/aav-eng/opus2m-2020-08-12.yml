@@ -11,26 +11,30 @@ subword-models:
    - target: target.spm
 source-languages:
    - hoc
-   - hoc_Latn
    - kha
    - khm
-   - khm_Latn
    - mnw
    - vie
-   - vie_Hani
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.hoc-eng: 660/2827
+   - Tatoeba-test.kha-eng: 1314/6985
+   - Tatoeba-test.khm-eng: 752/3505
+   - Tatoeba-test.mnw-eng: 9/67
+   - Tatoeba-test.multi-eng: 5235/30697
+   - Tatoeba-test.vie-eng: 2500/17313
 BLEU-scores:
-   - Tatoeba-test.hoc-eng.hoc.eng: 0.3
-   - Tatoeba-test.kha-eng.kha.eng: 1.0
-   - Tatoeba-test.khm-eng.khm.eng: 8.9
-   - Tatoeba-test.mnw-eng.mnw.eng: 0.8
-   - Tatoeba-test.multi.eng: 24.8
-   - Tatoeba-test.vie-eng.vie.eng: 38.7
+   - Tatoeba-test.hoc-eng: 0.3
+   - Tatoeba-test.kha-eng: 1.0
+   - Tatoeba-test.khm-eng: 8.9
+   - Tatoeba-test.mnw-eng: 0.8
+   - Tatoeba-test.multi-eng: 24.8
+   - Tatoeba-test.vie-eng: 38.7
 chr-F-scores:
-   - Tatoeba-test.hoc-eng.hoc.eng: 0.095
-   - Tatoeba-test.kha-eng.kha.eng: 0.115
-   - Tatoeba-test.khm-eng.khm.eng: 0.271
-   - Tatoeba-test.mnw-eng.mnw.eng: 0.118
-   - Tatoeba-test.multi.eng: 0.391
-   - Tatoeba-test.vie-eng.vie.eng: 0.567
+   - Tatoeba-test.hoc-eng: 0.095
+   - Tatoeba-test.kha-eng: 0.115
+   - Tatoeba-test.khm-eng: 0.271
+   - Tatoeba-test.mnw-eng: 0.118
+   - Tatoeba-test.multi-eng: 0.391
+   - Tatoeba-test.vie-eng: 0.567

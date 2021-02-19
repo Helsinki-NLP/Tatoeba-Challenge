@@ -18,11 +18,15 @@ target-languages:
 use-target-labels:
    - >>eng<<
    - >>eus<<
+test-data:
+   - Tatoeba-test.eng-eus: 1060/5823
+   - Tatoeba-test.eus-eng: 1060/6861
+   - Tatoeba-test.multi-multi: 2120/12684
 BLEU-scores:
-   - Tatoeba-test.eng-eus.eng.eus: 28.1
-   - Tatoeba-test.eus-eng.eus.eng: 42.6
-   - Tatoeba-test.multi.multi: 36.3
+   - Tatoeba-test.eng-eus: 28.1
+   - Tatoeba-test.eus-eng: 42.6
+   - Tatoeba-test.multi-multi: 36.3
 chr-F-scores:
-   - Tatoeba-test.eng-eus.eng.eus: 0.563
-   - Tatoeba-test.eus-eng.eus.eng: 0.606
-   - Tatoeba-test.multi.multi: 0.583
+   - Tatoeba-test.eng-eus: 0.563
+   - Tatoeba-test.eus-eng: 0.606
+   - Tatoeba-test.multi-multi: 0.583

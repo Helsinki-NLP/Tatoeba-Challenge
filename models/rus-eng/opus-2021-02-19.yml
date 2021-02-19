@@ -1,0 +1,51 @@
+release: rus-eng/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - rus
+target-languages:
+   - eng
+training-data:
+   - rus-eng: Tatoeba-train (60191751) 
+validation-data:
+   - eng-rus: Tatoeba-dev, 491482
+   - total size of shuffled dev data: 491470
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newstest2012.rus-eng: 3003/72812
+   - newstest2013.rus-eng: 3000/64505
+   - newstest2014-ruen.rus-eng: 3003/69190
+   - newstest2015-enru.rus-eng: 2818/64744
+   - newstest2016-enru.rus-eng: 2998/69278
+   - newstest2017-enru.rus-eng: 3001/69033
+   - newstest2018-enru.rus-eng: 3000/71723
+   - newstest2019-ruen.rus-eng: 2000/42875
+   - Tatoeba-test.rus-eng: 10000/72902
+BLEU-scores:
+   - newstest2012.rus-eng: 35.1
+   - newstest2013.rus-eng: 27.9
+   - newstest2014-ruen.rus-eng: 31.9
+   - newstest2015-enru.rus-eng: 30.9
+   - newstest2016-enru.rus-eng: 30.3
+   - newstest2017-enru.rus-eng: 33.9
+   - newstest2018-enru.rus-eng: 29.4
+   - newstest2019-ruen.rus-eng: 31.6
+   - Tatoeba-test.rus-eng: 57.8
+chr-F-scores:
+   - newstest2012.rus-eng: 0.609
+   - newstest2013.rus-eng: 0.547
+   - newstest2014-ruen.rus-eng: 0.596
+   - newstest2015-enru.rus-eng: 0.572
+   - newstest2016-enru.rus-eng: 0.571
+   - newstest2017-enru.rus-eng: 0.599
+   - newstest2018-enru.rus-eng: 0.569
+   - newstest2019-ruen.rus-eng: 0.582
+   - Tatoeba-test.rus-eng: 0.716

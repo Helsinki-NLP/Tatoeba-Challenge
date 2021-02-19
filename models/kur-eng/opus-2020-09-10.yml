@@ -11,12 +11,12 @@ subword-models:
    - target: target.spm
 source-languages:
    - kmr
-   - kmr_Latn
-   - kur_Arab
-   - kur_Latn
+   - kur
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.kur-eng: 296/1404
 BLEU-scores:
-   - Tatoeba-test.kur.eng: 0.2
+   - Tatoeba-test.kur-eng: 0.2
 chr-F-scores:
-   - Tatoeba-test.kur.eng: 0.099
+   - Tatoeba-test.kur-eng: 0.099

@@ -13,7 +13,9 @@ source-languages:
    - slv
 target-languages:
    - epo
+test-data:
+   - Tatoeba-test.slv-epo: 271/1602
 BLEU-scores:
-   - Tatoeba-test.slv.epo: 6.4
+   - Tatoeba-test.slv-epo: 6.4
 chr-F-scores:
-   - Tatoeba-test.slv.epo: 0.212
+   - Tatoeba-test.slv-epo: 0.212

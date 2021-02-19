@@ -1,0 +1,39 @@
+release: fin-swe/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - swe
+training-data:
+   - fin-swe: Tatoeba-train (29433151) 
+validation-data:
+   - fin-swe: Tatoeba-dev, 7278
+   - total size of shuffled dev data: 7278
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - fiskmo_testset.fin-swe: 523/9479
+   - MeMAD-YLE-test.FIH-SWE.fin-swe: 625/6825
+   - MeMAD-YLE-test.FIN-SWE.fin-swe: 1253/13359
+   - MeMAD-YLE-test.FIN-SWH.fin-swe: 2837/28454
+   - Tatoeba-test.fin-swe: 2500/16762
+BLEU-scores:
+   - fiskmo_testset.fin-swe: 28.2
+   - MeMAD-YLE-test.FIH-SWE.fin-swe: 17.0
+   - MeMAD-YLE-test.FIN-SWE.fin-swe: 22.3
+   - MeMAD-YLE-test.FIN-SWH.fin-swe: 18.2
+   - Tatoeba-test.fin-swe: 54.5
+chr-F-scores:
+   - fiskmo_testset.fin-swe: 0.604
+   - MeMAD-YLE-test.FIH-SWE.fin-swe: 0.435
+   - MeMAD-YLE-test.FIN-SWE.fin-swe: 0.468
+   - MeMAD-YLE-test.FIN-SWH.fin-swe: 0.433
+   - Tatoeba-test.fin-swe: 0.701

@@ -1,0 +1,27 @@
+release: epo-nld/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - epo
+target-languages:
+   - nld
+training-data:
+   - epo-nld: Tatoeba-train (158560) 
+validation-data:
+   - epo-nld: Tatoeba-dev, 80071
+   - total size of shuffled dev data: 80071
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.epo-nld: 10000/78770
+BLEU-scores:
+   - Tatoeba-test.epo-nld: 15.3
+chr-F-scores:
+   - Tatoeba-test.epo-nld: 0.337

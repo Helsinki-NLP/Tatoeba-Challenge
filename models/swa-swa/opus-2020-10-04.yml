@@ -24,11 +24,15 @@ use-target-labels:
    - >>swa<<
    - >>swc<<
    - >>swh<<
+test-data:
+   - Tatoeba-test.eng-swa: 386/1357
+   - Tatoeba-test.multi-multi: 1544/6700
+   - Tatoeba-test.swa-eng: 386/1993
 BLEU-scores:
-   - Tatoeba-test.eng-swa.eng.swa: 14.3
-   - Tatoeba-test.multi.multi: 35.9
-   - Tatoeba-test.swa-eng.swa.eng: 45.1
+   - Tatoeba-test.eng-swa: 14.3
+   - Tatoeba-test.multi-multi: 35.9
+   - Tatoeba-test.swa-eng: 45.1
 chr-F-scores:
-   - Tatoeba-test.eng-swa.eng.swa: 0.433
-   - Tatoeba-test.multi.multi: 0.571
-   - Tatoeba-test.swa-eng.swa.eng: 0.603
+   - Tatoeba-test.eng-swa: 0.433
+   - Tatoeba-test.multi-multi: 0.571
+   - Tatoeba-test.swa-eng: 0.603

@@ -1,0 +1,63 @@
+release: eng-deu/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - deu
+training-data:
+   - deu-eng: Tatoeba-train (86845165) 
+validation-data:
+   - deu-eng: Tatoeba-dev, 284809
+   - total size of shuffled dev data: 284809
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newssyscomb2009.eng-deu: 502/11271
+   - news-test2008.eng-deu: 2051/47427
+   - newstest2009.eng-deu: 2525/62816
+   - newstest2010.eng-deu: 2489/61511
+   - newstest2011.eng-deu: 3003/72981
+   - newstest2012.eng-deu: 3003/72886
+   - newstest2013.eng-deu: 3000/63737
+   - newstest2015-ende.eng-deu: 2169/44260
+   - newstest2016-ende.eng-deu: 2999/62670
+   - newstest2017-ende.eng-deu: 3004/61291
+   - newstest2018-ende.eng-deu: 2998/64276
+   - newstest2019-ende.eng-deu: 1997/48969
+   - Tatoeba-test.eng-deu: 10000/83347
+BLEU-scores:
+   - newssyscomb2009.eng-deu: 23.3
+   - news-test2008.eng-deu: 23.4
+   - newstest2009.eng-deu: 22.6
+   - newstest2010.eng-deu: 25.5
+   - newstest2011.eng-deu: 22.8
+   - newstest2012.eng-deu: 23.4
+   - newstest2013.eng-deu: 27.3
+   - newstest2015-ende.eng-deu: 31.4
+   - newstest2016-ende.eng-deu: 37.5
+   - newstest2017-ende.eng-deu: 30.1
+   - newstest2018-ende.eng-deu: 45.4
+   - newstest2019-ende.eng-deu: 41.7
+   - Tatoeba-test.eng-deu: 45.3
+chr-F-scores:
+   - newssyscomb2009.eng-deu: 0.538
+   - news-test2008.eng-deu: 0.530
+   - newstest2009.eng-deu: 0.532
+   - newstest2010.eng-deu: 0.548
+   - newstest2011.eng-deu: 0.526
+   - newstest2012.eng-deu: 0.527
+   - newstest2013.eng-deu: 0.555
+   - newstest2015-ende.eng-deu: 0.595
+   - newstest2016-ende.eng-deu: 0.640
+   - newstest2017-ende.eng-deu: 0.589
+   - newstest2018-ende.eng-deu: 0.690
+   - newstest2019-ende.eng-deu: 0.659
+   - Tatoeba-test.eng-deu: 0.651

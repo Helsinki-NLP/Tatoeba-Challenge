@@ -11,23 +11,12 @@ subword-models:
    - target: target.spm
 source-languages:
    - cmn
-   - cmn_Bopo
-   - cmn_Hang
-   - cmn_Hani
-   - cmn_Hira
-   - cmn_Kana
-   - cmn_Latn
-   - cmn_Yiii
    - lzh
-   - lzh_Bopo
-   - lzh_Hang
-   - lzh_Hani
-   - lzh_Hira
-   - lzh_Kana
-   - lzh_Yiii
 target-languages:
    - heb
+test-data:
+   - Tatoeba-test.zho-heb: 708/2838
 BLEU-scores:
-   - Tatoeba-test.zho.heb: 28.5
+   - Tatoeba-test.zho-heb: 28.5
 chr-F-scores:
-   - Tatoeba-test.zho.heb: 0.469
+   - Tatoeba-test.zho-heb: 0.469

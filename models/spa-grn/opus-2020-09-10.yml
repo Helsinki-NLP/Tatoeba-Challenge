@@ -17,7 +17,9 @@ target-languages:
 use-target-labels:
    - >>grn<<
    - >>gug<<
+test-data:
+   - Tatoeba-test.spa-grn: 609/2359
 BLEU-scores:
-   - Tatoeba-test.spa.grn: 0.4
+   - Tatoeba-test.spa-grn: 0.4
 chr-F-scores:
-   - Tatoeba-test.spa.grn: 0.122
+   - Tatoeba-test.spa-grn: 0.122

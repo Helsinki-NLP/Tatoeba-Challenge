@@ -1,0 +1,27 @@
+release: vie-deu/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - vie
+target-languages:
+   - deu
+training-data:
+   - deu-vie: Tatoeba-train (3113765) 
+validation-data:
+   - deu-vie: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.vie-deu: 400/3365
+BLEU-scores:
+   - Tatoeba-test.vie-deu: 27.6
+chr-F-scores:
+   - Tatoeba-test.vie-deu: 0.484

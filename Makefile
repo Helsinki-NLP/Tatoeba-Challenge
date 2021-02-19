@@ -840,7 +840,7 @@ models/released-models.txt: ${TATOEBA_YAML}
 
 models/released-model-results.txt: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
-	xargs scripts/get-model-scores.pl |\
+	xargs scripts/get-model-scores.pl -s 200 |\
 	grep 'Tatoeba-test' | grep -v 'multi'          > $@.1 
 	cut -f2 $@.1                                   > $@.langs
 	cut -f1 $@.1 | sed 's#^#${TATOEBA_MODELURL}/#' > $@.url
@@ -945,8 +945,8 @@ results/tatoeba-models-all.md: tatoeba-models-all
 	echo "The scores refer to results on Tatoeba-test data"                            >> $@
 	echo "For multilingual models, it is a mix of all language pairs"                  >> $@
 	echo ""                                                                            >> $@
-	echo '| Model | chrF2 | BLEU | BP | Reference Length |'                            >> $@
-	echo '|:--|--:|--:|--:|--:|'                                                       >> $@
+	echo '| Model | chrF2 | BLEU |'                                                    >> $@
+	echo '|:--|--:|--:|'                                                               >> $@
 	cut -f1,4- $< | \
 	perl -pe '/^(\S*)\/(\S*)\t/;if (-d "models/$$1"){s/^(\S*)\/(\S*)\t/[$$1\/$$2](..\/models\/$$1)\t/;}' |\
 	sed 's/	/ | /g;s/^/| /;s/$$/ |/'                                                   >> $@
@@ -973,7 +973,7 @@ OPUS_MT_RAW = https://raw.githubusercontent.com/Helsinki-NLP/OPUS-MT-train/maste
 
 tatoeba-results-all: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
-	xargs scripts/get-model-scores.pl |\
+	xargs scripts/get-model-scores.pl -s 200 |\
 	sed 's/-....-..-..\.zip//' |\
 	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
 

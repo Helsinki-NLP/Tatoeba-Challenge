@@ -11,15 +11,14 @@ subword-models:
    - target: target.spm
 source-languages:
    - cmn
-   - cmn_Hans
-   - cmn_Hant
    - nan
    - wuu
-   - yue_Hans
-   - yue_Hant
+   - yue
 target-languages:
    - hin
+test-data:
+   - Tatoeba-test.zho-hin: 324/2460
 BLEU-scores:
-   - Tatoeba-test.zho.hin: 2.0
+   - Tatoeba-test.zho-hin: 2.0
 chr-F-scores:
-   - Tatoeba-test.zho.hin: 0.141
+   - Tatoeba-test.zho-hin: 0.141

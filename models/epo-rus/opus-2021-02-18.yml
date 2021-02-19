@@ -1,0 +1,27 @@
+release: epo-rus/opus-2021-02-18.zip
+release-date: 2021-02-18
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - epo
+target-languages:
+   - rus
+training-data:
+   - epo-rus: Tatoeba-train (125959) 
+validation-data:
+   - epo-rus: Tatoeba-dev, 44127
+   - total size of shuffled dev data: 44127
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.epo-rus: 10000/71288
+BLEU-scores:
+   - Tatoeba-test.epo-rus: 17.7
+chr-F-scores:
+   - Tatoeba-test.epo-rus: 0.380

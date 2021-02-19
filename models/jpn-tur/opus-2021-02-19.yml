@@ -1,0 +1,33 @@
+release: jpn-tur/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - jpn
+target-languages:
+   - tur
+training-data:
+   - jpn-tur: Tatoeba-train (515196) 
+   - jpn_Bopo-tur: Tatoeba-train (488) 
+   - jpn_Hang-tur: Tatoeba-train (619) 
+   - jpn_Hani-tur: Tatoeba-train (253166) 
+   - jpn_Hira-tur: Tatoeba-train (1698396) 
+   - jpn_Kana-tur: Tatoeba-train (221386) 
+   - jpn_Yiii-tur: Tatoeba-train (36) 
+validation-data:
+   - jpn-tur: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.jpn-tur: 806/4755
+BLEU-scores:
+   - Tatoeba-test.jpn-tur: 16.7
+chr-F-scores:
+   - Tatoeba-test.jpn-tur: 0.434

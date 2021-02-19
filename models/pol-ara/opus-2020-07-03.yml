@@ -17,7 +17,9 @@ target-languages:
 use-target-labels:
    - >>ara<<
    - >>arz<<
+test-data:
+   - Tatoeba-test.pol-ara: 207/848
 BLEU-scores:
-   - Tatoeba-test.pol.ara: 20.4
+   - Tatoeba-test.pol-ara: 20.4
 chr-F-scores:
-   - Tatoeba-test.pol.ara: 0.491
+   - Tatoeba-test.pol-ara: 0.491

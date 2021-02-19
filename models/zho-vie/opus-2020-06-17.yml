@@ -10,11 +10,12 @@ subword-models:
    - source: source.spm
    - target: target.spm
 source-languages:
-   - cmn_Hani
-   - cmn_Latn
+   - cmn
 target-languages:
    - vie
+test-data:
+   - Tatoeba-test.zho-vie: 438/4093
 BLEU-scores:
-   - Tatoeba-test.zho.vie: 20.0
+   - Tatoeba-test.zho-vie: 20.0
 chr-F-scores:
-   - Tatoeba-test.zho.vie: 0.385
+   - Tatoeba-test.zho-vie: 0.385

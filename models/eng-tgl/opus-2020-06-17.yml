@@ -12,8 +12,10 @@ subword-models:
 source-languages:
    - eng
 target-languages:
-   - tgl_Latn
+   - tgl
+test-data:
+   - Tatoeba-test.eng-tgl: 2500/14955
 BLEU-scores:
-   - Tatoeba-test.eng.tgl: 26.5
+   - Tatoeba-test.eng-tgl: 26.5
 chr-F-scores:
-   - Tatoeba-test.eng.tgl: 0.571
+   - Tatoeba-test.eng-tgl: 0.571

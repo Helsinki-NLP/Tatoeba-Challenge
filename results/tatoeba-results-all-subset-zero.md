@@ -40,11 +40,9 @@ to be useful for anything.
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.153 | 1.1 |
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.149 | 1.0 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.136 | 0.7 |
-| [pqw-pqw/opus](../models/pqw-pqw) | tatoeba | 0.135 | 0.9 |
 | | lang = dtp-jpn | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.029 | 0.2 |
 | | lang = dtp-msa | | | | |
-| [pqw-pqw/opus](../models/pqw-pqw) | tatoeba | 0.125 | 0.4 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.099 | 0.2 |
 | | lang = egl-ita | | | | |
 | [itc-itc/opus](../models/itc-itc) | tatoeba | 0.206 | 3.0 |
@@ -67,7 +65,6 @@ to be useful for anything.
 | [eng-pqw/opus](../models/eng-pqw) | tatoeba | 0.131 | 0.5 |
 | [eng-map/opus](../models/eng-map) | tatoeba | 0.121 | 0.5 |
 | [eng-poz/opus](../models/eng-poz) | tatoeba | 0.121 | 0.4 |
-| [pqw-pqw/opus](../models/pqw-pqw) | tatoeba | 0.091 | 0.4 |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.086 | 0.3 |
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.084 | 0.3 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.082 | 0.4 |
@@ -96,7 +93,6 @@ to be useful for anything.
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.134 | 2.3 |
 | | lang = eng-kha | | | | |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.097 | 0.4 |
-| [mkh-mkh/opus](../models/mkh-mkh) | tatoeba | 0.095 | 0.7 |
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.094 | 0.5 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.092 | 0.5 |
 | [eng-mkh/opus](../models/eng-mkh) | tatoeba | 0.054 | 0.4 |
@@ -132,7 +128,6 @@ to be useful for anything.
 | [eng-bat/opus2m](../models/eng-bat) | tatoeba | 0.130 | 0.5 |
 | [eng-bat/opus](../models/eng-bat) | tatoeba | 0.130 | 0.5 |
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.118 | 0.3 |
-| [bat-bat/opus](../models/bat-bat) | tatoeba | 0.107 | 0.3 |
 | [eng-ine/opus](../models/eng-ine) | tatoeba | 0.107 | 0.2 |
 | [eng-ine/opus2m](../models/eng-ine) | tatoeba | 0.100 | 0.2 |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.090 | 0.3 |
@@ -157,8 +152,8 @@ to be useful for anything.
 | | lang = fin-fkv | | | | |
 | [urj-urj/opus](../models/urj-urj) | tatoeba | 0.254 | 1.8 |
 | [fiu-fiu/opus](../models/fiu-fiu) | tatoeba | 0.207 | 1.6 |
-| [fiu-urj/opus](../models/fiu-urj) | tatoeba | 0.140 | 0.7 |
-| [urj-fiu/opus](../models/urj-fiu) | tatoeba | 0.127 | 0.8 |
+| [fiu-urj/opus](../models/fiu-urj) | tatoeba | 0.141 | 0.7 |
+| [urj-fiu/opus](../models/urj-fiu) | tatoeba | 0.129 | 0.9 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.068 | 0.2 |
 | | lang = fkv-fin | | | | |
 | [fiu-fiu/opus](../models/fiu-fiu) | tatoeba | 0.495 | 22.8 |
@@ -238,7 +233,6 @@ to be useful for anything.
 | [aav-eng/opus](../models/aav-eng) | tatoeba | 0.117 | 0.8 |
 | [aav-eng/opus2m](../models/aav-eng) | tatoeba | 0.115 | 1.0 |
 | [mkh-eng/opus](../models/mkh-eng) | tatoeba | 0.114 | 0.8 |
-| [mkh-mkh/opus](../models/mkh-mkh) | tatoeba | 0.114 | 0.8 |
 | | lang = lad-epo | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.397 | 17.9 |
 | | lang = lad-ina | | | | |
@@ -259,7 +253,6 @@ to be useful for anything.
 | | lang = lfn-yid | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.135 | 0.1 |
 | | lang = msa-dtp | | | | |
-| [pqw-pqw/opus](../models/pqw-pqw) | tatoeba | 0.108 | 0.4 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.071 | 0.3 |
 | | lang = nld-gos | | | | |
 | [gmw-gmw/opus](../models/gmw-gmw) | tatoeba | 0.284 | 2.1 |
@@ -316,7 +309,6 @@ to be useful for anything.
 | [ine-eng/opus2m](../models/ine-eng) | tatoeba | 0.193 | 2.3 |
 | [ine-eng/opus4m](../models/ine-eng) | tatoeba | 0.182 | 2.5 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.179 | 1.3 |
-| [bat-bat/opus](../models/bat-bat) | tatoeba | 0.160 | 0.8 |
 | [bat-eng/opus](../models/bat-eng) | tatoeba | 0.160 | 1.4 |
 | [bat-eng/opus2m](../models/bat-eng) | tatoeba | 0.159 | 1.0 |
 | [bat-eng/opus4m](../models/bat-eng) | tatoeba | 0.153 | 0.8 |

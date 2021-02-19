@@ -1,0 +1,27 @@
+release: eus-rus/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eus
+target-languages:
+   - rus
+training-data:
+   - eus-rus: Tatoeba-train (497656) 
+validation-data:
+   - eus-rus: Tatoeba-dev, 998
+   - total size of shuffled dev data: 998
+   - devset = top 998  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.eus-rus: 485/2428
+BLEU-scores:
+   - Tatoeba-test.eus-rus: 31.3
+chr-F-scores:
+   - Tatoeba-test.eus-rus: 0.502

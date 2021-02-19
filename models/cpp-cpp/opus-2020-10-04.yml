@@ -12,27 +12,25 @@ subword-models:
 source-languages:
    - eng
    - ind
-   - jak_Latn
-   - max_Latn
+   - jak
+   - max
    - min
-   - msa_Latn
+   - msa
    - pap
-   - tmw_Latn
+   - tmw
    - zlm
-   - zlm_Latn
-   - zsm_Latn
+   - zsm
 target-languages:
    - eng
    - ind
-   - jak_Latn
-   - max_Latn
+   - jak
+   - max
    - min
-   - msa_Latn
+   - msa
    - pap
-   - tmw_Latn
+   - tmw
    - zlm
-   - zlm_Latn
-   - zsm_Latn
+   - zsm
 use-target-labels:
    - >>eng<<
    - >>ind<<
@@ -45,21 +43,30 @@ use-target-labels:
    - >>zlm<<
    - >>zlm_Latn<<
    - >>zsm_Latn<<
+test-data:
+   - Tatoeba-test.eng-msa: 5000/27896
+   - Tatoeba-test.eng-pap: 70/287
+   - Tatoeba-test.msa-eng: 5000/31183
+   - Tatoeba-test.msa-msa: 870/4915
+   - Tatoeba-test.msa-pap: 2/8
+   - Tatoeba-test.multi-multi: 10000/58802
+   - Tatoeba-test.pap-eng: 70/275
+   - Tatoeba-test.pap-msa: 2/6
 BLEU-scores:
-   - Tatoeba-test.eng-msa.eng.msa: 33.2
-   - Tatoeba-test.eng-pap.eng.pap: 45.1
-   - Tatoeba-test.msa-eng.msa.eng: 39.8
-   - Tatoeba-test.msa-msa.msa.msa: 14.8
-   - Tatoeba-test.msa-pap.msa.pap: 31.7
-   - Tatoeba-test.multi.multi: 37.0
-   - Tatoeba-test.pap-eng.pap.eng: 48.9
-   - Tatoeba-test.pap-msa.pap.msa: 17.7
+   - Tatoeba-test.eng-msa: 33.2
+   - Tatoeba-test.eng-pap: 45.1
+   - Tatoeba-test.msa-eng: 39.8
+   - Tatoeba-test.msa-msa: 14.8
+   - Tatoeba-test.msa-pap: 31.7
+   - Tatoeba-test.multi-multi: 37.0
+   - Tatoeba-test.pap-eng: 48.9
+   - Tatoeba-test.pap-msa: 17.7
 chr-F-scores:
-   - Tatoeba-test.eng-msa.eng.msa: 0.587
-   - Tatoeba-test.eng-pap.eng.pap: 0.638
-   - Tatoeba-test.msa-eng.msa.eng: 0.585
-   - Tatoeba-test.msa-msa.msa.msa: 0.353
-   - Tatoeba-test.msa-pap.msa.pap: 0.577
-   - Tatoeba-test.multi.multi: 0.586
-   - Tatoeba-test.pap-eng.pap.eng: 0.603
-   - Tatoeba-test.pap-msa.pap.msa: 0.197
+   - Tatoeba-test.eng-msa: 0.587
+   - Tatoeba-test.eng-pap: 0.638
+   - Tatoeba-test.msa-eng: 0.585
+   - Tatoeba-test.msa-msa: 0.353
+   - Tatoeba-test.msa-pap: 0.577
+   - Tatoeba-test.multi-multi: 0.586
+   - Tatoeba-test.pap-eng: 0.603
+   - Tatoeba-test.pap-msa: 0.197

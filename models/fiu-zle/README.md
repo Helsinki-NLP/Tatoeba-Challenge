@@ -28,3 +28,54 @@
 | Tatoeba-test.multi.multi 	| 28.7 	| 0.456 |
 | Tatoeba-test.udm-rus.udm.rus 	| 1.2 	| 0.182 |
 
+# opus-2021-02-17.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): est fin hun izh mhr udm
+* target language(s): bel rus ukr
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>rus<< >>ukr<< >>bel<< >>bel_Latn<<
+* download: [opus-2021-02-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zle/opus-2021-02-17.zip)
+* test set translations: [opus-2021-02-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zle/opus-2021-02-17.test.txt)
+* test set scores: [opus-2021-02-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zle/opus-2021-02-17.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.multi-multi 	| 28.7 	| 0.456 	| 10000 	| 64321 	| 0.979 |
+
+# opus-2021-02-18.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): est fin hun izh mhr udm
+* target language(s): bel rus ukr
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>rus<< >>ukr<< >>bel<< >>bel_Latn<<
+* download: [opus-2021-02-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zle/opus-2021-02-18.zip)
+* test set translations: [opus-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zle/opus-2021-02-18.test.txt)
+* test set scores: [opus-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zle/opus-2021-02-18.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.chm-rus 	| 1.6 	| 0.148 	| 2750 	| 20288 	| 0.955 |
+| Tatoeba-test.est-bel 	| 3.2 	| 0.437 	| 2 	| 32 	| 0.867 |
+| Tatoeba-test.est-rus 	| 49.5 	| 0.687 	| 598 	| 3569 	| 0.983 |
+| Tatoeba-test.est-ukr 	| 34.5 	| 0.503 	| 16 	| 88 	| 0.759 |
+| Tatoeba-test.fin-rus 	| 42.0 	| 0.630 	| 3643 	| 21497 	| 1.000 |
+| Tatoeba-test.fin-ukr 	| 37.4 	| 0.572 	| 32 	| 212 	| 0.947 |
+| Tatoeba-test.hun-bel 	| 21.6 	| 0.433 	| 3 	| 15 	| 1.000 |
+| Tatoeba-test.hun-rus 	| 38.4 	| 0.592 	| 2500 	| 16155 	| 0.973 |
+| Tatoeba-test.hun-ukr 	| 37.5 	| 0.588 	| 464 	| 2568 	| 0.959 |
+| Tatoeba-test.izh-rus 	| 23.0 	| 0.568 	| 8 	| 32 	| 1.000 |
+| Tatoeba-test.multi-multi 	| 28.7 	| 0.456 	| 10000 	| 64321 	| 0.979 |
+| Tatoeba-test.udm-rus 	| 1.2 	| 0.182 	| 54 	| 317 	| 1.000 |
+

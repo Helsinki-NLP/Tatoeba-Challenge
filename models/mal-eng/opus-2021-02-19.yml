@@ -1,0 +1,27 @@
+release: mal-eng/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - mal
+target-languages:
+   - eng
+training-data:
+   - eng-mal: Tatoeba-train (1138268) 
+validation-data:
+   - eng-mal: Tatoeba-dev, 990
+   - total size of shuffled dev data: 990
+   - devset = top 990  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.mal-eng: 802/5558
+BLEU-scores:
+   - Tatoeba-test.mal-eng: 42.2
+chr-F-scores:
+   - Tatoeba-test.mal-eng: 0.599

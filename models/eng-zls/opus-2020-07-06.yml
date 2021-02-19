@@ -12,14 +12,12 @@ subword-models:
 source-languages:
    - eng
 target-languages:
-   - bos_Latn
+   - bos
    - bul
-   - bul_Latn
    - hrv
    - mkd
    - slv
-   - srp_Cyrl
-   - srp_Latn
+   - srp
 use-target-labels:
    - >>bos_Latn<<
    - >>bul<<
@@ -29,15 +27,21 @@ use-target-labels:
    - >>slv<<
    - >>srp_Cyrl<<
    - >>srp_Latn<<
+test-data:
+   - Tatoeba-test.eng-bul: 10000/56740
+   - Tatoeba-test.eng-hbs: 10000/52571
+   - Tatoeba-test.eng-mkd: 10000/51245
+   - Tatoeba-test.eng-multi: 10000/53384
+   - Tatoeba-test.eng-slv: 2007/9410
 BLEU-scores:
-   - Tatoeba-test.eng-bul.eng.bul: 46.2
-   - Tatoeba-test.eng-hbs.eng.hbs: 0.8
-   - Tatoeba-test.eng-mkd.eng.mkd: 43.5
-   - Tatoeba-test.eng.multi: 42.4
-   - Tatoeba-test.eng-slv.eng.slv: 17.6
+   - Tatoeba-test.eng-bul: 46.2
+   - Tatoeba-test.eng-hbs: 0.8
+   - Tatoeba-test.eng-mkd: 43.5
+   - Tatoeba-test.eng-multi: 42.4
+   - Tatoeba-test.eng-slv: 17.6
 chr-F-scores:
-   - Tatoeba-test.eng-bul.eng.bul: 0.646
-   - Tatoeba-test.eng-hbs.eng.hbs: 0.051
-   - Tatoeba-test.eng-mkd.eng.mkd: 0.629
-   - Tatoeba-test.eng.multi: 0.612
-   - Tatoeba-test.eng-slv.eng.slv: 0.348
+   - Tatoeba-test.eng-bul: 0.646
+   - Tatoeba-test.eng-hbs: 0.051
+   - Tatoeba-test.eng-mkd: 0.629
+   - Tatoeba-test.eng-multi: 0.612
+   - Tatoeba-test.eng-slv: 0.348

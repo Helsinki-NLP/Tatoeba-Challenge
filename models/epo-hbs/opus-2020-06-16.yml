@@ -12,16 +12,17 @@ subword-models:
 source-languages:
    - epo
 target-languages:
-   - bos_Latn
+   - bos
    - hrv
-   - srp_Cyrl
-   - srp_Latn
+   - srp
 use-target-labels:
    - >>bos_Latn<<
    - >>hrv<<
    - >>srp_Cyrl<<
    - >>srp_Latn<<
+test-data:
+   - Tatoeba-test.epo-hbs: 2500/14876
 BLEU-scores:
-   - Tatoeba-test.epo.hbs: 13.6
+   - Tatoeba-test.epo-hbs: 13.6
 chr-F-scores:
-   - Tatoeba-test.epo.hbs: 0.351
+   - Tatoeba-test.epo-hbs: 0.351

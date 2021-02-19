@@ -13,9 +13,9 @@ source-languages:
    - fin
 target-languages:
    - deu
+test-data:
+   - Tatoeba-test.fin-deu: 2500/14947
 BLEU-scores:
-   - Tatoeba-test.fin.deu: 47.4
-   - Tatoeba-test.fin-deu.fin.deu: 47.4
+   - Tatoeba-test.fin-deu: 47.4
 chr-F-scores:
-   - Tatoeba-test.fin.deu: 0.658
-   - Tatoeba-test.fin-deu.fin.deu: 0.658
+   - Tatoeba-test.fin-deu: 0.658

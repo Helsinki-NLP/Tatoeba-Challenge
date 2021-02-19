@@ -13,23 +13,20 @@ source-languages:
    - eng
 target-languages:
    - bel
-   - bel_Latn
-   - bos_Latn
+   - bos
    - bul
-   - bul_Latn
    - ces
-   - csb_Latn
+   - csb
    - dsb
    - hrv
    - hsb
    - mkd
-   - orv_Cyrl
+   - orv
    - pol
    - rue
    - rus
    - slv
-   - srp_Cyrl
-   - srp_Latn
+   - srp
    - ukr
 use-target-labels:
    - >>bel<<
@@ -51,73 +48,108 @@ use-target-labels:
    - >>srp_Cyrl<<
    - >>srp_Latn<<
    - >>ukr<<
+test-data:
+   - Tatoeba-test.eng-bel: 2500/12908
+   - Tatoeba-test.eng-bul: 10000/56740
+   - Tatoeba-test.eng-ces: 10000/52129
+   - Tatoeba-test.eng-csb: 27/196
+   - Tatoeba-test.eng-dsb: 34/140
+   - Tatoeba-test.eng-hbs: 10000/52571
+   - Tatoeba-test.eng-hsb: 40/156
+   - Tatoeba-test.eng-mkd: 10000/51245
+   - Tatoeba-test.eng-multi: 10000/52312
+   - Tatoeba-test.eng-orv: 322/1364
+   - Tatoeba-test.eng-pol: 10000/52166
+   - Tatoeba-test.eng-rue: 120/369
+   - Tatoeba-test.eng-rus: 10000/53367
+   - Tatoeba-test.eng-slv: 2007/9410
+   - Tatoeba-test.eng-ukr: 10000/47921
+   - news-test2008.eng-ces: 2051/36403
+   - newssyscomb2009.eng-ces: 502/8592
+   - newstest2009.eng-ces: 2525/47071
+   - newstest2010.eng-ces: 2489/45422
+   - newstest2011.eng-ces: 3003/55301
+   - newstest2012.eng-ces: 3003/54732
+   - newstest2012.eng-rus: 3003/53938
+   - newstest2013.eng-ces: 3000/48472
+   - newstest2013.eng-rus: 3000/48639
+   - newstest2015-encs.eng-ces: 2656/39201
+   - newstest2015-enru.eng-rus: 2818/46352
+   - newstest2016-encs.eng-ces: 2999/48915
+   - newstest2016-enru.eng-rus: 2998/51923
+   - newstest2017-encs.eng-ces: 3005/46951
+   - newstest2017-enru.eng-rus: 3001/50385
+   - newstest2018-encs.eng-ces: 2983/47229
+   - newstest2018-enru.eng-rus: 3000/51988
+   - newstest2019-encs.eng-ces: 1997/37506
+   - newstest2019-enru.eng-rus: 1997/40379
 BLEU-scores:
-   - newssyscomb2009-engces.eng.ces: 20.1
-   - news-test2008-engces.eng.ces: 17.7
-   - newstest2009-engces.eng.ces: 19.1
-   - newstest2010-engces.eng.ces: 19.3
-   - newstest2011-engces.eng.ces: 20.4
-   - newstest2012-engces.eng.ces: 18.3
-   - newstest2012-engrus.eng.rus: 27.4
-   - newstest2013-engces.eng.ces: 21.5
-   - newstest2013-engrus.eng.rus: 20.9
-   - newstest2015-encs-engces.eng.ces: 21.1
-   - newstest2015-enru-engrus.eng.rus: 24.5
-   - newstest2016-encs-engces.eng.ces: 23.6
-   - newstest2016-enru-engrus.eng.rus: 23.0
-   - newstest2017-encs-engces.eng.ces: 19.2
-   - newstest2017-enru-engrus.eng.rus: 25.0
-   - newstest2018-encs-engces.eng.ces: 19.3
-   - newstest2018-enru-engrus.eng.rus: 22.3
-   - newstest2019-encs-engces.eng.ces: 20.4
-   - newstest2019-enru-engrus.eng.rus: 24.0
-   - Tatoeba-test.eng-bel.eng.bel: 22.9
-   - Tatoeba-test.eng-bul.eng.bul: 46.7
-   - Tatoeba-test.eng-ces.eng.ces: 42.7
-   - Tatoeba-test.eng-csb.eng.csb: 1.4
-   - Tatoeba-test.eng-dsb.eng.dsb: 1.4
-   - Tatoeba-test.eng-hbs.eng.hbs: 40.3
-   - Tatoeba-test.eng-hsb.eng.hsb: 14.3
-   - Tatoeba-test.eng-mkd.eng.mkd: 44.1
-   - Tatoeba-test.eng.multi: 41.0
-   - Tatoeba-test.eng-orv.eng.orv: 0.3
-   - Tatoeba-test.eng-pol.eng.pol: 42.0
-   - Tatoeba-test.eng-rue.eng.rue: 0.3
-   - Tatoeba-test.eng-rus.eng.rus: 40.5
-   - Tatoeba-test.eng-slv.eng.slv: 18.8
-   - Tatoeba-test.eng-ukr.eng.ukr: 38.8
+   - Tatoeba-test.eng-bel: 22.9
+   - Tatoeba-test.eng-bul: 46.7
+   - Tatoeba-test.eng-ces: 42.7
+   - Tatoeba-test.eng-csb: 1.4
+   - Tatoeba-test.eng-dsb: 1.4
+   - Tatoeba-test.eng-hbs: 40.3
+   - Tatoeba-test.eng-hsb: 14.3
+   - Tatoeba-test.eng-mkd: 44.1
+   - Tatoeba-test.eng-multi: 41.0
+   - Tatoeba-test.eng-orv: 0.3
+   - Tatoeba-test.eng-pol: 42.0
+   - Tatoeba-test.eng-rue: 0.3
+   - Tatoeba-test.eng-rus: 40.5
+   - Tatoeba-test.eng-slv: 18.8
+   - Tatoeba-test.eng-ukr: 38.8
+   - news-test2008.eng-ces: 17.7
+   - newssyscomb2009.eng-ces: 20.1
+   - newstest2009.eng-ces: 19.1
+   - newstest2010.eng-ces: 19.3
+   - newstest2011.eng-ces: 20.4
+   - newstest2012.eng-ces: 18.3
+   - newstest2012.eng-rus: 27.4
+   - newstest2013.eng-ces: 21.5
+   - newstest2013.eng-rus: 20.9
+   - newstest2015-encs.eng-ces: 21.1
+   - newstest2015-enru.eng-rus: 24.5
+   - newstest2016-encs.eng-ces: 23.6
+   - newstest2016-enru.eng-rus: 23.0
+   - newstest2017-encs.eng-ces: 19.2
+   - newstest2017-enru.eng-rus: 25.0
+   - newstest2018-encs.eng-ces: 19.3
+   - newstest2018-enru.eng-rus: 22.3
+   - newstest2019-encs.eng-ces: 20.4
+   - newstest2019-enru.eng-rus: 24.0
 chr-F-scores:
-   - newssyscomb2009-engces.eng.ces: 0.484
-   - news-test2008-engces.eng.ces: 0.461
-   - newstest2009-engces.eng.ces: 0.479
-   - newstest2010-engces.eng.ces: 0.483
-   - newstest2011-engces.eng.ces: 0.486
-   - newstest2012-engces.eng.ces: 0.461
-   - newstest2012-engrus.eng.rus: 0.551
-   - newstest2013-engces.eng.ces: 0.489
-   - newstest2013-engrus.eng.rus: 0.490
-   - newstest2015-encs-engces.eng.ces: 0.496
-   - newstest2015-enru-engrus.eng.rus: 0.536
-   - newstest2016-encs-engces.eng.ces: 0.515
-   - newstest2016-enru-engrus.eng.rus: 0.519
-   - newstest2017-encs-engces.eng.ces: 0.474
-   - newstest2017-enru-engrus.eng.rus: 0.541
-   - newstest2018-encs-engces.eng.ces: 0.479
-   - newstest2018-enru-engrus.eng.rus: 0.526
-   - newstest2019-encs-engces.eng.ces: 0.486
-   - newstest2019-enru-engrus.eng.rus: 0.506
-   - Tatoeba-test.eng-bel.eng.bel: 0.489
-   - Tatoeba-test.eng-bul.eng.bul: 0.652
-   - Tatoeba-test.eng-ces.eng.ces: 0.624
-   - Tatoeba-test.eng-csb.eng.csb: 0.210
-   - Tatoeba-test.eng-dsb.eng.dsb: 0.165
-   - Tatoeba-test.eng-hbs.eng.hbs: 0.616
-   - Tatoeba-test.eng-hsb.eng.hsb: 0.344
-   - Tatoeba-test.eng-mkd.eng.mkd: 0.635
-   - Tatoeba-test.eng.multi: 0.610
-   - Tatoeba-test.eng-orv.eng.orv: 0.014
-   - Tatoeba-test.eng-pol.eng.pol: 0.637
-   - Tatoeba-test.eng-rue.eng.rue: 0.012
-   - Tatoeba-test.eng-rus.eng.rus: 0.612
-   - Tatoeba-test.eng-slv.eng.slv: 0.357
-   - Tatoeba-test.eng-ukr.eng.ukr: 0.600
+   - Tatoeba-test.eng-bel: 0.489
+   - Tatoeba-test.eng-bul: 0.652
+   - Tatoeba-test.eng-ces: 0.624
+   - Tatoeba-test.eng-csb: 0.210
+   - Tatoeba-test.eng-dsb: 0.165
+   - Tatoeba-test.eng-hbs: 0.616
+   - Tatoeba-test.eng-hsb: 0.344
+   - Tatoeba-test.eng-mkd: 0.635
+   - Tatoeba-test.eng-multi: 0.610
+   - Tatoeba-test.eng-orv: 0.014
+   - Tatoeba-test.eng-pol: 0.637
+   - Tatoeba-test.eng-rue: 0.012
+   - Tatoeba-test.eng-rus: 0.612
+   - Tatoeba-test.eng-slv: 0.357
+   - Tatoeba-test.eng-ukr: 0.600
+   - news-test2008.eng-ces: 0.461
+   - newssyscomb2009.eng-ces: 0.484
+   - newstest2009.eng-ces: 0.479
+   - newstest2010.eng-ces: 0.483
+   - newstest2011.eng-ces: 0.486
+   - newstest2012.eng-ces: 0.461
+   - newstest2012.eng-rus: 0.551
+   - newstest2013.eng-ces: 0.489
+   - newstest2013.eng-rus: 0.490
+   - newstest2015-encs.eng-ces: 0.496
+   - newstest2015-enru.eng-rus: 0.536
+   - newstest2016-encs.eng-ces: 0.515
+   - newstest2016-enru.eng-rus: 0.519
+   - newstest2017-encs.eng-ces: 0.474
+   - newstest2017-enru.eng-rus: 0.541
+   - newstest2018-encs.eng-ces: 0.479
+   - newstest2018-enru.eng-rus: 0.526
+   - newstest2019-encs.eng-ces: 0.486
+   - newstest2019-enru.eng-rus: 0.506

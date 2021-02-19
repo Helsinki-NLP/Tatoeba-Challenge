@@ -13,11 +13,12 @@ source-languages:
    - epo
 target-languages:
    - ita
-   - ita_Hira
 use-target-labels:
    - >>ita<<
    - >>ita_Hira<<
+test-data:
+   - Tatoeba-test.epo-ita: 10000/55577
 BLEU-scores:
-   - Tatoeba-test.epo.ita: 7.7
+   - Tatoeba-test.epo-ita: 7.7
 chr-F-scores:
-   - Tatoeba-test.epo.ita: 0.263
+   - Tatoeba-test.epo-ita: 0.263

@@ -13,11 +13,12 @@ source-languages:
    - spa
 target-languages:
    - bel
-   - bel_Latn
 use-target-labels:
    - >>bel<<
    - >>bel_Latn<<
+test-data:
+   - Tatoeba-test.spa-bel: 205/982
 BLEU-scores:
-   - Tatoeba-test.spa.bel: 9.0
+   - Tatoeba-test.spa-bel: 9.0
 chr-F-scores:
-   - Tatoeba-test.spa.bel: 0.265
+   - Tatoeba-test.spa-bel: 0.265

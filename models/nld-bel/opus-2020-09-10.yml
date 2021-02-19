@@ -13,11 +13,12 @@ source-languages:
    - nld
 target-languages:
    - bel
-   - bel_Latn
 use-target-labels:
    - >>bel<<
    - >>bel_Latn<<
+test-data:
+   - Tatoeba-test.nld-bel: 606/3194
 BLEU-scores:
-   - Tatoeba-test.nld.bel: 1.1
+   - Tatoeba-test.nld-bel: 1.1
 chr-F-scores:
-   - Tatoeba-test.nld.bel: 0.075
+   - Tatoeba-test.nld-bel: 0.075

@@ -10,18 +10,23 @@ subword-models:
    - source: source.spm
    - target: target.spm
 source-languages:
-   - gcf_Latn
+   - gcf
    - hat
    - mfe
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.gcf-eng: 99/455
+   - Tatoeba-test.hat-eng: 64/281
+   - Tatoeba-test.mfe-eng: 7/28
+   - Tatoeba-test.multi-eng: 170/764
 BLEU-scores:
-   - Tatoeba-test.gcf-eng.gcf.eng: 7.6
-   - Tatoeba-test.hat-eng.hat.eng: 29.1
-   - Tatoeba-test.mfe-eng.mfe.eng: 63.3
-   - Tatoeba-test.multi.eng: 16.1
+   - Tatoeba-test.gcf-eng: 7.6
+   - Tatoeba-test.hat-eng: 29.1
+   - Tatoeba-test.mfe-eng: 63.3
+   - Tatoeba-test.multi-eng: 16.1
 chr-F-scores:
-   - Tatoeba-test.gcf-eng.gcf.eng: 0.232
-   - Tatoeba-test.hat-eng.hat.eng: 0.443
-   - Tatoeba-test.mfe-eng.mfe.eng: 0.800
-   - Tatoeba-test.multi.eng: 0.334
+   - Tatoeba-test.gcf-eng: 0.232
+   - Tatoeba-test.hat-eng: 0.443
+   - Tatoeba-test.mfe-eng: 0.800
+   - Tatoeba-test.multi-eng: 0.334

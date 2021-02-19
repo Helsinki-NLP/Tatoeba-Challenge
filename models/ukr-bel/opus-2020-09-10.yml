@@ -13,11 +13,12 @@ source-languages:
    - ukr
 target-languages:
    - bel
-   - bel_Latn
 use-target-labels:
    - >>bel<<
    - >>bel_Latn<<
+test-data:
+   - Tatoeba-test.ukr-bel: 2355/12053
 BLEU-scores:
-   - Tatoeba-test.ukr.bel: 2.8
+   - Tatoeba-test.ukr-bel: 2.8
 chr-F-scores:
-   - Tatoeba-test.ukr.bel: 0.113
+   - Tatoeba-test.ukr-bel: 0.113

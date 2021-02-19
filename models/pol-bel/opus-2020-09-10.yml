@@ -13,11 +13,12 @@ source-languages:
    - pol
 target-languages:
    - bel
-   - bel_Latn
 use-target-labels:
    - >>bel<<
    - >>bel_Latn<<
+test-data:
+   - Tatoeba-test.pol-bel: 287/1375
 BLEU-scores:
-   - Tatoeba-test.pol.bel: 1.4
+   - Tatoeba-test.pol-bel: 1.4
 chr-F-scores:
-   - Tatoeba-test.pol.bel: 0.089
+   - Tatoeba-test.pol-bel: 0.089

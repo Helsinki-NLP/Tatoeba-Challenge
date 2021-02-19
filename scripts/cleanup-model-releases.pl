@@ -41,7 +41,7 @@ while (<F>){
     }
     $modelinfo{$model} .= $_;
     if (/Tatoeba-test/){
-	if (/\|\s+Tatoeba-test\.[^\.]+\.[^\.]+\s*\|\s*(\S+)\s*\|\s*(\S*)\s*\|/){
+	if (/\|\s+Tatoeba-test\.[^\.\-]+[\.\-][^\.\-]+\s*\|\s*(\S+)\s*\|\s*(\S*)\s*\|/){
 	    my ($bleu,$chrf) = ($1,$2);
 	    $modelbleu{$model} = $bleu;
 	    $modelchrf{$model} = $chrf;
@@ -64,14 +64,16 @@ foreach (keys %sorted){
     next if ($_ eq ' - ');
     if (@{$sorted{$_}} > 1){
 
+	my $keep;
 	## keep at least one existing model with that score
-	while (my $keep = shift(@{$sorted{$_}})){
+	while ($keep = shift(@{$sorted{$_}})){
 	    print STDERR "keep model   $dir/$keep ($_)\n";
 	    last if (-e "$dir/$keep");
 	}
 
 	## delete all others
 	foreach my $m (@{$sorted{$_}}){
+	    next if ($m eq $keep);
 	    print STDERR "remove model $dir/$m ($_)\n";
 	    delete $modelinfo{$m};
 	    my $eval = $m;
@@ -109,7 +111,7 @@ foreach (keys %sorted){
 
 unless ($opt_d){
     open F,">$dir/README.md" || die "cannot read $dir/README.md\n";
-    foreach my $m (sort {$modeldate{$b} cmp $modeldate{$a}} keys %modelinfo){
+    foreach my $m (sort {$modeldate{$a} cmp $modeldate{$b}} keys %modelinfo){
 	print F $modelinfo{$m};
     }
     close F;

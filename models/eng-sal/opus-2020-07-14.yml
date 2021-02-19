@@ -12,12 +12,15 @@ subword-models:
 source-languages:
    - eng
 target-languages:
-   - shs_Latn
+   - shs
+test-data:
+   - Tatoeba-test.eng-multi: 0/0
+   - Tatoeba-test.eng-shs: 43/145
 BLEU-scores:
-   - Tatoeba-test.eng.multi: 32.6
-   - Tatoeba-test.eng.shs: 1.1
-   - Tatoeba-test.eng-shs.eng.shs: 1.2
+   - Tatoeba-test.eng-multi: 32.6
+   - Tatoeba-test.eng-shs: 1.1
+   - Tatoeba-test.eng-shs: 1.2
 chr-F-scores:
-   - Tatoeba-test.eng.multi: 0.585
-   - Tatoeba-test.eng.shs: 0.072
-   - Tatoeba-test.eng-shs.eng.shs: 0.065
+   - Tatoeba-test.eng-multi: 0.585
+   - Tatoeba-test.eng-shs: 0.065
+   - Tatoeba-test.eng-shs: 0.072

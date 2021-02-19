@@ -13,11 +13,12 @@ source-languages:
    - ita
 target-languages:
    - bel
-   - bel_Latn
 use-target-labels:
    - >>bel<<
    - >>bel_Latn<<
+test-data:
+   - Tatoeba-test.ita-bel: 264/1187
 BLEU-scores:
-   - Tatoeba-test.ita.bel: 0.6
+   - Tatoeba-test.ita-bel: 0.6
 chr-F-scores:
-   - Tatoeba-test.ita.bel: 0.086
+   - Tatoeba-test.ita-bel: 0.086

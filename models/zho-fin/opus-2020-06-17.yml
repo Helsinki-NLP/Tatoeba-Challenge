@@ -10,15 +10,14 @@ subword-models:
    - source: source.spm
    - target: target.spm
 source-languages:
-   - cmn_Bopo
-   - cmn_Hani
-   - cmn_Latn
-   - nan_Hani
+   - cmn
+   - nan
    - yue
-   - yue_Hani
 target-languages:
    - fin
+test-data:
+   - Tatoeba-test.zho-fin: 380/1428
 BLEU-scores:
-   - Tatoeba-test.zho.fin: 35.1
+   - Tatoeba-test.zho-fin: 35.1
 chr-F-scores:
-   - Tatoeba-test.zho.fin: 0.579
+   - Tatoeba-test.zho-fin: 0.579

@@ -11,14 +11,13 @@ subword-models:
    - target: target.spm
 source-languages:
    - cmn
-   - cmn_Hans
-   - cmn_Hant
    - nan
-   - yue_Hans
-   - yue_Hant
+   - yue
 target-languages:
    - epo
+test-data:
+   - Tatoeba-test.zho-epo: 2241/12844
 BLEU-scores:
-   - Tatoeba-test.zho.epo: 4.3
+   - Tatoeba-test.zho-epo: 4.3
 chr-F-scores:
-   - Tatoeba-test.zho.epo: 0.177
+   - Tatoeba-test.zho-epo: 0.177

@@ -13,11 +13,12 @@ source-languages:
    - rus
 target-languages:
    - bel
-   - bel_Latn
 use-target-labels:
    - >>bel<<
    - >>bel_Latn<<
+test-data:
+   - Tatoeba-test.rus-bel: 2500/15122
 BLEU-scores:
-   - Tatoeba-test.rus.bel: 2.5
+   - Tatoeba-test.rus-bel: 2.5
 chr-F-scores:
-   - Tatoeba-test.rus.bel: 0.137
+   - Tatoeba-test.rus-bel: 0.137

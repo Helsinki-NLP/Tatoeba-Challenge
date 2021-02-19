@@ -13,11 +13,12 @@ source-languages:
    - eng
 target-languages:
    - vie
-   - vie_Hani
 use-target-labels:
    - >>vie<<
    - >>vie_Hani<<
+test-data:
+   - Tatoeba-test.eng-vie: 2500/21591
 BLEU-scores:
-   - Tatoeba-test.eng.vie: 37.2
+   - Tatoeba-test.eng-vie: 37.2
 chr-F-scores:
-   - Tatoeba-test.eng.vie: 0.542
+   - Tatoeba-test.eng-vie: 0.542

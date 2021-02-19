@@ -17,11 +17,15 @@ target-languages:
 use-target-labels:
    - >>mol<<
    - >>ron<<
+test-data:
+   - Tatoeba-test.eng-ron: 5000/31187
+   - newsdev2016-enro.eng-ron: 1999/45165
+   - newstest2016-enro.eng-ron: 1999/43352
 BLEU-scores:
-   - newsdev2016-enro-engron.eng.ron: 30.7
-   - newstest2016-enro-engron.eng.ron: 28.4
-   - Tatoeba-test.eng.ron: 45.0
+   - Tatoeba-test.eng-ron: 45.0
+   - newsdev2016-enro.eng-ron: 30.7
+   - newstest2016-enro.eng-ron: 28.4
 chr-F-scores:
-   - newsdev2016-enro-engron.eng.ron: 0.591
-   - newstest2016-enro-engron.eng.ron: 0.573
-   - Tatoeba-test.eng.ron: 0.665
+   - Tatoeba-test.eng-ron: 0.665
+   - newsdev2016-enro.eng-ron: 0.591
+   - newstest2016-enro.eng-ron: 0.573

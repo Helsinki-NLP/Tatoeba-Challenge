@@ -1,0 +1,27 @@
+release: spa-mkd/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - spa
+target-languages:
+   - mkd
+training-data:
+   - mkd-spa: Tatoeba-train (3189192) 
+validation-data:
+   - mkd-spa: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.spa-mkd: 217/1073
+BLEU-scores:
+   - Tatoeba-test.spa-mkd: 48.2
+chr-F-scores:
+   - Tatoeba-test.spa-mkd: 0.681

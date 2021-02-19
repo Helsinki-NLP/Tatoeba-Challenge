@@ -1,0 +1,29 @@
+release: kor-spa/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - kor
+target-languages:
+   - spa
+training-data:
+   - kor-spa: Tatoeba-train (287286) 
+   - kor_Hang-spa: Tatoeba-train (2998394) 
+   - kor_Latn-spa: Tatoeba-train (19546) 
+validation-data:
+   - kor-spa: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.kor-spa: 942/6805
+BLEU-scores:
+   - Tatoeba-test.kor-spa: 31.3
+chr-F-scores:
+   - Tatoeba-test.kor-spa: 0.521

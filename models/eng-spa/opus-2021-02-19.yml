@@ -1,0 +1,48 @@
+release: eng-spa/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - spa
+training-data:
+   - spa-eng: Tatoeba-train (154168790) 
+validation-data:
+   - eng-spa: Tatoeba-dev, 195195
+   - total size of shuffled dev data: 195195
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newssyscomb2009.eng-spa: 502/12506
+   - news-test2008.eng-spa: 2051/52596
+   - newstest2009.eng-spa: 2525/68114
+   - newstest2010.eng-spa: 2489/65522
+   - newstest2011.eng-spa: 3003/79476
+   - newstest2012.eng-spa: 3003/79006
+   - newstest2013.eng-spa: 3000/70528
+   - Tatoeba-test.eng-spa: 10000/77311
+BLEU-scores:
+   - newssyscomb2009.eng-spa: 31.3
+   - news-test2008.eng-spa: 29.6
+   - newstest2009.eng-spa: 30.2
+   - newstest2010.eng-spa: 36.9
+   - newstest2011.eng-spa: 38.3
+   - newstest2012.eng-spa: 39.1
+   - newstest2013.eng-spa: 35.1
+   - Tatoeba-test.eng-spa: 55.1
+chr-F-scores:
+   - newssyscomb2009.eng-spa: 0.583
+   - news-test2008.eng-spa: 0.564
+   - newstest2009.eng-spa: 0.578
+   - newstest2010.eng-spa: 0.620
+   - newstest2011.eng-spa: 0.620
+   - newstest2012.eng-spa: 0.626
+   - newstest2013.eng-spa: 0.598
+   - Tatoeba-test.eng-spa: 0.721

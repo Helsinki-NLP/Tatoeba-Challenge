@@ -1,0 +1,27 @@
+release: kor-fra/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - kor
+target-languages:
+   - fra
+training-data:
+   - kor-fra: Tatoeba-train (2961263) 
+validation-data:
+   - fra-kor: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.kor-fra: 320/2714
+BLEU-scores:
+   - Tatoeba-test.kor-fra: 31.8
+chr-F-scores:
+   - Tatoeba-test.kor-fra: 0.515

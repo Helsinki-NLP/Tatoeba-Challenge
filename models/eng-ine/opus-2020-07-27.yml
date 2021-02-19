@@ -14,50 +14,48 @@ source-languages:
 target-languages:
    - afr
    - aln
-   - ang_Latn
+   - ang
    - arg
    - asm
    - ast
    - awa
    - bel
-   - bel_Latn
    - ben
    - bho
-   - bos_Latn
+   - bos
    - bre
    - bul
-   - bul_Latn
    - cat
    - ces
    - cor
    - cos
-   - csb_Latn
+   - csb
    - cym
    - dan
    - deu
    - dsb
    - egl
    - ell
-   - enm_Latn
+   - enm
    - ext
    - fao
    - fra
-   - frm_Latn
+   - frm
    - frr
    - fry
-   - gcf_Latn
+   - gcf
    - gla
    - gle
    - glg
    - glv
    - gom
    - gos
-   - got_Goth
-   - grc_Grek
+   - got
+   - grc
    - gsw
    - guj
    - hat
-   - hif_Latn
+   - hif
    - hin
    - hrv
    - hsb
@@ -65,23 +63,21 @@ target-languages:
    - ind
    - isl
    - ita
-   - jdt_Cyrl
+   - jdt
    - ksh
-   - kur_Arab
-   - kur_Latn
+   - kur
    - lad
-   - lad_Latn
-   - lat_Latn
+   - lat
    - lav
    - lij
    - lit
-   - lld_Latn
+   - lld
    - lmo
    - ltg
    - ltz
    - mai
    - mar
-   - max_Latn
+   - max
    - mfe
    - min
    - mkd
@@ -90,54 +86,50 @@ target-languages:
    - nld
    - nno
    - nob
-   - nob_Hebr
-   - non_Latn
+   - non
    - npi
    - oci
    - ori
-   - orv_Cyrl
+   - orv
    - oss
-   - pan_Guru
+   - pan
    - pap
    - pdc
    - pes
-   - pes_Latn
-   - pes_Thaa
    - pms
    - pnb
    - pol
    - por
-   - prg_Latn
+   - prg
    - pus
    - roh
    - rom
    - ron
    - rue
    - rus
-   - san_Deva
+   - san
    - scn
    - sco
    - sgs
    - sin
    - slv
-   - snd_Arab
+   - snd
    - spa
    - sqi
-   - srp_Cyrl
-   - srp_Latn
+   - srp
    - stq
    - swe
    - swg
-   - tgk_Cyrl
-   - tly_Latn
-   - tmw_Latn
+   - tgk
+   - tly
+   - tmw
    - ukr
    - urd
    - vec
    - wln
    - yid
-   - zlm_Latn
-   - zsm_Latn
+   - zlm
+   - zsm
    - zza
 use-target-labels:
    - >>afr<<
@@ -267,343 +259,513 @@ use-target-labels:
    - >>zlm_Latn<<
    - >>zsm_Latn<<
    - >>zza<<
+test-data:
+   - Tatoeba-test.eng-afr: 1374/8813
+   - Tatoeba-test.eng-ang: 189/1596
+   - Tatoeba-test.eng-arg: 105/292
+   - Tatoeba-test.eng-asm: 117/530
+   - Tatoeba-test.eng-ast: 99/596
+   - Tatoeba-test.eng-awa: 279/1087
+   - Tatoeba-test.eng-bel: 2500/12908
+   - Tatoeba-test.eng-ben: 2500/10942
+   - Tatoeba-test.eng-bho: 42/224
+   - Tatoeba-test.eng-bre: 383/1864
+   - Tatoeba-test.eng-bul: 10000/56740
+   - Tatoeba-test.eng-cat: 1631/10387
+   - Tatoeba-test.eng-ces: 10000/52129
+   - Tatoeba-test.eng-cor: 3198/14464
+   - Tatoeba-test.eng-cos: 5/31
+   - Tatoeba-test.eng-csb: 27/196
+   - Tatoeba-test.eng-cym: 818/5073
+   - Tatoeba-test.eng-dan: 10000/61469
+   - Tatoeba-test.eng-deu: 10000/69441
+   - Tatoeba-test.eng-dsb: 34/140
+   - Tatoeba-test.eng-egl: 84/343
+   - Tatoeba-test.eng-ell: 10000/48882
+   - Tatoeba-test.eng-enm: 49/243
+   - Tatoeba-test.eng-ext: 69/235
+   - Tatoeba-test.eng-fao: 294/1564
+   - Tatoeba-test.eng-fas: 3768/27610
+   - Tatoeba-test.eng-fra: 10000/71144
+   - Tatoeba-test.eng-frm: 18/177
+   - Tatoeba-test.eng-frr: 2/7
+   - Tatoeba-test.eng-fry: 205/1265
+   - Tatoeba-test.eng-gcf: 99/457
+   - Tatoeba-test.eng-gla: 917/5898
+   - Tatoeba-test.eng-gle: 1924/10141
+   - Tatoeba-test.eng-glg: 1008/6655
+   - Tatoeba-test.eng-glv: 5/20
+   - Tatoeba-test.eng-gos: 1152/4241
+   - Tatoeba-test.eng-got: 207/685
+   - Tatoeba-test.eng-grc: 592/3105
+   - Tatoeba-test.eng-gsw: 205/761
+   - Tatoeba-test.eng-guj: 154/680
+   - Tatoeba-test.eng-hat: 64/311
+   - Tatoeba-test.eng-hbs: 10000/52571
+   - Tatoeba-test.eng-hif: 36/177
+   - Tatoeba-test.eng-hin: 5000/31361
+   - Tatoeba-test.eng-hsb: 40/156
+   - Tatoeba-test.eng-hye: 1121/3852
+   - Tatoeba-test.eng-isl: 2500/16288
+   - Tatoeba-test.eng-ita: 10000/54596
+   - Tatoeba-test.eng-jdt: 2/4
+   - Tatoeba-test.eng-kok: 1/5
+   - Tatoeba-test.eng-ksh: 26/170
+   - Tatoeba-test.eng-kur: 296/1410
+   - Tatoeba-test.eng-lad: 629/2666
+   - Tatoeba-test.eng-lah: 32/180
+   - Tatoeba-test.eng-lat: 10000/59372
+   - Tatoeba-test.eng-lav: 1631/7915
+   - Tatoeba-test.eng-lij: 94/602
+   - Tatoeba-test.eng-lit: 2500/11920
+   - Tatoeba-test.eng-lld: 21/191
+   - Tatoeba-test.eng-lmo: 17/95
+   - Tatoeba-test.eng-ltz: 283/1351
+   - Tatoeba-test.eng-mai: 8/16
+   - Tatoeba-test.eng-mar: 10000/47665
+   - Tatoeba-test.eng-mfe: 7/29
+   - Tatoeba-test.eng-mkd: 10000/51245
+   - Tatoeba-test.eng-msa: 5000/27896
+   - Tatoeba-test.eng-multi: 10000/57126
+   - Tatoeba-test.eng-mwl: 4/16
+   - Tatoeba-test.eng-nds: 2500/15228
+   - Tatoeba-test.eng-nep: 115/398
+   - Tatoeba-test.eng-nld: 10000/60278
+   - Tatoeba-test.eng-non: 15/109
+   - Tatoeba-test.eng-nor: 5000/33820
+   - Tatoeba-test.eng-oci: 841/4498
+   - Tatoeba-test.eng-ori: 33/190
+   - Tatoeba-test.eng-orv: 322/1364
+   - Tatoeba-test.eng-oss: 57/260
+   - Tatoeba-test.eng-pan: 87/570
+   - Tatoeba-test.eng-pap: 70/287
+   - Tatoeba-test.eng-pdc: 53/281
+   - Tatoeba-test.eng-pms: 268/1904
+   - Tatoeba-test.eng-pol: 10000/52166
+   - Tatoeba-test.eng-por: 10000/63828
+   - Tatoeba-test.eng-prg: 213/1243
+   - Tatoeba-test.eng-pus: 31/273
+   - Tatoeba-test.eng-roh: 16/172
+   - Tatoeba-test.eng-rom: 671/4283
+   - Tatoeba-test.eng-ron: 5000/31187
+   - Tatoeba-test.eng-rue: 120/369
+   - Tatoeba-test.eng-rus: 10000/53367
+   - Tatoeba-test.eng-san: 144/366
+   - Tatoeba-test.eng-scn: 4/29
+   - Tatoeba-test.eng-sco: 27/185
+   - Tatoeba-test.eng-sgs: 52/80
+   - Tatoeba-test.eng-sin: 45/189
+   - Tatoeba-test.eng-slv: 2007/9410
+   - Tatoeba-test.eng-snd: 4/17
+   - Tatoeba-test.eng-spa: 10000/65686
+   - Tatoeba-test.eng-sqi: 1065/6611
+   - Tatoeba-test.eng-stq: 5/26
+   - Tatoeba-test.eng-swe: 10000/54832
+   - Tatoeba-test.eng-swg: 33/195
+   - Tatoeba-test.eng-tgk: 29/147
+   - Tatoeba-test.eng-tly: 46/109
+   - Tatoeba-test.eng-ukr: 10000/47921
+   - Tatoeba-test.eng-urd: 1663/12106
+   - Tatoeba-test.eng-vec: 19/90
+   - Tatoeba-test.eng-wln: 89/431
+   - Tatoeba-test.eng-yid: 1168/6754
+   - Tatoeba-test.eng-zza: 523/2388
+   - news-test2008.eng-ces: 2051/36403
+   - news-test2008.eng-deu: 2051/41182
+   - news-test2008.eng-fra: 2051/47153
+   - news-test2008.eng-spa: 2051/47155
+   - newsdev2014.eng-hin: 520/9310
+   - newsdev2016-enro.eng-ron: 1999/45165
+   - newsdev2017-enlv.eng-lav: 2003/34526
+   - newsdev2019-engu.eng-guj: 1998/34842
+   - newsdev2019-enlt.eng-lit: 2000/32998
+   - newsdiscussdev2015-enfr.eng-fra: 1500/24978
+   - newsdiscusstest2015-enfr.eng-fra: 1500/25147
+   - newssyscomb2009.eng-ces: 502/8592
+   - newssyscomb2009.eng-deu: 502/9802
+   - newssyscomb2009.eng-fra: 502/10909
+   - newssyscomb2009.eng-ita: 502/10272
+   - newssyscomb2009.eng-spa: 502/11241
+   - newstest2009.eng-ces: 2525/47071
+   - newstest2009.eng-deu: 2525/54214
+   - newstest2009.eng-fra: 2525/61062
+   - newstest2009.eng-ita: 2525/56377
+   - newstest2009.eng-spa: 2525/61082
+   - newstest2010.eng-ces: 2489/45422
+   - newstest2010.eng-deu: 2489/53161
+   - newstest2010.eng-fra: 2489/59027
+   - newstest2010.eng-spa: 2489/58015
+   - newstest2011.eng-ces: 3003/55301
+   - newstest2011.eng-deu: 3003/62546
+   - newstest2011.eng-fra: 3003/71408
+   - newstest2011.eng-spa: 3003/69889
+   - newstest2012.eng-ces: 3003/54732
+   - newstest2012.eng-deu: 3003/62513
+   - newstest2012.eng-fra: 3003/69300
+   - newstest2012.eng-rus: 3003/53938
+   - newstest2012.eng-spa: 3003/69451
+   - newstest2013.eng-ces: 3000/48472
+   - newstest2013.eng-deu: 3000/54690
+   - newstest2013.eng-fra: 3000/61552
+   - newstest2013.eng-rus: 3000/48639
+   - newstest2013.eng-spa: 3000/62045
+   - newstest2014-hien.eng-hin: 2507/57037
+   - newstest2015-encs.eng-ces: 2656/39201
+   - newstest2015-ende.eng-deu: 2169/38160
+   - newstest2015-enru.eng-rus: 2818/46352
+   - newstest2016-encs.eng-ces: 2999/48915
+   - newstest2016-ende.eng-deu: 2999/53944
+   - newstest2016-enro.eng-ron: 1999/43352
+   - newstest2016-enru.eng-rus: 2998/51923
+   - newstest2017-encs.eng-ces: 3005/46951
+   - newstest2017-ende.eng-deu: 3004/52833
+   - newstest2017-enlv.eng-lav: 2001/32754
+   - newstest2017-enru.eng-rus: 3001/50385
+   - newstest2018-encs.eng-ces: 2983/47229
+   - newstest2018-ende.eng-deu: 2998/54933
+   - newstest2018-enru.eng-rus: 3000/51988
+   - newstest2019-encs.eng-ces: 1997/37506
+   - newstest2019-ende.eng-deu: 1997/42087
+   - newstest2019-engu.eng-guj: 998/19483
+   - newstest2019-enlt.eng-lit: 998/16593
+   - newstest2019-enru.eng-rus: 1997/40379
 BLEU-scores:
-   - newsdev2014-enghin.eng.hin: 6.0
-   - newsdev2016-enro-engron.eng.ron: 21.4
-   - newsdev2017-enlv-englav.eng.lav: 16.8
-   - newsdev2019-engu-engguj.eng.guj: 6.1
-   - newsdev2019-enlt-englit.eng.lit: 14.4
-   - newsdiscussdev2015-enfr-engfra.eng.fra: 26.1
-   - newsdiscusstest2015-enfr-engfra.eng.fra: 29.6
-   - newssyscomb2009-engces.eng.ces: 14.2
-   - newssyscomb2009-engdeu.eng.deu: 16.5
-   - newssyscomb2009-engfra.eng.fra: 24.6
-   - newssyscomb2009-engita.eng.ita: 25.3
-   - newssyscomb2009-engspa.eng.spa: 26.2
-   - news-test2008-engces.eng.ces: 12.5
-   - news-test2008-engdeu.eng.deu: 17.0
-   - news-test2008-engfra.eng.fra: 22.2
-   - news-test2008-engspa.eng.spa: 24.7
-   - newstest2009-engces.eng.ces: 13.4
-   - newstest2009-engdeu.eng.deu: 16.4
-   - newstest2009-engfra.eng.fra: 23.3
-   - newstest2009-engita.eng.ita: 25.2
-   - newstest2009-engspa.eng.spa: 25.9
-   - newstest2010-engces.eng.ces: 13.6
-   - newstest2010-engdeu.eng.deu: 18.1
-   - newstest2010-engfra.eng.fra: 25.4
-   - newstest2010-engspa.eng.spa: 29.9
-   - newstest2011-engces.eng.ces: 14.5
-   - newstest2011-engdeu.eng.deu: 16.7
-   - newstest2011-engfra.eng.fra: 27.4
-   - newstest2011-engspa.eng.spa: 31.7
-   - newstest2012-engces.eng.ces: 13.2
-   - newstest2012-engdeu.eng.deu: 16.9
-   - newstest2012-engfra.eng.fra: 25.9
-   - newstest2012-engrus.eng.rus: 21.1
-   - newstest2012-engspa.eng.spa: 31.4
-   - newstest2013-engces.eng.ces: 14.8
-   - newstest2013-engdeu.eng.deu: 19.7
-   - newstest2013-engfra.eng.fra: 25.9
-   - newstest2013-engrus.eng.rus: 15.9
-   - newstest2013-engspa.eng.spa: 28.2
-   - newstest2014-hien-enghin.eng.hin: 9.2
-   - newstest2015-encs-engces.eng.ces: 14.7
-   - newstest2015-ende-engdeu.eng.deu: 22.3
-   - newstest2015-enru-engrus.eng.rus: 18.3
-   - newstest2016-encs-engces.eng.ces: 16.4
-   - newstest2016-ende-engdeu.eng.deu: 25.9
-   - newstest2016-enro-engron.eng.ron: 20.6
-   - newstest2016-enru-engrus.eng.rus: 16.8
-   - newstest2017-encs-engces.eng.ces: 13.3
-   - newstest2017-ende-engdeu.eng.deu: 21.1
-   - newstest2017-enlv-englav.eng.lav: 13.0
-   - newstest2017-enru-engrus.eng.rus: 18.3
-   - newstest2018-encs-engces.eng.ces: 13.2
-   - newstest2018-ende-engdeu.eng.deu: 29.3
-   - newstest2018-enru-engrus.eng.rus: 15.9
-   - newstest2019-encs-engces.eng.ces: 14.4
-   - newstest2019-ende-engdeu.eng.deu: 26.1
-   - newstest2019-engu-engguj.eng.guj: 7.0
-   - newstest2019-enlt-englit.eng.lit: 10.2
-   - newstest2019-enru-engrus.eng.rus: 17.0
-   - Tatoeba-test.eng-afr.eng.afr: 52.1
-   - Tatoeba-test.eng-ang.eng.ang: 4.4
-   - Tatoeba-test.eng-arg.eng.arg: 1.3
-   - Tatoeba-test.eng-asm.eng.asm: 2.8
-   - Tatoeba-test.eng-ast.eng.ast: 14.5
-   - Tatoeba-test.eng-awa.eng.awa: 0.2
-   - Tatoeba-test.eng-bel.eng.bel: 17.8
-   - Tatoeba-test.eng-ben.eng.ben: 13.2
-   - Tatoeba-test.eng-bho.eng.bho: 0.3
-   - Tatoeba-test.eng-bre.eng.bre: 9.5
-   - Tatoeba-test.eng-bul.eng.bul: 38.5
-   - Tatoeba-test.eng-cat.eng.cat: 41.5
-   - Tatoeba-test.eng-ces.eng.ces: 31.9
-   - Tatoeba-test.eng-cor.eng.cor: 0.4
-   - Tatoeba-test.eng-cos.eng.cos: 3.1
-   - Tatoeba-test.eng-csb.eng.csb: 4.9
-   - Tatoeba-test.eng-cym.eng.cym: 22.1
-   - Tatoeba-test.eng-dan.eng.dan: 49.5
-   - Tatoeba-test.eng-deu.eng.deu: 31.4
-   - Tatoeba-test.eng-dsb.eng.dsb: 1.2
-   - Tatoeba-test.eng-egl.eng.egl: 0.3
-   - Tatoeba-test.eng-ell.eng.ell: 42.3
-   - Tatoeba-test.eng-enm.eng.enm: 3.0
-   - Tatoeba-test.eng-ext.eng.ext: 7.3
-   - Tatoeba-test.eng-fao.eng.fao: 6.3
-   - Tatoeba-test.eng-fas.eng.fas: 5.7
-   - Tatoeba-test.eng-fra.eng.fra: 37.8
-   - Tatoeba-test.eng-frm.eng.frm: 0.9
-   - Tatoeba-test.eng-frr.eng.frr: 6.4
-   - Tatoeba-test.eng-fry.eng.fry: 18.3
-   - Tatoeba-test.eng-gcf.eng.gcf: 0.6
-   - Tatoeba-test.eng-gla.eng.gla: 11.9
-   - Tatoeba-test.eng-gle.eng.gle: 33.1
-   - Tatoeba-test.eng-glg.eng.glg: 38.1
-   - Tatoeba-test.eng-glv.eng.glv: 23.1
-   - Tatoeba-test.eng-gos.eng.gos: 0.6
-   - Tatoeba-test.eng-got.eng.got: 0.2
-   - Tatoeba-test.eng-grc.eng.grc: 0.0
-   - Tatoeba-test.eng-gsw.eng.gsw: 0.7
-   - Tatoeba-test.eng-guj.eng.guj: 20.1
-   - Tatoeba-test.eng-hat.eng.hat: 32.9
-   - Tatoeba-test.eng-hbs.eng.hbs: 33.0
-   - Tatoeba-test.eng-hif.eng.hif: 2.5
-   - Tatoeba-test.eng-hin.eng.hin: 15.7
-   - Tatoeba-test.eng-hsb.eng.hsb: 6.6
-   - Tatoeba-test.eng-hye.eng.hye: 17.6
-   - Tatoeba-test.eng-isl.eng.isl: 17.2
-   - Tatoeba-test.eng-ita.eng.ita: 39.6
-   - Tatoeba-test.eng-jdt.eng.jdt: 5.3
-   - Tatoeba-test.eng-kok.eng.kok: 6.6
-   - Tatoeba-test.eng-ksh.eng.ksh: 0.6
-   - Tatoeba-test.eng-kur.eng.kur: 10.7
-   - Tatoeba-test.eng-lad.eng.lad: 0.9
-   - Tatoeba-test.eng-lah.eng.lah: 0.2
-   - Tatoeba-test.eng-lat.eng.lat: 9.3
-   - Tatoeba-test.eng-lav.eng.lav: 28.3
-   - Tatoeba-test.eng-lij.eng.lij: 1.0
-   - Tatoeba-test.eng-lit.eng.lit: 24.6
-   - Tatoeba-test.eng-lld.eng.lld: 0.4
-   - Tatoeba-test.eng-lmo.eng.lmo: 0.7
-   - Tatoeba-test.eng-ltz.eng.ltz: 16.3
-   - Tatoeba-test.eng-mai.eng.mai: 16.7
-   - Tatoeba-test.eng-mar.eng.mar: 17.6
-   - Tatoeba-test.eng-mfe.eng.mfe: 69.5
-   - Tatoeba-test.eng-mkd.eng.mkd: 37.1
-   - Tatoeba-test.eng-msa.eng.msa: 27.7
-   - Tatoeba-test.eng.multi: 32.0
-   - Tatoeba-test.eng-mwl.eng.mwl: 2.9
-   - Tatoeba-test.eng-nds.eng.nds: 14.1
-   - Tatoeba-test.eng-nep.eng.nep: 0.4
-   - Tatoeba-test.eng-nld.eng.nld: 43.7
-   - Tatoeba-test.eng-non.eng.non: 0.6
-   - Tatoeba-test.eng-nor.eng.nor: 41.7
-   - Tatoeba-test.eng-oci.eng.oci: 6.4
-   - Tatoeba-test.eng-ori.eng.ori: 4.7
-   - Tatoeba-test.eng-orv.eng.orv: 0.3
-   - Tatoeba-test.eng-oss.eng.oss: 2.6
-   - Tatoeba-test.eng-pan.eng.pan: 6.7
-   - Tatoeba-test.eng-pap.eng.pap: 49.4
-   - Tatoeba-test.eng-pdc.eng.pdc: 2.4
-   - Tatoeba-test.eng-pms.eng.pms: 0.8
-   - Tatoeba-test.eng-pol.eng.pol: 30.6
-   - Tatoeba-test.eng-por.eng.por: 36.7
-   - Tatoeba-test.eng-prg.eng.prg: 0.2
-   - Tatoeba-test.eng-pus.eng.pus: 1.5
-   - Tatoeba-test.eng-roh.eng.roh: 1.6
-   - Tatoeba-test.eng-rom.eng.rom: 7.5
-   - Tatoeba-test.eng-ron.eng.ron: 34.0
-   - Tatoeba-test.eng-rue.eng.rue: 0.1
-   - Tatoeba-test.eng-rus.eng.rus: 28.8
-   - Tatoeba-test.eng-san.eng.san: 2.2
-   - Tatoeba-test.eng-scn.eng.scn: 1.8
-   - Tatoeba-test.eng-sco.eng.sco: 29.4
-   - Tatoeba-test.eng-sgs.eng.sgs: 3.1
-   - Tatoeba-test.eng-sin.eng.sin: 9.1
-   - Tatoeba-test.eng-slv.eng.slv: 15.8
-   - Tatoeba-test.eng-snd.eng.snd: 8.0
-   - Tatoeba-test.eng-spa.eng.spa: 42.8
-   - Tatoeba-test.eng-sqi.eng.sqi: 38.5
-   - Tatoeba-test.eng-stq.eng.stq: 11.9
-   - Tatoeba-test.eng-swe.eng.swe: 49.4
-   - Tatoeba-test.eng-swg.eng.swg: 0.8
-   - Tatoeba-test.eng-tgk.eng.tgk: 5.6
-   - Tatoeba-test.eng-tly.eng.tly: 0.4
-   - Tatoeba-test.eng-ukr.eng.ukr: 30.5
-   - Tatoeba-test.eng-urd.eng.urd: 11.2
-   - Tatoeba-test.eng-vec.eng.vec: 1.1
-   - Tatoeba-test.eng-wln.eng.wln: 6.3
-   - Tatoeba-test.eng-yid.eng.yid: 5.3
-   - Tatoeba-test.eng-zza.eng.zza: 0.5
+   - Tatoeba-test.eng-afr: 52.1
+   - Tatoeba-test.eng-ang: 4.4
+   - Tatoeba-test.eng-arg: 1.3
+   - Tatoeba-test.eng-asm: 2.8
+   - Tatoeba-test.eng-ast: 14.5
+   - Tatoeba-test.eng-awa: 0.2
+   - Tatoeba-test.eng-bel: 17.8
+   - Tatoeba-test.eng-ben: 13.2
+   - Tatoeba-test.eng-bho: 0.3
+   - Tatoeba-test.eng-bre: 9.5
+   - Tatoeba-test.eng-bul: 38.5
+   - Tatoeba-test.eng-cat: 41.5
+   - Tatoeba-test.eng-ces: 31.9
+   - Tatoeba-test.eng-cor: 0.4
+   - Tatoeba-test.eng-cos: 3.1
+   - Tatoeba-test.eng-csb: 4.9
+   - Tatoeba-test.eng-cym: 22.1
+   - Tatoeba-test.eng-dan: 49.5
+   - Tatoeba-test.eng-deu: 31.4
+   - Tatoeba-test.eng-dsb: 1.2
+   - Tatoeba-test.eng-egl: 0.3
+   - Tatoeba-test.eng-ell: 42.3
+   - Tatoeba-test.eng-enm: 3.0
+   - Tatoeba-test.eng-ext: 7.3
+   - Tatoeba-test.eng-fao: 6.3
+   - Tatoeba-test.eng-fas: 5.7
+   - Tatoeba-test.eng-fra: 37.8
+   - Tatoeba-test.eng-frm: 0.9
+   - Tatoeba-test.eng-frr: 6.4
+   - Tatoeba-test.eng-fry: 18.3
+   - Tatoeba-test.eng-gcf: 0.6
+   - Tatoeba-test.eng-gla: 11.9
+   - Tatoeba-test.eng-gle: 33.1
+   - Tatoeba-test.eng-glg: 38.1
+   - Tatoeba-test.eng-glv: 23.1
+   - Tatoeba-test.eng-gos: 0.6
+   - Tatoeba-test.eng-got: 0.2
+   - Tatoeba-test.eng-grc: 0.0
+   - Tatoeba-test.eng-gsw: 0.7
+   - Tatoeba-test.eng-guj: 20.1
+   - Tatoeba-test.eng-hat: 32.9
+   - Tatoeba-test.eng-hbs: 33.0
+   - Tatoeba-test.eng-hif: 2.5
+   - Tatoeba-test.eng-hin: 15.7
+   - Tatoeba-test.eng-hsb: 6.6
+   - Tatoeba-test.eng-hye: 17.6
+   - Tatoeba-test.eng-isl: 17.2
+   - Tatoeba-test.eng-ita: 39.6
+   - Tatoeba-test.eng-jdt: 5.3
+   - Tatoeba-test.eng-kok: 6.6
+   - Tatoeba-test.eng-ksh: 0.6
+   - Tatoeba-test.eng-kur: 10.7
+   - Tatoeba-test.eng-lad: 0.9
+   - Tatoeba-test.eng-lah: 0.2
+   - Tatoeba-test.eng-lat: 9.3
+   - Tatoeba-test.eng-lav: 28.3
+   - Tatoeba-test.eng-lij: 1.0
+   - Tatoeba-test.eng-lit: 24.6
+   - Tatoeba-test.eng-lld: 0.4
+   - Tatoeba-test.eng-lmo: 0.7
+   - Tatoeba-test.eng-ltz: 16.3
+   - Tatoeba-test.eng-mai: 16.7
+   - Tatoeba-test.eng-mar: 17.6
+   - Tatoeba-test.eng-mfe: 69.5
+   - Tatoeba-test.eng-mkd: 37.1
+   - Tatoeba-test.eng-msa: 27.7
+   - Tatoeba-test.eng-multi: 32.0
+   - Tatoeba-test.eng-mwl: 2.9
+   - Tatoeba-test.eng-nds: 14.1
+   - Tatoeba-test.eng-nep: 0.4
+   - Tatoeba-test.eng-nld: 43.7
+   - Tatoeba-test.eng-non: 0.6
+   - Tatoeba-test.eng-nor: 41.7
+   - Tatoeba-test.eng-oci: 6.4
+   - Tatoeba-test.eng-ori: 4.7
+   - Tatoeba-test.eng-orv: 0.3
+   - Tatoeba-test.eng-oss: 2.6
+   - Tatoeba-test.eng-pan: 6.7
+   - Tatoeba-test.eng-pap: 49.4
+   - Tatoeba-test.eng-pdc: 2.4
+   - Tatoeba-test.eng-pms: 0.8
+   - Tatoeba-test.eng-pol: 30.6
+   - Tatoeba-test.eng-por: 36.7
+   - Tatoeba-test.eng-prg: 0.2
+   - Tatoeba-test.eng-pus: 1.5
+   - Tatoeba-test.eng-roh: 1.6
+   - Tatoeba-test.eng-rom: 7.5
+   - Tatoeba-test.eng-ron: 34.0
+   - Tatoeba-test.eng-rue: 0.1
+   - Tatoeba-test.eng-rus: 28.8
+   - Tatoeba-test.eng-san: 2.2
+   - Tatoeba-test.eng-scn: 1.8
+   - Tatoeba-test.eng-sco: 29.4
+   - Tatoeba-test.eng-sgs: 3.1
+   - Tatoeba-test.eng-sin: 9.1
+   - Tatoeba-test.eng-slv: 15.8
+   - Tatoeba-test.eng-snd: 8.0
+   - Tatoeba-test.eng-spa: 42.8
+   - Tatoeba-test.eng-sqi: 38.5
+   - Tatoeba-test.eng-stq: 11.9
+   - Tatoeba-test.eng-swe: 49.4
+   - Tatoeba-test.eng-swg: 0.8
+   - Tatoeba-test.eng-tgk: 5.6
+   - Tatoeba-test.eng-tly: 0.4
+   - Tatoeba-test.eng-ukr: 30.5
+   - Tatoeba-test.eng-urd: 11.2
+   - Tatoeba-test.eng-vec: 1.1
+   - Tatoeba-test.eng-wln: 6.3
+   - Tatoeba-test.eng-yid: 5.3
+   - Tatoeba-test.eng-zza: 0.5
+   - news-test2008.eng-ces: 12.5
+   - news-test2008.eng-deu: 17.0
+   - news-test2008.eng-fra: 22.2
+   - news-test2008.eng-spa: 24.7
+   - newsdev2014.eng-hin: 6.0
+   - newsdev2016-enro.eng-ron: 21.4
+   - newsdev2017-enlv.eng-lav: 16.8
+   - newsdev2019-engu.eng-guj: 6.1
+   - newsdev2019-enlt.eng-lit: 14.4
+   - newsdiscussdev2015-enfr.eng-fra: 26.1
+   - newsdiscusstest2015-enfr.eng-fra: 29.6
+   - newssyscomb2009.eng-ces: 14.2
+   - newssyscomb2009.eng-deu: 16.5
+   - newssyscomb2009.eng-fra: 24.6
+   - newssyscomb2009.eng-ita: 25.3
+   - newssyscomb2009.eng-spa: 26.2
+   - newstest2009.eng-ces: 13.4
+   - newstest2009.eng-deu: 16.4
+   - newstest2009.eng-fra: 23.3
+   - newstest2009.eng-ita: 25.2
+   - newstest2009.eng-spa: 25.9
+   - newstest2010.eng-ces: 13.6
+   - newstest2010.eng-deu: 18.1
+   - newstest2010.eng-fra: 25.4
+   - newstest2010.eng-spa: 29.9
+   - newstest2011.eng-ces: 14.5
+   - newstest2011.eng-deu: 16.7
+   - newstest2011.eng-fra: 27.4
+   - newstest2011.eng-spa: 31.7
+   - newstest2012.eng-ces: 13.2
+   - newstest2012.eng-deu: 16.9
+   - newstest2012.eng-fra: 25.9
+   - newstest2012.eng-rus: 21.1
+   - newstest2012.eng-spa: 31.4
+   - newstest2013.eng-ces: 14.8
+   - newstest2013.eng-deu: 19.7
+   - newstest2013.eng-fra: 25.9
+   - newstest2013.eng-rus: 15.9
+   - newstest2013.eng-spa: 28.2
+   - newstest2014-hien.eng-hin: 9.2
+   - newstest2015-encs.eng-ces: 14.7
+   - newstest2015-ende.eng-deu: 22.3
+   - newstest2015-enru.eng-rus: 18.3
+   - newstest2016-encs.eng-ces: 16.4
+   - newstest2016-ende.eng-deu: 25.9
+   - newstest2016-enro.eng-ron: 20.6
+   - newstest2016-enru.eng-rus: 16.8
+   - newstest2017-encs.eng-ces: 13.3
+   - newstest2017-ende.eng-deu: 21.1
+   - newstest2017-enlv.eng-lav: 13.0
+   - newstest2017-enru.eng-rus: 18.3
+   - newstest2018-encs.eng-ces: 13.2
+   - newstest2018-ende.eng-deu: 29.3
+   - newstest2018-enru.eng-rus: 15.9
+   - newstest2019-encs.eng-ces: 14.4
+   - newstest2019-ende.eng-deu: 26.1
+   - newstest2019-engu.eng-guj: 7.0
+   - newstest2019-enlt.eng-lit: 10.2
+   - newstest2019-enru.eng-rus: 17.0
 chr-F-scores:
-   - newsdev2014-enghin.eng.hin: 0.315
-   - newsdev2016-enro-engron.eng.ron: 0.523
-   - newsdev2017-enlv-englav.eng.lav: 0.481
-   - newsdev2019-engu-engguj.eng.guj: 0.294
-   - newsdev2019-enlt-englit.eng.lit: 0.472
-   - newsdiscussdev2015-enfr-engfra.eng.fra: 0.543
-   - newsdiscusstest2015-enfr-engfra.eng.fra: 0.572
-   - newssyscomb2009-engces.eng.ces: 0.437
-   - newssyscomb2009-engdeu.eng.deu: 0.486
-   - newssyscomb2009-engfra.eng.fra: 0.546
-   - newssyscomb2009-engita.eng.ita: 0.563
-   - newssyscomb2009-engspa.eng.spa: 0.548
-   - news-test2008-engces.eng.ces: 0.412
-   - news-test2008-engdeu.eng.deu: 0.476
-   - news-test2008-engfra.eng.fra: 0.516
-   - news-test2008-engspa.eng.spa: 0.531
-   - newstest2009-engces.eng.ces: 0.428
-   - newstest2009-engdeu.eng.deu: 0.480
-   - newstest2009-engfra.eng.fra: 0.533
-   - newstest2009-engita.eng.ita: 0.557
-   - newstest2009-engspa.eng.spa: 0.548
-   - newstest2010-engces.eng.ces: 0.431
-   - newstest2010-engdeu.eng.deu: 0.488
-   - newstest2010-engfra.eng.fra: 0.547
-   - newstest2010-engspa.eng.spa: 0.574
-   - newstest2011-engces.eng.ces: 0.433
-   - newstest2011-engdeu.eng.deu: 0.474
-   - newstest2011-engfra.eng.fra: 0.565
-   - newstest2011-engspa.eng.spa: 0.579
-   - newstest2012-engces.eng.ces: 0.414
-   - newstest2012-engdeu.eng.deu: 0.473
-   - newstest2012-engfra.eng.fra: 0.551
-   - newstest2012-engrus.eng.rus: 0.501
-   - newstest2012-engspa.eng.spa: 0.576
-   - newstest2013-engces.eng.ces: 0.435
-   - newstest2013-engdeu.eng.deu: 0.498
-   - newstest2013-engfra.eng.fra: 0.539
-   - newstest2013-engrus.eng.rus: 0.446
-   - newstest2013-engspa.eng.spa: 0.552
-   - newstest2014-hien-enghin.eng.hin: 0.341
-   - newstest2015-encs-engces.eng.ces: 0.438
-   - newstest2015-ende-engdeu.eng.deu: 0.521
-   - newstest2015-enru-engrus.eng.rus: 0.477
-   - newstest2016-encs-engces.eng.ces: 0.453
-   - newstest2016-ende-engdeu.eng.deu: 0.552
-   - newstest2016-enro-engron.eng.ron: 0.507
-   - newstest2016-enru-engrus.eng.rus: 0.466
-   - newstest2017-encs-engces.eng.ces: 0.417
-   - newstest2017-ende-engdeu.eng.deu: 0.512
-   - newstest2017-enlv-englav.eng.lav: 0.449
-   - newstest2017-enru-engrus.eng.rus: 0.481
-   - newstest2018-encs-engces.eng.ces: 0.420
-   - newstest2018-ende-engdeu.eng.deu: 0.577
-   - newstest2018-enru-engrus.eng.rus: 0.468
-   - newstest2019-encs-engces.eng.ces: 0.430
-   - newstest2019-ende-engdeu.eng.deu: 0.549
-   - newstest2019-engu-engguj.eng.guj: 0.304
-   - newstest2019-enlt-englit.eng.lit: 0.423
-   - newstest2019-enru-engrus.eng.rus: 0.449
-   - Tatoeba-test.eng-afr.eng.afr: 0.704
-   - Tatoeba-test.eng-ang.eng.ang: 0.118
-   - Tatoeba-test.eng-arg.eng.arg: 0.104
-   - Tatoeba-test.eng-asm.eng.asm: 0.251
-   - Tatoeba-test.eng-ast.eng.ast: 0.390
-   - Tatoeba-test.eng-awa.eng.awa: 0.002
-   - Tatoeba-test.eng-bel.eng.bel: 0.445
-   - Tatoeba-test.eng-ben.eng.ben: 0.427
-   - Tatoeba-test.eng-bho.eng.bho: 0.003
-   - Tatoeba-test.eng-bre.eng.bre: 0.317
-   - Tatoeba-test.eng-bul.eng.bul: 0.591
-   - Tatoeba-test.eng-cat.eng.cat: 0.628
-   - Tatoeba-test.eng-ces.eng.ces: 0.542
-   - Tatoeba-test.eng-cor.eng.cor: 0.082
-   - Tatoeba-test.eng-cos.eng.cos: 0.157
-   - Tatoeba-test.eng-csb.eng.csb: 0.240
-   - Tatoeba-test.eng-cym.eng.cym: 0.466
-   - Tatoeba-test.eng-dan.eng.dan: 0.669
-   - Tatoeba-test.eng-deu.eng.deu: 0.551
-   - Tatoeba-test.eng-dsb.eng.dsb: 0.135
-   - Tatoeba-test.eng-egl.eng.egl: 0.081
-   - Tatoeba-test.eng-ell.eng.ell: 0.635
-   - Tatoeba-test.eng-enm.eng.enm: 0.234
-   - Tatoeba-test.eng-ext.eng.ext: 0.217
-   - Tatoeba-test.eng-fao.eng.fao: 0.281
-   - Tatoeba-test.eng-fas.eng.fas: 0.255
-   - Tatoeba-test.eng-fra.eng.fra: 0.589
-   - Tatoeba-test.eng-frm.eng.frm: 0.133
-   - Tatoeba-test.eng-frr.eng.frr: 0.084
-   - Tatoeba-test.eng-fry.eng.fry: 0.412
-   - Tatoeba-test.eng-gcf.eng.gcf: 0.098
-   - Tatoeba-test.eng-gla.eng.gla: 0.356
-   - Tatoeba-test.eng-gle.eng.gle: 0.546
-   - Tatoeba-test.eng-glg.eng.glg: 0.605
-   - Tatoeba-test.eng-glv.eng.glv: 0.456
-   - Tatoeba-test.eng-gos.eng.gos: 0.140
-   - Tatoeba-test.eng-got.eng.got: 0.008
-   - Tatoeba-test.eng-grc.eng.grc: 0.005
-   - Tatoeba-test.eng-gsw.eng.gsw: 0.102
-   - Tatoeba-test.eng-guj.eng.guj: 0.388
-   - Tatoeba-test.eng-hat.eng.hat: 0.529
-   - Tatoeba-test.eng-hbs.eng.hbs: 0.565
-   - Tatoeba-test.eng-hif.eng.hif: 0.262
-   - Tatoeba-test.eng-hin.eng.hin: 0.434
-   - Tatoeba-test.eng-hsb.eng.hsb: 0.330
-   - Tatoeba-test.eng-hye.eng.hye: 0.418
-   - Tatoeba-test.eng-isl.eng.isl: 0.432
-   - Tatoeba-test.eng-ita.eng.ita: 0.630
-   - Tatoeba-test.eng-jdt.eng.jdt: 0.008
-   - Tatoeba-test.eng-kok.eng.kok: 0.005
-   - Tatoeba-test.eng-ksh.eng.ksh: 0.108
-   - Tatoeba-test.eng-kur.eng.kur: 0.203
-   - Tatoeba-test.eng-lad.eng.lad: 0.160
-   - Tatoeba-test.eng-lah.eng.lah: 0.001
-   - Tatoeba-test.eng-lat.eng.lat: 0.370
-   - Tatoeba-test.eng-lav.eng.lav: 0.552
-   - Tatoeba-test.eng-lij.eng.lij: 0.136
-   - Tatoeba-test.eng-lit.eng.lit: 0.553
-   - Tatoeba-test.eng-lld.eng.lld: 0.129
-   - Tatoeba-test.eng-lmo.eng.lmo: 0.107
-   - Tatoeba-test.eng-ltz.eng.ltz: 0.361
-   - Tatoeba-test.eng-mai.eng.mai: 0.463
-   - Tatoeba-test.eng-mar.eng.mar: 0.442
-   - Tatoeba-test.eng-mfe.eng.mfe: 0.847
-   - Tatoeba-test.eng-mkd.eng.mkd: 0.582
-   - Tatoeba-test.eng-msa.eng.msa: 0.519
-   - Tatoeba-test.eng.multi: 0.533
-   - Tatoeba-test.eng-mwl.eng.mwl: 0.144
-   - Tatoeba-test.eng-nds.eng.nds: 0.399
-   - Tatoeba-test.eng-nep.eng.nep: 0.002
-   - Tatoeba-test.eng-nld.eng.nld: 0.639
-   - Tatoeba-test.eng-non.eng.non: 0.111
-   - Tatoeba-test.eng-nor.eng.nor: 0.617
-   - Tatoeba-test.eng-oci.eng.oci: 0.288
-   - Tatoeba-test.eng-ori.eng.ori: 0.268
-   - Tatoeba-test.eng-orv.eng.orv: 0.008
-   - Tatoeba-test.eng-oss.eng.oss: 0.254
-   - Tatoeba-test.eng-pan.eng.pan: 0.329
-   - Tatoeba-test.eng-pap.eng.pap: 0.664
-   - Tatoeba-test.eng-pdc.eng.pdc: 0.137
-   - Tatoeba-test.eng-pms.eng.pms: 0.136
-   - Tatoeba-test.eng-pol.eng.pol: 0.559
-   - Tatoeba-test.eng-por.eng.por: 0.603
-   - Tatoeba-test.eng-prg.eng.prg: 0.104
-   - Tatoeba-test.eng-pus.eng.pus: 0.154
-   - Tatoeba-test.eng-roh.eng.roh: 0.223
-   - Tatoeba-test.eng-rom.eng.rom: 0.334
-   - Tatoeba-test.eng-ron.eng.ron: 0.582
-   - Tatoeba-test.eng-rue.eng.rue: 0.007
-   - Tatoeba-test.eng-rus.eng.rus: 0.518
-   - Tatoeba-test.eng-san.eng.san: 0.137
-   - Tatoeba-test.eng-scn.eng.scn: 0.087
-   - Tatoeba-test.eng-sco.eng.sco: 0.519
-   - Tatoeba-test.eng-sgs.eng.sgs: 0.104
-   - Tatoeba-test.eng-sin.eng.sin: 0.353
-   - Tatoeba-test.eng-slv.eng.slv: 0.333
-   - Tatoeba-test.eng-snd.eng.snd: 0.346
-   - Tatoeba-test.eng-spa.eng.spa: 0.641
-   - Tatoeba-test.eng-sqi.eng.sqi: 0.617
-   - Tatoeba-test.eng-stq.eng.stq: 0.363
-   - Tatoeba-test.eng-swe.eng.swe: 0.660
-   - Tatoeba-test.eng-swg.eng.swg: 0.133
-   - Tatoeba-test.eng-tgk.eng.tgk: 0.352
-   - Tatoeba-test.eng-tly.eng.tly: 0.054
-   - Tatoeba-test.eng-ukr.eng.ukr: 0.529
-   - Tatoeba-test.eng-urd.eng.urd: 0.384
-   - Tatoeba-test.eng-vec.eng.vec: 0.100
-   - Tatoeba-test.eng-wln.eng.wln: 0.218
-   - Tatoeba-test.eng-yid.eng.yid: 0.287
-   - Tatoeba-test.eng-zza.eng.zza: 0.081
+   - Tatoeba-test.eng-afr: 0.704
+   - Tatoeba-test.eng-ang: 0.118
+   - Tatoeba-test.eng-arg: 0.104
+   - Tatoeba-test.eng-asm: 0.251
+   - Tatoeba-test.eng-ast: 0.390
+   - Tatoeba-test.eng-awa: 0.002
+   - Tatoeba-test.eng-bel: 0.445
+   - Tatoeba-test.eng-ben: 0.427
+   - Tatoeba-test.eng-bho: 0.003
+   - Tatoeba-test.eng-bre: 0.317
+   - Tatoeba-test.eng-bul: 0.591
+   - Tatoeba-test.eng-cat: 0.628
+   - Tatoeba-test.eng-ces: 0.542
+   - Tatoeba-test.eng-cor: 0.082
+   - Tatoeba-test.eng-cos: 0.157
+   - Tatoeba-test.eng-csb: 0.240
+   - Tatoeba-test.eng-cym: 0.466
+   - Tatoeba-test.eng-dan: 0.669
+   - Tatoeba-test.eng-deu: 0.551
+   - Tatoeba-test.eng-dsb: 0.135
+   - Tatoeba-test.eng-egl: 0.081
+   - Tatoeba-test.eng-ell: 0.635
+   - Tatoeba-test.eng-enm: 0.234
+   - Tatoeba-test.eng-ext: 0.217
+   - Tatoeba-test.eng-fao: 0.281
+   - Tatoeba-test.eng-fas: 0.255
+   - Tatoeba-test.eng-fra: 0.589
+   - Tatoeba-test.eng-frm: 0.133
+   - Tatoeba-test.eng-frr: 0.084
+   - Tatoeba-test.eng-fry: 0.412
+   - Tatoeba-test.eng-gcf: 0.098
+   - Tatoeba-test.eng-gla: 0.356
+   - Tatoeba-test.eng-gle: 0.546
+   - Tatoeba-test.eng-glg: 0.605
+   - Tatoeba-test.eng-glv: 0.456
+   - Tatoeba-test.eng-gos: 0.140
+   - Tatoeba-test.eng-got: 0.008
+   - Tatoeba-test.eng-grc: 0.005
+   - Tatoeba-test.eng-gsw: 0.102
+   - Tatoeba-test.eng-guj: 0.388
+   - Tatoeba-test.eng-hat: 0.529
+   - Tatoeba-test.eng-hbs: 0.565
+   - Tatoeba-test.eng-hif: 0.262
+   - Tatoeba-test.eng-hin: 0.434
+   - Tatoeba-test.eng-hsb: 0.330
+   - Tatoeba-test.eng-hye: 0.418
+   - Tatoeba-test.eng-isl: 0.432
+   - Tatoeba-test.eng-ita: 0.630
+   - Tatoeba-test.eng-jdt: 0.008
+   - Tatoeba-test.eng-kok: 0.005
+   - Tatoeba-test.eng-ksh: 0.108
+   - Tatoeba-test.eng-kur: 0.203
+   - Tatoeba-test.eng-lad: 0.160
+   - Tatoeba-test.eng-lah: 0.001
+   - Tatoeba-test.eng-lat: 0.370
+   - Tatoeba-test.eng-lav: 0.552
+   - Tatoeba-test.eng-lij: 0.136
+   - Tatoeba-test.eng-lit: 0.553
+   - Tatoeba-test.eng-lld: 0.129
+   - Tatoeba-test.eng-lmo: 0.107
+   - Tatoeba-test.eng-ltz: 0.361
+   - Tatoeba-test.eng-mai: 0.463
+   - Tatoeba-test.eng-mar: 0.442
+   - Tatoeba-test.eng-mfe: 0.847
+   - Tatoeba-test.eng-mkd: 0.582
+   - Tatoeba-test.eng-msa: 0.519
+   - Tatoeba-test.eng-multi: 0.533
+   - Tatoeba-test.eng-mwl: 0.144
+   - Tatoeba-test.eng-nds: 0.399
+   - Tatoeba-test.eng-nep: 0.002
+   - Tatoeba-test.eng-nld: 0.639
+   - Tatoeba-test.eng-non: 0.111
+   - Tatoeba-test.eng-nor: 0.617
+   - Tatoeba-test.eng-oci: 0.288
+   - Tatoeba-test.eng-ori: 0.268
+   - Tatoeba-test.eng-orv: 0.008
+   - Tatoeba-test.eng-oss: 0.254
+   - Tatoeba-test.eng-pan: 0.329
+   - Tatoeba-test.eng-pap: 0.664
+   - Tatoeba-test.eng-pdc: 0.137
+   - Tatoeba-test.eng-pms: 0.136
+   - Tatoeba-test.eng-pol: 0.559
+   - Tatoeba-test.eng-por: 0.603
+   - Tatoeba-test.eng-prg: 0.104
+   - Tatoeba-test.eng-pus: 0.154
+   - Tatoeba-test.eng-roh: 0.223
+   - Tatoeba-test.eng-rom: 0.334
+   - Tatoeba-test.eng-ron: 0.582
+   - Tatoeba-test.eng-rue: 0.007
+   - Tatoeba-test.eng-rus: 0.518
+   - Tatoeba-test.eng-san: 0.137
+   - Tatoeba-test.eng-scn: 0.087
+   - Tatoeba-test.eng-sco: 0.519
+   - Tatoeba-test.eng-sgs: 0.104
+   - Tatoeba-test.eng-sin: 0.353
+   - Tatoeba-test.eng-slv: 0.333
+   - Tatoeba-test.eng-snd: 0.346
+   - Tatoeba-test.eng-spa: 0.641
+   - Tatoeba-test.eng-sqi: 0.617
+   - Tatoeba-test.eng-stq: 0.363
+   - Tatoeba-test.eng-swe: 0.660
+   - Tatoeba-test.eng-swg: 0.133
+   - Tatoeba-test.eng-tgk: 0.352
+   - Tatoeba-test.eng-tly: 0.054
+   - Tatoeba-test.eng-ukr: 0.529
+   - Tatoeba-test.eng-urd: 0.384
+   - Tatoeba-test.eng-vec: 0.100
+   - Tatoeba-test.eng-wln: 0.218
+   - Tatoeba-test.eng-yid: 0.287
+   - Tatoeba-test.eng-zza: 0.081
+   - news-test2008.eng-ces: 0.412
+   - news-test2008.eng-deu: 0.476
+   - news-test2008.eng-fra: 0.516
+   - news-test2008.eng-spa: 0.531
+   - newsdev2014.eng-hin: 0.315
+   - newsdev2016-enro.eng-ron: 0.523
+   - newsdev2017-enlv.eng-lav: 0.481
+   - newsdev2019-engu.eng-guj: 0.294
+   - newsdev2019-enlt.eng-lit: 0.472
+   - newsdiscussdev2015-enfr.eng-fra: 0.543
+   - newsdiscusstest2015-enfr.eng-fra: 0.572
+   - newssyscomb2009.eng-ces: 0.437
+   - newssyscomb2009.eng-deu: 0.486
+   - newssyscomb2009.eng-fra: 0.546
+   - newssyscomb2009.eng-ita: 0.563
+   - newssyscomb2009.eng-spa: 0.548
+   - newstest2009.eng-ces: 0.428
+   - newstest2009.eng-deu: 0.480
+   - newstest2009.eng-fra: 0.533
+   - newstest2009.eng-ita: 0.557
+   - newstest2009.eng-spa: 0.548
+   - newstest2010.eng-ces: 0.431
+   - newstest2010.eng-deu: 0.488
+   - newstest2010.eng-fra: 0.547
+   - newstest2010.eng-spa: 0.574
+   - newstest2011.eng-ces: 0.433
+   - newstest2011.eng-deu: 0.474
+   - newstest2011.eng-fra: 0.565
+   - newstest2011.eng-spa: 0.579
+   - newstest2012.eng-ces: 0.414
+   - newstest2012.eng-deu: 0.473
+   - newstest2012.eng-fra: 0.551
+   - newstest2012.eng-rus: 0.501
+   - newstest2012.eng-spa: 0.576
+   - newstest2013.eng-ces: 0.435
+   - newstest2013.eng-deu: 0.498
+   - newstest2013.eng-fra: 0.539
+   - newstest2013.eng-rus: 0.446
+   - newstest2013.eng-spa: 0.552
+   - newstest2014-hien.eng-hin: 0.341
+   - newstest2015-encs.eng-ces: 0.438
+   - newstest2015-ende.eng-deu: 0.521
+   - newstest2015-enru.eng-rus: 0.477
+   - newstest2016-encs.eng-ces: 0.453
+   - newstest2016-ende.eng-deu: 0.552
+   - newstest2016-enro.eng-ron: 0.507
+   - newstest2016-enru.eng-rus: 0.466
+   - newstest2017-encs.eng-ces: 0.417
+   - newstest2017-ende.eng-deu: 0.512
+   - newstest2017-enlv.eng-lav: 0.449
+   - newstest2017-enru.eng-rus: 0.481
+   - newstest2018-encs.eng-ces: 0.420
+   - newstest2018-ende.eng-deu: 0.577
+   - newstest2018-enru.eng-rus: 0.468
+   - newstest2019-encs.eng-ces: 0.430
+   - newstest2019-ende.eng-deu: 0.549
+   - newstest2019-engu.eng-guj: 0.304
+   - newstest2019-enlt.eng-lit: 0.423
+   - newstest2019-enru.eng-rus: 0.449

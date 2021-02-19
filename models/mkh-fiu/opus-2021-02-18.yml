@@ -1,0 +1,47 @@
+release: mkh-fiu/opus-2021-02-18.zip
+release-date: 2021-02-18
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>fin<<
+   - >>hun<<
+source-languages:
+   - khm
+   - vie
+target-languages:
+   - fin
+   - hun
+training-data:
+   - khm-fin: Tatoeba-train (134756) 
+   - khm_Latn-fin: Tatoeba-train (2330) 
+   - vie-fin: Tatoeba-train (1000000) 
+   - vie-hun: Tatoeba-train (1000000) 
+validation-data:
+   - fin-khm: Tatoeba-dev, 982
+   - fin-khm_Latn: Tatoeba-dev, 18
+   - fin-vie: Tatoeba-dev, 1000
+   - hun-vie: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 2998
+   - devset = top 2998  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.khm-fin: 5/22
+   - Tatoeba-test.multi-multi: 37/212
+   - Tatoeba-test.vie-fin: 3/14
+   - Tatoeba-test.vie-hun: 29/176
+BLEU-scores:
+   - Tatoeba-test.khm-fin: 2.7
+   - Tatoeba-test.multi-multi: 14.6
+   - Tatoeba-test.vie-fin: 53.0
+   - Tatoeba-test.vie-hun: 11.0
+chr-F-scores:
+   - Tatoeba-test.khm-fin: 0.117
+   - Tatoeba-test.multi-multi: 0.402
+   - Tatoeba-test.vie-fin: 0.769
+   - Tatoeba-test.vie-hun: 0.401

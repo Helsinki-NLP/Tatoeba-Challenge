@@ -11,14 +11,15 @@ subword-models:
    - target: target.spm
 source-languages:
    - tgl
-   - tgl_Latn
 target-languages:
    - pob
    - por
 use-target-labels:
    - >>pob<<
    - >>por<<
+test-data:
+   - Tatoeba-test.tgl-por: 1777/10677
 BLEU-scores:
-   - Tatoeba-test.tgl.por: 28.9
+   - Tatoeba-test.tgl-por: 28.9
 chr-F-scores:
-   - Tatoeba-test.tgl.por: 0.521
+   - Tatoeba-test.tgl-por: 0.521

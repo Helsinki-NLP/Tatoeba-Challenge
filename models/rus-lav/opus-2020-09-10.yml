@@ -17,7 +17,9 @@ target-languages:
 use-target-labels:
    - >>lav<<
    - >>ltg<<
+test-data:
+   - Tatoeba-test.rus-lav: 274/1175
 BLEU-scores:
-   - Tatoeba-test.rus.lav: 49.2
+   - Tatoeba-test.rus-lav: 49.2
 chr-F-scores:
-   - Tatoeba-test.rus.lav: 0.693
+   - Tatoeba-test.rus-lav: 0.693

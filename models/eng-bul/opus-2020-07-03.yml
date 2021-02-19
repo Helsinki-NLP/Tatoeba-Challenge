@@ -13,11 +13,12 @@ source-languages:
    - eng
 target-languages:
    - bul
-   - bul_Latn
 use-target-labels:
    - >>bul<<
    - >>bul_Latn<<
+test-data:
+   - Tatoeba-test.eng-bul: 10000/56740
 BLEU-scores:
-   - Tatoeba-test.eng.bul: 50.6
+   - Tatoeba-test.eng-bul: 50.6
 chr-F-scores:
-   - Tatoeba-test.eng.bul: 0.680
+   - Tatoeba-test.eng-bul: 0.680

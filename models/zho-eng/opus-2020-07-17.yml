@@ -10,22 +10,18 @@ subword-models:
    - source: source.spm
    - target: target.spm
 source-languages:
-   - cjy_Hans
-   - cjy_Hant
+   - cjy
    - cmn
-   - cmn_Hans
-   - cmn_Hant
    - gan
    - lzh
-   - lzh_Hans
    - nan
    - wuu
    - yue
-   - yue_Hans
-   - yue_Hant
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.zho-eng: 10000/70665
 BLEU-scores:
-   - Tatoeba-test.zho.eng: 36.1
+   - Tatoeba-test.zho-eng: 36.1
 chr-F-scores:
-   - Tatoeba-test.zho.eng: 0.548
+   - Tatoeba-test.zho-eng: 0.548

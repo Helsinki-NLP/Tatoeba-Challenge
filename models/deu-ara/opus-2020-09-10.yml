@@ -23,7 +23,9 @@ use-target-labels:
    - >>ara<<
    - >>arq<<
    - >>arz<<
+test-data:
+   - Tatoeba-test.deu-ara: 1209/5388
 BLEU-scores:
-   - Tatoeba-test.deu.ara: 17.8
+   - Tatoeba-test.deu-ara: 17.8
 chr-F-scores:
-   - Tatoeba-test.deu.ara: 0.486
+   - Tatoeba-test.deu-ara: 0.486

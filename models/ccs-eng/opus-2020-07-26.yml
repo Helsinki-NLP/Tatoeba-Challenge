@@ -13,9 +13,12 @@ source-languages:
    - kat
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.kat-eng: 983/4898
+   - Tatoeba-test.multi-eng: 983/4898
 BLEU-scores:
-   - Tatoeba-test.kat-eng.kat.eng: 13.9
-   - Tatoeba-test.multi.eng: 13.9
+   - Tatoeba-test.kat-eng: 13.9
+   - Tatoeba-test.multi-eng: 13.9
 chr-F-scores:
-   - Tatoeba-test.kat-eng.kat.eng: 0.311
-   - Tatoeba-test.multi.eng: 0.311
+   - Tatoeba-test.kat-eng: 0.311
+   - Tatoeba-test.multi-eng: 0.311

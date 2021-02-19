@@ -1,0 +1,33 @@
+release: ita-ces/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ita
+target-languages:
+   - ces
+training-data:
+   - ces-ita: Tatoeba-train (34385112) 
+validation-data:
+   - ces-ita: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newssyscomb2009.ita-ces: 502/10032
+   - newstest2009.ita-ces: 2525/55533
+   - Tatoeba-test.ita-ces: 1099/6973
+BLEU-scores:
+   - newssyscomb2009.ita-ces: 22.8
+   - newstest2009.ita-ces: 21.3
+   - Tatoeba-test.ita-ces: 41.2
+chr-F-scores:
+   - newssyscomb2009.ita-ces: 0.508
+   - newstest2009.ita-ces: 0.494
+   - Tatoeba-test.ita-ces: 0.619

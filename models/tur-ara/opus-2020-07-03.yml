@@ -12,16 +12,17 @@ subword-models:
 source-languages:
    - tur
 target-languages:
-   - apc_Latn
+   - apc
    - ara
-   - ara_Latn
-   - arq_Latn
+   - arq
 use-target-labels:
    - >>apc_Latn<<
    - >>ara<<
    - >>ara_Latn<<
    - >>arq_Latn<<
+test-data:
+   - Tatoeba-test.tur-ara: 1263/6038
 BLEU-scores:
-   - Tatoeba-test.tur.ara: 14.9
+   - Tatoeba-test.tur-ara: 14.9
 chr-F-scores:
-   - Tatoeba-test.tur.ara: 0.455
+   - Tatoeba-test.tur-ara: 0.455

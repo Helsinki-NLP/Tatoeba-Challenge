@@ -1,23 +1,3 @@
-# opus-2021-02-16.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): por
-* target language(s): tgl
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-2021-02-16.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/por-tgl/opus-2021-02-16.zip)
-* test set translations: [opus-2021-02-16.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/por-tgl/opus-2021-02-16.test.txt)
-* test set scores: [opus-2021-02-16.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/por-tgl/opus-2021-02-16.eval.txt)
-
-## Benchmarks
-
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.por.tgl 	| 26.1 	| 0.555 |
-| Tatoeba-test.por-tgl.por.tgl 	| 24.0 	| 0.528 |
-
 # opus-2020-06-17.zip
 
 * dataset: opus
@@ -35,4 +15,24 @@
 | testset               | BLEU  | chr-F |
 |-----------------------|-------|-------|
 | Tatoeba-test.por.tgl 	| 28.4 	| 0.565 |
+
+# opus-2021-02-18.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): pob por
+* target language(s): tgl
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>tgl_Latn<< >>tgl<<
+* download: [opus-2021-02-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/por-tgl/opus-2021-02-18.zip)
+* test set translations: [opus-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/por-tgl/opus-2021-02-18.test.txt)
+* test set scores: [opus-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/por-tgl/opus-2021-02-18.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.por-tgl 	| 26.1 	| 0.555 	| 3554 	| 27240 	| 1.000 |
 

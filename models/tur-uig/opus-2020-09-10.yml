@@ -12,12 +12,13 @@ subword-models:
 source-languages:
    - tur
 target-languages:
-   - uig_Arab
-   - uig_Latn
+   - uig
 use-target-labels:
    - >>uig_Arab<<
    - >>uig_Latn<<
+test-data:
+   - Tatoeba-test.tur-uig: 1400/6252
 BLEU-scores:
-   - Tatoeba-test.tur.uig: 0.0
+   - Tatoeba-test.tur-uig: 0.0
 chr-F-scores:
-   - Tatoeba-test.tur.uig: 0.126
+   - Tatoeba-test.tur-uig: 0.126

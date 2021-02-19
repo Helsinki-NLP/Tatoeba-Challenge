@@ -17,7 +17,9 @@ target-languages:
 use-target-labels:
    - >>fas<<
    - >>pes<<
+test-data:
+   - Tatoeba-test.rus-fas: 5/32
 BLEU-scores:
-   - Tatoeba-test.rus.fas: 6.5
+   - Tatoeba-test.rus-fas: 6.5
 chr-F-scores:
-   - Tatoeba-test.rus.fas: 0.347
+   - Tatoeba-test.rus-fas: 0.347

@@ -65,13 +65,18 @@ use-target-labels:
    - >>wae<<
    - >>yid<<
    - >>zea<<
+test-data:
+   - Tatoeba-test.multi-multi: 10000/56628
+   - Tatoeba-test.rus-deu: 10000/63048
+   - newstest2012.rus-deu: 3003/62513
+   - newstest2013.rus-deu: 3000/54690
 BLEU-scores:
-   - newstest2012-rusdeu.rus.deu: 15.1
-   - newstest2013-rusdeu.rus.deu: 19.0
-   - Tatoeba-test.multi.multi: 13.1
-   - Tatoeba-test.rus-deu.rus.deu: 47.5
+   - Tatoeba-test.multi-multi: 13.1
+   - Tatoeba-test.rus-deu: 47.5
+   - newstest2012.rus-deu: 15.1
+   - newstest2013.rus-deu: 19.0
 chr-F-scores:
-   - newstest2012-rusdeu.rus.deu: 0.451
-   - newstest2013-rusdeu.rus.deu: 0.487
-   - Tatoeba-test.multi.multi: 0.290
-   - Tatoeba-test.rus-deu.rus.deu: 0.661
+   - Tatoeba-test.multi-multi: 0.290
+   - Tatoeba-test.rus-deu: 0.661
+   - newstest2012.rus-deu: 0.451
+   - newstest2013.rus-deu: 0.487

@@ -13,11 +13,13 @@ source-languages:
    - ita
 target-languages:
    - ind
-   - zsm_Latn
+   - zsm
 use-target-labels:
    - >>ind<<
    - >>zsm_Latn<<
+test-data:
+   - Tatoeba-test.ita-msa: 426/2279
 BLEU-scores:
-   - Tatoeba-test.ita.msa: 26.0
+   - Tatoeba-test.ita-msa: 26.0
 chr-F-scores:
-   - Tatoeba-test.ita.msa: 0.536
+   - Tatoeba-test.ita-msa: 0.536

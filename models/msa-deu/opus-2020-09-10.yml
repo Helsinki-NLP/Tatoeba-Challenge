@@ -11,15 +11,16 @@ subword-models:
    - target: target.spm
 source-languages:
    - ind
-   - jak_Latn
+   - jak
    - min
-   - msa_Latn
+   - msa
    - zlm
-   - zlm_Latn
-   - zsm_Latn
+   - zsm
 target-languages:
    - deu
+test-data:
+   - Tatoeba-test.msa-deu: 535/3496
 BLEU-scores:
-   - Tatoeba-test.msa.deu: 37.9
+   - Tatoeba-test.msa-deu: 37.9
 chr-F-scores:
-   - Tatoeba-test.msa.deu: 0.592
+   - Tatoeba-test.msa-deu: 0.592

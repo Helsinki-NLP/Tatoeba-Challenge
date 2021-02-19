@@ -10,12 +10,15 @@ subword-models:
    - source: source.spm
    - target: target.spm
 source-languages:
-   - shs_Latn
+   - shs
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.multi-eng: 0/0
+   - Tatoeba-test.shs-eng: 43/168
 BLEU-scores:
-   - Tatoeba-test.multi.eng: 2.1
-   - Tatoeba-test.shs-eng.shs.eng: 2.1
+   - Tatoeba-test.multi-eng: 2.1
+   - Tatoeba-test.shs-eng: 2.1
 chr-F-scores:
-   - Tatoeba-test.multi.eng: 0.092
-   - Tatoeba-test.shs-eng.shs.eng: 0.092
+   - Tatoeba-test.multi-eng: 0.092
+   - Tatoeba-test.shs-eng: 0.092

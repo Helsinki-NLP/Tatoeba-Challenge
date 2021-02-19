@@ -1,21 +1,20 @@
-# opus-2021-02-11.zip
+# opus-2020-07-14.zip
 
 * dataset: opus
 * model: transformer
-* source language(s): zho
+* source language(s): cjy_Hans cjy_Hant cmn cmn_Hans cmn_Hant gan lzh lzh_Hans nan wuu yue yue_Hans yue_Hant
 * target language(s): eng
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* download: [opus-2021-02-11.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2021-02-11.zip)
-* test set translations: [opus-2021-02-11.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2021-02-11.test.txt)
-* test set scores: [opus-2021-02-11.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2021-02-11.eval.txt)
+* download: [opus-2020-07-14.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.zip)
+* test set translations: [opus-2020-07-14.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.test.txt)
+* test set scores: [opus-2020-07-14.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.eval.txt)
 
 ## Benchmarks
 
 | testset               | BLEU  | chr-F |
 |-----------------------|-------|-------|
-| Tatoeba-test.zho.eng 	| 36.0 	| 0.546 |
-| Tatoeba-test.zho-eng.zho.eng 	| 36.0 	| 0.547 |
+| Tatoeba-test.zho.eng 	| 35.6 	| 0.545 |
 
 # opus-2020-07-17.zip
 
@@ -35,21 +34,21 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.zho.eng 	| 36.1 	| 0.548 |
 
-# opus-2020-07-14.zip
+# opus-2021-02-18.zip
 
 * dataset: opus
 * model: transformer
-* source language(s): cjy_Hans cjy_Hant cmn cmn_Hans cmn_Hant gan lzh lzh_Hans nan wuu yue yue_Hans yue_Hant
+* source language(s): cjy cmn gan hak hsn lzh nan wuu yue
 * target language(s): eng
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* download: [opus-2020-07-14.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.zip)
-* test set translations: [opus-2020-07-14.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.test.txt)
-* test set scores: [opus-2020-07-14.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.eval.txt)
+* download: [opus-2021-02-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2021-02-18.zip)
+* test set translations: [opus-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2021-02-18.test.txt)
+* test set scores: [opus-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2021-02-18.eval.txt)
 
 ## Benchmarks
 
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.zho.eng 	| 35.6 	| 0.545 |
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.zho-eng 	| 36.0 	| 0.546 	| 9999 	| 82822 	| 0.946 |
 

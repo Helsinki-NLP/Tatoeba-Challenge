@@ -13,13 +13,13 @@ source-languages:
    - eng
 target-languages:
    - tuk
-   - tuk_Cyrl
-   - tuk_Latn
 use-target-labels:
    - >>tuk<<
    - >>tuk_Cyrl<<
    - >>tuk_Latn<<
+test-data:
+   - Tatoeba-test.eng-tuk: 2500/12809
 BLEU-scores:
-   - Tatoeba-test.eng.tuk: 0.9
+   - Tatoeba-test.eng-tuk: 0.9
 chr-F-scores:
-   - Tatoeba-test.eng.tuk: 0.156
+   - Tatoeba-test.eng-tuk: 0.156

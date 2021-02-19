@@ -18,11 +18,15 @@ target-languages:
 use-target-labels:
    - >>eng<<
    - >>som<<
+test-data:
+   - Tatoeba-test.eng-som: 1/2
+   - Tatoeba-test.multi-multi: 2/4
+   - Tatoeba-test.som-eng: 1/2
 BLEU-scores:
-   - Tatoeba-test.eng-som.eng.som: 0.0
-   - Tatoeba-test.multi.multi: 11.0
-   - Tatoeba-test.som-eng.som.eng: 12.7
+   - Tatoeba-test.eng-som: 0.0
+   - Tatoeba-test.multi-multi: 11.0
+   - Tatoeba-test.som-eng: 12.7
 chr-F-scores:
-   - Tatoeba-test.eng-som.eng.som: 0.158
-   - Tatoeba-test.multi.multi: 0.183
-   - Tatoeba-test.som-eng.som.eng: 0.214
+   - Tatoeba-test.eng-som: 0.158
+   - Tatoeba-test.multi-multi: 0.183
+   - Tatoeba-test.som-eng: 0.214

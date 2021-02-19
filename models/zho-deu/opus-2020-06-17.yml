@@ -11,18 +11,14 @@ subword-models:
    - target: target.spm
 source-languages:
    - cmn
-   - cmn_Bopo
-   - cmn_Hang
-   - cmn_Hani
-   - cmn_Hira
-   - cmn_Kana
-   - cmn_Latn
-   - lzh_Hani
-   - wuu_Hani
-   - yue_Hani
+   - lzh
+   - wuu
+   - yue
 target-languages:
    - deu
+test-data:
+   - Tatoeba-test.zho-deu: 2500/15806
 BLEU-scores:
-   - Tatoeba-test.zho.deu: 32.1
+   - Tatoeba-test.zho-deu: 32.1
 chr-F-scores:
-   - Tatoeba-test.zho.deu: 0.522
+   - Tatoeba-test.zho-deu: 0.522

@@ -15,7 +15,7 @@ target-languages:
    - lav
    - lit
    - ltg
-   - prg_Latn
+   - prg
    - sgs
 use-target-labels:
    - >>lav<<
@@ -23,23 +23,33 @@ use-target-labels:
    - >>ltg<<
    - >>prg_Latn<<
    - >>sgs<<
+test-data:
+   - Tatoeba-test.eng-lav: 1631/7915
+   - Tatoeba-test.eng-lit: 2500/11920
+   - Tatoeba-test.eng-multi: 4396/21158
+   - Tatoeba-test.eng-prg: 213/1243
+   - Tatoeba-test.eng-sgs: 52/80
+   - newsdev2017-enlv.eng-lav: 2003/34526
+   - newsdev2019-enlt.eng-lit: 2000/32998
+   - newstest2017-enlv.eng-lav: 2001/32754
+   - newstest2019-enlt.eng-lit: 998/16593
 BLEU-scores:
-   - newsdev2017-enlv-englav.eng.lav: 24.0
-   - newsdev2019-enlt-englit.eng.lit: 20.9
-   - newstest2017-enlv-englav.eng.lav: 18.3
-   - newstest2019-enlt-englit.eng.lit: 13.6
-   - Tatoeba-test.eng-lav.eng.lav: 42.8
-   - Tatoeba-test.eng-lit.eng.lit: 37.1
-   - Tatoeba-test.eng.multi: 37.0
-   - Tatoeba-test.eng-prg.eng.prg: 0.5
-   - Tatoeba-test.eng-sgs.eng.sgs: 4.1
+   - Tatoeba-test.eng-lav: 42.8
+   - Tatoeba-test.eng-lit: 37.1
+   - Tatoeba-test.eng-multi: 37.0
+   - Tatoeba-test.eng-prg: 0.5
+   - Tatoeba-test.eng-sgs: 4.1
+   - newsdev2017-enlv.eng-lav: 24.0
+   - newsdev2019-enlt.eng-lit: 20.9
+   - newstest2017-enlv.eng-lav: 18.3
+   - newstest2019-enlt.eng-lit: 13.6
 chr-F-scores:
-   - newsdev2017-enlv-englav.eng.lav: 0.546
-   - newsdev2019-enlt-englit.eng.lit: 0.533
-   - newstest2017-enlv-englav.eng.lav: 0.506
-   - newstest2019-enlt-englit.eng.lit: 0.466
-   - Tatoeba-test.eng-lav.eng.lav: 0.652
-   - Tatoeba-test.eng-lit.eng.lit: 0.650
-   - Tatoeba-test.eng.multi: 0.616
-   - Tatoeba-test.eng-prg.eng.prg: 0.130
-   - Tatoeba-test.eng-sgs.eng.sgs: 0.178
+   - Tatoeba-test.eng-lav: 0.652
+   - Tatoeba-test.eng-lit: 0.650
+   - Tatoeba-test.eng-multi: 0.616
+   - Tatoeba-test.eng-prg: 0.130
+   - Tatoeba-test.eng-sgs: 0.178
+   - newsdev2017-enlv.eng-lav: 0.546
+   - newsdev2019-enlt.eng-lit: 0.533
+   - newstest2017-enlv.eng-lav: 0.506
+   - newstest2019-enlt.eng-lit: 0.466

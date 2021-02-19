@@ -13,11 +13,12 @@ source-languages:
    - eng
 target-languages:
    - tam
-   - tam_Deva
 use-target-labels:
    - >>tam<<
    - >>tam_Deva<<
+test-data:
+   - Tatoeba-test.eng-tam: 311/1364
 BLEU-scores:
-   - Tatoeba-test.eng.tam: 6.8
+   - Tatoeba-test.eng-tam: 6.8
 chr-F-scores:
-   - Tatoeba-test.eng.tam: 0.405
+   - Tatoeba-test.eng-tam: 0.405

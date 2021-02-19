@@ -23,17 +23,24 @@ source-languages:
    - tir
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.amh-eng: 190/802
+   - Tatoeba-test.ara-eng: 10000/62449
+   - Tatoeba-test.heb-eng: 10000/62332
+   - Tatoeba-test.mlt-eng: 203/935
+   - Tatoeba-test.multi-eng: 10000/61612
+   - Tatoeba-test.tir-eng: 69/426
 BLEU-scores:
-   - Tatoeba-test.amh-eng.amh.eng: 42.4
-   - Tatoeba-test.ara-eng.ara.eng: 37.5
-   - Tatoeba-test.heb-eng.heb.eng: 43.4
-   - Tatoeba-test.mlt-eng.mlt.eng: 48.1
-   - Tatoeba-test.multi.eng: 40.6
-   - Tatoeba-test.tir-eng.tir.eng: 15.5
+   - Tatoeba-test.amh-eng: 42.4
+   - Tatoeba-test.ara-eng: 37.5
+   - Tatoeba-test.heb-eng: 43.4
+   - Tatoeba-test.mlt-eng: 48.1
+   - Tatoeba-test.multi-eng: 40.6
+   - Tatoeba-test.tir-eng: 15.5
 chr-F-scores:
-   - Tatoeba-test.amh-eng.amh.eng: 0.592
-   - Tatoeba-test.ara-eng.ara.eng: 0.555
-   - Tatoeba-test.heb-eng.heb.eng: 0.599
-   - Tatoeba-test.mlt-eng.mlt.eng: 0.647
-   - Tatoeba-test.multi.eng: 0.578
-   - Tatoeba-test.tir-eng.tir.eng: 0.341
+   - Tatoeba-test.amh-eng: 0.592
+   - Tatoeba-test.ara-eng: 0.555
+   - Tatoeba-test.heb-eng: 0.599
+   - Tatoeba-test.mlt-eng: 0.647
+   - Tatoeba-test.multi-eng: 0.578
+   - Tatoeba-test.tir-eng: 0.341

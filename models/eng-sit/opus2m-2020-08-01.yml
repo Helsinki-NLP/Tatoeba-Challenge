@@ -14,24 +14,15 @@ source-languages:
 target-languages:
    - bod
    - brx
-   - brx_Latn
-   - cjy_Hans
-   - cjy_Hant
+   - cjy
    - cmn
-   - cmn_Hans
-   - cmn_Hant
    - gan
    - lzh
-   - lzh_Hans
    - mya
    - nan
    - wuu
    - yue
-   - yue_Hans
-   - yue_Hant
    - zho
-   - zho_Hans
-   - zho_Hant
 use-target-labels:
    - >>bod<<
    - >>brx<<
@@ -53,23 +44,33 @@ use-target-labels:
    - >>zho<<
    - >>zho_Hans<<
    - >>zho_Hant<<
+test-data:
+   - Tatoeba-test.eng-bod: 38/42
+   - Tatoeba-test.eng-brx: 12/40
+   - Tatoeba-test.eng-multi: 10000/10718
+   - Tatoeba-test.eng-mya: 216/1196
+   - Tatoeba-test.eng-zho: 10000/10211
+   - newsdev2017-enzh.eng-zho: 2002/2040
+   - newstest2017-enzh.eng-zho: 2001/2580
+   - newstest2018-enzh.eng-zho: 3981/5709
+   - newstest2019-enzh.eng-zho: 1997/6125
 BLEU-scores:
-   - newsdev2017-enzh-engzho.eng.zho: 23.5
-   - newstest2017-enzh-engzho.eng.zho: 23.2
-   - newstest2018-enzh-engzho.eng.zho: 25.0
-   - newstest2019-enzh-engzho.eng.zho: 20.2
-   - Tatoeba-test.eng-bod.eng.bod: 0.4
-   - Tatoeba-test.eng-brx.eng.brx: 0.5
-   - Tatoeba-test.eng.multi: 25.7
-   - Tatoeba-test.eng-mya.eng.mya: 0.2
-   - Tatoeba-test.eng-zho.eng.zho: 29.2
+   - Tatoeba-test.eng-bod: 0.4
+   - Tatoeba-test.eng-brx: 0.5
+   - Tatoeba-test.eng-multi: 25.7
+   - Tatoeba-test.eng-mya: 0.2
+   - Tatoeba-test.eng-zho: 29.2
+   - newsdev2017-enzh.eng-zho: 23.5
+   - newstest2017-enzh.eng-zho: 23.2
+   - newstest2018-enzh.eng-zho: 25.0
+   - newstest2019-enzh.eng-zho: 20.2
 chr-F-scores:
-   - newsdev2017-enzh-engzho.eng.zho: 0.217
-   - newstest2017-enzh-engzho.eng.zho: 0.223
-   - newstest2018-enzh-engzho.eng.zho: 0.230
-   - newstest2019-enzh-engzho.eng.zho: 0.225
-   - Tatoeba-test.eng-bod.eng.bod: 0.147
-   - Tatoeba-test.eng-brx.eng.brx: 0.012
-   - Tatoeba-test.eng.multi: 0.223
-   - Tatoeba-test.eng-mya.eng.mya: 0.222
-   - Tatoeba-test.eng-zho.eng.zho: 0.249
+   - Tatoeba-test.eng-bod: 0.147
+   - Tatoeba-test.eng-brx: 0.012
+   - Tatoeba-test.eng-multi: 0.223
+   - Tatoeba-test.eng-mya: 0.222
+   - Tatoeba-test.eng-zho: 0.249
+   - newsdev2017-enzh.eng-zho: 0.217
+   - newstest2017-enzh.eng-zho: 0.223
+   - newstest2018-enzh.eng-zho: 0.230
+   - newstest2019-enzh.eng-zho: 0.225

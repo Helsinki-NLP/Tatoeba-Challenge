@@ -17,7 +17,9 @@ target-languages:
 use-target-labels:
    - >>nno<<
    - >>nob<<
+test-data:
+   - Tatoeba-test.swe-nor: 562/3039
 BLEU-scores:
-   - Tatoeba-test.swe.nor: 65.8
+   - Tatoeba-test.swe-nor: 65.8
 chr-F-scores:
-   - Tatoeba-test.swe.nor: 0.796
+   - Tatoeba-test.swe-nor: 0.796

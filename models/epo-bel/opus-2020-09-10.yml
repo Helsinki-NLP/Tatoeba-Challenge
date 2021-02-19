@@ -13,11 +13,12 @@ source-languages:
    - epo
 target-languages:
    - bel
-   - bel_Latn
 use-target-labels:
    - >>bel<<
    - >>bel_Latn<<
+test-data:
+   - Tatoeba-test.epo-bel: 734/3957
 BLEU-scores:
-   - Tatoeba-test.epo.bel: 0.1
+   - Tatoeba-test.epo-bel: 0.1
 chr-F-scores:
-   - Tatoeba-test.epo.bel: 0.007
+   - Tatoeba-test.epo-bel: 0.007

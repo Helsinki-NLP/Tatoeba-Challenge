@@ -14,11 +14,15 @@ source-languages:
    - tha
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.lao-eng: 36/182
+   - Tatoeba-test.multi-eng: 0/0
+   - Tatoeba-test.tha-eng: 1145/6115
 BLEU-scores:
-   - Tatoeba-test.lao-eng.lao.eng: 1.1
-   - Tatoeba-test.multi.eng: 38.9
-   - Tatoeba-test.tha-eng.tha.eng: 40.6
+   - Tatoeba-test.lao-eng: 1.1
+   - Tatoeba-test.multi-eng: 38.9
+   - Tatoeba-test.tha-eng: 40.6
 chr-F-scores:
-   - Tatoeba-test.lao-eng.lao.eng: 0.133
-   - Tatoeba-test.multi.eng: 0.572
-   - Tatoeba-test.tha-eng.tha.eng: 0.588
+   - Tatoeba-test.lao-eng: 0.133
+   - Tatoeba-test.multi-eng: 0.572
+   - Tatoeba-test.tha-eng: 0.588

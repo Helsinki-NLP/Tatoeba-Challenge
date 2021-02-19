@@ -11,19 +11,23 @@ subword-models:
    - target: target.spm
 source-languages:
    - ind
-   - max_Latn
+   - max
    - min
    - pap
-   - tmw_Latn
-   - zlm_Latn
-   - zsm_Latn
+   - tmw
+   - zlm
+   - zsm
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.msa-eng: 5000/31183
+   - Tatoeba-test.multi-eng: 5070/31458
+   - Tatoeba-test.pap-eng: 70/275
 BLEU-scores:
-   - Tatoeba-test.msa-eng.msa.eng: 40.0
-   - Tatoeba-test.multi.eng: 40.1
-   - Tatoeba-test.pap-eng.pap.eng: 57.2
+   - Tatoeba-test.msa-eng: 40.0
+   - Tatoeba-test.multi-eng: 40.1
+   - Tatoeba-test.pap-eng: 57.2
 chr-F-scores:
-   - Tatoeba-test.msa-eng.msa.eng: 0.585
-   - Tatoeba-test.multi.eng: 0.585
-   - Tatoeba-test.pap-eng.pap.eng: 0.625
+   - Tatoeba-test.msa-eng: 0.585
+   - Tatoeba-test.multi-eng: 0.585
+   - Tatoeba-test.pap-eng: 0.625

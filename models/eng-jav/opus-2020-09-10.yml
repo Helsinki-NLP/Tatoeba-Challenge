@@ -13,11 +13,12 @@ source-languages:
    - eng
 target-languages:
    - jav
-   - jav_Java
 use-target-labels:
    - >>jav<<
    - >>jav_Java<<
+test-data:
+   - Tatoeba-test.eng-jav: 259/1320
 BLEU-scores:
-   - Tatoeba-test.eng.jav: 0.2
+   - Tatoeba-test.eng-jav: 0.2
 chr-F-scores:
-   - Tatoeba-test.eng.jav: 0.085
+   - Tatoeba-test.eng-jav: 0.085

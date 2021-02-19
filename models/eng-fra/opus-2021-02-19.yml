@@ -1,0 +1,57 @@
+release: eng-fra/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - fra
+training-data:
+   - fra-eng: Tatoeba-train (180923857) 
+validation-data:
+   - eng-fra: Tatoeba-dev, 250098
+   - total size of shuffled dev data: 249757
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newsdiscussdev2015-enfr.eng-fra: 1500/27986
+   - newsdiscusstest2015-enfr.eng-fra: 1500/28027
+   - newssyscomb2009.eng-fra: 502/12334
+   - news-test2008.eng-fra: 2051/52685
+   - newstest2009.eng-fra: 2525/69278
+   - newstest2010.eng-fra: 2489/66043
+   - newstest2011.eng-fra: 3003/80626
+   - newstest2012.eng-fra: 3003/78011
+   - newstest2013.eng-fra: 3000/70037
+   - Tatoeba-test.eng-fra: 10000/80769
+   - tico19-test.eng-fra: 2100/64655
+BLEU-scores:
+   - newsdiscussdev2015-enfr.eng-fra: 33.7
+   - newsdiscusstest2015-enfr.eng-fra: 40.4
+   - newssyscomb2009.eng-fra: 30.4
+   - news-test2008.eng-fra: 27.5
+   - newstest2009.eng-fra: 29.7
+   - newstest2010.eng-fra: 33.1
+   - newstest2011.eng-fra: 34.4
+   - newstest2012.eng-fra: 31.8
+   - newstest2013.eng-fra: 33.4
+   - Tatoeba-test.eng-fra: 50.6
+   - tico19-test.eng-fra: 41.5
+chr-F-scores:
+   - newsdiscussdev2015-enfr.eng-fra: 0.604
+   - newsdiscusstest2015-enfr.eng-fra: 0.645
+   - newssyscomb2009.eng-fra: 0.588
+   - news-test2008.eng-fra: 0.554
+   - newstest2009.eng-fra: 0.579
+   - newstest2010.eng-fra: 0.598
+   - newstest2011.eng-fra: 0.612
+   - newstest2012.eng-fra: 0.592
+   - newstest2013.eng-fra: 0.591
+   - Tatoeba-test.eng-fra: 0.669
+   - tico19-test.eng-fra: 0.636

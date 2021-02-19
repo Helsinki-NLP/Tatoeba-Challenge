@@ -1,0 +1,27 @@
+release: swe-dan/opus-2021-02-18.zip
+release-date: 2021-02-18
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - swe
+target-languages:
+   - dan
+training-data:
+   - dan-swe: Tatoeba-train (22292461) 
+validation-data:
+   - dan-swe: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.swe-dan: 1550/10261
+BLEU-scores:
+   - Tatoeba-test.swe-dan: 71.2
+chr-F-scores:
+   - Tatoeba-test.swe-dan: 0.825

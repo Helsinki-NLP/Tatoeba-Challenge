@@ -37,31 +37,45 @@ use-target-labels:
    - >>tah<<
    - >>ton<<
    - >>tvl<<
+test-data:
+   - Tatoeba-test.eng-fij: 44/122
+   - Tatoeba-test.eng-gil: 14/60
+   - Tatoeba-test.eng-haw: 92/353
+   - Tatoeba-test.eng-mah: 29/115
+   - Tatoeba-test.eng-mri: 363/3300
+   - Tatoeba-test.eng-multi: 0/0
+   - Tatoeba-test.eng-nau: 20/60
+   - Tatoeba-test.eng-niu: 29/111
+   - Tatoeba-test.eng-rap: 26/85
+   - Tatoeba-test.eng-smo: 78/325
+   - Tatoeba-test.eng-tah: 21/59
+   - Tatoeba-test.eng-ton: 20/65
+   - Tatoeba-test.eng-tvl: 15/62
 BLEU-scores:
-   - Tatoeba-test.eng-fij.eng.fij: 22.5
-   - Tatoeba-test.eng-gil.eng.gil: 59.3
-   - Tatoeba-test.eng-haw.eng.haw: 1.1
-   - Tatoeba-test.eng-mah.eng.mah: 7.6
-   - Tatoeba-test.eng-mri.eng.mri: 7.2
-   - Tatoeba-test.eng.multi: 11.3
-   - Tatoeba-test.eng-nau.eng.nau: 0.5
-   - Tatoeba-test.eng-niu.eng.niu: 28.1
-   - Tatoeba-test.eng-rap.eng.rap: 3.5
-   - Tatoeba-test.eng-smo.eng.smo: 24.6
-   - Tatoeba-test.eng-tah.eng.tah: 10.4
-   - Tatoeba-test.eng-ton.eng.ton: 21.1
-   - Tatoeba-test.eng-tvl.eng.tvl: 29.3
+   - Tatoeba-test.eng-fij: 22.5
+   - Tatoeba-test.eng-gil: 59.3
+   - Tatoeba-test.eng-haw: 1.1
+   - Tatoeba-test.eng-mah: 7.6
+   - Tatoeba-test.eng-mri: 7.2
+   - Tatoeba-test.eng-multi: 11.3
+   - Tatoeba-test.eng-nau: 0.5
+   - Tatoeba-test.eng-niu: 28.1
+   - Tatoeba-test.eng-rap: 3.5
+   - Tatoeba-test.eng-smo: 24.6
+   - Tatoeba-test.eng-tah: 10.4
+   - Tatoeba-test.eng-ton: 21.1
+   - Tatoeba-test.eng-tvl: 29.3
 chr-F-scores:
-   - Tatoeba-test.eng-fij.eng.fij: 0.434
-   - Tatoeba-test.eng-gil.eng.gil: 0.739
-   - Tatoeba-test.eng-haw.eng.haw: 0.159
-   - Tatoeba-test.eng-mah.eng.mah: 0.363
-   - Tatoeba-test.eng-mri.eng.mri: 0.295
-   - Tatoeba-test.eng.multi: 0.311
-   - Tatoeba-test.eng-nau.eng.nau: 0.094
-   - Tatoeba-test.eng-niu.eng.niu: 0.509
-   - Tatoeba-test.eng-rap.eng.rap: 0.163
-   - Tatoeba-test.eng-smo.eng.smo: 0.461
-   - Tatoeba-test.eng-tah.eng.tah: 0.296
-   - Tatoeba-test.eng-ton.eng.ton: 0.463
-   - Tatoeba-test.eng-tvl.eng.tvl: 0.500
+   - Tatoeba-test.eng-fij: 0.434
+   - Tatoeba-test.eng-gil: 0.739
+   - Tatoeba-test.eng-haw: 0.159
+   - Tatoeba-test.eng-mah: 0.363
+   - Tatoeba-test.eng-mri: 0.295
+   - Tatoeba-test.eng-multi: 0.311
+   - Tatoeba-test.eng-nau: 0.094
+   - Tatoeba-test.eng-niu: 0.509
+   - Tatoeba-test.eng-rap: 0.163
+   - Tatoeba-test.eng-smo: 0.461
+   - Tatoeba-test.eng-tah: 0.296
+   - Tatoeba-test.eng-ton: 0.463
+   - Tatoeba-test.eng-tvl: 0.500

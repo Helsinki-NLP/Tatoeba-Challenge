@@ -1,4 +1,4 @@
-# opus-2021-02-12.zip
+# opus-2021-02-19.zip
 
 * dataset: opus
 * model: transformer-align
@@ -6,18 +6,15 @@
 * target language(s): eng
 * model: transformer-align
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* download: [opus-2021-02-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/hin-eng/opus-2021-02-12.zip)
-* test set translations: [opus-2021-02-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/hin-eng/opus-2021-02-12.test.txt)
-* test set scores: [opus-2021-02-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/hin-eng/opus-2021-02-12.eval.txt)
+* download: [opus-2021-02-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/hin-eng/opus-2021-02-19.zip)
+* test set translations: [opus-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/hin-eng/opus-2021-02-19.test.txt)
+* test set scores: [opus-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/hin-eng/opus-2021-02-19.eval.txt)
 
 ## Benchmarks
 
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| newsdev2014.hin.eng 	| 9.1 	| 0.351 |
-| newsdev2014-hineng.hin.eng 	| 9.1 	| 0.351 |
-| newstest2014-hien.hin.eng 	| 13.3 	| 0.407 |
-| newstest2014-hien-hineng.hin.eng 	| 13.3 	| 0.407 |
-| Tatoeba-test.hin.eng 	| 39.0 	| 0.569 |
-| Tatoeba-test.hin-eng.hin.eng 	| 39.0 	| 0.569 |
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newsdev2014.hin-eng 	| 9.1 	| 0.351 	| 520 	| 10406 	| 0.899 |
+| newstest2014-hien.hin-eng 	| 13.3 	| 0.407 	| 2507 	| 55571 	| 0.979 |
+| Tatoeba-test.hin-eng 	| 39.0 	| 0.569 	| 5000 	| 33943 	| 0.956 |
 

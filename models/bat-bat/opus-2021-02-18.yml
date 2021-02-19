@@ -1,0 +1,99 @@
+release: bat-bat/opus-2021-02-18.zip
+release-date: 2021-02-18
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>eng<<
+   - >>lav<<
+   - >>lit<<
+   - >>ltg<<
+   - >>prg_Latn<<
+   - >>sgs<<
+source-languages:
+   - eng
+   - lav
+   - lit
+   - ltg
+   - prg
+   - sgs
+target-languages:
+   - eng
+   - lav
+   - lit
+   - ltg
+   - prg
+   - sgs
+training-data:
+   - eng-lav: Tatoeba-train (1000000) 
+   - eng-lit: Tatoeba-train (1000000) 
+   - eng-ltg: Tatoeba-train (471) 
+   - lav-eng: Tatoeba-train (1000000) 
+   - lav-lav: Tatoeba-train.lav-lav.clean.lav1.gz (13201) 
+   - lav-lit: Tatoeba-train (1000000) 
+   - lav-ltg: Tatoeba-train (200) 
+   - lit-eng: Tatoeba-train (1000000) 
+   - lit-lav: Tatoeba-train (1000000) 
+   - lit-ltg: Tatoeba-train (216) 
+   - ltg-eng: Tatoeba-train (471) 
+   - ltg-lav: Tatoeba-train (200) 
+   - ltg-lit: Tatoeba-train (216) 
+validation-data:
+   - eng-lav: Tatoeba-dev, 1000
+   - eng-lit: Tatoeba-dev, 5643
+   - eng-sgs: Tatoeba-dev, 3
+   - eng-lav: Tatoeba-dev, 1000
+   - lav-lav: Tatoeba-dev, 1000
+   - lav-lit: Tatoeba-dev, 1000
+   - lav-ltg: Tatoeba-dev, 24
+   - eng-lit: Tatoeba-dev, 5643
+   - lav-lit: Tatoeba-dev, 1000
+   - lav-ltg: Tatoeba-dev, 24
+   - eng-sgs: Tatoeba-dev, 3
+   - total size of shuffled dev data: 16162
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newsdev2017-enlv.eng-lav: 2003/41503
+   - newsdev2017-enlv.lav-eng: 2003/48175
+   - newsdev2019-enlt.eng-lit: 2000/40116
+   - newsdev2019-enlt.lit-eng: 2000/49666
+   - newstest2017-enlv.eng-lav: 2001/39434
+   - newstest2017-enlv.lav-eng: 2001/47511
+   - newstest2019-enlt.eng-lit: 998/20091
+   - newstest2019-lten.lit-eng: 1000/26079
+   - Tatoeba-test.lav-lav: 8/38
+   - Tatoeba-test.lav-lit: 2/11
+   - Tatoeba-test.lit-lav: 2/11
+   - Tatoeba-test.multi-multi: 8812/57287
+BLEU-scores:
+   - newsdev2017-enlv.eng-lav: 21.6
+   - newsdev2017-enlv.lav-eng: 24.8
+   - newsdev2019-enlt.eng-lit: 18.5
+   - newsdev2019-enlt.lit-eng: 25.0
+   - newstest2017-enlv.eng-lav: 16.0
+   - newstest2017-enlv.lav-eng: 19.2
+   - newstest2019-enlt.eng-lit: 12.5
+   - newstest2019-lten.lit-eng: 27.8
+   - Tatoeba-test.lav-lav: 11.2
+   - Tatoeba-test.lav-lit: 24.3
+   - Tatoeba-test.lit-lav: 26.1
+   - Tatoeba-test.multi-multi: 41.6
+chr-F-scores:
+   - newsdev2017-enlv.eng-lav: 0.521
+   - newsdev2017-enlv.lav-eng: 0.549
+   - newsdev2019-enlt.eng-lit: 0.509
+   - newsdev2019-enlt.lit-eng: 0.535
+   - newstest2017-enlv.eng-lav: 0.480
+   - newstest2017-enlv.lav-eng: 0.494
+   - newstest2019-enlt.eng-lit: 0.451
+   - newstest2019-lten.lit-eng: 0.574
+   - Tatoeba-test.lav-lav: 0.349
+   - Tatoeba-test.lav-lit: 0.712
+   - Tatoeba-test.lit-lav: 0.780
+   - Tatoeba-test.multi-multi: 0.611

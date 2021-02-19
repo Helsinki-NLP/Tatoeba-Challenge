@@ -10,12 +10,12 @@ subword-models:
    - source: source.spm
    - target: target.spm
 source-languages:
-   - uig_Arab
-   - uig_Cyrl
-   - uig_Latn
+   - uig
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.uig-eng: 3024/19231
 BLEU-scores:
-   - Tatoeba-test.uig.eng: 0.3
+   - Tatoeba-test.uig-eng: 0.3
 chr-F-scores:
-   - Tatoeba-test.uig.eng: 0.133
+   - Tatoeba-test.uig-eng: 0.133

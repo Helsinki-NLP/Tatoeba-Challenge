@@ -1,0 +1,33 @@
+release: ces-rus/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ces
+target-languages:
+   - rus
+training-data:
+   - ces-rus: Tatoeba-train (19549243) 
+validation-data:
+   - ces-rus: Tatoeba-dev, 5432
+   - total size of shuffled dev data: 5432
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newstest2012.ces-rus: 3003/64830
+   - newstest2013.ces-rus: 3000/58560
+   - Tatoeba-test.ces-rus: 2500/15084
+BLEU-scores:
+   - newstest2012.ces-rus: 19.4
+   - newstest2013.ces-rus: 23.9
+   - Tatoeba-test.ces-rus: 55.1
+chr-F-scores:
+   - newstest2012.ces-rus: 0.470
+   - newstest2013.ces-rus: 0.507
+   - Tatoeba-test.ces-rus: 0.722

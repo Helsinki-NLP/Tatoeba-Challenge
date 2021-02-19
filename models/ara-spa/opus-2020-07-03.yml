@@ -11,12 +11,13 @@ subword-models:
    - target: target.spm
 source-languages:
    - apc
-   - apc_Latn
    - ara
    - arq
 target-languages:
    - spa
+test-data:
+   - Tatoeba-test.ara-spa: 1511/8031
 BLEU-scores:
-   - Tatoeba-test.ara.spa: 46.0
+   - Tatoeba-test.ara-spa: 46.0
 chr-F-scores:
-   - Tatoeba-test.ara.spa: 0.641
+   - Tatoeba-test.ara-spa: 0.641

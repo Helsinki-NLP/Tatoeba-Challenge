@@ -13,7 +13,9 @@ source-languages:
    - eng
 target-languages:
    - hye
+test-data:
+   - Tatoeba-test.eng-hye: 1121/3852
 BLEU-scores:
-   - Tatoeba-test.eng.hye: 16.6
+   - Tatoeba-test.eng-hye: 16.6
 chr-F-scores:
-   - Tatoeba-test.eng.hye: 0.404
+   - Tatoeba-test.eng-hye: 0.404

@@ -13,21 +13,30 @@ source-languages:
    - eng
 target-languages:
    - spa
+test-data:
+   - Tatoeba-test.eng-spa: 10000/65686
+   - news-test2008.eng-spa: 2051/47155
+   - newssyscomb2009.eng-spa: 502/11241
+   - newstest2009.eng-spa: 2525/61082
+   - newstest2010.eng-spa: 2489/58015
+   - newstest2011.eng-spa: 3003/69889
+   - newstest2012.eng-spa: 3003/69451
+   - newstest2013.eng-spa: 3000/62045
 BLEU-scores:
-   - newssyscomb2009-engspa.eng.spa: 31.0
-   - news-test2008-engspa.eng.spa: 29.7
-   - newstest2009-engspa.eng.spa: 30.2
-   - newstest2010-engspa.eng.spa: 36.9
-   - newstest2011-engspa.eng.spa: 38.2
-   - newstest2012-engspa.eng.spa: 39.0
-   - newstest2013-engspa.eng.spa: 35.0
-   - Tatoeba-test.eng.spa: 54.9
+   - Tatoeba-test.eng-spa: 54.9
+   - news-test2008.eng-spa: 29.7
+   - newssyscomb2009.eng-spa: 31.0
+   - newstest2009.eng-spa: 30.2
+   - newstest2010.eng-spa: 36.9
+   - newstest2011.eng-spa: 38.2
+   - newstest2012.eng-spa: 39.0
+   - newstest2013.eng-spa: 35.0
 chr-F-scores:
-   - newssyscomb2009-engspa.eng.spa: 0.583
-   - news-test2008-engspa.eng.spa: 0.564
-   - newstest2009-engspa.eng.spa: 0.578
-   - newstest2010-engspa.eng.spa: 0.620
-   - newstest2011-engspa.eng.spa: 0.619
-   - newstest2012-engspa.eng.spa: 0.625
-   - newstest2013-engspa.eng.spa: 0.598
-   - Tatoeba-test.eng.spa: 0.721
+   - Tatoeba-test.eng-spa: 0.721
+   - news-test2008.eng-spa: 0.564
+   - newssyscomb2009.eng-spa: 0.583
+   - newstest2009.eng-spa: 0.578
+   - newstest2010.eng-spa: 0.620
+   - newstest2011.eng-spa: 0.619
+   - newstest2012.eng-spa: 0.625
+   - newstest2013.eng-spa: 0.598

@@ -14,7 +14,9 @@ source-languages:
    - pes
 target-languages:
    - deu
+test-data:
+   - Tatoeba-test.fas-deu: 3185/21330
 BLEU-scores:
-   - Tatoeba-test.fas.deu: 29.6
+   - Tatoeba-test.fas-deu: 29.6
 chr-F-scores:
-   - Tatoeba-test.fas.deu: 0.527
+   - Tatoeba-test.fas-deu: 0.527

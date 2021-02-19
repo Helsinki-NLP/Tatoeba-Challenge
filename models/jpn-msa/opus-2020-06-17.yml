@@ -11,18 +11,17 @@ subword-models:
    - target: target.spm
 source-languages:
    - jpn
-   - jpn_Hani
-   - jpn_Hira
-   - jpn_Kana
 target-languages:
    - ind
-   - zlm_Latn
-   - zsm_Latn
+   - zlm
+   - zsm
 use-target-labels:
    - >>ind<<
    - >>zlm_Latn<<
    - >>zsm_Latn<<
+test-data:
+   - Tatoeba-test.jpn-msa: 2644/14005
 BLEU-scores:
-   - Tatoeba-test.jpn.msa: 21.5
+   - Tatoeba-test.jpn-msa: 21.5
 chr-F-scores:
-   - Tatoeba-test.jpn.msa: 0.469
+   - Tatoeba-test.jpn-msa: 0.469

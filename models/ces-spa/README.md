@@ -1,4 +1,4 @@
-# opus-2021-01-03.zip
+# opus-2021-02-19.zip
 
 * dataset: opus
 * model: transformer
@@ -6,21 +6,20 @@
 * target language(s): spa
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* download: [opus-2021-01-03.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/ces-spa/opus-2021-01-03.zip)
-* test set translations: [opus-2021-01-03.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ces-spa/opus-2021-01-03.test.txt)
-* test set scores: [opus-2021-01-03.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ces-spa/opus-2021-01-03.eval.txt)
+* download: [opus-2021-02-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/ces-spa/opus-2021-02-19.zip)
+* test set translations: [opus-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ces-spa/opus-2021-02-19.test.txt)
+* test set scores: [opus-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ces-spa/opus-2021-02-19.eval.txt)
 
 ## Benchmarks
 
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| newssyscomb2009-cesspa.ces.spa 	| 27.0 	| 0.548 |
-| news-test2008-cesspa.ces.spa 	| 24.8 	| 0.531 |
-| newstest2009-cesspa.ces.spa 	| 25.3 	| 0.540 |
-| newstest2010-cesspa.ces.spa 	| 29.0 	| 0.563 |
-| newstest2011-cesspa.ces.spa 	| 29.5 	| 0.556 |
-| newstest2012-cesspa.ces.spa 	| 28.8 	| 0.554 |
-| newstest2013-cesspa.ces.spa 	| 29.8 	| 0.556 |
-| Tatoeba-test.ces.spa 	| 53.4 	| 0.706 |
-| Tatoeba-test.ces-spa.ces.spa 	| 53.4 	| 0.706 |
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newssyscomb2009.ces-spa 	| 27.0 	| 0.548 	| 502 	| 12506 	| 0.980 |
+| news-test2008.ces-spa 	| 24.8 	| 0.531 	| 2051 	| 52596 	| 0.983 |
+| newstest2009.ces-spa 	| 25.3 	| 0.540 	| 2525 	| 68114 	| 0.988 |
+| newstest2010.ces-spa 	| 29.0 	| 0.563 	| 2489 	| 65522 	| 0.991 |
+| newstest2011.ces-spa 	| 29.5 	| 0.556 	| 3003 	| 79476 	| 0.987 |
+| newstest2012.ces-spa 	| 28.8 	| 0.554 	| 3003 	| 79006 	| 0.986 |
+| newstest2013.ces-spa 	| 29.8 	| 0.556 	| 3000 	| 70528 	| 0.963 |
+| Tatoeba-test.ces-spa 	| 53.4 	| 0.706 	| 1807 	| 12716 	| 0.971 |
 

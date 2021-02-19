@@ -13,11 +13,12 @@ source-languages:
    - eng
 target-languages:
    - khm
-   - khm_Latn
 use-target-labels:
    - >>khm<<
    - >>khm_Latn<<
+test-data:
+   - Tatoeba-test.eng-khm: 752/1610
 BLEU-scores:
-   - Tatoeba-test.eng.khm: 0.1
+   - Tatoeba-test.eng-khm: 0.1
 chr-F-scores:
-   - Tatoeba-test.eng.khm: 0.103
+   - Tatoeba-test.eng-khm: 0.103

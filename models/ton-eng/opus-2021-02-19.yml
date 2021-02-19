@@ -1,0 +1,27 @@
+release: ton-eng/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ton
+target-languages:
+   - eng
+training-data:
+   - ton-eng: Tatoeba-train (345565) 
+validation-data:
+   - eng-ton: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 986
+   - devset = top 986  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.ton-eng: 20/86
+BLEU-scores:
+   - Tatoeba-test.ton-eng: 29.8
+chr-F-scores:
+   - Tatoeba-test.ton-eng: 0.363

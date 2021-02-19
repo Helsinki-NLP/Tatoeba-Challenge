@@ -13,7 +13,9 @@ source-languages:
    - lav
 target-languages:
    - rus
+test-data:
+   - Tatoeba-test.lav-rus: 274/1190
 BLEU-scores:
-   - Tatoeba-test.lav.rus: 53.3
+   - Tatoeba-test.lav-rus: 53.3
 chr-F-scores:
-   - Tatoeba-test.lav.rus: 0.702
+   - Tatoeba-test.lav-rus: 0.702

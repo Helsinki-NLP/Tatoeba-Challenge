@@ -1,0 +1,27 @@
+release: dan-tur/opus-2021-02-18.zip
+release-date: 2021-02-18
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - dan
+target-languages:
+   - tur
+training-data:
+   - dan-tur: Tatoeba-train (12763428) 
+validation-data:
+   - dan-tur: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.dan-tur: 757/3429
+BLEU-scores:
+   - Tatoeba-test.dan-tur: 40.5
+chr-F-scores:
+   - Tatoeba-test.dan-tur: 0.662

@@ -18,37 +18,49 @@ source-languages:
    - arq
    - ary
    - arz
-   - hau_Latn
+   - hau
    - heb
    - kab
    - mlt
-   - rif_Latn
-   - shy_Latn
+   - rif
+   - shy
    - som
    - tir
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.amh-eng: 190/802
+   - Tatoeba-test.ara-eng: 10000/62449
+   - Tatoeba-test.hau-eng: 56/378
+   - Tatoeba-test.heb-eng: 10000/62332
+   - Tatoeba-test.kab-eng: 10000/49297
+   - Tatoeba-test.mlt-eng: 203/935
+   - Tatoeba-test.multi-eng: 10000/58147
+   - Tatoeba-test.rif-eng: 53/198
+   - Tatoeba-test.shy-eng: 16/78
+   - Tatoeba-test.som-eng: 1/2
+   - Tatoeba-test.tir-eng: 69/426
 BLEU-scores:
-   - Tatoeba-test.amh-eng.amh.eng: 35.1
-   - Tatoeba-test.ara-eng.ara.eng: 37.1
-   - Tatoeba-test.hau-eng.hau.eng: 12.6
-   - Tatoeba-test.heb-eng.heb.eng: 43.3
-   - Tatoeba-test.kab-eng.kab.eng: 4.2
-   - Tatoeba-test.mlt-eng.mlt.eng: 45.2
-   - Tatoeba-test.multi.eng: 27.5
-   - Tatoeba-test.rif-eng.rif.eng: 2.2
-   - Tatoeba-test.shy-eng.shy.eng: 0.8
-   - Tatoeba-test.som-eng.som.eng: 23.6
-   - Tatoeba-test.tir-eng.tir.eng: 17.3
+   - Tatoeba-test.amh-eng: 35.1
+   - Tatoeba-test.ara-eng: 37.1
+   - Tatoeba-test.hau-eng: 12.6
+   - Tatoeba-test.heb-eng: 43.3
+   - Tatoeba-test.kab-eng: 4.2
+   - Tatoeba-test.mlt-eng: 45.2
+   - Tatoeba-test.multi-eng: 27.5
+   - Tatoeba-test.rif-eng: 2.2
+   - Tatoeba-test.shy-eng: 0.8
+   - Tatoeba-test.som-eng: 23.6
+   - Tatoeba-test.tir-eng: 17.3
 chr-F-scores:
-   - Tatoeba-test.amh-eng.amh.eng: 0.543
-   - Tatoeba-test.ara-eng.ara.eng: 0.547
-   - Tatoeba-test.hau-eng.hau.eng: 0.330
-   - Tatoeba-test.heb-eng.heb.eng: 0.598
-   - Tatoeba-test.kab-eng.kab.eng: 0.212
-   - Tatoeba-test.mlt-eng.mlt.eng: 0.618
-   - Tatoeba-test.multi.eng: 0.467
-   - Tatoeba-test.rif-eng.rif.eng: 0.136
-   - Tatoeba-test.shy-eng.shy.eng: 0.116
-   - Tatoeba-test.som-eng.som.eng: 0.472
-   - Tatoeba-test.tir-eng.tir.eng: 0.376
+   - Tatoeba-test.amh-eng: 0.543
+   - Tatoeba-test.ara-eng: 0.547
+   - Tatoeba-test.hau-eng: 0.330
+   - Tatoeba-test.heb-eng: 0.598
+   - Tatoeba-test.kab-eng: 0.212
+   - Tatoeba-test.mlt-eng: 0.618
+   - Tatoeba-test.multi-eng: 0.467
+   - Tatoeba-test.rif-eng: 0.136
+   - Tatoeba-test.shy-eng: 0.116
+   - Tatoeba-test.som-eng: 0.472
+   - Tatoeba-test.tir-eng: 0.376

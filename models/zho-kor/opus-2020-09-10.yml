@@ -11,16 +11,14 @@ subword-models:
    - target: target.spm
 source-languages:
    - cmn
-   - cmn_Hans
-   - cmn_Hant
    - lzh
-   - lzh_Hans
    - nan
-   - yue_Hans
-   - yue_Hant
+   - yue
 target-languages:
    - kor
+test-data:
+   - Tatoeba-test.zho-kor: 397/1736
 BLEU-scores:
-   - Tatoeba-test.zho.kor: 1.1
+   - Tatoeba-test.zho-kor: 1.1
 chr-F-scores:
-   - Tatoeba-test.zho.kor: 0.115
+   - Tatoeba-test.zho-kor: 0.115

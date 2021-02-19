@@ -1,0 +1,33 @@
+release: ces-hun/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ces
+target-languages:
+   - hun
+training-data:
+   - ces-hun: Tatoeba-train (39877575) 
+validation-data:
+   - ces-hun: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newssyscomb2009.ces-hun: 502/9733
+   - newstest2009.ces-hun: 2525/54965
+   - Tatoeba-test.ces-hun: 1911/10352
+BLEU-scores:
+   - newssyscomb2009.ces-hun: 17.6
+   - newstest2009.ces-hun: 18.5
+   - Tatoeba-test.ces-hun: 48.6
+chr-F-scores:
+   - newssyscomb2009.ces-hun: 0.497
+   - newstest2009.ces-hun: 0.495
+   - Tatoeba-test.ces-hun: 0.691

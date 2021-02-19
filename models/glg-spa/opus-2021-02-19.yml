@@ -1,0 +1,27 @@
+release: glg-spa/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - glg
+target-languages:
+   - spa
+training-data:
+   - glg-spa: Tatoeba-train (470179) 
+validation-data:
+   - glg-spa: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.glg-spa: 2121/17443
+BLEU-scores:
+   - Tatoeba-test.glg-spa: 72.2
+chr-F-scores:
+   - Tatoeba-test.glg-spa: 0.836

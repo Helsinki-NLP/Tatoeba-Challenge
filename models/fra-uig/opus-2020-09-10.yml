@@ -12,14 +12,14 @@ subword-models:
 source-languages:
    - fra
 target-languages:
-   - uig_Arab
-   - uig_Cyrl
-   - uig_Latn
+   - uig
 use-target-labels:
    - >>uig_Arab<<
    - >>uig_Cyrl<<
    - >>uig_Latn<<
+test-data:
+   - Tatoeba-test.fra-uig: 694/2733
 BLEU-scores:
-   - Tatoeba-test.fra.uig: 0.0
+   - Tatoeba-test.fra-uig: 0.0
 chr-F-scores:
-   - Tatoeba-test.fra.uig: 0.099
+   - Tatoeba-test.fra-uig: 0.099

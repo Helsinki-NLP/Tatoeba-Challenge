@@ -15,7 +15,9 @@ source-languages:
    - swh
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.swa-eng: 386/1993
 BLEU-scores:
-   - Tatoeba-test.swa.eng: 43.5
+   - Tatoeba-test.swa-eng: 43.5
 chr-F-scores:
-   - Tatoeba-test.swa.eng: 0.580
+   - Tatoeba-test.swa-eng: 0.580

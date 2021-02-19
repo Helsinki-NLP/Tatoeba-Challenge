@@ -13,11 +13,12 @@ source-languages:
    - tur
 target-languages:
    - tat
-   - tat_Latn
 use-target-labels:
    - >>tat<<
    - >>tat_Latn<<
+test-data:
+   - Tatoeba-test.tur-tat: 518/2258
 BLEU-scores:
-   - Tatoeba-test.tur.tat: 2.5
+   - Tatoeba-test.tur-tat: 2.5
 chr-F-scores:
-   - Tatoeba-test.tur.tat: 0.221
+   - Tatoeba-test.tur-tat: 0.221

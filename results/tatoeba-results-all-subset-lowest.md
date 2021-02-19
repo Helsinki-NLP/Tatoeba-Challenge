@@ -26,7 +26,6 @@ to be useful for anything.
 | [cel-eng/opus2m](../models/cel-eng) | tatoeba | 0.172 | 3.0 |
 | [cel-cel/opus](../models/cel-cel) | tatoeba | 0.170 | 2.7 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.128 | 0.7 |
-| [cor-eng/opus](../models/cor-eng) | tatoeba | 0.049 | 0.0 |
 | | lang = deu-ido | | | | |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.141 | 0.6 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.112 | 0.3 |
@@ -96,7 +95,6 @@ to be useful for anything.
 | [gmq-eng/opus](../models/gmq-eng) | tatoeba | 0.445 | 23.1 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.402 | 21.3 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.179 | 2.2 |
-| [fao-eng/opus](../models/fao-eng) | tatoeba | 0.115 | 0.1 |
 | | lang = fra-kab | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.163 | 0.7 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.143 | 0.2 |
@@ -157,7 +155,6 @@ to be useful for anything.
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.115 | 0.3 |
 | [art-eng/opus](../models/art-eng) | tatoeba | 0.113 | 0.2 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.096 | 0.1 |
-| [jbo-eng/opus](../models/jbo-eng) | tatoeba | 0.001 | 0.0 |
 | | lang = kab-deu | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.213 | 5.4 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.204 | 3.2 |
@@ -205,7 +202,7 @@ to be useful for anything.
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.216 | 10.1 |
 | | lang = rus-chm | | | | |
 | [sla-fiu/opus](../models/sla-fiu) | tatoeba | 0.176 | 1.4 |
-| [zle-fiu/opus](../models/zle-fiu) | tatoeba | 0.155 | 1.3 |
+| [zle-fiu/opus](../models/zle-fiu) | tatoeba | 0.156 | 1.3 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.151 | 1.0 |
 | | lang = rus-ina | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.257 | 6.0 |

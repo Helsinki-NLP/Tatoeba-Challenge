@@ -13,11 +13,12 @@ source-languages:
    - eng
 target-languages:
    - hye
-   - hye_Latn
 use-target-labels:
    - >>hye<<
    - >>hye_Latn<<
+test-data:
+   - Tatoeba-test.eng-hye: 1121/3852
 BLEU-scores:
-   - Tatoeba-test.eng.hye: 7.2
+   - Tatoeba-test.eng-hye: 7.2
 chr-F-scores:
-   - Tatoeba-test.eng.hye: 0.267
+   - Tatoeba-test.eng-hye: 0.267

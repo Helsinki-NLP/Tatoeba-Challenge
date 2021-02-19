@@ -13,7 +13,9 @@ source-languages:
    - ukr
 target-languages:
    - nob
+test-data:
+   - Tatoeba-test.ukr-nor: 670/3669
 BLEU-scores:
-   - Tatoeba-test.ukr.nor: 21.3
+   - Tatoeba-test.ukr-nor: 21.3
 chr-F-scores:
-   - Tatoeba-test.ukr.nor: 0.397
+   - Tatoeba-test.ukr-nor: 0.397

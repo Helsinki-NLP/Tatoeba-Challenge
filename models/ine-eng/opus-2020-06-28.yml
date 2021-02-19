@@ -15,11 +15,15 @@ source-languages:
    - sqi
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.hye-eng: 1121/3888
+   - Tatoeba-test.multi-eng: 0/0
+   - Tatoeba-test.sqi-eng: 1065/6477
 BLEU-scores:
-   - Tatoeba-test.hye-eng.hye.eng: 35.0
-   - Tatoeba-test.multi.eng: 48.1
-   - Tatoeba-test.sqi-eng.sqi.eng: 53.4
+   - Tatoeba-test.hye-eng: 35.0
+   - Tatoeba-test.multi-eng: 48.1
+   - Tatoeba-test.sqi-eng: 53.4
 chr-F-scores:
-   - Tatoeba-test.hye-eng.hye.eng: 0.521
-   - Tatoeba-test.multi.eng: 0.629
-   - Tatoeba-test.sqi-eng.sqi.eng: 0.695
+   - Tatoeba-test.hye-eng: 0.521
+   - Tatoeba-test.multi-eng: 0.629
+   - Tatoeba-test.sqi-eng: 0.695

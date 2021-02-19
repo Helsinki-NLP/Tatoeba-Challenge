@@ -13,12 +13,13 @@ source-languages:
    - apc
    - ara
    - arq
-   - arq_Latn
    - ary
    - arz
 target-languages:
    - fra
+test-data:
+   - Tatoeba-test.ara-fra: 1569/9641
 BLEU-scores:
-   - Tatoeba-test.ara.fra: 39.3
+   - Tatoeba-test.ara-fra: 39.3
 chr-F-scores:
-   - Tatoeba-test.ara.fra: 0.556
+   - Tatoeba-test.ara-fra: 0.556

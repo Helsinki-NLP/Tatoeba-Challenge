@@ -12,32 +12,24 @@ subword-models:
 source-languages:
    - eng
 target-languages:
-   - aze_Latn
+   - aze
    - bak
    - chv
    - crh
-   - crh_Latn
-   - kaz_Cyrl
-   - kaz_Latn
-   - kir_Cyrl
+   - kaz
+   - kir
    - kjh
    - kum
    - mon
    - nog
-   - ota_Arab
-   - ota_Latn
+   - ota
    - sah
    - tat
-   - tat_Arab
-   - tat_Latn
    - tuk
-   - tuk_Latn
    - tur
    - tyv
-   - uig_Arab
-   - uig_Cyrl
-   - uzb_Cyrl
-   - uzb_Latn
+   - uig
+   - uzb
    - xal
 use-target-labels:
    - >>aze_Latn<<
@@ -67,53 +59,78 @@ use-target-labels:
    - >>uzb_Cyrl<<
    - >>uzb_Latn<<
    - >>xal<<
+test-data:
+   - Tatoeba-test.eng-aze: 2659/10046
+   - Tatoeba-test.eng-bak: 39/140
+   - Tatoeba-test.eng-chv: 333/1358
+   - Tatoeba-test.eng-crh: 22/81
+   - Tatoeba-test.eng-kaz: 397/1668
+   - Tatoeba-test.eng-kir: 118/428
+   - Tatoeba-test.eng-kjh: 17/48
+   - Tatoeba-test.eng-kum: 8/25
+   - Tatoeba-test.eng-mon: 337/1971
+   - Tatoeba-test.eng-multi: 10000/46477
+   - Tatoeba-test.eng-nog: 83/250
+   - Tatoeba-test.eng-ota: 678/3328
+   - Tatoeba-test.eng-sah: 39/131
+   - Tatoeba-test.eng-tat: 1451/6996
+   - Tatoeba-test.eng-tuk: 2500/12809
+   - Tatoeba-test.eng-tur: 10000/49076
+   - Tatoeba-test.eng-tyv: 5/19
+   - Tatoeba-test.eng-uig: 3024/13084
+   - Tatoeba-test.eng-uzb: 457/1514
+   - Tatoeba-test.eng-xal: 281/1366
+   - newsdev2016-entr.eng-tur: 1001/14044
+   - newstest2016-entr.eng-tur: 3000/44195
+   - newstest2017-entr.eng-tur: 3007/45049
+   - newstest2018-entr.eng-tur: 3000/45944
 BLEU-scores:
-   - newsdev2016-entr-engtur.eng.tur: 9.6
-   - newstest2016-entr-engtur.eng.tur: 8.4
-   - newstest2017-entr-engtur.eng.tur: 8.6
-   - newstest2018-entr-engtur.eng.tur: 8.6
-   - Tatoeba-test.eng-aze.eng.aze: 27.5
-   - Tatoeba-test.eng-bak.eng.bak: 5.5
-   - Tatoeba-test.eng-chv.eng.chv: 3.3
-   - Tatoeba-test.eng-crh.eng.crh: 11.9
-   - Tatoeba-test.eng-kaz.eng.kaz: 12.0
-   - Tatoeba-test.eng-kir.eng.kir: 24.6
-   - Tatoeba-test.eng-kjh.eng.kjh: 2.2
-   - Tatoeba-test.eng-kum.eng.kum: 8.4
-   - Tatoeba-test.eng-mon.eng.mon: 9.8
-   - Tatoeba-test.eng.multi: 18.6
-   - Tatoeba-test.eng-nog.eng.nog: 1.6
-   - Tatoeba-test.eng-ota.eng.ota: 0.3
-   - Tatoeba-test.eng-sah.eng.sah: 0.8
-   - Tatoeba-test.eng-tat.eng.tat: 10.1
-   - Tatoeba-test.eng-tuk.eng.tuk: 5.7
-   - Tatoeba-test.eng-tur.eng.tur: 33.2
-   - Tatoeba-test.eng-tyv.eng.tyv: 6.6
-   - Tatoeba-test.eng-uig.eng.uig: 0.1
-   - Tatoeba-test.eng-uzb.eng.uzb: 3.9
-   - Tatoeba-test.eng-xal.eng.xal: 0.1
+   - Tatoeba-test.eng-aze: 27.5
+   - Tatoeba-test.eng-bak: 5.5
+   - Tatoeba-test.eng-chv: 3.3
+   - Tatoeba-test.eng-crh: 11.9
+   - Tatoeba-test.eng-kaz: 12.0
+   - Tatoeba-test.eng-kir: 24.6
+   - Tatoeba-test.eng-kjh: 2.2
+   - Tatoeba-test.eng-kum: 8.4
+   - Tatoeba-test.eng-mon: 9.8
+   - Tatoeba-test.eng-multi: 18.6
+   - Tatoeba-test.eng-nog: 1.6
+   - Tatoeba-test.eng-ota: 0.3
+   - Tatoeba-test.eng-sah: 0.8
+   - Tatoeba-test.eng-tat: 10.1
+   - Tatoeba-test.eng-tuk: 5.7
+   - Tatoeba-test.eng-tur: 33.2
+   - Tatoeba-test.eng-tyv: 6.6
+   - Tatoeba-test.eng-uig: 0.1
+   - Tatoeba-test.eng-uzb: 3.9
+   - Tatoeba-test.eng-xal: 0.1
+   - newsdev2016-entr.eng-tur: 9.6
+   - newstest2016-entr.eng-tur: 8.4
+   - newstest2017-entr.eng-tur: 8.6
+   - newstest2018-entr.eng-tur: 8.6
 chr-F-scores:
-   - newsdev2016-entr-engtur.eng.tur: 0.427
-   - newstest2016-entr-engtur.eng.tur: 0.402
-   - newstest2017-entr-engtur.eng.tur: 0.402
-   - newstest2018-entr-engtur.eng.tur: 0.404
-   - Tatoeba-test.eng-aze.eng.aze: 0.575
-   - Tatoeba-test.eng-bak.eng.bak: 0.306
-   - Tatoeba-test.eng-chv.eng.chv: 0.284
-   - Tatoeba-test.eng-crh.eng.crh: 0.358
-   - Tatoeba-test.eng-kaz.eng.kaz: 0.366
-   - Tatoeba-test.eng-kir.eng.kir: 0.493
-   - Tatoeba-test.eng-kjh.eng.kjh: 0.049
-   - Tatoeba-test.eng-kum.eng.kum: 0.176
-   - Tatoeba-test.eng-mon.eng.mon: 0.359
-   - Tatoeba-test.eng.multi: 0.441
-   - Tatoeba-test.eng-nog.eng.nog: 0.079
-   - Tatoeba-test.eng-ota.eng.ota: 0.035
-   - Tatoeba-test.eng-sah.eng.sah: 0.061
-   - Tatoeba-test.eng-tat.eng.tat: 0.308
-   - Tatoeba-test.eng-tuk.eng.tuk: 0.310
-   - Tatoeba-test.eng-tur.eng.tur: 0.616
-   - Tatoeba-test.eng-tyv.eng.tyv: 0.184
-   - Tatoeba-test.eng-uig.eng.uig: 0.151
-   - Tatoeba-test.eng-uzb.eng.uzb: 0.286
-   - Tatoeba-test.eng-xal.eng.xal: 0.057
+   - Tatoeba-test.eng-aze: 0.575
+   - Tatoeba-test.eng-bak: 0.306
+   - Tatoeba-test.eng-chv: 0.284
+   - Tatoeba-test.eng-crh: 0.358
+   - Tatoeba-test.eng-kaz: 0.366
+   - Tatoeba-test.eng-kir: 0.493
+   - Tatoeba-test.eng-kjh: 0.049
+   - Tatoeba-test.eng-kum: 0.176
+   - Tatoeba-test.eng-mon: 0.359
+   - Tatoeba-test.eng-multi: 0.441
+   - Tatoeba-test.eng-nog: 0.079
+   - Tatoeba-test.eng-ota: 0.035
+   - Tatoeba-test.eng-sah: 0.061
+   - Tatoeba-test.eng-tat: 0.308
+   - Tatoeba-test.eng-tuk: 0.310
+   - Tatoeba-test.eng-tur: 0.616
+   - Tatoeba-test.eng-tyv: 0.184
+   - Tatoeba-test.eng-uig: 0.151
+   - Tatoeba-test.eng-uzb: 0.286
+   - Tatoeba-test.eng-xal: 0.057
+   - newsdev2016-entr.eng-tur: 0.427
+   - newstest2016-entr.eng-tur: 0.402
+   - newstest2017-entr.eng-tur: 0.402
+   - newstest2018-entr.eng-tur: 0.404

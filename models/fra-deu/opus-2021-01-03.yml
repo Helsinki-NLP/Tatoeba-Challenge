@@ -13,27 +13,36 @@ source-languages:
    - fra
 target-languages:
    - deu
+test-data:
+   - Tatoeba-test.fra-deu: 10000/66661
+   - euelections_dev2019.fr-de.fra-deu: 1512/28733
+   - news-test2008.fra-deu: 2051/41182
+   - newssyscomb2009.fra-deu: 502/9802
+   - newstest2009.fra-deu: 2525/54214
+   - newstest2010.fra-deu: 2489/53161
+   - newstest2011.fra-deu: 3003/62546
+   - newstest2012.fra-deu: 3003/62513
+   - newstest2013.fra-deu: 3000/54690
+   - newstest2019-frde.fra-deu: 1701/31560
 BLEU-scores:
-   - euelections_dev2019.fr-de-fradeu.fra.deu: 26.4
-   - newssyscomb2009-fradeu.fra.deu: 22.5
-   - news-test2008-fradeu.fra.deu: 22.2
-   - newstest2009-fradeu.fra.deu: 22.2
-   - newstest2010-fradeu.fra.deu: 23.1
-   - newstest2011-fradeu.fra.deu: 21.9
-   - newstest2012-fradeu.fra.deu: 22.9
-   - newstest2013-fradeu.fra.deu: 24.7
-   - newstest2019-frde-fradeu.fra.deu: 27.6
-   - Tatoeba-test.fra.deu: 49.5
-   - Tatoeba-test.fra-deu.fra.deu: 49.5
+   - Tatoeba-test.fra-deu: 49.5
+   - euelections_dev2019.fr-de.fra-deu: 26.4
+   - news-test2008.fra-deu: 22.2
+   - newssyscomb2009.fra-deu: 22.5
+   - newstest2009.fra-deu: 22.2
+   - newstest2010.fra-deu: 23.1
+   - newstest2011.fra-deu: 21.9
+   - newstest2012.fra-deu: 22.9
+   - newstest2013.fra-deu: 24.7
+   - newstest2019-frde.fra-deu: 27.6
 chr-F-scores:
-   - euelections_dev2019.fr-de-fradeu.fra.deu: 0.572
-   - newssyscomb2009-fradeu.fra.deu: 0.528
-   - news-test2008-fradeu.fra.deu: 0.527
-   - newstest2009-fradeu.fra.deu: 0.525
-   - newstest2010-fradeu.fra.deu: 0.532
-   - newstest2011-fradeu.fra.deu: 0.522
-   - newstest2012-fradeu.fra.deu: 0.520
-   - newstest2013-fradeu.fra.deu: 0.537
-   - newstest2019-frde-fradeu.fra.deu: 0.595
-   - Tatoeba-test.fra.deu: 0.678
-   - Tatoeba-test.fra-deu.fra.deu: 0.678
+   - Tatoeba-test.fra-deu: 0.678
+   - euelections_dev2019.fr-de.fra-deu: 0.572
+   - news-test2008.fra-deu: 0.527
+   - newssyscomb2009.fra-deu: 0.528
+   - newstest2009.fra-deu: 0.525
+   - newstest2010.fra-deu: 0.532
+   - newstest2011.fra-deu: 0.522
+   - newstest2012.fra-deu: 0.520
+   - newstest2013.fra-deu: 0.537
+   - newstest2019-frde.fra-deu: 0.595

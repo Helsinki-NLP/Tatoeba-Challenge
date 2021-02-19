@@ -12,8 +12,10 @@ subword-models:
 source-languages:
    - spa
 target-languages:
-   - tgl_Latn
+   - tgl
+test-data:
+   - Tatoeba-test.spa-tgl: 629/3700
 BLEU-scores:
-   - Tatoeba-test.spa.tgl: 24.7
+   - Tatoeba-test.spa-tgl: 24.7
 chr-F-scores:
-   - Tatoeba-test.spa.tgl: 0.538
+   - Tatoeba-test.spa-tgl: 0.538

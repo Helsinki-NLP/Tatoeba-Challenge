@@ -11,11 +11,11 @@ subword-models:
    - target: target.spm
 source-languages:
    - kor
-   - kor_Hang
-   - kor_Latn
 target-languages:
    - fin
+test-data:
+   - Tatoeba-test.kor-fin: 428/1766
 BLEU-scores:
-   - Tatoeba-test.kor.fin: 26.6
+   - Tatoeba-test.kor-fin: 26.6
 chr-F-scores:
-   - Tatoeba-test.kor.fin: 0.502
+   - Tatoeba-test.kor-fin: 0.502

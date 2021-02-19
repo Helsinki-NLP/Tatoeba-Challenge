@@ -1,4 +1,4 @@
-# opus-2021-01-03.zip
+# opus-2021-02-18.zip
 
 * dataset: opus
 * model: transformer
@@ -7,14 +7,14 @@
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-2021-01-03.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-por/opus-2021-01-03.zip)
-* test set translations: [opus-2021-01-03.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-por/opus-2021-01-03.test.txt)
-* test set scores: [opus-2021-01-03.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-por/opus-2021-01-03.eval.txt)
+* valid language labels: >>por<< >>pob<<
+* download: [opus-2021-02-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-por/opus-2021-02-18.zip)
+* test set translations: [opus-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-por/opus-2021-02-18.test.txt)
+* test set scores: [opus-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-por/opus-2021-02-18.eval.txt)
 
 ## Benchmarks
 
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.eng.por 	| 43.9 	| 0.652 |
-| Tatoeba-test.eng-por.eng.por 	| 44.5 	| 0.649 |
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-por 	| 43.9 	| 0.652 	| 10000 	| 75371 	| 0.969 |
 

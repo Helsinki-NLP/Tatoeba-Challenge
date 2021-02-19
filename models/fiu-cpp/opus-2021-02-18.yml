@@ -1,0 +1,51 @@
+release: fiu-cpp/opus-2021-02-18.zip
+release-date: 2021-02-18
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>ind<<
+   - >>jak_Latn<<
+   - >>msa_Latn<<
+   - >>zlm<<
+   - >>zlm_Latn<<
+   - >>zsm_Latn<<
+source-languages:
+   - fin
+   - hun
+target-languages:
+   - ind
+   - jak
+   - msa
+   - zlm
+   - zsm
+training-data:
+   - fin-ind: Tatoeba-train (1000000) 
+   - fin-jak_Latn: Tatoeba-train (6603) 
+   - fin-msa_Latn: Tatoeba-train (1000000) 
+   - fin-zlm: Tatoeba-train (313) 
+   - fin-zlm_Latn: Tatoeba-train (76976) 
+   - hun-ind: Tatoeba-train (1000000) 
+   - hun-jak_Latn: Tatoeba-train (6610) 
+   - hun-msa_Latn: Tatoeba-train (1000000) 
+   - hun-zlm: Tatoeba-train (206) 
+   - hun-zlm_Latn: Tatoeba-train (76799) 
+validation-data:
+test-data:
+   - Tatoeba-test.fin-msa: 24/140
+   - Tatoeba-test.hun-msa: 51/358
+   - Tatoeba-test.multi-multi: 75/498
+BLEU-scores:
+   - Tatoeba-test.fin-msa: 27.0
+   - Tatoeba-test.hun-msa: 23.1
+   - Tatoeba-test.multi-multi: 24.1
+chr-F-scores:
+   - Tatoeba-test.fin-msa: 0.545
+   - Tatoeba-test.hun-msa: 0.496
+   - Tatoeba-test.multi-multi: 0.509

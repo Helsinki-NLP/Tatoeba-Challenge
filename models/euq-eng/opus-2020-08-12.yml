@@ -13,9 +13,9 @@ source-languages:
    - eus
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.eus-eng: 1060/6861
 BLEU-scores:
-   - Tatoeba-test.eus.eng: 41.5
-   - Tatoeba-test.eus-eng.eus.eng: 41.5
+   - Tatoeba-test.eus-eng: 41.5
 chr-F-scores:
-   - Tatoeba-test.eus.eng: 0.594
-   - Tatoeba-test.eus-eng.eus.eng: 0.594
+   - Tatoeba-test.eus-eng: 0.594

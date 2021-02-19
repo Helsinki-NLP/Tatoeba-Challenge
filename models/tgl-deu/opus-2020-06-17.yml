@@ -10,10 +10,12 @@ subword-models:
    - source: source.spm
    - target: target.spm
 source-languages:
-   - tgl_Latn
+   - tgl
 target-languages:
    - deu
+test-data:
+   - Tatoeba-test.tgl-deu: 326/2041
 BLEU-scores:
-   - Tatoeba-test.tgl.deu: 22.7
+   - Tatoeba-test.tgl-deu: 22.7
 chr-F-scores:
-   - Tatoeba-test.tgl.deu: 0.473
+   - Tatoeba-test.tgl-deu: 0.473

@@ -12,12 +12,13 @@ subword-models:
 source-languages:
    - tur
 target-languages:
-   - uzb_Cyrl
-   - uzb_Latn
+   - uzb
 use-target-labels:
    - >>uzb_Cyrl<<
    - >>uzb_Latn<<
+test-data:
+   - Tatoeba-test.tur-uzb: 203/729
 BLEU-scores:
-   - Tatoeba-test.tur.uzb: 0.5
+   - Tatoeba-test.tur-uzb: 0.5
 chr-F-scores:
-   - Tatoeba-test.tur.uzb: 0.143
+   - Tatoeba-test.tur-uzb: 0.143

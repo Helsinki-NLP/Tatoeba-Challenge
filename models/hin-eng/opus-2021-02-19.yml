@@ -1,0 +1,33 @@
+release: hin-eng/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - hin
+target-languages:
+   - eng
+training-data:
+   - eng-hin: Tatoeba-train (1483083) 
+validation-data:
+   - eng-hin: Tatoeba-dev, 5821
+   - total size of shuffled dev data: 5821
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newsdev2014.hin-eng: 520/10406
+   - newstest2014-hien.hin-eng: 2507/55571
+   - Tatoeba-test.hin-eng: 5000/33943
+BLEU-scores:
+   - newsdev2014.hin-eng: 9.1
+   - newstest2014-hien.hin-eng: 13.3
+   - Tatoeba-test.hin-eng: 39.0
+chr-F-scores:
+   - newsdev2014.hin-eng: 0.351
+   - newstest2014-hien.hin-eng: 0.407
+   - Tatoeba-test.hin-eng: 0.569

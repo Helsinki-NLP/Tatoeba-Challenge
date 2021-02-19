@@ -18,19 +18,27 @@ source-languages:
    - glv
 target-languages:
    - eng
+test-data:
+   - Tatoeba-test.bre-eng: 383/1644
+   - Tatoeba-test.cor-eng: 3198/13500
+   - Tatoeba-test.cym-eng: 818/4618
+   - Tatoeba-test.gla-eng: 917/5130
+   - Tatoeba-test.gle-eng: 1924/9187
+   - Tatoeba-test.glv-eng: 5/22
+   - Tatoeba-test.multi-eng: 7245/34101
 BLEU-scores:
-   - Tatoeba-test.bre-eng.bre.eng: 17.2
-   - Tatoeba-test.cor-eng.cor.eng: 3.2
-   - Tatoeba-test.cym-eng.cym.eng: 41.3
-   - Tatoeba-test.gla-eng.gla.eng: 16.3
-   - Tatoeba-test.gle-eng.gle.eng: 51.3
-   - Tatoeba-test.glv-eng.glv.eng: 17.0
-   - Tatoeba-test.multi.eng: 23.3
+   - Tatoeba-test.bre-eng: 17.2
+   - Tatoeba-test.cor-eng: 3.2
+   - Tatoeba-test.cym-eng: 41.3
+   - Tatoeba-test.gla-eng: 16.3
+   - Tatoeba-test.gle-eng: 51.3
+   - Tatoeba-test.glv-eng: 17.0
+   - Tatoeba-test.multi-eng: 23.3
 chr-F-scores:
-   - Tatoeba-test.bre-eng.bre.eng: 0.395
-   - Tatoeba-test.cor-eng.cor.eng: 0.177
-   - Tatoeba-test.cym-eng.cym.eng: 0.584
-   - Tatoeba-test.gla-eng.gla.eng: 0.337
-   - Tatoeba-test.gle-eng.gle.eng: 0.675
-   - Tatoeba-test.glv-eng.glv.eng: 0.525
-   - Tatoeba-test.multi.eng: 0.404
+   - Tatoeba-test.bre-eng: 0.395
+   - Tatoeba-test.cor-eng: 0.177
+   - Tatoeba-test.cym-eng: 0.584
+   - Tatoeba-test.gla-eng: 0.337
+   - Tatoeba-test.gle-eng: 0.675
+   - Tatoeba-test.glv-eng: 0.525
+   - Tatoeba-test.multi-eng: 0.404

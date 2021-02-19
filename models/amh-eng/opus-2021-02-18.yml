@@ -1,0 +1,27 @@
+release: amh-eng/opus-2021-02-18.zip
+release-date: 2021-02-18
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - amh
+target-languages:
+   - eng
+training-data:
+   - amh-eng: Tatoeba-train (991645) 
+validation-data:
+   - amh-eng: Tatoeba-dev, 994
+   - total size of shuffled dev data: 990
+   - devset = top 990  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.amh-eng: 190/1001
+BLEU-scores:
+   - Tatoeba-test.amh-eng: 31.0
+chr-F-scores:
+   - Tatoeba-test.amh-eng: 0.493

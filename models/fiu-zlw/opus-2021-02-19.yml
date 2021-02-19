@@ -1,0 +1,67 @@
+release: fiu-zlw/opus-2021-02-19.zip
+release-date: 2021-02-19
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>ces<<
+   - >>pol<<
+source-languages:
+   - est
+   - fin
+   - hun
+   - mhr
+target-languages:
+   - ces
+   - pol
+training-data:
+   - est-pol: Tatoeba-train (1000000) 
+   - fin-ces: Tatoeba-train (1000000) 
+   - fin-pol: Tatoeba-train (1000000) 
+   - hun-ces: Tatoeba-train (1000000) 
+   - hun-pol: Tatoeba-train (1000000) 
+validation-data:
+   - est-pol: Tatoeba-dev, 1000
+   - ces-fin: Tatoeba-dev, 1000
+   - fin-pol: Tatoeba-dev, 1000
+   - ces-hun: Tatoeba-dev, 1000
+   - hun-pol: Tatoeba-dev, 1000
+   - mhr-pol: Tatoeba-dev, 461
+   - total size of shuffled dev data: 5426
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newssyscomb2009.hun-ces: 502/10032
+   - newstest2009.hun-ces: 2525/55533
+   - Tatoeba-test.chm-pol: 5/31
+   - Tatoeba-test.est-pol: 15/91
+   - Tatoeba-test.fin-ces: 88/416
+   - Tatoeba-test.fin-pol: 609/3513
+   - Tatoeba-test.hun-ces: 1911/10641
+   - Tatoeba-test.hun-pol: 1934/11750
+   - Tatoeba-test.multi-multi: 4562/26442
+BLEU-scores:
+   - newssyscomb2009.hun-ces: 13.7
+   - newstest2009.hun-ces: 13.6
+   - Tatoeba-test.chm-pol: 0.4
+   - Tatoeba-test.est-pol: 24.9
+   - Tatoeba-test.fin-ces: 53.4
+   - Tatoeba-test.fin-pol: 44.6
+   - Tatoeba-test.hun-ces: 42.7
+   - Tatoeba-test.hun-pol: 39.8
+   - Tatoeba-test.multi-multi: 41.7
+chr-F-scores:
+   - newssyscomb2009.hun-ces: 0.426
+   - newstest2009.hun-ces: 0.418
+   - Tatoeba-test.chm-pol: 0.039
+   - Tatoeba-test.est-pol: 0.435
+   - Tatoeba-test.fin-ces: 0.674
+   - Tatoeba-test.fin-pol: 0.639
+   - Tatoeba-test.hun-ces: 0.618
+   - Tatoeba-test.hun-pol: 0.616
+   - Tatoeba-test.multi-multi: 0.619
