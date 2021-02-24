@@ -1,0 +1,151 @@
+release: zle-zle/opus-2021-02-23.zip
+release-date: 2021-02-23
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>bel<<
+   - >>bel_Latn<<
+   - >>orv_Cyrl<<
+   - >>rus<<
+   - >>ukr<<
+source-languages:
+   - bel
+   - orv
+   - rus
+   - ukr
+target-languages:
+   - bel
+   - orv
+   - rus
+   - ukr
+training-data:
+   - bel-eng: Tatoeba-train (154954) 
+   - bel-rus: Tatoeba-train (71916) 
+   - bel-ukr: Tatoeba-train (65451) 
+   - bel_Latn-eng: Tatoeba-train (2570) 
+   - bel_Latn-rus: Tatoeba-train (289) 
+   - bel_Latn-ukr: Tatoeba-train (347) 
+   - eng-bel: Tatoeba-train (154954) 
+   - eng-bel_Latn: Tatoeba-train (2570) 
+   - eng-rus: Tatoeba-train (1000000) 
+   - eng-ukr: Tatoeba-train (1000000) 
+   - rus-bel: Tatoeba-train (71916) 
+   - rus-bel_Latn: Tatoeba-train (289) 
+   - rus-eng: Tatoeba-train (1000000) 
+   - rus-ukr: Tatoeba-train (1000000) 
+   - ukr-bel: Tatoeba-train (65451) 
+   - ukr-bel_Latn: Tatoeba-train (347) 
+   - ukr-eng: Tatoeba-train (1000000) 
+   - ukr-rus: Tatoeba-train (1000000) 
+validation-data:
+   - bel-eng: Tatoeba-dev, 4241
+   - bel-rus: Tatoeba-dev, 2738
+   - bel-ukr: Tatoeba-dev, 994
+   - bel_Latn-eng: Tatoeba-dev, 12
+   - bel_Latn-rus: Tatoeba-dev, 5
+   - bel_Latn-ukr: Tatoeba-dev, 6
+   - bel-eng: Tatoeba-dev, 4241
+   - bel_Latn-eng: Tatoeba-dev, 12
+   - eng-rus: Tatoeba-dev, 491482
+   - eng-ukr: Tatoeba-dev, 157764
+   - bel-rus: Tatoeba-dev, 2738
+   - bel_Latn-rus: Tatoeba-dev, 5
+   - eng-rus: Tatoeba-dev, 491482
+   - rus-ukr: Tatoeba-dev, 6815
+   - bel-ukr: Tatoeba-dev, 994
+   - bel_Latn-ukr: Tatoeba-dev, 6
+   - eng-ukr: Tatoeba-dev, 157764
+   - rus-ukr: Tatoeba-dev, 6815
+   - total size of shuffled dev data: 1327549
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newstest2012.eng-rus: 3003/64830
+   - newstest2012.rus-eng: 3003/72812
+   - newstest2013.eng-rus: 3000/58560
+   - newstest2013.rus-eng: 3000/64505
+   - newstest2014-ruen.rus-eng: 3003/69190
+   - newstest2015-enru.eng-rus: 2818/55915
+   - newstest2015-enru.rus-eng: 2818/64744
+   - newstest2016-enru.eng-rus: 2998/62018
+   - newstest2016-enru.rus-eng: 2998/69278
+   - newstest2017-enru.eng-rus: 3001/60255
+   - newstest2017-enru.rus-eng: 3001/69033
+   - newstest2018-enru.eng-rus: 3000/61920
+   - newstest2018-enru.rus-eng: 3000/71723
+   - newstest2019-enru.eng-rus: 1997/48153
+   - newstest2019-ruen.rus-eng: 2000/42875
+   - Tatoeba-test.bel-rus: 2500/18895
+   - Tatoeba-test.bel-ukr: 2355/15179
+   - Tatoeba-test.multi-multi: 10000/63367
+   - Tatoeba-test.orv-rus: 171/1266
+   - Tatoeba-test.orv-ukr: 973/5446
+   - Tatoeba-test.rus-bel: 2500/18756
+   - Tatoeba-test.rus-orv: 171/1174
+   - Tatoeba-test.rus-ukr: 10000/60212
+   - Tatoeba-test.ukr-bel: 2355/15175
+   - Tatoeba-test.ukr-orv: 973/5038
+   - Tatoeba-test.ukr-rus: 10000/60387
+   - tico19-test.eng-rus: 2100/55837
+BLEU-scores:
+   - newstest2012.eng-rus: 26.4
+   - newstest2012.rus-eng: 29.6
+   - newstest2013.eng-rus: 20.4
+   - newstest2013.rus-eng: 23.8
+   - newstest2014-ruen.rus-eng: 26.4
+   - newstest2015-enru.eng-rus: 22.4
+   - newstest2015-enru.rus-eng: 25.2
+   - newstest2016-enru.eng-rus: 21.6
+   - newstest2016-enru.rus-eng: 23.9
+   - newstest2017-enru.eng-rus: 23.6
+   - newstest2017-enru.rus-eng: 27.5
+   - newstest2018-enru.eng-rus: 20.4
+   - newstest2018-enru.rus-eng: 23.3
+   - newstest2019-enru.eng-rus: 22.3
+   - newstest2019-ruen.rus-eng: 26.0
+   - Tatoeba-test.bel-rus: 56.9
+   - Tatoeba-test.bel-ukr: 54.5
+   - Tatoeba-test.multi-multi: 55.0
+   - Tatoeba-test.orv-rus: 5.3
+   - Tatoeba-test.orv-ukr: 3.1
+   - Tatoeba-test.rus-bel: 44.0
+   - Tatoeba-test.rus-orv: 0.2
+   - Tatoeba-test.rus-ukr: 63.0
+   - Tatoeba-test.ukr-bel: 46.7
+   - Tatoeba-test.ukr-orv: 0.4
+   - Tatoeba-test.ukr-rus: 68.8
+   - tico19-test.eng-rus: 20.2
+chr-F-scores:
+   - newstest2012.eng-rus: 0.538
+   - newstest2012.rus-eng: 0.568
+   - newstest2013.eng-rus: 0.481
+   - newstest2013.rus-eng: 0.513
+   - newstest2014-ruen.rus-eng: 0.550
+   - newstest2015-enru.eng-rus: 0.515
+   - newstest2015-enru.rus-eng: 0.529
+   - newstest2016-enru.eng-rus: 0.505
+   - newstest2016-enru.rus-eng: 0.521
+   - newstest2017-enru.eng-rus: 0.524
+   - newstest2017-enru.rus-eng: 0.546
+   - newstest2018-enru.eng-rus: 0.509
+   - newstest2018-enru.rus-eng: 0.518
+   - newstest2019-enru.eng-rus: 0.487
+   - newstest2019-ruen.rus-eng: 0.537
+   - Tatoeba-test.bel-rus: 0.753
+   - Tatoeba-test.bel-ukr: 0.742
+   - Tatoeba-test.multi-multi: 0.730
+   - Tatoeba-test.orv-rus: 0.224
+   - Tatoeba-test.orv-ukr: 0.175
+   - Tatoeba-test.rus-bel: 0.659
+   - Tatoeba-test.rus-orv: 0.149
+   - Tatoeba-test.rus-ukr: 0.789
+   - Tatoeba-test.ukr-bel: 0.680
+   - Tatoeba-test.ukr-orv: 0.138
+   - Tatoeba-test.ukr-rus: 0.824
+   - tico19-test.eng-rus: 0.484

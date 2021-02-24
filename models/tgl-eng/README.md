@@ -16,21 +16,22 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.tgl.eng 	| 35.0 	| 0.542 |
 
-# opus-2020-09-10.zip
+# opus-2021-02-24.zip
 
 * dataset: opus
 * model: transformer
-* source language(s): tgl tgl_Latn
+* source language(s): tgl
 * target language(s): eng
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* download: [opus-2020-09-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-eng/opus-2020-09-10.zip)
-* test set translations: [opus-2020-09-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-eng/opus-2020-09-10.test.txt)
-* test set scores: [opus-2020-09-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-eng/opus-2020-09-10.eval.txt)
+* download: [opus-2021-02-24.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-eng/opus-2021-02-24.zip)
+* test set translations: [opus-2021-02-24.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-eng/opus-2021-02-24.test.txt)
+* test set scores: [opus-2021-02-24.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-eng/opus-2021-02-24.eval.txt)
 
 ## Benchmarks
 
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.tgl.eng 	| 35.1 	| 0.542 |
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.tgl-eng 	| 35.1 	| 0.542 	| 5000 	| 36336 	| 0.979 |
+| tico19-test.tgl-eng 	| 39.6 	| 0.639 	| 2100 	| 56848 	| 1.000 |
 

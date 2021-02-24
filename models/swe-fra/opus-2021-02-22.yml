@@ -1,0 +1,30 @@
+release: swe-fra/opus-2021-02-22.zip
+release-date: 2021-02-22
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - swe
+target-languages:
+   - fra
+training-data:
+   - swe-fra: Tatoeba-train (27979616) 
+validation-data:
+   - fra-swe: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 999
+   - devset = top 999  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.swe-fra: 1409/9585
+   - Tatoeba-test.swe-fra: 1409/9585
+BLEU-scores:
+   - Tatoeba-test.swe-fra: 58.2
+   - Tatoeba-test.swe-fra: 58.2
+chr-F-scores:
+   - Tatoeba-test.swe-fra: 0.724
+   - Tatoeba-test.swe-fra: 0.724

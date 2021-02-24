@@ -75,6 +75,7 @@ to be useful for anything.
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.319 | 11.0 |
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.309 | 10.4 |
 | [trk-eng/opus](../models/trk-eng) | tatoeba | 0.177 | 2.0 |
+| [trk-eng/opus1m](../models/trk-eng) | tatoeba | 0.173 | 1.2 |
 | [tut-eng/opus4m](../models/tut-eng) | tatoeba | 0.162 | 0.8 |
 | [trk-eng/opus2m](../models/trk-eng) | tatoeba | 0.161 | 1.3 |
 | | lang = chv-rus | | | | |

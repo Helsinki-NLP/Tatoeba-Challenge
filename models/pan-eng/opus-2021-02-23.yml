@@ -1,0 +1,29 @@
+release: pan-eng/opus-2021-02-23.zip
+release-date: 2021-02-23
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - pan
+target-languages:
+   - eng
+training-data:
+   - pan-eng: Tatoeba-train (2) 
+   - pan_Guru-eng: Tatoeba-train (665989) 
+validation-data:
+   - eng-pan: Tatoeba-dev, 1000
+   - eng-pan_Guru: Tatoeba-dev, 984
+   - total size of shuffled dev data: 998
+   - devset = top 998  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.pan-eng: 174/1232
+BLEU-scores:
+   - Tatoeba-test.pan-eng: 11.2
+chr-F-scores:
+   - Tatoeba-test.pan-eng: 0.306

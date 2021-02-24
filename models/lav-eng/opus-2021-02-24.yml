@@ -1,0 +1,35 @@
+release: lav-eng/opus-2021-02-24.zip
+release-date: 2021-02-24
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - lav
+   - ltg
+target-languages:
+   - eng
+training-data:
+   - lav-eng: Tatoeba-train (12064846) 
+   - ltg-eng: Tatoeba-train (471) 
+validation-data:
+   - eng-lav: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 983
+   - devset = top 983  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newsdev2017-enlv.lav-eng: 2003/48175
+   - newstest2017-enlv.lav-eng: 2001/47511
+   - Tatoeba-test.lav-eng: 1631/11213
+BLEU-scores:
+   - newsdev2017-enlv.lav-eng: 29.9
+   - newstest2017-enlv.lav-eng: 22.8
+   - Tatoeba-test.lav-eng: 53.9
+chr-F-scores:
+   - newsdev2017-enlv.lav-eng: 0.591
+   - newstest2017-enlv.lav-eng: 0.527
+   - Tatoeba-test.lav-eng: 0.707

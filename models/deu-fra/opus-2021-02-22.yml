@@ -1,0 +1,57 @@
+release: deu-fra/opus-2021-02-22.zip
+release-date: 2021-02-22
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - deu
+target-languages:
+   - fra
+training-data:
+   - deu-fra: Tatoeba-train (47482630) 
+validation-data:
+   - deu-fra: Tatoeba-dev, 96433
+   - total size of shuffled dev data: 96433
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - euelections_dev2019.de-fr.deu-fra: 1512/38376
+   - newssyscomb2009.deu-fra: 502/12334
+   - news-test2008.deu-fra: 2051/52685
+   - newstest2009.deu-fra: 2525/69278
+   - newstest2010.deu-fra: 2489/66043
+   - newstest2011.deu-fra: 3003/80626
+   - newstest2012.deu-fra: 3003/78011
+   - newstest2013.deu-fra: 3000/70037
+   - newstest2019-defr.deu-fra: 1701/42530
+   - Tatoeba-test.deu-fra: 10000/81669
+   - Tatoeba-test.deu-fra: 10000/81669
+BLEU-scores:
+   - euelections_dev2019.de-fr.deu-fra: 32.5
+   - newssyscomb2009.deu-fra: 26.8
+   - news-test2008.deu-fra: 26.6
+   - newstest2009.deu-fra: 25.2
+   - newstest2010.deu-fra: 29.5
+   - newstest2011.deu-fra: 27.3
+   - newstest2012.deu-fra: 27.5
+   - newstest2013.deu-fra: 29.7
+   - newstest2019-defr.deu-fra: 36.2
+   - Tatoeba-test.deu-fra: 49.2
+   - Tatoeba-test.deu-fra: 49.2
+chr-F-scores:
+   - euelections_dev2019.de-fr.deu-fra: 0.595
+   - newssyscomb2009.deu-fra: 0.556
+   - news-test2008.deu-fra: 0.551
+   - newstest2009.deu-fra: 0.538
+   - newstest2010.deu-fra: 0.579
+   - newstest2011.deu-fra: 0.557
+   - newstest2012.deu-fra: 0.556
+   - newstest2013.deu-fra: 0.564
+   - newstest2019-defr.deu-fra: 0.631
+   - Tatoeba-test.deu-fra: 0.665
+   - Tatoeba-test.deu-fra: 0.665

@@ -46,3 +46,26 @@
 | Tatoeba-test.pap-eng.pap.eng 	| 48.9 	| 0.603 |
 | Tatoeba-test.pap-msa.pap.msa 	| 17.7 	| 0.197 |
 
+# opus-2021-02-23.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): ind msa pap zlm
+* target language(s): ind msa pap zlm
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>eng<< >>pap<< >>zlm_Latn<< >>ind<< >>msa_Latn<< >>jak_Latn<< >>zlm<< >>min<<
+* download: [opus-2021-02-23.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-cpp/opus-2021-02-23.zip)
+* test set translations: [opus-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-cpp/opus-2021-02-23.test.txt)
+* test set scores: [opus-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-cpp/opus-2021-02-23.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.msa-msa 	| 14.8 	| 0.353 	| 870 	| 6029 	| 1.000 |
+| Tatoeba-test.msa-pap 	| 31.7 	| 0.577 	| 2 	| 10 	| 0.779 |
+| Tatoeba-test.multi-multi 	| 21.1 	| 0.369 	| 4 	| 18 	| 0.882 |
+| Tatoeba-test.pap-msa 	| 17.7 	| 0.197 	| 2 	| 8 	| 1.000 |
+

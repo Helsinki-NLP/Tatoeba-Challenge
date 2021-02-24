@@ -1,0 +1,37 @@
+release: heb-ara/opus-2021-02-23.zip
+release-date: 2021-02-23
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>apc<<
+   - >>ara<<
+   - >>arq<<
+   - >>arz<<
+source-languages:
+   - heb
+target-languages:
+   - apc
+   - ara
+   - arq
+   - arz
+training-data:
+   - heb-ara: Tatoeba-train (21407486) 
+   - heb-arq: Tatoeba-train (48) 
+   - heb-arz: Tatoeba-train (3) 
+validation-data:
+   - ara-heb: Tatoeba-dev, 999
+   - total size of shuffled dev data: 998
+   - devset = top 998  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.heb-ara: 1208/6372
+BLEU-scores:
+   - Tatoeba-test.heb-ara: 23.6
+chr-F-scores:
+   - Tatoeba-test.heb-ara: 0.532

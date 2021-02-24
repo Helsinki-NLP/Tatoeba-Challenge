@@ -165,3 +165,42 @@
 | Tatoeba-test.urd-eng.urd.eng 	| 25.9 	| 0.462 |
 | Tatoeba-test.urd-hin.urd.hin 	| 25.6 	| 0.520 |
 
+# opus-2021-02-24.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): asm hin mar urd
+* target language(s): asm hin mar urd
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>eng<< >>hin<< >>urd<< >>mar<< >>asm<< >>guj<< >>ori<< >>pan_Guru<< >>sin<< >>mai<< >>nep<< >>ben<< >>snd_Arab<< >>rom<< >>rmn<< >>san_Deva<< >>san<< >>ben_Cyrl<< >>dty<< >>rmy<< >>ben_Deva<< >>ben_Gujr<<
+* download: [opus-2021-02-24.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/inc-inc/opus-2021-02-24.zip)
+* test set translations: [opus-2021-02-24.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/inc-inc/opus-2021-02-24.test.txt)
+* test set scores: [opus-2021-02-24.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/inc-inc/opus-2021-02-24.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newsdev2014.eng-hin 	| 6.8 	| 0.325 	| 520 	| 9538 	| 1.000 |
+| newsdev2014.hin-eng 	| 9.7 	| 0.360 	| 520 	| 10406 	| 0.884 |
+| newsdev2019-engu.eng-guj 	| 5.5 	| 0.279 	| 1998 	| 39137 	| 0.766 |
+| newsdev2019-engu.guj-eng 	| 11.0 	| 0.346 	| 1998 	| 41862 	| 1.000 |
+| newstest2014-hien.eng-hin 	| 9.7 	| 0.338 	| 2507 	| 60878 	| 0.957 |
+| newstest2014-hien.hin-eng 	| 13.3 	| 0.413 	| 2507 	| 55571 	| 0.958 |
+| newstest2019-engu.eng-guj 	| 6.1 	| 0.286 	| 998 	| 21927 	| 0.760 |
+| newstest2019-guen.guj-eng 	| 8.4 	| 0.316 	| 1016 	| 17778 	| 1.000 |
+| Tatoeba-test.asm-hin 	| 26.5 	| 0.607 	| 4 	| 16 	| 1.000 |
+| Tatoeba-test.hin-asm 	| 8.9 	| 0.387 	| 4 	| 14 	| 1.000 |
+| Tatoeba-test.hin-mar 	| 32.9 	| 0.599 	| 158 	| 866 	| 1.000 |
+| Tatoeba-test.hin-urd 	| 21.8 	| 0.534 	| 239 	| 1618 	| 1.000 |
+| Tatoeba-test.mar-hin 	| 15.6 	| 0.520 	| 158 	| 890 	| 1.000 |
+| Tatoeba-test.multi-multi 	| 23.3 	| 0.538 	| 802 	| 4985 	| 1.000 |
+| Tatoeba-test.urd-hin 	| 25.6 	| 0.520 	| 239 	| 1581 	| 1.000 |
+| tico19-test.eng-ben 	| 4.6 	| 0.312 	| 2100 	| 51751 	| 0.757 |
+| tico19-test.eng-hin 	| 15.0 	| 0.373 	| 2100 	| 62738 	| 0.909 |
+| tico19-test.eng-mar 	| 4.3 	| 0.277 	| 2100 	| 50881 	| 0.713 |
+| tico19-test.eng-nep 	| 5.8 	| 0.338 	| 2100 	| 48706 	| 0.777 |
+| tico19-test.eng-urd 	| 7.9 	| 0.317 	| 2100 	| 65363 	| 0.802 |
+

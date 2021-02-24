@@ -1,0 +1,37 @@
+release: rus-ara/opus-2021-02-23.zip
+release-date: 2021-02-23
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>apc<<
+   - >>ara<<
+   - >>arq<<
+   - >>arz<<
+source-languages:
+   - rus
+target-languages:
+   - apc
+   - ara
+   - arq
+   - arz
+training-data:
+   - rus-ara: Tatoeba-train (42057598) 
+   - rus-arq: Tatoeba-train (516) 
+   - rus-arz: Tatoeba-train (3) 
+validation-data:
+   - ara-rus: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.rus-ara: 3715/18878
+BLEU-scores:
+   - Tatoeba-test.rus-ara: 16.3
+chr-F-scores:
+   - Tatoeba-test.rus-ara: 0.484

@@ -1,0 +1,33 @@
+release: deu-fas/opus-2021-02-23.zip
+release-date: 2021-02-23
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>fas<<
+   - >>pes<<
+source-languages:
+   - deu
+target-languages:
+   - fas
+   - pes
+training-data:
+   - deu-fas: Tatoeba-train (4118227) 
+   - deu-pes: Tatoeba-train (30916) 
+validation-data:
+   - deu-fas: Tatoeba-dev, 1000
+   - deu-pes: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 2000
+   - devset = top 2000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.deu-fas: 6370/49882
+BLEU-scores:
+   - Tatoeba-test.deu-fas: 10.4
+chr-F-scores:
+   - Tatoeba-test.deu-fas: 0.335

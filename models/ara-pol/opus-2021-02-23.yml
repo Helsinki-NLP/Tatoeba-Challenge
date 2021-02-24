@@ -1,0 +1,31 @@
+release: ara-pol/opus-2021-02-23.zip
+release-date: 2021-02-23
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - ara
+   - arq
+   - arz
+target-languages:
+   - pol
+training-data:
+   - ara-pol: Tatoeba-train (24821643) 
+   - arq-pol: Tatoeba-train (472) 
+   - arz-pol: Tatoeba-train (3) 
+validation-data:
+   - ara-pol: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 999
+   - devset = top 999  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.ara-pol: 207/1171
+BLEU-scores:
+   - Tatoeba-test.ara-pol: 40.0
+chr-F-scores:
+   - Tatoeba-test.ara-pol: 0.620

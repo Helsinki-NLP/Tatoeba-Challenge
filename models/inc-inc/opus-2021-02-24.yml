@@ -1,0 +1,196 @@
+release: inc-inc/opus-2021-02-24.zip
+release-date: 2021-02-24
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>asm<<
+   - >>hin<<
+   - >>mar<<
+   - >>urd<<
+   - >>urd_Deva<<
+source-languages:
+   - asm
+   - hin
+   - mar
+   - urd
+target-languages:
+   - asm
+   - hin
+   - mar
+   - urd
+training-data:
+   - asm-eng: Tatoeba-train (533376) 
+   - asm-hin: Tatoeba-train (184832) 
+   - ben-eng: Tatoeba-train (1000000) 
+   - ben_Cyrl-eng: Tatoeba-train (41) 
+   - ben_Deva-eng: Tatoeba-train (9) 
+   - ben_Gujr-eng: Tatoeba-train (6) 
+   - dty-eng: Tatoeba-train (34) 
+   - eng-asm: Tatoeba-train (533376) 
+   - eng-ben: Tatoeba-train (1000000) 
+   - eng-ben_Cyrl: Tatoeba-train (41) 
+   - eng-ben_Deva: Tatoeba-train (9) 
+   - eng-ben_Gujr: Tatoeba-train (6) 
+   - eng-dty: Tatoeba-train (34) 
+   - eng-guj: Tatoeba-train (1000000) 
+   - eng-hin: Tatoeba-train (1000000) 
+   - eng-mai: Tatoeba-train (203954) 
+   - eng-mar: Tatoeba-train (369400) 
+   - eng-nep: Tatoeba-train (1000000) 
+   - eng-ori: Tatoeba-train (55808) 
+   - eng-pan: Tatoeba-train (2) 
+   - eng-pan_Guru: Tatoeba-train (665989) 
+   - eng-rmn: Tatoeba-train (11228) 
+   - eng-rmy: Tatoeba-train (12) 
+   - eng-rom: Tatoeba-train (12359) 
+   - eng-san: Tatoeba-train (72) 
+   - eng-san_Deva: Tatoeba-train (2945) 
+   - eng-sin: Tatoeba-train (1000000) 
+   - eng-snd_Arab: Tatoeba-train (107499) 
+   - eng-urd: Tatoeba-train (1000000) 
+   - guj-eng: Tatoeba-train (1000000) 
+   - hin-asm: Tatoeba-train (184832) 
+   - hin-eng: Tatoeba-train (1000000) 
+   - hin-mar: Tatoeba-train (364123) 
+   - hin-urd: Tatoeba-train (383287) 
+   - hin-urd_Deva: Tatoeba-train (2) 
+   - mai-eng: Tatoeba-train (203954) 
+   - mar-eng: Tatoeba-train (369400) 
+   - mar-hin: Tatoeba-train (364123) 
+   - nep-eng: Tatoeba-train (1000000) 
+   - ori-eng: Tatoeba-train (55808) 
+   - pan-eng: Tatoeba-train (2) 
+   - pan_Guru-eng: Tatoeba-train (665989) 
+   - rmn-eng: Tatoeba-train (11228) 
+   - rmy-eng: Tatoeba-train (12) 
+   - rom-eng: Tatoeba-train (12359) 
+   - san-eng: Tatoeba-train (72) 
+   - san_Deva-eng: Tatoeba-train (2945) 
+   - sin-eng: Tatoeba-train (1000000) 
+   - snd_Arab-eng: Tatoeba-train (107499) 
+   - urd-eng: Tatoeba-train (1000000) 
+   - urd-hin: Tatoeba-train (383287) 
+   - urd_Deva-hin: Tatoeba-train (2) 
+validation-data:
+   - asm-eng: Tatoeba-dev, 987
+   - asm-hin: Tatoeba-dev, 987
+   - ben-eng: Tatoeba-dev, 2637
+   - bho-eng: Tatoeba-dev, 90
+   - asm-eng: Tatoeba-dev, 987
+   - ben-eng: Tatoeba-dev, 2637
+   - bho-eng: Tatoeba-dev, 90
+   - eng-gom: Tatoeba-dev, 191
+   - eng-guj: Tatoeba-dev, 987
+   - eng-hif_Latn: Tatoeba-dev, 7
+   - eng-hin: Tatoeba-dev, 5821
+   - eng-mai: Tatoeba-dev, 941
+   - eng-mar: Tatoeba-dev, 42834
+   - eng-nep: Tatoeba-dev, 993
+   - eng-ori: Tatoeba-dev, 968
+   - eng-pan: Tatoeba-dev, 1000
+   - eng-pan_Guru: Tatoeba-dev, 984
+   - eng-pnb: Tatoeba-dev, 3
+   - eng-pnb_Guru: Tatoeba-dev, 2
+   - eng-rmn: Tatoeba-dev, 484
+   - eng-rom: Tatoeba-dev, 516
+   - eng-san: Tatoeba-dev, 17
+   - eng-san_Deva: Tatoeba-dev, 776
+   - eng-sin: Tatoeba-dev, 997
+   - eng-snd_Arab: Tatoeba-dev, 996
+   - eng-urd: Tatoeba-dev, 1000
+   - eng-gom: Tatoeba-dev, 191
+   - eng-guj: Tatoeba-dev, 987
+   - eng-hif_Latn: Tatoeba-dev, 7
+   - asm-hin: Tatoeba-dev, 987
+   - eng-hin: Tatoeba-dev, 5821
+   - hin-mar: Tatoeba-dev, 995
+   - hin-urd: Tatoeba-dev, 1000
+   - eng-mai: Tatoeba-dev, 941
+   - eng-mar: Tatoeba-dev, 42834
+   - hin-mar: Tatoeba-dev, 995
+   - eng-nep: Tatoeba-dev, 993
+   - eng-ori: Tatoeba-dev, 968
+   - eng-pan: Tatoeba-dev, 1000
+   - eng-pan_Guru: Tatoeba-dev, 984
+   - eng-pnb: Tatoeba-dev, 3
+   - eng-pnb_Guru: Tatoeba-dev, 2
+   - eng-rmn: Tatoeba-dev, 484
+   - eng-rom: Tatoeba-dev, 516
+   - eng-san: Tatoeba-dev, 17
+   - eng-san_Deva: Tatoeba-dev, 776
+   - eng-sin: Tatoeba-dev, 997
+   - eng-snd_Arab: Tatoeba-dev, 996
+   - eng-urd: Tatoeba-dev, 1000
+   - hin-urd: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 130496
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newsdev2014.eng-hin: 520/9538
+   - newsdev2014.hin-eng: 520/10406
+   - newsdev2019-engu.eng-guj: 1998/39137
+   - newsdev2019-engu.guj-eng: 1998/41862
+   - newstest2014-hien.eng-hin: 2507/60878
+   - newstest2014-hien.hin-eng: 2507/55571
+   - newstest2019-engu.eng-guj: 998/21927
+   - newstest2019-guen.guj-eng: 1016/17778
+   - Tatoeba-test.asm-hin: 4/16
+   - Tatoeba-test.hin-asm: 4/14
+   - Tatoeba-test.hin-mar: 158/866
+   - Tatoeba-test.hin-urd: 239/1618
+   - Tatoeba-test.mar-hin: 158/890
+   - Tatoeba-test.multi-multi: 802/4985
+   - Tatoeba-test.urd-hin: 239/1581
+   - tico19-test.eng-ben: 2100/51751
+   - tico19-test.eng-hin: 2100/62738
+   - tico19-test.eng-mar: 2100/50881
+   - tico19-test.eng-nep: 2100/48706
+   - tico19-test.eng-urd: 2100/65363
+BLEU-scores:
+   - newsdev2014.eng-hin: 6.8
+   - newsdev2014.hin-eng: 9.7
+   - newsdev2019-engu.eng-guj: 5.5
+   - newsdev2019-engu.guj-eng: 11.0
+   - newstest2014-hien.eng-hin: 9.7
+   - newstest2014-hien.hin-eng: 13.3
+   - newstest2019-engu.eng-guj: 6.1
+   - newstest2019-guen.guj-eng: 8.4
+   - Tatoeba-test.asm-hin: 26.5
+   - Tatoeba-test.hin-asm: 8.9
+   - Tatoeba-test.hin-mar: 32.9
+   - Tatoeba-test.hin-urd: 21.8
+   - Tatoeba-test.mar-hin: 15.6
+   - Tatoeba-test.multi-multi: 23.3
+   - Tatoeba-test.urd-hin: 25.6
+   - tico19-test.eng-ben: 4.6
+   - tico19-test.eng-hin: 15.0
+   - tico19-test.eng-mar: 4.3
+   - tico19-test.eng-nep: 5.8
+   - tico19-test.eng-urd: 7.9
+chr-F-scores:
+   - newsdev2014.eng-hin: 0.325
+   - newsdev2014.hin-eng: 0.360
+   - newsdev2019-engu.eng-guj: 0.279
+   - newsdev2019-engu.guj-eng: 0.346
+   - newstest2014-hien.eng-hin: 0.338
+   - newstest2014-hien.hin-eng: 0.413
+   - newstest2019-engu.eng-guj: 0.286
+   - newstest2019-guen.guj-eng: 0.316
+   - Tatoeba-test.asm-hin: 0.607
+   - Tatoeba-test.hin-asm: 0.387
+   - Tatoeba-test.hin-mar: 0.599
+   - Tatoeba-test.hin-urd: 0.534
+   - Tatoeba-test.mar-hin: 0.520
+   - Tatoeba-test.multi-multi: 0.538
+   - Tatoeba-test.urd-hin: 0.520
+   - tico19-test.eng-ben: 0.312
+   - tico19-test.eng-hin: 0.373
+   - tico19-test.eng-mar: 0.277
+   - tico19-test.eng-nep: 0.338
+   - tico19-test.eng-urd: 0.317

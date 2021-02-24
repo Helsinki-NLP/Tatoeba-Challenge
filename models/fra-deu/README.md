@@ -53,3 +53,30 @@
 | newstest2019-frde.fra-deu 	| 27.3 	| 0.593 	| 1701 	| 36571 	| 1.000 |
 | Tatoeba-test.fra-deu 	| 48.2 	| 0.668 	| 10000 	| 80271 	| 0.996 |
 
+# opus-2021-02-22.zip
+
+* dataset: opus
+* model: transformer-align
+* source language(s): fra
+* target language(s): deu
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus-2021-02-22.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opus-2021-02-22.zip)
+* test set translations: [opus-2021-02-22.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opus-2021-02-22.test.txt)
+* test set scores: [opus-2021-02-22.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opus-2021-02-22.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| euelections_dev2019.fr-de.fra-deu 	| 26.0 	| 0.571 	| 1512 	| 33478 	| 1.000 |
+| newssyscomb2009.fra-deu 	| 23.2 	| 0.529 	| 502 	| 11271 	| 0.998 |
+| news-test2008.fra-deu 	| 21.8 	| 0.523 	| 2051 	| 47427 	| 1.000 |
+| newstest2009.fra-deu 	| 21.7 	| 0.522 	| 2525 	| 62816 	| 1.000 |
+| newstest2010.fra-deu 	| 22.8 	| 0.529 	| 2489 	| 61511 	| 0.998 |
+| newstest2011.fra-deu 	| 21.4 	| 0.518 	| 3003 	| 72981 	| 1.000 |
+| newstest2012.fra-deu 	| 22.5 	| 0.517 	| 3003 	| 72886 	| 0.999 |
+| newstest2013.fra-deu 	| 24.1 	| 0.535 	| 3000 	| 63737 	| 1.000 |
+| newstest2019-frde.fra-deu 	| 27.9 	| 0.598 	| 1701 	| 36571 	| 1.000 |
+| Tatoeba-test.fra-deu 	| 48.7 	| 0.671 	| 10000 	| 80271 	| 0.994 |
+

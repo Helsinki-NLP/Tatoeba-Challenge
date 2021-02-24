@@ -1,0 +1,44 @@
+release: fra-msa/opus-2021-02-23.zip
+release-date: 2021-02-23
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>ind<<
+   - >>jak_Latn<<
+   - >>msa_Latn<<
+   - >>zlm<<
+   - >>zlm_Latn<<
+   - >>zsm_Latn<<
+source-languages:
+   - fra
+target-languages:
+   - ind
+   - jak
+   - msa
+   - zlm
+   - zsm
+training-data:
+   - fra-ind: Tatoeba-train (6626239) 
+   - fra-jak_Latn: Tatoeba-train (6600) 
+   - fra-msa_Latn: Tatoeba-train (1544354) 
+   - fra-zlm: Tatoeba-train (314) 
+   - fra-zlm_Latn: Tatoeba-train (76465) 
+validation-data:
+   - fra-ind: Tatoeba-dev, 810
+   - fra-msa_Latn: Tatoeba-dev, 175
+   - fra-zlm_Latn: Tatoeba-dev, 15
+   - total size of shuffled dev data: 998
+   - devset = top 998  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.fra-msa: 998/6696
+BLEU-scores:
+   - Tatoeba-test.fra-msa: 35.6
+chr-F-scores:
+   - Tatoeba-test.fra-msa: 0.620

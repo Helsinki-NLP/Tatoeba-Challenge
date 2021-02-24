@@ -1,0 +1,29 @@
+release: por-epo/opus-2021-02-23.zip
+release-date: 2021-02-23
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - pob
+   - por
+target-languages:
+   - epo
+training-data:
+   - pob-epo: Tatoeba-train (42197) 
+   - por-epo: Tatoeba-train (207266) 
+validation-data:
+   - epo-por: Tatoeba-dev, 45065
+   - total size of shuffled dev data: 45065
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.por-epo: 10000/87408
+BLEU-scores:
+   - Tatoeba-test.por-epo: 18.1
+chr-F-scores:
+   - Tatoeba-test.por-epo: 0.392

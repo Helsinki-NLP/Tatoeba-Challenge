@@ -16,7 +16,7 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.pol.nor 	| 27.5 	| 0.479 |
 
-# opus-2020-09-10.zip
+# opus-2021-02-24.zip
 
 * dataset: opus
 * model: transformer
@@ -25,13 +25,14 @@
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* download: [opus-2020-09-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2020-09-10.zip)
-* test set translations: [opus-2020-09-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2020-09-10.test.txt)
-* test set scores: [opus-2020-09-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2020-09-10.eval.txt)
+* valid language labels: >>nob<< >>nno<<
+* download: [opus-2021-02-24.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2021-02-24.zip)
+* test set translations: [opus-2021-02-24.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2021-02-24.test.txt)
+* test set scores: [opus-2021-02-24.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2021-02-24.eval.txt)
 
 ## Benchmarks
 
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.pol.nor 	| 50.1 	| 0.668 |
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.pol-nor 	| 50.1 	| 0.668 	| 281 	| 2045 	| 0.954 |
 

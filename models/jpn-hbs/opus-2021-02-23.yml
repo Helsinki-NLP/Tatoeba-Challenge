@@ -1,0 +1,48 @@
+release: jpn-hbs/opus-2021-02-23.zip
+release-date: 2021-02-23
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>bos_Cyrl<<
+   - >>bos_Latn<<
+   - >>hbs<<
+   - >>hbs_Cyrl<<
+   - >>hrv<<
+   - >>srp_Cyrl<<
+   - >>srp_Latn<<
+source-languages:
+   - jpn
+target-languages:
+   - bos
+   - hbs
+   - hrv
+   - srp
+training-data:
+   - jpn-bos_Cyrl: Tatoeba-train (157) 
+   - jpn-bos_Latn: Tatoeba-train (685356) 
+   - jpn-hbs: Tatoeba-train (2) 
+   - jpn-hbs_Cyrl: Tatoeba-train (12) 
+   - jpn-hrv: Tatoeba-train (2761469) 
+   - jpn-srp_Cyrl: Tatoeba-train (352400) 
+   - jpn-srp_Latn: Tatoeba-train (1336815) 
+validation-data:
+   - bos_Latn-jpn: Tatoeba-dev, 135
+   - hbs-jpn: Tatoeba-dev, 1000
+   - hrv-jpn: Tatoeba-dev, 507
+   - jpn-srp_Cyrl: Tatoeba-dev, 69
+   - jpn-srp_Latn: Tatoeba-dev, 289
+   - total size of shuffled dev data: 2000
+   - devset = top 2000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.jpn-hbs: 800/5050
+BLEU-scores:
+   - Tatoeba-test.jpn-hbs: 13.0
+chr-F-scores:
+   - Tatoeba-test.jpn-hbs: 0.336

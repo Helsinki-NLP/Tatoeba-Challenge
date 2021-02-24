@@ -118,3 +118,49 @@
 | Tatoeba-test.tmr-heb.tmr.heb 	| 1.0 	| 0.134 |
 | Tatoeba-test.tmr-phn.tmr.phn 	| 0.0 	| 0.017 |
 
+# opus-2021-02-24.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): afb apc ara arq arz heb jpa mlt oar phn syc tmr
+* target language(s): afb apc ara arq arz heb jpa mlt oar phn syc tmr
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>eng<< >>ara<< >>heb<< >>mlt<< >>tir<< >>amh<< >>arq<< >>arz<<
+* download: [opus-2021-02-24.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-sem/opus-2021-02-24.zip)
+* test set translations: [opus-2021-02-24.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-sem/opus-2021-02-24.test.txt)
+* test set scores: [opus-2021-02-24.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-sem/opus-2021-02-24.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.ara-ara 	| 2.9 	| 0.181 	| 16 	| 60 	| 1.000 |
+| Tatoeba-test.ara-heb 	| 35.8 	| 0.565 	| 1208 	| 6801 	| 1.000 |
+| Tatoeba-test.ara-mlt 	| 20.3 	| 0.575 	| 28 	| 88 	| 1.000 |
+| Tatoeba-test.ara-tmr 	| 2.2 	| 0.013 	| 8 	| 28 	| 1.000 |
+| Tatoeba-test.heb-ara 	| 20.1 	| 0.497 	| 1208 	| 6372 	| 0.900 |
+| Tatoeba-test.heb-jpa 	| 10.7 	| 0.012 	| 1 	| 4 	| 1.000 |
+| Tatoeba-test.heb-oar 	| 0.1 	| 0.001 	| 8 	| 95 	| 1.000 |
+| Tatoeba-test.heb-phn 	| 1.9 	| 0.008 	| 9 	| 47 	| 1.000 |
+| Tatoeba-test.heb-syc 	| 0.2 	| 0.000 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test.heb-tmr 	| 0.6 	| 0.005 	| 16 	| 94 	| 1.000 |
+| Tatoeba-test.jpa-heb 	| 12.7 	| 0.142 	| 1 	| 4 	| 1.000 |
+| Tatoeba-test.jpa-tmr 	| 6.6 	| 0.013 	| 1 	| 4 	| 1.000 |
+| Tatoeba-test.mlt-ara 	| 13.5 	| 0.451 	| 28 	| 91 	| 0.966 |
+| Tatoeba-test.multi-multi 	| 26.1 	| 0.498 	| 2596 	| 14039 	| 1.000 |
+| Tatoeba-test.oar-heb 	| 0.8 	| 0.062 	| 8 	| 82 	| 0.937 |
+| Tatoeba-test.oar-syc 	| 0.2 	| 0.000 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test.phn-heb 	| 0.2 	| 0.046 	| 9 	| 48 	| 1.000 |
+| Tatoeba-test.phn-tmr 	| 0.0 	| 0.000 	| 1 	| 3 	| 1.000 |
+| Tatoeba-test.syc-heb 	| 3.3 	| 0.045 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test.syc-oar 	| 0.0 	| 0.000 	| 1 	| 6 	| 0.368 |
+| Tatoeba-test.tmr-ara 	| 1.4 	| 0.077 	| 8 	| 24 	| 1.000 |
+| Tatoeba-test.tmr-heb 	| 1.0 	| 0.134 	| 16 	| 102 	| 0.918 |
+| Tatoeba-test.tmr-jpa 	| 0.0 	| 0.000 	| 1 	| 4 	| 0.050 |
+| Tatoeba-test.tmr-phn 	| 0.0 	| 0.017 	| 1 	| 4 	| 0.717 |
+| tico19-test.eng-amh 	| 4.3 	| 0.238 	| 2100 	| 44943 	| 0.826 |
+| tico19-test.eng-ara 	| 15.8 	| 0.465 	| 2100 	| 51336 	| 0.938 |
+| tico19-test.eng-tir 	| 2.8 	| 0.182 	| 2100 	| 46792 	| 0.962 |
+

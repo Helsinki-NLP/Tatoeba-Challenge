@@ -1,0 +1,32 @@
+release: tgl-eng/opus-2021-02-24.zip
+release-date: 2021-02-24
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - tgl
+target-languages:
+   - eng
+training-data:
+   - tgl-eng: Tatoeba-train (7296) 
+   - tgl_Latn-eng: Tatoeba-train (1266518) 
+validation-data:
+   - eng-tgl: Tatoeba-dev, 1
+   - eng-tgl_Latn: Tatoeba-dev, 4752
+   - total size of shuffled dev data: 4753
+   - devset = top 4753  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.tgl-eng: 5000/36336
+   - tico19-test.tgl-eng: 2100/56848
+BLEU-scores:
+   - Tatoeba-test.tgl-eng: 35.1
+   - tico19-test.tgl-eng: 39.6
+chr-F-scores:
+   - Tatoeba-test.tgl-eng: 0.542
+   - tico19-test.tgl-eng: 0.639

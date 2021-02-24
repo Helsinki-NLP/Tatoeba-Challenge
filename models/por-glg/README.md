@@ -16,7 +16,7 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.por.glg 	| 55.8 	| 0.737 |
 
-# opus-2020-09-10.zip
+# opus-2021-02-24.zip
 
 * dataset: opus
 * model: transformer
@@ -24,13 +24,13 @@
 * target language(s): glg
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm12k,spm12k)
-* download: [opus-2020-09-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/por-glg/opus-2020-09-10.zip)
-* test set translations: [opus-2020-09-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/por-glg/opus-2020-09-10.test.txt)
-* test set scores: [opus-2020-09-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/por-glg/opus-2020-09-10.eval.txt)
+* download: [opus-2021-02-24.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/por-glg/opus-2021-02-24.zip)
+* test set translations: [opus-2021-02-24.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/por-glg/opus-2021-02-24.test.txt)
+* test set scores: [opus-2021-02-24.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/por-glg/opus-2021-02-24.eval.txt)
 
 ## Benchmarks
 
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.por.glg 	| 56.2 	| 0.740 |
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.por-glg 	| 56.2 	| 0.740 	| 430 	| 2989 	| 0.990 |
 

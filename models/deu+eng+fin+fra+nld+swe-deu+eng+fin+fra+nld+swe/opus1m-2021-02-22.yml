@@ -1,0 +1,444 @@
+release: deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip
+release-date: 2021-02-22
+dataset-name: opus1m
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>deu<<
+   - >>eng<<
+   - >>fin<<
+   - >>fra<<
+   - >>nld<<
+   - >>swe<<
+source-languages:
+   - deu
+   - eng
+   - fin
+   - fra
+   - nld
+   - swe
+target-languages:
+   - deu
+   - eng
+   - fin
+   - fra
+   - nld
+   - swe
+training-data:
+   - deu-eng: Tatoeba-train (1000000) 
+   - deu-fin: Tatoeba-train (1000000) 
+   - deu-fra: Tatoeba-train (1000000) 
+   - deu-nld: Tatoeba-train (1000000) 
+   - deu-swe: Tatoeba-train (1000000) 
+   - eng-deu: Tatoeba-train (1000000) 
+   - eng-fin: Tatoeba-train (1000000) 
+   - eng-fra: Tatoeba-train (1000000) 
+   - eng-nld: Tatoeba-train (1000000) 
+   - eng-swe: Tatoeba-train (1000000) 
+   - fin-deu: Tatoeba-train (1000000) 
+   - fin-eng: Tatoeba-train (1000000) 
+   - fin-fra: Tatoeba-train (1000000) 
+   - fin-nld: Tatoeba-train (1000000) 
+   - fin-swe: Tatoeba-train (1000000) 
+   - fra-deu: Tatoeba-train (1000000) 
+   - fra-eng: Tatoeba-train (1000000) 
+   - fra-fin: Tatoeba-train (1000000) 
+   - fra-nld: Tatoeba-train (1000000) 
+   - fra-swe: Tatoeba-train (1000000) 
+   - nld-deu: Tatoeba-train (1000000) 
+   - nld-eng: Tatoeba-train (1000000) 
+   - nld-fin: Tatoeba-train (1000000) 
+   - nld-fra: Tatoeba-train (1000000) 
+   - nld-swe: Tatoeba-train (1000000) 
+   - swe-deu: Tatoeba-train (1000000) 
+   - swe-eng: Tatoeba-train (1000000) 
+   - swe-fin: Tatoeba-train (1000000) 
+   - swe-fra: Tatoeba-train (1000000) 
+   - swe-nld: Tatoeba-train (1000000) 
+validation-data:
+   - deu-eng: Tatoeba-dev, 284809
+   - deu-fin: Tatoeba-dev, 7142
+   - deu-fra: Tatoeba-dev, 96433
+   - deu-nld: Tatoeba-dev, 26142
+   - deu-swe: Tatoeba-dev, 1000
+   - deu-eng: Tatoeba-dev, 284809
+   - eng-fin: Tatoeba-dev, 69721
+   - eng-fra: Tatoeba-dev, 250098
+   - eng-nld: Tatoeba-dev, 61683
+   - eng-swe: Tatoeba-dev, 15411
+   - deu-fin: Tatoeba-dev, 7142
+   - eng-fin: Tatoeba-dev, 69721
+   - fin-fra: Tatoeba-dev, 1000
+   - fin-nld: Tatoeba-dev, 1000
+   - fin-swe: Tatoeba-dev, 7278
+   - deu-fra: Tatoeba-dev, 96433
+   - eng-fra: Tatoeba-dev, 250098
+   - fin-fra: Tatoeba-dev, 1000
+   - fra-nld: Tatoeba-dev, 16265
+   - fra-swe: Tatoeba-dev, 1000
+   - deu-nld: Tatoeba-dev, 26142
+   - eng-nld: Tatoeba-dev, 61683
+   - fin-nld: Tatoeba-dev, 1000
+   - fra-nld: Tatoeba-dev, 16265
+   - nld-swe: Tatoeba-dev, 1000
+   - deu-swe: Tatoeba-dev, 1000
+   - eng-swe: Tatoeba-dev, 15411
+   - fin-swe: Tatoeba-dev, 7278
+   - fra-swe: Tatoeba-dev, 1000
+   - nld-swe: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1678746
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - euelections_dev2019.de-fr.deu-fra: 1512/38376
+   - euelections_dev2019.fr-de.fra-deu: 1512/33478
+   - fiskmo_testset.fin-swe: 523/9479
+   - fiskmo_testset.swe-fin: 523/7638
+   - goethe-institute-test1.deu-fin: 2000/27070
+   - goethe-institute-test2.deu-fin: 2000/27014
+   - newsdev2015-enfi.eng-fin: 1500/23375
+   - newsdev2015-enfi.fin-eng: 1500/32104
+   - newsdiscussdev2015-enfr.eng-fra: 1500/27986
+   - newsdiscussdev2015-enfr.fra-eng: 1500/27759
+   - newsdiscusstest2015-enfr.eng-fra: 1500/28027
+   - newsdiscusstest2015-enfr.fra-eng: 1500/26995
+   - newssyscomb2009.deu-eng: 502/11821
+   - newssyscomb2009.deu-fra: 502/12334
+   - newssyscomb2009.eng-deu: 502/11271
+   - newssyscomb2009.eng-fra: 502/12334
+   - newssyscomb2009.fra-deu: 502/11271
+   - newssyscomb2009.fra-eng: 502/11821
+   - news-test2008.deu-eng: 2051/49380
+   - news-test2008.deu-fra: 2051/52685
+   - news-test2008.eng-deu: 2051/47427
+   - news-test2008.eng-fra: 2051/52685
+   - news-test2008.fra-deu: 2051/47427
+   - news-test2008.fra-eng: 2051/49380
+   - newstest2009.deu-eng: 2525/65402
+   - newstest2009.deu-fra: 2525/69278
+   - newstest2009.eng-deu: 2525/62816
+   - newstest2009.eng-fra: 2525/69278
+   - newstest2009.fra-deu: 2525/62816
+   - newstest2009.fra-eng: 2525/65402
+   - newstest2010.deu-eng: 2489/61724
+   - newstest2010.deu-fra: 2489/66043
+   - newstest2010.eng-deu: 2489/61511
+   - newstest2010.eng-fra: 2489/66043
+   - newstest2010.fra-deu: 2489/61511
+   - newstest2010.fra-eng: 2489/61724
+   - newstest2011.deu-eng: 3003/74681
+   - newstest2011.deu-fra: 3003/80626
+   - newstest2011.eng-deu: 3003/72981
+   - newstest2011.eng-fra: 3003/80626
+   - newstest2011.fra-deu: 3003/72981
+   - newstest2011.fra-eng: 3003/74681
+   - newstest2012.deu-eng: 3003/72812
+   - newstest2012.deu-fra: 3003/78011
+   - newstest2012.eng-deu: 3003/72886
+   - newstest2012.eng-fra: 3003/78011
+   - newstest2012.fra-deu: 3003/72886
+   - newstest2012.fra-eng: 3003/72812
+   - newstest2013.deu-eng: 3000/64505
+   - newstest2013.deu-fra: 3000/70037
+   - newstest2013.eng-deu: 3000/63737
+   - newstest2013.eng-fra: 3000/70037
+   - newstest2013.fra-deu: 3000/63737
+   - newstest2013.fra-eng: 3000/64505
+   - newstest2014-deen.deu-eng: 3003/67337
+   - newstest2014-fren.fra-eng: 3003/70708
+   - newstest2015-ende.deu-eng: 2169/46443
+   - newstest2015-ende.eng-deu: 2169/44260
+   - newstest2015-enfi.eng-fin: 1370/19968
+   - newstest2015-enfi.fin-eng: 1370/27356
+   - newstest2016-ende.deu-eng: 2999/64126
+   - newstest2016-ende.eng-deu: 2999/62670
+   - newstest2016-enfi.eng-fin: 3000/48116
+   - newstest2016-enfi.fin-eng: 3000/63043
+   - newstest2017-ende.deu-eng: 3004/64399
+   - newstest2017-ende.eng-deu: 3004/61291
+   - newstest2017-enfi.eng-fin: 3002/45718
+   - newstest2017-enfi.fin-eng: 3002/61936
+   - newstest2018-ende.deu-eng: 2998/67013
+   - newstest2018-ende.eng-deu: 2998/64276
+   - newstest2018-enfi.eng-fin: 3000/45475
+   - newstest2018-enfi.fin-eng: 3000/62325
+   - newstest2019-deen.deu-eng: 2000/39282
+   - newstest2019-defr.deu-fra: 1701/42530
+   - newstest2019-ende.eng-deu: 1997/48969
+   - newstest2019-enfi.eng-fin: 1997/38369
+   - newstest2019-fien.fin-eng: 1996/36227
+   - newstest2019-frde.fra-deu: 1701/36571
+   - newstestB2016-enfi.eng-fin: 3000/45766
+   - newstestB2016-enfi.fin-eng: 3000/63043
+   - newstestB2017-enfi.eng-fin: 3002/45506
+   - newstestB2017-enfi.fin-eng: 3002/61936
+   - newstestB2017-fien.fin-eng: 3002/61936
+   - Tatoeba-test.deu-eng: 10000/81233
+   - Tatoeba-test.deu-fin: 2500/14145
+   - Tatoeba-test.deu-fra: 10000/81669
+   - Tatoeba-test.deu-nld: 10000/73546
+   - Tatoeba-test.deu-swe: 3410/22701
+   - Tatoeba-test.eng-deu: 10000/83347
+   - Tatoeba-test.eng-fin: 10000/60517
+   - Tatoeba-test.eng-fra: 10000/80769
+   - Tatoeba-test.eng-nld: 10000/71436
+   - Tatoeba-test.eng-swe: 10000/65581
+   - Tatoeba-test.fin-deu: 2500/18076
+   - Tatoeba-test.fin-eng: 10000/74651
+   - Tatoeba-test.fin-fra: 1930/12229
+   - Tatoeba-test.fin-nld: 314/2029
+   - Tatoeba-test.fin-swe: 2500/16762
+   - Tatoeba-test.fra-deu: 10000/80271
+   - Tatoeba-test.fra-eng: 10000/77174
+   - Tatoeba-test.fra-fin: 1930/9764
+   - Tatoeba-test.fra-nld: 10000/69845
+   - Tatoeba-test.fra-swe: 1409/9175
+   - Tatoeba-test.nld-deu: 10000/72438
+   - Tatoeba-test.nld-eng: 10000/69848
+   - Tatoeba-test.nld-fin: 314/1617
+   - Tatoeba-test.nld-fra: 10000/69981
+   - Tatoeba-test.nld-swe: 11/61
+   - Tatoeba-test.multi-multi: 10000/73221
+   - Tatoeba-test.swe-deu: 3410/23494
+   - Tatoeba-test.swe-eng: 10000/66002
+   - Tatoeba-test.swe-fin: 2500/13711
+   - Tatoeba-test.swe-fra: 1409/9585
+   - Tatoeba-test.swe-nld: 11/64
+   - tico19-test.eng-fra: 2100/64655
+BLEU-scores:
+   - euelections_dev2019.de-fr.deu-fra: 28.1
+   - euelections_dev2019.fr-de.fra-deu: 23.2
+   - fiskmo_testset.fin-swe: 21.8
+   - fiskmo_testset.swe-fin: 19.4
+   - goethe-institute-test1.deu-fin: 15.9
+   - goethe-institute-test2.deu-fin: 16.1
+   - newsdev2015-enfi.eng-fin: 16.8
+   - newsdev2015-enfi.fin-eng: 22.4
+   - newsdiscussdev2015-enfr.eng-fra: 29.6
+   - newsdiscussdev2015-enfr.fra-eng: 30.2
+   - newsdiscusstest2015-enfr.eng-fra: 34.8
+   - newsdiscusstest2015-enfr.fra-eng: 34.3
+   - newssyscomb2009.deu-eng: 26.5
+   - newssyscomb2009.deu-fra: 24.0
+   - newssyscomb2009.eng-deu: 19.9
+   - newssyscomb2009.eng-fra: 26.9
+   - newssyscomb2009.fra-deu: 20.2
+   - newssyscomb2009.fra-eng: 28.6
+   - news-test2008.deu-eng: 25.1
+   - news-test2008.deu-fra: 23.6
+   - news-test2008.eng-deu: 20.4
+   - news-test2008.eng-fra: 24.8
+   - news-test2008.fra-deu: 19.6
+   - news-test2008.fra-eng: 24.2
+   - newstest2009.deu-eng: 24.3
+   - newstest2009.deu-fra: 22.8
+   - newstest2009.eng-deu: 19.8
+   - newstest2009.eng-fra: 25.9
+   - newstest2009.fra-deu: 19.6
+   - newstest2009.fra-eng: 27.7
+   - newstest2010.deu-eng: 27.1
+   - newstest2010.deu-fra: 25.9
+   - newstest2010.eng-deu: 21.8
+   - newstest2010.eng-fra: 28.8
+   - newstest2010.fra-deu: 20.5
+   - newstest2010.fra-eng: 28.8
+   - newstest2011.deu-eng: 25.0
+   - newstest2011.deu-fra: 24.3
+   - newstest2011.eng-deu: 20.0
+   - newstest2011.eng-fra: 30.3
+   - newstest2011.fra-deu: 19.7
+   - newstest2011.fra-eng: 29.9
+   - newstest2012.deu-eng: 25.9
+   - newstest2012.deu-fra: 25.0
+   - newstest2012.eng-deu: 20.3
+   - newstest2012.eng-fra: 28.3
+   - newstest2012.fra-deu: 20.4
+   - newstest2012.fra-eng: 30.2
+   - newstest2013.deu-eng: 28.7
+   - newstest2013.deu-fra: 26.2
+   - newstest2013.eng-deu: 23.5
+   - newstest2013.eng-fra: 29.4
+   - newstest2013.fra-deu: 21.6
+   - newstest2013.fra-eng: 30.5
+   - newstest2014-deen.deu-eng: 28.9
+   - newstest2014-fren.fra-eng: 32.9
+   - newstest2015-ende.deu-eng: 29.6
+   - newstest2015-ende.eng-deu: 26.8
+   - newstest2015-enfi.eng-fin: 18.6
+   - newstest2015-enfi.fin-eng: 23.4
+   - newstest2016-ende.deu-eng: 35.0
+   - newstest2016-ende.eng-deu: 31.0
+   - newstest2016-enfi.eng-fin: 19.5
+   - newstest2016-enfi.fin-eng: 25.2
+   - newstest2017-ende.deu-eng: 30.8
+   - newstest2017-ende.eng-deu: 25.4
+   - newstest2017-enfi.eng-fin: 21.8
+   - newstest2017-enfi.fin-eng: 27.5
+   - newstest2018-ende.deu-eng: 37.6
+   - newstest2018-ende.eng-deu: 36.9
+   - newstest2018-enfi.eng-fin: 14.6
+   - newstest2018-enfi.fin-eng: 20.4
+   - newstest2019-deen.deu-eng: 34.7
+   - newstest2019-defr.deu-fra: 31.5
+   - newstest2019-ende.eng-deu: 33.3
+   - newstest2019-enfi.eng-fin: 19.5
+   - newstest2019-fien.fin-eng: 24.6
+   - newstest2019-frde.fra-deu: 24.2
+   - newstestB2016-enfi.eng-fin: 15.5
+   - newstestB2016-enfi.fin-eng: 20.7
+   - newstestB2017-enfi.eng-fin: 17.8
+   - newstestB2017-enfi.fin-eng: 23.6
+   - newstestB2017-fien.fin-eng: 23.6
+   - Tatoeba-test.deu-eng: 46.6
+   - Tatoeba-test.deu-fin: 34.3
+   - Tatoeba-test.deu-fra: 43.0
+   - Tatoeba-test.deu-nld: 49.2
+   - Tatoeba-test.deu-swe: 51.5
+   - Tatoeba-test.eng-deu: 38.8
+   - Tatoeba-test.eng-fin: 32.1
+   - Tatoeba-test.eng-fra: 44.1
+   - Tatoeba-test.eng-nld: 50.6
+   - Tatoeba-test.eng-swe: 54.8
+   - Tatoeba-test.fin-deu: 40.5
+   - Tatoeba-test.fin-eng: 44.9
+   - Tatoeba-test.fin-fra: 42.8
+   - Tatoeba-test.fin-nld: 56.0
+   - Tatoeba-test.fin-swe: 47.6
+   - Tatoeba-test.fra-deu: 42.6
+   - Tatoeba-test.fra-eng: 51.0
+   - Tatoeba-test.fra-fin: 38.1
+   - Tatoeba-test.fra-nld: 44.0
+   - Tatoeba-test.fra-swe: 55.8
+   - Tatoeba-test.nld-deu: 50.6
+   - Tatoeba-test.nld-eng: 55.6
+   - Tatoeba-test.nld-fin: 53.4
+   - Tatoeba-test.nld-fra: 47.1
+   - Tatoeba-test.nld-swe: 82.3
+   - Tatoeba-test.multi-multi: 46.9
+   - Tatoeba-test.swe-deu: 48.9
+   - Tatoeba-test.swe-eng: 58.4
+   - Tatoeba-test.swe-fin: 39.3
+   - Tatoeba-test.swe-fra: 53.8
+   - Tatoeba-test.swe-nld: 85.0
+   - tico19-test.eng-fra: 36.3
+chr-F-scores:
+   - euelections_dev2019.de-fr.deu-fra: 0.564
+   - euelections_dev2019.fr-de.fra-deu: 0.548
+   - fiskmo_testset.fin-swe: 0.551
+   - fiskmo_testset.swe-fin: 0.554
+   - goethe-institute-test1.deu-fin: 0.469
+   - goethe-institute-test2.deu-fin: 0.469
+   - newsdev2015-enfi.eng-fin: 0.506
+   - newsdev2015-enfi.fin-eng: 0.507
+   - newsdiscussdev2015-enfr.eng-fra: 0.569
+   - newsdiscussdev2015-enfr.fra-eng: 0.554
+   - newsdiscusstest2015-enfr.eng-fra: 0.603
+   - newsdiscusstest2015-enfr.fra-eng: 0.582
+   - newssyscomb2009.deu-eng: 0.535
+   - newssyscomb2009.deu-fra: 0.536
+   - newssyscomb2009.eng-deu: 0.513
+   - newssyscomb2009.eng-fra: 0.563
+   - newssyscomb2009.fra-deu: 0.505
+   - newssyscomb2009.fra-eng: 0.556
+   - news-test2008.deu-eng: 0.527
+   - news-test2008.deu-fra: 0.527
+   - news-test2008.eng-deu: 0.502
+   - news-test2008.eng-fra: 0.534
+   - news-test2008.fra-deu: 0.501
+   - news-test2008.fra-eng: 0.524
+   - newstest2009.deu-eng: 0.524
+   - newstest2009.deu-fra: 0.519
+   - newstest2009.eng-deu: 0.508
+   - newstest2009.eng-fra: 0.551
+   - newstest2009.fra-deu: 0.502
+   - newstest2009.fra-eng: 0.550
+   - newstest2010.deu-eng: 0.558
+   - newstest2010.deu-fra: 0.550
+   - newstest2010.eng-deu: 0.518
+   - newstest2010.eng-fra: 0.571
+   - newstest2010.fra-deu: 0.508
+   - newstest2010.fra-eng: 0.566
+   - newstest2011.deu-eng: 0.533
+   - newstest2011.deu-fra: 0.532
+   - newstest2011.eng-deu: 0.501
+   - newstest2011.eng-fra: 0.583
+   - newstest2011.fra-deu: 0.500
+   - newstest2011.fra-eng: 0.575
+   - newstest2012.deu-eng: 0.543
+   - newstest2012.deu-fra: 0.536
+   - newstest2012.eng-deu: 0.501
+   - newstest2012.eng-fra: 0.567
+   - newstest2012.fra-deu: 0.500
+   - newstest2012.fra-eng: 0.571
+   - newstest2013.deu-eng: 0.556
+   - newstest2013.deu-fra: 0.535
+   - newstest2013.eng-deu: 0.525
+   - newstest2013.eng-fra: 0.562
+   - newstest2013.fra-deu: 0.511
+   - newstest2013.fra-eng: 0.566
+   - newstest2014-deen.deu-eng: 0.560
+   - newstest2014-fren.fra-eng: 0.598
+   - newstest2015-ende.deu-eng: 0.562
+   - newstest2015-ende.eng-deu: 0.555
+   - newstest2015-enfi.eng-fin: 0.518
+   - newstest2015-enfi.fin-eng: 0.511
+   - newstest2016-ende.deu-eng: 0.608
+   - newstest2016-ende.eng-deu: 0.588
+   - newstest2016-enfi.eng-fin: 0.527
+   - newstest2016-enfi.fin-eng: 0.537
+   - newstest2017-ende.deu-eng: 0.573
+   - newstest2017-ende.eng-deu: 0.547
+   - newstest2017-enfi.eng-fin: 0.549
+   - newstest2017-enfi.fin-eng: 0.550
+   - newstest2018-ende.deu-eng: 0.621
+   - newstest2018-ende.eng-deu: 0.627
+   - newstest2018-enfi.eng-fin: 0.486
+   - newstest2018-enfi.fin-eng: 0.486
+   - newstest2019-deen.deu-eng: 0.598
+   - newstest2019-defr.deu-fra: 0.598
+   - newstest2019-ende.eng-deu: 0.598
+   - newstest2019-enfi.eng-fin: 0.508
+   - newstest2019-fien.fin-eng: 0.524
+   - newstest2019-frde.fra-deu: 0.568
+   - newstestB2016-enfi.eng-fin: 0.497
+   - newstestB2016-enfi.fin-eng: 0.496
+   - newstestB2017-enfi.eng-fin: 0.512
+   - newstestB2017-enfi.fin-eng: 0.519
+   - newstestB2017-fien.fin-eng: 0.519
+   - Tatoeba-test.deu-eng: 0.642
+   - Tatoeba-test.deu-fin: 0.589
+   - Tatoeba-test.deu-fra: 0.620
+   - Tatoeba-test.deu-nld: 0.673
+   - Tatoeba-test.deu-swe: 0.674
+   - Tatoeba-test.eng-deu: 0.598
+   - Tatoeba-test.eng-fin: 0.571
+   - Tatoeba-test.eng-fra: 0.625
+   - Tatoeba-test.eng-nld: 0.679
+   - Tatoeba-test.eng-swe: 0.693
+   - Tatoeba-test.fin-deu: 0.607
+   - Tatoeba-test.fin-eng: 0.632
+   - Tatoeba-test.fin-fra: 0.618
+   - Tatoeba-test.fin-nld: 0.722
+   - Tatoeba-test.fin-swe: 0.645
+   - Tatoeba-test.fra-deu: 0.629
+   - Tatoeba-test.fra-eng: 0.673
+   - Tatoeba-test.fra-fin: 0.600
+   - Tatoeba-test.fra-nld: 0.628
+   - Tatoeba-test.fra-swe: 0.708
+   - Tatoeba-test.nld-deu: 0.689
+   - Tatoeba-test.nld-eng: 0.710
+   - Tatoeba-test.nld-fin: 0.715
+   - Tatoeba-test.nld-fra: 0.645
+   - Tatoeba-test.nld-swe: 0.877
+   - Tatoeba-test.multi-multi: 0.647
+   - Tatoeba-test.swe-deu: 0.671
+   - Tatoeba-test.swe-eng: 0.719
+   - Tatoeba-test.swe-fin: 0.628
+   - Tatoeba-test.swe-fra: 0.690
+   - Tatoeba-test.swe-nld: 0.904
+   - tico19-test.eng-fra: 0.608

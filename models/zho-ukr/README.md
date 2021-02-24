@@ -16,21 +16,21 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.zho.ukr 	| 10.4 	| 0.259 |
 
-# opus-2020-09-10.zip
+# opus-2021-02-24.zip
 
 * dataset: opus
 * model: transformer
-* source language(s): cmn cmn_Hans cmn_Hant nan yue_Hans yue_Hant
+* source language(s): cmn nan yue
 * target language(s): ukr
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm4k)
-* download: [opus-2020-09-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-ukr/opus-2020-09-10.zip)
-* test set translations: [opus-2020-09-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-ukr/opus-2020-09-10.test.txt)
-* test set scores: [opus-2020-09-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-ukr/opus-2020-09-10.eval.txt)
+* download: [opus-2021-02-24.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-ukr/opus-2021-02-24.zip)
+* test set translations: [opus-2021-02-24.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-ukr/opus-2021-02-24.test.txt)
+* test set scores: [opus-2021-02-24.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-ukr/opus-2021-02-24.eval.txt)
 
 ## Benchmarks
 
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.zho.ukr 	| 10.3 	| 0.277 |
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.zho-ukr 	| 10.3 	| 0.277 	| 1575 	| 9193 	| 0.924 |
 

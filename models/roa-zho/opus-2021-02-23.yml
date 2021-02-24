@@ -1,0 +1,211 @@
+release: roa-zho/opus-2021-02-23.zip
+release-date: 2021-02-23
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>cjy_Hans<<
+   - >>cjy_Hant<<
+   - >>cmn<<
+   - >>cmn_Hans<<
+   - >>cmn_Hant<<
+   - >>hak<<
+   - >>hsn<<
+   - >>hsn_Hani<<
+   - >>lzh<<
+   - >>lzh_Hans<<
+   - >>nan<<
+   - >>wuu<<
+   - >>yue_Hans<<
+   - >>yue_Hant<<
+source-languages:
+   - cat
+   - fra
+   - glg
+   - ind
+   - ita
+   - jak
+   - mol
+   - msa
+   - oci
+   - pms
+   - pob
+   - por
+   - ron
+   - spa
+   - zsm
+target-languages:
+   - cjy
+   - cmn
+   - hak
+   - hsn
+   - lzh
+   - nan
+   - wuu
+   - yue
+training-data:
+   - cat-cmn: Tatoeba-train (11639) 
+   - cat-cmn_Hans: Tatoeba-train (182637) 
+   - cat-cmn_Hant: Tatoeba-train (146310) 
+   - cat-nan: Tatoeba-train (54) 
+   - cat-yue_Hans: Tatoeba-train (25) 
+   - cat-yue_Hant: Tatoeba-train (4834) 
+   - fra-cmn: Tatoeba-train (226701) 
+   - fra-cmn_Hans: Tatoeba-train (1000000) 
+   - fra-cmn_Hant: Tatoeba-train (1000000) 
+   - fra-lzh: Tatoeba-train (3) 
+   - fra-nan: Tatoeba-train (127) 
+   - fra-wuu: Tatoeba-train (5) 
+   - fra-yue_Hans: Tatoeba-train (23) 
+   - fra-yue_Hant: Tatoeba-train (5154) 
+   - glg-cmn: Tatoeba-train (7526) 
+   - glg-cmn_Hans: Tatoeba-train (111760) 
+   - glg-cmn_Hant: Tatoeba-train (97436) 
+   - glg-nan: Tatoeba-train (50) 
+   - glg-yue_Hans: Tatoeba-train (27) 
+   - glg-yue_Hant: Tatoeba-train (4931) 
+   - ind-cmn: Tatoeba-train (136820) 
+   - ind-cmn_Hans: Tatoeba-train (1000000) 
+   - ind-cmn_Hant: Tatoeba-train (1000000) 
+   - ind-nan: Tatoeba-train (58) 
+   - ind-yue_Hans: Tatoeba-train (3) 
+   - ind-yue_Hant: Tatoeba-train (1553) 
+   - ita-cmn: Tatoeba-train (165636) 
+   - ita-cmn_Hans: Tatoeba-train (1000000) 
+   - ita-cmn_Hant: Tatoeba-train (1000000) 
+   - ita-nan: Tatoeba-train (52) 
+   - ita-yue_Hans: Tatoeba-train (28) 
+   - ita-yue_Hant: Tatoeba-train (5365) 
+   - jak_Latn-cmn_Hant: Tatoeba-train (6490) 
+   - mol-cmn_Hans: Tatoeba-train (2) 
+   - mol-cmn_Hant: Tatoeba-train (2) 
+   - mol-yue_Hant: Tatoeba-train (1) 
+   - msa_Latn-cmn: Tatoeba-train (44448) 
+   - msa_Latn-cmn_Hans: Tatoeba-train (818329) 
+   - msa_Latn-cmn_Hant: Tatoeba-train (763721) 
+   - msa_Latn-nan: Tatoeba-train (60) 
+   - msa_Latn-yue_Hans: Tatoeba-train (52) 
+   - msa_Latn-yue_Hant: Tatoeba-train (12713) 
+   - oci-cmn: Tatoeba-train (4565) 
+   - oci-cmn_Hans: Tatoeba-train (14623) 
+   - oci-cmn_Hant: Tatoeba-train (18620) 
+   - oci-nan: Tatoeba-train (57) 
+   - oci-yue_Hans: Tatoeba-train (10) 
+   - oci-yue_Hant: Tatoeba-train (2603) 
+   - pob-cmn: Tatoeba-train (283383) 
+   - pob-cmn_Hans: Tatoeba-train (1000000) 
+   - pob-cmn_Hant: Tatoeba-train (1000000) 
+   - por-cmn: Tatoeba-train (238442) 
+   - por-cmn_Hans: Tatoeba-train (1000000) 
+   - por-cmn_Hant: Tatoeba-train (1000000) 
+   - por-nan: Tatoeba-train (134) 
+   - por-yue_Hans: Tatoeba-train (53) 
+   - por-yue_Hant: Tatoeba-train (10100) 
+   - spa-cmn: Tatoeba-train (286314) 
+   - spa-cmn_Hans: Tatoeba-train (1000000) 
+   - spa-cmn_Hant: Tatoeba-train (1000000) 
+   - spa-nan: Tatoeba-train (77) 
+   - spa-yue_Hans: Tatoeba-train (347) 
+   - spa-yue_Hant: Tatoeba-train (59293) 
+validation-data:
+   - cat-cmn: Tatoeba-dev, 36
+   - cat-cmn_Hans: Tatoeba-dev, 524
+   - cat-cmn_Hant: Tatoeba-dev, 418
+   - cat-yue_Hans: Tatoeba-dev, 1
+   - cat-yue_Hant: Tatoeba-dev, 21
+   - cmn-fra: Tatoeba-dev, 12
+   - cmn_Hans-fra: Tatoeba-dev, 5109
+   - cmn_Hant-fra: Tatoeba-dev, 1703
+   - fra-lzh: Tatoeba-dev, 37
+   - fra-lzh_Hans: Tatoeba-dev, 2
+   - fra-wuu: Tatoeba-dev, 533
+   - fra-yue_Hans: Tatoeba-dev, 59
+   - fra-yue_Hant: Tatoeba-dev, 47
+   - cmn-glg: Tatoeba-dev, 30
+   - cmn_Hans-glg: Tatoeba-dev, 501
+   - cmn_Hant-glg: Tatoeba-dev, 446
+   - glg-yue_Hant: Tatoeba-dev, 23
+   - cmn-ind: Tatoeba-dev, 29
+   - cmn_Hans-ind: Tatoeba-dev, 413
+   - cmn_Hant-ind: Tatoeba-dev, 303
+   - cmn-ita: Tatoeba-dev, 2
+   - cmn_Hans-ita: Tatoeba-dev, 579
+   - cmn_Hant-ita: Tatoeba-dev, 396
+   - ita-lzh: Tatoeba-dev, 1
+   - ita-wuu: Tatoeba-dev, 10
+   - ita-yue_Hans: Tatoeba-dev, 7
+   - ita-yue_Hant: Tatoeba-dev, 5
+   - cmn_Hant-jak_Latn: Tatoeba-dev, 1
+   - cmn-msa_Latn: Tatoeba-dev, 6
+   - cmn_Hans-msa_Latn: Tatoeba-dev, 130
+   - cmn_Hant-msa_Latn: Tatoeba-dev, 118
+   - cmn-oci: Tatoeba-dev, 111
+   - cmn_Hans-oci: Tatoeba-dev, 369
+   - cmn_Hant-oci: Tatoeba-dev, 459
+   - oci-yue_Hant: Tatoeba-dev, 57
+   - cmn-pms: Tatoeba-dev, 2
+   - cmn_Hans-pms: Tatoeba-dev, 25
+   - cmn_Hant-pms: Tatoeba-dev, 13
+   - nan-pms: Tatoeba-dev, 7
+   - pms-yue_Hant: Tatoeba-dev, 12
+   - cmn-pob: Tatoeba-dev, 16
+   - cmn_Hans-pob: Tatoeba-dev, 317
+   - cmn_Hant-pob: Tatoeba-dev, 243
+   - cmn-por: Tatoeba-dev, 11
+   - cmn_Hans-por: Tatoeba-dev, 248
+   - cmn_Hant-por: Tatoeba-dev, 165
+   - cjy_Hans-spa: Tatoeba-dev, 2
+   - cjy_Hant-spa: Tatoeba-dev, 3
+   - cmn-spa: Tatoeba-dev, 23
+   - cmn_Hans-spa: Tatoeba-dev, 2871
+   - cmn_Hant-spa: Tatoeba-dev, 3792
+   - hsn-spa: Tatoeba-dev, 1
+   - hsn_Hani-spa: Tatoeba-dev, 1
+   - lzh-spa: Tatoeba-dev, 30
+   - spa-wuu: Tatoeba-dev, 143
+   - spa-yue_Hans: Tatoeba-dev, 29
+   - spa-yue_Hant: Tatoeba-dev, 26
+   - total size of shuffled dev data: 20426
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.cat-zho: 122/1216
+   - Tatoeba-test.fra-zho: 10000/109771
+   - Tatoeba-test.glg-zho: 9/71
+   - Tatoeba-test.ita-zho: 2943/26638
+   - Tatoeba-test.msa-zho: 369/4028
+   - Tatoeba-test.oci-zho: 61/553
+   - Tatoeba-test.multi-zho: 10000/102517
+   - Tatoeba-test.pms-zho: 4/43
+   - Tatoeba-test.por-zho: 1029/9383
+   - Tatoeba-test.ron-zho: 36/379
+   - Tatoeba-test.spa-zho: 2500/22762
+BLEU-scores:
+   - Tatoeba-test.cat-zho: 13.7
+   - Tatoeba-test.fra-zho: 12.8
+   - Tatoeba-test.glg-zho: 11.0
+   - Tatoeba-test.ita-zho: 14.5
+   - Tatoeba-test.msa-zho: 9.4
+   - Tatoeba-test.oci-zho: 5.4
+   - Tatoeba-test.multi-zho: 30.0
+   - Tatoeba-test.pms-zho: 1.7
+   - Tatoeba-test.por-zho: 17.3
+   - Tatoeba-test.ron-zho: 1.0
+   - Tatoeba-test.spa-zho: 17.9
+chr-F-scores:
+   - Tatoeba-test.cat-zho: 0.124
+   - Tatoeba-test.fra-zho: 0.118
+   - Tatoeba-test.glg-zho: 0.115
+   - Tatoeba-test.ita-zho: 0.129
+   - Tatoeba-test.msa-zho: 0.095
+   - Tatoeba-test.oci-zho: 0.061
+   - Tatoeba-test.multi-zho: 0.250
+   - Tatoeba-test.pms-zho: 0.034
+   - Tatoeba-test.por-zho: 0.150
+   - Tatoeba-test.ron-zho: 0.022
+   - Tatoeba-test.spa-zho: 0.154

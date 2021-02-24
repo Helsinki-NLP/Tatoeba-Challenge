@@ -54,3 +54,25 @@
 | fiskmo_testset.swe-fin 	| 25.8 	| 0.614 	| 523 	| 7638 	| 0.998 |
 | Tatoeba-test.swe-fin 	| 44.4 	| 0.669 	| 2500 	| 13711 	| 0.954 |
 
+# opus-2021-02-22.zip
+
+* dataset: opus
+* model: transformer-align
+* source language(s): swe
+* target language(s): fin
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus-2021-02-22.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/swe-fin/opus-2021-02-22.zip)
+* test set translations: [opus-2021-02-22.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/swe-fin/opus-2021-02-22.test.txt)
+* test set scores: [opus-2021-02-22.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/swe-fin/opus-2021-02-22.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| fiskmo_testset.swe-fin 	| 26.3 	| 0.615 	| 523 	| 7638 	| 0.997 |
+| MeMAD-YLE-test.FIH-SWE.swe-fin 	| 12.2 	| 0.427 	| 625 	| 6075 	| 0.868 |
+| MeMAD-YLE-test.FIN-SWE.swe-fin 	| 20.8 	| 0.492 	| 1252 	| 10812 	| 0.976 |
+| MeMAD-YLE-test.FIN-SWH.swe-fin 	| 15.9 	| 0.444 	| 2837 	| 23153 	| 0.942 |
+| Tatoeba-test.swe-fin 	| 44.5 	| 0.668 	| 2500 	| 13711 	| 0.956 |
+

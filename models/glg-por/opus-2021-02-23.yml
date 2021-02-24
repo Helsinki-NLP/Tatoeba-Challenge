@@ -1,0 +1,33 @@
+release: glg-por/opus-2021-02-23.zip
+release-date: 2021-02-23
+dataset-name: opus
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+use-target-labels:
+   - >>pob<<
+   - >>por<<
+source-languages:
+   - glg
+target-languages:
+   - pob
+   - por
+training-data:
+   - glg-pob: Tatoeba-train (158551) 
+   - glg-por: Tatoeba-train (381571) 
+validation-data:
+   - glg-pob: Tatoeba-dev, 288
+   - glg-por: Tatoeba-dev, 712
+   - total size of shuffled dev data: 999
+   - devset = top 999  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.glg-por: 430/3078
+BLEU-scores:
+   - Tatoeba-test.glg-por: 58.5
+chr-F-scores:
+   - Tatoeba-test.glg-por: 0.756

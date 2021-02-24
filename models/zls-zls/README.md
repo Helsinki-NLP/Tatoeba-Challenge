@@ -56,3 +56,29 @@
 | Tatoeba-test.multi.multi 	| 44.2 	| 0.596 |
 | Tatoeba-test.slv-eng.slv.eng 	| 24.8 	| 0.403 |
 
+# opus-2021-02-23.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): bos bul hbs hrv mkd srp
+* target language(s): bos bul hbs hrv mkd srp
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>eng<< >>mkd<< >>bul<< >>srp_Cyrl<< >>srp_Latn<< >>bos_Latn<< >>hrv<< >>hbs<< >>cnr_Latn<< >>slv<< >>hbs_Cyrl<< >>bos_Cyrl<< >>cnr<<
+* download: [opus-2021-02-23.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2021-02-23.zip)
+* test set translations: [opus-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2021-02-23.test.txt)
+* test set scores: [opus-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2021-02-23.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.bul-hbs 	| 53.7 	| 0.871 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test.bul-mkd 	| 37.5 	| 0.688 	| 3 	| 17 	| 1.000 |
+| Tatoeba-test.hbs-bul 	| 100.0 	| 1.000 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test.hbs-mkd 	| 38.0 	| 0.718 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test.mkd-bul 	| 54.2 	| 0.788 	| 3 	| 17 	| 1.000 |
+| Tatoeba-test.mkd-hbs 	| 53.7 	| 0.871 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test.multi-multi 	| 48.3 	| 0.687 	| 14 	| 82 	| 1.000 |
+

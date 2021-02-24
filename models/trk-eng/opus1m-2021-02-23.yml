@@ -1,0 +1,141 @@
+release: trk-eng/opus1m-2021-02-23.zip
+release-date: 2021-02-23
+dataset-name: opus1m
+modeltype: transformer
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - aze
+   - bak
+   - chv
+   - crh
+   - kaz
+   - kir
+   - kjh
+   - kum
+   - nog
+   - ota
+   - sah
+   - tat
+   - tuk
+   - tur
+   - tyv
+   - uig
+   - uzb
+target-languages:
+   - eng
+training-data:
+   - aze_Arab-eng: Tatoeba-train (53) 
+   - bak-eng: Tatoeba-train (27966) 
+   - chv-eng: Tatoeba-train (75104) 
+   - crh-eng: Tatoeba-train (132) 
+   - crh_Latn-eng: Tatoeba-train (31674) 
+   - kaz_Cyrl-eng: Tatoeba-train (163896) 
+   - kaz_Latn-eng: Tatoeba-train (16011) 
+   - kir_Cyrl-eng: Tatoeba-train (396705) 
+   - tat-eng: Tatoeba-train (351607) 
+   - tat_Latn-eng: Tatoeba-train (14689) 
+   - tuk-eng: Tatoeba-train (186249) 
+   - tuk_Cyrl-eng: Tatoeba-train (1) 
+   - tuk_Latn-eng: Tatoeba-train (186248) 
+   - tur-eng: Tatoeba-train (1000000) 
+   - tyv-eng: Tatoeba-train (13514) 
+   - uig_Arab-eng: Tatoeba-train (119203) 
+   - uig_Latn-eng: Tatoeba-train (8419) 
+   - uzb_Cyrl-eng: Tatoeba-train (146614) 
+   - uzb_Latn-eng: Tatoeba-train (190507) 
+validation-data:
+   - bak-eng: Tatoeba-dev, 1000
+   - chv-eng: Tatoeba-dev, 990
+   - crh-eng: Tatoeba-dev, 2
+   - crh_Latn-eng: Tatoeba-dev, 998
+   - eng-kaz_Cyrl: Tatoeba-dev, 899
+   - eng-kaz_Latn: Tatoeba-dev, 97
+   - eng-kir_Cyrl: Tatoeba-dev, 998
+   - eng-sah: Tatoeba-dev, 40
+   - eng-tat: Tatoeba-dev, 960
+   - eng-tat_Latn: Tatoeba-dev, 40
+   - eng-tuk: Tatoeba-dev, 3864
+   - eng-tuk_Latn: Tatoeba-dev, 3864
+   - eng-tur: Tatoeba-dev, 656843
+   - eng-tyv: Tatoeba-dev, 1000
+   - eng-uig_Arab: Tatoeba-dev, 999
+   - eng-uig_Latn: Tatoeba-dev, 1
+   - eng-uzb_Cyrl: Tatoeba-dev, 432
+   - eng-uzb_Latn: Tatoeba-dev, 568
+   - total size of shuffled dev data: 669580
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newsdev2016-entr.tur-eng: 1001/22011
+   - newstest2016-entr.tur-eng: 3000/66175
+   - newstest2017-entr.tur-eng: 3007/67703
+   - newstest2018-entr.tur-eng: 3000/68725
+   - Tatoeba-test.aze-eng: 2659/16165
+   - Tatoeba-test.bak-eng: 39/212
+   - Tatoeba-test.chv-eng: 333/2240
+   - Tatoeba-test.crh-eng: 22/116
+   - Tatoeba-test.kaz-eng: 397/2655
+   - Tatoeba-test.kir-eng: 118/704
+   - Tatoeba-test.kjh-eng: 17/78
+   - Tatoeba-test.kum-eng: 8/49
+   - Tatoeba-test.nog-eng: 83/459
+   - Tatoeba-test.multi-eng: 10000/75506
+   - Tatoeba-test.ota-eng: 678/4344
+   - Tatoeba-test.sah-eng: 39/225
+   - Tatoeba-test.tat-eng: 1451/11261
+   - Tatoeba-test.tuk-eng: 2500/19066
+   - Tatoeba-test.tur-eng: 10000/77701
+   - Tatoeba-test.tyv-eng: 5/25
+   - Tatoeba-test.uig-eng: 3024/23090
+   - Tatoeba-test.uzb-eng: 457/2699
+BLEU-scores:
+   - newsdev2016-entr.tur-eng: 9.0
+   - newstest2016-entr.tur-eng: 7.5
+   - newstest2017-entr.tur-eng: 7.6
+   - newstest2018-entr.tur-eng: 8.2
+   - Tatoeba-test.aze-eng: 6.3
+   - Tatoeba-test.bak-eng: 4.5
+   - Tatoeba-test.chv-eng: 1.2
+   - Tatoeba-test.crh-eng: 16.2
+   - Tatoeba-test.kaz-eng: 10.6
+   - Tatoeba-test.kir-eng: 15.8
+   - Tatoeba-test.kjh-eng: 0.8
+   - Tatoeba-test.kum-eng: 10.1
+   - Tatoeba-test.nog-eng: 6.9
+   - Tatoeba-test.multi-eng: 21.2
+   - Tatoeba-test.ota-eng: 1.9
+   - Tatoeba-test.sah-eng: 0.5
+   - Tatoeba-test.tat-eng: 5.9
+   - Tatoeba-test.tuk-eng: 5.8
+   - Tatoeba-test.tur-eng: 40.7
+   - Tatoeba-test.tyv-eng: 1.9
+   - Tatoeba-test.uig-eng: 1.6
+   - Tatoeba-test.uzb-eng: 7.1
+chr-F-scores:
+   - newsdev2016-entr.tur-eng: 0.316
+   - newstest2016-entr.tur-eng: 0.300
+   - newstest2017-entr.tur-eng: 0.300
+   - newstest2018-entr.tur-eng: 0.304
+   - Tatoeba-test.aze-eng: 0.234
+   - Tatoeba-test.bak-eng: 0.217
+   - Tatoeba-test.chv-eng: 0.173
+   - Tatoeba-test.crh-eng: 0.295
+   - Tatoeba-test.kaz-eng: 0.291
+   - Tatoeba-test.kir-eng: 0.349
+   - Tatoeba-test.kjh-eng: 0.111
+   - Tatoeba-test.kum-eng: 0.297
+   - Tatoeba-test.nog-eng: 0.233
+   - Tatoeba-test.multi-eng: 0.404
+   - Tatoeba-test.ota-eng: 0.167
+   - Tatoeba-test.sah-eng: 0.130
+   - Tatoeba-test.tat-eng: 0.241
+   - Tatoeba-test.tuk-eng: 0.255
+   - Tatoeba-test.tur-eng: 0.581
+   - Tatoeba-test.tyv-eng: 0.100
+   - Tatoeba-test.uig-eng: 0.171
+   - Tatoeba-test.uzb-eng: 0.226

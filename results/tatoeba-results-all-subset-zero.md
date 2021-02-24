@@ -27,6 +27,8 @@ to be useful for anything.
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.042 | 0.1 |
 | | lang = deu-hrx | | | | |
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.251 | 2.2 |
+| [gmw-gmw/opus](../models/gmw-gmw) | tatoeba | 0.180 | 0.8 |
+| [gem-gem/opus](../models/gem-gem) | tatoeba | 0.090 | 0.3 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.090 | 0.4 |
 | | lang = deu-swg | | | | |
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.197 | 0.7 |
@@ -90,7 +92,9 @@ to be useful for anything.
 | [aav-aav/opus](../models/aav-aav) | tatoeba | 0.010 | 0.1 |
 | | lang = eng-hrx | | | | |
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.235 | 3.5 |
+| [gmw-gmw/opus](../models/gmw-gmw) | tatoeba | 0.198 | 3.1 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.134 | 2.3 |
+| [gem-gem/opus](../models/gem-gem) | tatoeba | 0.095 | 1.2 |
 | | lang = eng-kha | | | | |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.097 | 0.4 |
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.094 | 0.5 |
@@ -206,9 +210,13 @@ to be useful for anything.
 | [aav-eng/opus](../models/aav-eng) | tatoeba | 0.096 | 0.3 |
 | [aav-eng/opus2m](../models/aav-eng) | tatoeba | 0.095 | 0.3 |
 | | lang = hrx-deu | | | | |
+| [gem-gem/opus](../models/gem-gem) | tatoeba | 0.516 | 28.9 |
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.495 | 26.0 |
+| [gmw-gmw/opus](../models/gmw-gmw) | tatoeba | 0.487 | 24.7 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.379 | 16.2 |
 | | lang = hrx-eng | | | | |
+| [gem-gem/opus](../models/gem-gem) | tatoeba | 0.432 | 27.9 |
+| [gmw-gmw/opus](../models/gmw-gmw) | tatoeba | 0.357 | 19.6 |
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.355 | 19.7 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.326 | 15.1 |
 | | lang = ile-epo | | | | |
@@ -289,6 +297,7 @@ to be useful for anything.
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.216 | 4.1 |
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.213 | 3.9 |
 | [tut-tut/opus](../models/tut-tut) | tatoeba | 0.171 | 3.2 |
+| [trk-eng/opus1m](../models/trk-eng) | tatoeba | 0.167 | 1.9 |
 | [trk-trk/opus](../models/trk-trk) | tatoeba | 0.163 | 2.8 |
 | [trk-eng/opus](../models/trk-eng) | tatoeba | 0.151 | 2.6 |
 | [tut-eng/opus4m](../models/tut-eng) | tatoeba | 0.150 | 1.4 |

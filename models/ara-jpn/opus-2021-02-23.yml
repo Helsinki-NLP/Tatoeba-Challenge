@@ -1,0 +1,33 @@
+release: ara-jpn/opus-2021-02-23.zip
+release-date: 2021-02-23
+dataset-name: opus
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - acm
+   - apc
+   - ara
+   - arq
+   - arz
+target-languages:
+   - jpn
+training-data:
+   - ara-jpn: Tatoeba-train (2967338) 
+   - arq-jpn: Tatoeba-train (540) 
+   - arz-jpn: Tatoeba-train (3) 
+validation-data:
+   - ara-jpn: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.ara-jpn: 1336/11502
+BLEU-scores:
+   - Tatoeba-test.ara-jpn: 15.9
+chr-F-scores:
+   - Tatoeba-test.ara-jpn: 0.196

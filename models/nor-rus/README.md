@@ -16,7 +16,7 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.nor.rus 	| 18.6 	| 0.400 |
 
-# opus-2020-09-10.zip
+# opus-2021-02-23.zip
 
 * dataset: opus
 * model: transformer
@@ -24,13 +24,13 @@
 * target language(s): rus
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* download: [opus-2020-09-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2020-09-10.zip)
-* test set translations: [opus-2020-09-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2020-09-10.test.txt)
-* test set scores: [opus-2020-09-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2020-09-10.eval.txt)
+* download: [opus-2021-02-23.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2021-02-23.zip)
+* test set translations: [opus-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2021-02-23.test.txt)
+* test set scores: [opus-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2021-02-23.eval.txt)
 
 ## Benchmarks
 
-| testset               | BLEU  | chr-F |
-|-----------------------|-------|-------|
-| Tatoeba-test.nor.rus 	| 40.1 	| 0.619 |
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.nor-rus 	| 40.1 	| 0.619 	| 1279 	| 10671 	| 0.974 |
 

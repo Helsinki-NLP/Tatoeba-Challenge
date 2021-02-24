@@ -135,3 +135,49 @@
 | Tatoeba-test.ukr-orv.ukr.orv 	| 0.4 	| 0.138 |
 | Tatoeba-test.ukr-rus.ukr.rus 	| 68.8 	| 0.824 |
 
+# opus-2021-02-23.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): bel orv rus ukr
+* target language(s): bel orv rus ukr
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>eng<< >>ukr<< >>rus<< >>bel<< >>bel_Latn<<
+* download: [opus-2021-02-23.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opus-2021-02-23.zip)
+* test set translations: [opus-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opus-2021-02-23.test.txt)
+* test set scores: [opus-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opus-2021-02-23.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newstest2012.eng-rus 	| 26.4 	| 0.538 	| 3003 	| 64830 	| 0.999 |
+| newstest2012.rus-eng 	| 29.6 	| 0.568 	| 3003 	| 72812 	| 0.983 |
+| newstest2013.eng-rus 	| 20.4 	| 0.481 	| 3000 	| 58560 	| 0.989 |
+| newstest2013.rus-eng 	| 23.8 	| 0.513 	| 3000 	| 64505 	| 0.991 |
+| newstest2014-ruen.rus-eng 	| 26.4 	| 0.550 	| 3003 	| 69190 	| 0.994 |
+| newstest2015-enru.eng-rus 	| 22.4 	| 0.515 	| 2818 	| 55915 	| 1.000 |
+| newstest2015-enru.rus-eng 	| 25.2 	| 0.529 	| 2818 	| 64744 	| 0.953 |
+| newstest2016-enru.eng-rus 	| 21.6 	| 0.505 	| 2998 	| 62018 	| 1.000 |
+| newstest2016-enru.rus-eng 	| 23.9 	| 0.521 	| 2998 	| 69278 	| 0.983 |
+| newstest2017-enru.eng-rus 	| 23.6 	| 0.524 	| 3001 	| 60255 	| 1.000 |
+| newstest2017-enru.rus-eng 	| 27.5 	| 0.546 	| 3001 	| 69033 	| 0.968 |
+| newstest2018-enru.eng-rus 	| 20.4 	| 0.509 	| 3000 	| 61920 	| 1.000 |
+| newstest2018-enru.rus-eng 	| 23.3 	| 0.518 	| 3000 	| 71723 	| 0.969 |
+| newstest2019-enru.eng-rus 	| 22.3 	| 0.487 	| 1997 	| 48153 	| 0.937 |
+| newstest2019-ruen.rus-eng 	| 26.0 	| 0.537 	| 2000 	| 42875 	| 0.964 |
+| Tatoeba-test.bel-rus 	| 56.9 	| 0.753 	| 2500 	| 18895 	| 0.981 |
+| Tatoeba-test.bel-ukr 	| 54.5 	| 0.742 	| 2355 	| 15179 	| 0.997 |
+| Tatoeba-test.multi-multi 	| 55.0 	| 0.730 	| 10000 	| 63367 	| 1.000 |
+| Tatoeba-test.orv-rus 	| 5.3 	| 0.224 	| 171 	| 1266 	| 0.989 |
+| Tatoeba-test.orv-ukr 	| 3.1 	| 0.175 	| 973 	| 5446 	| 1.000 |
+| Tatoeba-test.rus-bel 	| 44.0 	| 0.659 	| 2500 	| 18756 	| 1.000 |
+| Tatoeba-test.rus-orv 	| 0.2 	| 0.149 	| 171 	| 1174 	| 1.000 |
+| Tatoeba-test.rus-ukr 	| 63.0 	| 0.789 	| 10000 	| 60212 	| 0.991 |
+| Tatoeba-test.ukr-bel 	| 46.7 	| 0.680 	| 2355 	| 15175 	| 1.000 |
+| Tatoeba-test.ukr-orv 	| 0.4 	| 0.138 	| 973 	| 5038 	| 1.000 |
+| Tatoeba-test.ukr-rus 	| 68.8 	| 0.824 	| 10000 	| 60387 	| 0.994 |
+| tico19-test.eng-rus 	| 20.2 	| 0.484 	| 2100 	| 55837 	| 0.921 |
+
