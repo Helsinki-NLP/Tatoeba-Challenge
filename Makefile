@@ -133,11 +133,18 @@ TATOEBA_PAIRS3    = ${sort ${shell ${SCRIPTDIR}/convert_langpair_codes.pl ${TATO
 ## data directories
 
 DATADIR     = data
-RELEASEDIR  = ${DATADIR}/release
+RELEASEDIR  = ${DATADIR}/release/${VERSION}
 DEVTESTDIR  = ${DATADIR}/devtest
 TESTDATADIR = ${DATADIR}/test
 DEVDATADIR  = ${DATADIR}/dev
 INFODIR     = ${RELEASEDIR}
+
+# RELEASEDIR  = ${DATADIR}/release
+# DEVTESTDIR  = ${DATADIR}/devtest
+# TESTDATADIR = ${DATADIR}/test
+# DEVDATADIR  = ${DATADIR}/dev
+# INFODIR     = ${RELEASEDIR}
+
 
 
 ## all data files we need to produce
@@ -283,7 +290,8 @@ upload-models:
 
 .PHONY: released-model-list
 released-model-list: 	models/released-models.txt \
-			models/released-model-results.txt
+			models/released-model-results.txt \
+			models/released-model-results-all.txt
 #			models/released-model-languages.txt
 
 
@@ -841,6 +849,17 @@ models/released-models.txt: ${TATOEBA_YAML}
 models/released-model-results.txt: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
 	xargs scripts/get-model-scores.pl -s 200 |\
+	grep 'Tatoeba-test' | grep -v 'multi'          > $@.1 
+	cut -f2 $@.1                                   > $@.langs
+	cut -f1 $@.1 | sed 's#^#${TATOEBA_MODELURL}/#' > $@.url
+	cut -f4,5 $@.1                                 > $@.scores
+	paste $@.langs $@.scores $@.url | \
+	sort -k1,1 -k3,3nr -k2,2nr -k4,4 | uniq | grep zip > $@
+	rm -f $@.1 $@.langs $@.url $@.scores
+
+models/released-model-results-all.txt: ${TATOEBA_YAML}
+	find models -name '*.yml' | \
+	xargs scripts/get-model-scores.pl |\
 	grep 'Tatoeba-test' | grep -v 'multi'          > $@.1 
 	cut -f2 $@.1                                   > $@.langs
 	cut -f1 $@.1 | sed 's#^#${TATOEBA_MODELURL}/#' > $@.url
