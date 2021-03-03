@@ -24,7 +24,7 @@ A new challenge set for machine translation covering over 500 languages and thou
 * [Extra bilingual training data](subsets/NoTestData.md) (language-pair specific downloads)
 * [Monolingual data sets](MonolingualData.md), [with document boundaries](Wiki.md), [de-duplicated and shuffled](Wiki.md)
 * [Incrementally updated development and test data](https://object.pouta.csc.fi/Tatoeba-Challenge/devtest.tar), ([here for individual language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/data/devtest))
-
+* NEW: [Automatically translated monolingual data](Backtranslations.md)
 
 
 ## In more detail

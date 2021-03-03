@@ -651,8 +651,8 @@ Backtranslations.md:
 	echo "of at most one million sentences per file." >> $@
 	echo "" >> $@
 	echo "| Size (sentences) | language pair | source | translation | MT model |" >> $@
-	echo "|:-----------------|:-------------:|:------:|:-----------:|:--------:|" >> $@
-	wget -qq -O - ${BT_CONTAINER}/released-data-size.txt | sort | \
+	echo "|:-----------------|:-------------:|:-------|:------------|:--------:|" >> $@
+	wget -qq -O - ${BT_CONTAINER}/released-data-size.txt | sort -k2,2 | grep -v '^[0-9]	' |\
 	perl -e 'use File::Basename;while (<>){chomp;@a=split(/\t/);if ($$#a==2){($$lang)=split(/\//,$$a[1]);$$f1 = basename($$a[1]);$$f2 = basename($$a[2]);$$d1 = dirname($$a[1]);$$d2 = dirname($$a[2]);print "| $$a[0] | $$lang | [$$f1](${BT_CONTAINER}/$$a[1]) | [$$f2](${BT_CONTAINER}/$$a[2]) | [info](${BT_CONTAINER}/$$d1/README.md) |\n";}}' >> $@
 
 
