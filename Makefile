@@ -638,6 +638,24 @@ ${WIKI_DOCS}:
 	  rm -f $@.tmptxt $@.tmpids; \
 	fi
 
+BT_CONTAINER = https://object.pouta.csc.fi/Tatoeba-MT-bt
+
+Backtranslations.md:
+	echo "# Translated monolingual data" > $@
+	echo "" >> $@
+	echo "Automatically translated data sets that can be used for data augmentation" >> $@
+	echo "Translations have been done with models trained on the Tatoeba MT challenge data." >> $@
+	echo "We include translations of Wikipedia, WikiSource, WikiBooks, WikiNews and WikiQuote" >> $@
+	echo "(if available for the source language we translate from)." >> $@
+	echo "Translations are done on shuffled, de-duplicated data sets and they come in blocks " >> $@
+	echo "of at most one million sentences per file." >> $@
+	echo "" >> $@
+	echo "| Size (sentences) | language pair | source | translation | MT model |" >> $@
+	echo "|:-----------------|:-------------:|:------:|:-----------:|:--------:|" >> $@
+	wget -qq -O - ${BT_CONTAINER}/released-data-size.txt | sort | \
+	perl -e 'use File::Basename;while (<>){chomp;@a=split(/\t/);if ($$#a==2){($$lang)=split(/\//,$$a[1]);$$f1 = basename($$a[1]);$$f2 = basename($$a[2]);$$d1 = dirname($$a[1]);$$d2 = dirname($$a[2]);print "| $$a[0] | $$lang | [$$f1](${BT_CONTAINER}/$$a[1]) | [$$f2](${BT_CONTAINER}/$$a[2]) | [info](${BT_CONTAINER}/$$d1/README.md) |\n";}}' >> $@
+
+
 
 ## make a copy of the latest statistics
 Data.md: Data-${VERSION}.md
@@ -822,6 +840,27 @@ subsets/${VERSION}/%.md: ${STATISTICS}
 	${SCRIPTDIR}/divide-data-sets.pl < $< |\
 	grep '${patsubst %.md,%,${notdir $@}}' |\
 	sed 's/|[^|]*$$/|/' >> $@
+
+
+${DATADIR}/relative-test-size.txt:
+	wc -l  ${TESTDATADIR}/*eng*/test.txt | \
+	grep -v total | \
+	perl -e 'while(<>){@a=split(/\s+/);@b=split(/\//,$$a[-1]);$$b[2]=~s/\-?eng\-?//;print $$b[2]," ",$$a[1]/10000,"\n";}' > $@
+
+
+${DATADIR}/relative-test-size-per-language.txt:
+	cat ${TESTDATADIR}/eng-*/test.txt |\
+	cut -f2 | \
+	sed 's/est/ekk/' |\
+	sed 's/kur_Arab/ckb/' |\
+	sed 's/kur_Latn/kmr/' |\
+	sed 's/grn/gug/' |\
+	sed 's/\_[^ ]*//' |\
+	sort | uniq -c |\
+	sed 's/^ *//' |\
+	awk '{print $$2 " " $$1/10000}' > $@
+
+
 
 
 # TATOEBA_READMES = $(wildcard models/*/README.md)
