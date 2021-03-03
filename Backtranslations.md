@@ -7,6 +7,21 @@ We include translations of Wikipedia, WikiSource, WikiBooks, WikiNews and WikiQu
 Translations are done on shuffled, de-duplicated data sets and they come in blocks 
 of at most one million sentences per file.
 
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Please, cite the following paper if you use data from this distribution:
+
+```
+@inproceedings{tiedemann-2020-ttc,
+    title = "The {T}atoeba {T}ranslation {C}hallenge -- {R}ealistic Data Sets for Low Resource and Multilingual {MT}",
+    author = {Tiedemann, J{\"o}rg},
+    booktitle = "Proceedings of the Fifth Conference on Machine Translation (Volume 1: Research Papers)",
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+    url = {https://arxiv.org/abs/2010.06354}
+}
+```
+
 | Size (sentences) | language pair | source | translation | MT model |
 |:-----------------|:-------------:|:-------|:------------|:--------:|
 | 12707 | abk-eng | [wiki.aa.abk-eng.abk.gz](https://object.pouta.csc.fi/Tatoeba-MT-bt/abk-eng/latest/wiki.aa.abk-eng.abk.gz) | [wiki.aa.abk-eng.eng.gz](https://object.pouta.csc.fi/Tatoeba-MT-bt/abk-eng/latest/wiki.aa.abk-eng.eng.gz) | [info](https://object.pouta.csc.fi/Tatoeba-MT-bt/abk-eng/latest/README.md) |
