@@ -10,8 +10,8 @@
 use strict;
 use Getopt::Std;
 
-our $opt_d;
-getopts('d');
+our ($opt_d, $opt_r);
+getopts('dr:');
 
 
 my $model = undef;
@@ -19,6 +19,12 @@ my %modelinfo;
 my %modeldate;
 my %modelbleu;
 my %modelchrf;
+
+my %releasedModels = ();
+if ($opt_r){
+    &read_released_models(\%releasedModels,$opt_r);
+}
+
 
 ## make sure that we have allas loaded
 ## TODO: should we also check whether we are in the correct project?
@@ -69,6 +75,7 @@ foreach (keys %sorted){
 	while ($keep = shift(@{$sorted{$_}})){
 	    print STDERR "keep model   $dir/$keep ($_)\n";
 	    last if (-e "$dir/$keep");
+	    last if (exists $releasedModels{"$dir/$keep"});
 	}
 
 	## delete all others
@@ -113,6 +120,21 @@ unless ($opt_d){
     open F,">$dir/README.md" || die "cannot read $dir/README.md\n";
     foreach my $m (sort {$modeldate{$a} cmp $modeldate{$b}} keys %modelinfo){
 	print F $modelinfo{$m};
+    }
+    close F;
+}
+
+
+sub read_released_models{
+    my ($models, $file) = @_;
+    open F,"<$file" || die "cannot read models from $file";
+    while (<F>){
+	chomp;
+	my @fields = split(/\t/);
+	my @parts = split(/\/+/,$fields[0]);
+	my $file = pop(@parts);
+	my $dir = pop(@parts);
+	$$models{"models/$dir/$file"}++;
     }
     close F;
 }

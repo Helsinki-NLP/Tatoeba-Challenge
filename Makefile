@@ -1069,7 +1069,7 @@ cleanup-model-dirs:
 	which a-put
 	for d in `find models -maxdepth 1 -mindepth 1 -type d`; do \
 	  echo "check $$d"; \
-	  scripts/cleanup-model-releases.pl $$d; \
+	  scripts/cleanup-model-releases.pl -r models/available-models.txt $$d; \
 	done
 	swift list Tatoeba-MT-models > models/available-models.txt
 
