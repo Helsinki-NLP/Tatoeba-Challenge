@@ -40,6 +40,7 @@ For multilingual models, it is a mix of all language pairs
 | [ara-eng/opus](../models/ara-eng) | 0.617 | 44.9 |
 | [ara-eng/opus](../models/ara-eng) | 0.614 | 44.6 |
 | [ara-epo/opus](../models/ara-epo) | 0.376 | 18.9 |
+| [ara-fin/opus](../models/ara-fin) | 0.803 | 71.0 |
 | [ara-fra/opus](../models/ara-fra) | 0.562 | 39.8 |
 | [ara-fra/opus](../models/ara-fra) | 0.560 | 39.6 |
 | [ara-fra/opus](../models/ara-fra) | 0.556 | 39.3 |
@@ -235,6 +236,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-afa/opus](../models/eng-afa) | 0.363 | 13.7 |
 | [eng-afa/opus2m](../models/eng-afa) | 0.375 | 14.4 |
 | [eng-afr/opus](../models/eng-afr) | 0.728 | 54.5 |
+| [eng-afr/opus+bt](../models/eng-afr) | 0.740 | 57.0 |
 | [eng-alv/opus](../models/eng-alv) | 0.473 | 13.0 |
 | [eng-alv/opus](../models/eng-alv) | 0.431 | 11.8 |
 | [eng-alv/opus](../models/eng-alv) | 0.430 | 11.4 |
@@ -247,6 +249,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-bat/opus](../models/eng-bat) | 0.596 | 33.9 |
 | [eng-bat/opus2m](../models/eng-bat) | 0.616 | 37.0 |
 | [eng-bel/opus](../models/eng-bel) | 0.261 | 8.2 |
+| [eng-bel/opus+bt](../models/eng-bel) | 0.496 | 23.5 |
 | [eng-ben/opus](../models/eng-ben) | 0.484 | 16.9 |
 | [eng-ben/opus](../models/eng-ben) | 0.481 | 16.6 |
 | [eng-ber/opus](../models/eng-ber) | 0.074 | 0.0 |
@@ -268,6 +271,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-cpp/opus2m](../models/eng-cpp) | 0.574 | 32.7 |
 | [eng-cus/opus2m](../models/eng-cus) | 0.173 | 16.0 |
 | [eng-cym/opus](../models/eng-cym) | 0.499 | 27.4 |
+| [eng-cym/opus+bt](../models/eng-cym) | 0.580 | 35.1 |
 | [eng-dan/opus](../models/eng-dan) | 0.753 | 61.7 |
 | [eng-deu+eng+fin+fra+nld+swe/opus1m](../models/eng-deu+eng+fin+fra+nld+swe) | 0.643 | 46.1 |
 | [eng-deu/opus](../models/eng-deu) | 0.653 | 45.8 |
@@ -276,10 +280,12 @@ For multilingual models, it is a mix of all language pairs
 | [eng-dra/opus](../models/eng-dra) | 0.461 | 10.5 |
 | [eng-epo/opus](../models/eng-epo) | 0.577 | 35.6 |
 | [eng-eus/opus](../models/eng-eus) | 0.590 | 31.8 |
+| [eng-eus/opus+bt](../models/eng-eus) | 0.610 | 33.5 |
 | [eng-fas/opus](../models/eng-fas) | 0.364 | 11.8 |
 | [eng-fin/opus](../models/eng-fin) | 0.629 | 38.7 |
 | [eng-fiu/opus](../models/eng-fiu) | 0.578 | 33.8 |
 | [eng-fiu/opus2m](../models/eng-fiu) | 0.590 | 35.4 |
+| [eng+fra-bre/opus+bt](../models/eng+fra-bre) | 0.348 | 13.5 |
 | [eng-fra/opus](../models/eng-fra) | 0.671 | 50.8 |
 | [eng-fra/opus](../models/eng-fra) | 0.669 | 50.6 |
 | [eng-fry/opus](../models/eng-fry) | 0.202 | 4.7 |
@@ -289,6 +295,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-gem/opus](../models/eng-gem) | 0.627 | 44.8 |
 | [eng-gem/opus2m](../models/eng-gem) | 0.641 | 46.5 |
 | [eng-gle/opus](../models/eng-gle) | 0.593 | 37.5 |
+| [eng-gle/opus+bt](../models/eng-gle) | 0.614 | 40.4 |
 | [eng-glg/opus](../models/eng-glg) | 0.593 | 37.8 |
 | [eng-gmq/opus](../models/eng-gmq) | 0.684 | 52.6 |
 | [eng-gmq/opus](../models/eng-gmq) | 0.683 | 52.3 |
@@ -319,6 +326,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-ine/opus](../models/eng-ine) | 0.529 | 31.5 |
 | [eng-ine/opus2m](../models/eng-ine) | 0.539 | 32.6 |
 | [eng-isl/opus](../models/eng-isl) | 0.516 | 24.7 |
+| [eng-isl/opus+bt](../models/eng-isl) | 0.541 | 28.6 |
 | [eng-itc/opus](../models/eng-itc) | 0.585 | 37.6 |
 | [eng-itc/opus](../models/eng-itc) | 0.585 | 37.5 |
 | [eng-itc/opus](../models/eng-itc) | 0.583 | 37.2 |
@@ -365,6 +373,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-rom/opus](../models/eng-rom) | 0.134 | 0.4 |
 | [eng-ron/opus](../models/eng-ron) | 0.666 | 45.0 |
 | [eng-ron/opus](../models/eng-ron) | 0.665 | 45.0 |
+| [eng-ron/opus+bt](../models/eng-ron) | 0.678 | 46.9 |
 | [eng-run/opus](../models/eng-run) | 0.436 | 10.4 |
 | [eng-sal/opus](../models/eng-sal) | 0.585 | 32.6 |
 | [eng-sal/opus](../models/eng-sal) | 0.080 | 1.3 |
@@ -879,6 +888,7 @@ For multilingual models, it is a mix of all language pairs
 | [sem-eng/opus2m](../models/sem-eng) | 0.588 | 41.7 |
 | [sem-eng/opus4m](../models/sem-eng) | 0.592 | 42.3 |
 | [sem-fiu/opus](../models/sem-fiu) | 0.545 | 30.0 |
+| [sem-fiu/opus-tuned4ara2fin](../models/sem-fiu) | 0.293 | 10.4 |
 | [sem-sem/opus](../models/sem-sem) | 0.537 | 33.5 |
 | [sem-sem/opus](../models/sem-sem) | 0.534 | 33.2 |
 | [sem-sem/opus](../models/sem-sem) | 0.507 | 27.1 |

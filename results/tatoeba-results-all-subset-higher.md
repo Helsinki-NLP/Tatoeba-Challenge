@@ -155,6 +155,7 @@ to be useful for anything.
 | | lang = eng-afr | | | | |
 | [eng-gem/opus2m](../models/eng-gem) | tatoeba | 0.745 | 56.5 |
 | [eng-gem/opus](../models/eng-gem) | tatoeba | 0.742 | 56.3 |
+| [eng-afr/opus+bt](../models/eng-afr) | tatoeba | 0.740 | 57.0 |
 | [eng-gmw/opus2m](../models/eng-gmw) | tatoeba | 0.740 | 55.7 |
 | [eng-gmw/opus](../models/eng-gmw) | tatoeba | 0.739 | 56.0 |
 | [gmw-gmw/opus](../models/gmw-gmw) | tatoeba | 0.735 | 56.5 |
@@ -192,6 +193,7 @@ to be useful for anything.
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.409 | 9.6 |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.399 | 9.2 |
 | | lang = eng-cym | | | | |
+| [eng-cym/opus+bt](../models/eng-cym) | tatoeba | 0.580 | 35.1 |
 | [eng-cel/opus2m](../models/eng-cel) | tatoeba | 0.549 | 31.0 |
 | [cel-cel/opus](../models/cel-cel) | tatoeba | 0.539 | 30.4 |
 | [eng-cel/opus](../models/eng-cel) | tatoeba | 0.539 | 29.4 |
@@ -202,6 +204,7 @@ to be useful for anything.
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.418 | 18.0 |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.401 | 16.5 |
 | | lang = eng-eus | | | | |
+| [eng-eus/opus+bt](../models/eng-eus) | tatoeba | 0.610 | 33.5 |
 | [eng-eus/opus](../models/eng-eus) | tatoeba | 0.590 | 31.8 |
 | [euq-euq/opus](../models/euq-euq) | tatoeba | 0.563 | 28.1 |
 | [eng-euq/opus](../models/eng-euq) | tatoeba | 0.555 | 27.9 |
@@ -220,6 +223,7 @@ to be useful for anything.
 | [eng-iir/opus](../models/eng-iir) | tatoeba | 0.222 | 3.5 |
 | [eng-fas/opus](../models/eng-fas) | tico19-test | 0.422 | 13.7 |
 | | lang = eng-gle | | | | |
+| [eng-gle/opus+bt](../models/eng-gle) | tatoeba | 0.614 | 40.4 |
 | [eng-gle/opus](../models/eng-gle) | tatoeba | 0.593 | 37.5 |
 | [eng-cel/opus2m](../models/eng-cel) | tatoeba | 0.582 | 35.9 |
 | [eng-cel/opus](../models/eng-cel) | tatoeba | 0.578 | 35.0 |
@@ -266,6 +270,7 @@ to be useful for anything.
 | [inc-inc/opus](../models/inc-inc) | tico19-test | 0.373 | 15.0 |
 | [eng-hin/opus](../models/eng-hin) | tico19-test | 0.338 | 13.6 |
 | | lang = eng-isl | | | | |
+| [eng-isl/opus+bt](../models/eng-isl) | tatoeba | 0.541 | 28.6 |
 | [eng-isl/opus](../models/eng-isl) | tatoeba | 0.516 | 24.7 |
 | [eng-gmq/opus2m](../models/eng-gmq) | tatoeba | 0.506 | 23.8 |
 | [gmq-gmq/opus](../models/gmq-gmq) | tatoeba | 0.506 | 24.3 |

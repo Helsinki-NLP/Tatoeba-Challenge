@@ -1671,6 +1671,7 @@ to be useful for anything.
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.536 | 30.3 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.524 | 28.9 |
 | | lang = eng-ron | | | | |
+| [eng-ron/opus+bt](../models/eng-ron) | newsdev2016 0.610 | 33.5 |
 | [eng-ron/opus](../models/eng-ron) | newsdev2016 0.592 | 30.7 |
 | [eng-roa/opus2m](../models/eng-roa) | newsdev2016 0.567 | 27.6 |
 | [eng-itc/opus2m](../models/eng-itc) | newsdev2016 0.565 | 27.1 |
@@ -1681,6 +1682,7 @@ to be useful for anything.
 | [eng-mul/opus2m](../models/eng-mul) | newsdev2016 0.488 | 17.2 |
 | [eng-mul/opus](../models/eng-mul) | newsdev2016 0.482 | 16.7 |
 | [ine-ine/opus](../models/ine-ine) | newsdev2016 0.470 | 17.3 |
+| [eng-ron/opus+bt](../models/eng-ron) | newstest2016 0.591 | 31.7 |
 | [eng-ron/opus](../models/eng-ron) | newstest2016 0.573 | 28.4 |
 | [eng-roa/opus2m](../models/eng-roa) | newstest2016 0.551 | 26.1 |
 | [eng-itc/opus2m](../models/eng-itc) | newstest2016 0.548 | 25.9 |
@@ -1691,6 +1693,7 @@ to be useful for anything.
 | [eng-mul/opus2m](../models/eng-mul) | newstest2016 0.472 | 16.6 |
 | [eng-mul/opus](../models/eng-mul) | newstest2016 0.464 | 15.8 |
 | [ine-ine/opus](../models/ine-ine) | newstest2016 0.457 | 16.8 |
+| [eng-ron/opus+bt](../models/eng-ron) | tatoeba | 0.678 | 46.9 |
 | [eng-ron/opus](../models/eng-ron) | tatoeba | 0.666 | 45.0 |
 | [eng-roa/opus](../models/eng-roa) | tatoeba | 0.640 | 41.8 |
 | [eng-roa/opus2m](../models/eng-roa) | tatoeba | 0.635 | 41.0 |
@@ -2572,6 +2575,7 @@ to be useful for anything.
 | | lang = heb-fin | | | | |
 | [sem-fiu/opus](../models/sem-fiu) | tatoeba | 0.589 | 33.8 |
 | [afa-fiu/opus](../models/afa-fiu) | tatoeba | 0.575 | 31.2 |
+| [sem-fiu/opus-tuned4ara2fin](../models/sem-fiu) | tatoeba | 0.519 | 26.4 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.380 | 16.2 |
 | | lang = heb-fra | | | | |
 | [heb-fra/opus](../models/heb-fra) | tatoeba | 0.644 | 47.3 |
@@ -2581,6 +2585,7 @@ to be useful for anything.
 | [afa-fiu/opus](../models/afa-fiu) | tatoeba | 0.529 | 29.7 |
 | [sem-fiu/opus](../models/sem-fiu) | tatoeba | 0.520 | 26.4 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.359 | 14.2 |
+| [sem-fiu/opus-tuned4ara2fin](../models/sem-fiu) | tatoeba | 0.153 | 1.1 |
 | | lang = heb-ita | | | | |
 | [heb-ita/opus](../models/heb-ita) | tatoeba | 0.643 | 41.1 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.430 | 20.3 |
