@@ -200,6 +200,7 @@ For multilingual models, it is a mix of all language pairs
 | [deu-fas/opus](../models/deu-fas) | 0.335 | 10.4 |
 | [deu-fin/opus](../models/deu-fin) | 0.635 | 40.2 |
 | [deu-fin/opus](../models/deu-fin) | 0.634 | 40.1 |
+| [deu-fin/opus+bt](../models/deu-fin) | 0.645 | 41.1 |
 | [deu-fra/opus](../models/deu-fra) | 0.665 | 49.2 |
 | [deu-fra/opus](../models/deu-fra) | 0.661 | 48.6 |
 | [deu-hbs/opus](../models/deu-hbs) | 0.330 | 20.1 |
@@ -257,6 +258,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-bnt/opus](../models/eng-bnt) | 0.490 | 13.6 |
 | [eng-bnt/opus](../models/eng-bnt) | 0.449 | 12.1 |
 | [eng-bnt/opus](../models/eng-bnt) | 0.444 | 12.0 |
+| [eng-bre/opus+bt](../models/eng-bre) | 0.386 | 15.5 |
 | [eng-bul/opus](../models/eng-bul) | 0.680 | 50.6 |
 | [eng-bul/opus](../models/eng-bul) | 0.565 | 36.0 |
 | [eng-cat/opus](../models/eng-cat) | 0.659 | 46.5 |
@@ -283,6 +285,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-eus/opus+bt](../models/eng-eus) | 0.610 | 33.5 |
 | [eng-fas/opus](../models/eng-fas) | 0.364 | 11.8 |
 | [eng-fin/opus](../models/eng-fin) | 0.629 | 38.7 |
+| [eng-fin/opus+bt](../models/eng-fin) | 0.633 | 38.7 |
 | [eng-fiu/opus](../models/eng-fiu) | 0.578 | 33.8 |
 | [eng-fiu/opus2m](../models/eng-fiu) | 0.590 | 35.4 |
 | [eng+fra-bre/opus+bt](../models/eng+fra-bre) | 0.348 | 13.5 |
@@ -349,6 +352,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-mul/opus](../models/eng-mul) | 0.430 | 19.5 |
 | [eng-mul/opus](../models/eng-mul) | 0.415 | 18.5 |
 | [eng-mul/opus2m](../models/eng-mul) | 0.451 | 22.4 |
+| [eng-nds/opus+bt](../models/eng-nds) | 0.419 | 18.1 |
 | [eng-nic/opus](../models/eng-nic) | 0.484 | 13.5 |
 | [eng-nic/opus](../models/eng-nic) | 0.427 | 11.1 |
 | [eng-nic/opus](../models/eng-nic) | 0.423 | 10.9 |
@@ -1002,6 +1006,7 @@ For multilingual models, it is a mix of all language pairs
 | [tur-dan/opus](../models/tur-dan) | 0.682 | 53.8 |
 | [tur-eng/opus](../models/tur-eng) | 0.725 | 58.4 |
 | [tur-epo/opus](../models/tur-epo) | 0.373 | 17.0 |
+| [tur-fin/opus](../models/tur-fin) | 0.575 | 33.2 |
 | [tur-lit/opus](../models/tur-lit) | 0.631 | 35.6 |
 | [tur-spa/opus](../models/tur-spa) | 0.727 | 56.9 |
 | [tur-tat/opus](../models/tur-tat) | 0.221 | 2.5 |

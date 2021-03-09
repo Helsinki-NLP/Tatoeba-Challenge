@@ -1,0 +1,51 @@
+release: eng-fin/opus+bt-2021-03-09.zip
+release-date: 2021-03-09
+dataset-name: opus+bt
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - fin
+training-data:
+   - eng-fin: Tatoeba-train (45205537) wiki.aa.fin-eng (989793) wiki.ab.fin-eng (989863) wiki.ac.fin-eng (989739) wiki.ad.fin-eng (989710) wiki.ae.fin-eng (989743) wiki.af.fin-eng (989850) wiki.ag.fin-eng (989780) wiki.ah.fin-eng (479612) wikibooks.aa.fin-eng (65843) wikinews.aa.fin-eng (21283) wikiquote.aa.fin-eng (32622) wikisource.aa.fin-eng (273356) 
+validation-data:
+   - eng-fin: Tatoeba-dev, 69721
+   - total size of shuffled dev data: 69721
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - newsdev2015-enfi.eng-fin: 1500/23375
+   - newstest2015-enfi.eng-fin: 1370/19968
+   - newstest2016-enfi.eng-fin: 3000/48116
+   - newstest2017-enfi.eng-fin: 3002/45718
+   - newstest2018-enfi.eng-fin: 3000/45475
+   - newstest2019-enfi.eng-fin: 1997/38369
+   - newstestB2016-enfi.eng-fin: 3000/45766
+   - newstestB2017-enfi.eng-fin: 3002/45506
+   - Tatoeba-test.eng-fin: 10000/60517
+BLEU-scores:
+   - newsdev2015-enfi.eng-fin: 22.9
+   - newstest2015-enfi.eng-fin: 25.0
+   - newstest2016-enfi.eng-fin: 26.3
+   - newstest2017-enfi.eng-fin: 29.3
+   - newstest2018-enfi.eng-fin: 19.7
+   - newstest2019-enfi.eng-fin: 24.1
+   - newstestB2016-enfi.eng-fin: 21.3
+   - newstestB2017-enfi.eng-fin: 24.5
+   - Tatoeba-test.eng-fin: 38.7
+chr-F-scores:
+   - newsdev2015-enfi.eng-fin: 0.569
+   - newstest2015-enfi.eng-fin: 0.586
+   - newstest2016-enfi.eng-fin: 0.595
+   - newstest2017-enfi.eng-fin: 0.624
+   - newstest2018-enfi.eng-fin: 0.545
+   - newstest2019-enfi.eng-fin: 0.565
+   - newstestB2016-enfi.eng-fin: 0.558
+   - newstestB2017-enfi.eng-fin: 0.583
+   - Tatoeba-test.eng-fin: 0.633

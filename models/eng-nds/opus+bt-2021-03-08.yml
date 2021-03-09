@@ -1,0 +1,27 @@
+release: eng-nds/opus+bt-2021-03-08.zip
+release-date: 2021-03-08
+dataset-name: opus+bt
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   - source: spm12k
+   - target: spm12k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - nds
+training-data:
+   - eng-nds: Tatoeba-train (519229) wiki.aa.nds-eng (355567) wikibooks.aa.nds-eng (14) wikiquote.aa.nds-eng (1) 
+validation-data:
+   - eng-nds: Tatoeba-dev, 3077
+   - total size of shuffled dev data: 3077
+   - devset = top 3077  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.eng-nds: 2500/18264
+BLEU-scores:
+   - Tatoeba-test.eng-nds: 18.1
+chr-F-scores:
+   - Tatoeba-test.eng-nds: 0.419

@@ -161,6 +161,7 @@ to be useful for anything.
 | [eng-bel/opus](../models/eng-bel) | tatoeba | 0.261 | 8.2 |
 | | lang = eng-bre | | | | |
 | [eng+fra-bre/opus+bt](../models/eng+fra-bre) | tatoeba | 0.402 | 17.2 |
+| [eng-bre/opus+bt](../models/eng-bre) | tatoeba | 0.386 | 15.5 |
 | [eng-cel/opus2m](../models/eng-cel) | tatoeba | 0.338 | 11.5 |
 | [eng-cel/opus](../models/eng-cel) | tatoeba | 0.334 | 10.4 |
 | [cel-cel/opus](../models/cel-cel) | tatoeba | 0.330 | 9.6 |
@@ -307,6 +308,7 @@ to be useful for anything.
 | [gem-gem/opus](../models/gem-gem) | tatoeba | 0.440 | 19.9 |
 | [eng-gmw/opus2m](../models/eng-gmw) | tatoeba | 0.437 | 18.9 |
 | [eng-gmw/opus](../models/eng-gmw) | tatoeba | 0.434 | 18.7 |
+| [eng-nds/opus+bt](../models/eng-nds) | tatoeba | 0.419 | 18.1 |
 | [gmw-gmw/opus](../models/gmw-gmw) | tatoeba | 0.413 | 17.0 |
 | [eng-ine/opus2m](../models/eng-ine) | tatoeba | 0.401 | 14.3 |
 | [eng-ine/opus](../models/eng-ine) | tatoeba | 0.399 | 14.1 |
