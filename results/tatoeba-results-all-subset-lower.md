@@ -134,6 +134,7 @@ to be useful for anything.
 | | lang = eng-gla | | | | |
 | [eng-ine/opus2m](../models/eng-ine) | tatoeba | 0.361 | 11.6 |
 | [eng-ine/opus](../models/eng-ine) | tatoeba | 0.357 | 11.7 |
+| [eng-gla/opus+bt](../models/eng-gla) | tatoeba | 0.346 | 12.0 |
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.341 | 10.9 |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.339 | 10.2 |
 | [eng-cel/opus2m](../models/eng-cel) | tatoeba | 0.317 | 7.6 |
@@ -182,6 +183,7 @@ to be useful for anything.
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.306 | 6.1 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.303 | 7.7 |
 | | lang = eng-ltz | | | | |
+| [eng-ltz/opus+bt](../models/eng-ltz) | tatoeba | 0.458 | 27.2 |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.415 | 19.8 |
 | [eng-gem/opus](../models/eng-gem) | tatoeba | 0.395 | 20.3 |
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.395 | 19.1 |

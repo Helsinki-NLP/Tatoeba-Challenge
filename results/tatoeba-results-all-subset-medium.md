@@ -191,6 +191,7 @@ to be useful for anything.
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.533 | 30.5 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.528 | 30.6 |
 | | lang = eng-fry | | | | |
+| [eng-fry/opus+bt](../models/eng-fry) | tatoeba | 0.444 | 19.5 |
 | [eng-gem/opus2m](../models/eng-gem) | tatoeba | 0.433 | 19.4 |
 | [eng-gmw/opus2m](../models/eng-gmw) | tatoeba | 0.424 | 17.9 |
 | [eng-gem/opus](../models/eng-gem) | tatoeba | 0.419 | 16.6 |

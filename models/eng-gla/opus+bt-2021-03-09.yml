@@ -1,0 +1,27 @@
+release: eng-gla/opus+bt-2021-03-09.zip
+release-date: 2021-03-09
+dataset-name: opus+bt
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - gla
+training-data:
+   - eng-gla: Tatoeba-train (46024) wiki.aa.gla-eng (73323) 
+validation-data:
+   - eng-gla: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 1000
+   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.eng-gla: 917/7072
+BLEU-scores:
+   - Tatoeba-test.eng-gla: 12.0
+chr-F-scores:
+   - Tatoeba-test.eng-gla: 0.346

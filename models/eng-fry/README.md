@@ -35,3 +35,21 @@
 | Tatoeba-test.eng.fry 	| 4.7 	| 0.202 |
 | Tatoeba-test.eng-fry.eng.fry 	| 4.7 	| 0.203 |
 
+# opus+bt-2021-03-12.zip
+
+* dataset: opus+bt
+* model: transformer-align
+* source language(s): eng
+* target language(s): fry
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm12k,spm32k)
+* download: [opus+bt-2021-03-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fry/opus+bt-2021-03-12.zip)
+* test set translations: [opus+bt-2021-03-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fry/opus+bt-2021-03-12.test.txt)
+* test set scores: [opus+bt-2021-03-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fry/opus+bt-2021-03-12.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-fry 	| 19.5 	| 0.444 	| 205 	| 1529 	| 1.000 |
+

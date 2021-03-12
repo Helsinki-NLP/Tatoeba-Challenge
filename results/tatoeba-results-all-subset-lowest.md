@@ -58,6 +58,7 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.079 | 0.2 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.050 | 0.4 |
 | | lang = eng-fao | | | | |
+| [eng-fao/opus+bt](../models/eng-fao) | tatoeba | 0.361 | 16.8 |
 | [eng-gmq/opus2m](../models/eng-gmq) | tatoeba | 0.322 | 9.2 |
 | [eng-gem/opus](../models/eng-gem) | tatoeba | 0.318 | 9.4 |
 | [gmq-gmq/opus](../models/gmq-gmq) | tatoeba | 0.315 | 8.9 |
