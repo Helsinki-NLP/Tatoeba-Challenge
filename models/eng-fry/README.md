@@ -18,6 +18,7 @@
 
 
 
+
 # opus-2021-02-13.zip
 
 * dataset: opus
@@ -39,6 +40,7 @@
 
 
 
+
 # opus+bt-2021-03-12.zip
 
 * dataset: opus+bt
@@ -48,8 +50,8 @@
 * model: transformer-align
 * pre-processing: normalization + SentencePiece (spm4k,spm4k)
 * download: [opus+bt-2021-03-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fry/opus+bt-2021-03-12.zip)
-* test set translations: [README.md-2021-03-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fry/README.md-2021-03-12.test.txt)
-* test set scores: [README.md-2021-03-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fry/README.md-2021-03-12.eval.txt)
+* test set translations: [opus+bt-2021-03-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fry/opus+bt-2021-03-12.test.txt)
+* test set scores: [opus+bt-2021-03-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fry/opus+bt-2021-03-12.eval.txt)
 
 ## Benchmarks
 

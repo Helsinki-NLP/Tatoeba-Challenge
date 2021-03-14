@@ -23,6 +23,8 @@
 
 
 
+
+
 # opus-2021-02-16.zip
 
 * dataset: opus
@@ -40,6 +42,8 @@
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.deu-fin 	| 40.3 	| 0.634 	| 2500 	| 14145 	| 0.944 |
+
+
 
 
 
@@ -69,6 +73,8 @@
 
 
 
+
+
 # opus-2021-02-18.zip
 
 * dataset: opus
@@ -93,6 +99,8 @@
 
 
 
+
+
 # opus+bt-2021-03-08.zip
 
 * dataset: opus+bt
@@ -102,8 +110,8 @@
 * model: transformer-align
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * download: [opus+bt-2021-03-08.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fin/opus+bt-2021-03-08.zip)
-* test set translations: [README.md-2021-03-08.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fin/README.md-2021-03-08.test.txt)
-* test set scores: [README.md-2021-03-08.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fin/README.md-2021-03-08.eval.txt)
+* test set translations: [opus+bt-2021-03-08.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fin/opus+bt-2021-03-08.test.txt)
+* test set scores: [opus+bt-2021-03-08.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fin/opus+bt-2021-03-08.eval.txt)
 
 ## Benchmarks
 

@@ -20,6 +20,8 @@
 
 
 
+
+
 # opus+bt-2021-03-07.zip
 
 * dataset: opus+bt
@@ -31,8 +33,8 @@
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>bel<< >>bel_Latn<<
 * download: [opus+bt-2021-03-07.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bel/opus+bt-2021-03-07.zip)
-* test set translations: [README.md-2021-03-07.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bel/README.md-2021-03-07.test.txt)
-* test set scores: [README.md-2021-03-07.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bel/README.md-2021-03-07.eval.txt)
+* test set translations: [opus+bt-2021-03-07.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bel/opus+bt-2021-03-07.test.txt)
+* test set scores: [opus+bt-2021-03-07.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bel/opus+bt-2021-03-07.eval.txt)
 
 ## Benchmarks
 

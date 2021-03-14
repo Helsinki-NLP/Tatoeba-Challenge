@@ -9,8 +9,8 @@
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>tat<< >>tur<< >>bak<< >>kaz_Cyrl<< >>uzb_Latn<< >>tat_Latn<< >>kaz_Latn<< >>uzb_Cyrl<<
 * download: [opus-2021-02-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip)
-* test set translations: [README.md-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/README.md-2021-02-19.test.txt)
-* test set scores: [README.md-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/README.md-2021-02-19.eval.txt)
+* test set translations: [opus-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.test.txt)
+* test set scores: [opus-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.eval.txt)
 
 ## Benchmarks
 

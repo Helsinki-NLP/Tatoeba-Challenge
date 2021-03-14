@@ -24,6 +24,8 @@
 
 
 
+
+
 # opus-2020-09-26.zip
 
 * dataset: opus
@@ -71,6 +73,8 @@
 | Tatoeba-test.tmr-eng.tmr.eng 	| 2.2 	| 0.141 |
 | Tatoeba-test.tmr-heb.tmr.heb 	| 1.0 	| 0.142 |
 | Tatoeba-test.tmr-phn.tmr.phn 	| 0.0 	| 0.017 |
+
+
 
 
 
@@ -124,6 +128,8 @@
 
 
 
+
+
 # opus-2021-02-24.zip
 
 * dataset: opus
@@ -135,8 +141,8 @@
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>eng<< >>ara<< >>heb<< >>mlt<< >>tir<< >>amh<< >>arq<< >>arz<<
 * download: [opus-2021-02-24.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-sem/opus-2021-02-24.zip)
-* test set translations: [README.md-2021-02-24.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-sem/README.md-2021-02-24.test.txt)
-* test set scores: [README.md-2021-02-24.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-sem/README.md-2021-02-24.eval.txt)
+* test set translations: [opus-2021-02-24.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-sem/opus-2021-02-24.test.txt)
+* test set scores: [opus-2021-02-24.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-sem/opus-2021-02-24.eval.txt)
 
 ## Benchmarks
 

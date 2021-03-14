@@ -25,6 +25,8 @@
 
 
 
+
+
 # opus-2020-10-04.zip
 
 * dataset: opus
@@ -60,6 +62,8 @@
 
 
 
+
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -71,8 +75,8 @@
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>eng<< >>mkd<< >>bul<< >>srp_Cyrl<< >>srp_Latn<< >>bos_Latn<< >>hrv<< >>hbs<< >>cnr_Latn<< >>slv<< >>hbs_Cyrl<< >>bos_Cyrl<< >>cnr<<
 * download: [opus-2021-02-23.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2021-02-23.zip)
-* test set translations: [README.md-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/README.md-2021-02-23.test.txt)
-* test set scores: [README.md-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/README.md-2021-02-23.eval.txt)
+* test set translations: [opus-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2021-02-23.test.txt)
+* test set scores: [opus-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2021-02-23.eval.txt)
 
 ## Benchmarks
 

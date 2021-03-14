@@ -20,6 +20,8 @@
 
 
 
+
+
 # opus+bt-2021-03-09.zip
 
 * dataset: opus+bt
@@ -29,8 +31,8 @@
 * model: transformer-align
 * pre-processing: normalization + SentencePiece (spm1k,spm1k)
 * download: [opus+bt-2021-03-09.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gla/opus+bt-2021-03-09.zip)
-* test set translations: [README.md-2021-03-09.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gla/README.md-2021-03-09.test.txt)
-* test set scores: [README.md-2021-03-09.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gla/README.md-2021-03-09.eval.txt)
+* test set translations: [opus+bt-2021-03-09.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gla/opus+bt-2021-03-09.test.txt)
+* test set scores: [opus+bt-2021-03-09.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gla/opus+bt-2021-03-09.eval.txt)
 
 ## Benchmarks
 

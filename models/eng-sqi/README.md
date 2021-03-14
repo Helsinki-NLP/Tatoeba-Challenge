@@ -21,6 +21,8 @@
 
 
 
+
+
 # opus+bt-2021-03-12.zip
 
 * dataset: opus+bt
@@ -32,8 +34,8 @@
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>sqi<<
 * download: [opus+bt-2021-03-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sqi/opus+bt-2021-03-12.zip)
-* test set translations: [README.md-2021-03-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sqi/README.md-2021-03-12.test.txt)
-* test set scores: [README.md-2021-03-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sqi/README.md-2021-03-12.eval.txt)
+* test set translations: [opus+bt-2021-03-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sqi/opus+bt-2021-03-12.test.txt)
+* test set scores: [opus+bt-2021-03-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sqi/opus+bt-2021-03-12.eval.txt)
 
 ## Benchmarks
 

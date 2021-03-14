@@ -18,6 +18,7 @@
 
 
 
+
 # opus-2021-02-24.zip
 
 * dataset: opus
@@ -27,8 +28,8 @@
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm4k,spm4k)
 * download: [opus-2021-02-24.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/ron-epo/opus-2021-02-24.zip)
-* test set translations: [README.md-2021-02-24.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ron-epo/README.md-2021-02-24.test.txt)
-* test set scores: [README.md-2021-02-24.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ron-epo/README.md-2021-02-24.eval.txt)
+* test set translations: [opus-2021-02-24.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ron-epo/opus-2021-02-24.test.txt)
+* test set scores: [opus-2021-02-24.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ron-epo/opus-2021-02-24.eval.txt)
 
 ## Benchmarks
 

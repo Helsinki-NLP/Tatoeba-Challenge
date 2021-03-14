@@ -18,6 +18,7 @@
 
 
 
+
 # opus-2021-02-19.zip
 
 * dataset: opus
@@ -50,6 +51,7 @@
 
 
 
+
 # opus-2021-02-22.zip
 
 * dataset: opus
@@ -59,8 +61,8 @@
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * download: [opus-2021-02-22.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-deu/opus-2021-02-22.zip)
-* test set translations: [README.md-2021-02-22.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-deu/README.md-2021-02-22.test.txt)
-* test set scores: [README.md-2021-02-22.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-deu/README.md-2021-02-22.eval.txt)
+* test set translations: [opus-2021-02-22.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-deu/opus-2021-02-22.test.txt)
+* test set scores: [opus-2021-02-22.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-deu/opus-2021-02-22.eval.txt)
 
 ## Benchmarks
 

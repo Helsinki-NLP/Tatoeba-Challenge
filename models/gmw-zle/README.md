@@ -57,6 +57,8 @@
 
 
 
+
+
 # opus1m-2021-02-17.zip
 
 * dataset: opus1m
@@ -79,6 +81,8 @@
 
 
 
+
+
 # opus1m-2021-02-19.zip
 
 * dataset: opus1m
@@ -90,8 +94,8 @@
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>rus<< >>ukr<< >>bel<< >>bel_Latn<<
 * download: [opus1m-2021-02-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-19.zip)
-* test set translations: [README.md-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/README.md-2021-02-19.test.txt)
-* test set scores: [README.md-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/README.md-2021-02-19.eval.txt)
+* test set translations: [opus1m-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-19.test.txt)
+* test set scores: [opus1m-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-19.eval.txt)
 
 ## Benchmarks
 
