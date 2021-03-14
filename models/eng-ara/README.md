@@ -17,6 +17,9 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.eng.ara 	| 14.4 	| 0.440 |
 
+
+
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -28,13 +31,19 @@
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>ara<< >>ara_Latn<< >>arq_Latn<< >>arq<< >>arz<<
 * download: [opus-2021-02-23.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip)
-* test set translations: [opus-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.test.txt)
-* test set scores: [opus-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.eval.txt)
+* test set translations: [README.md-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/README.md-2021-02-23.test.txt)
+* test set scores: [README.md-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/README.md-2021-02-23.eval.txt)
 
 ## Benchmarks
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-acm 	| 3.6 	| 0.202 	| 3 	| 17 	| 1.000 |
+| Tatoeba-test.eng-afb 	| 29.8 	| 0.560 	| 36 	| 145 	| 1.000 |
+| Tatoeba-test.eng-apc 	| 6.4 	| 0.249 	| 5 	| 18 	| 0.943 |
 | Tatoeba-test.eng-ara 	| 14.0 	| 0.437 	| 10000 	| 58935 	| 1.000 |
+| Tatoeba-test.eng-arq 	| 0.5 	| 0.155 	| 412 	| 2323 	| 1.000 |
+| Tatoeba-test.eng-ary 	| 3.1 	| 0.246 	| 18 	| 53 	| 1.000 |
+| Tatoeba-test.eng-arz 	| 2.1 	| 0.249 	| 181 	| 856 	| 1.000 |
 | tico19-test.eng-ara 	| 22.2 	| 0.530 	| 2100 	| 51336 	| 0.997 |
 

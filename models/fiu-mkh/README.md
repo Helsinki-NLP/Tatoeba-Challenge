@@ -9,8 +9,8 @@
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>vie<< >>khm<< >>khm_Latn<<
 * download: [opus-2021-02-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.zip)
-* test set translations: [opus-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.test.txt)
-* test set scores: [opus-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.eval.txt)
+* test set translations: [README.md-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/README.md-2021-02-18.test.txt)
+* test set scores: [README.md-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/README.md-2021-02-18.eval.txt)
 
 ## Benchmarks
 

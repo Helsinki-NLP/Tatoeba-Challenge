@@ -16,6 +16,8 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.lav.rus 	| 53.3 	| 0.702 |
 
+
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -25,8 +27,8 @@
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * download: [opus-2021-02-23.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/opus-2021-02-23.zip)
-* test set translations: [opus-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/opus-2021-02-23.test.txt)
-* test set scores: [opus-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/opus-2021-02-23.eval.txt)
+* test set translations: [README.md-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/README.md-2021-02-23.test.txt)
+* test set scores: [README.md-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/README.md-2021-02-23.eval.txt)
 
 ## Benchmarks
 

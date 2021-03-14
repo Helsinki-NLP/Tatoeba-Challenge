@@ -2,10 +2,10 @@ release: eng-fry/opus+bt-2021-03-12.zip
 release-date: 2021-03-12
 dataset-name: opus+bt
 modeltype: transformer-align
-pre-processing: normalization + SentencePiece (spm12k,spm32k)
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
 subwords:
-   - source: spm12k
-   - target: spm32k
+   - source: spm4k
+   - target: spm4k
 subword-models:
    - source: source.spm
    - target: target.spm
@@ -22,6 +22,6 @@ validation-data:
 test-data:
    - Tatoeba-test.eng-fry: 205/1529
 BLEU-scores:
-   - Tatoeba-test.eng-fry: 19.5
+   - Tatoeba-test.eng-fry: 6.1
 chr-F-scores:
-   - Tatoeba-test.eng-fry: 0.444
+   - Tatoeba-test.eng-fry: 0.220

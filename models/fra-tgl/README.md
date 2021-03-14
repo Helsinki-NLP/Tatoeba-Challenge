@@ -16,6 +16,8 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.fra.tgl 	| 24.1 	| 0.536 |
 
+
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -27,8 +29,8 @@
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>tgl_Latn<< >>tgl<<
 * download: [opus-2021-02-23.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-tgl/opus-2021-02-23.zip)
-* test set translations: [opus-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-tgl/opus-2021-02-23.test.txt)
-* test set scores: [opus-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-tgl/opus-2021-02-23.eval.txt)
+* test set translations: [README.md-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-tgl/README.md-2021-02-23.test.txt)
+* test set scores: [README.md-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-tgl/README.md-2021-02-23.eval.txt)
 
 ## Benchmarks
 

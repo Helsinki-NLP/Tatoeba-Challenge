@@ -22,8 +22,11 @@ validation-data:
    - total size of shuffled dev data: 4252
    - devset = top 4252  lines of Tatoeba-dev.src.shuffled!
 test-data:
+   - Tatoeba-test.bel_Latn-eng: 3/26
    - Tatoeba-test.bel-eng: 2500/18571
 BLEU-scores:
+   - Tatoeba-test.bel_Latn-eng: 0.0
    - Tatoeba-test.bel-eng: 10.0
 chr-F-scores:
+   - Tatoeba-test.bel_Latn-eng: 0.033
    - Tatoeba-test.bel-eng: 0.268

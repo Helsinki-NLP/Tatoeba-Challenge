@@ -41,9 +41,9 @@ test-data:
    - Tatoeba-test.chm-pol: 5/31
    - Tatoeba-test.est-pol: 15/91
    - Tatoeba-test.fin-ces: 88/416
-   - Tatoeba-test.fin-pol: 609/3513
-   - Tatoeba-test.hun-ces: 1911/10641
-   - Tatoeba-test.hun-pol: 1934/11750
+   - Tatoeba-test.fin-pol: 609/3512
+   - Tatoeba-test.hun-ces: 1911/10637
+   - Tatoeba-test.hun-pol: 1934/11745
    - Tatoeba-test.multi-multi: 4562/26442
 BLEU-scores:
    - newssyscomb2009.hun-ces: 13.7
@@ -51,9 +51,9 @@ BLEU-scores:
    - Tatoeba-test.chm-pol: 0.4
    - Tatoeba-test.est-pol: 24.9
    - Tatoeba-test.fin-ces: 53.4
-   - Tatoeba-test.fin-pol: 44.6
-   - Tatoeba-test.hun-ces: 42.7
-   - Tatoeba-test.hun-pol: 39.8
+   - Tatoeba-test.fin-pol: 44.5
+   - Tatoeba-test.hun-ces: 42.5
+   - Tatoeba-test.hun-pol: 39.7
    - Tatoeba-test.multi-multi: 41.7
 chr-F-scores:
    - newssyscomb2009.hun-ces: 0.426
@@ -61,7 +61,7 @@ chr-F-scores:
    - Tatoeba-test.chm-pol: 0.039
    - Tatoeba-test.est-pol: 0.435
    - Tatoeba-test.fin-ces: 0.674
-   - Tatoeba-test.fin-pol: 0.639
-   - Tatoeba-test.hun-ces: 0.618
-   - Tatoeba-test.hun-pol: 0.616
+   - Tatoeba-test.fin-pol: 0.638
+   - Tatoeba-test.hun-ces: 0.616
+   - Tatoeba-test.hun-pol: 0.614
    - Tatoeba-test.multi-multi: 0.619

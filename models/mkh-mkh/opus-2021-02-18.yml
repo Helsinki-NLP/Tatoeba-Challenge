@@ -10,24 +10,17 @@ subword-models:
    - source: source.spm
    - target: target.spm
 use-target-labels:
-   - >>eng<<
    - >>kha<<
    - >>khm<<
    - >>khm_Latn<<
-   - >>mnw<<
    - >>vie<<
-   - >>vie_Hani<<
 source-languages:
-   - eng
    - kha
    - khm
-   - mnw
    - vie
 target-languages:
-   - eng
    - kha
    - khm
-   - mnw
    - vie
 training-data:
    - eng-khm: Tatoeba-train (289332) 

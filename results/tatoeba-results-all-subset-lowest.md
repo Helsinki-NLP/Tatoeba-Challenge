@@ -13,7 +13,7 @@ to be useful for anything.
 | | lang = chm-rus | | | | |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.172 | 3.0 |
 | [fiu-sla/opus](../models/fiu-sla) | tatoeba | 0.159 | 1.7 |
-| [fiu-zle/opus](../models/fiu-zle) | tatoeba | 0.148 | 1.6 |
+| [fiu-zle/opus](../models/fiu-zle) | tatoeba | 0.148 | 1.7 |
 | | lang = cor-eng | | | | |
 | [ine-eng/opus2m](../models/ine-eng) | tatoeba | 0.214 | 5.4 |
 | [ine-eng/opus4m](../models/ine-eng) | tatoeba | 0.213 | 5.6 |
@@ -203,7 +203,7 @@ to be useful for anything.
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.216 | 10.1 |
 | | lang = rus-chm | | | | |
 | [sla-fiu/opus](../models/sla-fiu) | tatoeba | 0.176 | 1.4 |
-| [zle-fiu/opus](../models/zle-fiu) | tatoeba | 0.156 | 1.3 |
+| [zle-fiu/opus](../models/zle-fiu) | tatoeba | 0.154 | 0.9 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.151 | 1.0 |
 | | lang = rus-ina | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.257 | 6.0 |

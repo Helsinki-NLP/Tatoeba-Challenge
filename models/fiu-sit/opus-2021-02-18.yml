@@ -60,16 +60,49 @@ validation-data:
    - devset = top 2888  lines of Tatoeba-dev.src.shuffled!
 test-data:
    - Tatoeba-test.chm-zho: 12/102
+   - Tatoeba-test.fin-cmn_Hans: 173/1394
+   - Tatoeba-test.fin-cmn_Hant: 173/1285
+   - Tatoeba-test.fin-cmn: 1/7
+   - Tatoeba-test.fin-nan: 1/9
+   - Tatoeba-test.fin-yue_Hans: 17/179
+   - Tatoeba-test.fin-yue_Hant: 15/85
    - Tatoeba-test.fin-zho: 380/2959
+   - Tatoeba-test.hun-cmn_Hans: 247/2563
+   - Tatoeba-test.hun-cmn_Hant: 185/1714
+   - Tatoeba-test.hun-cmn: 1/7
    - Tatoeba-test.hun-zho: 433/4284
+   - Tatoeba-test.mhr-cmn_Hans: 4/28
+   - Tatoeba-test.mhr-cmn_Hant: 8/74
    - Tatoeba-test.multi-multi: 825/7345
 BLEU-scores:
    - Tatoeba-test.chm-zho: 0.4
-   - Tatoeba-test.fin-zho: 29.8
-   - Tatoeba-test.hun-zho: 25.3
+   - Tatoeba-test.fin-cmn_Hans: 32.4
+   - Tatoeba-test.fin-cmn_Hant: 33.9
+   - Tatoeba-test.fin-cmn: 7.3
+   - Tatoeba-test.fin-nan: 1.7
+   - Tatoeba-test.fin-yue_Hans: 1.2
+   - Tatoeba-test.fin-yue_Hant: 2.1
+   - Tatoeba-test.fin-zho: 29.7
+   - Tatoeba-test.hun-cmn_Hans: 26.2
+   - Tatoeba-test.hun-cmn_Hant: 23.6
+   - Tatoeba-test.hun-cmn: 43.0
+   - Tatoeba-test.hun-zho: 25.2
+   - Tatoeba-test.mhr-cmn_Hans: 1.5
+   - Tatoeba-test.mhr-cmn_Hant: 0.4
    - Tatoeba-test.multi-multi: 26.8
 chr-F-scores:
-   - Tatoeba-test.chm-zho: 0.011
-   - Tatoeba-test.fin-zho: 0.236
-   - Tatoeba-test.hun-zho: 0.219
+   - Tatoeba-test.chm-zho: 0.012
+   - Tatoeba-test.fin-cmn_Hans: 0.255
+   - Tatoeba-test.fin-cmn_Hant: 0.272
+   - Tatoeba-test.fin-cmn: 0.070
+   - Tatoeba-test.fin-nan: 0.000
+   - Tatoeba-test.fin-yue_Hans: 0.030
+   - Tatoeba-test.fin-yue_Hant: 0.042
+   - Tatoeba-test.fin-zho: 0.234
+   - Tatoeba-test.hun-cmn_Hans: 0.225
+   - Tatoeba-test.hun-cmn_Hant: 0.207
+   - Tatoeba-test.hun-cmn: 0.330
+   - Tatoeba-test.hun-zho: 0.218
+   - Tatoeba-test.mhr-cmn_Hans: 0.027
+   - Tatoeba-test.mhr-cmn_Hant: 0.007
    - Tatoeba-test.multi-multi: 0.222

@@ -7,8 +7,8 @@
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * download: [opus-2021-02-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus-2021-02-19.zip)
-* test set translations: [opus-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus-2021-02-19.test.txt)
-* test set scores: [opus-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus-2021-02-19.eval.txt)
+* test set translations: [README.md-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/README.md-2021-02-19.test.txt)
+* test set scores: [README.md-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/README.md-2021-02-19.eval.txt)
 
 ## Benchmarks
 
@@ -22,4 +22,5 @@
 | newstest2012.spa-eng 	| 37.9 	| 0.624 	| 3003 	| 72812 	| 1.000 |
 | newstest2013.spa-eng 	| 35.3 	| 0.609 	| 3000 	| 64505 	| 1.000 |
 | Tatoeba-test.spa-eng 	| 59.6 	| 0.739 	| 10000 	| 79376 	| 0.974 |
+| tico19-test.spa-eng 	| 48.6 	| 0.736 	| 2100 	| 56339 	| 1.000 |
 

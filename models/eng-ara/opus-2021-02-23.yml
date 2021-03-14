@@ -44,11 +44,29 @@ validation-data:
    - total size of shuffled dev data: 19362
    - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
+   - Tatoeba-test.eng-acm: 3/17
+   - Tatoeba-test.eng-afb: 36/145
+   - Tatoeba-test.eng-apc: 5/18
+   - Tatoeba-test.eng-arq: 412/2323
+   - Tatoeba-test.eng-ary: 18/53
+   - Tatoeba-test.eng-arz: 181/856
    - Tatoeba-test.eng-ara: 10000/58935
    - tico19-test.eng-ara: 2100/51336
 BLEU-scores:
+   - Tatoeba-test.eng-acm: 3.6
+   - Tatoeba-test.eng-afb: 29.8
+   - Tatoeba-test.eng-apc: 6.4
+   - Tatoeba-test.eng-arq: 0.5
+   - Tatoeba-test.eng-ary: 3.1
+   - Tatoeba-test.eng-arz: 2.1
    - Tatoeba-test.eng-ara: 14.0
    - tico19-test.eng-ara: 22.2
 chr-F-scores:
+   - Tatoeba-test.eng-acm: 0.202
+   - Tatoeba-test.eng-afb: 0.560
+   - Tatoeba-test.eng-apc: 0.249
+   - Tatoeba-test.eng-arq: 0.155
+   - Tatoeba-test.eng-ary: 0.246
+   - Tatoeba-test.eng-arz: 0.249
    - Tatoeba-test.eng-ara: 0.437
    - tico19-test.eng-ara: 0.530

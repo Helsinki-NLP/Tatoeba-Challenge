@@ -34,7 +34,6 @@ For multilingual models, it is a mix of all language pairs
 | [alv-eng/opus4m](../models/alv-eng) | 0.382 | 21.3 |
 | [amh-eng/opus](../models/amh-eng) | 0.493 | 31.0 |
 | [ara-deu/opus](../models/ara-deu) | 0.630 | 44.5 |
-| [ara-deu/opus](../models/ara-deu) | 0.629 | 44.7 |
 | [ara-ell/opus](../models/ara-ell) | 0.641 | 44.9 |
 | [ara-ell/opus](../models/ara-ell) | 0.636 | 43.9 |
 | [ara-eng/opus](../models/ara-eng) | 0.617 | 44.9 |
@@ -179,7 +178,6 @@ For multilingual models, it is a mix of all language pairs
 | [dan-swe/opus](../models/dan-swe) | 0.832 | 72.1 |
 | [dan-tur/opus](../models/dan-tur) | 0.662 | 40.5 |
 | [deu-afr/opus](../models/deu-afr) | 0.690 | 51.3 |
-| [deu-ara/opus](../models/deu-ara) | 0.486 | 19.7 |
 | [deu-ara/opus](../models/deu-ara) | 0.486 | 17.8 |
 | [deu-bel/opus](../models/deu-bel) | 0.084 | 1.0 |
 | [deu-bul/opus](../models/deu-bul) | 0.683 | 50.7 |
@@ -251,7 +249,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-bat/opus](../models/eng-bat) | 0.596 | 33.9 |
 | [eng-bat/opus2m](../models/eng-bat) | 0.616 | 37.0 |
 | [eng-bel/opus](../models/eng-bel) | 0.261 | 8.2 |
-| [eng-bel/opus+bt](../models/eng-bel) | 0.496 | 23.5 |
+| [eng-bel/opus+bt](../models/eng-bel) | 0.382 | 13.4 |
 | [eng-ben/opus](../models/eng-ben) | 0.484 | 16.9 |
 | [eng-ben/opus](../models/eng-ben) | 0.481 | 16.6 |
 | [eng-ber/opus](../models/eng-ber) | 0.074 | 0.0 |
@@ -259,7 +257,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-bnt/opus](../models/eng-bnt) | 0.490 | 13.6 |
 | [eng-bnt/opus](../models/eng-bnt) | 0.449 | 12.1 |
 | [eng-bnt/opus](../models/eng-bnt) | 0.444 | 12.0 |
-| [eng-bre/opus+bt](../models/eng-bre) | 0.386 | 15.5 |
+| [eng-bre/opus+bt](../models/eng-bre) | 0.234 | 5.3 |
 | [eng-bul/opus](../models/eng-bul) | 0.680 | 50.6 |
 | [eng-bul/opus](../models/eng-bul) | 0.565 | 36.0 |
 | [eng-cat/opus](../models/eng-cat) | 0.659 | 46.5 |
@@ -277,7 +275,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-cym/opus+bt](../models/eng-cym) | 0.580 | 35.1 |
 | [eng-dan/opus](../models/eng-dan) | 0.753 | 61.7 |
 | [eng-deu+eng+fin+fra+nld+swe/opus1m](../models/eng-deu+eng+fin+fra+nld+swe) | 0.643 | 46.1 |
-| [eng-deu/opus](../models/eng-deu) | 0.653 | 45.8 |
+| [eng-deu/opus](../models/eng-deu) | 0.655 | 45.8 |
 | [eng-deu/opus](../models/eng-deu) | 0.651 | 45.3 |
 | [eng-dra/opus](../models/eng-dra) | 0.463 | 10.7 |
 | [eng-dra/opus](../models/eng-dra) | 0.461 | 10.5 |
@@ -294,13 +292,13 @@ For multilingual models, it is a mix of all language pairs
 | [eng-fra/opus](../models/eng-fra) | 0.671 | 50.8 |
 | [eng-fra/opus](../models/eng-fra) | 0.669 | 50.6 |
 | [eng-fry/opus](../models/eng-fry) | 0.202 | 4.7 |
-| [eng-fry/opus+bt](../models/eng-fry) | 0.444 | 19.5 |
+| [eng-fry/opus+bt](../models/eng-fry) | 0.220 | 6.1 |
 | [eng-gem/opus](../models/eng-gem) | 0.636 | 46.0 |
 | [eng-gem/opus](../models/eng-gem) | 0.634 | 45.8 |
 | [eng-gem/opus](../models/eng-gem) | 0.633 | 45.6 |
 | [eng-gem/opus](../models/eng-gem) | 0.627 | 44.8 |
 | [eng-gem/opus2m](../models/eng-gem) | 0.641 | 46.5 |
-| [eng-gla/opus+bt](../models/eng-gla) | 0.346 | 12.0 |
+| [eng-gla/opus+bt](../models/eng-gla) | 0.162 | 0.5 |
 | [eng-gle/opus](../models/eng-gle) | 0.593 | 37.5 |
 | [eng-gle/opus+bt](../models/eng-gle) | 0.614 | 40.4 |
 | [eng-glg/opus](../models/eng-glg) | 0.593 | 37.8 |
@@ -601,6 +599,7 @@ For multilingual models, it is a mix of all language pairs
 | [hau-eng/opus](../models/hau-eng) | 0.293 | 12.6 |
 | [hbs-deu/opus](../models/hbs-deu) | 0.692 | 51.5 |
 | [hbs-eng/opus](../models/hbs-eng) | 0.713 | 57.0 |
+| [hbs-eng/opus-.zip](../models/hbs-eng) | 0.713 | 57.0 |
 | [hbs-epo/opus](../models/hbs-epo) | 0.383 | 18.7 |
 | [hbs-epo/opus](../models/hbs-epo) | 0.231 | 7.2 |
 | [hbs-ukr/opus](../models/hbs-ukr) | 0.665 | 49.6 |
@@ -782,7 +781,7 @@ For multilingual models, it is a mix of all language pairs
 | [nld-cat/opus](../models/nld-cat) | 0.624 | 42.1 |
 | [nld-dan/opus](../models/nld-dan) | 0.784 | 66.1 |
 | [nld-deu/opus](../models/nld-deu) | 0.735 | 57.3 |
-| [nld-eng/opus](../models/nld-eng) | 0.754 | 61.7 |
+| [nld-eng/opus](../models/nld-eng) | 0.755 | 61.7 |
 | [nld-epo/opus](../models/nld-epo) | 0.355 | 16.1 |
 | [nld-fin/opus](../models/nld-fin) | 0.751 | 56.9 |
 | [nld-fra/opus](../models/nld-fra) | 0.691 | 53.2 |

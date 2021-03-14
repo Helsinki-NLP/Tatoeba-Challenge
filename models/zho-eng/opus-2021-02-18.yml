@@ -50,8 +50,44 @@ validation-data:
    - total size of shuffled dev data: 42929
    - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
+   - Tatoeba-test.cjy_Hans-eng: 2/18
+   - Tatoeba-test.cjy_Hant-eng: 1/4
+   - Tatoeba-test.cmn-eng: 15/82
+   - Tatoeba-test.cmn_Hans-eng: 4195/36106
+   - Tatoeba-test.cmn_Hant-eng: 4418/34780
+   - Tatoeba-test.gan-eng: 1/9
+   - Tatoeba-test.lzh-eng: 98/933
+   - Tatoeba-test.lzh_Hans-eng: 3/42
+   - Tatoeba-test.nan-eng: 2/10
    - Tatoeba-test.zho-eng: 9999/82822
+   - Tatoeba-test.wuu-eng: 203/1625
+   - Tatoeba-test.yue_Hans-eng: 630/5838
+   - Tatoeba-test.yue_Hant-eng: 431/3350
 BLEU-scores:
+   - Tatoeba-test.cjy_Hans-eng: 20.9
+   - Tatoeba-test.cjy_Hant-eng: 16.0
+   - Tatoeba-test.cmn-eng: 17.0
+   - Tatoeba-test.cmn_Hans-eng: 36.7
+   - Tatoeba-test.cmn_Hant-eng: 40.4
+   - Tatoeba-test.gan-eng: 43.2
+   - Tatoeba-test.lzh-eng: 3.6
+   - Tatoeba-test.lzh_Hans-eng: 6.0
+   - Tatoeba-test.nan-eng: 6.1
    - Tatoeba-test.zho-eng: 36.0
+   - Tatoeba-test.wuu-eng: 17.4
+   - Tatoeba-test.yue_Hans-eng: 21.1
+   - Tatoeba-test.yue_Hant-eng: 25.2
 chr-F-scores:
+   - Tatoeba-test.cjy_Hans-eng: 0.394
+   - Tatoeba-test.cjy_Hant-eng: 0.173
+   - Tatoeba-test.cmn-eng: 0.480
+   - Tatoeba-test.cmn_Hans-eng: 0.558
+   - Tatoeba-test.cmn_Hant-eng: 0.585
+   - Tatoeba-test.gan-eng: 0.565
+   - Tatoeba-test.lzh-eng: 0.191
+   - Tatoeba-test.lzh_Hans-eng: 0.170
+   - Tatoeba-test.nan-eng: 0.179
    - Tatoeba-test.zho-eng: 0.546
+   - Tatoeba-test.wuu-eng: 0.400
+   - Tatoeba-test.yue_Hans-eng: 0.407
+   - Tatoeba-test.yue_Hant-eng: 0.428

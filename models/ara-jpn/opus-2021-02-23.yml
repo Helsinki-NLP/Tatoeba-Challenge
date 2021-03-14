@@ -26,8 +26,20 @@ validation-data:
    - total size of shuffled dev data: 1000
    - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
 test-data:
+   - Tatoeba-test.acm-jpn: 35/315
+   - Tatoeba-test.apc-jpn: 1/5
+   - Tatoeba-test.arq-jpn: 10/75
+   - Tatoeba-test.arz-jpn: 13/78
    - Tatoeba-test.ara-jpn: 1336/11502
 BLEU-scores:
+   - Tatoeba-test.acm-jpn: 7.0
+   - Tatoeba-test.apc-jpn: 46.3
+   - Tatoeba-test.arq-jpn: 2.0
+   - Tatoeba-test.arz-jpn: 3.6
    - Tatoeba-test.ara-jpn: 15.9
 chr-F-scores:
+   - Tatoeba-test.acm-jpn: 0.091
+   - Tatoeba-test.apc-jpn: 0.181
+   - Tatoeba-test.arq-jpn: 0.046
+   - Tatoeba-test.arz-jpn: 0.075
    - Tatoeba-test.ara-jpn: 0.196

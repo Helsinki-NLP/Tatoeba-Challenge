@@ -25,11 +25,14 @@ test-data:
    - newsdev2018-enet.est-eng: 2000/43194
    - newstest2018-enet.est-eng: 2000/45521
    - Tatoeba-test.est-eng: 1359/8811
+   - Tatoeba-test.vro-eng: 5/44
 BLEU-scores:
    - newsdev2018-enet.est-eng: 30.3
    - newstest2018-enet.est-eng: 30.2
    - Tatoeba-test.est-eng: 58.2
+   - Tatoeba-test.vro-eng: 39.1
 chr-F-scores:
    - newsdev2018-enet.est-eng: 0.577
    - newstest2018-enet.est-eng: 0.581
    - Tatoeba-test.est-eng: 0.730
+   - Tatoeba-test.vro-eng: 0.420

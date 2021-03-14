@@ -234,6 +234,7 @@ test-data:
    - newstest2013.deu-eng: 3000/64505
    - newstest2013.eng-deu: 3000/63737
    - newstest2014-deen.deu-eng: 3003/67337
+   - newstest2014-deen.eng-deu: 3003/62964
    - newstest2015-ende.deu-eng: 2169/46443
    - newstest2015-ende.eng-deu: 2169/44260
    - newstest2016-ende.deu-eng: 2999/64126
@@ -269,7 +270,7 @@ test-data:
    - Tatoeba-test.deu-afr: 1583/9507
    - Tatoeba-test.deu-ang: 67/605
    - Tatoeba-test.deu-bar: 63/507
-   - Tatoeba-test.deu-eng: 10000/81233
+   - Tatoeba-test.deu-eng: 10000/81213
    - Tatoeba-test.deu-enm: 11/59
    - Tatoeba-test.deu-frr: 71/447
    - Tatoeba-test.deu-fry: 66/467
@@ -278,35 +279,35 @@ test-data:
    - Tatoeba-test.deu-hrx: 471/2729
    - Tatoeba-test.deu-ksh: 38/436
    - Tatoeba-test.deu-ltz: 337/2135
-   - Tatoeba-test.deu-nds: 10000/76144
-   - Tatoeba-test.deu-nld: 10000/73546
+   - Tatoeba-test.deu-nds: 10000/76126
+   - Tatoeba-test.deu-nld: 10000/73523
    - Tatoeba-test.deu-pdc: 24/144
    - Tatoeba-test.deu-sco: 10/70
    - Tatoeba-test.deu-stq: 10/53
-   - Tatoeba-test.deu-swg: 1523/15448
+   - Tatoeba-test.deu-swg: 1523/15447
    - Tatoeba-test.deu-tpi: 30/178
-   - Tatoeba-test.deu-yid: 556/3425
-   - Tatoeba-test.eng-afr: 1374/10317
+   - Tatoeba-test.deu-yid: 556/3423
+   - Tatoeba-test.eng-afr: 1374/10314
    - Tatoeba-test.eng-ang: 189/1967
-   - Tatoeba-test.eng-bar: 93/808
-   - Tatoeba-test.eng-deu: 10000/83347
+   - Tatoeba-test.eng-bar: 93/807
+   - Tatoeba-test.eng-deu: 10000/83334
    - Tatoeba-test.eng-enm: 49/299
    - Tatoeba-test.eng-frr: 2/9
    - Tatoeba-test.eng-fry: 205/1529
-   - Tatoeba-test.eng-gos: 1152/5514
+   - Tatoeba-test.eng-gos: 1152/5513
    - Tatoeba-test.eng-gsw: 205/984
    - Tatoeba-test.eng-hrx: 221/1297
    - Tatoeba-test.eng-jam: 35/148
    - Tatoeba-test.eng-ksh: 26/208
    - Tatoeba-test.eng-ltz: 283/1733
-   - Tatoeba-test.eng-nds: 2500/18264
-   - Tatoeba-test.eng-nld: 10000/71436
+   - Tatoeba-test.eng-nds: 2500/18258
+   - Tatoeba-test.eng-nld: 10000/71423
    - Tatoeba-test.eng-pdc: 53/386
    - Tatoeba-test.eng-sco: 27/214
    - Tatoeba-test.eng-stq: 5/32
    - Tatoeba-test.eng-swg: 33/259
    - Tatoeba-test.eng-tpi: 49/257
-   - Tatoeba-test.eng-yid: 1168/8094
+   - Tatoeba-test.eng-yid: 1168/8087
    - Tatoeba-test.enm-afr: 2/8
    - Tatoeba-test.enm-ang: 14/65
    - Tatoeba-test.enm-deu: 11/59
@@ -338,13 +339,13 @@ test-data:
    - Tatoeba-test.gos-afr: 4/27
    - Tatoeba-test.gos-ang: 1/5
    - Tatoeba-test.gos-deu: 170/891
-   - Tatoeba-test.gos-eng: 1152/5622
+   - Tatoeba-test.gos-eng: 1152/5621
    - Tatoeba-test.gos-enm: 4/21
    - Tatoeba-test.gos-frr: 3/15
    - Tatoeba-test.gos-fry: 36/218
    - Tatoeba-test.gos-ltz: 28/137
    - Tatoeba-test.gos-nds: 7/36
-   - Tatoeba-test.gos-nld: 1852/9903
+   - Tatoeba-test.gos-nld: 1852/9902
    - Tatoeba-test.gos-stq: 34/204
    - Tatoeba-test.gos-yid: 9/44
    - Tatoeba-test.gsw-deu: 62/292
@@ -353,7 +354,7 @@ test-data:
    - Tatoeba-test.hrx-eng: 221/1235
    - Tatoeba-test.hrx-yid: 1/4
    - Tatoeba-test.jam-eng: 35/158
-   - Tatoeba-test.ksh-deu: 38/442
+   - Tatoeba-test.ksh-deu: 38/441
    - Tatoeba-test.ksh-eng: 26/207
    - Tatoeba-test.ksh-enm: 2/8
    - Tatoeba-test.ltz-afr: 14/66
@@ -365,22 +366,22 @@ test-data:
    - Tatoeba-test.ltz-nld: 273/1567
    - Tatoeba-test.ltz-stq: 6/24
    - Tatoeba-test.ltz-yid: 11/60
-   - Tatoeba-test.nds-deu: 10000/74571
-   - Tatoeba-test.nds-eng: 2500/17589
+   - Tatoeba-test.nds-deu: 10000/74551
+   - Tatoeba-test.nds-eng: 2500/17584
    - Tatoeba-test.nds-enm: 3/18
    - Tatoeba-test.nds-frr: 1/4
    - Tatoeba-test.nds-fry: 1/5
    - Tatoeba-test.nds-gos: 7/35
-   - Tatoeba-test.nds-nld: 1657/11490
+   - Tatoeba-test.nds-nld: 1657/11489
    - Tatoeba-test.nds-swg: 14/214
    - Tatoeba-test.nds-yid: 2/12
    - Tatoeba-test.nld-afr: 1056/6823
-   - Tatoeba-test.nld-deu: 10000/72438
-   - Tatoeba-test.nld-eng: 10000/69848
+   - Tatoeba-test.nld-deu: 10000/72428
+   - Tatoeba-test.nld-eng: 10000/69840
    - Tatoeba-test.nld-enm: 4/22
    - Tatoeba-test.nld-frr: 6/28
    - Tatoeba-test.nld-fry: 233/1679
-   - Tatoeba-test.nld-gos: 1852/9535
+   - Tatoeba-test.nld-gos: 1852/9534
    - Tatoeba-test.nld-ltz: 273/1532
    - Tatoeba-test.nld-nds: 1657/11711
    - Tatoeba-test.nld-sco: 2/15
@@ -402,7 +403,7 @@ test-data:
    - Tatoeba-test.stq-nld: 21/125
    - Tatoeba-test.stq-yid: 4/18
    - Tatoeba-test.swg-bar: 1/3
-   - Tatoeba-test.swg-deu: 1523/15632
+   - Tatoeba-test.swg-deu: 1523/15630
    - Tatoeba-test.swg-eng: 33/251
    - Tatoeba-test.swg-nds: 14/258
    - Tatoeba-test.swg-nld: 1/9
@@ -413,7 +414,7 @@ test-data:
    - Tatoeba-test.yid-ang: 30/161
    - Tatoeba-test.yid-bar: 2/7
    - Tatoeba-test.yid-deu: 556/3332
-   - Tatoeba-test.yid-eng: 1168/7741
+   - Tatoeba-test.yid-eng: 1168/7738
    - Tatoeba-test.yid-enm: 40/201
    - Tatoeba-test.yid-fry: 3/13
    - Tatoeba-test.yid-gos: 9/41
@@ -439,6 +440,7 @@ BLEU-scores:
    - newstest2013.deu-eng: 27.7
    - newstest2013.eng-deu: 22.8
    - newstest2014-deen.deu-eng: 27.4
+   - newstest2014-deen.eng-deu: 22.6
    - newstest2015-ende.deu-eng: 28.8
    - newstest2015-ende.eng-deu: 25.8
    - newstest2016-ende.deu-eng: 33.7
@@ -450,8 +452,8 @@ BLEU-scores:
    - newstest2019-deen.deu-eng: 32.7
    - newstest2019-ende.eng-deu: 31.6
    - Tatoeba-test.afr-ang: 0.0
-   - Tatoeba-test.afr-deu: 48.5
-   - Tatoeba-test.afr-eng: 58.7
+   - Tatoeba-test.afr-deu: 48.4
+   - Tatoeba-test.afr-eng: 58.6
    - Tatoeba-test.afr-enm: 7.0
    - Tatoeba-test.afr-fry: 0.0
    - Tatoeba-test.afr-gos: 1.9
@@ -471,41 +473,41 @@ BLEU-scores:
    - Tatoeba-test.bar-eng: 5.4
    - Tatoeba-test.bar-swg: 6.6
    - Tatoeba-test.bar-yid: 1.8
-   - Tatoeba-test.deu-afr: 52.4
+   - Tatoeba-test.deu-afr: 52.3
    - Tatoeba-test.deu-ang: 0.9
    - Tatoeba-test.deu-bar: 0.7
-   - Tatoeba-test.deu-eng: 44.7
+   - Tatoeba-test.deu-eng: 44.6
    - Tatoeba-test.deu-enm: 3.0
    - Tatoeba-test.deu-frr: 0.7
    - Tatoeba-test.deu-fry: 16.6
    - Tatoeba-test.deu-gos: 1.6
    - Tatoeba-test.deu-gsw: 0.9
    - Tatoeba-test.deu-hrx: 0.8
-   - Tatoeba-test.deu-ksh: 0.6
+   - Tatoeba-test.deu-ksh: 0.5
    - Tatoeba-test.deu-ltz: 11.0
    - Tatoeba-test.deu-nds: 18.7
-   - Tatoeba-test.deu-nld: 48.7
+   - Tatoeba-test.deu-nld: 48.6
    - Tatoeba-test.deu-pdc: 5.1
    - Tatoeba-test.deu-sco: 10.7
    - Tatoeba-test.deu-stq: 2.2
    - Tatoeba-test.deu-swg: 0.3
    - Tatoeba-test.deu-tpi: 0.5
    - Tatoeba-test.deu-yid: 1.8
-   - Tatoeba-test.eng-afr: 56.5
+   - Tatoeba-test.eng-afr: 56.6
    - Tatoeba-test.eng-ang: 6.0
    - Tatoeba-test.eng-bar: 0.5
-   - Tatoeba-test.eng-deu: 37.8
+   - Tatoeba-test.eng-deu: 37.7
    - Tatoeba-test.eng-enm: 2.7
    - Tatoeba-test.eng-frr: 3.6
    - Tatoeba-test.eng-fry: 15.2
-   - Tatoeba-test.eng-gos: 1.4
+   - Tatoeba-test.eng-gos: 1.3
    - Tatoeba-test.eng-gsw: 0.9
    - Tatoeba-test.eng-hrx: 3.1
-   - Tatoeba-test.eng-jam: 1.6
+   - Tatoeba-test.eng-jam: 1.5
    - Tatoeba-test.eng-ksh: 1.0
-   - Tatoeba-test.eng-ltz: 12.1
-   - Tatoeba-test.eng-nds: 16.5
-   - Tatoeba-test.eng-nld: 50.3
+   - Tatoeba-test.eng-ltz: 11.3
+   - Tatoeba-test.eng-nds: 16.4
+   - Tatoeba-test.eng-nld: 50.1
    - Tatoeba-test.eng-pdc: 2.6
    - Tatoeba-test.eng-sco: 34.3
    - Tatoeba-test.eng-stq: 7.6
@@ -531,19 +533,19 @@ BLEU-scores:
    - Tatoeba-test.frr-stq: 2.6
    - Tatoeba-test.fry-afr: 0.0
    - Tatoeba-test.fry-deu: 28.7
-   - Tatoeba-test.fry-eng: 31.9
+   - Tatoeba-test.fry-eng: 31.5
    - Tatoeba-test.fry-enm: 4.8
    - Tatoeba-test.fry-frr: 4.0
    - Tatoeba-test.fry-gos: 1.4
    - Tatoeba-test.fry-ltz: 20.3
    - Tatoeba-test.fry-nds: 9.7
-   - Tatoeba-test.fry-nld: 43.0
+   - Tatoeba-test.fry-nld: 42.1
    - Tatoeba-test.fry-stq: 2.2
    - Tatoeba-test.fry-yid: 3.1
    - Tatoeba-test.gos-afr: 11.4
    - Tatoeba-test.gos-ang: 0.0
    - Tatoeba-test.gos-deu: 15.8
-   - Tatoeba-test.gos-eng: 14.0
+   - Tatoeba-test.gos-eng: 13.9
    - Tatoeba-test.gos-enm: 13.4
    - Tatoeba-test.gos-frr: 4.2
    - Tatoeba-test.gos-fry: 10.0
@@ -554,8 +556,8 @@ BLEU-scores:
    - Tatoeba-test.gos-yid: 3.8
    - Tatoeba-test.gsw-deu: 11.6
    - Tatoeba-test.gsw-eng: 12.9
-   - Tatoeba-test.hrx-deu: 24.7
-   - Tatoeba-test.hrx-eng: 19.6
+   - Tatoeba-test.hrx-deu: 23.6
+   - Tatoeba-test.hrx-eng: 18.8
    - Tatoeba-test.hrx-yid: 0.0
    - Tatoeba-test.jam-eng: 9.2
    - Tatoeba-test.ksh-deu: 15.3
@@ -564,32 +566,32 @@ BLEU-scores:
    - Tatoeba-test.ltz-afr: 35.1
    - Tatoeba-test.ltz-ang: 0.0
    - Tatoeba-test.ltz-deu: 36.6
-   - Tatoeba-test.ltz-eng: 31.4
+   - Tatoeba-test.ltz-eng: 31.2
    - Tatoeba-test.ltz-fry: 31.2
    - Tatoeba-test.ltz-gos: 1.9
    - Tatoeba-test.ltz-nld: 37.5
    - Tatoeba-test.ltz-stq: 2.8
    - Tatoeba-test.ltz-yid: 2.9
-   - Tatoeba-test.nds-deu: 34.5
+   - Tatoeba-test.nds-deu: 34.4
    - Tatoeba-test.nds-eng: 29.6
    - Tatoeba-test.nds-enm: 7.6
    - Tatoeba-test.nds-frr: 4.2
    - Tatoeba-test.nds-fry: 12.4
    - Tatoeba-test.nds-gos: 1.3
-   - Tatoeba-test.nds-nld: 42.2
+   - Tatoeba-test.nds-nld: 42.1
    - Tatoeba-test.nds-swg: 0.4
    - Tatoeba-test.nds-yid: 6.1
    - Tatoeba-test.nld-afr: 59.0
-   - Tatoeba-test.nld-deu: 50.6
-   - Tatoeba-test.nld-eng: 54.5
+   - Tatoeba-test.nld-deu: 50.5
+   - Tatoeba-test.nld-eng: 54.4
    - Tatoeba-test.nld-enm: 8.2
    - Tatoeba-test.nld-frr: 2.8
-   - Tatoeba-test.nld-fry: 23.3
+   - Tatoeba-test.nld-fry: 23.2
    - Tatoeba-test.nld-gos: 2.1
-   - Tatoeba-test.nld-ltz: 10.5
+   - Tatoeba-test.nld-ltz: 10.4
    - Tatoeba-test.nld-nds: 21.7
    - Tatoeba-test.nld-sco: 22.7
-   - Tatoeba-test.nld-stq: 1.8
+   - Tatoeba-test.nld-stq: 1.7
    - Tatoeba-test.nld-swg: 3.1
    - Tatoeba-test.nld-yid: 5.8
    - Tatoeba-test.multi-multi: 37.1
@@ -601,7 +603,7 @@ BLEU-scores:
    - Tatoeba-test.stq-deu: 8.2
    - Tatoeba-test.stq-eng: 21.3
    - Tatoeba-test.stq-frr: 1.7
-   - Tatoeba-test.stq-fry: 8.2
+   - Tatoeba-test.stq-fry: 8.3
    - Tatoeba-test.stq-gos: 0.7
    - Tatoeba-test.stq-ltz: 1.4
    - Tatoeba-test.stq-nld: 16.9
@@ -617,7 +619,7 @@ BLEU-scores:
    - Tatoeba-test.yid-afr: 19.0
    - Tatoeba-test.yid-ang: 0.9
    - Tatoeba-test.yid-bar: 4.8
-   - Tatoeba-test.yid-deu: 17.7
+   - Tatoeba-test.yid-deu: 17.9
    - Tatoeba-test.yid-eng: 15.2
    - Tatoeba-test.yid-enm: 1.6
    - Tatoeba-test.yid-fry: 12.3
@@ -644,6 +646,7 @@ chr-F-scores:
    - newstest2013.deu-eng: 0.549
    - newstest2013.eng-deu: 0.518
    - newstest2014-deen.deu-eng: 0.549
+   - newstest2014-deen.eng-deu: 0.534
    - newstest2015-ende.deu-eng: 0.554
    - newstest2015-ende.eng-deu: 0.545
    - newstest2016-ende.deu-eng: 0.598
@@ -655,7 +658,7 @@ chr-F-scores:
    - newstest2019-deen.deu-eng: 0.585
    - newstest2019-ende.eng-deu: 0.586
    - Tatoeba-test.afr-ang: 0.066
-   - Tatoeba-test.afr-deu: 0.677
+   - Tatoeba-test.afr-deu: 0.676
    - Tatoeba-test.afr-eng: 0.727
    - Tatoeba-test.afr-enm: 0.297
    - Tatoeba-test.afr-fry: 0.296
@@ -665,7 +668,7 @@ chr-F-scores:
    - Tatoeba-test.afr-yid: 0.443
    - Tatoeba-test.ang-afr: 0.182
    - Tatoeba-test.ang-bar: 0.056
-   - Tatoeba-test.ang-deu: 0.160
+   - Tatoeba-test.ang-deu: 0.159
    - Tatoeba-test.ang-eng: 0.215
    - Tatoeba-test.ang-enm: 0.182
    - Tatoeba-test.ang-gos: 0.196
@@ -677,40 +680,40 @@ chr-F-scores:
    - Tatoeba-test.bar-swg: 0.060
    - Tatoeba-test.bar-yid: 0.057
    - Tatoeba-test.deu-afr: 0.697
-   - Tatoeba-test.deu-ang: 0.104
+   - Tatoeba-test.deu-ang: 0.105
    - Tatoeba-test.deu-bar: 0.150
    - Tatoeba-test.deu-eng: 0.629
    - Tatoeba-test.deu-enm: 0.194
    - Tatoeba-test.deu-frr: 0.173
-   - Tatoeba-test.deu-fry: 0.377
+   - Tatoeba-test.deu-fry: 0.370
    - Tatoeba-test.deu-gos: 0.297
    - Tatoeba-test.deu-gsw: 0.138
-   - Tatoeba-test.deu-hrx: 0.180
-   - Tatoeba-test.deu-ksh: 0.183
+   - Tatoeba-test.deu-hrx: 0.184
+   - Tatoeba-test.deu-ksh: 0.174
    - Tatoeba-test.deu-ltz: 0.262
    - Tatoeba-test.deu-nds: 0.444
-   - Tatoeba-test.deu-nld: 0.672
+   - Tatoeba-test.deu-nld: 0.671
    - Tatoeba-test.deu-pdc: 0.217
    - Tatoeba-test.deu-sco: 0.333
    - Tatoeba-test.deu-stq: 0.231
    - Tatoeba-test.deu-swg: 0.154
    - Tatoeba-test.deu-tpi: 0.098
    - Tatoeba-test.deu-yid: 0.177
-   - Tatoeba-test.eng-afr: 0.735
+   - Tatoeba-test.eng-afr: 0.734
    - Tatoeba-test.eng-ang: 0.131
    - Tatoeba-test.eng-bar: 0.130
-   - Tatoeba-test.eng-deu: 0.591
-   - Tatoeba-test.eng-enm: 0.261
+   - Tatoeba-test.eng-deu: 0.590
+   - Tatoeba-test.eng-enm: 0.270
    - Tatoeba-test.eng-frr: 0.230
-   - Tatoeba-test.eng-fry: 0.374
-   - Tatoeba-test.eng-gos: 0.272
+   - Tatoeba-test.eng-fry: 0.372
+   - Tatoeba-test.eng-gos: 0.271
    - Tatoeba-test.eng-gsw: 0.161
-   - Tatoeba-test.eng-hrx: 0.198
-   - Tatoeba-test.eng-jam: 0.114
+   - Tatoeba-test.eng-hrx: 0.200
+   - Tatoeba-test.eng-jam: 0.112
    - Tatoeba-test.eng-ksh: 0.172
-   - Tatoeba-test.eng-ltz: 0.271
+   - Tatoeba-test.eng-ltz: 0.268
    - Tatoeba-test.eng-nds: 0.411
-   - Tatoeba-test.eng-nld: 0.677
+   - Tatoeba-test.eng-nld: 0.676
    - Tatoeba-test.eng-pdc: 0.210
    - Tatoeba-test.eng-sco: 0.594
    - Tatoeba-test.eng-stq: 0.362
@@ -736,14 +739,14 @@ chr-F-scores:
    - Tatoeba-test.frr-stq: 0.137
    - Tatoeba-test.fry-afr: 1.000
    - Tatoeba-test.fry-deu: 0.545
-   - Tatoeba-test.fry-eng: 0.496
+   - Tatoeba-test.fry-eng: 0.495
    - Tatoeba-test.fry-enm: 0.171
    - Tatoeba-test.fry-frr: 0.178
-   - Tatoeba-test.fry-gos: 0.308
+   - Tatoeba-test.fry-gos: 0.304
    - Tatoeba-test.fry-ltz: 0.322
    - Tatoeba-test.fry-nds: 0.081
-   - Tatoeba-test.fry-nld: 0.634
-   - Tatoeba-test.fry-stq: 0.220
+   - Tatoeba-test.fry-nld: 0.629
+   - Tatoeba-test.fry-stq: 0.216
    - Tatoeba-test.fry-yid: 0.165
    - Tatoeba-test.gos-afr: 0.333
    - Tatoeba-test.gos-ang: 0.037
@@ -754,25 +757,25 @@ chr-F-scores:
    - Tatoeba-test.gos-fry: 0.350
    - Tatoeba-test.gos-ltz: 0.190
    - Tatoeba-test.gos-nds: 0.241
-   - Tatoeba-test.gos-nld: 0.409
+   - Tatoeba-test.gos-nld: 0.408
    - Tatoeba-test.gos-stq: 0.206
    - Tatoeba-test.gos-yid: 0.162
    - Tatoeba-test.gsw-deu: 0.337
    - Tatoeba-test.gsw-eng: 0.308
-   - Tatoeba-test.hrx-deu: 0.487
-   - Tatoeba-test.hrx-eng: 0.357
+   - Tatoeba-test.hrx-deu: 0.475
+   - Tatoeba-test.hrx-eng: 0.352
    - Tatoeba-test.hrx-yid: 0.114
-   - Tatoeba-test.jam-eng: 0.225
-   - Tatoeba-test.ksh-deu: 0.422
+   - Tatoeba-test.jam-eng: 0.230
+   - Tatoeba-test.ksh-deu: 0.423
    - Tatoeba-test.ksh-eng: 0.234
    - Tatoeba-test.ksh-enm: 0.383
    - Tatoeba-test.ltz-afr: 0.507
    - Tatoeba-test.ltz-ang: 0.042
    - Tatoeba-test.ltz-deu: 0.552
-   - Tatoeba-test.ltz-eng: 0.477
+   - Tatoeba-test.ltz-eng: 0.475
    - Tatoeba-test.ltz-fry: 0.656
    - Tatoeba-test.ltz-gos: 0.173
-   - Tatoeba-test.ltz-nld: 0.523
+   - Tatoeba-test.ltz-nld: 0.522
    - Tatoeba-test.ltz-stq: 0.170
    - Tatoeba-test.ltz-yid: 0.192
    - Tatoeba-test.nds-deu: 0.572
@@ -785,16 +788,16 @@ chr-F-scores:
    - Tatoeba-test.nds-swg: 0.180
    - Tatoeba-test.nds-yid: 0.285
    - Tatoeba-test.nld-afr: 0.756
-   - Tatoeba-test.nld-deu: 0.688
+   - Tatoeba-test.nld-deu: 0.687
    - Tatoeba-test.nld-eng: 0.702
    - Tatoeba-test.nld-enm: 0.249
    - Tatoeba-test.nld-frr: 0.239
-   - Tatoeba-test.nld-fry: 0.462
-   - Tatoeba-test.nld-gos: 0.284
+   - Tatoeba-test.nld-fry: 0.456
+   - Tatoeba-test.nld-gos: 0.283
    - Tatoeba-test.nld-ltz: 0.277
-   - Tatoeba-test.nld-nds: 0.462
+   - Tatoeba-test.nld-nds: 0.461
    - Tatoeba-test.nld-sco: 0.435
-   - Tatoeba-test.nld-stq: 0.276
+   - Tatoeba-test.nld-stq: 0.270
    - Tatoeba-test.nld-swg: 0.154
    - Tatoeba-test.nld-yid: 0.229
    - Tatoeba-test.multi-multi: 0.569
@@ -806,8 +809,8 @@ chr-F-scores:
    - Tatoeba-test.stq-deu: 0.304
    - Tatoeba-test.stq-eng: 0.429
    - Tatoeba-test.stq-frr: 0.111
-   - Tatoeba-test.stq-fry: 0.275
-   - Tatoeba-test.stq-gos: 0.200
+   - Tatoeba-test.stq-fry: 0.273
+   - Tatoeba-test.stq-gos: 0.202
    - Tatoeba-test.stq-ltz: 0.094
    - Tatoeba-test.stq-nld: 0.396
    - Tatoeba-test.stq-yid: 0.144
@@ -822,8 +825,8 @@ chr-F-scores:
    - Tatoeba-test.yid-afr: 0.764
    - Tatoeba-test.yid-ang: 0.085
    - Tatoeba-test.yid-bar: 0.073
-   - Tatoeba-test.yid-deu: 0.381
-   - Tatoeba-test.yid-eng: 0.336
+   - Tatoeba-test.yid-deu: 0.382
+   - Tatoeba-test.yid-eng: 0.337
    - Tatoeba-test.yid-enm: 0.166
    - Tatoeba-test.yid-fry: 0.166
    - Tatoeba-test.yid-gos: 0.197

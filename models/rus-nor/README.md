@@ -17,6 +17,8 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.rus.nor 	| 20.3 	| 0.418 |
 
+
+
 # opus-2021-02-24.zip
 
 * dataset: opus
@@ -28,12 +30,14 @@
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>nob<< >>nno<<
 * download: [opus-2021-02-24.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/rus-nor/opus-2021-02-24.zip)
-* test set translations: [opus-2021-02-24.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/rus-nor/opus-2021-02-24.test.txt)
-* test set scores: [opus-2021-02-24.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/rus-nor/opus-2021-02-24.eval.txt)
+* test set translations: [README.md-2021-02-24.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/rus-nor/README.md-2021-02-24.test.txt)
+* test set scores: [README.md-2021-02-24.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/rus-nor/README.md-2021-02-24.eval.txt)
 
 ## Benchmarks
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.rus-nno 	| 72.8 	| 0.808 	| 2 	| 14 	| 1.000 |
+| Tatoeba-test.rus-nob 	| 40.1 	| 0.604 	| 1277 	| 11669 	| 0.963 |
 | Tatoeba-test.rus-nor 	| 40.4 	| 0.605 	| 1279 	| 11686 	| 0.959 |
 

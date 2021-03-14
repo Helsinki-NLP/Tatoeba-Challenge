@@ -1,7 +1,7 @@
 release: nld-eng/opus-2021-02-18.zip
 release-date: 2021-02-18
 dataset-name: opus
-modeltype: transformer-align
+modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
    - source: spm32k
@@ -24,4 +24,4 @@ test-data:
 BLEU-scores:
    - Tatoeba-test.nld-eng: 61.7
 chr-F-scores:
-   - Tatoeba-test.nld-eng: 0.754
+   - Tatoeba-test.nld-eng: 0.755

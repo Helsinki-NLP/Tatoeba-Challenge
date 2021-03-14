@@ -10,80 +10,19 @@ subword-models:
    - source: source.spm
    - target: target.spm
 use-target-labels:
-   - >>akl_Latn<<
-   - >>ceb<<
-   - >>cha<<
-   - >>dtp<<
-   - >>eng<<
-   - >>hil<<
    - >>iba<<
-   - >>ilo<<
    - >>ind<<
-   - >>jak_Latn<<
-   - >>jav<<
-   - >>jav_Java<<
-   - >>mad<<
-   - >>max_Latn<<
-   - >>min<<
-   - >>mlg<<
-   - >>msa_Latn<<
-   - >>pag<<
-   - >>pau<<
-   - >>plt<<
-   - >>sun<<
-   - >>tmw_Latn<<
-   - >>war<<
    - >>zlm<<
    - >>zlm_Latn<<
    - >>zsm_Latn<<
 source-languages:
-   - akl
-   - ceb
-   - cha
-   - dtp
-   - eng
-   - hil
    - iba
-   - ilo
    - ind
-   - jak
-   - jav
-   - mad
-   - max
-   - min
-   - mlg
-   - msa
-   - pag
-   - pau
-   - plt
-   - sun
-   - tmw
-   - war
    - zlm
    - zsm
 target-languages:
-   - akl
-   - ceb
-   - cha
-   - dtp
-   - eng
-   - hil
    - iba
-   - ilo
    - ind
-   - jak
-   - jav
-   - mad
-   - max
-   - min
-   - mlg
-   - msa
-   - pag
-   - pau
-   - plt
-   - sun
-   - tmw
-   - war
    - zlm
    - zsm
 training-data:
@@ -173,17 +112,41 @@ validation-data:
    - total size of shuffled dev data: 37225
    - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
+   - Tatoeba-test.iba-ind: 2/14
    - Tatoeba-test.iba-msa: 4/27
+   - Tatoeba-test.iba-zsm_Latn: 2/13
+   - Tatoeba-test.ind-iba: 2/10
+   - Tatoeba-test.ind-zlm_Latn: 2/17
+   - Tatoeba-test.ind-zsm_Latn: 215/1808
    - Tatoeba-test.msa-iba: 4/20
    - Tatoeba-test.msa-msa: 870/6029
    - Tatoeba-test.multi-multi: 10000/69881
+   - Tatoeba-test.zlm_Latn-ind: 2/16
+   - Tatoeba-test.zsm_Latn-iba: 2/10
+   - Tatoeba-test.zsm_Latn-ind: 215/1757
 BLEU-scores:
+   - Tatoeba-test.iba-ind: 4.5
    - Tatoeba-test.iba-msa: 2.6
+   - Tatoeba-test.iba-zsm_Latn: 3.9
+   - Tatoeba-test.ind-iba: 4.3
+   - Tatoeba-test.ind-zlm_Latn: 3.1
+   - Tatoeba-test.ind-zsm_Latn: 3.7
    - Tatoeba-test.msa-iba: 4.6
    - Tatoeba-test.msa-msa: 13.9
    - Tatoeba-test.multi-multi: 21.3
+   - Tatoeba-test.zlm_Latn-ind: 4.3
+   - Tatoeba-test.zsm_Latn-iba: 8.3
+   - Tatoeba-test.zsm_Latn-ind: 38.0
 chr-F-scores:
+   - Tatoeba-test.iba-ind: 0.183
    - Tatoeba-test.iba-msa: 0.127
+   - Tatoeba-test.iba-zsm_Latn: 0.074
+   - Tatoeba-test.ind-iba: 0.430
+   - Tatoeba-test.ind-zlm_Latn: 0.228
+   - Tatoeba-test.ind-zsm_Latn: 0.126
    - Tatoeba-test.msa-iba: 0.499
-   - Tatoeba-test.msa-msa: 0.312
+   - Tatoeba-test.msa-msa: 0.315
    - Tatoeba-test.multi-multi: 0.414
+   - Tatoeba-test.zlm_Latn-ind: 0.375
+   - Tatoeba-test.zsm_Latn-iba: 0.568
+   - Tatoeba-test.zsm_Latn-ind: 0.618

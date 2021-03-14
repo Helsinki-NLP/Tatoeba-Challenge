@@ -23,6 +23,8 @@
 | newstest2013-engspa.eng.spa 	| 35.0 	| 0.598 |
 | Tatoeba-test.eng.spa 	| 54.9 	| 0.721 |
 
+
+
 # opus-2021-02-19.zip
 
 * dataset: opus
@@ -32,8 +34,8 @@
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * download: [opus-2021-02-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-spa/opus-2021-02-19.zip)
-* test set translations: [opus-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-spa/opus-2021-02-19.test.txt)
-* test set scores: [opus-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-spa/opus-2021-02-19.eval.txt)
+* test set translations: [README.md-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-spa/README.md-2021-02-19.test.txt)
+* test set scores: [README.md-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-spa/README.md-2021-02-19.eval.txt)
 
 ## Benchmarks
 
@@ -47,4 +49,5 @@
 | newstest2012.eng-spa 	| 39.1 	| 0.626 	| 3003 	| 79006 	| 0.969 |
 | newstest2013.eng-spa 	| 35.1 	| 0.598 	| 3000 	| 70528 	| 0.960 |
 | Tatoeba-test.eng-spa 	| 55.1 	| 0.721 	| 10000 	| 77311 	| 0.978 |
+| tico19-test.eng-spa 	| 50.4 	| 0.727 	| 2100 	| 66591 	| 0.959 |
 

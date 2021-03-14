@@ -40,6 +40,8 @@
 | Tatoeba-test.vep-fkv.vep.fkv 	| 0.9 	| 0.236 |
 | Tatoeba-test.vep-liv.vep.liv 	| 2.6 	| 0.188 |
 
+
+
 # opus-2020-07-27.zip
 
 * dataset: opus
@@ -81,6 +83,8 @@
 | Tatoeba-test.vep-est.vep.est 	| 3.4 	| 0.265 |
 | Tatoeba-test.vep-fkv.vep.fkv 	| 0.9 	| 0.239 |
 | Tatoeba-test.vep-liv.vep.liv 	| 2.6 	| 0.190 |
+
+
 
 # opus-2020-09-26.zip
 
@@ -177,6 +181,8 @@
 | Tatoeba-test.vep-fkv.vep.fkv 	| 0.5 	| 0.098 |
 | Tatoeba-test.vep-liv.vep.liv 	| 1.3 	| 0.082 |
 
+
+
 # opus-2020-10-04.zip
 
 * dataset: opus
@@ -272,6 +278,8 @@
 | Tatoeba-test.vep-fkv.vep.fkv 	| 0.3 	| 0.144 |
 | Tatoeba-test.vep-liv.vep.liv 	| 1.0 	| 0.136 |
 
+
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -283,8 +291,8 @@
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>eng<< >>est<< >>fin<< >>hun<< >>sme<< >>mhr<< >>udm<< >>vro<< >>mrj<<
 * download: [opus-2021-02-23.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/urj-urj/opus-2021-02-23.zip)
-* test set translations: [opus-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/urj-urj/opus-2021-02-23.test.txt)
-* test set scores: [opus-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/urj-urj/opus-2021-02-23.eval.txt)
+* test set translations: [README.md-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/urj-urj/README.md-2021-02-23.test.txt)
+* test set scores: [README.md-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/urj-urj/README.md-2021-02-23.eval.txt)
 
 ## Benchmarks
 
@@ -319,19 +327,20 @@
 | Tatoeba-test.est-fin 	| 51.1 	| 0.696 	| 189 	| 966 	| 0.922 |
 | Tatoeba-test.est-fkv 	| 1.1 	| 0.172 	| 4 	| 80 	| 1.000 |
 | Tatoeba-test.est-vep 	| 3.1 	| 0.177 	| 1 	| 20 	| 1.000 |
+| Tatoeba-test.est-vro 	| 7.2 	| 0.366 	| 1 	| 24 	| 1.000 |
 | Tatoeba-test.fin-est 	| 57.0 	| 0.728 	| 189 	| 1051 	| 1.000 |
-| Tatoeba-test.fin-fkv 	| 0.6 	| 0.135 	| 297 	| 1721 	| 1.000 |
-| Tatoeba-test.fin-hun 	| 44.6 	| 0.667 	| 1297 	| 6484 	| 0.995 |
+| Tatoeba-test.fin-fkv 	| 0.6 	| 0.135 	| 297 	| 1717 	| 1.000 |
+| Tatoeba-test.fin-hun 	| 44.2 	| 0.666 	| 1297 	| 6471 	| 0.997 |
 | Tatoeba-test.fin-izh 	| 3.5 	| 0.274 	| 3 	| 13 	| 1.000 |
-| Tatoeba-test.fin-krl 	| 3.3 	| 0.180 	| 29 	| 151 	| 1.000 |
+| Tatoeba-test.fin-krl 	| 3.3 	| 0.177 	| 29 	| 151 	| 1.000 |
 | Tatoeba-test.fkv-est 	| 10.1 	| 0.353 	| 4 	| 80 	| 1.000 |
-| Tatoeba-test.fkv-fin 	| 20.8 	| 0.488 	| 297 	| 1668 	| 0.995 |
+| Tatoeba-test.fkv-fin 	| 20.1 	| 0.485 	| 297 	| 1664 	| 0.995 |
 | Tatoeba-test.fkv-liv 	| 1.1 	| 0.077 	| 4 	| 80 	| 1.000 |
 | Tatoeba-test.fkv-vep 	| 1.1 	| 0.112 	| 4 	| 80 	| 1.000 |
-| Tatoeba-test.hun-fin 	| 47.6 	| 0.684 	| 1297 	| 6501 	| 0.927 |
+| Tatoeba-test.hun-fin 	| 47.5 	| 0.682 	| 1297 	| 6499 	| 0.927 |
 | Tatoeba-test.izh-fin 	| 24.0 	| 0.614 	| 3 	| 12 	| 1.000 |
 | Tatoeba-test.izh-krl 	| 2.9 	| 0.047 	| 3 	| 12 	| 1.000 |
-| Tatoeba-test.krl-fin 	| 15.0 	| 0.445 	| 29 	| 153 	| 0.932 |
+| Tatoeba-test.krl-fin 	| 14.4 	| 0.438 	| 29 	| 153 	| 0.932 |
 | Tatoeba-test.krl-izh 	| 4.2 	| 0.072 	| 3 	| 12 	| 1.000 |
 | Tatoeba-test.liv-fkv 	| 1.2 	| 0.144 	| 4 	| 80 	| 1.000 |
 | Tatoeba-test.liv-vep 	| 3.4 	| 0.160 	| 1 	| 20 	| 1.000 |
@@ -339,4 +348,5 @@
 | Tatoeba-test.vep-est 	| 1.3 	| 0.120 	| 1 	| 20 	| 0.156 |
 | Tatoeba-test.vep-fkv 	| 0.3 	| 0.144 	| 4 	| 80 	| 1.000 |
 | Tatoeba-test.vep-liv 	| 1.0 	| 0.136 	| 1 	| 20 	| 1.000 |
+| Tatoeba-test.vro-est 	| 3.9 	| 0.296 	| 1 	| 26 	| 0.788 |
 

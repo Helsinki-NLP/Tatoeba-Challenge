@@ -23,19 +23,21 @@
 | Tatoeba-test.multi.multi 	| 29.8 	| 0.528 |
 | Tatoeba-test.tmr-hun.tmr.hun 	| 4.8 	| 0.071 |
 
+
+
 # opus-2021-02-19.zip
 
 * dataset: opus
 * model: transformer
-* source language(s): ara arq arz heb kab tmr
+* source language(s): ara arq arz heb jpa kab tmr
 * target language(s): fin hun
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>fin<< >>hun<<
 * download: [opus-2021-02-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/afa-fiu/opus-2021-02-19.zip)
-* test set translations: [opus-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/afa-fiu/opus-2021-02-19.test.txt)
-* test set scores: [opus-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/afa-fiu/opus-2021-02-19.eval.txt)
+* test set translations: [README.md-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/afa-fiu/README.md-2021-02-19.test.txt)
+* test set scores: [README.md-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/afa-fiu/README.md-2021-02-19.eval.txt)
 
 ## Benchmarks
 
@@ -43,10 +45,11 @@
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.ara-fin 	| 64.7 	| 0.701 	| 7 	| 34 	| 1.000 |
 | Tatoeba-test.ara-hun 	| 30.1 	| 0.474 	| 93 	| 482 	| 1.000 |
+| Tatoeba-test.arq-hun 	| 6.6 	| 0.160 	| 1 	| 6 	| 1.000 |
 | Tatoeba-test.heb-fin 	| 31.2 	| 0.575 	| 212 	| 1302 	| 0.916 |
-| Tatoeba-test.heb-hun 	| 29.7 	| 0.529 	| 401 	| 2179 	| 0.988 |
+| Tatoeba-test.heb-hun 	| 29.6 	| 0.529 	| 401 	| 2177 	| 0.986 |
 | Tatoeba-test.jpa-hun 	| 6.4 	| 0.124 	| 2 	| 6 	| 1.000 |
-| Tatoeba-test.kab-fin 	| 0.6 	| 0.119 	| 14 	| 79 	| 1.000 |
+| Tatoeba-test.kab-fin 	| 0.6 	| 0.120 	| 14 	| 79 	| 1.000 |
 | Tatoeba-test.multi-multi 	| 29.8 	| 0.528 	| 732 	| 4092 	| 0.984 |
 | Tatoeba-test.tmr-hun 	| 4.8 	| 0.071 	| 5 	| 16 	| 1.000 |
 

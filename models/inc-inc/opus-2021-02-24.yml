@@ -186,7 +186,7 @@ chr-F-scores:
    - Tatoeba-test.hin-asm: 0.387
    - Tatoeba-test.hin-mar: 0.599
    - Tatoeba-test.hin-urd: 0.534
-   - Tatoeba-test.mar-hin: 0.520
+   - Tatoeba-test.mar-hin: 0.518
    - Tatoeba-test.multi-multi: 0.538
    - Tatoeba-test.urd-hin: 0.520
    - tico19-test.eng-ben: 0.312

@@ -23,11 +23,14 @@ test-data:
    - newsdev2014.hin-eng: 520/10406
    - newstest2014-hien.hin-eng: 2507/55571
    - Tatoeba-test.hin-eng: 5000/33943
+   - tico19-test.hin-eng: 2100/56347
 BLEU-scores:
    - newsdev2014.hin-eng: 9.1
    - newstest2014-hien.hin-eng: 13.3
    - Tatoeba-test.hin-eng: 39.0
+   - tico19-test.hin-eng: 18.9
 chr-F-scores:
    - newsdev2014.hin-eng: 0.351
    - newstest2014-hien.hin-eng: 0.407
    - Tatoeba-test.hin-eng: 0.569
+   - tico19-test.hin-eng: 0.446

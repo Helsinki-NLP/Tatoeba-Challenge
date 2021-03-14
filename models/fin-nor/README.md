@@ -17,6 +17,9 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.fin.nor 	| 23.5 	| 0.426 |
 
+
+
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -28,12 +31,14 @@
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>nob<< >>nno<<
 * download: [opus-2021-02-23.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fin-nor/opus-2021-02-23.zip)
-* test set translations: [opus-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fin-nor/opus-2021-02-23.test.txt)
-* test set scores: [opus-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fin-nor/opus-2021-02-23.eval.txt)
+* test set translations: [README.md-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fin-nor/README.md-2021-02-23.test.txt)
+* test set scores: [README.md-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fin-nor/README.md-2021-02-23.eval.txt)
 
 ## Benchmarks
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.fin-nno 	| 29.7 	| 0.583 	| 817 	| 4671 	| 1.000 |
+| Tatoeba-test.fin-nob 	| 59.9 	| 0.750 	| 1672 	| 10097 	| 1.000 |
 | Tatoeba-test.fin-nor 	| 50.6 	| 0.699 	| 2489 	| 14768 	| 1.000 |
 

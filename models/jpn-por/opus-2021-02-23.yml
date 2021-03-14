@@ -26,8 +26,11 @@ validation-data:
    - total size of shuffled dev data: 997
    - devset = top 997  lines of Tatoeba-dev.src.shuffled!
 test-data:
+   - Tatoeba-test.jpn-por_Hira: 2/2
    - Tatoeba-test.jpn-por: 1943/15570
 BLEU-scores:
+   - Tatoeba-test.jpn-por_Hira: 0.8
    - Tatoeba-test.jpn-por: 22.6
 chr-F-scores:
+   - Tatoeba-test.jpn-por_Hira: 0.000
    - Tatoeba-test.jpn-por: 0.451

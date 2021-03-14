@@ -10,21 +10,8 @@ subword-models:
    - source: source.spm
    - target: target.spm
 use-target-labels:
-   - >>eng<<
-   - >>kek<<
-   - >>kek_Latn<<
-   - >>quc<<
 source-languages:
-   - eng
-   - hoc
-   - kha
-   - khm
-   - mnw
-   - vie
 target-languages:
-   - eng
-   - kek
-   - quc
 training-data:
    - eng-kek: Tatoeba-train (54) 
    - eng-kek_Latn: Tatoeba-train (52324) 

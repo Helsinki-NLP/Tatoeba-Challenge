@@ -7,12 +7,13 @@
 * model: transformer-align
 * pre-processing: normalization + SentencePiece (spm4k,spm4k)
 * download: [opus-2021-02-23.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/bel-eng/opus-2021-02-23.zip)
-* test set translations: [opus-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/bel-eng/opus-2021-02-23.test.txt)
-* test set scores: [opus-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/bel-eng/opus-2021-02-23.eval.txt)
+* test set translations: [README.md-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/bel-eng/README.md-2021-02-23.test.txt)
+* test set scores: [README.md-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/bel-eng/README.md-2021-02-23.eval.txt)
 
 ## Benchmarks
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.bel-eng 	| 10.0 	| 0.268 	| 2500 	| 18571 	| 0.882 |
+| Tatoeba-test.bel_Latn-eng 	| 0.0 	| 0.033 	| 3 	| 26 	| 0.004 |
 

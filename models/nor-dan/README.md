@@ -16,6 +16,8 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.nor.dan 	| 65.0 	| 0.792 |
 
+
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -25,12 +27,14 @@
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * download: [opus-2021-02-23.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/nor-dan/opus-2021-02-23.zip)
-* test set translations: [opus-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/nor-dan/opus-2021-02-23.test.txt)
-* test set scores: [opus-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/nor-dan/opus-2021-02-23.eval.txt)
+* test set translations: [README.md-2021-02-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/nor-dan/README.md-2021-02-23.test.txt)
+* test set scores: [README.md-2021-02-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/nor-dan/README.md-2021-02-23.eval.txt)
 
 ## Benchmarks
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.nno-dan 	| 61.9 	| 0.700 	| 12 	| 71 	| 0.971 |
+| Tatoeba-test.nob-dan 	| 73.0 	| 0.845 	| 1299 	| 9792 	| 1.000 |
 | Tatoeba-test.nor-dan 	| 73.1 	| 0.846 	| 1311 	| 9865 	| 1.000 |
 

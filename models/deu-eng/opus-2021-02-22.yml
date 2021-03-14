@@ -34,7 +34,6 @@ test-data:
    - newstest2018-ende.deu-eng: 2998/67013
    - newstest2019-deen.deu-eng: 2000/39282
    - Tatoeba-test.deu-eng: 10000/81233
-   - Tatoeba-test.deu-eng: 10000/81233
 BLEU-scores:
    - newssyscomb2009.deu-eng: 28.9
    - news-test2008.deu-eng: 28.1
@@ -50,7 +49,6 @@ BLEU-scores:
    - newstest2018-ende.deu-eng: 44.3
    - newstest2019-deen.deu-eng: 41.0
    - Tatoeba-test.deu-eng: 53.5
-   - Tatoeba-test.deu-eng: 53.5
 chr-F-scores:
    - newssyscomb2009.deu-eng: 0.555
    - news-test2008.deu-eng: 0.551
@@ -65,5 +63,4 @@ chr-F-scores:
    - newstest2017-ende.deu-eng: 0.614
    - newstest2018-ende.deu-eng: 0.672
    - newstest2019-deen.deu-eng: 0.649
-   - Tatoeba-test.deu-eng: 0.697
    - Tatoeba-test.deu-eng: 0.697

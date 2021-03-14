@@ -2,15 +2,15 @@
 
 * dataset: opus
 * model: transformer
-* source language(s): eng hoc kha khm mnw vie
-* target language(s): eng kek quc
+* source language(s): 
+* target language(s): 
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
 * valid language labels: >>eng<< >>kek_Latn<< >>quc<< >>kek<<
 * download: [opus-2021-02-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/aav-myn/opus-2021-02-18.zip)
-* test set translations: [opus-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/aav-myn/opus-2021-02-18.test.txt)
-* test set scores: [opus-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/aav-myn/opus-2021-02-18.eval.txt)
+* test set translations: [README.md-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/aav-myn/README.md-2021-02-18.test.txt)
+* test set scores: [README.md-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/aav-myn/README.md-2021-02-18.eval.txt)
 
 ## Benchmarks
 

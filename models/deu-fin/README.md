@@ -19,6 +19,10 @@
 | Tatoeba-test.deu.fin 	| 40.1 	| 0.634 |
 | Tatoeba-test.deu-fin.deu.fin 	| 40.1 	| 0.634 |
 
+
+
+
+
 # opus-2021-02-16.zip
 
 * dataset: opus
@@ -36,6 +40,10 @@
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.deu-fin 	| 40.3 	| 0.634 	| 2500 	| 14145 	| 0.944 |
+
+
+
+
 
 # opus-2021-02-17.zip
 
@@ -57,6 +65,10 @@
 | goethe-institute-test2.deu-fin 	| 18.0 	| 0.496 	| 2000 	| 27014 	| 0.929 |
 | Tatoeba-test.deu-fin 	| 40.4 	| 0.636 	| 2500 	| 14145 	| 0.947 |
 
+
+
+
+
 # opus-2021-02-18.zip
 
 * dataset: opus
@@ -77,6 +89,10 @@
 | goethe-institute-test2.deu-fin 	| 18.0 	| 0.497 	| 2000 	| 27014 	| 0.926 |
 | Tatoeba-test.deu-fin 	| 40.2 	| 0.635 	| 2500 	| 14145 	| 0.948 |
 
+
+
+
+
 # opus+bt-2021-03-08.zip
 
 * dataset: opus+bt
@@ -86,8 +102,8 @@
 * model: transformer-align
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * download: [opus+bt-2021-03-08.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fin/opus+bt-2021-03-08.zip)
-* test set translations: [opus+bt-2021-03-08.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fin/opus+bt-2021-03-08.test.txt)
-* test set scores: [opus+bt-2021-03-08.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fin/opus+bt-2021-03-08.eval.txt)
+* test set translations: [README.md-2021-03-08.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fin/README.md-2021-03-08.test.txt)
+* test set scores: [README.md-2021-03-08.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fin/README.md-2021-03-08.eval.txt)
 
 ## Benchmarks
 

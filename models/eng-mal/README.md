@@ -16,6 +16,8 @@
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.eng-mal 	| 11.7 	| 0.497 	| 802 	| 4265 	| 0.966 |
 
+
+
 # opus+bt-2021-03-12.zip
 
 * dataset: opus+bt
@@ -25,8 +27,8 @@
 * model: transformer-align
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * download: [opus+bt-2021-03-12.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.zip)
-* test set translations: [opus+bt-2021-03-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.test.txt)
-* test set scores: [opus+bt-2021-03-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.eval.txt)
+* test set translations: [README.md-2021-03-12.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/README.md-2021-03-12.test.txt)
+* test set scores: [README.md-2021-03-12.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/README.md-2021-03-12.eval.txt)
 
 ## Benchmarks
 
