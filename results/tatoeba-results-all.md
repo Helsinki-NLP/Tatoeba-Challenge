@@ -222,7 +222,6 @@ to be useful for anything.
 | [ber-eng/opus](../models/ber-eng) | tatoeba | 0.095 | 0.0 |
 | | lang = bos_Latn-eng | | | | |
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.778 | 62.0 |
-| [hbs-eng/opus-.zip](../models/hbs-eng) | tatoeba | 0.778 | 62.0 |
 | | lang = bre-eng | | | | |
 | [ine-eng/opus4m](../models/ine-eng) | tatoeba | 0.412 | 24.3 |
 | [ine-eng/opus2m](../models/ine-eng) | tatoeba | 0.405 | 24.4 |
@@ -4502,7 +4501,6 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.545 | 32.9 |
 | | lang = hbs-eng | | | | |
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.713 | 57.0 |
-| [hbs-eng/opus-.zip](../models/hbs-eng) | tatoeba | 0.713 | 57.0 |
 | [sla-eng/opus4m](../models/sla-eng) | tatoeba | 0.701 | 55.8 |
 | [sla-eng/opus](../models/sla-eng) | tatoeba | 0.701 | 55.9 |
 | [zls-eng/opus4m](../models/zls-eng) | tatoeba | 0.701 | 55.6 |
@@ -4672,7 +4670,6 @@ to be useful for anything.
 | [hbs-deu/opus](../models/hbs-deu) | tatoeba | 0.683 | 51.4 |
 | | lang = hrv-eng | | | | |
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.727 | 57.4 |
-| [hbs-eng/opus-.zip](../models/hbs-eng) | tatoeba | 0.727 | 57.4 |
 | | lang = hrv-pol | | | | |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.621 | 39.0 |
 | | lang = hrv-ukr | | | | |
@@ -7310,7 +7307,6 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.499 | 30.9 |
 | | lang = srp_Cyrl-eng | | | | |
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.684 | 53.9 |
-| [hbs-eng/opus-.zip](../models/hbs-eng) | tatoeba | 0.684 | 53.9 |
 | | lang = srp_Cyrl-rus | | | | |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.684 | 48.5 |
 | | lang = srp_Cyrl-ukr | | | | |
@@ -7320,7 +7316,6 @@ to be useful for anything.
 | [hbs-deu/opus](../models/hbs-deu) | tatoeba | 0.695 | 51.8 |
 | | lang = srp_Latn-eng | | | | |
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.710 | 57.4 |
-| [hbs-eng/opus-.zip](../models/hbs-eng) | tatoeba | 0.710 | 57.4 |
 | | lang = srp_Latn-rus | | | | |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.713 | 53.3 |
 | | lang = srp_Latn-ukr | | | | |

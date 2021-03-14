@@ -599,7 +599,6 @@ For multilingual models, it is a mix of all language pairs
 | [hau-eng/opus](../models/hau-eng) | 0.293 | 12.6 |
 | [hbs-deu/opus](../models/hbs-deu) | 0.692 | 51.5 |
 | [hbs-eng/opus](../models/hbs-eng) | 0.713 | 57.0 |
-| [hbs-eng/opus-.zip](../models/hbs-eng) | 0.713 | 57.0 |
 | [hbs-epo/opus](../models/hbs-epo) | 0.383 | 18.7 |
 | [hbs-epo/opus](../models/hbs-epo) | 0.231 | 7.2 |
 | [hbs-ukr/opus](../models/hbs-ukr) | 0.665 | 49.6 |

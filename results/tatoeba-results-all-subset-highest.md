@@ -43,7 +43,6 @@ to be useful for anything.
 | [ara-eng/opus](../models/ara-eng) | tatoeba | 0.243 | 8.0 |
 | | lang = bos_Latn-eng | | | | |
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.778 | 62.0 |
-| [hbs-eng/opus-.zip](../models/hbs-eng) | tatoeba | 0.778 | 62.0 |
 | | lang = bul-deu | | | | |
 | [bul-deu/opus](../models/bul-deu) | tatoeba | 0.677 | 49.5 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.530 | 31.2 |
@@ -2553,7 +2552,6 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.545 | 32.9 |
 | | lang = hbs-eng | | | | |
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.713 | 57.0 |
-| [hbs-eng/opus-.zip](../models/hbs-eng) | tatoeba | 0.713 | 57.0 |
 | [sla-eng/opus4m](../models/sla-eng) | tatoeba | 0.701 | 55.8 |
 | [sla-eng/opus](../models/sla-eng) | tatoeba | 0.701 | 55.9 |
 | [zls-eng/opus4m](../models/zls-eng) | tatoeba | 0.701 | 55.6 |
@@ -2643,7 +2641,6 @@ to be useful for anything.
 | [hbs-deu/opus](../models/hbs-deu) | tatoeba | 0.683 | 51.4 |
 | | lang = hrv-eng | | | | |
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.727 | 57.4 |
-| [hbs-eng/opus-.zip](../models/hbs-eng) | tatoeba | 0.727 | 57.4 |
 | | lang = hun-ces | | | | |
 | [hun-ces/opus](../models/hun-ces) | newssyscomb2009 | 0.468 | 18.0 |
 | [fiu-zlw/opus](../models/fiu-zlw) | newssyscomb2009 | 0.426 | 13.7 |
@@ -3738,12 +3735,10 @@ to be useful for anything.
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.058 | 0.0 |
 | | lang = srp_Cyrl-eng | | | | |
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.684 | 53.9 |
-| [hbs-eng/opus-.zip](../models/hbs-eng) | tatoeba | 0.684 | 53.9 |
 | | lang = srp_Latn-deu | | | | |
 | [hbs-deu/opus](../models/hbs-deu) | tatoeba | 0.695 | 51.8 |
 | | lang = srp_Latn-eng | | | | |
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.710 | 57.4 |
-| [hbs-eng/opus-.zip](../models/hbs-eng) | tatoeba | 0.710 | 57.4 |
 | | lang = swe-dan | | | | |
 | [swe-dan/opus](../models/swe-dan) | tatoeba | 0.825 | 71.2 |
 | [gmq-gmq/opus](../models/gmq-gmq) | tatoeba | 0.809 | 68.7 |
