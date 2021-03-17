@@ -3,8 +3,8 @@
 
 use Getopt::Std;
 
-our ($opt_r, $opt_s, $opt_t);
-getopts('tr:s:');
+our ($opt_r, $opt_s, $opt_t, $opt_S);
+getopts('tr:s:S');
 
 my $ReleaseDir  = $opt_r || 'data/test';
 my $MinTestSize = $opt_s || 0;
@@ -63,6 +63,12 @@ while (<>){
 foreach my $l (sort keys %scores){
     foreach my $t (sort keys %{$scores{$l}}){
 	next if ($sizes{$l}{$t}{sents} < $MinTestSize);
-	print $l,"\t",$t,"\t",$scores{$l}{$t}{chrf},"\t",$scores{$l}{$t}{bleu},"\n";
+	if ($opt_S){
+	    print $l,"\t",$t,"\t",$scores{$l}{$t}{chrf},"\t",$scores{$l}{$t}{bleu},
+	          "\t",$sizes{$l}{$t}{sents},"\t",$sizes{$l}{$t}{words},"\n";
+	}
+	else{
+	    print $l,"\t",$t,"\t",$scores{$l}{$t}{chrf},"\t",$scores{$l}{$t}{bleu},"\n";
+	}
     }
 }

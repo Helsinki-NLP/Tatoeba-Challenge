@@ -291,7 +291,8 @@ upload-models:
 .PHONY: released-model-list
 released-model-list: 	models/released-models.txt \
 			models/released-model-results.txt \
-			models/released-model-results-all.txt
+			models/released-model-results-all.txt \
+			models/released-model-results-other.txt
 #			models/released-model-languages.txt
 
 
@@ -887,25 +888,39 @@ models/released-models.txt: ${TATOEBA_YAML}
 
 models/released-model-results.txt: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
-	xargs scripts/get-model-scores.pl -s 200 |\
+	xargs scripts/get-model-scores.pl -S -s 200 |\
 	grep 'Tatoeba-test' | grep -v 'multi'          > $@.1 
 	cut -f2 $@.1                                   > $@.langs
 	cut -f1 $@.1 | sed 's#^#${TATOEBA_MODELURL}/#' > $@.url
 	cut -f4,5 $@.1                                 > $@.scores
-	paste $@.langs $@.scores $@.url | \
+	cut -f6,7 $@.1                                 > $@.sizes
+	paste $@.langs $@.scores $@.url $@.sizes | \
 	sort -k1,1 -k3,3nr -k2,2nr -k4,4 | uniq | grep zip > $@
-	rm -f $@.1 $@.langs $@.url $@.scores
+	rm -f $@.1 $@.langs $@.url $@.scores $@.sizes
 
 models/released-model-results-all.txt: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
-	xargs scripts/get-model-scores.pl |\
+	xargs scripts/get-model-scores.pl -S |\
 	grep 'Tatoeba-test' | grep -v 'multi'          > $@.1 
 	cut -f2 $@.1                                   > $@.langs
 	cut -f1 $@.1 | sed 's#^#${TATOEBA_MODELURL}/#' > $@.url
 	cut -f4,5 $@.1                                 > $@.scores
-	paste $@.langs $@.scores $@.url | \
+	cut -f6,7 $@.1                                 > $@.sizes
+	paste $@.langs $@.scores $@.url $@.sizes | \
 	sort -k1,1 -k3,3nr -k2,2nr -k4,4 | uniq | grep zip > $@
-	rm -f $@.1 $@.langs $@.url $@.scores
+	rm -f $@.1 $@.langs $@.url $@.scores $@.sizes
+
+models/released-model-results-other.txt: ${TATOEBA_YAML}
+	find models -name '*.yml' | \
+	xargs scripts/get-model-scores.pl -S |\
+	grep -v 'Tatoeba-test'                         > $@.1 
+	cut -f2,3 $@.1                                 > $@.langs
+	cut -f1 $@.1 | sed 's#^#${TATOEBA_MODELURL}/#' > $@.url
+	cut -f4,5 $@.1                                 > $@.scores
+	cut -f6,7 $@.1                                 > $@.sizes
+	paste $@.langs $@.scores $@.url $@.sizes | \
+	sort -k1,1 -k2,2 -k4,4nr -k3,3nr -k5,5 | uniq | grep zip > $@
+	rm -f $@.1 $@.langs $@.url $@.scores $@.sizes
 
 
 # models/released-models.txt: ${TATOEBA_READMES}
