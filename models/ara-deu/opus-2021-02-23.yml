@@ -1,7 +1,7 @@
 release: ara-deu/opus-2021-02-23.zip
 release-date: 2021-02-23
 dataset-name: opus
-modeltype: transformer-align
+modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
    - source: spm32k
@@ -30,8 +30,20 @@ validation-data:
    - total size of shuffled dev data: 1000
    - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
 test-data:
+   - Tatoeba-test.afb-deu: 5/32
+   - Tatoeba-test.apc-deu: 2/11
+   - Tatoeba-test.arq-deu: 1/6
+   - Tatoeba-test.arz-deu: 2/13
    - Tatoeba-test.ara-deu: 1209/8371
 BLEU-scores:
-   - Tatoeba-test.ara-deu: 44.7
+   - Tatoeba-test.afb-deu: 34.9
+   - Tatoeba-test.apc-deu: 39.1
+   - Tatoeba-test.arq-deu: 19.1
+   - Tatoeba-test.arz-deu: 36.0
+   - Tatoeba-test.ara-deu: 44.5
 chr-F-scores:
-   - Tatoeba-test.ara-deu: 0.629
+   - Tatoeba-test.afb-deu: 0.616
+   - Tatoeba-test.apc-deu: 0.613
+   - Tatoeba-test.arq-deu: 0.612
+   - Tatoeba-test.arz-deu: 0.407
+   - Tatoeba-test.ara-deu: 0.630

@@ -1,0 +1,36 @@
+release: eng+fra-bre/opus+bt-2021-03-07.zip
+release-date: 2021-03-07
+dataset-name: opus+bt
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+   - fra
+target-languages:
+   - bre
+training-data:
+   - eng-bre: Tatoeba-train (378041) wiki.aa (378610) wikiquote.aa (1273) wikisource.aa (307720) 
+   - fra-bre: Tatoeba-train (171265) 
+validation-data:
+   - bre-eng: Tatoeba-dev, 1000
+   - bre-fra: Tatoeba-dev, 3065
+   - total size of shuffled dev data: 4040
+   - devset = top 4040  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.eng-bre: 383/2268
+   - Tatoeba-test.fra-bre: 2500/14393
+   - Tatoeba-test.multi-bre: 2883/16663
+BLEU-scores:
+   - Tatoeba-test.eng-bre: 17.2
+   - Tatoeba-test.fra-bre: 12.0
+   - Tatoeba-test.multi-bre: 13.5
+chr-F-scores:
+   - Tatoeba-test.eng-bre: 0.402
+   - Tatoeba-test.fra-bre: 0.332
+   - Tatoeba-test.multi-bre: 0.348

@@ -39,7 +39,16 @@ validation-data:
    - devset = top 998  lines of Tatoeba-dev.src.shuffled!
 test-data:
    - Tatoeba-test.ukr-hbs: 941/5128
+   - Tatoeba-test.ukr-hrv: 389/2302
+   - Tatoeba-test.ukr-srp_Cyrl: 204/1110
+   - Tatoeba-test.ukr-srp_Latn: 348/1716
 BLEU-scores:
    - Tatoeba-test.ukr-hbs: 44.5
+   - Tatoeba-test.ukr-hrv: 43.8
+   - Tatoeba-test.ukr-srp_Cyrl: 47.3
+   - Tatoeba-test.ukr-srp_Latn: 42.4
 chr-F-scores:
    - Tatoeba-test.ukr-hbs: 0.643
+   - Tatoeba-test.ukr-hrv: 0.635
+   - Tatoeba-test.ukr-srp_Cyrl: 0.641
+   - Tatoeba-test.ukr-srp_Latn: 0.651

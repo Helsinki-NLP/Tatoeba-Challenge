@@ -20,12 +20,16 @@
 | Tatoeba-test.est-bak 	| 7.8 	| 0.149 	| 1 	| 5 	| 1.000 |
 | Tatoeba-test.est-kaz 	| 12.7 	| 0.113 	| 1 	| 5 	| 1.000 |
 | Tatoeba-test.est-tat 	| 12.5 	| 0.336 	| 3 	| 17 	| 0.875 |
+| Tatoeba-test.est-tat_Latn 	| 3.6 	| 0.039 	| 1 	| 7 	| 0.670 |
 | Tatoeba-test.est-tur 	| 50.0 	| 0.714 	| 21 	| 101 	| 0.928 |
 | Tatoeba-test.est-uzb 	| 27.5 	| 0.301 	| 1 	| 5 	| 0.779 |
 | Tatoeba-test.fin-tat 	| 1.1 	| 0.126 	| 6 	| 75 	| 0.842 |
-| Tatoeba-test.fin-tur 	| 23.9 	| 0.522 	| 1796 	| 10072 	| 0.913 |
+| Tatoeba-test.fin-tat_Latn 	| 1.8 	| 0.007 	| 1 	| 29 	| 0.638 |
+| Tatoeba-test.fin-tur 	| 23.8 	| 0.521 	| 1796 	| 10069 	| 0.912 |
 | Tatoeba-test.hun-ota 	| 0.0 	| 0.013 	| 2 	| 8 	| 0.717 |
-| Tatoeba-test.hun-tat 	| 3.3 	| 0.199 	| 1 	| 10 	| 1.000 |
-| Tatoeba-test.hun-tur 	| 31.1 	| 0.574 	| 965 	| 4770 	| 0.915 |
+| Tatoeba-test.hun-ota_Arab 	| 0.0 	| 0.009 	| 1 	| 4 	| 0.717 |
+| Tatoeba-test.hun-ota_Latn 	| 0.0 	| 0.016 	| 1 	| 4 	| 0.717 |
+| Tatoeba-test.hun-tat 	| 5.1 	| 0.142 	| 1 	| 10 	| 0.779 |
+| Tatoeba-test.hun-tur 	| 31.1 	| 0.574 	| 965 	| 4770 	| 0.914 |
 | Tatoeba-test.multi-multi 	| 26.0 	| 0.535 	| 2798 	| 15082 	| 0.914 |
 

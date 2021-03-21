@@ -85,11 +85,11 @@ test-data:
    - newstest2018-encs.eng-ces: 2983/54772
    - newstest2019-encs.eng-ces: 1997/43373
    - Tatoeba-test.ces-hsb: 84/472
-   - Tatoeba-test.ces-pol: 561/3369
+   - Tatoeba-test.ces-pol: 561/3366
    - Tatoeba-test.dsb-pol: 13/70
    - Tatoeba-test.hsb-ces: 84/457
    - Tatoeba-test.multi-multi: 1316/7792
-   - Tatoeba-test.pol-ces: 561/3349
+   - Tatoeba-test.pol-ces: 561/3348
    - Tatoeba-test.pol-dsb: 13/75
 BLEU-scores:
    - newssyscomb2009.ces-eng: 24.1
@@ -147,9 +147,9 @@ chr-F-scores:
    - newstest2018-encs.eng-ces: 0.458
    - newstest2019-encs.eng-ces: 0.464
    - Tatoeba-test.ces-hsb: 0.148
-   - Tatoeba-test.ces-pol: 0.663
+   - Tatoeba-test.ces-pol: 0.664
    - Tatoeba-test.dsb-pol: 0.336
    - Tatoeba-test.hsb-ces: 0.341
    - Tatoeba-test.multi-multi: 0.592
-   - Tatoeba-test.pol-ces: 0.627
+   - Tatoeba-test.pol-ces: 0.626
    - Tatoeba-test.pol-dsb: 0.095

@@ -25,8 +25,11 @@ validation-data:
    - total size of shuffled dev data: 997
    - devset = top 997  lines of Tatoeba-dev.src.shuffled!
 test-data:
+   - Tatoeba-test.arq-tur: 2/11
    - Tatoeba-test.ara-tur: 1263/6949
 BLEU-scores:
+   - Tatoeba-test.arq-tur: 2.8
    - Tatoeba-test.ara-tur: 32.8
 chr-F-scores:
+   - Tatoeba-test.arq-tur: 0.025
    - Tatoeba-test.ara-tur: 0.614

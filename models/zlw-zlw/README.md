@@ -23,6 +23,10 @@
 | Tatoeba-test.pol-ces.pol.ces 	| 43.4 	| 0.620 |
 | Tatoeba-test.pol-dsb.pol.dsb 	| 2.1 	| 0.159 |
 
+
+
+
+
 # opus-2020-10-04.zip
 
 * dataset: opus
@@ -81,6 +85,10 @@
 | Tatoeba-test.pol-dsb.pol.dsb 	| 1.1 	| 0.095 |
 | Tatoeba-test.pol-eng.pol.eng 	| 47.8 	| 0.648 |
 
+
+
+
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -123,10 +131,10 @@
 | newstest2018-encs.eng-ces 	| 17.7 	| 0.458 	| 2983 	| 54772 	| 0.996 |
 | newstest2019-encs.eng-ces 	| 18.6 	| 0.464 	| 1997 	| 43373 	| 0.975 |
 | Tatoeba-test.ces-hsb 	| 1.6 	| 0.148 	| 84 	| 472 	| 1.000 |
-| Tatoeba-test.ces-pol 	| 45.7 	| 0.663 	| 561 	| 3369 	| 0.959 |
+| Tatoeba-test.ces-pol 	| 45.7 	| 0.664 	| 561 	| 3366 	| 0.960 |
 | Tatoeba-test.dsb-pol 	| 15.6 	| 0.336 	| 13 	| 70 	| 0.956 |
 | Tatoeba-test.hsb-ces 	| 17.2 	| 0.341 	| 84 	| 457 	| 1.000 |
 | Tatoeba-test.multi-multi 	| 40.2 	| 0.592 	| 1316 	| 7792 	| 0.985 |
-| Tatoeba-test.pol-ces 	| 44.1 	| 0.627 	| 561 	| 3349 	| 0.987 |
+| Tatoeba-test.pol-ces 	| 44.1 	| 0.626 	| 561 	| 3348 	| 0.987 |
 | Tatoeba-test.pol-dsb 	| 1.1 	| 0.095 	| 13 	| 75 	| 1.000 |
 

@@ -30,8 +30,23 @@ validation-data:
    - total size of shuffled dev data: 997
    - devset = top 997  lines of Tatoeba-dev.src.shuffled!
 test-data:
+   - Tatoeba-test.cmn_Hans-ukr: 853/5212
+   - Tatoeba-test.cmn_Hant-ukr: 530/2804
+   - Tatoeba-test.cmn-ukr: 8/34
    - Tatoeba-test.zho-ukr: 1575/9193
+   - Tatoeba-test.yue_Hans-ukr: 82/521
+   - Tatoeba-test.yue_Hant-ukr: 102/574
 BLEU-scores:
+   - Tatoeba-test.cmn_Hans-ukr: 8.9
+   - Tatoeba-test.cmn_Hant-ukr: 13.2
+   - Tatoeba-test.cmn-ukr: 63.1
    - Tatoeba-test.zho-ukr: 10.3
+   - Tatoeba-test.yue_Hans-ukr: 5.7
+   - Tatoeba-test.yue_Hant-ukr: 8.8
 chr-F-scores:
+   - Tatoeba-test.cmn_Hans-ukr: 0.276
+   - Tatoeba-test.cmn_Hant-ukr: 0.296
+   - Tatoeba-test.cmn-ukr: 0.540
    - Tatoeba-test.zho-ukr: 0.277
+   - Tatoeba-test.yue_Hans-ukr: 0.236
+   - Tatoeba-test.yue_Hant-ukr: 0.229

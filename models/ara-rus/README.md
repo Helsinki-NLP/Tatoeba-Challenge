@@ -16,6 +16,10 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.ara.rus 	| 41.4 	| 0.598 |
 
+
+
+
+
 # opus-2020-07-03.zip
 
 * dataset: opus
@@ -34,6 +38,10 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.ara.rus 	| 42.5 	| 0.605 |
 
+
+
+
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -50,5 +58,7 @@
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.apc-rus 	| 0.0 	| 0.042 	| 1 	| 4 	| 0.368 |
 | Tatoeba-test.ara-rus 	| 42.3 	| 0.606 	| 3715 	| 21830 	| 0.974 |
+| Tatoeba-test.arz-rus 	| 0.0 	| 0.680 	| 1 	| 4 	| 0.717 |
 

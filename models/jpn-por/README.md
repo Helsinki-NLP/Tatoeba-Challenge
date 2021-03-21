@@ -17,6 +17,10 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.jpn.por 	| 22.2 	| 0.444 |
 
+
+
+
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -36,4 +40,5 @@
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.jpn-por 	| 22.6 	| 0.451 	| 1943 	| 15570 	| 0.918 |
+| Tatoeba-test.jpn-por_Hira 	| 0.8 	| 0.000 	| 2 	| 2 	| 1.000 |
 

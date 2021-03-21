@@ -17,6 +17,10 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.spa.nor 	| 36.7 	| 0.565 |
 
+
+
+
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -35,5 +39,7 @@
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.spa-nno 	| 28.0 	| 0.568 	| 75 	| 455 	| 1.000 |
+| Tatoeba-test.spa-nob 	| 58.1 	| 0.730 	| 885 	| 6761 	| 0.969 |
 | Tatoeba-test.spa-nor 	| 56.7 	| 0.722 	| 960 	| 7217 	| 0.972 |
 

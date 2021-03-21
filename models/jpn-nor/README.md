@@ -16,5 +16,7 @@
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.jpn-nno 	| 11.5 	| 0.364 	| 19 	| 122 	| 1.000 |
+| Tatoeba-test.jpn-nob 	| 29.3 	| 0.477 	| 1027 	| 8375 	| 0.907 |
 | Tatoeba-test.jpn-nor 	| 29.2 	| 0.476 	| 1046 	| 8497 	| 0.908 |
 

@@ -1,0 +1,33 @@
+release: deu-fin/opus+bt-2021-03-08.zip
+release-date: 2021-03-08
+dataset-name: opus+bt
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   - source: spm32k
+   - target: spm32k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - deu
+target-languages:
+   - fin
+training-data:
+   - deu-fin: Tatoeba-train (27779064) wiki.aa.fin-deu (989102) wiki.ab.fin-deu (989220) wiki.ad.fin-deu (989084) wiki.ae.fin-deu (989035) wiki.af.fin-deu (989174) wiki.ag.fin-deu (989141) wiki.ah.fin-deu (479263) wikibooks.aa.fin-deu (65831) wikinews.aa.fin-deu (21275) wikiquote.aa.fin-deu (32594) wikisource.aa.fin-deu (273252) 
+validation-data:
+   - deu-fin: Tatoeba-dev, 7142
+   - total size of shuffled dev data: 7142
+   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - goethe-institute-test1.deu-fin: 2000/27070
+   - goethe-institute-test2.deu-fin: 2000/27014
+   - Tatoeba-test.deu-fin: 2500/14145
+BLEU-scores:
+   - goethe-institute-test1.deu-fin: 20.7
+   - goethe-institute-test2.deu-fin: 20.0
+   - Tatoeba-test.deu-fin: 41.1
+chr-F-scores:
+   - goethe-institute-test1.deu-fin: 0.528
+   - goethe-institute-test2.deu-fin: 0.523
+   - Tatoeba-test.deu-fin: 0.645

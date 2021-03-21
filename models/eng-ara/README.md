@@ -17,6 +17,11 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.eng.ara 	| 14.4 	| 0.440 |
 
+
+
+
+
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -35,6 +40,12 @@
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-acm 	| 3.6 	| 0.202 	| 3 	| 17 	| 1.000 |
+| Tatoeba-test.eng-afb 	| 29.8 	| 0.560 	| 36 	| 145 	| 1.000 |
+| Tatoeba-test.eng-apc 	| 6.4 	| 0.249 	| 5 	| 18 	| 0.943 |
 | Tatoeba-test.eng-ara 	| 14.0 	| 0.437 	| 10000 	| 58935 	| 1.000 |
+| Tatoeba-test.eng-arq 	| 0.5 	| 0.155 	| 412 	| 2323 	| 1.000 |
+| Tatoeba-test.eng-ary 	| 3.1 	| 0.246 	| 18 	| 53 	| 1.000 |
+| Tatoeba-test.eng-arz 	| 2.1 	| 0.249 	| 181 	| 856 	| 1.000 |
 | tico19-test.eng-ara 	| 22.2 	| 0.530 	| 2100 	| 51336 	| 0.997 |
 

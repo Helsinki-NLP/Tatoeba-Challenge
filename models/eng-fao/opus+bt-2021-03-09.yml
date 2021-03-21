@@ -1,0 +1,27 @@
+release: eng-fao/opus+bt-2021-03-09.zip
+release-date: 2021-03-09
+dataset-name: opus+bt
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm4k,spm4k)
+subwords:
+   - source: spm4k
+   - target: spm4k
+subword-models:
+   - source: source.spm
+   - target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - fao
+training-data:
+   - eng-fao: Tatoeba-train (2613) wiki.aa.fao-eng (103717) wikisource.aa.fao-eng (1298) 
+validation-data:
+   - eng-fao: Tatoeba-dev, 1000
+   - total size of shuffled dev data: 708
+   - devset = top 708  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   - Tatoeba-test.eng-fao: 294/1933
+BLEU-scores:
+   - Tatoeba-test.eng-fao: 16.8
+chr-F-scores:
+   - Tatoeba-test.eng-fao: 0.361

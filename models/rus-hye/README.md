@@ -17,4 +17,5 @@
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.rus-hye 	| 21.7 	| 0.494 	| 227 	| 1602 	| 1.000 |
+| Tatoeba-test.rus-hye_Latn 	| 3.7 	| 0.005 	| 1 	| 7 	| 1.000 |
 

@@ -25,6 +25,10 @@
 | Tatoeba-test.pol-fin.pol.fin 	| 36.1 	| 0.592 |
 | Tatoeba-test.pol-hun.pol.hun 	| 36.8 	| 0.606 |
 
+
+
+
+
 # opus-2021-02-17.zip
 
 * dataset: opus
@@ -47,6 +51,10 @@
 | newstest2009.ces-hun 	| 13.9 	| 0.443 	| 2525 	| 54965 	| 0.969 |
 | Tatoeba-test.multi-multi 	| 39.4 	| 0.616 	| 4562 	| 25497 	| 0.969 |
 
+
+
+
+
 # opus-2021-02-18.zip
 
 * dataset: opus
@@ -67,11 +75,11 @@
 |---------|-------|-------|-------|--------|----|
 | newssyscomb2009.ces-hun 	| 13.9 	| 0.449 	| 502 	| 9733 	| 0.981 |
 | newstest2009.ces-hun 	| 13.9 	| 0.443 	| 2525 	| 54965 	| 0.969 |
-| Tatoeba-test.ces-fin 	| 57.2 	| 0.709 	| 88 	| 408 	| 0.934 |
-| Tatoeba-test.ces-hun 	| 43.0 	| 0.638 	| 1911 	| 10352 	| 0.970 |
+| Tatoeba-test.ces-fin 	| 57.2 	| 0.710 	| 88 	| 408 	| 0.934 |
+| Tatoeba-test.ces-hun 	| 42.6 	| 0.637 	| 1911 	| 10336 	| 0.972 |
 | Tatoeba-test.multi-multi 	| 39.4 	| 0.616 	| 4562 	| 25497 	| 0.969 |
 | Tatoeba-test.pol-chm 	| 2.0 	| 0.007 	| 5 	| 36 	| 0.751 |
 | Tatoeba-test.pol-est 	| 20.9 	| 0.372 	| 15 	| 98 	| 0.870 |
-| Tatoeba-test.pol-fin 	| 36.1 	| 0.592 	| 609 	| 3293 	| 0.938 |
-| Tatoeba-test.pol-hun 	| 36.8 	| 0.606 	| 1934 	| 11310 	| 0.980 |
+| Tatoeba-test.pol-fin 	| 36.1 	| 0.592 	| 609 	| 3293 	| 0.937 |
+| Tatoeba-test.pol-hun 	| 36.6 	| 0.605 	| 1934 	| 11285 	| 0.982 |
 

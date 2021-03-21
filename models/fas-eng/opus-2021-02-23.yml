@@ -26,10 +26,19 @@ validation-data:
    - devset = top 998  lines of Tatoeba-dev.src.shuffled!
 test-data:
    - Tatoeba-test.fas-eng: 7536/63016
+   - Tatoeba-test.pes-eng: 3763/31435
+   - Tatoeba-test.pes_Latn-eng: 3/28
+   - Tatoeba-test.pes_Thaa-eng: 2/41
    - tico19-test.fas-eng: 2100/56339
 BLEU-scores:
    - Tatoeba-test.fas-eng: 38.2
+   - Tatoeba-test.pes-eng: 38.3
+   - Tatoeba-test.pes_Latn-eng: 2.3
+   - Tatoeba-test.pes_Thaa-eng: 1.0
    - tico19-test.fas-eng: 18.5
 chr-F-scores:
    - Tatoeba-test.fas-eng: 0.566
+   - Tatoeba-test.pes-eng: 0.568
+   - Tatoeba-test.pes_Latn-eng: 0.102
+   - Tatoeba-test.pes_Thaa-eng: 0.083
    - tico19-test.fas-eng: 0.451

@@ -10,26 +10,17 @@ subword-models:
    - source: source.spm
    - target: target.spm
 use-target-labels:
-   - >>eng<<
    - >>lav<<
    - >>lit<<
    - >>ltg<<
-   - >>prg_Latn<<
-   - >>sgs<<
 source-languages:
-   - eng
    - lav
    - lit
    - ltg
-   - prg
-   - sgs
 target-languages:
-   - eng
    - lav
    - lit
    - ltg
-   - prg
-   - sgs
 training-data:
    - eng-lav: Tatoeba-train (1000000) 
    - eng-lit: Tatoeba-train (1000000) 
@@ -69,7 +60,9 @@ test-data:
    - newstest2019-lten.lit-eng: 1000/26079
    - Tatoeba-test.lav-lav: 8/38
    - Tatoeba-test.lav-lit: 2/11
+   - Tatoeba-test.lav-ltg: 4/19
    - Tatoeba-test.lit-lav: 2/11
+   - Tatoeba-test.ltg-lav: 4/19
    - Tatoeba-test.multi-multi: 8812/57287
 BLEU-scores:
    - newsdev2017-enlv.eng-lav: 21.6
@@ -82,7 +75,9 @@ BLEU-scores:
    - newstest2019-lten.lit-eng: 27.8
    - Tatoeba-test.lav-lav: 11.2
    - Tatoeba-test.lav-lit: 24.3
+   - Tatoeba-test.lav-ltg: 4.8
    - Tatoeba-test.lit-lav: 26.1
+   - Tatoeba-test.ltg-lav: 24.6
    - Tatoeba-test.multi-multi: 41.6
 chr-F-scores:
    - newsdev2017-enlv.eng-lav: 0.521
@@ -95,5 +90,7 @@ chr-F-scores:
    - newstest2019-lten.lit-eng: 0.574
    - Tatoeba-test.lav-lav: 0.349
    - Tatoeba-test.lav-lit: 0.712
+   - Tatoeba-test.lav-ltg: 0.241
    - Tatoeba-test.lit-lav: 0.780
+   - Tatoeba-test.ltg-lav: 0.468
    - Tatoeba-test.multi-multi: 0.611

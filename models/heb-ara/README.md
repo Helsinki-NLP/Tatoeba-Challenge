@@ -16,5 +16,8 @@
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.heb-apc 	| 10.7 	| 0.185 	| 1 	| 4 	| 1.000 |
 | Tatoeba-test.heb-ara 	| 23.6 	| 0.532 	| 1208 	| 6372 	| 0.926 |
+| Tatoeba-test.heb-arq 	| 0.0 	| 0.514 	| 1 	| 4 	| 0.717 |
+| Tatoeba-test.heb-arz 	| 7.6 	| 0.305 	| 2 	| 8 	| 1.000 |
 

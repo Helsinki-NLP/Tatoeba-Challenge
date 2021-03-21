@@ -16,7 +16,9 @@
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
-| Tatoeba-test.msa-fin 	| 40.3 	| 0.638 	| 24 	| 115 	| 0.956 |
-| Tatoeba-test.msa-hun 	| 16.2 	| 0.413 	| 51 	| 334 	| 0.973 |
+| Tatoeba-test.ind-hun 	| 13.9 	| 0.402 	| 42 	| 255 	| 0.984 |
+| Tatoeba-test.msa-fin 	| 33.2 	| 0.590 	| 24 	| 115 	| 0.946 |
+| Tatoeba-test.msa-hun 	| 14.8 	| 0.385 	| 51 	| 332 	| 0.969 |
 | Tatoeba-test.multi-multi 	| 21.7 	| 0.471 	| 75 	| 449 	| 0.968 |
+| Tatoeba-test.zsm_Latn-hun 	| 17.1 	| 0.327 	| 9 	| 77 	| 0.919 |
 

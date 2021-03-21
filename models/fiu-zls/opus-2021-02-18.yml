@@ -103,7 +103,7 @@ BLEU-scores:
    - Tatoeba-test.fin-bul: 50.0
    - Tatoeba-test.fin-hbs: 41.4
    - Tatoeba-test.fin-slv: 39.9
-   - Tatoeba-test.hun-bul: 41.3
+   - Tatoeba-test.hun-bul: 40.6
    - Tatoeba-test.hun-hbs: 53.7
    - Tatoeba-test.hun-mkd: 15.6
    - Tatoeba-test.hun-slv: 2.6
@@ -112,10 +112,10 @@ BLEU-scores:
 chr-F-scores:
    - Tatoeba-test.est-mkd: 0.586
    - Tatoeba-test.est-slv: 0.388
-   - Tatoeba-test.fin-bul: 0.604
+   - Tatoeba-test.fin-bul: 0.593
    - Tatoeba-test.fin-hbs: 0.553
    - Tatoeba-test.fin-slv: 0.587
-   - Tatoeba-test.hun-bul: 0.625
+   - Tatoeba-test.hun-bul: 0.621
    - Tatoeba-test.hun-hbs: 0.724
    - Tatoeba-test.hun-mkd: 0.658
    - Tatoeba-test.hun-slv: 0.177

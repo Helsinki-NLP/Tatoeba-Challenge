@@ -20,6 +20,11 @@
 | Tatoeba-test.vie-fin.vie.fin 	| 53.0 	| 0.769 |
 | Tatoeba-test.vie-hun.vie.hun 	| 11.0 	| 0.401 |
 
+
+
+
+
+
 # opus-2021-02-18.zip
 
 * dataset: opus

@@ -39,12 +39,16 @@
 | Tatoeba-test.glv-gle.glv.gle 	| 48.3 	| 0.587 |
 | Tatoeba-test.multi.multi 	| 20.5 	| 0.357 |
 
+
+
+
+
 # opus-2021-02-19.zip
 
 * dataset: opus
 * model: transformer
-* source language(s): bre cor cym eng gla gle glv
-* target language(s): bre cor cym eng gla gle glv
+* source language(s): cor cym gla gle glv
+* target language(s): cor cym gla gle glv
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
@@ -59,10 +63,10 @@
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.cor-cym 	| 8.2 	| 0.312 	| 3 	| 19 	| 1.000 |
 | Tatoeba-test.cym-cor 	| 4.3 	| 0.086 	| 3 	| 18 	| 0.607 |
-| Tatoeba-test.cym-gla 	| 7.8 	| 0.177 	| 1 	| 7 	| 1.000 |
+| Tatoeba-test.cym-gla 	| 7.8 	| 0.195 	| 1 	| 7 	| 1.000 |
 | Tatoeba-test.cym-gle 	| 19.7 	| 0.437 	| 1 	| 11 	| 1.000 |
 | Tatoeba-test.cym-glv 	| 9.9 	| 0.269 	| 11 	| 60 	| 1.000 |
-| Tatoeba-test.gla-cym 	| 6.3 	| 0.407 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test.gla-cym 	| 8.6 	| 0.404 	| 1 	| 6 	| 1.000 |
 | Tatoeba-test.gle-cym 	| 15.9 	| 0.424 	| 1 	| 13 	| 0.834 |
 | Tatoeba-test.gle-glv 	| 17.4 	| 0.476 	| 3 	| 14 	| 1.000 |
 | Tatoeba-test.glv-cym 	| 7.4 	| 0.271 	| 11 	| 71 	| 0.986 |

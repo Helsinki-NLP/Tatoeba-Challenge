@@ -17,6 +17,11 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.jpn.hbs 	| 22.6 	| 0.447 |
 
+
+
+
+
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -35,5 +40,9 @@
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.jpn-bos_Latn 	| 8.7 	| 0.338 	| 3 	| 26 	| 1.000 |
 | Tatoeba-test.jpn-hbs 	| 13.0 	| 0.336 	| 800 	| 5050 	| 1.000 |
+| Tatoeba-test.jpn-hrv 	| 13.5 	| 0.352 	| 319 	| 2017 	| 0.966 |
+| Tatoeba-test.jpn-srp_Cyrl 	| 2.5 	| 0.154 	| 12 	| 89 	| 1.000 |
+| Tatoeba-test.jpn-srp_Latn 	| 20.9 	| 0.398 	| 66 	| 393 	| 0.915 |
 

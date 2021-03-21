@@ -7,6 +7,7 @@ A new challenge set for machine translation covering over 500 languages and thou
 * [Training, development and test data](Data.md)
 * [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-all.md) ([training procedures](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md))
 * [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
+* New: [The status of available NMT models on a map](https://opus.nlpl.eu/NMT-map/Tatoeba/all/src2trg/)
 
 
 ## Tasks

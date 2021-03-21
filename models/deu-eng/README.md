@@ -29,6 +29,10 @@
 | newstest2019-deen-deueng.deu.eng 	| 40.0 	| 0.642 |
 | Tatoeba-test.deu.eng 	| 53.1 	| 0.693 |
 
+
+
+
+
 # opus-2021-02-12.zip
 
 * dataset: opus
@@ -61,6 +65,10 @@
 | Tatoeba-test.deu.eng 	| 53.4 	| 0.696 |
 | Tatoeba-test.deu-eng.deu.eng 	| 53.4 	| 0.696 |
 
+
+
+
+
 # opus-2021-02-17.zip
 
 * dataset: opus
@@ -92,6 +100,10 @@
 | newstest2019-deen.deu-eng 	| 40.2 	| 0.644 	| 2000 	| 39282 	| 1.000 |
 | Tatoeba-test.deu-eng 	| 53.2 	| 0.695 	| 10000 	| 81233 	| 0.974 |
 
+
+
+
+
 # opus-2021-02-19.zip
 
 * dataset: opus
@@ -122,6 +134,10 @@
 | newstest2018-ende.deu-eng 	| 44.4 	| 0.671 	| 2998 	| 67013 	| 0.985 |
 | newstest2019-deen.deu-eng 	| 40.3 	| 0.645 	| 2000 	| 39282 	| 1.000 |
 | Tatoeba-test.deu-eng 	| 53.3 	| 0.696 	| 10000 	| 81233 	| 0.974 |
+
+
+
+
 
 # opus-2021-02-22.zip
 

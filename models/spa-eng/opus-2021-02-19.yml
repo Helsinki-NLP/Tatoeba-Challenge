@@ -28,6 +28,7 @@ test-data:
    - newstest2012.spa-eng: 3003/72812
    - newstest2013.spa-eng: 3000/64505
    - Tatoeba-test.spa-eng: 10000/79376
+   - tico19-test.spa-eng: 2100/56339
 BLEU-scores:
    - newssyscomb2009.spa-eng: 30.6
    - news-test2008.spa-eng: 27.9
@@ -37,6 +38,7 @@ BLEU-scores:
    - newstest2012.spa-eng: 37.9
    - newstest2013.spa-eng: 35.3
    - Tatoeba-test.spa-eng: 59.6
+   - tico19-test.spa-eng: 48.6
 chr-F-scores:
    - newssyscomb2009.spa-eng: 0.570
    - news-test2008.spa-eng: 0.553
@@ -46,3 +48,4 @@ chr-F-scores:
    - newstest2012.spa-eng: 0.624
    - newstest2013.spa-eng: 0.609
    - Tatoeba-test.spa-eng: 0.739
+   - tico19-test.spa-eng: 0.736

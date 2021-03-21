@@ -17,6 +17,12 @@
 | Tatoeba-test.fin.deu 	| 47.4 	| 0.658 |
 | Tatoeba-test.fin-deu.fin.deu 	| 47.4 	| 0.658 |
 
+
+
+
+
+
+
 # opus-2021-02-18.zip
 
 * dataset: opus

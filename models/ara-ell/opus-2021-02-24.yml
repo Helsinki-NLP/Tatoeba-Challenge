@@ -24,8 +24,11 @@ validation-data:
    - total size of shuffled dev data: 997
    - devset = top 997  lines of Tatoeba-dev.src.shuffled!
 test-data:
+   - Tatoeba-test.arz-ell: 10/40
    - Tatoeba-test.ara-ell: 425/2009
 BLEU-scores:
+   - Tatoeba-test.arz-ell: 26.7
    - Tatoeba-test.ara-ell: 44.9
 chr-F-scores:
+   - Tatoeba-test.arz-ell: 0.590
    - Tatoeba-test.ara-ell: 0.641

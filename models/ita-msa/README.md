@@ -17,6 +17,10 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.ita.msa 	| 26.0 	| 0.536 |
 
+
+
+
+
 # opus-2021-02-24.zip
 
 * dataset: opus
@@ -35,5 +39,7 @@
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.ita-ind 	| 28.7 	| 0.563 	| 368 	| 2333 	| 0.930 |
 | Tatoeba-test.ita-msa 	| 28.0 	| 0.551 	| 426 	| 2765 	| 0.930 |
+| Tatoeba-test.ita-zsm_Latn 	| 22.2 	| 0.479 	| 58 	| 432 	| 0.931 |
 

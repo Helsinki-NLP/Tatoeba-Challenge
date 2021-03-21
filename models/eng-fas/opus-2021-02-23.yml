@@ -31,11 +31,20 @@ validation-data:
    - total size of shuffled dev data: 1996
    - devset = top 1996  lines of Tatoeba-dev.src.shuffled!
 test-data:
+   - Tatoeba-test.eng-pes_Latn: 3/26
+   - Tatoeba-test.eng-pes: 3763/31066
+   - Tatoeba-test.eng-pes_Thaa: 2/40
    - Tatoeba-test.eng-fas: 7536/62270
    - tico19-test.eng-fas: 2100/62758
 BLEU-scores:
+   - Tatoeba-test.eng-pes_Latn: 0.9
+   - Tatoeba-test.eng-pes: 14.7
+   - Tatoeba-test.eng-pes_Thaa: 0.9
    - Tatoeba-test.eng-fas: 11.8
    - tico19-test.eng-fas: 13.7
 chr-F-scores:
+   - Tatoeba-test.eng-pes_Latn: 0.000
+   - Tatoeba-test.eng-pes: 0.390
+   - Tatoeba-test.eng-pes_Thaa: 0.003
    - Tatoeba-test.eng-fas: 0.364
    - tico19-test.eng-fas: 0.422

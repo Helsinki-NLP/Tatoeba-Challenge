@@ -2,8 +2,8 @@
 
 * dataset: opus
 * model: transformer
-* source language(s): eng hoc kha khm mnw vie
-* target language(s): eng kek quc
+* source language(s): 
+* target language(s): 
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)

@@ -14,5 +14,9 @@
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.bos_Latn-eng 	| 62.0 	| 0.778 	| 300 	| 1818 	| 0.961 |
 | Tatoeba-test.hbs-eng 	| 57.0 	| 0.713 	| 10000 	| 69070 	| 0.971 |
+| Tatoeba-test.hrv-eng 	| 57.4 	| 0.727 	| 1468 	| 10556 	| 0.959 |
+| Tatoeba-test.srp_Cyrl-eng 	| 53.9 	| 0.684 	| 1577 	| 10162 	| 0.955 |
+| Tatoeba-test.srp_Latn-eng 	| 57.4 	| 0.710 	| 6655 	| 46297 	| 0.974 |
 

@@ -16,6 +16,9 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.zho.ukr 	| 10.4 	| 0.259 |
 
+
+
+
 # opus-2021-02-24.zip
 
 * dataset: opus
@@ -32,5 +35,10 @@
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.cmn_Hans-ukr 	| 8.9 	| 0.276 	| 853 	| 5212 	| 0.913 |
+| Tatoeba-test.cmn_Hant-ukr 	| 13.2 	| 0.296 	| 530 	| 2804 	| 0.940 |
+| Tatoeba-test.cmn-ukr 	| 63.1 	| 0.540 	| 8 	| 34 	| 1.000 |
+| Tatoeba-test.yue_Hans-ukr 	| 5.7 	| 0.236 	| 82 	| 521 	| 0.965 |
+| Tatoeba-test.yue_Hant-ukr 	| 8.8 	| 0.229 	| 102 	| 574 	| 0.988 |
 | Tatoeba-test.zho-ukr 	| 10.3 	| 0.277 	| 1575 	| 9193 	| 0.924 |
 

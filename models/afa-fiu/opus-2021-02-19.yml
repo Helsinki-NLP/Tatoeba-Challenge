@@ -17,6 +17,7 @@ source-languages:
    - arq
    - arz
    - heb
+   - jpa
    - kab
    - tmr
 target-languages:
@@ -36,8 +37,9 @@ validation-data:
 test-data:
    - Tatoeba-test.ara-fin: 7/34
    - Tatoeba-test.ara-hun: 93/482
+   - Tatoeba-test.arq-hun: 1/6
    - Tatoeba-test.heb-fin: 212/1302
-   - Tatoeba-test.heb-hun: 401/2179
+   - Tatoeba-test.heb-hun: 401/2177
    - Tatoeba-test.jpa-hun: 2/6
    - Tatoeba-test.kab-fin: 14/79
    - Tatoeba-test.multi-multi: 732/4092
@@ -45,8 +47,9 @@ test-data:
 BLEU-scores:
    - Tatoeba-test.ara-fin: 64.7
    - Tatoeba-test.ara-hun: 30.1
+   - Tatoeba-test.arq-hun: 6.6
    - Tatoeba-test.heb-fin: 31.2
-   - Tatoeba-test.heb-hun: 29.7
+   - Tatoeba-test.heb-hun: 29.6
    - Tatoeba-test.jpa-hun: 6.4
    - Tatoeba-test.kab-fin: 0.6
    - Tatoeba-test.multi-multi: 29.8
@@ -54,9 +57,10 @@ BLEU-scores:
 chr-F-scores:
    - Tatoeba-test.ara-fin: 0.701
    - Tatoeba-test.ara-hun: 0.474
+   - Tatoeba-test.arq-hun: 0.160
    - Tatoeba-test.heb-fin: 0.575
    - Tatoeba-test.heb-hun: 0.529
    - Tatoeba-test.jpa-hun: 0.124
-   - Tatoeba-test.kab-fin: 0.119
+   - Tatoeba-test.kab-fin: 0.120
    - Tatoeba-test.multi-multi: 0.528
    - Tatoeba-test.tmr-hun: 0.071

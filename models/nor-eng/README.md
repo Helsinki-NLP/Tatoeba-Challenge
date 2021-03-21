@@ -14,5 +14,8 @@
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.nno-eng 	| 47.4 	| 0.625 	| 460 	| 3523 	| 0.979 |
+| Tatoeba-test.nob-eng 	| 57.9 	| 0.721 	| 4539 	| 36821 	| 0.972 |
+| Tatoeba-test.nob_Hebr-eng 	| 1.2 	| 0.024 	| 1 	| 8 	| 1.000 |
 | Tatoeba-test.nor-eng 	| 57.2 	| 0.715 	| 5000 	| 40355 	| 0.975 |
 

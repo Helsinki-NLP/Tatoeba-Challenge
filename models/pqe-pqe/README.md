@@ -43,12 +43,17 @@
 | Tatoeba-test.ton-eng.ton.eng 	| 45.6 	| 0.491 |
 | Tatoeba-test.tvl-eng.tvl.eng 	| 61.4 	| 0.649 |
 
+
+
+
+
+
 # opus-2021-02-18.zip
 
 * dataset: opus
 * model: transformer
-* source language(s): eng fij gil haw lkt mah mri nau niu rap smo tah ton tvl
-* target language(s): eng fij gil haw lkt mah mri nau niu rap smo tah ton tvl
+* source language(s): 
+* target language(s): 
 * model: transformer
 * pre-processing: normalization + SentencePiece (spm32k,spm32k)
 * a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)

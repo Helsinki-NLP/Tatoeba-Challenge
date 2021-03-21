@@ -28,6 +28,10 @@
 | Tatoeba-test.ukr-fin.ukr.fin 	| 42.8 	| 0.653 |
 | Tatoeba-test.ukr-hun.ukr.hun 	| 40.5 	| 0.647 |
 
+
+
+
+
 # opus-2021-02-17.zip
 
 * dataset: opus
@@ -47,6 +51,10 @@
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.multi-multi 	| 26.5 	| 0.464 	| 10000 	| 59597 	| 0.926 |
+
+
+
+
 
 # opus-2021-02-18.zip
 
@@ -69,13 +77,13 @@
 | Tatoeba-test.bel-est 	| 3.7 	| 0.437 	| 2 	| 31 	| 1.000 |
 | Tatoeba-test.bel-hun 	| 54.8 	| 0.771 	| 3 	| 16 	| 1.000 |
 | Tatoeba-test.multi-multi 	| 26.5 	| 0.464 	| 10000 	| 59597 	| 0.926 |
-| Tatoeba-test.rus-chm 	| 1.3 	| 0.156 	| 2750 	| 18977 	| 0.864 |
-| Tatoeba-test.rus-est 	| 54.4 	| 0.716 	| 598 	| 3572 	| 0.972 |
-| Tatoeba-test.rus-fin 	| 36.9 	| 0.611 	| 3643 	| 19319 	| 0.925 |
-| Tatoeba-test.rus-hun 	| 34.9 	| 0.582 	| 2500 	| 15072 	| 0.970 |
+| Tatoeba-test.rus-chm 	| 0.9 	| 0.154 	| 2750 	| 18927 	| 0.862 |
+| Tatoeba-test.rus-est 	| 54.0 	| 0.714 	| 598 	| 3572 	| 0.971 |
+| Tatoeba-test.rus-fin 	| 36.8 	| 0.610 	| 3643 	| 19307 	| 0.926 |
+| Tatoeba-test.rus-hun 	| 34.8 	| 0.581 	| 2500 	| 15042 	| 0.971 |
 | Tatoeba-test.rus-izh 	| 0.7 	| 0.047 	| 8 	| 33 	| 1.000 |
-| Tatoeba-test.rus-udm 	| 2.7 	| 0.226 	| 54 	| 300 	| 1.000 |
+| Tatoeba-test.rus-udm 	| 2.7 	| 0.224 	| 54 	| 300 	| 1.000 |
 | Tatoeba-test.ukr-est 	| 35.8 	| 0.687 	| 16 	| 85 	| 0.988 |
-| Tatoeba-test.ukr-fin 	| 42.8 	| 0.653 	| 32 	| 186 	| 0.978 |
-| Tatoeba-test.ukr-hun 	| 40.5 	| 0.647 	| 464 	| 2433 	| 0.991 |
+| Tatoeba-test.ukr-fin 	| 41.8 	| 0.640 	| 32 	| 186 	| 0.984 |
+| Tatoeba-test.ukr-hun 	| 40.5 	| 0.647 	| 464 	| 2426 	| 0.993 |
 

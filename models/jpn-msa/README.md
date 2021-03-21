@@ -17,6 +17,11 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.jpn.msa 	| 21.5 	| 0.469 |
 
+
+
+
+
+
 # opus-2021-02-18.zip
 
 * dataset: opus
@@ -35,5 +40,8 @@
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
+| Tatoeba-test.jpn-ind 	| 20.8 	| 0.468 	| 2513 	| 16136 	| 0.919 |
 | Tatoeba-test.jpn-msa 	| 20.6 	| 0.464 	| 2644 	| 17028 	| 0.924 |
+| Tatoeba-test.jpn-zlm_Latn 	| 3.3 	| 0.233 	| 8 	| 51 	| 0.830 |
+| Tatoeba-test.jpn-zsm_Latn 	| 13.0 	| 0.409 	| 123 	| 841 	| 1.000 |
 

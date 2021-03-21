@@ -29,6 +29,7 @@ test-data:
    - newstest2018-enru.rus-eng: 3000/71723
    - newstest2019-ruen.rus-eng: 2000/42875
    - Tatoeba-test.rus-eng: 10000/72902
+   - tico19-test.rus-eng: 2100/56347
 BLEU-scores:
    - newstest2012.rus-eng: 35.1
    - newstest2013.rus-eng: 27.9
@@ -39,6 +40,7 @@ BLEU-scores:
    - newstest2018-enru.rus-eng: 29.4
    - newstest2019-ruen.rus-eng: 31.6
    - Tatoeba-test.rus-eng: 57.8
+   - tico19-test.rus-eng: 29.4
 chr-F-scores:
    - newstest2012.rus-eng: 0.609
    - newstest2013.rus-eng: 0.547
@@ -49,3 +51,4 @@ chr-F-scores:
    - newstest2018-enru.rus-eng: 0.569
    - newstest2019-ruen.rus-eng: 0.582
    - Tatoeba-test.rus-eng: 0.716
+   - tico19-test.rus-eng: 0.603

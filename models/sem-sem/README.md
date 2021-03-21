@@ -22,6 +22,10 @@
 | Tatoeba-test.mlt-ara.mlt.ara 	| 20.7 	| 0.388 |
 | Tatoeba-test.multi.multi 	| 27.1 	| 0.507 |
 
+
+
+
+
 # opus-2020-09-26.zip
 
 * dataset: opus
@@ -69,6 +73,10 @@
 | Tatoeba-test.tmr-eng.tmr.eng 	| 2.2 	| 0.141 |
 | Tatoeba-test.tmr-heb.tmr.heb 	| 1.0 	| 0.142 |
 | Tatoeba-test.tmr-phn.tmr.phn 	| 0.0 	| 0.017 |
+
+
+
+
 
 # opus-2020-10-04.zip
 
@@ -118,6 +126,10 @@
 | Tatoeba-test.tmr-heb.tmr.heb 	| 1.0 	| 0.134 |
 | Tatoeba-test.tmr-phn.tmr.phn 	| 0.0 	| 0.017 |
 
+
+
+
+
 # opus-2021-02-24.zip
 
 * dataset: opus
@@ -136,11 +148,29 @@
 
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
-| Tatoeba-test.ara-ara 	| 2.9 	| 0.181 	| 16 	| 60 	| 1.000 |
-| Tatoeba-test.ara-heb 	| 35.8 	| 0.565 	| 1208 	| 6801 	| 1.000 |
-| Tatoeba-test.ara-mlt 	| 20.3 	| 0.575 	| 28 	| 88 	| 1.000 |
+| Tatoeba-test.afb-tmr_Hebr 	| 10.7 	| 0.019 	| 1 	| 3 	| 1.000 |
+| Tatoeba-test.apc-ara 	| 29.8 	| 0.385 	| 2 	| 9 	| 0.882 |
+| Tatoeba-test.apc-arz 	| 6.4 	| 0.105 	| 2 	| 6 	| 1.000 |
+| Tatoeba-test.apc-heb 	| 27.5 	| 0.234 	| 1 	| 5 	| 0.779 |
+| Tatoeba-test.apc-tmr_Hebr 	| 7.6 	| 0.014 	| 2 	| 7 	| 1.000 |
+| Tatoeba-test.ara-apc 	| 5.5 	| 0.012 	| 2 	| 8 	| 1.000 |
+| Tatoeba-test.ara-ara 	| 2.9 	| 0.176 	| 16 	| 60 	| 1.000 |
+| Tatoeba-test.ara-arq 	| 4.8 	| 0.086 	| 1 	| 5 	| 1.000 |
+| Tatoeba-test.ara-arz 	| 1.1 	| 0.095 	| 2 	| 9 	| 1.000 |
+| Tatoeba-test.ara-heb 	| 35.8 	| 0.566 	| 1208 	| 6800 	| 1.000 |
+| Tatoeba-test.ara-mlt 	| 19.7 	| 0.553 	| 28 	| 88 	| 1.000 |
 | Tatoeba-test.ara-tmr 	| 2.2 	| 0.013 	| 8 	| 28 	| 1.000 |
-| Tatoeba-test.heb-ara 	| 20.1 	| 0.497 	| 1208 	| 6372 	| 0.900 |
+| Tatoeba-test.ara-tmr_Hebr 	| 5.3 	| 0.012 	| 3 	| 11 	| 1.000 |
+| Tatoeba-test.arq-ara 	| 10.7 	| 0.056 	| 1 	| 5 	| 1.000 |
+| Tatoeba-test.arq-heb 	| 16.0 	| 0.179 	| 1 	| 4 	| 1.000 |
+| Tatoeba-test.arz-apc 	| 4.1 	| 0.007 	| 2 	| 6 	| 1.000 |
+| Tatoeba-test.arz-ara 	| 31.2 	| 0.672 	| 2 	| 9 	| 1.000 |
+| Tatoeba-test.arz-heb 	| 0.5 	| 0.048 	| 2 	| 10 	| 1.000 |
+| Tatoeba-test.arz-tmr_Hebr 	| 4.8 	| 0.013 	| 2 	| 7 	| 1.000 |
+| Tatoeba-test.heb-apc 	| 12.7 	| 0.251 	| 1 	| 4 	| 1.000 |
+| Tatoeba-test.heb-ara 	| 20.2 	| 0.495 	| 1208 	| 6371 	| 0.896 |
+| Tatoeba-test.heb-arq 	| 6.6 	| 0.008 	| 1 	| 4 	| 1.000 |
+| Tatoeba-test.heb-arz 	| 2.5 	| 0.242 	| 2 	| 8 	| 1.000 |
 | Tatoeba-test.heb-jpa 	| 10.7 	| 0.012 	| 1 	| 4 	| 1.000 |
 | Tatoeba-test.heb-oar 	| 0.1 	| 0.001 	| 8 	| 95 	| 1.000 |
 | Tatoeba-test.heb-phn 	| 1.9 	| 0.008 	| 9 	| 47 	| 1.000 |
@@ -148,7 +178,7 @@
 | Tatoeba-test.heb-tmr 	| 0.6 	| 0.005 	| 16 	| 94 	| 1.000 |
 | Tatoeba-test.jpa-heb 	| 12.7 	| 0.142 	| 1 	| 4 	| 1.000 |
 | Tatoeba-test.jpa-tmr 	| 6.6 	| 0.013 	| 1 	| 4 	| 1.000 |
-| Tatoeba-test.mlt-ara 	| 13.5 	| 0.451 	| 28 	| 91 	| 0.966 |
+| Tatoeba-test.mlt-ara 	| 13.8 	| 0.437 	| 28 	| 91 	| 0.944 |
 | Tatoeba-test.multi-multi 	| 26.1 	| 0.498 	| 2596 	| 14039 	| 1.000 |
 | Tatoeba-test.oar-heb 	| 0.8 	| 0.062 	| 8 	| 82 	| 0.937 |
 | Tatoeba-test.oar-syc 	| 0.2 	| 0.000 	| 1 	| 6 	| 1.000 |
@@ -158,6 +188,10 @@
 | Tatoeba-test.syc-oar 	| 0.0 	| 0.000 	| 1 	| 6 	| 0.368 |
 | Tatoeba-test.tmr-ara 	| 1.4 	| 0.077 	| 8 	| 24 	| 1.000 |
 | Tatoeba-test.tmr-heb 	| 1.0 	| 0.134 	| 16 	| 102 	| 0.918 |
+| Tatoeba-test.tmr_Hebr-afb 	| 0.0 	| 0.000 	| 1 	| 2 	| 0.368 |
+| Tatoeba-test.tmr_Hebr-apc 	| 1.5 	| 0.032 	| 2 	| 6 	| 1.000 |
+| Tatoeba-test.tmr_Hebr-ara 	| 4.3 	| 0.170 	| 3 	| 10 	| 1.000 |
+| Tatoeba-test.tmr_Hebr-arz 	| 3.2 	| 0.045 	| 2 	| 6 	| 1.000 |
 | Tatoeba-test.tmr-jpa 	| 0.0 	| 0.000 	| 1 	| 4 	| 0.050 |
 | Tatoeba-test.tmr-phn 	| 0.0 	| 0.017 	| 1 	| 4 	| 0.717 |
 | tico19-test.eng-amh 	| 4.3 	| 0.238 	| 2100 	| 44943 	| 0.826 |

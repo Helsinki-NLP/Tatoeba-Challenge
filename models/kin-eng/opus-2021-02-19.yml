@@ -21,7 +21,10 @@ validation-data:
    - devset = top 982  lines of Tatoeba-dev.src.shuffled!
 test-data:
    - Tatoeba-test.kin-eng: 17/113
+   - tico19-test.kin-eng: 2100/56347
 BLEU-scores:
    - Tatoeba-test.kin-eng: 29.5
+   - tico19-test.kin-eng: 8.4
 chr-F-scores:
    - Tatoeba-test.kin-eng: 0.465
+   - tico19-test.kin-eng: 0.310

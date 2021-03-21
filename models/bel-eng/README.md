@@ -15,4 +15,5 @@
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.bel-eng 	| 10.0 	| 0.268 	| 2500 	| 18571 	| 0.882 |
+| Tatoeba-test.bel_Latn-eng 	| 0.0 	| 0.033 	| 3 	| 26 	| 0.004 |
 

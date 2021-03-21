@@ -15,5 +15,8 @@
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.fas-eng 	| 38.2 	| 0.566 	| 7536 	| 63016 	| 0.969 |
+| Tatoeba-test.pes-eng 	| 38.3 	| 0.568 	| 3763 	| 31435 	| 0.969 |
+| Tatoeba-test.pes_Latn-eng 	| 2.3 	| 0.102 	| 3 	| 28 	| 0.964 |
+| Tatoeba-test.pes_Thaa-eng 	| 1.0 	| 0.083 	| 2 	| 41 	| 0.562 |
 | tico19-test.fas-eng 	| 18.5 	| 0.451 	| 2100 	| 56339 	| 0.976 |
 
