@@ -14,9 +14,9 @@ source-languages:
 target-languages:
    - ber
 use-target-labels:
-   '>>ber_Arab<<'
-   '>>ber_Latn<<'
-   '>>ber_Tfng<<'
+   - ">>ber_Arab<<"
+   - ">>ber_Latn<<"
+   - ">>ber_Tfng<<"
 test-data:
    Tatoeba-test.eng-ber: 10000/53939
 BLEU-scores:

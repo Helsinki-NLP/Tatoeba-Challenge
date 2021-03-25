@@ -26,19 +26,19 @@ target-languages:
    - ton
    - tvl
 use-target-labels:
-   '>>fij<<'
-   '>>gil<<'
-   '>>haw<<'
-   '>>lkt<<'
-   '>>mah<<'
-   '>>mri<<'
-   '>>nau<<'
-   '>>niu<<'
-   '>>rap<<'
-   '>>smo<<'
-   '>>tah<<'
-   '>>ton<<'
-   '>>tvl<<'
+   - ">>fij<<"
+   - ">>gil<<"
+   - ">>haw<<"
+   - ">>lkt<<"
+   - ">>mah<<"
+   - ">>mri<<"
+   - ">>nau<<"
+   - ">>niu<<"
+   - ">>rap<<"
+   - ">>smo<<"
+   - ">>tah<<"
+   - ">>ton<<"
+   - ">>tvl<<"
 test-data:
    Tatoeba-test.eng-fij: 44/122
    Tatoeba-test.eng-gil: 14/60

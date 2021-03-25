@@ -10,25 +10,25 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>bel<<'
-   '>>bel_Latn<<'
-   '>>bos_Cyrl<<'
-   '>>bos_Latn<<'
-   '>>bul<<'
-   '>>ces<<'
-   '>>dsb<<'
-   '>>hbs<<'
-   '>>hbs_Cyrl<<'
-   '>>hrv<<'
-   '>>hsb<<'
-   '>>mkd<<'
-   '>>orv_Cyrl<<'
-   '>>pol<<'
-   '>>rus<<'
-   '>>slv<<'
-   '>>srp_Cyrl<<'
-   '>>srp_Latn<<'
-   '>>ukr<<'
+   - ">>bel<<"
+   - ">>bel_Latn<<"
+   - ">>bos_Cyrl<<"
+   - ">>bos_Latn<<"
+   - ">>bul<<"
+   - ">>ces<<"
+   - ">>dsb<<"
+   - ">>hbs<<"
+   - ">>hbs_Cyrl<<"
+   - ">>hrv<<"
+   - ">>hsb<<"
+   - ">>mkd<<"
+   - ">>orv_Cyrl<<"
+   - ">>pol<<"
+   - ">>rus<<"
+   - ">>slv<<"
+   - ">>srp_Cyrl<<"
+   - ">>srp_Latn<<"
+   - ">>ukr<<"
 source-languages:
    - bel
    - bos

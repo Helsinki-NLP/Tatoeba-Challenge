@@ -20,14 +20,14 @@ target-languages:
    - non
    - swe
 use-target-labels:
-   '>>dan<<'
-   '>>fao<<'
-   '>>isl<<'
-   '>>nno<<'
-   '>>nob<<'
-   '>>nob_Hebr<<'
-   '>>non_Latn<<'
-   '>>swe<<'
+   - ">>dan<<"
+   - ">>fao<<"
+   - ">>isl<<"
+   - ">>nno<<"
+   - ">>nob<<"
+   - ">>nob_Hebr<<"
+   - ">>non_Latn<<"
+   - ">>swe<<"
 test-data:
    Tatoeba-test.eng-dan: 10000/61469
    Tatoeba-test.eng-fao: 294/1564

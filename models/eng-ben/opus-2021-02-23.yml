@@ -10,10 +10,10 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>ben<<'
-   '>>ben_Cyrl<<'
-   '>>ben_Deva<<'
-   '>>ben_Gujr<<'
+   - ">>ben<<"
+   - ">>ben_Cyrl<<"
+   - ">>ben_Deva<<"
+   - ">>ben_Gujr<<"
 source-languages:
    - eng
 target-languages:

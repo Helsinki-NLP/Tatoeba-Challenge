@@ -10,12 +10,12 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>deu<<'
-   '>>eng<<'
-   '>>fin<<'
-   '>>fra<<'
-   '>>nld<<'
-   '>>swe<<'
+   - ">>deu<<"
+   - ">>eng<<"
+   - ">>fin<<"
+   - ">>fra<<"
+   - ">>nld<<"
+   - ">>swe<<"
 source-languages:
    - deu
    - eng

@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - por
 use-target-labels:
-   '>>por<<'
-   '>>por_Hira<<'
+   - ">>por<<"
+   - ">>por_Hira<<"
 test-data:
    Tatoeba-test.jpn-por: 1943/13117
 BLEU-scores:

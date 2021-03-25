@@ -24,12 +24,12 @@ target-languages:
    - nob
    - swe
 use-target-labels:
-   '>>dan<<'
-   '>>fao<<'
-   '>>isl<<'
-   '>>nno<<'
-   '>>nob<<'
-   '>>swe<<'
+   - ">>dan<<"
+   - ">>fao<<"
+   - ">>isl<<"
+   - ">>nno<<"
+   - ">>nob<<"
+   - ">>swe<<"
 test-data:
    Tatoeba-test.dan-fao: 1/5
    Tatoeba-test.dan-isl: 1/8

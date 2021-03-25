@@ -35,20 +35,20 @@ target-languages:
    - wuu
    - yue
 use-target-labels:
-   '>>cjy_Hans<<'
-   '>>cjy_Hant<<'
-   '>>cmn<<'
-   '>>cmn_Hans<<'
-   '>>cmn_Hant<<'
-   '>>hak<<'
-   '>>hsn<<'
-   '>>hsn_Hani<<'
-   '>>lzh<<'
-   '>>lzh_Hans<<'
-   '>>nan<<'
-   '>>wuu<<'
-   '>>yue_Hans<<'
-   '>>yue_Hant<<'
+   - ">>cjy_Hans<<"
+   - ">>cjy_Hant<<"
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>hak<<"
+   - ">>hsn<<"
+   - ">>hsn_Hani<<"
+   - ">>lzh<<"
+   - ">>lzh_Hans<<"
+   - ">>nan<<"
+   - ">>wuu<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
 test-data:
    Tatoeba-test.cat-zho: 122/123
    Tatoeba-test.fra-zho: 10000/10132

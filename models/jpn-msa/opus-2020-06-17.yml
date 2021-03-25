@@ -16,9 +16,9 @@ target-languages:
    - zlm
    - zsm
 use-target-labels:
-   '>>ind<<'
-   '>>zlm_Latn<<'
-   '>>zsm_Latn<<'
+   - ">>ind<<"
+   - ">>zlm_Latn<<"
+   - ">>zsm_Latn<<"
 test-data:
    Tatoeba-test.jpn-msa: 2644/14005
 BLEU-scores:

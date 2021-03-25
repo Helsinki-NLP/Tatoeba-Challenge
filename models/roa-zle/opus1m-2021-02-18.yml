@@ -10,12 +10,12 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>bel<<'
-   '>>bel_Latn<<'
-   '>>orv_Cyrl<<'
-   '>>rue<<'
-   '>>rus<<'
-   '>>ukr<<'
+   - ">>bel<<"
+   - ">>bel_Latn<<"
+   - ">>orv_Cyrl<<"
+   - ">>rue<<"
+   - ">>rus<<"
+   - ">>ukr<<"
 source-languages:
    - ast
    - cat

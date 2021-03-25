@@ -19,12 +19,12 @@ target-languages:
    - gle
    - glv
 use-target-labels:
-   '>>bre<<'
-   '>>cor<<'
-   '>>cym<<'
-   '>>gla<<'
-   '>>gle<<'
-   '>>glv<<'
+   - ">>bre<<"
+   - ">>cor<<"
+   - ">>cym<<"
+   - ">>gla<<"
+   - ">>gle<<"
+   - ">>glv<<"
 test-data:
    Tatoeba-test.eng-bre: 383/1864
    Tatoeba-test.eng-cor: 3198/14464

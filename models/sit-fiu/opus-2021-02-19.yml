@@ -10,9 +10,9 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>fin<<'
-   '>>hun<<'
-   '>>mhr<<'
+   - ">>fin<<"
+   - ">>hun<<"
+   - ">>mhr<<"
 source-languages:
    - cmn
    - nan

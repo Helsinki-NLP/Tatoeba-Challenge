@@ -15,8 +15,8 @@ target-languages:
    - ind
    - zsm
 use-target-labels:
-   '>>ind<<'
-   '>>zsm_Latn<<'
+   - ">>ind<<"
+   - ">>zsm_Latn<<"
 test-data:
    Tatoeba-test.ita-msa: 426/2279
 BLEU-scores:

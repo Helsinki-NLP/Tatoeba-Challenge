@@ -10,11 +10,11 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>ind<<'
-   '>>msa_Latn<<'
-   '>>pap<<'
-   '>>zlm<<'
-   '>>zlm_Latn<<'
+   - ">>ind<<"
+   - ">>msa_Latn<<"
+   - ">>pap<<"
+   - ">>zlm<<"
+   - ">>zlm_Latn<<"
 source-languages:
    - ind
    - msa

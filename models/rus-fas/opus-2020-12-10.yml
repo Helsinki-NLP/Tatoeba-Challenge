@@ -15,8 +15,8 @@ target-languages:
    - fas
    - pes
 use-target-labels:
-   '>>fas<<'
-   '>>pes<<'
+   - ">>fas<<"
+   - ">>pes<<"
 test-data:
    Tatoeba-test.rus-fas: 5/32
 BLEU-scores:

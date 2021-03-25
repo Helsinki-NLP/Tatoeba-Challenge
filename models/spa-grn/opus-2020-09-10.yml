@@ -15,8 +15,8 @@ target-languages:
    - grn
    - gug
 use-target-labels:
-   '>>grn<<'
-   '>>gug<<'
+   - ">>grn<<"
+   - ">>gug<<"
 test-data:
    Tatoeba-test.spa-grn: 609/2359
 BLEU-scores:

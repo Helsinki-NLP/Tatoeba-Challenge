@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - tgl
 use-target-labels:
-   '>>tgl<<'
-   '>>tgl_Latn<<'
+   - ">>tgl<<"
+   - ">>tgl_Latn<<"
 test-data:
    Tatoeba-test.epo-tgl: 1105/7471
 BLEU-scores:

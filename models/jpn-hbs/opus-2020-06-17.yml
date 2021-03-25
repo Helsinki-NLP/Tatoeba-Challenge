@@ -16,10 +16,10 @@ target-languages:
    - hrv
    - srp
 use-target-labels:
-   '>>bos_Latn<<'
-   '>>hrv<<'
-   '>>srp_Cyrl<<'
-   '>>srp_Latn<<'
+   - ">>bos_Latn<<"
+   - ">>hrv<<"
+   - ">>srp_Cyrl<<"
+   - ">>srp_Latn<<"
 test-data:
    Tatoeba-test.jpn-hbs: 400/2064
 BLEU-scores:

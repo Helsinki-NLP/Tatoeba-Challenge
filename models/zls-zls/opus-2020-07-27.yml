@@ -18,9 +18,9 @@ target-languages:
    - mkd
    - srp
 use-target-labels:
-   '>>bul<<'
-   '>>mkd<<'
-   '>>srp_Cyrl<<'
+   - ">>bul<<"
+   - ">>mkd<<"
+   - ">>srp_Cyrl<<"
 test-data:
    Tatoeba-test.bul-hbs: 1/5
    Tatoeba-test.bul-mkd: 3/13

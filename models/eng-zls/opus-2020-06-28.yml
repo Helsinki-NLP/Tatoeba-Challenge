@@ -16,10 +16,10 @@ target-languages:
    - mkd
    - slv
 use-target-labels:
-   '>>bul<<'
-   '>>bul_Latn<<'
-   '>>mkd<<'
-   '>>slv<<'
+   - ">>bul<<"
+   - ">>bul_Latn<<"
+   - ">>mkd<<"
+   - ">>slv<<"
 test-data:
    Tatoeba-test.eng-bul: 10000/56740
    Tatoeba-test.eng-mkd: 10000/51245

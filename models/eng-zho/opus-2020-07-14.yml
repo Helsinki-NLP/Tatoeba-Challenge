@@ -20,19 +20,19 @@ target-languages:
    - wuu
    - yue
 use-target-labels:
-   '>>cjy_Hans<<'
-   '>>cjy_Hant<<'
-   '>>cmn<<'
-   '>>cmn_Hans<<'
-   '>>cmn_Hant<<'
-   '>>gan<<'
-   '>>lzh<<'
-   '>>lzh_Hans<<'
-   '>>nan<<'
-   '>>wuu<<'
-   '>>yue<<'
-   '>>yue_Hans<<'
-   '>>yue_Hant<<'
+   - ">>cjy_Hans<<"
+   - ">>cjy_Hant<<"
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>gan<<"
+   - ">>lzh<<"
+   - ">>lzh_Hans<<"
+   - ">>nan<<"
+   - ">>wuu<<"
+   - ">>yue<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
 test-data:
    Tatoeba-test.eng-zho: 10000/10211
 BLEU-scores:

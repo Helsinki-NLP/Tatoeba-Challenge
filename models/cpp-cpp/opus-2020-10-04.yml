@@ -32,17 +32,17 @@ target-languages:
    - zlm
    - zsm
 use-target-labels:
-   '>>eng<<'
-   '>>ind<<'
-   '>>jak_Latn<<'
-   '>>max_Latn<<'
-   '>>min<<'
-   '>>msa_Latn<<'
-   '>>pap<<'
-   '>>tmw_Latn<<'
-   '>>zlm<<'
-   '>>zlm_Latn<<'
-   '>>zsm_Latn<<'
+   - ">>eng<<"
+   - ">>ind<<"
+   - ">>jak_Latn<<"
+   - ">>max_Latn<<"
+   - ">>min<<"
+   - ">>msa_Latn<<"
+   - ">>pap<<"
+   - ">>tmw_Latn<<"
+   - ">>zlm<<"
+   - ">>zlm_Latn<<"
+   - ">>zsm_Latn<<"
 test-data:
    Tatoeba-test.eng-msa: 5000/27896
    Tatoeba-test.eng-pap: 70/287

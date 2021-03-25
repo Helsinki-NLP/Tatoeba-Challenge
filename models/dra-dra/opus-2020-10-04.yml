@@ -22,12 +22,12 @@ target-languages:
    - tam
    - tel
 use-target-labels:
-   '>>eng<<'
-   '>>kan<<'
-   '>>mal<<'
-   '>>tam<<'
-   '>>tam_Deva<<'
-   '>>tel<<'
+   - ">>eng<<"
+   - ">>kan<<"
+   - ">>mal<<"
+   - ">>tam<<"
+   - ">>tam_Deva<<"
+   - ">>tel<<"
 test-data:
    Tatoeba-test.eng-kan: 167/783
    Tatoeba-test.eng-mal: 802/3459

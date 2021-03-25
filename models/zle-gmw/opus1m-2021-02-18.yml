@@ -10,17 +10,17 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>afr<<'
-   '>>ang_Latn<<'
-   '>>deu<<'
-   '>>eng<<'
-   '>>enm_Latn<<'
-   '>>fry<<'
-   '>>gos<<'
-   '>>ltz<<'
-   '>>nds<<'
-   '>>nld<<'
-   '>>yid<<'
+   - ">>afr<<"
+   - ">>ang_Latn<<"
+   - ">>deu<<"
+   - ">>eng<<"
+   - ">>enm_Latn<<"
+   - ">>fry<<"
+   - ">>gos<<"
+   - ">>ltz<<"
+   - ">>nds<<"
+   - ">>nld<<"
+   - ">>yid<<"
 source-languages:
    - bel
    - orv

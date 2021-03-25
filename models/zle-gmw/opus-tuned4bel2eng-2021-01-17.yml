@@ -41,30 +41,30 @@ target-languages:
    - yid
    - zea
 use-target-labels:
-   '>>afr<<'
-   '>>ang<<'
-   '>>deu<<'
-   '>>eng<<'
-   '>>enm<<'
-   '>>frr<<'
-   '>>fry<<'
-   '>>gos<<'
-   '>>gsw<<'
-   '>>ksh<<'
-   '>>lim<<'
-   '>>ltz<<'
-   '>>nds<<'
-   '>>nld<<'
-   '>>ofs<<'
-   '>>osx<<'
-   '>>pdc<<'
-   '>>pfl<<'
-   '>>sco<<'
-   '>>stq<<'
-   '>>swg<<'
-   '>>wae<<'
-   '>>yid<<'
-   '>>zea<<'
+   - ">>afr<<"
+   - ">>ang<<"
+   - ">>deu<<"
+   - ">>eng<<"
+   - ">>enm<<"
+   - ">>frr<<"
+   - ">>fry<<"
+   - ">>gos<<"
+   - ">>gsw<<"
+   - ">>ksh<<"
+   - ">>lim<<"
+   - ">>ltz<<"
+   - ">>nds<<"
+   - ">>nld<<"
+   - ">>ofs<<"
+   - ">>osx<<"
+   - ">>pdc<<"
+   - ">>pfl<<"
+   - ">>sco<<"
+   - ">>stq<<"
+   - ">>swg<<"
+   - ">>wae<<"
+   - ">>yid<<"
+   - ">>zea<<"
 test-data:
    Tatoeba-test.bel-eng: 2500/15535
    Tatoeba-test.multi-multi: 10000/56628

@@ -16,9 +16,9 @@ target-languages:
    - hat
    - mfe
 use-target-labels:
-   '>>gcf_Latn<<'
-   '>>hat<<'
-   '>>mfe<<'
+   - ">>gcf_Latn<<"
+   - ">>hat<<"
+   - ">>mfe<<"
 test-data:
    Tatoeba-test.eng-gcf: 99/457
    Tatoeba-test.eng-hat: 64/311

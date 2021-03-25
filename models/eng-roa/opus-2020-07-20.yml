@@ -47,41 +47,41 @@ target-languages:
    - zlm
    - zsm
 use-target-labels:
-   '>>arg<<'
-   '>>ast<<'
-   '>>cat<<'
-   '>>cos<<'
-   '>>egl<<'
-   '>>ext<<'
-   '>>fra<<'
-   '>>frm_Latn<<'
-   '>>gcf_Latn<<'
-   '>>glg<<'
-   '>>hat<<'
-   '>>ind<<'
-   '>>ita<<'
-   '>>lad<<'
-   '>>lad_Latn<<'
-   '>>lij<<'
-   '>>lld_Latn<<'
-   '>>lmo<<'
-   '>>max_Latn<<'
-   '>>mfe<<'
-   '>>min<<'
-   '>>mwl<<'
-   '>>oci<<'
-   '>>pap<<'
-   '>>pms<<'
-   '>>por<<'
-   '>>roh<<'
-   '>>ron<<'
-   '>>scn<<'
-   '>>spa<<'
-   '>>tmw_Latn<<'
-   '>>vec<<'
-   '>>wln<<'
-   '>>zlm_Latn<<'
-   '>>zsm_Latn<<'
+   - ">>arg<<"
+   - ">>ast<<"
+   - ">>cat<<"
+   - ">>cos<<"
+   - ">>egl<<"
+   - ">>ext<<"
+   - ">>fra<<"
+   - ">>frm_Latn<<"
+   - ">>gcf_Latn<<"
+   - ">>glg<<"
+   - ">>hat<<"
+   - ">>ind<<"
+   - ">>ita<<"
+   - ">>lad<<"
+   - ">>lad_Latn<<"
+   - ">>lij<<"
+   - ">>lld_Latn<<"
+   - ">>lmo<<"
+   - ">>max_Latn<<"
+   - ">>mfe<<"
+   - ">>min<<"
+   - ">>mwl<<"
+   - ">>oci<<"
+   - ">>pap<<"
+   - ">>pms<<"
+   - ">>por<<"
+   - ">>roh<<"
+   - ">>ron<<"
+   - ">>scn<<"
+   - ">>spa<<"
+   - ">>tmw_Latn<<"
+   - ">>vec<<"
+   - ">>wln<<"
+   - ">>zlm_Latn<<"
+   - ">>zsm_Latn<<"
 test-data:
    Tatoeba-test.eng-arg: 105/292
    Tatoeba-test.eng-ast: 99/596

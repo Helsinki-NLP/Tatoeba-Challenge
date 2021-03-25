@@ -30,19 +30,19 @@ target-languages:
    - slv
    - srp
 use-target-labels:
-   '>>bos_Cyrl<<'
-   '>>bos_Latn<<'
-   '>>bul<<'
-   '>>cnr<<'
-   '>>cnr_Latn<<'
-   '>>eng<<'
-   '>>hbs<<'
-   '>>hbs_Cyrl<<'
-   '>>hrv<<'
-   '>>mkd<<'
-   '>>slv<<'
-   '>>srp_Cyrl<<'
-   '>>srp_Latn<<'
+   - ">>bos_Cyrl<<"
+   - ">>bos_Latn<<"
+   - ">>bul<<"
+   - ">>cnr<<"
+   - ">>cnr_Latn<<"
+   - ">>eng<<"
+   - ">>hbs<<"
+   - ">>hbs_Cyrl<<"
+   - ">>hrv<<"
+   - ">>mkd<<"
+   - ">>slv<<"
+   - ">>srp_Cyrl<<"
+   - ">>srp_Latn<<"
 test-data:
    Tatoeba-test.bul-eng: 10000/60705
    Tatoeba-test.bul-hbs: 1/5

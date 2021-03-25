@@ -15,8 +15,8 @@ target-languages:
    - mol
    - ron
 use-target-labels:
-   '>>mol<<'
-   '>>ron<<'
+   - ">>mol<<"
+   - ">>ron<<"
 test-data:
    Tatoeba-test.epo-ron: 3820/21166
 BLEU-scores:

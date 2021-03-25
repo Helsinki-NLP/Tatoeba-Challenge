@@ -10,8 +10,8 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>tgl<<'
-   '>>tgl_Latn<<'
+   - ">>tgl<<"
+   - ">>tgl_Latn<<"
 source-languages:
    - fra
 target-languages:

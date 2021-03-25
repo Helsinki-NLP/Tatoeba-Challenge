@@ -10,8 +10,8 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>hye<<'
-   '>>hye_Latn<<'
+   - ">>hye<<"
+   - ">>hye_Latn<<"
 source-languages:
    - rus
 target-languages:

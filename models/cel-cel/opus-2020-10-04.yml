@@ -26,13 +26,13 @@ target-languages:
    - gle
    - glv
 use-target-labels:
-   '>>bre<<'
-   '>>cor<<'
-   '>>cym<<'
-   '>>eng<<'
-   '>>gla<<'
-   '>>gle<<'
-   '>>glv<<'
+   - ">>bre<<"
+   - ">>cor<<"
+   - ">>cym<<"
+   - ">>eng<<"
+   - ">>gla<<"
+   - ">>gle<<"
+   - ">>glv<<"
 test-data:
    Tatoeba-test.bre-eng: 383/1644
    Tatoeba-test.cor-cym: 3/16

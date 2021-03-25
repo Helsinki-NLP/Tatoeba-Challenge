@@ -17,10 +17,10 @@ target-languages:
    - tam
    - tel
 use-target-labels:
-   '>>kan<<'
-   '>>mal<<'
-   '>>tam<<'
-   '>>tel<<'
+   - ">>kan<<"
+   - ">>mal<<"
+   - ">>tam<<"
+   - ">>tel<<"
 test-data:
    Tatoeba-test.eng-kan: 167/783
    Tatoeba-test.eng-mal: 802/3459

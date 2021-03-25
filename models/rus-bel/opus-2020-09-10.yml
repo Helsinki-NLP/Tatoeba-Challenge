@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - bel
 use-target-labels:
-   '>>bel<<'
-   '>>bel_Latn<<'
+   - ">>bel<<"
+   - ">>bel_Latn<<"
 test-data:
    Tatoeba-test.rus-bel: 2500/15122
 BLEU-scores:

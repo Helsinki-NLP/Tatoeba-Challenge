@@ -15,8 +15,8 @@ target-languages:
    - nno
    - nob
 use-target-labels:
-   '>>nno<<'
-   '>>nob<<'
+   - ">>nno<<"
+   - ">>nob<<"
 test-data:
    Tatoeba-test.fra-nor: 476/2567
 BLEU-scores:

@@ -42,21 +42,21 @@ target-languages:
    - tir
    - tmr
 use-target-labels:
-   '>>acm<<'
-   '>>afb<<'
-   '>>amh<<'
-   '>>apc<<'
-   '>>ara<<'
-   '>>arq<<'
-   '>>ary<<'
-   '>>arz<<'
-   '>>eng<<'
-   '>>heb<<'
-   '>>mlt<<'
-   '>>phn_Phnx<<'
-   '>>syc_Syrc<<'
-   '>>tir<<'
-   '>>tmr_Hebr<<'
+   - ">>acm<<"
+   - ">>afb<<"
+   - ">>amh<<"
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>ary<<"
+   - ">>arz<<"
+   - ">>eng<<"
+   - ">>heb<<"
+   - ">>mlt<<"
+   - ">>phn_Phnx<<"
+   - ">>syc_Syrc<<"
+   - ">>tir<<"
+   - ">>tmr_Hebr<<"
 test-data:
    Tatoeba-test.amh-eng: 190/802
    Tatoeba-test.ara-ara: 16/48

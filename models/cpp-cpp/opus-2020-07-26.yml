@@ -16,8 +16,8 @@ target-languages:
    - ind
    - pap
 use-target-labels:
-   '>>ind<<'
-   '>>pap<<'
+   - ">>ind<<"
+   - ">>pap<<"
 test-data:
    Tatoeba-test.msa-msa: 870/4915
    Tatoeba-test.msa-pap: 2/8

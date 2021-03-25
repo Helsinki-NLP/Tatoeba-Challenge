@@ -26,13 +26,13 @@ target-languages:
    - pag
    - war
 use-target-labels:
-   '>>akl_Latn<<'
-   '>>ceb<<'
-   '>>eng<<'
-   '>>hil<<'
-   '>>ilo<<'
-   '>>pag<<'
-   '>>war<<'
+   - ">>akl_Latn<<"
+   - ">>ceb<<"
+   - ">>eng<<"
+   - ">>hil<<"
+   - ">>ilo<<"
+   - ">>pag<<"
+   - ">>war<<"
 test-data:
    Tatoeba-test.akl-eng: 27/60
    Tatoeba-test.ceb-eng: 378/1873

@@ -33,27 +33,27 @@ target-languages:
    - zlm
    - zsm
 use-target-labels:
-   '>>akl_Latn<<'
-   '>>ceb<<'
-   '>>cha<<'
-   '>>dtp<<'
-   '>>hil<<'
-   '>>iba<<'
-   '>>ilo<<'
-   '>>ind<<'
-   '>>jav<<'
-   '>>jav_Java<<'
-   '>>mad<<'
-   '>>max_Latn<<'
-   '>>min<<'
-   '>>mlg<<'
-   '>>pag<<'
-   '>>pau<<'
-   '>>sun<<'
-   '>>tmw_Latn<<'
-   '>>war<<'
-   '>>zlm_Latn<<'
-   '>>zsm_Latn<<'
+   - ">>akl_Latn<<"
+   - ">>ceb<<"
+   - ">>cha<<"
+   - ">>dtp<<"
+   - ">>hil<<"
+   - ">>iba<<"
+   - ">>ilo<<"
+   - ">>ind<<"
+   - ">>jav<<"
+   - ">>jav_Java<<"
+   - ">>mad<<"
+   - ">>max_Latn<<"
+   - ">>min<<"
+   - ">>mlg<<"
+   - ">>pag<<"
+   - ">>pau<<"
+   - ">>sun<<"
+   - ">>tmw_Latn<<"
+   - ">>war<<"
+   - ">>zlm_Latn<<"
+   - ">>zsm_Latn<<"
 test-data:
    Tatoeba-test.eng-akl: 27/69
    Tatoeba-test.eng-ceb: 378/1678

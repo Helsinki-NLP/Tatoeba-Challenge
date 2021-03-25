@@ -28,21 +28,21 @@ target-languages:
    - udm
    - vro
 use-target-labels:
-   '>>est<<'
-   '>>fin<<'
-   '>>fkv_Latn<<'
-   '>>hun<<'
-   '>>izh<<'
-   '>>kpv<<'
-   '>>krl<<'
-   '>>liv_Latn<<'
-   '>>mdf<<'
-   '>>mhr<<'
-   '>>myv<<'
-   '>>sma<<'
-   '>>sme<<'
-   '>>udm<<'
-   '>>vro<<'
+   - ">>est<<"
+   - ">>fin<<"
+   - ">>fkv_Latn<<"
+   - ">>hun<<"
+   - ">>izh<<"
+   - ">>kpv<<"
+   - ">>krl<<"
+   - ">>liv_Latn<<"
+   - ">>mdf<<"
+   - ">>mhr<<"
+   - ">>myv<<"
+   - ">>sma<<"
+   - ">>sme<<"
+   - ">>udm<<"
+   - ">>vro<<"
 test-data:
    Tatoeba-test.eng-chm: 71/298
    Tatoeba-test.eng-est: 1359/6373

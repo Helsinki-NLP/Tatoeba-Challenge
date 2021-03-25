@@ -16,8 +16,8 @@ target-languages:
    - eng
    - jpn
 use-target-labels:
-   '>>eng<<'
-   '>>jpn<<'
+   - ">>eng<<"
+   - ">>jpn<<"
 test-data:
    Tatoeba-test.eng-jpn: 10000/10039
    Tatoeba-test.jpn-eng: 10000/77131

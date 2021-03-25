@@ -20,13 +20,13 @@ target-languages:
    - zlm
    - zsm
 use-target-labels:
-   '>>ind<<'
-   '>>max_Latn<<'
-   '>>min<<'
-   '>>pap<<'
-   '>>tmw_Latn<<'
-   '>>zlm_Latn<<'
-   '>>zsm_Latn<<'
+   - ">>ind<<"
+   - ">>max_Latn<<"
+   - ">>min<<"
+   - ">>pap<<"
+   - ">>tmw_Latn<<"
+   - ">>zlm_Latn<<"
+   - ">>zsm_Latn<<"
 test-data:
    Tatoeba-test.eng-msa: 5000/27896
    Tatoeba-test.eng-multi: 5070/28183

@@ -17,12 +17,12 @@ target-languages:
    - mnw
    - vie
 use-target-labels:
-   '>>kha<<'
-   '>>khm<<'
-   '>>khm_Latn<<'
-   '>>mnw<<'
-   '>>vie<<'
-   '>>vie_Hani<<'
+   - ">>kha<<"
+   - ">>khm<<"
+   - ">>khm_Latn<<"
+   - ">>mnw<<"
+   - ">>vie<<"
+   - ">>vie_Hani<<"
 test-data:
    Tatoeba-test.eng-kha: 1314/7819
    Tatoeba-test.eng-khm: 752/1610

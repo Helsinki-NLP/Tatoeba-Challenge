@@ -10,12 +10,12 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>ara<<'
-   '>>arq<<'
-   '>>arz<<'
-   '>>heb<<'
-   '>>jpa_Hebr<<'
-   '>>tmr_Hebr<<'
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>arz<<"
+   - ">>heb<<"
+   - ">>jpa_Hebr<<"
+   - ">>tmr_Hebr<<"
 source-languages:
    - fin
    - hun

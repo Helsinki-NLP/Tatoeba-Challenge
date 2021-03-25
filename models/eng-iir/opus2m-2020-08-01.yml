@@ -40,36 +40,36 @@ target-languages:
    - urd
    - zza
 use-target-labels:
-   '>>asm<<'
-   '>>awa<<'
-   '>>ben<<'
-   '>>bho<<'
-   '>>gom<<'
-   '>>guj<<'
-   '>>hif_Latn<<'
-   '>>hin<<'
-   '>>jdt_Cyrl<<'
-   '>>kur_Arab<<'
-   '>>kur_Latn<<'
-   '>>mai<<'
-   '>>mar<<'
-   '>>npi<<'
-   '>>ori<<'
-   '>>oss<<'
-   '>>pan_Guru<<'
-   '>>pes<<'
-   '>>pes_Latn<<'
-   '>>pes_Thaa<<'
-   '>>pnb<<'
-   '>>pus<<'
-   '>>rom<<'
-   '>>san_Deva<<'
-   '>>sin<<'
-   '>>snd_Arab<<'
-   '>>tgk_Cyrl<<'
-   '>>tly_Latn<<'
-   '>>urd<<'
-   '>>zza<<'
+   - ">>asm<<"
+   - ">>awa<<"
+   - ">>ben<<"
+   - ">>bho<<"
+   - ">>gom<<"
+   - ">>guj<<"
+   - ">>hif_Latn<<"
+   - ">>hin<<"
+   - ">>jdt_Cyrl<<"
+   - ">>kur_Arab<<"
+   - ">>kur_Latn<<"
+   - ">>mai<<"
+   - ">>mar<<"
+   - ">>npi<<"
+   - ">>ori<<"
+   - ">>oss<<"
+   - ">>pan_Guru<<"
+   - ">>pes<<"
+   - ">>pes_Latn<<"
+   - ">>pes_Thaa<<"
+   - ">>pnb<<"
+   - ">>pus<<"
+   - ">>rom<<"
+   - ">>san_Deva<<"
+   - ">>sin<<"
+   - ">>snd_Arab<<"
+   - ">>tgk_Cyrl<<"
+   - ">>tly_Latn<<"
+   - ">>urd<<"
+   - ">>zza<<"
 test-data:
    Tatoeba-test.eng-asm: 117/530
    Tatoeba-test.eng-awa: 279/1087

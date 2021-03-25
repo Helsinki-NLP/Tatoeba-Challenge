@@ -20,10 +20,10 @@ target-languages:
    - hat
    - mfe
 use-target-labels:
-   '>>eng<<'
-   '>>gcf_Latn<<'
-   '>>hat<<'
-   '>>mfe<<'
+   - ">>eng<<"
+   - ">>gcf_Latn<<"
+   - ">>hat<<"
+   - ">>mfe<<"
 test-data:
    Tatoeba-test.eng-gcf: 99/457
    Tatoeba-test.eng-hat: 64/311

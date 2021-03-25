@@ -10,15 +10,15 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>est<<'
-   '>>fin<<'
-   '>>fkv_Latn<<'
-   '>>hun<<'
-   '>>izh<<'
-   '>>krl<<'
-   '>>sma<<'
-   '>>sme<<'
-   '>>vep<<'
+   - ">>est<<"
+   - ">>fin<<"
+   - ">>fkv_Latn<<"
+   - ">>hun<<"
+   - ">>izh<<"
+   - ">>krl<<"
+   - ">>sma<<"
+   - ">>sme<<"
+   - ">>vep<<"
 source-languages:
    - dan
    - fao

@@ -39,33 +39,33 @@ target-languages:
    - vec
    - wln
 use-target-labels:
-   '>>arg<<'
-   '>>ast<<'
-   '>>cat<<'
-   '>>cos<<'
-   '>>egl<<'
-   '>>ext<<'
-   '>>fra<<'
-   '>>frm_Latn<<'
-   '>>fvr<<'
-   '>>glg<<'
-   '>>ita<<'
-   '>>lad<<'
-   '>>lad_Latn<<'
-   '>>lij<<'
-   '>>lld_Latn<<'
-   '>>lmo<<'
-   '>>mwl<<'
-   '>>oci<<'
-   '>>osp_Latn<<'
-   '>>pms<<'
-   '>>por<<'
-   '>>roh<<'
-   '>>ron<<'
-   '>>scn<<'
-   '>>spa<<'
-   '>>vec<<'
-   '>>wln<<'
+   - ">>arg<<"
+   - ">>ast<<"
+   - ">>cat<<"
+   - ">>cos<<"
+   - ">>egl<<"
+   - ">>ext<<"
+   - ">>fra<<"
+   - ">>frm_Latn<<"
+   - ">>fvr<<"
+   - ">>glg<<"
+   - ">>ita<<"
+   - ">>lad<<"
+   - ">>lad_Latn<<"
+   - ">>lij<<"
+   - ">>lld_Latn<<"
+   - ">>lmo<<"
+   - ">>mwl<<"
+   - ">>oci<<"
+   - ">>osp_Latn<<"
+   - ">>pms<<"
+   - ">>por<<"
+   - ">>roh<<"
+   - ">>ron<<"
+   - ">>scn<<"
+   - ">>spa<<"
+   - ">>vec<<"
+   - ">>wln<<"
 test-data:
    Tatoeba-test.eng-arg: 105/292
    Tatoeba-test.eng-ast: 99/596

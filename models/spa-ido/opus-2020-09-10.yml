@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - ido
 use-target-labels:
-   '>>ido<<'
-   '>>ido_Latn<<'
+   - ">>ido<<"
+   - ">>ido_Latn<<"
 test-data:
    Tatoeba-test.spa-ido: 429/2340
 BLEU-scores:

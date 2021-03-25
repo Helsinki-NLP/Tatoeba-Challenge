@@ -29,22 +29,22 @@ target-languages:
    - som
    - tir
 use-target-labels:
-   '>>acm<<'
-   '>>afb<<'
-   '>>amh<<'
-   '>>apc<<'
-   '>>ara<<'
-   '>>arq<<'
-   '>>ary<<'
-   '>>arz<<'
-   '>>hau_Latn<<'
-   '>>heb<<'
-   '>>kab<<'
-   '>>mlt<<'
-   '>>rif_Latn<<'
-   '>>shy_Latn<<'
-   '>>som<<'
-   '>>tir<<'
+   - ">>acm<<"
+   - ">>afb<<"
+   - ">>amh<<"
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>ary<<"
+   - ">>arz<<"
+   - ">>hau_Latn<<"
+   - ">>heb<<"
+   - ">>kab<<"
+   - ">>mlt<<"
+   - ">>rif_Latn<<"
+   - ">>shy_Latn<<"
+   - ">>som<<"
+   - ">>tir<<"
 test-data:
    Tatoeba-test.eng-amh: 190/554
    Tatoeba-test.eng-ara: 10000/50193

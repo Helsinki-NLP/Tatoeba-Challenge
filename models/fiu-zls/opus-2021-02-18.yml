@@ -10,16 +10,16 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>bos_Cyrl<<'
-   '>>bos_Latn<<'
-   '>>bul<<'
-   '>>hbs<<'
-   '>>hbs_Cyrl<<'
-   '>>hrv<<'
-   '>>mkd<<'
-   '>>slv<<'
-   '>>srp_Cyrl<<'
-   '>>srp_Latn<<'
+   - ">>bos_Cyrl<<"
+   - ">>bos_Latn<<"
+   - ">>bul<<"
+   - ">>hbs<<"
+   - ">>hbs_Cyrl<<"
+   - ">>hrv<<"
+   - ">>mkd<<"
+   - ">>slv<<"
+   - ">>srp_Cyrl<<"
+   - ">>srp_Latn<<"
 source-languages:
    - est
    - fin

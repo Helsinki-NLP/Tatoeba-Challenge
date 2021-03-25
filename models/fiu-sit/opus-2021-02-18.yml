@@ -10,12 +10,12 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>cmn<<'
-   '>>cmn_Hans<<'
-   '>>cmn_Hant<<'
-   '>>nan<<'
-   '>>yue_Hans<<'
-   '>>yue_Hant<<'
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>nan<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
 source-languages:
    - fin
    - hun

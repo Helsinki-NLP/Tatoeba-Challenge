@@ -20,10 +20,10 @@ target-languages:
    - swc
    - swh
 use-target-labels:
-   '>>eng<<'
-   '>>swa<<'
-   '>>swc<<'
-   '>>swh<<'
+   - ">>eng<<"
+   - ">>swa<<"
+   - ">>swc<<"
+   - ">>swh<<"
 test-data:
    Tatoeba-test.eng-swa: 386/1357
    Tatoeba-test.multi-multi: 1544/6700

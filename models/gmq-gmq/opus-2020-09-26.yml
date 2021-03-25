@@ -28,15 +28,15 @@ target-languages:
    - non
    - swe
 use-target-labels:
-   '>>dan<<'
-   '>>eng<<'
-   '>>fao<<'
-   '>>isl<<'
-   '>>nno<<'
-   '>>nob<<'
-   '>>nob_Hebr<<'
-   '>>non_Latn<<'
-   '>>swe<<'
+   - ">>dan<<"
+   - ">>eng<<"
+   - ">>fao<<"
+   - ">>isl<<"
+   - ">>nno<<"
+   - ">>nob<<"
+   - ">>nob_Hebr<<"
+   - ">>non_Latn<<"
+   - ">>swe<<"
 test-data:
    Tatoeba-test.dan-eng: 10000/62015
    Tatoeba-test.dan-fao: 1/5

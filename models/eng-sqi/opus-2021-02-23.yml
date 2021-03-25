@@ -10,8 +10,8 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>aln<<'
-   '>>sqi<<'
+   - ">>aln<<"
+   - ">>sqi<<"
 source-languages:
    - eng
 target-languages:

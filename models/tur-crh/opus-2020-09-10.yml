@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - crh
 use-target-labels:
-   '>>crh<<'
-   '>>crh_Latn<<'
+   - ">>crh<<"
+   - ">>crh_Latn<<"
 test-data:
    Tatoeba-test.tur-crh: 207/821
 BLEU-scores:

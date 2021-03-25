@@ -18,9 +18,9 @@ target-languages:
    - eng
    - grc
 use-target-labels:
-   '>>ell<<'
-   '>>eng<<'
-   '>>grc_Grek<<'
+   - ">>ell<<"
+   - ">>eng<<"
+   - ">>grc_Grek<<"
 test-data:
    Tatoeba-test.ell-eng: 10000/50149
    Tatoeba-test.eng-ell: 10000/48882

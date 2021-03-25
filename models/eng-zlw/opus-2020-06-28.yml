@@ -16,9 +16,9 @@ target-languages:
    - csb
    - pol
 use-target-labels:
-   '>>ces<<'
-   '>>csb_Latn<<'
-   '>>pol<<'
+   - ">>ces<<"
+   - ">>csb_Latn<<"
+   - ">>pol<<"
 test-data:
    Tatoeba-test.eng-ces: 10000/52129
    Tatoeba-test.eng-csb: 27/196

@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - hye
 use-target-labels:
-   '>>hye<<'
-   '>>hye_Latn<<'
+   - ">>hye<<"
+   - ">>hye_Latn<<"
 test-data:
    Tatoeba-test.eng-hye: 1121/3852
 BLEU-scores:

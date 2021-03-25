@@ -10,11 +10,11 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>fas<<'
-   '>>pes<<'
-   '>>pes_Latn<<'
-   '>>pes_Thaa<<'
-   '>>prs<<'
+   - ">>fas<<"
+   - ">>pes<<"
+   - ">>pes_Latn<<"
+   - ">>pes_Thaa<<"
+   - ">>prs<<"
 source-languages:
    - eng
 target-languages:

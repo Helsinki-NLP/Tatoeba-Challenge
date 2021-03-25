@@ -10,8 +10,8 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>bel<<'
-   '>>bel_Latn<<'
+   - ">>bel<<"
+   - ">>bel_Latn<<"
 source-languages:
    - eng
 target-languages:

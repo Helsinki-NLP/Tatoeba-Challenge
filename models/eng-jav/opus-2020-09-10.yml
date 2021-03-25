@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - jav
 use-target-labels:
-   '>>jav<<'
-   '>>jav_Java<<'
+   - ">>jav<<"
+   - ">>jav_Java<<"
 test-data:
    Tatoeba-test.eng-jav: 259/1320
 BLEU-scores:

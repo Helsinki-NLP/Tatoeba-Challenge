@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - kaz
 use-target-labels:
-   '>>kaz_Cyrl<<'
-   '>>kaz_Latn<<'
+   - ">>kaz_Cyrl<<"
+   - ">>kaz_Latn<<"
 test-data:
    Tatoeba-test.eng-kaz: 397/1668
 BLEU-scores:

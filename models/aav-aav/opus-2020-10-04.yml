@@ -24,15 +24,15 @@ target-languages:
    - mnw
    - vie
 use-target-labels:
-   '>>eng<<'
-   '>>hoc<<'
-   '>>hoc_Latn<<'
-   '>>kha<<'
-   '>>khm<<'
-   '>>khm_Latn<<'
-   '>>mnw<<'
-   '>>vie<<'
-   '>>vie_Hani<<'
+   - ">>eng<<"
+   - ">>hoc<<"
+   - ">>hoc_Latn<<"
+   - ">>kha<<"
+   - ">>khm<<"
+   - ">>khm_Latn<<"
+   - ">>mnw<<"
+   - ">>vie<<"
+   - ">>vie_Hani<<"
 test-data:
    Tatoeba-test.eng-hoc: 660/1894
    Tatoeba-test.eng-kha: 1314/7819

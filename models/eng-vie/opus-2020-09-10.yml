@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - vie
 use-target-labels:
-   '>>vie<<'
-   '>>vie_Hani<<'
+   - ">>vie<<"
+   - ">>vie_Hani<<"
 test-data:
    Tatoeba-test.eng-vie: 2500/21591
 BLEU-scores:

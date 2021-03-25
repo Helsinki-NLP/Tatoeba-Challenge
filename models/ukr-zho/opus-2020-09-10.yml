@@ -16,12 +16,12 @@ target-languages:
    - nan
    - yue
 use-target-labels:
-   '>>cmn<<'
-   '>>cmn_Hans<<'
-   '>>cmn_Hant<<'
-   '>>nan<<'
-   '>>yue_Hans<<'
-   '>>yue_Hant<<'
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>nan<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
 test-data:
    Tatoeba-test.ukr-zho: 1575/1589
 BLEU-scores:

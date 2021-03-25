@@ -20,13 +20,13 @@ target-languages:
    - pmn
    - war
 use-target-labels:
-   '>>akl_Latn<<'
-   '>>ceb<<'
-   '>>hil<<'
-   '>>ilo<<'
-   '>>pag<<'
-   '>>pmn<<'
-   '>>war<<'
+   - ">>akl_Latn<<"
+   - ">>ceb<<"
+   - ">>hil<<"
+   - ">>ilo<<"
+   - ">>pag<<"
+   - ">>pmn<<"
+   - ">>war<<"
 test-data:
    Tatoeba-test.eng-akl: 27/69
    Tatoeba-test.eng-ceb: 378/1678

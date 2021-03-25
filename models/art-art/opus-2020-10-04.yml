@@ -48,31 +48,31 @@ target-languages:
    - tzl
    - vol
 use-target-labels:
-   '>>afh_Latn<<'
-   '>>avk_Latn<<'
-   '>>bzt_Latn<<'
-   '>>dws_Latn<<'
-   '>>eng<<'
-   '>>epo<<'
-   '>>ido<<'
-   '>>ido_Latn<<'
-   '>>ile<<'
-   '>>ile_Latn<<'
-   '>>ina_Latn<<'
-   '>>jbo<<'
-   '>>jbo_Cyrl<<'
-   '>>jbo_Latn<<'
-   '>>ldn_Latn<<'
-   '>>lfn_Cyrl<<'
-   '>>lfn_Latn<<'
-   '>>nov_Latn<<'
-   '>>qya<<'
-   '>>qya_Latn<<'
-   '>>sjn_Latn<<'
-   '>>tlh_Latn<<'
-   '>>tzl<<'
-   '>>tzl_Latn<<'
-   '>>vol_Latn<<'
+   - ">>afh_Latn<<"
+   - ">>avk_Latn<<"
+   - ">>bzt_Latn<<"
+   - ">>dws_Latn<<"
+   - ">>eng<<"
+   - ">>epo<<"
+   - ">>ido<<"
+   - ">>ido_Latn<<"
+   - ">>ile<<"
+   - ">>ile_Latn<<"
+   - ">>ina_Latn<<"
+   - ">>jbo<<"
+   - ">>jbo_Cyrl<<"
+   - ">>jbo_Latn<<"
+   - ">>ldn_Latn<<"
+   - ">>lfn_Cyrl<<"
+   - ">>lfn_Latn<<"
+   - ">>nov_Latn<<"
+   - ">>qya<<"
+   - ">>qya_Latn<<"
+   - ">>sjn_Latn<<"
+   - ">>tlh_Latn<<"
+   - ">>tzl<<"
+   - ">>tzl_Latn<<"
+   - ">>vol_Latn<<"
 test-data:
    Tatoeba-test.afh-eng: 10/44
    Tatoeba-test.avk-bzt: 6/18

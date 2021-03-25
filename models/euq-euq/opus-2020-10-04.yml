@@ -16,8 +16,8 @@ target-languages:
    - eng
    - eus
 use-target-labels:
-   '>>eng<<'
-   '>>eus<<'
+   - ">>eng<<"
+   - ">>eus<<"
 test-data:
    Tatoeba-test.eng-eus: 1060/5823
    Tatoeba-test.eus-eng: 1060/6861

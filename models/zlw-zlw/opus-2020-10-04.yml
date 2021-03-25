@@ -24,13 +24,13 @@ target-languages:
    - hsb
    - pol
 use-target-labels:
-   '>>ces<<'
-   '>>csb<<'
-   '>>csb_Latn<<'
-   '>>dsb<<'
-   '>>eng<<'
-   '>>hsb<<'
-   '>>pol<<'
+   - ">>ces<<"
+   - ">>csb<<"
+   - ">>csb_Latn<<"
+   - ">>dsb<<"
+   - ">>eng<<"
+   - ">>hsb<<"
+   - ">>pol<<"
 test-data:
    Tatoeba-test.ces-eng: 10000/64235
    Tatoeba-test.ces-hsb: 84/377

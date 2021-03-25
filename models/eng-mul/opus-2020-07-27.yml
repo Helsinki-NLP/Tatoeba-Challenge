@@ -288,316 +288,316 @@ target-languages:
    - zul
    - zza
 use-target-labels:
-   '>>abk<<'
-   '>>acm<<'
-   '>>ady<<'
-   '>>afb<<'
-   '>>afh_Latn<<'
-   '>>afr<<'
-   '>>akl_Latn<<'
-   '>>aln<<'
-   '>>amh<<'
-   '>>ang_Latn<<'
-   '>>apc<<'
-   '>>ara<<'
-   '>>arg<<'
-   '>>arq<<'
-   '>>ary<<'
-   '>>arz<<'
-   '>>asm<<'
-   '>>ast<<'
-   '>>avk_Latn<<'
-   '>>awa<<'
-   '>>aze_Latn<<'
-   '>>bak<<'
-   '>>bam_Latn<<'
-   '>>bel<<'
-   '>>bel_Latn<<'
-   '>>ben<<'
-   '>>bho<<'
-   '>>bod<<'
-   '>>bos_Latn<<'
-   '>>bre<<'
-   '>>brx<<'
-   '>>brx_Latn<<'
-   '>>bul<<'
-   '>>bul_Latn<<'
-   '>>cat<<'
-   '>>ceb<<'
-   '>>ces<<'
-   '>>cha<<'
-   '>>che<<'
-   '>>chr<<'
-   '>>chv<<'
-   '>>cjy_Hans<<'
-   '>>cjy_Hant<<'
-   '>>cmn<<'
-   '>>cmn_Hans<<'
-   '>>cmn_Hant<<'
-   '>>cor<<'
-   '>>cos<<'
-   '>>crh<<'
-   '>>crh_Latn<<'
-   '>>csb_Latn<<'
-   '>>cym<<'
-   '>>dan<<'
-   '>>deu<<'
-   '>>dsb<<'
-   '>>dtp<<'
-   '>>dws_Latn<<'
-   '>>egl<<'
-   '>>ell<<'
-   '>>enm_Latn<<'
-   '>>epo<<'
-   '>>est<<'
-   '>>eus<<'
-   '>>ewe<<'
-   '>>ext<<'
-   '>>fao<<'
-   '>>fij<<'
-   '>>fin<<'
-   '>>fkv_Latn<<'
-   '>>fra<<'
-   '>>frm_Latn<<'
-   '>>frr<<'
-   '>>fry<<'
-   '>>fuc<<'
-   '>>fuv<<'
-   '>>gan<<'
-   '>>gcf_Latn<<'
-   '>>gil<<'
-   '>>gla<<'
-   '>>gle<<'
-   '>>glg<<'
-   '>>glv<<'
-   '>>gom<<'
-   '>>gos<<'
-   '>>got_Goth<<'
-   '>>grc_Grek<<'
-   '>>grn<<'
-   '>>gsw<<'
-   '>>guj<<'
-   '>>hat<<'
-   '>>hau_Latn<<'
-   '>>haw<<'
-   '>>heb<<'
-   '>>hif_Latn<<'
-   '>>hil<<'
-   '>>hin<<'
-   '>>hnj_Latn<<'
-   '>>hoc<<'
-   '>>hoc_Latn<<'
-   '>>hrv<<'
-   '>>hsb<<'
-   '>>hun<<'
-   '>>hye<<'
-   '>>iba<<'
-   '>>ibo<<'
-   '>>ido<<'
-   '>>ido_Latn<<'
-   '>>ike_Latn<<'
-   '>>ile_Latn<<'
-   '>>ilo<<'
-   '>>ina_Latn<<'
-   '>>ind<<'
-   '>>isl<<'
-   '>>ita<<'
-   '>>izh<<'
-   '>>jav<<'
-   '>>jav_Java<<'
-   '>>jbo<<'
-   '>>jbo_Cyrl<<'
-   '>>jbo_Latn<<'
-   '>>jdt_Cyrl<<'
-   '>>jpn<<'
-   '>>kab<<'
-   '>>kal<<'
-   '>>kan<<'
-   '>>kat<<'
-   '>>kaz_Cyrl<<'
-   '>>kaz_Latn<<'
-   '>>kek_Latn<<'
-   '>>kha<<'
-   '>>khm<<'
-   '>>khm_Latn<<'
-   '>>kin<<'
-   '>>kir_Cyrl<<'
-   '>>kjh<<'
-   '>>kpv<<'
-   '>>krl<<'
-   '>>ksh<<'
-   '>>kum<<'
-   '>>kur_Arab<<'
-   '>>kur_Latn<<'
-   '>>lad<<'
-   '>>lad_Latn<<'
-   '>>lao<<'
-   '>>lat_Latn<<'
-   '>>lav<<'
-   '>>ldn_Latn<<'
-   '>>lfn_Cyrl<<'
-   '>>lfn_Latn<<'
-   '>>lij<<'
-   '>>lin<<'
-   '>>lit<<'
-   '>>liv_Latn<<'
-   '>>lkt<<'
-   '>>lld_Latn<<'
-   '>>lmo<<'
-   '>>ltg<<'
-   '>>ltz<<'
-   '>>lug<<'
-   '>>lzh<<'
-   '>>lzh_Hans<<'
-   '>>mad<<'
-   '>>mah<<'
-   '>>mai<<'
-   '>>mal<<'
-   '>>mar<<'
-   '>>max_Latn<<'
-   '>>mdf<<'
-   '>>mfe<<'
-   '>>mhr<<'
-   '>>mic<<'
-   '>>min<<'
-   '>>mkd<<'
-   '>>mlg<<'
-   '>>mlt<<'
-   '>>mnw<<'
-   '>>moh<<'
-   '>>mon<<'
-   '>>mri<<'
-   '>>mwl<<'
-   '>>mww<<'
-   '>>mya<<'
-   '>>myv<<'
-   '>>nan<<'
-   '>>nau<<'
-   '>>nav<<'
-   '>>nds<<'
-   '>>niu<<'
-   '>>nld<<'
-   '>>nno<<'
-   '>>nob<<'
-   '>>nob_Hebr<<'
-   '>>nog<<'
-   '>>non_Latn<<'
-   '>>nov_Latn<<'
-   '>>npi<<'
-   '>>nya<<'
-   '>>oci<<'
-   '>>ori<<'
-   '>>orv_Cyrl<<'
-   '>>oss<<'
-   '>>ota_Arab<<'
-   '>>ota_Latn<<'
-   '>>pag<<'
-   '>>pan_Guru<<'
-   '>>pap<<'
-   '>>pau<<'
-   '>>pdc<<'
-   '>>pes<<'
-   '>>pes_Latn<<'
-   '>>pes_Thaa<<'
-   '>>pms<<'
-   '>>pnb<<'
-   '>>pol<<'
-   '>>por<<'
-   '>>ppl_Latn<<'
-   '>>prg_Latn<<'
-   '>>pus<<'
-   '>>quc<<'
-   '>>qya<<'
-   '>>qya_Latn<<'
-   '>>rap<<'
-   '>>rif_Latn<<'
-   '>>roh<<'
-   '>>rom<<'
-   '>>ron<<'
-   '>>rue<<'
-   '>>run<<'
-   '>>rus<<'
-   '>>sag<<'
-   '>>sah<<'
-   '>>san_Deva<<'
-   '>>scn<<'
-   '>>sco<<'
-   '>>sgs<<'
-   '>>shs_Latn<<'
-   '>>shy_Latn<<'
-   '>>sin<<'
-   '>>sjn_Latn<<'
-   '>>slv<<'
-   '>>sma<<'
-   '>>sme<<'
-   '>>smo<<'
-   '>>sna<<'
-   '>>snd_Arab<<'
-   '>>som<<'
-   '>>spa<<'
-   '>>sqi<<'
-   '>>srp_Cyrl<<'
-   '>>srp_Latn<<'
-   '>>stq<<'
-   '>>sun<<'
-   '>>swe<<'
-   '>>swg<<'
-   '>>swh<<'
-   '>>tah<<'
-   '>>tam<<'
-   '>>tat<<'
-   '>>tat_Arab<<'
-   '>>tat_Latn<<'
-   '>>tel<<'
-   '>>tet<<'
-   '>>tgk_Cyrl<<'
-   '>>tha<<'
-   '>>tir<<'
-   '>>tlh_Latn<<'
-   '>>tly_Latn<<'
-   '>>tmw_Latn<<'
-   '>>toi_Latn<<'
-   '>>ton<<'
-   '>>tpw_Latn<<'
-   '>>tso<<'
-   '>>tuk<<'
-   '>>tuk_Latn<<'
-   '>>tur<<'
-   '>>tvl<<'
-   '>>tyv<<'
-   '>>tzl<<'
-   '>>tzl_Latn<<'
-   '>>udm<<'
-   '>>uig_Arab<<'
-   '>>uig_Cyrl<<'
-   '>>ukr<<'
-   '>>umb<<'
-   '>>urd<<'
-   '>>uzb_Cyrl<<'
-   '>>uzb_Latn<<'
-   '>>vec<<'
-   '>>vie<<'
-   '>>vie_Hani<<'
-   '>>vol_Latn<<'
-   '>>vro<<'
-   '>>war<<'
-   '>>wln<<'
-   '>>wol<<'
-   '>>wuu<<'
-   '>>xal<<'
-   '>>xho<<'
-   '>>yid<<'
-   '>>yor<<'
-   '>>yue<<'
-   '>>yue_Hans<<'
-   '>>yue_Hant<<'
-   '>>zho<<'
-   '>>zho_Hans<<'
-   '>>zho_Hant<<'
-   '>>zlm_Latn<<'
-   '>>zsm_Latn<<'
-   '>>zul<<'
-   '>>zza<<'
+   - ">>abk<<"
+   - ">>acm<<"
+   - ">>ady<<"
+   - ">>afb<<"
+   - ">>afh_Latn<<"
+   - ">>afr<<"
+   - ">>akl_Latn<<"
+   - ">>aln<<"
+   - ">>amh<<"
+   - ">>ang_Latn<<"
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arg<<"
+   - ">>arq<<"
+   - ">>ary<<"
+   - ">>arz<<"
+   - ">>asm<<"
+   - ">>ast<<"
+   - ">>avk_Latn<<"
+   - ">>awa<<"
+   - ">>aze_Latn<<"
+   - ">>bak<<"
+   - ">>bam_Latn<<"
+   - ">>bel<<"
+   - ">>bel_Latn<<"
+   - ">>ben<<"
+   - ">>bho<<"
+   - ">>bod<<"
+   - ">>bos_Latn<<"
+   - ">>bre<<"
+   - ">>brx<<"
+   - ">>brx_Latn<<"
+   - ">>bul<<"
+   - ">>bul_Latn<<"
+   - ">>cat<<"
+   - ">>ceb<<"
+   - ">>ces<<"
+   - ">>cha<<"
+   - ">>che<<"
+   - ">>chr<<"
+   - ">>chv<<"
+   - ">>cjy_Hans<<"
+   - ">>cjy_Hant<<"
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>cor<<"
+   - ">>cos<<"
+   - ">>crh<<"
+   - ">>crh_Latn<<"
+   - ">>csb_Latn<<"
+   - ">>cym<<"
+   - ">>dan<<"
+   - ">>deu<<"
+   - ">>dsb<<"
+   - ">>dtp<<"
+   - ">>dws_Latn<<"
+   - ">>egl<<"
+   - ">>ell<<"
+   - ">>enm_Latn<<"
+   - ">>epo<<"
+   - ">>est<<"
+   - ">>eus<<"
+   - ">>ewe<<"
+   - ">>ext<<"
+   - ">>fao<<"
+   - ">>fij<<"
+   - ">>fin<<"
+   - ">>fkv_Latn<<"
+   - ">>fra<<"
+   - ">>frm_Latn<<"
+   - ">>frr<<"
+   - ">>fry<<"
+   - ">>fuc<<"
+   - ">>fuv<<"
+   - ">>gan<<"
+   - ">>gcf_Latn<<"
+   - ">>gil<<"
+   - ">>gla<<"
+   - ">>gle<<"
+   - ">>glg<<"
+   - ">>glv<<"
+   - ">>gom<<"
+   - ">>gos<<"
+   - ">>got_Goth<<"
+   - ">>grc_Grek<<"
+   - ">>grn<<"
+   - ">>gsw<<"
+   - ">>guj<<"
+   - ">>hat<<"
+   - ">>hau_Latn<<"
+   - ">>haw<<"
+   - ">>heb<<"
+   - ">>hif_Latn<<"
+   - ">>hil<<"
+   - ">>hin<<"
+   - ">>hnj_Latn<<"
+   - ">>hoc<<"
+   - ">>hoc_Latn<<"
+   - ">>hrv<<"
+   - ">>hsb<<"
+   - ">>hun<<"
+   - ">>hye<<"
+   - ">>iba<<"
+   - ">>ibo<<"
+   - ">>ido<<"
+   - ">>ido_Latn<<"
+   - ">>ike_Latn<<"
+   - ">>ile_Latn<<"
+   - ">>ilo<<"
+   - ">>ina_Latn<<"
+   - ">>ind<<"
+   - ">>isl<<"
+   - ">>ita<<"
+   - ">>izh<<"
+   - ">>jav<<"
+   - ">>jav_Java<<"
+   - ">>jbo<<"
+   - ">>jbo_Cyrl<<"
+   - ">>jbo_Latn<<"
+   - ">>jdt_Cyrl<<"
+   - ">>jpn<<"
+   - ">>kab<<"
+   - ">>kal<<"
+   - ">>kan<<"
+   - ">>kat<<"
+   - ">>kaz_Cyrl<<"
+   - ">>kaz_Latn<<"
+   - ">>kek_Latn<<"
+   - ">>kha<<"
+   - ">>khm<<"
+   - ">>khm_Latn<<"
+   - ">>kin<<"
+   - ">>kir_Cyrl<<"
+   - ">>kjh<<"
+   - ">>kpv<<"
+   - ">>krl<<"
+   - ">>ksh<<"
+   - ">>kum<<"
+   - ">>kur_Arab<<"
+   - ">>kur_Latn<<"
+   - ">>lad<<"
+   - ">>lad_Latn<<"
+   - ">>lao<<"
+   - ">>lat_Latn<<"
+   - ">>lav<<"
+   - ">>ldn_Latn<<"
+   - ">>lfn_Cyrl<<"
+   - ">>lfn_Latn<<"
+   - ">>lij<<"
+   - ">>lin<<"
+   - ">>lit<<"
+   - ">>liv_Latn<<"
+   - ">>lkt<<"
+   - ">>lld_Latn<<"
+   - ">>lmo<<"
+   - ">>ltg<<"
+   - ">>ltz<<"
+   - ">>lug<<"
+   - ">>lzh<<"
+   - ">>lzh_Hans<<"
+   - ">>mad<<"
+   - ">>mah<<"
+   - ">>mai<<"
+   - ">>mal<<"
+   - ">>mar<<"
+   - ">>max_Latn<<"
+   - ">>mdf<<"
+   - ">>mfe<<"
+   - ">>mhr<<"
+   - ">>mic<<"
+   - ">>min<<"
+   - ">>mkd<<"
+   - ">>mlg<<"
+   - ">>mlt<<"
+   - ">>mnw<<"
+   - ">>moh<<"
+   - ">>mon<<"
+   - ">>mri<<"
+   - ">>mwl<<"
+   - ">>mww<<"
+   - ">>mya<<"
+   - ">>myv<<"
+   - ">>nan<<"
+   - ">>nau<<"
+   - ">>nav<<"
+   - ">>nds<<"
+   - ">>niu<<"
+   - ">>nld<<"
+   - ">>nno<<"
+   - ">>nob<<"
+   - ">>nob_Hebr<<"
+   - ">>nog<<"
+   - ">>non_Latn<<"
+   - ">>nov_Latn<<"
+   - ">>npi<<"
+   - ">>nya<<"
+   - ">>oci<<"
+   - ">>ori<<"
+   - ">>orv_Cyrl<<"
+   - ">>oss<<"
+   - ">>ota_Arab<<"
+   - ">>ota_Latn<<"
+   - ">>pag<<"
+   - ">>pan_Guru<<"
+   - ">>pap<<"
+   - ">>pau<<"
+   - ">>pdc<<"
+   - ">>pes<<"
+   - ">>pes_Latn<<"
+   - ">>pes_Thaa<<"
+   - ">>pms<<"
+   - ">>pnb<<"
+   - ">>pol<<"
+   - ">>por<<"
+   - ">>ppl_Latn<<"
+   - ">>prg_Latn<<"
+   - ">>pus<<"
+   - ">>quc<<"
+   - ">>qya<<"
+   - ">>qya_Latn<<"
+   - ">>rap<<"
+   - ">>rif_Latn<<"
+   - ">>roh<<"
+   - ">>rom<<"
+   - ">>ron<<"
+   - ">>rue<<"
+   - ">>run<<"
+   - ">>rus<<"
+   - ">>sag<<"
+   - ">>sah<<"
+   - ">>san_Deva<<"
+   - ">>scn<<"
+   - ">>sco<<"
+   - ">>sgs<<"
+   - ">>shs_Latn<<"
+   - ">>shy_Latn<<"
+   - ">>sin<<"
+   - ">>sjn_Latn<<"
+   - ">>slv<<"
+   - ">>sma<<"
+   - ">>sme<<"
+   - ">>smo<<"
+   - ">>sna<<"
+   - ">>snd_Arab<<"
+   - ">>som<<"
+   - ">>spa<<"
+   - ">>sqi<<"
+   - ">>srp_Cyrl<<"
+   - ">>srp_Latn<<"
+   - ">>stq<<"
+   - ">>sun<<"
+   - ">>swe<<"
+   - ">>swg<<"
+   - ">>swh<<"
+   - ">>tah<<"
+   - ">>tam<<"
+   - ">>tat<<"
+   - ">>tat_Arab<<"
+   - ">>tat_Latn<<"
+   - ">>tel<<"
+   - ">>tet<<"
+   - ">>tgk_Cyrl<<"
+   - ">>tha<<"
+   - ">>tir<<"
+   - ">>tlh_Latn<<"
+   - ">>tly_Latn<<"
+   - ">>tmw_Latn<<"
+   - ">>toi_Latn<<"
+   - ">>ton<<"
+   - ">>tpw_Latn<<"
+   - ">>tso<<"
+   - ">>tuk<<"
+   - ">>tuk_Latn<<"
+   - ">>tur<<"
+   - ">>tvl<<"
+   - ">>tyv<<"
+   - ">>tzl<<"
+   - ">>tzl_Latn<<"
+   - ">>udm<<"
+   - ">>uig_Arab<<"
+   - ">>uig_Cyrl<<"
+   - ">>ukr<<"
+   - ">>umb<<"
+   - ">>urd<<"
+   - ">>uzb_Cyrl<<"
+   - ">>uzb_Latn<<"
+   - ">>vec<<"
+   - ">>vie<<"
+   - ">>vie_Hani<<"
+   - ">>vol_Latn<<"
+   - ">>vro<<"
+   - ">>war<<"
+   - ">>wln<<"
+   - ">>wol<<"
+   - ">>wuu<<"
+   - ">>xal<<"
+   - ">>xho<<"
+   - ">>yid<<"
+   - ">>yor<<"
+   - ">>yue<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
+   - ">>zho<<"
+   - ">>zho_Hans<<"
+   - ">>zho_Hant<<"
+   - ">>zlm_Latn<<"
+   - ">>zsm_Latn<<"
+   - ">>zul<<"
+   - ">>zza<<"
 test-data:
    Tatoeba-test.eng-abk: 27/72
    Tatoeba-test.eng-ady: 12/31

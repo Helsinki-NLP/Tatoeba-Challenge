@@ -10,38 +10,38 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>afr<<'
-   '>>ang_Latn<<'
-   '>>bar<<'
-   '>>dan<<'
-   '>>deu<<'
-   '>>eng<<'
-   '>>enm_Latn<<'
-   '>>fao<<'
-   '>>frr<<'
-   '>>fry<<'
-   '>>gos<<'
-   '>>got<<'
-   '>>got_Goth<<'
-   '>>gsw<<'
-   '>>hrx_Latn<<'
-   '>>isl<<'
-   '>>jam<<'
-   '>>ksh<<'
-   '>>ltz<<'
-   '>>nds<<'
-   '>>nld<<'
-   '>>nno<<'
-   '>>nob<<'
-   '>>nob_Hebr<<'
-   '>>non_Latn<<'
-   '>>pdc<<'
-   '>>sco<<'
-   '>>stq<<'
-   '>>swe<<'
-   '>>swg<<'
-   '>>tpi<<'
-   '>>yid<<'
+   - ">>afr<<"
+   - ">>ang_Latn<<"
+   - ">>bar<<"
+   - ">>dan<<"
+   - ">>deu<<"
+   - ">>eng<<"
+   - ">>enm_Latn<<"
+   - ">>fao<<"
+   - ">>frr<<"
+   - ">>fry<<"
+   - ">>gos<<"
+   - ">>got<<"
+   - ">>got_Goth<<"
+   - ">>gsw<<"
+   - ">>hrx_Latn<<"
+   - ">>isl<<"
+   - ">>jam<<"
+   - ">>ksh<<"
+   - ">>ltz<<"
+   - ">>nds<<"
+   - ">>nld<<"
+   - ">>nno<<"
+   - ">>nob<<"
+   - ">>nob_Hebr<<"
+   - ">>non_Latn<<"
+   - ">>pdc<<"
+   - ">>sco<<"
+   - ">>stq<<"
+   - ">>swe<<"
+   - ">>swg<<"
+   - ">>tpi<<"
+   - ">>yid<<"
 source-languages:
    - afr
    - ang

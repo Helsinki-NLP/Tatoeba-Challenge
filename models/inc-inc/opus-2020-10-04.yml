@@ -60,37 +60,37 @@ target-languages:
    - snd
    - urd
 use-target-labels:
-   '>>asm<<'
-   '>>awa<<'
-   '>>ben<<'
-   '>>ben_Cyrl<<'
-   '>>ben_Deva<<'
-   '>>ben_Gujr<<'
-   '>>bho<<'
-   '>>dty<<'
-   '>>eng<<'
-   '>>gom<<'
-   '>>guj<<'
-   '>>hif_Latn<<'
-   '>>hin<<'
-   '>>mai<<'
-   '>>mar<<'
-   '>>nep<<'
-   '>>npi<<'
-   '>>ori<<'
-   '>>pan<<'
-   '>>pan_Guru<<'
-   '>>pnb<<'
-   '>>pnb_Guru<<'
-   '>>rmn<<'
-   '>>rmy<<'
-   '>>rom<<'
-   '>>san<<'
-   '>>san_Deva<<'
-   '>>sin<<'
-   '>>snd_Arab<<'
-   '>>urd<<'
-   '>>urd_Deva<<'
+   - ">>asm<<"
+   - ">>awa<<"
+   - ">>ben<<"
+   - ">>ben_Cyrl<<"
+   - ">>ben_Deva<<"
+   - ">>ben_Gujr<<"
+   - ">>bho<<"
+   - ">>dty<<"
+   - ">>eng<<"
+   - ">>gom<<"
+   - ">>guj<<"
+   - ">>hif_Latn<<"
+   - ">>hin<<"
+   - ">>mai<<"
+   - ">>mar<<"
+   - ">>nep<<"
+   - ">>npi<<"
+   - ">>ori<<"
+   - ">>pan<<"
+   - ">>pan_Guru<<"
+   - ">>pnb<<"
+   - ">>pnb_Guru<<"
+   - ">>rmn<<"
+   - ">>rmy<<"
+   - ">>rom<<"
+   - ">>san<<"
+   - ">>san_Deva<<"
+   - ">>sin<<"
+   - ">>snd_Arab<<"
+   - ">>urd<<"
+   - ">>urd_Deva<<"
 test-data:
    Tatoeba-test.asm-eng: 117/573
    Tatoeba-test.asm-hin: 4/15

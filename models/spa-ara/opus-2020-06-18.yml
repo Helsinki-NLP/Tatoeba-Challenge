@@ -16,10 +16,10 @@ target-languages:
    - ara
    - arq
 use-target-labels:
-   '>>apc<<'
-   '>>apc_Latn<<'
-   '>>ara<<'
-   '>>arq<<'
+   - ">>apc<<"
+   - ">>apc_Latn<<"
+   - ">>ara<<"
+   - ">>arq<<"
 test-data:
    Tatoeba-test.spa-ara: 1511/6311
 BLEU-scores:

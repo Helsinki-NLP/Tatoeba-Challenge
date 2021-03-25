@@ -96,64 +96,64 @@ target-languages:
    - zlm
    - zsm
 use-target-labels:
-   '>>avk_Latn<<'
-   '>>awa<<'
-   '>>bjn<<'
-   '>>deu<<'
-   '>>dtp<<'
-   '>>egl<<'
-   '>>eng<<'
-   '>>epo<<'
-   '>>fin<<'
-   '>>fkv_Latn<<'
-   '>>fra<<'
-   '>>gcf_Latn<<'
-   '>>gos<<'
-   '>>hoc<<'
-   '>>hoc_Latn<<'
-   '>>hoc_Wara<<'
-   '>>hrx_Latn<<'
-   '>>ile<<'
-   '>>ile_Latn<<'
-   '>>ina_Latn<<'
-   '>>ind<<'
-   '>>ita<<'
-   '>>jpn<<'
-   '>>jpn_Bopo<<'
-   '>>jpn_Hang<<'
-   '>>jpn_Hani<<'
-   '>>jpn_Hira<<'
-   '>>jpn_Kana<<'
-   '>>jpn_Latn<<'
-   '>>jpn_Yiii<<'
-   '>>kha<<'
-   '>>lad<<'
-   '>>lad_Latn<<'
-   '>>lfn_Cyrl<<'
-   '>>lfn_Latn<<'
-   '>>max_Latn<<'
-   '>>min<<'
-   '>>nld<<'
-   '>>nst_Latn<<'
-   '>>orv_Cyrl<<'
-   '>>ota_Arab<<'
-   '>>ota_Latn<<'
-   '>>por<<'
-   '>>por_Hira<<'
-   '>>prg_Latn<<'
-   '>>rus<<'
-   '>>rus_Latn<<'
-   '>>spa<<'
-   '>>swg<<'
-   '>>tmw_Latn<<'
-   '>>toki<<'
-   '>>toki_Latn<<'
-   '>>tur<<'
-   '>>ukr<<'
-   '>>vol_Latn<<'
-   '>>yid<<'
-   '>>zlm_Latn<<'
-   '>>zsm_Latn<<'
+   - ">>avk_Latn<<"
+   - ">>awa<<"
+   - ">>bjn<<"
+   - ">>deu<<"
+   - ">>dtp<<"
+   - ">>egl<<"
+   - ">>eng<<"
+   - ">>epo<<"
+   - ">>fin<<"
+   - ">>fkv_Latn<<"
+   - ">>fra<<"
+   - ">>gcf_Latn<<"
+   - ">>gos<<"
+   - ">>hoc<<"
+   - ">>hoc_Latn<<"
+   - ">>hoc_Wara<<"
+   - ">>hrx_Latn<<"
+   - ">>ile<<"
+   - ">>ile_Latn<<"
+   - ">>ina_Latn<<"
+   - ">>ind<<"
+   - ">>ita<<"
+   - ">>jpn<<"
+   - ">>jpn_Bopo<<"
+   - ">>jpn_Hang<<"
+   - ">>jpn_Hani<<"
+   - ">>jpn_Hira<<"
+   - ">>jpn_Kana<<"
+   - ">>jpn_Latn<<"
+   - ">>jpn_Yiii<<"
+   - ">>kha<<"
+   - ">>lad<<"
+   - ">>lad_Latn<<"
+   - ">>lfn_Cyrl<<"
+   - ">>lfn_Latn<<"
+   - ">>max_Latn<<"
+   - ">>min<<"
+   - ">>nld<<"
+   - ">>nst_Latn<<"
+   - ">>orv_Cyrl<<"
+   - ">>ota_Arab<<"
+   - ">>ota_Latn<<"
+   - ">>por<<"
+   - ">>por_Hira<<"
+   - ">>prg_Latn<<"
+   - ">>rus<<"
+   - ">>rus_Latn<<"
+   - ">>spa<<"
+   - ">>swg<<"
+   - ">>tmw_Latn<<"
+   - ">>toki<<"
+   - ">>toki_Latn<<"
+   - ">>tur<<"
+   - ">>ukr<<"
+   - ">>vol_Latn<<"
+   - ">>yid<<"
+   - ">>zlm_Latn<<"
+   - ">>zsm_Latn<<"
 test-data:
    Tatoeba-test.avk-deu: 50/289
    Tatoeba-test.avk-eng: 167/1036

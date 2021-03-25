@@ -20,11 +20,11 @@ target-languages:
    - rus
    - ukr
 use-target-labels:
-   '>>bel<<'
-   '>>bel_Latn<<'
-   '>>orv_Cyrl<<'
-   '>>rus<<'
-   '>>ukr<<'
+   - ">>bel<<"
+   - ">>bel_Latn<<"
+   - ">>orv_Cyrl<<"
+   - ">>rus<<"
+   - ">>ukr<<"
 test-data:
    Tatoeba-test.bel-rus: 2500/15162
    Tatoeba-test.bel-ukr: 2355/12024

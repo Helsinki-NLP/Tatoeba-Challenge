@@ -10,16 +10,16 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>bak<<'
-   '>>kaz_Cyrl<<'
-   '>>kaz_Latn<<'
-   '>>ota_Arab<<'
-   '>>ota_Latn<<'
-   '>>tat<<'
-   '>>tat_Latn<<'
-   '>>tur<<'
-   '>>uzb_Cyrl<<'
-   '>>uzb_Latn<<'
+   - ">>bak<<"
+   - ">>kaz_Cyrl<<"
+   - ">>kaz_Latn<<"
+   - ">>ota_Arab<<"
+   - ">>ota_Latn<<"
+   - ">>tat<<"
+   - ">>tat_Latn<<"
+   - ">>tur<<"
+   - ">>uzb_Cyrl<<"
+   - ">>uzb_Latn<<"
 source-languages:
    - est
    - fin

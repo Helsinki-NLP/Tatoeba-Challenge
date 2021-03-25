@@ -17,13 +17,13 @@ target-languages:
    - wuu
    - yue
 use-target-labels:
-   '>>cmn<<'
-   '>>cmn_Hans<<'
-   '>>cmn_Hant<<'
-   '>>nan<<'
-   '>>wuu<<'
-   '>>yue_Hans<<'
-   '>>yue_Hant<<'
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>nan<<"
+   - ">>wuu<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
 test-data:
    Tatoeba-test.hin-zho: 324/325
 BLEU-scores:

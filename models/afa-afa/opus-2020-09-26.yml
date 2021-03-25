@@ -56,28 +56,28 @@ target-languages:
    - tmh
    - tmr
 use-target-labels:
-   '>>acm<<'
-   '>>afb<<'
-   '>>amh<<'
-   '>>apc<<'
-   '>>ara<<'
-   '>>arq<<'
-   '>>ary<<'
-   '>>arz<<'
-   '>>eng<<'
-   '>>hau_Latn<<'
-   '>>heb<<'
-   '>>kab<<'
-   '>>mlt<<'
-   '>>phn_Phnx<<'
-   '>>rif_Latn<<'
-   '>>shy_Latn<<'
-   '>>som<<'
-   '>>syc_Syrc<<'
-   '>>thv<<'
-   '>>tir<<'
-   '>>tmh<<'
-   '>>tmr_Hebr<<'
+   - ">>acm<<"
+   - ">>afb<<"
+   - ">>amh<<"
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>ary<<"
+   - ">>arz<<"
+   - ">>eng<<"
+   - ">>hau_Latn<<"
+   - ">>heb<<"
+   - ">>kab<<"
+   - ">>mlt<<"
+   - ">>phn_Phnx<<"
+   - ">>rif_Latn<<"
+   - ">>shy_Latn<<"
+   - ">>som<<"
+   - ">>syc_Syrc<<"
+   - ">>thv<<"
+   - ">>tir<<"
+   - ">>tmh<<"
+   - ">>tmr_Hebr<<"
 test-data:
    Tatoeba-test.amh-eng: 190/802
    Tatoeba-test.ara-ara: 16/48

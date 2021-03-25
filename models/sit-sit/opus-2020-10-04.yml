@@ -38,26 +38,26 @@ target-languages:
    - wuu
    - yue
 use-target-labels:
-   '>>bod<<'
-   '>>brx<<'
-   '>>brx_Latn<<'
-   '>>cjy_Hans<<'
-   '>>cjy_Hant<<'
-   '>>cmn<<'
-   '>>cmn_Hans<<'
-   '>>cmn_Hant<<'
-   '>>eng<<'
-   '>>gan<<'
-   '>>hak<<'
-   '>>hak_Hani<<'
-   '>>hsn_Hani<<'
-   '>>lzh<<'
-   '>>lzh_Hans<<'
-   '>>mya<<'
-   '>>nan<<'
-   '>>wuu<<'
-   '>>yue_Hans<<'
-   '>>yue_Hant<<'
+   - ">>bod<<"
+   - ">>brx<<"
+   - ">>brx_Latn<<"
+   - ">>cjy_Hans<<"
+   - ">>cjy_Hant<<"
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>eng<<"
+   - ">>gan<<"
+   - ">>hak<<"
+   - ">>hak_Hani<<"
+   - ">>hsn_Hani<<"
+   - ">>lzh<<"
+   - ">>lzh_Hans<<"
+   - ">>mya<<"
+   - ">>nan<<"
+   - ">>wuu<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
 test-data:
    Tatoeba-test.bod-eng: 38/186
    Tatoeba-test.brx-eng: 12/46

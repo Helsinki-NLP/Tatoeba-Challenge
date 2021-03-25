@@ -132,133 +132,133 @@ target-languages:
    - zsm
    - zza
 use-target-labels:
-   '>>afr<<'
-   '>>aln<<'
-   '>>ang_Latn<<'
-   '>>arg<<'
-   '>>asm<<'
-   '>>ast<<'
-   '>>awa<<'
-   '>>bel<<'
-   '>>bel_Latn<<'
-   '>>ben<<'
-   '>>bho<<'
-   '>>bos_Latn<<'
-   '>>bre<<'
-   '>>bul<<'
-   '>>bul_Latn<<'
-   '>>cat<<'
-   '>>ces<<'
-   '>>cor<<'
-   '>>cos<<'
-   '>>csb_Latn<<'
-   '>>cym<<'
-   '>>dan<<'
-   '>>deu<<'
-   '>>dsb<<'
-   '>>egl<<'
-   '>>ell<<'
-   '>>enm_Latn<<'
-   '>>ext<<'
-   '>>fao<<'
-   '>>fra<<'
-   '>>frm_Latn<<'
-   '>>frr<<'
-   '>>fry<<'
-   '>>gcf_Latn<<'
-   '>>gla<<'
-   '>>gle<<'
-   '>>glg<<'
-   '>>glv<<'
-   '>>gom<<'
-   '>>gos<<'
-   '>>got_Goth<<'
-   '>>grc_Grek<<'
-   '>>gsw<<'
-   '>>guj<<'
-   '>>hat<<'
-   '>>hif_Latn<<'
-   '>>hin<<'
-   '>>hrv<<'
-   '>>hsb<<'
-   '>>hye<<'
-   '>>ind<<'
-   '>>isl<<'
-   '>>ita<<'
-   '>>jdt_Cyrl<<'
-   '>>ksh<<'
-   '>>kur_Arab<<'
-   '>>kur_Latn<<'
-   '>>lad<<'
-   '>>lad_Latn<<'
-   '>>lat_Latn<<'
-   '>>lav<<'
-   '>>lij<<'
-   '>>lit<<'
-   '>>lld_Latn<<'
-   '>>lmo<<'
-   '>>ltg<<'
-   '>>ltz<<'
-   '>>mai<<'
-   '>>mar<<'
-   '>>max_Latn<<'
-   '>>mfe<<'
-   '>>min<<'
-   '>>mkd<<'
-   '>>mwl<<'
-   '>>nds<<'
-   '>>nld<<'
-   '>>nno<<'
-   '>>nob<<'
-   '>>nob_Hebr<<'
-   '>>non_Latn<<'
-   '>>npi<<'
-   '>>oci<<'
-   '>>ori<<'
-   '>>orv_Cyrl<<'
-   '>>oss<<'
-   '>>pan_Guru<<'
-   '>>pap<<'
-   '>>pdc<<'
-   '>>pes<<'
-   '>>pes_Latn<<'
-   '>>pes_Thaa<<'
-   '>>pms<<'
-   '>>pnb<<'
-   '>>pol<<'
-   '>>por<<'
-   '>>prg_Latn<<'
-   '>>pus<<'
-   '>>roh<<'
-   '>>rom<<'
-   '>>ron<<'
-   '>>rue<<'
-   '>>rus<<'
-   '>>san_Deva<<'
-   '>>scn<<'
-   '>>sco<<'
-   '>>sgs<<'
-   '>>sin<<'
-   '>>slv<<'
-   '>>snd_Arab<<'
-   '>>spa<<'
-   '>>sqi<<'
-   '>>srp_Cyrl<<'
-   '>>srp_Latn<<'
-   '>>stq<<'
-   '>>swe<<'
-   '>>swg<<'
-   '>>tgk_Cyrl<<'
-   '>>tly_Latn<<'
-   '>>tmw_Latn<<'
-   '>>ukr<<'
-   '>>urd<<'
-   '>>vec<<'
-   '>>wln<<'
-   '>>yid<<'
-   '>>zlm_Latn<<'
-   '>>zsm_Latn<<'
-   '>>zza<<'
+   - ">>afr<<"
+   - ">>aln<<"
+   - ">>ang_Latn<<"
+   - ">>arg<<"
+   - ">>asm<<"
+   - ">>ast<<"
+   - ">>awa<<"
+   - ">>bel<<"
+   - ">>bel_Latn<<"
+   - ">>ben<<"
+   - ">>bho<<"
+   - ">>bos_Latn<<"
+   - ">>bre<<"
+   - ">>bul<<"
+   - ">>bul_Latn<<"
+   - ">>cat<<"
+   - ">>ces<<"
+   - ">>cor<<"
+   - ">>cos<<"
+   - ">>csb_Latn<<"
+   - ">>cym<<"
+   - ">>dan<<"
+   - ">>deu<<"
+   - ">>dsb<<"
+   - ">>egl<<"
+   - ">>ell<<"
+   - ">>enm_Latn<<"
+   - ">>ext<<"
+   - ">>fao<<"
+   - ">>fra<<"
+   - ">>frm_Latn<<"
+   - ">>frr<<"
+   - ">>fry<<"
+   - ">>gcf_Latn<<"
+   - ">>gla<<"
+   - ">>gle<<"
+   - ">>glg<<"
+   - ">>glv<<"
+   - ">>gom<<"
+   - ">>gos<<"
+   - ">>got_Goth<<"
+   - ">>grc_Grek<<"
+   - ">>gsw<<"
+   - ">>guj<<"
+   - ">>hat<<"
+   - ">>hif_Latn<<"
+   - ">>hin<<"
+   - ">>hrv<<"
+   - ">>hsb<<"
+   - ">>hye<<"
+   - ">>ind<<"
+   - ">>isl<<"
+   - ">>ita<<"
+   - ">>jdt_Cyrl<<"
+   - ">>ksh<<"
+   - ">>kur_Arab<<"
+   - ">>kur_Latn<<"
+   - ">>lad<<"
+   - ">>lad_Latn<<"
+   - ">>lat_Latn<<"
+   - ">>lav<<"
+   - ">>lij<<"
+   - ">>lit<<"
+   - ">>lld_Latn<<"
+   - ">>lmo<<"
+   - ">>ltg<<"
+   - ">>ltz<<"
+   - ">>mai<<"
+   - ">>mar<<"
+   - ">>max_Latn<<"
+   - ">>mfe<<"
+   - ">>min<<"
+   - ">>mkd<<"
+   - ">>mwl<<"
+   - ">>nds<<"
+   - ">>nld<<"
+   - ">>nno<<"
+   - ">>nob<<"
+   - ">>nob_Hebr<<"
+   - ">>non_Latn<<"
+   - ">>npi<<"
+   - ">>oci<<"
+   - ">>ori<<"
+   - ">>orv_Cyrl<<"
+   - ">>oss<<"
+   - ">>pan_Guru<<"
+   - ">>pap<<"
+   - ">>pdc<<"
+   - ">>pes<<"
+   - ">>pes_Latn<<"
+   - ">>pes_Thaa<<"
+   - ">>pms<<"
+   - ">>pnb<<"
+   - ">>pol<<"
+   - ">>por<<"
+   - ">>prg_Latn<<"
+   - ">>pus<<"
+   - ">>roh<<"
+   - ">>rom<<"
+   - ">>ron<<"
+   - ">>rue<<"
+   - ">>rus<<"
+   - ">>san_Deva<<"
+   - ">>scn<<"
+   - ">>sco<<"
+   - ">>sgs<<"
+   - ">>sin<<"
+   - ">>slv<<"
+   - ">>snd_Arab<<"
+   - ">>spa<<"
+   - ">>sqi<<"
+   - ">>srp_Cyrl<<"
+   - ">>srp_Latn<<"
+   - ">>stq<<"
+   - ">>swe<<"
+   - ">>swg<<"
+   - ">>tgk_Cyrl<<"
+   - ">>tly_Latn<<"
+   - ">>tmw_Latn<<"
+   - ">>ukr<<"
+   - ">>urd<<"
+   - ">>vec<<"
+   - ">>wln<<"
+   - ">>yid<<"
+   - ">>zlm_Latn<<"
+   - ">>zsm_Latn<<"
+   - ">>zza<<"
 test-data:
    Tatoeba-test.eng-afr: 1374/8813
    Tatoeba-test.eng-ang: 189/1596

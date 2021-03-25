@@ -50,25 +50,25 @@ target-languages:
    - vep
    - vro
 use-target-labels:
-   '>>eng<<'
-   '>>est<<'
-   '>>fin<<'
-   '>>fkv_Latn<<'
-   '>>hun<<'
-   '>>izh<<'
-   '>>kom<<'
-   '>>kpv<<'
-   '>>krl<<'
-   '>>liv_Latn<<'
-   '>>mdf<<'
-   '>>mhr<<'
-   '>>mrj<<'
-   '>>myv<<'
-   '>>sma<<'
-   '>>sme<<'
-   '>>udm<<'
-   '>>vep<<'
-   '>>vro<<'
+   - ">>eng<<"
+   - ">>est<<"
+   - ">>fin<<"
+   - ">>fkv_Latn<<"
+   - ">>hun<<"
+   - ">>izh<<"
+   - ">>kom<<"
+   - ">>kpv<<"
+   - ">>krl<<"
+   - ">>liv_Latn<<"
+   - ">>mdf<<"
+   - ">>mhr<<"
+   - ">>mrj<<"
+   - ">>myv<<"
+   - ">>sma<<"
+   - ">>sme<<"
+   - ">>udm<<"
+   - ">>vep<<"
+   - ">>vro<<"
 test-data:
    Tatoeba-test.chm-eng: 71/395
    Tatoeba-test.eng-chm: 71/298

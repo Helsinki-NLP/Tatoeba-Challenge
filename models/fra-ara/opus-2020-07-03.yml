@@ -18,12 +18,12 @@ target-languages:
    - ary
    - arz
 use-target-labels:
-   '>>apc<<'
-   '>>ara<<'
-   '>>arq<<'
-   '>>arq_Latn<<'
-   '>>ary<<'
-   '>>arz<<'
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>arq_Latn<<"
+   - ">>ary<<"
+   - ">>arz<<"
 test-data:
    Tatoeba-test.fra-ara: 1569/6780
 BLEU-scores:

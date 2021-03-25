@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - uig
 use-target-labels:
-   '>>uig_Arab<<'
-   '>>uig_Latn<<'
+   - ">>uig_Arab<<"
+   - ">>uig_Latn<<"
 test-data:
    Tatoeba-test.tur-uig: 1400/6252
 BLEU-scores:

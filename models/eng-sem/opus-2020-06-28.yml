@@ -26,22 +26,22 @@ target-languages:
    - tir
    - tmr
 use-target-labels:
-   '>>acm<<'
-   '>>afb<<'
-   '>>amh<<'
-   '>>apc<<'
-   '>>apc_Latn<<'
-   '>>ara<<'
-   '>>ara_Latn<<'
-   '>>arq<<'
-   '>>arq_Latn<<'
-   '>>ary<<'
-   '>>arz<<'
-   '>>heb<<'
-   '>>mlt<<'
-   '>>phn_Phnx<<'
-   '>>tir<<'
-   '>>tmr_Hebr<<'
+   - ">>acm<<"
+   - ">>afb<<"
+   - ">>amh<<"
+   - ">>apc<<"
+   - ">>apc_Latn<<"
+   - ">>ara<<"
+   - ">>ara_Latn<<"
+   - ">>arq<<"
+   - ">>arq_Latn<<"
+   - ">>ary<<"
+   - ">>arz<<"
+   - ">>heb<<"
+   - ">>mlt<<"
+   - ">>phn_Phnx<<"
+   - ">>tir<<"
+   - ">>tmr_Hebr<<"
 test-data:
    Tatoeba-test.eng-amh: 190/554
    Tatoeba-test.eng-ara: 10000/50193

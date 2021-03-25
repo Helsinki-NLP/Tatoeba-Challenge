@@ -14,9 +14,9 @@ source-languages:
 target-languages:
    - tuk
 use-target-labels:
-   '>>tuk<<'
-   '>>tuk_Cyrl<<'
-   '>>tuk_Latn<<'
+   - ">>tuk<<"
+   - ">>tuk_Cyrl<<"
+   - ">>tuk_Latn<<"
 test-data:
    Tatoeba-test.eng-tuk: 2500/12809
 BLEU-scores:

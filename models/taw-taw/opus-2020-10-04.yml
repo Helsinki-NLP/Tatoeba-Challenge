@@ -18,9 +18,9 @@ target-languages:
    - lao
    - tha
 use-target-labels:
-   '>>eng<<'
-   '>>lao<<'
-   '>>tha<<'
+   - ">>eng<<"
+   - ">>lao<<"
+   - ">>tha<<"
 test-data:
    Tatoeba-test.eng-lao: 36/44
    Tatoeba-test.eng-tha: 1145/1338

@@ -20,10 +20,10 @@ target-languages:
    - mar
    - urd
 use-target-labels:
-   '>>asm<<'
-   '>>hin<<'
-   '>>mar<<'
-   '>>urd<<'
+   - ">>asm<<"
+   - ">>hin<<"
+   - ">>mar<<"
+   - ">>urd<<"
 test-data:
    Tatoeba-test.asm-hin: 4/15
    Tatoeba-test.hin-asm: 4/13

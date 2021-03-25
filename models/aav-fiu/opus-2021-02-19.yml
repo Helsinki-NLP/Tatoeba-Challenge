@@ -10,24 +10,24 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>eng<<'
-   '>>est<<'
-   '>>fin<<'
-   '>>fkv_Latn<<'
-   '>>hun<<'
-   '>>izh<<'
-   '>>kom<<'
-   '>>kpv<<'
-   '>>krl<<'
-   '>>liv_Latn<<'
-   '>>mdf<<'
-   '>>mhr<<'
-   '>>mrj<<'
-   '>>myv<<'
-   '>>sma<<'
-   '>>sme<<'
-   '>>udm<<'
-   '>>vro<<'
+   - ">>eng<<"
+   - ">>est<<"
+   - ">>fin<<"
+   - ">>fkv_Latn<<"
+   - ">>hun<<"
+   - ">>izh<<"
+   - ">>kom<<"
+   - ">>kpv<<"
+   - ">>krl<<"
+   - ">>liv_Latn<<"
+   - ">>mdf<<"
+   - ">>mhr<<"
+   - ">>mrj<<"
+   - ">>myv<<"
+   - ">>sma<<"
+   - ">>sme<<"
+   - ">>udm<<"
+   - ">>vro<<"
 source-languages:
    - eng
    - hoc

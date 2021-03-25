@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - tam
 use-target-labels:
-   '>>tam<<'
-   '>>tam_Deva<<'
+   - ">>tam<<"
+   - ">>tam_Deva<<"
 test-data:
    Tatoeba-test.eng-tam: 311/1364
 BLEU-scores:

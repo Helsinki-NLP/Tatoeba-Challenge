@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - khm
 use-target-labels:
-   '>>khm<<'
-   '>>khm_Latn<<'
+   - ">>khm<<"
+   - ">>khm_Latn<<"
 test-data:
    Tatoeba-test.spa-khm: 1472/3031
 BLEU-scores:

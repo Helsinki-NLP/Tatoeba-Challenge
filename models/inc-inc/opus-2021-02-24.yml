@@ -10,11 +10,11 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>asm<<'
-   '>>hin<<'
-   '>>mar<<'
-   '>>urd<<'
-   '>>urd_Deva<<'
+   - ">>asm<<"
+   - ">>hin<<"
+   - ">>mar<<"
+   - ">>urd<<"
+   - ">>urd_Deva<<"
 source-languages:
    - asm
    - hin

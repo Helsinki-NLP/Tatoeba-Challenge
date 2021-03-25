@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - bul
 use-target-labels:
-   '>>bul<<'
-   '>>bul_Latn<<'
+   - ">>bul<<"
+   - ">>bul_Latn<<"
 test-data:
    Tatoeba-test.eng-bul: 10000/56740
 BLEU-scores:

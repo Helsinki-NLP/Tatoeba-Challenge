@@ -10,12 +10,12 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>bre<<'
-   '>>cor<<'
-   '>>cym<<'
-   '>>gla<<'
-   '>>gle<<'
-   '>>glv<<'
+   - ">>bre<<"
+   - ">>cor<<"
+   - ">>cym<<"
+   - ">>gla<<"
+   - ">>gle<<"
+   - ">>glv<<"
 source-languages:
    - eng
 target-languages:

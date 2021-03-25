@@ -18,12 +18,12 @@ target-languages:
    - rus
    - ukr
 use-target-labels:
-   '>>bel<<'
-   '>>bel_Latn<<'
-   '>>orv_Cyrl<<'
-   '>>rue<<'
-   '>>rus<<'
-   '>>ukr<<'
+   - ">>bel<<"
+   - ">>bel_Latn<<"
+   - ">>orv_Cyrl<<"
+   - ">>rue<<"
+   - ">>rus<<"
+   - ">>ukr<<"
 test-data:
    Tatoeba-test.eng-bel: 2500/12908
    Tatoeba-test.eng-multi: 0/0

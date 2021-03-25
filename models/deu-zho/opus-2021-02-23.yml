@@ -10,15 +10,15 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>cmn<<'
-   '>>cmn_Hans<<'
-   '>>cmn_Hant<<'
-   '>>lzh<<'
-   '>>lzh_Hans<<'
-   '>>nan<<'
-   '>>wuu<<'
-   '>>yue_Hans<<'
-   '>>yue_Hant<<'
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>lzh<<"
+   - ">>lzh_Hans<<"
+   - ">>nan<<"
+   - ">>wuu<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
 source-languages:
    - deu
 target-languages:

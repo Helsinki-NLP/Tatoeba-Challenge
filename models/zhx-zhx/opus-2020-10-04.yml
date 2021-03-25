@@ -32,22 +32,22 @@ target-languages:
    - wuu
    - yue
 use-target-labels:
-   '>>cjy_Hans<<'
-   '>>cjy_Hant<<'
-   '>>cmn<<'
-   '>>cmn_Hans<<'
-   '>>cmn_Hant<<'
-   '>>eng<<'
-   '>>gan<<'
-   '>>hak<<'
-   '>>hak_Hani<<'
-   '>>hsn_Hani<<'
-   '>>lzh<<'
-   '>>lzh_Hans<<'
-   '>>nan<<'
-   '>>wuu<<'
-   '>>yue_Hans<<'
-   '>>yue_Hant<<'
+   - ">>cjy_Hans<<"
+   - ">>cjy_Hant<<"
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>eng<<"
+   - ">>gan<<"
+   - ">>hak<<"
+   - ">>hak_Hani<<"
+   - ">>hsn_Hani<<"
+   - ">>lzh<<"
+   - ">>lzh_Hans<<"
+   - ">>nan<<"
+   - ">>wuu<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
 test-data:
    Tatoeba-test.eng-zho: 10000/10211
    Tatoeba-test.multi-multi: 10000/40836

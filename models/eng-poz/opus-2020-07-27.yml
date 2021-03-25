@@ -47,41 +47,41 @@ target-languages:
    - zlm
    - zsm
 use-target-labels:
-   '>>akl_Latn<<'
-   '>>ceb<<'
-   '>>cha<<'
-   '>>dtp<<'
-   '>>fij<<'
-   '>>gil<<'
-   '>>haw<<'
-   '>>hil<<'
-   '>>iba<<'
-   '>>ilo<<'
-   '>>ind<<'
-   '>>jav<<'
-   '>>jav_Java<<'
-   '>>lkt<<'
-   '>>mad<<'
-   '>>mah<<'
-   '>>max_Latn<<'
-   '>>min<<'
-   '>>mlg<<'
-   '>>mri<<'
-   '>>nau<<'
-   '>>niu<<'
-   '>>pag<<'
-   '>>pau<<'
-   '>>rap<<'
-   '>>smo<<'
-   '>>sun<<'
-   '>>tah<<'
-   '>>tet<<'
-   '>>tmw_Latn<<'
-   '>>ton<<'
-   '>>tvl<<'
-   '>>war<<'
-   '>>zlm_Latn<<'
-   '>>zsm_Latn<<'
+   - ">>akl_Latn<<"
+   - ">>ceb<<"
+   - ">>cha<<"
+   - ">>dtp<<"
+   - ">>fij<<"
+   - ">>gil<<"
+   - ">>haw<<"
+   - ">>hil<<"
+   - ">>iba<<"
+   - ">>ilo<<"
+   - ">>ind<<"
+   - ">>jav<<"
+   - ">>jav_Java<<"
+   - ">>lkt<<"
+   - ">>mad<<"
+   - ">>mah<<"
+   - ">>max_Latn<<"
+   - ">>min<<"
+   - ">>mlg<<"
+   - ">>mri<<"
+   - ">>nau<<"
+   - ">>niu<<"
+   - ">>pag<<"
+   - ">>pau<<"
+   - ">>rap<<"
+   - ">>smo<<"
+   - ">>sun<<"
+   - ">>tah<<"
+   - ">>tet<<"
+   - ">>tmw_Latn<<"
+   - ">>ton<<"
+   - ">>tvl<<"
+   - ">>war<<"
+   - ">>zlm_Latn<<"
+   - ">>zsm_Latn<<"
 test-data:
    Tatoeba-test.eng-akl: 27/69
    Tatoeba-test.eng-ceb: 378/1678

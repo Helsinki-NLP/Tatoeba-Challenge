@@ -19,12 +19,12 @@ target-languages:
    - pag
    - war
 use-target-labels:
-   '>>akl_Latn<<'
-   '>>ceb<<'
-   '>>hil<<'
-   '>>ilo<<'
-   '>>pag<<'
-   '>>war<<'
+   - ">>akl_Latn<<"
+   - ">>ceb<<"
+   - ">>hil<<"
+   - ">>ilo<<"
+   - ">>pag<<"
+   - ">>war<<"
 test-data:
    Tatoeba-test.eng-akl: 27/69
    Tatoeba-test.eng-ceb: 378/1678

@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - uzb
 use-target-labels:
-   '>>uzb_Cyrl<<'
-   '>>uzb_Latn<<'
+   - ">>uzb_Cyrl<<"
+   - ">>uzb_Latn<<"
 test-data:
    Tatoeba-test.tur-uzb: 203/729
 BLEU-scores:

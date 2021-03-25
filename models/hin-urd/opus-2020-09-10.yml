@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - urd
 use-target-labels:
-   '>>urd<<'
-   '>>urd_Deva<<'
+   - ">>urd<<"
+   - ">>urd_Deva<<"
 test-data:
    Tatoeba-test.hin-urd: 239/1591
 BLEU-scores:

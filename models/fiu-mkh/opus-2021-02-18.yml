@@ -10,9 +10,9 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>khm<<'
-   '>>khm_Latn<<'
-   '>>vie<<'
+   - ">>khm<<"
+   - ">>khm_Latn<<"
+   - ">>vie<<"
 source-languages:
    - fin
    - hun

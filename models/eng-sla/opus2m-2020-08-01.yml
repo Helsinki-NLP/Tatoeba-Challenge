@@ -29,25 +29,25 @@ target-languages:
    - srp
    - ukr
 use-target-labels:
-   '>>bel<<'
-   '>>bel_Latn<<'
-   '>>bos_Latn<<'
-   '>>bul<<'
-   '>>bul_Latn<<'
-   '>>ces<<'
-   '>>csb_Latn<<'
-   '>>dsb<<'
-   '>>hrv<<'
-   '>>hsb<<'
-   '>>mkd<<'
-   '>>orv_Cyrl<<'
-   '>>pol<<'
-   '>>rue<<'
-   '>>rus<<'
-   '>>slv<<'
-   '>>srp_Cyrl<<'
-   '>>srp_Latn<<'
-   '>>ukr<<'
+   - ">>bel<<"
+   - ">>bel_Latn<<"
+   - ">>bos_Latn<<"
+   - ">>bul<<"
+   - ">>bul_Latn<<"
+   - ">>ces<<"
+   - ">>csb_Latn<<"
+   - ">>dsb<<"
+   - ">>hrv<<"
+   - ">>hsb<<"
+   - ">>mkd<<"
+   - ">>orv_Cyrl<<"
+   - ">>pol<<"
+   - ">>rue<<"
+   - ">>rus<<"
+   - ">>slv<<"
+   - ">>srp_Cyrl<<"
+   - ">>srp_Latn<<"
+   - ">>ukr<<"
 test-data:
    Tatoeba-test.eng-bel: 2500/12908
    Tatoeba-test.eng-bul: 10000/56740

@@ -14,8 +14,8 @@ source-languages:
 target-languages:
    - ita
 use-target-labels:
-   '>>ita<<'
-   '>>ita_Hira<<'
+   - ">>ita<<"
+   - ">>ita_Hira<<"
 test-data:
    Tatoeba-test.epo-ita: 10000/55577
 BLEU-scores:

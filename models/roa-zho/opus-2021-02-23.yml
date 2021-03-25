@@ -10,20 +10,20 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>cjy_Hans<<'
-   '>>cjy_Hant<<'
-   '>>cmn<<'
-   '>>cmn_Hans<<'
-   '>>cmn_Hant<<'
-   '>>hak<<'
-   '>>hsn<<'
-   '>>hsn_Hani<<'
-   '>>lzh<<'
-   '>>lzh_Hans<<'
-   '>>nan<<'
-   '>>wuu<<'
-   '>>yue_Hans<<'
-   '>>yue_Hant<<'
+   - ">>cjy_Hans<<"
+   - ">>cjy_Hant<<"
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>hak<<"
+   - ">>hsn<<"
+   - ">>hsn_Hani<<"
+   - ">>lzh<<"
+   - ">>lzh_Hans<<"
+   - ">>nan<<"
+   - ">>wuu<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
 source-languages:
    - cat
    - fra

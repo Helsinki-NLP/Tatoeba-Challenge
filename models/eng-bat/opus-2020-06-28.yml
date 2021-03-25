@@ -18,11 +18,11 @@ target-languages:
    - prg
    - sgs
 use-target-labels:
-   '>>lav<<'
-   '>>lit<<'
-   '>>ltg<<'
-   '>>prg_Latn<<'
-   '>>sgs<<'
+   - ">>lav<<"
+   - ">>lit<<"
+   - ">>ltg<<"
+   - ">>prg_Latn<<"
+   - ">>sgs<<"
 test-data:
    Tatoeba-test.eng-lav: 1631/7915
    Tatoeba-test.eng-lit: 2500/11920

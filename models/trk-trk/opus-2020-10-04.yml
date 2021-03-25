@@ -54,38 +54,38 @@ target-languages:
    - uig
    - uzb
 use-target-labels:
-   '>>aze_Arab<<'
-   '>>bak<<'
-   '>>chg_Arab<<'
-   '>>chg_Latn<<'
-   '>>chv<<'
-   '>>crh<<'
-   '>>crh_Latn<<'
-   '>>eng<<'
-   '>>gag<<'
-   '>>kaa_Latn<<'
-   '>>kaz_Cyrl<<'
-   '>>kaz_Latn<<'
-   '>>kir_Cyrl<<'
-   '>>kjh<<'
-   '>>krc<<'
-   '>>kum<<'
-   '>>ota_Arab<<'
-   '>>ota_Latn<<'
-   '>>sah<<'
-   '>>tat<<'
-   '>>tat_Arab<<'
-   '>>tat_Latn<<'
-   '>>tuk<<'
-   '>>tuk_Cyrl<<'
-   '>>tuk_Latn<<'
-   '>>tur<<'
-   '>>tyv<<'
-   '>>uig_Arab<<'
-   '>>uig_Cyrl<<'
-   '>>uig_Latn<<'
-   '>>uzb_Cyrl<<'
-   '>>uzb_Latn<<'
+   - ">>aze_Arab<<"
+   - ">>bak<<"
+   - ">>chg_Arab<<"
+   - ">>chg_Latn<<"
+   - ">>chv<<"
+   - ">>crh<<"
+   - ">>crh_Latn<<"
+   - ">>eng<<"
+   - ">>gag<<"
+   - ">>kaa_Latn<<"
+   - ">>kaz_Cyrl<<"
+   - ">>kaz_Latn<<"
+   - ">>kir_Cyrl<<"
+   - ">>kjh<<"
+   - ">>krc<<"
+   - ">>kum<<"
+   - ">>ota_Arab<<"
+   - ">>ota_Latn<<"
+   - ">>sah<<"
+   - ">>tat<<"
+   - ">>tat_Arab<<"
+   - ">>tat_Latn<<"
+   - ">>tuk<<"
+   - ">>tuk_Cyrl<<"
+   - ">>tuk_Latn<<"
+   - ">>tur<<"
+   - ">>tyv<<"
+   - ">>uig_Arab<<"
+   - ">>uig_Cyrl<<"
+   - ">>uig_Latn<<"
+   - ">>uzb_Cyrl<<"
+   - ">>uzb_Latn<<"
 test-data:
    Tatoeba-test.aze-eng: 2659/13295
    Tatoeba-test.aze-tur: 1126/4106

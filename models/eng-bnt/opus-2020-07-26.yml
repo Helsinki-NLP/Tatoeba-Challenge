@@ -25,18 +25,18 @@ target-languages:
    - xho
    - zul
 use-target-labels:
-   '>>kin<<'
-   '>>lin<<'
-   '>>lug<<'
-   '>>nya<<'
-   '>>run<<'
-   '>>sna<<'
-   '>>swh<<'
-   '>>toi_Latn<<'
-   '>>tso<<'
-   '>>umb<<'
-   '>>xho<<'
-   '>>zul<<'
+   - ">>kin<<"
+   - ">>lin<<"
+   - ">>lug<<"
+   - ">>nya<<"
+   - ">>run<<"
+   - ">>sna<<"
+   - ">>swh<<"
+   - ">>toi_Latn<<"
+   - ">>tso<<"
+   - ">>umb<<"
+   - ">>xho<<"
+   - ">>zul<<"
 test-data:
    Tatoeba-test.eng-kin: 17/60
    Tatoeba-test.eng-lin: 28/154

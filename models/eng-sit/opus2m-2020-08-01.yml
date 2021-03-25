@@ -24,26 +24,26 @@ target-languages:
    - yue
    - zho
 use-target-labels:
-   '>>bod<<'
-   '>>brx<<'
-   '>>brx_Latn<<'
-   '>>cjy_Hans<<'
-   '>>cjy_Hant<<'
-   '>>cmn<<'
-   '>>cmn_Hans<<'
-   '>>cmn_Hant<<'
-   '>>gan<<'
-   '>>lzh<<'
-   '>>lzh_Hans<<'
-   '>>mya<<'
-   '>>nan<<'
-   '>>wuu<<'
-   '>>yue<<'
-   '>>yue_Hans<<'
-   '>>yue_Hant<<'
-   '>>zho<<'
-   '>>zho_Hans<<'
-   '>>zho_Hant<<'
+   - ">>bod<<"
+   - ">>brx<<"
+   - ">>brx_Latn<<"
+   - ">>cjy_Hans<<"
+   - ">>cjy_Hant<<"
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>gan<<"
+   - ">>lzh<<"
+   - ">>lzh_Hans<<"
+   - ">>mya<<"
+   - ">>nan<<"
+   - ">>wuu<<"
+   - ">>yue<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
+   - ">>zho<<"
+   - ">>zho_Hans<<"
+   - ">>zho_Hant<<"
 test-data:
    Tatoeba-test.eng-bod: 38/42
    Tatoeba-test.eng-brx: 12/40

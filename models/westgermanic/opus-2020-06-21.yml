@@ -44,22 +44,22 @@ target-languages:
    - swg
    - yid
 use-target-labels:
-   '>>afr<<'
-   '>>ang_Latn<<'
-   '>>bar<<'
-   '>>deu<<'
-   '>>eng<<'
-   '>>enm_Latn<<'
-   '>>fry<<'
-   '>>gos<<'
-   '>>hrx_Latn<<'
-   '>>ltz<<'
-   '>>nds<<'
-   '>>nld<<'
-   '>>prg_Latn<<'
-   '>>sco<<'
-   '>>swg<<'
-   '>>yid<<'
+   - ">>afr<<"
+   - ">>ang_Latn<<"
+   - ">>bar<<"
+   - ">>deu<<"
+   - ">>eng<<"
+   - ">>enm_Latn<<"
+   - ">>fry<<"
+   - ">>gos<<"
+   - ">>hrx_Latn<<"
+   - ">>ltz<<"
+   - ">>nds<<"
+   - ">>nld<<"
+   - ">>prg_Latn<<"
+   - ">>sco<<"
+   - ">>swg<<"
+   - ">>yid<<"
 test-data:
    Tatoeba-test.afr-ang: 1/3
    Tatoeba-test.afr-deu: 1583/7355

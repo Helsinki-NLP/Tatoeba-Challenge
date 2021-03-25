@@ -38,25 +38,25 @@ target-languages:
    - tly
    - zza
 use-target-labels:
-   '>>diq<<'
-   '>>eng<<'
-   '>>fas<<'
-   '>>jdt_Cyrl<<'
-   '>>kmr<<'
-   '>>kmr_Latn<<'
-   '>>kur_Arab<<'
-   '>>kur_Latn<<'
-   '>>oss<<'
-   '>>oss_Latn<<'
-   '>>pes<<'
-   '>>pes_Latn<<'
-   '>>pes_Thaa<<'
-   '>>prs<<'
-   '>>pus<<'
-   '>>tgk_Cyrl<<'
-   '>>tgk_Latn<<'
-   '>>tly_Latn<<'
-   '>>zza<<'
+   - ">>diq<<"
+   - ">>eng<<"
+   - ">>fas<<"
+   - ">>jdt_Cyrl<<"
+   - ">>kmr<<"
+   - ">>kmr_Latn<<"
+   - ">>kur_Arab<<"
+   - ">>kur_Latn<<"
+   - ">>oss<<"
+   - ">>oss_Latn<<"
+   - ">>pes<<"
+   - ">>pes_Latn<<"
+   - ">>pes_Thaa<<"
+   - ">>prs<<"
+   - ">>pus<<"
+   - ">>tgk_Cyrl<<"
+   - ">>tgk_Latn<<"
+   - ">>tly_Latn<<"
+   - ">>zza<<"
 test-data:
    Tatoeba-test.eng-fas: 3768/27610
    Tatoeba-test.eng-jdt: 2/4

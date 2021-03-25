@@ -10,9 +10,9 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>pob<<'
-   '>>por<<'
-   '>>por_Hira<<'
+   - ">>pob<<"
+   - ">>por<<"
+   - ">>por_Hira<<"
 source-languages:
    - jpn
 target-languages:

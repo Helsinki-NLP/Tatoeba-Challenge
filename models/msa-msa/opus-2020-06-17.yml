@@ -22,11 +22,11 @@ target-languages:
    - zlm
    - zsm
 use-target-labels:
-   '>>ind<<'
-   '>>max_Latn<<'
-   '>>min<<'
-   '>>zlm_Latn<<'
-   '>>zsm_Latn<<'
+   - ">>ind<<"
+   - ">>max_Latn<<"
+   - ">>min<<"
+   - ">>zlm_Latn<<"
+   - ">>zsm_Latn<<"
 test-data:
    Tatoeba-test.msa-msa: 870/4915
 BLEU-scores:

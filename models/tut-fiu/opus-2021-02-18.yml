@@ -10,10 +10,10 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>est<<'
-   '>>fin<<'
-   '>>hun<<'
-   '>>mhr<<'
+   - ">>est<<"
+   - ">>fin<<"
+   - ">>hun<<"
+   - ">>mhr<<"
 source-languages:
    - bak
    - kaz

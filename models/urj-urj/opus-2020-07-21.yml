@@ -30,15 +30,15 @@ target-languages:
    - vep
    - vro
 use-target-labels:
-   '>>est<<'
-   '>>fin<<'
-   '>>fkv_Latn<<'
-   '>>hun<<'
-   '>>izh<<'
-   '>>krl<<'
-   '>>liv_Latn<<'
-   '>>vep<<'
-   '>>vro<<'
+   - ">>est<<"
+   - ">>fin<<"
+   - ">>fkv_Latn<<"
+   - ">>hun<<"
+   - ">>izh<<"
+   - ">>krl<<"
+   - ">>liv_Latn<<"
+   - ">>vep<<"
+   - ">>vro<<"
 test-data:
    Tatoeba-test.est-est: 2/46
    Tatoeba-test.est-fin: 189/750

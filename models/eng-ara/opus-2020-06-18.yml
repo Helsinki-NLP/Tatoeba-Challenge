@@ -20,16 +20,16 @@ target-languages:
    - ary
    - arz
 use-target-labels:
-   '>>acm<<'
-   '>>afb<<'
-   '>>apc<<'
-   '>>apc_Latn<<'
-   '>>ara<<'
-   '>>ara_Latn<<'
-   '>>arq<<'
-   '>>arq_Latn<<'
-   '>>ary<<'
-   '>>arz<<'
+   - ">>acm<<"
+   - ">>afb<<"
+   - ">>apc<<"
+   - ">>apc_Latn<<"
+   - ">>ara<<"
+   - ">>ara_Latn<<"
+   - ">>arq<<"
+   - ">>arq_Latn<<"
+   - ">>ary<<"
+   - ">>arz<<"
 test-data:
    Tatoeba-test.eng-ara: 10000/50193
 BLEU-scores:

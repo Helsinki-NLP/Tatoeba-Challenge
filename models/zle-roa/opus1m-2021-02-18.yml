@@ -10,27 +10,27 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>ast<<'
-   '>>cat<<'
-   '>>fra<<'
-   '>>gcf_Latn<<'
-   '>>glg<<'
-   '>>ind<<'
-   '>>ita<<'
-   '>>jak_Latn<<'
-   '>>lad<<'
-   '>>lad_Latn<<'
-   '>>min<<'
-   '>>mol<<'
-   '>>msa_Latn<<'
-   '>>oci<<'
-   '>>pob<<'
-   '>>por<<'
-   '>>ron<<'
-   '>>spa<<'
-   '>>zlm<<'
-   '>>zlm_Latn<<'
-   '>>zsm_Latn<<'
+   - ">>ast<<"
+   - ">>cat<<"
+   - ">>fra<<"
+   - ">>gcf_Latn<<"
+   - ">>glg<<"
+   - ">>ind<<"
+   - ">>ita<<"
+   - ">>jak_Latn<<"
+   - ">>lad<<"
+   - ">>lad_Latn<<"
+   - ">>min<<"
+   - ">>mol<<"
+   - ">>msa_Latn<<"
+   - ">>oci<<"
+   - ">>pob<<"
+   - ">>por<<"
+   - ">>ron<<"
+   - ">>spa<<"
+   - ">>zlm<<"
+   - ">>zlm_Latn<<"
+   - ">>zsm_Latn<<"
 source-languages:
    - bel
    - orv

@@ -10,12 +10,12 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>dan<<'
-   '>>fao<<'
-   '>>isl<<'
-   '>>nno<<'
-   '>>nob<<'
-   '>>swe<<'
+   - ">>dan<<"
+   - ">>fao<<"
+   - ">>isl<<"
+   - ">>nno<<"
+   - ">>nob<<"
+   - ">>swe<<"
 source-languages:
    - est
    - fin

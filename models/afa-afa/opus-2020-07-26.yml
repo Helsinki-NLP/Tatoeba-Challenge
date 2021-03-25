@@ -30,15 +30,15 @@ target-languages:
    - shy
    - thv
 use-target-labels:
-   '>>apc<<'
-   '>>ara<<'
-   '>>arq<<'
-   '>>arz<<'
-   '>>heb<<'
-   '>>kab<<'
-   '>>mlt<<'
-   '>>shy_Latn<<'
-   '>>thv<<'
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>arz<<"
+   - ">>heb<<"
+   - ">>kab<<"
+   - ">>mlt<<"
+   - ">>shy_Latn<<"
+   - ">>thv<<"
 test-data:
    Tatoeba-test.ara-ara: 16/48
    Tatoeba-test.ara-heb: 1208/5440

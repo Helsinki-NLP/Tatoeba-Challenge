@@ -10,10 +10,10 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>ces<<'
-   '>>dsb<<'
-   '>>hsb<<'
-   '>>pol<<'
+   - ">>ces<<"
+   - ">>dsb<<"
+   - ">>hsb<<"
+   - ">>pol<<"
 source-languages:
    - ces
    - dsb

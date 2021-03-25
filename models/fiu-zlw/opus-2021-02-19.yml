@@ -10,8 +10,8 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>ces<<'
-   '>>pol<<'
+   - ">>ces<<"
+   - ">>pol<<"
 source-languages:
    - est
    - fin

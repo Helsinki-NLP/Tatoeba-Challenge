@@ -20,10 +20,10 @@ target-languages:
    - hsb
    - pol
 use-target-labels:
-   '>>ces<<'
-   '>>dsb<<'
-   '>>hsb<<'
-   '>>pol<<'
+   - ">>ces<<"
+   - ">>dsb<<"
+   - ">>hsb<<"
+   - ">>pol<<"
 test-data:
    Tatoeba-test.ces-hsb: 84/377
    Tatoeba-test.ces-pol: 561/2684

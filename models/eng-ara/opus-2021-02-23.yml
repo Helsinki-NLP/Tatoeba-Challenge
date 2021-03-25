@@ -10,13 +10,13 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>acm<<'
-   '>>afb<<'
-   '>>apc<<'
-   '>>ara<<'
-   '>>arq<<'
-   '>>ary<<'
-   '>>arz<<'
+   - ">>acm<<"
+   - ">>afb<<"
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>ary<<"
+   - ">>arz<<"
 source-languages:
    - eng
 target-languages:

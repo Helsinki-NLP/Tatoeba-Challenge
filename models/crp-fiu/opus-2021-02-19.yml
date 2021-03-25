@@ -10,8 +10,8 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>fin<<'
-   '>>hun<<'
+   - ">>fin<<"
+   - ">>hun<<"
 source-languages:
    - ind
    - jak

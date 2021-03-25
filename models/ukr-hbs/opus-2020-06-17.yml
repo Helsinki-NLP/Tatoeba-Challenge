@@ -15,9 +15,9 @@ target-languages:
    - hrv
    - srp
 use-target-labels:
-   '>>hrv<<'
-   '>>srp_Cyrl<<'
-   '>>srp_Latn<<'
+   - ">>hrv<<"
+   - ">>srp_Cyrl<<"
+   - ">>srp_Latn<<"
 test-data:
    Tatoeba-test.ukr-hbs: 941/4006
 BLEU-scores:

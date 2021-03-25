@@ -10,10 +10,10 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>apc<<'
-   '>>ara<<'
-   '>>arq<<'
-   '>>arz<<'
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>arz<<"
 source-languages:
    - spa
 target-languages:

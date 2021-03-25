@@ -18,11 +18,11 @@ target-languages:
    - arq
    - arz
 use-target-labels:
-   '>>acm<<'
-   '>>apc<<'
-   '>>ara<<'
-   '>>arq<<'
-   '>>arz<<'
+   - ">>acm<<"
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>arz<<"
 test-data:
    Tatoeba-test.jpn-ara: 1336/5945
 BLEU-scores:

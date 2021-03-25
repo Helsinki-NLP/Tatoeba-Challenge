@@ -30,8 +30,8 @@ target-languages:
    - eng
    - hau
 use-target-labels:
-   '>>eng<<'
-   '>>hau_Latn<<'
+   - ">>eng<<"
+   - ">>hau_Latn<<"
 test-data:
    Tatoeba-test.amh-eng: 190/802
    Tatoeba-test.ara-eng: 10000/62449

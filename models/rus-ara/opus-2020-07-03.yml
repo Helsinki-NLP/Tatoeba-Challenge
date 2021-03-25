@@ -16,9 +16,9 @@ target-languages:
    - ara
    - arz
 use-target-labels:
-   '>>apc<<'
-   '>>ara<<'
-   '>>arz<<'
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arz<<"
 test-data:
    Tatoeba-test.rus-ara: 3715/15750
 BLEU-scores:

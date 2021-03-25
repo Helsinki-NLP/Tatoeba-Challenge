@@ -16,8 +16,8 @@ target-languages:
    - eng
    - kat
 use-target-labels:
-   '>>eng<<'
-   '>>kat<<'
+   - ">>eng<<"
+   - ">>kat<<"
 test-data:
    Tatoeba-test.eng-kat: 983/3360
    Tatoeba-test.kat-eng: 983/4898

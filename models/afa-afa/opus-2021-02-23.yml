@@ -10,22 +10,22 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>afb<<'
-   '>>apc<<'
-   '>>ara<<'
-   '>>arq<<'
-   '>>arz<<'
-   '>>heb<<'
-   '>>jpa_Hebr<<'
-   '>>kab<<'
-   '>>mlt<<'
-   '>>oar_Hebr<<'
-   '>>phn_Phnx<<'
-   '>>shy_Latn<<'
-   '>>syc_Syrc<<'
-   '>>thv<<'
-   '>>tmh<<'
-   '>>tmr_Hebr<<'
+   - ">>afb<<"
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>arz<<"
+   - ">>heb<<"
+   - ">>jpa_Hebr<<"
+   - ">>kab<<"
+   - ">>mlt<<"
+   - ">>oar_Hebr<<"
+   - ">>phn_Phnx<<"
+   - ">>shy_Latn<<"
+   - ">>syc_Syrc<<"
+   - ">>thv<<"
+   - ">>tmh<<"
+   - ">>tmr_Hebr<<"
 source-languages:
    - afb
    - apc

@@ -10,9 +10,9 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>swa<<'
-   '>>swc<<'
-   '>>swh<<'
+   - ">>swa<<"
+   - ">>swc<<"
+   - ">>swh<<"
 source-languages:
    - eng
 target-languages:

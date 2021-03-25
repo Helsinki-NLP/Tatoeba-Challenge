@@ -17,10 +17,10 @@ target-languages:
    - arq
    - arz
 use-target-labels:
-   '>>apc<<'
-   '>>ara<<'
-   '>>arq<<'
-   '>>arz<<'
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>arz<<"
 test-data:
    Tatoeba-test.epo-ara: 723/2964
 BLEU-scores:

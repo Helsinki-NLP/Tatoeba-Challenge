@@ -16,8 +16,8 @@ target-languages:
    - eng
    - som
 use-target-labels:
-   '>>eng<<'
-   '>>som<<'
+   - ">>eng<<"
+   - ">>som<<"
 test-data:
    Tatoeba-test.eng-som: 1/2
    Tatoeba-test.multi-multi: 2/4

@@ -31,24 +31,24 @@ target-languages:
    - snd
    - urd
 use-target-labels:
-   '>>asm<<'
-   '>>awa<<'
-   '>>ben<<'
-   '>>bho<<'
-   '>>gom<<'
-   '>>guj<<'
-   '>>hif_Latn<<'
-   '>>hin<<'
-   '>>mai<<'
-   '>>mar<<'
-   '>>npi<<'
-   '>>ori<<'
-   '>>pan_Guru<<'
-   '>>pnb<<'
-   '>>rom<<'
-   '>>sin<<'
-   '>>snd_Arab<<'
-   '>>urd<<'
+   - ">>asm<<"
+   - ">>awa<<"
+   - ">>ben<<"
+   - ">>bho<<"
+   - ">>gom<<"
+   - ">>guj<<"
+   - ">>hif_Latn<<"
+   - ">>hin<<"
+   - ">>mai<<"
+   - ">>mar<<"
+   - ">>npi<<"
+   - ">>ori<<"
+   - ">>pan_Guru<<"
+   - ">>pnb<<"
+   - ">>rom<<"
+   - ">>sin<<"
+   - ">>snd_Arab<<"
+   - ">>urd<<"
 test-data:
    Tatoeba-test.eng-asm: 117/530
    Tatoeba-test.eng-awa: 279/1087

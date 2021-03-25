@@ -16,9 +16,9 @@ target-languages:
    - rmy
    - rom
 use-target-labels:
-   '>>rmn<<'
-   '>>rmy<<'
-   '>>rom<<'
+   - ">>rmn<<"
+   - ">>rmy<<"
+   - ">>rom<<"
 test-data:
    Tatoeba-test.eng-rom: 671/4283
 BLEU-scores:

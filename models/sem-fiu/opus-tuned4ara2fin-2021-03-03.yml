@@ -10,7 +10,7 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>fin<<'
+   - ">>fin<<"
 source-languages:
    - ara
    - arq

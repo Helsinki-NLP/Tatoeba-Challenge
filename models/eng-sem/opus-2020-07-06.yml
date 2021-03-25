@@ -24,17 +24,17 @@ target-languages:
    - mlt
    - tir
 use-target-labels:
-   '>>acm<<'
-   '>>afb<<'
-   '>>amh<<'
-   '>>apc<<'
-   '>>ara<<'
-   '>>arq<<'
-   '>>ary<<'
-   '>>arz<<'
-   '>>heb<<'
-   '>>mlt<<'
-   '>>tir<<'
+   - ">>acm<<"
+   - ">>afb<<"
+   - ">>amh<<"
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>ary<<"
+   - ">>arz<<"
+   - ">>heb<<"
+   - ">>mlt<<"
+   - ">>tir<<"
 test-data:
    Tatoeba-test.eng-amh: 190/554
    Tatoeba-test.eng-ara: 10000/50193

@@ -14,9 +14,9 @@ source-languages:
 target-languages:
    - tat
 use-target-labels:
-   '>>tat<<'
-   '>>tat_Arab<<'
-   '>>tat_Latn<<'
+   - ">>tat<<"
+   - ">>tat_Arab<<"
+   - ">>tat_Latn<<"
 test-data:
    Tatoeba-test.eng-tat: 1451/6996
 BLEU-scores:

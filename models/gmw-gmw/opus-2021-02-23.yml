@@ -10,28 +10,28 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>afr<<'
-   '>>ang_Latn<<'
-   '>>bar<<'
-   '>>deu<<'
-   '>>eng<<'
-   '>>enm_Latn<<'
-   '>>frr<<'
-   '>>fry<<'
-   '>>gos<<'
-   '>>gsw<<'
-   '>>hrx_Latn<<'
-   '>>jam<<'
-   '>>ksh<<'
-   '>>ltz<<'
-   '>>nds<<'
-   '>>nld<<'
-   '>>pdc<<'
-   '>>sco<<'
-   '>>stq<<'
-   '>>swg<<'
-   '>>tpi<<'
-   '>>yid<<'
+   - ">>afr<<"
+   - ">>ang_Latn<<"
+   - ">>bar<<"
+   - ">>deu<<"
+   - ">>eng<<"
+   - ">>enm_Latn<<"
+   - ">>frr<<"
+   - ">>fry<<"
+   - ">>gos<<"
+   - ">>gsw<<"
+   - ">>hrx_Latn<<"
+   - ">>jam<<"
+   - ">>ksh<<"
+   - ">>ltz<<"
+   - ">>nds<<"
+   - ">>nld<<"
+   - ">>pdc<<"
+   - ">>sco<<"
+   - ">>stq<<"
+   - ">>swg<<"
+   - ">>tpi<<"
+   - ">>yid<<"
 source-languages:
    - afr
    - ang

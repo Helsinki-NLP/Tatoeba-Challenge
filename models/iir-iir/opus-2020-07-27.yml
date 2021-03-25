@@ -22,11 +22,11 @@ target-languages:
    - urd
    - zza
 use-target-labels:
-   '>>asm<<'
-   '>>hin<<'
-   '>>mar<<'
-   '>>urd<<'
-   '>>zza<<'
+   - ">>asm<<"
+   - ">>hin<<"
+   - ">>mar<<"
+   - ">>urd<<"
+   - ">>zza<<"
 test-data:
    Tatoeba-test.asm-hin: 4/15
    Tatoeba-test.asm-zza: 1/4

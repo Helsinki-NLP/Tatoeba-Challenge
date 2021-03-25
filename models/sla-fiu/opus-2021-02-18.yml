@@ -10,13 +10,13 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>est<<'
-   '>>fin<<'
-   '>>hun<<'
-   '>>izh<<'
-   '>>mhr<<'
-   '>>sme<<'
-   '>>udm<<'
+   - ">>est<<"
+   - ">>fin<<"
+   - ">>hun<<"
+   - ">>izh<<"
+   - ">>mhr<<"
+   - ">>sme<<"
+   - ">>udm<<"
 source-languages:
    - bel
    - bos

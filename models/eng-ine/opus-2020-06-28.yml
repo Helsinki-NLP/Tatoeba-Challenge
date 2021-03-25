@@ -16,9 +16,9 @@ target-languages:
    - hye
    - sqi
 use-target-labels:
-   '>>aln<<'
-   '>>hye<<'
-   '>>sqi<<'
+   - ">>aln<<"
+   - ">>hye<<"
+   - ">>sqi<<"
 test-data:
    Tatoeba-test.eng-hye: 1121/3852
    Tatoeba-test.eng-multi: 0/0

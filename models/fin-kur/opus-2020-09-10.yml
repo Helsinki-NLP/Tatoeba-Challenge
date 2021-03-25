@@ -15,10 +15,10 @@ target-languages:
    - kmr
    - kur
 use-target-labels:
-   '>>kmr<<'
-   '>>kmr_Latn<<'
-   '>>kur_Arab<<'
-   '>>kur_Latn<<'
+   - ">>kmr<<"
+   - ">>kmr_Latn<<"
+   - ">>kur_Arab<<"
+   - ">>kur_Latn<<"
 test-data:
    Tatoeba-test.fin-kur: 259/1551
 BLEU-scores:

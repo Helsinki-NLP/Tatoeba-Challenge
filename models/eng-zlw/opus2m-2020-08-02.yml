@@ -18,11 +18,11 @@ target-languages:
    - hsb
    - pol
 use-target-labels:
-   '>>ces<<'
-   '>>csb_Latn<<'
-   '>>dsb<<'
-   '>>hsb<<'
-   '>>pol<<'
+   - ">>ces<<"
+   - ">>csb_Latn<<"
+   - ">>dsb<<"
+   - ">>hsb<<"
+   - ">>pol<<"
 test-data:
    Tatoeba-test.eng-ces: 10000/52129
    Tatoeba-test.eng-csb: 27/196

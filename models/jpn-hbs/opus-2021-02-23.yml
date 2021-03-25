@@ -10,13 +10,13 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>bos_Cyrl<<'
-   '>>bos_Latn<<'
-   '>>hbs<<'
-   '>>hbs_Cyrl<<'
-   '>>hrv<<'
-   '>>srp_Cyrl<<'
-   '>>srp_Latn<<'
+   - ">>bos_Cyrl<<"
+   - ">>bos_Latn<<"
+   - ">>hbs<<"
+   - ">>hbs_Cyrl<<"
+   - ">>hrv<<"
+   - ">>srp_Cyrl<<"
+   - ">>srp_Latn<<"
 source-languages:
    - jpn
 target-languages:

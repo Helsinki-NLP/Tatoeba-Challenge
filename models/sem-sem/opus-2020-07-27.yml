@@ -24,12 +24,12 @@ target-languages:
    - heb
    - mlt
 use-target-labels:
-   '>>apc<<'
-   '>>ara<<'
-   '>>arq<<'
-   '>>arz<<'
-   '>>heb<<'
-   '>>mlt<<'
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>arz<<"
+   - ">>heb<<"
+   - ">>mlt<<"
 test-data:
    Tatoeba-test.ara-ara: 16/48
    Tatoeba-test.ara-heb: 1208/5440

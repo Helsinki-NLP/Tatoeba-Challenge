@@ -32,25 +32,25 @@ target-languages:
    - yor
    - zul
 use-target-labels:
-   '>>ewe<<'
-   '>>fuc<<'
-   '>>fuv<<'
-   '>>ibo<<'
-   '>>kin<<'
-   '>>lin<<'
-   '>>lug<<'
-   '>>nya<<'
-   '>>run<<'
-   '>>sag<<'
-   '>>sna<<'
-   '>>swh<<'
-   '>>toi_Latn<<'
-   '>>tso<<'
-   '>>umb<<'
-   '>>wol<<'
-   '>>xho<<'
-   '>>yor<<'
-   '>>zul<<'
+   - ">>ewe<<"
+   - ">>fuc<<"
+   - ">>fuv<<"
+   - ">>ibo<<"
+   - ">>kin<<"
+   - ">>lin<<"
+   - ">>lug<<"
+   - ">>nya<<"
+   - ">>run<<"
+   - ">>sag<<"
+   - ">>sna<<"
+   - ">>swh<<"
+   - ">>toi_Latn<<"
+   - ">>tso<<"
+   - ">>umb<<"
+   - ">>wol<<"
+   - ">>xho<<"
+   - ">>yor<<"
+   - ">>zul<<"
 test-data:
    Tatoeba-test.eng-ewe: 6/25
    Tatoeba-test.eng-ful: 41/136

@@ -10,8 +10,8 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>pob<<'
-   '>>por<<'
+   - ">>pob<<"
+   - ">>por<<"
 source-languages:
    - tgl
 target-languages:

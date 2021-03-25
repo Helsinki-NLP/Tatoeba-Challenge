@@ -56,33 +56,33 @@ target-languages:
    - ukr
    - yid
 use-target-labels:
-   '>>bel<<'
-   '>>bel_Latn<<'
-   '>>cor<<'
-   '>>deu<<'
-   '>>eng<<'
-   '>>epo<<'
-   '>>fao<<'
-   '>>fra<<'
-   '>>heb<<'
-   '>>heb_Latn<<'
-   '>>ido<<'
-   '>>ido_Latn<<'
-   '>>ina_Latn<<'
-   '>>ita<<'
-   '>>jbo<<'
-   '>>jbo_Cyrl<<'
-   '>>jbo_Latn<<'
-   '>>kab<<'
-   '>>lat_Latn<<'
-   '>>ltz<<'
-   '>>mhr<<'
-   '>>nld<<'
-   '>>rus<<'
-   '>>spa<<'
-   '>>tur<<'
-   '>>ukr<<'
-   '>>yid<<'
+   - ">>bel<<"
+   - ">>bel_Latn<<"
+   - ">>cor<<"
+   - ">>deu<<"
+   - ">>eng<<"
+   - ">>epo<<"
+   - ">>fao<<"
+   - ">>fra<<"
+   - ">>heb<<"
+   - ">>heb_Latn<<"
+   - ">>ido<<"
+   - ">>ido_Latn<<"
+   - ">>ina_Latn<<"
+   - ">>ita<<"
+   - ">>jbo<<"
+   - ">>jbo_Cyrl<<"
+   - ">>jbo_Latn<<"
+   - ">>kab<<"
+   - ">>lat_Latn<<"
+   - ">>ltz<<"
+   - ">>mhr<<"
+   - ">>nld<<"
+   - ">>rus<<"
+   - ">>spa<<"
+   - ">>tur<<"
+   - ">>ukr<<"
+   - ">>yid<<"
 test-data:
    Tatoeba-test.bel-deu: 550/3423
    Tatoeba-test.bel-eng: 2500/15535

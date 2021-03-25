@@ -10,11 +10,11 @@ subword-models:
    source: source.spm
    target: target.spm
 use-target-labels:
-   '>>cor<<'
-   '>>cym<<'
-   '>>gla<<'
-   '>>gle<<'
-   '>>glv<<'
+   - ">>cor<<"
+   - ">>cym<<"
+   - ">>gla<<"
+   - ">>gle<<"
+   - ">>glv<<"
 source-languages:
    - cor
    - cym

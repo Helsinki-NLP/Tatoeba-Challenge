@@ -18,11 +18,11 @@ target-languages:
    - arq
    - arz
 use-target-labels:
-   '>>afb<<'
-   '>>apc<<'
-   '>>ara<<'
-   '>>arq<<'
-   '>>arz<<'
+   - ">>afb<<"
+   - ">>apc<<"
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>arz<<"
 test-data:
    Tatoeba-test.deu-ara: 1209/5388
 BLEU-scores:

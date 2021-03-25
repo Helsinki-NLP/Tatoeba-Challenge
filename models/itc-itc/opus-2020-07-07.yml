@@ -76,40 +76,40 @@ target-languages:
    - wln
    - zsm
 use-target-labels:
-   '>>arg<<'
-   '>>ast<<'
-   '>>bjn<<'
-   '>>cat<<'
-   '>>cos<<'
-   '>>egl<<'
-   '>>fra<<'
-   '>>frm_Latn<<'
-   '>>gcf_Latn<<'
-   '>>glg<<'
-   '>>hat<<'
-   '>>ind<<'
-   '>>ita<<'
-   '>>lad<<'
-   '>>lad_Latn<<'
-   '>>lat_Grek<<'
-   '>>lat_Latn<<'
-   '>>lij<<'
-   '>>lld_Latn<<'
-   '>>lmo<<'
-   '>>mwl<<'
-   '>>oci<<'
-   '>>pap<<'
-   '>>pcd<<'
-   '>>pms<<'
-   '>>por<<'
-   '>>roh<<'
-   '>>ron<<'
-   '>>scn<<'
-   '>>spa<<'
-   '>>srd<<'
-   '>>vec<<'
-   '>>wln<<'
-   '>>zsm_Latn<<'
+   - ">>arg<<"
+   - ">>ast<<"
+   - ">>bjn<<"
+   - ">>cat<<"
+   - ">>cos<<"
+   - ">>egl<<"
+   - ">>fra<<"
+   - ">>frm_Latn<<"
+   - ">>gcf_Latn<<"
+   - ">>glg<<"
+   - ">>hat<<"
+   - ">>ind<<"
+   - ">>ita<<"
+   - ">>lad<<"
+   - ">>lad_Latn<<"
+   - ">>lat_Grek<<"
+   - ">>lat_Latn<<"
+   - ">>lij<<"
+   - ">>lld_Latn<<"
+   - ">>lmo<<"
+   - ">>mwl<<"
+   - ">>oci<<"
+   - ">>pap<<"
+   - ">>pcd<<"
+   - ">>pms<<"
+   - ">>por<<"
+   - ">>roh<<"
+   - ">>ron<<"
+   - ">>scn<<"
+   - ">>spa<<"
+   - ">>srd<<"
+   - ">>vec<<"
+   - ">>wln<<"
+   - ">>zsm_Latn<<"
 test-data:
    Tatoeba-test.arg-fra: 8/35
    Tatoeba-test.arg-spa: 12/38

@@ -24,13 +24,13 @@ target-languages:
    - rus
    - ukr
 use-target-labels:
-   '>>bel<<'
-   '>>bel_Latn<<'
-   '>>eng<<'
-   '>>orv_Cyrl<<'
-   '>>rue<<'
-   '>>rus<<'
-   '>>ukr<<'
+   - ">>bel<<"
+   - ">>bel_Latn<<"
+   - ">>eng<<"
+   - ">>orv_Cyrl<<"
+   - ">>rue<<"
+   - ">>rus<<"
+   - ">>ukr<<"
 test-data:
    Tatoeba-test.bel-eng: 2500/15535
    Tatoeba-test.bel-rus: 2500/15162
