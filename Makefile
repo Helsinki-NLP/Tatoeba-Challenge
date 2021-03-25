@@ -320,6 +320,65 @@ RESULT_FILES = results/tatoeba-results-all.md \
 released-model-results results: ${RESULT_FILES} results/tatoeba-models-all.md
 
 
+released-model-maps: 	model-map-src2trg-all.html model-map-trg2src-all.html \
+			model-map-src2trg.html model-map-trg2src.html
+
+MODEL_ALLMAP_WARNING = <p><b>IMPORTANT NOTE: Some of the test sets used in measuring translation quality are WAY TOO SMALL to be reliable! Some of them include only a few lines of reference translations!</b></p>
+
+MODEL_MAP_WARNING = <p><b>IMPORTANT NOTE: Some of the test sets used in measuring translation quality are very small and will not be reliable! Check the details in the Tatoeba MT Challenge benchmark releases!</b></p>
+
+SRC2TRG_MAP_DESCRIPTION = <p>Available translation models for various language pairs. Colors indicate the quality on a scale from red (bad) to green (best) measured by chr-F2 scores. Click on the dots to get more information about the language pair and to get links for downloading the model.</p> \
+	<p>The dots on the map indicate the source language. Select the target language from the menu in the upper-right corner of the map.</p>
+
+TRG2SRC_MAP_DESCRIPTION = <p>Available translation models for various language pairs. Colors indicate the quality on a scale from red (bad) to green (best) measured by chr-F2 scores. Click on the dots to get more information about the language pair and to get links for downloading the model.</p> \
+	<p>The dots on the map indicate the target language. Select the source language from the menu in the upper-right corner of the map.</p>
+
+
+FIX_LANG_CODES = sed 	-e 's/kur_Latn/kmr/' \
+			-e 's/kur_Arab/ckb/' \
+			-e 's/fas/pes/' \
+			-e 's/sqi/sqj/' \
+
+## double check (move macro language swahili to individual lang swahili?)
+#
+#			-e 's/swa/swh/'
+
+
+model-map-src2trg-all.html: models/released-model-results-all.txt
+	python3 scripts/create-map.py < $< > ${@:.html=.json}
+	cat scripts/create-src2trg-map.js >> ${@:.html=.json}
+	cat scripts/create-map.html-template |\
+	sed -e 's#__TITLE__#Tatoeba MT Challenge - Pre-trained NMT models (source language plot)#' \
+	    -e 's#__DESCRIPTION__#${SRC2TRG_MAP_DESCRIPTION}${MODEL_ALLMAP_WARNING}#' \
+	    -e 's#__JSONFILE__#${@:.html=.json}#' > $@
+
+model-map-trg2src-all.html: models/released-model-results-all.txt
+	python3 scripts/create-map.py -t < $< > ${@:.html=.json}
+	cat scripts/create-trg2src-map.js >> ${@:.html=.json}
+	cat scripts/create-map.html-template |\
+	sed -e 's#__TITLE__#Tatoeba MT Challenge - Pre-trained NMT models (target language plot)#' \
+	    -e 's#__DESCRIPTION__#${TRG2SRC_MAP_DESCRIPTION}${MODEL_ALLMAP_WARNING}#' \
+	    -e 's#__JSONFILE__#${@:.html=.json}#' > $@
+
+model-map-src2trg.html: models/released-model-results.txt
+	python3 scripts/create-map.py < $< > ${@:.html=.json}
+	cat scripts/create-src2trg-map.js >> ${@:.html=.json}
+	cat scripts/create-map.html-template |\
+	sed -e 's#__TITLE__#Tatoeba MT Challenge - Pre-trained NMT models (source language plot)#' \
+	    -e 's#__DESCRIPTION__#${SRC2TRG_MAP_DESCRIPTION}${MODEL_MAP_WARNING}#' \
+	    -e 's#__JSONFILE__#${@:.html=.json}#' > $@
+
+model-map-trg2src.html: models/released-model-results.txt
+	python3 scripts/create-map.py -t < $< > ${@:.html=.json}
+	cat scripts/create-trg2src-map.js >> ${@:.html=.json}
+	cat scripts/create-map.html-template |\
+	sed -e 's#__TITLE__#Tatoeba MT Challenge - Pre-trained NMT models (target language plot)#' \
+	    -e 's#__DESCRIPTION__#${TRG2SRC_MAP_DESCRIPTION}${MODEL_MAP_WARNING}#' \
+	    -e 's#__JSONFILE__#${@:.html=.json}#' > $@
+
+
+
+
 print-extra-traindata:
 	for l in ${EXTRA_TRAIN_DATA}; do \
 	  if [ ! -e $$l ]; then \
