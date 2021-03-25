@@ -41,13 +41,16 @@ This is an open challenge and the idea s to encourage people to develop machine 
 Please, cite the following paper if you use data and models from this distribution:
 
 ```
-@inproceedings{tiedemann-2020-ttc,
-    title = "The {T}atoeba {T}ranslation {C}hallenge -- {R}ealistic Data Sets for Low Resource and Multilingual {MT}",
+@inproceedings{tiedemann-2020-tatoeba,
+    title = "The {T}atoeba {T}ranslation {C}hallenge {--} {R}ealistic Data Sets for Low Resource and Multilingual {MT}",
     author = {Tiedemann, J{\"o}rg},
-    booktitle = "Proceedings of the Fifth Conference on Machine Translation (Volume 1: Research Papers)",
+    booktitle = "Proceedings of the Fifth Conference on Machine Translation",
+    month = nov,
     year = "2020",
+    address = "Online",
     publisher = "Association for Computational Linguistics",
-    url = {https://arxiv.org/abs/2010.06354}
+    url = "https://www.aclweb.org/anthology/2020.wmt-1.139",
+    pages = "1174--1182"
 }
 ```
 
