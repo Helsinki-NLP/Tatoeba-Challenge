@@ -4,21 +4,21 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm1k,spm1k)
 subwords:
-   - source: spm1k
-   - target: spm1k
+   source: spm1k
+   target: spm1k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - spa
 target-languages:
    - ido
 use-target-labels:
-   - >>ido<<
-   - >>ido_Latn<<
+   '>>ido<<'
+   '>>ido_Latn<<'
 test-data:
-   - Tatoeba-test.spa-ido: 429/2340
+   Tatoeba-test.spa-ido: 429/2340
 BLEU-scores:
-   - Tatoeba-test.spa-ido: 0.1
+   Tatoeba-test.spa-ido: 0.1
 chr-F-scores:
-   - Tatoeba-test.spa-ido: 0.118
+   Tatoeba-test.spa-ido: 0.118

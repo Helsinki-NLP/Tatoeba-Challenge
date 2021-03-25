@@ -5,6 +5,9 @@
 # -a                                     match alphabetic characters only
 # -l                                     lowercase data when matching
 # -m matching-mode                       default = same-pair (same-source|same-target)
+#
+#
+# TODO: reserve more data for testing if we already have enough dev data ...
 
 
 use strict;
@@ -21,6 +24,7 @@ my $DevSetDir = undef;
 
 my $TestFileName = 'test.tsv';
 my $DevFileName  = 'dev.tsv';
+my $MaxDevSize   = undef;
 my $mode         = 'same-pair';
 my $AlphaOnly    = 0;
 my $LowerCase    = 0;
@@ -33,6 +37,7 @@ GetOptions(
     "previous-testsets=s{,}"           => \@TestFiles,
     "previous-devsets=s{,}"            => \@DevFiles,
     "test-sizes|n=i{1,}"               => \@TestSizes,
+    "max-dev-size=i"                   => \$MaxDevSize,
     "testfile|test=s"                  => \$TestFileName,
     "devfile|dev=s"                    => \$DevFileName,
     "alpha|a"                          => \$AlphaOnly,
@@ -42,6 +47,7 @@ GetOptions(
     "verbose|v"                        => \$verbose );
 
 
+print STDERR "# updating $TestSetDir - $DevSetDir\n";
 
 if (-e $TestFileName){
     print STDERR "$TestFileName exists! Delete to overwrite it!\n";
@@ -93,12 +99,14 @@ foreach my $file (@TestFiles){
 
 my %previousDev  = ();
 my %protectedDev = ();
+my $DevSize = 0;
 foreach my $file (@DevFiles){
     open T,"<$file" || die "cannot read from $file\n";
     while (<T>){
 	my ($src,$trg,$key) = read_testset_line($_);
 	$previousDev{"$src\t$trg"}++;
 	$protectedDev{$key}++;
+	$DevSize++;
     }
 }
 
@@ -150,13 +158,25 @@ foreach my $line (@lines){
     my ($src,$trg,$key) = read_testset_line($line);
     next unless ($src && $trg);
 
-    if ($CountTest < $TestSize){
+    if ( ($CountTest < $TestSize) || ( (defined $MaxDevSize) && ($DevSize > $MaxDevSize) ) ){
 	unless (exists ($protectedDev{$key})){
-	    print T $line;
-	    $protectedTest{$key}++;
-	    $CountTest++;
-	    $CountTestAdded++;
-	    next;
+	    if ($NewDataOnly){
+	    	unless (exists ($previousTest{"$src\t$trg"})){
+	    	    print T $line;
+	    	    $protectedTest{$key}++;
+	    	    $previousTest{"$src\t$trg"}++;
+	    	    $CountTest++;
+	    	    $CountTestAdded++;
+	    	    next;
+	    	}
+	    }
+	    else{
+		print T $line;
+		$protectedTest{$key}++;
+		$CountTest++;
+		$CountTestAdded++;
+		next;
+	    }
 	}
     }
 
@@ -179,8 +199,8 @@ foreach my $line (@lines){
     $CountNotUsed++;
 }
 
-print STDERR "$CountTestAdded lines added to test\n";
-print STDERR "$CountDevAdded lines added to dev\n";
+print STDERR "$CountTestAdded lines added to test ($TestFileName)\n";
+print STDERR "$CountDevAdded lines added to dev ($DevFileName)\n";
 print STDERR "$CountNotUsed lines skipped\n";
 
 

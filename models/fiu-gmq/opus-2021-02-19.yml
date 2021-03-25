@@ -4,18 +4,18 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 use-target-labels:
-   - >>dan<<
-   - >>fao<<
-   - >>isl<<
-   - >>nno<<
-   - >>nob<<
-   - >>swe<<
+   '>>dan<<'
+   '>>fao<<'
+   '>>isl<<'
+   '>>nno<<'
+   '>>nob<<'
+   '>>swe<<'
 source-languages:
    - est
    - fin
@@ -34,88 +34,88 @@ target-languages:
    - nob
    - swe
 training-data:
-   - fin-dan: Tatoeba-train (1000000) 
-   - fin-isl: Tatoeba-train (1000000) 
-   - fin-nno: Tatoeba-train (93062) 
-   - fin-nob: Tatoeba-train (1000000) 
-   - fin-swe: Tatoeba-train (1000000) 
-   - hun-dan: Tatoeba-train (1000000) 
-   - hun-nno: Tatoeba-train (93645) 
-   - hun-nob: Tatoeba-train (1000000) 
-   - hun-swe: Tatoeba-train (1000000) 
-   - sme-nno: Tatoeba-train (19035) 
-   - sme-nob: Tatoeba-train (18379) 
-   - sme-swe: Tatoeba-train (16801) 
+   fin-dan: Tatoeba-train (1000000) 
+   fin-isl: Tatoeba-train (1000000) 
+   fin-nno: Tatoeba-train (93062) 
+   fin-nob: Tatoeba-train (1000000) 
+   fin-swe: Tatoeba-train (1000000) 
+   hun-dan: Tatoeba-train (1000000) 
+   hun-nno: Tatoeba-train (93645) 
+   hun-nob: Tatoeba-train (1000000) 
+   hun-swe: Tatoeba-train (1000000) 
+   sme-nno: Tatoeba-train (19035) 
+   sme-nob: Tatoeba-train (18379) 
+   sme-swe: Tatoeba-train (16801) 
 validation-data:
-   - est-fao: Tatoeba-dev, 347
-   - dan-fin: Tatoeba-dev, 1000
-   - fin-isl: Tatoeba-dev, 1000
-   - fin-nno: Tatoeba-dev, 358
-   - fin-nob: Tatoeba-dev, 642
-   - fin-swe: Tatoeba-dev, 7278
-   - dan-hun: Tatoeba-dev, 1000
-   - hun-nno: Tatoeba-dev, 8
-   - hun-nob: Tatoeba-dev, 992
-   - hun-swe: Tatoeba-dev, 1000
-   - nno-sme: Tatoeba-dev, 504
-   - nob-sme: Tatoeba-dev, 496
-   - sme-swe: Tatoeba-dev, 1000
-   - total size of shuffled dev data: 15584
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   est-fao: Tatoeba-dev, 347
+   dan-fin: Tatoeba-dev, 1000
+   fin-isl: Tatoeba-dev, 1000
+   fin-nno: Tatoeba-dev, 358
+   fin-nob: Tatoeba-dev, 642
+   fin-swe: Tatoeba-dev, 7278
+   dan-hun: Tatoeba-dev, 1000
+   hun-nno: Tatoeba-dev, 8
+   hun-nob: Tatoeba-dev, 992
+   hun-swe: Tatoeba-dev, 1000
+   nno-sme: Tatoeba-dev, 504
+   nob-sme: Tatoeba-dev, 496
+   sme-swe: Tatoeba-dev, 1000
+   total-size-shuffled: 15584
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - fiskmo_testset.fin-swe: 523/9479
-   - Tatoeba-test.est-fao: 1/27
-   - Tatoeba-test.fin-dan: 2665/16672
-   - Tatoeba-test.fin-isl: 2/8
-   - Tatoeba-test.fin-nor: 2489/14768
-   - Tatoeba-test.fin-swe: 2500/16762
-   - Tatoeba-test.fkv-nor: 37/153
-   - Tatoeba-test.fkv-swe: 1/6
-   - Tatoeba-test.hun-dan: 75/456
-   - Tatoeba-test.hun-nor: 137/919
-   - Tatoeba-test.hun-swe: 1614/11114
-   - Tatoeba-test.izh-nor: 2/7
-   - Tatoeba-test.krl-nor: 15/88
-   - Tatoeba-test.multi-multi: 9548/61057
-   - Tatoeba-test.sma-nor: 2/15
-   - Tatoeba-test.sme-nor: 2/15
-   - Tatoeba-test.sme-swe: 4/23
-   - Tatoeba-test.vep-nor: 2/24
+   fiskmo_testset.fin-swe: 523/9479
+   Tatoeba-test.est-fao: 1/27
+   Tatoeba-test.fin-dan: 2665/16672
+   Tatoeba-test.fin-isl: 2/8
+   Tatoeba-test.fin-nor: 2489/14768
+   Tatoeba-test.fin-swe: 2500/16762
+   Tatoeba-test.fkv-nor: 37/153
+   Tatoeba-test.fkv-swe: 1/6
+   Tatoeba-test.hun-dan: 75/456
+   Tatoeba-test.hun-nor: 137/919
+   Tatoeba-test.hun-swe: 1614/11114
+   Tatoeba-test.izh-nor: 2/7
+   Tatoeba-test.krl-nor: 15/88
+   Tatoeba-test.multi-multi: 9548/61057
+   Tatoeba-test.sma-nor: 2/15
+   Tatoeba-test.sme-nor: 2/15
+   Tatoeba-test.sme-swe: 4/23
+   Tatoeba-test.vep-nor: 2/24
 BLEU-scores:
-   - fiskmo_testset.fin-swe: 22.0
-   - Tatoeba-test.est-fao: 1.9
-   - Tatoeba-test.fin-dan: 52.4
-   - Tatoeba-test.fin-isl: 100.0
-   - Tatoeba-test.fin-nor: 45.4
-   - Tatoeba-test.fin-swe: 50.4
-   - Tatoeba-test.fkv-nor: 18.7
-   - Tatoeba-test.fkv-swe: 32.5
-   - Tatoeba-test.hun-dan: 37.9
-   - Tatoeba-test.hun-nor: 54.8
-   - Tatoeba-test.hun-swe: 48.2
-   - Tatoeba-test.izh-nor: 73.1
-   - Tatoeba-test.krl-nor: 50.1
-   - Tatoeba-test.multi-multi: 49.9
-   - Tatoeba-test.sma-nor: 3.9
-   - Tatoeba-test.sme-nor: 3.6
-   - Tatoeba-test.sme-swe: 4.2
-   - Tatoeba-test.vep-nor: 2.8
+   fiskmo_testset.fin-swe: 22.0
+   Tatoeba-test.est-fao: 1.9
+   Tatoeba-test.fin-dan: 52.4
+   Tatoeba-test.fin-isl: 100.0
+   Tatoeba-test.fin-nor: 45.4
+   Tatoeba-test.fin-swe: 50.4
+   Tatoeba-test.fkv-nor: 18.7
+   Tatoeba-test.fkv-swe: 32.5
+   Tatoeba-test.hun-dan: 37.9
+   Tatoeba-test.hun-nor: 54.8
+   Tatoeba-test.hun-swe: 48.2
+   Tatoeba-test.izh-nor: 73.1
+   Tatoeba-test.krl-nor: 50.1
+   Tatoeba-test.multi-multi: 49.9
+   Tatoeba-test.sma-nor: 3.9
+   Tatoeba-test.sme-nor: 3.6
+   Tatoeba-test.sme-swe: 4.2
+   Tatoeba-test.vep-nor: 2.8
 chr-F-scores:
-   - fiskmo_testset.fin-swe: 0.553
-   - Tatoeba-test.est-fao: 0.155
-   - Tatoeba-test.fin-dan: 0.676
-   - Tatoeba-test.fin-isl: 1.000
-   - Tatoeba-test.fin-nor: 0.668
-   - Tatoeba-test.fin-swe: 0.666
-   - Tatoeba-test.fkv-nor: 0.433
-   - Tatoeba-test.fkv-swe: 0.481
-   - Tatoeba-test.hun-dan: 0.707
-   - Tatoeba-test.hun-nor: 0.730
-   - Tatoeba-test.hun-swe: 0.647
-   - Tatoeba-test.izh-nor: 0.629
-   - Tatoeba-test.krl-nor: 0.574
-   - Tatoeba-test.multi-multi: 0.666
-   - Tatoeba-test.sma-nor: 0.108
-   - Tatoeba-test.sme-nor: 0.106
-   - Tatoeba-test.sme-swe: 0.179
-   - Tatoeba-test.vep-nor: 0.203
+   fiskmo_testset.fin-swe: 0.553
+   Tatoeba-test.est-fao: 0.155
+   Tatoeba-test.fin-dan: 0.676
+   Tatoeba-test.fin-isl: 1.000
+   Tatoeba-test.fin-nor: 0.668
+   Tatoeba-test.fin-swe: 0.666
+   Tatoeba-test.fkv-nor: 0.433
+   Tatoeba-test.fkv-swe: 0.481
+   Tatoeba-test.hun-dan: 0.707
+   Tatoeba-test.hun-nor: 0.730
+   Tatoeba-test.hun-swe: 0.647
+   Tatoeba-test.izh-nor: 0.629
+   Tatoeba-test.krl-nor: 0.574
+   Tatoeba-test.multi-multi: 0.666
+   Tatoeba-test.sma-nor: 0.108
+   Tatoeba-test.sme-nor: 0.106
+   Tatoeba-test.sme-swe: 0.179
+   Tatoeba-test.vep-nor: 0.203

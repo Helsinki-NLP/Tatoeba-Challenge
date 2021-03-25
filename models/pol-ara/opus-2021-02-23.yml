@@ -4,15 +4,15 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 use-target-labels:
-   - >>ara<<
-   - >>arq<<
-   - >>arz<<
+   '>>ara<<'
+   '>>arq<<'
+   '>>arz<<'
 source-languages:
    - pol
 target-languages:
@@ -20,19 +20,19 @@ target-languages:
    - arq
    - arz
 training-data:
-   - pol-ara: Tatoeba-train (24821643) 
-   - pol-arq: Tatoeba-train (472) 
-   - pol-arz: Tatoeba-train (3) 
+   pol-ara: Tatoeba-train (24821643) 
+   pol-arq: Tatoeba-train (472) 
+   pol-arz: Tatoeba-train (3) 
 validation-data:
-   - ara-pol: Tatoeba-dev, 1000
-   - total size of shuffled dev data: 999
-   - devset = top 999  lines of Tatoeba-dev.src.shuffled!
+   ara-pol: Tatoeba-dev, 1000
+   total-size-shuffled: 999
+   devset-selected: top 999  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.pol-ara: 207/1028
-   - Tatoeba-test.pol-arz: 1/2
+   Tatoeba-test.pol-ara: 207/1028
+   Tatoeba-test.pol-arz: 1/2
 BLEU-scores:
-   - Tatoeba-test.pol-ara: 18.0
-   - Tatoeba-test.pol-arz: 0.0
+   Tatoeba-test.pol-ara: 18.0
+   Tatoeba-test.pol-arz: 0.0
 chr-F-scores:
-   - Tatoeba-test.pol-ara: 0.468
-   - Tatoeba-test.pol-arz: 0.151
+   Tatoeba-test.pol-ara: 0.468
+   Tatoeba-test.pol-arz: 0.151

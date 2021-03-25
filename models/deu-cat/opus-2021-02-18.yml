@@ -4,24 +4,24 @@ dataset-name: opus
 modeltype: transformer-align
 pre-processing: normalization + SentencePiece (spm12k,spm12k)
 subwords:
-   - source: spm12k
-   - target: spm12k
+   source: spm12k
+   target: spm12k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - deu
 target-languages:
    - cat
 training-data:
-   - cat-deu: Tatoeba-train (570781) 
+   cat-deu: Tatoeba-train (570781) 
 validation-data:
-   - cat-deu: Tatoeba-dev, 1000
-   - total size of shuffled dev data: 1000
-   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+   cat-deu: Tatoeba-dev, 1000
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.deu-cat: 720/5507
+   Tatoeba-test.deu-cat: 720/5507
 BLEU-scores:
-   - Tatoeba-test.deu-cat: 37.4
+   Tatoeba-test.deu-cat: 37.4
 chr-F-scores:
-   - Tatoeba-test.deu-cat: 0.582
+   Tatoeba-test.deu-cat: 0.582

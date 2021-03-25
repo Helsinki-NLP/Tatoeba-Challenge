@@ -4,24 +4,24 @@ dataset-name: opus+bt
 modeltype: transformer-align
 pre-processing: normalization + SentencePiece (spm4k,spm32k)
 subwords:
-   - source: spm4k
-   - target: spm32k
+   source: spm4k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - eng
 target-languages:
    - ltz
 training-data:
-   - eng-ltz: Tatoeba-train (20111) wiki.aa.ltz-eng (412859) wikiquote.aa.ltz-eng (18) 
+   eng-ltz: Tatoeba-train (20111) wiki.aa.ltz-eng (412859) wikiquote.aa.ltz-eng (18) 
 validation-data:
-   - eng-ltz: Tatoeba-dev, 1000
-   - total size of shuffled dev data: 1000
-   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+   eng-ltz: Tatoeba-dev, 1000
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.eng-ltz: 283/1733
+   Tatoeba-test.eng-ltz: 283/1733
 BLEU-scores:
-   - Tatoeba-test.eng-ltz: 27.2
+   Tatoeba-test.eng-ltz: 27.2
 chr-F-scores:
-   - Tatoeba-test.eng-ltz: 0.458
+   Tatoeba-test.eng-ltz: 0.458

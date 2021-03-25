@@ -4,30 +4,30 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - lit
 target-languages:
    - eng
 training-data:
-   - lit-eng: Tatoeba-train (13434026) 
+   lit-eng: Tatoeba-train (13434026) 
 validation-data:
-   - eng-lit: Tatoeba-dev, 5643
-   - total size of shuffled dev data: 5643
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   eng-lit: Tatoeba-dev, 5643
+   total-size-shuffled: 5643
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - newsdev2019-enlt.lit-eng: 2000/49666
-   - newstest2019-lten.lit-eng: 1000/26079
-   - Tatoeba-test.lit-eng: 2500/17688
+   newsdev2019-enlt.lit-eng: 2000/49666
+   newstest2019-lten.lit-eng: 1000/26079
+   Tatoeba-test.lit-eng: 2500/17688
 BLEU-scores:
-   - newsdev2019-enlt.lit-eng: 30.8
-   - newstest2019-lten.lit-eng: 32.9
-   - Tatoeba-test.lit-eng: 59.1
+   newsdev2019-enlt.lit-eng: 30.8
+   newstest2019-lten.lit-eng: 32.9
+   Tatoeba-test.lit-eng: 59.1
 chr-F-scores:
-   - newsdev2019-enlt.lit-eng: 0.580
-   - newstest2019-lten.lit-eng: 0.613
-   - Tatoeba-test.lit-eng: 0.734
+   newsdev2019-enlt.lit-eng: 0.580
+   newstest2019-lten.lit-eng: 0.613
+   Tatoeba-test.lit-eng: 0.734

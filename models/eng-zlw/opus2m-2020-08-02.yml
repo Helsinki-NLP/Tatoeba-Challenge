@@ -4,11 +4,11 @@ dataset-name: opus2m
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - eng
 target-languages:
@@ -18,65 +18,65 @@ target-languages:
    - hsb
    - pol
 use-target-labels:
-   - >>ces<<
-   - >>csb_Latn<<
-   - >>dsb<<
-   - >>hsb<<
-   - >>pol<<
+   '>>ces<<'
+   '>>csb_Latn<<'
+   '>>dsb<<'
+   '>>hsb<<'
+   '>>pol<<'
 test-data:
-   - Tatoeba-test.eng-ces: 10000/52129
-   - Tatoeba-test.eng-csb: 27/196
-   - Tatoeba-test.eng-dsb: 34/140
-   - Tatoeba-test.eng-hsb: 40/156
-   - Tatoeba-test.eng-multi: 10000/52404
-   - Tatoeba-test.eng-pol: 10000/52166
-   - news-test2008.eng-ces: 2051/36403
-   - newssyscomb2009.eng-ces: 502/8592
-   - newstest2009.eng-ces: 2525/47071
-   - newstest2010.eng-ces: 2489/45422
-   - newstest2011.eng-ces: 3003/55301
-   - newstest2012.eng-ces: 3003/54732
-   - newstest2013.eng-ces: 3000/48472
-   - newstest2015-encs.eng-ces: 2656/39201
-   - newstest2016-encs.eng-ces: 2999/48915
-   - newstest2017-encs.eng-ces: 3005/46951
-   - newstest2018-encs.eng-ces: 2983/47229
-   - newstest2019-encs.eng-ces: 1997/37506
+   Tatoeba-test.eng-ces: 10000/52129
+   Tatoeba-test.eng-csb: 27/196
+   Tatoeba-test.eng-dsb: 34/140
+   Tatoeba-test.eng-hsb: 40/156
+   Tatoeba-test.eng-multi: 10000/52404
+   Tatoeba-test.eng-pol: 10000/52166
+   news-test2008.eng-ces: 2051/36403
+   newssyscomb2009.eng-ces: 502/8592
+   newstest2009.eng-ces: 2525/47071
+   newstest2010.eng-ces: 2489/45422
+   newstest2011.eng-ces: 3003/55301
+   newstest2012.eng-ces: 3003/54732
+   newstest2013.eng-ces: 3000/48472
+   newstest2015-encs.eng-ces: 2656/39201
+   newstest2016-encs.eng-ces: 2999/48915
+   newstest2017-encs.eng-ces: 3005/46951
+   newstest2018-encs.eng-ces: 2983/47229
+   newstest2019-encs.eng-ces: 1997/37506
 BLEU-scores:
-   - Tatoeba-test.eng-ces: 43.7
-   - Tatoeba-test.eng-csb: 1.2
-   - Tatoeba-test.eng-dsb: 1.5
-   - Tatoeba-test.eng-hsb: 5.7
-   - Tatoeba-test.eng-multi: 42.8
-   - Tatoeba-test.eng-pol: 43.2
-   - news-test2008.eng-ces: 18.3
-   - newssyscomb2009.eng-ces: 20.6
-   - newstest2009.eng-ces: 19.8
-   - newstest2010.eng-ces: 19.8
-   - newstest2011.eng-ces: 20.6
-   - newstest2012.eng-ces: 18.6
-   - newstest2013.eng-ces: 22.3
-   - newstest2015-encs.eng-ces: 21.7
-   - newstest2016-encs.eng-ces: 24.5
-   - newstest2017-encs.eng-ces: 20.1
-   - newstest2018-encs.eng-ces: 19.9
-   - newstest2019-encs.eng-ces: 21.2
+   Tatoeba-test.eng-ces: 43.7
+   Tatoeba-test.eng-csb: 1.2
+   Tatoeba-test.eng-dsb: 1.5
+   Tatoeba-test.eng-hsb: 5.7
+   Tatoeba-test.eng-multi: 42.8
+   Tatoeba-test.eng-pol: 43.2
+   news-test2008.eng-ces: 18.3
+   newssyscomb2009.eng-ces: 20.6
+   newstest2009.eng-ces: 19.8
+   newstest2010.eng-ces: 19.8
+   newstest2011.eng-ces: 20.6
+   newstest2012.eng-ces: 18.6
+   newstest2013.eng-ces: 22.3
+   newstest2015-encs.eng-ces: 21.7
+   newstest2016-encs.eng-ces: 24.5
+   newstest2017-encs.eng-ces: 20.1
+   newstest2018-encs.eng-ces: 19.9
+   newstest2019-encs.eng-ces: 21.2
 chr-F-scores:
-   - Tatoeba-test.eng-ces: 0.632
-   - Tatoeba-test.eng-csb: 0.188
-   - Tatoeba-test.eng-dsb: 0.167
-   - Tatoeba-test.eng-hsb: 0.199
-   - Tatoeba-test.eng-multi: 0.632
-   - Tatoeba-test.eng-pol: 0.641
-   - news-test2008.eng-ces: 0.466
-   - newssyscomb2009.eng-ces: 0.488
-   - newstest2009.eng-ces: 0.483
-   - newstest2010.eng-ces: 0.486
-   - newstest2011.eng-ces: 0.489
-   - newstest2012.eng-ces: 0.464
-   - newstest2013.eng-ces: 0.495
-   - newstest2015-encs.eng-ces: 0.502
-   - newstest2016-encs.eng-ces: 0.521
-   - newstest2017-encs.eng-ces: 0.480
-   - newstest2018-encs.eng-ces: 0.483
-   - newstest2019-encs.eng-ces: 0.490
+   Tatoeba-test.eng-ces: 0.632
+   Tatoeba-test.eng-csb: 0.188
+   Tatoeba-test.eng-dsb: 0.167
+   Tatoeba-test.eng-hsb: 0.199
+   Tatoeba-test.eng-multi: 0.632
+   Tatoeba-test.eng-pol: 0.641
+   news-test2008.eng-ces: 0.466
+   newssyscomb2009.eng-ces: 0.488
+   newstest2009.eng-ces: 0.483
+   newstest2010.eng-ces: 0.486
+   newstest2011.eng-ces: 0.489
+   newstest2012.eng-ces: 0.464
+   newstest2013.eng-ces: 0.495
+   newstest2015-encs.eng-ces: 0.502
+   newstest2016-encs.eng-ces: 0.521
+   newstest2017-encs.eng-ces: 0.480
+   newstest2018-encs.eng-ces: 0.483
+   newstest2019-encs.eng-ces: 0.490

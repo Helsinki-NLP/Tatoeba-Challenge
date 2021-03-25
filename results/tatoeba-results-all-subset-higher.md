@@ -203,6 +203,7 @@ to be useful for anything.
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.409 | 9.6 |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.399 | 9.2 |
 | | lang = eng-cym | | | | |
+| [eng-cel/opus2m+bt](../models/eng-cel) | tatoeba | 0.591 | 35.7 |
 | [eng-cym/opus+bt](../models/eng-cym) | tatoeba | 0.580 | 35.1 |
 | [eng-cel/opus2m](../models/eng-cel) | tatoeba | 0.549 | 31.0 |
 | [cel-cel/opus](../models/cel-cel) | tatoeba | 0.539 | 30.4 |
@@ -234,6 +235,7 @@ to be useful for anything.
 | [eng-fas/opus](../models/eng-fas) | tico19-test | 0.422 | 13.7 |
 | | lang = eng-gle | | | | |
 | [eng-gle/opus+bt](../models/eng-gle) | tatoeba | 0.614 | 40.4 |
+| [eng-cel/opus2m+bt](../models/eng-cel) | tatoeba | 0.609 | 40.4 |
 | [eng-gle/opus](../models/eng-gle) | tatoeba | 0.593 | 37.5 |
 | [eng-cel/opus2m](../models/eng-cel) | tatoeba | 0.582 | 35.9 |
 | [eng-cel/opus](../models/eng-cel) | tatoeba | 0.578 | 35.0 |

@@ -261,6 +261,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cat/opus-2021-02-19.zip	eng-ca
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ceb/opus-2021-02-19.zip	eng-ceb	en-ceb	0.432	11.3	English	Cebuano
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus-2020-06-28.zip	eng-cel	en-cel	0.324	15.8	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus-2020-07-26.zip	eng-cel	en-cel	0.329	16.5	English	Celtic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus2m+bt-2021-03-19.zip	eng-cel	en-cel	0.381	14.3	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus2m-2020-08-01.zip	eng-cel	en-cel	0.342	18.0	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ces/opus-2021-02-19.zip	eng-ces	en-cs	0.663	47.8	English	Czech
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cha/opus-2020-09-10.zip	eng-cha	en-ch	0.109	0.1	English	Chamorro
@@ -373,6 +374,8 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus-2020-06-28.zip	eng-ro
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus-2020-07-14.zip	eng-roa	en-roa	0.631	42.3	English	Romance languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus-2020-07-20.zip	eng-roa	en-roa	0.632	42.6	English	Romance languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus-2020-07-27.zip	eng-roa	en-roa	0.633	42.6	English	Romance languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus1m+bt-2021-03-23.zip	eng-roa	en-roa	0.609	39.7	English	Romance languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus1m+bt-2021-03-24.zip	eng-roa	en-roa	0.607	39.0	English	Romance languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus2m-2020-08-01.zip	eng-roa	en-roa	0.636	42.9	English	Romance languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-rom/opus-2020-09-10.zip	eng-rom	en-rom	0.134	0.4	English	Romany
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ron/opus+bt-2021-03-07.zip	eng-ron	en-ro	0.678	46.9	English	Romanian
@@ -493,6 +496,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/fin-nld/opus-2021-02-18.zip	fin-nl
 https://object.pouta.csc.fi/Tatoeba-MT-models/fin-nor/opus-2020-06-17.zip	fin-nor	fi-no	0.426	23.5	Finnish	Norwegian
 https://object.pouta.csc.fi/Tatoeba-MT-models/fin-nor/opus-2021-02-23.zip	fin-nor	fi-no	0.699	50.6	Finnish	Norwegian
 https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opus-2021-02-19.zip	fin-swe	fi-sv	0.701	54.5	Finnish	Swedish
+https://object.pouta.csc.fi/Tatoeba-MT-models/fin-tur/opus+bt-2021-03-21.zip	fin-tur	fi-tr	0.613	31.2	Finnish	Turkish
 https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-aav/opus-2021-02-19.zip	fiu-aav	fiu-aav	0.336	18.9	Finno-Ugrian languages	Austro-Asiatic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-afa/opus-2021-02-18.zip	fiu-afa	fiu-afa	0.483	24.2	Finno-Ugrian languages	Afro-Asiatic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-bat/opus-2021-02-19.zip	fiu-bat	fiu-bat	0.588	34.1	Finno-Ugrian languages	Baltic languages

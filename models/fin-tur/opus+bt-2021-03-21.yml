@@ -1,0 +1,27 @@
+release: fin-tur/opus+bt-2021-03-21.zip
+release-date: 2021-03-21
+dataset-name: opus+bt
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - tur
+training-data:
+   fin-tur: Tatoeba-train (22355114) wiki.aa.tur-fin (981960) wiki.ab.tur-fin (981989) wiki.ac.tur-fin (982113) wiki.ad.tur-fin (966463) wikibooks.aa.tur-fin (17035) wikinews.aa.tur-fin (11656) wikiquote.aa.tur-fin (100611) wikisource.aa.tur-fin (277352) 
+validation-data:
+   fin-tur: Tatoeba-dev, 1000
+   total-size-shuffled: 998
+   devset-selected: top 998  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.fin-tur: 1796/10072
+BLEU-scores:
+   Tatoeba-test.fin-tur: 31.2
+chr-F-scores:
+   Tatoeba-test.fin-tur: 0.613

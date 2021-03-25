@@ -4,11 +4,11 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - eng
 target-languages:
@@ -16,18 +16,18 @@ target-languages:
    - hye
    - sqi
 use-target-labels:
-   - >>aln<<
-   - >>hye<<
-   - >>sqi<<
+   '>>aln<<'
+   '>>hye<<'
+   '>>sqi<<'
 test-data:
-   - Tatoeba-test.eng-hye: 1121/3852
-   - Tatoeba-test.eng-multi: 0/0
-   - Tatoeba-test.eng-sqi: 1065/6611
+   Tatoeba-test.eng-hye: 1121/3852
+   Tatoeba-test.eng-multi: 0/0
+   Tatoeba-test.eng-sqi: 1065/6611
 BLEU-scores:
-   - Tatoeba-test.eng-hye: 18.5
-   - Tatoeba-test.eng-multi: 35.7
-   - Tatoeba-test.eng-sqi: 44.0
+   Tatoeba-test.eng-hye: 18.5
+   Tatoeba-test.eng-multi: 35.7
+   Tatoeba-test.eng-sqi: 44.0
 chr-F-scores:
-   - Tatoeba-test.eng-hye: 0.441
-   - Tatoeba-test.eng-multi: 0.568
-   - Tatoeba-test.eng-sqi: 0.652
+   Tatoeba-test.eng-hye: 0.441
+   Tatoeba-test.eng-multi: 0.568
+   Tatoeba-test.eng-sqi: 0.652

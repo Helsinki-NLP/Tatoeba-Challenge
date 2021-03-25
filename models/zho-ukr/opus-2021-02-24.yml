@@ -4,11 +4,11 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm4k)
 subwords:
-   - source: spm32k
-   - target: spm4k
+   source: spm32k
+   target: spm4k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - cmn
    - nan
@@ -16,37 +16,37 @@ source-languages:
 target-languages:
    - ukr
 training-data:
-   - cmn-ukr: Tatoeba-train (13589) 
-   - cmn_Hans-ukr: Tatoeba-train (217169) 
-   - cmn_Hant-ukr: Tatoeba-train (204840) 
-   - nan-ukr: Tatoeba-train (59) 
-   - yue_Hans-ukr: Tatoeba-train (27) 
-   - yue_Hant-ukr: Tatoeba-train (5123) 
+   cmn-ukr: Tatoeba-train (13589) 
+   cmn_Hans-ukr: Tatoeba-train (217169) 
+   cmn_Hant-ukr: Tatoeba-train (204840) 
+   nan-ukr: Tatoeba-train (59) 
+   yue_Hans-ukr: Tatoeba-train (27) 
+   yue_Hant-ukr: Tatoeba-train (5123) 
 validation-data:
-   - cmn-ukr: Tatoeba-dev, 31
-   - cmn_Hans-ukr: Tatoeba-dev, 487
-   - cmn_Hant-ukr: Tatoeba-dev, 466
-   - ukr-yue_Hant: Tatoeba-dev, 14
-   - total size of shuffled dev data: 997
-   - devset = top 997  lines of Tatoeba-dev.src.shuffled!
+   cmn-ukr: Tatoeba-dev, 31
+   cmn_Hans-ukr: Tatoeba-dev, 487
+   cmn_Hant-ukr: Tatoeba-dev, 466
+   ukr-yue_Hant: Tatoeba-dev, 14
+   total-size-shuffled: 997
+   devset-selected: top 997  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.cmn_Hans-ukr: 853/5212
-   - Tatoeba-test.cmn_Hant-ukr: 530/2804
-   - Tatoeba-test.cmn-ukr: 8/34
-   - Tatoeba-test.zho-ukr: 1575/9193
-   - Tatoeba-test.yue_Hans-ukr: 82/521
-   - Tatoeba-test.yue_Hant-ukr: 102/574
+   Tatoeba-test.cmn_Hans-ukr: 853/5212
+   Tatoeba-test.cmn_Hant-ukr: 530/2804
+   Tatoeba-test.cmn-ukr: 8/34
+   Tatoeba-test.zho-ukr: 1575/9193
+   Tatoeba-test.yue_Hans-ukr: 82/521
+   Tatoeba-test.yue_Hant-ukr: 102/574
 BLEU-scores:
-   - Tatoeba-test.cmn_Hans-ukr: 8.9
-   - Tatoeba-test.cmn_Hant-ukr: 13.2
-   - Tatoeba-test.cmn-ukr: 63.1
-   - Tatoeba-test.zho-ukr: 10.3
-   - Tatoeba-test.yue_Hans-ukr: 5.7
-   - Tatoeba-test.yue_Hant-ukr: 8.8
+   Tatoeba-test.cmn_Hans-ukr: 8.9
+   Tatoeba-test.cmn_Hant-ukr: 13.2
+   Tatoeba-test.cmn-ukr: 63.1
+   Tatoeba-test.zho-ukr: 10.3
+   Tatoeba-test.yue_Hans-ukr: 5.7
+   Tatoeba-test.yue_Hant-ukr: 8.8
 chr-F-scores:
-   - Tatoeba-test.cmn_Hans-ukr: 0.276
-   - Tatoeba-test.cmn_Hant-ukr: 0.296
-   - Tatoeba-test.cmn-ukr: 0.540
-   - Tatoeba-test.zho-ukr: 0.277
-   - Tatoeba-test.yue_Hans-ukr: 0.236
-   - Tatoeba-test.yue_Hant-ukr: 0.229
+   Tatoeba-test.cmn_Hans-ukr: 0.276
+   Tatoeba-test.cmn_Hant-ukr: 0.296
+   Tatoeba-test.cmn-ukr: 0.540
+   Tatoeba-test.zho-ukr: 0.277
+   Tatoeba-test.yue_Hans-ukr: 0.236
+   Tatoeba-test.yue_Hant-ukr: 0.229

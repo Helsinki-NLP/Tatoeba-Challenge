@@ -4,11 +4,11 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm4k,spm4k)
 subwords:
-   - source: spm4k
-   - target: spm4k
+   source: spm4k
+   target: spm4k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - bos
    - hrv
@@ -16,8 +16,8 @@ source-languages:
 target-languages:
    - epo
 test-data:
-   - Tatoeba-test.hbs-epo: 2500/15216
+   Tatoeba-test.hbs-epo: 2500/15216
 BLEU-scores:
-   - Tatoeba-test.hbs-epo: 7.2
+   Tatoeba-test.hbs-epo: 7.2
 chr-F-scores:
-   - Tatoeba-test.hbs-epo: 0.231
+   Tatoeba-test.hbs-epo: 0.231

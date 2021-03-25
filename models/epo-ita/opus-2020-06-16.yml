@@ -4,18 +4,18 @@ dataset-name: opus
 modeltype: transformer-align
 pre-processing: normalization + SentencePiece (spm4k,spm4k)
 subwords:
-   - source: spm4k
-   - target: spm4k
+   source: spm4k
+   target: spm4k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - epo
 target-languages:
    - ita
 test-data:
-   - Tatoeba-test.epo-ita: 10000/55577
+   Tatoeba-test.epo-ita: 10000/55577
 BLEU-scores:
-   - Tatoeba-test.epo-ita: 23.8
+   Tatoeba-test.epo-ita: 23.8
 chr-F-scores:
-   - Tatoeba-test.epo-ita: 0.465
+   Tatoeba-test.epo-ita: 0.465

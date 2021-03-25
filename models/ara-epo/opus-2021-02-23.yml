@@ -4,11 +4,11 @@ dataset-name: opus
 modeltype: transformer-align
 pre-processing: normalization + SentencePiece (spm4k,spm4k)
 subwords:
-   - source: spm4k
-   - target: spm4k
+   source: spm4k
+   target: spm4k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - apc
    - ara
@@ -17,26 +17,26 @@ source-languages:
 target-languages:
    - epo
 training-data:
-   - ara-epo: Tatoeba-train (119646) 
-   - arq-epo: Tatoeba-train (2) 
-   - arq_Latn-epo: Tatoeba-train (176) 
+   ara-epo: Tatoeba-train (119646) 
+   arq-epo: Tatoeba-train (2) 
+   arq_Latn-epo: Tatoeba-train (176) 
 validation-data:
-   - ara-epo: Tatoeba-dev, 998
-   - arq-epo: Tatoeba-dev, 2
-   - total size of shuffled dev data: 993
-   - devset = top 993  lines of Tatoeba-dev.src.shuffled!
+   ara-epo: Tatoeba-dev, 998
+   arq-epo: Tatoeba-dev, 2
+   total-size-shuffled: 993
+   devset-selected: top 993  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.apc-epo: 2/9
-   - Tatoeba-test.arq-epo: 4/22
-   - Tatoeba-test.arz-epo: 2/10
-   - Tatoeba-test.ara-epo: 723/4506
+   Tatoeba-test.apc-epo: 2/9
+   Tatoeba-test.arq-epo: 4/22
+   Tatoeba-test.arz-epo: 2/10
+   Tatoeba-test.ara-epo: 723/4506
 BLEU-scores:
-   - Tatoeba-test.apc-epo: 0.0
-   - Tatoeba-test.arq-epo: 6.7
-   - Tatoeba-test.arz-epo: 13.4
-   - Tatoeba-test.ara-epo: 18.9
+   Tatoeba-test.apc-epo: 0.0
+   Tatoeba-test.arq-epo: 6.7
+   Tatoeba-test.arz-epo: 13.4
+   Tatoeba-test.ara-epo: 18.9
 chr-F-scores:
-   - Tatoeba-test.apc-epo: 0.113
-   - Tatoeba-test.arq-epo: 0.191
-   - Tatoeba-test.arz-epo: 0.230
-   - Tatoeba-test.ara-epo: 0.376
+   Tatoeba-test.apc-epo: 0.113
+   Tatoeba-test.arq-epo: 0.191
+   Tatoeba-test.arz-epo: 0.230
+   Tatoeba-test.ara-epo: 0.376

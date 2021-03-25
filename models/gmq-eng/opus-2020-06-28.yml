@@ -4,11 +4,11 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - dan
    - fao
@@ -18,23 +18,23 @@ source-languages:
 target-languages:
    - eng
 test-data:
-   - Tatoeba-test.dan-eng: 10000/62015
-   - Tatoeba-test.fao-eng: 294/1631
-   - Tatoeba-test.isl-eng: 2500/16860
-   - Tatoeba-test.multi-eng: 0/0
-   - Tatoeba-test.non-eng: 15/112
-   - Tatoeba-test.swe-eng: 10000/54997
+   Tatoeba-test.dan-eng: 10000/62015
+   Tatoeba-test.fao-eng: 294/1631
+   Tatoeba-test.isl-eng: 2500/16860
+   Tatoeba-test.multi-eng: 0/0
+   Tatoeba-test.non-eng: 15/112
+   Tatoeba-test.swe-eng: 10000/54997
 BLEU-scores:
-   - Tatoeba-test.dan-eng: 59.5
-   - Tatoeba-test.fao-eng: 23.1
-   - Tatoeba-test.isl-eng: 49.5
-   - Tatoeba-test.multi-eng: 57.4
-   - Tatoeba-test.non-eng: 33.7
-   - Tatoeba-test.swe-eng: 61.0
+   Tatoeba-test.dan-eng: 59.5
+   Tatoeba-test.fao-eng: 23.1
+   Tatoeba-test.isl-eng: 49.5
+   Tatoeba-test.multi-eng: 57.4
+   Tatoeba-test.non-eng: 33.7
+   Tatoeba-test.swe-eng: 61.0
 chr-F-scores:
-   - Tatoeba-test.dan-eng: 0.738
-   - Tatoeba-test.fao-eng: 0.445
-   - Tatoeba-test.isl-eng: 0.656
-   - Tatoeba-test.multi-eng: 0.718
-   - Tatoeba-test.non-eng: 0.499
-   - Tatoeba-test.swe-eng: 0.737
+   Tatoeba-test.dan-eng: 0.738
+   Tatoeba-test.fao-eng: 0.445
+   Tatoeba-test.isl-eng: 0.656
+   Tatoeba-test.multi-eng: 0.718
+   Tatoeba-test.non-eng: 0.499
+   Tatoeba-test.swe-eng: 0.737

@@ -4,28 +4,28 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 use-target-labels:
-   - >>afb<<
-   - >>apc<<
-   - >>ara<<
-   - >>arq<<
-   - >>arz<<
-   - >>heb<<
-   - >>jpa_Hebr<<
-   - >>kab<<
-   - >>mlt<<
-   - >>oar_Hebr<<
-   - >>phn_Phnx<<
-   - >>shy_Latn<<
-   - >>syc_Syrc<<
-   - >>thv<<
-   - >>tmh<<
-   - >>tmr_Hebr<<
+   '>>afb<<'
+   '>>apc<<'
+   '>>ara<<'
+   '>>arq<<'
+   '>>arz<<'
+   '>>heb<<'
+   '>>jpa_Hebr<<'
+   '>>kab<<'
+   '>>mlt<<'
+   '>>oar_Hebr<<'
+   '>>phn_Phnx<<'
+   '>>shy_Latn<<'
+   '>>syc_Syrc<<'
+   '>>thv<<'
+   '>>tmh<<'
+   '>>tmr_Hebr<<'
 source-languages:
    - afb
    - apc
@@ -61,209 +61,209 @@ target-languages:
    - tmh
    - tmr
 training-data:
-   - amh-eng: Tatoeba-train (991645) 
-   - ara-ara: Tatoeba-train.ara-ara.clean.ara1.gz (1000000) 
-   - ara-arq: Tatoeba-train (645) 
-   - ara-arz: Tatoeba-train (3) 
-   - ara-eng: Tatoeba-train (1000000) 
-   - ara-heb: Tatoeba-train (1000000) 
-   - ara-kab: Tatoeba-train (4833) 
-   - ara-mlt: Tatoeba-train (350076) 
-   - arq-ara: Tatoeba-train (645) 
-   - arq-arz: Tatoeba-train (1) 
-   - arq-eng: Tatoeba-train (610) 
-   - arq-heb: Tatoeba-train (551) 
-   - arz-ara: Tatoeba-train (3) 
-   - arz-arq: Tatoeba-train (1) 
-   - arz-eng: Tatoeba-train (3) 
-   - arz-heb: Tatoeba-train (3) 
-   - eng-amh: Tatoeba-train (991645) 
-   - eng-ara: Tatoeba-train (1000000) 
-   - eng-arq: Tatoeba-train (610) 
-   - eng-arz: Tatoeba-train (3) 
-   - eng-hau_Latn: Tatoeba-train (366377) 
-   - eng-heb: Tatoeba-train (1000000) 
-   - eng-kab: Tatoeba-train (11872) 
-   - eng-mlt: Tatoeba-train (1000000) 
-   - eng-som: Tatoeba-train (204637) 
-   - eng-tir: Tatoeba-train (359451) 
-   - hau_Latn-eng: Tatoeba-train (366377) 
-   - heb-ara: Tatoeba-train (1000000) 
-   - heb-arq: Tatoeba-train (551) 
-   - heb-arz: Tatoeba-train (3) 
-   - heb-eng: Tatoeba-train (1000000) 
-   - heb-kab: Tatoeba-train (4828) 
-   - kab-ara: Tatoeba-train (4833) 
-   - kab-eng: Tatoeba-train (11872) 
-   - kab-heb: Tatoeba-train (4828) 
-   - mlt-ara: Tatoeba-train (350076) 
-   - mlt-eng: Tatoeba-train (1000000) 
-   - som-eng: Tatoeba-train (204637) 
-   - tir-eng: Tatoeba-train (359451) 
+   amh-eng: Tatoeba-train (991645) 
+   ara-ara: Tatoeba-train.ara-ara.clean.ara1.gz (1000000) 
+   ara-arq: Tatoeba-train (645) 
+   ara-arz: Tatoeba-train (3) 
+   ara-eng: Tatoeba-train (1000000) 
+   ara-heb: Tatoeba-train (1000000) 
+   ara-kab: Tatoeba-train (4833) 
+   ara-mlt: Tatoeba-train (350076) 
+   arq-ara: Tatoeba-train (645) 
+   arq-arz: Tatoeba-train (1) 
+   arq-eng: Tatoeba-train (610) 
+   arq-heb: Tatoeba-train (551) 
+   arz-ara: Tatoeba-train (3) 
+   arz-arq: Tatoeba-train (1) 
+   arz-eng: Tatoeba-train (3) 
+   arz-heb: Tatoeba-train (3) 
+   eng-amh: Tatoeba-train (991645) 
+   eng-ara: Tatoeba-train (1000000) 
+   eng-arq: Tatoeba-train (610) 
+   eng-arz: Tatoeba-train (3) 
+   eng-hau_Latn: Tatoeba-train (366377) 
+   eng-heb: Tatoeba-train (1000000) 
+   eng-kab: Tatoeba-train (11872) 
+   eng-mlt: Tatoeba-train (1000000) 
+   eng-som: Tatoeba-train (204637) 
+   eng-tir: Tatoeba-train (359451) 
+   hau_Latn-eng: Tatoeba-train (366377) 
+   heb-ara: Tatoeba-train (1000000) 
+   heb-arq: Tatoeba-train (551) 
+   heb-arz: Tatoeba-train (3) 
+   heb-eng: Tatoeba-train (1000000) 
+   heb-kab: Tatoeba-train (4828) 
+   kab-ara: Tatoeba-train (4833) 
+   kab-eng: Tatoeba-train (11872) 
+   kab-heb: Tatoeba-train (4828) 
+   mlt-ara: Tatoeba-train (350076) 
+   mlt-eng: Tatoeba-train (1000000) 
+   som-eng: Tatoeba-train (204637) 
+   tir-eng: Tatoeba-train (359451) 
 validation-data:
-   - acm-eng: Tatoeba-dev, 8
-   - afb-eng: Tatoeba-dev, 45
-   - amh-eng: Tatoeba-dev, 994
-   - apc-eng: Tatoeba-dev, 12
-   - ara-ara: Tatoeba-dev, 1000
-   - ara-arq: Tatoeba-dev, 1
-   - ara-eng: Tatoeba-dev, 18140
-   - ara-heb: Tatoeba-dev, 999
-   - ara-kab: Tatoeba-dev, 1000
-   - ara-mlt: Tatoeba-dev, 1000
-   - ara-arq: Tatoeba-dev, 1
-   - arq-eng: Tatoeba-dev, 744
-   - ary-eng: Tatoeba-dev, 36
-   - arz-eng: Tatoeba-dev, 377
-   - acm-eng: Tatoeba-dev, 8
-   - afb-eng: Tatoeba-dev, 45
-   - amh-eng: Tatoeba-dev, 994
-   - apc-eng: Tatoeba-dev, 12
-   - ara-eng: Tatoeba-dev, 18140
-   - arq-eng: Tatoeba-dev, 744
-   - ary-eng: Tatoeba-dev, 36
-   - arz-eng: Tatoeba-dev, 377
-   - eng-hau_Latn: Tatoeba-dev, 1000
-   - eng-heb: Tatoeba-dev, 153364
-   - eng-kab: Tatoeba-dev, 14136
-   - eng-mlt: Tatoeba-dev, 1000
-   - eng-som: Tatoeba-dev, 1000
-   - eng-tir: Tatoeba-dev, 1000
-   - eng-hau_Latn: Tatoeba-dev, 1000
-   - ara-heb: Tatoeba-dev, 999
-   - eng-heb: Tatoeba-dev, 153364
-   - heb-kab: Tatoeba-dev, 996
-   - ara-kab: Tatoeba-dev, 1000
-   - eng-kab: Tatoeba-dev, 14136
-   - heb-kab: Tatoeba-dev, 996
-   - kab-tmh: Tatoeba-dev, 506
-   - ara-mlt: Tatoeba-dev, 1000
-   - eng-mlt: Tatoeba-dev, 1000
-   - eng-som: Tatoeba-dev, 1000
-   - eng-tir: Tatoeba-dev, 1000
-   - kab-tmh: Tatoeba-dev, 506
-   - total size of shuffled dev data: 393621
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   acm-eng: Tatoeba-dev, 8
+   afb-eng: Tatoeba-dev, 45
+   amh-eng: Tatoeba-dev, 994
+   apc-eng: Tatoeba-dev, 12
+   ara-ara: Tatoeba-dev, 1000
+   ara-arq: Tatoeba-dev, 1
+   ara-eng: Tatoeba-dev, 18140
+   ara-heb: Tatoeba-dev, 999
+   ara-kab: Tatoeba-dev, 1000
+   ara-mlt: Tatoeba-dev, 1000
+   ara-arq: Tatoeba-dev, 1
+   arq-eng: Tatoeba-dev, 744
+   ary-eng: Tatoeba-dev, 36
+   arz-eng: Tatoeba-dev, 377
+   acm-eng: Tatoeba-dev, 8
+   afb-eng: Tatoeba-dev, 45
+   amh-eng: Tatoeba-dev, 994
+   apc-eng: Tatoeba-dev, 12
+   ara-eng: Tatoeba-dev, 18140
+   arq-eng: Tatoeba-dev, 744
+   ary-eng: Tatoeba-dev, 36
+   arz-eng: Tatoeba-dev, 377
+   eng-hau_Latn: Tatoeba-dev, 1000
+   eng-heb: Tatoeba-dev, 153364
+   eng-kab: Tatoeba-dev, 14136
+   eng-mlt: Tatoeba-dev, 1000
+   eng-som: Tatoeba-dev, 1000
+   eng-tir: Tatoeba-dev, 1000
+   eng-hau_Latn: Tatoeba-dev, 1000
+   ara-heb: Tatoeba-dev, 999
+   eng-heb: Tatoeba-dev, 153364
+   heb-kab: Tatoeba-dev, 996
+   ara-kab: Tatoeba-dev, 1000
+   eng-kab: Tatoeba-dev, 14136
+   heb-kab: Tatoeba-dev, 996
+   kab-tmh: Tatoeba-dev, 506
+   ara-mlt: Tatoeba-dev, 1000
+   eng-mlt: Tatoeba-dev, 1000
+   eng-som: Tatoeba-dev, 1000
+   eng-tir: Tatoeba-dev, 1000
+   kab-tmh: Tatoeba-dev, 506
+   total-size-shuffled: 393621
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.ara-ara: 16/60
-   - Tatoeba-test.ara-heb: 1208/6801
-   - Tatoeba-test.ara-kab: 147/809
-   - Tatoeba-test.ara-mlt: 28/88
-   - Tatoeba-test.ara-shy: 15/58
-   - Tatoeba-test.ara-tmr: 8/28
-   - Tatoeba-test.heb-ara: 1208/6372
-   - Tatoeba-test.heb-jpa: 1/4
-   - Tatoeba-test.heb-kab: 3/11
-   - Tatoeba-test.heb-oar: 8/95
-   - Tatoeba-test.heb-phn: 9/47
-   - Tatoeba-test.heb-syc: 1/6
-   - Tatoeba-test.heb-tmr: 16/94
-   - Tatoeba-test.jpa-heb: 1/4
-   - Tatoeba-test.jpa-tmr: 1/4
-   - Tatoeba-test.kab-ara: 147/736
-   - Tatoeba-test.kab-heb: 3/10
-   - Tatoeba-test.kab-shy: 3/26
-   - Tatoeba-test.kab-tmh: 1/4
-   - Tatoeba-test.kab-tmr: 1/2
-   - Tatoeba-test.mlt-ara: 28/91
-   - Tatoeba-test.oar-heb: 8/82
-   - Tatoeba-test.oar-syc: 1/6
-   - Tatoeba-test.multi-multi: 2938/15794
-   - Tatoeba-test.phn-heb: 9/48
-   - Tatoeba-test.phn-tmr: 1/3
-   - Tatoeba-test.shy-ara: 15/59
-   - Tatoeba-test.shy-kab: 3/26
-   - Tatoeba-test.syc-heb: 1/6
-   - Tatoeba-test.syc-oar: 1/6
-   - Tatoeba-test.tmh-kab: 1/4
-   - Tatoeba-test.tmr-ara: 8/24
-   - Tatoeba-test.tmr-heb: 16/102
-   - Tatoeba-test.tmr-jpa: 1/4
-   - Tatoeba-test.tmr-kab: 1/2
-   - Tatoeba-test.tmr-phn: 1/4
-   - tico19-test.eng-amh: 2100/44943
-   - tico19-test.eng-ara: 2100/51336
-   - tico19-test.eng-som: 2100/63654
-   - tico19-test.eng-tir: 2100/46792
+   Tatoeba-test.ara-ara: 16/60
+   Tatoeba-test.ara-heb: 1208/6801
+   Tatoeba-test.ara-kab: 147/809
+   Tatoeba-test.ara-mlt: 28/88
+   Tatoeba-test.ara-shy: 15/58
+   Tatoeba-test.ara-tmr: 8/28
+   Tatoeba-test.heb-ara: 1208/6372
+   Tatoeba-test.heb-jpa: 1/4
+   Tatoeba-test.heb-kab: 3/11
+   Tatoeba-test.heb-oar: 8/95
+   Tatoeba-test.heb-phn: 9/47
+   Tatoeba-test.heb-syc: 1/6
+   Tatoeba-test.heb-tmr: 16/94
+   Tatoeba-test.jpa-heb: 1/4
+   Tatoeba-test.jpa-tmr: 1/4
+   Tatoeba-test.kab-ara: 147/736
+   Tatoeba-test.kab-heb: 3/10
+   Tatoeba-test.kab-shy: 3/26
+   Tatoeba-test.kab-tmh: 1/4
+   Tatoeba-test.kab-tmr: 1/2
+   Tatoeba-test.mlt-ara: 28/91
+   Tatoeba-test.oar-heb: 8/82
+   Tatoeba-test.oar-syc: 1/6
+   Tatoeba-test.multi-multi: 2938/15794
+   Tatoeba-test.phn-heb: 9/48
+   Tatoeba-test.phn-tmr: 1/3
+   Tatoeba-test.shy-ara: 15/59
+   Tatoeba-test.shy-kab: 3/26
+   Tatoeba-test.syc-heb: 1/6
+   Tatoeba-test.syc-oar: 1/6
+   Tatoeba-test.tmh-kab: 1/4
+   Tatoeba-test.tmr-ara: 8/24
+   Tatoeba-test.tmr-heb: 16/102
+   Tatoeba-test.tmr-jpa: 1/4
+   Tatoeba-test.tmr-kab: 1/2
+   Tatoeba-test.tmr-phn: 1/4
+   tico19-test.eng-amh: 2100/44943
+   tico19-test.eng-ara: 2100/51336
+   tico19-test.eng-som: 2100/63654
+   tico19-test.eng-tir: 2100/46792
 BLEU-scores:
-   - Tatoeba-test.ara-ara: 5.6
-   - Tatoeba-test.ara-heb: 34.5
-   - Tatoeba-test.ara-kab: 0.4
-   - Tatoeba-test.ara-mlt: 14.6
-   - Tatoeba-test.ara-shy: 0.8
-   - Tatoeba-test.ara-tmr: 2.7
-   - Tatoeba-test.heb-ara: 17.6
-   - Tatoeba-test.heb-jpa: 10.7
-   - Tatoeba-test.heb-kab: 2.8
-   - Tatoeba-test.heb-oar: 0.2
-   - Tatoeba-test.heb-phn: 1.1
-   - Tatoeba-test.heb-syc: 1.9
-   - Tatoeba-test.heb-tmr: 0.7
-   - Tatoeba-test.jpa-heb: 12.7
-   - Tatoeba-test.jpa-tmr: 6.6
-   - Tatoeba-test.kab-ara: 0.2
-   - Tatoeba-test.kab-heb: 0.0
-   - Tatoeba-test.kab-shy: 1.3
-   - Tatoeba-test.kab-tmh: 5.5
-   - Tatoeba-test.kab-tmr: 0.0
-   - Tatoeba-test.mlt-ara: 20.0
-   - Tatoeba-test.oar-heb: 0.8
-   - Tatoeba-test.oar-syc: 3.1
-   - Tatoeba-test.multi-multi: 21.0
-   - Tatoeba-test.phn-heb: 1.5
-   - Tatoeba-test.phn-tmr: 1.6
-   - Tatoeba-test.shy-ara: 1.1
-   - Tatoeba-test.shy-kab: 2.1
-   - Tatoeba-test.syc-heb: 1.4
-   - Tatoeba-test.syc-oar: 0.8
-   - Tatoeba-test.tmh-kab: 3.4
-   - Tatoeba-test.tmr-ara: 0.4
-   - Tatoeba-test.tmr-heb: 1.7
-   - Tatoeba-test.tmr-jpa: 8.1
-   - Tatoeba-test.tmr-kab: 1.9
-   - Tatoeba-test.tmr-phn: 6.6
-   - tico19-test.eng-amh: 3.6
-   - tico19-test.eng-ara: 14.2
-   - tico19-test.eng-som: 3.1
-   - tico19-test.eng-tir: 2.7
+   Tatoeba-test.ara-ara: 5.6
+   Tatoeba-test.ara-heb: 34.5
+   Tatoeba-test.ara-kab: 0.4
+   Tatoeba-test.ara-mlt: 14.6
+   Tatoeba-test.ara-shy: 0.8
+   Tatoeba-test.ara-tmr: 2.7
+   Tatoeba-test.heb-ara: 17.6
+   Tatoeba-test.heb-jpa: 10.7
+   Tatoeba-test.heb-kab: 2.8
+   Tatoeba-test.heb-oar: 0.2
+   Tatoeba-test.heb-phn: 1.1
+   Tatoeba-test.heb-syc: 1.9
+   Tatoeba-test.heb-tmr: 0.7
+   Tatoeba-test.jpa-heb: 12.7
+   Tatoeba-test.jpa-tmr: 6.6
+   Tatoeba-test.kab-ara: 0.2
+   Tatoeba-test.kab-heb: 0.0
+   Tatoeba-test.kab-shy: 1.3
+   Tatoeba-test.kab-tmh: 5.5
+   Tatoeba-test.kab-tmr: 0.0
+   Tatoeba-test.mlt-ara: 20.0
+   Tatoeba-test.oar-heb: 0.8
+   Tatoeba-test.oar-syc: 3.1
+   Tatoeba-test.multi-multi: 21.0
+   Tatoeba-test.phn-heb: 1.5
+   Tatoeba-test.phn-tmr: 1.6
+   Tatoeba-test.shy-ara: 1.1
+   Tatoeba-test.shy-kab: 2.1
+   Tatoeba-test.syc-heb: 1.4
+   Tatoeba-test.syc-oar: 0.8
+   Tatoeba-test.tmh-kab: 3.4
+   Tatoeba-test.tmr-ara: 0.4
+   Tatoeba-test.tmr-heb: 1.7
+   Tatoeba-test.tmr-jpa: 8.1
+   Tatoeba-test.tmr-kab: 1.9
+   Tatoeba-test.tmr-phn: 6.6
+   tico19-test.eng-amh: 3.6
+   tico19-test.eng-ara: 14.2
+   tico19-test.eng-som: 3.1
+   tico19-test.eng-tir: 2.7
 chr-F-scores:
-   - Tatoeba-test.ara-ara: 0.224
-   - Tatoeba-test.ara-heb: 0.546
-   - Tatoeba-test.ara-kab: 0.131
-   - Tatoeba-test.ara-mlt: 0.565
-   - Tatoeba-test.ara-shy: 0.078
-   - Tatoeba-test.ara-tmr: 0.014
-   - Tatoeba-test.heb-ara: 0.474
-   - Tatoeba-test.heb-jpa: 0.012
-   - Tatoeba-test.heb-kab: 0.115
-   - Tatoeba-test.heb-oar: 0.001
-   - Tatoeba-test.heb-phn: 0.009
-   - Tatoeba-test.heb-syc: 0.000
-   - Tatoeba-test.heb-tmr: 0.005
-   - Tatoeba-test.jpa-heb: 0.134
-   - Tatoeba-test.jpa-tmr: 0.014
-   - Tatoeba-test.kab-ara: 0.076
-   - Tatoeba-test.kab-heb: 0.115
-   - Tatoeba-test.kab-shy: 0.104
-   - Tatoeba-test.kab-tmh: 0.121
-   - Tatoeba-test.kab-tmr: 0.028
-   - Tatoeba-test.mlt-ara: 0.405
-   - Tatoeba-test.oar-heb: 0.056
-   - Tatoeba-test.oar-syc: 0.005
-   - Tatoeba-test.multi-multi: 0.429
-   - Tatoeba-test.phn-heb: 0.032
-   - Tatoeba-test.phn-tmr: 0.008
-   - Tatoeba-test.shy-ara: 0.086
-   - Tatoeba-test.shy-kab: 0.139
-   - Tatoeba-test.syc-heb: 0.000
-   - Tatoeba-test.syc-oar: 0.000
-   - Tatoeba-test.tmh-kab: 0.093
-   - Tatoeba-test.tmr-ara: 0.080
-   - Tatoeba-test.tmr-heb: 0.128
-   - Tatoeba-test.tmr-jpa: 0.013
-   - Tatoeba-test.tmr-kab: 0.022
-   - Tatoeba-test.tmr-phn: 0.013
-   - tico19-test.eng-amh: 0.220
-   - tico19-test.eng-ara: 0.458
-   - tico19-test.eng-som: 0.258
-   - tico19-test.eng-tir: 0.167
+   Tatoeba-test.ara-ara: 0.224
+   Tatoeba-test.ara-heb: 0.546
+   Tatoeba-test.ara-kab: 0.131
+   Tatoeba-test.ara-mlt: 0.565
+   Tatoeba-test.ara-shy: 0.078
+   Tatoeba-test.ara-tmr: 0.014
+   Tatoeba-test.heb-ara: 0.474
+   Tatoeba-test.heb-jpa: 0.012
+   Tatoeba-test.heb-kab: 0.115
+   Tatoeba-test.heb-oar: 0.001
+   Tatoeba-test.heb-phn: 0.009
+   Tatoeba-test.heb-syc: 0.000
+   Tatoeba-test.heb-tmr: 0.005
+   Tatoeba-test.jpa-heb: 0.134
+   Tatoeba-test.jpa-tmr: 0.014
+   Tatoeba-test.kab-ara: 0.076
+   Tatoeba-test.kab-heb: 0.115
+   Tatoeba-test.kab-shy: 0.104
+   Tatoeba-test.kab-tmh: 0.121
+   Tatoeba-test.kab-tmr: 0.028
+   Tatoeba-test.mlt-ara: 0.405
+   Tatoeba-test.oar-heb: 0.056
+   Tatoeba-test.oar-syc: 0.005
+   Tatoeba-test.multi-multi: 0.429
+   Tatoeba-test.phn-heb: 0.032
+   Tatoeba-test.phn-tmr: 0.008
+   Tatoeba-test.shy-ara: 0.086
+   Tatoeba-test.shy-kab: 0.139
+   Tatoeba-test.syc-heb: 0.000
+   Tatoeba-test.syc-oar: 0.000
+   Tatoeba-test.tmh-kab: 0.093
+   Tatoeba-test.tmr-ara: 0.080
+   Tatoeba-test.tmr-heb: 0.128
+   Tatoeba-test.tmr-jpa: 0.013
+   Tatoeba-test.tmr-kab: 0.022
+   Tatoeba-test.tmr-phn: 0.013
+   tico19-test.eng-amh: 0.220
+   tico19-test.eng-ara: 0.458
+   tico19-test.eng-som: 0.258
+   tico19-test.eng-tir: 0.167

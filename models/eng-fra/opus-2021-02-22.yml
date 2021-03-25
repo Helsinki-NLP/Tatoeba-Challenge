@@ -4,57 +4,57 @@ dataset-name: opus
 modeltype: transformer-align
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - eng
 target-languages:
    - fra
 training-data:
-   - fra-eng: Tatoeba-train (180923857) 
+   fra-eng: Tatoeba-train (180923857) 
 validation-data:
-   - eng-fra: Tatoeba-dev, 250098
-   - total size of shuffled dev data: 249757
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   eng-fra: Tatoeba-dev, 250098
+   total-size-shuffled: 249757
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - newsdiscussdev2015-enfr.eng-fra: 1500/27986
-   - newsdiscusstest2015-enfr.eng-fra: 1500/28027
-   - newssyscomb2009.eng-fra: 502/12334
-   - news-test2008.eng-fra: 2051/52685
-   - newstest2009.eng-fra: 2525/69278
-   - newstest2010.eng-fra: 2489/66043
-   - newstest2011.eng-fra: 3003/80626
-   - newstest2012.eng-fra: 3003/78011
-   - newstest2013.eng-fra: 3000/70037
-   - Tatoeba-test.eng-fra: 10000/80769
-   - Tatoeba-test.eng-fra: 10000/80769
-   - tico19-test.eng-fra: 2100/64655
+   newsdiscussdev2015-enfr.eng-fra: 1500/27986
+   newsdiscusstest2015-enfr.eng-fra: 1500/28027
+   newssyscomb2009.eng-fra: 502/12334
+   news-test2008.eng-fra: 2051/52685
+   newstest2009.eng-fra: 2525/69278
+   newstest2010.eng-fra: 2489/66043
+   newstest2011.eng-fra: 3003/80626
+   newstest2012.eng-fra: 3003/78011
+   newstest2013.eng-fra: 3000/70037
+   Tatoeba-test.eng-fra: 10000/80769
+   Tatoeba-test.eng-fra: 10000/80769
+   tico19-test.eng-fra: 2100/64655
 BLEU-scores:
-   - newsdiscussdev2015-enfr.eng-fra: 33.9
-   - newsdiscusstest2015-enfr.eng-fra: 40.8
-   - newssyscomb2009.eng-fra: 30.0
-   - news-test2008.eng-fra: 27.5
-   - newstest2009.eng-fra: 29.9
-   - newstest2010.eng-fra: 33.0
-   - newstest2011.eng-fra: 34.6
-   - newstest2012.eng-fra: 32.0
-   - newstest2013.eng-fra: 33.5
-   - Tatoeba-test.eng-fra: 50.8
-   - Tatoeba-test.eng-fra: 50.8
-   - tico19-test.eng-fra: 41.8
+   newsdiscussdev2015-enfr.eng-fra: 33.9
+   newsdiscusstest2015-enfr.eng-fra: 40.8
+   newssyscomb2009.eng-fra: 30.0
+   news-test2008.eng-fra: 27.5
+   newstest2009.eng-fra: 29.9
+   newstest2010.eng-fra: 33.0
+   newstest2011.eng-fra: 34.6
+   newstest2012.eng-fra: 32.0
+   newstest2013.eng-fra: 33.5
+   Tatoeba-test.eng-fra: 50.8
+   Tatoeba-test.eng-fra: 50.8
+   tico19-test.eng-fra: 41.8
 chr-F-scores:
-   - newsdiscussdev2015-enfr.eng-fra: 0.606
-   - newsdiscusstest2015-enfr.eng-fra: 0.649
-   - newssyscomb2009.eng-fra: 0.587
-   - news-test2008.eng-fra: 0.556
-   - newstest2009.eng-fra: 0.580
-   - newstest2010.eng-fra: 0.599
-   - newstest2011.eng-fra: 0.614
-   - newstest2012.eng-fra: 0.593
-   - newstest2013.eng-fra: 0.591
-   - Tatoeba-test.eng-fra: 0.671
-   - Tatoeba-test.eng-fra: 0.671
-   - tico19-test.eng-fra: 0.638
+   newsdiscussdev2015-enfr.eng-fra: 0.606
+   newsdiscusstest2015-enfr.eng-fra: 0.649
+   newssyscomb2009.eng-fra: 0.587
+   news-test2008.eng-fra: 0.556
+   newstest2009.eng-fra: 0.580
+   newstest2010.eng-fra: 0.599
+   newstest2011.eng-fra: 0.614
+   newstest2012.eng-fra: 0.593
+   newstest2013.eng-fra: 0.591
+   Tatoeba-test.eng-fra: 0.671
+   Tatoeba-test.eng-fra: 0.671
+   tico19-test.eng-fra: 0.638

@@ -4,11 +4,11 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - bul
    - mkd
@@ -18,30 +18,30 @@ target-languages:
    - mkd
    - srp
 use-target-labels:
-   - >>bul<<
-   - >>mkd<<
-   - >>srp_Cyrl<<
+   '>>bul<<'
+   '>>mkd<<'
+   '>>srp_Cyrl<<'
 test-data:
-   - Tatoeba-test.bul-hbs: 1/5
-   - Tatoeba-test.bul-mkd: 3/13
-   - Tatoeba-test.hbs-bul: 1/5
-   - Tatoeba-test.hbs-mkd: 1/5
-   - Tatoeba-test.mkd-bul: 3/13
-   - Tatoeba-test.mkd-hbs: 1/5
-   - Tatoeba-test.multi-multi: 10/46
+   Tatoeba-test.bul-hbs: 1/5
+   Tatoeba-test.bul-mkd: 3/13
+   Tatoeba-test.hbs-bul: 1/5
+   Tatoeba-test.hbs-mkd: 1/5
+   Tatoeba-test.mkd-bul: 3/13
+   Tatoeba-test.mkd-hbs: 1/5
+   Tatoeba-test.multi-multi: 10/46
 BLEU-scores:
-   - Tatoeba-test.bul-hbs: 19.3
-   - Tatoeba-test.bul-mkd: 31.9
-   - Tatoeba-test.hbs-bul: 18.0
-   - Tatoeba-test.hbs-mkd: 19.4
-   - Tatoeba-test.mkd-bul: 44.6
-   - Tatoeba-test.mkd-hbs: 5.5
-   - Tatoeba-test.multi-multi: 26.5
+   Tatoeba-test.bul-hbs: 19.3
+   Tatoeba-test.bul-mkd: 31.9
+   Tatoeba-test.hbs-bul: 18.0
+   Tatoeba-test.hbs-mkd: 19.4
+   Tatoeba-test.mkd-bul: 44.6
+   Tatoeba-test.mkd-hbs: 5.5
+   Tatoeba-test.multi-multi: 26.5
 chr-F-scores:
-   - Tatoeba-test.bul-hbs: 0.514
-   - Tatoeba-test.bul-mkd: 0.669
-   - Tatoeba-test.hbs-bul: 0.636
-   - Tatoeba-test.hbs-mkd: 0.322
-   - Tatoeba-test.mkd-bul: 0.679
-   - Tatoeba-test.mkd-hbs: 0.152
-   - Tatoeba-test.multi-multi: 0.563
+   Tatoeba-test.bul-hbs: 0.514
+   Tatoeba-test.bul-mkd: 0.669
+   Tatoeba-test.hbs-bul: 0.636
+   Tatoeba-test.hbs-mkd: 0.322
+   Tatoeba-test.mkd-bul: 0.679
+   Tatoeba-test.mkd-hbs: 0.152
+   Tatoeba-test.multi-multi: 0.563

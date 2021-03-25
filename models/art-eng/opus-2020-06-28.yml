@@ -4,11 +4,11 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - afh
    - avk
@@ -30,59 +30,59 @@ source-languages:
 target-languages:
    - eng
 test-data:
-   - Tatoeba-test.afh-eng: 10/44
-   - Tatoeba-test.avk-eng: 167/1036
-   - Tatoeba-test.bzt-eng: 62/260
-   - Tatoeba-test.dws-eng: 10/42
-   - Tatoeba-test.epo-eng: 10000/67977
-   - Tatoeba-test.ido-eng: 1968/11883
-   - Tatoeba-test.ile-eng: 1711/8607
-   - Tatoeba-test.ina-eng: 5000/36583
-   - Tatoeba-test.jbo-eng: 5000/28604
-   - Tatoeba-test.ldn-eng: 101/454
-   - Tatoeba-test.lfn-eng: 3297/18425
-   - Tatoeba-test.multi-eng: 0/0
-   - Tatoeba-test.nov-eng: 198/1060
-   - Tatoeba-test.qya-eng: 116/518
-   - Tatoeba-test.sjn-eng: 44/189
-   - Tatoeba-test.tlh-eng: 5000/27391
-   - Tatoeba-test.tzl-eng: 166/558
-   - Tatoeba-test.vol-eng: 1549/8198
+   Tatoeba-test.afh-eng: 10/44
+   Tatoeba-test.avk-eng: 167/1036
+   Tatoeba-test.bzt-eng: 62/260
+   Tatoeba-test.dws-eng: 10/42
+   Tatoeba-test.epo-eng: 10000/67977
+   Tatoeba-test.ido-eng: 1968/11883
+   Tatoeba-test.ile-eng: 1711/8607
+   Tatoeba-test.ina-eng: 5000/36583
+   Tatoeba-test.jbo-eng: 5000/28604
+   Tatoeba-test.ldn-eng: 101/454
+   Tatoeba-test.lfn-eng: 3297/18425
+   Tatoeba-test.multi-eng: 0/0
+   Tatoeba-test.nov-eng: 198/1060
+   Tatoeba-test.qya-eng: 116/518
+   Tatoeba-test.sjn-eng: 44/189
+   Tatoeba-test.tlh-eng: 5000/27391
+   Tatoeba-test.tzl-eng: 166/558
+   Tatoeba-test.vol-eng: 1549/8198
 BLEU-scores:
-   - Tatoeba-test.afh-eng: 1.1
-   - Tatoeba-test.avk-eng: 0.6
-   - Tatoeba-test.bzt-eng: 0.8
-   - Tatoeba-test.dws-eng: 0.7
-   - Tatoeba-test.epo-eng: 34.7
-   - Tatoeba-test.ido-eng: 13.8
-   - Tatoeba-test.ile-eng: 5.7
-   - Tatoeba-test.ina-eng: 5.7
-   - Tatoeba-test.jbo-eng: 0.2
-   - Tatoeba-test.ldn-eng: 0.3
-   - Tatoeba-test.lfn-eng: 1.5
-   - Tatoeba-test.multi-eng: 11.9
-   - Tatoeba-test.nov-eng: 3.9
-   - Tatoeba-test.qya-eng: 0.3
-   - Tatoeba-test.sjn-eng: 1.0
-   - Tatoeba-test.tlh-eng: 0.2
-   - Tatoeba-test.tzl-eng: 1.1
-   - Tatoeba-test.vol-eng: 0.6
+   Tatoeba-test.afh-eng: 1.1
+   Tatoeba-test.avk-eng: 0.6
+   Tatoeba-test.bzt-eng: 0.8
+   Tatoeba-test.dws-eng: 0.7
+   Tatoeba-test.epo-eng: 34.7
+   Tatoeba-test.ido-eng: 13.8
+   Tatoeba-test.ile-eng: 5.7
+   Tatoeba-test.ina-eng: 5.7
+   Tatoeba-test.jbo-eng: 0.2
+   Tatoeba-test.ldn-eng: 0.3
+   Tatoeba-test.lfn-eng: 1.5
+   Tatoeba-test.multi-eng: 11.9
+   Tatoeba-test.nov-eng: 3.9
+   Tatoeba-test.qya-eng: 0.3
+   Tatoeba-test.sjn-eng: 1.0
+   Tatoeba-test.tlh-eng: 0.2
+   Tatoeba-test.tzl-eng: 1.1
+   Tatoeba-test.vol-eng: 0.6
 chr-F-scores:
-   - Tatoeba-test.afh-eng: 0.097
-   - Tatoeba-test.avk-eng: 0.108
-   - Tatoeba-test.bzt-eng: 0.109
-   - Tatoeba-test.dws-eng: 0.039
-   - Tatoeba-test.epo-eng: 0.529
-   - Tatoeba-test.ido-eng: 0.318
-   - Tatoeba-test.ile-eng: 0.234
-   - Tatoeba-test.ina-eng: 0.251
-   - Tatoeba-test.jbo-eng: 0.113
-   - Tatoeba-test.ldn-eng: 0.082
-   - Tatoeba-test.lfn-eng: 0.169
-   - Tatoeba-test.multi-eng: 0.291
-   - Tatoeba-test.nov-eng: 0.209
-   - Tatoeba-test.qya-eng: 0.076
-   - Tatoeba-test.sjn-eng: 0.081
-   - Tatoeba-test.tlh-eng: 0.124
-   - Tatoeba-test.tzl-eng: 0.125
-   - Tatoeba-test.vol-eng: 0.115
+   Tatoeba-test.afh-eng: 0.097
+   Tatoeba-test.avk-eng: 0.108
+   Tatoeba-test.bzt-eng: 0.109
+   Tatoeba-test.dws-eng: 0.039
+   Tatoeba-test.epo-eng: 0.529
+   Tatoeba-test.ido-eng: 0.318
+   Tatoeba-test.ile-eng: 0.234
+   Tatoeba-test.ina-eng: 0.251
+   Tatoeba-test.jbo-eng: 0.113
+   Tatoeba-test.ldn-eng: 0.082
+   Tatoeba-test.lfn-eng: 0.169
+   Tatoeba-test.multi-eng: 0.291
+   Tatoeba-test.nov-eng: 0.209
+   Tatoeba-test.qya-eng: 0.076
+   Tatoeba-test.sjn-eng: 0.081
+   Tatoeba-test.tlh-eng: 0.124
+   Tatoeba-test.tzl-eng: 0.125
+   Tatoeba-test.vol-eng: 0.115

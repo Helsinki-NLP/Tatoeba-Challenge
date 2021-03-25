@@ -4,11 +4,11 @@ dataset-name: opus1m
 modeltype: transformer-align
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - deu
    - fin
@@ -18,133 +18,133 @@ source-languages:
 target-languages:
    - eng
 training-data:
-   - deu-eng: Tatoeba-train (1000000) 
-   - fin-eng: Tatoeba-train (1000000) 
-   - fra-eng: Tatoeba-train (1000000) 
-   - nld-eng: Tatoeba-train (1000000) 
-   - swe-eng: Tatoeba-train (1000000) 
+   deu-eng: Tatoeba-train (1000000) 
+   fin-eng: Tatoeba-train (1000000) 
+   fra-eng: Tatoeba-train (1000000) 
+   nld-eng: Tatoeba-train (1000000) 
+   swe-eng: Tatoeba-train (1000000) 
 validation-data:
-   - deu-eng: Tatoeba-dev, 284809
-   - eng-fin: Tatoeba-dev, 69721
-   - eng-fra: Tatoeba-dev, 250098
-   - eng-nld: Tatoeba-dev, 61683
-   - eng-swe: Tatoeba-dev, 15411
-   - total size of shuffled dev data: 681325
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   deu-eng: Tatoeba-dev, 284809
+   eng-fin: Tatoeba-dev, 69721
+   eng-fra: Tatoeba-dev, 250098
+   eng-nld: Tatoeba-dev, 61683
+   eng-swe: Tatoeba-dev, 15411
+   total-size-shuffled: 681325
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - newsdev2015-enfi.fin-eng: 1500/32104
-   - newsdiscussdev2015-enfr.fra-eng: 1500/27759
-   - newsdiscusstest2015-enfr.fra-eng: 1500/26995
-   - newssyscomb2009.deu-eng: 502/11821
-   - newssyscomb2009.fra-eng: 502/11821
-   - news-test2008.deu-eng: 2051/49380
-   - news-test2008.fra-eng: 2051/49380
-   - newstest2009.deu-eng: 2525/65402
-   - newstest2009.fra-eng: 2525/65402
-   - newstest2010.deu-eng: 2489/61724
-   - newstest2010.fra-eng: 2489/61724
-   - newstest2011.deu-eng: 3003/74681
-   - newstest2011.fra-eng: 3003/74681
-   - newstest2012.deu-eng: 3003/72812
-   - newstest2012.fra-eng: 3003/72812
-   - newstest2013.deu-eng: 3000/64505
-   - newstest2013.fra-eng: 3000/64505
-   - newstest2014-deen.deu-eng: 3003/67337
-   - newstest2014-fren.fra-eng: 3003/70708
-   - newstest2015-ende.deu-eng: 2169/46443
-   - newstest2015-enfi.fin-eng: 1370/27356
-   - newstest2016-ende.deu-eng: 2999/64126
-   - newstest2016-enfi.fin-eng: 3000/63043
-   - newstest2017-ende.deu-eng: 3004/64399
-   - newstest2017-enfi.fin-eng: 3002/61936
-   - newstest2018-ende.deu-eng: 2998/67013
-   - newstest2018-enfi.fin-eng: 3000/62325
-   - newstest2019-deen.deu-eng: 2000/39282
-   - newstest2019-fien.fin-eng: 1996/36227
-   - newstestB2016-enfi.fin-eng: 3000/63043
-   - newstestB2017-enfi.fin-eng: 3002/61936
-   - newstestB2017-fien.fin-eng: 3002/61936
-   - Tatoeba-test.deu-eng: 10000/81233
-   - Tatoeba-test.fin-eng: 10000/74651
-   - Tatoeba-test.fra-eng: 10000/77174
-   - Tatoeba-test.nld-eng: 10000/69848
-   - Tatoeba-test.multi-eng: 10000/73258
-   - Tatoeba-test.swe-eng: 10000/66002
+   newsdev2015-enfi.fin-eng: 1500/32104
+   newsdiscussdev2015-enfr.fra-eng: 1500/27759
+   newsdiscusstest2015-enfr.fra-eng: 1500/26995
+   newssyscomb2009.deu-eng: 502/11821
+   newssyscomb2009.fra-eng: 502/11821
+   news-test2008.deu-eng: 2051/49380
+   news-test2008.fra-eng: 2051/49380
+   newstest2009.deu-eng: 2525/65402
+   newstest2009.fra-eng: 2525/65402
+   newstest2010.deu-eng: 2489/61724
+   newstest2010.fra-eng: 2489/61724
+   newstest2011.deu-eng: 3003/74681
+   newstest2011.fra-eng: 3003/74681
+   newstest2012.deu-eng: 3003/72812
+   newstest2012.fra-eng: 3003/72812
+   newstest2013.deu-eng: 3000/64505
+   newstest2013.fra-eng: 3000/64505
+   newstest2014-deen.deu-eng: 3003/67337
+   newstest2014-fren.fra-eng: 3003/70708
+   newstest2015-ende.deu-eng: 2169/46443
+   newstest2015-enfi.fin-eng: 1370/27356
+   newstest2016-ende.deu-eng: 2999/64126
+   newstest2016-enfi.fin-eng: 3000/63043
+   newstest2017-ende.deu-eng: 3004/64399
+   newstest2017-enfi.fin-eng: 3002/61936
+   newstest2018-ende.deu-eng: 2998/67013
+   newstest2018-enfi.fin-eng: 3000/62325
+   newstest2019-deen.deu-eng: 2000/39282
+   newstest2019-fien.fin-eng: 1996/36227
+   newstestB2016-enfi.fin-eng: 3000/63043
+   newstestB2017-enfi.fin-eng: 3002/61936
+   newstestB2017-fien.fin-eng: 3002/61936
+   Tatoeba-test.deu-eng: 10000/81233
+   Tatoeba-test.fin-eng: 10000/74651
+   Tatoeba-test.fra-eng: 10000/77174
+   Tatoeba-test.nld-eng: 10000/69848
+   Tatoeba-test.multi-eng: 10000/73258
+   Tatoeba-test.swe-eng: 10000/66002
 BLEU-scores:
-   - newsdev2015-enfi.fin-eng: 22.2
-   - newsdiscussdev2015-enfr.fra-eng: 31.0
-   - newsdiscusstest2015-enfr.fra-eng: 35.4
-   - newssyscomb2009.deu-eng: 27.4
-   - newssyscomb2009.fra-eng: 29.5
-   - news-test2008.deu-eng: 25.6
-   - news-test2008.fra-eng: 25.0
-   - newstest2009.deu-eng: 25.3
-   - newstest2009.fra-eng: 28.7
-   - newstest2010.deu-eng: 28.3
-   - newstest2010.fra-eng: 29.9
-   - newstest2011.deu-eng: 25.5
-   - newstest2011.fra-eng: 30.8
-   - newstest2012.deu-eng: 26.8
-   - newstest2012.fra-eng: 30.7
-   - newstest2013.deu-eng: 29.6
-   - newstest2013.fra-eng: 31.6
-   - newstest2014-deen.deu-eng: 30.9
-   - newstest2014-fren.fra-eng: 34.6
-   - newstest2015-ende.deu-eng: 31.9
-   - newstest2015-enfi.fin-eng: 24.5
-   - newstest2016-ende.deu-eng: 37.0
-   - newstest2016-enfi.fin-eng: 25.7
-   - newstest2017-ende.deu-eng: 32.7
-   - newstest2017-enfi.fin-eng: 28.4
-   - newstest2018-ende.deu-eng: 40.0
-   - newstest2018-enfi.fin-eng: 20.9
-   - newstest2019-deen.deu-eng: 36.3
-   - newstest2019-fien.fin-eng: 25.2
-   - newstestB2016-enfi.fin-eng: 21.3
-   - newstestB2017-enfi.fin-eng: 24.1
-   - newstestB2017-fien.fin-eng: 24.1
-   - Tatoeba-test.deu-eng: 48.5
-   - Tatoeba-test.fin-eng: 47.2
-   - Tatoeba-test.fra-eng: 52.9
-   - Tatoeba-test.nld-eng: 57.9
-   - Tatoeba-test.multi-eng: 53.2
-   - Tatoeba-test.swe-eng: 61.2
+   newsdev2015-enfi.fin-eng: 22.2
+   newsdiscussdev2015-enfr.fra-eng: 31.0
+   newsdiscusstest2015-enfr.fra-eng: 35.4
+   newssyscomb2009.deu-eng: 27.4
+   newssyscomb2009.fra-eng: 29.5
+   news-test2008.deu-eng: 25.6
+   news-test2008.fra-eng: 25.0
+   newstest2009.deu-eng: 25.3
+   newstest2009.fra-eng: 28.7
+   newstest2010.deu-eng: 28.3
+   newstest2010.fra-eng: 29.9
+   newstest2011.deu-eng: 25.5
+   newstest2011.fra-eng: 30.8
+   newstest2012.deu-eng: 26.8
+   newstest2012.fra-eng: 30.7
+   newstest2013.deu-eng: 29.6
+   newstest2013.fra-eng: 31.6
+   newstest2014-deen.deu-eng: 30.9
+   newstest2014-fren.fra-eng: 34.6
+   newstest2015-ende.deu-eng: 31.9
+   newstest2015-enfi.fin-eng: 24.5
+   newstest2016-ende.deu-eng: 37.0
+   newstest2016-enfi.fin-eng: 25.7
+   newstest2017-ende.deu-eng: 32.7
+   newstest2017-enfi.fin-eng: 28.4
+   newstest2018-ende.deu-eng: 40.0
+   newstest2018-enfi.fin-eng: 20.9
+   newstest2019-deen.deu-eng: 36.3
+   newstest2019-fien.fin-eng: 25.2
+   newstestB2016-enfi.fin-eng: 21.3
+   newstestB2017-enfi.fin-eng: 24.1
+   newstestB2017-fien.fin-eng: 24.1
+   Tatoeba-test.deu-eng: 48.5
+   Tatoeba-test.fin-eng: 47.2
+   Tatoeba-test.fra-eng: 52.9
+   Tatoeba-test.nld-eng: 57.9
+   Tatoeba-test.multi-eng: 53.2
+   Tatoeba-test.swe-eng: 61.2
 chr-F-scores:
-   - newsdev2015-enfi.fin-eng: 0.507
-   - newsdiscussdev2015-enfr.fra-eng: 0.561
-   - newsdiscusstest2015-enfr.fra-eng: 0.588
-   - newssyscomb2009.deu-eng: 0.543
-   - newssyscomb2009.fra-eng: 0.560
-   - news-test2008.deu-eng: 0.533
-   - news-test2008.fra-eng: 0.531
-   - newstest2009.deu-eng: 0.531
-   - newstest2009.fra-eng: 0.557
-   - newstest2010.deu-eng: 0.568
-   - newstest2010.fra-eng: 0.574
-   - newstest2011.deu-eng: 0.540
-   - newstest2011.fra-eng: 0.581
-   - newstest2012.deu-eng: 0.551
-   - newstest2012.fra-eng: 0.576
-   - newstest2013.deu-eng: 0.566
-   - newstest2013.fra-eng: 0.573
-   - newstest2014-deen.deu-eng: 0.576
-   - newstest2014-fren.fra-eng: 0.611
-   - newstest2015-ende.deu-eng: 0.580
-   - newstest2015-enfi.fin-eng: 0.521
-   - newstest2016-ende.deu-eng: 0.624
-   - newstest2016-enfi.fin-eng: 0.540
-   - newstest2017-ende.deu-eng: 0.586
-   - newstest2017-enfi.fin-eng: 0.556
-   - newstest2018-ende.deu-eng: 0.639
-   - newstest2018-enfi.fin-eng: 0.487
-   - newstest2019-deen.deu-eng: 0.611
-   - newstest2019-fien.fin-eng: 0.527
-   - newstestB2016-enfi.fin-eng: 0.499
-   - newstestB2017-enfi.fin-eng: 0.523
-   - newstestB2017-fien.fin-eng: 0.523
-   - Tatoeba-test.deu-eng: 0.657
-   - Tatoeba-test.fin-eng: 0.647
-   - Tatoeba-test.fra-eng: 0.684
-   - Tatoeba-test.nld-eng: 0.725
-   - Tatoeba-test.multi-eng: 0.687
-   - Tatoeba-test.swe-eng: 0.739
+   newsdev2015-enfi.fin-eng: 0.507
+   newsdiscussdev2015-enfr.fra-eng: 0.561
+   newsdiscusstest2015-enfr.fra-eng: 0.588
+   newssyscomb2009.deu-eng: 0.543
+   newssyscomb2009.fra-eng: 0.560
+   news-test2008.deu-eng: 0.533
+   news-test2008.fra-eng: 0.531
+   newstest2009.deu-eng: 0.531
+   newstest2009.fra-eng: 0.557
+   newstest2010.deu-eng: 0.568
+   newstest2010.fra-eng: 0.574
+   newstest2011.deu-eng: 0.540
+   newstest2011.fra-eng: 0.581
+   newstest2012.deu-eng: 0.551
+   newstest2012.fra-eng: 0.576
+   newstest2013.deu-eng: 0.566
+   newstest2013.fra-eng: 0.573
+   newstest2014-deen.deu-eng: 0.576
+   newstest2014-fren.fra-eng: 0.611
+   newstest2015-ende.deu-eng: 0.580
+   newstest2015-enfi.fin-eng: 0.521
+   newstest2016-ende.deu-eng: 0.624
+   newstest2016-enfi.fin-eng: 0.540
+   newstest2017-ende.deu-eng: 0.586
+   newstest2017-enfi.fin-eng: 0.556
+   newstest2018-ende.deu-eng: 0.639
+   newstest2018-enfi.fin-eng: 0.487
+   newstest2019-deen.deu-eng: 0.611
+   newstest2019-fien.fin-eng: 0.527
+   newstestB2016-enfi.fin-eng: 0.499
+   newstestB2017-enfi.fin-eng: 0.523
+   newstestB2017-fien.fin-eng: 0.523
+   Tatoeba-test.deu-eng: 0.657
+   Tatoeba-test.fin-eng: 0.647
+   Tatoeba-test.fra-eng: 0.684
+   Tatoeba-test.nld-eng: 0.725
+   Tatoeba-test.multi-eng: 0.687
+   Tatoeba-test.swe-eng: 0.739

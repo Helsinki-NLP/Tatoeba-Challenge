@@ -4,11 +4,11 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - bos
    - hbs
@@ -17,31 +17,31 @@ source-languages:
 target-languages:
    - ukr
 training-data:
-   - bos_Cyrl-ukr: Tatoeba-train (2) 
-   - bos_Latn-ukr: Tatoeba-train (204582) 
-   - hbs_Cyrl-ukr: Tatoeba-train (11) 
-   - hrv-ukr: Tatoeba-train (1398103) 
-   - srp_Cyrl-ukr: Tatoeba-train (152997) 
-   - srp_Latn-ukr: Tatoeba-train (381969) 
+   bos_Cyrl-ukr: Tatoeba-train (2) 
+   bos_Latn-ukr: Tatoeba-train (204582) 
+   hbs_Cyrl-ukr: Tatoeba-train (11) 
+   hrv-ukr: Tatoeba-train (1398103) 
+   srp_Cyrl-ukr: Tatoeba-train (152997) 
+   srp_Latn-ukr: Tatoeba-train (381969) 
 validation-data:
-   - bos_Latn-ukr: Tatoeba-dev, 95
-   - hrv-ukr: Tatoeba-dev, 628
-   - srp_Cyrl-ukr: Tatoeba-dev, 74
-   - srp_Latn-ukr: Tatoeba-dev, 202
-   - total size of shuffled dev data: 997
-   - devset = top 997  lines of Tatoeba-dev.src.shuffled!
+   bos_Latn-ukr: Tatoeba-dev, 95
+   hrv-ukr: Tatoeba-dev, 628
+   srp_Cyrl-ukr: Tatoeba-dev, 74
+   srp_Latn-ukr: Tatoeba-dev, 202
+   total-size-shuffled: 997
+   devset-selected: top 997  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.hrv-ukr: 389/2217
-   - Tatoeba-test.hbs-ukr: 941/4959
-   - Tatoeba-test.srp_Cyrl-ukr: 204/1051
-   - Tatoeba-test.srp_Latn-ukr: 348/1658
+   Tatoeba-test.hrv-ukr: 389/2217
+   Tatoeba-test.hbs-ukr: 941/4959
+   Tatoeba-test.srp_Cyrl-ukr: 204/1051
+   Tatoeba-test.srp_Latn-ukr: 348/1658
 BLEU-scores:
-   - Tatoeba-test.hrv-ukr: 41.4
-   - Tatoeba-test.hbs-ukr: 46.4
-   - Tatoeba-test.srp_Cyrl-ukr: 48.8
-   - Tatoeba-test.srp_Latn-ukr: 50.8
+   Tatoeba-test.hrv-ukr: 41.4
+   Tatoeba-test.hbs-ukr: 46.4
+   Tatoeba-test.srp_Cyrl-ukr: 48.8
+   Tatoeba-test.srp_Latn-ukr: 50.8
 chr-F-scores:
-   - Tatoeba-test.hrv-ukr: 0.624
-   - Tatoeba-test.hbs-ukr: 0.653
-   - Tatoeba-test.srp_Cyrl-ukr: 0.652
-   - Tatoeba-test.srp_Latn-ukr: 0.691
+   Tatoeba-test.hrv-ukr: 0.624
+   Tatoeba-test.hbs-ukr: 0.653
+   Tatoeba-test.srp_Cyrl-ukr: 0.652
+   Tatoeba-test.srp_Latn-ukr: 0.691

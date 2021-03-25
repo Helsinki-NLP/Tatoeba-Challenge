@@ -1,0 +1,67 @@
+release: eng-cel/opus2m+bt-2021-03-19.zip
+release-date: 2021-03-19
+dataset-name: opus2m+bt
+modeltype: transformer-align
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+use-target-labels:
+   '>>bre<<'
+   '>>cor<<'
+   '>>cym<<'
+   '>>gla<<'
+   '>>gle<<'
+   '>>glv<<'
+source-languages:
+   - eng
+target-languages:
+   - bre
+   - cor
+   - cym
+   - gla
+   - gle
+   - glv
+training-data:
+   eng-bre: Tatoeba-train (378041) wiki.aa (378610) wikiquote.aa (1273) wikisource.aa (307720) 
+   eng-cor: Tatoeba-train (3800) wiki.aa (10161) wikiquote.aa (1) 
+   eng-cym: Tatoeba-train (1284302) wiki.aa (523875) wikibooks.aa (127) wikiquote.aa (1709) wikisource.aa (18401) 
+   eng-gla: Tatoeba-train (46024) wiki.aa.gla-eng (73323) 
+   eng-gle: Tatoeba-train (1660054) wiki.aa.gle-eng (247940) wikiquote.aa.gle-eng (8) 
+   eng-glv: Tatoeba-train (88723) wiki.aa.glv-eng (27652) 
+validation-data:
+   bre-eng: Tatoeba-dev, 1000
+   cor-eng: Tatoeba-dev, 1000
+   cym-eng: Tatoeba-dev, 1000
+   eng-gla: Tatoeba-dev, 1000
+   eng-gle: Tatoeba-dev, 1000
+   eng-glv: Tatoeba-dev, 1000
+   total-size-shuffled: 5821
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.eng-bre: 383/2268
+   Tatoeba-test.eng-cor: 3198/17784
+   Tatoeba-test.eng-cym: 818/6020
+   Tatoeba-test.eng-gla: 917/7071
+   Tatoeba-test.eng-gle: 1924/12199
+   Tatoeba-test.eng-glv: 5/25
+   Tatoeba-test.eng-multi: 383/2269
+BLEU-scores:
+   Tatoeba-test.eng-bre: 13.7
+   Tatoeba-test.eng-cor: 3.3
+   Tatoeba-test.eng-cym: 35.7
+   Tatoeba-test.eng-gla: 15.3
+   Tatoeba-test.eng-gle: 40.4
+   Tatoeba-test.eng-glv: 13.0
+   Tatoeba-test.eng-multi: 14.3
+chr-F-scores:
+   Tatoeba-test.eng-bre: 0.381
+   Tatoeba-test.eng-cor: 0.163
+   Tatoeba-test.eng-cym: 0.591
+   Tatoeba-test.eng-gla: 0.396
+   Tatoeba-test.eng-gle: 0.609
+   Tatoeba-test.eng-glv: 0.502
+   Tatoeba-test.eng-multi: 0.381

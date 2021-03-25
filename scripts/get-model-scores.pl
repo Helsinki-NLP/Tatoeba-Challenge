@@ -1,4 +1,6 @@
 #!/usr/bin/env perl
+#
+# TODO: properly parse YAML
 
 
 use Getopt::Std;
@@ -19,7 +21,8 @@ my $langpair = undef;
 my $key = undef;
 
 while (<>){
-    $type = undef unless (/^\s+\-\s+/);
+    # $type = undef unless (/^\s+\-\s+/);
+    $type = undef unless (/^\s+/);
     $type = 'bleu' if (/BLEU-scores/);
     $type = 'chrf' if (/chr-F-scores/);
 
@@ -35,7 +38,7 @@ while (<>){
 	($langpair) = split(/\//,$model);
     }
     if ($key eq 'test-data'){
-	if (/^\s+\-\s+(\S+)\.(\S+)[\.\-](\S+):\s+(.*)$/){
+	if (/^\s+\-?\s*(\S+)\.(\S+)[\.\-](\S+):\s+(.*)$/){
 	    my ($testset,$src,$trg,$size) = ($1,$2,$3,$4);
 	    my ($sents, $words) = split(/\//,$size);
 	    $sizes{"$model\t$src-$trg"}{$testset}{sents} = $sents;
@@ -43,7 +46,7 @@ while (<>){
 	}
     }
     if ($type){
-	if (/^\s+\-\s+(\S+)\.(\S+)[\.\-](\S+):\s+(.*)$/){
+	if (/^\s+\-?\s*(\S+)\.(\S+)[\.\-](\S+):\s+(.*)$/){
 	    my ($testset,$src,$trg,$score) = ($1,$2,$3,$4);
 	    if ($opt_t){
 		next unless ($testset eq 'Tatoeba-test');

@@ -4,11 +4,11 @@ dataset-name: opus2m
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - acm
    - afb
@@ -29,38 +29,38 @@ source-languages:
 target-languages:
    - eng
 test-data:
-   - Tatoeba-test.amh-eng: 190/802
-   - Tatoeba-test.ara-eng: 10000/62449
-   - Tatoeba-test.hau-eng: 56/378
-   - Tatoeba-test.heb-eng: 10000/62332
-   - Tatoeba-test.kab-eng: 10000/49297
-   - Tatoeba-test.mlt-eng: 203/935
-   - Tatoeba-test.multi-eng: 10000/58147
-   - Tatoeba-test.rif-eng: 53/198
-   - Tatoeba-test.shy-eng: 16/78
-   - Tatoeba-test.som-eng: 1/2
-   - Tatoeba-test.tir-eng: 69/426
+   Tatoeba-test.amh-eng: 190/802
+   Tatoeba-test.ara-eng: 10000/62449
+   Tatoeba-test.hau-eng: 56/378
+   Tatoeba-test.heb-eng: 10000/62332
+   Tatoeba-test.kab-eng: 10000/49297
+   Tatoeba-test.mlt-eng: 203/935
+   Tatoeba-test.multi-eng: 10000/58147
+   Tatoeba-test.rif-eng: 53/198
+   Tatoeba-test.shy-eng: 16/78
+   Tatoeba-test.som-eng: 1/2
+   Tatoeba-test.tir-eng: 69/426
 BLEU-scores:
-   - Tatoeba-test.amh-eng: 35.9
-   - Tatoeba-test.ara-eng: 36.6
-   - Tatoeba-test.hau-eng: 11.9
-   - Tatoeba-test.heb-eng: 42.7
-   - Tatoeba-test.kab-eng: 4.3
-   - Tatoeba-test.mlt-eng: 44.3
-   - Tatoeba-test.multi-eng: 27.1
-   - Tatoeba-test.rif-eng: 3.5
-   - Tatoeba-test.shy-eng: 0.6
-   - Tatoeba-test.som-eng: 23.6
-   - Tatoeba-test.tir-eng: 13.1
+   Tatoeba-test.amh-eng: 35.9
+   Tatoeba-test.ara-eng: 36.6
+   Tatoeba-test.hau-eng: 11.9
+   Tatoeba-test.heb-eng: 42.7
+   Tatoeba-test.kab-eng: 4.3
+   Tatoeba-test.mlt-eng: 44.3
+   Tatoeba-test.multi-eng: 27.1
+   Tatoeba-test.rif-eng: 3.5
+   Tatoeba-test.shy-eng: 0.6
+   Tatoeba-test.som-eng: 23.6
+   Tatoeba-test.tir-eng: 13.1
 chr-F-scores:
-   - Tatoeba-test.amh-eng: 0.550
-   - Tatoeba-test.ara-eng: 0.543
-   - Tatoeba-test.hau-eng: 0.327
-   - Tatoeba-test.heb-eng: 0.591
-   - Tatoeba-test.kab-eng: 0.213
-   - Tatoeba-test.mlt-eng: 0.618
-   - Tatoeba-test.multi-eng: 0.464
-   - Tatoeba-test.rif-eng: 0.141
-   - Tatoeba-test.shy-eng: 0.125
-   - Tatoeba-test.som-eng: 0.472
-   - Tatoeba-test.tir-eng: 0.328
+   Tatoeba-test.amh-eng: 0.550
+   Tatoeba-test.ara-eng: 0.543
+   Tatoeba-test.hau-eng: 0.327
+   Tatoeba-test.heb-eng: 0.591
+   Tatoeba-test.kab-eng: 0.213
+   Tatoeba-test.mlt-eng: 0.618
+   Tatoeba-test.multi-eng: 0.464
+   Tatoeba-test.rif-eng: 0.141
+   Tatoeba-test.shy-eng: 0.125
+   Tatoeba-test.som-eng: 0.472
+   Tatoeba-test.tir-eng: 0.328

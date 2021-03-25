@@ -4,11 +4,11 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - ell
    - eng
@@ -18,24 +18,24 @@ target-languages:
    - eng
    - grc
 use-target-labels:
-   - >>ell<<
-   - >>eng<<
-   - >>grc_Grek<<
+   '>>ell<<'
+   '>>eng<<'
+   '>>grc_Grek<<'
 test-data:
-   - Tatoeba-test.ell-eng: 10000/50149
-   - Tatoeba-test.eng-ell: 10000/48882
-   - Tatoeba-test.eng-grc: 592/3105
-   - Tatoeba-test.grc-eng: 592/4157
-   - Tatoeba-test.multi-multi: 10000/50307
+   Tatoeba-test.ell-eng: 10000/50149
+   Tatoeba-test.eng-ell: 10000/48882
+   Tatoeba-test.eng-grc: 592/3105
+   Tatoeba-test.grc-eng: 592/4157
+   Tatoeba-test.multi-multi: 10000/50307
 BLEU-scores:
-   - Tatoeba-test.ell-eng: 64.4
-   - Tatoeba-test.eng-ell: 52.0
-   - Tatoeba-test.eng-grc: 0.2
-   - Tatoeba-test.grc-eng: 2.9
-   - Tatoeba-test.multi-multi: 54.6
+   Tatoeba-test.ell-eng: 64.4
+   Tatoeba-test.eng-ell: 52.0
+   Tatoeba-test.eng-grc: 0.2
+   Tatoeba-test.grc-eng: 2.9
+   Tatoeba-test.multi-multi: 54.6
 chr-F-scores:
-   - Tatoeba-test.ell-eng: 0.766
-   - Tatoeba-test.eng-ell: 0.710
-   - Tatoeba-test.eng-grc: 0.116
-   - Tatoeba-test.grc-eng: 0.171
-   - Tatoeba-test.multi-multi: 0.696
+   Tatoeba-test.ell-eng: 0.766
+   Tatoeba-test.eng-ell: 0.710
+   Tatoeba-test.eng-grc: 0.116
+   Tatoeba-test.grc-eng: 0.171
+   Tatoeba-test.multi-multi: 0.696

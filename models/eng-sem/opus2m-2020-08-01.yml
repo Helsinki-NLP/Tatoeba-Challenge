@@ -4,11 +4,11 @@ dataset-name: opus2m
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - eng
 target-languages:
@@ -24,35 +24,35 @@ target-languages:
    - mlt
    - tir
 use-target-labels:
-   - >>acm<<
-   - >>afb<<
-   - >>amh<<
-   - >>apc<<
-   - >>ara<<
-   - >>arq<<
-   - >>ary<<
-   - >>arz<<
-   - >>heb<<
-   - >>mlt<<
-   - >>tir<<
+   '>>acm<<'
+   '>>afb<<'
+   '>>amh<<'
+   '>>apc<<'
+   '>>ara<<'
+   '>>arq<<'
+   '>>ary<<'
+   '>>arz<<'
+   '>>heb<<'
+   '>>mlt<<'
+   '>>tir<<'
 test-data:
-   - Tatoeba-test.eng-amh: 190/554
-   - Tatoeba-test.eng-ara: 10000/50193
-   - Tatoeba-test.eng-heb: 10000/49113
-   - Tatoeba-test.eng-mlt: 203/673
-   - Tatoeba-test.eng-multi: 10000/49328
-   - Tatoeba-test.eng-tir: 69/305
+   Tatoeba-test.eng-amh: 190/554
+   Tatoeba-test.eng-ara: 10000/50193
+   Tatoeba-test.eng-heb: 10000/49113
+   Tatoeba-test.eng-mlt: 203/673
+   Tatoeba-test.eng-multi: 10000/49328
+   Tatoeba-test.eng-tir: 69/305
 BLEU-scores:
-   - Tatoeba-test.eng-amh: 11.2
-   - Tatoeba-test.eng-ara: 12.7
-   - Tatoeba-test.eng-heb: 33.8
-   - Tatoeba-test.eng-mlt: 18.7
-   - Tatoeba-test.eng-multi: 23.5
-   - Tatoeba-test.eng-tir: 2.7
+   Tatoeba-test.eng-amh: 11.2
+   Tatoeba-test.eng-ara: 12.7
+   Tatoeba-test.eng-heb: 33.8
+   Tatoeba-test.eng-mlt: 18.7
+   Tatoeba-test.eng-multi: 23.5
+   Tatoeba-test.eng-tir: 2.7
 chr-F-scores:
-   - Tatoeba-test.eng-amh: 0.480
-   - Tatoeba-test.eng-ara: 0.417
-   - Tatoeba-test.eng-heb: 0.564
-   - Tatoeba-test.eng-mlt: 0.554
-   - Tatoeba-test.eng-multi: 0.486
-   - Tatoeba-test.eng-tir: 0.248
+   Tatoeba-test.eng-amh: 0.480
+   Tatoeba-test.eng-ara: 0.417
+   Tatoeba-test.eng-heb: 0.564
+   Tatoeba-test.eng-mlt: 0.554
+   Tatoeba-test.eng-multi: 0.486
+   Tatoeba-test.eng-tir: 0.248

@@ -4,30 +4,30 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - rus
 target-languages:
    - ces
 training-data:
-   - ces-rus: Tatoeba-train (19549243) 
+   ces-rus: Tatoeba-train (19549243) 
 validation-data:
-   - ces-rus: Tatoeba-dev, 5432
-   - total size of shuffled dev data: 5432
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   ces-rus: Tatoeba-dev, 5432
+   total-size-shuffled: 5432
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - newstest2012.rus-ces: 3003/65456
-   - newstest2013.rus-ces: 3000/57250
-   - Tatoeba-test.rus-ces: 2500/14266
+   newstest2012.rus-ces: 3003/65456
+   newstest2013.rus-ces: 3000/57250
+   Tatoeba-test.rus-ces: 2500/14266
 BLEU-scores:
-   - newstest2012.rus-ces: 15.4
-   - newstest2013.rus-ces: 20.9
-   - Tatoeba-test.rus-ces: 51.8
+   newstest2012.rus-ces: 15.4
+   newstest2013.rus-ces: 20.9
+   Tatoeba-test.rus-ces: 51.8
 chr-F-scores:
-   - newstest2012.rus-ces: 0.427
-   - newstest2013.rus-ces: 0.476
-   - Tatoeba-test.rus-ces: 0.683
+   newstest2012.rus-ces: 0.427
+   newstest2013.rus-ces: 0.476
+   Tatoeba-test.rus-ces: 0.683

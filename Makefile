@@ -14,9 +14,16 @@
 ## TODO: integrate more data filters (OPUS-Filter?)
 ##
 ##
+## main recipes:
+##
 ## make VERSION=`date +%F` all . make a new release
 ## make update ................. update test data with latest Tatoeba data
+## make upload-devtest ......... upload the devtest tarball (do that after update!)
+## make upload ................. upload release data to allas (requires allas-conf)
 ## make cleanup ................ some cleanup in tatoeba data release dirs
+##
+##
+## other important recipes:
 ##
 ##--------------------------------------------------------------------
 ## working with Tatoeba-MT models
@@ -47,6 +54,11 @@ VERSION         = v20190709
 TATOEBA_VERSION = ${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest 2>/dev/null}}
 
 
+## maximum size of dev and test sets
+## (currently MAX_TESTSIZE is not used in his makefile)
+
+MAX_TESTSIZE ?= 10000
+MAX_DEVSIZE  ?= 10000
 
 ## corpora in OPUS used for training
 ## exclude Tatoeba (= test/dev data), WMT-News (reserve for comparison with other models)
@@ -530,6 +542,7 @@ ${DEVTESTDIR}/%/test-${TATOEBA_VERSION}.txt: ${DEVTESTDIR}/%/tatoeba-shuffled.ts
 	  --testset-dir ${dir $@} \
 	  --devset-dir ${dir $@} \
 	  --testfile $@ \
+	  --max-dev-size ${MAX_DEVSIZE} \
 	  --devfile ${dir $@}dev-${TATOEBA_VERSION}.txt
 
 
@@ -1240,7 +1253,6 @@ print-additional-opuslangs:
 #	@echo "${EXTRA_TRAIN_DATA}"
 
 
-
 print-languages:
 	@echo "${TATOEBA_LANGS3}"
 
@@ -1261,6 +1273,28 @@ move-diff-langpairs:
 	for d in ${filter-out ${TATOEBA_PAIRS3},${shell ls ${RELEASEDIR}}}; do \
 	  mv ${RELEASEDIR}/$$d data-wrong/; \
 	done
+
+
+
+## fix yaml files
+
+TATOEBA_YAML_OLD = ${patsubst %.yml,%.old-yml,${TATOEBA_YAML}}
+
+tatoeba-fix-yml: ${TATOEBA_YAML_OLD}
+
+${TATOEBA_YAML_OLD}: %.old-yml: %.yml
+	mv $< $@
+	scripts/fix-yaml-files.pl < $@ > $<
+
+test-yaml: 
+	@for f in ${TATOEBA_YAML}; do \
+	  for a in source-languages target-languages; do\
+	    if [ ! `grep "$$a:" $$f | wc -l` -gt 0 ]; then \
+	      echo "no $$a in $$f"; \
+	    fi \
+	  done \
+	done
+
 
 
 

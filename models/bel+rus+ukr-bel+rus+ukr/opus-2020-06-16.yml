@@ -4,11 +4,11 @@ dataset-name: opus
 modeltype: transformer-align
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - bel
    - rus
@@ -18,33 +18,33 @@ target-languages:
    - rus
    - ukr
 use-target-labels:
-   - >>bel<<
-   - >>bel_Latn<<
-   - >>rus<<
-   - >>ukr<<
+   '>>bel<<'
+   '>>bel_Latn<<'
+   '>>rus<<'
+   '>>ukr<<'
 test-data:
-   - Tatoeba-test.bel+rus+ukr-bel+rus+ukr: 0/0
-   - Tatoeba-test.bel-rus: 2500/15162
-   - Tatoeba-test.bel-ukr: 2355/12024
-   - Tatoeba-test.rus-bel: 2500/15122
-   - Tatoeba-test.rus-ukr: 10000/47628
-   - Tatoeba-test.ukr-bel: 2355/12053
-   - Tatoeba-test.ukr-rus: 10000/47786
+   Tatoeba-test.bel+rus+ukr-bel+rus+ukr: 0/0
+   Tatoeba-test.bel-rus: 2500/15162
+   Tatoeba-test.bel-ukr: 2355/12024
+   Tatoeba-test.rus-bel: 2500/15122
+   Tatoeba-test.rus-ukr: 10000/47628
+   Tatoeba-test.ukr-bel: 2355/12053
+   Tatoeba-test.ukr-rus: 10000/47786
 BLEU-scores:
-   - Tatoeba-test.bel+rus+ukr-bel+rus+ukr: 59.4
-   - Tatoeba-test.bel-rus: 54.4
-   - Tatoeba-test.bel-ukr: 53.7
-   - Tatoeba-test.bel-ukr: 59.5
-   - Tatoeba-test.rus-bel: 48.9
-   - Tatoeba-test.rus-ukr: 60.7
-   - Tatoeba-test.ukr-bel: 49.9
-   - Tatoeba-test.ukr-rus: 65.7
+   Tatoeba-test.bel+rus+ukr-bel+rus+ukr: 59.4
+   Tatoeba-test.bel-rus: 54.4
+   Tatoeba-test.bel-ukr: 53.7
+   Tatoeba-test.bel-ukr: 59.5
+   Tatoeba-test.rus-bel: 48.9
+   Tatoeba-test.rus-ukr: 60.7
+   Tatoeba-test.ukr-bel: 49.9
+   Tatoeba-test.ukr-rus: 65.7
 chr-F-scores:
-   - Tatoeba-test.bel+rus+ukr-bel+rus+ukr: 0.759
-   - Tatoeba-test.bel-rus: 0.738
-   - Tatoeba-test.bel-ukr: 0.730
-   - Tatoeba-test.bel-ukr: 0.760
-   - Tatoeba-test.rus-bel: 0.696
-   - Tatoeba-test.rus-ukr: 0.768
-   - Tatoeba-test.ukr-bel: 0.704
-   - Tatoeba-test.ukr-rus: 0.800
+   Tatoeba-test.bel+rus+ukr-bel+rus+ukr: 0.759
+   Tatoeba-test.bel-rus: 0.738
+   Tatoeba-test.bel-ukr: 0.730
+   Tatoeba-test.bel-ukr: 0.760
+   Tatoeba-test.rus-bel: 0.696
+   Tatoeba-test.rus-ukr: 0.768
+   Tatoeba-test.ukr-bel: 0.704
+   Tatoeba-test.ukr-rus: 0.800

@@ -25,6 +25,33 @@
 
 
 
+# opus-2021-02-19.zip
+
+* dataset: opus
+* model: transformer
+* source language(s): ara arq arz heb jpa tmr
+* target language(s): fin hun
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>hun<< >>fin<<
+* download: [opus-2021-02-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-fiu/opus-2021-02-19.zip)
+* test set translations: [opus-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-fiu/opus-2021-02-19.test.txt)
+* test set scores: [opus-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-fiu/opus-2021-02-19.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.ara-fin 	| 64.3 	| 0.760 	| 7 	| 34 	| 1.000 |
+| Tatoeba-test.ara-hun 	| 31.5 	| 0.513 	| 93 	| 482 	| 1.000 |
+| Tatoeba-test.arq-hun 	| 8.1 	| 0.148 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test.heb-fin 	| 34.0 	| 0.590 	| 212 	| 1302 	| 0.911 |
+| Tatoeba-test.heb-hun 	| 26.3 	| 0.519 	| 401 	| 2177 	| 0.986 |
+| Tatoeba-test.jpa-hun 	| 6.4 	| 0.113 	| 2 	| 6 	| 1.000 |
+| Tatoeba-test.multi-multi 	| 30.0 	| 0.545 	| 718 	| 4013 	| 0.966 |
+| Tatoeba-test.tmr-hun 	| 6.7 	| 0.059 	| 5 	| 16 	| 1.000 |
+
 # opus-tuned4ara2fin-2021-03-03.zip
 
 * dataset: opus-tuned4ara2fin
@@ -53,31 +80,4 @@
 
 
 
-
-# opus-2021-02-19.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): ara arq arz heb jpa tmr
-* target language(s): fin hun
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>hun<< >>fin<<
-* download: [opus-2021-02-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-fiu/opus-2021-02-19.zip)
-* test set translations: [opus-2021-02-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-fiu/opus-2021-02-19.test.txt)
-* test set scores: [opus-2021-02-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-fiu/opus-2021-02-19.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| Tatoeba-test.ara-fin 	| 64.3 	| 0.760 	| 7 	| 34 	| 1.000 |
-| Tatoeba-test.ara-hun 	| 31.5 	| 0.513 	| 93 	| 482 	| 1.000 |
-| Tatoeba-test.arq-hun 	| 8.1 	| 0.148 	| 1 	| 6 	| 1.000 |
-| Tatoeba-test.heb-fin 	| 34.0 	| 0.590 	| 212 	| 1302 	| 0.911 |
-| Tatoeba-test.heb-hun 	| 26.3 	| 0.519 	| 401 	| 2177 	| 0.986 |
-| Tatoeba-test.jpa-hun 	| 6.4 	| 0.113 	| 2 	| 6 	| 1.000 |
-| Tatoeba-test.multi-multi 	| 30.0 	| 0.545 	| 718 	| 4013 	| 0.966 |
-| Tatoeba-test.tmr-hun 	| 6.7 	| 0.059 	| 5 	| 16 	| 1.000 |
 

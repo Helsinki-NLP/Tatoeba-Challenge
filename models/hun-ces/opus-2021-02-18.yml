@@ -4,30 +4,30 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - hun
 target-languages:
    - ces
 training-data:
-   - ces-hun: Tatoeba-train (39877575) 
+   ces-hun: Tatoeba-train (39877575) 
 validation-data:
-   - ces-hun: Tatoeba-dev, 1000
-   - total size of shuffled dev data: 1000
-   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+   ces-hun: Tatoeba-dev, 1000
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - newssyscomb2009.hun-ces: 502/10032
-   - newstest2009.hun-ces: 2525/55533
-   - Tatoeba-test.hun-ces: 1911/10641
+   newssyscomb2009.hun-ces: 502/10032
+   newstest2009.hun-ces: 2525/55533
+   Tatoeba-test.hun-ces: 1911/10641
 BLEU-scores:
-   - newssyscomb2009.hun-ces: 18.0
-   - newstest2009.hun-ces: 17.7
-   - Tatoeba-test.hun-ces: 48.4
+   newssyscomb2009.hun-ces: 18.0
+   newstest2009.hun-ces: 17.7
+   Tatoeba-test.hun-ces: 48.4
 chr-F-scores:
-   - newssyscomb2009.hun-ces: 0.468
-   - newstest2009.hun-ces: 0.460
-   - Tatoeba-test.hun-ces: 0.665
+   newssyscomb2009.hun-ces: 0.468
+   newstest2009.hun-ces: 0.460
+   Tatoeba-test.hun-ces: 0.665

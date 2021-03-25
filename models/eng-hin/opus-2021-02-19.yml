@@ -4,33 +4,33 @@ dataset-name: opus
 modeltype: transformer-align
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - eng
 target-languages:
    - hin
 training-data:
-   - eng-hin: Tatoeba-train (1483083) 
+   eng-hin: Tatoeba-train (1483083) 
 validation-data:
-   - eng-hin: Tatoeba-dev, 5821
-   - total size of shuffled dev data: 5821
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   eng-hin: Tatoeba-dev, 5821
+   total-size-shuffled: 5821
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - newsdev2014.eng-hin: 520/9538
-   - newstest2014-hien.eng-hin: 2507/60878
-   - Tatoeba-test.eng-hin: 5000/32904
-   - tico19-test.eng-hin: 2100/62738
+   newsdev2014.eng-hin: 520/9538
+   newstest2014-hien.eng-hin: 2507/60878
+   Tatoeba-test.eng-hin: 5000/32904
+   tico19-test.eng-hin: 2100/62738
 BLEU-scores:
-   - newsdev2014.eng-hin: 7.0
-   - newstest2014-hien.eng-hin: 9.9
-   - Tatoeba-test.eng-hin: 16.1
-   - tico19-test.eng-hin: 13.6
+   newsdev2014.eng-hin: 7.0
+   newstest2014-hien.eng-hin: 9.9
+   Tatoeba-test.eng-hin: 16.1
+   tico19-test.eng-hin: 13.6
 chr-F-scores:
-   - newsdev2014.eng-hin: 0.297
-   - newstest2014-hien.eng-hin: 0.323
-   - Tatoeba-test.eng-hin: 0.447
-   - tico19-test.eng-hin: 0.338
+   newsdev2014.eng-hin: 0.297
+   newstest2014-hien.eng-hin: 0.323
+   Tatoeba-test.eng-hin: 0.447
+   tico19-test.eng-hin: 0.338

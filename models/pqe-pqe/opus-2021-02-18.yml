@@ -4,63 +4,63 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 use-target-labels:
 source-languages:
 target-languages:
 training-data:
-   - eng-fij: Tatoeba-train (381656) 
-   - eng-gil: Tatoeba-train (208646) 
-   - eng-mah: Tatoeba-train (158609) 
-   - eng-mri: Tatoeba-train (120668) 
-   - eng-niu: Tatoeba-train (224855) 
-   - eng-smo: Tatoeba-train (390149) 
-   - eng-tah: Tatoeba-train (578133) 
-   - eng-ton: Tatoeba-train (345565) 
-   - eng-tvl: Tatoeba-train (179991) 
-   - fij-eng: Tatoeba-train (381656) 
-   - gil-eng: Tatoeba-train (208646) 
-   - mah-eng: Tatoeba-train (158609) 
-   - mri-eng: Tatoeba-train (120668) 
-   - niu-eng: Tatoeba-train (224855) 
-   - smo-eng: Tatoeba-train (390149) 
-   - tah-eng: Tatoeba-train (578133) 
-   - ton-eng: Tatoeba-train (345565) 
-   - tvl-eng: Tatoeba-train (179991) 
+   eng-fij: Tatoeba-train (381656) 
+   eng-gil: Tatoeba-train (208646) 
+   eng-mah: Tatoeba-train (158609) 
+   eng-mri: Tatoeba-train (120668) 
+   eng-niu: Tatoeba-train (224855) 
+   eng-smo: Tatoeba-train (390149) 
+   eng-tah: Tatoeba-train (578133) 
+   eng-ton: Tatoeba-train (345565) 
+   eng-tvl: Tatoeba-train (179991) 
+   fij-eng: Tatoeba-train (381656) 
+   gil-eng: Tatoeba-train (208646) 
+   mah-eng: Tatoeba-train (158609) 
+   mri-eng: Tatoeba-train (120668) 
+   niu-eng: Tatoeba-train (224855) 
+   smo-eng: Tatoeba-train (390149) 
+   tah-eng: Tatoeba-train (578133) 
+   ton-eng: Tatoeba-train (345565) 
+   tvl-eng: Tatoeba-train (179991) 
 validation-data:
-   - eng-fij: Tatoeba-dev, 1000
-   - eng-gil: Tatoeba-dev, 1000
-   - eng-haw: Tatoeba-dev, 25
-   - eng-lkt: Tatoeba-dev, 2
-   - eng-mah: Tatoeba-dev, 1000
-   - eng-mri: Tatoeba-dev, 1000
-   - eng-nau: Tatoeba-dev, 4
-   - eng-niu: Tatoeba-dev, 1000
-   - eng-smo: Tatoeba-dev, 1000
-   - eng-tah: Tatoeba-dev, 1000
-   - eng-ton: Tatoeba-dev, 1000
-   - eng-tvl: Tatoeba-dev, 1000
-   - eng-fij: Tatoeba-dev, 1000
-   - eng-gil: Tatoeba-dev, 1000
-   - eng-haw: Tatoeba-dev, 25
-   - eng-lkt: Tatoeba-dev, 2
-   - eng-mah: Tatoeba-dev, 1000
-   - eng-mri: Tatoeba-dev, 1000
-   - eng-nau: Tatoeba-dev, 4
-   - eng-niu: Tatoeba-dev, 1000
-   - eng-smo: Tatoeba-dev, 1000
-   - eng-tah: Tatoeba-dev, 1000
-   - eng-ton: Tatoeba-dev, 1000
-   - eng-tvl: Tatoeba-dev, 1000
-   - total size of shuffled dev data: 17797
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   eng-fij: Tatoeba-dev, 1000
+   eng-gil: Tatoeba-dev, 1000
+   eng-haw: Tatoeba-dev, 25
+   eng-lkt: Tatoeba-dev, 2
+   eng-mah: Tatoeba-dev, 1000
+   eng-mri: Tatoeba-dev, 1000
+   eng-nau: Tatoeba-dev, 4
+   eng-niu: Tatoeba-dev, 1000
+   eng-smo: Tatoeba-dev, 1000
+   eng-tah: Tatoeba-dev, 1000
+   eng-ton: Tatoeba-dev, 1000
+   eng-tvl: Tatoeba-dev, 1000
+   eng-fij: Tatoeba-dev, 1000
+   eng-gil: Tatoeba-dev, 1000
+   eng-haw: Tatoeba-dev, 25
+   eng-lkt: Tatoeba-dev, 2
+   eng-mah: Tatoeba-dev, 1000
+   eng-mri: Tatoeba-dev, 1000
+   eng-nau: Tatoeba-dev, 4
+   eng-niu: Tatoeba-dev, 1000
+   eng-smo: Tatoeba-dev, 1000
+   eng-tah: Tatoeba-dev, 1000
+   eng-ton: Tatoeba-dev, 1000
+   eng-tvl: Tatoeba-dev, 1000
+   total-size-shuffled: 17797
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.multi-multi: 1544/10458
+   Tatoeba-test.multi-multi: 1544/10458
 BLEU-scores:
-   - Tatoeba-test.multi-multi: 12.2
+   Tatoeba-test.multi-multi: 12.2
 chr-F-scores:
-   - Tatoeba-test.multi-multi: 0.296
+   Tatoeba-test.multi-multi: 0.296

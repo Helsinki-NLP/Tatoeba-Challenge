@@ -4,33 +4,33 @@ dataset-name: opus1m
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 use-target-labels:
-   - >>ast<<
-   - >>cat<<
-   - >>fra<<
-   - >>gcf_Latn<<
-   - >>glg<<
-   - >>ind<<
-   - >>ita<<
-   - >>jak_Latn<<
-   - >>lad<<
-   - >>lad_Latn<<
-   - >>min<<
-   - >>mol<<
-   - >>msa_Latn<<
-   - >>oci<<
-   - >>pob<<
-   - >>por<<
-   - >>ron<<
-   - >>spa<<
-   - >>zlm<<
-   - >>zlm_Latn<<
-   - >>zsm_Latn<<
+   '>>ast<<'
+   '>>cat<<'
+   '>>fra<<'
+   '>>gcf_Latn<<'
+   '>>glg<<'
+   '>>ind<<'
+   '>>ita<<'
+   '>>jak_Latn<<'
+   '>>lad<<'
+   '>>lad_Latn<<'
+   '>>min<<'
+   '>>mol<<'
+   '>>msa_Latn<<'
+   '>>oci<<'
+   '>>pob<<'
+   '>>por<<'
+   '>>ron<<'
+   '>>spa<<'
+   '>>zlm<<'
+   '>>zlm_Latn<<'
+   '>>zsm_Latn<<'
 source-languages:
    - bel
    - orv
@@ -58,172 +58,172 @@ target-languages:
    - zlm
    - zsm
 training-data:
-   - bel-fra: Tatoeba-train (68085) 
-   - bel-ind: Tatoeba-train (28578) 
-   - bel-ita: Tatoeba-train (66625) 
-   - bel-min: Tatoeba-train (1) 
-   - bel-msa_Latn: Tatoeba-train (91407) 
-   - bel-por: Tatoeba-train (102224) 
-   - bel-spa: Tatoeba-train (203839) 
-   - bel_Latn-fra: Tatoeba-train (570) 
-   - bel_Latn-ind: Tatoeba-train (97) 
-   - bel_Latn-ita: Tatoeba-train (582) 
-   - bel_Latn-msa_Latn: Tatoeba-train (575) 
-   - bel_Latn-por: Tatoeba-train (1014) 
-   - bel_Latn-spa: Tatoeba-train (708) 
-   - rus-ast: Tatoeba-train (11268) 
-   - rus-cat: Tatoeba-train (539814) 
-   - rus-fra: Tatoeba-train (48432451) 
-   - rus-glg: Tatoeba-train (186041) 
-   - rus-ind: Tatoeba-train (5420593) 
-   - rus-ita: Tatoeba-train (17343976) 
-   - rus-jak_Latn: Tatoeba-train (6456) 
-   - rus-mol: Tatoeba-train (3) 
-   - rus-msa_Latn: Tatoeba-train (1233479) 
-   - rus-oci: Tatoeba-train (20559) 
-   - rus-pob: Tatoeba-train (20542541) 
-   - rus-por: Tatoeba-train (15203597) 
-   - rus-ron: Tatoeba-train (19080347) 
-   - rus-spa: Tatoeba-train (50217824) 
-   - rus-zlm: Tatoeba-train (245) 
-   - rus-zlm_Latn: Tatoeba-train (74640) 
-   - ukr-cat: Tatoeba-train (272844) 
-   - ukr-fra: Tatoeba-train (1700175) 
-   - ukr-ind: Tatoeba-train (815214) 
-   - ukr-ita: Tatoeba-train (1682300) 
-   - ukr-jak_Latn: Tatoeba-train (6417) 
-   - ukr-msa_Latn: Tatoeba-train (162908) 
-   - ukr-pob: Tatoeba-train (454584) 
-   - ukr-por: Tatoeba-train (1893558) 
-   - ukr-spa: Tatoeba-train (1890039) 
-   - ukr-zlm: Tatoeba-train (228) 
-   - ukr-zlm_Latn: Tatoeba-train (76372) 
+   bel-fra: Tatoeba-train (68085) 
+   bel-ind: Tatoeba-train (28578) 
+   bel-ita: Tatoeba-train (66625) 
+   bel-min: Tatoeba-train (1) 
+   bel-msa_Latn: Tatoeba-train (91407) 
+   bel-por: Tatoeba-train (102224) 
+   bel-spa: Tatoeba-train (203839) 
+   bel_Latn-fra: Tatoeba-train (570) 
+   bel_Latn-ind: Tatoeba-train (97) 
+   bel_Latn-ita: Tatoeba-train (582) 
+   bel_Latn-msa_Latn: Tatoeba-train (575) 
+   bel_Latn-por: Tatoeba-train (1014) 
+   bel_Latn-spa: Tatoeba-train (708) 
+   rus-ast: Tatoeba-train (11268) 
+   rus-cat: Tatoeba-train (539814) 
+   rus-fra: Tatoeba-train (48432451) 
+   rus-glg: Tatoeba-train (186041) 
+   rus-ind: Tatoeba-train (5420593) 
+   rus-ita: Tatoeba-train (17343976) 
+   rus-jak_Latn: Tatoeba-train (6456) 
+   rus-mol: Tatoeba-train (3) 
+   rus-msa_Latn: Tatoeba-train (1233479) 
+   rus-oci: Tatoeba-train (20559) 
+   rus-pob: Tatoeba-train (20542541) 
+   rus-por: Tatoeba-train (15203597) 
+   rus-ron: Tatoeba-train (19080347) 
+   rus-spa: Tatoeba-train (50217824) 
+   rus-zlm: Tatoeba-train (245) 
+   rus-zlm_Latn: Tatoeba-train (74640) 
+   ukr-cat: Tatoeba-train (272844) 
+   ukr-fra: Tatoeba-train (1700175) 
+   ukr-ind: Tatoeba-train (815214) 
+   ukr-ita: Tatoeba-train (1682300) 
+   ukr-jak_Latn: Tatoeba-train (6417) 
+   ukr-msa_Latn: Tatoeba-train (162908) 
+   ukr-pob: Tatoeba-train (454584) 
+   ukr-por: Tatoeba-train (1893558) 
+   ukr-spa: Tatoeba-train (1890039) 
+   ukr-zlm: Tatoeba-train (228) 
+   ukr-zlm_Latn: Tatoeba-train (76372) 
 validation-data:
-   - bel-fra: Tatoeba-dev, 994
-   - bel-ita: Tatoeba-dev, 991
-   - bel-msa: Tatoeba-dev, 1000
-   - bel-por: Tatoeba-dev, 990
-   - bel-spa: Tatoeba-dev, 995
-   - ast-rus: Tatoeba-dev, 975
-   - cat-rus: Tatoeba-dev, 999
-   - fra-rus: Tatoeba-dev, 179567
-   - glg-rus: Tatoeba-dev, 996
-   - ita-rus: Tatoeba-dev, 66049
-   - msa-rus: Tatoeba-dev, 1000
-   - oci-rus: Tatoeba-dev, 975
-   - por-rus: Tatoeba-dev, 9489
-   - ron-rus: Tatoeba-dev, 999
-   - rus-spa: Tatoeba-dev, 86620
-   - cat-ukr: Tatoeba-dev, 996
-   - fra-ukr: Tatoeba-dev, 18306
-   - ita-ukr: Tatoeba-dev, 8658
-   - msa-ukr: Tatoeba-dev, 1000
-   - por-ukr: Tatoeba-dev, 1000
-   - spa-ukr: Tatoeba-dev, 12924
-   - total size of shuffled dev data: 394361
-   - devset = top 5000  lines of opus-dev.src.shuffled!
+   bel-fra: Tatoeba-dev, 994
+   bel-ita: Tatoeba-dev, 991
+   bel-msa: Tatoeba-dev, 1000
+   bel-por: Tatoeba-dev, 990
+   bel-spa: Tatoeba-dev, 995
+   ast-rus: Tatoeba-dev, 975
+   cat-rus: Tatoeba-dev, 999
+   fra-rus: Tatoeba-dev, 179567
+   glg-rus: Tatoeba-dev, 996
+   ita-rus: Tatoeba-dev, 66049
+   msa-rus: Tatoeba-dev, 1000
+   oci-rus: Tatoeba-dev, 975
+   por-rus: Tatoeba-dev, 9489
+   ron-rus: Tatoeba-dev, 999
+   rus-spa: Tatoeba-dev, 86620
+   cat-ukr: Tatoeba-dev, 996
+   fra-ukr: Tatoeba-dev, 18306
+   ita-ukr: Tatoeba-dev, 8658
+   msa-ukr: Tatoeba-dev, 1000
+   por-ukr: Tatoeba-dev, 1000
+   spa-ukr: Tatoeba-dev, 12924
+   total-size-shuffled: 394361
+   devset-selected: top 5000  lines of opus-dev.src.shuffled!
 test-data:
-   - newstest2012.rus-fra: 3003/78011
-   - newstest2012.rus-spa: 3003/79006
-   - newstest2013.rus-fra: 3000/70037
-   - newstest2013.rus-spa: 3000/70528
-   - Tatoeba-test.bel-fra: 283/2005
-   - Tatoeba-test.bel-ita: 264/1681
-   - Tatoeba-test.bel-lad: 2/14
-   - Tatoeba-test.bel-msa: 3/43
-   - Tatoeba-test.bel-por: 3/21
-   - Tatoeba-test.bel-spa: 205/1412
-   - Tatoeba-test.multi-multi: 10000/66633
-   - Tatoeba-test.orv-fra: 37/290
-   - Tatoeba-test.orv-ita: 8/53
-   - Tatoeba-test.orv-spa: 33/171
-   - Tatoeba-test.rue-spa: 97/469
-   - Tatoeba-test.rus-ast: 1/5
-   - Tatoeba-test.rus-cat: 185/1342
-   - Tatoeba-test.rus-fra: 10000/70132
-   - Tatoeba-test.rus-gcf: 1/3
-   - Tatoeba-test.rus-glg: 37/228
-   - Tatoeba-test.rus-ita: 10000/71254
-   - Tatoeba-test.rus-lad: 18/100
-   - Tatoeba-test.rus-msa: 88/634
-   - Tatoeba-test.rus-oci: 84/571
-   - Tatoeba-test.rus-por: 10000/74713
-   - Tatoeba-test.rus-ron: 782/4768
-   - Tatoeba-test.rus-spa: 10000/71496
-   - Tatoeba-test.ukr-cat: 455/2670
-   - Tatoeba-test.ukr-fra: 10000/62877
-   - Tatoeba-test.ukr-ita: 5000/27846
-   - Tatoeba-test.ukr-lad: 20/108
-   - Tatoeba-test.ukr-msa: 9/79
-   - Tatoeba-test.ukr-por: 3372/21315
-   - Tatoeba-test.ukr-spa: 10000/58486
+   newstest2012.rus-fra: 3003/78011
+   newstest2012.rus-spa: 3003/79006
+   newstest2013.rus-fra: 3000/70037
+   newstest2013.rus-spa: 3000/70528
+   Tatoeba-test.bel-fra: 283/2005
+   Tatoeba-test.bel-ita: 264/1681
+   Tatoeba-test.bel-lad: 2/14
+   Tatoeba-test.bel-msa: 3/43
+   Tatoeba-test.bel-por: 3/21
+   Tatoeba-test.bel-spa: 205/1412
+   Tatoeba-test.multi-multi: 10000/66633
+   Tatoeba-test.orv-fra: 37/290
+   Tatoeba-test.orv-ita: 8/53
+   Tatoeba-test.orv-spa: 33/171
+   Tatoeba-test.rue-spa: 97/469
+   Tatoeba-test.rus-ast: 1/5
+   Tatoeba-test.rus-cat: 185/1342
+   Tatoeba-test.rus-fra: 10000/70132
+   Tatoeba-test.rus-gcf: 1/3
+   Tatoeba-test.rus-glg: 37/228
+   Tatoeba-test.rus-ita: 10000/71254
+   Tatoeba-test.rus-lad: 18/100
+   Tatoeba-test.rus-msa: 88/634
+   Tatoeba-test.rus-oci: 84/571
+   Tatoeba-test.rus-por: 10000/74713
+   Tatoeba-test.rus-ron: 782/4768
+   Tatoeba-test.rus-spa: 10000/71496
+   Tatoeba-test.ukr-cat: 455/2670
+   Tatoeba-test.ukr-fra: 10000/62877
+   Tatoeba-test.ukr-ita: 5000/27846
+   Tatoeba-test.ukr-lad: 20/108
+   Tatoeba-test.ukr-msa: 9/79
+   Tatoeba-test.ukr-por: 3372/21315
+   Tatoeba-test.ukr-spa: 10000/58486
 BLEU-scores:
-   - newstest2012.rus-fra: 21.5
-   - newstest2012.rus-spa: 25.6
-   - newstest2013.rus-fra: 24.9
-   - newstest2013.rus-spa: 27.5
-   - Tatoeba-test.bel-fra: 38.8
-   - Tatoeba-test.bel-ita: 39.0
-   - Tatoeba-test.bel-lad: 6.3
-   - Tatoeba-test.bel-msa: 1.1
-   - Tatoeba-test.bel-por: 19.3
-   - Tatoeba-test.bel-spa: 39.8
-   - Tatoeba-test.multi-multi: 44.9
-   - Tatoeba-test.orv-fra: 8.0
-   - Tatoeba-test.orv-ita: 4.4
-   - Tatoeba-test.orv-spa: 7.4
-   - Tatoeba-test.rue-spa: 28.2
-   - Tatoeba-test.rus-ast: 23.6
-   - Tatoeba-test.rus-cat: 36.0
-   - Tatoeba-test.rus-fra: 49.7
-   - Tatoeba-test.rus-gcf: 10.7
-   - Tatoeba-test.rus-glg: 31.8
-   - Tatoeba-test.rus-ita: 38.9
-   - Tatoeba-test.rus-lad: 14.9
-   - Tatoeba-test.rus-msa: 17.7
-   - Tatoeba-test.rus-oci: 2.5
-   - Tatoeba-test.rus-por: 37.7
-   - Tatoeba-test.rus-ron: 35.9
-   - Tatoeba-test.rus-spa: 48.3
-   - Tatoeba-test.ukr-cat: 39.6
-   - Tatoeba-test.ukr-fra: 47.3
-   - Tatoeba-test.ukr-ita: 46.4
-   - Tatoeba-test.ukr-lad: 12.6
-   - Tatoeba-test.ukr-msa: 14.8
-   - Tatoeba-test.ukr-por: 39.8
-   - Tatoeba-test.ukr-spa: 47.6
+   newstest2012.rus-fra: 21.5
+   newstest2012.rus-spa: 25.6
+   newstest2013.rus-fra: 24.9
+   newstest2013.rus-spa: 27.5
+   Tatoeba-test.bel-fra: 38.8
+   Tatoeba-test.bel-ita: 39.0
+   Tatoeba-test.bel-lad: 6.3
+   Tatoeba-test.bel-msa: 1.1
+   Tatoeba-test.bel-por: 19.3
+   Tatoeba-test.bel-spa: 39.8
+   Tatoeba-test.multi-multi: 44.9
+   Tatoeba-test.orv-fra: 8.0
+   Tatoeba-test.orv-ita: 4.4
+   Tatoeba-test.orv-spa: 7.4
+   Tatoeba-test.rue-spa: 28.2
+   Tatoeba-test.rus-ast: 23.6
+   Tatoeba-test.rus-cat: 36.0
+   Tatoeba-test.rus-fra: 49.7
+   Tatoeba-test.rus-gcf: 10.7
+   Tatoeba-test.rus-glg: 31.8
+   Tatoeba-test.rus-ita: 38.9
+   Tatoeba-test.rus-lad: 14.9
+   Tatoeba-test.rus-msa: 17.7
+   Tatoeba-test.rus-oci: 2.5
+   Tatoeba-test.rus-por: 37.7
+   Tatoeba-test.rus-ron: 35.9
+   Tatoeba-test.rus-spa: 48.3
+   Tatoeba-test.ukr-cat: 39.6
+   Tatoeba-test.ukr-fra: 47.3
+   Tatoeba-test.ukr-ita: 46.4
+   Tatoeba-test.ukr-lad: 12.6
+   Tatoeba-test.ukr-msa: 14.8
+   Tatoeba-test.ukr-por: 39.8
+   Tatoeba-test.ukr-spa: 47.6
 chr-F-scores:
-   - newstest2012.rus-fra: 0.509
-   - newstest2012.rus-spa: 0.525
-   - newstest2013.rus-fra: 0.528
-   - newstest2013.rus-spa: 0.535
-   - Tatoeba-test.bel-fra: 0.577
-   - Tatoeba-test.bel-ita: 0.580
-   - Tatoeba-test.bel-lad: 0.186
-   - Tatoeba-test.bel-msa: 0.156
-   - Tatoeba-test.bel-por: 0.444
-   - Tatoeba-test.bel-spa: 0.604
-   - Tatoeba-test.multi-multi: 0.642
-   - Tatoeba-test.orv-fra: 0.232
-   - Tatoeba-test.orv-ita: 0.180
-   - Tatoeba-test.orv-spa: 0.289
-   - Tatoeba-test.rue-spa: 0.441
-   - Tatoeba-test.rus-ast: 0.703
-   - Tatoeba-test.rus-cat: 0.587
-   - Tatoeba-test.rus-fra: 0.660
-   - Tatoeba-test.rus-gcf: 0.128
-   - Tatoeba-test.rus-glg: 0.560
-   - Tatoeba-test.rus-ita: 0.612
-   - Tatoeba-test.rus-lad: 0.399
-   - Tatoeba-test.rus-msa: 0.399
-   - Tatoeba-test.rus-oci: 0.226
-   - Tatoeba-test.rus-por: 0.600
-   - Tatoeba-test.rus-ron: 0.595
-   - Tatoeba-test.rus-spa: 0.671
-   - Tatoeba-test.ukr-cat: 0.598
-   - Tatoeba-test.ukr-fra: 0.644
-   - Tatoeba-test.ukr-ita: 0.671
-   - Tatoeba-test.ukr-lad: 0.320
-   - Tatoeba-test.ukr-msa: 0.366
-   - Tatoeba-test.ukr-por: 0.612
-   - Tatoeba-test.ukr-spa: 0.662
+   newstest2012.rus-fra: 0.509
+   newstest2012.rus-spa: 0.525
+   newstest2013.rus-fra: 0.528
+   newstest2013.rus-spa: 0.535
+   Tatoeba-test.bel-fra: 0.577
+   Tatoeba-test.bel-ita: 0.580
+   Tatoeba-test.bel-lad: 0.186
+   Tatoeba-test.bel-msa: 0.156
+   Tatoeba-test.bel-por: 0.444
+   Tatoeba-test.bel-spa: 0.604
+   Tatoeba-test.multi-multi: 0.642
+   Tatoeba-test.orv-fra: 0.232
+   Tatoeba-test.orv-ita: 0.180
+   Tatoeba-test.orv-spa: 0.289
+   Tatoeba-test.rue-spa: 0.441
+   Tatoeba-test.rus-ast: 0.703
+   Tatoeba-test.rus-cat: 0.587
+   Tatoeba-test.rus-fra: 0.660
+   Tatoeba-test.rus-gcf: 0.128
+   Tatoeba-test.rus-glg: 0.560
+   Tatoeba-test.rus-ita: 0.612
+   Tatoeba-test.rus-lad: 0.399
+   Tatoeba-test.rus-msa: 0.399
+   Tatoeba-test.rus-oci: 0.226
+   Tatoeba-test.rus-por: 0.600
+   Tatoeba-test.rus-ron: 0.595
+   Tatoeba-test.rus-spa: 0.671
+   Tatoeba-test.ukr-cat: 0.598
+   Tatoeba-test.ukr-fra: 0.644
+   Tatoeba-test.ukr-ita: 0.671
+   Tatoeba-test.ukr-lad: 0.320
+   Tatoeba-test.ukr-msa: 0.366
+   Tatoeba-test.ukr-por: 0.612
+   Tatoeba-test.ukr-spa: 0.662

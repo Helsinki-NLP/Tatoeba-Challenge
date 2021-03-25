@@ -4,32 +4,32 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - mol
    - ron
 target-languages:
    - eng
 training-data:
-   - mol-eng: Tatoeba-train (27) 
-   - ron-eng: Tatoeba-train (60055087) 
+   mol-eng: Tatoeba-train (27) 
+   ron-eng: Tatoeba-train (60055087) 
 validation-data:
-   - eng-ron: Tatoeba-dev, 9627
-   - total size of shuffled dev data: 9621
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   eng-ron: Tatoeba-dev, 9627
+   total-size-shuffled: 9621
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - newsdev2016-enro.ron-eng: 1999/49526
-   - newstest2016-enro.ron-eng: 1999/47563
-   - Tatoeba-test.ron-eng: 5000/37125
+   newsdev2016-enro.ron-eng: 1999/49526
+   newstest2016-enro.ron-eng: 1999/47563
+   Tatoeba-test.ron-eng: 5000/37125
 BLEU-scores:
-   - newsdev2016-enro.ron-eng: 42.3
-   - newstest2016-enro.ron-eng: 39.9
-   - Tatoeba-test.ron-eng: 59.3
+   newsdev2016-enro.ron-eng: 42.3
+   newstest2016-enro.ron-eng: 39.9
+   Tatoeba-test.ron-eng: 59.3
 chr-F-scores:
-   - newsdev2016-enro.ron-eng: 0.662
-   - newstest2016-enro.ron-eng: 0.641
-   - Tatoeba-test.ron-eng: 0.733
+   newsdev2016-enro.ron-eng: 0.662
+   newstest2016-enro.ron-eng: 0.641
+   Tatoeba-test.ron-eng: 0.733

@@ -4,11 +4,11 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - lav
    - lit
@@ -18,32 +18,32 @@ source-languages:
 target-languages:
    - eng
 test-data:
-   - Tatoeba-test.lav-eng: 1631/9273
-   - Tatoeba-test.lit-eng: 2500/14897
-   - Tatoeba-test.multi-eng: 4396/25708
-   - Tatoeba-test.prg-eng: 213/1410
-   - Tatoeba-test.sgs-eng: 52/128
-   - newsdev2017-enlv.lav-eng: 2003/42560
-   - newsdev2019-enlt.lit-eng: 2000/43193
-   - newstest2017-enlv.lav-eng: 2001/42079
-   - newstest2019-lten.lit-eng: 1000/22953
+   Tatoeba-test.lav-eng: 1631/9273
+   Tatoeba-test.lit-eng: 2500/14897
+   Tatoeba-test.multi-eng: 4396/25708
+   Tatoeba-test.prg-eng: 213/1410
+   Tatoeba-test.sgs-eng: 52/128
+   newsdev2017-enlv.lav-eng: 2003/42560
+   newsdev2019-enlt.lit-eng: 2000/43193
+   newstest2017-enlv.lav-eng: 2001/42079
+   newstest2019-lten.lit-eng: 1000/22953
 BLEU-scores:
-   - Tatoeba-test.lav-eng: 48.7
-   - Tatoeba-test.lit-eng: 52.6
-   - Tatoeba-test.multi-eng: 48.2
-   - Tatoeba-test.prg-eng: 0.8
-   - Tatoeba-test.sgs-eng: 13.4
-   - newsdev2017-enlv.lav-eng: 25.9
-   - newsdev2019-enlt.lit-eng: 24.9
-   - newstest2017-enlv.lav-eng: 19.5
-   - newstest2019-lten.lit-eng: 28.0
+   Tatoeba-test.lav-eng: 48.7
+   Tatoeba-test.lit-eng: 52.6
+   Tatoeba-test.multi-eng: 48.2
+   Tatoeba-test.prg-eng: 0.8
+   Tatoeba-test.sgs-eng: 13.4
+   newsdev2017-enlv.lav-eng: 25.9
+   newsdev2019-enlt.lit-eng: 24.9
+   newstest2017-enlv.lav-eng: 19.5
+   newstest2019-lten.lit-eng: 28.0
 chr-F-scores:
-   - Tatoeba-test.lav-eng: 0.662
-   - Tatoeba-test.lit-eng: 0.684
-   - Tatoeba-test.multi-eng: 0.643
-   - Tatoeba-test.prg-eng: 0.155
-   - Tatoeba-test.sgs-eng: 0.325
-   - newsdev2017-enlv.lav-eng: 0.553
-   - newsdev2019-enlt.lit-eng: 0.535
-   - newstest2017-enlv.lav-eng: 0.496
-   - newstest2019-lten.lit-eng: 0.575
+   Tatoeba-test.lav-eng: 0.662
+   Tatoeba-test.lit-eng: 0.684
+   Tatoeba-test.multi-eng: 0.643
+   Tatoeba-test.prg-eng: 0.155
+   Tatoeba-test.sgs-eng: 0.325
+   newsdev2017-enlv.lav-eng: 0.553
+   newsdev2019-enlt.lit-eng: 0.535
+   newstest2017-enlv.lav-eng: 0.496
+   newstest2019-lten.lit-eng: 0.575

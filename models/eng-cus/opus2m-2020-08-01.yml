@@ -4,21 +4,21 @@ dataset-name: opus2m
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm12k,spm12k)
 subwords:
-   - source: spm12k
-   - target: spm12k
+   source: spm12k
+   target: spm12k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - eng
 target-languages:
    - som
 test-data:
-   - Tatoeba-test.eng-multi: 1/2
-   - Tatoeba-test.eng-som: 1/2
+   Tatoeba-test.eng-multi: 1/2
+   Tatoeba-test.eng-som: 1/2
 BLEU-scores:
-   - Tatoeba-test.eng-multi: 16.0
-   - Tatoeba-test.eng-som: 16.0
+   Tatoeba-test.eng-multi: 16.0
+   Tatoeba-test.eng-som: 16.0
 chr-F-scores:
-   - Tatoeba-test.eng-multi: 0.173
-   - Tatoeba-test.eng-som: 0.173
+   Tatoeba-test.eng-multi: 0.173
+   Tatoeba-test.eng-som: 0.173

@@ -23,6 +23,7 @@
 | Tatoeba-test.eng-glv.eng.glv 	| 7.2 	| 0.326 |
 | Tatoeba-test.eng.multi 	| 15.8 	| 0.324 |
 
+
 # opus-2020-07-26.zip
 
 * dataset: opus
@@ -48,6 +49,7 @@
 | Tatoeba-test.eng-glv.eng.glv 	| 7.1 	| 0.333 |
 | Tatoeba-test.eng.multi 	| 16.5 	| 0.329 |
 
+
 # opus2m-2020-08-01.zip
 
 * dataset: opus2m
@@ -72,4 +74,31 @@
 | Tatoeba-test.eng-gle.eng.gle 	| 35.9 	| 0.582 |
 | Tatoeba-test.eng-glv.eng.glv 	| 9.9 	| 0.454 |
 | Tatoeba-test.eng.multi 	| 18.0 	| 0.342 |
+
+
+# opus2m+bt-2021-03-19.zip
+
+* dataset: opus2m+bt
+* model: transformer-align
+* source language(s): eng
+* target language(s): bre cor cym gla gle glv
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>glv<< >>gla<< >>cym<< >>bre<< >>gle<< >>cor<<
+* download: [opus2m+bt-2021-03-19.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus2m+bt-2021-03-19.zip)
+* test set translations: [opus2m+bt-2021-03-19.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus2m+bt-2021-03-19.test.txt)
+* test set scores: [opus2m+bt-2021-03-19.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus2m+bt-2021-03-19.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-bre 	| 13.7 	| 0.381 	| 383 	| 2268 	| 0.921 |
+| Tatoeba-test.eng-cor 	| 3.3 	| 0.163 	| 3198 	| 17784 	| 0.924 |
+| Tatoeba-test.eng-cym 	| 35.7 	| 0.591 	| 818 	| 6020 	| 0.965 |
+| Tatoeba-test.eng-gla 	| 15.3 	| 0.396 	| 917 	| 7071 	| 1.000 |
+| Tatoeba-test.eng-gle 	| 40.4 	| 0.609 	| 1924 	| 12199 	| 1.000 |
+| Tatoeba-test.eng-glv 	| 13.0 	| 0.502 	| 5 	| 25 	| 1.000 |
+| Tatoeba-test.eng-multi 	| 14.3 	| 0.381 	| 383 	| 2269 	| 0.924 |
 

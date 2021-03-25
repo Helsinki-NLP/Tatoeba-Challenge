@@ -4,11 +4,11 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - arg
    - ast
@@ -76,514 +76,514 @@ target-languages:
    - wln
    - zsm
 use-target-labels:
-   - >>arg<<
-   - >>ast<<
-   - >>bjn<<
-   - >>cat<<
-   - >>cos<<
-   - >>egl<<
-   - >>fra<<
-   - >>frm_Latn<<
-   - >>gcf_Latn<<
-   - >>glg<<
-   - >>hat<<
-   - >>ind<<
-   - >>ita<<
-   - >>lad<<
-   - >>lad_Latn<<
-   - >>lat_Grek<<
-   - >>lat_Latn<<
-   - >>lij<<
-   - >>lld_Latn<<
-   - >>lmo<<
-   - >>mwl<<
-   - >>oci<<
-   - >>pap<<
-   - >>pcd<<
-   - >>pms<<
-   - >>por<<
-   - >>roh<<
-   - >>ron<<
-   - >>scn<<
-   - >>spa<<
-   - >>srd<<
-   - >>vec<<
-   - >>wln<<
-   - >>zsm_Latn<<
+   '>>arg<<'
+   '>>ast<<'
+   '>>bjn<<'
+   '>>cat<<'
+   '>>cos<<'
+   '>>egl<<'
+   '>>fra<<'
+   '>>frm_Latn<<'
+   '>>gcf_Latn<<'
+   '>>glg<<'
+   '>>hat<<'
+   '>>ind<<'
+   '>>ita<<'
+   '>>lad<<'
+   '>>lad_Latn<<'
+   '>>lat_Grek<<'
+   '>>lat_Latn<<'
+   '>>lij<<'
+   '>>lld_Latn<<'
+   '>>lmo<<'
+   '>>mwl<<'
+   '>>oci<<'
+   '>>pap<<'
+   '>>pcd<<'
+   '>>pms<<'
+   '>>por<<'
+   '>>roh<<'
+   '>>ron<<'
+   '>>scn<<'
+   '>>spa<<'
+   '>>srd<<'
+   '>>vec<<'
+   '>>wln<<'
+   '>>zsm_Latn<<'
 test-data:
-   - Tatoeba-test.arg-fra: 8/35
-   - Tatoeba-test.arg-spa: 12/38
-   - Tatoeba-test.ast-fra: 13/64
-   - Tatoeba-test.ast-por: 1/4
-   - Tatoeba-test.ast-spa: 153/953
-   - Tatoeba-test.cat-fra: 686/4804
-   - Tatoeba-test.cat-ita: 294/1663
-   - Tatoeba-test.cat-por: 729/4971
-   - Tatoeba-test.cat-ron: 1/3
-   - Tatoeba-test.cat-spa: 1534/10282
-   - Tatoeba-test.cos-fra: 7/47
-   - Tatoeba-test.cos-pms: 1/10
-   - Tatoeba-test.egl-fra: 14/48
-   - Tatoeba-test.egl-ita: 202/784
-   - Tatoeba-test.egl-spa: 98/327
-   - Tatoeba-test.fra-arg: 8/21
-   - Tatoeba-test.fra-ast: 13/61
-   - Tatoeba-test.fra-cat: 686/4404
-   - Tatoeba-test.fra-cos: 7/38
-   - Tatoeba-test.fra-egl: 14/46
-   - Tatoeba-test.fra-frm: 14/143
-   - Tatoeba-test.fra-gcf: 1164/5092
-   - Tatoeba-test.fra-glg: 117/650
-   - Tatoeba-test.fra-hat: 74/358
-   - Tatoeba-test.fra-ita: 10000/50539
-   - Tatoeba-test.fra-lad: 119/456
-   - Tatoeba-test.fra-lat: 2917/21262
-   - Tatoeba-test.fra-lij: 62/388
-   - Tatoeba-test.fra-lld: 21/198
-   - Tatoeba-test.fra-lmo: 11/64
-   - Tatoeba-test.fra-msa: 998/5630
-   - Tatoeba-test.fra-oci: 806/5258
-   - Tatoeba-test.fra-pap: 6/14
-   - Tatoeba-test.fra-pcd: 266/1346
-   - Tatoeba-test.fra-pms: 66/502
-   - Tatoeba-test.fra-por: 10000/59539
-   - Tatoeba-test.fra-roh: 3/37
-   - Tatoeba-test.fra-ron: 1952/10153
-   - Tatoeba-test.fra-scn: 4/19
-   - Tatoeba-test.fra-spa: 10000/64208
-   - Tatoeba-test.fra-srd: 10/67
-   - Tatoeba-test.fra-vec: 2/14
-   - Tatoeba-test.fra-wln: 73/377
-   - Tatoeba-test.frm-fra: 14/148
-   - Tatoeba-test.gcf-fra: 1164/5281
-   - Tatoeba-test.gcf-lad: 1/1
-   - Tatoeba-test.gcf-por: 1/3
-   - Tatoeba-test.gcf-spa: 3/8
-   - Tatoeba-test.glg-fra: 117/768
-   - Tatoeba-test.glg-ita: 41/177
-   - Tatoeba-test.glg-por: 430/2588
-   - Tatoeba-test.glg-spa: 2121/14832
-   - Tatoeba-test.hat-fra: 74/384
-   - Tatoeba-test.hat-spa: 51/229
-   - Tatoeba-test.ita-cat: 294/1742
-   - Tatoeba-test.ita-egl: 202/863
-   - Tatoeba-test.ita-fra: 10000/56246
-   - Tatoeba-test.ita-glg: 41/184
-   - Tatoeba-test.ita-lad: 26/113
-   - Tatoeba-test.ita-lat: 1716/7904
-   - Tatoeba-test.ita-lij: 107/667
-   - Tatoeba-test.ita-msa: 426/2279
-   - Tatoeba-test.ita-oci: 80/537
-   - Tatoeba-test.ita-pms: 232/1649
-   - Tatoeba-test.ita-por: 2500/15869
-   - Tatoeba-test.ita-ron: 1004/5050
-   - Tatoeba-test.ita-spa: 5000/29307
-   - Tatoeba-test.ita-vec: 11/43
-   - Tatoeba-test.lad-fra: 119/514
-   - Tatoeba-test.lad-gcf: 1/2
-   - Tatoeba-test.lad-ita: 26/110
-   - Tatoeba-test.lad-lat: 131/465
-   - Tatoeba-test.lad-por: 37/154
-   - Tatoeba-test.lad-ron: 2/6
-   - Tatoeba-test.lad-spa: 207/851
-   - Tatoeba-test.lat-fra: 2917/34146
-   - Tatoeba-test.lat-ita: 1716/10233
-   - Tatoeba-test.lat-lad: 131/593
-   - Tatoeba-test.lat-por: 5000/53482
-   - Tatoeba-test.lat-ron: 65/581
-   - Tatoeba-test.lat-spa: 3131/28401
-   - Tatoeba-test.lij-fra: 62/423
-   - Tatoeba-test.lij-ita: 107/603
-   - Tatoeba-test.lld-fra: 21/196
-   - Tatoeba-test.lld-spa: 13/66
-   - Tatoeba-test.lmo-fra: 11/69
-   - Tatoeba-test.msa-fra: 998/6885
-   - Tatoeba-test.msa-ita: 426/2272
-   - Tatoeba-test.msa-msa: 870/4915
-   - Tatoeba-test.msa-pap: 2/8
-   - Tatoeba-test.msa-por: 98/521
-   - Tatoeba-test.msa-ron: 2/37
-   - Tatoeba-test.msa-spa: 227/1139
-   - Tatoeba-test.multi-multi: 10000/65180
-   - Tatoeba-test.mwl-por: 2/6
-   - Tatoeba-test.oci-fra: 806/5512
-   - Tatoeba-test.oci-ita: 80/485
-   - Tatoeba-test.oci-spa: 188/1023
-   - Tatoeba-test.pap-fra: 6/15
-   - Tatoeba-test.pap-msa: 2/6
-   - Tatoeba-test.pcd-fra: 266/1454
-   - Tatoeba-test.pcd-spa: 26/106
-   - Tatoeba-test.pms-cos: 1/10
-   - Tatoeba-test.pms-fra: 66/477
-   - Tatoeba-test.pms-ita: 232/1443
-   - Tatoeba-test.pms-spa: 149/874
-   - Tatoeba-test.por-ast: 1/4
-   - Tatoeba-test.por-cat: 729/5016
-   - Tatoeba-test.por-fra: 10000/64367
-   - Tatoeba-test.por-gcf: 1/3
-   - Tatoeba-test.por-glg: 430/2499
-   - Tatoeba-test.por-ita: 2500/15325
-   - Tatoeba-test.por-lad: 37/154
-   - Tatoeba-test.por-lat: 5000/39144
-   - Tatoeba-test.por-msa: 98/478
-   - Tatoeba-test.por-mwl: 2/6
-   - Tatoeba-test.por-roh: 1/4
-   - Tatoeba-test.por-ron: 681/3686
-   - Tatoeba-test.por-spa: 10000/65894
-   - Tatoeba-test.roh-fra: 3/46
-   - Tatoeba-test.roh-por: 1/2
-   - Tatoeba-test.roh-spa: 4/43
-   - Tatoeba-test.ron-cat: 1/3
-   - Tatoeba-test.ron-fra: 1952/11676
-   - Tatoeba-test.ron-ita: 1004/5188
-   - Tatoeba-test.ron-lad: 2/8
-   - Tatoeba-test.ron-lat: 65/454
-   - Tatoeba-test.ron-msa: 2/33
-   - Tatoeba-test.ron-por: 681/3768
-   - Tatoeba-test.ron-spa: 1961/10426
-   - Tatoeba-test.scn-fra: 4/26
-   - Tatoeba-test.scn-spa: 4/28
-   - Tatoeba-test.spa-arg: 12/34
-   - Tatoeba-test.spa-ast: 153/895
-   - Tatoeba-test.spa-cat: 1534/10548
-   - Tatoeba-test.spa-egl: 98/358
-   - Tatoeba-test.spa-fra: 10000/70782
-   - Tatoeba-test.spa-gcf: 3/10
-   - Tatoeba-test.spa-glg: 2121/13967
-   - Tatoeba-test.spa-hat: 51/252
-   - Tatoeba-test.spa-ita: 5000/28907
-   - Tatoeba-test.spa-lad: 207/865
-   - Tatoeba-test.spa-lat: 3131/22391
-   - Tatoeba-test.spa-lld: 13/72
-   - Tatoeba-test.spa-msa: 227/1117
-   - Tatoeba-test.spa-oci: 188/1063
-   - Tatoeba-test.spa-pcd: 26/103
-   - Tatoeba-test.spa-pms: 149/1012
-   - Tatoeba-test.spa-por: 10000/65790
-   - Tatoeba-test.spa-roh: 4/41
-   - Tatoeba-test.spa-ron: 1961/10253
-   - Tatoeba-test.spa-scn: 4/27
-   - Tatoeba-test.spa-wln: 7/25
-   - Tatoeba-test.srd-fra: 10/62
-   - Tatoeba-test.vec-fra: 2/13
-   - Tatoeba-test.vec-ita: 11/37
-   - Tatoeba-test.wln-fra: 73/363
-   - Tatoeba-test.wln-spa: 7/23
+   Tatoeba-test.arg-fra: 8/35
+   Tatoeba-test.arg-spa: 12/38
+   Tatoeba-test.ast-fra: 13/64
+   Tatoeba-test.ast-por: 1/4
+   Tatoeba-test.ast-spa: 153/953
+   Tatoeba-test.cat-fra: 686/4804
+   Tatoeba-test.cat-ita: 294/1663
+   Tatoeba-test.cat-por: 729/4971
+   Tatoeba-test.cat-ron: 1/3
+   Tatoeba-test.cat-spa: 1534/10282
+   Tatoeba-test.cos-fra: 7/47
+   Tatoeba-test.cos-pms: 1/10
+   Tatoeba-test.egl-fra: 14/48
+   Tatoeba-test.egl-ita: 202/784
+   Tatoeba-test.egl-spa: 98/327
+   Tatoeba-test.fra-arg: 8/21
+   Tatoeba-test.fra-ast: 13/61
+   Tatoeba-test.fra-cat: 686/4404
+   Tatoeba-test.fra-cos: 7/38
+   Tatoeba-test.fra-egl: 14/46
+   Tatoeba-test.fra-frm: 14/143
+   Tatoeba-test.fra-gcf: 1164/5092
+   Tatoeba-test.fra-glg: 117/650
+   Tatoeba-test.fra-hat: 74/358
+   Tatoeba-test.fra-ita: 10000/50539
+   Tatoeba-test.fra-lad: 119/456
+   Tatoeba-test.fra-lat: 2917/21262
+   Tatoeba-test.fra-lij: 62/388
+   Tatoeba-test.fra-lld: 21/198
+   Tatoeba-test.fra-lmo: 11/64
+   Tatoeba-test.fra-msa: 998/5630
+   Tatoeba-test.fra-oci: 806/5258
+   Tatoeba-test.fra-pap: 6/14
+   Tatoeba-test.fra-pcd: 266/1346
+   Tatoeba-test.fra-pms: 66/502
+   Tatoeba-test.fra-por: 10000/59539
+   Tatoeba-test.fra-roh: 3/37
+   Tatoeba-test.fra-ron: 1952/10153
+   Tatoeba-test.fra-scn: 4/19
+   Tatoeba-test.fra-spa: 10000/64208
+   Tatoeba-test.fra-srd: 10/67
+   Tatoeba-test.fra-vec: 2/14
+   Tatoeba-test.fra-wln: 73/377
+   Tatoeba-test.frm-fra: 14/148
+   Tatoeba-test.gcf-fra: 1164/5281
+   Tatoeba-test.gcf-lad: 1/1
+   Tatoeba-test.gcf-por: 1/3
+   Tatoeba-test.gcf-spa: 3/8
+   Tatoeba-test.glg-fra: 117/768
+   Tatoeba-test.glg-ita: 41/177
+   Tatoeba-test.glg-por: 430/2588
+   Tatoeba-test.glg-spa: 2121/14832
+   Tatoeba-test.hat-fra: 74/384
+   Tatoeba-test.hat-spa: 51/229
+   Tatoeba-test.ita-cat: 294/1742
+   Tatoeba-test.ita-egl: 202/863
+   Tatoeba-test.ita-fra: 10000/56246
+   Tatoeba-test.ita-glg: 41/184
+   Tatoeba-test.ita-lad: 26/113
+   Tatoeba-test.ita-lat: 1716/7904
+   Tatoeba-test.ita-lij: 107/667
+   Tatoeba-test.ita-msa: 426/2279
+   Tatoeba-test.ita-oci: 80/537
+   Tatoeba-test.ita-pms: 232/1649
+   Tatoeba-test.ita-por: 2500/15869
+   Tatoeba-test.ita-ron: 1004/5050
+   Tatoeba-test.ita-spa: 5000/29307
+   Tatoeba-test.ita-vec: 11/43
+   Tatoeba-test.lad-fra: 119/514
+   Tatoeba-test.lad-gcf: 1/2
+   Tatoeba-test.lad-ita: 26/110
+   Tatoeba-test.lad-lat: 131/465
+   Tatoeba-test.lad-por: 37/154
+   Tatoeba-test.lad-ron: 2/6
+   Tatoeba-test.lad-spa: 207/851
+   Tatoeba-test.lat-fra: 2917/34146
+   Tatoeba-test.lat-ita: 1716/10233
+   Tatoeba-test.lat-lad: 131/593
+   Tatoeba-test.lat-por: 5000/53482
+   Tatoeba-test.lat-ron: 65/581
+   Tatoeba-test.lat-spa: 3131/28401
+   Tatoeba-test.lij-fra: 62/423
+   Tatoeba-test.lij-ita: 107/603
+   Tatoeba-test.lld-fra: 21/196
+   Tatoeba-test.lld-spa: 13/66
+   Tatoeba-test.lmo-fra: 11/69
+   Tatoeba-test.msa-fra: 998/6885
+   Tatoeba-test.msa-ita: 426/2272
+   Tatoeba-test.msa-msa: 870/4915
+   Tatoeba-test.msa-pap: 2/8
+   Tatoeba-test.msa-por: 98/521
+   Tatoeba-test.msa-ron: 2/37
+   Tatoeba-test.msa-spa: 227/1139
+   Tatoeba-test.multi-multi: 10000/65180
+   Tatoeba-test.mwl-por: 2/6
+   Tatoeba-test.oci-fra: 806/5512
+   Tatoeba-test.oci-ita: 80/485
+   Tatoeba-test.oci-spa: 188/1023
+   Tatoeba-test.pap-fra: 6/15
+   Tatoeba-test.pap-msa: 2/6
+   Tatoeba-test.pcd-fra: 266/1454
+   Tatoeba-test.pcd-spa: 26/106
+   Tatoeba-test.pms-cos: 1/10
+   Tatoeba-test.pms-fra: 66/477
+   Tatoeba-test.pms-ita: 232/1443
+   Tatoeba-test.pms-spa: 149/874
+   Tatoeba-test.por-ast: 1/4
+   Tatoeba-test.por-cat: 729/5016
+   Tatoeba-test.por-fra: 10000/64367
+   Tatoeba-test.por-gcf: 1/3
+   Tatoeba-test.por-glg: 430/2499
+   Tatoeba-test.por-ita: 2500/15325
+   Tatoeba-test.por-lad: 37/154
+   Tatoeba-test.por-lat: 5000/39144
+   Tatoeba-test.por-msa: 98/478
+   Tatoeba-test.por-mwl: 2/6
+   Tatoeba-test.por-roh: 1/4
+   Tatoeba-test.por-ron: 681/3686
+   Tatoeba-test.por-spa: 10000/65894
+   Tatoeba-test.roh-fra: 3/46
+   Tatoeba-test.roh-por: 1/2
+   Tatoeba-test.roh-spa: 4/43
+   Tatoeba-test.ron-cat: 1/3
+   Tatoeba-test.ron-fra: 1952/11676
+   Tatoeba-test.ron-ita: 1004/5188
+   Tatoeba-test.ron-lad: 2/8
+   Tatoeba-test.ron-lat: 65/454
+   Tatoeba-test.ron-msa: 2/33
+   Tatoeba-test.ron-por: 681/3768
+   Tatoeba-test.ron-spa: 1961/10426
+   Tatoeba-test.scn-fra: 4/26
+   Tatoeba-test.scn-spa: 4/28
+   Tatoeba-test.spa-arg: 12/34
+   Tatoeba-test.spa-ast: 153/895
+   Tatoeba-test.spa-cat: 1534/10548
+   Tatoeba-test.spa-egl: 98/358
+   Tatoeba-test.spa-fra: 10000/70782
+   Tatoeba-test.spa-gcf: 3/10
+   Tatoeba-test.spa-glg: 2121/13967
+   Tatoeba-test.spa-hat: 51/252
+   Tatoeba-test.spa-ita: 5000/28907
+   Tatoeba-test.spa-lad: 207/865
+   Tatoeba-test.spa-lat: 3131/22391
+   Tatoeba-test.spa-lld: 13/72
+   Tatoeba-test.spa-msa: 227/1117
+   Tatoeba-test.spa-oci: 188/1063
+   Tatoeba-test.spa-pcd: 26/103
+   Tatoeba-test.spa-pms: 149/1012
+   Tatoeba-test.spa-por: 10000/65790
+   Tatoeba-test.spa-roh: 4/41
+   Tatoeba-test.spa-ron: 1961/10253
+   Tatoeba-test.spa-scn: 4/27
+   Tatoeba-test.spa-wln: 7/25
+   Tatoeba-test.srd-fra: 10/62
+   Tatoeba-test.vec-fra: 2/13
+   Tatoeba-test.vec-ita: 11/37
+   Tatoeba-test.wln-fra: 73/363
+   Tatoeba-test.wln-spa: 7/23
 BLEU-scores:
-   - Tatoeba-test.arg-fra: 40.8
-   - Tatoeba-test.arg-spa: 59.9
-   - Tatoeba-test.ast-fra: 45.4
-   - Tatoeba-test.ast-por: 100.0
-   - Tatoeba-test.ast-spa: 46.8
-   - Tatoeba-test.cat-fra: 51.6
-   - Tatoeba-test.cat-ita: 49.2
-   - Tatoeba-test.cat-por: 48.0
-   - Tatoeba-test.cat-ron: 35.4
-   - Tatoeba-test.cat-spa: 69.0
-   - Tatoeba-test.cos-fra: 22.3
-   - Tatoeba-test.cos-pms: 3.4
-   - Tatoeba-test.egl-fra: 9.5
-   - Tatoeba-test.egl-ita: 3.0
-   - Tatoeba-test.egl-spa: 3.7
-   - Tatoeba-test.fra-arg: 3.8
-   - Tatoeba-test.fra-ast: 25.9
-   - Tatoeba-test.fra-cat: 42.2
-   - Tatoeba-test.fra-cos: 3.3
-   - Tatoeba-test.fra-egl: 2.2
-   - Tatoeba-test.fra-frm: 1.0
-   - Tatoeba-test.fra-gcf: 0.2
-   - Tatoeba-test.fra-glg: 40.5
-   - Tatoeba-test.fra-hat: 22.6
-   - Tatoeba-test.fra-ita: 46.7
-   - Tatoeba-test.fra-lad: 15.9
-   - Tatoeba-test.fra-lat: 2.9
-   - Tatoeba-test.fra-lij: 1.0
-   - Tatoeba-test.fra-lld: 1.1
-   - Tatoeba-test.fra-lmo: 1.2
-   - Tatoeba-test.fra-msa: 0.4
-   - Tatoeba-test.fra-oci: 7.3
-   - Tatoeba-test.fra-pap: 69.8
-   - Tatoeba-test.fra-pcd: 0.6
-   - Tatoeba-test.fra-pms: 1.0
-   - Tatoeba-test.fra-por: 39.7
-   - Tatoeba-test.fra-roh: 5.7
-   - Tatoeba-test.fra-ron: 36.4
-   - Tatoeba-test.fra-scn: 2.1
-   - Tatoeba-test.fra-spa: 47.5
-   - Tatoeba-test.fra-srd: 2.8
-   - Tatoeba-test.fra-vec: 3.0
-   - Tatoeba-test.fra-wln: 3.5
-   - Tatoeba-test.frm-fra: 11.4
-   - Tatoeba-test.gcf-fra: 7.1
-   - Tatoeba-test.gcf-lad: 0.0
-   - Tatoeba-test.gcf-por: 0.0
-   - Tatoeba-test.gcf-spa: 13.4
-   - Tatoeba-test.glg-fra: 54.7
-   - Tatoeba-test.glg-ita: 40.1
-   - Tatoeba-test.glg-por: 57.6
-   - Tatoeba-test.glg-spa: 70.0
-   - Tatoeba-test.hat-fra: 14.2
-   - Tatoeba-test.hat-spa: 17.9
-   - Tatoeba-test.ita-cat: 51.0
-   - Tatoeba-test.ita-egl: 1.1
-   - Tatoeba-test.ita-fra: 58.2
-   - Tatoeba-test.ita-glg: 41.7
-   - Tatoeba-test.ita-lad: 17.5
-   - Tatoeba-test.ita-lat: 7.1
-   - Tatoeba-test.ita-lij: 1.0
-   - Tatoeba-test.ita-msa: 0.9
-   - Tatoeba-test.ita-oci: 12.3
-   - Tatoeba-test.ita-pms: 1.6
-   - Tatoeba-test.ita-por: 44.8
-   - Tatoeba-test.ita-ron: 43.3
-   - Tatoeba-test.ita-spa: 56.6
-   - Tatoeba-test.ita-vec: 2.0
-   - Tatoeba-test.lad-fra: 30.4
-   - Tatoeba-test.lad-gcf: 0.0
-   - Tatoeba-test.lad-ita: 12.3
-   - Tatoeba-test.lad-lat: 1.6
-   - Tatoeba-test.lad-por: 8.8
-   - Tatoeba-test.lad-ron: 78.3
-   - Tatoeba-test.lad-spa: 28.3
-   - Tatoeba-test.lat-fra: 9.4
-   - Tatoeba-test.lat-ita: 20.0
-   - Tatoeba-test.lat-lad: 3.8
-   - Tatoeba-test.lat-por: 13.0
-   - Tatoeba-test.lat-ron: 14.0
-   - Tatoeba-test.lat-spa: 21.8
-   - Tatoeba-test.lij-fra: 13.8
-   - Tatoeba-test.lij-ita: 14.7
-   - Tatoeba-test.lld-fra: 18.8
-   - Tatoeba-test.lld-spa: 11.1
-   - Tatoeba-test.lmo-fra: 11.0
-   - Tatoeba-test.msa-fra: 0.8
-   - Tatoeba-test.msa-ita: 1.1
-   - Tatoeba-test.msa-msa: 19.1
-   - Tatoeba-test.msa-pap: 0.0
-   - Tatoeba-test.msa-por: 2.4
-   - Tatoeba-test.msa-ron: 1.2
-   - Tatoeba-test.msa-spa: 1.0
-   - Tatoeba-test.multi-multi: 40.8
-   - Tatoeba-test.mwl-por: 35.4
-   - Tatoeba-test.oci-fra: 24.5
-   - Tatoeba-test.oci-ita: 23.3
-   - Tatoeba-test.oci-spa: 26.1
-   - Tatoeba-test.pap-fra: 31.0
-   - Tatoeba-test.pap-msa: 0.0
-   - Tatoeba-test.pcd-fra: 13.8
-   - Tatoeba-test.pcd-spa: 2.6
-   - Tatoeba-test.pms-cos: 3.4
-   - Tatoeba-test.pms-fra: 13.4
-   - Tatoeba-test.pms-ita: 13.0
-   - Tatoeba-test.pms-spa: 13.1
-   - Tatoeba-test.por-ast: 100.0
-   - Tatoeba-test.por-cat: 45.1
-   - Tatoeba-test.por-fra: 52.5
-   - Tatoeba-test.por-gcf: 16.0
-   - Tatoeba-test.por-glg: 57.5
-   - Tatoeba-test.por-ita: 50.1
-   - Tatoeba-test.por-lad: 15.7
-   - Tatoeba-test.por-lat: 11.1
-   - Tatoeba-test.por-msa: 2.4
-   - Tatoeba-test.por-mwl: 30.5
-   - Tatoeba-test.por-roh: 0.0
-   - Tatoeba-test.por-ron: 40.0
-   - Tatoeba-test.por-spa: 58.6
-   - Tatoeba-test.roh-fra: 23.1
-   - Tatoeba-test.roh-por: 21.4
-   - Tatoeba-test.roh-spa: 19.8
-   - Tatoeba-test.ron-cat: 59.5
-   - Tatoeba-test.ron-fra: 47.4
-   - Tatoeba-test.ron-ita: 45.7
-   - Tatoeba-test.ron-lad: 44.2
-   - Tatoeba-test.ron-lat: 14.8
-   - Tatoeba-test.ron-msa: 1.2
-   - Tatoeba-test.ron-por: 42.7
-   - Tatoeba-test.ron-spa: 50.4
-   - Tatoeba-test.scn-fra: 2.4
-   - Tatoeba-test.scn-spa: 5.1
-   - Tatoeba-test.spa-arg: 10.8
-   - Tatoeba-test.spa-ast: 24.6
-   - Tatoeba-test.spa-cat: 61.6
-   - Tatoeba-test.spa-egl: 2.2
-   - Tatoeba-test.spa-fra: 51.1
-   - Tatoeba-test.spa-gcf: 7.8
-   - Tatoeba-test.spa-glg: 62.8
-   - Tatoeba-test.spa-hat: 16.6
-   - Tatoeba-test.spa-ita: 51.8
-   - Tatoeba-test.spa-lad: 14.6
-   - Tatoeba-test.spa-lat: 21.5
-   - Tatoeba-test.spa-lld: 2.0
-   - Tatoeba-test.spa-msa: 0.8
-   - Tatoeba-test.spa-oci: 10.3
-   - Tatoeba-test.spa-pcd: 0.9
-   - Tatoeba-test.spa-pms: 1.5
-   - Tatoeba-test.spa-por: 49.4
-   - Tatoeba-test.spa-roh: 4.6
-   - Tatoeba-test.spa-ron: 39.1
-   - Tatoeba-test.spa-scn: 2.0
-   - Tatoeba-test.spa-wln: 8.7
-   - Tatoeba-test.srd-fra: 6.7
-   - Tatoeba-test.vec-fra: 59.9
-   - Tatoeba-test.vec-ita: 14.2
-   - Tatoeba-test.wln-fra: 8.9
-   - Tatoeba-test.wln-spa: 9.6
+   Tatoeba-test.arg-fra: 40.8
+   Tatoeba-test.arg-spa: 59.9
+   Tatoeba-test.ast-fra: 45.4
+   Tatoeba-test.ast-por: 100.0
+   Tatoeba-test.ast-spa: 46.8
+   Tatoeba-test.cat-fra: 51.6
+   Tatoeba-test.cat-ita: 49.2
+   Tatoeba-test.cat-por: 48.0
+   Tatoeba-test.cat-ron: 35.4
+   Tatoeba-test.cat-spa: 69.0
+   Tatoeba-test.cos-fra: 22.3
+   Tatoeba-test.cos-pms: 3.4
+   Tatoeba-test.egl-fra: 9.5
+   Tatoeba-test.egl-ita: 3.0
+   Tatoeba-test.egl-spa: 3.7
+   Tatoeba-test.fra-arg: 3.8
+   Tatoeba-test.fra-ast: 25.9
+   Tatoeba-test.fra-cat: 42.2
+   Tatoeba-test.fra-cos: 3.3
+   Tatoeba-test.fra-egl: 2.2
+   Tatoeba-test.fra-frm: 1.0
+   Tatoeba-test.fra-gcf: 0.2
+   Tatoeba-test.fra-glg: 40.5
+   Tatoeba-test.fra-hat: 22.6
+   Tatoeba-test.fra-ita: 46.7
+   Tatoeba-test.fra-lad: 15.9
+   Tatoeba-test.fra-lat: 2.9
+   Tatoeba-test.fra-lij: 1.0
+   Tatoeba-test.fra-lld: 1.1
+   Tatoeba-test.fra-lmo: 1.2
+   Tatoeba-test.fra-msa: 0.4
+   Tatoeba-test.fra-oci: 7.3
+   Tatoeba-test.fra-pap: 69.8
+   Tatoeba-test.fra-pcd: 0.6
+   Tatoeba-test.fra-pms: 1.0
+   Tatoeba-test.fra-por: 39.7
+   Tatoeba-test.fra-roh: 5.7
+   Tatoeba-test.fra-ron: 36.4
+   Tatoeba-test.fra-scn: 2.1
+   Tatoeba-test.fra-spa: 47.5
+   Tatoeba-test.fra-srd: 2.8
+   Tatoeba-test.fra-vec: 3.0
+   Tatoeba-test.fra-wln: 3.5
+   Tatoeba-test.frm-fra: 11.4
+   Tatoeba-test.gcf-fra: 7.1
+   Tatoeba-test.gcf-lad: 0.0
+   Tatoeba-test.gcf-por: 0.0
+   Tatoeba-test.gcf-spa: 13.4
+   Tatoeba-test.glg-fra: 54.7
+   Tatoeba-test.glg-ita: 40.1
+   Tatoeba-test.glg-por: 57.6
+   Tatoeba-test.glg-spa: 70.0
+   Tatoeba-test.hat-fra: 14.2
+   Tatoeba-test.hat-spa: 17.9
+   Tatoeba-test.ita-cat: 51.0
+   Tatoeba-test.ita-egl: 1.1
+   Tatoeba-test.ita-fra: 58.2
+   Tatoeba-test.ita-glg: 41.7
+   Tatoeba-test.ita-lad: 17.5
+   Tatoeba-test.ita-lat: 7.1
+   Tatoeba-test.ita-lij: 1.0
+   Tatoeba-test.ita-msa: 0.9
+   Tatoeba-test.ita-oci: 12.3
+   Tatoeba-test.ita-pms: 1.6
+   Tatoeba-test.ita-por: 44.8
+   Tatoeba-test.ita-ron: 43.3
+   Tatoeba-test.ita-spa: 56.6
+   Tatoeba-test.ita-vec: 2.0
+   Tatoeba-test.lad-fra: 30.4
+   Tatoeba-test.lad-gcf: 0.0
+   Tatoeba-test.lad-ita: 12.3
+   Tatoeba-test.lad-lat: 1.6
+   Tatoeba-test.lad-por: 8.8
+   Tatoeba-test.lad-ron: 78.3
+   Tatoeba-test.lad-spa: 28.3
+   Tatoeba-test.lat-fra: 9.4
+   Tatoeba-test.lat-ita: 20.0
+   Tatoeba-test.lat-lad: 3.8
+   Tatoeba-test.lat-por: 13.0
+   Tatoeba-test.lat-ron: 14.0
+   Tatoeba-test.lat-spa: 21.8
+   Tatoeba-test.lij-fra: 13.8
+   Tatoeba-test.lij-ita: 14.7
+   Tatoeba-test.lld-fra: 18.8
+   Tatoeba-test.lld-spa: 11.1
+   Tatoeba-test.lmo-fra: 11.0
+   Tatoeba-test.msa-fra: 0.8
+   Tatoeba-test.msa-ita: 1.1
+   Tatoeba-test.msa-msa: 19.1
+   Tatoeba-test.msa-pap: 0.0
+   Tatoeba-test.msa-por: 2.4
+   Tatoeba-test.msa-ron: 1.2
+   Tatoeba-test.msa-spa: 1.0
+   Tatoeba-test.multi-multi: 40.8
+   Tatoeba-test.mwl-por: 35.4
+   Tatoeba-test.oci-fra: 24.5
+   Tatoeba-test.oci-ita: 23.3
+   Tatoeba-test.oci-spa: 26.1
+   Tatoeba-test.pap-fra: 31.0
+   Tatoeba-test.pap-msa: 0.0
+   Tatoeba-test.pcd-fra: 13.8
+   Tatoeba-test.pcd-spa: 2.6
+   Tatoeba-test.pms-cos: 3.4
+   Tatoeba-test.pms-fra: 13.4
+   Tatoeba-test.pms-ita: 13.0
+   Tatoeba-test.pms-spa: 13.1
+   Tatoeba-test.por-ast: 100.0
+   Tatoeba-test.por-cat: 45.1
+   Tatoeba-test.por-fra: 52.5
+   Tatoeba-test.por-gcf: 16.0
+   Tatoeba-test.por-glg: 57.5
+   Tatoeba-test.por-ita: 50.1
+   Tatoeba-test.por-lad: 15.7
+   Tatoeba-test.por-lat: 11.1
+   Tatoeba-test.por-msa: 2.4
+   Tatoeba-test.por-mwl: 30.5
+   Tatoeba-test.por-roh: 0.0
+   Tatoeba-test.por-ron: 40.0
+   Tatoeba-test.por-spa: 58.6
+   Tatoeba-test.roh-fra: 23.1
+   Tatoeba-test.roh-por: 21.4
+   Tatoeba-test.roh-spa: 19.8
+   Tatoeba-test.ron-cat: 59.5
+   Tatoeba-test.ron-fra: 47.4
+   Tatoeba-test.ron-ita: 45.7
+   Tatoeba-test.ron-lad: 44.2
+   Tatoeba-test.ron-lat: 14.8
+   Tatoeba-test.ron-msa: 1.2
+   Tatoeba-test.ron-por: 42.7
+   Tatoeba-test.ron-spa: 50.4
+   Tatoeba-test.scn-fra: 2.4
+   Tatoeba-test.scn-spa: 5.1
+   Tatoeba-test.spa-arg: 10.8
+   Tatoeba-test.spa-ast: 24.6
+   Tatoeba-test.spa-cat: 61.6
+   Tatoeba-test.spa-egl: 2.2
+   Tatoeba-test.spa-fra: 51.1
+   Tatoeba-test.spa-gcf: 7.8
+   Tatoeba-test.spa-glg: 62.8
+   Tatoeba-test.spa-hat: 16.6
+   Tatoeba-test.spa-ita: 51.8
+   Tatoeba-test.spa-lad: 14.6
+   Tatoeba-test.spa-lat: 21.5
+   Tatoeba-test.spa-lld: 2.0
+   Tatoeba-test.spa-msa: 0.8
+   Tatoeba-test.spa-oci: 10.3
+   Tatoeba-test.spa-pcd: 0.9
+   Tatoeba-test.spa-pms: 1.5
+   Tatoeba-test.spa-por: 49.4
+   Tatoeba-test.spa-roh: 4.6
+   Tatoeba-test.spa-ron: 39.1
+   Tatoeba-test.spa-scn: 2.0
+   Tatoeba-test.spa-wln: 8.7
+   Tatoeba-test.srd-fra: 6.7
+   Tatoeba-test.vec-fra: 59.9
+   Tatoeba-test.vec-ita: 14.2
+   Tatoeba-test.wln-fra: 8.9
+   Tatoeba-test.wln-spa: 9.6
 chr-F-scores:
-   - Tatoeba-test.arg-fra: 0.501
-   - Tatoeba-test.arg-spa: 0.739
-   - Tatoeba-test.ast-fra: 0.628
-   - Tatoeba-test.ast-por: 1.000
-   - Tatoeba-test.ast-spa: 0.636
-   - Tatoeba-test.cat-fra: 0.689
-   - Tatoeba-test.cat-ita: 0.699
-   - Tatoeba-test.cat-por: 0.688
-   - Tatoeba-test.cat-ron: 0.719
-   - Tatoeba-test.cat-spa: 0.826
-   - Tatoeba-test.cos-fra: 0.383
-   - Tatoeba-test.cos-pms: 0.199
-   - Tatoeba-test.egl-fra: 0.283
-   - Tatoeba-test.egl-ita: 0.206
-   - Tatoeba-test.egl-spa: 0.194
-   - Tatoeba-test.fra-arg: 0.090
-   - Tatoeba-test.fra-ast: 0.457
-   - Tatoeba-test.fra-cat: 0.637
-   - Tatoeba-test.fra-cos: 0.185
-   - Tatoeba-test.fra-egl: 0.120
-   - Tatoeba-test.fra-frm: 0.191
-   - Tatoeba-test.fra-gcf: 0.099
-   - Tatoeba-test.fra-glg: 0.625
-   - Tatoeba-test.fra-hat: 0.472
-   - Tatoeba-test.fra-ita: 0.679
-   - Tatoeba-test.fra-lad: 0.345
-   - Tatoeba-test.fra-lat: 0.247
-   - Tatoeba-test.fra-lij: 0.201
-   - Tatoeba-test.fra-lld: 0.257
-   - Tatoeba-test.fra-lmo: 0.241
-   - Tatoeba-test.fra-msa: 0.111
-   - Tatoeba-test.fra-oci: 0.322
-   - Tatoeba-test.fra-pap: 0.912
-   - Tatoeba-test.fra-pcd: 0.144
-   - Tatoeba-test.fra-pms: 0.181
-   - Tatoeba-test.fra-por: 0.619
-   - Tatoeba-test.fra-roh: 0.286
-   - Tatoeba-test.fra-ron: 0.591
-   - Tatoeba-test.fra-scn: 0.101
-   - Tatoeba-test.fra-spa: 0.670
-   - Tatoeba-test.fra-srd: 0.306
-   - Tatoeba-test.fra-vec: 0.345
-   - Tatoeba-test.fra-wln: 0.212
-   - Tatoeba-test.frm-fra: 0.472
-   - Tatoeba-test.gcf-fra: 0.267
-   - Tatoeba-test.gcf-lad: 0.170
-   - Tatoeba-test.gcf-por: 0.230
-   - Tatoeba-test.gcf-spa: 0.314
-   - Tatoeba-test.glg-fra: 0.702
-   - Tatoeba-test.glg-ita: 0.661
-   - Tatoeba-test.glg-por: 0.748
-   - Tatoeba-test.glg-spa: 0.817
-   - Tatoeba-test.hat-fra: 0.419
-   - Tatoeba-test.hat-spa: 0.449
-   - Tatoeba-test.ita-cat: 0.693
-   - Tatoeba-test.ita-egl: 0.114
-   - Tatoeba-test.ita-fra: 0.727
-   - Tatoeba-test.ita-glg: 0.652
-   - Tatoeba-test.ita-lad: 0.419
-   - Tatoeba-test.ita-lat: 0.294
-   - Tatoeba-test.ita-lij: 0.208
-   - Tatoeba-test.ita-msa: 0.115
-   - Tatoeba-test.ita-oci: 0.378
-   - Tatoeba-test.ita-pms: 0.182
-   - Tatoeba-test.ita-por: 0.665
-   - Tatoeba-test.ita-ron: 0.653
-   - Tatoeba-test.ita-spa: 0.733
-   - Tatoeba-test.ita-vec: 0.187
-   - Tatoeba-test.lad-fra: 0.458
-   - Tatoeba-test.lad-gcf: 0.163
-   - Tatoeba-test.lad-ita: 0.426
-   - Tatoeba-test.lad-lat: 0.178
-   - Tatoeba-test.lad-por: 0.394
-   - Tatoeba-test.lad-ron: 0.717
-   - Tatoeba-test.lad-spa: 0.531
-   - Tatoeba-test.lat-fra: 0.300
-   - Tatoeba-test.lat-ita: 0.421
-   - Tatoeba-test.lat-lad: 0.173
-   - Tatoeba-test.lat-por: 0.354
-   - Tatoeba-test.lat-ron: 0.358
-   - Tatoeba-test.lat-spa: 0.436
-   - Tatoeba-test.lij-fra: 0.346
-   - Tatoeba-test.lij-ita: 0.442
-   - Tatoeba-test.lld-fra: 0.428
-   - Tatoeba-test.lld-spa: 0.377
-   - Tatoeba-test.lmo-fra: 0.329
-   - Tatoeba-test.msa-fra: 0.129
-   - Tatoeba-test.msa-ita: 0.138
-   - Tatoeba-test.msa-msa: 0.453
-   - Tatoeba-test.msa-pap: 0.037
-   - Tatoeba-test.msa-por: 0.155
-   - Tatoeba-test.msa-ron: 0.129
-   - Tatoeba-test.msa-spa: 0.139
-   - Tatoeba-test.multi-multi: 0.599
-   - Tatoeba-test.mwl-por: 0.561
-   - Tatoeba-test.oci-fra: 0.467
-   - Tatoeba-test.oci-ita: 0.493
-   - Tatoeba-test.oci-spa: 0.505
-   - Tatoeba-test.pap-fra: 0.629
-   - Tatoeba-test.pap-msa: 0.051
-   - Tatoeba-test.pcd-fra: 0.381
-   - Tatoeba-test.pcd-spa: 0.227
-   - Tatoeba-test.pms-cos: 0.217
-   - Tatoeba-test.pms-fra: 0.347
-   - Tatoeba-test.pms-ita: 0.373
-   - Tatoeba-test.pms-spa: 0.374
-   - Tatoeba-test.por-ast: 1.000
-   - Tatoeba-test.por-cat: 0.673
-   - Tatoeba-test.por-fra: 0.698
-   - Tatoeba-test.por-gcf: 0.128
-   - Tatoeba-test.por-glg: 0.750
-   - Tatoeba-test.por-ita: 0.710
-   - Tatoeba-test.por-lad: 0.341
-   - Tatoeba-test.por-lat: 0.362
-   - Tatoeba-test.por-msa: 0.136
-   - Tatoeba-test.por-mwl: 0.559
-   - Tatoeba-test.por-roh: 0.132
-   - Tatoeba-test.por-ron: 0.632
-   - Tatoeba-test.por-spa: 0.756
-   - Tatoeba-test.roh-fra: 0.564
-   - Tatoeba-test.roh-por: 0.347
-   - Tatoeba-test.roh-spa: 0.489
-   - Tatoeba-test.ron-cat: 0.854
-   - Tatoeba-test.ron-fra: 0.647
-   - Tatoeba-test.ron-ita: 0.683
-   - Tatoeba-test.ron-lad: 0.712
-   - Tatoeba-test.ron-lat: 0.449
-   - Tatoeba-test.ron-msa: 0.098
-   - Tatoeba-test.ron-por: 0.650
-   - Tatoeba-test.ron-spa: 0.686
-   - Tatoeba-test.scn-fra: 0.180
-   - Tatoeba-test.scn-spa: 0.212
-   - Tatoeba-test.spa-arg: 0.267
-   - Tatoeba-test.spa-ast: 0.514
-   - Tatoeba-test.spa-cat: 0.783
-   - Tatoeba-test.spa-egl: 0.106
-   - Tatoeba-test.spa-fra: 0.683
-   - Tatoeba-test.spa-gcf: 0.067
-   - Tatoeba-test.spa-glg: 0.776
-   - Tatoeba-test.spa-hat: 0.398
-   - Tatoeba-test.spa-ita: 0.718
-   - Tatoeba-test.spa-lad: 0.393
-   - Tatoeba-test.spa-lat: 0.486
-   - Tatoeba-test.spa-lld: 0.222
-   - Tatoeba-test.spa-msa: 0.113
-   - Tatoeba-test.spa-oci: 0.377
-   - Tatoeba-test.spa-pcd: 0.115
-   - Tatoeba-test.spa-pms: 0.194
-   - Tatoeba-test.spa-por: 0.698
-   - Tatoeba-test.spa-roh: 0.261
-   - Tatoeba-test.spa-ron: 0.618
-   - Tatoeba-test.spa-scn: 0.113
-   - Tatoeba-test.spa-wln: 0.295
-   - Tatoeba-test.srd-fra: 0.369
-   - Tatoeba-test.vec-fra: 0.608
-   - Tatoeba-test.vec-ita: 0.405
-   - Tatoeba-test.wln-fra: 0.344
-   - Tatoeba-test.wln-spa: 0.298
+   Tatoeba-test.arg-fra: 0.501
+   Tatoeba-test.arg-spa: 0.739
+   Tatoeba-test.ast-fra: 0.628
+   Tatoeba-test.ast-por: 1.000
+   Tatoeba-test.ast-spa: 0.636
+   Tatoeba-test.cat-fra: 0.689
+   Tatoeba-test.cat-ita: 0.699
+   Tatoeba-test.cat-por: 0.688
+   Tatoeba-test.cat-ron: 0.719
+   Tatoeba-test.cat-spa: 0.826
+   Tatoeba-test.cos-fra: 0.383
+   Tatoeba-test.cos-pms: 0.199
+   Tatoeba-test.egl-fra: 0.283
+   Tatoeba-test.egl-ita: 0.206
+   Tatoeba-test.egl-spa: 0.194
+   Tatoeba-test.fra-arg: 0.090
+   Tatoeba-test.fra-ast: 0.457
+   Tatoeba-test.fra-cat: 0.637
+   Tatoeba-test.fra-cos: 0.185
+   Tatoeba-test.fra-egl: 0.120
+   Tatoeba-test.fra-frm: 0.191
+   Tatoeba-test.fra-gcf: 0.099
+   Tatoeba-test.fra-glg: 0.625
+   Tatoeba-test.fra-hat: 0.472
+   Tatoeba-test.fra-ita: 0.679
+   Tatoeba-test.fra-lad: 0.345
+   Tatoeba-test.fra-lat: 0.247
+   Tatoeba-test.fra-lij: 0.201
+   Tatoeba-test.fra-lld: 0.257
+   Tatoeba-test.fra-lmo: 0.241
+   Tatoeba-test.fra-msa: 0.111
+   Tatoeba-test.fra-oci: 0.322
+   Tatoeba-test.fra-pap: 0.912
+   Tatoeba-test.fra-pcd: 0.144
+   Tatoeba-test.fra-pms: 0.181
+   Tatoeba-test.fra-por: 0.619
+   Tatoeba-test.fra-roh: 0.286
+   Tatoeba-test.fra-ron: 0.591
+   Tatoeba-test.fra-scn: 0.101
+   Tatoeba-test.fra-spa: 0.670
+   Tatoeba-test.fra-srd: 0.306
+   Tatoeba-test.fra-vec: 0.345
+   Tatoeba-test.fra-wln: 0.212
+   Tatoeba-test.frm-fra: 0.472
+   Tatoeba-test.gcf-fra: 0.267
+   Tatoeba-test.gcf-lad: 0.170
+   Tatoeba-test.gcf-por: 0.230
+   Tatoeba-test.gcf-spa: 0.314
+   Tatoeba-test.glg-fra: 0.702
+   Tatoeba-test.glg-ita: 0.661
+   Tatoeba-test.glg-por: 0.748
+   Tatoeba-test.glg-spa: 0.817
+   Tatoeba-test.hat-fra: 0.419
+   Tatoeba-test.hat-spa: 0.449
+   Tatoeba-test.ita-cat: 0.693
+   Tatoeba-test.ita-egl: 0.114
+   Tatoeba-test.ita-fra: 0.727
+   Tatoeba-test.ita-glg: 0.652
+   Tatoeba-test.ita-lad: 0.419
+   Tatoeba-test.ita-lat: 0.294
+   Tatoeba-test.ita-lij: 0.208
+   Tatoeba-test.ita-msa: 0.115
+   Tatoeba-test.ita-oci: 0.378
+   Tatoeba-test.ita-pms: 0.182
+   Tatoeba-test.ita-por: 0.665
+   Tatoeba-test.ita-ron: 0.653
+   Tatoeba-test.ita-spa: 0.733
+   Tatoeba-test.ita-vec: 0.187
+   Tatoeba-test.lad-fra: 0.458
+   Tatoeba-test.lad-gcf: 0.163
+   Tatoeba-test.lad-ita: 0.426
+   Tatoeba-test.lad-lat: 0.178
+   Tatoeba-test.lad-por: 0.394
+   Tatoeba-test.lad-ron: 0.717
+   Tatoeba-test.lad-spa: 0.531
+   Tatoeba-test.lat-fra: 0.300
+   Tatoeba-test.lat-ita: 0.421
+   Tatoeba-test.lat-lad: 0.173
+   Tatoeba-test.lat-por: 0.354
+   Tatoeba-test.lat-ron: 0.358
+   Tatoeba-test.lat-spa: 0.436
+   Tatoeba-test.lij-fra: 0.346
+   Tatoeba-test.lij-ita: 0.442
+   Tatoeba-test.lld-fra: 0.428
+   Tatoeba-test.lld-spa: 0.377
+   Tatoeba-test.lmo-fra: 0.329
+   Tatoeba-test.msa-fra: 0.129
+   Tatoeba-test.msa-ita: 0.138
+   Tatoeba-test.msa-msa: 0.453
+   Tatoeba-test.msa-pap: 0.037
+   Tatoeba-test.msa-por: 0.155
+   Tatoeba-test.msa-ron: 0.129
+   Tatoeba-test.msa-spa: 0.139
+   Tatoeba-test.multi-multi: 0.599
+   Tatoeba-test.mwl-por: 0.561
+   Tatoeba-test.oci-fra: 0.467
+   Tatoeba-test.oci-ita: 0.493
+   Tatoeba-test.oci-spa: 0.505
+   Tatoeba-test.pap-fra: 0.629
+   Tatoeba-test.pap-msa: 0.051
+   Tatoeba-test.pcd-fra: 0.381
+   Tatoeba-test.pcd-spa: 0.227
+   Tatoeba-test.pms-cos: 0.217
+   Tatoeba-test.pms-fra: 0.347
+   Tatoeba-test.pms-ita: 0.373
+   Tatoeba-test.pms-spa: 0.374
+   Tatoeba-test.por-ast: 1.000
+   Tatoeba-test.por-cat: 0.673
+   Tatoeba-test.por-fra: 0.698
+   Tatoeba-test.por-gcf: 0.128
+   Tatoeba-test.por-glg: 0.750
+   Tatoeba-test.por-ita: 0.710
+   Tatoeba-test.por-lad: 0.341
+   Tatoeba-test.por-lat: 0.362
+   Tatoeba-test.por-msa: 0.136
+   Tatoeba-test.por-mwl: 0.559
+   Tatoeba-test.por-roh: 0.132
+   Tatoeba-test.por-ron: 0.632
+   Tatoeba-test.por-spa: 0.756
+   Tatoeba-test.roh-fra: 0.564
+   Tatoeba-test.roh-por: 0.347
+   Tatoeba-test.roh-spa: 0.489
+   Tatoeba-test.ron-cat: 0.854
+   Tatoeba-test.ron-fra: 0.647
+   Tatoeba-test.ron-ita: 0.683
+   Tatoeba-test.ron-lad: 0.712
+   Tatoeba-test.ron-lat: 0.449
+   Tatoeba-test.ron-msa: 0.098
+   Tatoeba-test.ron-por: 0.650
+   Tatoeba-test.ron-spa: 0.686
+   Tatoeba-test.scn-fra: 0.180
+   Tatoeba-test.scn-spa: 0.212
+   Tatoeba-test.spa-arg: 0.267
+   Tatoeba-test.spa-ast: 0.514
+   Tatoeba-test.spa-cat: 0.783
+   Tatoeba-test.spa-egl: 0.106
+   Tatoeba-test.spa-fra: 0.683
+   Tatoeba-test.spa-gcf: 0.067
+   Tatoeba-test.spa-glg: 0.776
+   Tatoeba-test.spa-hat: 0.398
+   Tatoeba-test.spa-ita: 0.718
+   Tatoeba-test.spa-lad: 0.393
+   Tatoeba-test.spa-lat: 0.486
+   Tatoeba-test.spa-lld: 0.222
+   Tatoeba-test.spa-msa: 0.113
+   Tatoeba-test.spa-oci: 0.377
+   Tatoeba-test.spa-pcd: 0.115
+   Tatoeba-test.spa-pms: 0.194
+   Tatoeba-test.spa-por: 0.698
+   Tatoeba-test.spa-roh: 0.261
+   Tatoeba-test.spa-ron: 0.618
+   Tatoeba-test.spa-scn: 0.113
+   Tatoeba-test.spa-wln: 0.295
+   Tatoeba-test.srd-fra: 0.369
+   Tatoeba-test.vec-fra: 0.608
+   Tatoeba-test.vec-ita: 0.405
+   Tatoeba-test.wln-fra: 0.344
+   Tatoeba-test.wln-spa: 0.298

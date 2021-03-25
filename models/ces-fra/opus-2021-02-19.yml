@@ -4,45 +4,45 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - ces
 target-languages:
    - fra
 training-data:
-   - ces-fra: Tatoeba-train (35981979) 
+   ces-fra: Tatoeba-train (35981979) 
 validation-data:
-   - ces-fra: Tatoeba-dev, 1000
-   - total size of shuffled dev data: 1000
-   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+   ces-fra: Tatoeba-dev, 1000
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - newssyscomb2009.ces-fra: 502/12334
-   - news-test2008.ces-fra: 2051/52685
-   - newstest2009.ces-fra: 2525/69278
-   - newstest2010.ces-fra: 2489/66043
-   - newstest2011.ces-fra: 3003/80626
-   - newstest2012.ces-fra: 3003/78011
-   - newstest2013.ces-fra: 3000/70037
-   - Tatoeba-test.ces-fra: 425/3231
+   newssyscomb2009.ces-fra: 502/12334
+   news-test2008.ces-fra: 2051/52685
+   newstest2009.ces-fra: 2525/69278
+   newstest2010.ces-fra: 2489/66043
+   newstest2011.ces-fra: 3003/80626
+   newstest2012.ces-fra: 3003/78011
+   newstest2013.ces-fra: 3000/70037
+   Tatoeba-test.ces-fra: 425/3231
 BLEU-scores:
-   - newssyscomb2009.ces-fra: 26.9
-   - news-test2008.ces-fra: 24.5
-   - newstest2009.ces-fra: 25.3
-   - newstest2010.ces-fra: 26.0
-   - newstest2011.ces-fra: 27.3
-   - newstest2012.ces-fra: 26.1
-   - newstest2013.ces-fra: 27.9
-   - Tatoeba-test.ces-fra: 56.0
+   newssyscomb2009.ces-fra: 26.9
+   news-test2008.ces-fra: 24.5
+   newstest2009.ces-fra: 25.3
+   newstest2010.ces-fra: 26.0
+   newstest2011.ces-fra: 27.3
+   newstest2012.ces-fra: 26.1
+   newstest2013.ces-fra: 27.9
+   Tatoeba-test.ces-fra: 56.0
 chr-F-scores:
-   - newssyscomb2009.ces-fra: 0.559
-   - news-test2008.ces-fra: 0.537
-   - newstest2009.ces-fra: 0.541
-   - newstest2010.ces-fra: 0.549
-   - newstest2011.ces-fra: 0.551
-   - newstest2012.ces-fra: 0.542
-   - newstest2013.ces-fra: 0.548
-   - Tatoeba-test.ces-fra: 0.720
+   newssyscomb2009.ces-fra: 0.559
+   news-test2008.ces-fra: 0.537
+   newstest2009.ces-fra: 0.541
+   newstest2010.ces-fra: 0.549
+   newstest2011.ces-fra: 0.551
+   newstest2012.ces-fra: 0.542
+   newstest2013.ces-fra: 0.548
+   Tatoeba-test.ces-fra: 0.720

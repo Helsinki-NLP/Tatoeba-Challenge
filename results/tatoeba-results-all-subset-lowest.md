@@ -48,6 +48,7 @@ to be useful for anything.
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.136 | 0.9 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.132 | 0.2 |
 | | lang = eng-cor | | | | |
+| [eng-cel/opus2m+bt](../models/eng-cel) | tatoeba | 0.163 | 3.3 |
 | [eng-cel/opus2m](../models/eng-cel) | tatoeba | 0.095 | 0.3 |
 | [eng-cel/opus](../models/eng-cel) | tatoeba | 0.094 | 0.2 |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.088 | 0.7 |

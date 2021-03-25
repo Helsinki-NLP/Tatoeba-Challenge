@@ -4,11 +4,11 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - dan
    - eng
@@ -28,117 +28,117 @@ target-languages:
    - non
    - swe
 use-target-labels:
-   - >>dan<<
-   - >>eng<<
-   - >>fao<<
-   - >>isl<<
-   - >>nno<<
-   - >>nob<<
-   - >>nob_Hebr<<
-   - >>non_Latn<<
-   - >>swe<<
+   '>>dan<<'
+   '>>eng<<'
+   '>>fao<<'
+   '>>isl<<'
+   '>>nno<<'
+   '>>nob<<'
+   '>>nob_Hebr<<'
+   '>>non_Latn<<'
+   '>>swe<<'
 test-data:
-   - Tatoeba-test.dan-eng: 10000/62015
-   - Tatoeba-test.dan-fao: 1/5
-   - Tatoeba-test.dan-isl: 1/8
-   - Tatoeba-test.dan-nor: 1311/8216
-   - Tatoeba-test.dan-swe: 1550/8385
-   - Tatoeba-test.eng-dan: 10000/61469
-   - Tatoeba-test.eng-fao: 294/1564
-   - Tatoeba-test.eng-isl: 2500/16288
-   - Tatoeba-test.eng-non: 15/109
-   - Tatoeba-test.eng-nor: 5000/33820
-   - Tatoeba-test.eng-swe: 10000/54832
-   - Tatoeba-test.fao-dan: 1/5
-   - Tatoeba-test.fao-eng: 294/1631
-   - Tatoeba-test.fao-isl: 2/5
-   - Tatoeba-test.fao-nor: 21/102
-   - Tatoeba-test.fao-swe: 1/2
-   - Tatoeba-test.isl-dan: 1/10
-   - Tatoeba-test.isl-eng: 2500/16860
-   - Tatoeba-test.isl-fao: 2/5
-   - Tatoeba-test.isl-nor: 126/775
-   - Tatoeba-test.isl-swe: 1/10
-   - Tatoeba-test.multi-multi: 10000/60854
-   - Tatoeba-test.non-eng: 15/112
-   - Tatoeba-test.nor-dan: 1311/8343
-   - Tatoeba-test.nor-eng: 5000/34479
-   - Tatoeba-test.nor-fao: 21/101
-   - Tatoeba-test.nor-isl: 126/739
-   - Tatoeba-test.nor-nor: 948/5317
-   - Tatoeba-test.nor-swe: 562/3035
-   - Tatoeba-test.swe-dan: 1550/8503
-   - Tatoeba-test.swe-eng: 10000/54997
-   - Tatoeba-test.swe-fao: 1/2
-   - Tatoeba-test.swe-isl: 1/8
-   - Tatoeba-test.swe-nor: 562/3039
+   Tatoeba-test.dan-eng: 10000/62015
+   Tatoeba-test.dan-fao: 1/5
+   Tatoeba-test.dan-isl: 1/8
+   Tatoeba-test.dan-nor: 1311/8216
+   Tatoeba-test.dan-swe: 1550/8385
+   Tatoeba-test.eng-dan: 10000/61469
+   Tatoeba-test.eng-fao: 294/1564
+   Tatoeba-test.eng-isl: 2500/16288
+   Tatoeba-test.eng-non: 15/109
+   Tatoeba-test.eng-nor: 5000/33820
+   Tatoeba-test.eng-swe: 10000/54832
+   Tatoeba-test.fao-dan: 1/5
+   Tatoeba-test.fao-eng: 294/1631
+   Tatoeba-test.fao-isl: 2/5
+   Tatoeba-test.fao-nor: 21/102
+   Tatoeba-test.fao-swe: 1/2
+   Tatoeba-test.isl-dan: 1/10
+   Tatoeba-test.isl-eng: 2500/16860
+   Tatoeba-test.isl-fao: 2/5
+   Tatoeba-test.isl-nor: 126/775
+   Tatoeba-test.isl-swe: 1/10
+   Tatoeba-test.multi-multi: 10000/60854
+   Tatoeba-test.non-eng: 15/112
+   Tatoeba-test.nor-dan: 1311/8343
+   Tatoeba-test.nor-eng: 5000/34479
+   Tatoeba-test.nor-fao: 21/101
+   Tatoeba-test.nor-isl: 126/739
+   Tatoeba-test.nor-nor: 948/5317
+   Tatoeba-test.nor-swe: 562/3035
+   Tatoeba-test.swe-dan: 1550/8503
+   Tatoeba-test.swe-eng: 10000/54997
+   Tatoeba-test.swe-fao: 1/2
+   Tatoeba-test.swe-isl: 1/8
+   Tatoeba-test.swe-nor: 562/3039
 BLEU-scores:
-   - Tatoeba-test.dan-eng: 59.1
-   - Tatoeba-test.dan-fao: 6.6
-   - Tatoeba-test.dan-isl: 65.8
-   - Tatoeba-test.dan-nor: 74.3
-   - Tatoeba-test.dan-swe: 69.5
-   - Tatoeba-test.eng-dan: 57.0
-   - Tatoeba-test.eng-fao: 8.3
-   - Tatoeba-test.eng-isl: 24.2
-   - Tatoeba-test.eng-non: 0.3
-   - Tatoeba-test.eng-nor: 51.7
-   - Tatoeba-test.eng-swe: 57.3
-   - Tatoeba-test.fao-dan: 23.0
-   - Tatoeba-test.fao-eng: 26.0
-   - Tatoeba-test.fao-isl: 19.0
-   - Tatoeba-test.fao-nor: 47.8
-   - Tatoeba-test.fao-swe: 0.0
-   - Tatoeba-test.isl-dan: 77.7
-   - Tatoeba-test.isl-eng: 49.6
-   - Tatoeba-test.isl-fao: 14.5
-   - Tatoeba-test.isl-nor: 60.5
-   - Tatoeba-test.isl-swe: 60.0
-   - Tatoeba-test.multi-multi: 57.0
-   - Tatoeba-test.non-eng: 26.7
-   - Tatoeba-test.nor-dan: 71.5
-   - Tatoeba-test.nor-eng: 54.2
-   - Tatoeba-test.nor-fao: 13.1
-   - Tatoeba-test.nor-isl: 29.7
-   - Tatoeba-test.nor-nor: 61.9
-   - Tatoeba-test.nor-swe: 72.9
-   - Tatoeba-test.swe-dan: 68.7
-   - Tatoeba-test.swe-eng: 60.9
-   - Tatoeba-test.swe-fao: 12.7
-   - Tatoeba-test.swe-isl: 65.8
-   - Tatoeba-test.swe-nor: 72.0
+   Tatoeba-test.dan-eng: 59.1
+   Tatoeba-test.dan-fao: 6.6
+   Tatoeba-test.dan-isl: 65.8
+   Tatoeba-test.dan-nor: 74.3
+   Tatoeba-test.dan-swe: 69.5
+   Tatoeba-test.eng-dan: 57.0
+   Tatoeba-test.eng-fao: 8.3
+   Tatoeba-test.eng-isl: 24.2
+   Tatoeba-test.eng-non: 0.3
+   Tatoeba-test.eng-nor: 51.7
+   Tatoeba-test.eng-swe: 57.3
+   Tatoeba-test.fao-dan: 23.0
+   Tatoeba-test.fao-eng: 26.0
+   Tatoeba-test.fao-isl: 19.0
+   Tatoeba-test.fao-nor: 47.8
+   Tatoeba-test.fao-swe: 0.0
+   Tatoeba-test.isl-dan: 77.7
+   Tatoeba-test.isl-eng: 49.6
+   Tatoeba-test.isl-fao: 14.5
+   Tatoeba-test.isl-nor: 60.5
+   Tatoeba-test.isl-swe: 60.0
+   Tatoeba-test.multi-multi: 57.0
+   Tatoeba-test.non-eng: 26.7
+   Tatoeba-test.nor-dan: 71.5
+   Tatoeba-test.nor-eng: 54.2
+   Tatoeba-test.nor-fao: 13.1
+   Tatoeba-test.nor-isl: 29.7
+   Tatoeba-test.nor-nor: 61.9
+   Tatoeba-test.nor-swe: 72.9
+   Tatoeba-test.swe-dan: 68.7
+   Tatoeba-test.swe-eng: 60.9
+   Tatoeba-test.swe-fao: 12.7
+   Tatoeba-test.swe-isl: 65.8
+   Tatoeba-test.swe-nor: 72.0
 chr-F-scores:
-   - Tatoeba-test.dan-eng: 0.737
-   - Tatoeba-test.dan-fao: 0.162
-   - Tatoeba-test.dan-isl: 0.914
-   - Tatoeba-test.dan-nor: 0.849
-   - Tatoeba-test.dan-swe: 0.818
-   - Tatoeba-test.eng-dan: 0.717
-   - Tatoeba-test.eng-fao: 0.305
-   - Tatoeba-test.eng-isl: 0.505
-   - Tatoeba-test.eng-non: 0.160
-   - Tatoeba-test.eng-nor: 0.681
-   - Tatoeba-test.eng-swe: 0.710
-   - Tatoeba-test.fao-dan: 0.536
-   - Tatoeba-test.fao-eng: 0.454
-   - Tatoeba-test.fao-isl: 0.303
-   - Tatoeba-test.fao-nor: 0.631
-   - Tatoeba-test.fao-swe: 1.000
-   - Tatoeba-test.isl-dan: 0.901
-   - Tatoeba-test.isl-eng: 0.659
-   - Tatoeba-test.isl-fao: 0.183
-   - Tatoeba-test.isl-nor: 0.761
-   - Tatoeba-test.isl-swe: 0.800
-   - Tatoeba-test.multi-multi: 0.716
-   - Tatoeba-test.non-eng: 0.501
-   - Tatoeba-test.nor-dan: 0.834
-   - Tatoeba-test.nor-eng: 0.694
-   - Tatoeba-test.nor-fao: 0.377
-   - Tatoeba-test.nor-isl: 0.545
-   - Tatoeba-test.nor-nor: 0.786
-   - Tatoeba-test.nor-swe: 0.838
-   - Tatoeba-test.swe-dan: 0.809
-   - Tatoeba-test.swe-eng: 0.737
-   - Tatoeba-test.swe-fao: 0.290
-   - Tatoeba-test.swe-isl: 0.914
-   - Tatoeba-test.swe-nor: 0.832
+   Tatoeba-test.dan-eng: 0.737
+   Tatoeba-test.dan-fao: 0.162
+   Tatoeba-test.dan-isl: 0.914
+   Tatoeba-test.dan-nor: 0.849
+   Tatoeba-test.dan-swe: 0.818
+   Tatoeba-test.eng-dan: 0.717
+   Tatoeba-test.eng-fao: 0.305
+   Tatoeba-test.eng-isl: 0.505
+   Tatoeba-test.eng-non: 0.160
+   Tatoeba-test.eng-nor: 0.681
+   Tatoeba-test.eng-swe: 0.710
+   Tatoeba-test.fao-dan: 0.536
+   Tatoeba-test.fao-eng: 0.454
+   Tatoeba-test.fao-isl: 0.303
+   Tatoeba-test.fao-nor: 0.631
+   Tatoeba-test.fao-swe: 1.000
+   Tatoeba-test.isl-dan: 0.901
+   Tatoeba-test.isl-eng: 0.659
+   Tatoeba-test.isl-fao: 0.183
+   Tatoeba-test.isl-nor: 0.761
+   Tatoeba-test.isl-swe: 0.800
+   Tatoeba-test.multi-multi: 0.716
+   Tatoeba-test.non-eng: 0.501
+   Tatoeba-test.nor-dan: 0.834
+   Tatoeba-test.nor-eng: 0.694
+   Tatoeba-test.nor-fao: 0.377
+   Tatoeba-test.nor-isl: 0.545
+   Tatoeba-test.nor-nor: 0.786
+   Tatoeba-test.nor-swe: 0.838
+   Tatoeba-test.swe-dan: 0.809
+   Tatoeba-test.swe-eng: 0.737
+   Tatoeba-test.swe-fao: 0.290
+   Tatoeba-test.swe-isl: 0.914
+   Tatoeba-test.swe-nor: 0.832

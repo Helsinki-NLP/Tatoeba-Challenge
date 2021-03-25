@@ -132,6 +132,7 @@ to be useful for anything.
 | [eng-trk/opus](../models/eng-trk) | tatoeba | 0.271 | 3.8 |
 | [eng-trk/opus2m](../models/eng-trk) | tatoeba | 0.270 | 4.3 |
 | | lang = eng-gla | | | | |
+| [eng-cel/opus2m+bt](../models/eng-cel) | tatoeba | 0.396 | 15.3 |
 | [eng-ine/opus2m](../models/eng-ine) | tatoeba | 0.361 | 11.6 |
 | [eng-ine/opus](../models/eng-ine) | tatoeba | 0.357 | 11.7 |
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.341 | 10.9 |
@@ -200,6 +201,7 @@ to be useful for anything.
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.205 | 11.7 |
 | [eng-ltz/opus](../models/eng-ltz) | tatoeba | 0.123 | 0.5 |
 | | lang = eng-oci | | | | |
+| [eng-roa/opus1m+bt](../models/eng-roa) | tatoeba | 0.335 | 10.2 |
 | [eng-roa/opus2m](../models/eng-roa) | tatoeba | 0.297 | 7.9 |
 | [eng-ine/opus2m](../models/eng-ine) | tatoeba | 0.295 | 7.2 |
 | [eng-itc/opus2m](../models/eng-itc) | tatoeba | 0.293 | 8.2 |

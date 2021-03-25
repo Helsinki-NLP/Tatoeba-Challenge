@@ -265,6 +265,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-cel/opus](../models/eng-cel) | 0.329 | 16.5 |
 | [eng-cel/opus](../models/eng-cel) | 0.324 | 15.8 |
 | [eng-cel/opus2m](../models/eng-cel) | 0.342 | 18.0 |
+| [eng-cel/opus2m+bt](../models/eng-cel) | 0.381 | 14.3 |
 | [eng-ces/opus](../models/eng-ces) | 0.663 | 47.8 |
 | [eng-cha/opus](../models/eng-cha) | 0.109 | 0.1 |
 | [eng-cpf/opus](../models/eng-cpf) | 0.354 | 15.9 |
@@ -377,6 +378,8 @@ For multilingual models, it is a mix of all language pairs
 | [eng-roa/opus](../models/eng-roa) | 0.633 | 42.6 |
 | [eng-roa/opus](../models/eng-roa) | 0.632 | 42.6 |
 | [eng-roa/opus](../models/eng-roa) | 0.631 | 42.3 |
+| [eng-roa/opus1m+bt](../models/eng-roa) | 0.609 | 39.7 |
+| [eng-roa/opus1m+bt](../models/eng-roa) | 0.607 | 39.0 |
 | [eng-roa/opus2m](../models/eng-roa) | 0.636 | 42.9 |
 | [eng-rom/opus](../models/eng-rom) | 0.134 | 0.4 |
 | [eng-ron/opus](../models/eng-ron) | 0.666 | 45.0 |
@@ -497,6 +500,7 @@ For multilingual models, it is a mix of all language pairs
 | [fin-nor/opus](../models/fin-nor) | 0.699 | 50.6 |
 | [fin-nor/opus](../models/fin-nor) | 0.426 | 23.5 |
 | [fin-swe/opus](../models/fin-swe) | 0.701 | 54.5 |
+| [fin-tur/opus+bt](../models/fin-tur) | 0.613 | 31.2 |
 | [fiu-aav/opus](../models/fiu-aav) | 0.336 | 18.9 |
 | [fiu-afa/opus](../models/fiu-afa) | 0.483 | 24.2 |
 | [fiu-bat/opus](../models/fiu-bat) | 0.588 | 34.1 |

@@ -4,24 +4,24 @@ dataset-name: opus+bt
 modeltype: transformer-align
 pre-processing: normalization + SentencePiece (spm4k,spm4k)
 subwords:
-   - source: spm4k
-   - target: spm4k
+   source: spm4k
+   target: spm4k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - eng
 target-languages:
    - fry
 training-data:
-   - eng-fry: Tatoeba-train (125195) wiki.aa.fry-eng (533404) wikibooks.aa.fry-eng (496) 
+   eng-fry: Tatoeba-train (125195) wiki.aa.fry-eng (533404) wikibooks.aa.fry-eng (496) 
 validation-data:
-   - eng-fry: Tatoeba-dev, 1000
-   - total size of shuffled dev data: 1000
-   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+   eng-fry: Tatoeba-dev, 1000
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.eng-fry: 205/1529
+   Tatoeba-test.eng-fry: 205/1529
 BLEU-scores:
-   - Tatoeba-test.eng-fry: 6.1
+   Tatoeba-test.eng-fry: 6.1
 chr-F-scores:
-   - Tatoeba-test.eng-fry: 0.220
+   Tatoeba-test.eng-fry: 0.220

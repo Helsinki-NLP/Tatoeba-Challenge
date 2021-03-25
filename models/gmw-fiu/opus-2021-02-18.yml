@@ -4,29 +4,29 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 use-target-labels:
-   - >>est<<
-   - >>fin<<
-   - >>fkv_Latn<<
-   - >>hun<<
-   - >>izh<<
-   - >>kom<<
-   - >>kpv<<
-   - >>krl<<
-   - >>liv_Latn<<
-   - >>mdf<<
-   - >>mhr<<
-   - >>mrj<<
-   - >>myv<<
-   - >>sma<<
-   - >>sme<<
-   - >>udm<<
-   - >>vro<<
+   '>>est<<'
+   '>>fin<<'
+   '>>fkv_Latn<<'
+   '>>hun<<'
+   '>>izh<<'
+   '>>kom<<'
+   '>>kpv<<'
+   '>>krl<<'
+   '>>liv_Latn<<'
+   '>>mdf<<'
+   '>>mhr<<'
+   '>>mrj<<'
+   '>>myv<<'
+   '>>sma<<'
+   '>>sme<<'
+   '>>udm<<'
+   '>>vro<<'
 source-languages:
    - afr
    - ang
@@ -57,214 +57,214 @@ target-languages:
    - udm
    - vro
 training-data:
-   - afr-est: Tatoeba-train (937729) 
-   - ang_Latn-fin: Tatoeba-train (5530) 
-   - ang_Latn-hun: Tatoeba-train (4668) 
-   - deu-est: Tatoeba-train (1000000) 
-   - deu-fin: Tatoeba-train (1000000) 
-   - deu-hun: Tatoeba-train (1000000) 
-   - deu-mhr: Tatoeba-train (3066) 
-   - deu-sme: Tatoeba-train (18301) 
-   - eng-est: Tatoeba-train (1000000) 
-   - eng-fin: Tatoeba-train (1000000) 
-   - eng-hun: Tatoeba-train (1000000) 
-   - eng-mhr: Tatoeba-train (13945) 
-   - eng-mrj: Tatoeba-train (2) 
-   - eng-sme: Tatoeba-train (50437) 
-   - eng-udm: Tatoeba-train (9109) 
-   - fry-est: Tatoeba-train (50635) 
-   - ltz-fin: Tatoeba-train (4211) 
-   - ltz-hun: Tatoeba-train (3938) 
-   - nld-est: Tatoeba-train (1000000) 
-   - nld-fin: Tatoeba-train (1000000) 
-   - nld-hun: Tatoeba-train (1000000) 
-   - yid-fin: Tatoeba-train (41689) 
-   - yid-hun: Tatoeba-train (1158) 
+   afr-est: Tatoeba-train (937729) 
+   ang_Latn-fin: Tatoeba-train (5530) 
+   ang_Latn-hun: Tatoeba-train (4668) 
+   deu-est: Tatoeba-train (1000000) 
+   deu-fin: Tatoeba-train (1000000) 
+   deu-hun: Tatoeba-train (1000000) 
+   deu-mhr: Tatoeba-train (3066) 
+   deu-sme: Tatoeba-train (18301) 
+   eng-est: Tatoeba-train (1000000) 
+   eng-fin: Tatoeba-train (1000000) 
+   eng-hun: Tatoeba-train (1000000) 
+   eng-mhr: Tatoeba-train (13945) 
+   eng-mrj: Tatoeba-train (2) 
+   eng-sme: Tatoeba-train (50437) 
+   eng-udm: Tatoeba-train (9109) 
+   fry-est: Tatoeba-train (50635) 
+   ltz-fin: Tatoeba-train (4211) 
+   ltz-hun: Tatoeba-train (3938) 
+   nld-est: Tatoeba-train (1000000) 
+   nld-fin: Tatoeba-train (1000000) 
+   nld-hun: Tatoeba-train (1000000) 
+   yid-fin: Tatoeba-train (41689) 
+   yid-hun: Tatoeba-train (1158) 
 validation-data:
-   - afr-est: Tatoeba-dev, 1000
-   - ang_Latn-fin: Tatoeba-dev, 977
-   - ang_Latn-hun: Tatoeba-dev, 987
-   - deu-est: Tatoeba-dev, 1000
-   - deu-fin: Tatoeba-dev, 7142
-   - deu-hun: Tatoeba-dev, 51954
-   - deu-mhr: Tatoeba-dev, 962
-   - deu-sme: Tatoeba-dev, 1000
-   - eng-est: Tatoeba-dev, 997
-   - eng-fin: Tatoeba-dev, 69721
-   - eng-hun: Tatoeba-dev, 95943
-   - eng-kom: Tatoeba-dev, 1
-   - eng-mdf: Tatoeba-dev, 2
-   - eng-mhr: Tatoeba-dev, 952
-   - eng-myv: Tatoeba-dev, 19
-   - eng-sme: Tatoeba-dev, 1000
-   - eng-udm: Tatoeba-dev, 1000
-   - eng-vro: Tatoeba-dev, 3
-   - est-fry: Tatoeba-dev, 1000
-   - fin-ltz: Tatoeba-dev, 1000
-   - hun-ltz: Tatoeba-dev, 1000
-   - est-nld: Tatoeba-dev, 1000
-   - fin-nld: Tatoeba-dev, 1000
-   - hun-nld: Tatoeba-dev, 1000
-   - fin-yid: Tatoeba-dev, 1000
-   - hun-yid: Tatoeba-dev, 1000
-   - total size of shuffled dev data: 240935
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   afr-est: Tatoeba-dev, 1000
+   ang_Latn-fin: Tatoeba-dev, 977
+   ang_Latn-hun: Tatoeba-dev, 987
+   deu-est: Tatoeba-dev, 1000
+   deu-fin: Tatoeba-dev, 7142
+   deu-hun: Tatoeba-dev, 51954
+   deu-mhr: Tatoeba-dev, 962
+   deu-sme: Tatoeba-dev, 1000
+   eng-est: Tatoeba-dev, 997
+   eng-fin: Tatoeba-dev, 69721
+   eng-hun: Tatoeba-dev, 95943
+   eng-kom: Tatoeba-dev, 1
+   eng-mdf: Tatoeba-dev, 2
+   eng-mhr: Tatoeba-dev, 952
+   eng-myv: Tatoeba-dev, 19
+   eng-sme: Tatoeba-dev, 1000
+   eng-udm: Tatoeba-dev, 1000
+   eng-vro: Tatoeba-dev, 3
+   est-fry: Tatoeba-dev, 1000
+   fin-ltz: Tatoeba-dev, 1000
+   hun-ltz: Tatoeba-dev, 1000
+   est-nld: Tatoeba-dev, 1000
+   fin-nld: Tatoeba-dev, 1000
+   hun-nld: Tatoeba-dev, 1000
+   fin-yid: Tatoeba-dev, 1000
+   hun-yid: Tatoeba-dev, 1000
+   total-size-shuffled: 240935
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - goethe-institute-test1.deu-fin: 2000/27070
-   - goethe-institute-test2.deu-fin: 2000/27014
-   - newsdev2015-enfi.eng-fin: 1500/23375
-   - newsdev2018-enet.eng-est: 2000/34508
-   - newssyscomb2009.deu-hun: 502/9733
-   - newssyscomb2009.eng-hun: 502/9733
-   - newstest2009.deu-hun: 2525/54965
-   - newstest2009.eng-hun: 2525/54965
-   - newstest2015-enfi.eng-fin: 1370/19968
-   - newstest2016-enfi.eng-fin: 3000/48116
-   - newstest2017-enfi.eng-fin: 3002/45718
-   - newstest2018-enet.eng-est: 2000/36236
-   - newstest2018-enfi.eng-fin: 3000/45475
-   - newstest2019-enfi.eng-fin: 1997/38369
-   - newstestB2016-enfi.eng-fin: 3000/45766
-   - newstestB2017-enfi.eng-fin: 3002/45506
-   - Tatoeba-test.afr-est: 1/26
-   - Tatoeba-test.ang-fin: 11/47
-   - Tatoeba-test.ang-hun: 3/13
-   - Tatoeba-test.bar-hun: 1/5
-   - Tatoeba-test.deu-chm: 137/845
-   - Tatoeba-test.deu-est: 217/1222
-   - Tatoeba-test.deu-fin: 2500/14145
-   - Tatoeba-test.deu-hun: 10000/68302
-   - Tatoeba-test.deu-sme: 5/25
-   - Tatoeba-test.eng-chm: 71/378
-   - Tatoeba-test.eng-est: 1359/7992
-   - Tatoeba-test.eng-fin: 10000/60517
-   - Tatoeba-test.eng-fkv: 71/560
-   - Tatoeba-test.eng-hun: 10000/58902
-   - Tatoeba-test.eng-izh: 6/22
-   - Tatoeba-test.eng-kom: 15/42
-   - Tatoeba-test.eng-krl: 149/698
-   - Tatoeba-test.eng-liv: 33/165
-   - Tatoeba-test.eng-mdf: 7/29
-   - Tatoeba-test.eng-myv: 25/105
-   - Tatoeba-test.eng-sma: 47/188
-   - Tatoeba-test.eng-sme: 62/252
-   - Tatoeba-test.eng-udm: 10/39
-   - Tatoeba-test.enm-fin: 141/669
-   - Tatoeba-test.enm-hun: 2/6
-   - Tatoeba-test.fry-est: 1/26
-   - Tatoeba-test.ltz-fin: 1/4
-   - Tatoeba-test.ltz-hun: 2/6
-   - Tatoeba-test.nld-est: 37/243
-   - Tatoeba-test.nld-fin: 314/1617
-   - Tatoeba-test.nld-hun: 1629/9252
-   - Tatoeba-test.nld-krl: 119/526
-   - Tatoeba-test.multi-multi: 10000/61277
-   - Tatoeba-test.swg-hun: 4/30
-   - Tatoeba-test.yid-fin: 1/3
-   - Tatoeba-test.yid-hun: 63/285
+   goethe-institute-test1.deu-fin: 2000/27070
+   goethe-institute-test2.deu-fin: 2000/27014
+   newsdev2015-enfi.eng-fin: 1500/23375
+   newsdev2018-enet.eng-est: 2000/34508
+   newssyscomb2009.deu-hun: 502/9733
+   newssyscomb2009.eng-hun: 502/9733
+   newstest2009.deu-hun: 2525/54965
+   newstest2009.eng-hun: 2525/54965
+   newstest2015-enfi.eng-fin: 1370/19968
+   newstest2016-enfi.eng-fin: 3000/48116
+   newstest2017-enfi.eng-fin: 3002/45718
+   newstest2018-enet.eng-est: 2000/36236
+   newstest2018-enfi.eng-fin: 3000/45475
+   newstest2019-enfi.eng-fin: 1997/38369
+   newstestB2016-enfi.eng-fin: 3000/45766
+   newstestB2017-enfi.eng-fin: 3002/45506
+   Tatoeba-test.afr-est: 1/26
+   Tatoeba-test.ang-fin: 11/47
+   Tatoeba-test.ang-hun: 3/13
+   Tatoeba-test.bar-hun: 1/5
+   Tatoeba-test.deu-chm: 137/845
+   Tatoeba-test.deu-est: 217/1222
+   Tatoeba-test.deu-fin: 2500/14145
+   Tatoeba-test.deu-hun: 10000/68302
+   Tatoeba-test.deu-sme: 5/25
+   Tatoeba-test.eng-chm: 71/378
+   Tatoeba-test.eng-est: 1359/7992
+   Tatoeba-test.eng-fin: 10000/60517
+   Tatoeba-test.eng-fkv: 71/560
+   Tatoeba-test.eng-hun: 10000/58902
+   Tatoeba-test.eng-izh: 6/22
+   Tatoeba-test.eng-kom: 15/42
+   Tatoeba-test.eng-krl: 149/698
+   Tatoeba-test.eng-liv: 33/165
+   Tatoeba-test.eng-mdf: 7/29
+   Tatoeba-test.eng-myv: 25/105
+   Tatoeba-test.eng-sma: 47/188
+   Tatoeba-test.eng-sme: 62/252
+   Tatoeba-test.eng-udm: 10/39
+   Tatoeba-test.enm-fin: 141/669
+   Tatoeba-test.enm-hun: 2/6
+   Tatoeba-test.fry-est: 1/26
+   Tatoeba-test.ltz-fin: 1/4
+   Tatoeba-test.ltz-hun: 2/6
+   Tatoeba-test.nld-est: 37/243
+   Tatoeba-test.nld-fin: 314/1617
+   Tatoeba-test.nld-hun: 1629/9252
+   Tatoeba-test.nld-krl: 119/526
+   Tatoeba-test.multi-multi: 10000/61277
+   Tatoeba-test.swg-hun: 4/30
+   Tatoeba-test.yid-fin: 1/3
+   Tatoeba-test.yid-hun: 63/285
 BLEU-scores:
-   - goethe-institute-test1.deu-fin: 15.1
-   - goethe-institute-test2.deu-fin: 15.6
-   - newsdev2015-enfi.eng-fin: 17.1
-   - newsdev2018-enet.eng-est: 18.1
-   - newssyscomb2009.deu-hun: 14.5
-   - newssyscomb2009.eng-hun: 14.5
-   - newstest2009.deu-hun: 14.1
-   - newstest2009.eng-hun: 14.8
-   - newstest2015-enfi.eng-fin: 18.4
-   - newstest2016-enfi.eng-fin: 19.4
-   - newstest2017-enfi.eng-fin: 21.7
-   - newstest2018-enet.eng-est: 19.3
-   - newstest2018-enfi.eng-fin: 14.5
-   - newstest2019-enfi.eng-fin: 19.0
-   - newstestB2016-enfi.eng-fin: 15.7
-   - newstestB2017-enfi.eng-fin: 17.8
-   - Tatoeba-test.afr-est: 6.7
-   - Tatoeba-test.ang-fin: 4.8
-   - Tatoeba-test.ang-hun: 4.0
-   - Tatoeba-test.bar-hun: 14.8
-   - Tatoeba-test.deu-chm: 0.8
-   - Tatoeba-test.deu-est: 51.6
-   - Tatoeba-test.deu-fin: 35.0
-   - Tatoeba-test.deu-hun: 28.5
-   - Tatoeba-test.deu-sme: 2.8
-   - Tatoeba-test.eng-chm: 0.8
-   - Tatoeba-test.eng-est: 48.7
-   - Tatoeba-test.eng-fin: 33.0
-   - Tatoeba-test.eng-fkv: 1.2
-   - Tatoeba-test.eng-hun: 33.9
-   - Tatoeba-test.eng-izh: 3.8
-   - Tatoeba-test.eng-kom: 1.7
-   - Tatoeba-test.eng-krl: 9.1
-   - Tatoeba-test.eng-liv: 1.9
-   - Tatoeba-test.eng-mdf: 1.2
-   - Tatoeba-test.eng-myv: 1.1
-   - Tatoeba-test.eng-sma: 1.2
-   - Tatoeba-test.eng-sme: 3.8
-   - Tatoeba-test.eng-udm: 1.7
-   - Tatoeba-test.enm-fin: 6.4
-   - Tatoeba-test.enm-hun: 24.4
-   - Tatoeba-test.fry-est: 3.6
-   - Tatoeba-test.ltz-fin: 5.5
-   - Tatoeba-test.ltz-hun: 7.6
-   - Tatoeba-test.nld-est: 44.9
-   - Tatoeba-test.nld-fin: 51.4
-   - Tatoeba-test.nld-hun: 38.8
-   - Tatoeba-test.nld-krl: 11.1
-   - Tatoeba-test.multi-multi: 32.4
-   - Tatoeba-test.swg-hun: 2.1
-   - Tatoeba-test.yid-fin: 0.0
-   - Tatoeba-test.yid-hun: 5.8
+   goethe-institute-test1.deu-fin: 15.1
+   goethe-institute-test2.deu-fin: 15.6
+   newsdev2015-enfi.eng-fin: 17.1
+   newsdev2018-enet.eng-est: 18.1
+   newssyscomb2009.deu-hun: 14.5
+   newssyscomb2009.eng-hun: 14.5
+   newstest2009.deu-hun: 14.1
+   newstest2009.eng-hun: 14.8
+   newstest2015-enfi.eng-fin: 18.4
+   newstest2016-enfi.eng-fin: 19.4
+   newstest2017-enfi.eng-fin: 21.7
+   newstest2018-enet.eng-est: 19.3
+   newstest2018-enfi.eng-fin: 14.5
+   newstest2019-enfi.eng-fin: 19.0
+   newstestB2016-enfi.eng-fin: 15.7
+   newstestB2017-enfi.eng-fin: 17.8
+   Tatoeba-test.afr-est: 6.7
+   Tatoeba-test.ang-fin: 4.8
+   Tatoeba-test.ang-hun: 4.0
+   Tatoeba-test.bar-hun: 14.8
+   Tatoeba-test.deu-chm: 0.8
+   Tatoeba-test.deu-est: 51.6
+   Tatoeba-test.deu-fin: 35.0
+   Tatoeba-test.deu-hun: 28.5
+   Tatoeba-test.deu-sme: 2.8
+   Tatoeba-test.eng-chm: 0.8
+   Tatoeba-test.eng-est: 48.7
+   Tatoeba-test.eng-fin: 33.0
+   Tatoeba-test.eng-fkv: 1.2
+   Tatoeba-test.eng-hun: 33.9
+   Tatoeba-test.eng-izh: 3.8
+   Tatoeba-test.eng-kom: 1.7
+   Tatoeba-test.eng-krl: 9.1
+   Tatoeba-test.eng-liv: 1.9
+   Tatoeba-test.eng-mdf: 1.2
+   Tatoeba-test.eng-myv: 1.1
+   Tatoeba-test.eng-sma: 1.2
+   Tatoeba-test.eng-sme: 3.8
+   Tatoeba-test.eng-udm: 1.7
+   Tatoeba-test.enm-fin: 6.4
+   Tatoeba-test.enm-hun: 24.4
+   Tatoeba-test.fry-est: 3.6
+   Tatoeba-test.ltz-fin: 5.5
+   Tatoeba-test.ltz-hun: 7.6
+   Tatoeba-test.nld-est: 44.9
+   Tatoeba-test.nld-fin: 51.4
+   Tatoeba-test.nld-hun: 38.8
+   Tatoeba-test.nld-krl: 11.1
+   Tatoeba-test.multi-multi: 32.4
+   Tatoeba-test.swg-hun: 2.1
+   Tatoeba-test.yid-fin: 0.0
+   Tatoeba-test.yid-hun: 5.8
 chr-F-scores:
-   - goethe-institute-test1.deu-fin: 0.457
-   - goethe-institute-test2.deu-fin: 0.459
-   - newsdev2015-enfi.eng-fin: 0.504
-   - newsdev2018-enet.eng-est: 0.505
-   - newssyscomb2009.deu-hun: 0.456
-   - newssyscomb2009.eng-hun: 0.459
-   - newstest2009.deu-hun: 0.447
-   - newstest2009.eng-hun: 0.455
-   - newstest2015-enfi.eng-fin: 0.517
-   - newstest2016-enfi.eng-fin: 0.524
-   - newstest2017-enfi.eng-fin: 0.545
-   - newstest2018-enet.eng-est: 0.516
-   - newstest2018-enfi.eng-fin: 0.482
-   - newstest2019-enfi.eng-fin: 0.505
-   - newstestB2016-enfi.eng-fin: 0.494
-   - newstestB2017-enfi.eng-fin: 0.509
-   - Tatoeba-test.afr-est: 0.471
-   - Tatoeba-test.ang-fin: 0.125
-   - Tatoeba-test.ang-hun: 0.150
-   - Tatoeba-test.bar-hun: 0.125
-   - Tatoeba-test.deu-chm: 0.131
-   - Tatoeba-test.deu-est: 0.716
-   - Tatoeba-test.deu-fin: 0.591
-   - Tatoeba-test.deu-hun: 0.539
-   - Tatoeba-test.deu-sme: 0.261
-   - Tatoeba-test.eng-chm: 0.123
-   - Tatoeba-test.eng-est: 0.679
-   - Tatoeba-test.eng-fin: 0.580
-   - Tatoeba-test.eng-fkv: 0.182
-   - Tatoeba-test.eng-hun: 0.574
-   - Tatoeba-test.eng-izh: 0.163
-   - Tatoeba-test.eng-kom: 0.011
-   - Tatoeba-test.eng-krl: 0.206
-   - Tatoeba-test.eng-liv: 0.107
-   - Tatoeba-test.eng-mdf: 0.007
-   - Tatoeba-test.eng-myv: 0.014
-   - Tatoeba-test.eng-sma: 0.092
-   - Tatoeba-test.eng-sme: 0.192
-   - Tatoeba-test.eng-udm: 0.121
-   - Tatoeba-test.enm-fin: 0.277
-   - Tatoeba-test.enm-hun: 0.234
-   - Tatoeba-test.fry-est: 0.364
-   - Tatoeba-test.ltz-fin: 0.357
-   - Tatoeba-test.ltz-hun: 0.151
-   - Tatoeba-test.nld-est: 0.672
-   - Tatoeba-test.nld-fin: 0.716
-   - Tatoeba-test.nld-hun: 0.612
-   - Tatoeba-test.nld-krl: 0.236
-   - Tatoeba-test.multi-multi: 0.565
-   - Tatoeba-test.swg-hun: 0.125
-   - Tatoeba-test.yid-fin: 0.092
-   - Tatoeba-test.yid-hun: 0.216
+   goethe-institute-test1.deu-fin: 0.457
+   goethe-institute-test2.deu-fin: 0.459
+   newsdev2015-enfi.eng-fin: 0.504
+   newsdev2018-enet.eng-est: 0.505
+   newssyscomb2009.deu-hun: 0.456
+   newssyscomb2009.eng-hun: 0.459
+   newstest2009.deu-hun: 0.447
+   newstest2009.eng-hun: 0.455
+   newstest2015-enfi.eng-fin: 0.517
+   newstest2016-enfi.eng-fin: 0.524
+   newstest2017-enfi.eng-fin: 0.545
+   newstest2018-enet.eng-est: 0.516
+   newstest2018-enfi.eng-fin: 0.482
+   newstest2019-enfi.eng-fin: 0.505
+   newstestB2016-enfi.eng-fin: 0.494
+   newstestB2017-enfi.eng-fin: 0.509
+   Tatoeba-test.afr-est: 0.471
+   Tatoeba-test.ang-fin: 0.125
+   Tatoeba-test.ang-hun: 0.150
+   Tatoeba-test.bar-hun: 0.125
+   Tatoeba-test.deu-chm: 0.131
+   Tatoeba-test.deu-est: 0.716
+   Tatoeba-test.deu-fin: 0.591
+   Tatoeba-test.deu-hun: 0.539
+   Tatoeba-test.deu-sme: 0.261
+   Tatoeba-test.eng-chm: 0.123
+   Tatoeba-test.eng-est: 0.679
+   Tatoeba-test.eng-fin: 0.580
+   Tatoeba-test.eng-fkv: 0.182
+   Tatoeba-test.eng-hun: 0.574
+   Tatoeba-test.eng-izh: 0.163
+   Tatoeba-test.eng-kom: 0.011
+   Tatoeba-test.eng-krl: 0.206
+   Tatoeba-test.eng-liv: 0.107
+   Tatoeba-test.eng-mdf: 0.007
+   Tatoeba-test.eng-myv: 0.014
+   Tatoeba-test.eng-sma: 0.092
+   Tatoeba-test.eng-sme: 0.192
+   Tatoeba-test.eng-udm: 0.121
+   Tatoeba-test.enm-fin: 0.277
+   Tatoeba-test.enm-hun: 0.234
+   Tatoeba-test.fry-est: 0.364
+   Tatoeba-test.ltz-fin: 0.357
+   Tatoeba-test.ltz-hun: 0.151
+   Tatoeba-test.nld-est: 0.672
+   Tatoeba-test.nld-fin: 0.716
+   Tatoeba-test.nld-hun: 0.612
+   Tatoeba-test.nld-krl: 0.236
+   Tatoeba-test.multi-multi: 0.565
+   Tatoeba-test.swg-hun: 0.125
+   Tatoeba-test.yid-fin: 0.092
+   Tatoeba-test.yid-hun: 0.216

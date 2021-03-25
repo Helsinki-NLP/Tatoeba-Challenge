@@ -4,30 +4,30 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - ita
 target-languages:
    - eng
 training-data:
-   - ita-eng: Tatoeba-train (77677094) 
+   ita-eng: Tatoeba-train (77677094) 
 validation-data:
-   - eng-ita: Tatoeba-dev, 470055
-   - total size of shuffled dev data: 470051
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   eng-ita: Tatoeba-dev, 470055
+   total-size-shuffled: 470051
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - newssyscomb2009.ita-eng: 502/11821
-   - newstest2009.ita-eng: 2525/65402
-   - Tatoeba-test.ita-eng: 10000/67385
+   newssyscomb2009.ita-eng: 502/11821
+   newstest2009.ita-eng: 2525/65402
+   Tatoeba-test.ita-eng: 10000/67385
 BLEU-scores:
-   - newssyscomb2009.ita-eng: 35.1
-   - newstest2009.ita-eng: 34.2
-   - Tatoeba-test.ita-eng: 68.8
+   newssyscomb2009.ita-eng: 35.1
+   newstest2009.ita-eng: 34.2
+   Tatoeba-test.ita-eng: 68.8
 chr-F-scores:
-   - newssyscomb2009.ita-eng: 0.603
-   - newstest2009.ita-eng: 0.597
-   - Tatoeba-test.ita-eng: 0.796
+   newssyscomb2009.ita-eng: 0.603
+   newstest2009.ita-eng: 0.597
+   Tatoeba-test.ita-eng: 0.796

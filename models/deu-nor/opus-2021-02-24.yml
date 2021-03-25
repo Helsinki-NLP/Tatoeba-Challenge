@@ -4,36 +4,36 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 use-target-labels:
-   - >>nno<<
-   - >>nob<<
+   '>>nno<<'
+   '>>nob<<'
 source-languages:
    - deu
 target-languages:
    - nno
    - nob
 training-data:
-   - deu-nno: Tatoeba-train (207997) 
-   - deu-nob: Tatoeba-train (7395902) 
+   deu-nno: Tatoeba-train (207997) 
+   deu-nob: Tatoeba-train (7395902) 
 validation-data:
-   - deu-nno: Tatoeba-dev, 35
-   - deu-nob: Tatoeba-dev, 965
-   - total size of shuffled dev data: 1000
-   - devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+   deu-nno: Tatoeba-dev, 35
+   deu-nob: Tatoeba-dev, 965
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.deu-nno: 126/950
-   - Tatoeba-test.deu-nob: 3525/31966
-   - Tatoeba-test.deu-nor: 3651/32928
+   Tatoeba-test.deu-nno: 126/950
+   Tatoeba-test.deu-nob: 3525/31966
+   Tatoeba-test.deu-nor: 3651/32928
 BLEU-scores:
-   - Tatoeba-test.deu-nno: 36.3
-   - Tatoeba-test.deu-nob: 47.3
-   - Tatoeba-test.deu-nor: 47.3
+   Tatoeba-test.deu-nno: 36.3
+   Tatoeba-test.deu-nob: 47.3
+   Tatoeba-test.deu-nor: 47.3
 chr-F-scores:
-   - Tatoeba-test.deu-nno: 0.601
-   - Tatoeba-test.deu-nob: 0.667
-   - Tatoeba-test.deu-nor: 0.667
+   Tatoeba-test.deu-nno: 0.601
+   Tatoeba-test.deu-nob: 0.667
+   Tatoeba-test.deu-nor: 0.667

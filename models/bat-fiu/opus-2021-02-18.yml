@@ -4,14 +4,14 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 use-target-labels:
-   - >>est<<
-   - >>fin<<
+   '>>est<<'
+   '>>fin<<'
 source-languages:
    - lav
    - lit
@@ -20,28 +20,28 @@ target-languages:
    - est
    - fin
 training-data:
-   - lav-est: Tatoeba-train (1000000) 
-   - lit-est: Tatoeba-train (1000000) 
-   - lit-fin: Tatoeba-train (1000000) 
-   - ltg-est: Tatoeba-train (219) 
+   lav-est: Tatoeba-train (1000000) 
+   lit-est: Tatoeba-train (1000000) 
+   lit-fin: Tatoeba-train (1000000) 
+   ltg-est: Tatoeba-train (219) 
 validation-data:
-   - est-lav: Tatoeba-dev, 1000
-   - est-lit: Tatoeba-dev, 1000
-   - fin-lit: Tatoeba-dev, 1000
-   - total size of shuffled dev data: 2933
-   - devset = top 2933  lines of Tatoeba-dev.src.shuffled!
+   est-lav: Tatoeba-dev, 1000
+   est-lit: Tatoeba-dev, 1000
+   fin-lit: Tatoeba-dev, 1000
+   total-size-shuffled: 2933
+   devset-selected: top 2933  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.lav-est: 2/11
-   - Tatoeba-test.lit-est: 2/11
-   - Tatoeba-test.lit-fin: 184/972
-   - Tatoeba-test.multi-multi: 188/994
+   Tatoeba-test.lav-est: 2/11
+   Tatoeba-test.lit-est: 2/11
+   Tatoeba-test.lit-fin: 184/972
+   Tatoeba-test.multi-multi: 188/994
 BLEU-scores:
-   - Tatoeba-test.lav-est: 12.6
-   - Tatoeba-test.lit-est: 12.6
-   - Tatoeba-test.lit-fin: 39.0
-   - Tatoeba-test.multi-multi: 38.4
+   Tatoeba-test.lav-est: 12.6
+   Tatoeba-test.lit-est: 12.6
+   Tatoeba-test.lit-fin: 39.0
+   Tatoeba-test.multi-multi: 38.4
 chr-F-scores:
-   - Tatoeba-test.lav-est: 0.740
-   - Tatoeba-test.lit-est: 0.643
-   - Tatoeba-test.lit-fin: 0.621
-   - Tatoeba-test.multi-multi: 0.623
+   Tatoeba-test.lav-est: 0.740
+   Tatoeba-test.lit-est: 0.643
+   Tatoeba-test.lit-fin: 0.621
+   Tatoeba-test.multi-multi: 0.623

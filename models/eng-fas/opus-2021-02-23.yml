@@ -4,17 +4,17 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 use-target-labels:
-   - >>fas<<
-   - >>pes<<
-   - >>pes_Latn<<
-   - >>pes_Thaa<<
-   - >>prs<<
+   '>>fas<<'
+   '>>pes<<'
+   '>>pes_Latn<<'
+   '>>pes_Thaa<<'
+   '>>prs<<'
 source-languages:
    - eng
 target-languages:
@@ -22,29 +22,29 @@ target-languages:
    - pes
    - prs
 training-data:
-   - eng-fas: Tatoeba-train (8211789) 
-   - eng-pes: Tatoeba-train (62004) 
-   - eng-prs: Tatoeba-train (1) 
+   eng-fas: Tatoeba-train (8211789) 
+   eng-pes: Tatoeba-train (62004) 
+   eng-prs: Tatoeba-train (1) 
 validation-data:
-   - eng-fas: Tatoeba-dev, 1000
-   - eng-pes: Tatoeba-dev, 1000
-   - total size of shuffled dev data: 1996
-   - devset = top 1996  lines of Tatoeba-dev.src.shuffled!
+   eng-fas: Tatoeba-dev, 1000
+   eng-pes: Tatoeba-dev, 1000
+   total-size-shuffled: 1996
+   devset-selected: top 1996  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.eng-pes_Latn: 3/26
-   - Tatoeba-test.eng-pes: 3763/31066
-   - Tatoeba-test.eng-pes_Thaa: 2/40
-   - Tatoeba-test.eng-fas: 7536/62270
-   - tico19-test.eng-fas: 2100/62758
+   Tatoeba-test.eng-pes_Latn: 3/26
+   Tatoeba-test.eng-pes: 3763/31066
+   Tatoeba-test.eng-pes_Thaa: 2/40
+   Tatoeba-test.eng-fas: 7536/62270
+   tico19-test.eng-fas: 2100/62758
 BLEU-scores:
-   - Tatoeba-test.eng-pes_Latn: 0.9
-   - Tatoeba-test.eng-pes: 14.7
-   - Tatoeba-test.eng-pes_Thaa: 0.9
-   - Tatoeba-test.eng-fas: 11.8
-   - tico19-test.eng-fas: 13.7
+   Tatoeba-test.eng-pes_Latn: 0.9
+   Tatoeba-test.eng-pes: 14.7
+   Tatoeba-test.eng-pes_Thaa: 0.9
+   Tatoeba-test.eng-fas: 11.8
+   tico19-test.eng-fas: 13.7
 chr-F-scores:
-   - Tatoeba-test.eng-pes_Latn: 0.000
-   - Tatoeba-test.eng-pes: 0.390
-   - Tatoeba-test.eng-pes_Thaa: 0.003
-   - Tatoeba-test.eng-fas: 0.364
-   - tico19-test.eng-fas: 0.422
+   Tatoeba-test.eng-pes_Latn: 0.000
+   Tatoeba-test.eng-pes: 0.390
+   Tatoeba-test.eng-pes_Thaa: 0.003
+   Tatoeba-test.eng-fas: 0.364
+   tico19-test.eng-fas: 0.422

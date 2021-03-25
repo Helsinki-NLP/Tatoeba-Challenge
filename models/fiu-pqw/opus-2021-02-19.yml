@@ -4,18 +4,18 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 use-target-labels:
-   - >>ind<<
-   - >>jak_Latn<<
-   - >>msa_Latn<<
-   - >>zlm<<
-   - >>zlm_Latn<<
-   - >>zsm_Latn<<
+   '>>ind<<'
+   '>>jak_Latn<<'
+   '>>msa_Latn<<'
+   '>>zlm<<'
+   '>>zlm_Latn<<'
+   '>>zsm_Latn<<'
 source-languages:
    - fin
    - hun
@@ -26,41 +26,41 @@ target-languages:
    - zlm
    - zsm
 training-data:
-   - fin-ind: Tatoeba-train (1000000) 
-   - fin-jak_Latn: Tatoeba-train (6603) 
-   - fin-msa_Latn: Tatoeba-train (1000000) 
-   - fin-zlm: Tatoeba-train (313) 
-   - fin-zlm_Latn: Tatoeba-train (76976) 
-   - hun-ind: Tatoeba-train (1000000) 
-   - hun-jak_Latn: Tatoeba-train (6610) 
-   - hun-msa_Latn: Tatoeba-train (1000000) 
-   - hun-zlm: Tatoeba-train (206) 
-   - hun-zlm_Latn: Tatoeba-train (76799) 
+   fin-ind: Tatoeba-train (1000000) 
+   fin-jak_Latn: Tatoeba-train (6603) 
+   fin-msa_Latn: Tatoeba-train (1000000) 
+   fin-zlm: Tatoeba-train (313) 
+   fin-zlm_Latn: Tatoeba-train (76976) 
+   hun-ind: Tatoeba-train (1000000) 
+   hun-jak_Latn: Tatoeba-train (6610) 
+   hun-msa_Latn: Tatoeba-train (1000000) 
+   hun-zlm: Tatoeba-train (206) 
+   hun-zlm_Latn: Tatoeba-train (76799) 
 validation-data:
-   - fin-ind: Tatoeba-dev, 817
-   - fin-msa_Latn: Tatoeba-dev, 178
-   - fin-zlm_Latn: Tatoeba-dev, 5
-   - hun-ind: Tatoeba-dev, 816
-   - hun-jak_Latn: Tatoeba-dev, 1
-   - hun-msa_Latn: Tatoeba-dev, 175
-   - hun-zlm_Latn: Tatoeba-dev, 8
-   - total size of shuffled dev data: 1993
-   - devset = top 1993  lines of Tatoeba-dev.src.shuffled!
+   fin-ind: Tatoeba-dev, 817
+   fin-msa_Latn: Tatoeba-dev, 178
+   fin-zlm_Latn: Tatoeba-dev, 5
+   hun-ind: Tatoeba-dev, 816
+   hun-jak_Latn: Tatoeba-dev, 1
+   hun-msa_Latn: Tatoeba-dev, 175
+   hun-zlm_Latn: Tatoeba-dev, 8
+   total-size-shuffled: 1993
+   devset-selected: top 1993  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.fin-msa: 24/140
-   - Tatoeba-test.hun-ind: 42/272
-   - Tatoeba-test.hun-msa: 51/358
-   - Tatoeba-test.hun-zsm_Latn: 9/86
-   - Tatoeba-test.multi-multi: 75/498
+   Tatoeba-test.fin-msa: 24/140
+   Tatoeba-test.hun-ind: 42/272
+   Tatoeba-test.hun-msa: 51/358
+   Tatoeba-test.hun-zsm_Latn: 9/86
+   Tatoeba-test.multi-multi: 75/498
 BLEU-scores:
-   - Tatoeba-test.fin-msa: 20.5
-   - Tatoeba-test.hun-ind: 25.0
-   - Tatoeba-test.hun-msa: 11.5
-   - Tatoeba-test.hun-zsm_Latn: 2.0
-   - Tatoeba-test.multi-multi: 13.2
+   Tatoeba-test.fin-msa: 20.5
+   Tatoeba-test.hun-ind: 25.0
+   Tatoeba-test.hun-msa: 11.5
+   Tatoeba-test.hun-zsm_Latn: 2.0
+   Tatoeba-test.multi-multi: 13.2
 chr-F-scores:
-   - Tatoeba-test.fin-msa: 0.519
-   - Tatoeba-test.hun-ind: 0.526
-   - Tatoeba-test.hun-msa: 0.416
-   - Tatoeba-test.hun-zsm_Latn: 0.210
-   - Tatoeba-test.multi-multi: 0.442
+   Tatoeba-test.fin-msa: 0.519
+   Tatoeba-test.hun-ind: 0.526
+   Tatoeba-test.hun-msa: 0.416
+   Tatoeba-test.hun-zsm_Latn: 0.210
+   Tatoeba-test.multi-multi: 0.442

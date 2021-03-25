@@ -4,54 +4,54 @@ dataset-name: opus
 modeltype: transformer-align
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - fra
 target-languages:
    - deu
 training-data:
-   - deu-fra: Tatoeba-train (47482630) 
+   deu-fra: Tatoeba-train (47482630) 
 validation-data:
-   - deu-fra: Tatoeba-dev, 96433
-   - total size of shuffled dev data: 96433
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   deu-fra: Tatoeba-dev, 96433
+   total-size-shuffled: 96433
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - euelections_dev2019.fr-de.fra-deu: 1512/33478
-   - newssyscomb2009.fra-deu: 502/11271
-   - news-test2008.fra-deu: 2051/47427
-   - newstest2009.fra-deu: 2525/62816
-   - newstest2010.fra-deu: 2489/61511
-   - newstest2011.fra-deu: 3003/72981
-   - newstest2012.fra-deu: 3003/72886
-   - newstest2013.fra-deu: 3000/63737
-   - newstest2019-frde.fra-deu: 1701/36571
-   - Tatoeba-test.fra-deu: 10000/80271
-   - Tatoeba-test.fra-deu: 10000/80271
+   euelections_dev2019.fr-de.fra-deu: 1512/33478
+   newssyscomb2009.fra-deu: 502/11271
+   news-test2008.fra-deu: 2051/47427
+   newstest2009.fra-deu: 2525/62816
+   newstest2010.fra-deu: 2489/61511
+   newstest2011.fra-deu: 3003/72981
+   newstest2012.fra-deu: 3003/72886
+   newstest2013.fra-deu: 3000/63737
+   newstest2019-frde.fra-deu: 1701/36571
+   Tatoeba-test.fra-deu: 10000/80271
+   Tatoeba-test.fra-deu: 10000/80271
 BLEU-scores:
-   - euelections_dev2019.fr-de.fra-deu: 26.0
-   - newssyscomb2009.fra-deu: 23.2
-   - news-test2008.fra-deu: 21.8
-   - newstest2009.fra-deu: 21.7
-   - newstest2010.fra-deu: 22.8
-   - newstest2011.fra-deu: 21.4
-   - newstest2012.fra-deu: 22.5
-   - newstest2013.fra-deu: 24.1
-   - newstest2019-frde.fra-deu: 27.9
-   - Tatoeba-test.fra-deu: 48.7
-   - Tatoeba-test.fra-deu: 48.7
+   euelections_dev2019.fr-de.fra-deu: 26.0
+   newssyscomb2009.fra-deu: 23.2
+   news-test2008.fra-deu: 21.8
+   newstest2009.fra-deu: 21.7
+   newstest2010.fra-deu: 22.8
+   newstest2011.fra-deu: 21.4
+   newstest2012.fra-deu: 22.5
+   newstest2013.fra-deu: 24.1
+   newstest2019-frde.fra-deu: 27.9
+   Tatoeba-test.fra-deu: 48.7
+   Tatoeba-test.fra-deu: 48.7
 chr-F-scores:
-   - euelections_dev2019.fr-de.fra-deu: 0.571
-   - newssyscomb2009.fra-deu: 0.529
-   - news-test2008.fra-deu: 0.523
-   - newstest2009.fra-deu: 0.522
-   - newstest2010.fra-deu: 0.529
-   - newstest2011.fra-deu: 0.518
-   - newstest2012.fra-deu: 0.517
-   - newstest2013.fra-deu: 0.535
-   - newstest2019-frde.fra-deu: 0.598
-   - Tatoeba-test.fra-deu: 0.671
-   - Tatoeba-test.fra-deu: 0.671
+   euelections_dev2019.fr-de.fra-deu: 0.571
+   newssyscomb2009.fra-deu: 0.529
+   news-test2008.fra-deu: 0.523
+   newstest2009.fra-deu: 0.522
+   newstest2010.fra-deu: 0.529
+   newstest2011.fra-deu: 0.518
+   newstest2012.fra-deu: 0.517
+   newstest2013.fra-deu: 0.535
+   newstest2019-frde.fra-deu: 0.598
+   Tatoeba-test.fra-deu: 0.671
+   Tatoeba-test.fra-deu: 0.671

@@ -4,19 +4,19 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 use-target-labels:
-   - >>est<<
-   - >>fin<<
-   - >>hun<<
-   - >>izh<<
-   - >>mhr<<
-   - >>sme<<
-   - >>udm<<
+   '>>est<<'
+   '>>fin<<'
+   '>>hun<<'
+   '>>izh<<'
+   '>>mhr<<'
+   '>>sme<<'
+   '>>udm<<'
 source-languages:
    - bel
    - bos
@@ -39,182 +39,182 @@ target-languages:
    - sme
    - udm
 training-data:
-   - bel-est: Tatoeba-train (64528) 
-   - bel-hun: Tatoeba-train (68222) 
-   - bel_Latn-est: Tatoeba-train (586) 
-   - bel_Latn-hun: Tatoeba-train (636) 
-   - bos_Cyrl-fin: Tatoeba-train (126) 
-   - bos_Cyrl-hun: Tatoeba-train (69) 
-   - bos_Latn-fin: Tatoeba-train (1000000) 
-   - bos_Latn-hun: Tatoeba-train (1000000) 
-   - bos_Latn-sme: Tatoeba-train (501) 
-   - bul-fin: Tatoeba-train (1000000) 
-   - bul-hun: Tatoeba-train (1000000) 
-   - ces-fin: Tatoeba-train (1000000) 
-   - ces-hun: Tatoeba-train (1000000) 
-   - hbs-fin: Tatoeba-train (12998) 
-   - hbs-hun: Tatoeba-train (12583) 
-   - hbs-sme: Tatoeba-train (27954) 
-   - hbs_Cyrl-fin: Tatoeba-train (281) 
-   - hbs_Cyrl-hun: Tatoeba-train (346) 
-   - hrv-fin: Tatoeba-train (1000000) 
-   - hrv-hun: Tatoeba-train (1000000) 
-   - hrv-sme: Tatoeba-train (17713) 
-   - mkd-est: Tatoeba-train (1000000) 
-   - mkd-hun: Tatoeba-train (1000000) 
-   - pol-est: Tatoeba-train (1000000) 
-   - pol-fin: Tatoeba-train (1000000) 
-   - pol-hun: Tatoeba-train (1000000) 
-   - rus-est: Tatoeba-train (1000000) 
-   - rus-fin: Tatoeba-train (1000000) 
-   - rus-hun: Tatoeba-train (1000000) 
-   - rus-mhr: Tatoeba-train (3922) 
-   - rus-udm: Tatoeba-train (9504) 
-   - slv-est: Tatoeba-train (1000000) 
-   - slv-fin: Tatoeba-train (1000000) 
-   - slv-hun: Tatoeba-train (1000000) 
-   - srp_Cyrl-fin: Tatoeba-train (1000000) 
-   - srp_Cyrl-hun: Tatoeba-train (1000000) 
-   - srp_Cyrl-sme: Tatoeba-train (9199) 
-   - srp_Latn-fin: Tatoeba-train (1000000) 
-   - srp_Latn-hun: Tatoeba-train (1000000) 
-   - srp_Latn-sme: Tatoeba-train (541) 
-   - ukr-est: Tatoeba-train (1000000) 
-   - ukr-fin: Tatoeba-train (1000000) 
-   - ukr-hun: Tatoeba-train (1000000) 
+   bel-est: Tatoeba-train (64528) 
+   bel-hun: Tatoeba-train (68222) 
+   bel_Latn-est: Tatoeba-train (586) 
+   bel_Latn-hun: Tatoeba-train (636) 
+   bos_Cyrl-fin: Tatoeba-train (126) 
+   bos_Cyrl-hun: Tatoeba-train (69) 
+   bos_Latn-fin: Tatoeba-train (1000000) 
+   bos_Latn-hun: Tatoeba-train (1000000) 
+   bos_Latn-sme: Tatoeba-train (501) 
+   bul-fin: Tatoeba-train (1000000) 
+   bul-hun: Tatoeba-train (1000000) 
+   ces-fin: Tatoeba-train (1000000) 
+   ces-hun: Tatoeba-train (1000000) 
+   hbs-fin: Tatoeba-train (12998) 
+   hbs-hun: Tatoeba-train (12583) 
+   hbs-sme: Tatoeba-train (27954) 
+   hbs_Cyrl-fin: Tatoeba-train (281) 
+   hbs_Cyrl-hun: Tatoeba-train (346) 
+   hrv-fin: Tatoeba-train (1000000) 
+   hrv-hun: Tatoeba-train (1000000) 
+   hrv-sme: Tatoeba-train (17713) 
+   mkd-est: Tatoeba-train (1000000) 
+   mkd-hun: Tatoeba-train (1000000) 
+   pol-est: Tatoeba-train (1000000) 
+   pol-fin: Tatoeba-train (1000000) 
+   pol-hun: Tatoeba-train (1000000) 
+   rus-est: Tatoeba-train (1000000) 
+   rus-fin: Tatoeba-train (1000000) 
+   rus-hun: Tatoeba-train (1000000) 
+   rus-mhr: Tatoeba-train (3922) 
+   rus-udm: Tatoeba-train (9504) 
+   slv-est: Tatoeba-train (1000000) 
+   slv-fin: Tatoeba-train (1000000) 
+   slv-hun: Tatoeba-train (1000000) 
+   srp_Cyrl-fin: Tatoeba-train (1000000) 
+   srp_Cyrl-hun: Tatoeba-train (1000000) 
+   srp_Cyrl-sme: Tatoeba-train (9199) 
+   srp_Latn-fin: Tatoeba-train (1000000) 
+   srp_Latn-hun: Tatoeba-train (1000000) 
+   srp_Latn-sme: Tatoeba-train (541) 
+   ukr-est: Tatoeba-train (1000000) 
+   ukr-fin: Tatoeba-train (1000000) 
+   ukr-hun: Tatoeba-train (1000000) 
 validation-data:
-   - bel-est: Tatoeba-dev, 997
-   - bel-hun: Tatoeba-dev, 991
-   - bel_Latn-est: Tatoeba-dev, 3
-   - bel_Latn-hun: Tatoeba-dev, 9
-   - bos_Latn-fin: Tatoeba-dev, 135
-   - bos_Latn-hun: Tatoeba-dev, 118
-   - bos_Latn-sme: Tatoeba-dev, 11
-   - bul-fin: Tatoeba-dev, 1000
-   - bul-hun: Tatoeba-dev, 1000
-   - ces-fin: Tatoeba-dev, 1000
-   - ces-hun: Tatoeba-dev, 1000
-   - fin-hbs: Tatoeba-dev, 1000
-   - hbs-hun: Tatoeba-dev, 1000
-   - hbs-sme: Tatoeba-dev, 1000
-   - fin-hrv: Tatoeba-dev, 363
-   - hrv-hun: Tatoeba-dev, 318
-   - hrv-sme: Tatoeba-dev, 650
-   - est-mkd: Tatoeba-dev, 1000
-   - hun-mkd: Tatoeba-dev, 999
-   - est-pol: Tatoeba-dev, 1000
-   - fin-pol: Tatoeba-dev, 1000
-   - hun-pol: Tatoeba-dev, 1000
-   - mhr-pol: Tatoeba-dev, 461
-   - est-rus: Tatoeba-dev, 1000
-   - fin-rus: Tatoeba-dev, 1000
-   - hun-rus: Tatoeba-dev, 6097
-   - mhr-rus: Tatoeba-dev, 1000
-   - rus-udm: Tatoeba-dev, 1000
-   - est-slv: Tatoeba-dev, 1000
-   - fin-slv: Tatoeba-dev, 1000
-   - hun-slv: Tatoeba-dev, 1000
-   - fin-srp_Cyrl: Tatoeba-dev, 43
-   - hun-srp_Cyrl: Tatoeba-dev, 35
-   - sme-srp_Cyrl: Tatoeba-dev, 318
-   - fin-srp_Latn: Tatoeba-dev, 432
-   - hun-srp_Latn: Tatoeba-dev, 508
-   - sme-srp_Latn: Tatoeba-dev, 21
-   - est-ukr: Tatoeba-dev, 998
-   - fin-ukr: Tatoeba-dev, 999
-   - hun-ukr: Tatoeba-dev, 999
-   - total size of shuffled dev data: 30423
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   bel-est: Tatoeba-dev, 997
+   bel-hun: Tatoeba-dev, 991
+   bel_Latn-est: Tatoeba-dev, 3
+   bel_Latn-hun: Tatoeba-dev, 9
+   bos_Latn-fin: Tatoeba-dev, 135
+   bos_Latn-hun: Tatoeba-dev, 118
+   bos_Latn-sme: Tatoeba-dev, 11
+   bul-fin: Tatoeba-dev, 1000
+   bul-hun: Tatoeba-dev, 1000
+   ces-fin: Tatoeba-dev, 1000
+   ces-hun: Tatoeba-dev, 1000
+   fin-hbs: Tatoeba-dev, 1000
+   hbs-hun: Tatoeba-dev, 1000
+   hbs-sme: Tatoeba-dev, 1000
+   fin-hrv: Tatoeba-dev, 363
+   hrv-hun: Tatoeba-dev, 318
+   hrv-sme: Tatoeba-dev, 650
+   est-mkd: Tatoeba-dev, 1000
+   hun-mkd: Tatoeba-dev, 999
+   est-pol: Tatoeba-dev, 1000
+   fin-pol: Tatoeba-dev, 1000
+   hun-pol: Tatoeba-dev, 1000
+   mhr-pol: Tatoeba-dev, 461
+   est-rus: Tatoeba-dev, 1000
+   fin-rus: Tatoeba-dev, 1000
+   hun-rus: Tatoeba-dev, 6097
+   mhr-rus: Tatoeba-dev, 1000
+   rus-udm: Tatoeba-dev, 1000
+   est-slv: Tatoeba-dev, 1000
+   fin-slv: Tatoeba-dev, 1000
+   hun-slv: Tatoeba-dev, 1000
+   fin-srp_Cyrl: Tatoeba-dev, 43
+   hun-srp_Cyrl: Tatoeba-dev, 35
+   sme-srp_Cyrl: Tatoeba-dev, 318
+   fin-srp_Latn: Tatoeba-dev, 432
+   hun-srp_Latn: Tatoeba-dev, 508
+   sme-srp_Latn: Tatoeba-dev, 21
+   est-ukr: Tatoeba-dev, 998
+   fin-ukr: Tatoeba-dev, 999
+   hun-ukr: Tatoeba-dev, 999
+   total-size-shuffled: 30423
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - newssyscomb2009.ces-hun: 502/9733
-   - newstest2009.ces-hun: 2525/54965
-   - Tatoeba-test.bel-est: 2/31
-   - Tatoeba-test.bel-hun: 3/16
-   - Tatoeba-test.bul-fin: 11/79
-   - Tatoeba-test.bul-hun: 195/1090
-   - Tatoeba-test.ces-fin: 88/408
-   - Tatoeba-test.ces-hun: 1911/10352
-   - Tatoeba-test.hbs-fin: 15/94
-   - Tatoeba-test.hbs-hun: 1/6
-   - Tatoeba-test.hbs-sme: 3/15
-   - Tatoeba-test.mkd-est: 1/5
-   - Tatoeba-test.mkd-hun: 1/6
-   - Tatoeba-test.multi-multi: 10000/58751
-   - Tatoeba-test.pol-chm: 5/36
-   - Tatoeba-test.pol-est: 15/98
-   - Tatoeba-test.pol-fin: 609/3293
-   - Tatoeba-test.pol-hun: 1934/11310
-   - Tatoeba-test.rus-chm: 2750/18977
-   - Tatoeba-test.rus-est: 598/3572
-   - Tatoeba-test.rus-fin: 3643/19319
-   - Tatoeba-test.rus-hun: 2500/15072
-   - Tatoeba-test.rus-izh: 8/33
-   - Tatoeba-test.rus-udm: 54/300
-   - Tatoeba-test.slv-est: 1/5
-   - Tatoeba-test.slv-fin: 32/164
-   - Tatoeba-test.slv-hun: 42/206
-   - Tatoeba-test.ukr-est: 16/85
-   - Tatoeba-test.ukr-fin: 32/186
-   - Tatoeba-test.ukr-hun: 464/2433
+   newssyscomb2009.ces-hun: 502/9733
+   newstest2009.ces-hun: 2525/54965
+   Tatoeba-test.bel-est: 2/31
+   Tatoeba-test.bel-hun: 3/16
+   Tatoeba-test.bul-fin: 11/79
+   Tatoeba-test.bul-hun: 195/1090
+   Tatoeba-test.ces-fin: 88/408
+   Tatoeba-test.ces-hun: 1911/10352
+   Tatoeba-test.hbs-fin: 15/94
+   Tatoeba-test.hbs-hun: 1/6
+   Tatoeba-test.hbs-sme: 3/15
+   Tatoeba-test.mkd-est: 1/5
+   Tatoeba-test.mkd-hun: 1/6
+   Tatoeba-test.multi-multi: 10000/58751
+   Tatoeba-test.pol-chm: 5/36
+   Tatoeba-test.pol-est: 15/98
+   Tatoeba-test.pol-fin: 609/3293
+   Tatoeba-test.pol-hun: 1934/11310
+   Tatoeba-test.rus-chm: 2750/18977
+   Tatoeba-test.rus-est: 598/3572
+   Tatoeba-test.rus-fin: 3643/19319
+   Tatoeba-test.rus-hun: 2500/15072
+   Tatoeba-test.rus-izh: 8/33
+   Tatoeba-test.rus-udm: 54/300
+   Tatoeba-test.slv-est: 1/5
+   Tatoeba-test.slv-fin: 32/164
+   Tatoeba-test.slv-hun: 42/206
+   Tatoeba-test.ukr-est: 16/85
+   Tatoeba-test.ukr-fin: 32/186
+   Tatoeba-test.ukr-hun: 464/2433
 BLEU-scores:
-   - newssyscomb2009.ces-hun: 14.0
-   - newstest2009.ces-hun: 14.2
-   - Tatoeba-test.bel-est: 13.3
-   - Tatoeba-test.bel-hun: 52.3
-   - Tatoeba-test.bul-fin: 69.7
-   - Tatoeba-test.bul-hun: 41.3
-   - Tatoeba-test.ces-fin: 62.1
-   - Tatoeba-test.ces-hun: 44.1
-   - Tatoeba-test.hbs-fin: 62.8
-   - Tatoeba-test.hbs-hun: 23.0
-   - Tatoeba-test.hbs-sme: 9.8
-   - Tatoeba-test.mkd-est: 23.0
-   - Tatoeba-test.mkd-hun: 23.0
-   - Tatoeba-test.multi-multi: 32.0
-   - Tatoeba-test.pol-chm: 6.1
-   - Tatoeba-test.pol-est: 15.8
-   - Tatoeba-test.pol-fin: 38.0
-   - Tatoeba-test.pol-hun: 39.3
-   - Tatoeba-test.rus-chm: 1.4
-   - Tatoeba-test.rus-est: 51.1
-   - Tatoeba-test.rus-fin: 38.3
-   - Tatoeba-test.rus-hun: 36.2
-   - Tatoeba-test.rus-izh: 14.7
-   - Tatoeba-test.rus-udm: 6.7
-   - Tatoeba-test.slv-est: 23.0
-   - Tatoeba-test.slv-fin: 33.7
-   - Tatoeba-test.slv-hun: 22.9
-   - Tatoeba-test.ukr-est: 40.6
-   - Tatoeba-test.ukr-fin: 47.5
-   - Tatoeba-test.ukr-hun: 40.2
+   newssyscomb2009.ces-hun: 14.0
+   newstest2009.ces-hun: 14.2
+   Tatoeba-test.bel-est: 13.3
+   Tatoeba-test.bel-hun: 52.3
+   Tatoeba-test.bul-fin: 69.7
+   Tatoeba-test.bul-hun: 41.3
+   Tatoeba-test.ces-fin: 62.1
+   Tatoeba-test.ces-hun: 44.1
+   Tatoeba-test.hbs-fin: 62.8
+   Tatoeba-test.hbs-hun: 23.0
+   Tatoeba-test.hbs-sme: 9.8
+   Tatoeba-test.mkd-est: 23.0
+   Tatoeba-test.mkd-hun: 23.0
+   Tatoeba-test.multi-multi: 32.0
+   Tatoeba-test.pol-chm: 6.1
+   Tatoeba-test.pol-est: 15.8
+   Tatoeba-test.pol-fin: 38.0
+   Tatoeba-test.pol-hun: 39.3
+   Tatoeba-test.rus-chm: 1.4
+   Tatoeba-test.rus-est: 51.1
+   Tatoeba-test.rus-fin: 38.3
+   Tatoeba-test.rus-hun: 36.2
+   Tatoeba-test.rus-izh: 14.7
+   Tatoeba-test.rus-udm: 6.7
+   Tatoeba-test.slv-est: 23.0
+   Tatoeba-test.slv-fin: 33.7
+   Tatoeba-test.slv-hun: 22.9
+   Tatoeba-test.ukr-est: 40.6
+   Tatoeba-test.ukr-fin: 47.5
+   Tatoeba-test.ukr-hun: 40.2
 chr-F-scores:
-   - newssyscomb2009.ces-hun: 0.457
-   - newstest2009.ces-hun: 0.445
-   - Tatoeba-test.bel-est: 0.632
-   - Tatoeba-test.bel-hun: 0.704
-   - Tatoeba-test.bul-fin: 0.745
-   - Tatoeba-test.bul-hun: 0.634
-   - Tatoeba-test.ces-fin: 0.739
-   - Tatoeba-test.ces-hun: 0.652
-   - Tatoeba-test.hbs-fin: 0.775
-   - Tatoeba-test.hbs-hun: 0.574
-   - Tatoeba-test.hbs-sme: 0.263
-   - Tatoeba-test.mkd-est: 0.759
-   - Tatoeba-test.mkd-hun: 0.574
-   - Tatoeba-test.multi-multi: 0.527
-   - Tatoeba-test.pol-chm: 0.157
-   - Tatoeba-test.pol-est: 0.378
-   - Tatoeba-test.pol-fin: 0.605
-   - Tatoeba-test.pol-hun: 0.624
-   - Tatoeba-test.rus-chm: 0.176
-   - Tatoeba-test.rus-est: 0.703
-   - Tatoeba-test.rus-fin: 0.624
-   - Tatoeba-test.rus-hun: 0.590
-   - Tatoeba-test.rus-izh: 0.389
-   - Tatoeba-test.rus-udm: 0.265
-   - Tatoeba-test.slv-est: 0.795
-   - Tatoeba-test.slv-fin: 0.601
-   - Tatoeba-test.slv-hun: 0.460
-   - Tatoeba-test.ukr-est: 0.693
-   - Tatoeba-test.ukr-fin: 0.649
-   - Tatoeba-test.ukr-hun: 0.647
+   newssyscomb2009.ces-hun: 0.457
+   newstest2009.ces-hun: 0.445
+   Tatoeba-test.bel-est: 0.632
+   Tatoeba-test.bel-hun: 0.704
+   Tatoeba-test.bul-fin: 0.745
+   Tatoeba-test.bul-hun: 0.634
+   Tatoeba-test.ces-fin: 0.739
+   Tatoeba-test.ces-hun: 0.652
+   Tatoeba-test.hbs-fin: 0.775
+   Tatoeba-test.hbs-hun: 0.574
+   Tatoeba-test.hbs-sme: 0.263
+   Tatoeba-test.mkd-est: 0.759
+   Tatoeba-test.mkd-hun: 0.574
+   Tatoeba-test.multi-multi: 0.527
+   Tatoeba-test.pol-chm: 0.157
+   Tatoeba-test.pol-est: 0.378
+   Tatoeba-test.pol-fin: 0.605
+   Tatoeba-test.pol-hun: 0.624
+   Tatoeba-test.rus-chm: 0.176
+   Tatoeba-test.rus-est: 0.703
+   Tatoeba-test.rus-fin: 0.624
+   Tatoeba-test.rus-hun: 0.590
+   Tatoeba-test.rus-izh: 0.389
+   Tatoeba-test.rus-udm: 0.265
+   Tatoeba-test.slv-est: 0.795
+   Tatoeba-test.slv-fin: 0.601
+   Tatoeba-test.slv-hun: 0.460
+   Tatoeba-test.ukr-est: 0.693
+   Tatoeba-test.ukr-fin: 0.649
+   Tatoeba-test.ukr-hun: 0.647

@@ -4,22 +4,22 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm4k,spm4k)
 subwords:
-   - source: spm4k
-   - target: spm4k
+   source: spm4k
+   target: spm4k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - eng
 target-languages:
    - uig
 use-target-labels:
-   - >>uig_Arab<<
-   - >>uig_Cyrl<<
-   - >>uig_Latn<<
+   '>>uig_Arab<<'
+   '>>uig_Cyrl<<'
+   '>>uig_Latn<<'
 test-data:
-   - Tatoeba-test.eng-uig: 3024/13084
+   Tatoeba-test.eng-uig: 3024/13084
 BLEU-scores:
-   - Tatoeba-test.eng-uig: 0.0
+   Tatoeba-test.eng-uig: 0.0
 chr-F-scores:
-   - Tatoeba-test.eng-uig: 0.127
+   Tatoeba-test.eng-uig: 0.127

@@ -4,22 +4,22 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm1k,spm1k)
 subwords:
-   - source: spm1k
-   - target: spm1k
+   source: spm1k
+   target: spm1k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - epo
 target-languages:
    - fas
    - pes
 use-target-labels:
-   - >>fas<<
-   - >>pes<<
+   '>>fas<<'
+   '>>pes<<'
 test-data:
-   - Tatoeba-test.epo-fas: 2500/17804
+   Tatoeba-test.epo-fas: 2500/17804
 BLEU-scores:
-   - Tatoeba-test.epo-fas: 0.1
+   Tatoeba-test.epo-fas: 0.1
 chr-F-scores:
-   - Tatoeba-test.epo-fas: 0.089
+   Tatoeba-test.epo-fas: 0.089

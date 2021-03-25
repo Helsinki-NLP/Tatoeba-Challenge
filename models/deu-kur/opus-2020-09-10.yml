@@ -4,24 +4,24 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm1k,spm1k)
 subwords:
-   - source: spm1k
-   - target: spm1k
+   source: spm1k
+   target: spm1k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - deu
 target-languages:
    - kmr
    - kur
 use-target-labels:
-   - >>kmr<<
-   - >>kmr_Latn<<
-   - >>kur_Arab<<
-   - >>kur_Latn<<
+   '>>kmr<<'
+   '>>kmr_Latn<<'
+   '>>kur_Arab<<'
+   '>>kur_Latn<<'
 test-data:
-   - Tatoeba-test.deu-kur: 223/984
+   Tatoeba-test.deu-kur: 223/984
 BLEU-scores:
-   - Tatoeba-test.deu-kur: 0.0
+   Tatoeba-test.deu-kur: 0.0
 chr-F-scores:
-   - Tatoeba-test.deu-kur: 0.016
+   Tatoeba-test.deu-kur: 0.016

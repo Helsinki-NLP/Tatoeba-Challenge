@@ -4,28 +4,28 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - eng
 target-languages:
    - mol
    - ron
 use-target-labels:
-   - >>mol<<
-   - >>ron<<
+   '>>mol<<'
+   '>>ron<<'
 test-data:
-   - Tatoeba-test.eng-ron: 5000/31187
-   - newsdev2016-enro.eng-ron: 1999/45165
-   - newstest2016-enro.eng-ron: 1999/43352
+   Tatoeba-test.eng-ron: 5000/31187
+   newsdev2016-enro.eng-ron: 1999/45165
+   newstest2016-enro.eng-ron: 1999/43352
 BLEU-scores:
-   - Tatoeba-test.eng-ron: 45.0
-   - newsdev2016-enro.eng-ron: 30.7
-   - newstest2016-enro.eng-ron: 28.4
+   Tatoeba-test.eng-ron: 45.0
+   newsdev2016-enro.eng-ron: 30.7
+   newstest2016-enro.eng-ron: 28.4
 chr-F-scores:
-   - Tatoeba-test.eng-ron: 0.665
-   - newsdev2016-enro.eng-ron: 0.591
-   - newstest2016-enro.eng-ron: 0.573
+   Tatoeba-test.eng-ron: 0.665
+   newsdev2016-enro.eng-ron: 0.591
+   newstest2016-enro.eng-ron: 0.573

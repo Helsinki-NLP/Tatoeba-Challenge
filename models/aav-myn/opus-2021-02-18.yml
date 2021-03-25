@@ -4,33 +4,33 @@ dataset-name: opus
 modeltype: transformer
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 use-target-labels:
 source-languages:
 target-languages:
 training-data:
-   - eng-kek: Tatoeba-train (54) 
-   - eng-kek_Latn: Tatoeba-train (52324) 
-   - eng-quc: Tatoeba-train (8928) 
-   - khm-eng: Tatoeba-train (289332) 
-   - khm_Latn-eng: Tatoeba-train (10780) 
-   - vie-eng: Tatoeba-train (4574505) 
+   eng-kek: Tatoeba-train (54) 
+   eng-kek_Latn: Tatoeba-train (52324) 
+   eng-quc: Tatoeba-train (8928) 
+   khm-eng: Tatoeba-train (289332) 
+   khm_Latn-eng: Tatoeba-train (10780) 
+   vie-eng: Tatoeba-train (4574505) 
 validation-data:
-   - eng-kek: Tatoeba-dev, 2
-   - eng-kek_Latn: Tatoeba-dev, 998
-   - eng-quc: Tatoeba-dev, 1000
-   - eng-khm: Tatoeba-dev, 965
-   - eng-khm_Latn: Tatoeba-dev, 35
-   - eng-vie: Tatoeba-dev, 2824
-   - total size of shuffled dev data: 5821
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   eng-kek: Tatoeba-dev, 2
+   eng-kek_Latn: Tatoeba-dev, 998
+   eng-quc: Tatoeba-dev, 1000
+   eng-khm: Tatoeba-dev, 965
+   eng-khm_Latn: Tatoeba-dev, 35
+   eng-vie: Tatoeba-dev, 2824
+   total-size-shuffled: 5821
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.multi-multi: 5283/36845
+   Tatoeba-test.multi-multi: 5283/36845
 BLEU-scores:
-   - Tatoeba-test.multi-multi: 26.8
+   Tatoeba-test.multi-multi: 26.8
 chr-F-scores:
-   - Tatoeba-test.multi-multi: 0.408
+   Tatoeba-test.multi-multi: 0.408

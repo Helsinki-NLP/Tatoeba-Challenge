@@ -4,48 +4,48 @@ dataset-name: opus
 modeltype: transformer-align
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
-   - source: spm32k
-   - target: spm32k
+   source: spm32k
+   target: spm32k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - eng
 target-languages:
    - fin
 training-data:
-   - eng-fin: Tatoeba-train (45205537) 
+   eng-fin: Tatoeba-train (45205537) 
 validation-data:
-   - eng-fin: Tatoeba-dev, 69721
-   - total size of shuffled dev data: 69721
-   - devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   eng-fin: Tatoeba-dev, 69721
+   total-size-shuffled: 69721
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - newsdev2015-enfi.eng-fin: 1500/23375
-   - newstest2015-enfi.eng-fin: 1370/19968
-   - newstest2016-enfi.eng-fin: 3000/48116
-   - newstest2017-enfi.eng-fin: 3002/45718
-   - newstest2018-enfi.eng-fin: 3000/45475
-   - newstest2019-enfi.eng-fin: 1997/38369
-   - newstestB2016-enfi.eng-fin: 3000/45766
-   - newstestB2017-enfi.eng-fin: 3002/45506
-   - Tatoeba-test.eng-fin: 10000/60517
+   newsdev2015-enfi.eng-fin: 1500/23375
+   newstest2015-enfi.eng-fin: 1370/19968
+   newstest2016-enfi.eng-fin: 3000/48116
+   newstest2017-enfi.eng-fin: 3002/45718
+   newstest2018-enfi.eng-fin: 3000/45475
+   newstest2019-enfi.eng-fin: 1997/38369
+   newstestB2016-enfi.eng-fin: 3000/45766
+   newstestB2017-enfi.eng-fin: 3002/45506
+   Tatoeba-test.eng-fin: 10000/60517
 BLEU-scores:
-   - newsdev2015-enfi.eng-fin: 21.6
-   - newstest2015-enfi.eng-fin: 23.2
-   - newstest2016-enfi.eng-fin: 24.9
-   - newstest2017-enfi.eng-fin: 27.5
-   - newstest2018-enfi.eng-fin: 18.4
-   - newstest2019-enfi.eng-fin: 23.3
-   - newstestB2016-enfi.eng-fin: 19.7
-   - newstestB2017-enfi.eng-fin: 22.7
-   - Tatoeba-test.eng-fin: 38.7
+   newsdev2015-enfi.eng-fin: 21.6
+   newstest2015-enfi.eng-fin: 23.2
+   newstest2016-enfi.eng-fin: 24.9
+   newstest2017-enfi.eng-fin: 27.5
+   newstest2018-enfi.eng-fin: 18.4
+   newstest2019-enfi.eng-fin: 23.3
+   newstestB2016-enfi.eng-fin: 19.7
+   newstestB2017-enfi.eng-fin: 22.7
+   Tatoeba-test.eng-fin: 38.7
 chr-F-scores:
-   - newsdev2015-enfi.eng-fin: 0.556
-   - newstest2015-enfi.eng-fin: 0.567
-   - newstest2016-enfi.eng-fin: 0.578
-   - newstest2017-enfi.eng-fin: 0.605
-   - newstest2018-enfi.eng-fin: 0.532
-   - newstest2019-enfi.eng-fin: 0.551
-   - newstestB2016-enfi.eng-fin: 0.542
-   - newstestB2017-enfi.eng-fin: 0.565
-   - Tatoeba-test.eng-fin: 0.629
+   newsdev2015-enfi.eng-fin: 0.556
+   newstest2015-enfi.eng-fin: 0.567
+   newstest2016-enfi.eng-fin: 0.578
+   newstest2017-enfi.eng-fin: 0.605
+   newstest2018-enfi.eng-fin: 0.532
+   newstest2019-enfi.eng-fin: 0.551
+   newstestB2016-enfi.eng-fin: 0.542
+   newstestB2017-enfi.eng-fin: 0.565
+   Tatoeba-test.eng-fin: 0.629

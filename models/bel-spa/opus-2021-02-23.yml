@@ -4,29 +4,29 @@ dataset-name: opus
 modeltype: transformer-align
 pre-processing: normalization + SentencePiece (spm4k,spm4k)
 subwords:
-   - source: spm4k
-   - target: spm4k
+   source: spm4k
+   target: spm4k
 subword-models:
-   - source: source.spm
-   - target: target.spm
+   source: source.spm
+   target: target.spm
 source-languages:
    - bel
 target-languages:
    - spa
 training-data:
-   - bel-spa: Tatoeba-train (203839) 
-   - bel_Latn-spa: Tatoeba-train (708) 
+   bel-spa: Tatoeba-train (203839) 
+   bel_Latn-spa: Tatoeba-train (708) 
 validation-data:
-   - bel-spa: Tatoeba-dev, 995
-   - bel_Latn-spa: Tatoeba-dev, 5
-   - total size of shuffled dev data: 793
-   - devset = top 793  lines of Tatoeba-dev.src.shuffled!
+   bel-spa: Tatoeba-dev, 995
+   bel_Latn-spa: Tatoeba-dev, 5
+   total-size-shuffled: 793
+   devset-selected: top 793  lines of Tatoeba-dev.src.shuffled!
 test-data:
-   - Tatoeba-test.bel_Latn-spa: 1/9
-   - Tatoeba-test.bel-spa: 205/1412
+   Tatoeba-test.bel_Latn-spa: 1/9
+   Tatoeba-test.bel-spa: 205/1412
 BLEU-scores:
-   - Tatoeba-test.bel_Latn-spa: 5.4
-   - Tatoeba-test.bel-spa: 11.8
+   Tatoeba-test.bel_Latn-spa: 5.4
+   Tatoeba-test.bel-spa: 11.8
 chr-F-scores:
-   - Tatoeba-test.bel_Latn-spa: 0.096
-   - Tatoeba-test.bel-spa: 0.272
+   Tatoeba-test.bel_Latn-spa: 0.096
+   Tatoeba-test.bel-spa: 0.272
