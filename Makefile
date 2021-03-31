@@ -59,13 +59,12 @@ OPUS_HOME      = /projappl/nlpl/data/OPUS
 OPUSMT_HOMEDIR = ../Opus-MT-train
 
 
-## VERSION = date of today
-## TATOEBA_VERSION: latest Tatoeba release in OPUS
+## VERSION ............. version of the current release
+## TATOEBA_VERSION ..... Tatoeba corpus release this is based on
 
 TODAY          := $(shell date +%F)
-# VERSION       = v$(shell date +%F)
-VERSION         = v2019-07-09
-TATOEBA_VERSION = ${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest 2>/dev/null}}
+VERSION         = v2020-07-28
+TATOEBA_VERSION = v20190709
 
 
 ## maximum size of dev and test sets
@@ -259,17 +258,53 @@ all: opus-langs.txt
 	${MAKE} subsets
 	${MAKE} extra-traindata
 	${MAKE} extra-statistics
-	${MAKE} tag-release
+	${MAKE} release-tag
 
 release:
-	${MAKE} VERSION=v${TODAY} all
+	${MAKE} TATOEBA_VERSION=${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest 2>/dev/null}} \
+		VERSION=v${TODAY} all
+	mv -f README.md README-v${TODAY}.md
+	${MAKE} VERSION=v${TODAY} README.md
 	@echo "--------------------------------"
 	@echo "Don't forget to upload the data!"
 	@echo "  module load allas"
 	@echo "  allas-conf"
-	@echo "  make VERSION=v${TODAY} upload"
+	@echo "  make VERSION=v${TODAY} upload-release"
 	@echo "--------------------------------"
 
+release-tag:
+	@echo "# Release ${VERSION}"          >> Releases.md
+	@echo ""                              >> Releases.md
+	@echo "* [Test data](${TATOEBA_DATAURL}}-devtest/test-${VERSION}.tar) (${VERSION})" >> Releases.md
+	@echo "* [Development data](${TATOEBA_DATAURL}}-devtest/dev-${VERSION}.tar) (${VERSION})" >> Releases.md
+	@echo "* [Bilingual training data](Data-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> Releases.md
+	@echo "* [Extra bilingual training data](subsets/NoTestData-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> Releases.md
+	@echo ""                             >> Releases.md
+	git add ${TESTDATADIR}/*/*.txt
+	git add ${DEVDATADIR}/*/*.txt
+	git add ${DEVTESTDIR}/*/*.txt
+	git add *-${VERSION}.md subsets/*.md subsets/${VERSION}/*.md
+	git commit -am 'updated dev and test data (${VERSION})'
+	git tag -a ${VERSION} -m "release version ${VERSION}"
+
+
+
+## generate readme file
+
+TESTSET_VERSION       ?= ${VERSION}
+DEVSET_VERSION        ?= ${VERSION}
+TRAINSET_VERSION      ?= ${VERSION}
+EXTRATRAINSET_VERSION ?= ${VERSION}
+MONO_VERSION          ?= ${VERSION}
+
+README.md: README.template
+	sed 	-e 's/%%RELEASE%%/${VERSION}/g' \
+		-e 's/%%TESTSET_RELEASE%%/${TESTSET_VERSION}/g' \
+		-e 's/%%DEVSET_RELEASE%%/${DEVSET_VERSION}/g' \
+		-e 's/%%TRAINSET_RELEASE%%/${TRAINSET_VERSION}/g' \
+		-e 's/%%EXTRATRAINSET_RELEASE%%/${EXTRATRAINSET_VERSION}/g' \
+		-e 's/%%MONO_RELEASE%%/${MONO_VERSION}/g' \
+	< $< > $@
 
 ## make a new test set release
 ## (skip training data)
@@ -279,12 +314,13 @@ testset-all: opus-langs.txt
 	${MAKE} testdata
 	${MAKE} devdata
 	${MAKE} dev-tsv test-tsv
-	${MAKE} statistics
-	${MAKE} subsets
-	${MAKE} tag-release
+	${MAKE} testset-release-tag
 
 testset-release: 
-	${MAKE} VERSION=v${TODAY} testset-all
+	${MAKE} TATOEBA_VERSION=${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest 2>/dev/null}} \
+		VERSION=v${TODAY} testset-all
+	mv -f README.md README-v${TODAY}.md
+	${MAKE} TESTSET_VERSION=v${TODAY} DEVSET_VERSION=v${TODAY} README.md
 	@echo "--------------------------------"
 	@echo "Don't forget to upload the data!"
 	@echo "  module load allas"
@@ -292,16 +328,19 @@ testset-release:
 	@echo "  make VERSION=v${TODAY} upload-test upload-dev"
 	@echo "--------------------------------"
 
+#	git push origin master
 
-tag-release:
+testset-release-tag:
+	@echo "# Release ${VERSION}"          >> Releases.md
+	@echo ""                             >> Releases.md
+	@echo "* [Test data](${TATOEBA_DATAURL}}-devtest/test-${VERSION}.tar) (${VERSION})" >> Releases.md
+	@echo "* [Development data](${TATOEBA_DATAURL}}-devtest/dev-${VERSION}.tar) (${VERSION})" >> Releases.md
+	@echo ""                             >> Releases.md
 	git add ${TESTDATADIR}/*/*.txt
 	git add ${DEVDATADIR}/*/*.txt
 	git add ${DEVTESTDIR}/*/*.txt
-	git add Data-${VERSION}.md subsets/*.md subsets/${VERSION}/*.md
 	git commit -am 'updated dev and test data (${VERSION})'
-	git tag -a ${VERSION} "release version ${VERSION}"
-
-#	git push origin master
+	git tag -a ${VERSION} -m "release version ${VERSION}"
 
 
 
@@ -326,6 +365,7 @@ overlaps: ${OVERLAPTEST} ${OVERLAPDEV}
 
 ## make a new release (upload all data)
 upload: upload-test upload-dev upload-devtest upload-train upload-mono
+upload-release: upload-test upload-dev upload-train extra-upload
 
 ## individual data set uploads
 upload-devtest: ${DEVTESTDIR}.done
@@ -600,20 +640,22 @@ ${RELEASEDIR}/%/train.id.gz:
 ## force readme's to stay
 .SECONDARY: ${patsubst %,${RELEASEDIR}/%/README.md,${TATOEBA_PAIRS3}}
 
-${RELEASEDIR}/%/README.md: ${RELEASEDIR}/%
+${DATADIR}/%/README.md:
+	@echo "create $@ .."
 	@echo "# Tatoeba MT Challenge - ${notdir $<} - ${VERSION}" > $@
 	@echo ""                              >> $@
 	@echo "Data from the [Tatoeba MT Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge)" >> $@
 	@echo ""                              >> $@
 	@echo "* language pair: ${notdir $<}" >> $@
 	@echo "* version: ${VERSION}"         >> $@
+	@echo "* based on Tatoeba corpus release [${TATOEBA_VERSION}](https://opus.nlpl.eu/Tatoeba-${TATOEBA_VERSION}.php)" >> $@
 	@echo "* license: [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)" >> $@
 	@echo "* released files:"             >> $@
 	@echo ""                              >> $@
 	@echo "\`\`\`"                        >> $@
-	@ls $< | tr " " "\n"                  >> $@
+	@find ${dir $@} -type f | \
+	sed 's#^${dir $@}##' | tr " " "\n"    >> $@
 	@echo "\`\`\`"                        >> $@
-
 
 
 ## make test and dev data
@@ -1269,7 +1311,7 @@ ${RELEASEDIR}/%.done: ${RELEASEDIR}/% ${RELEASEDIR}/%/README.md
 	touch $@
 
 ## incremental data sets
-${DEVTESTDIR}.done: ${DEVTESTDIR}
+${DEVTESTDIR}.done: ${DEVTESTDIR} ${DEVTESTDIR}/README.md
 	a-put ${APUT_FLAGS} -b ${DEVTEST_CONTAINER} $<
 	touch $@
 
@@ -1280,7 +1322,7 @@ ${TESTDATADIR}-${VERSION}.size: ${TESTDATADIR}
 	find $< -name 'test.txt' -exec wc -l {} \; > $@
 
 ## subset of test sets that are larger than 200 sentences
-${TESTDATADIR}-${VERSION}: ${TESTDATADIR}-${VERSION}.size
+${TESTDATADIR}-${VERSION}: ${TESTDATADIR}-${VERSION}.size ${TESTDATADIR}-${VERSION}/README.md
 	mkdir -p ${dir $@}
 	egrep '[0-9]{4,}' $< | cut -f2 -d' '  > $@.selected
 	egrep '[2-9]{3}'  $< | cut -f2 -d' ' >> $@.selected
@@ -1300,7 +1342,7 @@ ${DEVDATADIR}-${VERSION}.size: ${DEVDATADIR}
 	find $< -name 'dev.txt' -exec wc -l {} \; > $@
 
 ## subset of dev sets that are larger than 200 sentences
-${DEVDATADIR}-${VERSION}: ${DEVDATADIR}-${VERSION}.size
+${DEVDATADIR}-${VERSION}: ${DEVDATADIR}-${VERSION}.size ${DEVDATADIR}-${VERSION}/README.md
 	mkdir -p ${dir $@}
 	egrep '[0-9]{4,}' $< | cut -f2 -d' '  > $@.selected
 	egrep '[2-9]{3}'  $< | cut -f2 -d' ' >> $@.selected
