@@ -76,7 +76,7 @@ Files with the extension `.src` refer to sentences in the source language (`deu`
 
 Other notes about the compilation of the data sets can be found in [Development.md](Development.md) and the complete lists of language pairs is in [Data.md](Data.md).
 
-New releases are planned in the future and will be announced here. Development and test data will be updated regularly but the original test sets will stay in the release. Updates of the test data will be available through this [devtest release](https://object.pouta.csc.fi/Tatoeba-Challenge/devtest.tar) and will not include any examples available in development data. Those data sets are also available from this git repository in the sub directory [data/devtest/](tree/master/data/devtest).
+New releases are planned in the future and will be announced here. Development and test data will be updated regularly but the original test sets will stay in the release. Updates of the test data will be available through this [devtest release](https://object.pouta.csc.fi/Tatoeba-Challenge/devtest.tar) and will not include any examples available in development data. Those data sets are also available from this git repository in the sub directory [data/devtest/](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/data/devtest).
 
 
 ## The translation challenge
@@ -114,17 +114,9 @@ There are some initial baseline results for parts of the data set using the setu
 * results for the [medium resource language pairs](results/tatoeba-results-all-subset-medium.md)
 * results for the [higher resource language pairs](results/tatoeba-results-all-subset-higher.md)
 * results for the [highest resource language pairs](results/tatoeba-results-all-subset-highest.md)
-* results for [multilingual models of various ISO639-5 language groups](results/tatoeba-results-langgroup.md)
-* [all results sorted by chrF2 scores](results/tatoeba-results-sorted.md)
 * [all results sorted by language pair](results/tatoeba-results-all.md)
 
-We will also publish (reasonable) models to be re-used and deployed through OPUS-MT and linked from the [model subdir in this github](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models). This includes multilingual models that cover several languages in source and target to enable transfer learning across languages. For example, there are multilingual models for
-
-* [all the zero resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/tatoeba-zero)
-* [all the lowest resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/tatoeba-lowest)
-* [all the lower resource language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/tatoeba-lower)
-* [multilingual models of various ISO639-5 language groups](results/tatoeba-results-langgroup.md)
-* [bel+rus+ukr-bel+rus+ukr](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models/bel+rus+ukr-bel+rus+ukr)
+We will also publish (reasonable) models to be re-used and deployed through [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT) and linked from the [model subdir in this github](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models). This includes multilingual models that cover several languages in source and target to enable transfer learning across languages.
 
 
 

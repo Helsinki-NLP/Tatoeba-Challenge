@@ -14,21 +14,35 @@
 ## TODO: integrate more data filters (OPUS-Filter?)
 ##
 ##
-## main recipes:
+##--------------------------------------------------------------------
+## (1) create a new release including everything:
 ##
-## make VERSION=`date +%F` all . make a new release
-## make update ................. update test data with latest Tatoeba data
-## make upload-devtest ......... upload the devtest tarball (do that after update!)
-## make upload ................. upload release data to allas (requires allas-conf)
-## make cleanup ................ some cleanup in tatoeba data release dirs
+## make release
+## module load allas
+## allas-conf
+## make upload
+##--------------------------------------------------------------------
+## (2) create a new testset release (including devsets)
 ##
+## make testset-release
+## module load allas
+## allas-conf
+## make upload-test upload-dev
+##--------------------------------------------------------------------
+## (3) update dev and test data (incremental updates from Tatoeba)
 ##
+## make update ................... update test data with latest Tatoeba data
+## make upload-devtest ........... upload the devtest tarball (do that after update!)
+##--------------------------------------------------------------------
 ## other important recipes:
 ##
+## make cleanup .................. some cleanup in tatoeba data release dirs
 ##--------------------------------------------------------------------
-## working with Tatoeba-MT models
+## (4) working with Tatoeba-MT models
 ##
 ## make update-models .......... update the model releases
+##
+## The command above will run:
 ##
 ## make cleanup-model-dirs ..... remove duplicates in released model dir
 ## make upload-models .......... upload models in release-dir
@@ -49,8 +63,8 @@ OPUSMT_HOMEDIR = ../Opus-MT-train
 ## TATOEBA_VERSION: latest Tatoeba release in OPUS
 
 TODAY          := $(shell date +%F)
-# VERSION         = v$(shell date +%F)
-VERSION         = v20190709
+# VERSION       = v$(shell date +%F)
+VERSION         = v2019-07-09
 TATOEBA_VERSION = ${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest 2>/dev/null}}
 
 
@@ -131,8 +145,8 @@ endif
 
 ## all languages in the current Tatoeba data set in OPUS
 
-TATOEBA_LANGS = ${sort ${patsubst %.txt.gz,%,${notdir ${wildcard ${OPUS_HOME}/Tatoeba/${TATOEBA_VERSION}/mono/*.txt.gz}}}}
-TATOEBA_PAIRS = ${sort ${patsubst %.xml.gz,%,${notdir ${wildcard ${OPUS_HOME}/Tatoeba/${TATOEBA_VERSION}/xml/*.xml.gz}}}}
+TATOEBA_LANGS := ${sort ${patsubst %.txt.gz,%,${notdir ${wildcard ${OPUS_HOME}/Tatoeba/${TATOEBA_VERSION}/mono/*.txt.gz}}}}
+TATOEBA_PAIRS := ${sort ${patsubst %.xml.gz,%,${notdir ${wildcard ${OPUS_HOME}/Tatoeba/${TATOEBA_VERSION}/xml/*.xml.gz}}}}
 
 
 ## ISO-639-3 language codes
@@ -151,12 +165,6 @@ TESTDATADIR = ${DATADIR}/test
 DEVDATADIR  = ${DATADIR}/dev
 INFODIR     = ${RELEASEDIR}
 
-# RELEASEDIR  = ${DATADIR}/release
-# DEVTESTDIR  = ${DATADIR}/devtest
-# TESTDATADIR = ${DATADIR}/test
-# DEVDATADIR  = ${DATADIR}/dev
-# INFODIR     = ${RELEASEDIR}
-
 
 
 ## all data files we need to produce
@@ -164,11 +172,17 @@ INFODIR     = ${RELEASEDIR}
 TRAIN_DATA  = ${patsubst %,${RELEASEDIR}/%/train.id.gz,${TATOEBA_PAIRS3}}
 TEST_DATA   = ${patsubst %,${RELEASEDIR}/%/test.id,${TATOEBA_PAIRS3}}
 DEV_DATA    = ${patsubst %,${RELEASEDIR}/%/dev.id,${TATOEBA_PAIRS3}}
-TEST_TSV    = ${patsubst ${RELEASEDIR}/%.id,${DATADIR}/test/%.txt,${wildcard ${RELEASEDIR}/*/test.id}}
-DEV_TSV     = ${patsubst ${RELEASEDIR}/%.id,${DATADIR}/dev/%.txt,${wildcard ${RELEASEDIR}/*/dev.id}}
-LANGIDS     = ${patsubst %,${INFODIR}/%/langids,${TATOEBA_PAIRS3}}
-OVERLAPTEST = ${patsubst ${RELEASEDIR}/%/train.id.gz,${INFODIR}/%/overlap-with-test,${wildcard ${RELEASEDIR}/*/train.id.gz}}
-OVERLAPDEV  = ${patsubst ${RELEASEDIR}/%/train.id.gz,${INFODIR}/%/overlap-with-dev,${wildcard ${RELEASEDIR}/*/train.id.gz}}
+
+TEST_TSV    := ${patsubst ${RELEASEDIR}/%.id,${DATADIR}/test/%.txt,${wildcard ${RELEASEDIR}/*/test.id}}
+DEV_TSV     := ${patsubst ${RELEASEDIR}/%.id,${DATADIR}/dev/%.txt,${wildcard ${RELEASEDIR}/*/dev.id}}
+LANGIDS     := ${patsubst %,${INFODIR}/%/langids,${TATOEBA_PAIRS3}}
+OVERLAPTEST := ${patsubst ${RELEASEDIR}/%/train.id.gz,${INFODIR}/%/overlap-with-test,${wildcard ${RELEASEDIR}/*/train.id.gz}}
+OVERLAPDEV  := ${patsubst ${RELEASEDIR}/%/train.id.gz,${INFODIR}/%/overlap-with-dev,${wildcard ${RELEASEDIR}/*/train.id.gz}}
+
+
+## language pairs that we can release
+
+RELEASE_DATA := $(shell find ${RELEASEDIR} -maxdepth 1 -mindepth 1 -type d)
 
 
 ## this is for regular updates of testdata with new Tatoeba releases in OPUS
@@ -189,7 +203,7 @@ DOWNLOADURL        := https://object.pouta.csc.fi
 TATOEBA_DATAURL    := https://object.pouta.csc.fi/Tatoeba-Challenge
 TATOEBA_MODELURL   := https://object.pouta.csc.fi/Tatoeba-MT-models
 
-TATOEBA_CONTAINER   = Tatoeba-Challenge
+DEVTEST_CONTAINER   = Tatoeba-Challenge-devtest
 RELEASE_CONTAINER   = Tatoeba-Challenge-${VERSION}
 WIKIDOC_CONTAINER   = Tatoeba-Challenge-WikiDoc-${VERSION}
 WIKISHUF_CONTAINER  = Tatoeba-Challenge-WikiShuffled-${VERSION}
@@ -223,9 +237,9 @@ WIKI_DOCS      = ${patsubst %,${RELEASEDIR}/%/wikipedia.id.gz,${WIKI_LANGS3}} \
 
 ## new lang ID files with normalised codes and script info
 
-NEW_TEST_IDS  = ${patsubst ${RELEASEDIR}/%.ids,${RELEASEDIR}/%.id,${wildcard ${RELEASEDIR}/*/test.ids}}
-NEW_DEV_IDS   = ${patsubst ${RELEASEDIR}/%.ids,${RELEASEDIR}/%.id,${wildcard ${RELEASEDIR}/*/dev.ids}}
-NEW_TRAIN_IDS = ${patsubst ${RELEASEDIR}/%.ids.gz,${RELEASEDIR}/%.id.gz,${wildcard ${RELEASEDIR}/*/train.ids.gz}}
+# NEW_TEST_IDS  := ${patsubst ${RELEASEDIR}/%.ids,${RELEASEDIR}/%.id,${wildcard ${RELEASEDIR}/*/test.ids}}
+# NEW_DEV_IDS   := ${patsubst ${RELEASEDIR}/%.ids,${RELEASEDIR}/%.id,${wildcard ${RELEASEDIR}/*/dev.ids}}
+# NEW_TRAIN_IDS := ${patsubst ${RELEASEDIR}/%.ids.gz,${RELEASEDIR}/%.id.gz,${wildcard ${RELEASEDIR}/*/train.ids.gz}}
 
 
 
@@ -234,6 +248,10 @@ NEW_TRAIN_IDS = ${patsubst ${RELEASEDIR}/%.ids.gz,${RELEASEDIR}/%.id.gz,${wildca
 .PHONY: extra-traindata extra-statistics extra-upload
 .PHONY: update update-testdata
 
+
+## make all (completely new release)
+## including training data and extra data sets
+
 all: opus-langs.txt
 	${MAKE} data
 	${MAKE} dev-tsv test-tsv
@@ -241,6 +259,53 @@ all: opus-langs.txt
 	${MAKE} subsets
 	${MAKE} extra-traindata
 	${MAKE} extra-statistics
+	${MAKE} tag-release
+
+release:
+	${MAKE} VERSION=v${TODAY} all
+	@echo "--------------------------------"
+	@echo "Don't forget to upload the data!"
+	@echo "  module load allas"
+	@echo "  allas-conf"
+	@echo "  make VERSION=v${TODAY} upload"
+	@echo "--------------------------------"
+
+
+## make a new test set release
+## (skip training data)
+## TODO: How do we present that on the website?
+
+testset-all: opus-langs.txt
+	${MAKE} testdata
+	${MAKE} devdata
+	${MAKE} dev-tsv test-tsv
+	${MAKE} statistics
+	${MAKE} subsets
+	${MAKE} tag-release
+
+testset-release: 
+	${MAKE} VERSION=v${TODAY} testset-all
+	@echo "--------------------------------"
+	@echo "Don't forget to upload the data!"
+	@echo "  module load allas"
+	@echo "  allas-conf"
+	@echo "  make VERSION=v${TODAY} upload-test upload-dev"
+	@echo "--------------------------------"
+
+
+tag-release:
+	git add ${TESTDATADIR}/*/*.txt
+	git add ${DEVDATADIR}/*/*.txt
+	git add ${DEVTESTDIR}/*/*.txt
+	git add Data-${VERSION}.md subsets/*.md subsets/${VERSION}/*.md
+	git commit -am 'updated dev and test data (${VERSION})'
+	git tag -a ${VERSION} "release version ${VERSION}"
+
+#	git push origin master
+
+
+
+
 
 
 data: ${TEST_DATA} ${DEV_DATA} ${TRAIN_DATA}
@@ -259,11 +324,15 @@ langids: ${DATADIR}/langids-train.txt ${DATADIR}/langids-dev.txt ${DATADIR}/lang
 statistics: ${STATISTICS}
 overlaps: ${OVERLAPTEST} ${OVERLAPDEV}
 
+## make a new release (upload all data)
 upload: upload-test upload-dev upload-devtest upload-train upload-mono
+
+## individual data set uploads
 upload-devtest: ${DEVTESTDIR}.done
 upload-test: ${TESTDATADIR}-${VERSION}.done
 upload-dev: ${DEVDATADIR}-${VERSION}.done
-upload-train: ${patsubst %,${RELEASEDIR}/%.done,${TATOEBA_PAIRS3}}
+upload-train: ${patsubst %,%.done,${RELEASE_DATA}}
+# upload-train: ${patsubst %,${RELEASEDIR}/%.done,${TATOEBA_PAIRS3}}
 upload-mono: ${patsubst %,${RELEASEDIR}/%.done,${WIKI_LANGS3}}
 upload-wikishuffled: ${patsubst wiki-shuffled/%,${RELEASEDIR}/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
 upload-wikidoc: ${patsubst wiki-doc/%,${RELEASEDIR}/wiki-doc-%.done,${wildcard wiki-doc/???}}
@@ -528,6 +597,25 @@ ${RELEASEDIR}/%/train.id.gz:
 	rmdir ${dir $@}train.d
 
 
+## force readme's to stay
+.SECONDARY: ${patsubst %,${RELEASEDIR}/%/README.md,${TATOEBA_PAIRS3}}
+
+${RELEASEDIR}/%/README.md: ${RELEASEDIR}/%
+	@echo "# Tatoeba MT Challenge - ${notdir $<} - ${VERSION}" > $@
+	@echo ""                              >> $@
+	@echo "Data from the [Tatoeba MT Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge)" >> $@
+	@echo ""                              >> $@
+	@echo "* language pair: ${notdir $<}" >> $@
+	@echo "* version: ${VERSION}"         >> $@
+	@echo "* license: [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)" >> $@
+	@echo "* released files:"             >> $@
+	@echo ""                              >> $@
+	@echo "\`\`\`"                        >> $@
+	@ls $< | tr " " "\n"                  >> $@
+	@echo "\`\`\`"                        >> $@
+
+
+
 ## make test and dev data
 ## split shuffled Tatoeba data
 
@@ -583,12 +671,14 @@ ${RELEASEDIR}/%/test.id:
 ## dev data in the release: merge all cumulated dev data in data/devtest
 
 ${RELEASEDIR}/%/dev.id: 
-	${MAKE} ${patsubst ${RELEASEDIR}/%/dev.id,${DEVTESTDIR}/%/dev-${TATOEBA_VERSION}.txt,$@}
+	${MAKE} ${patsubst ${RELEASEDIR}/%/dev.id,${DEVTESTDIR}/%/test-${TATOEBA_VERSION}.txt,$@}
 	mkdir -p ${dir $@}
-	cat ${patsubst ${RELEASEDIR}/%/dev.id,${DEVTESTDIR}/%,$@}/dev-*.txt > $@.merged
-	cut -f1,2 $@.merged > $@
-	cut -f3 $@.merged > ${dir $@}dev.src
-	cut -f4 $@.merged > ${dir $@}dev.trg
+	-cat ${patsubst ${RELEASEDIR}/%/dev.id,${DEVTESTDIR}/%,$@}/dev-*.txt > $@.merged
+	if [ -s $@.merged ]; then \
+	  cut -f1,2 $@.merged > $@; \
+	  cut -f3 $@.merged > ${dir $@}dev.src; \
+	  cut -f4 $@.merged > ${dir $@}dev.trg; \
+	fi
 	rm -f $@.merged
 
 
@@ -891,6 +981,8 @@ subsets: subsets/insufficient.md \
 	subsets/LessThan1000.md
 
 
+.PRECIOUS: subsets/${VERSION}/%.md
+
 subsets/%.md: subsets/${VERSION}/%.md
 	cp $< $@
 
@@ -903,14 +995,14 @@ subsets/${VERSION}/%.md: ${STATISTICS}
 	@echo "There is a total of" >> $@
 	@echo "" >> $@
 	@echo -n "* " >> $@
-	${SCRIPTDIR}/divide-data-sets.pl < $< |\
+	${SCRIPTDIR}/divide-data-sets.pl ${VERSION} < $< |\
 	grep '${patsubst %.md,%,${notdir $@}}' |\
 	wc -l | tr "\n" ' ' >> $@
 	@echo " language pairs in this sub-set" >> $@
 	@echo "" >> $@
 	@echo "| lang-pair |    test    |    dev     |    train   |" >> $@
 	@echo "|-----------|------------|------------|------------|" >> $@
-	${SCRIPTDIR}/divide-data-sets.pl < $< |\
+	${SCRIPTDIR}/divide-data-sets.pl ${VERSION} < $< |\
 	grep '${patsubst %.md,%,${notdir $@}}' |\
 	sed 's/|[^|]*$$/|/' >> $@
 
@@ -937,7 +1029,7 @@ ${DATADIR}/relative-test-size-per-language.txt:
 
 
 # TATOEBA_READMES = $(wildcard models/*/README.md)
-TATOEBA_YAML = $(wildcard models/*/*.yml)
+TATOEBA_YAML := $(wildcard models/*/*.yml)
 
 models/released-models.txt: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
@@ -1168,32 +1260,18 @@ cleanup-model-dirs:
 ##   allas-conf
 
 
-CSC_PROJECT = project_2003093
-APUT_FLAGS = -p ${CSC_PROJECT} --override --nc --skip-filelist
+CSC_PROJECT = project_2000661
+APUT_FLAGS  = -p ${CSC_PROJECT} --override --nc --skip-filelist
 
 ## released train/dev/test data
-${RELEASEDIR}/%.done: ${RELEASEDIR}/%
+${RELEASEDIR}/%.done: ${RELEASEDIR}/% ${RELEASEDIR}/%/README.md
 	a-put ${APUT_FLAGS} -b ${RELEASE_CONTAINER} $<
 	touch $@
 
 ## incremental data sets
 ${DEVTESTDIR}.done: ${DEVTESTDIR}
-	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} $<
+	a-put ${APUT_FLAGS} -b ${DEVTEST_CONTAINER} $<
 	touch $@
-
-
-# ## released test sets
-# ${TESTDATADIR}-${VERSION}.done: ${TESTDATADIR}
-# 	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} -o test-${VERSION} $<
-# 	touch $@
-
-# ## released dev sets
-# ${DEVDATADIR}-${VERSION}.done: ${DEVDATADIR}
-# 	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} -o dev-${VERSION} $<
-# 	touch $@
-
-
-
 
 
 
@@ -1212,7 +1290,7 @@ ${TESTDATADIR}-${VERSION}: ${TESTDATADIR}-${VERSION}.size
 
 ## released test sets
 ${TESTDATADIR}-${VERSION}.done: ${TESTDATADIR}-${VERSION}
-	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} $<
+	a-put ${APUT_FLAGS} -b ${DEVTEST_CONTAINER} $<
 	touch $@
 
 
@@ -1221,7 +1299,7 @@ ${TESTDATADIR}-${VERSION}.done: ${TESTDATADIR}-${VERSION}
 ${DEVDATADIR}-${VERSION}.size: ${DEVDATADIR}
 	find $< -name 'dev.txt' -exec wc -l {} \; > $@
 
-## subset of test sets that are larger than 200 sentences
+## subset of dev sets that are larger than 200 sentences
 ${DEVDATADIR}-${VERSION}: ${DEVDATADIR}-${VERSION}.size
 	mkdir -p ${dir $@}
 	egrep '[0-9]{4,}' $< | cut -f2 -d' '  > $@.selected
@@ -1230,9 +1308,9 @@ ${DEVDATADIR}-${VERSION}: ${DEVDATADIR}-${VERSION}.size
 	tar -xf $@.tar
 	rm -f $@.tar
 
-## released test sets
+## released dev sets
 ${DEVDATADIR}-${VERSION}.done: ${DEVDATADIR}-${VERSION}
-	a-put ${APUT_FLAGS} -b ${TATOEBA_CONTAINER} $<
+	a-put ${APUT_FLAGS} -b ${DEVTEST_CONTAINER} $<
 	touch $@
 
 

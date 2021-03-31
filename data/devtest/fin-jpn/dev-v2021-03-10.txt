@@ -1,0 +1,851 @@
+fin	jpn_Hira	Minulla on narttukissa. 	メス猫を飼ってるんだ。 
+fin	jpn_Hira	Hän oli lukemassa, vierellään vaimo kutomassa lapasia. 	彼は読書をし、その傍らで妻が手袋を編んでいた。 
+fin	jpn_Hani	Olen syntynyt vuonna 1979. 	１９７９年生まれです。 
+fin	jpn_Hira	Näillä saappailla on vaikea kävellä. 	この長靴は歩きにくいな。 
+fin	jpn_Hira	Oletko sinä pitkä? 	君って背が高いの？ 
+fin	jpn_Hira	Mikset syönyt aamiaista? 	なんで朝ごはんを食べなかったの？ 
+fin	jpn_Hira	Se löi mulle luurin korvaan. 	あいつが一方的に電話を切ったんだ。 
+fin	jpn_Hira	Kuka korvaa vahingot? 	だれがその損害を償うのですか。 
+fin	jpn_Hira	Minulla ei ole isoveljeä. 	兄はいないんだ。 
+fin	jpn_Hani	Harrastan liikuntaa tunnin joka päivä. 	私は毎日１時間、運動をしています。 
+fin	jpn_Hani	Onko lunta vielä satanut? – Joo, satoi jo aikaa sitten. Nyt myös kertyy sentistä kahteen. 	「もう、雪は降った？」「うん。とっくに降ったよ。今も１－２センチ積もってるよ」 
+fin	jpn_Hira	Hänellä jäi sormet oven väliin. 	彼女はドアに指を挟んでしまった。 
+fin	jpn_Hira	Tässä sairaalassa on täysin varustettu 10 paikkainen steriili huone suojaamaan potilaita, joilla on alentunut immuniteetti. 	当病院には、免疫力が低下した患者さんを感染から守るため、無菌室を１０床完備しております。 
+fin	jpn_Hira	Mua ei kiinnosta, ihan sama mitä se sanoo. 	あいつが何を言おうと、俺は気にしてないんだよ。 
+fin	jpn_Hira	Tuo kitaraa soittava poika on pikkuveljeni. 	あのギターを弾いてる子は私の弟なの。 
+fin	jpn_Kana	Tomi muutti Bostoniin. 	トムはボストンへ移った。 
+fin	jpn_Hani	Saanko koskea hiuksiasi? 	髪、触ってもいい？ 
+fin	jpn_Hira	Tomikin tykkää Marista. 	トムもメアリーが好きなんだ。 
+fin	jpn_Hani	Uin täällä joka aamu. 	毎朝、ここで泳いでるよ。 
+fin	jpn_Kana	Hummeri oli herkullista. 	ロブスター美味しかった。 
+fin	jpn_Hira	Toi jätkä ei tosiaankaan mitään valehtele. 	あいつは絶対嘘なんかつかないよ。 
+fin	jpn_Hira	Yhtäkkiä alkoi sataa rankasti. 	突然雨が激しく降り始めた。 
+fin	jpn_Hira	WC on oikealla puolella. 	トイレは右側にあります。 
+fin	jpn_Kana	Mun poika on oppinut pytylle. 	息子は、トイトレが済んだわよ。 
+fin	jpn_Hira	Hyttysverkko oli repeytynyt. 	蚊帳が破けちゃった。 
+fin	jpn_Kana	Tomi tulee huomenna. 	トムは明日くるよ。 
+fin	jpn_Hira	Oli todella pimeää. 	とても暗かった。 
+fin	jpn_Hira	Älä odota minulta liikoja. 	あまり私に期待しないでよ。 
+fin	jpn_Hira	Sinun ei tarvitse olla niin muodollinen. 	そんなに堅苦しくなる必要はないよ。 
+fin	jpn_Hira	Kissat pitävät erityisesti kalasta. 	猫はとりわけ魚が好きだ。 
+fin	jpn_Hira	Isä ei juurikaan käy ulkona sunnuntaisin. 	父が日曜に外出することはまずない。 
+fin	jpn_Hira	En yleensä puhu ranskaa töissä. 	仕事では普段フランス語は話さないよ。 
+fin	jpn_Hani	Unohdin laittaa sukat jalkaan. 	靴下履き忘れた。 
+fin	jpn_Hira	Saisinko katsoa aikataulua? 	時刻表を見せてもらえませんか？ 
+fin	jpn_Hani	Tulipalon sattuessa, soita numeroon 119. 	火災の時には１１９番へ電話を。 
+fin	jpn_Hira	Pidän keitetyistä munista. 	ゆで卵が好きなんだ。 
+fin	jpn_Hira	Lempimusiikkia kovalla kuunnellessa on ihan huippua ajella. 	好きな音楽をガンガン聞きながらドライブするのが最高なんだよ。 
+fin	jpn_Kana	Isi, Maria löi! 	パパ、マリアが叩いた！ 
+fin	jpn_Kana	Sain Tomilta joulukortin. 	トムからクリスマスカードをもらったよ。 
+fin	jpn_Hira	Kissa leikkii koiran kanssa. 	猫が犬と遊んでるよ。 
+fin	jpn_Kana	Vessa on yläkerrassa. 	トイレは上の階です。 
+fin	jpn_Kana	Ne on kyttiä. 	奴らはサツだよ。 
+fin	jpn_Hira	Mari ei ole Tomin lapsenlapsi, vaan siskontytär. 	メアリーはトムの孫娘じゃなくて姪ですよ。 
+fin	jpn_Hani	Se laatikko on puinen. 	その箱は木製です。 
+fin	jpn_Hira	Ei kiinnosta yhtään. 	全然興味がありません。 
+fin	jpn_Hira	Sinne kestää bussilla kaksi tuntia. 	そこまでバスで２時間かかるよ。 
+fin	jpn_Hira	Hän epäröi hetken ennen vastaamista. 	彼は答える前に一瞬ためらった。 
+fin	jpn_Hira	Kävin isän haudalla. 	父のお墓参りをしてきたんです。 
+fin	jpn_Hira	Kiitoksia tästä päivästä. 	今日はありがとうございました。 
+fin	jpn_Hira	Kuulen jotain. 	何かが聞こえます。 
+fin	jpn_Hira	Viimeinen numero ei muistu mieleen. 	最後の数字が思い出せないんだ。 
+fin	jpn_Hira	Menen Hawaille laivalla. 	ハワイには船で行くつもりなんだ。 
+fin	jpn_Hani	Matot absorboivat ääntä. 	ラグは音を吸収します。 
+fin	jpn_Hira	Hänen maatilansa maaperä on hyvin hedelmällistä. 	彼の農場の土はとても肥えている。 
+fin	jpn_Hira	Leikitään että ollaan avaruusolioita. 	宇宙人ごっこしようよ。 
+fin	jpn_Hira	Totta puhuakseni, en pidä hänestä. 	実をいうと、彼女のこと好きじゃないの。 
+fin	jpn_Hira	Japanilaisille englanti on tosi vaikeaa. 	日本人にとって、英語は本当に難しいのよ。 
+fin	jpn_Hira	Tomi osti käsiaseen. 	トムは拳銃を買ったんだ。 
+fin	jpn_Hani	Sanotaan, että naispuolisten työntekijöiden itsemurhan syy ja motiivi on, että masennuksen ym. neurologisten sairauksien suhde on erittäin korkea, kattaen noin 40% kokonaisuudesta. 	女性有職者における自殺の原因・動機は、うつ病などの神経疾患の比率が非常に高く、全体の約４割にも及ぶと言われている。 
+fin	jpn_Hani	Isä menehtyi 2 vuotta sitten. 	父は２年前に亡くなった。 
+fin	jpn_Hira	Uskon rakkauteen ensisilmäyksellä. 	一目惚れって絶対あると思うわ。 
+fin	jpn_Hani	Nämä tammet ovat yli sata vuotiaita. 	これらの樫の木は樹齢１００年以上です。 
+fin	jpn_Hira	En haluaisi hoputtaa, mutta noustaan seuraavaan bussiin. 	急かしたくはないけど、次のバスに乗ろう。 
+fin	jpn_Hira	Milloin aloitit englannin opiskelun? 	英語の勉強を始めたのはいつなの？ 
+fin	jpn_Hira	Istuin bussin etuosassa. 	バスの前の方に座ったよ。 
+fin	jpn_Kana	Oletko nähnyt elokuvan "Aavikon leijona"? 	「砂漠のライオン」を見たことがあるの？ 
+fin	jpn_Hira	Palasin töistä ihan hetki sitten. 	仕事からちょうど戻ったとこよ。 
+fin	jpn_Hira	Pelottaa juoda se. 	それを飲むのはおっかないな。 
+fin	jpn_Hira	Tomi rakastui Mariin ensisilmäyksellä. 	トムはメアリーに一目惚れしてしまった。 
+fin	jpn_Hani	Ihmiset ovat epäloogisia. 	人間は非論理的です。 
+fin	jpn_Hira	Miksiköhän vastausta ei tule? 	どうして返事が来ないんだろう？ 
+fin	jpn_Hira	Ruusut tuoksuvat ihanalle. 	薔薇は素敵な香りがするね。 
+fin	jpn_Hira	Onko kaikilla kynät? 	みんなペンはある？ 
+fin	jpn_Hira	Minulla on kylmä. Voinko sulkea ikkunan? 	寒いから、窓閉めてもいい？ 
+fin	jpn_Hira	Ei näytä käyvän järkeen. 	筋が通ってないだろう。 
+fin	jpn_Hira	Viime aikoina koronavirus on levinnyt yhdysvalloissa nopeasti. 	最近、アメリカでコロナウイルスがどんどん広がってるんだ。 
+fin	jpn_Hira	Kuulemma Akira harjoittelee japanilaista jousiammuntaa joka perjantai. 	明君って毎週金曜日に弓道をするんだって。 
+fin	jpn_Hira	Onko sinulla ystäviä ulkomailla? 	海外に友達はいますか？ 
+fin	jpn_Hira	Onko tässä lähellä WC:tä? 	この近くにトイレはありますか？ 
+fin	jpn_Hani	Olen nyt töissä. 	今、仕事中だよ。 
+fin	jpn_Hani	Yritän korjata sen. 	直してみるよ。 
+fin	jpn_Hira	Hän avasi ikkunan. 	彼女は窓を開けました。 
+fin	jpn_Hira	Tomi näyttää uppoutuneen työhönsä. 	トムは仕事に没頭してるみたい。 
+fin	jpn_Hani	Tämä pyyhe imee vettä tosi hyvin. 	このタオル、本当によく水を吸うのよ。 
+fin	jpn_Hira	Tässä kuussa minun täytyy pitää kulut kurissa. 	今月は出費を抑えないと。 
+fin	jpn_Hira	Sen syömiseen tarvitaan rohkeutta. 	それを食べるのは勇気がいるなぁ。 
+fin	jpn_Hira	Kirjoitin hänen nimensä ylös etten unohtaisi sitä. 	忘れないように彼女の名前を書き留めました。 
+fin	jpn_Kana	Joka vuosi Tomi ja Mari lähettävät toisilleen joulukortin. 	毎年、トムとメアリーはクリスマスカードを送り合っています。 
+fin	jpn_Hira	Tomi auttoi minua muutossa. 	トムが引っ越しを手伝ってくれたのよ。 
+fin	jpn_Hira	Täällä on hyvä ilmastointi ja tämä on oivallinen paikka viilentelyyn. 	ここは風通しが良くて、涼むにはもってこいの場所なんだ。 
+fin	jpn_Kana	Olen kyllästynyt katsomaan telkkua. 	テレビは見飽きたよ。 
+fin	jpn_Hani	Tarvin pari-kolme pahvilaatikkoa. 	段ボールが２・３個いるの。 
+fin	jpn_Hira	Miksi olet ennakkoluuloinen japanin kieltä kohtaan? 	どうして、日本語を毛嫌いするの？ 
+fin	jpn_Hani	Hän nukkuu nyt makuusalissa. 	彼は今、寮で寝ています。 
+fin	jpn_Hira	Tomi uskoo että vampyyreja on olemassa. 	トムね、吸血鬼がいるって信じてるのよ。 
+fin	jpn_Kana	Tomi oli vielä elossa. 	トムって、まだ生きてたんだ。 
+fin	jpn_Hira	Tämä on virallinen tiedote. 	この報道は公式のものだ。 
+fin	jpn_Hani	Tuo on ikkuna. 	あれは窓だよ。 
+fin	jpn_Hani	Onko vuokravakuus välttämätön? 	敷金は必要ですか。 
+fin	jpn_Hira	Tomi ei riisunut takkiaan. 	トムはジャケットを脱がなかったよ。 
+fin	jpn_Hani	Minulla ei ole lapsenlapsia. 	孫はいないよ。 
+fin	jpn_Hira	Onko sinulla paljon kyniä? 	ペンはたくさん持ってる？ 
+fin	jpn_Hira	Tomi meni taloon ikkunan kautta. 	トムは窓から家の中に入れたんだ。 
+fin	jpn_Hira	Nyt maistuisi tuopillinen. 	一杯やりたいなあ。 
+fin	jpn_Hira	Tomi haluaa neuvon. 	トムはアドバイスが欲しいんだよ。 
+fin	jpn_Kana	Kolesteroliarvot ovat korkeat. 	コレステロール値が高いんだよ。 
+fin	jpn_Hira	Älä kohtele minua kuten basillia. 	ばい菌扱いするなよ。 
+fin	jpn_Hira	Mitä yleensä teet illallisen jälkeen? 	普段、夕飯の後って何してるの？ 
+fin	jpn_Hira	Sen juominen on pelottavaa. 	それを飲むのはおっかないな。 
+fin	jpn_Hira	Ehkä ei ole järkeenkäypä. 	筋が通ってないだろう。 
+fin	jpn_Kana	Tomi yritti yllättää Marin. 	トムはメアリーをビックリさせようとした。 
+fin	jpn_Hira	Hän ei kestänyt hellettä. 	彼は暑さに耐えられなかった。 
+fin	jpn_Hira	Tomi auttoi poikaansa vaihtamaan yöasuun. 	トムは息子が寝巻に着替えるのを手助けしてやった。 
+fin	jpn_Hani	Riippuu päivämäärästä. 	日にち次第よ。 
+fin	jpn_Hira	Hänellä ei ole oikeutta sekaantua meidän perheen asioihin. 	彼は私たちの家族の問題に干渉する権利はない。 
+fin	jpn_Kana	Tomi söi kerrosvoileivän omalla paikallaan. 	トムは自席でサンドイッチを食べました。 
+fin	jpn_Hani	Tomi äänestettiin Tasavallan Presidentiksi. 	トムは共和国大統領に選出されました。 
+fin	jpn_Hira	Isä antoi miljoonan dollarin pikkulainan. 	父は１００万ドルの少額融資をしてくれました。 
+fin	jpn_Hira	Huomenna täytyy lähteä aikaisin. 	明日は早く行かなきゃいけないんだ。 
+fin	jpn_Hira	Kun olen väsynyt, ajatukset käy hitaalla. 	疲れてる時は頭の回転が鈍いんだよ。 
+fin	jpn_Hani	Tuo on maailman nopein juna. 	あれが世界最速の列車だよ。 
+fin	jpn_Hani	Onko päivän lehteä? 	今日の新聞ある？ 
+fin	jpn_Kana	Nyt on mansikan sesonki. 	イチゴは今が旬だよ。 
+fin	jpn_Hira	Haluan tulla rikkaaksi. 	お金持ちになりたい。 
+fin	jpn_Hira	Luin sen kirjan loppuun eilisiltana. 	昨夜その本全部読み終わったよ。 
+fin	jpn_Kana	Vihreä joukkue hävisi. 	緑チームが負けました。 
+fin	jpn_Hira	Ikkuna rikottiin. 	窓が壊されました。 
+fin	jpn_Hani	Ehkä se on minun vikani. 	それ多分、俺のせいだ。 
+fin	jpn_Hira	Miksi laitoit sen siihen? 	どうしてそこに置いたの？ 
+fin	jpn_Kana	Tomi eli vielä. 	トムって、まだ生きてたんだ。 
+fin	jpn_Hira	Isi, mitä sinä teet siellä? 	パパ、そこで何してるの？ 
+fin	jpn_Hani	Rehellisesti sanoen, Tomi on pelottava. 	正直に言うと、トムのことが怖いの。 
+fin	jpn_Hani	Oletko huonovointinen? Olet kalpea. 	具合が悪いの？顔が青白いよ。 
+fin	jpn_Hira	Mistä tulit tänään? 	今日は、どちらからいらっしゃったんですか？ 
+fin	jpn_Hira	Hän käveleskeli ympäriinsä etsien häntä. 	彼女はあちこち彼を捜して歩いた。 
+fin	jpn_Hani	Valmentaja keräsi pelaajat urheilukentälle. 	監督は選手を運動場に集めた。 
+fin	jpn_Hira	Kapina oli lähtenyt täysin käsistä. 	暴動は手が付けられない状態だった。 
+fin	jpn_Kana	Mun latinan kielen kirja on pöydällä. 	私のラテン語の本は、テーブルの上にあるよ。 
+fin	jpn_Hani	Onko sinulla päivän lehteä? 	今日の新聞持ってる？ 
+fin	jpn_Hira	Osaatko kertoa mikä tämä on? 	これが何か教えてもらえる？ 
+fin	jpn_Kana	Pelkään susia. 	オオカミが怖いのよ。 
+fin	jpn_Hira	Japanilaiset oppivat vanhemmiltaan miten kalan ruodot poistetaan näppärästi. 	日本人は魚の骨を巧みに取ることを親から教わります。 
+fin	jpn_Kana	Kuinka monta joulukorttia lähetit viime vuonna? 	去年は何枚クリスマスカードを送ったの？ 
+fin	jpn_Hani	Opiskelen espanjaa joka päivä. 	スペイン語は、毎日勉強してるよ。 
+fin	jpn_Hira	Tomi, miten olisi vielä yksi torttu? 	トム、パイをもう一ついかが？ 
+fin	jpn_Hira	Haluan nukkua kunnolla. 	うんと寝たいんだ。 
+fin	jpn_Hira	Etsin kameraani. 	私のカメラを捜してるんだけど。 
+fin	jpn_Hani	Kottaraiset ovat sosiaalisia eläimiä. 	ムクドリは社交的な動物です。 
+fin	jpn_Hira	Espanjan- ja italian kielet muistuttavat paljon toisiaan. 	スペイン語とイタリア語ってよく似てるんだよね。 
+fin	jpn_Hira	Tulitko eilen koulun jälkeen suoraan kotiin? 	昨日学校の後って、まっすぐ家に帰った？ 
+fin	jpn_Hira	Tomi näyttää syventyneen työhönsä. 	トムは仕事に没頭してるみたい。 
+fin	jpn_Hani	Outo tyyppi. 	変なやつ。 
+fin	jpn_Hira	Älä tuhlaa rahaa turhanpäiväisyyksiin. 	くだらない物にお金を使うんじゃない。 
+fin	jpn_Hira	Keittiö täytyy siivota. 	台所の掃除をしないといけないね。 
+fin	jpn_Hani	Nyt en ehdi kun katson Frozenia, jätetäänkö myöhemmäksi? 	今ね、『アナ雪』見てて忙しいの。後にしてくれる？ 
+fin	jpn_Kana	Lähetän joka vuosi Tomille joulukortin. 	毎年トムにクリスマスカードを送ってるよ。 
+fin	jpn_Hira	Tämä linja kestää noin 45 min. lähtöasemalta pääteasemalle. 	この路線は始発から終点まで約４５分です。 
+fin	jpn_Hani	Riippuu minä päivänä. 	日にち次第よ。 
+fin	jpn_Kana	Sinä haiset tupakalle. 	お前、タバコくさいぞ。 
+fin	jpn_Kana	Tämä on unisex-pyjama. 	このパジャマは、男女兼用です。 
+fin	jpn_Hani	Oletko nähnyt päivän lehteä? 	今日の新聞見た？ 
+fin	jpn_Hira	Miksi noin synkkä ilme? 	どうして浮かない顔してるの？ 
+fin	jpn_Hira	Mummin hiukset ovat valkoiset. 	僕のおばあちゃんの髪、白いんだ。 
+fin	jpn_Hira	Tomi alkaa heti mököttämään. 	トムってすぐ膨れるよね。 
+fin	jpn_Hira	Söimme vuohen lihaa. 	山羊の肉を食べました。 
+fin	jpn_Hira	Mokaan aina. 	いっつも失敗するんだ。 
+fin	jpn_Hira	Sanotaan että Yang Guifei oli niin kauniskasvoinen että kukatkin kainostelivat. 	楊貴妃は、花も恥じらうほどの美貌の持ち主だったと言われています。 
+fin	jpn_Hira	Me juteltiin ranskaksi. 	私たちフランス語でおしゃべりしたの。 
+fin	jpn_Hira	Eilen minulla oli huono olo. 	昨日は体の具合が悪かったんだ。 
+fin	jpn_Hani	Umeshu on japaninaprikooseista valmistettua japanilaista likööriä. 	梅酒は、梅から作った日本のリキュールです。 
+fin	jpn_Kana	Monissa muslimimaissa alkoholi on kielletty. 	多くのイスラム諸国でアルコールは禁止です。 
+fin	jpn_Hira	Tomi oli huolissaan Marista. 	トムはメアリーのことが心配だった。 
+fin	jpn_Hani	Testin tulos on negatiivinen. 	検査結果は陰性です。 
+fin	jpn_Hira	Tomi pääsi taloon ikkunan kautta. 	トムは窓から家の中に入れたんだ。 
+fin	jpn_Hira	Miksi vihaat japanin kieltä? 	どうして、日本語を毛嫌いするの？ 
+fin	jpn_Hani	Oletko sinä lihava? 	君って、太ってるの？ 
+fin	jpn_Hira	Aamiaismenu ei ole vaihtunut kymmeniin vuosiin. 	朝のメニューがかれこれ何十年と変わってない。 
+fin	jpn_Hira	Karppien ja taimenien kaltaiset kalat elävät makeissa vesissä. 	鯉や鱒のような魚は淡水に住んでいる。 
+fin	jpn_Hira	Menitkö eilen koulun jälkeen suorinta reittiä kotiin? 	昨日学校の後って、まっすぐ家に帰った？ 
+fin	jpn_Hira	Kesälomalla työskentelin postitoimistossa. 	夏休み中は郵便局で働いてたよ。 
+fin	jpn_Hira	Sinun kannattaisi levätä vähän. 	少し休んだ方がいいよ。 
+fin	jpn_Hira	En halua vältellä sinua enää. 	もう、君を避けたくないんだ。 
+fin	jpn_Hira	Tiedätkö miten sitä peliä pelataan? 	そのゲームの仕方知ってるの？ 
+fin	jpn_Hira	Välttelen uutisten lukemista. 	ニュースを読むのは避けてる。 
+fin	jpn_Hira	En tiedä mitä haluan. 	自分が欲しいものが分かんないよ。 
+fin	jpn_Hira	Mennään tällä kertaa karaokeen. 	今度カラオケに行きましょう。 
+fin	jpn_Hani	Tomi kuului lukioaikoina kjuudoo-kerhoon. 	トムは高校生の時、弓道部に入ってたんだよ。 
+fin	jpn_Hira	Se oli arvokas kokemus. 	あれは貴重な経験だった。 
+fin	jpn_Hira	Älä vaan seisoskele siinä vaan tee jotain! 	そこで突っ立ってないで何かやって！ 
+fin	jpn_Hani	Tomi oli kolme päivää sairaalassa. 	トムは３日間入院してたんだ。 
+fin	jpn_Hira	Tuo tyyppi on kuulemma valeavioliitossa. 	あいつ偽装結婚してるらしいよ。 
+fin	jpn_Hani	Äh, unohdin ostaa nattoa. 	あ、納豆買うの忘れてた。 
+fin	jpn_Hani	Tämä säästöpossu on liian kevyt lihasharjoitteluun. 	この貯金箱、軽すぎて筋トレには不向きね。 
+fin	jpn_Hira	Tuolla istuva mies on tuttavani. 	あそこに座ってる男の人、知り合いなんだ。 
+fin	jpn_Hani	Näin suden, ketun ja jäniksen. 	狼と狐と兎、見ちゃった。 
+fin	jpn_Hani	Kukko kiekuu joka aamu. 	毎朝、雄鶏が鳴きます。 
+fin	jpn_Hira	Kuinka monta ihmistä tässä huoneessa on? 	この部屋には何人いるの？ 
+fin	jpn_Hira	Mies nousi bussiin. 	男がバスに乗り込んだぞ。 
+fin	jpn_Hira	Odottelen Tomia tässä. 	トムをここで待つことにするよ。 
+fin	jpn_Hani	Se laatikko on valmitettu puusta. 	その箱は木製です。 
+fin	jpn_Hira	Tomia oltiin pyydetty esiintymään televisiossa. 	トムはテレビへの出演を頼まれた。 
+fin	jpn_Hira	Kuinka monta osaa haluaisit kuumaa vettä viinaasi? 	焼酎のお湯割りはいかが？ 
+fin	jpn_Hira	Näillä saappailla on vaikea kävellä. 	このブーツは歩きにくいわ。 
+fin	jpn_Hira	Se on ilmiselvä. 	それは明らかだよ。 
+fin	jpn_Hira	Nuo viinirypäleet ovat hapokkaita. 	あのブドウは酸っぱいよ。 
+fin	jpn_Hira	Missä on kokoushuone? 	会議室はどこですか？ 
+fin	jpn_Hira	Mitkä näistä ovat lihattomia ja kalattomia ruokalajeja? 	肉や魚を使っていない料理はどれですか？ 
+fin	jpn_Hira	En tiennyt että he seurustelavat. 	２人が付き合ってるなんて知らなかったわ。 
+fin	jpn_Hani	Kumma jätkä. 	変なやつ。 
+fin	jpn_Hani	En saanut viime yönä unta. 	昨夜、眠れなかったの。 
+fin	jpn_Hira	Jänikset lisääntyvät nopeasti. 	うさぎは繁殖が早い。 
+fin	jpn_Hira	Pelkään rottia. 	ねずみが苦手なんだよ。 
+fin	jpn_Hira	Se vertauskuvallinen merkitys ei enää ole käytössä. 	その比喩的意味はもはや使われていない。 
+fin	jpn_Hani	Hän on viholliseni. 	彼女は私の敵よ。 
+fin	jpn_Hani	Vanhimman pojan nimi on Tomi. 	長男の名前はトムです。 
+fin	jpn_Hira	Rahalla ei saa onnea. 	幸せはお金では買えないよ。 
+fin	jpn_Hira	Jätä moottori käymään. 	エンジンはかけたままにしといて。 
+fin	jpn_Hira	Tomi tykkää Maristakin. 	トムはメアリーも好きなんだ。 
+fin	jpn_Hira	Kaveri on tulossa illansuussa. 	今日の夕方に友達が来るんです。 
+fin	jpn_Hira	Muuntunut virus tarttuu helposti. 	変化したウイルスは感染しやすい。 
+fin	jpn_Hani	Aurinko kallistui länteen. 	太陽が西に傾いた。 
+fin	jpn_Hira	Onko nälkä? Laitan sulle jotain. 	お腹空いてる？何か作ってあげるよ。 
+fin	jpn_Kana	Tomi on Jees-mies. 	トムはイエスマンなのよ。 
+fin	jpn_Hani	Tarvitsen paketillisen munia. 	卵が１パック必要なの。 
+fin	jpn_Hani	Parkkipaikka on vapaa. 	駐車場が空っぽだよ。 
+fin	jpn_Hira	Tomi on vauva. 	トムは赤ちゃんなんだ。 
+fin	jpn_Kana	Pikkulapsena tykkäsin paljon tikkareista. 	幼い頃、ペロペロキャンディが大好きだったな。 
+fin	jpn_Hani	Mitä yleensä teet viikonloppuisin? 	普段、週末は何してるの？ 
+fin	jpn_Hani	Hänen läsnäolonsa tekee minut hermostuneeksi. 	彼の存在が、私をナーバスにさせるの。 
+fin	jpn_Hira	Tomi näyttää rakastuneen ensisilmäyksellä posket punaisena ujostelevaan Mariin. 	トムってね、メアリーが頬を赤らめ恥じらう姿に一目惚れしたらしいよ。 
+fin	jpn_Kana	Mun auto on ihan romu. 	私の車、ポンコツなのよ。 
+fin	jpn_Hira	Ei sisällä arvonlisäveroa. 	消費税は含まれていません。 
+fin	jpn_Hira	Minusta tuntuu että olemme jo tavanneet. 	既に会ったことがあるような気がします。 
+fin	jpn_Hira	Kuuntele mitä isäsi sanoo. 	親父の言うことを聞け。 
+fin	jpn_Hira	Tämä on limettipuu. 	これはライムの木です。 
+fin	jpn_Hira	Käänny tuohon suuntaan! Vaihdan pikaisesti vaatteet. 	ちょっとあっち向いてて！ササっと着替えるから。 
+fin	jpn_Hira	Varo kivivyöryjä. 	岩崩れに気をつけて。 
+fin	jpn_Hani	Se oli kuulemma kiireellinen. 	それ、至急だって。 
+fin	jpn_Hira	Osoittautui että se juoru on vale. 	その噂は嘘であることが判明した。 
+fin	jpn_Hira	Tämä yö on hirvittävän kylmä. 	今夜はものすごく寒いよ。 
+fin	jpn_Hani	Japanin maa-alueesta noin 70% on metsien peitossa, havu- ja lehtipuumetsien suhde pinta-alasta on suunnilleen puolet ja puolet. 	日本の国土は約７割が森林で覆われており、針葉樹林と広葉樹林の面積比はほぼ半々です。 
+fin	jpn_Hira	Hän uskoo joulupukkiin. 	彼はサンタクロースを信じてるんだ。 
+fin	jpn_Hani	Sun käytös ei ole kovin hyvää. 	お前の態度、あまり良くないぞ。 
+fin	jpn_Latn	Hyvää joulua Tatoeba! 	メリー・クリスマス、Tatoeba！ 
+fin	jpn_Hira	Tomi vihaa viinaa. 	トムはお酒が嫌いです。 
+fin	jpn_Hira	Hauska juttu! 	面白い話だなあ！ 
+fin	jpn_Hira	Isoveli korjasi mun polkupyörän. 	お兄ちゃんが僕の自転車を直したんだ。 
+fin	jpn_Hira	Tunnetko heidät? 	あの人たちのこと知ってる？ 
+fin	jpn_Hira	Onko sinulla yhtään ulkomailla asuvia ystäviä? 	外国で暮らしてる友達っている？ 
+fin	jpn_Hani	Jos haluat sen, annan sen sinulle. 	欲しいんなら、あげるよ。 
+fin	jpn_Hira	Jos tarvitset sitä, niin lainaan sitä sinulle. 	それ必要なんなら、貸してあげるよ。 
+fin	jpn_Hani	Muokkasin lausetta. 	文を変更しました。 
+fin	jpn_Hira	Aion mennä Hawaille laivalla. 	ハワイには船で行くつもりなんだ。 
+fin	jpn_Hira	Jos haluat voit jäädä yöksi. 	よければ泊まっていって。 
+fin	jpn_Hira	Mitä Tomi meni sinne tekemään. 	トムは何しにそこに行ったの？ 
+fin	jpn_Hira	Kuinka leveä se on? 	幅はどれくらいですか。 
+fin	jpn_Hira	Huomenna minulla ei ole erityisesti mitään tekemistä. 	明日は別に何もすることはないよ。 
+fin	jpn_Hira	En tiedä mitä pitäisi sanoa. 	何を言うべきか分からないんです。 
+fin	jpn_Hira	Asun yhdessä isin kanssa. 	父ちゃんと一緒に住んでるんだ。 
+fin	jpn_Hira	Japanin sosiaalinen hyvinvointi ei häviä pohjoismaiden hyvinvoinnille. 	日本の福祉も北欧に負けてないよ。 
+fin	jpn_Hani	Olen vielä töissä. 	まだ仕事中です。 
+fin	jpn_Hira	En halua puhua siitä tänään. 	それについては、今日は話したくないな。 
+fin	jpn_Hira	Tunsin jonkin koskettavan jalkaani. 	何かが足に触れるのを感じた。 
+fin	jpn_Kana	Sieni imee vettä. 	スポンジは水を吸います。 
+fin	jpn_Kana	Shakki on vaikeaa. 	チェスは難しい。 
+fin	jpn_Hira	Olin teatterissa. 	私は劇場にいました。 
+fin	jpn_Hani	Älä unohda ottaa ensiapulaukkua mukaan. 	救急箱、忘れずに持ってきてよ。 
+fin	jpn_Hira	Mari ei ole Tomin lapsenlapsi, vaan siskontytär. 	メアリーはトムの孫じゃなくて姪ですよ。 
+fin	jpn_Hani	Tarvitsen 2-3 aaltopahvilaatikkoa. 	段ボールが２・３個必要なんだけど。 
+fin	jpn_Hira	Teen aina virheitä. 	いっつも失敗するんだ。 
+fin	jpn_Hira	Ei tämä paikka niin huono ole. 	この場所はそんなに悪くない。 
+fin	jpn_Hira	Vihdoinkin mun vuoro tuli. 	やっと順番がきた。 
+fin	jpn_Hani	Tomi on esikoiseni. 	トムは私の長子です。 
+fin	jpn_Kana	Tomi syö joka ilta purkkiraamenia. 	トムは毎晩カップラーメンを食べている。 
+fin	jpn_Hira	Auto hajosi matkalla sinun asunnollesi. 	あなたの家に向かってる途中で、車が故障しちゃったの。 
+fin	jpn_Hani	Se oli helppo nakki. 	楽勝だったよ。 
+fin	jpn_Hira	Tomi ei juurikaan tee sitä. 	トムはそれをあまりしないよ。 
+fin	jpn_Kana	Kumkvatit ovat herkullisia. 	キンカンって美味しいよ。 
+fin	jpn_Hira	Ei kiinnosta yhtään. 	全くもって興味がないの。 
+fin	jpn_Hira	Minulla ei ole isosiskoa. 	姉貴はいないんだ。 
+fin	jpn_Kana	Mennään tällä kertaa raamenille. 	今度ラーメン行こう。 
+fin	jpn_Hira	Haluan eläinlääkäriksi. 	獣医になりたいんです。 
+fin	jpn_Hira	Maistuisipa lasillinen. 	一杯やりたいなあ。 
+fin	jpn_Hani	Tämä aikakausilehti ilmestyy joka toinen keskiviikko. 	この雑誌の発売日は、隔週水曜日です。 
+fin	jpn_Hira	Osaan uida, mutten erityisesti pidä uimisesta. 	泳げるけど、泳ぐのはあんま好きじゃないんだ。 
+fin	jpn_Hira	Epäonnistun joka kerta. 	いっつも失敗するんだ。 
+fin	jpn_Kana	Se oli hiiri. 	ネズミでした。 
+fin	jpn_Hira	Onko sinulla parkkilippua? 	駐車券はお持ちですか？ 
+fin	jpn_Hani	Sun henki haisee. 	お前の息、臭うぞ。 
+fin	jpn_Hira	Missä on pukuhuone? 	更衣室はどこですか？ 
+fin	jpn_Hani	"Vähän huimaa." – "Näytät kalpealta. Sinun olisi parempi lepäillä yksi päivä." 	「ちょっと目まいがするわ」「顔色が悪いぞ。一日休んだほうがいいよ」 
+fin	jpn_Hani	Mitä laatikossa on? 	箱の中、何が入ってるの？ 
+fin	jpn_Hira	Hän näki paljon vaivaa päämäärän saavuttamiseksi. 	彼女は目標に到達するために努力した。 
+fin	jpn_Hira	Pidetään tauko jossain tässä. 	ここいらで一休みしよう。 
+fin	jpn_Hani	Sori, olen kiireinen. 	ごめん。急いでるの。 
+fin	jpn_Hira	Sää lämpenee. 	気温は上がっています。 
+fin	jpn_Hira	Teen paperilennokkia. 	紙飛行機を作ってるんだよ。 
+fin	jpn_Hira	Minut pakotettiin allekirjoittamaan se lomake. 	無理やりその用紙に署名させられたんだ。 
+fin	jpn_Hira	Käyn koulussa metrolla. 	学校には地下鉄で通ってるんだ。 
+fin	jpn_Hani	Puun varjossa oli viileää. 	木陰は涼しかった。 
+fin	jpn_Hani	Hän on todellakin nokkela poika. 	彼は本当に賢い子だよ。 
+fin	jpn_Hani	Suunnitelma epäonnistui. 	計画は失敗しました。 
+fin	jpn_Hani	Nyt on kädet täynnä. Sopiiko myöhemmin? 	今、手が離せないの。後でいい？ 
+fin	jpn_Hani	Tomi on nuorin neljästä. 	トムは４人の中で一番年下だ。 
+fin	jpn_Hira	Koira ei ole pihalla. 	庭に犬はいないよ。 
+fin	jpn_Hira	Onko huoneessa joku? 	部屋に誰かいるの？ 
+fin	jpn_Hira	Näyttää alkavan sataa. 	雨になりそうだよ。 
+fin	jpn_Hira	Väsyneenä päässä ei oikein raksuta. 	疲れてる時は頭の回転が鈍いんだよ。 
+fin	jpn_Kana	Näin suden, ketun ja jäniksen. 	オオカミとキツネとウサギを見たのよ。 
+fin	jpn_Hira	Minä en ole sinun lelu. 	僕、君のおもちゃじゃないよ。 
+fin	jpn_Hira	Käytä maskia ettei korona leviäisi. 	コロナが移らないようにマスクして行きなさい。 
+fin	jpn_Hani	Loppuunmyyty. 	完売です。 
+fin	jpn_Hira	Tänään en halua puhua mitään. 	今日は何も話したくないんだ。 
+fin	jpn_Hira	Hän epäilee että valehtelen. 	彼は私が嘘をついていると疑っている。 
+fin	jpn_Hani	Satuin näkemään suden, ketun ja jäniksen. 	狼と狐と兎、見ちゃった。 
+fin	jpn_Hani	Teen nyt töitä. 	今、仕事してるよ。 
+fin	jpn_Kana	Meri pelkää koiria. 	メリーは犬が怖いのよ。 
+fin	jpn_Hira	Tomi on rasavilli penikka. 	トムって、いたずらっ子なんだ。 
+fin	jpn_Hira	Eilen minä olin huonovointinen. 	昨日は体の具合が悪かったんだ。 
+fin	jpn_Kana	Näin eilen Tomin koirapuistossa. 	昨日ドッグランでトムを見たんだ。 
+fin	jpn_Kana	Miten olisi kuuma kaakao? 	ホットチョコはどう？ 
+fin	jpn_Hira	Pääsen siitä yli tavalla tai toisella. 	どうにか乗り越えるよ。 
+fin	jpn_Hani	Mitä yleensä teet maanantaisin? 	普段、月曜日は何してるの？ 
+fin	jpn_Hira	Parempi ettet mene sinne. 	そこには行かない方がいいよ。 
+fin	jpn_Hani	Minäkin olen opiskelija. 	私も学生です。 
+fin	jpn_Hira	En tajua mitä haluat. 	あなたが欲しいものが分かんない。 
+fin	jpn_Hira	Haluaisitko kahviisi sokeria? 	コーヒーのお砂糖はどうなさいますか？ 
+fin	jpn_Hira	Kuulin naisen kirkaisun. 	女性の悲鳴が聞こえたんだ。 
+fin	jpn_Hira	Milloin sadekausi loppuu? 	梅雨はいつ明けるの？ 
+fin	jpn_Hira	Nukuitko taas pommiin? 	また寝坊したの？ 
+fin	jpn_Hani	Sun sukat haisee. 	あなたの靴下、くさっ。 
+fin	jpn_Hira	Myyttekö mansikoita? 	イチゴは売ってますか？ 
+fin	jpn_Kana	Älä poista maskia. 	マスクを外さないで。 
+fin	jpn_Hira	Tomi ei ole Marin lapsenlapsi. Hän on veljenpoika. 	トムはメアリーの孫じゃないよ。甥っ子だよ。 
+fin	jpn_Hira	Mitä söit tänä aamuna? 	今朝は何を食べたんだい？ 
+fin	jpn_Hani	Autan häntä. 	彼を手伝ってます。 
+fin	jpn_Hira	Sitä ei tarvitse tehdä tänään. 	今日しなくてもいいよ。 
+fin	jpn_Hira	Ollaan varovaisia, koska pukuhuoneessa voi liukastua helposti. 	脱衣場は滑りやすいので、注意しましょう。 
+fin	jpn_Hira	On asioita, joita ei voi ostaa rahalla. 	お金では買えないものがあります。 
+fin	jpn_Kana	Haluaisin mennä Singaporeen. 	シンガポールに行きたいな。 
+fin	jpn_Hani	Paperi imee vettä. 	紙は水を吸います。 
+fin	jpn_Hira	Toistaiseksi Tomi asuu Australiassa ja vaimo Uudessa-Seelannissa. 	取りあえず、トムはオーストラリア、嫁さんはニュージーランドで暮らしてるんだ。 
+fin	jpn_Hira	Täh? Miksi minä tulinkaan tänne? 	あれ？ここに何をしに来たんだっけ？ 
+fin	jpn_Hani	Mitä yleensä teet koulun jälkeen? 	普段、放課後は何してるの？ 
+fin	jpn_Kana	Onko teillä ruokalistaa kasvissyöjille? 	ベジタリアン用のメニューがありますか？ 
+fin	jpn_Kana	Ostatko onnittelukortit netistä? 	グリーティングカードって、ネットで買うの？ 
+fin	jpn_Hira	Etkö joisi jotain? 	何か飲まないの？ 
+fin	jpn_Hira	En juurikaan pidä siitä ajatuksesta. 	その考えはあまり好きじゃないな。 
+fin	jpn_Hira	Autolla ajellessa on ihan huippua kuunnella lempimusaa kovalla. 	好きな音楽をガンガン聞きながらドライブするのが最高なんだよ。 
+fin	jpn_Hira	Kerro minulle miten maahantulokortti täytetään. 	入国カードの書き方を教えてください。 
+fin	jpn_Kana	Alkoholi on lääkeaine. 	アルコールは薬物だよ。 
+fin	jpn_Hani	Yuzu on yksi sitrushedelmistä. 	柚子は柑橘類の１つです。 
+fin	jpn_Hani	UFO viittaa tunnistamattomaan lentävään objektiin. 	UFOとは未確認飛行物体を指す。 
+fin	jpn_Hira	En tiedä hänen osoitetta. 	彼女の住所が分からないのよ。 
+fin	jpn_Hira	Tämä ovi on valmistettu karkaistusta lasista. 	この扉は強化ガラスでできています。 
+fin	jpn_Hira	Oletko koskaan ollut kaukosuhteessa. 	遠距離恋愛って、したことある？ 
+fin	jpn_Hira	Pelaan tennistä silloin tällöin. 	たまにテニスするんだよ。 
+fin	jpn_Hira	Rukoilimme sadetta. 	雨が降るよう祈った。 
+fin	jpn_Kana	Asema on hotellin länsipuolella. 	駅はホテルの西側です。 
+fin	jpn_Hira	Meri pelkää koiria. 	メリーは犬を恐れてるんだ。 
+fin	jpn_Hira	Se oli vain huolimaton lipsautus. 	うっかり言い間違えただけだよ。 
+fin	jpn_Hira	Hän häipyi sanomatta mitään. 	彼は何も言わずに立ち去った。 
+fin	jpn_Hira	Tomi leikkii ulkona koiran kanssa. 	トムは外で犬と遊んでるよ。 
+fin	jpn_Hani	Tarvin pari-kolme pahvilaatikkoa. 	段ボールが２・３個必要なんだけど。 
+fin	jpn_Hira	Nostan hattua. 	お前には頭が下がるよ。 
+fin	jpn_Hira	Tomi taitaa masentua. 	トムは落ち込むだろうな。 
+fin	jpn_Hani	Tomilla on huono suuntavaisto. 	トムって方向音痴なのよ。 
+fin	jpn_Hira	Mene suoraan eteenpäin. 	直進してください。 
+fin	jpn_Hira	Kuinka leveä tämä joki on? 	この川の幅はどのぐらいですか。 
+fin	jpn_Hira	Näyttää alkavan sataa. 	雨が降り出しそうだ。 
+fin	jpn_Hira	Opin aina jotain uutta. 	私は常に学び続けています。 
+fin	jpn_Hira	Tomi ja Mari ovat olleet ystäviä ala-aste ajoilta saakka. 	トムとメアリーは小学校時代からの友達なんだ。 
+fin	jpn_Hira	Tomi osti pistoolin. 	トムは拳銃を買ったんだ。 
+fin	jpn_Hani	Äiti, teepannu kiehuu. 	お母さん、ヤカンが沸騰してるよ。 
+fin	jpn_Hira	Tykkään ihan kauheesti matkustelusta. 	旅行がすごく好きなの。 
+fin	jpn_Hani	Kompaktia sanakirjaa on helppo kantaa mukana. 	コンパクトな辞書で、持ち運びに便利です。 
+fin	jpn_Hira	Tomi oli täysin uppoutunut työhön. 	トムは仕事に熱中してたよ。 
+fin	jpn_Hira	Käännä kasvosi tänne päin. 	顔はこっちに向けて。 
+fin	jpn_Hani	Ei, siitä ei ollut mitään hyötyä. 	いや、役に立たなかったよ。 
+fin	jpn_Hani	Nämä lasit ovat kauniita. 	このグラス、綺麗だね。 
+fin	jpn_Hira	Pääsen siitä yli jotenkin. 	どうにか乗り越えるよ。 
+fin	jpn_Hira	Puhuitsitko suuremmalla äänellä, koska hänellä on vähän huono kuulo. 	彼は少し耳が不自由なので、大きめの声で話してあげてください。 
+fin	jpn_Hira	Mari ei ole Tomin lapsenlapsi, vaan veljentytär. 	メアリーはトムの孫娘じゃなくて姪ですよ。 
+fin	jpn_Kana	Tomin perhe on Australiassa. 	トムの家族はオーストラリアにいる。 
+fin	jpn_Hira	Pelkään hiiriä. 	ねずみが苦手なんだよ。 
+fin	jpn_Hani	Emojit ovat peräisin Japanista. 	絵文字は日本が発祥です。 
+fin	jpn_Hira	Painoin äkisti jarrua. 	急ブレーキをかけました。 
+fin	jpn_Kana	Käytän tarot-kortteja melkein joka päivä. 	タロットカードは、ほとんど毎日使ってるよ。 
+fin	jpn_Hira	Se juoru osoittautui valheeksi. 	その噂は嘘であることが判明した。 
+fin	jpn_Hira	On asioita, joita ei voi ostaa rahalla. 	お金じゃ買えないものがあるんだよ。 
+fin	jpn_Hira	Oletko jo siivonnut huoneesi? 	もう自分の部屋の掃除はしたの？ 
+fin	jpn_Hira	Tomi ajaa hienolla autolla. 	トムはいい車を運転している。 
+fin	jpn_Hira	Taiwanilainen ruoka ei ole yhtä mausteista kuin intialainen. 	台湾料理はインド料理ほど辛くはないよ。 
+fin	jpn_Hira	Mitä minä yritinkään sanoa. 	何を言おうとしてたんだっけ。 
+fin	jpn_Hira	Näin siellä suuren pelikaanin. 	そこで大きなペリカンを見たよ。 
+fin	jpn_Kana	Tämä lista ei ole missään järjestyksessä. 	このリストは順不同です。 
+fin	jpn_Hira	Onko kaikilla paperia? 	みんな紙はある？ 
+fin	jpn_Hira	Se mitä äsken sanoin oli pelkkää spekulaatiota. 	今言ったのは、私の憶測にすぎないよ。 
+fin	jpn_Hira	Tässä sairaalassa on 10 täysin varustettua steriiliä huonetta suojaamaan potilaita, joilla on alentunut vastustuskyky. 	当病院には、免疫力が低下した患者さんを感染から守るため、無菌室を１０床完備しております。 
+fin	jpn_Hira	Onko Tomi tänään poissa? 	トムは今日欠席ですか？ 
+fin	jpn_Hira	Se kirja löytyy kirjastosta. 	その本なら図書館にありますよ。 
+fin	jpn_Hira	Miksi sinä luulet että hän sanoi niin? 	何であいつはそう言ったんだと思う？ 
+fin	jpn_Hira	Se oli sydäntä särkevä tarina. 	胸が張り裂けるような話だった。 
+fin	jpn_Hira	Miksi avasit ikkunan? 	なんで窓を開けたの？ 
+fin	jpn_Hira	Rakastan kovaksi keitettyjä munia. 	固ゆで卵が大好きなのよ。 
+fin	jpn_Hira	Minun täytyy opiskella espanjaa. 	スペイン語の勉強をしなくっちゃ。 
+fin	jpn_Hira	Tomi on tuhma poika. 	トムはわんぱく小僧なんだ。 
+fin	jpn_Kana	Minä olen jänis. Mikä sinun toteemieläimesi on? 	僕は兎。君のスピリットアニマルは？ 
+fin	jpn_Hira	Tomi osti minulle lottokupongin. 	トムが宝くじ買ってくれたんだ。 
+fin	jpn_Hira	Työskentelen pankissa. 	私は銀行で働いています。 
+fin	jpn_Hira	Tomilla on absoluuttinen sävelkorva. 	トムは絶対音感を持ってるの。 
+fin	jpn_Hira	Tomi hukkasi nallensa. 	トムはテディベアをなくしちゃったんだ。 
+fin	jpn_Kana	Keitän kahvit. 	コーヒー淹れるよ。 
+fin	jpn_Hira	Nuorena olin laiha. 	若い頃は痩せてたんだよ。 
+fin	jpn_Hira	Tykkään matkustella omalla autolla. 	自分の車で旅行する方が好きなんだよ。 
+fin	jpn_Hira	Etkö ole vielä päättänyt? 	まだ決めてないの？ 
+fin	jpn_Hira	Missä ei demokratiaa, siellä ei luottamusta. 	民主主義がないところに信頼はない。 
+fin	jpn_Hani	En tykkää Tomin uudesta hatusta. 	トムの新しい帽子、好みじゃないな。 
+fin	jpn_Hira	Tiedätkö mitä Tomi haluaa ostaa? 	トムが何を買いたいのか分かる？ 
+fin	jpn_Hira	En voi maksaa niin paljon. 	そんなに払えないよ。 
+fin	jpn_Hira	Koska oli sunnuntai, kauppa ei ollut auki. 	日曜日だったため、店はやっていなかった。 
+fin	jpn_Hira	Oliko se lahja mieleen? 	そのプレゼント気に入った？ 
+fin	jpn_Hira	Ehkä tästä on hyötyä. 	多分これが役に立つと思うよ。 
+fin	jpn_Hira	Tämä on helppo nakki. 	こんなのちょちょいのちょいだよ。 
+fin	jpn_Hira	Vaikka hetki sitten oli vielä lämmintä, auringon laskettua tuli äkkiä kylmä. 	さっきまで暖かかったのに、日が陰ると急に寒くなってきたね。 
+fin	jpn_Hani	En ole juonut vihreää teetä pitkään aikaan. 	長い間、緑茶は飲んでないよ。 
+fin	jpn_Hira	Mummu teki meille atole de avenaa. 	おばあちゃんが、オートミールのアトーレを作ってくれたんだ。 
+fin	jpn_Hani	Viime aikoina lasiaissamentuma on pahentunut ja keskittymiskyky kadonnut. 	最近飛蚊症が酷くて集中力が途切れちゃうよ。 
+fin	jpn_Hira	Onko opiskeluhuone avoinna myös La-Su? 	土・日も自習室って開いてるんですか？ 
+fin	jpn_Hani	Minä sairastun joka vuosi flunssaan. 	俺、毎年風邪をひくんだよ。 
+fin	jpn_Hira	En muista mikä oli viimeinen numero. 	最後の数字が何だったか、覚えてないの。 
+fin	jpn_Hani	Joka aamu on huono olo. 	毎朝、体調が悪いの。 
+fin	jpn_Hira	Saako silittää? 	なでなでしていい？ 
+fin	jpn_Hira	Tomi ei ole Marin lapsenlapsi. Hän on sisarenpoika. 	トムはメアリーの孫じゃなくて甥ですよ。 
+fin	jpn_Hira	Älä syö liikaa karkkia. 	飴を食べ過ぎないように。 
+fin	jpn_Hira	Eikö se yllättänyt sinua? 	そのことに驚かなかった？ 
+fin	jpn_Hira	Hetki. Jos mä olen kettu ja sä olet jänis, niin etkö sä sitten ole mun riistaa? 	待って。僕がキツネで君がウサギなら、君は僕の獲物になるんじゃないかい？ 
+fin	jpn_Hani	Kun pakkasaalto pitkittyy ja sähkön kysyntä jatkaa kasvuaan samaan tahtiin niin sähkökatkot ovat väistämättömiä. 	寒波が長期化し、このまま電力需要が増加し続けると停電は必至です。 
+fin	jpn_Hira	Luota itseesi. Pystyt kyllä siihen. 	自信持てよ。お前ならできるって。 
+fin	jpn_Hira	Mummo teki meille nikujagaa. 	おばあちゃんが、肉じゃがを作ってくれました。 
+fin	jpn_Hani	Viirupääkottaraiset ovat sosiaalisia eläimiä. 	ムクドリは社交的な動物です。 
+fin	jpn_Hani	Suunnitelmani meni pieleen. 	私の計画は失敗した。 
+fin	jpn_Hani	Mitä mieltä olet hänen ehdotuksestaan? 	彼の提案って、どう思う？ 
+fin	jpn_Hani	Tomi puhuu kolmea kieltä. 	トムは３言語も話します。 
+fin	jpn_Hira	Pitele kukkamaljakkoa molemmin käsin. 	花瓶は両手で持ちなさい。 
+fin	jpn_Hira	Älä kokoajan pälpätä, liikuta myös käsiäsi. 	ぺちゃくちゃ喋ってばかりいないで、手も動かしなさいよ。 
+fin	jpn_Hani	Nenä tuntuu kylmältä. 	鼻が冷たい。 
+fin	jpn_Hani	Pelkään käärmeitä. 	蛇が苦手でね。 
+fin	jpn_Hira	Sinähän sanoit ettet juo. 	飲んでないって言ってたじゃん。 
+fin	jpn_Hira	Kissa piileskeli pusikossa. 	猫は茂みに隠れていた。 
+fin	jpn_Hira	Miksi et anna rahaa? 	何でお金をくれないの？ 
+fin	jpn_Hira	Juustoa ei enää ole. 	チーズはもうないよ。 
+fin	jpn_Hira	Tänään on hieman pää kipeä. 	今日はちょっと頭が痛いの。 
+fin	jpn_Hira	Unohdin antaa sinulle puhelinnumeroni. 	電話番号教えるの忘れてたよ。 
+fin	jpn_Kana	"Etsittekö jotain erityistä?" – "Etsin pukua itselleni." – "Naisten osasto on täällä päin." 	「何かお探しですか？」「私のスーツを探してるんですけど」「レディースコーナーはこちらになります」 
+fin	jpn_Hira	Kurlataan suuvedellä ja pestään kädet heti kun mennään kotiin ettemme levitä flunssaa ja aiheuta harmia. 	風邪が移ると大変だから、家に帰ったらすぐにうがいと手洗いしようね。 
+fin	jpn_Kana	Miten olisi kuuma kaakao? 	ホットチョコレートはいかが？ 
+fin	jpn_Hira	Eilen minulla oli huono olo. 	昨日は具合が悪かったんだ。 
+fin	jpn_Hira	Tomilla on shortsit jalassa. 	トムは短パンを履いています。 
+fin	jpn_Hira	Seisoin hänen vieressään. 	彼の隣に立ってたよ。 
+fin	jpn_Hira	Moi! Oletko sinä töissä täällä? 	やぁ！ここで働いてるの？ 
+fin	jpn_Hira	Tule heti takaisin kotiin. 	すぐに帰ってきて。 
+fin	jpn_Hira	Näin koiran ylittävän ajotien. 	犬が道路を渡ってくのを見たんだ。 
+fin	jpn_Hira	En voi tehdä sitä koska minulla on tänään kädet täynnä. 	今日は手一杯でそれはできないよ。 
+fin	jpn_Hani	Auts! Ampiainen pisti. 	痛い！蜂に刺された。 
+fin	jpn_Hani	Hylkää se suunnitelma! 	その計画を破棄しろ。 
+fin	jpn_Hani	Hyönteisten keräily on mun harrastus. 	趣味は昆虫採集なんだ。 
+fin	jpn_Hani	Laula minulle tuutulaulu. 	子守唄を歌って。 
+fin	jpn_Hira	Onkohan pomo tänään hyvällä tuulella. 	今日のボスの機嫌はいいかな？ 
+fin	jpn_Hira	On ihan parasta ajella autolla ja samalla kuunnella lujalla lempimusaa. 	好きな音楽をガンガン聞きながらドライブするのが最高なんだよ。 
+fin	jpn_Hira	Varasitko pöydän? 	席は予約したの？ 
+fin	jpn_Kana	Tomi näyttää yli seiskakymppiseltä. 	トムは７０より老けて見える。 
+fin	jpn_Hira	Mielestäni on upeaa että opiskelet ranskaa. 	君がフランス語を勉強してるのはすごいと思うよ。 
+fin	jpn_Hira	Tulet katumaan, jos jätät sen puolitiehen. 	途中で止めたら後悔するぜ。 
+fin	jpn_Hira	Tulee paha olo kun näen sen valokuvan onnettomuudesta. 	あの事故の写真を見ると、気分が悪くなるよ。 
+fin	jpn_Hani	Yleensä nauta on kalliimpaa kuin sianliha. 	普通、牛肉は豚肉よりも高いよ。 
+fin	jpn_Hira	Toisinaan pelaan tennistä. 	たまにテニスするんだよ。 
+fin	jpn_Hira	Minulla ei ole mitään millä kirjoittaa. 	何も書くもの持ってないんだ。 
+fin	jpn_Hira	Olin elokuvateatterissa. 	私は映画館にいました。 
+fin	jpn_Hani	Nyt ei kädet riitä. Sopiiko myöhemmin? 	今、手が離せないの。後でいい？ 
+fin	jpn_Hira	On vain yksi tapa avata oven lukko, oven sisäpuolelta. 	扉の鍵を開ける唯一の方法は、内側から開けることです。 
+fin	jpn_Hira	Montako kertaa vuodessa käyt hiihtämässä? 	年に何回スキーに行くの？ 
+fin	jpn_Hira	Otti hetken aikaa rauhoittua. 	冷静になるのに少し時間がかかりました。 
+fin	jpn_Hira	Onkohan tämä todellakin totta? 	これって本当に真実なのかしら？ 
+fin	jpn_Hira	Tulin duunista ihan just. 	仕事からちょうど戻ったとこよ。 
+fin	jpn_Hira	Kun puhut aina vain järjettömyyksiä, niin ennen pitkää käy köpelösti. 	理不尽な事ばかり言ってると、そのうち痛い目に遭うぞ。 
+fin	jpn_Hani	Esikoisen nimi on Tomi. 	長男の名前はトムです。 
+fin	jpn_Hira	Varasitko meille paikat? 	席は予約したの？ 
+fin	jpn_Hani	Mä voin lukea sen kokonaan. 	僕ね、それ全部読めるよ。 
+fin	jpn_Hira	Missä se tapahtui? 	どこで起こったの？ 
+fin	jpn_Hira	Minun ystävä on tulossa tänään illalla. 	今日の夕方に友達が来るんです。 
+fin	jpn_Hira	Mitä elokuvaa katsot? 	何の映画を見てるの？ 
+fin	jpn_Hani	Tomi nukkuu toisinaan pommiin. 	トムね、時々寝坊するのよ。 
+fin	jpn_Hira	Kun nousette kylvystä ja tulette pukuhuoneeseen, pyyhkikää kunnolla kosteus pois pyyhettä käyttäen. 	お風呂から上がって脱衣所に入る時は、タオルでしっかり水気を拭き取りましょう。 
+fin	jpn_Hani	Tomi sanoo olevansa masentunut. 	トムがさ、憂鬱だって言うんだよ。 
+fin	jpn_Hira	Kaikki ovat nopeita vastaamaan englanniksi. Ah, tai sitten minä olen vain liian hidas. 	みんな英語で返信するのが早いよね。あっ、私が遅すぎるだけかぁ。 
+fin	jpn_Hani	Molemmat Tomin siskot ovat naimisissa. 	トムの姉さんと妹は、二人とも既婚者だよ。 
+fin	jpn_Hira	Mihin aikoihin olet huomenna kiireinen? 	明日って、いつ頃が忙しい？ 
+fin	jpn_Hira	Mennään tällä raamenille. 	今度ラーメンを食べに行きましょう。 
+fin	jpn_Hira	Keittokirjat myyvät hyvin. 	レシピ本はよく売れます。 
+fin	jpn_Hani	Asuin kolmannessa kerroksessa. 	３階に住んでました。 
+fin	jpn_Hira	Voit jäädä tänne jos haluat. 	ここに居たければ、居ていいよ。 
+fin	jpn_Hira	Älä syö liikaa karkkia. 	キャンディーを食べ過ぎないで。 
+fin	jpn_Hira	Tomi unohti tänään laittaa kalsarit jalkaan. 	トムは今日パンツを履き忘れました。 
+fin	jpn_Hira	Luu jäi kurkkuun. 	骨が喉にひっかかった。 
+fin	jpn_Hani	Näytänkö minä maanviljelijältä? 	私って、農家の人に見える？ 
+fin	jpn_Kana	Shakki on vaikeaa. 	チェスはムズい。 
+fin	jpn_Hira	Minulla on paljon ranskan kielisiä kirjoja. 	フランス語の本、たくさん持ってるわよ。 
+fin	jpn_Kana	Hyväksyn Tomin ja Marin ehdotuksen. 	トムとメアリーの提案に賛成です。 
+fin	jpn_Hani	Tomi on korva-, nenä- ja kurkkutautien asiantuntija. 	トムは、耳鼻咽喉科の先生です。 
+fin	jpn_Hira	En halua olla vaivaksi. 	迷惑をかけたくないんだ。 
+fin	jpn_Hira	Hawailla on paljon japanilaisia ravintoloita. 	ハワイには日本料理のレストランがたくさんある。 
+fin	jpn_Hira	Bussi saapui tyhjänä. 	バスは空っぽで到着した。 
+fin	jpn_Hani	Tomi syö joka aamu nattoa. 	トムは毎朝納豆を食べます。 
+fin	jpn_Hira	Tomi yritti säikäyttää Marin. 	トムはメアリーをビックリさせようとした。 
+fin	jpn_Hira	Tässä eräänä päivänä kun palasin sulkemisajan jälkeen, niin asuntolan emäntä suuttui ihan mielettömästi. 	この間ね、門限過ぎて帰ったら、寮母さんにめっちゃ怒られちゃった。 
+fin	jpn_Hira	Asun yhdessä isäni kanssa. 	お父さんと一緒に住んでいます。 
+fin	jpn_Hira	Kun saavuin asemalle, juna oli jo lähtenyt. 	私が駅に到着した時には、電車は既に出た後だった。 
+fin	jpn_Hira	Olin kylvyssä kun soitit minulle. 	電話もらったときさ、お風呂に入ってたんだよ。 
+fin	jpn_Hira	Älä yritä leikkiä tietämätöntä. 	知らんぷりするな。 
+fin	jpn_Hani	Tomi on maantiedon opettaja. 	トムは地理の先生です。 
+fin	jpn_Kana	Pidän tämän ravintolan tunnelmasta. 	このレストランの雰囲気が好き。 
+fin	jpn_Hira	Onko tämä Tomin poika? 	この子はトムの息子ですか？ 
+fin	jpn_Hira	Voinko istua takana? 	後ろに座ってもいいですか？ 
+fin	jpn_Hira	Mellakka oli lähtenyt täysin lapasesta. 	暴動は手が付けられない状態だった。 
+fin	jpn_Hani	Meidän kissan lempinimi on Kina-chan. 	「きなちゃん」はうちの猫の愛称だ。 
+fin	jpn_Hira	Tomi on laihempi kuin minä. 	トムは私より痩せてるよ。 
+fin	jpn_Hira	Tomilla on Foordi. 	トムはフォードを持ってるんだ。 
+fin	jpn_Hira	Osaatko kirjoittaa "あいうえお" käsin? 	「あいうえお」って手書きできる？ 
+fin	jpn_Hira	Tomia rangaistiin, koska hän ei puhunut totta. 	トムは真実を話さなかったから、罰せられました。 
+fin	jpn_Hira	Tomi söi kaikki sipsit ja keksit. 	トムはチップスとクッキーを全部食べちゃったんだ。 
+fin	jpn_Hira	Tomi ei ole minun poikaystävä, vaan tavallinen kaveri. 	トムは彼氏じゃなくて、ただの友達だよ。 
+fin	jpn_Hira	Tomi on ollut kokoajan alamaissa. 	トムがずっと塞ぎ込んでるんだ。 
+fin	jpn_Hira	Minulla on kuumeinen olo. 	体が熱っぽいんだ。 
+fin	jpn_Hira	Yritin kirjoittaa romaanin. 	小説を書いてみたんだよ。 
+fin	jpn_Hira	Tomi ei tee paljoakaan. 	トムがあまりやってくれないんだ。 
+fin	jpn_Hani	Koulussa on kirjoilla kaksi tuhatta oppilasta. 	その学校の在学生数は２千人です。 
+fin	jpn_Hira	Möitkö sielusi? 	魂を売ったのか？ 
+fin	jpn_Hira	Eikö Tomi tosiaankaan ole vihainen? 	トムは本当に怒っていないね？ 
+fin	jpn_Kana	Sun ranskan kielen ääntämys on karmeaa. 	君のフランス語の発音って、やばいね。 
+fin	jpn_Hira	Pelaatko tennistä? 	テニスはするの？ 
+fin	jpn_Hira	Luin sen kirjan kolmessa päivässä. 	３日間でその小説を読んだよ。 
+fin	jpn_Kana	Alkoholi on lääke. 	アルコールは薬物だよ。 
+fin	jpn_Hira	Tomi on syntynyt siellä. 	トムはそこで生まれたんだ。 
+fin	jpn_Hira	Haluan tulla rikkaaksi. 	私はお金持ちになりたいです。 
+fin	jpn_Hira	Tavallisesti olen koko viikonlopun kotona. 	ふつう、週末はずっと家にいるよ。 
+fin	jpn_Hira	Vatsa turpoaa heti jos juon hiilihapotettua vettä. 	炭酸を飲むとすぐにお腹が膨れる。 
+fin	jpn_Hira	Isäni on nuorempi kuin miltä näyttää. 	父は見かけより若いんですよ。 
+fin	jpn_Hira	Sanoiko konstaapeli jotain sinulle? 	お巡りさんは何か言ってた？ 
+fin	jpn_Hani	Tämän lehden ilmestymispäivä on joka toinen keskiviikko. 	この雑誌の発売日は、隔週水曜日です。 
+fin	jpn_Hira	Kuulin että Tomi joutui sterilisoituun huoneeseen. 	トムって、無菌室に入ることになったんだって。 
+fin	jpn_Hira	Juna lähti asemalta ja pian se katosi näkyvistä. 	列車は駅を離れ、すぐに見えなくなった。 
+fin	jpn_Hani	Huomenna on suunnitelmissa mennä japanilaiseen ravintolaan yhdessä isosiskoni ja siskontyttäreni kanssa. 	明日、私は姉さんと姪っ子と一緒に日本料理のお店に行く予定です。 
+fin	jpn_Hira	Tomi hankki pistoolin. 	トムは拳銃を購入しました。 
+fin	jpn_Hani	Vuokran eräpäivä on huomenna. 	家賃の支払い期限が明日なんです。 
+fin	jpn_Hani	Mitä teet yleensä kun pääset koulusta? 	普段、放課後は何してるの？ 
+fin	jpn_Hira	Tiedätkö miten sitä peliä pelataan? 	そのゲームのやり方わかるの？ 
+fin	jpn_Hani	Syödään lounas. 	昼食を食べよう。 
+fin	jpn_Hani	Olen syntynyt 13.päivä helmikuuta 1987. 	私は１９８７年２月１３日に生まれました。 
+fin	jpn_Hira	Tuo se kirja tänne. 	その本こっちに持ってきて。 
+fin	jpn_Hira	En tiedä mikä on totta. 	何が本当かわかんないんだ。 
+fin	jpn_Hira	Mä en oo sun lelu. 	僕、君のおもちゃじゃないよ。 
+fin	jpn_Hira	Kuvankauniiden neitosten ympäröimänä, Tomi ei voinut piilotella hermostuneisuuttaan. 	花も恥じらう乙女たちに囲まれ、トムは緊張を隠せなかった。 
+fin	jpn_Hira	Vaikka sääennusteessa sanottiin että huomenna on selkeää! 	天気予報で明日は晴れですって言ってたのに！ 
+fin	jpn_Hira	Lähdetään eläinpuistoon! 	動物園に行きましょう！ 
+fin	jpn_Hani	Tomi kuului lukioaikoina kyūdō-kerhoon. 	トムは高校生の時、弓道部に入ってたんだよ。 
+fin	jpn_Hira	Kävi miten kävi, niin pidän lupaukseni. 	何が何でも約束は守るよ。 
+fin	jpn_Hani	Käyn parturissa kerran kuussa. 	１ヶ月に１回床屋に行くよ。 
+fin	jpn_Hira	Nimet ovat aiueo-järjestyksessä. 	氏名はあいうえお順です。 
+fin	jpn_Hira	Puistossa oli paljon nuoria pareja. 	公園には若いカップルがたくさんいた。 
+fin	jpn_Hira	Voinko käyttää autoasi tänään? 	今日、あなたの車使ってもいい？ 
+fin	jpn_Hira	Lapset eivät ole vanhempiensa lemmikkejä. 	子供は親のペットじゃないのよ。 
+fin	jpn_Hira	Saanko koskea? 	触ってもいいですか？ 
+fin	jpn_Hira	Otti hetken aikaa rauhoittua. 	気持ちを落ち着かせるのに時間がかかった。 
+fin	jpn_Hani	Unohdin sen kokonaan. 	完全に忘れてたよ。 
+fin	jpn_Hira	Akira harrastaa kyūdōa kuulemma joka perjantai. 	明君って毎週金曜日に弓道をするんだって。 
+fin	jpn_Hira	Vihdoinkin sadekausi näyttää loppuvan. 	やっと梅雨が明けそうね。 
+fin	jpn_Hani	Marin poika syntyi eilen. 	昨日、メアリーの息子が生まれたんだ。 
+fin	jpn_Hani	"Missä mun kakku on?" "Sori, söin sen kokonaan." 	「僕のケーキは？」「ごめん、全部食べちゃった」 
+fin	jpn_Hira	Kiitoksia lämpimistä sanoistasi. 	温かいお言葉ありがとうございます。 
+fin	jpn_Kana	Mustekalan veri on sinistä. 	タコは血が青いです。 
+fin	jpn_Hira	Laitanko jäitä? 	氷は入れる？ 
+fin	jpn_Kana	Tämä pyjama on sopii molemmille sukupuolille. 	このパジャマは、男女兼用です。 
+fin	jpn_Hira	Tomi ajaa hienolla autolla. 	トムっていい車運転してるよね。 
+fin	jpn_Hira	Olin koko päivän tietokoneen ääressä. 	一日中パソコンに向かってるよ。 
+fin	jpn_Hira	En ole lainkaan kiinnostunut. 	全然興味がありません。 
+fin	jpn_Hira	Tämä kirja on lukemisen arvoinen. 	この本は読む価値があるよ。 
+fin	jpn_Hani	Mitä Tomi teki illallisen jälkeen? 	夕飯の後、トムは何をしたの？ 
+fin	jpn_Kana	Lisa on Bryanin tyttöystävä. 	リサはブライアンの彼女だよ。 
+fin	jpn_Hira	Mennään tällä kertaa syömään raamenia. 	今度ラーメンを食べに行きましょう。 
+fin	jpn_Hira	Missä suhteessa haluaisit kuumaa vettä Shoochuuhusi? 	焼酎のお湯割りはいかが？ 
+fin	jpn_Hira	Tomi vihaa sakea. 	トムはお酒が嫌いです。 
+fin	jpn_Hira	Mitä tähän kylttiin on kirjoitettu? 	この看板には何て書いてあるの？ 
+fin	jpn_Hira	Se mitä äsken sanoin ei ollut mitään muuta kuin arvailua. 	今言ったのは、私の憶測にすぎないよ。 
+fin	jpn_Hang	"Hyvää yötä Tomi." "Hyvää yötä Mari." 	「おやすみ、トム」「おやすみ、メアリー」 
+fin	jpn_Hira	Minkä takia Tomi pitää tuota hattua? 	なんでトムはその帽子をかぶってるの？ 
+fin	jpn_Hani	Se oli helppo voitto. 	楽勝だったよ。 
+fin	jpn_Hira	Vieläkö muistat minut? 	まだ私のこと覚えてますか？ 
+fin	jpn_Hani	Laita radio pienemmälle. 	ラジオの音量、小さくしてよ。 
+fin	jpn_Hira	Voisitko lähettää sen tähän osoitteeseen? 	この住所に送っていただけますか？ 
+fin	jpn_Hani	Hän otti lompakon takin povitaskusta. 	彼は財布を上着の懐から取り出した。 
+fin	jpn_Hira	Mikä on? Näytät tosi suuttuneelta. 	どうしたの？めっちゃ怒ってるみたいだけど。 
+fin	jpn_Hani	Tämä sanakirja on kätevä pitää mukana, koska se on niin kompakti. 	コンパクトな辞書で、持ち運びに便利です。 
+fin	jpn_Hira	Tomihan oli poikaystäväsi lukioaikoina? 	トムって、あなたが高校生の頃のボーイフレンドだよね？ 
+fin	jpn_Kana	Tomi esiintyy tänä iltana tv:ssä 	今夜ね、トムがテレビに出演するよ。 
+fin	jpn_Hira	Luokitellaankohan osa-aikatöitä tekevät opiskelijat työssäkäyviksi? 	学生アルバイトって、有職者に分類されるのだろうか？ 
+fin	jpn_Hira	En usko että Tomi on Marin poika. 	トムはメアリーの息子じゃないと思うよ。 
+fin	jpn_Hira	Älä keskeytä kun puhun. 	話してる時に口を挟まないで。 
+fin	jpn_Hira	Voisitko virittää mun kitaran? 	俺のギター、チューニングしてくれない？ 
+fin	jpn_Hira	Mielenkiintoinen tarina! 	面白い話だなあ！ 
+fin	jpn_Hira	Joskus sinä vielä kadut tätä asiaa. 	お前、いつかこのこと後悔するからな。 
+fin	jpn_Kana	Olen australialainen. 	僕はオーストラリア人です。 
+fin	jpn_Hani	"Tomi!" "Hä?" 	「トム！」「え？」 
+fin	jpn_Hani	Ei, se oli hyödytöntä. 	いや、役に立たなかったよ。 
+fin	jpn_Hira	Tomi ei saa unta ilman nallea. 	トムはテディベアなしじゃ眠れないのよ。 
+fin	jpn_Kana	Heitä pallo Tomille. 	ボールをトムに投げて。 
+fin	jpn_Hani	Näyttää alkavan sataa. 	雨が降りそうね。 
+fin	jpn_Hira	Lähdetään karaokeen! 	カラオケに行きましょう。 
+fin	jpn_Hani	Osaan kirjoittaa nimeni kiinaksi. 	自分の名前、中国語で書けるよ。 
+fin	jpn_Hira	Tuleekohan Tomi takaisin tänäiltana? 	トムは今夜戻ってくるんでしょう？ 
+fin	jpn_Hira	Kuulen takin kahinaa. 	上着の擦れる音が聞こえる。 
+fin	jpn_Hira	Onko sinulla sukulaisia ulkomailla? 	外国に親戚はいますか？ 
+fin	jpn_Kana	Sulje ovi kun menet vessaan. 	トイレにいる時は、ドアを閉めなさい。 
+fin	jpn_Hira	Odottele tässä hetki. 	ちょっとここで待ってて。 
+fin	jpn_Hira	Älä pelkästään puhua pölötä, liikuta myös käsiäsi. 	ぺちゃくちゃ喋ってばかりいないで、手も動かしなさいよ。 
+fin	jpn_Hira	Saako koskea? 	触ってもいいですか？ 
+fin	jpn_Hira	Vihaan valehtelua. 	僕は嘘をつかれるのが嫌いなんだ。 
+fin	jpn_Kana	He ovat poliiseja. 	奴らはサツだよ。 
+fin	jpn_Hira	Onko tämä laukku sinun? 	この鞄はあなたのですか。 
+fin	jpn_Kana	Tämä pyjama sopii seka miehille että naisille. 	このパジャマは、男女兼用です。 
+fin	jpn_Hani	Bussi kulkee vartin välein. 	バスは１５分間隔で運転されている。 
+fin	jpn_Hani	En ole tyytymätön. 	不満はないよ。 
+fin	jpn_Hani	Mennään joelle. 	川に行こうよ。 
+fin	jpn_Kana	Hummeri oli herkullista. 	ロブスター旨かったよ。 
+fin	jpn_Kana	Täytyy mennä vessaan. 	トイレに行かなきゃ。 
+fin	jpn_Hira	Tulethan hyvin mukautuvassa vaatetuksessa, koska tähän vuodenaikaan tulee auringon laskiessa hetkessä kylmä. 	この季節、日が陰ると一気に冷え込むので、調整しやすい服装でお越しください。 
+fin	jpn_Hira	Mari ei ole Tomin lapsenlapsi, vaan veljentytär. 	メアリーはトムの孫じゃなくて姪ですよ。 
+fin	jpn_Hira	Alkamalla taidemaalariksi, hän laittoi taiteelliset lahjansa hyvään käyttöön. 	彼は画家になって芸術的な天分を生かした。 
+fin	jpn_Hira	Voinko käydä vessassa? 	トイレに行ってもいいですか。 
+fin	jpn_Hira	Hän ei kestänyt kuumutta. 	彼は暑さに耐えられなかった。 
+fin	jpn_Hani	Mikä näistä on sun hattu? 	君の帽子は、どれ？ 
+fin	jpn_Hira	Vanhempani ovat syntyneet Australiassa. 	僕の両親はオーストラリアで生まれたんだ。 
+fin	jpn_Hira	Ilman lämpötila nousee. 	気温は上がっています。 
+fin	jpn_Hira	Sun ei tarvi olla niin muodollinen. 	そんなに堅苦しくなる必要はないよ。 
+fin	jpn_Hira	Tämä materiaali absorboi hiilidioksidia. 	この素材はCO₂を吸収します。 
+fin	jpn_Hira	Perhelääkäri sanoi että minun pitäisi vähentää suolan käyttöä. 	かかりつけの医者が、塩分を控えるようにって言ったんだよ。 
+fin	jpn_Hira	Halataanko? 	ハグしない？ 
+fin	jpn_Hani	Tomi näyttää yli 70-vuotiaalta. 	トムは７０より老けて見える。 
+fin	jpn_Hani	Oletko hyvä fysiikassa? 	物理って得意？ 
+fin	jpn_Hira	Lapset ovat uppoutuneet peliin. 	子供たちはゲームに夢中になってたよ。 
+fin	jpn_Hira	Lopeta Tomi ja Marin vertailu! 	トムとメアリーを比べるのは止めろよ。 
+fin	jpn_Hani	Vielä vähän malttia. 	もう少しの辛抱だ。 
+fin	jpn_Hani	Tämän viikon aiheena on ilmaston lämpeneminen. 	今週のトピックは「地球の温暖化」です。 
+fin	jpn_Hani	Teen sen ensiviikolla. 	来週やるね。 
+fin	jpn_Hani	Nyt ei ole nälkä. 	今、お腹空いてないの。 
+fin	jpn_Hira	Tomi puhuu sujuvasti japania. 	トムは日本語がぺらぺらだ。 
+fin	jpn_Hira	Jos musiikkia ei olisi, maailmasta tulisi täysin tylsä paikka. 	音楽がなかったら、世の中は退屈な場所になってしまうよ。 
+fin	jpn_Kana	Tomi, miten olisi vielä yksi viipale piirakkaa? 	トム、パイをもう一切れどう？ 
+fin	jpn_Hira	Jopa äitini tietää. 	ママだって知ってるよ。 
+fin	jpn_Hira	Ei ole vielä tarpeen. 	まだ必要ありません。 
+fin	jpn_Hira	Hän oli poissa flunssan vuoksi. 	彼女は風邪のため欠席した。 
+fin	jpn_Hira	Hän ei ehkä ole onnellinen. 	彼って幸せじゃないかもね。 
+fin	jpn_Hira	Ei, mutta kurkkua kuivaa. 	いいえ、でも喉は渇いてます。 
+fin	jpn_Hira	Kokouksessa oli läsnä 30 ihmistä. 	その会議に出席したのは３０人だった。 
+fin	jpn_Hira	Yleisesti ottaean, eliitti on piittaamaton kritiikkiä kohtaan. 	概してエリート達は批判に対して鈍感である。 
+fin	jpn_Hira	Miksi olet niin surullinen? 	どうしてそんなに悲しいの？ 
+fin	jpn_Hira	Voisitko lukita oven? 	ドアに鍵をかけてもらえますか？ 
+fin	jpn_Hira	Minulla on jotain mitä haluan antaa sinulle. 	君に渡したい物があるんだ。 
+fin	jpn_Hani	"Mitä sinä ajattelet?" – "Sinua." 	「何を考えてるの？」「君のことだよ」 
+fin	jpn_Hira	Siinä kylässä ei ole sähköjä. 	その村には電気が通ってないのよ。 
+fin	jpn_Hani	Tämä sateenvarjo on kätevä sekä aurinkoon että sateelle. 	この傘ね、晴雨兼用で便利なのよ。 
+fin	jpn_Hira	Minun täytyy luovuttaa raportti ensiviikon keskiviikkoon mennessä. 	来週の水曜までにレポートを出さなきゃいけないの。 
+fin	jpn_Hira	Onko teillä sukulaisia ulkomailla? 	海外にご親族はいらっしゃいますか？ 
+fin	jpn_Hira	Tomi oli erinomainen laulaja. 	トムは素晴らしい歌手だった。 
+fin	jpn_Hani	Hän on mun työkaveri. 	彼女は同僚だよ。 
+fin	jpn_Hira	Tuo tyyppi on todella itsekeskeinen. 	あいつ本当に自分勝手だよな。 
+fin	jpn_Hira	Lupauksia ei pitäisi rikkoa. 	約束は破ったらいけないんだよ。 
+fin	jpn_Hira	Asun yhdessä iskän kanssa. 	父ちゃんと一緒に住んでるんだ。 
+fin	jpn_Hira	Missä mun pullo on? 	僕のボトルはどこだ？ 
+fin	jpn_Hira	Oletko jo kirjoittanut kaikki uudenvuoden kortit? 	年賀状はもう全部書き終わった？ 
+fin	jpn_Hani	Ostin tämän kirjan kolmella sadalla jenillä. 	３００円でこの本を買いました。 
+fin	jpn_Hira	Olen syntynyt samana päivänä Tomin kanssa. 	トムと同じ日に生まれたんだ。 
+fin	jpn_Hira	Tomi unohti tänään pukea alushousut. 	トムは今日パンツを履き忘れました。 
+fin	jpn_Kana	Tomi värjäsi hiuksensa sinisiksi. 	トムね、髪をブルーに染めたんだ。 
+fin	jpn_Hira	Äiti käski minun siivota huoneeni. 	母は私に部屋の掃除を言いつけた。 
+fin	jpn_Hani	Onko sinulla päivän lehti? 	今日の新聞ある？ 
+fin	jpn_Hira	En tarvitse sitä vielä. 	私にはそれはまだ必要ないよ。 
+fin	jpn_Kana	Tomi on televisiossa tänä iltana. 	トムがね、今夜テレビに出るよ。 
+fin	jpn_Kana	Minulla on pullo viskiä. 	ウイスキーが１本あるんだ。 
+fin	jpn_Hira	Tomi auttoi poikaansa vaihtamaan pyjaman päällensä. 	トムは息子がパジャマに着替えるのを手伝いました。 
+fin	jpn_Hira	Väsyneenä mulla ei oikein leikkaa. 	疲れてる時は頭の回転が鈍いんだよ。 
+fin	jpn_Hira	Savu nousee savupiipusta. 	煙突から煙が出ている。 
+fin	jpn_Hira	Meidän koira puree tuntemattomia. 	うちの犬、知らない人には噛みつきますよ。 
+fin	jpn_Kana	Hän osti digitaalikameran. 	彼ね、デジタルカメラ買ったんだよ。 
+fin	jpn_Hani	Vaaditko vuokravakuutta. 	敷金は必要ですか。 
+fin	jpn_Hani	Meillä on kaksi toimitusta joka päivä. 	配達は毎日２回あります。 
+fin	jpn_Kana	Se on joululahja Tomille. 	トムへのクリスマスプレゼントだよ。 
+fin	jpn_Hira	Tällä viikolla täytyy herätä aikaisin joka aamu. 	今週は毎日、早起きしなきゃいけないんだ。 
+fin	jpn_Hira	Laita tämä taskuusi. 	これはポケットの中にしまいなさい。 
+fin	jpn_Hani	Orkidea tarvitsee päivittäistä huolenpitoa. 	蘭には日々の手入れが必要です。 
+fin	jpn_Hira	Jos totta puhutaan, en pidä hänestä. 	実は、彼のこと好きじゃないの。 
+fin	jpn_Hira	Teitkö sen Tomi vuoksi? 	トムのためにそれをしたの？ 
+fin	jpn_Hani	Kello on 08:00. 	午前８時です。 
+fin	jpn_Hira	Minä tykkään katsoa esperanton kielisiä videoita Youtubesta. 	私ね、YouTubeでエスペラントの動画を見るのが好きなの。 
+fin	jpn_Hani	Koululle on kävellen 30 min. 	学校までは歩いて３０分です。 
+fin	jpn_Hani	Osaan lukea ne kaikki. 	僕ね、それ全部読めるよ。 
+fin	jpn_Hira	Onko tuo suunnilleen saman painoinen kuin tämä? 	あれって、これと同じくらいの重さかな？ 
+fin	jpn_Hira	Mitä se sanookaan, mua ei kiinnosta. 	あいつが何を言おうと、俺は気にしてないんだよ。 
+fin	jpn_Hira	Toivon että hän paranee pian. 	彼が早く良くなるといいですね。 
+fin	jpn_Hira	Huomenna minä, isosiskoni ja siskontytär aiomme mennä yhdessä japanilaiseen ravintolaan. 	明日、俺は姉さんと姪っ子と一緒に日本料理の店に行くつもりです。 
+fin	jpn_Hani	Olin opettajana 15 vuotta. 	私、15年間教師として働いてたのよ。 
+fin	jpn_Hira	Mahtavaa! Kirsikkapuut kukkivat jo. 	すごい！もう桜が咲いてるよ。 
+fin	jpn_Hira	Tomi ei juo kylmää teetä. 	トムは冷たいお茶は飲まないよ。 
+fin	jpn_Hira	Milloin ostit tämän videon? 	いつ、このビデオを買ったのですか。 
+fin	jpn_Hira	Se on selkeä. 	それは明らかだよ。 
+fin	jpn_Hira	Tomi muistuttaa paljon sinua. 	トムはあなたによく似てるわ。 
+fin	jpn_Hira	Ei, mutta janottaa. 	いいえ、でも喉は渇いてます。 
+fin	jpn_Hani	En puhu ollenkaan englantia. 	英語は全然話せないの。 
+fin	jpn_Hira	Vessat ovat oikealla. 	トイレは右側にあります。 
+fin	jpn_Hira	Hän ei taida olla onnellinen. 	彼は嬉しくないかもしれないよ。 
+fin	jpn_Hira	Älä salaa tiedostoa, kiitos. 	ファイルを暗号化しないでください。 
+fin	jpn_Kana	Kana oli herkullista. 	チキン美味しかった。 
+fin	jpn_Hira	Uskon että Tomi puhui Marille totuuden. 	トムはメアリーに真実を言ったと思う 
+fin	jpn_Hira	Olitko kotona? 	家にいたの？ 
+fin	jpn_Hira	Tomin perhe rakastaa häntä. 	トムの家族は、トムのことが大好きなんだ。 
+fin	jpn_Hani	Oppitunteja on liikaa. 	授業数が多すぎるよ。 
+fin	jpn_Hira	Tomi sanoi olevansa masentunut. 	トムがさ、憂鬱だって言ってたんだ。 
+fin	jpn_Hani	Ehkä meidän olisi parempi tehdä se yhdessä. 	多分ね、一緒にやる方がいいよ。 
+fin	jpn_Hira	Karppien ja taimenien kaltaiset kalat elävät makeissa vesissä. 	鯉や鱒のような魚は淡水に生息している。 
+fin	jpn_Hira	Tomi tajusi virheensä välittömästi. 	トムはすぐに間違いに気が付きました。 
+fin	jpn_Hira	Tomia rangaistiin, koska hän ei puhunut totta. 	トムは本当のこと言わなかったので、処罰されました。 
+fin	jpn_Hani	Olipa Tomi tänään pahalla tuulella. 	トムって、今日機嫌が悪かったね。 
+fin	jpn_Hani	Muutin lausetta. 	文を変更しました。 
+fin	jpn_Hira	Toivon että toiveeni toteutuu. 	私の願いが叶うといいんだけど。 
+fin	jpn_Hira	Tänään, kuumana hellepäivänä, nähtiin puistossa lapsia leikkimässä vesileikkejä ja ihmisiä viilentelemässä puiden varjossa. 	猛暑日となった今日、公園では水遊びをする子どもや木陰で涼む人の姿がみられました。 
+fin	jpn_Hira	Onkohan tämä lause liian lapsellinen? 	この言葉って、幼すぎるかな？ 
+fin	jpn_Hira	ALV ei kuulu hintaan. 	消費税は含まれていません。 
+fin	jpn_Hani	Oppilaskunnan puheenjohtajavaaleissa A-luokka kannatti Tomia ja B-luokka kannatti Maria. 	生徒会会長の選出にあたり、１組はトムを２組はメアリーを推した。 
+fin	jpn_Hira	Viime aikoina villisikojen silminnäkijähavainnot kaupunkialueilla on kasvanut. Jos satut näkemään villisian, älä lähesty sitä sillä se on vaarallista. 	最近、市内において猪の目撃情報が増加しています。危険ですので、猪を見かけても近づいたりしないでください。 
+fin	jpn_Hani	Ihminen on epälooginen. 	人間は非論理的です。 
+fin	jpn_Hani	Ehdin junaan. 	電車に間に合ったよ。 
+fin	jpn_Hira	En tiedä mitä haluan. 	何が欲しいのか分かんないよ。 
+fin	jpn_Hira	Tiedätkö ketä he ovat? 	あの人たちのこと知ってる？ 
+fin	jpn_Hira	Tomilla on tosi söpö kissanpentu. 	トムって、ほんと可愛い子猫を飼ってるんだ。 
+fin	jpn_Hira	Tarvitaan isompi huone. 	もっと広い部屋が必要だよ。 
+fin	jpn_Hira	Brasilia on todella suuri maa. 	ブラジルはとても大きな国です。 
+fin	jpn_Hira	Avaisiko joku ikkunan? 	誰か窓を開けてくれる？ 
+fin	jpn_Hira	Kaikki tapahtui samaan aikaan. 	全部が同時に起きたんだよ。 
+fin	jpn_Hira	Haluaisin oppia saksaa. 	ドイツ語を習いたいんだよ。 
+fin	jpn_Hani	Juo kohtuullisesti. 	お酒は控えめに。 
+fin	jpn_Hani	Tänään Tomi näytti rehtorille keskisormea. 	トムは今日校長に中指を立てました。 
+fin	jpn_Hani	Kymmenen ja neljäntoista välillä on vain kaksi alkulukua. 	１０と１４の間には、素数は２つだけです。 
+fin	jpn_Hira	Pyydän kaikkia tekemään yhteistyötä. 	皆様のご協力をお願いいたします。 
+fin	jpn_Hani	Jos olisin sinä, niin ostaisin sen. 	私だったら、買うよ。 
+fin	jpn_Hira	Onkohan tämä lause liian lapsellinen? 	この言葉って、幼稚すぎるかな？ 
+fin	jpn_Hani	Liaallinen kunniottavan kielen käyttö tekee muiden olon epämiellyttäväksi, joten tarkkaavaisuus on tarpeen. 	過剰な敬語は、相手に不快感を与えるので注意が必要です。 
+fin	jpn_Kana	Tomi on Maria kolme vuotta vanhempi. 	トムはメアリーより３つ上だよ。 
+fin	jpn_Hira	Sotilaat olivat aseistautuneet. 	その兵士たちは武装していた。 
+fin	jpn_Hira	En halua asianajajaksi. 	弁護士にはなりたくないんだ。 
+fin	jpn_Hira	Tomi tietää totuuden. 	トムは本当のことを知ってるよ。 
+fin	jpn_Kana	Se omena oli herkullinen. 	そのリンゴ、美味しかったよ。 
+fin	jpn_Hira	Haluatko nähdä sen? 	それ見てみたいの？ 
+fin	jpn_Hira	Älä unohda ottaa ensiapulaukkua mukaan. 	救急箱、持ってくるの忘れないでよ。 
+fin	jpn_Hira	Auto hajosi matkalla sun luo. 	あなたの家に向かってる途中で、車が故障しちゃったの。 
+fin	jpn_Hani	Nimet ovat aiueo-järjestyksessä. 	氏名は五十音順です。 
+fin	jpn_Hani	Mitä ohjelmaa katsot? 	何の番組見てるの？ 
+fin	jpn_Hani	Me emme ole ulkomaalaisia. 	僕ら、外国人じゃないよ。 
+fin	jpn_Hani	On jo illallisen aika. 	もう夕飯時だよ。 
+fin	jpn_Hira	Älä kryptaa tiedostoa, kiitos. 	ファイルを暗号化しないでください。 
+fin	jpn_Hani	Olen vielä työpaikalla. 	まだ仕事場です。 
+fin	jpn_Hira	Näin juuri kun kettu ylitti tien. 	ちょうど、キツネが道路を横切るのが見えたんだ。 
+fin	jpn_Hani	Isi kuoli kaksi vuotta sitten. 	父は２年前に亡くなった。 
+fin	jpn_Kana	Kiitos Tomi. Marialle myös kiitokset. 	トム、ありがとう。メアリーもありがとう。 
+fin	jpn_Hira	Oletko koskaan mennyt ambulanssilla? 	救急車に乗ったことがある？ 
+fin	jpn_Kana	Tomilta tuli joulukortti. 	トムからクリスマスカードが届きました。 
+fin	jpn_Hira	En tiedä miten vastaisin. 	どう答えたらいいか分かんないよ。 
+fin	jpn_Hira	Tällä viikolla joudun heräämään aikaisin joka aamu. 	今週は毎日、早起きしなきゃいけないんだ。 
+fin	jpn_Hira	Tomi yritti pelotella Maria. 	トムはメアリーを怖がらせようとしたんだ。 
+fin	jpn_Hani	Poimi se. 	それ拾って。 
+fin	jpn_Hira	Koska oli poutaantunut, lähdimme patikoimaan. 	晴れてたから、ハイキングに行ったのよ。 
+fin	jpn_Kana	Tämä kaupunki on 1600 metriä merenpinnan yläpuolella. 	この街は標高１６００メートルです。 
+fin	jpn_Hani	Vastustan. 	反対です。 
+fin	jpn_Hira	Tänään kävelin ainoastaan kolmisen kilometriä. 	今日は３キロぐらいしか歩いてないよ。 
+fin	jpn_Kana	Tomi ja Mari ovat ihanteellinen pari. 	トムとメアリーって理想のカップルね。 
+fin	jpn_Hira	Ikkunan lasi särettiin. 	窓ガラスが割られました。 
+fin	jpn_Latn	Tomin käyttäjänimi on "Tomtoeba13". 	トムのユーザー名は「Tomtoeba13」だよ。 
+fin	jpn_Kana	Tomi opiskelee joka aamu ranskaa. 	毎朝、トムはフランス語の勉強をしています。 
+fin	jpn_Hani	Nimet ovat gojūon-järjestyksessä. 	氏名は五十音順です。 
+fin	jpn_Kana	Tarvitsen paketillisen munia. 	１パック卵がいるんだ。 
+fin	jpn_Hani	Puraisin huuleen. 	私は唇を噛んだ。 
+fin	jpn_Hani	Me menimme eri kouluihin. 	俺たち、別々の学校に行ってたんだ。 
+fin	jpn_Hira	Tomi käyttää shortseja. 	トムは短パンを履いています。 
+fin	jpn_Hani	Aion olla siellä pari kolme päivää. 	そこに２、３日滞在するつもりだよ。 
+fin	jpn_Hira	Onko mahdotonta elää 150-vuotiaaksi? 	150歳まで生きることは不可能ですか？ 
+fin	jpn_Hira	En aio maksaa niin paljoa. 	そんなに払うつもりはないよ。 
+fin	jpn_Kana	Liput on loppuunmyyty. 	チケットは完売です。 
+fin	jpn_Hira	Mihin minun läksyni katosivat? 	私の宿題、どこに消えたかな？ 
+fin	jpn_Hira	En erityisemmin pidä juustosta. 	チーズはあまり好きじゃないんだ。 
+fin	jpn_Hani	Palauta se kirja minulle kun olet lukenut sen. 	その本読んだら、私に返してね。 
+fin	jpn_Hira	Kaikki näyttävät vastaavan nopeasti englanniksi. Ah, tai ehkä minä olen vain liian hidas. 	みんな英語で返信するのが早いよね。あっ、私が遅すぎるだけかぁ。 
+fin	jpn_Hira	Eilen minä olin huonovointinen. 	昨日は具合が悪かったんだ。 
+fin	jpn_Hani	Ärsyttävä! 	面倒臭いよ。 
+fin	jpn_Hira	Ostin uuden mustetäytekynän. 	新しい万年筆買ったんだ。 
+fin	jpn_Hani	Tämä materiaali absorboi hiilidioksidia. 	この素材は二酸化炭素を吸収します。 
+fin	jpn_Hira	Monissa muslimimaissa alkoholi on kielletty. 	アルコールは多くのイスラム教国で禁じられています。 
+fin	jpn_Hani	Mun äiti on raivostunut. 	僕の母さん、激怒してる。 
+fin	jpn_Kana	Onko Suomella mahdollisuuksia voittaa euroviisut tänävuonna? 	今年のユーロビジョンでフィンランドには勝ち目がありますか？ 
+fin	jpn_Hira	Mitä tämä artikkeli koskee? 	この記事って何についてなの？ 
+fin	jpn_Hira	Kumpa Tomi paranisi pian. 	トムが早く元気になるといいね。 
+fin	jpn_Kana	Sanotaan että Tomin kaula näyttää kirahvin kaulalta. 	トムの首って、キリンみたいね。 
+fin	jpn_Hani	Tämän viikon aiheena on suvaitsemattomuus. 	今週の話題は「不寛容さ」についてです。 
+fin	jpn_Hira	Nähtäisiinkö töiden jälkeen? 	仕事の後で会うのはどうかしら？ 
+fin	jpn_Hira	Sinun tulisi katsoa totuutta suoraan silmiin. 	あなたは赤裸々な現実を直視すべきだ。 
+fin	jpn_Hani	Hänet paiskattiin vankilaan. 	彼ね、刑務所に放り込まれたのよ。 
+fin	jpn_Hani	Tarvitsen 2-3 aaltopahvilaatikkoa. 	段ボールが２・３個いるの。 
+fin	jpn_Hani	Paperi imee öljyä. 	紙は油を吸うよ。 
+fin	jpn_Hira	Haluaisin ostaa auton, mutta ei ole rahaa. 	車を買いたいけど、買うお金がないんだ。 
+fin	jpn_Hani	Se hevonen osaa puhua. 	その馬、話せるんだ。 
+fin	jpn_Hira	Ostin tämän rannekellon siitä kaupasta. 	この腕時計、そのお店で買ったんだ。 
+fin	jpn_Kana	Alkoholi on huume. 	アルコールは薬物だよ。 
+fin	jpn_Hira	Tämä on hyödyllinen kirja. 	これは、ためになる本なんだよ。 
+fin	jpn_Hani	Töistä palatessani ostin matkan varrelta yhden sixpäkin olutta. 	仕事から帰る途中に、ビール６缶パックを１つ買ったよ。 
+fin	jpn_Hira	Tottele isääsi. 	お父さんに従いなさい。 
+fin	jpn_Hani	"Mitäs mietiskelet?" – "Sua." 	「何を考えてるの？」「君のことだよ」 
+fin	jpn_Hira	Onko lauseeni oikein? 	私の文は正しいですか？ 
+fin	jpn_Hani	Mun kengät ovat loppuunkuluneet. 	私の靴、ボロボロだわ。 
+fin	jpn_Hira	Koska sää oli selkiintynyt, lähdimme retkeilemään. 	晴れてたから、ハイキングに行ったのよ。 
+fin	jpn_Hira	Kuka on sinun lempipelaaja? 	好きな選手は誰ですか。 
+fin	jpn_Hira	Olisi parempi levätä vähän. 	少し休んだ方がいいよ。 
+fin	jpn_Hira	Tomi oli kolme päivää sairaalassa. 	トムは病院で３日過ごしました。 
+fin	jpn_Hira	Onnea ei voi ostaa rahalla. 	幸せはお金では買えないよ。 
+fin	jpn_Hira	Näytät paljon paremmalta sinisessä puvussa. 	青い服を着ると、すごく引き立つね。 
+fin	jpn_Hani	En jaksa enää. 	疲れたなぁ。 
+fin	jpn_Kana	Tämä lista on aakkosjärjestyksessä. 	このリストはアルファベット順です。 
+fin	jpn_Hani	Opiskelen japania itseopiskeluna. 	独学で日本語を勉強してます。 
+fin	jpn_Hira	Toisinaan epäilen älykkyyttäsi. 	ときどき君の知性を疑ってしまうよ。 
+fin	jpn_Kana	Kuinka monta joulukorttia sait viime vuonna? 	去年は何枚クリスマスカードをもらった？ 
+fin	jpn_Hira	Ystäväni itkee. 	友達が泣いてるんだ。 
+fin	jpn_Hani	Haluan alkaa politiikoksi. 	政治家になりたい。 
+fin	jpn_Hira	Tässä hotellissa on kuntosali ja uima-allas. 	このホテルにはジムとプールがあるんだ。 
+fin	jpn_Hira	Tarjosin hänelle juoman kiitokseksi saamastani avusta. 	手伝ってもらったお礼に、あいつに一杯おごったんだ。 
+fin	jpn_Hira	On vain yksi tapa avata oven lukko, oven sisäpuolelta. 	ドアのカギを開ける方法はただひとつ、中から開けることです。 
+fin	jpn_Hani	WHO tarkoittaa Maailman terveysjärjestöä. 	ＷＨＯとは世界保健機構を表す。 
+fin	jpn_Hani	Mun arvosanat ovat yli keskiarvon. 	私の成績は平均より上だよ。 
+fin	jpn_Hira	Etkö ymmärrä? 	理解してないよね？ 
+fin	jpn_Hira	Oletko koskaan kiivennyt Fuji-vuorelle? 	富士山に登ったことがありますか。 
+fin	jpn_Hira	Tomi yritti säikäyttää Marin. 	トムはメアリーを怖がらせようとしたんだ。 
+fin	jpn_Hira	Tomi kysyi Marilta hänen miehensä nimeä. 	トムがさ、メアリーに旦那さんの名前を聞いてたよ。 
+fin	jpn_Hani	Tomi on otorhinolaryngologisti. 	トムは、耳鼻咽喉科の先生です。 
+fin	jpn_Hani	Muutin lausetta. 	文を変えたよ。 
+fin	jpn_Hani	Hän reputti kokeen. 	彼は試験に落ちた。 
