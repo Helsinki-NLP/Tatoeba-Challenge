@@ -64,7 +64,8 @@ OPUSMT_HOMEDIR = ../Opus-MT-train
 
 TODAY          := $(shell date +%F)
 VERSION         = v2020-07-28
-TATOEBA_VERSION = v20190709
+TATOEBA_VERSION = v2020-05-31
+# TATOEBA_VERSION = v20190709
 
 
 ## maximum size of dev and test sets
@@ -195,7 +196,7 @@ UPDATED_TEST_DATA = ${patsubst %,${DEVTESTDIR}/%/test-${TATOEBA_VERSION}.txt,${T
 
 
 ## statistics of all files
-STATISTICS  = Data-${VERSION}.md
+STATISTICS  = ${DATADIR}/README-${VERSION}.md
 
 
 DOWNLOADURL        := https://object.pouta.csc.fi
@@ -247,6 +248,9 @@ WIKI_DOCS      = ${patsubst %,${RELEASEDIR}/%/wikipedia.id.gz,${WIKI_LANGS3}} \
 .PHONY: extra-traindata extra-statistics extra-upload
 .PHONY: update update-testdata
 
+.PRECIOUS: ${DATADIR}/%/README.md
+.PRECIOUS: ${DATADIR}/subsets/${VERSION}/%.md
+
 
 ## make all (completely new release)
 ## including training data and extra data sets
@@ -254,7 +258,7 @@ WIKI_DOCS      = ${patsubst %,${RELEASEDIR}/%/wikipedia.id.gz,${WIKI_LANGS3}} \
 all: opus-langs.txt
 	${MAKE} data
 	${MAKE} dev-tsv test-tsv
-	${MAKE} Data.md
+	${MAKE} ${DATADIR}/README.md
 	${MAKE} subsets
 	${MAKE} extra-traindata
 	${MAKE} extra-statistics
@@ -273,17 +277,17 @@ release:
 	@echo "--------------------------------"
 
 release-tag:
-	@echo "# Release ${VERSION}"          >> Releases.md
-	@echo ""                              >> Releases.md
-	@echo "* [Test data](${TATOEBA_DATAURL}}-devtest/test-${VERSION}.tar) (${VERSION})" >> Releases.md
-	@echo "* [Development data](${TATOEBA_DATAURL}}-devtest/dev-${VERSION}.tar) (${VERSION})" >> Releases.md
-	@echo "* [Bilingual training data](Data-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> Releases.md
-	@echo "* [Extra bilingual training data](subsets/NoTestData-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> Releases.md
-	@echo ""                             >> Releases.md
+	@echo "# Release ${VERSION}"          >> ${DATADIR}/Releases.md
+	@echo ""                              >> ${DATADIR}/Releases.md
+	@echo "* [Test data](${TATOEBA_DATAURL}-devtest/test-${VERSION}.tar) (${VERSION})" >> ${DATADIR}/Releases.md
+	@echo "* [Development data](${TATOEBA_DATAURL}-devtest/dev-${VERSION}.tar) (${VERSION})" >> ${DATADIR}/Releases.md
+	@echo "* [Bilingual training data](data/README-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> ${DATADIR}/Releases.md
+	@echo "* [Extra bilingual training data](data/subsets/NoTestData-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> ${DATADIR}/Releases.md
+	@echo ""                             >> ${DATADIR}/Releases.md
 	git add ${TESTDATADIR}/*/*.txt
 	git add ${DEVDATADIR}/*/*.txt
 	git add ${DEVTESTDIR}/*/*.txt
-	git add *-${VERSION}.md subsets/*.md subsets/${VERSION}/*.md
+	git add ${DATADIR}/*-${VERSION}.md ${DATADIR}/subsets/*.md ${DATADIR}/subsets/${VERSION}/*.md
 	git commit -am 'updated dev and test data (${VERSION})'
 	git tag -a ${VERSION} -m "release version ${VERSION}"
 
@@ -331,11 +335,11 @@ testset-release:
 #	git push origin master
 
 testset-release-tag:
-	@echo "# Release ${VERSION}"          >> Releases.md
-	@echo ""                             >> Releases.md
-	@echo "* [Test data](${TATOEBA_DATAURL}}-devtest/test-${VERSION}.tar) (${VERSION})" >> Releases.md
-	@echo "* [Development data](${TATOEBA_DATAURL}}-devtest/dev-${VERSION}.tar) (${VERSION})" >> Releases.md
-	@echo ""                             >> Releases.md
+	@echo "# Release ${VERSION}"          >> ${DATADIR}/Releases.md
+	@echo ""                              >> ${DATADIR}/Releases.md
+	@echo "* [Test data](${TATOEBA_DATAURL}}-devtest/test-${VERSION}.tar) (${VERSION})" >> ${DATADIR}/Releases.md
+	@echo "* [Development data](${TATOEBA_DATAURL}}-devtest/dev-${VERSION}.tar) (${VERSION})" >> ${DATADIR}/Releases.md
+	@echo ""                              >> ${DATADIR}/Releases.md
 	git add ${TESTDATADIR}/*/*.txt
 	git add ${DEVDATADIR}/*/*.txt
 	git add ${DEVTESTDIR}/*/*.txt
@@ -365,7 +369,7 @@ overlaps: ${OVERLAPTEST} ${OVERLAPDEV}
 
 ## make a new release (upload all data)
 upload: upload-test upload-dev upload-devtest upload-train upload-mono
-upload-release: upload-test upload-dev upload-train extra-upload
+upload-release: upload-test upload-dev upload-train
 
 ## individual data set uploads
 upload-devtest: ${DEVTESTDIR}.done
@@ -503,7 +507,7 @@ print-extra-traindata:
 ## tatoeba test data (only paired with PIVOT_LANG (English))
 extra-traindata: ${EXTRA_TRAIN_DATA}
 extra-statistics:
-	${MAKE} STATISTICS=subsets/NoTestData-${VERSION}.md \
+	${MAKE} STATISTICS=${DATADIR}/subsets/NoTestData-${VERSION}.md \
 		TATOEBA_PAIRS3="${EXTRA_OPUS_PAIRS3}" statistics
 extra-upload: ${patsubst %,${RELEASEDIR}/%.done,${EXTRA_OPUS_PAIRS3}}
 
@@ -637,23 +641,20 @@ ${RELEASEDIR}/%/train.id.gz:
 	rmdir ${dir $@}train.d
 
 
-## force readme's to stay
-.SECONDARY: ${patsubst %,${RELEASEDIR}/%/README.md,${TATOEBA_PAIRS3}}
-
-${DATADIR}/%/README.md:
+${DATADIR}/%/README.md: ${DATADIR}/%
 	@echo "create $@ .."
 	@echo "# Tatoeba MT Challenge - ${notdir $<} - ${VERSION}" > $@
 	@echo ""                              >> $@
 	@echo "Data from the [Tatoeba MT Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge)" >> $@
 	@echo ""                              >> $@
-	@echo "* language pair: ${notdir $<}" >> $@
+	@echo "* language pack: ${notdir $<}" >> $@
 	@echo "* version: ${VERSION}"         >> $@
 	@echo "* based on Tatoeba corpus release [${TATOEBA_VERSION}](https://opus.nlpl.eu/Tatoeba-${TATOEBA_VERSION}.php)" >> $@
 	@echo "* license: [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)" >> $@
 	@echo "* released files:"             >> $@
 	@echo ""                              >> $@
 	@echo "\`\`\`"                        >> $@
-	@find ${dir $@} -type f | \
+	@find ${dir $@} -type f | sort | \
 	sed 's#^${dir $@}##' | tr " " "\n"    >> $@
 	@echo "\`\`\`"                        >> $@
 
@@ -845,7 +846,7 @@ ${WIKI_DOCS}:
 
 BT_CONTAINER = https://object.pouta.csc.fi/Tatoeba-MT-bt
 
-Backtranslations.md:
+${DATADIR}/Backtranslations.md:
 	echo "# Translated monolingual data" > $@
 	echo "" >> $@
 	echo "Automatically translated data sets that can be used for data augmentation" >> $@
@@ -863,7 +864,10 @@ Backtranslations.md:
 
 
 ## make a copy of the latest statistics
-Data.md: Data-${VERSION}.md
+# Data.md: Data-${VERSION}.md
+# 	cp $< $@
+
+${DATADIR}/README.md: ${DATADIR}/README-${VERSION}.md
 	cp $< $@
 
 ## statistics of the data sets
@@ -902,7 +906,7 @@ ${STATISTICS}:
 
 
 ## extended statistics with word counts
-Statisics-${VERSION}.md:
+${DATADIR}/Statisics-${VERSION}.md:
 	echo "# Tatoeba Challenge Data" > $@
 	echo "" >> $@
 	echo "| lang-pair |    test    |    dev     |    train   |  train-src |  train-trg |" >> $@
@@ -935,9 +939,9 @@ Statisics-${VERSION}.md:
 TATOEBA_WIKIDOC_URL      := ${DOWNLOADURL}/${WIKIDOC_CONTAINER}
 TATOEBA_WIKISHUFFLED_URL := ${DOWNLOADURL}/${WIKISHUF_CONTAINER}
 
-Wiki.md: Wiki-${VERSION}.md
+${DATADIR}/Wiki.md: ${DATADIR}/Wiki-${VERSION}.md
 
-Wiki-${VERSION}.md:
+${DATADIR}/Wiki-${VERSION}.md:
 	echo "# Tatoeba Challenge Data - Wikimedia data" > $@
 	echo "" >> $@
 	echo "This is part of the "                     >> $@
@@ -969,9 +973,9 @@ Wiki-${VERSION}.md:
 	done
 
 
-MonolingualData.md: MonolingualData-${VERSION}.md
+${DATADIR}/MonolingualData.md: ${DATADIR}/MonolingualData-${VERSION}.md
 
-MonolingualData-${VERSION}.md:
+${DATADIR}/MonolingualData-${VERSION}.md:
 	echo "# Tatoeba Challenge Data - Monolingual data sets - ${VERSION}" > $@
 	echo "" >> $@
 	echo "This is part of the "                     >> $@
@@ -1013,22 +1017,20 @@ MonolingualData-${VERSION}.md:
 
 
 .PHONY: subsets
-subsets: subsets/insufficient.md \
-	subsets/zero.md \
-	subsets/lowest.md \
-	subsets/lower.md \
-	subsets/medium.md \
-	subsets/higher.md \
-	subsets/highest.md \
-	subsets/LessThan1000.md
+subsets: ${DATADIR}/subsets/insufficient.md \
+	${DATADIR}/subsets/zero.md \
+	${DATADIR}/subsets/lowest.md \
+	${DATADIR}/subsets/lower.md \
+	${DATADIR}/subsets/medium.md \
+	${DATADIR}/subsets/higher.md \
+	${DATADIR}/subsets/highest.md \
+	${DATADIR}/subsets/LessThan1000.md
 
 
-.PRECIOUS: subsets/${VERSION}/%.md
-
-subsets/%.md: subsets/${VERSION}/%.md
+${DATADIR}/subsets/%.md: ${DATADIR}/subsets/${VERSION}/%.md
 	cp $< $@
 
-subsets/${VERSION}/%.md: ${STATISTICS}
+${DATADIR}/subsets/${VERSION}/%.md: ${STATISTICS}
 	mkdir -p ${dir $@}
 	@echo "# Tatoeba Challenge Data - ${VERSION}" > $@
 	@echo "" >> $@
@@ -1234,11 +1236,11 @@ results/tatoeba-models-all.md: tatoeba-models-all
 
 ## new: also consider the opposite translation direction!
 tatoeba-results-all-subset-%: tatoeba-results-all-sorted-langpair
-	${MAKE} ${patsubst tatoeba-results-all-subset-%,subsets/%.md,$@}
-	( l="${shell grep '\[' ${patsubst tatoeba-results-all-subset-%,subsets/%.md,$@} | \
+	${MAKE} ${patsubst tatoeba-results-all-subset-%,${DATADIR}/subsets/%.md,$@}
+	( l="${shell grep '\[' ${patsubst tatoeba-results-all-subset-%,${DATADIR}/subsets/%.md,$@} | \
 		cut -f2 -d '[' | cut -f1 -d ']' | \
 		sort -u  | tr "\n" '|' | sed 's/|$$//;s/\-/\\\-/g'}"; \
-	  r="${shell grep '\[' ${patsubst tatoeba-results-all-subset-%,subsets/%.md,$@} | \
+	  r="${shell grep '\[' ${patsubst tatoeba-results-all-subset-%,${DATADIR}/subsets/%.md,$@} | \
 		cut -f2 -d '[' | cut -f1 -d ']' | \
 		sort -u  | sed 's/\(...\)-\(...\)/\2-\1/' | tr "\n" '|' | sed 's/|$$//;s/\-/\\\-/g'}"; \
 	  grep -P "$$l|$$r" $< |\
