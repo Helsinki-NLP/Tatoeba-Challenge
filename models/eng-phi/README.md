@@ -24,6 +24,7 @@
 | Tatoeba-test.eng-pmn.eng.pmn 	| 0.5 	| 0.163 |
 | Tatoeba-test.eng-war.eng.war 	| 12.8 	| 0.437 |
 
+
 # opus-2020-07-27.zip
 
 * dataset: opus
@@ -49,6 +50,7 @@
 | Tatoeba-test.eng-pag.eng.pag 	| 18.5 	| 0.505 |
 | Tatoeba-test.eng-war.eng.war 	| 12.5 	| 0.437 |
 
+
 # opus2m-2020-08-01.zip
 
 * dataset: opus2m
@@ -73,4 +75,31 @@
 | Tatoeba-test.eng.multi 	| 13.1 	| 0.392 |
 | Tatoeba-test.eng-pag.eng.pag 	| 19.4 	| 0.481 |
 | Tatoeba-test.eng-war.eng.war 	| 12.8 	| 0.441 |
+
+
+# opus1m+bt-2021-04-10.zip
+
+* dataset: opus1m+bt
+* model: transformer-align
+* source language(s): eng
+* target language(s): akl ceb hil ilo pag war
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>agk<< >>agz<< >>akl<< >>akl_Latn<< >>atd<< >>atl<< >>bcl<< >>bgs<< >>bkd<< >>blf<< >>bln<< >>bno<< >>bnq<< >>bto<< >>ceb<< >>cgc<< >>cps<< >>fbl<< >>fil<< >>gor<< >>hil<< >>ibg<< >>ibl<< >>ify<< >>ilk<< >>ilo<< >>kak<< >>krj<< >>kyj<< >>kyk<< >>lbl<< >>loc<< >>mba<< >>mbb<< >>mbd<< >>mbi<< >>mbs<< >>mbt<< >>mdh<< >>mkx<< >>mog<< >>mqk<< >>mrw<< >>msb<< >>msm<< >>mta<< >>obo<< >>pag<< >>pam<< >>rbl<< >>rth<< >>sgd<< >>snl<< >>sxn<< >>tbl<< >>tdn<< >>tne<< >>tnt<< >>tnw<< >>tom<< >>txs<< >>ubl<< >>war<<
+* download: [opus1m+bt-2021-04-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus1m+bt-2021-04-10.zip)
+* test set translations: [opus1m+bt-2021-04-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus1m+bt-2021-04-10.test.txt)
+* test set scores: [opus1m+bt-2021-04-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus1m+bt-2021-04-10.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-akl 	| 2.2 	| 0.199 	| 27 	| 96 	| 1.000 |
+| Tatoeba-test.eng-ceb 	| 10.8 	| 0.429 	| 378 	| 2086 	| 1.000 |
+| Tatoeba-test.eng-hil 	| 18.3 	| 0.513 	| 22 	| 125 	| 1.000 |
+| Tatoeba-test.eng-ilo 	| 33.4 	| 0.586 	| 1093 	| 7241 	| 1.000 |
+| Tatoeba-test.eng-multi 	| 19.4 	| 0.490 	| 3081 	| 20897 	| 1.000 |
+| Tatoeba-test.eng-pag 	| 16.3 	| 0.504 	| 49 	| 320 	| 1.000 |
+| Tatoeba-test.eng-war 	| 12.9 	| 0.431 	| 1512 	| 11024 	| 1.000 |
 

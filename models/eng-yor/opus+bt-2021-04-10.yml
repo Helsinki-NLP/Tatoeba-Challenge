@@ -1,0 +1,30 @@
+release: eng-yor/opus+bt-2021-04-10.zip
+release-date: 2021-04-10
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm12k-spm12k.vocab.yml
+   target: opus+bt.spm12k-spm12k.vocab.yml
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   source: spm12k
+   target: spm12k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - yor
+training-data:
+   eng-yor: Tatoeba-train (478959) wiki.aa.yor-eng (44159) 
+validation-data:
+   eng-yor: Tatoeba-dev, 1000
+   total-size-shuffled: 993
+   devset-selected: top 993  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.eng-yor: 35/189
+BLEU-scores:
+   Tatoeba-test.eng-yor: 13.0
+chr-F-scores:
+   Tatoeba-test.eng-yor: 0.333

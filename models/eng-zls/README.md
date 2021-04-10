@@ -20,6 +20,7 @@
 | Tatoeba-test.eng.multi 	| 41.8 	| 0.612 |
 | Tatoeba-test.eng-slv.eng.slv 	| 17.9 	| 0.353 |
 
+
 # opus-2020-07-06.zip
 
 * dataset: opus
@@ -42,6 +43,7 @@
 | Tatoeba-test.eng-mkd.eng.mkd 	| 43.5 	| 0.629 |
 | Tatoeba-test.eng.multi 	| 42.4 	| 0.612 |
 | Tatoeba-test.eng-slv.eng.slv 	| 17.6 	| 0.348 |
+
 
 # opus-2020-07-27.zip
 
@@ -66,6 +68,7 @@
 | Tatoeba-test.eng.multi 	| 41.9 	| 0.615 |
 | Tatoeba-test.eng-slv.eng.slv 	| 18.2 	| 0.351 |
 
+
 # opus2m-2020-08-02.zip
 
 * dataset: opus2m
@@ -88,4 +91,33 @@
 | Tatoeba-test.eng-mkd.eng.mkd 	| 45.2 	| 0.642 |
 | Tatoeba-test.eng.multi 	| 42.7 	| 0.622 |
 | Tatoeba-test.eng-slv.eng.slv 	| 17.9 	| 0.351 |
+
+
+# opus1m+bt-2021-04-10.zip
+
+* dataset: opus1m+bt
+* model: transformer-align
+* source language(s): eng
+* target language(s): bos bul cnr hbs hrv mkd slv srp
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>bos<< >>bos_Cyrl<< >>bos_Latn<< >>bul<< >>chu<< >>cnr<< >>cnr_Latn<< >>hbs<< >>hbs_Cyrl<< >>hrv<< >>kjv<< >>mkd<< >>slv<< >>srp<< >>srp_Cyrl<< >>srp_Latn<< >>svm<<
+* download: [opus1m+bt-2021-04-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zls/opus1m+bt-2021-04-10.zip)
+* test set translations: [opus1m+bt-2021-04-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zls/opus1m+bt-2021-04-10.test.txt)
+* test set scores: [opus1m+bt-2021-04-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zls/opus1m+bt-2021-04-10.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-bos_Latn 	| 49.5 	| 0.679 	| 300 	| 1645 	| 0.970 |
+| Tatoeba-test.eng-bul 	| 44.1 	| 0.630 	| 10000 	| 69473 	| 0.959 |
+| Tatoeba-test.eng-hbs 	| 38.1 	| 0.597 	| 10000 	| 63826 	| 0.972 |
+| Tatoeba-test.eng-hrv 	| 46.5 	| 0.662 	| 1468 	| 9332 	| 0.987 |
+| Tatoeba-test.eng-mkd 	| 42.6 	| 0.621 	| 10000 	| 61951 	| 0.975 |
+| Tatoeba-test.eng-multi 	| 33.6 	| 0.498 	| 10000 	| 64724 	| 0.900 |
+| Tatoeba-test.eng-slv 	| 18.0 	| 0.350 	| 2007 	| 11909 	| 0.999 |
+| Tatoeba-test.eng-srp_Cyrl 	| 39.7 	| 0.599 	| 1577 	| 9131 	| 1.000 |
+| Tatoeba-test.eng-srp_Latn 	| 35.5 	| 0.579 	| 6655 	| 43718 	| 0.962 |
 

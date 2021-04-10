@@ -1,0 +1,30 @@
+release: eng-euq/opus1m+bt-2021-04-10.zip
+release-date: 2021-04-10
+dataset-name: opus1m+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt.spm12k-spm12k.vocab.yml
+   target: opus1m+bt.spm12k-spm12k.vocab.yml
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   source: spm12k
+   target: spm12k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - eus
+training-data:
+   eng-eus: Tatoeba-train (1000000) wiki.aa.eus-eng (974933) wiki.ab.eus-eng (975163) wiki.ac.eus-eng (511284) wikibooks.aa.eus-eng (51821) wikiquote.aa.eus-eng (7117) wikisource.aa.eus-eng (58344) 
+validation-data:
+   eng-eus: Tatoeba-dev, 1000
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.eng-eus: 1060/7080
+BLEU-scores:
+   Tatoeba-test.eng-eus: 27.8
+chr-F-scores:
+   Tatoeba-test.eng-eus: 0.560

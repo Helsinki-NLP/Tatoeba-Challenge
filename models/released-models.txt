@@ -238,15 +238,21 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-alv/opus-2020-07-14.zip	eng-al
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-alv/opus-2020-07-19.zip	eng-alv	en-alv	0.431	11.8	English	Atlantic-Congo languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-alv/opus-2020-07-26.zip	eng-alv	en-alv	0.430	11.2	English	Atlantic-Congo languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-alv/opus2m-2020-08-01.zip	eng-alv	en-alv	0.429	11.4	English	Atlantic-Congo languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-amh/opus+bt-2021-04-10.zip	eng-amh	en-am	0.425	10.8	English	Amharic
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2020-06-18.zip	eng-ara	en-ar	0.440	14.4	English	Arabic
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	eng-ara	en-ar	0.437	14.0	English	Arabic
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-arg/opus+bt-2021-03-10.zip	eng-arg	en-an	0.283	10.5	English	Aragonese
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-art/opus1m+bt-2021-04-10.zip	eng-art	en-art	0.308	12.1	English	Artificial languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ast/opus+bt-2021-04-10.zip	eng-ast	en-ast	0.476	24.8	English	Asturian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-aze/opus-2020-06-16.zip	eng-aze	en-az	0.477	18.6	English	Azerbaijani
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bak/opus+bt-2021-04-10.zip	eng-bak	en-ba	0.420	12.8	English	Bashkir
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bat/opus-2020-06-28.zip	eng-bat	en-bat	0.596	33.9	English	Baltic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bat/opus-2020-07-26.zip	eng-bat	en-bat	0.599	35.1	English	Baltic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bat/opus1m+bt-2021-04-10.zip	eng-bat	en-bat	0.600	34.8	English	Baltic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bat/opus2m-2020-08-01.zip	eng-bat	en-bat	0.616	37.0	English	Baltic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bel/opus+bt-2021-03-07.zip	eng-bel	en-be	0.382	13.4	English	Belarusian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bel/opus-2020-09-10.zip	eng-bel	en-be	0.261	8.2	English	Belarusian
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ben/opus+bt-2021-04-10.zip	eng-ben	en-bn	0.487	17.3	English	Bengali
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ben/opus-2020-06-17.zip	eng-ben	en-bn	0.484	16.9	English	Bengali
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ben/opus-2021-02-23.zip	eng-ben	en-bn	0.481	16.6	English	Bengali
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ber/opus-2020-09-10.zip	eng-ber	en-ber	0.074	0.0	English	Berber languages
@@ -254,13 +260,16 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bnt/opus-2020-06-28.zip	eng-bn
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bnt/opus-2020-07-06.zip	eng-bnt	en-bnt	0.491	13.7	English	Bantu languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bnt/opus-2020-07-14.zip	eng-bnt	en-bnt	0.444	12.0	English	Bantu languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bnt/opus-2020-07-26.zip	eng-bnt	en-bnt	0.449	12.1	English	Bantu languages
-https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bre/opus+bt-2021-03-08.zip	eng-bre	en-br	0.234	5.3	English	Breton
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bre/opus+bt-2021-04-10.zip	eng-bre	en-br	0.386	15.5	English	Breton
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bul/opus-2020-07-03.zip	eng-bul	en-bg	0.680	50.6	English	Bulgarian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bul/opus-2021-02-19.zip	eng-bul	en-bg	0.565	36.0	English	Bulgarian
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cat/opus+bt-2021-04-10.zip	eng-cat	en-ca	0.674	48.4	English	Catalan
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cat/opus-2021-02-19.zip	eng-cat	en-ca	0.659	46.5	English	Catalan
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ceb/opus+bt-2021-04-10.zip	eng-ceb	en-ceb	0.429	10.8	English	Cebuano
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ceb/opus-2021-02-19.zip	eng-ceb	en-ceb	0.432	11.3	English	Cebuano
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus-2020-06-28.zip	eng-cel	en-cel	0.324	15.8	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus-2020-07-26.zip	eng-cel	en-cel	0.329	16.5	English	Celtic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-2021-04-10.zip	eng-cel	en-cel	0.380	20.0	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus2m+bt-2021-03-19.zip	eng-cel	en-cel	0.381	14.3	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus2m-2020-08-01.zip	eng-cel	en-cel	0.342	18.0	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ces/opus-2021-02-19.zip	eng-ces	en-cs	0.663	47.8	English	Czech
@@ -268,6 +277,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cha/opus-2020-09-10.zip	eng-ch
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cpf/opus-2020-07-26.zip	eng-cpf	en-cpf	0.354	15.9	English	Creoles and pidgins, French‑based
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cpp/opus-2020-07-26.zip	eng-cpp	en-cpp	0.567	31.5	English	Creoles and pidgins, Portuguese-based
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cpp/opus2m-2020-08-01.zip	eng-cpp	en-cpp	0.574	32.7	English	Creoles and pidgins, Portuguese-based
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cus/opus1m+bt-2021-04-10.zip	eng-cus	en-cus	0.242	10.7	English	Cushitic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cus/opus2m-2020-08-01.zip	eng-cus	en-cus	0.173	16.0	English	Cushitic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cym/opus+bt-2021-03-07.zip	eng-cym	en-cy	0.580	35.1	English	Welsh
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cym/opus-2021-02-18.zip	eng-cym	en-cy	0.499	27.4	English	Welsh
@@ -277,14 +287,18 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-deu/opus-2021-02-19.zip	eng-de
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-deu/opus-2021-02-22.zip	eng-deu	en-de	0.655	45.8	English	German
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-dra/opus-2020-06-28.zip	eng-dra	en-dra	0.461	10.5	English	Dravidian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-dra/opus-2020-07-26.zip	eng-dra	en-dra	0.463	10.7	English	Dravidian languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-epo/opus+bt-2021-04-10.zip	eng-epo	en-eo	0.634	41.8	English	Esperanto
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-epo/opus-2021-02-18.zip	eng-epo	en-eo	0.577	35.6	English	Esperanto
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-eus/opus+bt-2021-03-07.zip	eng-eus	en-eu	0.610	33.5	English	Basque
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-eus/opus-2021-02-18.zip	eng-eus	en-eu	0.590	31.8	English	Basque
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fao/opus+bt-2021-03-09.zip	eng-fao	en-fo	0.361	16.8	English	Faroese
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fas/opus+bt-2021-04-10.zip	eng-fas	en-fa	0.364	11.7	English	Persian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fas/opus-2021-02-23.zip	eng-fas	en-fa	0.364	11.8	English	Persian
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fij/opus+bt-2021-04-10.zip	eng-fij	en-fj	0.420	21.7	English	Fijian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus+bt-2021-03-09.zip	eng-fin	en-fi	0.633	38.7	English	Finnish
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus-2021-02-19.zip	eng-fin	en-fi	0.629	38.7	English	Finnish
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus-2020-07-26.zip	eng-fiu	en-fiu	0.578	33.8	English	Finno-Ugrian languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus1m+bt-2021-04-10.zip	eng-fiu	en-fiu	0.551	31.1	English	Finno-Ugrian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus2m-2020-08-01.zip	eng-fiu	en-fiu	0.590	35.4	English	Finno-Ugrian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-19.zip	eng-fra	en-fr	0.669	50.6	English	French
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-22.zip	eng-fra	en-fr	0.671	50.8	English	French
@@ -298,25 +312,33 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gem/opus2m-2020-08-01.zip	eng-
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gla/opus+bt-2021-03-09.zip	eng-gla	en-gd	0.162	0.5	English	Scottish Gaelic
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gle/opus+bt-2021-03-07.zip	eng-gle	en-ga	0.614	40.4	English	Irish
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gle/opus-2021-02-18.zip	eng-gle	en-ga	0.593	37.5	English	Irish
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-glg/opus+bt-2021-04-10.zip	eng-glg	en-gl	0.629	42.8	English	Galician
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-glg/opus-2021-02-18.zip	eng-glg	en-gl	0.593	37.8	English	Galician
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-glv/opus+bt-2021-04-10.zip	eng-glv	en-gv	0.360	10.5	English	Manx
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmq/opus-2020-06-28.zip	eng-gmq	en-gmq	0.681	52.0	English	North Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmq/opus-2020-07-06.zip	eng-gmq	en-gmq	0.684	52.6	English	North Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmq/opus-2020-07-26.zip	eng-gmq	en-gmq	0.683	52.3	English	North Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmq/opus2m-2020-08-01.zip	eng-gmq	en-gmq	0.688	52.8	English	North Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmw/opus-2020-06-28.zip	eng-gmw	en-gmw	0.593	39.5	English	West Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmw/opus-2020-07-26.zip	eng-gmw	en-gmw	0.599	40.6	English	West Germanic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmw/opus1m+bt-2021-04-10.zip	eng-gmw	en-gmw	0.583	38.4	English	West Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmw/opus2m-2020-08-01.zip	eng-gmw	en-gmw	0.609	41.6	English	West Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-grk/opus-2020-07-26.zip	eng-grk	en-grk	0.649	38.2	English	Greek languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-grk/opus1m+bt-2021-04-10.zip	eng-grk	en-grk	0.671	48.2	English	Greek languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-grk/opus2m-2020-08-01.zip	eng-grk	en-grk	0.677	45.6	English	Greek languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hat/opus+bt-2021-04-10.zip	eng-hat	en-ht	0.509	28.6	English	Haitian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-heb/opus-2020-10-04.zip	eng-heb	en-he	0.602	37.9	English	Hebrew
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-heb/opus-2021-02-18.zip	eng-heb	en-he	0.602	37.8	English	Hebrew
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hin/opus+bt-2021-04-10.zip	eng-hin	en-hi	0.485	22.2	English	Hindi
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hin/opus-2021-02-19.zip	eng-hin	en-hi	0.447	16.1	English	Hindi
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hye/opus-2020-06-16.zip	eng-hye	en-hy	0.404	16.6	English	Armenian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hye/opus-2020-09-10.zip	eng-hye	en-hy	0.267	7.2	English	Armenian
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hyx/opus1m+bt-2021-04-10.zip	eng-hyx	en-hyx	0.402	16.6	English	Armenian (family)
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-iir/opus-2020-07-14.zip	eng-iir	en-iir	0.374	12.7	English	Indo-Iranian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-iir/opus-2020-07-19.zip	eng-iir	en-iir	0.380	13.1	English	Indo-Iranian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-iir/opus-2020-07-26.zip	eng-iir	en-iir	0.384	13.3	English	Indo-Iranian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-iir/opus2m-2020-08-01.zip	eng-iir	en-iir	0.392	13.7	English	Indo-Iranian languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ilo/opus+bt-2021-04-10.zip	eng-ilo	en-ilo	0.581	31.7	English	Iloko
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ilo/opus-2021-02-18.zip	eng-ilo	en-ilo	0.569	30.8	English	Iloko
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-inc/opus-2020-06-28.zip	eng-inc	en-inc	0.442	17.0	English	Indic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-inc/opus-2020-07-06.zip	eng-inc	en-inc	0.439	16.8	English	Indic languages
@@ -332,11 +354,15 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-isl/opus-2021-02-19.zip	eng-is
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-itc/opus-2020-07-14.zip	eng-itc	en-itc	0.583	37.2	English	Italic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-itc/opus-2020-07-20.zip	eng-itc	en-itc	0.585	37.6	English	Italic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-itc/opus-2020-07-27.zip	eng-itc	en-itc	0.585	37.5	English	Italic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-itc/opus1m+bt-2021-04-10.zip	eng-itc	en-itc	0.564	35.1	English	Italic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-itc/opus2m-2020-08-01.zip	eng-itc	en-itc	0.588	38.0	English	Italic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jav/opus-2020-09-10.zip	eng-jav	en-jv	0.085	0.2	English	Javanese
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus+bt-2021-04-10.zip	eng-jpn	en-ja	0.258	15.2	English	Japanese
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	eng-jpn	en-ja	0.266	15.7	English	Japanese
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-kaz/opus-2020-09-10.zip	eng-kaz	en-kk	0.181	3.1	English	Kazakh
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-khm/opus-2020-09-10.zip	eng-khm	en-km	0.103	0.1	English	Khmer
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-kin/opus+bt-2021-04-10.zip	eng-kin	en-rw	0.502	11.7	English	Kinyarwanda
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-kir/opus+bt-2021-04-10.zip	eng-kir	en-ky	0.361	11.9	English	Kirghiz
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-kur/opus-2020-09-10.zip	eng-kur	en-ku	0.087	0.1	English	Kurdish
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ltz/opus+bt-2021-03-12.zip	eng-ltz	en-lb	0.458	27.2	English	Luxembourgish
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ltz/opus-2020-09-10.zip	eng-ltz	en-lb	0.123	0.5	English	Luxembourgish
@@ -344,11 +370,16 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.zip	eng
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus-2021-02-18.zip	eng-mal	en-ml	0.497	11.7	English	Malayalam
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-map/opus-2020-07-06.zip	eng-map	en-map	0.409	16.8	English	Austronesian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-map/opus-2020-07-27.zip	eng-map	en-map	0.411	17.6	English	Austronesian languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mar/opus+bt-2021-04-10.zip	eng-mar	en-mr	0.494	22.1	English	Marathi
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mar/opus-2020-09-10.zip	eng-mar	en-mr	0.110	0.7	English	Marathi
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkd/opus+bt-2021-04-10.zip	eng-mkd	en-mk	0.646	45.6	English	Macedonian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkd/opus-2021-02-19.zip	eng-mkd	en-mk	0.641	45.1	English	Macedonian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus-2020-06-28.zip	eng-mkh	en-mkh	0.354	20.1	English	Mon-Khmer languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus-2020-07-27.zip	eng-mkh	en-mkh	0.330	16.5	English	Mon-Khmer languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus1m+bt-2021-04-10.zip	eng-mkh	en-mkh	0.339	21.5	English	Mon-Khmer languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mlt/opus+bt-2021-04-10.zip	eng-mlt	en-mt	0.590	22.0	English	Maltese
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mlt/opus-2021-02-18.zip	eng-mlt	en-mt	0.579	20.0	English	Maltese
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mon/opus+bt-2021-04-10.zip	eng-mon	en-mn	0.338	10.2	English	Mongolian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	eng-mul	en-mul	0.415	18.5	English	Multiple languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-20.zip	eng-mul	en-mul	0.430	19.5	English	Multiple languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-27.zip	eng-mul	en-mul	0.434	19.1	English	Multiple languages
@@ -359,16 +390,22 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nic/opus-2020-07-14.zip	eng-ni
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nic/opus-2020-07-20.zip	eng-nic	en-nic	0.422	10.3	English	Niger-Kordofanian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nic/opus-2020-07-27.zip	eng-nic	en-nic	0.427	11.1	English	Niger-Kordofanian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nld/opus-2021-02-18.zip	eng-nld	en-nl	0.730	57.4	English	Dutch
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nya/opus+bt-2021-04-10.zip	eng-nya	en-ny	0.549	14.7	English	Nyanja
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pag/opus+bt-2021-04-10.zip	eng-pag	en-pag	0.414	14.1	English	Pangasinan
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pap/opus+bt-2021-04-10.zip	eng-pap	en-pap	0.622	44.3	English	Papiamento
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus-2020-06-28.zip	eng-phi	en-phi	0.392	13.6	English	Philippine languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus-2020-07-27.zip	eng-phi	en-phi	0.391	12.8	English	Philippine languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus1m+bt-2021-04-10.zip	eng-phi	en-phi	0.490	19.4	English	Philippine languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	eng-phi	en-phi	0.392	13.1	English	Philippine languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pol/opus-2021-02-19.zip	eng-pol	en-pl	0.673	47.5	English	Polish
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-por/opus-2021-02-18.zip	eng-por	en-pt	0.652	43.9	English	Portuguese
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-poz/opus-2020-07-27.zip	eng-poz	en-poz	0.410	16.2	English	Malayo-Polynesian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pqe/opus-2020-06-28.zip	eng-pqe	en-pqe	0.311	11.3	English	Eastern Malayo-Polynesian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pqe/opus-2020-07-27.zip	eng-pqe	en-pqe	0.304	10.3	English	Eastern Malayo-Polynesian languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pqe/opus1m+bt-2021-04-10.zip	eng-pqe	en-pqe	0.306	11.3	English	Eastern Malayo-Polynesian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pqe/opus2m-2020-08-01.zip	eng-pqe	en-pqe	0.306	11.3	English	Eastern Malayo-Polynesian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pqw/opus-2020-07-27.zip	eng-pqw	en-pqw	0.418	17.2	English	Western Malayo-Polynesian languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pqw/opus1m+bt-2021-04-10.zip	eng-pqw	en-pqw	0.530	25.8	English	Western Malayo-Polynesian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pqw/opus2m-2020-08-01.zip	eng-pqw	en-pqw	0.422	17.5	English	Western Malayo-Polynesian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus-2020-06-28.zip	eng-roa	en-roa	0.645	44.1	English	Romance languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus-2020-07-14.zip	eng-roa	en-roa	0.631	42.3	English	Romance languages
@@ -376,11 +413,13 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus-2020-07-20.zip	eng-ro
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus-2020-07-27.zip	eng-roa	en-roa	0.633	42.6	English	Romance languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus1m+bt-2021-03-23.zip	eng-roa	en-roa	0.609	39.7	English	Romance languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus1m+bt-2021-03-24.zip	eng-roa	en-roa	0.607	39.0	English	Romance languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus1m+bt-2021-04-10.zip	eng-roa	en-roa	0.623	41.6	English	Romance languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus2m-2020-08-01.zip	eng-roa	en-roa	0.636	42.9	English	Romance languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-rom/opus-2020-09-10.zip	eng-rom	en-rom	0.134	0.4	English	Romany
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ron/opus+bt-2021-03-07.zip	eng-ron	en-ro	0.678	46.9	English	Romanian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ron/opus-2020-08-27.zip	eng-ron	en-ro	0.665	45.0	English	Romanian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ron/opus-2021-02-23.zip	eng-ron	en-ro	0.666	45.0	English	Romanian
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-run/opus+bt-2021-04-10.zip	eng-run	en-rn	0.448	11.5	English	Rundi
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-run/opus-2021-02-19.zip	eng-run	en-rn	0.436	10.4	English	Rundi
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sal/opus-2020-06-28.zip	eng-sal	en-sal	0.080	1.3	English	Salishan languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sal/opus-2020-07-14.zip	eng-sal	en-sal	0.585	32.6	English	Salishan languages
@@ -388,29 +427,40 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sco/opus+bt-2021-03-09.zip	eng
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sem/opus-2020-06-28.zip	eng-sem	en-sem	0.487	22.8	English	Semitic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sem/opus-2020-07-06.zip	eng-sem	en-sem	0.481	22.2	English	Semitic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sem/opus-2020-07-27.zip	eng-sem	en-sem	0.480	22.7	English	Semitic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sem/opus1m+bt-2021-04-10.zip	eng-sem	en-sem	0.484	22.6	English	Semitic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sem/opus2m-2020-08-01.zip	eng-sem	en-sem	0.486	23.5	English	Semitic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus1m+bt-2021-04-10.zip	eng-sit	en-sit	0.194	25.7	English	Sino-Tibetan languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus2m-2020-08-01.zip	eng-sit	en-sit	0.223	25.7	English	Sino-Tibetan languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sla/opus-2020-07-06.zip	eng-sla	en-sla	0.601	39.5	English	Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sla/opus-2020-07-14.zip	eng-sla	en-sla	0.599	39.8	English	Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sla/opus-2020-07-27.zip	eng-sla	en-sla	0.604	40.3	English	Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sla/opus2m-2020-08-01.zip	eng-sla	en-sla	0.610	41.0	English	Slavic languages
-https://object.pouta.csc.fi/Tatoeba-MT-models/eng-spa/opus-2020-08-18.zip	eng-spa	en-es	0.721	54.9	English	Spanish
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-smo/opus+bt-2021-04-10.zip	eng-smo	en-sm	0.458	27.8	English	Samoan
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sna/opus+bt-2021-04-10.zip	eng-sna	en-sn	0.661	35.1	English	Shona
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-spa/opus+bt-2021-04-10.zip	eng-spa	en-es	0.721	54.9	English	Spanish
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-spa/opus-2021-02-19.zip	eng-spa	en-es	0.721	55.1	English	Spanish
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sqi/opus+bt-2021-03-12.zip	eng-sqi	en-sq	0.676	46.4	English	Albanian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sqi/opus-2021-02-23.zip	eng-sqi	en-sq	0.671	46.0	English	Albanian
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sun/opus+bt-2021-04-10.zip	eng-sun	en-su	0.355	26.3	English	Sundanese
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-swa/opus+bt-2021-04-10.zip	eng-swa	en-sw	0.604	23.8	English	Swahili (macrolanguage)
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-swa/opus-2021-02-23.zip	eng-swa	en-sw	0.604	23.2	English	Swahili (macrolanguage)
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-swe/opus-2021-02-19.zip	eng-swe	en-sv	0.746	61.7	English	Swedish
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tam/opus-2020-09-10.zip	eng-tam	en-ta	0.405	6.8	English	Tamil
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tat/opus-2020-09-10.zip	eng-tat	en-tt	0.170	2.0	English	Tatar
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tgl/opus+bt-2021-04-10.zip	eng-tgl	en-tl	0.570	26.3	English	Tagalog
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tgl/opus-2020-06-17.zip	eng-tgl	en-tl	0.571	26.5	English	Tagalog
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tgl/opus-2021-02-23.zip	eng-tgl	en-tl	0.571	26.3	English	Tagalog
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ton/opus+bt-2021-04-10.zip	eng-ton	en-to	0.418	15.5	English	Tonga (Tonga Islands)
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tpi/opus+bt-2021-04-10.zip	eng-tpi	en-tpi	0.478	27.4	English	Tok Pisin
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus-2020-06-28.zip	eng-trk	en-trk	0.443	18.5	English	Turkic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus-2020-07-14.zip	eng-trk	en-trk	0.436	18.0	English	Turkic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus-2020-07-20.zip	eng-trk	en-trk	0.445	18.6	English	Turkic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus-2020-07-27.zip	eng-trk	en-trk	0.447	18.8	English	Turkic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus1m+bt-2021-04-10.zip	eng-trk	en-trk	0.447	18.5	English	Turkic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus2m-2020-08-01.zip	eng-trk	en-trk	0.455	19.9	English	Turkic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tso/opus+bt-2021-04-10.zip	eng-tso	en-ts	0.849	78.2	English	Tsonga
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tuk/opus-2020-09-10.zip	eng-tuk	en-tk	0.156	0.9	English	Turkmen
-https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tur/opus-2021-02-18.zip	eng-tur	en-tr	0.684	41.5	English	Turkish
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tur/opus+bt-2021-04-10.zip	eng-tur	en-tr	0.684	41.5	English	Turkish
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tut/opus-2020-07-06.zip	eng-tut	en-tut	0.431	17.5	English	Altaic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tut/opus-2020-07-14.zip	eng-tut	en-tut	0.439	18.2	English	Altaic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tut/opus-2020-07-20.zip	eng-tut	en-tut	0.441	18.4	English	Altaic languages
@@ -421,21 +471,30 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opus-2021-02-19.zip	eng-uk
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus+bt-2021-03-12.zip	eng-urd	en-ur	0.435	16.2	English	Urdu
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus-2021-02-18.zip	eng-urd	en-ur	0.390	12.1	English	Urdu
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urj/opus-2020-07-27.zip	eng-urj	en-urj	0.572	33.3	English	Uralic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urj/opus1m+bt-2021-04-10.zip	eng-urj	en-urj	0.547	30.3	English	Uralic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urj/opus2m-2020-08-02.zip	eng-urj	en-urj	0.588	35.1	English	Uralic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-uzb/opus-2020-09-10.zip	eng-uzb	en-uz	0.151	0.2	English	Uzbek
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-vie/opus+bt-2021-04-10.zip	eng-vie	en-vi	0.542	37.1	English	Vietnamese
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-vie/opus-2020-09-10.zip	eng-vie	en-vi	0.542	37.2	English	Vietnamese
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-war/opus+bt-2021-04-10.zip	eng-war	en-war	0.409	10.6	English	Waray (Philippines)
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-wen/opus1m+bt-2021-04-10.zip	eng-wen	en-wen	0.322	10.8	English	Sorbian languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-xho/opus+bt-2021-04-10.zip	eng-xho	en-xh	0.613	27.3	English	Xhosa
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-yor/opus+bt-2021-04-10.zip	eng-yor	en-yo	0.333	13.0	English	Yoruba
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2020-07-14.zip	eng-zho	en-zh	0.265	31.1	English	Chinese
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2020-07-17.zip	eng-zho	en-zh	0.268	31.4	English	Chinese
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2021-02-23.zip	eng-zho	en-zh	0.267	31.6	English	Chinese
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opus-2020-06-28.zip	eng-zle	en-zle	0.570	35.6	English	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opus-2020-07-27.zip	eng-zle	en-zle	0.564	35.3	English	East Slavic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opus1m+bt-2021-04-10.zip	eng-zle	en-zle	0.574	35.7	English	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opus2m-2020-08-02.zip	eng-zle	en-zle	0.580	37.2	English	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zls/opus-2020-06-28.zip	eng-zls	en-zls	0.612	41.8	English	South Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zls/opus-2020-07-06.zip	eng-zls	en-zls	0.612	42.4	English	South Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zls/opus-2020-07-27.zip	eng-zls	en-zls	0.615	41.9	English	South Slavic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zls/opus1m+bt-2021-04-10.zip	eng-zls	en-zls	0.498	33.6	English	South Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zls/opus2m-2020-08-02.zip	eng-zls	en-zls	0.622	42.7	English	South Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zlw/opus-2020-06-28.zip	eng-zlw	en-zlw	0.619	41.3	English	West Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zlw/opus-2020-07-27.zip	eng-zlw	en-zlw	0.616	40.9	English	West Slavic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zlw/opus1m+bt-2021-04-10.zip	eng-zlw	en-zlw	0.606	39.4	English	West Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zlw/opus2m-2020-08-02.zip	eng-zlw	en-zlw	0.632	42.8	English	West Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zul/opus+bt-2021-03-12.zip	eng-zul	en-zu	0.813	47.6	English	Zulu
 https://object.pouta.csc.fi/Tatoeba-MT-models/epo-afr/opus-2021-02-18.zip	epo-afr	eo-af	0.369	19.5	Esperanto	Afrikaans

@@ -1,0 +1,102 @@
+release: eng-zlw/opus1m+bt-2021-04-10.zip
+release-date: 2021-04-10
+dataset-name: opus1m+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt.spm32k-spm32k.vocab.yml
+   target: opus1m+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - ces
+   - csb
+   - dsb
+   - hsb
+   - pol
+use-target-labels:
+   - ">>ces<<"
+   - ">>csb<<"
+   - ">>csb_Latn<<"
+   - ">>dsb<<"
+   - ">>hsb<<"
+   - ">>pol<<"
+training-data:
+   eng-ces: Tatoeba-train (1000000) wiki.aa (962703) wiki.ab (962289) wiki.ac (962391) wiki.ad (962387) wiki.ae (962728) wiki.af (962448) wiki.ag (962256) wiki.ah (921049) wikibooks.aa (65934) wikinews.aa (59767) wikiquote.aa (85396) wikisource.aa (992720) wikisource.ab (852867) 
+   eng-csb: Tatoeba-train (6) 
+   eng-csb_Latn: Tatoeba-train (36906) 
+   eng-dsb: wiki.aa (16507) 
+   eng-hsb: Tatoeba-train (22057) wiki.aa.hsb-eng (66083) 
+   eng-pol: Tatoeba-train (1000000) wiki.aa.pol-eng (972010) wiki.ab.pol-eng (972118) wiki.ac.pol-eng (971808) wiki.ad.pol-eng (972141) wiki.ae.pol-eng (972209) wiki.af.pol-eng (971812) wiki.ag.pol-eng (972155) wiki.ah.pol-eng (972295) wiki.ai.pol-eng (972181) wiki.aj.pol-eng (972350) wiki.ak.pol-eng (971953) wiki.al.pol-eng (972290) wiki.am.pol-eng (971988) wiki.an.pol-eng (972067) wiki.ao.pol-eng (972287) wiki.ap.pol-eng (972412) wiki.aq.pol-eng (286577) wikibooks.aa.pol-eng (97595) wikinews.aa.pol-eng (161668) wikiquote.aa.pol-eng (679989) wikisource.aa.pol-eng (985221) wikisource.ab.pol-eng (985152) wikisource.ac.pol-eng (985064) wikisource.ad.pol-eng (985079) wikisource.ae.pol-eng (985414) wikisource.af.pol-eng (985223) wikisource.ag.pol-eng (962562) 
+validation-data:
+   ces-eng: Tatoeba-dev, 13217
+   csb-eng: Tatoeba-dev, 1
+   csb_Latn-eng: Tatoeba-dev, 999
+   dsb-eng: Tatoeba-dev, 173
+   eng-hsb: Tatoeba-dev, 1000
+   eng-pol: Tatoeba-dev, 44146
+   total-size-shuffled: 3993
+   devset-selected: top 3993  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   newssyscomb2009.eng-ces: 502/10032
+   news-test2008.eng-ces: 2051/42484
+   newstest2009.eng-ces: 2525/55533
+   newstest2010.eng-ces: 2489/52958
+   newstest2011.eng-ces: 3003/65653
+   newstest2012.eng-ces: 3003/65456
+   newstest2013.eng-ces: 3000/57250
+   newstest2015-encs.eng-ces: 2656/45931
+   newstest2016-encs.eng-ces: 2999/57013
+   newstest2017-encs.eng-ces: 3005/54461
+   newstest2018-encs.eng-ces: 2983/54772
+   newstest2019-encs.eng-ces: 1997/43373
+   Tatoeba-test.eng-ces: 10000/65287
+   Tatoeba-test.eng-csb: 27/243
+   Tatoeba-test.eng-dsb: 34/184
+   Tatoeba-test.eng-hsb: 40/207
+   Tatoeba-test.eng-pol: 10000/64899
+   Tatoeba-test.eng-multi: 10000/65263
+BLEU-scores:
+   newssyscomb2009.eng-ces: 19.7
+   news-test2008.eng-ces: 16.4
+   newstest2009.eng-ces: 17.3
+   newstest2010.eng-ces: 17.6
+   newstest2011.eng-ces: 19.0
+   newstest2012.eng-ces: 16.8
+   newstest2013.eng-ces: 20.0
+   newstest2015-encs.eng-ces: 19.6
+   newstest2016-encs.eng-ces: 22.1
+   newstest2017-encs.eng-ces: 18.0
+   newstest2018-encs.eng-ces: 17.7
+   newstest2019-encs.eng-ces: 18.7
+   Tatoeba-test.eng-ces: 39.9
+   Tatoeba-test.eng-csb: 6.0
+   Tatoeba-test.eng-dsb: 22.5
+   Tatoeba-test.eng-hsb: 30.6
+   Tatoeba-test.eng-pol: 40.0
+   Tatoeba-test.eng-multi: 39.4
+chr-F-scores:
+   newssyscomb2009.eng-ces: 0.476
+   news-test2008.eng-ces: 0.448
+   newstest2009.eng-ces: 0.462
+   newstest2010.eng-ces: 0.466
+   newstest2011.eng-ces: 0.472
+   newstest2012.eng-ces: 0.446
+   newstest2013.eng-ces: 0.475
+   newstest2015-encs.eng-ces: 0.481
+   newstest2016-encs.eng-ces: 0.498
+   newstest2017-encs.eng-ces: 0.460
+   newstest2018-encs.eng-ces: 0.462
+   newstest2019-encs.eng-ces: 0.469
+   Tatoeba-test.eng-ces: 0.601
+   Tatoeba-test.eng-csb: 0.208
+   Tatoeba-test.eng-dsb: 0.394
+   Tatoeba-test.eng-hsb: 0.458
+   Tatoeba-test.eng-pol: 0.618
+   Tatoeba-test.eng-multi: 0.606

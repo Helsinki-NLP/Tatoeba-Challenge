@@ -24,6 +24,7 @@
 | Tatoeba-test.eng.multi 	| 15.8 	| 0.324 |
 
 
+
 # opus-2020-07-26.zip
 
 * dataset: opus
@@ -48,6 +49,7 @@
 | Tatoeba-test.eng-gle.eng.gle 	| 35.0 	| 0.578 |
 | Tatoeba-test.eng-glv.eng.glv 	| 7.1 	| 0.333 |
 | Tatoeba-test.eng.multi 	| 16.5 	| 0.329 |
+
 
 
 # opus2m-2020-08-01.zip
@@ -76,6 +78,7 @@
 | Tatoeba-test.eng.multi 	| 18.0 	| 0.342 |
 
 
+
 # opus2m+bt-2021-03-19.zip
 
 * dataset: opus2m+bt
@@ -101,4 +104,31 @@
 | Tatoeba-test.eng-gle 	| 40.4 	| 0.609 	| 1924 	| 12199 	| 1.000 |
 | Tatoeba-test.eng-glv 	| 13.0 	| 0.502 	| 5 	| 25 	| 1.000 |
 | Tatoeba-test.eng-multi 	| 14.3 	| 0.381 	| 383 	| 2269 	| 0.924 |
+
+
+# opus1m+bt-2021-04-10.zip
+
+* dataset: opus1m+bt
+* model: transformer-align
+* source language(s): eng
+* target language(s): bre cor cym gla gle glv
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>bre<< >>cor<< >>cym<< >>ghc<< >>gla<< >>gle<< >>glv<< >>mga<< >>nrc<< >>obt<< >>owl<< >>sga<< >>wlm<< >>xbm<< >>xcb<< >>xce<< >>xcg<< >>xga<< >>xlp<< >>xpi<< >>xtg<< >>xve<<
+* download: [opus1m+bt-2021-04-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-2021-04-10.zip)
+* test set translations: [opus1m+bt-2021-04-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-2021-04-10.test.txt)
+* test set scores: [opus1m+bt-2021-04-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-2021-04-10.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-bre 	| 15.6 	| 0.387 	| 383 	| 2268 	| 0.943 |
+| Tatoeba-test.eng-cor 	| 3.9 	| 0.163 	| 3198 	| 17784 	| 0.956 |
+| Tatoeba-test.eng-cym 	| 29.2 	| 0.535 	| 818 	| 6020 	| 0.963 |
+| Tatoeba-test.eng-gla 	| 16.1 	| 0.395 	| 917 	| 7071 	| 1.000 |
+| Tatoeba-test.eng-gle 	| 34.3 	| 0.567 	| 1924 	| 12199 	| 1.000 |
+| Tatoeba-test.eng-glv 	| 16.8 	| 0.317 	| 5 	| 25 	| 1.000 |
+| Tatoeba-test.eng-multi 	| 20.0 	| 0.380 	| 7245 	| 45370 	| 0.998 |
 

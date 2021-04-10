@@ -290,7 +290,8 @@ release-tag:
 	git add ${DATADIR}/*-${VERSION}.md ${DATADIR}/subsets/*.md ${DATADIR}/subsets/${VERSION}/*.md
 	git commit -am 'updated dev and test data (${VERSION})'
 	git tag -a ${VERSION} -m "release version ${VERSION}"
-
+	git push origin master
+	git push origin ${VERSION}
 
 
 ## generate readme file
@@ -345,8 +346,8 @@ testset-release-tag:
 	git add ${DEVTESTDIR}/*/*.txt
 	git commit -am 'updated dev and test data (${VERSION})'
 	git tag -a ${VERSION} -m "release version ${VERSION}"
-
-
+	git push origin master
+	git push origin ${VERSION}
 
 
 

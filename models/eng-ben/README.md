@@ -20,6 +20,7 @@
 
 
 
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -40,4 +41,26 @@
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.eng-ben 	| 16.6 	| 0.481 	| 2500 	| 11654 	| 1.000 |
 | tico19-test.eng-ben 	| 5.6 	| 0.327 	| 2100 	| 51751 	| 0.833 |
+
+
+# opus+bt-2021-04-10.zip
+
+* dataset: opus+bt
+* model: transformer-align
+* source language(s): eng
+* target language(s): ben
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>ben<< >>ben_Cyrl<< >>ben_Deva<< >>ben_Gujr<<
+* download: [opus+bt-2021-04-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ben/opus+bt-2021-04-10.zip)
+* test set translations: [opus+bt-2021-04-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ben/opus+bt-2021-04-10.test.txt)
+* test set scores: [opus+bt-2021-04-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ben/opus+bt-2021-04-10.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-ben 	| 17.3 	| 0.487 	| 2500 	| 11654 	| 1.000 |
+| tico19-test.eng-ben 	| 5.9 	| 0.334 	| 2100 	| 51751 	| 0.837 |
 

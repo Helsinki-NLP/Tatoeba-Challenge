@@ -1,0 +1,30 @@
+release: eng-sna/opus+bt-2021-04-10.zip
+release-date: 2021-04-10
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm12k-spm12k.vocab.yml
+   target: opus+bt.spm12k-spm12k.vocab.yml
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   source: spm12k
+   target: spm12k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - sna
+training-data:
+   eng-sna: Tatoeba-train (817385) wiki.aa.sna-eng (30652) 
+validation-data:
+   eng-sna: Tatoeba-dev, 1000
+   total-size-shuffled: 998
+   devset-selected: top 998  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.eng-sna: 41/141
+BLEU-scores:
+   Tatoeba-test.eng-sna: 35.1
+chr-F-scores:
+   Tatoeba-test.eng-sna: 0.661

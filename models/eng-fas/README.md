@@ -22,3 +22,25 @@
 | Tatoeba-test.eng-pes_Thaa 	| 0.9 	| 0.003 	| 2 	| 40 	| 1.000 |
 | tico19-test.eng-fas 	| 13.7 	| 0.422 	| 2100 	| 62758 	| 0.826 |
 
+
+# opus+bt-2021-04-10.zip
+
+* dataset: opus+bt
+* model: transformer-align
+* source language(s): eng
+* target language(s): fas pes prs
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>fas<< >>pes<< >>prs<<
+* download: [opus+bt-2021-04-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fas/opus+bt-2021-04-10.zip)
+* test set translations: [opus+bt-2021-04-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fas/opus+bt-2021-04-10.test.txt)
+* test set scores: [opus+bt-2021-04-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fas/opus+bt-2021-04-10.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-fas 	| 11.7 	| 0.364 	| 7536 	| 62270 	| 0.933 |
+| tico19-test.eng-fas 	| 14.5 	| 0.436 	| 2100 	| 62758 	| 0.834 |
+

@@ -1,0 +1,37 @@
+release: eng-hyx/opus1m+bt-2021-04-10.zip
+release-date: 2021-04-10
+dataset-name: opus1m+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt.spm32k-spm32k.vocab.yml
+   target: opus1m+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - hye
+use-target-labels:
+   - ">>hye<<"
+   - ">>hye_Latn<<"
+training-data:
+   eng-hye: Tatoeba-train (447648) 
+   eng-hye_Latn: Tatoeba-train (48) 
+validation-data:
+   eng-hye: Tatoeba-dev, 1000
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.eng-hye: 1121/5114
+   Tatoeba-test.eng-multi: 1121/5115
+BLEU-scores:
+   Tatoeba-test.eng-hye: 16.4
+   Tatoeba-test.eng-multi: 16.6
+chr-F-scores:
+   Tatoeba-test.eng-hye: 0.400
+   Tatoeba-test.eng-multi: 0.402
