@@ -25,6 +25,8 @@
 
 
 
+
+
 # opus-2020-07-26.zip
 
 * dataset: opus
@@ -49,6 +51,8 @@
 | Tatoeba-test.eng-gle.eng.gle 	| 35.0 	| 0.578 |
 | Tatoeba-test.eng-glv.eng.glv 	| 7.1 	| 0.333 |
 | Tatoeba-test.eng.multi 	| 16.5 	| 0.329 |
+
+
 
 
 
@@ -79,6 +83,8 @@
 
 
 
+
+
 # opus2m+bt-2021-03-19.zip
 
 * dataset: opus2m+bt
@@ -106,6 +112,8 @@
 | Tatoeba-test.eng-multi 	| 14.3 	| 0.381 	| 383 	| 2269 	| 0.924 |
 
 
+
+
 # opus1m+bt-2021-04-10.zip
 
 * dataset: opus1m+bt
@@ -131,4 +139,49 @@
 | Tatoeba-test.eng-gle 	| 34.3 	| 0.567 	| 1924 	| 12199 	| 1.000 |
 | Tatoeba-test.eng-glv 	| 16.8 	| 0.317 	| 5 	| 25 	| 1.000 |
 | Tatoeba-test.eng-multi 	| 20.0 	| 0.380 	| 7245 	| 45370 	| 0.998 |
+
+
+
+# opus1m+bt-tuned4eng2bre-2021-04-10.zip
+
+* dataset: opus1m+bt-tuned4eng2bre
+* model: transformer-align
+* source language(s): eng
+* target language(s): bre
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>bre<< >>cor<< >>cym<< >>ghc<< >>gla<< >>gle<< >>glv<< >>mga<< >>nrc<< >>obt<< >>owl<< >>sga<< >>wlm<< >>xbm<< >>xcb<< >>xce<< >>xcg<< >>xga<< >>xlp<< >>xpi<< >>xtg<< >>xve<<
+* download: [opus1m+bt-tuned4eng2bre-2021-04-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-tuned4eng2bre-2021-04-10.zip)
+* test set translations: [opus1m+bt-tuned4eng2bre-2021-04-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-tuned4eng2bre-2021-04-10.test.txt)
+* test set scores: [opus1m+bt-tuned4eng2bre-2021-04-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-tuned4eng2bre-2021-04-10.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-bre 	| 15.9 	| 0.382 	| 383 	| 2269 	| 0.938 |
+| Tatoeba-test.eng-multi 	| 1.3 	| 0.130 	| 7245 	| 45370 	| 1.000 |
+
+
+# opus1m+bt-tuned4eng2gle-2021-04-10.zip
+
+* dataset: opus1m+bt-tuned4eng2gle
+* model: transformer-align
+* source language(s): eng
+* target language(s): gle
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>bre<< >>cor<< >>cym<< >>ghc<< >>gla<< >>gle<< >>glv<< >>mga<< >>nrc<< >>obt<< >>owl<< >>sga<< >>wlm<< >>xbm<< >>xcb<< >>xce<< >>xcg<< >>xga<< >>xlp<< >>xpi<< >>xtg<< >>xve<<
+* download: [opus1m+bt-tuned4eng2gle-2021-04-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-tuned4eng2gle-2021-04-10.zip)
+* test set translations: [opus1m+bt-tuned4eng2gle-2021-04-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-tuned4eng2gle-2021-04-10.test.txt)
+* test set scores: [opus1m+bt-tuned4eng2gle-2021-04-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-tuned4eng2gle-2021-04-10.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-gle 	| 35.3 	| 0.580 	| 1924 	| 12200 	| 1.000 |
+| Tatoeba-test.eng-multi 	| 10.4 	| 0.247 	| 7245 	| 45370 	| 1.000 |
 

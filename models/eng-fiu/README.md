@@ -44,6 +44,7 @@
 | Tatoeba-test.eng-udm.eng.udm 	| 1.4 	| 0.090 |
 
 
+
 # opus2m-2020-08-01.zip
 
 * dataset: opus2m
@@ -88,6 +89,7 @@
 | Tatoeba-test.eng-sma.eng.sma 	| 2.6 	| 0.097 |
 | Tatoeba-test.eng-sme.eng.sme 	| 7.3 	| 0.221 |
 | Tatoeba-test.eng-udm.eng.udm 	| 1.4 	| 0.079 |
+
 
 
 # opus1m+bt-2021-04-10.zip
@@ -136,4 +138,26 @@
 | Tatoeba-test.eng-sme 	| 12.4 	| 0.238 	| 62 	| 252 	| 1.000 |
 | Tatoeba-test.eng-udm 	| 3.4 	| 0.125 	| 10 	| 39 	| 1.000 |
 | Tatoeba-test.eng-vro 	| 2.1 	| 0.030 	| 5 	| 40 	| 0.922 |
+
+
+# opus1m+bt-tuned4eng2sme-2021-04-10.zip
+
+* dataset: opus1m+bt-tuned4eng2sme
+* model: transformer-align
+* source language(s): eng
+* target language(s): sme
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>chm<< >>est<< >>fin<< >>fit<< >>fkv<< >>fkv_Latn<< >>hun<< >>izh<< >>kca<< >>koi<< >>kom<< >>kpv<< >>krl<< >>liv<< >>liv_Latn<< >>mdf<< >>mhr<< >>mns<< >>mrj<< >>myv<< >>olo<< >>sia<< >>sjd<< >>sje<< >>sjk<< >>sjt<< >>sju<< >>sma<< >>sme<< >>smj<< >>smn<< >>sms<< >>udm<< >>vep<< >>vot<< >>vro<<
+* download: [opus1m+bt-tuned4eng2sme-2021-04-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus1m+bt-tuned4eng2sme-2021-04-10.zip)
+* test set translations: [opus1m+bt-tuned4eng2sme-2021-04-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus1m+bt-tuned4eng2sme-2021-04-10.test.txt)
+* test set scores: [opus1m+bt-tuned4eng2sme-2021-04-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus1m+bt-tuned4eng2sme-2021-04-10.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-multi 	| 0.4 	| 0.122 	| 10000 	| 59724 	| 1.000 |
+| Tatoeba-test.eng-sme 	| 15.2 	| 0.244 	| 62 	| 252 	| 1.000 |
 

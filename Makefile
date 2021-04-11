@@ -233,6 +233,10 @@ WIKI_DOCS      = ${patsubst %,${RELEASEDIR}/%/wikipedia.id.gz,${WIKI_LANGS3}} \
 		 ${patsubst %,${RELEASEDIR}/%/wikiquote.id.gz,${WIKI_LANGS3}} \
 		 ${patsubst %,${RELEASEDIR}/%/wikisource.id.gz,${WIKI_LANGS3}}
 
+## language labels included in a wiki data set
+## TODO: empty lines also have language labels (should we remove them?)
+WIKI_LABELS    = ${patsubst %.id.gz,%.langs.txt,${WIKI_DOCS}}
+
 
 
 ## new lang ID files with normalised codes and script info
@@ -824,7 +828,8 @@ ${DEV_TSV}: ${DATADIR}/dev/%/dev.txt: ${RELEASEDIR}/%/dev.id
 	paste $< ${<:.id=.src} ${<:.id=.trg} > $@
 
 
-wikidocs: ${WIKI_DOCS}
+# wikidocs: ${WIKI_DOCS}
+wikidocs: ${RELEASEDIR}/wiki.langs.txt
 
 ${WIKI_DOCS}:
 	mkdir -p ${dir $@}
@@ -844,6 +849,14 @@ ${WIKI_DOCS}:
 	  gzip -c < $@.tmpids > $@; \
 	  rm -f $@.tmptxt $@.tmpids; \
 	fi
+
+${WIKI_LABELS}: %.langs.txt: %.id.gz
+	zgrep -H . $< | sort -u | sed 's#${RELEASEDIR}/##' | tr ':' "\t" > $@
+
+${RELEASEDIR}/wiki.langs.txt: ${WIKI_LABELS}
+	cat $^ | sort > $@
+
+
 
 BT_CONTAINER = https://object.pouta.csc.fi/Tatoeba-MT-bt
 
