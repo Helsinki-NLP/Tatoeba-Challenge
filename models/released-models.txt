@@ -270,6 +270,10 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ceb/opus-2021-02-19.zip	eng-ce
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus-2020-06-28.zip	eng-cel	en-cel	0.324	15.8	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus-2020-07-26.zip	eng-cel	en-cel	0.329	16.5	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-2021-04-10.zip	eng-cel	en-cel	0.380	20.0	English	Celtic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-tuned4eng2bre-2021-04-10.zip	eng-cel	en-cel	0.130	1.3	English	Celtic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-tuned4eng2cym-2021-04-10.zip	eng-cel	en-cel	0.174	5.0	English	Celtic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-tuned4eng2gla-2021-04-10.zip	eng-cel	en-cel	0.356	18.1	English	Celtic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-tuned4eng2gle-2021-04-10.zip	eng-cel	en-cel	0.247	10.4	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus2m+bt-2021-03-19.zip	eng-cel	en-cel	0.381	14.3	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus2m-2020-08-01.zip	eng-cel	en-cel	0.342	18.0	English	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ces/opus-2021-02-19.zip	eng-ces	en-cs	0.663	47.8	English	Czech
@@ -299,6 +303,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus+bt-2021-03-09.zip	eng
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus-2021-02-19.zip	eng-fin	en-fi	0.629	38.7	English	Finnish
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus-2020-07-26.zip	eng-fiu	en-fiu	0.578	33.8	English	Finno-Ugrian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus1m+bt-2021-04-10.zip	eng-fiu	en-fiu	0.551	31.1	English	Finno-Ugrian languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus1m+bt-tuned4eng2sme-2021-04-10.zip	eng-fiu	en-fiu	0.122	0.4	English	Finno-Ugrian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus2m-2020-08-01.zip	eng-fiu	en-fiu	0.590	35.4	English	Finno-Ugrian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-19.zip	eng-fra	en-fr	0.669	50.6	English	French
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-22.zip	eng-fra	en-fr	0.671	50.8	English	French

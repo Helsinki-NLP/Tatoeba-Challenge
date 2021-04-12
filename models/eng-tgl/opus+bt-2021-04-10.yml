@@ -25,8 +25,8 @@ training-data:
 validation-data:
    eng-tgl: Tatoeba-dev, 1
    eng-tgl_Latn: Tatoeba-dev, 4752
-   total size of shuffled dev data: 4753
-   devset = top 4753  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 4753
+   devset-selected: top 4753  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-tgl: 5000/35602
    tico19-test.eng-tgl: 2100/69112

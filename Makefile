@@ -382,7 +382,7 @@ upload-test: ${TESTDATADIR}-${VERSION}.done
 upload-dev: ${DEVDATADIR}-${VERSION}.done
 upload-train: ${patsubst %,%.done,${RELEASE_DATA}}
 # upload-train: ${patsubst %,${RELEASEDIR}/%.done,${TATOEBA_PAIRS3}}
-upload-mono: ${patsubst %,${RELEASEDIR}/%.done,${WIKI_LANGS3}}
+upload-mono: ${patsubst %,${RELEASEDIR}/%.done,${WIKI_LANGS3}} # ${RELEASEDIR}/wiki.langs.done
 upload-wikishuffled: ${patsubst wiki-shuffled/%,${RELEASEDIR}/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
 upload-wikidoc: ${patsubst wiki-doc/%,${RELEASEDIR}/wiki-doc-%.done,${wildcard wiki-doc/???}}
 
@@ -1331,6 +1331,13 @@ ${DEVTESTDIR}.done: ${DEVTESTDIR} ${DEVTESTDIR}/README.md
 	a-put ${APUT_FLAGS} -b ${DEVTEST_CONTAINER} $<
 	touch $@
 
+## upload wiki lang-label list
+${RELEASEDIR}/wiki.langs.done: 
+	if [ ! -e ${RELEASEDIR}/wiki.langs.txt ]; then \
+	  ${MAKE} ${RELEASEDIR}/wiki.langs.txt; \
+	fi
+	cd ${RELEASEDIR} && swift upload ${RELEASE_CONTAINER} wiki.langs.txt
+	touch $@
 
 
 ## size of each test set

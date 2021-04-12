@@ -27,8 +27,8 @@ training-data:
 validation-data:
    eng-swa: Tatoeba-dev, 656
    eng-swc: Tatoeba-dev, 344
-   total size of shuffled dev data: 996
-   devset = top 996  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 996
+   devset-selected: top 996  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-swa: 772/3762
    tico19-test.eng-swa: 2100/58862

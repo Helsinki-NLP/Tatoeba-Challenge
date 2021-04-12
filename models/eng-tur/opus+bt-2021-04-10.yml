@@ -20,8 +20,8 @@ training-data:
    eng-tur: Tatoeba-train (46256176) wiki.aa.tur-eng (982691) wiki.ab.tur-eng (982731) wiki.ac.tur-eng (982909) wiki.ad.tur-eng (967196) wikibooks.aa.tur-eng (17035) wikinews.aa.tur-eng (11702) wikiquote.aa.tur-eng (100628) wikisource.aa.tur-eng (277803) 
 validation-data:
    eng-tur: Tatoeba-dev, 656843
-   total size of shuffled dev data: 656832
-   devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 656832
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
    newsdev2016-entr.eng-tur: 1001/16127
    newstest2016-entr.eng-tur: 3000/50782

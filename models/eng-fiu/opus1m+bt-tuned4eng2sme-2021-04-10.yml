@@ -1,0 +1,33 @@
+release: eng-fiu/opus1m+bt-tuned4eng2sme-2021-04-10.zip
+release-date: 2021-04-10
+dataset-name: opus1m+bt-tuned4eng2sme
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt-tuned4eng2sme.spm32k-spm32k.vocab.yml
+   target: opus1m+bt-tuned4eng2sme.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - sme
+use-target-labels:
+   - ">>sme<<"
+training-data:
+   eng-sme: Tatoeba-train (50437) wiki.aa.sme-eng (19591) wikibooks.aa.sme-eng (1) 
+validation-data:
+   devset-selected: top 0  lines of Tatoeba-dev.eng-sma.src.shuffled!
+test-data:
+   Tatoeba-test.eng-sme: 62/252
+   Tatoeba-test.eng-multi: 10000/59724
+BLEU-scores:
+   Tatoeba-test.eng-sme: 15.2
+   Tatoeba-test.eng-multi: 0.4
+chr-F-scores:
+   Tatoeba-test.eng-sme: 0.244
+   Tatoeba-test.eng-multi: 0.122

@@ -20,8 +20,8 @@ training-data:
    eng-mkd: Tatoeba-train (3662065) wiki.aa.mkd-eng (977842) wiki.ab.mkd-eng (257729) wikibooks.aa.mkd-eng (16971) wikisource.aa.mkd-eng (20138) 
 validation-data:
    eng-mkd: Tatoeba-dev, 70284
-   total size of shuffled dev data: 70284
-   devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 70284
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-mkd: 10000/61969
 BLEU-scores:

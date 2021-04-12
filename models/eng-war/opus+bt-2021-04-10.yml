@@ -20,8 +20,8 @@ training-data:
    eng-war: Tatoeba-train (267579) wiki.aa.war-eng (962869) wiki.ab.war-eng (962982) wiki.ac.war-eng (121870) 
 validation-data:
    eng-war: Tatoeba-dev, 1000
-   total size of shuffled dev data: 1000
-   devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-war: 1512/11027
 BLEU-scores:

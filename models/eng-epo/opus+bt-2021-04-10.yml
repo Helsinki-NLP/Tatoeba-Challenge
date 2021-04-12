@@ -20,8 +20,8 @@ training-data:
    eng-epo: Tatoeba-train (402180) wiki.aa.epo-eng (909326) wiki.ab.epo-eng (909196) wiki.ac.epo-eng (278623) wikibooks.aa.epo-eng (15852) wikinews.aa.epo-eng (7993) wikiquote.aa.epo-eng (7119) wikisource.aa.epo-eng (233909) 
 validation-data:
    eng-epo: Tatoeba-dev, 235834
-   total size of shuffled dev data: 235834
-   devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 235834
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-epo: 10000/76439
 BLEU-scores:

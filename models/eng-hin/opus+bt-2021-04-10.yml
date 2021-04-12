@@ -20,8 +20,8 @@ training-data:
    eng-hin: Tatoeba-train (1483083) wiki.aa.hin-eng (907641) wiki.ab.hin-eng (326437) wikibooks.aa.hin-eng (106062) wikiquote.aa.hin-eng (9581) wikisource.aa.hin-eng (973520) wikisource.ab.hin-eng (387860) 
 validation-data:
    eng-hin: Tatoeba-dev, 5821
-   total size of shuffled dev data: 5821
-   devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 5821
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
    newsdev2014.eng-hin: 520/9538
    newstest2014-hien.eng-hin: 2507/60878

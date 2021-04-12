@@ -20,8 +20,8 @@ training-data:
    eng-cat: Tatoeba-train (936576) wiki.aa (954729) wiki.ab (954660) wiki.ac (954148) wiki.ad (954534) wiki.ae (954455) wiki.af (954649) wiki.ag (954669) wiki.ah (538851) wikibooks.aa (39436) wikinews.aa (8897) wikiquote.aa (52251) wikisource.aa (158807) 
 validation-data:
    cat-eng: Tatoeba-dev, 1000
-   total size of shuffled dev data: 1000
-   devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-cat: 1631/12344
 BLEU-scores:

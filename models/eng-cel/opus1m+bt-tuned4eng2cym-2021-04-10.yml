@@ -1,0 +1,35 @@
+release: eng-cel/opus1m+bt-tuned4eng2cym-2021-04-10.zip
+release-date: 2021-04-10
+dataset-name: opus1m+bt-tuned4eng2cym
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt-tuned4eng2cym.spm32k-spm32k.vocab.yml
+   target: opus1m+bt-tuned4eng2cym.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - cym
+use-target-labels:
+   - ">>cym<<"
+training-data:
+   eng-cym: Tatoeba-train (1000000) wiki.aa (523875) wikibooks.aa (127) wikiquote.aa (1709) wikisource.aa (18401) 
+validation-data:
+   eng-glv: Tatoeba-dev, 1000
+   total-size-shuffled: 916
+   devset-selected: top 916  lines of Tatoeba-dev.eng-glv.src.shuffled!
+test-data:
+   Tatoeba-test.eng-cym: 818/6020
+   Tatoeba-test.eng-multi: 7245/45370
+BLEU-scores:
+   Tatoeba-test.eng-cym: 31.8
+   Tatoeba-test.eng-multi: 5.0
+chr-F-scores:
+   Tatoeba-test.eng-cym: 0.555
+   Tatoeba-test.eng-multi: 0.174

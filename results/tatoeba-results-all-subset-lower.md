@@ -134,6 +134,7 @@ to be useful for anything.
 | [eng-trk/opus](../models/eng-trk) | tatoeba | 0.271 | 3.8 |
 | [eng-trk/opus2m](../models/eng-trk) | tatoeba | 0.270 | 4.3 |
 | | lang = eng-gla | | | | |
+| [eng-cel/opus1m+bt-tuned4eng2gla](../models/eng-cel) | tatoeba | 0.396 | 16.3 |
 | [eng-cel/opus2m+bt](../models/eng-cel) | tatoeba | 0.396 | 15.3 |
 | [eng-cel/opus1m+bt](../models/eng-cel) | tatoeba | 0.395 | 16.1 |
 | [eng-ine/opus2m](../models/eng-ine) | tatoeba | 0.361 | 11.6 |

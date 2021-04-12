@@ -273,6 +273,10 @@ For multilingual models, it is a mix of all language pairs
 | [eng-cel/opus](../models/eng-cel) | 0.329 | 16.5 |
 | [eng-cel/opus](../models/eng-cel) | 0.324 | 15.8 |
 | [eng-cel/opus1m+bt](../models/eng-cel) | 0.380 | 20.0 |
+| [eng-cel/opus1m+bt-tuned4eng2bre](../models/eng-cel) | 0.130 | 1.3 |
+| [eng-cel/opus1m+bt-tuned4eng2cym](../models/eng-cel) | 0.174 | 5.0 |
+| [eng-cel/opus1m+bt-tuned4eng2gla](../models/eng-cel) | 0.356 | 18.1 |
+| [eng-cel/opus1m+bt-tuned4eng2gle](../models/eng-cel) | 0.247 | 10.4 |
 | [eng-cel/opus2m](../models/eng-cel) | 0.342 | 18.0 |
 | [eng-cel/opus2m+bt](../models/eng-cel) | 0.381 | 14.3 |
 | [eng-ces/opus](../models/eng-ces) | 0.663 | 47.8 |
@@ -302,6 +306,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-fin/opus+bt](../models/eng-fin) | 0.633 | 38.7 |
 | [eng-fiu/opus](../models/eng-fiu) | 0.578 | 33.8 |
 | [eng-fiu/opus1m+bt](../models/eng-fiu) | 0.551 | 31.1 |
+| [eng-fiu/opus1m+bt-tuned4eng2sme](../models/eng-fiu) | 0.122 | 0.4 |
 | [eng-fiu/opus2m](../models/eng-fiu) | 0.590 | 35.4 |
 | [eng+fra-bre/opus+bt](../models/eng+fra-bre) | 0.348 | 13.5 |
 | [eng-fra/opus](../models/eng-fra) | 0.671 | 50.8 |

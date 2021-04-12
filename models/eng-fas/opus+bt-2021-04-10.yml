@@ -29,8 +29,8 @@ training-data:
 validation-data:
    eng-fas: Tatoeba-dev, 1000
    eng-pes: Tatoeba-dev, 1000
-   total size of shuffled dev data: 1996
-   devset = top 1996  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 1996
+   devset-selected: top 1996  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-fas: 7536/62270
    tico19-test.eng-fas: 2100/62758

@@ -22,8 +22,8 @@ training-data:
    eng-vie: Tatoeba-train (4574505) 
 validation-data:
    eng-vie: Tatoeba-dev, 2824
-   total size of shuffled dev data: 2824
-   devset = top 2824  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 2824
+   devset-selected: top 2824  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-vie: 2500/24427
 BLEU-scores:

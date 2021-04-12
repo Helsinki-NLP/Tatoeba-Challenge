@@ -1,0 +1,35 @@
+release: eng-cel/opus1m+bt-tuned4eng2gla-2021-04-10.zip
+release-date: 2021-04-10
+dataset-name: opus1m+bt-tuned4eng2gla
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt-tuned4eng2gla.spm32k-spm32k.vocab.yml
+   target: opus1m+bt-tuned4eng2gla.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - gla
+use-target-labels:
+   - ">>gla<<"
+training-data:
+   eng-gla: Tatoeba-train (46024) wiki.aa.gla-eng (73323) 
+validation-data:
+   eng-glv: Tatoeba-dev, 1000
+   total-size-shuffled: 916
+   devset-selected: top 916  lines of Tatoeba-dev.eng-glv.src.shuffled!
+test-data:
+   Tatoeba-test.eng-gla: 917/7072
+   Tatoeba-test.eng-multi: 7245/45370
+BLEU-scores:
+   Tatoeba-test.eng-gla: 16.3
+   Tatoeba-test.eng-multi: 18.1
+chr-F-scores:
+   Tatoeba-test.eng-gla: 0.396
+   Tatoeba-test.eng-multi: 0.356

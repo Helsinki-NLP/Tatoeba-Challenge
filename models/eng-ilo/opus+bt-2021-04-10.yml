@@ -20,8 +20,8 @@ training-data:
    eng-ilo: Tatoeba-train (902043) wiki.aa.ilo-eng (87459) 
 validation-data:
    eng-ilo: Tatoeba-dev, 1000
-   total size of shuffled dev data: 1000
-   devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-ilo: 1093/7241
 BLEU-scores:

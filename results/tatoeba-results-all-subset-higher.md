@@ -211,6 +211,7 @@ to be useful for anything.
 | | lang = eng-cym | | | | |
 | [eng-cel/opus2m+bt](../models/eng-cel) | tatoeba | 0.591 | 35.7 |
 | [eng-cym/opus+bt](../models/eng-cym) | tatoeba | 0.580 | 35.1 |
+| [eng-cel/opus1m+bt-tuned4eng2cym](../models/eng-cel) | tatoeba | 0.555 | 31.8 |
 | [eng-cel/opus2m](../models/eng-cel) | tatoeba | 0.549 | 31.0 |
 | [cel-cel/opus](../models/cel-cel) | tatoeba | 0.539 | 30.4 |
 | [eng-cel/opus](../models/eng-cel) | tatoeba | 0.539 | 29.4 |
@@ -248,6 +249,7 @@ to be useful for anything.
 | [eng-cel/opus2m+bt](../models/eng-cel) | tatoeba | 0.609 | 40.4 |
 | [eng-gle/opus](../models/eng-gle) | tatoeba | 0.593 | 37.5 |
 | [eng-cel/opus2m](../models/eng-cel) | tatoeba | 0.582 | 35.9 |
+| [eng-cel/opus1m+bt-tuned4eng2gle](../models/eng-cel) | tatoeba | 0.580 | 35.3 |
 | [eng-cel/opus](../models/eng-cel) | tatoeba | 0.578 | 35.0 |
 | [cel-cel/opus](../models/cel-cel) | tatoeba | 0.567 | 34.2 |
 | [eng-cel/opus1m+bt](../models/eng-cel) | tatoeba | 0.567 | 34.3 |

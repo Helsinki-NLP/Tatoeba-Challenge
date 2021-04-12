@@ -169,6 +169,7 @@ to be useful for anything.
 | [eng+fra-bre/opus+bt](../models/eng+fra-bre) | tatoeba | 0.402 | 17.2 |
 | [eng-cel/opus1m+bt](../models/eng-cel) | tatoeba | 0.387 | 15.6 |
 | [eng-bre/opus+bt](../models/eng-bre) | tatoeba | 0.386 | 15.5 |
+| [eng-cel/opus1m+bt-tuned4eng2bre](../models/eng-cel) | tatoeba | 0.382 | 15.9 |
 | [eng-cel/opus2m+bt](../models/eng-cel) | tatoeba | 0.381 | 13.7 |
 | [eng-cel/opus2m](../models/eng-cel) | tatoeba | 0.338 | 11.5 |
 | [eng-cel/opus](../models/eng-cel) | tatoeba | 0.334 | 10.4 |

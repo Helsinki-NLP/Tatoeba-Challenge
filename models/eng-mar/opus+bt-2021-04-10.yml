@@ -20,8 +20,8 @@ training-data:
    eng-mar: Tatoeba-train (369400) wiki.aa.mar-eng (600286) wikibooks.aa.mar-eng (9234) wikiquote.aa.mar-eng (1888) wikisource.aa.mar-eng (595262) 
 validation-data:
    eng-mar: Tatoeba-dev, 42834
-   total size of shuffled dev data: 42834
-   devset = top 5000  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 42834
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-mar: 10000/58672
    tico19-test.eng-mar: 2100/50881

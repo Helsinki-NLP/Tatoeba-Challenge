@@ -20,8 +20,8 @@ training-data:
    eng-amh: Tatoeba-train (991645) wiki.aa (2013) 
 validation-data:
    amh-eng: Tatoeba-dev, 994
-   total size of shuffled dev data: 990
-   devset = top 990  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 990
+   devset-selected: top 990  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-amh: 190/585
    tico19-test.eng-amh: 2100/44943

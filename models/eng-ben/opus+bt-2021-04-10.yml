@@ -28,8 +28,8 @@ training-data:
    eng-ben_Gujr: Tatoeba-train (6) 
 validation-data:
    ben-eng: Tatoeba-dev, 2637
-   total size of shuffled dev data: 2637
-   devset = top 2637  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 2637
+   devset-selected: top 2637  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-ben: 2500/11654
    tico19-test.eng-ben: 2100/51751

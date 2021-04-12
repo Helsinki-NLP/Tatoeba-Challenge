@@ -20,8 +20,8 @@ training-data:
    eng-glg: Tatoeba-train (557887) wiki.aa.glg-eng (970849) wiki.ab.glg-eng (945712) wikibooks.aa.glg-eng (11090) wikiquote.aa.glg-eng (3891) wikisource.aa.glg-eng (21806) 
 validation-data:
    eng-glg: Tatoeba-dev, 1000
-   total size of shuffled dev data: 1000
-   devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-glg: 1008/7830
 BLEU-scores:

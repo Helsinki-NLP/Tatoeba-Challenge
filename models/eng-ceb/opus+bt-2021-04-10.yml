@@ -20,8 +20,8 @@ training-data:
    eng-ceb: Tatoeba-train (1013362) 
 validation-data:
    ceb-eng: Tatoeba-dev, 1000
-   total size of shuffled dev data: 1000
-   devset = top 1000  lines of Tatoeba-dev.src.shuffled!
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
 test-data:
    Tatoeba-test.eng-ceb: 378/2088
 BLEU-scores:
