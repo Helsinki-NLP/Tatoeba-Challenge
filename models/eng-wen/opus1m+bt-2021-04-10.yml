@@ -1,0 +1,42 @@
+release: eng-wen/opus1m+bt-2021-04-10.zip
+release-date: 2021-04-10
+dataset-name: opus1m+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt.spm32k-spm32k.vocab.yml
+   target: opus1m+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - dsb
+   - hsb
+use-target-labels:
+   - ">>dsb<<"
+   - ">>hsb<<"
+training-data:
+   eng-dsb: wiki.aa (16507) 
+   eng-hsb: Tatoeba-train (22057) wiki.aa.hsb-eng (66083) 
+validation-data:
+   dsb-eng: Tatoeba-dev, 173
+   eng-hsb: Tatoeba-dev, 1000
+   total-size-shuffled: 1022
+   devset-selected: top 1022  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.eng-dsb: 34/184
+   Tatoeba-test.eng-hsb: 40/207
+   Tatoeba-test.eng-multi: 74/391
+BLEU-scores:
+   Tatoeba-test.eng-dsb: 10.5
+   Tatoeba-test.eng-hsb: 11.1
+   Tatoeba-test.eng-multi: 10.8
+chr-F-scores:
+   Tatoeba-test.eng-dsb: 0.296
+   Tatoeba-test.eng-hsb: 0.345
+   Tatoeba-test.eng-multi: 0.322

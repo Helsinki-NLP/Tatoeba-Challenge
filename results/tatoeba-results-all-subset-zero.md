@@ -79,6 +79,7 @@ to be useful for anything.
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.233 | 1.3 |
 | [eng-gem/opus](../models/eng-gem) | tatoeba | 0.218 | 1.4 |
 | [gem-gem/opus](../models/gem-gem) | tatoeba | 0.204 | 1.4 |
+| [eng-gmw/opus1m+bt](../models/eng-gmw) | tatoeba | 0.187 | 0.6 |
 | [eng-gem/opus2m](../models/eng-gem) | tatoeba | 0.182 | 1.0 |
 | [eng-ine/opus](../models/eng-ine) | tatoeba | 0.141 | 0.6 |
 | [eng-ine/opus2m](../models/eng-ine) | tatoeba | 0.137 | 0.7 |
@@ -93,6 +94,7 @@ to be useful for anything.
 | [eng-aav/opus](../models/eng-aav) | tatoeba | 0.033 | 0.1 |
 | [aav-aav/opus](../models/aav-aav) | tatoeba | 0.010 | 0.1 |
 | | lang = eng-hrx | | | | |
+| [eng-gmw/opus1m+bt](../models/eng-gmw) | tatoeba | 0.285 | 5.3 |
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.235 | 3.5 |
 | [gmw-gmw/opus](../models/gmw-gmw) | tatoeba | 0.200 | 3.1 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.134 | 2.3 |
@@ -101,13 +103,16 @@ to be useful for anything.
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.097 | 0.4 |
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.094 | 0.5 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.092 | 0.5 |
+| [eng-mkh/opus1m+bt](../models/eng-mkh) | tatoeba | 0.088 | 0.6 |
 | [eng-mkh/opus](../models/eng-mkh) | tatoeba | 0.054 | 0.4 |
 | [eng-aav/opus](../models/eng-aav) | tatoeba | 0.043 | 0.4 |
 | [aav-aav/opus](../models/aav-aav) | tatoeba | 0.013 | 0.1 |
 | | lang = eng-nst | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.046 | 0.2 |
+| [eng-sit/opus1m+bt](../models/eng-sit) | tatoeba | 0.033 | 0.1 |
 | | lang = eng-orv | | | | |
 | [gmw-zle/opus1m](../models/gmw-zle) | tatoeba | 0.173 | 0.7 |
+| [eng-zle/opus1m+bt](../models/eng-zle) | tatoeba | 0.151 | 0.7 |
 | [eng-zle/opus](../models/eng-zle) | tatoeba | 0.140 | 0.4 |
 | [zle-zle/opus](../models/zle-zle) | tatoeba | 0.138 | 0.3 |
 | [eng-zle/opus2m](../models/eng-zle) | tatoeba | 0.130 | 0.6 |
@@ -122,6 +127,7 @@ to be useful for anything.
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.007 | 0.2 |
 | | lang = eng-ota | | | | |
 | [tut-tut/opus](../models/tut-tut) | tatoeba | 0.114 | 1.3 |
+| [eng-trk/opus1m+bt](../models/eng-trk) | tatoeba | 0.073 | 0.6 |
 | [eng-trk/opus2m](../models/eng-trk) | tatoeba | 0.065 | 0.5 |
 | [eng-trk/opus](../models/eng-trk) | tatoeba | 0.064 | 0.4 |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.055 | 0.2 |
@@ -130,9 +136,14 @@ to be useful for anything.
 | [eng-tut/opus](../models/eng-tut) | tatoeba | 0.043 | 0.3 |
 | [eng-tut/opus2m](../models/eng-tut) | tatoeba | 0.035 | 0.2 |
 | [trk-trk/opus](../models/trk-trk) | tatoeba | 0.024 | 0.0 |
+| | lang = eng-ota_Arab | | | | |
+| [eng-trk/opus1m+bt](../models/eng-trk) | tatoeba | 0.009 | 0.4 |
+| | lang = eng-ota_Latn | | | | |
+| [eng-trk/opus1m+bt](../models/eng-trk) | tatoeba | 0.135 | 1.0 |
 | | lang = eng-prg | | | | |
 | [eng-bat/opus2m](../models/eng-bat) | tatoeba | 0.130 | 0.5 |
 | [eng-bat/opus](../models/eng-bat) | tatoeba | 0.130 | 0.5 |
+| [eng-bat/opus1m+bt](../models/eng-bat) | tatoeba | 0.128 | 0.4 |
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.118 | 0.3 |
 | [eng-ine/opus](../models/eng-ine) | tatoeba | 0.107 | 0.2 |
 | [eng-ine/opus2m](../models/eng-ine) | tatoeba | 0.100 | 0.2 |

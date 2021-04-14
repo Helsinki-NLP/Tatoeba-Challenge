@@ -1,0 +1,71 @@
+release: eng-bat/opus1m+bt-2021-04-10.zip
+release-date: 2021-04-10
+dataset-name: opus1m+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt.spm32k-spm32k.vocab.yml
+   target: opus1m+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - lav
+   - lit
+   - ltg
+   - prg
+   - sgs
+use-target-labels:
+   - ">>lav<<"
+   - ">>lit<<"
+   - ">>ltg<<"
+   - ">>prg_Latn<<"
+   - ">>sgs<<"
+training-data:
+   eng-lav: Tatoeba-train (1000000) wiki.aa.lav-eng (976697) wiki.ab.lav-eng (268289) wikibooks.aa.lav-eng (715) 
+   eng-lit: Tatoeba-train (1000000) wiki.aa.lit-eng (972259) wiki.ab.lit-eng (971851) wiki.ac.lit-eng (68088) wikibooks.aa.lit-eng (4563) wikiquote.aa.lit-eng (32439) wikisource.aa.lit-eng (53672) 
+   eng-ltg: Tatoeba-train (471) 
+validation-data:
+   eng-lav: Tatoeba-dev, 1000
+   eng-lit: Tatoeba-dev, 5643
+   eng-sgs: Tatoeba-dev, 3
+   total-size-shuffled: 1986
+   devset-selected: top 1986  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   newsdev2017-enlv.eng-lav: 2003/41503
+   newsdev2019-enlt.eng-lit: 2000/40116
+   newstest2017-enlv.eng-lav: 2001/39434
+   newstest2019-enlt.eng-lit: 998/20091
+   Tatoeba-test.eng-lav: 1631/9927
+   Tatoeba-test.eng-lit: 2500/14791
+   Tatoeba-test.eng-ltg: 1/4
+   Tatoeba-test.eng-prg: 213/1527
+   Tatoeba-test.eng-sgs: 52/160
+   Tatoeba-test.eng-multi: 4396/26417
+BLEU-scores:
+   newsdev2017-enlv.eng-lav: 22.7
+   newsdev2019-enlt.eng-lit: 19.4
+   newstest2017-enlv.eng-lav: 17.1
+   newstest2019-enlt.eng-lit: 12.9
+   Tatoeba-test.eng-lav: 40.1
+   Tatoeba-test.eng-lit: 33.8
+   Tatoeba-test.eng-ltg: 10.7
+   Tatoeba-test.eng-prg: 0.4
+   Tatoeba-test.eng-sgs: 4.2
+   Tatoeba-test.eng-multi: 34.8
+chr-F-scores:
+   newsdev2017-enlv.eng-lav: 0.534
+   newsdev2019-enlt.eng-lit: 0.518
+   newstest2017-enlv.eng-lav: 0.493
+   newstest2019-enlt.eng-lit: 0.454
+   Tatoeba-test.eng-lav: 0.636
+   Tatoeba-test.eng-lit: 0.625
+   Tatoeba-test.eng-ltg: 0.392
+   Tatoeba-test.eng-prg: 0.128
+   Tatoeba-test.eng-sgs: 0.207
+   Tatoeba-test.eng-multi: 0.600

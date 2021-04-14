@@ -48,6 +48,7 @@ to be useful for anything.
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.136 | 0.9 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.132 | 0.2 |
 | | lang = eng-cor | | | | |
+| [eng-cel/opus1m+bt](../models/eng-cel) | tatoeba | 0.163 | 3.9 |
 | [eng-cel/opus2m+bt](../models/eng-cel) | tatoeba | 0.163 | 3.3 |
 | [eng-cel/opus2m](../models/eng-cel) | tatoeba | 0.095 | 0.3 |
 | [eng-cel/opus](../models/eng-cel) | tatoeba | 0.094 | 0.2 |
@@ -77,7 +78,10 @@ to be useful for anything.
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.127 | 0.2 |
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.123 | 0.1 |
 | [art-art/opus](../models/art-art) | tatoeba | 0.120 | 0.1 |
+| [eng-art/opus1m+bt](../models/eng-art) | tatoeba | 0.117 | 0.2 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.117 | 0.1 |
+| | lang = eng-jbo_Latn | | | | |
+| [eng-art/opus1m+bt](../models/eng-art) | tatoeba | 0.117 | 0.2 |
 | | lang = epo-ina | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.331 | 9.9 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.311 | 9.3 |

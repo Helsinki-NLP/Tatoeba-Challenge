@@ -1,0 +1,41 @@
+release: eng-ben/opus+bt-2021-04-10.zip
+release-date: 2021-04-10
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - ben
+use-target-labels:
+   - ">>ben<<"
+   - ">>ben_Cyrl<<"
+   - ">>ben_Deva<<"
+   - ">>ben_Gujr<<"
+training-data:
+   eng-ben: Tatoeba-train (2660775) 
+   eng-ben_Cyrl: Tatoeba-train (41) 
+   eng-ben_Deva: Tatoeba-train (9) 
+   eng-ben_Gujr: Tatoeba-train (6) 
+validation-data:
+   ben-eng: Tatoeba-dev, 2637
+   total-size-shuffled: 2637
+   devset-selected: top 2637  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.eng-ben: 2500/11654
+   tico19-test.eng-ben: 2100/51751
+BLEU-scores:
+   Tatoeba-test.eng-ben: 17.3
+   tico19-test.eng-ben: 5.9
+chr-F-scores:
+   Tatoeba-test.eng-ben: 0.487
+   tico19-test.eng-ben: 0.334
