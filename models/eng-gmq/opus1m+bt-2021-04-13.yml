@@ -1,0 +1,78 @@
+release: eng-gmq/opus1m+bt-2021-04-13.zip
+release-date: 2021-04-13
+dataset-name: opus1m+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt.spm32k-spm32k.vocab.yml
+   target: opus1m+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - dan
+   - fao
+   - isl
+   - nno
+   - nob
+   - non
+   - swe
+use-target-labels:
+   - ">>dan<<"
+   - ">>fao<<"
+   - ">>isl<<"
+   - ">>nno<<"
+   - ">>nob<<"
+   - ">>non_Latn<<"
+   - ">>swe<<"
+training-data:
+   eng-dan: Tatoeba-train (1000000) wiki.aa (975255) wiki.ab (975237) wiki.ac (975310) wiki.ad (198494) wikibooks.aa (60313) wikiquote.aa (7756) wikisource.aa (400037) 
+   eng-fao: Tatoeba-train (2613) wiki.aa.fao-eng (103717) wikisource.aa.fao-eng (1298) 
+   eng-isl: Tatoeba-train (1000000) wiki.aa.isl-eng (535422) wikibooks.aa.isl-eng (25282) wikiquote.aa.isl-eng (1814) wikisource.aa.isl-eng (133318) 
+   eng-nno: Tatoeba-train (1000000) 
+   eng-nob: Tatoeba-train (1000000) 
+   eng-swe: Tatoeba-train (1000000) wiki.aa.swe-eng (956281) wiki.ab.swe-eng (956721) wiki.ac.swe-eng (956664) wiki.ad.swe-eng (956410) wiki.ae.swe-eng (956433) wiki.af.swe-eng (956542) wiki.ag.swe-eng (956651) wiki.ah.swe-eng (956455) wiki.ai.swe-eng (956022) wiki.aj.swe-eng (956151) wiki.ak.swe-eng (956322) wiki.al.swe-eng (956306) wiki.am.swe-eng (956434) wiki.an.swe-eng (956885) wiki.ao.swe-eng (956677) wiki.ap.swe-eng (181543) wikibooks.aa.swe-eng (29250) wikinews.aa.swe-eng (12462) wikiquote.aa.swe-eng (17810) wikisource.aa.swe-eng (956369) wikisource.ab.swe-eng (247367) 
+validation-data:
+   dan-eng: Tatoeba-dev, 19675
+   eng-fao: Tatoeba-dev, 1000
+   eng-isl: Tatoeba-dev, 6938
+   eng-nno: Tatoeba-dev, 505
+   eng-nob: Tatoeba-dev, 5189
+   eng-swe: Tatoeba-dev, 15411
+   total-size-shuffled: 5213
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.eng-dan: 10000/73191
+   Tatoeba-test.eng-fao: 294/1933
+   Tatoeba-test.eng-isl: 2500/18999
+   Tatoeba-test.eng-nno: 460/3428
+   Tatoeba-test.eng-nob: 4539/36110
+   Tatoeba-test.eng-non: 15/142
+   Tatoeba-test.eng-nor: 5000/39543
+   Tatoeba-test.eng-swe: 10000/65572
+   Tatoeba-test.eng-multi: 10000/71671
+BLEU-scores:
+   Tatoeba-test.eng-dan: 57.2
+   Tatoeba-test.eng-fao: 17.7
+   Tatoeba-test.eng-isl: 22.8
+   Tatoeba-test.eng-nno: 31.1
+   Tatoeba-test.eng-nob: 52.8
+   Tatoeba-test.eng-non: 0.7
+   Tatoeba-test.eng-nor: 51.0
+   Tatoeba-test.eng-swe: 56.9
+   Tatoeba-test.eng-multi: 52.9
+chr-F-scores:
+   Tatoeba-test.eng-dan: 0.720
+   Tatoeba-test.eng-fao: 0.398
+   Tatoeba-test.eng-isl: 0.499
+   Tatoeba-test.eng-nno: 0.551
+   Tatoeba-test.eng-nob: 0.689
+   Tatoeba-test.eng-non: 0.194
+   Tatoeba-test.eng-nor: 0.677
+   Tatoeba-test.eng-swe: 0.710
+   Tatoeba-test.eng-multi: 0.687

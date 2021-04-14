@@ -1,0 +1,54 @@
+release: eng-rus/opus+bt-2021-04-14.zip
+release-date: 2021-04-14
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - rus
+training-data:
+   eng-rus: Tatoeba-train (60191751) wiki.aa.rus-eng (973499) wiki.ab.rus-eng (973875) wiki.ac.rus-eng (973687) wiki.ad.rus-eng (973873) wiki.ae.rus-eng (973997) wiki.af.rus-eng (974090) wiki.ag.rus-eng (973915) wiki.ah.rus-eng (974075) wiki.ai.rus-eng (973986) wiki.aj.rus-eng (974191) wiki.ak.rus-eng (974118) wiki.al.rus-eng (973754) wiki.am.rus-eng (973725) wiki.an.rus-eng (973833) wiki.ao.rus-eng (973638) wiki.ap.rus-eng (974025) wiki.aq.rus-eng (974044) wiki.ar.rus-eng (974145) wiki.as.rus-eng (974154) wiki.at.rus-eng (973806) wiki.au.rus-eng (973892) wiki.av.rus-eng (973677) wiki.aw.rus-eng (974096) wiki.ax.rus-eng (51282) wikibooks.aa.rus-eng (65439) wikinews.aa.rus-eng (265562) wikiquote.aa.rus-eng (175818) wikisource.aa.rus-eng (948451) wikisource.ab.rus-eng (948782) wikisource.ac.rus-eng (948553) wikisource.ad.rus-eng (948733) wikisource.ae.rus-eng (948632) wikisource.af.rus-eng (948421) wikisource.ag.rus-eng (948387) wikisource.ah.rus-eng (948507) wikisource.ai.rus-eng (235249) 
+validation-data:
+   eng-rus: Tatoeba-dev, 491482
+   total-size-shuffled: 491470
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   newstest2012.eng-rus: 3003/64830
+   newstest2013.eng-rus: 3000/58560
+   newstest2015-enru.eng-rus: 2818/55915
+   newstest2016-enru.eng-rus: 2998/62018
+   newstest2017-enru.eng-rus: 3001/60255
+   newstest2018-enru.eng-rus: 3000/61920
+   newstest2019-enru.eng-rus: 1997/48153
+   Tatoeba-test.eng-rus: 10000/66872
+   tico19-test.eng-rus: 2100/55837
+BLEU-scores:
+   newstest2012.eng-rus: 31.2
+   newstest2013.eng-rus: 23.2
+   newstest2015-enru.eng-rus: 29.1
+   newstest2016-enru.eng-rus: 27.4
+   newstest2017-enru.eng-rus: 30.8
+   newstest2018-enru.eng-rus: 27.4
+   newstest2019-enru.eng-rus: 27.1
+   Tatoeba-test.eng-rus: 45.6
+   tico19-test.eng-rus: 27.5
+chr-F-scores:
+   newstest2012.eng-rus: 0.588
+   newstest2013.eng-rus: 0.518
+   newstest2015-enru.eng-rus: 0.581
+   newstest2016-enru.eng-rus: 0.565
+   newstest2017-enru.eng-rus: 0.592
+   newstest2018-enru.eng-rus: 0.572
+   newstest2019-enru.eng-rus: 0.540
+   Tatoeba-test.eng-rus: 0.652
+   tico19-test.eng-rus: 0.556

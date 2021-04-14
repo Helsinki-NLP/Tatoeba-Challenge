@@ -28,3 +28,34 @@
 | newstest2019-encs.eng-ces 	| 23.8 	| 0.517 	| 1997 	| 43373 	| 0.992 |
 | Tatoeba-test.eng-ces 	| 47.8 	| 0.663 	| 10000 	| 65288 	| 0.988 |
 
+
+# opus+bt-2021-04-13.zip
+
+* dataset: opus+bt
+* model: transformer-align
+* source language(s): eng
+* target language(s): ces
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus+bt-2021-04-13.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ces/opus+bt-2021-04-13.zip)
+* test set translations: [opus+bt-2021-04-13.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ces/opus+bt-2021-04-13.test.txt)
+* test set scores: [opus+bt-2021-04-13.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ces/opus+bt-2021-04-13.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newssyscomb2009.eng-ces 	| 23.8 	| 0.515 	| 502 	| 10032 	| 0.985 |
+| news-test2008.eng-ces 	| 21.2 	| 0.492 	| 2051 	| 42484 	| 0.985 |
+| newstest2009.eng-ces 	| 22.6 	| 0.510 	| 2525 	| 55533 	| 0.988 |
+| newstest2010.eng-ces 	| 22.2 	| 0.511 	| 2489 	| 52958 	| 0.989 |
+| newstest2011.eng-ces 	| 23.5 	| 0.513 	| 3003 	| 65653 	| 0.961 |
+| newstest2012.eng-ces 	| 20.8 	| 0.487 	| 3003 	| 65456 	| 0.944 |
+| newstest2013.eng-ces 	| 25.2 	| 0.521 	| 3000 	| 57250 	| 0.962 |
+| newstest2015-encs.eng-ces 	| 25.4 	| 0.535 	| 2656 	| 45931 	| 1.000 |
+| newstest2016-encs.eng-ces 	| 27.8 	| 0.551 	| 2999 	| 57013 	| 0.997 |
+| newstest2017-encs.eng-ces 	| 23.4 	| 0.512 	| 3005 	| 54461 	| 0.981 |
+| newstest2018-encs.eng-ces 	| 23.4 	| 0.512 	| 2983 	| 54772 	| 1.000 |
+| newstest2019-encs.eng-ces 	| 24.6 	| 0.522 	| 1997 	| 43373 	| 0.990 |
+| Tatoeba-test.eng-ces 	| 47.6 	| 0.661 	| 10000 	| 65288 	| 0.989 |
+

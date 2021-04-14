@@ -1,0 +1,36 @@
+release: eng-ita/opus+bt-2021-04-14.zip
+release-date: 2021-04-14
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - ita
+training-data:
+   eng-ita: Tatoeba-train (77677094) wiki.aa.ita-eng (963938) wiki.ab.ita-eng (964009) wiki.ac.ita-eng (963763) wiki.ad.ita-eng (963847) wiki.ae.ita-eng (963958) wiki.af.ita-eng (963876) wiki.ag.ita-eng (964250) wiki.ah.ita-eng (963629) wiki.ai.ita-eng (963852) wiki.aj.ita-eng (963923) wiki.ak.ita-eng (963829) wiki.al.ita-eng (964273) wiki.am.ita-eng (964212) wiki.an.ita-eng (963810) wiki.ao.ita-eng (963653) wiki.ap.ita-eng (963764) wiki.aq.ita-eng (963947) wiki.ar.ita-eng (805544) wikibooks.aa.ita-eng (136077) wikinews.aa.ita-eng (78931) wikiquote.aa.ita-eng (606161) wikisource.aa.ita-eng (956602) wikisource.ab.ita-eng (939738) 
+validation-data:
+   eng-ita: Tatoeba-dev, 470055
+   total-size-shuffled: 470051
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   newssyscomb2009.eng-ita: 502/11551
+   newstest2009.eng-ita: 2525/63474
+   Tatoeba-test.eng-ita: 10000/65500
+BLEU-scores:
+   newssyscomb2009.eng-ita: 31.3
+   newstest2009.eng-ita: 31.7
+   Tatoeba-test.eng-ita: 48.3
+chr-F-scores:
+   newssyscomb2009.eng-ita: 0.608
+   newstest2009.eng-ita: 0.605
+   Tatoeba-test.eng-ita: 0.696

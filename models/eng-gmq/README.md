@@ -22,6 +22,7 @@
 | Tatoeba-test.eng-non.eng.non 	| 0.7 	| 0.193 |
 | Tatoeba-test.eng-swe.eng.swe 	| 57.4 	| 0.713 |
 
+
 # opus-2020-07-06.zip
 
 * dataset: opus
@@ -46,6 +47,7 @@
 | Tatoeba-test.eng-non.eng.non 	| 1.9 	| 0.189 |
 | Tatoeba-test.eng-nor.eng.nor 	| 11.9 	| 0.388 |
 | Tatoeba-test.eng-swe.eng.swe 	| 57.4 	| 0.714 |
+
 
 # opus-2020-07-26.zip
 
@@ -72,6 +74,7 @@
 | Tatoeba-test.eng-nor.eng.nor 	| 49.6 	| 0.671 |
 | Tatoeba-test.eng-swe.eng.swe 	| 56.9 	| 0.711 |
 
+
 # opus2m-2020-08-01.zip
 
 * dataset: opus2m
@@ -96,4 +99,33 @@
 | Tatoeba-test.eng-non.eng.non 	| 0.7 	| 0.196 |
 | Tatoeba-test.eng-nor.eng.nor 	| 50.3 	| 0.678 |
 | Tatoeba-test.eng-swe.eng.swe 	| 57.8 	| 0.717 |
+
+
+# opus1m+bt-2021-04-13.zip
+
+* dataset: opus1m+bt
+* model: transformer-align
+* source language(s): eng
+* target language(s): dan fao isl nno nob non swe
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>dan<< >>fao<< >>isl<< >>jut<< >>nno<< >>nob<< >>non<< >>non_Latn<< >>nrn<< >>ovd<< >>qer<< >>rmg<< >>swe<<
+* download: [opus1m+bt-2021-04-13.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmq/opus1m+bt-2021-04-13.zip)
+* test set translations: [opus1m+bt-2021-04-13.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmq/opus1m+bt-2021-04-13.test.txt)
+* test set scores: [opus1m+bt-2021-04-13.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmq/opus1m+bt-2021-04-13.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-dan 	| 57.2 	| 0.720 	| 10000 	| 73191 	| 0.980 |
+| Tatoeba-test.eng-fao 	| 17.7 	| 0.398 	| 294 	| 1933 	| 0.957 |
+| Tatoeba-test.eng-isl 	| 22.8 	| 0.499 	| 2500 	| 18999 	| 0.935 |
+| Tatoeba-test.eng-multi 	| 52.9 	| 0.687 	| 10000 	| 71671 	| 0.967 |
+| Tatoeba-test.eng-nno 	| 31.1 	| 0.551 	| 460 	| 3428 	| 0.989 |
+| Tatoeba-test.eng-nob 	| 52.8 	| 0.689 	| 4539 	| 36110 	| 0.963 |
+| Tatoeba-test.eng-non 	| 0.7 	| 0.194 	| 15 	| 142 	| 0.986 |
+| Tatoeba-test.eng-nor 	| 51.0 	| 0.677 	| 5000 	| 39543 	| 0.966 |
+| Tatoeba-test.eng-swe 	| 56.9 	| 0.710 	| 10000 	| 65572 	| 0.966 |
 

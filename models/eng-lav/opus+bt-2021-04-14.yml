@@ -1,0 +1,44 @@
+release: eng-lav/opus+bt-2021-04-14.zip
+release-date: 2021-04-14
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - lav
+   - ltg
+use-target-labels:
+   - ">>lav<<"
+   - ">>ltg<<"
+training-data:
+   eng-lav: Tatoeba-train (12064846) wiki.aa.lav-eng (976697) wiki.ab.lav-eng (268289) wikibooks.aa.lav-eng (715) 
+   eng-ltg: Tatoeba-train (471) 
+validation-data:
+   eng-lav: Tatoeba-dev, 1000
+   total-size-shuffled: 983
+   devset-selected: top 983  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   newsdev2017-enlv.eng-lav: 2003/41503
+   newstest2017-enlv.eng-lav: 2001/39434
+   Tatoeba-test.eng-ltg: 1/4
+   Tatoeba-test.eng-lav: 1631/9932
+BLEU-scores:
+   newsdev2017-enlv.eng-lav: 27.9
+   newstest2017-enlv.eng-lav: 21.1
+   Tatoeba-test.eng-ltg: 10.7
+   Tatoeba-test.eng-lav: 46.8
+chr-F-scores:
+   newsdev2017-enlv.eng-lav: 0.578
+   newstest2017-enlv.eng-lav: 0.531
+   Tatoeba-test.eng-ltg: 0.392
+   Tatoeba-test.eng-lav: 0.683

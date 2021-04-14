@@ -1,0 +1,30 @@
+release: eng-fry/opus+bt-2021-04-13.zip
+release-date: 2021-04-13
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm12k-spm32k.vocab.yml
+   target: opus+bt.spm12k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm12k,spm32k)
+subwords:
+   source: spm12k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - fry
+training-data:
+   eng-fry: Tatoeba-train (125195) wiki.aa.fry-eng (533404) wikibooks.aa.fry-eng (496) 
+validation-data:
+   eng-fry: Tatoeba-dev, 1000
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.eng-fry: 205/1529
+BLEU-scores:
+   Tatoeba-test.eng-fry: 19.5
+chr-F-scores:
+   Tatoeba-test.eng-fry: 0.444

@@ -1,0 +1,36 @@
+release: eng-hun/opus+bt-2021-04-13.zip
+release-date: 2021-04-13
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - hun
+training-data:
+   eng-hun: Tatoeba-train (55964383) wiki.aa.hun-eng (973640) wiki.ab.hun-eng (973430) wiki.ac.hun-eng (973452) wiki.ad.hun-eng (973459) wiki.ae.hun-eng (973446) wiki.af.hun-eng (973808) wiki.ag.hun-eng (973751) wiki.ah.hun-eng (847756) wikibooks.aa.hun-eng (172375) wikinews.aa.hun-eng (8746) wikiquote.aa.hun-eng (61771) wikisource.aa.hun-eng (653918) 
+validation-data:
+   eng-hun: Tatoeba-dev, 95943
+   total-size-shuffled: 95934
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   newssyscomb2009.eng-hun: 502/9733
+   newstest2009.eng-hun: 2525/54965
+   Tatoeba-test.eng-hun: 10000/58902
+BLEU-scores:
+   newssyscomb2009.eng-hun: 19.0
+   newstest2009.eng-hun: 19.3
+   Tatoeba-test.eng-hun: 40.5
+chr-F-scores:
+   newssyscomb2009.eng-hun: 0.512
+   newstest2009.eng-hun: 0.506
+   Tatoeba-test.eng-hun: 0.631
