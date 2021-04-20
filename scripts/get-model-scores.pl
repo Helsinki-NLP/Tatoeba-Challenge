@@ -65,6 +65,12 @@ while (<>){
 
 foreach my $l (sort keys %scores){
     foreach my $t (sort keys %{$scores{$l}}){
+
+	## ugly hard-coded way of excluding pure cmn scores
+	## without script extension
+	next if ($l=~/\tcmn\-/);
+	next if ($l=~/\-cmn$/);
+
 	next if ($sizes{$l}{$t}{sents} < $MinTestSize);
 	if ($opt_S){
 	    print $l,"\t",$t,"\t",$scores{$l}{$t}{chrf},"\t",$scores{$l}{$t}{bleu},
