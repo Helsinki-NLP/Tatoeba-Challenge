@@ -1,0 +1,38 @@
+release: eng-zle/opus1m+bt-tuned4eng2bel-2021-04-16.zip
+release-date: 2021-04-16
+dataset-name: opus1m+bt-tuned4eng2bel
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt-tuned4eng2bel.spm32k-spm32k.vocab.yml
+   target: opus1m+bt-tuned4eng2bel.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - bel
+use-target-labels:
+   - ">>bel<<"
+   - ">>bel_Latn<<"
+training-data:
+   eng-bel: Tatoeba-train (154954) wiki.aa (966635) wiki.ab (894574) wikibooks.aa (1629) wikiquote.aa (1489) wikisource.aa (154050) 
+   eng-bel_Latn: Tatoeba-train (2570) 
+validation-data:
+   bel-eng: Tatoeba-dev, 4241
+   bel_Latn-eng: Tatoeba-dev, 12
+   total-size-shuffled: 1012
+   devset-selected: top 1012  lines of Tatoeba-dev.eng-bel.src.shuffled
+test-data:
+   Tatoeba-test.eng-bel: 2500/16237
+   Tatoeba-test.eng-multi: 10000/63596
+BLEU-scores:
+   Tatoeba-test.eng-bel: 24.1
+   Tatoeba-test.eng-multi: 4.1
+chr-F-scores:
+   Tatoeba-test.eng-bel: 0.502
+   Tatoeba-test.eng-multi: 0.206

@@ -1,0 +1,35 @@
+release: eng-gmq/opus1m+bt-tuned4eng2fao-2021-04-16.zip
+release-date: 2021-04-16
+dataset-name: opus1m+bt-tuned4eng2fao
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt-tuned4eng2fao.spm32k-spm32k.vocab.yml
+   target: opus1m+bt-tuned4eng2fao.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - fao
+use-target-labels:
+   - ">>fao<<"
+training-data:
+   eng-fao: Tatoeba-train (2613) wiki.aa.fao-eng (103717) wikisource.aa.fao-eng (1298) 
+validation-data:
+   eng-fao: Tatoeba-dev, 1000
+   total-size-shuffled: 708
+   devset-selected: top 708  lines of Tatoeba-dev.eng-fao.src.shuffled
+test-data:
+   Tatoeba-test.eng-fao: 294/1933
+   Tatoeba-test.eng-multi: 10000/71671
+BLEU-scores:
+   Tatoeba-test.eng-fao: 18.7
+   Tatoeba-test.eng-multi: 44.1
+chr-F-scores:
+   Tatoeba-test.eng-fao: 0.406
+   Tatoeba-test.eng-multi: 0.607

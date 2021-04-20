@@ -842,8 +842,6 @@ to be useful for anything.
 | [sal-sal/opus](../models/sal-sal) | tatoeba | 0.232 | 8.2 |
 | | lang = msa-zho | | | | |
 | [roa-zho/opus](../models/roa-zho) | tatoeba | 0.153 | 18.1 |
-| | lang = multi-multi | | | | |
-| [jpn-heb/opus](../models/jpn-heb) | tatoeba | 0.392 | 19.9 |
 | | lang = nld-afr | | | | |
 | [gmw-gmw/opus](../models/gmw-gmw) | tatoeba | 0.759 | 59.4 |
 | [gem-gem/opus](../models/gem-gem) | tatoeba | 0.756 | 59.4 |

@@ -339,6 +339,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-gmq/opus](../models/eng-gmq) | 0.683 | 52.3 |
 | [eng-gmq/opus](../models/eng-gmq) | 0.681 | 52.0 |
 | [eng-gmq/opus1m+bt](../models/eng-gmq) | 0.687 | 52.9 |
+| [eng-gmq/opus1m+bt-tuned4eng2fao](../models/eng-gmq) | 0.607 | 44.1 |
 | [eng-gmq/opus2m](../models/eng-gmq) | 0.688 | 52.8 |
 | [eng-gmw/opus](../models/eng-gmw) | 0.599 | 40.6 |
 | [eng-gmw/opus](../models/eng-gmw) | 0.593 | 39.5 |
@@ -348,6 +349,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-grk/opus1m+bt](../models/eng-grk) | 0.671 | 48.2 |
 | [eng-grk/opus2m](../models/eng-grk) | 0.677 | 45.6 |
 | [eng-hat/opus+bt](../models/eng-hat) | 0.509 | 28.6 |
+| [eng-hbs/opus+bt](../models/eng-hbs) | 0.350 | 23.5 |
 | [eng-heb/opus](../models/eng-heb) | 0.602 | 37.9 |
 | [eng-heb/opus](../models/eng-heb) | 0.602 | 37.8 |
 | [eng-heb/opus+bt](../models/eng-heb) | 0.601 | 37.8 |
@@ -407,6 +409,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-mlt/opus](../models/eng-mlt) | 0.579 | 20.0 |
 | [eng-mlt/opus+bt](../models/eng-mlt) | 0.590 | 22.0 |
 | [eng-mon/opus+bt](../models/eng-mon) | 0.338 | 10.2 |
+| [eng-msa/opus+bt](../models/eng-msa) | 0.616 | 36.2 |
 | [eng-mul/opus](../models/eng-mul) | 0.434 | 19.1 |
 | [eng-mul/opus](../models/eng-mul) | 0.430 | 19.5 |
 | [eng-mul/opus](../models/eng-mul) | 0.415 | 18.5 |
@@ -419,6 +422,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-nic/opus](../models/eng-nic) | 0.422 | 10.3 |
 | [eng-nld/opus](../models/eng-nld) | 0.730 | 57.4 |
 | [eng-nld/opus+bt](../models/eng-nld) | 0.731 | 57.5 |
+| [eng-nor/opus+bt](../models/eng-nor) | 0.710 | 55.4 |
 | [eng-nya/opus+bt](../models/eng-nya) | 0.549 | 14.7 |
 | [eng-pag/opus+bt](../models/eng-pag) | 0.414 | 14.1 |
 | [eng-pap/opus+bt](../models/eng-pap) | 0.622 | 44.3 |
@@ -518,9 +522,11 @@ For multilingual models, it is a mix of all language pairs
 | [eng-zho/opus](../models/eng-zho) | 0.268 | 31.4 |
 | [eng-zho/opus](../models/eng-zho) | 0.267 | 31.6 |
 | [eng-zho/opus](../models/eng-zho) | 0.265 | 31.1 |
+| [eng-zho/opus+bt](../models/eng-zho) | 0.259 | 30.9 |
 | [eng-zle/opus](../models/eng-zle) | 0.570 | 35.6 |
 | [eng-zle/opus](../models/eng-zle) | 0.564 | 35.3 |
 | [eng-zle/opus1m+bt](../models/eng-zle) | 0.574 | 35.7 |
+| [eng-zle/opus1m+bt-tuned4eng2bel](../models/eng-zle) | 0.206 | 4.1 |
 | [eng-zle/opus2m](../models/eng-zle) | 0.580 | 37.2 |
 | [eng-zls/opus](../models/eng-zls) | 0.615 | 41.9 |
 | [eng-zls/opus](../models/eng-zls) | 0.612 | 42.4 |

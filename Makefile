@@ -130,7 +130,8 @@ BASIC_FILTERS = | perl -CS -pe 'tr[\x{9}\x{A}\x{D}\x{20}-\x{D7FF}\x{E000}-\x{FFF
 		| perl -CS -pe 's/\&\s*\#\s*160\s*\;/ /g' \
 		| perl -pe 's/[\p{C}-[\n\t]]/ /g;' \
 		| recode -f utf8..utf16 | recode -f utf16..utf8 \
-		| $(TOKENIZER)/deescape-special-chars.perl
+		| $(TOKENIZER)/deescape-special-chars.perl \
+		| sed 's/(Translated with Google Translate)//g'
 
 
 ## available OPUS languages (IDs in the way they appear in the corpus)
@@ -337,7 +338,6 @@ testset-release:
 	@echo "  make VERSION=v${TODAY} upload-test upload-dev"
 	@echo "--------------------------------"
 
-#	git push origin master
 
 testset-release-tag:
 	@echo "# Release ${VERSION}"          >> ${DATADIR}/Releases.md
@@ -870,6 +870,22 @@ ${DATADIR}/Backtranslations.md:
 	echo "Translations are done on shuffled, de-duplicated data sets and they come in blocks " >> $@
 	echo "of at most one million sentences per file." >> $@
 	echo "" >> $@
+	echo "License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)" >> $@
+	echo "" >> $@
+	echo "Please, cite the following paper if you use data from this distribution:" >> $@
+	echo "" >> $@
+	echo '```' >> $@
+	echo "@inproceedings{tiedemann-2020-ttc," >> $@
+	echo '    title = "The {T}atoeba {T}ranslation {C}hallenge -- {R}ealistic Data Sets for Low Resource and Multilingual {MT}",' >> $@
+	echo '    author = {Tiedemann, J{\"o}rg},' >> $@
+	echo '    booktitle = "Proceedings of the Fifth Conference on Machine Translation (Volume 1: Research Papers)",' >> $@
+	echo '    year = "2020",' >> $@
+	echo '    publisher = "Association for Computational Linguistics",' >> $@
+	echo '    url = {https://arxiv.org/abs/2010.06354}' >> $@
+	echo '}' >> $@
+	echo '```' >> $@
+	echo "" >> $@
+	echo "" >> $@
 	echo "| Size (sentences) | language pair | source | translation | MT model |" >> $@
 	echo "|:-----------------|:-------------:|:-------|:------------|:--------:|" >> $@
 	wget -qq -O - ${BT_CONTAINER}/released-data-size.txt | sort -k2,2 | grep -v '^[0-9]	' |\
@@ -1270,7 +1286,8 @@ tatoeba-results-all: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
 	xargs scripts/get-model-scores.pl -s 200 |\
 	sed 's/-....-..-..\.zip//' |\
-	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
+	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u |\
+	grep -v '	multi-' | grep -v -- '-multi	' > $@
 
 #	wget -O $@-work ${OPUS_MT_RAW}/work-tatoeba/$@
 #	cut -f4 $< | cut -f5,6 -d'/' | sed 's/-....-..-..\.zip$$//' > $@.1

@@ -1168,6 +1168,7 @@ eng-aze	0.227	1.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tut-tut/opus-202
 eng-aze	0.218	1.1	https://object.pouta.csc.fi/Tatoeba-MT-models/tut-tut/opus-2020-09-26.zip	2659	10046
 eng-aze	0.049	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/trk-trk/opus-2020-09-26.zip	2659	10046
 eng-aze	0.047	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/trk-trk/opus-2020-10-04.zip	2659	10046
+eng-bel	0.502	24.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opus1m+bt-tuned4eng2bel-2021-04-16.zip	2500	16237
 eng-bel	0.499	23.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opus1m+bt-2021-04-10.zip	2500	16231
 eng-bel	0.496	23.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-bel/opus+bt-2021-04-13.zip	2500	16237
 eng-bel	0.489	22.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sla/opus2m-2020-08-01.zip	2500	12908
@@ -1222,6 +1223,7 @@ eng-ben	0.321	7.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-202
 eng-ben	0.306	6.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	2500	10942
 eng-ber	0.074	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ber/opus-2020-09-10.zip	10000	53939
 eng-bos_Latn	0.679	49.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zls/opus1m+bt-2021-04-10.zip	300	1645
+eng-bos_Latn	0.671	46.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hbs/opus+bt-2021-04-20.zip	300	1645
 eng-bre	0.402	17.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng+fra-bre/opus+bt-2021-03-07.zip	383	2268
 eng-bre	0.382	15.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-tuned4eng2bre-2021-04-10.zip	383	2269
 eng-bre	0.387	15.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-2021-04-10.zip	383	2268
@@ -1371,7 +1373,9 @@ eng-chv	0.288	3.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tut/opus-202
 eng-chv	0.284	3.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tut/opus-2020-07-27.zip	333	1358
 eng-chv	0.280	3.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tut/opus-2020-07-20.zip	333	1358
 eng-chv	0.267	2.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus-2020-07-20.zip	333	1358
+eng-cmn_Hans	0.293	34.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus+bt-2021-04-19.zip	4195	48021
 eng-cmn_Hans	0.263	30.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus1m+bt-2021-04-10.zip	4195	48021
+eng-cmn_Hant	0.294	34.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus+bt-2021-04-19.zip	4418	46882
 eng-cmn_Hant	0.261	30.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus1m+bt-2021-04-10.zip	4418	46882
 eng-cor	0.163	3.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-2021-04-10.zip	3198	17784
 eng-cor	0.163	3.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus2m+bt-2021-03-19.zip	3198	17784
@@ -1538,6 +1542,7 @@ eng-eus	0.486	18.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus2m-
 eng-eus	0.469	17.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-27.zip	1060	5823
 eng-eus	0.455	16.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-20.zip	1060	5823
 eng-eus	0.430	14.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	1060	5823
+eng-fao	0.406	18.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmq/opus1m+bt-tuned4eng2fao-2021-04-16.zip	294	1933
 eng-fao	0.398	17.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmq/opus1m+bt-2021-04-13.zip	294	1933
 eng-fao	0.361	16.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fao/opus+bt-2021-03-09.zip	294	1933
 eng-fao	0.361	16.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fao/opus+bt-2021-04-13.zip	294	1933
@@ -1850,6 +1855,7 @@ eng-hbs	0.519	27.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-20
 eng-hbs	0.513	26.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-20.zip	10000	52571
 eng-hbs	0.485	26.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10000	52571
 eng-hbs	0.471	24.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10000	52571
+eng-hbs	0.350	23.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hbs/opus+bt-2021-04-20.zip	10000	63977
 eng-hbs	0.080	1.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sla/opus-2020-07-06.zip	10000	52571
 eng-hbs	0.051	0.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zls/opus-2020-07-06.zip	10000	52571
 eng-heb	0.602	37.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-heb/opus-2020-10-04.zip	10000	49113
@@ -1903,6 +1909,7 @@ eng-hoc	0.073	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-202
 eng-hoc	0.033	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-aav/opus-2020-07-26.zip	660	1894
 eng-hoc	0.010	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-aav/opus-2020-10-04.zip	660	1894
 eng-hoc	0.053	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-27.zip	660	1894
+eng-hrv	0.693	50.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hbs/opus+bt-2021-04-20.zip	1468	9332
 eng-hrv	0.662	46.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zls/opus1m+bt-2021-04-10.zip	1468	9332
 eng-hrx	0.285	5.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmw/opus1m+bt-2021-04-10.zip	221	1297
 eng-hrx	0.235	3.5	https://object.pouta.csc.fi/Tatoeba-MT-models/westgermanic/opus-2020-06-21.zip	221	1028
@@ -1982,6 +1989,7 @@ eng-ina	0.365	12.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/
 eng-ina	0.307	9.3	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-21.zip	5000	38345
 eng-ina	0.266	5.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-art/opus1m+bt-2021-04-10.zip	5000	44642
 eng-ina	0.238	4.4	https://object.pouta.csc.fi/Tatoeba-MT-models/art-art/opus-2020-10-04.zip	5000	38345
+eng-ind	0.646	39.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-msa/opus+bt-2021-04-16.zip	4289	28294
 eng-ind	0.618	35.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pqw/opus1m+bt-2021-04-10.zip	4289	28294
 eng-ind	0.613	35.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-poz/opus1m+bt-2021-04-13.zip	4289	28294
 eng-ind	0.598	33.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus1m+bt-2021-03-24.zip	4289	28294
@@ -2366,6 +2374,7 @@ eng-mri	0.301	7.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pqe/opus2m-2
 eng-mri	0.309	7.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-map/opus-2020-07-27.zip	363	3300
 eng-mri	0.302	7.4	https://object.pouta.csc.fi/Tatoeba-MT-models/pqe-pqe/opus-2020-09-26.zip	363	3300
 eng-mri	0.295	7.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pqe/opus-2020-06-28.zip	363	3300
+eng-msa	0.616	36.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-msa/opus+bt-2021-04-16.zip	5000	33634
 eng-msa	0.587	33.2	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-cpp/opus-2020-10-04.zip	5000	27896
 eng-msa	0.573	32.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cpp/opus2m-2020-08-01.zip	5000	27896
 eng-msa	0.581	32.3	https://object.pouta.csc.fi/Tatoeba-MT-models/sal-sal/opus-2020-10-04.zip	5000	27896
@@ -2473,8 +2482,11 @@ eng-nld	0.550	34.9	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/op
 eng-nld	0.536	33.6	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	10000	60278
 eng-nld	0.560	33.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	10000	60278
 eng-nld	0.533	32.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/opus-2020-06-19.zip	10000	60278
+eng-nno	0.615	40.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	460	3428
 eng-nno	0.551	31.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmq/opus1m+bt-2021-04-13.zip	460	3428
+eng-nob	0.716	56.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	4539	36110
 eng-nob	0.689	52.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmq/opus1m+bt-2021-04-13.zip	4539	36110
+eng-nor	0.710	55.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	4999	39547
 eng-nor	0.682	51.9	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-10-04.zip	5000	33820
 eng-nor	0.681	51.7	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	5000	33820
 eng-nor	0.677	51.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-gmq/opus1m+bt-2021-04-13.zip	5000	39543
@@ -2825,7 +2837,9 @@ eng-sqi	0.557	30.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-20
 eng-sqi	0.538	27.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	1065	6611
 eng-sqi	0.459	22.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	1065	6611
 eng-sqi	0.442	20.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1065	6611
+eng-srp_Cyrl	0.645	45.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hbs/opus+bt-2021-04-20.zip	1577	9131
 eng-srp_Cyrl	0.599	39.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zls/opus1m+bt-2021-04-10.zip	1577	9131
+eng-srp_Latn	0.612	39.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hbs/opus+bt-2021-04-20.zip	6655	43718
 eng-srp_Latn	0.579	35.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zls/opus1m+bt-2021-04-10.zip	6655	43718
 eng-swa	0.604	23.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-swa/opus+bt-2021-04-10.zip	772	3762
 eng-swa	0.604	23.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-swa/opus-2021-02-23.zip	772	3762
@@ -3102,6 +3116,7 @@ eng-war	0.409	11.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-20
 eng-war	0.411	11.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-27.zip	1512	9364
 eng-war	0.403	11.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	1512	9364
 eng-war	0.409	10.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-war/opus+bt-2021-04-10.zip	1512	11027
+eng-wuu	0.061	5.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus+bt-2021-04-19.zip	203	2335
 eng-wuu	0.066	4.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus1m+bt-2021-04-10.zip	203	2335
 eng-xal	0.061	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tut/opus2m-2020-08-02.zip	281	1366
 eng-xal	0.058	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tut/opus-2020-07-20.zip	281	1366
@@ -3148,11 +3163,14 @@ eng-yid	0.180	1.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/op
 eng-yid	0.158	1.3	https://object.pouta.csc.fi/Tatoeba-MT-models/westgermanic/opus-2020-06-21.zip	1168	6754
 eng-yid	0.170	0.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	1168	6754
 eng-yid	0.142	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-21.zip	1168	6754
+eng-yue_Hans	0.077	5.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus+bt-2021-04-19.zip	630	8155
 eng-yue_Hans	0.067	4.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus1m+bt-2021-04-10.zip	630	8155
+eng-yue_Hant	0.096	9.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus+bt-2021-04-19.zip	431	4183
 eng-yue_Hant	0.070	4.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus1m+bt-2021-04-10.zip	431	4183
 eng-zho	0.267	31.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2021-02-23.zip	9999	110463
 eng-zho	0.268	31.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2020-07-17.zip	10000	10211
 eng-zho	0.265	31.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2020-07-14.zip	10000	10211
+eng-zho	0.259	30.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus+bt-2021-04-19.zip	9999	110463
 eng-zho	0.249	29.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus2m-2020-08-01.zip	10000	10211
 eng-zho	0.239	28.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2020-10-04.zip	10000	10211
 eng-zho	0.234	27.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zhx-zhx/opus-2020-10-04.zip	10000	10211
@@ -3162,6 +3180,7 @@ eng-zho	0.192	21.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-20
 eng-zho	0.192	21.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus2m-2020-08-01.zip	10000	10211
 eng-zho	0.186	20.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	10000	10211
 eng-zho	0.060	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/opus-2020-06-19.zip	10000	10211
+eng-zsm_Latn	0.473	20.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-msa/opus+bt-2021-04-16.zip	536	4085
 eng-zsm_Latn	0.392	12.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-pqw/opus1m+bt-2021-04-10.zip	536	4085
 eng-zsm_Latn	0.191	3.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-poz/opus1m+bt-2021-04-13.zip	536	4085
 eng-zsm_Latn	0.129	3.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-roa/opus1m+bt-2021-03-24.zip	536	4085
