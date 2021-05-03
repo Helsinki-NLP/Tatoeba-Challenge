@@ -58,32 +58,6 @@
 
 
 
-# opus-2021-02-17.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): bod brx cjy cmn eng gan hak hsn lzh mya nan wuu yue
-* target language(s): bod brx cjy cmn eng gan hak hsn lzh mya nan wuu yue
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>eng<< >>mya<< >>cmn_Hant<< >>cmn_Hans<< >>yue_Hant<< >>bod<< >>cmn<< >>yue_Hans<< >>nan<< >>wuu<< >>lzh<< >>lzh_Hans<<
-* download: [opus-2021-02-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2021-02-17.zip)
-* test set translations: [opus-2021-02-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2021-02-17.test.txt)
-* test set scores: [opus-2021-02-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2021-02-17.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| Tatoeba-test.multi-multi 	| 26.3 	| 0.400 	| 10000 	| 97851 	| 0.925 |
-| tico19-test.eng-mya 	| 1.9 	| 0.174 	| 2100 	| 32295 	| 1.000 |
-
-
-
-
-
-
 # opus-2021-02-18.zip
 
 * dataset: opus

@@ -66,26 +66,6 @@
 | Tatoeba-test.sme-eng.sme.eng 	| 10.0 	| 0.217 |
 | Tatoeba-test.udm-eng.udm.eng 	| 0.7 	| 0.135 |
 
-# opus-2021-02-17.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): est fin fkv hun izh kom kpv krl liv mdf mhr mrj myv sma sme udm vro
-* target language(s): afr ang deu eng enm fry ltz nld swg yid
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>eng<< >>deu<< >>nld<< >>yid<< >>afr<< >>fry<< >>ang_Latn<< >>ltz<<
-* download: [opus-2021-02-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-gmw/opus-2021-02-17.zip)
-* test set translations: [opus-2021-02-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-gmw/opus-2021-02-17.test.txt)
-* test set scores: [opus-2021-02-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-gmw/opus-2021-02-17.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| Tatoeba-test.multi-multi 	| 42.5 	| 0.609 	| 10000 	| 73525 	| 0.977 |
-
 # opus-2021-02-18.zip
 
 * dataset: opus

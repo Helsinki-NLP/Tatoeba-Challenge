@@ -59,30 +59,6 @@
 
 
 
-# opus1m-2021-02-17.zip
-
-* dataset: opus1m
-* model: transformer
-* source language(s): afr ang deu eng enm fry gos ltz nds nld yid
-* target language(s): bel orv rue rus ukr
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>rus<< >>ukr<< >>bel<< >>bel_Latn<<
-* download: [opus1m-2021-02-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-17.zip)
-* test set translations: [opus1m-2021-02-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-17.test.txt)
-* test set scores: [opus1m-2021-02-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-17.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| Tatoeba-test.multi-multi 	| 38.9 	| 0.596 	| 10000 	| 60318 	| 1.000 |
-
-
-
-
-
 # opus1m-2021-02-19.zip
 
 * dataset: opus1m

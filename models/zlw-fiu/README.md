@@ -29,32 +29,6 @@
 
 
 
-# opus-2021-02-17.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): ces pol
-* target language(s): est fin hun mhr
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>hun<< >>fin<< >>est<<
-* download: [opus-2021-02-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-fiu/opus-2021-02-17.zip)
-* test set translations: [opus-2021-02-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-fiu/opus-2021-02-17.test.txt)
-* test set scores: [opus-2021-02-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-fiu/opus-2021-02-17.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| newssyscomb2009.ces-hun 	| 13.9 	| 0.449 	| 502 	| 9733 	| 0.981 |
-| newstest2009.ces-hun 	| 13.9 	| 0.443 	| 2525 	| 54965 	| 0.969 |
-| Tatoeba-test.multi-multi 	| 39.4 	| 0.616 	| 4562 	| 25497 	| 0.969 |
-
-
-
-
-
 # opus-2021-02-18.zip
 
 * dataset: opus

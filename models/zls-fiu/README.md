@@ -27,46 +27,6 @@
 | Tatoeba-test.slv-fin.slv.fin 	| 32.3 	| 0.550 |
 | Tatoeba-test.slv-hun.slv.hun 	| 2.6 	| 0.190 |
 
-# opus-2021-02-17.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): bos bul hbs hrv mkd slv srp
-* target language(s): est fin hun sme
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>hun<< >>fin<< >>sme<< >>est<<
-* download: [opus-2021-02-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-fiu/opus-2021-02-17.zip)
-* test set translations: [opus-2021-02-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-fiu/opus-2021-02-17.test.txt)
-* test set scores: [opus-2021-02-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-fiu/opus-2021-02-17.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| Tatoeba-test.multi-multi 	| 37.7 	| 0.576 	| 321 	| 1785 	| 0.993 |
-
-# opus-2021-02-18.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): bos bul hbs hrv mkd slv srp
-* target language(s): est fin hun sme
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>hun<< >>fin<< >>sme<< >>est<<
-* download: [opus-2021-02-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-fiu/opus-2021-02-18.zip)
-* test set translations: [opus-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-fiu/opus-2021-02-18.test.txt)
-* test set scores: [opus-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zls-fiu/opus-2021-02-18.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| Tatoeba-test.multi-multi 	| 37.7 	| 0.576 	| 321 	| 1785 	| 0.993 |
-
 # opus-2021-02-19.zip
 
 * dataset: opus

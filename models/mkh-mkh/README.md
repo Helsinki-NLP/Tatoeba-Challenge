@@ -23,32 +23,6 @@
 
 
 
-# opus-2021-02-17.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): eng kha khm mnw vie
-* target language(s): eng kha khm mnw vie
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>eng<< >>vie<< >>khm<< >>khm_Latn<<
-* download: [opus-2021-02-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-mkh/opus-2021-02-17.zip)
-* test set translations: [opus-2021-02-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-mkh/opus-2021-02-17.test.txt)
-* test set scores: [opus-2021-02-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-mkh/opus-2021-02-17.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| Tatoeba-test.multi-multi 	| 21.7 	| 0.366 	| 9194 	| 68857 	| 1.000 |
-| tico19-test.eng-khm 	| 1.4 	| 0.290 	| 2100 	| 20941 	| 1.000 |
-
-
-
-
-
-
 # opus-2021-02-18.zip
 
 * dataset: opus

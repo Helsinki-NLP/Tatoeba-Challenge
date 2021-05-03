@@ -46,48 +46,6 @@
 | Tatoeba-test.sme-hbs.sme.hbs 	| 4.4 	| 0.198 |
 | Tatoeba-test.udm-rus.udm.rus 	| 3.4 	| 0.214 |
 
-# opus-2021-02-17.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): est fin hun izh mhr sme udm
-* target language(s): bel bos bul ces hbs hrv mkd pol rus slv srp ukr
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>rus<< >>ukr<< >>pol<< >>slv<< >>hrv<< >>srp_Cyrl<< >>srp_Latn<< >>bos_Latn<< >>mkd<< >>bel<< >>bul<< >>ces<< >>hbs<< >>bel_Latn<< >>hbs_Cyrl<< >>bos_Cyrl<<
-* download: [opus-2021-02-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-sla/opus-2021-02-17.zip)
-* test set translations: [opus-2021-02-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-sla/opus-2021-02-17.test.txt)
-* test set scores: [opus-2021-02-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-sla/opus-2021-02-17.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| Tatoeba-test.multi-multi 	| 31.2 	| 0.498 	| 10000 	| 62600 	| 0.988 |
-
-# opus-2021-02-18.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): est fin hun izh mhr sme udm
-* target language(s): bel bos bul ces hbs hrv mkd pol rus slv srp ukr
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>rus<< >>ukr<< >>pol<< >>slv<< >>hrv<< >>srp_Cyrl<< >>srp_Latn<< >>bos_Latn<< >>mkd<< >>bel<< >>bul<< >>ces<< >>hbs<< >>bel_Latn<< >>hbs_Cyrl<< >>bos_Cyrl<<
-* download: [opus-2021-02-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-sla/opus-2021-02-18.zip)
-* test set translations: [opus-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-sla/opus-2021-02-18.test.txt)
-* test set scores: [opus-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-sla/opus-2021-02-18.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| newssyscomb2009.hun-ces 	| 12.2 	| 0.409 	| 502 	| 10032 	| 0.922 |
-| newstest2009.hun-ces 	| 12.2 	| 0.402 	| 2525 	| 55533 	| 0.924 |
-| Tatoeba-test.multi-multi 	| 31.2 	| 0.498 	| 10000 	| 62600 	| 0.988 |
-
 # opus-2021-02-19.zip
 
 * dataset: opus

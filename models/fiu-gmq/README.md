@@ -34,47 +34,6 @@
 | Tatoeba-test.sme-swe.sme.swe 	| 4.2 	| 0.179 |
 | Tatoeba-test.vep-nor.vep.nor 	| 2.8 	| 0.203 |
 
-# opus-2021-02-17.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): est fin fkv hun izh krl sma sme vep
-* target language(s): dan fao isl nno nob swe
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>nno<< >>nob<< >>swe<< >>dan<< >>isl<<
-* download: [opus-2021-02-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-gmq/opus-2021-02-17.zip)
-* test set translations: [opus-2021-02-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-gmq/opus-2021-02-17.test.txt)
-* test set scores: [opus-2021-02-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-gmq/opus-2021-02-17.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| Tatoeba-test.multi-multi 	| 49.9 	| 0.666 	| 9548 	| 61057 	| 0.997 |
-
-# opus-2021-02-18.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): est fin fkv hun izh krl sma sme vep
-* target language(s): dan fao isl nno nob swe
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>nno<< >>nob<< >>swe<< >>dan<< >>isl<<
-* download: [opus-2021-02-18.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-gmq/opus-2021-02-18.zip)
-* test set translations: [opus-2021-02-18.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-gmq/opus-2021-02-18.test.txt)
-* test set scores: [opus-2021-02-18.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-gmq/opus-2021-02-18.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| fiskmo_testset.fin-swe 	| 22.0 	| 0.553 	| 523 	| 9479 	| 0.996 |
-| Tatoeba-test.multi-multi 	| 49.9 	| 0.666 	| 9548 	| 61057 	| 0.997 |
-
 # opus-2021-02-19.zip
 
 * dataset: opus

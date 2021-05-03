@@ -44,26 +44,6 @@
 | Tatoeba-test.ukr-fin.ukr.fin 	| 47.5 	| 0.649 |
 | Tatoeba-test.ukr-hun.ukr.hun 	| 40.2 	| 0.647 |
 
-# opus-2021-02-17.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): bel bos bul ces hbs hrv mkd pol rus slv srp ukr
-* target language(s): est fin hun izh mhr sme udm
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>hun<< >>fin<< >>est<< >>sme<< >>udm<< >>mhr<<
-* download: [opus-2021-02-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/sla-fiu/opus-2021-02-17.zip)
-* test set translations: [opus-2021-02-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sla-fiu/opus-2021-02-17.test.txt)
-* test set scores: [opus-2021-02-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sla-fiu/opus-2021-02-17.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| Tatoeba-test.multi-multi 	| 32.0 	| 0.527 	| 10000 	| 58751 	| 0.954 |
-
 # opus-2021-02-18.zip
 
 * dataset: opus

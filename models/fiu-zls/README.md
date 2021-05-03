@@ -31,30 +31,6 @@
 
 
 
-# opus-2021-02-17.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): est fin hun sme
-* target language(s): bos bul hbs hrv mkd slv srp
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>slv<< >>hrv<< >>srp_Cyrl<< >>srp_Latn<< >>bos_Latn<< >>mkd<< >>bul<< >>hbs<< >>hbs_Cyrl<< >>bos_Cyrl<<
-* download: [opus-2021-02-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zls/opus-2021-02-17.zip)
-* test set translations: [opus-2021-02-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zls/opus-2021-02-17.test.txt)
-* test set scores: [opus-2021-02-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zls/opus-2021-02-17.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| Tatoeba-test.multi-multi 	| 34.9 	| 0.527 	| 321 	| 1992 	| 0.935 |
-
-
-
-
-
 # opus-2021-02-18.zip
 
 * dataset: opus

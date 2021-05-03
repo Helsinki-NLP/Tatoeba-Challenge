@@ -71,17 +71,30 @@ foreach (keys %sorted){
     if (@{$sorted{$_}} > 1){
 
 	my $keep;
+	my @non_existing = ();
 	## keep at least one existing model with that score
 	while ($keep = shift(@{$sorted{$_}})){
-	    print STDERR "keep model   $dir/$keep ($_)\n";
+	    print STDERR "keep model    $dir/$keep ($_)\n";
 	    last if (-e "$dir/$keep");
-	    last if (exists $releasedModels{"$dir/$keep"});
+	    if (exists $releasedModels{"$dir/$keep"}){
+		last;
+	    }
+	    elsif ($opt_r){
+		print STDERR "unknown model $dir/$keep ($_)\n";
+		push (@non_existing, $keep);
+		next;
+	    }
+	}
+
+	## add non-available models to the ones that need to be removed
+	if ($opt_r && @non_existing){
+	    push( @{$sorted{$_}}, @non_existing );
 	}
 
 	## delete all others
 	foreach my $m (@{$sorted{$_}}){
 	    next if ($m eq $keep);
-	    print STDERR "remove model $dir/$m ($_)\n";
+	    print STDERR "remove model  $dir/$m ($_)\n";
 	    delete $modelinfo{$m};
 	    my $eval = $m;
 	    my $test = $m;

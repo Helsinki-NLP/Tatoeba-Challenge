@@ -51,42 +51,6 @@
 | Tatoeba-test.yid-fin.yid.fin 	| 0.0 	| 0.092 |
 | Tatoeba-test.yid-hun.yid.hun 	| 5.8 	| 0.216 |
 
-# opus-2021-02-17.zip
-
-* dataset: opus
-* model: transformer
-* source language(s): afr ang deu eng enm fry ltz nld swg yid
-* target language(s): est fin fkv hun izh kom kpv krl liv mdf mhr mrj myv sma sme udm vro
-* model: transformer
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>est<< >>fin<< >>hun<< >>sme<< >>mhr<< >>udm<< >>mrj<<
-* download: [opus-2021-02-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-fiu/opus-2021-02-17.zip)
-* test set translations: [opus-2021-02-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-fiu/opus-2021-02-17.test.txt)
-* test set scores: [opus-2021-02-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-fiu/opus-2021-02-17.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| goethe-institute-test1.deu-fin 	| 15.1 	| 0.457 	| 2000 	| 27070 	| 0.928 |
-| goethe-institute-test2.deu-fin 	| 15.6 	| 0.459 	| 2000 	| 27014 	| 0.924 |
-| newsdev2015-enfi.eng-fin 	| 17.1 	| 0.504 	| 1500 	| 23375 	| 1.000 |
-| newsdev2018-enet.eng-est 	| 18.1 	| 0.505 	| 2000 	| 34508 	| 0.993 |
-| newssyscomb2009.deu-hun 	| 14.5 	| 0.456 	| 502 	| 9733 	| 0.980 |
-| newssyscomb2009.eng-hun 	| 14.5 	| 0.459 	| 502 	| 9733 	| 1.000 |
-| newstest2009.deu-hun 	| 14.1 	| 0.447 	| 2525 	| 54965 	| 0.966 |
-| newstest2009.eng-hun 	| 14.8 	| 0.455 	| 2525 	| 54965 	| 0.996 |
-| newstest2015-enfi.eng-fin 	| 18.4 	| 0.517 	| 1370 	| 19968 	| 1.000 |
-| newstest2016-enfi.eng-fin 	| 19.4 	| 0.524 	| 3000 	| 48116 	| 0.978 |
-| newstest2017-enfi.eng-fin 	| 21.7 	| 0.545 	| 3002 	| 45718 	| 0.992 |
-| newstest2018-enet.eng-est 	| 19.3 	| 0.516 	| 2000 	| 36236 	| 0.991 |
-| newstest2018-enfi.eng-fin 	| 14.5 	| 0.482 	| 3000 	| 45475 	| 1.000 |
-| newstest2019-enfi.eng-fin 	| 19.0 	| 0.505 	| 1997 	| 38369 	| 0.950 |
-| newstestB2016-enfi.eng-fin 	| 15.7 	| 0.494 	| 3000 	| 45766 	| 1.000 |
-| newstestB2017-enfi.eng-fin 	| 17.8 	| 0.509 	| 3002 	| 45506 	| 0.997 |
-| Tatoeba-test.multi-multi 	| 32.4 	| 0.565 	| 10000 	| 61277 	| 0.951 |
-
 # opus-2021-02-18.zip
 
 * dataset: opus
