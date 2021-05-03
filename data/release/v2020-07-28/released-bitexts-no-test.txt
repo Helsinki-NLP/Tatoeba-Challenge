@@ -41,3 +41,226 @@ bzs-eng	Brazilian Sign Language	English							116358	1823630	1839813
 cab-eng	Garifuna	English							60136	871650	965156	
 cak-eng	Kaqchikel	English							37442	874329	648529	
 cce-eng	Chopi	English							18320	304773	264696	
+chk-eng	Chuukese	English							180874	3163879	2940460	
+chq-eng	Quiotepec Chinantec	English							8970	340531	196688	
+chu-eng	Church Slavic	English							153	1155	1518	
+chw-eng	Chuwabu	English							18251	210202	261388	
+chy-eng	Cheyenne	English							2	31	126	
+cjk-eng	Chokwe	English							36419	514121	547712	
+cjp-eng	Cabécar	English							15751	395377	352622	
+cnh-eng	Hakha Chin	English							24465	422642	356726	
+cni-eng	Asháninka	English							13705	214988	305398	
+cop-eng	Coptic	English							15903	245856	355679	
+cpi-kzj	Chinese Pidgin English	Coastal Kadazan									
+cre-eng	Cree	English							46	421	1094	
+crp-eng	Creoles and pidgins	English							62094	1835370	1548409	
+cse-eng	Czech Sign Language	English							12114	152288	187840	
+csf-eng	Cuba Sign Language	English							12223	191442	194198	
+csg-eng	Chilean Sign Language	English							24707	393081	398881	
+csl-eng	Chinese Sign Language	English							18815	577186	323415	
+csn-eng	Colombian Sign Language	English							90082	1493049	1496016	
+csr-eng	Costa Rican Sign Language	English							3841	59804	60509	
+ctu-eng	Chol	English							23990	421155	366179	
+dhv-eng	Dehu	English							58709	1284719	918605	
+din-eng	Dinka	English							12078	290185	269934	
+dje-eng	Zarma	English							51852	1355068	1299478	
+djk-eng	Eastern Maroon Creole	English							48327	1184106	821332	
+dop-eng	Lukpa	English							15739	433946	352639	
+dtp-kzj	Kadazan Dusun	Coastal Kadazan									
+dua-eng	Duala	English							15020	262233	226984	
+dyu-eng	Dyula	English							13523	244347	207377	
+dzo-eng	Dzongkha	English							20520	40357	79667	
+ecs-eng	Ecuadorian Sign Language	English							18498	293537	297371	
+efi-eng	Efik	English							334666	5322887	5344794	
+eng-esn	English	Salvadoran Sign Language							1366	21861	21631	
+eng-fcs	English	Quebec Sign Language							13573	215044	225229	
+eng-fil	English	Filipino							45212	509040	545681	
+eng-fon	English	Fon							31291	481762	710861	
+eng-frp	English	Arpitan							3684	8023	7808	
+eng-fse	English	Finnish Sign Language							22389	353263	256572	
+eng-fsl	English	French Sign Language							13430	215110	224842	
+eng-fur	English	Friulian							66132	312048	352975	
+eng-gbi	English	Galela							13607	304751	502343	
+eng-glk	English	Gilaki							25	1329	1490	
+eng-gqr	English	Gor							150	8913	7653	
+eng-gre	English	Modern Greek (1453-)							519	2268	2318	
+eng-gsg	English	German Sign Language							16615	260957	227133	
+eng-gsm	English	Guatemalan Sign Language							1968	31128	30581	
+eng-gss	English	Greek Sign Language							7494	129530	129626	
+eng-guc	English	Wayuu							52923	838726	670196	
+eng-guw	English	Gun							261113	4244652	5078612	
+eng-gym	English	Ngäbere							79736	1269318	1397491	
+eng-hai	English	Haida							129	1099	741	
+eng-hds	English	Honduras Sign Language							2693	42381	42107	
+eng-her	English	Herero							7953	118343	118201	
+eng-hmo	English	Hiri Motu							203396	3253584	3636288	
+eng-hne	English	Chhattisgarhi							160617	582170	677975	
+eng-hsh	English	Hungarian Sign Language							14300	226005	179435	
+eng-ibg	English	Ibanag							28935	441176	468844	
+eng-inh	English	Ingush							245	3134	2839	
+eng-inl	English	Indonesian Sign Language							13866	214690	182570	
+eng-ins	English	Indian Sign Language							98	465	457	
+eng-ipk	English	Inupiaq							8	24	12	
+eng-iro	English	Iroquoian languages							4	125	911	
+eng-ise	English	Italian Sign Language							83604	1357713	1327032	
+eng-ish	English	Esan							4590	69653	86596	
+eng-iso	English	Isoko							207605	3342957	4153068	
+eng-jaa	English	Jamamadí							124196	3098102	2609282	
+eng-jiv	English	Shuar							12416	278830	208264	
+eng-jsl	English	Japanese Sign Language							86491	1368032	2979409	
+eng-kac	English	Kachin							10455	151674	227470	
+eng-kam	English	Kamba (Kenya)							47180	740090	731340	
+eng-kar	English	Karen languages							15	279	489	
+eng-kau	English	Kanuri							902	4031	3179	
+eng-kbh	English	Camsá							10324	230521	306134	
+eng-kbp	English	Kabiyè							27948	441500	529174	
+eng-kea	English	Kabuverdianu							5229	78006	89541	
+eng-kik	English	Kikuyu							88829	1408318	1388525	
+eng-kmb	English	Kimbundu							93084	1423754	1699447	
+eng-kon	English	Kongo							421564	6333134	6681957	
+eng-koo	English	Konzo							37391	565108	445875	
+eng-kqn	English	Kaonde							228513	3624320	3230792	
+eng-kri	English	Krio							1535	9356	10364	
+eng-kss	English	Southern Kisi							37864	567252	675479	
+eng-ksw	English	S'gaw Karen							30003	525278	804738	
+eng-kua	English	Kuanyama							104749	1629675	1714857	
+eng-kvk	English	Korean Sign Language							84386	1337910	1221964	
+eng-kwn	English	Kwangali							110943	1724045	1488752	
+eng-kzj	English	Coastal Kadazan									
+eng-lam	English	Lamba							15078	237414	198573	
+eng-lbe	English	Lak							2	30	27	
+eng-lez	English	Lezghian							2	64	80	
+eng-lim	English	Limburgan							115851	528242	496803	
+eng-loz	English	Lozi							24989	120988	129207	
+eng-lrc	English	Northern Luri							2	31	31	
+eng-lsp	English	Panamanian Sign Language							3294	51648	51057	
+eng-lua	English	Luba-Lulua							13618	68461	61406	
+eng-lub	English	Luba-Katanga							205426	3314593	3023391	
+eng-lue	English	Luvale							326995	5311135	4047937	
+eng-lun	English	Lunda							138794	2175833	1556466	
+eng-luo	English	Luo (Kenya and Tanzania)							10718	65007	61362	
+eng-lus	English	Lushai							162858	2591677	3166650	
+eng-luy	English	Luyia							8	394	85	
+eng-mam	English	Mam							47730	830089	995042	
+eng-map	English	Austronesian languages							2	69	58	
+eng-mau	English	Huautla Mazatec							26455	416756	383125	
+eng-mco	English	Coatlán Mixe							67394	1104661	913407	
+eng-men	English	Mende (Sierra Leone)							1700	25018	32962	
+eng-mfs	English	Mexican Sign Language							92375	1530376	1529266	
+eng-mgr	English	Mambwe-Lungu							44928	693067	631993	
+eng-miq	English	Mískito							329	791	802	
+eng-mos	English	Mossi							161902	2617132	3524856	
+eng-mus	English	Creek							295	1258	1340	
+eng-mxv	English	Metlatónoc Mixtec							5327	83220	79667	
+eng-mzn	English	Mazanderani							91	2527	2059	
+eng-mzy	English	Mozambican Sign Language							2036	31314	30771	
+eng-nap	English	Neapolitan							114	466	420	
+eng-nba	English	Nyemba							27370	403965	482472	
+eng-nbl	English	South Ndebele							5074	35660	26103	
+eng-ncj	English	Northern Puebla Nahuatl							58035	915775	762869	
+eng-ncs	English	Nicaraguan Sign Language							1967	31128	30581	
+eng-ncx	English	Central Puebla Nahuatl							35521	547289	411911	
+eng-ndc	English	Ndau							31075	464694	416823	
+eng-nde	English	North Ndebele							58257	927157	678861	
+eng-ndo	English	Ndonga							103659	1604955	1635432	
+eng-ngl	English	Lomwe							39924	604355	498599	
+eng-nhg	English	Tetelcingo Nahuatl							10604	234039	228138	
+eng-nhn	English	Central Nahuatl							47	97	97	
+eng-nia	English	Nias							31703	477735	458406	
+eng-nij	English	Ngaju							13393	193884	182550	
+eng-nso	English	Pedi							736297	9952208	13537495	
+eng-nyk	English	Nyaneka							118479	1852665	1430224	
+eng-nyn	English	Nyankole							52281	809031	640959	
+eng-nyu	English	Nyungwe							25393	377811	356228	
+eng-nzi	English	Nzima							94971	1479505	1603810	
+eng-oke	English	Okpe (Southwestern Edo)							20331	309365	351098	
+eng-orm	English	Oromo							164172	2569357	2295060	
+eng-pam	English	Pampanga							31	76	61	
+eng-pck	English	Paite Chin							52925	1314109	1283834	
+eng-pcm	English	Nigerian Pidgin							217	1247	1110	
+eng-pdt	English	Plautdietsch							5312	80072	83520	
+eng-pih	English	Pitcairn-Norfolk							20	364	343	
+eng-pis	English	Pijin							239927	3925161	4218512	
+eng-pli	English	Pali							206	1696	1114	
+eng-pmy	English	Papuan Malay							104	356	340	
+eng-pnt	English	Pontic							6	394	412	
+eng-pon	English	Pohnpeian							205421	3319330	3521138	
+eng-pot	English	Potawatomi							3301	74464	49303	
+eng-ppk	English	Uma							14561	326342	359833	
+eng-prl	English	Peruvian Sign Language							22552	365885	359158	
+eng-pso	English	Polish Sign Language							21142	334959	266024	
+eng-psp	English	Philippine Sign Language							75	365	361	
+eng-psr	English	Portuguese Sign Language							12232	187800	187497	
+eng-pys	English	Paraguayan Sign Language							14608	235035	232519	
+eng-rar	English	Rarotongan							70109	1045277	1487987	
+eng-rms	English	Romanian Sign Language							10725	170117	177752	
+eng-rnd	English	Ruund							118278	1832385	1774473	
+eng-rsl	English	Russian Sign Language							47004	765482	605834	
+eng-rup	English	Macedo-Romanian							418	5493	4992	
+eng-sat	English	Santali							167	6176	5758	
+eng-seh	English	Sena							54155	835984	732347	
+eng-sfs	English	South African Sign Language							82	391	391	
+eng-sgn	English	sign languages							117	1497	1322	
+eng-shn	English	Shan							924	2837	2050	
+eng-shr	English	Shi							11700	257402	153082	
+eng-sid	English	Sidamo							46545	726190	564256	
+eng-slk	English	Slovak							21441736	291048096	253384091	
+eng-smc	English	Som							1660	28452	30304	
+eng-sml	English	Central Sama							36	159	64	
+eng-soh	English	Aka							22	157	64	
+eng-son	English	Songhai languages							12	24	24	
+eng-srm	English	Saramaccan							35033	514449	750886	
+eng-srn	English	Sranan Tongo							527593	8748731	11792420	
+eng-ssp	English	Spanish Sign Language							21615	347696	342838	
+eng-svk	English	Slovakian Sign Language							10431	160560	134760	
+eng-sxn	English	Sangir							11714	168916	155870	
+eng-szl	English	Silesian							1974	7050	6058	
+eng-tcf	English	Malinaltepec Me'phaa							35855	559171	486599	
+eng-tcy	English	Tulu							72	2994	1891	
+eng-tdt	English	Tetun Dili							99720	1577847	1800793	
+eng-tiv	English	Tiv							151922	2347337	3274437	
+eng-tll	English	Tetela							229926	3684883	3565496	
+eng-tog	English	Tonga (Nyasa)							68610	1084773	908383	
+eng-toh	English	Gitonga							3994	57306	69008	
+eng-toj	English	Tojolabal							31116	476423	524064	
+eng-top	English	Papantla Totonac							91056	1454569	1136806	
+eng-trv	English	Taroko							44	200	208	
+eng-tsc	English	Tswa							87494	1362657	1717071	
+eng-tss	English	Taiwan Sign Language							12471	211859	388929	
+eng-tsz	English	Purepecha							4637	71600	59643	
+eng-ttj	English	Tooro							17016	247830	204807	
+eng-tum	English	Tumbuka							9215	41957	34289	
+eng-tyj	English	Tai Do							2169	9966	8513	
+eng-tzh	English	Tzeltal							21849	338355	453198	
+eng-tzo	English	Tzotzil							118444	1851162	2095340	
+eng-urw	English	Sop							51135	803713	788949	
+eng-usp	English	Uspanteco							12382	275071	355217	
+eng-ven	English	Venda							216281	3392810	4157752	
+eng-vls	English	Vlaams							14	191	242	
+eng-vmw	English	Makhuwa							73769	1151019	980500	
+eng-vsl	English	Venezuelan Sign Language							20283	327984	324307	
+eng-wae	English	Walser							3042	10055	8662	
+eng-wal	English	Wolaytta							126119	2085389	1561213	
+eng-wes	English	Cameroon Pidgin							4955	70394	101806	
+eng-wls	English	Wallisian							162275	2570261	3688975	
+eng-yao	English	Yao							45224	702512	570558	
+eng-yap	English	Yapese							126258	1988062	3033137	
+eng-yua	English	Yucateco							149344	2453023	2668641	
+eng-zap	English	Zapotec							152114	2426324	2412573	
+eng-zha	English	Zhuang							6	373	148	
+eng-zib	English	Zimbabwe Sign Language							91	405	402	
+eng-zne	English	Zande (individual language)							190974	3106255	3812827	
+eng-zsl	English	Zambian Sign Language							17	79	79	
+epo-kom	Esperanto	Komi									
+fra-pam	French	Pampanga									
+fur-ita	Friulian	Italian							19937	106876	100009	
+fur-spa	Friulian	Spanish							20886	110199	114243	
+jpn-kzj	Japanese	Coastal Kadazan									
+kor-kzj	Korean	Coastal Kadazan									
+kzj-msa	Coastal Kadazan	Malay (macrolanguage)									
+kzj-mvv	Coastal Kadazan	Tagal Murut									
+kzj-spa	Coastal Kadazan	Spanish									
+kzj-tgl	Coastal Kadazan	Tagalog									
+kzj-tha	Coastal Kadazan	Thai									
+kzj-zho	Coastal Kadazan	Chinese									
+pam-spa	Pampanga	Spanish							21	44	86	

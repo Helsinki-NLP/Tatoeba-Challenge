@@ -1,3 +1,40 @@
 avk-fra	Kotava	French	1244	6557	9181						
 avk-spa	Kotava	Spanish	274	1139	1348						
 awa-eng	Awadhi	English	279	1087	1042						
+deu-hrx	German	Hunsrik	471	2261	2184						
+deu-swg	German	Swabian	1523	13079	12897						
+deu-toki	German	Toki Pona	10000	62766	95525	13422	83340	126883			
+dtp-eng	Kadazan Dusun	English	1929	11440	11496	1000	6150	6012			
+dtp-jpn	Kadazan Dusun	Japanese	251	1358	251						
+dtp-msa	Kadazan Dusun	Malay (macrolanguage)	440	3259	2932						
+egl-ita	Emilian	Italian	202	863	784						
+eng-gos	English	Gronings	1152	4319	4241						
+eng-hoc	English	Ho	660	2827	1894						
+eng-hrx	English	Hunsrik	221	978	1028						
+eng-kha	English	Khasi	1314	6985	7819						
+eng-nst	English	Tase Naga	805	3823	4871						
+eng-orv	English	Old Russian	322	1713	1364						
+eng-ota	English	Ottoman Turkish (1500-1928)	678	3612	3328						
+eng-prg	English	Prussian	213	1410	1243						
+eng-toki	English	Toki Pona	5000	28075	42317	7603	42782	63956			
+epo-ile	Esperanto	Interlingue	302	1270	1362						
+epo-lad	Esperanto	Ladino	210	916	959						
+epo-lfn	Esperanto	Lingua Franca Nova	426	2071	2412						
+epo-toki	Esperanto	Toki Pona	2738	15274	24864	1000	5748	9069			
+epo-vol	Esperanto	Volapük	759	3769	2868						
+fin-fkv	Finnish	Kven Finnish	297	1319	1369						
+fra-gcf	French	Guadeloupean Creole French	1164	5281	5092						
+fra-lfn	French	Lingua Franca Nova	214	1306	1346						
+fra-toki	French	Toki Pona	511	3089	4195						
+gos-nld	Gronings	Dutch	1852	7493	7848						
+ina-lad	Interlingua (International Auxiliary Language Association)	Ladino	215	1063	997						
+ina-lfn	Interlingua (International Auxiliary Language Association)	Lingua Franca Nova	435	2182	2331						
+lad-yid	Ladino	Yiddish	400	1721	1879						
+lfn-por	Lingua Franca Nova	Portuguese	1945	22959	21512						
+lfn-yid	Lingua Franca Nova	Yiddish	380	1911	1920						
+nld-toki	Dutch	Toki Pona	592	2617	3725						
+orv-ukr	Old Russian	Ukrainian	973	3992	4224						
+ota-tur	Ottoman Turkish (1500-1928)	Turkish	268	1418	1207						
+por-toki	Portuguese	Toki Pona	1719	11414	16030						
+rus-toki	Russian	Toki Pona	868	4059	6327						
+spa-toki	Spanish	Toki Pona	533	2443	3686						

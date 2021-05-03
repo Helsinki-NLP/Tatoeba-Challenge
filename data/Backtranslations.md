@@ -8,6 +8,7 @@ Translations are done on shuffled, de-duplicated data sets and they come in bloc
 of at most one million sentences per file.
 
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Total size: 1,056,677,701 translated sentences
 
 Please, cite the following paper if you use data from this distribution:
 

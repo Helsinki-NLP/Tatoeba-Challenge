@@ -892,6 +892,9 @@ ${DATADIR}/Backtranslations.md:
 	echo "of at most one million sentences per file." >> $@
 	echo "" >> $@
 	echo "License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)" >> $@
+	echo -n "Total size: " >> $@
+	wget -qq -O - ${BT_CONTAINER}/released-data-size.txt | grep '^[0-9]*$$' | \
+	sed ':a;s/\B[0-9]\{3\}\>/,&/;ta' | sed 's/$$/ translated sentences/' >> $@
 	echo "" >> $@
 	echo "Please, cite the following paper if you use data from this distribution:" >> $@
 	echo "" >> $@
