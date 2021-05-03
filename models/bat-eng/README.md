@@ -24,6 +24,7 @@
 | Tatoeba-test.prg-eng.prg.eng 	| 1.4 	| 0.160 |
 | Tatoeba-test.sgs-eng.sgs.eng 	| 22.4 	| 0.334 |
 
+
 # opus-2020-07-26.zip
 
 * dataset: opus
@@ -49,6 +50,7 @@
 | Tatoeba-test.multi.eng 	| 48.2 	| 0.643 |
 | Tatoeba-test.prg-eng.prg.eng 	| 0.8 	| 0.155 |
 | Tatoeba-test.sgs-eng.sgs.eng 	| 13.4 	| 0.325 |
+
 
 # opus2m-2020-07-31.zip
 
@@ -76,6 +78,7 @@
 | Tatoeba-test.prg-eng.prg.eng 	| 1.0 	| 0.159 |
 | Tatoeba-test.sgs-eng.sgs.eng 	| 16.5 	| 0.265 |
 
+
 # opus4m-2020-08-12.zip
 
 * dataset: opus4m
@@ -101,4 +104,32 @@
 | Tatoeba-test.multi.eng 	| 51.2 	| 0.666 |
 | Tatoeba-test.prg-eng.prg.eng 	| 0.8 	| 0.153 |
 | Tatoeba-test.sgs-eng.sgs.eng 	| 14.1 	| 0.303 |
+
+
+# opus1m+bt-2021-05-01.zip
+
+* dataset: opus1m+bt
+* model: transformer-align
+* source language(s): lav lit ltg prg sgs
+* target language(s): eng
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus1m+bt-2021-05-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/bat-eng/opus1m+bt-2021-05-01.zip)
+* test set translations: [opus1m+bt-2021-05-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/bat-eng/opus1m+bt-2021-05-01.test.txt)
+* test set scores: [opus1m+bt-2021-05-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/bat-eng/opus1m+bt-2021-05-01.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newsdev2017-enlv.lav-eng 	| 25.8 	| 0.554 	| 2003 	| 48175 	| 1.000 |
+| newsdev2019-enlt.lit-eng 	| 25.1 	| 0.534 	| 2000 	| 49666 	| 0.980 |
+| newstest2017-enlv.lav-eng 	| 19.8 	| 0.498 	| 2001 	| 47511 	| 1.000 |
+| newstest2019-lten.lit-eng 	| 27.7 	| 0.573 	| 1000 	| 26079 	| 0.956 |
+| Tatoeba-test.lav-eng 	| 49.7 	| 0.669 	| 1631 	| 11212 	| 0.979 |
+| Tatoeba-test.lit-eng 	| 50.0 	| 0.662 	| 2500 	| 17686 	| 0.971 |
+| Tatoeba-test.ltg-eng 	| 18.0 	| 0.328 	| 1 	| 5 	| 1.000 |
+| Tatoeba-test.multi-eng 	| 48.2 	| 0.641 	| 4396 	| 30772 	| 0.980 |
+| Tatoeba-test.prg-eng 	| 0.7 	| 0.157 	| 213 	| 1663 	| 1.000 |
+| Tatoeba-test.sgs-eng 	| 16.9 	| 0.294 	| 52 	| 207 	| 1.000 |
 

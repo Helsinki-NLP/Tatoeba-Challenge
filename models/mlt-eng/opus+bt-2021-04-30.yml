@@ -1,0 +1,30 @@
+release: mlt-eng/opus+bt-2021-04-30.zip
+release-date: 2021-04-30
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - mlt
+target-languages:
+   - eng
+training-data:
+   mlt-eng: Tatoeba-train (7094316) wikinews.aa (456863) wikipedia.aa (981034) wikipedia.ab (981120) wikipedia.ac (981201) wikipedia.ad (980973) wikiquote.aa (996263) 
+validation-data:
+   eng-mlt: Tatoeba-dev, 1000
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.mlt-eng: 203/1165
+BLEU-scores:
+   Tatoeba-test.mlt-eng: 52.5
+chr-F-scores:
+   Tatoeba-test.mlt-eng: 0.675

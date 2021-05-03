@@ -16,3 +16,22 @@
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.ell-eng 	| 69.2 	| 0.801 	| 10000 	| 60970 	| 0.978 |
 
+
+# opus+bt-2021-04-30.zip
+
+* dataset: opus+bt
+* model: transformer-align
+* source language(s): ell
+* target language(s): eng
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus+bt-2021-04-30.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/ell-eng/opus+bt-2021-04-30.zip)
+* test set translations: [opus+bt-2021-04-30.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ell-eng/opus+bt-2021-04-30.test.txt)
+* test set scores: [opus+bt-2021-04-30.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ell-eng/opus+bt-2021-04-30.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.ell-eng 	| 68.9 	| 0.800 	| 10000 	| 60970 	| 0.974 |
+

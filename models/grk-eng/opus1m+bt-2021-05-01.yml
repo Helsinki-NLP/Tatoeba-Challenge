@@ -1,0 +1,37 @@
+release: grk-eng/opus1m+bt-2021-05-01.zip
+release-date: 2021-05-01
+dataset-name: opus1m+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt.spm12k-spm12k.vocab.yml
+   target: opus1m+bt.spm12k-spm12k.vocab.yml
+pre-processing: normalization + SentencePiece (spm12k,spm12k)
+subwords:
+   source: spm12k
+   target: spm12k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ell
+   - grc
+target-languages:
+   - eng
+training-data:
+   ell-eng: Tatoeba-train (1000000) wikibooks.aa.eng-ell (992508) wikinews.aa.eng-ell (457453) wikipedia.aa.eng-ell (983796) wikipedia.ab.eng-ell (983998) wikipedia.ac.eng-ell (983935) wikipedia.ad.eng-ell (983731) wikiquote.aa.eng-ell (997213) 
+validation-data:
+   ell-eng: Tatoeba-dev, 12823
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.ell-eng: 10000/60965
+   Tatoeba-test.grc-eng: 592/4937
+   Tatoeba-test.multi-eng: 10000/62289
+BLEU-scores:
+   Tatoeba-test.ell-eng: 64.0
+   Tatoeba-test.grc-eng: 1.9
+   Tatoeba-test.multi-eng: 58.8
+chr-F-scores:
+   Tatoeba-test.ell-eng: 0.763
+   Tatoeba-test.grc-eng: 0.159
+   Tatoeba-test.multi-eng: 0.715

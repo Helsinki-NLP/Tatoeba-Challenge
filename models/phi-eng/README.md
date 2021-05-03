@@ -23,6 +23,7 @@
 | Tatoeba-test.pmn-eng.pmn.eng 	| 0.7 	| 0.110 |
 | Tatoeba-test.war-eng.war.eng 	| 14.1 	| 0.349 |
 
+
 # opus-2020-07-27.zip
 
 * dataset: opus
@@ -48,6 +49,7 @@
 | Tatoeba-test.pmn-eng.pmn.eng 	| 0.6 	| 0.102 |
 | Tatoeba-test.war-eng.war.eng 	| 3.9 	| 0.209 |
 
+
 # opus2m-2020-08-12.zip
 
 * dataset: opus2m
@@ -71,4 +73,29 @@
 | Tatoeba-test.multi.eng 	| 21.5 	| 0.391 |
 | Tatoeba-test.pag-eng.pag.eng 	| 27.5 	| 0.494 |
 | Tatoeba-test.war-eng.war.eng 	| 17.3 	| 0.380 |
+
+
+# opus1m+bt-2021-05-01.zip
+
+* dataset: opus1m+bt
+* model: transformer-align
+* source language(s): akl ceb hil ilo pag war
+* target language(s): eng
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus1m+bt-2021-05-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/phi-eng/opus1m+bt-2021-05-01.zip)
+* test set translations: [opus1m+bt-2021-05-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/phi-eng/opus1m+bt-2021-05-01.test.txt)
+* test set scores: [opus1m+bt-2021-05-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/phi-eng/opus1m+bt-2021-05-01.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.akl-eng 	| 17.7 	| 0.364 	| 27 	| 87 	| 1.000 |
+| Tatoeba-test.ceb-eng 	| 20.9 	| 0.386 	| 378 	| 2292 	| 1.000 |
+| Tatoeba-test.hil-eng 	| 17.4 	| 0.398 	| 22 	| 150 	| 0.993 |
+| Tatoeba-test.ilo-eng 	| 37.2 	| 0.565 	| 1093 	| 7384 	| 1.000 |
+| Tatoeba-test.multi-eng 	| 25.5 	| 0.445 	| 3081 	| 21575 	| 1.000 |
+| Tatoeba-test.pag-eng 	| 28.6 	| 0.505 	| 49 	| 316 	| 1.000 |
+| Tatoeba-test.war-eng 	| 17.1 	| 0.358 	| 1512 	| 11342 	| 1.000 |
 

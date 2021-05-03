@@ -1,0 +1,30 @@
+release: cym-eng/opus+bt-2021-04-30.zip
+release-date: 2021-04-30
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - cym
+target-languages:
+   - eng
+training-data:
+   cym-eng: Tatoeba-train (1284302) wikinews.aa.eng-cym (457124) wikipedia.aa.eng-cym (983354) wikipedia.ab.eng-cym (983583) wikipedia.ac.eng-cym (983481) wikipedia.ad.eng-cym (983327) wikiquote.aa.eng-cym (996776) 
+validation-data:
+   cym-eng: Tatoeba-dev, 1000
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.cym-eng: 818/5563
+BLEU-scores:
+   Tatoeba-test.cym-eng: 39.3
+chr-F-scores:
+   Tatoeba-test.cym-eng: 0.570

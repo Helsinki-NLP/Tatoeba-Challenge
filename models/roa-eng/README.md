@@ -42,6 +42,7 @@
 | Tatoeba-test.vec-eng.vec.eng 	| 16.4 	| 0.334 |
 | Tatoeba-test.wln-eng.wln.eng 	| 14.9 	| 0.296 |
 
+
 # opus-2020-07-27.zip
 
 * dataset: opus
@@ -109,6 +110,7 @@
 | Tatoeba-test.spa-eng.spa.eng 	| 56.1 	| 0.713 |
 | Tatoeba-test.vec-eng.vec.eng 	| 12.7 	| 0.316 |
 | Tatoeba-test.wln-eng.wln.eng 	| 13.3 	| 0.293 |
+
 
 # opus2m-2020-08-01.zip
 
@@ -178,6 +180,7 @@
 | Tatoeba-test.vec-eng.vec.eng 	| 13.8 	| 0.317 |
 | Tatoeba-test.wln-eng.wln.eng 	| 17.3 	| 0.323 |
 
+
 # opus4m-2020-08-12.zip
 
 * dataset: opus4m
@@ -245,4 +248,79 @@
 | Tatoeba-test.spa-eng.spa.eng 	| 56.4 	| 0.716 |
 | Tatoeba-test.vec-eng.vec.eng 	| 13.6 	| 0.343 |
 | Tatoeba-test.wln-eng.wln.eng 	| 13.4 	| 0.315 |
+
+
+# opus1m+bt-2021-05-01.zip
+
+* dataset: opus1m+bt
+* model: transformer-align
+* source language(s): arg ast cat cbk cos egl ext fra frm gcf glg hat ita lad lij lld lmo mfe mol mwl oci osp pap pms pob por roh ron scn spa vec wln
+* target language(s): eng
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus1m+bt-2021-05-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/roa-eng/opus1m+bt-2021-05-01.zip)
+* test set translations: [opus1m+bt-2021-05-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/roa-eng/opus1m+bt-2021-05-01.test.txt)
+* test set scores: [opus1m+bt-2021-05-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/roa-eng/opus1m+bt-2021-05-01.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newsdev2016-enro.ron-eng 	| 36.2 	| 0.625 	| 1999 	| 49526 	| 1.000 |
+| newsdiscussdev2015-enfr.fra-eng 	| 30.9 	| 0.559 	| 1500 	| 27759 	| 0.961 |
+| newsdiscusstest2015-enfr.fra-eng 	| 35.8 	| 0.591 	| 1500 	| 26995 	| 0.995 |
+| newssyscomb2009.fra-eng 	| 29.7 	| 0.563 	| 502 	| 11821 	| 0.998 |
+| newssyscomb2009.ita-eng 	| 32.3 	| 0.582 	| 502 	| 11821 	| 0.983 |
+| newssyscomb2009.spa-eng 	| 29.4 	| 0.562 	| 502 	| 11821 	| 1.000 |
+| news-test2008.fra-eng 	| 25.2 	| 0.533 	| 2051 	| 49380 	| 1.000 |
+| news-test2008.spa-eng 	| 26.3 	| 0.540 	| 2051 	| 49380 	| 1.000 |
+| newstest2009.fra-eng 	| 28.0 	| 0.553 	| 2525 	| 65402 	| 1.000 |
+| newstest2009.ita-eng 	| 31.7 	| 0.579 	| 2525 	| 65402 	| 0.983 |
+| newstest2009.spa-eng 	| 29.1 	| 0.561 	| 2525 	| 65402 	| 0.988 |
+| newstest2010.fra-eng 	| 29.9 	| 0.572 	| 2489 	| 61724 	| 1.000 |
+| newstest2010.spa-eng 	| 33.1 	| 0.594 	| 2489 	| 61724 	| 1.000 |
+| newstest2011.fra-eng 	| 30.9 	| 0.582 	| 3003 	| 74681 	| 1.000 |
+| newstest2011.spa-eng 	| 31.9 	| 0.583 	| 3003 	| 74681 	| 1.000 |
+| newstest2012.fra-eng 	| 31.2 	| 0.578 	| 3003 	| 72812 	| 1.000 |
+| newstest2012.spa-eng 	| 35.0 	| 0.605 	| 3003 	| 72812 	| 1.000 |
+| newstest2013.fra-eng 	| 31.6 	| 0.573 	| 3000 	| 64505 	| 1.000 |
+| newstest2013.spa-eng 	| 32.5 	| 0.590 	| 3000 	| 64505 	| 1.000 |
+| newstest2014-fren.fra-eng 	| 33.9 	| 0.607 	| 3003 	| 70708 	| 1.000 |
+| newstest2016-enro.ron-eng 	| 34.4 	| 0.603 	| 1999 	| 47563 	| 1.000 |
+| Tatoeba-test.arg-eng 	| 33.5 	| 0.465 	| 105 	| 451 	| 1.000 |
+| Tatoeba-test.ast-eng 	| 34.7 	| 0.502 	| 99 	| 802 	| 0.946 |
+| Tatoeba-test.cat-eng 	| 54.2 	| 0.700 	| 1631 	| 12625 	| 0.964 |
+| Tatoeba-test.cbk-eng 	| 18.6 	| 0.414 	| 1498 	| 10024 	| 1.000 |
+| Tatoeba-test.cos-eng 	| 65.9 	| 0.691 	| 5 	| 42 	| 1.000 |
+| Tatoeba-test.egl-eng 	| 3.6 	| 0.163 	| 84 	| 444 	| 1.000 |
+| Tatoeba-test.ext-eng 	| 43.9 	| 0.571 	| 69 	| 396 	| 0.851 |
+| Tatoeba-test.fra-eng 	| 52.4 	| 0.681 	| 10000 	| 77165 	| 0.977 |
+| Tatoeba-test.frm-eng 	| 21.3 	| 0.379 	| 18 	| 231 	| 0.919 |
+| Tatoeba-test.gcf-eng 	| 12.6 	| 0.271 	| 99 	| 570 	| 1.000 |
+| Tatoeba-test.glg-eng 	| 54.8 	| 0.703 	| 1008 	| 8364 	| 0.969 |
+| Tatoeba-test.hat-eng 	| 43.7 	| 0.589 	| 64 	| 384 	| 1.000 |
+| Tatoeba-test.ita-eng 	| 64.9 	| 0.768 	| 10000 	| 67384 	| 0.979 |
+| Tatoeba-test.lad-eng 	| 22.8 	| 0.448 	| 629 	| 3456 	| 1.000 |
+| Tatoeba-test.lad_Latn-eng 	| 31.7 	| 0.487 	| 582 	| 3200 	| 0.989 |
+| Tatoeba-test.lij-eng 	| 11.4 	| 0.286 	| 94 	| 698 	| 1.000 |
+| Tatoeba-test.lld-eng 	| 15.7 	| 0.288 	| 21 	| 226 	| 0.964 |
+| Tatoeba-test.lmo-eng 	| 10.3 	| 0.295 	| 17 	| 132 	| 0.953 |
+| Tatoeba-test.mfe-eng 	| 72.0 	| 0.861 	| 7 	| 35 	| 1.000 |
+| Tatoeba-test.multi-eng 	| 55.2 	| 0.699 	| 10000 	| 74266 	| 0.991 |
+| Tatoeba-test.mwl-eng 	| 36.6 	| 0.600 	| 4 	| 24 	| 0.819 |
+| Tatoeba-test.oci-eng 	| 20.2 	| 0.391 	| 841 	| 5299 	| 1.000 |
+| Tatoeba-test.osp-eng 	| 51.4 	| 0.699 	| 3 	| 21 	| 0.951 |
+| Tatoeba-test.pap-eng 	| 63.5 	| 0.706 	| 70 	| 366 	| 0.989 |
+| Tatoeba-test.pms-eng 	| 9.8 	| 0.301 	| 268 	| 2055 	| 1.000 |
+| Tatoeba-test.por-eng 	| 60.0 	| 0.742 	| 10000 	| 75224 	| 0.969 |
+| Tatoeba-test.roh-eng 	| 16.6 	| 0.392 	| 16 	| 214 	| 0.981 |
+| Tatoeba-test.ron-eng 	| 51.9 	| 0.679 	| 5000 	| 37123 	| 0.970 |
+| Tatoeba-test.scn-eng 	| 54.3 	| 0.481 	| 4 	| 44 	| 0.953 |
+| Tatoeba-test.spa-eng 	| 56.4 	| 0.715 	| 10000 	| 79355 	| 0.975 |
+| Tatoeba-test.vec-eng 	| 17.2 	| 0.352 	| 19 	| 127 	| 1.000 |
+| Tatoeba-test.wln-eng 	| 14.7 	| 0.318 	| 89 	| 465 	| 1.000 |
+| tico19-test.fra-eng 	| 35.7 	| 0.607 	| 2100 	| 56347 	| 1.000 |
+| tico19-test.pob-eng 	| 46.8 	| 0.727 	| 2100 	| 56339 	| 1.000 |
+| tico19-test.por-eng 	| 46.8 	| 0.727 	| 2100 	| 56339 	| 1.000 |
+| tico19-test.spa-eng 	| 43.9 	| 0.710 	| 2100 	| 56339 	| 1.000 |
 

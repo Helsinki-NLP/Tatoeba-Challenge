@@ -1,0 +1,57 @@
+release: fin-eng/opus+bt-2021-04-30.zip
+release-date: 2021-04-30
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - eng
+training-data:
+   fin-eng: Tatoeba-train (45205537) wikinews.aa (457233) wikipedia.aa (983013) wikipedia.ab (983150) wikipedia.ac (983127) wikipedia.ad (982918) wikiquote.aa (997039) 
+validation-data:
+   eng-fin: Tatoeba-dev, 69721
+   total-size-shuffled: 69721
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   newsdev2015-enfi.fin-eng: 1500/32104
+   newstest2015-enfi.fin-eng: 1370/27356
+   newstest2016-enfi.fin-eng: 3000/63043
+   newstest2017-enfi.fin-eng: 3002/61936
+   newstest2018-enfi.fin-eng: 3000/62325
+   newstest2019-fien.fin-eng: 1996/36227
+   newstestB2016-enfi.fin-eng: 3000/63043
+   newstestB2017-enfi.fin-eng: 3002/61936
+   newstestB2017-fien.fin-eng: 3002/61936
+   Tatoeba-test.fin-eng: 10000/74651
+BLEU-scores:
+   newsdev2015-enfi.fin-eng: 25.8
+   newstest2015-enfi.fin-eng: 27.1
+   newstest2016-enfi.fin-eng: 30.2
+   newstest2017-enfi.fin-eng: 33.3
+   newstest2018-enfi.fin-eng: 24.1
+   newstest2019-fien.fin-eng: 29.7
+   newstestB2016-enfi.fin-eng: 24.9
+   newstestB2017-enfi.fin-eng: 28.1
+   newstestB2017-fien.fin-eng: 28.1
+   Tatoeba-test.fin-eng: 53.1
+chr-F-scores:
+   newsdev2015-enfi.fin-eng: 0.541
+   newstest2015-enfi.fin-eng: 0.551
+   newstest2016-enfi.fin-eng: 0.577
+   newstest2017-enfi.fin-eng: 0.602
+   newstest2018-enfi.fin-eng: 0.521
+   newstest2019-fien.fin-eng: 0.570
+   newstestB2016-enfi.fin-eng: 0.531
+   newstestB2017-enfi.fin-eng: 0.563
+   newstestB2017-fien.fin-eng: 0.563
+   Tatoeba-test.fin-eng: 0.695

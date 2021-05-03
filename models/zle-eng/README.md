@@ -29,6 +29,7 @@
 | Tatoeba-test.rus-eng.rus.eng 	| 49.9 	| 0.654 |
 | Tatoeba-test.ukr-eng.ukr.eng 	| 49.5 	| 0.654 |
 
+
 # opus-2020-07-27.zip
 
 * dataset: opus
@@ -59,6 +60,7 @@
 | Tatoeba-test.rue-eng.rue.eng 	| 18.7 	| 0.344 |
 | Tatoeba-test.rus-eng.rus.eng 	| 50.6 	| 0.660 |
 | Tatoeba-test.ukr-eng.ukr.eng 	| 50.2 	| 0.659 |
+
 
 # opus2m-2020-08-01.zip
 
@@ -91,6 +93,7 @@
 | Tatoeba-test.rus-eng.rus.eng 	| 52.5 	| 0.674 |
 | Tatoeba-test.ukr-eng.ukr.eng 	| 52.1 	| 0.673 |
 
+
 # opus4m-2020-08-12.zip
 
 * dataset: opus4m
@@ -121,4 +124,38 @@
 | Tatoeba-test.rue-eng.rue.eng 	| 13.1 	| 0.335 |
 | Tatoeba-test.rus-eng.rus.eng 	| 53.4 	| 0.682 |
 | Tatoeba-test.ukr-eng.ukr.eng 	| 52.5 	| 0.677 |
+
+
+# opus1m+bt-2021-05-02.zip
+
+* dataset: opus1m+bt
+* model: transformer-align
+* source language(s): bel orv rue rus ukr
+* target language(s): eng
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus1m+bt-2021-05-02.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opus1m+bt-2021-05-02.zip)
+* test set translations: [opus1m+bt-2021-05-02.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opus1m+bt-2021-05-02.test.txt)
+* test set scores: [opus1m+bt-2021-05-02.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opus1m+bt-2021-05-02.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newstest2012.rus-eng 	| 31.2 	| 0.580 	| 3003 	| 72812 	| 0.980 |
+| newstest2013.rus-eng 	| 24.9 	| 0.522 	| 3000 	| 64505 	| 0.994 |
+| newstest2014-ruen.rus-eng 	| 27.7 	| 0.562 	| 3003 	| 69190 	| 0.995 |
+| newstest2015-enru.rus-eng 	| 26.9 	| 0.541 	| 2818 	| 64744 	| 0.951 |
+| newstest2016-enru.rus-eng 	| 25.6 	| 0.534 	| 2998 	| 69278 	| 0.983 |
+| newstest2017-enru.rus-eng 	| 29.1 	| 0.559 	| 3001 	| 69033 	| 0.966 |
+| newstest2018-enru.rus-eng 	| 25.1 	| 0.533 	| 3000 	| 71723 	| 0.977 |
+| newstest2019-ruen.rus-eng 	| 26.4 	| 0.542 	| 2000 	| 42875 	| 0.972 |
+| Tatoeba-test.bel-eng 	| 43.8 	| 0.620 	| 2500 	| 18567 	| 0.988 |
+| Tatoeba-test.bel_Latn-eng 	| 2.1 	| 0.118 	| 3 	| 26 	| 1.000 |
+| Tatoeba-test.multi-eng 	| 50.1 	| 0.656 	| 10000 	| 69896 	| 0.973 |
+| Tatoeba-test.orv-eng 	| 7.2 	| 0.211 	| 322 	| 2102 	| 0.997 |
+| Tatoeba-test.rue-eng 	| 20.7 	| 0.356 	| 120 	| 697 	| 0.905 |
+| Tatoeba-test.rus-eng 	| 51.5 	| 0.668 	| 10000 	| 72891 	| 0.965 |
+| Tatoeba-test.ukr-eng 	| 51.2 	| 0.667 	| 10000 	| 66113 	| 0.973 |
+| tico19-test.rus-eng 	| 27.1 	| 0.582 	| 2100 	| 56347 	| 1.000 |
 

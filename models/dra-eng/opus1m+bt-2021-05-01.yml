@@ -1,0 +1,55 @@
+release: dra-eng/opus1m+bt-2021-05-01.zip
+release-date: 2021-05-01
+dataset-name: opus1m+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt.spm32k-spm32k.vocab.yml
+   target: opus1m+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - kan
+   - mal
+   - tam
+   - tel
+target-languages:
+   - eng
+training-data:
+   kan-eng: Tatoeba-train (404471) 
+   mal-eng: Tatoeba-train (1000000) wikibooks.aa (986780) wikinews.aa (455200) wikipedia.aa (972748) wikipedia.ab (972828) wikipedia.ac (972902) wikipedia.ad (972646) wikiquote.aa (994815) 
+   tam-eng: Tatoeba-train (1000000) wikibooks.aa (986780) wikinews.aa (455200) wikipedia.aa (972748) wikipedia.ab (972828) wikipedia.ac (972902) wikipedia.ad (972646) wikiquote.aa (994815) 
+   tam_Deva-eng: Tatoeba-train (4) 
+   tel-eng: Tatoeba-train (328547) 
+validation-data:
+   eng-kan: Tatoeba-dev, 993
+   eng-mal: Tatoeba-dev, 990
+   eng-tam: Tatoeba-dev, 996
+   eng-tel: Tatoeba-dev, 992
+   total-size-shuffled: 3963
+   devset-selected: top 3963  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.kan-eng: 167/1252
+   Tatoeba-test.mal-eng: 802/5558
+   Tatoeba-test.multi-eng: 1541/10641
+   Tatoeba-test.tam-eng: 311/2125
+   Tatoeba-test.tel-eng: 261/1706
+   tico19-test.tam-eng: 2100/56848
+BLEU-scores:
+   Tatoeba-test.kan-eng: 17.8
+   Tatoeba-test.mal-eng: 42.8
+   Tatoeba-test.multi-eng: 32.2
+   Tatoeba-test.tam-eng: 27.4
+   Tatoeba-test.tel-eng: 19.5
+   tico19-test.tam-eng: 13.6
+chr-F-scores:
+   Tatoeba-test.kan-eng: 0.404
+   Tatoeba-test.mal-eng: 0.602
+   Tatoeba-test.multi-eng: 0.519
+   Tatoeba-test.tam-eng: 0.460
+   Tatoeba-test.tel-eng: 0.405
+   tico19-test.tam-eng: 0.380

@@ -20,6 +20,7 @@
 | Tatoeba-test.multi.eng 	| 25.6 	| 0.410 |
 | Tatoeba-test.vie-eng.vie.eng 	| 36.8 	| 0.554 |
 
+
 # opus-2020-08-12.zip
 
 * dataset: opus
@@ -41,4 +42,31 @@
 | Tatoeba-test.mnw-eng.mnw.eng 	| 0.7 	| 0.110 |
 | Tatoeba-test.multi.eng 	| 24.5 	| 0.407 |
 | Tatoeba-test.vie-eng.vie.eng 	| 34.4 	| 0.529 |
+
+
+# opus1m+bt-2021-05-01.zip
+
+* dataset: opus1m+bt
+* model: transformer-align
+* source language(s): kha khm mnw ngt vie
+* target language(s): eng
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus1m+bt-2021-05-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus1m+bt-2021-05-01.zip)
+* test set translations: [opus1m+bt-2021-05-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus1m+bt-2021-05-01.test.txt)
+* test set scores: [opus1m+bt-2021-05-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus1m+bt-2021-05-01.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.kha-eng 	| 0.8 	| 0.115 	| 1314 	| 8445 	| 0.892 |
+| Tatoeba-test.khm-eng 	| 0.2 	| 0.129 	| 752 	| 4394 	| 1.000 |
+| Tatoeba-test.khm_Latn-eng 	| 0.8 	| 0.072 	| 11 	| 79 	| 1.000 |
+| Tatoeba-test.mnw-eng 	| 0.3 	| 0.090 	| 9 	| 86 	| 1.000 |
+| Tatoeba-test.multi-eng 	| 24.0 	| 0.391 	| 4592 	| 33266 	| 1.000 |
+| Tatoeba-test.ngt-eng 	| 0.4 	| 0.083 	| 17 	| 100 	| 1.000 |
+| Tatoeba-test.vie-eng 	| 37.8 	| 0.561 	| 2500 	| 20240 	| 0.942 |
+| Tatoeba-test.vie_Hani-eng 	| 0.0 	| 0.042 	| 1 	| 9 	| 0.000 |
+| tico19-test.khm-eng 	| 1.2 	| 0.190 	| 2100 	| 56848 	| 1.000 |
 

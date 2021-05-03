@@ -1,0 +1,30 @@
+release: mal-eng/opus+bt-2021-04-30.zip
+release-date: 2021-04-30
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - mal
+target-languages:
+   - eng
+training-data:
+   mal-eng: Tatoeba-train (1138268) wikibooks.aa (986780) wikinews.aa (455200) wikipedia.aa (972748) wikipedia.ab (972828) wikipedia.ac (972902) wikipedia.ad (972646) wikiquote.aa (994815) 
+validation-data:
+   eng-mal: Tatoeba-dev, 990
+   total-size-shuffled: 990
+   devset-selected: top 990  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.mal-eng: 802/5558
+BLEU-scores:
+   Tatoeba-test.mal-eng: 44.7
+chr-F-scores:
+   Tatoeba-test.mal-eng: 0.619

@@ -1,0 +1,120 @@
+release: bnt-eng/opus1m+bt-2021-05-01.zip
+release-date: 2021-05-01
+dataset-name: opus1m+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt.spm32k-spm32k.vocab.yml
+   target: opus1m+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - kin
+   - lin
+   - lug
+   - nya
+   - run
+   - sna
+   - swa
+   - swc
+   - swh
+   - toi
+   - tso
+   - umb
+   - xho
+   - zul
+target-languages:
+   - eng
+training-data:
+   kin-eng: Tatoeba-train (1000000) 
+   lin-eng: Tatoeba-train (572515) 
+   lug-eng: Tatoeba-train (257583) 
+   nya-eng: Tatoeba-train (889886) 
+   run-eng: Tatoeba-train (386480) wikibooks.aa (991041) wikinews.aa (456917) wikipedia.aa (980427) wikipedia.ab (980688) wikipedia.ac (980679) wikipedia.ad (980458) wikiquote.aa (996767) 
+   sna-eng: Tatoeba-train (817385) 
+   swa-eng: Tatoeba-train (1000000) wikibooks.aa (990754) wikinews.aa (457086) wikipedia.aa (980957) wikipedia.ab (981114) wikipedia.ac (981152) wikipedia.ad (980969) wikiquote.aa (996914) 
+   swc-eng: Tatoeba-train (553192) 
+   toi-eng: Tatoeba-train (331) 
+   toi_Latn-eng: Tatoeba-train (305249) 
+   tso-eng: Tatoeba-train (828111) 
+   umb-eng: Tatoeba-train (213843) 
+   xho-eng: Tatoeba-train (1000000) 
+   zul-eng: Tatoeba-train (1000000) 
+validation-data:
+   eng-kin: Tatoeba-dev, 1000
+   eng-lin: Tatoeba-dev, 1000
+   eng-lug: Tatoeba-dev, 1000
+   eng-nya: Tatoeba-dev, 1000
+   eng-run: Tatoeba-dev, 1000
+   eng-sna: Tatoeba-dev, 1000
+   eng-swa: Tatoeba-dev, 656
+   eng-swc: Tatoeba-dev, 344
+   eng-toi: Tatoeba-dev, 2
+   eng-toi_Latn: Tatoeba-dev, 998
+   eng-tso: Tatoeba-dev, 1000
+   eng-umb: Tatoeba-dev, 1000
+   eng-xho: Tatoeba-dev, 1000
+   eng-zul: Tatoeba-dev, 1000
+   total-size-shuffled: 11922
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.kin-eng: 17/113
+   Tatoeba-test.lin-eng: 28/236
+   Tatoeba-test.lug-eng: 2/13
+   Tatoeba-test.nya-eng: 22/128
+   Tatoeba-test.multi-eng: 2810/17076
+   Tatoeba-test.run-eng: 1703/10041
+   Tatoeba-test.sna-eng: 41/232
+   Tatoeba-test.swa-eng: 386/2499
+   Tatoeba-test.toi-eng: 2/12
+   Tatoeba-test.tso-eng: 3/15
+   Tatoeba-test.umb-eng: 32/130
+   Tatoeba-test.xho-eng: 152/973
+   Tatoeba-test.zul-eng: 34/173
+   tico19-test.kin-eng: 2100/56347
+   tico19-test.lin-eng: 2100/56347
+   tico19-test.lug-eng: 2100/56347
+   tico19-test.swa-eng: 2100/56339
+   tico19-test.zul-eng: 2100/56828
+BLEU-scores:
+   Tatoeba-test.kin-eng: 52.0
+   Tatoeba-test.lin-eng: 8.7
+   Tatoeba-test.lug-eng: 2.8
+   Tatoeba-test.nya-eng: 46.6
+   Tatoeba-test.multi-eng: 37.4
+   Tatoeba-test.run-eng: 34.5
+   Tatoeba-test.sna-eng: 20.7
+   Tatoeba-test.swa-eng: 45.1
+   Tatoeba-test.toi-eng: 8.0
+   Tatoeba-test.tso-eng: 52.4
+   Tatoeba-test.umb-eng: 6.3
+   Tatoeba-test.xho-eng: 38.6
+   Tatoeba-test.zul-eng: 43.4
+   tico19-test.kin-eng: 16.3
+   tico19-test.lin-eng: 12.7
+   tico19-test.lug-eng: 19.1
+   tico19-test.swa-eng: 27.7
+   tico19-test.zul-eng: 29.2
+chr-F-scores:
+   Tatoeba-test.kin-eng: 0.632
+   Tatoeba-test.lin-eng: 0.253
+   Tatoeba-test.lug-eng: 0.162
+   Tatoeba-test.nya-eng: 0.579
+   Tatoeba-test.multi-eng: 0.521
+   Tatoeba-test.run-eng: 0.491
+   Tatoeba-test.sna-eng: 0.400
+   Tatoeba-test.swa-eng: 0.594
+   Tatoeba-test.toi-eng: 0.207
+   Tatoeba-test.tso-eng: 0.655
+   Tatoeba-test.umb-eng: 0.221
+   Tatoeba-test.xho-eng: 0.557
+   Tatoeba-test.zul-eng: 0.615
+   tico19-test.kin-eng: 0.400
+   tico19-test.lin-eng: 0.355
+   tico19-test.lug-eng: 0.415
+   tico19-test.swa-eng: 0.530
+   tico19-test.zul-eng: 0.537

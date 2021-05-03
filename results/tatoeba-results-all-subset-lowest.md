@@ -21,6 +21,7 @@ to be useful for anything.
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.204 | 5.4 |
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.194 | 4.4 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.193 | 4.4 |
+| [cel-eng/opus1m+bt](../models/cel-eng) | tatoeba | 0.184 | 3.5 |
 | [cel-eng/opus4m](../models/cel-eng) | tatoeba | 0.177 | 3.2 |
 | [cel-eng/opus](../models/cel-eng) | tatoeba | 0.175 | 2.7 |
 | [cel-eng/opus2m](../models/cel-eng) | tatoeba | 0.172 | 3.0 |
@@ -101,6 +102,7 @@ to be useful for anything.
 | [gmq-eng/opus2m](../models/gmq-eng) | tatoeba | 0.447 | 24.4 |
 | [gem-eng/opus2m](../models/gem-eng) | tatoeba | 0.446 | 23.4 |
 | [gmq-eng/opus](../models/gmq-eng) | tatoeba | 0.445 | 23.1 |
+| [gmq-eng/opus1m+bt](../models/gmq-eng) | tatoeba | 0.444 | 25.3 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.402 | 21.3 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.179 | 2.2 |
 | | lang = fra-kab | | | | |
@@ -162,6 +164,7 @@ to be useful for anything.
 | [art-eng/opus2m](../models/art-eng) | tatoeba | 0.115 | 0.2 |
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.115 | 0.3 |
 | [art-eng/opus](../models/art-eng) | tatoeba | 0.113 | 0.2 |
+| [art-eng/opus1m+bt](../models/art-eng) | tatoeba | 0.104 | 0.1 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.096 | 0.1 |
 | | lang = kab-deu | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.213 | 5.4 |

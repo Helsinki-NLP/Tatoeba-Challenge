@@ -1,0 +1,61 @@
+release: phi-eng/opus1m+bt-2021-05-01.zip
+release-date: 2021-05-01
+dataset-name: opus1m+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt.spm32k-spm32k.vocab.yml
+   target: opus1m+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - akl
+   - ceb
+   - hil
+   - ilo
+   - pag
+   - war
+target-languages:
+   - eng
+training-data:
+   ceb-eng: Tatoeba-train (1000000) wikibooks.aa.eng-ceb (990980) wikinews.aa.eng-ceb (457101) wikipedia.aa.eng-ceb (981155) wikipedia.ab.eng-ceb (981305) wikipedia.ac.eng-ceb (981300) wikipedia.ad.eng-ceb (981212) wikiquote.aa.eng-ceb (996894) 
+   hil-eng: Tatoeba-train (861976) 
+   ilo-eng: Tatoeba-train (902043) wikibooks.aa (990980) wikinews.aa (457101) wikipedia.aa (981155) wikipedia.ab (981305) wikipedia.ac (981300) wikipedia.ad (981212) wikiquote.aa (996894) 
+   pag-eng: Tatoeba-train (163888) 
+   war-eng: Tatoeba-train (267579) wikibooks.aa (990749) wikinews.aa (457039) wikipedia.aa (980754) wikipedia.ab (980847) wikipedia.ac (980869) wikipedia.ad (980736) wikiquote.aa (996816) 
+validation-data:
+   ceb-eng: Tatoeba-dev, 1000
+   eng-hil: Tatoeba-dev, 1000
+   eng-ilo: Tatoeba-dev, 1000
+   eng-pag: Tatoeba-dev, 1000
+   eng-war: Tatoeba-dev, 1000
+   total-size-shuffled: 4967
+   devset-selected: top 4967  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.akl-eng: 27/87
+   Tatoeba-test.ceb-eng: 378/2292
+   Tatoeba-test.hil-eng: 22/150
+   Tatoeba-test.ilo-eng: 1093/7384
+   Tatoeba-test.multi-eng: 3081/21575
+   Tatoeba-test.pag-eng: 49/316
+   Tatoeba-test.war-eng: 1512/11342
+BLEU-scores:
+   Tatoeba-test.akl-eng: 17.7
+   Tatoeba-test.ceb-eng: 20.9
+   Tatoeba-test.hil-eng: 17.4
+   Tatoeba-test.ilo-eng: 37.2
+   Tatoeba-test.multi-eng: 25.5
+   Tatoeba-test.pag-eng: 28.6
+   Tatoeba-test.war-eng: 17.1
+chr-F-scores:
+   Tatoeba-test.akl-eng: 0.364
+   Tatoeba-test.ceb-eng: 0.386
+   Tatoeba-test.hil-eng: 0.398
+   Tatoeba-test.ilo-eng: 0.565
+   Tatoeba-test.multi-eng: 0.445
+   Tatoeba-test.pag-eng: 0.505
+   Tatoeba-test.war-eng: 0.358

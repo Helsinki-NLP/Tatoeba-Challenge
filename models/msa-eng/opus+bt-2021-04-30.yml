@@ -1,0 +1,64 @@
+release: msa-eng/opus+bt-2021-04-30.zip
+release-date: 2021-04-30
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ind
+   - jak
+   - max
+   - min
+   - msa
+   - tmw
+   - zlm
+   - zsm
+target-languages:
+   - eng
+training-data:
+   ind-eng: Tatoeba-train (10475951) wikinews.aa (457434) wikipedia.aa (983848) wikipedia.ab (984010) wikipedia.ac (983993) wikipedia.ad (983778) wikiquote.aa (997080) 
+   jak_Latn-eng: Tatoeba-train (13228) 
+   min-eng: Tatoeba-train (454) 
+   msa_Latn-eng: Tatoeba-train (3537300) 
+   zlm-eng: Tatoeba-train (247) 
+   zlm_Latn-eng: Tatoeba-train (77038) 
+validation-data:
+   eng-ind: Tatoeba-dev, 5654
+   eng-max_Latn: Tatoeba-dev, 154
+   eng-min: Tatoeba-dev, 19
+   eng-zlm_Latn: Tatoeba-dev, 30
+   eng-zsm_Latn: Tatoeba-dev, 714
+   total-size-shuffled: 6569
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.ind-eng: 4289/31352
+   Tatoeba-test.max_Latn-eng: 127/853
+   Tatoeba-test.min-eng: 19/173
+   Tatoeba-test.msa-eng: 5000/37033
+   Tatoeba-test.tmw_Latn-eng: 5/34
+   Tatoeba-test.zlm_Latn-eng: 24/179
+   Tatoeba-test.zsm_Latn-eng: 536/4437
+BLEU-scores:
+   Tatoeba-test.ind-eng: 47.6
+   Tatoeba-test.max_Latn-eng: 11.0
+   Tatoeba-test.min-eng: 4.3
+   Tatoeba-test.msa-eng: 46.8
+   Tatoeba-test.tmw_Latn-eng: 9.0
+   Tatoeba-test.zlm_Latn-eng: 29.2
+   Tatoeba-test.zsm_Latn-eng: 46.2
+chr-F-scores:
+   Tatoeba-test.ind-eng: 0.648
+   Tatoeba-test.max_Latn-eng: 0.301
+   Tatoeba-test.min-eng: 0.223
+   Tatoeba-test.msa-eng: 0.640
+   Tatoeba-test.tmw_Latn-eng: 0.244
+   Tatoeba-test.zlm_Latn-eng: 0.482
+   Tatoeba-test.zsm_Latn-eng: 0.631

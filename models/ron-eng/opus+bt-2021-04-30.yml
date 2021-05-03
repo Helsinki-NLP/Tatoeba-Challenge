@@ -1,0 +1,38 @@
+release: ron-eng/opus+bt-2021-04-30.zip
+release-date: 2021-04-30
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - mol
+   - ron
+target-languages:
+   - eng
+training-data:
+   mol-eng: Tatoeba-train (27) 
+   ron-eng: Tatoeba-train (60055087) wikinews.aa (457225) wikipedia.aa (982699) wikipedia.ab (982893) wikipedia.ac (982870) wikipedia.ad (982679) wikiquote.aa (997088) 
+validation-data:
+   eng-ron: Tatoeba-dev, 9627
+   total-size-shuffled: 9621
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   newsdev2016-enro.ron-eng: 1999/49526
+   newstest2016-enro.ron-eng: 1999/47563
+   Tatoeba-test.ron-eng: 5000/37125
+BLEU-scores:
+   newsdev2016-enro.ron-eng: 42.7
+   newstest2016-enro.ron-eng: 40.4
+   Tatoeba-test.ron-eng: 59.7
+chr-F-scores:
+   newsdev2016-enro.ron-eng: 0.667
+   newstest2016-enro.ron-eng: 0.643
+   Tatoeba-test.ron-eng: 0.737

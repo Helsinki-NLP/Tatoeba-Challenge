@@ -856,6 +856,11 @@ ${WIKI_LABELS}: %.langs.txt: %.id.gz
 ${RELEASEDIR}/wiki.langs.txt: ${WIKI_LABELS}
 	cat $^ | sort > $@
 
+wiki-size.tsv:
+	for l in ${WIKI_LANGS3}; do \
+	  echo -n "$$l	" >> $@; \
+	  zcat ${RELEASEDIR}/$$l/wikipedia.txt.gz | wc -l >> $@; \
+	done
 
 
 BT_CONTAINER = https://object.pouta.csc.fi/Tatoeba-MT-bt

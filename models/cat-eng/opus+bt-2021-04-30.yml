@@ -1,0 +1,30 @@
+release: cat-eng/opus+bt-2021-04-30.zip
+release-date: 2021-04-30
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - cat
+target-languages:
+   - eng
+training-data:
+   cat-eng: Tatoeba-train (936576) wikinews.aa.eng-cat (457439) wikipedia.aa.eng-cat (984262) wikipedia.ab.eng-cat (984522) wikipedia.ac.eng-cat (984421) wikipedia.ad.eng-cat (984217) wikiquote.aa.eng-cat (997158) 
+validation-data:
+   cat-eng: Tatoeba-dev, 1000
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.cat-eng: 1631/12627
+BLEU-scores:
+   Tatoeba-test.cat-eng: 54.1
+chr-F-scores:
+   Tatoeba-test.cat-eng: 0.699

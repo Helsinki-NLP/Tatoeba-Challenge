@@ -22,6 +22,7 @@
 
 
 
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -41,4 +42,25 @@
 | newsdev2019-enlt.lit-eng 	| 30.8 	| 0.580 	| 2000 	| 49666 	| 0.991 |
 | newstest2019-lten.lit-eng 	| 32.9 	| 0.613 	| 1000 	| 26079 	| 0.964 |
 | Tatoeba-test.lit-eng 	| 59.1 	| 0.734 	| 2500 	| 17688 	| 0.976 |
+
+
+# opus+bt-2021-04-30.zip
+
+* dataset: opus+bt
+* model: transformer-align
+* source language(s): lit
+* target language(s): eng
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus+bt-2021-04-30.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/lit-eng/opus+bt-2021-04-30.zip)
+* test set translations: [opus+bt-2021-04-30.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/lit-eng/opus+bt-2021-04-30.test.txt)
+* test set scores: [opus+bt-2021-04-30.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/lit-eng/opus+bt-2021-04-30.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newsdev2019-enlt.lit-eng 	| 31.2 	| 0.587 	| 2000 	| 49666 	| 0.990 |
+| newstest2019-lten.lit-eng 	| 33.2 	| 0.617 	| 1000 	| 26079 	| 0.964 |
+| Tatoeba-test.lit-eng 	| 59.5 	| 0.735 	| 2500 	| 17688 	| 0.976 |
 

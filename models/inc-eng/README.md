@@ -34,6 +34,7 @@
 | Tatoeba-test.snd-eng.snd.eng 	| 10.0 	| 0.330 |
 | Tatoeba-test.urd-eng.urd.eng 	| 28.0 	| 0.476 |
 
+
 # opus-2020-07-26.zip
 
 * dataset: opus
@@ -74,6 +75,7 @@
 | Tatoeba-test.sin-eng.sin.eng 	| 28.2 	| 0.507 |
 | Tatoeba-test.snd-eng.snd.eng 	| 38.5 	| 0.500 |
 | Tatoeba-test.urd-eng.urd.eng 	| 25.2 	| 0.451 |
+
 
 # opus2m-2020-08-01.zip
 
@@ -116,6 +118,7 @@
 | Tatoeba-test.snd-eng.snd.eng 	| 45.7 	| 0.670 |
 | Tatoeba-test.urd-eng.urd.eng 	| 25.6 	| 0.456 |
 
+
 # opus4m-2020-08-12.zip
 
 * dataset: opus4m
@@ -156,4 +159,52 @@
 | Tatoeba-test.sin-eng.sin.eng 	| 32.0 	| 0.525 |
 | Tatoeba-test.snd-eng.snd.eng 	| 38.5 	| 0.500 |
 | Tatoeba-test.urd-eng.urd.eng 	| 26.6 	| 0.468 |
+
+
+# opus1m+bt-2021-05-01.zip
+
+* dataset: opus1m+bt
+* model: transformer-align
+* source language(s): asm awa ben bho dty gbm gom guj hif hin mai mar nep npi ori pan pnb rmn rmy rom san sin snd urd
+* target language(s): eng
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus1m+bt-2021-05-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/inc-eng/opus1m+bt-2021-05-01.zip)
+* test set translations: [opus1m+bt-2021-05-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/inc-eng/opus1m+bt-2021-05-01.test.txt)
+* test set scores: [opus1m+bt-2021-05-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/inc-eng/opus1m+bt-2021-05-01.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newsdev2014.hin-eng 	| 11.6 	| 0.403 	| 520 	| 10406 	| 0.934 |
+| newsdev2019-engu.guj-eng 	| 13.4 	| 0.394 	| 1998 	| 41862 	| 1.000 |
+| newstest2014-hien.hin-eng 	| 17.6 	| 0.469 	| 2507 	| 55571 	| 0.998 |
+| newstest2019-guen.guj-eng 	| 8.6 	| 0.339 	| 1016 	| 17778 	| 1.000 |
+| Tatoeba-test.asm-eng 	| 19.2 	| 0.381 	| 117 	| 706 	| 1.000 |
+| Tatoeba-test.awa-eng 	| 14.8 	| 0.299 	| 279 	| 1335 	| 1.000 |
+| Tatoeba-test.ben-eng 	| 47.2 	| 0.619 	| 2500 	| 13978 	| 0.988 |
+| Tatoeba-test.bho-eng 	| 26.6 	| 0.458 	| 42 	| 283 	| 1.000 |
+| Tatoeba-test.gbm-eng 	| 17.1 	| 0.312 	| 39 	| 156 	| 1.000 |
+| Tatoeba-test.guj-eng 	| 21.4 	| 0.389 	| 154 	| 962 	| 1.000 |
+| Tatoeba-test.hif-eng 	| 4.1 	| 0.285 	| 36 	| 241 	| 0.962 |
+| Tatoeba-test.hin-eng 	| 42.4 	| 0.601 	| 5000 	| 33943 	| 0.972 |
+| Tatoeba-test.kok-eng 	| 4.2 	| 0.254 	| 1 	| 7 	| 1.000 |
+| Tatoeba-test.lah-eng 	| 14.4 	| 0.291 	| 32 	| 196 	| 1.000 |
+| Tatoeba-test.mai-eng 	| 41.0 	| 0.650 	| 8 	| 26 	| 0.920 |
+| Tatoeba-test.mar-eng 	| 45.0 	| 0.640 	| 10000 	| 64825 	| 1.000 |
+| Tatoeba-test.multi-eng 	| 40.2 	| 0.582 	| 10000 	| 64508 	| 1.000 |
+| Tatoeba-test.nep-eng 	| 24.7 	| 0.430 	| 115 	| 508 	| 1.000 |
+| Tatoeba-test.ori-eng 	| 0.3 	| 0.138 	| 33 	| 238 	| 1.000 |
+| Tatoeba-test.pan-eng 	| 18.1 	| 0.378 	| 87 	| 616 	| 1.000 |
+| Tatoeba-test.rom-eng 	| 5.8 	| 0.229 	| 671 	| 4457 	| 1.000 |
+| Tatoeba-test.san-eng 	| 2.7 	| 0.184 	| 144 	| 657 	| 1.000 |
+| Tatoeba-test.sin-eng 	| 30.6 	| 0.515 	| 45 	| 260 	| 0.981 |
+| Tatoeba-test.snd-eng 	| 28.1 	| 0.456 	| 4 	| 19 	| 1.000 |
+| Tatoeba-test.urd-eng 	| 27.7 	| 0.478 	| 1663 	| 12027 	| 0.990 |
+| tico19-test.ben-eng 	| 20.7 	| 0.480 	| 2100 	| 56848 	| 0.957 |
+| tico19-test.hin-eng 	| 27.9 	| 0.547 	| 2100 	| 56347 	| 0.978 |
+| tico19-test.mar-eng 	| 20.4 	| 0.502 	| 2100 	| 56339 	| 1.000 |
+| tico19-test.nep-eng 	| 24.6 	| 0.527 	| 2100 	| 56848 	| 0.973 |
+| tico19-test.urd-eng 	| 16.5 	| 0.425 	| 2100 	| 56339 	| 0.992 |
 

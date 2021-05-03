@@ -1,0 +1,271 @@
+release: roa-eng/opus1m+bt-2021-05-01.zip
+release-date: 2021-05-01
+dataset-name: opus1m+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt.spm32k-spm32k.vocab.yml
+   target: opus1m+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - arg
+   - ast
+   - cat
+   - cbk
+   - cos
+   - egl
+   - ext
+   - fra
+   - frm
+   - gcf
+   - glg
+   - hat
+   - ita
+   - lad
+   - lij
+   - lld
+   - lmo
+   - mfe
+   - mol
+   - mwl
+   - oci
+   - osp
+   - pap
+   - pms
+   - pob
+   - por
+   - roh
+   - ron
+   - scn
+   - spa
+   - vec
+   - wln
+target-languages:
+   - eng
+training-data:
+   arg-eng: Tatoeba-train (11151) 
+   ast-eng: Tatoeba-train (181561) 
+   cat-eng: Tatoeba-train (936576) wikibooks.aa.eng-cat (992251) wikinews.aa.eng-cat (457439) wikipedia.aa.eng-cat (984262) wikipedia.ab.eng-cat (984522) wikipedia.ac.eng-cat (984421) wikipedia.ad.eng-cat (984217) wikiquote.aa.eng-cat (997158) 
+   cbk_Latn-eng: Tatoeba-train (5) 
+   fra-eng: Tatoeba-train (1000000) wikibooks.aa (992788) wikinews.aa (457553) wikipedia.aa (984195) wikipedia.ab (984396) wikipedia.ac (984310) wikipedia.ad (984106) wikiquote.aa (997127) 
+   glg-eng: Tatoeba-train (557887) wikibooks.aa (992504) wikinews.aa (457298) wikipedia.aa (983009) wikipedia.ac (983195) wikipedia.ad (982968) wikiquote.aa (996906) 
+   hat-eng: Tatoeba-train (215472) 
+   ita-eng: Tatoeba-train (1000000) wikibooks.aa (992656) wikinews.aa (457579) wikipedia.aa (984586) wikipedia.ab (984825) wikipedia.ac (984774) wikipedia.ad (984507) wikiquote.aa (997287) 
+   mfe-eng: Tatoeba-train (159717) 
+   mol-eng: Tatoeba-train (27) 
+   oci-eng: Tatoeba-train (94749) 
+   pap-eng: Tatoeba-train (322780) 
+   pob-eng: Tatoeba-train (1000000) 
+   por-eng: Tatoeba-train (1000000) wikibooks.aa (992203) wikinews.aa (457269) wikipedia.aa (982964) wikipedia.ab (983112) wikipedia.ac (983103) wikipedia.ad (982888) wikiquote.aa (997011) 
+   ron-eng: Tatoeba-train (1000000) wikibooks.aa (992008) wikinews.aa (457225) wikipedia.aa (982699) wikipedia.ab (982893) wikipedia.ac (982870) wikipedia.ad (982679) wikiquote.aa (997088) 
+   spa-eng: Tatoeba-train (1000000) wikibooks.aa (992760) wikinews.aa (457540) wikipedia.aa (984088) wikipedia.ab (984319) wikipedia.ac (984273) wikipedia.ad (984009) wikiquote.aa (997197) 
+   wln-eng: Tatoeba-train (290233) 
+validation-data:
+   arg-eng: Tatoeba-dev, 1000
+   ast-eng: Tatoeba-dev, 1000
+   cat-eng: Tatoeba-dev, 1000
+   cbk_Latn-eng: Tatoeba-dev, 1000
+   cos-eng: Tatoeba-dev, 294
+   eng-ext: Tatoeba-dev, 7
+   eng-fra: Tatoeba-dev, 250098
+   eng-frm_Latn: Tatoeba-dev, 28
+   eng-glg: Tatoeba-dev, 1000
+   eng-hat: Tatoeba-dev, 1000
+   eng-ita: Tatoeba-dev, 470055
+   eng-lad: Tatoeba-dev, 7
+   eng-lad_Latn: Tatoeba-dev, 7
+   eng-lij: Tatoeba-dev, 9
+   eng-lld_Latn: Tatoeba-dev, 269
+   eng-lmo: Tatoeba-dev, 45
+   eng-mfe: Tatoeba-dev, 1000
+   eng-oci: Tatoeba-dev, 1000
+   eng-pap: Tatoeba-dev, 1000
+   eng-pms: Tatoeba-dev, 139
+   eng-por: Tatoeba-dev, 198580
+   eng-roh: Tatoeba-dev, 175
+   eng-ron: Tatoeba-dev, 9627
+   eng-scn: Tatoeba-dev, 1
+   eng-spa: Tatoeba-dev, 195195
+   eng-vec: Tatoeba-dev, 818
+   eng-wln: Tatoeba-dev, 1000
+   total-size-shuffled: 15284
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled
+test-data:
+   newsdev2016-enro.ron-eng: 1999/49526
+   newsdiscussdev2015-enfr.fra-eng: 1500/27759
+   newsdiscusstest2015-enfr.fra-eng: 1500/26995
+   newssyscomb2009.fra-eng: 502/11821
+   newssyscomb2009.ita-eng: 502/11821
+   newssyscomb2009.spa-eng: 502/11821
+   news-test2008.fra-eng: 2051/49380
+   news-test2008.spa-eng: 2051/49380
+   newstest2009.fra-eng: 2525/65402
+   newstest2009.ita-eng: 2525/65402
+   newstest2009.spa-eng: 2525/65402
+   newstest2010.fra-eng: 2489/61724
+   newstest2010.spa-eng: 2489/61724
+   newstest2011.fra-eng: 3003/74681
+   newstest2011.spa-eng: 3003/74681
+   newstest2012.fra-eng: 3003/72812
+   newstest2012.spa-eng: 3003/72812
+   newstest2013.fra-eng: 3000/64505
+   newstest2013.spa-eng: 3000/64505
+   newstest2014-fren.fra-eng: 3003/70708
+   newstest2016-enro.ron-eng: 1999/47563
+   Tatoeba-test.arg-eng: 105/451
+   Tatoeba-test.ast-eng: 99/802
+   Tatoeba-test.cat-eng: 1631/12625
+   Tatoeba-test.cbk-eng: 1498/10024
+   Tatoeba-test.cos-eng: 5/42
+   Tatoeba-test.egl-eng: 84/444
+   Tatoeba-test.ext-eng: 69/396
+   Tatoeba-test.fra-eng: 10000/77165
+   Tatoeba-test.frm-eng: 18/231
+   Tatoeba-test.gcf-eng: 99/570
+   Tatoeba-test.glg-eng: 1008/8364
+   Tatoeba-test.hat-eng: 64/384
+   Tatoeba-test.ita-eng: 10000/67384
+   Tatoeba-test.lad-eng: 629/3456
+   Tatoeba-test.lad_Latn-eng: 582/3200
+   Tatoeba-test.lij-eng: 94/698
+   Tatoeba-test.lld-eng: 21/226
+   Tatoeba-test.lmo-eng: 17/132
+   Tatoeba-test.mfe-eng: 7/35
+   Tatoeba-test.mwl-eng: 4/24
+   Tatoeba-test.oci-eng: 841/5299
+   Tatoeba-test.multi-eng: 10000/74266
+   Tatoeba-test.osp-eng: 3/21
+   Tatoeba-test.pap-eng: 70/366
+   Tatoeba-test.pms-eng: 268/2055
+   Tatoeba-test.por-eng: 10000/75224
+   Tatoeba-test.roh-eng: 16/214
+   Tatoeba-test.ron-eng: 5000/37123
+   Tatoeba-test.scn-eng: 4/44
+   Tatoeba-test.spa-eng: 10000/79355
+   Tatoeba-test.vec-eng: 19/127
+   Tatoeba-test.wln-eng: 89/465
+   tico19-test.fra-eng: 2100/56347
+   tico19-test.pob-eng: 2100/56339
+   tico19-test.por-eng: 2100/56339
+   tico19-test.spa-eng: 2100/56339
+BLEU-scores:
+   newsdev2016-enro.ron-eng: 36.2
+   newsdiscussdev2015-enfr.fra-eng: 30.9
+   newsdiscusstest2015-enfr.fra-eng: 35.8
+   newssyscomb2009.fra-eng: 29.7
+   newssyscomb2009.ita-eng: 32.3
+   newssyscomb2009.spa-eng: 29.4
+   news-test2008.fra-eng: 25.2
+   news-test2008.spa-eng: 26.3
+   newstest2009.fra-eng: 28.0
+   newstest2009.ita-eng: 31.7
+   newstest2009.spa-eng: 29.1
+   newstest2010.fra-eng: 29.9
+   newstest2010.spa-eng: 33.1
+   newstest2011.fra-eng: 30.9
+   newstest2011.spa-eng: 31.9
+   newstest2012.fra-eng: 31.2
+   newstest2012.spa-eng: 35.0
+   newstest2013.fra-eng: 31.6
+   newstest2013.spa-eng: 32.5
+   newstest2014-fren.fra-eng: 33.9
+   newstest2016-enro.ron-eng: 34.4
+   Tatoeba-test.arg-eng: 33.5
+   Tatoeba-test.ast-eng: 34.7
+   Tatoeba-test.cat-eng: 54.2
+   Tatoeba-test.cbk-eng: 18.6
+   Tatoeba-test.cos-eng: 65.9
+   Tatoeba-test.egl-eng: 3.6
+   Tatoeba-test.ext-eng: 43.9
+   Tatoeba-test.fra-eng: 52.4
+   Tatoeba-test.frm-eng: 21.3
+   Tatoeba-test.gcf-eng: 12.6
+   Tatoeba-test.glg-eng: 54.8
+   Tatoeba-test.hat-eng: 43.7
+   Tatoeba-test.ita-eng: 64.9
+   Tatoeba-test.lad-eng: 22.8
+   Tatoeba-test.lad_Latn-eng: 31.7
+   Tatoeba-test.lij-eng: 11.4
+   Tatoeba-test.lld-eng: 15.7
+   Tatoeba-test.lmo-eng: 10.3
+   Tatoeba-test.mfe-eng: 72.0
+   Tatoeba-test.mwl-eng: 36.6
+   Tatoeba-test.oci-eng: 20.2
+   Tatoeba-test.multi-eng: 55.2
+   Tatoeba-test.osp-eng: 51.4
+   Tatoeba-test.pap-eng: 63.5
+   Tatoeba-test.pms-eng: 9.8
+   Tatoeba-test.por-eng: 60.0
+   Tatoeba-test.roh-eng: 16.6
+   Tatoeba-test.ron-eng: 51.9
+   Tatoeba-test.scn-eng: 54.3
+   Tatoeba-test.spa-eng: 56.4
+   Tatoeba-test.vec-eng: 17.2
+   Tatoeba-test.wln-eng: 14.7
+   tico19-test.fra-eng: 35.7
+   tico19-test.pob-eng: 46.8
+   tico19-test.por-eng: 46.8
+   tico19-test.spa-eng: 43.9
+chr-F-scores:
+   newsdev2016-enro.ron-eng: 0.625
+   newsdiscussdev2015-enfr.fra-eng: 0.559
+   newsdiscusstest2015-enfr.fra-eng: 0.591
+   newssyscomb2009.fra-eng: 0.563
+   newssyscomb2009.ita-eng: 0.582
+   newssyscomb2009.spa-eng: 0.562
+   news-test2008.fra-eng: 0.533
+   news-test2008.spa-eng: 0.540
+   newstest2009.fra-eng: 0.553
+   newstest2009.ita-eng: 0.579
+   newstest2009.spa-eng: 0.561
+   newstest2010.fra-eng: 0.572
+   newstest2010.spa-eng: 0.594
+   newstest2011.fra-eng: 0.582
+   newstest2011.spa-eng: 0.583
+   newstest2012.fra-eng: 0.578
+   newstest2012.spa-eng: 0.605
+   newstest2013.fra-eng: 0.573
+   newstest2013.spa-eng: 0.590
+   newstest2014-fren.fra-eng: 0.607
+   newstest2016-enro.ron-eng: 0.603
+   Tatoeba-test.arg-eng: 0.465
+   Tatoeba-test.ast-eng: 0.502
+   Tatoeba-test.cat-eng: 0.700
+   Tatoeba-test.cbk-eng: 0.414
+   Tatoeba-test.cos-eng: 0.691
+   Tatoeba-test.egl-eng: 0.163
+   Tatoeba-test.ext-eng: 0.571
+   Tatoeba-test.fra-eng: 0.681
+   Tatoeba-test.frm-eng: 0.379
+   Tatoeba-test.gcf-eng: 0.271
+   Tatoeba-test.glg-eng: 0.703
+   Tatoeba-test.hat-eng: 0.589
+   Tatoeba-test.ita-eng: 0.768
+   Tatoeba-test.lad-eng: 0.448
+   Tatoeba-test.lad_Latn-eng: 0.487
+   Tatoeba-test.lij-eng: 0.286
+   Tatoeba-test.lld-eng: 0.288
+   Tatoeba-test.lmo-eng: 0.295
+   Tatoeba-test.mfe-eng: 0.861
+   Tatoeba-test.mwl-eng: 0.600
+   Tatoeba-test.oci-eng: 0.391
+   Tatoeba-test.multi-eng: 0.699
+   Tatoeba-test.osp-eng: 0.699
+   Tatoeba-test.pap-eng: 0.706
+   Tatoeba-test.pms-eng: 0.301
+   Tatoeba-test.por-eng: 0.742
+   Tatoeba-test.roh-eng: 0.392
+   Tatoeba-test.ron-eng: 0.679
+   Tatoeba-test.scn-eng: 0.481
+   Tatoeba-test.spa-eng: 0.715
+   Tatoeba-test.vec-eng: 0.352
+   Tatoeba-test.wln-eng: 0.318
+   tico19-test.fra-eng: 0.607
+   tico19-test.pob-eng: 0.727
+   tico19-test.por-eng: 0.727
+   tico19-test.spa-eng: 0.710

@@ -1,0 +1,57 @@
+release: rus-eng/opus+bt-2021-04-30.zip
+release-date: 2021-04-30
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - rus
+target-languages:
+   - eng
+training-data:
+   rus-eng: Tatoeba-train (60191751) wikinews.aa (457492) wikipedia.ab (984132) wikipedia.ac (984097) wikipedia.ad (983846) wikiquote.aa (997223) 
+validation-data:
+   eng-rus: Tatoeba-dev, 491482
+   total-size-shuffled: 491470
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   newstest2012.rus-eng: 3003/72812
+   newstest2013.rus-eng: 3000/64505
+   newstest2014-ruen.rus-eng: 3003/69190
+   newstest2015-enru.rus-eng: 2818/64744
+   newstest2016-enru.rus-eng: 2998/69278
+   newstest2017-enru.rus-eng: 3001/69033
+   newstest2018-enru.rus-eng: 3000/71723
+   newstest2019-ruen.rus-eng: 2000/42875
+   Tatoeba-test.rus-eng: 10000/72902
+   tico19-test.rus-eng: 2100/56347
+BLEU-scores:
+   newstest2012.rus-eng: 35.5
+   newstest2013.rus-eng: 28.5
+   newstest2014-ruen.rus-eng: 33.9
+   newstest2015-enru.rus-eng: 31.1
+   newstest2016-enru.rus-eng: 30.8
+   newstest2017-enru.rus-eng: 34.7
+   newstest2018-enru.rus-eng: 30.3
+   newstest2019-ruen.rus-eng: 32.6
+   Tatoeba-test.rus-eng: 57.7
+   tico19-test.rus-eng: 30.2
+chr-F-scores:
+   newstest2012.rus-eng: 0.612
+   newstest2013.rus-eng: 0.551
+   newstest2014-ruen.rus-eng: 0.605
+   newstest2015-enru.rus-eng: 0.577
+   newstest2016-enru.rus-eng: 0.575
+   newstest2017-enru.rus-eng: 0.605
+   newstest2018-enru.rus-eng: 0.574
+   newstest2019-ruen.rus-eng: 0.591
+   Tatoeba-test.rus-eng: 0.715
+   tico19-test.rus-eng: 0.609

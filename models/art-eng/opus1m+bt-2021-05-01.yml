@@ -1,0 +1,140 @@
+release: art-eng/opus1m+bt-2021-05-01.zip
+release-date: 2021-05-01
+dataset-name: opus1m+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt.spm32k-spm32k.vocab.yml
+   target: opus1m+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - afh
+   - avk
+   - bzt
+   - dws
+   - epo
+   - ido
+   - ile
+   - ina
+   - jbo
+   - ldn
+   - lfn
+   - nov
+   - qya
+   - sjn
+   - tlh
+   - tzl
+   - vol
+target-languages:
+   - eng
+training-data:
+   epo-eng: Tatoeba-train (402180) wikibooks.aa (991905) wikinews.aa (457337) wikipedia.aa (983705) wikipedia.ab (983883) wikipedia.ac (983873) wikipedia.ad (983675) wikiquote.aa (996991) 
+   ido-eng: Tatoeba-train (244) wikibooks.aa (992137) wikinews.aa (457241) wikipedia.aa (982423) wikipedia.ab (982571) wikipedia.ac (982558) wikipedia.ad (982417) wikiquote.aa (996971) 
+   ido_Latn-eng: Tatoeba-train (35310) 
+   ile-eng: Tatoeba-train (5) 
+   ile_Latn-eng: Tatoeba-train (197) 
+   ina_Latn-eng: Tatoeba-train (27489) 
+   jbo-eng: Tatoeba-train (29) 
+   jbo_Latn-eng: Tatoeba-train (1550) 
+   lfn_Latn-eng: Tatoeba-train (4) 
+   tlh_Latn-eng: Tatoeba-train (125) 
+   vol_Latn-eng: Tatoeba-train (7) 
+validation-data:
+   eng-epo: Tatoeba-dev, 235834
+   eng-ido: Tatoeba-dev, 1000
+   eng-ido_Latn: Tatoeba-dev, 1000
+   eng-ile: Tatoeba-dev, 1000
+   eng-ile_Latn: Tatoeba-dev, 1000
+   eng-ina_Latn: Tatoeba-dev, 5780
+   eng-jbo: Tatoeba-dev, 3
+   eng-jbo_Latn: Tatoeba-dev, 6902
+   eng-lfn_Cyrl: Tatoeba-dev, 248
+   eng-lfn_Latn: Tatoeba-dev, 752
+   eng-nov_Latn: Tatoeba-dev, 1
+   eng-tlh_Latn: Tatoeba-dev, 8201
+   eng-vol_Latn: Tatoeba-dev, 1000
+   total-size-shuffled: 7995
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.afh-eng: 10/54
+   Tatoeba-test.avk-eng: 167/1238
+   Tatoeba-test.bzt-eng: 62/328
+   Tatoeba-test.dws-eng: 10/52
+   Tatoeba-test.epo-eng: 10000/79703
+   Tatoeba-test.ido-eng: 1968/14120
+   Tatoeba-test.ido_Latn-eng: 1967/14114
+   Tatoeba-test.ile-eng: 1711/10439
+   Tatoeba-test.ina-eng: 5000/42826
+   Tatoeba-test.jbo_Cyrl-eng: 1/13
+   Tatoeba-test.jbo-eng: 5000/34483
+   Tatoeba-test.jbo_Latn-eng: 4996/34454
+   Tatoeba-test.ldn-eng: 101/575
+   Tatoeba-test.lfn_Cyrl-eng: 847/5583
+   Tatoeba-test.lfn-eng: 3297/22209
+   Tatoeba-test.lfn_Latn-eng: 2450/16626
+   Tatoeba-test.nov-eng: 198/1318
+   Tatoeba-test.multi-eng: 10000/73214
+   Tatoeba-test.qya-eng: 116/664
+   Tatoeba-test.qya_Latn-eng: 115/654
+   Tatoeba-test.sjn-eng: 44/235
+   Tatoeba-test.tlh-eng: 5000/33078
+   Tatoeba-test.tzl-eng: 166/725
+   Tatoeba-test.tzl_Latn-eng: 165/723
+   Tatoeba-test.vol-eng: 1549/9888
+BLEU-scores:
+   Tatoeba-test.afh-eng: 1.7
+   Tatoeba-test.avk-eng: 0.4
+   Tatoeba-test.bzt-eng: 1.7
+   Tatoeba-test.dws-eng: 1.2
+   Tatoeba-test.epo-eng: 42.1
+   Tatoeba-test.ido-eng: 32.5
+   Tatoeba-test.ido_Latn-eng: 32.5
+   Tatoeba-test.ile-eng: 13.1
+   Tatoeba-test.ina-eng: 16.6
+   Tatoeba-test.jbo_Cyrl-eng: 0.3
+   Tatoeba-test.jbo-eng: 0.1
+   Tatoeba-test.jbo_Latn-eng: 0.1
+   Tatoeba-test.ldn-eng: 0.8
+   Tatoeba-test.lfn_Cyrl-eng: 0.2
+   Tatoeba-test.lfn-eng: 7.3
+   Tatoeba-test.lfn_Latn-eng: 8.8
+   Tatoeba-test.nov-eng: 15.2
+   Tatoeba-test.multi-eng: 20.0
+   Tatoeba-test.qya-eng: 0.9
+   Tatoeba-test.qya_Latn-eng: 0.9
+   Tatoeba-test.sjn-eng: 0.6
+   Tatoeba-test.tlh-eng: 0.3
+   Tatoeba-test.tzl-eng: 1.0
+   Tatoeba-test.tzl_Latn-eng: 1.0
+   Tatoeba-test.vol-eng: 0.7
+chr-F-scores:
+   Tatoeba-test.afh-eng: 0.090
+   Tatoeba-test.avk-eng: 0.108
+   Tatoeba-test.bzt-eng: 0.124
+   Tatoeba-test.dws-eng: 0.059
+   Tatoeba-test.epo-eng: 0.605
+   Tatoeba-test.ido-eng: 0.512
+   Tatoeba-test.ido_Latn-eng: 0.512
+   Tatoeba-test.ile-eng: 0.323
+   Tatoeba-test.ina-eng: 0.399
+   Tatoeba-test.jbo_Cyrl-eng: 0.000
+   Tatoeba-test.jbo-eng: 0.104
+   Tatoeba-test.jbo_Latn-eng: 0.104
+   Tatoeba-test.ldn-eng: 0.097
+   Tatoeba-test.lfn_Cyrl-eng: 0.054
+   Tatoeba-test.lfn-eng: 0.227
+   Tatoeba-test.lfn_Latn-eng: 0.283
+   Tatoeba-test.nov-eng: 0.361
+   Tatoeba-test.multi-eng: 0.364
+   Tatoeba-test.qya-eng: 0.102
+   Tatoeba-test.qya_Latn-eng: 0.102
+   Tatoeba-test.sjn-eng: 0.081
+   Tatoeba-test.tlh-eng: 0.109
+   Tatoeba-test.tzl-eng: 0.156
+   Tatoeba-test.tzl_Latn-eng: 0.156
+   Tatoeba-test.vol-eng: 0.122

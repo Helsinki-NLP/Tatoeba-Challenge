@@ -1,7 +1,10 @@
-release: mkd-eng/opus-2021-02-18.zip
-release-date: 2021-02-18
-dataset-name: opus
+release: mkd-eng/opus+bt-2021-04-30.zip
+release-date: 2021-04-30
+dataset-name: opus+bt
 modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
 pre-processing: normalization + SentencePiece (spm32k,spm32k)
 subwords:
    source: spm32k
@@ -14,7 +17,7 @@ source-languages:
 target-languages:
    - eng
 training-data:
-   eng-mkd: Tatoeba-train (3662065) 
+   mkd-eng: Tatoeba-train (3662065) wikinews.aa (457338) wikipedia.aa (982611) wikipedia.ab (982777) wikipedia.ac (982782) wikipedia.ad (982609) wikiquote.aa (997218) 
 validation-data:
    eng-mkd: Tatoeba-dev, 70284
    total-size-shuffled: 70284

@@ -1,0 +1,35 @@
+release: ido-eng/opus+bt-2021-04-30.zip
+release-date: 2021-04-30
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ido
+target-languages:
+   - eng
+training-data:
+   ido-eng: Tatoeba-train (244) wikibooks.aa (992137) wikinews.aa (457241) wikipedia.aa (982423) wikipedia.ab (982571) wikipedia.ac (982558) wikipedia.ad (982417) wikiquote.aa (996971) 
+   ido_Latn-eng: Tatoeba-train (35310) 
+validation-data:
+   eng-ido: Tatoeba-dev, 1000
+   eng-ido_Latn: Tatoeba-dev, 1000
+   total-size-shuffled: 996
+   devset-selected: top 996  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.ido_Latn-eng: 1967/14114
+   Tatoeba-test.ido-eng: 1968/14126
+BLEU-scores:
+   Tatoeba-test.ido_Latn-eng: 31.0
+   Tatoeba-test.ido-eng: 31.2
+chr-F-scores:
+   Tatoeba-test.ido_Latn-eng: 0.495
+   Tatoeba-test.ido-eng: 0.499

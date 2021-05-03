@@ -1,0 +1,37 @@
+release: swa-eng/opus+bt-2021-04-30.zip
+release-date: 2021-04-30
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - swa
+   - swc
+   - swh
+target-languages:
+   - eng
+training-data:
+   swa-eng: Tatoeba-train (1120361) wikinews.aa (457086) wikipedia.aa (980957) wikipedia.ab (981114) wikipedia.ac (981152) wikipedia.ad (980969) wikiquote.aa (996914) 
+   swc-eng: Tatoeba-train (553192) 
+validation-data:
+   eng-swa: Tatoeba-dev, 656
+   eng-swc: Tatoeba-dev, 344
+   total-size-shuffled: 993
+   devset-selected: top 993  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.swa-eng: 772/4998
+   tico19-test.swa-eng: 2100/56339
+BLEU-scores:
+   Tatoeba-test.swa-eng: 47.7
+   tico19-test.swa-eng: 29.2
+chr-F-scores:
+   Tatoeba-test.swa-eng: 0.625
+   tico19-test.swa-eng: 0.540

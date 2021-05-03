@@ -1,0 +1,30 @@
+release: gle-eng/opus+bt-2021-04-30.zip
+release-date: 2021-04-30
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - gle
+target-languages:
+   - eng
+training-data:
+   gle-eng: Tatoeba-train (1660054) wikinews.aa (457051) wikipedia.aa (982160) wikipedia.ab (982363) wikipedia.ac (982400) wikipedia.ad (982150) wikiquote.aa (996746) 
+validation-data:
+   eng-gle: Tatoeba-dev, 1000
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.gle-eng: 1924/11247
+BLEU-scores:
+   Tatoeba-test.gle-eng: 54.3
+chr-F-scores:
+   Tatoeba-test.gle-eng: 0.686

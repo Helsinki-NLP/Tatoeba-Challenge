@@ -1,0 +1,79 @@
+release: zls-eng/opus1m+bt-2021-05-02.zip
+release-date: 2021-05-02
+dataset-name: opus1m+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt.spm32k-spm32k.vocab.yml
+   target: opus1m+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bos
+   - bul
+   - cnr
+   - hbs
+   - hrv
+   - mkd
+   - slv
+   - srp
+target-languages:
+   - eng
+training-data:
+   bos_Cyrl-eng: Tatoeba-train (225) 
+   bos_Latn-eng: Tatoeba-train (1000000) wikibooks.aa.eng-bos_Latn (991831) wikinews.aa.eng-bos_Latn (457123) wikipedia.aa.eng-bos_Latn (982309) wikipedia.ab.eng-bos_Latn (982484) wikipedia.ac.eng-bos_Latn (982532) wikipedia.ad.eng-bos_Latn (982323) wikiquote.aa.eng-bos_Latn (996992) 
+   bul-eng: Tatoeba-train (1000000) wikibooks.aa.eng-bul (992348) wikinews.aa.eng-bul (457282) wikipedia.aa.eng-bul (983123) wikipedia.ab.eng-bul (983227) wikipedia.ac.eng-bul (983274) wikipedia.ad.eng-bul (983072) wikiquote.aa.eng-bul (997174) 
+   cnr-eng: Tatoeba-train (13) 
+   cnr_Latn-eng: Tatoeba-train (56214) 
+   hbs-eng: Tatoeba-train (12895) 
+   hbs_Cyrl-eng: Tatoeba-train (334) 
+   hrv-eng: Tatoeba-train (1000000) wikibooks.aa (991933) wikinews.aa (457344) wikipedia.aa (983358) wikipedia.ab (983564) wikipedia.ac (983550) wikipedia.ad (983346) wikiquote.aa (997151) 
+   mkd-eng: Tatoeba-train (1000000) wikibooks.aa (991689) wikinews.aa (457338) wikipedia.aa (982611) wikipedia.ab (982777) wikipedia.ac (982782) wikipedia.ad (982609) wikiquote.aa (997218) 
+   slv-eng: Tatoeba-train (1000000) 
+   srp_Cyrl-eng: Tatoeba-train (1000000) wikibooks.aa (991933) wikinews.aa (457344) wikipedia.aa (983358) wikipedia.ab (983564) wikipedia.ac (983550) wikipedia.ad (983346) wikiquote.aa (997151) 
+   srp_Latn-eng: Tatoeba-train (1000000) wikibooks.aa (991933) wikinews.aa (457344) wikipedia.aa (983358) wikipedia.ab (983564) wikipedia.ac (983550) wikipedia.ad (983346) wikiquote.aa (997151) 
+validation-data:
+   bos_Latn-eng: Tatoeba-dev, 199
+   bul-eng: Tatoeba-dev, 7754
+   eng-hbs: Tatoeba-dev, 6431
+   eng-hrv: Tatoeba-dev, 947
+   eng-mkd: Tatoeba-dev, 70284
+   eng-slv: Tatoeba-dev, 1000
+   eng-srp_Cyrl: Tatoeba-dev, 1049
+   eng-srp_Latn: Tatoeba-dev, 4236
+   total-size-shuffled: 6127
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.bos_Latn-eng: 300/1818
+   Tatoeba-test.bul-eng: 10000/71861
+   Tatoeba-test.hbs-eng: 10000/68833
+   Tatoeba-test.hrv-eng: 1468/10556
+   Tatoeba-test.mkd-eng: 10000/65601
+   Tatoeba-test.multi-eng: 10000/68639
+   Tatoeba-test.slv-eng: 2007/13702
+   Tatoeba-test.srp_Cyrl-eng: 1577/10162
+   Tatoeba-test.srp_Latn-eng: 6655/46297
+BLEU-scores:
+   Tatoeba-test.bos_Latn-eng: 59.9
+   Tatoeba-test.bul-eng: 54.2
+   Tatoeba-test.hbs-eng: 54.5
+   Tatoeba-test.hrv-eng: 54.2
+   Tatoeba-test.mkd-eng: 53.8
+   Tatoeba-test.multi-eng: 53.0
+   Tatoeba-test.slv-eng: 25.1
+   Tatoeba-test.srp_Cyrl-eng: 51.5
+   Tatoeba-test.srp_Latn-eng: 55.0
+chr-F-scores:
+   Tatoeba-test.bos_Latn-eng: 0.757
+   Tatoeba-test.bul-eng: 0.689
+   Tatoeba-test.hbs-eng: 0.692
+   Tatoeba-test.hrv-eng: 0.702
+   Tatoeba-test.mkd-eng: 0.675
+   Tatoeba-test.multi-eng: 0.675
+   Tatoeba-test.slv-eng: 0.402
+   Tatoeba-test.srp_Cyrl-eng: 0.669
+   Tatoeba-test.srp_Latn-eng: 0.692

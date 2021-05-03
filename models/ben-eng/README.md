@@ -20,6 +20,7 @@
 
 
 
+
 # opus-2021-02-23.zip
 
 * dataset: opus
@@ -38,4 +39,24 @@
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.ben-eng 	| 49.7 	| 0.639 	| 2500 	| 13978 	| 0.976 |
 | tico19-test.ben-eng 	| 15.8 	| 0.425 	| 2100 	| 56848 	| 0.900 |
+
+
+# opus+bt-2021-04-30.zip
+
+* dataset: opus+bt
+* model: transformer-align
+* source language(s): ben
+* target language(s): eng
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus+bt-2021-04-30.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/ben-eng/opus+bt-2021-04-30.zip)
+* test set translations: [opus+bt-2021-04-30.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ben-eng/opus+bt-2021-04-30.test.txt)
+* test set scores: [opus+bt-2021-04-30.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ben-eng/opus+bt-2021-04-30.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.ben-eng 	| 50.1 	| 0.644 	| 2500 	| 13978 	| 0.987 |
+| tico19-test.ben-eng 	| 19.1 	| 0.470 	| 2100 	| 56848 	| 0.971 |
 
