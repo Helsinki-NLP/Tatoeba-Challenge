@@ -192,12 +192,20 @@ UPDATED_TEST_DATA = ${patsubst %,${DEVTESTDIR}/%/test-${TATOEBA_VERSION}.txt,${T
 
 
 
-
-
-
-
 ## statistics of all files
-STATISTICS  = ${DATADIR}/README-${VERSION}.md
+STATISTICS  = 		${DATADIR}/README-${VERSION}.md
+DATA_COUNT_FILES = 	${RELEASEDIR}/released-bitexts.txt \
+			${RELEASEDIR}/released-bitexts-no-test.txt \
+			${RELEASEDIR}/released-bitexts-insufficient.txt \
+			${RELEASEDIR}/released-bitexts-highest.txt \
+			${RELEASEDIR}/released-bitexts-higher.txt \
+			${RELEASEDIR}/released-bitexts-medium.txt \
+			${RELEASEDIR}/released-bitexts-lower.txt \
+			${RELEASEDIR}/released-bitexts-lowest.txt \
+			${RELEASEDIR}/released-bitexts-zero-shot.txt \
+			${RELEASEDIR}/released-bitexts-min200.txt \
+			${RELEASEDIR}/released-bitexts-min1000.txt
+
 
 
 DOWNLOADURL        := https://object.pouta.csc.fi
@@ -267,6 +275,7 @@ all: opus-langs.txt
 	${MAKE} subsets
 	${MAKE} extra-traindata
 	${MAKE} extra-statistics
+	${MAKE} released-data-counts
 	${MAKE} release-tag
 
 release:
@@ -293,10 +302,15 @@ release-tag:
 	git add ${DEVDATADIR}/*/*.txt
 	git add ${DEVTESTDIR}/*/*.txt
 	git add ${DATADIR}/*-${VERSION}.md ${DATADIR}/subsets/*.md ${DATADIR}/subsets/${VERSION}/*.md
+	git add ${DATA_COUNT_FILES}
 	git commit -am 'updated dev and test data (${VERSION})'
 	git tag -a ${VERSION} -m "release version ${VERSION}"
 	git push origin master
 	git push origin ${VERSION}
+
+
+.PHONY: released-data-counts
+released-data-counts: 	${DATA_COUNT_FILES}
 
 
 ## generate readme file
@@ -324,6 +338,7 @@ testset-all: opus-langs.txt
 	${MAKE} testdata
 	${MAKE} devdata
 	${MAKE} dev-tsv test-tsv
+	${MAKE} released-data-counts
 	${MAKE} testset-release-tag
 
 testset-release: 
@@ -348,6 +363,7 @@ testset-release-tag:
 	git add ${TESTDATADIR}/*/*.txt
 	git add ${DEVDATADIR}/*/*.txt
 	git add ${DEVTESTDIR}/*/*.txt
+	git add ${DATA_COUNT_FILES}
 	git commit -am 'updated dev and test data (${VERSION})'
 	git tag -a ${VERSION} -m "release version ${VERSION}"
 	git push origin master
@@ -904,6 +920,70 @@ ${DATADIR}/Backtranslations.md:
 
 ${DATADIR}/README.md: ${DATADIR}/README-${VERSION}.md
 	cp $< $@
+
+
+## some statistics about the size of data
+
+
+
+${RELEASEDIR}/released-bitexts-no-test.txt: ${RELEASEDIR}/released-bitexts.txt
+	grep -v '^#' $< | awk -F "\t" '$$4 < 1' > $@
+
+${RELEASEDIR}/released-bitexts-insufficient.txt: ${RELEASEDIR}/released-bitexts.txt
+	grep -v '^#' $< | awk -F "\t" '$$4 < 200' > $@
+
+${RELEASEDIR}/released-bitexts-min200.txt: ${RELEASEDIR}/released-bitexts.txt
+	grep -v '^#' $< | awk -F "\t" '$$4 >= 200' > $@
+
+${RELEASEDIR}/released-bitexts-min1000.txt: ${RELEASEDIR}/released-bitexts.txt
+	grep -v '^#' $< | awk -F "\t" '$$4 >= 1000' > $@
+
+${RELEASEDIR}/released-bitexts-highest.txt: ${RELEASEDIR}/released-bitexts.txt
+	grep -v '^#' $< | awk -F "\t" '$$4 >= 200' | awk -F "\t" '$$10 >= 10000000' > $@
+
+${RELEASEDIR}/released-bitexts-higher.txt: ${RELEASEDIR}/released-bitexts.txt
+	grep -v '^#' $< | awk -F "\t" '$$4 >= 200' | awk -F "\t" '$$10 < 10000000' | awk -F "\t" '$$10 >= 1000000' > $@
+
+${RELEASEDIR}/released-bitexts-medium.txt: ${RELEASEDIR}/released-bitexts.txt
+	grep -v '^#' $< | awk -F "\t" '$$4 >= 200' | awk -F "\t" '$$10 < 1000000' | awk -F "\t" '$$10 >= 100000' > $@
+
+${RELEASEDIR}/released-bitexts-lower.txt: ${RELEASEDIR}/released-bitexts.txt
+	grep -v '^#' $< | awk -F "\t" '$$4 >= 200' | awk -F "\t" '$$10 < 100000' | awk -F "\t" '$$10 >= 10000' > $@
+
+${RELEASEDIR}/released-bitexts-lowest.txt: ${RELEASEDIR}/released-bitexts.txt
+	grep -v '^#' $< | awk -F "\t" '$$4 >= 200' | awk -F "\t" '$$10 < 10000' | awk -F "\t" '$$10 >= 1' > $@
+
+${RELEASEDIR}/released-bitexts-zero-shot.txt: ${RELEASEDIR}/released-bitexts.txt
+	grep -v '^#' $< | awk -F "\t" '$$4 >= 200' | awk -F "\t" '$$10 < 1' > $@
+
+
+#	for l in ${TATOEBA_PAIRS3}; do \
+
+${RELEASEDIR}/released-bitexts.txt:
+	echo "# langpair	source-lang	target-lang	test-size	test-source	test-target	dev-size	dev-source	dev-target	train-size	train-source	train-target" > $@
+	for l in `find ${RELEASEDIR} -maxdepth 1 -mindepth 1 -type d -name '*-*' -printf "%f\n" | sort`; do \
+	  echo -n "$$l	" >> $@; \
+	  echo "$$l" | tr '-' ' '  | xargs iso639 | sed 's/" "/\t/;s/"//g' | tr "\n" "\t" >> $@; \
+	  if [ -s ${RELEASEDIR}/$$l/test.id ]; then \
+	    cat ${RELEASEDIR}/$$l/test.src | wc -lw | sed 's/^ *//;s/  */\t/g' | tr "\n" "\t" >> $@; \
+	    cat ${RELEASEDIR}/$$l/test.trg | wc -w | sed 's/^ *//;s/  */\t/g'  | tr "\n" "\t" >> $@; \
+	  else \
+	    echo -n "			" >> $@; \
+	  fi; \
+	  if [ -s ${RELEASEDIR}/$$l/dev.id ]; then \
+	    cat ${RELEASEDIR}/$$l/dev.src | wc -lw | sed 's/^ *//;s/  */\t/g' | tr "\n" "\t" >> $@; \
+	    cat ${RELEASEDIR}/$$l/dev.trg | wc -w | sed 's/^ *//;s/  */\t/g'  | tr "\n" "\t" >> $@; \
+	  else \
+	    echo -n "			" >> $@; \
+	  fi; \
+	  if [ -e ${RELEASEDIR}/$$l/train.id.gz ]; then \
+	    ${GZIP} -cd < ${RELEASEDIR}/$$l/train.src.gz | wc -lw | sed 's/^ *//;s/  */\t/g' | tr "\n" "\t" >> $@; \
+	    ${GZIP} -cd < ${RELEASEDIR}/$$l/train.trg.gz | wc -w | sed 's/^ *//;s/  */\t/g'  | tr "\n" "\t">> $@; \
+	  else \
+	    echo -n "		" >> $@; \
+	  fi; \
+	  echo "" >> $@; \
+	done
 
 ## statistics of the data sets
 ${STATISTICS}:

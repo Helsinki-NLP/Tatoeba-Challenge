@@ -40,7 +40,7 @@ The Tatoeba translation challenge includes shuffled training data taken from [OP
 
 This is an open challenge and the idea s to encourage people to develop machine translation in real-world cases for many languages. The most important point is to get away from artificial settings that simulate low-resource scenarios or zero-shot translations. Here, we extracted data sets with all the data we have in a large collection of parallel corpora instead and do not reduce high-resource scenarios in an unnatural way. Tatoeba is, admittedly, a rather easy test set in general but it includes a wide varity of languages and makes it easy to get started with rather encouraging results even for lesser resourced languages. The release also includes medium and high resource settings and allows a wide range of experiments with all supported language pairs including studies of transfer learning and pivot-based methods.
 
-Please, cite the following paper if you use data and models from this distribution:
+Please, cite [the following paper](https://www.aclweb.org/anthology/2020.wmt-1.139/) ([pdf](https://www.aclweb.org/anthology/2020.wmt-1.139.pdf),[bib](https://www.aclweb.org/anthology/2020.wmt-1.139.bib)) if you use data and models from this distribution:
 
 ```
 @inproceedings{tiedemann-2020-tatoeba,

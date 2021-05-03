@@ -33,22 +33,25 @@ while (<>){
     if ($fields[2]<$MinTestSize){
 	print "$_   insufficient test data$extranote\n";
     }
-    elsif ($fields[4]>10000000){
+    elsif ($fields[4]>=10000000){
 	print "$_   highest resource language pair$extranote\n";
     }
-    elsif ($fields[4]>1000000){
+    elsif ($fields[4]>=1000000){
 	print "$_   higher resource language pair$extranote\n";
     }
-    elsif ($fields[4]>100000){
+    elsif ($fields[4]>=100000){
 	print "$_   medium resource language pair$extranote\n";
     }
-    elsif ($fields[4]>10000){
+    elsif ($fields[4]>=10000){
 	print "$_   lower resource language pair$extranote\n";
-    }
-    elsif ($fields[4]>1000){
-	print "$_   lowest resource language pair$extranote\n";
     }
     elsif ($fields[4]!~/[0-9]/){
 	print "$_   zero-shot resource language pair$extranote\n";
     }
+    else{
+	print "$_   lowest resource language pair$extranote\n";
+    }
+#    elsif ($fields[4]>1000){
+#	print "$_   lowest resource language pair$extranote\n";
+#    }
 }
