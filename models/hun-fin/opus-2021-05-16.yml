@@ -1,0 +1,30 @@
+release: hun-fin/opus-2021-05-16.zip
+release-date: 2021-05-16
+dataset-name: opus
+modeltype: transformer-align
+vocabulary:
+   source: opus.spm32k-spm32k.vocab.yml
+   target: opus.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - hun
+target-languages:
+   - fin
+training-data:
+   hun-fin: Tatoeba-train (28397570) 
+validation-data:
+   fin-hun: Tatoeba-dev, 1000
+   total-size-shuffled: 999
+   devset-selected: top 999  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.hun-fin: 1297/6501
+BLEU-scores:
+   Tatoeba-test.hun-fin: 51.9
+chr-F-scores:
+   Tatoeba-test.hun-fin: 0.716

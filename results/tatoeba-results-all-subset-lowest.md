@@ -13,6 +13,7 @@ to be useful for anything.
 | | lang = chm-rus | | | | |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.172 | 3.0 |
 | [fiu-sla/opus](../models/fiu-sla) | tatoeba | 0.159 | 1.7 |
+| [urj-rus/opus1m](../models/urj-rus) | tatoeba | 0.150 | 1.4 |
 | [fiu-zle/opus](../models/fiu-zle) | tatoeba | 0.148 | 1.7 |
 | | lang = cor-eng | | | | |
 | [ine-eng/opus2m](../models/ine-eng) | tatoeba | 0.214 | 5.4 |
@@ -169,6 +170,7 @@ to be useful for anything.
 | | lang = kab-deu | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.213 | 5.4 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.204 | 3.2 |
+| [afa-deu/opus1m](../models/afa-deu) | tatoeba | 0.063 | 0.1 |
 | | lang = kab-fra | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.226 | 4.4 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.220 | 4.0 |
@@ -193,6 +195,7 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.538 | 36.7 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.535 | 34.4 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.529 | 32.3 |
+| [gmw-deu/opus1m](../models/gmw-deu) | tatoeba | 0.313 | 13.3 |
 | | lang = ltz-nld | | | | |
 | [gem-gem/opus](../models/gem-gem) | tatoeba | 0.547 | 39.2 |
 | [gmw-gmw/opus](../models/gmw-gmw) | tatoeba | 0.530 | 36.2 |
@@ -245,6 +248,7 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.382 | 17.5 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.367 | 15.5 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.345 | 14.5 |
+| [gmw-deu/opus1m](../models/gmw-deu) | tatoeba | 0.009 | 0.1 |
 | | lang = yid-fra | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.381 | 20.1 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.367 | 18.9 |
@@ -253,6 +257,7 @@ to be useful for anything.
 | | lang = yid-heb | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.265 | 9.2 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.256 | 8.7 |
+| [gmw-heb/opus1m](../models/gmw-heb) | tatoeba | 0.056 | 0.0 |
 | | lang = yid-ina | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.261 | 6.4 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.212 | 5.6 |

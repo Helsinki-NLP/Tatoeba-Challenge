@@ -1,0 +1,33 @@
+release: bat-fin/opus-2021-05-15.zip
+release-date: 2021-05-15
+dataset-name: opus
+modeltype: transformer-align
+vocabulary:
+   source: opus.spm32k-spm32k.vocab.yml
+   target: opus.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - lit
+training-data:
+   fin-lit: Tatoeba-train (8864078) 
+validation-data:
+   fin-lit: Tatoeba-dev, 1000
+   total-size-shuffled: 982
+   devset-selected: top 982  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.lit-fin: 184/972
+   Tatoeba-test.multi-fin: 184/988
+BLEU-scores:
+   Tatoeba-test.lit-fin: 0.2
+   Tatoeba-test.multi-fin: 35.4
+chr-F-scores:
+   Tatoeba-test.lit-fin: 0.100
+   Tatoeba-test.multi-fin: 0.609

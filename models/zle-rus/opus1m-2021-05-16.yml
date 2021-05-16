@@ -1,0 +1,45 @@
+release: zle-rus/opus1m-2021-05-16.zip
+release-date: 2021-05-16
+dataset-name: opus1m
+modeltype: transformer-align
+vocabulary:
+   source: opus1m.spm32k-spm32k.vocab.yml
+   target: opus1m.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bel
+   - orv
+target-languages:
+   - rus
+training-data:
+   bel-rus: Tatoeba-train (71916) 
+   bel_Latn-rus: Tatoeba-train (289) 
+validation-data:
+   bel-rus: Tatoeba-dev, 2738
+   bel_Latn-rus: Tatoeba-dev, 5
+   total-size-shuffled: 1005
+   devset-selected: top 1005  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.bel_Latn-rus: 6/60
+   Tatoeba-test.bel-rus: 2500/18815
+   Tatoeba-test.multi-rus: 2671/20161
+   Tatoeba-test.orv-rus: 171/1259
+   Tatoeba-test.ukr-rus: 10000/60129
+BLEU-scores:
+   Tatoeba-test.bel_Latn-rus: 1.2
+   Tatoeba-test.bel-rus: 44.1
+   Tatoeba-test.multi-rus: 41.8
+   Tatoeba-test.orv-rus: 0.5
+   Tatoeba-test.ukr-rus: 4.5
+chr-F-scores:
+   Tatoeba-test.bel_Latn-rus: 0.010
+   Tatoeba-test.bel-rus: 0.638
+   Tatoeba-test.multi-rus: 0.614
+   Tatoeba-test.orv-rus: 0.153
+   Tatoeba-test.ukr-rus: 0.209

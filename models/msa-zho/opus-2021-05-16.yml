@@ -1,0 +1,83 @@
+release: msa-zho/opus-2021-05-16.zip
+release-date: 2021-05-16
+dataset-name: opus
+modeltype: transformer-align
+vocabulary:
+   source: opus.spm32k-spm32k.vocab.yml
+   target: opus.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ind
+   - jak
+   - msa
+   - zsm
+target-languages:
+   - cmn
+   - hak
+   - nan
+   - yue
+use-target-labels:
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>hak<<"
+   - ">>nan<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
+training-data:
+   ind-cmn: Tatoeba-train (136820) 
+   ind-cmn_Hans: Tatoeba-train (2608413) 
+   ind-cmn_Hant: Tatoeba-train (2078228) 
+   ind-nan: Tatoeba-train (58) 
+   ind-yue_Hans: Tatoeba-train (3) 
+   ind-yue_Hant: Tatoeba-train (1553) 
+   jak_Latn-cmn_Hant: Tatoeba-train (6490) 
+   msa_Latn-cmn: Tatoeba-train (44448) 
+   msa_Latn-cmn_Hans: Tatoeba-train (818329) 
+   msa_Latn-cmn_Hant: Tatoeba-train (763721) 
+   msa_Latn-nan: Tatoeba-train (60) 
+   msa_Latn-yue_Hans: Tatoeba-train (52) 
+   msa_Latn-yue_Hant: Tatoeba-train (12713) 
+validation-data:
+   cmn-ind: Tatoeba-dev, 29
+   cmn_Hans-ind: Tatoeba-dev, 413
+   cmn_Hant-ind: Tatoeba-dev, 303
+   cmn_Hant-jak_Latn: Tatoeba-dev, 1
+   cmn-msa_Latn: Tatoeba-dev, 6
+   cmn_Hans-msa_Latn: Tatoeba-dev, 130
+   cmn_Hant-msa_Latn: Tatoeba-dev, 118
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.ind-cmn_Hans: 61/614
+   Tatoeba-test.ind-cmn_Hant: 132/1263
+   Tatoeba-test.msa-zho: 369/4028
+   Tatoeba-test.zsm_Latn-cmn_Hans: 55/578
+   Tatoeba-test.zsm_Latn-cmn_Hant: 29/292
+   Tatoeba-test.zsm_Latn-hak: 1/7
+   Tatoeba-test.zsm_Latn-yue_Hans: 57/1014
+   Tatoeba-test.zsm_Latn-yue_Hant: 34/260
+BLEU-scores:
+   Tatoeba-test.ind-cmn_Hans: 21.8
+   Tatoeba-test.ind-cmn_Hant: 26.0
+   Tatoeba-test.msa-zho: 17.4
+   Tatoeba-test.zsm_Latn-cmn_Hans: 22.4
+   Tatoeba-test.zsm_Latn-cmn_Hant: 20.5
+   Tatoeba-test.zsm_Latn-hak: 6.6
+   Tatoeba-test.zsm_Latn-yue_Hans: 2.7
+   Tatoeba-test.zsm_Latn-yue_Hant: 6.2
+chr-F-scores:
+   Tatoeba-test.ind-cmn_Hans: 0.197
+   Tatoeba-test.ind-cmn_Hant: 0.227
+   Tatoeba-test.msa-zho: 0.160
+   Tatoeba-test.zsm_Latn-cmn_Hans: 0.204
+   Tatoeba-test.zsm_Latn-cmn_Hant: 0.172
+   Tatoeba-test.zsm_Latn-hak: 0.024
+   Tatoeba-test.zsm_Latn-yue_Hans: 0.049
+   Tatoeba-test.zsm_Latn-yue_Hant: 0.085

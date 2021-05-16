@@ -1,0 +1,57 @@
+release: vie-zho/opus-2021-05-16.zip
+release-date: 2021-05-16
+dataset-name: opus
+modeltype: transformer-align
+vocabulary:
+   source: opus.spm32k-spm32k.vocab.yml
+   target: opus.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - vie
+target-languages:
+   - cmn
+   - nan
+   - yue
+use-target-labels:
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>nan<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
+training-data:
+   vie-cmn: Tatoeba-train (76608) 
+   vie-cmn_Hans: Tatoeba-train (1401364) 
+   vie-cmn_Hant: Tatoeba-train (1214866) 
+   vie-nan: Tatoeba-train (59) 
+   vie-yue_Hans: Tatoeba-train (9) 
+   vie-yue_Hant: Tatoeba-train (3187) 
+   vie_Hani-cmn: Tatoeba-train (2) 
+validation-data:
+   cmn-vie: Tatoeba-dev, 28
+   cmn_Hans-vie: Tatoeba-dev, 490
+   cmn_Hant-vie: Tatoeba-dev, 479
+   vie-yue_Hant: Tatoeba-dev, 3
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.vie-zho: 438/5155
+   Tatoeba-test.vie-cmn_Hans: 343/4373
+   Tatoeba-test.vie-cmn_Hant: 94/775
+   Tatoeba-test.vie-cmn: 1/7
+BLEU-scores:
+   Tatoeba-test.vie-zho: 23.6
+   Tatoeba-test.vie-cmn_Hans: 23.7
+   Tatoeba-test.vie-cmn_Hant: 22.2
+   Tatoeba-test.vie-cmn: 19.3
+chr-F-scores:
+   Tatoeba-test.vie-zho: 0.203
+   Tatoeba-test.vie-cmn_Hans: 0.204
+   Tatoeba-test.vie-cmn_Hant: 0.190
+   Tatoeba-test.vie-cmn: 0.186

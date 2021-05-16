@@ -1,0 +1,91 @@
+release: itc-deu/opus1m-2021-05-16.zip
+release-date: 2021-05-16
+dataset-name: opus1m
+modeltype: transformer-align
+vocabulary:
+   source: opus1m.spm32k-spm32k.vocab.yml
+   target: opus1m.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ast
+   - cat
+   - cos
+   - mol
+   - ron
+target-languages:
+   - deu
+training-data:
+   ast-deu: Tatoeba-train (26961) 
+   cat-deu: Tatoeba-train (570781) 
+   mol-deu: Tatoeba-train (3) 
+   ron-deu: Tatoeba-train (1000000) 
+validation-data:
+   ast-deu: Tatoeba-dev, 1000
+   cat-deu: Tatoeba-dev, 1000
+   cos-deu: Tatoeba-dev, 120
+   deu-ron: Tatoeba-dev, 1000
+   total-size-shuffled: 3054
+   devset-selected: top 3054  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.ast-deu: 34/253
+   Tatoeba-test.cat-deu: 720/5640
+   Tatoeba-test.cos-deu: 1/2
+   Tatoeba-test.egl-deu: 3/15
+   Tatoeba-test.fra-deu: 10000/80251
+   Tatoeba-test.glg-deu: 103/688
+   Tatoeba-test.ita-deu: 10000/78689
+   Tatoeba-test.lad-deu: 173/910
+   Tatoeba-test.lat-deu: 2016/13323
+   Tatoeba-test.oci-deu: 174/1319
+   Tatoeba-test.multi-deu: 1896/13791
+   Tatoeba-test.osp-deu: 3/15
+   Tatoeba-test.pms-deu: 12/91
+   Tatoeba-test.por-deu: 10000/81221
+   Tatoeba-test.roh-deu: 14/141
+   Tatoeba-test.ron-deu: 1141/7889
+   Tatoeba-test.scn-deu: 4/31
+   Tatoeba-test.spa-deu: 10000/81191
+BLEU-scores:
+   Tatoeba-test.ast-deu: 16.7
+   Tatoeba-test.cat-deu: 39.6
+   Tatoeba-test.cos-deu: 0.0
+   Tatoeba-test.egl-deu: 3.6
+   Tatoeba-test.fra-deu: 2.6
+   Tatoeba-test.glg-deu: 4.6
+   Tatoeba-test.ita-deu: 6.3
+   Tatoeba-test.lad-deu: 8.7
+   Tatoeba-test.lat-deu: 2.8
+   Tatoeba-test.oci-deu: 6.1
+   Tatoeba-test.multi-deu: 41.0
+   Tatoeba-test.osp-deu: 23.2
+   Tatoeba-test.pms-deu: 1.0
+   Tatoeba-test.por-deu: 4.4
+   Tatoeba-test.roh-deu: 8.1
+   Tatoeba-test.ron-deu: 40.8
+   Tatoeba-test.scn-deu: 2.3
+   Tatoeba-test.spa-deu: 13.6
+chr-F-scores:
+   Tatoeba-test.ast-deu: 0.340
+   Tatoeba-test.cat-deu: 0.595
+   Tatoeba-test.cos-deu: 0.048
+   Tatoeba-test.egl-deu: 0.095
+   Tatoeba-test.fra-deu: 0.194
+   Tatoeba-test.glg-deu: 0.255
+   Tatoeba-test.ita-deu: 0.252
+   Tatoeba-test.lad-deu: 0.239
+   Tatoeba-test.lat-deu: 0.175
+   Tatoeba-test.oci-deu: 0.255
+   Tatoeba-test.multi-deu: 0.596
+   Tatoeba-test.osp-deu: 0.370
+   Tatoeba-test.pms-deu: 0.145
+   Tatoeba-test.por-deu: 0.235
+   Tatoeba-test.roh-deu: 0.234
+   Tatoeba-test.ron-deu: 0.590
+   Tatoeba-test.scn-deu: 0.140
+   Tatoeba-test.spa-deu: 0.348

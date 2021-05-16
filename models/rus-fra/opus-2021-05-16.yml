@@ -1,0 +1,36 @@
+release: rus-fra/opus-2021-05-16.zip
+release-date: 2021-05-16
+dataset-name: opus
+modeltype: transformer-align
+vocabulary:
+   source: opus.spm32k-spm32k.vocab.yml
+   target: opus.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - rus
+target-languages:
+   - fra
+training-data:
+   rus-fra: Tatoeba-train (48432451) 
+validation-data:
+   fra-rus: Tatoeba-dev, 179567
+   total-size-shuffled: 178973
+   devset-selected: top 5000  lines of Tatoeba-dev.src.shuffled
+test-data:
+   newstest2012.rus-fra: 3003/78011
+   newstest2013.rus-fra: 3000/70037
+   Tatoeba-test.rus-fra: 10000/70132
+BLEU-scores:
+   newstest2012.rus-fra: 18.3
+   newstest2013.rus-fra: 21.5
+   Tatoeba-test.rus-fra: 44.3
+chr-F-scores:
+   newstest2012.rus-fra: 0.485
+   newstest2013.rus-fra: 0.499
+   Tatoeba-test.rus-fra: 0.617

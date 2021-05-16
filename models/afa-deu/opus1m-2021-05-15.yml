@@ -1,0 +1,65 @@
+release: afa-deu/opus1m-2021-05-15.zip
+release-date: 2021-05-15
+dataset-name: opus1m
+modeltype: transformer-align
+vocabulary:
+   source: opus1m.spm32k-spm32k.vocab.yml
+   target: opus1m.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - afb
+   - apc
+   - ara
+   - arq
+   - arz
+target-languages:
+   - deu
+training-data:
+   ara-deu: Tatoeba-train (1000000) 
+   arq-deu: Tatoeba-train (61) 
+   arz-deu: Tatoeba-train (3) 
+validation-data:
+   afb-deu: Tatoeba-dev, 9
+   ara-deu: Tatoeba-dev, 989
+   arq-deu: Tatoeba-dev, 1
+   total-size-shuffled: 999
+   devset-selected: top 999  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.afb-deu: 5/32
+   Tatoeba-test.apc-deu: 2/11
+   Tatoeba-test.ara-deu: 1209/8370
+   Tatoeba-test.arq-deu: 1/6
+   Tatoeba-test.arz-deu: 2/13
+   Tatoeba-test.heb-deu: 3090/25098
+   Tatoeba-test.kab-deu: 334/2107
+   Tatoeba-test.mlt-deu: 65/269
+   Tatoeba-test.multi-deu: 1208/8360
+   Tatoeba-test.tmr-deu: 2/10
+BLEU-scores:
+   Tatoeba-test.afb-deu: 38.1
+   Tatoeba-test.apc-deu: 38.0
+   Tatoeba-test.ara-deu: 37.2
+   Tatoeba-test.arq-deu: 35.0
+   Tatoeba-test.arz-deu: 29.7
+   Tatoeba-test.heb-deu: 0.0
+   Tatoeba-test.kab-deu: 0.1
+   Tatoeba-test.mlt-deu: 0.5
+   Tatoeba-test.multi-deu: 37.4
+   Tatoeba-test.tmr-deu: 1.7
+chr-F-scores:
+   Tatoeba-test.afb-deu: 0.605
+   Tatoeba-test.apc-deu: 0.600
+   Tatoeba-test.ara-deu: 0.563
+   Tatoeba-test.arq-deu: 0.688
+   Tatoeba-test.arz-deu: 0.468
+   Tatoeba-test.heb-deu: 0.104
+   Tatoeba-test.kab-deu: 0.063
+   Tatoeba-test.mlt-deu: 0.060
+   Tatoeba-test.multi-deu: 0.566
+   Tatoeba-test.tmr-deu: 0.103

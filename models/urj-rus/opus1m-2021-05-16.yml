@@ -1,0 +1,58 @@
+release: urj-rus/opus1m-2021-05-16.zip
+release-date: 2021-05-16
+dataset-name: opus1m
+modeltype: transformer-align
+vocabulary:
+   source: opus1m.spm32k-spm32k.vocab.yml
+   target: opus1m.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - est
+   - fin
+   - hun
+   - izh
+   - mhr
+target-languages:
+   - rus
+training-data:
+   est-rus: Tatoeba-train (1000000) 
+   fin-rus: Tatoeba-train (1000000) 
+   hun-rus: Tatoeba-train (1000000) 
+   mhr-rus: Tatoeba-train (3922) 
+validation-data:
+   est-rus: Tatoeba-dev, 1000
+   fin-rus: Tatoeba-dev, 1000
+   hun-rus: Tatoeba-dev, 6097
+   mhr-rus: Tatoeba-dev, 1000
+   total-size-shuffled: 3996
+   devset-selected: top 3996  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.chm-rus: 2750/20215
+   Tatoeba-test.est-rus: 598/3563
+   Tatoeba-test.fin-rus: 3643/21434
+   Tatoeba-test.hun-rus: 2500/16105
+   Tatoeba-test.izh-rus: 8/32
+   Tatoeba-test.multi-rus: 9499/61541
+   Tatoeba-test.udm-rus: 54/317
+BLEU-scores:
+   Tatoeba-test.chm-rus: 1.4
+   Tatoeba-test.est-rus: 48.5
+   Tatoeba-test.fin-rus: 39.9
+   Tatoeba-test.hun-rus: 37.2
+   Tatoeba-test.izh-rus: 34.7
+   Tatoeba-test.multi-rus: 26.9
+   Tatoeba-test.udm-rus: 0.4
+chr-F-scores:
+   Tatoeba-test.chm-rus: 0.150
+   Tatoeba-test.est-rus: 0.673
+   Tatoeba-test.fin-rus: 0.613
+   Tatoeba-test.hun-rus: 0.574
+   Tatoeba-test.izh-rus: 0.655
+   Tatoeba-test.multi-rus: 0.440
+   Tatoeba-test.udm-rus: 0.101

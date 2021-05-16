@@ -1,0 +1,30 @@
+release: ron-fra/opus-2021-05-16.zip
+release-date: 2021-05-16
+dataset-name: opus
+modeltype: transformer-align
+vocabulary:
+   source: opus.spm32k-spm32k.vocab.yml
+   target: opus.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ron
+target-languages:
+   - fra
+training-data:
+   ron-fra: Tatoeba-train (36939216) 
+validation-data:
+   fra-ron: Tatoeba-dev, 1000
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.ron-fra: 1952/13478
+BLEU-scores:
+   Tatoeba-test.ron-fra: 54.3
+chr-F-scores:
+   Tatoeba-test.ron-fra: 0.694

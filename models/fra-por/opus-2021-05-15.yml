@@ -1,0 +1,35 @@
+release: fra-por/opus-2021-05-15.zip
+release-date: 2021-05-15
+dataset-name: opus
+modeltype: transformer-align
+vocabulary:
+   source: opus.spm32k-spm32k.vocab.yml
+   target: opus.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fra
+target-languages:
+   - pob
+   - por
+use-target-labels:
+   - ">>pob<<"
+   - ">>por<<"
+training-data:
+   fra-pob: Tatoeba-train (33274374) 
+   fra-por: Tatoeba-train (45198221) 
+validation-data:
+   fra-por: Tatoeba-dev, 16705
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.fra-por: 10000/71341
+BLEU-scores:
+   Tatoeba-test.fra-por: 43.7
+chr-F-scores:
+   Tatoeba-test.fra-por: 0.650

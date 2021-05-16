@@ -1,0 +1,33 @@
+release: cel-eng/opus1m+bt-tuned4bre2eng-2021-05-08.zip
+release-date: 2021-05-08
+dataset-name: opus1m+bt-tuned4bre2eng
+modeltype: transformer-align
+vocabulary:
+   source: opus1m+bt-tuned4bre2eng.spm32k-spm32k.vocab.yml
+   target: opus1m+bt-tuned4bre2eng.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bre
+target-languages:
+   - eng
+training-data:
+   bre-eng: Tatoeba-train (378041) wikibooks.aa.eng-bre (990740) wikinews.aa.eng-bre (456852) wikipedia.aa.eng-bre (981804) wikipedia.ab.eng-bre (981993) wikipedia.ac.eng-bre (981975) wikipedia.ad.eng-bre (981746) wikiquote.aa.eng-bre (996346) 
+validation-data:
+   eng-gle: Tatoeba-dev, 1000
+   total-size-shuffled: 998
+   devset-selected: top 998  lines of Tatoeba-dev.gle-eng.src.shuffled
+test-data:
+   Tatoeba-test.bre-eng: 383/2065
+   Tatoeba-test.multi-eng: 7245/42097
+BLEU-scores:
+   Tatoeba-test.bre-eng: 32.3
+   Tatoeba-test.multi-eng: 6.6
+chr-F-scores:
+   Tatoeba-test.bre-eng: 0.502
+   Tatoeba-test.multi-eng: 0.188

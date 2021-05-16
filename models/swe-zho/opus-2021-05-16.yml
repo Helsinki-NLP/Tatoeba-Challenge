@@ -1,0 +1,57 @@
+release: swe-zho/opus-2021-05-16.zip
+release-date: 2021-05-16
+dataset-name: opus
+modeltype: transformer-align
+vocabulary:
+   source: opus.spm32k-spm32k.vocab.yml
+   target: opus.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - swe
+target-languages:
+   - cmn
+   - nan
+   - yue
+use-target-labels:
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>nan<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
+training-data:
+   swe-cmn: Tatoeba-train (150893) 
+   swe-cmn_Hans: Tatoeba-train (4009561) 
+   swe-cmn_Hant: Tatoeba-train (2829051) 
+   swe-nan: Tatoeba-train (56) 
+   swe-yue_Hans: Tatoeba-train (24) 
+   swe-yue_Hant: Tatoeba-train (4821) 
+validation-data:
+   cmn-swe: Tatoeba-dev, 24
+   cmn_Hans-swe: Tatoeba-dev, 589
+   cmn_Hant-swe: Tatoeba-dev, 382
+   nan-swe: Tatoeba-dev, 1
+   swe-yue_Hant: Tatoeba-dev, 4
+   total-size-shuffled: 999
+   devset-selected: top 999  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.swe-zho: 1050/8425
+   Tatoeba-test.swe-cmn_Hans: 477/4106
+   Tatoeba-test.swe-cmn_Hant: 569/4265
+   Tatoeba-test.swe-cmn: 4/54
+BLEU-scores:
+   Tatoeba-test.swe-zho: 40.1
+   Tatoeba-test.swe-cmn_Hans: 39.7
+   Tatoeba-test.swe-cmn_Hant: 41.2
+   Tatoeba-test.swe-cmn: 4.1
+chr-F-scores:
+   Tatoeba-test.swe-zho: 0.335
+   Tatoeba-test.swe-cmn_Hans: 0.326
+   Tatoeba-test.swe-cmn_Hant: 0.348
+   Tatoeba-test.swe-cmn: 0.204

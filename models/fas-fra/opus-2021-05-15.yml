@@ -1,0 +1,33 @@
+release: fas-fra/opus-2021-05-15.zip
+release-date: 2021-05-15
+dataset-name: opus
+modeltype: transformer-align
+vocabulary:
+   source: opus.spm32k-spm32k.vocab.yml
+   target: opus.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fas
+   - pes
+target-languages:
+   - fra
+training-data:
+   fas-fra: Tatoeba-train (4566867) 
+   pes-fra: Tatoeba-train (30816) 
+validation-data:
+   fas-fra: Tatoeba-dev, 995
+   fra-pes: Tatoeba-dev, 5
+   total-size-shuffled: 999
+   devset-selected: top 999  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.fas-fra: 750/6742
+BLEU-scores:
+   Tatoeba-test.fas-fra: 32.2
+chr-F-scores:
+   Tatoeba-test.fas-fra: 0.537

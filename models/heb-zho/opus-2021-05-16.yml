@@ -1,0 +1,40 @@
+release: heb-zho/opus-2021-05-16.zip
+release-date: 2021-05-16
+dataset-name: opus
+modeltype: transformer-align
+vocabulary:
+   source: opus.spm32k-spm32k.vocab.yml
+   target: opus.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - cmn
+   - lzh
+   - nan
+   - yue
+target-languages:
+   - heb
+training-data:
+   cmn-heb: Tatoeba-train (189659) 
+   cmn_Hans-heb: Tatoeba-train (5239897) 
+   cmn_Hant-heb: Tatoeba-train (3932844) 
+   nan-heb: Tatoeba-train (59) 
+   yue_Hans-heb: Tatoeba-train (6) 
+   yue_Hant-heb: Tatoeba-train (3598) 
+validation-data:
+   cmn-heb: Tatoeba-dev, 22
+   cmn_Hans-heb: Tatoeba-dev, 559
+   cmn_Hant-heb: Tatoeba-dev, 416
+   total-size-shuffled: 996
+   devset-selected: top 996  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.heb-zho: 708/3654
+BLEU-scores:
+   Tatoeba-test.heb-zho: 28.4
+chr-F-scores:
+   Tatoeba-test.heb-zho: 0.472

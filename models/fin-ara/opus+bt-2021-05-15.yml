@@ -1,0 +1,37 @@
+release: fin-ara/opus+bt-2021-05-15.zip
+release-date: 2021-05-15
+dataset-name: opus+bt
+modeltype: transformer-align
+vocabulary:
+   source: opus+bt.spm32k-spm32k.vocab.yml
+   target: opus+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - ara
+   - arq
+   - arz
+use-target-labels:
+   - ">>ara<<"
+   - ">>arq<<"
+training-data:
+   fin-ara: Tatoeba-train (17389766) wiki.aa (829482) wiki.ab (829123) wiki.ac (828436) wiki.af (829125) wiki.ag (828780) wiki.ah (828962) wiki.ai (394660) wikibooks.aa (21991) wikinews.aa (94319) wikiquote.aa (22478) wikisource.aa (864765) wikisource.ab (453726) 
+   fin-arq: Tatoeba-train (148) 
+   fin-arz: Tatoeba-train (3) 
+validation-data:
+   ara-fin: Tatoeba-dev, 1000
+   total-size-shuffled: 999
+   devset-selected: top 999  lines of Tatoeba-dev.src.shuffled!
+test-data:
+   Tatoeba-test.fin-ara: 7/30
+BLEU-scores:
+   Tatoeba-test.fin-ara: 27.5
+chr-F-scores:
+   Tatoeba-test.fin-ara: 0.512

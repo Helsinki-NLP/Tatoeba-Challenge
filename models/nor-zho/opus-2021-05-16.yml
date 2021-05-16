@@ -1,0 +1,70 @@
+release: nor-zho/opus-2021-05-16.zip
+release-date: 2021-05-16
+dataset-name: opus
+modeltype: transformer-align
+vocabulary:
+   source: opus.spm32k-spm32k.vocab.yml
+   target: opus.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - nno
+   - nob
+target-languages:
+   - cmn
+   - nan
+   - yue
+use-target-labels:
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>nan<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
+training-data:
+   nno-cmn: Tatoeba-train (6353) 
+   nno-cmn_Hans: Tatoeba-train (64229) 
+   nno-cmn_Hant: Tatoeba-train (54657) 
+   nno-nan: Tatoeba-train (54) 
+   nno-yue_Hans: Tatoeba-train (57) 
+   nno-yue_Hant: Tatoeba-train (11516) 
+   nob-cmn: Tatoeba-train (94394) 
+   nob-cmn_Hans: Tatoeba-train (1904392) 
+   nob-cmn_Hant: Tatoeba-train (1641504) 
+   nob-nan: Tatoeba-train (83) 
+   nob-yue_Hans: Tatoeba-train (38) 
+   nob-yue_Hant: Tatoeba-train (9087) 
+validation-data:
+   cmn-nno: Tatoeba-dev, 4
+   cmn_Hans-nno: Tatoeba-dev, 17
+   cmn_Hant-nno: Tatoeba-dev, 18
+   nno-yue_Hant: Tatoeba-dev, 2
+   cmn-nob: Tatoeba-dev, 31
+   cmn_Hans-nob: Tatoeba-dev, 482
+   cmn_Hant-nob: Tatoeba-dev, 444
+   nob-yue_Hant: Tatoeba-dev, 2
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.nno-cmn_Hans: 3/26
+   Tatoeba-test.nno-cmn_Hant: 3/24
+   Tatoeba-test.nob-cmn_Hans: 90/995
+   Tatoeba-test.nob-cmn_Hant: 104/1043
+   Tatoeba-test.nor-zho: 200/2088
+BLEU-scores:
+   Tatoeba-test.nno-cmn_Hans: 29.5
+   Tatoeba-test.nno-cmn_Hant: 41.5
+   Tatoeba-test.nob-cmn_Hans: 25.9
+   Tatoeba-test.nob-cmn_Hant: 28.6
+   Tatoeba-test.nor-zho: 28.2
+chr-F-scores:
+   Tatoeba-test.nno-cmn_Hans: 0.255
+   Tatoeba-test.nno-cmn_Hant: 0.380
+   Tatoeba-test.nob-cmn_Hans: 0.210
+   Tatoeba-test.nob-cmn_Hant: 0.242
+   Tatoeba-test.nor-zho: 0.228

@@ -1,0 +1,79 @@
+release: ita-zho/opus-2021-05-16.zip
+release-date: 2021-05-16
+dataset-name: opus
+modeltype: transformer-align
+vocabulary:
+   source: opus.spm32k-spm32k.vocab.yml
+   target: opus.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ita
+target-languages:
+   - cmn
+   - lzh
+   - nan
+   - wuu
+   - yue
+use-target-labels:
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>lzh<<"
+   - ">>lzh_Hans<<"
+   - ">>nan<<"
+   - ">>wuu<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
+training-data:
+   ita-cmn: Tatoeba-train (165636) 
+   ita-cmn_Hans: Tatoeba-train (4350126) 
+   ita-cmn_Hant: Tatoeba-train (3262851) 
+   ita-nan: Tatoeba-train (52) 
+   ita-yue_Hans: Tatoeba-train (28) 
+   ita-yue_Hant: Tatoeba-train (5365) 
+validation-data:
+   cmn-ita: Tatoeba-dev, 2
+   cmn_Hans-ita: Tatoeba-dev, 579
+   cmn_Hant-ita: Tatoeba-dev, 396
+   ita-lzh: Tatoeba-dev, 1
+   ita-wuu: Tatoeba-dev, 10
+   ita-yue_Hans: Tatoeba-dev, 7
+   ita-yue_Hant: Tatoeba-dev, 5
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev.src.shuffled
+test-data:
+   Tatoeba-test.ita-cmn_Hans: 1827/17045
+   Tatoeba-test.ita-cmn_Hant: 1037/8835
+   Tatoeba-test.ita-cmn: 9/83
+   Tatoeba-test.ita-lzh_Hans: 2/16
+   Tatoeba-test.ita-lzh: 11/55
+   Tatoeba-test.ita-wuu: 31/301
+   Tatoeba-test.ita-yue_Hans: 13/192
+   Tatoeba-test.ita-yue_Hant: 13/110
+   Tatoeba-test.ita-zho: 2943/26638
+BLEU-scores:
+   Tatoeba-test.ita-cmn_Hans: 33.9
+   Tatoeba-test.ita-cmn_Hant: 32.8
+   Tatoeba-test.ita-cmn: 24.4
+   Tatoeba-test.ita-lzh_Hans: 11.7
+   Tatoeba-test.ita-lzh: 0.8
+   Tatoeba-test.ita-wuu: 13.5
+   Tatoeba-test.ita-yue_Hans: 1.0
+   Tatoeba-test.ita-yue_Hant: 12.9
+   Tatoeba-test.ita-zho: 33.0
+chr-F-scores:
+   Tatoeba-test.ita-cmn_Hans: 0.282
+   Tatoeba-test.ita-cmn_Hant: 0.276
+   Tatoeba-test.ita-cmn: 0.326
+   Tatoeba-test.ita-lzh_Hans: 0.084
+   Tatoeba-test.ita-lzh: 0.006
+   Tatoeba-test.ita-wuu: 0.121
+   Tatoeba-test.ita-yue_Hans: 0.030
+   Tatoeba-test.ita-yue_Hant: 0.111
+   Tatoeba-test.ita-zho: 0.276
