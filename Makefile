@@ -409,8 +409,10 @@ update-models:
 	${MAKE} upload-models
 	${MAKE} released-model-list
 	${MAKE} released-model-results
+	python3 ${SCRIPTDIR}/convert-model-info-to-json.py
 	git add ${MODEL_RELEASEDIR}/*/README.md
 	git add ${MODEL_RELEASEDIR}/*/*.yml
+	git add ${MODEL_RELEASEDIR}/*.json
 	${MAKE} GIT_COMMIT_MESSAGE='latest models added' update-git
 
 GIT_COMMIT_MESSAGE ?= latest changes
