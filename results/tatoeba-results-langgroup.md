@@ -59,7 +59,7 @@ to be useful for anything.
 | Sorbian languages | Sorbian languages  | [wen-wen](../models/wen-wen) | multi.multi | 0.112 | 0.2 |
 | Mongolian languages | Mongolian languages  | [xgn-xgn](../models/xgn-xgn) | multi.multi | 0.180 | 2.8 |
 | Na-Dene languages | Na-Dene languages  | [xnd-xnd](../models/xnd-xnd) | multi.multi | 0.111 | 0.3 |
-| Chinese (family)-Chinese (family)  | [zhx-zhx](../models/zhx-zhx) | multi.multi | 0.433 | 28.8 |
+| Chinese (family) | Chinese (family)  | [zhx-zhx](../models/zhx-zhx) | multi.multi | 0.433 | 28.8 |
 | East Slavic languages | East Slavic languages  | [zle-zle](../models/zle-zle) | multi.multi | 0.656 | 47.5 |
 | South Slavic languages | South Slavic languages  | [zls-zls](../models/zls-zls) | multi.multi | 0.596 | 44.2 |
 | West Slavic languages | West Slavic languages  | [zlw-zlw](../models/zlw-zlw) | multi.multi | 0.633 | 45.2 |
@@ -1556,9 +1556,9 @@ Note that some of the test sets are way too small to be reliable!
 | Mongolian languages | Mongolian languages  | [xgn-xgn](../models/xgn-xgn) | eng.xal | 0.104 | 0.2 |
 | Na-Dene languages | Na-Dene languages  | [xnd-xnd](../models/xnd-xnd) | nav.eng | 0.122 | 0.4 |
 | Na-Dene languages | Na-Dene languages  | [xnd-xnd](../models/xnd-xnd) | eng.nav | 0.101 | 0.3 |
-| Chinese (family)-Chinese (family)  | [zhx-zhx](../models/zhx-zhx) | zho.eng | 0.498 | 30.1 |
-| Chinese (family)-Chinese (family)  | [zhx-zhx](../models/zhx-zhx) | eng.zho | 0.234 | 27.9 |
-| Chinese (family)-Chinese (family)  | [zhx-zhx](../models/zhx-zhx) | zho.zho | 0.102 | 14.1 |
+| Chinese (family) | Chinese (family)  | [zhx-zhx](../models/zhx-zhx) | zho.eng | 0.498 | 30.1 |
+| Chinese (family) | Chinese (family)  | [zhx-zhx](../models/zhx-zhx) | eng.zho | 0.234 | 27.9 |
+| Chinese (family) | Chinese (family)  | [zhx-zhx](../models/zhx-zhx) | zho.zho | 0.102 | 14.1 |
 | East Slavic languages | East Slavic languages  | [zle-zle](../models/zle-zle) | ukr.rus | 0.824 | 68.8 |
 | East Slavic languages | East Slavic languages  | [zle-zle](../models/zle-zle) | rus.ukr | 0.789 | 63.0 |
 | East Slavic languages | East Slavic languages  | [zle-zle](../models/zle-zle) | bel.rus | 0.753 | 56.9 |
