@@ -278,6 +278,13 @@ all: opus-langs.txt
 	${MAKE} released-data-counts
 	${MAKE} release-tag
 
+afreng-traindata: 
+	echo ${RELEASEDIR}/afr-eng/train.id.gz
+
+release-job:
+	${MAKE} HPC_MEM=32g HPC_CORES=16 HPC_DISK=1000 HPC_TIME=3-00 release.submit
+#	${MAKE} HPC_MEM=32g HPC_CORES=16 HPC_DISK=1000 HPC_TIME=14-00 HPC_QUEUE=longrun release.submit
+
 release:
 	${MAKE} TATOEBA_VERSION=${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest 2>/dev/null}} \
 		VERSION=v${TODAY} all
@@ -644,7 +651,8 @@ ${RELEASEDIR}/%/train.id.gz:
 		    ${SCRIPTDIR}/bitext-match-lang.py -s $$e -t $$f   > $@.tmp2; \
 		  fi; \
 		  if [ -e $@.tmp2 ]; then \
-		    v=`realpath ${OPUS_HOME}/$$c/latest | sed 's#${OPUS_HOME}/$$c/##'`; \
+		    echo "langid"; \
+		    v=`realpath ${OPUS_HOME}/$$c/latest | sed "s#${OPUS_HOME}/$$c/##"`; \
 		    cut -f1 $@.tmp2 ${FIXLANGIDS} | langscript -3 -l $$e -r -D  > $@.tmp2srcid; \
 		    cut -f2 $@.tmp2 ${FIXLANGIDS} | langscript -3 -l $$f -r -D  > $@.tmp2trgid; \
 		    paste $@.tmp2srcid $@.tmp2trgid $@.tmp2 | sed "s/^/$$c-$$v	/"  >> $@.tmp1; \
