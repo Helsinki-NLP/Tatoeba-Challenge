@@ -1,4 +1,4 @@
-cycl_Latn	jpn_Hira	((TypeCapableFn behaviorCapable) Bear-Animal (SubcollectionOfWithRelationToTypeFn Climbing eventOccursAt Tree-ThePlant) performedBy)	熊は木に登る事ができる。
 cycl_Latn	jpn_Hira	(not (languageSpoken (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) JapaneseLanguage))	私は日本語が話せない。
 cycl_Latn	jpn_Hira	((TypeCapableFn behaviorCapable) Bear-Animal (SubcollectionOfWithRelationToTypeFn Climbing eventOccursAt Tree-ThePlant) doneBy)	熊は木に登る事ができる。
+cycl_Latn	jpn_Hira	((TypeCapableFn behaviorCapable) Bear-Animal (SubcollectionOfWithRelationToTypeFn Climbing eventOccursAt Tree-ThePlant) performedBy)	熊は木に登る事ができる。
 cycl_Latn	jpn_Kana	(personFoundInLocation BritneySpears ?WHERE)	ブリトニー・スピアーズはどこですか。

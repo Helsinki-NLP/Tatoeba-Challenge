@@ -1,113 +1,174 @@
-kur_Latn	tur	Zor sipas!	Çok teşekkür ederim!
-kur_Latn	tur	Ew goşt e.	Bu ettir.
-kur_Latn	tur	Ez kurdim.	Ben Kürt'üm.
-kur_Latn	tur	Em razî ne.	Biz razıyız.
-kur_Latn	tur	Ev pirtûk reş e.	Bu kitap siyah.
-kur_Latn	tur	Sipas!	Teşekkür ederim!
-kur_Latn	tur	Tu zani bi kurdî?	Kürtçe biliyor musun?
-kur_Latn	tur	Yek yek e, dudu komek e.	Bir elin nesi var, iki elin sesi var.
-kur_Latn	tur	Niha dora min e.	Şimdi sıra bende.
-kur_Latn	tur	Biborin, asansor li kû ye?	Affedersiniz, asansör nerede?
-kur_Latn	tur	Merhaba!	Merhaba.
-kur_Latn	tur	Nikarim bavê te bibînim.	Babanı göremiyorum.
-kur_Latn	tur	Ez ji vî cihî pir hez dikim.	Burayı çok seviyorum.
-kur_Latn	tur	Saet pênc e.	Saat 5.
-kur_Latn	tur	Ez şîr dixwazim.	Süt istiyorum.
-kur_Latn	tur	Bi xêr hatin bo malpera me!	Sitemize hoş geldiniz!
-kur_Latn	tur	Saet çend e?	Saat kaç?
-kur_Latn	tur	Ya min e.	Benimki o.
-kur_Latn	tur	Xwedê hafîz!	Allah'a ısmarladık!
-kur_Latn	tur	Ez ê herim mala bavê xwe.	Babamın evine gideceğim.
-kur_Latn	tur	Xwedê hafîz!	Allah'a emanet ol!
+ckb	tur	خەڵکی ھەولێرم.	Erbilliyim.
+ckb	tur	ماڵمان لە ئیلامە.	Evimiz İlam'da.
+ckb	tur	من کەنگەر نیم.	Ben bir kanguru değilim.
+kmr_Latn	tur	Aqlê sivik barê girane.	Akılsız baş, insana yük olur.
+kmr_Latn	tur	Aqlê sivik barê girane.	Aklı hafif olanın yükü ağır olur.
+kmr_Latn	tur	Aqlê sivik barê girane.	Hafif akıl, ağır yüktür.
+kmr_Latn	tur	Bakterî çi ye?	Bakteri nedir?
+kmr_Latn	tur	Berf û baran çi dikin?	Kar ve yağmur ne yapar?
+kmr_Latn	tur	Çawa mirov dikare xwe ji nexweşiyan biparêze?	İnsan kendini hastalıklardan nasıl koruyabilir?
+kmr_Latn	tur	Çima Ronî nehatibû dibistanê?	Roni neden okula gelmemişti?
+kmr_Latn	tur	Di çalakiyê de ji neh welatan sî tîm hatin cem hev.	Etkinlikte dokuz ülkeden otuz ekip biraraya geldi.
+kmr_Latn	tur	DiCarlo jî ev gotin dubare kirin.	DiCarlo da bu sözleri tekrarladı.
+kmr_Latn	tur	Di kar û xwendina xwe de serkeftî ye.	O, iş ve okulunda başarılıdır.
+kmr_Latn	tur	Di tenefûzê da çû kantînê û sîmîd û avde stand.	Teneffüste kantine gidip simit ve ayran aldı.
+kmr_Latn	tur	Di vê pêvajoyê de germkirin bi sê cureyan tê kirin.	Bu süreçte ısınma üç şekilde yapılır.
+kmr_Latn	tur	Em cihêbûnê li şûna yekîtiyê dibînin.	Birlik yerine ayrılık görüyoruz.
+kmr_Latn	tur	Em çi qas ji bo dayîkên xwe bixebitin, nikarin deynên wan li ser xwe rakin.	Annelerimiz için neler yaparsak yapalım hakları ödenmez.
+kmr_Latn	tur	Em ji dêvla yekîtiyê, veqetînê dibînin.	Birlik yerine ayrılık görüyoruz.
+kmr_Latn	tur	Em nikarin.	Biz yapamayız.
+kmr_Latn	tur	Em roj bi roj bi pêş diketin.	Günden güne ilerliyoruz.
+kmr_Latn	tur	Erdoxan serokê Tirkiyê ye.	Erdoğan, Türkiye'nin başkanıdır.
+kmr_Latn	tur	Ev di şevekê de nabe.	Bu bir gecede olmaz.
+kmr_Latn	tur	Ev îş ez bêzar kirime	Bu iş beni iyice baydı.
+kmr_Latn	tur	Ew heft salî ye.	O, yedi yaşında.
+kmr_Latn	tur	Ew hestiyên mirov in?	Bunlar insan kemiği mi?
+kmr_Latn	tur	Ew nikarin.	Onlar yapamaz.
+kmr_Latn	tur	Ez ê bibim mamoste.	Öğretmen olacağım.
+kmr_Latn	tur	Ez hêvî dikim ku me ya rast kiribe.	Umarım doğru olanı yapmışızdır.
+kmr_Latn	tur	Ez ji Hewlêrê me.	Erbilliyim.
+kmr_Latn	tur	Ez Kurdî dizanim.	Kürtçe konuşuyorum.
+kmr_Latn	tur	Ez nizanim bi şetrencê bilizim.	Satranç oynamayı bilmiyorum.
+kmr_Latn	tur	Havînan em diçin Wanê.	Yazları biz Van'a gideriz.
+kmr_Latn	tur	Heft çîrokên hirçê hene, her heft jî li ser hirmiyê ne.	Ayının yedi hikâyesi vardır, yedisi de armut üzerinedir.
+kmr_Latn	tur	Her sibeh di dema xwe de digihêje dibistanê.	O, her sabah zamanında okula yetişir.
+kmr_Latn	tur	Hevalê wan çima xemgîn bû?	Onların arkadaşı neden üzgündü?
+kmr_Latn	tur	Îro roja yekem e ku Dîlan diçe dibistanê.	Bugün Dilan'ın okula gideceği ilk gün.
+kmr_Latn	tur	Ji sedî şêst û şeş ê mêvanan biyanî ne.	Konukların yüzde altmış altısı yabancılardan oluşuyor.
+kmr_Latn	tur	Li dibistanê, Rojîn çawa tev digere?	Rojin okulda nasıl davranışlar sergiliyor?
+kmr_Latn	tur	Li dibistanê, Rojîn çawa tev digere?	Rojin okulda nasıl davranıyor?
+kmr_Latn	tur	Lîstika me pir xweş e.	Oyunumuz çok hoş.
+kmr_Latn	tur	Lîstika me pir xweş e.	Oyunumuz çok iyi.
+kmr_Latn	tur	Mamoste mîmarê civakê ye.	Öğretmen toplumun mimarıdır.
+kmr_Latn	tur	Min ji Diyarbekirê pir hez kir.	Diyarbakır'ı çok sevdim.
+kmr_Latn	tur	Muallim	Hoca.
+kmr_Latn	tur	Muallim	Öğretmen.
+kmr_Latn	tur	Na, tu hevala min î.	Hayır, sen benim arkadaşımsın.
+kmr_Latn	tur	Navê min Alan e.	Adım Alan.
+kmr_Latn	tur	Navê min Aras e.	Adım Aras.
+kmr_Latn	tur	Navê min jî Berçem e.	Benim adım da Berçem.
+kmr_Latn	tur	Navê min jî Berçem e.	Benim de adım Berçem.
+kmr_Latn	tur	Pol û dibistana xwe paqij dikin.	Sınıf ve okullarını temizliyorlar.
+kmr_Latn	tur	Rojîn çend salî ye?	Rojin kaç yaşında?
+kmr_Latn	tur	Rojîn di refa duyem de ye.	Rojin ikinci sıradadır.
+kmr_Latn	tur	Şaredarî dixebite.	Belediye çalışıyor.
+kmr_Latn	tur	Te ji Wanê hez kir?	Van'ı beğendin mi?
+kmr_Latn	tur	Tekerê erebeya min teqiya.	Arabamın tekeri patladı.
+kmr_Latn	tur	Tirk û Kurd bira ne.	Türk ve Kürt kardeştir.
+kmr_Latn	tur	Tu vê stranê dizanî?	Bu şarkıyı biliyor musun?
+kmr_Latn	tur	Xwendekarên din çawa alîkariya wî kirin?	Diğer öğrenciler ona nasıl yardım ettiler?
+kmr_Latn	tur	Zarokan dest pê kir.	Çocuklar başladı.
+kur_Latn	tur	Ali birayê min e.	Ali erkek kardeşim.
 kur_Latn	tur	Azadiya jinê azadiya cîhanê ye.	Kadınların özgürlüğü dünyanın özgürlüğüdür.
-kur_Latn	tur	Ez pir birçî me.	Çok acıkmışım.
-kur_Latn	tur	Maseyê dest bi axavtinê kir.	Masa konuşmaya başladı.
-kur_Latn	tur	Remezan pîroz be.	Hayırlı Ramazanlar.
 kur_Latn	tur	Bejna keçê bilind e.	Kızın boyu uzundur.
-kur_Latn	tur	Diranê min diêşe.	Dişim ağrıyor.
-kur_Latn	tur	Ew şîr e.	Süt bu.
-kur_Latn	tur	Ew çi ye?	Ne bu?
-kur_Latn	tur	Ev ferhenga min e.	Bu benim sözlüğüm.
-kur_Latn	tur	Bijî yek Gulan!	Yaşasın 1 Mayıs!
-kur_Latn	tur	Biborin, tiwalêt li kû ye?	Affedersiniz, tuvalet nerede?
-kur_Latn	tur	Biborin, derketin li kû ye?	Affedersiniz, çıkış ne tarafta?
-kur_Latn	tur	Ez kurmancî zanim.	Kurmançça bilirim.
-kur_Latn	tur	Rastî tal e, derew şîrîn e.	Gerçekler acı, yalanlar tatlıdır.
-kur_Latn	tur	Em hemû ji bo yekî, yekî ji bo me hemûyî.	Hepimiz birimiz, birimiz hepimiz için!
-kur_Latn	tur	Selam!	Selam!
-kur_Latn	tur	Navê min Azad e.	Adım Azat.
-kur_Latn	tur	Bijî 1 Gulan!	Yaşasın bir Mayıs!
-kur_Latn	tur	Navê wî Elî ye.	Adı Ali.
-kur_Latn	tur	Ez ji te hez dikim.	Seni seviyorum.
-kur_Latn	tur	Jinên asyayî bi balkêş dibine.	Asyalı kadınları çekici buluyor.
-kur_Latn	tur	Ev mizgeft e?	Cami mi bu?
-kur_Latn	tur	Biborin, hemam li kû ye?	Affedersiniz, hamam nerede?
-kur_Latn	tur	Elî birayê min e.	Ali erkek kardeşim.
-kur_Latn	tur	Navê wî Elî ye.	İsmi Ali.
-kur_Latn	tur	Zor sipas!	Çok teşekkürler!
-kur_Latn	tur	Ew şîr e.	Bu süttür.
-kur_Latn	tur	Navê min Gulbihar e.	Adım Gülbahar.
-kur_Latn	tur	Bijî 1 Gulan!	Yaşasın 1 Mayıs!
-kur_Latn	tur	Ez birçî me.	Karnım aç.
-kur_Latn	tur	Gelo ev cih vala ye?	Bura boş mu acaba?
-kur_Latn	tur	Ev nan e.	Bu ekmektir.
-kur_Latn	tur	Ez aşpêj im.	Ben aşçıyım.
-kur_Latn	tur	Bejna law bilind e.	Çocuğun boyu uzundur.
-kur_Latn	tur	Ew şîr e?	Bu süt mü?
-kur_Latn	tur	Ev kûçik e?	Bu bir köpek mi?
-kur_Latn	tur	Ew kî ne?	Kim onlar?
-kur_Latn	tur	"Dapîra te ji ku bû?" "Îzlenda."	"Nineleriniz nereliydi?" "İzlanda."
-kur_Latn	tur	Ez kombersa xwe saz dikim.	Bilgisayarımı ayarlıyorum.
 kur_Latn	tur	Bejna kur bilind e.	Çocuğun boyu uzundur.
-kur_Latn	tur	Yek ta nabe du ta tê ranabe.	Aşağı tükürsen sakal yukarı tükürsen bıyık.
-kur_Latn	tur	Biborin, avdestxane li kû ye?	Affedersiniz, abdesthane nerede?
-kur_Latn	tur	Ji sazkariyên telefonê biguherîne.	Telefon ayarlarından değiştir.
-kur_Latn	tur	Ew şîr e?	Süt mü bu?
-kur_Latn	tur	Ez li malê me.	Evimizdeyim.
-kur_Latn	tur	Ev mizgeft e?	Bu bir cami mi?
-kur_Latn	tur	Ev sêv sor e.	Bu elma kırmızı.
+kur_Latn	tur	Bejna law bilind e.	Çocuğun boyu uzundur.
 kur_Latn	tur	Bes e.	Yeter.
-kur_Latn	tur	Ev çawa çêbû?	Bu nasıl oldu?
-kur_Latn	tur	Navê min Newroz e.	Benim adım Nevruz.
-kur_Latn	tur	Ev kitêb reş e.	Bu kitap siyah.
-kur_Latn	tur	Navê we çi ye?	İsminiz nedir?
-kur_Latn	tur	Fîl alîkariya mirovan dikin.	Filler insanlara yardım eder.
-kur_Latn	tur	Ev kûçik e?	Köpek mi bu?
-kur_Latn	tur	Ev nan e.	Ekmek bu.
-kur_Latn	tur	Sipas!	Teşekkürler!
-kur_Latn	tur	Ez pir birçî me.	Karnım çok aç.
+kur_Latn	tur	Beyanî baş!	İyi sabahlar!
+kur_Latn	tur	Biborin, asansor li kû ye?	Affedersiniz, asansör nerede?
+kur_Latn	tur	Biborin, avdestxane li kû ye?	Affedersiniz, abdesthane nerede?
+kur_Latn	tur	Biborin, avdestxane li kû ye?	Affedersiniz, tuvalet nerede?
+kur_Latn	tur	Biborin, derketin li kû ye?	Affedersiniz, çıkış nerede?
+kur_Latn	tur	Biborin, derketin li kû ye?	Affedersiniz, çıkış ne tarafta?
+kur_Latn	tur	Biborin, hemam li kû ye?	Affedersiniz, hamam nerede?
+kur_Latn	tur	Biborin, tiwalêt li kû ye?	Affedersiniz, tuvalet nerede?
+kur_Latn	tur	Bijî 1 Gulan!	Yaşasın 1 Mayıs!
+kur_Latn	tur	Bijî 1 Gulan!	Yaşasın bir Mayıs!
+kur_Latn	tur	Bijî yek Gulan!	Yaşasın 1 Mayıs!
+kur_Latn	tur	Bijî yek Gulan!	Yaşasın bir Mayıs!
+kur_Latn	tur	Bi xatirê te!	Hoşça kal!
+kur_Latn	tur	Bi xêr hatin bo malpera me!	Sitemize hoş geldiniz!
+kur_Latn	tur	"Dapîra te ji ku bû?" "Îzlenda."	"Nineleriniz nereliydi?" "İzlanda."
+kur_Latn	tur	Dema wê biçûya zanîngehê , li Ankara'yê ba apê xwe jiya bû	Üniversiteye giderken Ankara'da amcasının yanında yaşadı.
+kur_Latn	tur	Diranê min diêşe.	Dişim ağrıyor.
 kur_Latn	tur	Elfabeya kurdî ji sî û yek herfan hevedudanî ye: a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.	Kürt alfabesi otuz bir harften oluşur: a, b, c, ç, d, e, ê, f, g, h, i, î, j, k, l, m, n, o, p, q, r, s, ş, t, u, û, v, w, x, y, z.
 kur_Latn	tur	Elî birayê min e.	Ali biraderimdir.
+kur_Latn	tur	Elî birayê min e.	Ali erkek kardeşim.
+kur_Latn	tur	Em hemû ji bo yekî, yekî ji bo me hemûyî.	Hepimiz birimiz, birimiz hepimiz için!
+kur_Latn	tur	Em razî ne.	Biz razıyız.
+kur_Latn	tur	"Eşq" bi fransî çi ye?	Fransızcada "aşk" nasıl denir?
+kur_Latn	tur	Ev çawa çêbû?	Bu nasıl oldu?
+kur_Latn	tur	Ev ferhenga min e.	Bu benim sözlüğüm.
+kur_Latn	tur	Ev kitêb reş e.	Bu kitap siyah.
+kur_Latn	tur	Ev kûçik e?	Bu bir köpek mi?
+kur_Latn	tur	Ev kûçik e?	Köpek mi bu?
+kur_Latn	tur	Ev mizgeft e?	Bu bir cami mi?
+kur_Latn	tur	Ev mizgeft e?	Cami mi bu?
+kur_Latn	tur	Ev nan e.	Bu ekmektir.
+kur_Latn	tur	Ev nan e.	Ekmek bu.
+kur_Latn	tur	Ev pirtûk reş e.	Bu kitap siyah.
+kur_Latn	tur	Ev pisîk e?	Bu bir kedi mi?
+kur_Latn	tur	Ev pisîk e?	Kedi mi bu?
+kur_Latn	tur	Ev sêv sor e.	Bu elma kırmızı.
+kur_Latn	tur	Ew çi ye?	Ne bu?
 kur_Latn	tur	Ew derewan dike.	Yalan söylüyor.
-kur_Latn	tur	Ali birayê min e.	Ali erkek kardeşim.
-kur_Latn	tur	Navê te çi ye?	Adın ne?
-kur_Latn	tur	Navê min Mercan e.	Adım Mercan.
+kur_Latn	tur	Ew goşt e.	Bu ettir.
 kur_Latn	tur	Ew goşt e.	Et bu.
+kur_Latn	tur	Ew kî ne?	Kim onlar?
+kur_Latn	tur	Ew şîr e?	Bu süt mü?
+kur_Latn	tur	Ew şîr e.	Bu süttür.
+kur_Latn	tur	Ew şîr e.	Süt bu.
+kur_Latn	tur	Ew şîr e?	Süt mü bu?
+kur_Latn	tur	Ez aşpêj im.	Aşçıyım.
+kur_Latn	tur	Ez aşpêj im.	Ben aşçıyım.
+kur_Latn	tur	Ez birçî me.	Açım.
+kur_Latn	tur	Ez birçî me.	Karnım aç.
+kur_Latn	tur	Ez ê herim mala bavê xwe.	Babamın evine gideceğim.
 kur_Latn	tur	Ez ji te ciwantir im.	Senden gencim.
+kur_Latn	tur	Ez ji te hez dikim.	Seni seviyorum.
+kur_Latn	tur	Ez ji vî cihî pir hez dikim.	Burayı çok seviyorum.
+kur_Latn	tur	Ez kombersa xwe saz dikim.	Bilgisayarımı ayarlıyorum.
+kur_Latn	tur	Ez kurdim.	Ben Kürt'üm.
+kur_Latn	tur	Ez kurmancî zanim.	Kurmançça bilirim.
+kur_Latn	tur	Ez li daristanê me.	Ormandayım.
+kur_Latn	tur	Ez li malê me.	Evimizdeyim.
+kur_Latn	tur	Ez ne ciwan im.	Ben genç değilim.
+kur_Latn	tur	Ez pir birçî me.	Çok acıkmışım.
+kur_Latn	tur	Ez pir birçî me.	Karnım çok aç.
+kur_Latn	tur	Ez razî me.	Ben razıyım.
+kur_Latn	tur	Ez şîr dixwazim.	Süt istiyorum.
+kur_Latn	tur	Fîl alîkariya mirovan dikin.	Filler insanlara yardım eder.
+kur_Latn	tur	Gelo ev cih vala ye?	Bura boş mu acaba?
+kur_Latn	tur	Hawar!	İmdat!
 kur_Latn	tur	Hilpeka sazkariyan veke.	Ayarlar sekmesini aç.
-kur_Latn	tur	Rastî tal e.	Gerçekler acıdır.
-kur_Latn	tur	Bi xatirê te!	Hoşça kal!
-kur_Latn	tur	Beyanî baş!	İyi sabahlar!
-kur_Latn	tur	Tom ji bo çûna bostonê bi biryar e.	Tom Boston'a gitmekte kararlı.
+kur_Latn	tur	Îro pêncşem e.	Bugün perşembedir.
+kur_Latn	tur	Jinên asyayî bi balkêş dibine.	Asyalı kadınları çekici buluyor.
+kur_Latn	tur	Ji sazkariyên telefonê biguherîne.	Telefon ayarlarından değiştir.
+kur_Latn	tur	Ji te hez dikim.	Seni seviyorum.
+kur_Latn	tur	Maseyê dest bi axavtinê kir.	Masa konuşmaya başladı.
+kur_Latn	tur	Merhaba!	Merhaba.
+kur_Latn	tur	Navê min Azad e.	Adım Azat.
+kur_Latn	tur	Navê min Gulbihar e.	Adım Gülbahar.
+kur_Latn	tur	Navê min Mercan e.	Adım Mercan.
+kur_Latn	tur	Navê min Newroz e.	Benim adım Nevruz.
+kur_Latn	tur	Navê te çi ye?	Adın ne?
+kur_Latn	tur	Navê we çi ye?	İsminiz nedir?
+kur_Latn	tur	Navê wî Elî ye.	Adı Ali.
+kur_Latn	tur	Navê wî Elî ye.	İsmi Ali.
 kur_Latn	tur	Navê wî Elî ye.	Onun adı Ali.
 kur_Latn	tur	Nêz ve li wî mêze kir	Ona yakından baktı.
-kur_Latn	tur	Ez birçî me.	Açım.
-kur_Latn	tur	"Eşq" bi fransî çi ye?	Fransızcada "aşk" nasıl denir?
-kur_Latn	tur	Ser Tatoeba, hemu ziman wekhev in.	Tatoeba'da tüm diller eşittir.
-kur_Latn	tur	Ya min e.	Benim bu.
-kur_Latn	tur	Ez aşpêj im.	Aşçıyım.
-kur_Latn	tur	Biborin, avdestxane li kû ye?	Affedersiniz, tuvalet nerede?
-kur_Latn	tur	Îro pêncşem e.	Bugün perşembedir.
-kur_Latn	tur	Ez ne ciwan im.	Ben genç değilim.
-kur_Latn	tur	Ev pisîk e?	Bu bir kedi mi?
-kur_Latn	tur	Bijî yek Gulan!	Yaşasın bir Mayıs!
+kur_Latn	tur	Niha dora min e.	Şimdi sıra bende.
+kur_Latn	tur	Nikarim bavê te bibînim.	Babanı göremiyorum.
 kur_Latn	tur	Noşî can be!	Afiyet olsun!
-kur_Latn	tur	Xatirê te!	Hoşça kal!
-kur_Latn	tur	Ji te hez dikim.	Seni seviyorum.
-kur_Latn	tur	Hawar!	İmdat!
-kur_Latn	tur	Ez li daristanê me.	Ormandayım.
-kur_Latn	tur	Ev pisîk e?	Kedi mi bu?
-kur_Latn	tur	Biborin, derketin li kû ye?	Affedersiniz, çıkış nerede?
-kur_Latn	tur	Ez razî me.	Ben razıyım.
-kur_Latn	tur	Dema wê biçûya zanîngehê , li Ankara'yê ba apê xwe jiya bû	Üniversiteye giderken Ankara'da amcasının yanında yaşadı.
 kur_Latn	tur	"Pîrika te ji ku bû?" "Îzlenda."	"Nineleriniz nereliydi?" "İzlanda."
+kur_Latn	tur	Rastî tal e, derew şîrîn e.	Gerçekler acı, yalanlar tatlıdır.
+kur_Latn	tur	Rastî tal e.	Gerçekler acıdır.
+kur_Latn	tur	Remezan pîroz be.	Hayırlı Ramazanlar.
+kur_Latn	tur	Saet çend e?	Saat kaç?
+kur_Latn	tur	Saet pênc e.	Saat 5.
+kur_Latn	tur	Selam!	Selam!
+kur_Latn	tur	Ser Tatoeba, hemu ziman wekhev in.	Tatoeba'da tüm diller eşittir.
+kur_Latn	tur	Sipas!	Teşekkür ederim!
+kur_Latn	tur	Sipas!	Teşekkürler!
+kur_Latn	tur	Tom ji bo çûna bostonê bi biryar e.	Tom Boston'a gitmekte kararlı.
+kur_Latn	tur	Tu zani bi kurdî?	Kürtçe biliyor musun?
+kur_Latn	tur	Xatirê te!	Hoşça kal!
+kur_Latn	tur	Xwedê hafîz!	Allah'a emanet ol!
+kur_Latn	tur	Xwedê hafîz!	Allah'a ısmarladık!
+kur_Latn	tur	Ya min e.	Benim bu.
+kur_Latn	tur	Ya min e.	Benimki o.
+kur_Latn	tur	Yek ta nabe du ta tê ranabe.	Aşağı tükürsen sakal yukarı tükürsen bıyık.
+kur_Latn	tur	Yek yek e, dudu komek e.	Bir elin nesi var, iki elin sesi var.
+kur_Latn	tur	Zor sipas!	Çok teşekkür ederim!
+kur_Latn	tur	Zor sipas!	Çok teşekkürler!
+sdh	tur	ماڵمان ھا لە ئیلام.	Evimiz İlam'da.

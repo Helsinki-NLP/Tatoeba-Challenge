@@ -51,6 +51,8 @@
 ## make update-git ............. update the git repository
 ##
 
+SHELL := bash
+
 ## OPUS home directory and language code conversion tools
 ## OPUSMT_HOMEDIR: local copy of Opus-MT-train project
 ## TODO: get rid of some hard-coded paths?
@@ -270,16 +272,14 @@ WIKI_LABELS    = ${patsubst %.id.gz,%.langs.txt,${WIKI_DOCS}}
 
 all: opus-langs.txt
 	${MAKE} data
+	${MAKE} extra-traindata
+	${MAKE} released-remove-empty
 	${MAKE} dev-tsv test-tsv
 	${MAKE} ${DATADIR}/README.md
 	${MAKE} subsets
-	${MAKE} extra-traindata
 	${MAKE} extra-statistics
 	${MAKE} released-data-counts
 	${MAKE} release-tag
-
-afreng-traindata: 
-	echo ${RELEASEDIR}/afr-eng/train.id.gz
 
 release-job:
 	${MAKE} HPC_MEM=32g HPC_CORES=16 HPC_DISK=1000 HPC_TIME=3-00 release.submit
@@ -295,6 +295,8 @@ release:
 	@echo "  module load allas"
 	@echo "  allas-conf"
 	@echo "  make VERSION=v${TODAY} upload-release"
+	@echo "Ande then push the updates to git"
+	@echo "  make VERSION=v${TODAY} release-push"
 	@echo "--------------------------------"
 
 release-tag:
@@ -312,6 +314,8 @@ release-tag:
 	git add ${DATA_COUNT_FILES}
 	git commit -am 'updated dev and test data (${VERSION})'
 	git tag -a ${VERSION} -m "release version ${VERSION}"
+
+release-push:
 	git push origin master
 	git push origin ${VERSION}
 
@@ -358,6 +362,8 @@ testset-release:
 	@echo "  module load allas"
 	@echo "  allas-conf"
 	@echo "  make VERSION=v${TODAY} upload-test upload-dev"
+	@echo "Ande then push the updates to git"
+	@echo "  make VERSION=v${TODAY} release-push"
 	@echo "--------------------------------"
 
 
@@ -373,13 +379,12 @@ testset-release-tag:
 	git add ${DATA_COUNT_FILES}
 	git commit -am 'updated dev and test data (${VERSION})'
 	git tag -a ${VERSION} -m "release version ${VERSION}"
-	git push origin master
-	git push origin ${VERSION}
 
 
 
-
-data: ${TEST_DATA} ${DEV_DATA} ${TRAIN_DATA}
+# data: ${TEST_DATA} ${DEV_DATA} ${TRAIN_DATA}
+data: ${TEST_DATA} ${DEV_DATA}
+	${MAKE} traindata
 traindata: ${TRAIN_DATA}
 testdata: ${TEST_DATA}
 devdata: ${DEV_DATA}
@@ -477,10 +482,10 @@ TRG2SRC_MAP_DESCRIPTION = <p>Available translation models for various language p
 	<p>The dots on the map indicate the target language. Select the source language from the menu in the upper-right corner of the map.</p>
 
 
-FIX_LANG_CODES = sed 	-e 's/kur_Latn/kmr/' \
-			-e 's/kur_Arab/ckb/' \
-			-e 's/fas/pes/' \
-			-e 's/sqi/sqj/' \
+# FIX_LANG_CODES = sed 	-e 's/kur_Latn/kmr/' \
+# 			-e 's/kur_Arab/ckb/' \
+# 			-e 's/fas/pes/' \
+# 			-e 's/sqi/sqj/' \
 
 ## double check (move macro language swahili to individual lang swahili?)
 #
@@ -651,7 +656,6 @@ ${RELEASEDIR}/%/train.id.gz:
 		    ${SCRIPTDIR}/bitext-match-lang.py -s $$e -t $$f   > $@.tmp2; \
 		  fi; \
 		  if [ -e $@.tmp2 ]; then \
-		    echo "langid"; \
 		    v=`realpath ${OPUS_HOME}/$$c/latest | sed "s#${OPUS_HOME}/$$c/##"`; \
 		    cut -f1 $@.tmp2 ${FIXLANGIDS} | langscript -3 -l $$e -r -D  > $@.tmp2srcid; \
 		    cut -f2 $@.tmp2 ${FIXLANGIDS} | langscript -3 -l $$f -r -D  > $@.tmp2trgid; \
@@ -663,14 +667,16 @@ ${RELEASEDIR}/%/train.id.gz:
 	  done \
 	)
 	if [ -s $@.tmp1 ]; then \
-	  ${SHUFFLE} < $@.tmp1 > $@.tmp2; \
+	  ${SHUFFLE} < $@.tmp1 |\
+	  scripts/exclude-devtest.pl -a -l \
+		${dir $@}test.src ${dir $@}test.trg \
+		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp2; \
 	  cut -f4 $@.tmp2 | ${GZIP} -c > ${dir $@}train.src.gz; \
 	  cut -f5 $@.tmp2 | ${GZIP} -c > ${dir $@}train.trg.gz; \
 	  cut -f1,2,3 $@.tmp2 | ${GZIP} -c > $@; \
 	fi
 	rm -f $@.tmp1 $@.tmp2
 	rmdir ${dir $@}train.d
-
 
 ${DATADIR}/%/README.md: ${DATADIR}/%
 	@echo "create $@ .."
@@ -736,7 +742,8 @@ ${DEVTESTDIR}/%/tatoeba-shuffled.tsv:
 ${RELEASEDIR}/%/test.id: 
 	${MAKE} $(patsubst ${RELEASEDIR}/%/test.id,${DEVTESTDIR}/%/test-${TATOEBA_VERSION}.txt,$@)
 	mkdir -p ${dir $@}
-	cat ${patsubst ${RELEASEDIR}/%/test.id,${DEVTESTDIR}/%,$@}/test-*.txt > $@.merged
+	cat ${patsubst ${RELEASEDIR}/%/test.id,${DEVTESTDIR}/%,$@}/test-*.txt |\
+	sed "s/ *\t/\t/g;s/ *$$//" | sort -u > $@.merged
 	cut -f1,2 $@.merged > $@
 	cut -f3 $@.merged > ${dir $@}test.src
 	cut -f4 $@.merged > ${dir $@}test.trg
@@ -747,7 +754,8 @@ ${RELEASEDIR}/%/test.id:
 ${RELEASEDIR}/%/dev.id: 
 	${MAKE} ${patsubst ${RELEASEDIR}/%/dev.id,${DEVTESTDIR}/%/test-${TATOEBA_VERSION}.txt,$@}
 	mkdir -p ${dir $@}
-	-cat ${patsubst ${RELEASEDIR}/%/dev.id,${DEVTESTDIR}/%,$@}/dev-*.txt > $@.merged
+	-cat ${patsubst ${RELEASEDIR}/%/dev.id,${DEVTESTDIR}/%,$@}/dev-*.txt |\
+	sed "s/ *\t/\t/g;s/ *$$//" | sort -u > $@.merged
 	if [ -s $@.merged ]; then \
 	  cut -f1,2 $@.merged > $@; \
 	  cut -f3 $@.merged > ${dir $@}dev.src; \
@@ -852,6 +860,93 @@ ${TEST_TSV}: ${DATADIR}/test/%/test.txt: ${RELEASEDIR}/%/test.id
 ${DEV_TSV}: ${DATADIR}/dev/%/dev.txt: ${RELEASEDIR}/%/dev.id
 	mkdir -p ${dir $@}
 	paste $< ${<:.id=.src} ${<:.id=.trg} > $@
+
+
+## do some file size checking and remove empty files
+.PHONY: released-remove-empty
+released-remove-empty:
+	${MAKE} released-remove-empty-train
+	${MAKE} released-remove-missing-train
+	find ${RELEASEDIR} -empty -delete
+
+TRAIN_DATA_CHECK = ${TRAIN_DATA:.id.gz=.check}
+.PHONY: released-remove-empty-train ${TRAIN_DATA_CHECK}
+released-remove-empty-train: ${TRAIN_DATA_CHECK}
+
+## remove training data if one of the gzipped files is empty
+${TRAIN_DATA_CHECK}:
+	@if [ -e ${@:.check=.src.gz} ] && [ `gzip -l ${@:.check=.src.gz} | awk 'NR==2 {print $$2}'` -eq 0 ]; then \
+	    echo "rm -f ${@:.check=.src.gz}"; \
+	    echo "rm -f ${@:.check=.trg.gz}"; \
+	    echo "rm -f ${@:.check=.id.gz}"; \
+	    if [ "${DRYRUN}" != "1" ]; then \
+	      rm -f ${@:.check=.src.gz}; \
+	      rm -f ${@:.check=.trg.gz}; \
+	      rm -f ${@:.check=.id.gz}; \
+	    fi \
+	elif [ -e ${@:.check=.trg.gz} ] && [ `gzip -l ${@:.check=.trg.gz} | awk 'NR==2 {print $$2}'` -eq 0 ]; then \
+	    echo "rm -f ${@:.check=.src.gz}"; \
+	    echo "rm -f ${@:.check=.trg.gz}"; \
+	    echo "rm -f ${@:.check=.id.gz}"; \
+	    if [ "${DRYRUN}" != "1" ]; then \
+	      rm -f ${@:.check=.src.gz}; \
+	      rm -f ${@:.check=.trg.gz}; \
+	      rm -f ${@:.check=.id.gz}; \
+	    fi \
+	elif [ -e ${@:.check=.id.gz} ] && [ `gzip -l ${@:.check=.id.gz} | awk 'NR==2 {print $$2}'` -eq 0 ]; then \
+	    echo "rm -f ${@:.check=.src.gz}"; \
+	    echo "rm -f ${@:.check=.trg.gz}"; \
+	    echo "rm -f ${@:.check=.id.gz}"; \
+	    if [ "${DRYRUN}" != "1" ]; then \
+	      rm -f ${@:.check=.src.gz}; \
+	      rm -f ${@:.check=.trg.gz}; \
+	      rm -f ${@:.check=.id.gz}; \
+	    fi \
+	fi
+
+
+
+TRAIN_DATA_CHECK2 = ${TRAIN_DATA:.id.gz=.check2}
+.PHONY: released-remove-missing-train ${TRAIN_DATA_CHECK2}
+released-remove-missing-train: ${TRAIN_DATA_CHECK2}
+
+## remove training data if one file is missing
+${TRAIN_DATA_CHECK2}:
+	@if [ ! -e ${@:.check2=.src.gz} ]; then \
+	  if [ -e ${@:.check2=.trg.gz} ] || [ -e ${@:.check2=.id.gz} ]; then \
+	    echo "rm -f ${@:.check2=.trg.gz}"; \
+	    echo "rm -f ${@:.check2=.id.gz}"; \
+	    if [ "${DRYRUN}" != "1" ]; then \
+	      rm -f ${@:.check2=.trg.gz}; \
+	      rm -f ${@:.check2=.id.gz}; \
+	    fi \
+	  fi \
+	fi
+	@if [ ! -e ${@:.check2=.trg.gz} ]; then \
+	  if [ -e ${@:.check2=.src.gz} ] || [ -e ${@:.check2=.id.gz} ]; then \
+	    echo "rm -f ${@:.check2=.src.gz}"; \
+	    echo "rm -f ${@:.check2=.id.gz}"; \
+	    if [ "${DRYRUN}" != "1" ]; then \
+	      rm -f ${@:.check2=.src.gz}; \
+	      rm -f ${@:.check2=.id.gz}; \
+	    fi \
+	  fi \
+	fi
+	@if [ ! -e ${@:.check2=.id.gz} ]; then \
+	  if [ -e ${@:.check2=.src.gz} ] || [ -e ${@:.check2=.trg.gz} ]; then \
+	    echo "rm -f ${@:.check2=.src.gz}"; \
+	    echo "rm -f ${@:.check2=.trg.gz}"; \
+	    if [ "${DRYRUN}" != "1" ]; then \
+	      rm -f ${@:.check2=.src.gz}; \
+	      rm -f ${@:.check2=.trg.gz}; \
+	    fi \
+	  fi \
+	fi
+
+
+
+
+
 
 
 # wikidocs: ${WIKI_DOCS}
@@ -975,6 +1070,7 @@ ${RELEASEDIR}/released-bitexts-zero-shot.txt: ${RELEASEDIR}/released-bitexts.txt
 ${RELEASEDIR}/released-bitexts.txt:
 	echo "# langpair	source-lang	target-lang	test-size	test-source	test-target	dev-size	dev-source	dev-target	train-size	train-source	train-target" > $@
 	for l in `find ${RELEASEDIR} -maxdepth 1 -mindepth 1 -type d -name '*-*' -printf "%f\n" | sort`; do \
+	  echo "count size of bitext $$l"; \
 	  echo -n "$$l	" >> $@; \
 	  echo "$$l" | tr '-' ' '  | xargs iso639 | sed 's/" "/\t/;s/"//g' | tr "\n" "\t" >> $@; \
 	  if [ -s ${RELEASEDIR}/$$l/test.id ]; then \
@@ -1562,6 +1658,25 @@ endif
 
 
 ## some auxiliary functions
+
+
+## fix released training data to exclude devtest data
+
+TRAIN_DATA_FIXES  = ${patsubst %,${RELEASEDIR}/%/train.fixed,${TATOEBA_PAIRS3}}
+fix-train-data: ${TRAIN_DATA_FIXES}
+
+${RELEASEDIR}/%/train.fixed: ${RELEASEDIR}/%/train.id.gz
+	paste <(gzip -cd $<) <(gzip -cd ${@:fixed=src.gz}) <(gzip -cd ${@:fixed=trg.gz}) |\
+	scripts/exclude-devtest.pl -a -l \
+		${dir $@}test.src ${dir $@}test.trg \
+		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp
+	cut -f4 $@.tmp | ${GZIP} -c > ${dir $@}train.src.gz
+	cut -f5 $@.tmp | ${GZIP} -c > ${dir $@}train.trg.gz
+	cut -f1,2,3 $@.tmp | ${GZIP} -c > $<
+	rm -f $@.tmp
+	touch $@
+
+
 
 print-additional-opuslangs:
 	@echo "nr of additional language pairs: $(words ${EXTRA_OPUS_PAIRS3})"

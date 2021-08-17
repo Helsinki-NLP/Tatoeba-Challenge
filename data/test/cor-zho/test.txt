@@ -1,47 +1,47 @@
-cor	cmn_Hant	Deg, ugens, deg warn ugens, dew-ugens, deg ha dew-ugens, tri-ugens, deg ha tri-ugens, peswar-ugens, deg ha peswar-ugens, kans.	十、二十、三十、四十、五十、六十、七十、八十、九十、一百。
-cor	cmn_Hans	Piw os ta?	你是谁？
-cor	cmn_Hans	Nyns eus korev omma.	这里没有啤酒。
-cor	cmn_Hans	Yma lyver war an voos.	在桌子上有本书。
-cor	cmn_Hans	Nowydh yw an lyver ma.	这本书是新的。
-cor	cmn_Hans	A wre’ta kewsel nihonek?	你说日语吗?
-cor	cmn_Hans	My a skrifas an lyver ma.	我写了这本书。
-cor	cmn_Hant	My a’s kar.	我愛她。
-cor	cmn_Hans	Yma dhodho kath wynn.	他有一只白猫。
-cor	cmn_Hant	Yma diwros koth dhymm.	我有一輛舊的腳踏車。
-cor	cmn_Hant	Nyns yw da ganso eva koffi.	他不喜歡喝咖啡。
-cor	cmn_Hant	Gorthugher da!	晚上好。
-cor	cmn_Hans	Yma diw gath dhe Ken.	Ken有两只猫。
-cor	cmn_Hant	Ple’ma ow lyvrow?	我的書在哪裏？
-cor	cmn_Hant	Nyns eus tokyn dhymm.	我沒有票。
-cor	cmn_Hant	Ow hwor yw hi.	她是我的姊妹。
-cor	cmn_Hans	Hemm yw lyver.	这是一本书。
-cor	cmn_Hant	Piw os ta?	你是誰？
-cor	cmn_Hant	Pur skwith ov vy.	我很累。
-cor	cmn_Hans	Ple’ma’n arghantti?	银行在哪里？
+cor	cmn_Bopo	Onan, dew, tri, peswar, pymp, hwegh, seyth, eth, naw, deg.	一、二、三、四、五、六、七、八、九、十。
 cor	cmn_Bopo	Onen, dew, tri, peswar, pymp, whegh, seyth, eth, naw, deg.	一、二、三、四、五、六、七、八、九、十。
-cor	cmn_Hant	Ple’ma dha skol?	你的學校在哪裏？
-cor	cmn_Hans	My a’s kar.	我爱她。
-cor	cmn_Hant	My a’m beus diwros koth.	我有一輛舊的腳踏車。
-cor	cmn_Hans	Usi hi tre?	她在家吗?
 cor	cmn_Hans	25 bloodh ov.	我二十五岁了。
-cor	cmn_Hant	Skwith ov.	我很累。
-cor	cmn_Hant	Penn-bloedh lowen, Shishir!	生日快樂，Shishir。
+cor	cmn_Hans	A wre’ta kewsel nihonek?	你说日语吗?
+cor	cmn_Hans	Hemm yw lyver.	这是一本书。
 cor	cmn_Hans	Hemm yw ow thas.	这是我的父亲。
-cor	cmn_Hant	Ow thas yw.	他是我父親。
-cor	cmn_Hant	Nyns yw es kewsel Sowsnek.	說英語是不容易的。
-cor	cmn_Hant	My a’th kar!	我愛你！
-cor	cmn_Hant	Pyth yw dha hanow?	你叫什么名字？
-cor	cmn_Hant	Penn-bloodh lowen, Shishir!	生日快樂，Shishir。
-cor	cmn_Hans	Piw a skrifas an lyther ma?	这封信谁写的？
-cor	cmn_Hant	Pyth yw agas hanow?	您叫什么名字？
 cor	cmn_Hans	My a gar an kynnyav.	我爱秋天。
 cor	cmn_Hans	My a’m beus diwros koth.	我有一辆旧的自行车。
-cor	cmn_Hans	Yma dhedha dew vab hag unn vyrgh.	他们有两个儿子和一个女儿。
-cor	cmn_Hant	Ny’m beus tokyn.	我沒有票。
-cor	cmn_Hant	Nyns yw es kewsel Sowsnek.	說英語不容易。
-cor	cmn_Hans	Yma diwros koth dhymm.	我有一辆旧的自行车。
-cor	cmn_Bopo	Onan, dew, tri, peswar, pymp, hwegh, seyth, eth, naw, deg.	一、二、三、四、五、六、七、八、九、十。
+cor	cmn_Hans	My a’s kar.	我爱她。
+cor	cmn_Hans	My a skrifas an lyver ma.	我写了这本书。
+cor	cmn_Hans	Nowydh yw an lyver ma.	这本书是新的。
 cor	cmn_Hans	Nyns eus fleghes dhymm.	我没有孩子。
-cor	cmn_Hant	Ple’ma ow lyvrow?	我的書在哪？
-cor	cmn_Hant	Ow myrgh yw hi.	她是我女儿。
+cor	cmn_Hans	Nyns eus korev omma.	这里没有啤酒。
+cor	cmn_Hans	Piw a skrifas an lyther ma?	这封信谁写的？
+cor	cmn_Hans	Piw os ta?	你是谁？
+cor	cmn_Hans	Ple’ma’n arghantti?	银行在哪里？
+cor	cmn_Hans	Usi hi tre?	她在家吗?
+cor	cmn_Hans	Yma dhedha dew vab hag unn vyrgh.	他们有两个儿子和一个女儿。
+cor	cmn_Hans	Yma dhodho kath wynn.	他有一只白猫。
+cor	cmn_Hans	Yma diw gath dhe Ken.	Ken有两只猫。
+cor	cmn_Hans	Yma diwros koth dhymm.	我有一辆旧的自行车。
+cor	cmn_Hans	Yma lyver war an voos.	在桌子上有本书。
+cor	cmn_Hant	Deg, ugens, deg warn ugens, dew-ugens, deg ha dew-ugens, tri-ugens, deg ha tri-ugens, peswar-ugens, deg ha peswar-ugens, kans.	十、二十、三十、四十、五十、六十、七十、八十、九十、一百。
+cor	cmn_Hant	Gorthugher da!	晚上好。
 cor	cmn_Hant	Hi yw ow hwor.	她是我的姊妹。
+cor	cmn_Hant	My a’m beus diwros koth.	我有一輛舊的腳踏車。
+cor	cmn_Hant	My a’s kar.	我愛她。
+cor	cmn_Hant	My a’th kar!	我愛你！
+cor	cmn_Hant	Ny’m beus tokyn.	我沒有票。
+cor	cmn_Hant	Nyns eus tokyn dhymm.	我沒有票。
+cor	cmn_Hant	Nyns yw da ganso eva koffi.	他不喜歡喝咖啡。
+cor	cmn_Hant	Nyns yw es kewsel Sowsnek.	說英語不容易。
+cor	cmn_Hant	Nyns yw es kewsel Sowsnek.	說英語是不容易的。
+cor	cmn_Hant	Ow hwor yw hi.	她是我的姊妹。
+cor	cmn_Hant	Ow myrgh yw hi.	她是我女儿。
+cor	cmn_Hant	Ow thas yw.	他是我父親。
+cor	cmn_Hant	Penn-bloedh lowen, Shishir!	生日快樂，Shishir。
+cor	cmn_Hant	Penn-bloodh lowen, Shishir!	生日快樂，Shishir。
+cor	cmn_Hant	Piw os ta?	你是誰？
+cor	cmn_Hant	Ple’ma dha skol?	你的學校在哪裏？
+cor	cmn_Hant	Ple’ma ow lyvrow?	我的書在哪？
+cor	cmn_Hant	Ple’ma ow lyvrow?	我的書在哪裏？
+cor	cmn_Hant	Pur skwith ov vy.	我很累。
+cor	cmn_Hant	Pyth yw agas hanow?	您叫什么名字？
+cor	cmn_Hant	Pyth yw dha hanow?	你叫什么名字？
+cor	cmn_Hant	Skwith ov.	我很累。
+cor	cmn_Hant	Yma diwros koth dhymm.	我有一輛舊的腳踏車。

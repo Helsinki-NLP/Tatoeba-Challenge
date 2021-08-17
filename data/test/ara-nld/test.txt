@@ -1,62 +1,69 @@
-ara	nld	واحد، اثنان، ثلاثة، أربعة، خمسة، ستة، سبعة، ثمانية، تسعة، عشرة.	Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.
-ara	nld	هذا الكتاب ليس لي، إنه لأخي.	Dit boek is niet van mij, maar van mijn broer.
-ara	nld	اليوم ليس بارداً.	Het is niet koud vandaag.
-ara	nld	أنا بطل.	Ik ben een held.
-ara	nld	هي تودّ معرفة من أرسل الورود.	Ze wil weten wie de bloemen stuurde.
-ara	nld	أنا احب اللغات!	Ik hou van talen!
-ara	nld	بلال أطْوَلُ من كرم.	Bilal is groter dan Karam.
-ara	nld	ليلة سعيدة!	Goedenacht!
-ara	nld	إختبارات الحمض النووي أظهرت أنه برئ.	Uit DNA-tests bleek dat hij onschuldig was.
-ara	nld	يُوْلَد جَمِيْع الْنَّاس أَحْرَارا ومُتَسَاوِين فِي الْكَرَامَة وَالْحُقُوْق، وَهُم قَد وُهِبُوا الْعَقْل وَالْوِجْدَان، وَعَلَيْهِم أَن يُعَامِلُوْا بَعْضَهُم بَعْضا بِرُوْح الْإِخَاء.	Alle mensen worden vrij en gelijk in waardigheid en rechten geboren. Zij zijn begiftigd met verstand en geweten, en behoren zich jegens elkander in een geest van broederschap te gedragen.
-ara	nld	صدقني	Geloof me!
-ara	nld	هل أنجزت فرضك؟	Heb je je huiswerk gedaan?
-ara	nld	اظن انك لم تسمع اي شيئ جديد من طوم.	Ik neem het aan dat je van Tom niets meer gehoord hebt.
-ara	nld	أنا من إسبانيا.	Ik kom uit Spanje.
-ara	nld	متى سيأتي القطار؟	Wanneer komt de trein?
 ara	nld	أتكلم الأوزبكية.	Ik spreek Oezbeeks.
+ara	nld	إختبارات الحمض النووي أظهرت أنه برئ.	Uit DNA-tests bleek dat hij onschuldig was.
+ara	nld	أردوغان هو رئيس تركيّا.	Erdogan is de president van Turkije.
+ara	nld	أريد السلام.	Ik wil vrede.
+ara	nld	اظن انك لم تسمع اي شيئ جديد من طوم.	Ik neem het aan dat je van Tom niets meer gehoord hebt.
+ara	nld	افتح الراديو.	Doe de radio aan.
+ara	nld	الأرنب لديه أذنان طويلتان.	Een konijn heeft lange oren.
+ara	nld	البارحة كان يوم الخميس.	Gisteren was het donderdag.
+ara	nld	اليابان بلد صناعي.	Japan is een industrieland.
+ara	nld	اليهودية جميلة.	Het jodendom is mooi.
+ara	nld	اليوم بارد.	Het is koud vandaag.
+ara	nld	اليوم ليس بارداً.	Het is niet koud vandaag.
+ara	nld	أنا أحب الشوكولاتة.	Ik hou van chocolade.
+ara	nld	أنا احب اللغات!	Ik hou van talen!
+ara	nld	أنا أنتظر منذ ساعات.	Ik wacht al uren lang.
+ara	nld	أنا بطل.	Ik ben een held.
+ara	nld	أنا من إسبانيا.	Ik kom uit Spanje.
+ara	nld	أنا من الولايات المتحدة الأمريكية.	Ik kom uit de Verenigde Staten.
+ara	nld	أنا من الولايات المتحدة الأمريكية.	Ik kom uit de VS.
+ara	nld	أنا من بريطانيا.	Ik kom uit Engeland.
+ara	nld	انا من فرنسا.	Ik kom uit Frankrijk.
+ara	nld	أنا من مصر.	Ik kom uit Egypte.
+ara	nld	إنه قوي كالحصان.	Hij is zo sterk als een paard.
+ara	nld	أين هي السّفارة الألمانيّة؟	Waar is de Duitse ambassade?
+ara	nld	بلال أطْوَلُ من كرم.	Bilal is groter dan Karam.
+ara	nld	تأكل مايوكو الخبز على الفطور.	Mayuko eet brood voor het ontbijt.
+ara	nld	توضّأ سامي.	Sami deed de woedoe.
+ara	nld	توضّأ سامي.	Sami verrichtte de wassing.
+ara	nld	توم فاز باليانصيب.	Tom won de loterij.
+ara	nld	توم ليس مترجم.	Tom is geen tolk.
+ara	nld	توم مترجم.	Tom is vertaler.
+ara	nld	دونالد ترامب كذاب.	Donald Trump is een pathologische leugenaar.
+ara	nld	سأسافر خارج البلاد.	Ik ga naar het buitenland.
+ara	nld	سأسافر خارج البلاد في السنة المقبلة.	Volgend jaar ga ik naar het buitenland.
+ara	nld	سامي أفضل من فريد.	Sami is beter dan Farid.
+ara	nld	سامي يتّصل بالشّرطة.	Sami belt de politie.
+ara	nld	سيارة ماركو إسمها "ثاندر جاينت".	Marco's auto heet "Thunder Giant".
+ara	nld	صدقني	Geloof me!
+ara	nld	عرض كلاود بيرون في مقالته "الإسبرانتو: لغة أوروبية أم آسيوية" التشابهات بين الإسبرانتو والصينية، مميتًا بذلك فكرة كون الإسبرانتو أوروبيةً خالصةً.	In zijn essay "Esperanto: een Europese of een Aziatische taal" toonde Claude Piron de gelijkenis aan tussen het Esperanto en het Chinees, en ontkrachtte zo het denkbeeld dat het Esperanto enkel een op Europa gerichte taal zou zijn.
+ara	nld	عندي بطن الجعة.	Ik heb een bierbuik.
+ara	nld	غنى أغنية.	Hij zong een lied.
+ara	nld	غير مسموح لك أن توقف سيارتك في هذا الشارع.	Ge moogt de auto niet parkeren in deze straat.
+ara	nld	كانت تلهث.	Ze was aan het hijgen.
+ara	nld	كان عادةً ما يناديني إتشيرو.	Hij noemde me Ichiro.
+ara	nld	لقد حياها بسرور كما عادته.	Ze groette hem vrolijk, zoals ze altijd deed.
+ara	nld	لمن هذا الكتاب؟	Van wie is dat boek?
+ara	nld	ليس كل ما يلمع ذهباً.	Het is niet alles goud wat er blinkt.
+ara	nld	ليلة سعيدة!	Goedenacht!
+ara	nld	ليلة سعيدة.	Goedenacht.
+ara	nld	ماذا الحرية؟	Wat is vrijheid?
+ara	nld	ماذا سنفعل ؟	Wat gaan wij doen?
+ara	nld	ما هو جيد لك، جيد لي أيضا.	Wat goed is voor u, is goed voor mij.
+ara	nld	متى سيأتي القطار؟	Wanneer komt de trein?
+ara	nld	نانسي تملك بيانو.	Nancy heeft een piano.
+ara	nld	هذا الكتاب ليس لي، إنه لأخي.	Dit boek is niet van mij, maar van mijn broer.
+ara	nld	هذه ليست مظلتي، إنها لشخص ما.	Dit is niet mijn paraplu, het is die van iemand anders.
+ara	nld	هل أنجزت فرضك؟	Heb je je huiswerk gedaan?
+ara	nld	هل عملت البارحة؟	Heb je gisteren gewerkt?
 ara	nld	هل لديك موعد؟	Heb je een afspraak?
 ara	nld	هل هذا أمر؟	Is dat een bevel?
-ara	nld	أنا أنتظر منذ ساعات.	Ik wacht al uren lang.
-ara	nld	توم فاز باليانصيب.	Tom won de loterij.
-ara	nld	أين هي السّفارة الألمانيّة؟	Waar is de Duitse ambassade?
-ara	nld	يعيش البدو في الصحراء.	Bedoeïenen wonen in de woestijn.
-ara	nld	أنا من مصر.	Ik kom uit Egypte.
-ara	nld	أنا من الولايات المتحدة الأمريكية.	Ik kom uit de VS.
-ara	nld	توم مترجم.	Tom is vertaler.
-ara	nld	سيارة ماركو إسمها "ثاندر جاينت".	Marco's auto heet "Thunder Giant".
-ara	nld	انا من فرنسا.	Ik kom uit Frankrijk.
-ara	nld	عرض كلاود بيرون في مقالته "الإسبرانتو: لغة أوروبية أم آسيوية" التشابهات بين الإسبرانتو والصينية، مميتًا بذلك فكرة كون الإسبرانتو أوروبيةً خالصةً.	In zijn essay "Esperanto: een Europese of een Aziatische taal" toonde Claude Piron de gelijkenis aan tussen het Esperanto en het Chinees, en ontkrachtte zo het denkbeeld dat het Esperanto enkel een op Europa gerichte taal zou zijn.
-ara	nld	ليلة سعيدة.	Goedenacht.
+ara	nld	هناك الكثير من الجُزُر في اليونان.	Er zijn veel eilanden in Griekenland.
+ara	nld	هو أخي الأصغر.	Hij is mijn jongste broer.
+ara	nld	هي تودّ معرفة من أرسل الورود.	Ze wil weten wie de bloemen stuurde.
+ara	nld	واحد، اثنان، ثلاثة، أربعة، خمسة، ستة، سبعة، ثمانية، تسعة، عشرة.	Een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien.
 ara	nld	وين صوّرت هاي الصورة؟	Waar heeft ze deze foto opgenomen?
 ara	nld	يا له من حفل رائع.	Wat een plezant feest!
-ara	nld	عندي بطن الجعة.	Ik heb een bierbuik.
-ara	nld	الأرنب لديه أذنان طويلتان.	Een konijn heeft lange oren.
-ara	nld	لمن هذا الكتاب؟	Van wie is dat boek?
-ara	nld	ماذا سنفعل ؟	Wat gaan wij doen?
-ara	nld	هناك الكثير من الجُزُر في اليونان.	Er zijn veel eilanden in Griekenland.
-ara	nld	سأسافر خارج البلاد.	Ik ga naar het buitenland.
-ara	nld	غير مسموح لك أن توقف سيارتك في هذا الشارع.	Ge moogt de auto niet parkeren in deze straat.
-ara	nld	اليابان بلد صناعي.	Japan is een industrieland.
-ara	nld	أنا من بريطانيا.	Ik kom uit Engeland.
-ara	nld	كان عادةً ما يناديني إتشيرو.	Hij noemde me Ichiro.
-ara	nld	غنى أغنية.	Hij zong een lied.
-ara	nld	سامي يتّصل بالشّرطة.	Sami belt de politie.
-ara	nld	أنا من الولايات المتحدة الأمريكية.	Ik kom uit de Verenigde Staten.
-ara	nld	افتح الراديو.	Doe de radio aan.
-ara	nld	إنه قوي كالحصان.	Hij is zo sterk als een paard.
-ara	nld	البارحة كان يوم الخميس.	Gisteren was het donderdag.
-ara	nld	ليس كل ما يلمع ذهباً.	Het is niet alles goud wat er blinkt.
-ara	nld	نانسي تملك بيانو.	Nancy heeft een piano.
-ara	nld	تأكل مايوكو الخبز على الفطور.	Mayuko eet brood voor het ontbijt.
-ara	nld	هل عملت البارحة؟	Heb je gisteren gewerkt?
-ara	nld	توضّأ سامي.	Sami verrichtte de wassing.
-ara	nld	كانت تلهث.	Ze was aan het hijgen.
-ara	nld	ما هو جيد لك، جيد لي أيضا.	Wat goed is voor u, is goed voor mij.
-ara	nld	توضّأ سامي.	Sami deed de woedoe.
-ara	nld	اليوم بارد.	Het is koud vandaag.
-ara	nld	سأسافر خارج البلاد في السنة المقبلة.	Volgend jaar ga ik naar het buitenland.
-ara	nld	لقد حياها بسرور كما عادته.	Ze groette hem vrolijk, zoals ze altijd deed.
-ara	nld	هو أخي الأصغر.	Hij is mijn jongste broer.
-ara	nld	أنا أحب الشوكولاتة.	Ik hou van chocolade.
-ara	nld	سامي أفضل من فريد.	Sami is beter dan Farid.
-ara	nld	هذه ليست مظلتي، إنها لشخص ما.	Dit is niet mijn paraplu, het is die van iemand anders.
+ara	nld	يعيش البدو في الصحراء.	Bedoeïenen wonen in de woestijn.
+ara	nld	يُوْلَد جَمِيْع الْنَّاس أَحْرَارا ومُتَسَاوِين فِي الْكَرَامَة وَالْحُقُوْق، وَهُم قَد وُهِبُوا الْعَقْل وَالْوِجْدَان، وَعَلَيْهِم أَن يُعَامِلُوْا بَعْضَهُم بَعْضا بِرُوْح الْإِخَاء.	Alle mensen worden vrij en gelijk in waardigheid en rechten geboren. Zij zijn begiftigd met verstand en geweten, en behoren zich jegens elkander in een geest van broederschap te gedragen.
+arz	nld	القطة نايمة على البنش.	De kat slaapt op de bank.

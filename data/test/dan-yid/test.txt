@@ -1,68 +1,137 @@
-dan	yid	Taler du ladino?	רעדסטו לאַדינאָ?
+dan	yid	Alain er en fransk jøde.	אַלען איז אַ פֿראַנצייזישער ייִד.
+dan	yid	Alexa er en politibetjent.	אַלעקסע איז אַ פּאָליציאַנטקע.
 dan	yid	Alle betjente er kraftidioter.	אַלע פּאָליציאַנטן זענען סוואָלאָטשעס.
-dan	yid	Han taler ungarsk, og hun taler tysk.	ער רעדט אונגאַריש און זי רעדט דײַטש.
-dan	yid	Lad os mødes på mandag.	לאָמיר זיך טרעפֿן מאָנטיק.
-dan	yid	Tom løj jo.	טאָם האָט יאָ געזאָגט אַ ליגן.
-dan	yid	Ulven åd kongen.	דער וואָלף האָט געגעסן דעם מלך.
-dan	yid	Der findes koalaer i Østrig.	ס'איז פֿאַראַן קאָאַלעס אין עסטרײַך.
-dan	yid	Jeg er på internettet.	איך בין אויפֿן אינטערנעט.
-dan	yid	Hans hår er gråt.	זײַן האָר זײַנען גראָ.
-dan	yid	Hvordan tjener banker penge?	ווי מאַכן די בענק געלט?
-dan	yid	Min mobiltelefon ringer.	מײַן טעלעפאָנטשיק קלינגט.
-dan	yid	Det er ikke arbejde, men fornøjelse.	דאָס איז נישט קיין אַרבעט. דאָס איז הנאה.
-dan	yid	For at forstå nutiden skal man tage fortiden med i betragtning.	כּדי צו פֿאַרשטיין דעם הווה, מוז מען באַטראַכטן דעם עבֿר.
-dan	yid	Jesus er irriterende.	יאָשקע איז אַ זלידנע.
-dan	yid	Ester er hebraisklærer.	אסתּר איז אַ העברעיִש־לערערין.
-dan	yid	Tom er intelligent.	טאָם איז אינטעליגענט.
-dan	yid	Arabisk ligner hebraisk.	אַראַביש איז ענלעך צו לשון־קודש.
-dan	yid	Tom er veganer.	טאָם איז אַ וועגאַנער.
-dan	yid	Ester er holocaustoverlever.	אסתּר איז אַ ייִד פֿון דער שארית הפּליטה.
-dan	yid	Tom er min benjamin.	טאָם איז מײַן וויסקראָביק.
-dan	yid	Min mobil ringer.	מײַן מאָבילנער קלינגט.
-dan	yid	Jeg tror på Solen, selv når den ikke skinner. Jeg tror på kærligheden, selv når jeg ikke føler den. Jeg tror på Gud, selv når Han er tavs.	איך גלויב אין דער זון, אַפֿילו ווען זי שײַנט ניט. איך גלויב אין ליבע, אַפֿילו ווען עס זענען ניטאָ קיין געפֿילן. איך גלויב אין גאָט, אַפֿילו ווען ער שווײַגט.
-dan	yid	Min mobil ringer.	מײַן טעלעפאָנטשיק קלינגט.
-dan	yid	Den mand er kongen.	יענער מאַנסביל איז דער מלך.
-dan	yid	Ester overlevede Holokaust.	אסתּר האָט איבערגעלעבט דעם חורבן.
-dan	yid	Ester er holocaustoverlever.	אסתּר איז אַ לעבן־געבליבענע פֿונעם חורבן.
-dan	yid	Mary sagde at hun ville købe en yacht.	מאַריע האָט געזאָגט אַז זי ווילט קױפֿן אַ יאַכט.
-dan	yid	Jeg er på internettet.	איך בין אויף דער אינטערנעץ.
-dan	yid	Hun var en pige, og han var en dreng.	זי איז געווען אַ מיידל, און ער איז געווען אַ ייִנגל.
-dan	yid	Jeg elsker dette album.	כ'האָב ליב דעם אַלבאָם.
-dan	yid	Findes der mennesker, hvis modersmål er esperanto?	צי זענען עס פֿאַראַן מענטשן וועמענס מוטער־שפּראַך איז עספּעראַנטאָ?
-dan	yid	Mary er en rig pige.	מערי איז אַ רײַכע מיידל.
-dan	yid	Jeg er et meget stabilt geni.	איך בין זייער אַ סטאַבילער גאון.
-dan	yid	Vi er stærkere.	מיר זײַנען שטאַרקער.
-dan	yid	Vi har en stegosaurus.	מיר האָבן אַ סטעגאָזאַווער.
-dan	yid	Jeg blev født i Atlantis.	איך בין געבוירן אין אַטלאַנטידע.
-dan	yid	Den mand er kongen.	דער מאַנסביל איז דער מלך.
-dan	yid	Jeg er en hankat.	כ'בין אַ קאָטער.
-dan	yid	Ester har et nummer på sin arm.	אסתּר האָט אַ נומער אױף איר אָרעם.
-dan	yid	Universet er et mysterium.	די אַלוועלט איז אַ מיסטעריע.
-dan	yid	Lær jiddisch.	לערנט זיך ייִדיש.
-dan	yid	Toms kaffe er god.	טאָמס קאַווע איז גוט.
-dan	yid	Der eksisterer piger med penis, drenge med vulva og transfober uden tænder.	פֿאַראַן מיידלעך מיט אַן אבֿר, ייִנגלעך מיט אַ שפּיל און טראַנספֿאָבן אָן ציין.
+dan	yid	Alle L.L. Zamenhofs tre børn blev myrdet i holocausten.	אַלע דרײַ קינדער פֿון לייזער זאַמענהאָף זענען דערמאָרדעט געוואָרן אינעם חורבן.
+dan	yid	Alle strissere er svin!	אַלע פּאָליציאַנטן זענען סוואָלאָטשעס.
+dan	yid	Arabisk ligner hebræisk.	אַראַביש איז ענלעך צו העברעאיש.
+dan	yid	Arabisk ligner hebræisk.	אַראַביש איז ענלעך צו העברעיִש.
+dan	yid	Arabisk ligner hebræisk.	אַראַביש איז ענלעך צו לשון־קודש.
 dan	yid	Arabisk ligner hebraisk.	אַראַביש איז ענלעך צו העברעאיש.
-dan	yid	Vi har et næbdyr.	מיר האָבן אַ שנאָבל־חיה.
-dan	yid	Ester er hebraisklærer.	אסתּר איז אַ העברעיִש־לערערקע.
-dan	yid	Vi er stærkere.	אונז זעמיר שטאַרקער.
-dan	yid	Han er en kujon.	ר'איז אַ טרוס.
 dan	yid	Arabisk ligner hebraisk.	אַראַביש איז ענלעך צו העברעיִש.
-dan	yid	Universet er et mysterium.	דער אוניווערס איז אַ מיסטעריע.
-dan	yid	Hans hår er gråt.	זײַן האָר זענען גראָ.
+dan	yid	Arabisk ligner hebraisk.	אַראַביש איז ענלעך צו לשון־קודש.
+dan	yid	Den hest er i stand til at tale.	יענץ פֿערד איז אין שטאַנד צו רעדן.
+dan	yid	Den hest er i stand til at tale.	יענץ פֿערד איז מסוגל צו רעדן.
+dan	yid	Den mand er kongen.	דער מאַן איז דער מלך.
+dan	yid	Den mand er kongen.	דער מאַנסביל איז דער מלך.
+dan	yid	Den mand er kongen.	יענער מאַן איז דער מלך.
+dan	yid	Den mand er kongen.	יענער מאַנסביל איז דער מלך.
+dan	yid	Denne maskine dræber fascister.	דאָס מאַשין הרגעט פֿאַשיסטן.
+dan	yid	Den store verden står pludselig stille fordi en lille virus vil have det sådan.	די גרויסע וועלט שטייט פּלוצלינג שטיל, ווײַל אַ קליינער ווירוס ווילט אַזוי.
+dan	yid	Der eksisterer piger med penis, drenge med vulva og transfober uden tænder.	פֿאַראַן מיידלעך מיט אַן אבֿר, ייִנגלעך מיט אַ שפּיל און טראַנספֿאָבן אָן ציין.
+dan	yid	Der findes koalaer i Østrig.	ס'איז פֿאַראַן קאָאַלעס אין עסטרײַך.
+dan	yid	Det er gyldigt.	דאָס איז גילטיק.
+dan	yid	Det er ikke arbejde, men fornøjelse.	דאָס איז נישט קיין אַרבעט. דאָס איז הנאה.
+dan	yid	Det her er et penalhus.	אָט דאָס איז אַ פּענאַל.
+dan	yid	Det her er et penalhus.	דאָס איז אַ פּענאַל.
+dan	yid	Det træ er meget smukt.	יענער בוים איז זייער שיין.
+dan	yid	Drager er ikke kæledyr.	דראַקאָנעס זענען נישט קיין גלעט־חיות.
+dan	yid	Drager er ikke kæledyr.	פּיפּערנאָטערס זענען נישט קיין גלעט־חיות.
+dan	yid	Du er ikke et monster.	דו ביסט נישט קיין מאָנסטער.
+dan	yid	En veganer bankede på min dør og ville tale med mig om seitan.	אַ וועגאַנער האָט אַ קלאַפּ געטאָן אין מײַן טיר און געוואָלט רעדן מיט מיר וועגן סייטאַן.
+dan	yid	Er du muslim?	דו ביסט אַ מוסולמענער?
+dan	yid	Er du muslim?	דו ביסט אַ מוסולמענערין?
+dan	yid	Er du muslim?	צי ביסטו אַ מוסולמענער?
+dan	yid	Er du muslim?	צי ביסטו אַ מוסולמענערין?
+dan	yid	Er du virkelig canadier?	דו ביסט טאַקע אַ קאַנאַדער?
+dan	yid	Ester er hebraisklærer.	אסתּר איז אַ העברעיִש־לערערין.
+dan	yid	Ester er hebraisklærer.	אסתּר איז אַ העברעיִש־לערערקע.
+dan	yid	Ester er holocaustoverlever.	אסתּר איז אַ ייִד פֿון דער שארית הפּליטה.
+dan	yid	Ester er holocaustoverlever.	אסתּר איז אַ לעבן־געבליבענע פֿונעם חורבן.
+dan	yid	Ester er jødisk amerikaner.	אסתּר איז אַ ייִדישע אַמעריקאַנערין.
+dan	yid	Ester har et nummer på sin arm.	אסתּר האָט אַ נומער אױף איר אָרעם.
+dan	yid	Ester overlevede Holokaust.	אסתּר האָט איבערגעלעבט דעם חורבן.
+dan	yid	Et muldyr er en krydsning mellem en æselhingst og en hestehoppe.	אַ מוילאייזל איז אַ היבריד פֿון אַן אייזל און אַ קליאַטשע.
 dan	yid	Findes der mennesker, hvis modersmål er esperanto?	צי זײַנען עס פֿאַראַן מענטשן וועמענס מוטער־שפּראַך איז עספּעראַנטאָ?
+dan	yid	Findes der mennesker, hvis modersmål er esperanto?	צי זענען עס פֿאַראַן מענטשן וועמענס מוטער־שפּראַך איז עספּעראַנטאָ?
+dan	yid	For at forstå nutiden skal man tage fortiden med i betragtning.	כּדי צו פֿאַרשטיין דעם הווה, מוז מען באַטראַכטן דעם עבֿר.
+dan	yid	Frihed er altid frihed for de anderledestænkende.	די פֿרײַהייט איז אַלעמאָל די פֿרײַהייט פֿון די אַנדערש־⁠טראַכטערס.
+dan	yid	Gaden var crowded.	די גאַס איז אָנגעפּאַקט.
+dan	yid	Gaden var crowded.	די גאַס איז פֿול געפּאַקט.
+dan	yid	Gaden var menneskefyldt.	די גאַס איז אָנגעפּאַקט.
+dan	yid	Gaden var menneskefyldt.	די גאַס איז פֿול געפּאַקט.
+dan	yid	Glædelig Hanukkah!	אַ פֿריילעכן חנוכּה!
+dan	yid	Han behandler hende som en ting.	ער מאַכט זי פֿאַר אַן אָביעקט.
+dan	yid	Han er en kujon.	ר'איז אַ טרוס.
+dan	yid	Han er her.	ער איז דאָ.
+dan	yid	Hans hår er gråt.	זײַן האָר זײַנען גראָ.
+dan	yid	Hans hår er gråt.	זײַן האָר זענען גראָ.
+dan	yid	Han taler ungarsk, og hun taler tysk.	ער רעדט אונגאַריש און זי רעדט דײַטש.
+dan	yid	Hun var en pige, og han var en dreng.	זי איז געווען אַ מיידל, און ער איז געווען אַ ייִנגל.
+dan	yid	Hvordan tjener banker penge?	ווי מאַכן די בענק געלט?
+dan	yid	Hvorfor har sorte katte gule øjne?	פֿאַרוואָס האָבן שוואַרצע קעץ געלע אויגן?
+dan	yid	Hvor har du lært latin?	וווּ האָסטו זיך געלערנט לאַטײַן?
+dan	yid	Hvor ligger Algier?	וווּ איז אַלזשיר?
+dan	yid	Hvor ligger Kabylien?	וווּ איז קאַביליע?
+dan	yid	Jeg blev født i Atlantis.	איך בין געבוירן אין אַטלאַנטידע.
+dan	yid	Jeg elsker dette album.	כ'האָב ליב דעם אַלבאָם.
+dan	yid	Jeg elsker pindsvin.	כ׳האָב ליב שטעכל־חזיר⁠ים.
+dan	yid	Jeg elsker pindsvin.	כ׳האָב ליב שטעכלערס.
+dan	yid	Jeg elsker seitan.	כ׳האָב ליב סייטאַן.
+dan	yid	Jeg er blevet kaldt værre ting af bedre mennesker.	כ׳בין שוין אָנגערופֿן געוואָרן מיט ערגערע נעמען דורך בעסערע לײַט.
+dan	yid	Jeg er en hankat.	איך בין אַ קאָטער.
+dan	yid	Jeg er en hankat.	כ'בין אַ קאָטער.
 dan	yid	Jeg er en kat.	איך בין אַ קאַץ.
 dan	yid	Jeg er en kat.	כ'בין אַ קאַץ.
-dan	yid	Den store verden står pludselig stille fordi en lille virus vil have det sådan.	די גרויסע וועלט שטייט פּלוצלינג שטיל, ווײַל אַ קליינער ווירוס ווילט אַזוי.
-dan	yid	Den mand er kongen.	דער מאַן איז דער מלך.
-dan	yid	Min mobiltelefon ringer.	מײַן מאָבילנער קלינגט.
-dan	yid	Arabisk ligner hebræisk.	אַראַביש איז ענלעך צו העברעיִש.
-dan	yid	Vi er stærkere.	מיר זענען שטאַרקער.
-dan	yid	Arabisk ligner hebræisk.	אַראַביש איז ענלעך צו העברעאיש.
-dan	yid	Alle strissere er svin!	אַלע פּאָליציאַנטן זענען סוואָלאָטשעס.
+dan	yid	Jeg er et meget stabilt geni.	איך בין זייער אַ סטאַבילער גאון.
+dan	yid	Jeg er organisten.	כ׳בין די אָרגל־⁠שפּילערין.
+dan	yid	Jeg er organisten.	כ׳בין דער אָרגל־⁠שפּילער.
+dan	yid	Jeg er på internettet.	איך בין אויף דער אינטערנעץ.
+dan	yid	Jeg er på internettet.	איך בין אויפֿן אינטערנעט.
+dan	yid	Jeg er stor og stærk.	כ׳בין גרויס און שטאַרק.
+dan	yid	Jeg forstår ikke et ord.	איך פֿאַרשטיי נישט קיין וואָרט.
+dan	yid	Jeg hedder Robin.	איך הייס ראָבין.
+dan	yid	Jeg hedder Robin.	כ׳הייס ראָבין.
+dan	yid	Jeg lærer aramæisk.	איך לערן זיך אַראַמעאיש.
+dan	yid	Jeg lærer aramaisk.	איך לערן זיך אַראַמעאיש.
+dan	yid	Jeg tror på Solen, selv når den ikke skinner. Jeg tror på kærligheden, selv når jeg ikke føler den. Jeg tror på Gud, selv når Han er tavs.	איך גלויב אין דער זון, אַפֿילו ווען זי שײַנט ניט. איך גלויב אין ליבע, אַפֿילו ווען עס זענען ניטאָ קיין געפֿילן. איך גלויב אין גאָט, אַפֿילו ווען ער שווײַגט.
+dan	yid	Jeg vil altid fortælle dig sandheden.	כ׳וועל דיר תּמיד זאָגן דעם אמת.
+dan	yid	Jesus er irriterende.	יאָשקע איז אַ זלידנע.
+dan	yid	Lad os mødes på mandag.	לאָמיר זיך טרעפֿן מאָנטיק.
 dan	yid	Lær jiddisch.	לערן זיך ייִדיש.
-dan	yid	Glædelig Hanukkah!	אַ פֿריילעכן חנוכּה!
-dan	yid	Arabisk ligner hebræisk.	אַראַביש איז ענלעך צו לשון־קודש.
+dan	yid	Lær jiddisch.	לערנט זיך ייִדיש.
+dan	yid	Marsvin er søde.	ים־חזירימלעך זענען זיס.
 dan	yid	Mary er en rig pige.	מערי איז אַ רײַך מיידל.
-dan	yid	Den mand er kongen.	יענער מאַן איז דער מלך.
-dan	yid	Jeg er en hankat.	איך בין אַ קאָטער.
+dan	yid	Mary er en rig pige.	מערי איז אַ רײַכע מיידל.
+dan	yid	Mary sagde at hun ville købe en yacht.	מאַריע האָט געזאָגט אַז זי ווילט קױפֿן אַ יאַכט.
+dan	yid	Min far er ikke så rig som min bedstefar.	מײַן טאַטע איז נישט אַזוי רײַך ווי מײַן זיידע.
+dan	yid	Min mobil ringer.	מײַן טעלעפאָנטשיק קלינגט.
+dan	yid	Min mobil ringer.	מײַן מאָבילנער קלינגט.
+dan	yid	Min mobiltelefon ringer.	מײַן טעלעפאָנטשיק קלינגט.
+dan	yid	Min mobiltelefon ringer.	מײַן מאָבילנער קלינגט.
+dan	yid	Musen drømmer om at fange katten.	די מויז טרוימט צו כאַפּן די קאַץ.
+dan	yid	Ned med Amerika!	נידער מיט אַמעריקע!
+dan	yid	Rygtet siger at Martin Scorsese arbejder på en gangsterfilm.	מע זאָגט אַז מאַרטין סקאָרסעזע אַרבעט איבער אַ גענגסטער־פֿילם.
+dan	yid	Rygtet siger at Martin Scorsese arbejder på en gangsterfilm.	ס׳גייען אַרום קלאַנגען אַז מאַרטין סקאָרסעזע אַרבעט איבער אַ גענגסטער־פֿילם.
+dan	yid	Stemmerne i Toms hoved taler fransk.	די קולות אין טאָמס קאָפּ רעדן פֿראַנצייזיש.
+dan	yid	Taler du hebræisk?	צי רעדסטו העברעיִש?
+dan	yid	Taler du hebraisk?	צי רעדסטו העברעיִש?
+dan	yid	Taler du ladino?	רעדסטו לאַדינאָ?
+dan	yid	Tal esperanto!	רעדט עספּעראַנטאָ!
+dan	yid	Tal esperanto!	רעד עספּעראַנטאָ!
+dan	yid	Tigre er ikke husdyr.	טיגערס זענען נישט קיין שטוב־חיות.
+dan	yid	Tigre er ikke kæledyr.	טיגערס זענען נישט קיין גלעט־חיות.
+dan	yid	Tom er den yngste af de fire.	טאָם איז דער ייִנגסטער פֿון די פֿיר.
 dan	yid	Tom er ikke Trump.	טאָם איז נישט טראָמפּ.
+dan	yid	Tom er intelligent.	טאָם איז אינטעליגענט.
+dan	yid	Tom er Marys stedbror.	טאָם איז מעריס שטיפֿברודער.
+dan	yid	Tom er min benjamin.	טאָם איז מײַן וויסקראָביק.
+dan	yid	Tom er veganer.	טאָם איז אַ וועגאַנער.
+dan	yid	Tom har mere hjerte end hjerne.	טאָם האָט מער האַרץ ווי מוח.
+dan	yid	Tom hørte et skud.	טאָם האָט געהערט אַ שאָס.
+dan	yid	Tom løj jo.	טאָם האָט יאָ געזאָגט אַ ליגן.
+dan	yid	Toms kaffe er god.	טאָמס קאַווע איז גוט.
+dan	yid	Tom spiller på citar.	טאָם שפּילט ציטרע.
+dan	yid	Tom vil lære serbisk.	טאָם וויל זיך לערנען סערביש.
+dan	yid	Tom viste sig at være spion.	טאָם האָט זיך אַרויסגעשטעלט פֿאַר אַ שפּיאָן.
+dan	yid	Ulven åd kongen.	דער וואָלף האָט געגעסן דעם מלך.
+dan	yid	Universet er et mysterium.	די אַלוועלט איז אַ מיסטעריע.
+dan	yid	Universet er et mysterium.	דער אוניווערס איז אַ מיסטעריע.
+dan	yid	Vi er de 99 procent.	מיר זענען די 99 פּראָצענט.
+dan	yid	Vi er de 99 %.	מיר זענען די 99%.
+dan	yid	Vi er hjemløse.	מיר זענען אָן אַ היים.
+dan	yid	Vi er hjemløse.	מיר זענען היימלאָז.
+dan	yid	Vi er stærkere.	אונז זעמיר שטאַרקער.
+dan	yid	Vi er stærkere.	מיר זײַנען שטאַרקער.
+dan	yid	Vi er stærkere.	מיר זענען שטאַרקער.
+dan	yid	Vi har en stegosaurus.	מיר האָבן אַ סטעגאָזאַווער.
+dan	yid	Vi har et næbdyr.	מיר האָבן אַ שנאָבל־חיה.

@@ -1,34 +1,105 @@
-dsb	eng	Kak wjele źowćow jo na toś tom wobrazu?	How many girls are there in this picture?
-dsb	eng	Njewěm.	I don't know.
-dsb	eng	To jo dobre měso.	This is good meat.
-dsb	eng	Som ceły cas nerwozny był.	I was nervous the whole time.
-dsb	eng	Persišćina njejo śěžka rěc.	Persian is not a difficult language.
-dsb	eng	Njamam kócku.	I don't have a cat.
-dsb	eng	Som knigły z wjele wobrazami pytał.	I searched for a book with many pictures.
-dsb	eng	Coš persišćinu wuknuś?	Do you want to learn Persian?
-dsb	eng	Som ceły cas nerwozna była.	I was nervous the whole time.
-dsb	eng	Wóna jo žywa na jsy.	She is living in the village.
-dsb	eng	Jaden, dwa, tśi, styri, pěś, šesć, sedym, wósym, źewjeś, źaseś.	One, two, three, four, five, six, seven, eight, nine, ten.
-dsb	eng	Wóda jo marznuła.	The water turned to ice.
-dsb	eng	Wóna wjele wě.	She knows a lot.
-dsb	eng	Mam wjele knigłow.	I have many books.
-dsb	eng	Som žurnalist.	I am a journalist.
-dsb	eng	Wóna jo Japanarka.	She is Japanese.
-dsb	eng	Wóna pijo wino.	She drinks wine.
-dsb	eng	Na wšu njegluku jo se chopiło sněg padaś.	To make matters worse, it began snowing.
-dsb	eng	Mam rad wuchace.	I like hares.
 dsb	eng	Anja jo žywa w Gdańsku.	Ania lives in Gdańsk.
-dsb	eng	Som student. A ty?	I'm a student. And you?
-dsb	eng	Gólc jo jabłuko jědł.	The boy ate the apple.
-dsb	eng	Ja musym se zuby cysćiś.	I have to brush my teeth.
-dsb	eng	Mam dwě kócce.	I have two cats.
-dsb	eng	Som wucabnik.	I'm a teacher.
-dsb	eng	Tom jo swóju wucbnicu francojšćiny zgubił.	Tom lost his French textbook.
-dsb	eng	Som student.	I'm a student.
-dsb	eng	Kněz Ricardo jo wjelgin dobry wucabnik.	Mr. Ricardo is a very good teacher.
-dsb	eng	Snaź wón znajo toś te tšojenje.	Perhaps he knows this story.
-dsb	eng	Wón ma kolaso.	He has a bicycle.
 dsb	eng	Co cyniš?	What are you doing?
-dsb	eng	Wóda jo cysta.	The water is clean.
+dsb	eng	Coš persišćinu wuknuś?	Do you want to learn Persian?
+dsb	eng	Co spiwaś a rejowaś.	She wants to sing and dance.
+dsb	eng	Cyta knigły.	He reads a book.
+dsb	eng	Gólc jo jabłuko jědł.	The boy ate the apple.
+dsb	eng	Jaden, dwa, tśi, styri, pěś, šesć, sedym, wósym, źewjeś, źaseś.	One, two, three, four, five, six, seven, eight, nine, ten.
+dsb	eng	Ja musym se zuby cysćiś.	I have to brush my teeth.
+dsb	eng	Jě.	He eats.
+dsb	eng	Jeje nan jo wognjowy wobornik.	Her father is a firefighter.
+dsb	eng	Jěsćo.	You eat.
+dsb	eng	Jě.	She eats.
+dsb	eng	Jěstej.	They eat.
+dsb	eng	Jěstej.	You eat.
+dsb	eng	Jěš.	You eat.
+dsb	eng	Jězćo pólewanku.	Eat soup.
+dsb	eng	Jězćo zeleninu.	Eat vegetables.
+dsb	eng	Jěźe.	They eat.
+dsb	eng	Jěz pólewanku.	Eat soup.
+dsb	eng	Jěztej pólewanku.	Eat soup.
+dsb	eng	Jěztej zeleninu.	Eat vegetables.
+dsb	eng	jěz zeleninu.	Eat vegetables.
+dsb	eng	Jo chuda.	She's poor.
+dsb	eng	Jogo nan jo wognjowy wobornik.	His father is a firefighter.
+dsb	eng	Kak wjele źowćow jo na toś tom wobrazu?	How many girls are there in this picture?
+dsb	eng	Kněz Ricardo jo wjelgin dobry wucabnik.	Mr. Ricardo is a very good teacher.
+dsb	eng	Ma bratša abo sotšu?	Does he have a brother or a sister?
+dsb	eng	Mam dwě kócce.	I have two cats.
+dsb	eng	Mamej dwě góleśi.	We have two kids.
+dsb	eng	Ma mokše włose.	His hair is wet.
+dsb	eng	Mam pšašanje.	I've got a question.
+dsb	eng	Mam rad wuchace.	I like hares.
+dsb	eng	Mam wjele knigłow.	I have many books.
+dsb	eng	Marja kupujo nowu kafejowu mašinku.	Mary's buying a new coffee machine.
+dsb	eng	Marja kupujo nowu kafejowu mašinku.	Mary's buying a new percolator.
+dsb	eng	Na wšu njegluku jo se chopiło sněg padaś.	To make matters worse, it began snowing.
+dsb	eng	Njamam kócku.	I don't have a cat.
+dsb	eng	Njewěm.	I don't know.
+dsb	eng	Persišćina njejo śěžka rěc.	Persian is not a difficult language.
+dsb	eng	Pij čaj.	Drink tea.
+dsb	eng	Pijomej mloko.	We are drinking milk.
+dsb	eng	Pijomej mloko.	We're drinking milk.
+dsb	eng	Pijomy mloko.	We are drinking milk.
+dsb	eng	Pijomy mloko.	We're drinking milk.
+dsb	eng	Pijśo čaj.	Drink tea.
+dsb	eng	Pijtej čaj.	Drink tea.
 dsb	eng	Powědaju Marsowe wobydlarje engelski?	Do Martians speak English?
+dsb	eng	Powědam dolnoserbski.	I speak Lower Sorbian.
+dsb	eng	Powědam górnoserbski.	I speak Upper Sorbian.
+dsb	eng	Powědam serbski.	I speak Sorbian.
+dsb	eng	Powědam słowakski.	I speak Slovak.
+dsb	eng	Rada jěm kšuški.	I like to eat pears.
+dsb	eng	Rad jěm kšuški.	I like to eat pears.
+dsb	eng	Sćo Etiopijaŕ?	Are you Ethiopian?
+dsb	eng	Sćo Etiopijaŕka?	Are you Ethiopian?
+dsb	eng	Sćo w knigłowni.	You're in the library.
+dsb	eng	Snaź wón znajo toś te tšojenje.	Perhaps he knows this story.
+dsb	eng	Som ceły cas nerwozna była.	I was nervous the whole time.
+dsb	eng	Som ceły cas nerwozny był.	I was nervous the whole time.
+dsb	eng	Som knigły z wjele wobrazami pytał.	I searched for a book with many pictures.
+dsb	eng	Som samodruga.	I am pregnant.
+dsb	eng	Som student. A ty?	I'm a student. And you?
+dsb	eng	Som student.	I'm a student.
+dsb	eng	Som wucabnik.	I'm a teacher.
+dsb	eng	Som žurnalist.	I am a journalist.
+dsb	eng	Stej w knigłowni.	They are in a library.
+dsb	eng	Stej w knigłowni.	They are in the library.
+dsb	eng	Stej w knigłowni.	They're in a library.
+dsb	eng	Stej w knigłowni.	You are in a library.
+dsb	eng	Stej w knigłowni.	You are in the library.
+dsb	eng	Stej w knigłowni.	You're in a library.
+dsb	eng	Stej w knigłowni.	You're in the library.
+dsb	eng	Su w knigłowni.	They are in a library.
+dsb	eng	Su w knigłowni.	They are in the library.
+dsb	eng	Su w knigłowni.	They're in a library.
+dsb	eng	Sy Etiopijaŕ?	Are you Ethiopian?
+dsb	eng	Sy Etiopijaŕka?	Are you Ethiopian?
+dsb	eng	Sy w knigłowni.	You are in a library.
+dsb	eng	Sy w knigłowni.	You are in the library.
+dsb	eng	Sy w knigłowni.	You're in a library.
+dsb	eng	Sy w knigłowni.	You're in the library.
+dsb	eng	To jo dobre měso.	This is good meat.
+dsb	eng	To jo jogo dom.	This is his house.
+dsb	eng	To jo wjeliki pjas.	It's a big dog.
+dsb	eng	Tom jo swóju wucbnicu francojšćiny zgubił.	Tom lost his French textbook.
+dsb	eng	To njejo jedła.	That's not a fir tree.
+dsb	eng	To njejo kócka. To jo pjas.	That isn't a cat. That's a dog.
+dsb	eng	To njejo mója źowka.	That's not my daughter.
+dsb	eng	To njejo papjera.	That's not paper.
+dsb	eng	To njejo slobro.	That isn't silver.
+dsb	eng	To njejo slobro.	That's not silver.
+dsb	eng	Wóda jo cysta.	The water is clean.
+dsb	eng	Wóda jo marznuła.	The water turned to ice.
+dsb	eng	Wóna jě.	She eats.
+dsb	eng	Wóna jo Japanarka.	She is Japanese.
+dsb	eng	Wóna jo žywa na jsy.	She is living in the village.
+dsb	eng	Wóna pijo wino.	She drinks wine.
+dsb	eng	Wóna wjele wě.	She knows a lot.
+dsb	eng	Wón jě.	He eats.
 dsb	eng	Wón jo mój nan.	He is my father.
+dsb	eng	Wón ma kolaso.	He has a bicycle.
+dsb	eng	Wón ma tśi źowki.	He has three daughters.
+dsb	eng	Wuknjo nimski.	He's learning German.
+dsb	eng	Wuknjo nimski.	She's learning German.
+dsb	eng	Zawěsće ja źeju wam, tak wjele ako wy jadnomu tych mójich bratšow, tych nejmjeńšych, cynili sćo, sćo wy mě cynili.	Verily I say unto you, inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.
