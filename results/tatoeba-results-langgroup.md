@@ -1,4 +1,4 @@
-# Tatoeba translation results
+# Tatoeba translation results - v2020-07-28
 
 Multilingual models for language groups according to ISO639-5.
 

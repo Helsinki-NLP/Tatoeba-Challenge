@@ -8,28 +8,30 @@ A new challenge set for machine translation covering over 500 languages and thou
 * [Training, development and test data](data/README.md)
 * [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-all.md) ([training procedures](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md))
 * [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
-* New: [The status of available NMT models on a map](https://opus.nlpl.eu/NMT-map/Tatoeba/all/src2trg/)
+* New: [The status of available NMT models on a map](https://opus.nlpl.eu/NMT-map/Tatoeba/all/src2trg/) (for release v2020-07-28)
 
 [![NMT map](images/NMT-map-small.png)](https://opus.nlpl.eu/NMT-map/Tatoeba/all/src2trg/)
 
 
 ## Tasks
 
-* [Zero-shot machine translation](results/tatoeba-results-all-subset-zero.md) (data: [zero](data/subsets/zero.md))
-* [Low](results/tatoeba-results-all-subset-lower.md) and even [lower](results/tatoeba-results-all-subset-lowest.md) resource MT (data: [low](data/subsets/lower.md), [lower](data/subsets/lowest.md))
-* [Medium](results/tatoeba-results-all-subset-medium.md), [higher](results/tatoeba-results-all-subset-higher.md) and [highest](results/tatoeba-results-all-subset-highest.md) resource MT (data: [medium](data/subsets/medium.md), [higher](data/subsets/higher.md), [highest](data/subsets/highest.md))
+* [Zero-shot machine translation](data/subsets/zero.md)
+* [Low](data/subsets/lower.md) and even [lower](data/subsets/lowest.md) resource MT
+* [Medium](data/subsets/medium.md), [higher](data/subsets/higher.md) and [highest](data/subsets/highest.md) resource MT
 * [Contribute reference translations via Tatoeba](https://tatoeba.org/eng/users/login?redirect=%2Feng%2Factivities%2Ftranslate_sentences)
 
 ## Downloads
 
-* [Test data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/test-%%TESTSET_RELEASE%%.tar) (%%TESTSET_RELEASE%%)
-* [Development data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/dev-%%DEVSET_RELEASE%%.tar) (%%DEVSET_RELEASE%%)
+* [Test data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/test-%%TESTSET_RELEASE%%.tar) (%%TESTSET_RELEASE%%), [individual files of all releases](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/data/release/test)
+* [Development data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/dev-%%DEVSET_RELEASE%%.tar) (%%DEVSET_RELEASE%%). [individual files of all releases](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/data/release/dev)
 * [Bilingual training data](data/README-%%TRAINSET_RELEASE%%.md) (%%TRAINSET_RELEASE%%), language-pair specific downloads
 * [Extra bilingual training data](data/subsets/NoTestData-%%EXTRATRAINSET_RELEASE%%.md) (%%EXTRATRAINSET_RELEASE%%), language-pair specific downloads
 * [Monolingual data sets](data/MonolingualData-%%MONO_RELEASE%%.md), [with document boundaries](data/Wiki-%%MONO_RELEASE%%.md), [de-duplicated and shuffled](data/Wiki-%%MONO_RELEASE%%.md) (%%MONO_RELEASE%%)
 * [Incrementally updated development and test data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/devtest.tar), ([here for individual language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/data/devtest))
 * [Release history](data/Releases.md)
 * NEW: [Automatically translated monolingual data](data/Backtranslations.md)
+
+The latest release also includes some parallel data sets in the same language in order to test paraphrase models. Note, however, that the support for paraphrasing is really limited in our data sets.
 
 
 ## In more detail
@@ -107,7 +109,7 @@ We also encourage to incorporate other test sets besides of the Tatoeba data. Ra
 
 ## Results and models
 
-There are some initial baseline results for parts of the data set using the setup of [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT-train/) but running on Tatoeba MT challenge data (see also [OPUS-MT-TatoebaChallenge](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md)).
+There are some initial baseline results for parts of the data set using the setup of [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT-train/) but running on Tatoeba MT challenge data (see also [OPUS-MT-TatoebaChallenge](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md)). Note that currently, all models are trained and tested with the initial release of the Tatoeba MT Challenge (v2020-07-28).
 
 * available [translation models](results/tatoeba-models-all.md)
 * results for the [zero-shot language pairs](results/tatoeba-results-all-subset-zero.md)
@@ -124,7 +126,7 @@ We will also publish (reasonable) models to be re-used and deployed through [OPU
 
 ## How to participate
 
-Everyone interested is free to use the data for their own development. Naturally, we encourage contributions by the community and will develop a leader board for individual language pairs. The idea is also to make pre-trained models available in order to support re-use and replciability. This will be organised in connection with [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT) and [translation models integrated in huggingface](https://huggingface.co/Helsinki-NLP).
+Everyone interested is free to use the data for their own development. Naturally, we encourage contributions by the community and will develop a leader board for individual language pairs. The idea is also to make pre-trained models available in order to support re-use and replciability. Consider, for example, to contribute to  [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT) or to upload models to the model hub at [huggingface](https://huggingface.co/models) (like [translation models from Helsinki-NLP](https://huggingface.co/Helsinki-NLP)).
 
 Certain rules apply:
 

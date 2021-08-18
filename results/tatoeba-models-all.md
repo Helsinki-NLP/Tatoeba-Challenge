@@ -1,4 +1,4 @@
-# Tatoeba translation models
+# Tatoeba translation models - v2020-07-28
 
 The scores refer to results on Tatoeba-test data
 For multilingual models, it is a mix of all language pairs

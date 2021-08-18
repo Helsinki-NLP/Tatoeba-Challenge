@@ -315,8 +315,10 @@ release:
 	${MAKE} opus-langpairs3.txt
 	${MAKE} TATOEBA_VERSION=${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest 2>/dev/null}} \
 		VERSION=v${TODAY} all
-	mv -f README.md README-v${TODAY}.md
-	${MAKE} VERSION=v${TODAY} README.md
+	mv -f README.md README.backup
+	${MAKE} TATOEBA_VERSION=${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest 2>/dev/null}} \
+		VERSION=v${TODAY} README.md
+	cp README.md README-v${TODAY}.md
 	@echo "--------------------------------"
 	@echo "Don't forget to upload the data!"
 	@echo "  module load allas"
@@ -337,7 +339,10 @@ release-tag:
 	git add ${TESTDATADIR}/*/*.txt
 	git add ${DEVDATADIR}/*/*.txt
 	git add ${DEVTESTDIR}/*/*.txt
+	git add ${TESTRELEASEDIR}/*.txt
+	git add ${DEVRELEASEDIR}/*.txt
 	git add ${DATADIR}/*-${VERSION}.md ${DATADIR}/subsets/*.md ${DATADIR}/subsets/${VERSION}/*.md
+	git add README-${VERSION}.md
 	git add ${DATA_COUNT_FILES}
 	git commit -am 'updated dev and test data (${VERSION})'
 	git tag -a ${VERSION} -m "release version ${VERSION}"
@@ -720,7 +725,7 @@ ${DATADIR}/%/README.md: ${DATADIR}/%
 	@echo ""                              >> $@
 	@echo "Data from the [Tatoeba MT Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge)" >> $@
 	@echo ""                              >> $@
-	@echo "* language pack: ${notdir $<}" >> $@
+	@echo "* package: ${notdir $<}" >> $@
 	@echo "* version: ${VERSION}"         >> $@
 	@echo "* based on Tatoeba corpus release [${TATOEBA_VERSION}](https://opus.nlpl.eu/Tatoeba-${TATOEBA_VERSION}.php)" >> $@
 	@echo "* license: [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)" >> $@
@@ -1629,6 +1634,7 @@ ${RELEASEDIR}/wiki.langs.done:
 	touch $@
 
 
+
 ## size of each test set
 ${TESTDATADIR}-${VERSION}.size: ${TESTDATADIR}
 	find $< -name 'test.txt' -exec wc -l {} \; > $@
@@ -1656,8 +1662,8 @@ ${DEVDATADIR}-${VERSION}.size: ${DEVDATADIR}
 ## subset of dev sets that are larger than 200 sentences
 ${DEVDATADIR}-${VERSION}: ${DEVDATADIR}-${VERSION}.size ${DEVDATADIR}-${VERSION}/README.md
 	mkdir -p ${dir $@}
-	egrep '[0-9]{4,}' $< | cut -f2 -d' '  > $@.selected
-	egrep '[2-9][0-9]{2}'  $< | cut -f2 -d' ' >> $@.selected
+	egrep '[0-9]{3,}' $< | cut -f2 -d' '  > $@.selected
+	egrep '[2-9][0-9]'  $< | cut -f2 -d' ' >> $@.selected
 	tar -T $@.selected --transform 's,^${DEVDATADIR},${DEVDATADIR}-${VERSION},' -cf $@.tar
 	tar -xf $@.tar
 	rm -f $@.tar

@@ -1,4 +1,4 @@
-# Tatoeba translation results
+# Tatoeba translation results - v2020-07-28
 
 Note that some links to the actual models below are broken
 because the models are not yet released or their performance is too poor

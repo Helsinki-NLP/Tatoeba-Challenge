@@ -1,4 +1,3 @@
-# langpair	source-lang	target-lang	test-size	test-source	test-target	dev-size	dev-source	dev-target	train-size	train-source	train-target
 aar-eng	Afar	English							880	2583	3257	
 abk-eng	Abkhazian	English	27	72	105				26348	243112	395734	
 ace-eng	Achinese	English							5688	19301	20213	
@@ -14,10 +13,7 @@ afr-ara	Afrikaans	Arabic	1	4	3				1091904	20579435	17543331
 afr-bzt	Afrikaans	Brithenig	1	2	3						
 afr-ces	Afrikaans	Czech	1	28	25				1650994	26360980	21344962	
 afr-dan	Afrikaans	Danish	1	12	10				2851394	42620242	40221826	
-afr-deu	Afrikaans	German	1583	7816	7355	1	13	10	5404300	71314303	67186386	
-afr-eng	Afrikaans	English	1374	8813	8101	1007	6406	5912	11997779	143424614	138368417	
 afr-enm	Afrikaans	Middle English (1100-1500)	2	6	6						
-afr-epo	Afrikaans	Esperanto	1116	7134	6129	1	5	3	231397	1641694	1485871	
 afr-est	Afrikaans	Estonian	1	28	24				1405115	22905378	17248006	
 afr-fra	Afrikaans	French	195	1054	1070				1846514	30683698	31660596	
 afr-fry	Afrikaans	Western Frisian	1	2	2				127113	962357	950166	
@@ -31,13 +27,10 @@ afr-lat	Afrikaans	Latin	2	9	6				45984	870455	600645
 afr-ltz	Afrikaans	Luxembourgish	14	52	52				85944	720974	708722	
 afr-mkd	Afrikaans	Macedonian	1	4	4				958509	15416099	14581907	
 afr-msa	Afrikaans	Malay (macrolanguage)	2	34	31				1919386	30991000	27437743	
-afr-nld	Afrikaans	Dutch	1056	5695	5572				4086174	57136438	56607131	
 afr-nor	Afrikaans	Norwegian	14	114	105				3286598	47597835	45364941	
 afr-pol	Afrikaans	Polish	22	125	111				1718191	27707607	22008877	
 afr-por	Afrikaans	Portuguese	94	494	458				1992183	30836079	30333603	
 afr-ron	Afrikaans	Romanian	2	7	8				1602979	26109575	26365884	
-afr-rus	Afrikaans	Russian	228	1134	938				1652781	27322838	22092227	
-afr-spa	Afrikaans	Spanish	448	2549	2282				2000987	31611079	32380284	
 afr-swa	Afrikaans	Swahili (macrolanguage)	2	31	20				1238228	21636208	19222820	
 afr-swe	Afrikaans	Swedish	4	27	25				3265667	48770449	45240035	
 afr-tsn	Afrikaans	Tswana	13	90	92				794816	13685513	18188034	
@@ -53,7 +46,6 @@ ain-ber	Ainu (Japan)	Berber languages	2	8	12
 ain-deu	Ainu (Japan)	German	10	61	58						
 ain-eng	Ainu (Japan)	English	55	213	265						
 ain-epo	Ainu (Japan)	Esperanto	1	11	8						
-ain-fin	Ainu (Japan)	Finnish	206	938	835						
 ain-fra	Ainu (Japan)	French	9	22	41						
 ain-jpn	Ainu (Japan)	Japanese	17	86	17						
 ain-kzj	Ainu (Japan)	Coastal Kadazan	1	2	4						
@@ -117,7 +109,6 @@ ara-ara	Arabic	Arabic	75	241	236	1	2	2	14392933	70659057	70658733
 ara-arg	Arabic	Aragonese	1	1	1				20138	82202	99527	
 ara-avk	Arabic	Kotava	2	7	7						
 ara-bak	Arabic	Bashkir	3	25	22				29341	417261	384425	
-ara-ber	Arabic	Berber languages	2317	10321	11123	1032	4646	5055	4	20	9	
 ara-bul	Arabic	Bulgarian	10	40	56				26444091	184194412	193886915	
 ara-bzt	Arabic	Brithenig	27	74	124	3	7	12			
 ara-cat	Arabic	Catalan	1	3	4				3044393	34684369	41977598	
@@ -125,29 +116,21 @@ ara-cay	Arabic	Cayuga	1	1	1
 ara-ces	Arabic	Czech	4	15	15				31499289	250124575	249148919	
 ara-chg	Arabic	Chagatai	1	2	2						
 ara-dan	Arabic	Danish	9	28	39				16936239	155352300	169497227	
-ara-deu	Arabic	German	1209	5388	6880	1029	4590	5863	35746632	416553186	440897090	
 ara-drt	Arabic	Drents	1	2	3						
-ara-ell	Arabic	Modern Greek (1453-)	426	1363	1551				28374699	218087000	242754299	
-ara-eng	Arabic	English	10305	52290	65058	19529	99143	123382	126590524	1866870875	2099273844	
 ara-enm	Arabic	Middle English (1100-1500)	20	66	92	2	11	14			
-ara-epo	Arabic	Esperanto	753	3078	3820	94	406	509	1234097	12861799	14264895	
 ara-fas	Arabic	Persian	6	20	25				12571193	133011867	164173380	
 ara-fin	Arabic	Finnish	7	24	27	1	3	4	23008962	186328278	149460314	
-ara-fra	Arabic	French	1569	6780	9641	36	174	256	80204592	1265973151	1653047128	
 ara-fry	Arabic	Western Frisian	1	2	3				51819	222969	250131	
 ara-glg	Arabic	Galician	1	3	4				284134	2483057	2921213	
 ara-gos	Arabic	Gronings	4	10	14						
 ara-grc	Arabic	Ancient Greek (to 1453)	2	13	16						
 ara-hbo	Arabic	Ancient Hebrew	4	30	23						
 ara-hbs	Arabic	Serbo-Croatian	1	1	1				54829111	378624825	386660787	
-ara-heb	Arabic	Hebrew	1208	5301	5440	91	395	413	26812456	195010978	185645725	
 ara-hun	Arabic	Hungarian	95	382	373	8	22	25	30423288	230788324	220195970	
 ara-ido	Arabic	Ido	40	111	153	11	44	55	12820	26400	29732	
 ara-ile	Arabic	Interlingue	22	62	102	5	16	27	121	1020	317	
 ara-ina	Arabic	Interlingua (International Auxiliary Language Association)	55	191	283	16	50	83	20851	102563	120123	
-ara-ita	Arabic	Italian	235	978	1232	11	33	49	36352000	378524073	436659857	
 ara-jbo	Arabic	Lojban	4	10	24				309	667	855	
-ara-jpn	Arabic	Japanese	1336	5945	1337	6	34	6	10789186	108702698	23544558	
 ara-kab	Arabic	Kabyle	166	740	817				27639	207541	262382	
 ara-kaz	Arabic	Kazakh	1	3	4				532129	4946590	4292395	
 ara-kor	Arabic	Korean	92	405	378				7093970	78291968	67644224	
@@ -170,16 +153,13 @@ ara-nys	Arabic	Nyungar	3	3	3
 ara-osp	Arabic	Old Spanish	2	4	8						
 ara-ota	Arabic	Ottoman Turkish (1500-1928)	6	22	29						
 ara-pal	Arabic	Pahlavi	1	2	4						
-ara-pol	Arabic	Polish	207	848	923				36355468	325017188	306312756	
 ara-por	Arabic	Portuguese	19	55	80	3	8	13	72043784	603155051	690286091	
 ara-qya	Arabic	Quenya	3	7	9						
 ara-ron	Arabic	Romanian	3	8	10				32663595	253642387	297995884	
 ara-run	Arabic	Rundi	139	371	333				119176	3467751	3731615	
-ara-rus	Arabic	Russian	3715	15750	17317	1209	5253	5754	60875366	952577577	958759425	
 ara-sco	Arabic	Scots	5	22	30				437	2292	3524	
 ara-shy	Arabic	Tachawit	15	52	49						
 ara-sjn	Arabic	Sindarin	6	11	12						
-ara-spa	Arabic	Spanish	1511	6311	8031	1031	4373	5483	96933291	1331280408	1681698130	
 ara-stq	Arabic	Saterfriesisch	1	2	3						
 ara-swe	Arabic	Swedish	3	12	14				20426860	198582882	208590856	
 ara-tat	Arabic	Tatar	4	31	26				115256	3041133	2520830	
@@ -187,7 +167,6 @@ ara-tlh	Arabic	Klingon	29	79	84	6	32	25	154	1884	1393
 ara-tmr	Arabic	Jewish Babylonian Aramaic (ca. 200-1200 CE)	17	48	51						
 ara-toki	Arabic	Toki Pona	14	50	115	2	12	33			
 ara-tuk	Arabic	Turkmen	1	11	9				54790	913546	923037	
-ara-tur	Arabic	Turkish	1263	6038	5439	52	238	274	37609476	308029411	273235027	
 ara-tzl	Arabic	Talossan	28	90	135	4	10	18			
 ara-uig	Arabic	Uighur	16	65	57				18634	553821	402824	
 ara-ukr	Arabic	Ukrainian	156	691	748				4771578	60372744	58279668	
@@ -241,7 +220,6 @@ avk-ell	Kotava	Modern Greek (1453-)	1	4	5
 avk-eng	Kotava	English	170	832	1048	4	17	15			
 avk-enm	Kotava	Middle English (1100-1500)	2	7	9						
 avk-epo	Kotava	Esperanto	19	93	95	1	4	4			
-avk-fra	Kotava	French	1244	6557	9181	43	187	262	3	30	140	
 avk-heb	Kotava	Hebrew	8	29	25						
 avk-hun	Kotava	Hungarian	3	15	10						
 avk-ido	Kotava	Ido	119	485	544						
@@ -262,7 +240,6 @@ avk-por	Kotava	Portuguese	1	3	5
 avk-ron	Kotava	Romanian	1	3	4						
 avk-rus	Kotava	Russian	6	26	17	1	4	3			
 avk-slv	Kotava	Slovenian	2	7	6						
-avk-spa	Kotava	Spanish	275	1145	1353						
 avk-swa	Kotava	Swahili (macrolanguage)	77	348	292						
 avk-swe	Kotava	Swedish	1	3	4						
 avk-tlh	Kotava	Klingon	8	29	16						
@@ -273,13 +250,11 @@ avk-ukr	Kotava	Ukrainian	5	23	18
 avk-vol	Kotava	Volapük	9	34	23						
 avk-yid	Kotava	Yiddish	10	33	46	1	4	5			
 avk-zho	Kotava	Chinese	9	40	9						
-awa-eng	Awadhi	English	279	1087	1042				1	47	56	
 awa-jpn	Awadhi	Japanese	6	17	6						
 aym-eng	Aymara	English							147848	1614566	2402670	
 aze-aze	Azerbaijani	Azerbaijani	1	1	1				29393	385356	382950	
 aze-bul	Azerbaijani	Bulgarian	119	463	592				568073	6530096	7494585	
 aze-deu	Azerbaijani	German	196	613	826	1	3	5	754228	8438592	9798860	
-aze-eng	Azerbaijani	English	2659	10046	13295	1012	3847	5131	3233365	31272775	39736829	
 aze-enm	Azerbaijani	Middle English (1100-1500)	2	4	6						
 aze-epo	Azerbaijani	Esperanto	4	16	17				101720	351510	380571	
 aze-fra	Azerbaijani	French	23	64	100				702190	7290301	9593478	
@@ -300,11 +275,9 @@ aze-mkd	Azerbaijani	Macedonian	1	4	5				434774	4898856	5971426
 aze-nld	Azerbaijani	Dutch	1	3	6				664612	7345189	8964050	
 aze-por	Azerbaijani	Portuguese	13	35	48				732783	7314961	9208202	
 aze-rus	Azerbaijani	Russian	10	45	48	2	18	19	968407	11346422	13198983	
-aze-spa	Azerbaijani	Spanish	210	684	923	1	5	7	826372	7582451	9791012	
 aze-tat	Azerbaijani	Tatar	1	4	4				413742	4370305	4398580	
 aze-tlh	Azerbaijani	Klingon	1	3	2				15	23	17	
 aze-toki	Azerbaijani	Toki Pona	1	3	4						
-aze-tur	Azerbaijani	Turkish	1150	4253	4195	15	72	73	2598020	25973235	24677345	
 aze-ukr	Azerbaijani	Ukrainian	1	3	3				567088	6115358	6243637	
 aze-yid	Azerbaijani	Yiddish	3	8	14				7729	16424	97788	
 aze-zho	Azerbaijani	Chinese	3	9	3				264833	1831126	678891	
@@ -357,49 +330,36 @@ bel-ces	Belarusian	Czech	31	146	136	1	3	4	2099293	23315528	24893934
 bel-crh	Belarusian	Crimean Tatar	7	35	33				13453	63310	62309	
 bel-cym	Belarusian	Welsh	1	3	5				226102	2223613	2528626	
 bel-dan	Belarusian	Danish	2	6	12				723369	10360165	9559947	
-bel-deu	Belarusian	German	551	2842	3429	1	3	3	1322056	22601878	15927683	
-bel-eng	Belarusian	English	2500	12908	15535	4265	22158	26573	3641197	59847996	41011262	
-bel-epo	Belarusian	Esperanto	735	3962	4483	15	58	69	226049	1074611	1173506	
 bel-est	Belarusian	Estonian	2	29	28				700632	9824477	7648884	
-bel-fra	Belarusian	French	283	1356	1743				691661	8524540	10581715	
 bel-hbs	Belarusian	Serbo-Croatian	38	147	162				1550587	14109204	14384239	
 bel-heb	Belarusian	Hebrew	52	242	213				390337	3408876	3253449	
 bel-hun	Belarusian	Hungarian	3	12	13				983100	18647803	11455148	
 bel-ido	Belarusian	Ido	1	5	6				4308	8276	9893	
 bel-ina	Belarusian	Interlingua (International Auxiliary Language Association)	1	5	5				12449	77566	93906	
-bel-ita	Belarusian	Italian	264	1187	1375				985660	15443195	13142491	
 bel-jpn	Belarusian	Japanese	137	583	137				553133	5479232	1447421	
 bel-kab	Belarusian	Kabyle	6	30	28				17936	112950	128690	
 bel-kur	Belarusian	Kurdish	1	3	4				32350	145311	158771	
 bel-kzj	Belarusian	Coastal Kadazan	1	6	10						
 bel-lad	Belarusian	Ladino	2	10	12						
-bel-lat	Belarusian	Latin	222	956	901				33455	93526	114764	
 bel-lfn	Belarusian	Lingua Franca Nova	1	5	7						
 bel-mkd	Belarusian	Macedonian	1	4	5				434053	5488110	6142816	
 bel-msa	Belarusian	Malay (macrolanguage)	3	35	39				969985	12378292	12817977	
-bel-nld	Belarusian	Dutch	606	3194	4032				846296	12442435	11234441	
 bel-nor	Belarusian	Norwegian	9	64	65				714747	8884448	8745784	
-bel-pol	Belarusian	Polish	287	1375	1357				2948821	34081199	37145835	
 bel-por	Belarusian	Portuguese	3	13	18				706407	8422203	9968067	
 bel-ron	Belarusian	Romanian	1	5	5				916590	15992273	13457459	
-bel-rus	Belarusian	Russian	2500	15122	15162	2754	16813	16869	4782456	60246390	65643555	
 bel-slv	Belarusian	Slovenian	12	53	59				1046772	11530824	12226762	
-bel-spa	Belarusian	Spanish	205	982	1136				825477	8878533	10996772	
 bel-swa	Belarusian	Swahili (macrolanguage)	1	25	19				359389	4795294	5179138	
 bel-tat	Belarusian	Tatar	1	5	4				9964	25131	27331	
 bel-toki	Belarusian	Toki Pona	1	4	7						
 bel-tuk	Belarusian	Turkmen	1	5	4				17134	54748	52059	
 bel-tur	Belarusian	Turkish	140	684	582	17	61	51	2600218	33625516	30669325	
 bel-tzl	Belarusian	Talossan	1	5	6						
-bel-ukr	Belarusian	Ukrainian	2355	12053	12024	1021	5044	5039	1816968	19675300	19770617	
 bel-vie	Belarusian	Vietnamese	3	18	23				614930	8569989	11788970	
 bel-vol	Belarusian	Volapük	1	5	4						
 bel-yid	Belarusian	Yiddish	5	17	23				15149	51745	339180	
-bel-zho	Belarusian	Chinese	325	1480	329				390990	2515518	989527	
 bem-eng	Bemba (Zambia)	English							391967	5610788	6035865	
 ben-ben	Bengali	Bengali	1	4	4				374722	2263888	2260646	
 ben-deu	Bengali	German	9	53	55				6315764	61663868	62320479	
-ben-eng	Bengali	English	2500	10942	11321	2648	11535	12106	17730303	161092183	170841031	
 ben-fra	Bengali	French	21	105	104				12548744	103808960	123086518	
 ben-hin	Bengali	Hindi	1	7	9				3713293	42003483	51964492	
 ben-ita	Bengali	Italian	17	73	68				4414841	44228835	49242869	
@@ -411,10 +371,6 @@ ben-zho	Bengali	Chinese	34	124	34				2807069	20636069	4369439
 ber-ber	Berber languages	Berber languages	5	25	28						
 ber-bzt	Berber languages	Brithenig	1	1	1						
 ber-dan	Berber languages	Danish	1	3	5				4	10	21	
-ber-deu	Berber languages	German	661	3280	3813				5	11	25	
-ber-eng	Berber languages	English	10964	59517	67232	108422	590231	673066	72	304	375	
-ber-epo	Berber languages	Esperanto	1576	7992	9364	12	51	54	5	11	22	
-ber-fra	Berber languages	French	10144	41403	56017	34705	140107	190877	2	5	6	
 ber-heb	Berber languages	Hebrew	10	44	36				8	22	79	
 ber-hun	Berber languages	Hungarian	5	22	19						
 ber-ido	Berber languages	Ido	1	5	4						
@@ -435,7 +391,6 @@ ber-pol	Berber languages	Polish	22	88	93				5	11	22
 ber-por	Berber languages	Portuguese	180	866	966				10	22	55	
 ber-rus	Berber languages	Russian	155	671	699				4	8	31	
 ber-shy	Berber languages	Tachawit	10	33	33						
-ber-spa	Berber languages	Spanish	10016	52507	56595	14044	73889	78952	5	11	29	
 ber-swe	Berber languages	Swedish	4	15	20				4	10	20	
 ber-tlh	Berber languages	Klingon	2	8	6						
 ber-toki	Berber languages	Toki Pona	5	23	61						
@@ -458,9 +413,7 @@ bpy-eng	Bishnupriya	English							2	27	31
 bre-ces	Breton	Czech	1	33	25				120886	536851	428385	
 bre-cym	Breton	Welsh	1	30	30				221666	804828	710530	
 bre-deu	Breton	German	23	131	127				199835	999346	872749	
-bre-eng	Breton	English	383	1864	1644				1020160	10130793	7226151	
 bre-epo	Breton	Esperanto	118	526	486				117369	435375	325998	
-bre-fra	Breton	French	2494	11924	11290	3060	15204	14281	266235	1984951	1974128	
 bre-ita	Breton	Italian	38	171	150				190502	971752	923575	
 bre-jpn	Breton	Japanese	7	26	7				96193	375459	152110	
 bre-msa	Breton	Malay (macrolanguage)	1	33	28				367740	1495210	1164149	
@@ -474,21 +427,15 @@ bts-eng	Batak Simalungun	English							11064	142851	160618
 btx-eng	Batak Karo	English							28384	357795	411750	
 bua-eng	Buriat	English	17	53	63				758	3896	4880	
 bua-fra	Buriat	French	4	20	25				422	1429	1765	
-bua-rus	Buriat	Russian	806	2807	2893				1065	8762	10744	
 bug-eng	Buginese	English							1518	10463	11209	
-bul-bul	Bulgarian	Bulgarian	219	1078	1101				14416303	73710878	73712024	
 bul-bzt	Bulgarian	Brithenig	1	3	5						
 bul-ces	Bulgarian	Czech	2	9	9				48071079	507068020	461390905	
 bul-dan	Bulgarian	Danish	1	3	4				27295616	353343364	343434668	
-bul-deu	Bulgarian	German	314	1629	1815				46013912	584693753	582230440	
 bul-dsb	Bulgarian	Lower Sorbian	2	7	7				20283	139148	133058	
 bul-ell	Bulgarian	Modern Greek (1453-)	64	268	299				44167725	467158844	491641812	
-bul-eng	Bulgarian	English	10000	56740	60705	7800	44031	47142	109171589	1313308870	1379176884	
 bul-enm	Bulgarian	Middle English (1100-1500)	2	6	6						
-bul-epo	Bulgarian	Esperanto	570	3233	3324	1	8	6	1450480	15176976	15217385	
 bul-fas	Bulgarian	Persian	1	7	8				5776912	47087360	58193577	
 bul-fin	Bulgarian	Finnish	11	63	57				34369995	380784615	281945214	
-bul-fra	Bulgarian	French	446	2698	3206				44520076	451315494	508355338	
 bul-hbs	Bulgarian	Serbo-Croatian	1	5	5				74550352	608669346	577413658	
 bul-heb	Bulgarian	Hebrew	1	3	2				26172981	190573674	173124265	
 bul-hsb	Bulgarian	Upper Sorbian	2	7	7				29422	183812	166521	
@@ -496,8 +443,6 @@ bul-hun	Bulgarian	Hungarian	195	978	843				44831642	455827415	402177754
 bul-ido	Bulgarian	Ido	1	3	3				5597	12900	13283	
 bul-ile	Bulgarian	Interlingue	1	3	5				97	659	246	
 bul-ina	Bulgarian	Interlingua (International Auxiliary Language Association)	1	3	5				13936	86128	93713	
-bul-ita	Bulgarian	Italian	2500	13344	14074	4006	21635	22681	44334610	535054645	569165971	
-bul-jpn	Bulgarian	Japanese	321	1952	324	2	10	2	8114217	81560017	15334021	
 bul-lad	Bulgarian	Ladino	1	3	5						
 bul-lat	Bulgarian	Latin	18	70	66				68782	732651	623164	
 bul-lfn	Bulgarian	Lingua Franca Nova	1	3	5						
@@ -509,17 +454,12 @@ bul-nov	Bulgarian	Novial	1	3	4
 bul-pol	Bulgarian	Polish	75	398	359				57016206	568727122	511481643	
 bul-por	Bulgarian	Portuguese	169	806	891	1	4	4	71855107	585340693	630562998	
 bul-ron	Bulgarian	Romanian	1	3	4				51130989	539218739	582178924	
-bul-rus	Bulgarian	Russian	1247	6556	6155	1000	5175	4800	49589532	511912321	467628325	
 bul-slv	Bulgarian	Slovenian	11	54	45				31628528	349949419	316819740	
-bul-spa	Bulgarian	Spanish	286	1359	1460				52378053	493302311	549901572	
 bul-swe	Bulgarian	Swedish	1	3	4				29573428	370652948	352789567	
 bul-tlh	Bulgarian	Klingon	1	3	3				137	2272	1349	
-bul-tur	Bulgarian	Turkish	834	5261	3994	1	5	5	36521635	253119862	215627396	
 bul-tzl	Bulgarian	Talossan	1	3	4						
-bul-ukr	Bulgarian	Ukrainian	1020	4047	3775				10889657	120582999	107334157	
 bul-vol	Bulgarian	Volapük	1	3	3						
 bul-yid	Bulgarian	Yiddish	2	6	10				18062	73106	371974	
-bul-zho	Bulgarian	Chinese	416	2548	423				16197275	126948444	27578654	
 bum-eng	Bulu (Cameroon)	English							22545	377437	320413	
 bvy-eng	Baybayanon	English	25	131	138						
 byn-eng	Bilin	English							4	4	4	
@@ -587,49 +527,37 @@ bzt-zho	Brithenig	Chinese	1	4	1
 cab-eng	Garifuna	English							59589	796515	946200	
 cak-eng	Kaqchikel	English							90081	1218916	944985	
 cat-cat	Catalan	Catalan	7	170	177				25431	162748	162844	
-cat-deu	Catalan	German	723	4674	4713	2	9	10	2266984	30765140	27118309	
 cat-ell	Catalan	Modern Greek (1453-)	49	243	214				3594256	43321396	41593217	
-cat-eng	Catalan	English	1631	10387	10625	228	1966	1908	29496611	430720129	406175328	
 cat-enm	Catalan	Middle English (1100-1500)	2	6	6						
-cat-epo	Catalan	Esperanto	772	4870	4648	7	46	41	1217119	13543115	12207828	
 cat-fao	Catalan	Faroese	1	2	2				22107	182325	142824	
 cat-fin	Catalan	Finnish	5	29	26				3253048	38743669	27035833	
-cat-fra	Catalan	French	700	4518	4933	2	9	12	25575384	291007840	298678412	
 cat-glg	Catalan	Galician	33	330	322				3376343	52606313	50136277	
 cat-heb	Catalan	Hebrew	3	15	13				2455722	25287943	19745469	
 cat-hun	Catalan	Hungarian	3	19	15				3716223	44380464	35477741	
 cat-ido	Catalan	Ido	2	8	7				6224	15199	14339	
 cat-ina	Catalan	Interlingua (International Auxiliary Language Association)	3	13	14				21793	131138	119568	
-cat-ita	Catalan	Italian	298	1773	1692				12842701	151683614	145064904	
 cat-jpn	Catalan	Japanese	188	1274	188				1435311	17155472	3642619	
 cat-kab	Catalan	Kabyle	3	45	35				19650	151374	134005	
 cat-lad	Catalan	Ladino	4	16	16				5	74	95	
 cat-lfn	Catalan	Lingua Franca Nova	5	20	22				7	188	189	
 cat-lit	Catalan	Lithuanian	1	5	4				2502234	32141785	24719634	
-cat-nld	Catalan	Dutch	578	3280	3488	2	9	10	2036970	25250776	23463677	
 cat-nor	Catalan	Norwegian	1	5	5				3280728	41067944	36659485	
 cat-pol	Catalan	Polish	86	409	354				2058941	24207051	19695998	
-cat-por	Catalan	Portuguese	747	5249	5201	3	13	17	14773751	175087010	168592147	
 cat-ron	Catalan	Romanian	1	3	3				7260953	78876652	76283066	
 cat-rus	Catalan	Russian	185	1122	967	1	4	4	2067510	25823137	21257789	
-cat-spa	Catalan	Spanish	1534	10548	10282	1294	9205	8979	155036058	2849455280	2858769729	
 cat-swe	Catalan	Swedish	2	12	11				1477043	18797024	16315145	
 cat-toki	Catalan	Toki Pona	2	10	12						
 cat-tur	Catalan	Turkish	19	99	70	1	4	4	1911243	22531941	17213097	
-cat-ukr	Catalan	Ukrainian	456	2149	1884				2241110	26978899	21924803	
 cat-yid	Catalan	Yiddish	6	29	30				53892	291531	522078	
 cat-zho	Catalan	Chinese	122	786	123	1	4	1	1062404	8807470	2371032	
 cay-heb	Cayuga	Hebrew	1	1	1						
 cay-nys	Cayuga	Nyungar	1	1	1						
 cay-tur	Cayuga	Turkish	1	1	1						
-cbk-eng	Chavacano	English	1498	8879	8303	1001	5903	5612	16	292	252	
 cbk-epo	Chavacano	Esperanto	7	47	46						
 cbk-fra	Chavacano	French	31	259	238						
 cbk-por	Chavacano	Portuguese	54	313	289						
 cbk-spa	Chavacano	Spanish	82	489	431	4	13	16			
 cce-eng	Chopi	English							18720	298022	263775	
-ceb-deu	Cebuano	German	903	5324	6145				1278923	19370746	17836464	
-ceb-eng	Cebuano	English	378	1678	1873				1279479	19784057	18521119	
 ceb-epo	Cebuano	Esperanto	39	210	198				50694	895838	703600	
 ceb-fra	Cebuano	French	13	89	115				922976	16644481	16017326	
 ceb-ita	Cebuano	Italian	11	45	41				965691	16802909	15355387	
@@ -642,29 +570,23 @@ ces-ces	Czech	Czech	152	736	732				52049571	257749297	257746448
 ces-cha	Czech	Chamorro	5	17	19				6492	104972	120361	
 ces-cor	Czech	Cornish	15	59	70				1273	5016	5707	
 ces-dan	Czech	Danish	2	8	8				35388734	386278890	414763164	
-ces-deu	Czech	German	3490	18205	22412	1127	6056	7506	73708754	861457011	945601029	
 ces-drt	Czech	Drents	1	7	9						
 ces-dsb	Czech	Lower Sorbian	41	89	85				30063	222341	230848	
 ces-dws	Czech	Dutton World Speedwords	1	2	3						
 ces-ell	Czech	Modern Greek (1453-)	20	76	79				51977175	501319940	575557618	
-ces-eng	Czech	English	13824	72999	89597	16189	85061	104351	171935414	1860284946	2117643902	
 ces-enm	Czech	Middle English (1100-1500)	4	14	14						
-ces-epo	Czech	Esperanto	3471	17560	20418	1058	5202	6088	2124218	18568224	20639766	
 ces-fao	Czech	Faroese	1	25	25				12410	21232	22643	
 ces-fas	Czech	Persian	2	4	5				9353862	79458171	100571815	
 ces-fin	Czech	Finnish	88	298	293	1	3	4	43471575	446766942	364991858	
-ces-fra	Czech	French	438	2151	2910	5	15	19	82332401	833080816	1032836291	
 ces-fry	Czech	Western Frisian	5	37	52				105729	393959	437229	
 ces-gos	Czech	Gronings	2	11	14						
 ces-grc	Czech	Ancient Greek (to 1453)	22	67	65				4	5	5	
 ces-hbs	Czech	Serbo-Croatian	29	108	119				77695876	571675360	578167622	
 ces-heb	Czech	Hebrew	34	144	162	3	11	8	29696074	202298341	190886899	
 ces-hsb	Czech	Upper Sorbian	170	573	590				40229	264007	265439	
-ces-hun	Czech	Hungarian	1911	8244	7922	114	469	443	57434476	545388408	525829437	
 ces-ido	Czech	Ido	11	45	48				15489	40011	41637	
 ces-ile	Czech	Interlingue	4	14	19				188	648	467	
 ces-ina	Czech	Interlingua (International Auxiliary Language Association)	17	70	86	3	9	13	20338	133017	158219	
-ces-ita	Czech	Italian	1099	5599	6627	1	3	5	54876556	540418835	629216521	
 ces-jbo	Czech	Lojban	101	382	592				411	818	1114	
 ces-jpn	Czech	Japanese	91	401	93	1	3	1	15538617	129694086	25987028	
 ces-kab	Czech	Kabyle	1	3	3				34531	294829	332486	
@@ -673,7 +595,6 @@ ces-kor	Czech	Korean	14	59	44				10175004	90993789	81746700
 ces-kur	Czech	Kurdish	1	2	3				94080	984129	1324925	
 ces-kzj	Czech	Coastal Kadazan	2	11	5						
 ces-lad	Czech	Ladino	16	66	84						
-ces-lat	Czech	Latin	323	1446	1356	1	3	4	93751	851010	787300	
 ces-ldn	Czech	Láadan	1	4	4						
 ces-lfn	Czech	Lingua Franca Nova	45	160	213	2	6	10			
 ces-lit	Czech	Lithuanian	1	3	3				21846865	305240810	283548081	
@@ -687,13 +608,9 @@ ces-nor	Czech	Norwegian	28	126	149				25341535	276888138	297692993
 ces-nov	Czech	Novial	5	21	23						
 ces-pag	Czech	Pangasinan	1	1	2				154554	1933497	2416593	
 ces-phn	Czech	Phoenician	1	3	2						
-ces-pol	Czech	Polish	568	2688	2718	3	11	13	82803948	775652557	769035402	
 ces-por	Czech	Portuguese	133	604	760				105817611	896279689	1038340401	
 ces-ron	Czech	Romanian	12	137	162				54912892	505179335	597948436	
-ces-rus	Czech	Russian	2934	13212	14102	5466	24606	26200	49955853	417151582	419889499	
 ces-sjn	Czech	Sindarin	1	7	5						
-ces-slv	Czech	Slovenian	489	1906	1955	17	69	72	36545653	395482921	398049348	
-ces-spa	Czech	Spanish	1807	8931	10620	134	608	705	92655594	900569132	1100870217	
 ces-stq	Czech	Saterfriesisch	1	7	9						
 ces-swe	Czech	Swedish	5	19	28				52916321	547671533	576913449	
 ces-swg	Czech	Swabian	1	5	7						
@@ -704,13 +621,11 @@ ces-toki	Czech	Toki Pona	2	11	32
 ces-tur	Czech	Turkish	81	350	312	1	3	3	49023162	331705939	295027918	
 ces-tzl	Czech	Talossan	12	49	63	1	3	5			
 ces-uig	Czech	Uighur	4	10	7				20195	290395	325778	
-ces-ukr	Czech	Ukrainian	1787	6527	6842	1114	4187	4414	7651457	84995790	83634672	
 ces-vie	Czech	Vietnamese	2	6	9				15293485	131334007	197636619	
 ces-vol	Czech	Volapük	6	29	30				2	42	5	
 ces-yid	Czech	Yiddish	37	142	197	3	11	11	21775	70311	376943	
 ces-zho	Czech	Chinese	92	423	93				19342377	143364048	33773625	
 cha-deu	Chamorro	German	9	61	66				6482	120135	124191	
-cha-eng	Chamorro	English	227	774	898				12988	240777	265653	
 cha-fra	Chamorro	French	74	486	579				6482	120209	127239	
 cha-jpn	Chamorro	Japanese	10	82	11				2	21	5	
 cha-nld	Chamorro	Dutch	1	2	4				6311	117105	136191	
@@ -736,7 +651,6 @@ chm-fra	Mari (Russia)	French	25	114	153				803	1918	3187
 chm-ita	Mari (Russia)	Italian	19	74	97				3895	14753	18216	
 chm-jpn	Mari (Russia)	Japanese	13	61	13				3780	13766	5634	
 chm-pol	Mari (Russia)	Polish	5	25	24				563	1510	1674	
-chm-rus	Mari (Russia)	Russian	2750	15104	16269	1000	5305	5720	3973	14606	14943	
 chm-spa	Mari (Russia)	Spanish	29	116	159				355	762	903	
 chm-tat	Mari (Russia)	Tatar	1	10	12				118	327	346	
 chm-zho	Mari (Russia)	Chinese	12	47	12				1023	2579	1405	
@@ -749,13 +663,10 @@ chr-deu	Cherokee	German	1	3	4				7945	116327	168710
 chr-eng	Cherokee	English	22	57	101				15965	233466	356871	
 chu-eng	Church Slavic	English							153	1155	1518	
 chv-deu	Chuvash	German	1	3	4				77567	914849	1183314	
-chv-eng	Chuvash	English	336	1369	1890				78523	897748	1225884	
 chv-epo	Chuvash	Esperanto	67	208	281				711	2675	3294	
 chv-jpn	Chuvash	Japanese	1	3	1				29437	770254	68130	
-chv-rus	Chuvash	Russian	382	1556	1799				81295	990835	996701	
 chv-spa	Chuvash	Spanish	39	140	191	1	2	4	76366	902977	1217619	
 chv-tat	Chuvash	Tatar	1	4	3				81764	1006523	967840	
-chv-tur	Chuvash	Turkish	508	2070	2047				79787	959659	935474	
 chw-eng	Chuwabu	English							18626	197021	260724	
 chy-eng	Cheyenne	English							2	33	128	
 cjk-eng	Chokwe	English							37281	486829	543411	
@@ -765,20 +676,13 @@ cnh-eng	Hakha Chin	English							25678	420856	358582
 cni-eng	Asháninka	English							13705	214988	305398	
 cop-eng	Coptic	English							15903	245856	355679	
 cor-cym	Cornish	Welsh	3	15	16				1181	6264	6444	
-cor-deu	Cornish	German	821	3855	3732				983	4520	4376	
 cor-ell	Cornish	Modern Greek (1453-)	126	521	469				1295	6007	6267	
-cor-eng	Cornish	English	3198	14464	13500	1000	4601	4272	4889	23684	25129	
-cor-epo	Cornish	Esperanto	663	3026	2877				1151	4757	4511	
 cor-fin	Cornish	Finnish	8	34	33				1282	5728	4217	
-cor-fra	Cornish	French	555	2560	2614				1190	5646	6422	
-cor-ita	Cornish	Italian	287	1211	1079				1223	5700	5974	
 cor-jpn	Cornish	Japanese	164	742	164				1247	5635	1634	
 cor-nld	Cornish	Dutch	138	619	616				1208	5761	5684	
 cor-nor	Cornish	Norwegian	17	89	84				1841	7404	6829	
 cor-pol	Cornish	Polish	65	289	246				1094	4764	4157	
 cor-por	Cornish	Portuguese	63	313	287				2480	10692	11336	
-cor-rus	Cornish	Russian	218	959	820				1385	5978	5442	
-cor-spa	Cornish	Spanish	206	944	847				1283	5853	6387	
 cor-zho	Cornish	Chinese	47	210	47				2971	11320	4026	
 cos-deu	Corsican	German	1	1	1				2633	17468	14745	
 cos-eng	Corsican	English	5	31	28				5615	40283	34010	
@@ -802,7 +706,6 @@ crh-lit	Crimean Tatar	Lithuanian	2	8	8				15662	72432	72073
 crh-rus	Crimean Tatar	Russian	4	13	18				14802	70180	74461	
 crh-spa	Crimean Tatar	Spanish	12	44	55				114083	451244	622140	
 crh-tat	Crimean Tatar	Tatar	1	3	4				15337	42246	36413	
-crh-tur	Crimean Tatar	Turkish	208	824	794				18202	84975	83716	
 crh-ukr	Crimean Tatar	Ukrainian	9	39	41				17774	86575	90346	
 crp-eng	Creoles and pidgins	English							62094	1835370	1548409	
 crs-eng	Seselwa Creole French	English							185195	3204264	2904594	
@@ -823,7 +726,6 @@ cycl-rus	Cyc Language	Russian	1	8	4
 cycl-spa	Cyc Language	Spanish	2	15	6						
 cycl-zho	Cyc Language	Chinese	2	14	2						
 cym-deu	Welsh	German	51	229	203				513034	4888735	4368400	
-cym-eng	Welsh	English	818	5073	4618	19	122	115	2343465	18787525	18184731	
 cym-epo	Welsh	Esperanto	1	8	7				295982	1230349	1109351	
 cym-fra	Welsh	French	29	131	126				462722	4645798	5021943	
 cym-gla	Welsh	Scottish Gaelic	1	5	6				47423	220450	268636	
@@ -841,17 +743,11 @@ cym-rus	Welsh	Russian	45	203	145				448495	4434184	3954538
 cym-spa	Welsh	Spanish	22	113	102				612470	5170938	5636867	
 cym-yid	Welsh	Yiddish	1	8	8				43285	249945	527980	
 cym-zho	Welsh	Chinese	9	31	9				270692	1355281	571341	
-dan-dan	Danish	Danish	212	1367	1386				4700694	26780442	26779838	
-dan-deu	Danish	German	9998	62514	63040	6921	43733	44156	66857588	960329852	962899158	
 dan-ell	Danish	Modern Greek (1453-)	4	32	28				37904698	527773530	547051139	
-dan-eng	Danish	English	10795	66698	67183	20089	123471	124078	132853159	1782200648	1868932169	
 dan-enm	Danish	Middle English (1100-1500)	6	18	18						
-dan-epo	Danish	Esperanto	11069	66844	63473	19236	117228	111170	1597423	15444665	15262813	
 dan-fao	Danish	Faroese	1	5	5				21347	149426	145188	
 dan-fas	Danish	Persian	1	5	3				6691923	65810344	74992049	
-dan-fin	Danish	Finnish	2665	13452	11009	1743	9694	7870	38934546	536282131	407294308	
 dan-fkv	Danish	Kven Finnish	1	25	22						
-dan-fra	Danish	French	1731	9307	10245	45	341	389	63194534	923658354	1059815188	
 dan-fry	Danish	Western Frisian	2	10	10				326374	2127914	2158660	
 dan-gos	Danish	Gronings	7	39	39	1	6	7			
 dan-heb	Danish	Hebrew	29	200	150	5	27	19	15399048	132182130	113411236	
@@ -860,9 +756,7 @@ dan-ido	Danish	Ido	22	119	107	3	17	16	16998	45405	47064
 dan-ile	Danish	Interlingue	7	22	23	1	6	7	189	938	472	
 dan-ina	Danish	Interlingua (International Auxiliary Language Association)	35	197	209	3	17	19	26037	147014	162713	
 dan-isl	Danish	Icelandic	1	10	8				4795371	57158522	55878052	
-dan-ita	Danish	Italian	284	1864	1874	4	16	18	50887929	782654785	845260290	
 dan-jbo	Danish	Lojban	1	5	7				343	641	896	
-dan-jpn	Danish	Japanese	904	4870	909	10	62	10	8199889	97192205	15847249	
 dan-kab	Danish	Kabyle	2	8	9				28160	276124	280220	
 dan-krl	Danish	Karelian	1	25	24						
 dan-kur	Danish	Kurdish	5	16	24				107157	683264	733179	
@@ -874,26 +768,19 @@ dan-lfn	Danish	Lingua Franca Nova	32	143	162	3	12	11
 dan-ltz	Danish	Luxembourgish	3	46	44				286614	1928520	2012094	
 dan-mar	Danish	Marathi	1	9	9				519093	9382810	8465494	
 dan-nds	Danish	Low German	11	56	59	2	8	8	217822	898274	946881	
-dan-nld	Danish	Dutch	1643	8485	8952	36	184	198	56709329	828030426	891799410	
-dan-nor	Danish	Norwegian	1311	8343	8216	1017	6437	6392	39038808	509150599	504233747	
 dan-nov	Danish	Novial	3	11	11						
 dan-phn	Danish	Phoenician	1	2	2						
 dan-pol	Danish	Polish	147	926	790				37118299	443356732	411705576	
-dan-por	Danish	Portuguese	873	4265	4353	4	33	24	64218680	832630596	910433465	
 dan-qya	Danish	Quenya	2	8	4						
 dan-ron	Danish	Romanian	1	4	4				30960350	379626296	416704645	
-dan-rus	Danish	Russian	1713	9788	8376	1020	5720	4980	19286598	180796971	164299395	
 dan-sco	Danish	Scots	1	25	32				512	4070	4827	
 dan-sjn	Danish	Sindarin	2	7	5						
 dan-slv	Danish	Slovenian	2	7	7				24543548	321944676	299862759	
-dan-spa	Danish	Spanish	5000	30181	29832	5136	31355	30912	66865377	950618808	1092176027	
-dan-swe	Danish	Swedish	1549	8492	8374	1440	7859	7730	56372864	806494684	787875212	
 dan-swg	Danish	Swabian	1	14	13						
 dan-tat	Danish	Tatar	1	9	9				233952	3871029	2639808	
 dan-tlh	Danish	Klingon	18	76	61				29	187	121	
 dan-tmr	Danish	Jewish Babylonian Aramaic (ca. 200-1200 CE)	2	8	4						
 dan-toki	Danish	Toki Pona	6	45	61						
-dan-tur	Danish	Turkish	758	3485	2627	4	16	12	20743995	187767347	153711436	
 dan-tzl	Danish	Talossan	10	45	45						
 dan-ukr	Danish	Ukrainian	10	44	37	1	4	3	5378143	73217094	63416021	
 dan-urd	Danish	Urdu	3	10	12				643862	11191639	14255316	
@@ -901,74 +788,38 @@ dan-vep	Danish	Veps	1	25	21
 dan-vol	Danish	Volapük	11	39	38	2	11	10	2	5	5	
 dan-yid	Danish	Yiddish	137	645	717	11	58	60	115374	549855	807018	
 dan-zho	Danish	Chinese	158	818	173				12702078	104687215	23118098	
-deu-deu	German	German	2500	17212	17358	2115	14324	14560	4574760	27145368	27101195	
 deu-dng	German	Dungan	2	9	6						
 deu-drt	German	Drents	7	40	42						
-deu-dsb	German	Lower Sorbian	640	3696	3203	1	5	5	24655	209250	201906	
 deu-dtp	German	Kadazan Dusun	6	20	17						
 deu-dws	German	Dutton World Speedwords	4	17	15						
 deu-egl	German	Emilian	3	12	12						
-deu-ell	German	Modern Greek (1453-)	2500	14008	12753	2801	15930	14670	62266768	850843345	890276511	
-deu-eng	German	English	17565	126272	127624	289779	2004590	2005962	582899212	8537156462	8995953085	
 deu-enm	German	Middle English (1100-1500)	21	98	98	3	13	13			
-deu-epo	German	Esperanto	13439	111705	104869	221681	1735735	1622605	5266759	55673452	54422182	
-deu-est	German	Estonian	244	1319	1120	1	6	4	34366655	468203581	373851503	
-deu-eus	German	Basque	456	2742	2290				1027193	6198633	5104272	
-deu-fas	German	Persian	3185	21330	21895	1025	6827	7049	13516810	153258831	177624395	
-deu-fin	German	Finnish	2647	15846	11934	7142	42630	32133	55548870	747239474	562776560	
-deu-fra	German	French	12418	83402	90441	98158	659086	710892	242670995	3764031175	4328760228	
-deu-frr	German	Northern Frisian	278	1557	1535						
 deu-fry	German	Western Frisian	79	404	440	1	3	3	323719	2150524	2076157	
 deu-gla	German	Scottish Gaelic	157	785	911				35305	168642	211243	
 deu-gle	German	Irish	42	204	229				961616	14624808	17287152	
 deu-glg	German	Galician	103	567	553	1	5	4	517111	3594591	3865619	
-deu-gos	German	Gronings	207	918	892	6	29	25			
 deu-got	German	Gothic	50	156	137				9	287	157	
 deu-grc	German	Ancient Greek (to 1453)	87	624	527				5	7	6	
 deu-grn	German	Guarani	22	105	65				173710	2505924	1914969	
 deu-gsw	German	Swiss German	67	249	243	20	105	103	878	15063	15635	
 deu-hbo	German	Ancient Hebrew	3	24	11						
-deu-hbs	German	Serbo-Croatian	1959	12825	11347	9	59	52	63556080	634416389	574391476	
-deu-heb	German	Hebrew	3090	20905	16487	1125	7647	6077	24149594	220217077	181855656	
 deu-hin	German	Hindi	50	366	383	2	37	37	9545126	130374200	160587051	
-deu-hrx	German	Hunsrik	471	2261	2184						
-deu-hsb	German	Upper Sorbian	666	3955	3333	1	5	5	35911	258946	242865	
-deu-hun	German	Hungarian	15342	105399	83444	54083	363033	290581	57470609	732710056	648655101	
 deu-hye	German	Armenian	9	44	34				604780	11912439	11064044	
-deu-ido	German	Ido	871	4250	4106	96	419	404	6044	12848	14087	
-deu-ile	German	Interlingue	2003	9790	10133	1372	6540	6818	3	35	76	
 deu-ilo	German	Iloko	3	13	11				1199793	16307093	16716481	
-deu-ina	German	Interlingua (International Auxiliary Language Association)	1257	9764	10569	115	569	598	25730	165708	180995	
-deu-isl	German	Icelandic	969	5110	4879	19	159	136	7534706	82794649	81510210	
-deu-ita	German	Italian	10094	66361	63705	12198	79958	76585	149228324	2382786075	2572173165	
 deu-jav	German	Javanese	1	3	3				721043	4188121	2607216	
-deu-jbo	German	Lojban	1449	8454	9715	6	25	38	427	798	1182	
-deu-jpn	German	Japanese	11428	81824	11503	29868	214867	30124	22071648	234624091	41840288	
-deu-kab	German	Kabyle	373	1947	1660	8	47	33	29285	305436	306909	
 deu-kat	German	Georgian	77	498	337				892636	17552872	13908575	
 deu-kaz	German	Kazakh	21	84	68	1	5	3	379259	4082277	3468273	
 deu-khm	German	Khmer	20	88	44				339951	5529367	1795930	
 deu-kir	German	Kirghiz	4	10	11				433349	6450172	5088878	
-deu-kor	German	Korean	1104	7431	5307	9	76	55	14391527	162529265	133792332	
 deu-ksh	German	Kölsch	38	381	374				21	90	48	
-deu-kur	German	Kurdish	237	1138	1058	12	57	58	154476	1695463	2070921	
-deu-lad	German	Ladino	220	939	907	28	116	131			
-deu-lat	German	Latin	2016	10773	8116	1102	6116	4617	91180	1021266	826668	
 deu-lav	German	Latvian	121	630	526				25277297	386412656	362370193	
 deu-ldn	German	Láadan	1	6	5						
-deu-lfn	German	Lingua Franca Nova	418	2843	3277	54	340	389			
 deu-lim	German	Limburgan	5	23	25				40714	179650	175980	
-deu-lit	German	Lithuanian	1115	7056	5615	355	1832	1566	29078892	437353164	371393927	
-deu-ltz	German	Luxembourgish	347	1765	1762	4	21	21	584394	6452022	10846641	
 deu-mar	German	Marathi	13	73	68				628680	10164101	9554436	
 deu-mkd	German	Macedonian	48	270	237				7541708	80933970	80731140	
 deu-mlt	German	Maltese	65	202	145				7219821	123571189	118928572	
 deu-mon	German	Mongolian	12	67	53				408983	5461873	4616197	
-deu-msa	German	Malay (macrolanguage)	544	3548	3183	2	41	34	34554754	414319167	397182746	
-deu-nds	German	Low German	9999	62145	63862	7843	49335	50807	187895	1444784	1510915	
-deu-nld	German	Dutch	10218	61174	63510	26387	157718	163499	136798789	1950628281	2076937251	
 deu-nog	German	Nogai	1	5	3						
-deu-nor	German	Norwegian	3651	29080	28408	1001	7756	7564	46122783	592165682	579691226	
 deu-nov	German	Novial	52	226	220	3	14	13			
 deu-oci	German	Occitan (post 1500)	174	1102	1162				106761	417919	457442	
 deu-orv	German	Old Russian	28	162	111						
@@ -978,51 +829,32 @@ deu-pag	German	Pangasinan	2	2	2				153231	2282000	2406207
 deu-pal	German	Pahlavi	5	45	40						
 deu-pdc	German	Pennsylvania German	24	102	106						
 deu-pms	German	Piemontese	12	75	84				74	385	446	
-deu-pol	German	Polish	5000	31008	25467	5701	35327	28930	93422130	1163611800	1071699970	
-deu-por	German	Portuguese	10000	67116	68443	7045	48959	49912	138805696	1956219431	2125883381	
 deu-prg	German	Prussian	66	346	310						
 deu-qya	German	Quenya	1	4	3						
 deu-roh	German	Romansh	14	116	115				23987	282801	325439	
 deu-rom	German	Romany	11	44	45				6434	135518	148040	
-deu-ron	German	Romanian	1141	6409	6093	1013	5646	5398	54396800	690803557	746488941	
-deu-run	German	Rundi	1752	8475	5109	1191	6280	3866	360957	5761395	5241168	
-deu-rus	German	Russian	12800	81626	69651	100323	629710	536786	70387523	922069969	843611782	
 deu-scn	German	Sicilian	5	30	32				2229	13915	14621	
 deu-sco	German	Scots	10	61	56				565	3789	4460	
 deu-sjn	German	Sindarin	6	29	18						
-deu-slv	German	Slovenian	492	2385	1963	7	35	26	40879856	545990314	504181024	
 deu-sme	German	Northern Sami	5	25	20				19301	74590	67392	
-deu-spa	German	Spanish	10521	71958	70065	75061	507740	495821	212444622	3239969549	3695062902	
 deu-sqi	German	Albanian	1	6	5				11648962	127174798	138017033	
 deu-stq	German	Saterfriesisch	17	82	84						
 deu-sux	German	Sumerian	8	38	10						
 deu-swa	German	Swahili (macrolanguage)	98	386	250				4078956	53817249	50849917	
-deu-swe	German	Swedish	3410	19330	19001	1126	6371	6241	83271324	1163304506	1124198356	
-deu-swg	German	Swabian	1523	13079	12897	162	1242	1234			
-deu-tat	German	Tatar	2501	21692	17487	3465	29832	24000	293645	4449626	3572156	
 deu-tgk	German	Tajik	2	14	13				318092	4062590	3879328	
-deu-tgl	German	Tagalog	326	2041	1965				3265457	41424687	47753588	
 deu-tha	German	Thai	61	318	79				6170138	79532588	27340642	
-deu-tlh	German	Klingon	1099	6292	3573	1035	5804	3343	123	2058	1291	
 deu-tmr	German	Jewish Babylonian Aramaic (ca. 200-1200 CE)	10	59	36						
-deu-toki	German	Toki Pona	10114	63617	96864	13817	85800	130707			
 deu-tpi	German	Tok Pisin	30	129	148				387844	6067243	8100222	
 deu-tsn	German	Tswana	9	66	71				770680	12511324	17979375	
 deu-tuk	German	Turkmen	10	50	34				133530	1879050	1420922	
-deu-tur	German	Turkish	5000	32186	23099	7277	46393	33331	44783818	462268910	380229775	
 deu-tzl	German	Talossan	41	184	187	6	24	28			
 deu-uig	German	Uighur	153	743	574				32337	640566	611017	
-deu-ukr	German	Ukrainian	10319	52559	44058	11721	59016	49648	11376817	145471904	127922368	
 deu-urd	German	Urdu	33	182	213				1022278	18342220	23821337	
 deu-uzb	German	Uzbek	29	144	100				131219	1029486	964353	
-deu-vie	German	Vietnamese	400	2700	3250				19580930	245710452	344836549	
-deu-vol	German	Volapük	206	1043	780	7	32	33	1	72	13	
 deu-war	German	Waray (Philippines)	13	50	44				247522	4108257	4701216	
 deu-wol	German	Wolof	2	14	11				31264	242150	248608	
 deu-xho	German	Xhosa	1	7	5				1062526	14829441	10779799	
-deu-yid	German	Yiddish	853	4178	4414	121	658	746	83240	919363	1160842	
 deu-zea	German	Zeeuws	3	15	17						
-deu-zho	German	Chinese	3944	24822	3992	6838	43798	6948	27292037	297542725	49136194	
 dhv-eng	Dehu	English							58349	1245996	900362	
 din-eng	Dinka	English							14653	355876	327951	
 div-eng	Dhivehi	English	4	22	23				107401	2128160	2246354	
@@ -1077,7 +909,6 @@ dsb-dsb	Lower Sorbian	Lower Sorbian	1	3	3
 dsb-eng	Lower Sorbian	English	105	344	447				76667	534332	552108	
 dsb-epo	Lower Sorbian	Esperanto	129	676	750				14929	97819	102164	
 dsb-fra	Lower Sorbian	French	4	11	20				30274	240581	293796	
-dsb-hsb	Lower Sorbian	Upper Sorbian	331	939	926				28984	223540	220864	
 dsb-ido	Lower Sorbian	Ido	1	1	2				12	23	25	
 dsb-jpn	Lower Sorbian	Japanese	5	22	5				21660	164221	42158	
 dsb-lfn	Lower Sorbian	Lingua Franca Nova	2	6	8						
@@ -1087,18 +918,14 @@ dsb-nld	Lower Sorbian	Dutch	148	783	926				27106	222139	231212
 dsb-pol	Lower Sorbian	Polish	14	64	60				25306	187165	171186	
 dsb-por	Lower Sorbian	Portuguese	1	3	4				60822	485958	550993	
 dsb-rus	Lower Sorbian	Russian	24	89	98				29200	226359	220849	
-dsb-slv	Lower Sorbian	Slovenian	330	1013	1034				29031	221693	218100	
 dsb-spa	Lower Sorbian	Spanish	21	80	91				26177	211345	246915	
 dsb-ukr	Lower Sorbian	Ukrainian	3	11	10				30540	239729	228567	
 dtp-dtp	Kadazan Dusun	Kadazan Dusun	5	28	35						
-dtp-eng	Kadazan Dusun	English	1927	11430	11485	1012	6290	6183			
 dtp-epo	Kadazan Dusun	Esperanto	9	29	37						
 dtp-fra	Kadazan Dusun	French	3	8	9						
 dtp-hun	Kadazan Dusun	Hungarian	1	4	3						
-dtp-jpn	Kadazan Dusun	Japanese	251	1361	251						
 dtp-kor	Kadazan Dusun	Korean	41	293	188						
 dtp-kzj	Kadazan Dusun	Coastal Kadazan	35	195	207						
-dtp-msa	Kadazan Dusun	Malay (macrolanguage)	517	3913	3551	7	49	45			
 dtp-mvv	Kadazan Dusun	Tagal Murut	2	6	6						
 dtp-zho	Kadazan Dusun	Chinese	183	1242	187						
 dua-eng	Duala	English							15236	255839	224893	
@@ -1117,21 +944,15 @@ dzo-eng	Dzongkha	English							20670	41060	81859
 efi-eng	Efik	English							329619	5188348	5136149	
 egl-eng	Emilian	English	84	343	348						
 egl-fra	Emilian	French	14	46	48						
-egl-ita	Emilian	Italian	202	863	784						
 egl-spa	Emilian	Spanish	98	358	327						
-ell-ell	Modern Greek (1453-)	Modern Greek (1453-)	533	2611	2627				45907853	243082323	243035661	
-ell-eng	Modern Greek (1453-)	English	10899	55032	56764	12920	62833	64695	147932024	1961516899	1966367206	
 ell-enm	Modern Greek (1453-)	Middle English (1100-1500)	1	4	3						
-ell-epo	Modern Greek (1453-)	Esperanto	604	3256	3139	5	26	26	1610179	17443498	16384612	
 ell-fas	Modern Greek (1453-)	Persian	10	28	38				8875618	84000703	94196245	
-ell-fra	Modern Greek (1453-)	French	1506	7324	8420	10	55	66	93398426	1124492062	1222737648	
 ell-fry	Modern Greek (1453-)	Western Frisian	1	3	4				75224	324334	313217	
 ell-glg	Modern Greek (1453-)	Galician	12	48	51				461766	3524914	3547672	
 ell-gos	Modern Greek (1453-)	Gronings	2	10	9						
 ell-heb	Modern Greek (1453-)	Hebrew	3	13	9				29931168	214769140	186569363	
 ell-ile	Modern Greek (1453-)	Interlingue	2	9	8				117	742	291	
 ell-ina	Modern Greek (1453-)	Interlingua (International Auxiliary Language Association)	1	5	5				20018	153629	159402	
-ell-ita	Modern Greek (1453-)	Italian	424	1956	2007				58470238	803131547	823985092	
 ell-jpn	Modern Greek (1453-)	Japanese	25	134	25				8900873	100646720	18550202	
 ell-lat	Modern Greek (1453-)	Latin	1	5	3				156183	1369609	1137239	
 ell-lfn	Modern Greek (1453-)	Lingua Franca Nova	1	5	5						
@@ -1141,17 +962,11 @@ ell-mkd	Modern Greek (1453-)	Macedonian	1	3	6				3639575	31925699	31118482
 ell-mlt	Modern Greek (1453-)	Maltese	60	148	127				5337026	100580536	84030334	
 ell-msa	Modern Greek (1453-)	Malay (macrolanguage)	9	18	23				20466550	188329111	172520470	
 ell-nds	Modern Greek (1453-)	Low German	28	88	119				128272	646871	611670	
-ell-nld	Modern Greek (1453-)	Dutch	922	6485	7143	67	508	544	58147304	734688804	761892644	
 ell-nor	Modern Greek (1453-)	Norwegian	13	51	51				21401159	265118887	251204110	
 ell-pap	Modern Greek (1453-)	Papiamento	5	7	17				289467	4841752	5617763	
 ell-pol	Modern Greek (1453-)	Polish	116	480	449				54810707	615936672	528261396	
-ell-por	Modern Greek (1453-)	Portuguese	885	3934	4161	23	104	113	103939019	1064247788	1105260035	
-ell-rus	Modern Greek (1453-)	Russian	2500	13195	11573	2532	13263	11539	33094232	339561886	298242322	
-ell-spa	Modern Greek (1453-)	Spanish	1829	8405	8756	1005	4652	4830	102869700	1198655864	1289947014	
-ell-swe	Modern Greek (1453-)	Swedish	253	1159	1210				38640662	531104897	487228256	
 ell-tlh	Modern Greek (1453-)	Klingon	1	5	2				113	2010	1240	
 ell-toki	Modern Greek (1453-)	Toki Pona	2	10	8						
-ell-tur	Modern Greek (1453-)	Turkish	1469	7418	5505	109	487	370	43847517	322051696	261187004	
 ell-ukr	Modern Greek (1453-)	Ukrainian	40	168	163	1	5	3	5472852	71519049	59669371	
 ell-vol	Modern Greek (1453-)	Volapük	1	2	2						
 ell-xal	Modern Greek (1453-)	Kalmyk	1	1	3				26	49	42	
@@ -1159,25 +974,16 @@ ell-yid	Modern Greek (1453-)	Yiddish	7	36	36				17279	86010	372176
 ell-zho	Modern Greek (1453-)	Chinese	43	221	43				16982555	135034733	29884658	
 emx-eus	Erromintxela	Basque	8	38	38						
 emx-rus	Erromintxela	Russian	7	35	34						
-eng-eng	English	English	12062	100861	102277	96608	812315	828924	540486918	3182711541	3181125520	
 eng-enm	English	Middle English (1100-1500)	67	378	396	3	28	30			
-eng-epo	English	Esperanto	17675	120742	113285	241675	1637988	1528466	17630279	247364531	237099603	
-eng-est	English	Estonian	1359	7295	6373	1096	6029	5260	59607889	788399599	602985124	
-eng-eus	English	Basque	1060	6861	5823	1001	6617	5524	12196006	98950845	79883246	
 eng-ewe	English	Ewe	6	25	25				68746	419967	428322	
 eng-ext	English	Extremaduran	69	279	235				7	120	123	
-eng-fao	English	Faroese	294	1631	1564	1	4	4	56593	508624	417650	
-eng-fas	English	Persian	3762	26914	27590	1031	7344	7593	40786833	529138383	586211764	
 eng-fij	English	Fijian	44	99	122				378570	5836511	7033101	
 eng-fil	English	Filipino							48553	560960	598231	
-eng-fin	English	Finnish	10690	67873	51957	69896	437901	335639	103531791	1325363772	952628581	
 eng-fkv	English	Kven Finnish	71	550	451						
 eng-fon	English	Fon							31951	476308	697911	
-eng-fra	English	French	12681	86600	94233	251749	1665185	1802220	747876036	12938148460	14330328349	
 eng-frm	English	Middle French (ca. 1400-1600)	18	183	177	1	42	39	28	56	64	
 eng-frp	English	Arpitan							4777	10230	10291	
 eng-frr	English	Northern Frisian	197	1213	1112						
-eng-fry	English	Western Frisian	220	1291	1322	2	6	6	778751	4945655	5303398	
 eng-ful	English	Fulah	41	153	136				60683	302160	305527	
 eng-fur	English	Friulian	10	37	32				72160	341042	388858	
 eng-gaa	English	Ga							34635	204155	214506	
@@ -1186,18 +992,11 @@ eng-gbi	English	Galela							13607	304751	502343
 eng-gbm	English	Garhwali	39	117	145						
 eng-gcf	English	Guadeloupean Creole French	101	463	465						
 eng-gil	English	Gilbertese	14	68	60				207956	3307401	4276914	
-eng-gla	English	Scottish Gaelic	955	5337	6121				220810	1511440	1147334	
-eng-gle	English	Irish	1913	9141	10094	27	155	166	4076822	58408962	74424700	
-eng-glg	English	Galician	1015	7218	6697	3	17	16	14723137	150062311	149423868	
 eng-glk	English	Gilaki							35	1700	2135	
 eng-glv	English	Manx	5	22	20				89880	592246	684335	
 eng-gor	English	Gorontalo							792	10499	9127	
-eng-gos	English	Gronings	1154	4330	4250	96	494	487			
-eng-got	English	Gothic	202	846	673				53	1594	864	
-eng-grc	English	Ancient Greek (to 1453)	614	4502	3350	6	28	28	36	611	103	
 eng-gre	English	Modern Greek (1453-)							519	2268	2318	
 eng-grn	English	Guarani	192	1170	862	29	185	132	207034	2784006	2055191	
-eng-gsw	English	Swiss German	205	770	761	3	13	18	55	1129	909	
 eng-guc	English	Wayuu							52806	824525	645113	
 eng-guj	English	Gujarati	154	767	680				1601002	13283937	13516987	
 eng-guw	English	Gun							257130	4107446	4940199	
@@ -1207,65 +1006,44 @@ eng-hat	English	Haitian	64	281	311				822374	10865157	12170097
 eng-hau	English	Hausa	56	378	317				6654290	70042115	28053031	
 eng-haw	English	Hawaiian	92	350	353				72	1967	2211	
 eng-hbo	English	Ancient Hebrew	23	401	185						
-eng-hbs	English	Serbo-Croatian	10017	57685	52645	14206	86842	79949	159611854	1591827269	1385422828	
-eng-heb	English	Hebrew	10519	65607	51793	153571	956210	754018	62390511	613486154	489298417	
 eng-her	English	Herero							8090	117236	115130	
 eng-hif	English	Fiji Hindi	36	187	177				12	313	115	
 eng-hil	English	Hiligaynon	22	127	104				846173	13316555	15028087	
-eng-hin	English	Hindi	5000	28315	31361	5944	33609	37316	26203459	338350248	392701068	
 eng-hmn	English	Hmong	84	361	474				44357	640779	808291	
 eng-hmo	English	Hiri Motu							200380	3159715	3502068	
 eng-hne	English	Chhattisgarhi							160617	582170	677975	
-eng-hoc	English	Ho	660	2827	1894						
-eng-hrx	English	Hunsrik	221	978	1028						
 eng-hsb	English	Upper Sorbian	154	672	541				103051	668812	623642	
-eng-hun	English	Hungarian	13037	79504	62340	97144	568474	449917	113408329	1321977914	1108361115	
 eng-hus	English	Huastec							486	2429	3621	
-eng-hye	English	Armenian	1121	3888	3852	1000	3556	3535	1393027	22833420	19893688	
 eng-hyw	English	Western Armenian							126118	3500226	2949072	
 eng-iba	English	Iban	30	237	235				36761	521501	516963	
 eng-ibg	English	Ibanag							29698	437458	441397	
 eng-ibo	English	Igbo	21	126	121				796645	10261242	11609728	
-eng-ido	English	Ido	1960	11842	10789	1483	8666	8023	54074	255480	245969	
 eng-iii	English	Sichuan Yi	1	3	1						
 eng-iku	English	Inuktitut	49	176	78				105	215	152	
-eng-ile	English	Interlingue	1711	8607	8832	1108	5606	5761	220	1725	1237	
-eng-ilo	English	Iloko	1093	6184	6040	1000	5647	5433	1259734	18818179	20393963	
-eng-ina	English	Interlingua (International Auxiliary Language Association)	4988	36505	38263	6234	44104	46079	74324	436141	472593	
 eng-inh	English	Ingush							473	6115	5713	
 eng-ipk	English	Inupiaq							8	24	12	
 eng-iro	English	Iroquoian languages							4	125	911	
 eng-ish	English	Esan							4605	68780	85130	
-eng-isl	English	Icelandic	2503	16882	16309	6938	46615	45100	18935522	206610410	197255332	
 eng-iso	English	Isoko							205198	3248895	3970034	
-eng-ita	English	Italian	17320	99696	96793	472974	2669685	2585368	332003631	5475175712	5554855853	
 eng-ixl	English	Ixil							4049	13007	18989	
 eng-izh	English	Ingrian	6	17	16						
 eng-jam	English	Jamaican Creole English	35	121	111				109	3243	3157	
 eng-jap	English	Jaruára							124196	3098102	2609282	
-eng-jav	English	Javanese	262	1539	1342	2	20	17	1993438	12480530	7764181	
-eng-jbo	English	Lojban	4996	28565	33556	6940	40087	47265	1578	3593	4762	
 eng-jdt	English	Judeo-Tat	2	6	4						
 eng-jiv	English	Shuar							12420	278836	208274	
 eng-jpa	English	Jewish Palestinian Aramaic	5	43	22						
-eng-jpn	English	Japanese	13862	105746	13911	194065	1502352	194609	60849617	666616915	117768510	
-eng-kab	English	Kabyle	12142	64588	56114	14439	72838	63772	83678	736103	734476	
 eng-kac	English	Kachin							10394	150573	221947	
 eng-kal	English	Kalaallisut	36	139	62				207855	3362596	1703750	
 eng-kam	English	Kamba (Kenya)	10	48	37				47956	728278	707280	
 eng-kan	English	Kannada	167	1073	783	11	63	55	469512	9319352	6437023	
 eng-kar	English	Karen languages							15	279	489	
 eng-kas	English	Kashmiri							16263	51749	58415	
-eng-kat	English	Georgian	984	4899	3360	18	98	70	2026943	31045858	24342185	
 eng-kau	English	Kanuri							2916	48734	47235	
-eng-kaz	English	Kazakh	403	2207	1691	3	13	10	1060530	11716227	9422235	
 eng-kbd	English	Kabardian							500	1473	1649	
 eng-kbh	English	Camsá							10324	230521	306134	
 eng-kbp	English	Kabiyè							28605	438267	445087	
 eng-kea	English	Kabuverdianu							5266	77289	85367	
 eng-kek	English	Kekchí	20	53	43				53369	1311344	1542088	
-eng-kha	English	Khasi	1314	6985	7819	20	130	177			
-eng-khm	English	Khmer	726	3425	1566				815971	11578309	4334302	
 eng-kik	English	Kikuyu							89943	1377623	1319530	
 eng-kin	English	Kinyarwanda	17	93	60				1338887	12401668	9638915	
 eng-kir	English	Kirghiz	116	575	423				633582	8388802	6531854	
@@ -1275,7 +1053,6 @@ eng-kok	English	Konkani (macrolanguage)	1	6	5				1263	26401	23284
 eng-kom	English	Komi	24	76	57	5	26	20	997	3923	3516	
 eng-kon	English	Kongo							242043	3452685	4032330	
 eng-koo	English	Konzo							38240	561056	416451	
-eng-kor	English	Korean	2400	14870	10578	1041	6559	4732	34482796	410251872	326777567	
 eng-kqn	English	Kaonde							226754	3513633	3221734	
 eng-krc	English	Karachay-Balkar	3	13	14						
 eng-kri	English	Krio							1588	7701	8263	
@@ -1285,31 +1062,23 @@ eng-kss	English	Southern Kisi							38644	562944	656750
 eng-ksw	English	S'gaw Karen							10701	443084	141951	
 eng-kua	English	Kuanyama							105610	1599348	1668441	
 eng-kum	English	Kumyk	8	41	25						
-eng-kur	English	Kurdish	442	2204	2114	80	427	393	401123	4611005	5204156	
 eng-kwn	English	Kwangali							111508	1688888	1415728	
-eng-kzj	English	Coastal Kadazan	1169	8248	8418						
 eng-laa	English	Southern Subanen	9	124	132						
-eng-lad	English	Ladino	768	3355	3272	58	224	254	12	247	276	
 eng-lah	English	Lahnda	32	162	180				62	2283	2776	
 eng-lam	English	Lamba							15384	235272	190992	
 eng-lao	English	Lao	165	1145	193	28	192	35	186979	2611428	1192441	
-eng-lat	English	Latin	10298	83536	60635	14036	114476	83208	1103779	8494917	7055312	
-eng-lav	English	Latvian	1631	9273	7915	3	23	22	41742167	620364535	570478538	
 eng-lbe	English	Lak							2	31	28	
 eng-ldn	English	Láadan	103	461	519	3	12	9			
 eng-lez	English	Lezghian							5	64	81	
-eng-lfn	English	Lingua Franca Nova	3297	18425	20631	3706	23624	25842	23	403	442	
 eng-lij	English	Ligurian	96	602	618				21548	110523	125190	
 eng-lim	English	Limburgan	7	36	34				115851	528242	496803	
 eng-lin	English	Lingala	38	298	245				590776	8978522	9718689	
-eng-lit	English	Lithuanian	2528	15036	12035	5643	33590	26618	49895503	730057001	590186612	
 eng-liv	English	Liv	33	137	117						
 eng-lkt	English	Lakota	21	83	69				2	78	556	
 eng-lld	English	Ladin	21	189	191				269	1091	1223	
 eng-lmo	English	Lombard	17	104	95				18344	104178	113431	
 eng-loz	English	Lozi							23888	97422	109830	
 eng-lrc	English	Northern Luri							2	31	31	
-eng-ltz	English	Luxembourgish	293	1453	1431	4	15	14	9546015	146556603	321744553	
 eng-lua	English	Luba-Lulua							12541	53304	46301	
 eng-lub	English	Luba-Katanga							202625	3213516	2896055	
 eng-lue	English	Luvale							322206	5140816	3872163	
@@ -1322,10 +1091,8 @@ eng-luy	English	Luyia							8	394	85
 eng-mad	English	Madurese	7	24	23				132	4747	3769	
 eng-mah	English	Marshallese	29	123	115				155499	2381556	2754010	
 eng-mai	English	Maithili	8	17	16				228717	720497	772028	
-eng-mal	English	Malayalam	802	4700	3459				9071279	88793035	58463957	
 eng-mam	English	Mam							47826	821533	960221	
 eng-map	English	Austronesian languages							2	33	28	
-eng-mar	English	Marathi	10396	55965	49675	43058	230342	204540	4475328	40471450	36638428	
 eng-mau	English	Huautla Mazatec							26263	408674	369926	
 eng-mco	English	Coatlán Mixe							66433	1082640	860172	
 eng-mdf	English	Moksha	7	29	22				32	328	271	
@@ -1337,21 +1104,15 @@ eng-mgr	English	Mambwe-Lungu							46222	686414	616378
 eng-mic	English	Mi'kmaq	8	22	13						
 eng-miq	English	Mískito							329	791	802	
 eng-mix	English	Mixtepec Mixtec							5275	18861	19136	
-eng-mkd	English	Macedonian	10010	54900	51295	70319	387013	361882	17720716	214570520	207767474	
 eng-mlg	English	Malagasy	51	172	178				3700541	44166955	44996849	
-eng-mlt	English	Maltese	203	935	673	1	6	3	8482666	156751263	139264703	
 eng-mni	English	Manipuri	1	4	3				17	316	50	
 eng-mnw	English	Mon	9	67	40				888	30657	21250	
 eng-moh	English	Mohawk	54	311	184				1	2	11	
-eng-mon	English	Mongolian	415	2802	2437	23	194	157	793158	8836860	7478058	
 eng-mos	English	Mossi							158748	2525935	3014395	
-eng-mri	English	Maori	366	2330	3317	3	10	12	245863	3469726	4285998	
-eng-msa	English	Malay (macrolanguage)	5000	31183	27896	6893	43786	39263	115696959	1622668181	1488747849	
 eng-mus	English	Creek	26	210	119				295	1258	1340	
 eng-mvv	English	Tagal Murut	10	36	31						
 eng-mwl	English	Mirandese	4	19	16				17631	163023	173838	
 eng-mxv	English	Metlatónoc Mixtec							5299	82660	76705	
-eng-mya	English	Burmese	216	1427	1196				813066	16475133	7070479	
 eng-myv	English	Erzya	25	77	69				945	4645	3981	
 eng-mzn	English	Mazanderani							101	2703	2461	
 eng-nah	English	Nahuatl languages	69	402	262				2	31	37	
@@ -1367,7 +1128,6 @@ eng-ncx	English	Central Puebla Nahuatl							35644	538318	386656
 eng-ndc	English	Ndau							31713	462667	396315	
 eng-nde	English	North Ndebele							59506	914474	625516	
 eng-ndo	English	Ndonga							104561	1573377	1588132	
-eng-nds	English	Low German	2500	14803	15228	3221	19245	19792	602234	2697514	2612504	
 eng-nep	English	Nepali (macrolanguage)	116	393	401				3356995	29422959	26291968	
 eng-new	English	Newari							12	13	12	
 eng-ngl	English	Lomwe							40699	598893	475301	
@@ -1378,15 +1138,11 @@ eng-nhn	English	Central Nahuatl							47	97	97
 eng-nia	English	Nias							32485	474315	431596	
 eng-nij	English	Ngaju							13672	193306	171205	
 eng-niu	English	Niuean	29	89	111				222542	3462439	4372118	
-eng-nld	English	Dutch	12696	75604	77661	62387	367039	378888	272141200	3780638881	3804496291	
 eng-nlv	English	Orizaba Nahuatl	14	132	109						
 eng-nog	English	Nogai	83	372	251	1	4	3			
 eng-non	English	Old Norse	15	112	109						
-eng-nor	English	Norwegian	5000	34479	33820	5707	38831	38201	128202505	1697176615	1609473503	
-eng-nov	English	Novial	217	1139	1129	14	59	61	1	26	2	
 eng-nqo	English	N'Ko							36	1223	2003	
 eng-nso	English	Pedi							726269	9626627	13166628	
-eng-nst	English	Tase Naga	805	3823	4871						
 eng-nus	English	Nuer	21	146	131				958	18183	22658	
 eng-nya	English	Nyanja	22	106	71				945696	14836682	12711835	
 eng-nyk	English	Nyaneka							119065	1807404	1340898	
@@ -1394,21 +1150,17 @@ eng-nyn	English	Nyankole							53434	800492	604250
 eng-nyu	English	Nyungwe							25830	376707	333818	
 eng-nzi	English	Nzima							96385	1453137	1561807	
 eng-oar	English	Old Aramaic (up to 700 BCE)	7	72	48						
-eng-oci	English	Occitan (post 1500)	841	4376	4498				1532613	9793290	9705502	
 eng-ofs	English	Old Frisian	2	13	14						
 eng-oji	English	Ojibwa							13459	301372	242874	
 eng-oke	English	Okpe (Southwestern Edo)							20595	307647	336118	
 eng-ood	English	Tohono O'odham	25	117	127						
 eng-ori	English	Oriya (macrolanguage)	35	212	201				204043	1681960	1592701	
 eng-orm	English	Oromo							187349	2638026	2364735	
-eng-orv	English	Old Russian	322	1713	1364						
 eng-osp	English	Old Spanish	3	18	17	1	4	4			
 eng-oss	English	Ossetian	57	312	260				69920	726657	521913	
-eng-ota	English	Ottoman Turkish (1500-1928)	688	3664	3386	12	81	72			
 eng-pag	English	Pangasinan	49	264	268				162742	2361986	2467584	
 eng-pai	English	Pe							939	4823	5079	
 eng-pal	English	Pahlavi	4	49	36						
-eng-pam	English	Pampanga	1000	5621	4989	494	2851	2504	30	78	64	
 eng-pan	English	Panjabi	87	514	570				682346	11589656	13420071	
 eng-pap	English	Papiamento	72	281	294				317601	4916871	5625201	
 eng-pau	English	Palauan	34	97	106						
@@ -1421,31 +1173,22 @@ eng-phn	English	Phoenician	10	56	40	1	11	9
 eng-pih	English	Pitcairn-Norfolk							41	510	453	
 eng-pis	English	Pijin							234702	3798017	4097066	
 eng-pli	English	Pali	2	41	24				206	1696	1114	
-eng-pms	English	Piemontese	269	1711	1906				140	721	741	
 eng-pmy	English	Papuan Malay							104	356	340	
 eng-pnt	English	Pontic							41	578	607	
-eng-pol	English	Polish	10099	64401	52700	44189	281683	230039	187862997	2525199412	2201632930	
 eng-pon	English	Pohnpeian							200327	3205558	3400202	
-eng-por	English	Portuguese	13222	89442	89253	204462	1296582	1297175	400271909	6043609068	6205052812	
 eng-pot	English	Potawatomi							3301	74464	49303	
 eng-ppk	English	Uma							14561	326342	359833	
 eng-ppl	English	Pipil	33	193	151				1301	8699	8902	
-eng-prg	English	Prussian	213	1410	1243						
 eng-pus	English	Pushto	31	239	273				635638	4589338	5259981	
 eng-quc	English	K'iche'	8	18	18				10922	224793	342598	
-eng-que	English	Quechua	257	1379	761				157573	2559248	1587081	
 eng-qya	English	Quenya	116	518	353	3	11	7			
 eng-rap	English	Rapanui	26	70	85						
 eng-rar	English	Rarotongan							71070	1022741	1439694	
 eng-rif	English	Tarifit	53	198	166						
 eng-rnd	English	Ruund							117522	1779427	1683198	
 eng-roh	English	Romansh	16	186	172				56636	356000	413101	
-eng-rom	English	Romany	706	3961	4494				24402	449747	460547	
-eng-ron	English	Romanian	5508	34440	34144	9661	62174	61679	137409800	1764446898	1811553526	
 eng-rue	English	Rusyn	120	566	369						
-eng-run	English	Rundi	1703	8221	4930	3	29	17	380555	5921529	5293815	
 eng-rup	English	Macedo-Romanian							418	5493	4992	
-eng-rus	English	Russian	19425	125308	107393	504174	3130006	2706670	217612504	3516287161	3069846990	
 eng-sag	English	Sango	11	31	40				224509	3607452	5133700	
 eng-sah	English	Yakut	39	183	131				845	6474	5314	
 eng-san	English	Sanskrit	144	504	366				4796	14904	10358	
@@ -1464,7 +1207,6 @@ eng-sid	English	Sidamo							47070	716980	539235
 eng-sin	English	Sinhala	47	212	191				8685987	76160580	69145518	
 eng-sjn	English	Sindarin	46	201	156	5	16	12			
 eng-slk	English	Slovak							78934417	1059580006	930235892	
-eng-slv	English	Slovenian	2495	14074	11554	1610	9316	7677	67362056	869479210	758357524	
 eng-sma	English	Southern Sami	47	172	141						
 eng-sme	English	Northern Sami	63	245	196				51476	187618	156505	
 eng-sml	English	Central Sama							36	159	64	
@@ -1475,8 +1217,6 @@ eng-som	English	Somali	4	17	15				807151	11396101	11983049
 eng-son	English	Songhai languages							22820	124143	128975	
 eng-sop	English	Songe							52254	793457	753350	
 eng-sot	English	Southern Sotho							864609	13614041	17903503	
-eng-spa	English	Spanish	16583	117509	114251	197532	1347308	1306416	952526014	16070767452	17650774645	
-eng-sqi	English	Albanian	1109	6794	6962	2	11	11	29479902	360936613	381402961	
 eng-srd	English	Sardinian							8356	40708	46077	
 eng-srm	English	Saramaccan							34937	506792	727785	
 eng-srn	English	Sranan Tongo	2	6	5				498846	8308339	11324562	
@@ -1484,28 +1224,20 @@ eng-ssw	English	Swati							117974	1608802	1115125
 eng-stq	English	Saterfriesisch	11	60	60						
 eng-sun	English	Sundanese	26	101	87				702974	7105888	6471760	
 eng-sux	English	Sumerian	49	175	209						
-eng-swa	English	Swahili (macrolanguage)	387	2001	1363	3	17	21	9366710	113738632	104332681	
-eng-swe	English	Swedish	10362	57100	56925	15558	85524	85248	162176758	2226038112	2068228585	
 eng-swg	English	Swabian	34	212	200	1	2	3			
 eng-sxn	English	Sangir							11830	168326	148658	
 eng-syr	English	Syriac							16296	356607	220441	
 eng-szl	English	Silesian							16270	90085	86832	
 eng-tah	English	Tahitian	21	60	59				566479	9188835	14373138	
-eng-tam	English	Tamil	311	1787	1364				9461564	107211150	75429747	
-eng-tat	English	Tatar	1451	9447	6996	4	34	22	420560	6502888	5395745	
 eng-tcf	English	Malinaltepec Me'phaa							36199	555042	476862	
 eng-tcy	English	Tulu							76	2536	2147	
 eng-tdt	English	Tetun Dili							101294	1542951	1611400	
-eng-tel	English	Telugu	261	1401	1085				1089331	16413310	12802403	
 eng-tet	English	Tetum	53	195	191				785	10368	10741	
 eng-tgk	English	Tajik	29	176	147				665906	8114624	7312063	
-eng-tgl	English	Tagalog	2500	15302	14955	4796	29378	28759	8656962	83077012	91906703	
-eng-tha	English	Thai	1154	6168	1347	1	5	1	15527865	192422232	68875693	
 eng-tig	English	Tigre	1	4	3						
 eng-tir	English	Tigrinya	66	417	298	1	5	4	160994	5486718	4962605	
 eng-tiv	English	Tiv							148739	2265234	3143117	
 eng-tkl	English	Tokelau	1	6	6						
-eng-tlh	English	Klingon	5000	27391	15764	8420	46003	26510	184	2418	1484	
 eng-tll	English	Tetela							227428	3570713	3511454	
 eng-tly	English	Talysh	46	167	109						
 eng-tmh	English	Tamashek							3873	91519	76757	
@@ -1515,7 +1247,6 @@ eng-tog	English	Tonga (Nyasa)							70529	1071909	901692
 eng-toh	English	Gitonga							4053	57122	67384	
 eng-toi	English	Tonga (Zambia)	2	11	7				302815	4695652	3653588	
 eng-toj	English	Tojolabal							31432	469648	501004	
-eng-toki	English	Toki Pona	4990	27998	42218	8702	50178	74589			
 eng-ton	English	Tonga (Tonga Islands)	20	57	65				338965	5298339	6767477	
 eng-top	English	Papantla Totonac							89887	1412455	1039191	
 eng-tpi	English	Tok Pisin	49	176	204				405794	6221620	8209759	
@@ -1528,43 +1259,31 @@ eng-tso	English	Tsonga	3	12	11				816687	12680720	15519369
 eng-tsz	English	Purepecha							6478	75919	60717	
 eng-ttj	English	Tooro							17435	246524	194010	
 eng-tts	English	Northeastern Thai	1	5	1						
-eng-tuk	English	Turkmen	2500	16260	12809	3866	25388	20021	182856	2106166	1547579	
 eng-tum	English	Tumbuka							8967	32188	25265	
-eng-tur	English	Turkish	13907	93511	68529	658320	4370759	3225011	108218954	1159808466	901411294	
 eng-tvl	English	Tuvalu	15	54	62				177508	2842449	4264411	
 eng-tyv	English	Tuvinian	5	20	19				14927	231877	154642	
 eng-tzh	English	Tzeltal							22100	335110	412869	
-eng-tzl	English	Talossan	201	687	615	20	80	95			
 eng-tzo	English	Tzotzil							116082	1784800	1926599	
 eng-udm	English	Udmurt	10	38	28				10327	157163	113716	
-eng-uig	English	Uighur	3024	19231	13084	1006	6349	4367	142957	2666557	2398811	
-eng-ukr	English	Ukrainian	13127	74304	64092	159487	885390	765860	33956793	469526298	399909178	
 eng-umb	English	Umbundu	32	93	79				212027	3337076	3357673	
-eng-urd	English	Urdu	1663	10180	12106	1	6	5	8949903	112674724	136874205	
 eng-urh	English	Urhobo							29073	438304	471049	
 eng-usp	English	Uspanteco							12382	275071	355217	
-eng-uzb	English	Uzbek	458	2189	1518	1	4	3	391959	3600543	3119091	
 eng-vec	English	Venetian	19	90	90				2246	11136	13354	
 eng-ven	English	Venda							215230	3311079	4060636	
-eng-vie	English	Vietnamese	2500	17313	21591	3135	21894	27557	66952989	991394392	1350842889	
 eng-vls	English	Vlaams							22	383	423	
 eng-vmw	English	Makhuwa							75801	1136498	923800	
-eng-vol	English	Volapük	1541	8149	6093	1258	6589	5036	73	1375	441	
 eng-vot	English	Votic							889	5344	5009	
 eng-wae	English	Walser							3042	10055	8662	
 eng-wal	English	Wolaytta							126905	2047134	1489905	
-eng-war	English	Waray (Philippines)	1512	9630	9364	1	6	5	264715	4269097	4807544	
 eng-wes	English	Cameroon Pidgin							5127	70063	97667	
 eng-wln	English	Walloon	89	363	431				291231	946156	1101146	
 eng-wls	English	Wallisian							136123	2477737	3646934	
 eng-wol	English	Wolof	7	23	22				97534	647435	651766	
-eng-xal	English	Kalmyk	281	1726	1366				108	196	172	
 eng-xcl	English	Classical Armenian							170	611	557	
 eng-xho	English	Xhosa	180	960	577	39	277	185	21988515	226788660	1724322596	
 eng-xmf	English	Mingrelian	44	214	175				8322	243982	168743	
 eng-yao	English	Yao							46297	692775	552992	
 eng-yap	English	Yapese							122617	1909146	2753094	
-eng-yid	English	Yiddish	2483	12632	13594	1892	9827	10546	257688	1420651	1641930	
 eng-yom	English	Yombe							3177	45840	41804	
 eng-yor	English	Yoruba	35	163	153				680118	9690072	12234275	
 eng-yua	English	Yucateco							146317	2364743	2407979	
@@ -1572,10 +1291,8 @@ eng-zap	English	Zapotec							150921	2353765	2260810
 eng-zea	English	Zeeuws	3	17	17						
 eng-zgh	English	Standard Moroccan Tamazight	8	51	37				858	2701	2960	
 eng-zha	English	Zhuang							6	418	149	
-eng-zho	English	Chinese	10390	73301	10616	43075	304362	43930	129323178	1970653807	222614714	
 eng-zne	English	Zande (individual language)							187640	3013457	3649517	
 eng-zul	English	Zulu	51	283	160	17	135	86	1303505	18375171	12943047	
-eng-zza	English	Zaza	529	2557	2416	5	25	22	174	4080	1812	
 enm-enm	Middle English (1100-1500)	Middle English (1100-1500)	5	16	17						
 enm-epo	Middle English (1100-1500)	Esperanto	51	311	271	6	23	22			
 enm-fas	Middle English (1100-1500)	Persian	2	10	6						
@@ -1628,36 +1345,21 @@ enm-ukr	Middle English (1100-1500)	Ukrainian	11	51	43
 enm-vol	Middle English (1100-1500)	Volapük	14	50	40	1	4	4			
 enm-yid	Middle English (1100-1500)	Yiddish	68	329	339	8	38	31			
 enm-zho	Middle English (1100-1500)	Chinese	1	4	1						
-epo-epo	Esperanto	Esperanto	10000	60347	60394	9676	59091	59140	9538	45005	44997	
 epo-est	Esperanto	Estonian	40	233	205				1059066	9227687	7881621	
 epo-eus	Esperanto	Basque	83	443	378				853121	7797613	6678786	
 epo-fao	Esperanto	Faroese	6	54	53				12554	20723	23175	
-epo-fas	Esperanto	Persian	2514	15362	17901	7430	45396	52342	1137027	10470867	12065319	
-epo-fin	Esperanto	Finnish	2862	15296	12426	1047	5598	4530	1534419	13665110	10835060	
-epo-fra	Esperanto	French	12168	78068	90747	287548	1834039	2127992	5959738	64071206	71132570	
 epo-frr	Esperanto	Northern Frisian	4	19	19						
 epo-fry	Esperanto	Western Frisian	100	504	526	1	3	3	94009	245691	293274	
 epo-gle	Esperanto	Irish	6	28	31	1	3	3	140706	410639	536384	
-epo-glg	Esperanto	Galician	329	1889	1892	5	31	38	386679	1760459	1999817	
 epo-gos	Esperanto	Gronings	30	137	137	2	7	8			
 epo-grc	Esperanto	Ancient Greek (to 1453)	41	204	188	1	3	3			
 epo-grn	Esperanto	Guarani	1	5	4				16378	109082	85616	
 epo-gsw	Esperanto	Swiss German	2	10	9						
 epo-hat	Esperanto	Haitian	16	66	60				18822	35418	40695	
 epo-hbo	Esperanto	Ancient Hebrew	14	242	126						
-epo-hbs	Esperanto	Serbo-Croatian	2500	15216	14876	2802	16899	16561	2612660	22512504	21056325	
-epo-heb	Esperanto	Hebrew	10368	66740	55509	19607	126955	105465	1255873	10177414	8381825	
 epo-hsb	Esperanto	Upper Sorbian	153	953	832				25275	145214	134944	
-epo-hun	Esperanto	Hungarian	10094	63986	53006	28756	181892	151662	1613081	14694874	12923451	
 epo-hye	Esperanto	Armenian	10	51	42				35059	314025	285498	
-epo-ido	Esperanto	Ido	1183	6325	6295	417	1858	1842	18059	48659	49045	
-epo-ile	Esperanto	Interlingue	316	1333	1426	23	95	101			
-epo-ina	Esperanto	Interlingua (International Auxiliary Language Association)	2644	17723	19883	1448	8786	9828	18279	85052	93499	
-epo-isl	Esperanto	Icelandic	233	1248	1301				277717	1495241	1435518	
-epo-ita	Esperanto	Italian	10303	57334	57390	40619	221800	222099	3027527	33504756	34906772	
-epo-jbo	Esperanto	Lojban	1167	6044	7229	10	93	147	332	624	829	
 epo-jpa	Esperanto	Jewish Palestinian Aramaic	2	20	12						
-epo-jpn	Esperanto	Japanese	3477	20955	3481	6412	38317	6436	387212	1695483	736034	
 epo-kab	Esperanto	Kabyle	21	110	81	2	7	4	21314	210243	217598	
 epo-kat	Esperanto	Georgian	35	163	125	1	3	2	93647	411866	382612	
 epo-kaz	Esperanto	Kazakh	60	343	278	2	9	7	97574	386935	356684	
@@ -1669,13 +1371,9 @@ epo-kor	Esperanto	Korean	142	808	570				271676	1853569	1409407
 epo-ksh	Esperanto	Kölsch	2	27	25				20	80	46	
 epo-kur	Esperanto	Kurdish	37	170	151	2	6	6	24435	110260	132958	
 epo-kzj	Esperanto	Coastal Kadazan	8	45	48						
-epo-lad	Esperanto	Ladino	366	1605	1653	52	205	219	12	101	118	
-epo-lat	Esperanto	Latin	2800	34062	25214	5980	76518	56743	83374	796853	668996	
 epo-lav	Esperanto	Latvian	3	18	13				812123	6964622	9120565	
 epo-ldn	Esperanto	Láadan	17	76	82	1	4	3			
-epo-lfn	Esperanto	Lingua Franca Nova	997	4839	5583	263	1441	1635	6	41	40	
 epo-lim	Esperanto	Limburgan	2	11	12				27220	109014	111394	
-epo-lit	Esperanto	Lithuanian	11511	66058	56849	10429	58107	50279	1093148	9570521	8012938	
 epo-ltz	Esperanto	Luxembourgish	16	97	106				63962	105218	233788	
 epo-mar	Esperanto	Marathi	2	18	18				191347	1331240	1326081	
 epo-mkd	Esperanto	Macedonian	76	333	304				690909	6593394	6816974	
@@ -1683,52 +1381,32 @@ epo-mlt	Esperanto	Maltese	1	5	3				1470	59958	55694
 epo-moh	Esperanto	Mohawk	3	12	9						
 epo-mon	Esperanto	Mongolian	1	3	4				50912	182579	173374	
 epo-msa	Esperanto	Malay (macrolanguage)	176	1175	1069	3	19	17	710449	3450809	3428402	
-epo-nds	Esperanto	Low German	2536	14209	15218	1181	6749	7183	138394	460611	492113	
-epo-nld	Esperanto	Dutch	12841	75725	85225	80837	478383	540109	2619413	25109511	26862719	
 epo-nog	Esperanto	Nogai	1	4	3						
-epo-nor	Esperanto	Norwegian	3158	24404	25138	1011	7890	8037	1594667	15029894	15090752	
 epo-nov	Esperanto	Novial	45	175	178	3	11	10			
 epo-oar	Esperanto	Old Aramaic (up to 700 BCE)	2	18	12						
-epo-oci	Esperanto	Occitan (post 1500)	588	4288	4480	1	8	6	93641	214142	248369	
 epo-orv	Esperanto	Old Russian	27	131	112						
 epo-osp	Esperanto	Old Spanish	4	16	16	1	4	4			
 epo-oss	Esperanto	Ossetian	57	286	242				543	1493	1392	
 epo-ota	Esperanto	Ottoman Turkish (1500-1928)	5	26	26						
 epo-pap	Esperanto	Papiamento	1	3	4				101	274	360	
 epo-phn	Esperanto	Phoenician	10	58	42						
-epo-pol	Esperanto	Polish	2513	14258	12388	5786	32947	28629	527328	3181693	2900262	
-epo-por	Esperanto	Portuguese	10809	79331	83066	46093	329403	345038	670272	4343026	4778138	
 epo-qya	Esperanto	Quenya	4	17	12						
-epo-ron	Esperanto	Romanian	3820	20944	21166	1319	7293	7316	1757517	16836216	18519463	
-epo-rus	Esperanto	Russian	11674	73715	66328	45960	291530	260943	486133	2986290	2749515	
 epo-scn	Esperanto	Sicilian	1	4	5				2184	13824	14301	
 epo-sco	Esperanto	Scots	25	160	185				257	856	853	
 epo-sjn	Esperanto	Sindarin	18	68	49	4	13	9			
-epo-slv	Esperanto	Slovenian	302	1800	1598	1	4	3	1280982	13431308	12667081	
-epo-spa	Esperanto	Spanish	10735	68332	70472	65096	414554	430104	6339446	76896890	84015828	
 epo-stq	Esperanto	Saterfriesisch	5	23	26						
 epo-sux	Esperanto	Sumerian	3	10	17						
 epo-swa	Esperanto	Swahili (macrolanguage)	46	194	131	5	35	35	422708	4457294	4594447	
-epo-swe	Esperanto	Swedish	1757	8960	9082	68	403	392	2197206	21269580	21011058	
 epo-swg	Esperanto	Swabian	71	469	489	3	11	11			
 epo-tat	Esperanto	Tatar	107	496	402				15206	37114	39288	
-epo-tgl	Esperanto	Tagalog	1109	7114	7513	12	98	120	176797	1230363	1413846	
 epo-tha	Esperanto	Thai	55	282	68				185644	1990649	1338729	
-epo-tlh	Esperanto	Klingon	1930	9942	6161	164	734	476	148	2000	1413	
 epo-tmr	Esperanto	Jewish Babylonian Aramaic (ca. 200-1200 CE)	31	320	216	6	51	35			
-epo-toki	Esperanto	Toki Pona	2733	15238	24821	1295	7392	11554			
 epo-tpi	Esperanto	Tok Pisin	19	59	65						
 epo-tuk	Esperanto	Turkmen	2	12	8				14682	49699	45087	
-epo-tur	Esperanto	Turkish	5000	27672	21298	7650	42285	32526	437421	2448446	2010494	
 epo-tzl	Esperanto	Talossan	77	297	328	11	50	57			
-epo-ukr	Esperanto	Ukrainian	2500	12045	10505	4559	22026	19329	1111500	8711792	7821119	
 epo-uzb	Esperanto	Uzbek	2	12	8				74192	285877	259677	
-epo-vie	Esperanto	Vietnamese	1790	11394	15774	2	11	15	175600	2566800	3450750	
-epo-vol	Esperanto	Volapük	819	4076	3129	37	174	140			
 epo-wol	Esperanto	Wolof	1	6	4				12703	173823	191660	
-epo-yid	Esperanto	Yiddish	993	4752	5264	2024	9756	10868	41612	120038	181366	
 epo-zea	Esperanto	Zeeuws	1	7	8						
-epo-zho	Esperanto	Chinese	2241	12844	2284	1014	5834	1049	463013	2306220	1565507	
 est-est	Estonian	Estonian	6	64	64				3074550	14995581	14992628	
 est-fao	Estonian	Faroese	1	24	25				10802	17904	19662	
 est-fin	Estonian	Finnish	190	835	753				26404220	271301878	254778761	
@@ -1751,7 +1429,6 @@ est-nds	Estonian	Low German	1	3	4				143399	544657	674080
 est-nld	Estonian	Dutch	39	207	240				29046728	304517216	406093417	
 est-pol	Estonian	Polish	15	83	75				30261315	308280036	350894905	
 est-ron	Estonian	Romanian	1	24	32				24799729	239909542	321359407	
-est-rus	Estonian	Russian	613	2932	2875	19	85	86	18651327	167708559	186140915	
 est-slv	Estonian	Slovenian	1	4	6				23291884	248508399	286542298	
 est-spa	Estonian	Spanish	42	180	204				35890039	366440095	520462545	
 est-tat	Estonian	Tatar	3	14	12				242422	2886892	2706628	
@@ -1764,15 +1441,12 @@ est-yid	Estonian	Yiddish	1	4	6				47448	159661	473234
 est-zea	Estonian	Zeeuws	1	3	4						
 eus-fra	Basque	French	144	655	883				1736127	13727586	18356598	
 eus-ita	Basque	Italian	62	286	344				3137335	20451795	25193812	
-eus-jpn	Basque	Japanese	237	786	237				422159	1873510	765574	
 eus-lat	Basque	Latin	1	14	13				102297	515074	541559	
 eus-mwl	Basque	Mirandese	1	3	3				3763	4832	7510	
 eus-nld	Basque	Dutch	1	4	5				1191883	5615209	6858534	
 eus-nor	Basque	Norwegian	6	36	45				2018824	11849838	13774394	
 eus-pol	Basque	Polish	180	763	722				947850	4623803	4742492	
 eus-por	Basque	Portuguese	1	4	5				3798859	23825685	29388188	
-eus-rus	Basque	Russian	485	1862	1853				715279	3501078	3899662	
-eus-spa	Basque	Spanish	1850	8887	10252	1003	4875	5598	13722778	153951477	205670112	
 eus-swa	Basque	Swahili (macrolanguage)	4	13	13				105639	222304	322552	
 eus-zho	Basque	Chinese	81	339	81				920189	4160310	1823564	
 evn-kaz	Evenki	Kazakh	12	41	55						
@@ -1793,7 +1467,6 @@ fao-tur	Faroese	Turkish	3	33	29				11795	22098	19132
 fao-tzl	Faroese	Talossan	1	3	3						
 fao-zho	Faroese	Chinese	1	25	1				14850	27618	21314	
 fas-fas	Persian	Persian	4	25	24				1978088	34330714	34310866	
-fas-fra	Persian	French	376	2865	2946	5	28	34	15013068	195855065	191523260	
 fas-heb	Persian	Hebrew	4	23	17				9964957	89172745	67346511	
 fas-hun	Persian	Hungarian	1	2	3				8542933	88284280	66962468	
 fas-ido	Persian	Ido	13	39	44				14360	43998	40951	
@@ -1830,29 +1503,19 @@ fas-vol	Persian	Volapük	7	23	20
 fas-yid	Persian	Yiddish	18	64	70	3	24	18	24408	369199	379193	
 fas-zho	Persian	Chinese	53	303	53	1	2	1	8662758	76322856	14077841	
 fij-fra	Fijian	French	1	10	10				347151	6869180	6000634	
-fin-fin	Finnish	Finnish	1000	3936	3983	349	1416	1460	6186357	26153341	26155468	
-fin-fkv	Finnish	Kven Finnish	389	1688	1742	68	277	271			
-fin-fra	Finnish	French	1920	7550	10457	1056	4121	5791	73683315	640011373	951650855	
 fin-fry	Finnish	Western Frisian	1	3	3				97831	263614	338911	
 fin-gos	Finnish	Gronings	5	19	26						
 fin-grn	Finnish	Guarani	7	30	33				173809	1877673	1888421	
 fin-hbs	Finnish	Serbo-Croatian	15	70	81				56838528	350955355	442096004	
-fin-heb	Finnish	Hebrew	212	1045	1114	4	12	12	24661220	136442304	160689780	
-fin-hun	Finnish	Hungarian	1297	5060	4988	8	32	30	40976084	340481821	403097033	
 fin-ido	Finnish	Ido	2	8	8				17033	41058	47602	
 fin-ina	Finnish	Interlingua (International Auxiliary Language Association)	15	73	87	1	4	5	25787	108474	149626	
 fin-isl	Finnish	Icelandic	2	6	6				3386569	29524223	37766873	
-fin-ita	Finnish	Italian	1039	4258	5575	1003	4107	5270	45912067	456479982	653674900	
 fin-izh	Finnish	Ingrian	11	40	41						
 fin-jbo	Finnish	Lojban	9	32	41				398	654	1083	
-fin-jpn	Finnish	Japanese	9934	47834	9985	10917	52626	10991	8394554	71910209	16132441	
 fin-kab	Finnish	Kabyle	14	63	68				28497	209541	271276	
 fin-khm	Finnish	Khmer	5	16	12				292184	3772889	1523452	
-fin-kor	Finnish	Korean	422	1744	1540				5290932	56994491	60116013	
 fin-krl	Finnish	Karelian	49	215	211	5	15	16			
-fin-kur	Finnish	Kurdish	259	1179	1551				62615	394179	562620	
 fin-lad	Finnish	Ladino	2	6	6						
-fin-lat	Finnish	Latin	294	1131	1102	1	4	4	78725	652724	665430	
 fin-ldn	Finnish	Láadan	1	6	6						
 fin-lfn	Finnish	Lingua Franca Nova	6	24	30						
 fin-lim	Finnish	Limburgan	1	3	4				41750	134882	176668	
@@ -1860,30 +1523,21 @@ fin-lit	Finnish	Lithuanian	184	758	769				17906849	210837576	234306204
 fin-ltz	Finnish	Luxembourgish	2	6	11				62395	107519	225989	
 fin-msa	Finnish	Malay (macrolanguage)	26	102	129				18907678	133925734	166854480	
 fin-nds	Finnish	Low German	1	3	4				198763	627266	794019	
-fin-nld	Finnish	Dutch	317	1272	1685	4	14	17	50151979	471577087	670525830	
-fin-nor	Finnish	Norwegian	2488	10245	12118	1148	4797	5661	23982457	225412179	294625008	
 fin-nov	Finnish	Novial	3	10	13						
 fin-oci	Finnish	Occitan (post 1500)	6	24	33				98604	286327	374452	
 fin-oss	Finnish	Ossetian	3	8	8				68529	518259	522759	
-fin-pol	Finnish	Polish	609	2598	2782				45755362	390199346	471039295	
-fin-por	Finnish	Portuguese	477	1841	2491	2	7	8	72256117	568048335	821617114	
 fin-ron	Finnish	Romanian	15	68	86				39344336	311289656	453453755	
-fin-rus	Finnish	Russian	3643	15057	17017	1009	4264	4736	26020504	191241461	235439685	
 fin-sco	Finnish	Scots	2	46	64				393	1676	2139	
 fin-slv	Finnish	Slovenian	32	127	148				28853982	263974267	322355233	
-fin-spa	Finnish	Spanish	2513	11254	14150	7399	33227	41799	76584113	646568832	954762147	
-fin-swe	Finnish	Swedish	2841	12350	15928	7284	31018	39767	53558867	568785849	718156810	
 fin-tat	Finnish	Tatar	6	63	58				254607	2834983	2859440	
 fin-tha	Finnish	Thai	1	4	1				4380928	39527101	15833798	
 fin-toki	Finnish	Toki Pona	4	14	33						
-fin-tur	Finnish	Turkish	1796	8366	8001	3	14	15	30273762	180640256	200988437	
 fin-tzl	Finnish	Talossan	4	16	20						
 fin-ukr	Finnish	Ukrainian	33	143	165				5401101	51321827	58598962	
 fin-vep	Finnish	Veps	1	23	21						
 fin-vie	Finnish	Vietnamese	3	11	23				12216605	91863012	162084075	
 fin-yid	Finnish	Yiddish	6	23	32				60691	193905	555378	
 fin-zea	Finnish	Zeeuws	1	3	4						
-fin-zho	Finnish	Chinese	382	1437	386	2	7	2	14045578	80223651	24890553	
 fkv-fra	Kven Finnish	French	26	50	71						
 fkv-izh	Kven Finnish	Ingrian	1	5	5						
 fkv-krl	Kven Finnish	Karelian	2	24	26						
@@ -1893,13 +1547,11 @@ fkv-nor	Kven Finnish	Norwegian	39	146	165
 fkv-sco	Kven Finnish	Scots	1	22	32						
 fkv-swe	Kven Finnish	Swedish	2	25	29						
 fkv-vep	Kven Finnish	Veps	5	62	61						
-fra-fra	French	French	1000	6830	6831	2118	14002	14185	31022622	183600629	183451018	
 fra-frm	French	Middle French (ca. 1400-1600)	14	148	143	2	40	41	19	44	43	
 fra-fro	French	Old French (842-ca. 1400)	54	310	284						
 fra-frr	French	Northern Frisian	4	21	14						
 fra-fry	French	Western Frisian	50	270	238				114027	622484	559752	
 fra-ful	French	Fulah	5	15	11				21559	119726	102246	
-fra-gcf	French	Guadeloupean Creole French	1164	5281	5092						
 fra-gla	French	Scottish Gaelic	173	856	977				45555	259313	278939	
 fra-gle	French	Irish	94	707	794				946547	17770309	17746717	
 fra-glg	French	Galician	119	784	665	1	5	4	16508330	151804866	140139021	
@@ -1909,29 +1561,18 @@ fra-grc	French	Ancient Greek (to 1453)	47	321	286				9	33	17
 fra-grn	French	Guarani	28	187	119				171027	2701002	1904167	
 fra-hat	French	Haitian	72	368	352				523034	8798142	9011907	
 fra-hbo	French	Ancient Hebrew	4	64	28						
-fra-hbs	French	Serbo-Croatian	474	2899	2307				85147249	858588314	713069537	
-fra-heb	French	Hebrew	3281	22855	16734	1064	7344	5341	45796218	404523669	311718871	
 fra-hin	French	Hindi	48	261	299				15452932	192564246	206149918	
 fra-hsb	French	Upper Sorbian	6	79	66				40789	350748	274974	
-fra-hun	French	Hungarian	2494	14600	10695	4848	28808	20896	83244777	1000790971	782425555	
 fra-hye	French	Armenian	11	55	47				615103	13240372	11064816	
 fra-iba	French	Iban	21	133	111				22716	358531	339100	
-fra-ido	French	Ido	296	1585	1403	26	132	108	13989	42853	37859	
-fra-ile	French	Interlingue	394	2022	1937	8	38	39	2	7	10	
 fra-ilo	French	Iloko	6	32	33				835652	14303333	14101576	
-fra-ina	French	Interlingua (International Auxiliary Language Association)	1177	8102	7878	85	433	413	28831	208950	195238	
 fra-isl	French	Icelandic	193	1014	937				4349087	60564824	52924568	
-fra-ita	French	Italian	10091	56984	51206	68868	388076	349312	231333370	3762506547	3516501027	
 fra-jam	French	Jamaican Creole English	1	3	2						
-fra-jbo	French	Lojban	1114	7660	8018	5	19	16	221	697	885	
-fra-jpn	French	Japanese	10169	78024	10212	28594	219042	28696	22898818	277274396	43615674	
-fra-kab	French	Kabyle	12491	89551	66614	18363	128457	95030	35441	391325	350480	
 fra-kal	French	Kalaallisut	2	6	2				183597	3315348	1579601	
 fra-kat	French	Georgian	6	39	25				916569	19108062	13656589	
 fra-kaz	French	Kazakh	12	60	44				382410	4639714	3393305	
 fra-kha	French	Khasi	1	2	2						
 fra-khm	French	Khmer	46	225	110				358294	6790217	1896706	
-fra-kor	French	Korean	321	2388	1487	2	19	14	15182595	190699122	138460203	
 fra-krl	French	Karelian	44	131	127						
 fra-ksh	French	Kölsch	1	10	8				25	144	57	
 fra-kum	French	Kumyk	8	35	28						
@@ -1939,10 +1580,8 @@ fra-kur	French	Kurdish	152	776	730	14	79	64	128078	1555711	1640663
 fra-kzj	French	Coastal Kadazan	2	19	16						
 fra-lad	French	Ladino	145	659	564	26	126	120	1	54	14	
 fra-lao	French	Lao	1	34	5				71331	1285895	478791	
-fra-lat	French	Latin	2915	34140	21259	1133	12793	8015	505344	4125060	3292250	
 fra-lav	French	Latvian	36	158	117				24678669	452434106	358409922	
 fra-ldn	French	Láadan	3	16	19						
-fra-lfn	French	Lingua Franca Nova	523	4058	4152	121	1180	1221			
 fra-lij	French	Ligurian	62	423	388				7383	53134	50741	
 fra-lim	French	Limburgan	3	18	17				32260	170114	129816	
 fra-lin	French	Lingala	36	251	220				530919	9294844	9465716	
@@ -1956,17 +1595,12 @@ fra-mkd	French	Macedonian	26	146	142	1	4	4	3587259	35298389	31616159
 fra-mlg	French	Malagasy	1	7	4				954341	16287323	14819062	
 fra-mlt	French	Maltese	27	109	69				7173110	153659858	121688474	
 fra-mon	French	Mongolian	18	114	98				417848	6261457	4693264	
-fra-msa	French	Malay (macrolanguage)	1003	6923	5657	3	28	24	41191970	491971640	412668086	
 fra-myv	French	Erzya	3	18	16				385	1940	1553	
 fra-nau	French	Nauru	1	3	1						
 fra-nch	French	Central Huasteca Nahuatl	27	162	101				30771	498183	365274	
-fra-nds	French	Low German	857	4862	4730	17	109	102	151235	969079	837321	
-fra-nld	French	Dutch	11548	72502	68989	16735	99488	95385	120823312	2045245393	1906554580	
 fra-non	French	Old Norse	2	14	14						
-fra-nor	French	Norwegian	477	2775	2574				42348379	622427315	542941365	
 fra-nov	French	Novial	18	75	73	2	8	8			
 fra-oar	French	Old Aramaic (up to 700 BCE)	1	26	12						
-fra-oci	French	Occitan (post 1500)	806	5512	5258				1135954	12157900	11565797	
 fra-orv	French	Old Russian	37	250	180						
 fra-osp	French	Old Spanish	3	12	12						
 fra-oss	French	Ossetian	14	55	46				62606	676170	495387	
@@ -1974,71 +1608,52 @@ fra-ota	French	Ottoman Turkish (1500-1928)	2	8	7
 fra-pag	French	Pangasinan	2	4	4				146498	2392445	2374404	
 fra-pam	French	Pampanga	1	3	3						
 fra-pap	French	Papiamento	6	15	14				293013	5049408	5509549	
-fra-pcd	French	Picard	266	1454	1346				72	1207	847	
 fra-phn	French	Phoenician	1	20	15						
 fra-pli	French	Pali	2	46	24				67	646	375	
 fra-pms	French	Piemontese	66	477	502				63	395	332	
-fra-pol	French	Polish	3087	21142	16057	1005	7038	5327	101164681	1369308787	1098654567	
-fra-por	French	Portuguese	10518	70169	64932	17062	110613	102381	236220480	3409641983	3227170047	
 fra-prg	French	Prussian	13	91	80						
 fra-que	French	Quechua	7	34	17				146250	2466969	1483318	
 fra-qya	French	Quenya	5	20	12	1	4	3			
 fra-rif	French	Tarifit	10	49	43						
 fra-roh	French	Romansh	3	46	37				19791	169462	166599	
 fra-rom	French	Romany	20	127	115				9437	185847	191466	
-fra-ron	French	Romanian	1925	11557	10054	7	55	53	101594168	1299702741	1226751805	
-fra-run	French	Rundi	1274	6533	3737	8	58	35	353295	6164317	5208723	
-fra-rus	French	Russian	11490	70402	55533	183050	1130643	891102	108801349	2054545874	1588766267	
 fra-san	French	Sanskrit	10	60	34				1009	3460	2095	
 fra-scn	French	Sicilian	4	26	19				2232	16731	14957	
 fra-sco	French	Scots	7	49	44				555	4045	4001	
 fra-shs	French	Shuswap	8	36	32				331	769	643	
 fra-shy	French	Tachawit	8	38	27						
 fra-sjn	French	Sindarin	21	91	63	2	8	5			
-fra-slv	French	Slovenian	448	3289	2477				42945228	636779652	511039734	
 fra-smo	French	Samoan	2	13	14				353384	6094228	8287673	
 fra-sna	French	Shona	52	272	128				749878	13852091	9576719	
 fra-som	French	Somali	1	3	4				223250	3276176	2920840	
-fra-spa	French	Spanish	10294	73074	66250	40595	288418	260270	432661466	7234738247	7117169125	
 fra-sqi	French	Albanian	32	207	199				3394534	36084236	36258881	
 fra-srd	French	Sardinian	10	62	67				1102	4634	4622	
 fra-stq	French	Saterfriesisch	1	9	8				1	15	10	
 fra-sux	French	Sumerian	3	20	20						
 fra-swa	French	Swahili (macrolanguage)	25	123	70				9658688	124542148	113610110	
-fra-swe	French	Swedish	1407	8335	7656	1127	6536	5998	77591133	1267775606	1071497752	
 fra-swg	French	Swabian	4	25	21	1	4	3			
 fra-tah	French	Tahitian	6	15	14				528126	9529749	13976542	
-fra-tat	French	Tatar	305	1710	1182				267770	4325293	3104452	
 fra-tgk	French	Tajik	74	450	374				290985	4008536	3447114	
-fra-tgl	French	Tagalog	836	5252	4815				3423526	47846739	49926400	
 fra-tha	French	Thai	47	324	61				7011366	102964548	29966583	
-fra-tlh	French	Klingon	620	3491	1929	15	71	50	146	2387	1423	
 fra-tly	French	Talysh	3	14	11						
 fra-tmh	French	Tamashek	48	116	88				1922	43259	38178	
 fra-tmr	French	Jewish Babylonian Aramaic (ca. 200-1200 CE)	9	75	47	1	5	3			
-fra-toki	French	Toki Pona	562	3492	4688	26	252	347			
 fra-ton	French	Tonga (Tonga Islands)	2	5	5				313757	5532579	6563835	
 fra-tpi	French	Tok Pisin	6	19	23				376374	6434318	8043624	
 fra-tpw	French	Tupí	6	22	18						
 fra-tuk	French	Turkmen	7	26	18				123084	1996736	1388799	
-fra-tur	French	Turkish	2582	17243	11296	6718	44718	29730	58533150	555469885	410075975	
 fra-tzl	French	Talossan	38	169	177	6	23	27			
-fra-uig	French	Uighur	694	4006	2733				14586	199134	189063	
-fra-ukr	French	Ukrainian	10035	54386	42350	18252	98832	77031	11611752	165066493	129221587	
 fra-urd	French	Urdu	11	60	66				941707	17250973	20053354	
 fra-uzb	French	Uzbek	48	302	181				68575	555457	437777	
 fra-vec	French	Venetian	2	13	14				927	6083	6051	
 fra-vep	French	Veps	4	17	15						
-fra-vie	French	Vietnamese	1299	10127	11608	8	74	95	23484571	353749259	435519579	
 fra-vol	French	Volapük	80	449	324	7	31	23			
 fra-war	French	Waray (Philippines)	8	60	53				244119	4411719	4683682	
 fra-wln	French	Walloon	73	363	377				44975	184035	175781	
 fra-wol	French	Wolof	64	262	242				32931	274111	270221	
 fra-xho	French	Xhosa	1	7	5				1078611	16063171	10863390	
-fra-yid	French	Yiddish	384	2087	1952	61	330	325	22350	90521	590377	
 fra-zea	French	Zeeuws	2	15	13						
 fra-zgh	French	Standard Moroccan Tamazight	3	15	13				249	961	916	
-fra-zho	French	Chinese	9994	74983	10126	7558	56608	7654	57926170	1187038987	99108179	
 frr-frr	Northern Frisian	Northern Frisian	4	19	20						
 frr-fry	Northern Frisian	Western Frisian	4	18	19						
 frr-gos	Northern Frisian	Gronings	10	41	41						
@@ -2064,7 +1679,6 @@ fry-ltz	Western Frisian	Luxembourgish	26	129	135				62304	692517	714123
 fry-mri	Western Frisian	Maori	1	4	3				2908	5398	5368	
 fry-msa	Western Frisian	Malay (macrolanguage)	1	33	28				160338	511102	432882	
 fry-nds	Western Frisian	Low German	4	20	20				44735	207335	202704	
-fry-nld	Western Frisian	Dutch	260	1530	1529	8	28	28	293960	2541898	2578755	
 fry-nor	Western Frisian	Norwegian	16	112	103				361960	2472478	2417550	
 fry-nov	Western Frisian	Novial	3	15	13						
 fry-ofs	Western Frisian	Old Frisian	4	20	22						
@@ -2095,7 +1709,6 @@ ful-spa	Fulah	Spanish	5	17	10				20188	89673	99673
 fur-ita	Friulian	Italian	9	40	37				22464	121268	112987	
 fur-spa	Friulian	Spanish	5	17	16				23374	126033	129255	
 gag-tur	Gagauz	Turkish	7	23	23				13	170	220	
-gcf-gcf	Guadeloupean Creole French	Guadeloupean Creole French	233	990	1004						
 gcf-heb	Guadeloupean Creole French	Hebrew	1	2	1						
 gcf-kab	Guadeloupean Creole French	Kabyle	1	2	1				1908	15442	14372	
 gcf-lad	Guadeloupean Creole French	Ladino	1	2	1						
@@ -2111,7 +1724,6 @@ gla-nld	Scottish Gaelic	Dutch	3	14	12				154116	863375	1014440
 gla-pol	Scottish Gaelic	Polish	9	57	32				42026	247269	179843	
 gla-por	Scottish Gaelic	Portuguese	65	376	301				66169	441311	375762	
 gla-rus	Scottish Gaelic	Russian	29	148	92				38144	234578	173677	
-gla-spa	Scottish Gaelic	Spanish	289	1710	1293				47414	251585	229320	
 gla-tur	Scottish Gaelic	Turkish	11	42	27				43498	261475	174148	
 gla-zho	Scottish Gaelic	Chinese	1	4	1				44428	252499	85518	
 gle-gle	Irish	Irish	1	3	3						
@@ -2145,9 +1757,7 @@ glg-nld	Galician	Dutch	118	573	658	1	4	5	554846	3841569	3701578
 glg-nor	Galician	Norwegian	5	25	29				626665	3972870	3460524	
 glg-osp	Galician	Old Spanish	1	10	10						
 glg-pol	Galician	Polish	7	36	28				590053	4004225	3312313	
-glg-por	Galician	Portuguese	433	2521	2610	3	13	17	10326178	100518983	101680443	
 glg-rus	Galician	Russian	38	192	178				519008	3875454	3275199	
-glg-spa	Galician	Spanish	2121	13967	14832	1012	6579	7048	52632730	658320619	684511681	
 glg-toki	Galician	Toki Pona	1	5	3						
 glg-tur	Galician	Turkish	1	4	4				4762799	37639483	30143799	
 glg-yid	Galician	Yiddish	4	16	17				57043	297501	532822	
@@ -2174,7 +1784,6 @@ gos-lit	Gronings	Lithuanian	3	12	10
 gos-ltz	Gronings	Luxembourgish	46	193	201	7	27	29			
 gos-mri	Gronings	Maori	1	4	3						
 gos-nds	Gronings	Low German	16	89	92	2	9	10			
-gos-nld	Gronings	Dutch	1852	7493	7848	427	1989	2090			
 gos-nov	Gronings	Novial	3	15	13						
 gos-ofs	Gronings	Old Frisian	4	18	22						
 gos-osp	Gronings	Old Spanish	1	3	4						
@@ -2229,9 +1838,7 @@ grn-lad	Guarani	Ladino	2	10	18
 grn-mkd	Guarani	Macedonian	1	3	3				140591	1649911	2095857	
 grn-phn	Guarani	Phoenician	1	5	3						
 grn-pol	Guarani	Polish	1	2	2				172738	1887718	2001737	
-grn-por	Guarani	Portuguese	224	968	1433	74	300	454	194025	2012731	2739823	
 grn-rus	Guarani	Russian	32	102	111				169808	1853644	1992639	
-grn-spa	Guarani	Spanish	659	2579	3462	130	605	864	175067	1917567	2624532	
 grn-ukr	Guarani	Ukrainian	1	4	5				176176	1915337	1892770	
 grn-yid	Guarani	Yiddish	1	4	7				3	5	4	
 grn-zho	Guarani	Chinese	26	89	26				32528	184862	63527	
@@ -2276,48 +1883,31 @@ hbs-hbs	Serbo-Croatian	Serbo-Croatian	8	48	48				191395681	1167592365	1165789313
 hbs-hsb	Serbo-Croatian	Upper Sorbian	1	3	2				81314	511845	505622	
 hbs-hun	Serbo-Croatian	Hungarian	10	34	30				76481049	563438526	529103214	
 hbs-ido	Serbo-Croatian	Ido	1	8	4				28969	66371	71181	
-hbs-ita	Serbo-Croatian	Italian	534	2421	2590				61656215	488204122	557221751	
-hbs-jpn	Serbo-Croatian	Japanese	400	2064	403				10932369	98344385	20680851	
 hbs-lat	Serbo-Croatian	Latin	71	347	287				193440	1435689	1376006	
 hbs-mkd	Serbo-Croatian	Macedonian	1	5	5				10523903	93082833	99335797	
 hbs-nld	Serbo-Croatian	Dutch	1	3	3				69625548	520402680	590112152	
-hbs-nor	Serbo-Croatian	Norwegian	5000	35094	37303	6149	41774	44434	27599589	247352493	263971895	
-hbs-pol	Serbo-Croatian	Polish	417	2154	2084				86028120	652529451	616635837	
 hbs-por	Serbo-Croatian	Portuguese	107	444	507	1	5	4	140912443	933286798	1042926771	
-hbs-rus	Serbo-Croatian	Russian	2500	11899	11196	4177	19819	18782	59206165	472030890	467668282	
 hbs-slv	Serbo-Croatian	Slovenian	37	123	104				52485098	437887013	424437895	
 hbs-sme	Serbo-Croatian	Northern Sami	3	14	12				28954	113947	97306	
-hbs-spa	Serbo-Croatian	Spanish	607	2769	3034	2	6	5	94876911	699353549	808018008	
 hbs-swe	Serbo-Croatian	Swedish	2	5	7				41614824	350642894	366781894	
 hbs-tat	Serbo-Croatian	Tatar	1	16	15				301725	3843477	3156598	
 hbs-tur	Serbo-Croatian	Turkish	180	768	658				72060854	467595594	409011647	
-hbs-ukr	Serbo-Croatian	Ukrainian	942	4007	3788	7	19	24	11236257	115096928	109484916	
 hbs-urd	Serbo-Croatian	Urdu	1	2	3				1389204	19233824	26104456	
 hbs-vol	Serbo-Croatian	Volapük	2	7	6						
-hbs-zho	Serbo-Croatian	Chinese	236	1095	240				30682886	199087950	51382074	
-heb-heb	Hebrew	Hebrew	1000	4780	4795	732	3545	3534	27106602	125929914	125959959	
 heb-hrx	Hebrew	Hunsrik	1	3	3						
-heb-hun	Hebrew	Hungarian	417	1819	1743	11	32	34	31509647	196883354	196506791	
 heb-ido	Hebrew	Ido	103	421	507	18	67	81	18890	45091	48277	
 heb-ile	Hebrew	Interlingue	44	164	213	16	56	80	87	677	225	
-heb-ina	Hebrew	Interlingua (International Auxiliary Language Association)	217	998	1281	41	165	235	22035	104315	124205	
 heb-isl	Hebrew	Icelandic	11	35	40				1839736	13926030	15623770	
-heb-ita	Hebrew	Italian	1706	7860	9538	30	123	149	21327922	135043981	163243807	
 heb-jbo	Hebrew	Lojban	13	41	64	2	6	12	342	677	927	
 heb-jpa	Hebrew	Jewish Palestinian Aramaic	1	3	3						
-heb-jpn	Hebrew	Japanese	241	1269	241	4	14	4	11189194	80472590	19710332	
 heb-kab	Hebrew	Kabyle	4	9	12				29767	211932	268509	
 heb-kaz	Hebrew	Kazakh	4	13	15				212450	1538088	1462917	
 heb-kur	Hebrew	Kurdish	7	22	28				84391	903974	1261920	
-heb-lad	Hebrew	Ladino	218	856	1067	41	135	164			
-heb-lat	Hebrew	Latin	271	1182	1244	58	257	265	170335	929049	1126635	
 heb-ldn	Hebrew	Láadan	1	3	3						
-heb-lfn	Hebrew	Lingua Franca Nova	280	1119	1571	72	297	399			
 heb-lit	Hebrew	Lithuanian	2	12	16				6487098	52236117	51056950	
 heb-ltz	Hebrew	Luxembourgish	2	5	8				79697	130082	296520	
 heb-msa	Hebrew	Malay (macrolanguage)	15	88	109				18160549	126114165	138770096	
 heb-nds	Hebrew	Low German	6	30	30				99079	315371	335782	
-heb-nld	Hebrew	Dutch	2500	12843	17574	4357	22507	30976	32771321	217970543	264927529	
 heb-nog	Hebrew	Nogai	1	3	3						
 heb-nor	Hebrew	Norwegian	23	82	108				10041152	78079995	90264056	
 heb-nov	Hebrew	Novial	31	106	134						
@@ -2326,14 +1916,10 @@ heb-oar	Hebrew	Old Aramaic (up to 700 BCE)	8	74	87	1	9	11
 heb-osp	Hebrew	Old Spanish	3	7	12						
 heb-ota	Hebrew	Ottoman Turkish (1500-1928)	4	12	14						
 heb-phn	Hebrew	Phoenician	12	52	50	2	23	24			
-heb-pol	Hebrew	Polish	5000	24308	25221	7757	37976	39215	35274514	226112308	226974130	
-heb-por	Hebrew	Portuguese	719	3565	4480	24	74	101	61463570	381334764	453010224	
 heb-qya	Hebrew	Quenya	4	10	10						
 heb-ron	Hebrew	Romanian	6	28	47				30173851	193298148	237258264	
-heb-rus	Hebrew	Russian	2500	12032	13133	3568	16975	18365	26109586	174579045	186734915	
 heb-sjn	Hebrew	Sindarin	8	22	23	3	8	8			
 heb-slv	Hebrew	Slovenian	2	5	6				16713836	113652899	115353876	
-heb-spa	Hebrew	Spanish	1849	9848	11972	1077	5583	6779	50478131	342020548	425561944	
 heb-stq	Hebrew	Saterfriesisch	2	4	6						
 heb-swe	Hebrew	Swedish	3	12	15				21692182	151138234	170332784	
 heb-swg	Hebrew	Swabian	1	2	3						
@@ -2342,13 +1928,9 @@ heb-tgl	Hebrew	Tagalog	15	64	76				1437984	16937286	21807683
 heb-tlh	Hebrew	Klingon	62	202	183	16	61	59	137	1433	1430	
 heb-tmr	Hebrew	Jewish Babylonian Aramaic (ca. 200-1200 CE)	20	91	90	7	21	21			
 heb-toki	Hebrew	Toki Pona	82	560	1113	17	107	214			
-heb-tur	Hebrew	Turkish	1377	5977	5429	30	99	86	34308349	210646602	197371584	
 heb-tzl	Hebrew	Talossan	36	120	160	8	25	39			
-heb-ukr	Hebrew	Ukrainian	966	3753	4062	10	39	40	3464693	33317859	34192982	
 heb-vie	Hebrew	Vietnamese	1	1	2				10257382	77978073	122933967	
 heb-vol	Hebrew	Volapük	43	141	153	7	27	30			
-heb-yid	Hebrew	Yiddish	901	3761	5245	196	814	1051	30852	120426	637610	
-heb-zho	Hebrew	Chinese	709	2841	719	5	19	5	15832590	95365901	27878821	
 hil-jpn	Hiligaynon	Japanese	15	89	15				305220	13666799	601667	
 hil-zho	Hiligaynon	Chinese	7	52	7				33	168	65	
 hin-ita	Hindi	Italian	1	6	5				6927460	121287023	107858867	
@@ -2364,8 +1946,6 @@ hin-slv	Hindi	Slovenian	1	4	2				2898015	54145866	41021167
 hin-spa	Hindi	Spanish	32	215	187				15941900	217037719	197909777	
 hin-swe	Hindi	Swedish	1	9	6				4223100	74581781	60053489	
 hin-tur	Hindi	Turkish	71	447	284				9106056	122900974	85745434	
-hin-urd	Hindi	Urdu	240	1517	1596	2	6	6	1743382	31226474	32667321	
-hin-zho	Hindi	Chinese	324	2460	325	1	5	1	3253101	37347790	6384506	
 hmn-spa	Hmong	Spanish	5	47	33				32172	586142	456678	
 hoc-spa	Ho	Spanish	23	51	56						
 hrx-por	Hunsrik	Portuguese	8	45	48	1	7	6			
@@ -2379,25 +1959,19 @@ hsb-nld	Upper Sorbian	Dutch	3	8	11				37471	260436	280217
 hsb-pol	Upper Sorbian	Polish	1	3	3				37058	229380	221294	
 hsb-por	Upper Sorbian	Portuguese	1	3	4				81293	559534	666195	
 hsb-rus	Upper Sorbian	Russian	38	184	200				39649	262356	264167	
-hsb-slv	Upper Sorbian	Slovenian	743	2256	2310				40103	261746	268481	
 hsb-spa	Upper Sorbian	Spanish	25	81	96				35650	240767	293266	
 hsb-ukr	Upper Sorbian	Ukrainian	8	74	72				40586	276308	276298	
 hsb-yid	Upper Sorbian	Yiddish	4	8	16						
-hun-hun	Hungarian	Hungarian	1064	5360	5629				20053026	93678891	93672174	
 hun-ido	Hungarian	Ido	85	294	342	4	12	16	15519	39450	41892	
 hun-ile	Hungarian	Interlingue	11	35	47	1	3	4	2	7	9	
 hun-ina	Hungarian	Interlingua (International Auxiliary Language Association)	56	201	277	11	34	52	27715	157825	188630	
-hun-ita	Hungarian	Italian	5000	20596	25417	7159	29251	36423	53544788	551961847	668114665	
 hun-jbo	Hungarian	Lojban	6	20	28	1	3	4	374	703	986	
 hun-jpa	Hungarian	Jewish Palestinian Aramaic	2	4	6						
-hun-jpn	Hungarian	Japanese	2499	15094	2506	3660	21906	3675	9245122	83299378	18516287	
 hun-kab	Hungarian	Kabyle	3	13	11				36153	303111	349293	
 hun-kaz	Hungarian	Kazakh	1	5	4				329075	3281215	3048696	
-hun-kor	Hungarian	Korean	271	1276	1122				5989312	64186182	58884734	
 hun-kur	Hungarian	Kurdish	10	32	43				98492	917437	1237606	
 hun-kzj	Hungarian	Coastal Kadazan	3	12	20						
 hun-lad	Hungarian	Ladino	59	198	259	11	37	51			
-hun-lat	Hungarian	Latin	607	2712	2505	16	54	52	82524	707939	674990	
 hun-ldn	Hungarian	Láadan	1	3	4						
 hun-lfn	Hungarian	Lingua Franca Nova	79	259	363	13	36	57			
 hun-lij	Hungarian	Ligurian	1	5	9				7487	39312	49153	
@@ -2407,39 +1981,29 @@ hun-mar	Hungarian	Marathi	1	7	9				611020	8503888	9120505
 hun-mkd	Hungarian	Macedonian	1	5	5				5392298	46364355	53362279	
 hun-msa	Hungarian	Malay (macrolanguage)	73	360	422	1	7	11	17356714	144473841	156504244	
 hun-nds	Hungarian	Low German	3	24	32				120737	538973	590994	
-hun-nld	Hungarian	Dutch	1629	7220	9297	35	122	189	52573654	514011635	618281350	
 hun-nor	Hungarian	Norwegian	137	627	765				19082659	194666676	216837323	
 hun-nov	Hungarian	Novial	17	65	73						
 hun-osp	Hungarian	Old Spanish	3	10	12						
 hun-ota	Hungarian	Ottoman Turkish (1500-1928)	2	4	7						
-hun-pol	Hungarian	Polish	1934	8835	9345	15	53	52	59572847	562266403	573822821	
-hun-por	Hungarian	Portuguese	2500	10987	13716	3517	15635	19450	88148731	717697608	869259127	
 hun-qya	Hungarian	Quenya	4	10	10						
 hun-ron	Hungarian	Romanian	62	270	337				52891503	468227120	573601040	
-hun-rus	Hungarian	Russian	2687	12661	13781	6098	28242	30759	34839281	287239779	299759562	
 hun-sjn	Hungarian	Sindarin	4	10	10	1	3	3			
 hun-slv	Hungarian	Slovenian	67	255	273	10	37	38	32520160	339375058	351039895	
-hun-spa	Hungarian	Spanish	2500	11415	13855	4194	19211	23580	88624314	789700321	991148146	
 hun-stq	Hungarian	Saterfriesisch	1	3	3						
 hun-sux	Hungarian	Sumerian	1	2	3						
-hun-swe	Hungarian	Swedish	1614	7474	9348	525	2286	2836	36082251	398925897	432288684	
 hun-swg	Hungarian	Swabian	4	24	24	1	2	3			
 hun-tah	Hungarian	Tahitian	1	3	6				455730	6507118	11808054	
 hun-tat	Hungarian	Tatar	1	7	9				240598	3050680	2739672	
 hun-tlh	Hungarian	Klingon	26	90	93	4	12	11	124	1830	1330	
 hun-tmr	Hungarian	Jewish Babylonian Aramaic (ca. 200-1200 CE)	9	24	23	1	3	3			
 hun-toki	Hungarian	Toki Pona	9	34	74						
-hun-tur	Hungarian	Turkish	1002	3983	3803	10	42	36	41149669	271650063	255411049	
 hun-tzl	Hungarian	Talossan	24	78	109	6	17	29			
-hun-ukr	Hungarian	Ukrainian	473	1889	2030	3	6	9	6090583	65481287	65542316	
 hun-urd	Hungarian	Urdu	2	5	8				729693	9835058	14353249	
 hun-vie	Hungarian	Vietnamese	29	141	231				13353866	113165496	175020040	
 hun-vol	Hungarian	Volapük	23	77	83	2	7	8			
 hun-yid	Hungarian	Yiddish	139	482	658	15	46	71	21771	64135	382119	
-hun-zho	Hungarian	Chinese	434	2014	435	1	4	1	16371663	108154356	29306904	
 hye-jpn	Armenian	Japanese	15	73	15				499467	9120935	1277321	
 hye-nld	Armenian	Dutch	1	4	6				537387	9977608	11349999	
-hye-rus	Armenian	Russian	227	1315	1293				812921	13736120	13039008	
 hye-spa	Armenian	Spanish	65	413	436				636236	11128581	13063122	
 hye-tur	Armenian	Turkish	2	7	5				1001006	12775263	11097301	
 hye-zho	Armenian	Chinese	14	35	14				211727	1850677	678652	
@@ -2447,8 +2011,6 @@ iba-jpn	Iban	Japanese	1	5	1				2513	75725	4560
 iba-msa	Iban	Malay (macrolanguage)	4	16	23				10140	140032	118384	
 ido-ido	Ido	Ido	25	120	116						
 ido-ile	Ido	Interlingue	89	359	397	21	89	103			
-ido-ina	Ido	Interlingua (International Auxiliary Language Association)	316	1310	1434	52	228	253	3911	9368	10851	
-ido-ita	Ido	Italian	1460	8272	8216	39	172	172	14883	40859	43506	
 ido-jbo	Ido	Lojban	13	47	72	1	5	7	33	55	65	
 ido-jpa	Ido	Jewish Palestinian Aramaic	1	3	2						
 ido-jpn	Ido	Japanese	64	275	65	1	6	1	14451	40742	22578	
@@ -2460,7 +2022,6 @@ ido-lad	Ido	Ladino	129	567	627	16	58	63
 ido-lat	Ido	Latin	162	620	544	32	146	126	3208	5978	5898	
 ido-lav	Ido	Latvian	1	5	4				16594	46100	45973	
 ido-ldn	Ido	Láadan	5	18	23						
-ido-lfn	Ido	Lingua Franca Nova	348	1475	1739	55	231	261			
 ido-lit	Ido	Lithuanian	4	19	18				5986	13740	11257	
 ido-ltz	Ido	Luxembourgish	5	23	29				2714	5063	6687	
 ido-msa	Ido	Malay (macrolanguage)	22	139	100				29654	79724	77417	
@@ -2478,7 +2039,6 @@ ido-ron	Ido	Romanian	3	11	14				16136	44813	48407
 ido-rus	Ido	Russian	129	621	507	12	55	45	13472	37122	35095	
 ido-sjn	Ido	Sindarin	10	41	28	4	15	11			
 ido-slv	Ido	Slovenian	4	12	10				5101	11629	10956	
-ido-spa	Ido	Spanish	499	2664	2689	15	62	76	17861	48935	58161	
 ido-stq	Ido	Saterfriesisch	5	23	27						
 ido-swe	Ido	Swedish	5	28	34				16384	46050	46075	
 ido-tat	Ido	Tatar	2	11	8				7027	16875	14892	
@@ -2490,7 +2050,6 @@ ido-tzl	Ido	Talossan	55	222	256	9	32	39
 ido-ukr	Ido	Ukrainian	19	72	64	2	5	8	14984	43318	39815	
 ido-uzb	Ido	Uzbek	1	5	4				9300	25206	25283	
 ido-vol	Ido	Volapük	91	341	306	11	40	36			
-ido-yid	Ido	Yiddish	426	1814	2048	58	265	307	5327	15238	15893	
 ido-zho	Ido	Chinese	30	145	30	1	4	1	8900	20755	13472	
 iii-zho	Sichuan Yi	Chinese	1	1	1						
 ile-ile	Interlingue	Interlingue	1	4	4						
@@ -2534,7 +2093,6 @@ ile-zho	Interlingue	Chinese	4	21	4
 ilo-jpn	Iloko	Japanese	2	17	2				342585	13294297	629517	
 ilo-zho	Iloko	Chinese	3	12	3				25659	55783	36094	
 ina-ina	Interlingua (International Auxiliary Language Association)	Interlingua (International Auxiliary Language Association)	98	715	722						
-ina-ita	Interlingua (International Auxiliary Language Association)	Italian	912	6249	5689	11	51	47	28743	210011	209630	
 ina-jbo	Interlingua (International Auxiliary Language Association)	Lojban	24	100	119	5	16	16	20	29	34	
 ina-jpa	Interlingua (International Auxiliary Language Association)	Jewish Palestinian Aramaic	1	4	2						
 ina-jpn	Interlingua (International Auxiliary Language Association)	Japanese	42	234	42	3	13	3	20508	130753	35181	
@@ -2542,15 +2100,11 @@ ina-kab	Interlingua (International Auxiliary Language Association)	Kabyle	11	54	
 ina-kaz	Interlingua (International Auxiliary Language Association)	Kazakh	1	5	3				13202	84650	66997	
 ina-kor	Interlingua (International Auxiliary Language Association)	Korean	1	3	2				20659	153057	109493	
 ina-kur	Interlingua (International Auxiliary Language Association)	Kurdish	19	85	68	2	6	6	9351	31015	28437	
-ina-lad	Interlingua (International Auxiliary Language Association)	Ladino	320	1524	1436	46	215	186			
-ina-lat	Interlingua (International Auxiliary Language Association)	Latin	912	5529	3970	70	328	245	163	417	329	
 ina-ldn	Interlingua (International Auxiliary Language Association)	Láadan	20	86	91	2	8	7			
-ina-lfn	Interlingua (International Auxiliary Language Association)	Lingua Franca Nova	769	3768	3951	122	614	624			
 ina-lit	Interlingua (International Auxiliary Language Association)	Lithuanian	4	21	20				16681	114113	90671	
 ina-ltz	Interlingua (International Auxiliary Language Association)	Luxembourgish	8	38	40				998	3491	3170	
 ina-moh	Interlingua (International Auxiliary Language Association)	Mohawk	1	3	2						
 ina-nds	Interlingua (International Auxiliary Language Association)	Low German	6	31	31				5649	11109	12022	
-ina-nld	Interlingua (International Auxiliary Language Association)	Dutch	1033	6837	6931	19	83	78	27558	204950	189112	
 ina-nog	Interlingua (International Auxiliary Language Association)	Nogai	1	5	3						
 ina-nor	Interlingua (International Auxiliary Language Association)	Norwegian	55	400	354	1	4	4	31403	180196	164683	
 ina-nov	Interlingua (International Auxiliary Language Association)	Novial	52	233	218	5	23	24			
@@ -2559,30 +2113,22 @@ ina-ota	Interlingua (International Auxiliary Language Association)	Ottoman Turki
 ina-pap	Interlingua (International Auxiliary Language Association)	Papiamento	1	3	4				6	11	10	
 ina-phn	Interlingua (International Auxiliary Language Association)	Phoenician	2	6	4						
 ina-pol	Interlingua (International Auxiliary Language Association)	Polish	119	744	579				28394	178397	148244	
-ina-por	Interlingua (International Auxiliary Language Association)	Portuguese	2537	21168	20404	7080	60561	57869	58342	406459	405909	
 ina-qya	Interlingua (International Auxiliary Language Association)	Quenya	7	27	20	1	4	3			
 ina-ron	Interlingua (International Auxiliary Language Association)	Romanian	7	34	31				28761	198849	196513	
-ina-rus	Interlingua (International Auxiliary Language Association)	Russian	1453	11568	8627	39	189	129	20455	171999	147058	
 ina-sjn	Interlingua (International Auxiliary Language Association)	Sindarin	21	88	53	5	18	12			
 ina-slv	Interlingua (International Auxiliary Language Association)	Slovenian	2	8	6				28166	179463	158343	
-ina-spa	Interlingua (International Auxiliary Language Association)	Spanish	1613	13112	12448	109	591	571	25820	181518	187004	
 ina-stq	Interlingua (International Auxiliary Language Association)	Saterfriesisch	4	18	18						
 ina-sux	Interlingua (International Auxiliary Language Association)	Sumerian	2	6	7						
 ina-swa	Interlingua (International Auxiliary Language Association)	Swahili (macrolanguage)	2	14	14				2982	16089	14064	
 ina-swe	Interlingua (International Auxiliary Language Association)	Swedish	3	18	17				1852	9749	8239	
 ina-swg	Interlingua (International Auxiliary Language Association)	Swabian	5	24	24						
 ina-tgl	Interlingua (International Auxiliary Language Association)	Tagalog	17	112	125				6967	44555	47570	
-ina-tlh	Interlingua (International Auxiliary Language Association)	Klingon	216	871	536	34	146	97	5	10	6	
 ina-tmr	Interlingua (International Auxiliary Language Association)	Jewish Babylonian Aramaic (ca. 200-1200 CE)	19	114	72	4	17	11			
 ina-toki	Interlingua (International Auxiliary Language Association)	Toki Pona	76	386	608	14	72	109			
-ina-tur	Interlingua (International Auxiliary Language Association)	Turkish	317	1528	1074	13	69	45	27897	170194	133183	
 ina-tzl	Interlingua (International Auxiliary Language Association)	Talossan	86	383	356	16	67	65			
 ina-ukr	Interlingua (International Auxiliary Language Association)	Ukrainian	32	132	107	4	17	12	21148	179776	150461	
 ina-vol	Interlingua (International Auxiliary Language Association)	Volapük	138	558	429	16	76	55			
-ina-yid	Interlingua (International Auxiliary Language Association)	Yiddish	788	3847	3910	120	633	661	3699	7055	8664	
 ina-zho	Interlingua (International Auxiliary Language Association)	Chinese	3	12	3				33023	249876	58285	
-isl-ita	Icelandic	Italian	236	1205	1187				3421479	41849498	45291823	
-isl-jpn	Icelandic	Japanese	251	1303	252				965215	13988811	2230919	
 isl-kat	Icelandic	Georgian	1	5	5				439879	9153883	7448933	
 isl-kaz	Icelandic	Kazakh	1	4	4				203646	2093445	1857599	
 isl-lat	Icelandic	Latin	6	26	17				75850	775979	656935	
@@ -2593,69 +2139,47 @@ isl-osp	Icelandic	Old Spanish	1	3	4
 isl-pol	Icelandic	Polish	18	113	97				3492400	38215487	34619876	
 isl-por	Icelandic	Portuguese	64	324	330				5181485	50615206	54538853	
 isl-rus	Icelandic	Russian	139	815	730				1988981	21568596	19301406	
-isl-spa	Icelandic	Spanish	238	968	970				4407442	50240546	56301739	
 isl-stq	Icelandic	Saterfriesisch	1	3	3						
 isl-swe	Icelandic	Swedish	1	8	10				5040636	57203499	56603054	
 isl-tzl	Icelandic	Talossan	1	3	3						
 isl-zho	Icelandic	Chinese	12	68	12				1345782	8559853	3182263	
-ita-ita	Italian	Italian	1000	5982	6272	350	2100	2210	34550078	214111819	214120224	
 ita-jbo	Italian	Lojban	171	799	969	2	8	12	372	826	1026	
 ita-jpa	Italian	Jewish Palestinian Aramaic	1	4	3						
-ita-jpn	Italian	Japanese	2660	18204	2678	1005	6977	1006	16282820	192497378	32609912	
 ita-kab	Italian	Kabyle	11	63	53	1	5	2	32949	341535	331452	
 ita-kaz	Italian	Kazakh	9	31	29				357259	3984604	3102235	
 ita-kor	Italian	Korean	81	420	311				9977552	147716914	113004348	
 ita-kur	Italian	Kurdish	7	39	45				138406	1389023	1583877	
 ita-lad	Italian	Ladino	40	162	164	8	35	41			
-ita-lat	Italian	Latin	1716	10233	7904	21	94	72	296684	2513470	2129711	
 ita-lav	Italian	Latvian	21	82	82				18767251	332514890	269917410	
 ita-lfn	Italian	Lingua Franca Nova	88	450	500	10	62	67			
 ita-lij	Italian	Ligurian	107	603	667				6214	42804	43993	
-ita-lit	Italian	Lithuanian	224	1249	1043				21783427	376748766	292942229	
 ita-ltz	Italian	Luxembourgish	50	174	176	1	4	4	82521	344342	421740	
 ita-mlt	Italian	Maltese	20	58	52				5285784	100343919	85772098	
-ita-msa	Italian	Malay (macrolanguage)	426	2272	2279				24858158	327028961	291154047	
-ita-nds	Italian	Low German	313	1630	1779				215733	1109729	1013649	
-ita-nld	Italian	Dutch	2578	12971	13835	6940	35161	37623	89569959	1398843249	1392913160	
-ita-nor	Italian	Norwegian	939	7992	7736	11	83	75	32063415	455983827	425265486	
 ita-nov	Italian	Novial	10	42	41						
 ita-oci	Italian	Occitan (post 1500)	80	485	537				1182634	7447934	7320349	
 ita-orv	Italian	Old Russian	8	44	31						
 ita-osp	Italian	Old Spanish	1	4	4						
 ita-otk	Italian	Old Turkish	1	5	1						
 ita-pap	Italian	Papiamento	2	8	7				306160	4864602	5560685	
-ita-pms	Italian	Piemontese	232	1443	1649				87	1442	1883	
-ita-pol	Italian	Polish	1294	7091	6069	1002	5586	4754	63922556	794114064	676395838	
-ita-por	Italian	Portuguese	3066	20955	21640	6371	39084	40341	160983108	2210370623	2231650314	
 ita-qya	Italian	Quenya	1	4	3						
-ita-ron	Italian	Romanian	1005	5194	5055	8	41	39	67043699	807002058	811325921	
-ita-rus	Italian	Russian	10045	60049	52669	66133	395533	346979	45793091	518991143	444831104	
 ita-scn	Italian	Sicilian	2	10	11				11352	184185	173201	
 ita-shs	Italian	Shuswap	6	22	20				132	333	255	
 ita-sjn	Italian	Sindarin	1	4	3						
 ita-slv	Italian	Slovenian	68	295	256				32992750	469840690	400898580	
-ita-spa	Italian	Spanish	5000	28907	29307	9247	53564	54151	234944470	3559510190	3765657631	
 ita-sqi	Italian	Albanian	56	304	316	18	117	115	8871026	111095838	117336897	
 ita-swa	Italian	Swahili (macrolanguage)	22	99	66	1	3	2	2807422	41356683	38089239	
-ita-swe	Italian	Swedish	715	3923	4058	16	62	77	55658265	883125930	797488530	
 ita-tat	Italian	Tatar	52	347	366				265752	4063556	3007438	
 ita-tgl	Italian	Tagalog	93	477	498				2242556	31369937	34711385	
 ita-tha	Italian	Thai	15	68	22				6628451	91725479	27927656	
 ita-tlh	Italian	Klingon	129	584	388	5	20	15	128	2396	1342	
 ita-tmr	Italian	Jewish Babylonian Aramaic (ca. 200-1200 CE)	5	18	13						
-ita-toki	Italian	Toki Pona	200	1107	1780	16	179	230			
-ita-tur	Italian	Turkish	10000	69343	39177	5703	39072	22248	41846022	422097759	326929555	
 ita-tzl	Italian	Talossan	21	89	90	3	14	14			
 ita-uig	Italian	Uighur	81	337	292				13584	171272	180613	
-ita-ukr	Italian	Ukrainian	5000	22560	19716	8775	39235	34604	6367168	74076732	61564579	
 ita-urd	Italian	Urdu	1	5	6				860214	15183919	18664247	
 ita-vec	Italian	Venetian	17	68	77				1373	18167	17987	
-ita-vie	Italian	Vietnamese	250	1496	1877				15543964	226073050	297442898	
 ita-vol	Italian	Volapük	9	39	28	1	7	6			
 ita-wol	Italian	Wolof	1	2	2				28597	222573	236795	
 ita-xho	Italian	Xhosa	1	5	5				1241791	15928627	11403760	
-ita-yid	Italian	Yiddish	206	888	971	37	179	205	55560	271700	756502	
-ita-zho	Italian	Chinese	2943	16302	3006	1004	5764	1015	20214003	225028323	38104274	
 izh-krl	Ingrian	Karelian	3	9	9						
 izh-nor	Ingrian	Norwegian	2	5	5						
 izh-rus	Ingrian	Russian	8	25	24						
@@ -2665,7 +2189,6 @@ jav-msa	Javanese	Malay (macrolanguage)	56	239	267				878571	5647765	5710929
 jav-spa	Javanese	Spanish	4	14	11				381936	1478053	1677742	
 jbo-jbo	Lojban	Lojban	1	4	3						
 jbo-jpa	Lojban	Jewish Palestinian Aramaic	1	2	2						
-jbo-jpn	Lojban	Japanese	921	5735	926				328	895	387	
 jbo-kur	Lojban	Kurdish	1	4	3				337	994	720	
 jbo-lad	Lojban	Ladino	21	103	92	3	8	10			
 jbo-lat	Lojban	Latin	18	105	64	3	15	11	43	179	115	
@@ -2680,10 +2203,7 @@ jbo-osp	Lojban	Old Spanish	4	16	16
 jbo-pol	Lojban	Polish	140	834	597				341	906	708	
 jbo-por	Lojban	Portuguese	4	19	15				135	712	624	
 jbo-qya	Lojban	Quenya	3	13	8						
-jbo-rus	Lojban	Russian	1199	7959	5456	8	35	23	371	1006	732	
 jbo-sjn	Lojban	Sindarin	4	18	12	1	4	3			
-jbo-spa	Lojban	Spanish	1507	9686	7787	7	28	27	78	401	282	
-jbo-swe	Lojban	Swedish	242	1241	1094				327	843	615	
 jbo-swg	Lojban	Swabian	2	4	6						
 jbo-tlh	Lojban	Klingon	15	76	44	2	11	7	11	23	12	
 jbo-tmr	Lojban	Jewish Babylonian Aramaic (ca. 200-1200 CE)	7	33	18						
@@ -2693,7 +2213,6 @@ jbo-tzl	Lojban	Talossan	8	38	31	1	8	4
 jbo-ukr	Lojban	Ukrainian	3	6	6				379	1048	747	
 jbo-vol	Lojban	Volapük	14	71	49	2	17	9			
 jbo-yid	Lojban	Yiddish	27	132	117	5	31	22	5	8	6	
-jbo-zho	Lojban	Chinese	518	3020	524	23	137	25	759	1971	970	
 jpa-lad	Jewish Palestinian Aramaic	Ladino	2	4	8						
 jpa-ldn	Jewish Palestinian Aramaic	Láadan	1	2	4						
 jpa-lfn	Jewish Palestinian Aramaic	Lingua Franca Nova	1	2	4						
@@ -2702,12 +2221,10 @@ jpa-tlh	Jewish Palestinian Aramaic	Klingon	1	2	2
 jpa-tmr	Jewish Palestinian Aramaic	Jewish Babylonian Aramaic (ca. 200-1200 CE)	2	5	5						
 jpa-toki	Jewish Palestinian Aramaic	Toki Pona	1	2	3						
 jpa-yid	Jewish Palestinian Aramaic	Yiddish	1	2	4						
-jpn-jpn	Japanese	Japanese	584	590	625				160458	237636	237220	
 jpn-kab	Japanese	Kabyle	21	21	118				20923	38106	154701	
 jpn-kat	Japanese	Georgian	54	54	226				715502	1777574	11759954	
 jpn-khm	Japanese	Khmer	25	25	47				313046	782763	1629255	
 jpn-kir	Japanese	Kirghiz	2	2	10				235292	565139	4204704	
-jpn-kor	Japanese	Korean	622	624	2599	3	3	12	11991800	27851998	119054218	
 jpn-ksh	Japanese	Kölsch	3	3	12				20	28	46	
 jpn-kur	Japanese	Kurdish	10	10	57				96476	249144	1494036	
 jpn-kzj	Japanese	Coastal Kadazan	124	124	737						
@@ -2718,66 +2235,48 @@ jpn-lav	Japanese	Latvian	3	3	12				1737845	4559599	21083179
 jpn-ldn	Japanese	Láadan	1	1	4						
 jpn-lfn	Japanese	Lingua Franca Nova	22	22	114	2	2	9			
 jpn-lim	Japanese	Limburgan	3	3	12				36580	50260	160020	
-jpn-lit	Japanese	Lithuanian	246	247	1105				4908812	9210359	43052304	
 jpn-liv	Japanese	Liv	1	1	2						
 jpn-ltz	Japanese	Luxembourgish	3	3	11				66286	101291	249330	
 jpn-mal	Japanese	Malayalam	2	2	10				1715631	3049494	13044986	
-jpn-mar	Japanese	Marathi	340	340	1575				570782	1337067	8021597	
 jpn-mdf	Japanese	Moksha	1	1	3				13	25	117	
 jpn-mlt	Japanese	Maltese	2	2	13				148519	287772	4484278	
 jpn-mnc	Japanese	Manchu	1	1	5						
 jpn-mon	Japanese	Mongolian	54	54	278				296140	828537	3726171	
-jpn-msa	Japanese	Malay (macrolanguage)	2616	2623	13918	1060	1079	5647	15638976	28233133	136816559	
 jpn-mya	Japanese	Burmese	6	6	16				427166	1104934	5353983	
 jpn-myv	Japanese	Erzya	1	1	3				401	558	1544	
 jpn-nah	Japanese	Nahuatl languages	2	2	6						
-jpn-nds	Japanese	Low German	406	410	2320	53	53	345	105490	172305	556456	
 jpn-nep	Japanese	Nepali (macrolanguage)	3	3	14				463299	1043348	7334283	
-jpn-nld	Japanese	Dutch	3430	3462	21806	1057	1068	6602	18652849	34202814	200095734	
-jpn-nor	Japanese	Norwegian	1047	1057	7244	15	15	116	7341127	13889255	87555223	
 jpn-nov	Japanese	Novial	2	2	8						
 jpn-nys	Japanese	Nyungar	2	2	2						
 jpn-oci	Japanese	Occitan (post 1500)	60	60	375				87840	137890	251945	
 jpn-orv	Japanese	Old Russian	4	4	14						
 jpn-oss	Japanese	Ossetian	4	4	16				23329	33767	134161	
 jpn-pms	Japanese	Piemontese	10	10	76				33	59	168	
-jpn-pol	Japanese	Polish	9999	10011	56903	14809	14826	84725	17723193	32312631	154477337	
-jpn-por	Japanese	Portuguese	1940	1962	13110	1133	1142	7667	18955445	37657001	212778838	
 jpn-ppl	Japanese	Pipil	2	2	13				502	894	3145	
 jpn-prg	Japanese	Prussian	8	8	30						
 jpn-qya	Japanese	Quenya	2	2	4						
 jpn-ron	Japanese	Romanian	152	152	853				8634811	16244549	100185305	
-jpn-rus	Japanese	Russian	10142	10196	57425	15675	15830	88723	17761727	36130907	173619863	
 jpn-san	Japanese	Sanskrit	9	9	28				982	1244	1878	
 jpn-shs	Japanese	Shuswap	8	8	34				7	16	7	
 jpn-slv	Japanese	Slovenian	163	163	746	7	7	32	6288755	11275217	60631294	
-jpn-spa	Japanese	Spanish	10742	10781	70177	23420	23489	154005	23630883	44259049	278008493	
 jpn-sqi	Japanese	Albanian	4	4	22				1471439	3416281	21840550	
 jpn-sux	Japanese	Sumerian	1	1	2						
 jpn-swa	Japanese	Swahili (macrolanguage)	3	3	5				1835433	3522484	25850389	
-jpn-swe	Japanese	Swedish	896	906	5781	5	5	29	13928449	21007857	126437994	
 jpn-tat	Japanese	Tatar	81	89	352				118326	242352	2573031	
 jpn-tgk	Japanese	Tajik	3	3	19				198766	473479	2730117	
 jpn-tgl	Japanese	Tagalog	134	134	701				1481630	3140622	29176617	
 jpn-tha	Japanese	Thai	24	24	28				4268876	10608266	17513386	
-jpn-tlh	Japanese	Klingon	674	682	2609				132	378	1421	
-jpn-toki	Japanese	Toki Pona	242	242	1711	2	2	13			
 jpn-tuk	Japanese	Turkmen	2	2	5				59943	121325	1116544	
-jpn-tur	Japanese	Turkish	811	823	3821	4	4	19	18727012	33971648	138790875	
 jpn-tzl	Japanese	Talossan	2	2	10						
 jpn-uig	Japanese	Uighur	66	66	300	7	7	26	9903	13820	171624	
-jpn-ukr	Japanese	Ukrainian	457	457	2151	21	21	91	4579311	9596156	46364854	
 jpn-urd	Japanese	Urdu	8	8	38				879173	2082021	16422314	
 jpn-uzb	Japanese	Uzbek	5	5	13				45993	78236	325136	
-jpn-vie	Japanese	Vietnamese	1097	1105	9472	585	588	5584	7050251	15295944	107382212	
 jpn-vol	Japanese	Volapük	10	10	39						
 jpn-xal	Japanese	Kalmyk	6	6	32				27	32	43	
 jpn-xho	Japanese	Xhosa	1	1	5				495842	981116	8841959	
 jpn-yid	Japanese	Yiddish	25	26	124				22033	36618	381259	
 jpn-zea	Japanese	Zeeuws	2	2	8						
-jpn-zho	Japanese	Chinese	2497	2520	2535	2894	2911	2930	14128610	26163031	26308811	
 kaa-tur	Kara-Kalpak	Turkish	3	9	7				4	19	13	
-kab-kab	Kabyle	Kabyle	993	6073	6198	309	1563	1622			
 kab-kat	Kabyle	Georgian	1	5	4				25531	196213	151005	
 kab-kor	Kabyle	Korean	4	14	12				33888	318504	232106	
 kab-kur	Kabyle	Kurdish	5	9	19				5836	27300	25590	
@@ -2792,10 +2291,8 @@ kab-nds	Kabyle	Low German	1	4	9				73	133	136
 kab-nld	Kabyle	Dutch	16	42	65				31061	319967	336621	
 kab-pol	Kabyle	Polish	62	298	283				30905	300456	257058	
 kab-por	Kabyle	Portuguese	5	68	77				62678	565774	586635	
-kab-rus	Kabyle	Russian	423	2103	2171				33335	327240	284694	
 kab-shy	Kabyle	Tachawit	3	23	23						
 kab-sjn	Kabyle	Sindarin	2	2	4						
-kab-spa	Kabyle	Spanish	883	4852	5690	8	58	69	30421	313381	332773	
 kab-stq	Kabyle	Saterfriesisch	1	8	9						
 kab-tlh	Kabyle	Klingon	3	7	9				9	15	10	
 kab-tmh	Kabyle	Tamashek	2	6	5				506	9639	9668	
@@ -2815,7 +2312,6 @@ kat-lit	Georgian	Lithuanian	2	2	3				724112	11930495	12239299
 kat-nld	Georgian	Dutch	3	12	14				832247	12753977	16432144	
 kat-nor	Georgian	Norwegian	1	5	5				695685	11850232	14968979	
 kat-pol	Georgian	Polish	13	56	59				928974	13749634	14207613	
-kat-rus	Georgian	Russian	642	3008	3211	6	27	30	1003339	15067663	15957243	
 kat-tgl	Georgian	Tagalog	2	2	4				482019	9516760	13878877	
 kat-tur	Georgian	Turkish	116	347	340	12	43	40	1051255	14524490	12803331	
 kat-ukr	Georgian	Ukrainian	5	14	22				745028	12807587	13084978	
@@ -2829,7 +2325,6 @@ kaz-lit	Kazakh	Lithuanian	1	4	4				318597	3003523	3194331
 kaz-msa	Kazakh	Malay (macrolanguage)	5	13	17				522023	4944824	5680663	
 kaz-nor	Kazakh	Norwegian	1	4	4				324432	2770042	3281308	
 kaz-pol	Kazakh	Polish	9	28	32				377597	3250016	3579061	
-kaz-rus	Kazakh	Russian	1400	11159	12148	1016	7906	8637	595629	6035741	6696910	
 kaz-spa	Kazakh	Spanish	79	290	381				398524	3436149	4676656	
 kaz-tat	Kazakh	Tatar	4	18	16				75156	412710	416097	
 kaz-tlh	Kazakh	Klingon	1	3	2				16	24	18	
@@ -2846,7 +2341,6 @@ kha-vie	Khasi	Vietnamese	4	24	26
 khm-msa	Khmer	Malay (macrolanguage)	17	31	57				451759	2436466	7101786	
 khm-pol	Khmer	Polish	3	4	9				337483	1742320	4566819	
 khm-rus	Khmer	Russian	62	134	230				350391	1892966	4913905	
-khm-spa	Khmer	Spanish	1448	2985	6919				363473	1917273	6712220	
 khm-tha	Khmer	Thai	1	1	1				314004	1841340	1731261	
 khm-vie	Khmer	Vietnamese	18	36	82				274478	1590382	6460438	
 khm-zho	Khmer	Chinese	85	113	86				233176	700533	588531	
@@ -2869,9 +2363,7 @@ kor-nor	Korean	Norwegian	2	2	5				5091875	60444673	75199932
 kor-pol	Korean	Polish	75	323	364	1	2	4	11800755	99937126	109518891	
 kor-por	Korean	Portuguese	83	315	443	2	14	21	16053842	142727220	186163884	
 kor-ron	Korean	Romanian	12	39	59				3399438	36475550	47715748	
-kor-rus	Korean	Russian	221	884	1103				11518705	96726012	105797239	
 kor-slv	Korean	Slovenian	7	27	28				4075501	44067763	50113259	
-kor-spa	Korean	Spanish	940	3964	5678	1	3	4	15861123	143560714	193814995	
 kor-swg	Korean	Swabian	1	1	1						
 kor-tat	Korean	Tatar	2	10	8				102818	3041494	2533272	
 kor-tlh	Korean	Klingon	2	3	3				135	1441	1370	
@@ -2881,7 +2373,6 @@ kor-uig	Korean	Uighur	13	38	35				9791	126630	171999
 kor-ukr	Korean	Ukrainian	28	92	113				2725734	32533552	32881765	
 kor-vie	Korean	Vietnamese	31	113	205				5968531	63447060	103545234	
 kor-vol	Korean	Volapük	1	5	6						
-kor-zho	Korean	Chinese	411	1785	422				7031075	53617647	17274368	
 krc-tur	Karachay-Balkar	Turkish	2	5	5						
 krl-nld	Karelian	Dutch	119	378	400						
 krl-nor	Karelian	Norwegian	17	99	103						
@@ -2928,7 +2419,6 @@ kzj-lit	Coastal Kadazan	Lithuanian	2	15	8
 kzj-lut	Coastal Kadazan	Lushootseed	2	7	5						
 kzj-mar	Coastal Kadazan	Marathi	1	4	4						
 kzj-mkd	Coastal Kadazan	Macedonian	2	18	18						
-kzj-msa	Coastal Kadazan	Malay (macrolanguage)	370	3340	2916						
 kzj-mvv	Coastal Kadazan	Tagal Murut	1	5	5						
 kzj-pol	Coastal Kadazan	Polish	1	6	3						
 kzj-por	Coastal Kadazan	Portuguese	1	3	5						
@@ -2941,9 +2431,7 @@ kzj-tur	Coastal Kadazan	Turkish	1	6	3
 kzj-ukr	Coastal Kadazan	Ukrainian	2	16	13						
 kzj-zho	Coastal Kadazan	Chinese	177	1216	181						
 lad-lad	Ladino	Ladino	118	506	505						
-lad-lat	Ladino	Latin	214	904	726	33	133	110			
 lad-ldn	Ladino	Láadan	8	44	40	1	4	4			
-lad-lfn	Ladino	Lingua Franca Nova	335	1406	1503	68	283	295			
 lad-ltz	Ladino	Luxembourgish	7	39	42						
 lad-nds	Ladino	Low German	4	18	18						
 lad-nld	Ladino	Dutch	33	163	166	4	14	16			
@@ -2961,7 +2449,6 @@ lad-rus	Ladino	Russian	47	220	162	8	35	24
 lad-sco	Ladino	Scots	1	2	4						
 lad-sjn	Ladino	Sindarin	14	57	36	2	8	6			
 lad-slv	Ladino	Slovenian	7	21	19						
-lad-spa	Ladino	Spanish	276	1167	1151	25	119	109	10	383	402	
 lad-stq	Ladino	Saterfriesisch	4	26	24						
 lad-swe	Ladino	Swedish	3	23	22				1	2	25	
 lad-swg	Ladino	Swabian	2	4	6						
@@ -2972,56 +2459,43 @@ lad-tur	Ladino	Turkish	62	278	215	13	56	36
 lad-tzl	Ladino	Talossan	90	400	398	10	39	44			
 lad-ukr	Ladino	Ukrainian	27	115	98	3	9	8			
 lad-vol	Ladino	Volapük	79	363	286	7	28	29			
-lad-yid	Ladino	Yiddish	604	2590	2806	84	390	387			
 lad-zho	Ladino	Chinese	2	10	2						
 lao-lao	Lao	Lao	1	1	3						
 lao-zho	Lao	Chinese	25	30	25				40177	149268	107549	
-lat-lat	Latin	Latin	235	1157	1162						
 lat-ldn	Latin	Láadan	6	20	28	1	3	3			
-lat-lfn	Latin	Lingua Franca Nova	348	1150	1595	71	255	353			
 lat-lit	Latin	Lithuanian	4	13	15				73023	655367	572451	
 lat-ltz	Latin	Luxembourgish	4	12	16				26106	46211	89036	
 lat-nds	Latin	Low German	3	14	15				9888	17353	17106	
-lat-nld	Latin	Dutch	366	1458	1993	9	35	40	92082	746063	1009764	
 lat-nog	Latin	Nogai	1	3	3						
-lat-nor	Latin	Norwegian	333	1388	1838				73597	646783	826109	
 lat-nov	Latin	Novial	37	120	144	3	10	15			
 lat-orv	Latin	Old Russian	85	316	344						
 lat-osp	Latin	Old Spanish	5	17	19	1	3	4			
 lat-ota	Latin	Ottoman Turkish (1500-1928)	2	6	7						
 lat-pap	Latin	Papiamento	1	3	4				32	81	92	
 lat-phn	Latin	Phoenician	7	20	16						
-lat-pol	Latin	Polish	915	3630	3864				96701	789155	847163	
-lat-por	Latin	Portuguese	5001	39152	53489	8304	64979	88937	298788	2123787	2520115	
 lat-qya	Latin	Quenya	2	5	6						
 lat-ron	Latin	Romanian	65	454	581	2	8	10	199731	1452025	1903132	
-lat-rus	Latin	Russian	1041	4728	4920	1035	4803	4976	91669	761064	785894	
 lat-sco	Latin	Scots	4	13	22				56	183	201	
 lat-sjn	Latin	Sindarin	12	33	31	5	12	12			
 lat-slv	Latin	Slovenian	15	44	42				61408	613627	712490	
-lat-spa	Latin	Spanish	3129	22360	28359	1068	7410	9310	530920	3707822	4475984	
 lat-stq	Latin	Saterfriesisch	1	3	3						
 lat-swe	Latin	Swedish	6	21	26				88200	777901	983206	
 lat-swg	Latin	Swabian	1	2	3						
 lat-tat	Latin	Tatar	1	3	2				5448	9519	10390	
 lat-tgl	Latin	Tagalog	2	13	18				67665	589086	857613	
-lat-tlh	Latin	Klingon	233	800	663	30	104	92	16	24	18	
 lat-tmr	Latin	Jewish Babylonian Aramaic (ca. 200-1200 CE)	26	141	113	6	21	19			
 lat-toki	Latin	Toki Pona	62	275	532	8	25	43			
 lat-tuk	Latin	Turkmen	1	3	2				326	710	753	
 lat-tur	Latin	Turkish	122	501	480	12	35	38	211794	1453512	1273963	
 lat-tzl	Latin	Talossan	57	172	226	13	49	67			
-lat-ukr	Latin	Ukrainian	382	1435	1548	8	25	26	57444	271134	249772	
 lat-vie	Latin	Vietnamese	1	2	4				62523	1099180	1773342	
 lat-vol	Latin	Volapük	97	280	280	10	36	33			
-lat-yid	Latin	Yiddish	458	1677	2278	78	281	385	10750	23231	92951	
 lat-zho	Latin	Chinese	175	649	179	1	3	1	75763	527546	773985	
 lav-lav	Latvian	Latvian	9	33	33				26047	118838	118792	
 lav-lit	Latvian	Lithuanian	2	9	9				18694618	266184651	257628630	
 lav-mkd	Latvian	Macedonian	2	9	9				1706568	20403194	20253699	
 lav-nld	Latvian	Dutch	1	4	6				18589778	265722896	321472016	
 lav-pol	Latvian	Polish	31	146	137				19649788	275828344	286237486	
-lav-rus	Latvian	Russian	274	1175	1190				12923057	173693690	153901692	
 lav-sah	Latvian	Yakut	1	4	4				586	3697	3746	
 lav-slv	Latvian	Slovenian	1	5	6				15462811	221323452	239296982	
 lav-spa	Latvian	Spanish	58	246	282				22867004	321481154	406195897	
@@ -3064,13 +2538,10 @@ lfn-osp	Lingua Franca Nova	Old Spanish	4	16	16	2	8	8
 lfn-ota	Lingua Franca Nova	Ottoman Turkish (1500-1928)	2	8	9						
 lfn-pap	Lingua Franca Nova	Papiamento	1	3	4						
 lfn-phn	Lingua Franca Nova	Phoenician	5	19	13						
-lfn-por	Lingua Franca Nova	Portuguese	1945	22959	21512	997	10325	9419			
 lfn-qya	Lingua Franca Nova	Quenya	7	32	22	2	8	6			
 lfn-ron	Lingua Franca Nova	Romanian	9	41	39						
-lfn-rus	Lingua Franca Nova	Russian	225	1538	1124	26	212	164			
 lfn-sjn	Lingua Franca Nova	Sindarin	26	104	61	6	27	14			
 lfn-slv	Lingua Franca Nova	Slovenian	4	16	12						
-lfn-spa	Lingua Franca Nova	Spanish	264	1519	1403	46	370	347			
 lfn-stq	Lingua Franca Nova	Saterfriesisch	3	15	15						
 lfn-swe	Lingua Franca Nova	Swedish	3	22	18						
 lfn-swg	Lingua Franca Nova	Swabian	1	3	3						
@@ -3083,7 +2554,6 @@ lfn-tzl	Lingua Franca Nova	Talossan	111	522	452	19	87	83
 lfn-ukr	Lingua Franca Nova	Ukrainian	42	195	141	9	41	30			
 lfn-vie	Lingua Franca Nova	Vietnamese	1	4	6						
 lfn-vol	Lingua Franca Nova	Volapük	129	576	416	19	84	61			
-lfn-yid	Lingua Franca Nova	Yiddish	993	4924	4898	244	1317	1280			
 lfn-zho	Lingua Franca Nova	Chinese	5	22	5						
 lij-lij	Ligurian	Ligurian	7	45	44						
 lij-tmr	Ligurian	Jewish Babylonian Aramaic (ca. 200-1200 CE)	1	3	2						
@@ -3102,18 +2572,14 @@ lit-mkd	Lithuanian	Macedonian	2	9	9				2809082	29218995	35797072
 lit-msa	Lithuanian	Malay (macrolanguage)	4	18	21				8309603	87159040	98227589	
 lit-nds	Lithuanian	Low German	2	12	12				104199	372461	376365	
 lit-nld	Lithuanian	Dutch	3	10	13				20934274	277201446	352947997	
-lit-pol	Lithuanian	Polish	1787	8044	8474				23786757	307173732	336661018	
 lit-por	Lithuanian	Portuguese	73	331	415				23443506	300905005	394384499	
-lit-rus	Lithuanian	Russian	3598	16217	17380	5230	23786	25499	18115912	199902420	215764447	
 lit-sah	Lithuanian	Yakut	1	4	4				497	3442	3542	
 lit-slv	Lithuanian	Slovenian	14	61	54				17383497	235341887	260081521	
-lit-spa	Lithuanian	Spanish	454	1824	2247	1	4	5	37797104	406732378	550681933	
 lit-swe	Lithuanian	Swedish	1	5	5				19168587	256502432	292691381	
 lit-tat	Lithuanian	Tatar	2	9	8				236288	2747189	2627623	
 lit-tha	Lithuanian	Thai	3	4	3				2011765	26277686	9899627	
 lit-toki	Lithuanian	Toki Pona	4	16	20	1	4	3			
 lit-tuk	Lithuanian	Turkmen	1	4	4				134123	1501328	1412308	
-lit-tur	Lithuanian	Turkish	1472	6538	6006				11214365	91087492	89202309	
 lit-tzl	Lithuanian	Talossan	2	6	10						
 lit-ukr	Lithuanian	Ukrainian	3	15	18				5372979	58218480	61543457	
 lit-uzb	Lithuanian	Uzbek	1	4	4				84499	353101	338198	
@@ -3128,7 +2594,6 @@ lmo-osp	Lombard	Old Spanish	1	10	10
 ltz-ltz	Luxembourgish	Luxembourgish	6	30	31						
 ltz-mri	Luxembourgish	Maori	1	4	3				458	972	1062	
 ltz-nds	Luxembourgish	Low German	3	15	16				13553	41826	31695	
-ltz-nld	Luxembourgish	Dutch	292	1313	1346	16	76	73	595456	4411632	4701615	
 ltz-nor	Luxembourgish	Norwegian	2	5	5				282407	2101391	2020708	
 ltz-nov	Luxembourgish	Novial	3	16	13						
 ltz-pap	Luxembourgish	Papiamento	1	3	4				98	275	361	
@@ -3163,7 +2628,6 @@ mkd-por	Macedonian	Portuguese	3	14	18				6397710	47442470	50665304
 mkd-ron	Macedonian	Romanian	1	4	5				6117772	65136410	69837010	
 mkd-rus	Macedonian	Russian	3	12	10	1	13	8	7359325	81762051	72691936	
 mkd-slv	Macedonian	Slovenian	115	464	382				4609757	47819008	43858311	
-mkd-spa	Macedonian	Spanish	217	844	891	3	17	22	9309474	101498598	110756595	
 mkd-swe	Macedonian	Swedish	1	4	3				4659860	49085126	47929407	
 mkd-tat	Macedonian	Tatar	1	4	4				219688	3302477	2684758	
 mkd-toki	Macedonian	Toki Pona	2	18	30						
@@ -3183,7 +2647,6 @@ mon-spa	Mongolian	Spanish	66	332	359				565861	5095946	6751339
 mon-zho	Mongolian	Chinese	23	137	23				162893	1183161	439010	
 mri-nld	Maori	Dutch	3	10	11				101596	2103028	1698490	
 mri-tur	Maori	Turkish	2	13	7				110659	2192596	1327938	
-msa-msa	Malay (macrolanguage)	Malay (macrolanguage)	958	5395	5396	16	106	106	26590210	256603487	256231732	
 msa-nld	Malay (macrolanguage)	Dutch	53	309	351				23743730	256368015	280720180	
 msa-nor	Malay (macrolanguage)	Norwegian	3	28	33				11028887	138097354	144425758	
 msa-pap	Malay (macrolanguage)	Papiamento	2	6	8				333862	4510101	5881776	
@@ -3192,14 +2655,12 @@ msa-por	Malay (macrolanguage)	Portuguese	98	478	521				45874695	444376961	496273
 msa-ron	Malay (macrolanguage)	Romanian	2	33	37				19271146	185765383	210930488	
 msa-rus	Malay (macrolanguage)	Russian	98	581	524	4	25	23	27963835	267918559	256189506	
 msa-san	Malay (macrolanguage)	Sanskrit	4	12	10				2346	7005	4816	
-msa-spa	Malay (macrolanguage)	Spanish	232	1149	1174				56886826	601723639	699837940	
 msa-tgl	Malay (macrolanguage)	Tagalog	1	3	4				3508984	40872993	48955646	
 msa-toki	Malay (macrolanguage)	Toki Pona	1	5	15						
 msa-tur	Malay (macrolanguage)	Turkish	55	314	259				26959363	263623325	225074841	
 msa-ukr	Malay (macrolanguage)	Ukrainian	12	87	83				5880206	71228897	66935141	
 msa-urd	Malay (macrolanguage)	Urdu	1	2	3				3636258	49762971	60927322	
 msa-vie	Malay (macrolanguage)	Vietnamese	32	159	196				21960563	275721005	403324513	
-msa-zho	Malay (macrolanguage)	Chinese	372	2320	399	8	42	8	16343358	139876626	27933996	
 mus-mus	Creek	Creek	2	15	15						
 mwl-por	Mirandese	Portuguese	2	6	6				43420	956384	925665	
 mya-mya	Burmese	Burmese	2	6	7						
@@ -3208,15 +2669,11 @@ mya-tha	Burmese	Thai	2	4	2				478014	5790321	3942479
 mya-zho	Burmese	Chinese	17	68	18				206044	1345114	1184467	
 nah-spa	Nahuatl languages	Spanish	132	805	1045				12	305	349	
 nch-spa	Central Huasteca Nahuatl	Spanish	46	131	169				32584	369352	480869	
-nds-nld	Low German	Dutch	1657	9727	9636	1013	5834	5786	245774	1248103	1243582	
 nds-nor	Low German	Norwegian	53	300	281				339415	1436744	1392509	
 nds-nov	Low German	Novial	2	10	12						
 nds-pol	Low German	Polish	70	388	304				147810	767895	697304	
-nds-por	Low German	Portuguese	207	1051	1011				266802	1428316	1637675	
 nds-ron	Low German	Romanian	1	4	3				151304	639375	680291	
-nds-rus	Low German	Russian	925	5213	4338	36	212	182	129512	646171	574404	
 nds-slv	Low German	Slovenian	9	55	36				112882	473681	450482	
-nds-spa	Low German	Spanish	923	4883	4521				159019	872585	996202	
 nds-stq	Low German	Saterfriesisch	1	8	8						
 nds-swg	Low German	Swabian	14	223	182						
 nds-tlh	Low German	Klingon	4	20	16				13	22	15	
@@ -3227,22 +2684,15 @@ nds-vol	Low German	Volapük	1	5	5
 nds-yid	Low German	Yiddish	18	102	107				28473	120025	121811	
 nds-zea	Low German	Zeeuws	2	12	12						
 nds-zho	Low German	Chinese	61	295	62	1	6	1	211690	798305	392573	
-nld-nld	Dutch	Dutch	1000	5963	6063	1031	5857	5900	35210723	212993253	213022413	
-nld-nor	Dutch	Norwegian	203	1271	1207	1	5	5	35533677	476551694	447919672	
 nld-nov	Dutch	Novial	9	39	36						
 nld-oci	Dutch	Occitan (post 1500)	62	348	351				109515	402790	423136	
 nld-ofs	Dutch	Old Frisian	10	86	83						
 nld-pap	Dutch	Papiamento	54	177	187				300657	5013529	5476343	
 nld-phn	Dutch	Phoenician	2	6	4						
-nld-pol	Dutch	Polish	1193	7250	5634	1006	6068	4699	80521905	934811832	807105600	
-nld-por	Dutch	Portuguese	2500	14927	14374	4882	29710	28395	116758221	1466954728	1495165247	
-nld-ron	Dutch	Romanian	2269	14034	12733	1048	6316	5702	53291318	606995615	618120820	
-nld-rus	Dutch	Russian	2550	15723	12687	6526	39630	31998	48300917	498902409	437573614	
 nld-scn	Dutch	Sicilian	1	4	5				2149	13543	14420	
 nld-sco	Dutch	Scots	2	15	13				508	4601	4883	
 nld-sjn	Dutch	Sindarin	1	9	5						
 nld-slv	Dutch	Slovenian	9	32	28				33849473	440622800	378917434	
-nld-spa	Dutch	Spanish	10113	67398	63277	18068	119675	112437	124489314	1808521045	1928485736	
 nld-sqi	Dutch	Albanian	3	15	14				3481379	34885678	36652105	
 nld-stq	Dutch	Saterfriesisch	26	137	133	3	11	11			
 nld-sux	Dutch	Sumerian	2	8	16						
@@ -3253,39 +2703,29 @@ nld-tat	Dutch	Tatar	119	623	463				282116	4440547	3355794
 nld-tkl	Dutch	Tokelau	1	6	6						
 nld-tlh	Dutch	Klingon	166	918	518	8	41	27	122	2391	1340	
 nld-tmr	Dutch	Jewish Babylonian Aramaic (ca. 200-1200 CE)	6	27	17						
-nld-toki	Dutch	Toki Pona	668	2982	4278	5	25	46			
 nld-tuk	Dutch	Turkmen	1	6	3				134377	1961121	1408547	
-nld-tur	Dutch	Turkish	2500	15418	10624	3880	23964	16439	51207660	440019115	347629772	
 nld-tzl	Dutch	Talossan	29	118	137	3	12	15			
-nld-ukr	Dutch	Ukrainian	10000	49138	40087	5065	24919	20299	6836455	91720669	76470245	
 nld-uzb	Dutch	Uzbek	1	6	3				119878	921842	808647	
 nld-vie	Dutch	Vietnamese	39	256	323				18135776	193782723	254019795	
 nld-vol	Dutch	Volapük	11	49	43	1	6	6			
 nld-wln	Dutch	Walloon	87	341	400				97779	313732	381916	
 nld-yid	Dutch	Yiddish	151	719	750	22	92	98	88071	800228	925186	
 nld-zea	Dutch	Zeeuws	4	21	21				11	163	156	
-nld-zho	Dutch	Chinese	1654	11535	1890	56	282	56	19621838	185297678	35913682	
 nog-rus	Nogai	Russian	4	16	17						
 nog-tlh	Nogai	Klingon	1	3	2						
 nog-toki	Nogai	Toki Pona	1	3	4						
 nog-tur	Nogai	Turkish	7	20	17						
 nog-ukr	Nogai	Ukrainian	1	3	3						
 nog-yid	Nogai	Yiddish	1	3	5						
-nor-nor	Norwegian	Norwegian	982	5532	5519	272	1706	1734	1504286	8857669	8854546	
 nor-nov	Norwegian	Novial	1	4	4						
-nor-pol	Norwegian	Polish	281	1733	1470				22912084	246631841	226235145	
-nor-por	Norwegian	Portuguese	481	3472	3614	3	20	23	40056683	466275735	502568984	
 nor-qya	Norwegian	Quenya	2	8	6						
 nor-ron	Norwegian	Romanian	13	94	102				19680772	225337651	248258351	
-nor-rus	Norwegian	Russian	1279	10091	8763	1	4	4	13388553	116116814	106078363	
 nor-sco	Norwegian	Scots	2	50	64				871	6680	6962	
 nor-sjn	Norwegian	Sindarin	2	7	4						
 nor-slv	Norwegian	Slovenian	113	786	656				14583493	177589581	164118470	
 nor-sma	Norwegian	Southern Sami	2	13	9						
 nor-sme	Norwegian	Northern Sami	2	13	9				38415	157875	132861	
-nor-spa	Norwegian	Spanish	960	6144	6228	6	32	32	48733384	621857085	702776054	
 nor-sux	Norwegian	Sumerian	1	10	10						
-nor-swe	Norwegian	Swedish	566	3097	3091	4	24	25	43150787	566105714	556421137	
 nor-tat	Norwegian	Tatar	5	80	44				262596	4173567	2943705	
 nor-tgl	Norwegian	Tagalog	1	5	7				1863211	27957176	31105086	
 nor-tlh	Norwegian	Klingon	10	48	31				161	2388	1534	
@@ -3293,11 +2733,9 @@ nor-tmr	Norwegian	Jewish Babylonian Aramaic (ca. 200-1200 CE)	1	4	2
 nor-toki	Norwegian	Toki Pona	12	76	75						
 nor-tur	Norwegian	Turkish	91	496	367	1	6	5	15910444	157978563	130682313	
 nor-tzl	Norwegian	Talossan	3	12	16						
-nor-ukr	Norwegian	Ukrainian	670	3669	3189				5357328	71777482	62745135	
 nor-vep	Norwegian	Veps	4	63	55						
 nor-vol	Norwegian	Volapük	3	12	9						
 nor-yid	Norwegian	Yiddish	4	15	17				148434	737591	977970	
-nor-zho	Norwegian	Chinese	201	1351	201				8971831	76615714	15758968	
 nov-nov	Novial	Novial	12	51	58						
 nov-osp	Novial	Old Spanish	1	4	4						
 nov-por	Novial	Portuguese	9	34	39				1	9	6	
@@ -3337,7 +2775,6 @@ ori-rus	Oriya (macrolanguage)	Russian	3	9	7				20680	88344	79007
 orv-pol	Old Russian	Polish	7	23	27						
 orv-rus	Old Russian	Russian	171	954	992						
 orv-spa	Old Russian	Spanish	33	108	137						
-orv-ukr	Old Russian	Ukrainian	973	3992	4224						
 osp-por	Old Spanish	Portuguese	2	8	8						
 osp-qya	Old Spanish	Quenya	1	4	3						
 osp-rus	Old Spanish	Russian	1	4	2						
@@ -3353,7 +2790,6 @@ osp-yid	Old Spanish	Yiddish	5	20	21
 oss-rus	Ossetian	Russian	87	368	354				67780	508719	504835	
 ota-ota	Ottoman Turkish (1500-1928)	Ottoman Turkish (1500-1928)	38	233	190						
 ota-rus	Ottoman Turkish (1500-1928)	Russian	1	2	4						
-ota-tur	Ottoman Turkish (1500-1928)	Turkish	307	1627	1412	24	134	117			
 ota-tzl	Ottoman Turkish (1500-1928)	Talossan	8	32	36						
 ota-yid	Ottoman Turkish (1500-1928)	Yiddish	10	39	44						
 otk-otk	Old Turkish	Old Turkish	1	1	3						
@@ -3378,57 +2814,40 @@ pms-spa	Piemontese	Spanish	149	1012	874				52	303	334
 pms-swa	Piemontese	Swahili (macrolanguage)	11	38	28				26	138	114	
 pms-zho	Piemontese	Chinese	4	29	4				60	261	95	
 pol-pol	Polish	Polish	157	731	731				157527054	744676960	744629349	
-pol-por	Polish	Portuguese	705	3448	4229				121613981	1090895278	1292246452	
 pol-prg	Polish	Prussian	144	877	950						
 pol-rom	Polish	Romany	10	40	46				6414	112689	148202	
 pol-ron	Polish	Romanian	177	742	810				59417861	561020089	675856475	
-pol-rus	Polish	Russian	3543	17118	17565	1015	4985	5120	61733651	550432141	558863764	
 pol-scn	Polish	Sicilian	2	9	10				2281	12341	14785	
 pol-slv	Polish	Slovenian	183	765	795				42783341	427225238	431093261	
-pol-spa	Polish	Spanish	2544	12738	15163	5075	25773	30627	109213032	1123392187	1382806456	
 pol-swa	Polish	Swahili (macrolanguage)	1	14	12				2646667	31354949	34760907	
-pol-swe	Polish	Swedish	1392	6510	7798	11	30	43	58775791	626992650	660752439	
 pol-tat	Polish	Tatar	159	589	578				267679	3164527	3053079	
 pol-tgl	Polish	Tagalog	25	99	134				1966133	21911557	29602312	
 pol-tlh	Polish	Klingon	13	52	41				126	1838	1386	
 pol-toki	Polish	Toki Pona	20	86	141						
 pol-tuk	Polish	Turkmen	2	4	3				135124	1520732	1421158	
-pol-tur	Polish	Turkish	892	4379	3900				54918111	385748655	359041398	
 pol-tzl	Polish	Talossan	1	4	4						
 pol-uig	Polish	Uighur	23	86	87				14040	163682	185112	
-pol-ukr	Polish	Ukrainian	2519	10308	10554	6898	27996	28750	10070070	117241296	116638442	
 pol-urd	Polish	Urdu	3	8	11				904845	12577414	18313072	
 pol-uzb	Polish	Uzbek	4	15	13				97479	518093	514278	
 pol-vie	Polish	Vietnamese	38	190	308				12846333	138796779	214653716	
 pol-yid	Polish	Yiddish	19	84	99				25786	80893	393273	
-pol-zho	Polish	Chinese	1004	5429	1012	2	11	2	19688440	149252961	36327453	
-por-por	Portuguese	Portuguese	2500	16799	16318	4668	31041	30052	295005671	1639705735	1639565010	
 por-qya	Portuguese	Quenya	1	4	3						
 por-roh	Portuguese	Romansh	1	2	4				40088	314895	334848	
-por-ron	Portuguese	Romanian	681	3766	3687	31	161	150	100215551	1009753395	1023910850	
-por-rus	Portuguese	Russian	10000	62618	52174	10050	65095	54016	73050883	859083367	741069023	
 por-sjn	Portuguese	Sindarin	4	14	9						
 por-slv	Portuguese	Slovenian	6	22	17				51655346	578503259	486243044	
 por-sme	Portuguese	Northern Sami	3	11	12				36095	182994	129417	
-por-spa	Portuguese	Spanish	10947	74023	73888	56853	373767	373214	333782720	4835826851	5051391763	
 por-sqi	Portuguese	Albanian	6	29	29				5528112	47089003	49764146	
 por-stq	Portuguese	Saterfriesisch	2	10	6						
 por-swa	Portuguese	Swahili (macrolanguage)	71	377	296				5280612	68003248	65160637	
-por-swe	Portuguese	Swedish	320	1677	1599	13	77	68	81841206	1016027441	914331101	
 por-swg	Portuguese	Swabian	1	3	3						
 por-tat	Portuguese	Tatar	28	300	243				272282	4108772	3048817	
-por-tgl	Portuguese	Tagalog	1777	10677	11473	2	12	12	2382839	32370743	35680768	
 por-tlh	Portuguese	Klingon	29	128	74	3	16	9	195	3317	1891	
 por-tmr	Portuguese	Jewish Babylonian Aramaic (ca. 200-1200 CE)	5	36	23	1	4	2			
-por-toki	Portuguese	Toki Pona	1719	11414	16030	485	4220	6238			
-por-tur	Portuguese	Turkish	1794	9860	7254	9	49	33	91166415	719380015	564464165	
 por-tzl	Portuguese	Talossan	24	110	112	1	4	5			
 por-uig	Portuguese	Uighur	1	3	3				19824	206163	215542	
-por-ukr	Portuguese	Ukrainian	3372	17495	14867	1025	5450	4622	9373491	131484087	109336097	
 por-vie	Portuguese	Vietnamese	18	101	123				19024137	205571719	264941380	
 por-vol	Portuguese	Volapük	20	85	65	2	13	6			
 por-yid	Portuguese	Yiddish	138	662	692	22	116	119	28529	109886	540779	
-por-zho	Portuguese	Chinese	1033	5829	1047	3	19	3	37752011	361191267	67633090	
 prg-spa	Prussian	Spanish	24	133	146						
 pus-tur	Pushto	Turkish	1	3	2				129254	1777070	1334608	
 que-spa	Quechua	Spanish	162	516	693	1	3	3	152306	1497816	2410986	
@@ -3454,15 +2873,12 @@ rom-tur	Romany	Turkish	2	5	5				5999	138545	91492
 rom-urd	Romany	Urdu	2	6	8				3731	139311	206956	
 rom-zho	Romany	Chinese	1	4	1				6400	135203	159849	
 ron-ron	Romanian	Romanian	10	78	76				98828073	555467457	555358607	
-ron-rus	Romanian	Russian	782	3862	3500	7	28	24	22601817	185196822	161763823	
 ron-slv	Romanian	Slovenian	1	4	3				32105745	397045327	333057538	
-ron-spa	Romanian	Spanish	1959	10242	10415	4	32	33	110068108	1254654983	1299641828	
 ron-swa	Romanian	Swahili (macrolanguage)	2	39	26				1469921	22666350	20150637	
 ron-swe	Romanian	Swedish	1	4	4				34281565	450046891	398754031	
 ron-tat	Romanian	Tatar	1	5	4				264663	4118880	3039496	
 ron-tlh	Romanian	Klingon	6	21	21				111	1915	1223	
 ron-tuk	Romanian	Turkmen	1	5	4				136336	1995874	1431354	
-ron-tur	Romanian	Turkish	2460	15909	11072	1010	6468	4443	43254953	349732336	265546760	
 ron-tzl	Romanian	Talossan	2	6	6						
 ron-ukr	Romanian	Ukrainian	2	11	10				6749341	95416819	77541224	
 ron-vie	Romanian	Vietnamese	1	10	10				10414919	135086314	174055108	
@@ -3471,42 +2887,26 @@ ron-yid	Romanian	Yiddish	16	47	62	2	7	8	57237	266486	548088
 ron-yor	Romanian	Yoruba	1	17	28				523048	8646774	10340497	
 ron-zho	Romanian	Chinese	36	234	36				17784163	151908681	29969768	
 rue-spa	Rusyn	Spanish	97	220	370						
-run-rus	Rundi	Russian	1251	3721	5103	9	30	41	358047	5113877	4543364	
-run-spa	Rundi	Spanish	963	2857	4132	2	7	9	358514	5189021	5984148	
 run-swa	Rundi	Swahili (macrolanguage)	133	338	359				377390	5280320	5321973	
-rus-rus	Russian	Russian	2500	13312	13464	1406	7789	7953	3698653	33317391	29023134	
-rus-sah	Russian	Yakut	994	5075	3851				6555	88082	71032	
 rus-scn	Russian	Sicilian	1	4	5				2131	12861	14186	
 rus-shs	Russian	Shuswap	7	24	28				5	22	5	
 rus-sjn	Russian	Sindarin	13	34	34						
-rus-slv	Russian	Slovenian	657	3154	3088	45	223	209	25884431	220917498	221922159	
-rus-spa	Russian	Spanish	10506	55455	63291	86903	462151	526898	117477558	1696094783	2129380520	
 rus-stq	Russian	Saterfriesisch	2	9	12						
 rus-sux	Russian	Sumerian	4	8	12						
 rus-swa	Russian	Swahili (macrolanguage)	10	56	49	1	5	7	2963531	34725620	36571494	
-rus-swe	Russian	Swedish	1282	6049	7022	52	246	291	32070553	281937134	297116709	
 rus-swg	Russian	Swabian	1	2	3						
 rus-tah	Russian	Tahitian	1	2	3				441355	5984613	11607954	
-rus-tat	Russian	Tatar	2138	18367	17042	1005	8239	7642	357889	5603591	4708101	
 rus-tgl	Russian	Tagalog	59	275	337				2492646	27304723	36182195	
-rus-tlh	Russian	Klingon	254	1027	730	6	22	18	134	2120	1311	
 rus-tmr	Russian	Jewish Babylonian Aramaic (ca. 200-1200 CE)	4	14	13						
-rus-toki	Russian	Toki Pona	900	4228	6618	20	135	215			
 rus-tuk	Russian	Turkmen	8	31	27				131840	1523499	1386106	
-rus-tur	Russian	Turkish	5000	26641	22885	6257	34066	29060	36690600	329076260	316161321	
 rus-tzl	Russian	Talossan	23	77	107	2	6	10			
 rus-udm	Russian	Udmurt	54	240	229	1	10	8	11121	132692	128300	
-rus-uig	Russian	Uighur	535	2688	2300				52178	2024871	1141781	
-rus-ukr	Russian	Ukrainian	10000	47786	47628	7427	36060	35936	33899654	473887815	469546128	
 rus-urd	Russian	Urdu	8	35	42				2683707	41398092	47691386	
 rus-uzb	Russian	Uzbek	152	727	614				167377	2407870	1568762	
-rus-vie	Russian	Vietnamese	313	1740	2192	1	12	17	15233193	177326722	270908825	
 rus-vol	Russian	Volapük	58	227	203	12	50	40			
-rus-xal	Russian	Kalmyk	209	1076	1013				26	47	42	
 rus-xho	Russian	Xhosa	1	6	5				952721	10847811	9705830	
 rus-yid	Russian	Yiddish	198	807	1083	24	87	117	21119	77855	580213	
 rus-yor	Russian	Yoruba	1	18	28				514489	6611677	10256448	
-rus-zho	Russian	Chinese	2500	13724	2526	4844	26485	4943	46782394	740217931	80393952	
 sah-tur	Yakut	Turkish	8	23	20				525	3326	3149	
 sah-zho	Yakut	Chinese	4	9	4				1088	5366	1624	
 scn-spa	Sicilian	Spanish	4	27	28				2216	14891	15684	
@@ -3538,43 +2938,30 @@ slv-tlh	Slovenian	Klingon	1	3	2				85	1038	736
 slv-toki	Slovenian	Toki Pona	1	3	4						
 slv-tur	Slovenian	Turkish	22	97	77	1	3	3	22146902	162319421	148603118	
 slv-tzl	Slovenian	Talossan	2	6	6						
-slv-ukr	Slovenian	Ukrainian	915	3183	3239	49	203	204	6741900	66902396	62645964	
 slv-vie	Slovenian	Vietnamese	8	27	50				7561468	82191476	123467219	
 slv-vol	Slovenian	Volapük	1	3	3						
 slv-yid	Slovenian	Yiddish	9	25	37				49457	216627	511796	
-slv-zho	Slovenian	Chinese	825	3878	828				11534402	75891114	19642908	
 sme-spa	Northern Sami	Spanish	14	48	54				18219	64631	88907	
 sme-swe	Northern Sami	Swedish	4	18	19				17809	63915	74686	
 som-tur	Somali	Turkish	8	34	26				257641	3570516	2953470	
-spa-spa	Spanish	Spanish	2500	18308	18372	2566	18859	18979	88064723	485068969	485011183	
 spa-sqi	Spanish	Albanian	4	18	19				14058902	171656634	174438247	
 spa-stq	Spanish	Saterfriesisch	4	22	23						
 spa-sux	Spanish	Sumerian	160	645	943						
 spa-swa	Spanish	Swahili (macrolanguage)	51	210	150	5	27	18	8601600	111450790	103921913	
-spa-swe	Spanish	Swedish	1351	6783	6919	204	1070	1156	79447560	1120140552	960711678	
 spa-tam	Spanish	Tamil	16	64	67				9883016	107514917	77419367	
-spa-tat	Spanish	Tatar	441	1957	1498	4	98	64	267907	4153209	3042085	
 spa-tel	Spanish	Telugu	23	73	58				682277	11133055	8009500	
 spa-tet	Spanish	Tetum	1	8	8				358	6377	6331	
-spa-tgl	Spanish	Tagalog	631	3628	3713	15	96	93	2543036	36173627	37998096	
 spa-tha	Spanish	Thai	80	456	109				7818110	105309200	30856607	
-spa-tlh	Spanish	Klingon	325	1531	994	10	43	31	151	2531	1441	
 spa-tmr	Spanish	Jewish Babylonian Aramaic (ca. 200-1200 CE)	10	61	37						
-spa-toki	Spanish	Toki Pona	640	2951	4458	31	307	386			
 spa-ton	Spanish	Tonga (Tonga Islands)	3	7	7				317190	5403346	6520907	
 spa-tpw	Spanish	Tupí	7	18	16						
-spa-tur	Spanish	Turkish	10615	57654	44042	18213	97772	74811	67971005	602737397	458086521	
 spa-tzl	Spanish	Talossan	121	359	322	8	30	35			
 spa-uig	Spanish	Uighur	120	538	418				102264	607210	504655	
-spa-ukr	Spanish	Ukrainian	10115	48409	42737	12969	62803	55076	12819049	187864606	149254741	
-spa-vie	Spanish	Vietnamese	594	3156	4017	8	33	31	41113753	510567868	635879561	
 spa-vol	Spanish	Volapük	61	286	218	2	12	9	2	14	11	
 spa-wln	Spanish	Walloon	7	23	25				135943	511313	477013	
 spa-wol	Spanish	Wolof	10	43	34				33579	248517	251706	
 spa-xal	Spanish	Kalmyk	4	13	13				44	101	69	
-spa-yid	Spanish	Yiddish	407	1990	2119	43	247	266	25718	99815	565496	
 spa-zea	Spanish	Zeeuws	2	14	13						
-spa-zho	Spanish	Chinese	2705	14566	2738	6922	38228	7013	63850602	1240418315	107260179	
 sqi-swa	Albanian	Swahili (macrolanguage)	1	5	3				1171490	18339934	15765620	
 sqi-tur	Albanian	Turkish	2	9	5				11130370	115699572	85598068	
 sqi-zho	Albanian	Chinese	31	160	32				1935306	13672347	3940645	
@@ -3593,18 +2980,15 @@ swa-swe	Swahili (macrolanguage)	Swedish	4	8	12				2396274	32123031	33247699
 swa-toki	Swahili (macrolanguage)	Toki Pona	2	2	7						
 swa-tur	Swahili (macrolanguage)	Turkish	15	31	36				4718959	52560803	42801910	
 swa-ukr	Swahili (macrolanguage)	Ukrainian	1	19	27				1691641	22644524	19439118	
-swe-swe	Swedish	Swedish	1022	5574	5765				6434320	36171441	36152817	
 swe-tat	Swedish	Tatar	2	10	8				257109	3979723	2947897	
 swe-tlh	Swedish	Klingon	2	13	9				132	2228	1433	
 swe-tmr	Swedish	Jewish Babylonian Aramaic (ca. 200-1200 CE)	1	9	5						
 swe-toki	Swedish	Toki Pona	3	17	22						
-swe-tur	Swedish	Turkish	203	1117	778	6	25	19	35260202	291752179	249099340	
 swe-tzl	Swedish	Talossan	3	22	22						
 swe-ukr	Swedish	Ukrainian	4	16	15				5947377	75666262	67690156	
 swe-vep	Swedish	Veps	1	24	21						
 swe-vol	Swedish	Volapük	3	22	17						
 swe-yid	Swedish	Yiddish	21	99	112	1	4	4	58869	235301	541654	
-swe-zho	Swedish	Chinese	1049	5107	1051	2	17	2	15036092	128433213	27570792	
 swg-tlh	Swabian	Klingon	1	3	2						
 swg-toki	Swabian	Toki Pona	26	162	266						
 swg-tur	Swabian	Turkish	1	5	4						
@@ -3613,11 +2997,9 @@ swg-yid	Swabian	Yiddish	10	63	65	1	3	3
 syr-tur	Syriac	Turkish	1	2	3				7620	103667	114337	
 tat-tat	Tatar	Tatar	6	46	46						
 tat-tuk	Tatar	Turkmen	2	13	13				127688	1414665	1369445	
-tat-tur	Tatar	Turkish	521	2268	2149	2	9	9	333474	4326774	3946983	
 tat-udm	Tatar	Udmurt	1	8	8				10939	123637	127844	
 tat-ukr	Tatar	Ukrainian	144	553	610				263617	3058881	2991251	
 tat-uzb	Tatar	Uzbek	2	8	8				21296	195781	176848	
-tat-vie	Tatar	Vietnamese	284	1419	1976				233749	2759005	4642111	
 tat-vol	Tatar	Volapük	3	12	16						
 tat-yid	Tatar	Yiddish	2	6	10				5271	10690	10224	
 tat-zho	Tatar	Chinese	65	218	65				38228	358609	52581	
@@ -3638,8 +3020,6 @@ tlh-tur	Klingon	Turkish	27	85	97	4	13	15	114	1296	1445
 tlh-tzl	Klingon	Talossan	42	121	174	5	12	16			
 tlh-ukr	Klingon	Ukrainian	18	68	71	1	2	4	137	1346	2008	
 tlh-vol	Klingon	Volapük	67	162	203	9	31	32			
-tlh-yid	Klingon	Yiddish	289	836	1308	49	151	233	3	3	4	
-tlh-zho	Klingon	Chinese	448	1477	461	1	4	1	134	832	286	
 tmr-tmr	Jewish Babylonian Aramaic (ca. 200-1200 CE)	Jewish Babylonian Aramaic (ca. 200-1200 CE)	1	2	2						
 tmr-toki	Jewish Babylonian Aramaic (ca. 200-1200 CE)	Toki Pona	4	11	20						
 tmr-tur	Jewish Babylonian Aramaic (ca. 200-1200 CE)	Turkish	6	16	18	1	2	2			
@@ -3660,18 +3040,13 @@ tuk-tur	Turkmen	Turkish	34	119	105				142458	1449098	1511635
 tuk-ukr	Turkmen	Ukrainian	2	8	9				137176	1424776	1435115	
 tuk-yid	Turkmen	Yiddish	1	3	6				8884	19513	22399	
 tuk-zho	Turkmen	Chinese	4	24	4				37730	107028	45228	
-tur-tur	Turkish	Turkish	2500	10426	10418	1187	5023	5056	56734692	252520393	252305715	
 tur-tyv	Turkish	Tuvinian	2	7	7				15486	174031	164482	
 tur-tzl	Turkish	Talossan	25	95	118	3	8	14			
-tur-uig	Turkish	Uighur	1400	6421	6252	1011	4648	4577	59614	1053090	1309435	
-tur-ukr	Turkish	Ukrainian	2520	9096	10159	6722	23932	27061	5628900	45860925	48805804	
 tur-urd	Turkish	Urdu	8	33	47				4517045	45846632	71695320	
-tur-uzb	Turkish	Uzbek	208	736	746	15	63	57	462052	4055106	4112632	
 tur-vie	Turkish	Vietnamese	36	165	299				14536959	141340871	229712492	
 tur-vol	Turkish	Volapük	17	55	62	2	7	9			
 tur-xqa	Turkish	Karakhanid	6	68	69						
 tur-yid	Turkish	Yiddish	158	548	777	26	95	143	24318	70831	388712	
-tur-zho	Turkish	Chinese	986	3700	991	9	31	9	20798951	133617630	37591128	
 tur-zza	Turkish	Zaza	34	122	163				1067	18287	12599	
 tzl-tzl	Talossan	Talossan	28	132	132						
 tzl-ukr	Talossan	Ukrainian	14	61	46	2	8	6			
@@ -3682,18 +3057,13 @@ uig-ukr	Uighur	Ukrainian	62	229	265				3217	25215	18167
 uig-uzb	Uighur	Uzbek	3	14	12				45439	266954	227642	
 uig-vie	Uighur	Vietnamese	9	32	51				4287	33171	39519	
 uig-yid	Uighur	Yiddish	3	12	15				26894	108438	121812	
-uig-zho	Uighur	Chinese	1929	8649	1980				20590	267177	29833	
-ukr-ukr	Ukrainian	Ukrainian	824	3318	3262				33863	181814	181949	
 ukr-vie	Ukrainian	Vietnamese	16	107	145				4187999	50449354	79070778	
 ukr-vol	Ukrainian	Volapük	6	22	23						
 ukr-yid	Ukrainian	Yiddish	73	265	349	9	35	51	21108	61694	354359	
-ukr-zho	Ukrainian	Chinese	1575	7198	1589	1	4	1	3910208	31571930	7465763	
 urd-urd	Urdu	Urdu	14	48	47				356757	11603319	11603325	
 uzb-vol	Uzbek	Volapük	1	4	5						
 uzb-yid	Uzbek	Yiddish	2	6	11				11595	29695	35571	
 uzb-zho	Uzbek	Chinese	39	135	39				101948	656726	167983	
-vie-vie	Vietnamese	Vietnamese	542	5506	5672				200801	1395527	1380473	
-vie-zho	Vietnamese	Chinese	440	4108	454	4	32	4	11160560	172908725	20150526	
 vol-vol	Volapük	Volapük	6	26	27						
 vol-yid	Volapük	Yiddish	149	504	683	16	64	82			
 vol-zho	Volapük	Chinese	2	9	2						
@@ -3701,9 +3071,7 @@ wol-wol	Wolof	Wolof	3	10	12
 xal-zho	Kalmyk	Chinese	30	126	31				84	126	99	
 xho-zul	Xhosa	Zulu	15	60	63				909488	9678736	9469945	
 xqa-xqa	Karakhanid	Karakhanid	5	39	42						
-yid-yid	Yiddish	Yiddish	292	1480	1489						
 yid-zho	Yiddish	Chinese	17	81	17	3	12	3	397903	1990651	484907	
 zea-zho	Zeeuws	Chinese	3	13	3						
 zgh-zgh	Standard Moroccan Tamazight	Standard Moroccan Tamazight	1	1	1						
-zho-zho	Chinese	Chinese	3114	3147	3217	5810	5860	5861	17413844	25512507	25518720	
 zza-zza	Zaza	Zaza	35	125	127						
