@@ -1,0 +1,963 @@
+run	spa	Ndanezerewe.	Estoy feliz.
+run	spa	Sinarinzi ko muri buhabe uyu munsi.	No sabía que estaría aquí hoy.
+run	spa	Aramukunda.	Él la ama.
+run	spa	Harashushe cane, sivyo?	Hace mucho calor, ¿verdad?
+run	spa	Sinzi ico nokora.	No sé qué hacer.
+run	spa	Yazunguje umutwe.	Él sacudió su cabeza.
+run	spa	Ni neza cane.	Está muy bien.
+run	spa	Sinshaka kubimenya.	No quiero saberlo.
+run	spa	Reka ndabe.	Déjame ver.
+run	spa	Murakoze cane kandi.	¡Gracias nuevamente!
+run	spa	Kira gitondo mva imuhira imbere y'isaha zibiri.	Cada mañana yo salgo de casa antes de las ocho en punto.
+run	spa	Ndazi ico nokora.	Yo sé lo que haría.
+run	spa	Ntiwitinye.	No seas tímido.
+run	spa	Ja hiyo!	¡Vete de aquí!
+run	spa	Ntitubizi.	No lo sabemos.
+run	spa	Nanje.	Yo también.
+run	spa	Ibi biro ni ivyande?	¿De quién es esta oficina?
+run	spa	Ndagukunda.	Te amo.
+run	spa	Simfise amahera.	No tengo dinero.
+run	spa	Ntanumwe abizi.	Nadie sabe.
+run	spa	Mushikanje asa na Mama.	Mi hermana se parece a mi madre.
+run	spa	Urakoze cane.	¡Muchas gracias!
+run	spa	Iri jambo ryamuka mu kigereki.	Esta palabra tiene origen griego.
+run	spa	Uri umugenzi wanje.	Eres mi amiga.
+run	spa	Yamukunze.	Él está enamorado de ella.
+run	spa	Ndi umwigisha.	Soy maestro.
+run	spa	Mfise benewacu.	Tengo hermanas.
+run	spa	Abavyeyi banje bampamagara kira munsi.	Mis padres me llaman todos los días.
+run	spa	Ndazi ico nzokora.	Sé lo que haré.
+run	spa	Uri umuntu mwiza.	Eres una buena persona.
+run	spa	Kubera iki wiga igifaransa?	¿Por qué estudias francés?
+run	spa	Uri umunyeshuri mwiza.	Eres un buen estudiante.
+run	spa	Ikosa ni iryande?	¿De quién es la culpa?
+run	spa	Ndibuka aho ubwambere.	Todavía me acuerdo de la primera vez.
+run	spa	Bimuha.	Dáselo.
+run	spa	Ni binini birenze?	¿Es demasiado grande?
+run	spa	Kubera iki ijuru risa n'ubururu?	¿Por qué es azul el cielo?
+run	spa	Ntanumwe antegura.	Nadie me entiende.
+run	spa	Simbikeneye.	No lo necesito.
+run	spa	Turabitegera.	Lo comprendemos.
+run	spa	Ntuza, sivyo?	No vienes, ¿verdad?
+run	spa	Ushaka kuja hehe?	¿Adónde quieres ir?
+run	spa	Iyo azakugira umwanya yari kugenda.	Si él hubiera tenido tiempo, habría ido.
+run	spa	Nagasaga!	¡Adiós!
+run	spa	Igituro ca bisi kiri iminota itanu uvuye ngaha.	La parada de autobús está a cinco minutos caminando desde aquí.
+run	spa	Iri terefone ni iryande?	¿De quién es ese teléfono?
+run	spa	Nta mahera yari agifise.	Se le acabó el dinero.
+run	spa	Kubera iki bataza?	¿Por qué no vienen?
+run	spa	Turi imuhira.	Estamos en casa.
+run	spa	Nyoko arihe?	¿Dónde está tu madre?
+run	spa	Ubu buriri ni ubwande?	¿De quién es esa cama?
+run	spa	Sintegera iri jambo.	No entiendo esta palabra.
+run	spa	Ni umunyeshuri mwiza.	Él es un buen estudiante.
+run	spa	Uteganya iki ku mpera z'indwi?	¿Qué planes tienes para el fin de semana?
+run	spa	Ndi umwigisha.	Soy maestra.
+run	spa	Ndazi ibikenewe gukorwa.	Sé lo que tengo que hacer.
+run	spa	Sinshaka kubisoma.	No quiero leerlo.
+run	spa	Ndamukunda.	Lo amo.
+run	spa	Urugendo rwiza!	¡Buen viaje!
+run	spa	Mbirizwa kwiga gifaransa.	Tengo que aprender francés.
+run	spa	Ntibintera iteka.	No estoy orgullosa de esto.
+run	spa	Siniyumva neza ngaha.	No me siento cómodo aquí.
+run	spa	Sohoka mu cumba canje!	¡Sal de mi habitación!
+run	spa	Iyo menya nari kugenda.	Si lo hubiese sabido, habría ido allí.
+run	spa	Urazi ko ndagukunda.	Tú sabes que te amo.
+run	spa	Sinzi iyo ngana.	No sé adónde ir.
+run	spa	Muri abana.	Sois niños.
+run	spa	Uko ni vyiza gusumba?	¿Está mejor?
+run	spa	Sindamuzi.	No le conozco.
+run	spa	Ngurisha impuzu ku murongo.	Vendo ropa por Internet.
+run	spa	Ipantalo yawe iranduye.	Tus pantalones están sucios.
+run	spa	Nagira ngo urashobora kubitegera.	Pensé que lo entenderías.
+run	spa	Ntituri twenyene.	No estamos solas.
+run	spa	Ndakunda ibiharuro.	Amo las matemáticas.
+run	spa	Sindi umunyeshuri.	No soy un estudiante.
+run	spa	Ndakunda ibiharuro.	Me gustan las matemáticas.
+run	spa	Ntubange ugutwi.	Tú no deberías escuchar a escondidas.
+run	spa	Niga igifaransa mw'ishure.	Estudio francés en la escuela.
+run	spa	Urarurumba.	Tienes fiebre.
+run	spa	Nturabe munsi.	No mires abajo.
+run	spa	Nagira ngo woba watashe.	Pensé que te habías ido de casa.
+run	spa	Ndazi Tom?	¿Conozco yo a Tom?
+run	spa	Ndi umunyeshuri muri kaminuza.	Soy estudiante de la universidad.
+run	spa	Injira.	Entre.
+run	spa	Narinzi ko vyogushimisha.	Sabía que te gustaría.
+run	spa	Iciyumviro nyabaki!	¡Qué pensamiento!
+run	spa	Hari ijana y'abantu mu ngoro.	Había un centenar de personas en el local.
+run	spa	Ndarurumba.	Tengo fiebre.
+run	spa	Ushaka kubimenya iki?	¿Qué quieres saber?
+run	spa	Usa n'umupolisi!	Pareces un policía.
+run	spa	Nirukiye kwa mama.	Corrí adonde mi madre.
+run	spa	Nta kamaro.	No es importante.
+run	spa	Ndashaka ko usoma iki gitabo.	Quiero que leas este libro.
+run	spa	Ndakunda imishatsi migufi.	Me gusta el cabello corto.
+run	spa	Aribungenze.	Ella está embarazada.
+run	spa	Kubera iki unkunda?	¿Por qué me amas?
+run	spa	Kubera iki utari kumwe na jewe?	¿Por qué no estás conmigo?
+run	spa	Sinzi ico novuga...	No sé qué decir...
+run	spa	Uyu muduga ni mwiza cane.	Ese es un coche muy bueno.
+run	spa	Mfise abakobwa batatu.	Tengo tres hijas.
+run	spa	So arihe?	¿Dónde está tu padre?
+run	spa	Nahabonye mwenewacu.	Vi a mi hermana allí.
+run	spa	Urazi nyene uyu muduga?	¿Sabes de quién es este carro?
+run	spa	Sinumva igifaransa.	No entiendo francés.
+run	spa	Kubera iki ndi ngaha?	¿Por qué estoy aquí?
+run	spa	Nta kibazo.	No hay problemas.
+run	spa	Baratuzi.	Ellos nos conocen.
+run	spa	Aranezerewe.	Él está feliz.
+run	spa	Nzokora igikenewe vyose.	Haré lo que sea necesario.
+run	spa	Kubera iki wiga muri kaminuza?	¿Por qué estudias?
+run	spa	Nzogenda n'umuduga.	Voy a coger mi coche.
+run	spa	Mbwirizwa gutunganya imishatsi yanje.	Tengo que arreglar mi cabello.
+run	spa	Ndashonje.	Tengo hambre.
+run	spa	Uramuzi?	¿Le conoces?
+run	spa	Murakoze cane.	Muchas gracias.
+run	spa	Ndashobore kubikoresha?	¿Puedo usar esto?
+run	spa	Nshaka ko utaha.	Quiero que te vayas a casa.
+run	spa	Ngurisha impuzu ku murongo.	Vendo ropa por internet.
+run	spa	Ndakunda kwiga igifaransa.	Me gusta estudiar francés.
+run	spa	Naganiriye vyose abavyeyi banje.	Se lo he contado todo a mis padres.
+run	spa	Uri umutetsi mwiza.	Eres un buen cocinero.
+run	spa	Ni bitoya birenze urugero.	Es demasiado pequeño.
+run	spa	Niibagiye kugura umukate.	Me he olvidado de comprar pan.
+run	spa	Ngiyo ifagitiri.	Aquí está la cuenta.
+run	spa	Nje kugutwara i muhira.	He venido para llevarte a casa.
+run	spa	Ngirango ntaza.	Quizá no venga.
+run	spa	Ndakunda umuryango wanje.	Quiero a mi familia.
+run	spa	Ndiko ndasoma igitabo.	Estoy leyendo un libro.
+run	spa	Bigurwa angahe?	¿Cuánto cuesta?
+run	spa	Ndazi aba bagore.	Conozco a estas mujeres.
+run	spa	Ndafise ubwato.	Tengo una barca.
+run	spa	Ipantalo yanje yajovye.	Mis pantalones están húmedos.
+run	spa	Ntitubwirizwe kubivugana ubu nyene.	No tenemos que hablar ahora mismo sobre eso, ¿a que no?
+run	spa	Bavuga ko atunze cane.	Dicen que él es muy rico.
+run	spa	Navyiyumviye.	Me lo he estado pensando.
+run	spa	Turanezerewe cane.	Estamos muy contentos.
+run	spa	Sinibagira na rimwe amaso.	Nunca olvido una cara.
+run	spa	Muzinaniye hehe?	¿De dónde se conocen el uno al otro?
+run	spa	Nta wundi muntu yarahari kiretse jewe.	No había nadie allí aparte de mí.
+run	spa	Urazi gutandukanya intama n'impene?	¿Puedes distinguir una cabra de un carnero?
+run	spa	Sinzi neza igifaransa.	No soy bueno con el francés.
+run	spa	Nzanira ingwa zibiri.	Traeme dos pedazos de tiza.
+run	spa	Harashushe cane ngaha.	Hace mucho calor aquí.
+run	spa	Ni umuntu mwiza.	Es una buena persona.
+run	spa	Ndazi igituma uri ngaha.	Sé por qué estás aquí.
+run	spa	Sinshaka gutunga.	No quiero ser rico.
+run	spa	Ndi umuhererezi.	Soy el benjamín de la familia.
+run	spa	Nturi mwenewacu.	Tú no eres mi hermano.
+run	spa	Nshaka kuganira nawe.	Quiero hablar contigo.
+run	spa	Nje gusezera.	He venido a decir adiós.
+run	spa	Korera iciza ababanka.	Haz bien a los que te odian.
+run	spa	Birera?	¿Es blanco?
+run	spa	Ntiwibagire gutwara ibaruwa.	No olvides mandar la carta.
+run	spa	Ndibaza ko ntegeye.	Creo que lo he entendido.
+run	spa	Bite! Urakomeye?	Hola, ¿qué tal?
+run	spa	Ntituri twenyene.	No estamos solos.
+run	spa	Iyi nyabu ni yanje.	Ésta es mi gata.
+run	spa	Ni ku wagatandatu.	Es sábado.
+run	spa	Ndakujana.	Yo te llevo.
+run	spa	Kubera iki tutabiraba?	¿Por qué no echamos un vistazo?
+run	spa	Umuduga urihe?	¿Dónde está el coche?
+run	spa	Niga igifaransa mw'ishure.	Aprendo francés en la escuela.
+run	spa	Urashaka kuba umutunzi?	¿Quieres ser rico?
+run	spa	Inzovu zirya ivyatsi.	Los elefantes comen pasto.
+run	spa	We si umwana.	Ella no es una niña.
+run	spa	Ntanumwe yakubajije.	A ti nadie te ha preguntado.
+run	spa	Vyibagire!	¡Olvídalo!
+run	spa	Uri mushasha?	¿Eres nueva?
+run	spa	Uragenda canke?	¿Vas o no?
+run	spa	Ni bitoya birenze?	¿Es demasiado pequeño?
+run	spa	Ja mu buriri!	Vete a la cama.
+run	spa	Yataye urupfunguzo rw'umuduga wiwe.	Ella ha perdido la llave de su coche.
+run	spa	Ndabitegera.	Lo comprendo.
+run	spa	Afise ibitabo amajana n'amajana.	Ella tiene cientos de libros.
+run	spa	Nzokunyara.	Te haré feliz.
+run	spa	Ni umufaransa.	Es francés.
+run	spa	Bikuvako.	Eso depende de ti.
+run	spa	Amahera yanje ari hehe?	¿Dónde está mi dinero?
+run	spa	Sinzi guteka.	No sé cocinar.
+run	spa	Umwigisha wanyu ni nde?	¿Quién es vuestro profesor?
+run	spa	Ni rwacu.	Es nuestro.
+run	spa	Reka kuvuga ivyo!	¡Para de decir eso!
+run	spa	Muri Abadagi, sivyo?	Sois alemanes, ¿verdad?
+run	spa	Urafise umuduga?	¿Tienes un carro?
+run	spa	Ntariye nopfa.	Si no como, moriré.
+run	spa	Urashobora kujayo.	Puedes ir allí.
+run	spa	Ndazi uyo mwigeme.	Conozco a esta niña.
+run	spa	Vyibagire ivyo.	Olvídalo.
+run	spa	Umuvyeyi wanje arankunda.	Mi madre me ama.
+run	spa	Uyu muhungu ni mwenebabo.	Este muchacho es su hermano.
+run	spa	Afise imyaka ingana iki?	¿Cuántos años tiene?
+run	spa	Aya madirisha araba mu bumanuko.	Estas ventanas miran hacia el sur.
+run	spa	Abo ni abajapani?	¿Son japoneses?
+run	spa	Sinibaza ko aza.	No creo que venga.
+run	spa	Bobo ni abana.	Son niños.
+run	spa	Ndibaza ko azoza.	Pienso que él vendrá.
+run	spa	Kubera iki mutagerageza iyi goti? Ijanye neza n'ipantalo yanyu.	¿Por qué no se prueba esta chaqueta? Le queda bien con los pantalones.
+run	spa	Nganirira umugambi wawe.	Háblame acerca de tu plan.
+run	spa	Kubera iki tudataha imuhira?	¿Por qué no nos vamos a casa?
+run	spa	Yatetse umutaga wose.	Ella se pasó toda la tarde cocinando.
+run	spa	Urashaka kuraba iki?	¿Qué quieres ver?
+run	spa	Turavukana.	Somos hermanos.
+run	spa	Ntuzi icarico?	¿No sabes lo que es?
+run	spa	Sindi ikijuju.	No soy un idiota.
+run	spa	Ndakunda kuba ngaha.	Me gusta vivir aquí.
+run	spa	Ntuhebe!	¡No te rindas!
+run	spa	Ntanumwe yumviriza.	Nadie escucha.
+run	spa	Ntiyasomaye iki gitabo.	Ella no se ha leído el libro.
+run	spa	Nagira ngo urashobora kubitegera.	Creía que lo entenderías.
+run	spa	Ndazi neza ko hari aho maze kumubona.	Estoy seguro de que lo he visto antes en alguna parte.
+run	spa	Umuryango wanje ni muto.	Mi familia es pequeña.
+run	spa	Sinzi ico nshaka.	No sé qué quiero.
+run	spa	Ntibimpa agateka.	No estoy orgullosa de esto.
+run	spa	Nimusohoke mu muduga.	Salga del automóvil.
+run	spa	Kubera iki udashaka kugenda?	¿Por qué no querés ir?
+run	spa	Ni umunyamerika?	¿Él es americano?
+run	spa	Mvuga indimi zitatu.	Hablo tres idiomas.
+run	spa	Uzoza iwawe ryari?	¿Cuándo vendrás a casa?
+run	spa	Kubera iki ubaza?	¿Por qué preguntas?
+run	spa	Ntabana nawe.	Ella no vive con él.
+run	spa	Ntanumwe azi izina ryiwe.	Nadie sabe su nombre.
+run	spa	Tuja hehe?	¿A dónde vamos?
+run	spa	Naje kubera wewe.	Vine por ti.
+run	spa	Ndafise bashikanje.	Tengo hermanas.
+run	spa	Urashobora gutora irangi iryariryo ryose ushimye.	Puedes escoger cualquier color que te guste.
+run	spa	Nta gishasha.	No es nuevo.
+run	spa	Uyu munsi ni umunsi w'Imana.	Hoy es domingo.
+run	spa	Ndategera ico ushaka kuvuga.	Entiendo lo que quieres decir.
+run	spa	Inzu yanje iri hafi y'inyubakwa yo gusengeramwo.	Mi casa está cerca de la iglesia.
+run	spa	Umuryango umerewe gute?	¿Qué tal la familia?
+run	spa	Asa na nyina wiwe.	Ella se parece a su madre.
+run	spa	Sindi intore.	No soy una buena persona.
+run	spa	Nzoguha igitabo.	Te daré un libro.
+run	spa	Twamanutse twiruka agasozi.	Hemos bajado la colina corriendo.
+run	spa	Kubera iki tubikora?	¿Por qué estamos haciendo esto?
+run	spa	Bavuga ko atunze cane.	Dicen que es muy rico.
+run	spa	Imbwa zihamba kenshi amagufa.	A menudo, los perros entierran huesos.
+run	spa	Nshaka kukubona.	Quiero verte.
+run	spa	Iminsi yose aja ku kazi ku maguru, kiretse iyo imvura igwa.	Va caminando al trabajo todos los días menos cuando llueve.
+run	spa	Urafise ico gusoma?	¿Tienes algo para leer?
+run	spa	Yafashe ikinyugunyugu n'urukumu hamwe n'inkombarukoko.	Capturó la mariposa con los dedos gordo e índice.
+run	spa	Ndazi uyo mwigeme.	Conozco a esa chica.
+run	spa	Uyu muduga ni mwiza cane.	Ese automóvil es muy bueno.
+run	spa	Arumva igifaransa.	Él entiende francés.
+run	spa	Abantu bose bagiye hehe?	¿Adónde han ido todos?
+run	spa	Ndafise ikibazo.	Tengo una pregunta.
+run	spa	Umutetsi arihe?	¿Dónde está el cocinero?
+run	spa	Inzu yanje iri hafi y'isengero.	Mi casa está cerca de la iglesia.
+run	spa	Iki gitabo ni ciza cane.	Este libro es muy bueno.
+run	spa	Yamukunze.	Ella está enamorada de él.
+run	spa	Sinibagira na rimwe amaso.	Nunca se me olvida una cara.
+run	spa	Uba he?	¿Dónde vives?
+run	spa	Narumvise ko warongoye.	Escuché que te casaste.
+run	spa	Urabona itandukaniro hagati y'ivyo bicapu bibiri?	¿Ves la diferencia entre estos dos imágenes?
+run	spa	Ntavuga icongereza gusa, avuga kandi n'ikidagi.	Ella no solo habla inglés, sino también alemán.
+run	spa	Duteka umuceri uku.	Así es como cocinamos arroz.
+run	spa	Ufise imyaka ingahe?	¿Cuántos años tienes?
+run	spa	Nyoko ari imuhira?	¿Está tu madre en casa?
+run	spa	Akira igitabo usome.	¡Coge un libro y léelo!
+run	spa	Murazi aho mba?	¿Sabe usted dónde vivo?
+run	spa	Icawe ni ciza gusumba.	El tuyo es mejor.
+run	spa	Akira ico ushaka.	Toma lo que quieras.
+run	spa	Mubwirizwa gutaha.	Ustedes tienen que ir a casa.
+run	spa	Ndavyakira.	Lo tomo.
+run	spa	Bitware hirya.	Llévate eso.
+run	spa	Raba iyi foto.	Mira esa fotografía.
+run	spa	Uri iwawe?	¿Estás en casa?
+run	spa	Icawe ni ciza gusumba.	La tuya es mejor.
+run	spa	Ni bitoya birenze?	¿Es demasiado pequeña?
+run	spa	Reka kuvuga ivyo!	¡Deja de decir eso!
+run	spa	Fata itagisi ikujana mw ihoteri.	Toma un taxi al hotel.
+run	spa	Yarabimpaye.	Me lo ha dado.
+run	spa	Hagarara!	¡Párate!
+run	spa	Ukuboko kwanje kw'ibubamfu kwagize ibinyanya.	Mi brazo izquierdo está dormido.
+run	spa	Asa na nyina.	Ella se parece a su madre.
+run	spa	Ejo naryamye umunsi wose, kuko wari umunsi w'Imana.	Ayer me pasé todo el día durmiendo porque era domingo.
+run	spa	Noshimishwa no kumenya izina ryawe.	Quiero saber tu nombre.
+run	spa	Ushaka kuzobiraba.	Vas a querer ver esto.
+run	spa	Ntidufise amahera.	No tenemos dinero.
+run	spa	Ni naco gituma ndagukunda.	Por eso me gustas.
+run	spa	Urabishaka canke?	¿Lo quieres o no?
+run	spa	Indahiro ni ideni.	Lo prometido es deuda.
+run	spa	Mbirizwa kwiga gifaransa.	Tengo que estudiar francés.
+run	spa	Nta bitabo mfise vyo gusoma.	No tengo libros para leer.
+run	spa	Bimuhe.	Dáselo.
+run	spa	Twama dukina ku munsi w'Imana.	Jugamos los domingos.
+run	spa	Reka ndabirabe.	Déjame ver.
+run	spa	We si umwana.	Ella no es niña.
+run	spa	Sinzi aho bari.	No sé dónde están.
+run	spa	Mfise mukuruwanje.	Tengo un hermano mayor.
+run	spa	Ntaco nywa.	No bebo nada.
+run	spa	Nje gusezera.	He venido a despedirme.
+run	spa	Aya masanganzira afise impanuka y'urupfu.	Este cruce es peligroso.
+run	spa	Mpamagara hagati y'isaha imwe n'isaha zibiri.	Llámame entre las siete y las ocho, por favor.
+run	spa	Ndi imuhira.	Estoy en casa.
+run	spa	Nta ngorane.	No hay problemas.
+run	spa	Kubera iki utari aha?	¿Por qué no estás aquí?
+run	spa	Nikomerekeje n'imbugita ku rutoki.	Me corté el dedo con un cuchillo.
+run	spa	Ruhuka!	Descansa.
+run	spa	Kubera iki mbwirizwa kubikora?	¿Por qué tengo que hacerlo?
+run	spa	Kubera iki ataho tutajana?	¿Por qué no vamos juntos a alguna parte?
+run	spa	Ndazi ikiriko kiba.	Sé lo que está pasando.
+run	spa	Yavyaye umwana wa mbere afise imyaka mirongo ibiri.	Ella tuvo su primer hijo a los veinte años.
+run	spa	Iri darapo ni nziza cane.	Esta bandera es muy bonita.
+run	spa	Amapome vyose aguye hasi azoribwa n'ingurube.	Todas las manzanas que caen al suelo son comidas por los cerdos.
+run	spa	Hariko haba iki hariya epfo?	¿Qué está pasando ahí abajo?
+run	spa	Urashaka ikintu co kunywa?	¿Quieres beber algo?
+run	spa	Uyu mwaka ntegekanya gusoma ibitabo vyinshi bishoboka.	Este año pienso leer todos los libros que pueda.
+run	spa	Nyene ibi bitabo ni mushikanje.	Esos son los libros de mi hermana.
+run	spa	Ndashaka gusubira kukubona.	Quiero volver a verte.
+run	spa	Nari mbizi.	Lo sabía.
+run	spa	Nabo baraza?	¿Ellos también vienen?
+run	spa	Sinzi aho aba.	No sé dónde vive.
+run	spa	Muritwararikire umutwe wanyu.	Cuidado con la cabeza.
+run	spa	Nkura ngaha.	Sácame de aquí.
+run	spa	Ibi ni birebire birenze urugero.	Esto es demasiado largo.
+run	spa	Si umuduga wanje.	No es mi coche.
+run	spa	Urabona iyi nzu? Ni inzu yanje.	¿Ves aquella casa? Esa es mi casa.
+run	spa	Ndiga igifaransa imuhira.	Estudio francés en casa.
+run	spa	Umukobwa wanje azorongorwa mu kwezi kwa gatandatu.	Mi hija se va a casar en junio.
+run	spa	Turagarutse.	Hemos regresado.
+run	spa	Urihe?	¿Dónde estás?
+run	spa	Urashobora gukoresha uwu muduga.	Puedes usar este coche.
+run	spa	Ni mushiki wawe?	¿Ella es tu hermana?
+run	spa	Umuduga wa data ni mushasha.	El auto de mi padre es nuevo.
+run	spa	Nta ngorane.	No hay problema.
+run	spa	Bingwa neza.	¡Esto me hace bien!
+run	spa	Rabira mw'idirisha.	Mira por la ventana.
+run	spa	Sinshaka amahera yawe.	No quiero tu dinero.
+run	spa	Nta mahera tugifise.	No tenemos más dinero.
+run	spa	Mva muri Bresil.	Vengo de Brasil.
+run	spa	Kera waranywa itabi, sivyo?	Antes fumabas, ¿verdad?
+run	spa	Nahabonye mwenewacu.	Vi allí a mi hermana.
+run	spa	Kubera iki udatomora ico ufise ku muzirikanyi?	¿Por qué no nos cuentas qué tienes en mente?
+run	spa	Mbwirizwa kwiga.	Tengo que aprender.
+run	spa	Ndi hehe?	¿Dónde estoy?
+run	spa	Turanezerewe.	Somos felices.
+run	spa	Inzu yanje iri hafi y'urusengero.	Mi casa está cerca de la iglesia.
+run	spa	Ntanumwe azi amazina yabo.	Nadie sabe sus nombres.
+run	spa	Iyi hinguriro rikora ivyuma vy'imiduga.	Esta fábrica produce piezas para automóviles.
+run	spa	Ugara amadirisha yose.	Cierra todas las ventanas.
+run	spa	Ntaco bibaye.	No pasó nada.
+run	spa	Mpa igitabo.	Dame el libro.
+run	spa	Nasubiye kumubona.	Volví a encontrarme con él.
+run	spa	Sinshaka gutunga.	No quiero ser rica.
+run	spa	Ntanumwe antega ugutwi.	Nadie me escucha.
+run	spa	Nyene uyu muduga ni data wanje.	Este es el auto de mi papá.
+run	spa	Raba hariya!	Mira allí.
+run	spa	Ntitugifise amahera.	No tenemos más dinero.
+run	spa	Ntavuga icongereza.	Él no habla inglés.
+run	spa	Ni angahe?	¿Cuánto es?
+run	spa	Iki gitabo ni gishasha.	Este libro es nuevo.
+run	spa	Uru ni urukundo?	¿Esto es amor?
+run	spa	Nzokora ivyangombwa vyose.	Haré lo que sea necesario.
+run	spa	Ubwirizwa guheba inzoga.	Tienes que dejar de beber.
+run	spa	Igitabo kirihe?	¿Dónde está el libro?
+run	spa	Sindi umubaji mwiza cane.	No soy muy buen carpintero.
+run	spa	Urazi bano bantu.	Conoces gente.
+run	spa	Iki giti kirashaje.	Este árbol es muy viejo.
+run	spa	So wawe amerewe gute?	¿Cómo está tu padre?
+run	spa	Ubwirizwa kureka kunywa.	Debes dejar de beber.
+run	spa	Izi ntambwe zirashobora kubuza ko ingwara isasagazwa.	Estas medidas pueden impedir la propagación de la enfermedad.
+run	spa	Ntubange ugutwi.	Tú no deberías fisgonear.
+run	spa	Urakunda kwiga?	¿Te gusta estudiar?
+run	spa	Nta kamaro.	Eso no importa.
+run	spa	Nturabe hasi.	No mires hacia abajo.
+run	spa	Ndafise amahera.	Tengo dinero.
+run	spa	Namugomwe.	Estoy enamorado de ella.
+run	spa	Wasomye iki gitabo?	¿Te has leído este libro?
+run	spa	Nta ngorane.	Ningún problema.
+run	spa	Ndi umushinwakazi.	Soy chino.
+run	spa	Nico ndiko ndondera.	Eso es lo que estoy buscando.
+run	spa	Ndashaka kuguherekeza.	Te quiero acompañar.
+run	spa	Iminsi yose aja ku kazi ku maguru, kiretse iyo hari imvura.	Va caminando al trabajo todos los días menos cuando llueve.
+run	spa	Uranzi.	Me conoces.
+run	spa	Ndarahiye.	Lo juro.
+run	spa	Ibintu vyawe birihe?	¿Dónde están tus cosas?
+run	spa	Hari umuntu ahagaze inyuma y'uruhome.	Hay alguien parado detrás de la pared.
+run	spa	Aramwumva.	Ella le entiende.
+run	spa	Umukobwa wanje azorongorwa muri ruheshi.	Mi hija se va a casar en junio.
+run	spa	Kubika ahapfutse kandi humutse.	Guarde en un lugar fresco y seco.
+run	spa	Nta mazi akiri mw'icupa.	No queda más agua en la botella.
+run	spa	Abo ni abajapani?	¿Son ellos japoneses?
+run	spa	Ndagukumbuye cane.	Te echo mucho de menos.
+run	spa	Ndakubonye.	Te he visto.
+run	spa	Tuzojana.	Vamos a ir juntos.
+run	spa	Ndashaka kukubona pe.	Tengo muchas ganas de verte.
+run	spa	Turabitegera.	Lo entendemos.
+run	spa	Biruguruye.	Está abierto.
+run	spa	Uzomara umwanya ungana iki?	¿Cuánto tiempo vas a quedarte?
+run	spa	Ndashobora kubibona kandi?	¿Puedo ver eso de nuevo?
+run	spa	Uribaza ko nezerewe?	¿Pensás que soy feliz?
+run	spa	Nico nshaka kumenya.	Es lo que yo quiero saber.
+run	spa	Yamugomwe.	Él está enamorado de ella.
+run	spa	Urazi ico ubaza?	¿Sabes lo que estás preguntando?
+run	spa	Ndategera ico uvuga.	Entiendo lo que dices.
+run	spa	Ndafise ibikorwa vy'ishure.	Tengo deberes.
+run	spa	Ni neza cane.	Es muy bueno.
+run	spa	Ndiko nduhuka.	Estoy descansando.
+run	spa	Iryo jambo ntaryonzi.	No conozco esa palabra.
+run	spa	Reka ndaguhobere.	Deja que te abrace.
+run	spa	Izuba rirasira mu buseruko.	El sol se levanta por el este.
+run	spa	Nshaka kwiga igifaransa.	Quiero aprender francés.
+run	spa	Ntanzi.	Él no me conoce.
+run	spa	Ndakurondera.	Te busco.
+run	spa	Ndi umunyeshuri mushaha muri kaminuza.	Soy un nuevo estudiante.
+run	spa	Tom arihe?	¿Dónde está Tom?
+run	spa	Uyu muvinyu ni uwande?	¿De quién es este vino?
+run	spa	Data ari imuhira.	Mi padre está en casa.
+run	spa	Iyi nyabu ni yanje.	Éste es mi gato.
+run	spa	Mbwira umugambi wawe.	Háblame acerca de tu plan.
+run	spa	Nshobore gusubira kubibona?	¿Puedo ver eso de nuevo?
+run	spa	Ufise imyaka ingana iki?	¿Cuántos años tienes?
+run	spa	Kuva ejo dushobora kujana ku kazi.	A partir de mañana podemos ir a trabajar juntos.
+run	spa	Ndakwiyumvira.	Pienso en ti.
+run	spa	Ntugende n'iminwe misa.	No te vayas con las manos vacías.
+run	spa	Ndazi igituma ubishaka.	Yo sé por qué lo quieres.
+run	spa	Ndaribwa mu nda.	Me duele la panza.
+run	spa	Nabonye hariya mushikanje.	Vi a mi hermana allí.
+run	spa	Ntumuhagarike.	No lo pares.
+run	spa	Ndazi aho uba.	Sé dónde vives.
+run	spa	Sindavyumva.	No lo entiendo.
+run	spa	Uyu ni data wanje.	Éste es mi padre.
+run	spa	Ibisi irahagaze ariko nta muntu yururutse.	El bus se detuvo, pero nadie se bajó.
+run	spa	Nico nshaka kumenya.	Eso es lo que quiero saber.
+run	spa	Ntubaze.	No preguntes.
+run	spa	Yatoye ikanzu izimvye gusumba zose.	Ella eligió el vestido más costoso.
+run	spa	Ntusabe amahera.	No pidas dinero.
+run	spa	Twashitse.	Hemos llegado.
+run	spa	Simfise mushikanje.	Yo no tengo una hermana.
+run	spa	Reka kundaba!	No me mires.
+run	spa	Nyogokuru avuga buhoro buhoro.	Mi abuela habla despacio.
+run	spa	Yagirije uyo mugabo ubusuma.	Acusó al hombre de robo.
+run	spa	Ni umunyeshuri mwiza.	Ella es una buena estudiante.
+run	spa	Reka gusoma.	Deje de leer.
+run	spa	Abo nabo mu bujapani?	¿Ellas son japonesas?
+run	spa	Ntiwibagire gutwara ikete.	No olvides mandar la carta.
+run	spa	Nshaka kugutekera.	Quiero cocinarte.
+run	spa	Amahera yarampereyeko.	Se me acabó el dinero.
+run	spa	Ndi mu gikoni.	Estoy en la cocina.
+run	spa	Nryama ubusa.	Duermo desnudo.
+run	spa	Ndazi uyo mukobwa.	Conozco a esa chica.
+run	spa	Ryama neza, Timmy.	Duerma bien, Timmy.
+run	spa	Turiga igifaransa.	Estudiamos francés.
+run	spa	Asa na mwenewanyu.	Se parece a tu hermano.
+run	spa	Nzobigerageza.	Lo intentaré.
+run	spa	Ukuboko kwanje kw'ibubamfu kwagize ibinyanya.	Se me ha dormido el brazo izquierdo.
+run	spa	Uragenda canke ntugenda?	¿Vas o no?
+run	spa	Umuryango wiwe urihe?	¿Dónde está su familia?
+run	spa	Ni twebwe murondera?	¿Nos estáis buscando?
+run	spa	Ivyo turabizi.	Sabemos eso.
+run	spa	Izuba riserukira mu buseruko.	El sol se levanta por el este.
+run	spa	Muraturondera?	¿Nos estáis buscando?
+run	spa	Murategera igifaransa?	¿Comprende usted francés?
+run	spa	Ryama neza, Timmy.	Que duermas bien, Timmy.
+run	spa	Ndi umwotsi w'imikate.	Soy panadero.
+run	spa	Uva hehe?	¿De dónde vienes?
+run	spa	Sinywa.	Yo no bebo.
+run	spa	Yama ata mobile yiwe.	Siempre está perdiendo su celular.
+run	spa	Bite, ico kunywa?	¿Qué tal un trago?
+run	spa	Twatandukanye.	Nos separamos.
+run	spa	Ukora iki?	¿Qué haces?
+run	spa	Oya, urakoze.	No, gracias.
+run	spa	Turiko dutakaza umwanya uzimvye.	Estamos desperdiciando tiempo precioso.
+run	spa	Ndashobora kwinjira?	¿Puedo entrar?
+run	spa	Uba ngaha?	¿Vives aquí?
+run	spa	Ndazi aba bantu.	Conozco a esa gente.
+run	spa	Ntibiri nkuko uvyiyumvira.	¡No es lo que piensas!
+run	spa	Utaha ryari?	¿Cuándo vas a casa?
+run	spa	Namerewe nabi.	Me sentí mal.
+run	spa	Ndibaza ku mfise umwanya w'ikindi gikombe c'ikawa.	Creo que todavía tengo tiempo para otra taza de café.
+run	spa	We si umwana.	No es una niña.
+run	spa	Kubera iki umbaza?	¿Por qué me preguntas?
+run	spa	Ushobora gukoresha umuduga wanje.	Puedes usar mi coche.
+run	spa	Nzogushimisha.	Te haré feliz.
+run	spa	Nazanwe no kwiga.	Yo vine aquí a estudiar.
+run	spa	Isaha yawe irihe?	¿Dónde está tu reloj?
+run	spa	Umuryango umerewe gute?	¿Cómo está la familia?
+run	spa	Uri umuhinga.	Tú eres el experto.
+run	spa	Akora mw'ihinguriro.	Trabaja en una fábrica.
+run	spa	Turihe?	¿Dónde estamos?
+run	spa	Urupapuru rumwe rurabuze.	Falta una página.
+run	spa	Sindabitegera.	No comprendo esto.
+run	spa	Mariya arihe?	¿Dónde está María?
+run	spa	Bandanya!	¡Continúa!
+run	spa	Ni bitoya birenze.	Es demasiado pequeño.
+run	spa	Ijwi ryanje rirasaraye kubera inkorora.	Tengo la voz ronca por un resfriado.
+run	spa	Sindi umuntu mwiza.	No soy una buena persona.
+run	spa	Ndazi neza ko namubonye ahantu ikindi gihe.	Estoy seguro de que lo he visto antes en alguna parte.
+run	spa	Urabitegera, sivyo?	Lo entiendes, ¿verdad?
+run	spa	Ni isaha icenda ibuze iminuta icumi n'itanu.	Son las tres menos quince.
+run	spa	Ntitumuzi.	No le conocemos.
+run	spa	Sinzi izina ryiwe.	No me sé su nombre.
+run	spa	Ugenda kw'ishure gute?	¿Cómo vas a la escuela?
+run	spa	Sinshonje.	No tengo hambre.
+run	spa	Idirisha riraba mu rugo.	La ventana da al patio.
+run	spa	Umuduga wanje urihe?	¿Dónde está mi auto?
+run	spa	Harashushe.	Hace calor.
+run	spa	Uraza canke?	¿Vienes o no?
+run	spa	Nataye impfunguzo zanje.	He perdido mis llaves.
+run	spa	Ntuzoza, sivyo?	No vienes, ¿verdad?
+run	spa	Ntwumviriza.	No estás escuchando.
+run	spa	Urukundo ni iki?	¿Qué es el amor?
+run	spa	Tuzongera ku wambere.	Nos vemos el lunes.
+run	spa	Ikiganza gifise intoki zitanu: urukumu, inkombarukoko, msumba zose, igihugunibenga, agahererezi.	La mano tiene cinco dedos: pulgar, índice, anular, corazón y meñique.
+run	spa	Ahari ugushaka haba inzira.	Donde hay voluntad, hay un camino.
+run	spa	Uri umugenzi wanje.	Eres mi amigo.
+run	spa	Ndazi kubikora.	Sé como hacerlo.
+run	spa	Bamwe muri abo bakozi ntibamenyeye gukora ako kazi.	Algunos de estos trabajadores no tienen nada de experiencia.
+run	spa	Ibirato birihe?	¿Dónde están los zapatos?
+run	spa	Waciye ku kimenyetso c'itara ritukura.	Te pasaste un semáforo rojo.
+run	spa	Banze imbere, ndakurikira.	Usted primero.
+run	spa	Sinashoboye kutarira.	No podía contener las lágrimas.
+run	spa	Ndazi ingene bikoreshwa.	Yo sé usar esto.
+run	spa	Kubera iki utajana na jewe?	¿Por qué no vienes conmigo?
+run	spa	Mugenda hehe?	¿A dónde van?
+run	spa	Murakoze cane kandi.	Gracias otra vez.
+run	spa	Sinzi.	No sé.
+run	spa	Sinzi neza igifaransa.	No soy bueno en francés.
+run	spa	Uramuzi.	Tú la conoces.
+run	spa	Sinshobora kwoza amasahani. Harabuze amazi.	No puedo enjuagar los platos. No hay agua.
+run	spa	Abo ni abavukanyi banje.	Son mis hermanos.
+run	spa	Simbizi.	Eso no lo sé.
+run	spa	Ndasemagurika.	Estoy sin aliento.
+run	spa	Simfise mwenewacu.	No tengo hermana.
+run	spa	Birakunezereje?	¿Eso te hace feliz?
+run	spa	Ivyirabura ni vyanje.	El negro es mío.
+run	spa	Intumbero y'urugendo rwanyu ni iyihe?	¿Cuál es el motivo de su viaje?
+run	spa	Ndumva ico uvuga.	Oigo lo que dices.
+run	spa	Harashushe birenze.	Hace demasiado calor.
+run	spa	Urazi ico yavuze?	¿Sabes lo que ha dicho?
+run	spa	Mvuga ico niyumvira.	Digo lo que pienso.
+run	spa	Urafise umuduga?	¿Tienes carro?
+run	spa	Ntimushakisha igituma!	Investigue usted cuál es la causa.
+run	spa	Urafise aya mahera?	¿Tienes el dinero?
+run	spa	Sindakunda kwiga.	No me gusta estudiar.
+run	spa	Sindabikeneye.	No lo necesito.
+run	spa	Ayo madirisha yerekeye mu bumanuko.	Estas ventanas están orientadas al sur.
+run	spa	Ndazi so wawe.	Conozco a tu padre.
+run	spa	Nzobiraba.	Lo miraré.
+run	spa	Ntegerezwa kuja imuhira.	Debo ir a casa.
+run	spa	Ugara idirisha.	Cierra la ventana.
+run	spa	Ndashobora kubibona kandi?	¿Puedo ver eso otra vez?
+run	spa	Biragenda?	¿Cómo va?
+run	spa	Ndazi ico wiyumvira.	Sé lo que estás pensando.
+run	spa	Sinzi aba bantu.	No conozco a esa gente.
+run	spa	Wiyumvira iki?	¿Qué piensas?
+run	spa	Utaha ryari?	¿Cuándo te vas a casa?
+run	spa	Sinshaka aya mahera.	No quiero el dinero.
+run	spa	Izina ryanje ni John.	Mi nombre es John.
+run	spa	Ndakunda gusoma.	Me gusta leer.
+run	spa	Nta mahera tugifise.	Se nos ha acabado el dinero.
+run	spa	Ntuzi musazanje.	Tú no conoces a mi hermano.
+run	spa	Ni ku wambere.	Es lunes.
+run	spa	Urashaka kubibona?	¿Quieres verlo?
+run	spa	Ni abanyamerika?	¿Son americanos?
+run	spa	Sintunze.	No soy rico.
+run	spa	Ikiganza gifise intoki zitanu: urukumu, inkombarukoko, msumba zose, igihugunibenga, agahererezi.	La mano tiene cinco dedos: el pulgar, el índice, el medio, el anular y el meñique.
+run	spa	Urakoze kuza.	Gracias por venir.
+run	spa	Urandondera?	¿Me estás buscando?
+run	spa	Mu ruguma hari amashira.	Se ha formado pus en la herida.
+run	spa	Urazi izina ryiwe?	¿Conoces su nombre?
+run	spa	Ndibaza ko ari vyiza.	Creo que está bien.
+run	spa	Baranezerewe.	Ellos están felices.
+run	spa	Umuhungu arasimba.	El niño está saltando.
+run	spa	Ntegerezwa kugenda ubu.	Debo irme ahora.
+run	spa	Ubugeni buzoba ku wagatandatu.	La boda tendrá lugar el sábado.
+run	spa	Narabiravye muri yu tubi.	Lo vi en YouTube.
+run	spa	Yazunguje umutwe.	Él sacudió la cabeza.
+run	spa	Uriko usoma iki?	¿Qué estás leyendo?
+run	spa	Ndakwemera.	Creo en ti.
+run	spa	Uza imuhira ryari?	¿Cuándo vienes a casa?
+run	spa	Uramuzi.	Le conoces.
+run	spa	Mvyuka isaha imwe zo mugitondo.	Me levanto a las 7:00.
+run	spa	Ntibimeze uko uvyiyumvira.	No es lo que piensas.
+run	spa	Kubera iki wijiriwe?	¿Por qué estás triste?
+run	spa	Ndanezerewe ko uhari.	Me alegro de que estés aquí.
+run	spa	Turakuzi.	Te conocemos.
+run	spa	Ntiwibagire gutwara ikete.	No te olvides de mandar la carta.
+run	spa	Kubera iki utabikora?	¿Por qué no lo haces?
+run	spa	Ndafise umuduga.	Tengo un carro.
+run	spa	Urambabarira ko ndabivuze.	Siento que haya dicho eso.
+run	spa	Urategera ivyanditse ngaha?	¿Sabes lo que dice?
+run	spa	Iyi hinguriro rikora ivyuma vy'imiduga.	Esta fábrica produce piezas de automóvil.
+run	spa	Kubera iki unkunda?	¿Por qué me quieres?
+run	spa	Ntunzi.	No me conocés.
+run	spa	Ndabizi.	Lo sé.
+run	spa	Iyi nzoga ni iyande?	¿De quién es esta cerveza?
+run	spa	Ndi mushasha aha.	Soy nuevo aquí.
+run	spa	Uzomara igihe kingana iki?	¿Cuánto tiempo vas a quedarte?
+run	spa	Idirisha rirugaye.	La ventana está cerrada.
+run	spa	Naguze amagi n'amata make.	Compré algunos huevos y un poco de leche.
+run	spa	Ndagenda kuryama.	¡Me voy a dormir!
+run	spa	Sico kimwe.	No es lo mismo.
+run	spa	Ndazi umuryango wiwe.	Conozco a su familia.
+run	spa	Uranezereza.	Me haces feliz.
+run	spa	Twakuriye hamwe.	Nosotros crecimos juntos.
+run	spa	Sindamubona.	No lo veo.
+run	spa	Araza nawe?	¿Ella también viene?
+run	spa	Ni vyiza gusumba uko biri.	Es mejor así.
+run	spa	Nzogerageza.	Lo intentaré.
+run	spa	Iki ni igifaransa?	¿Esto es francés?
+run	spa	Uwushaka kumurongora abwiriza kubiganira neza na se wiwe.	Cualquiera que quiera casarse con ella, primero tiene que convencer a su padre.
+run	spa	Raba neza ingene ndabikora!	Mira cómo lo hago.
+run	spa	Nsabe uruhusha nde?	¿A quién tengo que pedirle permiso?
+run	spa	Ndazi ingene bigenda.	Ya sé cómo va.
+run	spa	Ndanezerewe ku uhimbawe.	Estoy feliz de que estés feliz.
+run	spa	Sinteka.	Yo no cocino.
+run	spa	Ndazi aho mbwirizwa kugaba.	Sé a qué ponerle ojo.
+run	spa	Nta muduga mfise.	No tengo coche.
+run	spa	Umfata ko ndi nde?	¿Por quién me tomas?
+run	spa	Si igifaransi.	Esto no es francés.
+run	spa	Niki?	¿Qué?
+run	spa	Ayo mashurwe ubona ni amarosi.	Estas flores que ves son rosas.
+run	spa	Ntashobora kuza kubera ko ararwaye.	Él no puede venir porque está enfermo.
+run	spa	Nabonye hariya mushikanje.	Vi allí a mi hermana.
+run	spa	Ugurura idirisha.	Abre la ventana.
+run	spa	Urafise ikintu co gusoma?	¿Tienes algo para leer?
+run	spa	Sinkomeye muri vyo.	Esto no se me da bien.
+run	spa	Kubera iki bari aha?	¿Por qué están aquí?
+run	spa	Ushaka kuzobibona.	Vas a querer ver esto.
+run	spa	Sinshaka kukubona.	No te quiero ver.
+run	spa	Mpore ko ndabivuze.	Siento que haya dicho eso.
+run	spa	Ntibinyuze.	No estoy contento con esto.
+run	spa	Kubera iki ubibaza?	¿Por qué lo preguntas?
+run	spa	Nshobore gusubira kubibona?	¿Puedo ver eso otra vez?
+run	spa	Uhaguruka ryari?	¿A qué hora te levantas?
+run	spa	Ariko yiga.	Ahora está estudiando.
+run	spa	Ntiwibagire gutwara ibaruwa.	No te olvides de mandar la carta.
+run	spa	Bite uyu munsi?	¿Cómo estás hoy?
+run	spa	Ndazi uvyirumvira.	Sé lo que estás pensando.
+run	spa	Rimwe rimwe tujana muri cenema.	Vamos juntos al cine de vez en cuando.
+run	spa	Umviriza nyoko!	¡Escucha a tu madre!
+run	spa	Ntanumwe ari i muhira.	No hay nadie en casa.
+run	spa	Siko biri nkuko uvyiyumvira.	No es lo que piensas.
+run	spa	Urazi aho nzoba ndi.	Sabes donde estaré.
+run	spa	Ndazi ingene bigirwa.	Sé como hacerlo.
+run	spa	Kera yari umwigisha.	Ella era una profesora.
+run	spa	Sinshaka kubimenya.	No lo quiero saber.
+run	spa	Umuduga wacu urihe?	¿Dónde está nuestro coche?
+run	spa	Ndakunda iyo ndi jenyene.	Me gusta estar sola.
+run	spa	Wipfuza iki?	¿Qué deseas?
+run	spa	Aya masanganzira afise impanuka y'urupfu.	Esta intersección es peligrosa.
+run	spa	Urashaka ikintu co kunywa?	¿Quieres tomar algo?
+run	spa	Uyu mwigeme asa neza.	Esa chica es atractiva.
+run	spa	Turi hehe?	¿Dónde estamos?
+run	spa	Kubera iki tugira ivyo?	¿Por qué estamos haciendo esto?
+run	spa	"Aya marori ni ayande?" – "Ni aya Data."	"¿De quién son estos anteojos?" -- "Los anteojos son de mi padre."
+run	spa	Asa na Se wiwe.	Se parece a su padre.
+run	spa	Si umuduga wanje.	No es mi auto.
+run	spa	We si umwana.	Él no es un niño.
+run	spa	Iri jambo riva mu kigereki.	Esta palabra viene del griego.
+run	spa	Ukora iki ngaha?	¿Qué haces aquí?
+run	spa	Nanje ndavyiyumvira uko.	Yo también pienso así.
+run	spa	Nta mahera dufise.	No tenemos dinero.
+run	spa	Ubwirizwa kuvyuka.	Tienes que levantarte.
+run	spa	Hari imashini yo kumesura mu nzu?	¿Hay una lavadora en la casa?
+run	spa	Iri saho ni irya nde?	¿De quién es este bolso?
+run	spa	Uribuka?	¿Te acuerdas?
+run	spa	Ntugende zirayoye.	No te vayas con las manos vacías.
+run	spa	Muragaba k'umutwe wanyu.	Cuidado con la cabeza.
+run	spa	Ntegerezwa kugenda ubu.	Ahora tengo que irme.
+run	spa	Ndakwumviriza.	Te estoy escuchando.
+run	spa	Ipantalo yawe iranduye.	Tu pantalón está sucio.
+run	spa	Ndakunda uyu muduga.	Amo este auto.
+run	spa	Uragikunda?	¿Te gusta?
+run	spa	Uyu muduga usa na mushasha.	Este auto está como nuevo.
+run	spa	Urabizi?	¿Lo sabés?
+run	spa	Iki gitabo ntigifise akamo.	Este libro no sirve para nada.
+run	spa	Sinzi neza igifaransa.	No soy bueno para el francés.
+run	spa	Simfise umuduga.	No tengo coche.
+run	spa	Ubibona gute ku wagatanu?	¿Qué te parece el viernes?
+run	spa	Watinye?	¿Tenías miedo?
+run	spa	Sinzi iryo jambo.	No sé esta palabra.
+run	spa	Mushikawe amerewe gute?	¿Cómo está tu hermana?
+run	spa	Kigurwa angahe?	¿Cuánto cuesta eso?
+run	spa	Nzobiguha.	Te lo daré.
+run	spa	Murakoze kwumviriza.	Gracias por escuchar.
+run	spa	Ntundabe gutyo.	No me mires así.
+run	spa	Ndazi nyoko.	Conozco a tu madre.
+run	spa	Amatapi yo mukahise arafise agaciro kanini.	Las alfombras antiguas son especialmente valiosas.
+run	spa	Nzokora ico unsaba.	Haré lo que pides.
+run	spa	Twiga ubuhinga bw'umuziki.	Estudiamos música.
+run	spa	Tuzobonana ejo!	¡Nos vemos mañana!
+run	spa	Ntuzi musazanje.	No conoces a mi hermano.
+run	spa	Uyu ni nyoko?	¿Esa es tu madre?
+run	spa	Umukobwa wanje azorongorwa muri ruheshi.	Mi hija se casará en junio.
+run	spa	Utaha ryari?	¿A qué hora te vas a casa?
+run	spa	Umuduga wanje wapfuye.	Mi coche está averiado.
+run	spa	Bishire nyoko.	Llevale esto a tu madre.
+run	spa	Uri imuhira?	¿Estás en casa?
+run	spa	Urashaka ikintu co kunywa?	¿Quieres algo para beber?
+run	spa	Ngirango araza.	Tal vez él vendrá.
+run	spa	Urashaka gutunga?	¿Quieres ser rico?
+run	spa	Ntibimeze uko uvyiyumvira.	¡No es lo que piensas!
+run	spa	Nzero, Ruruhuma, Ntwarante, Ndamukiza, Rusama, Ruheshi, Mukakaro, Myandagaro, Nyakanga, Gitugutu, Munyonyo na Kigarama ni amezi icumi n'abiri y'umwaka.	Enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre son los doce meses del año.
+run	spa	Haraho uzogenda muri iri ci?	¿Vas a ir a algún lado este verano?
+run	spa	Nta mahera yari agifise.	Él se quedó sin dinero.
+run	spa	Ur'uwiwacu.	Eres uno de los nuestros.
+run	spa	Urazi nyene uyu muduga?	¿Sabes de quién es este coche?
+run	spa	Nguyo!	¡Ahí está!
+run	spa	Sinkubona.	No te veo.
+run	spa	Twugurure idirisha!	Abramos la ventana.
+run	spa	Isaha yanje irihe?	¿Dónde está mi reloj?
+run	spa	Ndazi ico baravuze.	Yo sé lo que dijeron.
+run	spa	Yamugomwe.	Ella está enamorada de él.
+run	spa	Abonye amaraso umurwayi yaciye araba.	El paciente se desmayó al ver la sangre.
+run	spa	Capfuye.	Está roto.
+run	spa	Ndamuzi.	La conozco.
+run	spa	Simfise mushikanje.	No tengo hermana.
+run	spa	Sinkomeye muri vyo.	Eso no se me da bien.
+run	spa	Kubera iki jewe?	¿Por qué yo?
+run	spa	Uzosigara umwanya ungana iki?	¿Cuánto tiempo te quedarás?
+run	spa	Nshaka ko uja imuhira.	Quiero que te vayas a casa.
+run	spa	Arakunda gusoma ibitabo.	Le gusta leer libros.
+run	spa	Maze kuduga aka gasozi niruka, ugusemagurika ni kwose.	Tras haber corrido colina arriba, estaba completamente sin aliento.
+run	spa	Kubera iki utariyo?	¿Por qué no estás ahí?
+run	spa	Ndavyumva	Lo entiendo.
+run	spa	Wiga kw ishure irihe?	¿A qué escuela vas?
+run	spa	Magdalena na Ania ni abagenzi pfampfe.	Magdalena y Ania son buenas amigas.
+run	spa	Indoto yanje yabaye ukuri.	Mi sueño se ha hecho realidad.
+run	spa	Afise imyaka ingahe?	¿Cuántos años tiene?
+run	spa	Ndi mu muduga.	Estoy en el coche.
+run	spa	Ingo!	¡Ven aquí!
+run	spa	Ni neza, siko?	Es bueno, ¿verdad?
+run	spa	Birampimbaza.	Eso me hace feliz.
+run	spa	Ndabasavye, mumpe ifagitiri.	¿Me da la cuenta, por favor?
+run	spa	Nagize igitondo c'imirimo myinshi.	Tuve una mañana ocupada.
+run	spa	Sindakwumva.	No te entiendo.
+run	spa	Ndazi ico mvuga.	Yo sé lo que estoy diciendo.
+run	spa	Ibi bitabo ni rwacu.	Estos libros son nuestros.
+run	spa	Abo nabo mu bujapani?	¿Ellos son japoneses?
+run	spa	Mu buseruko bw'ikigwati hari ikiyaga.	Al este del pueblo hay un lago.
+run	spa	Reka nje kugura umukate.	Déjame ir a comprar algo de pan.
+run	spa	Urabibonye?	¿Lo ves?
+run	spa	Ni umufaransa.	Es francesa.
+run	spa	Wiga ryari?	¿Cuándo estudias?
+run	spa	Urafise umuduga?	¿Tienes auto?
+run	spa	Ngico igitabo cawe.	Aquí está tu libro.
+run	spa	Ndamuzi.	Le conozco.
+run	spa	Ni isaha icenda ibuze iminuta icumi n'itanu.	Son las tres menos cuarto.
+run	spa	Simfise aho mba.	No tengo un hogar en donde vivir.
+run	spa	Nshaka gutaha.	Quiero irme a casa.
+run	spa	Uranezerewe?	¿Estás feliz?
+run	spa	Nagira ngo ni ikigorwa cawe.	Pensaba que ese era tu trabajo.
+run	spa	Urazi ico yavuze?	¿Sabes lo que dijo?
+run	spa	Nshaka kubibona.	Quiero verlo.
+run	spa	Nyene ikintu ni musazanje.	Esto le pertenece a mi hermano.
+run	spa	Komeza!	¡Continúa!
+run	spa	Ku minsi y'Imana simba ndi imuhira.	No estoy en casa los domingos.
+run	spa	Namugwiriye.	Estoy enamorado de ella.
+run	spa	Ntanumwe yakubajije.	Nadie te preguntó.
+run	spa	Umuryango wawe uri hehe?	¿Dónde está tu familia?
+run	spa	Icumba cawe gifise amadirisha abiri?	¿Tiene tu habitación dos ventanas?
+run	spa	Uri mushasha?	¿Eres nuevo?
+run	spa	Sindi umunyeshuri muri kaminuza.	No soy un estudiante.
+run	spa	Yacishije igisu ciwe ishami ry'igiti.	Él le cortó una rama al árbol con su cuchillo.
+run	spa	Musazanje ntari i muhira.	Mi hermano no está en casa.
+run	spa	Ndazi ko ubifise.	Sé que lo tienes.
+run	spa	Urabitegera?	¿Lo entiendes?
+run	spa	Urarwaye, ubwirizwa kuruhuka.	Estás enfermo, tienes que descansar.
+run	spa	Urazi icarico urukundo?	¿Sabes qué es el amor?
+run	spa	Birakwiye vyose ivyerekeye vy'urugendo?	¿Está todo arreglado para el viaje?
+run	spa	Birakwiye vyose ivy'urugendo?	¿Está todo arreglado para el viaje?
+run	spa	Abana bagiye kw ishure?	¿Los niños van al colegio?
+run	spa	Ushaka kuba hehe?	¿Dónde quieres vivir?
+run	spa	"Aya marori ni ayande?" – "Nyeneyo ni Data."	"¿De quién son estos anteojos?" -- "Los anteojos son de mi padre."
+run	spa	Soma ibi.	Lee esto.
+run	spa	Ntibimpa agateka.	No estoy orgulloso de esto.
+run	spa	Ihinguriro rikora ibihumbi n'ibihumbi vy'amacupa kira kwezi.	La fábrica produce miles de botellas al mes.
+run	spa	Akira igitabo usome.	¡Toma un libro y léelo!
+run	spa	Subira gusoma.	Léalo otra vez.
+run	spa	Uraza? Ego canke oya?	¿Vienes o no?
+run	spa	Umuduga wanje urihe?	¿Dónde está mi coche?
+run	spa	Ni birebire birenze urugero.	Esto es demasiado largo.
+run	spa	Ni vyiza, sivyo?	Es bueno, ¿verdad?
+run	spa	Ndazi kubikora.	Yo sé cómo hacerlo.
+run	spa	Kaze iwacu!	Bienvenido a nuestro hogar.
+run	spa	Mba ngaha.	Vivo aquí.
+run	spa	Igitwazi kirasimba.	El caballo está saltando.
+run	spa	Murabe.	Míralo.
+run	spa	Dusangire akanyobwa.	Tomémonos algo.
+run	spa	Bikozwe muki?	¿De qué está hecho?
+run	spa	Sindashonje.	No tengo hambre.
+run	spa	Ntuzi icarico?	¿No sabes qué es esto?
+run	spa	Ntidushaka kubimenya.	No queremos saber.
+run	spa	Kubera iki utaciga igifaransa?	¿Por qué no estudias francés?
+run	spa	Ntunezerewe?	¿No estás feliz?
+run	spa	Ntubange ugutwi.	Tú no deberías espiar.
+run	spa	Ndi mu karuhuko.	Estoy en receso.
+run	spa	Reka ndakugurire gishasha.	Deja que te compre uno nuevo.
+run	spa	Uri umuhinga.	Eres la experta.
+run	spa	Ejo hari kuwagatanu.	Ayer era viernes.
+run	spa	Urazi icarico?	¿Sabes qué es esto?
+run	spa	Uyu muduga ni rwacu.	Este es nuestro carro.
+run	spa	Ndaguhwatira umucungwa.	Descascaré una naranja para ti.
+run	spa	Kubera iki mbikora?	¿Por qué estoy haciendo esto?
+run	spa	Ndi umutetsi.	Soy cocinero.
+run	spa	Wagize ubwoba?	¿Tenías miedo?
+run	spa	Nariye amagi ejo.	Ayer comí huevos.
+run	spa	Kubera iki harashushe?	¿Por qué hace tanto calor?
+run	spa	Ntushaka kumenya ivyo!	¡No lo quieres saber!
+run	spa	Namukunze.	Estoy enamorado de ella.
+run	spa	Kubera iki abantu batankunda?	¿Por qué no le gusto a la gente?
+run	spa	Nzogaruka.	Volveré.
+run	spa	Indimi zifise amajambo agoye.	Los idiomas tienen palabras difíciles.
+run	spa	Iryo jambo ntaryonzi.	No sé esta palabra.
+run	spa	Ndazi uyo mukobwa.	Conozco a esta niña.
+run	spa	Kuki utinjira?	¿Por qué no entrás?
+run	spa	Sibiraba amahera.	Esto no es sobre dinero.
+run	spa	Ntibaza uyu munsi.	Ellos no van a venir hoy.
+run	spa	Mbwirizwa kwugurura idirisha?	¿Tengo que abrir la ventana?
+run	spa	Nyumviriza.	Escúchame.
+run	spa	Twavanye.	Nos separamos.
+run	spa	Twakuriye hamwe.	Nosotras crecimos juntas.
+run	spa	Kubera iki babikora?	¿Por qué lo hacen?
+run	spa	Ndakunda iyo ndi jenyene.	Me gusta estar solo.
+run	spa	Araguzi?	¿Te conoce?
+run	spa	Nakwiyumyiye.	He pensado en ti.
+run	spa	Uriga igifaransa?	¿Estás aprendiendo francés?
+run	spa	Ndashaka gusoma iki gitabo.	Quiero leer este libro.
+run	spa	Nariyumviye kuguma iminsi mike iwawe.	Me preguntaba si me dejarías quedarme contigo un par de días.
+run	spa	Nitwa Jack.	Me llamo Jack.
+run	spa	Ntusubire!	No lo vuelvas a hacer.
+run	spa	Mbe nambare iki - ipantalo canke ijipo?	¿Qué me pongo, pantalón o falda?
+run	spa	Ikibazo ciza.	Buena pregunta.
+run	spa	Sinshaka guteka.	No quiero cocinar.
+run	spa	Ni isaha icenda ibuze iminuta icumi n'itanu.	Son un cuarto para las tres.
+run	spa	Ntiwoshobora kubisubira ico wavuze?	¿Puedes repetir eso?
+run	spa	Simbesha na rimwe.	Nunca miento.
+run	spa	Urazi aho aba?	¿Sabes dónde vive?
+run	spa	Nturyame idirisha ryuguruye.	No duermas con la ventana abierta.
+run	spa	Nta muduga dufise.	No tenemos auto.
+run	spa	Mama wanje arihe?	¿Dónde está mi madre?
+run	spa	Ntibiri nkuko uvyiyumvira.	No es lo que piensas.
+run	spa	Afise umuduga.	Él tiene un coche.
+run	spa	Iyo udategereye, baza.	Si no entiendes, pregunta.
+run	spa	Uraba iki?	¿Qué estás mirando?
+run	spa	Si ikintu co kwirata.	No es algo de lo que uno pueda jactarse.
+run	spa	Wari umugambi wande?	¿De quién era ese plan?
+run	spa	Ntiwibagire gutwara ibaruwa.	No te olvides de enviar la carta.
+run	spa	Ntiwibagire gutwara ikete.	No te olvides de enviar la carta.
+run	spa	Ndameneka umutwe.	Me duele la cabeza.
+run	spa	So wawe arihe?	¿Dónde está tu padre?
+run	spa	Ndafise umuduga.	Tengo un coche.
+run	spa	Ni birebire birenze?	¿Es demasiado grande?
+run	spa	Mudutwaye hehe?	¿A dónde nos llevan?
+run	spa	Noshimishwa no kumubona.	Me gustaría verla.
+run	spa	Ndamubonye.	Le he visto.
+run	spa	Ndazi ico nogira.	Yo sé lo que haría.
+run	spa	Ntumpate kubikora.	No me hagas hacer esto.
+run	spa	Kubika ahakanye kandi humutse.	Guarde en un lugar fresco y seco.
+run	spa	Kubera iki wibaza ivyo?	¿Por qué piensas eso?
+run	spa	Sindagutegera.	No te comprendo.
+run	spa	Ndazi icarico urukundo.	Sé lo que es el amor.
+run	spa	Nzero ni ukwezi kwambere mu mwaka.	Enero es el primer mes del año.
+run	spa	Ntibintera iteka.	No estoy orgulloso de esto.
+run	spa	Sinzi ico novyiyumvirako.	No sé qué pensar.
+run	spa	Kora ibikorwa vyawe vy'ishure.	Haz los deberes.
+run	spa	Urashobora gutandukanya intama n'impene.	¿Puedes distinguir una cabra de un carnero?
+run	spa	Nuko rero nabigize.	Así es como lo hice.
+run	spa	Reka gutungira ijisho amabere yiwe!	¡Deja de mirarle las tetas!
+run	spa	Urashobora gutera ururirimbo.	Puedes cantar una canción.
+run	spa	Umunyeshuri arashaka kukubona.	Un estudiante quiere verte.
+run	spa	Va mu buriri bwanje!	Sal de mi cama.
+run	spa	Ntiwitinye.	No seas tímida.
+run	spa	Kera hari isengero ngaha.	Una vez hubo aquí una iglesia.
+run	spa	Ni umunsi!	¡Pero qué día!
+run	spa	Ndanezerewe ko ariho uri.	Me alegro de que estés aquí.
+run	spa	Data ntari i muhira.	Papá no está en casa.
+run	spa	Kera hari urusengero ngaha.	Una vez hubo aquí una iglesia.
+run	spa	Muri Abadagi, sivyo?	Sois alemanas, ¿verdad?
+run	spa	Capfuye?	¿Está roto?
+run	spa	Sinzi iryo jambo.	No conozco esa palabra.
+run	spa	Ni akazi kiwe.	Él es responsable de eso.
+run	spa	Ndazi aho ari.	Sé dónde está ella.
+run	spa	Turavyumva.	Lo entendemos.
+run	spa	Ingo kunsura.	Ven a visitarme.
+run	spa	Muzinaniye hehe?	¿De dónde se conocen?
+run	spa	Umukobwa wanje azorongorwa mu kwezi kwa gatandatu.	Mi hija se casará en junio.
+run	spa	Nshaka kwiga igifaransa.	Yo quiero estudiar francés.
+run	spa	Za kunsura.	Ven a visitarme.
+run	spa	Ibitoke bisa n'umuhondo.	Los plátanos son amarillos.
+run	spa	Uri umuvyeyi mwiza.	Eres una buena madre.
+run	spa	Narataye amarori yanje.	He perdido mis gafas.
+run	spa	Igihe ntikigize gukanya gusa, kiranajovye.	El clima no solo era frío, también era húmedo.
+run	spa	Turabizi.	Lo sabemos.
+run	spa	Ni umugambi mwiza.	Ese es un buen plan.
+run	spa	Urukundo rurahuma.	El amor es ciego.
+run	spa	Urashobora gutora irangi iryariryo ryose rigushimisha.	Puedes escoger cualquier color que te guste.
+run	spa	Asa na musazawe.	Se parece a tu hermano.
+run	spa	Uramundamukiriza ni mwahurira mu giteramo.	Por favor, salúdala de mi parte si la ves en la fiesta.
+run	spa	Uruhanga rwawe rurashushe cane. Ndakeeka ko ufise inyonko.	Tu frente está muy caliente, yo creo que tienes fiebre.
+run	spa	Uzi iki?	¿Qué sabes?
+run	spa	Nanje ndavyiyumvira uko.	Yo también pienso eso.
+run	spa	Ndizeye ko ukomeye neza.	Espero que te vaya bien.
+run	spa	Narinzi ko uri ngaha.	Yo sabía que estarías aquí.
+run	spa	Urazi ko mbwirizwa kugenda.	Sabes que tengo que ir.
+run	spa	Si ikintu co kwishima.	No es algo de lo que uno pueda jactarse.
+run	spa	Sinshaka kuba umutunzi.	No quiero ser rico.
+run	spa	Uranhunga ko ndabivuze.	Siento que haya dicho eso.
+run	spa	Nturi musazanje.	Tú no eres mi hermano.
+run	spa	Sinshaka kuba umutunzi.	No quiero ser rica.
+run	spa	Urazi ico yavuze?	¿Sabes qué dijo ella?
+run	spa	Hagarika uyo muduga.	Pará el coche.
+run	spa	Mu mwaka uheze navyaye imfura yanje.	Di a luz a mi primer hijo el año pasado.
+run	spa	Ntitugifise amahera.	Se nos ha acabado el dinero.
+run	spa	Ibiti vyinshi vyaraguye.	Se cayeron muchos árboles.
+run	spa	Urazi ko tugukunda.	Sabes que te queremos.
+run	spa	Nanje ndavyiyumvira uko.	Yo también lo pienso.
+run	spa	Ntanumwe amuzi neza kiretse abavyeyi biwe.	Aparte de sus padres nadie lo conoce bien.
+run	spa	Sinzi ico nshaka.	No sé lo que quiero.
+run	spa	Mbabarire cane!	Lo siento mucho.
+run	spa	Nshaka ko umubona.	Quiero que la veas.
+run	spa	Ururuka mu muduga.	¡Sal del coche!
+run	spa	Abana na we.	Ella vive con él.
+run	spa	Iyo ukeneye imfashanyo urampamagara.	Si usted necesita ayuda, no dude en llamarme.
+run	spa	Ni mwenewacu.	Somos hermanos.
+run	spa	Nabarira vyose abavyeyi banje.	Se lo he contado todo a mis padres.
+run	spa	Waciye ku kimenyetso c'itara ritukura.	Te pasaste una luz roja.
+run	spa	Mfise umukoshi.	Tengo mala suerte.
+run	spa	Uyu munsi ni kuwagatatu.	Hoy es miércoles.
+run	spa	Ntegerezwa gutaha.	Debo ir a casa.
+run	spa	Ntusubire kubikora.	No lo vuelvas a hacer.
+run	spa	Urantegera.	Tú me entiendes.
+run	spa	Ntaco ndabiziko.	No sé nada acerca de eso.
+run	spa	Kubera iki tutaja imuhira?	¿Por qué no nos vamos a casa?
+run	spa	Urya mugambi wari uwande?	¿De quién era ese plan?
+run	spa	Ntimushaka kumenya ivyabaye?	¿No queréis saber qué ha pasado?
+run	spa	We si umwana.	No es un niño.
+run	spa	Data wanje ntari imuhira.	Mi padre no está en casa.
+run	spa	Arazi ko umukunda?	¿Sabe él que tú lo amas?
+run	spa	Urashobora kugendayo.	Puedes ir allí.
+run	spa	Abashakashatsi bubutse ku magufa y'umuntu mw'isenga.	Los exploradores descubrieron un esqueleto en la cueva.
+run	spa	Uramuzi?	¿La conoces?
+run	spa	Turavukana.	Somos hermano y hermana.
+run	spa	Turajana?	¿Vamos juntos?
+run	spa	Simbizi.	No lo sé.
+run	spa	Aramutegera.	Ella le entiende.
+run	spa	Amadirisha araguruye.	Las ventanas están abiertas.
+run	spa	Ndazi izina ryiwe gusa.	Yo a él sólo lo conozco de nombre.
+run	spa	Akinirahe?	¿Dónde está jugando?
+run	spa	Ntushaka kubimenya!	¡No lo quieres saber!
+run	spa	Nzokunezereza.	Te haré feliz.
+run	spa	Mubaze izina ryiwe.	Pregúntale a él su nombre.
+run	spa	Kubera iki urwanko rwinshi?	¿Por qué tanto odio?
+run	spa	Aba ngaha?	¿Vive aquí?
+run	spa	Imana iguhezagire!	¡Que Dios te bendiga!
+run	spa	Sintegera igifaransa.	No entiendo francés.
+run	spa	Ikiganza gifise intoki zitanu: urukumu, inkombarukoko, msumba zose, igihugunibenga, agahererezi.	La mano tiene cinco dedos: el pulgar, el índice, el corazón, el anular y el meñique.
+run	spa	Ndamukunda.	La amo.
+run	spa	Si umunsi wanje.	No es mi día.
+run	spa	Sinzi izina ryiwe.	No sé su nombre.
+run	spa	Urafise umuduga?	¿Tienes coche?
+run	spa	Urazi aho arihe?	¿Sabes dónde está ella?
+run	spa	Bitwarire nyoko.	Llevale esto a tu madre.
+run	spa	Ndabitegera.	Lo entiendo.
+run	spa	Ntanumwe abizi.	Nadie lo sabe.
+run	spa	Sinshaka kukubona.	No quiero verte.
+run	spa	Ntibinshimishije.	No estoy contento con esto.
+run	spa	Musazawe arihe?	¿Dónde está tu hermano?
+run	spa	Iyo aguma imuhira uyo munsi, ntiyogize isanganya.	Si él se hubiese quedado en casa ese día, no se habría encontrado con ese desastre.
+run	spa	Ndazi ingene bikorwa.	Sé como hacerlo.

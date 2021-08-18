@@ -137,13 +137,12 @@ BASIC_FILTERS = | perl -CS -pe 'tr[\x{9}\x{A}\x{D}\x{20}-\x{D7FF}\x{E000}-\x{FFF
 
 
 ## available OPUS languages (IDs in the way they appear in the corpus)
-## (skip 'simple' = simple English in Wikipedia in the English data sets)
 
 ifneq (${wildcard opus-langs.txt},)
-  OPUS_LANGS = ${filter-out simple,${shell head -1 opus-langs.txt}}
+  OPUS_LANGS = ${shell head -1 opus-langs.txt}
 endif
 ifneq (${wildcard opus-langpairs3.txt},)
-  OPUS_PAIRS3 = ${filter-out simple,${shell head -1 opus-langpairs.txt}}
+  OPUS_PAIRS3 = ${shell head -1 opus-langpairs.txt}
 endif
 
 ## all languages in the current Tatoeba data set in OPUS
@@ -161,12 +160,21 @@ TATOEBA_PAIRS3    = ${sort ${shell ${SCRIPTDIR}/convert_langpair_codes.pl ${TATO
 
 ## data directories
 
-DATADIR     = data
-RELEASEDIR  = ${DATADIR}/release/${VERSION}
-DEVTESTDIR  = ${DATADIR}/devtest
-TESTDATADIR = ${DATADIR}/test
-DEVDATADIR  = ${DATADIR}/dev
-INFODIR     = ${RELEASEDIR}
+DATADIR        = data
+RELEASEHOME    = ${DATADIR}/release
+RELEASEDIR     = ${RELEASEHOME}/${VERSION}
+TESTRELEASEDIR = ${RELEASEHOME}/test/${VERSION}
+DEVRELEASEDIR  = ${RELEASEHOME}/dev/${VERSION}
+INFODIR        = ${RELEASEDIR}
+
+## additional data directories for
+## - incremental updates of dev/test data (DEVTESTDIR)
+## - latest test and dev data sets
+
+DEVTESTDIR     = ${DATADIR}/devtest
+TESTDATADIR    = ${DATADIR}/test
+DEVDATADIR     = ${DATADIR}/dev
+
 
 
 
@@ -182,6 +190,13 @@ LANGIDS     := ${patsubst %,${INFODIR}/%/langids,${TATOEBA_PAIRS3}}
 OVERLAPTEST := ${patsubst ${RELEASEDIR}/%/train.id.gz,${INFODIR}/%/overlap-with-test,${wildcard ${RELEASEDIR}/*/train.id.gz}}
 OVERLAPDEV  := ${patsubst ${RELEASEDIR}/%/train.id.gz,${INFODIR}/%/overlap-with-dev,${wildcard ${RELEASEDIR}/*/train.id.gz}}
 
+
+## dev and test files with version numbers
+
+TEST_RELEASE_TSV := ${patsubst ${RELEASEDIR}/%/test.id,${TESTRELEASEDIR}/tatoeba-test-${VERSION}.%.txt,\
+			${wildcard ${RELEASEDIR}/*/test.id}}
+DEV_RELEASE_TSV := ${patsubst ${RELEASEDIR}/%/dev.id,${DEVRELEASEDIR}/tatoeba-dev-${VERSION}.%.txt,\
+			${wildcard ${RELEASEDIR}/*/dev.id}}
 
 ## language pairs that we can release
 
@@ -270,10 +285,19 @@ WIKI_LABELS    = ${patsubst %.id.gz,%.langs.txt,${WIKI_DOCS}}
 ## make all (completely new release)
 ## including training data and extra data sets
 
-all: opus-langs.txt
+all: opus-langpairs3.txt
 	${MAKE} data
 	${MAKE} extra-traindata
 	${MAKE} released-remove-empty
+	${MAKE} dev-tsv test-tsv test-release dev-release
+	${MAKE} ${DATADIR}/README.md
+	${MAKE} subsets
+	${MAKE} extra-statistics
+	${MAKE} released-data-counts
+	${MAKE} release-tag
+
+# temporary target .... DELETE!!!
+missing:
 	${MAKE} dev-tsv test-tsv
 	${MAKE} ${DATADIR}/README.md
 	${MAKE} subsets
@@ -281,11 +305,14 @@ all: opus-langs.txt
 	${MAKE} released-data-counts
 	${MAKE} release-tag
 
+
 release-job:
 	${MAKE} HPC_MEM=32g HPC_CORES=16 HPC_DISK=1000 HPC_TIME=3-00 release.submit
 #	${MAKE} HPC_MEM=32g HPC_CORES=16 HPC_DISK=1000 HPC_TIME=14-00 HPC_QUEUE=longrun release.submit
 
 release:
+	rm -f opus-langs.txt opus-langpairs.txt opus-langpairs3.txt
+	${MAKE} opus-langpairs3.txt
 	${MAKE} TATOEBA_VERSION=${notdir ${shell realpath ${OPUS_HOME}/Tatoeba/latest 2>/dev/null}} \
 		VERSION=v${TODAY} all
 	mv -f README.md README-v${TODAY}.md
@@ -295,7 +322,7 @@ release:
 	@echo "  module load allas"
 	@echo "  allas-conf"
 	@echo "  make VERSION=v${TODAY} upload-release"
-	@echo "Ande then push the updates to git"
+	@echo "And then push the updates to git"
 	@echo "  make VERSION=v${TODAY} release-push"
 	@echo "--------------------------------"
 
@@ -362,7 +389,7 @@ testset-release:
 	@echo "  module load allas"
 	@echo "  allas-conf"
 	@echo "  make VERSION=v${TODAY} upload-test upload-dev"
-	@echo "Ande then push the updates to git"
+	@echo "And then push the updates to git"
 	@echo "  make VERSION=v${TODAY} release-push"
 	@echo "--------------------------------"
 
@@ -395,6 +422,8 @@ update update-testdata: ${UPDATED_TEST_DATA}
 
 test-tsv: ${TEST_TSV}
 dev-tsv: ${DEV_TSV}
+test-release: ${TEST_RELEASE_TSV}
+dev-release: ${DEV_RELEASE_TSV}
 langids: ${DATADIR}/langids-train.txt ${DATADIR}/langids-dev.txt ${DATADIR}/langids-test.txt \
 	${DATADIR}/langids-common.txt ${DATADIR}/langids-train-only.txt ${DATADIR}/langids-devtest-only.txt
 statistics: ${STATISTICS}
@@ -549,23 +578,29 @@ extra-upload: ${patsubst %,${RELEASEDIR}/%.done,${EXTRA_OPUS_PAIRS3}}
 
 ## list of all languages in OPUS
 opus-langs.txt:
-	wget -O $@.tmp http://opus.nlpl.eu/opusapi/?languages=true
-	grep '",' $@.tmp | tr '",' '  ' | sort | tr "\n" ' ' | sed 's/  */ /g' > $@
-	rm -f $@.tmp
+	wget -O - -q http://opus.nlpl.eu/opusapi/?languages=true |\
+	sed 's/^.*\[//;s/\].*$$//' |\
+	tr ',' "\n" | sed 's/"//g' | \
+	grep -v 'simple' | grep -v '^jw_' |\
+	sort | tr "\n" ' ' > $@
 
 ## all language pairs in opus in one file
-opus-langpairs.txt:
-	for l in ${OPUS_LANGS}; do \
-	  wget -O $@.tmp http://opus.nlpl.eu/opusapi/?source=$$l\&languages=true; \
-	  grep '",' $@.tmp | tr '",' '  ' | sort | tr "\n" ' ' | sed 's/  */ /g' > $@.tmp2; \
-	  for t in `cat $@.tmp2`; do \
+opus-langpairs.txt: opus-langs.txt
+	for l in ${shell head -1 $<}; do \
+	  echo "fetch language pairs for $$l"; \
+	  wget -O - -q http://opus.nlpl.eu/opusapi/?source=$$l\&languages=true |\
+	  sed 's/^.*\[//;s/\].*$$//' |\
+	  tr ',' "\n" | sed 's/"//g' | \
+	  grep -v 'simple' | grep -v 'jw_' |\
+	  sort | tr "\n" ' ' > $@.tmp; \
+	  for t in `cat $@.tmp`; do \
 	    if [ $$t \< $$l ]; then \
 	      echo "$$t-$$l" >> $@.all; \
 	    else \
 	      echo "$$l-$$t" >> $@.all; \
 	    fi \
 	  done; \
-	  rm -f $@.tmp $@.tmp2; \
+	  rm -f $@.tmp; \
 	done
 	tr ' ' "\n" < $@.all |\
 	sed 's/ //g' | sort -u | tr "\n" ' ' > $@
@@ -679,6 +714,7 @@ ${RELEASEDIR}/%/train.id.gz:
 	rmdir ${dir $@}train.d
 
 ${DATADIR}/%/README.md: ${DATADIR}/%
+	@mkdir -p ${dir $@}
 	@echo "create $@ .."
 	@echo "# Tatoeba MT Challenge - ${notdir $<} - ${VERSION}" > $@
 	@echo ""                              >> $@
@@ -860,6 +896,46 @@ ${TEST_TSV}: ${DATADIR}/test/%/test.txt: ${RELEASEDIR}/%/test.id
 ${DEV_TSV}: ${DATADIR}/dev/%/dev.txt: ${RELEASEDIR}/%/dev.id
 	mkdir -p ${dir $@}
 	paste $< ${<:.id=.src} ${<:.id=.trg} > $@
+
+
+## tab-separated test and dev files with version number
+## and separate files for language variants
+
+${TESTRELEASEDIR}/tatoeba-test-${VERSION}.%.txt: ${RELEASEDIR}/%/test.id
+	@mkdir -p ${dir $@}
+	if [ `cat $< | wc -l` -ge 200 ]; then \
+	  a=`cat $< | wc -l`; \
+	  paste $< ${<:.id=.src} ${<:.id=.trg} > $@; \
+	  for s in `cut -f1 $< | sort -u`; do \
+	    for t in `cut -f2 $< | sort -u`; do \
+	      if [ $$s-$$t != ${patsubst ${RELEASEDIR}/%/test.id,%,$<} ]; then \
+	        b=`grep "^$$s	$$t	" $@ | wc -l`; \
+	        if [ $$b -ge 200 ] && [ $$a -ne $$b ]; then \
+	          grep "^$$s	$$t	" $@ > ${TESTRELEASEDIR}/tatoeba-test-${VERSION}.$$s-$$t.txt; \
+	        fi \
+	      fi \
+	    done \
+	  done \
+	fi
+
+${DEVRELEASEDIR}/tatoeba-dev-${VERSION}.%.txt: ${RELEASEDIR}/%/dev.id
+	@mkdir -p ${dir $@}
+	if [ `cat ${dir $<}test.id | wc -l` -ge 200 ]; then \
+	  if [ `cat $< | wc -l` -ge 20 ]; then \
+	    a=`cat $< | wc -l`; \
+	    paste $< ${<:.id=.src} ${<:.id=.trg} > $@; \
+	    for s in `cut -f1 $< | sort -u`; do \
+	      for t in `cut -f2 $< | sort -u`; do \
+	        if [ $$s-$$t != ${patsubst ${RELEASEDIR}/%/dev.id,%,$<} ]; then \
+	          b=`grep "^$$s	$$t	" $@ | wc -l`; \
+	          if [ $$b -ge 20 ] && [ $$a -ne $$b ]; then \
+	            grep "^$$s	$$t	" $@ > ${DEVRELEASEDIR}/tatoeba-dev-${VERSION}.$$s-$$t.txt; \
+	          fi \
+	        fi \
+	      done \
+	    done \
+	  fi \
+	fi
 
 
 ## do some file size checking and remove empty files
@@ -1533,12 +1609,14 @@ CSC_PROJECT = project_2000661
 APUT_FLAGS  = -p ${CSC_PROJECT} --override --nc --skip-filelist
 
 ## released train/dev/test data
-${RELEASEDIR}/%.done: ${RELEASEDIR}/% ${RELEASEDIR}/%/README.md
+${RELEASEDIR}/%.done: ${RELEASEDIR}/% 
+	${MAKE} $</README.md
 	a-put ${APUT_FLAGS} -b ${RELEASE_CONTAINER} $<
 	touch $@
 
 ## incremental data sets
-${DEVTESTDIR}.done: ${DEVTESTDIR} ${DEVTESTDIR}/README.md
+${DEVTESTDIR}.done: ${DEVTESTDIR}
+	${MAKE} $</README.md
 	a-put ${APUT_FLAGS} -b ${DEVTEST_CONTAINER} $<
 	touch $@
 
@@ -1559,7 +1637,7 @@ ${TESTDATADIR}-${VERSION}.size: ${TESTDATADIR}
 ${TESTDATADIR}-${VERSION}: ${TESTDATADIR}-${VERSION}.size ${TESTDATADIR}-${VERSION}/README.md
 	mkdir -p ${dir $@}
 	egrep '[0-9]{4,}' $< | cut -f2 -d' '  > $@.selected
-	egrep '[2-9]{3}'  $< | cut -f2 -d' ' >> $@.selected
+	egrep '[2-9][0-9]{2}'  $< | cut -f2 -d' ' >> $@.selected
 	tar -T $@.selected --transform 's,^${TESTDATADIR},${TESTDATADIR}-${VERSION},' -cf $@.tar
 	tar -xf $@.tar
 	rm -f $@.tar
@@ -1571,7 +1649,7 @@ ${TESTDATADIR}-${VERSION}.done: ${TESTDATADIR}-${VERSION}
 
 
 
-## size of each test set
+## size of each dev set
 ${DEVDATADIR}-${VERSION}.size: ${DEVDATADIR}
 	find $< -name 'dev.txt' -exec wc -l {} \; > $@
 
@@ -1579,7 +1657,7 @@ ${DEVDATADIR}-${VERSION}.size: ${DEVDATADIR}
 ${DEVDATADIR}-${VERSION}: ${DEVDATADIR}-${VERSION}.size ${DEVDATADIR}-${VERSION}/README.md
 	mkdir -p ${dir $@}
 	egrep '[0-9]{4,}' $< | cut -f2 -d' '  > $@.selected
-	egrep '[2-9]{3}'  $< | cut -f2 -d' ' >> $@.selected
+	egrep '[2-9][0-9]{2}'  $< | cut -f2 -d' ' >> $@.selected
 	tar -T $@.selected --transform 's,^${DEVDATADIR},${DEVDATADIR}-${VERSION},' -cf $@.tar
 	tar -xf $@.tar
 	rm -f $@.tar

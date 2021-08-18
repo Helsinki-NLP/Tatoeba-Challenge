@@ -184,7 +184,7 @@
 |                 Arabic - Urdu  [ara-urd](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/ara-urd.tar)  |          2|            |    2615292|
 |              Arabic - Volapük  [ara-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/ara-vol.tar)  |         21|          3|            |
 |              Arabic - Yiddish  [ara-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/ara-yid.tar)  |        149|         38|      45077|
-|  Arabic - Standard Moroccan Tamazight  [ara-zgh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/ara-zgh.tar)  |         33|            |            |
+|  Arabic - Standard Moroccan Tamazight  [ara-zgh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/ara-zgh.tar)  |         33|            |        255|
 |              Arabic - Chinese  [ara-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/ara-zho.tar)  |         93|          2|   44930202|
 |           Aragonese - English  [arg-eng](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/arg-eng.tar)  |        105|            |      67624|
 |            Aragonese - French  [arg-fra](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/arg-fra.tar)  |          8|            |      32715|
@@ -201,7 +201,7 @@
 |            Assamese - Italian  [asm-ita](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/asm-ita.tar)  |          8|            |     176315|
 |           Assamese - Japanese  [asm-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/asm-jpn.tar)  |         17|            |      33333|
 |            Assamese - Turkish  [asm-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/asm-tur.tar)  |          2|            |      37282|
-|               Assamese - Zaza  [asm-zza](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/asm-zza.tar)  |          1|            |            |
+|               Assamese - Zaza  [asm-zza](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/asm-zza.tar)  |          1|            |         59|
 |            Asturian - Catalan  [ast-cat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/ast-cat.tar)  |         13|            |     662043|
 |             Asturian - German  [ast-deu](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/ast-deu.tar)  |         35|            |     114318|
 |            Asturian - English  [ast-eng](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/ast-eng.tar)  |        107|            |    3163018|
@@ -440,7 +440,7 @@
 |                Breton - Dutch  [bre-nld](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/bre-nld.tar)  |          6|            |     262325|
 |            Breton - Norwegian  [bre-nor](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/bre-nor.tar)  |          1|            |     192184|
 |              Breton - Turkish  [bre-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/bre-tur.tar)  |        101|            |     124085|
-|  Breton - Standard Moroccan Tamazight  [bre-zgh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/bre-zgh.tar)  |          1|            |            |
+|  Breton - Standard Moroccan Tamazight  [bre-zgh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/bre-zgh.tar)  |          1|            |        251|
 |        Bodo (India) - English  [brx-eng](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/brx-eng.tar)  |         12|            |      11474|
 |              Buriat - English  [bua-eng](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/bua-eng.tar)  |         17|            |        758|
 |               Buriat - French  [bua-fra](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/bua-fra.tar)  |          4|            |        422|
@@ -1242,7 +1242,7 @@
 |           English - Norwegian  [eng-nor](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-nor.tar)  |       5000|       5707|  128202505|
 |              English - Novial  [eng-nov](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-nov.tar)  |        217|         14|          1|
 |           English - Tase Naga  [eng-nst](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-nst.tar)  |        805|            |            |
-|                English - Nuer  [eng-nus](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-nus.tar)  |         21|            |            |
+|                English - Nuer  [eng-nus](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-nus.tar)  |         21|            |        958|
 |              English - Nyanja  [eng-nya](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-nya.tar)  |         22|            |     945696|
 |  English - Old Aramaic (up to 700 BCE)  [eng-oar](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-oar.tar)  |          7|            |            |
 |  English - Occitan (post 1500)  [eng-oci](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-oci.tar)  |        841|            |    1532613|
@@ -1350,7 +1350,7 @@
 |             English - Yiddish  [eng-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-yid.tar)  |       2483|       1892|     257688|
 |              English - Yoruba  [eng-yor](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-yor.tar)  |         35|            |     680118|
 |              English - Zeeuws  [eng-zea](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-zea.tar)  |          3|            |            |
-|  English - Standard Moroccan Tamazight  [eng-zgh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-zgh.tar)  |          8|            |            |
+|  English - Standard Moroccan Tamazight  [eng-zgh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-zgh.tar)  |          8|            |        858|
 |             English - Chinese  [eng-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-zho.tar)  |      10390|      43075|  129323178|
 |                English - Zulu  [eng-zul](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-zul.tar)  |         51|         17|    1303505|
 |                English - Zaza  [eng-zza](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/eng-zza.tar)  |        529|          5|        174|
@@ -1815,7 +1815,7 @@
 |                French - Xhosa  [fra-xho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/fra-xho.tar)  |          1|            |    1078611|
 |              French - Yiddish  [fra-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/fra-yid.tar)  |        384|         61|      22350|
 |               French - Zeeuws  [fra-zea](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/fra-zea.tar)  |          2|            |            |
-|  French - Standard Moroccan Tamazight  [fra-zgh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/fra-zgh.tar)  |          3|            |            |
+|  French - Standard Moroccan Tamazight  [fra-zgh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/fra-zgh.tar)  |          3|            |        249|
 |              French - Chinese  [fra-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/fra-zho.tar)  |       9994|       7558|   57926170|
 |  Northern Frisian - Northern Frisian  [frr-frr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/frr-frr.tar)  |          4|            |            |
 |  Northern Frisian - Western Frisian  [frr-fry](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/frr-fry.tar)  |          4|            |            |
@@ -2583,7 +2583,7 @@
 |           Kabyle - Vietnamese  [kab-vie](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kab-vie.tar)  |          2|            |      36459|
 |              Kabyle - Volapük  [kab-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kab-vol.tar)  |          4|            |            |
 |              Kabyle - Yiddish  [kab-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kab-yid.tar)  |         19|            |          4|
-|  Kabyle - Standard Moroccan Tamazight  [kab-zgh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kab-zgh.tar)  |         11|            |            |
+|  Kabyle - Standard Moroccan Tamazight  [kab-zgh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kab-zgh.tar)  |         11|            |        205|
 |              Kabyle - Chinese  [kab-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kab-zho.tar)  |         22|            |      50619|
 |          Kalaallisut - Polish  [kal-pol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kal-pol.tar)  |          1|            |     165217|
 |         Kalaallisut - Spanish  [kal-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kal-spa.tar)  |          8|            |     184125|
@@ -2599,7 +2599,7 @@
 |          Georgian - Ukrainian  [kat-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kat-ukr.tar)  |          5|            |     745028|
 |         Georgian - Vietnamese  [kat-vie](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kat-vie.tar)  |          1|            |     816828|
 |            Georgian - Chinese  [kat-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kat-zho.tar)  |         14|            |     325324|
-|               Kazakh - Kazakh  [kaz-kaz](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kaz-kaz.tar)  |         60|            |            |
+|               Kazakh - Kazakh  [kaz-kaz](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kaz-kaz.tar)  |         60|            |       5420|
 |                Kazakh - Latin  [kaz-lat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kaz-lat.tar)  |          1|            |      10357|
 |              Kazakh - Latvian  [kaz-lav](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kaz-lav.tar)  |          1|            |     299115|
 |   Kazakh - Lingua Franca Nova  [kaz-lfn](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/kaz-lfn.tar)  |          3|            |            |
@@ -3225,7 +3225,7 @@
 |              Quenya - Yiddish  [qya-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/qya-yid.tar)  |          9|          1|            |
 |             Tarifit - Spanish  [rif-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/rif-spa.tar)  |         11|            |            |
 |             Romansh - Spanish  [roh-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/roh-spa.tar)  |          4|            |      15957|
-|               Romany - Romany  [rom-rom](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/rom-rom.tar)  |          4|            |            |
+|               Romany - Romany  [rom-rom](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/rom-rom.tar)  |          4|            |      81822|
 |             Romany - Romanian  [rom-ron](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/rom-ron.tar)  |          6|            |       6414|
 |                Romany - Tatar  [rom-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/rom-tat.tar)  |          3|            |         23|
 |              Romany - Turkish  [rom-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2021-08-07/rom-tur.tar)  |          2|            |       5999|
