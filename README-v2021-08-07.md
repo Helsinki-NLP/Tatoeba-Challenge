@@ -2,7 +2,7 @@
 
 # The Tatoeba Translation Challenge (v2021-08-07)
 
-This is a challenge set for machine translation that contains 29G translation units in 3708 bitexts covering 557 languages. The package includes a release of 631 test sets derived from [Tatoeba.org](https://tatoeba.org) that cover 134 languages.
+This is a challenge set for machine translation that contains 29G translation units in 3,708 bitexts covering 557 languages. The package includes a release of 631 test sets derived from [Tatoeba.org](https://tatoeba.org) that cover 134 languages.
 
 * Benchmark for realistic low-resource scenarios
 * [Training, development and test data](data/README.md)
@@ -60,7 +60,7 @@ Please, cite the following paper if you use data and models from this distributi
 
 ## Data releases
 
-The current release includes data for 2,963 language pairs covering 555 languages.
+The current release includes data for 3,708 language pairs covering 557 languages.
 The data sets are released per language pair with the following structure (using deu-eng as an example):
 
 ```
