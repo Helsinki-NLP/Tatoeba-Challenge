@@ -193,9 +193,9 @@ OVERLAPDEV  := ${patsubst ${RELEASEDIR}/%/train.id.gz,${INFODIR}/%/overlap-with-
 
 ## dev and test files with version numbers
 
-TEST_RELEASE_TSV := ${patsubst ${RELEASEDIR}/%/test.id,${TESTRELEASEDIR}/tatoeba-test-${VERSION}.%.txt,\
+TEST_RELEASE_TSV := ${patsubst ${RELEASEDIR}/%/test.id,${TESTRELEASEDIR}/tatoeba-test-${VERSION}.%.txt.gz,\
 			${wildcard ${RELEASEDIR}/*/test.id}}
-DEV_RELEASE_TSV := ${patsubst ${RELEASEDIR}/%/dev.id,${DEVRELEASEDIR}/tatoeba-dev-${VERSION}.%.txt,\
+DEV_RELEASE_TSV := ${patsubst ${RELEASEDIR}/%/dev.id,${DEVRELEASEDIR}/tatoeba-dev-${VERSION}.%.txt.gz,\
 			${wildcard ${RELEASEDIR}/*/dev.id}}
 
 ## language pairs that we can release
@@ -339,8 +339,8 @@ release-tag:
 	git add ${TESTDATADIR}/*/*.txt
 	git add ${DEVDATADIR}/*/*.txt
 	git add ${DEVTESTDIR}/*/*.txt
-	git add ${TESTRELEASEDIR}/*.txt
-	git add ${DEVRELEASEDIR}/*.txt
+	git add ${TESTRELEASEDIR}/*.txt.gz
+	git add ${DEVRELEASEDIR}/*.txt.gz
 	git add ${DATADIR}/*-${VERSION}.md ${DATADIR}/subsets/*.md ${DATADIR}/subsets/${VERSION}/*.md
 	git add README-${VERSION}.md
 	git add ${DATA_COUNT_FILES}
@@ -440,8 +440,8 @@ upload-release: upload-test upload-dev upload-train
 
 ## individual data set uploads
 upload-devtest: ${DEVTESTDIR}.done
-upload-test: ${TESTDATADIR}-${VERSION}.done
-upload-dev: ${DEVDATADIR}-${VERSION}.done
+upload-test: ${TESTDATADIR}-${VERSION}.done ${RELEASEHOME}/test.done
+upload-dev: ${DEVDATADIR}-${VERSION}.done ${RELEASEHOME}/dev.done
 upload-train: ${patsubst %,%.done,${RELEASE_DATA}}
 # upload-train: ${patsubst %,${RELEASEDIR}/%.done,${TATOEBA_PAIRS3}}
 upload-mono: ${patsubst %,${RELEASEDIR}/%.done,${WIKI_LANGS3}} # ${RELEASEDIR}/wiki.langs.done
@@ -906,35 +906,37 @@ ${DEV_TSV}: ${DATADIR}/dev/%/dev.txt: ${RELEASEDIR}/%/dev.id
 ## tab-separated test and dev files with version number
 ## and separate files for language variants
 
-${TESTRELEASEDIR}/tatoeba-test-${VERSION}.%.txt: ${RELEASEDIR}/%/test.id
+${TESTRELEASEDIR}/tatoeba-test-${VERSION}.%.txt.gz: ${RELEASEDIR}/%/test.id
 	@mkdir -p ${dir $@}
 	if [ `cat $< | wc -l` -ge 200 ]; then \
 	  a=`cat $< | wc -l`; \
-	  paste $< ${<:.id=.src} ${<:.id=.trg} > $@; \
+	  paste $< ${<:.id=.src} ${<:.id=.trg} | gzip -c > $@; \
 	  for s in `cut -f1 $< | sort -u`; do \
 	    for t in `cut -f2 $< | sort -u`; do \
 	      if [ $$s-$$t != ${patsubst ${RELEASEDIR}/%/test.id,%,$<} ]; then \
 	        b=`grep "^$$s	$$t	" $@ | wc -l`; \
 	        if [ $$b -ge 200 ] && [ $$a -ne $$b ]; then \
-	          grep "^$$s	$$t	" $@ > ${TESTRELEASEDIR}/tatoeba-test-${VERSION}.$$s-$$t.txt; \
+	          zcat $@ | grep "^$$s	$$t	" | \
+	          gzip -c > ${TESTRELEASEDIR}/tatoeba-test-${VERSION}.$$s-$$t.txt.gz; \
 	        fi \
 	      fi \
 	    done \
 	  done \
 	fi
 
-${DEVRELEASEDIR}/tatoeba-dev-${VERSION}.%.txt: ${RELEASEDIR}/%/dev.id
+${DEVRELEASEDIR}/tatoeba-dev-${VERSION}.%.txt.gz: ${RELEASEDIR}/%/dev.id
 	@mkdir -p ${dir $@}
 	if [ `cat ${dir $<}test.id | wc -l` -ge 200 ]; then \
 	  if [ `cat $< | wc -l` -ge 20 ]; then \
 	    a=`cat $< | wc -l`; \
-	    paste $< ${<:.id=.src} ${<:.id=.trg} > $@; \
+	    paste $< ${<:.id=.src} ${<:.id=.trg} | gzip -c > $@; \
 	    for s in `cut -f1 $< | sort -u`; do \
 	      for t in `cut -f2 $< | sort -u`; do \
 	        if [ $$s-$$t != ${patsubst ${RELEASEDIR}/%/dev.id,%,$<} ]; then \
 	          b=`grep "^$$s	$$t	" $@ | wc -l`; \
 	          if [ $$b -ge 20 ] && [ $$a -ne $$b ]; then \
-	            grep "^$$s	$$t	" $@ > ${DEVRELEASEDIR}/tatoeba-dev-${VERSION}.$$s-$$t.txt; \
+	            zcat $@ | grep "^$$s	$$t	" |\
+	            gzip -c > ${DEVRELEASEDIR}/tatoeba-dev-${VERSION}.$$s-$$t.txt.gz; \
 	          fi \
 	        fi \
 	      done \
@@ -1633,6 +1635,10 @@ ${RELEASEDIR}/wiki.langs.done:
 	cd ${RELEASEDIR} && swift upload ${RELEASE_CONTAINER} wiki.langs.txt
 	touch $@
 
+## all released test and dev data
+${RELEASEHOME}/test.done ${RELEASEHOME}/dev.done: %.done: %
+	a-put ${APUT_FLAGS} -b ${RELEASE_CONTAINER} $<
+	touch $@
 
 
 ## size of each test set
