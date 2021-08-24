@@ -1,8 +1,8 @@
 
 
-# The Tatoeba Translation Challenge
+# The Tatoeba Translation Challenge (v2021-08-07)
 
-A new challenge set for machine translation covering over 500 languages and thousands of language pairs.
+A new challenge set for machine translation covering 136 languages in 633 language pairs and training data for 2374 language pairs.
 
 * Benchmark for realistic low-resource scenarios
 * [Training, development and test data](data/README.md)

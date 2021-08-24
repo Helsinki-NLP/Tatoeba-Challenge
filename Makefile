@@ -364,14 +364,19 @@ TRAINSET_VERSION      ?= ${VERSION}
 EXTRATRAINSET_VERSION ?= ${VERSION}
 MONO_VERSION          ?= ${VERSION}
 
-README.md: README.template
+README.md: README.template ${TESTDATADIR}-${VERSION} ${DEVDATADIR}-${VERSION}
 	sed 	-e 's/%%RELEASE%%/${VERSION}/g' \
 		-e 's/%%TESTSET_RELEASE%%/${TESTSET_VERSION}/g' \
 		-e 's/%%DEVSET_RELEASE%%/${DEVSET_VERSION}/g' \
 		-e 's/%%TRAINSET_RELEASE%%/${TRAINSET_VERSION}/g' \
 		-e 's/%%EXTRATRAINSET_RELEASE%%/${EXTRATRAINSET_VERSION}/g' \
 		-e 's/%%MONO_RELEASE%%/${MONO_VERSION}/g' \
+		-e 's/%%NR_TEST_LANGS%%/${shell ls ${TESTDATADIR}-${VERSION} | grep '-' | tr '-' "\n" | sort -u | wc -l}/' \
+		-e 's/%%NR_TEST_LANGPAIRS%%/${shell ls ${TESTDATADIR}-${VERSION} | grep '-' | wc -l}/' \
+		-e 's/%%NR_TRAIN_LANGPAIRS%%/${shell find ${RELEASEDIR} -name "train.id.gz" | wc -l}/' \
 	< $< > $@
+
+
 
 ## make a new test set release
 ## (skip training data)
