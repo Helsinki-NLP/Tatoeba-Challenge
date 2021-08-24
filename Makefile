@@ -1615,6 +1615,11 @@ cleanup-model-dirs:
 CSC_PROJECT = project_2000661
 APUT_FLAGS  = -p ${CSC_PROJECT} --override --nc --skip-filelist
 
+## all released test and dev data
+${RELEASEHOME}/test.done ${RELEASEHOME}/dev.done: %.done: %
+	a-put ${APUT_FLAGS} -b ${DEVTEST_CONTAINER} $<
+	touch $@
+
 ## released train/dev/test data
 ${RELEASEDIR}/%.done: ${RELEASEDIR}/% 
 	${MAKE} $</README.md
@@ -1635,10 +1640,6 @@ ${RELEASEDIR}/wiki.langs.done:
 	cd ${RELEASEDIR} && swift upload ${RELEASE_CONTAINER} wiki.langs.txt
 	touch $@
 
-## all released test and dev data
-${RELEASEHOME}/test.done ${RELEASEHOME}/dev.done: %.done: %
-	a-put ${APUT_FLAGS} -b ${RELEASE_CONTAINER} $<
-	touch $@
 
 
 ## size of each test set
