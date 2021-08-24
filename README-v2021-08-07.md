@@ -5,7 +5,7 @@
 This is a challenge set for machine translation that contains 29G translation units in 3,708 bitexts covering 557 languages. The package includes a release of 631 test sets derived from [Tatoeba.org](https://tatoeba.org) that cover 134 languages.
 
 * Benchmark for realistic low-resource scenarios
-* [Training, development and test data](data/README.md)
+* [Training](data/README.md), [development](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/dev.tar) and [test data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/test.tar) 
 * [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-all.md) ([training procedures](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md))
 * [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
 * New: [The status of available NMT models on a map](https://opus.nlpl.eu/NMT-map/Tatoeba/all/src2trg/) (for release v2020-07-28)
