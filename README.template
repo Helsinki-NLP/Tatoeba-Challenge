@@ -22,8 +22,8 @@ A new challenge set for machine translation covering over 500 languages and thou
 
 ## Downloads
 
-* [Test data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/test.tar), [individual files](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/data/release/test) 
-* [Development data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/dev.tar), [individual files](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/data/release/dev) 
+* [All test data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/test.tar), ([individual files](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/data/release/test))
+* [All development data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/dev.tar) ([individual files](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/data/release/dev))
 * [Bilingual training data](data/README-%%TRAINSET_RELEASE%%.md) (%%TRAINSET_RELEASE%%), language-pair specific downloads
 * [Extra bilingual training data](data/subsets/NoTestData-%%EXTRATRAINSET_RELEASE%%.md) (%%EXTRATRAINSET_RELEASE%%), language-pair specific downloads
 * [Monolingual data sets](data/MonolingualData-%%MONO_RELEASE%%.md), [with document boundaries](data/Wiki-%%MONO_RELEASE%%.md), [de-duplicated and shuffled](data/Wiki-%%MONO_RELEASE%%.md) (%%MONO_RELEASE%%)
