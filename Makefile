@@ -371,10 +371,15 @@ README.md: README.template ${TESTDATADIR}-${VERSION} ${DEVDATADIR}-${VERSION}
 		-e 's/%%TRAINSET_RELEASE%%/${TRAINSET_VERSION}/g' \
 		-e 's/%%EXTRATRAINSET_RELEASE%%/${EXTRATRAINSET_VERSION}/g' \
 		-e 's/%%MONO_RELEASE%%/${MONO_VERSION}/g' \
-		-e 's/%%NR_TEST_LANGS%%/${shell ls ${TESTDATADIR}-${VERSION} | grep '-' | tr '-' "\n" | sort -u | wc -l}/' \
-		-e 's/%%NR_TEST_LANGPAIRS%%/${shell ls ${TESTDATADIR}-${VERSION} | grep '-' | wc -l}/' \
-		-e 's/%%NR_TRAIN_LANGPAIRS%%/${shell find ${RELEASEDIR} -name "train.id.gz" | wc -l}/' \
+		-e 's/%%NR_BITEXTS%%/${shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt | wc -l}/' \
+		-e 's/%%NR_LANGS%%/${shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt | cut -f1 | tr '-' ' ' | tr ' ' "\n" | sort -u | wc -l}/' \
+		-e 's/%%NR_TEST_LANGPAIRS%%/${shell cat ${RELEASEDIR}/released-bitexts-min200.txt | wc -l}/' \
+		-e 's/%%NR_TEST_LANGS%%/${shell cut -f1 ${RELEASEDIR}/released-bitexts-min200.txt  | tr '-' ' ' | tr ' ' "\n" | sort -u | wc -l}/' \
+		-e 's/%%TRAIN_SIZE%%/${shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt  | awk "{SUM+=\$$10}END{print SUM}" | numfmt --to=si}/' \
 	< $< > $@
+	tail -n +2 ${RELEASEDIR}/released-bitexts.txt  | awk "{SUM+=\$$10}END{print SUM}" | numfmt --to=si
+
+
 
 
 

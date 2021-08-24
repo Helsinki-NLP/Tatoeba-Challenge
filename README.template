@@ -2,7 +2,7 @@
 
 # The Tatoeba Translation Challenge (%%RELEASE%%)
 
-A new challenge set for machine translation covering %%NR_TEST_LANGS%% languages in %%NR_TEST_LANGPAIRS%% language pairs and training data for %%NR_TRAIN_LANGPAIRS%% language pairs.
+This is a challenge set for machine translation that contains %%TRAIN_SIZE%% translation units in %%NR_BITEXTS%% bitexts covering %%NR_LANGS%% languages. The package includes a release of %%NR_TEST_LANGPAIRS%% test sets derived from [Tatoeba.org](https://tatoeba.org) that cover %%NR_TEST_LANGS%% languages.
 
 * Benchmark for realistic low-resource scenarios
 * [Training, development and test data](data/README.md)
