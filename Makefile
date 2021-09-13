@@ -339,6 +339,7 @@ release-tag:
 	git add ${TESTDATADIR}/*/*.txt
 	git add ${DEVDATADIR}/*/*.txt
 	git add ${DEVTESTDIR}/*/*.txt
+	git add ${RELEASEDIR}/*.txt
 	git add ${TESTRELEASEDIR}/*.txt.gz
 	git add ${DEVRELEASEDIR}/*.txt.gz
 	git add ${DATADIR}/*-${VERSION}.md ${DATADIR}/subsets/*.md ${DATADIR}/subsets/${VERSION}/*.md
@@ -439,8 +440,8 @@ test-tsv: ${TEST_TSV}
 dev-tsv: ${DEV_TSV}
 test-release: ${TEST_RELEASE_TSV}
 dev-release: ${DEV_RELEASE_TSV}
-langids: ${DATADIR}/langids-train.txt ${DATADIR}/langids-dev.txt ${DATADIR}/langids-test.txt \
-	${DATADIR}/langids-common.txt ${DATADIR}/langids-train-only.txt ${DATADIR}/langids-devtest-only.txt
+langids: ${RELEASEDIR}/langids-train.txt ${RELEASEDIR}/langids-dev.txt ${RELEASEDIR}/langids-test.txt \
+	${RELEASEDIR}/langids-common.txt ${RELEASEDIR}/langids-train-only.txt ${RELEASEDIR}/langids-devtest-only.txt
 statistics: ${STATISTICS}
 overlaps: ${OVERLAPTEST} ${OVERLAPDEV}
 
@@ -629,28 +630,28 @@ opus-langpairs3.txt: opus-langpairs.txt
 
 ## language IDs in training/dev/test
 
-${RELEASEDIR}/langids-train.txt: # ${LANGIDS}
-	find ${RELEASEDIR} -name langids | xargs cat | grep 'train ' | \
+${RELEASEDIR}/langids-train.txt: ${LANGIDS}
+	find ${INFODIR} -name langids | xargs cat | grep 'train ' | \
 	cut -f2 | tr ' ' "\n" | sort -u > $@
 
-${RELEASEDIR}/langids-test.txt: # ${LANGIDS}
-	find ${RELEASEDIR} -name langids | xargs cat | grep 'test ' | \
+${RELEASEDIR}/langids-test.txt: ${LANGIDS}
+	find ${INFODIR} -name langids | xargs cat | grep 'test ' | \
 	cut -f2 | tr ' ' "\n" | sort -u > $@
 
-${DATADIR}/langids-dev.txt: # ${LANGIDS}
-	find ${RELEASEDIR} -name langids | xargs cat | grep 'dev ' | \
+${RELEASEDIR}/langids-dev.txt: ${LANGIDS}
+	find ${INFODIR} -name langids | xargs cat | grep 'dev ' | \
 	cut -f2 | tr ' ' "\n" | sort -u > $@
 
-${DATADIR}/langids-devtest.txt: ${DATADIR}/langids-dev.txt ${DATADIR}/langids-test.txt
+${RELEASEDIR}/langids-devtest.txt: ${RELEASEDIR}/langids-dev.txt ${RELEASEDIR}/langids-test.txt
 	cat $^ | sort -u | grep . > $@
 
-${DATADIR}/langids-common.txt: ${DATADIR}/langids-train.txt ${DATADIR}/langids-devtest.txt
+${RELEASEDIR}/langids-common.txt: ${RELEASEDIR}/langids-train.txt ${RELEASEDIR}/langids-devtest.txt
 	comm -1 -2 $^ | grep . > $@
 
-${DATADIR}/langids-train-only.txt: ${DATADIR}/langids-train.txt ${DATADIR}/langids-devtest.txt
+${RELEASEDIR}/langids-train-only.txt: ${RELEASEDIR}/langids-train.txt ${RELEASEDIR}/langids-devtest.txt
 	comm -2 -3 $^ | grep . > $@
 
-${DATADIR}/langids-devtest-only.txt: ${DATADIR}/langids-train.txt ${DATADIR}/langids-devtest.txt
+${RELEASEDIR}/langids-devtest-only.txt: ${RELEASEDIR}/langids-train.txt ${RELEASEDIR}/langids-devtest.txt
 	comm -1 -3 $^ | grep . > $@
 
 
