@@ -1559,7 +1559,8 @@ ${RESULT_FILES}: results/%.md: %
 	cut -f1,3- |\
 	perl -pe '/^(\S*)\/(\S*)\t/;if (-d "models/$$1"){s/^(\S*)\/(\S*)\t/[$$1\/$$2](..\/models\/$$1)\t/;}' |\
 	sed 's/	/ | /g;s/^/| /;s/$$/ |/;s/Tatoeba-test/tatoeba/' |\
-	sed 's/\(news[^ ]*\)-...... /\1 /;s/\(news[^ ]*\)-.... /\1 /;'                     >> $@
+	sed 's/\(news[^ ]*\)-[a-z]\{6\} /\1 /;s/\(news[^ ]*\)-[a-z]\{4\} /\1 /;'           >> $@
+#	sed 's/\(news[^ ]*\)-...... /\1 /;s/\(news[^ ]*\)-.... /\1 /;'                     >> $@
 
 
 
@@ -1651,6 +1652,7 @@ tatoeba-models-all: ${TATOEBA_YAML}
 
 tatoeba-results-%-sorted-langpair: tatoeba-results-%
 	sort -k2,2 -k3,3 -k4,4nr < $< |\
+	grep -v '	multi-' | grep -v -- '-multi	' |\
 	perl -pe '@a=split;print "\n${RESULT_TABLE_HEADER}" if ($$b ne $$a[1]);$$b=$$a[1];' \
 	> $@
 
