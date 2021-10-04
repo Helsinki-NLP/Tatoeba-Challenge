@@ -45,6 +45,7 @@
 
 
 
+
 # opus2m-2020-08-01.zip
 
 * dataset: opus2m
@@ -92,26 +93,6 @@
 
 
 
-# opus1m+bt-tuned4eng2sme-2021-04-10.zip
-
-* dataset: opus1m+bt-tuned4eng2sme
-* model: transformer-align
-* source language(s): eng
-* target language(s): sme
-* model: transformer-align
-* pre-processing: normalization + SentencePiece (spm32k,spm32k)
-* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
-* valid language labels: >>chm<< >>est<< >>fin<< >>fit<< >>fkv<< >>fkv_Latn<< >>hun<< >>izh<< >>kca<< >>koi<< >>kom<< >>kpv<< >>krl<< >>liv<< >>liv_Latn<< >>mdf<< >>mhr<< >>mns<< >>mrj<< >>myv<< >>olo<< >>sia<< >>sjd<< >>sje<< >>sjk<< >>sjt<< >>sju<< >>sma<< >>sme<< >>smj<< >>smn<< >>sms<< >>udm<< >>vep<< >>vot<< >>vro<<
-* download: [opus1m+bt-tuned4eng2sme-2021-04-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus1m+bt-tuned4eng2sme-2021-04-10.zip)
-* test set translations: [opus1m+bt-tuned4eng2sme-2021-04-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus1m+bt-tuned4eng2sme-2021-04-10.test.txt)
-* test set scores: [opus1m+bt-tuned4eng2sme-2021-04-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus1m+bt-tuned4eng2sme-2021-04-10.eval.txt)
-
-## Benchmarks
-
-| testset | BLEU  | chr-F | #sent | #words | BP |
-|---------|-------|-------|-------|--------|----|
-| Tatoeba-test.eng-multi 	| 0.4 	| 0.122 	| 10000 	| 59724 	| 1.000 |
-| Tatoeba-test.eng-sme 	| 15.2 	| 0.244 	| 62 	| 252 	| 1.000 |
 
 # opus1m+bt-2021-04-10.zip
 
@@ -160,4 +141,60 @@
 | Tatoeba-test.eng-udm 	| 3.4 	| 0.125 	| 10 	| 39 	| 1.000 |
 | Tatoeba-test.eng-vro 	| 2.1 	| 0.030 	| 5 	| 40 	| 0.922 |
 
+
+
+# opus1m+bt-tuned4eng2sme-2021-04-10.zip
+
+* dataset: opus1m+bt-tuned4eng2sme
+* model: transformer-align
+* source language(s): eng
+* target language(s): sme
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>chm<< >>est<< >>fin<< >>fit<< >>fkv<< >>fkv_Latn<< >>hun<< >>izh<< >>kca<< >>koi<< >>kom<< >>kpv<< >>krl<< >>liv<< >>liv_Latn<< >>mdf<< >>mhr<< >>mns<< >>mrj<< >>myv<< >>olo<< >>sia<< >>sjd<< >>sje<< >>sjk<< >>sjt<< >>sju<< >>sma<< >>sme<< >>smj<< >>smn<< >>sms<< >>udm<< >>vep<< >>vot<< >>vro<<
+* download: [opus1m+bt-tuned4eng2sme-2021-04-10.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus1m+bt-tuned4eng2sme-2021-04-10.zip)
+* test set translations: [opus1m+bt-tuned4eng2sme-2021-04-10.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus1m+bt-tuned4eng2sme-2021-04-10.test.txt)
+* test set scores: [opus1m+bt-tuned4eng2sme-2021-04-10.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus1m+bt-tuned4eng2sme-2021-04-10.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-multi 	| 0.4 	| 0.122 	| 10000 	| 59724 	| 1.000 |
+| Tatoeba-test.eng-sme 	| 15.2 	| 0.244 	| 62 	| 252 	| 1.000 |
+
+
+# opus4m+btTCv20210807-2021-09-30.zip
+
+* dataset: opus4m+btTCv20210807
+* model: transformer
+* source language(s): eng
+* target language(s): est fin fkv hun izh koi kom kpv krl liv mdf mhr mrj myv sma sme udm vot vro
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: >>chm<< >>est<< >>fin<< >>fit<< >>fkv<< >>fkv_Latn<< >>hun<< >>izh<< >>kca<< >>koi<< >>kom<< >>kpv<< >>krl<< >>liv<< >>liv_Latn<< >>mdf<< >>mhr<< >>mns<< >>mrj<< >>myv<< >>olo<< >>sia<< >>sjd<< >>sje<< >>sjk<< >>sjt<< >>sju<< >>sma<< >>sme<< >>smj<< >>smn<< >>sms<< >>udm<< >>vep<< >>vot<< >>vro<<
+* download: [opus4m+btTCv20210807-2021-09-30.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus4m+btTCv20210807-2021-09-30.zip)
+* test set translations: [opus4m+btTCv20210807-2021-09-30.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus4m+btTCv20210807-2021-09-30.test.txt)
+* test set scores: [opus4m+btTCv20210807-2021-09-30.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus4m+btTCv20210807-2021-09-30.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newsdev2015-enfi.eng-fin 	| 15.3 	| 0.489 	| 1500 	| 23375 	| 1.000 |
+| newsdev2018-enet.eng-est 	| 17.1 	| 0.494 	| 2000 	| 34508 	| 0.988 |
+| newssyscomb2009.eng-hun 	| 13.2 	| 0.449 	| 502 	| 9733 	| 0.993 |
+| newstest2009.eng-hun 	| 13.6 	| 0.442 	| 2525 	| 54965 	| 0.982 |
+| newstest2015-enfi.eng-fin 	| 17.5 	| 0.502 	| 1370 	| 19968 	| 1.000 |
+| newstest2016-enfi.eng-fin 	| 18.3 	| 0.514 	| 3000 	| 48116 	| 0.981 |
+| newstest2017-enfi.eng-fin 	| 20.5 	| 0.534 	| 3002 	| 45718 	| 0.993 |
+| newstest2018-enet.eng-est 	| 18.0 	| 0.502 	| 2000 	| 36236 	| 0.979 |
+| newstest2018-enfi.eng-fin 	| 13.4 	| 0.472 	| 3000 	| 45475 	| 1.000 |
+| newstest2019-enfi.eng-fin 	| 17.5 	| 0.492 	| 1997 	| 38369 	| 0.950 |
+| newstestB2016-enfi.eng-fin 	| 14.8 	| 0.485 	| 3000 	| 45766 	| 1.000 |
+| newstestB2017-enfi.eng-fin 	| 16.7 	| 0.499 	| 3002 	| 45506 	| 0.998 |
+| Tatoeba-test-v2021-08-07.eng-multi 	| 29.1 	| 0.529 	| 10000 	| 60528 	| 0.978 |
+| Tatoeba-test-v2021-08-07.multi-multi 	| 29.1 	| 0.529 	| 10000 	| 60528 	| 0.978 |
 

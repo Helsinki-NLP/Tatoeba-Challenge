@@ -1,0 +1,89 @@
+release: zlw-eng/opus4m+btTCv20210807-2021-10-01.zip
+release-date: 2021-10-01
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ces
+   - csb
+   - dsb
+   - hsb
+   - pol
+   - slk
+   - szl
+target-languages:
+   - eng
+use-target-labels:
+training-data:
+   ces-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa.eng-ces (992304) wikinews.aa.eng-ces (457198) wikipedia.aa.eng-ces (983006) wikipedia.ab.eng-ces (983202) wikipedia.ac.eng-ces (983144) wikipedia.ad.eng-ces (982953) wikiquote.aa.eng-ces (997088) 
+   ces-eng_Cyrl: Tatoeba-train-v2021-08-07 (2) 
+   csb-eng: Tatoeba-train-v2021-08-07 (7) 
+   csb_Latn-eng: Tatoeba-train-v2021-08-07 (36909) 
+   dsb-eng: Tatoeba-train-v2021-08-07 (75667) 
+   hsb-eng: Tatoeba-train-v2021-08-07 (102051) 
+   pol-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa (992529) wikinews.aa (457325) wikipedia.aa (983673) wikipedia.ab (983875) wikipedia.ac (983854) wikipedia.ad (983635) wikiquote.aa (997187) 
+   slk-eng: Tatoeba-train-v2021-08-07 (4000000) 
+   slk_Zinh-eng: Tatoeba-train-v2021-08-07 (1) 
+   szl-eng: Tatoeba-train-v2021-08-07 (15270) 
+validation-data:
+   ces-eng: Tatoeba-dev-v2021-08-07, 16189
+   csb-eng: Tatoeba-dev-v2021-08-07, 1000
+   csb_Latn-eng: Tatoeba-dev-v2021-08-07, 1000
+   dsb-eng: Tatoeba-dev-v2021-08-07, 1000
+   eng-hsb: Tatoeba-dev-v2021-08-07, 1000
+   eng-pol: Tatoeba-dev-v2021-08-07, 44189
+   eng-slk: Tatoeba-dev-v2021-08-07, 1000
+   eng-szl: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 6874
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newssyscomb2009.ces-eng: 502/11821
+   newstest2009.ces-eng: 2525/65402
+   newstest2010.ces-eng: 2489/61724
+   newstest2011.ces-eng: 3003/74681
+   newstest2012.ces-eng: 3003/72812
+   newstest2013.ces-eng: 3000/64505
+   newstest2014-csen.ces-eng: 3003/68065
+   newstest2015-encs.ces-eng: 2656/53572
+   newstest2016-encs.ces-eng: 2999/64670
+   newstest2017-encs.ces-eng: 3005/61725
+   newstest2018-encs.ces-eng: 2983/63496
+   Tatoeba-test-v2021-08-07.multi-eng: 10000/75475
+   Tatoeba-test-v2021-08-07.multi-multi: 10000/75475
+BLEU-scores:
+   newssyscomb2009.ces-eng: 27.3
+   newstest2009.ces-eng: 25.5
+   newstest2010.ces-eng: 26.6
+   newstest2011.ces-eng: 26.8
+   newstest2012.ces-eng: 25.5
+   newstest2013.ces-eng: 28.8
+   newstest2014-csen.ces-eng: 32.1
+   newstest2015-encs.ces-eng: 28.6
+   newstest2016-encs.ces-eng: 30.8
+   newstest2017-encs.ces-eng: 27.0
+   newstest2018-encs.ces-eng: 28.4
+   Tatoeba-test-v2021-08-07.multi-eng: 50.4
+   Tatoeba-test-v2021-08-07.multi-multi: 50.4
+chr-F-scores:
+   newssyscomb2009.ces-eng: 0.544
+   newstest2009.ces-eng: 0.536
+   newstest2010.ces-eng: 0.550
+   newstest2011.ces-eng: 0.547
+   newstest2012.ces-eng: 0.540
+   newstest2013.ces-eng: 0.561
+   newstest2014-csen.ces-eng: 0.597
+   newstest2015-encs.ces-eng: 0.552
+   newstest2016-encs.ces-eng: 0.575
+   newstest2017-encs.ces-eng: 0.543
+   newstest2018-encs.ces-eng: 0.555
+   Tatoeba-test-v2021-08-07.multi-eng: 0.666
+   Tatoeba-test-v2021-08-07.multi-multi: 0.666

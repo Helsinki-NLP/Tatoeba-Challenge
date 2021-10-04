@@ -17,6 +17,7 @@
 | Tatoeba-test.kat-eng.kat.eng 	| 13.9 	| 0.311 |
 | Tatoeba-test.multi.eng 	| 13.9 	| 0.311 |
 
+
 # opus2m-2020-07-31.zip
 
 * dataset: opus2m
@@ -36,6 +37,7 @@
 | Tatoeba-test.kat-eng.kat.eng 	| 18.0 	| 0.357 |
 | Tatoeba-test.multi.eng 	| 18.0 	| 0.357 |
 
+
 # opus4m-2020-08-12.zip
 
 * dataset: opus4m
@@ -54,4 +56,24 @@
 |-----------------------|-------|-------|
 | Tatoeba-test.kat-eng.kat.eng 	| 22.0 	| 0.402 |
 | Tatoeba-test.multi.eng 	| 22.0 	| 0.402 |
+
+
+# opus4m+btTCv20210807-2021-09-30.zip
+
+* dataset: opus4m+btTCv20210807
+* model: transformer
+* source language(s): kat xmf
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus4m+btTCv20210807-2021-09-30.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/ccs-eng/opus4m+btTCv20210807-2021-09-30.zip)
+* test set translations: [opus4m+btTCv20210807-2021-09-30.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ccs-eng/opus4m+btTCv20210807-2021-09-30.test.txt)
+* test set scores: [opus4m+btTCv20210807-2021-09-30.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/ccs-eng/opus4m+btTCv20210807-2021-09-30.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test-v2021-08-07.multi-eng 	| 47.0 	| 0.626 	| 1028 	| 6256 	| 0.997 |
+| Tatoeba-test-v2021-08-07.multi-multi 	| 47.0 	| 0.626 	| 1028 	| 6256 	| 0.997 |
 

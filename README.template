@@ -109,18 +109,31 @@ We also encourage to incorporate other test sets besides of the Tatoeba data. Ra
 
 ## Results and models
 
-There are some initial baseline results for parts of the data set using the setup of [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT-train/) but running on Tatoeba MT challenge data (see also [OPUS-MT-TatoebaChallenge](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md)). Note that currently, all models are trained and tested with the initial release of the Tatoeba MT Challenge (v2020-07-28).
+There are some initial baseline results for parts of the data set using the setup of [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT-train/) but running on Tatoeba MT challenge data (see also [OPUS-MT-TatoebaChallenge](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md)). Note that we include results from previous releases and other common test sets as well
 
 * available [translation models](results/tatoeba-models-all.md)
+* [all Tatoeba test set results sorted by language pair](results/tatoeba-results-tatoeba.md)
+* [other test set results sorted by language pair](results/tatoeba-results-other.md)
+
+Challenge subset results (%%RELEASE%%):
+
+* results for the [zero-shot language pairs](results/tatoeba-results-%%RELEASE%%-subset-zero.md)
+* results for the [lowest resource language pairs](results/tatoeba-results-%%RELEASE%%-subset-lowest.md)
+* results for the [lower resource language pairs](results/tatoeba-results-%%RELEASE%%-subset-lower.md)
+* results for the [medium resource language pairs](results/tatoeba-results-%%RELEASE%%-subset-medium.md)
+* results for the [higher resource language pairs](results/tatoeba-results-%%RELEASE%%-subset-higher.md)
+* results for the [highest resource language pairs](results/tatoeba-results-%%RELEASE%%-subset-highest.md)
+
+Challenge subset results (v2020-07-28):
+
 * results for the [zero-shot language pairs](results/tatoeba-results-all-subset-zero.md)
 * results for the [lowest resource language pairs](results/tatoeba-results-all-subset-lowest.md)
 * results for the [lower resource language pairs](results/tatoeba-results-all-subset-lower.md)
 * results for the [medium resource language pairs](results/tatoeba-results-all-subset-medium.md)
 * results for the [higher resource language pairs](results/tatoeba-results-all-subset-higher.md)
 * results for the [highest resource language pairs](results/tatoeba-results-all-subset-highest.md)
-* [all results sorted by language pair](results/tatoeba-results-all.md)
 
-We will also publish (reasonable) models to be re-used and deployed through [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT) and linked from the [model subdir in this github](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models). This includes multilingual models that cover several languages in source and target to enable transfer learning across languages.
+We publish (reasonable) models to be re-used and deployed through [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT) and linked from the [model subdir in this github](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models). This includes multilingual models that cover several languages in source and target to enable transfer learning across languages.
 
 
 

@@ -1,0 +1,72 @@
+release: aav-pqw/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - khm
+   - vie
+target-languages:
+   - ind
+   - jak
+   - msa
+   - zlm
+   - zsm
+use-target-labels:
+   - ">>ind<<"
+   - ">>jak_Latn<<"
+   - ">>msa<<"
+   - ">>msa_Latn<<"
+   - ">>zlm<<"
+   - ">>zlm_Latn<<"
+   - ">>zsm_Latn<<"
+training-data:
+   khm-ind: Tatoeba-train-v2021-08-07 (254185) 
+   khm-msa: Tatoeba-train-v2021-08-07 (450759) 
+   khm-msa_Latn: Tatoeba-train-v2021-08-07 (176843) 
+   khm-zlm: Tatoeba-train-v2021-08-07 (146) 
+   khm-zlm_Latn: Tatoeba-train-v2021-08-07 (10371) 
+   khm_Latn-ind: Tatoeba-train-v2021-08-07 (4593) 
+   khm_Latn-msa_Latn: Tatoeba-train-v2021-08-07 (4616) 
+   vie-ind: Tatoeba-train-v2021-08-07 (4000000) 
+   vie-jak_Latn: Tatoeba-train-v2021-08-07 (13234) 
+   vie-msa: Tatoeba-train-v2021-08-07 (1) 
+   vie-msa_Latn: Tatoeba-train-v2021-08-07 (4000000) 
+   vie-zlm: Tatoeba-train-v2021-08-07 (89) 
+   vie-zlm_Latn: Tatoeba-train-v2021-08-07 (77023) 
+   vie_Hani-ind: Tatoeba-train-v2021-08-07 (10) 
+   vie_Hani-msa_Latn: Tatoeba-train-v2021-08-07 (1) 
+validation-data:
+   ind-khm: Tatoeba-dev-v2021-08-07, 571
+   khm-msa: Tatoeba-dev-v2021-08-07, 1000
+   khm-msa_Latn: Tatoeba-dev-v2021-08-07, 388
+   khm-zlm_Latn: Tatoeba-dev-v2021-08-07, 24
+   ind-khm_Latn: Tatoeba-dev-v2021-08-07, 13
+   khm_Latn-msa_Latn: Tatoeba-dev-v2021-08-07, 4
+   ind-vie: Tatoeba-dev-v2021-08-07, 639
+   msa-vie: Tatoeba-dev-v2021-08-07, 1000
+   msa_Latn-vie: Tatoeba-dev-v2021-08-07, 355
+   vie-zlm_Latn: Tatoeba-dev-v2021-08-07, 6
+   total-size-shuffled: 3998
+   devset-selected: top 3998  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.khm-msa: 17/76
+   Tatoeba-test-v2021-08-07.multi-multi: 98/538
+   Tatoeba-test-v2021-08-07.vie-msa: 32/193
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.khm-msa: 1.4
+   Tatoeba-test-v2021-08-07.multi-multi: 21.2
+   Tatoeba-test-v2021-08-07.vie-msa: 28.5
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.khm-msa: 0.151
+   Tatoeba-test-v2021-08-07.multi-multi: 0.465
+   Tatoeba-test-v2021-08-07.vie-msa: 0.606

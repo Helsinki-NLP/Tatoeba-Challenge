@@ -1,0 +1,46 @@
+release: hyx-eng/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - hye
+   - hyw
+   - xcl
+target-languages:
+   - eng
+training-data:
+   hye-eng: Tatoeba-train-v2021-08-07 (1380088) wikibooks.aa (991003) wikinews.aa (457177) wikipedia.aa (981553) wikipedia.ab (981629) wikipedia.ac (981670) wikipedia.ad (981541) wikiquote.aa (997003) 
+   hye_Latn-eng: Tatoeba-train-v2021-08-07 (12514) 
+   hyw-eng: Tatoeba-train-v2021-08-07 (405) 
+   hyw_Armn-eng: Tatoeba-train-v2021-08-07 (122515) 
+   hyw_Geor-eng: Tatoeba-train-v2021-08-07 (2118) 
+   hyw_Latn-eng: Tatoeba-train-v2021-08-07 (80) 
+validation-data:
+   eng-hye: Tatoeba-dev-v2021-08-07, 1000
+   eng-hyw: Tatoeba-dev-v2021-08-07, 6
+   eng-hyw_Armn: Tatoeba-dev-v2021-08-07, 979
+   eng-hyw_Geor: Tatoeba-dev-v2021-08-07, 13
+   eng-hyw_Latn: Tatoeba-dev-v2021-08-07, 2
+   eng-xcl_Armn: Tatoeba-dev-v2021-08-07, 137
+   eng-xcl_Latn: Tatoeba-dev-v2021-08-07, 33
+   total-size-shuffled: 2055
+   devset-selected: top 2055  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.multi-eng: 1121/5066
+   Tatoeba-test-v2021-08-07.multi-multi: 1121/5066
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.multi-eng: 35.3
+   Tatoeba-test-v2021-08-07.multi-multi: 35.3
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.multi-eng: 0.527
+   Tatoeba-test-v2021-08-07.multi-multi: 0.527

@@ -1,0 +1,41 @@
+release: xgn-eng/opus4m+btTCv20210807-2021-10-01.zip
+release-date: 2021-10-01
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bua
+   - mon
+   - xal
+target-languages:
+   - eng
+use-target-labels:
+   - ">>eng<<"
+   - ">>eng_Cyrl<<"
+training-data:
+   mon-eng: Tatoeba-train-v2021-08-07 (785186) 
+   mon-eng_Cyrl: Tatoeba-train-v2021-08-07 (4) 
+validation-data:
+   eng-mon: Tatoeba-dev-v2021-08-07, 1018
+   eng-xal: Tatoeba-dev-v2021-08-07, 104
+   eng-xal_Latn: Tatoeba-dev-v2021-08-07, 4
+   total-size-shuffled: 1027
+   devset-selected: top 1027  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.multi-eng: 713/5469
+   Tatoeba-test-v2021-08-07.multi-multi: 713/5469
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.multi-eng: 12.2
+   Tatoeba-test-v2021-08-07.multi-multi: 12.2
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.multi-eng: 0.318
+   Tatoeba-test-v2021-08-07.multi-multi: 0.318

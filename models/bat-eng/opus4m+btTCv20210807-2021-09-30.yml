@@ -1,0 +1,65 @@
+release: bat-eng/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - lav
+   - lit
+   - ltg
+   - prg
+   - sgs
+target-languages:
+   - eng
+training-data:
+   lav-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa (992058) wikinews.aa (457128) wikipedia.aa (982597) wikipedia.ac (982763) wikipedia.ad (982535) wikiquote.aa (996682) 
+   lit-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa (992487) wikinews.aa (457227) wikipedia.aa (983219) wikipedia.ab (983375) wikipedia.ac (983375) wikipedia.ad (983136) wikiquote.aa (996891) 
+   ltg-eng: Tatoeba-train-v2021-08-07 (13795) 
+validation-data:
+   eng-lav: Tatoeba-dev-v2021-08-07, 1003
+   eng-lit: Tatoeba-dev-v2021-08-07, 5643
+   eng-sgs: Tatoeba-dev-v2021-08-07, 20
+   total-size-shuffled: 2017
+   devset-selected: top 2017  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newsdev2017-enlv.lav-eng: 2003/48175
+   newsdev2019-enlt.lit-eng: 2000/49666
+   newstest2017-enlv.lav-eng: 2001/47511
+   newstest2019-lten.lit-eng: 1000/26079
+   Tatoeba-test-v2021-08-07.lav-eng: 1631/11212
+   Tatoeba-test-v2021-08-07.lit-eng: 2528/17853
+   Tatoeba-test-v2021-08-07.multi-eng: 4424/30939
+   Tatoeba-test-v2021-08-07.multi-multi: 4424/30939
+   Tatoeba-test-v2021-08-07.prg-eng: 213/1663
+   Tatoeba-test-v2021-08-07.sgs-eng: 52/207
+BLEU-scores:
+   newsdev2017-enlv.lav-eng: 26.5
+   newsdev2019-enlt.lit-eng: 30.1
+   newstest2017-enlv.lav-eng: 19.5
+   newstest2019-lten.lit-eng: 31.1
+   Tatoeba-test-v2021-08-07.lav-eng: 53.9
+   Tatoeba-test-v2021-08-07.lit-eng: 55.7
+   Tatoeba-test-v2021-08-07.multi-eng: 52.7
+   Tatoeba-test-v2021-08-07.multi-multi: 52.7
+   Tatoeba-test-v2021-08-07.prg-eng: 1.3
+   Tatoeba-test-v2021-08-07.sgs-eng: 17.2
+chr-F-scores:
+   newsdev2017-enlv.lav-eng: 0.515
+   newsdev2019-enlt.lit-eng: 0.575
+   newstest2017-enlv.lav-eng: 0.457
+   newstest2019-lten.lit-eng: 0.599
+   Tatoeba-test-v2021-08-07.lav-eng: 0.700
+   Tatoeba-test-v2021-08-07.lit-eng: 0.706
+   Tatoeba-test-v2021-08-07.multi-eng: 0.675
+   Tatoeba-test-v2021-08-07.multi-multi: 0.675
+   Tatoeba-test-v2021-08-07.prg-eng: 0.158
+   Tatoeba-test-v2021-08-07.sgs-eng: 0.256

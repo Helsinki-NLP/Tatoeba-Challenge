@@ -1,12 +1,17 @@
 #!/usr/bin/env perl
 #
 # TODO: properly parse YAML
-
+#
+# -r releasedir
+# -s min-testset-size
+# -t                        only extract scores for Tatoeba-test sets (all releases)
+# -T release                only extract scores for Tatoeba-test-<release>
+# -S                        include test set size statistics
 
 use Getopt::Std;
 
-our ($opt_r, $opt_s, $opt_t, $opt_S);
-getopts('tr:s:S');
+our ($opt_r, $opt_s, $opt_t, $opt_S, $opt_T);
+getopts('tr:s:ST:');
 
 my $ReleaseDir  = $opt_r || 'data/test';
 my $MinTestSize = $opt_s || 0;
@@ -49,7 +54,14 @@ while (<>){
 	if (/^\s+\-?\s*(\S+)\.(\S+)[\.\-](\S+):\s+(.*)$/){
 	    my ($testset,$src,$trg,$score) = ($1,$2,$3,$4);
 	    if ($opt_t){
-		next unless ($testset eq 'Tatoeba-test');
+		# next unless ($testset eq 'Tatoeba-test');
+		next unless ($testset=~/^Tatoeba-test/);
+	    }
+	    if ($opt_T){
+		# next unless ($testset eq 'Tatoeba-test');
+		next unless ($testset=~/^Tatoeba-test-$opt_T/);
+	    }
+	    if ($opt_t || $opt_T){
 		next unless (($src eq 'multi') or 
 			     ($trg eq 'multi') or 
 			     ("$src-$trg" eq $langpair));

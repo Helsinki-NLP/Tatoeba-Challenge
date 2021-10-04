@@ -1,4 +1,4 @@
-# Tatoeba translation models - v2020-07-28
+# Tatoeba translation models
 
 The scores refer to results on Tatoeba-test data
 For multilingual models, it is a mix of all language pairs
@@ -6,21 +6,37 @@ For multilingual models, it is a mix of all language pairs
 | Model | chrF2 | BLEU |
 |:--|--:|--:|
 | [aav-aav/opus](../models/aav-aav) | 0.324 | 16.6 |
+| [aav-aav/opus4m+btTCv20210807](../models/aav-aav) | 0.412 | 28.1 |
+| [aav-art/opus4m+btTCv20210807](../models/aav-art) | 0.327 | 10.8 |
+| [aav-ccs/opus4m+btTCv20210807](../models/aav-ccs) | 0.053 | 16.0 |
 | [aav-eng/opus](../models/aav-eng) | 0.384 | 23.7 |
 | [aav-eng/opus2m](../models/aav-eng) | 0.391 | 24.8 |
+| [aav-eng/opus4m+btTCv20210807](../models/aav-eng) | 0.384 | 23.6 |
+| [aav-eng/opus4m+btTCv20210807](../models/aav-eng) | 0.384 | 23.6 |
 | [aav-fiu/opus](../models/aav-fiu) | 0.539 | 31.1 |
+| [aav-fiu/opus4m+btTCv20210807](../models/aav-fiu) | 0.506 | 23.6 |
+| [aav-mkh/opus4m+btTCv20210807](../models/aav-mkh) | 0.707 | 60.1 |
 | [aav-myn/opus](../models/aav-myn) | 0.408 | 26.8 |
+| [aav-pqw/opus4m+btTCv20210807](../models/aav-pqw) | 0.465 | 21.2 |
+| [aav-sem/opus4m+btTCv20210807](../models/aav-sem) | 0.036 | 16.0 |
+| [aav-sit/opus4m+btTCv20210807](../models/aav-sit) | 0.230 | 26.7 |
+| [aav-urj/opus4m+btTCv20210807](../models/aav-urj) | 0.502 | 24.9 |
+| [aav-zlw/opus4m+btTCv20210807](../models/aav-zlw) | 0.466 | 26.8 |
 | [afa-afa/opus](../models/afa-afa) | 0.434 | 20.8 |
 | [afa-afa/opus](../models/afa-afa) | 0.429 | 21.0 |
 | [afa-afa/opus](../models/afa-afa) | 0.412 | 20.3 |
 | [afa-afa/opus](../models/afa-afa) | 0.409 | 20.0 |
 | [afa-afa/opus](../models/afa-afa) | 0.404 | 19.6 |
+| [afa-art/opus4m+btTCv20210807](../models/afa-art) | 0.508 | 31.2 |
+| [afa-cau/opus4m+btTCv20210807](../models/afa-cau) | 0.151 | 10.7 |
 | [afa-deu/opus1m](../models/afa-deu) | 0.566 | 37.4 |
 | [afa-eng/opus](../models/afa-eng) | 0.451 | 26.0 |
 | [afa-eng/opus](../models/afa-eng) | 0.450 | 25.4 |
 | [afa-eng/opus2m](../models/afa-eng) | 0.464 | 27.1 |
 | [afa-eng/opus4m](../models/afa-eng) | 0.467 | 27.5 |
 | [afa-fiu/opus](../models/afa-fiu) | 0.528 | 29.8 |
+| [afa-sem/opus4m+btTCv20210807](../models/afa-sem) | 0.471 | 25.6 |
+| [afa-tut/opus4m+btTCv20210807](../models/afa-tut) | 0.586 | 30.5 |
 | [afr-deu/opus](../models/afr-deu) | 0.671 | 47.1 |
 | [afr-eng/opus](../models/afr-eng) | 0.738 | 59.4 |
 | [afr-eng/opus+bt](../models/afr-eng) | 0.755 | 62.4 |
@@ -65,10 +81,15 @@ For multilingual models, it is a mix of all language pairs
 | [ara-tur/opus](../models/ara-tur) | 0.619 | 33.1 |
 | [ara-tur/opus](../models/ara-tur) | 0.614 | 32.8 |
 | [art-art/opus](../models/art-art) | 0.279 | 11.1 |
+| [art-art/opus4m+btTCv20210807](../models/art-art) | 0.377 | 18.8 |
 | [art-eng/opus](../models/art-eng) | 0.291 | 11.9 |
 | [art-eng/opus](../models/art-eng) | 0.284 | 11.6 |
 | [art-eng/opus1m+bt](../models/art-eng) | 0.364 | 20.0 |
 | [art-eng/opus2m](../models/art-eng) | 0.287 | 11.6 |
+| [art-eng/opus4m+btTCv20210807](../models/art-eng) | 0.441 | 27.0 |
+| [art-eng/opus4m+btTCv20210807](../models/art-eng) | 0.441 | 27.0 |
+| [art-fin/opus4m+btTCv20210807](../models/art-fin) | 0.604 | 37.3 |
+| [art-fin/opus4m+btTCv20210807](../models/art-fin) | 0.604 | 37.3 |
 | [art-por/opus1m](../models/art-por) | 0.318 | 12.3 |
 | [aze-eng/opus](../models/aze-eng) | 0.490 | 31.9 |
 | [aze-eng/opus+bt](../models/aze-eng) | 0.491 | 31.1 |
@@ -80,6 +101,8 @@ For multilingual models, it is a mix of all language pairs
 | [bat-eng/opus1m+bt](../models/bat-eng) | 0.641 | 48.2 |
 | [bat-eng/opus2m](../models/bat-eng) | 0.662 | 50.6 |
 | [bat-eng/opus4m](../models/bat-eng) | 0.666 | 51.2 |
+| [bat-eng/opus4m+btTCv20210807](../models/bat-eng) | 0.675 | 52.7 |
+| [bat-eng/opus4m+btTCv20210807](../models/bat-eng) | 0.675 | 52.7 |
 | [bat-fin/opus](../models/bat-fin) | 0.609 | 35.4 |
 | [bat-fiu/opus](../models/bat-fiu) | 0.623 | 38.4 |
 | [bel-deu/opus](../models/bel-deu) | 0.102 | 0.8 |
@@ -133,13 +156,19 @@ For multilingual models, it is a mix of all language pairs
 | [cat-spa/opus](../models/cat-spa) | 0.856 | 73.9 |
 | [cat-ukr/opus](../models/cat-ukr) | 0.503 | 28.6 |
 | [cat-zho/opus](../models/cat-zho) | 0.069 | 6.4 |
+| [cau-cau/opus4m+btTCv20210807](../models/cau-cau) | 0.424 | 21.6 |
 | [cau-eng/opus](../models/cau-eng) | 0.340 | 15.0 |
 | [cau-eng/opus2m](../models/cau-eng) | 0.351 | 16.6 |
 | [cau-eng/opus4m](../models/cau-eng) | 0.356 | 17.4 |
+| [cau-eng/opus4m+btTCv20210807](../models/cau-eng) | 0.567 | 39.1 |
+| [cau-eng/opus4m+btTCv20210807](../models/cau-eng) | 0.567 | 39.1 |
 | [ccs-ccs/opus](../models/ccs-ccs) | 0.365 | 25.4 |
+| [ccs-ccs/opus4m+btTCv20210807](../models/ccs-ccs) | 0.452 | 29.7 |
 | [ccs-eng/opus](../models/ccs-eng) | 0.311 | 13.9 |
 | [ccs-eng/opus2m](../models/ccs-eng) | 0.357 | 18.0 |
 | [ccs-eng/opus4m](../models/ccs-eng) | 0.402 | 22.0 |
+| [ccs-eng/opus4m+btTCv20210807](../models/ccs-eng) | 0.626 | 47.0 |
+| [ccs-eng/opus4m+btTCv20210807](../models/ccs-eng) | 0.626 | 47.0 |
 | [ceb-eng/opus](../models/ceb-eng) | 0.387 | 21.5 |
 | [ceb-eng/opus+bt](../models/ceb-eng) | 0.391 | 21.6 |
 | [cel-cel/opus](../models/cel-cel) | 0.357 | 20.5 |
@@ -150,6 +179,8 @@ For multilingual models, it is a mix of all language pairs
 | [cel-eng/opus1m+bt-tuned4bre2eng](../models/cel-eng) | 0.188 | 6.6 |
 | [cel-eng/opus2m](../models/cel-eng) | 0.398 | 22.8 |
 | [cel-eng/opus4m](../models/cel-eng) | 0.404 | 23.3 |
+| [cel-eng/opus4m+btTCv20210807](../models/cel-eng) | 0.403 | 24.3 |
+| [cel-eng/opus4m+btTCv20210807](../models/cel-eng) | 0.403 | 24.3 |
 | [ces-deu/opus](../models/ces-deu) | 0.692 | 51.5 |
 | [ces-eng/opus](../models/ces-eng) | 0.719 | 57.0 |
 | [ces-eng/opus](../models/ces-eng) | 0.719 | 56.9 |
@@ -219,6 +250,7 @@ For multilingual models, it is a mix of all language pairs
 | [deu-fin/opus](../models/deu-fin) | 0.635 | 40.2 |
 | [deu-fin/opus](../models/deu-fin) | 0.634 | 40.1 |
 | [deu-fin/opus+bt](../models/deu-fin) | 0.645 | 41.1 |
+| [deu-fin/opusTCv20210807+bt](../models/deu-fin) | 0.652 | 41.9 |
 | [deu-fra/opus](../models/deu-fra) | 0.665 | 49.2 |
 | [deu-fra/opus](../models/deu-fra) | 0.661 | 48.6 |
 | [deu-hbs/opus](../models/deu-hbs) | 0.330 | 20.1 |
@@ -246,6 +278,8 @@ For multilingual models, it is a mix of all language pairs
 | [dra-eng/opus](../models/dra-eng) | 0.443 | 25.5 |
 | [dra-eng/opus1m+bt](../models/dra-eng) | 0.519 | 32.2 |
 | [dra-eng/opus2m](../models/dra-eng) | 0.493 | 30.0 |
+| [dra-eng/opus4m+btTCv20210807](../models/dra-eng) | 0.529 | 34.8 |
+| [dra-eng/opus4m+btTCv20210807](../models/dra-eng) | 0.529 | 34.8 |
 | [ell-ara/opus](../models/ell-ara) | 0.486 | 21.9 |
 | [ell-ara/opus](../models/ell-ara) | 0.485 | 21.9 |
 | [ell-ara/opus](../models/ell-ara) | 0.482 | 22.5 |
@@ -255,6 +289,8 @@ For multilingual models, it is a mix of all language pairs
 | [ell-epo/opus](../models/ell-epo) | 0.517 | 32.4 |
 | [ell-rus/opus](../models/ell-rus) | 0.722 | 54.7 |
 | [eng-aav/opus](../models/eng-aav) | 0.311 | 16.1 |
+| [eng-aav/opus4m+btTCv20210807](../models/eng-aav) | 0.301 | 15.8 |
+| [eng-aav/opus4m+btTCv20210807](../models/eng-aav) | 0.301 | 15.8 |
 | [eng-afa/opus](../models/eng-afa) | 0.364 | 13.8 |
 | [eng-afa/opus](../models/eng-afa) | 0.363 | 13.7 |
 | [eng-afa/opus2m](../models/eng-afa) | 0.375 | 14.4 |
@@ -272,6 +308,8 @@ For multilingual models, it is a mix of all language pairs
 | [eng-ara/opus+bt](../models/eng-ara) | 0.426 | 13.3 |
 | [eng-arg/opus+bt](../models/eng-arg) | 0.283 | 10.5 |
 | [eng-art/opus1m+bt](../models/eng-art) | 0.308 | 12.1 |
+| [eng-art/opus4m+btTCv20210807](../models/eng-art) | 0.430 | 22.2 |
+| [eng-art/opus4m+btTCv20210807](../models/eng-art) | 0.430 | 22.2 |
 | [eng-ast/opus+bt](../models/eng-ast) | 0.476 | 24.8 |
 | [eng-aze/opus](../models/eng-aze) | 0.477 | 18.6 |
 | [eng-bak/opus+bt](../models/eng-bak) | 0.420 | 12.8 |
@@ -297,6 +335,10 @@ For multilingual models, it is a mix of all language pairs
 | [eng-bul/opus+bt](../models/eng-bul) | 0.681 | 50.7 |
 | [eng-cat/opus](../models/eng-cat) | 0.659 | 46.5 |
 | [eng-cat/opus+bt](../models/eng-cat) | 0.674 | 48.4 |
+| [eng-cau/opus4m+btTCv20210807](../models/eng-cau) | 0.336 | 10.0 |
+| [eng-cau/opus4m+btTCv20210807](../models/eng-cau) | 0.336 | 10.0 |
+| [eng-ccs/opus4m+btTCv20210807](../models/eng-ccs) | 0.382 | 13.2 |
+| [eng-ccs/opus4m+btTCv20210807](../models/eng-ccs) | 0.382 | 13.2 |
 | [eng-ceb/opus](../models/eng-ceb) | 0.432 | 11.3 |
 | [eng-ceb/opus+bt](../models/eng-ceb) | 0.429 | 10.8 |
 | [eng-cel/opus](../models/eng-cel) | 0.329 | 16.5 |
@@ -308,6 +350,8 @@ For multilingual models, it is a mix of all language pairs
 | [eng-cel/opus1m+bt-tuned4eng2gle](../models/eng-cel) | 0.247 | 10.4 |
 | [eng-cel/opus2m](../models/eng-cel) | 0.342 | 18.0 |
 | [eng-cel/opus2m+bt](../models/eng-cel) | 0.381 | 14.3 |
+| [eng-cel/opus4m+btTCv20210807](../models/eng-cel) | 0.335 | 16.4 |
+| [eng-cel/opus4m+btTCv20210807](../models/eng-cel) | 0.335 | 16.4 |
 | [eng-ces/opus](../models/eng-ces) | 0.663 | 47.8 |
 | [eng-ces/opus+bt](../models/eng-ces) | 0.661 | 47.6 |
 | [eng-cpf/opus](../models/eng-cpf) | 0.354 | 15.9 |
@@ -325,6 +369,8 @@ For multilingual models, it is a mix of all language pairs
 | [eng-deu/opus+bt](../models/eng-deu) | 0.654 | 45.7 |
 | [eng-dra/opus](../models/eng-dra) | 0.463 | 10.7 |
 | [eng-dra/opus](../models/eng-dra) | 0.461 | 10.5 |
+| [eng-dra/opus4m+btTCv20210807](../models/eng-dra) | 0.425 | 11.2 |
+| [eng-dra/opus4m+btTCv20210807](../models/eng-dra) | 0.425 | 11.2 |
 | [eng-ell/opus+bt](../models/eng-ell) | 0.740 | 55.9 |
 | [eng-epo/opus](../models/eng-epo) | 0.577 | 35.6 |
 | [eng-epo/opus+bt](../models/eng-epo) | 0.634 | 41.8 |
@@ -336,10 +382,13 @@ For multilingual models, it is a mix of all language pairs
 | [eng-fij/opus+bt](../models/eng-fij) | 0.420 | 21.7 |
 | [eng-fin/opus](../models/eng-fin) | 0.629 | 38.7 |
 | [eng-fin/opus+bt](../models/eng-fin) | 0.633 | 38.7 |
+| [eng-fin/opusTCv20210807+bt](../models/eng-fin) | 0.642 | 39.7 |
 | [eng-fiu/opus](../models/eng-fiu) | 0.578 | 33.8 |
 | [eng-fiu/opus1m+bt](../models/eng-fiu) | 0.551 | 31.1 |
 | [eng-fiu/opus1m+bt-tuned4eng2sme](../models/eng-fiu) | 0.122 | 0.4 |
 | [eng-fiu/opus2m](../models/eng-fiu) | 0.590 | 35.4 |
+| [eng-fiu/opus4m+btTCv20210807](../models/eng-fiu) | 0.529 | 29.1 |
+| [eng-fiu/opus4m+btTCv20210807](../models/eng-fiu) | 0.529 | 29.1 |
 | [eng+fra-bre/opus+bt](../models/eng+fra-bre) | 0.348 | 13.5 |
 | [eng-fra/opus](../models/eng-fra) | 0.671 | 50.8 |
 | [eng-fra/opus](../models/eng-fra) | 0.669 | 50.6 |
@@ -363,6 +412,8 @@ For multilingual models, it is a mix of all language pairs
 | [eng-gmq/opus1m+bt](../models/eng-gmq) | 0.687 | 52.9 |
 | [eng-gmq/opus1m+bt-tuned4eng2fao](../models/eng-gmq) | 0.607 | 44.1 |
 | [eng-gmq/opus2m](../models/eng-gmq) | 0.688 | 52.8 |
+| [eng-gmq/opus4m+btTCv20210807](../models/eng-gmq) | 0.683 | 52.2 |
+| [eng-gmq/opus4m+btTCv20210807](../models/eng-gmq) | 0.683 | 52.2 |
 | [eng-gmw/opus](../models/eng-gmw) | 0.599 | 40.6 |
 | [eng-gmw/opus](../models/eng-gmw) | 0.593 | 39.5 |
 | [eng-gmw/opus1m+bt](../models/eng-gmw) | 0.583 | 38.4 |
@@ -381,6 +432,8 @@ For multilingual models, it is a mix of all language pairs
 | [eng-hye/opus](../models/eng-hye) | 0.404 | 16.6 |
 | [eng-hye/opus](../models/eng-hye) | 0.267 | 7.2 |
 | [eng-hyx/opus1m+bt](../models/eng-hyx) | 0.402 | 16.6 |
+| [eng-hyx/opus4m+btTCv20210807](../models/eng-hyx) | 0.404 | 18.8 |
+| [eng-hyx/opus4m+btTCv20210807](../models/eng-hyx) | 0.404 | 18.8 |
 | [eng-iir/opus](../models/eng-iir) | 0.384 | 13.3 |
 | [eng-iir/opus](../models/eng-iir) | 0.380 | 13.1 |
 | [eng-iir/opus](../models/eng-iir) | 0.374 | 12.7 |
@@ -397,6 +450,8 @@ For multilingual models, it is a mix of all language pairs
 | [eng-ine/opus](../models/eng-ine) | 0.532 | 31.9 |
 | [eng-ine/opus](../models/eng-ine) | 0.529 | 31.5 |
 | [eng-ine/opus2m](../models/eng-ine) | 0.539 | 32.6 |
+| [eng-ira/opus4m+btTCv20210807](../models/eng-ira) | 0.341 | 13.1 |
+| [eng-ira/opus4m+btTCv20210807](../models/eng-ira) | 0.341 | 13.1 |
 | [eng-isl/opus](../models/eng-isl) | 0.516 | 24.7 |
 | [eng-isl/opus+bt](../models/eng-isl) | 0.541 | 28.6 |
 | [eng-ita/opus+bt](../models/eng-ita) | 0.696 | 48.3 |
@@ -409,6 +464,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-jpn/opus](../models/eng-jpn) | 0.266 | 15.7 |
 | [eng-jpn/opus+bt](../models/eng-jpn) | 0.258 | 15.2 |
 | [eng-kaz/opus](../models/eng-kaz) | 0.181 | 3.1 |
+| [eng-kaz/opusTCv20210807+bt](../models/eng-kaz) | 0.492 | 20.7 |
 | [eng-khm/opus](../models/eng-khm) | 0.103 | 0.1 |
 | [eng-kin/opus+bt](../models/eng-kin) | 0.502 | 11.7 |
 | [eng-kir/opus+bt](../models/eng-kir) | 0.361 | 11.9 |
@@ -426,6 +482,8 @@ For multilingual models, it is a mix of all language pairs
 | [eng-mkh/opus](../models/eng-mkh) | 0.354 | 20.1 |
 | [eng-mkh/opus](../models/eng-mkh) | 0.330 | 16.5 |
 | [eng-mkh/opus1m+bt](../models/eng-mkh) | 0.339 | 21.5 |
+| [eng-mkh/opus4m+btTCv20210807](../models/eng-mkh) | 0.347 | 20.9 |
+| [eng-mkh/opus4m+btTCv20210807](../models/eng-mkh) | 0.347 | 20.9 |
 | [eng-mlt/opus](../models/eng-mlt) | 0.579 | 20.0 |
 | [eng-mlt/opus+bt](../models/eng-mlt) | 0.590 | 22.0 |
 | [eng-mon/opus+bt](../models/eng-mon) | 0.338 | 10.2 |
@@ -450,6 +508,8 @@ For multilingual models, it is a mix of all language pairs
 | [eng-phi/opus](../models/eng-phi) | 0.391 | 12.8 |
 | [eng-phi/opus1m+bt](../models/eng-phi) | 0.490 | 19.4 |
 | [eng-phi/opus2m](../models/eng-phi) | 0.392 | 13.1 |
+| [eng-phi/opus4m+btTCv20210807](../models/eng-phi) | 0.355 | 12.4 |
+| [eng-phi/opus4m+btTCv20210807](../models/eng-phi) | 0.355 | 12.4 |
 | [eng-pol/opus](../models/eng-pol) | 0.673 | 47.5 |
 | [eng-pol/opus+bt](../models/eng-pol) | 0.669 | 46.6 |
 | [eng-por/opus](../models/eng-por) | 0.652 | 43.9 |
@@ -486,8 +546,12 @@ For multilingual models, it is a mix of all language pairs
 | [eng-sem/opus](../models/eng-sem) | 0.480 | 22.7 |
 | [eng-sem/opus1m+bt](../models/eng-sem) | 0.484 | 22.6 |
 | [eng-sem/opus2m](../models/eng-sem) | 0.486 | 23.5 |
+| [eng-sem/opus4m+btTCv20210807](../models/eng-sem) | 0.502 | 23.1 |
+| [eng-sem/opus4m+btTCv20210807](../models/eng-sem) | 0.502 | 23.1 |
 | [eng-sit/opus1m+bt](../models/eng-sit) | 0.194 | 25.7 |
 | [eng-sit/opus2m](../models/eng-sit) | 0.223 | 25.7 |
+| [eng-sit/opus4m+btTCv20210807](../models/eng-sit) | 0.209 | 25.0 |
+| [eng-sit/opus4m+btTCv20210807](../models/eng-sit) | 0.209 | 25.0 |
 | [eng-sla/opus](../models/eng-sla) | 0.604 | 40.3 |
 | [eng-sla/opus](../models/eng-sla) | 0.601 | 39.5 |
 | [eng-sla/opus](../models/eng-sla) | 0.599 | 39.8 |
@@ -533,11 +597,15 @@ For multilingual models, it is a mix of all language pairs
 | [eng-urj/opus](../models/eng-urj) | 0.572 | 33.3 |
 | [eng-urj/opus1m+bt](../models/eng-urj) | 0.547 | 30.3 |
 | [eng-urj/opus2m](../models/eng-urj) | 0.588 | 35.1 |
+| [eng-urj/opus4m+btTCv20210807](../models/eng-urj) | 0.527 | 28.5 |
+| [eng-urj/opus4m+btTCv20210807](../models/eng-urj) | 0.527 | 28.5 |
 | [eng-uzb/opus](../models/eng-uzb) | 0.151 | 0.2 |
 | [eng-vie/opus](../models/eng-vie) | 0.542 | 37.2 |
 | [eng-vie/opus+bt](../models/eng-vie) | 0.542 | 37.1 |
 | [eng-war/opus+bt](../models/eng-war) | 0.409 | 10.6 |
 | [eng-wen/opus1m+bt](../models/eng-wen) | 0.322 | 10.8 |
+| [eng-wen/opus4m+btTCv20210807](../models/eng-wen) | 0.325 | 22.7 |
+| [eng-wen/opus4m+btTCv20210807](../models/eng-wen) | 0.325 | 22.7 |
 | [eng-xho/opus+bt](../models/eng-xho) | 0.613 | 27.3 |
 | [eng-yor/opus+bt](../models/eng-yor) | 0.333 | 13.0 |
 | [eng-zho/opus](../models/eng-zho) | 0.268 | 31.4 |
@@ -554,10 +622,14 @@ For multilingual models, it is a mix of all language pairs
 | [eng-zls/opus](../models/eng-zls) | 0.612 | 41.8 |
 | [eng-zls/opus1m+bt](../models/eng-zls) | 0.498 | 33.6 |
 | [eng-zls/opus2m](../models/eng-zls) | 0.622 | 42.7 |
+| [eng-zls/opus4m+btTCv20210807](../models/eng-zls) | 0.493 | 32.2 |
+| [eng-zls/opus4m+btTCv20210807](../models/eng-zls) | 0.493 | 32.2 |
 | [eng-zlw/opus](../models/eng-zlw) | 0.619 | 41.3 |
 | [eng-zlw/opus](../models/eng-zlw) | 0.616 | 40.9 |
 | [eng-zlw/opus1m+bt](../models/eng-zlw) | 0.606 | 39.4 |
 | [eng-zlw/opus2m](../models/eng-zlw) | 0.632 | 42.8 |
+| [eng-zlw/opus4m+btTCv20210807](../models/eng-zlw) | 0.602 | 39.1 |
+| [eng-zlw/opus4m+btTCv20210807](../models/eng-zlw) | 0.602 | 39.1 |
 | [eng-zul/opus+bt](../models/eng-zul) | 0.813 | 47.6 |
 | [epo-afr/opus](../models/epo-afr) | 0.369 | 19.5 |
 | [epo-ara/opus](../models/epo-ara) | 0.310 | 6.2 |
@@ -598,6 +670,7 @@ For multilingual models, it is a mix of all language pairs
 | [est-eng/opus+bt](../models/est-eng) | 0.737 | 59.1 |
 | [est-rus/opus](../models/est-rus) | 0.702 | 50.2 |
 | [euq-euq/opus](../models/euq-euq) | 0.583 | 36.3 |
+| [euq-euq/opus4m+btTCv20210807](../models/euq-euq) | 0.615 | 40.6 |
 | [eus-deu/opus](../models/eus-deu) | 0.562 | 36.3 |
 | [eus-eng/opus](../models/eus-eng) | 0.627 | 45.2 |
 | [eus-eng/opus+bt](../models/eus-eng) | 0.663 | 49.8 |
@@ -611,11 +684,15 @@ For multilingual models, it is a mix of all language pairs
 | [fas-tur/opus](../models/fas-tur) | 0.626 | 32.0 |
 | [fij-eng/opus](../models/fij-eng) | 0.350 | 23.0 |
 | [fin-ara/opus+bt](../models/fin-ara) | 0.512 | 27.5 |
+| [fin-art/opus4m+btTCv20210807](../models/fin-art) | 0.637 | 43.0 |
+| [fin-art/opus4m+btTCv20210807](../models/fin-art) | 0.637 | 43.0 |
 | [fin-dan/opus](../models/fin-dan) | 0.708 | 55.0 |
 | [fin-deu/opus](../models/fin-deu) | 0.659 | 47.6 |
 | [fin-deu/opus](../models/fin-deu) | 0.658 | 47.4 |
+| [fin-deu/opusTCv20210807+bt](../models/fin-deu) | 0.659 | 47.1 |
 | [fin-eng/opus](../models/fin-eng) | 0.697 | 53.4 |
 | [fin-eng/opus+bt](../models/fin-eng) | 0.695 | 53.1 |
+| [fin-eng/opusTCv20210807+bt](../models/fin-eng) | 0.700 | 54.1 |
 | [fin-epo/opus](../models/fin-epo) | 0.413 | 22.5 |
 | [fin-fra/opus](../models/fin-fra) | 0.656 | 49.0 |
 | [fin-kur/opus](../models/fin-kur) | 0.096 | 0.2 |
@@ -623,6 +700,7 @@ For multilingual models, it is a mix of all language pairs
 | [fin-nor/opus](../models/fin-nor) | 0.699 | 50.6 |
 | [fin-nor/opus](../models/fin-nor) | 0.426 | 23.5 |
 | [fin-swe/opus](../models/fin-swe) | 0.701 | 54.5 |
+| [fin-swe/opusTCv20210807+bt](../models/fin-swe) | 0.709 | 55.0 |
 | [fin-tur/opus+bt](../models/fin-tur) | 0.613 | 31.2 |
 | [fin-zho/opus](../models/fin-zho) | 0.597 | 37.6 |
 | [fiu-aav/opus](../models/fiu-aav) | 0.336 | 18.9 |
@@ -635,10 +713,13 @@ For multilingual models, it is a mix of all language pairs
 | [fiu-eng/opus1m+bt](../models/fiu-eng) | 0.630 | 45.7 |
 | [fiu-eng/opus2m](../models/fiu-eng) | 0.648 | 47.8 |
 | [fiu-eng/opus4m](../models/fiu-eng) | 0.655 | 48.7 |
+| [fiu-eng/opus4m+btTCv20210807](../models/fiu-eng) | 0.606 | 43.3 |
+| [fiu-eng/opus4m+btTCv20210807](../models/fiu-eng) | 0.606 | 43.3 |
 | [fiu-fin/opus1m](../models/fiu-fin) | 0.689 | 51.5 |
 | [fiu-fiu/opus](../models/fiu-fiu) | 0.599 | 39.9 |
 | [fiu-fiu/opus](../models/fiu-fiu) | 0.586 | 36.6 |
 | [fiu-fiu/opus](../models/fiu-fiu) | 0.581 | 36.7 |
+| [fiu-fiu/opus4m+btTCv20210807](../models/fiu-fiu) | 0.565 | 36.7 |
 | [fiu-gmq/opus](../models/fiu-gmq) | 0.666 | 49.9 |
 | [fiu-gmw/opus](../models/fiu-gmw) | 0.609 | 42.5 |
 | [fiu-mkh/opus](../models/fiu-mkh) | 0.372 | 24.2 |
@@ -707,6 +788,8 @@ For multilingual models, it is a mix of all language pairs
 | [gmq-eng/opus](../models/gmq-eng) | 0.715 | 57.4 |
 | [gmq-eng/opus1m+bt](../models/gmq-eng) | 0.724 | 58.5 |
 | [gmq-eng/opus2m](../models/gmq-eng) | 0.720 | 58.1 |
+| [gmq-eng/opus4m+btTCv20210807](../models/gmq-eng) | 0.722 | 58.6 |
+| [gmq-eng/opus4m+btTCv20210807](../models/gmq-eng) | 0.722 | 58.6 |
 | [gmq-fiu/opus](../models/gmq-fiu) | 0.610 | 37.2 |
 | [gmq-gmq/opus](../models/gmq-gmq) | 0.799 | 67.5 |
 | [gmq-gmq/opus](../models/gmq-gmq) | 0.783 | 64.9 |
@@ -720,6 +803,8 @@ For multilingual models, it is a mix of all language pairs
 | [gmw-eng/opus1m+bt](../models/gmw-eng) | 0.649 | 49.0 |
 | [gmw-eng/opus2m](../models/gmw-eng) | 0.646 | 48.5 |
 | [gmw-eng/opus4m](../models/gmw-eng) | 0.653 | 49.4 |
+| [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | 0.599 | 42.3 |
+| [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | 0.599 | 42.3 |
 | [gmw-fiu/opus](../models/gmw-fiu) | 0.565 | 32.4 |
 | [gmw-gmw/opus](../models/gmw-gmw) | 0.569 | 37.1 |
 | [gmw-gmw/opus](../models/gmw-gmw) | 0.568 | 36.4 |
@@ -771,6 +856,9 @@ For multilingual models, it is a mix of all language pairs
 | [hye-eng/opus+bt](../models/hye-eng) | 0.585 | 41.5 |
 | [hye-rus/opus](../models/hye-rus) | 0.476 | 25.6 |
 | [hyx-eng/opus1m+bt](../models/hyx-eng) | 0.558 | 39.2 |
+| [hyx-eng/opus4m+btTCv20210807](../models/hyx-eng) | 0.527 | 35.3 |
+| [hyx-eng/opus4m+btTCv20210807](../models/hyx-eng) | 0.527 | 35.3 |
+| [hyx-hyx/opus4m+btTCv20210807](../models/hyx-hyx) | 0.468 | 28.2 |
 | [ido-eng/opus](../models/ido-eng) | 0.075 | 0.1 |
 | [ido-eng/opus+bt](../models/ido-eng) | 0.499 | 31.2 |
 | [ido-epo/opus](../models/ido-epo) | 0.144 | 0.1 |
@@ -799,6 +887,8 @@ For multilingual models, it is a mix of all language pairs
 | [ine-eng/opus4m](../models/ine-eng) | 0.619 | 46.0 |
 | [ine-ine/opus](../models/ine-ine) | 0.509 | 30.8 |
 | [ine-ine/opus](../models/ine-ine) | 0.498 | 29.7 |
+| [ira-eng/opus4m+btTCv20210807](../models/ira-eng) | 0.498 | 31.4 |
+| [ira-eng/opus4m+btTCv20210807](../models/ira-eng) | 0.498 | 31.4 |
 | [ira-ira/opus](../models/ira-ira) | 0.344 | 15.6 |
 | [isl-deu/opus](../models/isl-deu) | 0.661 | 49.2 |
 | [isl-eng/opus](../models/isl-eng) | 0.667 | 50.5 |
@@ -917,6 +1007,8 @@ For multilingual models, it is a mix of all language pairs
 | [mkh-eng/opus](../models/mkh-eng) | 0.410 | 25.6 |
 | [mkh-eng/opus](../models/mkh-eng) | 0.407 | 24.5 |
 | [mkh-eng/opus1m+bt](../models/mkh-eng) | 0.391 | 24.0 |
+| [mkh-eng/opus4m+btTCv20210807](../models/mkh-eng) | 0.409 | 24.9 |
+| [mkh-eng/opus4m+btTCv20210807](../models/mkh-eng) | 0.409 | 24.9 |
 | [mkh-fiu/opus](../models/mkh-fiu) | 0.402 | 14.6 |
 | [mkh-mkh/opus](../models/mkh-mkh) | 0.366 | 21.7 |
 | [mlg-eng/opus](../models/mlg-eng) | 0.541 | 42.5 |
@@ -990,6 +1082,8 @@ For multilingual models, it is a mix of all language pairs
 | [phi-eng/opus](../models/phi-eng) | 0.320 | 16.4 |
 | [phi-eng/opus1m+bt](../models/phi-eng) | 0.445 | 25.5 |
 | [phi-eng/opus2m](../models/phi-eng) | 0.391 | 21.5 |
+| [phi-eng/opus4m+btTCv20210807](../models/phi-eng) | 0.387 | 23.0 |
+| [phi-eng/opus4m+btTCv20210807](../models/phi-eng) | 0.387 | 23.0 |
 | [phi-phi/opus](../models/phi-phi) | 0.465 | 21.7 |
 | [pol-ara/opus](../models/pol-ara) | 0.491 | 20.4 |
 | [pol-ara/opus](../models/pol-ara) | 0.468 | 18.0 |
@@ -1082,6 +1176,8 @@ For multilingual models, it is a mix of all language pairs
 | [sem-eng/opus1m+bt](../models/sem-eng) | 0.570 | 39.7 |
 | [sem-eng/opus2m](../models/sem-eng) | 0.588 | 41.7 |
 | [sem-eng/opus4m](../models/sem-eng) | 0.592 | 42.3 |
+| [sem-eng/opus4m+btTCv20210807](../models/sem-eng) | 0.592 | 42.1 |
+| [sem-eng/opus4m+btTCv20210807](../models/sem-eng) | 0.592 | 42.1 |
 | [sem-fiu/opus](../models/sem-fiu) | 0.545 | 30.0 |
 | [sem-fiu/opus-tuned4ara2fin](../models/sem-fiu) | 0.293 | 10.4 |
 | [sem-sem/opus](../models/sem-sem) | 0.537 | 33.5 |
@@ -1090,6 +1186,8 @@ For multilingual models, it is a mix of all language pairs
 | [sem-sem/opus](../models/sem-sem) | 0.498 | 26.1 |
 | [sin-eng/opus](../models/sin-eng) | 0.577 | 35.6 |
 | [sit-eng/opus1m+bt](../models/sit-eng) | 0.476 | 28.8 |
+| [sit-eng/opus4m+btTCv20210807](../models/sit-eng) | 0.472 | 27.9 |
+| [sit-eng/opus4m+btTCv20210807](../models/sit-eng) | 0.472 | 27.9 |
 | [sit-fiu/opus](../models/sit-fiu) | 0.313 | 15.0 |
 | [sit-sit/opus](../models/sit-sit) | 0.428 | 28.4 |
 | [sit-sit/opus](../models/sit-sit) | 0.400 | 26.3 |
@@ -1153,6 +1251,7 @@ For multilingual models, it is a mix of all language pairs
 | [swe-epo/opus](../models/swe-epo) | 0.498 | 29.7 |
 | [swe-fin/opus](../models/swe-fin) | 0.669 | 44.4 |
 | [swe-fin/opus](../models/swe-fin) | 0.668 | 44.5 |
+| [swe-fin/opusTCv20210807+bt](../models/swe-fin) | 0.681 | 45.8 |
 | [swe-fra/opus](../models/swe-fra) | 0.725 | 58.9 |
 | [swe-fra/opus](../models/swe-fra) | 0.724 | 58.2 |
 | [swe-nld/opus](../models/swe-nld) | 0.904 | 85.0 |
@@ -1252,6 +1351,8 @@ For multilingual models, it is a mix of all language pairs
 | [urj-eng/opus1m+bt](../models/urj-eng) | 0.621 | 44.7 |
 | [urj-eng/opus2m](../models/urj-eng) | 0.646 | 47.8 |
 | [urj-eng/opus4m](../models/urj-eng) | 0.649 | 48.3 |
+| [urj-eng/opus4m+btTCv20210807](../models/urj-eng) | 0.601 | 42.7 |
+| [urj-eng/opus4m+btTCv20210807](../models/urj-eng) | 0.601 | 42.7 |
 | [urj-fiu/opus](../models/urj-fiu) | 0.570 | 33.6 |
 | [urj-rus/opus1m](../models/urj-rus) | 0.440 | 26.9 |
 | [urj-urj/opus](../models/urj-urj) | 0.593 | 39.6 |
@@ -1272,6 +1373,8 @@ For multilingual models, it is a mix of all language pairs
 | [vie-zho/opus](../models/vie-zho) | 0.203 | 23.6 |
 | [war-eng/opus](../models/war-eng) | 0.308 | 12.3 |
 | [war-eng/opus+bt](../models/war-eng) | 0.343 | 15.3 |
+| [xgn-eng/opus4m+btTCv20210807](../models/xgn-eng) | 0.318 | 12.2 |
+| [xgn-eng/opus4m+btTCv20210807](../models/xgn-eng) | 0.318 | 12.2 |
 | [xho-eng/opus](../models/xho-eng) | 0.534 | 35.4 |
 | [yor-eng/opus](../models/yor-eng) | 0.381 | 25.7 |
 | [zho-bul/opus](../models/zho-bul) | 0.497 | 29.6 |
@@ -1325,6 +1428,8 @@ For multilingual models, it is a mix of all language pairs
 | [zls-eng/opus1m+bt](../models/zls-eng) | 0.675 | 53.0 |
 | [zls-eng/opus2m](../models/zls-eng) | 0.676 | 53.6 |
 | [zls-eng/opus4m](../models/zls-eng) | 0.677 | 53.8 |
+| [zls-eng/opus4m+btTCv20210807](../models/zls-eng) | 0.669 | 52.8 |
+| [zls-eng/opus4m+btTCv20210807](../models/zls-eng) | 0.669 | 52.8 |
 | [zls-fiu/opus](../models/zls-fiu) | 0.576 | 37.7 |
 | [zls-zls/opus](../models/zls-zls) | 0.687 | 48.3 |
 | [zls-zls/opus](../models/zls-zls) | 0.596 | 44.2 |
@@ -1334,6 +1439,8 @@ For multilingual models, it is a mix of all language pairs
 | [zlw-eng/opus1m+bt](../models/zlw-eng) | 0.652 | 48.6 |
 | [zlw-eng/opus2m](../models/zlw-eng) | 0.680 | 51.8 |
 | [zlw-eng/opus4m](../models/zlw-eng) | 0.687 | 52.8 |
+| [zlw-eng/opus4m+btTCv20210807](../models/zlw-eng) | 0.666 | 50.4 |
+| [zlw-eng/opus4m+btTCv20210807](../models/zlw-eng) | 0.666 | 50.4 |
 | [zlw-fiu/opus](../models/zlw-fiu) | 0.616 | 39.4 |
 | [zlw-zlw/opus](../models/zlw-zlw) | 0.633 | 45.2 |
 | [zlw-zlw/opus](../models/zlw-zlw) | 0.592 | 40.2 |

@@ -1,0 +1,111 @@
+release: urj-eng/opus4m+btTCv20210807-2021-10-01.zip
+release-date: 2021-10-01
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - est
+   - fin
+   - fkv
+   - hun
+   - izh
+   - koi
+   - kom
+   - kpv
+   - krl
+   - liv
+   - mdf
+   - mhr
+   - mrj
+   - myv
+   - sma
+   - sme
+   - udm
+   - vot
+   - vro
+target-languages:
+   - eng
+training-data:
+   est-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa (992135) wikinews.aa (457165) wikipedia.aa (982415) wikipedia.ab (982545) wikipedia.ac (982582) wikipedia.ad (982357) wikiquote.aa (996877) 
+   fin-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa (992334) wikinews.aa (457233) wikipedia.aa (983013) wikipedia.ab (983150) wikipedia.ac (983127) wikipedia.ad (982918) wikiquote.aa (997039) 
+   hun-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa (992417) wikinews.aa (457398) wikipedia.aa (983945) wikipedia.ab (984162) wikipedia.ac (984097) wikipedia.ad (983931) wikiquote.aa (997214) 
+   mhr-eng: Tatoeba-train-v2021-08-07 (13945) 
+   mrj-eng: Tatoeba-train-v2021-08-07 (2) 
+   sme-eng: Tatoeba-train-v2021-08-07 (50476) 
+   udm-eng: Tatoeba-train-v2021-08-07 (9326) 
+   udm_Latn-eng: Tatoeba-train-v2021-08-07 (1) 
+validation-data:
+   eng-est: Tatoeba-dev-v2021-08-07, 1093
+   eng-fin: Tatoeba-dev-v2021-08-07, 69896
+   eng-hun: Tatoeba-dev-v2021-08-07, 97144
+   eng-koi: Tatoeba-dev-v2021-08-07, 5
+   eng-kom: Tatoeba-dev-v2021-08-07, 4
+   eng-kpv: Tatoeba-dev-v2021-08-07, 985
+   eng-kpv_Latn: Tatoeba-dev-v2021-08-07, 8
+   eng-mdf: Tatoeba-dev-v2021-08-07, 32
+   eng-mhr: Tatoeba-dev-v2021-08-07, 952
+   eng-myv: Tatoeba-dev-v2021-08-07, 939
+   eng-sme: Tatoeba-dev-v2021-08-07, 1000
+   eng-udm: Tatoeba-dev-v2021-08-07, 1000
+   eng-vot_Cyrl: Tatoeba-dev-v2021-08-07, 696
+   eng-vot_Latn: Tatoeba-dev-v2021-08-07, 193
+   eng-vro: Tatoeba-dev-v2021-08-07, 3
+   total-size-shuffled: 7368
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newsdev2015-enfi.fin-eng: 1500/32104
+   newsdev2018-enet.est-eng: 2000/43194
+   newssyscomb2009.hun-eng: 502/11821
+   newstest2009.hun-eng: 2525/65402
+   newstest2015-enfi.fin-eng: 1370/27356
+   newstest2016-enfi.fin-eng: 3000/63043
+   newstest2017-enfi.fin-eng: 3002/61936
+   newstest2018-enet.est-eng: 2000/45521
+   newstest2018-enfi.fin-eng: 3000/62325
+   newstest2019-fien.fin-eng: 1996/36227
+   newstestB2016-enfi.fin-eng: 3000/63043
+   newstestB2017-enfi.fin-eng: 3002/61936
+   newstestB2017-fien.fin-eng: 3002/61936
+   Tatoeba-test-v2021-08-07.multi-eng: 10000/71389
+   Tatoeba-test-v2021-08-07.multi-multi: 10000/71389
+BLEU-scores:
+   newsdev2015-enfi.fin-eng: 21.3
+   newsdev2018-enet.est-eng: 24.5
+   newssyscomb2009.hun-eng: 20.2
+   newstest2009.hun-eng: 18.6
+   newstest2015-enfi.fin-eng: 22.4
+   newstest2016-enfi.fin-eng: 24.7
+   newstest2017-enfi.fin-eng: 26.7
+   newstest2018-enet.est-eng: 24.7
+   newstest2018-enfi.fin-eng: 19.5
+   newstest2019-fien.fin-eng: 24.2
+   newstestB2016-enfi.fin-eng: 20.1
+   newstestB2017-enfi.fin-eng: 23.1
+   newstestB2017-fien.fin-eng: 23.1
+   Tatoeba-test-v2021-08-07.multi-eng: 42.7
+   Tatoeba-test-v2021-08-07.multi-multi: 42.7
+chr-F-scores:
+   newsdev2015-enfi.fin-eng: 0.497
+   newsdev2018-enet.est-eng: 0.527
+   newssyscomb2009.hun-eng: 0.484
+   newstest2009.hun-eng: 0.475
+   newstest2015-enfi.fin-eng: 0.505
+   newstest2016-enfi.fin-eng: 0.528
+   newstest2017-enfi.fin-eng: 0.542
+   newstest2018-enet.est-eng: 0.533
+   newstest2018-enfi.fin-eng: 0.477
+   newstest2019-fien.fin-eng: 0.514
+   newstestB2016-enfi.fin-eng: 0.489
+   newstestB2017-enfi.fin-eng: 0.512
+   newstestB2017-fien.fin-eng: 0.512
+   Tatoeba-test-v2021-08-07.multi-eng: 0.601
+   Tatoeba-test-v2021-08-07.multi-multi: 0.601

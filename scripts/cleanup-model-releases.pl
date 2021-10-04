@@ -47,8 +47,8 @@ while (<F>){
     }
     $modelinfo{$model} .= $_;
     if (/Tatoeba-test/){
-	if (/\|\s+Tatoeba-test\.[^\.\-]+[\.\-][^\.\-]+\s*\|\s*(\S+)\s*\|\s*(\S*)\s*\|/){
-	    my ($bleu,$chrf) = ($1,$2);
+	if (/\|\s+Tatoeba-test(-v[0-9\-]+)?\.[^\.\-]+[\.\-][^\.\-]+\s*\|\s*(\S+)\s*\|\s*(\S*)\s*\|/){
+	    my ($bleu,$chrf) = ($2,$3);
 	    $modelbleu{$model} = $bleu;
 	    $modelchrf{$model} = $chrf;
 	}

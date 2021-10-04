@@ -1,0 +1,37 @@
+release: euq-euq/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+   - eus
+target-languages:
+   - eng
+   - eus
+use-target-labels:
+   - ">>eng<<"
+   - ">>eus<<"
+training-data:
+   eng-eus: Tatoeba-train-v2021-08-07 (4000000) wiki.aa.eus-eng (974933) wiki.ab.eus-eng (975163) wiki.ac.eus-eng (511284) wikibooks.aa.eus-eng (51821) wikiquote.aa.eus-eng (7117) wikisource.aa.eus-eng (58344) 
+   eus-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa (991374) wikinews.aa (456759) wikipedia.aa (980561) wikipedia.ab (980806) wikipedia.ac (980814) wikipedia.ad (980558) wikiquote.aa (996911) 
+validation-data:
+   eng-eus: Tatoeba-dev-v2021-08-07, 1001
+   eng-eus: Tatoeba-dev-v2021-08-07, 1001
+   total-size-shuffled: 2000
+   devset-selected: top 2000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.multi-multi: 2120/15237
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.multi-multi: 40.6
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.multi-multi: 0.615

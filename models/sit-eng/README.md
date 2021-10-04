@@ -36,3 +36,24 @@
 | Tatoeba-test.zho-eng 	| 30.8 	| 0.501 	| 10000 	| 82801 	| 0.947 |
 | tico19-test.mya-eng 	| 10.5 	| 0.352 	| 2100 	| 56848 	| 0.982 |
 
+
+# opus4m+btTCv20210807-2021-10-01.zip
+
+* dataset: opus4m+btTCv20210807
+* model: transformer
+* source language(s): bod brx cjy cmn cnh dng dzo gan hak hsn iii kac ksw lus lzh mni mya nan new nst pck wuu yue
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus4m+btTCv20210807-2021-10-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/sit-eng/opus4m+btTCv20210807-2021-10-01.zip)
+* test set translations: [opus4m+btTCv20210807-2021-10-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sit-eng/opus4m+btTCv20210807-2021-10-01.test.txt)
+* test set scores: [opus4m+btTCv20210807-2021-10-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sit-eng/opus4m+btTCv20210807-2021-10-01.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test-v2021-08-07.multi-eng 	| 27.9 	| 0.472 	| 10000 	| 80747 	| 1.000 |
+| Tatoeba-test-v2021-08-07.multi-multi 	| 27.9 	| 0.472 	| 10000 	| 80747 	| 1.000 |
+| tico19-test.mya-eng 	| 22.6 	| 0.501 	| 2100 	| 56848 	| 1.000 |
+

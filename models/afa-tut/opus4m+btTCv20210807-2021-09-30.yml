@@ -1,0 +1,184 @@
+release: afa-tut/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - aii
+   - ara
+   - arq
+   - arz
+   - ayl
+   - heb
+   - kab
+   - mlt
+   - shy
+   - som
+   - syr
+   - tmr
+target-languages:
+   - aze
+   - bak
+   - chg
+   - kaz
+   - nog
+   - ota
+   - tat
+   - tuk
+   - tur
+   - uig
+use-target-labels:
+   - ">>aze_Cyrl<<"
+   - ">>aze_Latn<<"
+   - ">>bak<<"
+   - ">>chg_Arab<<"
+   - ">>kaz_Cyrl<<"
+   - ">>kaz_Latn<<"
+   - ">>nog<<"
+   - ">>ota_Arab<<"
+   - ">>ota_Latn<<"
+   - ">>tat<<"
+   - ">>tat_Arab<<"
+   - ">>tat_Latn<<"
+   - ">>tuk_Latn<<"
+   - ">>tur<<"
+   - ">>uig_Arab<<"
+   - ">>uig_Cyrl<<"
+   - ">>uig_Hani<<"
+   - ">>uig_Latn<<"
+training-data:
+   ara-bak: Tatoeba-train-v2021-08-07 (23327) 
+   ara-kaz_Cyrl: Tatoeba-train-v2021-08-07 (516881) 
+   ara-kaz_Latn: Tatoeba-train-v2021-08-07 (5163) 
+   ara-tat: Tatoeba-train-v2021-08-07 (104288) 
+   ara-tat_Arab: Tatoeba-train-v2021-08-07 (2930) 
+   ara-tat_Latn: Tatoeba-train-v2021-08-07 (4457) 
+   ara-tuk_Latn: Tatoeba-train-v2021-08-07 (53606) 
+   ara-tur: Tatoeba-train-v2021-08-07 (4000000) 
+   ara-uig_Arab: Tatoeba-train-v2021-08-07 (16685) 
+   ara-uig_Cyrl: Tatoeba-train-v2021-08-07 (1) 
+   ara-uig_Latn: Tatoeba-train-v2021-08-07 (247) 
+   arq-tur: Tatoeba-train-v2021-08-07 (1105) 
+   arq-uig_Arab: Tatoeba-train-v2021-08-07 (7) 
+   arz-bak: Tatoeba-train-v2021-08-07 (2066) 
+   arz-kaz_Cyrl: Tatoeba-train-v2021-08-07 (2727) 
+   arz-kaz_Latn: Tatoeba-train-v2021-08-07 (465) 
+   arz-tat: Tatoeba-train-v2021-08-07 (2185) 
+   arz-tat_Arab: Tatoeba-train-v2021-08-07 (1) 
+   arz-tat_Latn: Tatoeba-train-v2021-08-07 (152) 
+   arz-tur: Tatoeba-train-v2021-08-07 (7984) 
+   arz-uig_Arab: Tatoeba-train-v2021-08-07 (592) 
+   arz-uig_Cyrl: Tatoeba-train-v2021-08-07 (1) 
+   arz-uig_Latn: Tatoeba-train-v2021-08-07 (11) 
+   heb-aze_Cyrl: Tatoeba-train-v2021-08-07 (199) 
+   heb-aze_Latn: Tatoeba-train-v2021-08-07 (332514) 
+   heb-kaz_Cyrl: Tatoeba-train-v2021-08-07 (196178) 
+   heb-kaz_Latn: Tatoeba-train-v2021-08-07 (6162) 
+   heb-tur: Tatoeba-train-v2021-08-07 (4000000) 
+   kab-tur: Tatoeba-train-v2021-08-07 (31292) 
+   mlt-tur: Tatoeba-train-v2021-08-07 (343905) 
+   som-tur: Tatoeba-train-v2021-08-07 (256641) 
+   syr-tur: Tatoeba-train-v2021-08-07 (6620) 
+validation-data:
+   ara-bak: Tatoeba-dev-v2021-08-07, 825
+   ara-kaz_Cyrl: Tatoeba-dev-v2021-08-07, 980
+   ara-kaz_Latn: Tatoeba-dev-v2021-08-07, 10
+   ara-tat: Tatoeba-dev-v2021-08-07, 920
+   ara-tat_Arab: Tatoeba-dev-v2021-08-07, 22
+   ara-tat_Latn: Tatoeba-dev-v2021-08-07, 41
+   ara-tuk_Latn: Tatoeba-dev-v2021-08-07, 998
+   ara-tur: Tatoeba-dev-v2021-08-07, 47
+   ara-uig_Arab: Tatoeba-dev-v2021-08-07, 940
+   ara-uig_Cyrl: Tatoeba-dev-v2021-08-07, 1
+   ara-uig_Latn: Tatoeba-dev-v2021-08-07, 16
+   arq-uig_Arab: Tatoeba-dev-v2021-08-07, 1
+   arz-bak: Tatoeba-dev-v2021-08-07, 73
+   arz-kaz_Cyrl: Tatoeba-dev-v2021-08-07, 3
+   arz-tat: Tatoeba-dev-v2021-08-07, 13
+   arz-tat_Latn: Tatoeba-dev-v2021-08-07, 3
+   arz-tur: Tatoeba-dev-v2021-08-07, 4
+   arz-uig_Arab: Tatoeba-dev-v2021-08-07, 35
+   ayl-tur: Tatoeba-dev-v2021-08-07, 1
+   aze_Latn-heb: Tatoeba-dev-v2021-08-07, 966
+   heb-kaz_Cyrl: Tatoeba-dev-v2021-08-07, 929
+   heb-kaz_Latn: Tatoeba-dev-v2021-08-07, 31
+   heb-tur: Tatoeba-dev-v2021-08-07, 1023
+   kab-tur: Tatoeba-dev-v2021-08-07, 1001
+   mlt-tur: Tatoeba-dev-v2021-08-07, 1000
+   som-tur: Tatoeba-dev-v2021-08-07, 1000
+   syr-tur: Tatoeba-dev-v2021-08-07, 1000
+   tmr_Hebr-tur: Tatoeba-dev-v2021-08-07, 1
+   total-size-shuffled: 11806
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.ara-bak: 3/25
+   Tatoeba-test-v2021-08-07.ara-chg: 1/3
+   Tatoeba-test-v2021-08-07.ara-kaz: 1/4
+   Tatoeba-test-v2021-08-07.ara-ota: 6/32
+   Tatoeba-test-v2021-08-07.ara-tat: 4/32
+   Tatoeba-test-v2021-08-07.ara-tuk: 1/10
+   Tatoeba-test-v2021-08-07.ara-tur: 1263/6949
+   Tatoeba-test-v2021-08-07.ara-uig: 16/74
+   Tatoeba-test-v2021-08-07.heb-aze: 1/4
+   Tatoeba-test-v2021-08-07.heb-kaz: 4/17
+   Tatoeba-test-v2021-08-07.heb-nog: 1/4
+   Tatoeba-test-v2021-08-07.heb-ota: 4/16
+   Tatoeba-test-v2021-08-07.heb-tur: 1377/6996
+   Tatoeba-test-v2021-08-07.kab-tur: 4/16
+   Tatoeba-test-v2021-08-07.mlt-tur: 1/4
+   Tatoeba-test-v2021-08-07.multi-multi: 2699/14242
+   Tatoeba-test-v2021-08-07.shy-tur: 1/6
+   Tatoeba-test-v2021-08-07.som-tur: 8/34
+   Tatoeba-test-v2021-08-07.syr-tur: 1/4
+   Tatoeba-test-v2021-08-07.tmr-tur: 6/24
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.ara-bak: 2.7
+   Tatoeba-test-v2021-08-07.ara-chg: 0.0
+   Tatoeba-test-v2021-08-07.ara-kaz: 100.0
+   Tatoeba-test-v2021-08-07.ara-ota: 1.2
+   Tatoeba-test-v2021-08-07.ara-tat: 4.9
+   Tatoeba-test-v2021-08-07.ara-tuk: 8.9
+   Tatoeba-test-v2021-08-07.ara-tur: 24.3
+   Tatoeba-test-v2021-08-07.ara-uig: 2.0
+   Tatoeba-test-v2021-08-07.heb-aze: 35.4
+   Tatoeba-test-v2021-08-07.heb-kaz: 61.7
+   Tatoeba-test-v2021-08-07.heb-nog: 10.7
+   Tatoeba-test-v2021-08-07.heb-ota: 2.8
+   Tatoeba-test-v2021-08-07.heb-tur: 37.5
+   Tatoeba-test-v2021-08-07.kab-tur: 8.7
+   Tatoeba-test-v2021-08-07.mlt-tur: 35.4
+   Tatoeba-test-v2021-08-07.multi-multi: 30.5
+   Tatoeba-test-v2021-08-07.shy-tur: 8.7
+   Tatoeba-test-v2021-08-07.som-tur: 18.4
+   Tatoeba-test-v2021-08-07.syr-tur: 4.8
+   Tatoeba-test-v2021-08-07.tmr-tur: 3.7
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.ara-bak: 0.197
+   Tatoeba-test-v2021-08-07.ara-chg: 0.000
+   Tatoeba-test-v2021-08-07.ara-kaz: 1.000
+   Tatoeba-test-v2021-08-07.ara-ota: 0.045
+   Tatoeba-test-v2021-08-07.ara-tat: 0.235
+   Tatoeba-test-v2021-08-07.ara-tuk: 0.416
+   Tatoeba-test-v2021-08-07.ara-tur: 0.535
+   Tatoeba-test-v2021-08-07.ara-uig: 0.200
+   Tatoeba-test-v2021-08-07.heb-aze: 0.743
+   Tatoeba-test-v2021-08-07.heb-kaz: 0.393
+   Tatoeba-test-v2021-08-07.heb-nog: 0.059
+   Tatoeba-test-v2021-08-07.heb-ota: 0.124
+   Tatoeba-test-v2021-08-07.heb-tur: 0.656
+   Tatoeba-test-v2021-08-07.kab-tur: 0.291
+   Tatoeba-test-v2021-08-07.mlt-tur: 0.749
+   Tatoeba-test-v2021-08-07.multi-multi: 0.586
+   Tatoeba-test-v2021-08-07.shy-tur: 0.089
+   Tatoeba-test-v2021-08-07.som-tur: 0.485
+   Tatoeba-test-v2021-08-07.syr-tur: 0.088
+   Tatoeba-test-v2021-08-07.tmr-tur: 0.119

@@ -1,0 +1,110 @@
+release: sit-eng/opus4m+btTCv20210807-2021-10-01.zip
+release-date: 2021-10-01
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bod
+   - brx
+   - cjy
+   - cmn
+   - cnh
+   - dng
+   - dzo
+   - gan
+   - hak
+   - hsn
+   - iii
+   - kac
+   - ksw
+   - lus
+   - lzh
+   - mni
+   - mya
+   - nan
+   - new
+   - nst
+   - pck
+   - wuu
+   - yue
+target-languages:
+   - eng
+training-data:
+   bod-eng: Tatoeba-train-v2021-08-07 (23730) 
+   brx-eng: Tatoeba-train-v2021-08-07 (10284) 
+   brx_Latn-eng: Tatoeba-train-v2021-08-07 (190) 
+   cmn-eng: Tatoeba-train-v2021-08-07 (1969810) 
+   cmn_Hans-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa.eng-cmn_Hans (991522) wikinews.aa.eng-cmn_Hans (457100) wikipedia.aa.eng-cmn_Hans (982476) wikipedia.ab.eng-cmn_Hans (982651) wikipedia.ac.eng-cmn_Hans (982701) wikipedia.ad.eng-cmn_Hans (982428) wikiquote.aa.eng-cmn_Hans (996832) 
+   cmn_Hant-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa.eng-cmn_Hant (991522) wikinews.aa.eng-cmn_Hant (457100) wikipedia.aa.eng-cmn_Hant (982476) wikipedia.ab.eng-cmn_Hant (982651) wikipedia.ac.eng-cmn_Hant (982701) wikipedia.ad.eng-cmn_Hant (982428) wikiquote.aa.eng-cmn_Hant (996832) 
+   cnh-eng: Tatoeba-train-v2021-08-07 (19) 
+   cnh_Latn-eng: Tatoeba-train-v2021-08-07 (24659) 
+   dzo-eng: Tatoeba-train-v2021-08-07 (19569) 
+   dzo_Latn-eng: Tatoeba-train-v2021-08-07 (101) 
+   kac-eng: Tatoeba-train-v2021-08-07 (9394) 
+   ksw_Latn-eng: Tatoeba-train-v2021-08-07 (16) 
+   ksw_Mymr-eng: Tatoeba-train-v2021-08-07 (9685) 
+   lus-eng: Tatoeba-train-v2021-08-07 (951) 
+   lus_Latn-eng: Tatoeba-train-v2021-08-07 (152994) 
+   lzh-eng: Tatoeba-train-v2021-08-07 (46) 
+   lzh_Hans-eng: Tatoeba-train-v2021-08-07 (18) 
+   mya-eng: Tatoeba-train-v2021-08-07 (766546) 
+   mya_Cakm-eng: Tatoeba-train-v2021-08-07 (5) 
+   nan-eng: Tatoeba-train-v2021-08-07 (503) 
+   pck_Latn-eng: Tatoeba-train-v2021-08-07 (51925) 
+   wuu-eng: Tatoeba-train-v2021-08-07 (35104) 
+   yue_Hans-eng: Tatoeba-train-v2021-08-07 (1022) 
+   yue_Hant-eng: Tatoeba-train-v2021-08-07 (23730) 
+validation-data:
+   bod-eng: Tatoeba-dev-v2021-08-07, 999
+   brx-eng: Tatoeba-dev-v2021-08-07, 990
+   brx_Latn-eng: Tatoeba-dev-v2021-08-07, 10
+   cjy_Hans-eng: Tatoeba-dev-v2021-08-07, 4
+   cjy_Hant-eng: Tatoeba-dev-v2021-08-07, 3
+   cmn-eng: Tatoeba-dev-v2021-08-07, 52
+   cmn_Hans-eng: Tatoeba-dev-v2021-08-07, 17967
+   cmn_Hant-eng: Tatoeba-dev-v2021-08-07, 19464
+   cnh-eng: Tatoeba-dev-v2021-08-07, 1000
+   cnh_Latn-eng: Tatoeba-dev-v2021-08-07, 1000
+   dzo-eng: Tatoeba-dev-v2021-08-07, 994
+   dzo_Latn-eng: Tatoeba-dev-v2021-08-07, 6
+   eng-gan: Tatoeba-dev-v2021-08-07, 3
+   eng-hak: Tatoeba-dev-v2021-08-07, 3
+   eng-hak_Hani: Tatoeba-dev-v2021-08-07, 1
+   eng-hsn_Hani: Tatoeba-dev-v2021-08-07, 3
+   eng-kac: Tatoeba-dev-v2021-08-07, 1000
+   eng-ksw_Latn: Tatoeba-dev-v2021-08-07, 3
+   eng-ksw_Mymr: Tatoeba-dev-v2021-08-07, 997
+   eng-lus: Tatoeba-dev-v2021-08-07, 7
+   eng-lus_Latn: Tatoeba-dev-v2021-08-07, 993
+   eng-lzh: Tatoeba-dev-v2021-08-07, 420
+   eng-lzh_Hans: Tatoeba-dev-v2021-08-07, 20
+   eng-mya: Tatoeba-dev-v2021-08-07, 935
+   eng-nan: Tatoeba-dev-v2021-08-07, 12
+   eng-new: Tatoeba-dev-v2021-08-07, 12
+   eng-pck_Latn: Tatoeba-dev-v2021-08-07, 1000
+   eng-wuu: Tatoeba-dev-v2021-08-07, 877
+   eng-yue_Hans: Tatoeba-dev-v2021-08-07, 2720
+   eng-yue_Hant: Tatoeba-dev-v2021-08-07, 1522
+   total-size-shuffled: 13859
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.multi-eng: 10000/80747
+   Tatoeba-test-v2021-08-07.multi-multi: 10000/80747
+   tico19-test.mya-eng: 2100/56848
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.multi-eng: 27.9
+   Tatoeba-test-v2021-08-07.multi-multi: 27.9
+   tico19-test.mya-eng: 22.6
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.multi-eng: 0.472
+   Tatoeba-test-v2021-08-07.multi-multi: 0.472
+   tico19-test.mya-eng: 0.501

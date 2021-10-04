@@ -1,0 +1,45 @@
+release: eng-kaz/opusTCv20210807+bt-2021-09-05.zip
+release-date: 2021-09-05
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-align
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - kaz
+use-target-labels:
+   - ">>kaz_Arab<<"
+   - ">>kaz_Cyrl<<"
+   - ">>kaz_Hebr<<"
+   - ">>kaz_Latn<<"
+training-data:
+   eng-kaz_Arab: Tatoeba-train-v2021-08-07 (12) 
+   eng-kaz_Cyrl: Tatoeba-train-v2021-08-07 (1016876) 
+   eng-kaz_Hebr: Tatoeba-train-v2021-08-07 (6) 
+   eng-kaz_Latn: Tatoeba-train-v2021-08-07 (42140) 
+   eng_Zinh-kaz_Cyrl: Tatoeba-train-v2021-08-07 (1) 
+validation-data:
+   eng-kaz_Cyrl: Tatoeba-dev-v2021-08-07, 3
+   total-size-shuffled: 3
+   devset-selected: top 3  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newsdev2019-enkk.eng-kaz_Cyrl: 2066/42561
+   newstest2019-enkk.eng-kaz_Cyrl: 998/18810
+   Tatoeba-test-v2021-08-07.eng-kaz: 403/2180
+BLEU-scores:
+   newsdev2019-enkk.eng-kaz_Cyrl: 20.3
+   newstest2019-enkk.eng-kaz_Cyrl: 7.9
+   Tatoeba-test-v2021-08-07.eng-kaz: 20.7
+chr-F-scores:
+   newsdev2019-enkk.eng-kaz_Cyrl: 0.530
+   newstest2019-enkk.eng-kaz_Cyrl: 0.394
+   Tatoeba-test-v2021-08-07.eng-kaz: 0.492

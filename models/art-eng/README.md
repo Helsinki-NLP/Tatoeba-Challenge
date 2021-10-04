@@ -34,6 +34,7 @@
 | Tatoeba-test.vol-eng.vol.eng 	| 0.6 	| 0.115 |
 
 
+
 # opus-2020-07-26.zip
 
 * dataset: opus
@@ -69,6 +70,7 @@
 | Tatoeba-test.vol-eng.vol.eng 	| 0.6 	| 0.118 |
 
 
+
 # opus2m-2020-08-12.zip
 
 * dataset: opus2m
@@ -102,6 +104,7 @@
 | Tatoeba-test.tlh-eng.tlh.eng 	| 0.2 	| 0.124 |
 | Tatoeba-test.tzl-eng.tzl.eng 	| 1.4 	| 0.109 |
 | Tatoeba-test.vol-eng.vol.eng 	| 0.5 	| 0.115 |
+
 
 
 # opus1m+bt-2021-05-01.zip
@@ -145,4 +148,24 @@
 | Tatoeba-test.tzl-eng 	| 1.0 	| 0.156 	| 166 	| 725 	| 0.952 |
 | Tatoeba-test.tzl_Latn-eng 	| 1.0 	| 0.156 	| 165 	| 723 	| 0.952 |
 | Tatoeba-test.vol-eng 	| 0.7 	| 0.122 	| 1549 	| 9888 	| 0.781 |
+
+
+# opus4m+btTCv20210807-2021-09-30.zip
+
+* dataset: opus4m+btTCv20210807
+* model: transformer
+* source language(s): afh avk bzt dws epo ido ile ina jbo ldn lfn nov qya sjn tlh tzl vol
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus4m+btTCv20210807-2021-09-30.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/art-eng/opus4m+btTCv20210807-2021-09-30.zip)
+* test set translations: [opus4m+btTCv20210807-2021-09-30.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/art-eng/opus4m+btTCv20210807-2021-09-30.test.txt)
+* test set scores: [opus4m+btTCv20210807-2021-09-30.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/art-eng/opus4m+btTCv20210807-2021-09-30.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test-v2021-08-07.multi-eng 	| 27.0 	| 0.441 	| 10000 	| 75207 	| 1.000 |
+| Tatoeba-test-v2021-08-07.multi-multi 	| 27.0 	| 0.441 	| 10000 	| 75207 	| 1.000 |
 

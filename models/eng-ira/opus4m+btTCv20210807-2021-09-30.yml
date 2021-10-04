@@ -1,0 +1,112 @@
+release: eng-ira/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - bal
+   - ckb
+   - diq
+   - fas
+   - glk
+   - jdt
+   - kmr
+   - kur
+   - lrc
+   - mzn
+   - oss
+   - pal
+   - pes
+   - prs
+   - pus
+   - sdh
+   - tgk
+   - tly
+   - zza
+use-target-labels:
+   - ">>bal<<"
+   - ">>ckb<<"
+   - ">>diq<<"
+   - ">>fas<<"
+   - ">>glk<<"
+   - ">>jdt_Cyrl<<"
+   - ">>kmr<<"
+   - ">>kmr_Latn<<"
+   - ">>kur_Arab<<"
+   - ">>kur_Latn<<"
+   - ">>lrc<<"
+   - ">>mzn<<"
+   - ">>oss<<"
+   - ">>oss_Latn<<"
+   - ">>pes<<"
+   - ">>pes_Latn<<"
+   - ">>pes_Thaa<<"
+   - ">>prs<<"
+   - ">>pus<<"
+   - ">>sdh<<"
+   - ">>tgk_Cyrl<<"
+   - ">>tgk_Latn<<"
+   - ">>tly_Latn<<"
+   - ">>zza<<"
+training-data:
+   eng-ckb: Tatoeba-train-v2021-08-07 (28990) 
+   eng-fas: Tatoeba-train-v2021-08-07 (4000000) 
+   eng-kmr: Tatoeba-train-v2021-08-07 (116) 
+   eng-kmr_Latn: Tatoeba-train-v2021-08-07 (15935) 
+   eng-kur_Arab: Tatoeba-train-v2021-08-07 (150773) 
+   eng-kur_Cyrl: Tatoeba-train-v2021-08-07 (20) 
+   eng-kur_Latn: Tatoeba-train-v2021-08-07 (202707) 
+   eng-oss: Tatoeba-train-v2021-08-07 (68907) 
+   eng-oss_Latn: Tatoeba-train-v2021-08-07 (13) 
+   eng-pes: Tatoeba-train-v2021-08-07 (62004) 
+   eng-prs: Tatoeba-train-v2021-08-07 (3068) 
+   eng-pus: Tatoeba-train-v2021-08-07 (630199) wiki.aa.pus-eng (2234) wikibooks.aa.pus-eng (1) 
+   eng-tgk_Cyrl: Tatoeba-train-v2021-08-07 (640388) 
+   eng-tgk_Latn: Tatoeba-train-v2021-08-07 (24501) 
+validation-data:
+   bal-eng: Tatoeba-dev-v2021-08-07, 176
+   ckb-eng: Tatoeba-dev-v2021-08-07, 24
+   diq-eng: Tatoeba-dev-v2021-08-07, 174
+   eng-fas: Tatoeba-dev-v2021-08-07, 1031
+   eng-glk: Tatoeba-dev-v2021-08-07, 34
+   eng-glk_Latn: Tatoeba-dev-v2021-08-07, 1
+   eng-kmr_Latn: Tatoeba-dev-v2021-08-07, 52
+   eng-kur_Latn: Tatoeba-dev-v2021-08-07, 2
+   eng-lrc: Tatoeba-dev-v2021-08-07, 2
+   eng-mzn: Tatoeba-dev-v2021-08-07, 100
+   eng-mzn_Latn: Tatoeba-dev-v2021-08-07, 1
+   eng-oss: Tatoeba-dev-v2021-08-07, 1000
+   eng-pes: Tatoeba-dev-v2021-08-07, 1031
+   eng-pus: Tatoeba-dev-v2021-08-07, 994
+   eng-sdh: Tatoeba-dev-v2021-08-07, 2
+   eng-tgk_Cyrl: Tatoeba-dev-v2021-08-07, 968
+   eng-tgk_Latn: Tatoeba-dev-v2021-08-07, 32
+   eng-zza: Tatoeba-dev-v2021-08-07, 5
+   total-size-shuffled: 5348
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.eng-multi: 8700/69012
+   Tatoeba-test-v2021-08-07.multi-multi: 8700/69012
+   tico19-test.eng-fas: 2100/62758
+   tico19-test.eng-pus: 2100/66223
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.eng-multi: 13.1
+   Tatoeba-test-v2021-08-07.multi-multi: 13.1
+   tico19-test.eng-fas: 23.8
+   tico19-test.eng-pus: 10.2
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.eng-multi: 0.341
+   Tatoeba-test-v2021-08-07.multi-multi: 0.341
+   tico19-test.eng-fas: 0.509
+   tico19-test.eng-pus: 0.360

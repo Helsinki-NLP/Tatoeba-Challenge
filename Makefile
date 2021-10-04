@@ -65,7 +65,8 @@ OPUSMT_HOMEDIR = ../Opus-MT-train
 ## TATOEBA_VERSION ..... Tatoeba corpus release this is based on
 
 TODAY          := $(shell date +%F)
-VERSION         = v2020-07-28
+# VERSION         = v2020-07-28
+VERSION         = v2021-08-07
 TATOEBA_VERSION = v2020-05-31
 # TATOEBA_VERSION = v20190709
 
@@ -333,7 +334,7 @@ release-tag:
 	@echo ""                              >> ${DATADIR}/Releases.md
 	@echo "* [Test data](${TATOEBA_DATAURL}-devtest/test-${VERSION}.tar) (${VERSION})" >> ${DATADIR}/Releases.md
 	@echo "* [Development data](${TATOEBA_DATAURL}-devtest/dev-${VERSION}.tar) (${VERSION})" >> ${DATADIR}/Releases.md
-	@echo "* [Bilingual training data](data/README-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> ${DATADIR}/Releases.md
+	@echo "* [Bilingual training data](README-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> ${DATADIR}/Releases.md
 	@echo "* [Extra bilingual training data](data/subsets/NoTestData-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> ${DATADIR}/Releases.md
 	@echo ""                             >> ${DATADIR}/Releases.md
 	git add ${TESTDATADIR}/*/*.txt
@@ -364,6 +365,7 @@ DEVSET_VERSION        ?= ${VERSION}
 TRAINSET_VERSION      ?= ${VERSION}
 EXTRATRAINSET_VERSION ?= ${VERSION}
 MONO_VERSION          ?= ${VERSION}
+
 
 README.md: README.template ${TESTDATADIR}-${VERSION} ${DEVDATADIR}-${VERSION}
 	sed 	-e 's/%%RELEASE%%/${VERSION}/g' \
@@ -470,6 +472,8 @@ update-models:
 	git add ${MODEL_RELEASEDIR}/*/README.md
 	git add ${MODEL_RELEASEDIR}/*/*.yml
 	git add ${MODEL_RELEASEDIR}/*.json
+	git add results/*.md
+	git add models/*.txt
 	${MAKE} GIT_COMMIT_MESSAGE='latest models added' update-git
 
 GIT_COMMIT_MESSAGE ?= latest changes
@@ -497,17 +501,29 @@ upload-models:
 released-model-list: 	models/released-models.txt \
 			models/released-model-results.txt \
 			models/released-model-results-all.txt \
+			models/released-model-results-${VERSION}.txt \
 			models/released-model-results-other.txt
 #			models/released-model-languages.txt
 
 
+# RESULT_FILES = results/tatoeba-results-all.md \
+#	results/tatoeba-results-all-subset-zero.md \
+#	results/tatoeba-results-all-subset-lowest.md \
+#	results/tatoeba-results-all-subset-lower.md \
+#	results/tatoeba-results-all-subset-medium.md \
+#	results/tatoeba-results-all-subset-higher.md \
+#	results/tatoeba-results-all-subset-highest.md
+
 RESULT_FILES = results/tatoeba-results-all.md \
-	results/tatoeba-results-all-subset-zero.md \
-	results/tatoeba-results-all-subset-lowest.md \
-	results/tatoeba-results-all-subset-lower.md \
-	results/tatoeba-results-all-subset-medium.md \
-	results/tatoeba-results-all-subset-higher.md \
-	results/tatoeba-results-all-subset-highest.md
+	results/tatoeba-results-tatoeba.md \
+	results/tatoeba-results-other.md \
+	results/tatoeba-results-${VERSION}.md \
+	results/tatoeba-results-${VERSION}-subset-zero.md \
+	results/tatoeba-results-${VERSION}-subset-lowest.md \
+	results/tatoeba-results-${VERSION}-subset-lower.md \
+	results/tatoeba-results-${VERSION}-subset-medium.md \
+	results/tatoeba-results-${VERSION}-subset-higher.md \
+	results/tatoeba-results-${VERSION}-subset-highest.md
 
 .PHONY: released-model-results results
 released-model-results results: ${RESULT_FILES} results/tatoeba-models-all.md
@@ -1436,6 +1452,19 @@ models/released-model-results-all.txt: ${TATOEBA_YAML}
 	sort -k1,1 -k3,3nr -k2,2nr -k4,4 | uniq | grep zip > $@
 	rm -f $@.1 $@.langs $@.url $@.scores $@.sizes
 
+models/released-model-results-${VERSION}.txt: ${TATOEBA_YAML}
+	find models -name '*.yml' | \
+	xargs scripts/get-model-scores.pl -S |\
+	grep 'Tatoeba-test-${VERSION}' | \
+	grep -v 'multi'                                > $@.1 
+	cut -f2 $@.1                                   > $@.langs
+	cut -f1 $@.1 | sed 's#^#${TATOEBA_MODELURL}/#' > $@.url
+	cut -f4,5 $@.1                                 > $@.scores
+	cut -f6,7 $@.1                                 > $@.sizes
+	paste $@.langs $@.scores $@.url $@.sizes | \
+	sort -k1,1 -k3,3nr -k2,2nr -k4,4 | uniq | grep zip > $@
+	rm -f $@.1 $@.langs $@.url $@.scores $@.sizes
+
 models/released-model-results-other.txt: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
 	xargs scripts/get-model-scores.pl -S |\
@@ -1553,12 +1582,12 @@ results/tatoeba-models-all.md: tatoeba-models-all
 
 
 ## new: also consider the opposite translation direction!
-tatoeba-results-all-subset-%: tatoeba-results-all-sorted-langpair
-	${MAKE} ${patsubst tatoeba-results-all-subset-%,${DATADIR}/subsets/%.md,$@}
-	( l="${shell grep '\[' ${patsubst tatoeba-results-all-subset-%,${DATADIR}/subsets/%.md,$@} | \
+tatoeba-results-${VERSION}-subset-%: tatoeba-results-${VERSION}-sorted-langpair
+	${MAKE} ${patsubst tatoeba-results-${VERSION}-subset-%,${DATADIR}/subsets/%.md,$@}
+	( l="${shell grep '\[' ${patsubst tatoeba-results-${VERSION}-subset-%,${DATADIR}/subsets/%.md,$@} | \
 		cut -f2 -d '[' | cut -f1 -d ']' | \
 		sort -u  | tr "\n" '|' | sed 's/|$$//;s/\-/\\\-/g'}"; \
-	  r="${shell grep '\[' ${patsubst tatoeba-results-all-subset-%,${DATADIR}/subsets/%.md,$@} | \
+	  r="${shell grep '\[' ${patsubst tatoeba-results-${VERSION}-subset-%,${DATADIR}/subsets/%.md,$@} | \
 		cut -f2 -d '[' | cut -f1 -d ']' | \
 		sort -u  | sed 's/\(...\)-\(...\)/\2-\1/' | tr "\n" '|' | sed 's/|$$//;s/\-/\\\-/g'}"; \
 	  grep -P "$$l|$$r" $< |\
@@ -1587,6 +1616,31 @@ tatoeba-results-all: ${TATOEBA_YAML}
 #	sort -r $@-work | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
 #	rm -f $@.1 $@.2 $@.3 $@.4 $@.5 $@-work
 
+## Tatoeba test sets from the current version
+tatoeba-results-${VERSION}: ${TATOEBA_YAML}
+	find models -name '*.yml' | \
+	xargs scripts/get-model-scores.pl -s 200 |\
+	grep 'Tatoeba-test-${VERSION}' | \
+	sed 's/-....-..-..\.zip//' |\
+	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u |\
+	grep -v '	multi-' | grep -v -- '-multi	' > $@
+
+## non-Tatoeba test sets
+tatoeba-results-tatoeba: ${TATOEBA_YAML}
+	find models -name '*.yml' | \
+	xargs scripts/get-model-scores.pl -s 200 |\
+	grep 'Tatoeba-test' | \
+	sed 's/-....-..-..\.zip//' |\
+	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
+
+## non-Tatoeba test sets
+tatoeba-results-other: ${TATOEBA_YAML}
+	find models -name '*.yml' | \
+	xargs scripts/get-model-scores.pl -s 200 |\
+	grep -v 'Tatoeba-test' | \
+	sed 's/-....-..-..\.zip//' |\
+	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
+
 
 tatoeba-models-all: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
@@ -1595,15 +1649,15 @@ tatoeba-models-all: ${TATOEBA_YAML}
 	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
 
 
-tatoeba-results-all-sorted-langpair: tatoeba-results-all
+tatoeba-results-%-sorted-langpair: tatoeba-results-%
 	sort -k2,2 -k3,3 -k4,4nr < $< |\
 	perl -pe '@a=split;print "\n${RESULT_TABLE_HEADER}" if ($$b ne $$a[1]);$$b=$$a[1];' \
 	> $@
 
-tatoeba-results-all-sorted-chrf2: tatoeba-results-all
+tatoeba-results-%-sorted-chrf2: tatoeba-results-%
 	sort -k3,3 -k4,4nr < $< > $@
 
-tatoeba-results-all-sorted-bleu: tatoeba-results-all
+tatoeba-results-%-sorted-bleu: tatoeba-results-%
 	sort -k3,3 -k5,5nr < $< > $@
 
 
@@ -1614,6 +1668,16 @@ cleanup-model-dirs:
 	  scripts/cleanup-model-releases.pl -r models/available-models.txt $$d; \
 	done
 	swift list Tatoeba-MT-models > models/available-models.txt
+
+## make a dry-run of the cleanup script
+## (to test whether things would be deleted)
+cleanup-model-dirs-dryrun:
+	which a-put
+	for d in `find models -maxdepth 1 -mindepth 1 -type d`; do \
+	  echo "check $$d"; \
+	  scripts/cleanup-model-releases.pl -d -r models/available-models.txt $$d; \
+	done
+
 
 
 ## upload data to ObjectStorage on allas

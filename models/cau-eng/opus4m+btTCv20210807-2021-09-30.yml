@@ -1,0 +1,60 @@
+release: cau-eng/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - abk
+   - ady
+   - ava
+   - che
+   - inh
+   - kat
+   - kbd
+   - lbe
+   - lez
+   - xmf
+target-languages:
+   - eng
+training-data:
+   abk-eng: Tatoeba-train-v2021-08-07 (25247) 
+   ava-eng: Tatoeba-train-v2021-08-07 (1) 
+   ava_Latn-eng: Tatoeba-train-v2021-08-07 (137) 
+   kat-eng: Tatoeba-train-v2021-08-07 (1975781) 
+   kat_Latn-eng: Tatoeba-train-v2021-08-07 (47509) 
+   xmf-eng: Tatoeba-train-v2021-08-07 (7321) 
+validation-data:
+   abk-eng: Tatoeba-dev-v2021-08-07, 996
+   ady-eng: Tatoeba-dev-v2021-08-07, 7
+   ava-eng: Tatoeba-dev-v2021-08-07, 20
+   ava_Arab-eng: Tatoeba-dev-v2021-08-07, 5
+   ava_Latn-eng: Tatoeba-dev-v2021-08-07, 975
+   che-eng: Tatoeba-dev-v2021-08-07, 432
+   eng-inh: Tatoeba-dev-v2021-08-07, 473
+   eng-kat: Tatoeba-dev-v2021-08-07, 994
+   eng-kat_Latn: Tatoeba-dev-v2021-08-07, 24
+   eng-kbd: Tatoeba-dev-v2021-08-07, 499
+   eng-kbd_Latn: Tatoeba-dev-v2021-08-07, 1
+   eng-lbe: Tatoeba-dev-v2021-08-07, 2
+   eng-lez: Tatoeba-dev-v2021-08-07, 5
+   eng-xmf: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 4916
+   devset-selected: top 4916  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.multi-eng: 1083/6549
+   Tatoeba-test-v2021-08-07.multi-multi: 1083/6549
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.multi-eng: 39.1
+   Tatoeba-test-v2021-08-07.multi-multi: 39.1
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.multi-eng: 0.567
+   Tatoeba-test-v2021-08-07.multi-multi: 0.567

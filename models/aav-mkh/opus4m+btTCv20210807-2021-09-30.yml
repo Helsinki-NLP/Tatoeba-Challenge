@@ -1,0 +1,65 @@
+release: aav-mkh/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - kha
+   - khm
+   - vie
+target-languages:
+   - kha
+   - khm
+   - vie
+use-target-labels:
+   - ">>kha<<"
+   - ">>khm<<"
+   - ">>khm_Latn<<"
+   - ">>vie<<"
+   - ">>vie_Hani<<"
+training-data:
+   khm-vie: Tatoeba-train-v2021-08-07 (268676) 
+   khm-vie_Hani: Tatoeba-train-v2021-08-07 (1) 
+   khm_Latn-vie: Tatoeba-train-v2021-08-07 (4799) 
+   vie-khm: Tatoeba-train-v2021-08-07 (268676) 
+   vie-khm_Latn: Tatoeba-train-v2021-08-07 (4799) 
+   vie-vie: Tatoeba-train-v2021-08-07.vie-vie.clean.vie1.gz (199801) 
+   vie_Hani-khm: Tatoeba-train-v2021-08-07 (1) 
+validation-data:
+   khm-vie: Tatoeba-dev-v2021-08-07, 981
+   khm_Latn-vie: Tatoeba-dev-v2021-08-07, 19
+   khm-vie: Tatoeba-dev-v2021-08-07, 981
+   khm_Latn-vie: Tatoeba-dev-v2021-08-07, 19
+   vie-vie: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 2976
+   devset-selected: top 2976  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.kha-vie: 4/39
+   Tatoeba-test-v2021-08-07.khm-vie: 18/101
+   Tatoeba-test-v2021-08-07.multi-multi: 586/6564
+   Tatoeba-test-v2021-08-07.vie-kha: 4/37
+   Tatoeba-test-v2021-08-07.vie-khm: 18/37
+   Tatoeba-test-v2021-08-07.vie-vie: 542/6349
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.kha-vie: 2.1
+   Tatoeba-test-v2021-08-07.khm-vie: 1.1
+   Tatoeba-test-v2021-08-07.multi-multi: 60.1
+   Tatoeba-test-v2021-08-07.vie-kha: 1.6
+   Tatoeba-test-v2021-08-07.vie-khm: 0.4
+   Tatoeba-test-v2021-08-07.vie-vie: 61.9
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.kha-vie: 0.073
+   Tatoeba-test-v2021-08-07.khm-vie: 0.107
+   Tatoeba-test-v2021-08-07.multi-multi: 0.707
+   Tatoeba-test-v2021-08-07.vie-kha: 0.078
+   Tatoeba-test-v2021-08-07.vie-khm: 0.019
+   Tatoeba-test-v2021-08-07.vie-vie: 0.736

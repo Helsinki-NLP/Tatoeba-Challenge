@@ -1,0 +1,57 @@
+release: fin-eng/opusTCv20210807+bt-2021-08-25.zip
+release-date: 2021-08-25
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-align
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - eng
+training-data:
+   fin-eng: Tatoeba-train-v2021-08-07 (103531791) wikibooks.aa (992334) wikinews.aa (457233) wikipedia.aa (983013) wikipedia.ab (983150) wikipedia.ac (983127) wikipedia.ad (982918) wikiquote.aa (997039) 
+validation-data:
+   eng-fin: Tatoeba-dev-v2021-08-07, 69896
+   total-size-shuffled: 69896
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newsdev2015-enfi.fin-eng: 1500/32104
+   newstest2015-enfi.fin-eng: 1370/27356
+   newstest2016-enfi.fin-eng: 3000/63043
+   newstest2017-enfi.fin-eng: 3002/61936
+   newstest2018-enfi.fin-eng: 3000/62325
+   newstest2019-fien.fin-eng: 1996/36227
+   newstestB2016-enfi.fin-eng: 3000/63043
+   newstestB2017-enfi.fin-eng: 3002/61936
+   newstestB2017-fien.fin-eng: 3002/61936
+   Tatoeba-test-v2021-08-07.fin-eng: 10000/75212
+BLEU-scores:
+   newsdev2015-enfi.fin-eng: 27.1
+   newstest2015-enfi.fin-eng: 28.5
+   newstest2016-enfi.fin-eng: 31.7
+   newstest2017-enfi.fin-eng: 34.6
+   newstest2018-enfi.fin-eng: 25.4
+   newstest2019-fien.fin-eng: 30.6
+   newstestB2016-enfi.fin-eng: 25.8
+   newstestB2017-enfi.fin-eng: 29.6
+   newstestB2017-fien.fin-eng: 29.6
+   Tatoeba-test-v2021-08-07.fin-eng: 54.1
+chr-F-scores:
+   newsdev2015-enfi.fin-eng: 0.550
+   newstest2015-enfi.fin-eng: 0.560
+   newstest2016-enfi.fin-eng: 0.586
+   newstest2017-enfi.fin-eng: 0.610
+   newstest2018-enfi.fin-eng: 0.530
+   newstest2019-fien.fin-eng: 0.577
+   newstestB2016-enfi.fin-eng: 0.538
+   newstestB2017-enfi.fin-eng: 0.572
+   newstestB2017-fien.fin-eng: 0.572
+   Tatoeba-test-v2021-08-07.fin-eng: 0.700

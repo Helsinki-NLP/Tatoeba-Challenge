@@ -24,6 +24,7 @@
 
 
 
+
 # opus-2020-07-26.zip
 
 * dataset: opus
@@ -47,6 +48,7 @@
 | Tatoeba-test.gle-eng.gle.eng 	| 47.8 	| 0.642 |
 | Tatoeba-test.glv-eng.glv.eng 	| 45.2 	| 0.614 |
 | Tatoeba-test.multi.eng 	| 21.7 	| 0.387 |
+
 
 
 
@@ -76,6 +78,7 @@
 
 
 
+
 # opus4m-2020-08-12.zip
 
 * dataset: opus4m
@@ -99,6 +102,7 @@
 | Tatoeba-test.gle-eng.gle.eng 	| 51.3 	| 0.675 |
 | Tatoeba-test.glv-eng.glv.eng 	| 17.0 	| 0.525 |
 | Tatoeba-test.multi.eng 	| 23.3 	| 0.404 |
+
 
 
 
@@ -127,6 +131,7 @@
 | Tatoeba-test.multi-eng 	| 25.5 	| 0.417 	| 7245 	| 42097 	| 1.000 |
 
 
+
 # opus1m+bt-tuned4bre2eng-2021-05-08.zip
 
 * dataset: opus1m+bt-tuned4bre2eng
@@ -145,4 +150,30 @@
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.bre-eng 	| 32.3 	| 0.502 	| 383 	| 2065 	| 1.000 |
 | Tatoeba-test.multi-eng 	| 6.6 	| 0.188 	| 7245 	| 42097 	| 1.000 |
+
+
+# opus4m+btTCv20210807-2021-09-30.zip
+
+* dataset: opus4m+btTCv20210807
+* model: transformer
+* source language(s): bre cor cym gla gle glv
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus4m+btTCv20210807-2021-09-30.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/cel-eng/opus4m+btTCv20210807-2021-09-30.zip)
+* test set translations: [opus4m+btTCv20210807-2021-09-30.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cel-eng/opus4m+btTCv20210807-2021-09-30.test.txt)
+* test set scores: [opus4m+btTCv20210807-2021-09-30.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/cel-eng/opus4m+btTCv20210807-2021-09-30.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test-v2021-08-07.bre-eng 	| 30.2 	| 0.469 	| 383 	| 2064 	| 1.000 |
+| Tatoeba-test-v2021-08-07.cor-eng 	| 6.2 	| 0.217 	| 3198 	| 16828 	| 1.000 |
+| Tatoeba-test-v2021-08-07.cym-eng 	| 51.1 	| 0.677 	| 818 	| 5563 	| 1.000 |
+| Tatoeba-test-v2021-08-07.gla-eng 	| 4.7 	| 0.161 	| 955 	| 6610 	| 1.000 |
+| Tatoeba-test-v2021-08-07.gle-eng 	| 46.7 	| 0.635 	| 1913 	| 11189 	| 1.000 |
+| Tatoeba-test-v2021-08-07.glv-eng 	| 20.8 	| 0.419 	| 5 	| 27 	| 1.000 |
+| Tatoeba-test-v2021-08-07.multi-eng 	| 24.3 	| 0.403 	| 7272 	| 42285 	| 1.000 |
+| Tatoeba-test-v2021-08-07.multi-multi 	| 24.3 	| 0.403 	| 7272 	| 42285 	| 1.000 |
 

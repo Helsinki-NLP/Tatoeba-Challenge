@@ -1,0 +1,52 @@
+release: aav-zlw/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - khm
+   - vie
+target-languages:
+   - ces
+   - pol
+use-target-labels:
+   - ">>ces<<"
+   - ">>pol<<"
+training-data:
+   khm-pol: Tatoeba-train-v2021-08-07 (329657) 
+   khm_Latn-pol: Tatoeba-train-v2021-08-07 (6823) 
+   vie-ces: Tatoeba-train-v2021-08-07 (4000000) 
+   vie-pol: Tatoeba-train-v2021-08-07 (4000000) 
+   vie_Hani-ces: Tatoeba-train-v2021-08-07 (3) 
+   vie_Hani-pol: Tatoeba-train-v2021-08-07 (13) 
+validation-data:
+   khm-pol: Tatoeba-dev-v2021-08-07, 982
+   khm_Latn-pol: Tatoeba-dev-v2021-08-07, 18
+   ces-vie: Tatoeba-dev-v2021-08-07, 1000
+   pol-vie: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 2999
+   devset-selected: top 2999  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.khm-pol: 3/12
+   Tatoeba-test-v2021-08-07.multi-multi: 43/262
+   Tatoeba-test-v2021-08-07.vie-ces: 2/8
+   Tatoeba-test-v2021-08-07.vie-pol: 38/242
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.khm-pol: 2.3
+   Tatoeba-test-v2021-08-07.multi-multi: 26.8
+   Tatoeba-test-v2021-08-07.vie-ces: 63.4
+   Tatoeba-test-v2021-08-07.vie-pol: 27.3
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.khm-pol: 0.080
+   Tatoeba-test-v2021-08-07.multi-multi: 0.466
+   Tatoeba-test-v2021-08-07.vie-ces: 0.716
+   Tatoeba-test-v2021-08-07.vie-pol: 0.477

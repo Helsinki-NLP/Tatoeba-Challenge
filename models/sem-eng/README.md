@@ -24,6 +24,7 @@
 | Tatoeba-test.tmr-eng.tmr.eng 	| 0.7 	| 0.147 |
 
 
+
 # opus-2020-07-04.zip
 
 * dataset: opus
@@ -46,6 +47,7 @@
 | Tatoeba-test.mlt-eng.mlt.eng 	| 45.7 	| 0.617 |
 | Tatoeba-test.multi.eng 	| 40.3 	| 0.572 |
 | Tatoeba-test.tir-eng.tir.eng 	| 14.8 	| 0.349 |
+
 
 
 # opus-2020-07-27.zip
@@ -72,6 +74,7 @@
 | Tatoeba-test.tir-eng.tir.eng 	| 15.5 	| 0.341 |
 
 
+
 # opus2m-2020-08-01.zip
 
 * dataset: opus2m
@@ -96,6 +99,7 @@
 | Tatoeba-test.tir-eng.tir.eng 	| 18.3 	| 0.370 |
 
 
+
 # opus4m-2020-08-12.zip
 
 * dataset: opus4m
@@ -118,6 +122,7 @@
 | Tatoeba-test.mlt-eng.mlt.eng 	| 51.5 	| 0.670 |
 | Tatoeba-test.multi.eng 	| 42.3 	| 0.592 |
 | Tatoeba-test.tir-eng.tir.eng 	| 17.1 	| 0.357 |
+
 
 
 # opus1m+bt-2021-05-01.zip
@@ -159,4 +164,31 @@
 | tico19-test.en-ti_ER.tir-eng 	| 2.1 	| 0.191 	| 2100 	| 56848 	| 1.000 |
 | tico19-test.en-ti_ET.tir-eng 	| 2.4 	| 0.194 	| 2100 	| 56848 	| 1.000 |
 | tico19-test.tir-eng 	| 2.3 	| 0.188 	| 2100 	| 56848 	| 1.000 |
+
+
+# opus4m+btTCv20210807-2021-10-01.zip
+
+* dataset: opus4m+btTCv20210807
+* model: transformer
+* source language(s): acm afb amh apc ara arc arq ary arz hbo heb jpa mlt oar phn syr tig tir tmr
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: 
+* download: [opus4m+btTCv20210807-2021-10-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-eng/opus4m+btTCv20210807-2021-10-01.zip)
+* test set translations: [opus4m+btTCv20210807-2021-10-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-eng/opus4m+btTCv20210807-2021-10-01.test.txt)
+* test set scores: [opus4m+btTCv20210807-2021-10-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-eng/opus4m+btTCv20210807-2021-10-01.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test-v2021-08-07.multi-eng 	| 42.1 	| 0.592 	| 10000 	| 74081 	| 0.991 |
+| Tatoeba-test-v2021-08-07.multi-multi 	| 42.1 	| 0.592 	| 10000 	| 74081 	| 0.991 |
+| tico19-test.amh-eng 	| 9.8 	| 0.252 	| 2100 	| 56848 	| 1.000 |
+| tico19-test.ara-eng 	| 35.1 	| 0.621 	| 2100 	| 56347 	| 1.000 |
+| tico19-test.en-ti_ER.tir-eng 	| 34.7 	| 0.462 	| 2100 	| 56848 	| 1.000 |
+| tico19-test.en-ti_ET.tir-eng 	| 33.4 	| 0.452 	| 2100 	| 56848 	| 1.000 |
+| tico19-test.tir-eng 	| 30.6 	| 0.426 	| 2100 	| 56848 	| 1.000 |
 

@@ -1,0 +1,78 @@
+release: eng-aav/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - hoc
+   - kha
+   - khm
+   - mnw
+   - ngt
+   - sat
+   - vie
+use-target-labels:
+   - ">>hoc<<"
+   - ">>hoc_Latn<<"
+   - ">>kha<<"
+   - ">>khm<<"
+   - ">>khm_Arab<<"
+   - ">>khm_Cyrl<<"
+   - ">>khm_Hani<<"
+   - ">>khm_Latn<<"
+   - ">>mnw<<"
+   - ">>mnw_Latn<<"
+   - ">>ngt_Latn<<"
+   - ">>sat<<"
+   - ">>sat_Latn<<"
+   - ">>vie<<"
+   - ">>vie_Hani<<"
+   - ">>vie_Thaa<<"
+training-data:
+   eng-khm: Tatoeba-train-v2021-08-07 (783770) 
+   eng-khm_Arab: Tatoeba-train-v2021-08-07 (1) 
+   eng-khm_Cyrl: Tatoeba-train-v2021-08-07 (8) 
+   eng-khm_Hani: Tatoeba-train-v2021-08-07 (2) 
+   eng-khm_Latn: Tatoeba-train-v2021-08-07 (31189) 
+   eng-mnw: wiki.aa.mnw-eng (994) 
+   eng-sat: Tatoeba-train-v2021-08-07 (2860) 
+   eng-sat_Latn: Tatoeba-train-v2021-08-07 (26) 
+   eng-vie: Tatoeba-train-v2021-08-07 (4000000) 
+   eng-vie_Hani: Tatoeba-train-v2021-08-07 (79) 
+   eng-vie_Thaa: Tatoeba-train-v2021-08-07 (1) 
+   eng_Khmr-khm: Tatoeba-train-v2021-08-07 (1) 
+   eng_Yiii-vie: Tatoeba-train-v2021-08-07 (1) 
+validation-data:
+   eng-kha: Tatoeba-dev-v2021-08-07, 20
+   eng-khm: Tatoeba-dev-v2021-08-07, 960
+   eng-khm_Latn: Tatoeba-dev-v2021-08-07, 40
+   eng-mnw: Tatoeba-dev-v2021-08-07, 869
+   eng-mnw_Latn: Tatoeba-dev-v2021-08-07, 19
+   eng-sat: Tatoeba-dev-v2021-08-07, 987
+   eng-sat_Latn: Tatoeba-dev-v2021-08-07, 13
+   eng-vie: Tatoeba-dev-v2021-08-07, 3135
+   total-size-shuffled: 3641
+   devset-selected: top 3641  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.eng-multi: 5226/38124
+   Tatoeba-test-v2021-08-07.multi-multi: 5226/38124
+   tico19-test.eng-khm: 2100/20941
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.eng-multi: 15.8
+   Tatoeba-test-v2021-08-07.multi-multi: 15.8
+   tico19-test.eng-khm: 0.8
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.eng-multi: 0.301
+   Tatoeba-test-v2021-08-07.multi-multi: 0.301
+   tico19-test.eng-khm: 0.032

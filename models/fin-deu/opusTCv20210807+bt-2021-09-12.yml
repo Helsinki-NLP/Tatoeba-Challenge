@@ -1,0 +1,36 @@
+release: fin-deu/opusTCv20210807+bt-2021-09-12.zip
+release-date: 2021-09-12
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-align
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - deu
+training-data:
+   fin-deu: Tatoeba-train-v2021-08-07 (55548870) wiki.ab (963187) wiki.ac (963277) wiki.ad (963646) wiki.ae (963757) wiki.af (963759) wiki.ag (963584) wiki.ai (963730) wiki.ak (963582) wiki.al (963477) wiki.am (963586) wiki.ao (963458) wiki.aq (963492) wiki.as (963651) wiki.at (963492) wiki.au (963782) wiki.av (963453) wiki.aw (963734) wiki.ax (963477) wiki.ay (963572) wiki.az (963482) wiki.ba (963715) wiki.bb (963792) wiki.bd (964535) wiki.bf (964567) wiki.bg (964392) wiki.bh (964172) wiki.bi (964295) wiki.bj (964337) wiki.bk (963828) wiki.bl (964209) wiki.bm (964303) wiki.bn (964329) wiki.bo (964027) wiki.bp (964207) wiki.bq (964273) wiki.br (964327) wiki.bs (964043) wiki.bt (963964) wiki.bu (964237) wiki.bv (964105) wiki.bx (613766) wikibooks.aa (455498) wikinews.aa (184505) wikiquote.aa (79691) wikisource.ab (944409) wikisource.ac (945006) wikisource.ad (944451) wikisource.ae (944491) wikisource.af (944781) wikisource.ag (944655) wikisource.ah (51603) 
+validation-data:
+   deu-fin: Tatoeba-dev-v2021-08-07, 7142
+   total-size-shuffled: 7142
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   goethe-institute-test1.fin-deu: 2000/33995
+   goethe-institute-test2.fin-deu: 1999/33836
+   Tatoeba-test-v2021-08-07.fin-deu: 2647/19163
+BLEU-scores:
+   goethe-institute-test1.fin-deu: 25.4
+   goethe-institute-test2.fin-deu: 26.5
+   Tatoeba-test-v2021-08-07.fin-deu: 47.1
+chr-F-scores:
+   goethe-institute-test1.fin-deu: 0.550
+   goethe-institute-test2.fin-deu: 0.559
+   Tatoeba-test-v2021-08-07.fin-deu: 0.659

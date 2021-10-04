@@ -1,0 +1,80 @@
+release: aav-sit/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - khm
+   - vie
+target-languages:
+   - cmn
+   - nan
+   - wuu
+   - yue
+use-target-labels:
+   - ">>cmn<<"
+   - ">>cmn_Hans<<"
+   - ">>cmn_Hant<<"
+   - ">>nan<<"
+   - ">>wuu<<"
+   - ">>yue_Hans<<"
+   - ">>yue_Hant<<"
+training-data:
+   khm-cmn: Tatoeba-train-v2021-08-07 (10436) 
+   khm-cmn_Hans: Tatoeba-train-v2021-08-07 (130683) 
+   khm-cmn_Hant: Tatoeba-train-v2021-08-07 (81801) 
+   khm-nan: Tatoeba-train-v2021-08-07 (60) 
+   khm-wuu: Tatoeba-train-v2021-08-07 (1345) 
+   khm-yue_Hans: Tatoeba-train-v2021-08-07 (13) 
+   khm-yue_Hant: Tatoeba-train-v2021-08-07 (4143) 
+   khm_Latn-cmn: Tatoeba-train-v2021-08-07 (772) 
+   khm_Latn-cmn_Hans: Tatoeba-train-v2021-08-07 (1740) 
+   khm_Latn-cmn_Hant: Tatoeba-train-v2021-08-07 (582) 
+   khm_Latn-wuu: Tatoeba-train-v2021-08-07 (42) 
+   khm_Latn-yue_Hant: Tatoeba-train-v2021-08-07 (86) 
+   vie-cmn: Tatoeba-train-v2021-08-07 (256678) 
+   vie-cmn_Hans: Tatoeba-train-v2021-08-07 (4000000) 
+   vie-cmn_Hant: Tatoeba-train-v2021-08-07 (2693578) 
+   vie-nan: Tatoeba-train-v2021-08-07 (59) 
+   vie-wuu: Tatoeba-train-v2021-08-07 (2) 
+   vie-yue_Hans: Tatoeba-train-v2021-08-07 (83) 
+   vie-yue_Hant: Tatoeba-train-v2021-08-07 (3341) 
+   vie_Hani-cmn: Tatoeba-train-v2021-08-07 (1) 
+   vie_Hani-cmn_Hans: Tatoeba-train-v2021-08-07 (2316) 
+   vie_Hani-cmn_Hant: Tatoeba-train-v2021-08-07 (79) 
+validation-data:
+   cmn-khm: Tatoeba-dev-v2021-08-07, 42
+   cmn_Hans-khm: Tatoeba-dev-v2021-08-07, 570
+   cmn_Hant-khm: Tatoeba-dev-v2021-08-07, 355
+   khm-wuu: Tatoeba-dev-v2021-08-07, 4
+   khm-yue_Hant: Tatoeba-dev-v2021-08-07, 17
+   cmn-khm_Latn: Tatoeba-dev-v2021-08-07, 3
+   cmn_Hans-khm_Latn: Tatoeba-dev-v2021-08-07, 5
+   khm_Latn-wuu: Tatoeba-dev-v2021-08-07, 1
+   cmn-vie: Tatoeba-dev-v2021-08-07, 19
+   cmn_Hans-vie: Tatoeba-dev-v2021-08-07, 727
+   cmn_Hant-vie: Tatoeba-dev-v2021-08-07, 243
+   vie-yue_Hant: Tatoeba-dev-v2021-08-07, 1
+   total-size-shuffled: 1982
+   devset-selected: top 1982  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.khm-zho: 85/374
+   Tatoeba-test-v2021-08-07.multi-multi: 525/5549
+   Tatoeba-test-v2021-08-07.vie-zho: 440/5175
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.khm-zho: 0.1
+   Tatoeba-test-v2021-08-07.multi-multi: 26.7
+   Tatoeba-test-v2021-08-07.vie-zho: 28.2
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.khm-zho: 0.024
+   Tatoeba-test-v2021-08-07.multi-multi: 0.230
+   Tatoeba-test-v2021-08-07.vie-zho: 0.244

@@ -1,0 +1,55 @@
+release: eng-dra/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - kan
+   - mal
+   - tam
+   - tcy
+   - tel
+use-target-labels:
+   - ">>kan<<"
+   - ">>mal<<"
+   - ">>tam<<"
+   - ">>tcy<<"
+   - ">>tel<<"
+training-data:
+   eng-kan: Tatoeba-train-v2021-08-07 (458170) wiki.aa.kan-eng (14890) wikiquote.aa.kan-eng (9) wikisource.aa.kan-eng (46877) 
+   eng-mal: Tatoeba-train-v2021-08-07 (4000000) wiki.aa.mal-eng (100324) wikibooks.aa.mal-eng (45) wikiquote.aa.mal-eng (707) wikisource.aa.mal-eng (155972) 
+   eng-tam: Tatoeba-train-v2021-08-07 (4000000) 
+   eng-tel: Tatoeba-train-v2021-08-07 (1074915) wiki.aa.tel-eng (960840) wiki.ab.tel-eng (246501) wikibooks.aa.tel-eng (1767) wikiquote.aa.tel-eng (6472) wikisource.aa.tel-eng (837326) 
+   eng_Cyrl-tam: Tatoeba-train-v2021-08-07 (2) 
+validation-data:
+   eng-kan: Tatoeba-dev-v2021-08-07, 988
+   eng-mal: Tatoeba-dev-v2021-08-07, 984
+   eng-tam: Tatoeba-dev-v2021-08-07, 983
+   eng-tcy: Tatoeba-dev-v2021-08-07, 74
+   eng-tcy_Latn: Tatoeba-dev-v2021-08-07, 2
+   eng-tel: Tatoeba-dev-v2021-08-07, 980
+   total-size-shuffled: 4006
+   devset-selected: top 4006  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.eng-multi: 1541/7928
+   Tatoeba-test-v2021-08-07.multi-multi: 1541/7928
+   tico19-test.eng-tam: 2100/52966
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.eng-multi: 11.2
+   Tatoeba-test-v2021-08-07.multi-multi: 11.2
+   tico19-test.eng-tam: 10.9
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.eng-multi: 0.425
+   Tatoeba-test-v2021-08-07.multi-multi: 0.425
+   tico19-test.eng-tam: 0.417

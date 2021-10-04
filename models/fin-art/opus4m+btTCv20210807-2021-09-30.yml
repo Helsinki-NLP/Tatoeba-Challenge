@@ -1,0 +1,60 @@
+release: fin-art/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - epo
+   - ido
+   - ina
+   - jbo
+   - ldn
+   - lfn
+   - nov
+   - tzl
+use-target-labels:
+   - ">>epo<<"
+   - ">>ido<<"
+   - ">>ido_Latn<<"
+   - ">>ina_Latn<<"
+   - ">>jbo<<"
+   - ">>jbo_Latn<<"
+   - ">>ldn_Latn<<"
+   - ">>lfn_Cyrl<<"
+   - ">>lfn_Latn<<"
+   - ">>nov_Latn<<"
+   - ">>tzl_Latn<<"
+training-data:
+   fin-epo: Tatoeba-train-v2021-08-07 (1534419) 
+   fin-ido: Tatoeba-train-v2021-08-07 (360) 
+   fin-ido_Latn: Tatoeba-train-v2021-08-07 (15667) 
+   fin-ina_Latn: Tatoeba-train-v2021-08-07 (24787) 
+validation-data:
+   epo-fin: Tatoeba-dev-v2021-08-07, 1047
+   fin-ido: Tatoeba-dev-v2021-08-07, 20
+   fin-ido_Latn: Tatoeba-dev-v2021-08-07, 979
+   fin-ina_Latn: Tatoeba-dev-v2021-08-07, 1001
+   fin-jbo: Tatoeba-dev-v2021-08-07, 1
+   fin-jbo_Latn: Tatoeba-dev-v2021-08-07, 397
+   total-size-shuffled: 3125
+   devset-selected: top 3125  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.fin-multi: 2913/19184
+   Tatoeba-test-v2021-08-07.multi-multi: 2913/19184
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.fin-multi: 43.0
+   Tatoeba-test-v2021-08-07.multi-multi: 43.0
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.fin-multi: 0.637
+   Tatoeba-test-v2021-08-07.multi-multi: 0.637

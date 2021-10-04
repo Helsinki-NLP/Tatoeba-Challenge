@@ -31,6 +31,7 @@
 | Tatoeba-test.pol-eng.pol.eng 	| 48.3 	| 0.652 |
 
 
+
 # opus-2020-07-27.zip
 
 * dataset: opus
@@ -64,6 +65,7 @@
 | Tatoeba-test.hsb-eng.hsb.eng 	| 20.2 	| 0.415 |
 | Tatoeba-test.multi.eng 	| 49.4 	| 0.660 |
 | Tatoeba-test.pol-eng.pol.eng 	| 48.1 	| 0.649 |
+
 
 
 # opus2m-2020-08-01.zip
@@ -101,6 +103,7 @@
 | Tatoeba-test.pol-eng.pol.eng 	| 50.4 	| 0.667 |
 
 
+
 # opus4m-2020-08-12.zip
 
 * dataset: opus4m
@@ -136,6 +139,7 @@
 | Tatoeba-test.pol-eng.pol.eng 	| 51.1 	| 0.674 |
 
 
+
 # opus1m+bt-2021-05-02.zip
 
 * dataset: opus1m+bt
@@ -169,4 +173,37 @@
 | Tatoeba-test.hsb-eng 	| 18.2 	| 0.400 	| 40 	| 246 	| 1.000 |
 | Tatoeba-test.multi-eng 	| 48.6 	| 0.652 	| 10000 	| 75346 	| 0.961 |
 | Tatoeba-test.pol-eng 	| 47.6 	| 0.645 	| 10000 	| 74996 	| 0.962 |
+
+
+# opus4m+btTCv20210807-2021-10-01.zip
+
+* dataset: opus4m+btTCv20210807
+* model: transformer
+* source language(s): ces csb dsb hsb pol slk szl
+* target language(s): eng
+* model: transformer
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: 
+* download: [opus4m+btTCv20210807-2021-10-01.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-eng/opus4m+btTCv20210807-2021-10-01.zip)
+* test set translations: [opus4m+btTCv20210807-2021-10-01.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-eng/opus4m+btTCv20210807-2021-10-01.test.txt)
+* test set scores: [opus4m+btTCv20210807-2021-10-01.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-eng/opus4m+btTCv20210807-2021-10-01.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newssyscomb2009.ces-eng 	| 27.3 	| 0.544 	| 502 	| 11821 	| 0.973 |
+| newstest2009.ces-eng 	| 25.5 	| 0.536 	| 2525 	| 65402 	| 0.972 |
+| newstest2010.ces-eng 	| 26.6 	| 0.550 	| 2489 	| 61724 	| 0.981 |
+| newstest2011.ces-eng 	| 26.8 	| 0.547 	| 3003 	| 74681 	| 0.993 |
+| newstest2012.ces-eng 	| 25.5 	| 0.540 	| 3003 	| 72812 	| 1.000 |
+| newstest2013.ces-eng 	| 28.8 	| 0.561 	| 3000 	| 64505 	| 1.000 |
+| newstest2014-csen.ces-eng 	| 32.1 	| 0.597 	| 3003 	| 68065 	| 1.000 |
+| newstest2015-encs.ces-eng 	| 28.6 	| 0.552 	| 2656 	| 53572 	| 0.973 |
+| newstest2016-encs.ces-eng 	| 30.8 	| 0.575 	| 2999 	| 64670 	| 0.998 |
+| newstest2017-encs.ces-eng 	| 27.0 	| 0.543 	| 3005 	| 61725 	| 0.994 |
+| newstest2018-encs.ces-eng 	| 28.4 	| 0.555 	| 2983 	| 63496 	| 0.988 |
+| Tatoeba-test-v2021-08-07.multi-eng 	| 50.4 	| 0.666 	| 10000 	| 75475 	| 0.963 |
+| Tatoeba-test-v2021-08-07.multi-multi 	| 50.4 	| 0.666 	| 10000 	| 75475 	| 0.963 |
 

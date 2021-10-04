@@ -1,0 +1,379 @@
+release: art-art/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - afh
+   - avk
+   - bzt
+   - dws
+   - eng
+   - epo
+   - ido
+   - ile
+   - ina
+   - jbo
+   - ldn
+   - lfn
+   - nov
+   - qya
+   - sjn
+   - tlh
+   - tzl
+   - vol
+target-languages:
+   - afh
+   - avk
+   - bzt
+   - dws
+   - eng
+   - epo
+   - ido
+   - ile
+   - ina
+   - jbo
+   - ldn
+   - lfn
+   - nov
+   - qya
+   - sjn
+   - tlh
+   - tzl
+   - vol
+use-target-labels:
+   - ">>eng<<"
+   - ">>epo<<"
+   - ">>ido_Latn<<"
+   - ">>ina_Latn<<"
+   - ">>jbo_Latn<<"
+   - ">>ido<<"
+   - ">>ile_Latn<<"
+   - ">>tlh_Latn<<"
+   - ">>jbo<<"
+   - ">>vol_Latn<<"
+   - ">>ile<<"
+   - ">>lfn_Latn<<"
+training-data:
+   eng-epo: Tatoeba-train-v2021-08-07 (4000000) wiki.aa.epo-eng (909326) wiki.ab.epo-eng (909196) wiki.ac.epo-eng (278623) wikibooks.aa.epo-eng (15852) wikinews.aa.epo-eng (7993) wikiquote.aa.epo-eng (7119) wikisource.aa.epo-eng (233909) 
+   eng-ido: Tatoeba-train-v2021-08-07 (571) 
+   eng-ido_Arab: Tatoeba-train-v2021-08-07 (2) 
+   eng-ido_Cyrl: Tatoeba-train-v2021-08-07 (8) 
+   eng-ido_Hira: Tatoeba-train-v2021-08-07 (1) 
+   eng-ido_Latn: Tatoeba-train-v2021-08-07 (53491) 
+   eng-ile: Tatoeba-train-v2021-08-07 (220) 
+   eng-ile_Latn: Tatoeba-train-v2021-08-07 (220) 
+   eng-ina_Latn: Tatoeba-train-v2021-08-07 (74324) 
+   eng-jbo: Tatoeba-train-v2021-08-07 (51) 
+   eng-jbo_Latn: Tatoeba-train-v2021-08-07 (1527) 
+   eng-lfn_Latn: Tatoeba-train-v2021-08-07 (23) 
+   eng-tlh: Tatoeba-train-v2021-08-07 (184) 
+   eng-tlh_Latn: Tatoeba-train-v2021-08-07 (184) 
+   eng-vol_Latn: Tatoeba-train-v2021-08-07 (73) 
+   epo-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa (991905) wikinews.aa (457337) wikipedia.aa (983705) wikipedia.ab (983883) wikipedia.ac (983873) wikipedia.ad (983675) wikiquote.aa (996991) 
+   epo-epo: Tatoeba-train-v2021-08-07.epo-epo.clean.epo1.gz (9538) 
+   epo-ido: Tatoeba-train-v2021-08-07 (181) 
+   epo-ido_Latn: Tatoeba-train-v2021-08-07 (17876) 
+   epo-ina_Latn: Tatoeba-train-v2021-08-07 (18279) 
+   epo-lfn_Latn: Tatoeba-train-v2021-08-07 (6) 
+   epo-tlh: Tatoeba-train-v2021-08-07 (148) 
+   epo-tlh_Latn: Tatoeba-train-v2021-08-07 (148) 
+   ido-eng: Tatoeba-train-v2021-08-07 (571) wikibooks.aa (992137) wikinews.aa (457241) wikipedia.aa (982423) wikipedia.ab (982571) wikipedia.ac (982558) wikipedia.ad (982417) wikiquote.aa (996971) 
+   ido-epo: Tatoeba-train-v2021-08-07 (181) 
+   ido-ina_Latn: Tatoeba-train-v2021-08-07 (16) 
+   ido_Arab-eng: Tatoeba-train-v2021-08-07 (2) 
+   ido_Cyrl-eng: Tatoeba-train-v2021-08-07 (8) 
+   ido_Hira-eng: Tatoeba-train-v2021-08-07 (1) 
+   ido_Latn-eng: Tatoeba-train-v2021-08-07 (53491) 
+   ido_Latn-epo: Tatoeba-train-v2021-08-07 (17876) 
+   ido_Latn-ina_Latn: Tatoeba-train-v2021-08-07 (3895) 
+   ile-eng: Tatoeba-train-v2021-08-07 (220) 
+   ile_Latn-eng: Tatoeba-train-v2021-08-07 (220) 
+   ina_Latn-eng: Tatoeba-train-v2021-08-07 (74324) 
+   ina_Latn-epo: Tatoeba-train-v2021-08-07 (18279) 
+   ina_Latn-ido: Tatoeba-train-v2021-08-07 (16) 
+   ina_Latn-ido_Latn: Tatoeba-train-v2021-08-07 (3895) 
+   jbo-eng: Tatoeba-train-v2021-08-07 (51) 
+   jbo_Latn-eng: Tatoeba-train-v2021-08-07 (1527) 
+   lfn_Latn-eng: Tatoeba-train-v2021-08-07 (23) 
+   lfn_Latn-epo: Tatoeba-train-v2021-08-07 (6) 
+   tlh-eng: Tatoeba-train-v2021-08-07 (184) 
+   tlh-epo: Tatoeba-train-v2021-08-07 (148) 
+   tlh_Latn-eng: Tatoeba-train-v2021-08-07 (184) 
+   tlh_Latn-epo: Tatoeba-train-v2021-08-07 (148) 
+   vol_Latn-eng: Tatoeba-train-v2021-08-07 (73) 
+validation-data:
+   avk_Latn-eng: Tatoeba-dev-v2021-08-07, 4
+   avk_Latn-epo: Tatoeba-dev-v2021-08-07, 1
+   avk_Latn-ile_Latn: Tatoeba-dev-v2021-08-07, 1
+   avk_Latn-ina_Latn: Tatoeba-dev-v2021-08-07, 2
+   avk_Latn-lfn_Latn: Tatoeba-dev-v2021-08-07, 1
+   avk_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 2
+   bzt_Latn-eng: Tatoeba-dev-v2021-08-07, 16
+   bzt_Latn-epo: Tatoeba-dev-v2021-08-07, 20
+   bzt_Latn-ido_Latn: Tatoeba-dev-v2021-08-07, 10
+   bzt_Latn-ile_Latn: Tatoeba-dev-v2021-08-07, 6
+   bzt_Latn-ina_Latn: Tatoeba-dev-v2021-08-07, 18
+   bzt_Latn-jbo_Latn: Tatoeba-dev-v2021-08-07, 4
+   bzt_Latn-ldn_Latn: Tatoeba-dev-v2021-08-07, 2
+   bzt_Latn-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 8
+   bzt_Latn-lfn_Latn: Tatoeba-dev-v2021-08-07, 13
+   bzt_Latn-nov_Latn: Tatoeba-dev-v2021-08-07, 3
+   bzt_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 2
+   bzt_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 12
+   bzt_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 2
+   bzt_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 3
+   avk_Latn-eng: Tatoeba-dev-v2021-08-07, 4
+   bzt_Latn-eng: Tatoeba-dev-v2021-08-07, 16
+   eng-epo: Tatoeba-dev-v2021-08-07, 241675
+   eng-ido: Tatoeba-dev-v2021-08-07, 1483
+   eng-ido_Latn: Tatoeba-dev-v2021-08-07, 1483
+   eng-ile: Tatoeba-dev-v2021-08-07, 1108
+   eng-ile_Latn: Tatoeba-dev-v2021-08-07, 1108
+   eng-ina_Latn: Tatoeba-dev-v2021-08-07, 6234
+   eng-jbo: Tatoeba-dev-v2021-08-07, 3
+   eng-jbo_Latn: Tatoeba-dev-v2021-08-07, 6937
+   eng-ldn_Latn: Tatoeba-dev-v2021-08-07, 3
+   eng-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 1220
+   eng-lfn_Latn: Tatoeba-dev-v2021-08-07, 2486
+   eng-nov_Latn: Tatoeba-dev-v2021-08-07, 15
+   eng-qya: Tatoeba-dev-v2021-08-07, 3
+   eng-qya_Latn: Tatoeba-dev-v2021-08-07, 3
+   eng-sjn_Latn: Tatoeba-dev-v2021-08-07, 5
+   eng-tlh: Tatoeba-dev-v2021-08-07, 8420
+   eng-tlh_Latn: Tatoeba-dev-v2021-08-07, 8420
+   eng-tzl: Tatoeba-dev-v2021-08-07, 20
+   eng-tzl_Latn: Tatoeba-dev-v2021-08-07, 20
+   eng-vol_Latn: Tatoeba-dev-v2021-08-07, 1258
+   avk_Latn-epo: Tatoeba-dev-v2021-08-07, 1
+   bzt_Latn-epo: Tatoeba-dev-v2021-08-07, 20
+   eng-epo: Tatoeba-dev-v2021-08-07, 241675
+   epo-epo: Tatoeba-dev-v2021-08-07, 9676
+   epo-ido: Tatoeba-dev-v2021-08-07, 417
+   epo-ido_Latn: Tatoeba-dev-v2021-08-07, 417
+   epo-ile: Tatoeba-dev-v2021-08-07, 23
+   epo-ile_Latn: Tatoeba-dev-v2021-08-07, 23
+   epo-ina_Latn: Tatoeba-dev-v2021-08-07, 1448
+   epo-jbo: Tatoeba-dev-v2021-08-07, 1
+   epo-jbo_Latn: Tatoeba-dev-v2021-08-07, 341
+   epo-ldn_Latn: Tatoeba-dev-v2021-08-07, 1
+   epo-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 65
+   epo-lfn_Latn: Tatoeba-dev-v2021-08-07, 198
+   epo-nov_Latn: Tatoeba-dev-v2021-08-07, 3
+   epo-sjn_Latn: Tatoeba-dev-v2021-08-07, 4
+   epo-tlh: Tatoeba-dev-v2021-08-07, 164
+   epo-tlh_Latn: Tatoeba-dev-v2021-08-07, 164
+   epo-tzl: Tatoeba-dev-v2021-08-07, 11
+   epo-tzl_Latn: Tatoeba-dev-v2021-08-07, 11
+   epo-vol_Latn: Tatoeba-dev-v2021-08-07, 37
+   eng-ido: Tatoeba-dev-v2021-08-07, 1483
+   epo-ido: Tatoeba-dev-v2021-08-07, 417
+   ido-ile: Tatoeba-dev-v2021-08-07, 21
+   ido-jbo: Tatoeba-dev-v2021-08-07, 1
+   ido-qya: Tatoeba-dev-v2021-08-07, 1
+   ido-tlh: Tatoeba-dev-v2021-08-07, 21
+   ido-tzl: Tatoeba-dev-v2021-08-07, 9
+   bzt_Latn-ido_Latn: Tatoeba-dev-v2021-08-07, 10
+   eng-ido_Latn: Tatoeba-dev-v2021-08-07, 1483
+   epo-ido_Latn: Tatoeba-dev-v2021-08-07, 417
+   ido_Latn-ile_Latn: Tatoeba-dev-v2021-08-07, 21
+   ido_Latn-ina_Latn: Tatoeba-dev-v2021-08-07, 52
+   ido_Latn-jbo_Latn: Tatoeba-dev-v2021-08-07, 33
+   ido_Latn-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 17
+   ido_Latn-lfn_Latn: Tatoeba-dev-v2021-08-07, 38
+   ido_Latn-nov_Latn: Tatoeba-dev-v2021-08-07, 4
+   ido_Latn-qya_Latn: Tatoeba-dev-v2021-08-07, 1
+   ido_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 4
+   ido_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 21
+   ido_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 9
+   ido_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 11
+   eng-ile: Tatoeba-dev-v2021-08-07, 1108
+   epo-ile: Tatoeba-dev-v2021-08-07, 23
+   ido-ile: Tatoeba-dev-v2021-08-07, 21
+   ile-jbo: Tatoeba-dev-v2021-08-07, 1
+   ile-tlh: Tatoeba-dev-v2021-08-07, 14
+   ile-tzl: Tatoeba-dev-v2021-08-07, 8
+   avk_Latn-ile_Latn: Tatoeba-dev-v2021-08-07, 1
+   bzt_Latn-ile_Latn: Tatoeba-dev-v2021-08-07, 6
+   eng-ile_Latn: Tatoeba-dev-v2021-08-07, 1108
+   epo-ile_Latn: Tatoeba-dev-v2021-08-07, 23
+   ido_Latn-ile_Latn: Tatoeba-dev-v2021-08-07, 21
+   ile_Latn-ina_Latn: Tatoeba-dev-v2021-08-07, 22
+   ile_Latn-jbo_Latn: Tatoeba-dev-v2021-08-07, 1
+   ile_Latn-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 8
+   ile_Latn-lfn_Latn: Tatoeba-dev-v2021-08-07, 15
+   ile_Latn-nov_Latn: Tatoeba-dev-v2021-08-07, 3
+   ile_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 3
+   ile_Latn-tlh: Tatoeba-dev-v2021-08-07, 1
+   ile_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 13
+   ile_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 8
+   ile_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 7
+   avk_Latn-ina_Latn: Tatoeba-dev-v2021-08-07, 2
+   bzt_Latn-ina_Latn: Tatoeba-dev-v2021-08-07, 18
+   eng-ina_Latn: Tatoeba-dev-v2021-08-07, 6234
+   epo-ina_Latn: Tatoeba-dev-v2021-08-07, 1448
+   ido_Latn-ina_Latn: Tatoeba-dev-v2021-08-07, 52
+   ile_Latn-ina_Latn: Tatoeba-dev-v2021-08-07, 22
+   ina_Latn-jbo_Latn: Tatoeba-dev-v2021-08-07, 25
+   ina_Latn-ldn_Latn: Tatoeba-dev-v2021-08-07, 2
+   ina_Latn-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 26
+   ina_Latn-lfn_Latn: Tatoeba-dev-v2021-08-07, 96
+   ina_Latn-nov_Latn: Tatoeba-dev-v2021-08-07, 5
+   ina_Latn-qya_Latn: Tatoeba-dev-v2021-08-07, 1
+   ina_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 5
+   ina_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 39
+   ina_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 16
+   ina_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 16
+   eng-jbo: Tatoeba-dev-v2021-08-07, 3
+   epo-jbo: Tatoeba-dev-v2021-08-07, 1
+   ido-jbo: Tatoeba-dev-v2021-08-07, 1
+   ile-jbo: Tatoeba-dev-v2021-08-07, 1
+   jbo-tlh: Tatoeba-dev-v2021-08-07, 13
+   jbo-tzl: Tatoeba-dev-v2021-08-07, 1
+   bzt_Latn-jbo_Latn: Tatoeba-dev-v2021-08-07, 4
+   eng-jbo_Latn: Tatoeba-dev-v2021-08-07, 6937
+   epo-jbo_Latn: Tatoeba-dev-v2021-08-07, 341
+   ido_Latn-jbo_Latn: Tatoeba-dev-v2021-08-07, 33
+   ile_Latn-jbo_Latn: Tatoeba-dev-v2021-08-07, 1
+   ina_Latn-jbo_Latn: Tatoeba-dev-v2021-08-07, 25
+   jbo_Latn-ldn_Latn: Tatoeba-dev-v2021-08-07, 2
+   jbo_Latn-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 3
+   jbo_Latn-lfn_Latn: Tatoeba-dev-v2021-08-07, 2
+   jbo_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 1
+   jbo_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 13
+   jbo_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 1
+   jbo_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 2
+   bzt_Latn-ldn_Latn: Tatoeba-dev-v2021-08-07, 2
+   eng-ldn_Latn: Tatoeba-dev-v2021-08-07, 3
+   epo-ldn_Latn: Tatoeba-dev-v2021-08-07, 1
+   ina_Latn-ldn_Latn: Tatoeba-dev-v2021-08-07, 2
+   jbo_Latn-ldn_Latn: Tatoeba-dev-v2021-08-07, 2
+   bzt_Latn-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 8
+   eng-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 1220
+   epo-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 65
+   ido_Latn-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 17
+   ile_Latn-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 8
+   ina_Latn-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 26
+   jbo_Latn-lfn_Cyrl: Tatoeba-dev-v2021-08-07, 3
+   lfn_Cyrl-nov_Latn: Tatoeba-dev-v2021-08-07, 5
+   lfn_Cyrl-sjn_Latn: Tatoeba-dev-v2021-08-07, 2
+   lfn_Cyrl-tlh_Latn: Tatoeba-dev-v2021-08-07, 10
+   lfn_Cyrl-tzl_Latn: Tatoeba-dev-v2021-08-07, 4
+   lfn_Cyrl-vol_Latn: Tatoeba-dev-v2021-08-07, 4
+   avk_Latn-lfn_Latn: Tatoeba-dev-v2021-08-07, 1
+   bzt_Latn-lfn_Latn: Tatoeba-dev-v2021-08-07, 13
+   eng-lfn_Latn: Tatoeba-dev-v2021-08-07, 2486
+   epo-lfn_Latn: Tatoeba-dev-v2021-08-07, 198
+   ido_Latn-lfn_Latn: Tatoeba-dev-v2021-08-07, 38
+   ile_Latn-lfn_Latn: Tatoeba-dev-v2021-08-07, 15
+   ina_Latn-lfn_Latn: Tatoeba-dev-v2021-08-07, 96
+   jbo_Latn-lfn_Latn: Tatoeba-dev-v2021-08-07, 2
+   lfn_Latn-nov_Latn: Tatoeba-dev-v2021-08-07, 2
+   lfn_Latn-qya_Latn: Tatoeba-dev-v2021-08-07, 2
+   lfn_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 4
+   lfn_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 34
+   lfn_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 15
+   lfn_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 15
+   bzt_Latn-nov_Latn: Tatoeba-dev-v2021-08-07, 3
+   eng-nov_Latn: Tatoeba-dev-v2021-08-07, 15
+   epo-nov_Latn: Tatoeba-dev-v2021-08-07, 3
+   ido_Latn-nov_Latn: Tatoeba-dev-v2021-08-07, 4
+   ile_Latn-nov_Latn: Tatoeba-dev-v2021-08-07, 3
+   ina_Latn-nov_Latn: Tatoeba-dev-v2021-08-07, 5
+   lfn_Cyrl-nov_Latn: Tatoeba-dev-v2021-08-07, 5
+   lfn_Latn-nov_Latn: Tatoeba-dev-v2021-08-07, 2
+   nov_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 2
+   nov_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 2
+   nov_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 5
+   eng-qya: Tatoeba-dev-v2021-08-07, 3
+   ido-qya: Tatoeba-dev-v2021-08-07, 1
+   eng-qya_Latn: Tatoeba-dev-v2021-08-07, 3
+   ido_Latn-qya_Latn: Tatoeba-dev-v2021-08-07, 1
+   ina_Latn-qya_Latn: Tatoeba-dev-v2021-08-07, 1
+   lfn_Latn-qya_Latn: Tatoeba-dev-v2021-08-07, 2
+   qya_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 1
+   qya_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 1
+   bzt_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 2
+   eng-sjn_Latn: Tatoeba-dev-v2021-08-07, 5
+   epo-sjn_Latn: Tatoeba-dev-v2021-08-07, 4
+   ido_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 4
+   ile_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 3
+   ina_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 5
+   jbo_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 1
+   lfn_Cyrl-sjn_Latn: Tatoeba-dev-v2021-08-07, 2
+   lfn_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 4
+   qya_Latn-sjn_Latn: Tatoeba-dev-v2021-08-07, 1
+   sjn_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 2
+   sjn_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 2
+   eng-tlh: Tatoeba-dev-v2021-08-07, 8420
+   epo-tlh: Tatoeba-dev-v2021-08-07, 164
+   ido-tlh: Tatoeba-dev-v2021-08-07, 21
+   ile-tlh: Tatoeba-dev-v2021-08-07, 14
+   ile_Latn-tlh: Tatoeba-dev-v2021-08-07, 1
+   jbo-tlh: Tatoeba-dev-v2021-08-07, 13
+   tlh-tzl: Tatoeba-dev-v2021-08-07, 5
+   tlh-tzl_Latn: Tatoeba-dev-v2021-08-07, 1
+   bzt_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 12
+   eng-tlh_Latn: Tatoeba-dev-v2021-08-07, 8420
+   epo-tlh_Latn: Tatoeba-dev-v2021-08-07, 164
+   ido_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 21
+   ile_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 13
+   ina_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 39
+   jbo_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 13
+   lfn_Cyrl-tlh_Latn: Tatoeba-dev-v2021-08-07, 10
+   lfn_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 34
+   nov_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 2
+   sjn_Latn-tlh_Latn: Tatoeba-dev-v2021-08-07, 2
+   tlh_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 4
+   tlh_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 9
+   eng-tzl: Tatoeba-dev-v2021-08-07, 20
+   epo-tzl: Tatoeba-dev-v2021-08-07, 11
+   ido-tzl: Tatoeba-dev-v2021-08-07, 9
+   ile-tzl: Tatoeba-dev-v2021-08-07, 8
+   jbo-tzl: Tatoeba-dev-v2021-08-07, 1
+   tlh-tzl: Tatoeba-dev-v2021-08-07, 5
+   avk_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 2
+   bzt_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 2
+   eng-tzl_Latn: Tatoeba-dev-v2021-08-07, 20
+   epo-tzl_Latn: Tatoeba-dev-v2021-08-07, 11
+   ido_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 9
+   ile_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 8
+   ina_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 16
+   jbo_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 1
+   lfn_Cyrl-tzl_Latn: Tatoeba-dev-v2021-08-07, 4
+   lfn_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 15
+   nov_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 2
+   sjn_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 2
+   tlh-tzl_Latn: Tatoeba-dev-v2021-08-07, 1
+   tlh_Latn-tzl_Latn: Tatoeba-dev-v2021-08-07, 4
+   tzl_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 3
+   bzt_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 3
+   eng-vol_Latn: Tatoeba-dev-v2021-08-07, 1258
+   epo-vol_Latn: Tatoeba-dev-v2021-08-07, 37
+   ido_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 11
+   ile_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 7
+   ina_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 16
+   jbo_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 2
+   lfn_Cyrl-vol_Latn: Tatoeba-dev-v2021-08-07, 4
+   lfn_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 15
+   nov_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 5
+   qya_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 1
+   tlh_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 9
+   tzl_Latn-vol_Latn: Tatoeba-dev-v2021-08-07, 3
+   total-size-shuffled: 28975
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.multi-multi: 10000/68094
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.multi-multi: 18.8
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.multi-multi: 0.377

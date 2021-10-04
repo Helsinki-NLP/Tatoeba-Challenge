@@ -1,0 +1,77 @@
+release: eng-cau/opus4m+btTCv20210807-2021-09-30.zip
+release-date: 2021-09-30
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - abk
+   - ady
+   - ava
+   - che
+   - inh
+   - kat
+   - kbd
+   - lbe
+   - lez
+   - xmf
+use-target-labels:
+   - ">>abk<<"
+   - ">>ady<<"
+   - ">>ava<<"
+   - ">>ava_Arab<<"
+   - ">>ava_Latn<<"
+   - ">>che<<"
+   - ">>inh<<"
+   - ">>kat<<"
+   - ">>kat_Latn<<"
+   - ">>kbd<<"
+   - ">>kbd_Latn<<"
+   - ">>lbe<<"
+   - ">>lez<<"
+   - ">>xmf<<"
+training-data:
+   eng-abk: Tatoeba-train-v2021-08-07 (25247) wiki.aa (12707) 
+   eng-ady: wiki.aa (2924) 
+   eng-ava: Tatoeba-train-v2021-08-07 (1) 
+   eng-ava_Latn: Tatoeba-train-v2021-08-07 (137) 
+   eng-che: wiki.aa (434878) 
+   eng-kat: Tatoeba-train-v2021-08-07 (1975781) wiki.aa.kat-eng (282266) wikibooks.aa.kat-eng (984) wikiquote.aa.kat-eng (3153) 
+   eng-kat_Latn: Tatoeba-train-v2021-08-07 (47509) 
+   eng-xmf: Tatoeba-train-v2021-08-07 (7321) 
+validation-data:
+   abk-eng: Tatoeba-dev-v2021-08-07, 996
+   ady-eng: Tatoeba-dev-v2021-08-07, 7
+   ava-eng: Tatoeba-dev-v2021-08-07, 20
+   ava_Arab-eng: Tatoeba-dev-v2021-08-07, 5
+   ava_Latn-eng: Tatoeba-dev-v2021-08-07, 975
+   che-eng: Tatoeba-dev-v2021-08-07, 432
+   eng-inh: Tatoeba-dev-v2021-08-07, 473
+   eng-kat: Tatoeba-dev-v2021-08-07, 994
+   eng-kat_Latn: Tatoeba-dev-v2021-08-07, 24
+   eng-kbd: Tatoeba-dev-v2021-08-07, 499
+   eng-kbd_Latn: Tatoeba-dev-v2021-08-07, 1
+   eng-lbe: Tatoeba-dev-v2021-08-07, 2
+   eng-lez: Tatoeba-dev-v2021-08-07, 5
+   eng-xmf: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 4916
+   devset-selected: top 4916  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.eng-multi: 1083/4969
+   Tatoeba-test-v2021-08-07.multi-multi: 1083/4969
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.eng-multi: 10.0
+   Tatoeba-test-v2021-08-07.multi-multi: 10.0
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.eng-multi: 0.336
+   Tatoeba-test-v2021-08-07.multi-multi: 0.336
