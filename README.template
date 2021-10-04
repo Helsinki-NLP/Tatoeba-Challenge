@@ -126,12 +126,12 @@ Challenge subset results (%%RELEASE%%):
 
 Challenge subset results (v2020-07-28):
 
-* results for the [zero-shot language pairs](results/tatoeba-results-all-subset-zero.md)
-* results for the [lowest resource language pairs](results/tatoeba-results-all-subset-lowest.md)
-* results for the [lower resource language pairs](results/tatoeba-results-all-subset-lower.md)
-* results for the [medium resource language pairs](results/tatoeba-results-all-subset-medium.md)
-* results for the [higher resource language pairs](results/tatoeba-results-all-subset-higher.md)
-* results for the [highest resource language pairs](results/tatoeba-results-all-subset-highest.md)
+* results for the [zero-shot language pairs](results/tatoeba-results-v2020-07-28-subset-zero.md)
+* results for the [lowest resource language pairs](results/tatoeba-results-v2020-07-28-subset-lowest.md)
+* results for the [lower resource language pairs](results/tatoeba-results-v2020-07-28-subset-lower.md)
+* results for the [medium resource language pairs](results/tatoeba-results-v2020-07-28-subset-medium.md)
+* results for the [higher resource language pairs](results/tatoeba-results-v2020-07-28-subset-higher.md)
+* results for the [highest resource language pairs](results/tatoeba-results-v2020-07-28-subset-highest.md)
 
 We publish (reasonable) models to be re-used and deployed through [OPUS-MT](https://github.com/Helsinki-NLP/Opus-MT) and linked from the [model subdir in this github](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/models). This includes multilingual models that cover several languages in source and target to enable transfer learning across languages.
 
