@@ -20,10 +20,22 @@ to be useful for anything.
 | [cel-eng/opus4m+btTCv20210807](../models/cel-eng) | tatoeba-v2021-08-07 | 0.217 | 6.2 |
 | | lang = cym-eng | | | | |
 | [cel-eng/opus4m+btTCv20210807](../models/cel-eng) | tatoeba-v2021-08-07 | 0.677 | 51.1 |
+| | lang = deu-ara | | | | |
+| [deu-ara/opusTCv20210807](../models/deu-ara) | tatoeba-v2021-08-07 | 0.519 | 22.9 |
 | | lang = deu-eng | | | | |
 | [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | tatoeba-v2021-08-07 | 0.608 | 42.2 |
 | | lang = deu-fin | | | | |
 | [deu-fin/opusTCv20210807+bt](../models/deu-fin) | tatoeba-v2021-08-07 | 0.652 | 41.9 |
+| | lang = deu-hbs | | | | |
+| [deu-hbs/opusTCv20210807](../models/deu-hbs) | tatoeba-v2021-08-07 | 0.353 | 22.5 |
+| | lang = deu-hrv | | | | |
+| [deu-hbs/opusTCv20210807](../models/deu-hbs) | tatoeba-v2021-08-07 | 0.665 | 45.4 |
+| | lang = deu-ron | | | | |
+| [deu-ron/opusTCv20210807](../models/deu-ron) | tatoeba-v2021-08-07 | 0.636 | 42.0 |
+| | lang = deu-srp_Latn | | | | |
+| [deu-hbs/opusTCv20210807](../models/deu-hbs) | tatoeba-v2021-08-07 | 0.610 | 37.2 |
+| | lang = deu-tur | | | | |
+| [deu-tur/opusTCv20210807](../models/deu-tur) | tatoeba-v2021-08-07 | 0.644 | 35.6 |
 | | lang = eng-eng | | | | |
 | [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | tatoeba-v2021-08-07 | 0.770 | 61.2 |
 | | lang = eng-fin | | | | |

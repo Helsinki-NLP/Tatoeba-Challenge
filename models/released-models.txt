@@ -228,6 +228,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-eng/opus1m
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-afr/opus-2021-02-19.zip	deu-afr	de-af	0.690	51.3	German	Afrikaans
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ara/opus-2020-09-10.zip	deu-ara	de-ar	0.486	17.8	German	Arabic
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ara/opus-2021-02-23.zip	deu-ara	de-ar	0.486	17.8	German	Arabic
+https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ara/opusTCv20210807-2021-10-22.zip	deu-ara	de-ar	0.519	22.9	German	Arabic
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bel/opus-2020-09-10.zip	deu-bel	de-be	0.084	1.0	German	Belarusian
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bul/opus-2020-07-03.zip	deu-bul	de-bg	0.683	50.7	German	Bulgarian
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bul/opus-2021-02-18.zip	deu-bul	de-bg	0.682	50.4	German	Bulgarian
@@ -250,6 +251,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fin/opusTCv20210807+bt-2021-09
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fra/opus-2021-01-03.zip	deu-fra	de-fr	0.661	48.6	German	French
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fra/opus-2021-02-22.zip	deu-fra	de-fr	0.665	49.2	German	French
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	deu-hbs	de-sh	0.330	20.1	German	Serbo-Croatian
+https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opusTCv20210807-2021-10-10.zip	deu-hbs	de-sh	0.353	22.5	German	Serbo-Croatian
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-heb/opus-2021-02-19.zip	deu-heb	de-he	0.580	37.1	German	Hebrew
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hun/opus-2021-02-18.zip	deu-hun	de-hu	0.582	33.0	German	Hungarian
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-isl/opus-2021-02-19.zip	deu-isl	de-is	0.533	27.1	German	Icelandic
@@ -261,11 +263,13 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/deu-nld/opus-2021-02-19.zip	deu-nl
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-nor/opus-2020-06-17.zip	deu-nor	de-no	0.554	33.2	German	Norwegian
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-nor/opus-2021-02-24.zip	deu-nor	de-no	0.667	47.3	German	Norwegian
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ron/opus-2021-05-15.zip	deu-ron	de-ro	0.626	39.8	German	Romanian
+https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ron/opusTCv20210807-2021-10-22.zip	deu-ron	de-ro	0.636	42.0	German	Romanian
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-rus/opus-2021-05-15.zip	deu-rus	de-ru	0.654	45.0	German	Russian
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-swe/opus-2021-02-19.zip	deu-swe	de-sv	0.716	57.5	German	Swedish
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tat/opus-2020-09-10.zip	deu-tat	de-tt	0.138	0.9	German	Tatar
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2020-06-17.zip	deu-tgl	de-tl	0.541	21.2	German	Tagalog
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2021-02-23.zip	deu-tgl	de-tl	0.425	12.9	German	Tagalog
+https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tur/opusTCv20210807-2021-10-22.zip	deu-tur	de-tr	0.644	35.6	German	Turkish
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opus-2021-02-18.zip	deu-ukr	de-uk	0.612	40.2	German	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-vie/opus-2021-02-19.zip	deu-vie	de-vi	0.443	25.0	German	Vietnamese
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-zho/opus-2021-02-23.zip	deu-zho	de-zh	0.275	32.4	German	Chinese

@@ -230,6 +230,7 @@ For multilingual models, it is a mix of all language pairs
 | [dan-tur/opus](../models/dan-tur) | 0.662 | 40.5 |
 | [deu-afr/opus](../models/deu-afr) | 0.690 | 51.3 |
 | [deu-ara/opus](../models/deu-ara) | 0.486 | 17.8 |
+| [deu-ara/opusTCv20210807](../models/deu-ara) | 0.519 | 22.9 |
 | [deu-bel/opus](../models/deu-bel) | 0.084 | 1.0 |
 | [deu-bul/opus](../models/deu-bul) | 0.683 | 50.7 |
 | [deu-bul/opus](../models/deu-bul) | 0.682 | 50.4 |
@@ -254,6 +255,7 @@ For multilingual models, it is a mix of all language pairs
 | [deu-fra/opus](../models/deu-fra) | 0.665 | 49.2 |
 | [deu-fra/opus](../models/deu-fra) | 0.661 | 48.6 |
 | [deu-hbs/opus](../models/deu-hbs) | 0.330 | 20.1 |
+| [deu-hbs/opusTCv20210807](../models/deu-hbs) | 0.353 | 22.5 |
 | [deu-heb/opus](../models/deu-heb) | 0.580 | 37.1 |
 | [deu-hun/opus](../models/deu-hun) | 0.582 | 33.0 |
 | [deu-isl/opus](../models/deu-isl) | 0.533 | 27.1 |
@@ -265,11 +267,13 @@ For multilingual models, it is a mix of all language pairs
 | [deu-nor/opus](../models/deu-nor) | 0.667 | 47.3 |
 | [deu-nor/opus](../models/deu-nor) | 0.554 | 33.2 |
 | [deu-ron/opus](../models/deu-ron) | 0.626 | 39.8 |
+| [deu-ron/opusTCv20210807](../models/deu-ron) | 0.636 | 42.0 |
 | [deu-rus/opus](../models/deu-rus) | 0.654 | 45.0 |
 | [deu-swe/opus](../models/deu-swe) | 0.716 | 57.5 |
 | [deu-tat/opus](../models/deu-tat) | 0.138 | 0.9 |
 | [deu-tgl/opus](../models/deu-tgl) | 0.541 | 21.2 |
 | [deu-tgl/opus](../models/deu-tgl) | 0.425 | 12.9 |
+| [deu-tur/opusTCv20210807](../models/deu-tur) | 0.644 | 35.6 |
 | [deu-ukr/opus](../models/deu-ukr) | 0.612 | 40.2 |
 | [deu-vie/opus](../models/deu-vie) | 0.443 | 25.0 |
 | [deu-zho/opus](../models/deu-zho) | 0.275 | 32.4 |

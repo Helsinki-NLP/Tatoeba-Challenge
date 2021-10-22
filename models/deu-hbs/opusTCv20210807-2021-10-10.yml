@@ -1,0 +1,71 @@
+release: deu-hbs/opusTCv20210807-2021-10-10.zip
+release-date: 2021-10-10
+dataset-name: opusTCv20210807
+modeltype: transformer-align
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - deu
+target-languages:
+   - bos_Cyrl
+   - bos_Latn
+   - hbs
+   - hbs_Cyrl
+   - hrv
+   - srp_Cyrl
+   - srp_Latn
+raw-source-languages:
+   - deu
+raw-target-languages:
+   - bos
+   - hbs
+   - hrv
+   - srp
+use-target-labels:
+   - ">>bos_Cyrl<<"
+   - ">>bos_Latn<<"
+   - ">>hbs<<"
+   - ">>hbs_Cyrl<<"
+   - ">>hrv<<"
+   - ">>srp_Cyrl<<"
+   - ">>srp_Latn<<"
+training-data:
+   deu-hbs: Tatoeba-train-v2021-08-07 (13061) 
+   deu-hbs_Cyrl: Tatoeba-train-v2021-08-07 (342) 
+   deu-hrv: Tatoeba-train-v2021-08-07 (30096901) 
+   deu-srp_Cyrl: Tatoeba-train-v2021-08-07 (7938030) 
+   deu-srp_Latn: Tatoeba-train-v2021-08-07 (18501045) 
+validation-data:
+   bos_Latn-deu: Tatoeba-dev-v2021-08-07, 72
+   deu-hbs: Tatoeba-dev-v2021-08-07, 1009
+   deu-hrv: Tatoeba-dev-v2021-08-07, 407
+   deu-srp_Cyrl: Tatoeba-dev-v2021-08-07, 112
+   deu-srp_Latn: Tatoeba-dev-v2021-08-07, 398
+   total-size-shuffled: 1989
+   devset-selected: top 1989  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.deu-bos_Latn: 38/163
+   Tatoeba-test-v2021-08-07.deu-hrv: 782/4933
+   Tatoeba-test-v2021-08-07.deu-srp_Cyrl: 153/1020
+   Tatoeba-test-v2021-08-07.deu-srp_Latn: 986/7722
+   Tatoeba-test-v2021-08-07.deu-hbs: 3918/27682
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.deu-bos_Latn: 16.6
+   Tatoeba-test-v2021-08-07.deu-hrv: 45.4
+   Tatoeba-test-v2021-08-07.deu-srp_Cyrl: 39.8
+   Tatoeba-test-v2021-08-07.deu-srp_Latn: 37.2
+   Tatoeba-test-v2021-08-07.deu-hbs: 22.5
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.deu-bos_Latn: 0.308
+   Tatoeba-test-v2021-08-07.deu-hrv: 0.665
+   Tatoeba-test-v2021-08-07.deu-srp_Cyrl: 0.637
+   Tatoeba-test-v2021-08-07.deu-srp_Latn: 0.610
+   Tatoeba-test-v2021-08-07.deu-hbs: 0.353

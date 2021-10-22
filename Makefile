@@ -461,10 +461,12 @@ upload-mono: ${patsubst %,${RELEASEDIR}/%.done,${WIKI_LANGS3}} # ${RELEASEDIR}/w
 upload-wikishuffled: ${patsubst wiki-shuffled/%,${RELEASEDIR}/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
 upload-wikidoc: ${patsubst wiki-doc/%,${RELEASEDIR}/wiki-doc-%.done,${wildcard wiki-doc/???}}
 
+.PHONY: cleanup-models
+cleanup-models:
+	${MAKE} cleanup-model-dirs
 
 .PHONY: update-models
 update-models:
-	${MAKE} cleanup-model-dirs
 	${MAKE} upload-models
 	${MAKE} released-model-list
 	${MAKE} released-model-results
@@ -483,12 +485,15 @@ update-git:
 	git commit -am "${GIT_COMMIT_MESSAGE}"
 	git push origin master
 
+## all models sub directories (basically language pairs)
+RELEASED_MODELS = ${notdir ${wildcard ${MODEL_RELEASEDIR}/*}}
+
 .PHONY: upload-models
 upload-models:
 	which a-put
 	find ${MODEL_RELEASEDIR}/ -type l | tar -cf models-links.tar -T -
 	find ${MODEL_RELEASEDIR}/ -type l -delete
-	cd ${MODEL_RELEASEDIR} && swift upload ${MODEL_CONTAINER} --changed --skip-identical *
+	cd ${MODEL_RELEASEDIR} && swift upload ${MODEL_CONTAINER} --changed --skip-identical ${RELEASED_MODELS}
 	tar -xf models-links.tar
 	rm -f models-links.tar
 	swift post ${MODEL_CONTAINER} --read-acl ".r:*"

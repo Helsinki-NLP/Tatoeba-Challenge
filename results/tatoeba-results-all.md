@@ -841,6 +841,7 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.566 | 37.5 |
 | | lang = deu-ara | | | | |
 | [deu-ara/opus](../models/deu-ara) | tatoeba | 0.486 | 17.8 |
+| [deu-ara/opusTCv20210807](../models/deu-ara) | tatoeba-v2021-08-07 | 0.519 | 22.9 |
 | | lang = deu-bel | | | | |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.450 | 19.6 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.410 | 16.9 |
@@ -1231,6 +1232,7 @@ to be useful for anything.
 | | lang = deu-hbs | | | | |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.470 | 23.2 |
 | [deu-hbs/opus](../models/deu-hbs) | tatoeba | 0.330 | 20.1 |
+| [deu-hbs/opusTCv20210807](../models/deu-hbs) | tatoeba-v2021-08-07 | 0.353 | 22.5 |
 | | lang = deu-heb | | | | |
 | [deu-heb/opus](../models/deu-heb) | tatoeba | 0.580 | 37.1 |
 | [gmw-heb/opus1m](../models/gmw-heb) | tatoeba | 0.544 | 33.0 |
@@ -1238,6 +1240,7 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.388 | 18.5 |
 | | lang = deu-hrv | | | | |
 | [deu-hbs/opus](../models/deu-hbs) | tatoeba | 0.644 | 42.6 |
+| [deu-hbs/opusTCv20210807](../models/deu-hbs) | tatoeba-v2021-08-07 | 0.665 | 45.4 |
 | | lang = deu-hrx | | | | |
 | [westgermanic/opus](../models/westgermanic) | tatoeba | 0.251 | 2.2 |
 | [gmw-gmw/opus](../models/gmw-gmw) | tatoeba | 0.184 | 0.8 |
@@ -1339,6 +1342,7 @@ to be useful for anything.
 | | lang = deu-ron | | | | |
 | [deu-ron/opus](../models/deu-ron) | tatoeba | 0.626 | 39.8 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.484 | 25.7 |
+| [deu-ron/opusTCv20210807](../models/deu-ron) | tatoeba-v2021-08-07 | 0.636 | 42.0 |
 | | lang = deu-rus | | | | |
 | [deu-rus/opus](../models/deu-rus) | newstest2012 | 0.458 | 18.2 |
 | [gmw-zle/opus1m](../models/gmw-zle) | newstest2012 | 0.451 | 17.4 |
@@ -1371,6 +1375,7 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.488 | 26.6 |
 | | lang = deu-srp_Latn | | | | |
 | [deu-hbs/opus](../models/deu-hbs) | tatoeba | 0.571 | 32.5 |
+| [deu-hbs/opusTCv20210807](../models/deu-hbs) | tatoeba-v2021-08-07 | 0.610 | 37.2 |
 | | lang = deu-swe | | | | |
 | [deu-swe/opus](../models/deu-swe) | tatoeba | 0.716 | 57.5 |
 | [deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m](../models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe) | tatoeba | 0.674 | 51.5 |
@@ -1393,6 +1398,7 @@ to be useful for anything.
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.456 | 19.0 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.456 | 18.9 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.448 | 18.5 |
+| [deu-tur/opusTCv20210807](../models/deu-tur) | tatoeba-v2021-08-07 | 0.644 | 35.6 |
 | | lang = deu-ukr | | | | |
 | [deu-ukr/opus](../models/deu-ukr) | tatoeba | 0.612 | 40.2 |
 | [gmw-zle/opus1m](../models/gmw-zle) | tatoeba | 0.606 | 39.5 |

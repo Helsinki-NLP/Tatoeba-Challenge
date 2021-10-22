@@ -766,6 +766,7 @@ deu-afr	0.671	49.0	https://object.pouta.csc.fi/Tatoeba-MT-models/gem-gem/opus-20
 deu-afr	0.642	46.2	https://object.pouta.csc.fi/Tatoeba-MT-models/westgermanic/opus-2020-06-21.zip	1583	7816
 deu-afr	0.566	37.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	1583	7816
 deu-afr	0.554	36.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1583	7816
+deu-ara	0.519	22.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ara/opusTCv20210807-2021-10-22.zip	1208	6323
 deu-ara	0.486	17.8	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ara/opus-2020-09-10.zip	1209	5388
 deu-ara	0.486	17.8	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ara/opus-2021-02-23.zip	1209	6324
 deu-bel	0.450	19.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	550	2837
@@ -875,12 +876,14 @@ deu-fra	0.500	28.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/op
 deu-fra	0.494	28.2	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	10000	71831
 deu-fra	0.491	27.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/opus-2020-06-19.zip	10000	71831
 deu-hbs	0.470	23.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	1959	11347
+deu-hbs	0.353	22.5	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opusTCv20210807-2021-10-10.zip	3918	27682
 deu-hbs	0.453	22.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1959	11347
 deu-hbs	0.330	20.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	3918	27682
 deu-heb	0.580	37.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-heb/opus-2021-02-19.zip	3089	20337
 deu-heb	0.544	33.0	https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-heb/opus1m-2021-05-16.zip	3090	20329
 deu-heb	0.388	18.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	3090	16487
 deu-heb	0.388	17.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/opus-2020-06-19.zip	3090	16487
+deu-hrv	0.665	45.4	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opusTCv20210807-2021-10-10.zip	782	4933
 deu-hrv	0.644	42.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	782	4933
 deu-hrx	0.251	2.2	https://object.pouta.csc.fi/Tatoeba-MT-models/westgermanic/opus-2020-06-21.zip	471	2184
 deu-hrx	0.184	0.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-gmw/opus-2021-02-23.zip	471	2729
@@ -1003,6 +1006,7 @@ deu-por	0.480	25.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-20
 deu-por	0.468	23.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10000	68443
 deu-por	0.464	23.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-21.zip	10000	68443
 deu-por	0.450	22.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/opus-2020-06-19.zip	10000	68443
+deu-ron	0.636	42.0	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ron/opusTCv20210807-2021-10-22.zip	1141	7432
 deu-ron	0.626	39.8	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ron/opus-2021-05-15.zip	1141	7432
 deu-ron	0.484	25.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	1141	6093
 deu-ron	0.467	23.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1141	6093
@@ -1021,6 +1025,7 @@ deu-spa	0.519	30.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-20
 deu-spa	0.506	28.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-21.zip	10000	65788
 deu-spa	0.493	27.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/opus-2020-06-19.zip	10000	65788
 deu-spa	0.488	26.6	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	10000	65788
+deu-srp_Latn	0.610	37.2	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opusTCv20210807-2021-10-10.zip	986	7722
 deu-srp_Latn	0.571	32.5	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	986	7722
 deu-swe	0.716	57.5	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-swe/opus-2021-02-19.zip	3410	22701
 deu-swe	0.674	51.5	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	3410	22701
@@ -1052,6 +1057,7 @@ deu-tgl	0.541	21.2	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-20
 deu-tgl	0.425	12.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2021-02-23.zip	652	4658
 deu-tgl	0.411	12.9	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/opus-2020-06-19.zip	326	1965
 deu-toki	0.059	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-21.zip	10000	95525
+deu-tur	0.644	35.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tur/opusTCv20210807-2021-10-22.zip	5000	29200
 deu-tur	0.456	19.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/opus-2020-06-19.zip	5000	23099
 deu-tur	0.456	18.9	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-21.zip	5000	23099
 deu-tur	0.448	18.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	5000	23099

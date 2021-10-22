@@ -1,0 +1,39 @@
+release: deu-ron/opusTCv20210807-2021-10-22.zip
+release-date: 2021-10-22
+dataset-name: opusTCv20210807
+modeltype: transformer-align
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - deu
+target-languages:
+   - mol
+   - ron
+raw-source-languages:
+   - deu
+raw-target-languages:
+   - mol
+   - ron
+use-target-labels:
+   - ">>mol<<"
+   - ">>ron<<"
+training-data:
+   deu-ron: Tatoeba-train-v2021-08-07 (54395851) 
+validation-data:
+   deu-ron: Tatoeba-dev-v2021-08-07, 1013
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.deu-ron: 1141/7432
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.deu-ron: 42.0
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.deu-ron: 0.636
