@@ -1957,16 +1957,18 @@ transformers/Tatoeba-Challenge: transformers
 	ln -s `pwd` $@
 
 ${HOME}/.huggingface/token: # transformers
-	transformers-cli login
+	cd transformers && huggingface-cli login
+	cd transformers && git config --global credential.helper store
 
 transformers/${MODEL}.converted: transformers
 	cd transformers && \
-	python src/transformers/models/marian/convert_marian_tatoeba_to_pytorch.py --models ${MODEL} --save_dir converted
+	python ${PWD}/scripts/convert_marian_tatoeba_to_pytorch.py --models ${MODEL} --save_dir converted
 	touch $@
+#	python src/transformers/models/marian/convert_marian_tatoeba_to_pytorch.py --models ${MODEL} --save_dir converted
 
 ifneq (${CONVERTED_MODEL},)
 transformers/${CONVERTED_MODEL}.committed: transformers/converted/${CONVERTED_MODEL} ${HOME}/.huggingface/token
-	-transformers-cli repo create ${RENAMED_MODEL} \
+	-huggingface-cli repo create ${RENAMED_MODEL} \
 		--organization Helsinki-NLP
 	-git clone https://tiedeman:`cat ${HOME}/.huggingface/token`@huggingface.co/Helsinki-NLP/${RENAMED_MODEL}
 	cd ${RENAMED_MODEL} && git lfs install
