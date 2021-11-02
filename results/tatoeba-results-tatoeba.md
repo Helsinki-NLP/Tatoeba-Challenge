@@ -2226,9 +2226,11 @@ to be useful for anything.
 | [eng-poz/opus1m+bt](../models/eng-poz) | tatoeba | 0.551 | 24.4 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.426 | 14.3 |
 | | lang = eng-tha | | | | |
+| [eng-tha/opus+bt](../models/eng-tha) | tatoeba | 0.545 | 1.5 |
 | [taw-taw/opus](../models/taw-taw) | tatoeba | 0.516 | 2.3 |
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.456 | 2.2 |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.448 | 2.3 |
+| [eng-tha/opus+bt](../models/eng-tha) | tatoeba-v2021-08-07 | 0.546 | 1.5 |
 | | lang = eng-tlh | | | | |
 | [art-art/opus](../models/art-art) | tatoeba | 0.130 | 0.0 |
 | [eng-art/opus1m+bt](../models/eng-art) | tatoeba | 0.130 | 0.0 |

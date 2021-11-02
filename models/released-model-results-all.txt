@@ -6826,6 +6826,8 @@ eng-tha	0.448	2.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-202
 eng-tha	0.456	2.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus2m-2020-08-01.zip	1145	1338
 eng-tha	0.428	2.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	1145	1338
 eng-tha	0.445	2.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-20.zip	1145	1338
+eng-tha	0.546	1.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tha/opus+bt-2021-11-02.zip	1154	1603
+eng-tha	0.545	1.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tha/opus+bt-2021-11-02.zip	1145	1596
 eng-tir	0.248	2.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sem/opus2m-2020-08-01.zip	69	305
 eng-tir	0.238	2.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-afa/opus2m-2020-08-01.zip	69	305
 eng-tir	0.250	2.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sem-sem/opus-2020-09-26.zip	69	305

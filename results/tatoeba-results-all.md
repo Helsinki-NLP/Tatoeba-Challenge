@@ -3834,9 +3834,11 @@ to be useful for anything.
 | [eng-tgl/opus](../models/eng-tgl) | tico19-test | 0.603 | 31.9 |
 | [eng-poz/opus1m+bt](../models/eng-poz) | tico19-test | 0.564 | 29.1 |
 | | lang = eng-tha | | | | |
+| [eng-tha/opus+bt](../models/eng-tha) | tatoeba | 0.545 | 1.5 |
 | [taw-taw/opus](../models/taw-taw) | tatoeba | 0.516 | 2.3 |
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.456 | 2.2 |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.448 | 2.3 |
+| [eng-tha/opus+bt](../models/eng-tha) | tatoeba-v2021-08-07 | 0.546 | 1.5 |
 | | lang = eng-tir | | | | |
 | [sem-sem/opus](../models/sem-sem) | tico19-test | 0.182 | 2.8 |
 | [afa-afa/opus](../models/afa-afa) | tico19-test | 0.167 | 2.7 |

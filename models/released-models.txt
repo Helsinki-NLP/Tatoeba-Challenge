@@ -577,6 +577,8 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tat/opus-2020-09-10.zip	eng-ta
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tgl/opus+bt-2021-04-10.zip	eng-tgl	en-tl	0.570	26.3	English	Tagalog
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tgl/opus-2020-06-17.zip	eng-tgl	en-tl	0.571	26.5	English	Tagalog
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tgl/opus-2021-02-23.zip	eng-tgl	en-tl	0.571	26.3	English	Tagalog
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tha/opus+bt-2021-11-02.zip	eng-tha	en-th	0.545	1.5	English	Thai
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tha/opus+bt-2021-11-02.zip	eng-tha	en-th	0.546	1.5	English	Thai
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ton/opus+bt-2021-04-10.zip	eng-ton	en-to	0.418	15.5	English	Tonga (Tonga Islands)
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tpi/opus+bt-2021-04-10.zip	eng-tpi	en-tpi	0.478	27.4	English	Tok Pisin
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-trk/opus-2020-06-28.zip	eng-trk	en-trk	0.443	18.5	English	Turkic languages

@@ -17,3 +17,25 @@
 | Tatoeba-test.eng.tha 	| 1.9 	| 0.544 |
 | Tatoeba-test.eng-tha.eng.tha 	| 1.9 	| 0.544 |
 
+
+# opus+bt-2021-11-02.zip
+
+* dataset: opus+bt
+* model: transformer-align
+* source language(s): eng
+* target language(s): tha
+* raw source language(s): eng
+* raw target language(s): tha
+* model: transformer-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opus+bt-2021-11-02.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tha/opus+bt-2021-11-02.zip)
+* test set translations: [opus+bt-2021-11-02.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tha/opus+bt-2021-11-02.test.txt)
+* test set scores: [opus+bt-2021-11-02.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tha/opus+bt-2021-11-02.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test.eng-tha 	| 1.5 	| 0.545 	| 1145 	| 1596 	| 1.000 |
+| Tatoeba-test-v2021-08-07.eng-tha 	| 1.5 	| 0.546 	| 1154 	| 1603 	| 1.000 |
+

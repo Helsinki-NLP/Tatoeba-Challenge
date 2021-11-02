@@ -32,6 +32,8 @@ to be useful for anything.
 | [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | tatoeba-v2021-08-07 | 0.770 | 61.2 |
 | | lang = eng-fin | | | | |
 | [eng-fin/opusTCv20210807+bt](../models/eng-fin) | tatoeba-v2021-08-07 | 0.642 | 39.7 |
+| | lang = eng-tha | | | | |
+| [eng-tha/opus+bt](../models/eng-tha) | tatoeba-v2021-08-07 | 0.546 | 1.5 |
 | | lang = fin-deu | | | | |
 | [fin-deu/opusTCv20210807+bt](../models/fin-deu) | tatoeba-v2021-08-07 | 0.659 | 47.1 |
 | | lang = fin-eng | | | | |

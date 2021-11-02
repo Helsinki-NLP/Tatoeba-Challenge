@@ -577,6 +577,8 @@ For multilingual models, it is a mix of all language pairs
 | [eng-tgl/opus](../models/eng-tgl) | 0.571 | 26.5 |
 | [eng-tgl/opus](../models/eng-tgl) | 0.571 | 26.3 |
 | [eng-tgl/opus+bt](../models/eng-tgl) | 0.570 | 26.3 |
+| [eng-tha/opus+bt](../models/eng-tha) | 0.545 | 1.5 |
+| [eng-tha/opus+bt](../models/eng-tha) | 0.546 | 1.5 |
 | [eng-ton/opus+bt](../models/eng-ton) | 0.418 | 15.5 |
 | [eng-tpi/opus+bt](../models/eng-tpi) | 0.478 | 27.4 |
 | [eng-trk/opus](../models/eng-trk) | 0.447 | 18.8 |
