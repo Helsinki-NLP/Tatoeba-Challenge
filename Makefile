@@ -1962,6 +1962,7 @@ ${HOME}/.huggingface/token: # transformers
 
 transformers/${MODEL}.converted: transformers
 	cd transformers && \
+	PYTHONPATH=${PWD}/transformers/src:${PYTHONPATH} && \
 	python ${PWD}/scripts/convert_marian_tatoeba_to_pytorch.py --models ${MODEL} --save_dir converted
 	touch $@
 #	python src/transformers/models/marian/convert_marian_tatoeba_to_pytorch.py --models ${MODEL} --save_dir converted
