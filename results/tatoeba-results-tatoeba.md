@@ -1260,7 +1260,7 @@ to be useful for anything.
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.447 | 17.7 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.437 | 19.4 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.410 | 17.3 |
-| [eng-fin/opusTCv20210807+bt](../models/eng-fin) | tatoeba-v2021-08-07 | 0.642 | 39.7 |
+| [eng-fin/opusTCv20210807+bt](../models/eng-fin) | tatoeba-v2021-08-07 | 0.643 | 39.9 |
 | | lang = eng-fra | | | | |
 | [eng-fra/opus](../models/eng-fra) | tatoeba | 0.671 | 50.8 |
 | [eng-roa/opus](../models/eng-roa) | tatoeba | 0.641 | 45.8 |
@@ -2230,6 +2230,7 @@ to be useful for anything.
 | [taw-taw/opus](../models/taw-taw) | tatoeba | 0.516 | 2.3 |
 | [eng-mul/opus2m](../models/eng-mul) | tatoeba | 0.456 | 2.2 |
 | [eng-mul/opus](../models/eng-mul) | tatoeba | 0.448 | 2.3 |
+| [eng-tha/opusTCv20210807+bt](../models/eng-tha) | tatoeba-v2021-08-07 | 0.561 | 4.4 |
 | [eng-tha/opus+bt](../models/eng-tha) | tatoeba-v2021-08-07 | 0.546 | 1.5 |
 | | lang = eng-tlh | | | | |
 | [art-art/opus](../models/art-art) | tatoeba | 0.130 | 0.0 |
@@ -2672,7 +2673,7 @@ to be useful for anything.
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.468 | 26.0 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.453 | 25.9 |
 | [urj-eng/opus4m](../models/urj-eng) | tatoeba | 0.413 | 23.7 |
-| [fin-eng/opusTCv20210807+bt](../models/fin-eng) | tatoeba-v2021-08-07 | 0.700 | 54.1 |
+| [fin-eng/opusTCv20210807+bt](../models/fin-eng) | tatoeba-v2021-08-07 | 0.710 | 55.6 |
 | | lang = fin-epo | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.516 | 30.2 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.491 | 28.3 |
@@ -2745,7 +2746,7 @@ to be useful for anything.
 | [fin-swe/opus](../models/fin-swe) | tatoeba | 0.701 | 54.5 |
 | [fiu-gmq/opus](../models/fiu-gmq) | tatoeba | 0.666 | 50.4 |
 | [deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m](../models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe) | tatoeba | 0.645 | 47.6 |
-| [fin-swe/opusTCv20210807+bt](../models/fin-swe) | tatoeba-v2021-08-07 | 0.709 | 55.0 |
+| [fin-swe/opusTCv20210807+bt](../models/fin-swe) | tatoeba-v2021-08-07 | 0.713 | 55.6 |
 | | lang = fin-tur | | | | |
 | [fin-tur/opus+bt](../models/fin-tur) | tatoeba | 0.613 | 31.2 |
 | [fiu-tut/opus](../models/fiu-tut) | tatoeba | 0.527 | 23.8 |
