@@ -3026,6 +3026,8 @@ to be useful for anything.
 | [eng-kin/opus+bt](../models/eng-kin) | tico19-test | 0.330 | 7.0 |
 | [eng-bnt/opus1m+bt](../models/eng-bnt) | tico19-test | 0.310 | 7.4 |
 | [eng-alv/opus1m+bt](../models/eng-alv) | tico19-test | 0.284 | 6.7 |
+| | lang = eng-kor | | | | |
+| [eng-kor/opusTCv20210807+bt](../models/eng-kor) | tatoeba-v2021-08-07 | 0.332 | 13.3 |
 | | lang = eng-kur | | | | |
 | [ira-ira/opus](../models/ira-ira) | tatoeba | 0.229 | 9.0 |
 | [eng-ine/opus2m](../models/eng-ine) | tatoeba | 0.209 | 10.2 |
@@ -4976,6 +4978,7 @@ to be useful for anything.
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.589 | 35.7 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.577 | 34.2 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.576 | 34.6 |
+| [fra-ita/opusTCv20210807](../models/fra-ita) | tatoeba-v2021-08-07 | 0.737 | 54.8 |
 | | lang = fra-jbo | | | | |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.117 | 0.1 |
 | | lang = fra-jpn | | | | |

@@ -42,6 +42,8 @@ to be useful for anything.
 | [eng-fin/opusTCv20210807+bt](../models/eng-fin) | tatoeba-v2021-08-07 | 0.643 | 39.9 |
 | | lang = eng-kaz | | | | |
 | [eng-kaz/opusTCv20210807+bt](../models/eng-kaz) | tatoeba-v2021-08-07 | 0.492 | 20.7 |
+| | lang = eng-kor | | | | |
+| [eng-kor/opusTCv20210807+bt](../models/eng-kor) | tatoeba-v2021-08-07 | 0.332 | 13.3 |
 | | lang = eng-tha | | | | |
 | [eng-tha/opusTCv20210807+bt](../models/eng-tha) | tatoeba-v2021-08-07 | 0.561 | 4.4 |
 | [eng-tha/opus+bt](../models/eng-tha) | tatoeba-v2021-08-07 | 0.546 | 1.5 |
@@ -51,6 +53,8 @@ to be useful for anything.
 | [fin-eng/opusTCv20210807+bt](../models/fin-eng) | tatoeba-v2021-08-07 | 0.710 | 55.6 |
 | | lang = fin-swe | | | | |
 | [fin-swe/opusTCv20210807+bt](../models/fin-swe) | tatoeba-v2021-08-07 | 0.713 | 55.6 |
+| | lang = fra-ita | | | | |
+| [fra-ita/opusTCv20210807](../models/fra-ita) | tatoeba-v2021-08-07 | 0.737 | 54.8 |
 | | lang = fry-eng | | | | |
 | [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | tatoeba-v2021-08-07 | 0.544 | 36.2 |
 | | lang = gla-eng | | | | |

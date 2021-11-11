@@ -471,6 +471,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-kaz/opusTCv20210807+bt-2021-09
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-khm/opus-2020-09-10.zip	eng-khm	en-km	0.103	0.1	English	Khmer
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-kin/opus+bt-2021-04-10.zip	eng-kin	en-rw	0.502	11.7	English	Kinyarwanda
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-kir/opus+bt-2021-04-10.zip	eng-kir	en-ky	0.361	11.9	English	Kirghiz
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-kor/opusTCv20210807+bt-2021-11-10.zip	eng-kor	en-ko	0.332	13.3	English	Korean
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-kur/opus-2020-09-10.zip	eng-kur	en-ku	0.087	0.1	English	Kurdish
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-lav/opus+bt-2021-04-14.zip	eng-lav	en-lv	0.683	46.8	English	Latvian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-lit/opus+bt-2021-04-14.zip	eng-lit	en-lt	0.671	39.0	English	Lithuanian
@@ -761,6 +762,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/fra-eng/opus-2021-02-22.zip	fra-en
 https://object.pouta.csc.fi/Tatoeba-MT-models/fra-epo/opus-2021-02-19.zip	fra-epo	fr-eo	0.509	29.2	French	Esperanto
 https://object.pouta.csc.fi/Tatoeba-MT-models/fra-fin/opus-2021-02-19.zip	fra-fin	fr-fi	0.648	44.4	French	Finnish
 https://object.pouta.csc.fi/Tatoeba-MT-models/fra-heb/opus-2021-02-18.zip	fra-heb	fr-he	0.598	39.2	French	Hebrew
+https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ita/opusTCv20210807-2021-11-11.zip	fra-ita	fr-it	0.737	54.8	French	Italian
 https://object.pouta.csc.fi/Tatoeba-MT-models/fra-msa/opus-2020-06-17.zip	fra-msa	fr-ms	0.617	35.3	French	Malay (macrolanguage)
 https://object.pouta.csc.fi/Tatoeba-MT-models/fra-msa/opus-2021-02-23.zip	fra-msa	fr-ms	0.620	35.6	French	Malay (macrolanguage)
 https://object.pouta.csc.fi/Tatoeba-MT-models/fra-nld/opus-2021-02-18.zip	fra-nld	fr-nl	0.666	49.0	French	Dutch

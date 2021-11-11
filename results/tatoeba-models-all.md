@@ -473,6 +473,7 @@ For multilingual models, it is a mix of all language pairs
 | [eng-khm/opus](../models/eng-khm) | 0.103 | 0.1 |
 | [eng-kin/opus+bt](../models/eng-kin) | 0.502 | 11.7 |
 | [eng-kir/opus+bt](../models/eng-kir) | 0.361 | 11.9 |
+| [eng-kor/opusTCv20210807+bt](../models/eng-kor) | 0.332 | 13.3 |
 | [eng-kur/opus](../models/eng-kur) | 0.087 | 0.1 |
 | [eng-lav/opus+bt](../models/eng-lav) | 0.683 | 46.8 |
 | [eng-lit/opus+bt](../models/eng-lit) | 0.671 | 39.0 |
@@ -761,6 +762,7 @@ For multilingual models, it is a mix of all language pairs
 | [fra-epo/opus](../models/fra-epo) | 0.509 | 29.2 |
 | [fra-fin/opus](../models/fra-fin) | 0.648 | 44.4 |
 | [fra-heb/opus](../models/fra-heb) | 0.598 | 39.2 |
+| [fra-ita/opusTCv20210807](../models/fra-ita) | 0.737 | 54.8 |
 | [fra-msa/opus](../models/fra-msa) | 0.620 | 35.6 |
 | [fra-msa/opus](../models/fra-msa) | 0.617 | 35.3 |
 | [fra-nld/opus](../models/fra-nld) | 0.666 | 49.0 |
