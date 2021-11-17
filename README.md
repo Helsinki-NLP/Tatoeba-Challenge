@@ -10,7 +10,7 @@ This is a challenge set for machine translation that contains 29G translation un
 * [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
 * New: [The status of available NMT models on a map](https://opus.nlpl.eu/NMT-map/Tatoeba/all/src2trg/) (for release v2020-07-28)
 
-[![NMT map](images/NMT-map-small.png)](https://opus.nlpl.eu/NMT-map/Tatoeba/all/src2trg/)
+[![NMT map](images/NMT-map-small.png)](https://opus.nlpl.eu/NMT-map/Tatoeba-all/src2trg/)
 
 
 ## Tasks
