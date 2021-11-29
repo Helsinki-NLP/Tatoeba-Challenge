@@ -1418,6 +1418,7 @@ ${DATADIR}/relative-test-size-per-language.txt:
 .PHONY: model-results
 model-results: 	models/results/tatoeba-test-${VERSION}.txt \
 		models/results/tatoeba-test.txt \
+		models/results/all.txt \
 		models/results/other.txt
 
 SCORE_FILES := $(wildcard models/*/*.scores.txt)
@@ -1433,7 +1434,14 @@ models/results/other.txt: ${SCORE_FILES}
 	mkdir -p ${dir $@}
 	find models -name '*.scores.txt' |\
 	xargs cat |\
-	grep -v Tatoeba-test |\
+	grep -v tatoeba-test |\
+	sort -k1,1 -k2,2 -k4,4nr -k3,3nr -k5,5 | \
+	uniq | grep zip > $@
+
+models/results/all.txt: ${SCORE_FILES}
+	mkdir -p ${dir $@}
+	find models -name '*.scores.txt' |\
+	xargs cat |\
 	sort -k1,1 -k2,2 -k4,4nr -k3,3nr -k5,5 | \
 	uniq | grep zip > $@
 
