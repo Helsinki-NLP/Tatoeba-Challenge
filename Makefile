@@ -476,6 +476,7 @@ update-models:
 	git add ${MODEL_RELEASEDIR}/*.json
 	git add results/*.md
 	git add models/*.txt
+	git add models/results/*.txt
 	${MAKE} GIT_COMMIT_MESSAGE='latest models added' update-git
 
 GIT_COMMIT_MESSAGE ?= latest changes
@@ -503,7 +504,10 @@ upload-models:
 
 
 .PHONY: released-model-list
-released-model-list: 	models/released-models.txt \
+released-model-list: 	models/results/tatoeba-test-${VERSION}.txt \
+			models/results/tatoeba-test.txt \
+			models/results/other.txt \
+			models/released-models.txt \
 			models/released-model-results.txt \
 			models/released-model-results-all.txt \
 			models/released-model-results-${VERSION}.txt \
@@ -1409,6 +1413,31 @@ ${DATADIR}/relative-test-size-per-language.txt:
 	awk '{print $$2 " " $$1/10000}' > $@
 
 
+# model result files
+
+.PHONY: model-results
+model-results: 	models/results/tatoeba-test-${VERSION}.txt \
+		models/results/tatoeba-test.txt \
+		models/results/other.txt
+
+SCORE_FILES := $(wildcard models/*/*.scores.txt)
+models/results/%.txt: ${SCORE_FILES}
+	mkdir -p ${dir $@}
+	find models -name '*.scores.txt' |\
+	xargs cat |\
+	grep ${notdir ${@:.txt=}} |\
+	sort -k1,1 -k2,2 -k4,4nr -k3,3nr -k5,5 | \
+	uniq | grep zip > $@
+
+models/results/other.txt: ${SCORE_FILES}
+	mkdir -p ${dir $@}
+	find models -name '*.scores.txt' |\
+	xargs cat |\
+	grep -v Tatoeba-test |\
+	sort -k1,1 -k2,2 -k4,4nr -k3,3nr -k5,5 | \
+	uniq | grep zip > $@
+
+
 
 
 # TATOEBA_READMES = $(wildcard models/*/README.md)
@@ -1483,65 +1512,6 @@ models/released-model-results-other.txt: ${TATOEBA_YAML}
 	rm -f $@.1 $@.langs $@.url $@.scores $@.sizes
 
 
-# models/released-models.txt: ${TATOEBA_READMES}
-# #	-cat $@ > $@.${TODAY}
-# 	find models/ -name '*.eval.txt' | sort | xargs grep chrF2 > $@.1
-# 	find models/ -name '*.eval.txt' | sort | xargs grep BLEU > $@.2
-# 	cut -f3 -d '/' $@.1 | sed 's/\.eval.txt.*$$/.zip/' > $@.zip
-# 	cut -f2 -d '/' $@.1 > $@.iso639-3
-# 	paste -d '/' $@.iso639-3 $@.zip | sed 's#^#${TATOEBA_MODELURL}/#' > $@.url
-# 	cut -f2 -d '/' $@.1 | xargs iso639 -2 -k -p | tr ' ' "\n" > $@.iso639-1
-# 	cut -f2 -d '=' $@.1 | cut -f2 -d ' ' > $@.chrF2
-# 	cut -f2 -d '=' $@.2 | cut -f2 -d ' ' > $@.bleu
-# 	cut -f3 -d '=' $@.2 | cut -f2 -d ' ' > $@.bp
-# 	cut -f6 -d '=' $@.2 | cut -f2 -d ' ' | cut -f1 -d')' > $@.reflen
-# 	cut -f2 -d '/' $@.1 | sed 's/^\([^ \-]*\)$$/\1-\1/g' | tr '-' ' ' | \
-# 	xargs iso639 -k | sed 's/$$/ /' |\
-# 	sed -e 's/\" \"\([^\"]*\)\" /\t\1\n/g' | sed 's/^\"//g' > $@.langs
-# 	paste $@.url $@.iso639-3 $@.iso639-1 $@.chrF2 $@.bleu $@.bp $@.reflen $@.langs > $@.new
-# 	rm -f $@.url $@.iso639-3 $@.iso639-1 $@.chrF2 $@.bleu $@.bp $@.reflen $@.1 $@.2 $@.langs $@.zip
-# 	cat $@.${TODAY} $@.new | sort | uniq | grep zip |\
-# 	scripts/check-model-availability.pl models/available-models.txt 2> $@.log > $@
-# 	rm -f $@.new
-
-
-# models/released-model-languages.txt: ${TATOEBA_READMES}
-# 	-cat $@ > $@.${TODAY}
-# 	find models/ -name 'README.md' | sort | \
-# 	xargs egrep -h '^(# |\* source language|\* target language|\* download:)' |\
-# 	tr "\t" " " | tr "\n" "\t" | sed "s/# /\n# /g" > $@.1
-# 	grep -o '\* download: [^ ]*)' $@.1 | cut -f2 -d\( | sed 's/)//' > $@.url
-# 	grep -o '# [^ ]*	'  $@.1 | sed 's/^# *//' > $@.model
-# 	grep -o '\* source language(s): [^	]*	' $@.1 | \
-# 		cut -f2 -d: | cut -f1 | sed 's/^ *//' > $@.src
-# 	grep -o '\* target language(s): [^	]*	' $@.1 | \
-# 		cut -f2 -d: | cut -f1 | sed 's/^ *//' > $@.trg
-# 	cut -f5 -d/ $@.url > $@.iso639-3
-# 	cut -f5 -d/ $@.url | xargs iso639 -2 -k -p | tr ' ' "\n" > $@.iso639-1
-# 	cut -f5 -d/ $@.url | sed 's/^\([^ \-]*\)$$/\1-\1/g' | tr '-' ' ' | \
-# 	xargs iso639 -k | sed 's/$$/ /' |\
-# 	sed -e 's/\" \"\([^\"]*\)\" /\t\1\n/g' | sed 's/^\"//g' > $@.langs
-# 	paste $@.url $@.iso639-3 $@.iso639-1 $@.langs $@.src $@.trg > $@.new
-# 	rm -f $@.1 $@.url $@.iso639-3 $@.iso639-1 $@.langs $@.src $@.trg
-# 	cat $@.${TODAY} $@.new | sort | uniq | grep zip |\
-# 	scripts/check-model-availability.pl models/available-models.txt 2> $@.log > $@
-# 	rm -f $@.new
-
-# models/released-model-results.txt: ${TATOEBA_READMES}
-# 	-cat $@ > $@.${TODAY}
-# 	find models/ -name 'README.md' | sort | \
-# 	xargs egrep -h '^(# |\| Tatoeba-test|\* download:)' |\
-# 	tr "\t" " " | tr "\n" "\t" | sed "s/# /\n# /g" |\
-# 	perl -e 'while (<>){s/^.*\((.*)\)/\1/;@_=split(/\t/);$$m=shift(@_);for (@_){print "$$_\t$$m\n";}}' |\
-# 	grep -v '.multi.' |\
-# 	sed -e 's/Tatoeba-test.\S*\(...\....\) /\1/' |\
-# 	grep '^|' |\
-# 	sed -e 's/ *| */\t/g' | cut -f2,3,4,6 > $@.new
-# 	cat $@.${TODAY} $@.new | sort -k1,1 -k3,3nr -k2,2nr -k4,4 | uniq | grep zip |\
-# 	scripts/check-model-availability.pl models/available-models.txt 2> $@.log > $@
-# 	rm -f $@.new
-
-
 
 # RESULT_TABLE_HEADER=model\tlanguage-pair\ttestset\tchrF2\tBLEU\tBP\treference-length\n--------------------------------------------------------------------------\n
 RESULT_TABLE_HEADER=model\tlanguage-pair\ttestset\tchrF2\tBLEU\n--------------------------------------------------------------------------\n
@@ -1612,15 +1582,6 @@ tatoeba-results-all: ${TATOEBA_YAML}
 	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u |\
 	grep -v '	multi-' | grep -v -- '-multi	' > $@
 
-#	wget -O $@-work ${OPUS_MT_RAW}/work-tatoeba/$@
-#	cut -f4 $< | cut -f5,6 -d'/' | sed 's/-....-..-..\.zip$$//' > $@.1
-#	cut -f1 $< | tr '.' '-' > $@.2
-#	cut -f4 $< | cut -f4 -d'/' > $@.3
-#	cut -f3 $< > $@.4
-#	cut -f2 $< > $@.5
-#	paste $@.1 $@.2 $@.3 $@.4 $@.5 | sed 's/Tatoeba-MT-models/Tatoeba-test/' >> $@-work
-#	sort -r $@-work | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
-#	rm -f $@.1 $@.2 $@.3 $@.4 $@.5 $@-work
 
 ## Tatoeba test sets from the current version
 tatoeba-results-${VERSION}: ${TATOEBA_YAML}
