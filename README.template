@@ -186,9 +186,8 @@ The test data could have been organized as multi-reference data sets but this wo
 
 ## License
 
-These data are released under this licensing scheme:
-
-<img src="by-nc-sa.png" alt="CC-BY-NC-SA" width="80" /> [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+* <img src="cc-by.jpg" alt="CC-BY" width="80" /> The test and development data sets are released with the [CC-BY 2.0 FR license](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en) (see also the [terms of use](https://tatoeba.org/en/terms_of_use) of the original data at [https://tatoeba.org/en](tatoeba.org)).
+* <img src="by-nc-sa.png" alt="CC-BY-NC-SA" width="80" /> Training data is released under the [CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/) licensing scheme  
 
 
 ## Notice and take down policy

@@ -1,0 +1,73 @@
+release: eng-deu/opusTCv20210807+bt-2021-12-08.zip
+release-date: 2021-12-08
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - deu
+raw-source-languages:
+   - eng
+raw-target-languages:
+   - deu
+training-data:
+   eng-deu: Tatoeba-train-v2021-08-07 (582899207) wiki.aa (968686) wiki.ab (968204) wiki.ac (968342) wiki.ad (968787) wiki.ae (968838) wiki.af (968829) wiki.ag (968494) wiki.ah (969033) wiki.ai (968732) wiki.aj (968831) wiki.ak (968765) wiki.al (968596) wiki.am (968644) wiki.an (968820) wiki.ao (968692) wiki.ap (968727) wiki.aq (968519) wiki.ar (968552) wiki.as (968807) wiki.at (968536) wiki.au (968684) wiki.av (968523) wiki.aw (968768) wiki.ax (968502) wiki.ay (968591) wiki.az (968557) wiki.ba (968604) wiki.bb (968785) wiki.bc (968692) wiki.bd (969403) wiki.be (969224) wiki.bf (969472) wiki.bg (969280) wiki.bh (969070) wiki.bi (969285) wiki.bj (969144) wiki.bk (968894) wiki.bl (969044) wiki.bm (969243) wiki.bn (969155) wiki.bo (968937) wiki.bp (969064) wiki.bq (969152) wiki.br (969221) wiki.bs (968925) wiki.bt (968900) wiki.bu (969159) wiki.bv (968910) wiki.bw (969149) wiki.bx (616801) wikibooks.aa (456541) wikinews.aa (185626) wikiquote.aa (79902) wikisource.aa (948357) wikisource.ab (947936) wikisource.ac (948556) wikisource.ad (947928) wikisource.ae (947983) wikisource.af (948287) wikisource.ag (948209) wikisource.ah (51806) 
+validation-data:
+   deu-eng: Tatoeba-dev-v2021-08-07, 289779
+   total-size-shuffled: 289779
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newssyscomb2009.eng-deu: 502/11271
+   news-test2008.eng-deu: 2051/47427
+   newstest2009.eng-deu: 2525/62816
+   newstest2010.eng-deu: 2489/61511
+   newstest2011.eng-deu: 3003/72981
+   newstest2012.eng-deu: 3003/72886
+   newstest2013.eng-deu: 3000/63737
+   newstest2014-deen.eng-deu: 3003/62964
+   newstest2015-ende.eng-deu: 2169/44260
+   newstest2016-ende.eng-deu: 2999/62670
+   newstest2017-ende.eng-deu: 3004/61291
+   newstest2018-ende.eng-deu: 2998/64276
+   newstest2019-ende.eng-deu: 1997/48969
+   Tatoeba-test-v2021-08-07.eng-deu: 10000/85728
+BLEU-scores:
+   newssyscomb2009.eng-deu: 24.3
+   news-test2008.eng-deu: 24.7
+   newstest2009.eng-deu: 23.6
+   newstest2010.eng-deu: 26.9
+   newstest2011.eng-deu: 24.1
+   newstest2012.eng-deu: 24.6
+   newstest2013.eng-deu: 28.3
+   newstest2014-deen.eng-deu: 30.9
+   newstest2015-ende.eng-deu: 33.2
+   newstest2016-ende.eng-deu: 39.8
+   newstest2017-ende.eng-deu: 32.0
+   newstest2018-ende.eng-deu: 48.8
+   newstest2019-ende.eng-deu: 45.0
+   Tatoeba-test-v2021-08-07.eng-deu: 43.7
+chr-F-scores:
+   newssyscomb2009.eng-deu: 0.5462
+   news-test2008.eng-deu: 0.5412
+   newstest2009.eng-deu: 0.5385
+   newstest2010.eng-deu: 0.5589
+   newstest2011.eng-deu: 0.5364
+   newstest2012.eng-deu: 0.5375
+   newstest2013.eng-deu: 0.5636
+   newstest2014-deen.eng-deu: 0.6084
+   newstest2015-ende.eng-deu: 0.6106
+   newstest2016-ende.eng-deu: 0.6595
+   newstest2017-ende.eng-deu: 0.6047
+   newstest2018-ende.eng-deu: 0.7146
+   newstest2019-ende.eng-deu: 0.6821
+   Tatoeba-test-v2021-08-07.eng-deu: 0.6442

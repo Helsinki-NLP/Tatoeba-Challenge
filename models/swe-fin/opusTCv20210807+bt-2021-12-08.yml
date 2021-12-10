@@ -1,0 +1,37 @@
+release: swe-fin/opusTCv20210807+bt-2021-12-08.zip
+release-date: 2021-12-08
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - swe
+target-languages:
+   - fin
+raw-source-languages:
+   - swe
+raw-target-languages:
+   - fin
+training-data:
+   swe-fin: Tatoeba-train-v2021-08-07 (53558867) wiki.aa (989699) wiki.ab (989731) wiki.ac (989634) wiki.ad (989658) wiki.ae (989664) wiki.af (989751) wiki.ag (989647) wiki.ah (479543) wikibooks.aa (65837) wikinews.aa (21279) wikiquote.aa (32622) wikisource.aa (273429) 
+validation-data:
+   fin-swe: Tatoeba-dev-v2021-08-07, 7284
+   total-size-shuffled: 7284
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   fiskmo_testset.swe-fin: 523/7638
+   Tatoeba-test-v2021-08-07.swe-fin: 2841/15621
+BLEU-scores:
+   fiskmo_testset.swe-fin: 30.8
+   Tatoeba-test-v2021-08-07.swe-fin: 46.3
+chr-F-scores:
+   fiskmo_testset.swe-fin: 0.6536
+   Tatoeba-test-v2021-08-07.swe-fin: 0.6885

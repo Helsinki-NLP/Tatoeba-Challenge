@@ -20,6 +20,7 @@
 
 
 
+
 # opus-tuned4OpenSubtitles-2021-02-18.zip
 
 * dataset: opus-tuned4OpenSubtitles
@@ -37,6 +38,7 @@
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.fin-swe 	| 53.4 	| 0.690 	| 2500 	| 16762 	| 0.974 |
+
 
 
 
@@ -64,6 +66,7 @@
 
 
 
+
 # opusTCv20210807+bt-2021-08-26.zip
 
 * dataset: opusTCv20210807+bt
@@ -82,6 +85,7 @@
 |---------|-------|-------|-------|--------|----|
 | fiskmo_testset.fin-swe 	| 31.8 	| 0.639 	| 523 	| 9479 	| 1.000 |
 | Tatoeba-test-v2021-08-07.fin-swe 	| 55.0 	| 0.709 	| 2841 	| 19111 	| 0.976 |
+
 
 
 # opusTCv20210807+bt-2021-11-09.zip
@@ -104,4 +108,26 @@
 |---------|-------|-------|-------|--------|----|
 | fiskmo_testset.fin-swe 	| 32.4 	| 0.645 	| 523 	| 9479 	| 1.000 |
 | Tatoeba-test-v2021-08-07.fin-swe 	| 55.6 	| 0.713 	| 2841 	| 19111 	| 0.978 |
+
+
+# opusTCv20210807+bt-2021-12-08.zip
+
+* dataset: opusTCv20210807+bt
+* model: transformer-big
+* source language(s): fin
+* target language(s): swe
+* raw source language(s): fin
+* raw target language(s): swe
+* model: transformer-big
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opusTCv20210807+bt-2021-12-08.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-12-08.zip)
+* test set translations: [opusTCv20210807+bt-2021-12-08.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-12-08.test.txt)
+* test set scores: [opusTCv20210807+bt-2021-12-08.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-12-08.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| fiskmo_testset.fin-swe 	| 32.6 	| 0.6429 	| 523 	| 9479 	| 1.000 |
+| Tatoeba-test-v2021-08-07.fin-swe 	| 56.0 	| 0.7185 	| 2841 	| 19111 	| 0.983 |
 
