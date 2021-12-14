@@ -1,0 +1,73 @@
+release: gmq-eng/opus4m+btTCv20210807-2021-12-08.zip
+release-date: 2021-12-08
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - dan
+   - fao
+   - isl
+   - nno
+   - nob
+   - nob_Zinh
+   - non_Latn
+   - swe
+target-languages:
+   - eng
+raw-source-languages:
+   - dan
+   - fao
+   - isl
+   - nno
+   - nob
+   - non
+   - swe
+raw-target-languages:
+   - eng
+training-data:
+   dan-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa.eng-dan (992481) wikinews.aa.eng-dan (457208) wikipedia.aa.eng-dan (983013) wikipedia.ab.eng-dan (983222) wikipedia.ac.eng-dan (983161) wikipedia.ad.eng-dan (982981) wikiquote.aa.eng-dan (997056) 
+   fao-eng: Tatoeba-train-v2021-08-07 (55593) 
+   isl-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa (991532) wikinews.aa (457029) wikipedia.aa (981211) wikipedia.ab (981428) wikipedia.ac (981453) wikipedia.ad (981286) wikiquote.aa (996919) 
+   nno-eng: Tatoeba-train-v2021-08-07 (1660270) wikibooks.aa (992226) wikinews.aa (457435) wikipedia.aa (983906) wikipedia.ab (984099) wikipedia.ac (984013) wikipedia.ad (983850) wikiquote.aa (997159) 
+   nob-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa (992226) wikinews.aa (457435) wikipedia.aa (983906) wikipedia.ab (984099) wikipedia.ac (984013) wikipedia.ad (983850) wikiquote.aa (997159) 
+   nob_Zinh-eng: Tatoeba-train-v2021-08-07 (2) 
+   swe-eng: Tatoeba-train-v2021-08-07 (4000000) wikibooks.aa (992588) wikinews.aa (457314) wikipedia.aa (983430) wikipedia.ab (983657) wikipedia.ac (983601) wikipedia.ad (983375) wikiquote.aa (997127) 
+validation-data:
+   dan-eng: Tatoeba-dev-v2021-08-07, 20089
+   eng-fao: Tatoeba-dev-v2021-08-07, 1001
+   eng-isl: Tatoeba-dev-v2021-08-07, 6938
+   eng-nno: Tatoeba-dev-v2021-08-07, 505
+   eng-nob: Tatoeba-dev-v2021-08-07, 5202
+   eng-swe: Tatoeba-dev-v2021-08-07, 15558
+   total-size-shuffled: 5499
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.dan-eng: 10795/79668
+   Tatoeba-test-v2021-08-07.fao-eng: 294/1984
+   Tatoeba-test-v2021-08-07.isl-eng: 2503/19788
+   Tatoeba-test-v2021-08-07.non-eng: 15/145
+   Tatoeba-test-v2021-08-07.multi-eng: 10000/72131
+   Tatoeba-test-v2021-08-07.swe-eng: 10362/68509
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.dan-eng: 56.7
+   Tatoeba-test-v2021-08-07.fao-eng: 15.3
+   Tatoeba-test-v2021-08-07.isl-eng: 42.0
+   Tatoeba-test-v2021-08-07.non-eng: 34.1
+   Tatoeba-test-v2021-08-07.multi-eng: 54.5
+   Tatoeba-test-v2021-08-07.swe-eng: 57.0
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.dan-eng: 0.7159
+   Tatoeba-test-v2021-08-07.fao-eng: 0.3680
+   Tatoeba-test-v2021-08-07.isl-eng: 0.5915
+   Tatoeba-test-v2021-08-07.non-eng: 0.4989
+   Tatoeba-test-v2021-08-07.multi-eng: 0.6912
+   Tatoeba-test-v2021-08-07.swe-eng: 0.7027
