@@ -2079,6 +2079,7 @@ to be useful for anything.
 | [mul-eng/opus2m](../models/mul-eng) | newstestB2017 | 0.442 | 16.8 |
 | | lang = fin-swe | | | | |
 | [fin-swe/opusTCv20210807+bt](../models/fin-swe) | fiskmo_testset | 0.645 | 32.4 |
+| [fin-gmq/opus4m+btTCv20210807](../models/fin-gmq) | fiskmo_testset | 0.611 | 28.5 |
 | [fin-swe/opus](../models/fin-swe) | fiskmo_testset | 0.604 | 28.2 |
 | [fiu-gmq/opus](../models/fiu-gmq) | fiskmo_testset | 0.553 | 22.0 |
 | [deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m](../models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe) | fiskmo_testset | 0.551 | 21.8 |

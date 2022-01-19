@@ -1,0 +1,69 @@
+release: bat-gmq/opus4m+btTCv20210807-2022-01-19.zip
+release-date: 2022-01-19
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - lav
+   - lit
+   - ltg
+target-languages:
+   - dan
+   - isl
+   - swe
+raw-source-languages:
+   - lav
+   - lit
+   - ltg
+raw-target-languages:
+   - dan
+   - isl
+   - swe
+use-target-labels:
+   - ">>dan<<"
+   - ">>isl<<"
+   - ">>swe<<"
+training-data:
+   lav-dan: Tatoeba-train-v2021-08-07 (4000000) 
+   lav-isl: Tatoeba-train-v2021-08-07 (1845675) 
+   lav-swe: Tatoeba-train-v2021-08-07 (4000000) 
+   lit-swe: Tatoeba-train-v2021-08-07 (4000000) 
+   ltg-dan: Tatoeba-train-v2021-08-07 (5352) 
+   ltg-isl: Tatoeba-train-v2021-08-07 (4740) 
+   ltg-swe: Tatoeba-train-v2021-08-07 (259) 
+validation-data:
+   dan-lav: Tatoeba-dev-v2021-08-07, 999
+   isl-lav: Tatoeba-dev-v2021-08-07, 997
+   lav-swe: Tatoeba-dev-v2021-08-07, 1000
+   lit-swe: Tatoeba-dev-v2021-08-07, 1000
+   dan-ltg: Tatoeba-dev-v2021-08-07, 1
+   isl-ltg: Tatoeba-dev-v2021-08-07, 3
+   total-size-shuffled: 3972
+   devset-selected: top 3972  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.lav-dan: 1/22
+   Tatoeba-test-v2021-08-07.lav-isl: 1/22
+   Tatoeba-test-v2021-08-07.lav-swe: 1/22
+   Tatoeba-test-v2021-08-07.lit-swe: 1/6
+   Tatoeba-test-v2021-08-07.multi-multi: 4/72
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.lav-dan: 100.0
+   Tatoeba-test-v2021-08-07.lav-isl: 100.0
+   Tatoeba-test-v2021-08-07.lav-swe: 86.4
+   Tatoeba-test-v2021-08-07.lit-swe: 100.0
+   Tatoeba-test-v2021-08-07.multi-multi: 95.8
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.lav-dan: 1.000
+   Tatoeba-test-v2021-08-07.lav-isl: 1.000
+   Tatoeba-test-v2021-08-07.lav-swe: 0.875
+   Tatoeba-test-v2021-08-07.lit-swe: 1.000
+   Tatoeba-test-v2021-08-07.multi-multi: 0.964

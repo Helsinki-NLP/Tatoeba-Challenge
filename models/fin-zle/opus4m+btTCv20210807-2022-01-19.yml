@@ -1,0 +1,47 @@
+release: fin-zle/opus4m+btTCv20210807-2022-01-19.zip
+release-date: 2022-01-19
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - rus
+   - ukr
+raw-source-languages:
+   - fin
+raw-target-languages:
+   - rus
+   - ukr
+use-target-labels:
+   - ">>rus<<"
+   - ">>ukr<<"
+training-data:
+   fin-rus: Tatoeba-train-v2021-08-07 (4000000) wiki.aa.rus-fin (958064) wiki.ab.rus-fin (958748) wiki.ac.rus-fin (958064) wiki.ad.rus-fin (958557) wiki.ae.rus-fin (958662) wiki.af.rus-fin (958799) wiki.ag.rus-fin (958510) wiki.ah.rus-fin (958631) wiki.ai.rus-fin (958722) wiki.aj.rus-fin (959077) wiki.ak.rus-fin (958586) wiki.al.rus-fin (958469) wiki.am.rus-fin (958311) wiki.an.rus-fin (958568) wiki.ao.rus-fin (958078) wiki.ap.rus-fin (958621) wiki.aq.rus-fin (958801) wiki.ar.rus-fin (958604) wiki.as.rus-fin (958778) wiki.at.rus-fin (958678) wiki.au.rus-fin (958780) wiki.av.rus-fin (958527) wiki.aw.rus-fin (958990) wiki.ax.rus-fin (50486) wikibooks.aa.rus-fin (64237) wikinews.aa.rus-fin (258550) wikiquote.aa.rus-fin (174770) wikisource.aa.rus-fin (927521) wikisource.ab.rus-fin (927915) wikisource.ac.rus-fin (927428) wikisource.ad.rus-fin (927396) wikisource.ae.rus-fin (927592) wikisource.af.rus-fin (927319) wikisource.ag.rus-fin (927405) wikisource.ah.rus-fin (927485) wikisource.ai.rus-fin (230037) 
+   fin-ukr: Tatoeba-train-v2021-08-07 (4000000) 
+validation-data:
+   fin-rus: Tatoeba-dev-v2021-08-07, 1009
+   fin-ukr: Tatoeba-dev-v2021-08-07, 999
+   total-size-shuffled: 1999
+   devset-selected: top 1999  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.fin-rus: 3643/21434
+   Tatoeba-test-v2021-08-07.fin-ukr: 33/215
+   Tatoeba-test-v2021-08-07.fin-multi: 3676/21715
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.fin-rus: 44.9
+   Tatoeba-test-v2021-08-07.fin-ukr: 46.8
+   Tatoeba-test-v2021-08-07.fin-multi: 45.8
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.fin-rus: 0.659
+   Tatoeba-test-v2021-08-07.fin-ukr: 0.617
+   Tatoeba-test-v2021-08-07.fin-multi: 0.663

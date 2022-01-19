@@ -1,0 +1,55 @@
+release: fin-sem/opus4m+btTCv20210807-2022-01-19.zip
+release-date: 2022-01-19
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - ara
+   - arq
+   - arz
+   - heb
+raw-source-languages:
+   - fin
+raw-target-languages:
+   - ara
+   - arq
+   - arz
+   - heb
+use-target-labels:
+   - ">>ara<<"
+   - ">>arq<<"
+   - ">>arz<<"
+   - ">>heb<<"
+training-data:
+   fin-ara: Tatoeba-train-v2021-08-07 (4000000) wiki.aa (829482) wiki.ab (829123) wiki.ac (828436) wiki.af (829125) wiki.ag (828780) wiki.ah (828962) wiki.ai (394660) wikibooks.aa (21991) wikinews.aa (94319) wikiquote.aa (22478) wikisource.aa (864765) wikisource.ab (453726) 
+   fin-arq: Tatoeba-train-v2021-08-07 (483) 
+   fin-arz: Tatoeba-train-v2021-08-07 (7847) 
+   fin-heb: Tatoeba-train-v2021-08-07 (4000000) 
+validation-data:
+   ara-fin: Tatoeba-dev-v2021-08-07, 999
+   fin-heb: Tatoeba-dev-v2021-08-07, 1001
+   total-size-shuffled: 1997
+   devset-selected: top 1997  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.fin-ara: 7/30
+   Tatoeba-test-v2021-08-07.fin-heb: 212/1354
+   Tatoeba-test-v2021-08-07.fin-multi: 219/1384
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.fin-ara: 8.5
+   Tatoeba-test-v2021-08-07.fin-heb: 35.2
+   Tatoeba-test-v2021-08-07.fin-multi: 34.8
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.fin-ara: 0.403
+   Tatoeba-test-v2021-08-07.fin-heb: 0.581
+   Tatoeba-test-v2021-08-07.fin-multi: 0.579

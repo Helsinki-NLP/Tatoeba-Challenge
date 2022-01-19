@@ -2545,6 +2545,7 @@ fin-eng	newstestB2017-fien	0.442	16.8	https://object.pouta.csc.fi/Tatoeba-MT-mod
 fin-swe	fiskmo_testset	0.6429	32.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-12-08.zip	523	9479
 fin-swe	fiskmo_testset	0.645	32.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-11-09.zip	523	9479
 fin-swe	fiskmo_testset	0.639	31.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-08-26.zip	523	9479
+fin-swe	fiskmo_testset	0.611	28.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-gmq/opus4m+btTCv20210807-2022-01-19.zip	523	9479
 fin-swe	fiskmo_testset	0.604	28.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opus-2021-02-19.zip	523	9479
 fin-swe	fiskmo_testset	0.553	22.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-gmq/opus-2021-02-19.zip	523	9479
 fin-swe	fiskmo_testset	0.551	21.8	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	523	9479

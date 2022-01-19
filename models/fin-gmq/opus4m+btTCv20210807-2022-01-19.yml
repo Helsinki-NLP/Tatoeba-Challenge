@@ -1,0 +1,71 @@
+release: fin-gmq/opus4m+btTCv20210807-2022-01-19.zip
+release-date: 2022-01-19
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - dan
+   - isl
+   - nno
+   - nob
+   - swe
+raw-source-languages:
+   - fin
+raw-target-languages:
+   - dan
+   - isl
+   - nno
+   - nob
+   - swe
+use-target-labels:
+   - ">>dan<<"
+   - ">>isl<<"
+   - ">>nno<<"
+   - ">>nob<<"
+   - ">>swe<<"
+training-data:
+   fin-dan: Tatoeba-train-v2021-08-07 (4000000) 
+   fin-isl: Tatoeba-train-v2021-08-07 (3385569) 
+   fin-nno: Tatoeba-train-v2021-08-07 (93566) 
+   fin-nob: Tatoeba-train-v2021-08-07 (4000000) 
+   fin-swe: Tatoeba-train-v2021-08-07 (4000000) wiki.aa.swe-fin (955843) wiki.ab.swe-fin (956346) wiki.ac.swe-fin (956285) wiki.ad.swe-fin (956006) wiki.ae.swe-fin (956053) wiki.af.swe-fin (956109) wiki.ag.swe-fin (956276) wiki.ah.swe-fin (956149) wiki.ai.swe-fin (955626) wiki.aj.swe-fin (955760) wiki.ak.swe-fin (955904) wiki.am.swe-fin (956044) wiki.an.swe-fin (956523) wiki.ao.swe-fin (956333) wiki.ap.swe-fin (181476) wikibooks.aa.swe-fin (29237) wikinews.aa.swe-fin (12457) wikiquote.aa.swe-fin (17801) wikisource.aa.swe-fin (956357) 
+validation-data:
+   dan-fin: Tatoeba-dev-v2021-08-07, 1743
+   fin-isl: Tatoeba-dev-v2021-08-07, 1000
+   fin-nno: Tatoeba-dev-v2021-08-07, 401
+   fin-nob: Tatoeba-dev-v2021-08-07, 747
+   fin-swe: Tatoeba-dev-v2021-08-07, 7284
+   total-size-shuffled: 4147
+   devset-selected: top 4147  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   fiskmo_testset.fin-swe: 523/9479
+   Tatoeba-test-v2021-08-07.fin-dan: 2665/16668
+   Tatoeba-test-v2021-08-07.fin-isl: 2/8
+   Tatoeba-test-v2021-08-07.fin-nor: 2488/14764
+   Tatoeba-test-v2021-08-07.fin-swe: 2841/19109
+   Tatoeba-test-v2021-08-07.fin-multi: 5155/31444
+BLEU-scores:
+   fiskmo_testset.fin-swe: 28.5
+   Tatoeba-test-v2021-08-07.fin-dan: 53.7
+   Tatoeba-test-v2021-08-07.fin-isl: 100.0
+   Tatoeba-test-v2021-08-07.fin-nor: 46.7
+   Tatoeba-test-v2021-08-07.fin-swe: 51.9
+   Tatoeba-test-v2021-08-07.fin-multi: 50.9
+chr-F-scores:
+   fiskmo_testset.fin-swe: 0.611
+   Tatoeba-test-v2021-08-07.fin-dan: 0.698
+   Tatoeba-test-v2021-08-07.fin-isl: 1.000
+   Tatoeba-test-v2021-08-07.fin-nor: 0.679
+   Tatoeba-test-v2021-08-07.fin-swe: 0.686
+   Tatoeba-test-v2021-08-07.fin-multi: 0.691

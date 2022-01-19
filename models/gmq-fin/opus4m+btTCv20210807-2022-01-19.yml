@@ -1,0 +1,50 @@
+release: gmq-fin/opus4m+btTCv20210807-2022-01-19.zip
+release-date: 2022-01-19
+dataset-name: opus4m+btTCv20210807
+modeltype: transformer
+vocabulary:
+   source: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+   target: opus4m+btTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - dan
+   - swe
+target-languages:
+   - fin
+raw-source-languages:
+   - dan
+   - swe
+raw-target-languages:
+   - fin
+training-data:
+   dan-fin: Tatoeba-train-v2021-08-07 (4000000) 
+   swe-fin: Tatoeba-train-v2021-08-07 (4000000) wiki.aa (989699) wiki.ab (989731) wiki.ac (989634) wiki.ad (989658) wiki.ae (989664) wiki.af (989751) wiki.ag (989647) wiki.ah (479543) wikibooks.aa (65837) wikinews.aa (21279) wikiquote.aa (32622) wikisource.aa (273429) 
+validation-data:
+   dan-fin: Tatoeba-dev-v2021-08-07, 1743
+   fin-swe: Tatoeba-dev-v2021-08-07, 7284
+   total-size-shuffled: 2000
+   devset-selected: top 2000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.dan-fin: 2665/14297
+   Tatoeba-test-v2021-08-07.isl-fin: 2/8
+   Tatoeba-test-v2021-08-07.nor-fin: 2488/13054
+   Tatoeba-test-v2021-08-07.multi-fin: 2665/14305
+   Tatoeba-test-v2021-08-07.swe-fin: 2841/15615
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.dan-fin: 37.8
+   Tatoeba-test-v2021-08-07.isl-fin: 9.5
+   Tatoeba-test-v2021-08-07.nor-fin: 22.0
+   Tatoeba-test-v2021-08-07.multi-fin: 38.0
+   Tatoeba-test-v2021-08-07.swe-fin: 43.2
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.dan-fin: 0.624
+   Tatoeba-test-v2021-08-07.isl-fin: 0.075
+   Tatoeba-test-v2021-08-07.nor-fin: 0.460
+   Tatoeba-test-v2021-08-07.multi-fin: 0.623
+   Tatoeba-test-v2021-08-07.swe-fin: 0.664
