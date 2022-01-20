@@ -1284,6 +1284,8 @@ For multilingual models, it is a mix of all language pairs
 | [swe-fin/opusTCv20210807+bt](../models/swe-fin) | 0.6885 | 46.3 |
 | [swe-fin/opusTCv20210807+bt](../models/swe-fin) | 0.681 | 45.8 |
 | [swe-fin/opusTCv20210807+bt](../models/swe-fin) | 0.678 | 45.1 |
+| [swe-fin/opusTCv20210807+pbt+bt](../models/swe-fin) | 67.892 | 45.5 |
+| [swe-fin/opusTCv20210807+pbt+bt+pft+ftmono+ft](../models/swe-fin) | 69.013 | 46.4 |
 | [swe-fra/opus](../models/swe-fra) | 0.725 | 58.9 |
 | [swe-fra/opus](../models/swe-fra) | 0.724 | 58.2 |
 | [swe-nld/opus](../models/swe-nld) | 0.904 | 85.0 |

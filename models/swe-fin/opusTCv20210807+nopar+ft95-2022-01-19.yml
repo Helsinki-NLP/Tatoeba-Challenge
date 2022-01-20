@@ -1,0 +1,32 @@
+release: swe-fin/opusTCv20210807+nopar+ft95-2022-01-18.zip
+release-date: 2022-01-18
+dataset-name: opusTCv20210807+nopar+ft95
+modeltype: transformer-tiny11-align
+vocabulary:
+   source: opusTCv20210807+nopar+ft95-sepvoc.spm32k-spm32k.src.vocab
+   target: opusTCv20210807+nopar+ft95-sepvoc.spm32k-spm32k.trg.vocab
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - swe
+target-languages:
+   - fin
+raw-source-languages:
+   - swe
+raw-target-languages:
+   - fin
+training-data:
+   swe-fin: Tatoeba-train.swe.best95.gz (44282057) 
+validation-data:
+   fin-swe: Tatoeba-dev-v2021-08-07, 7284
+   total-size-shuffled: 7284
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   : 0/
+BLEU-scores:
+chr-F-scores:

@@ -5899,6 +5899,8 @@ to be useful for anything.
 | [swe-fin/opus](../models/swe-fin) | tatoeba | 0.669 | 44.4 |
 | [gmq-fiu/opus](../models/gmq-fiu) | tatoeba | 0.638 | 40.6 |
 | [deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m](../models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe) | tatoeba | 0.628 | 39.3 |
+| [swe-fin/opusTCv20210807+pbt+bt+pft+ftmono+ft](../models/swe-fin) | tatoeba-v2021-08-07 | 69.013 | 46.4 |
+| [swe-fin/opusTCv20210807+pbt+bt](../models/swe-fin) | tatoeba-v2021-08-07 | 67.892 | 45.5 |
 | [swe-fin/opusTCv20210807+bt](../models/swe-fin) | tatoeba-v2021-08-07 | 0.6885 | 46.3 |
 | [gmq-fin/opus4m+btTCv20210807](../models/gmq-fin) | tatoeba-v2021-08-07 | 0.664 | 43.2 |
 | | lang = swe-fra | | | | |

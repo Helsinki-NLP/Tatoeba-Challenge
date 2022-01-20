@@ -2887,6 +2887,8 @@ to be useful for anything.
 | [bnt-eng/opus1m+bt](../models/bnt-eng) | tico19-test | 0.530 | 27.7 |
 | [swa-eng/opus](../models/swa-eng) | tico19-test | 0.507 | 26.3 |
 | | lang = swe-fin | | | | |
+| [swe-fin/opusTCv20210807+pbt+bt](../models/swe-fin) | fiskmo_testset | 65.385 | 31.3 |
+| [swe-fin/opusTCv20210807+pbt+bt+pft+ftmono+ft](../models/swe-fin) | fiskmo_testset | 65.317 | 31.0 |
 | [swe-fin/opusTCv20210807+bt](../models/swe-fin) | fiskmo_testset | 0.6536 | 30.8 |
 | [swe-fin/opus](../models/swe-fin) | fiskmo_testset | 0.615 | 26.3 |
 | [gmq-fiu/opus](../models/gmq-fiu) | fiskmo_testset | 0.567 | 20.5 |
