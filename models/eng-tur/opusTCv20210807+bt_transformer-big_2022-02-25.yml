@@ -1,0 +1,46 @@
+release: eng-tur/opusTCv20210807+bt_transformer-big_2022-02-25.zip
+release-date: 2022-02-25
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - tur
+raw-source-languages:
+   - eng
+raw-target-languages:
+   - tur
+training-data:
+   eng-tur: Tatoeba-train-v2021-08-07.eng-tur.strict (101480636) wiki.aa.tur-eng (982691) wiki.ab.tur-eng (982731) wiki.ac.tur-eng (982909) wiki.ad.tur-eng (967196) wikibooks.aa.tur-eng (17035) wikinews.aa.tur-eng (11702) wikiquote.aa.tur-eng (100628) wikisource.aa.tur-eng (277803) 
+validation-data:
+   eng-tur: Tatoeba-dev-v2021-08-07, 628038
+   total-size-shuffled: 628038
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newsdev2016-entr.eng-tur: 1001/16127
+   newstest2016-entr.eng-tur: 3000/50782
+   newstest2017-entr.eng-tur: 3007/51977
+   newstest2018-entr.eng-tur: 3000/53731
+   Tatoeba-test-v2021-08-07.eng-tur: 10000/60634
+BLEU-scores:
+   newsdev2016-entr.eng-tur: 23.4
+   newstest2016-entr.eng-tur: 23.4
+   newstest2017-entr.eng-tur: 25.4
+   newstest2018-entr.eng-tur: 22.6
+   Tatoeba-test-v2021-08-07.eng-tur: 42.3
+chr-F-scores:
+   newsdev2016-entr.eng-tur: 0.59349
+   newstest2016-entr.eng-tur: 0.57623
+   newstest2017-entr.eng-tur: 0.58858
+   newstest2018-entr.eng-tur: 0.57863
+   Tatoeba-test-v2021-08-07.eng-tur: 0.68784

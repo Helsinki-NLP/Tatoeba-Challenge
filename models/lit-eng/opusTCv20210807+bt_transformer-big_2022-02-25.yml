@@ -1,0 +1,40 @@
+release: lit-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip
+release-date: 2022-02-25
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - lit
+target-languages:
+   - eng
+raw-source-languages:
+   - lit
+raw-target-languages:
+   - eng
+training-data:
+   lit-eng: Tatoeba-train-v2021-08-07.eng-lit.strict (48129308) wikibooks.aa (992487) wikinews.aa (457227) wikipedia.aa (983219) wikipedia.ab (983375) wikipedia.ac (983375) wikipedia.ad (983136) wikiquote.aa (996891) 
+validation-data:
+   eng-lit: Tatoeba-dev-v2021-08-07, 5547
+   total-size-shuffled: 5547
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newsdev2019-enlt.lit-eng: 2000/49666
+   newstest2019-lten.lit-eng: 1000/26079
+   Tatoeba-test-v2021-08-07.lit-eng: 2528/17855
+BLEU-scores:
+   newsdev2019-enlt.lit-eng: 33.4
+   newstest2019-lten.lit-eng: 33.5
+   Tatoeba-test-v2021-08-07.lit-eng: 61.6
+chr-F-scores:
+   newsdev2019-enlt.lit-eng: 0.60185
+   newstest2019-lten.lit-eng: 0.62172
+   Tatoeba-test-v2021-08-07.lit-eng: 0.74894

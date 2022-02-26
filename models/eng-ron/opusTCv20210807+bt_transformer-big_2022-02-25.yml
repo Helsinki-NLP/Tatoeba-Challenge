@@ -1,0 +1,44 @@
+release: eng-ron/opusTCv20210807+bt_transformer-big_2022-02-25.zip
+release-date: 2022-02-25
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - mol
+   - ron
+raw-source-languages:
+   - eng
+raw-target-languages:
+   - mol
+   - ron
+use-target-labels:
+training-data:
+   eng-mol: Tatoeba-train-v2021-08-07.eng-mol.strict (27) 
+   eng-ron: Tatoeba-train-v2021-08-07.eng-ron.strict (132093289) wiki.aa.ron-eng (955315) wiki.ab.ron-eng (955189) wiki.ac.ron-eng (955103) wiki.ad.ron-eng (425254) wikibooks.aa.ron-eng (7285) wikinews.aa.ron-eng (11336) wikiquote.aa.ron-eng (8822) wikisource.aa.ron-eng (792617) 
+validation-data:
+   eng-ron: Tatoeba-dev-v2021-08-07, 9590
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newsdev2016-enro.eng-ron: 1999/51566
+   newstest2016-enro.eng-ron: 1999/49094
+   Tatoeba-test-v2021-08-07.eng-multi: 5508/40367
+BLEU-scores:
+   newsdev2016-enro.eng-ron: 36.9
+   newstest2016-enro.eng-ron: 34.3
+   Tatoeba-test-v2021-08-07.eng-multi: 48.6
+chr-F-scores:
+   newsdev2016-enro.eng-ron: 0.62849
+   newstest2016-enro.eng-ron: 0.60802
+   Tatoeba-test-v2021-08-07.eng-multi: 0.68634
