@@ -15,8 +15,8 @@ to be useful for anything.
 | | lang = eng-kaz | | | | |
 | [eng-kaz/opusTCv20210807+bt](../models/eng-kaz) | tatoeba-v2021-08-07 | 0.492 | 20.7 |
 | | lang = eng-mlt | | | | |
-| [eng-mlt/opusTCv20210807+bt_transformer_2022-02-26.zip](../models/eng-mlt) | tatoeba-v2021-08-07 | 0.60257 | 29.2 |
-| [eng-mlt/opusTCv20210807+bt_transformer-big_2022-02-25.zip](../models/eng-mlt) | tatoeba-v2021-08-07 | 0.58175 | 26.6 |
+| [eng-mlt/opusTCv20210807+bt_transformer](../models/eng-mlt) | tatoeba-v2021-08-07 | 0.60257 | 29.2 |
+| [eng-mlt/opusTCv20210807+bt_transformer-big](../models/eng-mlt) | tatoeba-v2021-08-07 | 0.58175 | 26.6 |
 | | lang = gle-eng | | | | |
 | [cel-eng/opus4m+btTCv20210807](../models/cel-eng) | tatoeba-v2021-08-07 | 0.635 | 46.7 |
 | | lang = heb-epo | | | | |

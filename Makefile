@@ -1586,7 +1586,7 @@ OPUS_MT_RAW = https://raw.githubusercontent.com/Helsinki-NLP/OPUS-MT-train/maste
 tatoeba-results-all: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
 	xargs scripts/get-model-scores.pl -s 200 |\
-	sed 's/[\-\_]....-..-..\.zip//' |\
+	sed 's/[-_]....-..-..\.zip//' |\
 	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u |\
 	grep -v '	multi-' | grep -v -- '-multi	' > $@
 
@@ -1596,7 +1596,7 @@ tatoeba-results-${VERSION}: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
 	xargs scripts/get-model-scores.pl -s 200 |\
 	grep 'Tatoeba-test-${VERSION}' | \
-	sed 's/[\-\_]....-..-..\.zip//' |\
+	sed 's/[-_]....-..-..\.zip//' |\
 	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u |\
 	grep -v '	multi-' | grep -v -- '-multi	' > $@
 
@@ -1605,7 +1605,7 @@ tatoeba-results-tatoeba: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
 	xargs scripts/get-model-scores.pl -s 200 |\
 	grep 'Tatoeba-test' | \
-	sed 's/[\-\_]....-..-..\.zip//' |\
+	sed 's/[-_]....-..-..\.zip//' |\
 	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
 
 ## non-Tatoeba test sets
@@ -1613,14 +1613,14 @@ tatoeba-results-other: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
 	xargs scripts/get-model-scores.pl -s 200 |\
 	grep -v 'Tatoeba-test' | \
-	sed 's/[\-\_]....-..-..\.zip//' |\
+	sed 's/[-_]....-..-..\.zip//' |\
 	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
 
 
 tatoeba-models-all: ${TATOEBA_YAML}
 	find models -name '*.yml' | \
 	xargs scripts/get-model-scores.pl -t |\
-	sed 's/[\-\_]....-..-..\.zip//' |\
+	sed 's/[-_]....-..-..\.zip//' |\
 	sort -r | sort -k1,1 -k2,2 -k3,3 -k4,4nr -k5,5nr -u > $@
 
 
