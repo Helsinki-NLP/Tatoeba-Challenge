@@ -14,6 +14,8 @@ to be useful for anything.
 | [afa-sem/opus4m+btTCv20210807](../models/afa-sem) | tatoeba-v2021-08-07 | 0.532 | 32.3 |
 | | lang = ara-tur | | | | |
 | [afa-tut/opus4m+btTCv20210807](../models/afa-tut) | tatoeba-v2021-08-07 | 0.535 | 24.3 |
+| | lang = bel-eng | | | | |
+| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.64466 | 47.3 |
 | | lang = bos_Latn-eng | | | | |
 | [hbs-eng/opusTCv20210807+bt_transformer-big](../models/hbs-eng) | tatoeba-v2021-08-07 | 0.80006 | 66.4 |
 | | lang = bre-eng | | | | |
@@ -147,10 +149,14 @@ to be useful for anything.
 | [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | tatoeba-v2021-08-07 | 0.695 | 54.6 |
 | | lang = nor-fin | | | | |
 | [gmq-fin/opus4m+btTCv20210807](../models/gmq-fin) | tatoeba-v2021-08-07 | 0.460 | 22.0 |
+| | lang = orv-eng | | | | |
+| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.28505 | 14.5 |
 | | lang = pol-fin | | | | |
 | [zlw-fin/opus4m+btTCv20210807](../models/zlw-fin) | tatoeba-v2021-08-07 | 0.149 | 2.7 |
 | | lang = prg-eng | | | | |
 | [bat-eng/opus4m+btTCv20210807](../models/bat-eng) | tatoeba-v2021-08-07 | 0.158 | 1.3 |
+| | lang = rus-eng | | | | |
+| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.70931 | 56.6 |
 | | lang = rus-fin | | | | |
 | [rus-fin/opus+bt](../models/rus-fin) | tatoeba-v2021-08-07 | 0.656 | 41.4 |
 | | lang = srp_Cyrl-eng | | | | |
@@ -164,6 +170,8 @@ to be useful for anything.
 | [swe-fin/opusTCv20210807+pbt+bt](../models/swe-fin) | tatoeba-v2021-08-07 | 67.892 | 45.5 |
 | [swe-fin/opusTCv20210807+bt](../models/swe-fin) | tatoeba-v2021-08-07 | 0.6885 | 46.3 |
 | [gmq-fin/opus4m+btTCv20210807](../models/gmq-fin) | tatoeba-v2021-08-07 | 0.664 | 43.2 |
+| | lang = ukr-eng | | | | |
+| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.70441 | 55.8 |
 | | lang = vie-eng | | | | |
 | [aav-eng/opus4m+btTCv20210807](../models/aav-eng) | tatoeba-v2021-08-07 | 0.585 | 40.2 |
 | | lang = vie-epo | | | | |

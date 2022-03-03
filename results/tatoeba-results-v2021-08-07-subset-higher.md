@@ -8,6 +8,8 @@ to be useful for anything.
 |:--|---|--:|--:|
 | | lang = ara-epo | | | | |
 | [afa-art/opus4m+btTCv20210807](../models/afa-art) | tatoeba-v2021-08-07 | 0.586 | 36.9 |
+| | lang = bel-eng | | | | |
+| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.64466 | 47.3 |
 | | lang = bre-eng | | | | |
 | [cel-eng/opus4m+btTCv20210807](../models/cel-eng) | tatoeba-v2021-08-07 | 0.469 | 30.2 |
 | | lang = cym-eng | | | | |
