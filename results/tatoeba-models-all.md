@@ -614,6 +614,9 @@ For multilingual models, it is a mix of all language pairs
 | [eng-uig/opus](../models/eng-uig) | 0.127 | 0.0 |
 | [eng-ukr/opus](../models/eng-ukr) | 0.594 | 38.5 |
 | [eng-ukr/opus+bt](../models/eng-ukr) | 0.597 | 38.9 |
+| [eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/eng-ukr) | 0.59552 | 38.0 |
+| [eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/eng-ukr) | 0.58950 | 37.1 |
+| [eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/eng-ukr) | 0.58945 | 37.1 |
 | [eng-urd/opus](../models/eng-urd) | 0.390 | 12.1 |
 | [eng-urd/opus+bt](../models/eng-urd) | 0.435 | 16.2 |
 | [eng-urj/opus](../models/eng-urj) | 0.572 | 33.3 |

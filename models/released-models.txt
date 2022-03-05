@@ -614,6 +614,9 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tut/opus2m-2020-08-02.zip	eng-
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-uig/opus-2020-09-10.zip	eng-uig	en-ug	0.127	0.0	English	Uighur
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opus+bt-2021-04-14.zip	eng-ukr	en-uk	0.597	38.9	English	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opus-2021-02-19.zip	eng-ukr	en-uk	0.594	38.5	English	Ukrainian
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	eng-ukr	en-uk	0.59552	38.0	English	Ukrainian
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	eng-ukr	en-uk	0.58950	37.1	English	Ukrainian
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	eng-ukr	en-uk	0.58945	37.1	English	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus+bt-2021-03-12.zip	eng-urd	en-ur	0.435	16.2	English	Urdu
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus-2021-02-18.zip	eng-urd	en-ur	0.390	12.1	English	Urdu
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urj/opus-2020-07-27.zip	eng-urj	en-urj	0.572	33.3	English	Uralic languages

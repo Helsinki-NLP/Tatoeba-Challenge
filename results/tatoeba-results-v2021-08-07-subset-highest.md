@@ -59,6 +59,10 @@ to be useful for anything.
 | [eng-tha/opus+bt](../models/eng-tha) | tatoeba-v2021-08-07 | 0.546 | 1.5 |
 | | lang = eng-tur | | | | |
 | [eng-tur/opusTCv20210807+bt_transformer-big](../models/eng-tur) | tatoeba-v2021-08-07 | 0.68784 | 42.3 |
+| | lang = eng-ukr | | | | |
+| [eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/eng-ukr) | tatoeba-v2021-08-07 | 0.59552 | 38.0 |
+| [eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/eng-ukr) | tatoeba-v2021-08-07.intgemm8 | 0.58950 | 37.1 |
+| [eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/eng-ukr) | tatoeba-v2021-08-07.intgemm8.shortlist | 0.58945 | 37.1 |
 | | lang = eus-eng | | | | |
 | [eus-eng/opusTCv20210807+bt_transformer-big](../models/eus-eng) | tatoeba-v2021-08-07 | 0.68951 | 53.6 |
 | | lang = fin-dan | | | | |

@@ -74,6 +74,9 @@ eng-mlt	0.58175	26.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mlt/opusT
 eng-tha	0.561	4.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tha/opusTCv20210807+bt-2021-11-06.zip	1154	1603
 eng-tha	0.546	1.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tha/opus+bt-2021-11-02.zip	1154	1603
 eng-tur	0.68784	42.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-tur/opusTCv20210807+bt_transformer-big_2022-02-25.zip	10000	60634
+eng-ukr	0.59552	38.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	10000	61857
+eng-ukr	0.58950	37.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	10000	61857
+eng-ukr	0.58945	37.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	10000	61857
 enm-eng	0.439	19.4	https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-eng/opus4m+btTCv20210807-2021-09-30.zip	67	462
 est-fin	0.737	55.9	https://object.pouta.csc.fi/Tatoeba-MT-models/est-fin/opus-2022-01-19.zip	190	970
 eus-eng	0.68951	53.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eus-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	1060	8157
