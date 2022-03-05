@@ -1,0 +1,58 @@
+release: eng-fin/opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.zip
+release-date: 2022-01-27
+dataset-name: opusTCv20210807+nopar+ft95
+modeltype: transformer-tiny11-align
+vocabulary:
+   source: opusTCv20210807+nopar+ft95-jointvoc.jointspm32k-jointspm32k.src.vocab
+   target: opusTCv20210807+nopar+ft95-jointvoc.jointspm32k-jointspm32k.trg.vocab
+pre-processing: normalization + SentencePiece (jointspm32k,jointspm32k)
+subwords:
+   source: jointspm32k
+   target: jointspm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - fin
+raw-source-languages:
+   - eng
+raw-target-languages:
+   - fin
+training-data:
+   eng-fin: Tatoeba-train.eng.best95.gz (77442626) 
+validation-data:
+   eng-fin: Tatoeba-dev-v2021-08-07, 67377
+   total-size-shuffled: 67377
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newsdev2015-enfi.eng-fin: 1500/23375
+   newstest2015-enfi.eng-fin: 1370/19968
+   newstest2016-enfi.eng-fin: 3000/48116
+   newstest2017-enfi.eng-fin: 3002/45718
+   newstest2018-enfi.eng-fin: 3000/45475
+   newstest2019-enfi.eng-fin: 1997/38369
+   newstestB2016-enfi.eng-fin: 3000/45766
+   newstestB2017-enfi.eng-fin: 3002/45506
+   Tatoeba-test-v2021-08-07.eng-fin: 10000/60832
+BLEU-scores:
+   newsdev2015-enfi.eng-fin: 19.7
+   newstest2015-enfi.eng-fin: 21.9
+   newstest2016-enfi.eng-fin: 23.9
+   newstest2017-enfi.eng-fin: 26.4
+   newstest2018-enfi.eng-fin: 17.0
+   newstest2019-enfi.eng-fin: 22.6
+   newstestB2016-enfi.eng-fin: 18.6
+   newstestB2017-enfi.eng-fin: 21.3
+   Tatoeba-test-v2021-08-07.eng-fin: 36.6
+chr-F-scores:
+   newsdev2015-enfi.eng-fin: 0.54291
+   newstest2015-enfi.eng-fin: 0.56107
+   newstest2016-enfi.eng-fin: 0.57192
+   newstest2017-enfi.eng-fin: 0.59879
+   newstest2018-enfi.eng-fin: 0.52230
+   newstest2019-enfi.eng-fin: 0.55070
+   newstestB2016-enfi.eng-fin: 0.53394
+   newstestB2017-enfi.eng-fin: 0.55568
+   Tatoeba-test-v2021-08-07.eng-fin: 0.62561
