@@ -1417,6 +1417,7 @@ to be useful for anything.
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.450 | 23.4 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.448 | 23.1 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.445 | 23.8 |
+| [deu-ukr/opusTCv20210807+pbt_transformer-align](../models/deu-ukr) | tatoeba-v2021-08-07 | 0.61779 | 39.1 |
 | | lang = deu-vie | | | | |
 | [deu-vie/opus](../models/deu-vie) | tatoeba | 0.443 | 25.0 |
 | | lang = deu-yid | | | | |

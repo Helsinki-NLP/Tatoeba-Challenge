@@ -1072,6 +1072,7 @@ deu-tur	0.456	18.9	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/op
 deu-tur	0.448	18.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	5000	23099
 deu-ukr	0.612	40.2	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opus-2021-02-18.zip	10000	54213
 deu-ukr	0.606	39.5	https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-19.zip	10000	54052
+deu-ukr	0.61779	39.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+pbt_transformer-align_2022-03-07.zip	10000	54528
 deu-ukr	0.489	27.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10000	42440
 deu-ukr	0.472	25.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10000	42440
 deu-ukr	0.445	23.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	10000	42440

@@ -224,6 +224,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/dan-rus/opus-2021-02-18.zip	dan-ru
 https://object.pouta.csc.fi/Tatoeba-MT-models/dan-spa/opus-2021-02-18.zip	dan-spa	da-es	0.718	53.8	Danish	Spanish
 https://object.pouta.csc.fi/Tatoeba-MT-models/dan-swe/opus-2021-02-19.zip	dan-swe	da-sv	0.832	72.1	Danish	Swedish
 https://object.pouta.csc.fi/Tatoeba-MT-models/dan-tur/opus-2021-02-18.zip	dan-tur	da-tr	0.662	40.5	Danish	Turkish
+https://object.pouta.csc.fi/Tatoeba-MT-models/dan-ukr/opusTCv20210807+pbt_transformer-align_2022-03-07.zip	dan-ukr	da-uk	0.71901	52.6	Danish	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe	deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe	0.647	46.9	unknown	unknown
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-eng/opus1m-2021-02-22.zip	deu+eng+fin+fra+nld+swe-eng	deu+eng+fin+fra+nld+swe-en	0.687	53.2	unknown	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-afr/opus-2021-02-19.zip	deu-afr	de-af	0.690	51.3	German	Afrikaans
@@ -272,6 +273,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2020-06-17.zip	deu-tg
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2021-02-23.zip	deu-tgl	de-tl	0.425	12.9	German	Tagalog
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tur/opusTCv20210807-2021-10-22.zip	deu-tur	de-tr	0.644	35.6	German	Turkish
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opus-2021-02-18.zip	deu-ukr	de-uk	0.612	40.2	German	Ukrainian
+https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+pbt_transformer-align_2022-03-07.zip	deu-ukr	de-uk	0.61779	39.1	German	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-vie/opus-2021-02-19.zip	deu-vie	de-vi	0.443	25.0	German	Vietnamese
 https://object.pouta.csc.fi/Tatoeba-MT-models/deu-zho/opus-2021-02-23.zip	deu-zho	de-zh	0.275	32.4	German	Chinese
 https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	dra-dra	dra-dra	0.486	26.8	Dravidian languages	Dravidian languages
@@ -745,6 +747,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-08
 https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-11-09.zip	fin-swe	fi-sv	0.713	55.6	Finnish	Swedish
 https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-12-08.zip	fin-swe	fi-sv	0.7185	56.0	Finnish	Swedish
 https://object.pouta.csc.fi/Tatoeba-MT-models/fin-tur/opus+bt-2021-03-21.zip	fin-tur	fi-tr	0.613	31.2	Finnish	Turkish
+https://object.pouta.csc.fi/Tatoeba-MT-models/fin-ukr/opusTCv20210807+pbt_transformer-align_2022-03-07.zip	fin-ukr	fi-uk	0.58239	40.1	Finnish	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zho/opus-2021-05-15.zip	fin-zho	fi-zh	0.597	37.6	Finnish	Chinese
 https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zle/opus4m+btTCv20210807-2022-01-19.zip	fin-zle	fi-zle	0.663	45.8	Finnish	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zlw/opus4m+btTCv20210807-2022-01-19.zip	fin-zlw	fi-zlw	0.660	47.4	Finnish	West Slavic languages
@@ -1318,6 +1321,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/swe-nld/opus-2021-02-22.zip	swe-nl
 https://object.pouta.csc.fi/Tatoeba-MT-models/swe-nor/opus-2020-06-17.zip	swe-nor	sv-no	0.796	65.8	Swedish	Norwegian
 https://object.pouta.csc.fi/Tatoeba-MT-models/swe-nor/opus-2021-02-23.zip	swe-nor	sv-no	0.843	73.6	Swedish	Norwegian
 https://object.pouta.csc.fi/Tatoeba-MT-models/swe-rus/opus-2021-02-18.zip	swe-rus	sv-ru	0.655	45.9	Swedish	Russian
+https://object.pouta.csc.fi/Tatoeba-MT-models/swe-ukr/opusTCv20210807+pbt_transformer-align_2022-03-07.zip	swe-ukr	sv-uk	0.70141	39.6	Swedish	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/swe-zho/opus-2021-05-16.zip	swe-zho	sv-zh	0.335	40.1	Swedish	Chinese
 https://object.pouta.csc.fi/Tatoeba-MT-models/tai-fiu/opus-2021-02-18.zip	tai-fiu	tai-fiu	0.170	10.7	Tai languages	Finno-Ugrian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/tam-eng/opus+bt-2021-04-30.zip	tam-eng	ta-en	0.436	26.7	Tamil	English
@@ -1370,6 +1374,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/tur-spa/opus-2021-02-18.zip	tur-sp
 https://object.pouta.csc.fi/Tatoeba-MT-models/tur-tat/opus-2020-09-10.zip	tur-tat	tr-tt	0.221	2.5	Turkish	Tatar
 https://object.pouta.csc.fi/Tatoeba-MT-models/tur-uig/opus-2020-09-10.zip	tur-uig	tr-ug	0.126	0.0	Turkish	Uighur
 https://object.pouta.csc.fi/Tatoeba-MT-models/tur-ukr/opus-2021-02-18.zip	tur-ukr	tr-uk	0.624	42.5	Turkish	Ukrainian
+https://object.pouta.csc.fi/Tatoeba-MT-models/tur-ukr/opusTCv20210807+pbt_transformer-align_2022-03-07.zip	tur-ukr	tr-uk	0.63559	40.4	Turkish	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/tur-uzb/opus-2020-09-10.zip	tur-uzb	tr-uz	0.143	0.5	Turkish	Uzbek
 https://object.pouta.csc.fi/Tatoeba-MT-models/tut-eng/opus4m-2020-08-12.zip	tut-eng	tut-en	0.296	10.6	Altaic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/tut-fiu/opus-2021-02-18.zip	tut-fiu	tut-fiu	0.514	27.2	Altaic languages	Finno-Ugrian languages
@@ -1383,11 +1388,16 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bel/opus-2020-09-10.zip	ukr-be
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bul/opus-2021-02-18.zip	ukr-bul	uk-bg	0.734	55.7	Ukrainian	Bulgarian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-cat/opus-2021-02-19.zip	ukr-cat	uk-ca	0.538	33.7	Ukrainian	Catalan
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ces/opus-2021-02-19.zip	ukr-ces	uk-cs	0.686	52.0	Ukrainian	Czech
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-dan/opusTCv20210807+pft_transformer-align_2022-03-07.zip	ukr-dan	uk-da	0.92589	86.7	Ukrainian	Danish
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opus-2021-02-18.zip	ukr-deu	uk-de	0.661	48.2	Ukrainian	German
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+pft_transformer-align_2022-03-06.zip	ukr-deu	uk-de	0.69211	52.2	Ukrainian	German
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opus+bt-2021-04-30.zip	ukr-eng	uk-en	0.675	52.2	Ukrainian	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opus-2021-02-19.zip	ukr-eng	uk-en	0.670	51.7	Ukrainian	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	ukr-eng	uk-en	0.67210	51.4	Ukrainian	English
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	ukr-eng	uk-en	0.66282	50.2	Ukrainian	English
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	ukr-eng	uk-en	0.66250	50.1	Ukrainian	English
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	ukr-eng	uk-en	0.65763	49.6	Ukrainian	English
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	ukr-eng	uk-en	0.65743	49.6	Ukrainian	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-fin/opusTCv20210807+pft_transformer-align_2022-03-07.zip	ukr-fin	uk-fi	0.65601	44.7	Ukrainian	Finnish
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-fra/opus-2021-02-19.zip	ukr-fra	uk-fr	0.637	46.4	Ukrainian	French
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hbs/opus-2020-06-17.zip	ukr-hbs	uk-sh	0.631	42.8	Ukrainian	Serbo-Croatian
@@ -1404,7 +1414,9 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-por/opus-2021-02-23.zip	ukr-po
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-rus/opus-2021-02-19.zip	ukr-rus	uk-ru	0.826	69.2	Ukrainian	Russian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-slv/opus-2021-02-19.zip	ukr-slv	uk-sl	0.280	11.8	Ukrainian	Slovenian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-spa/opus-2021-02-19.zip	ukr-spa	uk-es	0.649	46.4	Ukrainian	Spanish
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-swe/opusTCv20210807+pft_transformer-align_2022-03-07.zip	ukr-swe	uk-sv	0.65967	38.9	Ukrainian	Swedish
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-tur/opus-2021-02-19.zip	ukr-tur	uk-tr	0.655	39.3	Ukrainian	Turkish
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-tur/opusTCv20210807+pft_transformer-align_2022-03-07.zip	ukr-tur	uk-tr	0.70946	45.2	Ukrainian	Turkish
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-zho/opus-2020-09-10.zip	ukr-zho	uk-zh	0.090	9.1	Ukrainian	Chinese
 https://object.pouta.csc.fi/Tatoeba-MT-models/urd-eng/opus+bt-2021-04-30.zip	urd-eng	ur-en	0.460	25.4	Urdu	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/urd-eng/opus-2021-02-18.zip	urd-eng	ur-en	0.435	23.2	Urdu	English
