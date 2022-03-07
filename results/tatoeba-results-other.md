@@ -241,9 +241,11 @@ to be useful for anything.
 | [ces-ita/opus](../models/ces-ita) | newstest2009 | 0.547 | 24.1 |
 | [ine-ine/opus](../models/ine-ine) | newstest2009 | 0.454 | 14.9 |
 | | lang = ces-rus | | | | |
+| [zlw-zle/opusTCv20210807+bt_transformer-big](../models/zlw-zle) | newstest2012 | 0.49166 | 20.6 |
 | [ces-rus/opus](../models/ces-rus) | newstest2012 | 0.470 | 19.4 |
 | [sla-sla/opus](../models/sla-sla) | newstest2012 | 0.441 | 16.0 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.379 | 11.2 |
+| [zlw-zle/opusTCv20210807+bt_transformer-big](../models/zlw-zle) | newstest2013 | 0.53763 | 26.8 |
 | [ces-rus/opus](../models/ces-rus) | newstest2013 | 0.507 | 23.9 |
 | [sla-sla/opus](../models/sla-sla) | newstest2013 | 0.474 | 19.7 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.406 | 13.6 |
@@ -2588,9 +2590,11 @@ to be useful for anything.
 | [mul-eng/opus2m](../models/mul-eng) | newstest2016 | 0.562 | 29.6 |
 | [ine-ine/opus](../models/ine-ine) | newstest2016 | 0.522 | 24.9 |
 | | lang = rus-ces | | | | |
+| [zle-zlw/opusTCv20210807+bt_transformer-big](../models/zle-zlw) | newstest2012 | 0.45445 | 18.3 |
 | [rus-ces/opus](../models/rus-ces) | newstest2012 | 0.427 | 15.4 |
 | [sla-sla/opus](../models/sla-sla) | newstest2012 | 0.403 | 13.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.340 | 9.0 |
+| [zle-zlw/opusTCv20210807+bt_transformer-big](../models/zle-zlw) | newstest2013 | 0.51932 | 25.4 |
 | [rus-ces/opus](../models/rus-ces) | newstest2013 | 0.476 | 20.9 |
 | [sla-sla/opus](../models/sla-sla) | newstest2013 | 0.449 | 17.9 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.376 | 11.6 |

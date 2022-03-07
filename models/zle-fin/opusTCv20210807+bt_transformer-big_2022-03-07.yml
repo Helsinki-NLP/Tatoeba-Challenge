@@ -1,0 +1,44 @@
+release: zle-fin/opusTCv20210807+bt_transformer-big_2022-03-07.zip
+release-date: 2022-03-07
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - rus
+   - ukr
+target-languages:
+   - fin
+raw-source-languages:
+   - rus
+   - ukr
+raw-target-languages:
+   - fin
+training-data:
+   rus-fin: Tatoeba-train-v2021-08-07.fin-rus.strict (24014760) wiki.aa (985694) wiki.ab (985796) wiki.ac (985642) wiki.ad (985616) wiki.ae (985581) wiki.af (985656) wiki.ag (985725) wiki.ah (477504) wikibooks.aa (65564) wikinews.aa (21217) wikiquote.aa (32516) wikisource.aa (271882) 
+   ukr-fin: Tatoeba-train-v2021-08-07.fin-ukr.strict (5400101) 
+validation-data:
+   fin-rus: Tatoeba-dev-v2021-08-07, 1004
+   fin-ukr: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 2000
+   devset-selected: top 2000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.multi-fin: 3676/19510
+   Tatoeba-test-v2021-08-07.rus-fin: 3643/19307
+   Tatoeba-test-v2021-08-07.ukr-fin: 33/191
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.multi-fin: 42.3
+   Tatoeba-test-v2021-08-07.rus-fin: 42.1
+   Tatoeba-test-v2021-08-07.ukr-fin: 48.5
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.multi-fin: 0.66361
+   Tatoeba-test-v2021-08-07.rus-fin: 0.66265
+   Tatoeba-test-v2021-08-07.ukr-fin: 0.67641

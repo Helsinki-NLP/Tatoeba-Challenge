@@ -1372,8 +1372,10 @@ For multilingual models, it is a mix of all language pairs
 | [ukr-cat/opus](../models/ukr-cat) | 0.538 | 33.7 |
 | [ukr-ces/opus](../models/ukr-ces) | 0.686 | 52.0 |
 | [ukr-deu/opus](../models/ukr-deu) | 0.661 | 48.2 |
+| [ukr-deu/opusTCv20210807+pft_transformer-align](../models/ukr-deu) | 0.69211 | 52.2 |
 | [ukr-eng/opus](../models/ukr-eng) | 0.670 | 51.7 |
 | [ukr-eng/opus+bt](../models/ukr-eng) | 0.675 | 52.2 |
+| [ukr-fin/opusTCv20210807+pft_transformer-align](../models/ukr-fin) | 0.65601 | 44.7 |
 | [ukr-fra/opus](../models/ukr-fra) | 0.637 | 46.4 |
 | [ukr-hbs/opus](../models/ukr-hbs) | 0.643 | 44.5 |
 | [ukr-hbs/opus](../models/ukr-hbs) | 0.631 | 42.8 |
@@ -1450,6 +1452,7 @@ For multilingual models, it is a mix of all language pairs
 | [zle-eng/opus2m](../models/zle-eng) | 0.656 | 50.1 |
 | [zle-eng/opus4m](../models/zle-eng) | 0.660 | 50.7 |
 | [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | 0.70282 | 55.6 |
+| [zle-fin/opusTCv20210807+bt_transformer-big](../models/zle-fin) | 0.66361 | 42.3 |
 | [zle-fiu/opus](../models/zle-fiu) | 0.464 | 26.5 |
 | [zle-gmw/opus1m](../models/zle-gmw) | 0.655 | 48.9 |
 | [zle-gmw/opus-tuned4bel2deu](../models/zle-gmw) | 0.636 | 46.9 |
@@ -1470,6 +1473,8 @@ For multilingual models, it is a mix of all language pairs
 | [zle-zle/opus](../models/zle-zle) | 0.730 | 55.0 |
 | [zle-zle/opus](../models/zle-zle) | 0.656 | 47.5 |
 | [zle-zle/opus](../models/zle-zle) | 0.655 | 47.5 |
+| [zle-zle/opusTCv20210807+bt_transformer-big](../models/zle-zle) | 0.81487 | 67.9 |
+| [zle-zlw/opusTCv20210807+bt_transformer-big](../models/zle-zlw) | 0.71877 | 54.3 |
 | [zls-eng/opus](../models/zls-eng) | 0.671 | 52.8 |
 | [zls-eng/opus](../models/zls-eng) | 0.668 | 52.5 |
 | [zls-eng/opus](../models/zls-eng) | 0.648 | 50.5 |
@@ -1491,6 +1496,7 @@ For multilingual models, it is a mix of all language pairs
 | [zlw-eng/opus4m+btTCv20210807](../models/zlw-eng) | 0.666 | 50.4 |
 | [zlw-fin/opus4m+btTCv20210807](../models/zlw-fin) | 0.764 | 64.6 |
 | [zlw-fiu/opus](../models/zlw-fiu) | 0.616 | 39.4 |
+| [zlw-zle/opusTCv20210807+bt_transformer-big](../models/zlw-zle) | 0.70695 | 52.8 |
 | [zlw-zlw/opus](../models/zlw-zlw) | 0.633 | 45.2 |
 | [zlw-zlw/opus](../models/zlw-zlw) | 0.592 | 40.2 |
 | [zlw-zlw/opus](../models/zlw-zlw) | 0.580 | 38.8 |
