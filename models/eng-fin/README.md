@@ -31,6 +31,8 @@
 
 
 
+
+
 # opus+bt-2021-03-09.zip
 
 * dataset: opus+bt
@@ -56,6 +58,8 @@
 | newstestB2016-enfi.eng-fin 	| 21.3 	| 0.558 	| 3000 	| 45766 	| 1.000 |
 | newstestB2017-enfi.eng-fin 	| 24.5 	| 0.583 	| 3002 	| 45506 	| 0.987 |
 | Tatoeba-test.eng-fin 	| 38.7 	| 0.633 	| 10000 	| 60517 	| 0.936 |
+
+
 
 
 
@@ -88,6 +92,8 @@
 
 
 
+
+
 # opusTCv20210807+bt-2021-11-08.zip
 
 * dataset: opusTCv20210807+bt
@@ -114,6 +120,8 @@
 | newstest2019-enfi.eng-fin 	| 26.5 	| 0.581 	| 1997 	| 38369 	| 0.965 |
 | newstestB2016-enfi.eng-fin 	| 22.3 	| 0.568 	| 3000 	| 45766 	| 1.000 |
 | Tatoeba-test-v2021-08-07.eng-fin 	| 39.9 	| 0.643 	| 10000 	| 60797 	| 0.949 |
+
+
 
 
 # opusTCv20210807+bt-2021-12-08.zip
@@ -143,4 +151,63 @@
 | newstestB2016-enfi.eng-fin 	| 23.4 	| 0.5758 	| 3000 	| 45766 	| 1.000 |
 | newstestB2017-enfi.eng-fin 	| 27.3 	| 0.6051 	| 3002 	| 45506 	| 0.998 |
 | Tatoeba-test-v2021-08-07.eng-fin 	| 38.9 	| 0.6385 	| 10000 	| 60797 	| 0.941 |
+
+
+
+# opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-01-25.zip
+
+* dataset: opusTCv20210807+nopar+ft95
+* model: transformer-tiny11-align
+* source language(s): eng
+* target language(s): fin
+* raw source language(s): eng
+* raw target language(s): fin
+* model: transformer-tiny11-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-01-25.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-01-25.zip)
+* test set translations: [opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-01-25.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-01-25.test.txt)
+* test set scores: [opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-01-25.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-01-25.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newsdev2015-enfi.eng-fin 	| 21.9 	| 0.55580 	| 1500 	| 23375 	| 1.000 |
+| newstest2015-enfi.eng-fin 	| 24.3 	| 0.57289 	| 1370 	| 19968 	| 1.000 |
+| newstest2016-enfi.eng-fin 	| 25.4 	| 0.58308 	| 3000 	| 48116 	| 0.984 |
+| newstest2017-enfi.eng-fin 	| 27.8 	| 0.60846 	| 3002 	| 45718 	| 0.988 |
+| newstest2018-enfi.eng-fin 	| 18.1 	| 0.53004 	| 3000 	| 45475 	| 1.000 |
+| newstest2019-enfi.eng-fin 	| 23.4 	| 0.55649 	| 1997 	| 38369 	| 0.954 |
+| newstestB2016-enfi.eng-fin 	| 20.1 	| 0.54516 	| 3000 	| 45766 	| 1.000 |
+| newstestB2017-enfi.eng-fin 	| 22.9 	| 0.56756 	| 3002 	| 45506 	| 0.992 |
+| Tatoeba-test-v2021-08-07.eng-fin 	| 37.5 	| 0.62702 	| 10000 	| 60832 	| 0.952 |
+
+
+# opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.zip
+
+* dataset: opusTCv20210807+nopar+ft95
+* model: transformer-tiny11-align
+* source language(s): eng
+* target language(s): fin
+* raw source language(s): eng
+* raw target language(s): fin
+* model: transformer-tiny11-align
+* pre-processing: normalization + SentencePiece (jointspm32k,jointspm32k)
+* download: [opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.zip)
+* test set translations: [opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.test.txt)
+* test set scores: [opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newsdev2015-enfi.eng-fin 	| 19.7 	| 0.54291 	| 1500 	| 23375 	| 1.000 |
+| newstest2015-enfi.eng-fin 	| 21.9 	| 0.56107 	| 1370 	| 19968 	| 1.000 |
+| newstest2016-enfi.eng-fin 	| 23.9 	| 0.57192 	| 3000 	| 48116 	| 1.000 |
+| newstest2017-enfi.eng-fin 	| 26.4 	| 0.59879 	| 3002 	| 45718 	| 1.000 |
+| newstest2018-enfi.eng-fin 	| 17.0 	| 0.52230 	| 3000 	| 45475 	| 1.000 |
+| newstest2019-enfi.eng-fin 	| 22.6 	| 0.55070 	| 1997 	| 38369 	| 0.978 |
+| newstestB2016-enfi.eng-fin 	| 18.6 	| 0.53394 	| 3000 	| 45766 	| 1.000 |
+| newstestB2017-enfi.eng-fin 	| 21.3 	| 0.55568 	| 3002 	| 45506 	| 1.000 |
+| Tatoeba-test-v2021-08-07.eng-fin 	| 36.6 	| 0.62561 	| 10000 	| 60832 	| 0.987 |
 

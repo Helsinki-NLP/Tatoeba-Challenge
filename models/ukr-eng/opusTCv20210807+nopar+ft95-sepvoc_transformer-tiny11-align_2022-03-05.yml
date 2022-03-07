@@ -1,0 +1,46 @@
+release: ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip
+release-date: 2022-03-05
+dataset-name: opusTCv20210807+nopar+ft95
+modeltype: transformer-tiny11-align
+vocabulary:
+   source: opusTCv20210807+nopar+ft95-sepvoc.spm32k-spm32k.src.vocab
+   target: opusTCv20210807+nopar+ft95-sepvoc.spm32k-spm32k.trg.vocab
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ukr
+target-languages:
+   - eng
+raw-source-languages:
+   - ukr
+raw-target-languages:
+   - eng
+training-data:
+   ukr-eng: Tatoeba-train.ukr.best95.gz (30759222) 
+validation-data:
+   eng-ukr: Tatoeba-dev-v2021-08-07, 157691
+   total-size-shuffled: 157691
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.intgemm8.shortlist.ukr-eng: 10000/67543
+   Tatoeba-test-v2021-08-07.intgemm8tunedshiftAlphas.shortlist.ukr-eng: 10000/67543
+   Tatoeba-test-v2021-08-07.intgemm8tunedshiftAlphas.ukr-eng: 10000/67543
+   Tatoeba-test-v2021-08-07.intgemm8.ukr-eng: 10000/67543
+   Tatoeba-test-v2021-08-07.ukr-eng: 10000/67543
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.intgemm8.shortlist.ukr-eng: 50.1
+   Tatoeba-test-v2021-08-07.intgemm8tunedshiftAlphas.shortlist.ukr-eng: 49.6
+   Tatoeba-test-v2021-08-07.intgemm8tunedshiftAlphas.ukr-eng: 49.6
+   Tatoeba-test-v2021-08-07.intgemm8.ukr-eng: 50.2
+   Tatoeba-test-v2021-08-07.ukr-eng: 51.4
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.intgemm8.shortlist.ukr-eng: 0.66250
+   Tatoeba-test-v2021-08-07.intgemm8tunedshiftAlphas.shortlist.ukr-eng: 0.65743
+   Tatoeba-test-v2021-08-07.intgemm8tunedshiftAlphas.ukr-eng: 0.65763
+   Tatoeba-test-v2021-08-07.intgemm8.ukr-eng: 0.66282
+   Tatoeba-test-v2021-08-07.ukr-eng: 0.67210
