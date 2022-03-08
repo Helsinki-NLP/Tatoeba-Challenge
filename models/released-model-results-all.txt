@@ -1617,6 +1617,7 @@ ces-ukr	0.678	51.3	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-20
 ces-ukr	0.68280	51.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	1787	8854
 ces-ukr	0.680	50.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-ukr/opus-2021-02-18.zip	1787	8891
 ces-ukr	0.676	50.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip	1787	8854
+ces-ukr	0.66867	48.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ces+slk-ukr/opusTCv20210807+pbt_transformer-align_2022-03-08.zip	1787	8891
 ces-ukr	0.522	34.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	1787	6842
 ces-ukr	0.504	32.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1787	6842
 ces-ukr	0.493	30.3	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/opus-2020-06-19.zip	1787	6842
@@ -17739,6 +17740,7 @@ ukr-cat	0.538	33.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-20
 ukr-cat	0.538	33.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-cat/opus-2021-02-19.zip	455	2670
 ukr-cat	0.517	32.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	455	2145
 ukr-ces	0.71797	55.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	1787	8549
+ukr-ces	0.69251	52.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ces+slk/opusTCv20210807+pft_transformer-align_2022-03-08.zip	1787	8550
 ukr-ces	0.686	52.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	1787	6527
 ukr-ces	0.686	52.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ces/opus-2021-02-19.zip	1787	8550
 ukr-ces	0.678	50.7	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-21.zip	1787	6527
