@@ -5719,6 +5719,7 @@ to be useful for anything.
 | [fiu-zle/opus](../models/fiu-zle) | tatoeba | 0.587 | 37.0 |
 | [fiu-sla/opus](../models/fiu-sla) | tatoeba | 0.586 | 38.3 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.408 | 22.1 |
+| [hun-ukr/opusTCv20210807+pbt_transformer-align](../models/hun-ukr) | tatoeba-v2021-08-07 | 0.61006 | 38.1 |
 | | lang = hun-zho | | | | |
 | [fiu-sit/opus](../models/fiu-sit) | tatoeba | 0.218 | 25.2 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.014 | 0.1 |
@@ -8812,6 +8813,7 @@ to be useful for anything.
 | [sla-fiu/opus](../models/sla-fiu) | tatoeba | 0.647 | 40.2 |
 | [zle-fiu/opus](../models/zle-fiu) | tatoeba | 0.647 | 40.5 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.460 | 22.1 |
+| [ukr-hun/opusTCv20210807+pft_transformer-align](../models/ukr-hun) | tatoeba-v2021-08-07 | 0.67544 | 44.0 |
 | | lang = ukr-ita | | | | |
 | [zle-roa/opus1m](../models/zle-roa) | tatoeba | 0.671 | 46.4 |
 | [ukr-ita/opus](../models/ukr-ita) | tatoeba | 0.662 | 46.0 |

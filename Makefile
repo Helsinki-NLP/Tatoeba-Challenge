@@ -465,6 +465,16 @@ upload-wikidoc: ${patsubst wiki-doc/%,${RELEASEDIR}/wiki-doc-%.done,${wildcard w
 cleanup-models:
 	${MAKE} cleanup-model-dirs
 
+## all models sub directories (basically language pairs)
+RELEASED_MODELS = ${notdir ${wildcard ${MODEL_RELEASEDIR}/*}}
+LANGPAIR       ?= $(firstword ${RELEASED_MODELS})
+
+## release only one model and update all lists
+.PHONY: update-model
+update-model:
+	${MAKE} RELEASED_MODELS=${LANGPAIR} update-models
+
+## release all models and update all lists
 .PHONY: update-models
 update-models:
 	${MAKE} upload-models
@@ -485,9 +495,6 @@ GIT_COMMIT_MESSAGE ?= latest changes
 update-git:
 	git commit -am "${GIT_COMMIT_MESSAGE}"
 	git push origin master
-
-## all models sub directories (basically language pairs)
-RELEASED_MODELS = ${notdir ${wildcard ${MODEL_RELEASEDIR}/*}}
 
 .PHONY: upload-models
 upload-models:

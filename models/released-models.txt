@@ -905,6 +905,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/hun-eng/opus-2021-02-19.zip	hun-en
 https://object.pouta.csc.fi/Tatoeba-MT-models/hun-epo/opus-2021-02-18.zip	hun-epo	hu-eo	0.378	17.9	Hungarian	Esperanto
 https://object.pouta.csc.fi/Tatoeba-MT-models/hun-fin/opus-2021-05-16.zip	hun-fin	hu-fi	0.716	51.9	Hungarian	Finnish
 https://object.pouta.csc.fi/Tatoeba-MT-models/hun-ukr/opus-2021-02-19.zip	hun-ukr	hu-uk	0.611	41.2	Hungarian	Ukrainian
+https://object.pouta.csc.fi/Tatoeba-MT-models/hun-ukr/opusTCv20210807+pbt_transformer-align_2022-03-08.zip	hun-ukr	hu-uk	0.61006	38.1	Hungarian	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/hye-eng/opus+bt-2021-04-30.zip	hye-eng	hy-en	0.585	41.5	Armenian	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/hye-eng/opus-2020-06-16.zip	hye-eng	hy-en	0.511	34.6	Armenian	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/hye-eng/opus-2021-02-24.zip	hye-eng	hy-en	0.277	12.3	Armenian	English
@@ -1189,6 +1190,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/ron-eng/opus-2021-02-18.zip	ron-en
 https://object.pouta.csc.fi/Tatoeba-MT-models/ron-epo/opus-2020-06-16.zip	ron-epo	ro-eo	0.495	27.8	Romanian	Esperanto
 https://object.pouta.csc.fi/Tatoeba-MT-models/ron-epo/opus-2021-02-24.zip	ron-epo	ro-eo	0.310	12.3	Romanian	Esperanto
 https://object.pouta.csc.fi/Tatoeba-MT-models/ron-fra/opus-2021-05-16.zip	ron-fra	ro-fr	0.694	54.3	Romanian	French
+https://object.pouta.csc.fi/Tatoeba-MT-models/ron-ukr/opusTCv20210807+pbt_transformer-align_2022-03-08.zip	ron-ukr	ro-uk	0.82453	88.1	Romanian	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/run-deu/opus-2021-02-18.zip	run-deu	rn-de	0.344	17.1	Rundi	German
 https://object.pouta.csc.fi/Tatoeba-MT-models/run-eng/opus+bt-2021-04-30.zip	run-eng	rn-en	0.527	37.1	Rundi	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/run-eng/opus-2021-02-18.zip	run-eng	rn-en	0.428	26.7	Rundi	English
@@ -1404,6 +1406,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hbs/opus-2020-06-17.zip	ukr-hb
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hbs/opus-2021-02-23.zip	ukr-hbs	uk-sh	0.643	44.5	Ukrainian	Serbo-Croatian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-heb/opus-2021-02-18.zip	ukr-heb	uk-he	0.557	35.7	Ukrainian	Hebrew
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opus-2021-02-18.zip	ukr-hun	uk-hu	0.649	41.4	Ukrainian	Hungarian
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft_transformer-align_2022-03-08.zip	ukr-hun	uk-hu	0.67544	44.0	Ukrainian	Hungarian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ita/opus-2021-02-19.zip	ukr-ita	uk-it	0.662	46.0	Ukrainian	Italian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nld/opus-2021-02-19.zip	ukr-nld	uk-nl	0.656	48.7	Ukrainian	Dutch
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nor/opus-2020-06-17.zip	ukr-nor	uk-no	0.397	21.3	Ukrainian	Norwegian
@@ -1411,6 +1414,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nor/opus-2021-02-24.zip	ukr-no
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-pol/opus-2021-02-19.zip	ukr-pol	uk-pl	0.685	49.9	Ukrainian	Polish
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-por/opus-2020-06-17.zip	ukr-por	uk-pt	0.601	38.1	Ukrainian	Portuguese
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-por/opus-2021-02-23.zip	ukr-por	uk-pt	0.607	38.9	Ukrainian	Portuguese
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ron/opusTCv20210807+pft_transformer-align_2022-03-08.zip	ukr-ron	uk-ro	0.85575	89.4	Ukrainian	Romanian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-rus/opus-2021-02-19.zip	ukr-rus	uk-ru	0.826	69.2	Ukrainian	Russian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-slv/opus-2021-02-19.zip	ukr-slv	uk-sl	0.280	11.8	Ukrainian	Slovenian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-spa/opus-2021-02-19.zip	ukr-spa	uk-es	0.649	46.4	Ukrainian	Spanish

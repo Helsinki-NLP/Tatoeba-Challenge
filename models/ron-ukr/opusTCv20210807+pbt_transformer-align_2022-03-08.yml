@@ -1,0 +1,37 @@
+release: ron-ukr/opusTCv20210807+pbt_transformer-align_2022-03-08.zip
+release-date: 2022-03-08
+dataset-name: opusTCv20210807+pbt
+modeltype: transformer-align
+vocabulary:
+   source: opusTCv20210807+pbt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+pbt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - mol
+   - ron
+target-languages:
+   - ukr
+raw-source-languages:
+   - mol
+   - ron
+raw-target-languages:
+   - ukr
+training-data:
+   mol-ukr: Tatoeba-train-v2021-08-07.mol-ukr.strict (2) 
+   ron-ukr: Tatoeba-train-v2021-08-07.ron-ukr.strict (6731890) Tatoeba-train.eng-ron-ukr.aa (1000000) Tatoeba-train.eng-ron-ukr.ab (1000000) Tatoeba-train.eng-ron-ukr.ac (1000000) Tatoeba-train.eng-ron-ukr.ad (1000000) Tatoeba-train.eng-ron-ukr.ae (1000000) Tatoeba-train.eng-ron-ukr.af (1000000) Tatoeba-train.eng-ron-ukr.ag (1000000) Tatoeba-train.eng-ron-ukr.ah (1000000) Tatoeba-train.eng-ron-ukr.ai (1000000) Tatoeba-train.eng-ron-ukr.aj (1000000) Tatoeba-train.eng-ron-ukr.ak (1000000) Tatoeba-train.eng-ron-ukr.al (1000000) Tatoeba-train.eng-ron-ukr.am (1000000) Tatoeba-train.eng-ron-ukr.an (1000000) Tatoeba-train.eng-ron-ukr.ao (1000000) Tatoeba-train.eng-ron-ukr.ap (1000000) Tatoeba-train.eng-ron-ukr.aq (1000000) Tatoeba-train.eng-ron-ukr.ar (1000000) Tatoeba-train.eng-ron-ukr.as (1000000) Tatoeba-train.eng-ron-ukr.at (1000000) Tatoeba-train.eng-ron-ukr.au (1000000) Tatoeba-train.eng-ron-ukr.av (1000000) Tatoeba-train.eng-ron-ukr.aw (1000000) Tatoeba-train.eng-ron-ukr.ax (1000000) Tatoeba-train.eng-ron-ukr.ay (1000000) Tatoeba-train.eng-ron-ukr.az (1000000) Tatoeba-train.eng-ron-ukr.ba (1000000) Tatoeba-train.eng-ron-ukr.bb (1000000) Tatoeba-train.eng-ron-ukr.bc (1000000) Tatoeba-train.eng-ron-ukr.bd (1000000) Tatoeba-train.eng-ron-ukr.be (1000000) Tatoeba-train.eng-ron-ukr.bf (1000000) Tatoeba-train.eng-ron-ukr.bg (1000000) Tatoeba-train.eng-ron-ukr.bh (220604) 
+validation-data:
+   ron-ukr: Tatoeba-dev-v2021-08-07, 998
+   total-size-shuffled: 998
+   devset-selected: top 998  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.multi-ukr: 2/12
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.multi-ukr: 88.1
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.multi-ukr: 0.82453
