@@ -21,6 +21,7 @@
 
 
 
+
 # opus-2021-02-18.zip
 
 * dataset: opus
@@ -40,6 +41,7 @@
 | Tatoeba-test.bul-eng 	| 58.3 	| 0.720 	| 9999 	| 71868 	| 0.983 |
 
 
+
 # opus+bt-2021-04-30.zip
 
 * dataset: opus+bt
@@ -57,4 +59,25 @@
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.bul-eng 	| 57.9 	| 0.718 	| 9999 	| 71868 	| 0.982 |
+
+
+# opusTCv20210807+bt_transformer-big_2022-03-09.zip
+
+* dataset: opusTCv20210807+bt
+* model: transformer-big
+* source language(s): bul
+* target language(s): eng
+* raw source language(s): bul
+* raw target language(s): eng
+* model: transformer-big
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opusTCv20210807+bt_transformer-big_2022-03-09.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/bul-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip)
+* test set translations: [opusTCv20210807+bt_transformer-big_2022-03-09.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/bul-eng/opusTCv20210807+bt_transformer-big_2022-03-09.test.txt)
+* test set scores: [opusTCv20210807+bt_transformer-big_2022-03-09.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/bul-eng/opusTCv20210807+bt_transformer-big_2022-03-09.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test-v2021-08-07.bul-eng 	| 60.5 	| 0.73687 	| 10000 	| 71872 	| 0.985 |
 

@@ -33,6 +33,7 @@
 
 
 
+
 # opus+bt-2021-03-09.zip
 
 * dataset: opus+bt
@@ -58,6 +59,7 @@
 | newstestB2016-enfi.eng-fin 	| 21.3 	| 0.558 	| 3000 	| 45766 	| 1.000 |
 | newstestB2017-enfi.eng-fin 	| 24.5 	| 0.583 	| 3002 	| 45506 	| 0.987 |
 | Tatoeba-test.eng-fin 	| 38.7 	| 0.633 	| 10000 	| 60517 	| 0.936 |
+
 
 
 
@@ -94,6 +96,7 @@
 
 
 
+
 # opusTCv20210807+bt-2021-11-08.zip
 
 * dataset: opusTCv20210807+bt
@@ -120,6 +123,7 @@
 | newstest2019-enfi.eng-fin 	| 26.5 	| 0.581 	| 1997 	| 38369 	| 0.965 |
 | newstestB2016-enfi.eng-fin 	| 22.3 	| 0.568 	| 3000 	| 45766 	| 1.000 |
 | Tatoeba-test-v2021-08-07.eng-fin 	| 39.9 	| 0.643 	| 10000 	| 60797 	| 0.949 |
+
 
 
 
@@ -154,6 +158,7 @@
 
 
 
+
 # opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-01-25.zip
 
 * dataset: opusTCv20210807+nopar+ft95
@@ -183,6 +188,7 @@
 | Tatoeba-test-v2021-08-07.eng-fin 	| 37.5 	| 0.62702 	| 10000 	| 60832 	| 0.952 |
 
 
+
 # opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.zip
 
 * dataset: opusTCv20210807+nopar+ft95
@@ -210,4 +216,33 @@
 | newstestB2016-enfi.eng-fin 	| 18.6 	| 0.53394 	| 3000 	| 45766 	| 1.000 |
 | newstestB2017-enfi.eng-fin 	| 21.3 	| 0.55568 	| 3002 	| 45506 	| 1.000 |
 | Tatoeba-test-v2021-08-07.eng-fin 	| 36.6 	| 0.62561 	| 10000 	| 60832 	| 0.987 |
+
+
+# opusTCv20210807+bt_transformer-big_2022-03-09.zip
+
+* dataset: opusTCv20210807+bt
+* model: transformer-big
+* source language(s): eng
+* target language(s): fin
+* raw source language(s): eng
+* raw target language(s): fin
+* model: transformer-big
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opusTCv20210807+bt_transformer-big_2022-03-09.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.zip)
+* test set translations: [opusTCv20210807+bt_transformer-big_2022-03-09.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.test.txt)
+* test set scores: [opusTCv20210807+bt_transformer-big_2022-03-09.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newsdev2015-enfi.eng-fin 	| 25.3 	| 0.58575 	| 1500 	| 23375 	| 1.000 |
+| newstest2015-enfi.eng-fin 	| 27.4 	| 0.60259 	| 1370 	| 19968 	| 1.000 |
+| newstest2016-enfi.eng-fin 	| 29.7 	| 0.61851 	| 3000 	| 48116 	| 0.990 |
+| newstest2017-enfi.eng-fin 	| 32.3 	| 0.64616 	| 3002 	| 45718 	| 0.991 |
+| newstest2018-enfi.eng-fin 	| 21.1 	| 0.55866 	| 3000 	| 45475 	| 1.000 |
+| newstest2019-enfi.eng-fin 	| 26.4 	| 0.58420 	| 1997 	| 38369 	| 0.964 |
+| newstestB2016-enfi.eng-fin 	| 23.3 	| 0.57554 	| 3000 	| 45766 	| 1.000 |
+| newstestB2017-enfi.eng-fin 	| 26.8 	| 0.60212 	| 3002 	| 45506 	| 0.996 |
+| Tatoeba-test-v2021-08-07.eng-fin 	| 39.4 	| 0.64410 	| 10000 	| 60781 	| 0.949 |
 

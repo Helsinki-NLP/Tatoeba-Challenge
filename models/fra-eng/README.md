@@ -28,6 +28,7 @@
 | Tatoeba-test.fra-eng.fra.eng 	| 57.7 	| 0.722 |
 
 
+
 # opus-2021-02-17.zip
 
 * dataset: opus
@@ -45,6 +46,7 @@
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.fra-eng 	| 57.9 	| 0.723 	| 10000 	| 77174 	| 0.982 |
+
 
 
 # opus-2021-02-19.zip
@@ -76,6 +78,7 @@
 | Tatoeba-test.fra-eng 	| 57.9 	| 0.724 	| 10000 	| 77174 	| 0.981 |
 
 
+
 # opus-2021-02-22.zip
 
 * dataset: opus
@@ -103,6 +106,7 @@
 | newstest2013.fra-eng 	| 34.0 	| 0.592 	| 3000 	| 64505 	| 1.000 |
 | newstest2014-fren.fra-eng 	| 38.4 	| 0.636 	| 3003 	| 70708 	| 1.000 |
 | Tatoeba-test.fra-eng 	| 57.8 	| 0.723 	| 10000 	| 77174 	| 0.983 |
+
 
 
 # opus+bt-2021-04-30.zip
@@ -133,4 +137,36 @@
 | newstest2014-fren.fra-eng 	| 38.2 	| 0.635 	| 3003 	| 70708 	| 1.000 |
 | Tatoeba-test.fra-eng 	| 57.6 	| 0.721 	| 10000 	| 77174 	| 0.983 |
 | tico19-test.fra-eng 	| 40.2 	| 0.633 	| 2100 	| 56347 	| 1.000 |
+
+
+# opusTCv20210807+bt_transformer-big_2022-03-09.zip
+
+* dataset: opusTCv20210807+bt
+* model: transformer-big
+* source language(s): fra
+* target language(s): eng
+* raw source language(s): fra
+* raw target language(s): eng
+* model: transformer-big
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opusTCv20210807+bt_transformer-big_2022-03-09.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip)
+* test set translations: [opusTCv20210807+bt_transformer-big_2022-03-09.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-eng/opusTCv20210807+bt_transformer-big_2022-03-09.test.txt)
+* test set scores: [opusTCv20210807+bt_transformer-big_2022-03-09.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-eng/opusTCv20210807+bt_transformer-big_2022-03-09.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newsdiscussdev2015-enfr.fra-eng 	| 34.4 	| 0.59003 	| 1500 	| 27759 	| 0.951 |
+| newsdiscusstest2015-enfr.fra-eng 	| 40.2 	| 0.62593 	| 1500 	| 26995 	| 0.980 |
+| newssyscomb2009.fra-eng 	| 31.1 	| 0.57486 	| 502 	| 11821 	| 0.989 |
+| news-test2008.fra-eng 	| 26.5 	| 0.54317 	| 2051 	| 49380 	| 0.996 |
+| newstest2009.fra-eng 	| 30.4 	| 0.56959 	| 2525 	| 65402 	| 0.992 |
+| newstest2010.fra-eng 	| 33.4 	| 0.59559 	| 2489 	| 61724 	| 1.000 |
+| newstest2011.fra-eng 	| 33.8 	| 0.60271 	| 3003 	| 74681 	| 1.000 |
+| newstest2012.fra-eng 	| 33.6 	| 0.59515 	| 3003 	| 72812 	| 0.999 |
+| newstest2013.fra-eng 	| 34.8 	| 0.59691 	| 3000 	| 64505 	| 1.000 |
+| newstest2014-fren.fra-eng 	| 39.4 	| 0.64533 	| 3003 	| 70708 	| 0.991 |
+| Tatoeba-test-v2021-08-07.fra-eng 	| 60.0 	| 0.74090 	| 10000 	| 80205 	| 0.990 |
+| tico19-test.fra-eng 	| 41.2 	| 0.63315 	| 2100 	| 56347 	| 0.979 |
 

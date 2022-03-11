@@ -24,6 +24,7 @@
 
 
 
+
 # opus-2020-07-04.zip
 
 * dataset: opus
@@ -46,6 +47,7 @@
 | Tatoeba-test.multi.eng 	| 58.9 	| 0.728 |
 | Tatoeba-test.non-eng.non.eng 	| 29.8 	| 0.462 |
 | Tatoeba-test.swe-eng.swe.eng 	| 61.0 	| 0.739 |
+
 
 
 
@@ -77,6 +79,7 @@
 
 
 
+
 # opus2m-2020-08-12.zip
 
 * dataset: opus2m
@@ -100,6 +103,7 @@
 | Tatoeba-test.non-eng.non.eng 	| 27.2 	| 0.506 |
 | Tatoeba-test.nor-eng.nor.eng 	| 53.7 	| 0.689 |
 | Tatoeba-test.swe-eng.swe.eng 	| 61.5 	| 0.741 |
+
 
 
 
@@ -132,6 +136,7 @@
 
 
 
+
 # opus4m+btTCv20210807-2021-09-30.zip
 
 * dataset: opus4m+btTCv20210807
@@ -150,6 +155,7 @@
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test-v2021-08-07.multi-eng 	| 58.6 	| 0.722 	| 10000 	| 72131 	| 0.988 |
 | Tatoeba-test-v2021-08-07.multi-multi 	| 58.6 	| 0.722 	| 10000 	| 72131 	| 0.988 |
+
 
 
 # opus4m+btTCv20210807-2021-12-08.zip
@@ -176,4 +182,33 @@
 | Tatoeba-test-v2021-08-07.multi-eng 	| 54.5 	| 0.6912 	| 10000 	| 72131 	| 0.991 |
 | Tatoeba-test-v2021-08-07.non-eng 	| 34.1 	| 0.4989 	| 15 	| 145 	| 1.000 |
 | Tatoeba-test-v2021-08-07.swe-eng 	| 57.0 	| 0.7027 	| 10362 	| 68509 	| 0.995 |
+
+
+# opusTCv20210807+bt_transformer-big_2022-03-09.zip
+
+* dataset: opusTCv20210807+bt
+* model: transformer-big
+* source language(s): dan fao isl nno nob non swe
+* target language(s): eng
+* raw source language(s): dan fao isl nno nob non swe
+* raw target language(s): eng
+* model: transformer-big
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opusTCv20210807+bt_transformer-big_2022-03-09.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip)
+* test set translations: [opusTCv20210807+bt_transformer-big_2022-03-09.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opusTCv20210807+bt_transformer-big_2022-03-09.test.txt)
+* test set scores: [opusTCv20210807+bt_transformer-big_2022-03-09.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opusTCv20210807+bt_transformer-big_2022-03-09.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test-v2021-08-07.dan-eng 	| 65.4 	| 0.78016 	| 10795 	| 79668 	| 0.987 |
+| Tatoeba-test-v2021-08-07.fao-eng 	| 31.3 	| 0.48235 	| 294 	| 1984 	| 1.000 |
+| Tatoeba-test-v2021-08-07.isl-eng 	| 52.6 	| 0.67868 	| 2503 	| 19788 	| 0.980 |
+| Tatoeba-test-v2021-08-07.multi-eng 	| 63.7 	| 0.76120 	| 10000 	| 73075 	| 0.986 |
+| Tatoeba-test-v2021-08-07.nno-eng 	| 55.3 	| 0.69248 	| 460 	| 3523 	| 0.977 |
+| Tatoeba-test-v2021-08-07.nob-eng 	| 60.0 	| 0.73341 	| 4539 	| 36821 	| 0.976 |
+| Tatoeba-test-v2021-08-07.non-eng 	| 45.7 	| 0.57677 	| 15 	| 145 	| 1.000 |
+| Tatoeba-test-v2021-08-07.nor-eng 	| 59.5 	| 0.72976 	| 5000 	| 40352 	| 0.977 |
+| Tatoeba-test-v2021-08-07.swe-eng 	| 65.8 	| 0.77243 	| 10362 	| 68509 	| 0.989 |
 
