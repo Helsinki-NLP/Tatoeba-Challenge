@@ -1,0 +1,76 @@
+release: ara-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip
+release-date: 2022-03-09
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - acm
+   - afb
+   - apc
+   - ara
+   - arq
+   - ary
+   - arz
+target-languages:
+   - eng
+raw-source-languages:
+   - acm
+   - afb
+   - apc
+   - ara
+   - arq
+   - ary
+   - arz
+raw-target-languages:
+   - eng
+training-data:
+   ara-eng: Tatoeba-train-v2021-08-07.ara-eng.strict (122543602) wikibooks.aa.eng-ara (991794) wikinews.aa.eng-ara (457195) wikipedia.aa.eng-ara (982536) wikipedia.ab.eng-ara (982647) wikipedia.ac.eng-ara (982746) wikipedia.ad.eng-ara (982432) wikiquote.aa.eng-ara (996916) 
+   arq-eng: Tatoeba-train-v2021-08-07.arq-eng.strict (1160) 
+   ary-eng: Tatoeba-train-v2021-08-07.ary-eng.strict (229) 
+   arz-eng: Tatoeba-train-v2021-08-07.arz-eng.strict (33998) 
+validation-data:
+   acm-eng: Tatoeba-dev-v2021-08-07, 7
+   afb-eng: Tatoeba-dev-v2021-08-07, 40
+   apc-eng: Tatoeba-dev-v2021-08-07, 8
+   ara-eng: Tatoeba-dev-v2021-08-07, 17663
+   arq-eng: Tatoeba-dev-v2021-08-07, 685
+   ary-eng: Tatoeba-dev-v2021-08-07, 30
+   arz-eng: Tatoeba-dev-v2021-08-07, 402
+   total-size-shuffled: 2172
+   devset-selected: top 2172  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.acm-eng: 3/24
+   Tatoeba-test-v2021-08-07.afb-eng: 36/175
+   Tatoeba-test-v2021-08-07.apc-eng: 5/29
+   Tatoeba-test-v2021-08-07.arq-eng: 405/3074
+   Tatoeba-test-v2021-08-07.ary-eng: 18/98
+   Tatoeba-test-v2021-08-07.arz-eng: 183/1195
+   Tatoeba-test-v2021-08-07.multi-eng: 10000/74674
+   tico19-test.ara-eng: 2100/56347
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.acm-eng: 15.6
+   Tatoeba-test-v2021-08-07.afb-eng: 50.4
+   Tatoeba-test-v2021-08-07.apc-eng: 23.0
+   Tatoeba-test-v2021-08-07.arq-eng: 9.1
+   Tatoeba-test-v2021-08-07.ary-eng: 33.9
+   Tatoeba-test-v2021-08-07.arz-eng: 22.7
+   Tatoeba-test-v2021-08-07.multi-eng: 47.3
+   tico19-test.ara-eng: 44.4
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.acm-eng: 0.39239
+   Tatoeba-test-v2021-08-07.afb-eng: 0.64627
+   Tatoeba-test-v2021-08-07.apc-eng: 0.46868
+   Tatoeba-test-v2021-08-07.arq-eng: 0.24753
+   Tatoeba-test-v2021-08-07.ary-eng: 0.43004
+   Tatoeba-test-v2021-08-07.arz-eng: 0.40417
+   Tatoeba-test-v2021-08-07.multi-eng: 0.63496
+   tico19-test.ara-eng: 0.68525

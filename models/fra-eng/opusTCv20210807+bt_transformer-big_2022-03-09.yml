@@ -1,0 +1,67 @@
+release: fra-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip
+release-date: 2022-03-09
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fra
+target-languages:
+   - eng
+raw-source-languages:
+   - fra
+raw-target-languages:
+   - eng
+training-data:
+   fra-eng: Tatoeba-train-v2021-08-07.eng-fra.strict (738845549) wikibooks.aa (992788) wikinews.aa (457553) wikipedia.aa (984195) wikipedia.ab (984396) wikipedia.ac (984310) wikipedia.ad (984106) wikiquote.aa (997127) 
+validation-data:
+   eng-fra: Tatoeba-dev-v2021-08-07, 249783
+   total-size-shuffled: 249783
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newsdiscussdev2015-enfr.fra-eng: 1500/27759
+   newsdiscusstest2015-enfr.fra-eng: 1500/26995
+   newssyscomb2009.fra-eng: 502/11821
+   news-test2008.fra-eng: 2051/49380
+   newstest2009.fra-eng: 2525/65402
+   newstest2010.fra-eng: 2489/61724
+   newstest2011.fra-eng: 3003/74681
+   newstest2012.fra-eng: 3003/72812
+   newstest2013.fra-eng: 3000/64505
+   newstest2014-fren.fra-eng: 3003/70708
+   Tatoeba-test-v2021-08-07.fra-eng: 10000/80205
+   tico19-test.fra-eng: 2100/56347
+BLEU-scores:
+   newsdiscussdev2015-enfr.fra-eng: 34.4
+   newsdiscusstest2015-enfr.fra-eng: 40.2
+   newssyscomb2009.fra-eng: 31.1
+   news-test2008.fra-eng: 26.5
+   newstest2009.fra-eng: 30.4
+   newstest2010.fra-eng: 33.4
+   newstest2011.fra-eng: 33.8
+   newstest2012.fra-eng: 33.6
+   newstest2013.fra-eng: 34.8
+   newstest2014-fren.fra-eng: 39.4
+   Tatoeba-test-v2021-08-07.fra-eng: 60.0
+   tico19-test.fra-eng: 41.2
+chr-F-scores:
+   newsdiscussdev2015-enfr.fra-eng: 0.59003
+   newsdiscusstest2015-enfr.fra-eng: 0.62593
+   newssyscomb2009.fra-eng: 0.57486
+   news-test2008.fra-eng: 0.54317
+   newstest2009.fra-eng: 0.56959
+   newstest2010.fra-eng: 0.59559
+   newstest2011.fra-eng: 0.60271
+   newstest2012.fra-eng: 0.59515
+   newstest2013.fra-eng: 0.59691
+   newstest2014-fren.fra-eng: 0.64533
+   Tatoeba-test-v2021-08-07.fra-eng: 0.74090
+   tico19-test.fra-eng: 0.63315

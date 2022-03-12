@@ -1,0 +1,64 @@
+release: eng-fra/opusTCv20210807+bt_transformer-big_2022-03-09.zip
+release-date: 2022-03-09
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - fra
+raw-source-languages:
+   - eng
+raw-target-languages:
+   - fra
+training-data:
+   eng-fra: Tatoeba-train-v2021-08-07.eng-fra.strict (738845549) wiki.aa.fra-eng (935620) wiki.ab.fra-eng (936213) wiki.ac.fra-eng (936067) wiki.ad.fra-eng (935869) wiki.ae.fra-eng (936118) wiki.af.fra-eng (935646) wiki.ag.fra-eng (936104) wiki.ah.fra-eng (935625) wiki.ai.fra-eng (936039) wiki.aj.fra-eng (935966) wiki.ak.fra-eng (936320) wiki.al.fra-eng (935840) wiki.am.fra-eng (936023) wiki.an.fra-eng (935744) wiki.ao.fra-eng (935858) wiki.ap.fra-eng (935631) wiki.aq.fra-eng (935711) wiki.ar.fra-eng (936272) wiki.as.fra-eng (936056) wiki.at.fra-eng (935866) wiki.au.fra-eng (946440) wiki.av.fra-eng (947586) wiki.aw.fra-eng (947881) wiki.ax.fra-eng (948194) wiki.ay.fra-eng (947457) wiki.az.fra-eng (948042) wiki.ba.fra-eng (948056) wiki.bb.fra-eng (947946) wiki.bc.fra-eng (947780) wiki.bd.fra-eng (947899) wiki.be.fra-eng (947676) wiki.bf.fra-eng (948079) wiki.bg.fra-eng (721919) wikibooks.aa.fra-eng (175350) wikinews.aa.fra-eng (153939) wikiquote.aa.fra-eng (127852) wikisource.aa.fra-eng (949635) wikisource.ab.fra-eng (949313) wikisource.ac.fra-eng (948945) wikisource.ad.fra-eng (949740) wikisource.ae.fra-eng (949568) wikisource.af.fra-eng (949251) wikisource.ah.fra-eng (949323) wikisource.ai.fra-eng (949941) wikisource.aj.fra-eng (949287) wikisource.ak.fra-eng (949564) wikisource.al.fra-eng (949369) wikisource.am.fra-eng (949096) wikisource.an.fra-eng (949484) wikisource.ao.fra-eng (949565) wikisource.ap.fra-eng (949363) wikisource.aq.fra-eng (949559) wikisource.ar.fra-eng (949432) wikisource.as.fra-eng (949957) wikisource.at.fra-eng (949348) wikisource.au.fra-eng (949622) wikisource.av.fra-eng (949590) wikisource.aw.fra-eng (949602) wikisource.ax.fra-eng (949449) wikisource.ay.fra-eng (949183) wikisource.az.fra-eng (949534) wikisource.ba.fra-eng (949730) wikisource.bb.fra-eng (300650) 
+validation-data:
+   eng-fra: Tatoeba-dev-v2021-08-07, 249783
+   total-size-shuffled: 249783
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newsdiscussdev2015-enfr.eng-fra: 1500/27986
+   newsdiscusstest2015-enfr.eng-fra: 1500/28027
+   newssyscomb2009.eng-fra: 502/12334
+   news-test2008.eng-fra: 2051/52685
+   newstest2009.eng-fra: 2525/69278
+   newstest2010.eng-fra: 2489/66043
+   newstest2011.eng-fra: 3003/80626
+   newstest2012.eng-fra: 3003/78011
+   newstest2013.eng-fra: 3000/70037
+   Tatoeba-test-v2021-08-07.eng-fra: 10000/84216
+   tico19-test.eng-fra: 2100/64655
+BLEU-scores:
+   newsdiscussdev2015-enfr.eng-fra: 33.8
+   newsdiscusstest2015-enfr.eng-fra: 40.5
+   newssyscomb2009.eng-fra: 30.7
+   news-test2008.eng-fra: 27.6
+   newstest2009.eng-fra: 30.0
+   newstest2010.eng-fra: 33.8
+   newstest2011.eng-fra: 35.0
+   newstest2012.eng-fra: 32.8
+   newstest2013.eng-fra: 34.6
+   Tatoeba-test-v2021-08-07.eng-fra: 53.1
+   tico19-test.eng-fra: 41.5
+chr-F-scores:
+   newsdiscussdev2015-enfr.eng-fra: 0.60628
+   newsdiscusstest2015-enfr.eng-fra: 0.64981
+   newssyscomb2009.eng-fra: 0.58905
+   news-test2008.eng-fra: 0.55516
+   newstest2009.eng-fra: 0.57909
+   newstest2010.eng-fra: 0.60293
+   newstest2011.eng-fra: 0.61632
+   newstest2012.eng-fra: 0.59737
+   newstest2013.eng-fra: 0.59700
+   Tatoeba-test-v2021-08-07.eng-fra: 0.69526
+   tico19-test.eng-fra: 0.63470

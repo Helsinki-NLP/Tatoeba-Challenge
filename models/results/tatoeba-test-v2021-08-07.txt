@@ -585,6 +585,7 @@ ces-ukr	tatoeba-test-v2021-08-07	0.678	51.1	https://object.pouta.csc.fi/Tatoeba-
 ces-ukr	tatoeba-test-v2021-08-07	0.678	51.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-16.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-08-07	0.678	51.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-08-07	0.680	50.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-ukr/opus-2021-02-18.zip	1787	8891
+ces-ukr	tatoeba-test-v2021-08-07	0.66867	48.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ces+slk-ukr/opusTCv20210807+pbt_transformer-align_2022-03-08.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-08-07	0.523	34.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-08-07	0.503	32.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1787	8891
 cha-eng	tatoeba-test-v2021-08-07	0.220	9.3	https://object.pouta.csc.fi/Tatoeba-MT-models/mul-eng/opus-2020-07-14.zip	227	1174
@@ -7635,6 +7636,7 @@ ukr-cat	tatoeba-test-v2021-08-07	0.538	34.3	https://object.pouta.csc.fi/Tatoeba-
 ukr-cat	tatoeba-test-v2021-08-07	0.535	33.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-cat/opus-2021-02-19.zip	456	2675
 ukr-cat	tatoeba-test-v2021-08-07	0.517	32.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	456	2675
 ukr-ces	tatoeba-test-v2021-08-07	0.71965	56.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	1787	8550
+ukr-ces	tatoeba-test-v2021-08-07	0.69251	52.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ces+slk/opusTCv20210807+pft_transformer-align_2022-03-08.zip	1787	8550
 ukr-ces	tatoeba-test-v2021-08-07	0.687	52.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	1787	8550
 ukr-ces	tatoeba-test-v2021-08-07	0.684	51.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ces/opus-2021-02-19.zip	1787	8550
 ukr-ces	tatoeba-test-v2021-08-07	0.678	51.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	1787	8550

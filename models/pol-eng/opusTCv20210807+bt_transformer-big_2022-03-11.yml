@@ -1,0 +1,34 @@
+release: pol-eng/opusTCv20210807+bt_transformer-big_2022-03-11.zip
+release-date: 2022-03-11
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - pol
+target-languages:
+   - eng
+raw-source-languages:
+   - pol
+raw-target-languages:
+   - eng
+training-data:
+   pol-eng: Tatoeba-train-v2021-08-07.eng-pol.strict (181467027) wikibooks.aa (992529) wikinews.aa (457325) wikipedia.aa (983673) wikipedia.ab (983875) wikipedia.ac (983854) wikipedia.ad (983635) wikiquote.aa (997187) 
+validation-data:
+   eng-pol: Tatoeba-dev-v2021-08-07, 43378
+   total-size-shuffled: 43378
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.pol-eng: 10000/75067
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.pol-eng: 56.0
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.pol-eng: 0.71038
