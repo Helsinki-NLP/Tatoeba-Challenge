@@ -1,0 +1,74 @@
+release: ces+slk-eng/opusTCv20210807+bt_transformer-big_2022-03-13.zip
+release-date: 2022-03-13
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ces
+   - slk
+target-languages:
+   - eng
+raw-source-languages:
+   - ces
+   - slk
+raw-target-languages:
+   - eng
+training-data:
+   ces-eng: Tatoeba-train-v2021-08-07.ces-eng.strict (167572148) wikibooks.aa.eng-ces (992304) wikinews.aa.eng-ces (457198) wikipedia.aa.eng-ces (983006) wikipedia.ab.eng-ces (983202) wikipedia.ac.eng-ces (983144) wikipedia.ad.eng-ces (982953) wikiquote.aa.eng-ces (997088) 
+   slk-eng: Tatoeba-train-v2021-08-07.eng-slk.strict (78933417) 
+validation-data:
+   ces-eng: Tatoeba-dev-v2021-08-07, 15882
+   eng-slk: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 2000
+   devset-selected: top 2000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newssyscomb2009.ces-eng: 502/11821
+   newstest2009.ces-eng: 2525/65402
+   newstest2010.ces-eng: 2489/61724
+   newstest2011.ces-eng: 3003/74681
+   newstest2012.ces-eng: 3003/72812
+   newstest2013.ces-eng: 3000/64505
+   newstest2014-csen.ces-eng: 3003/68065
+   newstest2015-encs.ces-eng: 2656/53572
+   newstest2016-encs.ces-eng: 2999/64670
+   newstest2017-encs.ces-eng: 3005/61725
+   newstest2018-encs.ces-eng: 2983/63496
+   Tatoeba-test-v2021-08-07.ces-eng: 13824/104993
+   Tatoeba-test-v2021-08-07.multi-eng: 10000/75763
+BLEU-scores:
+   newssyscomb2009.ces-eng: 29.8
+   newstest2009.ces-eng: 28.8
+   newstest2010.ces-eng: 30.4
+   newstest2011.ces-eng: 30.3
+   newstest2012.ces-eng: 29.4
+   newstest2013.ces-eng: 33.2
+   newstest2014-csen.ces-eng: 38.2
+   newstest2015-encs.ces-eng: 33.5
+   newstest2016-encs.ces-eng: 36.7
+   newstest2017-encs.ces-eng: 32.5
+   newstest2018-encs.ces-eng: 32.9
+   Tatoeba-test-v2021-08-07.ces-eng: 57.4
+   Tatoeba-test-v2021-08-07.multi-eng: 58.1
+chr-F-scores:
+   newssyscomb2009.ces-eng: 0.56233
+   newstest2009.ces-eng: 0.55835
+   newstest2010.ces-eng: 0.57621
+   newstest2011.ces-eng: 0.56955
+   newstest2012.ces-eng: 0.56539
+   newstest2013.ces-eng: 0.58769
+   newstest2014-csen.ces-eng: 0.64147
+   newstest2015-encs.ces-eng: 0.58645
+   newstest2016-encs.ces-eng: 0.61556
+   newstest2017-encs.ces-eng: 0.58308
+   newstest2018-encs.ces-eng: 0.58566
+   Tatoeba-test-v2021-08-07.ces-eng: 0.71753
+   Tatoeba-test-v2021-08-07.multi-eng: 0.72297

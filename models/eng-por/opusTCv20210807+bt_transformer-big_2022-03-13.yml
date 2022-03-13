@@ -1,0 +1,41 @@
+release: eng-por/opusTCv20210807+bt_transformer-big_2022-03-13.zip
+release-date: 2022-03-13
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - pob
+   - por
+raw-source-languages:
+   - eng
+raw-target-languages:
+   - pob
+   - por
+use-target-labels:
+validation-data:
+   eng-por: Tatoeba-dev-v2021-08-07, 203681
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.eng-multi: 10000/79644
+   tico19-test.eng-pob: 2100/62729
+   tico19-test.eng-por: 2100/62729
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.eng-multi: 49.7
+   tico19-test.eng-pob: 50.0
+   tico19-test.eng-por: 50.2
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.eng-multi: 0.69324
+   tico19-test.eng-pob: 0.73132
+   tico19-test.eng-por: 0.73121

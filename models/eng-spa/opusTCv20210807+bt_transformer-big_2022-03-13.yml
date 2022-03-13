@@ -1,0 +1,58 @@
+release: eng-spa/opusTCv20210807+bt_transformer-big_2022-03-13.zip
+release-date: 2022-03-13
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - spa
+raw-source-languages:
+   - eng
+raw-target-languages:
+   - spa
+training-data:
+   eng-spa: Tatoeba-train-v2021-08-07.eng-spa.strict (944633335) wiki.aa.spa-eng (944705) wiki.ab.spa-eng (944800) wiki.ac.spa-eng (944652) wiki.ad.spa-eng (944925) wiki.ae.spa-eng (944831) wiki.af.spa-eng (945241) wiki.ag.spa-eng (944584) wiki.ah.spa-eng (944533) wiki.ai.spa-eng (944811) wiki.aj.spa-eng (944939) wiki.ak.spa-eng (944824) wiki.al.spa-eng (944687) wiki.am.spa-eng (944465) wiki.an.spa-eng (944354) wiki.ao.spa-eng (944503) wiki.ap.spa-eng (944756) wiki.aq.spa-eng (944075) wiki.ar.spa-eng (945208) wiki.as.spa-eng (944464) wiki.at.spa-eng (944877) wiki.au.spa-eng (944873) wiki.av.spa-eng (944665) wiki.aw.spa-eng (944716) wiki.ax.spa-eng (944534) wiki.ay.spa-eng (703227) wikibooks.aa.spa-eng (179533) wikinews.aa.spa-eng (122072) wikiquote.aa.spa-eng (145726) wikisource.aa.spa-eng (955939) wikisource.ab.spa-eng (955646) wikisource.ac.spa-eng (864285) 
+validation-data:
+   eng-spa: Tatoeba-dev-v2021-08-07, 195935
+   total-size-shuffled: 195935
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newssyscomb2009.eng-spa: 502/12506
+   news-test2008.eng-spa: 2051/52596
+   newstest2009.eng-spa: 2525/68114
+   newstest2010.eng-spa: 2489/65522
+   newstest2011.eng-spa: 3003/79476
+   newstest2012.eng-spa: 3003/79006
+   newstest2013.eng-spa: 3000/70528
+   Tatoeba-test-v2021-08-07.eng-spa: 10000/80493
+   tico19-test.eng-spa: 2100/66591
+BLEU-scores:
+   newssyscomb2009.eng-spa: 31.3
+   news-test2008.eng-spa: 30.1
+   newstest2009.eng-spa: 30.3
+   newstest2010.eng-spa: 37.5
+   newstest2011.eng-spa: 39.0
+   newstest2012.eng-spa: 39.5
+   newstest2013.eng-spa: 35.9
+   Tatoeba-test-v2021-08-07.eng-spa: 56.9
+   tico19-test.eng-spa: 52.9
+chr-F-scores:
+   newssyscomb2009.eng-spa: 0.58391
+   news-test2008.eng-spa: 0.56595
+   newstest2009.eng-spa: 0.57884
+   newstest2010.eng-spa: 0.62334
+   newstest2011.eng-spa: 0.62460
+   newstest2012.eng-spa: 0.62941
+   newstest2013.eng-spa: 0.60383
+   Tatoeba-test-v2021-08-07.eng-spa: 0.73626
+   tico19-test.eng-spa: 0.73528

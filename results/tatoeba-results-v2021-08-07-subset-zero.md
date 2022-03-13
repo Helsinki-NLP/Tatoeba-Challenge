@@ -6,6 +6,8 @@ to be useful for anything.
 
 | Model | Test Set | chrF2 | BLEU |
 |:--|---|--:|--:|
+| | lang = eng-orv | | | | |
+| [eng-zle/opusTCv20210807+bt_transformer-big](../models/eng-zle) | tatoeba-v2021-08-07 | 0.17450 | 0.5 |
 | | lang = gos-eng | | | | |
 | [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | tatoeba-v2021-08-07 | 0.373 | 19.2 |
 | | lang = heb-lfn | | | | |

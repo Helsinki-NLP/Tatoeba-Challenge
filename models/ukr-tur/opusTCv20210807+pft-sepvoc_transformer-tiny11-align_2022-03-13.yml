@@ -1,0 +1,37 @@
+release: ukr-tur/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-13.zip
+release-date: 2022-03-13
+dataset-name: opusTCv20210807+pft
+modeltype: transformer-tiny11-align
+vocabulary:
+   source: opusTCv20210807+pft-sepvoc.spm32k-spm32k.src.vocab
+   target: opusTCv20210807+pft-sepvoc.spm32k-spm32k.trg.vocab
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ukr
+target-languages:
+   - tur
+   - tur_Cyrl
+raw-source-languages:
+   - ukr
+raw-target-languages:
+   - tur
+use-target-labels:
+training-data:
+   ukr-tur: Tatoeba-train-v2021-08-07.tur-ukr.strict (5458893) Tatoeba-train.eng-tur-ukr.aa (1000000) Tatoeba-train.eng-tur-ukr.ab (1000000) Tatoeba-train.eng-tur-ukr.ac (1000000) Tatoeba-train.eng-tur-ukr.ad (1000000) Tatoeba-train.eng-tur-ukr.ae (1000000) Tatoeba-train.eng-tur-ukr.af (1000000) Tatoeba-train.eng-tur-ukr.ag (1000000) Tatoeba-train.eng-tur-ukr.ah (1000000) Tatoeba-train.eng-tur-ukr.ai (1000000) Tatoeba-train.eng-tur-ukr.aj (1000000) Tatoeba-train.eng-tur-ukr.ak (1000000) Tatoeba-train.eng-tur-ukr.al (1000000) Tatoeba-train.eng-tur-ukr.am (1000000) Tatoeba-train.eng-tur-ukr.an (1000000) Tatoeba-train.eng-tur-ukr.ao (1000000) Tatoeba-train.eng-tur-ukr.ap (1000000) Tatoeba-train.eng-tur-ukr.aq (1000000) Tatoeba-train.eng-tur-ukr.ar (1000000) Tatoeba-train.eng-tur-ukr.as (1000000) Tatoeba-train.eng-tur-ukr.at (1000000) Tatoeba-train.eng-tur-ukr.au (1000000) Tatoeba-train.eng-tur-ukr.av (1000000) Tatoeba-train.eng-tur-ukr.aw (1000000) Tatoeba-train.eng-tur-ukr.ax (1000000) Tatoeba-train.eng-tur-ukr.ay (1000000) Tatoeba-train.eng-tur-ukr.az (1000000) Tatoeba-train.eng-tur-ukr.ba (1000000) Tatoeba-train.eng-tur-ukr.bb (1000000) Tatoeba-train.eng-tur-ukr.bc (1000000) Tatoeba-train.eng-tur-ukr.bd (1000000) Tatoeba-train.eng-tur-ukr.be (1000000) Tatoeba-train.eng-tur-ukr.bf (1000000) Tatoeba-train.eng-tur-ukr.bg (1000000) Tatoeba-train.eng-tur-ukr.bh (220604) 
+   ukr-tur_Cyrl: Tatoeba-train-v2021-08-07.tur_Cyrl-ukr.strict (429) 
+validation-data:
+   tur-ukr: Tatoeba-dev-v2021-08-07, 6577
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.ukr-multi: 2520/11927
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.ukr-multi: 44.0
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.ukr-multi: 0.69958

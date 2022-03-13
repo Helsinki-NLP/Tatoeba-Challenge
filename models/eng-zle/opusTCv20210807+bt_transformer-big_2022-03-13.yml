@@ -1,0 +1,87 @@
+release: eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip
+release-date: 2022-03-13
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - bel
+   - orv_Cyrl
+   - rue
+   - rus
+   - ukr
+raw-source-languages:
+   - eng
+raw-target-languages:
+   - bel
+   - orv
+   - rue
+   - rus
+   - ukr
+use-target-labels:
+training-data:
+   eng-bel: Tatoeba-train-v2021-08-07.bel-eng.strict (25) wiki.aa (966635) wiki.ab (894574) wikibooks.aa (1629) wikiquote.aa (1489) wikisource.aa (154050) 
+   eng-rue: wiki.aa.rue-eng (46955) 
+   eng-rus: Tatoeba-train-v2021-08-07.eng-rus.strict (213608408) wiki.aa.rus-eng (973499) wiki.ab.rus-eng (973875) wiki.ac.rus-eng (973687) wiki.ad.rus-eng (973873) wiki.ae.rus-eng (973997) wiki.af.rus-eng (974090) wiki.ag.rus-eng (973915) wiki.ah.rus-eng (974075) wiki.ai.rus-eng (973986) wiki.aj.rus-eng (974191) wiki.ak.rus-eng (974118) wiki.al.rus-eng (973754) wiki.am.rus-eng (973725) wiki.an.rus-eng (973833) wiki.ao.rus-eng (973638) wiki.ap.rus-eng (974025) wiki.aq.rus-eng (974044) wiki.ar.rus-eng (974145) wiki.as.rus-eng (974154) wiki.at.rus-eng (973806) wiki.au.rus-eng (973892) wiki.av.rus-eng (973677) wiki.aw.rus-eng (974096) wiki.ax.rus-eng (51282) wikibooks.aa.rus-eng (65439) wikinews.aa.rus-eng (265562) wikiquote.aa.rus-eng (175818) wikisource.aa.rus-eng (948451) wikisource.ab.rus-eng (948782) wikisource.ac.rus-eng (948553) wikisource.ad.rus-eng (948733) wikisource.ae.rus-eng (948632) wikisource.af.rus-eng (948421) wikisource.ag.rus-eng (948387) wikisource.ah.rus-eng (948507) wikisource.ai.rus-eng (235249) 
+   eng-ukr: Tatoeba-train-v2021-08-07.eng-ukr.strict (33220604) wiki.aa.ukr-eng (960713) wiki.ab.ukr-eng (960450) wiki.ac.ukr-eng (960970) wiki.ad.ukr-eng (961148) wiki.ae.ukr-eng (961007) wiki.af.ukr-eng (960701) wiki.ag.ukr-eng (960804) wiki.ah.ukr-eng (960881) wiki.ai.ukr-eng (960638) wiki.aj.ukr-eng (960902) wiki.ak.ukr-eng (960695) wiki.al.ukr-eng (960737) wiki.am.ukr-eng (960473) wiki.an.ukr-eng (960731) wiki.ao.ukr-eng (960602) wiki.ap.ukr-eng (202348) wikibooks.aa.ukr-eng (62199) wikinews.aa.ukr-eng (24777) wikiquote.aa.ukr-eng (59079) wikisource.aa.ukr-eng (633093) 
+validation-data:
+   bel-eng: Tatoeba-dev-v2021-08-07, 4197
+   eng-rus: Tatoeba-dev-v2021-08-07, 499374
+   eng-ukr: Tatoeba-dev-v2021-08-07, 157691
+   total-size-shuffled: 3000
+   devset-selected: top 3000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newstest2012.eng-rus: 3003/64830
+   newstest2013.eng-rus: 3000/58560
+   newstest2015-enru.eng-rus: 2818/55915
+   newstest2016-enru.eng-rus: 2998/62018
+   newstest2017-enru.eng-rus: 3001/60255
+   newstest2018-enru.eng-rus: 3000/61920
+   newstest2019-enru.eng-rus: 1997/48153
+   Tatoeba-test-v2021-08-07.eng-bel: 2500/16231
+   Tatoeba-test-v2021-08-07.eng-orv: 322/1708
+   Tatoeba-test-v2021-08-07.eng-rue: 120/496
+   Tatoeba-test-v2021-08-07.eng-rus: 19425/133881
+   Tatoeba-test-v2021-08-07.eng-ukr: 13127/80866
+   Tatoeba-test-v2021-08-07.eng-multi: 10000/66008
+   tico19-test.eng-rus: 2100/55837
+BLEU-scores:
+   newstest2012.eng-rus: 36.7
+   newstest2013.eng-rus: 26.9
+   newstest2015-enru.eng-rus: 34.9
+   newstest2016-enru.eng-rus: 33.0
+   newstest2017-enru.eng-rus: 37.3
+   newstest2018-enru.eng-rus: 32.8
+   newstest2019-enru.eng-rus: 31.7
+   Tatoeba-test-v2021-08-07.eng-bel: 24.7
+   Tatoeba-test-v2021-08-07.eng-orv: 0.5
+   Tatoeba-test-v2021-08-07.eng-rue: 1.1
+   Tatoeba-test-v2021-08-07.eng-rus: 44.7
+   Tatoeba-test-v2021-08-07.eng-ukr: 37.7
+   Tatoeba-test-v2021-08-07.eng-multi: 41.6
+   tico19-test.eng-rus: 33.8
+chr-F-scores:
+   newstest2012.eng-rus: 0.62851
+   newstest2013.eng-rus: 0.54707
+   newstest2015-enru.eng-rus: 0.62591
+   newstest2016-enru.eng-rus: 0.60568
+   newstest2017-enru.eng-rus: 0.64230
+   newstest2018-enru.eng-rus: 0.61235
+   newstest2019-enru.eng-rus: 0.57847
+   Tatoeba-test-v2021-08-07.eng-bel: 0.50065
+   Tatoeba-test-v2021-08-07.eng-orv: 0.17450
+   Tatoeba-test-v2021-08-07.eng-rue: 0.21725
+   Tatoeba-test-v2021-08-07.eng-rus: 0.65732
+   Tatoeba-test-v2021-08-07.eng-ukr: 0.60066
+   Tatoeba-test-v2021-08-07.eng-multi: 0.63018
+   tico19-test.eng-rus: 0.59342

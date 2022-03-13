@@ -8,5 +8,6 @@ to be useful for anything.
 |:--|---|--:|--:|
 | | lang = cor-eng | | | | |
 | [cel-eng/opus4m+btTCv20210807](../models/cel-eng) | tatoeba-v2021-08-07 | 0.217 | 6.2 |
+| [cel-eng/opusTCv20210807+bt_transformer-big](../models/cel-eng) | tatoeba-v2021-08-07 | 0.15316 | 2.7 |
 | | lang = gsw-eng | | | | |
 | [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | tatoeba-v2021-08-07 | 0.395 | 25.3 |

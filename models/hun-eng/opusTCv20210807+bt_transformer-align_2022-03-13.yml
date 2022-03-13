@@ -1,0 +1,40 @@
+release: hun-eng/opusTCv20210807+bt_transformer-align_2022-03-13.zip
+release-date: 2022-03-13
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-align
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - hun
+target-languages:
+   - eng
+raw-source-languages:
+   - hun
+raw-target-languages:
+   - eng
+training-data:
+   eng-hun: Tatoeba-train-v2021-08-07.eng-hun.strict (107829720) wiki.aa.hun-eng (973640) wiki.ab.hun-eng (973430) wiki.ac.hun-eng (973452) wiki.ad.hun-eng (973459) wiki.ae.hun-eng (973446) wiki.af.hun-eng (973808) wiki.ag.hun-eng (973751) wiki.ah.hun-eng (847756) wikibooks.aa.hun-eng (172375) wikinews.aa.hun-eng (8746) wikiquote.aa.hun-eng (61771) wikisource.aa.hun-eng (653918) 
+validation-data:
+   eng-hun: Tatoeba-dev-v2021-08-07, 92504
+   total-size-shuffled: 92504
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newssyscomb2009.hun-eng: 502/11821
+   newstest2009.hun-eng: 2525/65402
+   Tatoeba-test-v2021-08-07.hun-eng: 10000/72821
+BLEU-scores:
+   newssyscomb2009.hun-eng: 24.1
+   newstest2009.hun-eng: 23.1
+   Tatoeba-test-v2021-08-07.hun-eng: 49.6
+chr-F-scores:
+   newssyscomb2009.hun-eng: 0.52604
+   newstest2009.hun-eng: 0.51698
+   Tatoeba-test-v2021-08-07.hun-eng: 0.66353

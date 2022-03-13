@@ -1,0 +1,72 @@
+release: eng-cat+oci+spa/opusTCv20210807+bt_transformer-big_2022-03-13.zip
+release-date: 2022-03-13
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - cat
+   - oci
+   - spa
+raw-source-languages:
+   - eng
+raw-target-languages:
+   - cat
+   - oci
+   - spa
+use-target-labels:
+validation-data:
+   cat-eng: Tatoeba-dev-v2021-08-07, 228
+   eng-oci: Tatoeba-dev-v2021-08-07, 968
+   eng-spa: Tatoeba-dev-v2021-08-07, 195935
+   total-size-shuffled: 2196
+   devset-selected: top 2196  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newssyscomb2009.eng-spa: 502/12506
+   news-test2008.eng-spa: 2051/52596
+   newstest2009.eng-spa: 2525/68114
+   newstest2010.eng-spa: 2489/65522
+   newstest2011.eng-spa: 3003/79476
+   newstest2012.eng-spa: 3003/79006
+   newstest2013.eng-spa: 3000/70528
+   Tatoeba-test-v2021-08-07.eng-cat: 1631/12342
+   Tatoeba-test-v2021-08-07.eng-oci: 841/5219
+   Tatoeba-test-v2021-08-07.eng-spa: 16583/134681
+   Tatoeba-test-v2021-08-07.eng-multi: 10000/79854
+   tico19-test.eng-spa: 2100/66591
+BLEU-scores:
+   newssyscomb2009.eng-spa: 31.5
+   news-test2008.eng-spa: 29.7
+   newstest2009.eng-spa: 30.5
+   newstest2010.eng-spa: 37.5
+   newstest2011.eng-spa: 39.1
+   newstest2012.eng-spa: 39.6
+   newstest2013.eng-spa: 35.8
+   Tatoeba-test-v2021-08-07.eng-cat: 47.8
+   Tatoeba-test-v2021-08-07.eng-oci: 7.7
+   Tatoeba-test-v2021-08-07.eng-spa: 56.7
+   Tatoeba-test-v2021-08-07.eng-multi: 55.5
+   tico19-test.eng-spa: 52.4
+chr-F-scores:
+   newssyscomb2009.eng-spa: 0.58468
+   news-test2008.eng-spa: 0.56500
+   newstest2009.eng-spa: 0.57968
+   newstest2010.eng-spa: 0.62318
+   newstest2011.eng-spa: 0.62409
+   newstest2012.eng-spa: 0.62962
+   newstest2013.eng-spa: 0.60269
+   Tatoeba-test-v2021-08-07.eng-cat: 0.66475
+   Tatoeba-test-v2021-08-07.eng-oci: 0.29437
+   Tatoeba-test-v2021-08-07.eng-spa: 0.73479
+   Tatoeba-test-v2021-08-07.eng-multi: 0.72143
+   tico19-test.eng-spa: 0.73122

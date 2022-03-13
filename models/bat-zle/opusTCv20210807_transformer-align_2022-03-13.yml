@@ -1,0 +1,62 @@
+release: bat-zle/opusTCv20210807_transformer-align_2022-03-13.zip
+release-date: 2022-03-13
+dataset-name: opusTCv20210807
+modeltype: transformer-align
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - lav
+   - lit
+   - ltg
+target-languages:
+   - rus
+   - ukr
+raw-source-languages:
+   - lav
+   - lit
+   - ltg
+raw-target-languages:
+   - rus
+   - ukr
+use-target-labels:
+training-data:
+   lav-rus: Tatoeba-train-v2021-08-07.lav-rus.strict (8547116) 
+   lav-ukr: Tatoeba-train-v2021-08-07.lav-ukr.strict (3957815) 
+   lit-rus: Tatoeba-train-v2021-08-07.lit-rus.strict (17915943) 
+   lit-ukr: Tatoeba-train-v2021-08-07.lit-ukr.strict (5371979) 
+   ltg-rus: Tatoeba-train-v2021-08-07.ltg-rus.strict (5826) 
+   ltg-ukr: Tatoeba-train-v2021-08-07.ltg-ukr.strict (6424) 
+validation-data:
+   lav-rus: Tatoeba-dev-v2021-08-07, 665
+   lav-ukr: Tatoeba-dev-v2021-08-07, 999
+   lit-rus: Tatoeba-dev-v2021-08-07, 5222
+   lit-ukr: Tatoeba-dev-v2021-08-07, 1000
+   ltg-rus: Tatoeba-dev-v2021-08-07, 1
+   total-size-shuffled: 3665
+   devset-selected: top 3665  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.lav-rus: 274/1533
+   Tatoeba-test-v2021-08-07.lav-ukr: 1/7
+   Tatoeba-test-v2021-08-07.lit-rus: 3598/21831
+   Tatoeba-test-v2021-08-07.lit-ukr: 3/23
+   Tatoeba-test-v2021-08-07.multi-multi: 3876/23479
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.lav-rus: 58.4
+   Tatoeba-test-v2021-08-07.lav-ukr: 8.6
+   Tatoeba-test-v2021-08-07.lit-rus: 53.5
+   Tatoeba-test-v2021-08-07.lit-ukr: 24.2
+   Tatoeba-test-v2021-08-07.multi-multi: 55.2
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.lav-rus: 0.74782
+   Tatoeba-test-v2021-08-07.lav-ukr: 0.62064
+   Tatoeba-test-v2021-08-07.lit-rus: 0.71945
+   Tatoeba-test-v2021-08-07.lit-ukr: 0.69077
+   Tatoeba-test-v2021-08-07.multi-multi: 0.72972
