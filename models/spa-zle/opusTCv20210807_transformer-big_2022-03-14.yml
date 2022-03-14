@@ -1,0 +1,74 @@
+release: spa-zle/opusTCv20210807_transformer-big_2022-03-14.zip
+release-date: 2022-03-14
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - spa
+target-languages:
+   - bel
+   - bel_Latn
+   - orv_Cyrl
+   - rue
+   - rus
+   - ukr
+raw-source-languages:
+   - spa
+raw-target-languages:
+   - bel
+   - orv
+   - rue
+   - rus
+   - ukr
+use-target-labels:
+training-data:
+   spa-bel: Tatoeba-train-v2021-08-07.bel-spa.strict (796831) 
+   spa-bel_Latn: Tatoeba-train-v2021-08-07.bel_Latn-spa.strict (1858) 
+   spa-rus: Tatoeba-train-v2021-08-07.rus-spa.strict (114085061) 
+   spa-ukr: Tatoeba-train-v2021-08-07.spa-ukr.strict (12452070) 
+validation-data:
+   bel-spa: Tatoeba-dev-v2021-08-07, 950
+   bel_Latn-spa: Tatoeba-dev-v2021-08-07, 4
+   rus-spa: Tatoeba-dev-v2021-08-07, 85889
+   spa-ukr: Tatoeba-dev-v2021-08-07, 12808
+   total-size-shuffled: 2933
+   devset-selected: top 2933  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newstest2012.spa-rus: 3003/64830
+   newstest2013.spa-rus: 3000/58560
+   Tatoeba-test-v2021-08-07.spa-multi: 10000/59935
+   Tatoeba-test-v2021-08-07.spa-bel_Latn: 1/8
+   Tatoeba-test-v2021-08-07.spa-bel: 205/1259
+   Tatoeba-test-v2021-08-07.spa-orv: 33/142
+   Tatoeba-test-v2021-08-07.spa-rue: 97/319
+   Tatoeba-test-v2021-08-07.spa-rus: 10506/69028
+   Tatoeba-test-v2021-08-07.spa-ukr: 10115/54407
+BLEU-scores:
+   newstest2012.spa-rus: 23.9
+   newstest2013.spa-rus: 26.1
+   Tatoeba-test-v2021-08-07.spa-multi: 46.2
+   Tatoeba-test-v2021-08-07.spa-bel_Latn: 6.6
+   Tatoeba-test-v2021-08-07.spa-bel: 23.3
+   Tatoeba-test-v2021-08-07.spa-orv: 0.9
+   Tatoeba-test-v2021-08-07.spa-rue: 1.6
+   Tatoeba-test-v2021-08-07.spa-rus: 47.1
+   Tatoeba-test-v2021-08-07.spa-ukr: 39.0
+chr-F-scores:
+   newstest2012.spa-rus: 0.52017
+   newstest2013.spa-rus: 0.53548
+   Tatoeba-test-v2021-08-07.spa-multi: 0.66158
+   Tatoeba-test-v2021-08-07.spa-bel_Latn: 1.174
+   Tatoeba-test-v2021-08-07.spa-bel: 0.50542
+   Tatoeba-test-v2021-08-07.spa-orv: 0.13927
+   Tatoeba-test-v2021-08-07.spa-rue: 0.18533
+   Tatoeba-test-v2021-08-07.spa-rus: 0.67116
+   Tatoeba-test-v2021-08-07.spa-ukr: 0.61030

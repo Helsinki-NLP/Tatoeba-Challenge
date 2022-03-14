@@ -2721,9 +2721,11 @@ to be useful for anything.
 | [sla-sla/opus](../models/sla-sla) | newstest2013 | 0.449 | 17.9 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.376 | 11.6 |
 | | lang = rus-deu | | | | |
+| [zle-deu/opusTCv20210807_transformer-big](../models/zle-deu) | newstest2012 | 0.48778 | 18.9 |
 | [zle-gmw/opus1m](../models/zle-gmw) | newstest2012 | 0.451 | 15.1 |
 | [zle-gmw/opus-tuned4rus2deu](../models/zle-gmw) | newstest2012 | 0.451 | 15.1 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.383 | 10.0 |
+| [zle-deu/opusTCv20210807_transformer-big](../models/zle-deu) | newstest2013 | 0.53322 | 24.1 |
 | [zle-gmw/opus-tuned4rus2deu](../models/zle-gmw) | newstest2013 | 0.487 | 19.0 |
 | [zle-gmw/opus1m](../models/zle-gmw) | newstest2013 | 0.484 | 18.6 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.410 | 12.4 |
@@ -2878,15 +2880,19 @@ to be useful for anything.
 | [zle-gmw/opus1m](../models/zle-gmw) | tico19-test | 0.593 | 27.8 |
 | [zle-eng/opus1m+bt](../models/zle-eng) | tico19-test | 0.582 | 27.1 |
 | | lang = rus-fra | | | | |
+| [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | newstest2012 | 0.51563 | 22.4 |
 | [zle-roa/opus1m](../models/zle-roa) | newstest2012 | 0.509 | 21.5 |
 | [rus-fra/opus](../models/rus-fra) | newstest2012 | 0.485 | 18.3 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.427 | 13.3 |
+| [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | newstest2013 | 0.53771 | 26.2 |
 | [zle-roa/opus1m](../models/zle-roa) | newstest2013 | 0.528 | 24.9 |
 | [rus-fra/opus](../models/rus-fra) | newstest2013 | 0.499 | 21.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.434 | 14.8 |
 | | lang = rus-spa | | | | |
+| [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | newstest2012 | 0.54594 | 28.3 |
 | [zle-roa/opus1m](../models/zle-roa) | newstest2012 | 0.525 | 25.6 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.437 | 16.6 |
+| [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | newstest2013 | 0.56314 | 31.1 |
 | [zle-roa/opus1m](../models/zle-roa) | newstest2013 | 0.535 | 27.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.446 | 17.9 |
 | | lang = som-eng | | | | |
@@ -3036,8 +3042,10 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | newssyscomb2009 | 0.547 | 24.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2009 | 0.538 | 24.0 |
 | | lang = spa-rus | | | | |
+| [spa-zle/opusTCv20210807_transformer-big](../models/spa-zle) | newstest2012 | 0.52017 | 23.9 |
 | [roa-zle/opus1m](../models/roa-zle) | newstest2012 | 0.487 | 20.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.401 | 12.4 |
+| [spa-zle/opusTCv20210807_transformer-big](../models/spa-zle) | newstest2013 | 0.53548 | 26.1 |
 | [roa-zle/opus1m](../models/roa-zle) | newstest2013 | 0.500 | 22.7 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.411 | 13.9 |
 | | lang = swa-eng | | | | |

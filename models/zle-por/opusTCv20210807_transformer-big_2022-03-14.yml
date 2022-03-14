@@ -1,0 +1,63 @@
+release: zle-por/opusTCv20210807_transformer-big_2022-03-14.zip
+release-date: 2022-03-14
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bel
+   - bel_Latn
+   - rus
+   - ukr
+target-languages:
+   - pob
+   - por
+raw-source-languages:
+   - bel
+   - rus
+   - ukr
+raw-target-languages:
+   - pob
+   - por
+use-target-labels:
+training-data:
+   bel-pob: Tatoeba-train-v2021-08-07.bel-pob.strict (30436) 
+   bel-por: Tatoeba-train-v2021-08-07.bel-por.strict (672750) 
+   bel_Latn-pob: Tatoeba-train-v2021-08-07.bel_Latn-pob.strict (61) 
+   bel_Latn-por: Tatoeba-train-v2021-08-07.bel_Latn-por.strict (2155) 
+   rus-pob: Tatoeba-train-v2021-08-07.pob-rus.strict (20596244) 
+   rus-por: Tatoeba-train-v2021-08-07.por-rus.strict (50778621) 
+   ukr-pob: Tatoeba-train-v2021-08-07.pob-ukr.strict (691987) 
+   ukr-por: Tatoeba-train-v2021-08-07.por-ukr.strict (8426806) 
+validation-data:
+   bel-pob: Tatoeba-dev-v2021-08-07, 50
+   bel-por: Tatoeba-dev-v2021-08-07, 943
+   bel_Latn-pob: Tatoeba-dev-v2021-08-07, 1
+   bel_Latn-por: Tatoeba-dev-v2021-08-07, 6
+   por-rus: Tatoeba-dev-v2021-08-07, 9945
+   por-ukr: Tatoeba-dev-v2021-08-07, 1015
+   total-size-shuffled: 3000
+   devset-selected: top 3000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.bel-por: 3/21
+   Tatoeba-test-v2021-08-07.multi-multi: 10000/71519
+   Tatoeba-test-v2021-08-07.rus-por: 10000/74705
+   Tatoeba-test-v2021-08-07.ukr-por: 3372/21301
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.bel-por: 88.4
+   Tatoeba-test-v2021-08-07.multi-multi: 43.3
+   Tatoeba-test-v2021-08-07.rus-por: 41.8
+   Tatoeba-test-v2021-08-07.ukr-por: 43.9
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.bel-por: 0.89898
+   Tatoeba-test-v2021-08-07.multi-multi: 0.64145
+   Tatoeba-test-v2021-08-07.rus-por: 0.63281
+   Tatoeba-test-v2021-08-07.ukr-por: 0.64404

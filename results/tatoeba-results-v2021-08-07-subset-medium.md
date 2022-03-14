@@ -6,6 +6,10 @@ to be useful for anything.
 
 | Model | Test Set | chrF2 | BLEU |
 |:--|---|--:|--:|
+| | lang = bel-fra | | | | |
+| [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | tatoeba-v2021-08-07 | 0.47204 | 26.8 |
+| | lang = bel-spa | | | | |
+| [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | tatoeba-v2021-08-07 | 0.59779 | 38.2 |
 | | lang = fra-bel | | | | |
 | [fra-zle/opusTCv20210807_transformer-big](../models/fra-zle) | tatoeba-v2021-08-07 | 0.46858 | 25.0 |
 | | lang = fry-eng | | | | |
@@ -19,6 +23,8 @@ to be useful for anything.
 | [aav-eng/opus4m+btTCv20210807](../models/aav-eng) | tatoeba-v2021-08-07 | 0.120 | 0.4 |
 | | lang = nds-eng | | | | |
 | [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | tatoeba-v2021-08-07 | 0.602 | 43.3 |
+| | lang = spa-bel | | | | |
+| [spa-zle/opusTCv20210807_transformer-big](../models/spa-zle) | tatoeba-v2021-08-07 | 0.50542 | 23.3 |
 | | lang = vie-epo | | | | |
 | [aav-art/opus4m+btTCv20210807](../models/aav-art) | tatoeba-v2021-08-07 | 0.335 | 11.3 |
 | | lang = vie-vie | | | | |
