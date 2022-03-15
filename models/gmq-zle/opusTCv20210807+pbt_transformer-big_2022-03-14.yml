@@ -1,0 +1,109 @@
+release: gmq-zle/opusTCv20210807+pbt_transformer-big_2022-03-14.zip
+release-date: 2022-03-14
+dataset-name: opusTCv20210807+pbt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+pbt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+pbt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - dan
+   - isl
+   - nno
+   - nob
+   - swe
+target-languages:
+   - bel
+   - bel_Latn
+   - rus
+   - ukr
+raw-source-languages:
+   - dan
+   - isl
+   - nno
+   - nob
+   - swe
+raw-target-languages:
+   - bel
+   - rus
+   - ukr
+use-target-labels:
+training-data:
+   dan-bel: Tatoeba-train-v2021-08-07.bel-dan.strict (720527) 
+   dan-bel_Latn: Tatoeba-train-v2021-08-07.bel_Latn-dan.strict (1833) 
+   dan-rus: Tatoeba-train-v2021-08-07.dan-rus.strict (18297695) 
+   dan-ukr: Tatoeba-train-v2021-08-07.dan-ukr.strict (5377143) Tatoeba-train.eng-dan-ukr.aa (1000000) Tatoeba-train.eng-dan-ukr.ab (1000000) Tatoeba-train.eng-dan-ukr.ac (1000000) Tatoeba-train.eng-dan-ukr.ad (1000000) Tatoeba-train.eng-dan-ukr.ae (1000000) Tatoeba-train.eng-dan-ukr.af (1000000) Tatoeba-train.eng-dan-ukr.ag (1000000) Tatoeba-train.eng-dan-ukr.ah (1000000) Tatoeba-train.eng-dan-ukr.ai (1000000) Tatoeba-train.eng-dan-ukr.aj (1000000) Tatoeba-train.eng-dan-ukr.ak (1000000) Tatoeba-train.eng-dan-ukr.al (1000000) Tatoeba-train.eng-dan-ukr.am (1000000) Tatoeba-train.eng-dan-ukr.an (1000000) Tatoeba-train.eng-dan-ukr.ao (1000000) Tatoeba-train.eng-dan-ukr.ap (1000000) Tatoeba-train.eng-dan-ukr.aq (1000000) Tatoeba-train.eng-dan-ukr.ar (1000000) Tatoeba-train.eng-dan-ukr.as (1000000) Tatoeba-train.eng-dan-ukr.at (1000000) Tatoeba-train.eng-dan-ukr.au (1000000) Tatoeba-train.eng-dan-ukr.av (1000000) Tatoeba-train.eng-dan-ukr.aw (1000000) Tatoeba-train.eng-dan-ukr.ax (1000000) Tatoeba-train.eng-dan-ukr.ay (1000000) Tatoeba-train.eng-dan-ukr.az (1000000) Tatoeba-train.eng-dan-ukr.ba (1000000) Tatoeba-train.eng-dan-ukr.bb (1000000) Tatoeba-train.eng-dan-ukr.bc (1000000) Tatoeba-train.eng-dan-ukr.bd (1000000) Tatoeba-train.eng-dan-ukr.be (1000000) Tatoeba-train.eng-dan-ukr.bf (1000000) Tatoeba-train.eng-dan-ukr.bg (1000000) Tatoeba-train.eng-dan-ukr.bh (220604) 
+   isl-rus: Tatoeba-train-v2021-08-07.isl-rus.strict (1841976) 
+   nno-bel: Tatoeba-train-v2021-08-07.bel-nno.strict (56155) 
+   nno-bel_Latn: Tatoeba-train-v2021-08-07.bel_Latn-nno.strict (547) 
+   nno-rus: Tatoeba-train-v2021-08-07.nno-rus.strict (87732) 
+   nno-ukr: Tatoeba-train-v2021-08-07.nno-ukr.strict (126894) 
+   nob-bel: Tatoeba-train-v2021-08-07.bel-nob.strict (655477) 
+   nob-bel_Latn: Tatoeba-train-v2021-08-07.bel_Latn-nob.strict (1561) 
+   nob-rus: Tatoeba-train-v2021-08-07.nob-rus.strict (12493840) 
+   nob-ukr: Tatoeba-train-v2021-08-07.nob-ukr.strict (5031024) Tatoeba-train.eng-nob-ukr.aa (1000000) Tatoeba-train.eng-nob-ukr.ab (1000000) Tatoeba-train.eng-nob-ukr.ac (1000000) Tatoeba-train.eng-nob-ukr.ad (1000000) Tatoeba-train.eng-nob-ukr.ae (1000000) Tatoeba-train.eng-nob-ukr.af (1000000) Tatoeba-train.eng-nob-ukr.ag (1000000) Tatoeba-train.eng-nob-ukr.ah (1000000) Tatoeba-train.eng-nob-ukr.ai (1000000) Tatoeba-train.eng-nob-ukr.aj (1000000) Tatoeba-train.eng-nob-ukr.ak (1000000) Tatoeba-train.eng-nob-ukr.al (1000000) Tatoeba-train.eng-nob-ukr.am (1000000) Tatoeba-train.eng-nob-ukr.an (1000000) Tatoeba-train.eng-nob-ukr.ao (1000000) Tatoeba-train.eng-nob-ukr.ap (1000000) Tatoeba-train.eng-nob-ukr.aq (1000000) Tatoeba-train.eng-nob-ukr.ar (1000000) Tatoeba-train.eng-nob-ukr.as (1000000) Tatoeba-train.eng-nob-ukr.at (1000000) Tatoeba-train.eng-nob-ukr.au (1000000) Tatoeba-train.eng-nob-ukr.av (1000000) Tatoeba-train.eng-nob-ukr.aw (1000000) Tatoeba-train.eng-nob-ukr.ax (1000000) Tatoeba-train.eng-nob-ukr.ay (1000000) Tatoeba-train.eng-nob-ukr.az (1000000) Tatoeba-train.eng-nob-ukr.ba (1000000) Tatoeba-train.eng-nob-ukr.bb (1000000) Tatoeba-train.eng-nob-ukr.bc (1000000) Tatoeba-train.eng-nob-ukr.bd (1000000) Tatoeba-train.eng-nob-ukr.be (1000000) Tatoeba-train.eng-nob-ukr.bf (1000000) Tatoeba-train.eng-nob-ukr.bg (1000000) Tatoeba-train.eng-nob-ukr.bh (220604) 
+   swe-rus: Tatoeba-train-v2021-08-07.rus-swe.strict (30970150) 
+   swe-ukr: Tatoeba-train-v2021-08-07.swe-ukr.strict (5946377) Tatoeba-train.eng-swe-ukr.aa (1000000) Tatoeba-train.eng-swe-ukr.ab (1000000) Tatoeba-train.eng-swe-ukr.ac (1000000) Tatoeba-train.eng-swe-ukr.ad (1000000) Tatoeba-train.eng-swe-ukr.ae (1000000) Tatoeba-train.eng-swe-ukr.af (1000000) Tatoeba-train.eng-swe-ukr.ag (1000000) Tatoeba-train.eng-swe-ukr.ah (1000000) Tatoeba-train.eng-swe-ukr.ai (1000000) Tatoeba-train.eng-swe-ukr.aj (1000000) Tatoeba-train.eng-swe-ukr.ak (1000000) Tatoeba-train.eng-swe-ukr.al (1000000) Tatoeba-train.eng-swe-ukr.am (1000000) Tatoeba-train.eng-swe-ukr.an (1000000) Tatoeba-train.eng-swe-ukr.ao (1000000) Tatoeba-train.eng-swe-ukr.ap (1000000) Tatoeba-train.eng-swe-ukr.aq (1000000) Tatoeba-train.eng-swe-ukr.ar (1000000) Tatoeba-train.eng-swe-ukr.as (1000000) Tatoeba-train.eng-swe-ukr.at (1000000) Tatoeba-train.eng-swe-ukr.au (1000000) Tatoeba-train.eng-swe-ukr.av (1000000) Tatoeba-train.eng-swe-ukr.aw (1000000) Tatoeba-train.eng-swe-ukr.ax (1000000) Tatoeba-train.eng-swe-ukr.ay (1000000) Tatoeba-train.eng-swe-ukr.az (1000000) Tatoeba-train.eng-swe-ukr.ba (1000000) Tatoeba-train.eng-swe-ukr.bb (1000000) Tatoeba-train.eng-swe-ukr.bc (1000000) Tatoeba-train.eng-swe-ukr.bd (1000000) Tatoeba-train.eng-swe-ukr.be (1000000) Tatoeba-train.eng-swe-ukr.bf (1000000) Tatoeba-train.eng-swe-ukr.bg (1000000) Tatoeba-train.eng-swe-ukr.bh (220604) 
+validation-data:
+   bel-dan: Tatoeba-dev-v2021-08-07, 995
+   bel_Latn-dan: Tatoeba-dev-v2021-08-07, 5
+   dan-rus: Tatoeba-dev-v2021-08-07, 1003
+   dan-ukr: Tatoeba-dev-v2021-08-07, 1001
+   isl-rus: Tatoeba-dev-v2021-08-07, 936
+   bel-nno: Tatoeba-dev-v2021-08-07, 63
+   bel_Latn-nno: Tatoeba-dev-v2021-08-07, 1
+   nno-rus: Tatoeba-dev-v2021-08-07, 6
+   nno-ukr: Tatoeba-dev-v2021-08-07, 16
+   bel-nob: Tatoeba-dev-v2021-08-07, 932
+   bel_Latn-nob: Tatoeba-dev-v2021-08-07, 4
+   nob-rus: Tatoeba-dev-v2021-08-07, 942
+   nob-ukr: Tatoeba-dev-v2021-08-07, 946
+   rus-swe: Tatoeba-dev-v2021-08-07, 50
+   swe-ukr: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 7894
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.dan-bel: 2/8
+   Tatoeba-test-v2021-08-07.dan-rus: 1713/10437
+   Tatoeba-test-v2021-08-07.dan-ukr: 10/47
+   Tatoeba-test-v2021-08-07.isl-rus: 139/897
+   Tatoeba-test-v2021-08-07.nno-rus: 2/11
+   Tatoeba-test-v2021-08-07.nob-rus: 1277/10631
+   Tatoeba-test-v2021-08-07.nor-bel: 9/84
+   Tatoeba-test-v2021-08-07.nor-rus: 1279/10642
+   Tatoeba-test-v2021-08-07.nor-ukr: 670/3966
+   Tatoeba-test-v2021-08-07.multi-multi: 5108/33857
+   Tatoeba-test-v2021-08-07.swe-rus: 1282/7621
+   Tatoeba-test-v2021-08-07.swe-ukr: 4/19
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.dan-bel: 49.3
+   Tatoeba-test-v2021-08-07.dan-rus: 52.1
+   Tatoeba-test-v2021-08-07.dan-ukr: 72.0
+   Tatoeba-test-v2021-08-07.isl-rus: 26.5
+   Tatoeba-test-v2021-08-07.nno-rus: 42.0
+   Tatoeba-test-v2021-08-07.nob-rus: 44.8
+   Tatoeba-test-v2021-08-07.nor-bel: 39.3
+   Tatoeba-test-v2021-08-07.nor-rus: 44.8
+   Tatoeba-test-v2021-08-07.nor-ukr: 40.7
+   Tatoeba-test-v2021-08-07.multi-multi: 47.1
+   Tatoeba-test-v2021-08-07.swe-rus: 43.6
+   Tatoeba-test-v2021-08-07.swe-ukr: 19.1
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.dan-bel: 0.83521
+   Tatoeba-test-v2021-08-07.dan-rus: 0.71417
+   Tatoeba-test-v2021-08-07.dan-ukr: 0.85449
+   Tatoeba-test-v2021-08-07.isl-rus: 0.47607
+   Tatoeba-test-v2021-08-07.nno-rus: 0.76344
+   Tatoeba-test-v2021-08-07.nob-rus: 0.66354
+   Tatoeba-test-v2021-08-07.nor-bel: 0.54588
+   Tatoeba-test-v2021-08-07.nor-rus: 0.66362
+   Tatoeba-test-v2021-08-07.nor-ukr: 0.64450
+   Tatoeba-test-v2021-08-07.multi-multi: 0.67550
+   Tatoeba-test-v2021-08-07.swe-rus: 0.65169
+   Tatoeba-test-v2021-08-07.swe-ukr: 0.48887
