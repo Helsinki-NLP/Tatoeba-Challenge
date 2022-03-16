@@ -1424,6 +1424,7 @@ For multilingual models, it is a mix of all language pairs
 | [uig-tur/opus](../models/uig-tur) | 0.078 | 0.1 |
 | [ukr-bel/opus](../models/ukr-bel) | 0.113 | 2.8 |
 | [ukr-bul/opus](../models/ukr-bul) | 0.734 | 55.7 |
+| [ukr-bul/opusTCv20210807+pft-sepvoc_transformer-tiny11-align](../models/ukr-bul) | 0.73303 | 56.3 |
 | [ukr-cat/opus](../models/ukr-cat) | 0.538 | 33.7 |
 | [ukr-ces/opus](../models/ukr-ces) | 0.686 | 52.0 |
 | [ukr-dan/opusTCv20210807+pft-sepvoc_transformer-tiny11-align](../models/ukr-dan) | 0.83213 | 75.0 |

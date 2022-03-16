@@ -8926,6 +8926,7 @@ to be useful for anything.
 | [ukr-bul/opus](../models/ukr-bul) | tatoeba | 0.734 | 55.7 |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.733 | 56.4 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.601 | 40.4 |
+| [ukr-bul/opusTCv20210807+pft-sepvoc_transformer-tiny11-align](../models/ukr-bul) | tatoeba-v2021-08-07 | 0.73303 | 56.3 |
 | | lang = ukr-cat | | | | |
 | [zle-roa/opus1m](../models/zle-roa) | tatoeba | 0.598 | 39.6 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.538 | 33.9 |
