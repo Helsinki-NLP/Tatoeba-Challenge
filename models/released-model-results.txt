@@ -7246,6 +7246,7 @@ ukr-bel	0.580	33.7	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/o
 ukr-bel	0.113	2.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bel/opus-2020-09-10.zip	2355	12053
 ukr-bul	0.732	56.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	1020	4047
 ukr-bul	0.733	56.4	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	1020	4047
+ukr-bul	0.73303	56.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bul/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	1020	5181
 ukr-bul	0.730	56.3	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-09-26.zip	1020	4047
 ukr-bul	0.728	55.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip	1020	5181
 ukr-bul	0.734	55.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bul/opus-2021-02-18.zip	1020	5181

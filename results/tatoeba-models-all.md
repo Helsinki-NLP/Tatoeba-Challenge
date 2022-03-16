@@ -1458,6 +1458,7 @@ For multilingual models, it is a mix of all language pairs
 | [ukr-por/opus](../models/ukr-por) | 0.607 | 38.9 |
 | [ukr-por/opus](../models/ukr-por) | 0.601 | 38.1 |
 | [ukr-ron/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/ukr-ron) | 0.80433 | 78.8 |
+| [ukr-ron/opusTCv20210807+pft-sepvoc_transformer-tiny11-align](../models/ukr-ron) | 0.85575 | 89.4 |
 | [ukr-ron/opusTCv20210807+pft_transformer-align](../models/ukr-ron) | 0.85575 | 89.4 |
 | [ukr-rus/opus](../models/ukr-rus) | 0.826 | 69.2 |
 | [ukr-slv/opus](../models/ukr-slv) | 0.280 | 11.8 |

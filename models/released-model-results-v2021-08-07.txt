@@ -459,6 +459,7 @@ ukr-bel	0.75005	58.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opusT
 ukr-bel	0.74512	58.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opusTCv20210807+bt_transformer-big_2022-03-12.zip	2355	15166
 ukr-bel_Latn	5.440	2.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	8	61
 ukr-bel_Latn	5.239	2.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opusTCv20210807+bt_transformer-big_2022-03-12.zip	8	61
+ukr-bul	0.73303	56.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bul/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	1020	5181
 ukr-ces	0.71797	55.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	1787	8549
 ukr-ces	0.69251	52.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ces+slk/opusTCv20210807+pft_transformer-align_2022-03-08.zip	1787	8550
 ukr-dan	0.92688	86.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmq/opusTCv20210807+pft_transformer-big_2022-03-14.zip	10	54

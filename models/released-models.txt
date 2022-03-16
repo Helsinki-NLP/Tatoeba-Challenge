@@ -1424,6 +1424,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/uig-rus/opus-2020-09-10.zip	uig-ru
 https://object.pouta.csc.fi/Tatoeba-MT-models/uig-tur/opus-2020-09-10.zip	uig-tur	ug-tr	0.078	0.1	Uighur	Turkish
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bel/opus-2020-09-10.zip	ukr-bel	uk-be	0.113	2.8	Ukrainian	Belarusian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bul/opus-2021-02-18.zip	ukr-bul	uk-bg	0.734	55.7	Ukrainian	Bulgarian
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bul/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	ukr-bul	uk-bg	0.73303	56.3	Ukrainian	Bulgarian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-cat/opus-2021-02-19.zip	ukr-cat	uk-ca	0.538	33.7	Ukrainian	Catalan
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ces/opus-2021-02-19.zip	ukr-ces	uk-cs	0.686	52.0	Ukrainian	Czech
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-dan/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-13.zip	ukr-dan	uk-da	0.83213	75.0	Ukrainian	Danish
@@ -1457,6 +1458,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-pol/opus-2021-02-19.zip	ukr-po
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-por/opus-2020-06-17.zip	ukr-por	uk-pt	0.601	38.1	Ukrainian	Portuguese
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-por/opus-2021-02-23.zip	ukr-por	uk-pt	0.607	38.9	Ukrainian	Portuguese
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ron/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	ukr-ron	uk-ro	0.80433	78.8	Ukrainian	Romanian
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ron/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	ukr-ron	uk-ro	0.85575	89.4	Ukrainian	Romanian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ron/opusTCv20210807+pft_transformer-align_2022-03-08.zip	ukr-ron	uk-ro	0.85575	89.4	Ukrainian	Romanian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-rus/opus-2021-02-19.zip	ukr-rus	uk-ru	0.826	69.2	Ukrainian	Russian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-slv/opus-2021-02-19.zip	ukr-slv	uk-sl	0.280	11.8	Ukrainian	Slovenian

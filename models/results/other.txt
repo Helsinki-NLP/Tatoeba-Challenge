@@ -27390,6 +27390,7 @@ ukr-ben	flores101-dev	0.230	1.4	https://object.pouta.csc.fi/Tatoeba-MT-models/in
 ukr-ben	flores101-dev	0.225	1.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	997	20170
 ukr-ben	flores101-devtest	0.225	1.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	1012	21155
 ukr-ben	flores101-devtest	0.218	1.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1012	21155
+ukr-bul	flores101-dev	0.58814	30.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bul/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	997	23520
 ukr-bul	flores101-dev	0.524	22.3	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	997	23520
 ukr-bul	flores101-dev	0.511	22.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bul/opus-2021-02-18.zip	997	23520
 ukr-bul	flores101-dev	0.519	21.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	997	23520
@@ -27399,6 +27400,7 @@ ukr-bul	flores101-dev	0.519	21.8	https://object.pouta.csc.fi/Tatoeba-MT-models/s
 ukr-bul	flores101-dev	0.515	21.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-09-26.zip	997	23520
 ukr-bul	flores101-dev	0.438	14.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	997	23520
 ukr-bul	flores101-dev	0.430	13.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	997	23520
+ukr-bul	flores101-devtest	0.58905	30.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bul/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	1012	24700
 ukr-bul	flores101-devtest	0.523	21.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	1012	24700
 ukr-bul	flores101-devtest	0.523	21.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-16.zip	1012	24700
 ukr-bul	flores101-devtest	0.523	21.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip	1012	24700
