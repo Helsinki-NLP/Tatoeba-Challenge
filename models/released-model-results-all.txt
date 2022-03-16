@@ -17896,6 +17896,7 @@ ukr-deu	0.69905	53.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-deu/opusT
 ukr-deu	0.69211	52.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+pft_transformer-align_2022-03-06.zip	10000	62652
 ukr-deu	0.678	50.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2deu-2021-01-17.zip	10000	50663
 ukr-deu	0.672	50.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-18.zip	10000	62293
+ukr-deu	0.66981	49.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	10000	62652
 ukr-deu	0.661	48.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opus-2021-02-18.zip	10000	62298
 ukr-deu	0.543	34.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10000	50663
 ukr-deu	0.529	32.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10000	50663

@@ -1430,6 +1430,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ces/opus-2021-02-19.zip	ukr-ce
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-dan/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-13.zip	ukr-dan	uk-da	0.83213	75.0	Ukrainian	Danish
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-dan/opusTCv20210807+pft_transformer-align_2022-03-07.zip	ukr-dan	uk-da	0.92589	86.7	Ukrainian	Danish
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opus-2021-02-18.zip	ukr-deu	uk-de	0.661	48.2	Ukrainian	German
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	ukr-deu	uk-de	0.66981	49.0	Ukrainian	German
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+pft_transformer-align_2022-03-06.zip	ukr-deu	uk-de	0.69211	52.2	Ukrainian	German
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opus+bt-2021-04-30.zip	ukr-eng	uk-en	0.675	52.2	Ukrainian	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opus-2021-02-19.zip	ukr-eng	uk-en	0.670	51.7	Ukrainian	English

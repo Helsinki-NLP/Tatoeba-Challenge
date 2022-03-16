@@ -8953,6 +8953,7 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.508 | 29.9 |
 | [zle-deu/opusTCv20210807_transformer-big](../models/zle-deu) | tatoeba-v2021-08-07 | 0.69905 | 53.4 |
 | [ukr-deu/opusTCv20210807+pft_transformer-align](../models/ukr-deu) | tatoeba-v2021-08-07 | 0.69211 | 52.2 |
+| [ukr-deu/opusTCv20210807+pft-sepvoc_transformer-tiny11-align](../models/ukr-deu) | tatoeba-v2021-08-07 | 0.66981 | 49.0 |
 | | lang = ukr-eng | | | | |
 | [sla-eng/opus4m](../models/sla-eng) | tatoeba | 0.685 | 53.6 |
 | [sla-eng/opus](../models/sla-eng) | tatoeba | 0.683 | 53.4 |

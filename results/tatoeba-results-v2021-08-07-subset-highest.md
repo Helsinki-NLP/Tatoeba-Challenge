@@ -248,6 +248,7 @@ to be useful for anything.
 | | lang = ukr-deu | | | | |
 | [zle-deu/opusTCv20210807_transformer-big](../models/zle-deu) | tatoeba-v2021-08-07 | 0.69905 | 53.4 |
 | [ukr-deu/opusTCv20210807+pft_transformer-align](../models/ukr-deu) | tatoeba-v2021-08-07 | 0.69211 | 52.2 |
+| [ukr-deu/opusTCv20210807+pft-sepvoc_transformer-tiny11-align](../models/ukr-deu) | tatoeba-v2021-08-07 | 0.66981 | 49.0 |
 | | lang = ukr-eng | | | | |
 | [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.70441 | 55.8 |
 | [ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-eng) | tatoeba-v2021-08-07 | 0.67210 | 51.4 |
