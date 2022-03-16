@@ -1186,6 +1186,7 @@ For multilingual models, it is a mix of all language pairs
 | [pol-nor/opus](../models/pol-nor) | 0.668 | 50.1 |
 | [pol-nor/opus](../models/pol-nor) | 0.479 | 27.5 |
 | [pol-ukr/opus](../models/pol-ukr) | 0.665 | 47.1 |
+| [pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/pol-ukr) | 0.68493 | 48.2 |
 | [por-cat/opus](../models/por-cat) | 0.672 | 45.7 |
 | [por-cat/opus](../models/por-cat) | 0.633 | 41.5 |
 | [por-dan/opus](../models/por-dan) | 0.775 | 63.3 |

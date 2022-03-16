@@ -1186,6 +1186,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/pol-lit/opus-2021-02-19.zip	pol-li
 https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2020-06-17.zip	pol-nor	pl-no	0.479	27.5	Polish	Norwegian
 https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2021-02-24.zip	pol-nor	pl-no	0.668	50.1	Polish	Norwegian
 https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opus-2021-02-18.zip	pol-ukr	pl-uk	0.665	47.1	Polish	Ukrainian
+https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	pol-ukr	pl-uk	0.68493	48.2	Polish	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/por-cat/opus-2020-06-17.zip	por-cat	pt-ca	0.672	45.7	Portuguese	Catalan
 https://object.pouta.csc.fi/Tatoeba-MT-models/por-cat/opus-2021-02-23.zip	por-cat	pt-ca	0.633	41.5	Portuguese	Catalan
 https://object.pouta.csc.fi/Tatoeba-MT-models/por-dan/opus-2021-02-18.zip	por-dan	pt-da	0.775	63.3	Portuguese	Danish

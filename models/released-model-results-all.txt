@@ -14985,6 +14985,7 @@ pol-swe	0.518	33.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-20
 pol-tgl	0.513	30.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/opus-2020-06-19.zip	25	134
 pol-tur	0.459	18.9	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/opus-2020-06-19.zip	891	3894
 pol-uig	0.175	0.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lower/opus-2020-06-19.zip	23	87
+pol-ukr	0.68493	48.2	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	2519	13535
 pol-ukr	0.67885	48.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	2519	13493
 pol-ukr	0.665	47.1	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opus-2021-02-18.zip	2500	13434
 pol-ukr	0.664	46.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	2500	10477

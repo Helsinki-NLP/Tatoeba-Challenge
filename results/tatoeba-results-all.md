@@ -7433,6 +7433,7 @@ to be useful for anything.
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.664 | 46.7 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.538 | 32.8 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.500 | 28.3 |
+| [pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/pol-ukr) | tatoeba-v2021-08-07 | 0.68493 | 48.2 |
 | [zlw-zle/opusTCv20210807+bt_transformer-big](../models/zlw-zle) | tatoeba-v2021-08-07 | 0.67885 | 48.1 |
 | | lang = pol-zho | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.019 | 0.0 |
