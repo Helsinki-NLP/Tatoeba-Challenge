@@ -233,6 +233,7 @@ to be useful for anything.
 | [hun-eng/opusTCv20210807+bt_transformer-big](../models/hun-eng) | tatoeba-v2021-08-07 | 0.67001 | 50.8 |
 | [hun-eng/opusTCv20210807+bt_transformer-align](../models/hun-eng) | tatoeba-v2021-08-07 | 0.66353 | 49.6 |
 | | lang = hun-ukr | | | | |
+| [hun-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/hun-ukr) | tatoeba-v2021-08-07 | 0.61451 | 40.4 |
 | [hun-ukr/opusTCv20210807+pbt_transformer-align](../models/hun-ukr) | tatoeba-v2021-08-07 | 0.61006 | 38.1 |
 | | lang = isl-eng | | | | |
 | [gmq-eng/opusTCv20210807+bt_transformer-big](../models/gmq-eng) | tatoeba-v2021-08-07 | 0.67868 | 52.6 |
@@ -376,6 +377,7 @@ to be useful for anything.
 | [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | tatoeba-v2021-08-07 | 0.63086 | 44.6 |
 | | lang = ukr-hun | | | | |
 | [ukr-hun/opusTCv20210807+pft_transformer-align](../models/ukr-hun) | tatoeba-v2021-08-07 | 0.67544 | 44.0 |
+| [ukr-hun/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/ukr-hun) | tatoeba-v2021-08-07 | 0.66840 | 42.5 |
 | [ukr-hun/opusTCv20210807+pft-sepvoc_transformer-tiny11-align](../models/ukr-hun) | tatoeba-v2021-08-07 | 0.65065 | 42.2 |
 | | lang = ukr-nob | | | | |
 | [ukr-nob/opusTCv20210807+pft-sepvoc_transformer-tiny11-align](../models/ukr-nob) | tatoeba-v2021-08-07 | 0.71968 | 57.1 |
