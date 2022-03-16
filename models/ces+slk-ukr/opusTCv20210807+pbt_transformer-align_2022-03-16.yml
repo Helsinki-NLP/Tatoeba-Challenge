@@ -1,0 +1,41 @@
+release: ces+slk-ukr/opusTCv20210807+pbt_transformer-align_2022-03-16.zip
+release-date: 2022-03-16
+dataset-name: opusTCv20210807+pbt
+modeltype: transformer-align
+vocabulary:
+   source: opusTCv20210807+pbt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+pbt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ces
+target-languages:
+   - ukr
+raw-source-languages:
+   - ces
+raw-target-languages:
+   - ukr
+training-data:
+   ces-ukr: Tatoeba-train-v2021-08-07.ces-ukr.strict (7465713) 
+   slk-ukr: Tatoeba-train.eng-slk-ukr.aa (1000000) Tatoeba-train.eng-slk-ukr.ab (1000000) Tatoeba-train.eng-slk-ukr.ac (1000000) Tatoeba-train.eng-slk-ukr.ad (1000000) Tatoeba-train.eng-slk-ukr.ae (1000000) Tatoeba-train.eng-slk-ukr.af (1000000) Tatoeba-train.eng-slk-ukr.ag (1000000) Tatoeba-train.eng-slk-ukr.ah (1000000) Tatoeba-train.eng-slk-ukr.ai (1000000) Tatoeba-train.eng-slk-ukr.aj (1000000) Tatoeba-train.eng-slk-ukr.ak (1000000) Tatoeba-train.eng-slk-ukr.al (1000000) Tatoeba-train.eng-slk-ukr.am (1000000) Tatoeba-train.eng-slk-ukr.an (1000000) Tatoeba-train.eng-slk-ukr.ao (1000000) Tatoeba-train.eng-slk-ukr.ap (1000000) Tatoeba-train.eng-slk-ukr.aq (1000000) Tatoeba-train.eng-slk-ukr.ar (1000000) Tatoeba-train.eng-slk-ukr.as (1000000) Tatoeba-train.eng-slk-ukr.at (1000000) Tatoeba-train.eng-slk-ukr.au (1000000) Tatoeba-train.eng-slk-ukr.av (1000000) Tatoeba-train.eng-slk-ukr.aw (1000000) Tatoeba-train.eng-slk-ukr.ax (1000000) Tatoeba-train.eng-slk-ukr.ay (1000000) Tatoeba-train.eng-slk-ukr.az (1000000) Tatoeba-train.eng-slk-ukr.ba (1000000) Tatoeba-train.eng-slk-ukr.bb (1000000) Tatoeba-train.eng-slk-ukr.bc (1000000) Tatoeba-train.eng-slk-ukr.bd (1000000) Tatoeba-train.eng-slk-ukr.be (1000000) Tatoeba-train.eng-slk-ukr.bf (1000000) Tatoeba-train.eng-slk-ukr.bg (1000000) Tatoeba-train.eng-slk-ukr.bh (220604) 
+validation-data:
+   ces-ukr: Tatoeba-dev-v2021-08-07, 1110
+   total-size-shuffled: 1110
+   devset-selected: top 1110  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.ces-ukr: 1787/8854
+   Tatoeba-test-v2021-08-07.ces-ukr: 1787/8891
+   Tatoeba-test-v2021-08-07.multi-ukr: 1787/8891
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.ces-ukr: 48.9
+   Tatoeba-test-v2021-08-07.ces-ukr: 49.4
+   Tatoeba-test-v2021-08-07.multi-ukr: 49.4
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.ces-ukr: 0.67447
+   Tatoeba-test-v2021-08-07.ces-ukr: 0.67676
+   Tatoeba-test-v2021-08-07.multi-ukr: 0.67676

@@ -182,6 +182,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/cel-eng/opus4m+btTCv20210807-2021-
 https://object.pouta.csc.fi/Tatoeba-MT-models/cel-eng/opus4m-2020-08-12.zip	cel-eng	cel-en	0.404	23.3	Celtic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/cel-eng/opusTCv20210807+bt_transformer-big_2022-03-13.zip	cel-eng	cel-en	0.41882	27.0	Celtic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/ces+slk-eng/opusTCv20210807+bt_transformer-big_2022-03-13.zip	ces+slk-eng	ces+slk-en	0.72297	58.1	unknown	English
+https://object.pouta.csc.fi/Tatoeba-MT-models/ces+slk-ukr/opusTCv20210807+pbt_transformer-align_2022-03-16.zip	ces+slk-ukr	ces+slk-uk	0.67676	49.4	unknown	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ces-deu/opus-2021-02-19.zip	ces-deu	cs-de	0.692	51.5	Czech	German
 https://object.pouta.csc.fi/Tatoeba-MT-models/ces-eng/opus+bt-2021-04-30.zip	ces-eng	cs-en	0.718	56.9	Czech	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/ces-eng/opus-2021-01-03.zip	ces-eng	cs-en	0.719	57.0	Czech	English
@@ -1425,11 +1426,13 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/uig-rus/opus-2020-09-10.zip	uig-ru
 https://object.pouta.csc.fi/Tatoeba-MT-models/uig-tur/opus-2020-09-10.zip	uig-tur	ug-tr	0.078	0.1	Uighur	Turkish
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bel/opus-2020-09-10.zip	ukr-bel	uk-be	0.113	2.8	Ukrainian	Belarusian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bul/opus-2021-02-18.zip	ukr-bul	uk-bg	0.734	55.7	Ukrainian	Bulgarian
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-bul/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	ukr-bul	uk-bg	0.73303	56.3	Ukrainian	Bulgarian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-cat/opus-2021-02-19.zip	ukr-cat	uk-ca	0.538	33.7	Ukrainian	Catalan
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ces/opus-2021-02-19.zip	ukr-ces	uk-cs	0.686	52.0	Ukrainian	Czech
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-dan/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-13.zip	ukr-dan	uk-da	0.83213	75.0	Ukrainian	Danish
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-dan/opusTCv20210807+pft_transformer-align_2022-03-07.zip	ukr-dan	uk-da	0.92589	86.7	Ukrainian	Danish
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opus-2021-02-18.zip	ukr-deu	uk-de	0.661	48.2	Ukrainian	German
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	ukr-deu	uk-de	0.66981	49.0	Ukrainian	German
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+pft_transformer-align_2022-03-06.zip	ukr-deu	uk-de	0.69211	52.2	Ukrainian	German
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opus+bt-2021-04-30.zip	ukr-eng	uk-en	0.675	52.2	Ukrainian	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opus-2021-02-19.zip	ukr-eng	uk-en	0.670	51.7	Ukrainian	English
@@ -1458,6 +1461,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-pol/opus-2021-02-19.zip	ukr-po
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-por/opus-2020-06-17.zip	ukr-por	uk-pt	0.601	38.1	Ukrainian	Portuguese
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-por/opus-2021-02-23.zip	ukr-por	uk-pt	0.607	38.9	Ukrainian	Portuguese
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ron/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	ukr-ron	uk-ro	0.80433	78.8	Ukrainian	Romanian
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ron/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	ukr-ron	uk-ro	0.85575	89.4	Ukrainian	Romanian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ron/opusTCv20210807+pft_transformer-align_2022-03-08.zip	ukr-ron	uk-ro	0.85575	89.4	Ukrainian	Romanian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-rus/opus-2021-02-19.zip	ukr-rus	uk-ru	0.826	69.2	Ukrainian	Russian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-slv/opus-2021-02-19.zip	ukr-slv	uk-sl	0.280	11.8	Ukrainian	Slovenian
@@ -1557,6 +1561,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opus-2020-10-04.zip	zle-zl
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opus-2021-02-23.zip	zle-zle	zle-zle	0.730	55.0	East Slavic languages	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	zle-zle	zle-zle	0.81487	67.9	East Slavic languages	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opusTCv20210807+bt_transformer-big_2022-03-12.zip	zle-zle	zle-zle	0.81499	68.0	East Slavic languages	East Slavic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zls/opusTCv20210807+bt_transformer-big_2022-03-16.zip	zle-zls	zle-zls	0.63906	46.3	East Slavic languages	South Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	zle-zlw	zle-zlw	0.71877	54.3	East Slavic languages	West Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-eng/opus-2020-06-28.zip	zls-eng	zls-en	0.671	52.8	South Slavic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-eng/opus-2020-07-04.zip	zls-eng	zls-en	0.648	50.5	South Slavic languages	English
@@ -1567,6 +1572,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/zls-eng/opus4m+btTCv20210807-2021-
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-eng/opus4m+btTCv20210807-2021-10-01.zip	zls-eng	zls-en	0.669	52.8	South Slavic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-eng/opus4m-2020-08-12.zip	zls-eng	zls-en	0.677	53.8	South Slavic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-fiu/opus-2021-02-19.zip	zls-fiu	zls-fiu	0.576	37.7	South Slavic languages	Finno-Ugrian languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zle/opusTCv20210807+bt_transformer-big_2022-03-16.zip	zls-zle	zls-zle	0.65666	47.9	South Slavic languages	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2020-07-27.zip	zls-zls	zls-zls	0.563	26.5	South Slavic languages	South Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2020-10-04.zip	zls-zls	zls-zls	0.596	44.2	South Slavic languages	South Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2021-02-23.zip	zls-zls	zls-zls	0.687	48.3	South Slavic languages	South Slavic languages
