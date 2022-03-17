@@ -16,10 +16,12 @@ source-languages:
    - ukr
 target-languages:
    - ces
+   - slk
 raw-source-languages:
    - ukr
 raw-target-languages:
    - ces
+   - slk
 use-target-labels:
 training-data:
    ukr-ces: Tatoeba-train-v2021-08-07.ces-ukr.strict (7465713) 
