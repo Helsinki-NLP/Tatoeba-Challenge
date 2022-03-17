@@ -162,7 +162,7 @@ to be useful for anything.
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.483 | 28.3 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.475 | 28.0 |
 | [bel-eng/opus](../models/bel-eng) | tatoeba | 0.268 | 10.0 |
-| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.64466 | 47.3 |
+| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.65139 | 48.0 |
 | | lang = bel-epo | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.517 | 29.3 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.504 | 28.8 |
@@ -249,6 +249,7 @@ to be useful for anything.
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.778 | 62.0 |
 | [zls-eng/opus1m+bt](../models/zls-eng) | tatoeba | 0.757 | 59.9 |
 | [hbs-eng/opusTCv20210807+bt_transformer-big](../models/hbs-eng) | tatoeba-v2021-08-07 | 0.80006 | 66.4 |
+| [zls-eng/opusTCv20210807+bt_transformer-big](../models/zls-eng) | tatoeba-v2021-08-07 | 0.79335 | 66.5 |
 | | lang = bre-eng | | | | |
 | [bre-eng/opus+bt](../models/bre-eng) | tatoeba | 0.518 | 33.5 |
 | [cel-eng/opus1m+bt-tuned4bre2eng](../models/cel-eng) | tatoeba | 0.502 | 32.3 |
@@ -288,6 +289,7 @@ to be useful for anything.
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.621 | 46.0 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.547 | 36.5 |
 | [bul-eng/opusTCv20210807+bt_transformer-big](../models/bul-eng) | tatoeba-v2021-08-07 | 0.73687 | 60.5 |
+| [zls-eng/opusTCv20210807+bt_transformer-big](../models/zls-eng) | tatoeba-v2021-08-07 | 0.72623 | 59.2 |
 | | lang = bul-epo | | | | |
 | [bul-epo/opus](../models/bul-epo) | tatoeba | 0.438 | 24.5 |
 | | lang = bul-fra | | | | |
@@ -401,7 +403,8 @@ to be useful for anything.
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.584 | 41.4 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.529 | 33.8 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.495 | 30.3 |
-| [ces+slk-eng/opusTCv20210807+bt_transformer-big](../models/ces+slk-eng) | tatoeba-v2021-08-07 | 0.71753 | 57.4 |
+| [ces+slk-eng/opusTCv20210807+bt_transformer-big](../models/ces+slk-eng) | tatoeba-v2021-08-07 | 0.71920 | 57.5 |
+| [zlw-eng/opusTCv20210807+bt_transformer-big](../models/zlw-eng) | tatoeba-v2021-08-07 | 0.71663 | 57.2 |
 | | lang = ces-epo | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.524 | 30.4 |
 | [ces-epo/opus](../models/ces-epo) | tatoeba | 0.459 | 26.0 |
@@ -1930,7 +1933,7 @@ to be useful for anything.
 | [eng-cel/opus1m+bt-tuned4eng2cym](../models/eng-cel) | tatoeba | 0.174 | 5.0 |
 | [eng-cel/opus1m+bt-tuned4eng2bre](../models/eng-cel) | tatoeba | 0.130 | 1.3 |
 | [eng-fiu/opus1m+bt-tuned4eng2sme](../models/eng-fiu) | tatoeba | 0.122 | 0.4 |
-| [eng-gmq/opusTCv20210807+bt_transformer-big](../models/eng-gmq) | tatoeba-v2021-08-07 | 0.72602 | 58.5 |
+| [eng-gmq/opusTCv20210807+bt_transformer-big](../models/eng-gmq) | tatoeba-v2021-08-07 | 0.72799 | 58.8 |
 | [eng-cat+oci+spa/opusTCv20210807+bt_transformer-big](../models/eng-cat+oci+spa) | tatoeba-v2021-08-07 | 0.72143 | 55.5 |
 | [eng-est/opusTCv20210807+bt_transformer-big](../models/eng-est) | tatoeba-v2021-08-07 | 0.71219 | 53.4 |
 | [eng-por/opusTCv20210807+bt_transformer-big](../models/eng-por) | tatoeba-v2021-08-07 | 0.69324 | 49.7 |
@@ -2799,6 +2802,7 @@ to be useful for anything.
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.224 | 3.1 |
 | | lang = fin-multi | | | | |
 | [fin-gmq/opus4m+btTCv20210807](../models/fin-gmq) | tatoeba-v2021-08-07 | 0.691 | 50.9 |
+| [fin-zle/opusTCv20210807+bt_transformer-big](../models/fin-zle) | tatoeba-v2021-08-07 | 0.67187 | 46.9 |
 | [fin-zle/opus4m+btTCv20210807](../models/fin-zle) | tatoeba-v2021-08-07 | 0.663 | 45.8 |
 | [fin-zlw/opus4m+btTCv20210807](../models/fin-zlw) | tatoeba-v2021-08-07 | 0.660 | 47.4 |
 | [fin-art/opus4m+btTCv20210807](../models/fin-art) | tatoeba-v2021-08-07 | 0.637 | 43.0 |
@@ -2832,6 +2836,7 @@ to be useful for anything.
 | [urj-rus/opus1m](../models/urj-rus) | tatoeba | 0.613 | 39.9 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.435 | 22.5 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.411 | 20.7 |
+| [fin-zle/opusTCv20210807+bt_transformer-big](../models/fin-zle) | tatoeba-v2021-08-07 | 0.66276 | 45.4 |
 | [fin-zle/opus4m+btTCv20210807](../models/fin-zle) | tatoeba-v2021-08-07 | 0.659 | 44.9 |
 | [fin-rus/opus+bt](../models/fin-rus) | tatoeba-v2021-08-07 | 0.645 | 42.8 |
 | | lang = fin-spa | | | | |
@@ -3262,6 +3267,7 @@ to be useful for anything.
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.625 | 46.9 |
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.623 | 46.7 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.563 | 38.6 |
+| [zls-eng/opusTCv20210807+bt_transformer-big](../models/zls-eng) | tatoeba-v2021-08-07 | 0.71720 | 57.2 |
 | | lang = hbs-epo | | | | |
 | [hbs-epo/opus](../models/hbs-epo) | tatoeba | 0.383 | 18.7 |
 | | lang = hbs-fra | | | | |
@@ -3413,6 +3419,7 @@ to be useful for anything.
 | | lang = hrv-eng | | | | |
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.727 | 57.4 |
 | [zls-eng/opus1m+bt](../models/zls-eng) | tatoeba | 0.702 | 54.2 |
+| [zls-eng/opusTCv20210807+bt_transformer-big](../models/zls-eng) | tatoeba-v2021-08-07 | 0.74027 | 59.2 |
 | [hbs-eng/opusTCv20210807+bt_transformer-big](../models/hbs-eng) | tatoeba-v2021-08-07 | 0.73512 | 58.7 |
 | | lang = hrv-pol | | | | |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.621 | 39.0 |
@@ -4359,6 +4366,7 @@ to be useful for anything.
 | [mul-eng/opus2m](../models/mul-eng) | tatoeba | 0.593 | 44.3 |
 | [mul-eng/opus](../models/mul-eng) | tatoeba | 0.593 | 44.4 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.524 | 35.8 |
+| [zls-eng/opusTCv20210807+bt_transformer-big](../models/zls-eng) | tatoeba-v2021-08-07 | 0.69973 | 57.2 |
 | | lang = mkd-spa | | | | |
 | [mkd-spa/opus](../models/mkd-spa) | tatoeba | 0.717 | 56.5 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.601 | 43.2 |
@@ -4560,12 +4568,14 @@ to be useful for anything.
 | [cel-eng/opus1m+bt-tuned4bre2eng](../models/cel-eng) | tatoeba | 0.188 | 6.6 |
 | [gmq-eng/opusTCv20210807+bt_transformer-big](../models/gmq-eng) | tatoeba-v2021-08-07 | 0.76120 | 63.7 |
 | [cat+oci+spa-eng/opusTCv20210807+bt_transformer-big](../models/cat+oci+spa-eng) | tatoeba-v2021-08-07 | 0.74626 | 60.7 |
-| [lav-eng/opusTCv20210807+bt_transformer-big](../models/lav-eng) | tatoeba-v2021-08-07 | 0.73884 | 59.2 |
+| [lav-eng/opusTCv20210807+bt_transformer-big](../models/lav-eng) | tatoeba-v2021-08-07 | 0.74132 | 59.5 |
 | [est-eng/opusTCv20210807+bt_transformer-big](../models/est-eng) | tatoeba-v2021-08-07 | 0.73707 | 59.7 |
 | [ces+slk-eng/opusTCv20210807+bt_transformer-big](../models/ces+slk-eng) | tatoeba-v2021-08-07 | 0.72297 | 58.1 |
 | [gmq-eng/opus4m+btTCv20210807](../models/gmq-eng) | tatoeba-v2021-08-07 | 0.722 | 58.6 |
 | [hbs-eng/opusTCv20210807+bt_transformer-big](../models/hbs-eng) | tatoeba-v2021-08-07 | 0.71724 | 56.3 |
-| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.70282 | 55.6 |
+| [zlw-eng/opusTCv20210807+bt_transformer-big](../models/zlw-eng) | tatoeba-v2021-08-07 | 0.70984 | 56.4 |
+| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.70546 | 56.0 |
+| [zls-eng/opusTCv20210807+bt_transformer-big](../models/zls-eng) | tatoeba-v2021-08-07 | 0.69058 | 55.6 |
 | [bat-eng/opus4m+btTCv20210807](../models/bat-eng) | tatoeba-v2021-08-07 | 0.675 | 52.7 |
 | [zls-eng/opus4m+btTCv20210807](../models/zls-eng) | tatoeba-v2021-08-07 | 0.669 | 52.8 |
 | [zlw-eng/opus4m+btTCv20210807](../models/zlw-eng) | tatoeba-v2021-08-07 | 0.666 | 50.4 |
@@ -5149,7 +5159,7 @@ to be useful for anything.
 | [zle-eng/opus](../models/zle-eng) | tatoeba | 0.213 | 4.9 |
 | [zle-eng/opus1m+bt](../models/zle-eng) | tatoeba | 0.211 | 7.2 |
 | [zle-zle/opus](../models/zle-zle) | tatoeba | 0.210 | 6.3 |
-| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.28505 | 14.5 |
+| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.28846 | 13.5 |
 | | lang = orv-ukr | | | | |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.250 | 9.2 |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.217 | 6.4 |
@@ -5230,6 +5240,7 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.531 | 34.1 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.505 | 31.1 |
 | [pol-eng/opusTCv20210807+bt_transformer-big](../models/pol-eng) | tatoeba-v2021-08-07 | 0.71038 | 56.0 |
+| [zlw-eng/opusTCv20210807+bt_transformer-big](../models/zlw-eng) | tatoeba-v2021-08-07 | 0.70499 | 55.6 |
 | | lang = pol-epo | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.545 | 31.9 |
 | [pol-epo/opus](../models/pol-epo) | tatoeba | 0.451 | 24.8 |
@@ -5593,7 +5604,7 @@ to be useful for anything.
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.525 | 33.9 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.522 | 33.7 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.507 | 32.3 |
-| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.70931 | 56.6 |
+| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.71309 | 57.2 |
 | | lang = rus-epo | | | | |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.519 | 29.7 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.517 | 29.6 |
@@ -5774,6 +5785,7 @@ to be useful for anything.
 | [zls-zls/opus](../models/zls-zls) | tatoeba | 0.403 | 24.8 |
 | [zls-eng/opus1m+bt](../models/zls-eng) | tatoeba | 0.402 | 25.1 |
 | [slv-eng/opus](../models/slv-eng) | tatoeba | 0.382 | 24.6 |
+| [zls-eng/opusTCv20210807+bt_transformer-big](../models/zls-eng) | tatoeba-v2021-08-07 | 0.39503 | 23.5 |
 | | lang = slv-fra | | | | |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.405 | 19.5 |
 | | lang = slv-rus | | | | |
@@ -5933,7 +5945,7 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.405 | 14.0 |
 | [itc-itc/opus](../models/itc-itc) | tatoeba | 0.113 | 0.8 |
 | | lang = spa-multi | | | | |
-| [spa-zle/opusTCv20210807_transformer-big](../models/spa-zle) | tatoeba-v2021-08-07 | 0.66158 | 46.2 |
+| [spa-zle/opusTCv20210807_transformer-big](../models/spa-zle) | tatoeba-v2021-08-07 | 0.66422 | 46.5 |
 | | lang = spa-nds | | | | |
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.390 | 15.4 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.348 | 11.7 |
@@ -6011,6 +6023,7 @@ to be useful for anything.
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.684 | 53.9 |
 | [zls-eng/opus1m+bt](../models/zls-eng) | tatoeba | 0.669 | 51.5 |
 | [hbs-eng/opusTCv20210807+bt_transformer-big](../models/hbs-eng) | tatoeba-v2021-08-07 | 0.68137 | 44.5 |
+| [zls-eng/opusTCv20210807+bt_transformer-big](../models/zls-eng) | tatoeba-v2021-08-07 | 0.67556 | 46.9 |
 | | lang = srp_Cyrl-rus | | | | |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.684 | 48.5 |
 | [zls-zle/opusTCv20210807+bt_transformer-big](../models/zls-zle) | tatoeba-v2021-08-07 | 0.73707 | 54.5 |
@@ -6023,6 +6036,7 @@ to be useful for anything.
 | | lang = srp_Latn-eng | | | | |
 | [hbs-eng/opus](../models/hbs-eng) | tatoeba | 0.710 | 57.4 |
 | [zls-eng/opus1m+bt](../models/zls-eng) | tatoeba | 0.692 | 55.0 |
+| [zls-eng/opusTCv20210807+bt_transformer-big](../models/zls-eng) | tatoeba-v2021-08-07 | 0.71807 | 58.4 |
 | [hbs-eng/opusTCv20210807+bt_transformer-big](../models/hbs-eng) | tatoeba-v2021-08-07 | 0.71699 | 58.3 |
 | | lang = srp_Latn-rus | | | | |
 | [sla-sla/opus](../models/sla-sla) | tatoeba | 0.713 | 53.3 |
@@ -6267,6 +6281,7 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.472 | 27.9 |
 | [tut-eng/opus4m](../models/tut-eng) | tatoeba | 0.459 | 28.6 |
 | [trk-eng/opus2m](../models/trk-eng) | tatoeba | 0.443 | 26.8 |
+| [tur-eng/opusTCv20210807+bt_transformer-big](../models/tur-eng) | tatoeba-v2021-08-07 | 0.71972 | 57.8 |
 | | lang = tur-epo | | | | |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.508 | 28.8 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.506 | 28.3 |
@@ -6394,7 +6409,7 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.524 | 33.1 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.491 | 28.6 |
 | [zle-zlw/opusTCv20210807+bt_transformer-big](../models/zle-zlw) | tatoeba-v2021-08-07 | 0.71797 | 55.7 |
-| [ukr-ces+slk/opusTCv20210807+pft_transformer-align](../models/ukr-ces+slk) | tatoeba-v2021-08-07 | 0.69251 | 52.6 |
+| [ukr-ces+slk/opusTCv20210807+pft_transformer-align](../models/ukr-ces+slk) | tatoeba-v2021-08-07 | 0.69545 | 52.8 |
 | | lang = ukr-cmn_Hans | | | | |
 | [zle-zho/opus1m](../models/zle-zho) | tatoeba | 0.205 | 23.8 |
 | | lang = ukr-cmn_Hant | | | | |
@@ -6432,7 +6447,7 @@ to be useful for anything.
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.518 | 33.3 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.513 | 33.3 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.505 | 32.0 |
-| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.70441 | 55.8 |
+| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.71102 | 56.9 |
 | [ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-eng) | tatoeba-v2021-08-07 | 0.67210 | 51.4 |
 | [ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-eng) | tatoeba-v2021-08-07.intgemm8 | 0.66282 | 50.2 |
 | [ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-eng) | tatoeba-v2021-08-07.intgemm8.shortlist | 0.66250 | 50.1 |

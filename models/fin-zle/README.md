@@ -22,3 +22,28 @@
 | Tatoeba-test-v2021-08-07.fin-rus 	| 44.9 	| 0.659 	| 3643 	| 21434 	| 1.000 |
 | Tatoeba-test-v2021-08-07.fin-ukr 	| 46.8 	| 0.617 	| 33 	| 215 	| 0.957 |
 
+
+# opusTCv20210807+bt_transformer-big_2022-03-17.zip
+
+* dataset: opusTCv20210807+bt
+* model: transformer-big
+* source language(s): fin
+* target language(s): rus ukr
+* raw source language(s): fin
+* raw target language(s): rus ukr
+* model: transformer-big
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: 
+* download: [opusTCv20210807+bt_transformer-big_2022-03-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zle/opusTCv20210807+bt_transformer-big_2022-03-17.zip)
+* test set translations: [opusTCv20210807+bt_transformer-big_2022-03-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zle/opusTCv20210807+bt_transformer-big_2022-03-17.test.txt)
+* test set scores: [opusTCv20210807+bt_transformer-big_2022-03-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zle/opusTCv20210807+bt_transformer-big_2022-03-17.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test-v2021-08-07.fin-multi 	| 46.9 	| 0.67187 	| 3676 	| 21715 	| 0.988 |
+| Tatoeba-test-v2021-08-07.fin-rus 	| 45.4 	| 0.66276 	| 3643 	| 21434 	| 0.989 |
+| Tatoeba-test-v2021-08-07.fin-ukr 	| 41.3 	| 0.61489 	| 33 	| 215 	| 0.981 |
+

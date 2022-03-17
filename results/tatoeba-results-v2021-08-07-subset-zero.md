@@ -19,7 +19,7 @@ to be useful for anything.
 | | lang = kha-eng | | | | |
 | [aav-eng/opus4m+btTCv20210807](../models/aav-eng) | tatoeba-v2021-08-07 | 0.125 | 0.8 |
 | | lang = orv-eng | | | | |
-| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.28505 | 14.5 |
+| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.28846 | 13.5 |
 | | lang = orv-ukr | | | | |
 | [zle-zle/opusTCv20210807+bt_transformer-big](../models/zle-zle) | tatoeba-v2021-08-07 | 0.18942 | 3.3 |
 | | lang = prg-eng | | | | |

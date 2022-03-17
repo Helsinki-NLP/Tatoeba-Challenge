@@ -11,7 +11,7 @@ to be useful for anything.
 | | lang = bel-deu | | | | |
 | [zle-deu/opusTCv20210807_transformer-big](../models/zle-deu) | tatoeba-v2021-08-07 | 0.61867 | 42.0 |
 | | lang = bel-eng | | | | |
-| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.64466 | 47.3 |
+| [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.65139 | 48.0 |
 | | lang = bel-pol | | | | |
 | [zle-zlw/opusTCv20210807+bt_transformer-big](../models/zle-zlw) | tatoeba-v2021-08-07 | 0.66280 | 48.0 |
 | | lang = bel-rus | | | | |
@@ -68,7 +68,7 @@ to be useful for anything.
 | [zle-zle/opusTCv20210807+bt_transformer-big](../models/zle-zle) | tatoeba-v2021-08-07 | 0.75005 | 58.6 |
 | | lang = ukr-ces | | | | |
 | [zle-zlw/opusTCv20210807+bt_transformer-big](../models/zle-zlw) | tatoeba-v2021-08-07 | 0.71797 | 55.7 |
-| [ukr-ces+slk/opusTCv20210807+pft_transformer-align](../models/ukr-ces+slk) | tatoeba-v2021-08-07 | 0.69251 | 52.6 |
+| [ukr-ces+slk/opusTCv20210807+pft_transformer-align](../models/ukr-ces+slk) | tatoeba-v2021-08-07 | 0.69545 | 52.8 |
 | | lang = ukr-hun | | | | |
 | [ukr-hun/opusTCv20210807+pft_transformer-align](../models/ukr-hun) | tatoeba-v2021-08-07 | 0.67544 | 44.0 |
 | [ukr-hun/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/ukr-hun) | tatoeba-v2021-08-07 | 0.66840 | 42.5 |

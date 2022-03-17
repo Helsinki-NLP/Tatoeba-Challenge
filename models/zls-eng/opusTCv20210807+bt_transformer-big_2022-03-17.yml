@@ -1,0 +1,95 @@
+release: zls-eng/opusTCv20210807+bt_transformer-big_2022-03-17.zip
+release-date: 2022-03-17
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bos_Cyrl
+   - bos_Latn
+   - bul
+   - chu_Latn
+   - cnr
+   - cnr_Latn
+   - hbs
+   - hbs_Cyrl
+   - hrv
+   - mkd
+   - slv
+   - srp_Cyrl
+   - srp_Latn
+target-languages:
+   - eng
+raw-source-languages:
+   - bos
+   - bul
+   - chu
+   - cnr
+   - hbs
+   - hrv
+   - mkd
+   - slv
+   - srp
+raw-target-languages:
+   - eng
+training-data:
+   bos_Cyrl-eng: Tatoeba-train-v2021-08-07.bos_Cyrl-eng.strict (300) 
+   bos_Latn-eng: Tatoeba-train-v2021-08-07.bos_Latn-eng.strict (12936307) wikibooks.aa.eng-bos_Latn (991831) wikinews.aa.eng-bos_Latn (457123) wikipedia.aa.eng-bos_Latn (982309) wikipedia.ab.eng-bos_Latn (982484) wikipedia.ac.eng-bos_Latn (982532) wikipedia.ad.eng-bos_Latn (982323) wikiquote.aa.eng-bos_Latn (996992) 
+   bul-eng: Tatoeba-train-v2021-08-07.bul-eng.strict (105258960) wikibooks.aa.eng-bul (992348) wikinews.aa.eng-bul (457282) wikipedia.aa.eng-bul (983123) wikipedia.ab.eng-bul (983227) wikipedia.ac.eng-bul (983274) wikipedia.ad.eng-bul (983072) wikiquote.aa.eng-bul (997174) 
+   cnr-eng: Tatoeba-train-v2021-08-07.cnr-eng.strict (13) 
+   cnr_Latn-eng: Tatoeba-train-v2021-08-07.cnr_Latn-eng.strict (55322) 
+   hbs-eng: Tatoeba-train-v2021-08-07.eng-hbs.strict (14905) 
+   hbs_Cyrl-eng: Tatoeba-train-v2021-08-07.eng-hbs_Cyrl.strict (533) 
+   hrv-eng: Tatoeba-train-v2021-08-07.eng-hrv.strict (71621531) wikibooks.aa (991933) wikinews.aa (457344) wikipedia.aa (983358) wikipedia.ab (983564) wikipedia.ac (983550) wikipedia.ad (983346) wikiquote.aa (997151) 
+   mkd-eng: Tatoeba-train-v2021-08-07.eng-mkd.strict (17273892) wikibooks.aa (991689) wikinews.aa (457338) wikipedia.aa (982611) wikipedia.ab (982777) wikipedia.ac (982782) wikipedia.ad (982609) wikiquote.aa (997218) 
+   slv-eng: Tatoeba-train-v2021-08-07.eng-slv.strict (64197962) 
+   srp_Cyrl-eng: Tatoeba-train-v2021-08-07.eng-srp_Cyrl.strict (16716175) wikibooks.aa (991933) wikinews.aa (457344) wikipedia.aa (983358) wikipedia.ab (983564) wikipedia.ac (983550) wikipedia.ad (983346) wikiquote.aa (997151) 
+   srp_Latn-eng: Tatoeba-train-v2021-08-07.eng-srp_Latn.strict (48913754) wikibooks.aa (991933) wikinews.aa (457344) wikipedia.aa (983358) wikipedia.ab (983564) wikipedia.ac (983550) wikipedia.ad (983346) wikiquote.aa (997151) 
+validation-data:
+   bos_Latn-eng: Tatoeba-dev-v2021-08-07, 200
+   bul-eng: Tatoeba-dev-v2021-08-07, 7743
+   eng-hrv: Tatoeba-dev-v2021-08-07, 941
+   eng-mkd: Tatoeba-dev-v2021-08-07, 69573
+   eng-slv: Tatoeba-dev-v2021-08-07, 1582
+   eng-srp_Cyrl: Tatoeba-dev-v2021-08-07, 8753
+   eng-srp_Latn: Tatoeba-dev-v2021-08-07, 4203
+   total-size-shuffled: 6123
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.bos_Latn-eng: 301/1824
+   Tatoeba-test-v2021-08-07.bul-eng: 10000/71861
+   Tatoeba-test-v2021-08-07.hbs-eng: 10017/68927
+   Tatoeba-test-v2021-08-07.hrv-eng: 1480/10620
+   Tatoeba-test-v2021-08-07.mkd-eng: 10010/65664
+   Tatoeba-test-v2021-08-07.multi-eng: 10000/68722
+   Tatoeba-test-v2021-08-07.slv-eng: 2495/16940
+   Tatoeba-test-v2021-08-07.srp_Cyrl-eng: 1580/10180
+   Tatoeba-test-v2021-08-07.srp_Latn-eng: 6656/46303
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.bos_Latn-eng: 66.5
+   Tatoeba-test-v2021-08-07.bul-eng: 59.2
+   Tatoeba-test-v2021-08-07.hbs-eng: 57.2
+   Tatoeba-test-v2021-08-07.hrv-eng: 59.2
+   Tatoeba-test-v2021-08-07.mkd-eng: 57.2
+   Tatoeba-test-v2021-08-07.multi-eng: 55.6
+   Tatoeba-test-v2021-08-07.slv-eng: 23.5
+   Tatoeba-test-v2021-08-07.srp_Cyrl-eng: 46.9
+   Tatoeba-test-v2021-08-07.srp_Latn-eng: 58.4
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.bos_Latn-eng: 0.79335
+   Tatoeba-test-v2021-08-07.bul-eng: 0.72623
+   Tatoeba-test-v2021-08-07.hbs-eng: 0.71720
+   Tatoeba-test-v2021-08-07.hrv-eng: 0.74027
+   Tatoeba-test-v2021-08-07.mkd-eng: 0.69973
+   Tatoeba-test-v2021-08-07.multi-eng: 0.69058
+   Tatoeba-test-v2021-08-07.slv-eng: 0.39503
+   Tatoeba-test-v2021-08-07.srp_Cyrl-eng: 0.67556
+   Tatoeba-test-v2021-08-07.srp_Latn-eng: 0.71807
