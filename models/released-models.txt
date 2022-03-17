@@ -1086,6 +1086,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/lit-pol/opus-2021-02-18.zip	lit-po
 https://object.pouta.csc.fi/Tatoeba-MT-models/lit-rus/opus-2021-02-18.zip	lit-rus	lt-ru	0.695	51.7	Lithuanian	Russian
 https://object.pouta.csc.fi/Tatoeba-MT-models/lit-spa/opus-2021-02-18.zip	lit-spa	lt-es	0.680	50.5	Lithuanian	Spanish
 https://object.pouta.csc.fi/Tatoeba-MT-models/lit-tur/opus-2021-02-18.zip	lit-tur	lt-tr	0.648	35.8	Lithuanian	Turkish
+https://object.pouta.csc.fi/Tatoeba-MT-models/lit-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-17.zip	lit-ukr	lt-uk	0.75913	39.7	Lithuanian	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ltz-eng/opus+bt-2021-04-30.zip	ltz-eng	lb-en	0.637	53.0	Luxembourgish	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/mah-eng/opus-2021-02-19.zip	mah-eng	mh-en	0.232	10.1	Marshallese	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/mal-eng/opus+bt-2021-04-30.zip	mal-eng	ml-en	0.619	44.7	Malayalam	English
@@ -1453,6 +1454,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+bt+pbt+pft
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-13.zip	ukr-hun	uk-hu	0.65065	42.2	Ukrainian	Hungarian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft_transformer-align_2022-03-08.zip	ukr-hun	uk-hu	0.67544	44.0	Ukrainian	Hungarian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-ita/opus-2021-02-19.zip	ukr-ita	uk-it	0.662	46.0	Ukrainian	Italian
+https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-lit/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-17.zip	ukr-lit	uk-lt	0.87389	82.1	Ukrainian	Lithuanian
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nld/opus-2021-02-19.zip	ukr-nld	uk-nl	0.656	48.7	Ukrainian	Dutch
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nob/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-13.zip	ukr-nob	uk-nb	0.71968	57.1	Ukrainian	Norwegian Bokmål
 https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nor/opus-2020-06-17.zip	ukr-nor	uk-no	0.397	21.3	Ukrainian	Norwegian

@@ -329,6 +329,7 @@ lit-eng	0.74894	61.6	https://object.pouta.csc.fi/Tatoeba-MT-models/lit-eng/opusT
 lit-eng	0.706	55.7	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-eng/opus4m+btTCv20210807-2021-09-30.zip	2528	17853
 lit-rus	0.71945	53.5	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-zle/opusTCv20210807_transformer-align_2022-03-13.zip	3598	21831
 lit-swe	1.000	100.0	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-gmq/opus4m+btTCv20210807-2022-01-19.zip	1	6
+lit-ukr	0.75913	39.7	https://object.pouta.csc.fi/Tatoeba-MT-models/lit-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-17.zip	3	23
 lit-ukr	0.69077	24.2	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-zle/opusTCv20210807_transformer-align_2022-03-13.zip	3	23
 ltg-eng	0.35340	24.9	https://object.pouta.csc.fi/Tatoeba-MT-models/lav-eng/opusTCv20210807+bt_transformer-big_2022-03-13.zip	1	5
 ltz-eng	0.289	14.6	https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-eng/opus4m+btTCv20210807-2021-09-30.zip	293	1840
@@ -525,6 +526,7 @@ ukr-hun	0.67544	44.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusT
 ukr-hun	0.66840	42.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	473	2472
 ukr-hun	0.65065	42.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-13.zip	473	2472
 ukr-lav	0.13943	2.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-bat/opusTCv20210807_transformer-align_2022-03-14.zip	1	6
+ukr-lit	0.87389	82.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-lit/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-17.zip	3	20
 ukr-lit	0.84108	68.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-bat/opusTCv20210807_transformer-align_2022-03-14.zip	3	20
 ukr-mkd	0.67226	27.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zls/opusTCv20210807+bt_transformer-big_2022-03-16.zip	5	22
 ukr-nob	0.71968	57.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nob/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-13.zip	670	4378
