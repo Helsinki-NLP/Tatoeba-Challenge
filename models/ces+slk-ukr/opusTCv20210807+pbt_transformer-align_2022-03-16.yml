@@ -14,10 +14,12 @@ subword-models:
    target: target.spm
 source-languages:
    - ces
+   - slk
 target-languages:
    - ukr
 raw-source-languages:
    - ces
+   - slk
 raw-target-languages:
    - ukr
 training-data:

@@ -1529,6 +1529,7 @@ For multilingual models, it is a mix of all language pairs
 | [zho-vie/opus](../models/zho-vie) | 0.385 | 20.0 |
 | [zhx-zhx/opus](../models/zhx-zhx) | 0.433 | 28.8 |
 | [zle-bat/opusTCv20210807_transformer-align](../models/zle-bat) | 0.70999 | 47.8 |
+| [zle-bat/opusTCv20210807_transformer-align](../models/zle-bat) | 0.70964 | 48.0 |
 | [zle-deu/opusTCv20210807_transformer-big](../models/zle-deu) | 0.69745 | 52.2 |
 | [zle-eng/opus](../models/zle-eng) | 0.640 | 48.1 |
 | [zle-eng/opus](../models/zle-eng) | 0.633 | 47.3 |
