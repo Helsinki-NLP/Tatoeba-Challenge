@@ -7,18 +7,20 @@ to be useful for anything.
 | Model | Test Set | chrF2 | BLEU |
 |:--|---|--:|--:|
 | | lang = bel-fra | | | | |
-| [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | tatoeba-v2021-08-07 | 0.47204 | 26.8 |
+| [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | tatoeba-v2021-08-07 | 0.63052 | 43.5 |
+| | lang = bel-ita | | | | |
+| [zle-ita/opusTCv20210807_transformer-big](../models/zle-ita) | tatoeba-v2021-08-07 | 0.65265 | 48.5 |
 | | lang = bel-spa | | | | |
-| [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | tatoeba-v2021-08-07 | 0.59779 | 38.2 |
+| [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | tatoeba-v2021-08-07 | 0.64119 | 45.2 |
 | | lang = fra-bel | | | | |
-| [fra-zle/opusTCv20210807_transformer-big](../models/fra-zle) | tatoeba-v2021-08-07 | 0.46858 | 25.0 |
+| [fra-zle/opusTCv20210807_transformer-big](../models/fra-zle) | tatoeba-v2021-08-07 | 0.49382 | 25.9 |
 | | lang = fry-eng | | | | |
 | [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | tatoeba-v2021-08-07 | 0.544 | 36.2 |
 | | lang = gla-eng | | | | |
 | [cel-eng/opusTCv20210807+bt_transformer-big](../models/cel-eng) | tatoeba-v2021-08-07 | 0.24584 | 10.7 |
 | [cel-eng/opus4m+btTCv20210807](../models/cel-eng) | tatoeba-v2021-08-07 | 0.161 | 4.7 |
 | | lang = ita-bel | | | | |
-| [ita-zle/opusTCv20210807_transformer-big](../models/ita-zle) | tatoeba-v2021-08-07 | 0.52986 | 32.5 |
+| [ita-zle/opusTCv20210807_transformer-big](../models/ita-zle) | tatoeba-v2021-08-07 | 0.55214 | 33.3 |
 | | lang = khm-eng | | | | |
 | [aav-eng/opus4m+btTCv20210807](../models/aav-eng) | tatoeba-v2021-08-07 | 0.120 | 0.4 |
 | | lang = nds-eng | | | | |

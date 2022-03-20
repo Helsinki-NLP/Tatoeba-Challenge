@@ -1,0 +1,68 @@
+release: zle-deu/opusTCv20210807_transformer-big_2022-03-19.zip
+release-date: 2022-03-19
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bel
+   - bel_Latn
+   - orv_Cyrl
+   - rus
+   - ukr
+target-languages:
+   - deu
+raw-source-languages:
+   - bel
+   - orv
+   - rus
+   - ukr
+raw-target-languages:
+   - deu
+training-data:
+   bel-deu: Tatoeba-train-v2021-08-07.bel-deu.strict (1099027) 
+   bel_Latn-deu: Tatoeba-train-v2021-08-07.bel_Latn-deu.strict (3402) 
+   rus-deu: Tatoeba-train-v2021-08-07.deu-rus.strict (68531429) 
+   ukr-deu: Tatoeba-train-v2021-08-07.deu-ukr.strict (11133937) 
+validation-data:
+   bel-deu: Tatoeba-dev-v2021-08-07, 825
+   bel_Latn-deu: Tatoeba-dev-v2021-08-07, 5
+   deu-rus: Tatoeba-dev-v2021-08-07, 99441
+   deu-ukr: Tatoeba-dev-v2021-08-07, 11580
+   total-size-shuffled: 2830
+   devset-selected: top 2830  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newstest2012.rus-deu: 3003/72886
+   newstest2013.rus-deu: 3000/63737
+   Tatoeba-test-v2021-08-07.bel-deu: 551/4178
+   Tatoeba-test-v2021-08-07.bel_Latn-deu: 3/21
+   Tatoeba-test-v2021-08-07.multi-deu: 10000/70441
+   Tatoeba-test-v2021-08-07.orv-deu: 28/197
+   Tatoeba-test-v2021-08-07.rus-deu: 12800/98826
+   Tatoeba-test-v2021-08-07.ukr-deu: 10319/64637
+BLEU-scores:
+   newstest2012.rus-deu: 19.8
+   newstest2013.rus-deu: 25.2
+   Tatoeba-test-v2021-08-07.bel-deu: 44.5
+   Tatoeba-test-v2021-08-07.bel_Latn-deu: 2.9
+   Tatoeba-test-v2021-08-07.multi-deu: 52.5
+   Tatoeba-test-v2021-08-07.orv-deu: 12.5
+   Tatoeba-test-v2021-08-07.rus-deu: 51.6
+   Tatoeba-test-v2021-08-07.ukr-deu: 54.6
+chr-F-scores:
+   newstest2012.rus-deu: 0.49257
+   newstest2013.rus-deu: 0.54015
+   Tatoeba-test-v2021-08-07.bel-deu: 0.63398
+   Tatoeba-test-v2021-08-07.bel_Latn-deu: 9.208
+   Tatoeba-test-v2021-08-07.multi-deu: 0.69962
+   Tatoeba-test-v2021-08-07.orv-deu: 0.29537
+   Tatoeba-test-v2021-08-07.rus-deu: 0.69669
+   Tatoeba-test-v2021-08-07.ukr-deu: 0.70761

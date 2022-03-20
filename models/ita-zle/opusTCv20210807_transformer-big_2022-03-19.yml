@@ -1,0 +1,63 @@
+release: ita-zle/opusTCv20210807_transformer-big_2022-03-19.zip
+release-date: 2022-03-19
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ita
+target-languages:
+   - bel
+   - bel_Latn
+   - orv_Cyrl
+   - rus
+   - ukr
+raw-source-languages:
+   - ita
+raw-target-languages:
+   - bel
+   - orv
+   - rus
+   - ukr
+use-target-labels:
+training-data:
+   ita-bel: Tatoeba-train-v2021-08-07.bel-ita.strict (867380) 
+   ita-bel_Latn: Tatoeba-train-v2021-08-07.bel_Latn-ita.strict (2512) 
+   ita-rus: Tatoeba-train-v2021-08-07.ita-rus.strict (44072324) 
+   ita-ukr: Tatoeba-train-v2021-08-07.ita-ukr.strict (6126019) 
+validation-data:
+   bel-ita: Tatoeba-dev-v2021-08-07, 880
+   bel_Latn-ita: Tatoeba-dev-v2021-08-07, 1
+   ita-rus: Tatoeba-dev-v2021-08-07, 65508
+   ita-ukr: Tatoeba-dev-v2021-08-07, 8712
+   total-size-shuffled: 2881
+   devset-selected: top 2881  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.ita-bel_Latn: 1/8
+   Tatoeba-test-v2021-08-07.ita-bel: 264/1513
+   Tatoeba-test-v2021-08-07.ita-orv: 8/41
+   Tatoeba-test-v2021-08-07.ita-rus: 10045/65765
+   Tatoeba-test-v2021-08-07.ita-ukr: 5000/25294
+   Tatoeba-test-v2021-08-07.ita-multi: 10000/60666
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.ita-bel_Latn: 5.7
+   Tatoeba-test-v2021-08-07.ita-bel: 33.3
+   Tatoeba-test-v2021-08-07.ita-orv: 2.1
+   Tatoeba-test-v2021-08-07.ita-rus: 46.2
+   Tatoeba-test-v2021-08-07.ita-ukr: 48.1
+   Tatoeba-test-v2021-08-07.ita-multi: 46.5
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.ita-bel_Latn: 0.460
+   Tatoeba-test-v2021-08-07.ita-bel: 0.55214
+   Tatoeba-test-v2021-08-07.ita-orv: 0.14404
+   Tatoeba-test-v2021-08-07.ita-rus: 0.65834
+   Tatoeba-test-v2021-08-07.ita-ukr: 0.67290
+   Tatoeba-test-v2021-08-07.ita-multi: 0.66062

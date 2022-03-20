@@ -1,0 +1,66 @@
+release: fra-zle/opusTCv20210807_transformer-big_2022-03-19.zip
+release-date: 2022-03-19
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fra
+target-languages:
+   - bel
+   - bel_Latn
+   - orv_Cyrl
+   - rus
+   - ukr
+raw-source-languages:
+   - fra
+raw-target-languages:
+   - bel
+   - orv
+   - rus
+   - ukr
+use-target-labels:
+training-data:
+   fra-bel: Tatoeba-train-v2021-08-07.bel-fra.strict (666499) 
+   fra-bel_Latn: Tatoeba-train-v2021-08-07.bel_Latn-fra.strict (1665) 
+   fra-rus: Tatoeba-train-v2021-08-07.fra-rus.strict (104720380) 
+   fra-ukr: Tatoeba-train-v2021-08-07.fra-ukr.strict (11234086) 
+validation-data:
+   bel-fra: Tatoeba-dev-v2021-08-07, 954
+   bel_Latn-fra: Tatoeba-dev-v2021-08-07, 4
+   fra-rus: Tatoeba-dev-v2021-08-07, 176856
+   fra-ukr: Tatoeba-dev-v2021-08-07, 17548
+   total-size-shuffled: 2958
+   devset-selected: top 2958  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newstest2012.fra-rus: 3003/64830
+   newstest2013.fra-rus: 3000/58560
+   Tatoeba-test-v2021-08-07.fra-bel: 283/1702
+   Tatoeba-test-v2021-08-07.fra-orv: 37/217
+   Tatoeba-test-v2021-08-07.fra-rus: 11490/69903
+   Tatoeba-test-v2021-08-07.fra-ukr: 10035/54232
+   Tatoeba-test-v2021-08-07.fra-multi: 10000/58050
+BLEU-scores:
+   newstest2012.fra-rus: 23.2
+   newstest2013.fra-rus: 24.9
+   Tatoeba-test-v2021-08-07.fra-bel: 25.9
+   Tatoeba-test-v2021-08-07.fra-orv: 0.5
+   Tatoeba-test-v2021-08-07.fra-rus: 43.5
+   Tatoeba-test-v2021-08-07.fra-ukr: 38.3
+   Tatoeba-test-v2021-08-07.fra-multi: 42.7
+chr-F-scores:
+   newstest2012.fra-rus: 0.51203
+   newstest2013.fra-rus: 0.52311
+   Tatoeba-test-v2021-08-07.fra-bel: 0.49382
+   Tatoeba-test-v2021-08-07.fra-orv: 0.17402
+   Tatoeba-test-v2021-08-07.fra-rus: 0.64456
+   Tatoeba-test-v2021-08-07.fra-ukr: 0.60294
+   Tatoeba-test-v2021-08-07.fra-multi: 0.63939
