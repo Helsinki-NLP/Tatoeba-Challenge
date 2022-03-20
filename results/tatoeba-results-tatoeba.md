@@ -6535,6 +6535,7 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | tatoeba | 0.553 | 32.7 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.519 | 28.7 |
 | [zle-zlw/opusTCv20210807+bt_transformer-big](../models/zle-zlw) | tatoeba-v2021-08-07 | 0.74845 | 57.0 |
+| [ukr-pol/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/ukr-pol) | tatoeba-v2021-08-07 | 0.72445 | 53.5 |
 | | lang = ukr-por | | | | |
 | [zle-roa/opus1m](../models/zle-roa) | tatoeba | 0.612 | 39.8 |
 | [ukr-por/opus](../models/ukr-por) | tatoeba | 0.607 | 38.9 |
