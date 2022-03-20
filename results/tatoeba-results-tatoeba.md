@@ -872,6 +872,7 @@ to be useful for anything.
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.445 | 23.8 |
 | [deu-zle/opusTCv20210807_transformer-big](../models/deu-zle) | tatoeba-v2021-08-07 | 0.62749 | 40.6 |
 | [deu-ukr/opusTCv20210807+pbt_transformer-align](../models/deu-ukr) | tatoeba-v2021-08-07 | 0.61779 | 39.1 |
+| [deu-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/deu-ukr) | tatoeba-v2021-08-07 | 0.60869 | 37.6 |
 | | lang = deu-vie | | | | |
 | [deu-vie/opus](../models/deu-vie) | tatoeba | 0.443 | 25.0 |
 | | lang = deu-yid | | | | |
@@ -3075,6 +3076,7 @@ to be useful for anything.
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.437 | 22.6 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.436 | 23.1 |
 | [fra-zle/opusTCv20210807_transformer-big](../models/fra-zle) | tatoeba-v2021-08-07 | 0.60294 | 38.3 |
+| [fra-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/fra-ukr) | tatoeba-v2021-08-07 | 0.58949 | 34.5 |
 | | lang = fra-vie | | | | |
 | [fra-vie/opus](../models/fra-vie) | tatoeba | 0.486 | 31.1 |
 | | lang = fra-wuu | | | | |

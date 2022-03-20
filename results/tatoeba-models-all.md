@@ -285,6 +285,7 @@ For multilingual models, it is a mix of all language pairs
 | [deu-tgl/opus](../models/deu-tgl) | 0.425 | 12.9 |
 | [deu-tur/opusTCv20210807](../models/deu-tur) | 0.644 | 35.6 |
 | [deu-ukr/opus](../models/deu-ukr) | 0.612 | 40.2 |
+| [deu-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/deu-ukr) | 0.60869 | 37.6 |
 | [deu-ukr/opusTCv20210807+pbt_transformer-align](../models/deu-ukr) | 0.61779 | 39.1 |
 | [deu-vie/opus](../models/deu-vie) | 0.443 | 25.0 |
 | [deu-zho/opus](../models/deu-zho) | 0.275 | 32.4 |
@@ -839,6 +840,7 @@ For multilingual models, it is a mix of all language pairs
 | [fra-tgl/opus](../models/fra-tgl) | 0.529 | 21.1 |
 | [fra-uig/opus](../models/fra-uig) | 0.099 | 0.0 |
 | [fra-ukr/opus](../models/fra-ukr) | 0.599 | 39.3 |
+| [fra-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/fra-ukr) | 0.58949 | 34.5 |
 | [fra-vie/opus](../models/fra-vie) | 0.486 | 31.1 |
 | [fra-zle/opusTCv20210807_transformer-big](../models/fra-zle) | 0.63939 | 42.7 |
 | [fra-zle/opusTCv20210807_transformer-big](../models/fra-zle) | 0.63408 | 42.0 |
