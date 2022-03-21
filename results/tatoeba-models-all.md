@@ -1344,6 +1344,7 @@ For multilingual models, it is a mix of all language pairs
 | [spa-tgl/opus](../models/spa-tgl) | 0.486 | 13.7 |
 | [spa-tur/opus](../models/spa-tur) | 0.712 | 45.1 |
 | [spa-ukr/opus](../models/spa-ukr) | 0.614 | 41.3 |
+| [spa-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/spa-ukr) | 0.61758 | 39.4 |
 | [spa-vie/opus](../models/spa-vie) | 0.508 | 33.1 |
 | [spa-zho/opus](../models/spa-zho) | 0.324 | 38.8 |
 | [spa-zle/opusTCv20210807_transformer-big](../models/spa-zle) | 0.66422 | 46.5 |
@@ -1446,6 +1447,7 @@ For multilingual models, it is a mix of all language pairs
 | [ukr-dan/opusTCv20210807+pft-sepvoc_transformer-tiny11-align](../models/ukr-dan) | 0.83213 | 75.0 |
 | [ukr-dan/opusTCv20210807+pft_transformer-align](../models/ukr-dan) | 0.92589 | 86.7 |
 | [ukr-deu/opus](../models/ukr-deu) | 0.661 | 48.2 |
+| [ukr-deu/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-deu) | 0.69033 | 52.0 |
 | [ukr-deu/opusTCv20210807+pft-sepvoc_transformer-tiny11-align](../models/ukr-deu) | 0.66981 | 49.0 |
 | [ukr-deu/opusTCv20210807+pft_transformer-align](../models/ukr-deu) | 0.69211 | 52.2 |
 | [ukr-eng/opus](../models/ukr-eng) | 0.670 | 51.7 |
@@ -1460,6 +1462,7 @@ For multilingual models, it is a mix of all language pairs
 | [ukr-fin/opusTCv20210807+pft-sepvoc_transformer-tiny11-align](../models/ukr-fin) | 0.69065 | 49.3 |
 | [ukr-fin/opusTCv20210807+pft_transformer-align](../models/ukr-fin) | 0.65601 | 44.7 |
 | [ukr-fra/opus](../models/ukr-fra) | 0.637 | 46.4 |
+| [ukr-fra/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-fra) | 0.65751 | 48.7 |
 | [ukr-hbs/opus](../models/ukr-hbs) | 0.643 | 44.5 |
 | [ukr-hbs/opus](../models/ukr-hbs) | 0.631 | 42.8 |
 | [ukr-heb/opus](../models/ukr-heb) | 0.557 | 35.7 |
@@ -1483,6 +1486,7 @@ For multilingual models, it is a mix of all language pairs
 | [ukr-rus/opus](../models/ukr-rus) | 0.826 | 69.2 |
 | [ukr-slv/opus](../models/ukr-slv) | 0.280 | 11.8 |
 | [ukr-spa/opus](../models/ukr-spa) | 0.649 | 46.4 |
+| [ukr-spa/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-spa) | 0.66240 | 47.9 |
 | [ukr-swe/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/ukr-swe) | 0.58633 | 12.1 |
 | [ukr-swe/opusTCv20210807+pft-sepvoc_transformer-tiny11-align](../models/ukr-swe) | 0.51421 | 12.1 |
 | [ukr-swe/opusTCv20210807+pft_transformer-align](../models/ukr-swe) | 0.65967 | 38.9 |

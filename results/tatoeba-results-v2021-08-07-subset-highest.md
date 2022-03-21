@@ -259,6 +259,7 @@ to be useful for anything.
 | | lang = spa-rus | | | | |
 | [spa-zle/opusTCv20210807_transformer-big](../models/spa-zle) | tatoeba-v2021-08-07 | 0.67116 | 47.1 |
 | | lang = spa-ukr | | | | |
+| [spa-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/spa-ukr) | tatoeba-v2021-08-07 | 0.61758 | 39.4 |
 | [spa-zle/opusTCv20210807_transformer-big](../models/spa-zle) | tatoeba-v2021-08-07 | 0.61030 | 39.0 |
 | | lang = srp_Cyrl-eng | | | | |
 | [hbs-eng/opusTCv20210807+bt_transformer-big](../models/hbs-eng) | tatoeba-v2021-08-07 | 0.68137 | 44.5 |
@@ -282,6 +283,7 @@ to be useful for anything.
 | | lang = ukr-deu | | | | |
 | [zle-deu/opusTCv20210807_transformer-big](../models/zle-deu) | tatoeba-v2021-08-07 | 0.70761 | 54.6 |
 | [ukr-deu/opusTCv20210807+pft_transformer-align](../models/ukr-deu) | tatoeba-v2021-08-07 | 0.69211 | 52.2 |
+| [ukr-deu/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-deu) | tatoeba-v2021-08-07 | 0.69033 | 52.0 |
 | [ukr-deu/opusTCv20210807+pft-sepvoc_transformer-tiny11-align](../models/ukr-deu) | tatoeba-v2021-08-07 | 0.66981 | 49.0 |
 | | lang = ukr-eng | | | | |
 | [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.71102 | 56.9 |
@@ -292,6 +294,7 @@ to be useful for anything.
 | [ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-eng) | tatoeba-v2021-08-07.intgemm8tunedshiftAlphas.shortlist | 0.65743 | 49.6 |
 | | lang = ukr-fra | | | | |
 | [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | tatoeba-v2021-08-07 | 0.67740 | 50.5 |
+| [ukr-fra/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-fra) | tatoeba-v2021-08-07 | 0.65751 | 48.7 |
 | | lang = ukr-hbs | | | | |
 | [zle-zls/opusTCv20210807+bt_transformer-big](../models/zle-zls) | tatoeba-v2021-08-07 | 0.69886 | 51.9 |
 | | lang = ukr-pol | | | | |
@@ -301,6 +304,7 @@ to be useful for anything.
 | [zle-zle/opusTCv20210807+bt_transformer-big](../models/zle-zle) | tatoeba-v2021-08-07 | 0.86852 | 75.5 |
 | | lang = ukr-spa | | | | |
 | [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | tatoeba-v2021-08-07 | 0.68511 | 51.1 |
+| [ukr-spa/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-spa) | tatoeba-v2021-08-07 | 0.66240 | 47.9 |
 | | lang = vie-eng | | | | |
 | [aav-eng/opus4m+btTCv20210807](../models/aav-eng) | tatoeba-v2021-08-07 | 0.585 | 40.2 |
 | | lang = vie-zho | | | | |
