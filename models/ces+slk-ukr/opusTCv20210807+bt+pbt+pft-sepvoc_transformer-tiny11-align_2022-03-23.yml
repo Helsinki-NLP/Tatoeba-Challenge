@@ -1,0 +1,46 @@
+release: ces+slk-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-23.zip
+release-date: 2022-03-23
+dataset-name: opusTCv20210807+bt+pbt+pft
+modeltype: transformer-tiny11-align
+vocabulary:
+   source: opusTCv20210807+bt+pbt+pft-sepvoc.spm32k-spm32k.src.vocab
+   target: opusTCv20210807+bt+pbt+pft-sepvoc.spm32k-spm32k.trg.vocab
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ces
+   - slk
+target-languages:
+   - ukr
+raw-source-languages:
+   - ces
+   - slk
+raw-target-languages:
+   - ukr
+training-data:
+   ces-ukr: Tatoeba-train-v2021-08-07.ces-ukr.strict (7465713) wikibooks.aa.ukr-ces (65251) wikinews.aa.ukr-ces (25891) wikipedia.aa.ukr-ces (975870) wikipedia.ab.ukr-ces (976105) wikipedia.ac.ukr-ces (975784) wikipedia.ad.ukr-ces (975555) wikipedia.ae.ukr-ces (975807) wikipedia.af.ukr-ces (975890) wikipedia.ag.ukr-ces (975773) wikipedia.ah.ukr-ces (976084) wikipedia.ai.ukr-ces (975800) wikipedia.aj.ukr-ces (975603) wikipedia.ak.ukr-ces (976117) wikipedia.al.ukr-ces (975722) wikipedia.am.ukr-ces (976055) wikipedia.an.ukr-ces (975685) wikipedia.ao.ukr-ces (940601) wikiquote.aa.ukr-ces (62970) wikisource.aa.ukr-ces (675020) Tatoeba-train.rus-ukr-ces.aa (1000000) Tatoeba-train.rus-ukr-ces.ab (1000000) Tatoeba-train.rus-ukr-ces.ac (1000000) Tatoeba-train.rus-ukr-ces.ad (1000000) Tatoeba-train.rus-ukr-ces.ae (1000000) Tatoeba-train.rus-ukr-ces.af (1000000) Tatoeba-train.rus-ukr-ces.ag (1000000) Tatoeba-train.rus-ukr-ces.ah (1000000) Tatoeba-train.rus-ukr-ces.ai (1000000) Tatoeba-train.rus-ukr-ces.aj (1000000) Tatoeba-train.rus-ukr-ces.ak (1000000) Tatoeba-train.rus-ukr-ces.al (1000000) Tatoeba-train.rus-ukr-ces.am (1000000) Tatoeba-train.rus-ukr-ces.an (1000000) Tatoeba-train.rus-ukr-ces.ao (1000000) Tatoeba-train.rus-ukr-ces.ap (1000000) Tatoeba-train.rus-ukr-ces.aq (1000000) Tatoeba-train.rus-ukr-ces.ar (1000000) Tatoeba-train.rus-ukr-ces.as (1000000) Tatoeba-train.rus-ukr-ces.at (1000000) Tatoeba-train.rus-ukr-ces.au (1000000) Tatoeba-train.rus-ukr-ces.av (1000000) Tatoeba-train.rus-ukr-ces.aw (1000000) Tatoeba-train.rus-ukr-ces.ax (1000000) Tatoeba-train.rus-ukr-ces.ay (1000000) Tatoeba-train.rus-ukr-ces.az (1000000) Tatoeba-train.rus-ukr-ces.ba (1000000) Tatoeba-train.rus-ukr-ces.bb (1000000) Tatoeba-train.rus-ukr-ces.bc (1000000) Tatoeba-train.rus-ukr-ces.bd (1000000) Tatoeba-train.rus-ukr-ces.be (1000000) Tatoeba-train.rus-ukr-ces.bf (1000000) Tatoeba-train.rus-ukr-ces.bg (1000000) Tatoeba-train.rus-ukr-ces.bh (1000000) Tatoeba-train.rus-ukr-ces.bi (1000000) Tatoeba-train.rus-ukr-ces.bj (1000000) Tatoeba-train.rus-ukr-ces.bk (1000000) Tatoeba-train.rus-ukr-ces.bl (1000000) Tatoeba-train.rus-ukr-ces.bm (1000000) Tatoeba-train.rus-ukr-ces.bn (1000000) Tatoeba-train.rus-ukr-ces.bo (1000000) Tatoeba-train.rus-ukr-ces.bp (1000000) Tatoeba-train.rus-ukr-ces.bq (1000000) Tatoeba-train.rus-ukr-ces.br (1000000) Tatoeba-train.rus-ukr-ces.bs (1000000) Tatoeba-train.rus-ukr-ces.bt (1000000) Tatoeba-train.rus-ukr-ces.bu (1000000) Tatoeba-train.rus-ukr-ces.bv (1000000) Tatoeba-train.rus-ukr-ces.bw (593400) Tatoeba-train.eng-ces-ukr.aa (1000000) Tatoeba-train.eng-ces-ukr.ab (1000000) Tatoeba-train.eng-ces-ukr.ac (1000000) Tatoeba-train.eng-ces-ukr.ad (1000000) Tatoeba-train.eng-ces-ukr.ae (1000000) Tatoeba-train.eng-ces-ukr.af (1000000) Tatoeba-train.eng-ces-ukr.ag (1000000) Tatoeba-train.eng-ces-ukr.ah (1000000) Tatoeba-train.eng-ces-ukr.ai (1000000) Tatoeba-train.eng-ces-ukr.aj (1000000) Tatoeba-train.eng-ces-ukr.ak (1000000) Tatoeba-train.eng-ces-ukr.al (1000000) Tatoeba-train.eng-ces-ukr.am (1000000) Tatoeba-train.eng-ces-ukr.an (1000000) Tatoeba-train.eng-ces-ukr.ao (1000000) Tatoeba-train.eng-ces-ukr.ap (1000000) Tatoeba-train.eng-ces-ukr.aq (1000000) Tatoeba-train.eng-ces-ukr.ar (1000000) Tatoeba-train.eng-ces-ukr.as (1000000) Tatoeba-train.eng-ces-ukr.at (1000000) Tatoeba-train.eng-ces-ukr.au (1000000) Tatoeba-train.eng-ces-ukr.av (1000000) Tatoeba-train.eng-ces-ukr.aw (1000000) Tatoeba-train.eng-ces-ukr.ax (1000000) Tatoeba-train.eng-ces-ukr.ay (1000000) Tatoeba-train.eng-ces-ukr.az (1000000) Tatoeba-train.eng-ces-ukr.ba (1000000) Tatoeba-train.eng-ces-ukr.bb (1000000) Tatoeba-train.eng-ces-ukr.bc (1000000) Tatoeba-train.eng-ces-ukr.bd (1000000) Tatoeba-train.eng-ces-ukr.be (1000000) Tatoeba-train.eng-ces-ukr.bf (1000000) Tatoeba-train.eng-ces-ukr.bg (1000000) Tatoeba-train.eng-ces-ukr.bh (220604) 
+   slk-ukr: wikibooks.aa.ukr-slk (65408) wikinews.aa.ukr-slk (26136) wikipedia.aa.ukr-slk (984082) wikipedia.ab.ukr-slk (983945) wikipedia.ac.ukr-slk (984071) wikipedia.ad.ukr-slk (984088) wikipedia.ae.ukr-slk (983959) wikipedia.af.ukr-slk (983961) wikipedia.ag.ukr-slk (983936) wikipedia.ah.ukr-slk (983865) wikipedia.ai.ukr-slk (983999) wikipedia.aj.ukr-slk (983716) wikipedia.ak.ukr-slk (983816) wikipedia.al.ukr-slk (984123) wikipedia.am.ukr-slk (983776) wikipedia.an.ukr-slk (983851) wikipedia.ao.ukr-slk (948592) wikiquote.aa.ukr-slk (63158) wikisource.aa.ukr-slk (678814) Tatoeba-train.eng-slk-ukr.aa (1000000) Tatoeba-train.eng-slk-ukr.ab (1000000) Tatoeba-train.eng-slk-ukr.ac (1000000) Tatoeba-train.eng-slk-ukr.ad (1000000) Tatoeba-train.eng-slk-ukr.ae (1000000) Tatoeba-train.eng-slk-ukr.af (1000000) Tatoeba-train.eng-slk-ukr.ag (1000000) Tatoeba-train.eng-slk-ukr.ah (1000000) Tatoeba-train.eng-slk-ukr.ai (1000000) Tatoeba-train.eng-slk-ukr.aj (1000000) Tatoeba-train.eng-slk-ukr.ak (1000000) Tatoeba-train.eng-slk-ukr.al (1000000) Tatoeba-train.eng-slk-ukr.am (1000000) Tatoeba-train.eng-slk-ukr.an (1000000) Tatoeba-train.eng-slk-ukr.ao (1000000) Tatoeba-train.eng-slk-ukr.ap (1000000) Tatoeba-train.eng-slk-ukr.aq (1000000) Tatoeba-train.eng-slk-ukr.ar (1000000) Tatoeba-train.eng-slk-ukr.as (1000000) Tatoeba-train.eng-slk-ukr.at (1000000) Tatoeba-train.eng-slk-ukr.au (1000000) Tatoeba-train.eng-slk-ukr.av (1000000) Tatoeba-train.eng-slk-ukr.aw (1000000) Tatoeba-train.eng-slk-ukr.ax (1000000) Tatoeba-train.eng-slk-ukr.ay (1000000) Tatoeba-train.eng-slk-ukr.az (1000000) Tatoeba-train.eng-slk-ukr.ba (1000000) Tatoeba-train.eng-slk-ukr.bb (1000000) Tatoeba-train.eng-slk-ukr.bc (1000000) Tatoeba-train.eng-slk-ukr.bd (1000000) Tatoeba-train.eng-slk-ukr.be (1000000) Tatoeba-train.eng-slk-ukr.bf (1000000) Tatoeba-train.eng-slk-ukr.bg (1000000) Tatoeba-train.eng-slk-ukr.bh (220604) 
+validation-data:
+   ces-ukr: Tatoeba-dev-v2021-08-07, 1110
+   total-size-shuffled: 1000
+   devset-selected: top 1000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   flores101.ces-ukr: 1012/22810
+   flores101.slk-ukr: 1012/22810
+   Tatoeba-test-v2021-08-07.ces-ukr: 1787/8854
+   Tatoeba-test-v2021-08-07.multi-ukr: 1787/8891
+BLEU-scores:
+   flores101.ces-ukr: 20.8
+   flores101.slk-ukr: 20.1
+   Tatoeba-test-v2021-08-07.ces-ukr: 50.3
+   Tatoeba-test-v2021-08-07.multi-ukr: 51.1
+chr-F-scores:
+   flores101.ces-ukr: 0.50791
+   flores101.slk-ukr: 0.50533
+   Tatoeba-test-v2021-08-07.ces-ukr: 0.68530
+   Tatoeba-test-v2021-08-07.multi-ukr: 0.68883

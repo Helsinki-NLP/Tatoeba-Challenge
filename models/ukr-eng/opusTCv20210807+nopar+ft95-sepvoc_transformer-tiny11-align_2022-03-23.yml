@@ -1,0 +1,37 @@
+release: ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip
+release-date: 2022-03-23
+dataset-name: opusTCv20210807+nopar+ft95
+modeltype: transformer-tiny11-align
+vocabulary:
+   source: opusTCv20210807+nopar+ft95-sepvoc.spm32k-spm32k.src.vocab
+   target: opusTCv20210807+nopar+ft95-sepvoc.spm32k-spm32k.trg.vocab
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ukr
+target-languages:
+   - eng
+raw-source-languages:
+   - ukr
+raw-target-languages:
+   - eng
+training-data:
+   ukr-eng: Tatoeba-train.ukr.best95.gz (25925901) 
+validation-data:
+   eng-ukr: Tatoeba-dev-v2021-08-07, 157691
+   total-size-shuffled: 157691
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   flores101.ukr-eng: 1012/24739
+   Tatoeba-test-v2021-08-07.ukr-eng: 10000/67543
+BLEU-scores:
+   flores101.ukr-eng: 35.8
+   Tatoeba-test-v2021-08-07.ukr-eng: 52.7
+chr-F-scores:
+   flores101.ukr-eng: 0.62527
+   Tatoeba-test-v2021-08-07.ukr-eng: 0.68333

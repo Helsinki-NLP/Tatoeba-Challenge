@@ -38,6 +38,7 @@ nob-eng	tatoeba-test-v2021-08-07	0.68689	53.6	https://object.pouta.csc.fi/Tatoeb
 nob-nno	tatoeba-test-v2021-08-07	0.75688	56.3	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus4m+btTCv20210807-2021-12-08.zip	466	3141
 nob-swe	tatoeba-test-v2021-08-07	0.83623	72.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus4m+btTCv20210807-2021-12-08.zip	563	3698
 pol-ukr	tatoeba-test-v2021-08-07	0.68493	48.2	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	2519	13535
+spa-ukr	tatoeba-test-v2021-08-07	0.61716	39.4	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10115	54544
 swe-dan	tatoeba-test-v2021-08-07	0.82240	70.5	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus4m+btTCv20210807-2021-12-08.zip	1549	10239
 swe-eng	tatoeba-test-v2021-08-07	0.73296	60.7	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus4m+btTCv20210807-2021-12-08.zip	10362	68513
 swe-eng	tatoeba-test-v2021-08-07	0.70463	57.4	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus4m+btTCv20210807-2021-12-08.zip	10362	68513
@@ -46,6 +47,9 @@ swe-fin	tatoeba-test-v2021-08-07	0.68849	46.3	https://object.pouta.csc.fi/Tatoeb
 swe-fin	tatoeba-test-v2021-08-07	0.67911	45.5	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-fin/opusTCv20210807+pbt+bt-2022-01-15.zip	2841	15621
 swe-fin	tatoeba-test-v2021-08-07	0.67311	43.8	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-fin/opusTCv20210807+nopar+ft95-2022-01-19.zip	2841	15621
 swe-nob	tatoeba-test-v2021-08-07	0.84541	73.9	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus4m+btTCv20210807-2021-12-08.zip	563	3708
+ukr-deu	tatoeba-test-v2021-08-07	0.69058	51.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10319	64646
 ukr-eng	tatoeba-test-v2021-08-07	0.67329	51.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	13127	88607
+ukr-fra	tatoeba-test-v2021-08-07	0.65762	48.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-fra/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10035	63227
 ukr-hun	tatoeba-test-v2021-08-07	0.66840	42.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	473	2472
 ukr-pol	tatoeba-test-v2021-08-07	0.72456	53.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-pol/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-17.zip	2519	13201
+ukr-spa	tatoeba-test-v2021-08-07	0.66238	47.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-spa/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10115	59284

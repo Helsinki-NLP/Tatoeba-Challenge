@@ -1,0 +1,37 @@
+release: deu-ukr/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip
+release-date: 2022-03-23
+dataset-name: opusTCv20210807+nopar+ftmono+ft95
+modeltype: transformer-tiny11-align
+vocabulary:
+   source: opusTCv20210807+nopar+ftmono+ft95-sepvoc.spm32k-spm32k.src.vocab
+   target: opusTCv20210807+nopar+ftmono+ft95-sepvoc.spm32k-spm32k.trg.vocab
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - deu
+target-languages:
+   - ukr
+raw-source-languages:
+   - deu
+raw-target-languages:
+   - ukr
+training-data:
+   deu-ukr: Tatoeba-train.deu.best95.gz (9982838) wikibooks.aa (450350) wikinews.aa (198580) wikipedia.aa (986825) wikipedia.ab (986584) wikipedia.ac (986547) wikipedia.ad (986530) wikipedia.ae (986581) wikipedia.af (986594) wikipedia.ag (986424) wikipedia.ah (986695) wikipedia.ai (986688) wikipedia.aj (986687) wikipedia.ak (986611) wikipedia.al (986614) wikipedia.am (986811) wikipedia.an (986409) wikipedia.ao (986476) wikipedia.ap (986727) wikipedia.aq (986612) wikipedia.ar (986654) wikipedia.as (986718) wikipedia.at (986859) wikipedia.au (986452) wikipedia.av (986627) wikipedia.aw (986483) wikipedia.ax (986491) wikipedia.ay (986651) wikipedia.az (986543) wikipedia.ba (986671) wikipedia.bb (986589) wikipedia.bc (986667) wikipedia.bd (986542) wikipedia.be (986485) wikipedia.bf (986595) wikipedia.bg (986694) wikipedia.bh (986567) wikipedia.bi (986488) wikipedia.bj (986574) wikipedia.bk (986627) wikipedia.bl (986670) wikipedia.bm (986521) wikipedia.bn (986576) wikipedia.bo (986565) wikipedia.bp (986504) wikipedia.bq (986579) wikipedia.br (986620) wikipedia.bs (986434) wikipedia.bt (986558) wikipedia.bu (986613) wikipedia.bv (986391) wikipedia.bw (986396) wikipedia.bx (986575) wikipedia.by (986667) wikipedia.bz (986526) wikipedia.ca (986699) wikipedia.cb (986642) wikipedia.cc (986606) wikipedia.cd (664036) wikiquote.aa (78903) wikisource.aa (977349) 
+validation-data:
+   deu-ukr: Tatoeba-dev-v2021-08-07, 11580
+   total-size-shuffled: 11580
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   flores101.deu-ukr: 1012/22810
+   Tatoeba-test-v2021-08-07.deu-ukr: 10000/54590
+BLEU-scores:
+   flores101.deu-ukr: 22.6
+   Tatoeba-test-v2021-08-07.deu-ukr: 37.7
+chr-F-scores:
+   flores101.deu-ukr: 0.52001
+   Tatoeba-test-v2021-08-07.deu-ukr: 0.60928

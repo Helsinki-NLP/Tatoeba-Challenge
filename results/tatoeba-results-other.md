@@ -287,6 +287,10 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.457 | 18.1 |
 | [ces-spa/opus](../models/ces-spa) | newstest2013 | 0.556 | 29.8 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.455 | 18.2 |
+| | lang = ces-ukr | | | | |
+| [ces+slk-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/ces+slk-ukr) | flores101 | 0.50791 | 20.8 |
+| | lang = dan-ukr | | | | |
+| [gmq-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/gmq-ukr) | flores101 | 0.51989 | 22.6 |
 | | lang = deu-ces | | | | |
 | [deu-ces/opus](../models/deu-ces) | newssyscomb2009 | 0.502 | 23.0 |
 | [ine-ine/opus](../models/ine-ine) | newssyscomb2009 | 0.381 | 10.5 |
@@ -618,6 +622,8 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | newstest2011 | 0.464 | 19.2 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.467 | 19.6 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.463 | 19.4 |
+| | lang = deu-ukr | | | | |
+| [deu-ukr/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align](../models/deu-ukr) | flores101 | 0.52001 | 22.6 |
 | | lang = eng-amh | | | | |
 | [sem-sem/opus](../models/sem-sem) | tico19-test | 0.238 | 4.3 |
 | [afa-afa/opus](../models/afa-afa) | tico19-test | 0.220 | 3.6 |
@@ -1949,6 +1955,8 @@ to be useful for anything.
 | [eng-mul/opus](../models/eng-mul) | newstest2018 | 0.372 | 7.0 |
 | [trk-trk/opus](../models/trk-trk) | newstest2018 | 0.353 | 7.3 |
 | [tut-tut/opus](../models/tut-tut) | newstest2018 | 0.352 | 7.2 |
+| | lang = eng-ukr | | | | |
+| [eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/eng-ukr) | flores101 | 0.58247 | 29.6 |
 | | lang = eng-urd | | | | |
 | [eng-urd/opus+bt](../models/eng-urd) | tico19-test | 0.395 | 13.7 |
 | [eng-inc/opus1m+bt](../models/eng-inc) | tico19-test | 0.329 | 8.4 |
@@ -2906,6 +2914,8 @@ to be useful for anything.
 | [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | newstest2013 | 0.56887 | 32.0 |
 | [zle-roa/opus1m](../models/zle-roa) | newstest2013 | 0.535 | 27.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.446 | 17.9 |
+| | lang = slk-ukr | | | | |
+| [ces+slk-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/ces+slk-ukr) | flores101 | 0.50533 | 20.1 |
 | | lang = som-eng | | | | |
 | [som-eng/opus](../models/som-eng) | tico19-test | 0.182 | 0.4 |
 | | lang = spa-ces | | | | |
@@ -3073,6 +3083,8 @@ to be useful for anything.
 | [swe-fin/opus](../models/swe-fin) | MeMAD-YLE-test.FIH-SWE | 0.427 | 12.2 |
 | [swe-fin/opus](../models/swe-fin) | MeMAD-YLE-test.FIN-SWE | 0.492 | 20.8 |
 | [swe-fin/opus](../models/swe-fin) | MeMAD-YLE-test.FIN-SWH | 0.444 | 15.9 |
+| | lang = swe-ukr | | | | |
+| [gmq-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/gmq-ukr) | flores101 | 0.51493 | 22.1 |
 | | lang = tam-eng | | | | |
 | [dra-eng/opus4m+btTCv20210807](../models/dra-eng) | tico19-test | 0.505 | 22.9 |
 | [tam-eng/opus+bt](../models/tam-eng) | tico19-test | 0.385 | 13.0 |
@@ -3126,6 +3138,8 @@ to be useful for anything.
 | [trk-eng/opus1m](../models/trk-eng) | newstest2018 | 0.304 | 8.2 |
 | [tut-eng/opus4m](../models/tut-eng) | newstest2018 | 0.247 | 4.9 |
 | [trk-eng/opus2m](../models/trk-eng) | newstest2018 | 0.230 | 4.1 |
+| | lang = ukr-eng | | | | |
+| [ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-eng) | flores101 | 0.62527 | 35.8 |
 | | lang = urd-eng | | | | |
 | [inc-eng/opus1m+bt](../models/inc-eng) | tico19-test | 0.425 | 16.5 |
 | [urd-eng/opus+bt](../models/urd-eng) | tico19-test | 0.388 | 12.6 |
