@@ -1,0 +1,112 @@
+release: zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-23.zip
+release-date: 2022-03-23
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bel
+   - bel_Latn
+   - orv_Cyrl
+   - rus
+   - ukr
+target-languages:
+   - ces
+   - dsb
+   - hsb
+   - pol
+raw-source-languages:
+   - bel
+   - orv
+   - rus
+   - ukr
+raw-target-languages:
+   - ces
+   - dsb
+   - hsb
+   - pol
+use-target-labels:
+training-data:
+   bel-ces: Tatoeba-train-v2021-08-07.bel-ces.strict (2092083) 
+   bel-pol: Tatoeba-train-v2021-08-07.bel-pol.strict (2887200) 
+   bel_Latn-ces: Tatoeba-train-v2021-08-07.bel_Latn-ces.strict (6177) 
+   bel_Latn-pol: Tatoeba-train-v2021-08-07.bel_Latn-pol.strict (7955) 
+   rus-ces: Tatoeba-train-v2021-08-07.ces-rus.strict (48593400) 
+   rus-dsb: Tatoeba-train-v2021-08-07.dsb-rus.strict (28200) 
+   rus-hsb: Tatoeba-train-v2021-08-07.hsb-rus.strict (38649) 
+   rus-pol: Tatoeba-train-v2021-08-07.pol-rus.strict (60011620) 
+   ukr-ces: Tatoeba-train-v2021-08-07.ces-ukr.strict (7465713) 
+   ukr-dsb: Tatoeba-train-v2021-08-07.dsb-ukr.strict (29540) 
+   ukr-hsb: Tatoeba-train-v2021-08-07.hsb-ukr.strict (39586) 
+   ukr-pol: Tatoeba-train-v2021-08-07.pol-ukr.strict (9914436) 
+validation-data:
+   bel-ces: Tatoeba-dev-v2021-08-07, 999
+   bel-pol: Tatoeba-dev-v2021-08-07, 980
+   bel_Latn-ces: Tatoeba-dev-v2021-08-07, 2
+   bel_Latn-pol: Tatoeba-dev-v2021-08-07, 2
+   ces-rus: Tatoeba-dev-v2021-08-07, 5443
+   dsb-rus: Tatoeba-dev-v2021-08-07, 1000
+   hsb-rus: Tatoeba-dev-v2021-08-07, 1000
+   pol-rus: Tatoeba-dev-v2021-08-07, 1014
+   ces-ukr: Tatoeba-dev-v2021-08-07, 1110
+   dsb-ukr: Tatoeba-dev-v2021-08-07, 1000
+   hsb-ukr: Tatoeba-dev-v2021-08-07, 1000
+   pol-ukr: Tatoeba-dev-v2021-08-07, 6884
+   total-size-shuffled: 9979
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newstest2012.rus-ces: 3003/65456
+   newstest2013.rus-ces: 3000/57250
+   Tatoeba-test-v2021-08-07.bel-ces: 31/172
+   Tatoeba-test-v2021-08-07.bel_Latn-pol: 2/15
+   Tatoeba-test-v2021-08-07.bel-pol: 287/1704
+   Tatoeba-test-v2021-08-07.multi-multi: 10000/55916
+   Tatoeba-test-v2021-08-07.orv-pol: 7/36
+   Tatoeba-test-v2021-08-07.rus-ces: 2934/16824
+   Tatoeba-test-v2021-08-07.rus-dsb: 24/118
+   Tatoeba-test-v2021-08-07.rus-hsb: 38/273
+   Tatoeba-test-v2021-08-07.rus-pol: 3543/21485
+   Tatoeba-test-v2021-08-07.ukr-ces: 1787/8549
+   Tatoeba-test-v2021-08-07.ukr-dsb: 3/14
+   Tatoeba-test-v2021-08-07.ukr-hsb: 8/128
+   Tatoeba-test-v2021-08-07.ukr-pol: 2519/13193
+BLEU-scores:
+   newstest2012.rus-ces: 18.8
+   newstest2013.rus-ces: 26.0
+   Tatoeba-test-v2021-08-07.bel-ces: 35.6
+   Tatoeba-test-v2021-08-07.bel_Latn-pol: 6.7
+   Tatoeba-test-v2021-08-07.bel-pol: 45.4
+   Tatoeba-test-v2021-08-07.multi-multi: 54.4
+   Tatoeba-test-v2021-08-07.orv-pol: 11.8
+   Tatoeba-test-v2021-08-07.rus-ces: 53.3
+   Tatoeba-test-v2021-08-07.rus-dsb: 7.9
+   Tatoeba-test-v2021-08-07.rus-hsb: 16.6
+   Tatoeba-test-v2021-08-07.rus-pol: 53.6
+   Tatoeba-test-v2021-08-07.ukr-ces: 57.9
+   Tatoeba-test-v2021-08-07.ukr-dsb: 6.3
+   Tatoeba-test-v2021-08-07.ukr-hsb: 44.0
+   Tatoeba-test-v2021-08-07.ukr-pol: 57.1
+chr-F-scores:
+   newstest2012.rus-ces: 0.45834
+   newstest2013.rus-ces: 0.52364
+   Tatoeba-test-v2021-08-07.bel-ces: 0.60403
+   Tatoeba-test-v2021-08-07.bel_Latn-pol: 0.30760
+   Tatoeba-test-v2021-08-07.bel-pol: 0.63855
+   Tatoeba-test-v2021-08-07.multi-multi: 0.71837
+   Tatoeba-test-v2021-08-07.orv-pol: 0.36824
+   Tatoeba-test-v2021-08-07.rus-ces: 0.69575
+   Tatoeba-test-v2021-08-07.rus-dsb: 0.36111
+   Tatoeba-test-v2021-08-07.rus-hsb: 0.34617
+   Tatoeba-test-v2021-08-07.rus-pol: 0.72092
+   Tatoeba-test-v2021-08-07.ukr-ces: 0.73057
+   Tatoeba-test-v2021-08-07.ukr-dsb: 0.23818
+   Tatoeba-test-v2021-08-07.ukr-hsb: 0.39724
+   Tatoeba-test-v2021-08-07.ukr-pol: 0.74746

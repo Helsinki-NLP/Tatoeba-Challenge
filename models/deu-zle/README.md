@@ -28,6 +28,7 @@
 | Tatoeba-test-v2021-08-07.deu-ukr 	| 39.0 	| 0.61380 	| 10319 	| 56121 	| 1.000 |
 
 
+
 # opusTCv20210807_transformer-big_2022-03-19.zip
 
 * dataset: opusTCv20210807
@@ -56,4 +57,34 @@
 | Tatoeba-test-v2021-08-07.deu-orv 	| 0.7 	| 0.16532 	| 28 	| 139 	| 1.000 |
 | Tatoeba-test-v2021-08-07.deu-rus 	| 45.2 	| 0.66607 	| 12800 	| 86919 	| 0.986 |
 | Tatoeba-test-v2021-08-07.deu-ukr 	| 40.6 	| 0.62749 	| 10319 	| 56121 	| 0.999 |
+
+
+# opusTCv20210807_transformer-big_2022-03-23.zip
+
+* dataset: opusTCv20210807
+* model: transformer-big
+* source language(s): deu
+* target language(s): bel bel_Latn orv_Cyrl rus ukr
+* raw source language(s): deu
+* raw target language(s): bel orv rus ukr
+* model: transformer-big
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: 
+* download: [opusTCv20210807_transformer-big_2022-03-23.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/deu-zle/opusTCv20210807_transformer-big_2022-03-23.zip)
+* test set translations: [opusTCv20210807_transformer-big_2022-03-23.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/deu-zle/opusTCv20210807_transformer-big_2022-03-23.test.txt)
+* test set scores: [opusTCv20210807_transformer-big_2022-03-23.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/deu-zle/opusTCv20210807_transformer-big_2022-03-23.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| newstest2012.deu-rus 	| 20.8 	| 0.49414 	| 3003 	| 64830 	| 0.979 |
+| newstest2013.deu-rus 	| 24.9 	| 0.52632 	| 3000 	| 58560 	| 0.961 |
+| Tatoeba-test-v2021-08-07.deu-bel 	| 29.2 	| 0.53063 	| 551 	| 3596 	| 1.000 |
+| Tatoeba-test-v2021-08-07.deu-bel_Latn 	| 3.1 	| 0.694 	| 3 	| 21 	| 1.000 |
+| Tatoeba-test-v2021-08-07.deu-multi 	| 43.8 	| 0.65199 	| 10000 	| 61925 	| 0.987 |
+| Tatoeba-test-v2021-08-07.deu-orv 	| 0.7 	| 0.16833 	| 28 	| 139 	| 1.000 |
+| Tatoeba-test-v2021-08-07.deu-rus 	| 45.2 	| 0.66714 	| 12800 	| 86919 	| 0.986 |
+| Tatoeba-test-v2021-08-07.deu-ukr 	| 40.5 	| 0.62641 	| 10319 	| 56121 	| 0.998 |
 
