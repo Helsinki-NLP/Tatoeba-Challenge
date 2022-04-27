@@ -1,0 +1,45 @@
+release: fin-zle/opusTCv20210807+xb+bt+pft+pbt_transformer-big_2022-04-27.zip
+release-date: 2022-04-27
+dataset-name: opusTCv20210807+xb+bt+pft+pbt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+xb+bt+pft+pbt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+xb+bt+pft+pbt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - rus
+   - ukr
+raw-source-languages:
+   - fin
+raw-target-languages:
+   - rus
+   - ukr
+use-target-labels:
+training-data:
+   fin-rus: Tatoeba-train-v2021-08-07.fin-rus.strict (24014760) wikibooks.aa.rus-fin (86605) wikinews.aa.rus-fin (396256) wikipedia.aa.rus-fin (995566) wikipedia.ab.rus-fin (995516) wikipedia.ac.rus-fin (995542) wikipedia.ad.rus-fin (995738) wikipedia.ae.rus-fin (995530) wikipedia.af.rus-fin (995602) wikipedia.ag.rus-fin (995598) wikipedia.ah.rus-fin (995601) wikipedia.ai.rus-fin (995671) wikipedia.aj.rus-fin (995632) wikipedia.ak.rus-fin (995680) wikipedia.al.rus-fin (995554) wikipedia.am.rus-fin (995532) wikipedia.an.rus-fin (995538) wikipedia.ao.rus-fin (995599) wikipedia.ap.rus-fin (995589) wikipedia.aq.rus-fin (995587) wikipedia.ar.rus-fin (995630) wikipedia.as.rus-fin (995545) wikipedia.at.rus-fin (995563) wikipedia.au.rus-fin (995656) wikipedia.av.rus-fin (995597) wikipedia.aw.rus-fin (995647) wikipedia.ax.rus-fin (995698) wikipedia.ay.rus-fin (995541) wikipedia.az.rus-fin (995490) wikipedia.ba.rus-fin (995495) wikipedia.bb.rus-fin (995729) wikipedia.bc.rus-fin (995692) wikipedia.bd.rus-fin (995590) wikipedia.be.rus-fin (917404) wikiquote.aa.rus-fin (233663) wikisource.aa.rus-fin (991379) wikisource.ab.rus-fin (991428) wikisource.ac.rus-fin (991578) wikisource.ad.rus-fin (991304) wikisource.ae.rus-fin (991406) wikisource.af.rus-fin (991276) wikisource.ag.rus-fin (991312) wikisource.ah.rus-fin (991499) wikisource.ai.rus-fin (991521) wikisource.aj.rus-fin (991259) wikisource.ak.rus-fin (991182) wikisource.al.rus-fin (991161) wikisource.am.rus-fin (991339) wikisource.an.rus-fin (390178) 
+   fin-ukr: Tatoeba-train-v2021-08-07.fin-ukr.strict (5400101) wikibooks.aa.ukr-fin (65396) wikinews.aa.ukr-fin (26053) wikipedia.aa.ukr-fin (982686) wikipedia.ab.ukr-fin (982613) wikipedia.ac.ukr-fin (982781) wikipedia.ad.ukr-fin (982768) wikipedia.ae.ukr-fin (982620) wikipedia.af.ukr-fin (982671) wikipedia.ag.ukr-fin (982582) wikipedia.ah.ukr-fin (982512) wikipedia.ai.ukr-fin (982682) wikipedia.aj.ukr-fin (982402) wikipedia.ak.ukr-fin (982491) wikipedia.al.ukr-fin (982809) wikipedia.am.ukr-fin (982495) wikipedia.an.ukr-fin (982578) wikipedia.ao.ukr-fin (947314) wikiquote.aa.ukr-fin (63148) wikisource.aa.ukr-fin (678733) Tatoeba-train.rus-ukr-fin.aa (1000000) Tatoeba-train.rus-ukr-fin.ab (1000000) Tatoeba-train.rus-ukr-fin.ac (1000000) Tatoeba-train.rus-ukr-fin.ad (1000000) Tatoeba-train.rus-ukr-fin.ae (1000000) Tatoeba-train.rus-ukr-fin.af (1000000) Tatoeba-train.rus-ukr-fin.ag (1000000) Tatoeba-train.rus-ukr-fin.ah (1000000) Tatoeba-train.rus-ukr-fin.ai (1000000) Tatoeba-train.rus-ukr-fin.aj (1000000) Tatoeba-train.rus-ukr-fin.ak (1000000) Tatoeba-train.rus-ukr-fin.al (1000000) Tatoeba-train.rus-ukr-fin.am (1000000) Tatoeba-train.rus-ukr-fin.an (1000000) Tatoeba-train.rus-ukr-fin.ao (1000000) Tatoeba-train.rus-ukr-fin.ap (1000000) Tatoeba-train.rus-ukr-fin.aq (1000000) Tatoeba-train.rus-ukr-fin.ar (1000000) Tatoeba-train.rus-ukr-fin.as (1000000) Tatoeba-train.rus-ukr-fin.at (1000000) Tatoeba-train.rus-ukr-fin.au (1000000) Tatoeba-train.rus-ukr-fin.av (1000000) Tatoeba-train.rus-ukr-fin.aw (1000000) Tatoeba-train.rus-ukr-fin.ax (1000000) Tatoeba-train.rus-ukr-fin.ay (14760) Tatoeba-train.eng-fin-ukr.aa (1000000) Tatoeba-train.eng-fin-ukr.ab (1000000) Tatoeba-train.eng-fin-ukr.ac (1000000) Tatoeba-train.eng-fin-ukr.ad (1000000) Tatoeba-train.eng-fin-ukr.ae (1000000) Tatoeba-train.eng-fin-ukr.af (1000000) Tatoeba-train.eng-fin-ukr.ag (1000000) Tatoeba-train.eng-fin-ukr.ah (1000000) Tatoeba-train.eng-fin-ukr.ai (1000000) Tatoeba-train.eng-fin-ukr.aj (1000000) Tatoeba-train.eng-fin-ukr.ak (1000000) Tatoeba-train.eng-fin-ukr.al (1000000) Tatoeba-train.eng-fin-ukr.am (1000000) Tatoeba-train.eng-fin-ukr.an (1000000) Tatoeba-train.eng-fin-ukr.ao (1000000) Tatoeba-train.eng-fin-ukr.ap (1000000) Tatoeba-train.eng-fin-ukr.aq (1000000) Tatoeba-train.eng-fin-ukr.ar (1000000) Tatoeba-train.eng-fin-ukr.as (1000000) Tatoeba-train.eng-fin-ukr.at (1000000) Tatoeba-train.eng-fin-ukr.au (1000000) Tatoeba-train.eng-fin-ukr.av (1000000) Tatoeba-train.eng-fin-ukr.aw (1000000) Tatoeba-train.eng-fin-ukr.ax (1000000) Tatoeba-train.eng-fin-ukr.ay (1000000) Tatoeba-train.eng-fin-ukr.az (1000000) Tatoeba-train.eng-fin-ukr.ba (1000000) Tatoeba-train.eng-fin-ukr.bb (1000000) Tatoeba-train.eng-fin-ukr.bc (1000000) Tatoeba-train.eng-fin-ukr.bd (1000000) Tatoeba-train.eng-fin-ukr.be (1000000) Tatoeba-train.eng-fin-ukr.bf (1000000) Tatoeba-train.eng-fin-ukr.bg (1000000) Tatoeba-train.eng-fin-ukr.bh (220604) MultiParaCrawl.fi-uk (1212042) 
+validation-data:
+   fin-rus: Tatoeba-dev-v2021-08-07, 1004
+   fin-ukr: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 2000
+   devset-selected: top 2000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   flores101.fin-rus: 1012/23295
+   flores101.fin-ukr: 1012/22810
+   Tatoeba-test-v2021-08-07.fin-multi: 3676/21715
+BLEU-scores:
+   flores101.fin-rus: 22.1
+   flores101.fin-ukr: 21.0
+   Tatoeba-test-v2021-08-07.fin-multi: 46.7
+chr-F-scores:
+   flores101.fin-rus: 0.51082
+   flores101.fin-ukr: 0.50567
+   Tatoeba-test-v2021-08-07.fin-multi: 0.67392

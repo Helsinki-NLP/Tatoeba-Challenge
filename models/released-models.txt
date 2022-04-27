@@ -782,6 +782,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zho/opus-2021-05-15.zip	fin-zh
 https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zle/opus4m+btTCv20210807-2022-01-19.zip	fin-zle	fi-zle	0.663	45.8	Finnish	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zle/opusTCv20210807+bt_transformer-big_2022-03-17.zip	fin-zle	fi-zle	0.67187	46.9	Finnish	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	fin-zle	fi-zle	0.67140	46.7	Finnish	East Slavic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zle/opusTCv20210807+xb+bt+pft+pbt_transformer-big_2022-04-27.zip	fin-zle	fi-zle	0.67392	46.7	Finnish	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zlw/opus4m+btTCv20210807-2022-01-19.zip	fin-zlw	fi-zlw	0.660	47.4	Finnish	West Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-aav/opus-2021-02-19.zip	fiu-aav	fiu-aav	0.336	18.9	Finno-Ugrian languages	Austro-Asiatic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-afa/opus-2021-02-18.zip	fiu-afa	fiu-afa	0.483	24.2	Finno-Ugrian languages	Afro-Asiatic languages
@@ -1572,6 +1573,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opus4m-2020-08-12.zip	zle-
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opusTCv20210807+bt_transformer-big_2022-03-03.zip	zle-eng	zle-en	0.70282	55.6	East Slavic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opusTCv20210807+bt_transformer-big_2022-03-17.zip	zle-eng	zle-en	0.70546	56.0	East Slavic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fin/opusTCv20210807+bt_transformer-big_2022-03-07.zip	zle-fin	zle-fi	0.66361	42.3	East Slavic languages	Finnish
+https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big_2022-04-18.zip	zle-fin	zle-fi	0.67184	43.7	East Slavic languages	Finnish
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fiu/opus-2021-02-18.zip	zle-fiu	zle-fiu	0.464	26.5	East Slavic languages	Finno-Ugrian languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fra/opusTCv20210807_transformer-big_2022-03-14.zip	zle-fra	zle-fr	0.67309	50.8	East Slavic languages	French
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fra/opusTCv20210807_transformer-big_2022-03-19.zip	zle-fra	zle-fr	0.68244	52.1	East Slavic languages	French

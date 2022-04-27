@@ -2212,6 +2212,8 @@ to be useful for anything.
 | [fiu-fiu/opus4m+btTCv20210807](../models/fiu-fiu) | newstestB2017 | 0.508 | 22.4 |
 | [urj-eng/opus1m+bt](../models/urj-eng) | newstestB2017 | 0.505 | 22.2 |
 | [mul-eng/opus2m](../models/mul-eng) | newstestB2017 | 0.442 | 16.8 |
+| | lang = fin-rus | | | | |
+| [fin-zle/opusTCv20210807+xb+bt+pft+pbt_transformer-big](../models/fin-zle) | flores101 | 0.51082 | 22.1 |
 | | lang = fin-swe | | | | |
 | [fin-swe/opusTCv20210807+bt](../models/fin-swe) | fiskmo_testset | 0.645 | 32.4 |
 | [fin-gmq/opus4m+btTCv20210807](../models/fin-gmq) | fiskmo_testset | 0.611 | 28.5 |
@@ -2221,6 +2223,8 @@ to be useful for anything.
 | [fin-swe/opus](../models/fin-swe) | MeMAD-YLE-test.FIH-SWE | 0.435 | 17.0 |
 | [fin-swe/opus](../models/fin-swe) | MeMAD-YLE-test.FIN-SWE | 0.468 | 22.3 |
 | [fin-swe/opus](../models/fin-swe) | MeMAD-YLE-test.FIN-SWH | 0.433 | 18.2 |
+| | lang = fin-ukr | | | | |
+| [fin-zle/opusTCv20210807+xb+bt+pft+pbt_transformer-big](../models/fin-zle) | flores101 | 0.50567 | 21.0 |
 | | lang = fra-ces | | | | |
 | [fra-ces/opus](../models/fra-ces) | newssyscomb2009 | 0.501 | 22.0 |
 | [ine-ine/opus](../models/ine-ine) | newssyscomb2009 | 0.390 | 11.5 |
@@ -2898,6 +2902,8 @@ to be useful for anything.
 | [rus-eng/opus](../models/rus-eng) | tico19-test | 0.603 | 29.4 |
 | [zle-gmw/opus1m](../models/zle-gmw) | tico19-test | 0.593 | 27.8 |
 | [zle-eng/opus1m+bt](../models/zle-eng) | tico19-test | 0.582 | 27.1 |
+| | lang = rus-fin | | | | |
+| [zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big](../models/zle-fin) | flores101 | 0.54558 | 19.2 |
 | | lang = rus-fra | | | | |
 | [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | newstest2012 | 0.53679 | 25.3 |
 | [zle-roa/opus1m](../models/zle-roa) | newstest2012 | 0.509 | 21.5 |
@@ -3140,6 +3146,8 @@ to be useful for anything.
 | [trk-eng/opus2m](../models/trk-eng) | newstest2018 | 0.230 | 4.1 |
 | | lang = ukr-eng | | | | |
 | [ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-eng) | flores101 | 0.62527 | 35.8 |
+| | lang = ukr-fin | | | | |
+| [zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big](../models/zle-fin) | flores101 | 0.55721 | 21.1 |
 | | lang = urd-eng | | | | |
 | [inc-eng/opus1m+bt](../models/inc-eng) | tico19-test | 0.425 | 16.5 |
 | [urd-eng/opus+bt](../models/urd-eng) | tico19-test | 0.388 | 12.6 |

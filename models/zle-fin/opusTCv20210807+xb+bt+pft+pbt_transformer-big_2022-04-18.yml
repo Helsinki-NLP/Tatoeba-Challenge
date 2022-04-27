@@ -1,0 +1,44 @@
+release: zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big_2022-04-18.zip
+release-date: 2022-04-18
+dataset-name: opusTCv20210807+xb+bt+pft+pbt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+xb+bt+pft+pbt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+xb+bt+pft+pbt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - rus
+   - ukr
+target-languages:
+   - fin
+raw-source-languages:
+   - rus
+   - ukr
+raw-target-languages:
+   - fin
+training-data:
+   rus-fin: Tatoeba-train-v2021-08-07.fin-rus.strict (24014760) wikibooks.aa (74823) wikinews.aa (22167) wikipedia.aa (992155) wikipedia.ab (991982) wikipedia.ac (992183) wikipedia.ad (991974) wikipedia.ae (992059) wikipedia.af (992145) wikipedia.ag (992104) wikipedia.ah (792953) wikiquote.aa (62399) wikisource.aa (529462) 
+   ukr-fin: Tatoeba-train-v2021-08-07.fin-ukr.strict (5400101) wikibooks.aa (74833) wikinews.aa (22159) wikipedia.aa (991992) wikipedia.ab (991777) wikipedia.ac (992018) wikipedia.ad (991852) wikipedia.ae (991931) wikipedia.af (992010) wikipedia.ag (991922) wikipedia.ah (792808) wikiquote.aa (62424) wikisource.aa (529555) Tatoeba-train.eng-fin-ukr.aa (1000000) Tatoeba-train.eng-fin-ukr.ab (1000000) Tatoeba-train.eng-fin-ukr.ac (1000000) Tatoeba-train.eng-fin-ukr.ad (1000000) Tatoeba-train.eng-fin-ukr.ae (1000000) Tatoeba-train.eng-fin-ukr.af (1000000) Tatoeba-train.eng-fin-ukr.ag (1000000) Tatoeba-train.eng-fin-ukr.ah (1000000) Tatoeba-train.eng-fin-ukr.ai (1000000) Tatoeba-train.eng-fin-ukr.aj (1000000) Tatoeba-train.eng-fin-ukr.ak (1000000) Tatoeba-train.eng-fin-ukr.al (1000000) Tatoeba-train.eng-fin-ukr.am (1000000) Tatoeba-train.eng-fin-ukr.an (1000000) Tatoeba-train.eng-fin-ukr.ao (1000000) Tatoeba-train.eng-fin-ukr.ap (1000000) Tatoeba-train.eng-fin-ukr.aq (1000000) Tatoeba-train.eng-fin-ukr.ar (1000000) Tatoeba-train.eng-fin-ukr.as (1000000) Tatoeba-train.eng-fin-ukr.at (1000000) Tatoeba-train.eng-fin-ukr.au (1000000) Tatoeba-train.eng-fin-ukr.av (1000000) Tatoeba-train.eng-fin-ukr.aw (1000000) Tatoeba-train.eng-fin-ukr.ax (1000000) Tatoeba-train.eng-fin-ukr.ay (1000000) Tatoeba-train.eng-fin-ukr.az (1000000) Tatoeba-train.eng-fin-ukr.ba (1000000) Tatoeba-train.eng-fin-ukr.bb (1000000) Tatoeba-train.eng-fin-ukr.bc (1000000) Tatoeba-train.eng-fin-ukr.bd (1000000) Tatoeba-train.eng-fin-ukr.be (1000000) Tatoeba-train.eng-fin-ukr.bf (1000000) Tatoeba-train.eng-fin-ukr.bg (1000000) Tatoeba-train.eng-fin-ukr.bh (220604) Tatoeba-train.rus-ukr-fin.aa (1000000) Tatoeba-train.rus-ukr-fin.ab (1000000) Tatoeba-train.rus-ukr-fin.ac (1000000) Tatoeba-train.rus-ukr-fin.ad (1000000) Tatoeba-train.rus-ukr-fin.ae (1000000) Tatoeba-train.rus-ukr-fin.af (1000000) Tatoeba-train.rus-ukr-fin.ag (1000000) Tatoeba-train.rus-ukr-fin.ah (1000000) Tatoeba-train.rus-ukr-fin.ai (1000000) Tatoeba-train.rus-ukr-fin.aj (1000000) Tatoeba-train.rus-ukr-fin.ak (1000000) Tatoeba-train.rus-ukr-fin.al (1000000) Tatoeba-train.rus-ukr-fin.am (1000000) Tatoeba-train.rus-ukr-fin.an (1000000) Tatoeba-train.rus-ukr-fin.ao (1000000) Tatoeba-train.rus-ukr-fin.ap (1000000) Tatoeba-train.rus-ukr-fin.aq (1000000) Tatoeba-train.rus-ukr-fin.ar (1000000) Tatoeba-train.rus-ukr-fin.as (1000000) Tatoeba-train.rus-ukr-fin.at (1000000) Tatoeba-train.rus-ukr-fin.au (1000000) Tatoeba-train.rus-ukr-fin.av (1000000) Tatoeba-train.rus-ukr-fin.aw (1000000) Tatoeba-train.rus-ukr-fin.ax (1000000) Tatoeba-train.rus-ukr-fin.ay (14760) MultiParaCrawl.fi-uk (1212042) 
+validation-data:
+   fin-rus: Tatoeba-dev-v2021-08-07, 1004
+   fin-ukr: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 2000
+   devset-selected: top 2000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   flores101.rus-fin: 1012/18775
+   flores101.ukr-fin: 1012/18775
+   Tatoeba-test-v2021-08-07.multi-fin: 3676/19510
+BLEU-scores:
+   flores101.rus-fin: 19.2
+   flores101.ukr-fin: 21.1
+   Tatoeba-test-v2021-08-07.multi-fin: 43.7
+chr-F-scores:
+   flores101.rus-fin: 0.54558
+   flores101.ukr-fin: 0.55721
+   Tatoeba-test-v2021-08-07.multi-fin: 0.67184
