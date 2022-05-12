@@ -8,6 +8,7 @@ This is a challenge set for machine translation that contains 29G translation un
 * [Training](data/README.md), [development](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/dev.tar) and [test data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/test.tar) 
 * [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-all.md) ([training procedures](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md))
 * [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
+* New: [The OPUS-MT leaderboard](https://opus.nlpl.eu/leaderboard/)
 * New: [The status of available NMT models on a map](https://opus.nlpl.eu/NMT-map/Tatoeba/all/src2trg/) (for release v2020-07-28)
 
 [![NMT map](images/NMT-map-small.png)](https://opus.nlpl.eu/NMT-map/Tatoeba-all/src2trg/)
