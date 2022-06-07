@@ -1,0 +1,115 @@
+release: eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip
+release-date: 2022-05-14
+dataset-name: opusTCv20210807+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - cjy_Hans
+   - cjy_Hant
+   - cmn
+   - cmn_Hans
+   - cmn_Hant
+   - gan
+   - hak
+   - hak_Hani
+   - hsn_Hani
+   - lzh
+   - lzh_Hans
+   - nan
+   - wuu
+   - yue_Hans
+   - yue_Hant
+raw-source-languages:
+   - eng
+raw-target-languages:
+   - cjy
+   - cmn
+   - gan
+   - hak
+   - hsn
+   - lzh
+   - nan
+   - wuu
+   - yue
+use-target-labels:
+training-data:
+   eng-cmn: Tatoeba-train-v2021-08-07.cmn-eng.strict (1969810) 
+   eng-cmn_Hans: Tatoeba-train-v2021-08-07.cmn_Hans-eng.strict (48282361) wikibooks.aa (31722) wikinews.aa (34638) wikipedia.aa (981365) wikipedia.ab (981399) wikipedia.ac (981588) wikipedia.ad (981454) wikipedia.ae (981426) wikipedia.af (981273) wikipedia.ag (981337) wikipedia.ah (259892) wikiquote.aa (33548) wikisource.aa (979041) wikisource.ab (978803) wikisource.ac (978809) wikisource.ad (588119) 
+   eng-cmn_Hant: Tatoeba-train-v2021-08-07.cmn_Hant-eng.strict (14691826) wikibooks.aa (229) wikinews.aa (63) wikipedia.aa (84591) wikiquote.aa (668) wikisource.aa (253516) 
+   eng-lzh: Tatoeba-train-v2021-08-07.eng-lzh.strict (32) 
+   eng-lzh_Hans: Tatoeba-train-v2021-08-07.eng-lzh_Hans.strict (18) 
+   eng-nan: Tatoeba-train-v2021-08-07.eng-nan.strict (503) 
+   eng-wuu: Tatoeba-train-v2021-08-07.eng-wuu.strict (22646) 
+   eng-yue_Hans: Tatoeba-train-v2021-08-07.eng-yue_Hans.strict (400) 
+   eng-yue_Hant: Tatoeba-train-v2021-08-07.eng-yue_Hant.strict (23038) 
+validation-data:
+   cjy_Hans-eng: Tatoeba-dev-v2021-08-07, 4
+   cjy_Hant-eng: Tatoeba-dev-v2021-08-07, 3
+   cmn-eng: Tatoeba-dev-v2021-08-07, 52
+   cmn_Hans-eng: Tatoeba-dev-v2021-08-07, 13350
+   cmn_Hant-eng: Tatoeba-dev-v2021-08-07, 14938
+   eng-gan: Tatoeba-dev-v2021-08-07, 3
+   eng-hak: Tatoeba-dev-v2021-08-07, 3
+   eng-hak_Hani: Tatoeba-dev-v2021-08-07, 1
+   eng-hsn_Hani: Tatoeba-dev-v2021-08-07, 3
+   eng-lzh: Tatoeba-dev-v2021-08-07, 309
+   eng-lzh_Hans: Tatoeba-dev-v2021-08-07, 20
+   eng-nan: Tatoeba-dev-v2021-08-07, 12
+   eng-wuu: Tatoeba-dev-v2021-08-07, 644
+   eng-yue_Hans: Tatoeba-dev-v2021-08-07, 1745
+   eng-yue_Hant: Tatoeba-dev-v2021-08-07, 1100
+   total-size-shuffled: 5054
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.eng-cjy_Hans: 2/21
+   Tatoeba-test-v2021-08-07.eng-cjy_Hant: 1/4
+   Tatoeba-test-v2021-08-07.eng-cmn_Hans: 4450/50615
+   Tatoeba-test-v2021-08-07.eng-cmn_Hant: 4476/47363
+   Tatoeba-test-v2021-08-07.eng-cmn: 15/87
+   Tatoeba-test-v2021-08-07.eng-gan: 1/14
+   Tatoeba-test-v2021-08-07.eng-lzh_Hans: 3/38
+   Tatoeba-test-v2021-08-07.eng-lzh: 100/776
+   Tatoeba-test-v2021-08-07.eng-nan: 2/10
+   Tatoeba-test-v2021-08-07.eng-wuu: 208/2375
+   Tatoeba-test-v2021-08-07.eng-yue_Hans: 677/8754
+   Tatoeba-test-v2021-08-07.eng-yue_Hant: 454/4437
+   Tatoeba-test-v2021-08-07.eng-multi: 10000/110339
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.eng-cjy_Hans: 12.9
+   Tatoeba-test-v2021-08-07.eng-cjy_Hant: 16.0
+   Tatoeba-test-v2021-08-07.eng-cmn_Hans: 34.3
+   Tatoeba-test-v2021-08-07.eng-cmn_Hant: 35.3
+   Tatoeba-test-v2021-08-07.eng-cmn: 15.5
+   Tatoeba-test-v2021-08-07.eng-gan: 11.8
+   Tatoeba-test-v2021-08-07.eng-lzh_Hans: 0.8
+   Tatoeba-test-v2021-08-07.eng-lzh: 1.3
+   Tatoeba-test-v2021-08-07.eng-nan: 5.3
+   Tatoeba-test-v2021-08-07.eng-wuu: 8.0
+   Tatoeba-test-v2021-08-07.eng-yue_Hans: 5.4
+   Tatoeba-test-v2021-08-07.eng-yue_Hant: 8.5
+   Tatoeba-test-v2021-08-07.eng-multi: 31.1
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.eng-cjy_Hans: 0.13957
+   Tatoeba-test-v2021-08-07.eng-cjy_Hant: 6.250
+   Tatoeba-test-v2021-08-07.eng-cmn_Hans: 0.29125
+   Tatoeba-test-v2021-08-07.eng-cmn_Hant: 0.30103
+   Tatoeba-test-v2021-08-07.eng-cmn: 0.35677
+   Tatoeba-test-v2021-08-07.eng-gan: 0.16078
+   Tatoeba-test-v2021-08-07.eng-lzh_Hans: 1.515
+   Tatoeba-test-v2021-08-07.eng-lzh: 4.033
+   Tatoeba-test-v2021-08-07.eng-nan: 3.125
+   Tatoeba-test-v2021-08-07.eng-wuu: 9.213
+   Tatoeba-test-v2021-08-07.eng-yue_Hans: 7.265
+   Tatoeba-test-v2021-08-07.eng-yue_Hant: 9.720
+   Tatoeba-test-v2021-08-07.eng-multi: 0.26573

@@ -1,0 +1,85 @@
+release: zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip
+release-date: 2022-05-08
+dataset-name: opusTCv20210807+xb+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+xb+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+xb+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ces
+   - dsb
+   - hsb
+   - pol
+   - slk
+target-languages:
+   - bel
+   - bel_Latn
+   - orv_Cyrl
+   - rus
+   - ukr
+raw-source-languages:
+   - ces
+   - dsb
+   - hsb
+   - pol
+   - slk
+raw-target-languages:
+   - bel
+   - orv
+   - rus
+   - ukr
+use-target-labels:
+training-data:
+   ces-bel: Tatoeba-train-v2021-08-07.bel-ces.strict (2092083) 
+   ces-bel_Latn: Tatoeba-train-v2021-08-07.bel_Latn-ces.strict (6177) 
+   ces-rus: Tatoeba-train-v2021-08-07.ces-rus.strict (48593400) 
+   ces-ukr: Tatoeba-train-v2021-08-07.ces-ukr.strict (7465713) wikibooks.aa.ukr-ces (65251) wikinews.aa.ukr-ces (25891) wikipedia.aa.ukr-ces (975870) wikipedia.ab.ukr-ces (976105) wikipedia.ac.ukr-ces (975784) wikipedia.ad.ukr-ces (975555) wikipedia.ae.ukr-ces (975807) wikipedia.af.ukr-ces (975890) wikipedia.ag.ukr-ces (975773) wikipedia.ah.ukr-ces (976084) wikipedia.ai.ukr-ces (975800) wikipedia.aj.ukr-ces (975603) wikipedia.ak.ukr-ces (976117) wikipedia.al.ukr-ces (975722) wikipedia.am.ukr-ces (976055) wikipedia.an.ukr-ces (975685) wikipedia.ao.ukr-ces (940601) wikiquote.aa.ukr-ces (62970) wikisource.aa.ukr-ces (675020) MultiParaCrawl.cs-uk (1772798) 
+   dsb-rus: Tatoeba-train-v2021-08-07.dsb-rus.strict (28200) 
+   dsb-ukr: Tatoeba-train-v2021-08-07.dsb-ukr.strict (29540) 
+   hsb-rus: Tatoeba-train-v2021-08-07.hsb-rus.strict (38649) 
+   hsb-ukr: Tatoeba-train-v2021-08-07.hsb-ukr.strict (39586) 
+   pol-bel: Tatoeba-train-v2021-08-07.bel-pol.strict (2887200) 
+   pol-bel_Latn: Tatoeba-train-v2021-08-07.bel_Latn-pol.strict (7955) 
+   pol-rus: Tatoeba-train-v2021-08-07.pol-rus.strict (60011620) 
+   pol-ukr: Tatoeba-train-v2021-08-07.pol-ukr.strict (9914436) wikibooks.aa.ukr-pol (65251) wikinews.aa.ukr-pol (25891) wikipedia.aa.ukr-pol (975806) wikipedia.ab.ukr-pol (975769) wikipedia.ac.ukr-pol (976119) wikipedia.ad.ukr-pol (976018) wikipedia.ae.ukr-pol (975923) wikipedia.af.ukr-pol (975814) wikipedia.ag.ukr-pol (975781) wikipedia.ah.ukr-pol (975879) wikipedia.ai.ukr-pol (976000) wikipedia.aj.ukr-pol (975614) wikipedia.ak.ukr-pol (975655) wikipedia.al.ukr-pol (975977) wikipedia.am.ukr-pol (975560) wikipedia.an.ukr-pol (975927) wikipedia.ao.ukr-pol (940609) wikiquote.aa.ukr-pol (62970) wikisource.aa.ukr-pol (675020) 01_Drugi_dod_protokol_do_konw_o_ekstradycji_PL-UKR.pl-uk (79) 03_Karta_samorzadu_terytorialnego_PL-UKR.pl-uk (120) 04_Karta_spoleczna_PL-UKR.pl-uk (461) 05_Konwencja_kulturalna_PL-UKR.pl-uk (49) 06_Konwencja_o_cyberprzestepczosci_PL-UKR.pl-uk (443) 07_Konwencja_o_dziedzictwie_architekt_PL-UKR.pl-uk (137) 08_Konwencja_o_ekstradycji_PL-UKR.pl-uk (194) 09_Konwencja_o_pieczy_PL-UKR.pl-uk (142) 10_Konwencja_o_pomocy_prawnej_w_s_k_PL-UKR.pl-uk (164) 11_Konwencja_o_praniu_p_PL-UKR.pl-uk (324) 12_Konwencja_o_przetwarzaniu_d_o_PL-UKR.pl-uk (192) 13_Konwencja_o_skazanych_PL-UKR.pl-uk (175) 14_Konwencja_o_tv_PL-UKR.pl-uk (294) 15_Konwencja_o_uznaniu_kwalifikacji_PL-UKR.pl-uk (281) 16_Konwencja_przeciw_handlowi_l_PL-UKR.pl-uk (377) 17_Konwencja_przeciw_przem_dom_PL-UKR.pl-uk (532) 18_Konwencja_przeciw_seks_wyk_PL-UKR.pl-uk (374) 19_Konwencja_zapob_tortur_PL-UKR.pl-uk (132) 201_Deklaracja_Pol-Liet-Ukr_PL-UKR.pl-uk (33) 20_Konwencja_o_ochr_dziedzictwa_PL-UKR.pl-uk (128) 21_Powszechna_dekl_praw_czlo_PL-UKR.pl-uk (72) 22_Prot_dod_do_konw_o_ekstradycji_PL-UKR.pl-uk (62) 23_Protokol_z_Kioto_PL-UKR.pl-uk (262) 24_Protokol_dod_do_EU_kon_o_pom_praw_w_spra_kar_PL-UKR.pl-uk (69) 25_Protokol_popr_do_UE_konw_o_tv_PL-UKR.pl-uk (225) 26_Statut_Rady_EU_PL-UKR.pl-uk (137) 401_Ahnenblatt_PL-UKR.pl-uk (1323) 402_MS_umowa_PL-UKR.pl-uk (678) Dialog_01_PL-UKR.pl-uk (13415) Dialog_03_PL-UKR.pl-uk (1360) Dialog_04_PL-UKR.pl-uk (1507) Dialog_05_PL-UKR.pl-uk (997) Dialog_06_PL-UKR.pl-uk (1346) Dialog_07_PL-UKR.pl-uk (1264) Dialog_08_PL-UKR.pl-uk (6910) Dialog_10_PL-UKR.pl-uk (2132) Dialog_11_PL-UKR.pl-uk (368) Dialog_12_PL-UKR.pl-uk (1823) Dialog_18_PL-UKR.pl-uk (400) Dialog_20_PL-UKR.pl-uk (1318) Dialog_21_PL-UKR.pl-uk (747) Dialog_23_PL-UKR.pl-uk (1374) Dialog_25_PL-UKR.pl-uk (1201) Dialog_28_PL-UKR.pl-uk (818) Dialog_29_PL-UKR.pl-uk (1290) Dialog_31_PL-UKR.pl-uk (1109) Dialog_34_PL-UKR.pl-uk (1448) Dialog_40_PL-UKR.pl-uk (1525) Dialog_41_PL-UKR.pl-uk (1332) Dialog_42_PL-UKR.pl-uk (2292) Dialog_46_PL-UKR.pl-uk (918) Dialog_47_PL-UKR.pl-uk (1621) Dialog_49_PL-UKR.pl-uk (1067) Dialog_50_PL-UKR.pl-uk (696) Dialog_51_PL-UKR.pl-uk (553) Dialog_52_PL-UKR.pl-uk (931) Dialog_53_PL-UKR.pl-uk (497) Dialog_54_PL-UKR.pl-uk (596) Dialog_55_PL-UKR.pl-uk (1228) Dialog_56_PL-UKR.pl-uk (338) Dialog_57_PL-UKR.pl-uk (550) Dialog_58_PL-UKR.pl-uk (1603) Dialog_59_PL-UKR.pl-uk (857) Dialog_60_PL-UKR.pl-uk (2300) Dialog_61_PL-UKR.pl-uk (1492) Dialog_62_PL-UKR.pl-uk (2425) Dialog_63_PL-UKR.pl-uk (1262) Dialog_64_PL-UKR.pl-uk (2196) Dialog_65_PL-UKR.pl-uk (1096) Dialog_67_PL-UKR.pl-uk (573) Dialog_68_PL-UKR.pl-uk (313) Dialog_69_PL-UKR.pl-uk (470) Dialog_70_PL-UKR.pl-uk (321) Dialog_71_PL-UKR.pl-uk (1240) Dialog_72_PL-UKR.pl-uk (641) Dialog_73_PL-UKR.pl-uk (377) Dialog_74_PL-UKR.pl-uk (658) Dialog_75_PL-UKR.pl-uk (650) Dialog_76_PL-UKR.pl-uk (414) Dialog_77_PL-UKR.pl-uk (568) Dialog_78_PL-UKR.pl-uk (428) Dialog_79_PL-UKR.pl-uk (451) Dialog_80_PL-UKR.pl-uk (648) Dialog_81_PL-UKR.pl-uk (1023) MultiParaCrawl.pl-uk (1476823) 
+   slk-ukr: wikibooks.aa.ukr-slk (65408) wikinews.aa.ukr-slk (26136) wikipedia.aa.ukr-slk (984082) wikipedia.ab.ukr-slk (983945) wikipedia.ac.ukr-slk (984071) wikipedia.ad.ukr-slk (984088) wikipedia.ae.ukr-slk (983959) wikipedia.af.ukr-slk (983961) wikipedia.ag.ukr-slk (983936) wikipedia.ah.ukr-slk (983865) wikipedia.ai.ukr-slk (983999) wikipedia.aj.ukr-slk (983716) wikipedia.ak.ukr-slk (983816) wikipedia.al.ukr-slk (984123) wikipedia.am.ukr-slk (983776) wikipedia.an.ukr-slk (983851) wikipedia.ao.ukr-slk (948592) wikiquote.aa.ukr-slk (63158) wikisource.aa.ukr-slk (678814) MultiParaCrawl.sk-uk (1583884) 
+validation-data:
+   bel-ces: Tatoeba-dev-v2021-08-07, 999
+   bel_Latn-ces: Tatoeba-dev-v2021-08-07, 2
+   ces-rus: Tatoeba-dev-v2021-08-07, 5443
+   ces-ukr: Tatoeba-dev-v2021-08-07, 1110
+   dsb-rus: Tatoeba-dev-v2021-08-07, 1000
+   dsb-ukr: Tatoeba-dev-v2021-08-07, 1000
+   hsb-rus: Tatoeba-dev-v2021-08-07, 1000
+   hsb-ukr: Tatoeba-dev-v2021-08-07, 1000
+   bel-pol: Tatoeba-dev-v2021-08-07, 980
+   bel_Latn-pol: Tatoeba-dev-v2021-08-07, 2
+   pol-rus: Tatoeba-dev-v2021-08-07, 1014
+   pol-ukr: Tatoeba-dev-v2021-08-07, 6884
+   total-size-shuffled: 9980
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   flores101.ces-ukr: 1012/22810
+   flores101.slk-ukr: 1012/22810
+   newstest2012.ces-rus: 3003/64830
+   newstest2013.ces-rus: 3000/58560
+   Tatoeba-test-v2021-08-07.multi-multi: 10000/58091
+BLEU-scores:
+   flores101.ces-ukr: 23.5
+   flores101.slk-ukr: 22.7
+   newstest2012.ces-rus: 21.3
+   newstest2013.ces-rus: 27.9
+   Tatoeba-test-v2021-08-07.multi-multi: 53.5
+chr-F-scores:
+   flores101.ces-ukr: 0.53099
+   flores101.slk-ukr: 0.52645
+   newstest2012.ces-rus: 0.49883
+   newstest2013.ces-rus: 0.54568
+   Tatoeba-test-v2021-08-07.multi-multi: 0.71063

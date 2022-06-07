@@ -1359,6 +1359,8 @@ fin-zle/opus4m+btTCv20210807-2022-01-19.zip	transformer	fin	rus,ukr	>>rus<<,>>uk
 fin-zle/opusTCv20210807+bt_transformer-big_2022-03-17.zip	transformer-big	fin	rus,ukr	
 fin-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	transformer-big	fin	rus,ukr	
 fin-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	transformer-big	fin	rus,ukr	
+fin-zle/opusTCv20210807+xb+bt+pft+pbt_transformer-big_2022-04-27.zip	transformer-big	fin	rus,ukr	
+fin-zle/opusTCv20210807+xb+bt+pft+pbt_transformer-big_2022-04-27.zip	transformer-big	fin	rus,ukr	
 fin-zlw/opus4m+btTCv20210807-2022-01-19.zip	transformer	fin	ces,pol	>>ces<<,>>pol<<
 fin-zlw/opus4m+btTCv20210807-2022-01-19.zip	transformer	fin	ces,pol	>>ces<<,>>pol<<
 fiu-aav/opus-2021-02-19.zip	transformer	fin,hun	khm,vie	>>khm<<,>>khm_Latn<<,>>vie<<
@@ -2752,6 +2754,8 @@ zle-eng/opusTCv20210807+bt_transformer-big_2022-03-03.zip	transformer-big	bel,be
 zle-eng/opusTCv20210807+bt_transformer-big_2022-03-17.zip	transformer-big	bel,bel_Latn,orv_Cyrl,rue,rus,ukr	eng	
 zle-fin/opusTCv20210807+bt_transformer-big_2022-03-07.zip	transformer-big	rus,ukr	fin	
 zle-fin/opusTCv20210807+bt_transformer-big_2022-03-07.zip	transformer-big	rus,ukr	fin	
+zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big_2022-04-18.zip	transformer-big	rus,ukr	fin	
+zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big_2022-04-18.zip	transformer-big	rus,ukr	fin	
 zle-fiu/opus-2021-02-18.zip	transformer	bel,rus,ukr	est,fin,hun,izh,mhr,udm	>>est<<,>>fin<<,>>hun<<,>>izh<<,>>mhr<<,>>udm<<
 zle-fiu/opus-2021-02-18.zip	transformer	bel,rus,ukr	est,fin,hun,izh,mhr,udm	>>est<<,>>fin<<,>>hun<<,>>izh<<,>>mhr<<,>>udm<<
 zle-fra/opusTCv20210807_transformer-big_2022-03-14.zip	transformer-big	bel,bel_Latn,orv_Cyrl,rus,ukr	fra	

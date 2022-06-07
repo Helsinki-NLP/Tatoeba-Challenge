@@ -106,6 +106,10 @@ to be useful for anything.
 | [eng-cat+oci+spa/opusTCv20210807+bt_transformer-big](../models/eng-cat+oci+spa) | tatoeba-v2021-08-07 | 0.66475 | 47.8 |
 | | lang = eng-ces | | | | |
 | [eng-ces+slk/opusTCv20210807+bt_transformer-big](../models/eng-ces+slk) | tatoeba-v2021-08-07 | 0.65919 | 47.4 |
+| | lang = eng-cmn_Hans | | | | |
+| [eng-zho/opusTCv20210807+bt_transformer-big](../models/eng-zho) | tatoeba-v2021-08-07 | 0.29125 | 34.3 |
+| | lang = eng-cmn_Hant | | | | |
+| [eng-zho/opusTCv20210807+bt_transformer-big](../models/eng-zho) | tatoeba-v2021-08-07 | 0.30103 | 35.3 |
 | | lang = eng-dan | | | | |
 | [eng-gmq/opusTCv20210807+bt_transformer-big](../models/eng-gmq) | tatoeba-v2021-08-07 | 0.74740 | 61.1 |
 | | lang = eng-deu | | | | |
@@ -165,6 +169,12 @@ to be useful for anything.
 | [eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/eng-ukr) | tatoeba-v2021-08-07 | 0.59552 | 38.0 |
 | [eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/eng-ukr) | tatoeba-v2021-08-07.intgemm8 | 0.58950 | 37.1 |
 | [eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/eng-ukr) | tatoeba-v2021-08-07.intgemm8.shortlist | 0.58945 | 37.1 |
+| | lang = eng-wuu | | | | |
+| [eng-zho/opusTCv20210807+bt_transformer-big](../models/eng-zho) | tatoeba-v2021-08-07 | 9.213 | 8.0 |
+| | lang = eng-yue_Hans | | | | |
+| [eng-zho/opusTCv20210807+bt_transformer-big](../models/eng-zho) | tatoeba-v2021-08-07 | 7.265 | 5.4 |
+| | lang = eng-yue_Hant | | | | |
+| [eng-zho/opusTCv20210807+bt_transformer-big](../models/eng-zho) | tatoeba-v2021-08-07 | 9.720 | 8.5 |
 | | lang = eus-eng | | | | |
 | [eus-eng/opusTCv20210807+bt_transformer-big](../models/eus-eng) | tatoeba-v2021-08-07 | 0.68951 | 53.6 |
 | | lang = fao-eng | | | | |
