@@ -2806,6 +2806,7 @@ to be useful for anything.
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.224 | 3.1 |
 | | lang = fin-multi | | | | |
 | [fin-gmq/opus4m+btTCv20210807](../models/fin-gmq) | tatoeba-v2021-08-07 | 0.691 | 50.9 |
+| [fin-zle/opusTCv20210807+xb+bt+pft+pbt_transformer-big](../models/fin-zle) | tatoeba-v2021-08-07 | 0.67392 | 46.7 |
 | [fin-zle/opusTCv20210807+bt_transformer-big](../models/fin-zle) | tatoeba-v2021-08-07 | 0.67187 | 46.9 |
 | [fin-zle/opus4m+btTCv20210807](../models/fin-zle) | tatoeba-v2021-08-07 | 0.663 | 45.8 |
 | [fin-zlw/opus4m+btTCv20210807](../models/fin-zlw) | tatoeba-v2021-08-07 | 0.660 | 47.4 |
@@ -4603,6 +4604,7 @@ to be useful for anything.
 | [aav-eng/opus4m+btTCv20210807](../models/aav-eng) | tatoeba-v2021-08-07 | 0.384 | 23.6 |
 | [xgn-eng/opus4m+btTCv20210807](../models/xgn-eng) | tatoeba-v2021-08-07 | 0.318 | 12.2 |
 | | lang = multi-fin | | | | |
+| [zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big](../models/zle-fin) | tatoeba-v2021-08-07 | 0.67184 | 43.7 |
 | [zle-fin/opusTCv20210807+bt_transformer-big](../models/zle-fin) | tatoeba-v2021-08-07 | 0.66361 | 42.3 |
 | [sem-fin/opus4m+btTCv20210807](../models/sem-fin) | tatoeba-v2021-08-07 | 0.635 | 40.2 |
 | [gmq-fin/opus4m+btTCv20210807](../models/gmq-fin) | tatoeba-v2021-08-07 | 0.623 | 38.0 |

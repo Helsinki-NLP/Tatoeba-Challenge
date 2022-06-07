@@ -4857,6 +4857,7 @@ to be useful for anything.
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.524 | 29.7 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.484 | 25.4 |
 | | lang = fin-rus | | | | |
+| [fin-zle/opusTCv20210807+xb+bt+pft+pbt_transformer-big](../models/fin-zle) | flores101 | 0.51082 | 22.1 |
 | [fiu-zle/opus](../models/fiu-zle) | tatoeba | 0.626 | 41.0 |
 | [fiu-sla/opus](../models/fiu-sla) | tatoeba | 0.621 | 41.0 |
 | [urj-rus/opus1m](../models/urj-rus) | tatoeba | 0.613 | 39.9 |
@@ -4888,6 +4889,8 @@ to be useful for anything.
 | [fiu-trk/opus](../models/fiu-trk) | tatoeba | 0.521 | 23.8 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.395 | 13.8 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.382 | 13.8 |
+| | lang = fin-ukr | | | | |
+| [fin-zle/opusTCv20210807+xb+bt+pft+pbt_transformer-big](../models/fin-zle) | flores101 | 0.50567 | 21.0 |
 | | lang = fin-zho | | | | |
 | [fin-zho/opus](../models/fin-zho) | tatoeba | 0.597 | 37.6 |
 | [fiu-sit/opus](../models/fiu-sit) | tatoeba | 0.234 | 29.7 |
@@ -7981,6 +7984,7 @@ to be useful for anything.
 | | lang = rus-eus | | | | |
 | [rus-eus/opus](../models/rus-eus) | tatoeba | 0.539 | 29.7 |
 | | lang = rus-fin | | | | |
+| [zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big](../models/zle-fin) | flores101 | 0.54558 | 19.2 |
 | [sla-fiu/opus](../models/sla-fiu) | tatoeba | 0.624 | 38.3 |
 | [zle-fiu/opus](../models/zle-fiu) | tatoeba | 0.610 | 36.8 |
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.455 | 21.6 |
@@ -9050,6 +9054,8 @@ to be useful for anything.
 | [tatoeba-zero/opus](../models/tatoeba-zero) | tatoeba | 0.562 | 34.2 |
 | [tatoeba-lower/opus](../models/tatoeba-lower) | tatoeba | 0.556 | 32.8 |
 | [tatoeba-lowest/opus](../models/tatoeba-lowest) | tatoeba | 0.547 | 33.5 |
+| | lang = ukr-fin | | | | |
+| [zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big](../models/zle-fin) | flores101 | 0.55721 | 21.1 |
 | | lang = ukr-fra | | | | |
 | [zle-roa/opus1m](../models/zle-roa) | tatoeba | 0.644 | 47.3 |
 | [ukr-fra/opus](../models/ukr-fra) | tatoeba | 0.637 | 46.4 |

@@ -782,6 +782,7 @@ For multilingual models, it is a mix of all language pairs
 | [fin-zle/opus4m+btTCv20210807](../models/fin-zle) | 0.663 | 45.8 |
 | [fin-zle/opusTCv20210807+bt_transformer-big](../models/fin-zle) | 0.67187 | 46.9 |
 | [fin-zle/opusTCv20210807+bt_transformer-big](../models/fin-zle) | 0.67140 | 46.7 |
+| [fin-zle/opusTCv20210807+xb+bt+pft+pbt_transformer-big](../models/fin-zle) | 0.67392 | 46.7 |
 | [fin-zlw/opus4m+btTCv20210807](../models/fin-zlw) | 0.660 | 47.4 |
 | [fiu-aav/opus](../models/fiu-aav) | 0.336 | 18.9 |
 | [fiu-afa/opus](../models/fiu-afa) | 0.483 | 24.2 |
@@ -1572,6 +1573,7 @@ For multilingual models, it is a mix of all language pairs
 | [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | 0.70546 | 56.0 |
 | [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | 0.70282 | 55.6 |
 | [zle-fin/opusTCv20210807+bt_transformer-big](../models/zle-fin) | 0.66361 | 42.3 |
+| [zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big](../models/zle-fin) | 0.67184 | 43.7 |
 | [zle-fiu/opus](../models/zle-fiu) | 0.464 | 26.5 |
 | [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | 0.68422 | 52.4 |
 | [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | 0.68244 | 52.1 |
