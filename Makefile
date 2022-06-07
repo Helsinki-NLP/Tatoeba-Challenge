@@ -518,8 +518,9 @@ released-model-list: 	models/results/tatoeba-test-${VERSION}.txt \
 			models/released-model-results.txt \
 			models/released-model-results-all.txt \
 			models/released-model-results-${VERSION}.txt \
-			models/released-model-results-other.txt
-#			models/released-model-languages.txt
+			models/released-model-results-other.txt \
+			models/released-model-languages.txt
+
 
 
 # RESULT_FILES = results/tatoeba-results-all.md \
@@ -1455,8 +1456,14 @@ models/results/all.txt: ${SCORE_FILES}
 
 
 
+
+
 # TATOEBA_READMES = $(wildcard models/*/README.md)
 TATOEBA_YAML := $(wildcard models/*/*.yml)
+
+models/released-model-languages.txt: ${TATOEBA_YAML}
+	find models -name '*.yml' -exec scripts/model_yml_to_tab.pl {} \; |\
+	egrep '\S' | sort > $@
 
 models/released-models.txt: ${TATOEBA_YAML}
 	find models -name '*.yml' | \

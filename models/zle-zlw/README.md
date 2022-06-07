@@ -36,6 +36,7 @@
 
 
 
+
 # opusTCv20210807+bt_transformer-big_2022-03-19.zip
 
 * dataset: opusTCv20210807+bt
@@ -73,6 +74,7 @@
 | Tatoeba-test-v2021-08-07.ukr-pol 	| 57.0 	| 0.74730 	| 2519 	| 13193 	| 0.968 |
 
 
+
 # opusTCv20210807+bt_transformer-big_2022-03-23.zip
 
 * dataset: opusTCv20210807+bt
@@ -108,4 +110,31 @@
 | Tatoeba-test-v2021-08-07.ukr-dsb 	| 6.3 	| 0.23818 	| 3 	| 14 	| 0.926 |
 | Tatoeba-test-v2021-08-07.ukr-hsb 	| 44.0 	| 0.39724 	| 8 	| 128 	| 0.756 |
 | Tatoeba-test-v2021-08-07.ukr-pol 	| 57.1 	| 0.74746 	| 2519 	| 13193 	| 0.969 |
+
+
+# opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip
+
+* dataset: opusTCv20210807+xb+bt
+* model: transformer-big
+* source language(s): bel bel_Latn orv_Cyrl rus ukr
+* target language(s): ces dsb hsb pol slk
+* raw source language(s): bel orv rus ukr
+* raw target language(s): ces dsb hsb pol slk
+* model: transformer-big
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: 
+* download: [opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip)
+* test set translations: [opusTCv20210807+xb+bt_transformer-big_2022-05-08.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.test.txt)
+* test set scores: [opusTCv20210807+xb+bt_transformer-big_2022-05-08.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| flores101.ukr-ces 	| 26.1 	| 0.53312 	| 1012 	| 22164 	| 0.997 |
+| flores101.ukr-slk 	| 21.1 	| 0.50407 	| 1012 	| 22603 	| 0.987 |
+| newstest2012.rus-ces 	| 19.2 	| 0.46176 	| 3003 	| 65456 	| 0.943 |
+| newstest2013.rus-ces 	| 26.7 	| 0.52896 	| 3000 	| 57250 	| 0.969 |
+| Tatoeba-test-v2021-08-07.multi-multi 	| 54.6 	| 0.71863 	| 10000 	| 55916 	| 0.975 |
 
