@@ -881,6 +881,7 @@ bel-pol	tatoeba-test-v2021-03-30	0.683	46.9	https://object.pouta.csc.fi/Tatoeba-
 bel-pol	tatoeba-test-v2021-03-30	0.678	46.7	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	289	1718
 bel-pol	tatoeba-test-v2021-03-30	0.678	46.7	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-16.zip	289	1718
 bel-pol	tatoeba-test-v2021-03-30	0.678	46.7	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip	289	1718
+bel-pol	tatoeba-test-v2021-03-30	0.63953	45.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	289	1718
 bel-pol	tatoeba-test-v2021-03-30	0.567	34.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	289	1718
 bel-pol	tatoeba-test-v2021-03-30	0.560	33.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	289	1718
 bel-pol	tatoeba-test-v2021-08-07	0.66635	48.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	287	1706
@@ -892,6 +893,7 @@ bel-pol	tatoeba-test-v2021-08-07	0.65897	46.9	https://object.pouta.csc.fi/Tatoeb
 bel-pol	tatoeba-test-v2021-08-07	0.678	46.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	287	1706
 bel-pol	tatoeba-test-v2021-08-07	0.678	46.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-16.zip	287	1706
 bel-pol	tatoeba-test-v2021-08-07	0.678	46.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip	287	1706
+bel-pol	tatoeba-test-v2021-08-07	0.63753	44.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	287	1706
 bel-pol	tatoeba-test-v2021-08-07	0.566	34.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	287	1706
 bel-pol	tatoeba-test-v2021-08-07	0.558	33.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	287	1706
 bel-rus	tatoeba-test-v2020-07-28	0.82301	68.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opusTCv20210807+bt_transformer-big_2022-03-12.zip	2500	18895
@@ -1802,6 +1804,7 @@ ces-pol	tatoeba-test-v2021-08-07	0.520	29.5	https://object.pouta.csc.fi/Tatoeba-
 ces-rus	tatoeba-test-v2020-07-28	0.73410	56.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	2500	15084
 ces-rus	tatoeba-test-v2020-07-28	0.73377	56.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-19.zip	2500	15084
 ces-rus	tatoeba-test-v2020-07-28	0.73526	56.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	2500	15084
+ces-rus	tatoeba-test-v2020-07-28	0.72864	55.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	2500	15084
 ces-rus	tatoeba-test-v2020-07-28	0.722	55.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-rus/opus-2021-02-19.zip	2500	15084
 ces-rus	tatoeba-test-v2020-07-28	0.692	50.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	2500	15084
 ces-rus	tatoeba-test-v2020-07-28	0.685	50.4	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	2500	15084
@@ -1814,6 +1817,7 @@ ces-rus	tatoeba-test-v2020-07-28	0.552	35.6	https://object.pouta.csc.fi/Tatoeba-
 ces-rus	tatoeba-test-v2021-03-30	0.73268	56.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	5060	30636
 ces-rus	tatoeba-test-v2021-03-30	0.73212	56.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-19.zip	5060	30636
 ces-rus	tatoeba-test-v2021-03-30	0.73240	55.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	5060	30636
+ces-rus	tatoeba-test-v2021-03-30	0.72613	55.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	5060	30636
 ces-rus	tatoeba-test-v2021-03-30	0.721	55.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-rus/opus-2021-02-19.zip	5060	30636
 ces-rus	tatoeba-test-v2021-03-30	0.688	50.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	5060	30636
 ces-rus	tatoeba-test-v2021-03-30	0.681	50.0	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	5060	30636
@@ -1826,6 +1830,7 @@ ces-rus	tatoeba-test-v2021-03-30	0.549	35.2	https://object.pouta.csc.fi/Tatoeba-
 ces-rus	tatoeba-test-v2021-08-07	0.73249	56.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	2934	17790
 ces-rus	tatoeba-test-v2021-08-07	0.73154	56.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-19.zip	2934	17790
 ces-rus	tatoeba-test-v2021-08-07	0.73090	55.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	2934	17790
+ces-rus	tatoeba-test-v2021-08-07	0.72581	55.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	2934	17790
 ces-rus	tatoeba-test-v2021-08-07	0.719	54.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-rus/opus-2021-02-19.zip	2934	17790
 ces-rus	tatoeba-test-v2021-08-07	0.685	50.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	2934	17790
 ces-rus	tatoeba-test-v2021-08-07	0.678	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	2934	17790
@@ -1894,12 +1899,14 @@ ces-ukr	tatoeba-test-v2021-03-30	0.67687	49.4	https://object.pouta.csc.fi/Tatoeb
 ces-ukr	tatoeba-test-v2021-03-30	0.66867	48.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ces+slk-ukr/opusTCv20210807+pbt_transformer-align_2022-03-08.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-03-30	0.523	34.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-03-30	0.503	32.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1787	8891
+ces-ukr	tatoeba-test-v2021-08-07	0.70207	53.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-08-07	0.69934	53.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-19.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-08-07	0.688	53.0	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-08-07	0.70091	52.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-08-07	0.681	52.3	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-21.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-08-07	0.68665	51.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-08-07	0.678	51.4	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-09-26.zip	1787	8891
+ces-ukr	tatoeba-test-v2021-08-07	0.68882	51.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ces+slk-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-23.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-08-07	0.678	51.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-08-07	0.678	51.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-16.zip	1787	8891
 ces-ukr	tatoeba-test-v2021-08-07	0.678	51.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip	1787	8891
@@ -3538,6 +3545,8 @@ deu-ukr	tatoeba-test-v2020-07-28	0.611	40.1	https://object.pouta.csc.fi/Tatoeba-
 deu-ukr	tatoeba-test-v2020-07-28	0.605	39.3	https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-12.zip	10000	54213
 deu-ukr	tatoeba-test-v2020-07-28	0.605	39.3	https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-19.zip	10000	54213
 deu-ukr	tatoeba-test-v2020-07-28	0.61732	39.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+pbt_transformer-align_2022-03-07.zip	10000	54213
+deu-ukr	tatoeba-test-v2020-07-28	0.60760	37.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-20.zip	10000	54213
+deu-ukr	tatoeba-test-v2020-07-28	0.60847	37.5	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	10000	54213
 deu-ukr	tatoeba-test-v2020-07-28	0.486	27.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10000	54213
 deu-ukr	tatoeba-test-v2020-07-28	0.473	26.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10000	54213
 deu-ukr	tatoeba-test-v2020-07-28	0.444	23.6	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	10000	54213
@@ -3550,6 +3559,8 @@ deu-ukr	tatoeba-test-v2021-03-30	0.612	40.1	https://object.pouta.csc.fi/Tatoeba-
 deu-ukr	tatoeba-test-v2021-03-30	0.606	39.3	https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-12.zip	10174	55335
 deu-ukr	tatoeba-test-v2021-03-30	0.606	39.3	https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-19.zip	10174	55335
 deu-ukr	tatoeba-test-v2021-03-30	0.61839	39.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+pbt_transformer-align_2022-03-07.zip	10174	55335
+deu-ukr	tatoeba-test-v2021-03-30	0.60925	37.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	10174	55335
+deu-ukr	tatoeba-test-v2021-03-30	0.60897	37.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-20.zip	10174	55335
 deu-ukr	tatoeba-test-v2021-03-30	0.486	26.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10174	55335
 deu-ukr	tatoeba-test-v2021-03-30	0.473	26.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10174	55335
 deu-ukr	tatoeba-test-v2021-03-30	0.444	23.6	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	10174	55335
@@ -3562,6 +3573,8 @@ deu-ukr	tatoeba-test-v2021-08-07	0.611	40.0	https://object.pouta.csc.fi/Tatoeba-
 deu-ukr	tatoeba-test-v2021-08-07	0.605	39.3	https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-12.zip	10319	56287
 deu-ukr	tatoeba-test-v2021-08-07	0.605	39.3	https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-19.zip	10319	56287
 deu-ukr	tatoeba-test-v2021-08-07	0.61767	39.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+pbt_transformer-align_2022-03-07.zip	10319	56287
+deu-ukr	tatoeba-test-v2021-08-07	0.60885	37.5	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	10319	56287
+deu-ukr	tatoeba-test-v2021-08-07	0.60871	37.5	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-20.zip	10319	56287
 deu-ukr	tatoeba-test-v2021-08-07	0.485	26.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10319	56287
 deu-ukr	tatoeba-test-v2021-08-07	0.472	26.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10319	56287
 deu-ukr	tatoeba-test-v2021-08-07	0.444	23.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	10319	56287
@@ -4878,6 +4891,7 @@ eng-cmn_Hans	tatoeba-test-v2020-07-28	0.215	0.4	https://object.pouta.csc.fi/Tato
 eng-cmn_Hans	tatoeba-test-v2020-07-28	0.214	0.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus2m-2020-08-01.zip	4195	4396
 eng-cmn_Hans	tatoeba-test-v2020-07-28	0.206	0.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	4195	4396
 eng-cmn_Hans	tatoeba-test-v2020-07-28	0.294	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus+bt-2021-04-19.zip	4195	4396
+eng-cmn_Hans	tatoeba-test-v2020-07-28	0.29028	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	4195	4396
 eng-cmn_Hans	tatoeba-test-v2020-07-28	0.252	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus4m+btTCv20210807-2021-09-30.zip	4195	4396
 eng-cmn_Hans	tatoeba-test-v2021-03-30	0.264	0.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus1m+bt-2021-04-10.zip	4317	4523
 eng-cmn_Hans	tatoeba-test-v2021-03-30	0.309	0.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2021-02-23.zip	4317	4523
@@ -4892,6 +4906,7 @@ eng-cmn_Hans	tatoeba-test-v2021-03-30	0.214	0.4	https://object.pouta.csc.fi/Tato
 eng-cmn_Hans	tatoeba-test-v2021-03-30	0.206	0.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	4317	4523
 eng-cmn_Hans	tatoeba-test-v2021-03-30	0.296	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus+bt-2021-04-19.zip	4317	4523
 eng-cmn_Hans	tatoeba-test-v2021-03-30	0.284	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus2m-2020-08-01.zip	4317	4523
+eng-cmn_Hans	tatoeba-test-v2021-03-30	0.29149	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	4317	4523
 eng-cmn_Hans	tatoeba-test-v2021-03-30	0.253	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus4m+btTCv20210807-2021-09-30.zip	4317	4523
 eng-cmn_Hans	tatoeba-test-v2021-08-07	0.264	0.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus1m+bt-2021-04-10.zip	4450	4661
 eng-cmn_Hans	tatoeba-test-v2021-08-07	0.310	0.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2021-02-23.zip	4450	4661
@@ -4906,6 +4921,7 @@ eng-cmn_Hans	tatoeba-test-v2021-08-07	0.206	0.4	https://object.pouta.csc.fi/Tato
 eng-cmn_Hans	tatoeba-test-v2021-08-07	0.298	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus+bt-2021-04-19.zip	4450	4661
 eng-cmn_Hans	tatoeba-test-v2021-08-07	0.285	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus2m-2020-08-01.zip	4450	4661
 eng-cmn_Hans	tatoeba-test-v2021-08-07	0.214	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus2m-2020-08-01.zip	4450	4661
+eng-cmn_Hans	tatoeba-test-v2021-08-07	0.29213	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	4450	4661
 eng-cmn_Hans	tatoeba-test-v2021-08-07	0.253	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus4m+btTCv20210807-2021-09-30.zip	4450	4661
 eng-cmn_Hant	tatoeba-test-v2020-07-28	0.267	2.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2020-10-04.zip	4418	4822
 eng-cmn_Hant	tatoeba-test-v2020-07-28	0.267	2.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2021-02-18.zip	4418	4822
@@ -4920,6 +4936,7 @@ eng-cmn_Hant	tatoeba-test-v2020-07-28	0.209	2.0	https://object.pouta.csc.fi/Tato
 eng-cmn_Hant	tatoeba-test-v2020-07-28	0.202	2.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	4418	4822
 eng-cmn_Hant	tatoeba-test-v2020-07-28	0.209	1.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus2m-2020-08-01.zip	4418	4822
 eng-cmn_Hant	tatoeba-test-v2020-07-28	0.262	1.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zhx-zhx/opus-2020-10-04.zip	4418	4822
+eng-cmn_Hant	tatoeba-test-v2020-07-28	0.30163	1.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	4418	4822
 eng-cmn_Hant	tatoeba-test-v2020-07-28	0.254	0.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus4m+btTCv20210807-2021-09-30.zip	4418	4822
 eng-cmn_Hant	tatoeba-test-v2021-03-30	0.267	2.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2020-10-04.zip	4456	4860
 eng-cmn_Hant	tatoeba-test-v2021-03-30	0.267	2.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2021-02-18.zip	4456	4860
@@ -4934,6 +4951,7 @@ eng-cmn_Hant	tatoeba-test-v2021-03-30	0.203	2.0	https://object.pouta.csc.fi/Tato
 eng-cmn_Hant	tatoeba-test-v2021-03-30	0.209	1.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-27.zip	4456	4860
 eng-cmn_Hant	tatoeba-test-v2021-03-30	0.209	1.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus2m-2020-08-01.zip	4456	4860
 eng-cmn_Hant	tatoeba-test-v2021-03-30	0.262	1.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zhx-zhx/opus-2020-10-04.zip	4456	4860
+eng-cmn_Hant	tatoeba-test-v2021-03-30	0.30227	1.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	4456	4860
 eng-cmn_Hant	tatoeba-test-v2021-03-30	0.254	0.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus4m+btTCv20210807-2021-09-30.zip	4456	4860
 eng-cmn_Hant	tatoeba-test-v2021-08-07	0.295	2.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2021-02-23.zip	4476	4880
 eng-cmn_Hant	tatoeba-test-v2021-08-07	0.267	2.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2020-10-04.zip	4476	4880
@@ -4948,6 +4966,7 @@ eng-cmn_Hant	tatoeba-test-v2021-08-07	0.203	2.0	https://object.pouta.csc.fi/Tato
 eng-cmn_Hant	tatoeba-test-v2021-08-07	0.209	1.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-27.zip	4476	4880
 eng-cmn_Hant	tatoeba-test-v2021-08-07	0.209	1.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus2m-2020-08-01.zip	4476	4880
 eng-cmn_Hant	tatoeba-test-v2021-08-07	0.263	1.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zhx-zhx/opus-2020-10-04.zip	4476	4880
+eng-cmn_Hant	tatoeba-test-v2021-08-07	0.30231	1.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	4476	4880
 eng-cmn_Hant	tatoeba-test-v2021-08-07	0.254	0.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus4m+btTCv20210807-2021-09-30.zip	4476	4880
 eng-cor	tatoeba-test-v2020-07-28	0.188	4.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus4m+btTCv20210807-2021-09-30.zip	3198	17784
 eng-cor	tatoeba-test-v2020-07-28	0.166	3.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cel/opus1m+bt-2021-04-10.zip	3198	17784
@@ -5673,6 +5692,7 @@ eng-fin	tatoeba-test-v2020-07-28	0.637	38.9	https://object.pouta.csc.fi/Tatoeba-
 eng-fin	tatoeba-test-v2020-07-28	0.632	38.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus+bt-2021-03-09.zip	10000	60517
 eng-fin	tatoeba-test-v2020-07-28	0.628	38.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus-2021-02-19.zip	10000	60517
 eng-fin	tatoeba-test-v2020-07-28	0.62570	37.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-01-25.zip	10000	60517
+eng-fin	tatoeba-test-v2020-07-28	0.62415	36.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.zip	10000	60517
 eng-fin	tatoeba-test-v2020-07-28	0.597	34.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urj/opus2m-2020-08-02.zip	10000	60517
 eng-fin	tatoeba-test-v2020-07-28	0.595	34.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus2m-2020-08-01.zip	10000	60517
 eng-fin	tatoeba-test-v2020-07-28	0.583	33.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus-2020-07-26.zip	10000	60517
@@ -5704,6 +5724,7 @@ eng-fin	tatoeba-test-v2021-03-30	0.637	38.8	https://object.pouta.csc.fi/Tatoeba-
 eng-fin	tatoeba-test-v2021-03-30	0.632	38.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus+bt-2021-03-09.zip	10186	61736
 eng-fin	tatoeba-test-v2021-03-30	0.628	38.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus-2021-02-19.zip	10186	61736
 eng-fin	tatoeba-test-v2021-03-30	0.62607	37.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-01-25.zip	10186	61736
+eng-fin	tatoeba-test-v2021-03-30	0.62433	36.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.zip	10186	61736
 eng-fin	tatoeba-test-v2021-03-30	0.597	34.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urj/opus2m-2020-08-02.zip	10186	61736
 eng-fin	tatoeba-test-v2021-03-30	0.595	34.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus2m-2020-08-01.zip	10186	61736
 eng-fin	tatoeba-test-v2021-03-30	0.584	33.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus-2020-07-26.zip	10186	61736
@@ -5735,6 +5756,7 @@ eng-fin	tatoeba-test-v2021-08-07	0.638	38.8	https://object.pouta.csc.fi/Tatoeba-
 eng-fin	tatoeba-test-v2021-08-07	0.633	38.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus+bt-2021-03-09.zip	10690	65122
 eng-fin	tatoeba-test-v2021-08-07	0.629	38.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opus-2021-02-19.zip	10690	65122
 eng-fin	tatoeba-test-v2021-08-07	0.62668	37.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-01-25.zip	10690	65122
+eng-fin	tatoeba-test-v2021-08-07	0.62484	36.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.zip	10690	65122
 eng-fin	tatoeba-test-v2021-08-07	0.597	34.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urj/opus2m-2020-08-02.zip	10690	65122
 eng-fin	tatoeba-test-v2021-08-07	0.595	34.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus2m-2020-08-01.zip	10690	65122
 eng-fin	tatoeba-test-v2021-08-07	0.583	32.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fiu/opus-2020-07-26.zip	10690	65122
@@ -10513,6 +10535,7 @@ eng-ukr	tatoeba-test-v2020-07-28	0.600	38.8	https://object.pouta.csc.fi/Tatoeba-
 eng-ukr	tatoeba-test-v2020-07-28	0.596	38.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opus+bt-2021-04-14.zip	10000	60756
 eng-ukr	tatoeba-test-v2020-07-28	0.595	38.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opus2m-2020-08-02.zip	10000	60756
 eng-ukr	tatoeba-test-v2020-07-28	0.593	38.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opus-2021-02-19.zip	10000	60756
+eng-ukr	tatoeba-test-v2020-07-28	0.59188	37.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	10000	60756
 eng-ukr	tatoeba-test-v2020-07-28	0.59540	37.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	10000	60756
 eng-ukr	tatoeba-test-v2020-07-28	0.588	37.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sla/opus-2020-07-27.zip	10000	60756
 eng-ukr	tatoeba-test-v2020-07-28	0.582	37.3	https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-12.zip	10000	60756
@@ -10527,6 +10550,7 @@ eng-ukr	tatoeba-test-v2020-07-28	0.577	36.2	https://object.pouta.csc.fi/Tatoeba-
 eng-ukr	tatoeba-test-v2020-07-28	0.571	36.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	10000	60756
 eng-ukr	tatoeba-test-v2020-07-28	0.571	36.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip	10000	60756
 eng-ukr	tatoeba-test-v2020-07-28	0.568	36.0	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-09-26.zip	10000	60756
+eng-ukr	tatoeba-test-v2020-07-28	0.58345	35.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	10000	60756
 eng-ukr	tatoeba-test-v2020-07-28	0.534	31.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ine/opus2m-2020-08-01.zip	10000	60756
 eng-ukr	tatoeba-test-v2020-07-28	0.528	30.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ine/opus-2020-07-27.zip	10000	60756
 eng-ukr	tatoeba-test-v2020-07-28	0.523	29.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ine/opus-2020-07-19.zip	10000	60756
@@ -10545,6 +10569,7 @@ eng-ukr	tatoeba-test-v2021-03-30	0.601	38.8	https://object.pouta.csc.fi/Tatoeba-
 eng-ukr	tatoeba-test-v2021-03-30	0.596	38.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opus2m-2020-08-02.zip	11969	73416
 eng-ukr	tatoeba-test-v2021-03-30	0.598	38.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opus+bt-2021-04-14.zip	11969	73416
 eng-ukr	tatoeba-test-v2021-03-30	0.594	38.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opus-2021-02-19.zip	11969	73416
+eng-ukr	tatoeba-test-v2021-03-30	0.59552	38.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	11969	73416
 eng-ukr	tatoeba-test-v2021-03-30	0.60091	37.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	11969	73416
 eng-ukr	tatoeba-test-v2021-03-30	0.590	37.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sla/opus-2020-07-27.zip	11969	73416
 eng-ukr	tatoeba-test-v2021-03-30	0.582	37.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-12.zip	11969	73416
@@ -10559,6 +10584,7 @@ eng-ukr	tatoeba-test-v2021-03-30	0.578	36.2	https://object.pouta.csc.fi/Tatoeba-
 eng-ukr	tatoeba-test-v2021-03-30	0.571	35.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	11969	73416
 eng-ukr	tatoeba-test-v2021-03-30	0.571	35.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip	11969	73416
 eng-ukr	tatoeba-test-v2021-03-30	0.568	35.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-09-26.zip	11969	73416
+eng-ukr	tatoeba-test-v2021-03-30	0.59010	35.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	11969	73416
 eng-ukr	tatoeba-test-v2021-03-30	0.532	30.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ine/opus2m-2020-08-01.zip	11969	73416
 eng-ukr	tatoeba-test-v2021-03-30	0.527	29.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ine/opus-2020-07-27.zip	11969	73416
 eng-ukr	tatoeba-test-v2021-03-30	0.522	29.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ine/opus-2020-07-19.zip	11969	73416
@@ -10577,6 +10603,7 @@ eng-ukr	tatoeba-test-v2021-08-07	0.600	38.7	https://object.pouta.csc.fi/Tatoeba-
 eng-ukr	tatoeba-test-v2021-08-07	0.598	38.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opus+bt-2021-04-14.zip	13127	80998
 eng-ukr	tatoeba-test-v2021-08-07	0.595	38.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opus2m-2020-08-02.zip	13127	80998
 eng-ukr	tatoeba-test-v2021-08-07	0.593	38.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opus-2021-02-19.zip	13127	80998
+eng-ukr	tatoeba-test-v2021-08-07	0.59577	37.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	13127	80998
 eng-ukr	tatoeba-test-v2021-08-07	0.60175	37.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	13127	80998
 eng-ukr	tatoeba-test-v2021-08-07	0.589	37.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sla/opus-2020-07-27.zip	13127	80998
 eng-ukr	tatoeba-test-v2021-08-07	0.587	37.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sla/opus-2020-07-06.zip	13127	80998
@@ -10588,6 +10615,7 @@ eng-ukr	tatoeba-test-v2021-08-07	0.580	36.3	https://object.pouta.csc.fi/Tatoeba-
 eng-ukr	tatoeba-test-v2021-08-07	0.577	36.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opus-2020-07-27.zip	13127	80998
 eng-ukr	tatoeba-test-v2021-08-07	0.577	36.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opus-2020-10-04.zip	13127	80998
 eng-ukr	tatoeba-test-v2021-08-07	0.576	36.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zle/opus-2020-09-26.zip	13127	80998
+eng-ukr	tatoeba-test-v2021-08-07	0.59112	35.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	13127	80998
 eng-ukr	tatoeba-test-v2021-08-07	0.570	35.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	13127	80998
 eng-ukr	tatoeba-test-v2021-08-07	0.570	35.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip	13127	80998
 eng-ukr	tatoeba-test-v2021-08-07	0.567	35.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-09-26.zip	13127	80998
@@ -10997,6 +11025,7 @@ eng-yid	tatoeba-test-v2021-08-07	0.158	1.2	https://object.pouta.csc.fi/Tatoeba-M
 eng-yid	tatoeba-test-v2021-08-07	0.167	1.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	2483	16395
 eng-yid	tatoeba-test-v2021-08-07	0.136	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-19.zip	2483	16395
 eng-yid	tatoeba-test-v2021-08-07	0.134	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-21.zip	2483	16395
+eng-yue_Hans	tatoeba-test-v2020-07-28	7.173	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	630	644
 eng-yue_Hans	tatoeba-test-v2020-07-28	0.095	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus2m-2020-08-01.zip	630	644
 eng-yue_Hans	tatoeba-test-v2020-07-28	0.087	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus4m+btTCv20210807-2021-09-30.zip	630	644
 eng-yue_Hans	tatoeba-test-v2020-07-28	0.083	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2020-10-04.zip	630	644
@@ -11011,6 +11040,7 @@ eng-yue_Hans	tatoeba-test-v2020-07-28	0.076	0.1	https://object.pouta.csc.fi/Tato
 eng-yue_Hans	tatoeba-test-v2020-07-28	0.072	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	630	644
 eng-yue_Hans	tatoeba-test-v2020-07-28	0.072	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus2m-2020-08-01.zip	630	644
 eng-yue_Hans	tatoeba-test-v2020-07-28	0.070	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus1m+bt-2021-04-10.zip	630	644
+eng-yue_Hans	tatoeba-test-v2021-03-30	7.268	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	673	688
 eng-yue_Hans	tatoeba-test-v2021-03-30	0.096	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus2m-2020-08-01.zip	673	688
 eng-yue_Hans	tatoeba-test-v2021-03-30	0.088	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus4m+btTCv20210807-2021-09-30.zip	673	688
 eng-yue_Hans	tatoeba-test-v2021-03-30	0.082	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2020-10-04.zip	673	688
@@ -11025,6 +11055,7 @@ eng-yue_Hans	tatoeba-test-v2021-03-30	0.077	0.1	https://object.pouta.csc.fi/Tato
 eng-yue_Hans	tatoeba-test-v2021-03-30	0.073	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	673	688
 eng-yue_Hans	tatoeba-test-v2021-03-30	0.073	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus2m-2020-08-01.zip	673	688
 eng-yue_Hans	tatoeba-test-v2021-03-30	0.070	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus1m+bt-2021-04-10.zip	673	688
+eng-yue_Hans	tatoeba-test-v2021-08-07	7.261	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	677	692
 eng-yue_Hans	tatoeba-test-v2021-08-07	0.096	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus2m-2020-08-01.zip	677	692
 eng-yue_Hans	tatoeba-test-v2021-08-07	0.087	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus4m+btTCv20210807-2021-09-30.zip	677	692
 eng-yue_Hans	tatoeba-test-v2021-08-07	0.082	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2020-10-04.zip	677	692
@@ -11047,6 +11078,7 @@ eng-yue_Hant	tatoeba-test-v2020-07-28	0.090	0.3	https://object.pouta.csc.fi/Tato
 eng-yue_Hant	tatoeba-test-v2020-07-28	0.086	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	431	451
 eng-yue_Hant	tatoeba-test-v2020-07-28	0.086	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-20.zip	431	451
 eng-yue_Hant	tatoeba-test-v2020-07-28	0.084	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus2m-2020-08-01.zip	431	451
+eng-yue_Hant	tatoeba-test-v2020-07-28	9.759	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	431	451
 eng-yue_Hant	tatoeba-test-v2020-07-28	0.106	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus2m-2020-08-01.zip	431	451
 eng-yue_Hant	tatoeba-test-v2020-07-28	0.091	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2020-10-04.zip	431	451
 eng-yue_Hant	tatoeba-test-v2020-07-28	0.091	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2021-02-18.zip	431	451
@@ -11061,6 +11093,7 @@ eng-yue_Hant	tatoeba-test-v2021-03-30	0.089	0.3	https://object.pouta.csc.fi/Tato
 eng-yue_Hant	tatoeba-test-v2021-03-30	0.085	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	442	469
 eng-yue_Hant	tatoeba-test-v2021-03-30	0.085	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-20.zip	442	469
 eng-yue_Hant	tatoeba-test-v2021-03-30	0.083	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus2m-2020-08-01.zip	442	469
+eng-yue_Hant	tatoeba-test-v2021-03-30	9.719	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	442	469
 eng-yue_Hant	tatoeba-test-v2021-03-30	0.106	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus2m-2020-08-01.zip	442	469
 eng-yue_Hant	tatoeba-test-v2021-03-30	0.090	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2020-10-04.zip	442	469
 eng-yue_Hant	tatoeba-test-v2021-03-30	0.090	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2021-02-18.zip	442	469
@@ -11075,6 +11108,7 @@ eng-yue_Hant	tatoeba-test-v2021-08-07	0.089	0.3	https://object.pouta.csc.fi/Tato
 eng-yue_Hant	tatoeba-test-v2021-08-07	0.084	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-14.zip	454	482
 eng-yue_Hant	tatoeba-test-v2021-08-07	0.084	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus-2020-07-20.zip	454	482
 eng-yue_Hant	tatoeba-test-v2021-08-07	0.083	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mul/opus2m-2020-08-01.zip	454	482
+eng-yue_Hant	tatoeba-test-v2021-08-07	9.761	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	454	482
 eng-yue_Hant	tatoeba-test-v2021-08-07	0.105	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus2m-2020-08-01.zip	454	482
 eng-yue_Hant	tatoeba-test-v2021-08-07	0.090	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2020-10-04.zip	454	482
 eng-yue_Hant	tatoeba-test-v2021-08-07	0.090	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-sit/opus-2021-02-18.zip	454	482
@@ -11085,6 +11119,7 @@ eng-zho	tatoeba-test-v2020-07-28	0.271	31.7	https://object.pouta.csc.fi/Tatoeba-
 eng-zho	tatoeba-test-v2020-07-28	0.267	31.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2020-07-17.zip	10000	110468
 eng-zho	tatoeba-test-v2020-07-28	0.266	31.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2020-07-14.zip	10000	110468
 eng-zho	tatoeba-test-v2020-07-28	0.262	30.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus+bt-2021-04-19.zip	10000	110468
+eng-zho	tatoeba-test-v2020-07-28	0.26075	30.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	10000	110468
 eng-zho	tatoeba-test-v2020-07-28	0.250	29.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus2m-2020-08-01.zip	10000	110468
 eng-zho	tatoeba-test-v2020-07-28	0.232	27.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus1m+bt-2021-04-10.zip	10000	110468
 eng-zho	tatoeba-test-v2020-07-28	0.225	26.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus4m+btTCv20210807-2021-09-30.zip	10000	110468
@@ -11096,6 +11131,7 @@ eng-zho	tatoeba-test-v2021-03-30	0.271	31.7	https://object.pouta.csc.fi/Tatoeba-
 eng-zho	tatoeba-test-v2021-03-30	0.267	31.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2020-07-17.zip	10217	112776
 eng-zho	tatoeba-test-v2021-03-30	0.266	31.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2020-07-14.zip	10217	112776
 eng-zho	tatoeba-test-v2021-03-30	0.262	30.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus+bt-2021-04-19.zip	10217	112776
+eng-zho	tatoeba-test-v2021-03-30	0.26010	30.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	10217	112776
 eng-zho	tatoeba-test-v2021-03-30	0.250	29.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus2m-2020-08-01.zip	10217	112776
 eng-zho	tatoeba-test-v2021-03-30	0.232	27.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus1m+bt-2021-04-10.zip	10217	112776
 eng-zho	tatoeba-test-v2021-03-30	0.225	26.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus4m+btTCv20210807-2021-09-30.zip	10217	112776
@@ -11107,6 +11143,7 @@ eng-zho	tatoeba-test-v2021-08-07	0.271	31.8	https://object.pouta.csc.fi/Tatoeba-
 eng-zho	tatoeba-test-v2021-08-07	0.268	31.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2020-07-17.zip	10390	114510
 eng-zho	tatoeba-test-v2021-08-07	0.267	31.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2020-07-14.zip	10390	114510
 eng-zho	tatoeba-test-v2021-08-07	0.263	31.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus+bt-2021-04-19.zip	10390	114510
+eng-zho	tatoeba-test-v2021-08-07	0.26085	30.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	10390	114510
 eng-zho	tatoeba-test-v2021-08-07	0.250	29.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus2m-2020-08-01.zip	10390	114510
 eng-zho	tatoeba-test-v2021-08-07	0.232	27.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus1m+bt-2021-04-10.zip	10390	114510
 eng-zho	tatoeba-test-v2021-08-07	0.225	26.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-sit/opus4m+btTCv20210807-2021-09-30.zip	10390	114510
@@ -11879,6 +11916,7 @@ fin-deu	tatoeba-test-v2021-08-07	0.451	23.7	https://object.pouta.csc.fi/Tatoeba-
 fin-deu	tatoeba-test-v2021-08-07	0.450	23.4	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-19.zip	2647	19163
 fin-eng	tatoeba-test-v2020-07-28	0.723	57.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opusTCv20210807+bt-2021-12-08.zip	10000	74651
 fin-eng	tatoeba-test-v2020-07-28	0.711	55.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opusTCv20210807+bt-2021-11-09.zip	10000	74651
+fin-eng	tatoeba-test-v2020-07-28	0.70655	54.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-align_2022-01-28.zip	10000	74651
 fin-eng	tatoeba-test-v2020-07-28	0.699	53.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opusTCv20210807+bt-2021-08-25.zip	10000	74651
 fin-eng	tatoeba-test-v2020-07-28	0.698	53.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng-old/opus-2021-02-12.zip	10000	74651
 fin-eng	tatoeba-test-v2020-07-28	0.698	53.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opus-2021-02-12.zip	10000	74651
@@ -11912,6 +11950,7 @@ fin-eng	tatoeba-test-v2020-07-28	0.470	27.4	https://object.pouta.csc.fi/Tatoeba-
 fin-eng	tatoeba-test-v2020-07-28	0.469	27.1	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-21.zip	10000	74651
 fin-eng	tatoeba-test-v2021-03-30	0.723	57.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opusTCv20210807+bt-2021-12-08.zip	10186	76206
 fin-eng	tatoeba-test-v2021-03-30	0.711	55.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opusTCv20210807+bt-2021-11-09.zip	10186	76206
+fin-eng	tatoeba-test-v2021-03-30	0.70674	54.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-align_2022-01-28.zip	10186	76206
 fin-eng	tatoeba-test-v2021-03-30	0.699	53.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opusTCv20210807+bt-2021-08-25.zip	10186	76206
 fin-eng	tatoeba-test-v2021-03-30	0.698	53.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng-old/opus-2021-02-12.zip	10186	76206
 fin-eng	tatoeba-test-v2021-03-30	0.698	53.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opus-2021-02-12.zip	10186	76206
@@ -11945,6 +11984,7 @@ fin-eng	tatoeba-test-v2021-03-30	0.469	27.2	https://object.pouta.csc.fi/Tatoeba-
 fin-eng	tatoeba-test-v2021-03-30	0.468	27.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-21.zip	10186	76206
 fin-eng	tatoeba-test-v2021-08-07	0.723	57.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opusTCv20210807+bt-2021-12-08.zip	10690	80552
 fin-eng	tatoeba-test-v2021-08-07	0.710	55.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opusTCv20210807+bt-2021-11-09.zip	10690	80552
+fin-eng	tatoeba-test-v2021-08-07	0.70592	54.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-align_2022-01-28.zip	10690	80552
 fin-eng	tatoeba-test-v2021-08-07	0.698	53.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opusTCv20210807+bt-2021-08-25.zip	10690	80552
 fin-eng	tatoeba-test-v2021-08-07	0.697	53.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng-old/opus-2021-02-12.zip	10690	80552
 fin-eng	tatoeba-test-v2021-08-07	0.697	53.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-eng/opus-2021-02-12.zip	10690	80552
@@ -12178,6 +12218,7 @@ fin-rus	tatoeba-test-v2021-03-30	0.434	22.8	https://object.pouta.csc.fi/Tatoeba-
 fin-rus	tatoeba-test-v2021-03-30	0.434	22.7	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-19.zip	3643	21497
 fin-rus	tatoeba-test-v2021-08-07	0.67247	47.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zle/opusTCv20210807+bt_transformer-big_2022-03-17.zip	3643	21497
 fin-rus	tatoeba-test-v2021-08-07	0.67199	46.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	3643	21497
+fin-rus	tatoeba-test-v2021-08-07	0.67413	46.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zle/opusTCv20210807+xb+bt+pft+pbt_transformer-big_2022-04-27.zip	3643	21497
 fin-rus	tatoeba-test-v2021-08-07	0.66376	45.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zle/opus4m+btTCv20210807-2022-01-19.zip	3643	21497
 fin-rus	tatoeba-test-v2021-08-07	0.64433	42.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-rus/opus+bt-2022-01-19.zip	3643	21497
 fin-rus	tatoeba-test-v2021-08-07	0.630	42.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zle/opus-2021-02-11.zip	3643	21497
@@ -12803,6 +12844,7 @@ fra-ukr	tatoeba-test-v2020-07-28	0.61614	39.5	https://object.pouta.csc.fi/Tatoeb
 fra-ukr	tatoeba-test-v2020-07-28	0.598	39.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ukr/opus-2021-02-18.zip	10000	54082
 fra-ukr	tatoeba-test-v2020-07-28	0.61110	38.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-zle/opusTCv20210807_transformer-big_2022-03-13.zip	10000	54082
 fra-ukr	tatoeba-test-v2020-07-28	0.579	37.1	https://object.pouta.csc.fi/Tatoeba-MT-models/roa-zle/opus1m-2021-02-18.zip	10000	54082
+fra-ukr	tatoeba-test-v2020-07-28	0.58974	34.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-20.zip	10000	54082
 fra-ukr	tatoeba-test-v2020-07-28	0.473	26.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10000	54082
 fra-ukr	tatoeba-test-v2020-07-28	0.460	25.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10000	54082
 fra-ukr	tatoeba-test-v2020-07-28	0.443	23.2	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-21.zip	10000	54082
@@ -12813,6 +12855,7 @@ fra-ukr	tatoeba-test-v2021-03-30	0.61642	39.5	https://object.pouta.csc.fi/Tatoeb
 fra-ukr	tatoeba-test-v2021-03-30	0.599	39.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ukr/opus-2021-02-18.zip	10035	54263
 fra-ukr	tatoeba-test-v2021-03-30	0.61141	38.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-zle/opusTCv20210807_transformer-big_2022-03-13.zip	10035	54263
 fra-ukr	tatoeba-test-v2021-03-30	0.579	37.1	https://object.pouta.csc.fi/Tatoeba-MT-models/roa-zle/opus1m-2021-02-18.zip	10035	54263
+fra-ukr	tatoeba-test-v2021-03-30	0.59009	35.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-20.zip	10035	54263
 fra-ukr	tatoeba-test-v2021-03-30	0.473	26.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10035	54263
 fra-ukr	tatoeba-test-v2021-03-30	0.460	25.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10035	54263
 fra-ukr	tatoeba-test-v2021-03-30	0.443	23.2	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-21.zip	10035	54263
@@ -12823,6 +12866,7 @@ fra-ukr	tatoeba-test-v2021-08-07	0.61646	39.5	https://object.pouta.csc.fi/Tatoeb
 fra-ukr	tatoeba-test-v2021-08-07	0.599	39.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ukr/opus-2021-02-18.zip	10035	54372
 fra-ukr	tatoeba-test-v2021-08-07	0.61143	39.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-zle/opusTCv20210807_transformer-big_2022-03-13.zip	10035	54372
 fra-ukr	tatoeba-test-v2021-08-07	0.579	37.1	https://object.pouta.csc.fi/Tatoeba-MT-models/roa-zle/opus1m-2021-02-18.zip	10035	54372
+fra-ukr	tatoeba-test-v2021-08-07	0.58986	34.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-20.zip	10035	54372
 fra-ukr	tatoeba-test-v2021-08-07	0.472	26.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10035	54372
 fra-ukr	tatoeba-test-v2021-08-07	0.460	25.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10035	54372
 fra-ukr	tatoeba-test-v2021-08-07	0.442	23.2	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-21.zip	10035	54372
@@ -14367,18 +14411,21 @@ hun-tur	tatoeba-test-v2021-03-30	0.570	30.8	https://object.pouta.csc.fi/Tatoeba-
 hun-tur	tatoeba-test-v2021-08-07	0.579	31.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-tut/opus-2021-02-18.zip	1002	4942
 hun-tur	tatoeba-test-v2021-08-07	0.572	31.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip	1002	4942
 hun-ukr	tatoeba-test-v2020-07-28	0.611	40.7	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-ukr/opus-2021-02-19.zip	464	2568
+hun-ukr	tatoeba-test-v2020-07-28	0.61575	40.3	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	464	2568
 hun-ukr	tatoeba-test-v2020-07-28	0.61129	38.2	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-ukr/opusTCv20210807+pbt_transformer-align_2022-03-08.zip	464	2568
 hun-ukr	tatoeba-test-v2020-07-28	0.589	38.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-sla/opus-2021-02-16.zip	464	2568
 hun-ukr	tatoeba-test-v2020-07-28	0.589	38.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-sla/opus-2021-02-19.zip	464	2568
 hun-ukr	tatoeba-test-v2020-07-28	0.586	37.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zle/opus-2021-02-11.zip	464	2568
 hun-ukr	tatoeba-test-v2020-07-28	0.586	37.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zle/opus-2021-02-18.zip	464	2568
 hun-ukr	tatoeba-test-v2021-03-30	0.609	40.5	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-ukr/opus-2021-02-19.zip	474	2623
+hun-ukr	tatoeba-test-v2021-03-30	0.61193	39.8	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	474	2623
 hun-ukr	tatoeba-test-v2021-03-30	0.60904	37.9	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-ukr/opusTCv20210807+pbt_transformer-align_2022-03-08.zip	474	2623
 hun-ukr	tatoeba-test-v2021-03-30	0.585	37.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-sla/opus-2021-02-16.zip	474	2623
 hun-ukr	tatoeba-test-v2021-03-30	0.585	37.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-sla/opus-2021-02-19.zip	474	2623
 hun-ukr	tatoeba-test-v2021-03-30	0.581	37.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zle/opus-2021-02-11.zip	474	2623
 hun-ukr	tatoeba-test-v2021-03-30	0.581	37.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-zle/opus-2021-02-18.zip	474	2623
 hun-ukr	tatoeba-test-v2021-08-07	0.612	40.9	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-ukr/opus-2021-02-19.zip	473	2606
+hun-ukr	tatoeba-test-v2021-08-07	0.61451	40.4	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	473	2606
 hun-ukr	tatoeba-test-v2021-08-07	0.589	38.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-sla/opus-2021-02-16.zip	473	2606
 hun-ukr	tatoeba-test-v2021-08-07	0.589	38.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-sla/opus-2021-02-19.zip	473	2606
 hun-ukr	tatoeba-test-v2021-08-07	0.61006	38.1	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-ukr/opusTCv20210807+pbt_transformer-align_2022-03-08.zip	473	2606
@@ -18824,8 +18871,10 @@ nor-swe	tatoeba-test-v2021-08-07	0.830	71.1	https://object.pouta.csc.fi/Tatoeba-
 nor-swe	tatoeba-test-v2021-08-07	0.765	62.5	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-swe/opus-2020-06-17.zip	566	3736
 nor-ukr	tatoeba-test-v2020-07-28	0.626	41.3	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2021-02-23.zip	670	3982
 nor-ukr	tatoeba-test-v2020-07-28	0.383	16.6	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2020-06-17.zip	670	3982
+nor-ukr	tatoeba-test-v2021-03-30	0.65701	42.7	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-23.zip	671	3987
 nor-ukr	tatoeba-test-v2021-03-30	0.626	41.3	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2021-02-23.zip	671	3987
 nor-ukr	tatoeba-test-v2021-03-30	0.383	16.6	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2020-06-17.zip	671	3987
+nor-ukr	tatoeba-test-v2021-08-07	0.65727	42.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-23.zip	670	3982
 nor-ukr	tatoeba-test-v2021-08-07	0.626	41.3	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2021-02-23.zip	670	3982
 nor-ukr	tatoeba-test-v2021-08-07	0.383	16.6	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2020-06-17.zip	670	3982
 nor-zho	tatoeba-test-v2020-07-28	0.255	29.9	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-zho/opus-2021-05-16.zip	200	2088
@@ -19194,6 +19243,7 @@ pol-bel	tatoeba-test-v2021-03-30	0.559	31.5	https://object.pouta.csc.fi/Tatoeba-
 pol-bel	tatoeba-test-v2021-03-30	0.559	31.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-16.zip	289	1743
 pol-bel	tatoeba-test-v2021-03-30	0.559	31.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip	289	1743
 pol-bel	tatoeba-test-v2021-03-30	0.531	30.4	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	289	1743
+pol-bel	tatoeba-test-v2021-03-30	0.51848	30.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	289	1743
 pol-bel	tatoeba-test-v2021-03-30	0.51120	29.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-19.zip	289	1743
 pol-bel	tatoeba-test-v2021-03-30	0.540	29.0	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-21.zip	289	1743
 pol-bel	tatoeba-test-v2021-03-30	0.52125	28.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	289	1743
@@ -19205,6 +19255,7 @@ pol-bel	tatoeba-test-v2021-08-07	0.557	31.4	https://object.pouta.csc.fi/Tatoeba-
 pol-bel	tatoeba-test-v2021-08-07	0.557	31.4	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-16.zip	287	1730
 pol-bel	tatoeba-test-v2021-08-07	0.557	31.4	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip	287	1730
 pol-bel	tatoeba-test-v2021-08-07	0.530	30.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	287	1730
+pol-bel	tatoeba-test-v2021-08-07	0.51623	29.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	287	1730
 pol-bel	tatoeba-test-v2021-08-07	0.51039	29.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-19.zip	287	1730
 pol-bel	tatoeba-test-v2021-08-07	0.50482	28.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	287	1730
 pol-bel	tatoeba-test-v2021-08-07	0.51903	28.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	287	1730
@@ -19460,6 +19511,7 @@ pol-rus	tatoeba-test-v2021-03-30	0.667	47.6	https://object.pouta.csc.fi/Tatoeba-
 pol-rus	tatoeba-test-v2021-03-30	0.548	34.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	3543	22067
 pol-rus	tatoeba-test-v2021-03-30	0.531	33.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	3543	22067
 pol-rus	tatoeba-test-v2021-08-07	0.73283	55.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	3543	22067
+pol-rus	tatoeba-test-v2021-08-07	0.73072	55.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	3543	22067
 pol-rus	tatoeba-test-v2021-08-07	0.72955	55.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	3543	22067
 pol-rus	tatoeba-test-v2021-08-07	0.73156	55.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-19.zip	3543	22067
 pol-rus	tatoeba-test-v2021-08-07	0.679	49.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	3543	22067
@@ -19482,9 +19534,11 @@ pol-swe	tatoeba-test-v2021-03-30	0.527	34.8	https://object.pouta.csc.fi/Tatoeba-
 pol-swe	tatoeba-test-v2021-03-30	0.512	33.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1392	9304
 pol-swe	tatoeba-test-v2021-08-07	0.526	34.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	1392	9304
 pol-swe	tatoeba-test-v2021-08-07	0.512	33.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1392	9304
+pol-ukr	tatoeba-test-v2020-07-28	0.69452	49.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	2500	13434
 pol-ukr	tatoeba-test-v2020-07-28	0.68580	49.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	2500	13434
 pol-ukr	tatoeba-test-v2020-07-28	0.68259	48.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-19.zip	2500	13434
 pol-ukr	tatoeba-test-v2020-07-28	0.67941	48.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	2500	13434
+pol-ukr	tatoeba-test-v2020-07-28	0.68442	48.0	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	2500	13434
 pol-ukr	tatoeba-test-v2020-07-28	0.663	47.1	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opus-2021-02-18.zip	2500	13434
 pol-ukr	tatoeba-test-v2020-07-28	0.664	46.7	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	2500	13434
 pol-ukr	tatoeba-test-v2020-07-28	0.664	46.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-21.zip	2500	13434
@@ -19494,9 +19548,11 @@ pol-ukr	tatoeba-test-v2020-07-28	0.660	45.7	https://object.pouta.csc.fi/Tatoeba-
 pol-ukr	tatoeba-test-v2020-07-28	0.655	44.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-09-26.zip	2500	13434
 pol-ukr	tatoeba-test-v2020-07-28	0.536	32.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	2500	13434
 pol-ukr	tatoeba-test-v2020-07-28	0.521	31.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	2500	13434
+pol-ukr	tatoeba-test-v2021-03-30	0.69433	49.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	4977	26782
 pol-ukr	tatoeba-test-v2021-03-30	0.68567	49.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	4977	26782
 pol-ukr	tatoeba-test-v2021-03-30	0.68225	48.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-19.zip	4977	26782
 pol-ukr	tatoeba-test-v2021-03-30	0.67911	48.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	4977	26782
+pol-ukr	tatoeba-test-v2021-03-30	0.68461	48.1	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	4977	26782
 pol-ukr	tatoeba-test-v2021-03-30	0.663	47.1	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opus-2021-02-18.zip	4977	26782
 pol-ukr	tatoeba-test-v2021-03-30	0.664	46.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	4977	26782
 pol-ukr	tatoeba-test-v2021-03-30	0.663	46.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-21.zip	4977	26782
@@ -19506,9 +19562,11 @@ pol-ukr	tatoeba-test-v2021-03-30	0.660	45.6	https://object.pouta.csc.fi/Tatoeba-
 pol-ukr	tatoeba-test-v2021-03-30	0.655	44.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-09-26.zip	4977	26782
 pol-ukr	tatoeba-test-v2021-03-30	0.535	32.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	4977	26782
 pol-ukr	tatoeba-test-v2021-03-30	0.522	31.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	4977	26782
+pol-ukr	tatoeba-test-v2021-08-07	0.69431	49.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	2519	13535
 pol-ukr	tatoeba-test-v2021-08-07	0.68570	49.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	2519	13535
 pol-ukr	tatoeba-test-v2021-08-07	0.68247	48.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-19.zip	2519	13535
 pol-ukr	tatoeba-test-v2021-08-07	0.67968	48.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	2519	13535
+pol-ukr	tatoeba-test-v2021-08-07	0.68502	48.2	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	2519	13535
 pol-ukr	tatoeba-test-v2021-08-07	0.662	47.0	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opus-2021-02-18.zip	2519	13535
 pol-ukr	tatoeba-test-v2021-08-07	0.664	46.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	2519	13535
 pol-ukr	tatoeba-test-v2021-08-07	0.664	46.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-21.zip	2519	13535
@@ -20298,6 +20356,7 @@ rus-bul	tatoeba-test-v2021-08-07	0.515	29.1	https://object.pouta.csc.fi/Tatoeba-
 rus-ces	tatoeba-test-v2020-07-28	0.70119	53.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-23.zip	2500	14266
 rus-ces	tatoeba-test-v2020-07-28	0.70292	53.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	2500	14266
 rus-ces	tatoeba-test-v2020-07-28	0.69995	53.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-19.zip	2500	14266
+rus-ces	tatoeba-test-v2020-07-28	0.69480	52.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	2500	14266
 rus-ces	tatoeba-test-v2020-07-28	0.683	51.7	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-ces/opus-2021-02-19.zip	2500	14266
 rus-ces	tatoeba-test-v2020-07-28	0.657	47.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	2500	14266
 rus-ces	tatoeba-test-v2020-07-28	0.657	47.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-16.zip	2500	14266
@@ -20310,6 +20369,7 @@ rus-ces	tatoeba-test-v2020-07-28	0.515	31.7	https://object.pouta.csc.fi/Tatoeba-
 rus-ces	tatoeba-test-v2021-03-30	0.70124	53.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	5060	28961
 rus-ces	tatoeba-test-v2021-03-30	0.69882	53.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-23.zip	5060	28961
 rus-ces	tatoeba-test-v2021-03-30	0.69785	53.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-19.zip	5060	28961
+rus-ces	tatoeba-test-v2021-03-30	0.69200	52.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	5060	28961
 rus-ces	tatoeba-test-v2021-03-30	0.679	51.5	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-ces/opus-2021-02-19.zip	5060	28961
 rus-ces	tatoeba-test-v2021-03-30	0.657	47.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	5060	28961
 rus-ces	tatoeba-test-v2021-03-30	0.650	47.3	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-21.zip	5060	28961
@@ -20322,6 +20382,7 @@ rus-ces	tatoeba-test-v2021-03-30	0.511	31.3	https://object.pouta.csc.fi/Tatoeba-
 rus-ces	tatoeba-test-v2021-08-07	0.69695	53.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-23.zip	2934	16831
 rus-ces	tatoeba-test-v2021-08-07	0.69863	53.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	2934	16831
 rus-ces	tatoeba-test-v2021-08-07	0.69577	53.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-19.zip	2934	16831
+rus-ces	tatoeba-test-v2021-08-07	0.68976	52.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	2934	16831
 rus-ces	tatoeba-test-v2021-08-07	0.678	51.4	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-ces/opus-2021-02-19.zip	2934	16831
 rus-ces	tatoeba-test-v2021-08-07	0.653	46.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	2934	16831
 rus-ces	tatoeba-test-v2021-08-07	0.646	46.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-21.zip	2934	16831
@@ -20593,6 +20654,7 @@ rus-fin	tatoeba-test-v2021-03-30	0.609	36.8	https://object.pouta.csc.fi/Tatoeba-
 rus-fin	tatoeba-test-v2021-03-30	0.609	36.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fiu/opus-2021-02-18.zip	3643	19319
 rus-fin	tatoeba-test-v2021-03-30	0.450	21.1	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-19.zip	3643	19319
 rus-fin	tatoeba-test-v2021-03-30	0.450	20.9	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-zero/opus-2020-06-21.zip	3643	19319
+rus-fin	tatoeba-test-v2021-08-07	0.67153	43.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big_2022-04-18.zip	3643	19319
 rus-fin	tatoeba-test-v2021-08-07	0.66334	42.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fin/opusTCv20210807+bt_transformer-big_2022-03-07.zip	3643	19319
 rus-fin	tatoeba-test-v2021-08-07	0.65573	41.5	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-fin/opus+bt-2022-01-19.zip	3643	19319
 rus-fin	tatoeba-test-v2021-08-07	0.623	38.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-fiu/opus-2021-02-10.zip	3643	19319
@@ -20886,6 +20948,7 @@ rus-pol	tatoeba-test-v2021-03-30	0.518	28.7	https://object.pouta.csc.fi/Tatoeba-
 rus-pol	tatoeba-test-v2021-08-07	0.72335	54.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	3543	21505
 rus-pol	tatoeba-test-v2021-08-07	0.72282	53.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-19.zip	3543	21505
 rus-pol	tatoeba-test-v2021-08-07	0.72176	53.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-23.zip	3543	21505
+rus-pol	tatoeba-test-v2021-08-07	0.72027	53.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	3543	21505
 rus-pol	tatoeba-test-v2021-08-07	0.657	45.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	3543	21505
 rus-pol	tatoeba-test-v2021-08-07	0.652	44.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-21.zip	3543	21505
 rus-pol	tatoeba-test-v2021-08-07	0.651	44.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-10-04.zip	3543	21505
@@ -21853,6 +21916,7 @@ spa-ukr	tatoeba-test-v2020-07-28	0.63376	42.2	https://object.pouta.csc.fi/Tatoeb
 spa-ukr	tatoeba-test-v2020-07-28	0.63230	42.0	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-zle/opusTCv20210807_transformer-big_2022-03-17.zip	10000	53833
 spa-ukr	tatoeba-test-v2020-07-28	0.63218	42.0	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-zle/opusTCv20210807_transformer-big_2022-03-14.zip	10000	53833
 spa-ukr	tatoeba-test-v2020-07-28	0.615	41.3	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ukr/opus-2021-02-18.zip	10000	53833
+spa-ukr	tatoeba-test-v2020-07-28	0.61665	39.3	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10000	53833
 spa-ukr	tatoeba-test-v2020-07-28	0.594	38.4	https://object.pouta.csc.fi/Tatoeba-MT-models/roa-zle/opus1m-2021-02-18.zip	10000	53833
 spa-ukr	tatoeba-test-v2020-07-28	0.495	27.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10000	53833
 spa-ukr	tatoeba-test-v2020-07-28	0.479	26.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10000	53833
@@ -21863,6 +21927,7 @@ spa-ukr	tatoeba-test-v2021-03-30	0.63400	42.2	https://object.pouta.csc.fi/Tatoeb
 spa-ukr	tatoeba-test-v2021-03-30	0.63244	42.0	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-zle/opusTCv20210807_transformer-big_2022-03-17.zip	10027	53966
 spa-ukr	tatoeba-test-v2021-03-30	0.63228	42.0	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-zle/opusTCv20210807_transformer-big_2022-03-14.zip	10027	53966
 spa-ukr	tatoeba-test-v2021-03-30	0.615	41.3	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ukr/opus-2021-02-18.zip	10027	53966
+spa-ukr	tatoeba-test-v2021-03-30	0.61668	39.3	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10027	53966
 spa-ukr	tatoeba-test-v2021-03-30	0.594	38.4	https://object.pouta.csc.fi/Tatoeba-MT-models/roa-zle/opus1m-2021-02-18.zip	10027	53966
 spa-ukr	tatoeba-test-v2021-03-30	0.495	28.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10027	53966
 spa-ukr	tatoeba-test-v2021-03-30	0.479	26.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10027	53966
@@ -21873,6 +21938,7 @@ spa-ukr	tatoeba-test-v2021-08-07	0.63502	42.3	https://object.pouta.csc.fi/Tatoeb
 spa-ukr	tatoeba-test-v2021-08-07	0.63347	42.1	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-zle/opusTCv20210807_transformer-big_2022-03-17.zip	10115	54544
 spa-ukr	tatoeba-test-v2021-08-07	0.63336	42.1	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-zle/opusTCv20210807_transformer-big_2022-03-14.zip	10115	54544
 spa-ukr	tatoeba-test-v2021-08-07	0.615	41.3	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ukr/opus-2021-02-18.zip	10115	54544
+spa-ukr	tatoeba-test-v2021-08-07	0.61717	39.4	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10115	54544
 spa-ukr	tatoeba-test-v2021-08-07	0.594	38.4	https://object.pouta.csc.fi/Tatoeba-MT-models/roa-zle/opus1m-2021-02-18.zip	10115	54544
 spa-ukr	tatoeba-test-v2021-08-07	0.495	28.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10115	54544
 spa-ukr	tatoeba-test-v2021-08-07	0.479	26.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10115	54544
@@ -23366,6 +23432,7 @@ ukr-ces	tatoeba-test-v2021-03-30	0.676	50.6	https://object.pouta.csc.fi/Tatoeba-
 ukr-ces	tatoeba-test-v2021-03-30	0.675	50.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-09-26.zip	1787	8550
 ukr-ces	tatoeba-test-v2021-03-30	0.522	32.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	1787	8550
 ukr-ces	tatoeba-test-v2021-03-30	0.510	31.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1787	8550
+ukr-ces	tatoeba-test-v2021-08-07	0.73337	58.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	1787	8550
 ukr-ces	tatoeba-test-v2021-08-07	0.73149	58.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-23.zip	1787	8550
 ukr-ces	tatoeba-test-v2021-08-07	0.72827	57.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-19.zip	1787	8550
 ukr-ces	tatoeba-test-v2021-08-07	0.71965	56.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	1787	8550
@@ -23390,6 +23457,7 @@ ukr-deu	tatoeba-test-v2020-07-28	0.70875	54.8	https://object.pouta.csc.fi/Tatoeb
 ukr-deu	tatoeba-test-v2020-07-28	0.70797	54.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-deu/opusTCv20210807_transformer-big_2022-03-23.zip	10000	62298
 ukr-deu	tatoeba-test-v2020-07-28	0.70704	54.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-deu/opusTCv20210807_transformer-big_2022-03-14.zip	10000	62298
 ukr-deu	tatoeba-test-v2020-07-28	0.69159	52.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+pft_transformer-align_2022-03-06.zip	10000	62298
+ukr-deu	tatoeba-test-v2020-07-28	0.69052	52.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10000	62298
 ukr-deu	tatoeba-test-v2020-07-28	0.677	50.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2deu-2021-01-17.zip	10000	62298
 ukr-deu	tatoeba-test-v2020-07-28	0.673	50.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-16.zip	10000	62298
 ukr-deu	tatoeba-test-v2020-07-28	0.673	50.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-18.zip	10000	62298
@@ -23411,6 +23479,7 @@ ukr-deu	tatoeba-test-v2021-03-30	0.70939	54.9	https://object.pouta.csc.fi/Tatoeb
 ukr-deu	tatoeba-test-v2021-03-30	0.70860	54.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-deu/opusTCv20210807_transformer-big_2022-03-23.zip	10174	63575
 ukr-deu	tatoeba-test-v2021-03-30	0.70759	54.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-deu/opusTCv20210807_transformer-big_2022-03-14.zip	10174	63575
 ukr-deu	tatoeba-test-v2021-03-30	0.69241	52.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+pft_transformer-align_2022-03-06.zip	10174	63575
+ukr-deu	tatoeba-test-v2021-03-30	0.69145	52.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10174	63575
 ukr-deu	tatoeba-test-v2021-03-30	0.677	50.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2deu-2021-01-17.zip	10174	63575
 ukr-deu	tatoeba-test-v2021-03-30	0.674	50.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-16.zip	10174	63575
 ukr-deu	tatoeba-test-v2021-03-30	0.674	50.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-18.zip	10174	63575
@@ -23432,6 +23501,7 @@ ukr-deu	tatoeba-test-v2021-08-07	0.70860	54.7	https://object.pouta.csc.fi/Tatoeb
 ukr-deu	tatoeba-test-v2021-08-07	0.70806	54.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-deu/opusTCv20210807_transformer-big_2022-03-23.zip	10319	64646
 ukr-deu	tatoeba-test-v2021-08-07	0.70692	54.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-deu/opusTCv20210807_transformer-big_2022-03-14.zip	10319	64646
 ukr-deu	tatoeba-test-v2021-08-07	0.69176	52.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+pft_transformer-align_2022-03-06.zip	10319	64646
+ukr-deu	tatoeba-test-v2021-08-07	0.69052	51.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-deu/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10319	64646
 ukr-deu	tatoeba-test-v2021-08-07	0.676	50.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2deu-2021-01-17.zip	10319	64646
 ukr-deu	tatoeba-test-v2021-08-07	0.673	50.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-16.zip	10319	64646
 ukr-deu	tatoeba-test-v2021-08-07	0.673	50.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-18.zip	10319	64646
@@ -23454,6 +23524,7 @@ ukr-eng	tatoeba-test-v2020-07-28	0.70154	55.9	https://object.pouta.csc.fi/Tatoeb
 ukr-eng	tatoeba-test-v2020-07-28	0.684	53.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-eng/opus4m-2020-08-12.zip	10000	66118
 ukr-eng	tatoeba-test-v2020-07-28	0.683	53.4	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-eng/opus-2020-07-27.zip	10000	66118
 ukr-eng	tatoeba-test-v2020-07-28	0.682	53.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2eng-2021-01-17.zip	10000	66118
+ukr-eng	tatoeba-test-v2020-07-28	0.68371	53.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	10000	66118
 ukr-eng	tatoeba-test-v2020-07-28	0.676	52.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4rus2eng-2021-01-17.zip	10000	66118
 ukr-eng	tatoeba-test-v2020-07-28	0.675	52.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-16.zip	10000	66118
 ukr-eng	tatoeba-test-v2020-07-28	0.675	52.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-18.zip	10000	66118
@@ -23462,6 +23533,7 @@ ukr-eng	tatoeba-test-v2020-07-28	0.672	52.2	https://object.pouta.csc.fi/Tatoeba-
 ukr-eng	tatoeba-test-v2020-07-28	0.674	52.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-eng/opus-2020-07-04.zip	10000	66118
 ukr-eng	tatoeba-test-v2020-07-28	0.674	52.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opus4m-2020-08-12.zip	10000	66118
 ukr-eng	tatoeba-test-v2020-07-28	0.673	52.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opus2m-2020-08-01.zip	10000	66118
+ukr-eng	tatoeba-test-v2020-07-28	0.67240	51.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	10000	66118
 ukr-eng	tatoeba-test-v2020-07-28	0.670	51.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opus-2021-02-19.zip	10000	66118
 ukr-eng	tatoeba-test-v2020-07-28	0.666	51.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opus1m+bt-2021-05-02.zip	10000	66118
 ukr-eng	tatoeba-test-v2020-07-28	0.658	50.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2nld-2021-01-15.zip	10000	66118
@@ -23493,11 +23565,13 @@ ukr-eng	tatoeba-test-v2020-07-28	0.132	0.3	https://object.pouta.csc.fi/Tatoeba-M
 ukr-eng	tatoeba-test-v2021-03-30	0.71069	56.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opusTCv20210807+bt_transformer-big_2022-03-17.zip	11969	80246
 ukr-eng	tatoeba-test-v2021-03-30	0.70206	55.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opusTCv20210807+bt_transformer-big_2022-03-03.zip	11969	80246
 ukr-eng	tatoeba-test-v2021-03-30	0.683	53.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-eng/opus4m-2020-08-12.zip	11969	80246
+ukr-eng	tatoeba-test-v2021-03-30	0.68401	53.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	11969	80246
 ukr-eng	tatoeba-test-v2021-03-30	0.680	52.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2eng-2021-01-17.zip	11969	80246
 ukr-eng	tatoeba-test-v2021-03-30	0.680	52.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-eng/opus-2020-07-27.zip	11969	80246
 ukr-eng	tatoeba-test-v2021-03-30	0.673	52.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-16.zip	11969	80246
 ukr-eng	tatoeba-test-v2021-03-30	0.673	52.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-18.zip	11969	80246
 ukr-eng	tatoeba-test-v2021-03-30	0.673	52.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4rus2eng-2021-01-17.zip	11969	80246
+ukr-eng	tatoeba-test-v2021-03-30	0.67357	51.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	11969	80246
 ukr-eng	tatoeba-test-v2021-03-30	0.672	51.8	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-eng/opus-2020-07-04.zip	11969	80246
 ukr-eng	tatoeba-test-v2021-03-30	0.669	51.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2eng-2021-01-17.zip	11969	80246
 ukr-eng	tatoeba-test-v2021-03-30	0.672	51.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opus+bt-2021-04-30.zip	11969	80246
@@ -23533,6 +23607,7 @@ ukr-eng	tatoeba-test-v2021-03-30	0.154	0.4	https://object.pouta.csc.fi/Tatoeba-M
 ukr-eng	tatoeba-test-v2021-03-30	0.132	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4rus2deu-2021-01-17.zip	11969	80246
 ukr-eng	tatoeba-test-v2021-08-07	0.71162	56.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opusTCv20210807+bt_transformer-big_2022-03-17.zip	13127	88607
 ukr-eng	tatoeba-test-v2021-08-07	0.70289	55.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opusTCv20210807+bt_transformer-big_2022-03-03.zip	13127	88607
+ukr-eng	tatoeba-test-v2021-08-07	0.68456	52.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	13127	88607
 ukr-eng	tatoeba-test-v2021-08-07	0.682	52.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-eng/opus4m-2020-08-12.zip	13127	88607
 ukr-eng	tatoeba-test-v2021-08-07	0.679	52.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2eng-2021-01-17.zip	13127	88607
 ukr-eng	tatoeba-test-v2021-08-07	0.679	52.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-eng/opus-2020-07-27.zip	13127	88607
@@ -23540,6 +23615,7 @@ ukr-eng	tatoeba-test-v2021-08-07	0.672	51.9	https://object.pouta.csc.fi/Tatoeba-
 ukr-eng	tatoeba-test-v2021-08-07	0.672	51.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-16.zip	13127	88607
 ukr-eng	tatoeba-test-v2021-08-07	0.672	51.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-18.zip	13127	88607
 ukr-eng	tatoeba-test-v2021-08-07	0.672	51.7	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-eng/opus-2020-07-04.zip	13127	88607
+ukr-eng	tatoeba-test-v2021-08-07	0.67332	51.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-05.zip	13127	88607
 ukr-eng	tatoeba-test-v2021-08-07	0.672	51.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-eng/opus+bt-2021-04-30.zip	13127	88607
 ukr-eng	tatoeba-test-v2021-08-07	0.668	51.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4bel2eng-2021-01-17.zip	13127	88607
 ukr-eng	tatoeba-test-v2021-08-07	0.670	51.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-eng/opus2m-2020-08-01.zip	13127	88607
@@ -23584,6 +23660,7 @@ ukr-epo	tatoeba-test-v2021-08-07	0.544	33.3	https://object.pouta.csc.fi/Tatoeba-
 ukr-fra	tatoeba-test-v2020-07-28	0.67934	51.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fra/opusTCv20210807_transformer-big_2022-03-23.zip	10000	62877
 ukr-fra	tatoeba-test-v2020-07-28	0.67802	51.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fra/opusTCv20210807_transformer-big_2022-03-19.zip	10000	62877
 ukr-fra	tatoeba-test-v2020-07-28	0.66808	50.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fra/opusTCv20210807_transformer-big_2022-03-14.zip	10000	62877
+ukr-fra	tatoeba-test-v2020-07-28	0.65773	48.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-fra/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10000	62877
 ukr-fra	tatoeba-test-v2020-07-28	0.644	47.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-roa/opus1m-2021-02-18.zip	10000	62877
 ukr-fra	tatoeba-test-v2020-07-28	0.636	46.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-fra/opus-2021-02-19.zip	10000	62877
 ukr-fra	tatoeba-test-v2020-07-28	0.518	32.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10000	62877
@@ -23594,6 +23671,7 @@ ukr-fra	tatoeba-test-v2020-07-28	0.489	28.4	https://object.pouta.csc.fi/Tatoeba-
 ukr-fra	tatoeba-test-v2021-03-30	0.67966	52.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fra/opusTCv20210807_transformer-big_2022-03-23.zip	10035	63101
 ukr-fra	tatoeba-test-v2021-03-30	0.67832	51.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fra/opusTCv20210807_transformer-big_2022-03-19.zip	10035	63101
 ukr-fra	tatoeba-test-v2021-03-30	0.66837	50.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fra/opusTCv20210807_transformer-big_2022-03-14.zip	10035	63101
+ukr-fra	tatoeba-test-v2021-03-30	0.65799	48.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-fra/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10035	63101
 ukr-fra	tatoeba-test-v2021-03-30	0.644	47.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-roa/opus1m-2021-02-18.zip	10035	63101
 ukr-fra	tatoeba-test-v2021-03-30	0.636	46.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-fra/opus-2021-02-19.zip	10035	63101
 ukr-fra	tatoeba-test-v2021-03-30	0.518	32.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10035	63101
@@ -23604,6 +23682,7 @@ ukr-fra	tatoeba-test-v2021-03-30	0.489	28.4	https://object.pouta.csc.fi/Tatoeba-
 ukr-fra	tatoeba-test-v2021-08-07	0.67964	52.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fra/opusTCv20210807_transformer-big_2022-03-23.zip	10035	63227
 ukr-fra	tatoeba-test-v2021-08-07	0.67835	51.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fra/opusTCv20210807_transformer-big_2022-03-19.zip	10035	63227
 ukr-fra	tatoeba-test-v2021-08-07	0.66841	50.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fra/opusTCv20210807_transformer-big_2022-03-14.zip	10035	63227
+ukr-fra	tatoeba-test-v2021-08-07	0.65765	48.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-fra/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10035	63227
 ukr-fra	tatoeba-test-v2021-08-07	0.644	47.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-roa/opus1m-2021-02-18.zip	10035	63227
 ukr-fra	tatoeba-test-v2021-08-07	0.636	46.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-fra/opus-2021-02-19.zip	10035	63227
 ukr-fra	tatoeba-test-v2021-08-07	0.518	32.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10035	63227
@@ -23674,6 +23753,7 @@ ukr-hrv	tatoeba-test-v2021-08-07	0.626	42.0	https://object.pouta.csc.fi/Tatoeba-
 ukr-hrv	tatoeba-test-v2021-08-07	0.542	32.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	389	2302
 ukr-hrv	tatoeba-test-v2021-08-07	0.521	30.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	389	2302
 ukr-hun	tatoeba-test-v2020-07-28	0.67495	43.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft_transformer-align_2022-03-08.zip	464	2433
+ukr-hun	tatoeba-test-v2020-07-28	0.66780	42.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	464	2433
 ukr-hun	tatoeba-test-v2020-07-28	0.64977	42.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-13.zip	464	2433
 ukr-hun	tatoeba-test-v2020-07-28	0.645	41.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opus-2021-02-18.zip	464	2433
 ukr-hun	tatoeba-test-v2020-07-28	0.646	40.0	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-fiu/opus-2021-02-10.zip	464	2433
@@ -23681,6 +23761,7 @@ ukr-hun	tatoeba-test-v2020-07-28	0.646	40.0	https://object.pouta.csc.fi/Tatoeba-
 ukr-hun	tatoeba-test-v2020-07-28	0.645	39.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fiu/opus-2021-02-10.zip	464	2433
 ukr-hun	tatoeba-test-v2020-07-28	0.645	39.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fiu/opus-2021-02-18.zip	464	2433
 ukr-hun	tatoeba-test-v2021-03-30	0.67383	43.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft_transformer-align_2022-03-08.zip	474	2492
+ukr-hun	tatoeba-test-v2021-03-30	0.66714	42.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	474	2492
 ukr-hun	tatoeba-test-v2021-03-30	0.64802	41.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-13.zip	474	2492
 ukr-hun	tatoeba-test-v2021-03-30	0.642	40.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opus-2021-02-18.zip	474	2492
 ukr-hun	tatoeba-test-v2021-03-30	0.645	39.9	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-fiu/opus-2021-02-10.zip	474	2492
@@ -23688,6 +23769,7 @@ ukr-hun	tatoeba-test-v2021-03-30	0.645	39.9	https://object.pouta.csc.fi/Tatoeba-
 ukr-hun	tatoeba-test-v2021-03-30	0.643	39.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fiu/opus-2021-02-10.zip	474	2492
 ukr-hun	tatoeba-test-v2021-03-30	0.643	39.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-fiu/opus-2021-02-18.zip	474	2492
 ukr-hun	tatoeba-test-v2021-08-07	0.67544	44.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft_transformer-align_2022-03-08.zip	473	2472
+ukr-hun	tatoeba-test-v2021-08-07	0.66840	42.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	473	2472
 ukr-hun	tatoeba-test-v2021-08-07	0.65065	42.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft-sepvoc_transformer-tiny11-align_2022-03-13.zip	473	2472
 ukr-hun	tatoeba-test-v2021-08-07	0.647	41.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opus-2021-02-18.zip	473	2472
 ukr-hun	tatoeba-test-v2021-08-07	0.647	40.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-fiu/opus-2021-02-10.zip	473	2472
@@ -23788,9 +23870,11 @@ ukr-nor	tatoeba-test-v2021-08-07	0.397	21.3	https://object.pouta.csc.fi/Tatoeba-
 ukr-orv	tatoeba-test-v2020-07-28	0.010	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-16.zip	973	5038
 ukr-orv	tatoeba-test-v2021-03-30	0.010	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-16.zip	974	5043
 ukr-orv	tatoeba-test-v2021-08-07	0.010	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-16.zip	973	5038
+ukr-pol	tatoeba-test-v2020-07-28	0.75474	58.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	2500	13098
 ukr-pol	tatoeba-test-v2020-07-28	0.74883	57.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	2500	13098
 ukr-pol	tatoeba-test-v2020-07-28	0.74808	57.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-19.zip	2500	13098
 ukr-pol	tatoeba-test-v2020-07-28	0.74609	56.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-23.zip	2500	13098
+ukr-pol	tatoeba-test-v2020-07-28	0.72349	53.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-pol/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-17.zip	2500	13098
 ukr-pol	tatoeba-test-v2020-07-28	0.696	50.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	2500	13098
 ukr-pol	tatoeba-test-v2020-07-28	0.683	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-pol/opus-2021-02-19.zip	2500	13098
 ukr-pol	tatoeba-test-v2020-07-28	0.687	49.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-21.zip	2500	13098
@@ -23800,9 +23884,11 @@ ukr-pol	tatoeba-test-v2020-07-28	0.687	48.5	https://object.pouta.csc.fi/Tatoeba-
 ukr-pol	tatoeba-test-v2020-07-28	0.687	48.4	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-09-26.zip	2500	13098
 ukr-pol	tatoeba-test-v2020-07-28	0.550	32.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	2500	13098
 ukr-pol	tatoeba-test-v2020-07-28	0.537	31.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	2500	13098
+ukr-pol	tatoeba-test-v2021-03-30	0.75474	58.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	4977	26119
 ukr-pol	tatoeba-test-v2021-03-30	0.74865	57.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	4977	26119
 ukr-pol	tatoeba-test-v2021-03-30	0.74772	57.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-19.zip	4977	26119
 ukr-pol	tatoeba-test-v2021-03-30	0.74573	56.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-23.zip	4977	26119
+ukr-pol	tatoeba-test-v2021-03-30	0.72338	53.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-pol/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-17.zip	4977	26119
 ukr-pol	tatoeba-test-v2021-03-30	0.697	50.3	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	4977	26119
 ukr-pol	tatoeba-test-v2021-03-30	0.682	49.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-pol/opus-2021-02-19.zip	4977	26119
 ukr-pol	tatoeba-test-v2021-03-30	0.687	49.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-21.zip	4977	26119
@@ -23812,9 +23898,11 @@ ukr-pol	tatoeba-test-v2021-03-30	0.688	48.5	https://object.pouta.csc.fi/Tatoeba-
 ukr-pol	tatoeba-test-v2021-03-30	0.686	48.3	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-09-26.zip	4977	26119
 ukr-pol	tatoeba-test-v2021-03-30	0.550	32.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	4977	26119
 ukr-pol	tatoeba-test-v2021-03-30	0.537	31.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	4977	26119
+ukr-pol	tatoeba-test-v2021-08-07	0.75542	58.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	2519	13201
 ukr-pol	tatoeba-test-v2021-08-07	0.74913	57.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	2519	13201
 ukr-pol	tatoeba-test-v2021-08-07	0.74847	57.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-19.zip	2519	13201
 ukr-pol	tatoeba-test-v2021-08-07	0.74649	57.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-23.zip	2519	13201
+ukr-pol	tatoeba-test-v2021-08-07	0.72459	53.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-pol/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-17.zip	2519	13201
 ukr-pol	tatoeba-test-v2021-08-07	0.696	50.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-27.zip	2519	13201
 ukr-pol	tatoeba-test-v2021-08-07	0.683	49.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-pol/opus-2021-02-19.zip	2519	13201
 ukr-pol	tatoeba-test-v2021-08-07	0.687	49.1	https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2020-07-21.zip	2519	13201
@@ -23945,6 +24033,7 @@ ukr-slv	tatoeba-test-v2021-08-07	0.256	11.4	https://object.pouta.csc.fi/Tatoeba-
 ukr-spa	tatoeba-test-v2020-07-28	0.68800	51.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-03-23.zip	10000	58486
 ukr-spa	tatoeba-test-v2020-07-28	0.68540	51.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-03-19.zip	10000	58486
 ukr-spa	tatoeba-test-v2020-07-28	0.68108	50.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-03-14.zip	10000	58486
+ukr-spa	tatoeba-test-v2020-07-28	0.66152	47.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-spa/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10000	58486
 ukr-spa	tatoeba-test-v2020-07-28	0.661	47.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-roa/opus1m-2021-02-18.zip	10000	58486
 ukr-spa	tatoeba-test-v2020-07-28	0.647	46.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-spa/opus-2021-02-19.zip	10000	58486
 ukr-spa	tatoeba-test-v2020-07-28	0.526	31.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10000	58486
@@ -23955,6 +24044,7 @@ ukr-spa	tatoeba-test-v2020-07-28	0.483	26.3	https://object.pouta.csc.fi/Tatoeba-
 ukr-spa	tatoeba-test-v2021-03-30	0.68810	51.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-03-23.zip	10027	58644
 ukr-spa	tatoeba-test-v2021-03-30	0.68545	51.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-03-19.zip	10027	58644
 ukr-spa	tatoeba-test-v2021-03-30	0.68123	50.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-03-14.zip	10027	58644
+ukr-spa	tatoeba-test-v2021-03-30	0.66167	47.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-spa/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10027	58644
 ukr-spa	tatoeba-test-v2021-03-30	0.661	47.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-roa/opus1m-2021-02-18.zip	10027	58644
 ukr-spa	tatoeba-test-v2021-03-30	0.647	46.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-spa/opus-2021-02-19.zip	10027	58644
 ukr-spa	tatoeba-test-v2021-03-30	0.526	31.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10027	58644
@@ -23965,6 +24055,7 @@ ukr-spa	tatoeba-test-v2021-03-30	0.483	26.3	https://object.pouta.csc.fi/Tatoeba-
 ukr-spa	tatoeba-test-v2021-08-07	0.68862	51.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-03-23.zip	10115	59284
 ukr-spa	tatoeba-test-v2021-08-07	0.68612	51.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-03-19.zip	10115	59284
 ukr-spa	tatoeba-test-v2021-08-07	0.68199	50.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-03-14.zip	10115	59284
+ukr-spa	tatoeba-test-v2021-08-07	0.66233	47.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-spa/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-21.zip	10115	59284
 ukr-spa	tatoeba-test-v2021-08-07	0.662	47.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-roa/opus1m-2021-02-18.zip	10115	59284
 ukr-spa	tatoeba-test-v2021-08-07	0.648	46.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-spa/opus-2021-02-19.zip	10115	59284
 ukr-spa	tatoeba-test-v2021-08-07	0.526	31.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-27.zip	10115	59284
