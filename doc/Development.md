@@ -1,6 +1,19 @@
 
 # The Tatoeba Challenge - Development Notes
 
+## Restore symbolic model links
+
+```
+git fetch origin <commit-has-with-all-files>
+git checkout FETCH_HEAD
+find models/ -type l | tar -cf models-links.tar -T -
+git stash
+git checkout master
+tar -xf models-links.tar
+git add models/*/*.yml
+git commit -am 'restored symbolic links'
+git push origin master
+```
 
 ## Prerequistes
 
