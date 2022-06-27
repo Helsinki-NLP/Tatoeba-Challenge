@@ -1,0 +1,48 @@
+release: deu-ara/opusTCv20210807_transformer-big_2022-06-27.zip
+release-date: 2022-06-27
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - deu
+target-languages:
+   - afb
+   - apc
+   - ara
+   - arq
+   - arz
+raw-source-languages:
+   - deu
+raw-target-languages:
+   - afb
+   - apc
+   - ara
+   - arq
+   - arz
+use-target-labels:
+training-data:
+   deu-ara: Tatoeba-train-v2021-08-07.ara-deu.strict (33685609) 
+   deu-arq: Tatoeba-train-v2021-08-07.arq-deu.strict (741) 
+   deu-arz: Tatoeba-train-v2021-08-07.arz-deu.strict (18432) 
+validation-data:
+   afb-deu: Tatoeba-dev-v2021-08-07, 9
+   ara-deu: Tatoeba-dev-v2021-08-07, 977
+   arq-deu: Tatoeba-dev-v2021-08-07, 1
+   arz-deu: Tatoeba-dev-v2021-08-07, 5
+   total-size-shuffled: 992
+   devset-selected: top 992  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.deu-multi: 1208/6323
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.deu-multi: 24.0
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.deu-multi: 0.52306

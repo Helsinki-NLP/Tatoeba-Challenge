@@ -1,0 +1,76 @@
+release: zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip
+release-date: 2022-06-24
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ces
+   - csb
+   - csb_Latn
+   - dsb
+   - hsb
+   - pol
+target-languages:
+   - deu
+raw-source-languages:
+   - ces
+   - csb
+   - dsb
+   - hsb
+   - pol
+raw-target-languages:
+   - deu
+training-data:
+   ces-deu: Tatoeba-train-v2021-08-07.ces-deu.strict (71149203) 
+   csb-deu: Tatoeba-train-v2021-08-07.csb-deu.strict (2) 
+   csb_Latn-deu: Tatoeba-train-v2021-08-07.csb_Latn-deu.strict (14685) 
+   dsb-deu: Tatoeba-train-v2021-08-07.deu-dsb.strict (23072) 
+   hsb-deu: Tatoeba-train-v2021-08-07.deu-hsb.strict (33305) 
+   pol-deu: Tatoeba-train-v2021-08-07.deu-pol.strict (26449663) 
+validation-data:
+   ces-deu: Tatoeba-dev-v2021-08-07, 1121
+   csb_Latn-deu: Tatoeba-dev-v2021-08-07, 1000
+   deu-dsb: Tatoeba-dev-v2021-08-07, 976
+   deu-hsb: Tatoeba-dev-v2021-08-07, 957
+   deu-pol: Tatoeba-dev-v2021-08-07, 5594
+   total-size-shuffled: 4895
+   devset-selected: top 4895  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newssyscomb2009.ces-deu: 502/11271
+   news-test2008.ces-deu: 2051/47427
+   newstest2009.ces-deu: 2525/62816
+   newstest2010.ces-deu: 2489/61511
+   newstest2011.ces-deu: 3003/72981
+   newstest2012.ces-deu: 3003/72886
+   newstest2013.ces-deu: 3000/63737
+   newstest2019-csde.ces-deu: 1997/48969
+   Tatoeba-test-v2021-08-07.multi-deu: 9824/74086
+BLEU-scores:
+   newssyscomb2009.ces-deu: 24.8
+   news-test2008.ces-deu: 23.6
+   newstest2009.ces-deu: 24.5
+   newstest2010.ces-deu: 25.6
+   newstest2011.ces-deu: 24.4
+   newstest2012.ces-deu: 25.6
+   newstest2013.ces-deu: 27.7
+   newstest2019-csde.ces-deu: 26.1
+   Tatoeba-test-v2021-08-07.multi-deu: 50.4
+chr-F-scores:
+   newssyscomb2009.ces-deu: 0.54383
+   news-test2008.ces-deu: 0.54025
+   newstest2009.ces-deu: 0.54317
+   newstest2010.ces-deu: 0.55397
+   newstest2011.ces-deu: 0.53711
+   newstest2012.ces-deu: 0.54185
+   newstest2013.ces-deu: 0.55989
+   newstest2019-csde.ces-deu: 0.54920
+   Tatoeba-test-v2021-08-07.multi-deu: 0.67943

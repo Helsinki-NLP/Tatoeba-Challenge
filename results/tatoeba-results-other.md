@@ -21,20 +21,28 @@ to be useful for anything.
 | [ben-eng/opus+bt](../models/ben-eng) | tico19-test | 0.470 | 19.1 |
 | [ben-eng/opus](../models/ben-eng) | tico19-test | 0.425 | 15.8 |
 | | lang = ces-deu | | | | |
+| [zlw-deu/opusTCv20210807_transformer-big](../models/zlw-deu) | newssyscomb2009 | 0.54383 | 24.8 |
 | [ces-deu/opus](../models/ces-deu) | newssyscomb2009 | 0.521 | 22.1 |
 | [ine-ine/opus](../models/ine-ine) | newssyscomb2009 | 0.432 | 13.1 |
+| [zlw-deu/opusTCv20210807_transformer-big](../models/zlw-deu) | news-test2008 | 0.54025 | 23.6 |
 | [ces-deu/opus](../models/ces-deu) | news-test2008 | 0.521 | 21.1 |
 | [ine-ine/opus](../models/ine-ine) | news-test2008 | 0.422 | 12.0 |
+| [zlw-deu/opusTCv20210807_transformer-big](../models/zlw-deu) | newstest2009 | 0.54317 | 24.5 |
 | [ces-deu/opus](../models/ces-deu) | newstest2009 | 0.526 | 21.9 |
 | [ine-ine/opus](../models/ine-ine) | newstest2009 | 0.427 | 12.9 |
+| [zlw-deu/opusTCv20210807_transformer-big](../models/zlw-deu) | newstest2010 | 0.55397 | 25.6 |
 | [ces-deu/opus](../models/ces-deu) | newstest2010 | 0.531 | 22.6 |
 | [ine-ine/opus](../models/ine-ine) | newstest2010 | 0.431 | 13.1 |
+| [zlw-deu/opusTCv20210807_transformer-big](../models/zlw-deu) | newstest2011 | 0.53711 | 24.4 |
 | [ces-deu/opus](../models/ces-deu) | newstest2011 | 0.519 | 21.9 |
 | [ine-ine/opus](../models/ine-ine) | newstest2011 | 0.423 | 13.1 |
+| [zlw-deu/opusTCv20210807_transformer-big](../models/zlw-deu) | newstest2012 | 0.54185 | 25.6 |
 | [ces-deu/opus](../models/ces-deu) | newstest2012 | 0.519 | 22.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.420 | 13.1 |
+| [zlw-deu/opusTCv20210807_transformer-big](../models/zlw-deu) | newstest2013 | 0.55989 | 27.7 |
 | [ces-deu/opus](../models/ces-deu) | newstest2013 | 0.540 | 25.0 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.434 | 14.3 |
+| [zlw-deu/opusTCv20210807_transformer-big](../models/zlw-deu) | newstest2019 | 0.54920 | 26.1 |
 | [ces-deu/opus](../models/ces-deu) | newstest2019 | 0.534 | 23.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2019 | 0.432 | 13.9 |
 | | lang = ces-eng | | | | |
@@ -295,20 +303,28 @@ to be useful for anything.
 | | lang = dan-ukr | | | | |
 | [gmq-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/gmq-ukr) | flores101 | 0.51989 | 22.6 |
 | | lang = deu-ces | | | | |
+| [deu-zlw/opusTCv20210807_transformer-big](../models/deu-zlw) | newssyscomb2009 | 0.51989 | 24.3 |
 | [deu-ces/opus](../models/deu-ces) | newssyscomb2009 | 0.502 | 23.0 |
 | [ine-ine/opus](../models/ine-ine) | newssyscomb2009 | 0.381 | 10.5 |
+| [deu-zlw/opusTCv20210807_transformer-big](../models/deu-zlw) | news-test2008 | 0.50867 | 22.5 |
 | [deu-ces/opus](../models/deu-ces) | news-test2008 | 0.491 | 20.6 |
 | [ine-ine/opus](../models/ine-ine) | news-test2008 | 0.369 | 9.9 |
+| [deu-zlw/opusTCv20210807_transformer-big](../models/deu-zlw) | newstest2009 | 0.50404 | 22.7 |
 | [deu-ces/opus](../models/deu-ces) | newstest2009 | 0.487 | 20.9 |
 | [ine-ine/opus](../models/ine-ine) | newstest2009 | 0.370 | 10.3 |
+| [deu-zlw/opusTCv20210807_transformer-big](../models/deu-zlw) | newstest2010 | 0.53479 | 25.6 |
 | [deu-ces/opus](../models/deu-ces) | newstest2010 | 0.511 | 22.7 |
 | [ine-ine/opus](../models/ine-ine) | newstest2010 | 0.387 | 11.4 |
+| [deu-zlw/opusTCv20210807_transformer-big](../models/deu-zlw) | newstest2011 | 0.50351 | 22.5 |
 | [deu-ces/opus](../models/deu-ces) | newstest2011 | 0.489 | 21.2 |
 | [ine-ine/opus](../models/ine-ine) | newstest2011 | 0.376 | 11.2 |
+| [deu-zlw/opusTCv20210807_transformer-big](../models/deu-zlw) | newstest2012 | 0.49827 | 22.4 |
 | [deu-ces/opus](../models/deu-ces) | newstest2012 | 0.481 | 20.9 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.368 | 11.2 |
+| [deu-zlw/opusTCv20210807_transformer-big](../models/deu-zlw) | newstest2013 | 0.52310 | 25.6 |
 | [deu-ces/opus](../models/deu-ces) | newstest2013 | 0.505 | 23.4 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.380 | 11.7 |
+| [deu-zlw/opusTCv20210807_transformer-big](../models/deu-zlw) | newstest2019 | 0.50959 | 23.3 |
 | [deu-ces/opus](../models/deu-ces) | newstest2019 | 0.496 | 21.9 |
 | [ine-ine/opus](../models/ine-ine) | newstest2019 | 0.383 | 11.7 |
 | | lang = deu-eng | | | | |
@@ -2914,15 +2930,15 @@ to be useful for anything.
 | [zle-roa/opus1m](../models/zle-roa) | newstest2012 | 0.509 | 21.5 |
 | [rus-fra/opus](../models/rus-fra) | newstest2012 | 0.485 | 18.3 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.427 | 13.3 |
-| [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | newstest2013 | 0.56211 | 29.7 |
+| [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | newstest2013 | 0.56394 | 29.9 |
 | [zle-roa/opus1m](../models/zle-roa) | newstest2013 | 0.528 | 24.9 |
 | [rus-fra/opus](../models/rus-fra) | newstest2013 | 0.499 | 21.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.434 | 14.8 |
 | | lang = rus-spa | | | | |
-| [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | newstest2012 | 0.55185 | 29.0 |
+| [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | newstest2012 | 0.55215 | 29.1 |
 | [zle-roa/opus1m](../models/zle-roa) | newstest2012 | 0.525 | 25.6 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.437 | 16.6 |
-| [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | newstest2013 | 0.56887 | 32.0 |
+| [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | newstest2013 | 0.56936 | 31.9 |
 | [zle-roa/opus1m](../models/zle-roa) | newstest2013 | 0.535 | 27.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.446 | 17.9 |
 | | lang = slk-ukr | | | | |

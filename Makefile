@@ -509,6 +509,14 @@ upload-models:
 	swift upload ${MODEL_CONTAINER} index.txt
 	rm -f index.txt
 
+.PHONY: upload-model-index
+upload-model-index:
+	swift post ${MODEL_CONTAINER} --read-acl ".r:*"
+	swift list ${MODEL_CONTAINER} > index.txt
+	swift upload ${MODEL_CONTAINER} index.txt
+	rm -f index.txt
+
+
 
 .PHONY: released-model-list
 released-model-list: 	models/results/tatoeba-test-${VERSION}.txt \
