@@ -666,6 +666,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus+bt-2021-04-19.zip	eng
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2020-07-14.zip	eng-zho	en-zh	0.265	31.1	English	Chinese
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2020-07-17.zip	eng-zho	en-zh	0.268	31.4	English	Chinese
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opus-2021-02-23.zip	eng-zho	en-zh	0.267	31.6	English	Chinese
+https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zho/opusTCv20210807+bt_transformer-big_2022-05-14.zip	eng-zho	en-zh	0.26573	31.1	English	Chinese
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opus-2020-06-28.zip	eng-zle	en-zle	0.570	35.6	English	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opus-2020-07-27.zip	eng-zle	en-zle	0.564	35.3	English	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opus1m+bt-2021-04-10.zip	eng-zle	en-zle	0.574	35.7	English	East Slavic languages
@@ -1613,6 +1614,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zls/opusTCv20210807+bt_transfo
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-07.zip	zle-zlw	zle-zlw	0.71877	54.3	East Slavic languages	West Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-19.zip	zle-zlw	zle-zlw	0.71844	54.3	East Slavic languages	West Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+bt_transformer-big_2022-03-23.zip	zle-zlw	zle-zlw	0.71837	54.4	East Slavic languages	West Slavic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/zle-zlw/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	zle-zlw	zle-zlw	0.71863	54.6	East Slavic languages	West Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-eng/opus-2020-06-28.zip	zls-eng	zls-en	0.671	52.8	South Slavic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-eng/opus-2020-07-04.zip	zls-eng	zls-en	0.648	50.5	South Slavic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-eng/opus-2020-07-27.zip	zls-eng	zls-en	0.668	52.5	South Slavic languages	English
@@ -1641,6 +1643,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-fiu/opus-2021-02-18.zip	zlw-fi
 https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-07.zip	zlw-zle	zlw-zle	0.70695	52.8	West Slavic languages	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-19.zip	zlw-zle	zlw-zle	0.71039	53.3	West Slavic languages	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	zlw-zle	zlw-zle	0.71203	53.5	West Slavic languages	East Slavic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	zlw-zle	zlw-zle	0.71063	53.5	West Slavic languages	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zlw/opus-2020-07-27.zip	zlw-zlw	zlw-zlw	0.580	38.8	West Slavic languages	West Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zlw/opus-2020-10-04.zip	zlw-zlw	zlw-zlw	0.633	45.2	West Slavic languages	West Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-zlw/opus-2021-02-23.zip	zlw-zlw	zlw-zlw	0.592	40.2	West Slavic languages	West Slavic languages
