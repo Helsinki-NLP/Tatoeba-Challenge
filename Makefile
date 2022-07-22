@@ -500,8 +500,8 @@ update-git:
 upload-models:
 	which a-put
 	find ${MODEL_RELEASEDIR}/ -type l | tar -cf models-links.tar -T -
-	find ${MODEL_RELEASEDIR}/ -type l -delete
-	cd ${MODEL_RELEASEDIR} && swift upload ${MODEL_CONTAINER} --changed --skip-identical ${RELEASED_MODELS}
+	-find ${MODEL_RELEASEDIR}/ -type l -delete
+	-cd ${MODEL_RELEASEDIR} && swift upload ${MODEL_CONTAINER} --changed --skip-identical ${RELEASED_MODELS}
 	tar -xf models-links.tar
 	rm -f models-links.tar
 	swift post ${MODEL_CONTAINER} --read-acl ".r:*"
