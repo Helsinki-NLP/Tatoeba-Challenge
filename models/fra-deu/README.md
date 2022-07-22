@@ -26,6 +26,7 @@
 | Tatoeba-test.fra.deu 	| 49.5 	| 0.678 |
 | Tatoeba-test.fra-deu.fra.deu 	| 49.5 	| 0.678 |
 
+
 # opus-2021-02-18.zip
 
 * dataset: opus
@@ -53,6 +54,7 @@
 | newstest2019-frde.fra-deu 	| 27.3 	| 0.593 	| 1701 	| 36571 	| 1.000 |
 | Tatoeba-test.fra-deu 	| 48.2 	| 0.668 	| 10000 	| 80271 	| 0.996 |
 
+
 # opus-2021-02-22.zip
 
 * dataset: opus
@@ -79,4 +81,34 @@
 | newstest2013.fra-deu 	| 24.1 	| 0.535 	| 3000 	| 63737 	| 1.000 |
 | newstest2019-frde.fra-deu 	| 27.9 	| 0.598 	| 1701 	| 36571 	| 1.000 |
 | Tatoeba-test.fra-deu 	| 48.7 	| 0.671 	| 10000 	| 80271 	| 0.994 |
+
+
+# opusTCv20210807_transformer-big_2022-07-22.zip
+
+* dataset: opusTCv20210807
+* model: transformer-big
+* source language(s): fra
+* target language(s): deu
+* raw source language(s): fra
+* raw target language(s): deu
+* model: transformer-big
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opusTCv20210807_transformer-big_2022-07-22.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opusTCv20210807_transformer-big_2022-07-22.zip)
+* test set translations: [opusTCv20210807_transformer-big_2022-07-22.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opusTCv20210807_transformer-big_2022-07-22.test.txt)
+* test set scores: [opusTCv20210807_transformer-big_2022-07-22.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opusTCv20210807_transformer-big_2022-07-22.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| euelections_dev2019.fr-de.fra-deu 	| 30.2 	| 0.59501 	| 1512 	| 33478 	| 1.000 |
+| newssyscomb2009.fra-deu 	| 24.2 	| 0.53970 	| 502 	| 11271 	| 0.974 |
+| news-test2008.fra-deu 	| 24.3 	| 0.54008 	| 2051 	| 47427 	| 1.000 |
+| newstest2009.fra-deu 	| 23.7 	| 0.53423 	| 2525 	| 62816 	| 0.990 |
+| newstest2010.fra-deu 	| 24.8 	| 0.54376 	| 2489 	| 61511 	| 0.976 |
+| newstest2011.fra-deu 	| 24.0 	| 0.53647 	| 3003 	| 72981 	| 1.000 |
+| newstest2012.fra-deu 	| 24.9 	| 0.53552 	| 3003 	| 72886 	| 0.982 |
+| newstest2013.fra-deu 	| 27.0 	| 0.55066 	| 3000 	| 63737 	| 1.000 |
+| newstest2019-frde.fra-deu 	| 32.1 	| 0.62265 	| 1701 	| 36571 	| 1.000 |
+| Tatoeba-test-v2021-08-07.fra-deu 	| 52.1 	| 0.70133 	| 10000 	| 81031 	| 0.996 |
 

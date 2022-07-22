@@ -47,6 +47,8 @@ to be useful for anything.
 | | lang = hun-ukr | | | | |
 | [hun-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/hun-ukr) | tatoeba-v2021-08-07 | 0.61451 | 40.4 |
 | [hun-ukr/opusTCv20210807+pbt_transformer-align](../models/hun-ukr) | tatoeba-v2021-08-07 | 0.61006 | 38.1 |
+| | lang = isl-deu | | | | |
+| [gmq-deu/opusTCv20210807_transformer-big](../models/gmq-deu) | tatoeba-v2021-08-07 | 0.68984 | 52.7 |
 | | lang = ita-ukr | | | | |
 | [ita-zle/opusTCv20210807_transformer-big](../models/ita-zle) | tatoeba-v2021-08-07 | 0.67483 | 48.3 |
 | | lang = ltz-eng | | | | |

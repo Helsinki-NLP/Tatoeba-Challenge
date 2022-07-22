@@ -1,0 +1,38 @@
+release: por-fin/opusTCv20210807_transformer-big_2022-07-22.zip
+release-date: 2022-07-22
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - pob
+   - por
+target-languages:
+   - fin
+raw-source-languages:
+   - pob
+   - por
+raw-target-languages:
+   - fin
+training-data:
+   pob-fin: Tatoeba-train-v2021-08-07.fin-pob.strict (23752877) 
+   por-fin: Tatoeba-train-v2021-08-07.fin-por.strict (42942483) 
+validation-data:
+   fin-pob: Tatoeba-dev-v2021-08-07, 139
+   fin-por: Tatoeba-dev-v2021-08-07, 787
+   total-size-shuffled: 924
+   devset-selected: top 924  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.multi-fin: 477/2379
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.multi-fin: 64.4
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.multi-fin: 0.79197

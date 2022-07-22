@@ -1,0 +1,54 @@
+release: deu-bat/opusTCv20210807_transformer-big_2022-07-22.zip
+release-date: 2022-07-22
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - deu
+target-languages:
+   - lav
+   - lit
+   - ltg
+   - prg_Latn
+raw-source-languages:
+   - deu
+raw-target-languages:
+   - lav
+   - lit
+   - ltg
+   - prg
+use-target-labels:
+training-data:
+   deu-lav: Tatoeba-train-v2021-08-07.deu-lav.strict (19941291) 
+   deu-lit: Tatoeba-train-v2021-08-07.deu-lit.strict (27673567) 
+   deu-ltg: Tatoeba-train-v2021-08-07.deu-ltg.strict (5684) 
+validation-data:
+   deu-lav: Tatoeba-dev-v2021-08-07, 826
+   deu-lit: Tatoeba-dev-v2021-08-07, 354
+   deu-ltg: Tatoeba-dev-v2021-08-07, 1
+   total-size-shuffled: 1176
+   devset-selected: top 1176  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.deu-lav: 121/679
+   Tatoeba-test-v2021-08-07.deu-lit: 1115/7072
+   Tatoeba-test-v2021-08-07.deu-prg: 66/386
+   Tatoeba-test-v2021-08-07.deu-multi: 1236/7770
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.deu-lav: 56.9
+   Tatoeba-test-v2021-08-07.deu-lit: 38.2
+   Tatoeba-test-v2021-08-07.deu-prg: 0.9
+   Tatoeba-test-v2021-08-07.deu-multi: 40.2
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.deu-lav: 0.75426
+   Tatoeba-test-v2021-08-07.deu-lit: 0.64481
+   Tatoeba-test-v2021-08-07.deu-prg: 0.13687
+   Tatoeba-test-v2021-08-07.deu-multi: 0.65583

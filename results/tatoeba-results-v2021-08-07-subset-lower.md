@@ -11,6 +11,8 @@ to be useful for anything.
 | | lang = fao-eng | | | | |
 | [gmq-eng/opusTCv20210807+bt_transformer-big](../models/gmq-eng) | tatoeba-v2021-08-07 | 0.48235 | 31.3 |
 | [gmq-eng/opus4m+btTCv20210807](../models/gmq-eng) | tatoeba-v2021-08-07 | 0.3680 | 15.3 |
+| | lang = gla-spa | | | | |
+| [cel-itc/opusTCv20210807_transformer-big](../models/cel-itc) | tatoeba-v2021-08-07 | 0.24514 | 7.3 |
 | | lang = heb-ina | | | | |
 | [afa-art/opus4m+btTCv20210807](../models/afa-art) | tatoeba-v2021-08-07 | 0.239 | 5.4 |
 | | lang = ukr-ukr | | | | |

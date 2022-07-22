@@ -1,0 +1,55 @@
+release: spa-deu/opusTCv20210807_transformer-big_2022-07-22.zip
+release-date: 2022-07-22
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - spa
+target-languages:
+   - deu
+raw-source-languages:
+   - spa
+raw-target-languages:
+   - deu
+training-data:
+   spa-deu: Tatoeba-train-v2021-08-07.deu-spa.strict (206334032) 
+validation-data:
+   deu-spa: Tatoeba-dev-v2021-08-07, 74631
+   total-size-shuffled: 74631
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newssyscomb2009.spa-deu: 502/11271
+   news-test2008.spa-deu: 2051/47427
+   newstest2009.spa-deu: 2525/62816
+   newstest2010.spa-deu: 2489/61511
+   newstest2011.spa-deu: 3003/72981
+   newstest2012.spa-deu: 3003/72886
+   newstest2013.spa-deu: 3000/63737
+   Tatoeba-test-v2021-08-07.spa-deu: 10000/82161
+BLEU-scores:
+   newssyscomb2009.spa-deu: 22.4
+   news-test2008.spa-deu: 23.0
+   newstest2009.spa-deu: 22.9
+   newstest2010.spa-deu: 27.2
+   newstest2011.spa-deu: 24.7
+   newstest2012.spa-deu: 25.9
+   newstest2013.spa-deu: 27.7
+   Tatoeba-test-v2021-08-07.spa-deu: 51.6
+chr-F-scores:
+   newssyscomb2009.spa-deu: 0.53353
+   news-test2008.spa-deu: 0.52648
+   newstest2009.spa-deu: 0.53100
+   newstest2010.spa-deu: 0.55990
+   newstest2011.spa-deu: 0.53578
+   newstest2012.spa-deu: 0.54339
+   newstest2013.spa-deu: 0.55919
+   Tatoeba-test-v2021-08-07.spa-deu: 0.69675
