@@ -20,7 +20,9 @@ deu-por	tatoeba-test-v2021-08-07	0.62723	42.3	https://object.pouta.csc.fi/Tatoeb
 deu-tur	tatoeba-test-v2021-08-07	0.64722	36.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tur/opusTCv20210807_transformer-big_2022-06-27.zip	5000	29200
 deu-vie	tatoeba-test-v2021-08-07	0.45467	25.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-vie/opusTCv20210807_transformer-big_2022-06-27.zip	400	3768
 dsb-deu	tatoeba-test-v2021-08-07	0.54993	35.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	640	4469
+eus-spa	tatoeba-test-v2021-08-07	0.68019	50.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eus-itc/opusTCv20210807_transformer-big_2022-07-23.zip	1850	12469
 fas-deu	tatoeba-test-v2021-08-07	0.59989	38.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-deu/opusTCv20210807_transformer-big_2022-07-22.zip	3185	25590
+fas-fra	tatoeba-test-v2021-08-07	0.57949	37.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	376	3377
 fin-fra	tatoeba-test-v2021-08-07	0.66118	51.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-fra/opusTCv20210807_transformer-big_2022-06-23.zip	1920	12193
 fin-ita	tatoeba-test-v2021-08-07	0.68005	46.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-ita/opusTCv20210807_transformer-big_2022-06-23.zip	1039	6710
 fin-pol	tatoeba-test-v2021-08-07	0.67906	49.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zlw/opusTCv20210807_transformer-big_2022-07-22.zip	609	3513
@@ -35,6 +37,8 @@ hsb-deu	tatoeba-test-v2021-08-07	0.59196	40.5	https://object.pouta.csc.fi/Tatoeb
 isl-deu	tatoeba-test-v2021-08-07	0.69052	52.9	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	969	6279
 ita-fin	tatoeba-test-v2021-08-07	0.69760	45.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-fin/opusTCv20210807_transformer-big_2022-06-23.zip	1039	5438
 lit-deu	tatoeba-test-v2021-08-07	0.48905	26.9	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-deu/opusTCv20210807_transformer-big_2022-07-22.zip	1115	8531
+lit-ita	tatoeba-test-v2021-08-07	0.40740	18.4	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-itc/opusTCv20210807_transformer-big_2022-07-23.zip	224	1505
+lit-spa	tatoeba-test-v2021-08-07	0.46443	25.7	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-itc/opusTCv20210807_transformer-big_2022-07-23.zip	454	2751
 nob-deu	tatoeba-test-v2021-08-07	0.70369	51.1	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	3525	33592
 pol-deu	tatoeba-test-v2021-08-07	0.68539	50.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	5000	37421
 pol-fin	tatoeba-test-v2021-08-07	0.66352	44.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-fin/opusTCv20210807_transformer-big_2022-07-22.zip	609	3293
