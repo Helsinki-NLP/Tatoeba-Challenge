@@ -892,6 +892,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/glg-eng/opus-2021-02-19.zip	glg-en
 https://object.pouta.csc.fi/Tatoeba-MT-models/glg-por/opus-2020-06-16.zip	glg-por	gl-pt	0.758	57.9	Galician	Portuguese
 https://object.pouta.csc.fi/Tatoeba-MT-models/glg-por/opus-2021-02-23.zip	glg-por	gl-pt	0.756	58.5	Galician	Portuguese
 https://object.pouta.csc.fi/Tatoeba-MT-models/glg-spa/opus-2021-02-19.zip	glg-spa	gl-es	0.836	72.2	Galician	Spanish
+https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-bat/opusTCv20210807_transformer-big_2022-07-23.zip	gmq-bat	gmq-bat	0.49819	17.5	North Germanic languages	Baltic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	gmq-deu	gmq-de	0.73512	56.7	North Germanic languages	German
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus-2020-06-28.zip	gmq-eng	gmq-en	0.718	57.4	North Germanic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus-2020-07-04.zip	gmq-eng	gmq-en	0.728	58.9	North Germanic languages	English

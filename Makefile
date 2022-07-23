@@ -499,6 +499,10 @@ update-git:
 .PHONY: upload-models
 upload-models:
 	which a-put
+	if [ -e models-links.tar ]; then \
+	  tar -xf models-links.tar; \
+	  rm -f models-links.tar; \
+	fi
 	find ${MODEL_RELEASEDIR}/ -type l | tar -cf models-links.tar -T -
 	-find ${MODEL_RELEASEDIR}/ -type l -delete
 	-cd ${MODEL_RELEASEDIR} && swift upload ${MODEL_CONTAINER} --changed --skip-identical ${RELEASED_MODELS}

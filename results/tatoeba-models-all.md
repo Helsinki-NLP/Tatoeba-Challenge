@@ -892,6 +892,7 @@ For multilingual models, it is a mix of all language pairs
 | [glg-por/opus](../models/glg-por) | 0.758 | 57.9 |
 | [glg-por/opus](../models/glg-por) | 0.756 | 58.5 |
 | [glg-spa/opus](../models/glg-spa) | 0.836 | 72.2 |
+| [gmq-bat/opusTCv20210807_transformer-big](../models/gmq-bat) | 0.49819 | 17.5 |
 | [gmq-deu/opusTCv20210807_transformer-big](../models/gmq-deu) | 0.73512 | 56.7 |
 | [gmq-eng/opus](../models/gmq-eng) | 0.728 | 58.9 |
 | [gmq-eng/opus](../models/gmq-eng) | 0.718 | 57.4 |
