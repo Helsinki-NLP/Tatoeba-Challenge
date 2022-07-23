@@ -512,6 +512,9 @@ upload-models:
 	swift list ${MODEL_CONTAINER} > index.txt
 	swift upload ${MODEL_CONTAINER} index.txt
 	rm -f index.txt
+	for m in ${RELEASED_MODELS}; do \
+	  rm -f ${MODEL_RELEASEDIR}/$$m/*.zip; \
+	done
 
 .PHONY: upload-model-index
 upload-model-index:

@@ -56,6 +56,8 @@ to be useful for anything.
 | | lang = nor-ukr | | | | |
 | [gmq-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/gmq-ukr) | tatoeba-v2021-08-07 | 0.64959 | 41.9 |
 | [gmq-zle/opusTCv20210807+pbt_transformer-big](../models/gmq-zle) | tatoeba-v2021-08-07 | 0.64550 | 40.9 |
+| | lang = nor-zho | | | | |
+| [gmq-zho/opusTCv20210807_transformer-big](../models/gmq-zho) | tatoeba-v2021-08-07 | 0.21734 | 24.5 |
 | | lang = oci-eng | | | | |
 | [cat+oci+spa-eng/opusTCv20210807+bt_transformer-big](../models/cat+oci+spa-eng) | tatoeba-v2021-08-07 | 0.36347 | 19.3 |
 | | lang = pol-bel | | | | |
@@ -85,3 +87,5 @@ to be useful for anything.
 | [zle-por/opusTCv20210807_transformer-big](../models/zle-por) | tatoeba-v2021-08-07 | 0.65006 | 44.6 |
 | | lang = ukr-slv | | | | |
 | [zle-zls/opusTCv20210807+bt_transformer-big](../models/zle-zls) | tatoeba-v2021-08-07 | 0.29052 | 14.9 |
+| | lang = zho-nor | | | | |
+| [zho-gmq/opusTCv20210807_transformer-big](../models/zho-gmq) | tatoeba-v2021-08-07 | 0.52814 | 33.9 |

@@ -1,0 +1,74 @@
+release: itc-eus/opusTCv20210807_transformer-big_2022-07-23.zip
+release-date: 2022-07-23
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fra
+   - ita
+   - lat_Latn
+   - mwl
+   - pob
+   - por
+   - spa
+target-languages:
+   - eus
+raw-source-languages:
+   - fra
+   - ita
+   - lat
+   - mwl
+   - pob
+   - por
+   - spa
+raw-target-languages:
+   - eus
+training-data:
+   fra-eus: Tatoeba-train-v2021-08-07.eus-fra.strict (1535891) 
+   ita-eus: Tatoeba-train-v2021-08-07.eus-ita.strict (3136335) 
+   mwl-eus: Tatoeba-train-v2021-08-07.eus-mwl.strict (2763) 
+   pob-eus: Tatoeba-train-v2021-08-07.eus-pob.strict (750313) 
+   por-eus: Tatoeba-train-v2021-08-07.eus-por.strict (3047546) 
+   spa-eus: Tatoeba-train-v2021-08-07.eus-spa.strict (13354717) 
+validation-data:
+   eus-fra: Tatoeba-dev-v2021-08-07, 876
+   eus-ita: Tatoeba-dev-v2021-08-07, 1000
+   eus-mwl: Tatoeba-dev-v2021-08-07, 1000
+   eus-pob: Tatoeba-dev-v2021-08-07, 186
+   eus-por: Tatoeba-dev-v2021-08-07, 814
+   eus-spa: Tatoeba-dev-v2021-08-07, 992
+   total-size-shuffled: 4867
+   devset-selected: top 4867  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.fra-eus: 144/811
+   Tatoeba-test-v2021-08-07.ita-eus: 62/351
+   Tatoeba-test-v2021-08-07.lat-eus: 1/17
+   Tatoeba-test-v2021-08-07.mwl-eus: 1/4
+   Tatoeba-test-v2021-08-07.multi-eus: 2058/12116
+   Tatoeba-test-v2021-08-07.por-eus: 1/5
+   Tatoeba-test-v2021-08-07.spa-eus: 1850/10939
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.fra-eus: 27.2
+   Tatoeba-test-v2021-08-07.ita-eus: 29.5
+   Tatoeba-test-v2021-08-07.lat-eus: 3.4
+   Tatoeba-test-v2021-08-07.mwl-eus: 19.0
+   Tatoeba-test-v2021-08-07.multi-eus: 32.1
+   Tatoeba-test-v2021-08-07.por-eus: 100.0
+   Tatoeba-test-v2021-08-07.spa-eus: 32.2
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.fra-eus: 0.53646
+   Tatoeba-test-v2021-08-07.ita-eus: 0.61906
+   Tatoeba-test-v2021-08-07.lat-eus: 0.22748
+   Tatoeba-test-v2021-08-07.mwl-eus: 0.29796
+   Tatoeba-test-v2021-08-07.multi-eus: 0.60335
+   Tatoeba-test-v2021-08-07.por-eus: 10.00000
+   Tatoeba-test-v2021-08-07.spa-eus: 0.60500

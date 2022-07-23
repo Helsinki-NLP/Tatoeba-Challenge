@@ -1,0 +1,83 @@
+release: zho-deu/opusTCv20210807_transformer-big_2022-07-23.zip
+release-date: 2022-07-23
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - cmn
+   - cmn_Hans
+   - cmn_Hant
+   - lzh
+   - lzh_Hans
+   - nan
+   - wuu
+   - yue_Hans
+   - yue_Hant
+target-languages:
+   - deu
+raw-source-languages:
+   - cmn
+   - lzh
+   - nan
+   - wuu
+   - yue
+raw-target-languages:
+   - deu
+training-data:
+   cmn-deu: Tatoeba-train-v2021-08-07.cmn-deu.strict (561339) 
+   cmn_Hans-deu: Tatoeba-train-v2021-08-07.cmn_Hans-deu.strict (11175798) 
+   cmn_Hant-deu: Tatoeba-train-v2021-08-07.cmn_Hant-deu.strict (4366510) 
+   nan-deu: Tatoeba-train-v2021-08-07.deu-nan.strict (105) 
+   wuu-deu: Tatoeba-train-v2021-08-07.deu-wuu.strict (18335) 
+   yue_Hans-deu: Tatoeba-train-v2021-08-07.deu-yue_Hans.strict (112) 
+   yue_Hant-deu: Tatoeba-train-v2021-08-07.deu-yue_Hant.strict (5593) 
+validation-data:
+   cmn-deu: Tatoeba-dev-v2021-08-07, 7
+   cmn_Hans-deu: Tatoeba-dev-v2021-08-07, 3045
+   cmn_Hant-deu: Tatoeba-dev-v2021-08-07, 1554
+   deu-lzh: Tatoeba-dev-v2021-08-07, 34
+   deu-lzh_Hans: Tatoeba-dev-v2021-08-07, 1
+   deu-wuu: Tatoeba-dev-v2021-08-07, 22
+   deu-yue_Hans: Tatoeba-dev-v2021-08-07, 68
+   deu-yue_Hant: Tatoeba-dev-v2021-08-07, 88
+   total-size-shuffled: 2220
+   devset-selected: top 2220  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.cmn-deu: 3/17
+   Tatoeba-test-v2021-08-07.cmn_Hans-deu: 2609/20799
+   Tatoeba-test-v2021-08-07.cmn_Hant-deu: 1242/8524
+   Tatoeba-test-v2021-08-07.lzh-deu: 12/93
+   Tatoeba-test-v2021-08-07.lzh_Hans-deu: 1/16
+   Tatoeba-test-v2021-08-07.multi-deu: 3944/29951
+   Tatoeba-test-v2021-08-07.wuu-deu: 10/57
+   Tatoeba-test-v2021-08-07.yue_Hans-deu: 26/182
+   Tatoeba-test-v2021-08-07.yue_Hant-deu: 41/254
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.cmn-deu: 13.9
+   Tatoeba-test-v2021-08-07.cmn_Hans-deu: 28.4
+   Tatoeba-test-v2021-08-07.cmn_Hant-deu: 34.1
+   Tatoeba-test-v2021-08-07.lzh-deu: 9.8
+   Tatoeba-test-v2021-08-07.lzh_Hans-deu: 3.4
+   Tatoeba-test-v2021-08-07.multi-deu: 29.9
+   Tatoeba-test-v2021-08-07.wuu-deu: 15.6
+   Tatoeba-test-v2021-08-07.yue_Hans-deu: 18.7
+   Tatoeba-test-v2021-08-07.yue_Hant-deu: 22.0
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.cmn-deu: 0.37052
+   Tatoeba-test-v2021-08-07.cmn_Hans-deu: 0.50085
+   Tatoeba-test-v2021-08-07.cmn_Hant-deu: 0.53874
+   Tatoeba-test-v2021-08-07.lzh-deu: 0.28282
+   Tatoeba-test-v2021-08-07.lzh_Hans-deu: 0.14108
+   Tatoeba-test-v2021-08-07.multi-deu: 0.50957
+   Tatoeba-test-v2021-08-07.wuu-deu: 0.38595
+   Tatoeba-test-v2021-08-07.yue_Hans-deu: 0.42230
+   Tatoeba-test-v2021-08-07.yue_Hant-deu: 0.40758

@@ -1,0 +1,69 @@
+release: zls-fin/opusTCv20210807_transformer-big_2022-07-23.zip
+release-date: 2022-07-23
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bos_Cyrl
+   - bos_Latn
+   - bul
+   - hbs
+   - hbs_Cyrl
+   - hrv
+   - slv
+   - srp_Cyrl
+   - srp_Latn
+target-languages:
+   - fin
+raw-source-languages:
+   - bos
+   - bul
+   - hbs
+   - hrv
+   - slv
+   - srp
+raw-target-languages:
+   - fin
+training-data:
+   bos_Cyrl-fin: Tatoeba-train-v2021-08-07.bos_Cyrl-fin.strict (155) 
+   bos_Latn-fin: Tatoeba-train-v2021-08-07.bos_Latn-fin.strict (7378677) 
+   bul-fin: Tatoeba-train-v2021-08-07.bul-fin.strict (34368995) 
+   hbs-fin: Tatoeba-train-v2021-08-07.fin-hbs.strict (13473) 
+   hbs_Cyrl-fin: Tatoeba-train-v2021-08-07.fin-hbs_Cyrl.strict (305) 
+   hrv-fin: Tatoeba-train-v2021-08-07.fin-hrv.strict (25126541) 
+   slv-fin: Tatoeba-train-v2021-08-07.fin-slv.strict (28852982) 
+   srp_Cyrl-fin: Tatoeba-train-v2021-08-07.fin-srp_Cyrl.strict (4575098) 
+   srp_Latn-fin: Tatoeba-train-v2021-08-07.fin-srp_Latn.strict (18335301) 
+validation-data:
+   bos_Latn-fin: Tatoeba-dev-v2021-08-07, 109
+   bul-fin: Tatoeba-dev-v2021-08-07, 1000
+   fin-hrv: Tatoeba-dev-v2021-08-07, 379
+   fin-slv: Tatoeba-dev-v2021-08-07, 1000
+   fin-srp_Cyrl: Tatoeba-dev-v2021-08-07, 93
+   fin-srp_Latn: Tatoeba-dev-v2021-08-07, 383
+   total-size-shuffled: 2960
+   devset-selected: top 2960  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.bul-fin: 11/79
+   Tatoeba-test-v2021-08-07.hbs-fin: 15/94
+   Tatoeba-test-v2021-08-07.multi-fin: 58/337
+   Tatoeba-test-v2021-08-07.slv-fin: 32/164
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.bul-fin: 76.3
+   Tatoeba-test-v2021-08-07.hbs-fin: 62.5
+   Tatoeba-test-v2021-08-07.multi-fin: 55.7
+   Tatoeba-test-v2021-08-07.slv-fin: 37.1
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.bul-fin: 0.79205
+   Tatoeba-test-v2021-08-07.hbs-fin: 0.77167
+   Tatoeba-test-v2021-08-07.multi-fin: 0.68311
+   Tatoeba-test-v2021-08-07.slv-fin: 0.58430
