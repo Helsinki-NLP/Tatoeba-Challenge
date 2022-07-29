@@ -30,6 +30,8 @@ to be useful for anything.
 | [cel-eng/opus4m+btTCv20210807](../models/cel-eng) | tatoeba-v2021-08-07 | 0.677 | 51.1 |
 | | lang = deu-bel | | | | |
 | [deu-zle/opusTCv20210807_transformer-big](../models/deu-zle) | tatoeba-v2021-08-07 | 0.53063 | 29.2 |
+| | lang = deu-isl | | | | |
+| [deu-gmq/opusTCv20210807_transformer-big](../models/deu-gmq) | tatoeba-v2021-08-07 | 0.64996 | 47.1 |
 | | lang = eng-bel | | | | |
 | [eng-zle/opusTCv20210807+bt_transformer-big](../models/eng-zle) | tatoeba-v2021-08-07 | 0.50065 | 24.7 |
 | | lang = eng-kaz | | | | |

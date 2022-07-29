@@ -1,0 +1,68 @@
+release: gmq-tur/opusTCv20210807_transformer-big_2022-07-26.zip
+release-date: 2022-07-26
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - dan
+   - fao
+   - nno
+   - nob
+   - swe
+target-languages:
+   - tur
+raw-source-languages:
+   - dan
+   - fao
+   - nno
+   - nob
+   - swe
+raw-target-languages:
+   - tur
+training-data:
+   dan-tur: Tatoeba-train-v2021-08-07.dan-tur.strict (19081746) 
+   fao-tur: Tatoeba-train-v2021-08-07.fao-tur.strict (10795) 
+   nno-tur: Tatoeba-train-v2021-08-07.nno-tur.strict (111633) 
+   nob-tur: Tatoeba-train-v2021-08-07.nob-tur.strict (15797811) 
+   swe-tur: Tatoeba-train-v2021-08-07.swe-tur.strict (33270337) 
+validation-data:
+   dan-tur: Tatoeba-dev-v2021-08-07, 929
+   fao-tur: Tatoeba-dev-v2021-08-07, 1000
+   nno-tur: Tatoeba-dev-v2021-08-07, 7
+   nob-tur: Tatoeba-dev-v2021-08-07, 994
+   swe-tur: Tatoeba-dev-v2021-08-07, 948
+   total-size-shuffled: 3878
+   devset-selected: top 3878  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.dan-tur: 758/3436
+   Tatoeba-test-v2021-08-07.fao-tur: 3/34
+   Tatoeba-test-v2021-08-07.nno-tur: 51/254
+   Tatoeba-test-v2021-08-07.nob-tur: 40/212
+   Tatoeba-test-v2021-08-07.nor-tur: 91/466
+   Tatoeba-test-v2021-08-07.multi-tur: 1055/4944
+   Tatoeba-test-v2021-08-07.swe-tur: 203/1008
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.dan-tur: 44.6
+   Tatoeba-test-v2021-08-07.fao-tur: 1.8
+   Tatoeba-test-v2021-08-07.nno-tur: 35.9
+   Tatoeba-test-v2021-08-07.nob-tur: 47.8
+   Tatoeba-test-v2021-08-07.nor-tur: 41.4
+   Tatoeba-test-v2021-08-07.multi-tur: 40.2
+   Tatoeba-test-v2021-08-07.swe-tur: 34.5
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.dan-tur: 0.68755
+   Tatoeba-test-v2021-08-07.fao-tur: 0.15287
+   Tatoeba-test-v2021-08-07.nno-tur: 0.65565
+   Tatoeba-test-v2021-08-07.nob-tur: 0.73210
+   Tatoeba-test-v2021-08-07.nor-tur: 0.68813
+   Tatoeba-test-v2021-08-07.multi-tur: 0.66597
+   Tatoeba-test-v2021-08-07.swe-tur: 0.63846

@@ -1,0 +1,34 @@
+release: kor-eng/opusTCv20210807-sepvoc_transformer-big_2022-07-28.zip
+release-date: 2022-07-28
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807-sepvoc.spm32k-spm32k.src.vocab
+   target: opusTCv20210807-sepvoc.spm32k-spm32k.trg.vocab
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - kor
+target-languages:
+   - eng
+raw-source-languages:
+   - kor
+raw-target-languages:
+   - eng
+training-data:
+   kor-eng: Tatoeba-train-v2021-08-07.eng-kor.strict (32370435) 
+validation-data:
+   eng-kor: Tatoeba-dev-v2021-08-07, 957
+   total-size-shuffled: 957
+   devset-selected: top 957  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.kor-eng: 2400/17619
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.kor-eng: 41.3
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.kor-eng: 0.58829

@@ -1,0 +1,63 @@
+release: sqi-itc/opusTCv20210807_transformer-big_2022-07-25.zip
+release-date: 2022-07-25
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - sqi
+target-languages:
+   - fra
+   - ita
+   - pob
+   - por
+   - spa
+raw-source-languages:
+   - sqi
+raw-target-languages:
+   - fra
+   - ita
+   - pob
+   - por
+   - spa
+use-target-labels:
+training-data:
+   sqi-fra: Tatoeba-train-v2021-08-07.fra-sqi.strict (3393534) 
+   sqi-ita: Tatoeba-train-v2021-08-07.ita-sqi.strict (8870026) 
+   sqi-pob: Tatoeba-train-v2021-08-07.pob-sqi.strict (1763474) 
+   sqi-por: Tatoeba-train-v2021-08-07.por-sqi.strict (3763637) 
+   sqi-spa: Tatoeba-train-v2021-08-07.spa-sqi.strict (14057902) 
+validation-data:
+   fra-sqi: Tatoeba-dev-v2021-08-07, 1000
+   ita-sqi: Tatoeba-dev-v2021-08-07, 1018
+   pob-sqi: Tatoeba-dev-v2021-08-07, 314
+   por-sqi: Tatoeba-dev-v2021-08-07, 686
+   spa-sqi: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 3999
+   devset-selected: top 3999  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.sqi-multi: 98/665
+   Tatoeba-test-v2021-08-07.sqi-fra: 32/238
+   Tatoeba-test-v2021-08-07.sqi-ita: 56/366
+   Tatoeba-test-v2021-08-07.sqi-por: 6/38
+   Tatoeba-test-v2021-08-07.sqi-spa: 4/23
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.sqi-multi: 48.3
+   Tatoeba-test-v2021-08-07.sqi-fra: 57.5
+   Tatoeba-test-v2021-08-07.sqi-ita: 41.2
+   Tatoeba-test-v2021-08-07.sqi-por: 42.6
+   Tatoeba-test-v2021-08-07.sqi-spa: 18.8
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.sqi-multi: 0.68796
+   Tatoeba-test-v2021-08-07.sqi-fra: 0.75183
+   Tatoeba-test-v2021-08-07.sqi-ita: 0.65038
+   Tatoeba-test-v2021-08-07.sqi-por: 0.60996
+   Tatoeba-test-v2021-08-07.sqi-spa: 0.63100

@@ -1,0 +1,62 @@
+release: gmq-heb/opusTCv20210807_transformer-big_2022-07-28.zip
+release-date: 2022-07-28
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - dan
+   - isl
+   - nno
+   - nob
+   - swe
+target-languages:
+   - heb
+raw-source-languages:
+   - dan
+   - isl
+   - nno
+   - nob
+   - swe
+raw-target-languages:
+   - heb
+training-data:
+   dan-heb: Tatoeba-train-v2021-08-07.dan-heb.strict (15398048) 
+   isl-heb: Tatoeba-train-v2021-08-07.heb-isl.strict (1838736) 
+   nno-heb: Tatoeba-train-v2021-08-07.heb-nno.strict (72979) 
+   nob-heb: Tatoeba-train-v2021-08-07.heb-nob.strict (9899976) 
+   swe-heb: Tatoeba-train-v2021-08-07.heb-swe.strict (21691182) 
+validation-data:
+   dan-heb: Tatoeba-dev-v2021-08-07, 1005
+   heb-isl: Tatoeba-dev-v2021-08-07, 1000
+   heb-nno: Tatoeba-dev-v2021-08-07, 6
+   heb-nob: Tatoeba-dev-v2021-08-07, 984
+   heb-swe: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 3985
+   devset-selected: top 3985  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.dan-heb: 29/185
+   Tatoeba-test-v2021-08-07.isl-heb: 11/45
+   Tatoeba-test-v2021-08-07.nor-heb: 23/115
+   Tatoeba-test-v2021-08-07.multi-heb: 66/360
+   Tatoeba-test-v2021-08-07.swe-heb: 3/15
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.dan-heb: 53.8
+   Tatoeba-test-v2021-08-07.isl-heb: 38.2
+   Tatoeba-test-v2021-08-07.nor-heb: 50.6
+   Tatoeba-test-v2021-08-07.multi-heb: 46.9
+   Tatoeba-test-v2021-08-07.swe-heb: 76.2
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.dan-heb: 0.78325
+   Tatoeba-test-v2021-08-07.isl-heb: 0.60671
+   Tatoeba-test-v2021-08-07.nor-heb: 0.62528
+   Tatoeba-test-v2021-08-07.multi-heb: 0.69942
+   Tatoeba-test-v2021-08-07.swe-heb: 0.89334

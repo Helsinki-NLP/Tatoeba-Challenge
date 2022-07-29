@@ -1,0 +1,72 @@
+release: gmq-ara/opusTCv20210807_transformer-big_2022-07-27.zip
+release-date: 2022-07-27
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - dan
+   - nno
+   - nob
+   - swe
+target-languages:
+   - apc
+   - ara
+   - arq
+   - arz
+raw-source-languages:
+   - dan
+   - nno
+   - nob
+   - swe
+raw-target-languages:
+   - apc
+   - ara
+   - arq
+   - arz
+use-target-labels:
+training-data:
+   dan-ara: Tatoeba-train-v2021-08-07.ara-dan.strict (16910996) 
+   dan-arq: Tatoeba-train-v2021-08-07.arq-dan.strict (437) 
+   dan-arz: Tatoeba-train-v2021-08-07.arz-dan.strict (7482) 
+   nno-ara: Tatoeba-train-v2021-08-07.ara-nno.strict (61847) 
+   nob-ara: Tatoeba-train-v2021-08-07.ara-nob.strict (12184236) 
+   nob-arq: Tatoeba-train-v2021-08-07.arq-nob.strict (318) 
+   nob-arz: Tatoeba-train-v2021-08-07.arz-nob.strict (7100) 
+   swe-ara: Tatoeba-train-v2021-08-07.ara-swe.strict (20396043) 
+   swe-arq: Tatoeba-train-v2021-08-07.arq-swe.strict (610) 
+   swe-arz: Tatoeba-train-v2021-08-07.arz-swe.strict (6975) 
+validation-data:
+   ara-dan: Tatoeba-dev-v2021-08-07, 1000
+   ara-nno: Tatoeba-dev-v2021-08-07, 5
+   ara-nob: Tatoeba-dev-v2021-08-07, 994
+   ara-swe: Tatoeba-dev-v2021-08-07, 998
+   arz-swe: Tatoeba-dev-v2021-08-07, 1
+   total-size-shuffled: 2998
+   devset-selected: top 2998  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.dan-ara: 9/37
+   Tatoeba-test-v2021-08-07.nor-ara: 1/4
+   Tatoeba-test-v2021-08-07.multi-multi: 13/54
+   Tatoeba-test-v2021-08-07.swe-apc: 1/5
+   Tatoeba-test-v2021-08-07.swe-ara: 3/13
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.dan-ara: 34.8
+   Tatoeba-test-v2021-08-07.nor-ara: 0.0
+   Tatoeba-test-v2021-08-07.multi-multi: 31.4
+   Tatoeba-test-v2021-08-07.swe-apc: 0.0
+   Tatoeba-test-v2021-08-07.swe-ara: 26.4
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.dan-ara: 0.67625
+   Tatoeba-test-v2021-08-07.nor-ara: 0.33431
+   Tatoeba-test-v2021-08-07.multi-multi: 0.62373
+   Tatoeba-test-v2021-08-07.swe-apc: 0.10250
+   Tatoeba-test-v2021-08-07.swe-ara: 0.48659

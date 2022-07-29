@@ -645,12 +645,19 @@ to be useful for anything.
 | [gmw-rus/opus1m](../models/gmw-rus) | newstest2013 | 0.454 | 18.4 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.384 | 11.7 |
 | | lang = deu-spa | | | | |
+| [deu-spa/opusTCv20210807_transformer-big](../models/deu-spa) | newssyscomb2009 | 0.55547 | 28.3 |
 | [ine-ine/opus](../models/ine-ine) | newssyscomb2009 | 0.466 | 18.4 |
+| [deu-spa/opusTCv20210807_transformer-big](../models/deu-spa) | news-test2008 | 0.54400 | 26.6 |
 | [ine-ine/opus](../models/ine-ine) | news-test2008 | 0.452 | 17.0 |
+| [deu-spa/opusTCv20210807_transformer-big](../models/deu-spa) | newstest2009 | 0.53934 | 25.9 |
 | [ine-ine/opus](../models/ine-ine) | newstest2009 | 0.453 | 17.2 |
+| [deu-spa/opusTCv20210807_transformer-big](../models/deu-spa) | newstest2010 | 0.60120 | 33.9 |
 | [ine-ine/opus](../models/ine-ine) | newstest2010 | 0.478 | 20.0 |
+| [deu-spa/opusTCv20210807_transformer-big](../models/deu-spa) | newstest2011 | 0.57133 | 31.3 |
 | [ine-ine/opus](../models/ine-ine) | newstest2011 | 0.464 | 19.2 |
+| [deu-spa/opusTCv20210807_transformer-big](../models/deu-spa) | newstest2012 | 0.58120 | 32.6 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.467 | 19.6 |
+| [deu-spa/opusTCv20210807_transformer-big](../models/deu-spa) | newstest2013 | 0.57561 | 32.4 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.463 | 19.4 |
 | | lang = deu-ukr | | | | |
 | [deu-ukr/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align](../models/deu-ukr) | flores101 | 0.52001 | 22.6 |

@@ -1,0 +1,119 @@
+release: itc-bat/opusTCv20210807_transformer-big_2022-07-27.zip
+release-date: 2022-07-27
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - cat
+   - fra
+   - glg
+   - ita
+   - lat_Latn
+   - pob
+   - por
+   - spa
+target-languages:
+   - lav
+   - lit
+   - ltg
+   - prg_Latn
+   - sgs
+raw-source-languages:
+   - cat
+   - fra
+   - glg
+   - ita
+   - lat
+   - pob
+   - por
+   - spa
+raw-target-languages:
+   - lav
+   - lit
+   - ltg
+   - prg
+   - sgs
+use-target-labels:
+training-data:
+   cat-lit: Tatoeba-train-v2021-08-07.cat-lit.strict (2501234) 
+   fra-lav: Tatoeba-train-v2021-08-07.fra-lav.strict (24671977) 
+   fra-lit: Tatoeba-train-v2021-08-07.fra-lit.strict (37986255) 
+   fra-ltg: Tatoeba-train-v2021-08-07.fra-ltg.strict (5692) 
+   glg-lit: Tatoeba-train-v2021-08-07.glg-lit.strict (373244) 
+   ita-lav: Tatoeba-train-v2021-08-07.ita-lav.strict (18761072) 
+   ita-lit: Tatoeba-train-v2021-08-07.ita-lit.strict (20561506) 
+   ita-ltg: Tatoeba-train-v2021-08-07.ita-ltg.strict (5179) 
+   pob-lit: Tatoeba-train-v2021-08-07.lit-pob.strict (1337728) 
+   por-lit: Tatoeba-train-v2021-08-07.lit-por.strict (22104778) 
+   spa-lav: Tatoeba-train-v2021-08-07.lav-spa.strict (22860506) 
+   spa-lit: Tatoeba-train-v2021-08-07.lit-spa.strict (35813718) 
+   spa-ltg: Tatoeba-train-v2021-08-07.ltg-spa.strict (5498) 
+validation-data:
+   cat-lit: Tatoeba-dev-v2021-08-07, 1000
+   fra-lav: Tatoeba-dev-v2021-08-07, 998
+   fra-lit: Tatoeba-dev-v2021-08-07, 934
+   fra-ltg: Tatoeba-dev-v2021-08-07, 2
+   glg-lit: Tatoeba-dev-v2021-08-07, 1000
+   ita-lav: Tatoeba-dev-v2021-08-07, 1000
+   ita-lit: Tatoeba-dev-v2021-08-07, 942
+   lit-pob: Tatoeba-dev-v2021-08-07, 90
+   lit-por: Tatoeba-dev-v2021-08-07, 910
+   lav-spa: Tatoeba-dev-v2021-08-07, 998
+   lit-spa: Tatoeba-dev-v2021-08-07, 943
+   ltg-spa: Tatoeba-dev-v2021-08-07, 2
+   total-size-shuffled: 8791
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.cat-lit: 1/5
+   Tatoeba-test-v2021-08-07.fra-lav: 36/161
+   Tatoeba-test-v2021-08-07.fra-lit: 142/863
+   Tatoeba-test-v2021-08-07.fra-prg: 13/95
+   Tatoeba-test-v2021-08-07.glg-lit: 1/5
+   Tatoeba-test-v2021-08-07.ita-lav: 21/111
+   Tatoeba-test-v2021-08-07.ita-lit: 224/1317
+   Tatoeba-test-v2021-08-07.lat-lit: 4/19
+   Tatoeba-test-v2021-08-07.multi-multi: 1012/5568
+   Tatoeba-test-v2021-08-07.por-lit: 73/434
+   Tatoeba-test-v2021-08-07.spa-lav: 58/310
+   Tatoeba-test-v2021-08-07.spa-lit: 454/2352
+   Tatoeba-test-v2021-08-07.spa-prg: 24/163
+   Tatoeba-test-v2021-08-07.spa-sgs: 2/5
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.cat-lit: 100.0
+   Tatoeba-test-v2021-08-07.fra-lav: 66.2
+   Tatoeba-test-v2021-08-07.fra-lit: 38.6
+   Tatoeba-test-v2021-08-07.fra-prg: 0.1
+   Tatoeba-test-v2021-08-07.glg-lit: 100.0
+   Tatoeba-test-v2021-08-07.ita-lav: 43.6
+   Tatoeba-test-v2021-08-07.ita-lit: 39.8
+   Tatoeba-test-v2021-08-07.lat-lit: 9.3
+   Tatoeba-test-v2021-08-07.multi-multi: 44.6
+   Tatoeba-test-v2021-08-07.por-lit: 45.8
+   Tatoeba-test-v2021-08-07.spa-lav: 53.0
+   Tatoeba-test-v2021-08-07.spa-lit: 45.3
+   Tatoeba-test-v2021-08-07.spa-prg: 0.1
+   Tatoeba-test-v2021-08-07.spa-sgs: 0.0
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.cat-lit: 10.00000
+   Tatoeba-test-v2021-08-07.fra-lav: 0.77114
+   Tatoeba-test-v2021-08-07.fra-lit: 0.61925
+   Tatoeba-test-v2021-08-07.fra-prg: 8.483
+   Tatoeba-test-v2021-08-07.glg-lit: 10.00000
+   Tatoeba-test-v2021-08-07.ita-lav: 0.64092
+   Tatoeba-test-v2021-08-07.ita-lit: 0.66915
+   Tatoeba-test-v2021-08-07.lat-lit: 0.28263
+   Tatoeba-test-v2021-08-07.multi-multi: 0.67606
+   Tatoeba-test-v2021-08-07.por-lit: 0.65149
+   Tatoeba-test-v2021-08-07.spa-lav: 0.74029
+   Tatoeba-test-v2021-08-07.spa-lit: 0.68188
+   Tatoeba-test-v2021-08-07.spa-prg: 7.885
+   Tatoeba-test-v2021-08-07.spa-sgs: 2.740
