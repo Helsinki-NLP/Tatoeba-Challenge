@@ -59,6 +59,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/ara-fin/opus-2021-03-07.zip	ara-fi
 https://object.pouta.csc.fi/Tatoeba-MT-models/ara-fra/opus-2020-06-18.zip	ara-fra	ar-fr	0.556	39.3	Arabic	French
 https://object.pouta.csc.fi/Tatoeba-MT-models/ara-fra/opus-2020-07-03.zip	ara-fra	ar-fr	0.562	39.8	Arabic	French
 https://object.pouta.csc.fi/Tatoeba-MT-models/ara-fra/opus-2021-02-23.zip	ara-fra	ar-fr	0.560	39.6	Arabic	French
+https://object.pouta.csc.fi/Tatoeba-MT-models/ara-gmq/opusTCv20210807_transformer-big_2022-08-09.zip	ara-gmq	ar-gmq	0.75466	63.4	Arabic	North Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/ara-heb/opus-2020-06-18.zip	ara-heb	ar-he	0.604	40.6	Arabic	Hebrew
 https://object.pouta.csc.fi/Tatoeba-MT-models/ara-heb/opus-2021-02-23.zip	ara-heb	ar-he	0.605	40.4	Arabic	Hebrew
 https://object.pouta.csc.fi/Tatoeba-MT-models/ara-ita/opus-2020-06-18.zip	ara-ita	ar-it	0.650	42.6	Arabic	Italian
@@ -926,13 +927,16 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-10-04.zip	gmq-gm
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2021-02-18.zip	gmq-gmq	gmq-gmq	0.709	56.3	North Germanic languages	North Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus4m+btTCv20210807-2021-12-08.zip	gmq-gmq	gmq-gmq	0.7159	57.2	North Germanic languages	North Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus4m+btTCv20210807-2021-12-08.zip	gmq-gmq	gmq-gmq	0.7159	57.2	North Germanic languages	North Germanic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opusTCv20210807_transformer-big_2022-07-29.zip	gmq-gmq	gmq-gmq	0.84085	73.3	North Germanic languages	North Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-heb/opusTCv20210807_transformer-big_2022-07-28.zip	gmq-heb	gmq-he	0.69942	46.9	North Germanic languages	Hebrew
+https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-itc/opusTCv20210807_transformer-big_2022-08-09.zip	gmq-itc	gmq-itc	0.71804	55.0	North Germanic languages	Italic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-tur/opusTCv20210807_transformer-big_2022-07-26.zip	gmq-tur	gmq-tr	0.66597	40.2	North Germanic languages	Turkish
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-23.zip	gmq-ukr	gmq-uk	0.65868	43.0	North Germanic languages	Ukrainian
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-zho/opusTCv20210807_transformer-big_2022-07-23.zip	gmq-zho	gmq-zh	0.27858	33.1	North Germanic languages	Chinese
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-zle/opusTCv20210807+pbt_transformer-big_2022-03-14.zip	gmq-zle	gmq-zle	0.67550	47.1	North Germanic languages	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-zle/opusTCv20210807+pbt_transformer-big_2022-03-19.zip	gmq-zle	gmq-zle	0.67414	46.8	North Germanic languages	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-zle/opusTCv20210807+pbt_transformer-big_2022-03-23.zip	gmq-zle	gmq-zle	0.67644	47.4	North Germanic languages	East Slavic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-zlw/opusTCv20210807_transformer-big_2022-08-03.zip	gmq-zlw	gmq-zlw	0.65437	44.7	North Germanic languages	West Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-deu/opus1m-2021-05-16.zip	gmw-deu	gmw-de	0.610	40.1	West Germanic languages	German
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-eng/opus-2020-06-27.zip	gmw-eng	gmw-en	0.633	46.8	West Germanic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-eng/opus-2020-07-26.zip	gmw-eng	gmw-en	0.637	47.5	West Germanic languages	English
@@ -947,6 +951,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-gmw/opus-2020-07-27.zip	gmw-gm
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-gmw/opus-2020-09-26.zip	gmw-gmw	gmw-gmw	0.567	36.7	West Germanic languages	West Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-gmw/opus-2020-10-04.zip	gmw-gmw	gmw-gmw	0.567	36.4	West Germanic languages	West Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-gmw/opus-2021-02-23.zip	gmw-gmw	gmw-gmw	0.569	37.1	West Germanic languages	West Germanic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-gmw/opusTCv20210807_transformer-big_2022-08-11.zip	gmw-gmw	gmw-gmw	0.59400	40.4	West Germanic languages	West Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-heb/opus1m-2021-05-16.zip	gmw-heb	gmw-he	0.564	34.5	West Germanic languages	Hebrew
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-rus/opus1m-2021-05-16.zip	gmw-rus	gmw-ru	0.610	41.1	West Germanic languages	Russian
 https://object.pouta.csc.fi/Tatoeba-MT-models/gmw-zle/opus1m-2021-02-19.zip	gmw-zle	gmw-zle	0.596	38.9	West Germanic languages	East Slavic languages
@@ -1067,6 +1072,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/ita-zho/opus-2021-05-16.zip	ita-zh
 https://object.pouta.csc.fi/Tatoeba-MT-models/ita-zle/opusTCv20210807_transformer-big_2022-03-13.zip	ita-zle	it-zle	0.65738	45.9	Italian	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/ita-zle/opusTCv20210807_transformer-big_2022-03-19.zip	ita-zle	it-zle	0.66062	46.5	Italian	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/ita-zle/opusTCv20210807_transformer-big_2022-03-23.zip	ita-zle	it-zle	0.66149	46.6	Italian	East Slavic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/itc-ara/opusTCv20210807_transformer-big_2022-08-09.zip	itc-ara	itc-ar	0.50257	21.9	Italic languages	Arabic
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-bat/opusTCv20210807_transformer-big_2022-07-27.zip	itc-bat	itc-bat	0.67606	44.6	Italic languages	Baltic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-deu/opus1m-2021-05-16.zip	itc-deu	itc-de	0.596	41.0	Italic languages	German
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-eng/opus-2020-07-14.zip	itc-eng	itc-en	0.629	47.1	Italic languages	English
@@ -1077,7 +1083,9 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/itc-eng/opus4m-2020-08-12.zip	itc-
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-eus/opusTCv20210807_transformer-big_2022-07-23.zip	itc-eus	itc-eu	0.60335	32.1	Italic languages	Basque
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-fin/opus1m-2021-05-16.zip	itc-fin	itc-fi	0.407	19.1	Italic languages	Finnish
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-heb/opus1m-2021-05-16.zip	itc-heb	itc-he	0.552	33.6	Italic languages	Hebrew
+https://object.pouta.csc.fi/Tatoeba-MT-models/itc-heb/opusTCv20210807_transformer-big_2022-08-03.zip	itc-heb	itc-he	0.60662	40.6	Italic languages	Hebrew
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-itc/opus-2020-07-07.zip	itc-itc	itc-itc	0.599	40.8	Italic languages	Italic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/itc-itc/opusTCv20210807_transformer-big_2022-08-10.zip	itc-itc	itc-itc	0.71143	55.5	Italic languages	Italic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-rus/opus1m-2021-05-16.zip	itc-rus	itc-ru	0.599	39.6	Italic languages	Russian
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-tur/opusTCv20210807_transformer-big_2022-07-28.zip	itc-tur	itc-tr	0.64715	38.2	Italic languages	Turkish
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-zho/opusTCv20210807_transformer-big_2022-07-23.zip	itc-zho	itc-zh	0.20463	19.7	Italic languages	Chinese
@@ -1614,6 +1622,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/zho-hin/opus-2020-09-10.zip	zho-hi
 https://object.pouta.csc.fi/Tatoeba-MT-models/zho-ita/opus-2020-06-17.zip	zho-ita	zh-it	0.508	27.9	Chinese	Italian
 https://object.pouta.csc.fi/Tatoeba-MT-models/zho-jpn/opusTCv20210807-sepvoc_transformer-big_2022-07-28.zip	zho-jpn	zh-ja	0.29117	26.3	Chinese	Japanese
 https://object.pouta.csc.fi/Tatoeba-MT-models/zho-jpn/opusTCv20210807-sepvoc_transformer-big_2022-07-28.zip	zho-jpn	zh-ja	0.29117	26.3	Chinese	Japanese
+https://object.pouta.csc.fi/Tatoeba-MT-models/zho-jpn/opusTCv20210807_transformer-big_2022-07-29.zip	zho-jpn	zh-ja	0.12984	14.3	Chinese	Japanese
 https://object.pouta.csc.fi/Tatoeba-MT-models/zho-kor/opus-2020-09-10.zip	zho-kor	zh-ko	0.115	1.1	Chinese	Korean
 https://object.pouta.csc.fi/Tatoeba-MT-models/zho-msa/opus-2020-06-17.zip	zho-msa	zh-ms	0.390	13.9	Chinese	Malay (macrolanguage)
 https://object.pouta.csc.fi/Tatoeba-MT-models/zho-nld/opus-2020-06-17.zip	zho-nld	zh-nl	0.525	31.5	Chinese	Dutch
@@ -1657,6 +1666,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus-tuned4ukr2nld-2021-01
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-gmw/opus1m-2021-02-18.zip	zle-gmw	zle-gmw	0.655	48.9	East Slavic languages	West Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-ita/opusTCv20210807_transformer-big_2022-03-19.zip	zle-ita	zle-it	0.65367	45.2	East Slavic languages	Italian
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-ita/opusTCv20210807_transformer-big_2022-03-23.zip	zle-ita	zle-it	0.65617	45.6	East Slavic languages	Italian
+https://object.pouta.csc.fi/Tatoeba-MT-models/zle-itc/opusTCv20210807_transformer-big_2022-08-03.zip	zle-itc	zle-itc	0.66974	48.7	East Slavic languages	Italic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-por/opusTCv20210807_transformer-big_2022-03-14.zip	zle-por	zle-pt	0.64145	43.3	East Slavic languages	Portuguese
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-por/opusTCv20210807_transformer-big_2022-03-19.zip	zle-por	zle-pt	0.63923	43.0	East Slavic languages	Portuguese
 https://object.pouta.csc.fi/Tatoeba-MT-models/zle-por/opusTCv20210807_transformer-big_2022-03-23.zip	zle-por	zle-pt	0.63939	43.1	East Slavic languages	Portuguese
@@ -1691,6 +1701,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/zls-eng/opus4m-2020-08-12.zip	zls-
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-eng/opusTCv20210807+bt_transformer-big_2022-03-17.zip	zls-eng	zls-en	0.69058	55.6	South Slavic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-fin/opusTCv20210807_transformer-big_2022-07-23.zip	zls-fin	zls-fi	0.68311	55.7	South Slavic languages	Finnish
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-fiu/opus-2021-02-19.zip	zls-fiu	zls-fiu	0.576	37.7	South Slavic languages	Finno-Ugrian languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/zls-itc/opusTCv20210807_transformer-big_2022-08-10.zip	zls-itc	zls-itc	0.63013	44.4	South Slavic languages	Italic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zle/opusTCv20210807+bt_transformer-big_2022-03-16.zip	zls-zle	zls-zle	0.65666	47.9	South Slavic languages	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	zls-zle	zls-zle	0.65563	48.2	South Slavic languages	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2020-07-27.zip	zls-zls	zls-zls	0.563	26.5	South Slavic languages	South Slavic languages
