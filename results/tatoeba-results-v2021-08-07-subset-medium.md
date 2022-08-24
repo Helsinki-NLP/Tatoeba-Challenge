@@ -29,8 +29,12 @@ to be useful for anything.
 | [gmw-gmw/opusTCv20210807_transformer-big](../models/gmw-gmw) | tatoeba-v2021-08-07 | 9.648 | 0.4 |
 | | lang = fra-bel | | | | |
 | [fra-zle/opusTCv20210807_transformer-big](../models/fra-zle) | tatoeba-v2021-08-07 | 0.51730 | 30.3 |
+| | lang = fra-bre | | | | |
+| [itc-cel/opusTCv20210807_transformer-big](../models/itc-cel) | tatoeba-v2021-08-07 | 0.18566 | 2.7 |
 | | lang = fra-lat | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.26086 | 2.8 |
+| | lang = fra-nds | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.34245 | 12.1 |
 | | lang = fry-eng | | | | |
 | [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | tatoeba-v2021-08-07 | 0.544 | 36.2 |
 | [gmw-gmw/opusTCv20210807_transformer-big](../models/gmw-gmw) | tatoeba-v2021-08-07 | 0.40304 | 24.5 |
@@ -45,6 +49,8 @@ to be useful for anything.
 | [ita-zle/opusTCv20210807_transformer-big](../models/ita-zle) | tatoeba-v2021-08-07 | 0.55571 | 33.3 |
 | | lang = ita-lat | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.34077 | 8.0 |
+| | lang = ita-nds | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.36738 | 15.3 |
 | | lang = khm-eng | | | | |
 | [aav-eng/opus4m+btTCv20210807](../models/aav-eng) | tatoeba-v2021-08-07 | 0.120 | 0.4 |
 | | lang = lat-fra | | | | |
@@ -78,10 +84,14 @@ to be useful for anything.
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.31305 | 4.9 |
 | | lang = por-lat_Latn | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.31309 | 4.9 |
+| | lang = por-nds | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.39676 | 18.5 |
 | | lang = spa-bel | | | | |
 | [spa-zle/opusTCv20210807_transformer-big](../models/spa-zle) | tatoeba-v2021-08-07 | 0.54428 | 27.4 |
 | | lang = spa-lat | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.35062 | 6.4 |
+| | lang = spa-nds | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.38428 | 16.5 |
 | | lang = vie-epo | | | | |
 | [aav-art/opus4m+btTCv20210807](../models/aav-art) | tatoeba-v2021-08-07 | 0.335 | 11.3 |
 | | lang = vie-vie | | | | |

@@ -6,6 +6,8 @@ to be useful for anything.
 
 | Model | Test Set | chrF2 | BLEU |
 |:--|---|--:|--:|
+| | lang = cbk-eng | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.44205 | 24.0 |
 | | lang = cor-eng | | | | |
 | [cel-eng/opus4m+btTCv20210807](../models/cel-eng) | tatoeba-v2021-08-07 | 0.217 | 6.2 |
 | [cel-eng/opusTCv20210807+bt_transformer-big](../models/cel-eng) | tatoeba-v2021-08-07 | 0.15316 | 2.7 |
@@ -17,19 +19,29 @@ to be useful for anything.
 | [cel-itc/opusTCv20210807_transformer-big](../models/cel-itc) | tatoeba-v2021-08-07 | 0.17333 | 3.5 |
 | | lang = eng-gsw | | | | |
 | [gmw-gmw/opusTCv20210807_transformer-big](../models/gmw-gmw) | tatoeba-v2021-08-07 | 0.22861 | 1.0 |
+| | lang = fra-cor | | | | |
+| [itc-cel/opusTCv20210807_transformer-big](../models/itc-cel) | tatoeba-v2021-08-07 | 0.12500 | 0.9 |
 | | lang = fra-pcd | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.13503 | 0.4 |
 | | lang = gsw-eng | | | | |
 | [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | tatoeba-v2021-08-07 | 0.395 | 25.3 |
 | [gmw-gmw/opusTCv20210807_transformer-big](../models/gmw-gmw) | tatoeba-v2021-08-07 | 0.35206 | 19.1 |
+| | lang = ita-cor | | | | |
+| [itc-cel/opusTCv20210807_transformer-big](../models/itc-cel) | tatoeba-v2021-08-07 | 0.12310 | 0.5 |
 | | lang = ita-pms | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.17951 | 0.8 |
+| | lang = lad-eng | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.47694 | 33.0 |
 | | lang = lad-spa | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.51842 | 36.4 |
 | | lang = pcd-fra | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.38795 | 17.5 |
+| | lang = pms-eng | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.35543 | 16.0 |
 | | lang = pms-ita | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.40566 | 19.7 |
+| | lang = spa-cor | | | | |
+| [itc-cel/opusTCv20210807_transformer-big](../models/itc-cel) | tatoeba-v2021-08-07 | 0.11898 | 0.3 |
 | | lang = spa-lad | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.36121 | 14.8 |
 | | lang = spa-lad_Latn | | | | |

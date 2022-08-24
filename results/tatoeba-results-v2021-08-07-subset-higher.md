@@ -25,6 +25,10 @@ to be useful for anything.
 | | lang = bre-eng | | | | |
 | [cel-eng/opusTCv20210807+bt_transformer-big](../models/cel-eng) | tatoeba-v2021-08-07 | 0.50443 | 33.2 |
 | [cel-eng/opus4m+btTCv20210807](../models/cel-eng) | tatoeba-v2021-08-07 | 0.469 | 30.2 |
+| | lang = cat-deu | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.65951 | 46.7 |
+| | lang = cat-nld | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.67573 | 50.3 |
 | | lang = ces-ukr | | | | |
 | [zlw-zle/opusTCv20210807+bt_transformer-big](../models/zlw-zle) | tatoeba-v2021-08-07 | 0.69750 | 52.3 |
 | [ces+slk-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/ces+slk-ukr) | tatoeba-v2021-08-07 | 0.68530 | 50.3 |
@@ -71,6 +75,8 @@ to be useful for anything.
 | [gmq-itc/opusTCv20210807_transformer-big](../models/gmq-itc) | tatoeba-v2021-08-07 | 0.65867 | 48.8 |
 | | lang = ita-ukr | | | | |
 | [ita-zle/opusTCv20210807_transformer-big](../models/ita-zle) | tatoeba-v2021-08-07 | 0.67483 | 48.3 |
+| | lang = lat-eng | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.19296 | 3.2 |
 | | lang = ltz-eng | | | | |
 | [gmw-gmw/opusTCv20210807_transformer-big](../models/gmw-gmw) | tatoeba-v2021-08-07 | 0.37764 | 30.1 |
 | [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | tatoeba-v2021-08-07 | 0.289 | 14.6 |
@@ -86,6 +92,7 @@ to be useful for anything.
 | | lang = nor-zho | | | | |
 | [gmq-zho/opusTCv20210807_transformer-big](../models/gmq-zho) | tatoeba-v2021-08-07 | 0.21734 | 24.5 |
 | | lang = oci-eng | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.39540 | 22.0 |
 | [cat+oci+spa-eng/opusTCv20210807+bt_transformer-big](../models/cat+oci+spa-eng) | tatoeba-v2021-08-07 | 0.36347 | 19.3 |
 | | lang = oci-fra | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.49808 | 29.8 |
@@ -99,6 +106,8 @@ to be useful for anything.
 | [zle-zle/opusTCv20210807+bt_transformer-big](../models/zle-zle) | tatoeba-v2021-08-07 | 0.63458 | 40.8 |
 | | lang = slv-ukr | | | | |
 | [zls-zle/opusTCv20210807+bt_transformer-big](../models/zls-zle) | tatoeba-v2021-08-07 | 0.31762 | 16.0 |
+| | lang = spa-afr | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.75948 | 61.4 |
 | | lang = swe-swe | | | | |
 | [gmq-gmq/opusTCv20210807_transformer-big](../models/gmq-gmq) | tatoeba-v2021-08-07 | 0.67091 | 46.8 |
 | | lang = ukr-bel | | | | |

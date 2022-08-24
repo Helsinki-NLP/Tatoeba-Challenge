@@ -52,10 +52,14 @@ to be useful for anything.
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.11438 | 0.9 |
 | | lang = kha-eng | | | | |
 | [aav-eng/opus4m+btTCv20210807](../models/aav-eng) | tatoeba-v2021-08-07 | 0.125 | 0.8 |
+| | lang = lad-deu | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.44959 | 25.7 |
 | | lang = lad-heb | | | | |
 | [itc-heb/opusTCv20210807_transformer-big](../models/itc-heb) | tatoeba-v2021-08-07 | 0.30460 | 11.9 |
 | | lang = lad-lat | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.24812 | 2.9 |
+| | lang = lad-yid | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.12171 | 2.1 |
 | | lang = lat-lad | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.13693 | 1.8 |
 | | lang = lat-lat | | | | |

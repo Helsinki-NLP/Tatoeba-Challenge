@@ -1870,6 +1870,8 @@ itc-ara/opusTCv20210807_transformer-big_2022-08-09.zip	transformer-big	arg,cat,f
 itc-ara/opusTCv20210807_transformer-big_2022-08-09.zip	transformer-big	arg,cat,fra,glg,ita,lad,lad_Latn,lat_Latn,mol,osp_Latn,pob,por,ron,spa	ajp,apc,ara,arq,ary,arz	
 itc-bat/opusTCv20210807_transformer-big_2022-07-27.zip	transformer-big	cat,fra,glg,ita,lat_Latn,pob,por,spa	lav,lit,ltg,prg_Latn,sgs	
 itc-bat/opusTCv20210807_transformer-big_2022-07-27.zip	transformer-big	cat,fra,glg,ita,lat_Latn,pob,por,spa	lav,lit,ltg,prg_Latn,sgs	
+itc-cel/opusTCv20210807_transformer-big_2022-08-12.zip	transformer-big	fra,ita,lad_Latn,lat_Latn,mol,pob,por,ron,spa	bre,cor,cym,gla,gle	
+itc-cel/opusTCv20210807_transformer-big_2022-08-12.zip	transformer-big	fra,ita,lad_Latn,lat_Latn,mol,pob,por,ron,spa	bre,cor,cym,gla,gle	
 itc-deu/opus1m-2021-05-16.zip	transformer-align	ast,cat,cos,mol,ron	deu	
 itc-deu/opus1m-2021-05-16.zip	transformer-align	ast,cat,cos,mol,ron	deu	
 itc-eng/opus-2020-07-14.zip	transformer	arg,ast,cat,cos,egl,ext,fra,frm,gcf,glg,hat,ind,ita,lad,lat,lij,lld,lmo,max,mfe,min,mwl,oci,pap,pms,por,roh,ron,scn,spa,tmw,vec,wln,zlm,zsm	eng	
@@ -1884,6 +1886,8 @@ itc-eus/opusTCv20210807_transformer-big_2022-07-23.zip	transformer-big	fra,ita,l
 itc-eus/opusTCv20210807_transformer-big_2022-07-23.zip	transformer-big	fra,ita,lat_Latn,mwl,pob,por,spa	eus	
 itc-fin/opus1m-2021-05-16.zip	transformer-align	cat	fin	
 itc-fin/opus1m-2021-05-16.zip	transformer-align	cat	fin	
+itc-gmw/opusTCv20210807_transformer-big_2022-08-23.zip	transformer-big	arg,ast,cat,cbk_Latn,cos,crs,egl,ext,fra,frm_Latn,frp,frp_Arab,frp_Beng,frp_Cyrl,frp_Deva,frp_Grek,frp_Gujr,frp_Guru,frp_Hang,frp_Hani,frp_Mlym,frp_Orya,frp_Taml,fur,fur_Latn,gcf_Latn,glg,hat,ita,kea,lad,lad_Latn,lat_Latn,lij,lld_Latn,lmo,mfe,mol,mwl,nap,oci,osp_Latn,pap,pms,pob,por,roh,ron,rup,rup_Cyrl,scn,spa,srd,srd_Grek,vec,wln	afr,afr_Arab,ang_Latn,bar,deu,drt_Latn,eng,enm_Latn,frr,fry,gos,gsw,hrx_Latn,jam,ksh,lim,ltz,nds,nld,sco,stq,swg,tpi,yid,zea	
+itc-gmw/opusTCv20210807_transformer-big_2022-08-23.zip	transformer-big	arg,ast,cat,cbk_Latn,cos,crs,egl,ext,fra,frm_Latn,frp,frp_Arab,frp_Beng,frp_Cyrl,frp_Deva,frp_Grek,frp_Gujr,frp_Guru,frp_Hang,frp_Hani,frp_Mlym,frp_Orya,frp_Taml,fur,fur_Latn,gcf_Latn,glg,hat,ita,kea,lad,lad_Latn,lat_Latn,lij,lld_Latn,lmo,mfe,mol,mwl,nap,oci,osp_Latn,pap,pms,pob,por,roh,ron,rup,rup_Cyrl,scn,spa,srd,srd_Grek,vec,wln	afr,afr_Arab,ang_Latn,bar,deu,drt_Latn,eng,enm_Latn,frr,fry,gos,gsw,hrx_Latn,jam,ksh,lim,ltz,nds,nld,sco,stq,swg,tpi,yid,zea	
 itc-heb/opus1m-2021-05-16.zip	transformer-align	cat,fra,gcf	heb	
 itc-heb/opus1m-2021-05-16.zip	transformer-align	cat,fra,gcf	heb	
 itc-heb/opusTCv20210807_transformer-big_2022-08-03.zip	transformer-big	cat,fra,gcf_Latn,glg,ita,lad,lad_Latn,lat_Latn,mol,osp_Latn,pob,por,ron,spa	heb	
@@ -2630,6 +2634,8 @@ tur-fin/opusTCv20210807_transformer-big_2022-06-23.zip	transformer-big	tur	fin
 tur-fin/opusTCv20210807_transformer-big_2022-06-23.zip	transformer-big	tur	fin	
 tur-gmq/opusTCv20210807_transformer-big_2022-07-23.zip	transformer-big	tur	dan,fao,nno,nob,swe	
 tur-gmq/opusTCv20210807_transformer-big_2022-07-23.zip	transformer-big	tur	dan,fao,nno,nob,swe	
+tur-itc/opusTCv20210807_transformer-big_2022-08-23.zip	transformer-big	tur	cat,fra,gcf_Latn,glg,ita,lad,lad_Latn,lat_Latn,mol,oci,osp_Latn,pob,por,ron,spa	
+tur-itc/opusTCv20210807_transformer-big_2022-08-23.zip	transformer-big	tur	cat,fra,gcf_Latn,glg,ita,lad,lad_Latn,lat_Latn,mol,oci,osp_Latn,pob,por,ron,spa	
 tur-lit/opus-2021-02-18.zip	transformer-align	tur	lit	
 tur-lit/opus-2021-02-18.zip	transformer-align	tur	lit	
 tur-spa/opus-2021-02-18.zip	transformer	tur	spa	

@@ -40,6 +40,7 @@ to be useful for anything.
 | [zls-zle/opusTCv20210807+bt_transformer-big](../models/zls-zle) | tatoeba-v2021-08-07 | 0.71545 | 52.6 |
 | | lang = cat-eng | | | | |
 | [cat+oci+spa-eng/opusTCv20210807+bt_transformer-big](../models/cat+oci+spa-eng) | tatoeba-v2021-08-07 | 0.71799 | 56.9 |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.71161 | 56.2 |
 | | lang = cat-fra | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.70239 | 52.6 |
 | | lang = cat-ita | | | | |
@@ -243,8 +244,10 @@ to be useful for anything.
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.66366 | 46.0 |
 | | lang = fra-deu | | | | |
 | [fra-deu/opusTCv20210807_transformer-big](../models/fra-deu) | tatoeba-v2021-08-07 | 0.70133 | 52.1 |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.67582 | 48.9 |
 | | lang = fra-eng | | | | |
 | [fra-eng/opusTCv20210807+bt_transformer-big](../models/fra-eng) | tatoeba-v2021-08-07 | 0.74090 | 60.0 |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.71751 | 57.0 |
 | | lang = fra-fin | | | | |
 | [fra-fin/opusTCv20210807_transformer-big](../models/fra-fin) | tatoeba-v2021-08-07 | 0.66417 | 45.9 |
 | | lang = fra-fra | | | | |
@@ -254,6 +257,8 @@ to be useful for anything.
 | | lang = fra-ita | | | | |
 | [fra-ita/opusTCv20210807](../models/fra-ita) | tatoeba-v2021-08-07 | 0.737 | 54.8 |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.72456 | 53.3 |
+| | lang = fra-nld | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.66054 | 47.6 |
 | | lang = fra-por | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.67890 | 47.6 |
 | | lang = fra-ron | | | | |
@@ -269,6 +274,8 @@ to be useful for anything.
 | [fra-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/fra-ukr) | tatoeba-v2021-08-07 | 0.58949 | 34.5 |
 | | lang = fra-zho | | | | |
 | [itc-zho/opusTCv20210807_transformer-big](../models/itc-zho) | tatoeba-v2021-08-07 | 0.18344 | 16.7 |
+| | lang = glg-eng | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.69963 | 54.9 |
 | | lang = glg-por | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.77341 | 62.2 |
 | | lang = glg-spa | | | | |
@@ -319,8 +326,11 @@ to be useful for anything.
 | [itc-ara/opusTCv20210807_transformer-big](../models/itc-ara) | tatoeba-v2021-08-07 | 0.53840 | 25.7 |
 | | lang = ita-cat | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.71511 | 54.9 |
+| | lang = ita-deu | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.68139 | 49.2 |
 | | lang = ita-eng | | | | |
 | [ita-eng/opusTCv20210807+bt_transformer-big](../models/ita-eng) | tatoeba-v2021-08-07 | 0.82001 | 71.7 |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.80575 | 69.7 |
 | | lang = ita-fin | | | | |
 | [ita-fin/opusTCv20210807_transformer-big](../models/ita-fin) | tatoeba-v2021-08-07 | 0.69760 | 45.6 |
 | | lang = ita-fra | | | | |
@@ -331,6 +341,8 @@ to be useful for anything.
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.71182 | 49.1 |
 | | lang = ita-lit | | | | |
 | [itc-bat/opusTCv20210807_transformer-big](../models/itc-bat) | tatoeba-v2021-08-07 | 0.66915 | 39.8 |
+| | lang = ita-nld | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.72513 | 56.8 |
 | | lang = ita-por | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.72482 | 53.4 |
 | | lang = ita-ron | | | | |
@@ -410,6 +422,10 @@ to be useful for anything.
 | [pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/pol-ukr) | tatoeba-v2021-08-07 | 0.68493 | 48.2 |
 | | lang = por-cat | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.70966 | 51.7 |
+| | lang = por-deu | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.67795 | 48.8 |
+| | lang = por-eng | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.76344 | 63.2 |
 | | lang = por-fra | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.75096 | 59.0 |
 | | lang = por-glg | | | | |
@@ -418,6 +434,8 @@ to be useful for anything.
 | [itc-heb/opusTCv20210807_transformer-big](../models/itc-heb) | tatoeba-v2021-08-07 | 0.62256 | 43.2 |
 | | lang = por-ita | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.75984 | 57.4 |
+| | lang = por-nld | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.69563 | 52.6 |
 | | lang = por-por | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.75499 | 55.4 |
 | | lang = por-ron | | | | |
@@ -430,10 +448,16 @@ to be useful for anything.
 | [itc-tur/opusTCv20210807_transformer-big](../models/itc-tur) | tatoeba-v2021-08-07 | 0.67253 | 39.6 |
 | | lang = por-zho | | | | |
 | [itc-zho/opusTCv20210807_transformer-big](../models/itc-zho) | tatoeba-v2021-08-07 | 0.26331 | 31.5 |
+| | lang = ron-deu | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.66211 | 48.1 |
+| | lang = ron-eng | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.70853 | 55.9 |
 | | lang = ron-fra | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.69403 | 52.6 |
 | | lang = ron-ita | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.72810 | 52.9 |
+| | lang = ron-nld | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.63599 | 45.0 |
 | | lang = ron-por | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.70371 | 50.0 |
 | | lang = ron-spa | | | | |
@@ -497,8 +521,10 @@ to be useful for anything.
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.82558 | 67.3 |
 | | lang = spa-deu | | | | |
 | [spa-deu/opusTCv20210807_transformer-big](../models/spa-deu) | tatoeba-v2021-08-07 | 0.69675 | 51.6 |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.67476 | 48.5 |
 | | lang = spa-eng | | | | |
 | [cat+oci+spa-eng/opusTCv20210807+bt_transformer-big](../models/cat+oci+spa-eng) | tatoeba-v2021-08-07 | 0.75914 | 62.1 |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.74172 | 59.8 |
 | | lang = spa-eus | | | | |
 | [itc-eus/opusTCv20210807_transformer-big](../models/itc-eus) | tatoeba-v2021-08-07 | 0.60500 | 32.2 |
 | | lang = spa-fin | | | | |
@@ -513,6 +539,8 @@ to be useful for anything.
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.76803 | 59.7 |
 | | lang = spa-lit | | | | |
 | [itc-bat/opusTCv20210807_transformer-big](../models/itc-bat) | tatoeba-v2021-08-07 | 0.68188 | 45.3 |
+| | lang = spa-nld | | | | |
+| [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.68215 | 50.2 |
 | | lang = spa-por | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.75792 | 58.6 |
 | | lang = spa-ron | | | | |
@@ -570,6 +598,16 @@ to be useful for anything.
 | [tur-eng/opusTCv20210807+bt_transformer-big](../models/tur-eng) | tatoeba-v2021-08-07 | 0.71972 | 57.8 |
 | | lang = tur-fin | | | | |
 | [tur-fin/opusTCv20210807_transformer-big](../models/tur-fin) | tatoeba-v2021-08-07 | 0.59259 | 35.5 |
+| | lang = tur-fra | | | | |
+| [tur-itc/opusTCv20210807_transformer-big](../models/tur-itc) | tatoeba-v2021-08-07 | 0.62116 | 42.5 |
+| | lang = tur-ita | | | | |
+| [tur-itc/opusTCv20210807_transformer-big](../models/tur-itc) | tatoeba-v2021-08-07 | 0.55433 | 35.0 |
+| | lang = tur-por | | | | |
+| [tur-itc/opusTCv20210807_transformer-big](../models/tur-itc) | tatoeba-v2021-08-07 | 0.61549 | 40.5 |
+| | lang = tur-ron | | | | |
+| [tur-itc/opusTCv20210807_transformer-big](../models/tur-itc) | tatoeba-v2021-08-07 | 0.59411 | 35.6 |
+| | lang = tur-spa | | | | |
+| [tur-itc/opusTCv20210807_transformer-big](../models/tur-itc) | tatoeba-v2021-08-07 | 0.70706 | 54.0 |
 | | lang = tur-swe | | | | |
 | [tur-gmq/opusTCv20210807_transformer-big](../models/tur-gmq) | tatoeba-v2021-08-07 | 0.63578 | 48.0 |
 | | lang = ukr-bul | | | | |

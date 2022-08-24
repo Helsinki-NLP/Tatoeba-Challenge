@@ -1074,6 +1074,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/ita-zle/opusTCv20210807_transforme
 https://object.pouta.csc.fi/Tatoeba-MT-models/ita-zle/opusTCv20210807_transformer-big_2022-03-23.zip	ita-zle	it-zle	0.66149	46.6	Italian	East Slavic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-ara/opusTCv20210807_transformer-big_2022-08-09.zip	itc-ara	itc-ar	0.50257	21.9	Italic languages	Arabic
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-bat/opusTCv20210807_transformer-big_2022-07-27.zip	itc-bat	itc-bat	0.67606	44.6	Italic languages	Baltic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/itc-cel/opusTCv20210807_transformer-big_2022-08-12.zip	itc-cel	itc-cel	0.18800	3.9	Italic languages	Celtic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-deu/opus1m-2021-05-16.zip	itc-deu	itc-de	0.596	41.0	Italic languages	German
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-eng/opus-2020-07-14.zip	itc-eng	itc-en	0.629	47.1	Italic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-eng/opus-2020-07-19.zip	itc-eng	itc-en	0.630	47.3	Italic languages	English
@@ -1082,6 +1083,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/itc-eng/opus2m-2020-08-01.zip	itc-
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-eng/opus4m-2020-08-12.zip	itc-eng	itc-en	0.636	47.8	Italic languages	English
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-eus/opusTCv20210807_transformer-big_2022-07-23.zip	itc-eus	itc-eu	0.60335	32.1	Italic languages	Basque
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-fin/opus1m-2021-05-16.zip	itc-fin	itc-fi	0.407	19.1	Italic languages	Finnish
+https://object.pouta.csc.fi/Tatoeba-MT-models/itc-gmw/opusTCv20210807_transformer-big_2022-08-23.zip	itc-gmw	itc-gmw	0.69346	53.5	Italic languages	West Germanic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-heb/opus1m-2021-05-16.zip	itc-heb	itc-he	0.552	33.6	Italic languages	Hebrew
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-heb/opusTCv20210807_transformer-big_2022-08-03.zip	itc-heb	itc-he	0.60662	40.6	Italic languages	Hebrew
 https://object.pouta.csc.fi/Tatoeba-MT-models/itc-itc/opus-2020-07-07.zip	itc-itc	itc-itc	0.599	40.8	Italic languages	Italic languages
@@ -1502,6 +1504,7 @@ https://object.pouta.csc.fi/Tatoeba-MT-models/tur-epo/opus-2021-02-18.zip	tur-ep
 https://object.pouta.csc.fi/Tatoeba-MT-models/tur-fin/opus-2021-03-08.zip	tur-fin	tr-fi	0.575	33.2	Turkish	Finnish
 https://object.pouta.csc.fi/Tatoeba-MT-models/tur-fin/opusTCv20210807_transformer-big_2022-06-23.zip	tur-fin	tr-fi	0.59259	35.5	Turkish	Finnish
 https://object.pouta.csc.fi/Tatoeba-MT-models/tur-gmq/opusTCv20210807_transformer-big_2022-07-23.zip	tur-gmq	tr-gmq	0.65972	51.0	Turkish	North Germanic languages
+https://object.pouta.csc.fi/Tatoeba-MT-models/tur-itc/opusTCv20210807_transformer-big_2022-08-23.zip	tur-itc	tr-itc	0.61137	41.6	Turkish	Italic languages
 https://object.pouta.csc.fi/Tatoeba-MT-models/tur-lit/opus-2021-02-18.zip	tur-lit	tr-lt	0.631	35.6	Turkish	Lithuanian
 https://object.pouta.csc.fi/Tatoeba-MT-models/tur-spa/opus-2021-02-18.zip	tur-spa	tr-es	0.727	56.9	Turkish	Spanish
 https://object.pouta.csc.fi/Tatoeba-MT-models/tur-tat/opus-2020-09-10.zip	tur-tat	tr-tt	0.221	2.5	Turkish	Tatar
