@@ -6,8 +6,8 @@ dan-eng	flores101-devtest	41.7
 isl-eng	flores101-devtest	25.2
 nob-eng	flores101-devtest	36.0
 swe-eng	flores101-devtest	41.2
-isl-eng	newsdev2021.is-en	22.0
-isl-eng	newstest2021.is-en	26.1
+isl-eng	newsdev2021	22.0
+isl-eng	newstest2021	26.1
 dan-eng	tatoeba-test-v2020-07-28	59.5
 fao-eng	tatoeba-test-v2020-07-28	21.3
 isl-eng	tatoeba-test-v2020-07-28	49.4

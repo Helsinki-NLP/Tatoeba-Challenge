@@ -15,9 +15,7 @@ eng-isl	flores101-devtest	24.1
 eng-isl	flores200-dev	24.8
 eng-isl	flores200-devtest	24.1
 eng-isl	newsdev2021	22.6
-eng-isl	newsdev2021.en-is	22.6
 eng-isl	newstest2021	21.5
-eng-isl	newstest2021.en-is	21.5
 eng-isl	tatoeba-test-v2020-07-28	39.9
 eng-isl	tatoeba-test-v2021-03-30	39.9
 eng-isl	tatoeba-test-v2021-08-07	39.9

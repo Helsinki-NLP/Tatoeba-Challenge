@@ -43,10 +43,10 @@ swe-dan	flores101-devtest	37.8
 swe-eng	flores101-devtest	43.9
 swe-isl	flores101-devtest	20.1
 swe-nob	flores101-devtest	27.9
-eng-isl	newsdev2021.en-is	20.3
-isl-eng	newsdev2021.is-en	25.3
-eng-isl	newstest2021.en-is	19.7
-isl-eng	newstest2021.is-en	28.3
+eng-isl	newsdev2021	20.3
+isl-eng	newsdev2021	25.3
+eng-isl	newstest2021	19.7
+isl-eng	newstest2021	28.3
 dan-eng	tatoeba-test-v2020-07-28	59.8
 dan-nob	tatoeba-test-v2020-07-28	76.9
 dan-swe	tatoeba-test-v2020-07-28	70.4

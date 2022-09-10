@@ -98,7 +98,7 @@ lit-eng	newsdev2019	22.9
 guj-eng	newsdev2019	13.7
 lit-eng	newsdev2019	22.9
 pol-eng	newsdev2020	22.9
-isl-eng	newsdev2021.is-en	20.1
+isl-eng	newsdev2021	20.1
 fra-eng	newsdiscussdev2015	29.5
 fra-eng	newsdiscusstest2015	32.4
 ces-eng	newssyscomb2009	23.5
@@ -160,7 +160,7 @@ deu-eng	newstest2020	30.6
 pol-eng	newstest2020	24.4
 pus-eng	newstest2020	3.2
 rus-eng	newstest2020	24.9
-isl-eng	newstest2021.is-en	23.3
+isl-eng	newstest2021	23.3
 deu-eng	newstestB2020	29.9
 rus-eng	newstestB2020	26.5
 afr-eng	tatoeba-test-v2020-07-28	58.2

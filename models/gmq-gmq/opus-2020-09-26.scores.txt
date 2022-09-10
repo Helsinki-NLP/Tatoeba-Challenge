@@ -25,8 +25,8 @@ eng-fao	tatoeba-test-v2021-03-30	0.303	8.3	https://object.pouta.csc.fi/Tatoeba-M
 eng-fao	tatoeba-test-v2021-08-07	0.304	8.4	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	294	1933
 eng-isl	flores101-dev	0.457	18.1	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	997	21857
 eng-isl	flores101-devtest	0.454	17.6	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	1012	22834
-eng-isl	newsdev2021.en-is	0.439	15.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	2004	43721
-eng-isl	newstest2021.en-is	0.438	15.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	1000	25233
+eng-isl	newsdev2021	0.439	15.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	2004	43721
+eng-isl	newstest2021	0.438	15.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	1000	25233
 eng-isl	tatoeba-test-v2020-07-28	0.501	23.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	2500	18999
 eng-isl	tatoeba-test-v2021-03-30	0.501	23.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	4994	37970
 eng-isl	tatoeba-test-v2021-08-07	0.501	23.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	2503	19023
@@ -50,8 +50,8 @@ isl-dan	flores101-dev	0.485	21.4	https://object.pouta.csc.fi/Tatoeba-MT-models/g
 isl-dan	flores101-devtest	0.484	20.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	1012	24638
 isl-eng	flores101-dev	0.523	26.0	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	997	23555
 isl-eng	flores101-devtest	0.518	25.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	1012	24721
-isl-eng	newsdev2021.is-en	0.502	23.0	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	2004	46383
-isl-eng	newstest2021.is-en	0.509	26.4	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	1000	22529
+isl-eng	newsdev2021	0.502	23.0	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	2004	46383
+isl-eng	newstest2021	0.509	26.4	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	1000	22529
 isl-eng	tatoeba-test-v2020-07-28	0.659	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	2500	19763
 isl-eng	tatoeba-test-v2021-03-30	0.658	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	4994	39502
 isl-eng	tatoeba-test-v2021-08-07	0.658	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-gmq/opus-2020-09-26.zip	2503	19788

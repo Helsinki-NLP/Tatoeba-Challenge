@@ -1149,7 +1149,7 @@ deu-fra	newstest2012	0.454	17.0	https://object.pouta.csc.fi/Tatoeba-MT-models/in
 deu-fra	newstest2013	0.449	17.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	3000	70037
 deu-fra	newstest2019	0.477	17.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1701	42509
 deu-fra	newstest2020	0.462	15.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1619	36890
-deu-fra	newstest2021.de-fr	0.434	14.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1000	23757
+deu-fra	newstest2021	0.434	14.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1000	23757
 deu-fra	tatoeba-test-v2020-07-28	0.511	30.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10000	81669
 deu-fra	tatoeba-test-v2021-03-30	0.516	30.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	11388	93145
 deu-fra	tatoeba-test-v2021-08-07	0.516	30.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	12418	102721
@@ -1585,8 +1585,8 @@ eng-ind	tatoeba-test-v2021-08-07	0.499	24.4	https://object.pouta.csc.fi/Tatoeba-
 eng-ind	tico19-test	0.519	22.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	2100	52102
 eng-isl	flores101-dev	0.329	8.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	997	21857
 eng-isl	flores101-devtest	0.324	8.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1012	22834
-eng-isl	newsdev2021.en-is	0.335	8.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	2004	43721
-eng-isl	newstest2021.en-is	0.334	8.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1000	25233
+eng-isl	newsdev2021	0.335	8.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	2004	43721
+eng-isl	newstest2021	0.334	8.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1000	25233
 eng-isl	tatoeba-test-v2020-07-28	0.355	13.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	2500	18999
 eng-isl	tatoeba-test-v2021-03-30	0.355	13.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	4994	37970
 eng-isl	tatoeba-test-v2021-08-07	0.355	13.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	2503	19023
@@ -1832,7 +1832,7 @@ fra-deu	newstest2012	0.428	14.0	https://object.pouta.csc.fi/Tatoeba-MT-models/in
 fra-deu	newstest2013	0.435	14.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	3000	63737
 fra-deu	newstest2019	0.472	15.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1701	36446
 fra-deu	newstest2020	0.473	14.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1619	30265
-fra-deu	newstest2021.fr-de	0.475	18.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1026	26077
+fra-deu	newstest2021	0.475	18.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1026	26077
 fra-deu	tatoeba-test-v2020-07-28	0.514	29.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	10000	80271
 fra-deu	tatoeba-test-v2021-03-30	0.517	29.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	11388	91323
 fra-deu	tatoeba-test-v2021-08-07	0.519	29.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	12418	100545
@@ -2677,8 +2677,8 @@ isl-ell	flores101-dev	0.276	5.2	https://object.pouta.csc.fi/Tatoeba-MT-models/in
 isl-ell	flores101-devtest	0.275	5.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1012	26615
 isl-eng	flores101-dev	0.394	14.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	997	23555
 isl-eng	flores101-devtest	0.384	14.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1012	24721
-isl-eng	newsdev2021.is-en	0.392	13.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	2004	46383
-isl-eng	newstest2021.is-en	0.384	15.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1000	22529
+isl-eng	newsdev2021	0.392	13.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	2004	46383
+isl-eng	newstest2021	0.384	15.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	1000	22529
 isl-eng	tatoeba-test-v2020-07-28	0.467	28.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	2500	19763
 isl-eng	tatoeba-test-v2021-03-30	0.467	28.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	4994	39502
 isl-eng	tatoeba-test-v2021-08-07	0.467	28.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ine-ine/opus-2020-07-21.zip	2503	19788

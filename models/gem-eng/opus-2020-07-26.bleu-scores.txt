@@ -19,7 +19,7 @@ deu-eng	multi30k_test_2016_flickr	36.4
 deu-eng	multi30k_test_2017_flickr	36.7
 deu-eng	multi30k_test_2017_mscoco	28.3
 deu-eng	multi30k_test_2018_flickr	32.8
-isl-eng	newsdev2021.is-en	23.4
+isl-eng	newsdev2021	23.4
 deu-eng	newssyscomb2009	26.7
 deu-eng	news-test2008	25.4
 deu-eng	newstest2009	24.5
@@ -34,7 +34,7 @@ deu-eng	newstest2017	32.2
 deu-eng	newstest2018	39.2
 deu-eng	newstest2019	34.9
 deu-eng	newstest2020	34.8
-isl-eng	newstest2021.is-en	26.8
+isl-eng	newstest2021	26.8
 deu-eng	newstestB2020	33.8
 afr-eng	tatoeba-test-v2020-07-28	62.8
 dan-eng	tatoeba-test-v2020-07-28	60.4

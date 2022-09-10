@@ -120,7 +120,7 @@ deu-fra	newstest2012	0.439	15.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ta
 deu-fra	newstest2013	0.436	15.7	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	3000	70037
 deu-fra	newstest2019	0.465	16.4	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	1701	42509
 deu-fra	newstest2020	0.451	14.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	1619	36890
-deu-fra	newstest2021.de-fr	0.423	13.9	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	1000	23757
+deu-fra	newstest2021	0.423	13.9	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	1000	23757
 deu-fra	tatoeba-test-v2020-07-28	0.493	28.1	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	10000	81669
 deu-fra	tatoeba-test-v2021-03-30	0.497	28.6	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	11388	93145
 deu-fra	tatoeba-test-v2021-08-07	0.497	28.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	12418	102721
@@ -400,7 +400,7 @@ fra-deu	newstest2012	0.417	12.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ta
 fra-deu	newstest2013	0.424	13.6	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	3000	63737
 fra-deu	newstest2019	0.462	14.2	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	1701	36446
 fra-deu	newstest2020	0.457	12.7	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	1619	30265
-fra-deu	newstest2021.fr-de	0.470	17.2	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	1026	26077
+fra-deu	newstest2021	0.470	17.2	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	1026	26077
 fra-deu	tatoeba-test-v2020-07-28	0.495	26.9	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	10000	80271
 fra-deu	tatoeba-test-v2021-03-30	0.498	27.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	11388	91323
 fra-deu	tatoeba-test-v2021-08-07	0.499	27.1	https://object.pouta.csc.fi/Tatoeba-MT-models/tatoeba-lowest/opus-2020-06-15.zip	12418	100545

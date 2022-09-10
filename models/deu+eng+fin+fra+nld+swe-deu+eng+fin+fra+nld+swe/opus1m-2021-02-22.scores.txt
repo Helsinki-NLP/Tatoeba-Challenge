@@ -53,7 +53,6 @@ deu-fra	newstest2013	0.534	26.0	https://object.pouta.csc.fi/Tatoeba-MT-models/de
 deu-fra	newstest2019	0.584	29.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	1701	42509
 deu-fra	newstest2020	0.55907	26.2	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	1619	36890
 deu-fra	newstest2021	0.54154	24.8	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	1000	23757
-deu-fra	newstest2021.de-fr	0.541	24.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	1000	23757
 deu-fra	tatoeba-test-v2020-07-28	0.620	43.0	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	10000	81669
 deu-fra	tatoeba-test-v2021-03-30	0.625	43.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	11388	93145
 deu-fra	tatoeba-test-v2021-08-07	0.626	43.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	12418	102721
@@ -213,7 +212,6 @@ fra-deu	newstest2013	0.509	21.3	https://object.pouta.csc.fi/Tatoeba-MT-models/de
 fra-deu	newstest2019	0.566	24.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	1701	36446
 fra-deu	newstest2020	0.56223	21.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	1619	30265
 fra-deu	newstest2021	0.59435	31.2	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	1026	26077
-fra-deu	newstest2021.fr-de	0.595	31.3	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	1026	26077
 fra-deu	tatoeba-test-v2020-07-28	0.627	42.5	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	10000	80271
 fra-deu	tatoeba-test-v2021-03-30	0.631	42.8	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	11388	91323
 fra-deu	tatoeba-test-v2021-08-07	0.633	42.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fin+fra+nld+swe-deu+eng+fin+fra+nld+swe/opus1m-2021-02-22.zip	12418	100545

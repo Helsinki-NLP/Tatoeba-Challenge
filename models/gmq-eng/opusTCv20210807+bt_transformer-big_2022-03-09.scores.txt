@@ -8,8 +8,8 @@ fao-eng	tatoeba-test-v2021-03-30	0.47446	30.1	https://object.pouta.csc.fi/Tatoeb
 fao-eng	tatoeba-test-v2021-08-07	0.47467	30.1	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	294	1984
 isl-eng	flores101-dev	0.60060	34.7	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	997	23555
 isl-eng	flores101-devtest	0.59616	34.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	1012	24721
-isl-eng	newsdev2021.is-en	0.56709	30.4	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	2004	46383
-isl-eng	newstest2021.is-en	0.57756	34.4	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	1000	22529
+isl-eng	newsdev2021	0.56709	30.4	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	2004	46383
+isl-eng	newstest2021	0.57756	34.4	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	1000	22529
 isl-eng	tatoeba-test-v2020-07-28	0.68350	53.4	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	2500	19763
 isl-eng	tatoeba-test-v2021-03-30	0.68341	53.3	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	4994	39502
 isl-eng	tatoeba-test-v2021-08-07	0.68346	53.3	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	2503	19788

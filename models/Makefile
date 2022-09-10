@@ -12,7 +12,7 @@ all: ${SCOREFILES} ${BLEUSCOREFILES} ${CHRFSCOREFILES} ${COMETSCOREFILES}
 
 %.scores.fix: %.scores.txt
 	sed -e 's/\(news.*[0-9][0-9][0-9][0-9]\)-[a-z][a-z][a-z][a-z]	/\1	/' $< |  \
-	sed -e 's/\(news.*2021\.[a-z][a-z]\-[a-z][a-z]\)	/\1	' |\
+	sed -e 's/\(news.*2021\)\.[a-z][a-z]\-[a-z][a-z]	/\1	/' |\
 	rev | uniq -f5 | rev | sort -u > $@
 	if [ `diff $< $@ | wc -l` -gt 0 ]; then \
 	  mv $@ $<; \
@@ -21,7 +21,7 @@ all: ${SCOREFILES} ${BLEUSCOREFILES} ${CHRFSCOREFILES} ${COMETSCOREFILES}
 
 %-scores.fix: %-scores.txt
 	sed 's/\(news.*[0-9][0-9][0-9][0-9]\)\-[a-z][a-z][a-z][a-z]	/\1	/' $< |\
-	sed -e 's/\(news.*2021\.[a-z][a-z]\-[a-z][a-z]\)	/\1	' |\
+	sed -e 's/\(news.*2021\)\.[a-z][a-z]\-[a-z][a-z]	/\1	/' |\
 	rev | uniq -f1 | rev > $@
 	if [ `diff $< $@ | wc -l` -gt 0 ]; then \
 	  mv $@ $<; \

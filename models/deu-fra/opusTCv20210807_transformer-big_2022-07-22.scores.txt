@@ -17,7 +17,6 @@ deu-fra	newstest2013	0.57535	31.3	https://object.pouta.csc.fi/Tatoeba-MT-models/
 deu-fra	newstest2019	0.63646	37.2	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fra/opusTCv20210807_transformer-big_2022-07-22.zip	1701	42509
 deu-fra	newstest2020	0.61134	33.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fra/opusTCv20210807_transformer-big_2022-07-22.zip	1619	36890
 deu-fra	newstest2021	0.59794	32.0	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fra/opusTCv20210807_transformer-big_2022-07-22.zip	1000	23757
-deu-fra	newstest2021.de-fr	0.59794	32.0	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fra/opusTCv20210807_transformer-big_2022-07-22.zip	1000	23757
 deu-fra	tatoeba-test-v2020-07-28	0.68136	50.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fra/opusTCv20210807_transformer-big_2022-07-22.zip	10000	81669
 deu-fra	tatoeba-test-v2021-03-30	0.68841	51.8	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fra/opusTCv20210807_transformer-big_2022-07-22.zip	11388	93145
 deu-fra	tatoeba-test-v2021-08-07	0.69116	52.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-fra/opusTCv20210807_transformer-big_2022-07-22.zip	12418	102721

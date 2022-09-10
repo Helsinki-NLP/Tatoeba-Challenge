@@ -8,8 +8,8 @@ fao-eng	tatoeba-test-v2021-03-30	0.374	19.4	https://object.pouta.csc.fi/Tatoeba-
 fao-eng	tatoeba-test-v2021-08-07	0.373	19.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus4m+btTCv20210807-2021-12-08.zip	294	1984
 isl-eng	flores101-dev	0.504	23.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus4m+btTCv20210807-2021-12-08.zip	997	23555
 isl-eng	flores101-devtest	0.490	22.9	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus4m+btTCv20210807-2021-12-08.zip	1012	24721
-isl-eng	newsdev2021.is-en	0.478	21.0	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus4m+btTCv20210807-2021-12-08.zip	2004	46383
-isl-eng	newstest2021.is-en	0.481	23.5	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus4m+btTCv20210807-2021-12-08.zip	1000	22529
+isl-eng	newsdev2021	0.478	21.0	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus4m+btTCv20210807-2021-12-08.zip	2004	46383
+isl-eng	newstest2021	0.481	23.5	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus4m+btTCv20210807-2021-12-08.zip	1000	22529
 isl-eng	tatoeba-test-v2020-07-28	0.591	42.1	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus4m+btTCv20210807-2021-12-08.zip	2500	19763
 isl-eng	tatoeba-test-v2021-03-30	0.592	42.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus4m+btTCv20210807-2021-12-08.zip	4994	39502
 isl-eng	tatoeba-test-v2021-08-07	0.591	42.1	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-eng/opus4m+btTCv20210807-2021-12-08.zip	2503	19788

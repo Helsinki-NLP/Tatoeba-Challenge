@@ -19,7 +19,7 @@ zho-eng	newstest2017	0.493	19.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zh
 zho-eng	newstest2018	0.490	19.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.zip	3981	109936
 zho-eng	newstest2019	0.521	21.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.zip	2000	80301
 zho-eng	newstest2020	0.522	21.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.zip	2000	73558
-zho-eng	newstest2021.zh-en	0.478	18.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.zip	2791	87235
+zho-eng	newstest2021	0.478	18.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.zip	2791	87235
 zho-eng	newstestB2020	0.492	17.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.zip	2000	73791
 zho-eng	tatoeba-test-v2020-07-28	0.536	35.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.zip	10000	82826
 zho-eng	tatoeba-test-v2021-03-30	0.535	34.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opus-2020-07-14.zip	10217	84620
