@@ -1,8 +1,8 @@
 fin-khm	flores101-dev	0.084	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.zip	997	6836
-fin-vie	flores101-dev	0.263	8.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.zip	997	31609
-hun-khm	flores101-dev	0.094	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.zip	997	6836
-hun-vie	flores101-dev	0.273	8.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.zip	997	31609
 fin-khm	flores101-devtest	0.083	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.zip	1012	7006
+fin-vie	flores101-dev	0.263	8.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.zip	997	31609
 fin-vie	flores101-devtest	0.261	7.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.zip	1012	33331
+hun-khm	flores101-dev	0.094	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.zip	997	6836
 hun-khm	flores101-devtest	0.097	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.zip	1012	7006
+hun-vie	flores101-dev	0.273	8.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.zip	997	31609
 hun-vie	flores101-devtest	0.270	8.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-mkh/opus-2021-02-18.zip	1012	33331

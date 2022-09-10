@@ -1,6 +1,6 @@
 nno-nob	tatoeba-test-v2020-07-28	0.801	62.7	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-nor/opus-2020-06-17.zip	474	3167
-nob-nno	tatoeba-test-v2020-07-28	0.766	53.9	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-nor/opus-2020-06-17.zip	474	3184
 nno-nob	tatoeba-test-v2021-03-30	0.797	62.4	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-nor/opus-2020-06-17.zip	488	3304
-nob-nno	tatoeba-test-v2021-03-30	0.763	53.8	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-nor/opus-2020-06-17.zip	488	3321
 nno-nob	tatoeba-test-v2021-08-07	0.800	62.4	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-nor/opus-2020-06-17.zip	466	3124
+nob-nno	tatoeba-test-v2020-07-28	0.766	53.9	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-nor/opus-2020-06-17.zip	474	3184
+nob-nno	tatoeba-test-v2021-03-30	0.763	53.8	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-nor/opus-2020-06-17.zip	488	3321
 nob-nno	tatoeba-test-v2021-08-07	0.764	53.7	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-nor/opus-2020-06-17.zip	466	3141

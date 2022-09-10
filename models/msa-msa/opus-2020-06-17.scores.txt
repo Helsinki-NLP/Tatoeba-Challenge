@@ -1,6 +1,6 @@
 ind-zsm_Latn	tatoeba-test-v2020-07-28	0.463	21.9	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-msa/opus-2020-06-17.zip	215	1808
-zsm_Latn-ind	tatoeba-test-v2020-07-28	0.535	30.2	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-msa/opus-2020-06-17.zip	215	1757
 ind-zsm_Latn	tatoeba-test-v2021-03-30	0.467	22.0	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-msa/opus-2020-06-17.zip	226	1906
-zsm_Latn-ind	tatoeba-test-v2021-03-30	0.541	30.6	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-msa/opus-2020-06-17.zip	226	1850
 ind-zsm_Latn	tatoeba-test-v2021-08-07	0.469	22.0	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-msa/opus-2020-06-17.zip	225	1886
+zsm_Latn-ind	tatoeba-test-v2020-07-28	0.535	30.2	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-msa/opus-2020-06-17.zip	215	1757
+zsm_Latn-ind	tatoeba-test-v2021-03-30	0.541	30.6	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-msa/opus-2020-06-17.zip	226	1850
 zsm_Latn-ind	tatoeba-test-v2021-08-07	0.534	29.8	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-msa/opus-2020-06-17.zip	225	1836

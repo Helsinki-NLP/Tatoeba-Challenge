@@ -7,10 +7,6 @@ eng-fra	multi30k_test_2017_flickr	50.9
 eng-fra	multi30k_test_2017_mscoco	53.3
 eng-fra	multi30k_test_2018_flickr	42.1
 eng-fra	newsdiscussdev2015	32.8
-eng-fra	newsdiscussdev2015	32.7
-eng-fra	newsdiscussdev2015	32.7
-eng-fra	newsdiscusstest2015	39.1
-eng-fra	newsdiscusstest2015	39.3
 eng-fra	newsdiscusstest2015	39.1
 eng-fra	newssyscomb2009	30.0
 eng-fra	news-test2008	27.5
@@ -19,8 +15,6 @@ eng-fra	newstest2010	32.1
 eng-fra	newstest2011	34.6
 eng-fra	newstest2012	31.8
 eng-fra	newstest2013	33.4
-eng-fra	newstest2014	40.7
-eng-fra	newstest2014	40.7
 eng-fra	newstest2014	40.7
 eng-fra	tatoeba-test-v2020-07-28	50.9
 eng-fra	tatoeba-test-v2021-03-30	51.5

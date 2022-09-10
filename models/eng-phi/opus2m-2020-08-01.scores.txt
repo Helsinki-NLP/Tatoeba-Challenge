@@ -1,11 +1,11 @@
 eng-ceb	flores101-dev	0.539	23.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	997	27613
 eng-ceb	flores101-devtest	0.550	24.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	1012	29053
 eng-ceb	tatoeba-test-v2020-07-28	0.436	10.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	378	2088
-eng-ilo	tatoeba-test-v2020-07-28	0.590	33.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	1093	7241
-eng-war	tatoeba-test-v2020-07-28	0.441	12.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	1512	11027
 eng-ceb	tatoeba-test-v2021-03-30	0.436	10.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	380	2094
-eng-ilo	tatoeba-test-v2021-03-30	0.590	33.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	1093	7241
-eng-war	tatoeba-test-v2021-03-30	0.441	12.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	1512	11027
 eng-ceb	tatoeba-test-v2021-08-07	0.436	10.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	378	2088
+eng-ilo	tatoeba-test-v2020-07-28	0.590	33.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	1093	7241
+eng-ilo	tatoeba-test-v2021-03-30	0.590	33.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	1093	7241
 eng-ilo	tatoeba-test-v2021-08-07	0.590	33.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	1093	7241
+eng-war	tatoeba-test-v2020-07-28	0.441	12.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	1512	11027
+eng-war	tatoeba-test-v2021-03-30	0.441	12.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	1512	11027
 eng-war	tatoeba-test-v2021-08-07	0.441	12.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-phi/opus2m-2020-08-01.zip	1512	11027

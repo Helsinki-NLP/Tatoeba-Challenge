@@ -12,8 +12,6 @@ eng-khm	flores101-devtest	0.191	0.5	https://object.pouta.csc.fi/Tatoeba-MT-model
 eng-khm	flores200-dev	0.18984	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-aav/opus-2020-07-26.zip	997	6836
 eng-khm	flores200-devtest	0.19154	0.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-aav/opus-2020-07-26.zip	1012	7006
 eng-khm	newstest2020	0.183	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-aav/opus-2020-07-26.zip	2320	15454
-eng-khm	newstest2020	0.18322	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-aav/opus-2020-07-26.zip	2320	15454
-eng-khm	newstest2020-enkm	0.183	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-aav/opus-2020-07-26.zip	2320	15454
 eng-khm	tatoeba-test-v2020-07-28	0.244	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-aav/opus-2020-07-26.zip	752	1737
 eng-khm	tatoeba-test-v2021-03-30	0.244	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-aav/opus-2020-07-26.zip	754	1741
 eng-khm	tatoeba-test-v2021-08-07	0.240	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-aav/opus-2020-07-26.zip	726	1692

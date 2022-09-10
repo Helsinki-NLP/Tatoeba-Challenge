@@ -1,8 +1,8 @@
 kor-eng	flores101-dev	0.506	21.8	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opus-2020-06-17.zip	997	23555
 kor-eng	flores101-devtest	0.498	20.3	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opus-2020-06-17.zip	1012	24721
 kor-eng	tatoeba-test-v2020-07-28	0.587	41.2	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opus-2020-06-17.zip	2414	17711
-kor_Hang-eng	tatoeba-test-v2020-07-28	0.587	41.1	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opus-2020-06-17.zip	2390	17548
 kor-eng	tatoeba-test-v2021-03-30	0.587	41.2	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opus-2020-06-17.zip	2414	17711
-kor_Hang-eng	tatoeba-test-v2021-03-30	0.587	41.1	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opus-2020-06-17.zip	2390	17548
 kor-eng	tatoeba-test-v2021-08-07	0.587	41.3	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opus-2020-06-17.zip	2400	17619
+kor_Hang-eng	tatoeba-test-v2020-07-28	0.587	41.1	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opus-2020-06-17.zip	2390	17548
+kor_Hang-eng	tatoeba-test-v2021-03-30	0.587	41.1	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opus-2020-06-17.zip	2390	17548
 kor_Hang-eng	tatoeba-test-v2021-08-07	0.587	41.1	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opus-2020-06-17.zip	2376	17456

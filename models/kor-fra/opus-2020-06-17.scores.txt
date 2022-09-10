@@ -1,8 +1,8 @@
 kor-fra	flores101-dev	0.447	16.9	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-fra/opus-2020-06-17.zip	997	26706
 kor-fra	flores101-devtest	0.456	17.5	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-fra/opus-2020-06-17.zip	1012	28343
 kor-fra	tatoeba-test-v2020-07-28	0.500	30.1	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-fra/opus-2020-06-17.zip	320	2714
-kor_Hang-fra	tatoeba-test-v2020-07-28	0.500	30.1	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-fra/opus-2020-06-17.zip	315	2687
 kor-fra	tatoeba-test-v2021-03-30	0.501	30.2	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-fra/opus-2020-06-17.zip	324	2740
-kor_Hang-fra	tatoeba-test-v2021-03-30	0.502	30.3	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-fra/opus-2020-06-17.zip	319	2713
 kor-fra	tatoeba-test-v2021-08-07	0.500	30.1	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-fra/opus-2020-06-17.zip	321	2718
+kor_Hang-fra	tatoeba-test-v2020-07-28	0.500	30.1	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-fra/opus-2020-06-17.zip	315	2687
+kor_Hang-fra	tatoeba-test-v2021-03-30	0.502	30.3	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-fra/opus-2020-06-17.zip	319	2713
 kor_Hang-fra	tatoeba-test-v2021-08-07	0.500	30.2	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-fra/opus-2020-06-17.zip	316	2691

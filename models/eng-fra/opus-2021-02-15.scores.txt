@@ -7,11 +7,7 @@ eng-fra	multi30k_test_2017_flickr	0.709	49.9	https://object.pouta.csc.fi/Tatoeba
 eng-fra	multi30k_test_2017_mscoco	0.712	52.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	461	5484
 eng-fra	multi30k_test_2018_flickr	0.649	41.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	1071	15867
 eng-fra	newsdiscussdev2015	0.596	32.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	1500	27940
-eng-fra	newsdiscussdev2015	0.59640	32.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	1500	27940
-eng-fra	newsdiscussdev2015-enfr	0.596	32.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	1500	27940
 eng-fra	newsdiscusstest2015	0.635	38.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	1500	27975
-eng-fra	newsdiscusstest2015	0.63560	38.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	1500	27975
-eng-fra	newsdiscusstest2015-enfr	0.635	38.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	1500	27975
 eng-fra	newssyscomb2009	0.583	29.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	502	12331
 eng-fra	news-test2008	0.553	27.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	2051	52685
 eng-fra	newstest2009	0.576	29.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	2525	69263
@@ -20,8 +16,6 @@ eng-fra	newstest2011	0.611	34.1	https://object.pouta.csc.fi/Tatoeba-MT-models/en
 eng-fra	newstest2012	0.590	31.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	3003	78011
 eng-fra	newstest2013	0.588	33.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	3000	70037
 eng-fra	newstest2014	0.649	40.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	3003	77306
-eng-fra	newstest2014	0.64981	40.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	3003	77306
-eng-fra	newstest2014-fren	0.649	40.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	3003	77306
 eng-fra	tatoeba-test-v2020-07-28	0.668	50.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	10000	80769
 eng-fra	tatoeba-test-v2021-03-30	0.674	51.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	10892	89269
 eng-fra	tatoeba-test-v2021-08-07	0.680	51.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fra/opus-2021-02-15.zip	12681	106378

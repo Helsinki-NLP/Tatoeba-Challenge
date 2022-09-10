@@ -14,11 +14,7 @@ eng-tam	flores101-devtest	0.356	4.7	https://object.pouta.csc.fi/Tatoeba-MT-model
 eng-tam	flores200-dev	0.36648	4.7	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	997	19240
 eng-tam	flores200-devtest	0.35873	4.7	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	1012	19991
 eng-tam	newsdev2020	0.346	3.1	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	1989	35520
-eng-tam	newsdev2020	0.34861	3.0	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	1989	35520
-eng-tam	newsdev2020-enta	0.346	3.1	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	1989	35520
 eng-tam	newstest2020	0.341	2.8	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	1000	19606
-eng-tam	newstest2020	0.34279	3.0	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	1000	19606
-eng-tam	newstest2020-enta	0.341	2.8	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	1000	19606
 eng-tam	tatoeba-test-v2020-07-28	0.434	8.3	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	311	1501
 eng-tam	tatoeba-test-v2021-03-30	0.436	8.7	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	313	1509
 eng-tam	tatoeba-test-v2021-08-07	0.434	8.3	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	311	1501
@@ -70,11 +66,7 @@ tam-eng	flores101-devtest	0.416	15.4	https://object.pouta.csc.fi/Tatoeba-MT-mode
 tam-eng	flores200-dev	0.42214	16.1	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	997	23555
 tam-eng	flores200-devtest	0.41479	15.2	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	1012	24721
 tam-eng	newsdev2020	0.356	10.2	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	1989	45808
-tam-eng	newsdev2020	0.35623	10.3	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	1989	45808
-tam-eng	newsdev2020-taen	0.356	10.2	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	1989	45808
 tam-eng	newstest2020	0.329	8.7	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	997	19858
-tam-eng	newstest2020	0.33051	8.6	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	997	19858
-tam-eng	newstest2020-taen	0.329	8.7	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	997	19858
 tam-eng	tatoeba-test-v2020-07-28	0.462	30.4	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	311	2125
 tam-eng	tatoeba-test-v2021-03-30	0.466	30.9	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	313	2137
 tam-eng	tatoeba-test-v2021-08-07	0.462	30.4	https://object.pouta.csc.fi/Tatoeba-MT-models/dra-dra/opus-2020-10-04.zip	311	2125

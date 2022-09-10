@@ -1,5 +1,5 @@
-tur-eng	flores101-devtest	0.592	31.3	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-eng/opus-2021-02-18.zip	1012	24721
 tur-eng	flores101-dev	0.601	32.3	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-eng/opus-2021-02-18.zip	997	23555
+tur-eng	flores101-devtest	0.592	31.3	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-eng/opus-2021-02-18.zip	1012	24721
 tur-eng	newsdev2016	0.545	27.6	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-eng/opus-2021-02-18.zip	1001	21988
 tur-eng	newstest2016	0.524	23.9	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-eng/opus-2021-02-18.zip	3000	66175
 tur-eng	newstest2017	0.531	24.7	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-eng/opus-2021-02-18.zip	3007	67703

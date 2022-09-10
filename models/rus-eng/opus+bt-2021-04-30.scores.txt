@@ -4,7 +4,6 @@ rus-eng	newstest2012	0.611	35.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ru
 rus-eng	newstest2013	0.550	28.3	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-eng/opus+bt-2021-04-30.zip	3000	64505
 rus-eng	newstest2014	0.603	33.5	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-eng/opus+bt-2021-04-30.zip	3003	69190
 rus-eng	newstest2015	0.574	30.7	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-eng/opus+bt-2021-04-30.zip	2818	64428
-rus-eng	newstest2015	0.574	30.7	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-eng/opus+bt-2021-04-30.zip	2818	64428
 rus-eng	newstest2016	0.573	30.6	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-eng/opus+bt-2021-04-30.zip	2998	69278
 rus-eng	newstest2017	0.603	34.4	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-eng/opus+bt-2021-04-30.zip	3001	69025
 rus-eng	newstest2018	0.572	29.8	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-eng/opus+bt-2021-04-30.zip	3000	71291

@@ -1,8 +1,8 @@
 nob-rus	flores101-dev	0.260	4.3	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2020-06-17.zip	997	22657
 nob-rus	flores101-devtest	0.259	3.7	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2020-06-17.zip	1012	23295
 nob-rus	tatoeba-test-v2020-07-28	0.396	18.4	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2020-06-17.zip	1277	10659
-nor-rus	tatoeba-test-v2020-07-28	0.396	18.4	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2020-06-17.zip	1279	10671
 nob-rus	tatoeba-test-v2021-03-30	0.396	18.4	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2020-06-17.zip	1277	10659
-nor-rus	tatoeba-test-v2021-03-30	0.396	18.4	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2020-06-17.zip	1279	10671
 nob-rus	tatoeba-test-v2021-08-07	0.396	18.4	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2020-06-17.zip	1277	10659
+nor-rus	tatoeba-test-v2020-07-28	0.396	18.4	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2020-06-17.zip	1279	10671
+nor-rus	tatoeba-test-v2021-03-30	0.396	18.4	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2020-06-17.zip	1279	10671
 nor-rus	tatoeba-test-v2021-08-07	0.396	18.4	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-rus/opus-2020-06-17.zip	1279	10671

@@ -1,10 +1,10 @@
 cmn_Hans-bul	flores101-dev	0.340	10.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	997	23520
-cmn_Hant-bul	flores101-dev	0.328	9.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	997	23520
 cmn_Hans-bul	flores101-devtest	0.333	9.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	1012	24700
-cmn_Hant-bul	flores101-devtest	0.327	9.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	1012	24700
 cmn_Hans-bul	tatoeba-test-v2020-07-28	0.511	30.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	278	2183
-zho-bul	tatoeba-test-v2020-07-28	0.502	29.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	416	3113
 cmn_Hans-bul	tatoeba-test-v2021-03-30	0.510	30.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	279	2193
-zho-bul	tatoeba-test-v2021-03-30	0.503	29.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	417	3123
 cmn_Hans-bul	tatoeba-test-v2021-08-07	0.511	30.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	278	2183
+cmn_Hant-bul	flores101-dev	0.328	9.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	997	23520
+cmn_Hant-bul	flores101-devtest	0.327	9.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	1012	24700
+zho-bul	tatoeba-test-v2020-07-28	0.502	29.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	416	3113
+zho-bul	tatoeba-test-v2021-03-30	0.503	29.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	417	3123
 zho-bul	tatoeba-test-v2021-08-07	0.502	29.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zho-bul/opus-2020-07-03.zip	416	3113

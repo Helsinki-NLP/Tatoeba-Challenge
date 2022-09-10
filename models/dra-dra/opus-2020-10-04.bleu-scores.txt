@@ -14,10 +14,6 @@ eng-tam	flores101-devtest	4.7
 eng-tam	flores200-dev	4.7
 eng-tam	flores200-devtest	4.7
 eng-tam	newsdev2020	3.1
-eng-tam	newsdev2020	3.0
-eng-tam	newsdev2020	3.1
-eng-tam	newstest2020	2.8
-eng-tam	newstest2020	3.0
 eng-tam	newstest2020	2.8
 eng-tam	tatoeba-test-v2020-07-28	8.3
 eng-tam	tatoeba-test-v2021-03-30	8.7
@@ -70,10 +66,6 @@ tam-eng	flores101-devtest	15.4
 tam-eng	flores200-dev	16.1
 tam-eng	flores200-devtest	15.2
 tam-eng	newsdev2020	10.2
-tam-eng	newsdev2020	10.3
-tam-eng	newsdev2020	10.2
-tam-eng	newstest2020	8.7
-tam-eng	newstest2020	8.6
 tam-eng	newstest2020	8.7
 tam-eng	tatoeba-test-v2020-07-28	30.4
 tam-eng	tatoeba-test-v2021-03-30	30.9

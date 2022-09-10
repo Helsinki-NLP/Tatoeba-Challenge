@@ -1,11 +1,11 @@
+eng-nno	tatoeba-test-v2020-07-28	0.616	40.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	460	3428
+eng-nno	tatoeba-test-v2021-03-30	0.616	40.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	460	3428
+eng-nno	tatoeba-test-v2021-08-07	0.616	40.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	460	3428
 eng-nob	flores101-dev	0.608	32.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	997	23157
 eng-nob	flores101-devtest	0.608	31.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	1012	23873
-eng-nno	tatoeba-test-v2020-07-28	0.616	40.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	460	3428
 eng-nob	tatoeba-test-v2020-07-28	0.718	56.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	4539	36119
-eng-nor	tatoeba-test-v2020-07-28	0.709	55.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	5000	39552
-eng-nno	tatoeba-test-v2021-03-30	0.616	40.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	460	3428
 eng-nob	tatoeba-test-v2021-03-30	0.718	56.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	4539	36119
-eng-nor	tatoeba-test-v2021-03-30	0.709	55.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	5000	39552
-eng-nno	tatoeba-test-v2021-08-07	0.616	40.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	460	3428
 eng-nob	tatoeba-test-v2021-08-07	0.718	56.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	4539	36119
+eng-nor	tatoeba-test-v2020-07-28	0.709	55.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	5000	39552
+eng-nor	tatoeba-test-v2021-03-30	0.709	55.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	5000	39552
 eng-nor	tatoeba-test-v2021-08-07	0.709	55.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-nor/opus+bt-2021-04-20.zip	5000	39552

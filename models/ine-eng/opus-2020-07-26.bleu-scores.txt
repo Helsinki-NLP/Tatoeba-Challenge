@@ -100,7 +100,6 @@ lit-eng	newsdev2019	23.2
 pol-eng	newsdev2020	23.0
 isl-eng	newsdev2021.is-en	20.1
 fra-eng	newsdiscussdev2015	29.5
-fra-eng	newsdiscussdev2015	29.5
 fra-eng	newsdiscusstest2015	32.6
 ces-eng	newssyscomb2009	23.5
 deu-eng	newssyscomb2009	25.5
@@ -141,7 +140,6 @@ hin-eng	newstest2014	15.7
 rus-eng	newstest2014	26.7
 ces-eng	newstest2015	24.8
 deu-eng	newstest2015	28.4
-rus-eng	newstest2015	25.1
 rus-eng	newstest2015	25.1
 ces-eng	newstest2016	26.2
 deu-eng	newstest2016	32.7

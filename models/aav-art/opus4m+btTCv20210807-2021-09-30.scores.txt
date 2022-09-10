@@ -1,7 +1,7 @@
 khm-epo	flores200-dev	0.13215	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-art/opus4m+btTCv20210807-2021-09-30.zip	997	22940
 khm-epo	flores200-devtest	0.12506	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-art/opus4m+btTCv20210807-2021-09-30.zip	1012	23873
-vie-epo	flores200-devtest	0.31439	5.9	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-art/opus4m+btTCv20210807-2021-09-30.zip	1012	23873
 vie-epo	flores200-dev	0.30922	5.7	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-art/opus4m+btTCv20210807-2021-09-30.zip	997	22940
+vie-epo	flores200-devtest	0.31439	5.9	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-art/opus4m+btTCv20210807-2021-09-30.zip	1012	23873
 vie-epo	tatoeba-test-v2020-07-28	0.334	11.2	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-art/opus4m+btTCv20210807-2021-09-30.zip	1790	13637
 vie-epo	tatoeba-test-v2021-03-30	0.334	11.2	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-art/opus4m+btTCv20210807-2021-09-30.zip	1790	13637
 vie-epo	tatoeba-test-v2021-08-07	0.334	11.2	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-art/opus4m+btTCv20210807-2021-09-30.zip	1790	13637

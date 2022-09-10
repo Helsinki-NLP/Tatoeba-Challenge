@@ -1,4 +1,4 @@
 ara-fin	flores101-dev	0.360	7.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sem-fiu/opus-tuned4ara2fin-2021-03-03.zip	997	17938
-ara-hun	flores101-dev	0.142	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/sem-fiu/opus-tuned4ara2fin-2021-03-03.zip	997	21222
 ara-fin	flores101-devtest	0.360	6.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sem-fiu/opus-tuned4ara2fin-2021-03-03.zip	1012	18781
+ara-hun	flores101-dev	0.142	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/sem-fiu/opus-tuned4ara2fin-2021-03-03.zip	997	21222
 ara-hun	flores101-devtest	0.141	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/sem-fiu/opus-tuned4ara2fin-2021-03-03.zip	1012	22183

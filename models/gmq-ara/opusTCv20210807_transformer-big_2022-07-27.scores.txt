@@ -1,6 +1,6 @@
 dan-ara	flores101-dev	0.52400	20.3	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-ara/opusTCv20210807_transformer-big_2022-07-27.zip	997	20512
-nob-ara	flores101-dev	0.49420	17.1	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-ara/opusTCv20210807_transformer-big_2022-07-27.zip	997	20512
-swe-ara	flores101-dev	0.51750	20.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-ara/opusTCv20210807_transformer-big_2022-07-27.zip	997	20512
 dan-ara	flores101-devtest	0.52841	19.9	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-ara/opusTCv20210807_transformer-big_2022-07-27.zip	1012	21357
+nob-ara	flores101-dev	0.49420	17.1	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-ara/opusTCv20210807_transformer-big_2022-07-27.zip	997	20512
 nob-ara	flores101-devtest	0.49670	16.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-ara/opusTCv20210807_transformer-big_2022-07-27.zip	1012	21357
+swe-ara	flores101-dev	0.51750	20.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-ara/opusTCv20210807_transformer-big_2022-07-27.zip	997	20512
 swe-ara	flores101-devtest	0.51882	19.3	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-ara/opusTCv20210807_transformer-big_2022-07-27.zip	1012	21357

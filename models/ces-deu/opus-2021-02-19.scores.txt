@@ -12,8 +12,6 @@ ces-deu	newstest2011	0.517	21.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ce
 ces-deu	newstest2012	0.518	22.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-deu/opus-2021-02-19.zip	3003	72886
 ces-deu	newstest2013	0.538	24.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-deu/opus-2021-02-19.zip	3000	63737
 ces-deu	newstest2019	0.53170	23.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-deu/opus-2021-02-19.zip	1997	48746
-ces-deu	newstest2019	0.532	23.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-deu/opus-2021-02-19.zip	1997	48746
-ces-deu	newstest2019-csde	0.532	23.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-deu/opus-2021-02-19.zip	1997	48746
 ces-deu	tatoeba-test-v2020-07-28	0.691	51.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-deu/opus-2021-02-19.zip	3490	27155
 ces-deu	tatoeba-test-v2021-03-30	0.691	51.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-deu/opus-2021-02-19.zip	3490	27155
 ces-deu	tatoeba-test-v2021-08-07	0.691	51.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-deu/opus-2021-02-19.zip	3490	27155

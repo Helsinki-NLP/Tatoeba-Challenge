@@ -1,6 +1,6 @@
 nob-cmn_Hans	flores101-dev	0.129	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-zho/opus-2021-05-16.zip	997	2334
-nob-cmn_Hant	flores101-dev	0.117	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-zho/opus-2021-05-16.zip	997	2029
 nob-cmn_Hans	flores101-devtest	0.127	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-zho/opus-2021-05-16.zip	1012	2421
+nob-cmn_Hant	flores101-dev	0.117	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-zho/opus-2021-05-16.zip	997	2029
 nob-cmn_Hant	flores101-devtest	0.114	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-zho/opus-2021-05-16.zip	1012	2060
 nor-zho	tatoeba-test-v2020-07-28	0.255	29.9	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-zho/opus-2021-05-16.zip	200	2088
 nor-zho	tatoeba-test-v2021-03-30	0.256	30.0	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-zho/opus-2021-05-16.zip	202	2109

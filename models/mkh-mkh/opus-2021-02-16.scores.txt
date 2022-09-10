@@ -1,4 +1,4 @@
 khm-vie	flores101-dev	0.300	9.2	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-mkh/opus-2021-02-16.zip	997	31609
 khm-vie	flores101-devtest	0.290	8.8	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-mkh/opus-2021-02-16.zip	1012	33331
-vie-khm	flores101-devtest	0.117	0.5	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-mkh/opus-2021-02-16.zip	1012	7006
 vie-khm	flores101-dev	0.113	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-mkh/opus-2021-02-16.zip	997	6836
+vie-khm	flores101-devtest	0.117	0.5	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-mkh/opus-2021-02-16.zip	1012	7006

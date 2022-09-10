@@ -1,4 +1,4 @@
 bul-mkd	flores101-dev	0.545	23.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2020-07-27.zip	997	23159
-mkd-bul	flores101-dev	0.556	26.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2020-07-27.zip	997	23520
 bul-mkd	flores101-devtest	0.559	24.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2020-07-27.zip	1012	24314
+mkd-bul	flores101-dev	0.556	26.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2020-07-27.zip	997	23520
 mkd-bul	flores101-devtest	0.563	26.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zls-zls/opus-2020-07-27.zip	1012	24700

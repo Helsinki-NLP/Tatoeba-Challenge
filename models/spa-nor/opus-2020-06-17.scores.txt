@@ -1,8 +1,8 @@
 spa-nob	flores101-dev	0.367	8.2	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-nor/opus-2020-06-17.zip	997	23157
 spa-nob	flores101-devtest	0.366	8.1	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-nor/opus-2020-06-17.zip	1012	23873
 spa-nob	tatoeba-test-v2020-07-28	0.571	37.4	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-nor/opus-2020-06-17.zip	885	6762
-spa-nor	tatoeba-test-v2020-07-28	0.564	36.7	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-nor/opus-2020-06-17.zip	960	7217
 spa-nob	tatoeba-test-v2021-03-30	0.571	37.3	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-nor/opus-2020-06-17.zip	894	6838
-spa-nor	tatoeba-test-v2021-03-30	0.563	36.5	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-nor/opus-2020-06-17.zip	970	7300
 spa-nob	tatoeba-test-v2021-08-07	0.571	37.4	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-nor/opus-2020-06-17.zip	885	6762
+spa-nor	tatoeba-test-v2020-07-28	0.564	36.7	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-nor/opus-2020-06-17.zip	960	7217
+spa-nor	tatoeba-test-v2021-03-30	0.563	36.5	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-nor/opus-2020-06-17.zip	970	7300
 spa-nor	tatoeba-test-v2021-08-07	0.564	36.7	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-nor/opus-2020-06-17.zip	960	7217
