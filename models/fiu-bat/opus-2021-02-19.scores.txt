@@ -1,0 +1,8 @@
+est-lav	flores101-dev	0.485	18.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-bat/opus-2021-02-19.zip	997	21381
+est-lit	flores101-dev	0.475	15.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-bat/opus-2021-02-19.zip	997	20018
+fin-lav	flores101-dev	0.436	13.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-bat/opus-2021-02-19.zip	997	21381
+fin-lit	flores101-dev	0.450	13.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-bat/opus-2021-02-19.zip	997	20018
+est-lav	flores101-devtest	0.490	18.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-bat/opus-2021-02-19.zip	1012	22092
+est-lit	flores101-devtest	0.479	15.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-bat/opus-2021-02-19.zip	1012	20695
+fin-lav	flores101-devtest	0.429	13.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-bat/opus-2021-02-19.zip	1012	22092
+fin-lit	flores101-devtest	0.453	14.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-bat/opus-2021-02-19.zip	1012	20695

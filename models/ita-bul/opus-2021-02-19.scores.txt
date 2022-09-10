@@ -1,0 +1,5 @@
+ita-bul	flores101-dev	0.535	24.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-bul/opus-2021-02-19.zip	997	23520
+ita-bul	flores101-devtest	0.543	24.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-bul/opus-2021-02-19.zip	1012	24700
+ita-bul	tatoeba-test-v2020-07-28	0.657	47.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-bul/opus-2021-02-19.zip	2500	16512
+ita-bul	tatoeba-test-v2021-03-30	0.657	47.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-bul/opus-2021-02-19.zip	2500	16512
+ita-bul	tatoeba-test-v2021-08-07	0.657	47.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-bul/opus-2021-02-19.zip	2500	16512

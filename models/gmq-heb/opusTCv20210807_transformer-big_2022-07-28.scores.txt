@@ -1,0 +1,8 @@
+dan-heb	flores101-dev	0.52736	22.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-heb/opusTCv20210807_transformer-big_2022-07-28.zip	997	19946
+isl-heb	flores101-dev	0.42277	14.1	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-heb/opusTCv20210807_transformer-big_2022-07-28.zip	997	19946
+nob-heb	flores101-dev	0.48796	18.5	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-heb/opusTCv20210807_transformer-big_2022-07-28.zip	997	19946
+swe-heb	flores101-dev	0.52231	22.9	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-heb/opusTCv20210807_transformer-big_2022-07-28.zip	997	19946
+dan-heb	flores101-devtest	0.52815	22.9	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-heb/opusTCv20210807_transformer-big_2022-07-28.zip	1012	20749
+isl-heb	flores101-devtest	0.42284	14.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-heb/opusTCv20210807_transformer-big_2022-07-28.zip	1012	20749
+nob-heb	flores101-devtest	0.49492	19.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-heb/opusTCv20210807_transformer-big_2022-07-28.zip	1012	20749
+swe-heb	flores101-devtest	0.52408	23.0	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-heb/opusTCv20210807_transformer-big_2022-07-28.zip	1012	20749

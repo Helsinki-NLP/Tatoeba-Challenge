@@ -1,0 +1,5 @@
+pol-ukr	flores101-dev	0.46066	15.6	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	997	21841
+pol-ukr	flores101-devtest	0.46401	15.7	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	1012	22810
+pol-ukr	tatoeba-test-v2020-07-28	0.68442	48.0	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	2500	13434
+pol-ukr	tatoeba-test-v2021-03-30	0.68461	48.1	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	4977	26782
+pol-ukr	tatoeba-test-v2021-08-07	0.68502	48.2	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-16.zip	2519	13535

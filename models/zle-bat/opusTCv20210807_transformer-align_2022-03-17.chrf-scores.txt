@@ -1,0 +1,14 @@
+rus-lav	flores101-dev	0.50124
+rus-lit	flores101-dev	0.53315
+rus-lav	flores101-devtest	0.50566
+rus-lit	flores101-devtest	0.53780
+ukr-lav	flores101-devtest	0.51139
+ukr-lit	flores101-devtest	0.54140
+ukr-lav	flores101-dev	0.50837
+ukr-lit	flores101-dev	0.53316
+rus-lav	tatoeba-test-v2020-07-28	0.74581
+rus-lit	tatoeba-test-v2020-07-28	0.73268
+rus-lav	tatoeba-test-v2021-03-30	0.74349
+rus-lit	tatoeba-test-v2021-03-30	0.72097
+rus-lav	tatoeba-test-v2021-08-07	0.74581
+rus-lit	tatoeba-test-v2021-08-07	0.70744

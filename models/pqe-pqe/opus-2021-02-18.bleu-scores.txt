@@ -1,0 +1,10 @@
+eng-mri	flores101-dev	5.2
+mri-eng	flores101-dev	6.6
+eng-mri	flores101-devtest	5.0
+mri-eng	flores101-devtest	6.5
+eng-mri	tatoeba-test-v2020-07-28	7.2
+mri-eng	tatoeba-test-v2020-07-28	9.1
+eng-mri	tatoeba-test-v2021-03-30	7.2
+mri-eng	tatoeba-test-v2021-03-30	9.1
+eng-mri	tatoeba-test-v2021-08-07	7.3
+mri-eng	tatoeba-test-v2021-08-07	9.3

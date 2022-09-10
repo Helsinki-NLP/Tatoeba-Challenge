@@ -1,0 +1,5 @@
+fin-tur	flores101-dev	0.504	15.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-tur/opus+bt-2021-03-21.zip	997	19181
+fin-tur	flores101-devtest	0.501	14.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-tur/opus+bt-2021-03-21.zip	1012	20253
+fin-tur	tatoeba-test-v2020-07-28	0.612	31.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-tur/opus+bt-2021-03-21.zip	1796	10072
+fin-tur	tatoeba-test-v2021-03-30	0.612	31.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-tur/opus+bt-2021-03-21.zip	1796	10072
+fin-tur	tatoeba-test-v2021-08-07	0.612	31.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-tur/opus+bt-2021-03-21.zip	1796	10072

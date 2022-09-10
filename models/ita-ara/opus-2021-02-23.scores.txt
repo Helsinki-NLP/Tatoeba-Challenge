@@ -1,0 +1,5 @@
+ita-ara	flores101-dev	0.407	9.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-ara/opus-2021-02-23.zip	997	20512
+ita-ara	flores101-devtest	0.406	9.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-ara/opus-2021-02-23.zip	1012	21357
+ita-ara	tatoeba-test-v2020-07-28	0.521	20.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-ara/opus-2021-02-23.zip	235	1161
+ita-ara	tatoeba-test-v2021-03-30	0.513	19.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-ara/opus-2021-02-23.zip	250	1245
+ita-ara	tatoeba-test-v2021-08-07	0.521	20.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-ara/opus-2021-02-23.zip	235	1161

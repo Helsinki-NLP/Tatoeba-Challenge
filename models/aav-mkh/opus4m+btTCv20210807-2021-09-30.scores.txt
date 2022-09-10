@@ -1,0 +1,8 @@
+khm-vie	flores101-dev	0.171	0.9	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-mkh/opus4m+btTCv20210807-2021-09-30.zip	997	31609
+khm-vie	flores101-devtest	0.168	0.8	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-mkh/opus4m+btTCv20210807-2021-09-30.zip	1012	33331
+khm-vie	flores200-dev	0.17360	1.0	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-mkh/opus4m+btTCv20210807-2021-09-30.zip	997	31609
+khm-vie	flores200-devtest	0.17095	0.8	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-mkh/opus4m+btTCv20210807-2021-09-30.zip	1012	33331
+vie-khm	flores101-dev	0.038	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-mkh/opus4m+btTCv20210807-2021-09-30.zip	997	6836
+vie-khm	flores101-devtest	0.039	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-mkh/opus4m+btTCv20210807-2021-09-30.zip	1012	7006
+vie-khm	flores200-dev	5.362	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-mkh/opus4m+btTCv20210807-2021-09-30.zip	997	6836
+vie-khm	flores200-devtest	5.239	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-mkh/opus4m+btTCv20210807-2021-09-30.zip	1012	7006

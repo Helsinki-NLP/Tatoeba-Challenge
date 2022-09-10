@@ -1,0 +1,9 @@
+deu-rus	flores101-dev	0.484	20.3	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-rus/opus-2021-05-15.zip	997	22657
+deu-rus	flores101-devtest	0.484	19.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-rus/opus-2021-05-15.zip	1012	23295
+deu-rus	flores200-dev	0.48405	20.4	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-rus/opus-2021-05-15.zip	997	22657
+deu-rus	flores200-devtest	0.48377	19.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-rus/opus-2021-05-15.zip	1012	23295
+deu-rus	newstest2012	0.459	18.0	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-rus/opus-2021-05-15.zip	3003	64790
+deu-rus	newstest2013	0.485	21.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-rus/opus-2021-05-15.zip	3000	58560
+deu-rus	tatoeba-test-v2020-07-28	0.655	45.2	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-rus/opus-2021-05-15.zip	10000	67433
+deu-rus	tatoeba-test-v2021-03-30	0.654	45.0	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-rus/opus-2021-05-15.zip	11265	76204
+deu-rus	tatoeba-test-v2021-08-07	0.654	45.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-rus/opus-2021-05-15.zip	12800	87296

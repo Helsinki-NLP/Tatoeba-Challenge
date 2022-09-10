@@ -1,0 +1,16 @@
+eng-jpn	flores101-dev	0.258
+jpn-eng	flores101-dev	0.414
+eng-jpn	flores101-devtest	0.252
+jpn-eng	flores101-devtest	0.403
+eng-jpn	newsdev2020	0.177
+jpn-eng	newsdev2020	0.338
+eng-jpn	newstest2020	0.211
+jpn-eng	newstest2020	0.286
+eng-jpn	newstest2021.en-ja	0.218
+jpn-eng	newstest2021.ja-en	0.284
+eng-jpn	tatoeba-test-v2020-07-28	0.222
+jpn-eng	tatoeba-test-v2020-07-28	0.438
+eng-jpn	tatoeba-test-v2021-03-30	0.220
+jpn-eng	tatoeba-test-v2021-03-30	0.444
+eng-jpn	tatoeba-test-v2021-08-07	0.217
+jpn-eng	tatoeba-test-v2021-08-07	0.445

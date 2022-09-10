@@ -1,0 +1,15 @@
+bul-eng	flores101-dev	0.614
+mkd-eng	flores101-dev	0.608
+slv-eng	flores101-dev	0.560
+bul-eng	flores101-devtest	0.606
+mkd-eng	flores101-devtest	0.604
+slv-eng	flores101-devtest	0.552
+bul-eng	tatoeba-test-v2020-07-28	0.685
+mkd-eng	tatoeba-test-v2020-07-28	0.661
+slv-eng	tatoeba-test-v2020-07-28	0.376
+bul-eng	tatoeba-test-v2021-03-30	0.685
+mkd-eng	tatoeba-test-v2021-03-30	0.661
+slv-eng	tatoeba-test-v2021-03-30	0.376
+bul-eng	tatoeba-test-v2021-08-07	0.685
+mkd-eng	tatoeba-test-v2021-08-07	0.661
+slv-eng	tatoeba-test-v2021-08-07	0.346

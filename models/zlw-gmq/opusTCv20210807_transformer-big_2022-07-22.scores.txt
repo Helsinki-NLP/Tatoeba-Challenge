@@ -1,0 +1,17 @@
+ces-dan	flores101-dev	0.57585	30.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	997	23685
+ces-isl	flores101-dev	0.44334	15.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	997	21857
+ces-nob	flores101-dev	0.52012	21.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	997	23157
+ces-swe	flores101-dev	0.57476	28.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	997	22417
+pol-dan	flores101-dev	0.52589	24.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	997	23685
+pol-isl	flores101-dev	0.42248	13.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	997	21857
+pol-nob	flores101-dev	0.48410	18.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	997	23157
+pol-swe	flores101-dev	0.52396	22.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	997	22417
+ces-dan	flores101-devtest	0.57773	30.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	1012	24638
+ces-isl	flores101-devtest	0.44149	15.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	1012	22834
+ces-nob	flores101-devtest	0.52857	22.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	1012	23873
+ces-swe	flores101-devtest	0.57609	29.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	1012	23121
+pol-dan	flores101-devtest	0.53046	23.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	1012	24638
+pol-isl	flores101-devtest	0.41767	12.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	1012	22834
+pol-nob	flores101-devtest	0.48530	17.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	1012	23873
+pol-swe	flores101-devtest	0.52435	22.2	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	1012	23121
+pol-swe	tatoeba-test-v2021-08-07	0.71371	56.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-gmq/opusTCv20210807_transformer-big_2022-07-22.zip	1392	9304

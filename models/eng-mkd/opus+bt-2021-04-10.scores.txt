@@ -1,0 +1,5 @@
+eng-mkd	flores101-dev	0.616	32.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkd/opus+bt-2021-04-10.zip	997	23159
+eng-mkd	flores101-devtest	0.612	32.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkd/opus+bt-2021-04-10.zip	1012	24314
+eng-mkd	tatoeba-test-v2020-07-28	0.646	45.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkd/opus+bt-2021-04-10.zip	10000	61969
+eng-mkd	tatoeba-test-v2021-03-30	0.646	45.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkd/opus+bt-2021-04-10.zip	10009	62026
+eng-mkd	tatoeba-test-v2021-08-07	0.646	45.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkd/opus+bt-2021-04-10.zip	10010	62029

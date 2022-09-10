@@ -1,0 +1,17 @@
+bel-spa	flores101-dev	0.43852
+rus-spa	flores101-dev	0.50260
+bel-spa	flores101-devtest	0.44302
+rus-spa	flores101-devtest	0.50819
+ukr-spa	flores101-devtest	0.50614
+ukr-spa	flores101-dev	0.50071
+rus-spa	newstest2012	0.55030
+rus-spa	newstest2013	0.56862
+bel-spa	tatoeba-test-v2020-07-28	0.64504
+rus-spa	tatoeba-test-v2020-07-28	0.69661
+ukr-spa	tatoeba-test-v2020-07-28	0.68108
+bel-spa	tatoeba-test-v2021-03-30	0.64425
+rus-spa	tatoeba-test-v2021-03-30	0.69610
+ukr-spa	tatoeba-test-v2021-03-30	0.68123
+bel-spa	tatoeba-test-v2021-08-07	0.64504
+rus-spa	tatoeba-test-v2021-08-07	0.69637
+ukr-spa	tatoeba-test-v2021-08-07	0.68199

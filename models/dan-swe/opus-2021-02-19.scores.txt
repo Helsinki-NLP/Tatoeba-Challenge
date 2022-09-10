@@ -1,0 +1,7 @@
+dan-swe	flores101-dev	0.639	37.1	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-swe/opus-2021-02-19.zip	997	22417
+dan-swe	flores101-devtest	0.636	36.7	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-swe/opus-2021-02-19.zip	1012	23121
+dan-swe	flores200-dev	0.63867	37.1	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-swe/opus-2021-02-19.zip	997	22417
+dan-swe	flores200-devtest	0.63588	36.7	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-swe/opus-2021-02-19.zip	1012	23121
+dan-swe	tatoeba-test-v2020-07-28	0.833	72.1	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-swe/opus-2021-02-19.zip	1550	10082
+dan-swe	tatoeba-test-v2021-03-30	0.833	72.1	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-swe/opus-2021-02-19.zip	1550	10082
+dan-swe	tatoeba-test-v2021-08-07	0.833	72.0	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-swe/opus-2021-02-19.zip	1549	10060

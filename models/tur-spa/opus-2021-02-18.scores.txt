@@ -1,0 +1,5 @@
+tur-spa	flores101-devtest	0.456	17.1	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-spa/opus-2021-02-18.zip	1012	29199
+tur-spa	flores101-dev	0.455	17.3	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-spa/opus-2021-02-18.zip	997	27793
+tur-spa	tatoeba-test-v2020-07-28	0.726	56.9	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-spa/opus-2021-02-18.zip	10000	64184
+tur-spa	tatoeba-test-v2021-03-30	0.724	56.6	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-spa/opus-2021-02-18.zip	10225	65968
+tur-spa	tatoeba-test-v2021-08-07	0.718	55.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-spa/opus-2021-02-18.zip	10615	69359

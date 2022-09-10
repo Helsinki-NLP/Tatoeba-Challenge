@@ -1,0 +1,5 @@
+ukr-heb	flores101-devtest	0.381	10.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-heb/opus-2021-02-18.zip	1012	20749
+ukr-heb	flores101-dev	0.372	9.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-heb/opus-2021-02-18.zip	997	19946
+ukr-heb	tatoeba-test-v2020-07-28	0.555	35.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-heb/opus-2021-02-18.zip	959	4765
+ukr-heb	tatoeba-test-v2021-03-30	0.555	35.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-heb/opus-2021-02-18.zip	975	4837
+ukr-heb	tatoeba-test-v2021-08-07	0.556	35.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-heb/opus-2021-02-18.zip	966	4800

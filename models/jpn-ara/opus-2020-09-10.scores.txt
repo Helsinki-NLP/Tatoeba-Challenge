@@ -1,0 +1,5 @@
+jpn-ara	flores101-dev	0.226	2.3	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ara/opus-2020-09-10.zip	997	20512
+jpn-ara	flores101-devtest	0.227	2.3	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ara/opus-2020-09-10.zip	1012	21357
+jpn-ara	tatoeba-test-v2020-07-28	0.382	11.7	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ara/opus-2020-09-10.zip	1336	7089
+jpn-ara	tatoeba-test-v2021-03-30	0.382	11.7	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ara/opus-2020-09-10.zip	1336	7089
+jpn-ara	tatoeba-test-v2021-08-07	0.383	11.6	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-ara/opus-2020-09-10.zip	1336	7089

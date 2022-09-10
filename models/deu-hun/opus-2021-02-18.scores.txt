@@ -1,0 +1,9 @@
+deu-hun	flores101-dev	0.520	20.4	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hun/opus-2021-02-18.zip	997	21222
+deu-hun	flores101-devtest	0.521	19.8	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hun/opus-2021-02-18.zip	1012	22183
+deu-hun	flores200-dev	0.51999	20.5	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hun/opus-2021-02-18.zip	997	21222
+deu-hun	flores200-devtest	0.52031	19.8	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hun/opus-2021-02-18.zip	1012	22183
+deu-hun	newssyscomb2009	0.489	17.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hun/opus-2021-02-18.zip	502	9733
+deu-hun	newstest2009	0.479	17.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hun/opus-2021-02-18.zip	2525	54965
+deu-hun	tatoeba-test-v2020-07-28	0.580	33.0	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hun/opus-2021-02-18.zip	10000	68302
+deu-hun	tatoeba-test-v2021-03-30	0.573	31.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hun/opus-2021-02-18.zip	12232	84799
+deu-hun	tatoeba-test-v2021-08-07	0.572	31.8	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hun/opus-2021-02-18.zip	15342	105152

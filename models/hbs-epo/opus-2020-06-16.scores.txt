@@ -1,0 +1,12 @@
+hbs-epo	tatoeba-test-v2020-07-28	0.381	18.5	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-epo/opus-2020-06-16.zip	2500	18457
+hrv-epo	tatoeba-test-v2020-07-28	0.445	23.2	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-epo/opus-2020-06-16.zip	423	3204
+srp_Cyrl-epo	tatoeba-test-v2020-07-28	0.353	15.4	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-epo/opus-2020-06-16.zip	1795	13366
+srp_Latn-epo	tatoeba-test-v2020-07-28	0.481	30.0	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-epo/opus-2020-06-16.zip	270	1824
+hbs-epo	tatoeba-test-v2021-03-30	0.381	18.5	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-epo/opus-2020-06-16.zip	2500	18457
+hrv-epo	tatoeba-test-v2021-03-30	0.445	23.2	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-epo/opus-2020-06-16.zip	423	3204
+srp_Cyrl-epo	tatoeba-test-v2021-03-30	0.353	15.4	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-epo/opus-2020-06-16.zip	1795	13366
+srp_Latn-epo	tatoeba-test-v2021-03-30	0.481	30.0	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-epo/opus-2020-06-16.zip	270	1824
+hbs-epo	tatoeba-test-v2021-08-07	0.381	18.5	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-epo/opus-2020-06-16.zip	2500	18457
+hrv-epo	tatoeba-test-v2021-08-07	0.445	23.2	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-epo/opus-2020-06-16.zip	423	3204
+srp_Cyrl-epo	tatoeba-test-v2021-08-07	0.353	15.4	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-epo/opus-2020-06-16.zip	1795	13366
+srp_Latn-epo	tatoeba-test-v2021-08-07	0.481	30.0	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-epo/opus-2020-06-16.zip	270	1824

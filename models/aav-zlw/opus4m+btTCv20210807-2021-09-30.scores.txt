@@ -1,0 +1,16 @@
+khm-ces	flores101-dev	0.138	0.9	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	997	21183
+khm-ces	flores101-devtest	0.139	0.8	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	1012	22101
+khm-ces	flores200-dev	0.13979	1.0	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	997	21183
+khm-ces	flores200-devtest	0.13888	0.8	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	1012	22101
+khm-pol	flores101-dev	0.189	1.0	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	997	21684
+khm-pol	flores101-devtest	0.186	0.8	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	1012	22520
+khm-pol	flores200-dev	0.18854	1.0	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	997	21684
+khm-pol	flores200-devtest	0.18589	0.9	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	1012	22520
+vie-ces	flores101-dev	0.427	15.5	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	997	21183
+vie-ces	flores101-devtest	0.419	14.1	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	1012	22101
+vie-ces	flores200-dev	0.42797	15.6	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	997	21183
+vie-ces	flores200-devtest	0.41871	14.2	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	1012	22101
+vie-pol	flores101-dev	0.412	12.4	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	997	21684
+vie-pol	flores101-devtest	0.407	11.2	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	1012	22520
+vie-pol	flores200-dev	0.41138	12.3	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	997	21684
+vie-pol	flores200-devtest	0.40660	11.2	https://object.pouta.csc.fi/Tatoeba-MT-models/aav-zlw/opus4m+btTCv20210807-2021-09-30.zip	1012	22520

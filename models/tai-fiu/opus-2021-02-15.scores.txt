@@ -1,0 +1,12 @@
+lao-est	flores101-dev	0.016	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tai-fiu/opus-2021-02-15.zip	997	18917
+lao-fin	flores101-dev	0.015	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tai-fiu/opus-2021-02-15.zip	997	17938
+lao-hun	flores101-dev	0.015	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/tai-fiu/opus-2021-02-15.zip	997	21222
+lao-est	flores101-devtest	0.016	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/tai-fiu/opus-2021-02-15.zip	1012	19788
+lao-fin	flores101-devtest	0.015	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tai-fiu/opus-2021-02-15.zip	1012	18781
+lao-hun	flores101-devtest	0.014	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/tai-fiu/opus-2021-02-15.zip	1012	22183
+tha-est	flores101-devtest	0.181	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/tai-fiu/opus-2021-02-15.zip	1012	19788
+tha-fin	flores101-devtest	0.301	3.9	https://object.pouta.csc.fi/Tatoeba-MT-models/tai-fiu/opus-2021-02-15.zip	1012	18781
+tha-hun	flores101-devtest	0.129	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/tai-fiu/opus-2021-02-15.zip	1012	22183
+tha-est	flores101-dev	0.180	0.4	https://object.pouta.csc.fi/Tatoeba-MT-models/tai-fiu/opus-2021-02-15.zip	997	18917
+tha-fin	flores101-dev	0.300	4.1	https://object.pouta.csc.fi/Tatoeba-MT-models/tai-fiu/opus-2021-02-15.zip	997	17938
+tha-hun	flores101-dev	0.129	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/tai-fiu/opus-2021-02-15.zip	997	21222

@@ -1,0 +1,11 @@
+epo-por	flores200-dev	0.28822	6.3	https://object.pouta.csc.fi/Tatoeba-MT-models/art-por/opus1m-2021-05-15.zip	997	25287
+epo-por	flores200-devtest	0.28743	6.2	https://object.pouta.csc.fi/Tatoeba-MT-models/art-por/opus1m-2021-05-15.zip	1012	26519
+epo-por	tatoeba-test-v2020-07-28	0.390	17.3	https://object.pouta.csc.fi/Tatoeba-MT-models/art-por/opus1m-2021-05-15.zip	10000	89991
+epo-por	tatoeba-test-v2021-03-30	0.394	17.7	https://object.pouta.csc.fi/Tatoeba-MT-models/art-por/opus1m-2021-05-15.zip	10475	93468
+epo-por	tatoeba-test-v2021-08-07	0.393	17.6	https://object.pouta.csc.fi/Tatoeba-MT-models/art-por/opus1m-2021-05-15.zip	10809	98394
+ina-por	tatoeba-test-v2020-07-28	0.207	2.3	https://object.pouta.csc.fi/Tatoeba-MT-models/art-por/opus1m-2021-05-15.zip	2500	23450
+ina-por	tatoeba-test-v2021-03-30	0.207	2.3	https://object.pouta.csc.fi/Tatoeba-MT-models/art-por/opus1m-2021-05-15.zip	5009	46869
+ina-por	tatoeba-test-v2021-08-07	0.207	2.3	https://object.pouta.csc.fi/Tatoeba-MT-models/art-por/opus1m-2021-05-15.zip	2537	23648
+lfn-por	tatoeba-test-v2020-07-28	0.178	1.4	https://object.pouta.csc.fi/Tatoeba-MT-models/art-por/opus1m-2021-05-15.zip	1945	24920
+lfn-por	tatoeba-test-v2021-03-30	0.178	1.4	https://object.pouta.csc.fi/Tatoeba-MT-models/art-por/opus1m-2021-05-15.zip	1945	24920
+lfn-por	tatoeba-test-v2021-08-07	0.178	1.4	https://object.pouta.csc.fi/Tatoeba-MT-models/art-por/opus1m-2021-05-15.zip	1945	24920

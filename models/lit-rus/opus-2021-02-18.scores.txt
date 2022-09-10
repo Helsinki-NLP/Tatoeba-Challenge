@@ -1,0 +1,5 @@
+lit-rus	flores101-dev	0.400	13.4	https://object.pouta.csc.fi/Tatoeba-MT-models/lit-rus/opus-2021-02-18.zip	997	22657
+lit-rus	flores101-devtest	0.402	12.9	https://object.pouta.csc.fi/Tatoeba-MT-models/lit-rus/opus-2021-02-18.zip	1012	23295
+lit-rus	tatoeba-test-v2020-07-28	0.694	51.7	https://object.pouta.csc.fi/Tatoeba-MT-models/lit-rus/opus-2021-02-18.zip	2500	15395
+lit-rus	tatoeba-test-v2021-03-30	0.687	50.9	https://object.pouta.csc.fi/Tatoeba-MT-models/lit-rus/opus-2021-02-18.zip	5296	32463
+lit-rus	tatoeba-test-v2021-08-07	0.676	49.8	https://object.pouta.csc.fi/Tatoeba-MT-models/lit-rus/opus-2021-02-18.zip	3598	21908

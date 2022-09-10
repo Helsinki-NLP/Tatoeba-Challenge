@@ -1,0 +1,5 @@
+kor-eng	flores101-dev	0.57001	28.7	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opusTCv20210807-sepvoc_transformer-big_2022-07-28.zip	997	23555
+kor-eng	flores101-devtest	0.56615	27.7	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opusTCv20210807-sepvoc_transformer-big_2022-07-28.zip	1012	24721
+kor-eng	tatoeba-test-v2020-07-28	0.58798	41.3	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opusTCv20210807-sepvoc_transformer-big_2022-07-28.zip	2414	17711
+kor-eng	tatoeba-test-v2021-03-30	0.58798	41.3	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opusTCv20210807-sepvoc_transformer-big_2022-07-28.zip	2414	17711
+kor-eng	tatoeba-test-v2021-08-07	0.58829	41.3	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-eng/opusTCv20210807-sepvoc_transformer-big_2022-07-28.zip	2400	17619

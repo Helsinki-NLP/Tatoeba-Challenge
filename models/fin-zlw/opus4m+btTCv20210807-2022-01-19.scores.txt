@@ -1,0 +1,7 @@
+fin-ces	flores101-dev	0.47873	19.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zlw/opus4m+btTCv20210807-2022-01-19.zip	997	21183
+fin-pol	flores101-dev	0.45004	14.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zlw/opus4m+btTCv20210807-2022-01-19.zip	997	21684
+fin-ces	flores101-devtest	0.46868	18.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zlw/opus4m+btTCv20210807-2022-01-19.zip	1012	22101
+fin-pol	flores101-devtest	0.44620	14.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zlw/opus4m+btTCv20210807-2022-01-19.zip	1012	22520
+fin-pol	tatoeba-test-v2020-07-28	0.65204	45.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zlw/opus4m+btTCv20210807-2022-01-19.zip	609	3513
+fin-pol	tatoeba-test-v2021-03-30	0.65196	45.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zlw/opus4m+btTCv20210807-2022-01-19.zip	610	3518
+fin-pol	tatoeba-test-v2021-08-07	0.65204	45.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zlw/opus4m+btTCv20210807-2022-01-19.zip	609	3513

@@ -1,0 +1,5 @@
+est-deu	flores101-dev	0.528	23.3	https://object.pouta.csc.fi/Tatoeba-MT-models/est-deu/opus-2021-02-18.zip	997	24097
+est-deu	flores101-devtest	0.526	22.3	https://object.pouta.csc.fi/Tatoeba-MT-models/est-deu/opus-2021-02-18.zip	1012	25094
+est-deu	tatoeba-test-v2020-07-28	0.681	51.2	https://object.pouta.csc.fi/Tatoeba-MT-models/est-deu/opus-2021-02-18.zip	217	1390
+est-deu	tatoeba-test-v2021-03-30	0.681	51.2	https://object.pouta.csc.fi/Tatoeba-MT-models/est-deu/opus-2021-02-18.zip	222	1425
+est-deu	tatoeba-test-v2021-08-07	0.677	51.0	https://object.pouta.csc.fi/Tatoeba-MT-models/est-deu/opus-2021-02-18.zip	244	1611

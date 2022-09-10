@@ -1,0 +1,9 @@
+deu-ita	flores101-dev	0.55917	26.4	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ita/opusTCv20210807_transformer-big_2022-07-22.zip	997	25840
+deu-ita	flores101-devtest	0.56569	27.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ita/opusTCv20210807_transformer-big_2022-07-22.zip	1012	27306
+deu-ita	flores200-dev	0.55917	26.4	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ita/opusTCv20210807_transformer-big_2022-07-22.zip	997	25840
+deu-ita	flores200-devtest	0.56569	27.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ita/opusTCv20210807_transformer-big_2022-07-22.zip	1012	27306
+deu-ita	newssyscomb2009	0.56821	27.2	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ita/opusTCv20210807_transformer-big_2022-07-22.zip	502	11551
+deu-ita	newstest2009	0.55063	25.3	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ita/opusTCv20210807_transformer-big_2022-07-22.zip	2525	63466
+deu-ita	tatoeba-test-v2020-07-28	0.69711	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ita/opusTCv20210807_transformer-big_2022-07-22.zip	10000	74421
+deu-ita	tatoeba-test-v2021-03-30	0.69749	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ita/opusTCv20210807_transformer-big_2022-07-22.zip	10018	74565
+deu-ita	tatoeba-test-v2021-08-07	0.69889	49.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ita/opusTCv20210807_transformer-big_2022-07-22.zip	10094	75504

@@ -1,0 +1,13 @@
+eng-ind	flores101-dev	29.7
+eng-ind	flores101-devtest	31.1
+eng-ind	flores200-dev	29.6
+eng-ind	flores200-devtest	31.0
+eng-ind	tatoeba-test-v2020-07-28	36.3
+eng-ind	tatoeba-test-v2021-03-30	36.3
+eng-ind	tatoeba-test-v2021-08-07	36.3
+eng-ind	tico19-test	30.0
+eng-pap	flores200-dev	23.0
+eng-pap	flores200-devtest	22.6
+eng-zsm_Latn	tatoeba-test-v2020-07-28	10.5
+eng-zsm_Latn	tatoeba-test-v2021-03-30	10.5
+eng-zsm_Latn	tatoeba-test-v2021-08-07	10.5

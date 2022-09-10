@@ -1,0 +1,9 @@
+ces-ita	flores101-dev	0.510	19.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-ita/opus-2021-02-19.zip	997	25840
+ces-ita	flores101-devtest	0.514	21.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-ita/opus-2021-02-19.zip	1012	27306
+ces-ita	flores200-dev	0.51006	19.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-ita/opus-2021-02-19.zip	997	25840
+ces-ita	flores200-devtest	0.51369	20.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-ita/opus-2021-02-19.zip	1012	27306
+ces-ita	newssyscomb2009	0.558	25.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-ita/opus-2021-02-19.zip	502	11551
+ces-ita	newstest2009	0.546	23.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-ita/opus-2021-02-19.zip	2525	63466
+ces-ita	tatoeba-test-v2020-07-28	0.674	44.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-ita/opus-2021-02-19.zip	1099	7872
+ces-ita	tatoeba-test-v2021-03-30	0.674	44.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-ita/opus-2021-02-19.zip	1103	7904
+ces-ita	tatoeba-test-v2021-08-07	0.674	44.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-ita/opus-2021-02-19.zip	1099	7872

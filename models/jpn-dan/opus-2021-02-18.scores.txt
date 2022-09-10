@@ -1,0 +1,5 @@
+jpn-dan	flores101-dev	0.271	5.9	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-dan/opus-2021-02-18.zip	997	23685
+jpn-dan	flores101-devtest	0.268	5.8	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-dan/opus-2021-02-18.zip	1012	24638
+jpn-dan	tatoeba-test-v2020-07-28	0.572	40.7	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-dan/opus-2021-02-18.zip	896	5823
+jpn-dan	tatoeba-test-v2021-03-30	0.572	40.8	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-dan/opus-2021-02-18.zip	920	5979
+jpn-dan	tatoeba-test-v2021-08-07	0.571	40.5	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-dan/opus-2021-02-18.zip	904	5890

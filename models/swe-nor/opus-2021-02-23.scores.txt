@@ -1,0 +1,9 @@
+swe-nob	europeana2021	0.697	45.6	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-nor/opus-2021-02-23.zip	546	10818
+swe-nob	flores101-dev	0.552	25.7	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-nor/opus-2021-02-23.zip	997	23157
+swe-nob	flores101-devtest	0.554	25.8	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-nor/opus-2021-02-23.zip	1012	23873
+swe-nob	tatoeba-test-v2020-07-28	0.843	73.6	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-nor/opus-2021-02-23.zip	560	3672
+swe-nor	tatoeba-test-v2020-07-28	0.842	73.5	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-nor/opus-2021-02-23.zip	562	3682
+swe-nob	tatoeba-test-v2021-03-30	0.839	73.0	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-nor/opus-2021-02-23.zip	570	3765
+swe-nor	tatoeba-test-v2021-03-30	0.833	72.3	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-nor/opus-2021-02-23.zip	573	3801
+swe-nob	tatoeba-test-v2021-08-07	0.839	73.0	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-nor/opus-2021-02-23.zip	563	3708
+swe-nor	tatoeba-test-v2021-08-07	0.833	72.3	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-nor/opus-2021-02-23.zip	566	3744

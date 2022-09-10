@@ -1,0 +1,5 @@
+spa-ukr	flores101-dev	0.389	10.5	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ukr/opus-2021-02-18.zip	997	21841
+spa-ukr	flores101-devtest	0.389	11.1	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ukr/opus-2021-02-18.zip	1012	22810
+spa-ukr	tatoeba-test-v2020-07-28	0.615	41.3	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ukr/opus-2021-02-18.zip	10000	53833
+spa-ukr	tatoeba-test-v2021-03-30	0.615	41.3	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ukr/opus-2021-02-18.zip	10027	53966
+spa-ukr	tatoeba-test-v2021-08-07	0.615	41.3	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ukr/opus-2021-02-18.zip	10115	54544

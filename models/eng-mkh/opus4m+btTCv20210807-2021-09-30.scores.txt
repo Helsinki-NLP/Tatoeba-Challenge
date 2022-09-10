@@ -1,0 +1,17 @@
+eng-khm	flores101-dev	0.025	0.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	997	6836
+eng-vie	flores101-dev	0.544	35.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	997	31609
+eng-khm	flores101-devtest	0.022	0.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	1012	7006
+eng-vie	flores101-devtest	0.537	34.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	1012	33331
+eng-khm	newstest2020	0.003	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	2320	15454
+eng-kha	tatoeba-test-v2020-07-28	0.090	0.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	1314	9269
+eng-khm	tatoeba-test-v2020-07-28	0.011	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	752	1737
+eng-vie	tatoeba-test-v2020-07-28	0.528	34.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	2500	24427
+eng-kha	tatoeba-test-v2021-03-30	0.090	0.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	1314	9269
+eng-khm	tatoeba-test-v2021-03-30	0.011	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	754	1741
+eng-vie	tatoeba-test-v2021-03-30	0.528	34.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	2500	24427
+eng-kha	tatoeba-test-v2021-08-07	0.090	0.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	1314	9269
+eng-khm	tatoeba-test-v2021-08-07	0.011	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	726	1692
+eng-vie	tatoeba-test-v2021-08-07	0.528	34.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	2500	24427
+eng-khm	tico19-test	0.032	0.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	2100	15810
+eng-khm	wikipedia.dev.km-en	0.003	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	2378	14532
+eng-khm	wikipedia.devtest.km-en	0.003	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mkh/opus4m+btTCv20210807-2021-09-30.zip	2309	8834

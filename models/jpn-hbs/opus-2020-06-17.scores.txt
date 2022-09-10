@@ -1,0 +1,8 @@
+jpn-hrv	flores101-dev	0.330	7.3	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2020-06-17.zip	997	21567
+jpn-hrv	flores101-devtest	0.339	7.1	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2020-06-17.zip	1012	22423
+jpn-hbs	tatoeba-test-v2020-07-28	0.388	18.3	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2020-06-17.zip	400	2525
+jpn_Hira-hrv	tatoeba-test-v2020-07-28	0.363	15.9	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2020-06-17.zip	276	1768
+jpn-hbs	tatoeba-test-v2021-03-30	0.388	18.4	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2020-06-17.zip	403	2541
+jpn_Hira-hrv	tatoeba-test-v2021-03-30	0.364	16.1	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2020-06-17.zip	279	1784
+jpn-hbs	tatoeba-test-v2021-08-07	0.388	18.3	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2020-06-17.zip	400	2525
+jpn_Hira-hrv	tatoeba-test-v2021-08-07	0.363	15.9	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2020-06-17.zip	276	1768

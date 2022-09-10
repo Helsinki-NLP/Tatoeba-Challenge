@@ -1,0 +1,7 @@
+dan-eng	flores101-dev	0.698	45.7	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-eng/opus-2021-02-19.zip	997	23555
+dan-eng	flores101-devtest	0.695	45.2	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-eng/opus-2021-02-19.zip	1012	24721
+dan-eng	flores200-dev	0.69886	45.8	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-eng/opus-2021-02-19.zip	997	23555
+dan-eng	flores200-devtest	0.69498	45.3	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-eng/opus-2021-02-19.zip	1012	24721
+dan-eng	tatoeba-test-v2020-07-28	0.778	64.7	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-eng/opus-2021-02-19.zip	10000	73617
+dan-eng	tatoeba-test-v2021-03-30	0.778	64.7	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-eng/opus-2021-02-19.zip	10437	76848
+dan-eng	tatoeba-test-v2021-08-07	0.777	64.6	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-eng/opus-2021-02-19.zip	10795	79684

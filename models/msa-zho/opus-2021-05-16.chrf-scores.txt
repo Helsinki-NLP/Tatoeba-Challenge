@@ -1,0 +1,11 @@
+ind-cmn_Hans	flores101-dev	0.134
+ind-cmn_Hant	flores101-dev	0.111
+msa-cmn_Hans	flores101-dev	0.133
+msa-cmn_Hant	flores101-dev	0.114
+ind-cmn_Hans	flores101-devtest	0.131
+ind-cmn_Hant	flores101-devtest	0.108
+msa-cmn_Hans	flores101-devtest	0.132
+msa-cmn_Hant	flores101-devtest	0.108
+msa-zho	tatoeba-test-v2020-07-28	0.161
+msa-zho	tatoeba-test-v2021-03-30	0.157
+msa-zho	tatoeba-test-v2021-08-07	0.161

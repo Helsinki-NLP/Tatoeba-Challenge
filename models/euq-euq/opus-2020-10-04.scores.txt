@@ -1,0 +1,6 @@
+eng-eus	tatoeba-test-v2020-07-28	0.562	28.2	https://object.pouta.csc.fi/Tatoeba-MT-models/euq-euq/opus-2020-10-04.zip	1060	7080
+eus-eng	tatoeba-test-v2020-07-28	0.605	42.5	https://object.pouta.csc.fi/Tatoeba-MT-models/euq-euq/opus-2020-10-04.zip	1060	8157
+eng-eus	tatoeba-test-v2021-03-30	0.562	28.2	https://object.pouta.csc.fi/Tatoeba-MT-models/euq-euq/opus-2020-10-04.zip	1060	7080
+eus-eng	tatoeba-test-v2021-03-30	0.605	42.5	https://object.pouta.csc.fi/Tatoeba-MT-models/euq-euq/opus-2020-10-04.zip	1060	8157
+eng-eus	tatoeba-test-v2021-08-07	0.562	28.2	https://object.pouta.csc.fi/Tatoeba-MT-models/euq-euq/opus-2020-10-04.zip	1060	7080
+eus-eng	tatoeba-test-v2021-08-07	0.605	42.4	https://object.pouta.csc.fi/Tatoeba-MT-models/euq-euq/opus-2020-10-04.zip	1060	8157

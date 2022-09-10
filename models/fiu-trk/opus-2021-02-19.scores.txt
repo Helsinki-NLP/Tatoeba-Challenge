@@ -1,0 +1,12 @@
+est-tur	flores101-dev	0.348	5.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip	997	19181
+fin-tur	flores101-dev	0.331	4.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip	997	19181
+hun-tur	flores101-dev	0.339	5.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip	997	19181
+est-tur	flores101-devtest	0.341	5.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip	1012	20253
+fin-tur	flores101-devtest	0.321	4.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip	1012	20253
+hun-tur	flores101-devtest	0.338	5.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip	1012	20253
+fin-tur	tatoeba-test-v2020-07-28	0.523	23.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip	1796	10072
+hun-tur	tatoeba-test-v2020-07-28	0.573	31.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip	965	4770
+fin-tur	tatoeba-test-v2021-03-30	0.523	23.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip	1796	10072
+hun-tur	tatoeba-test-v2021-03-30	0.570	30.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip	992	4899
+fin-tur	tatoeba-test-v2021-08-07	0.523	23.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip	1796	10072
+hun-tur	tatoeba-test-v2021-08-07	0.572	31.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-trk/opus-2021-02-19.zip	1002	4942

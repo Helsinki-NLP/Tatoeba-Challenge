@@ -1,0 +1,11 @@
+ind-cmn_Hans	flores101-dev	0.134	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-zho/opus-2021-05-16.zip	997	2334
+ind-cmn_Hant	flores101-dev	0.111	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-zho/opus-2021-05-16.zip	997	2029
+msa-cmn_Hans	flores101-dev	0.133	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-zho/opus-2021-05-16.zip	997	2334
+msa-cmn_Hant	flores101-dev	0.114	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-zho/opus-2021-05-16.zip	997	2029
+ind-cmn_Hans	flores101-devtest	0.131	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-zho/opus-2021-05-16.zip	1012	2421
+ind-cmn_Hant	flores101-devtest	0.108	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-zho/opus-2021-05-16.zip	1012	2060
+msa-cmn_Hans	flores101-devtest	0.132	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-zho/opus-2021-05-16.zip	1012	2421
+msa-cmn_Hant	flores101-devtest	0.108	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-zho/opus-2021-05-16.zip	1012	2060
+msa-zho	tatoeba-test-v2020-07-28	0.161	17.4	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-zho/opus-2021-05-16.zip	369	4028
+msa-zho	tatoeba-test-v2021-03-30	0.157	17.0	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-zho/opus-2021-05-16.zip	388	4347
+msa-zho	tatoeba-test-v2021-08-07	0.161	17.4	https://object.pouta.csc.fi/Tatoeba-MT-models/msa-zho/opus-2021-05-16.zip	372	4068

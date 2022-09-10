@@ -1,0 +1,13 @@
+fas-fra	flores101-dev	0.56248	29.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	997	26706
+fas-ita	flores101-dev	0.49919	19.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	997	25840
+fas-por	flores101-dev	0.54764	27.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	997	25287
+fas-ron	flores101-dev	0.48837	20.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	997	25616
+fas-spa	flores101-dev	0.46962	19.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	997	27793
+fas-fra	flores101-devtest	0.55883	28.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	1012	28343
+fas-ita	flores101-devtest	0.49512	19.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	1012	27306
+fas-por	flores101-devtest	0.54829	27.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	1012	26519
+fas-ron	flores101-devtest	0.48821	19.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	1012	26799
+fas-spa	flores101-devtest	0.47722	19.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	1012	29199
+fas-fra	tatoeba-test-v2020-07-28	0.57910	37.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	375	3371
+fas-fra	tatoeba-test-v2021-03-30	0.58078	37.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	383	3442
+fas-fra	tatoeba-test-v2021-08-07	0.57949	37.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-itc/opusTCv20210807_transformer-big_2022-07-23.zip	376	3377

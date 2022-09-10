@@ -1,0 +1,5 @@
+ukr-hun	flores101-devtest	0.51953	20.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft_transformer-align_2022-03-08.zip	1012	22183
+ukr-hun	flores101-dev	0.52022	21.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft_transformer-align_2022-03-08.zip	997	21222
+ukr-hun	tatoeba-test-v2020-07-28	0.67495	43.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft_transformer-align_2022-03-08.zip	464	2433
+ukr-hun	tatoeba-test-v2021-03-30	0.67383	43.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft_transformer-align_2022-03-08.zip	474	2492
+ukr-hun	tatoeba-test-v2021-08-07	0.67544	44.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-hun/opusTCv20210807+pft_transformer-align_2022-03-08.zip	473	2472

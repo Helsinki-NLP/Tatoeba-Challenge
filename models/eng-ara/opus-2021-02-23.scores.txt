@@ -1,0 +1,15 @@
+eng-ara	flores101-dev	0.548	23.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	997	20512
+eng-ara	flores101-devtest	0.552	23.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	1012	21357
+eng-ara	flores200-dev	0.55033	23.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	997	20489
+eng-ara	flores200-devtest	0.55502	23.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	1012	21352
+eng-ara_Latn	flores200-dev	0.973	0.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	997	23681
+eng-ara_Latn	flores200-devtest	0.809	0.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	1012	24693
+eng-ara	tatoeba-test-v2020-07-28	0.467	16.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	10000	58935
+eng-ara	tatoeba-test-v2021-03-30	0.466	16.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	10267	61124
+eng-ara	tatoeba-test-v2021-08-07	0.466	16.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	10305	61356
+eng-ara	tico19-test	0.532	22.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	2100	51339
+eng-arq	tatoeba-test-v2020-07-28	0.158	0.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	403	2272
+eng-arq	tatoeba-test-v2021-03-30	0.159	0.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	405	2285
+eng-arq	tatoeba-test-v2021-08-07	0.159	0.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	405	2285
+eng-arz	flores200-dev	0.43338	11.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	997	20196
+eng-arz	flores200-devtest	0.43522	10.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-ara/opus-2021-02-23.zip	1012	21034

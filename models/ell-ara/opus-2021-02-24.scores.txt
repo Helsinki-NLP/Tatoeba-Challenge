@@ -1,0 +1,9 @@
+ell-ara	flores101-dev	0.383	8.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ell-ara/opus-2021-02-24.zip	997	20512
+ell-ara	flores101-devtest	0.383	7.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ell-ara/opus-2021-02-24.zip	1012	21357
+ell-ara	flores200-dev	0.38475	8.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ell-ara/opus-2021-02-24.zip	997	20489
+ell-ara	flores200-devtest	0.38280	7.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ell-ara/opus-2021-02-24.zip	1012	21352
+ell-ara	tatoeba-test-v2020-07-28	0.525	26.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ell-ara/opus-2021-02-24.zip	425	1686
+ell-ara	tatoeba-test-v2021-03-30	0.523	26.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ell-ara/opus-2021-02-24.zip	427	1694
+ell-ara	tatoeba-test-v2021-08-07	0.525	26.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ell-ara/opus-2021-02-24.zip	426	1688
+ell-arz	flores200-dev	0.35281	5.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ell-ara/opus-2021-02-24.zip	997	20196
+ell-arz	flores200-devtest	0.35035	4.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ell-ara/opus-2021-02-24.zip	1012	21034

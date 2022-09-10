@@ -1,0 +1,4 @@
+dan-ukr	flores101-dev	0.52286	23.5	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-ukr/opusTCv20210807+pbt_transformer-align_2022-03-07.zip	997	21841
+dan-ukr	flores101-devtest	0.52969	23.8	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-ukr/opusTCv20210807+pbt_transformer-align_2022-03-07.zip	1012	22810
+dan-ukr	flores200-dev	0.52286	23.5	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-ukr/opusTCv20210807+pbt_transformer-align_2022-03-07.zip	997	21841
+dan-ukr	flores200-devtest	0.52969	23.8	https://object.pouta.csc.fi/Tatoeba-MT-models/dan-ukr/opusTCv20210807+pbt_transformer-align_2022-03-07.zip	1012	22810

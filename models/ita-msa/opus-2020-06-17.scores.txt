@@ -1,0 +1,10 @@
+ita-ind	flores101-dev	0.530	20.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-msa/opus-2020-06-17.zip	997	21814
+ita-msa	flores101-dev	0.401	8.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-msa/opus-2020-06-17.zip	997	21878
+ita-ind	flores101-devtest	0.536	21.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-msa/opus-2020-06-17.zip	1012	22755
+ita-msa	flores101-devtest	0.397	8.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-msa/opus-2020-06-17.zip	1012	22768
+ita-ind	tatoeba-test-v2020-07-28	0.556	27.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-msa/opus-2020-06-17.zip	368	2333
+ita-msa	tatoeba-test-v2020-07-28	0.535	25.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-msa/opus-2020-06-17.zip	426	2765
+ita-ind	tatoeba-test-v2021-03-30	0.556	27.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-msa/opus-2020-06-17.zip	369	2341
+ita-msa	tatoeba-test-v2021-03-30	0.534	25.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-msa/opus-2020-06-17.zip	428	2782
+ita-ind	tatoeba-test-v2021-08-07	0.556	27.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-msa/opus-2020-06-17.zip	368	2333
+ita-msa	tatoeba-test-v2021-08-07	0.535	25.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-msa/opus-2020-06-17.zip	426	2765

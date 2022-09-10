@@ -1,0 +1,17 @@
+khm-eng	flores101-dev	0.350	8.9	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	997	23555
+khm-eng	flores101-devtest	0.323	7.4	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	1012	24721
+vie-eng	flores101-devtest	0.457	18.8	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	1012	24721
+vie-eng	flores101-dev	0.464	19.6	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	997	23555
+khm-eng	newstest2020	0.257	4.2	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	2320	44960
+kha-eng	tatoeba-test-v2020-07-28	0.114	0.8	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	1314	8445
+khm-eng	tatoeba-test-v2020-07-28	0.276	9.1	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	752	4394
+vie-eng	tatoeba-test-v2020-07-28	0.553	36.7	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	2500	20241
+kha-eng	tatoeba-test-v2021-03-30	0.114	0.8	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	1314	8445
+khm-eng	tatoeba-test-v2021-03-30	0.275	9.1	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	754	4412
+vie-eng	tatoeba-test-v2021-03-30	0.553	36.7	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	2500	20241
+kha-eng	tatoeba-test-v2021-08-07	0.114	0.8	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	1314	8445
+khm-eng	tatoeba-test-v2021-08-07	0.276	9.1	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	726	4288
+vie-eng	tatoeba-test-v2021-08-07	0.553	36.7	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	2500	20241
+khm-eng	tico19-test	0.316	7.7	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	2100	56824
+khm-eng	wikipedia.dev.km-en	0.258	5.0	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	2378	45734
+khm-eng	wikipedia.devtest.km-en	0.239	3.9	https://object.pouta.csc.fi/Tatoeba-MT-models/mkh-eng/opus-2020-06-28.zip	2309	50540

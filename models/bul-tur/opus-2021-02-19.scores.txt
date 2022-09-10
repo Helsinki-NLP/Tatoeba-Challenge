@@ -1,0 +1,7 @@
+bul-tur	flores101-dev	0.495	14.3	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-tur/opus-2021-02-19.zip	997	19181
+bul-tur	flores101-devtest	0.494	14.8	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-tur/opus-2021-02-19.zip	1012	20253
+bul-tur	flores200-dev	0.49471	14.5	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-tur/opus-2021-02-19.zip	997	19181
+bul-tur	flores200-devtest	0.49351	14.7	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-tur/opus-2021-02-19.zip	1012	20253
+bul-tur	tatoeba-test-v2020-07-28	0.685	40.1	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-tur/opus-2021-02-19.zip	833	4948
+bul-tur	tatoeba-test-v2021-03-30	0.685	40.1	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-tur/opus-2021-02-19.zip	837	4965
+bul-tur	tatoeba-test-v2021-08-07	0.685	40.1	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-tur/opus-2021-02-19.zip	834	4952

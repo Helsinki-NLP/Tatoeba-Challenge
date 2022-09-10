@@ -1,0 +1,17 @@
+deu-hbs	tatoeba-test-v2020-07-28	0.602	36.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	1959	13841
+deu-hbs	tatoeba-test-v2021-03-30	0.602	36.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	1959	13841
+deu-hbs	tatoeba-test-v2021-08-07	0.602	36.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	1959	13841
+deu-hrv	flores101-dev	0.515	21.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	997	21567
+deu-hrv	flores101-devtest	0.522	21.8	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	1012	22423
+deu-hrv	flores200-dev	0.51457	21.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	997	21567
+deu-hrv	flores200-devtest	0.52297	21.9	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	1012	22423
+deu-hrv	tatoeba-test-v2020-07-28	0.647	43.0	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	782	4933
+deu-hrv	tatoeba-test-v2021-03-30	0.647	43.0	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	782	4933
+deu-hrv	tatoeba-test-v2021-08-07	0.647	43.0	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	782	4933
+deu-srp_Cyrl	flores101-dev	0.46944	18.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	997	22384
+deu-srp_Cyrl	flores101-devtest	0.47072	18.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	1012	23456
+deu-srp_Cyrl	flores200-dev	0.46944	18.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	997	22384
+deu-srp_Cyrl	flores200-devtest	0.47072	18.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	1012	23456
+deu-srp_Latn	tatoeba-test-v2020-07-28	0.572	32.8	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	986	7723
+deu-srp_Latn	tatoeba-test-v2021-03-30	0.572	32.8	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	986	7723
+deu-srp_Latn	tatoeba-test-v2021-08-07	0.571	32.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-hbs/opus-2021-02-18.zip	986	7723

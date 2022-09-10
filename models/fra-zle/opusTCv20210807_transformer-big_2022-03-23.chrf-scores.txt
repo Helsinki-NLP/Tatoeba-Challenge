@@ -1,0 +1,16 @@
+fra-bel	flores101-dev	0.37320
+fra-rus	flores101-dev	0.54119
+fra-ukr	flores101-dev	0.52081
+fra-bel	flores101-devtest	0.38238
+fra-rus	flores101-devtest	0.54106
+fra-ukr	flores101-devtest	0.52733
+fra-rus	newstest2012	0.51254
+fra-rus	newstest2013	0.52342
+fra-rus	tatoeba-test-v2020-07-28	0.66758
+fra-ukr	tatoeba-test-v2020-07-28	0.61833
+fra-bel	tatoeba-test-v2021-03-30	0.52817
+fra-rus	tatoeba-test-v2021-03-30	0.66540
+fra-ukr	tatoeba-test-v2021-03-30	0.61860
+fra-bel	tatoeba-test-v2021-08-07	0.52711
+fra-rus	tatoeba-test-v2021-08-07	0.66502
+fra-ukr	tatoeba-test-v2021-08-07	0.61860

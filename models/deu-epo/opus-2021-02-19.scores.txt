@@ -1,0 +1,5 @@
+deu-epo	flores200-dev	0.31776	7.0	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-epo/opus-2021-02-19.zip	997	22940
+deu-epo	flores200-devtest	0.31987	7.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-epo/opus-2021-02-19.zip	1012	23873
+deu-epo	tatoeba-test-v2020-07-28	0.451	24.0	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-epo/opus-2021-02-19.zip	10000	87063
+deu-epo	tatoeba-test-v2021-03-30	0.448	23.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-epo/opus-2021-02-19.zip	11565	104758
+deu-epo	tatoeba-test-v2021-08-07	0.447	23.2	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-epo/opus-2021-02-19.zip	13439	125730

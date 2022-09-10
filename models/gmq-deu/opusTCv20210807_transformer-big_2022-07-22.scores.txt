@@ -1,0 +1,16 @@
+dan-deu	flores101-dev	0.60951	33.7	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	997	24097
+isl-deu	flores101-dev	0.51530	23.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	997	24097
+nob-deu	flores101-dev	0.56999	28.5	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	997	24097
+swe-deu	flores101-dev	0.61147	34.3	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	997	24097
+dan-deu	flores101-devtest	0.61464	33.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	1012	25094
+isl-deu	flores101-devtest	0.51260	23.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	1012	25094
+nob-deu	flores101-devtest	0.57247	28.0	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	1012	25094
+swe-deu	flores101-devtest	0.61315	33.7	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	1012	25094
+dan-deu	tatoeba-test-v2020-07-28	0.75347	58.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	10000	76069
+isl-deu	tatoeba-test-v2020-07-28	0.69064	53.0	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	968	6265
+dan-deu	tatoeba-test-v2021-03-30	0.75347	58.8	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	10000	76069
+isl-deu	tatoeba-test-v2021-03-30	0.69326	53.2	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	990	6456
+dan-deu	tatoeba-test-v2021-08-07	0.75343	58.7	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	9998	76055
+isl-deu	tatoeba-test-v2021-08-07	0.69052	52.9	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	969	6279
+nob-deu	tatoeba-test-v2021-08-07	0.70369	51.1	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	3525	33592
+swe-deu	tatoeba-test-v2021-08-07	0.72880	57.1	https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-deu/opusTCv20210807_transformer-big_2022-07-22.zip	3410	23494

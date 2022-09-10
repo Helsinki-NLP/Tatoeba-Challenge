@@ -1,0 +1,12 @@
+mya-est	flores101-dev	0.006	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-fiu/opus-2021-02-12.zip	997	18917
+mya-fin	flores101-dev	0.013	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-fiu/opus-2021-02-12.zip	997	17938
+mya-hun	flores101-dev	0.029	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-fiu/opus-2021-02-12.zip	997	21222
+mya-est	flores101-devtest	0.004	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-fiu/opus-2021-02-12.zip	1012	19788
+mya-fin	flores101-devtest	0.012	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-fiu/opus-2021-02-12.zip	1012	18781
+mya-hun	flores101-devtest	0.028	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-fiu/opus-2021-02-12.zip	1012	22183
+zho-fin	tatoeba-test-v2020-07-28	0.387	22.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-fiu/opus-2021-02-12.zip	380	1847
+zho-hun	tatoeba-test-v2020-07-28	0.253	9.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-fiu/opus-2021-02-12.zip	433	2558
+zho-fin	tatoeba-test-v2021-03-30	0.387	22.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-fiu/opus-2021-02-12.zip	387	1877
+zho-hun	tatoeba-test-v2021-03-30	0.252	9.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-fiu/opus-2021-02-12.zip	437	2580
+zho-fin	tatoeba-test-v2021-08-07	0.386	22.4	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-fiu/opus-2021-02-12.zip	382	1858
+zho-hun	tatoeba-test-v2021-08-07	0.254	9.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sit-fiu/opus-2021-02-12.zip	434	2562

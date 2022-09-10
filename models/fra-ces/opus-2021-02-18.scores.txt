@@ -1,0 +1,14 @@
+fra-ces	flores101-dev	0.511	23.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	997	21183
+fra-ces	flores101-devtest	0.512	23.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	1012	22101
+fra-ces	multi30k_test_2016_flickr	0.524	27.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	1000	10503
+fra-ces	multi30k_test_2018_flickr	0.500	24.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	1071	11631
+fra-ces	newssyscomb2009	0.497	21.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	502	10032
+fra-ces	news-test2008	0.482	19.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	2051	42484
+fra-ces	newstest2009	0.485	20.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	2525	55533
+fra-ces	newstest2010	0.487	20.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	2489	52955
+fra-ces	newstest2011	0.493	21.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	3003	65653
+fra-ces	newstest2012	0.477	20.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	3003	65456
+fra-ces	newstest2013	0.488	22.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	3000	57250
+fra-ces	tatoeba-test-v2020-07-28	0.676	47.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	425	2625
+fra-ces	tatoeba-test-v2021-03-30	0.678	47.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	439	2709
+fra-ces	tatoeba-test-v2021-08-07	0.677	47.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	438	2699

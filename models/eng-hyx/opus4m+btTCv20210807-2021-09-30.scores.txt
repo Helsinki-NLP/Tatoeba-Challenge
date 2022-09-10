@@ -1,0 +1,7 @@
+eng-hye	flores101-dev	0.450	13.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hyx/opus4m+btTCv20210807-2021-09-30.zip	997	21229
+eng-hye	flores101-devtest	0.446	12.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hyx/opus4m+btTCv20210807-2021-09-30.zip	1012	22170
+eng-hye	flores200-dev	0.45117	13.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hyx/opus4m+btTCv20210807-2021-09-30.zip	997	21229
+eng-hye	flores200-devtest	0.44675	12.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hyx/opus4m+btTCv20210807-2021-09-30.zip	1012	22170
+eng-hye	tatoeba-test-v2020-07-28	0.407	19.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hyx/opus4m+btTCv20210807-2021-09-30.zip	1121	5115
+eng-hye	tatoeba-test-v2021-03-30	0.407	19.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hyx/opus4m+btTCv20210807-2021-09-30.zip	1121	5115
+eng-hye	tatoeba-test-v2021-08-07	0.407	19.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-hyx/opus4m+btTCv20210807-2021-09-30.zip	1121	5115

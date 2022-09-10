@@ -1,0 +1,8 @@
+nob-spa	flores101-dev	0.367	9.5	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-spa/opus-2020-06-17.zip	997	27793
+nob-spa	flores101-devtest	0.370	9.4	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-spa/opus-2020-06-17.zip	1012	29199
+nob-spa	tatoeba-test-v2020-07-28	0.573	34.7	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-spa/opus-2020-06-17.zip	885	6866
+nor-spa	tatoeba-test-v2020-07-28	0.567	34.2	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-spa/opus-2020-06-17.zip	960	7311
+nob-spa	tatoeba-test-v2021-03-30	0.571	34.5	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-spa/opus-2020-06-17.zip	894	6934
+nor-spa	tatoeba-test-v2021-03-30	0.565	34.0	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-spa/opus-2020-06-17.zip	970	7387
+nob-spa	tatoeba-test-v2021-08-07	0.573	34.7	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-spa/opus-2020-06-17.zip	885	6866
+nor-spa	tatoeba-test-v2021-08-07	0.567	34.2	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-spa/opus-2020-06-17.zip	960	7311

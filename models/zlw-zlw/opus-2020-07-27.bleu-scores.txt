@@ -1,0 +1,12 @@
+ces-pol	flores101-dev	12.9
+pol-ces	flores101-dev	14.1
+ces-pol	flores101-devtest	12.7
+pol-ces	flores101-devtest	14.1
+ces-pol	tatoeba-test-v2020-07-28	43.7
+pol-ces	tatoeba-test-v2020-07-28	43.8
+ces-pol	tatoeba-test-v2021-03-30	44.1
+pol-ces	tatoeba-test-v2021-03-30	43.8
+ces-pol	tatoeba-test-v2021-08-07	43.6
+dsb-hsb	tatoeba-test-v2021-08-07	1.6
+hsb-dsb	tatoeba-test-v2021-08-07	1.4
+pol-ces	tatoeba-test-v2021-08-07	43.8

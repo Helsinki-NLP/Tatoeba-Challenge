@@ -1,0 +1,8 @@
+tam-eng	flores101-dev	0.422	15.2	https://object.pouta.csc.fi/Tatoeba-MT-models/tam-eng/opus+bt-2021-04-30.zip	997	23555
+tam-eng	flores101-devtest	0.418	14.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tam-eng/opus+bt-2021-04-30.zip	1012	24721
+tam-eng	newsdev2020	0.364	9.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tam-eng/opus+bt-2021-04-30.zip	1989	45808
+tam-eng	newstest2020	0.350	8.2	https://object.pouta.csc.fi/Tatoeba-MT-models/tam-eng/opus+bt-2021-04-30.zip	997	19858
+tam-eng	tatoeba-test-v2020-07-28	0.435	26.3	https://object.pouta.csc.fi/Tatoeba-MT-models/tam-eng/opus+bt-2021-04-30.zip	311	2125
+tam-eng	tatoeba-test-v2021-03-30	0.436	26.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tam-eng/opus+bt-2021-04-30.zip	313	2137
+tam-eng	tatoeba-test-v2021-08-07	0.435	26.3	https://object.pouta.csc.fi/Tatoeba-MT-models/tam-eng/opus+bt-2021-04-30.zip	311	2125
+tam-eng	tico19-test	0.386	12.4	https://object.pouta.csc.fi/Tatoeba-MT-models/tam-eng/opus+bt-2021-04-30.zip	2100	56824

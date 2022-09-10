@@ -1,0 +1,5 @@
+slv-ukr	flores101-dev	0.404	12.6	https://object.pouta.csc.fi/Tatoeba-MT-models/slv-ukr/opus-2021-02-19.zip	997	21841
+slv-ukr	flores101-devtest	0.405	12.9	https://object.pouta.csc.fi/Tatoeba-MT-models/slv-ukr/opus-2021-02-19.zip	1012	22810
+slv-ukr	tatoeba-test-v2020-07-28	0.240	11.0	https://object.pouta.csc.fi/Tatoeba-MT-models/slv-ukr/opus-2021-02-19.zip	848	3906
+slv-ukr	tatoeba-test-v2021-03-30	0.239	10.8	https://object.pouta.csc.fi/Tatoeba-MT-models/slv-ukr/opus-2021-02-19.zip	916	4237
+slv-ukr	tatoeba-test-v2021-08-07	0.230	9.8	https://object.pouta.csc.fi/Tatoeba-MT-models/slv-ukr/opus-2021-02-19.zip	915	4370

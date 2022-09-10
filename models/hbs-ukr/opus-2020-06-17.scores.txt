@@ -1,0 +1,14 @@
+hrv-ukr	flores101-dev	0.421	13.7	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	997	21841
+hrv-ukr	flores101-devtest	0.424	14.3	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	1012	22810
+hbs-ukr	tatoeba-test-v2020-07-28	0.665	49.1	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	941	4959
+hrv-ukr	tatoeba-test-v2020-07-28	0.641	44.9	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	389	2232
+srp_Cyrl-ukr	tatoeba-test-v2020-07-28	0.658	51.0	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	204	1059
+srp_Latn-ukr	tatoeba-test-v2020-07-28	0.708	54.4	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	348	1668
+hbs-ukr	tatoeba-test-v2021-03-30	0.665	49.1	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	953	5022
+hrv-ukr	tatoeba-test-v2021-03-30	0.640	45.0	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	393	2258
+srp_Cyrl-ukr	tatoeba-test-v2021-03-30	0.657	50.8	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	209	1081
+srp_Latn-ukr	tatoeba-test-v2021-03-30	0.709	54.5	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	351	1683
+hbs-ukr	tatoeba-test-v2021-08-07	0.665	49.1	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	942	4961
+hrv-ukr	tatoeba-test-v2021-08-07	0.641	44.9	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	389	2232
+srp_Cyrl-ukr	tatoeba-test-v2021-08-07	0.657	51.0	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	205	1061
+srp_Latn-ukr	tatoeba-test-v2021-08-07	0.708	54.4	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-ukr/opus-2020-06-17.zip	348	1668

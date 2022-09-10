@@ -1,0 +1,15 @@
+eng-ara	flores101-dev	0.548
+eng-ara	flores101-devtest	0.552
+eng-ara	flores200-dev	0.55033
+eng-ara	flores200-devtest	0.55502
+eng-ara_Latn	flores200-dev	0.973
+eng-ara_Latn	flores200-devtest	0.809
+eng-ara	tatoeba-test-v2020-07-28	0.467
+eng-ara	tatoeba-test-v2021-03-30	0.466
+eng-ara	tatoeba-test-v2021-08-07	0.466
+eng-ara	tico19-test	0.532
+eng-arq	tatoeba-test-v2020-07-28	0.158
+eng-arq	tatoeba-test-v2021-03-30	0.159
+eng-arq	tatoeba-test-v2021-08-07	0.159
+eng-arz	flores200-dev	0.43338
+eng-arz	flores200-devtest	0.43522
