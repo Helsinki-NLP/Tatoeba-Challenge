@@ -99,6 +99,7 @@
 
 
 
+
 # opus-2020-07-27.zip
 
 * dataset: opus
@@ -197,6 +198,7 @@
 | Tatoeba-test.ukr-pol.ukr.pol 	| 50.1 	| 0.695 |
 | Tatoeba-test.ukr-rus.ukr.rus 	| 63.9 	| 0.790 |
 | Tatoeba-test.ukr-slv.ukr.slv 	| 14.5 	| 0.288 |
+
 
 
 
@@ -375,6 +377,7 @@
 
 
 
+
 # opus-2020-10-04.zip
 
 * dataset: opus
@@ -546,6 +549,7 @@
 
 
 
+
 # opus-2021-02-16.zip
 
 * dataset: opus
@@ -565,6 +569,7 @@
 | testset | BLEU  | chr-F | #sent | #words | BP |
 |---------|-------|-------|-------|--------|----|
 | Tatoeba-test.multi-multi 	| 43.7 	| 0.614 	| 10000 	| 64261 	| 0.967 |
+
 
 
 
@@ -746,6 +751,7 @@
 | tico19-test.eng-rus 	| 17.1 	| 0.461 	| 2100 	| 55837 	| 0.909 |
 
 
+
 # opusTCv20210807_transformer-big_2022-08-29.zip
 
 * dataset: opusTCv20210807
@@ -925,4 +931,185 @@
 | Tatoeba-test-v2021-08-07.ukr-srp_Cyrl 	| 53.6 	| 0.70773 	| 205 	| 1112 	| 0.961 |
 | Tatoeba-test-v2021-08-07.ukr-srp_Latn 	| 51.2 	| 0.70891 	| 348 	| 1716 	| 0.978 |
 | Tatoeba-test-v2021-08-07.ukr-ukr 	| 36.9 	| 0.60879 	| 824 	| 4198 	| 1.000 |
+
+
+# opusTCv20210807_transformer-big_2022-09-15.zip
+
+* dataset: opusTCv20210807
+* model: transformer-big
+* source language(s): bel bel_Latn bos_Cyrl bos_Latn bul ces csb csb_Latn dsb hbs hbs_Cyrl hrv hsb mkd orv_Cyrl pol rus slv srp_Cyrl srp_Latn ukr
+* target language(s): bel bel_Latn bos_Cyrl bos_Latn bul ces csb csb_Latn dsb hbs hbs_Cyrl hrv hsb mkd orv_Cyrl pol rus slv srp_Cyrl srp_Latn ukr
+* raw source language(s): bel bos bul ces csb dsb hbs hrv hsb mkd orv pol rus slv srp ukr
+* raw target language(s): bel bos bul ces csb dsb hbs hrv hsb mkd orv pol rus slv srp ukr
+* model: transformer-big
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: 
+* download: [opusTCv20210807_transformer-big_2022-09-15.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opusTCv20210807_transformer-big_2022-09-15.zip)
+* test set translations: [opusTCv20210807_transformer-big_2022-09-15.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opusTCv20210807_transformer-big_2022-09-15.test.txt)
+* test set scores: [opusTCv20210807_transformer-big_2022-09-15.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opusTCv20210807_transformer-big_2022-09-15.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test-v2021-08-07.bel-bul 	| 100.0 	| 10.00000 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test-v2021-08-07.bel-ces 	| 43.6 	| 0.65071 	| 31 	| 172 	| 0.982 |
+| Tatoeba-test-v2021-08-07.bel-hbs 	| 51.0 	| 0.65679 	| 38 	| 213 	| 0.976 |
+| Tatoeba-test-v2021-08-07.bel_Latn-pol 	| 31.1 	| 0.70219 	| 2 	| 15 	| 1.000 |
+| Tatoeba-test-v2021-08-07.bel_Latn-rus 	| 13.4 	| 0.36938 	| 6 	| 60 	| 1.000 |
+| Tatoeba-test-v2021-08-07.bel_Latn-ukr 	| 10.5 	| 0.31278 	| 8 	| 61 	| 0.983 |
+| Tatoeba-test-v2021-08-07.bel-mkd 	| 38.0 	| 0.71758 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test-v2021-08-07.bel-pol 	| 47.6 	| 0.65710 	| 287 	| 1704 	| 0.990 |
+| Tatoeba-test-v2021-08-07.bel-rus 	| 60.4 	| 0.77019 	| 2500 	| 18815 	| 0.995 |
+| Tatoeba-test-v2021-08-07.bel-slv 	| 6.4 	| 0.22097 	| 12 	| 73 	| 0.944 |
+| Tatoeba-test-v2021-08-07.bel-srp_Cyrl 	| 49.0 	| 0.62968 	| 22 	| 137 	| 0.985 |
+| Tatoeba-test-v2021-08-07.bel-srp_Latn 	| 58.0 	| 0.76746 	| 16 	| 76 	| 0.987 |
+| Tatoeba-test-v2021-08-07.bel-ukr 	| 57.6 	| 0.75640 	| 2355 	| 15138 	| 0.999 |
+| Tatoeba-test-v2021-08-07.bos_Latn-rus 	| 70.6 	| 0.84901 	| 12 	| 47 	| 1.000 |
+| Tatoeba-test-v2021-08-07.bul-bel 	| 42.7 	| 0.79315 	| 1 	| 5 	| 1.000 |
+| Tatoeba-test-v2021-08-07.bul-bul 	| 38.2 	| 0.58546 	| 219 	| 1374 	| 0.973 |
+| Tatoeba-test-v2021-08-07.bul-ces 	| 65.8 	| 0.76296 	| 2 	| 11 	| 1.000 |
+| Tatoeba-test-v2021-08-07.bul-dsb 	| 44.2 	| 0.52696 	| 2 	| 9 	| 1.000 |
+| Tatoeba-test-v2021-08-07.bul-hbs 	| 100.0 	| 10.00000 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test-v2021-08-07.bul-hsb 	| 59.7 	| 0.74211 	| 2 	| 9 	| 1.000 |
+| Tatoeba-test-v2021-08-07.bul-mkd 	| 43.5 	| 0.71680 	| 5 	| 30 	| 1.000 |
+| Tatoeba-test-v2021-08-07.bul-pol 	| 54.3 	| 0.70241 	| 75 	| 456 	| 1.000 |
+| Tatoeba-test-v2021-08-07.bul-rus 	| 47.2 	| 0.68657 	| 1247 	| 7849 	| 0.977 |
+| Tatoeba-test-v2021-08-07.bul-slv 	| 3.6 	| 0.20673 	| 11 	| 60 	| 1.000 |
+| Tatoeba-test-v2021-08-07.bul-ukr 	| 50.7 	| 0.70376 	| 1020 	| 4909 	| 1.000 |
+| Tatoeba-test-v2021-08-07.ces-bel 	| 28.4 	| 0.55002 	| 31 	| 181 	| 0.937 |
+| Tatoeba-test-v2021-08-07.ces-bul 	| 75.8 	| 0.85887 	| 2 	| 11 	| 0.905 |
+| Tatoeba-test-v2021-08-07.ces-ces 	| 28.6 	| 0.52236 	| 152 	| 923 	| 0.971 |
+| Tatoeba-test-v2021-08-07.ces-dsb 	| 13.1 	| 0.33279 	| 41 	| 126 	| 1.000 |
+| Tatoeba-test-v2021-08-07.ces-hbs 	| 58.4 	| 0.70312 	| 29 	| 156 	| 0.961 |
+| Tatoeba-test-v2021-08-07.ces-hrv 	| 56.5 	| 0.68392 	| 28 	| 150 	| 0.959 |
+| Tatoeba-test-v2021-08-07.ces-hsb 	| 12.7 	| 0.35914 	| 170 	| 772 	| 0.926 |
+| Tatoeba-test-v2021-08-07.ces-mkd 	| 34.4 	| 0.68112 	| 2 	| 11 	| 0.905 |
+| Tatoeba-test-v2021-08-07.ces-pol 	| 49.5 	| 0.69593 	| 568 	| 3407 	| 0.970 |
+| Tatoeba-test-v2021-08-07.ces-rus 	| 53.9 	| 0.71564 	| 2934 	| 17743 	| 0.972 |
+| Tatoeba-test-v2021-08-07.ces-slv 	| 5.1 	| 0.24172 	| 489 	| 2514 	| 0.990 |
+| Tatoeba-test-v2021-08-07.ces-srp_Cyrl 	| 100.0 	| 10.00000 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test-v2021-08-07.ces-ukr 	| 52.5 	| 0.70271 	| 1787 	| 8854 	| 0.991 |
+| Tatoeba-test-v2021-08-07.csb-pol 	| 80.9 	| 0.70596 	| 1 	| 7 	| 1.000 |
+| Tatoeba-test-v2021-08-07.dsb-bul 	| 28.2 	| 0.34861 	| 2 	| 9 	| 1.000 |
+| Tatoeba-test-v2021-08-07.dsb-ces 	| 52.8 	| 0.62900 	| 41 	| 130 	| 1.000 |
+| Tatoeba-test-v2021-08-07.dsb-dsb 	| 19.0 	| 0.16860 	| 1 	| 4 	| 1.000 |
+| Tatoeba-test-v2021-08-07.dsb-hsb 	| 21.6 	| 0.42884 	| 331 	| 1298 	| 1.000 |
+| Tatoeba-test-v2021-08-07.dsb-pol 	| 11.8 	| 0.43901 	| 14 	| 74 	| 0.973 |
+| Tatoeba-test-v2021-08-07.dsb-rus 	| 37.8 	| 0.57827 	| 24 	| 124 	| 0.992 |
+| Tatoeba-test-v2021-08-07.dsb-slv 	| 5.0 	| 0.25202 	| 330 	| 1409 	| 0.996 |
+| Tatoeba-test-v2021-08-07.dsb-ukr 	| 10.5 	| 0.34146 	| 3 	| 13 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hbs-bel 	| 41.2 	| 0.57069 	| 38 	| 199 	| 0.995 |
+| Tatoeba-test-v2021-08-07.hbs-bul 	| 100.0 	| 10.00000 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hbs-ces 	| 51.9 	| 0.70777 	| 29 	| 146 	| 0.986 |
+| Tatoeba-test-v2021-08-07.hbs-hbs 	| 95.1 	| 0.98094 	| 8 	| 61 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hbs-hsb 	| 0.0 	| 0.26505 	| 1 	| 3 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hbs-mkd 	| 38.0 	| 0.71758 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hbs-pol 	| 50.6 	| 0.68587 	| 417 	| 2599 	| 0.962 |
+| Tatoeba-test-v2021-08-07.hbs-rus 	| 56.9 	| 0.73891 	| 2500 	| 14126 	| 0.990 |
+| Tatoeba-test-v2021-08-07.hbs-slv 	| 2.0 	| 0.15244 	| 37 	| 147 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hbs-ukr 	| 52.4 	| 0.70098 	| 942 	| 4928 	| 0.992 |
+| Tatoeba-test-v2021-08-07.hrv-ces 	| 51.8 	| 0.69716 	| 28 	| 140 	| 0.986 |
+| Tatoeba-test-v2021-08-07.hrv-pol 	| 48.8 	| 0.67450 	| 271 	| 1653 	| 0.957 |
+| Tatoeba-test-v2021-08-07.hrv-rus 	| 54.0 	| 0.68201 	| 124 	| 733 	| 0.964 |
+| Tatoeba-test-v2021-08-07.hrv-slv 	| 16.0 	| 0.32864 	| 1 	| 3 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hrv-srp_Cyrl 	| 0.0 	| 10.00000 	| 2 	| 4 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hrv-ukr 	| 49.8 	| 0.68268 	| 389 	| 2217 	| 0.986 |
+| Tatoeba-test-v2021-08-07.hsb-bul 	| 32.5 	| 0.52540 	| 2 	| 9 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hsb-ces 	| 39.4 	| 0.54834 	| 170 	| 756 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hsb-dsb 	| 18.4 	| 0.42495 	| 331 	| 1315 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hsb-hbs 	| 0.0 	| 0.27738 	| 1 	| 4 	| 0.717 |
+| Tatoeba-test-v2021-08-07.hsb-hsb 	| 16.0 	| 0.33285 	| 2 	| 9 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hsb-pol 	| 22.6 	| 0.54842 	| 1 	| 4 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hsb-rus 	| 21.8 	| 0.50549 	| 38 	| 281 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hsb-slv 	| 12.4 	| 0.25343 	| 743 	| 3187 	| 1.000 |
+| Tatoeba-test-v2021-08-07.hsb-ukr 	| 5.8 	| 0.34671 	| 8 	| 126 	| 1.000 |
+| Tatoeba-test-v2021-08-07.mkd-bel 	| 12.7 	| 0.42172 	| 1 	| 5 	| 1.000 |
+| Tatoeba-test-v2021-08-07.mkd-bul 	| 36.0 	| 0.62544 	| 5 	| 31 	| 1.000 |
+| Tatoeba-test-v2021-08-07.mkd-ces 	| 26.1 	| 0.62427 	| 2 	| 11 	| 1.000 |
+| Tatoeba-test-v2021-08-07.mkd-hbs 	| 38.0 	| 0.75889 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test-v2021-08-07.mkd-pol 	| 53.7 	| 0.82249 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test-v2021-08-07.mkd-rus 	| 71.7 	| 0.90611 	| 3 	| 13 	| 1.000 |
+| Tatoeba-test-v2021-08-07.mkd-slv 	| 1.5 	| 0.17791 	| 115 	| 515 	| 1.000 |
+| Tatoeba-test-v2021-08-07.mkd-ukr 	| 33.3 	| 0.56202 	| 5 	| 23 	| 1.000 |
+| Tatoeba-test-v2021-08-07.multi-multi 	| 55.3 	| 0.71834 	| 10000 	| 58987 	| 0.986 |
+| Tatoeba-test-v2021-08-07.orv-pol 	| 10.5 	| 0.37273 	| 7 	| 36 	| 0.882 |
+| Tatoeba-test-v2021-08-07.orv-rus 	| 11.7 	| 0.28516 	| 171 	| 1259 	| 0.850 |
+| Tatoeba-test-v2021-08-07.orv-ukr 	| 8.5 	| 0.25308 	| 973 	| 5423 	| 1.000 |
+| Tatoeba-test-v2021-08-07.pol-bel 	| 32.2 	| 0.56201 	| 287 	| 1730 	| 0.987 |
+| Tatoeba-test-v2021-08-07.pol-bel_Latn 	| 3.8 	| 0.862 	| 2 	| 16 	| 0.717 |
+| Tatoeba-test-v2021-08-07.pol-bul 	| 44.6 	| 0.63108 	| 75 	| 498 	| 0.936 |
+| Tatoeba-test-v2021-08-07.pol-ces 	| 48.1 	| 0.66225 	| 568 	| 3387 	| 0.982 |
+| Tatoeba-test-v2021-08-07.pol-csb 	| 13.1 	| 0.24949 	| 1 	| 7 	| 1.000 |
+| Tatoeba-test-v2021-08-07.pol-dsb 	| 14.4 	| 0.34267 	| 14 	| 79 	| 0.865 |
+| Tatoeba-test-v2021-08-07.pol-hbs 	| 47.9 	| 0.68430 	| 417 	| 2645 	| 0.970 |
+| Tatoeba-test-v2021-08-07.pol-hrv 	| 48.9 	| 0.68219 	| 271 	| 1680 	| 0.969 |
+| Tatoeba-test-v2021-08-07.pol-hsb 	| 14.1 	| 0.48220 	| 1 	| 4 	| 1.000 |
+| Tatoeba-test-v2021-08-07.pol-mkd 	| 40.9 	| 0.73746 	| 1 	| 6 	| 0.819 |
+| Tatoeba-test-v2021-08-07.pol-orv 	| 1.9 	| 0.858 	| 7 	| 31 	| 1.000 |
+| Tatoeba-test-v2021-08-07.pol-pol 	| 33.9 	| 0.54930 	| 157 	| 915 	| 0.970 |
+| Tatoeba-test-v2021-08-07.pol-rus 	| 52.4 	| 0.71116 	| 3543 	| 21971 	| 0.986 |
+| Tatoeba-test-v2021-08-07.pol-slv 	| 9.7 	| 0.27447 	| 183 	| 1008 	| 0.982 |
+| Tatoeba-test-v2021-08-07.pol-srp_Cyrl 	| 45.4 	| 0.66946 	| 92 	| 629 	| 0.964 |
+| Tatoeba-test-v2021-08-07.pol-srp_Latn 	| 47.7 	| 0.72327 	| 54 	| 336 	| 0.985 |
+| Tatoeba-test-v2021-08-07.pol-ukr 	| 48.9 	| 0.68521 	| 2519 	| 13493 	| 0.996 |
+| Tatoeba-test-v2021-08-07.rus-bel 	| 48.2 	| 0.65340 	| 2500 	| 18750 	| 0.999 |
+| Tatoeba-test-v2021-08-07.rus-bel_Latn 	| 1.2 	| 4.351 	| 6 	| 64 	| 0.849 |
+| Tatoeba-test-v2021-08-07.rus-bos_Latn 	| 52.0 	| 0.78630 	| 12 	| 54 	| 1.000 |
+| Tatoeba-test-v2021-08-07.rus-bul 	| 51.1 	| 0.70562 	| 1247 	| 8239 	| 0.945 |
+| Tatoeba-test-v2021-08-07.rus-ces 	| 52.2 	| 0.69079 	| 2934 	| 16824 	| 0.975 |
+| Tatoeba-test-v2021-08-07.rus-dsb 	| 9.3 	| 0.41978 	| 24 	| 118 	| 0.974 |
+| Tatoeba-test-v2021-08-07.rus-hbs 	| 48.6 	| 0.68671 	| 2500 	| 14723 	| 0.949 |
+| Tatoeba-test-v2021-08-07.rus-hrv 	| 48.5 	| 0.69575 	| 124 	| 723 	| 0.966 |
+| Tatoeba-test-v2021-08-07.rus-hsb 	| 33.5 	| 0.43965 	| 38 	| 273 	| 0.867 |
+| Tatoeba-test-v2021-08-07.rus-mkd 	| 48.9 	| 0.82007 	| 3 	| 15 	| 0.857 |
+| Tatoeba-test-v2021-08-07.rus-orv 	| 0.1 	| 0.855 	| 171 	| 1174 	| 1.000 |
+| Tatoeba-test-v2021-08-07.rus-pol 	| 51.1 	| 0.70183 	| 3543 	| 21485 	| 0.961 |
+| Tatoeba-test-v2021-08-07.rus-rus 	| 40.2 	| 0.62501 	| 2500 	| 16799 	| 0.979 |
+| Tatoeba-test-v2021-08-07.rus-slv 	| 22.3 	| 0.38246 	| 657 	| 3969 	| 0.992 |
+| Tatoeba-test-v2021-08-07.rus-srp_Cyrl 	| 46.3 	| 0.66245 	| 881 	| 5400 	| 0.942 |
+| Tatoeba-test-v2021-08-07.rus-srp_Latn 	| 50.1 	| 0.70162 	| 1483 	| 8546 	| 0.952 |
+| Tatoeba-test-v2021-08-07.rus-ukr 	| 66.2 	| 0.81232 	| 10000 	| 59963 	| 0.997 |
+| Tatoeba-test-v2021-08-07.slv-bel 	| 24.7 	| 0.46936 	| 12 	| 67 	| 1.000 |
+| Tatoeba-test-v2021-08-07.slv-bul 	| 31.0 	| 0.63570 	| 11 	| 67 	| 1.000 |
+| Tatoeba-test-v2021-08-07.slv-ces 	| 48.9 	| 0.65832 	| 489 	| 2469 	| 0.983 |
+| Tatoeba-test-v2021-08-07.slv-dsb 	| 13.6 	| 0.34802 	| 330 	| 1397 	| 0.958 |
+| Tatoeba-test-v2021-08-07.slv-hbs 	| 46.5 	| 0.60530 	| 37 	| 160 	| 0.994 |
+| Tatoeba-test-v2021-08-07.slv-hrv 	| 100.0 	| 10.00000 	| 1 	| 4 	| 1.000 |
+| Tatoeba-test-v2021-08-07.slv-hsb 	| 18.9 	| 0.35811 	| 743 	| 3132 	| 1.000 |
+| Tatoeba-test-v2021-08-07.slv-mkd 	| 41.0 	| 0.58580 	| 115 	| 586 	| 0.938 |
+| Tatoeba-test-v2021-08-07.slv-pol 	| 46.6 	| 0.65745 	| 183 	| 981 	| 0.976 |
+| Tatoeba-test-v2021-08-07.slv-rus 	| 46.8 	| 0.64692 	| 657 	| 4028 	| 1.000 |
+| Tatoeba-test-v2021-08-07.slv-slv 	| 5.1 	| 0.22327 	| 9 	| 50 	| 1.000 |
+| Tatoeba-test-v2021-08-07.slv-srp_Cyrl 	| 45.2 	| 0.59957 	| 36 	| 156 	| 0.994 |
+| Tatoeba-test-v2021-08-07.slv-ukr 	| 35.9 	| 0.56599 	| 915 	| 4352 	| 1.000 |
+| Tatoeba-test-v2021-08-07.srp_Cyrl-bel 	| 43.7 	| 0.57124 	| 22 	| 126 	| 0.976 |
+| Tatoeba-test-v2021-08-07.srp_Cyrl-ces 	| 53.7 	| 0.85516 	| 1 	| 6 	| 1.000 |
+| Tatoeba-test-v2021-08-07.srp_Cyrl-hrv 	| 0.0 	| 10.00000 	| 2 	| 4 	| 1.000 |
+| Tatoeba-test-v2021-08-07.srp_Cyrl-pol 	| 49.1 	| 0.67015 	| 92 	| 608 	| 0.975 |
+| Tatoeba-test-v2021-08-07.srp_Cyrl-rus 	| 54.0 	| 0.73102 	| 881 	| 5075 	| 1.000 |
+| Tatoeba-test-v2021-08-07.srp_Cyrl-slv 	| 2.0 	| 0.14963 	| 36 	| 144 	| 1.000 |
+| Tatoeba-test-v2021-08-07.srp_Cyrl-ukr 	| 52.9 	| 0.68849 	| 205 	| 1053 	| 1.000 |
+| Tatoeba-test-v2021-08-07.srp_Latn-bel 	| 34.4 	| 0.56953 	| 16 	| 73 	| 1.000 |
+| Tatoeba-test-v2021-08-07.srp_Latn-pol 	| 62.1 	| 0.77494 	| 54 	| 338 	| 0.961 |
+| Tatoeba-test-v2021-08-07.srp_Latn-rus 	| 58.8 	| 0.74836 	| 1483 	| 8271 	| 0.985 |
+| Tatoeba-test-v2021-08-07.srp_Latn-srp_Cyrl 	| 95.0 	| 0.97935 	| 4 	| 53 	| 1.000 |
+| Tatoeba-test-v2021-08-07.srp_Latn-ukr 	| 55.8 	| 0.73637 	| 348 	| 1658 	| 0.995 |
+| Tatoeba-test-v2021-08-07.ukr-bel 	| 49.7 	| 0.69525 	| 2355 	| 15166 	| 1.000 |
+| Tatoeba-test-v2021-08-07.ukr-bel_Latn 	| 2.3 	| 4.619 	| 8 	| 61 	| 0.915 |
+| Tatoeba-test-v2021-08-07.ukr-bul 	| 59.4 	| 0.76649 	| 1020 	| 5181 	| 0.989 |
+| Tatoeba-test-v2021-08-07.ukr-ces 	| 55.7 	| 0.71057 	| 1787 	| 8549 	| 0.995 |
+| Tatoeba-test-v2021-08-07.ukr-dsb 	| 5.9 	| 0.16044 	| 3 	| 14 	| 0.846 |
+| Tatoeba-test-v2021-08-07.ukr-hbs 	| 51.6 	| 0.70343 	| 942 	| 5130 	| 0.977 |
+| Tatoeba-test-v2021-08-07.ukr-hrv 	| 50.7 	| 0.69167 	| 389 	| 2302 	| 0.984 |
+| Tatoeba-test-v2021-08-07.ukr-hsb 	| 34.6 	| 0.43100 	| 8 	| 128 	| 0.666 |
+| Tatoeba-test-v2021-08-07.ukr-mkd 	| 28.0 	| 0.68068 	| 5 	| 22 	| 1.000 |
+| Tatoeba-test-v2021-08-07.ukr-orv 	| 0.2 	| 0.900 	| 973 	| 5037 	| 1.000 |
+| Tatoeba-test-v2021-08-07.ukr-pol 	| 55.7 	| 0.73376 	| 2519 	| 13193 	| 0.969 |
+| Tatoeba-test-v2021-08-07.ukr-rus 	| 71.3 	| 0.84292 	| 10000 	| 60129 	| 0.998 |
+| Tatoeba-test-v2021-08-07.ukr-slv 	| 14.9 	| 0.28913 	| 915 	| 4265 	| 1.000 |
+| Tatoeba-test-v2021-08-07.ukr-srp_Cyrl 	| 54.2 	| 0.71235 	| 205 	| 1112 	| 0.963 |
+| Tatoeba-test-v2021-08-07.ukr-srp_Latn 	| 51.0 	| 0.71546 	| 348 	| 1716 	| 0.976 |
+| Tatoeba-test-v2021-08-07.ukr-ukr 	| 38.1 	| 0.61718 	| 824 	| 4198 	| 1.000 |
 

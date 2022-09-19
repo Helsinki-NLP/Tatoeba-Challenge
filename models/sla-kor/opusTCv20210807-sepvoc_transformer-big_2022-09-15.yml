@@ -1,0 +1,65 @@
+release: sla-kor/opusTCv20210807-sepvoc_transformer-big_2022-09-15.zip
+release-date: 2022-09-15
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807-sepvoc.spm32k-spm32k.src.vocab
+   target: opusTCv20210807-sepvoc.spm32k-spm32k.trg.vocab
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ces
+   - pol
+   - rus
+   - slv
+   - ukr
+target-languages:
+   - kor
+raw-source-languages:
+   - ces
+   - pol
+   - rus
+   - slv
+   - ukr
+raw-target-languages:
+   - kor
+training-data:
+   ces-kor: Tatoeba-train-v2021-08-07.ces-kor.strict (10174004) 
+   pol-kor: Tatoeba-train-v2021-08-07.kor-pol.strict (11799755) 
+   rus-kor: Tatoeba-train-v2021-08-07.kor-rus.strict (11062412) 
+   slv-kor: Tatoeba-train-v2021-08-07.kor-slv.strict (4074501) 
+   ukr-kor: Tatoeba-train-v2021-08-07.kor-ukr.strict (2724734) 
+validation-data:
+   ces-kor: Tatoeba-dev-v2021-08-07, 1000
+   kor-pol: Tatoeba-dev-v2021-08-07, 1001
+   kor-rus: Tatoeba-dev-v2021-08-07, 968
+   kor-slv: Tatoeba-dev-v2021-08-07, 1000
+   kor-ukr: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 4965
+   devset-selected: top 4965  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.ces-kor: 14/58
+   Tatoeba-test-v2021-08-07.multi-kor: 345/1757
+   Tatoeba-test-v2021-08-07.pol-kor: 75/417
+   Tatoeba-test-v2021-08-07.rus-kor: 221/1125
+   Tatoeba-test-v2021-08-07.slv-kor: 7/34
+   Tatoeba-test-v2021-08-07.ukr-kor: 28/123
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.ces-kor: 15.3
+   Tatoeba-test-v2021-08-07.multi-kor: 14.0
+   Tatoeba-test-v2021-08-07.pol-kor: 9.7
+   Tatoeba-test-v2021-08-07.rus-kor: 15.7
+   Tatoeba-test-v2021-08-07.slv-kor: 6.5
+   Tatoeba-test-v2021-08-07.ukr-kor: 21.7
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.ces-kor: 0.40399
+   Tatoeba-test-v2021-08-07.multi-kor: 0.32889
+   Tatoeba-test-v2021-08-07.pol-kor: 0.27479
+   Tatoeba-test-v2021-08-07.rus-kor: 0.33704
+   Tatoeba-test-v2021-08-07.slv-kor: 0.21775
+   Tatoeba-test-v2021-08-07.ukr-kor: 0.44803

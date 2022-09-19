@@ -1,12 +1,12 @@
 eng-ceb	flores101-dev	0.537
 eng-ceb	flores101-devtest	0.549
 eng-ceb	tatoeba-test-v2020-07-28	0.439
+eng-ceb	tatoeba-test-v2021-03-30	0.439
+eng-ceb	tatoeba-test-v2021-08-07	0.439
 eng-ilo	tatoeba-test-v2020-07-28	0.584
+eng-ilo	tatoeba-test-v2021-03-30	0.584
+eng-ilo	tatoeba-test-v2021-08-07	0.584
 eng-pmn	tatoeba-test-v2020-07-28	0.163
 eng-war	tatoeba-test-v2020-07-28	0.437
-eng-ceb	tatoeba-test-v2021-03-30	0.439
-eng-ilo	tatoeba-test-v2021-03-30	0.584
 eng-war	tatoeba-test-v2021-03-30	0.437
-eng-ceb	tatoeba-test-v2021-08-07	0.439
-eng-ilo	tatoeba-test-v2021-08-07	0.584
 eng-war	tatoeba-test-v2021-08-07	0.437

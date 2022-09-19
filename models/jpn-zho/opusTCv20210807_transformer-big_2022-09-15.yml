@@ -1,0 +1,63 @@
+release: jpn-zho/opusTCv20210807_transformer-big_2022-09-15.zip
+release-date: 2022-09-15
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - jpn
+target-languages:
+   - cmn
+   - cmn_Hans
+   - cmn_Hant
+   - lzh
+   - lzh_Hans
+   - nan
+   - wuu
+   - yue_Hans
+   - yue_Hant
+raw-source-languages:
+   - jpn
+raw-target-languages:
+   - cmn
+   - lzh
+   - nan
+   - wuu
+   - yue
+use-target-labels:
+training-data:
+   jpn-cmn: Tatoeba-train-v2021-08-07.cmn-jpn.strict (367792) 
+   jpn-cmn_Hans: Tatoeba-train-v2021-08-07.cmn_Hans-jpn.strict (9157339) 
+   jpn-cmn_Hant: Tatoeba-train-v2021-08-07.cmn_Hant-jpn.strict (3549727) 
+   jpn-lzh: Tatoeba-train-v2021-08-07.jpn-lzh.strict (179) 
+   jpn-lzh_Hans: Tatoeba-train-v2021-08-07.jpn-lzh_Hans.strict (98) 
+   jpn-nan: Tatoeba-train-v2021-08-07.jpn-nan.strict (59) 
+   jpn-wuu: Tatoeba-train-v2021-08-07.jpn-wuu.strict (9512) 
+   jpn-yue_Hans: Tatoeba-train-v2021-08-07.jpn-yue_Hans.strict (141) 
+   jpn-yue_Hant: Tatoeba-train-v2021-08-07.jpn-yue_Hant.strict (5339) 
+validation-data:
+   cmn-jpn: Tatoeba-dev-v2021-08-07, 2
+   cmn_Hans-jpn: Tatoeba-dev-v2021-08-07, 1729
+   cmn_Hant-jpn: Tatoeba-dev-v2021-08-07, 959
+   jpn-lzh: Tatoeba-dev-v2021-08-07, 10
+   jpn-lzh_Hans: Tatoeba-dev-v2021-08-07, 1
+   jpn-nan: Tatoeba-dev-v2021-08-07, 1
+   jpn-wuu: Tatoeba-dev-v2021-08-07, 11
+   jpn-yue_Hans: Tatoeba-dev-v2021-08-07, 85
+   jpn-yue_Hant: Tatoeba-dev-v2021-08-07, 90
+   total-size-shuffled: 2159
+   devset-selected: top 2159  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.jpn-multi: 2497/26512
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.jpn-multi: 12.1
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.jpn-multi: 0.12290

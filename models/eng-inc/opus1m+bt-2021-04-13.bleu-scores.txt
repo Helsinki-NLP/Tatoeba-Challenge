@@ -23,10 +23,6 @@ eng-guj	flores101-devtest	6.0
 eng-guj	flores200-dev	5.9
 eng-guj	flores200-devtest	6.0
 eng-guj	newsdev2019	6.3
-eng-guj	newsdev2019	6.2
-eng-guj	newsdev2019	6.2
-eng-guj	newstest2019	6.7
-eng-guj	newstest2019	6.7
 eng-guj	newstest2019	6.7
 eng-hin	flores101-dev	16.2
 eng-hin	flores101-devtest	16.2
@@ -34,8 +30,6 @@ eng-hin	flores200-dev	16.4
 eng-hin	flores200-devtest	16.3
 eng-hin	newsdev2014	8.2
 eng-hin	newstest2014	10.9
-eng-hin	newstest2014	11.0
-eng-hin	newstest2014	11.0
 eng-hin	tatoeba-test-v2020-07-28	16.8
 eng-hin	tatoeba-test-v2021-03-30	16.8
 eng-hin	tatoeba-test-v2021-08-07	16.6

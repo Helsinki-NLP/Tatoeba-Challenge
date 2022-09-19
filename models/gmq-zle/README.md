@@ -33,6 +33,7 @@
 
 
 
+
 # opusTCv20210807+pbt_transformer-big_2022-03-19.zip
 
 * dataset: opusTCv20210807+pbt
@@ -67,6 +68,7 @@
 | Tatoeba-test-v2021-08-07.swe-ukr 	| 23.4 	| 0.42115 	| 4 	| 19 	| 1.000 |
 
 
+
 # opusTCv20210807+pbt_transformer-big_2022-03-23.zip
 
 * dataset: opusTCv20210807+pbt
@@ -99,4 +101,29 @@
 | Tatoeba-test-v2021-08-07.nor-ukr 	| 40.8 	| 0.63862 	| 670 	| 3966 	| 1.000 |
 | Tatoeba-test-v2021-08-07.swe-rus 	| 44.9 	| 0.65799 	| 1282 	| 7621 	| 0.989 |
 | Tatoeba-test-v2021-08-07.swe-ukr 	| 26.7 	| 0.43262 	| 4 	| 19 	| 0.946 |
+
+
+# opusTCv20210807+xb+bt+pbt_transformer-big_2022-09-15.zip
+
+* dataset: opusTCv20210807+xb+bt+pbt
+* model: transformer-big
+* source language(s): dan isl nno nob swe
+* target language(s): bel bel_Latn rus ukr
+* raw source language(s): dan isl nno nob swe
+* raw target language(s): bel rus ukr
+* model: transformer-big
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* a sentence initial language token is required in the form of `>>id<<` (id = valid target language ID)
+* valid language labels: 
+* download: [opusTCv20210807+xb+bt+pbt_transformer-big_2022-09-15.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-zle/opusTCv20210807+xb+bt+pbt_transformer-big_2022-09-15.zip)
+* test set translations: [opusTCv20210807+xb+bt+pbt_transformer-big_2022-09-15.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-zle/opusTCv20210807+xb+bt+pbt_transformer-big_2022-09-15.test.txt)
+* test set scores: [opusTCv20210807+xb+bt+pbt_transformer-big_2022-09-15.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gmq-zle/opusTCv20210807+xb+bt+pbt_transformer-big_2022-09-15.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| flores101.dan-ukr 	| 26.3 	| 0.54752 	| 1012 	| 22810 	| 0.992 |
+| flores101.swe-ukr 	| 26.3 	| 0.54726 	| 1012 	| 22810 	| 0.980 |
+| Tatoeba-test-v2021-08-07.multi-multi 	| 47.8 	| 0.68059 	| 5108 	| 33857 	| 0.994 |
 

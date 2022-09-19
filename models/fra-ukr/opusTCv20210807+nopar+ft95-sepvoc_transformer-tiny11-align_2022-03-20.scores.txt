@@ -1,5 +1,7 @@
 fra-ukr	flores101-dev	0.50167	20.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-20.zip	997	21841
 fra-ukr	flores101-devtest	0.50318	20.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-20.zip	1012	22810
+fra-ukr	flores200-dev	0.50167	20.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-20.zip	997	21841
+fra-ukr	flores200-devtest	0.50318	20.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-20.zip	1012	22810
 fra-ukr	tatoeba-test-v2020-07-28	0.58974	34.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-20.zip	10000	54082
 fra-ukr	tatoeba-test-v2021-03-30	0.59009	35.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-20.zip	10035	54263
 fra-ukr	tatoeba-test-v2021-08-07	0.58986	34.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ukr/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-03-20.zip	10035	54372

@@ -1,12 +1,12 @@
 dan-lav	flores101-dev	0.27034
-dan-lit	flores101-dev	0.25946
-isl-lav	flores101-dev	0.23587
-isl-lit	flores101-dev	0.21960
-swe-lav	flores101-dev	0.26652
-swe-lit	flores101-dev	0.26867
 dan-lav	flores101-devtest	0.25994
+dan-lit	flores101-dev	0.25946
 dan-lit	flores101-devtest	0.26099
+isl-lav	flores101-dev	0.23587
 isl-lav	flores101-devtest	0.21911
+isl-lit	flores101-dev	0.21960
 isl-lit	flores101-devtest	0.21639
+swe-lav	flores101-dev	0.26652
 swe-lav	flores101-devtest	0.26288
+swe-lit	flores101-dev	0.26867
 swe-lit	flores101-devtest	0.26509

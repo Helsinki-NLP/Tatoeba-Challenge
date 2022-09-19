@@ -1,5 +1,7 @@
 spa-eng	flores101-dev	0.587	28.3	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus+bt-2021-04-30.zip	997	23555
 spa-eng	flores101-devtest	0.584	27.8	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus+bt-2021-04-30.zip	1012	24721
+spa-eng	flores200-dev	0.58658	28.3	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus+bt-2021-04-30.zip	997	23555
+spa-eng	flores200-devtest	0.58381	27.9	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus+bt-2021-04-30.zip	1012	24721
 spa-eng	newssyscomb2009	0.571	30.6	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus+bt-2021-04-30.zip	502	11818
 spa-eng	news-test2008	0.553	27.8	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus+bt-2021-04-30.zip	2051	49380
 spa-eng	newstest2009	0.570	30.3	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-eng/opus+bt-2021-04-30.zip	2525	65399

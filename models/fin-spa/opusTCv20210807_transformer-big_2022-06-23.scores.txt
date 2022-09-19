@@ -1,5 +1,7 @@
 fin-spa	flores101-dev	0.48752	20.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-spa/opusTCv20210807_transformer-big_2022-06-23.zip	997	27793
 fin-spa	flores101-devtest	0.49574	21.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-spa/opusTCv20210807_transformer-big_2022-06-23.zip	1012	29199
+fin-spa	flores200-dev	0.48752	20.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-spa/opusTCv20210807_transformer-big_2022-06-23.zip	997	27793
+fin-spa	flores200-devtest	0.49574	21.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-spa/opusTCv20210807_transformer-big_2022-06-23.zip	1012	29199
 fin-spa	tatoeba-test-v2020-07-28	0.69971	53.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-spa/opusTCv20210807_transformer-big_2022-06-23.zip	2500	16828
 fin-spa	tatoeba-test-v2021-03-30	0.70020	53.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-spa/opusTCv20210807_transformer-big_2022-06-23.zip	4999	33655
 fin-spa	tatoeba-test-v2021-08-07	0.70054	53.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-spa/opusTCv20210807_transformer-big_2022-06-23.zip	2513	16912

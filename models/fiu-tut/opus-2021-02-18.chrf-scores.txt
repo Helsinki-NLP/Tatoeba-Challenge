@@ -1,12 +1,12 @@
 est-tur	flores101-dev	0.351
-fin-tur	flores101-dev	0.337
-hun-tur	flores101-dev	0.340
 est-tur	flores101-devtest	0.347
+fin-tur	flores101-dev	0.337
 fin-tur	flores101-devtest	0.331
-hun-tur	flores101-devtest	0.341
 fin-tur	tatoeba-test-v2020-07-28	0.525
-hun-tur	tatoeba-test-v2020-07-28	0.579
 fin-tur	tatoeba-test-v2021-03-30	0.525
-hun-tur	tatoeba-test-v2021-03-30	0.577
 fin-tur	tatoeba-test-v2021-08-07	0.524
+hun-tur	flores101-dev	0.340
+hun-tur	flores101-devtest	0.341
+hun-tur	tatoeba-test-v2020-07-28	0.579
+hun-tur	tatoeba-test-v2021-03-30	0.577
 hun-tur	tatoeba-test-v2021-08-07	0.579

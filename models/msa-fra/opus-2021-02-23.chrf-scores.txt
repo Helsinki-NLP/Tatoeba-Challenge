@@ -1,10 +1,10 @@
 ind-fra	flores101-dev	0.506
-msa-fra	flores101-dev	0.491
 ind-fra	flores101-devtest	0.513
-msa-fra	flores101-devtest	0.481
 ind-fra	tatoeba-test-v2020-07-28	0.625
-msa-fra	tatoeba-test-v2020-07-28	0.624
 ind-fra	tatoeba-test-v2021-03-30	0.625
-msa-fra	tatoeba-test-v2021-03-30	0.623
 ind-fra	tatoeba-test-v2021-08-07	0.625
+msa-fra	flores101-dev	0.491
+msa-fra	flores101-devtest	0.481
+msa-fra	tatoeba-test-v2020-07-28	0.624
+msa-fra	tatoeba-test-v2021-03-30	0.623
 msa-fra	tatoeba-test-v2021-08-07	0.623

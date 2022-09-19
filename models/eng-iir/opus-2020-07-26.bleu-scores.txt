@@ -23,18 +23,12 @@ eng-guj	flores101-devtest	4.6
 eng-guj	flores200-dev	4.4
 eng-guj	flores200-devtest	4.5
 eng-guj	newsdev2019	5.3
-eng-guj	newsdev2019	5.4
-eng-guj	newsdev2019	5.3
-eng-guj	newstest2019	6.2
-eng-guj	newstest2019	6.2
 eng-guj	newstest2019	6.2
 eng-hin	flores101-dev	14.1
 eng-hin	flores101-devtest	13.5
 eng-hin	flores200-dev	14.0
 eng-hin	flores200-devtest	13.5
 eng-hin	newsdev2014	6.7
-eng-hin	newstest2014	9.7
-eng-hin	newstest2014	9.7
 eng-hin	newstest2014	9.7
 eng-hin	tatoeba-test-v2020-07-28	16.7
 eng-hin	tatoeba-test-v2021-03-30	16.7
@@ -64,8 +58,6 @@ eng-pes	tatoeba-test-v2021-03-30	3.5
 eng-pes	tatoeba-test-v2021-08-07	3.4
 eng-pus	flores101-dev	0.5
 eng-pus	flores101-devtest	0.6
-eng-pus	newstest2020	0.6
-eng-pus	newstest2020	0.6
 eng-pus	newstest2020	0.6
 eng-pus	tico19-test	1.0
 eng-pus	wikipedia.dev	0.7

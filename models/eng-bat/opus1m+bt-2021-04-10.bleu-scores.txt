@@ -1,11 +1,7 @@
 eng-lav	flores101-dev	25.1
 eng-lav	flores101-devtest	24.1
 eng-lav	newsdev2017	22.6
-eng-lav	newsdev2017	22.5
-eng-lav	newsdev2017	22.5
 eng-lav	newstest2017	17.0
-eng-lav	newstest2017	16.9
-eng-lav	newstest2017	16.9
 eng-lav	tatoeba-test-v2020-07-28	40.0
 eng-lav	tatoeba-test-v2021-03-30	40.0
 eng-lav	tatoeba-test-v2021-08-07	40.1
@@ -14,10 +10,6 @@ eng-lit	flores101-devtest	20.3
 eng-lit	flores200-dev	19.1
 eng-lit	flores200-devtest	20.3
 eng-lit	newsdev2019	18.9
-eng-lit	newsdev2019	18.9
-eng-lit	newsdev2019	18.9
-eng-lit	newstest2019	12.1
-eng-lit	newstest2019	12.0
 eng-lit	newstest2019	12.1
 eng-lit	tatoeba-test-v2020-07-28	34.8
 eng-lit	tatoeba-test-v2021-03-30	34.9

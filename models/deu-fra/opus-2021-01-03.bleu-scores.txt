@@ -15,13 +15,8 @@ deu-fra	newstest2011	26.9
 deu-fra	newstest2012	27.5
 deu-fra	newstest2013	29.5
 deu-fra	newstest2019	33.1
-deu-fra	newstest2019	33.2
-deu-fra	newstest2019	33.1
-deu-fra	newstest2020	30.2
-deu-fra	newstest2020	30.3
 deu-fra	newstest2020	30.2
 deu-fra	newstest2021	27.8
-deu-fra	newstest2021.de-fr	27.9
 deu-fra	tatoeba-test-v2020-07-28	48.8
 deu-fra	tatoeba-test-v2021-03-30	49.5
 deu-fra	tatoeba-test-v2021-08-07	49.6

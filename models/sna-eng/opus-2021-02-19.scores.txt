@@ -1,2 +1,4 @@
 sna-eng	flores101-dev	0.422	16.7	https://object.pouta.csc.fi/Tatoeba-MT-models/sna-eng/opus-2021-02-19.zip	997	23555
 sna-eng	flores101-devtest	0.419	16.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sna-eng/opus-2021-02-19.zip	1012	24721
+sna-eng	flores200-dev	0.42163	16.6	https://object.pouta.csc.fi/Tatoeba-MT-models/sna-eng/opus-2021-02-19.zip	997	23555
+sna-eng	flores200-devtest	0.41774	16.5	https://object.pouta.csc.fi/Tatoeba-MT-models/sna-eng/opus-2021-02-19.zip	1012	24721

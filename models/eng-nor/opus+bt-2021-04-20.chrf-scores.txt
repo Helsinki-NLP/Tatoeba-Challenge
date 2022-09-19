@@ -1,11 +1,11 @@
+eng-nno	tatoeba-test-v2020-07-28	0.616
+eng-nno	tatoeba-test-v2021-03-30	0.616
+eng-nno	tatoeba-test-v2021-08-07	0.616
 eng-nob	flores101-dev	0.608
 eng-nob	flores101-devtest	0.608
-eng-nno	tatoeba-test-v2020-07-28	0.616
 eng-nob	tatoeba-test-v2020-07-28	0.718
-eng-nor	tatoeba-test-v2020-07-28	0.709
-eng-nno	tatoeba-test-v2021-03-30	0.616
 eng-nob	tatoeba-test-v2021-03-30	0.718
-eng-nor	tatoeba-test-v2021-03-30	0.709
-eng-nno	tatoeba-test-v2021-08-07	0.616
 eng-nob	tatoeba-test-v2021-08-07	0.718
+eng-nor	tatoeba-test-v2020-07-28	0.709
+eng-nor	tatoeba-test-v2021-03-30	0.709
 eng-nor	tatoeba-test-v2021-08-07	0.709

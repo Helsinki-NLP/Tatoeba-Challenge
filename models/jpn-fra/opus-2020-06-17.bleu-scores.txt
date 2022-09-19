@@ -1,11 +1,11 @@
 jpn-fra	flores101-dev	13.7
 jpn-fra	flores101-devtest	14.0
 jpn-fra	tatoeba-test-v2020-07-28	27.8
-jpn_Hani-fra	tatoeba-test-v2020-07-28	30.3
-jpn_Hira-fra	tatoeba-test-v2020-07-28	27.4
 jpn-fra	tatoeba-test-v2021-03-30	27.8
-jpn_Hani-fra	tatoeba-test-v2021-03-30	30.3
-jpn_Hira-fra	tatoeba-test-v2021-03-30	27.4
 jpn-fra	tatoeba-test-v2021-08-07	27.8
+jpn_Hani-fra	tatoeba-test-v2020-07-28	30.3
+jpn_Hani-fra	tatoeba-test-v2021-03-30	30.3
 jpn_Hani-fra	tatoeba-test-v2021-08-07	30.2
+jpn_Hira-fra	tatoeba-test-v2020-07-28	27.4
+jpn_Hira-fra	tatoeba-test-v2021-03-30	27.4
 jpn_Hira-fra	tatoeba-test-v2021-08-07	27.4

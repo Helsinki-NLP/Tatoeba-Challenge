@@ -1,8 +1,8 @@
 est-lav	flores101-dev	0.485
-est-lit	flores101-dev	0.475
-fin-lav	flores101-dev	0.436
-fin-lit	flores101-dev	0.450
 est-lav	flores101-devtest	0.490
+est-lit	flores101-dev	0.475
 est-lit	flores101-devtest	0.479
+fin-lav	flores101-dev	0.436
 fin-lav	flores101-devtest	0.429
+fin-lit	flores101-dev	0.450
 fin-lit	flores101-devtest	0.453

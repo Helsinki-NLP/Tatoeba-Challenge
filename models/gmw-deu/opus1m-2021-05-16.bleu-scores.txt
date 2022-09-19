@@ -1,6 +1,9 @@
 afr-deu	flores101-dev	21.6
-eng-deu	flores101-dev	31.1
 afr-deu	flores101-devtest	21.2
+afr-deu	tatoeba-test-v2020-07-28	48.6
+afr-deu	tatoeba-test-v2021-03-30	48.6
+afr-deu	tatoeba-test-v2021-08-07	48.6
+eng-deu	flores101-dev	31.1
 eng-deu	flores101-devtest	30.9
 eng-deu	multi30k_task2_test_2016	2.5
 eng-deu	multi30k_test_2016_flickr	32.2
@@ -22,9 +25,6 @@ eng-deu	newstest2018	35.7
 eng-deu	newstest2019	32.8
 eng-deu	newstest2020	25.4
 eng-deu	newstestB2020	24.8
-afr-deu	tatoeba-test-v2020-07-28	48.6
 eng-deu	tatoeba-test-v2020-07-28	39.6
-afr-deu	tatoeba-test-v2021-03-30	48.6
 eng-deu	tatoeba-test-v2021-03-30	38.7
-afr-deu	tatoeba-test-v2021-08-07	48.6
 eng-deu	tatoeba-test-v2021-08-07	38.0

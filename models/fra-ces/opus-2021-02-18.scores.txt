@@ -1,5 +1,7 @@
 fra-ces	flores101-dev	0.511	23.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	997	21183
 fra-ces	flores101-devtest	0.512	23.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	1012	22101
+fra-ces	flores200-dev	0.51116	23.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	997	21183
+fra-ces	flores200-devtest	0.51171	23.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	1012	22101
 fra-ces	multi30k_test_2016_flickr	0.524	27.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	1000	10503
 fra-ces	multi30k_test_2018_flickr	0.500	24.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	1071	11631
 fra-ces	newssyscomb2009	0.497	21.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-ces/opus-2021-02-18.zip	502	10032

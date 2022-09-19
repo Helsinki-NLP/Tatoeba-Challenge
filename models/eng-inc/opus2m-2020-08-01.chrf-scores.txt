@@ -23,10 +23,6 @@ eng-guj	flores101-devtest	0.263
 eng-guj	flores200-dev	0.26871
 eng-guj	flores200-devtest	0.26379
 eng-guj	newsdev2019	0.286
-eng-guj	newsdev2019	0.28675
-eng-guj	newsdev2019	0.286
-eng-guj	newstest2019	0.294
-eng-guj	newstest2019	0.29486
 eng-guj	newstest2019	0.294
 eng-hin	flores101-dev	0.394
 eng-hin	flores101-devtest	0.382
@@ -34,8 +30,6 @@ eng-hin	flores200-dev	0.39329
 eng-hin	flores200-devtest	0.38135
 eng-hin	newsdev2014	0.339
 eng-hin	newstest2014	0.36007
-eng-hin	newstest2014	0.361
-eng-hin	newstest2014	0.361
 eng-hin	tatoeba-test-v2020-07-28	0.467
 eng-hin	tatoeba-test-v2021-03-30	0.467
 eng-hin	tatoeba-test-v2021-08-07	0.467

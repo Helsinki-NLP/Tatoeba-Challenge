@@ -1,3 +1,5 @@
+rus-epo	flores200-dev	0.28783	5.8	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-epo/opus-2021-02-19.zip	997	22940
+rus-epo	flores200-devtest	0.28287	5.1	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-epo/opus-2021-02-19.zip	1012	23873
 rus-epo	tatoeba-test-v2020-07-28	0.435	24.1	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-epo/opus-2021-02-19.zip	10000	77197
 rus-epo	tatoeba-test-v2021-03-30	0.438	24.5	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-epo/opus-2021-02-19.zip	10856	83425
 rus-epo	tatoeba-test-v2021-08-07	0.437	24.6	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-epo/opus-2021-02-19.zip	11674	89586

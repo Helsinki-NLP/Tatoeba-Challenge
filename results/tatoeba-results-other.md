@@ -283,24 +283,32 @@ to be useful for anything.
 | [sla-sla/opus](../models/sla-sla) | newstest2013 | 0.474 | 19.7 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.406 | 13.6 |
 | | lang = ces-spa | | | | |
+| [sla-spa/opusTCv20210807_transformer-big](../models/sla-spa) | newssyscomb2009 | 0.55929 | 28.6 |
 | [ces-spa/opus](../models/ces-spa) | newssyscomb2009 | 0.548 | 27.0 |
 | [ine-ine/opus](../models/ine-ine) | newssyscomb2009 | 0.462 | 18.4 |
+| [sla-spa/opusTCv20210807_transformer-big](../models/sla-spa) | news-test2008 | 0.53986 | 26.2 |
 | [ces-spa/opus](../models/ces-spa) | news-test2008 | 0.531 | 24.8 |
 | [ine-ine/opus](../models/ine-ine) | news-test2008 | 0.451 | 16.4 |
+| [sla-spa/opusTCv20210807_transformer-big](../models/sla-spa) | newstest2009 | 0.54471 | 26.5 |
 | [ces-spa/opus](../models/ces-spa) | newstest2009 | 0.540 | 25.3 |
 | [ine-ine/opus](../models/ine-ine) | newstest2009 | 0.458 | 17.1 |
+| [sla-spa/opusTCv20210807_transformer-big](../models/sla-spa) | newstest2010 | 0.57412 | 30.9 |
 | [ces-spa/opus](../models/ces-spa) | newstest2010 | 0.563 | 29.0 |
 | [ine-ine/opus](../models/ine-ine) | newstest2010 | 0.467 | 18.5 |
+| [sla-spa/opusTCv20210807_transformer-big](../models/sla-spa) | newstest2011 | 0.56527 | 31.0 |
 | [ces-spa/opus](../models/ces-spa) | newstest2011 | 0.556 | 29.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2011 | 0.464 | 18.9 |
+| [sla-spa/opusTCv20210807_transformer-big](../models/sla-spa) | newstest2012 | 0.56170 | 30.0 |
 | [ces-spa/opus](../models/ces-spa) | newstest2012 | 0.554 | 28.8 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.457 | 18.1 |
+| [sla-spa/opusTCv20210807_transformer-big](../models/sla-spa) | newstest2013 | 0.56611 | 31.1 |
 | [ces-spa/opus](../models/ces-spa) | newstest2013 | 0.556 | 29.8 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.455 | 18.2 |
 | | lang = ces-ukr | | | | |
 | [zlw-zle/opusTCv20210807+xb+bt_transformer-big](../models/zlw-zle) | flores101 | 0.53099 | 23.5 |
 | [ces+slk-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/ces+slk-ukr) | flores101 | 0.50791 | 20.8 |
 | | lang = dan-ukr | | | | |
+| [gmq-zle/opusTCv20210807+xb+bt+pbt_transformer-big](../models/gmq-zle) | flores101 | 0.54752 | 26.3 |
 | [gmq-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/gmq-ukr) | flores101 | 0.51989 | 22.6 |
 | | lang = deu-ces | | | | |
 | [deu-zlw/opusTCv20210807_transformer-big](../models/deu-zlw) | newssyscomb2009 | 0.51989 | 24.3 |
@@ -3020,10 +3028,12 @@ to be useful for anything.
 | | lang = rus-spa | | | | |
 | [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | newstest2012 | 0.55215 | 29.1 |
 | [zle-itc/opusTCv20210807_transformer-big](../models/zle-itc) | newstest2012 | 0.54815 | 28.7 |
+| [sla-spa/opusTCv20210807_transformer-big](../models/sla-spa) | newstest2012 | 0.53999 | 28.0 |
 | [zle-roa/opus1m](../models/zle-roa) | newstest2012 | 0.525 | 25.6 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.437 | 16.6 |
 | [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | newstest2013 | 0.56936 | 31.9 |
 | [zle-itc/opusTCv20210807_transformer-big](../models/zle-itc) | newstest2013 | 0.56584 | 31.5 |
+| [sla-spa/opusTCv20210807_transformer-big](../models/sla-spa) | newstest2013 | 0.55494 | 30.6 |
 | [zle-roa/opus1m](../models/zle-roa) | newstest2013 | 0.535 | 27.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.446 | 17.9 |
 | | lang = slk-ukr | | | | |
@@ -3032,18 +3042,25 @@ to be useful for anything.
 | | lang = som-eng | | | | |
 | [som-eng/opus](../models/som-eng) | tico19-test | 0.182 | 0.4 |
 | | lang = spa-ces | | | | |
+| [spa-sla/opusTCv20210807_transformer-big](../models/spa-sla) | newssyscomb2009 | 0.51062 | 22.5 |
 | [spa-ces/opus](../models/spa-ces) | newssyscomb2009 | 0.503 | 21.6 |
 | [ine-ine/opus](../models/ine-ine) | newssyscomb2009 | 0.400 | 12.0 |
+| [spa-sla/opusTCv20210807_transformer-big](../models/spa-sla) | news-test2008 | 0.48749 | 20.9 |
 | [spa-ces/opus](../models/spa-ces) | news-test2008 | 0.481 | 19.9 |
 | [ine-ine/opus](../models/ine-ine) | news-test2008 | 0.380 | 11.0 |
+| [spa-sla/opusTCv20210807_transformer-big](../models/spa-sla) | newstest2009 | 0.49340 | 21.3 |
 | [spa-ces/opus](../models/spa-ces) | newstest2009 | 0.489 | 20.7 |
 | [ine-ine/opus](../models/ine-ine) | newstest2009 | 0.386 | 11.3 |
+| [spa-sla/opusTCv20210807_transformer-big](../models/spa-sla) | newstest2010 | 0.51336 | 23.6 |
 | [spa-ces/opus](../models/spa-ces) | newstest2010 | 0.506 | 22.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2010 | 0.396 | 12.2 |
+| [spa-sla/opusTCv20210807_transformer-big](../models/spa-sla) | newstest2011 | 0.49297 | 21.7 |
 | [spa-ces/opus](../models/spa-ces) | newstest2011 | 0.490 | 21.4 |
 | [ine-ine/opus](../models/ine-ine) | newstest2011 | 0.390 | 12.3 |
+| [spa-sla/opusTCv20210807_transformer-big](../models/spa-sla) | newstest2012 | 0.48204 | 21.1 |
 | [spa-ces/opus](../models/spa-ces) | newstest2012 | 0.479 | 20.6 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.381 | 11.9 |
+| [spa-sla/opusTCv20210807_transformer-big](../models/spa-sla) | newstest2013 | 0.51423 | 24.9 |
 | [spa-ces/opus](../models/spa-ces) | newstest2013 | 0.506 | 23.7 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.391 | 12.5 |
 | | lang = spa-deu | | | | |
@@ -3199,9 +3216,11 @@ to be useful for anything.
 | [ine-ine/opus](../models/ine-ine) | newstest2009 | 0.538 | 24.0 |
 | | lang = spa-rus | | | | |
 | [spa-zle/opusTCv20210807_transformer-big](../models/spa-zle) | newstest2012 | 0.52441 | 24.6 |
+| [spa-sla/opusTCv20210807_transformer-big](../models/spa-sla) | newstest2012 | 0.51162 | 23.2 |
 | [roa-zle/opus1m](../models/roa-zle) | newstest2012 | 0.487 | 20.5 |
 | [ine-ine/opus](../models/ine-ine) | newstest2012 | 0.401 | 12.4 |
 | [spa-zle/opusTCv20210807_transformer-big](../models/spa-zle) | newstest2013 | 0.54250 | 27.0 |
+| [spa-sla/opusTCv20210807_transformer-big](../models/spa-sla) | newstest2013 | 0.52973 | 25.5 |
 | [roa-zle/opus1m](../models/roa-zle) | newstest2013 | 0.500 | 22.7 |
 | [ine-ine/opus](../models/ine-ine) | newstest2013 | 0.411 | 13.9 |
 | | lang = swa-eng | | | | |
@@ -3219,6 +3238,7 @@ to be useful for anything.
 | [swe-fin/opus](../models/swe-fin) | MeMAD-YLE-test.FIN-SWE | 0.492 | 20.8 |
 | [swe-fin/opus](../models/swe-fin) | MeMAD-YLE-test.FIN-SWH | 0.444 | 15.9 |
 | | lang = swe-ukr | | | | |
+| [gmq-zle/opusTCv20210807+xb+bt+pbt_transformer-big](../models/gmq-zle) | flores101 | 0.54726 | 26.3 |
 | [gmq-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/gmq-ukr) | flores101 | 0.51493 | 22.1 |
 | | lang = tam-eng | | | | |
 | [dra-eng/opus4m+btTCv20210807](../models/dra-eng) | tico19-test | 0.505 | 22.9 |
@@ -3275,12 +3295,16 @@ to be useful for anything.
 | [trk-eng/opus2m](../models/trk-eng) | newstest2018 | 0.230 | 4.1 |
 | | lang = ukr-ces | | | | |
 | [zle-zlw/opusTCv20210807+xb+bt_transformer-big](../models/zle-zlw) | flores101 | 0.53312 | 26.1 |
+| | lang = ukr-dan | | | | |
+| [zle-gmq/opusTCv20210807+xb+bt+pft_transformer-big](../models/zle-gmq) | flores101 | 0.58310 | 31.0 |
 | | lang = ukr-eng | | | | |
 | [ukr-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align](../models/ukr-eng) | flores101 | 0.62527 | 35.8 |
 | | lang = ukr-fin | | | | |
 | [zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big](../models/zle-fin) | flores101 | 0.55721 | 21.1 |
 | | lang = ukr-slk | | | | |
 | [zle-zlw/opusTCv20210807+xb+bt_transformer-big](../models/zle-zlw) | flores101 | 0.50407 | 21.1 |
+| | lang = ukr-swe | | | | |
+| [zle-gmq/opusTCv20210807+xb+bt+pft_transformer-big](../models/zle-gmq) | flores101 | 0.58309 | 29.5 |
 | | lang = urd-eng | | | | |
 | [inc-eng/opus1m+bt](../models/inc-eng) | tico19-test | 0.425 | 16.5 |
 | [urd-eng/opus+bt](../models/urd-eng) | tico19-test | 0.388 | 12.6 |

@@ -1,0 +1,260 @@
+release: gmq-sla/opusTCv20210807_transformer-big_2022-08-29.zip
+release-date: 2022-08-29
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - dan
+   - fao
+   - isl
+   - nno
+   - nob
+   - swe
+target-languages:
+   - bel
+   - bel_Latn
+   - bos_Cyrl
+   - bos_Latn
+   - bul
+   - ces
+   - hbs
+   - hbs_Cyrl
+   - hrv
+   - mkd
+   - pol
+   - rus
+   - slv
+   - srp_Cyrl
+   - srp_Latn
+   - ukr
+raw-source-languages:
+   - dan
+   - fao
+   - isl
+   - nno
+   - nob
+   - swe
+raw-target-languages:
+   - bel
+   - bos
+   - bul
+   - ces
+   - hbs
+   - hrv
+   - mkd
+   - pol
+   - rus
+   - slv
+   - srp
+   - ukr
+use-target-labels:
+training-data:
+   dan-bel: Tatoeba-train-v2021-08-07.bel-dan.strict (720527) 
+   dan-bel_Latn: Tatoeba-train-v2021-08-07.bel_Latn-dan.strict (1833) 
+   dan-bul: Tatoeba-train-v2021-08-07.bul-dan.strict (7492751) 
+   dan-ces: Tatoeba-train-v2021-08-07.ces-dan.strict (8312881) 
+   dan-pol: Tatoeba-train-v2021-08-07.dan-pol.strict (8241432) 
+   dan-rus: Tatoeba-train-v2021-08-07.dan-rus.strict (6385119) 
+   dan-slv: Tatoeba-train-v2021-08-07.dan-slv.strict (7180891) 
+   dan-ukr: Tatoeba-train-v2021-08-07.dan-ukr.strict (3912290) 
+   fao-ces: Tatoeba-train-v2021-08-07.ces-fao.strict (11410) 
+   fao-pol: Tatoeba-train-v2021-08-07.fao-pol.strict (22356) 
+   isl-pol: Tatoeba-train-v2021-08-07.isl-pol.strict (3291624) 
+   isl-rus: Tatoeba-train-v2021-08-07.isl-rus.strict (1841976) 
+   nno-bel: Tatoeba-train-v2021-08-07.bel-nno.strict (56155) 
+   nno-bel_Latn: Tatoeba-train-v2021-08-07.bel_Latn-nno.strict (547) 
+   nno-bos_Latn: Tatoeba-train-v2021-08-07.bos_Latn-nno.strict (175987) 
+   nno-bul: Tatoeba-train-v2021-08-07.bul-nno.strict (72420) 
+   nno-ces: Tatoeba-train-v2021-08-07.ces-nno.strict (98030) 
+   nno-hrv: Tatoeba-train-v2021-08-07.hrv-nno.strict (81121) 
+   nno-pol: Tatoeba-train-v2021-08-07.nno-pol.strict (106718) 
+   nno-rus: Tatoeba-train-v2021-08-07.nno-rus.strict (87732) 
+   nno-slv: Tatoeba-train-v2021-08-07.nno-slv.strict (89390) 
+   nno-srp_Cyrl: Tatoeba-train-v2021-08-07.nno-srp_Cyrl.strict (61860) 
+   nno-srp_Latn: Tatoeba-train-v2021-08-07.nno-srp_Latn.strict (6312) 
+   nno-ukr: Tatoeba-train-v2021-08-07.nno-ukr.strict (126894) 
+   nob-bel: Tatoeba-train-v2021-08-07.bel-nob.strict (655477) 
+   nob-bel_Latn: Tatoeba-train-v2021-08-07.bel_Latn-nob.strict (1561) 
+   nob-bos_Cyrl: Tatoeba-train-v2021-08-07.bos_Cyrl-nob.strict (42) 
+   nob-bos_Latn: Tatoeba-train-v2021-08-07.bos_Latn-nob.strict (2678658) 
+   nob-bul: Tatoeba-train-v2021-08-07.bul-nob.strict (6186205) 
+   nob-ces: Tatoeba-train-v2021-08-07.ces-nob.strict (7262121) 
+   nob-hbs: Tatoeba-train-v2021-08-07.hbs-nob.strict (407) 
+   nob-hbs_Cyrl: Tatoeba-train-v2021-08-07.hbs_Cyrl-nob.strict (33) 
+   nob-hrv: Tatoeba-train-v2021-08-07.hrv-nob.strict (5697849) 
+   nob-pol: Tatoeba-train-v2021-08-07.nob-pol.strict (6858589) 
+   nob-rus: Tatoeba-train-v2021-08-07.nob-rus.strict (5481366) 
+   nob-slv: Tatoeba-train-v2021-08-07.nob-slv.strict (5726095) 
+   nob-srp_Cyrl: Tatoeba-train-v2021-08-07.nob-srp_Cyrl.strict (3493298) 
+   nob-srp_Latn: Tatoeba-train-v2021-08-07.nob-srp_Latn.strict (4127313) 
+   nob-ukr: Tatoeba-train-v2021-08-07.nob-ukr.strict (3809544) 
+   swe-bos_Cyrl: Tatoeba-train-v2021-08-07.bos_Cyrl-swe.strict (45) 
+   swe-bos_Latn: Tatoeba-train-v2021-08-07.bos_Latn-swe.strict (3833910) 
+   swe-bul: Tatoeba-train-v2021-08-07.bul-swe.strict (7736869) 
+   swe-ces: Tatoeba-train-v2021-08-07.ces-swe.strict (9764344) 
+   swe-hbs: Tatoeba-train-v2021-08-07.hbs-swe.strict (12445) 
+   swe-hbs_Cyrl: Tatoeba-train-v2021-08-07.hbs_Cyrl-swe.strict (319) 
+   swe-hrv: Tatoeba-train-v2021-08-07.hrv-swe.strict (6205017) 
+   swe-mkd: Tatoeba-train-v2021-08-07.mkd-swe.strict (3694216) 
+   swe-pol: Tatoeba-train-v2021-08-07.pol-swe.strict (10000000) 
+   swe-rus: Tatoeba-train-v2021-08-07.rus-swe.strict (7881118) 
+   swe-slv: Tatoeba-train-v2021-08-07.slv-swe.strict (7675886) 
+   swe-srp_Cyrl: Tatoeba-train-v2021-08-07.srp_Cyrl-swe.strict (3921473) 
+   swe-srp_Latn: Tatoeba-train-v2021-08-07.srp_Latn-swe.strict (5512909) 
+   swe-ukr: Tatoeba-train-v2021-08-07.swe-ukr.strict (4072972) 
+validation-data:
+   bel-dan: Tatoeba-dev-v2021-08-07, 995
+   bel_Latn-dan: Tatoeba-dev-v2021-08-07, 5
+   bul-dan: Tatoeba-dev-v2021-08-07, 1000
+   ces-dan: Tatoeba-dev-v2021-08-07, 1000
+   dan-pol: Tatoeba-dev-v2021-08-07, 935
+   dan-rus: Tatoeba-dev-v2021-08-07, 1003
+   dan-slv: Tatoeba-dev-v2021-08-07, 1000
+   dan-ukr: Tatoeba-dev-v2021-08-07, 1001
+   ces-fao: Tatoeba-dev-v2021-08-07, 1000
+   fao-pol: Tatoeba-dev-v2021-08-07, 1000
+   isl-pol: Tatoeba-dev-v2021-08-07, 1000
+   isl-rus: Tatoeba-dev-v2021-08-07, 936
+   bel-nno: Tatoeba-dev-v2021-08-07, 63
+   bel_Latn-nno: Tatoeba-dev-v2021-08-07, 1
+   bul-nno: Tatoeba-dev-v2021-08-07, 6
+   ces-nno: Tatoeba-dev-v2021-08-07, 4
+   nno-pol: Tatoeba-dev-v2021-08-07, 5
+   nno-rus: Tatoeba-dev-v2021-08-07, 6
+   nno-slv: Tatoeba-dev-v2021-08-07, 6
+   nno-ukr: Tatoeba-dev-v2021-08-07, 16
+   bel-nob: Tatoeba-dev-v2021-08-07, 932
+   bel_Latn-nob: Tatoeba-dev-v2021-08-07, 4
+   bul-nob: Tatoeba-dev-v2021-08-07, 994
+   ces-nob: Tatoeba-dev-v2021-08-07, 996
+   hrv-nob: Tatoeba-dev-v2021-08-07, 65
+   nob-pol: Tatoeba-dev-v2021-08-07, 959
+   nob-rus: Tatoeba-dev-v2021-08-07, 942
+   nob-slv: Tatoeba-dev-v2021-08-07, 953
+   nob-srp_Cyrl: Tatoeba-dev-v2021-08-07, 139
+   nob-srp_Latn: Tatoeba-dev-v2021-08-07, 5907
+   nob-ukr: Tatoeba-dev-v2021-08-07, 946
+   bos_Latn-swe: Tatoeba-dev-v2021-08-07, 84
+   bul-swe: Tatoeba-dev-v2021-08-07, 1000
+   ces-swe: Tatoeba-dev-v2021-08-07, 1000
+   hrv-swe: Tatoeba-dev-v2021-08-07, 341
+   mkd-swe: Tatoeba-dev-v2021-08-07, 1000
+   pol-swe: Tatoeba-dev-v2021-08-07, 957
+   rus-swe: Tatoeba-dev-v2021-08-07, 50
+   slv-swe: Tatoeba-dev-v2021-08-07, 1000
+   srp_Cyrl-swe: Tatoeba-dev-v2021-08-07, 145
+   srp_Latn-swe: Tatoeba-dev-v2021-08-07, 405
+   swe-ukr: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 25867
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.dan-bel: 2/8
+   Tatoeba-test-v2021-08-07.dan-bul: 1/4
+   Tatoeba-test-v2021-08-07.dan-ces: 2/10
+   Tatoeba-test-v2021-08-07.dan-pol: 147/977
+   Tatoeba-test-v2021-08-07.dan-rus: 1713/10437
+   Tatoeba-test-v2021-08-07.dan-slv: 2/9
+   Tatoeba-test-v2021-08-07.dan-ukr: 10/47
+   Tatoeba-test-v2021-08-07.fao-ces: 1/27
+   Tatoeba-test-v2021-08-07.fao-pol: 5/64
+   Tatoeba-test-v2021-08-07.isl-pol: 18/116
+   Tatoeba-test-v2021-08-07.isl-rus: 139/897
+   Tatoeba-test-v2021-08-07.nno-rus: 2/11
+   Tatoeba-test-v2021-08-07.nob-hrv: 53/323
+   Tatoeba-test-v2021-08-07.nob-rus: 1277/10631
+   Tatoeba-test-v2021-08-07.nob-srp_Cyrl: 134/1190
+   Tatoeba-test-v2021-08-07.nob-srp_Latn: 4813/39858
+   Tatoeba-test-v2021-08-07.nor-bel: 9/84
+   Tatoeba-test-v2021-08-07.nor-bul: 1/4
+   Tatoeba-test-v2021-08-07.nor-ces: 28/161
+   Tatoeba-test-v2021-08-07.nor-hbs: 5000/41371
+   Tatoeba-test-v2021-08-07.nor-pol: 281/1828
+   Tatoeba-test-v2021-08-07.nor-rus: 1279/10642
+   Tatoeba-test-v2021-08-07.nor-slv: 113/804
+   Tatoeba-test-v2021-08-07.nor-ukr: 670/3966
+   Tatoeba-test-v2021-08-07.multi-multi: 10000/72130
+   Tatoeba-test-v2021-08-07.swe-bul: 1/4
+   Tatoeba-test-v2021-08-07.swe-ces: 5/25
+   Tatoeba-test-v2021-08-07.swe-hbs: 2/7
+   Tatoeba-test-v2021-08-07.swe-mkd: 1/5
+   Tatoeba-test-v2021-08-07.swe-pol: 1392/8156
+   Tatoeba-test-v2021-08-07.swe-rus: 1282/7621
+   Tatoeba-test-v2021-08-07.swe-slv: 2/7
+   Tatoeba-test-v2021-08-07.swe-ukr: 4/19
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.dan-bel: 8.4
+   Tatoeba-test-v2021-08-07.dan-bul: 35.4
+   Tatoeba-test-v2021-08-07.dan-ces: 35.4
+   Tatoeba-test-v2021-08-07.dan-pol: 25.5
+   Tatoeba-test-v2021-08-07.dan-rus: 27.4
+   Tatoeba-test-v2021-08-07.dan-slv: 7.6
+   Tatoeba-test-v2021-08-07.dan-ukr: 22.9
+   Tatoeba-test-v2021-08-07.fao-ces: 2.1
+   Tatoeba-test-v2021-08-07.fao-pol: 3.2
+   Tatoeba-test-v2021-08-07.isl-pol: 19.9
+   Tatoeba-test-v2021-08-07.isl-rus: 12.5
+   Tatoeba-test-v2021-08-07.nno-rus: 11.7
+   Tatoeba-test-v2021-08-07.nob-hrv: 27.1
+   Tatoeba-test-v2021-08-07.nob-rus: 19.7
+   Tatoeba-test-v2021-08-07.nob-srp_Cyrl: 14.9
+   Tatoeba-test-v2021-08-07.nob-srp_Latn: 16.6
+   Tatoeba-test-v2021-08-07.nor-bel: 13.3
+   Tatoeba-test-v2021-08-07.nor-bul: 35.4
+   Tatoeba-test-v2021-08-07.nor-ces: 43.1
+   Tatoeba-test-v2021-08-07.nor-hbs: 16.6
+   Tatoeba-test-v2021-08-07.nor-pol: 22.5
+   Tatoeba-test-v2021-08-07.nor-rus: 19.7
+   Tatoeba-test-v2021-08-07.nor-slv: 0.6
+   Tatoeba-test-v2021-08-07.nor-ukr: 26.2
+   Tatoeba-test-v2021-08-07.multi-multi: 20.5
+   Tatoeba-test-v2021-08-07.swe-bul: 35.4
+   Tatoeba-test-v2021-08-07.swe-ces: 29.8
+   Tatoeba-test-v2021-08-07.swe-hbs: 91.0
+   Tatoeba-test-v2021-08-07.swe-mkd: 0.0
+   Tatoeba-test-v2021-08-07.swe-pol: 24.5
+   Tatoeba-test-v2021-08-07.swe-rus: 26.1
+   Tatoeba-test-v2021-08-07.swe-slv: 44.2
+   Tatoeba-test-v2021-08-07.swe-ukr: 10.3
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.dan-bel: 0.11493
+   Tatoeba-test-v2021-08-07.dan-bul: 0.48056
+   Tatoeba-test-v2021-08-07.dan-ces: 0.49275
+   Tatoeba-test-v2021-08-07.dan-pol: 0.46867
+   Tatoeba-test-v2021-08-07.dan-rus: 0.48016
+   Tatoeba-test-v2021-08-07.dan-slv: 0.21061
+   Tatoeba-test-v2021-08-07.dan-ukr: 0.48131
+   Tatoeba-test-v2021-08-07.fao-ces: 9.940
+   Tatoeba-test-v2021-08-07.fao-pol: 0.16481
+   Tatoeba-test-v2021-08-07.isl-pol: 0.34266
+   Tatoeba-test-v2021-08-07.isl-rus: 0.29363
+   Tatoeba-test-v2021-08-07.nno-rus: 0.42901
+   Tatoeba-test-v2021-08-07.nob-hrv: 0.47960
+   Tatoeba-test-v2021-08-07.nob-rus: 0.40510
+   Tatoeba-test-v2021-08-07.nob-srp_Cyrl: 0.35772
+   Tatoeba-test-v2021-08-07.nob-srp_Latn: 0.38038
+   Tatoeba-test-v2021-08-07.nor-bel: 0.31696
+   Tatoeba-test-v2021-08-07.nor-bul: 0.48056
+   Tatoeba-test-v2021-08-07.nor-ces: 0.56663
+   Tatoeba-test-v2021-08-07.nor-hbs: 0.38039
+   Tatoeba-test-v2021-08-07.nor-pol: 0.45162
+   Tatoeba-test-v2021-08-07.nor-rus: 0.40512
+   Tatoeba-test-v2021-08-07.nor-slv: 0.16983
+   Tatoeba-test-v2021-08-07.nor-ukr: 0.48301
+   Tatoeba-test-v2021-08-07.multi-multi: 0.41666
+   Tatoeba-test-v2021-08-07.swe-bul: 0.48056
+   Tatoeba-test-v2021-08-07.swe-ces: 0.38533
+   Tatoeba-test-v2021-08-07.swe-hbs: 0.90449
+   Tatoeba-test-v2021-08-07.swe-mkd: 0.23809
+   Tatoeba-test-v2021-08-07.swe-pol: 0.46319
+   Tatoeba-test-v2021-08-07.swe-rus: 0.47447
+   Tatoeba-test-v2021-08-07.swe-slv: 0.46534
+   Tatoeba-test-v2021-08-07.swe-ukr: 0.35557

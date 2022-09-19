@@ -1,5 +1,13 @@
+fra-apc	flores200-dev	8.2
+fra-apc	flores200-devtest	8.1
 fra-ara	flores101-dev	14.7
 fra-ara	flores101-devtest	14.6
+fra-ara	flores200-dev	14.8
+fra-ara	flores200-devtest	14.5
 fra-ara	tatoeba-test-v2020-07-28	15.0
 fra-ara	tatoeba-test-v2021-03-30	15.0
 fra-ara	tatoeba-test-v2021-08-07	15.0
+fra-ary	flores200-dev	5.5
+fra-ary	flores200-devtest	5.3
+fra-arz	flores200-dev	7.6
+fra-arz	flores200-devtest	7.1

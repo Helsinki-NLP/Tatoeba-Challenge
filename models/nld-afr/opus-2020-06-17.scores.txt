@@ -1,5 +1,7 @@
 nld-afr	flores101-dev	0.488	16.8	https://object.pouta.csc.fi/Tatoeba-MT-models/nld-afr/opus-2020-06-17.zip	997	24677
 nld-afr	flores101-devtest	0.492	16.8	https://object.pouta.csc.fi/Tatoeba-MT-models/nld-afr/opus-2020-06-17.zip	1012	25740
+nld-afr	flores200-dev	0.48782	16.9	https://object.pouta.csc.fi/Tatoeba-MT-models/nld-afr/opus-2020-06-17.zip	997	24677
+nld-afr	flores200-devtest	0.49190	16.8	https://object.pouta.csc.fi/Tatoeba-MT-models/nld-afr/opus-2020-06-17.zip	1012	25740
 nld-afr	tatoeba-test-v2020-07-28	0.749	57.8	https://object.pouta.csc.fi/Tatoeba-MT-models/nld-afr/opus-2020-06-17.zip	1056	6823
 nld-afr	tatoeba-test-v2021-03-30	0.749	57.8	https://object.pouta.csc.fi/Tatoeba-MT-models/nld-afr/opus-2020-06-17.zip	1058	6833
 nld-afr	tatoeba-test-v2021-08-07	0.749	57.8	https://object.pouta.csc.fi/Tatoeba-MT-models/nld-afr/opus-2020-06-17.zip	1056	6823

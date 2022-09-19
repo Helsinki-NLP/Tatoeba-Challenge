@@ -1,8 +1,8 @@
 heb-dan	flores101-dev	0.58306
-heb-isl	flores101-dev	0.41889
-heb-nob	flores101-dev	0.52182
-heb-swe	flores101-dev	0.56814
 heb-dan	flores101-devtest	0.58023
+heb-isl	flores101-dev	0.41889
 heb-isl	flores101-devtest	0.41998
+heb-nob	flores101-dev	0.52182
 heb-nob	flores101-devtest	0.53086
+heb-swe	flores101-dev	0.56814
 heb-swe	flores101-devtest	0.56881

@@ -1,5 +1,7 @@
 spa-deu	flores101-dev	0.53936	23.1	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-deu/opusTCv20210807_transformer-big_2022-07-22.zip	997	24097
 spa-deu	flores101-devtest	0.54437	22.8	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-deu/opusTCv20210807_transformer-big_2022-07-22.zip	1012	25094
+spa-deu	flores200-dev	0.53936	23.1	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-deu/opusTCv20210807_transformer-big_2022-07-22.zip	997	24097
+spa-deu	flores200-devtest	0.54437	22.8	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-deu/opusTCv20210807_transformer-big_2022-07-22.zip	1012	25094
 spa-deu	newssyscomb2009	0.53353	22.4	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-deu/opusTCv20210807_transformer-big_2022-07-22.zip	502	11271
 spa-deu	news-test2008	0.52591	22.9	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-deu/opusTCv20210807_transformer-big_2022-07-22.zip	2051	47447
 spa-deu	newstest2009	0.53099	22.9	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-deu/opusTCv20210807_transformer-big_2022-07-22.zip	2525	62816

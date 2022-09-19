@@ -1,5 +1,11 @@
+eng-fij	flores200-dev	14.5
+eng-fij	flores200-devtest	14.6
 eng-mri	flores101-dev	4.8
 eng-mri	flores101-devtest	4.8
+eng-mri	flores200-dev	4.8
+eng-mri	flores200-devtest	4.8
 eng-mri	tatoeba-test-v2020-07-28	7.8
 eng-mri	tatoeba-test-v2021-03-30	7.8
 eng-mri	tatoeba-test-v2021-08-07	7.9
+eng-smo	flores200-dev	20.1
+eng-smo	flores200-devtest	20.1

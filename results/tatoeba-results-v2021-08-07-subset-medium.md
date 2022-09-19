@@ -7,14 +7,18 @@ to be useful for anything.
 | Model | Test Set | chrF2 | BLEU |
 |:--|---|--:|--:|
 | | lang = bel-fra | | | | |
+| [sla-fra/opusTCv20210807_transformer-big](../models/sla-fra) | tatoeba-v2021-08-07 | 0.68739 | 52.1 |
 | [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | tatoeba-v2021-08-07 | 0.65415 | 46.4 |
 | [zle-itc/opusTCv20210807_transformer-big](../models/zle-itc) | tatoeba-v2021-08-07 | 0.65076 | 46.6 |
 | | lang = bel-ita | | | | |
 | [zle-ita/opusTCv20210807_transformer-big](../models/zle-ita) | tatoeba-v2021-08-07 | 0.65265 | 48.5 |
 | [zle-itc/opusTCv20210807_transformer-big](../models/zle-itc) | tatoeba-v2021-08-07 | 0.64206 | 45.6 |
 | | lang = bel-spa | | | | |
+| [sla-spa/opusTCv20210807_transformer-big](../models/sla-spa) | tatoeba-v2021-08-07 | 0.66322 | 47.1 |
 | [zle-spa/opusTCv20210807_transformer-big](../models/zle-spa) | tatoeba-v2021-08-07 | 0.65454 | 46.3 |
 | [zle-itc/opusTCv20210807_transformer-big](../models/zle-itc) | tatoeba-v2021-08-07 | 0.65321 | 46.3 |
+| | lang = bel-zho | | | | |
+| [sla-zho/opusTCv20210807_transformer-big](../models/sla-zho) | tatoeba-v2021-08-07 | 0.19693 | 19.9 |
 | | lang = bre-fra | | | | |
 | [cel-itc/opusTCv20210807_transformer-big](../models/cel-itc) | tatoeba-v2021-08-07 | 0.27196 | 11.2 |
 | | lang = deu-ltz | | | | |
@@ -28,6 +32,7 @@ to be useful for anything.
 | | lang = eng-yid | | | | |
 | [gmw-gmw/opusTCv20210807_transformer-big](../models/gmw-gmw) | tatoeba-v2021-08-07 | 9.648 | 0.4 |
 | | lang = fra-bel | | | | |
+| [fra-sla/opusTCv20210807_transformer-big](../models/fra-sla) | tatoeba-v2021-08-07 | 0.54097 | 32.0 |
 | [fra-zle/opusTCv20210807_transformer-big](../models/fra-zle) | tatoeba-v2021-08-07 | 0.51730 | 30.3 |
 | | lang = fra-bre | | | | |
 | [itc-cel/opusTCv20210807_transformer-big](../models/itc-cel) | tatoeba-v2021-08-07 | 0.18566 | 2.7 |
@@ -87,6 +92,7 @@ to be useful for anything.
 | | lang = por-nds | | | | |
 | [itc-gmw/opusTCv20210807_transformer-big](../models/itc-gmw) | tatoeba-v2021-08-07 | 0.39676 | 18.5 |
 | | lang = spa-bel | | | | |
+| [spa-sla/opusTCv20210807_transformer-big](../models/spa-sla) | tatoeba-v2021-08-07 | 0.59548 | 34.1 |
 | [spa-zle/opusTCv20210807_transformer-big](../models/spa-zle) | tatoeba-v2021-08-07 | 0.54428 | 27.4 |
 | | lang = spa-lat | | | | |
 | [itc-itc/opusTCv20210807_transformer-big](../models/itc-itc) | tatoeba-v2021-08-07 | 0.35062 | 6.4 |
@@ -100,3 +106,5 @@ to be useful for anything.
 | | lang = yid-eng | | | | |
 | [gmw-gmw/opusTCv20210807_transformer-big](../models/gmw-gmw) | tatoeba-v2021-08-07 | 3.715 | 0.1 |
 | [gmw-eng/opus4m+btTCv20210807](../models/gmw-eng) | tatoeba-v2021-08-07 | 0.135 | 1.1 |
+| | lang = zho-bel | | | | |
+| [zho-sla/opusTCv20210807_transformer-big](../models/zho-sla) | tatoeba-v2021-08-07 | 0.24951 | 9.2 |

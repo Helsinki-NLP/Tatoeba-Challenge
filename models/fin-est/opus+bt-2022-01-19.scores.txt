@@ -1,2 +1,4 @@
 fin-est	flores101-dev	0.54170	19.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-est/opus+bt-2022-01-19.zip	997	18917
 fin-est	flores101-devtest	0.54236	19.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-est/opus+bt-2022-01-19.zip	1012	19788
+fin-est	flores200-dev	0.54169	19.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-est/opus+bt-2022-01-19.zip	997	18917
+fin-est	flores200-devtest	0.54213	19.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-est/opus+bt-2022-01-19.zip	1012	19788

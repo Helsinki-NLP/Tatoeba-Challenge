@@ -1,0 +1,57 @@
+release: zho-kor/opusTCv20210807-sepvoc_transformer-big_2022-09-15.zip
+release-date: 2022-09-15
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807-sepvoc.spm32k-spm32k.src.vocab
+   target: opusTCv20210807-sepvoc.spm32k-spm32k.trg.vocab
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - cmn
+   - cmn_Hans
+   - cmn_Hant
+   - lzh
+   - lzh_Hans
+   - nan
+   - wuu
+   - yue_Hans
+   - yue_Hant
+target-languages:
+   - kor
+raw-source-languages:
+   - cmn
+   - lzh
+   - nan
+   - wuu
+   - yue
+raw-target-languages:
+   - kor
+training-data:
+   cmn-kor: Tatoeba-train-v2021-08-07.cmn-kor.strict (268742) 
+   cmn_Hans-kor: Tatoeba-train-v2021-08-07.cmn_Hans-kor.strict (2998654) 
+   cmn_Hant-kor: Tatoeba-train-v2021-08-07.cmn_Hant-kor.strict (1923897) 
+   lzh-kor: Tatoeba-train-v2021-08-07.kor-lzh.strict (1) 
+   lzh_Hans-kor: Tatoeba-train-v2021-08-07.kor-lzh_Hans.strict (1) 
+   nan-kor: Tatoeba-train-v2021-08-07.kor-nan.strict (18) 
+   wuu-kor: Tatoeba-train-v2021-08-07.kor-wuu.strict (6246) 
+   yue_Hans-kor: Tatoeba-train-v2021-08-07.kor-yue_Hans.strict (27) 
+   yue_Hant-kor: Tatoeba-train-v2021-08-07.kor-yue_Hant.strict (3732) 
+validation-data:
+   cmn-kor: Tatoeba-dev-v2021-08-07, 37
+   cmn_Hans-kor: Tatoeba-dev-v2021-08-07, 444
+   cmn_Hant-kor: Tatoeba-dev-v2021-08-07, 298
+   kor-wuu: Tatoeba-dev-v2021-08-07, 2
+   total-size-shuffled: 781
+   devset-selected: top 781  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.multi-kor: 411/2251
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.multi-kor: 7.5
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.multi-kor: 0.23478

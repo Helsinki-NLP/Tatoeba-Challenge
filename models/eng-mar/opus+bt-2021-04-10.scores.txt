@@ -1,5 +1,7 @@
 eng-mar	flores101-dev	0.378	8.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mar/opus+bt-2021-04-10.zip	997	20613
 eng-mar	flores101-devtest	0.379	8.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mar/opus+bt-2021-04-10.zip	1012	21810
+eng-mar	flores200-dev	0.37747	8.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mar/opus+bt-2021-04-10.zip	997	20613
+eng-mar	flores200-devtest	0.37761	8.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mar/opus+bt-2021-04-10.zip	1012	21810
 eng-mar	tatoeba-test-v2020-07-28	0.488	21.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mar/opus+bt-2021-04-10.zip	10000	58672
 eng-mar	tatoeba-test-v2021-03-30	0.487	21.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mar/opus+bt-2021-04-10.zip	10250	60236
 eng-mar	tatoeba-test-v2021-08-07	0.486	21.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mar/opus+bt-2021-04-10.zip	10396	61140

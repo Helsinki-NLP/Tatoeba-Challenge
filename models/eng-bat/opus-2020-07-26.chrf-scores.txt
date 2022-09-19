@@ -1,11 +1,7 @@
 eng-lav	flores101-dev	0.542
 eng-lav	flores101-devtest	0.544
 eng-lav	newsdev2017	0.53300
-eng-lav	newsdev2017	0.533
-eng-lav	newsdev2017	0.533
 eng-lav	newstest2017	0.49202
-eng-lav	newstest2017	0.492
-eng-lav	newstest2017	0.492
 eng-lav	tatoeba-test-v2020-07-28	0.635
 eng-lav	tatoeba-test-v2021-03-30	0.635
 eng-lav	tatoeba-test-v2021-08-07	0.635
@@ -14,11 +10,7 @@ eng-lit	flores101-devtest	0.528
 eng-lit	flores200-dev	0.51831
 eng-lit	flores200-devtest	0.52746
 eng-lit	newsdev2019	0.51544
-eng-lit	newsdev2019	0.516
-eng-lit	newsdev2019	0.516
 eng-lit	newstest2019	0.45387
-eng-lit	newstest2019	0.454
-eng-lit	newstest2019	0.454
 eng-lit	tatoeba-test-v2020-07-28	0.630
 eng-lit	tatoeba-test-v2021-03-30	0.630
 eng-lit	tatoeba-test-v2021-08-07	0.630

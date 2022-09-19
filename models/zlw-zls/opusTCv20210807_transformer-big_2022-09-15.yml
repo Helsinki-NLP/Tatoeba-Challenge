@@ -1,0 +1,106 @@
+release: zlw-zls/opusTCv20210807_transformer-big_2022-09-15.zip
+release-date: 2022-09-15
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ces
+   - dsb
+   - hsb
+   - pol
+target-languages:
+   - bos_Cyrl
+   - bos_Latn
+   - bul
+   - hbs
+   - hbs_Cyrl
+   - hrv
+   - mkd
+   - slv
+   - srp_Cyrl
+   - srp_Latn
+raw-source-languages:
+   - ces
+   - dsb
+   - hsb
+   - pol
+raw-target-languages:
+   - bos
+   - bul
+   - hbs
+   - hrv
+   - mkd
+   - slv
+   - srp
+use-target-labels:
+training-data:
+   ces-bos_Cyrl: Tatoeba-train-v2021-08-07.bos_Cyrl-ces.strict (73) 
+   ces-bos_Latn: Tatoeba-train-v2021-08-07.bos_Latn-ces.strict (4202735) 
+   ces-bul: Tatoeba-train-v2021-08-07.bul-ces.strict (9182101) 
+   ces-hbs: Tatoeba-train-v2021-08-07.ces-hbs.strict (13667) 
+   ces-hbs_Cyrl: Tatoeba-train-v2021-08-07.ces-hbs_Cyrl.strict (341) 
+   ces-hrv: Tatoeba-train-v2021-08-07.ces-hrv.strict (7648475) 
+   ces-mkd: Tatoeba-train-v2021-08-07.ces-mkd.strict (3183707) 
+   ces-slv: Tatoeba-train-v2021-08-07.ces-slv.strict (7789203) 
+   ces-srp_Cyrl: Tatoeba-train-v2021-08-07.ces-srp_Cyrl.strict (3439579) 
+   ces-srp_Latn: Tatoeba-train-v2021-08-07.ces-srp_Latn.strict (6760612) 
+   dsb-bul: Tatoeba-train-v2021-08-07.bul-dsb.strict (19283) 
+   dsb-slv: Tatoeba-train-v2021-08-07.dsb-slv.strict (27759) 
+   hsb-bos_Latn: Tatoeba-train-v2021-08-07.bos_Latn-hsb.strict (17796) 
+   hsb-bul: Tatoeba-train-v2021-08-07.bul-hsb.strict (28422) 
+   hsb-hbs: Tatoeba-train-v2021-08-07.hbs-hsb.strict (80314) 
+   hsb-hrv: Tatoeba-train-v2021-08-07.hrv-hsb.strict (32674) 
+   hsb-slv: Tatoeba-train-v2021-08-07.hsb-slv.strict (38171) 
+   hsb-srp_Cyrl: Tatoeba-train-v2021-08-07.hsb-srp_Cyrl.strict (28442) 
+   hsb-srp_Latn: Tatoeba-train-v2021-08-07.hsb-srp_Latn.strict (1402) 
+   pol-bos_Cyrl: Tatoeba-train-v2021-08-07.bos_Cyrl-pol.strict (103) 
+   pol-bos_Latn: Tatoeba-train-v2021-08-07.bos_Latn-pol.strict (4166693) 
+   pol-bul: Tatoeba-train-v2021-08-07.bul-pol.strict (10000000) 
+   pol-hbs: Tatoeba-train-v2021-08-07.hbs-pol.strict (13464) 
+   pol-hbs_Cyrl: Tatoeba-train-v2021-08-07.hbs_Cyrl-pol.strict (363) 
+   pol-hrv: Tatoeba-train-v2021-08-07.hrv-pol.strict (7644985) 
+   pol-mkd: Tatoeba-train-v2021-08-07.mkd-pol.strict (3323353) 
+   pol-slv: Tatoeba-train-v2021-08-07.pol-slv.strict (8429450) 
+   pol-srp_Cyrl: Tatoeba-train-v2021-08-07.pol-srp_Cyrl.strict (3789853) 
+   pol-srp_Latn: Tatoeba-train-v2021-08-07.pol-srp_Latn.strict (7335231) 
+validation-data:
+   bos_Latn-ces: Tatoeba-dev-v2021-08-07, 96
+   bul-ces: Tatoeba-dev-v2021-08-07, 1000
+   ces-hrv: Tatoeba-dev-v2021-08-07, 342
+   ces-mkd: Tatoeba-dev-v2021-08-07, 1000
+   ces-slv: Tatoeba-dev-v2021-08-07, 965
+   ces-srp_Cyrl: Tatoeba-dev-v2021-08-07, 102
+   ces-srp_Latn: Tatoeba-dev-v2021-08-07, 437
+   bul-dsb: Tatoeba-dev-v2021-08-07, 1000
+   dsb-slv: Tatoeba-dev-v2021-08-07, 989
+   bos_Latn-hsb: Tatoeba-dev-v2021-08-07, 240
+   bul-hsb: Tatoeba-dev-v2021-08-07, 1000
+   hbs-hsb: Tatoeba-dev-v2021-08-07, 1000
+   hrv-hsb: Tatoeba-dev-v2021-08-07, 407
+   hsb-slv: Tatoeba-dev-v2021-08-07, 971
+   hsb-srp_Cyrl: Tatoeba-dev-v2021-08-07, 340
+   hsb-srp_Latn: Tatoeba-dev-v2021-08-07, 13
+   bos_Latn-pol: Tatoeba-dev-v2021-08-07, 110
+   bul-pol: Tatoeba-dev-v2021-08-07, 1000
+   hrv-pol: Tatoeba-dev-v2021-08-07, 362
+   mkd-pol: Tatoeba-dev-v2021-08-07, 1000
+   pol-slv: Tatoeba-dev-v2021-08-07, 945
+   pol-srp_Cyrl: Tatoeba-dev-v2021-08-07, 105
+   pol-srp_Latn: Tatoeba-dev-v2021-08-07, 377
+   total-size-shuffled: 13763
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.multi-multi: 2277/11472
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.multi-multi: 21.9
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.multi-multi: 0.38094

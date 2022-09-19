@@ -1,7 +1,9 @@
 eng-ron	flores101-dev	0.600
 eng-ron	flores101-devtest	0.604
-eng-ron	newsdev2016	0.585
-eng-ron	newstest2016	0.568
+eng-ron	flores200-dev	0.60082
+eng-ron	flores200-devtest	0.60436
+eng-ron	newsdev2016	0.58480
+eng-ron	newstest2016	0.56795
 eng-ron	tatoeba-test-v2020-07-28	0.664
 eng-ron	tatoeba-test-v2021-03-30	0.667
 eng-ron	tatoeba-test-v2021-08-07	0.669

@@ -126,6 +126,8 @@ ara-rus/opus-2020-06-18.zip	transformer	apc,ara,arz	rus
 ara-rus/opus-2020-06-18.zip	transformer	apc,ara,arz	rus	
 ara-rus/opus-2020-07-03.zip	transformer	apc,ara,arz	rus	
 ara-rus/opus-2021-02-23.zip	transformer	apc,ara,arq,arz	rus	
+ara-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	apc,ara,arq,arz	bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,mkd,pol,rus,srp_Cyrl,srp_Latn,ukr	
+ara-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	apc,ara,arq,arz	bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,mkd,pol,rus,srp_Cyrl,srp_Latn,ukr	
 ara-spa/opus-2020-07-03.zip	transformer	apc,ara,arq	spa	
 ara-spa/opus-2020-07-03.zip	transformer	apc,ara,arq	spa	
 ara-spa/opus-2021-02-23.zip	transformer	apc,ara,arq,arz	spa	
@@ -1393,6 +1395,8 @@ fin-rus/opus+bt-2022-01-19.zip	transformer-align	fin	rus
 fin-rus/opus+bt-2022-01-19.zip	transformer-align	fin	rus	
 fin-sem/opus4m+btTCv20210807-2022-01-19.zip	transformer	fin	ara,arq,arz,heb	>>ara<<,>>arq<<,>>arz<<,>>heb<<
 fin-sem/opus4m+btTCv20210807-2022-01-19.zip	transformer	fin	ara,arq,arz,heb	>>ara<<,>>arq<<,>>arz<<,>>heb<<
+fin-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	fin	bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	
+fin-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	fin	bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	
 fin-spa/opusTCv20210807_transformer-big_2022-06-23.zip	transformer-big	fin	spa	
 fin-spa/opusTCv20210807_transformer-big_2022-06-23.zip	transformer-big	fin	spa	
 fin-swe/opus-2021-02-19.zip	transformer-align	fin	swe	
@@ -1527,6 +1531,8 @@ fra-nor/opus-2020-06-17.zip	transformer-align	fra	nno,nob	>>nno<<,>>nob<<
 fra-nor/opus-2021-02-23.zip	transformer	fra	nno,nob	>>nno<<,>>nob<<
 fra-por/opus-2021-05-15.zip	transformer-align	fra	pob,por	>>pob<<,>>por<<
 fra-por/opus-2021-05-15.zip	transformer-align	fra	pob,por	>>pob<<,>>por<<
+fra-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	fra	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	
+fra-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	fra	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	
 fra-swe/opus-2021-02-19.zip	transformer-align	fra	swe	
 fra-swe/opus-2021-02-19.zip	transformer-align	fra	swe	
 fra-tat/opus-2020-09-10.zip	transformer-align	fra	tat	>>tat<<,>>tat_Latn<<
@@ -1614,6 +1620,8 @@ gmq-heb/opusTCv20210807_transformer-big_2022-07-28.zip	transformer-big	dan,isl,n
 gmq-heb/opusTCv20210807_transformer-big_2022-07-28.zip	transformer-big	dan,isl,nno,nob,swe	heb	
 gmq-itc/opusTCv20210807_transformer-big_2022-08-09.zip	transformer-big	dan,fao,isl,nno,nob,non,swe	cat,fra,glg,ita,lad,lad_Latn,lat_Latn,mol,osp_Latn,pob,por,ron,spa	
 gmq-itc/opusTCv20210807_transformer-big_2022-08-09.zip	transformer-big	dan,fao,isl,nno,nob,non,swe	cat,fra,glg,ita,lad,lad_Latn,lat_Latn,mol,osp_Latn,pob,por,ron,spa	
+gmq-sla/opusTCv20210807_transformer-big_2022-08-29.zip	transformer-big	dan,fao,isl,nno,nob,swe	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,mkd,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	
+gmq-sla/opusTCv20210807_transformer-big_2022-08-29.zip	transformer-big	dan,fao,isl,nno,nob,swe	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,mkd,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	
 gmq-tur/opusTCv20210807_transformer-big_2022-07-26.zip	transformer-big	dan,fao,nno,nob,swe	tur	
 gmq-tur/opusTCv20210807_transformer-big_2022-07-26.zip	transformer-big	dan,fao,nno,nob,swe	tur	
 gmq-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-23.zip	transformer-tiny11-align	dan,nno,nob,nor,swe	ukr	
@@ -1624,6 +1632,8 @@ gmq-zle/opusTCv20210807+pbt_transformer-big_2022-03-14.zip	transformer-big	dan,i
 gmq-zle/opusTCv20210807+pbt_transformer-big_2022-03-19.zip	transformer-big	dan,isl,nno,nob,swe	bel,bel_Latn,rus,ukr	
 gmq-zle/opusTCv20210807+pbt_transformer-big_2022-03-23.zip	transformer-big	dan,isl,nno,nob,swe	bel,bel_Latn,rus,ukr	
 gmq-zle/opusTCv20210807+pbt_transformer-big_2022-03-23.zip	transformer-big	dan,isl,nno,nob,swe	bel,bel_Latn,rus,ukr	
+gmq-zle/opusTCv20210807+xb+bt+pbt_transformer-big_2022-09-15.zip	transformer-big	dan,isl,nno,nob,swe	bel,bel_Latn,rus,ukr	
+gmq-zle/opusTCv20210807+xb+bt+pbt_transformer-big_2022-09-15.zip	transformer-big	dan,isl,nno,nob,swe	bel,bel_Latn,rus,ukr	
 gmq-zlw/opusTCv20210807_transformer-big_2022-08-03.zip	transformer-big	dan,fao,isl,nno,nob,swe	ces,pol	
 gmq-zlw/opusTCv20210807_transformer-big_2022-08-03.zip	transformer-big	dan,fao,isl,nno,nob,swe	ces,pol	
 gmw-deu/opus1m-2021-05-16.zip	transformer-align	afr,ang,bar,eng	deu	
@@ -1709,6 +1719,8 @@ heb-itc/opusTCv20210807_transformer-big_2022-07-25.zip	transformer-big	heb	cat,f
 heb-itc/opusTCv20210807_transformer-big_2022-07-25.zip	transformer-big	heb	cat,fra,gcf_Latn,glg,ita,lad,lad_Latn,lat_Latn,mol,osp_Latn,pob,por,ron,spa	
 heb-rus/opus-2021-02-19.zip	transformer	heb	rus	
 heb-rus/opus-2021-02-19.zip	transformer	heb	rus	
+heb-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	heb	bel,bel_Latn,bul,ces,pol,rus,slv,ukr	
+heb-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	heb	bel,bel_Latn,bul,ces,pol,rus,slv,ukr	
 heb-spa/opus-2021-02-19.zip	transformer	heb	spa	
 heb-spa/opus-2021-02-19.zip	transformer	heb	spa	
 heb-ukr/opus-2021-02-19.zip	transformer-align	heb	ukr	
@@ -1933,6 +1945,8 @@ jpn-hun/opus-2020-06-17.zip	transformer-align	jpn	hun
 jpn-hun/opus-2021-02-18.zip	transformer	jpn	hun	
 jpn-ita/opus-2021-02-18.zip	transformer	jpn	ita	
 jpn-ita/opus-2021-02-18.zip	transformer	jpn	ita	
+jpn-kor/opusTCv20210807-sepvoc_transformer-big_2022-09-15.zip	transformer-big	jpn	kor	
+jpn-kor/opusTCv20210807-sepvoc_transformer-big_2022-09-15.zip	transformer-big	jpn	kor	
 jpn-msa/opus-2020-06-17.zip	transformer-align	jpn	ind,zlm,zsm	>>ind<<,>>zlm_Latn<<,>>zsm_Latn<<
 jpn-msa/opus-2020-06-17.zip	transformer-align	jpn	ind,zlm,zsm	>>ind<<,>>zlm_Latn<<,>>zsm_Latn<<
 jpn-msa/opus-2021-02-18.zip	transformer	jpn	ind,msa,zlm,zsm	>>ind<<,>>msa_Latn<<,>>zlm<<,>>zlm_Latn<<,>>zsm_Latn<<
@@ -1955,6 +1969,8 @@ jpn-tur/opus-2021-02-19.zip	transformer-align	jpn	tur
 jpn-tur/opus-2021-02-19.zip	transformer-align	jpn	tur	
 jpn-vie/opus-2021-02-18.zip	transformer-align	jpn	vie	
 jpn-vie/opus-2021-02-18.zip	transformer-align	jpn	vie	
+jpn-zho/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	jpn	cmn,cmn_Hans,cmn_Hant,lzh,lzh_Hans,nan,wuu,yue_Hans,yue_Hant	
+jpn-zho/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	jpn	cmn,cmn_Hans,cmn_Hant,lzh,lzh_Hans,nan,wuu,yue_Hans,yue_Hant	
 jpx-jpx/opus-2020-10-04.zip	transformer	eng,jpn	eng,jpn	>>eng<<,>>jpn<<
 jpx-jpx/opus-2020-10-04.zip	transformer	eng,jpn	eng,jpn	>>eng<<,>>jpn<<
 kat-eng/opus-2021-02-18.zip	transformer-align	kat	eng	
@@ -2228,6 +2244,8 @@ por-fin/opusTCv20210807_transformer-big_2022-07-22.zip	transformer-big	pob,por	f
 por-glg/opus-2020-06-16.zip	transformer-align	por	glg	
 por-glg/opus-2020-06-16.zip	transformer-align	por	glg	
 por-glg/opus-2021-02-24.zip	transformer	pob,por	glg	
+por-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	pob,por	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	
+por-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	pob,por	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	
 por-tgl/opus-2020-06-17.zip	transformer-align	por	tgl	
 por-tgl/opus-2020-06-17.zip	transformer-align	por	tgl	
 por-tgl/opus-2021-02-18.zip	transformer	pob,por	tgl	>>tgl<<,>>tgl_Latn<<
@@ -2384,19 +2402,42 @@ sit-fiu/opus-2021-02-19.zip	transformer	cmn,nan,yue	fin,hun,mhr	>>fin<<,>>hun<<,
 sit-sit/opus-2020-10-04.zip	transformer	bod,brx,cjy,cmn,eng,gan,hak,hsn,lzh,mya,nan,wuu,yue	bod,brx,cjy,cmn,eng,gan,hak,hsn,lzh,mya,nan,wuu,yue	>>bod<<,>>brx<<,>>brx_Latn<<,>>cjy_Hans<<,>>cjy_Hant<<,>>cmn<<,>>cmn_Hans<<,>>cmn_Hant<<,>>eng<<,>>gan<<,>>hak<<,>>hak_Hani<<,>>hsn_Hani<<,>>lzh<<,>>lzh_Hans<<,>>mya<<,>>nan<<,>>wuu<<,>>yue_Hans<<,>>yue_Hant<<
 sit-sit/opus-2020-10-04.zip	transformer	bod,brx,cjy,cmn,eng,gan,hak,hsn,lzh,mya,nan,wuu,yue	bod,brx,cjy,cmn,eng,gan,hak,hsn,lzh,mya,nan,wuu,yue	>>bod<<,>>brx<<,>>brx_Latn<<,>>cjy_Hans<<,>>cjy_Hant<<,>>cmn<<,>>cmn_Hans<<,>>cmn_Hant<<,>>eng<<,>>gan<<,>>hak<<,>>hak_Hani<<,>>hsn_Hani<<,>>lzh<<,>>lzh_Hans<<,>>mya<<,>>nan<<,>>wuu<<,>>yue_Hans<<,>>yue_Hant<<
 sit-sit/opus-2021-02-18.zip	transformer	cmn,mya,nan,yue	cmn,mya,nan,yue	>>cmn<<,>>cmn_Hans<<,>>cmn_Hant<<,>>mya<<,>>nan<<,>>yue_Hans<<,>>yue_Hant<<
+sla-deu/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	deu	
+sla-deu/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	deu	
 sla-eng/opus-2020-07-04.zip	transformer	bel,bul,ces,csb,dsb,hsb,mkd,orv,pol,rue,rus,slv,ukr	eng	
 sla-eng/opus-2020-07-04.zip	transformer	bel,bul,ces,csb,dsb,hsb,mkd,orv,pol,rue,rus,slv,ukr	eng	
 sla-eng/opus-2020-07-27.zip	transformer	bel,bos,bul,ces,csb,dsb,hrv,hsb,mkd,orv,pol,rue,rus,slv,srp,ukr	eng	
 sla-eng/opus4m-2020-08-12.zip	transformer	bel,bos,bul,ces,csb,dsb,hrv,hsb,mkd,orv,pol,rue,rus,slv,srp,ukr	eng	
 sla-eng/opus4m-2020-08-12.zip	transformer	bel,bos,bul,ces,csb,dsb,hrv,hsb,mkd,orv,pol,rue,rus,slv,srp,ukr	eng	
+sla-fin/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	fin	
+sla-fin/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	fin	
 sla-fiu/opus-2021-02-18.zip	transformer	bel,bos,bul,ces,hbs,hrv,mkd,pol,rus,slv,srp,ukr	est,fin,hun,izh,mhr,sme,udm	>>est<<,>>fin<<,>>hun<<,>>izh<<,>>mhr<<,>>sme<<,>>udm<<
 sla-fiu/opus-2021-02-18.zip	transformer	bel,bos,bul,ces,hbs,hrv,mkd,pol,rus,slv,srp,ukr	est,fin,hun,izh,mhr,sme,udm	>>est<<,>>fin<<,>>hun<<,>>izh<<,>>mhr<<,>>sme<<,>>udm<<
+sla-fra/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	fra	
+sla-fra/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	fra	
+sla-gmq/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,mkd,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	dan,fao,isl,nno,nob,swe	
+sla-gmq/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,mkd,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	dan,fao,isl,nno,nob,swe	
+sla-heb/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bul,ces,pol,rus,slv,ukr	heb	
+sla-heb/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bul,ces,pol,rus,slv,ukr	heb	
+sla-itc/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rue,rus,slv,srp_Cyrl,srp_Latn,ukr	ast,cat,fra,gcf_Latn,glg,ita,lad,lad_Latn,lat_Latn,mol,oci,osp_Latn,pms,pob,por,ron,scn,spa	
+sla-itc/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rue,rus,slv,srp_Cyrl,srp_Latn,ukr	ast,cat,fra,gcf_Latn,glg,ita,lad,lad_Latn,lat_Latn,mol,oci,osp_Latn,pms,pob,por,ron,scn,spa	
+sla-kor/opusTCv20210807-sepvoc_transformer-big_2022-09-15.zip	transformer-big	ces,pol,rus,slv,ukr	kor	
+sla-kor/opusTCv20210807-sepvoc_transformer-big_2022-09-15.zip	transformer-big	ces,pol,rus,slv,ukr	kor	
+sla-por/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	pob,por	
+sla-por/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	pob,por	
 sla-sla/opus-2020-07-21.zip	transformer	bel,bos,bul,ces,dsb,hrv,hsb,mkd,orv,pol,rus,slv,srp,ukr	bel,bos,bul,ces,dsb,hrv,hsb,mkd,orv,pol,rus,slv,srp,ukr	>>bel<<,>>bel_Latn<<,>>bos_Latn<<,>>bul<<,>>bul_Latn<<,>>ces<<,>>dsb<<,>>hrv<<,>>hsb<<,>>mkd<<,>>orv_Cyrl<<,>>pol<<,>>rus<<,>>slv<<,>>srp_Cyrl<<,>>srp_Latn<<,>>ukr<<
 sla-sla/opus-2020-07-21.zip	transformer	bel,bos,bul,ces,dsb,hrv,hsb,mkd,orv,pol,rus,slv,srp,ukr	bel,bos,bul,ces,dsb,hrv,hsb,mkd,orv,pol,rus,slv,srp,ukr	>>bel<<,>>bel_Latn<<,>>bos_Latn<<,>>bul<<,>>bul_Latn<<,>>ces<<,>>dsb<<,>>hrv<<,>>hsb<<,>>mkd<<,>>orv_Cyrl<<,>>pol<<,>>rus<<,>>slv<<,>>srp_Cyrl<<,>>srp_Latn<<,>>ukr<<
 sla-sla/opus-2020-07-27.zip	transformer	bel,bos,bul,ces,dsb,hrv,hsb,mkd,orv,pol,rus,slv,srp,ukr	bel,bos,bul,ces,dsb,hrv,hsb,mkd,orv,pol,rus,slv,srp,ukr	>>bel<<,>>bel_Latn<<,>>bos_Latn<<,>>bul<<,>>bul_Latn<<,>>ces<<,>>dsb<<,>>hrv<<,>>hsb<<,>>mkd<<,>>orv_Cyrl<<,>>pol<<,>>rus<<,>>slv<<,>>srp_Cyrl<<,>>srp_Latn<<,>>ukr<<
 sla-sla/opus-2020-09-26.zip	transformer	bel,bos,bul,ces,cnr,csb,dsb,eng,hbs,hrv,hsb,mkd,orv,pol,rue,rus,slv,srp,ukr	bel,bos,bul,ces,cnr,csb,dsb,eng,hbs,hrv,hsb,mkd,orv,pol,rue,rus,slv,srp,ukr	>>bel<<,>>bel_Latn<<,>>bos_Cyrl<<,>>bos_Latn<<,>>bul<<,>>ces<<,>>cnr<<,>>cnr_Latn<<,>>csb<<,>>csb_Latn<<,>>dsb<<,>>eng<<,>>hbs<<,>>hbs_Cyrl<<,>>hrv<<,>>hsb<<,>>mkd<<,>>orv_Cyrl<<,>>pol<<,>>rue<<,>>rus<<,>>slv<<,>>srp_Cyrl<<,>>srp_Latn<<,>>ukr<<
 sla-sla/opus-2020-10-04.zip	transformer	bel,bos,bul,ces,cnr,csb,dsb,eng,hbs,hrv,hsb,mkd,orv,pol,rue,rus,slv,srp,ukr	bel,bos,bul,ces,cnr,csb,dsb,eng,hbs,hrv,hsb,mkd,orv,pol,rue,rus,slv,srp,ukr	>>bel<<,>>bel_Latn<<,>>bos_Cyrl<<,>>bos_Latn<<,>>bul<<,>>ces<<,>>cnr<<,>>cnr_Latn<<,>>csb<<,>>csb_Latn<<,>>dsb<<,>>eng<<,>>hbs<<,>>hbs_Cyrl<<,>>hrv<<,>>hsb<<,>>mkd<<,>>orv_Cyrl<<,>>pol<<,>>rue<<,>>rus<<,>>slv<<,>>srp_Cyrl<<,>>srp_Latn<<,>>ukr<<
 sla-sla/opus-2021-02-18.zip	transformer	bel,bos,bul,ces,dsb,hbs,hrv,hsb,mkd,orv,pol,rus,slv,srp,ukr	bel,bos,bul,ces,dsb,hbs,hrv,hsb,mkd,orv,pol,rus,slv,srp,ukr	>>bel<<,>>bel_Latn<<,>>bos_Cyrl<<,>>bos_Latn<<,>>bul<<,>>ces<<,>>dsb<<,>>hbs<<,>>hbs_Cyrl<<,>>hrv<<,>>hsb<<,>>mkd<<,>>orv_Cyrl<<,>>pol<<,>>rus<<,>>slv<<,>>srp_Cyrl<<,>>srp_Latn<<,>>ukr<<
+sla-sla/opusTCv20210807_transformer-big_2022-08-29.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	
+sla-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	
+sla-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	
+sla-spa/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rue,rus,slv,srp_Cyrl,srp_Latn,ukr	spa	
+sla-spa/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rue,rus,slv,srp_Cyrl,srp_Latn,ukr	spa	
+sla-zho/opusTCv20210807_transformer-big_2022-09-14.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	cmn,cmn_Hans,cmn_Hant,lzh,lzh_Hans,nan,wuu,yue_Hans,yue_Hant	
+sla-zho/opusTCv20210807_transformer-big_2022-09-14.zip	transformer-big	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	cmn,cmn_Hans,cmn_Hant,lzh,lzh_Hans,nan,wuu,yue_Hans,yue_Hant	
 slv-eng/opus-2021-02-19.zip	transformer	slv	eng	
 slv-eng/opus-2021-02-19.zip	transformer	slv	eng	
 slv-rus/opus-2021-02-18.zip	transformer-align	slv	rus	
@@ -2459,6 +2500,8 @@ spa-nor/opus-2020-06-17.zip	transformer-align	spa	nno,nob	>>nno<<,>>nob<<
 spa-nor/opus-2021-02-23.zip	transformer	spa	nno,nob	>>nno<<,>>nob<<
 spa-run/opus-2021-02-19.zip	transformer-align	spa	run	
 spa-run/opus-2021-02-19.zip	transformer-align	spa	run	
+spa-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	spa	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rue,rus,slv,srp_Cyrl,srp_Latn,ukr	
+spa-sla/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	spa	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,csb,csb_Latn,dsb,hbs,hbs_Cyrl,hrv,hsb,mkd,orv_Cyrl,pol,rue,rus,slv,srp_Cyrl,srp_Latn,ukr	
 spa-tat/opus-2020-09-10.zip	transformer-align	spa	tat	>>tat<<,>>tat_Latn<<
 spa-tat/opus-2020-09-10.zip	transformer-align	spa	tat	>>tat<<,>>tat_Latn<<
 spa-tgl/opus-2020-06-17.zip	transformer-align	spa	tgl	
@@ -2859,12 +2902,16 @@ zho-jpn/opusTCv20210807_transformer-big_2022-07-29.zip	transformer-big	cmn,cmn_H
 zho-jpn/opusTCv20210807_transformer-big_2022-07-29.zip	transformer-big	cmn,cmn_Hans,cmn_Hant,lzh,lzh_Hans,nan,wuu,yue_Hans,yue_Hant	jpn	
 zho-kor/opus-2020-09-10.zip	transformer	cmn,lzh,nan,yue	kor	
 zho-kor/opus-2020-09-10.zip	transformer	cmn,lzh,nan,yue	kor	
+zho-kor/opusTCv20210807-sepvoc_transformer-big_2022-09-15.zip	transformer-big	cmn,cmn_Hans,cmn_Hant,lzh,lzh_Hans,nan,wuu,yue_Hans,yue_Hant	kor	
+zho-kor/opusTCv20210807-sepvoc_transformer-big_2022-09-15.zip	transformer-big	cmn,cmn_Hans,cmn_Hant,lzh,lzh_Hans,nan,wuu,yue_Hans,yue_Hant	kor	
 zho-msa/opus-2020-06-17.zip	transformer-align	cmn,hak,yue	ind,zsm	>>ind<<,>>zsm_Latn<<
 zho-msa/opus-2020-06-17.zip	transformer-align	cmn,hak,yue	ind,zsm	>>ind<<,>>zsm_Latn<<
 zho-nld/opus-2020-06-17.zip	transformer-align	cmn	nld	
 zho-nld/opus-2020-06-17.zip	transformer-align	cmn	nld	
 zho-rus/opus-2021-05-16.zip	transformer-align	cmn,lzh,nan,yue	rus	
 zho-rus/opus-2021-05-16.zip	transformer-align	cmn,lzh,nan,yue	rus	
+zho-sla/opusTCv20210807_transformer-big_2022-09-14.zip	transformer-big	cmn,cmn_Hans,cmn_Hant,lzh,lzh_Hans,nan,wuu,yue_Hans,yue_Hant	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	
+zho-sla/opusTCv20210807_transformer-big_2022-09-14.zip	transformer-big	cmn,cmn_Hans,cmn_Hant,lzh,lzh_Hans,nan,wuu,yue_Hans,yue_Hant	bel,bel_Latn,bos_Cyrl,bos_Latn,bul,ces,hbs,hbs_Cyrl,hrv,pol,rus,slv,srp_Cyrl,srp_Latn,ukr	
 zho-swe/opus-2020-06-17.zip	transformer-align	cmn	swe	
 zho-swe/opus-2020-06-17.zip	transformer-align	cmn	swe	
 zho-ukr/opus-2020-06-16.zip	transformer-align	cmn,yue	ukr	
@@ -2906,6 +2953,8 @@ zle-fra/opusTCv20210807_transformer-big_2022-03-23.zip	transformer-big	bel,bel_L
 zle-fra/opusTCv20210807_transformer-big_2022-06-24.zip	transformer-big	bel,bel_Latn,orv_Cyrl,rus,ukr	fra	
 zle-gmq/opusTCv20210807+pft_transformer-big_2022-03-14.zip	transformer-big	bel,bel_Latn,rus,ukr	dan,isl,nno,nob,swe	
 zle-gmq/opusTCv20210807+pft_transformer-big_2022-03-14.zip	transformer-big	bel,bel_Latn,rus,ukr	dan,isl,nno,nob,swe	
+zle-gmq/opusTCv20210807+xb+bt+pft_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,rus,ukr	dan,isl,nno,nob,swe	
+zle-gmq/opusTCv20210807+xb+bt+pft_transformer-big_2022-09-15.zip	transformer-big	bel,bel_Latn,rus,ukr	dan,isl,nno,nob,swe	
 zle-gmw/opus1m-2021-02-18.zip	transformer	bel,orv,rue,rus,ukr	afr,ang,deu,eng,enm,fry,gos,ltz,nds,nld,yid	>>afr<<,>>ang_Latn<<,>>deu<<,>>eng<<,>>enm_Latn<<,>>fry<<,>>gos<<,>>ltz<<,>>nds<<,>>nld<<,>>yid<<
 zle-gmw/opus1m-2021-02-18.zip	transformer	bel,orv,rue,rus,ukr	afr,ang,deu,eng,enm,fry,gos,ltz,nds,nld,yid	>>afr<<,>>ang_Latn<<,>>deu<<,>>eng<<,>>enm_Latn<<,>>fry<<,>>gos<<,>>ltz<<,>>nds<<,>>nld<<,>>yid<<
 zle-gmw/opus-tuned4bel2deu-2021-01-15.zip	transformer	bel,orv,rue,rus,ukr	afr,ang,deu,eng,enm,frr,fry,gos,gsw,ksh,lim,ltz,nds,nld,ofs,osx,pdc,pfl,sco,stq,swg,wae,yid,zea	>>afr<<,>>ang<<,>>deu<<,>>eng<<,>>enm<<,>>frr<<,>>fry<<,>>gos<<,>>gsw<<,>>ksh<<,>>lim<<,>>ltz<<,>>nds<<,>>nld<<,>>ofs<<,>>osx<<,>>pdc<<,>>pfl<<,>>sco<<,>>stq<<,>>swg<<,>>wae<<,>>yid<<,>>zea<<
@@ -3025,6 +3074,8 @@ zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	transformer-big	ces,ds
 zlw-zle/opusTCv20210807+bt_transformer-big_2022-03-23.zip	transformer-big	ces,dsb,hsb,pol	bel,bel_Latn,orv_Cyrl,rus,ukr	
 zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	transformer-big	ces,dsb,hsb,pol,slk	bel,bel_Latn,orv_Cyrl,rus,ukr	
 zlw-zle/opusTCv20210807+xb+bt_transformer-big_2022-05-08.zip	transformer-big	ces,dsb,hsb,pol,slk	bel,bel_Latn,orv_Cyrl,rus,ukr	
+zlw-zls/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	ces,dsb,hsb,pol	bos_Cyrl,bos_Latn,bul,hbs,hbs_Cyrl,hrv,mkd,slv,srp_Cyrl,srp_Latn	
+zlw-zls/opusTCv20210807_transformer-big_2022-09-15.zip	transformer-big	ces,dsb,hsb,pol	bos_Cyrl,bos_Latn,bul,hbs,hbs_Cyrl,hrv,mkd,slv,srp_Cyrl,srp_Latn	
 zlw-zlw/opus-2020-07-27.zip	transformer	ces,dsb,hsb,pol	ces,dsb,hsb,pol	>>ces<<,>>dsb<<,>>hsb<<,>>pol<<
 zlw-zlw/opus-2020-07-27.zip	transformer	ces,dsb,hsb,pol	ces,dsb,hsb,pol	>>ces<<,>>dsb<<,>>hsb<<,>>pol<<
 zlw-zlw/opus-2020-10-04.zip	transformer	ces,csb,dsb,eng,hsb,pol	ces,csb,dsb,eng,hsb,pol	>>ces<<,>>csb<<,>>csb_Latn<<,>>dsb<<,>>eng<<,>>hsb<<,>>pol<<

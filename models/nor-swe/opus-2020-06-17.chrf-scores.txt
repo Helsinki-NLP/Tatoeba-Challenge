@@ -2,8 +2,8 @@ nob-swe	europeana2021	0.599
 nob-swe	flores101-dev	0.512
 nob-swe	flores101-devtest	0.511
 nob-swe	tatoeba-test-v2020-07-28	0.774
-nor-swe	tatoeba-test-v2020-07-28	0.774
 nob-swe	tatoeba-test-v2021-03-30	0.766
-nor-swe	tatoeba-test-v2021-03-30	0.761
 nob-swe	tatoeba-test-v2021-08-07	0.770
+nor-swe	tatoeba-test-v2020-07-28	0.774
+nor-swe	tatoeba-test-v2021-03-30	0.761
 nor-swe	tatoeba-test-v2021-08-07	0.765

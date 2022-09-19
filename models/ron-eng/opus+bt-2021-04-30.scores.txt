@@ -1,5 +1,7 @@
 ron-eng	flores101-dev	0.673	41.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ron-eng/opus+bt-2021-04-30.zip	997	23555
 ron-eng	flores101-devtest	0.672	41.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ron-eng/opus+bt-2021-04-30.zip	1012	24721
+ron-eng	flores200-dev	0.67261	41.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ron-eng/opus+bt-2021-04-30.zip	997	23555
+ron-eng	flores200-devtest	0.67192	41.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ron-eng/opus+bt-2021-04-30.zip	1012	24721
 ron-eng	newsdev2016	0.667	42.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ron-eng/opus+bt-2021-04-30.zip	1999	49526
 ron-eng	newstest2016	0.641	40.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ron-eng/opus+bt-2021-04-30.zip	1999	47562
 ron-eng	tatoeba-test-v2020-07-28	0.737	59.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ron-eng/opus+bt-2021-04-30.zip	5000	37125

@@ -79,6 +79,7 @@ For multilingual models, it is a mix of all language pairs
 | [ara-rus/opus](../models/ara-rus) | 0.606 | 42.3 |
 | [ara-rus/opus](../models/ara-rus) | 0.605 | 42.5 |
 | [ara-rus/opus](../models/ara-rus) | 0.598 | 41.4 |
+| [ara-sla/opusTCv20210807_transformer-big](../models/ara-sla) | 0.42698 | 21.9 |
 | [ara-spa/opus](../models/ara-spa) | 0.650 | 47.0 |
 | [ara-spa/opus](../models/ara-spa) | 0.641 | 46.0 |
 | [ara-tur/opus](../models/ara-tur) | 0.622 | 33.8 |
@@ -800,6 +801,7 @@ For multilingual models, it is a mix of all language pairs
 | [fin-por/opusTCv20210807_transformer-big](../models/fin-por) | 0.69269 | 49.1 |
 | [fin-rus/opus+bt](../models/fin-rus) | 0.645 | 42.8 |
 | [fin-sem/opus4m+btTCv20210807](../models/fin-sem) | 0.579 | 34.8 |
+| [fin-sla/opusTCv20210807_transformer-big](../models/fin-sla) | 0.66556 | 47.2 |
 | [fin-spa/opusTCv20210807_transformer-big](../models/fin-spa) | 0.70029 | 52.9 |
 | [fin-swe/opus](../models/fin-swe) | 0.701 | 54.5 |
 | [fin-swe/opusTCv20210807+bt](../models/fin-swe) | 0.7185 | 56.0 |
@@ -875,6 +877,7 @@ For multilingual models, it is a mix of all language pairs
 | [fra-nor/opus](../models/fra-nor) | 0.703 | 53.7 |
 | [fra-nor/opus](../models/fra-nor) | 0.555 | 36.1 |
 | [fra-por/opus](../models/fra-por) | 0.650 | 43.7 |
+| [fra-sla/opusTCv20210807_transformer-big](../models/fra-sla) | 0.62157 | 41.0 |
 | [fra-swe/opus](../models/fra-swe) | 0.746 | 60.9 |
 | [fra-tat/opus](../models/fra-tat) | 0.250 | 6.4 |
 | [fra-tgl/opus](../models/fra-tgl) | 0.536 | 24.1 |
@@ -930,12 +933,14 @@ For multilingual models, it is a mix of all language pairs
 | [gmq-gmq/opusTCv20210807_transformer-big](../models/gmq-gmq) | 0.84085 | 73.3 |
 | [gmq-heb/opusTCv20210807_transformer-big](../models/gmq-heb) | 0.69942 | 46.9 |
 | [gmq-itc/opusTCv20210807_transformer-big](../models/gmq-itc) | 0.71804 | 55.0 |
+| [gmq-sla/opusTCv20210807_transformer-big](../models/gmq-sla) | 0.41666 | 20.5 |
 | [gmq-tur/opusTCv20210807_transformer-big](../models/gmq-tur) | 0.66597 | 40.2 |
 | [gmq-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align](../models/gmq-ukr) | 0.65868 | 43.0 |
 | [gmq-zho/opusTCv20210807_transformer-big](../models/gmq-zho) | 0.27858 | 33.1 |
 | [gmq-zle/opusTCv20210807+pbt_transformer-big](../models/gmq-zle) | 0.67644 | 47.4 |
 | [gmq-zle/opusTCv20210807+pbt_transformer-big](../models/gmq-zle) | 0.67550 | 47.1 |
 | [gmq-zle/opusTCv20210807+pbt_transformer-big](../models/gmq-zle) | 0.67414 | 46.8 |
+| [gmq-zle/opusTCv20210807+xb+bt+pbt_transformer-big](../models/gmq-zle) | 0.68059 | 47.8 |
 | [gmq-zlw/opusTCv20210807_transformer-big](../models/gmq-zlw) | 0.65437 | 44.7 |
 | [gmw-deu/opus1m](../models/gmw-deu) | 0.610 | 40.1 |
 | [gmw-eng/opus](../models/gmw-eng) | 0.637 | 47.5 |
@@ -983,6 +988,7 @@ For multilingual models, it is a mix of all language pairs
 | [heb-ita/opus](../models/heb-ita) | 0.643 | 41.1 |
 | [heb-itc/opusTCv20210807_transformer-big](../models/heb-itc) | 0.64107 | 45.5 |
 | [heb-rus/opus](../models/heb-rus) | 0.599 | 40.5 |
+| [heb-sla/opusTCv20210807_transformer-big](../models/heb-sla) | 0.62078 | 41.6 |
 | [heb-spa/opus](../models/heb-spa) | 0.689 | 51.3 |
 | [heb-ukr/opus](../models/heb-ukr) | 0.552 | 35.4 |
 | [heb-zho/opus](../models/heb-zho) | 0.472 | 28.4 |
@@ -1111,6 +1117,7 @@ For multilingual models, it is a mix of all language pairs
 | [jpn-hun/opus](../models/jpn-hun) | 0.401 | 15.2 |
 | [jpn-hun/opus](../models/jpn-hun) | 0.364 | 12.2 |
 | [jpn-ita/opus](../models/jpn-ita) | 0.460 | 22.8 |
+| [jpn-kor/opusTCv20210807-sepvoc_transformer-big](../models/jpn-kor) | 0.34708 | 15.2 |
 | [jpn-msa/opus](../models/jpn-msa) | 0.469 | 21.5 |
 | [jpn-msa/opus](../models/jpn-msa) | 0.464 | 20.6 |
 | [jpn-nld/opus](../models/jpn-nld) | 0.534 | 34.7 |
@@ -1123,6 +1130,7 @@ For multilingual models, it is a mix of all language pairs
 | [jpn-swe/opus](../models/jpn-swe) | 0.416 | 22.6 |
 | [jpn-tur/opus](../models/jpn-tur) | 0.434 | 16.7 |
 | [jpn-vie/opus](../models/jpn-vie) | 0.380 | 20.3 |
+| [jpn-zho/opusTCv20210807_transformer-big](../models/jpn-zho) | 0.12290 | 12.1 |
 | [jpx-jpx/opus](../models/jpx-jpx) | 0.386 | 19.6 |
 | [kat-eng/opus](../models/kat-eng) | 0.538 | 37.9 |
 | [kat-rus/opus](../models/kat-rus) | 0.604 | 38.2 |
@@ -1280,6 +1288,7 @@ For multilingual models, it is a mix of all language pairs
 | [por-fin/opusTCv20210807_transformer-big](../models/por-fin) | 0.79197 | 64.4 |
 | [por-glg/opus](../models/por-glg) | 0.740 | 56.2 |
 | [por-glg/opus](../models/por-glg) | 0.737 | 55.8 |
+| [por-sla/opusTCv20210807_transformer-big](../models/por-sla) | 0.66384 | 45.4 |
 | [por-tgl/opus](../models/por-tgl) | 0.565 | 28.4 |
 | [por-tgl/opus](../models/por-tgl) | 0.555 | 26.1 |
 | [por-ukr/opus](../models/por-ukr) | 0.624 | 41.2 |
@@ -1371,15 +1380,27 @@ For multilingual models, it is a mix of all language pairs
 | [sit-fiu/opus](../models/sit-fiu) | 0.313 | 15.0 |
 | [sit-sit/opus](../models/sit-sit) | 0.428 | 28.4 |
 | [sit-sit/opus](../models/sit-sit) | 0.400 | 26.3 |
+| [sla-deu/opusTCv20210807_transformer-big](../models/sla-deu) | 0.69714 | 52.5 |
 | [sla-eng/opus](../models/sla-eng) | 0.680 | 52.8 |
 | [sla-eng/opus](../models/sla-eng) | 0.671 | 52.0 |
 | [sla-eng/opus4m](../models/sla-eng) | 0.683 | 53.2 |
+| [sla-fin/opusTCv20210807_transformer-big](../models/sla-fin) | 0.67261 | 44.5 |
 | [sla-fiu/opus](../models/sla-fiu) | 0.527 | 32.0 |
+| [sla-fra/opusTCv20210807_transformer-big](../models/sla-fra) | 0.68104 | 52.1 |
+| [sla-gmq/opusTCv20210807_transformer-big](../models/sla-gmq) | 0.68346 | 51.1 |
+| [sla-heb/opusTCv20210807_transformer-big](../models/sla-heb) | 0.59285 | 39.1 |
+| [sla-itc/opusTCv20210807_transformer-big](../models/sla-itc) | 0.65914 | 47.4 |
+| [sla-kor/opusTCv20210807-sepvoc_transformer-big](../models/sla-kor) | 0.32889 | 14.0 |
+| [sla-por/opusTCv20210807_transformer-big](../models/sla-por) | 0.63921 | 43.4 |
 | [sla-sla/opus](../models/sla-sla) | 0.672 | 48.5 |
 | [sla-sla/opus](../models/sla-sla) | 0.671 | 48.5 |
 | [sla-sla/opus](../models/sla-sla) | 0.618 | 44.1 |
 | [sla-sla/opus](../models/sla-sla) | 0.617 | 43.8 |
 | [sla-sla/opus](../models/sla-sla) | 0.614 | 43.7 |
+| [sla-sla/opusTCv20210807_transformer-big](../models/sla-sla) | 0.71834 | 55.3 |
+| [sla-sla/opusTCv20210807_transformer-big](../models/sla-sla) | 0.71108 | 54.2 |
+| [sla-spa/opusTCv20210807_transformer-big](../models/sla-spa) | 0.68551 | 50.8 |
+| [sla-zho/opusTCv20210807_transformer-big](../models/sla-zho) | 0.21794 | 24.7 |
 | [slv-eng/opus](../models/slv-eng) | 0.382 | 24.6 |
 | [slv-rus/opus](../models/slv-rus) | 0.504 | 37.3 |
 | [slv-ukr/opus](../models/slv-ukr) | 0.236 | 10.6 |
@@ -1413,6 +1434,7 @@ For multilingual models, it is a mix of all language pairs
 | [spa-nor/opus](../models/spa-nor) | 0.722 | 56.7 |
 | [spa-nor/opus](../models/spa-nor) | 0.565 | 36.7 |
 | [spa-run/opus](../models/spa-run) | 0.410 | 10.1 |
+| [spa-sla/opusTCv20210807_transformer-big](../models/spa-sla) | 0.63335 | 42.4 |
 | [spa-tat/opus](../models/spa-tat) | 0.163 | 2.7 |
 | [spa-tgl/opus](../models/spa-tgl) | 0.538 | 24.7 |
 | [spa-tgl/opus](../models/spa-tgl) | 0.486 | 13.7 |
@@ -1627,9 +1649,11 @@ For multilingual models, it is a mix of all language pairs
 | [zho-jpn/opusTCv20210807-sepvoc_transformer-big](../models/zho-jpn) | 0.29117 | 26.3 |
 | [zho-jpn/opusTCv20210807_transformer-big](../models/zho-jpn) | 0.12984 | 14.3 |
 | [zho-kor/opus](../models/zho-kor) | 0.115 | 1.1 |
+| [zho-kor/opusTCv20210807-sepvoc_transformer-big](../models/zho-kor) | 0.23478 | 7.5 |
 | [zho-msa/opus](../models/zho-msa) | 0.390 | 13.9 |
 | [zho-nld/opus](../models/zho-nld) | 0.525 | 31.5 |
 | [zho-rus/opus](../models/zho-rus) | 0.356 | 16.2 |
+| [zho-sla/opusTCv20210807_transformer-big](../models/zho-sla) | 0.35028 | 15.7 |
 | [zho-swe/opus](../models/zho-swe) | 0.621 | 46.1 |
 | [zho-ukr/opus](../models/zho-ukr) | 0.277 | 10.3 |
 | [zho-ukr/opus](../models/zho-ukr) | 0.259 | 10.4 |
@@ -1655,6 +1679,7 @@ For multilingual models, it is a mix of all language pairs
 | [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | 0.68244 | 52.1 |
 | [zle-fra/opusTCv20210807_transformer-big](../models/zle-fra) | 0.67309 | 50.8 |
 | [zle-gmq/opusTCv20210807+pft_transformer-big](../models/zle-gmq) | 0.69357 | 52.6 |
+| [zle-gmq/opusTCv20210807+xb+bt+pft_transformer-big](../models/zle-gmq) | 0.69303 | 52.6 |
 | [zle-gmw/opus1m](../models/zle-gmw) | 0.655 | 48.9 |
 | [zle-gmw/opus-tuned4bel2deu](../models/zle-gmw) | 0.636 | 46.9 |
 | [zle-gmw/opus-tuned4bel2eng](../models/zle-gmw) | 0.550 | 38.9 |
@@ -1727,6 +1752,7 @@ For multilingual models, it is a mix of all language pairs
 | [zlw-zle/opusTCv20210807+bt_transformer-big](../models/zlw-zle) | 0.71039 | 53.3 |
 | [zlw-zle/opusTCv20210807+bt_transformer-big](../models/zlw-zle) | 0.70695 | 52.8 |
 | [zlw-zle/opusTCv20210807+xb+bt_transformer-big](../models/zlw-zle) | 0.71063 | 53.5 |
+| [zlw-zls/opusTCv20210807_transformer-big](../models/zlw-zls) | 0.38094 | 21.9 |
 | [zlw-zlw/opus](../models/zlw-zlw) | 0.633 | 45.2 |
 | [zlw-zlw/opus](../models/zlw-zlw) | 0.592 | 40.2 |
 | [zlw-zlw/opus](../models/zlw-zlw) | 0.580 | 38.8 |

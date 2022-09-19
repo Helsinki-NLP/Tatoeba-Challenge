@@ -1,0 +1,189 @@
+release: sla-spa/opusTCv20210807_transformer-big_2022-09-15.zip
+release-date: 2022-09-15
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bel
+   - bel_Latn
+   - bos_Cyrl
+   - bos_Latn
+   - bul
+   - ces
+   - csb
+   - csb_Latn
+   - dsb
+   - hbs
+   - hbs_Cyrl
+   - hrv
+   - hsb
+   - mkd
+   - orv_Cyrl
+   - pol
+   - rue
+   - rus
+   - slv
+   - srp_Cyrl
+   - srp_Latn
+   - ukr
+target-languages:
+   - spa
+raw-source-languages:
+   - bel
+   - bos
+   - bul
+   - ces
+   - csb
+   - dsb
+   - hbs
+   - hrv
+   - hsb
+   - mkd
+   - orv
+   - pol
+   - rue
+   - rus
+   - slv
+   - srp
+   - ukr
+raw-target-languages:
+   - spa
+training-data:
+   bel-spa: Tatoeba-train-v2021-08-07.bel-spa.strict (796831) 
+   bel_Latn-spa: Tatoeba-train-v2021-08-07.bel_Latn-spa.strict (1858) 
+   bos_Cyrl-spa: Tatoeba-train-v2021-08-07.bos_Cyrl-spa.strict (621) 
+   bos_Latn-spa: Tatoeba-train-v2021-08-07.bos_Latn-spa.strict (11346127) 
+   bul-spa: Tatoeba-train-v2021-08-07.bul-spa.strict (49170418) 
+   ces-spa: Tatoeba-train-v2021-08-07.ces-spa.strict (88877587) 
+   csb-spa: Tatoeba-train-v2021-08-07.csb-spa.strict (2) 
+   csb_Latn-spa: Tatoeba-train-v2021-08-07.csb_Latn-spa.strict (18468) 
+   dsb-spa: Tatoeba-train-v2021-08-07.dsb-spa.strict (25177) 
+   hbs-spa: Tatoeba-train-v2021-08-07.hbs-spa.strict (12925) 
+   hbs_Cyrl-spa: Tatoeba-train-v2021-08-07.hbs_Cyrl-spa.strict (301) 
+   hrv-spa: Tatoeba-train-v2021-08-07.hrv-spa.strict (33106689) 
+   hsb-spa: Tatoeba-train-v2021-08-07.hsb-spa.strict (34650) 
+   mkd-spa: Tatoeba-train-v2021-08-07.mkd-spa.strict (9003580) 
+   pol-spa: Tatoeba-train-v2021-08-07.pol-spa.strict (104037400) 
+   rus-spa: Tatoeba-train-v2021-08-07.rus-spa.strict (114085061) 
+   slv-spa: Tatoeba-train-v2021-08-07.slv-spa.strict (41557025) 
+   srp_Cyrl-spa: Tatoeba-train-v2021-08-07.spa-srp_Cyrl.strict (9105811) 
+   srp_Latn-spa: Tatoeba-train-v2021-08-07.spa-srp_Latn.strict (34727886) 
+   ukr-spa: Tatoeba-train-v2021-08-07.spa-ukr.strict (12452070) 
+validation-data:
+   bel-spa: Tatoeba-dev-v2021-08-07, 950
+   bel_Latn-spa: Tatoeba-dev-v2021-08-07, 4
+   bos_Latn-spa: Tatoeba-dev-v2021-08-07, 105
+   bul-spa: Tatoeba-dev-v2021-08-07, 933
+   ces-spa: Tatoeba-dev-v2021-08-07, 132
+   csb_Latn-spa: Tatoeba-dev-v2021-08-07, 1000
+   dsb-spa: Tatoeba-dev-v2021-08-07, 1000
+   hrv-spa: Tatoeba-dev-v2021-08-07, 357
+   hsb-spa: Tatoeba-dev-v2021-08-07, 1000
+   mkd-spa: Tatoeba-dev-v2021-08-07, 962
+   pol-spa: Tatoeba-dev-v2021-08-07, 5003
+   rus-spa: Tatoeba-dev-v2021-08-07, 85889
+   slv-spa: Tatoeba-dev-v2021-08-07, 947
+   spa-srp_Cyrl: Tatoeba-dev-v2021-08-07, 106
+   spa-srp_Latn: Tatoeba-dev-v2021-08-07, 347
+   spa-ukr: Tatoeba-dev-v2021-08-07, 12808
+   total-size-shuffled: 10645
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newssyscomb2009.ces-spa: 502/12506
+   news-test2008.ces-spa: 2051/52596
+   newstest2009.ces-spa: 2525/68114
+   newstest2010.ces-spa: 2489/65522
+   newstest2011.ces-spa: 3003/79476
+   newstest2012.ces-spa: 3003/79006
+   newstest2012.rus-spa: 3003/79006
+   newstest2013.ces-spa: 3000/70528
+   newstest2013.rus-spa: 3000/70528
+   Tatoeba-test-v2021-08-07.bel_Latn-spa: 1/9
+   Tatoeba-test-v2021-08-07.bel-spa: 205/1412
+   Tatoeba-test-v2021-08-07.bos_Latn-spa: 37/170
+   Tatoeba-test-v2021-08-07.bul-spa: 286/1783
+   Tatoeba-test-v2021-08-07.ces-spa: 1807/12716
+   Tatoeba-test-v2021-08-07.csb-spa: 3/19
+   Tatoeba-test-v2021-08-07.dsb-spa: 21/113
+   Tatoeba-test-v2021-08-07.hbs-spa: 607/3766
+   Tatoeba-test-v2021-08-07.hrv-spa: 254/1702
+   Tatoeba-test-v2021-08-07.hsb-spa: 25/121
+   Tatoeba-test-v2021-08-07.mkd-spa: 217/1121
+   Tatoeba-test-v2021-08-07.multi-spa: 10000/66011
+   Tatoeba-test-v2021-08-07.orv-spa: 33/171
+   Tatoeba-test-v2021-08-07.pol-spa: 2544/18113
+   Tatoeba-test-v2021-08-07.rue-spa: 97/469
+   Tatoeba-test-v2021-08-07.rus-spa: 10506/75241
+   Tatoeba-test-v2021-08-07.slv-spa: 130/720
+   Tatoeba-test-v2021-08-07.srp_Cyrl-spa: 136/852
+   Tatoeba-test-v2021-08-07.srp_Latn-spa: 180/1042
+   Tatoeba-test-v2021-08-07.ukr-spa: 10115/59282
+BLEU-scores:
+   newssyscomb2009.ces-spa: 28.6
+   news-test2008.ces-spa: 26.2
+   newstest2009.ces-spa: 26.5
+   newstest2010.ces-spa: 30.9
+   newstest2011.ces-spa: 31.0
+   newstest2012.ces-spa: 30.0
+   newstest2012.rus-spa: 28.0
+   newstest2013.ces-spa: 31.1
+   newstest2013.rus-spa: 30.6
+   Tatoeba-test-v2021-08-07.bel_Latn-spa: 7.0
+   Tatoeba-test-v2021-08-07.bel-spa: 47.1
+   Tatoeba-test-v2021-08-07.bos_Latn-spa: 59.0
+   Tatoeba-test-v2021-08-07.bul-spa: 50.5
+   Tatoeba-test-v2021-08-07.ces-spa: 54.0
+   Tatoeba-test-v2021-08-07.csb-spa: 18.7
+   Tatoeba-test-v2021-08-07.dsb-spa: 31.3
+   Tatoeba-test-v2021-08-07.hbs-spa: 56.0
+   Tatoeba-test-v2021-08-07.hrv-spa: 56.1
+   Tatoeba-test-v2021-08-07.hsb-spa: 43.0
+   Tatoeba-test-v2021-08-07.mkd-spa: 61.1
+   Tatoeba-test-v2021-08-07.multi-spa: 50.8
+   Tatoeba-test-v2021-08-07.orv-spa: 20.2
+   Tatoeba-test-v2021-08-07.pol-spa: 48.0
+   Tatoeba-test-v2021-08-07.rue-spa: 43.0
+   Tatoeba-test-v2021-08-07.rus-spa: 50.6
+   Tatoeba-test-v2021-08-07.slv-spa: 49.2
+   Tatoeba-test-v2021-08-07.srp_Cyrl-spa: 57.2
+   Tatoeba-test-v2021-08-07.srp_Latn-spa: 54.1
+   Tatoeba-test-v2021-08-07.ukr-spa: 51.7
+chr-F-scores:
+   newssyscomb2009.ces-spa: 0.55929
+   news-test2008.ces-spa: 0.53986
+   newstest2009.ces-spa: 0.54471
+   newstest2010.ces-spa: 0.57412
+   newstest2011.ces-spa: 0.56527
+   newstest2012.ces-spa: 0.56170
+   newstest2012.rus-spa: 0.53999
+   newstest2013.ces-spa: 0.56611
+   newstest2013.rus-spa: 0.55494
+   Tatoeba-test-v2021-08-07.bel_Latn-spa: 0.39934
+   Tatoeba-test-v2021-08-07.bel-spa: 0.66322
+   Tatoeba-test-v2021-08-07.bos_Latn-spa: 0.72132
+   Tatoeba-test-v2021-08-07.bul-spa: 0.67542
+   Tatoeba-test-v2021-08-07.ces-spa: 0.70980
+   Tatoeba-test-v2021-08-07.csb-spa: 0.37765
+   Tatoeba-test-v2021-08-07.dsb-spa: 0.55251
+   Tatoeba-test-v2021-08-07.hbs-spa: 0.72323
+   Tatoeba-test-v2021-08-07.hrv-spa: 0.71113
+   Tatoeba-test-v2021-08-07.hsb-spa: 0.62054
+   Tatoeba-test-v2021-08-07.mkd-spa: 0.74205
+   Tatoeba-test-v2021-08-07.multi-spa: 0.68551
+   Tatoeba-test-v2021-08-07.orv-spa: 0.38787
+   Tatoeba-test-v2021-08-07.pol-spa: 0.66130
+   Tatoeba-test-v2021-08-07.rue-spa: 0.54136
+   Tatoeba-test-v2021-08-07.rus-spa: 0.68514
+   Tatoeba-test-v2021-08-07.slv-spa: 0.65597
+   Tatoeba-test-v2021-08-07.srp_Cyrl-spa: 0.74377
+   Tatoeba-test-v2021-08-07.srp_Latn-spa: 0.72602
+   Tatoeba-test-v2021-08-07.ukr-spa: 0.68969

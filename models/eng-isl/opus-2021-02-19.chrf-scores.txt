@@ -1,7 +1,7 @@
 eng-isl	flores101-dev	0.464
 eng-isl	flores101-devtest	0.456
-eng-isl	newsdev2021.en-is	0.437
-eng-isl	newstest2021.en-is	0.430
+eng-isl	newsdev2021	0.437
+eng-isl	newstest2021	0.430
 eng-isl	tatoeba-test-v2020-07-28	0.514
 eng-isl	tatoeba-test-v2021-03-30	0.514
 eng-isl	tatoeba-test-v2021-08-07	0.514

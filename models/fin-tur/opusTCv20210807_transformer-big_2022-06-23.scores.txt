@@ -1,3 +1,5 @@
 fin-tur	flores101-dev	0.50487	16.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-tur/opusTCv20210807_transformer-big_2022-06-23.zip	997	19181
 fin-tur	flores101-devtest	0.50955	17.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-tur/opusTCv20210807_transformer-big_2022-06-23.zip	1012	20253
+fin-tur	flores200-dev	0.50487	16.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-tur/opusTCv20210807_transformer-big_2022-06-23.zip	997	19181
+fin-tur	flores200-devtest	0.50955	17.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-tur/opusTCv20210807_transformer-big_2022-06-23.zip	1012	20253
 fin-tur	tatoeba-test-v2021-08-07	0.61735	32.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-tur/opusTCv20210807_transformer-big_2022-06-23.zip	1796	10072

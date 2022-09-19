@@ -1,3 +1,5 @@
+eus-eng	flores200-dev	0.43696	14.7	https://object.pouta.csc.fi/Tatoeba-MT-models/euq-eng/opus1m+bt-2021-05-01.zip	997	23555
+eus-eng	flores200-devtest	0.42843	14.2	https://object.pouta.csc.fi/Tatoeba-MT-models/euq-eng/opus1m+bt-2021-05-01.zip	1012	24721
 eus-eng	tatoeba-test-v2020-07-28	0.601	41.6	https://object.pouta.csc.fi/Tatoeba-MT-models/euq-eng/opus1m+bt-2021-05-01.zip	1060	8157
 eus-eng	tatoeba-test-v2021-03-30	0.601	41.6	https://object.pouta.csc.fi/Tatoeba-MT-models/euq-eng/opus1m+bt-2021-05-01.zip	1060	8157
 eus-eng	tatoeba-test-v2021-08-07	0.601	41.6	https://object.pouta.csc.fi/Tatoeba-MT-models/euq-eng/opus1m+bt-2021-05-01.zip	1060	8157

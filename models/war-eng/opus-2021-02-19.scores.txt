@@ -1,3 +1,5 @@
+war-eng	flores200-dev	0.49670	22.3	https://object.pouta.csc.fi/Tatoeba-MT-models/war-eng/opus-2021-02-19.zip	997	23555
+war-eng	flores200-devtest	0.49265	21.7	https://object.pouta.csc.fi/Tatoeba-MT-models/war-eng/opus-2021-02-19.zip	1012	24721
 war-eng	tatoeba-test-v2020-07-28	0.309	12.1	https://object.pouta.csc.fi/Tatoeba-MT-models/war-eng/opus-2021-02-19.zip	1512	11345
 war-eng	tatoeba-test-v2021-03-30	0.309	12.1	https://object.pouta.csc.fi/Tatoeba-MT-models/war-eng/opus-2021-02-19.zip	1512	11345
 war-eng	tatoeba-test-v2021-08-07	0.309	12.1	https://object.pouta.csc.fi/Tatoeba-MT-models/war-eng/opus-2021-02-19.zip	1512	11345

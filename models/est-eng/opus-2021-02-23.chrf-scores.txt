@@ -1,7 +1,9 @@
 est-eng	flores101-dev	0.613
 est-eng	flores101-devtest	0.605
-est-eng	newsdev2018	0.572
-est-eng	newstest2018	0.578
+est-eng	flores200-dev	0.61253
+est-eng	flores200-devtest	0.60550
+est-eng	newsdev2018	0.57156
+est-eng	newstest2018	0.57778
 est-eng	tatoeba-test-v2020-07-28	0.729
 est-eng	tatoeba-test-v2021-03-30	0.729
 est-eng	tatoeba-test-v2021-08-07	0.729

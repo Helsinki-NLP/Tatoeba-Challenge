@@ -1,3 +1,5 @@
+run-eng	flores200-dev	17.8
+run-eng	flores200-devtest	18.0
 run-eng	tatoeba-test-v2020-07-28	36.9
 run-eng	tatoeba-test-v2021-03-30	36.9
 run-eng	tatoeba-test-v2021-08-07	36.9

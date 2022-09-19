@@ -3,7 +3,7 @@ zho-eng	newstest2017	0.442
 zho-eng	newstest2018	0.440
 zho-eng	newstest2019	0.490
 zho-eng	newstest2020	0.486
-zho-eng	newstest2021.zh-en	0.452
+zho-eng	newstest2021	0.452
 zho-eng	newstestB2020	0.456
 zho-eng	tatoeba-test-v2020-07-28	0.530
 zho-eng	tatoeba-test-v2021-03-30	0.529

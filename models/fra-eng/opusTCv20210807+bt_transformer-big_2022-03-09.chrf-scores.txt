@@ -1,5 +1,7 @@
 fra-eng	flores101-dev	0.69835
 fra-eng	flores101-devtest	0.69350
+fra-eng	flores200-dev	0.69835
+fra-eng	flores200-devtest	0.69350
 fra-eng	multi30k_test_2016_flickr	0.68005
 fra-eng	multi30k_test_2017_flickr	0.70596
 fra-eng	multi30k_test_2017_mscoco	0.69356

@@ -1,2 +1,4 @@
 fin-ara	flores101-dev	0.429	12.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-ara/opus+bt-2021-05-15.zip	997	20512
 fin-ara	flores101-devtest	0.429	12.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-ara/opus+bt-2021-05-15.zip	1012	21357
+fin-ara	flores200-dev	0.43159	12.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-ara/opus+bt-2021-05-15.zip	997	20489
+fin-ara	flores200-devtest	0.43136	11.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-ara/opus+bt-2021-05-15.zip	1012	21352

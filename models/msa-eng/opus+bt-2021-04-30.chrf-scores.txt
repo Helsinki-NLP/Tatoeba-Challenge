@@ -1,12 +1,12 @@
 ind-eng	flores101-dev	0.653
-msa-eng	flores101-dev	0.630
 ind-eng	flores101-devtest	0.648
-msa-eng	flores101-devtest	0.620
 ind-eng	tatoeba-test-v2020-07-28	0.652
-msa-eng	tatoeba-test-v2020-07-28	0.639
 ind-eng	tatoeba-test-v2021-03-30	0.652
-msa-eng	tatoeba-test-v2021-03-30	0.639
 ind-eng	tatoeba-test-v2021-08-07	0.652
-msa-eng	tatoeba-test-v2021-08-07	0.639
 ind-eng	tico19-test	0.686
+msa-eng	flores101-dev	0.630
+msa-eng	flores101-devtest	0.620
+msa-eng	tatoeba-test-v2020-07-28	0.639
+msa-eng	tatoeba-test-v2021-03-30	0.639
+msa-eng	tatoeba-test-v2021-08-07	0.639
 msa-eng	tico19-test	0.686

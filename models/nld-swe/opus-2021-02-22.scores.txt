@@ -1,2 +1,4 @@
 nld-swe	flores101-dev	0.531	22.9	https://object.pouta.csc.fi/Tatoeba-MT-models/nld-swe/opus-2021-02-22.zip	997	22417
 nld-swe	flores101-devtest	0.535	22.9	https://object.pouta.csc.fi/Tatoeba-MT-models/nld-swe/opus-2021-02-22.zip	1012	23121
+nld-swe	flores200-dev	0.53066	22.9	https://object.pouta.csc.fi/Tatoeba-MT-models/nld-swe/opus-2021-02-22.zip	997	22417
+nld-swe	flores200-devtest	0.53409	22.8	https://object.pouta.csc.fi/Tatoeba-MT-models/nld-swe/opus-2021-02-22.zip	1012	23121

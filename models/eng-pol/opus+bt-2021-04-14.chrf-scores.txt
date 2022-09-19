@@ -1,6 +1,8 @@
 eng-pol	flores101-dev	0.499
 eng-pol	flores101-devtest	0.507
-eng-pol	newsdev2020	0.556
+eng-pol	flores200-dev	0.50022
+eng-pol	flores200-devtest	0.50740
+eng-pol	newsdev2020	0.55602
 eng-pol	newstest2020	0.533
 eng-pol	tatoeba-test-v2020-07-28	0.667
 eng-pol	tatoeba-test-v2021-03-30	0.668

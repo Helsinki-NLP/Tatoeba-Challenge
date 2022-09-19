@@ -1,10 +1,10 @@
 ell-eng	flores101-dev	0.552
-eng-ell	flores101-dev	0.475
 ell-eng	flores101-devtest	0.548
-eng-ell	flores101-devtest	0.475
 ell-eng	tatoeba-test-v2020-07-28	0.766
-eng-ell	tatoeba-test-v2020-07-28	0.710
 ell-eng	tatoeba-test-v2021-03-30	0.754
-eng-ell	tatoeba-test-v2021-03-30	0.701
 ell-eng	tatoeba-test-v2021-08-07	0.746
+eng-ell	flores101-dev	0.475
+eng-ell	flores101-devtest	0.475
+eng-ell	tatoeba-test-v2020-07-28	0.710
+eng-ell	tatoeba-test-v2021-03-30	0.701
 eng-ell	tatoeba-test-v2021-08-07	0.697

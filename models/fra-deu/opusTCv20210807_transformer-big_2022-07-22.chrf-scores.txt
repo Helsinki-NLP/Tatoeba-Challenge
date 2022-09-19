@@ -14,7 +14,7 @@ fra-deu	newstest2012	0.53552
 fra-deu	newstest2013	0.55066
 fra-deu	newstest2019	0.62174
 fra-deu	newstest2020	0.62834
-fra-deu	newstest2021.fr-de	0.67321
+fra-deu	newstest2021	0.67321
 fra-deu	tatoeba-test-v2020-07-28	0.69671
 fra-deu	tatoeba-test-v2021-03-30	0.70031
 fra-deu	tatoeba-test-v2021-08-07	0.70281

@@ -1,1 +1,9 @@
+eus-fra	flores200-dev	0.49951	22.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eus-itc/opusTCv20210807_transformer-big_2022-07-23.zip	997	26706
+eus-fra	flores200-devtest	0.49845	21.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eus-itc/opusTCv20210807_transformer-big_2022-07-23.zip	1012	28343
+eus-ita	flores200-dev	0.48429	18.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eus-itc/opusTCv20210807_transformer-big_2022-07-23.zip	997	25840
+eus-ita	flores200-devtest	0.47948	17.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eus-itc/opusTCv20210807_transformer-big_2022-07-23.zip	1012	27306
+eus-por	flores200-dev	0.52626	24.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eus-itc/opusTCv20210807_transformer-big_2022-07-23.zip	997	25287
+eus-por	flores200-devtest	0.52233	24.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eus-itc/opusTCv20210807_transformer-big_2022-07-23.zip	1012	26519
+eus-spa	flores200-dev	0.47368	19.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eus-itc/opusTCv20210807_transformer-big_2022-07-23.zip	997	27793
+eus-spa	flores200-devtest	0.47802	19.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eus-itc/opusTCv20210807_transformer-big_2022-07-23.zip	1012	29199
 eus-spa	tatoeba-test-v2021-08-07	0.68019	50.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eus-itc/opusTCv20210807_transformer-big_2022-07-23.zip	1850	12469

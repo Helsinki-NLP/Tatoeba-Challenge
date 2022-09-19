@@ -1,3 +1,5 @@
+run-eng	flores200-dev	0.43163	17.8	https://object.pouta.csc.fi/Tatoeba-MT-models/run-eng/opus+bt-2021-04-30.zip	997	23555
+run-eng	flores200-devtest	0.43221	18.0	https://object.pouta.csc.fi/Tatoeba-MT-models/run-eng/opus+bt-2021-04-30.zip	1012	24721
 run-eng	tatoeba-test-v2020-07-28	0.526	36.9	https://object.pouta.csc.fi/Tatoeba-MT-models/run-eng/opus+bt-2021-04-30.zip	1703	10041
 run-eng	tatoeba-test-v2021-03-30	0.526	36.9	https://object.pouta.csc.fi/Tatoeba-MT-models/run-eng/opus+bt-2021-04-30.zip	1703	10041
 run-eng	tatoeba-test-v2021-08-07	0.525	36.9	https://object.pouta.csc.fi/Tatoeba-MT-models/run-eng/opus+bt-2021-04-30.zip	1703	10041

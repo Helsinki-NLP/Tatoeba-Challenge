@@ -1,3 +1,5 @@
+run-spa	flores200-dev	0.28533	5.7	https://object.pouta.csc.fi/Tatoeba-MT-models/run-spa/opus-2021-02-19.zip	997	27793
+run-spa	flores200-devtest	0.29184	5.7	https://object.pouta.csc.fi/Tatoeba-MT-models/run-spa/opus-2021-02-19.zip	1012	29199
 run-spa	tatoeba-test-v2020-07-28	0.377	14.6	https://object.pouta.csc.fi/Tatoeba-MT-models/run-spa/opus-2021-02-19.zip	963	5167
 run-spa	tatoeba-test-v2021-03-30	0.377	14.7	https://object.pouta.csc.fi/Tatoeba-MT-models/run-spa/opus-2021-02-19.zip	968	5198
 run-spa	tatoeba-test-v2021-08-07	0.377	14.6	https://object.pouta.csc.fi/Tatoeba-MT-models/run-spa/opus-2021-02-19.zip	963	5167

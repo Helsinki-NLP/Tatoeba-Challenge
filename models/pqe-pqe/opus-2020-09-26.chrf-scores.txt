@@ -1,10 +1,10 @@
 eng-mri	flores101-dev	0.311
-mri-eng	flores101-dev	0.292
 eng-mri	flores101-devtest	0.310
-mri-eng	flores101-devtest	0.289
 eng-mri	tatoeba-test-v2020-07-28	0.304
-mri-eng	tatoeba-test-v2020-07-28	0.265
 eng-mri	tatoeba-test-v2021-03-30	0.305
-mri-eng	tatoeba-test-v2021-03-30	0.266
 eng-mri	tatoeba-test-v2021-08-07	0.305
+mri-eng	flores101-dev	0.292
+mri-eng	flores101-devtest	0.289
+mri-eng	tatoeba-test-v2020-07-28	0.265
+mri-eng	tatoeba-test-v2021-03-30	0.266
 mri-eng	tatoeba-test-v2021-08-07	0.266

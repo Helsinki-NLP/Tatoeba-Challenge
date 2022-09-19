@@ -69,12 +69,14 @@ to be useful for anything.
 | | lang = orv-eng | | | | |
 | [zle-eng/opusTCv20210807+bt_transformer-big](../models/zle-eng) | tatoeba-v2021-08-07 | 0.28846 | 13.5 |
 | | lang = orv-ukr | | | | |
+| [sla-sla/opusTCv20210807_transformer-big](../models/sla-sla) | tatoeba-v2021-08-07 | 0.25308 | 8.5 |
 | [zle-zle/opusTCv20210807+bt_transformer-big](../models/zle-zle) | tatoeba-v2021-08-07 | 0.18942 | 3.3 |
 | | lang = prg-eng | | | | |
 | [bat-eng/opus4m+btTCv20210807](../models/bat-eng) | tatoeba-v2021-08-07 | 0.158 | 1.3 |
 | | lang = swg-deu | | | | |
 | [gmw-gmw/opusTCv20210807_transformer-big](../models/gmw-gmw) | tatoeba-v2021-08-07 | 0.40319 | 16.3 |
 | | lang = ukr-orv | | | | |
+| [sla-sla/opusTCv20210807_transformer-big](../models/sla-sla) | tatoeba-v2021-08-07 | 0.910 | 0.2 |
 | [zle-zle/opusTCv20210807+bt_transformer-big](../models/zle-zle) | tatoeba-v2021-08-07 | 0.14586 | 0.5 |
 | | lang = yid-yid | | | | |
 | [gmw-gmw/opusTCv20210807_transformer-big](../models/gmw-gmw) | tatoeba-v2021-08-07 | 6.596 | 0.1 |

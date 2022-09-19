@@ -1,5 +1,7 @@
 fra-bul	flores101-dev	0.575	29.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-bul/opus-2020-07-03.zip	997	23520
 fra-bul	flores101-devtest	0.574	28.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-bul/opus-2020-07-03.zip	1012	24700
+fra-bul	flores200-dev	0.57595	29.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-bul/opus-2020-07-03.zip	997	23520
+fra-bul	flores200-devtest	0.57339	28.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-bul/opus-2020-07-03.zip	1012	24700
 fra-bul	tatoeba-test-v2020-07-28	0.654	46.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-bul/opus-2020-07-03.zip	446	3286
 fra-bul	tatoeba-test-v2021-03-30	0.654	46.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-bul/opus-2020-07-03.zip	448	3299
 fra-bul	tatoeba-test-v2021-08-07	0.654	46.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-bul/opus-2020-07-03.zip	446	3286

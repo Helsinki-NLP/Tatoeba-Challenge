@@ -1,12 +1,12 @@
 mya-est	flores101-dev	0.006
-mya-fin	flores101-dev	0.013
-mya-hun	flores101-dev	0.029
 mya-est	flores101-devtest	0.004
+mya-fin	flores101-dev	0.013
 mya-fin	flores101-devtest	0.012
+mya-hun	flores101-dev	0.029
 mya-hun	flores101-devtest	0.028
 zho-fin	tatoeba-test-v2020-07-28	0.387
-zho-hun	tatoeba-test-v2020-07-28	0.253
 zho-fin	tatoeba-test-v2021-03-30	0.387
-zho-hun	tatoeba-test-v2021-03-30	0.252
 zho-fin	tatoeba-test-v2021-08-07	0.386
+zho-hun	tatoeba-test-v2020-07-28	0.253
+zho-hun	tatoeba-test-v2021-03-30	0.252
 zho-hun	tatoeba-test-v2021-08-07	0.254

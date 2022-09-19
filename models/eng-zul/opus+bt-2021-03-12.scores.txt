@@ -1,3 +1,5 @@
 eng-zul	flores101-dev	0.551	13.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zul/opus+bt-2021-03-12.zip	997	17576
 eng-zul	flores101-devtest	0.560	15.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zul/opus+bt-2021-03-12.zip	1012	18556
+eng-zul	flores200-dev	0.55117	13.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zul/opus+bt-2021-03-12.zip	997	17576
+eng-zul	flores200-devtest	0.55936	15.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zul/opus+bt-2021-03-12.zip	1012	18556
 eng-zul	tico19-test	0.534	11.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zul/opus+bt-2021-03-12.zip	2100	44098

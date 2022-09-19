@@ -1,0 +1,81 @@
+release: sla-heb/opusTCv20210807_transformer-big_2022-09-15.zip
+release-date: 2022-09-15
+dataset-name: opusTCv20210807
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bel
+   - bel_Latn
+   - bul
+   - ces
+   - pol
+   - rus
+   - slv
+   - ukr
+target-languages:
+   - heb
+raw-source-languages:
+   - bel
+   - bul
+   - ces
+   - pol
+   - rus
+   - slv
+   - ukr
+raw-target-languages:
+   - heb
+training-data:
+   bel-heb: Tatoeba-train-v2021-08-07.bel-heb.strict (375943) 
+   bel_Latn-heb: Tatoeba-train-v2021-08-07.bel_Latn-heb.strict (835) 
+   bul-heb: Tatoeba-train-v2021-08-07.bul-heb.strict (26171981) 
+   ces-heb: Tatoeba-train-v2021-08-07.ces-heb.strict (29695074) 
+   pol-heb: Tatoeba-train-v2021-08-07.heb-pol.strict (33243574) 
+   rus-heb: Tatoeba-train-v2021-08-07.heb-rus.strict (24998215) 
+   slv-heb: Tatoeba-train-v2021-08-07.heb-slv.strict (16712836) 
+   ukr-heb: Tatoeba-train-v2021-08-07.heb-ukr.strict (3376606) 
+validation-data:
+   bel-heb: Tatoeba-dev-v2021-08-07, 969
+   bul-heb: Tatoeba-dev-v2021-08-07, 1000
+   ces-heb: Tatoeba-dev-v2021-08-07, 1003
+   heb-pol: Tatoeba-dev-v2021-08-07, 7727
+   heb-rus: Tatoeba-dev-v2021-08-07, 3546
+   heb-slv: Tatoeba-dev-v2021-08-07, 1000
+   heb-ukr: Tatoeba-dev-v2021-08-07, 988
+   total-size-shuffled: 6947
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.bel-heb: 52/271
+   Tatoeba-test-v2021-08-07.bul-heb: 1/3
+   Tatoeba-test-v2021-08-07.ces-heb: 34/201
+   Tatoeba-test-v2021-08-07.multi-heb: 8555/50563
+   Tatoeba-test-v2021-08-07.pol-heb: 5000/30233
+   Tatoeba-test-v2021-08-07.rus-heb: 2500/15008
+   Tatoeba-test-v2021-08-07.slv-heb: 2/7
+   Tatoeba-test-v2021-08-07.ukr-heb: 966/4796
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.bel-heb: 36.7
+   Tatoeba-test-v2021-08-07.bul-heb: 35.4
+   Tatoeba-test-v2021-08-07.ces-heb: 37.8
+   Tatoeba-test-v2021-08-07.multi-heb: 39.1
+   Tatoeba-test-v2021-08-07.pol-heb: 38.7
+   Tatoeba-test-v2021-08-07.rus-heb: 38.3
+   Tatoeba-test-v2021-08-07.slv-heb: 61.8
+   Tatoeba-test-v2021-08-07.ukr-heb: 43.2
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.bel-heb: 0.59808
+   Tatoeba-test-v2021-08-07.bul-heb: 0.65393
+   Tatoeba-test-v2021-08-07.ces-heb: 0.61586
+   Tatoeba-test-v2021-08-07.multi-heb: 0.59285
+   Tatoeba-test-v2021-08-07.pol-heb: 0.59139
+   Tatoeba-test-v2021-08-07.rus-heb: 0.58388
+   Tatoeba-test-v2021-08-07.slv-heb: 0.80955
+   Tatoeba-test-v2021-08-07.ukr-heb: 0.62226

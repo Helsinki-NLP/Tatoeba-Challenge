@@ -1,10 +1,7 @@
 eng-ces	flores101-dev	0.546
-eng-pol	flores101-dev	0.474
 eng-ces	flores101-devtest	0.543
-eng-pol	flores101-devtest	0.477
 eng-ces	multi30k_test_2016_flickr	0.532
 eng-ces	multi30k_test_2018_flickr	0.540
-eng-pol	newsdev2020	0.516
 eng-ces	newssyscomb2009	0.487
 eng-ces	news-test2008	0.465
 eng-ces	newstest2009	0.483
@@ -18,10 +15,13 @@ eng-ces	newstest2016	0.518
 eng-ces	newstest2017	0.477
 eng-ces	newstest2018	0.481
 eng-ces	newstest2019	0.486
-eng-pol	newstest2020	0.504
 eng-ces	tatoeba-test-v2020-07-28	0.631
-eng-pol	tatoeba-test-v2020-07-28	0.641
 eng-ces	tatoeba-test-v2021-03-30	0.630
-eng-pol	tatoeba-test-v2021-03-30	0.641
 eng-ces	tatoeba-test-v2021-08-07	0.629
+eng-pol	flores101-dev	0.474
+eng-pol	flores101-devtest	0.477
+eng-pol	newsdev2020	0.516
+eng-pol	newstest2020	0.504
+eng-pol	tatoeba-test-v2020-07-28	0.641
+eng-pol	tatoeba-test-v2021-03-30	0.641
 eng-pol	tatoeba-test-v2021-08-07	0.642

@@ -1,5 +1,7 @@
 spa-ces	flores101-dev	0.462	16.7	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ces/opus-2021-02-19.zip	997	21183
 spa-ces	flores101-devtest	0.463	16.8	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ces/opus-2021-02-19.zip	1012	22101
+spa-ces	flores200-dev	0.46247	16.8	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ces/opus-2021-02-19.zip	997	21183
+spa-ces	flores200-devtest	0.46286	16.7	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ces/opus-2021-02-19.zip	1012	22101
 spa-ces	newssyscomb2009	0.502	21.4	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ces/opus-2021-02-19.zip	502	10032
 spa-ces	news-test2008	0.480	19.9	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ces/opus-2021-02-19.zip	2051	42484
 spa-ces	newstest2009	0.488	20.7	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ces/opus-2021-02-19.zip	2525	55533
