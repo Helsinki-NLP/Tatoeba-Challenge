@@ -10,6 +10,7 @@ eng-lit	flores101-devtest	0.520	19.8	https://object.pouta.csc.fi/Tatoeba-MT-mode
 eng-lit	flores200-dev	0.51275	18.9	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	997	20018
 eng-lit	flores200-devtest	0.52093	20.0	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	1012	20695
 eng-lit	newsdev2019	0.507	18.1	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	2000	39627
+eng-lit	newsdev2019	0.50745	18.1	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	2000	39627
 eng-lit	newstest2019	0.44801	11.9	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	998	19711
 eng-lit	tatoeba-test-v2020-07-28	0.620	33.9	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	2500	14798
 eng-lit	tatoeba-test-v2021-03-30	0.620	33.9	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	5003	29598
@@ -20,6 +21,7 @@ lav-eng	flores101-dev	0.559	26.0	https://object.pouta.csc.fi/Tatoeba-MT-models/b
 lav-eng	flores101-devtest	0.552	25.4	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	1012	24721
 lav-eng	newsdev2017	0.546	24.6	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	2003	48175
 lav-eng	newstest2017	0.49298	19.2	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	2001	47511
+lav-eng	newstest2017	0.493	19.1	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	2001	47511
 lav-eng	tatoeba-test-v2020-07-28	0.659	48.3	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	1631	11213
 lav-eng	tatoeba-test-v2021-03-30	0.659	48.3	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	1631	11213
 lav-eng	tatoeba-test-v2021-08-07	0.659	48.3	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	1631	11213
@@ -30,6 +32,7 @@ lit-eng	flores101-devtest	0.524	23.7	https://object.pouta.csc.fi/Tatoeba-MT-mode
 lit-eng	flores200-dev	0.52794	23.4	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	997	23555
 lit-eng	flores200-devtest	0.52377	23.6	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	1012	24721
 lit-eng	newsdev2019	0.53284	24.5	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	2000	49312
+lit-eng	newsdev2019	0.533	24.5	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	2000	49312
 lit-eng	newstest2019	0.56964	27.0	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	1000	25878
 lit-eng	tatoeba-test-v2020-07-28	0.669	51.0	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	2500	17688
 lit-eng	tatoeba-test-v2021-03-30	0.669	51.0	https://object.pouta.csc.fi/Tatoeba-MT-models/bat-bat/opus-2021-02-18.zip	5003	35368

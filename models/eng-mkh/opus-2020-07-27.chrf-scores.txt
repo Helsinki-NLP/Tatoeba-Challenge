@@ -3,7 +3,9 @@ eng-kha	tatoeba-test-v2021-03-30	0.016
 eng-kha	tatoeba-test-v2021-08-07	0.016
 eng-khm	flores101-dev	0.180
 eng-khm	flores101-devtest	0.178
-eng-khm	newstest2020	0.183
+eng-khm	flores200-dev	0.17967
+eng-khm	flores200-devtest	0.17687
+eng-khm	newstest2020	0.18279
 eng-khm	tatoeba-test-v2020-07-28	0.226
 eng-khm	tatoeba-test-v2021-03-30	0.226
 eng-khm	tatoeba-test-v2021-08-07	0.223
@@ -12,6 +14,8 @@ eng-khm	wikipedia.dev.km-en	0.155
 eng-khm	wikipedia.devtest.km-en	0.149
 eng-vie	flores101-dev	0.461
 eng-vie	flores101-devtest	0.460
+eng-vie	flores200-dev	0.46222
+eng-vie	flores200-devtest	0.45953
 eng-vie	tatoeba-test-v2020-07-28	0.510
 eng-vie	tatoeba-test-v2021-03-30	0.510
 eng-vie	tatoeba-test-v2021-08-07	0.511

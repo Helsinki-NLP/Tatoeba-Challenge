@@ -5,3 +5,5 @@ eng-lav	newstest2017	22.1
 eng-lav	tatoeba-test-v2020-07-28	44.0
 eng-lav	tatoeba-test-v2021-03-30	44.0
 eng-lav	tatoeba-test-v2021-08-07	44.0
+eng-ltg	flores200-dev	5.2
+eng-ltg	flores200-devtest	4.3

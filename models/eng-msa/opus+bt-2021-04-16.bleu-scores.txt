@@ -1,11 +1,15 @@
 eng-ind	flores101-dev	40.7
 eng-ind	flores101-devtest	41.5
+eng-ind	flores200-dev	40.7
+eng-ind	flores200-devtest	41.5
 eng-ind	tatoeba-test-v2020-07-28	39.4
 eng-ind	tatoeba-test-v2021-03-30	39.4
 eng-ind	tatoeba-test-v2021-08-07	39.4
 eng-ind	tico19-test	45.5
 eng-msa	flores101-dev	20.9
 eng-msa	flores101-devtest	20.8
+eng-msa	flores200-dev	21.0
+eng-msa	flores200-devtest	20.8
 eng-msa	tatoeba-test-v2020-07-28	35.9
 eng-msa	tatoeba-test-v2021-03-30	35.9
 eng-msa	tatoeba-test-v2021-08-07	35.9

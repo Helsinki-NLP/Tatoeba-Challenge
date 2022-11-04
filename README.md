@@ -31,6 +31,7 @@ This is a challenge set for machine translation that contains 29G translation un
 * [Incrementally updated development and test data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/devtest.tar), ([here for individual language pairs](https://github.com/Helsinki-NLP/Tatoeba-Challenge/tree/master/data/devtest))
 * [Release history](data/Releases.md)
 * NEW: [Automatically translated monolingual data](data/Backtranslations.md)
+* NEW: [Pre-trained sentence piece models](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/tatoeba/SentencePieceModels.md)
 
 The latest release also includes some parallel data sets in the same language in order to test paraphrase models. Note, however, that the support for paraphrasing is really limited in our data sets.
 
