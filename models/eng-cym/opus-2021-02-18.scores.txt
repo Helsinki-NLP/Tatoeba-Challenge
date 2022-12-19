@@ -1,7 +1,7 @@
-eng-cym	flores101-dev	0.414	16.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cym/opus-2021-02-18.zip	997	25557
-eng-cym	flores101-devtest	0.408	16.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cym/opus-2021-02-18.zip	1012	27010
+eng-cym	flores101-dev	0.41387	16.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cym/opus-2021-02-18.zip	997	25557
+eng-cym	flores101-devtest	0.40794	16.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cym/opus-2021-02-18.zip	1012	27010
 eng-cym	flores200-dev	0.41246	16.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cym/opus-2021-02-18.zip	997	25557
 eng-cym	flores200-devtest	0.40810	16.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cym/opus-2021-02-18.zip	1012	27010
 eng-cym	tatoeba-test-v2020-07-28	0.499	27.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cym/opus-2021-02-18.zip	818	6020
-eng-cym	tatoeba-test-v2021-03-30	0.501	27.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cym/opus-2021-02-18.zip	840	6203
+eng-cym	tatoeba-test-v2021-03-30	0.50127	27.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cym/opus-2021-02-18.zip	840	6203
 eng-cym	tatoeba-test-v2021-08-07	0.499	27.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cym/opus-2021-02-18.zip	818	6020

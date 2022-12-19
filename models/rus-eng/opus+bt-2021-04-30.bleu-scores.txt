@@ -1,13 +1,15 @@
 rus-eng	flores101-dev	31.3
 rus-eng	flores101-devtest	31.1
+rus-eng	flores200-dev	31.2
+rus-eng	flores200-devtest	31.2
 rus-eng	newstest2012	35.3
 rus-eng	newstest2013	28.3
 rus-eng	newstest2014	33.5
 rus-eng	newstest2015	30.7
 rus-eng	newstest2016	30.6
 rus-eng	newstest2017	34.4
-rus-eng	newstest2018	29.8
-rus-eng	newstest2019	32.2
+rus-eng	newstest2018	29.9
+rus-eng	newstest2019	32.3
 rus-eng	newstest2020	30.0
 rus-eng	newstestB2020	32.2
 rus-eng	tatoeba-test-v2020-07-28	57.6

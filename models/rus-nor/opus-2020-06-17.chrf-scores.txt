@@ -1,8 +1,12 @@
-rus-nob	flores101-dev	0.277
-rus-nob	flores101-devtest	0.274
+rus-nno	flores200-dev	0.25874
+rus-nno	flores200-devtest	0.25452
+rus-nob	flores101-dev	0.27707
+rus-nob	flores101-devtest	0.27393
+rus-nob	flores200-dev	0.27609
+rus-nob	flores200-devtest	0.27316
 rus-nob	tatoeba-test-v2020-07-28	0.413
 rus-nob	tatoeba-test-v2021-03-30	0.413
-rus-nob	tatoeba-test-v2021-08-07	0.413
+rus-nob	tatoeba-test-v2021-08-07	0.4129
 rus-nor	tatoeba-test-v2020-07-28	0.413
 rus-nor	tatoeba-test-v2021-03-30	0.413
-rus-nor	tatoeba-test-v2021-08-07	0.413
+rus-nor	tatoeba-test-v2021-08-07	0.41299

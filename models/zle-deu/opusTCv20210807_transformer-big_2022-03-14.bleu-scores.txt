@@ -1,10 +1,14 @@
 bel-deu	flores101-dev	12.7
 bel-deu	flores101-devtest	12.6
+bel-deu	flores200-dev	12.7
+bel-deu	flores200-devtest	12.6
 bel-deu	tatoeba-test-v2020-07-28	45.1
 bel-deu	tatoeba-test-v2021-03-30	45.2
 bel-deu	tatoeba-test-v2021-08-07	45.2
 rus-deu	flores101-dev	26.4
 rus-deu	flores101-devtest	25.9
+rus-deu	flores200-dev	26.4
+rus-deu	flores200-devtest	25.9
 rus-deu	newstest2012	19.7
 rus-deu	newstest2013	25.1
 rus-deu	tatoeba-test-v2020-07-28	52.1
@@ -12,6 +16,8 @@ rus-deu	tatoeba-test-v2021-03-30	51.9
 rus-deu	tatoeba-test-v2021-08-07	51.7
 ukr-deu	flores101-dev	27.4
 ukr-deu	flores101-devtest	27.4
+ukr-deu	flores200-dev	27.4
+ukr-deu	flores200-devtest	27.4
 ukr-deu	tatoeba-test-v2020-07-28	54.5
 ukr-deu	tatoeba-test-v2021-03-30	54.6
 ukr-deu	tatoeba-test-v2021-08-07	54.4

@@ -1,9 +1,11 @@
-tur-eng	flores101-dev	0.630
+tur-eng	flores101-dev	0.62956
 tur-eng	flores101-devtest	0.618
-tur-eng	newsdev2016	0.563
-tur-eng	newstest2016	0.548
+tur-eng	flores200-dev	0.63012
+tur-eng	flores200-devtest	0.61829
+tur-eng	newsdev2016	0.56287
+tur-eng	newstest2016	0.54708
 tur-eng	newstest2017	0.549
 tur-eng	newstest2018	0.564
-tur-eng	tatoeba-test-v2020-07-28	0.728
-tur-eng	tatoeba-test-v2021-03-30	0.717
-tur-eng	tatoeba-test-v2021-08-07	0.705
+tur-eng	tatoeba-test-v2020-07-28	0.72806
+tur-eng	tatoeba-test-v2021-03-30	0.71724
+tur-eng	tatoeba-test-v2021-08-07	0.70502

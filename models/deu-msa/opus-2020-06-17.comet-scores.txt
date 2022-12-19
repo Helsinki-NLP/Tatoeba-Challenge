@@ -12,3 +12,17 @@ deu-msa	flores200-devtest	0.1430
 deu-msa	tatoeba-test-v2020-07-28	0.9303
 deu-msa	tatoeba-test-v2021-03-30	0.9307
 deu-msa	tatoeba-test-v2021-08-07	0.9333
+deu-ind	flores101-dev	0.4242
+deu-msa	flores101-dev	0.1422
+deu-ind	flores101-devtest	0.4319
+deu-msa	flores101-devtest	0.1427
+deu-ind	flores200-dev	0.4259
+deu-msa	flores200-dev	0.1465
+deu-ind	flores200-devtest	0.4332
+deu-msa	flores200-devtest	0.1430
+deu-ind	tatoeba-test-v2020-07-28	0.9599
+deu-msa	tatoeba-test-v2020-07-28	0.9303
+deu-ind	tatoeba-test-v2021-03-30	0.9624
+deu-msa	tatoeba-test-v2021-03-30	0.9307
+deu-ind	tatoeba-test-v2021-08-07	0.9626
+deu-msa	tatoeba-test-v2021-08-07	0.9333

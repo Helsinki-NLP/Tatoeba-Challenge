@@ -1,7 +1,13 @@
 ara-fin	flores101-dev	0.47923
 ara-fin	flores101-devtest	0.48597
+ara-fin	flores200-dev	0.47971
+ara-fin	flores200-devtest	0.48644
+arz-fin	flores200-dev	0.42261
+arz-fin	flores200-devtest	0.42385
 heb-fin	flores101-dev	0.48882
 heb-fin	flores101-devtest	0.48568
+heb-fin	flores200-dev	0.48828
+heb-fin	flores200-devtest	0.48539
 heb-fin	tatoeba-test-v2020-07-28	0.62947
 heb-fin	tatoeba-test-v2021-03-30	0.63314
 heb-fin	tatoeba-test-v2021-08-07	0.62947

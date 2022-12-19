@@ -1,5 +1,11 @@
 jpn-hbs	tatoeba-test-v2020-07-28	0.350	14.2	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	400	2525
 jpn-hbs	tatoeba-test-v2021-03-30	0.348	14.2	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	403	2541
-jpn-hbs	tatoeba-test-v2021-08-07	0.350	14.2	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	400	2525
-jpn-hrv	flores101-dev	0.209	2.2	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	997	21567
-jpn-hrv	flores101-devtest	0.204	1.7	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	1012	22423
+jpn-hbs	tatoeba-test-v2021-08-07	0.34986	14.2	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	400	2525
+jpn-hrv	flores101-dev	0.20857	2.2	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	997	21567
+jpn-hrv	flores101-devtest	0.20355	1.7	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	1012	22423
+jpn-hrv	flores200-dev	0.21101	2.3	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	997	21567
+jpn-hrv	flores200-devtest	0.20672	2.0	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	1012	22423
+jpn-srp_Cyrl	flores101-dev	0.13843	0.9	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	997	22384
+jpn-srp_Cyrl	flores101-devtest	0.13668	0.8	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	1012	23456
+jpn-srp_Cyrl	flores200-dev	0.13843	0.9	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	997	22384
+jpn-srp_Cyrl	flores200-devtest	0.13668	0.8	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-hbs/opus-2021-02-23.zip	1012	23456

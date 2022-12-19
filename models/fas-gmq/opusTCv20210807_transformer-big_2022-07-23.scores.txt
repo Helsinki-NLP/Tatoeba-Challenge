@@ -1,2 +1,4 @@
 fas-dan	flores101-dev	0.51347	23.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-gmq/opusTCv20210807_transformer-big_2022-07-23.zip	997	23685
 fas-dan	flores101-devtest	0.50857	22.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-gmq/opusTCv20210807_transformer-big_2022-07-23.zip	1012	24638
+pes-dan	flores200-dev	0.51355	23.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-gmq/opusTCv20210807_transformer-big_2022-07-23.zip	997	23685
+pes-dan	flores200-devtest	0.50835	22.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fas-gmq/opusTCv20210807_transformer-big_2022-07-23.zip	1012	24638

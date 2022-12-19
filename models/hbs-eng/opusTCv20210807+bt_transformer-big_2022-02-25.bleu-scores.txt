@@ -6,9 +6,15 @@ hbs-eng	tatoeba-test-v2021-03-30	56.4
 hbs-eng	tatoeba-test-v2021-08-07	56.4
 hrv-eng	flores101-dev	36.9
 hrv-eng	flores101-devtest	37.1
+hrv-eng	flores200-dev	37.0
+hrv-eng	flores200-devtest	37.1
 hrv-eng	tatoeba-test-v2020-07-28	58.7
 hrv-eng	tatoeba-test-v2021-03-30	58.7
 hrv-eng	tatoeba-test-v2021-08-07	58.8
+srp_Cyrl-eng	flores101-dev	36.3
+srp_Cyrl-eng	flores101-devtest	35.9
+srp_Cyrl-eng	flores200-dev	36.3
+srp_Cyrl-eng	flores200-devtest	35.9
 srp_Cyrl-eng	tatoeba-test-v2020-07-28	44.7
 srp_Cyrl-eng	tatoeba-test-v2021-03-30	44.7
 srp_Cyrl-eng	tatoeba-test-v2021-08-07	44.7

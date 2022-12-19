@@ -1,5 +1,7 @@
 eng-ces	flores101-dev	26.5
 eng-ces	flores101-devtest	25.9
+eng-ces	flores200-dev	26.6
+eng-ces	flores200-devtest	25.9
 eng-ces	multi30k_test_2016_flickr	27.2
 eng-ces	multi30k_test_2018_flickr	27.9
 eng-ces	newssyscomb2009	20.6
@@ -13,14 +15,16 @@ eng-ces	newstest2014	24.4
 eng-ces	newstest2015	21.3
 eng-ces	newstest2016	24.3
 eng-ces	newstest2017	19.6
-eng-ces	newstest2018	19.2
+eng-ces	newstest2018	19.3
 eng-ces	newstest2019	20.0
 eng-ces	tatoeba-test-v2020-07-28	43.5
 eng-ces	tatoeba-test-v2021-03-30	43.5
 eng-ces	tatoeba-test-v2021-08-07	43.4
 eng-pol	flores101-dev	16.8
 eng-pol	flores101-devtest	16.7
-eng-pol	newsdev2020	21.4
+eng-pol	flores200-dev	16.8
+eng-pol	flores200-devtest	16.7
+eng-pol	newsdev2020	21.3
 eng-pol	newstest2020	20.4
 eng-pol	tatoeba-test-v2020-07-28	43.1
 eng-pol	tatoeba-test-v2021-03-30	43.1

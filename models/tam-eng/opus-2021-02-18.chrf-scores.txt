@@ -1,10 +1,10 @@
-tam-eng	flores101-dev	0.368
-tam-eng	flores101-devtest	0.365
+tam-eng	flores101-dev	0.36805
+tam-eng	flores101-devtest	0.36476
 tam-eng	flores200-dev	0.36822
 tam-eng	flores200-devtest	0.36482
-tam-eng	newsdev2020	0.317
-tam-eng	newstest2020	0.300
+tam-eng	newsdev2020	0.31654
+tam-eng	newstest2020	0.29826
 tam-eng	tatoeba-test-v2020-07-28	0.394
 tam-eng	tatoeba-test-v2021-03-30	0.394
 tam-eng	tatoeba-test-v2021-08-07	0.394
-tam-eng	tico19-test	0.332
+tam-eng	tico19-test	0.33158

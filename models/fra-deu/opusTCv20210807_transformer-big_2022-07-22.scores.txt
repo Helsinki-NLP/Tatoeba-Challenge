@@ -1,6 +1,9 @@
+fra-deu	euelections_dev2019	0.59429	29.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opusTCv20210807_transformer-big_2022-07-22.zip	1512	33397
 fra-deu	euelections_dev2019.fr-de	0.59429	29.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opusTCv20210807_transformer-big_2022-07-22.zip	1512	33397
 fra-deu	flores101-dev	0.59750	32.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opusTCv20210807_transformer-big_2022-07-22.zip	997	24097
 fra-deu	flores101-devtest	0.60150	31.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opusTCv20210807_transformer-big_2022-07-22.zip	1012	25094
+fra-deu	flores200-dev	0.59748	32.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opusTCv20210807_transformer-big_2022-07-22.zip	997	24097
+fra-deu	flores200-devtest	0.60159	31.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opusTCv20210807_transformer-big_2022-07-22.zip	1012	25094
 fra-deu	multi30k_test_2016_flickr	0.62790	33.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opusTCv20210807_transformer-big_2022-07-22.zip	1000	12106
 fra-deu	multi30k_test_2017_flickr	0.61277	31.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opusTCv20210807_transformer-big_2022-07-22.zip	1000	10755
 fra-deu	multi30k_test_2017_mscoco	0.55805	25.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-deu/opusTCv20210807_transformer-big_2022-07-22.zip	461	5158

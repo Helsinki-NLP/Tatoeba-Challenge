@@ -1,10 +1,14 @@
 bos-ukr	flores101-dev	15.2
 bos-ukr	flores101-devtest	15.4
+bos-ukr	flores200-dev	15.1
+bos-ukr	flores200-devtest	15.3
 hbs-ukr	tatoeba-test-v2020-07-28	46.4
 hbs-ukr	tatoeba-test-v2021-03-30	46.1
 hbs-ukr	tatoeba-test-v2021-08-07	46.3
 hrv-ukr	flores101-dev	13.4
 hrv-ukr	flores101-devtest	14.0
+hrv-ukr	flores200-dev	13.4
+hrv-ukr	flores200-devtest	14.0
 hrv-ukr	tatoeba-test-v2020-07-28	41.6
 hrv-ukr	tatoeba-test-v2021-03-30	41.2
 hrv-ukr	tatoeba-test-v2021-08-07	41.6

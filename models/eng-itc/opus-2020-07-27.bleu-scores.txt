@@ -18,7 +18,7 @@ eng-fra	multi30k_test_2017_flickr	39.3
 eng-fra	multi30k_test_2017_mscoco	42.4
 eng-fra	multi30k_test_2018_flickr	33.3
 eng-fra	newsdiscussdev2015	28.4
-eng-fra	newsdiscusstest2015	33.7
+eng-fra	newsdiscusstest2015	33.6
 eng-fra	newssyscomb2009	27.5
 eng-fra	news-test2008	24.6
 eng-fra	newstest2009	26.2

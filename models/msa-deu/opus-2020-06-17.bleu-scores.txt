@@ -1,10 +1,14 @@
 ind-deu	flores101-dev	16.8
 ind-deu	flores101-devtest	16.5
+ind-deu	flores200-dev	17.0
+ind-deu	flores200-devtest	16.7
 ind-deu	tatoeba-test-v2020-07-28	36.9
 ind-deu	tatoeba-test-v2021-03-30	37.0
 ind-deu	tatoeba-test-v2021-08-07	36.9
 msa-deu	flores101-dev	13.1
 msa-deu	flores101-devtest	12.0
+msa-deu	flores200-dev	13.1
+msa-deu	flores200-devtest	12.1
 msa-deu	tatoeba-test-v2020-07-28	36.5
 msa-deu	tatoeba-test-v2021-03-30	36.6
 msa-deu	tatoeba-test-v2021-08-07	36.6

@@ -2,4 +2,4 @@ swe-epo	flores200-dev	0.30752	6.6	https://object.pouta.csc.fi/Tatoeba-MT-models/
 swe-epo	flores200-devtest	0.30830	6.2	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-epo/opus-2021-02-18.zip	1012	23873
 swe-epo	tatoeba-test-v2020-07-28	0.497	29.7	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-epo/opus-2021-02-18.zip	1757	10987
 swe-epo	tatoeba-test-v2021-03-30	0.497	29.7	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-epo/opus-2021-02-18.zip	1757	10987
-swe-epo	tatoeba-test-v2021-08-07	0.497	29.7	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-epo/opus-2021-02-18.zip	1757	10987
+swe-epo	tatoeba-test-v2021-08-07	0.49678	29.7	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-epo/opus-2021-02-18.zip	1757	10987

@@ -1,7 +1,7 @@
-deu-tgl	flores101-dev	0.495	18.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2020-06-17.zip	997	28037
+deu-tgl	flores101-dev	0.49512	18.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2020-06-17.zip	997	28037
 deu-tgl	flores101-devtest	0.499	19.4	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2020-06-17.zip	1012	29603
 deu-tgl	flores200-dev	0.49545	18.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2020-06-17.zip	997	28037
 deu-tgl	flores200-devtest	0.49983	19.4	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2020-06-17.zip	1012	29603
 deu-tgl	tatoeba-test-v2020-07-28	0.539	21.3	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2020-06-17.zip	326	2329
-deu-tgl	tatoeba-test-v2021-03-30	0.539	21.3	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2020-06-17.zip	327	2337
-deu-tgl	tatoeba-test-v2021-08-07	0.539	21.3	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2020-06-17.zip	326	2329
+deu-tgl	tatoeba-test-v2021-03-30	0.53875	21.3	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2020-06-17.zip	327	2337
+deu-tgl	tatoeba-test-v2021-08-07	0.53888	21.3	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-tgl/opus-2020-06-17.zip	326	2329

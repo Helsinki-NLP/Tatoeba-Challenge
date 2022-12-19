@@ -1,10 +1,14 @@
 bel-fra	flores101-dev	13.5
 bel-fra	flores101-devtest	14.5
+bel-fra	flores200-dev	13.5
+bel-fra	flores200-devtest	14.5
 bel-fra	tatoeba-test-v2020-07-28	41.7
 bel-fra	tatoeba-test-v2021-03-30	41.5
 bel-fra	tatoeba-test-v2021-08-07	41.7
 rus-fra	flores101-dev	31.9
 rus-fra	flores101-devtest	31.7
+rus-fra	flores200-dev	31.9
+rus-fra	flores200-devtest	31.7
 rus-fra	newstest2012	24.5
 rus-fra	newstest2013	28.7
 rus-fra	tatoeba-test-v2020-07-28	51.8
@@ -12,6 +16,8 @@ rus-fra	tatoeba-test-v2021-03-30	51.7
 rus-fra	tatoeba-test-v2021-08-07	51.5
 ukr-fra	flores101-dev	32.9
 ukr-fra	flores101-devtest	33.0
+ukr-fra	flores200-dev	32.9
+ukr-fra	flores200-devtest	33.0
 ukr-fra	tatoeba-test-v2020-07-28	50.4
 ukr-fra	tatoeba-test-v2021-03-30	50.4
 ukr-fra	tatoeba-test-v2021-08-07	50.4

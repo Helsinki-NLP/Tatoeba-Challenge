@@ -1,7 +1,11 @@
-lao-eng	flores101-dev	0.202
+lao-eng	flores101-dev	0.20177
 lao-eng	flores101-devtest	0.203
-tha-eng	flores101-dev	0.397
-tha-eng	flores101-devtest	0.395
-tha-eng	tatoeba-test-v2020-07-28	0.586
+lao-eng	flores200-dev	0.20174
+lao-eng	flores200-devtest	0.20388
+tha-eng	flores101-dev	0.39679
+tha-eng	flores101-devtest	0.39476
+tha-eng	flores200-dev	0.39747
+tha-eng	flores200-devtest	0.39435
+tha-eng	tatoeba-test-v2020-07-28	0.5862
 tha-eng	tatoeba-test-v2021-03-30	0.586
-tha-eng	tatoeba-test-v2021-08-07	0.586
+tha-eng	tatoeba-test-v2021-08-07	0.58587

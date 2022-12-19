@@ -1,8 +1,12 @@
-spa-nob	flores101-dev	0.367
-spa-nob	flores101-devtest	0.366
+spa-nno	flores200-dev	0.34564
+spa-nno	flores200-devtest	0.34583
+spa-nob	flores101-dev	0.36727
+spa-nob	flores101-devtest	0.36613
+spa-nob	flores200-dev	0.36665
+spa-nob	flores200-devtest	0.36659
 spa-nob	tatoeba-test-v2020-07-28	0.571
-spa-nob	tatoeba-test-v2021-03-30	0.571
+spa-nob	tatoeba-test-v2021-03-30	0.57076
 spa-nob	tatoeba-test-v2021-08-07	0.571
 spa-nor	tatoeba-test-v2020-07-28	0.564
-spa-nor	tatoeba-test-v2021-03-30	0.563
-spa-nor	tatoeba-test-v2021-08-07	0.564
+spa-nor	tatoeba-test-v2021-03-30	0.56297
+spa-nor	tatoeba-test-v2021-08-07	0.56357

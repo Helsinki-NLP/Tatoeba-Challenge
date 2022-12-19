@@ -1,8 +1,10 @@
-ell-eng	flores101-dev	0.550
-ell-eng	flores101-devtest	0.543
-ell-eng	tatoeba-test-v2020-07-28	0.762
-ell-eng	tatoeba-test-v2021-03-30	0.751
-ell-eng	tatoeba-test-v2021-08-07	0.744
+ell-eng	flores101-dev	0.54995
+ell-eng	flores101-devtest	0.54274
+ell-eng	flores200-dev	0.55004
+ell-eng	flores200-devtest	0.54251
+ell-eng	tatoeba-test-v2020-07-28	0.76233
+ell-eng	tatoeba-test-v2021-03-30	0.75127
+ell-eng	tatoeba-test-v2021-08-07	0.74363
 grc-eng	tatoeba-test-v2020-07-28	0.163
-grc-eng	tatoeba-test-v2021-03-30	0.162
-grc-eng	tatoeba-test-v2021-08-07	0.167
+grc-eng	tatoeba-test-v2021-03-30	0.16186
+grc-eng	tatoeba-test-v2021-08-07	0.16685

@@ -4,5 +4,5 @@ swe-fin	flores101-devtest	0.550	21.0	https://object.pouta.csc.fi/Tatoeba-MT-mode
 swe-fin	flores200-dev	0.54697	20.5	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-fin/opus-2021-02-18.zip	997	17938
 swe-fin	flores200-devtest	0.55050	21.0	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-fin/opus-2021-02-18.zip	1012	18781
 swe-fin	tatoeba-test-v2020-07-28	0.666	44.2	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-fin/opus-2021-02-18.zip	2500	13711
-swe-fin	tatoeba-test-v2021-03-30	0.666	44.0	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-fin/opus-2021-02-18.zip	5072	27870
-swe-fin	tatoeba-test-v2021-08-07	0.667	43.9	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-fin/opus-2021-02-18.zip	2841	15621
+swe-fin	tatoeba-test-v2021-03-30	0.66642	44.0	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-fin/opus-2021-02-18.zip	5072	27870
+swe-fin	tatoeba-test-v2021-08-07	0.66696	43.9	https://object.pouta.csc.fi/Tatoeba-MT-models/swe-fin/opus-2021-02-18.zip	2841	15621

@@ -1,8 +1,8 @@
-eng-urd	flores101-dev	0.286	6.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus-2021-02-18.zip	997	27031
-eng-urd	flores101-devtest	0.279	6.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus-2021-02-18.zip	1012	28098
+eng-urd	flores101-dev	0.28597	6.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus-2021-02-18.zip	997	27031
+eng-urd	flores101-devtest	0.27936	6.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus-2021-02-18.zip	1012	28098
 eng-urd	flores200-dev	0.28557	6.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus-2021-02-18.zip	997	27031
 eng-urd	flores200-devtest	0.27962	6.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus-2021-02-18.zip	1012	28098
 eng-urd	tatoeba-test-v2020-07-28	0.390	12.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus-2021-02-18.zip	1663	12155
 eng-urd	tatoeba-test-v2021-03-30	0.390	12.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus-2021-02-18.zip	1663	12155
 eng-urd	tatoeba-test-v2021-08-07	0.389	12.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus-2021-02-18.zip	1663	12155
-eng-urd	tico19-test	0.269	5.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus-2021-02-18.zip	2100	65312
+eng-urd	tico19-test	0.2695	5.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-urd/opus-2021-02-18.zip	2100	65312

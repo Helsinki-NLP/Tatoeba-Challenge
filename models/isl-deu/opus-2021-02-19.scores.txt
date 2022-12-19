@@ -1,7 +1,7 @@
-isl-deu	flores101-dev	0.428	14.3	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-deu/opus-2021-02-19.zip	997	24097
-isl-deu	flores101-devtest	0.431	14.2	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-deu/opus-2021-02-19.zip	1012	25094
+isl-deu	flores101-dev	0.42785	14.3	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-deu/opus-2021-02-19.zip	997	24097
+isl-deu	flores101-devtest	0.43053	14.2	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-deu/opus-2021-02-19.zip	1012	25094
 isl-deu	flores200-dev	0.42760	14.3	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-deu/opus-2021-02-19.zip	997	24097
 isl-deu	flores200-devtest	0.43155	14.3	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-deu/opus-2021-02-19.zip	1012	25094
-isl-deu	tatoeba-test-v2020-07-28	0.662	49.3	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-deu/opus-2021-02-19.zip	968	6265
-isl-deu	tatoeba-test-v2021-03-30	0.663	49.5	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-deu/opus-2021-02-19.zip	990	6456
-isl-deu	tatoeba-test-v2021-08-07	0.661	49.2	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-deu/opus-2021-02-19.zip	969	6279
+isl-deu	tatoeba-test-v2020-07-28	0.66173	49.3	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-deu/opus-2021-02-19.zip	968	6265
+isl-deu	tatoeba-test-v2021-03-30	0.66252	49.5	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-deu/opus-2021-02-19.zip	990	6456
+isl-deu	tatoeba-test-v2021-08-07	0.66074	49.2	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-deu/opus-2021-02-19.zip	969	6279

@@ -1,9 +1,13 @@
 bel-spa	flores101-dev	14.1
 bel-spa	flores101-devtest	14.5
+bel-spa	flores200-dev	14.1
+bel-spa	flores200-devtest	14.5
 bel-spa	tatoeba-test-v2021-03-30	46.9
 bel-spa	tatoeba-test-v2021-08-07	46.6
 rus-spa	flores101-dev	22.3
 rus-spa	flores101-devtest	22.7
+rus-spa	flores200-dev	22.3
+rus-spa	flores200-devtest	22.7
 rus-spa	newstest2012	29.1
 rus-spa	newstest2013	31.9
 rus-spa	tatoeba-test-v2020-07-28	52.4
@@ -11,6 +15,8 @@ rus-spa	tatoeba-test-v2021-03-30	52.3
 rus-spa	tatoeba-test-v2021-08-07	52.3
 ukr-spa	flores101-dev	22.5
 ukr-spa	flores101-devtest	22.6
+ukr-spa	flores200-dev	22.5
+ukr-spa	flores200-devtest	22.6
 ukr-spa	tatoeba-test-v2020-07-28	51.3
 ukr-spa	tatoeba-test-v2021-03-30	51.4
 ukr-spa	tatoeba-test-v2021-08-07	51.4

@@ -1,8 +1,16 @@
 fin-khm	flores101-dev	0.0
 fin-khm	flores101-devtest	0.0
+fin-khm	flores200-dev	0.0
+fin-khm	flores200-devtest	0.0
 fin-vie	flores101-dev	8.4
 fin-vie	flores101-devtest	8.5
+fin-vie	flores200-dev	8.5
+fin-vie	flores200-devtest	8.5
 hun-khm	flores101-dev	0.0
 hun-khm	flores101-devtest	0.1
+hun-khm	flores200-dev	0.0
+hun-khm	flores200-devtest	0.0
 hun-vie	flores101-dev	9.2
 hun-vie	flores101-devtest	8.9
+hun-vie	flores200-dev	9.2
+hun-vie	flores200-devtest	8.9

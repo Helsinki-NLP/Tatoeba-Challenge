@@ -1,7 +1,9 @@
-lit-eng	flores101-dev	0.573
+lit-eng	flores101-dev	0.5727
 lit-eng	flores101-devtest	0.569
-lit-eng	newsdev2019	0.576
+lit-eng	flores200-dev	0.57282
+lit-eng	flores200-devtest	0.56987
+lit-eng	newsdev2019	0.57629
 lit-eng	newstest2019	0.609
-lit-eng	tatoeba-test-v2020-07-28	0.735
-lit-eng	tatoeba-test-v2021-03-30	0.735
-lit-eng	tatoeba-test-v2021-08-07	0.734
+lit-eng	tatoeba-test-v2020-07-28	0.73476
+lit-eng	tatoeba-test-v2021-03-30	0.73497
+lit-eng	tatoeba-test-v2021-08-07	0.73375

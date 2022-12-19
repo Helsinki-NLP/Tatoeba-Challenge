@@ -143,7 +143,7 @@ eng-fra	multi30k_test_2017_flickr	31.7
 eng-fra	multi30k_test_2017_mscoco	34.6
 eng-fra	multi30k_test_2018_flickr	27.8
 eng-fra	newsdiscussdev2015	25.3
-eng-fra	newsdiscusstest2015	28.9
+eng-fra	newsdiscusstest2015	28.8
 eng-fra	newssyscomb2009	24.6
 eng-fra	news-test2008	22.1
 eng-fra	newstest2009	23.5

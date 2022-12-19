@@ -1,10 +1,14 @@
 spa-bel	flores101-dev	0.36112
 spa-bel	flores101-devtest	0.36271
+spa-bel	flores200-dev	0.36106
+spa-bel	flores200-devtest	0.36263
 spa-bel	tatoeba-test-v2020-07-28	0.53052
 spa-bel	tatoeba-test-v2021-03-30	0.52842
 spa-bel	tatoeba-test-v2021-08-07	0.53052
 spa-rus	flores101-dev	0.49656
 spa-rus	flores101-devtest	0.49667
+spa-rus	flores200-dev	0.49648
+spa-rus	flores200-devtest	0.49651
 spa-rus	newstest2012	0.52429
 spa-rus	newstest2013	0.54279
 spa-rus	tatoeba-test-v2020-07-28	0.68381
@@ -12,6 +16,8 @@ spa-rus	tatoeba-test-v2021-03-30	0.68311
 spa-rus	tatoeba-test-v2021-08-07	0.68379
 spa-ukr	flores101-dev	0.47437
 spa-ukr	flores101-devtest	0.47717
+spa-ukr	flores200-dev	0.47417
+spa-ukr	flores200-devtest	0.47727
 spa-ukr	tatoeba-test-v2020-07-28	0.63230
 spa-ukr	tatoeba-test-v2021-03-30	0.63244
 spa-ukr	tatoeba-test-v2021-08-07	0.63347

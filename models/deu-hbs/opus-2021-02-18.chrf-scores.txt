@@ -1,13 +1,13 @@
 deu-hbs	tatoeba-test-v2020-07-28	0.602
 deu-hbs	tatoeba-test-v2021-03-30	0.602
-deu-hbs	tatoeba-test-v2021-08-07	0.602
-deu-hrv	flores101-dev	0.515
-deu-hrv	flores101-devtest	0.522
+deu-hbs	tatoeba-test-v2021-08-07	0.60178
+deu-hrv	flores101-dev	0.51479
+deu-hrv	flores101-devtest	0.52193
 deu-hrv	flores200-dev	0.51457
 deu-hrv	flores200-devtest	0.52297
 deu-hrv	tatoeba-test-v2020-07-28	0.647
 deu-hrv	tatoeba-test-v2021-03-30	0.647
-deu-hrv	tatoeba-test-v2021-08-07	0.647
+deu-hrv	tatoeba-test-v2021-08-07	0.64667
 deu-srp_Cyrl	flores101-dev	0.46944
 deu-srp_Cyrl	flores101-devtest	0.47072
 deu-srp_Cyrl	flores200-dev	0.46944

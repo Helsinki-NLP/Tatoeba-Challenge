@@ -175,7 +175,7 @@ eng-deu	newstest2016	18.2
 eng-deu	newstest2017	15.7
 eng-deu	newstest2018	20.7
 eng-deu	newstest2019	17.8
-eng-deu	newstest2020	13.6
+eng-deu	newstest2020	13.7
 eng-deu	newstestB2020	12.9
 eng-deu	tatoeba-test-v2020-07-28	21.4
 eng-deu	tatoeba-test-v2021-03-30	21.0
@@ -199,7 +199,7 @@ eng-est	flores101-dev	8.7
 eng-est	flores101-devtest	8.5
 eng-est	flores200-dev	8.7
 eng-est	flores200-devtest	8.6
-eng-est	newsdev2018	9.2
+eng-est	newsdev2018	9.3
 eng-est	newstest2018	9.8
 eng-est	tatoeba-test-v2020-07-28	26.0
 eng-est	tatoeba-test-v2021-03-30	26.0
@@ -222,7 +222,7 @@ eng-fin	flores101-dev	6.5
 eng-fin	flores101-devtest	6.0
 eng-fin	flores200-dev	6.5
 eng-fin	flores200-devtest	6.1
-eng-fin	newsdev2015	7.0
+eng-fin	newsdev2015	6.9
 eng-fin	newstest2015	8.4
 eng-fin	newstest2016	8.8
 eng-fin	newstest2017	9.4
@@ -241,7 +241,7 @@ eng-fra	multi30k_test_2016_flickr	20.1
 eng-fra	multi30k_test_2017_flickr	19.3
 eng-fra	multi30k_test_2017_mscoco	21.2
 eng-fra	multi30k_test_2018_flickr	19.3
-eng-fra	newsdiscussdev2015	20.1
+eng-fra	newsdiscussdev2015	20.0
 eng-fra	newsdiscusstest2015	21.9
 eng-fra	newssyscomb2009	19.5
 eng-fra	news-test2008	18.1
@@ -488,7 +488,7 @@ eng-lmo	flores200-dev	2.4
 eng-lmo	flores200-devtest	2.2
 eng-ltg	flores200-dev	2.5
 eng-ltg	flores200-devtest	2.1
-eng-ltz	flores101-dev	6.6
+eng-ltz	flores101-dev	6.7
 eng-ltz	flores101-devtest	5.9
 eng-ltz	flores200-dev	6.6
 eng-ltz	flores200-devtest	5.8
@@ -863,7 +863,7 @@ eng-zho	newstest2017	7.6
 eng-zho	newstest2018	8.3
 eng-zho	newstest2019	6.6
 eng-zho	newstest2020	7.0
-eng-zho	newstestB2020	6.8
+eng-zho	newstestB2020	6.7
 eng-zho	tatoeba-test-v2020-07-28	20.8
 eng-zho	tatoeba-test-v2021-03-30	20.8
 eng-zho	tatoeba-test-v2021-08-07	20.8

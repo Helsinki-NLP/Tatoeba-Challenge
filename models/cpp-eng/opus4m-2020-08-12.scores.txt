@@ -1,13 +1,13 @@
 ind-eng	flores101-dev	0.547	27.1	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	997	23555
-ind-eng	flores101-devtest	0.539	26.3	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	1012	24721
+ind-eng	flores101-devtest	0.53886	26.3	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	1012	24721
 ind-eng	flores200-dev	0.54673	27.0	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	997	23555
 ind-eng	flores200-devtest	0.53848	26.3	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	1012	24721
 ind-eng	tatoeba-test-v2020-07-28	0.603	42.0	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	4289	31355
 ind-eng	tatoeba-test-v2021-03-30	0.603	42.0	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	4289	31355
-ind-eng	tatoeba-test-v2021-08-07	0.603	42.0	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	4289	31355
-ind-eng	tico19-test	0.541	25.8	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	2100	56315
+ind-eng	tatoeba-test-v2021-08-07	0.60298	42.0	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	4289	31355
+ind-eng	tico19-test	0.54071	25.8	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	2100	56315
 pap-eng	flores200-dev	0.57887	31.4	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	997	23555
 pap-eng	flores200-devtest	0.56463	30.3	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	1012	24721
 zsm_Latn-eng	tatoeba-test-v2020-07-28	0.531	33.6	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	536	4439
 zsm_Latn-eng	tatoeba-test-v2021-03-30	0.531	33.6	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	536	4439
-zsm_Latn-eng	tatoeba-test-v2021-08-07	0.531	33.6	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	536	4439
+zsm_Latn-eng	tatoeba-test-v2021-08-07	0.53124	33.6	https://object.pouta.csc.fi/Tatoeba-MT-models/cpp-eng/opus4m-2020-08-12.zip	536	4439

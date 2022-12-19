@@ -1,9 +1,9 @@
 nld-nno	flores200-dev	0.44280
 nld-nno	flores200-devtest	0.44308
-nld-nob	flores101-dev	0.474
-nld-nob	flores101-devtest	0.475
+nld-nob	flores101-dev	0.47386
+nld-nob	flores101-devtest	0.47472
 nld-nob	flores200-dev	0.47331
 nld-nob	flores200-devtest	0.47556
 nld-nor	tatoeba-test-v2020-07-28	0.771
-nld-nor	tatoeba-test-v2021-03-30	0.769
-nld-nor	tatoeba-test-v2021-08-07	0.771
+nld-nor	tatoeba-test-v2021-03-30	0.76926
+nld-nor	tatoeba-test-v2021-08-07	0.77098

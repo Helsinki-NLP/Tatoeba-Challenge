@@ -1,8 +1,16 @@
 fin-bul	flores101-dev	0.54702	26.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	997	23520
 fin-bul	flores101-devtest	0.54912	26.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	1012	24700
+fin-bul	flores200-dev	0.54703	26.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	997	23520
+fin-bul	flores200-devtest	0.54908	26.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	1012	24700
 fin-hrv	flores101-dev	0.51782	21.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	997	21567
 fin-hrv	flores101-devtest	0.51468	21.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	1012	22423
+fin-hrv	flores200-dev	0.51771	21.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	997	21567
+fin-hrv	flores200-devtest	0.51426	21.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	1012	22423
 fin-slv	flores101-dev	0.51560	22.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	997	22448
 fin-slv	flores101-devtest	0.51226	22.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	1012	23425
+fin-slv	flores200-dev	0.51556	22.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	997	22448
+fin-slv	flores200-devtest	0.51243	22.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	1012	23425
 fin-srp_Cyrl	flores101-dev	0.50989	22.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	997	22384
 fin-srp_Cyrl	flores101-devtest	0.50774	21.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	1012	23456
+fin-srp_Cyrl	flores200-dev	0.50998	22.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	997	22384
+fin-srp_Cyrl	flores200-devtest	0.50775	21.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-zls/opusTCv20210807_transformer-big_2022-07-23.zip	1012	23456

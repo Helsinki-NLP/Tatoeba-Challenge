@@ -1,11 +1,13 @@
 fra-eng	flores101-dev	44.1
 fra-eng	flores101-devtest	42.3
+fra-eng	flores200-dev	44.0
+fra-eng	flores200-devtest	42.4
 fra-eng	multi30k_test_2016_flickr	46.6
 fra-eng	multi30k_test_2017_flickr	48.4
 fra-eng	multi30k_test_2017_mscoco	47.1
 fra-eng	multi30k_test_2018_flickr	42.3
 fra-eng	newsdiscussdev2015	34.0
-fra-eng	newsdiscusstest2015	39.0
+fra-eng	newsdiscusstest2015	39.1
 fra-eng	newssyscomb2009	30.5
 fra-eng	news-test2008	26.1
 fra-eng	newstest2009	30.5
@@ -13,7 +15,7 @@ fra-eng	newstest2010	32.2
 fra-eng	newstest2011	33.3
 fra-eng	newstest2012	33.0
 fra-eng	newstest2013	34.0
-fra-eng	newstest2014	38.1
+fra-eng	newstest2014	38.0
 fra-eng	tatoeba-test-v2020-07-28	57.9
 fra-eng	tatoeba-test-v2021-03-30	58.1
 fra-eng	tatoeba-test-v2021-08-07	58.3

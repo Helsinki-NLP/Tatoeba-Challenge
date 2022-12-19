@@ -6,6 +6,6 @@ ara-heb	flores200-dev	0.43937	13.8	https://object.pouta.csc.fi/Tatoeba-MT-models
 ara-heb	flores200-devtest	0.44835	15.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-heb/opus-2020-06-18.zip	1012	20238
 ara-heb	tatoeba-test-v2020-07-28	0.603	40.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-heb/opus-2020-06-18.zip	1208	6801
 ara-heb	tatoeba-test-v2021-03-30	0.603	40.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-heb/opus-2020-06-18.zip	1208	6801
-ara-heb	tatoeba-test-v2021-08-07	0.603	40.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-heb/opus-2020-06-18.zip	1208	6801
+ara-heb	tatoeba-test-v2021-08-07	0.60318	40.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-heb/opus-2020-06-18.zip	1208	6801
 arz-heb	flores200-dev	0.39154	10.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-heb/opus-2020-06-18.zip	997	19417
 arz-heb	flores200-devtest	0.39067	10.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-heb/opus-2020-06-18.zip	1012	20238

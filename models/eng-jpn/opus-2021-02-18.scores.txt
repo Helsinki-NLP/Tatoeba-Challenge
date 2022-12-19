@@ -1,12 +1,10 @@
-eng-jpn	flores101-dev	0.289	17.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	997	30085
-eng-jpn	flores101-devtest	0.290	18.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	1012	31717
+eng-jpn	flores101-dev	0.28902	17.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	997	30085
+eng-jpn	flores101-devtest	0.28971	18.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	1012	31717
 eng-jpn	flores200-dev	0.28840	17.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	997	30085
 eng-jpn	flores200-devtest	0.28751	18.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	1012	31717
 eng-jpn	newsdev2020	0.205	12.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	1998	61707
-eng-jpn	newsdev2020	0.20520	12.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	1998	61707
 eng-jpn	newstest2020	0.243	15.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	1000	32811
-eng-jpn	newstest2020	0.24396	15.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	1000	32811
 eng-jpn	newstest2021	0.24765	15.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	1000	34114
-eng-jpn	tatoeba-test-v2020-07-28	0.259	16.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	10000	99206
-eng-jpn	tatoeba-test-v2021-03-30	0.259	16.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	11957	115538
-eng-jpn	tatoeba-test-v2021-08-07	0.257	16.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	13862	132938
+eng-jpn	tatoeba-test-v2020-07-28	0.25894	16.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	10000	99206
+eng-jpn	tatoeba-test-v2021-03-30	0.25916	16.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	11957	115538
+eng-jpn	tatoeba-test-v2021-08-07	0.25679	16.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-jpn/opus-2021-02-18.zip	13862	132938

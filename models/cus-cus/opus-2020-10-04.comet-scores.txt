@@ -8,3 +8,13 @@ som-eng	flores101-devtest	-1.0000
 som-eng	flores200-dev	-0.9975
 som-eng	flores200-devtest	-1.0011
 som-eng	tico19-test	-1.2131
+eng-som	flores101-dev	-0.8119
+som-eng	flores101-dev	-0.9942
+eng-som	flores101-devtest	-0.8316
+som-eng	flores101-devtest	-1.0000
+eng-som	flores200-dev	-0.8102
+som-eng	flores200-dev	-0.9975
+eng-som	flores200-devtest	-0.8329
+som-eng	flores200-devtest	-1.0011
+eng-som	tico19-test	-1.0345
+som-eng	tico19-test	-1.2131

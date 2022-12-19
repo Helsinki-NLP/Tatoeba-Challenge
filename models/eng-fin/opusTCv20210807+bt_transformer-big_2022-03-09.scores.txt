@@ -10,6 +10,6 @@ eng-fin	newstest2018	0.55626	19.7	https://object.pouta.csc.fi/Tatoeba-MT-models/
 eng-fin	newstest2019	0.58420	26.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.zip	1997	38369
 eng-fin	newstestB2016	0.57554	23.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.zip	3000	45766
 eng-fin	newstestB2017	0.60212	26.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.zip	3002	45506
-eng-fin	tatoeba-test-v2020-07-28	0.64194	39.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.zip	10000	60517
+eng-fin	tatoeba-test-v2020-07-28	0.64193	39.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.zip	10000	60517
 eng-fin	tatoeba-test-v2021-03-30	0.64245	39.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.zip	10186	61736
-eng-fin	tatoeba-test-v2021-08-07	0.64352	39.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.zip	10690	65122
+eng-fin	tatoeba-test-v2021-08-07	0.64351	39.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.zip	10690	65122

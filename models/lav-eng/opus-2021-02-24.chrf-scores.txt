@@ -1,9 +1,9 @@
-lav-eng	flores101-dev	0.601
-lav-eng	flores101-devtest	0.600
+lav-eng	flores101-dev	0.60088
+lav-eng	flores101-devtest	0.59994
 lav-eng	newsdev2017	0.59034
 lav-eng	newstest2017	0.527
-lav-eng	tatoeba-test-v2020-07-28	0.707
-lav-eng	tatoeba-test-v2021-03-30	0.707
-lav-eng	tatoeba-test-v2021-08-07	0.707
+lav-eng	tatoeba-test-v2020-07-28	0.70726
+lav-eng	tatoeba-test-v2021-03-30	0.70726
+lav-eng	tatoeba-test-v2021-08-07	0.70707
 ltg-eng	flores200-dev	0.32093
 ltg-eng	flores200-devtest	0.31367

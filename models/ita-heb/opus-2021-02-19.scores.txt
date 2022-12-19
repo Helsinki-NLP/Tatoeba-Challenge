@@ -1,5 +1,5 @@
 ita-heb	flores101-dev	0.432	13.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-heb/opus-2021-02-19.zip	997	19946
-ita-heb	flores101-devtest	0.435	13.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-heb/opus-2021-02-19.zip	1012	20749
+ita-heb	flores101-devtest	0.43487	13.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-heb/opus-2021-02-19.zip	1012	20749
 ita-heb	flores200-dev	0.43391	13.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-heb/opus-2021-02-19.zip	997	19417
 ita-heb	flores200-devtest	0.43751	13.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-heb/opus-2021-02-19.zip	1012	20238
 ita-heb	tatoeba-test-v2020-07-28	0.591	38.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-heb/opus-2021-02-19.zip	1706	9796

@@ -1,4 +1,4 @@
 cat-fin	flores101-dev	0.358	6.8	https://object.pouta.csc.fi/Tatoeba-MT-models/itc-fin/opus1m-2021-05-16.zip	997	17938
-cat-fin	flores101-devtest	0.352	6.3	https://object.pouta.csc.fi/Tatoeba-MT-models/itc-fin/opus1m-2021-05-16.zip	1012	18781
+cat-fin	flores101-devtest	0.3525	6.3	https://object.pouta.csc.fi/Tatoeba-MT-models/itc-fin/opus1m-2021-05-16.zip	1012	18781
 cat-fin	flores200-dev	0.35938	6.8	https://object.pouta.csc.fi/Tatoeba-MT-models/itc-fin/opus1m-2021-05-16.zip	997	17938
 cat-fin	flores200-devtest	0.35310	6.3	https://object.pouta.csc.fi/Tatoeba-MT-models/itc-fin/opus1m-2021-05-16.zip	1012	18781

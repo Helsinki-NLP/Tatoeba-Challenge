@@ -1,6 +1,9 @@
+fra-deu	euelections_dev2019	0.59429
 fra-deu	euelections_dev2019.fr-de	0.59429
 fra-deu	flores101-dev	0.59750
 fra-deu	flores101-devtest	0.60150
+fra-deu	flores200-dev	0.59748
+fra-deu	flores200-devtest	0.60159
 fra-deu	multi30k_test_2016_flickr	0.62790
 fra-deu	multi30k_test_2017_flickr	0.61277
 fra-deu	multi30k_test_2017_mscoco	0.55805

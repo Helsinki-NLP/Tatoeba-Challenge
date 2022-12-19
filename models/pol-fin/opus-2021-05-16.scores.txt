@@ -3,5 +3,5 @@ pol-fin	flores101-devtest	0.480	13.2	https://object.pouta.csc.fi/Tatoeba-MT-mode
 pol-fin	flores200-dev	0.47827	13.1	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-fin/opus-2021-05-16.zip	997	17938
 pol-fin	flores200-devtest	0.48104	13.3	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-fin/opus-2021-05-16.zip	1012	18781
 pol-fin	tatoeba-test-v2020-07-28	0.644	41.5	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-fin/opus-2021-05-16.zip	609	3293
-pol-fin	tatoeba-test-v2021-03-30	0.644	41.4	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-fin/opus-2021-05-16.zip	610	3299
-pol-fin	tatoeba-test-v2021-08-07	0.644	41.5	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-fin/opus-2021-05-16.zip	609	3293
+pol-fin	tatoeba-test-v2021-03-30	0.64388	41.4	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-fin/opus-2021-05-16.zip	610	3299
+pol-fin	tatoeba-test-v2021-08-07	0.64414	41.5	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-fin/opus-2021-05-16.zip	609	3293

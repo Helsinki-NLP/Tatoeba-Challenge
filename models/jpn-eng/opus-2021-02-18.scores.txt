@@ -1,8 +1,10 @@
-jpn-eng	flores101-dev	0.434	16.8	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	997	23555
-jpn-eng	flores101-devtest	0.424	15.3	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	1012	24721
-jpn-eng	newsdev2020	0.369	10.7	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	1998	51730
+jpn-eng	flores101-dev	0.43415	16.8	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	997	23555
+jpn-eng	flores101-devtest	0.42357	15.3	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	1012	24721
+jpn-eng	flores200-dev	0.4326	16.7	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	997	23555
+jpn-eng	flores200-devtest	0.42421	15.3	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	1012	24721
+jpn-eng	newsdev2020	0.36819	10.6	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	1998	51730
 jpn-eng	newstest2020	0.313	8.2	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	993	28283
-jpn-eng	newstest2021	0.303	8.3	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	1005	28731
+jpn-eng	newstest2021	0.30383	8.2	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	1005	28731
 jpn-eng	tatoeba-test-v2020-07-28	0.472	27.4	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	10000	89256
-jpn-eng	tatoeba-test-v2021-03-30	0.481	28.6	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	11957	105799
-jpn-eng	tatoeba-test-v2021-08-07	0.481	28.6	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	13862	123562
+jpn-eng	tatoeba-test-v2021-03-30	0.48098	28.6	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	11957	105799
+jpn-eng	tatoeba-test-v2021-08-07	0.48106	28.6	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-eng/opus-2021-02-18.zip	13862	123562

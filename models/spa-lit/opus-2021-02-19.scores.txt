@@ -2,6 +2,6 @@ spa-lit	flores101-dev	0.457	13.0	https://object.pouta.csc.fi/Tatoeba-MT-models/s
 spa-lit	flores101-devtest	0.470	14.2	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-lit/opus-2021-02-19.zip	1012	20695
 spa-lit	flores200-dev	0.45637	13.1	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-lit/opus-2021-02-19.zip	997	20018
 spa-lit	flores200-devtest	0.47022	14.2	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-lit/opus-2021-02-19.zip	1012	20695
-spa-lit	tatoeba-test-v2020-07-28	0.641	39.8	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-lit/opus-2021-02-19.zip	452	2341
-spa-lit	tatoeba-test-v2021-03-30	0.641	39.8	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-lit/opus-2021-02-19.zip	457	2364
+spa-lit	tatoeba-test-v2020-07-28	0.64067	39.8	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-lit/opus-2021-02-19.zip	452	2341
+spa-lit	tatoeba-test-v2021-03-30	0.64136	39.8	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-lit/opus-2021-02-19.zip	457	2364
 spa-lit	tatoeba-test-v2021-08-07	0.641	39.8	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-lit/opus-2021-02-19.zip	454	2352

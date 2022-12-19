@@ -1,8 +1,10 @@
-jpn-heb	flores101-dev	0.202
-jpn-heb	flores101-devtest	0.204
-jpn-heb	tatoeba-test-v2020-07-28	0.422
+jpn-heb	flores101-dev	0.20171
+jpn-heb	flores101-devtest	0.20377
+jpn-heb	flores200-dev	0.20286
+jpn-heb	flores200-devtest	0.20484
+jpn-heb	tatoeba-test-v2020-07-28	0.42163
 jpn-heb	tatoeba-test-v2021-03-30	0.418
-jpn-heb	tatoeba-test-v2021-08-07	0.422
-jpn_Hira-heb	tatoeba-test-v2020-07-28	0.410
-jpn_Hira-heb	tatoeba-test-v2021-03-30	0.406
-jpn_Hira-heb	tatoeba-test-v2021-08-07	0.410
+jpn-heb	tatoeba-test-v2021-08-07	0.42195
+jpn_Hira-heb	tatoeba-test-v2020-07-28	0.40978
+jpn_Hira-heb	tatoeba-test-v2021-03-30	0.40556
+jpn_Hira-heb	tatoeba-test-v2021-08-07	0.41011

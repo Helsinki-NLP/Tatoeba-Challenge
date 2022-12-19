@@ -1,11 +1,15 @@
 dan-fin	flores101-dev	20.7
 dan-fin	flores101-devtest	20.0
+dan-fin	flores200-dev	20.6
+dan-fin	flores200-devtest	20.0
 dan-fin	tatoeba-test-v2020-07-28	37.8
 dan-fin	tatoeba-test-v2021-03-30	37.8
 dan-fin	tatoeba-test-v2021-08-07	37.8
 swe-fin	fiskmo_testset	27.1
 swe-fin	flores101-dev	20.8
 swe-fin	flores101-devtest	20.8
+swe-fin	flores200-dev	20.8
+swe-fin	flores200-devtest	20.9
 swe-fin	tatoeba-test-v2020-07-28	44.1
 swe-fin	tatoeba-test-v2021-03-30	43.8
 swe-fin	tatoeba-test-v2021-08-07	43.6

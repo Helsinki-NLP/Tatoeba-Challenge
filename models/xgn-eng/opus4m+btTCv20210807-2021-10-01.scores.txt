@@ -1,8 +1,8 @@
-mon-eng	flores101-dev	0.423	13.9	https://object.pouta.csc.fi/Tatoeba-MT-models/xgn-eng/opus4m+btTCv20210807-2021-10-01.zip	997	23555
+mon-eng	flores101-dev	0.42304	13.9	https://object.pouta.csc.fi/Tatoeba-MT-models/xgn-eng/opus4m+btTCv20210807-2021-10-01.zip	997	23555
 mon-eng	flores101-devtest	0.426	13.8	https://object.pouta.csc.fi/Tatoeba-MT-models/xgn-eng/opus4m+btTCv20210807-2021-10-01.zip	1012	24721
-mon-eng	tatoeba-test-v2020-07-28	0.422	20.4	https://object.pouta.csc.fi/Tatoeba-MT-models/xgn-eng/opus4m+btTCv20210807-2021-10-01.zip	337	2693
-mon-eng	tatoeba-test-v2021-03-30	0.429	20.9	https://object.pouta.csc.fi/Tatoeba-MT-models/xgn-eng/opus4m+btTCv20210807-2021-10-01.zip	396	3170
+mon-eng	tatoeba-test-v2020-07-28	0.42183	20.4	https://object.pouta.csc.fi/Tatoeba-MT-models/xgn-eng/opus4m+btTCv20210807-2021-10-01.zip	337	2693
+mon-eng	tatoeba-test-v2021-03-30	0.4286	20.9	https://object.pouta.csc.fi/Tatoeba-MT-models/xgn-eng/opus4m+btTCv20210807-2021-10-01.zip	396	3170
 mon-eng	tatoeba-test-v2021-08-07	0.432	21.7	https://object.pouta.csc.fi/Tatoeba-MT-models/xgn-eng/opus4m+btTCv20210807-2021-10-01.zip	415	3334
 xal-eng	tatoeba-test-v2020-07-28	0.141	1.0	https://object.pouta.csc.fi/Tatoeba-MT-models/xgn-eng/opus4m+btTCv20210807-2021-10-01.zip	281	2055
 xal-eng	tatoeba-test-v2021-03-30	0.140	1.0	https://object.pouta.csc.fi/Tatoeba-MT-models/xgn-eng/opus4m+btTCv20210807-2021-10-01.zip	282	2065
-xal-eng	tatoeba-test-v2021-08-07	0.141	1.0	https://object.pouta.csc.fi/Tatoeba-MT-models/xgn-eng/opus4m+btTCv20210807-2021-10-01.zip	281	2055
+xal-eng	tatoeba-test-v2021-08-07	0.14062	1.0	https://object.pouta.csc.fi/Tatoeba-MT-models/xgn-eng/opus4m+btTCv20210807-2021-10-01.zip	281	2055

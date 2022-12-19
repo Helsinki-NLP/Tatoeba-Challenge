@@ -3,5 +3,5 @@ afr-spa	flores101-devtest	0.451	16.3	https://object.pouta.csc.fi/Tatoeba-MT-mode
 afr-spa	flores200-dev	0.44725	16.5	https://object.pouta.csc.fi/Tatoeba-MT-models/afr-spa/opus-2021-02-19.zip	997	27793
 afr-spa	flores200-devtest	0.45223	16.2	https://object.pouta.csc.fi/Tatoeba-MT-models/afr-spa/opus-2021-02-19.zip	1012	29199
 afr-spa	tatoeba-test-v2020-07-28	0.676	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/afr-spa/opus-2021-02-19.zip	448	2783
-afr-spa	tatoeba-test-v2021-03-30	0.676	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/afr-spa/opus-2021-02-19.zip	450	2795
-afr-spa	tatoeba-test-v2021-08-07	0.676	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/afr-spa/opus-2021-02-19.zip	448	2783
+afr-spa	tatoeba-test-v2021-03-30	0.6763	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/afr-spa/opus-2021-02-19.zip	450	2795
+afr-spa	tatoeba-test-v2021-08-07	0.67644	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/afr-spa/opus-2021-02-19.zip	448	2783

@@ -1,7 +1,7 @@
-pol-ces	flores101-dev	0.469	18.9	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ces/opus-2021-02-18.zip	997	21183
-pol-ces	flores101-devtest	0.472	19.2	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ces/opus-2021-02-18.zip	1012	22101
+pol-ces	flores101-dev	0.46868	18.9	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ces/opus-2021-02-18.zip	997	21183
+pol-ces	flores101-devtest	0.47189	19.2	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ces/opus-2021-02-18.zip	1012	22101
 pol-ces	flores200-dev	0.46888	18.9	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ces/opus-2021-02-18.zip	997	21183
 pol-ces	flores200-devtest	0.47165	19.2	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ces/opus-2021-02-18.zip	1012	22101
-pol-ces	tatoeba-test-v2020-07-28	0.657	47.3	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ces/opus-2021-02-18.zip	561	3349
-pol-ces	tatoeba-test-v2021-03-30	0.656	47.2	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ces/opus-2021-02-18.zip	572	3427
-pol-ces	tatoeba-test-v2021-08-07	0.656	47.3	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ces/opus-2021-02-18.zip	568	3388
+pol-ces	tatoeba-test-v2020-07-28	0.65653	47.3	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ces/opus-2021-02-18.zip	561	3349
+pol-ces	tatoeba-test-v2021-03-30	0.65615	47.2	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ces/opus-2021-02-18.zip	572	3427
+pol-ces	tatoeba-test-v2021-08-07	0.65619	47.3	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-ces/opus-2021-02-18.zip	568	3388

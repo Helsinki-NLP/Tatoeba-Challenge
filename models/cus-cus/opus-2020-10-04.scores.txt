@@ -1,10 +1,10 @@
 eng-som	flores101-dev	0.256	1.1	https://object.pouta.csc.fi/Tatoeba-MT-models/cus-cus/opus-2020-10-04.zip	997	24504
-eng-som	flores101-devtest	0.255	0.9	https://object.pouta.csc.fi/Tatoeba-MT-models/cus-cus/opus-2020-10-04.zip	1012	25991
+eng-som	flores101-devtest	0.25466	0.9	https://object.pouta.csc.fi/Tatoeba-MT-models/cus-cus/opus-2020-10-04.zip	1012	25991
 eng-som	flores200-dev	0.25775	1.1	https://object.pouta.csc.fi/Tatoeba-MT-models/cus-cus/opus-2020-10-04.zip	997	24504
 eng-som	flores200-devtest	0.25300	0.9	https://object.pouta.csc.fi/Tatoeba-MT-models/cus-cus/opus-2020-10-04.zip	1012	25991
-eng-som	tico19-test	0.199	0.6	https://object.pouta.csc.fi/Tatoeba-MT-models/cus-cus/opus-2020-10-04.zip	2100	63654
+eng-som	tico19-test	0.19895	0.6	https://object.pouta.csc.fi/Tatoeba-MT-models/cus-cus/opus-2020-10-04.zip	2100	63654
 som-eng	flores101-dev	0.250	3.1	https://object.pouta.csc.fi/Tatoeba-MT-models/cus-cus/opus-2020-10-04.zip	997	23555
-som-eng	flores101-devtest	0.249	2.7	https://object.pouta.csc.fi/Tatoeba-MT-models/cus-cus/opus-2020-10-04.zip	1012	24721
+som-eng	flores101-devtest	0.24861	2.7	https://object.pouta.csc.fi/Tatoeba-MT-models/cus-cus/opus-2020-10-04.zip	1012	24721
 som-eng	flores200-dev	0.24966	3.1	https://object.pouta.csc.fi/Tatoeba-MT-models/cus-cus/opus-2020-10-04.zip	997	23555
 som-eng	flores200-devtest	0.24904	2.7	https://object.pouta.csc.fi/Tatoeba-MT-models/cus-cus/opus-2020-10-04.zip	1012	24721
 som-eng	tico19-test	0.191	1.2	https://object.pouta.csc.fi/Tatoeba-MT-models/cus-cus/opus-2020-10-04.zip	2100	56315

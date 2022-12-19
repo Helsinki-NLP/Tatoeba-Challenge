@@ -6,9 +6,15 @@ hbs-eng	tatoeba-test-v2021-03-30	0.71727	56.4	https://object.pouta.csc.fi/Tatoeb
 hbs-eng	tatoeba-test-v2021-08-07	0.71744	56.4	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	10017	68934
 hrv-eng	flores101-dev	0.64056	36.9	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	997	23555
 hrv-eng	flores101-devtest	0.63948	37.1	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	1012	24721
+hrv-eng	flores200-dev	0.64057	37.0	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	997	23555
+hrv-eng	flores200-devtest	0.63949	37.1	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	1012	24721
 hrv-eng	tatoeba-test-v2020-07-28	0.73475	58.7	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	1468	10556
 hrv-eng	tatoeba-test-v2021-03-30	0.73469	58.7	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	1469	10562
 hrv-eng	tatoeba-test-v2021-08-07	0.73563	58.8	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	1480	10620
+srp_Cyrl-eng	flores101-dev	0.68035	36.3	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	997	23555
+srp_Cyrl-eng	flores101-devtest	0.67487	35.9	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	1012	24721
+srp_Cyrl-eng	flores200-dev	0.68035	36.3	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	997	23555
+srp_Cyrl-eng	flores200-devtest	0.67487	35.9	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	1012	24721
 srp_Cyrl-eng	tatoeba-test-v2020-07-28	0.68232	44.7	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	1577	10163
 srp_Cyrl-eng	tatoeba-test-v2021-03-30	0.68232	44.7	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	1577	10163
 srp_Cyrl-eng	tatoeba-test-v2021-08-07	0.68248	44.7	https://object.pouta.csc.fi/Tatoeba-MT-models/hbs-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	1580	10181

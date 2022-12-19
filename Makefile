@@ -505,7 +505,15 @@ upload-models:
 	fi
 	find ${MODEL_RELEASEDIR}/ -type l | tar -cf models-links.tar -T -
 	-find ${MODEL_RELEASEDIR}/ -type l -delete
-	-cd ${MODEL_RELEASEDIR} && swift upload ${MODEL_CONTAINER} --changed --skip-identical ${RELEASED_MODELS}
+	-if `find ${MODEL_RELEASEDIR} -mindepth 2 -type d | wc -l` -gt 0 ]; then \
+	  echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"; \
+	  echo "There are sub-directories in ${MODEL_RELEASEDIR}/*/"; \
+	  echo "Please, check carefully and cleanup the release directory"; \
+	  echo "I will skip uploading modeling models now!"; \
+	  echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"; \
+	else \
+	  cd ${MODEL_RELEASEDIR} && swift upload ${MODEL_CONTAINER} --changed --skip-identical ${RELEASED_MODELS}; \
+	fi
 	tar -xf models-links.tar
 	rm -f models-links.tar
 	swift post ${MODEL_CONTAINER} --read-acl ".r:*"
@@ -515,6 +523,48 @@ upload-models:
 	for m in ${RELEASED_MODELS}; do \
 	  rm -f ${MODEL_RELEASEDIR}/$$m/*.zip; \
 	done
+
+
+
+## list model-specific evaluation sub-directories
+## (those should be packed into zip files before uploading things!)
+
+.PHONY: find-model-evaluation-subdirs
+find-model-evaluation-subdirs:
+	find ${MODEL_RELEASEDIR} -mindepth 2 -type d
+
+
+## pack evaluation files into zip files
+## if those model-specific subdirs still exist
+
+.PHONY: pack-model-evaluation-subdirs
+pack-model-evaluation-subdirs:
+	( o=`pwd`; \
+	  for m in `find ${MODEL_RELEASEDIR} -mindepth 2 -type d`; do \
+	    if [ ! -e $$m.eval.zip ]; then \
+	      cd $$m; \
+	      zip $$o/$$m.eval.zip *.*; \
+	      cd $$o; \
+	      rm -fr $$m; \
+	    fi \
+	  done )
+
+
+## make swift commands to delete erroneous files that have been uploaded
+## dangerous - be careful what you do with those!
+
+.PHONY: delete-model-evaluation-subdirs
+delete-model-evaluation-subdirs:
+	@which a-put > /dev/null
+	@swift list ${MODEL_CONTAINER} |\
+	grep '.*/.*/.*' | grep -v '^spm/' |\
+	sed 's#^#swift delete ${MODEL_CONTAINER} #'
+
+#	@find ${MODEL_RELEASEDIR} -mindepth 2 -type d -exec find {} -type f \; |\
+#	sed 's#^${MODEL_RELEASEDIR}/#swift delete ${MODEL_CONTAINER} #'
+
+
+
 
 .PHONY: upload-model-index
 upload-model-index:

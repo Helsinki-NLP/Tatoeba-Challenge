@@ -1,10 +1,14 @@
 afr-eng	flores101-dev	49.3
 afr-eng	flores101-devtest	49.4
+afr-eng	flores200-dev	49.3
+afr-eng	flores200-devtest	49.4
 afr-eng	tatoeba-test-v2020-07-28	60.9
 afr-eng	tatoeba-test-v2021-03-30	60.9
 afr-eng	tatoeba-test-v2021-08-07	60.9
 deu-eng	flores101-dev	36.6
 deu-eng	flores101-devtest	36.2
+deu-eng	flores200-dev	36.6
+deu-eng	flores200-devtest	36.1
 deu-eng	multi30k_task2_test_2016	3.5
 deu-eng	multi30k_test_2016_flickr	34.9
 deu-eng	multi30k_test_2017_flickr	35.9
@@ -17,8 +21,8 @@ deu-eng	newstest2010	27.3
 deu-eng	newstest2011	24.5
 deu-eng	newstest2012	25.8
 deu-eng	newstest2013	28.8
-deu-eng	newstest2014	29.2
-deu-eng	newstest2015	30.5
+deu-eng	newstest2014	29.3
+deu-eng	newstest2015	30.6
 deu-eng	newstest2016	35.4
 deu-eng	newstest2017	31.3
 deu-eng	newstest2018	38.4
@@ -37,8 +41,10 @@ gos-eng	tatoeba-test-v2021-08-07	13.1
 gsw-eng	tatoeba-test-v2020-07-28	13.6
 gsw-eng	tatoeba-test-v2021-03-30	13.4
 gsw-eng	tatoeba-test-v2021-08-07	13.6
-ltz-eng	flores101-dev	17.8
-ltz-eng	flores101-devtest	16.5
+ltz-eng	flores101-dev	17.9
+ltz-eng	flores101-devtest	16.6
+ltz-eng	flores200-dev	17.8
+ltz-eng	flores200-devtest	16.8
 ltz-eng	tatoeba-test-v2020-07-28	27.1
 ltz-eng	tatoeba-test-v2021-03-30	27.7
 ltz-eng	tatoeba-test-v2021-08-07	27.9
@@ -47,6 +53,8 @@ nds-eng	tatoeba-test-v2021-03-30	29.7
 nds-eng	tatoeba-test-v2021-08-07	29.7
 nld-eng	flores101-dev	26.6
 nld-eng	flores101-devtest	27.1
+nld-eng	flores200-dev	26.7
+nld-eng	flores200-devtest	27.1
 nld-eng	tatoeba-test-v2020-07-28	56.9
 nld-eng	tatoeba-test-v2021-03-30	55.9
 nld-eng	tatoeba-test-v2021-08-07	55.6

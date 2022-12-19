@@ -1,9 +1,9 @@
-ita-eng	flores101-dev	0.608	30.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	997	23555
-ita-eng	flores101-devtest	0.603	30.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	1012	24721
+ita-eng	flores101-dev	0.60797	30.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	997	23555
+ita-eng	flores101-devtest	0.60305	30.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	1012	24721
 ita-eng	flores200-dev	0.60836	30.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	997	23555
 ita-eng	flores200-devtest	0.60309	30.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	1012	24721
-ita-eng	newssyscomb2009	0.598	34.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	502	11818
-ita-eng	newstest2009	0.593	33.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	2525	65399
-ita-eng	tatoeba-test-v2020-07-28	0.796	68.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	10000	67385
-ita-eng	tatoeba-test-v2021-03-30	0.799	68.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	13443	92322
-ita-eng	tatoeba-test-v2021-08-07	0.807	69.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	17320	119214
+ita-eng	newssyscomb2009	0.59822	34.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	502	11818
+ita-eng	newstest2009	0.59306	33.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	2525	65399
+ita-eng	tatoeba-test-v2020-07-28	0.79627	68.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	10000	67385
+ita-eng	tatoeba-test-v2021-03-30	0.79868	68.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	13443	92322
+ita-eng	tatoeba-test-v2021-08-07	0.8075	69.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-eng/opus+bt-2021-04-30.zip	17320	119214

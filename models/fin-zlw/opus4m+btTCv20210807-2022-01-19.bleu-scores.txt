@@ -1,7 +1,11 @@
 fin-ces	flores101-dev	19.9
 fin-ces	flores101-devtest	18.5
+fin-ces	flores200-dev	19.9
+fin-ces	flores200-devtest	18.5
 fin-pol	flores101-dev	14.8
 fin-pol	flores101-devtest	14.0
+fin-pol	flores200-dev	14.8
+fin-pol	flores200-devtest	14.1
 fin-pol	tatoeba-test-v2020-07-28	45.4
 fin-pol	tatoeba-test-v2021-03-30	45.4
 fin-pol	tatoeba-test-v2021-08-07	45.4

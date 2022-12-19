@@ -1,2 +1,4 @@
 ukr-fin	flores101-dev	0.53196	18.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-fin/opusTCv20210807+pft_transformer-align_2022-03-07.zip	997	17938
 ukr-fin	flores101-devtest	0.54119	18.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-fin/opusTCv20210807+pft_transformer-align_2022-03-07.zip	1012	18781
+ukr-fin	flores200-dev	0.5316	18.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-fin/opusTCv20210807+pft_transformer-align_2022-03-07.zip	997	17938
+ukr-fin	flores200-devtest	0.54116	18.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-fin/opusTCv20210807+pft_transformer-align_2022-03-07.zip	1012	18781

@@ -1,9 +1,11 @@
 tur-eng	flores101-dev	32.3
 tur-eng	flores101-devtest	31.3
+tur-eng	flores200-dev	32.2
+tur-eng	flores200-devtest	31.4
 tur-eng	newsdev2016	27.6
 tur-eng	newstest2016	23.9
 tur-eng	newstest2017	24.7
-tur-eng	newstest2018	26.4
+tur-eng	newstest2018	26.5
 tur-eng	tatoeba-test-v2020-07-28	58.5
 tur-eng	tatoeba-test-v2021-03-30	57.3
 tur-eng	tatoeba-test-v2021-08-07	55.9

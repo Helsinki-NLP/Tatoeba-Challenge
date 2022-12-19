@@ -1,5 +1,7 @@
-vie-ita	flores101-dev	0.432	14.1	https://object.pouta.csc.fi/Tatoeba-MT-models/vie-ita/opus-2021-02-18.zip	997	25840
+vie-ita	flores101-dev	0.43198	14.1	https://object.pouta.csc.fi/Tatoeba-MT-models/vie-ita/opus-2021-02-18.zip	997	25840
 vie-ita	flores101-devtest	0.430	13.9	https://object.pouta.csc.fi/Tatoeba-MT-models/vie-ita/opus-2021-02-18.zip	1012	27306
+vie-ita	flores200-dev	0.43232	14.1	https://object.pouta.csc.fi/Tatoeba-MT-models/vie-ita/opus-2021-02-18.zip	997	25840
+vie-ita	flores200-devtest	0.43058	13.8	https://object.pouta.csc.fi/Tatoeba-MT-models/vie-ita/opus-2021-02-18.zip	1012	27306
 vie-ita	tatoeba-test-v2020-07-28	0.546	31.5	https://object.pouta.csc.fi/Tatoeba-MT-models/vie-ita/opus-2021-02-18.zip	250	1774
-vie-ita	tatoeba-test-v2021-03-30	0.548	31.7	https://object.pouta.csc.fi/Tatoeba-MT-models/vie-ita/opus-2021-02-18.zip	251	1783
+vie-ita	tatoeba-test-v2021-03-30	0.5479	31.7	https://object.pouta.csc.fi/Tatoeba-MT-models/vie-ita/opus-2021-02-18.zip	251	1783
 vie-ita	tatoeba-test-v2021-08-07	0.546	31.5	https://object.pouta.csc.fi/Tatoeba-MT-models/vie-ita/opus-2021-02-18.zip	250	1774

@@ -1,5 +1,7 @@
 ces-deu	flores101-dev	0.57317	28.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	997	24097
 ces-deu	flores101-devtest	0.58445	29.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	1012	25094
+ces-deu	flores200-dev	0.57314	28.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	997	24097
+ces-deu	flores200-devtest	0.58449	29.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	1012	25094
 ces-deu	multi30k_test_2016_flickr	0.58970	30.0	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	1000	12106
 ces-deu	multi30k_test_2018_flickr	0.54423	25.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	1071	13703
 ces-deu	newssyscomb2009	0.54383	24.8	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	502	11271
@@ -19,4 +21,6 @@ hsb-deu	tatoeba-test-v2021-03-30	0.59697	40.2	https://object.pouta.csc.fi/Tatoeb
 hsb-deu	tatoeba-test-v2021-08-07	0.59196	40.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	666	4818
 pol-deu	flores101-dev	0.52539	22.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	997	24097
 pol-deu	flores101-devtest	0.53239	22.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	1012	25094
+pol-deu	flores200-dev	0.52542	22.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	997	24097
+pol-deu	flores200-devtest	0.53257	22.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	1012	25094
 pol-deu	tatoeba-test-v2021-08-07	0.68539	50.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zlw-deu/opusTCv20210807_transformer-big_2022-06-24.zip	5000	37421

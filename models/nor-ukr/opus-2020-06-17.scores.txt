@@ -1,7 +1,7 @@
-nob-ukr	flores101-dev	0.253	3.8	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2020-06-17.zip	997	21841
+nob-ukr	flores101-dev	0.2528	3.8	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2020-06-17.zip	997	21841
 nob-ukr	flores101-devtest	0.251	3.9	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2020-06-17.zip	1012	22810
 nob-ukr	flores200-dev	0.25221	3.8	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2020-06-17.zip	997	21841
 nob-ukr	flores200-devtest	0.25212	3.9	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2020-06-17.zip	1012	22810
 nor-ukr	tatoeba-test-v2020-07-28	0.383	16.6	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2020-06-17.zip	670	3982
-nor-ukr	tatoeba-test-v2021-03-30	0.383	16.6	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2020-06-17.zip	671	3987
-nor-ukr	tatoeba-test-v2021-08-07	0.383	16.6	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2020-06-17.zip	670	3982
+nor-ukr	tatoeba-test-v2021-03-30	0.38292	16.6	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2020-06-17.zip	671	3987
+nor-ukr	tatoeba-test-v2021-08-07	0.38289	16.6	https://object.pouta.csc.fi/Tatoeba-MT-models/nor-ukr/opus-2020-06-17.zip	670	3982

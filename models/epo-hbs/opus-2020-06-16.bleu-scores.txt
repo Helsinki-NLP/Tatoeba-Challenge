@@ -1,9 +1,13 @@
 epo-hbs	tatoeba-test-v2020-07-28	13.4
 epo-hbs	tatoeba-test-v2021-03-30	13.4
 epo-hbs	tatoeba-test-v2021-08-07	13.4
+epo-hrv	flores200-dev	4.4
+epo-hrv	flores200-devtest	4.7
 epo-hrv	tatoeba-test-v2020-07-28	18.1
 epo-hrv	tatoeba-test-v2021-03-30	18.1
 epo-hrv	tatoeba-test-v2021-08-07	18.1
+epo-srp_Cyrl	flores200-dev	3.7
+epo-srp_Cyrl	flores200-devtest	3.3
 epo-srp_Cyrl	tatoeba-test-v2020-07-28	10.8
 epo-srp_Cyrl	tatoeba-test-v2021-03-30	10.8
 epo-srp_Cyrl	tatoeba-test-v2021-08-07	10.8

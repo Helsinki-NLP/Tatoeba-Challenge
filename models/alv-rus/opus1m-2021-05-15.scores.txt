@@ -1,5 +1,5 @@
-ful-rus	flores101-dev	0.101	0.4	https://object.pouta.csc.fi/Tatoeba-MT-models/alv-rus/opus1m-2021-05-15.zip	997	22657
-ful-rus	flores101-devtest	0.100	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/alv-rus/opus1m-2021-05-15.zip	1012	23295
+ful-rus	flores101-dev	0.10086	0.4	https://object.pouta.csc.fi/Tatoeba-MT-models/alv-rus/opus1m-2021-05-15.zip	997	22657
+ful-rus	flores101-devtest	0.09975	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/alv-rus/opus1m-2021-05-15.zip	1012	23295
 run-rus	flores200-dev	0.22102	3.6	https://object.pouta.csc.fi/Tatoeba-MT-models/alv-rus/opus1m-2021-05-15.zip	997	22657
 run-rus	flores200-devtest	0.21797	3.2	https://object.pouta.csc.fi/Tatoeba-MT-models/alv-rus/opus1m-2021-05-15.zip	1012	23295
 run-rus	tatoeba-test-v2020-07-28	0.314	16.5	https://object.pouta.csc.fi/Tatoeba-MT-models/alv-rus/opus1m-2021-05-15.zip	1251	6635

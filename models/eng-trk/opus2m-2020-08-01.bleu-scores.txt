@@ -1,6 +1,10 @@
+eng-bak	flores200-dev	2.2
+eng-bak	flores200-devtest	2.2
 eng-chv	tatoeba-test-v2020-07-28	4.3
 eng-chv	tatoeba-test-v2021-03-30	4.6
 eng-chv	tatoeba-test-v2021-08-07	4.6
+eng-crh	flores200-dev	1.8
+eng-crh	flores200-devtest	1.7
 eng-kaz_Cyrl	tatoeba-test-v2020-07-28	11.0
 eng-kaz_Cyrl	tatoeba-test-v2021-03-30	11.1
 eng-kaz_Cyrl	tatoeba-test-v2021-08-07	11.2
@@ -10,9 +14,13 @@ eng-ota_Arab	tatoeba-test-v2021-08-07	0.2
 eng-ota_Latn	tatoeba-test-v2020-07-28	0.7
 eng-ota_Latn	tatoeba-test-v2021-03-30	0.7
 eng-ota_Latn	tatoeba-test-v2021-08-07	0.7
+eng-tat	flores200-dev	5.0
+eng-tat	flores200-devtest	5.2
 eng-tat	tatoeba-test-v2020-07-28	9.8
 eng-tat	tatoeba-test-v2021-03-30	9.8
 eng-tat	tatoeba-test-v2021-08-07	9.8
+eng-tuk	flores200-dev	4.0
+eng-tuk	flores200-devtest	3.7
 eng-tuk_Latn	tatoeba-test-v2020-07-28	5.9
 eng-tuk_Latn	tatoeba-test-v2021-03-30	5.9
 eng-tuk_Latn	tatoeba-test-v2021-08-07	5.9
@@ -21,6 +29,8 @@ eng-tuk	tatoeba-test-v2021-03-30	5.9
 eng-tuk	tatoeba-test-v2021-08-07	5.9
 eng-tur	flores101-dev	9.9
 eng-tur	flores101-devtest	9.9
+eng-tur	flores200-dev	9.8
+eng-tur	flores200-devtest	9.9
 eng-tur	newsdev2016	9.6
 eng-tur	newstest2016	9.1
 eng-tur	newstest2017	8.8

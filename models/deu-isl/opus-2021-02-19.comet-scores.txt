@@ -12,3 +12,10 @@ deu-isl	flores200-devtest	0.1896
 deu-isl	tatoeba-test-v2020-07-28	-0.0245
 deu-isl	tatoeba-test-v2021-03-30	-0.0216
 deu-isl	tatoeba-test-v2021-08-07	-0.0241
+deu-isl	flores101-dev	0.1712
+deu-isl	flores101-devtest	0.1905
+deu-isl	flores200-dev	0.1645
+deu-isl	flores200-devtest	0.1896
+deu-isl	tatoeba-test-v2020-07-28	-0.0245
+deu-isl	tatoeba-test-v2021-03-30	-0.0216
+deu-isl	tatoeba-test-v2021-08-07	-0.0241

@@ -1,7 +1,7 @@
-eng-mal	flores101-dev	0.337	4.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.zip	997	17186
-eng-mal	flores101-devtest	0.335	4.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.zip	1012	18020
+eng-mal	flores101-dev	0.33699	4.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.zip	997	17186
+eng-mal	flores101-devtest	0.33521	4.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.zip	1012	18020
 eng-mal	flores200-dev	0.33875	4.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.zip	997	17186
 eng-mal	flores200-devtest	0.33558	4.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.zip	1012	18020
 eng-mal	tatoeba-test-v2020-07-28	0.502	12.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.zip	802	4265
-eng-mal	tatoeba-test-v2021-03-30	0.502	12.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.zip	803	4274
-eng-mal	tatoeba-test-v2021-08-07	0.502	12.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.zip	802	4265
+eng-mal	tatoeba-test-v2021-03-30	0.50153	12.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.zip	803	4274
+eng-mal	tatoeba-test-v2021-08-07	0.50198	12.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus+bt-2021-03-12.zip	802	4265

@@ -1,7 +1,7 @@
-deu-bul	flores101-dev	0.564	28.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bul/opus-2021-02-18.zip	997	23520
-deu-bul	flores101-devtest	0.568	28.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bul/opus-2021-02-18.zip	1012	24700
+deu-bul	flores101-dev	0.56372	28.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bul/opus-2021-02-18.zip	997	23520
+deu-bul	flores101-devtest	0.56762	28.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bul/opus-2021-02-18.zip	1012	24700
 deu-bul	flores200-dev	0.56472	28.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bul/opus-2021-02-18.zip	997	23520
 deu-bul	flores200-devtest	0.56814	28.2	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bul/opus-2021-02-18.zip	1012	24700
-deu-bul	tatoeba-test-v2020-07-28	0.683	50.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bul/opus-2021-02-18.zip	313	2032
-deu-bul	tatoeba-test-v2021-03-30	0.684	50.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bul/opus-2021-02-18.zip	315	2045
+deu-bul	tatoeba-test-v2020-07-28	0.68349	50.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bul/opus-2021-02-18.zip	313	2032
+deu-bul	tatoeba-test-v2021-03-30	0.68385	50.1	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bul/opus-2021-02-18.zip	315	2045
 deu-bul	tatoeba-test-v2021-08-07	0.684	50.2	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-bul/opus-2021-02-18.zip	314	2036

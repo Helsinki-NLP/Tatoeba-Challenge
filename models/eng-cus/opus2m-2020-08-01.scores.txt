@@ -1,5 +1,5 @@
-eng-som	flores101-dev	0.212	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cus/opus2m-2020-08-01.zip	997	24504
-eng-som	flores101-devtest	0.208	0.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cus/opus2m-2020-08-01.zip	1012	25991
+eng-som	flores101-dev	0.21174	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cus/opus2m-2020-08-01.zip	997	24504
+eng-som	flores101-devtest	0.20758	0.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cus/opus2m-2020-08-01.zip	1012	25991
 eng-som	flores200-dev	0.21201	0.3	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cus/opus2m-2020-08-01.zip	997	24504
 eng-som	flores200-devtest	0.20789	0.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cus/opus2m-2020-08-01.zip	1012	25991
 eng-som	tico19-test	0.161	0.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-cus/opus2m-2020-08-01.zip	2100	63654

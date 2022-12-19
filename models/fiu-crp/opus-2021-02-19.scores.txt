@@ -1,4 +1,8 @@
-fin-ind	flores101-dev	0.439	13.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-crp/opus-2021-02-19.zip	997	21814
-fin-ind	flores101-devtest	0.439	13.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-crp/opus-2021-02-19.zip	1012	22755
-hun-ind	flores101-dev	0.438	13.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-crp/opus-2021-02-19.zip	997	21814
-hun-ind	flores101-devtest	0.444	14.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-crp/opus-2021-02-19.zip	1012	22755
+fin-ind	flores101-dev	0.43879	13.2	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-crp/opus-2021-02-19.zip	997	21814
+fin-ind	flores101-devtest	0.43894	13.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-crp/opus-2021-02-19.zip	1012	22755
+fin-ind	flores200-dev	0.44024	13.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-crp/opus-2021-02-19.zip	997	21814
+fin-ind	flores200-devtest	0.43864	13.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-crp/opus-2021-02-19.zip	1012	22755
+hun-ind	flores101-dev	0.43775	13.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-crp/opus-2021-02-19.zip	997	21814
+hun-ind	flores101-devtest	0.44363	14.0	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-crp/opus-2021-02-19.zip	1012	22755
+hun-ind	flores200-dev	0.43765	13.7	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-crp/opus-2021-02-19.zip	997	21814
+hun-ind	flores200-devtest	0.4424	13.9	https://object.pouta.csc.fi/Tatoeba-MT-models/fiu-crp/opus-2021-02-19.zip	1012	22755

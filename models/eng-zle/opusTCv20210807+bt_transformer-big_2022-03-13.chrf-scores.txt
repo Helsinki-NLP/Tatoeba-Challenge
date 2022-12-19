@@ -1,10 +1,14 @@
 eng-bel	flores101-dev	0.40686
 eng-bel	flores101-devtest	0.42078
+eng-bel	flores200-dev	0.4068
+eng-bel	flores200-devtest	0.42082
 eng-bel	tatoeba-test-v2020-07-28	0.50348
 eng-bel	tatoeba-test-v2021-03-30	0.50348
 eng-bel	tatoeba-test-v2021-08-07	0.50345
 eng-rus	flores101-dev	0.59726
 eng-rus	flores101-devtest	0.59654
+eng-rus	flores200-dev	0.59737
+eng-rus	flores200-devtest	0.59664
 eng-rus	newstest2012	0.62842
 eng-rus	newstest2013	0.54627
 eng-rus	newstest2014	0.68348
@@ -20,6 +24,8 @@ eng-rus	tatoeba-test-v2021-08-07	0.66182
 eng-rus	tico19-test	0.59314
 eng-ukr	flores101-dev	0.59100
 eng-ukr	flores101-devtest	0.60131
+eng-ukr	flores200-dev	0.59105
+eng-ukr	flores200-devtest	0.60142
 eng-ukr	tatoeba-test-v2020-07-28	0.59540
 eng-ukr	tatoeba-test-v2021-03-30	0.60091
 eng-ukr	tatoeba-test-v2021-08-07	0.60175

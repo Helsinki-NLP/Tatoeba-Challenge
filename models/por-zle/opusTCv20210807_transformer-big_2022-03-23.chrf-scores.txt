@@ -1,8 +1,14 @@
 por-bel	flores101-dev	0.38682
 por-bel	flores101-devtest	0.38975
+por-bel	flores200-dev	0.3867
+por-bel	flores200-devtest	0.38972
 por-rus	flores101-dev	0.54531
 por-rus	flores101-devtest	0.54675
+por-rus	flores200-dev	0.54525
+por-rus	flores200-devtest	0.54672
 por-rus	tatoeba-test-v2021-08-07	0.67980
 por-ukr	flores101-dev	0.52582
 por-ukr	flores101-devtest	0.53690
+por-ukr	flores200-dev	0.52583
+por-ukr	flores200-devtest	0.53695
 por-ukr	tatoeba-test-v2021-08-07	0.65867

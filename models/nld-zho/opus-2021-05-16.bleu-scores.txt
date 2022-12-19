@@ -1,7 +1,11 @@
 nld-cmn_Hans	flores101-dev	0.3
 nld-cmn_Hans	flores101-devtest	0.3
+nld-cmn_Hans	flores200-dev	0.3
+nld-cmn_Hans	flores200-devtest	0.3
 nld-cmn_Hant	flores101-dev	0.2
 nld-cmn_Hant	flores101-devtest	0.3
+nld-cmn_Hant	flores200-dev	0.2
+nld-cmn_Hant	flores200-devtest	0.3
 nld-cmn_Hant	tatoeba-test-v2020-07-28	4.2
 nld-cmn_Hant	tatoeba-test-v2021-03-30	4.2
 nld-cmn_Hant	tatoeba-test-v2021-08-07	3.9

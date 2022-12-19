@@ -222,7 +222,7 @@ eng-fin	flores101-dev	8.1
 eng-fin	flores101-devtest	7.5
 eng-fin	flores200-dev	8.1
 eng-fin	flores200-devtest	7.4
-eng-fin	newsdev2015	8.8
+eng-fin	newsdev2015	8.7
 eng-fin	newstest2015	9.8
 eng-fin	newstest2016	10.8
 eng-fin	newstest2017	11.2
@@ -488,7 +488,7 @@ eng-lmo	flores200-dev	2.3
 eng-lmo	flores200-devtest	2.2
 eng-ltg	flores200-dev	3.0
 eng-ltg	flores200-devtest	2.5
-eng-ltz	flores101-dev	6.8
+eng-ltz	flores101-dev	6.9
 eng-ltz	flores101-devtest	6.1
 eng-ltz	flores200-dev	6.7
 eng-ltz	flores200-devtest	6.0

@@ -1,2 +1,4 @@
-yor-eng	flores101-dev	0.254	4.8	https://object.pouta.csc.fi/Tatoeba-MT-models/yor-eng/opus-2021-02-19.zip	997	23555
-yor-eng	flores101-devtest	0.248	4.7	https://object.pouta.csc.fi/Tatoeba-MT-models/yor-eng/opus-2021-02-19.zip	1012	24721
+yor-eng	flores101-dev	0.25398	4.8	https://object.pouta.csc.fi/Tatoeba-MT-models/yor-eng/opus-2021-02-19.zip	997	23555
+yor-eng	flores101-devtest	0.24835	4.7	https://object.pouta.csc.fi/Tatoeba-MT-models/yor-eng/opus-2021-02-19.zip	1012	24721
+yor-eng	flores200-dev	0.25483	4.9	https://object.pouta.csc.fi/Tatoeba-MT-models/yor-eng/opus-2021-02-19.zip	997	23555
+yor-eng	flores200-devtest	0.24864	4.7	https://object.pouta.csc.fi/Tatoeba-MT-models/yor-eng/opus-2021-02-19.zip	1012	24721

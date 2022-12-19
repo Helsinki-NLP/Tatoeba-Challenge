@@ -1,4 +1,4 @@
-ces-hun	flores101-dev	0.508	19.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-hun/opus-2021-02-19.zip	997	21222
+ces-hun	flores101-dev	0.50788	19.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-hun/opus-2021-02-19.zip	997	21222
 ces-hun	flores101-devtest	0.507	18.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-hun/opus-2021-02-19.zip	1012	22183
 ces-hun	flores200-dev	0.50737	19.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-hun/opus-2021-02-19.zip	997	21222
 ces-hun	flores200-devtest	0.50689	18.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-hun/opus-2021-02-19.zip	1012	22183
@@ -6,4 +6,4 @@ ces-hun	newssyscomb2009	0.498	18.0	https://object.pouta.csc.fi/Tatoeba-MT-models
 ces-hun	newstest2009	0.493	18.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-hun/opus-2021-02-19.zip	2525	54965
 ces-hun	tatoeba-test-v2020-07-28	0.688	48.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-hun/opus-2021-02-19.zip	1911	10352
 ces-hun	tatoeba-test-v2021-03-30	0.688	48.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-hun/opus-2021-02-19.zip	1911	10352
-ces-hun	tatoeba-test-v2021-08-07	0.689	48.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-hun/opus-2021-02-19.zip	1911	10352
+ces-hun	tatoeba-test-v2021-08-07	0.68856	48.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ces-hun/opus-2021-02-19.zip	1911	10352

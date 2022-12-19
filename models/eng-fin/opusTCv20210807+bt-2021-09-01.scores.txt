@@ -1,5 +1,5 @@
 eng-fin	flores101-dev	0.598	25.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	997	17938
-eng-fin	flores101-devtest	0.598	25.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	1012	18781
+eng-fin	flores101-devtest	0.59782	25.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	1012	18781
 eng-fin	flores200-dev	0.59876	25.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	997	17938
 eng-fin	flores200-devtest	0.59767	25.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	1012	18781
 eng-fin	newsdev2015	0.573	23.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	1500	23091
@@ -10,6 +10,6 @@ eng-fin	newstest2018	0.547	19.3	https://object.pouta.csc.fi/Tatoeba-MT-models/en
 eng-fin	newstest2019	0.573	23.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	1997	38369
 eng-fin	newstestB2016	0.56305	21.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	3000	45766
 eng-fin	newstestB2017	0.58852	24.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	3002	45506
-eng-fin	tatoeba-test-v2020-07-28	0.637	39.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	10000	60517
-eng-fin	tatoeba-test-v2021-03-30	0.637	39.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	10186	61736
-eng-fin	tatoeba-test-v2021-08-07	0.638	39.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	10690	65122
+eng-fin	tatoeba-test-v2020-07-28	0.63695	39.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	10000	60517
+eng-fin	tatoeba-test-v2021-03-30	0.63733	39.0	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	10186	61736
+eng-fin	tatoeba-test-v2021-08-07	0.63827	39.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-fin/opusTCv20210807+bt-2021-09-01.zip	10690	65122

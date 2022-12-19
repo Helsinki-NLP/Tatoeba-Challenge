@@ -1,7 +1,7 @@
-ita-lit	flores101-dev	0.480	14.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-lit/opus-2021-02-18.zip	997	20018
-ita-lit	flores101-devtest	0.484	15.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-lit/opus-2021-02-18.zip	1012	20695
+ita-lit	flores101-dev	0.48002	14.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-lit/opus-2021-02-18.zip	997	20018
+ita-lit	flores101-devtest	0.48379	15.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-lit/opus-2021-02-18.zip	1012	20695
 ita-lit	flores200-dev	0.47949	14.5	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-lit/opus-2021-02-18.zip	997	20018
 ita-lit	flores200-devtest	0.48460	15.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-lit/opus-2021-02-18.zip	1012	20695
 ita-lit	tatoeba-test-v2020-07-28	0.653	38.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-lit/opus-2021-02-18.zip	224	1321
-ita-lit	tatoeba-test-v2021-03-30	0.653	38.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-lit/opus-2021-02-18.zip	225	1327
-ita-lit	tatoeba-test-v2021-08-07	0.653	38.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-lit/opus-2021-02-18.zip	224	1321
+ita-lit	tatoeba-test-v2021-03-30	0.65256	38.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-lit/opus-2021-02-18.zip	225	1327
+ita-lit	tatoeba-test-v2021-08-07	0.65289	38.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ita-lit/opus-2021-02-18.zip	224	1321

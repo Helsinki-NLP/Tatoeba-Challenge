@@ -7,3 +7,12 @@ ind-eng	tico19-test	0.3727
 pap-eng	flores200-dev	0.0708
 pap-eng	flores200-devtest	0.0283
 zsm_Latn-eng	tatoeba-test-v2021-08-07	0.4924
+ind-eng	flores101-dev	0.4005
+ind-eng	flores101-devtest	0.3879
+ind-eng	flores200-dev	0.3988
+pap-eng	flores200-dev	0.0708
+ind-eng	flores200-devtest	0.3912
+pap-eng	flores200-devtest	0.0283
+ind-eng	tatoeba-test-v2021-08-07	0.7625
+zsm_Latn-eng	tatoeba-test-v2021-08-07	0.4924
+ind-eng	tico19-test	0.3727

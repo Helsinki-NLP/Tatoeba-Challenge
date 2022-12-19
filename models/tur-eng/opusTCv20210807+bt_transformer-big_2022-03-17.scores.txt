@@ -1,5 +1,7 @@
 tur-eng	flores101-dev	0.65106	38.6	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-eng/opusTCv20210807+bt_transformer-big_2022-03-17.zip	997	23555
 tur-eng	flores101-devtest	0.64152	37.6	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-eng/opusTCv20210807+bt_transformer-big_2022-03-17.zip	1012	24721
+tur-eng	flores200-dev	0.65112	38.6	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-eng/opusTCv20210807+bt_transformer-big_2022-03-17.zip	997	23555
+tur-eng	flores200-devtest	0.64149	37.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-eng/opusTCv20210807+bt_transformer-big_2022-03-17.zip	1012	24721
 tur-eng	newsdev2016	0.58658	32.1	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-eng/opusTCv20210807+bt_transformer-big_2022-03-17.zip	1001	21988
 tur-eng	newstest2016	0.56960	29.3	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-eng/opusTCv20210807+bt_transformer-big_2022-03-17.zip	3000	66175
 tur-eng	newstest2017	0.57455	29.7	https://object.pouta.csc.fi/Tatoeba-MT-models/tur-eng/opusTCv20210807+bt_transformer-big_2022-03-17.zip	3007	67703

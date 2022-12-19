@@ -1,5 +1,17 @@
+bod-eng	flores200-dev	1.8
+bod-eng	flores200-devtest	2.0
+dzo-eng	flores200-dev	1.0
+dzo-eng	flores200-devtest	1.0
+kac-eng	flores200-dev	3.7
+kac-eng	flores200-devtest	3.0
+lus-eng	flores200-dev	8.7
+lus-eng	flores200-devtest	7.7
+mni-eng	flores200-dev	0.2
+mni-eng	flores200-devtest	0.3
 mya-eng	flores101-dev	12.3
 mya-eng	flores101-devtest	12.5
+mya-eng	flores200-dev	12.3
+mya-eng	flores200-devtest	12.4
 mya-eng	tatoeba-test-v2020-07-28	24.4
 mya-eng	tatoeba-test-v2021-03-30	24.6
 mya-eng	tatoeba-test-v2021-08-07	24.4
@@ -7,3 +19,5 @@ mya-eng	tico19-test	21.9
 nst-eng	tatoeba-test-v2020-07-28	0.3
 nst-eng	tatoeba-test-v2021-03-30	0.3
 nst-eng	tatoeba-test-v2021-08-07	0.3
+yue-eng	flores200-dev	20.1
+yue-eng	flores200-devtest	19.1

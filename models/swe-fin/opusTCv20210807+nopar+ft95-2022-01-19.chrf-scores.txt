@@ -1,8 +1,8 @@
 swe-fin	fiskmo_testset	0.62356
-swe-fin	flores101-dev	0.55041
+swe-fin	flores101-dev	0.55028
 swe-fin	flores101-devtest	0.55602
-swe-fin	flores200-dev	0.55032
+swe-fin	flores200-dev	0.55028
 swe-fin	flores200-devtest	0.55600
-swe-fin	tatoeba-test-v2020-07-28	0.67321
-swe-fin	tatoeba-test-v2021-03-30	0.67246
-swe-fin	tatoeba-test-v2021-08-07	0.67320
+swe-fin	tatoeba-test-v2020-07-28	0.67316
+swe-fin	tatoeba-test-v2021-03-30	0.67241
+swe-fin	tatoeba-test-v2021-08-07	0.67311

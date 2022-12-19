@@ -1,7 +1,9 @@
 jpn-eng	flores101-dev	16.0
 jpn-eng	flores101-devtest	15.2
+jpn-eng	flores200-dev	16.1
+jpn-eng	flores200-devtest	15.3
 jpn-eng	newsdev2020	10.5
-jpn-eng	newstest2020	8.0
+jpn-eng	newstest2020	8.2
 jpn-eng	newstest2021	8.2
 jpn-eng	tatoeba-test-v2020-07-28	28.2
 jpn-eng	tatoeba-test-v2021-03-30	29.3

@@ -1,7 +1,7 @@
-kor-spa	flores101-dev	0.403	12.9	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-spa/opus-2021-02-19.zip	997	27793
+kor-spa	flores101-dev	0.40295	12.9	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-spa/opus-2021-02-19.zip	997	27793
 kor-spa	flores101-devtest	0.407	12.8	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-spa/opus-2021-02-19.zip	1012	29199
 kor-spa	flores200-dev	0.40392	12.9	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-spa/opus-2021-02-19.zip	997	27793
 kor-spa	flores200-devtest	0.40671	12.7	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-spa/opus-2021-02-19.zip	1012	29199
-kor-spa	tatoeba-test-v2020-07-28	0.522	31.2	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-spa/opus-2021-02-19.zip	942	6805
-kor-spa	tatoeba-test-v2021-03-30	0.522	31.2	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-spa/opus-2021-02-19.zip	945	6821
-kor-spa	tatoeba-test-v2021-08-07	0.522	31.2	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-spa/opus-2021-02-19.zip	940	6788
+kor-spa	tatoeba-test-v2020-07-28	0.52173	31.2	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-spa/opus-2021-02-19.zip	942	6805
+kor-spa	tatoeba-test-v2021-03-30	0.52193	31.2	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-spa/opus-2021-02-19.zip	945	6821
+kor-spa	tatoeba-test-v2021-08-07	0.52177	31.2	https://object.pouta.csc.fi/Tatoeba-MT-models/kor-spa/opus-2021-02-19.zip	940	6788

@@ -1,9 +1,9 @@
 spa-apc	flores200-dev	0.37450	6.0	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ara/opus-2020-07-03.zip	997	18746
 spa-apc	flores200-devtest	0.38228	5.7	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ara/opus-2020-07-03.zip	1012	19476
-spa-ara	flores101-dev	0.438	12.0	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ara/opus-2020-07-03.zip	997	20512
-spa-ara	flores101-devtest	0.439	11.4	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ara/opus-2020-07-03.zip	1012	21357
+spa-ara	flores101-dev	0.43756	12.0	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ara/opus-2020-07-03.zip	997	20512
+spa-ara	flores101-devtest	0.43876	11.4	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ara/opus-2020-07-03.zip	1012	21357
 spa-ara	flores200-dev	0.43755	11.9	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ara/opus-2020-07-03.zip	997	20489
 spa-ara	flores200-devtest	0.43887	11.2	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ara/opus-2020-07-03.zip	1012	21352
 spa-ara	tatoeba-test-v2020-07-28	0.532	20.6	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ara/opus-2020-07-03.zip	1511	7547
 spa-ara	tatoeba-test-v2021-03-30	0.532	20.6	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ara/opus-2020-07-03.zip	1511	7547
-spa-ara	tatoeba-test-v2021-08-07	0.532	20.6	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ara/opus-2020-07-03.zip	1511	7547
+spa-ara	tatoeba-test-v2021-08-07	0.53156	20.6	https://object.pouta.csc.fi/Tatoeba-MT-models/spa-ara/opus-2020-07-03.zip	1511	7547

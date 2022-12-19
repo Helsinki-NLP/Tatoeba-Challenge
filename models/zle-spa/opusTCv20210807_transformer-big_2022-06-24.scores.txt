@@ -1,9 +1,13 @@
 bel-spa	flores101-dev	0.44669	14.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	997	27793
 bel-spa	flores101-devtest	0.44959	14.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	1012	29199
+bel-spa	flores200-dev	0.44676	14.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	997	27793
+bel-spa	flores200-devtest	0.44964	14.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	1012	29199
 bel-spa	tatoeba-test-v2021-03-30	0.65358	46.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	207	1432
 bel-spa	tatoeba-test-v2021-08-07	0.65131	46.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	205	1412
 rus-spa	flores101-dev	0.50582	22.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	997	27793
 rus-spa	flores101-devtest	0.50973	22.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	1012	29199
+rus-spa	flores200-dev	0.50587	22.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	997	27793
+rus-spa	flores200-devtest	0.50973	22.7	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	1012	29199
 rus-spa	newstest2012	0.55215	29.1	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	3003	79006
 rus-spa	newstest2013	0.56934	31.9	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	3000	70528
 rus-spa	tatoeba-test-v2020-07-28	0.69980	52.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	10000	71496
@@ -11,6 +15,8 @@ rus-spa	tatoeba-test-v2021-03-30	0.69904	52.3	https://object.pouta.csc.fi/Tatoeb
 rus-spa	tatoeba-test-v2021-08-07	0.69937	52.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	10506	75246
 ukr-spa	flores101-dev	0.50457	22.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	997	27793
 ukr-spa	flores101-devtest	0.50958	22.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	1012	29199
+ukr-spa	flores200-dev	0.5046	22.5	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	997	27793
+ukr-spa	flores200-devtest	0.50956	22.6	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	1012	29199
 ukr-spa	tatoeba-test-v2020-07-28	0.68626	51.3	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	10000	58486
 ukr-spa	tatoeba-test-v2021-03-30	0.68636	51.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	10027	58644
 ukr-spa	tatoeba-test-v2021-08-07	0.68690	51.4	https://object.pouta.csc.fi/Tatoeba-MT-models/zle-spa/opusTCv20210807_transformer-big_2022-06-24.zip	10115	59284

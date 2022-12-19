@@ -1,5 +1,7 @@
-tgl-por	flores101-dev	0.502	23.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-por/opus-2020-06-17.zip	997	25287
+tgl-por	flores101-dev	0.5019	23.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-por/opus-2020-06-17.zip	997	25287
 tgl-por	flores101-devtest	0.506	23.4	https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-por/opus-2020-06-17.zip	1012	26519
+tgl-por	flores200-dev	0.50184	23.0	https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-por/opus-2020-06-17.zip	997	25287
+tgl-por	flores200-devtest	0.50648	23.5	https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-por/opus-2020-06-17.zip	1012	26519
 tgl-por	tatoeba-test-v2020-07-28	0.521	28.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-por/opus-2020-06-17.zip	1777	12826
 tgl-por	tatoeba-test-v2021-03-30	0.521	28.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-por/opus-2020-06-17.zip	1777	12826
-tgl-por	tatoeba-test-v2021-08-07	0.521	28.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-por/opus-2020-06-17.zip	1777	12826
+tgl-por	tatoeba-test-v2021-08-07	0.52121	28.8	https://object.pouta.csc.fi/Tatoeba-MT-models/tgl-por/opus-2020-06-17.zip	1777	12826

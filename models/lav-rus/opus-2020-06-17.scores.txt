@@ -1,5 +1,5 @@
-lav-rus	flores101-dev	0.405	13.7	https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/opus-2020-06-17.zip	997	22657
-lav-rus	flores101-devtest	0.398	13.3	https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/opus-2020-06-17.zip	1012	23295
+lav-rus	flores101-dev	0.40497	13.7	https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/opus-2020-06-17.zip	997	22657
+lav-rus	flores101-devtest	0.39798	13.3	https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/opus-2020-06-17.zip	1012	23295
 lav-rus	tatoeba-test-v2020-07-28	0.697	52.7	https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/opus-2020-06-17.zip	274	1541
-lav-rus	tatoeba-test-v2021-03-30	0.697	52.7	https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/opus-2020-06-17.zip	276	1554
-lav-rus	tatoeba-test-v2021-08-07	0.697	52.7	https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/opus-2020-06-17.zip	274	1541
+lav-rus	tatoeba-test-v2021-03-30	0.69719	52.7	https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/opus-2020-06-17.zip	276	1554
+lav-rus	tatoeba-test-v2021-08-07	0.69696	52.7	https://object.pouta.csc.fi/Tatoeba-MT-models/lav-rus/opus-2020-06-17.zip	274	1541

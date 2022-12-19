@@ -1,10 +1,14 @@
 eng-bel	flores101-dev	0.40686	9.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	997	23996
 eng-bel	flores101-devtest	0.42078	11.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	1012	24829
+eng-bel	flores200-dev	0.4068	9.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	997	23996
+eng-bel	flores200-devtest	0.42082	11.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	1012	24829
 eng-bel	tatoeba-test-v2020-07-28	0.50348	24.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	2500	16237
 eng-bel	tatoeba-test-v2021-03-30	0.50348	24.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	2500	16237
 eng-bel	tatoeba-test-v2021-08-07	0.50345	24.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	2500	16237
 eng-rus	flores101-dev	0.59726	32.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	997	22657
 eng-rus	flores101-devtest	0.59654	32.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	1012	23295
+eng-rus	flores200-dev	0.59737	32.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	997	22657
+eng-rus	flores200-devtest	0.59664	32.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	1012	23295
 eng-rus	newstest2012	0.62842	36.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	3003	64790
 eng-rus	newstest2013	0.54627	26.9	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	3000	58560
 eng-rus	newstest2014	0.68348	43.5	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	3003	61603
@@ -20,6 +24,8 @@ eng-rus	tatoeba-test-v2021-08-07	0.66182	45.5	https://object.pouta.csc.fi/Tatoeb
 eng-rus	tico19-test	0.59314	33.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	2100	55843
 eng-ukr	flores101-dev	0.59100	30.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	997	21841
 eng-ukr	flores101-devtest	0.60131	32.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	1012	22810
+eng-ukr	flores200-dev	0.59105	30.8	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	997	21841
+eng-ukr	flores200-devtest	0.60142	32.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	1012	22810
 eng-ukr	tatoeba-test-v2020-07-28	0.59540	37.4	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	10000	60756
 eng-ukr	tatoeba-test-v2021-03-30	0.60091	37.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	11969	73416
 eng-ukr	tatoeba-test-v2021-08-07	0.60175	37.7	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-zle/opusTCv20210807+bt_transformer-big_2022-03-13.zip	13127	80998

@@ -1,10 +1,14 @@
 ind-ita	flores101-dev	15.8
 ind-ita	flores101-devtest	15.7
+ind-ita	flores200-dev	15.7
+ind-ita	flores200-devtest	15.7
 ind-ita	tatoeba-test-v2020-07-28	39.4
 ind-ita	tatoeba-test-v2021-03-30	39.4
 ind-ita	tatoeba-test-v2021-08-07	39.4
 msa-ita	flores101-dev	11.9
 msa-ita	flores101-devtest	11.2
+msa-ita	flores200-dev	11.8
+msa-ita	flores200-devtest	11.4
 msa-ita	tatoeba-test-v2020-07-28	38.5
 msa-ita	tatoeba-test-v2021-03-30	38.5
 msa-ita	tatoeba-test-v2021-08-07	38.5
