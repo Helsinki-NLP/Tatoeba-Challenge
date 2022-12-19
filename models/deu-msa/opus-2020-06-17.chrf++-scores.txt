@@ -1,0 +1,14 @@
+deu-ind	flores101-dev	0.51319
+deu-msa	flores101-dev	0.40545
+deu-ind	flores101-devtest	0.52286
+deu-msa	flores101-devtest	0.40624
+deu-ind	flores200-dev	0.51433
+deu-msa	flores200-dev	0.40585
+deu-ind	flores200-devtest	0.52314
+deu-msa	flores200-devtest	0.40666
+deu-ind	tatoeba-test-v2020-07-28	0.60668
+deu-msa	tatoeba-test-v2020-07-28	0.58665
+deu-ind	tatoeba-test-v2021-03-30	0.60678
+deu-msa	tatoeba-test-v2021-03-30	0.58636
+deu-ind	tatoeba-test-v2021-08-07	0.60981
+deu-msa	tatoeba-test-v2021-08-07	0.58884

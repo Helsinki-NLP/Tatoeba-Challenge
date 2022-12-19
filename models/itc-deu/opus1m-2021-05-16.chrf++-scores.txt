@@ -1,0 +1,16 @@
+ast-deu	flores101-dev	0.33068
+cat-deu	flores101-dev	0.44755
+ron-deu	flores101-dev	0.45218
+ast-deu	flores101-devtest	0.32698
+cat-deu	flores101-devtest	0.44067
+ron-deu	flores101-devtest	0.44523
+ast-deu	flores200-dev	0.33031
+cat-deu	flores200-dev	0.44848
+ron-deu	flores200-dev	0.45164
+ast-deu	flores200-devtest	0.32742
+cat-deu	flores200-devtest	0.44079
+ron-deu	flores200-devtest	0.44535
+cat-deu	tatoeba-test-v2020-07-28	0.58987
+cat-deu	tatoeba-test-v2021-03-30	0.58881
+cat-deu	tatoeba-test-v2021-08-07	0.58971
+ron-deu	tatoeba-test-v2021-08-07	0.60018

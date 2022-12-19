@@ -1,0 +1,13 @@
+eng-fas	flores101-dev	0.41448
+eng-fas	flores101-devtest	0.4244
+eng-pes	flores200-dev	0.33066
+eng-prs	flores200-dev	0.37667
+eng-pes	flores200-devtest	0.33427
+eng-prs	flores200-devtest	0.37729
+eng-fas	tatoeba-test-v2020-07-28	0.36897
+eng-pes	tatoeba-test-v2020-07-28	0.37021
+eng-fas	tatoeba-test-v2021-03-30	0.36897
+eng-pes	tatoeba-test-v2021-03-30	0.37021
+eng-fas	tatoeba-test-v2021-08-07	0.36874
+eng-pes	tatoeba-test-v2021-08-07	0.3699
+eng-fas	tico19-test	0.42534

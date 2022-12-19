@@ -1,0 +1,14 @@
+ind-eng	flores101-dev	0.59303
+msa-eng	flores101-dev	0.58514
+ind-eng	flores101-devtest	0.58586
+msa-eng	flores101-devtest	0.57196
+ind-eng	flores200-dev	0.59292
+msa-eng	flores200-dev	0.58479
+ind-eng	flores200-devtest	0.58609
+msa-eng	flores200-devtest	0.57235
+zsm-eng	flores200-devtest	0.57235
+zsm-eng	flores200-dev	0.58479
+ind-eng	tatoeba-test-v2021-08-07	0.64157
+msa-eng	tatoeba-test-v2021-08-07	0.62863
+ind-eng	tico19-test	0.59876
+msa-eng	tico19-test	0.59876

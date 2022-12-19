@@ -1,0 +1,13 @@
+eng-fas	flores101-dev	21.9
+eng-fas	flores101-devtest	23.1
+eng-pes	flores200-dev	14.3
+eng-prs	flores200-dev	18.0
+eng-pes	flores200-devtest	14.7
+eng-prs	flores200-devtest	18.1
+eng-fas	tatoeba-test-v2020-07-28	20.0
+eng-pes	tatoeba-test-v2020-07-28	20.1
+eng-fas	tatoeba-test-v2021-03-30	20.0
+eng-pes	tatoeba-test-v2021-03-30	20.1
+eng-fas	tatoeba-test-v2021-08-07	20.0
+eng-pes	tatoeba-test-v2021-08-07	20.1
+eng-fas	tico19-test	23.7

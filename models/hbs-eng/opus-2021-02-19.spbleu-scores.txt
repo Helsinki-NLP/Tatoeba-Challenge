@@ -1,0 +1,16 @@
+bos-eng	flores101-dev	40.1
+hrv-eng	flores101-dev	36.9
+srp-eng	flores101-dev	38.6
+bos-eng	flores101-devtest	40.8
+hrv-eng	flores101-devtest	36.1
+srp-eng	flores101-devtest	37.6
+bos-eng	flores200-dev	40.1
+hrv-eng	flores200-dev	36.9
+bos-eng	flores200-devtest	40.8
+hrv-eng	flores200-devtest	36.0
+hbs-eng	tatoeba-test-v2020-07-28	59.6
+hrv-eng	tatoeba-test-v2020-07-28	59.7
+hbs-eng	tatoeba-test-v2021-03-30	59.6
+hrv-eng	tatoeba-test-v2021-03-30	59.7
+hbs-eng	tatoeba-test-v2021-08-07	59.6
+hrv-eng	tatoeba-test-v2021-08-07	59.8

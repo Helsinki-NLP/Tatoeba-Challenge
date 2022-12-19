@@ -1,0 +1,16 @@
+ast-deu	flores101-dev	10.6
+cat-deu	flores101-dev	22.1
+ron-deu	flores101-dev	22.6
+ast-deu	flores101-devtest	10.2
+cat-deu	flores101-devtest	21.1
+ron-deu	flores101-devtest	21.6
+ast-deu	flores200-dev	10.6
+cat-deu	flores200-dev	22.2
+ron-deu	flores200-dev	22.6
+ast-deu	flores200-devtest	10.3
+cat-deu	flores200-devtest	21.2
+ron-deu	flores200-devtest	21.7
+cat-deu	tatoeba-test-v2020-07-28	41.0
+cat-deu	tatoeba-test-v2021-03-30	40.9
+cat-deu	tatoeba-test-v2021-08-07	41.0
+ron-deu	tatoeba-test-v2021-08-07	43.3

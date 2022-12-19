@@ -1,0 +1,16 @@
+eng-swh	flores101-dev	0.42
+swh-eng	flores101-dev	0.53036
+eng-swh	flores101-devtest	0.4194
+swh-eng	flores101-devtest	0.52282
+eng-swh	flores200-dev	0.41964
+swh-eng	flores200-dev	0.5294
+eng-swh	flores200-devtest	0.41871
+swh-eng	flores200-devtest	0.52303
+eng-swa	tatoeba-test-v2020-07-28	0.41513
+swa-eng	tatoeba-test-v2020-07-28	0.5998
+eng-swa	tatoeba-test-v2021-03-30	0.41289
+swa-eng	tatoeba-test-v2021-03-30	0.59976
+eng-swa	tatoeba-test-v2021-08-07	0.41457
+swa-eng	tatoeba-test-v2021-08-07	0.59902
+eng-swa	tico19-test	0.51159
+swa-eng	tico19-test	0.50262

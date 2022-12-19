@@ -1,0 +1,14 @@
+jpn-ind	flores101-dev	11.7
+jpn-msa	flores101-dev	6.2
+jpn-ind	flores101-devtest	11.7
+jpn-msa	flores101-devtest	5.9
+jpn-ind	flores200-dev	11.7
+jpn-msa	flores200-dev	6.3
+jpn-ind	flores200-devtest	11.8
+jpn-msa	flores200-devtest	5.9
+jpn_Hira-ind	tatoeba-test-v2020-07-28	22.9
+jpn-msa	tatoeba-test-v2020-07-28	22.7
+jpn_Hira-ind	tatoeba-test-v2021-03-30	22.9
+jpn-msa	tatoeba-test-v2021-03-30	22.7
+jpn_Hira-ind	tatoeba-test-v2021-08-07	22.8
+jpn-msa	tatoeba-test-v2021-08-07	22.7

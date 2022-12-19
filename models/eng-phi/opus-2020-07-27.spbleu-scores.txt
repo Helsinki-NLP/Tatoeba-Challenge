@@ -1,0 +1,14 @@
+eng-ceb	flores101-dev	25.8
+eng-ceb	flores101-devtest	27.7
+eng-ceb	flores200-dev	27.2
+eng-ilo	flores200-dev	25.0
+eng-pag	flores200-dev	15.1
+eng-war	flores200-dev	27.9
+eng-ceb	flores200-devtest	28.5
+eng-ilo	flores200-devtest	25.1
+eng-pag	flores200-devtest	15.0
+eng-war	flores200-devtest	28.3
+eng-ceb	tatoeba-test-v2021-03-30	13.2
+eng-ceb	tatoeba-test-v2021-08-07	13.2
+eng-ilo	tatoeba-test-v2021-08-07	35.5
+eng-war	tatoeba-test-v2021-08-07	13.9

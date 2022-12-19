@@ -1,0 +1,11 @@
+jpn-ind	flores101-dev	0.33779
+jpn-msa	flores101-dev	0.29695
+jpn-ind	flores101-devtest	0.33995
+jpn-msa	flores101-devtest	0.29489
+jpn-ind	flores200-dev	0.33728
+jpn-msa	flores200-dev	0.29833
+jpn-ind	flores200-devtest	0.34232
+jpn-msa	flores200-devtest	0.2965
+jpn-msa	tatoeba-test-v2020-07-28	0.44217
+jpn-msa	tatoeba-test-v2021-03-30	0.44217
+jpn-msa	tatoeba-test-v2021-08-07	0.44156

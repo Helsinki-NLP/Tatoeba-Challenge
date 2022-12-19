@@ -1,0 +1,14 @@
+eng-kat	flores101-dev	0.35424
+kat-eng	flores101-dev	0.39692
+eng-kat	flores101-devtest	0.354
+kat-eng	flores101-devtest	0.39356
+eng-kat	flores200-dev	0.3546
+kat-eng	flores200-dev	0.39729
+eng-kat	flores200-devtest	0.35427
+kat-eng	flores200-devtest	0.39329
+eng-kat	tatoeba-test-v2020-07-28	0.34935
+kat-eng	tatoeba-test-v2020-07-28	0.51831
+eng-kat	tatoeba-test-v2021-03-30	0.34978
+kat-eng	tatoeba-test-v2021-03-30	0.51685
+eng-kat	tatoeba-test-v2021-08-07	0.34878
+kat-eng	tatoeba-test-v2021-08-07	0.51813

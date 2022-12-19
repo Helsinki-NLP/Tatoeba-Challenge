@@ -1,0 +1,16 @@
+eng-ceb	flores101-dev	0.51612
+eng-ceb	flores101-devtest	0.52969
+eng-ceb	flores200-dev	0.53627
+eng-ilo	flores200-dev	0.52544
+eng-pag	flores200-dev	0.42489
+eng-war	flores200-dev	0.55689
+eng-ceb	flores200-devtest	0.54399
+eng-ilo	flores200-devtest	0.52376
+eng-pag	flores200-devtest	0.41906
+eng-war	flores200-devtest	0.55555
+eng-ceb	tatoeba-test-v2021-03-30	0.39556
+eng-pam	tatoeba-test-v2021-03-30	0.15436
+eng-ceb	tatoeba-test-v2021-08-07	0.39561
+eng-ilo	tatoeba-test-v2021-08-07	0.56926
+eng-pam	tatoeba-test-v2021-08-07	0.15436
+eng-war	tatoeba-test-v2021-08-07	0.41314

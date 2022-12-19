@@ -1,0 +1,11 @@
+mri-eng	flores101-dev	5.1
+mri-eng	flores101-devtest	5.4
+fij-eng	flores200-dev	10.1
+mri-eng	flores200-dev	5.0
+smo-eng	flores200-dev	12.9
+fij-eng	flores200-devtest	10.3
+mri-eng	flores200-devtest	5.4
+smo-eng	flores200-devtest	13.1
+mri-eng	tatoeba-test-v2020-07-28	7.9
+mri-eng	tatoeba-test-v2021-03-30	7.9
+mri-eng	tatoeba-test-v2021-08-07	8.0
