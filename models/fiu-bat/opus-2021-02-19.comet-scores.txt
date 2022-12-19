@@ -1,0 +1,16 @@
+est-lav	flores101-dev	0.6113
+est-lit	flores101-dev	0.6570
+fin-lav	flores101-dev	0.3411
+fin-lit	flores101-dev	0.5493
+est-lav	flores101-devtest	0.6042
+est-lit	flores101-devtest	0.6776
+fin-lav	flores101-devtest	0.3049
+fin-lit	flores101-devtest	0.5902
+est-lit	flores200-dev	0.6601
+est-ltg	flores200-dev	-0.9362
+fin-lit	flores200-dev	0.5551
+fin-ltg	flores200-dev	-0.9548
+est-lit	flores200-devtest	0.6736
+est-ltg	flores200-devtest	-0.9350
+fin-lit	flores200-devtest	0.5805
+fin-ltg	flores200-devtest	-0.9556
