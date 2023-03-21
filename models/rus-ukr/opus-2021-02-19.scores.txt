@@ -1,7 +1,0 @@
-rus-ukr	flores101-dev	0.51684	22.2	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-ukr/opus-2021-02-19.zip	997	21841
-rus-ukr	flores101-devtest	0.51182	21.8	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-ukr/opus-2021-02-19.zip	1012	22810
-rus-ukr	flores200-dev	0.51708	22.2	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-ukr/opus-2021-02-19.zip	997	21841
-rus-ukr	flores200-devtest	0.51109	21.7	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-ukr/opus-2021-02-19.zip	1012	22810
-rus-ukr	tatoeba-test-v2020-07-28	0.791	63.8	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-ukr/opus-2021-02-19.zip	10000	60212
-rus-ukr	tatoeba-test-v2021-03-30	0.791	63.8	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-ukr/opus-2021-02-19.zip	10000	60212
-rus-ukr	tatoeba-test-v2021-08-07	0.79098	63.8	https://object.pouta.csc.fi/Tatoeba-MT-models/rus-ukr/opus-2021-02-19.zip	10000	60212

@@ -1,7 +1,0 @@
-bul-jpn	flores101-dev	0.21885	11.6	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-jpn/opus-2021-02-18.zip	997	30085
-bul-jpn	flores101-devtest	0.21784	12.2	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-jpn/opus-2021-02-18.zip	1012	31717
-bul-jpn	flores200-dev	0.21868	11.6	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-jpn/opus-2021-02-18.zip	997	30085
-bul-jpn	flores200-devtest	0.21793	12.2	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-jpn/opus-2021-02-18.zip	1012	31717
-bul-jpn	tatoeba-test-v2020-07-28	0.2379	18.1	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-jpn/opus-2021-02-18.zip	319	2892
-bul-jpn	tatoeba-test-v2021-03-30	0.239	18.3	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-jpn/opus-2021-02-18.zip	325	2942
-bul-jpn	tatoeba-test-v2021-08-07	0.23756	18.3	https://object.pouta.csc.fi/Tatoeba-MT-models/bul-jpn/opus-2021-02-18.zip	321	2910

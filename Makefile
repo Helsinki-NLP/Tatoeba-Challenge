@@ -505,7 +505,7 @@ upload-models:
 	fi
 	find ${MODEL_RELEASEDIR}/ -type l | tar -cf models-links.tar -T -
 	-find ${MODEL_RELEASEDIR}/ -type l -delete
-	-if `find ${MODEL_RELEASEDIR} -mindepth 2 -type d | wc -l` -gt 0 ]; then \
+	-if [ `find ${MODEL_RELEASEDIR} -mindepth 2 -type d | wc -l` -gt 0 ]; then \
 	  echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"; \
 	  echo "There are sub-directories in ${MODEL_RELEASEDIR}/*/"; \
 	  echo "Please, check carefully and cleanup the release directory"; \
@@ -520,9 +520,11 @@ upload-models:
 	swift list ${MODEL_CONTAINER} > index.txt
 	swift upload ${MODEL_CONTAINER} index.txt
 	rm -f index.txt
-	for m in ${RELEASED_MODELS}; do \
-	  rm -f ${MODEL_RELEASEDIR}/$$m/*.zip; \
-	done
+	if [ `find ${MODEL_RELEASEDIR} -mindepth 2 -type d | wc -l` -eq 0 ]; then \
+	    for m in ${RELEASED_MODELS}; do \
+	      rm -f ${MODEL_RELEASEDIR}/$$m/*.zip; \
+	    done \
+	fi
 
 
 

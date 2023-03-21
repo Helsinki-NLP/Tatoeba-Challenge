@@ -1,5 +1,0 @@
-fra-epo	flores200-dev	0.37760	10.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-epo/opus-2021-02-19.zip	997	22940
-fra-epo	flores200-devtest	0.37909	10.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-epo/opus-2021-02-19.zip	1012	23873
-fra-epo	tatoeba-test-v2020-07-28	0.50626	29.1	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-epo/opus-2021-02-19.zip	10000	78053
-fra-epo	tatoeba-test-v2021-03-30	0.509	29.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-epo/opus-2021-02-19.zip	10982	85422
-fra-epo	tatoeba-test-v2021-08-07	0.51204	29.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-epo/opus-2021-02-19.zip	12168	94666

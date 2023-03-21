@@ -1,9 +1,0 @@
-hun-eng	flores101-dev	0.61820	34.9	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	997	23555
-hun-eng	flores101-devtest	0.61974	34.6	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	1012	24721
-hun-eng	flores200-dev	0.61820	34.9	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	997	23555
-hun-eng	flores200-devtest	0.61974	34.6	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	1012	24721
-hun-eng	newssyscomb2009	0.52563	24.7	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	502	11818
-hun-eng	newstest2009	0.51698	23.4	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	2525	65399
-hun-eng	tatoeba-test-v2020-07-28	0.68504	53.2	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	10000	69326
-hun-eng	tatoeba-test-v2021-03-30	0.67013	51.1	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	11904	85120
-hun-eng	tatoeba-test-v2021-08-07	0.66644	50.4	https://object.pouta.csc.fi/Tatoeba-MT-models/hun-eng/opusTCv20210807+bt_transformer-big_2022-03-09.zip	13037	94699

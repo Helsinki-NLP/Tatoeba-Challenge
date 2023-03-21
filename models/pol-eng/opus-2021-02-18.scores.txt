@@ -1,9 +1,0 @@
-pol-eng	flores101-dev	0.561	26.5	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-eng/opus-2021-02-18.zip	997	23555
-pol-eng	flores101-devtest	0.55559	25.7	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-eng/opus-2021-02-18.zip	1012	24721
-pol-eng	flores200-dev	0.56116	26.5	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-eng/opus-2021-02-18.zip	997	23555
-pol-eng	flores200-devtest	0.55568	25.7	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-eng/opus-2021-02-18.zip	1012	24721
-pol-eng	newsdev2020	0.58298	29.3	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-eng/opus-2021-02-18.zip	2000	46654
-pol-eng	newstest2020	0.58901	31.9	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-eng/opus-2021-02-18.zip	1001	21755
-pol-eng	tatoeba-test-v2020-07-28	0.6918	53.5	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-eng/opus-2021-02-18.zip	10000	75002
-pol-eng	tatoeba-test-v2021-03-30	0.69185	53.5	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-eng/opus-2021-02-18.zip	10056	75479
-pol-eng	tatoeba-test-v2021-08-07	0.69199	53.5	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-eng/opus-2021-02-18.zip	10099	75766

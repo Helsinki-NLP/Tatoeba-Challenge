@@ -1,7 +1,0 @@
-eng-mal	flores101-dev	0.29652	2.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus-2021-02-18.zip	997	17186
-eng-mal	flores101-devtest	0.29486	2.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus-2021-02-18.zip	1012	18020
-eng-mal	flores200-dev	0.29709	2.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus-2021-02-18.zip	997	17186
-eng-mal	flores200-devtest	0.29405	2.6	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus-2021-02-18.zip	1012	18020
-eng-mal	tatoeba-test-v2020-07-28	0.498	12.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus-2021-02-18.zip	802	4265
-eng-mal	tatoeba-test-v2021-03-30	0.497	12.1	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus-2021-02-18.zip	803	4274
-eng-mal	tatoeba-test-v2021-08-07	0.49807	12.2	https://object.pouta.csc.fi/Tatoeba-MT-models/eng-mal/opus-2021-02-18.zip	802	4265

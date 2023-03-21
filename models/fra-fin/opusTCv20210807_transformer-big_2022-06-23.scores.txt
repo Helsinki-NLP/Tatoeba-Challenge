@@ -1,7 +1,0 @@
-fra-fin	flores101-dev	0.54808	20.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-fin/opusTCv20210807_transformer-big_2022-06-23.zip	997	17938
-fra-fin	flores101-devtest	0.55205	20.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-fin/opusTCv20210807_transformer-big_2022-06-23.zip	1012	18781
-fra-fin	flores200-dev	0.54808	20.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-fin/opusTCv20210807_transformer-big_2022-06-23.zip	997	17938
-fra-fin	flores200-devtest	0.55205	20.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-fin/opusTCv20210807_transformer-big_2022-06-23.zip	1012	18781
-fra-fin	tatoeba-test-v2020-07-28	0.66383	45.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-fin/opusTCv20210807_transformer-big_2022-06-23.zip	1930	9764
-fra-fin	tatoeba-test-v2021-03-30	0.66383	45.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-fin/opusTCv20210807_transformer-big_2022-06-23.zip	1930	9764
-fra-fin	tatoeba-test-v2021-08-07	0.66414	45.8	https://object.pouta.csc.fi/Tatoeba-MT-models/fra-fin/opusTCv20210807_transformer-big_2022-06-23.zip	1920	9730

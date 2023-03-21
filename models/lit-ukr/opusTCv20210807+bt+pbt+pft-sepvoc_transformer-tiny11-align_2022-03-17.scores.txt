@@ -1,4 +1,0 @@
-lit-ukr	flores101-dev	0.4807	18.2	https://object.pouta.csc.fi/Tatoeba-MT-models/lit-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-17.zip	997	21841
-lit-ukr	flores101-devtest	0.48759	18.5	https://object.pouta.csc.fi/Tatoeba-MT-models/lit-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-17.zip	1012	22810
-lit-ukr	flores200-dev	0.48179	18.2	https://object.pouta.csc.fi/Tatoeba-MT-models/lit-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-17.zip	997	21841
-lit-ukr	flores200-devtest	0.48892	18.8	https://object.pouta.csc.fi/Tatoeba-MT-models/lit-ukr/opusTCv20210807+bt+pbt+pft-sepvoc_transformer-tiny11-align_2022-03-17.zip	1012	22810

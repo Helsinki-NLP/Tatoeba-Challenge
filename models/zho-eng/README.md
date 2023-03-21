@@ -22,6 +22,7 @@
 
 
 
+
 # opus-2020-07-17.zip
 
 * dataset: opus
@@ -39,6 +40,7 @@
 | testset               | BLEU  | chr-F |
 |-----------------------|-------|-------|
 | Tatoeba-test.zho.eng 	| 36.1 	| 0.548 |
+
 
 
 
@@ -77,6 +79,7 @@
 | Tatoeba-test.zho-eng 	| 36.0 	| 0.546 	| 9999 	| 82822 	| 0.946 |
 
 
+
 # opus+bt-2021-04-30.zip
 
 * dataset: opus+bt
@@ -106,4 +109,25 @@
 | Tatoeba-test.yue_Hans-eng 	| 19.2 	| 0.390 	| 630 	| 5838 	| 0.959 |
 | Tatoeba-test.yue_Hant-eng 	| 23.5 	| 0.406 	| 431 	| 3350 	| 0.983 |
 | Tatoeba-test.zho-eng 	| 35.6 	| 0.543 	| 9999 	| 82822 	| 0.971 |
+
+
+# opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-16.zip
+
+* dataset: opusTCv20210807+nopar+ft95
+* model: transformer-tiny11-align
+* source language(s): cjy_Hans cjy_Hant cmn cmn_Hans cmn_Hant gan hak hak_Hani hsn_Hani lzh lzh_Hans nan wuu yue_Hans yue_Hant
+* target language(s): eng
+* raw source language(s): cjy cmn gan hak hsn lzh nan wuu yue
+* raw target language(s): eng
+* model: transformer-tiny11-align
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-16.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-16.zip)
+* test set translations: [opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-16.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-16.test.txt)
+* test set scores: [opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-16.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/zho-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-16.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test-v2021-08-07.multi-eng 	| 33.0 	| 0.52387 	| 10000 	| 82655 	| 0.911 |
 

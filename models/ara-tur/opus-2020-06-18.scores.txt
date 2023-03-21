@@ -1,9 +1,0 @@
-ara_Latn-tur	flores200-dev	0.04106	0.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-tur/opus-2020-06-18.zip	997	19181
-ara_Latn-tur	flores200-devtest	0.03843	0.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-tur/opus-2020-06-18.zip	1012	20253
-ara-tur	flores101-dev	0.4449	10.9	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-tur/opus-2020-06-18.zip	997	19181
-ara-tur	flores101-devtest	0.443	11.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-tur/opus-2020-06-18.zip	1012	20253
-ara-tur	flores200-dev	0.44519	10.8	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-tur/opus-2020-06-18.zip	997	19181
-ara-tur	flores200-devtest	0.44480	11.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-tur/opus-2020-06-18.zip	1012	20253
-ara-tur	tatoeba-test-v2020-07-28	0.618	33.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-tur/opus-2020-06-18.zip	1263	6949
-ara-tur	tatoeba-test-v2021-03-30	0.618	33.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-tur/opus-2020-06-18.zip	1263	6949
-ara-tur	tatoeba-test-v2021-08-07	0.618	33.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-tur/opus-2020-06-18.zip	1263	6949

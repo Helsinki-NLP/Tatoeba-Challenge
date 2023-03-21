@@ -1,7 +1,0 @@
-cat-deu	flores101-dev	0.45509	16.5	https://object.pouta.csc.fi/Tatoeba-MT-models/cat-deu/opus-2021-02-19.zip	997	24097
-cat-deu	flores101-devtest	0.45269	15.7	https://object.pouta.csc.fi/Tatoeba-MT-models/cat-deu/opus-2021-02-19.zip	1012	25094
-cat-deu	flores200-dev	0.45432	16.5	https://object.pouta.csc.fi/Tatoeba-MT-models/cat-deu/opus-2021-02-19.zip	997	24097
-cat-deu	flores200-devtest	0.45300	15.7	https://object.pouta.csc.fi/Tatoeba-MT-models/cat-deu/opus-2021-02-19.zip	1012	25094
-cat-deu	tatoeba-test-v2020-07-28	0.59116	38.7	https://object.pouta.csc.fi/Tatoeba-MT-models/cat-deu/opus-2021-02-19.zip	720	5643
-cat-deu	tatoeba-test-v2021-03-30	0.59102	38.6	https://object.pouta.csc.fi/Tatoeba-MT-models/cat-deu/opus-2021-02-19.zip	727	5718
-cat-deu	tatoeba-test-v2021-08-07	0.5907	38.7	https://object.pouta.csc.fi/Tatoeba-MT-models/cat-deu/opus-2021-02-19.zip	723	5676

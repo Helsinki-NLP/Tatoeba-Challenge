@@ -1,8 +1,0 @@
-fin-swe	fiskmo_testset	0.64552	32.3	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-11-09.zip	523	9462
-fin-swe	flores101-dev	0.5718	27.4	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-11-09.zip	997	22417
-fin-swe	flores101-devtest	0.57483	27.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-11-09.zip	1012	23121
-fin-swe	flores200-dev	0.57276	27.5	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-11-09.zip	997	22417
-fin-swe	flores200-devtest	0.57524	27.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-11-09.zip	1012	23121
-fin-swe	tatoeba-test-v2020-07-28	0.71198	55.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-11-09.zip	2500	16762
-fin-swe	tatoeba-test-v2021-03-30	0.71193	55.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-11-09.zip	5072	34075
-fin-swe	tatoeba-test-v2021-08-07	0.71204	55.6	https://object.pouta.csc.fi/Tatoeba-MT-models/fin-swe/opusTCv20210807+bt-2021-11-09.zip	2841	19111

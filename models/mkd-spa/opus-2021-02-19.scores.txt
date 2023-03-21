@@ -1,7 +1,0 @@
-mkd-spa	flores101-dev	0.45917	17.7	https://object.pouta.csc.fi/Tatoeba-MT-models/mkd-spa/opus-2021-02-19.zip	997	27793
-mkd-spa	flores101-devtest	0.464	18.3	https://object.pouta.csc.fi/Tatoeba-MT-models/mkd-spa/opus-2021-02-19.zip	1012	29199
-mkd-spa	flores200-dev	0.45960	17.7	https://object.pouta.csc.fi/Tatoeba-MT-models/mkd-spa/opus-2021-02-19.zip	997	27793
-mkd-spa	flores200-devtest	0.46428	18.3	https://object.pouta.csc.fi/Tatoeba-MT-models/mkd-spa/opus-2021-02-19.zip	1012	29199
-mkd-spa	tatoeba-test-v2020-07-28	0.719	56.8	https://object.pouta.csc.fi/Tatoeba-MT-models/mkd-spa/opus-2021-02-19.zip	217	1121
-mkd-spa	tatoeba-test-v2021-03-30	0.71902	56.7	https://object.pouta.csc.fi/Tatoeba-MT-models/mkd-spa/opus-2021-02-19.zip	223	1149
-mkd-spa	tatoeba-test-v2021-08-07	0.71906	56.8	https://object.pouta.csc.fi/Tatoeba-MT-models/mkd-spa/opus-2021-02-19.zip	217	1121
