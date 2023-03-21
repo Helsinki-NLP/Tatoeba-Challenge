@@ -1930,6 +1930,18 @@ move-diff-langpairs:
 	done
 
 
+DOWNLOAD_BASE_URL = https://object.pouta.csc.fi/Tatoeba-Challenge-${VERSION}
+RELEASE_TARS = $(patsubst %,${RELEASEDIR}/%,${TATOEBA_PAIRS3})
+
+download-release: ${RELEASE_TARS}
+
+${RELEASE_TARS}:
+	wget ${DOWNLOAD_BASE_URL}/$(notdir $@).tar
+	tar -xf $(notdir $@).tar
+	rm -f $(notdir $@).tar
+
+
+
 
 ## fix yaml files
 
