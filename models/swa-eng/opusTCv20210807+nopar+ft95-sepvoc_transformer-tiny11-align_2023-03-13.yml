@@ -1,0 +1,46 @@
+release: swa-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-13.zip
+release-date: 2023-03-13
+dataset-name: opusTCv20210807+nopar+ft95
+modeltype: transformer-tiny11-align
+vocabulary:
+   source: opusTCv20210807+nopar+ft95-sepvoc.spm32k-spm32k.src.vocab
+   target: opusTCv20210807+nopar+ft95-sepvoc.spm32k-spm32k.trg.vocab
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - swa
+   - swh
+target-languages:
+   - eng
+raw-source-languages:
+   - swa
+   - swh
+raw-target-languages:
+   - eng
+training-data:
+   swa-eng: Tatoeba-train.swa.best95.gz (4955481) 
+validation-data:
+   eng-swa: Tatoeba-dev-v2021-08-07, 1000
+   eng-swh: Tatoeba-dev-v2021-08-07, 3
+   total-size-shuffled: 1003
+   devset-selected: top 1003  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.intgemm8.multi-eng: 387/2508
+   Tatoeba-test-v2021-08-07.intgemm8.shortlist.multi-eng: 387/2508
+   Tatoeba-test-v2021-08-07.multi-eng: 387/2508
+   tico19-test.swa-eng: 2100/56339
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.intgemm8.multi-eng: 48.3
+   Tatoeba-test-v2021-08-07.intgemm8.shortlist.multi-eng: 48.3
+   Tatoeba-test-v2021-08-07.multi-eng: 49.1
+   tico19-test.swa-eng: 28.9
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.intgemm8.multi-eng: 0.62864
+   Tatoeba-test-v2021-08-07.intgemm8.shortlist.multi-eng: 0.62874
+   Tatoeba-test-v2021-08-07.multi-eng: 0.63415
+   tico19-test.swa-eng: 0.54057

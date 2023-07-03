@@ -1,0 +1,71 @@
+release: zho-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-small-align_2023-03-16.zip
+release-date: 2023-03-16
+dataset-name: opusTCv20210807+nopar+ft95
+modeltype: transformer-small-align
+vocabulary:
+   source: opusTCv20210807+nopar+ft95-sepvoc.spm32k-spm32k.src.vocab
+   target: opusTCv20210807+nopar+ft95-sepvoc.spm32k-spm32k.trg.vocab
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - cjy_Hans
+   - cjy_Hant
+   - cmn
+   - cmn_Hans
+   - cmn_Hant
+   - gan
+   - hak
+   - hak_Hani
+   - hsn_Hani
+   - lzh
+   - lzh_Hans
+   - nan
+   - wuu
+   - yue_Hans
+   - yue_Hant
+target-languages:
+   - eng
+raw-source-languages:
+   - cjy
+   - cmn
+   - gan
+   - hak
+   - hsn
+   - lzh
+   - nan
+   - wuu
+   - yue
+raw-target-languages:
+   - eng
+training-data:
+   cmn_Hans-eng: Tatoeba-train.cmn_Hans.best95.gz (31875370) 
+   cmn_Hant-eng: Tatoeba-train.cmn_Hant.best95.gz (9209127) 
+validation-data:
+   cjy_Hans-eng: Tatoeba-dev-v2021-08-07, 4
+   cjy_Hant-eng: Tatoeba-dev-v2021-08-07, 3
+   cmn-eng: Tatoeba-dev-v2021-08-07, 52
+   cmn_Hans-eng: Tatoeba-dev-v2021-08-07, 13350
+   cmn_Hant-eng: Tatoeba-dev-v2021-08-07, 14938
+   eng-gan: Tatoeba-dev-v2021-08-07, 3
+   eng-hak: Tatoeba-dev-v2021-08-07, 3
+   eng-hak_Hani: Tatoeba-dev-v2021-08-07, 1
+   eng-hsn_Hani: Tatoeba-dev-v2021-08-07, 3
+   eng-lzh: Tatoeba-dev-v2021-08-07, 309
+   eng-lzh_Hans: Tatoeba-dev-v2021-08-07, 20
+   eng-nan: Tatoeba-dev-v2021-08-07, 12
+   eng-wuu: Tatoeba-dev-v2021-08-07, 644
+   eng-yue_Hans: Tatoeba-dev-v2021-08-07, 1745
+   eng-yue_Hant: Tatoeba-dev-v2021-08-07, 1100
+   total-size-shuffled: 5051
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   Tatoeba-test-v2021-08-07.multi-eng: 10000/82655
+BLEU-scores:
+   Tatoeba-test-v2021-08-07.multi-eng: 33.7
+chr-F-scores:
+   Tatoeba-test-v2021-08-07.multi-eng: 0.52853

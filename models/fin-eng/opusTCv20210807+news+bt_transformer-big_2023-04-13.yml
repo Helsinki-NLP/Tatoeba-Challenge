@@ -1,0 +1,58 @@
+release: fin-eng/opusTCv20210807+news+bt_transformer-big_2023-04-13.zip
+release-date: 2023-04-13
+dataset-name: opusTCv20210807+news+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+news+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+news+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - fin
+target-languages:
+   - eng
+raw-source-languages:
+   - fin
+raw-target-languages:
+   - eng
+training-data:
+   fin-eng: Tatoeba-train-v2021-08-07.eng-fin.strict (94159007) news.2007.en.shuffled.deduped.aa (995827) news.2007.en.shuffled.deduped.ab (995744) news.2007.en.shuffled.deduped.ac (995730) news.2007.en.shuffled.deduped.ad (386386) news.2008.en.shuffled.deduped.aa (996856) news.2008.en.shuffled.deduped.ab (996897) news.2008.en.shuffled.deduped.ac (996857) news.2008.en.shuffled.deduped.ad (996952) news.2008.en.shuffled.deduped.ae (996898) news.2008.en.shuffled.deduped.af (996867) news.2008.en.shuffled.deduped.ag (996886) news.2008.en.shuffled.deduped.ah (996948) news.2008.en.shuffled.deduped.ai (996900) news.2008.en.shuffled.deduped.aj (996894) news.2008.en.shuffled.deduped.ak (996887) news.2008.en.shuffled.deduped.al (745791) news.2009.en.shuffled.deduped.aa (997324) news.2009.en.shuffled.deduped.ab (997307) news.2009.en.shuffled.deduped.ac (997323) news.2009.en.shuffled.deduped.ad (997343) news.2009.en.shuffled.deduped.ae (997294) news.2009.en.shuffled.deduped.af (997357) news.2009.en.shuffled.deduped.ag (997255) news.2009.en.shuffled.deduped.ah (997300) news.2009.en.shuffled.deduped.ai (997332) news.2009.en.shuffled.deduped.aj (997345) news.2009.en.shuffled.deduped.ak (997374) news.2009.en.shuffled.deduped.al (997346) news.2009.en.shuffled.deduped.am (997261) news.2009.en.shuffled.deduped.an (997283) news.2009.en.shuffled.deduped.ao (401476) news.2010.en.shuffled.deduped.aa (998438) news.2010.en.shuffled.deduped.ab (998404) news.2010.en.shuffled.deduped.ac (998443) news.2010.en.shuffled.deduped.ad (998426) news.2010.en.shuffled.deduped.ae (998435) news.2010.en.shuffled.deduped.af (998463) news.2010.en.shuffled.deduped.ag (998361) news.2010.en.shuffled.deduped.ah (271688) news.2011.en.shuffled.deduped.aa (998625) news.2011.en.shuffled.deduped.ab (998559) news.2011.en.shuffled.deduped.ac (998533) news.2011.en.shuffled.deduped.ad (998596) news.2011.en.shuffled.deduped.ae (998549) news.2011.en.shuffled.deduped.af (998598) news.2011.en.shuffled.deduped.ag (998674) news.2011.en.shuffled.deduped.ah (998580) news.2011.en.shuffled.deduped.ai (998556) news.2011.en.shuffled.deduped.aj (998554) news.2011.en.shuffled.deduped.ak (998534) news.2011.en.shuffled.deduped.al (998550) news.2011.en.shuffled.deduped.am (998530) news.2011.en.shuffled.deduped.an (998627) news.2011.en.shuffled.deduped.ao (106910) news.2013.en.shuffled.deduped.aa (996357) news.2013.en.shuffled.deduped.ab (996368) news.2013.en.shuffled.deduped.ac (996368) news.2013.en.shuffled.deduped.ad (996394) news.2013.en.shuffled.deduped.ae (996367) news.2013.en.shuffled.deduped.af (996372) news.2013.en.shuffled.deduped.ag (996448) news.2013.en.shuffled.deduped.ah (996554) news.2013.en.shuffled.deduped.ai (996289) news.2013.en.shuffled.deduped.aj (996254) news.2013.en.shuffled.deduped.ak (996415) news.2013.en.shuffled.deduped.al (996342) news.2013.en.shuffled.deduped.am (996425) news.2013.en.shuffled.deduped.an (996502) news.2013.en.shuffled.deduped.ao (996299) news.2013.en.shuffled.deduped.ap (996317) news.2013.en.shuffled.deduped.aq (996376) news.2013.en.shuffled.deduped.ar (996332) news.2013.en.shuffled.deduped.as (996482) news.2013.en.shuffled.deduped.at (996391) news.2013.en.shuffled.deduped.au (996432) news.2013.en.shuffled.deduped.av (996332) news.2013.en.shuffled.deduped.aw (996313) news.2013.en.shuffled.deduped.ax (359771) news.2021.en.shuffled.deduped.aa (976234) news.2021.en.shuffled.deduped.ab (976038) news.2021.en.shuffled.deduped.ac (976001) news.2021.en.shuffled.deduped.ad (976334) news.2021.en.shuffled.deduped.ae (976322) news.2021.en.shuffled.deduped.af (976467) news.2021.en.shuffled.deduped.ag (976342) news.2021.en.shuffled.deduped.ah (976613) news.2021.en.shuffled.deduped.ai (976392) news.2021.en.shuffled.deduped.aj (976450) news.2021.en.shuffled.deduped.ak (976262) news.2021.en.shuffled.deduped.al (976579) news.2021.en.shuffled.deduped.am (976079) news.2021.en.shuffled.deduped.an (976532) news.2021.en.shuffled.deduped.ao (975872) news.2021.en.shuffled.deduped.ap (976024) news.2021.en.shuffled.deduped.aq (976142) news.2021.en.shuffled.deduped.ar (976316) news.2021.en.shuffled.deduped.as (976558) news.2021.en.shuffled.deduped.at (976068) news.2021.en.shuffled.deduped.au (976350) news.2021.en.shuffled.deduped.av (976205) news.2021.en.shuffled.deduped.aw (976298) news.2021.en.shuffled.deduped.ax (976405) news.2021.en.shuffled.deduped.ay (976341) news.2021.en.shuffled.deduped.az (976104) news.2021.en.shuffled.deduped.ba (976291) news.2021.en.shuffled.deduped.bb (976046) news.2021.en.shuffled.deduped.bc (975935) news.2021.en.shuffled.deduped.bd (976260) news.2021.en.shuffled.deduped.be (976147) news.2021.en.shuffled.deduped.bf (976419) news.2021.en.shuffled.deduped.bg (976416) news.2021.en.shuffled.deduped.bh (976403) news.2021.en.shuffled.deduped.bi (976169) news.2021.en.shuffled.deduped.bj (976598) news.2021.en.shuffled.deduped.bk (976656) news.2021.en.shuffled.deduped.bl (976495) news.2021.en.shuffled.deduped.bm (976319) news.2021.en.shuffled.deduped.bn (352694) wikibooks.aa (992334) wikinews.aa (457233) wikipedia.aa (983013) wikipedia.ab (983150) wikipedia.ac (983127) wikipedia.ad (982918) wikiquote.aa (997039) 
+validation-data:
+   eng-fin: Tatoeba-dev-v2021-08-07, 67377
+   total-size-shuffled: 67377
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newsdev2015-enfi.fin-eng: 1500/32104
+   newstest2015-enfi.fin-eng: 1370/27356
+   newstest2016-enfi.fin-eng: 3000/63043
+   newstest2017-enfi.fin-eng: 3002/61936
+   newstest2018-enfi.fin-eng: 3000/62325
+   newstest2019-fien.fin-eng: 1996/36227
+   newstestB2016-enfi.fin-eng: 3000/63043
+   newstestB2017-enfi.fin-eng: 3002/61936
+   Tatoeba-test-v2021-08-07.fin-eng: 10000/75524
+BLEU-scores:
+   newsdev2015-enfi.fin-eng: 29.1
+   newstest2015-enfi.fin-eng: 30.3
+   newstest2016-enfi.fin-eng: 36.3
+   newstest2017-enfi.fin-eng: 38.4
+   newstest2018-enfi.fin-eng: 26.9
+   newstest2019-fien.fin-eng: 30.9
+   newstestB2016-enfi.fin-eng: 28.7
+   newstestB2017-enfi.fin-eng: 32.3
+   Tatoeba-test-v2021-08-07.fin-eng: 56.4
+chr-F-scores:
+   newsdev2015-enfi.fin-eng: 0.56442
+   newstest2015-enfi.fin-eng: 0.57413
+   newstest2016-enfi.fin-eng: 0.61780
+   newstest2017-enfi.fin-eng: 0.63566
+   newstest2018-enfi.fin-eng: 0.54142
+   newstest2019-fien.fin-eng: 0.57880
+   newstestB2016-enfi.fin-eng: 0.55994
+   newstestB2017-enfi.fin-eng: 0.59170
+   Tatoeba-test-v2021-08-07.fin-eng: 0.71708
