@@ -1930,12 +1930,13 @@ move-diff-langpairs:
 	done
 
 
-DOWNLOAD_BASE_URL = https://object.pouta.csc.fi/Tatoeba-Challenge-${VERSION}
-RELEASE_TARS = $(patsubst %,${RELEASEDIR}/%,${TATOEBA_PAIRS3})
+RELEASED_LANGPAIRS := $(shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt | cut -f1)
+DOWNLOAD_BASE_URL  := https://object.pouta.csc.fi/Tatoeba-Challenge-${VERSION}
+RELEASED_BITEXTS   := $(patsubst %,${RELEASEDIR}/%,${RELEASED_LANGPAIRS})
 
-download-release: ${RELEASE_TARS}
+download-release: ${RELEASED_BITEXTS}
 
-${RELEASE_TARS}:
+${RELEASED_BITEXTS}:
 	wget ${DOWNLOAD_BASE_URL}/$(notdir $@).tar
 	tar -xf $(notdir $@).tar
 	rm -f $(notdir $@).tar
