@@ -297,15 +297,6 @@ all: opus-langpairs3.txt
 	${MAKE} released-data-counts
 	${MAKE} release-tag
 
-# temporary target .... DELETE!!!
-missing:
-	${MAKE} dev-tsv test-tsv
-	${MAKE} ${DATADIR}/README.md
-	${MAKE} subsets
-	${MAKE} extra-statistics
-	${MAKE} released-data-counts
-	${MAKE} release-tag
-
 
 release-job:
 	${MAKE} HPC_MEM=32g HPC_CORES=16 HPC_DISK=1000 HPC_TIME=3-00 release.submit
