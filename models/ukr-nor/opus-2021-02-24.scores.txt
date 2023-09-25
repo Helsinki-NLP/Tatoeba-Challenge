@@ -1,9 +1,0 @@
-ukr-nno	flores200-dev	0.399	12.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nor/opus-2021-02-24.zip	997	23520
-ukr-nno	flores200-devtest	0.40561	12.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nor/opus-2021-02-24.zip	1012	24316
-ukr-nob	flores101-dev	0.428	14.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nor/opus-2021-02-24.zip	997	23157
-ukr-nob	flores101-devtest	0.436	14.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nor/opus-2021-02-24.zip	1012	23873
-ukr-nob	flores200-dev	0.42701	14.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nor/opus-2021-02-24.zip	997	23157
-ukr-nob	flores200-devtest	0.43638	14.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nor/opus-2021-02-24.zip	1012	23873
-ukr-nor	tatoeba-test-v2020-07-28	0.701	55.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nor/opus-2021-02-24.zip	670	4378
-ukr-nor	tatoeba-test-v2021-03-30	0.70059	55.3	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nor/opus-2021-02-24.zip	671	4384
-ukr-nor	tatoeba-test-v2021-08-07	0.70065	55.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-nor/opus-2021-02-24.zip	670	4378

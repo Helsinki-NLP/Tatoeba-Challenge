@@ -1,0 +1,37 @@
+release: swe-fin/opusTCv20210807+news+pbt+bt_transformer-big_2023-04-13.zip
+release-date: 2023-04-13
+dataset-name: opusTCv20210807+news+pbt+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+news+pbt+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+news+pbt+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - swe
+target-languages:
+   - fin
+raw-source-languages:
+   - swe
+raw-target-languages:
+   - fin
+training-data:
+   swe-fin: Tatoeba-train-v2021-08-07.fin-swe.strict (50440558) news.2014.fi.shuffled.deduped.aa (999030) news.2014.fi.shuffled.deduped.ab (626220) news.2015.fi.shuffled.deduped.aa (997581) news.2015.fi.shuffled.deduped.ab (997604) news.2015.fi.shuffled.deduped.ac (997660) news.2015.fi.shuffled.deduped.ad (997610) news.2015.fi.shuffled.deduped.ae (731995) news.2016.fi.shuffled.deduped.aa (996428) news.2016.fi.shuffled.deduped.ab (996444) news.2016.fi.shuffled.deduped.ac (996370) news.2016.fi.shuffled.deduped.ad (868294) news.2017.fi.shuffled.deduped.aa (996088) news.2017.fi.shuffled.deduped.ab (995937) news.2017.fi.shuffled.deduped.ac (995895) news.2017.fi.shuffled.deduped.ad (634799) news.2018.fi.shuffled.deduped.aa (997211) news.2018.fi.shuffled.deduped.ab (997218) news.2018.fi.shuffled.deduped.ac (962213) news.2019.fi.shuffled.deduped.aa (995768) news.2019.fi.shuffled.deduped.ab (995776) news.2019.fi.shuffled.deduped.ac (995818) news.2019.fi.shuffled.deduped.ad (995629) news.2019.fi.shuffled.deduped.ae (683604) news.2020.fi.shuffled.deduped.aa (998396) news.2020.fi.shuffled.deduped.ab (998420) news.2020.fi.shuffled.deduped.ac (998407) news.2020.fi.shuffled.deduped.ad (998430) news.2020.fi.shuffled.deduped.ae (51509) news.2021.fi.shuffled.deduped.aa (999138) news.2021.fi.shuffled.deduped.ab (999116) news.2021.fi.shuffled.deduped.ac (999104) news.2021.fi.shuffled.deduped.ad (202007) wiki.aa (989699) wiki.ab (989731) wiki.ac (989634) wiki.ad (989658) wiki.ae (989664) wiki.af (989751) wiki.ag (989647) wiki.ah (479543) wikibooks.aa (65837) wikinews.aa (21279) wikiquote.aa (32622) wikisource.aa (273429) Tatoeba-train.eng-swe-fin.aa (1000000) Tatoeba-train.eng-swe-fin.ab (1000000) Tatoeba-train.eng-swe-fin.ac (1000000) Tatoeba-train.eng-swe-fin.ad (1000000) Tatoeba-train.eng-swe-fin.ae (1000000) Tatoeba-train.eng-swe-fin.af (1000000) Tatoeba-train.eng-swe-fin.ag (1000000) Tatoeba-train.eng-swe-fin.ah (1000000) Tatoeba-train.eng-swe-fin.ai (1000000) Tatoeba-train.eng-swe-fin.aj (1000000) Tatoeba-train.eng-swe-fin.ak (1000000) Tatoeba-train.eng-swe-fin.al (1000000) Tatoeba-train.eng-swe-fin.am (1000000) Tatoeba-train.eng-swe-fin.an (1000000) Tatoeba-train.eng-swe-fin.ao (1000000) Tatoeba-train.eng-swe-fin.ap (1000000) Tatoeba-train.eng-swe-fin.aq (1000000) Tatoeba-train.eng-swe-fin.ar (1000000) Tatoeba-train.eng-swe-fin.as (1000000) Tatoeba-train.eng-swe-fin.at (1000000) Tatoeba-train.eng-swe-fin.au (1000000) Tatoeba-train.eng-swe-fin.av (1000000) Tatoeba-train.eng-swe-fin.aw (1000000) Tatoeba-train.eng-swe-fin.ax (1000000) Tatoeba-train.eng-swe-fin.ay (1000000) Tatoeba-train.eng-swe-fin.az (1000000) Tatoeba-train.eng-swe-fin.ba (1000000) Tatoeba-train.eng-swe-fin.bb (1000000) Tatoeba-train.eng-swe-fin.bc (1000000) Tatoeba-train.eng-swe-fin.bd (1000000) Tatoeba-train.eng-swe-fin.be (1000000) Tatoeba-train.eng-swe-fin.bf (1000000) Tatoeba-train.eng-swe-fin.bg (1000000) Tatoeba-train.eng-swe-fin.bh (1000000) Tatoeba-train.eng-swe-fin.bi (1000000) Tatoeba-train.eng-swe-fin.bj (1000000) Tatoeba-train.eng-swe-fin.bk (1000000) Tatoeba-train.eng-swe-fin.bl (1000000) Tatoeba-train.eng-swe-fin.bm (1000000) Tatoeba-train.eng-swe-fin.bn (1000000) Tatoeba-train.eng-swe-fin.bo (1000000) Tatoeba-train.eng-swe-fin.bp (1000000) Tatoeba-train.eng-swe-fin.bq (1000000) Tatoeba-train.eng-swe-fin.br (1000000) Tatoeba-train.eng-swe-fin.bs (1000000) Tatoeba-train.eng-swe-fin.bt (1000000) Tatoeba-train.eng-swe-fin.bu (1000000) Tatoeba-train.eng-swe-fin.bv (1000000) Tatoeba-train.eng-swe-fin.bw (1000000) Tatoeba-train.eng-swe-fin.bx (1000000) Tatoeba-train.eng-swe-fin.by (1000000) Tatoeba-train.eng-swe-fin.bz (1000000) Tatoeba-train.eng-swe-fin.ca (1000000) Tatoeba-train.eng-swe-fin.cb (1000000) Tatoeba-train.eng-swe-fin.cc (1000000) Tatoeba-train.eng-swe-fin.cd (1000000) Tatoeba-train.eng-swe-fin.ce (1000000) Tatoeba-train.eng-swe-fin.cf (1000000) Tatoeba-train.eng-swe-fin.cg (1000000) Tatoeba-train.eng-swe-fin.ch (1000000) Tatoeba-train.eng-swe-fin.ci (1000000) Tatoeba-train.eng-swe-fin.cj (1000000) Tatoeba-train.eng-swe-fin.ck (1000000) Tatoeba-train.eng-swe-fin.cl (1000000) Tatoeba-train.eng-swe-fin.cm (1000000) Tatoeba-train.eng-swe-fin.cn (1000000) Tatoeba-train.eng-swe-fin.co (1000000) Tatoeba-train.eng-swe-fin.cp (1000000) Tatoeba-train.eng-swe-fin.cq (1000000) Tatoeba-train.eng-swe-fin.cr (1000000) Tatoeba-train.eng-swe-fin.cs (1000000) Tatoeba-train.eng-swe-fin.ct (1000000) Tatoeba-train.eng-swe-fin.cu (1000000) Tatoeba-train.eng-swe-fin.cv (1000000) Tatoeba-train.eng-swe-fin.cw (1000000) Tatoeba-train.eng-swe-fin.cx (1000000) Tatoeba-train.eng-swe-fin.cy (1000000) Tatoeba-train.eng-swe-fin.cz (1000000) Tatoeba-train.eng-swe-fin.da (1000000) Tatoeba-train.eng-swe-fin.db (1000000) Tatoeba-train.eng-swe-fin.dc (1000000) Tatoeba-train.eng-swe-fin.dd (1000000) Tatoeba-train.eng-swe-fin.de (1000000) Tatoeba-train.eng-swe-fin.df (1000000) Tatoeba-train.eng-swe-fin.dg (1000000) Tatoeba-train.eng-swe-fin.dh (1000000) Tatoeba-train.eng-swe-fin.di (1000000) Tatoeba-train.eng-swe-fin.dj (1000000) Tatoeba-train.eng-swe-fin.dk (1000000) Tatoeba-train.eng-swe-fin.dl (1000000) Tatoeba-train.eng-swe-fin.dm (1000000) Tatoeba-train.eng-swe-fin.dn (1000000) Tatoeba-train.eng-swe-fin.do (1000000) Tatoeba-train.eng-swe-fin.dp (1000000) Tatoeba-train.eng-swe-fin.dq (1000000) Tatoeba-train.eng-swe-fin.dr (1000000) Tatoeba-train.eng-swe-fin.ds (1000000) Tatoeba-train.eng-swe-fin.dt (1000000) Tatoeba-train.eng-swe-fin.du (1000000) Tatoeba-train.eng-swe-fin.dv (1000000) Tatoeba-train.eng-swe-fin.dw (1000000) Tatoeba-train.eng-swe-fin.dx (1000000) Tatoeba-train.eng-swe-fin.dy (1000000) Tatoeba-train.eng-swe-fin.dz (531791) 
+validation-data:
+   fin-swe: Tatoeba-dev-v2021-08-07, 7141
+   total-size-shuffled: 7141
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   fiskmo_testset.swe-fin: 523/7638
+   Tatoeba-test-v2021-08-07.swe-fin: 2841/15621
+BLEU-scores:
+   fiskmo_testset.swe-fin: 31.2
+   Tatoeba-test-v2021-08-07.swe-fin: 46.1
+chr-F-scores:
+   fiskmo_testset.swe-fin: 0.65577
+   Tatoeba-test-v2021-08-07.swe-fin: 0.68962

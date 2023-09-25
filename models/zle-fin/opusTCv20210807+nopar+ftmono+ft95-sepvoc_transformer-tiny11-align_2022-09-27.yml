@@ -1,0 +1,50 @@
+release: zle-fin-tiny/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-09-27.zip
+release-date: 2022-09-27
+dataset-name: opusTCv20210807+nopar+ftmono+ft95
+modeltype: transformer-tiny11-align
+vocabulary:
+   source: opusTCv20210807+nopar+ftmono+ft95-sepvoc.spm32k-spm32k.src.vocab
+   target: opusTCv20210807+nopar+ftmono+ft95-sepvoc.spm32k-spm32k.trg.vocab
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - rus
+   - ukr
+target-languages:
+   - fin
+raw-source-languages:
+   - rus
+   - ukr
+raw-target-languages:
+   - fin
+training-data:
+   rus-fin: Tatoeba-train.rus.best95.gz (20507794) wikibooks.aa.rus-fin (86605) wikinews.aa.rus-fin (396256) wikipedia.aa.rus-fin (995566) wikipedia.ab.rus-fin (995516) wikipedia.ac.rus-fin (995542) wikipedia.ad.rus-fin (995738) wikipedia.ae.rus-fin (995530) wikipedia.af.rus-fin (995602) wikipedia.ag.rus-fin (995598) wikipedia.ah.rus-fin (995601) wikipedia.ai.rus-fin (995671) wikipedia.aj.rus-fin (995632) wikipedia.ak.rus-fin (995680) wikipedia.al.rus-fin (995554) wikipedia.am.rus-fin (995532) wikipedia.an.rus-fin (995538) wikipedia.ao.rus-fin (995599) wikipedia.ap.rus-fin (995589) wikipedia.aq.rus-fin (995587) wikipedia.ar.rus-fin (995630) wikipedia.as.rus-fin (995545) wikipedia.at.rus-fin (995563) wikipedia.au.rus-fin (995656) wikipedia.av.rus-fin (995597) wikipedia.aw.rus-fin (995647) wikipedia.ax.rus-fin (995698) wikipedia.ay.rus-fin (995541) wikipedia.az.rus-fin (995490) wikipedia.ba.rus-fin (995495) wikipedia.bb.rus-fin (995729) wikipedia.bc.rus-fin (995692) wikipedia.bd.rus-fin (995590) wikipedia.be.rus-fin (917404) wikiquote.aa.rus-fin (233663) wikisource.aa.rus-fin (991379) wikisource.ab.rus-fin (991428) wikisource.ac.rus-fin (991578) wikisource.ad.rus-fin (991304) wikisource.ae.rus-fin (991406) wikisource.af.rus-fin (991276) wikisource.ag.rus-fin (991312) wikisource.ah.rus-fin (991499) wikisource.ai.rus-fin (991521) wikisource.aj.rus-fin (991259) wikisource.ak.rus-fin (991182) wikisource.al.rus-fin (991161) wikisource.am.rus-fin (991339) wikisource.an.rus-fin (390178) 
+   ukr-fin: Tatoeba-train.ukr.best95.gz (4798707) wikibooks.aa.ukr-fin (65396) wikinews.aa.ukr-fin (26053) wikipedia.aa.ukr-fin (982686) wikipedia.ab.ukr-fin (982613) wikipedia.ac.ukr-fin (982781) wikipedia.ad.ukr-fin (982768) wikipedia.ae.ukr-fin (982620) wikipedia.af.ukr-fin (982671) wikipedia.ag.ukr-fin (982582) wikipedia.ah.ukr-fin (982512) wikipedia.ai.ukr-fin (982682) wikipedia.aj.ukr-fin (982402) wikipedia.ak.ukr-fin (982491) wikipedia.al.ukr-fin (982809) wikipedia.am.ukr-fin (982495) wikipedia.an.ukr-fin (982578) wikipedia.ao.ukr-fin (947314) wikiquote.aa.ukr-fin (63148) wikisource.aa.ukr-fin (678733) 
+validation-data:
+   fin-rus: Tatoeba-dev-v2021-08-07, 1004
+   fin-ukr: Tatoeba-dev-v2021-08-07, 1000
+   total-size-shuffled: 2000
+   devset-selected: top 2000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   flores101.rus-fin: 1012/18775
+   flores101.ukr-fin: 1012/18775
+   Tatoeba-test-v2021-08-07.multi-fin: 3676/19510
+   Tatoeba-test-v2021-08-07.rus-fin: 3643/19307
+   Tatoeba-test-v2021-08-07.ukr-fin: 33/191
+BLEU-scores:
+   flores101.rus-fin: 16.5
+   flores101.ukr-fin: 17.2
+   Tatoeba-test-v2021-08-07.multi-fin: 40.4
+   Tatoeba-test-v2021-08-07.rus-fin: 40.1
+   Tatoeba-test-v2021-08-07.ukr-fin: 46.3
+chr-F-scores:
+   flores101.rus-fin: 0.52261
+   flores101.ukr-fin: 0.53075
+   Tatoeba-test-v2021-08-07.multi-fin: 0.64911
+   Tatoeba-test-v2021-08-07.rus-fin: 0.64711
+   Tatoeba-test-v2021-08-07.ukr-fin: 0.64837

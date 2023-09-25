@@ -1,9 +1,0 @@
-pol-nno	flores200-dev	0.41329	12.5	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2021-02-24.zip	997	23520
-pol-nno	flores200-devtest	0.41323	12.0	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2021-02-24.zip	1012	24316
-pol-nob	flores101-dev	0.44187	15.0	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2021-02-24.zip	997	23157
-pol-nob	flores101-devtest	0.44892	14.4	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2021-02-24.zip	1012	23873
-pol-nob	flores200-dev	0.44120	14.9	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2021-02-24.zip	997	23157
-pol-nob	flores200-devtest	0.44858	14.3	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2021-02-24.zip	1012	23873
-pol-nor	tatoeba-test-v2020-07-28	0.665	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2021-02-24.zip	281	2045
-pol-nor	tatoeba-test-v2021-03-30	0.66494	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2021-02-24.zip	282	2048
-pol-nor	tatoeba-test-v2021-08-07	0.66474	49.6	https://object.pouta.csc.fi/Tatoeba-MT-models/pol-nor/opus-2021-02-24.zip	281	2045

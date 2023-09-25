@@ -1,0 +1,58 @@
+release: eng-fin/opusTCv20210807+news+bt_transformer-big_2023-04-13.zip
+release-date: 2023-04-13
+dataset-name: opusTCv20210807+news+bt
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20210807+news+bt.spm32k-spm32k.vocab.yml
+   target: opusTCv20210807+news+bt.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - eng
+target-languages:
+   - fin
+raw-source-languages:
+   - eng
+raw-target-languages:
+   - fin
+training-data:
+   eng-fin: Tatoeba-train-v2021-08-07.eng-fin.strict (94159007) news.2014.fi.shuffled.deduped.aa.fin-eng (999031) news.2014.fi.shuffled.deduped.ab.fin-eng (626224) news.2015.fi.shuffled.deduped.aa.fin-eng (997577) news.2015.fi.shuffled.deduped.ab.fin-eng (997625) news.2015.fi.shuffled.deduped.ac.fin-eng (997660) news.2015.fi.shuffled.deduped.ad.fin-eng (997617) news.2015.fi.shuffled.deduped.ae.fin-eng (731994) news.2016.fi.shuffled.deduped.aa.fin-eng (996440) news.2016.fi.shuffled.deduped.ab.fin-eng (996450) news.2016.fi.shuffled.deduped.ac.fin-eng (996387) news.2016.fi.shuffled.deduped.ad.fin-eng (868304) news.2017.fi.shuffled.deduped.aa.fin-eng (996108) news.2017.fi.shuffled.deduped.ab.fin-eng (995969) news.2017.fi.shuffled.deduped.ac.fin-eng (995930) news.2017.fi.shuffled.deduped.ad.fin-eng (634818) news.2018.fi.shuffled.deduped.aa.fin-eng (997253) news.2018.fi.shuffled.deduped.ab.fin-eng (997260) news.2018.fi.shuffled.deduped.ac.fin-eng (962216) news.2019.fi.shuffled.deduped.aa.fin-eng (995768) news.2019.fi.shuffled.deduped.ab.fin-eng (995822) news.2019.fi.shuffled.deduped.ac.fin-eng (995858) news.2019.fi.shuffled.deduped.ad.fin-eng (995653) news.2019.fi.shuffled.deduped.ae.fin-eng (683615) news.2020.fi.shuffled.deduped.aa.fin-eng (998418) news.2020.fi.shuffled.deduped.ab.fin-eng (998439) news.2020.fi.shuffled.deduped.ac.fin-eng (998422) news.2020.fi.shuffled.deduped.ad.fin-eng (998462) news.2020.fi.shuffled.deduped.ae.fin-eng (51508) news.2021.fi.shuffled.deduped.aa.fin-eng (999151) news.2021.fi.shuffled.deduped.ab.fin-eng (999125) news.2021.fi.shuffled.deduped.ac.fin-eng (999103) news.2021.fi.shuffled.deduped.ad.fin-eng (202014) wiki.aa.fin-eng (989793) wiki.ab.fin-eng (989863) wiki.ac.fin-eng (989739) wiki.ad.fin-eng (989710) wiki.ae.fin-eng (989743) wiki.af.fin-eng (989850) wiki.ag.fin-eng (989780) wiki.ah.fin-eng (479612) wikibooks.aa.fin-eng (65843) wikinews.aa.fin-eng (21283) wikiquote.aa.fin-eng (32622) wikisource.aa.fin-eng (273356) 
+validation-data:
+   eng-fin: Tatoeba-dev-v2021-08-07, 67377
+   total-size-shuffled: 67377
+   devset-selected: top 5000  lines of Tatoeba-dev-v2021-08-07.src.shuffled
+test-data:
+   newsdev2015-enfi.eng-fin: 1500/23375
+   newstest2015-enfi.eng-fin: 1370/19968
+   newstest2016-enfi.eng-fin: 3000/48116
+   newstest2017-enfi.eng-fin: 3002/45718
+   newstest2018-enfi.eng-fin: 3000/45475
+   newstest2019-enfi.eng-fin: 1997/38369
+   newstestB2016-enfi.eng-fin: 3000/45766
+   newstestB2017-enfi.eng-fin: 3002/45506
+   Tatoeba-test-v2021-08-07.eng-fin: 10000/60832
+BLEU-scores:
+   newsdev2015-enfi.eng-fin: 26.5
+   newstest2015-enfi.eng-fin: 28.9
+   newstest2016-enfi.eng-fin: 30.6
+   newstest2017-enfi.eng-fin: 33.1
+   newstest2018-enfi.eng-fin: 22.1
+   newstest2019-enfi.eng-fin: 26.0
+   newstestB2016-enfi.eng-fin: 24.8
+   newstestB2017-enfi.eng-fin: 28.5
+   Tatoeba-test-v2021-08-07.eng-fin: 40.1
+chr-F-scores:
+   newsdev2015-enfi.eng-fin: 0.59380
+   newstest2015-enfi.eng-fin: 0.61202
+   newstest2016-enfi.eng-fin: 0.62472
+   newstest2017-enfi.eng-fin: 0.65437
+   newstest2018-enfi.eng-fin: 0.56551
+   newstest2019-enfi.eng-fin: 0.58341
+   newstestB2016-enfi.eng-fin: 0.58546
+   newstestB2017-enfi.eng-fin: 0.61445
+   Tatoeba-test-v2021-08-07.eng-fin: 0.64873

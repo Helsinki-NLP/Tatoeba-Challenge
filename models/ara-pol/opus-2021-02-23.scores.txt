@@ -1,9 +1,0 @@
-ara-pol	flores101-dev	0.21316	3.4	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-pol/opus-2021-02-23.zip	997	21684
-ara-pol	flores101-devtest	0.20379	3.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-pol/opus-2021-02-23.zip	1012	22520
-ara-pol	flores200-dev	0.22253	4.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-pol/opus-2021-02-23.zip	997	21684
-ara-pol	flores200-devtest	0.20928	3.6	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-pol/opus-2021-02-23.zip	1012	22520
-ara-pol	tatoeba-test-v2020-07-28	0.623	40.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-pol/opus-2021-02-23.zip	207	1171
-ara-pol	tatoeba-test-v2021-03-30	0.625	40.2	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-pol/opus-2021-02-23.zip	209	1179
-ara-pol	tatoeba-test-v2021-08-07	0.62289	40.0	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-pol/opus-2021-02-23.zip	207	1171
-arz-pol	flores200-dev	0.20699	3.7	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-pol/opus-2021-02-23.zip	997	21684
-arz-pol	flores200-devtest	0.19967	3.1	https://object.pouta.csc.fi/Tatoeba-MT-models/ara-pol/opus-2021-02-23.zip	1012	22520

@@ -1,7 +1,0 @@
-jpn-tur	flores101-dev	0.32908	5.0	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-tur/opus-2021-02-19.zip	997	19181
-jpn-tur	flores101-devtest	0.32343	5.4	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-tur/opus-2021-02-19.zip	1012	20253
-jpn-tur	flores200-dev	0.32874	5.1	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-tur/opus-2021-02-19.zip	997	19181
-jpn-tur	flores200-devtest	0.32559	5.5	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-tur/opus-2021-02-19.zip	1012	20253
-jpn-tur	tatoeba-test-v2020-07-28	0.42689	16.3	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-tur/opus-2021-02-19.zip	806	4755
-jpn-tur	tatoeba-test-v2021-03-30	0.42592	16.1	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-tur/opus-2021-02-19.zip	815	4813
-jpn-tur	tatoeba-test-v2021-08-07	0.42711	16.3	https://object.pouta.csc.fi/Tatoeba-MT-models/jpn-tur/opus-2021-02-19.zip	811	4776

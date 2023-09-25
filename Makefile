@@ -496,7 +496,7 @@ upload-models:
 	fi
 	find ${MODEL_RELEASEDIR}/ -type l | tar -cf models-links.tar -T -
 	-find ${MODEL_RELEASEDIR}/ -type l -delete
-	-if `find ${MODEL_RELEASEDIR} -mindepth 2 -type d | wc -l` -gt 0 ]; then \
+	-if [ `find ${MODEL_RELEASEDIR} -mindepth 2 -type d | wc -l` -gt 0 ]; then \
 	  echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"; \
 	  echo "There are sub-directories in ${MODEL_RELEASEDIR}/*/"; \
 	  echo "Please, check carefully and cleanup the release directory"; \
@@ -511,9 +511,11 @@ upload-models:
 	swift list ${MODEL_CONTAINER} > index.txt
 	swift upload ${MODEL_CONTAINER} index.txt
 	rm -f index.txt
-	for m in ${RELEASED_MODELS}; do \
-	  rm -f ${MODEL_RELEASEDIR}/$$m/*.zip; \
-	done
+	if [ `find ${MODEL_RELEASEDIR} -mindepth 2 -type d | wc -l` -eq 0 ]; then \
+	    for m in ${RELEASED_MODELS}; do \
+	      rm -f ${MODEL_RELEASEDIR}/$$m/*.zip; \
+	    done \
+	fi
 
 
 
@@ -1917,6 +1919,19 @@ move-diff-langpairs:
 	for d in ${filter-out ${TATOEBA_PAIRS3},${shell ls ${RELEASEDIR}}}; do \
 	  mv ${RELEASEDIR}/$$d data-wrong/; \
 	done
+
+
+RELEASED_LANGPAIRS := $(shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt | cut -f1)
+DOWNLOAD_BASE_URL  := https://object.pouta.csc.fi/Tatoeba-Challenge-${VERSION}
+RELEASED_BITEXTS   := $(patsubst %,${RELEASEDIR}/%,${RELEASED_LANGPAIRS})
+
+download-release: ${RELEASED_BITEXTS}
+
+${RELEASED_BITEXTS}:
+	wget ${DOWNLOAD_BASE_URL}/$(notdir $@).tar
+	tar -xf $(notdir $@).tar
+	rm -f $(notdir $@).tar
+
 
 
 

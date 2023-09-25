@@ -764,6 +764,8 @@ eng-fin/opusTCv20210807+bt-2021-12-08.zip	transformer-big	eng	fin
 eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.zip	transformer-big	eng	fin	
 eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.zip	transformer-big	eng	fin	
 eng-fin/opusTCv20210807+bt_transformer-big_2022-03-09.zip	transformer-big	eng	fin	
+eng-fin/opusTCv20210807+news+bt_transformer-big_2023-04-13.zip	transformer-big	eng	fin	
+eng-fin/opusTCv20210807+news+bt_transformer-big_2023-04-13.zip	transformer-big	eng	fin	
 eng-fin/opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.zip	transformer-tiny11-align	eng	fin	
 eng-fin/opusTCv20210807+nopar+ft95-jointvoc_transformer-tiny11-align_2022-01-27.zip	transformer-tiny11-align	eng	fin	
 eng-fin/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2022-01-25.zip	transformer-tiny11-align	eng	fin	
@@ -1321,6 +1323,10 @@ eus-eng/opus+bt-2021-04-30.zip	transformer-align	eus	eng
 eus-eng/opus+bt-2021-04-30.zip	transformer-align	eus	eng	
 eus-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	transformer-big	eus	eng	
 eus-eng/opusTCv20210807+bt_transformer-big_2022-02-25.zip	transformer-big	eus	eng	
+eus-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-small-align_2023-03-13.zip	transformer-small-align	eus	eng	
+eus-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-small-align_2023-03-13.zip	transformer-small-align	eus	eng	
+eus-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-13.zip	transformer-tiny11-align	eus	eng	
+eus-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-13.zip	transformer-tiny11-align	eus	eng	
 eus-gmq/opusTCv20210807_transformer-big_2022-07-23.zip	transformer-big	eus	nno,nob	
 eus-gmq/opusTCv20210807_transformer-big_2022-07-23.zip	transformer-big	eus	nno,nob	
 eus-itc/opusTCv20210807_transformer-big_2022-07-23.zip	transformer-big	eus	fra,ita,lat_Latn,mwl,pob,por,spa	
@@ -1367,8 +1373,14 @@ fin-eng/opusTCv20210807+bt-2021-08-25.zip	transformer-align	fin	eng
 fin-eng/opusTCv20210807+bt-2021-11-09.zip	transformer-big-align	fin	eng	
 fin-eng/opusTCv20210807+bt-2021-12-08.zip	transformer-big	fin	eng	
 fin-eng/opusTCv20210807+bt-2021-12-08.zip	transformer-big	fin	eng	
+fin-eng/opusTCv20210807+news+bt_transformer-big_2023-04-13.zip	transformer-big	fin	eng	
+fin-eng/opusTCv20210807+news+bt_transformer-big_2023-04-13.zip	transformer-big	fin	eng	
 fin-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-align_2022-01-28.zip	transformer-align	fin	eng	
 fin-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-align_2022-01-28.zip	transformer-align	fin	eng	
+fin-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-small-align_2023-07-03.zip	transformer-small-align	fin	eng	
+fin-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-small-align_2023-07-03.zip	transformer-small-align	fin	eng	
+fin-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-07-03.zip	transformer-tiny11-align	fin	eng	
+fin-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-07-03.zip	transformer-tiny11-align	fin	eng	
 fin-epo/opus-2021-02-19.zip	transformer-align	fin	epo	
 fin-epo/opus-2021-02-19.zip	transformer-align	fin	epo	
 fin-est/opus+bt-2022-01-19.zip	transformer-align	fin	est	
@@ -1577,6 +1589,10 @@ glg-eng/opus-2021-02-19.zip	transformer-align	glg	eng
 glg-eng/opus-2021-02-19.zip	transformer-align	glg	eng	
 glg-eng/opus+bt-2021-04-30.zip	transformer-align	glg	eng	
 glg-eng/opus+bt-2021-04-30.zip	transformer-align	glg	eng	
+glg-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-small-align_2023-03-13.zip	transformer-small-align	glg	eng	
+glg-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-small-align_2023-03-13.zip	transformer-small-align	glg	eng	
+glg-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-13.zip	transformer-tiny11-align	glg	eng	
+glg-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-13.zip	transformer-tiny11-align	glg	eng	
 glg-por/opus-2020-06-16.zip	transformer-align	glg	por	
 glg-por/opus-2020-06-16.zip	transformer-align	glg	por	
 glg-por/opus-2021-02-23.zip	transformer	glg	pob,por	>>pob<<,>>por<<
@@ -2535,6 +2551,10 @@ swa-eng/opus-2021-02-23.zip	transformer	swa,swc,swh	eng
 swa-eng/opus-2021-02-23.zip	transformer	swa,swc,swh	eng	
 swa-eng/opus+bt-2021-04-30.zip	transformer-align	swa,swc,swh	eng	
 swa-eng/opus+bt-2021-04-30.zip	transformer-align	swa,swc,swh	eng	
+swa-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-small-align_2023-03-13.zip	transformer-small-align	swa,swh	eng	
+swa-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-small-align_2023-03-13.zip	transformer-small-align	swa,swh	eng	
+swa-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-13.zip	transformer-tiny11-align	swa,swh	eng	
+swa-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-13.zip	transformer-tiny11-align	swa,swh	eng	
 swa-swa/opus-2020-10-04.zip	transformer	eng,swa,swc,swh	eng,swa,swc,swh	>>eng<<,>>swa<<,>>swc<<,>>swh<<
 swa-swa/opus-2020-10-04.zip	transformer	eng,swa,swc,swh	eng,swa,swc,swh	>>eng<<,>>swa<<,>>swc<<,>>swh<<
 swe-dan/opus-2021-02-18.zip	transformer	swe	dan	
@@ -2555,6 +2575,8 @@ swe-fin/opusTCv20210807+bt-2021-08-26.zip	transformer-align	swe	fin
 swe-fin/opusTCv20210807+bt-2021-11-09.zip	transformer-big-align	swe	fin	
 swe-fin/opusTCv20210807+bt-2021-12-08.zip	transformer-big	swe	fin	
 swe-fin/opusTCv20210807+bt-2021-12-08.zip	transformer-big	swe	fin	
+swe-fin/opusTCv20210807+news+pbt+bt_transformer-big_2023-04-13.zip	transformer-big	swe	fin	
+swe-fin/opusTCv20210807+news+pbt+bt_transformer-big_2023-04-13.zip	transformer-big	swe	fin	
 swe-fin/opusTCv20210807+nopar+ft95-2022-01-18.zip	transformer-tiny11-align	swe	fin	
 swe-fin/opusTCv20210807+nopar+ft95-2022-01-18.zip	transformer-tiny11-align	swe	fin	
 swe-fin/opusTCv20210807+pbt+bt-2022-01-15.zip	transformer-big	swe	fin	
@@ -2884,6 +2906,10 @@ zho-eng/opus-2020-07-17.zip	transformer	cjy,cmn,gan,lzh,nan,wuu,yue	eng
 zho-eng/opus-2021-02-18.zip	transformer	cjy,cmn,gan,hak,hsn,lzh,nan,wuu,yue	eng	
 zho-eng/opus+bt-2021-04-30.zip	transformer-align	cjy,cmn,gan,hak,hsn,lzh,nan,wuu,yue	eng	
 zho-eng/opus+bt-2021-04-30.zip	transformer-align	cjy,cmn,gan,hak,hsn,lzh,nan,wuu,yue	eng	
+zho-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-small-align_2023-03-16.zip	transformer-small-align	cjy_Hans,cjy_Hant,cmn,cmn_Hans,cmn_Hant,gan,hak,hak_Hani,hsn_Hani,lzh,lzh_Hans,nan,wuu,yue_Hans,yue_Hant	eng	
+zho-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-small-align_2023-03-16.zip	transformer-small-align	cjy_Hans,cjy_Hant,cmn,cmn_Hans,cmn_Hant,gan,hak,hak_Hani,hsn_Hani,lzh,lzh_Hans,nan,wuu,yue_Hans,yue_Hant	eng	
+zho-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-16.zip	transformer-tiny11-align	cjy_Hans,cjy_Hant,cmn,cmn_Hans,cmn_Hant,gan,hak,hak_Hani,hsn_Hani,lzh,lzh_Hans,nan,wuu,yue_Hans,yue_Hant	eng	
+zho-eng/opusTCv20210807+nopar+ft95-sepvoc_transformer-tiny11-align_2023-03-16.zip	transformer-tiny11-align	cjy_Hans,cjy_Hant,cmn,cmn_Hans,cmn_Hant,gan,hak,hak_Hani,hsn_Hani,lzh,lzh_Hans,nan,wuu,yue_Hans,yue_Hant	eng	
 zho-epo/opus-2020-09-10.zip	transformer	cmn,nan,yue	epo	
 zho-epo/opus-2020-09-10.zip	transformer	cmn,nan,yue	epo	
 zho-fin/opus-2020-06-17.zip	transformer-align	cmn,nan,yue	fin	
@@ -2944,6 +2970,8 @@ zle-fin/opusTCv20210807+bt_transformer-big_2022-03-07.zip	transformer-big	rus,uk
 zle-fin/opusTCv20210807+bt_transformer-big_2022-03-07.zip	transformer-big	rus,ukr	fin	
 zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big_2022-04-18.zip	transformer-big	rus,ukr	fin	
 zle-fin/opusTCv20210807+xb+bt+pft+pbt_transformer-big_2022-04-18.zip	transformer-big	rus,ukr	fin	
+zle-fin-tiny/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-09-27.zip	transformer-tiny11-align	rus,ukr	fin	
+zle-fin-tiny/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-09-27.zip	transformer-tiny11-align	rus,ukr	fin	
 zle-fiu/opus-2021-02-18.zip	transformer	bel,rus,ukr	est,fin,hun,izh,mhr,udm	>>est<<,>>fin<<,>>hun<<,>>izh<<,>>mhr<<,>>udm<<
 zle-fiu/opus-2021-02-18.zip	transformer	bel,rus,ukr	est,fin,hun,izh,mhr,udm	>>est<<,>>fin<<,>>hun<<,>>izh<<,>>mhr<<,>>udm<<
 zle-fra/opusTCv20210807_transformer-big_2022-03-14.zip	transformer-big	bel,bel_Latn,orv_Cyrl,rus,ukr	fra	

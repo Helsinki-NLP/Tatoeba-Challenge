@@ -1,7 +1,0 @@
-deu-ukr	flores101-dev	0.5073	21.7	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	997	21841
-deu-ukr	flores101-devtest	0.52001	22.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	1012	22810
-deu-ukr	flores200-dev	0.5072	21.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	997	21841
-deu-ukr	flores200-devtest	0.52001	22.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	1012	22810
-deu-ukr	tatoeba-test-v2020-07-28	0.60845	37.5	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	10000	54213
-deu-ukr	tatoeba-test-v2021-03-30	0.60924	37.6	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	10174	55335
-deu-ukr	tatoeba-test-v2021-08-07	0.60884	37.5	https://object.pouta.csc.fi/Tatoeba-MT-models/deu-ukr/opusTCv20210807+nopar+ftmono+ft95-sepvoc_transformer-tiny11-align_2022-03-23.zip	10319	56287

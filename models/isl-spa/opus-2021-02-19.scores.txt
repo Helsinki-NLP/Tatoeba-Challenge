@@ -1,7 +1,0 @@
-isl-spa	flores101-dev	0.39812	13.3	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-spa/opus-2021-02-19.zip	997	27793
-isl-spa	flores101-devtest	0.40311	13.0	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-spa/opus-2021-02-19.zip	1012	29199
-isl-spa	flores200-dev	0.39781	13.2	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-spa/opus-2021-02-19.zip	997	27793
-isl-spa	flores200-devtest	0.40226	13.0	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-spa/opus-2021-02-19.zip	1012	29199
-isl-spa	tatoeba-test-v2020-07-28	0.666	50.6	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-spa/opus-2021-02-19.zip	238	1229
-isl-spa	tatoeba-test-v2021-03-30	0.66706	50.7	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-spa/opus-2021-02-19.zip	239	1233
-isl-spa	tatoeba-test-v2021-08-07	0.66603	50.6	https://object.pouta.csc.fi/Tatoeba-MT-models/isl-spa/opus-2021-02-19.zip	238	1229
