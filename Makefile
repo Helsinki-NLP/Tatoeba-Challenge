@@ -66,8 +66,10 @@ OPUSMT_HOMEDIR = ../Opus-MT-train
 
 TODAY          := $(shell date +%F)
 # VERSION         = v2020-07-28
-VERSION         = v2021-08-07
-TATOEBA_VERSION = v2020-05-31
+# VERSION         = v2021-08-07
+VERSION         = v2023-09-26
+TATOEBA_VERSION = v2023-04-12
+# TATOEBA_VERSION = v2020-05-31
 # TATOEBA_VERSION = v20190709
 
 
@@ -764,7 +766,59 @@ FIXLANGIDS = | sed 's/ze_zh/zh/g;s/_Hani//g;s/-han[st]//g;s/zht/zh_TW/g;s/zhs/zh
 ## create training data by concatenating all data sets
 ## using normalized language codes (macro-languages)
 
+
 ${RELEASEDIR}/%/train.id.gz:
+	@echo "make train data for ${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}"
+	@rm -f $@.tmp1 $@.tmp2
+	@mkdir -p ${dir $@}train.d
+	@( l=${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}; \
+	  s=${firstword ${subst -, ,${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}}}; \
+	  t=${lastword ${subst -, ,${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}}};
+	  E=`${SCRIPTDIR}/find_opus_langs.pl $$s ${OPUS_LANGS}`; \
+	  F=`${SCRIPTDIR}/find_opus_langs.pl $$t ${OPUS_LANGS}`; \
+	  for e in $$E; do \
+	    for f in $$F; do \
+		if [ $$e == $$f ]; then a=$${e}1;b=$${f}2; \
+		                   else a=$${e};b=$${f}; fi; \
+		for z in `wget -O - -q "https://opus.nlpl.eu/opusapi/?source=$$e&target=$$f&preprocessing=moses&version=latest" | sed 's/^.*\[//;s/\].*$$//' | tr ',' "\n" | sed 's/"//g' | grep 'url:' | cut -f2- -d:`; do \
+		  c=`echo "$$z" | cut -f4 -d/ | sed 's/^OPUS-//'`; \
+		  v=`echo "$$z" | cut -f5 -d/`; \
+		  if [ `echo '${EXCLUDE_CORPORA}' | tr ' ' "\n" | grep "$$c" | wc -l` -eq 0 ]; then \
+		    echo "downloading $$c-$$v"; \
+		    wget -q -O ${dir $@}train.d/moses.zip $$z; \
+		    unzip -qq -n -d ${dir $@}train.d ${dir $@}train.d/moses.zip; \
+		    rm -f ${dir $@}train.d/moses.zip; \
+		    paste ${dir $@}train.d/*.$$a ${dir $@}train.d/*.$$b ${BASIC_FILTERS} |\
+		    ${SCRIPTDIR}/bitext-match-lang.py -s $$e -t $$f   > $@.tmp2; \
+		    rm -f ${dir $@}train.d/*; \
+		    if [ -e $@.tmp2 ]; then \
+		      cut -f1 $@.tmp2 ${FIXLANGIDS} | langscript -3 -l $$e -r -D  > $@.tmp2srcid; \
+		      cut -f2 $@.tmp2 ${FIXLANGIDS} | langscript -3 -l $$f -r -D  > $@.tmp2trgid; \
+		      paste $@.tmp2srcid $@.tmp2trgid $@.tmp2 | sed "s/^/$$c-$$v	/"  >> $@.tmp1; \
+		      rm -f $@.tmp2 $@.tmp2srcid $@.tmp2trgid; \
+		    fi \
+		  else \
+		    echo "exclude $$c-$$v"; \
+		  fi \
+		done \
+	    done \
+	  done \
+	)
+	if [ -s $@.tmp1 ]; then \
+	  ${SHUFFLE} < $@.tmp1 |\
+	  scripts/exclude-devtest.pl -a -l \
+		${dir $@}test.src ${dir $@}test.trg \
+		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp2; \
+	  cut -f4 $@.tmp2 | ${GZIP} -c > ${dir $@}train.src.gz; \
+	  cut -f5 $@.tmp2 | ${GZIP} -c > ${dir $@}train.trg.gz; \
+	  cut -f1,2,3 $@.tmp2 | ${GZIP} -c > $@; \
+	fi
+	rm -f $@.tmp1 $@.tmp2
+	rmdir ${dir $@}train.d
+
+
+
+DEPRECATED/${RELEASEDIR}/%/train.id.gz:
 	@echo "make train data for ${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}"
 	@rm -f $@.tmp1 $@.tmp2
 	@mkdir -p ${dir $@}train.d
