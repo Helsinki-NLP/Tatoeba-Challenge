@@ -52,6 +52,7 @@
 ##
 
 SHELL := bash
+CPU_MODULES := parallel
 
 ## OPUS home directory and language code conversion tools
 ## OPUSMT_HOMEDIR: local copy of Opus-MT-train project
@@ -71,6 +72,11 @@ VERSION         = v2023-09-26
 TATOEBA_VERSION = v2023-04-12
 # TATOEBA_VERSION = v2020-05-31
 # TATOEBA_VERSION = v20190709
+
+
+## previous release (used for merging with new release)
+
+PREVIOUS_VERSION = v2021-08-07
 
 
 ## maximum size of dev and test sets
@@ -120,7 +126,7 @@ GET_ISO_CODE   = ${ISO639} -m
 OPUSREAD_ARGS =
 
 THREADS ?= 4
-SORT = sort -T ${TMPDIR} --parallel=${THREADS}
+SORT = sort -T ${TMPDIR} -S50M --parallel=${THREADS}
 SHUFFLE = ${shell which terashuf 2>/dev/null}
 ifeq (${SHUFFLE},)
   SHUFFLE = ${SORT} --random-sort
@@ -128,6 +134,10 @@ endif
 GZIP := ${shell which pigz 2>/dev/null}
 GZIP ?= gzip
 ZCAT := ${GZIP} -cd
+
+PARALLEL_ARGS := --pipe --keep-order -q -L10000 --max-procs 25%
+PARALLEL := ${shell if [ `which parallel 2>/dev/null | wc -l` -gt 0 ]; then echo 'parallel ${PARALLEL_ARGS}'; fi }
+
 
 ## basic training data filtering pipeline
 
@@ -169,6 +179,10 @@ RELEASEDIR     = ${RELEASEHOME}/${VERSION}
 TESTRELEASEDIR = ${RELEASEHOME}/test/${VERSION}
 DEVRELEASEDIR  = ${RELEASEHOME}/dev/${VERSION}
 INFODIR        = ${RELEASEDIR}
+
+
+PREVIOUS_RELEASEDIR = ${RELEASEHOME}/${PREVIOUS_VERSION}
+
 
 ## additional data directories for
 ## - incremental updates of dev/test data (DEVTESTDIR)
@@ -300,8 +314,12 @@ all: opus-langpairs3.txt
 	${MAKE} release-tag
 
 
+## TODO: there is some kind of memory-leak somewhere that causes jobs to crahs
+## some dataset seems to require a lot of memory (langid or shuffling?)
+
 release-job:
-	${MAKE} HPC_MEM=32g HPC_CORES=16 HPC_DISK=1000 HPC_TIME=3-00 release.submit
+	${MAKE} HPC_MEM=128g HPC_CORES=16 HPC_DISK=1000 HPC_TIME=3-00 release.submit
+#	${MAKE} HPC_MEM=32g HPC_CORES=16 HPC_DISK=1000 HPC_TIME=3-00 release.submit
 #	${MAKE} HPC_MEM=32g HPC_CORES=16 HPC_DISK=1000 HPC_TIME=14-00 HPC_QUEUE=longrun release.submit
 
 release:
@@ -426,6 +444,46 @@ data: ${TEST_DATA} ${DEV_DATA}
 traindata: ${TRAIN_DATA}
 testdata: ${TEST_DATA}
 devdata: ${DEV_DATA}
+
+
+
+## divide into several jobs for creating training data
+## each one for 500 language pairs
+## TODO: more generic sharding
+## TODO: separate big from smaller language pairs (difficult!)
+
+TRAIN_DATA_1_500     := $(wordlist 1,500,${TRAIN_DATA})
+TRAIN_DATA_501_1000  := $(wordlist 501,1000,${TRAIN_DATA})
+TRAIN_DATA_1001_1500 := $(wordlist 1001,1500,${TRAIN_DATA})
+TRAIN_DATA_1501_2000 := $(wordlist 1501,2000,${TRAIN_DATA})
+TRAIN_DATA_2001_2500 := $(wordlist 2001,2500,${TRAIN_DATA})
+TRAIN_DATA_2501_3000 := $(wordlist 2501,3000,${TRAIN_DATA})
+TRAIN_DATA_3001_3500 := $(wordlist 3001,3500,${TRAIN_DATA})
+TRAIN_DATA_3501_end  := $(wordlist 3501,$(words ${TRAIN_DATA}),${TRAIN_DATA})
+
+TRAIN_DATA_LAST500 = $(wordlist $(shell echo $$(( $(words ${TRAIN_DATA}) - 500 ))),\
+				$(words ${TRAIN_DATA}),\
+				${TRAIN_DATA})
+
+traindata-jobs:
+	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=3-00 traindata_1_500.submit
+	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=3-00 traindata_501_1000.submit
+	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=3-00 traindata_1001_1500.submit
+	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=3-00 traindata_1501_2000.submit
+	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=3-00 traindata_2001_2500.submit
+	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=3-00 traindata_2501_3000.submit
+	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=3-00 traindata_3001_3500.submit
+	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=3-00 traindata_3501_end.submit
+
+traindata_1_500: ${TRAIN_DATA_1_500}
+traindata_501_1000: ${TRAIN_DATA_501_1000}
+traindata_1001_1500: ${TRAIN_DATA_1001_1500}
+traindata_1501_2000: ${TRAIN_DATA_1501_2000}
+traindata_2001_2500: ${TRAIN_DATA_2001_2500}
+traindata_2501_3000: ${TRAIN_DATA_2501_3000}
+traindata_3001_3500: ${TRAIN_DATA_3001_3500}
+traindata_3501_end: ${TRAIN_DATA_3501_end}
+
 
 ## this is for regular updates of testdata with new Tatoeba releases in OPUS
 ## call `make update-testdata`
@@ -765,7 +823,14 @@ FIXLANGIDS = | sed 's/ze_zh/zh/g;s/_Hani//g;s/-han[st]//g;s/zht/zh_TW/g;s/zhs/zh
 
 ## create training data by concatenating all data sets
 ## using normalized language codes (macro-languages)
+## TODO: this assumes that we have plain text moses files for all corpora
 
+# test-create-train: ${RELEASEDIR}/afr-heb/train.id.gz
+test-create-train: ${RELEASEDIR}/nld-uzb/train.id.gz
+
+OPUS_API := https://opus.nlpl.eu/opusapi/
+OPUS_API_MOSES := ${OPUS_API}?preprocessing=moses&version=latest
+UNICODE_CLEANUP := perl -CS -pe 'tr[\x{9}\x{A}\x{D}\x{20}-\x{D7FF}\x{E000}-\x{FFFD}\x{10000}-\x{10FFFF}][]cd;s/\&\s*\#\s*160\s*\;/ /g;'
 
 ${RELEASEDIR}/%/train.id.gz:
 	@echo "make train data for ${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}"
@@ -773,14 +838,14 @@ ${RELEASEDIR}/%/train.id.gz:
 	@mkdir -p ${dir $@}train.d
 	@( l=${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}; \
 	  s=${firstword ${subst -, ,${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}}}; \
-	  t=${lastword ${subst -, ,${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}}};
+	  t=${lastword ${subst -, ,${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}}}; \
 	  E=`${SCRIPTDIR}/find_opus_langs.pl $$s ${OPUS_LANGS}`; \
 	  F=`${SCRIPTDIR}/find_opus_langs.pl $$t ${OPUS_LANGS}`; \
 	  for e in $$E; do \
 	    for f in $$F; do \
 		if [ $$e == $$f ]; then a=$${e}1;b=$${f}2; \
 		                   else a=$${e};b=$${f}; fi; \
-		for z in `wget -O - -q "https://opus.nlpl.eu/opusapi/?source=$$e&target=$$f&preprocessing=moses&version=latest" | sed 's/^.*\[//;s/\].*$$//' | tr ',' "\n" | sed 's/"//g' | grep 'url:' | cut -f2- -d:`; do \
+		for z in `wget -O - -q "${OPUS_API_MOSES}&source=$$e&target=$$f" | sed 's/^.*\[//;s/\].*$$//' | tr ',' "\n" | sed 's/"//g' | grep 'url:' | cut -f2- -d:`; do \
 		  c=`echo "$$z" | cut -f4 -d/ | sed 's/^OPUS-//'`; \
 		  v=`echo "$$z" | cut -f5 -d/`; \
 		  if [ `echo '${EXCLUDE_CORPORA}' | tr ' ' "\n" | grep "$$c" | wc -l` -eq 0 ]; then \
@@ -792,8 +857,8 @@ ${RELEASEDIR}/%/train.id.gz:
 		    ${SCRIPTDIR}/bitext-match-lang.py -s $$e -t $$f   > $@.tmp2; \
 		    rm -f ${dir $@}train.d/*; \
 		    if [ -e $@.tmp2 ]; then \
-		      cut -f1 $@.tmp2 ${FIXLANGIDS} | langscript -3 -l $$e -r -D  > $@.tmp2srcid; \
-		      cut -f2 $@.tmp2 ${FIXLANGIDS} | langscript -3 -l $$f -r -D  > $@.tmp2trgid; \
+		      cut -f1 $@.tmp2 | ${PARALLEL} langscript -3 -l $$e -r -D ${FIXLANGIDS} > $@.tmp2srcid; \
+		      cut -f2 $@.tmp2 | ${PARALLEL} langscript -3 -l $$f -r -D ${FIXLANGIDS} > $@.tmp2trgid; \
 		      paste $@.tmp2srcid $@.tmp2trgid $@.tmp2 | sed "s/^/$$c-$$v	/"  >> $@.tmp1; \
 		      rm -f $@.tmp2 $@.tmp2srcid $@.tmp2trgid; \
 		    fi \
@@ -804,17 +869,118 @@ ${RELEASEDIR}/%/train.id.gz:
 	    done \
 	  done \
 	)
-	if [ -s $@.tmp1 ]; then \
-	  ${SHUFFLE} < $@.tmp1 |\
-	  scripts/exclude-devtest.pl -a -l \
+
+## merge with previous releases if PREVIOUS_VERSION is set
+
+ifdef PREVIOUS_VERSION
+
+	-${MAKE} $(patsubst ${RELEASEDIR}/%,${PREVIOUS_RELEASEDIR}/%,$@)
+	@if [ -e $(patsubst ${RELEASEDIR}/%,${PREVIOUS_RELEASEDIR}/%,$@) ]; then \
+	  echo "merge with previous version!"; \
+	  l=${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}; \
+	  s=${firstword ${subst -, ,${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}}}; \
+	  t=${lastword ${subst -, ,${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}}}; \
+	  paste <(gzip -cd $(patsubst ${RELEASEDIR}/%.id.gz,${PREVIOUS_RELEASEDIR}/%.src.gz,$@)) \
+		<(gzip -cd $(patsubst ${RELEASEDIR}/%.id.gz,${PREVIOUS_RELEASEDIR}/%.trg.gz,$@)) > $@.tmp2; \
+	  ${GZIP} -cd $(patsubst ${RELEASEDIR}/%,${PREVIOUS_RELEASEDIR}/%,$@) | cut -f1 > $@.tmp2corpus; \
+	  if [ -e $@.tmp2 ]; then \
+	    cut -f1 $@.tmp2 | ${PARALLEL} langscript -3 -l $$s -r -D  ${FIXLANGIDS} > $@.tmp2srcid; \
+	    cut -f2 $@.tmp2 | ${PARALLEL} langscript -3 -l $$t -r -D  ${FIXLANGIDS} > $@.tmp2trgid; \
+	    paste $@.tmp2corpus $@.tmp2srcid $@.tmp2trgid $@.tmp2 >> $@.tmp1; \
+	    rm -f $@.tmp2 $@.tmp2srcid $@.tmp2trgid $@.tmp2corpus; \
+	  fi \
+	fi
+
+endif
+
+## sort, de-duplicate and shuffle the collected data
+	@if [ -s $@.tmp1 ]; then \
+	  cat $@.tmp1 \
+	  | ${UNICODE_CLEANUP} \
+	  | scripts/exclude-identical.pl \
+	  | ${SORT} -t '	' -k4,5 -u | ${SHUFFLE} \
+	  | scripts/exclude-devtest.pl -a -l \
 		${dir $@}test.src ${dir $@}test.trg \
-		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp2; \
+		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp2 2>$(@:.id.gz=.log); \
 	  cut -f4 $@.tmp2 | ${GZIP} -c > ${dir $@}train.src.gz; \
 	  cut -f5 $@.tmp2 | ${GZIP} -c > ${dir $@}train.trg.gz; \
 	  cut -f1,2,3 $@.tmp2 | ${GZIP} -c > $@; \
 	fi
 	rm -f $@.tmp1 $@.tmp2
 	rmdir ${dir $@}train.d
+	touch $(@:.id.gz=.corrected)
+
+
+
+
+## re-run the filter of excluding dev and test data
+## (in case this was not correctly done before, e.g. because the files were not there yet)
+
+# TO_BE_CORRECTED = $(patsubst %.id.gz,%.corrected,\
+# 	$(wildcard ${RELEASEDIR}/ara-*/train.id.gz) $(wildcard ${RELEASEDIR}/afr-*/train.id.gz))
+
+TO_BE_CORRECTED = $(patsubst %.id.gz,%.corrected,$(wildcard ${RELEASEDIR}/*/train.id.gz))
+
+%-missing-traindata:
+	${MAKE} ${RELEASEDIR}/$(@:-missing-traindata=)/train.id.gz
+
+correct-files:
+	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=1-00 THREADS=8 fra-ita-missing-traindata.submit
+	${MAKE} HPC_MEM=64g HPC_CORES=16 HPC_DISK=1000 HPC_TIME=1-12 THREADS=8 correct-train-files.submit
+	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=1-00 THREADS=8 fra-rus-missing-traindata.submit
+	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 deu-est-missing-traindata.submit
+	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 eng-est-missing-traindata.submit
+	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 est-fin-missing-traindata.submit
+	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 est-fra-missing-traindata.submit
+	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 est-rus-missing-traindata.submit
+	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 est-swe-missing-traindata.submit
+
+correct-train-files: ${TO_BE_CORRECTED}
+
+${RELEASEDIR}/%/train.corrected:
+	paste 	<(gzip -cd ${dir $@}train.id.gz) \
+		<(gzip -cd ${dir $@}train.src.gz) \
+		<(gzip -cd ${dir $@}train.trg.gz) \
+	| ${UNICODE_CLEANUP} \
+	| scripts/exclude-identical.pl \
+	| ${SORT} -t '	' -k4,5 -u | ${SHUFFLE} \
+	| scripts/exclude-devtest.pl -a -l \
+		${dir $@}test.src ${dir $@}test.trg \
+		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp2
+	cut -f4 $@.tmp2 | ${GZIP} -c > $@.src.gz
+	cut -f5 $@.tmp2 | ${GZIP} -c > $@.trg.gz
+	cut -f1,2,3 $@.tmp2 | ${GZIP} -c > $@.id.gz
+	rm -f $@.tmp2
+	if [ `zcat $@.id.gz | wc -l` -eq `zcat ${dir $@}train.id.gz | wc -l` ]; then \
+	  echo "no change! delete corrected files!"; \
+	  rm -f $@.src.gz $@.trg.gz $@.id.gz; \
+	else \
+	  mv ${dir $@}train.id.gz ${dir $@}train.backup.id.gz; \
+	  mv ${dir $@}train.src.gz ${dir $@}train.backup.src.gz; \
+	  mv ${dir $@}train.trg.gz ${dir $@}train.backup.trg.gz; \
+	  mv $@.id.gz ${dir $@}train.id.gz; \
+	  mv $@.src.gz ${dir $@}train.src.gz; \
+	  mv $@.trg.gz ${dir $@}train.trg.gz; \
+	fi
+	touch $@
+
+
+
+
+## download the previous release
+
+ifdef PREVIOUS_VERSION
+
+PREVIOUS_DOWNLOAD_BASE_URL  := https://object.pouta.csc.fi/Tatoeba-Challenge-${PREVIOUS_VERSION}
+
+${PREVIOUS_RELEASEDIR}/%/train.id.gz:
+	@wget -q $(patsubst ${PREVIOUS_RELEASEDIR}/%/train.id.gz,${PREVIOUS_DOWNLOAD_BASE_URL}/%.tar,$@)
+	@if [ -e $(patsubst ${PREVIOUS_RELEASEDIR}/%/train.id.gz,%.tar,$@) ]; then \
+	  tar -xf $(patsubst ${PREVIOUS_RELEASEDIR}/%/train.id.gz,%.tar,$@); \
+	  rm -f $(patsubst ${PREVIOUS_RELEASEDIR}/%/train.id.gz,%.tar,$@); \
+	fi
+
+endif
 
 
 
@@ -1904,7 +2070,9 @@ ifdef EMAIL
 endif
 ifeq (${shell hostname --domain 2>/dev/null},bullx)
 	echo '#SBATCH --account=${CSCPROJECT}' >> $@
+ifneq (${HPC_DISK},)
 	echo '#SBATCH --gres=nvme:${HPC_DISK}' >> $@
+endif
 endif
 	echo '#SBATCH -n ${HPC_CORES}' >> $@
 	echo '#SBATCH -N ${HPC_NODES}' >> $@

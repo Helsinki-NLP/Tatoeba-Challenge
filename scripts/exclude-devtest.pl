@@ -90,7 +90,6 @@ if ($count){
     printf STDERR "# skipped %d/%d (%5.2f\%) training examples from $langpair\n",$skipped,$count,$skipped/$count*100;
 }
 
-
 sub make_key{
     my $key = $_[0].$_[1];
     $key=~s/\P{IsAlpha}//gs if ($AlphaOnly);
