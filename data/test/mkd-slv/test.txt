@@ -32,13 +32,17 @@ mkd	slv	Јас ќе зборувам.	Ja budem hovoriť.
 mkd	slv	Каде е лебот?	Kde je chlieb?
 mkd	slv	Каде сум?	Kde som?
 mkd	slv	Кај мене ви се билетите.	Mám vaše lístky.
+mkd	slv	Ќе направам што можам за да помогнам.	Urobím všetko, čo môžem, aby som pomohol.
+mkd	slv	Ќе одам.	Pôjdem.
+mkd	slv	Ќе појдам.	Pôjdem.
+mkd	slv	Ќе си одам.	Pôjdem.
 mkd	slv	Кој датум сме денес?	Koľkého je dnes?
 mkd	slv	Кој трчаше?	Kto bežal?
 mkd	slv	Лебарките се инсекти.	Šváby sú hmyz.
 mkd	slv	Ми треба сапун.	Potrebujem mydlo.
 mkd	slv	Многу брзо трчаш.	Bežíš veľmi rýchlo.
-mkd	slv	Многу ми е драго што си тука.	Som veľmi rád, že si tu!
 mkd	slv	Многу ќе ми недостигаш.	Veľmi mi budeš chýbať.
+mkd	slv	Многу ми е драго што си тука.	Som veľmi rád, že si tu!
 mkd	slv	Морам да си легнам.	Musím ísť spať.
 mkd	slv	Не влегувај.	Nevstupuj!
 mkd	slv	Неговиот обид за бегство беше успешен.	Jeho pokus o útek bol úspešný.
@@ -102,10 +106,6 @@ mkd	slv	Точна ли е нејзината приказна?	Je jej príbeh p
 mkd	slv	Тука е многу ладно.	Je tu veľmi chladno.
 mkd	slv	Тука ништо нема.	Tu nič nie je.
 mkd	slv	Тука ништо нема.	Tu ničoho niet.
-mkd	slv	Ќе направам што можам за да помогнам.	Urobím všetko, čo môžem, aby som pomohol.
-mkd	slv	Ќе одам.	Pôjdem.
-mkd	slv	Ќе појдам.	Pôjdem.
-mkd	slv	Ќе си одам.	Pôjdem.
 mkd	slv	Угаси го светлото.	Zhasni.
 mkd	slv	Францускиот и е мајчин јазик.	Francúzština je jej materčina.
 mkd	slv	Фудбалот е спорт.	Futbal je šport.

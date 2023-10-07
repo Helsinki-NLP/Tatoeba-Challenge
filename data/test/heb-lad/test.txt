@@ -50,10 +50,10 @@ heb	lad_Latn	אפשטיין לא התאבד.	Epstein no se suisido.
 heb	lad_Latn	אתה מדבר פורטוגזית?	Avlash portugez?
 heb	lad_Latn	אתה מדבר פורטוגזית?	Avlas portugez?
 heb	lad_Latn	אתה מדבר פורטוגזית?	Vos avlash portugez?
-heb	lad_Latn	אתם מדברים פורטוגזית?	Vozotros avlash portugez?
 heb	lad_Latn	את מדברת פורטוגזית?	Avlash portugez?
 heb	lad_Latn	את מדברת פורטוגזית?	Avlas portugez?
 heb	lad_Latn	את מדברת פורטוגזית?	Vos avlash portugez?
+heb	lad_Latn	אתם מדברים פורטוגזית?	Vozotros avlash portugez?
 heb	lad_Latn	אתן מדברות פורטוגזית?	Vozotras avlash portugez?
 heb	lad_Latn	בנימין נתניהו הוא אויב גדול של העם היהודי.	Benjamin Netanyahu es un enemigo grande del puevlo djudio.
 heb	lad_Latn	דונלד טראמפ אמר הערות גזעניות.	Donald Trump disho komentarios rasistos.
@@ -76,11 +76,11 @@ heb	lad_Latn	המלחמה בתימן חייבת להסתיים.	La gerra en Tema
 heb	lad_Latn	המלכה חייבת למות.	La reyna deve de murir.
 heb	lad_Latn	המציאות יפה.	La realidad es ermoza.
 heb	lad_Latn	המציאות יפה.	La realita es ermoza.
-heb	lad_Latn	הן שותות חלב.	Estan beviendo leche.
 heb	lad_Latn	הנגיף הכי נורא הוא הקפיטליזם.	El peor virus es el kapitalizmo.
 heb	lad_Latn	הנגיף הנורא ביותר הוא הקפיטליזם.	El peor virus es el kapitalizmo.
 heb	lad_Latn	הנשאי לי.	Kazate kon mi.
 heb	lad_Latn	הנשא לי.	Kazate kon mi.
+heb	lad_Latn	הן שותות חלב.	Estan beviendo leche.
 heb	lad_Latn	הנשיא טראמפ מאד לא פופולרי.	El prezidente Trump es muy impopular.
 heb	lad_Latn	הסוס הזה לא לבן.	Este kavayo no es blanko.
 heb	lad_Latn	הפלסטינים בני אדם.	Los palestinianos son seres umanos.
@@ -129,11 +129,17 @@ heb	lad_Latn	פשיסט טוב זה פשיסט מת.	El uniko fashisto bueno es 
 heb	lad_Latn	קראתי את הקוראן.	Meldi el Koran.
 heb	lad_Latn	תום לא היה מלוכלך.	Tom no estuvo suzio.
 heb	lad_Latn	תום לא טראמפ.	Tom no es Trump.
+heb	lad	אבא שלה שונא מוסלמים.	Su padre aborrese a los musulmanes.
+heb	lad	אבא שלי יהודי ואמא שלי ערביה‎.	Mi padre es djudio i mi madre es araba.
+heb	lad	אין בן אדם לא חוקי.	Dingun ser umano no es ilegal.
+heb	lad	אין לך הרבה כסף.	No tienes munchas paras.
 heb	lad	אין מדינה זוכה להתקיים.	דינגונו איסטאדﬞו טייני איל דיריגﬞו א איגזיסטיר.
 heb	lad	אין מדינה עם זכות הקיום.	דינגונו איסטאדﬞו טייני איל דיריגﬞו א איגזיסטיר.
+heb	lad	איפה בית הכנסת?	Onde esta la esnoga?
 heb	lad	אלוהים יצר אותי.	איל דיו מי קריאו.
 heb	lad	אלוהים עשה את זה.	איל דייו לו איזו.
 heb	lad	אנו חיים בחברה.	ביבﬞימוס אין אונה סוסיידﬞאד.
+heb	lad	אנחנו אומה עצמאית.	Somos una nasion independente.
 heb	lad	אנחנו גיבורים.	סומוס אירוס.
 heb	lad	אנחנו חיים בחברה.	ביבﬞימוס אין אונה סוסיידﬞאד.
 heb	lad	אנחנו רוצים פתרון של שלום.	קירימוס אונה סולוסיון פאסיפﬞיקה.
@@ -143,42 +149,59 @@ heb	lad	אני גאון יציב מאוד.	סו און גﬞינייו מויי 
 heb	lad	אני גדולה וחזקה.	סו גראנדי אי פואירטי.
 heb	lad	אני גדול וחזק.	סו גראנדי אי פואירטי.
 heb	lad	אני גר באתיופיה.	מורו אין איטיופיה.
+heb	lad	אני גר בריו.	Moro en Rio.
+heb	lad	אני גר בריו דה ז'ניירו.	Moro en Rio de Djenero.
 heb	lad	אני גרה באתיופיה.	מורו אין איטיופיה.
+heb	lad	אני גרה בריו.	Moro en Rio.
+heb	lad	אני גרה בריו דה ז'ניירו.	Moro en Rio de Djenero.
 heb	lad	אני השטן.	סו איל דיאבﬞלו.
 heb	lad	אני השטן.	סו איל שטן.
 heb	lad	אני חתולה.	סו אונה גאטה.
 heb	lad	אני יודע שתום מטורף.	סי קי טום איס לוקו.
 heb	lad	אני יודעת שתום מטורף.	סי קי טום איס לוקו.
+heb	lad	אני כבר לא מאמין באלוהים.	No kreyo mas en el Dio.
+heb	lad	אני כבר לא מאמינה באלוהים.	No kreyo mas en el Dio.
 heb	lad	אני לא רואה אותה.	נו לה בﬞיאו.
 heb	lad	אני לומד אידו.	מי איסטו אמביזאנדו אידו.
 heb	lad	אני לומדת אידו.	מי איסטו אמביזאנדו אידו.
+heb	lad	אני מתגורר בריו דה ז'ניירו.	Moro en Rio de Djenero.
+heb	lad	אני מתגוררת בריו דה ז'ניירו.	Moro en Rio de Djenero.
 heb	lad	אני פלסטיני.	סו פאליסטינייאנו.
 heb	lad	אני פלסטינית.	סו פאליסטינייאנה.
 heb	lad	אני קורא את הקוראן.	איסטו מילדאנדו איל קוראן.
 heb	lad	אני קוראת את הקוראן.	איסטו מילדאנדו איל קוראן.
 heb	lad	אני רואה אריה לבן.	בﬞיאו און ליאון בלאנקו.
 heb	lad	אני רואה את האריה הלבן.	בﬞיאו איל ליאון בלאנקו.
+heb	lad	אני רוצה כלב.	Kero un perro.
 heb	lad	אני רוצה לקנות בית.	קירו מירקאר אונה קאזה.
 heb	lad	אתה מדבר פורטוגזית?	אבﬞלאס פורטוגיז?
 heb	lad	אתה מדבר פורטוגזית?	אבﬞלאש פורטוגיז?
 heb	lad	אתה מדבר פורטוגזית?	בﬞוס אבﬞלאש פורטוגיז?
-heb	lad	אתם מדברים פורטוגזית?	בﬞוזוטרוס אבﬞלאש פורטוגיז?
 heb	lad	את מדברת פורטוגזית?	אבﬞלאס פורטוגיז?
 heb	lad	את מדברת פורטוגזית?	אבﬞלאש פורטוגיז?
 heb	lad	את מדברת פורטוגזית?	בﬞוס אבﬞלאש פורטוגיז?
+heb	lad	אתם מדברים פורטוגזית?	בﬞוזוטרוס אבﬞלאש פורטוגיז?
 heb	lad	אתן מדברות פורטוגזית?	בﬞוזוטראס אבﬞלאש פורטוגיז?
 heb	lad	בנימין נתניהו הוא אויב גדול של העם היהודי.	בנימין נתניהו איס און אינימיגו גראנדי דיל פואיבﬞלו גﬞודﬞייו.
 heb	lad	ברוך השם.	ברוך השם.
 heb	lad	דונלד טראמפ אמר הערות גזעניות.	דונאלד טראמפ דישו קומינטאריוס ראסיסטוס.
 heb	lad	דריו הוא קומוניסט.	דארייו איס און קומוניסטו.
+heb	lad	האהבה אוהבת לאהוב את האהבה.	El amor ama amar el amor.
 heb	lad	האם קרל מרקס היה קומוניסט?	קארל מארקס אירה און קומוניסטו?
 heb	lad	הוא כבר לא יכול לפגוע בך.	יא נו טי פואידי פﬞיריר.
+heb	lad	הוא לא יהודי.	No es djudio.
 heb	lad	הותקפנו על ידי פירטים!	פﬞואימוס אטאקאדוס פור פיראטאס!
 heb	lad	הותקפנו על ידי שודדי-ים!	פﬞואימוס אטאקאדוס פור פיראטאס!
+heb	lad	החברה חולה.	La sosiedad esta hazina.
+heb	lad	החיים קצרים.	La vida es kurta.
 heb	lad	הטבע מרתק.	לה נאטורה איס פאסינאנטי.
 heb	lad	היא כבר לא יכולה לפגוע בך.	יא נו טי פואידי פﬞיריר.
 heb	lad	היהודים האמיתיים הם היהודים.	לוס גﬞודיאוס בﬞירוס סון לוס גﬞודיאוס.
 heb	lad	היה לנו חתול.	טיניאמוס און גאטו.
+heb	lad	היה נסיון.	Uvo una tentativa.
+heb	lad	המיים נקיים?	La agua es limpia?
+heb	lad	המכבים היו הטליבאן היהודי.	Los makabeos eran el Taliban djudio.
+heb	lad	המכבים היו הטליבאן היהודי.	Los makkabim eran el Taliban djudio.
 heb	lad	המכונה הזו הורגת פשיסטים.	איסטה מאקינה מאטה אה לוס פﬞאשיסטוס.
 heb	lad	המלחמה בתימן חייבת להסתיים.	לה גיררה אין תימן קאלי אקאבﬞאר.
 heb	lad	המלכה חייבת למות.	לה ריינה דיבﬞי די מוריר.
@@ -186,33 +209,58 @@ heb	lad	המציאות יפה.	לה ריאלידאד איס אירמוזה.
 heb	lad	המציאות יפה.	לה ריאליטה איס אירמוזה.
 heb	lad	הנגיף הכי נורא הוא הקפיטליזם.	איל פיאור בﬞירוס איס איל קאפיטאליזמו.
 heb	lad	הנגיף הנורא ביותר הוא הקפיטליזם.	איל פיאור בﬞירוס איס איל קאפיטאליזמו.
+heb	lad	העולם זה עם.	El mundo es una nasyon.
+heb	lad	העולם זה עם.	El mundo es un puevlo.
+heb	lad	העולם חולה.	El mundo esta hazino.
 heb	lad	הפלסטינים בני אדם.	לוס פאליסטינייאנוס סון סיריס אומאנוס.
 heb	lad	הפשיסט הטוב היחיד הוא פשיסט מת.	איל אוניקו פאשיסטו בואינו איס איל פאשיסטו מואירטו.
 heb	lad	התפוח הזה ירוק.	איסטה מאנסאנה איס בﬞידרי.
 heb	lad	התפוח הזה צהוב.	איסטה מאנסאנה איס אמארײאה.
 heb	lad	התפוח ירוק.	לה מאנסאנה איס בﬞידרי.
 heb	lad	התפוח צהוב.	לה מאנסאנה איס אמארײאה.
+heb	lad	זה טראנספובי.	Esto es transfobiko.
 heb	lad	זה של אבי.	איסטו איס די מי פאדﬞרי.
+heb	lad	זה שנאת טראנס.	Esto es transfobiko.
 heb	lad	חנה היא יהודיה רפורמית.	חנה איס אונה גﬞודﬞייה ריפﬞורמיסטה.
+heb	lad	חתולים הם בעלי חיים.	Los gatos son animales.
+heb	lad	חתולים הם מאוד חשובים.	Los gatos son muy emportantes.
 heb	lad	טום לא יהודי.	טום נו איס און גﬞודﬞייו.
 heb	lad	יעקב הוא יהודי חילוני.	יעקב איס און גﬞודﬞייו סיקולאר.
 heb	lad	ישו הוא מעצבן.	ישו איס פֿאסטידֿיוזו.
 heb	lad	יש לנו חתול.	טינימוס און גאטו.
 heb	lad	יש קואלות באוסטריה.	איי קואלאס אין אאוסטריה.
+heb	lad	כולנו קופים.	Todos somos maymonas.
+heb	lad	כל הארצות מזויפות.	Todos los paizes son falsos.
+heb	lad	כל תפוח אדום.	Kada mansana es kolorada.
 heb	lad	כמה מוסלמים גרים בעיר הקודש ירושלים?	קואנטוס מוסולמאנוס מוראן אין לה סיבﬞדאד סאנטה די ירושלים?
 heb	lad	כן, אני גרה פה.	סי, מורו אקי.
 heb	lad	כן, אני גר פה.	סי, מורו אקי.
+heb	lad	לא כל היהודים דתיים.	No todos los djudios son relijiozos.
+heb	lad	לבי במזרח ואנוכי בסוף מערב.	Mi korason esta en el este, i yo esto en la fin del oeste.
+heb	lad	לבי במזרח ואנוכי בסוף מערב.	Mi korason esta en el oriente, i yo esto en la fin del oksidente.
+heb	lad	למה אתה שונא את החופש?	Deke aborresesh la libertad?
+heb	lad	למה אתה שונא את החופש?	Deke aborreses la libertad?
+heb	lad	למה אתם שונאים את החופש?	Deke aborresesh la libertad?
+heb	lad	למה את שונאת את החופש?	Deke aborresesh la libertad?
+heb	lad	למה את שונאת את החופש?	Deke aborreses la libertad?
 heb	lad	למילי יש חתול.	מילי טייני און גאטו.
 heb	lad	לעולם לא עוד.	נונקה מאס!
 heb	lad	לעולם לא עוד.	נונקה מאס.
 heb	lad	מהו חופש?	קי איס לה ליבירטאדﬞ?
 heb	lad	מיליוני מוסלמים אינם יכולים לבקר בעיר הקודש ירושלים.	מילייוניס די מוסולמאנוס נו פוידין בﬞיסיטאר לה סיבﬞדאד סאנטה די ירושלים.
 heb	lad	מיליוני מוסלמים לא יכולים לבקר בעיר הקודש ירושלים.	מילייוניס די מוסולמאנוס נו פוידין בﬞיסיטאר לה סיבﬞדאד סאנטה די ירושלים.
+heb	lad	מלחמה היא רעה.	La gerra es mala.
+heb	lad	מלחמה היא רעה.	לה גיררה איס מאלה.
+heb	lad	מרקס ואנגלס לא היו נביאים.	Marx i Engels no eran neviim.
 heb	lad	מתי הוא נוצרי חילוני.	מאתיאו איס און קריסטייאנו סיקולאר.
+heb	lad	נורוז שמח!	Nevruz alegre!
 heb	lad	סאמי גר בירושלים.	סאמי מורה אין ירושלים.
 heb	lad	עברית ופיניקית הן שפות כנעניות.	איל איבריאו אי איל פﬞיניסיו סון לינגואס קאנאניטאס.
+heb	lad	עולם טוב יותר הוא אפשרי.	Un mijor mundo es posivle.
+heb	lad	עולם יותר טוב זה אפשרי.	Un mijor mundo es posivle.
 heb	lad	פשיסט טוב זה פשיסט מת.	איל אוניקו פאשיסטו בואינו איס איל פאשיסטו מואירטו.
 heb	lad	קראתי את הקוראן.	מילדי איל קוראן.
 heb	lad	קרל מרקס הרג את האבא שלי.	קארל מארקס מאטו אה מי פאפה.
 heb	lad	שבת שלום.	שבת שלום.
+heb	lad	תום החליט לנטוע עץ.	Tom se desido de plantar un arvol.
 heb	lad	תום לא טראמפ.	טום נו איס טרומפ.

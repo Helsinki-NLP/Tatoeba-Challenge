@@ -3,6 +3,7 @@ heb	tlh_Latn	אל תרמו אותו.	yItojQo'!
 heb	tlh_Latn	אל תרמי אותו.	yItojQo'!
 heb	tlh_Latn	אמרתי משהו.	vay' vIjatlh.
 heb	tlh_Latn	אנו חיים בחברה.	nughDaq mayIn.
+heb	tlh_Latn	אנחנו בני אדם ואנחנו מכדור הארץ.	Human maH 'ej tera' 'oH mungmaj'e'.
 heb	tlh_Latn	אנחנו גאות.	maHem.
 heb	tlh_Latn	אנחנו גאים.	maHem.
 heb	tlh_Latn	אנחנו גיבורים.	Sub maH.
@@ -11,21 +12,25 @@ heb	tlh_Latn	אנחנו לא רעבות.	maghungbe'.
 heb	tlh_Latn	אנחנו לא רעבים.	maghungbe'.
 heb	tlh_Latn	אני גדולה וחזקה.	jItIn 'ej jIHoS.
 heb	tlh_Latn	אני גדול וחזק.	jItIn 'ej jIHoS.
+heb	tlh_Latn	אני עבד.	toy'wI''a' jIH.
 heb	tlh_Latn	אני עובד במצרים.	maSIrDaq jIvum.
 heb	tlh_Latn	אני עובדת במצרים.	maSIrDaq jIvum.
 heb	tlh_Latn	אני רוצה את הספר.	paq vIneH.
 heb	tlh_Latn	אני רוצה לקנות בית.	qach vIje' vIneH.
 heb	tlh_Latn	אני שונא ואוהב.	jImuS 'ej jImuSHa'.
+heb	tlh_Latn	אני שפחה.	toy'wI''a' jIH.
 heb	tlh_Latn	אתה מדבר סלובקית?	SIlovenISqa' Hol Dajatlh'a'?
-heb	tlh_Latn	אתם מדברים סלובקית?	SIlovenISqa' Hol bojatlh'a'?
 heb	tlh_Latn	את מדברת סלובקית?	SIlovenISqa' Hol Dajatlh'a'?
+heb	tlh_Latn	אתם מדברים סלובקית?	SIlovenISqa' Hol bojatlh'a'?
 heb	tlh_Latn	בוא נזדיין.	Ha', manga'chuq!
 heb	tlh_Latn	ג'ון נתן למרי את התפוח.	me'rIyvaD 'epIl naH nob jan.
 heb	tlh_Latn	ג'ון נתן למרי תפוח.	me'rIyvaD 'epIl naH nob jan.
 heb	tlh_Latn	דונלד טראמפ הוא מגפה על האנושות.	Hoch Humanpu' rop'a' ghaH DonalD trump'e'.
 heb	tlh_Latn	דונלד טראמפ הוא שקרן כפייתי.	nepwI''a' ghaH DonalD trump'e'.
+heb	tlh_Latn	האהבה אוהבת לאהוב את האהבה.	parmaq muSHa' 'e' muSHa' parmaq.
 heb	tlh_Latn	הדמון מת.	Heghpu' veqlargh.
 heb	tlh_Latn	הוא לומד גרמנית.	DoyIchlan Hol ghojtaH.
+heb	tlh_Latn	החתולים של תום אוהבים אותי.	mumuSHa' tam vIghro'mey.
 heb	tlh_Latn	היא לומדת גרמנית.	DoyIchlan Hol ghojtaH.
 heb	tlh_Latn	היא שרה והוא רקד.	bom be' 'ej mI' loD.
 heb	tlh_Latn	היא שרה והוא רקד.	bomtaH be' 'ej mI'taH loD.
@@ -36,8 +41,9 @@ heb	tlh_Latn	הכסף הוא אלוהי האדם.	Human Qun 'oH Huch'e'.
 heb	tlh_Latn	המים ההם לא קרים.	bIrbe' bIQvetlh.
 heb	tlh_Latn	המים לא קרים.	bIrbe' bIQ.
 heb	tlh_Latn	המציאות יפה.	'IH DI'ruj.
-heb	tlh_Latn	ה׳ נָתַן וַֽה׳ לָקָח.	nobpu' Qun'a' 'ej nge'pu' Qun'a'.
 heb	tlh_Latn	ה׳ נתן וה׳ לקח.	nobpu' Qun'a' 'ej nge'pu' Qun'a'.
+heb	tlh_Latn	ה׳ נָתַן וַֽה׳ לָקָח.	nobpu' Qun'a' 'ej nge'pu' Qun'a'.
+heb	tlh_Latn	העולם חולה.	rop qo'.
 heb	tlh_Latn	העולם יפה.	'IH qo'.
 heb	tlh_Latn	השד מת.	Heghpu' veqlargh.
 heb	tlh_Latn	השטן מת.	Heghpu' veqlargh.
@@ -45,6 +51,7 @@ heb	tlh_Latn	התפוח הזה ירוק.	SuDqu' 'epIl naHvam.
 heb	tlh_Latn	התפוח ירוק.	SuD 'epIl naH.
 heb	tlh_Latn	התפוח ירוק.	SuDqu' 'epIl naH.
 heb	tlh_Latn	התפוח צהוב.	SuD 'epIl naH.
+heb	tlh_Latn	חתולים הם בעלי חיים.	Ha'DIbaH bIH vIghro''e'.
 heb	tlh_Latn	טום הוא מתורגמן.	mughwI' ghaH tam'e'.
 heb	tlh_Latn	טום מעולם לא היה מוצלח.	not Qap tam.
 heb	tlh_Latn	ישו הוא מעצבן.	muyIv yeSuS.
@@ -54,9 +61,20 @@ heb	tlh_Latn	יש לי דוד עשיר.	'IrneH mIp vIghaj.
 heb	tlh_Latn	יש לי דוד עשיר.	tennuS mIp vIghaj.
 heb	tlh_Latn	יש לי שלושה אחים וארבע אחיות.	wej loDnI', loS be'nI' vIghaj.
 heb	tlh_Latn	יש לנו חתול.	vIghro' wIghaj.
+heb	tlh_Latn	כדור הארץ חולה.	rop tera'.
+heb	tlh_Latn	כוכב הלכת שלנו חולה.	rop yuQmaj.
+heb	tlh_Latn	כל הארצות מזויפות.	ngeb Hoch Sepmey.
+heb	tlh_Latn	למד את שפתך.	HollIj yIghoj.
+heb	tlh_Latn	למדו את שפתכם.	Holraj yIghoj.
+heb	tlh_Latn	למדי את שפתך.	HollIj yIghoj.
 heb	tlh_Latn	מישהי שרה.	bom vay'.
+heb	tlh_Latn	מלחמה היא רעה.	qab veS.
 heb	tlh_Latn	סאמי גר בירושלים.	yeru'Sala'yIm Dab Sa'mIy.
+heb	tlh_Latn	פטריות הן חכמות.	chul tera' yav 'atlhqam.
 heb	tlh_Latn	שמע, ישראל. אדוני אלוהינו. אדוני אחד.	peQoy, 'o yISra'el! Qunma' ghaH joH'a''e'. wa' neH ghaH joH'a''e'.
 heb	tlh_Latn	תום לא טראמפ.	trump ghaHbe' tam'e'.
 heb	tlh_Latn	תום לא מתכנת.	ghunwI' ghaHbe' tam'e'.
 heb	tlh_Latn	תום משורר טוב.	ghuQ ghItlhwI' QaQ ghaH tam'e'.
+heb	tlh_Latn	תלמד את שפתך.	HollIj yIghoj.
+heb	tlh_Latn	תלמדו את שפתכם.	Holraj yIghoj.
+heb	tlh_Latn	תלמדי את שפתך.	HollIj yIghoj.

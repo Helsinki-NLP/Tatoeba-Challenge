@@ -1,8 +1,8 @@
+cycl_Latn	eng	(#$capitalCity #$France #$Paris)	Paris is France's capital.
+cycl_Latn	eng	(#$capitalCity #$France #$Paris)	Paris is the capital of France.
 cycl_Latn	eng	(agentTypeSellsProductType ConvenienceStore CandyBar)	Convenience stores sell candy bars.
 cycl_Latn	eng	(and (isa 1 OddNumber) (isa 3 OddNumber) (isa 5 OddNumber))	One, three, and five are odd numbers.
 cycl_Latn	eng	(behaviorCapable-PerformedBy Madonna Singing-Human)	Madonna is able to sing.
-cycl_Latn	eng	(#$capitalCity #$France #$Paris)	Paris is France's capital.
-cycl_Latn	eng	(#$capitalCity #$France #$Paris)	Paris is the capital of France.
 cycl_Latn	eng	(commonFoodTypeOfCuisine Baguette FrenchCuisine)	The baguette is French.
 cycl_Latn	eng	(cost (TheFn (SubcollectionOfWithRelationToTypeFn Chair-PieceOfFurniture primaryConstituent Wood)) Expensive)	The wooden chair is expensive.
 cycl_Latn	eng	(evaluate 3 (PlusFn 1 2))	One plus two equals three.

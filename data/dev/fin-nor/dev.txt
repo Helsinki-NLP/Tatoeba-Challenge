@@ -328,6 +328,7 @@ fin	nno	Täällä kartta on.	Her er kartet.
 fin	nno	Täällä on se kartta.	Her er kartet.
 fin	nno	Täällä se kartta on.	Her er kartet.
 fin	nno	Tää peli on niin vaikee.	Dette spelet er så vanskeleg.
+fin	nno	Tähän oikeuteen ei voida vedota, kun on kysymys tosi epäpoliittisista rikoksista johtuvista syytteistä tai teoista, jotka ovat vastoin Yhdistyneiden kansakuntien periaatteita ja päämääriä.	Denne retten gjeld ikkje i rettssakar som har røynleg grunnlag i upolitiske brotsverk eller handlingar som strir mot formålet og prinsippet til Dei sameinte nasjonane.
 fin	nno	Tähän oikeuteen ei voida vedota, kun on kysymys tosi epäpoliittisista rikoksista johtuvista syytteistä tai teoista, jotka ovat vastoin Yhdistyneiden Kansakuntien periaatteita ja päämääriä.	Denne retten gjeld ikkje i rettssakar som har røynleg grunnlag i upolitiske brotsverk eller handlingar som strir mot formålet og prinsippet til Dei Sameinte Nasjonane.
 fin	nno	Tähdet alkoivat tulemaan esiin taivaalla.	Stjernene byrja koma fram på himmelen.
 fin	nno	Tämä lahja on sinulle.	Denne gåva er til deg.
@@ -504,6 +505,7 @@ fin	nob	Hän on vielä elossa.	Han lever fortsatt.
 fin	nob	Hän on vielä töissä.	Han er fortsatt på arbeid.
 fin	nob	Hän on yhä elossa.	Han lever fortsatt.
 fin	nob	Hän opiskelee.	Han studerer.
+fin	nob	Hän ostaa kaikki hevoset.	Han kjøper alle hestene.
 fin	nob	Hän pelaa tennistä joka päivä.	Hun spiller tennis hver dag.
 fin	nob	Hän polttaa 20 savuketta päivässä.	Hun røyker 20 sigaretter om dagen.
 fin	nob	Hän puhuu englantia.	Han snakker engelsk.
@@ -769,6 +771,8 @@ fin	nob	Minun nimeni on Salli.	Jeg heter Sally.
 fin	nob	Minun nimeni on Sally.	Jeg heter Sally.
 fin	nob	Minun oli poistatettava tatuointini.	Jeg måtte få fjernet tatoveringen min.
 fin	nob	Minun täytyi poistattaa tatuointini.	Jeg måtte få fjernet tatoveringen min.
+fin	nob	Minun veljeni kutsui kissaansa Hanakoksi.	Broren min kalte katten sin «Hanako».
+fin	nob	Minun veljeni kutsui kissaansa nimellä ”Hanako”.	Broren min kalte katten sin «Hanako».
 fin	nob	Minun virheeni!	Min feil!
 fin	nob	Missä hän asuu?	Hvor bor han?
 fin	nob	Missä isovanhempasi ovat?	Hvor er besteforeldrene dine?
@@ -848,6 +852,7 @@ fin	nob	Nouskaa ylös!	Stå opp!
 fin	nob	Nukkumaanmenoaika.	Det er leggetid.
 fin	nob	Nukkuuko hän?	Sover han?
 fin	nob	Nuku hyvin!	Sov godt!
+fin	nob	Nyt suudella!	Nå kyss!
 fin	nob	Oikein!	Det stemmer!
 fin	nob	Olehan hiljaa.	Vennligst vær stille.
 fin	nob	Ole iloinen!	Vær glad!
@@ -1011,6 +1016,7 @@ fin	nob	Sinä et taida uskoa että minä olen oikeassa, vai uskotko?	Du tror ikk
 fin	nob	Sinä et voi korvata pilkkua pisteellä tässä lauseessa.	Du kan ikke erstatte kommaet med et punktum i denne setningen.
 fin	nob	Sinä et voi tässä lauseessa korvata pilkkua pisteellä.	Du kan ikke erstatte kommaet med et punktum i denne setningen.
 fin	nob	Sinä hölmöilet!	Du tuller!
+fin	nob	Sinäkinkö rakastat minua?	Elsker du også meg?
 fin	nob	Sinä olet kirjoittanut nimeni väärin.	Du har stavet navnet mitt feil.
 fin	nob	Sinä olet minun paras ystäväni.	Du er min beste venn.
 fin	nob	Sinä olet paras ystäväni.	Du er min beste venn.
@@ -1030,6 +1036,7 @@ fin	nob	Sitä kukaan ei tee yksin.	Ingen gjør det alene.
 fin	nob	Sitruunat ovat happamia.	Sitroner er sure.
 fin	nob	Soittakaa minulle!	Ring meg!
 fin	nob	Syö jotain!	Spis noe!
+fin	nob	Tähän oikeuteen ei voida vedota, kun on kysymys tosi epäpoliittisista rikoksista johtuvista syytteistä tai teoista, jotka ovat vastoin Yhdistyneiden kansakuntien periaatteita ja päämääriä.	Denne rett kan ikke påberopes ved rettsforfølgelse som har reelt grunnlag i upolitiske forbrytelser eller handlinger som strider mot De forente nasjoners formål og prinsipper.
 fin	nob	Tähän oikeuteen ei voida vedota, kun on kysymys tosi epäpoliittisista rikoksista johtuvista syytteistä tai teoista, jotka ovat vastoin Yhdistyneiden Kansakuntien periaatteita ja päämääriä.	Denne rett kan ikke påberopes ved rettsforfølgelse som har reelt grunnlag i upolitiske forbrytelser eller handlinger som strider mot De Forente Nasjoners formål og prinsipper.
 fin	nob	Tahdon alkaa luontokuvaajaksi.	Jeg vil bli naturfotograf.
 fin	nob	Tahdon tulla luontokuvaajaksi.	Jeg vil bli naturfotograf.
@@ -1105,6 +1112,8 @@ fin	nob	Tulevaisuus on lähempänä kuin luulet.	Fremtiden er nærmere enn du tr
 fin	nob	Tulkaa!	Kom!
 fin	nob	Tunnen sen tytön, joka pelaa tennistä.	Jeg kjenner jenta som spiller tennis.
 fin	nob	Tuo ei ole minun.	Det er ikke mitt.
+fin	nob	Tuomas pyysi minua tulemaan tähän.	Tom ba meg om å komme hit.
+fin	nob	Tuomas pyysi minua tulemaan tänne.	Tom ba meg om å komme hit.
 fin	nob	Tuomas suuteli sinua, eikö niin?	Tom kyssa deg, ikke sant?
 fin	nob	Tuomo ja Mary uivat jääkylmässä järvessä.	Tom og Mary badet i den iskalde innsjøen.
 fin	nob	Tuomo ja Mary uivat siinä jääkylmässä järvessä.	Tom og Mary badet i den iskalde innsjøen.
@@ -1130,6 +1139,8 @@ fin	nob	Vatsakivut ovat poissa.	Magesmertene er borte.
 fin	nob	Vektorien ei tarvitse vastata fyysisiä suureita; mikä tahansa voi olla lineaariavaruus, kunhan vektoreiden yhteenlasku ja skalaareilla kertominen on määritelty.	Vektorer trenger ikke å svare til en fysisk størrelse; hva som helst kan være et vektorrom så lenge vektoraddisjon og skalarmultiplikasjon er definert.
 fin	nob	Vektorien ei tarvitse vastata fyysisiä suureita; mikä tahansa voi olla lineaariavaruus, kunhan vektorien yhteenlasku ja skalaareilla kertominen on määritelty.	Vektorer trenger ikke å svare til en fysisk størrelse; hva som helst kan være et vektorrom så lenge vektoraddisjon og skalarmultiplikasjon er definert.
 fin	nob	Veljeni käyttää tätä pyörää.	Broren min bruker denne sykkelen.
+fin	nob	Veljeni kutsui kissaansa Hanakoksi.	Broren min kalte katten sin «Hanako».
+fin	nob	Veljeni kutsui kissaansa nimellä ”Hanako”.	Broren min kalte katten sin «Hanako».
 fin	nob	Voisitteko olla hiljaa?	Vennligst vær stille.
 fin	nob	Voitko esitellä kaupunkia minulle?	Kan du vise meg rundt i byen?
 fin	nob	Voitko esitellä minulle kaupunkia?	Kan du vise meg rundt i byen?

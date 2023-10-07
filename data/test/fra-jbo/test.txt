@@ -246,6 +246,7 @@ fra	jbo_Latn	Elle s'est suicidée avec du poison.	sezycatra tu'a lo vindu
 fra	jbo_Latn	Elle s'est trompée de numéro.	ko'a pu srera tu'a lo fonjudri
 fra	jbo_Latn	Elle s'est trompée de numéro.	lo fetsi pu srera tu'a lo fonjudri
 fra	jbo_Latn	Elle s'habilla en vitesse.	le ninmu cu sutra dasygau
+fra	jbo_Latn	Elles iront aux États-Unis pendant le printemps.	klama lo mergugde ca'a lo vensa
 fra	jbo_Latn	Elles ne peuvent pas compter sur l'aide de Tom.	lo fetsi ka'enai lacri lo nu la .tom. cu sidju
 fra	jbo_Latn	Elles ont appelé.	za'u ko'a pu fonjorne
 fra	jbo_Latn	Elles ont attendu leur tour.	lo fetsi pu denpa lo vo'a krefu
@@ -468,6 +469,7 @@ fra	jbo_Latn	J'ai dû lui répondre.	.ei mi ko'a pu spuda
 fra	jbo_Latn	J'ai fait ces boîtes moi-même.	mi po'o zbasu lo ti za'u tanxe
 fra	jbo_Latn	J'ai fait le mieux que j'ai pu.	mi pu'i zukte lo xagrai po mi
 fra	jbo_Latn	J'ai fait un avion en papier.	mi pu zbasu lo pelji vinji
+fra	jbo_Latn	J’ai fait une faute dans la phrase...	.u'u mi srera tu'a le jufra
 fra	jbo_Latn	J'ai huit frères et sœurs.	mi se tunba bi da
 fra	jbo_Latn	J'ai laissé mes clés sur la table. Tu peux me les apporter ?	mi ba'o cliva lo ckiku ga'ure'o lo jubme .i .e'o do cy mi bevri
 fra	jbo_Latn	J'ai les cheveux châtains.	mi se kerfa lo kadbu'e
@@ -484,11 +486,13 @@ fra	jbo_Latn	J'aime les gâteaux.	.i mi nelci lo'e titnanba
 fra	jbo_Latn	J'aime le son de la pluie qui tombe.	mi prami lo sance be lo carvi poi farlu
 fra	jbo_Latn	J'aime l'occitan.	mi nelci lo bangocu'i
 fra	jbo_Latn	J'aime Marie tout simplement comme elle est.	mi sampu sai nelci la .maris. ne tai lo rarna
+fra	jbo_Latn	J'aime ma tante.	mi prami lo mi fetfamti
 fra	jbo_Latn	J'aime mes amies.	mi prami lo mi pendo
 fra	jbo_Latn	J'aime mes amis.	mi prami lo mi pendo
 fra	jbo_Latn	J'aime que tu m'aimes.	mi prami lodu'u do prami mi
 fra	jbo_Latn	J'aimerais bien savoir ce qu'il est en train de faire.	.a'u ko'a ca'o zukte zo'e
 fra	jbo_Latn	J'aimerais tant ouvrir un restaurant.	.ausai mi finti lo gusta
+fra	jbo_Latn	J'aime toutes mes tantes.	mi prami ro mi fetfamti
 fra	jbo_Latn	J'aime vraiment mes collègues.	mi mutce nelci lo gunkansa pe mi
 fra	jbo_Latn	J'ai nettoyé mes pieds.	mi pu lumci lo mi jamfu
 fra	jbo_Latn	J'ai posé quelques questions au médecin.	mi pu reisku so'o da lo mikce
@@ -511,6 +515,7 @@ fra	jbo_Latn	J'aurais dû lire le livre.	mi pu ĭancu lo ka tcidu fi lo cukta
 fra	jbo_Latn	J'avais faim et soif.	mi pu xagji je taske
 fra	jbo_Latn	Je bois le thé sans sucre.	mi pinxe lo tcati joinai sakta
 fra	jbo_Latn	Je chasse l'élan pendant mon temps libre.	mi kalte lo mirli ca lo nu zifre
+fra	jbo_Latn	Je cherche de l'aide.	mi sisku lo ka ce'u sidju
 fra	jbo_Latn	Je connais la vérité.	mi djuno lo jetnu
 fra	jbo_Latn	Je crains que nous n'arrivions trop tard.	.i uinai ba'a mi'o jai lerci dukse
 fra	jbo_Latn	Je crois que tu as composé le mauvais numéro.	.ia do fonjudri srera
@@ -671,6 +676,7 @@ fra	jbo_Latn	Je veux me marier, simplement pas avec toi.	mi spebi'o .au do .auna
 fra	jbo_Latn	Je veux me marier, simplement pas avec vous.	mi spebi'o .au do .aunai sa'e
 fra	jbo_Latn	Je veux parler avec elle.	.au mi ko'a tavla
 fra	jbo_Latn	Je veux pouvoir en profiter avant tout le monde.	mi djica lo nu ka'e prali mi .e babo ro drata
+fra	jbo_Latn	Je veux un chien.	mi djica tu'a lo gerku
 fra	jbo_Latn	Je veux un livre.	mi djica tu'a lo cukta
 fra	jbo_Latn	Je veux un ordinateur.	mi djica tu'a lo skami
 fra	jbo_Latn	Je veux voir ta mère.	.au mi viska lo mamta be do
@@ -681,6 +687,7 @@ fra	jbo_Latn	Je vois le livre.	mi viska le cukta
 fra	jbo_Latn	Je voudrais faire quelque chose d'autre aujourd'hui.	au mi zukte lo drata ca lo cabdei
 fra	jbo_Latn	Je voudrais m'entretenir avec vous de cette liste.	.au mi tavla do lo vi liste
 fra	jbo_Latn	Je voulais changer les choses.	mi pu djica lo nu tikygau
+fra	jbo_Latn	Je voulais épouser Tom.	mi pu kaidji lo ka spebi'o la .tam.
 fra	jbo_Latn	Je voulais savoir ce qui était arrivé.	mi pu djica lo nu djuno lo du'u ma ba'o fasnu
 fra	jbo_Latn	Je voulais savoir ce qui s'était passé.	mi pu kucli lo ba'o fasnu
 fra	jbo_Latn	Je vous ai donné un ordre, il vous reste donc juste à obtempérer.	mi do ba'o minde ja'e lo nu sarcu fa lo po'u nu do tinbe
@@ -703,6 +710,8 @@ fra	jbo_Latn	J'ignore de quoi il s'agit.	mi tolju'o lo du'u srana ma kau
 fra	jbo_Latn	J'ignore encore ce que je fais.	mi za'o tolsanji tu'a da poi mi zukte
 fra	jbo_Latn	J'ignore encore ce que je vais faire.	mi za'o tolsanji da poi mi ba zukte
 fra	jbo_Latn	J'imagine que vous n'êtes pas le seul M. Bark.	pe'i da do panra lo ka mupli fi lo'i bark io
+fra	jbo_Latn	J'utilise du chlore pour nettoyer l'étoile de mer.	mi pilno lo ri'orkliru lo du'u bixygau lo mumbircurnu lo jinsa
+fra	jbo_Latn	J'utilise du chlore pour nettoyer l'étoile de mer violette, et je la fait sécher au soleil.	mi pilno lo ri'orkliru lo du'u bixygau lo zirpu mumbircurnu lo jinsa .i mi sudgau ra sepi'o le solri
 fra	jbo_Latn	J'y suis allée non pas une fois mais deux.	mi pu klama paroi naje reroi
 fra	jbo_Latn	Ken a mis sa chemise à l'envers.	la .ken. lo creka pu sfedukti dasni
 fra	jbo_Latn	Ken avait l'air d'une personne sympathique.	la ken pu simlu lo ka ce'u xendo
@@ -734,6 +743,8 @@ fra	jbo_Latn	La pomme est verte.	le plise cu crino
 fra	jbo_Latn	La prochaine fois que je vois cette phrase, je la traduirai.	mi lo vi jufra ganai za'u re'u viska gi fanva
 fra	jbo_Latn	La règle ne s'applique pas à ce cas.	le javni na mapti lo dei fasnu
 fra	jbo_Latn	L'argent perdu se regagne plus facilement que l'honneur.	frili refcpa lo rupnu semau lo kamselsi'a
+fra	jbo_Latn	La rivière est dans la jungle.	le rirxe cu zvati le cicricfoi
+fra	jbo_Latn	La rivière indienne est dans la jungle.	le rindo rirxe cu zvati le cicricfoi
 fra	jbo_Latn	La seconde guerre mondiale n'était pas encore terminée.	la remoi mujyjamna pu za'o na tolcfa
 fra	jbo_Latn	La taille de l'éléphant a étonné le petit garçon.	lo ni barda po lo xanto pu spaji lo cmalu nanla
 fra	jbo_Latn	La vérité est comme un médicament. C'est pourquoi elle a aussi des effets secondaires.	.i lo jetnu cu simsa lo micyxu'i .ija'ebo jy. jai se jalge lo nalseldji ku ji'a
@@ -745,6 +756,7 @@ fra	jbo_Latn	L'eau est un liquide.	lo djacu cu litki
 fra	jbo_Latn	Le beurre et le fromage sont faits avec du lait.	lo matne .e lo cirla cu se krasi lo ladru
 fra	jbo_Latn	Le bilinguisme peut être un état de transition.	la'a ru'e lo relnunbau cu ve pruce
 fra	jbo_Latn	Le bus vous amène dans le centre-ville.	le basfa cu bevri zo'i lo tcadu midju
+fra	jbo_Latn	Le canard fait « coincoin » en flottant sur le lac.	sa'ei .kuakuak. lo datka cu fulta lo lalxu
 fra	jbo_Latn	Le chat aime dormir à côté de moi.	le mlatu cu nelci lo nu sipna ne'a mi
 fra	jbo_Latn	Le chat a une queue et quatre pattes.	pagbu le mlatu fa pa rebla .e vo jimca
 fra	jbo_Latn	Le chat est en train de manger.	lo mlatu ca ca'o citka
@@ -756,10 +768,12 @@ fra	jbo_Latn	Le défaut apparaît-il régulièrement ou de manière sporadique ?
 fra	jbo_Latn	Le défaut apparaît-il régulièrement ou de manière sporadique ? Est-il possible de le reproduire ?	di'i xu se srera .ibo xu za'ure'u se gasnu
 fra	jbo_Latn	Le dîner a été servi.	gau vacysai
 fra	jbo_Latn	Le Docteur Zamenhof est mort à Varsovie le 14 avril 1917.	la zamenxof poi mikce ku'o pu morsi de'i li 1917 pi'e 04 pi'e 14 ne'i la varcavas
+fra	jbo_Latn	Le fleuve est dans la jungle.	le barda rirxe cu zvati le cicricfoi
 fra	jbo_Latn	Le garçon debout de ce côté est mon fils.	lo nanla co sanli be vi ti cu bersa mi
 fra	jbo_Latn	Le garçon saute.	le nanla cu plipe
 fra	jbo_Latn	L'Église enseigne l'abstinence avant le mariage.	lo jdatcana cu darlu lo nunglecau pe pu lo nunspe
 fra	jbo_Latn	«Le guerrier aime le danger et le jeu. C'est pourquoi il aime la femme qui est le jeu le plus dangereux»	.i lo sonci cu se pluka lo ckape je lo nunkei gi'e se mu'i bo nelci lo ninmu ku noi jai caprai co selkei
+fra	jbo_Latn	Le lac amérindien est dans la jungle.	le rindo lalxu cu zvati le cicricfoi
 fra	jbo_Latn	Le livre est blanc.	le cukta cu blabi
 fra	jbo_Latn	Le lojban est le Salvador Dali des langues.	bu'a fa nu'i ge la lojban lo bangu gi la salvador.dalis.
 fra	jbo_Latn	Le magasin est aussi ouvert la nuit.	lo zarci cu zukte ca lo nicte ji'a
@@ -771,9 +785,11 @@ fra	jbo_Latn	Le père de Thomas est en prison.	lo patfu be la toMAS. ca'o pinfu
 fra	jbo_Latn	Le personnage de gauche gâche l'unité du tableau.	le zu'a prenu cu daspo lo pixra kamcnici
 fra	jbo_Latn	Le petit-déjeuner est-il inclus dans le prix ?	xu tu'a lo cersai cu pagbu lo jdima
 fra	jbo_Latn	Le portail de la maison était ouvert.	lo flovro be lo zdani pu kalri
+fra	jbo_Latn	Le radeau traverse la rivière.	le fultapla cu klama mo'ipa'o le rirxe
 fra	jbo_Latn	Les animaux qui vivent à la ferme sont le cheptel.	lo danlu poi xabju lo cange cu cagda'u
 fra	jbo_Latn	Les aveugles développent parfois une aptitude compensatoire à sentir la proximité des objets autour d'eux.	lo nalvi'a va'o se jmina ka'erbi'o lo nu ganse lo nu vi dacti
 fra	jbo_Latn	Les bouteilles de bières sont faites en verre.	lo botpi be lo birje cu marji lo blaci
+fra	jbo_Latn	Les chats sont des animaux.	lo'e mlatu cu danlu
 fra	jbo_Latn	Les enfants devraient boire du lait tous les jours.	.ei ca ro djedi lo verba su'o ladru cu pinxe
 fra	jbo_Latn	Les enfants jouent dans le parc tous les jours.	lo verba cu kelci ca ro djedi bu'u lo panka
 fra	jbo_Latn	Les enfants ont besoin de beaucoup de sommeil.	lo verba cu nitcu lo ka ze'u sipna
@@ -782,9 +798,11 @@ fra	jbo_Latn	Les gars, à cet âge-là, ne sont pas faciles.	lo nanla poi makcu 
 fra	jbo_Latn	Les gens dans le monde se battent toujours pour plus de liberté et d'égalité.	lo'i prenu na'o darlu lo semau kamzi'e jo'u kamdu'i
 fra	jbo_Latn	Les gens disent sans arrêt qu'il est beau mais vraiment, il ne l'est pas.	sei ru'i cusku ko'a melbi .i ku'i je'u na melbi
 fra	jbo_Latn	Les haïsseurs vont haïr.	.uenai lo xebni cu xebni
+fra	jbo_Latn	Les idées ne meurent pas.	lo'e sidbo na mrobi'o
 fra	jbo_Latn	Les maths sont bien la dernière chose que je voudrais étudier.	lo cmaci ja'asai ro moi da poi mi tadni djica
 fra	jbo_Latn	Les moutons sont élevés pour leur toison et leur viande.	rirni lo lanme tezu'e tu'a lo kerfa jo'u rectu
 fra	jbo_Latn	Les oiseaux volent au moyen de leurs ailes.	lo cipni cu vofli lo vo'a nalci
+fra	jbo_Latn	Les pandas sont noir et blanc.	lo'e latcribe zo'u xekri je blabi
 fra	jbo_Latn	Les professeurs devraient tout expliquer en détail, ne pas être succincts et toujours dire à leurs étudiants de lire leurs livres quand ils rentrent chez eux.	ei lo ctuca cu ciksi sei na torsku ro tcila gi'e roroi stidi fi lo tadni fe lo nu tcidu lo ty moi fe'eco'i lo ty zdani
 fra	jbo_Latn	Les roses dans le jardin sentent bon.	pluka panci lo rozgu po lo purdi
 fra	jbo_Latn	Les scarabées, les papillons et les cafards sont des insectes.	la skarab e lo toldi e lo jalra cu cinki
@@ -798,6 +816,7 @@ fra	jbo_Latn	Lève-toi !	.i ko ckali'a
 fra	jbo_Latn	Lève-toi !	.i ko sa'irbi'o
 fra	jbo_Latn	Le vin aide à la digestion.	lo vanju cu bapli lo nundjarunta
 fra	jbo_Latn	L’homme qui a le plus vécu n’est pas celui qui a compté le plus d’années, mais celui qui a le plus senti la vie.	mivrai fa lo traji be lo ka ce'u jeginai nanca gi ganse lo nunji'e
+fra	jbo_Latn	Libérez l'Écosse !	ei do'o tolpifygau le kotygu'e
 fra	jbo_Latn	Linda aime le chocolat.	la .lindas. cu neltce lo cakla
 fra	jbo_Latn	Lorsque j'ai la migraine, l'aspirine ne soulage pas la douleur pour moi.	ca lo nu sedycro kei la aspirin na jai rinka lo nu mi co'u cortu
 fra	jbo_Latn	Lorsque la ville fut libérée, les gens encadrèrent les rues en jetant des confettis.	ca lo nu lo tcadu co'a zifre kei lo prenu co'a sruri lo klaji gi'e renro lo slaplespi
@@ -853,9 +872,11 @@ fra	jbo_Latn	Moi j'aime les chiens, mais ma sœur aime les chats.	ba'e mi nelci 
 fra	jbo_Latn	Moi je ne suis pas comme toi !	sai mi do na simsa
 fra	jbo_Latn	Moi je ne suis pas comme vous !	sai mi do na simsa
 fra	jbo_Latn	Mon ami apprend le coréen.	lo pendo be mi cu tadni lo bangrgogurio
+fra	jbo_Latn	Mon chat m'aime.	lo mi mlatu cu prami mi
 fra	jbo_Latn	Mon frère peut conduire une voiture.	lo mi bruna cu kakne lo nu klasazri lo karce
 fra	jbo_Latn	Mon frère veut se rendre sur la Lune, un de ces quatre.	lo bruna be mi cu djica lo nu klama lo lunra ca da
 fra	jbo_Latn	Mon grand-père souffre d'hypertension.	lo rirpa'u be mi cu dusyda'eblubi'a
+fra	jbo_Latn	Mon oncle va cuisiner du Nopal.	le mi nakfamti ba ca'o jukpa lo cidjrnopale
 fra	jbo_Latn	Mon sac d'école est très lourd.	lo mi ckule dakli cu mutce tilju
 fra	jbo_Latn	Monsieur Wang est chinois.	la.uan. jungo
 fra	jbo_Latn	M. Wilson est en colère contre Dennis.	la naun. .uils,n. cu fengu la denis.
@@ -868,6 +889,7 @@ fra	jbo_Latn	Ne t'épuise pas.	.i ko zukte co tatpi naku
 fra	jbo_Latn	Ne vois-tu pas que je suis occupée ?	za'apei mi zukclu
 fra	jbo_Latn	Ne vous en faites pas : elle ne comprend pas l'allemand.	.e'u do na'e xanka sei lo bandu'e'u ko'a na bangu
 fra	jbo_Latn	Notre fils a été tué à la guerre.	lo bersa be mi pu se catra va'o lo jamna
+fra	jbo_Latn	Notre planète est malade.	le ma'a plini cu bilma
 fra	jbo_Latn	Nous allons au cinéma.	i'i mi klama lo kinzda
 fra	jbo_Latn	Nous atteindrons Londres avant la tombée de la nuit.	mi'o ba mo'u klama la londyn pu lo co'a nicte
 fra	jbo_Latn	Nous avons amélioré nos conditions.	mi pu xagyga'i lo mi tcini
@@ -899,6 +921,7 @@ fra	jbo_Latn	Nous regrettons mais nous n'avons pas de chambres libres.	.u'u no d
 fra	jbo_Latn	Nous sommes allées chez Marie.	mi pu klama tu'a la .maris.
 fra	jbo_Latn	Nous sommes allés à Londres l'année dernière.	mi klama la london ca lo prulamna'a
 fra	jbo_Latn	Nous sommes à Paris.	mi'a zvati la .paris.
+fra	jbo_Latn	Nous sommes tous des singes.	ro mi'o smani
 fra	jbo_Latn	Nous voulons monter cette montagne.	mi djica lo nu cpare lo vi cmana
 fra	jbo_Latn	Oh, je suis désolé. J'imagine que j'ai fait un mauvais numéro.	.u'u se'inai .i pe'i mi srera tu'a lo namcu
 fra	jbo_Latn	On change la catégorie lexicale des mots.	galfi lo tamlei po lo valsi
@@ -952,6 +975,7 @@ fra	jbo_Latn	Pourquoi voulez-vous faire cela ?	do .io zu'edji ti ma
 fra	jbo_Latn	Pouvez-vous me conduire chez moi ?	xu do mi ka'e xrubei
 fra	jbo_Latn	Pouvez-vous me montrer les horaires ?	e'o jarco lo tcikycartu
 fra	jbo_Latn	Prends un peu de repos !	.e'u do ze'a surla
+fra	jbo_Latn	Protégez les enfants transgenres.	ko bandu lo'e trangeni verba
 fra	jbo_Latn	Puis-je aller jouer dehors ?	.e'a pei mi barkla je kelci
 fra	jbo_Latn	Puis-je m'abriter sous ton parapluie ?	.e'a pei lo me do moi cu santa mi
 fra	jbo_Latn	Puis-je parler à Bill ?	.e'apei mi tavla la .bil.
@@ -1017,6 +1041,7 @@ fra	jbo_Latn	Si vous vous faites percer l'oreille droite, cela signifie que vous
 fra	jbo_Latn	Sois patient s'il te plaît, ça prend du temps.	pe'u denpa sei temni'i
 fra	jbo_Latn	Son record ne sera jamais battu.	lo sadvei po ko'a ba no roi se zmadu
 fra	jbo_Latn	Stop !	e'onai
+fra	jbo_Latn	Ta langue n'est pas importante.	le do bangu na vajni
 fra	jbo_Latn	Tatoeba était en panne hier.	la .tatoebas. cu spofu ca lo prulamdei
 fra	jbo_Latn	Te couche pas trop tard !	ko na dukse lerci sipybi'o
 fra	jbo_Latn	Tes lunettes sont tombées par terre.	lo do lacni cu farlu lo loldi
@@ -1036,6 +1061,7 @@ fra	jbo_Latn	Ton chien est là-bas.	lo me do moi gerku cu zvati ta
 fra	jbo_Latn	Ton grand-père est-il encore vivant ?	xu lo do rirpa'u ca jmive
 fra	jbo_Latn	Ton grand-père est-il encore vivant ?	xu lo do rirpa'u za'o jmive
 fra	jbo_Latn	Ton père et ta mère portent-ils le même nom de famille ?	xu lazme'e lo do patfu jo'u mamta fa lo mintu
+fra	jbo_Latn	Tout ce qui vit doit mourir.	ju'o ro jmive ba mrobi'o
 fra	jbo_Latn	Tout homme est un cadavre potentiel.	ro remna ka'e mroxadni
 fra	jbo_Latn	Tout le monde dit qu'il est un homme gentil.	ti'e sai lo nanmu cu xendo
 fra	jbo_Latn	Tout le monde fut paralysé.	ro da stabi'o

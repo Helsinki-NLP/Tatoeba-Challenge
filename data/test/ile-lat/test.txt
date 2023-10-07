@@ -8,9 +8,12 @@ ile_Latn	lat_Latn	Esque il es felici?	Estne laetus?
 ile_Latn	lat_Latn	Esque ili es felici?	Suntne laetae?
 ile_Latn	lat_Latn	Esque ili es felici?	Suntne laeti?
 ile_Latn	lat_Latn	Esque illos es felici?	Suntne laeti?
+ile_Latn	lat_Latn	Esque li aqua es pur?	Estne aqua munda?
+ile_Latn	lat_Latn	Esque un altri munde es possibil?	Potestne alius mundus esse?
 ile_Latn	lat_Latn	Esther es li marita de Maria.	Esther uxor Mariae est.
 ile_Latn	lat_Latn	Esther es li marita de Rachel.	Esther uxor Rachel est.
 ile_Latn	lat_Latn	Google ne save omnicós.	Google non omnia scit.
+ile_Latn	lat_Latn	Il es mi filio.	Filius meus est.
 ile_Latn	lat_Latn	Ili es con me.	Eae mecum sunt.
 ile_Latn	lat_Latn	Ili es con me.	Ei mecum sunt.
 ile_Latn	lat_Latn	Ili ne va passar!	Non praeteribunt!
@@ -22,6 +25,8 @@ ile_Latn	lat_Latn	Jesu es molestant.	Iesus molestus est.
 ile_Latn	lat_Latn	Li aqua ne es frigid.	Aqua non friget.
 ile_Latn	lat_Latn	Libera Bolivia!	Liberate Boliviam!
 ile_Latn	lat_Latn	Libera Palestina!	Liberate Palaestinam!
+ile_Latn	lat_Latn	Libera Scotia!	Liberate Scotiam!
+ile_Latn	lat_Latn	Libera Tibet!	Liberate Tibetum!
 ile_Latn	lat_Latn	Li cat es grand.	Cattus magnus est.
 ile_Latn	lat_Latn	Li demon es mort.	Daemon mortuus est.
 ile_Latn	lat_Latn	Li demon es mort.	Larva mortua est.
@@ -30,7 +35,9 @@ ile_Latn	lat_Latn	Li diábol es mort.	Larva mortua est.
 ile_Latn	lat_Latn	Li elefantes manja herbe.	Elephantes herbam edunt.
 ile_Latn	lat_Latn	Li elefantes manja herbe.	Elephanti herbam edunt.
 ile_Latn	lat_Latn	Li Judeisme es bell.	Iudaismus pulcher est.
+ile_Latn	lat_Latn	Li munde es malad.	Mundus aegrotat.
 ile_Latn	lat_Latn	Li odiantes va odiar.	Osores odient.
+ile_Latn	lat_Latn	Li pipre es nigri e li sale es blanc.	Piper nigrum, sal album est.
 ile_Latn	lat_Latn	Li porta es nu apert.	Porta iam aperta est.
 ile_Latn	lat_Latn	Li proprietá es un furte.	Peculium est furtum.
 ile_Latn	lat_Latn	Li unic bon fascist es un mort fascist.	Solus fascista bonus est mortuus.
@@ -77,18 +84,21 @@ ile_Latn	lat_Latn	Vu fete.	Foetes.
 ile_Latn	lat_Latn	Vu malodora.	Fetetis.
 ile_Latn	lat_Latn	Vu malodora.	Fētētis.
 ile_Latn	lat_Latn	Vu malodora.	Foetes.
+ile_Latn	lat_Latn	Yo assassinat Tom.	Thoman interfeci.
 ile_Latn	lat_Latn	Yo cantat.	Cantavi.
 ile_Latn	lat_Latn	Yo cantat.	Cantāvī.
 ile_Latn	lat_Latn	Yo dormi in un grand lette.	In magno lecto dormio.
 ile_Latn	lat_Latn	Yo esset torturant li prisonarios.	Captos excruciabam.
 ile_Latn	lat_Latn	Yo ha torturat li prisonarios.	Captos excruciavi.
 ile_Latn	lat_Latn	Yo have quar infantes.	Quattuor liberos habeo.
+ile_Latn	lat_Latn	Yo mortat Tom.	Thoman interfeci.
 ile_Latn	lat_Latn	Yo ne es un pirate.	Pirata non sum.
 ile_Latn	lat_Latn	Yo posse manjar vitre; it ne dole me.	Vitrum edere possum, quod mihi non nocet.
 ile_Latn	lat_Latn	Yo torturat li prisonarios.	Captos excruciavi.
 ile_Latn	lat_Latn	Yo trincat tant quant yo volet.	Bibi quantum volui.
 ile_Latn	lat_Latn	Yo va mortar le.	Eum occidam.
 ile_Latn	lat_Latn	Yo va mortar te.	Te occidam.
+ile_Latn	lat_Latn	Yo va nequande studiar Esperanto.	Linguam Esperanticam numquam discam.
 ile_Latn	lat_Latn	Yo vide li blanc leon.	Leonem album video.
 ile_Latn	lat_Latn	Yo vole comprar un dom.	Domum emere volo.
 ile_Latn	lat_Latn	Yo vole ti-ci libre.	Hunc librum volo.

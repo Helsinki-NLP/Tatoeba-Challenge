@@ -5,8 +5,9 @@ epo	fin	Agordu la radioaparaton iomete pli mallaŭte.	Väännä radiota hieman h
 epo	fin	Agordu la radioaparaton iomete pli mallaŭte.	Vääntäkää radiota hieman hiljemmalle.
 epo	fin	Ajna horloĝo taŭgos, dum ĝi estas malmultekosta.	Mikä vain kello kelpaa, kunhan se on halpa.
 epo	fin	Almenaŭ provu alveni ĝustatempe!	Yritä vähintäänkin tulla hyvissä ajoin!
-epo	fin	Al Nancy plaĉas muziko.	Nancy pitää musiikista.
+epo	fin	Al mi plaĉas kuiri hejme.	Tykkään kokata kotona.
 epo	fin	Al Nancy plaĉas muziko.	Nancy pitÃ¤Ã¤ musiikista.
+epo	fin	Al Nancy plaĉas muziko.	Nancy pitää musiikista.
 epo	fin	Amas mi vin.	Rakastan sinua!
 epo	fin	Ambaŭflanke de la padeto floras kun bluaj infloreskoj lupeno.	Polun molemminpuolin kukkii lupiineja sinisine kukintoineen.
 epo	fin	Ambaŭ knabinoj ekploris.	Kumpikin tytöistä alkoi itkeä.
@@ -45,6 +46,10 @@ epo	fin	Ĉi tiu bombo povus detrui la tutan mondon.	Tämä pommi voisi tuhota ko
 epo	fin	Ĉi tiu ĉambro havas klimatizilon.	Tämä huone on ilmastoitu.
 epo	fin	Ĉi tiu domo apartenas al mia onklo.	Tämä on setäni talo.
 epo	fin	Ĉi tiu frazo estas gramatike malĝusta.	Tämä lause on kieliopillisesti väärin.
+epo	fin	Ĉi tiuj knaboj kuras al la plaĝo.	Nämä pojat juoksevat rannalle.
+epo	fin	Ĉi tiuj knaboj kuras en la arbaron.	Nämä pojat juoksevat metsään.
+epo	fin	Ĉi tiuj sekigitaj barataj mangoj estas pli bonaj ol freŝaj amerikaj mangoj.	Nämä kuivatut intialaiset mangot ovat parempia kuin tuoreet amerikkalaiset.
+epo	fin	Ĉi tiuj viroj kuras en la arbaron.	Nämä miehet juoksevat metsään.
 epo	fin	Ĉi tiu paĝaro estas tre utila.	Tämä nettisivu on tosi hyödyllinen.
 epo	fin	Ĉi tiu tablo estas blanka.	Tämä pöytä on valkoinen.
 epo	fin	Ĉiuj ĉevaloj estas bestoj, sed ne ĉiuj bestoj estas ĉevaloj.	Kaikki hevoset ovat eläimiä, mutta kaikki eläimet eivät ole hevosia.
@@ -67,12 +72,14 @@ epo	fin	Ĉu la formikoj havas orelojn?	Onko muurahaisella korvat?
 epo	fin	Ĉu la inflacio tre influis la laktoprezon?	Vaikuttiko inflaatio suuresti maidon hintaan?
 epo	fin	Ĉu li loĝas ĉi tie?	Asuuko hän täällä?
 epo	fin	Ĉu li scias, ke vi amas lin?	Tietääkö hän, että rakastat häntä?
+epo	fin	Ĉu majonezo estas muzikilo?	Onko majoneesi soitin?
 epo	fin	Ĉu Mariko scipovas legi kaj skribi la japanan?	Osaako Marika lukea ja kirjoittaa japania?
 epo	fin	Ĉu mi devis trinki dek bierojn senpense?	Olisiko sittenkään pitänyt katsomattaan tempaista kymmenen olutta?
 epo	fin	Ĉu mi rajtas foti ĉi tie?	Voinko ottaa valokuvia täällä?
 epo	fin	Ĉu mi rajtas foti vin?	Saanko ottaa sinusta kuvan?
 epo	fin	Ĉu nenio estas farebla?	Eikö mitään ole tehtävissä?
 epo	fin	Ĉu ni ĉesos labori?	Lopetetaanko työt?
+epo	fin	Ĉu post via manĝo?	Ruokailunko jälkeen?
 epo	fin	Ĉu sandviĉoj povas kontentigi vin kiel matenmanĝaĵo?	Kävisikö sinulle voileivät aamiaiseksi?
 epo	fin	Ĉu ŝi estas japanino?	Onko hän japanilainen?
 epo	fin	Ĉu ŝi havas infanojn?	Onko hänellä lapsia?
@@ -101,6 +108,7 @@ epo	fin	Ĉu vi havas konton ĉe Facebook?	Oletko sinä Facebookissa?
 epo	fin	Ĉu vi havas konton ĉe Facebook?	Onko sinulla tili Facebookissa?
 epo	fin	Ĉu vi havas stirpermesilon?	Onko sinulla ajokorttia?
 epo	fin	Ĉu vi havas vortaron?	Onko sinulla sanakirjaa?
+epo	fin	Ĉu vi imitas min?	Matkitko minua?
 epo	fin	Ĉu vi ion atendas?	Odotatko sinä jotain?
 epo	fin	Ĉu vi komprenis ĝin?	Tajuutko?
 epo	fin	Ĉu vi konas bonan dentiston?	Tiedätkö hyvää hammaslääkäriä?
@@ -115,6 +123,8 @@ epo	fin	Ĉu vi ne scias, ke venos gastoj?	Etkö sinä tiedä, milloin vieraat tu
 epo	fin	Ĉu vi opinias, ke Tomo iras libervole?	Uskotko, että Tom lähtee vapaaehtoisesti?
 epo	fin	Ĉu vi pagis por la libro?	Maksoitko kirjasta?
 epo	fin	Ĉu vi povas respondi tiun demandon?	Osaatko vastata tähän kysymykseen?
+epo	fin	Ĉu vi rigardis sub la aŭto?	Katsoitko auton alle?
+epo	fin	Ĉu vi rigardis sub la aŭto?	Katsoitteko auton alle?
 epo	fin	Ĉu vi ŝatas danci?	Tykkäätkö tanssia?
 epo	fin	Ĉu vi ŝatas insektojn?	Tykkäätkö sinä hyönteisistä?
 epo	fin	Ĉu vi ŝatas rusajn manĝaĵojn?	Pidätkö venäläisestä ruuasta?
@@ -137,27 +147,33 @@ epo	fin	Ĉu vi sciis, ke putrintaj ovoj flosas sur la akvo?	Tiedätkö, että pi
 epo	fin	Ĉu vi scipovas ludi tenison?	Osaatko pelata tennistä?
 epo	fin	Ĉu vi supozas, ke mi scias tiujn aĵojn?	Oletatko sinä, että minä tiedän nämä jutut?
 epo	fin	Ĉu vi volas edziniĝi kun mi?	Tuletko vaimokseni?
+epo	fin	Dank' al Dio pro ateismo!	Luojalle kiitos ateismista!
 epo	fin	Dek, dek unu, dek du, dek tri, dek kvar, dek kvin, dek ses, dek sep, dek ok, dek naŭ, dudek.	Kymmenen, yksitoista, kaksitoista, kolmetoista, neljätoista, viisitoista, kuusitoista, seitsemäntoista, kahdeksantoista, yhdeksäntoista, kaksikymmentä.
 epo	fin	Dek du estas para nombro.	Kaksitoista on parillinen luku.
 epo	fin	De kie venas tiu lakto?	Missä tämä maito on tuotettu?
+epo	fin	Demetu la ŝuojn antaŭ ol eniri.	Riisukaa kengät ennen sisääntuloa.
+epo	fin	Demetu la ŝuojn antaŭ ol eniri.	Riisu kengät ennen sisääntuloa.
 epo	fin	Donu al mi glason da lakto.	Anna minulle lasi maitoa.
 epo	fin	Du kaj du estas kvar.	Kaksi ynnä kaksi on neljä.
 epo	fin	Dum horoj ili atendis lin.	He odottivat häntä tuntikausia.
 epo	fin	Dumnokte ĉiuj katoj estas grizaj.	Yöllä kaikki kissat ovat harmaita.
 epo	fin	Dumvoje ni ne renkontis malfacilaĵojn.	Emme kohdanneet vaikeuksia matkan aikana.
 epo	fin	Dumvoje tien nia aŭto paneis.	Meidän automme meni rikki matkalla sinne.
+epo	fin	Eble ili ludas en la parko.	Ehkä he ovat puistossa leikkimässä.
 epo	fin	Ekdormu, mia kara trezoro!	Käy nukkumaan, rakas aarteeni!
 epo	fin	Ek! ek! diris la vulpo al la leporo, ĉu vi ne aŭdas la ĉasiston blovi?	"Hop, hop!" sanoi kettu jänikselle. "Etkö kuule metsästäjän torvea?"
 epo	fin	Ekzistas plia eblo.	On vielä yksi mahdollisuus.
 epo	fin	Ekzistas pli gravaj aĵoj en la vivo.	Elämässä on tärkeämpiäkin asioita.
 epo	fin	Elkorajn gratulojn pro via naskiĝtago, Muiriel!	Hyvää syntymäpäivää, Muiriel!
 epo	fin	Ellitiĝu!	Ylös sängystä!
+epo	fin	En Aŭstralio, somero estas en februaro.	Australiassa kesä on helmikuussa.
 epo	fin	En ĉi tiuj tagoj John drinkas tro multe.	Näinä päivinä John juo liikaa.
 epo	fin	En Eŭropo Elbruso estas la plej alta monto.	Elbrus on Euroopan korkein vuori.
 epo	fin	En Japanujo la nova lernojaro komenciĝas aprile.	Japanissa uusi lukuvuosi alkaa huhtikuussa.
 epo	fin	"En kiu lingvo oni skribas al Sankta Nikolao?" "Memkompreneble en la angla."	”Millä kielellä joulupukille kirjoitetaan?” ”Englanniksi tietysti.”
 epo	fin	En korto estas kokinoj kaj kunikloj, entute ni povas nombri kvardek kapojn kaj cent krurojn. Kiom da kokinoj kaj kiom da kunikloj estas en la korto?	Pihalla on kanoja ja kaneja, yhteensä voimme laskea neljäkymmentä päätä ja sata jalkaa. Montako kanaa ja montako kania pihalla on?
 epo	fin	En la pasinta semajno ni laboris ĝis la deka horo vespere.	Viime viikolla teimme töitä iltakymmeneen asti.
+epo	fin	En miaj sonĝoj mi kapablas flugi.	Unissani osaan lentää.
 epo	fin	En mian propran kaptilon mi kvazaŭ falis.	Melkein menin omaan ansaani.
 epo	fin	En sana korpo estas sana animo.	Terve sielu terveessä ruumiissa.
 epo	fin	En tiu ŝtato la medicina uzo de mariĥuano estas laŭleĝa.	Lääkekannabis on laillista tässä osavaltiossa.
@@ -168,6 +184,7 @@ epo	fin	Estas bonege renkonti vin.	Mahtavaa tavata sinut.
 epo	fin	Estas, ĉar vi ne volas esti sola.	Se johtuu siitä, että sinä et halua olla yksin.
 epo	fin	Estas ĉirkaŭ ok kilometroj.	Se on noin kahdeksan kilometriä.
 epo	fin	Estas fakto, ke mi neniam vidis ĝin.	En todellakaan ole koskaan nähnyt sitä.
+epo	fin	Estas granda spegulo pendanta sur la muro.	Seinällä riippuu suuri peili.
 epo	fin	Estas jam la sepa.	Kello on jo seitsemän.
 epo	fin	Estas lakto en la malvarmujo.	Jääkaapissa on maitoa.
 epo	fin	Estas la oka matene.	Kello on kahdeksan aamulla.
@@ -180,6 +197,8 @@ epo	fin	Estis iam bela knabineto.	Olipa kerran sievä tyttönen.
 epo	fin	Estis iam malriĉa maljunulo kaj riĉa virino.	Elipä päivänä muutamana köyhä vanha mies ja rikas nainen.
 epo	fin	Estis varme, do mi malfermis la fenestron.	Oli lämmin, joten avasin ikkunan.
 epo	fin	Estu agrablaj kun aliaj.	Olkaa kilttejä toisille.
+epo	fin	Eŭropo ne ekzistas.	Eurooppaa ei ole.
+epo	fin	Eŭropo ne ekzistas.	Eurooppaa ei ole olemassa.
 epo	fin	Fadilo malfermis rapidmanĝejon.	Fadil avasi pikaruokaravintolan.
 epo	fin	Farendas tro multe!	On liian paljon tehtävää!
 epo	fin	Feliĉan Kristnaskon!	Hyvää joulua!
@@ -188,6 +207,8 @@ epo	fin	Foje vivis viro kaj virino. Ili ne posedis domon. Ili vivis sur la kampo
 epo	fin	Forgesu rin.	Unohda hänet.
 epo	fin	Ĝardenisto vokatis por desegni la ĝardenon.	Puutarhuri kutsuttiin suunnittelemaan puutarha.
 epo	fin	Ĝentile, Tomo ŝajnigis ne rimarki, ke Manjo estis plorinta.	Tom teeskenteli kohteliaasti, ettei huomannut Marin itkeneen.
+epo	fin	Ĝi estas ĉapelo.	Se on hattu.
+epo	fin	Ĝi estas jam malfermita.	Se on jo auki.
 epo	fin	Ĝi kostas tro multe.	Se maksaa liikaa.
 epo	fin	Ĝi kostas tro multe.	Se on liian kallis.
 epo	fin	Ĝis morgaŭ en la lernejo.	Huomiseen, nähdään koulussa.
@@ -217,6 +238,7 @@ epo	fin	Ilia patro estas taksiisto.	Heidän isänsä on taksinkuljettaja.
 epo	fin	Ili atendadis lin dum horoj.	He odottivat häntä tuntikausia.
 epo	fin	Ili ĉiuj mokis pri lia eraro.	He kaikki pilkkasivat hänen virhettään.
 epo	fin	Ili eĉ ne scias kial.	He eivät edes tiedä miksi.
+epo	fin	Ili estas en la muzeo.	He ovat museossa.
 epo	fin	Ili estas en la oka etaĝo.	He ovat kahdeksannessa kerroksessa.
 epo	fin	Ili estas geedzoj.	He ovat aviopari.
 epo	fin	Ili ne pagis.	He eivät maksaneet.
@@ -232,13 +254,18 @@ epo	fin	Iu ludas pianon.	Joku soittaa pianoa.
 epo	fin	Iu proksimiĝis.	Joku tuli lähemmäksi.
 epo	fin	Iu respondis.	Joku vastasi.
 epo	fin	Iu tuŝis min.	Joku kosketti minua.
+epo	fin	Jam estas la dudek-dua horo.	Kello on jo kymmenen.
+epo	fin	Jam estas la dudek-dua horo.	On jo kello 22.
 epo	fin	Jen mia kontonumero.	Tässä on tilinumeroni.
 epo	fin	Jen ŝi kulpas.	Tämä on hänen vikansa.
 epo	fin	Junaj japanoj amas rokmuzikon kaj ĵazon.	Nuoret japanilaiset pitävät rockista ja jazzista.
 epo	fin	Ĵus mi finis mian matenmanĝon.	Söin juuri aamiaiseni loppuun.
 epo	fin	Kaj Dio diris: Estu lumo. Kaj fariĝis lumo.	Jumala sanoi: "Tulkoon valo!" Ja valo tuli.
 epo	fin	Kaj mi scias, ke vi ne faris ĝin por mi.	Ja minä tiedän, että et tehnyt sitä minun takiani.
+epo	fin	Kankuno situas en Kintanaroo.	Cancún sijaitsee kohteessa Quintana Roo.
+epo	fin	Kankuno situas en Kintanaroo, Meksiko.	Cancún sijaitsee Quintana Roossa, Meksikossa.
 epo	fin	Kara mia amiko!	Minun rakas ystäväni!
+epo	fin	Kelkfoje mi estas trankvila.	Toisinaan olen rauhallinen.
 epo	fin	Ken volas biciklon.	Ken tahtoo pyörän.
 epo	fin	Kia estis via testo?	No mites koe?
 epo	fin	Kial la homoj aldonas simplajn frazojn kiel "saluton", "kiel vi fartas?", ktp?	Miksi ihmiset lisäävät yksinkertaisia ja yleisiä lauseita, kuten "hei", "mitä kuuluu?" jne.?
@@ -250,6 +277,7 @@ epo	fin	Kial vi min amas?	Miksi sinä rakastat minua?
 epo	fin	Kial vi ne matenmanĝis?	Mikset syönyt aamiaista?
 epo	fin	Kial vi volas lerni ĉi tiun lingvon?	Miksi haluat oppia tätä kieltä?
 epo	fin	Kiam foriras la trajno al Bostono?	Mihin aikaan Bostonin juna lähtee?
+epo	fin	Kiam mi estis infano, mia patrino igis min ĉiutage manĝi verdajn legomojn.	Lapsena äiti laittoi minut syömään päivittäin vihreitä vihanneksia.
 epo	fin	Kiam vi enlitiĝis hieraŭ?	Monelta menit nukkumaan eilen?
 epo	fin	Kiam vi pretos por foriri?	Milloin olet valmis lähtöön?
 epo	fin	Kiam vi venos hejmen?	Milloin tulet kotiin?
@@ -269,6 +297,7 @@ epo	fin	Kiel vi konatiĝis kun ŝi?	Miten sinä tutustuit häneen?
 epo	fin	Kiel vi nomiĝas?	Mikä on nimesi?
 epo	fin	Kien ŝi iris?	Mihin hän meni?
 epo	fin	Kien vi iris?	Minne menit?
+epo	fin	Kie ŝi loĝis?	Missä hän asui?
 epo	fin	Kie troviĝas la necesejo por virinoj?	Missä on naistenhuone?
 epo	fin	Kie via hundo estas?	Missä koirasi on?
 epo	fin	Kie viaj infanoj estas nun?	Missä lapsenne nyt ovat?
@@ -276,6 +305,7 @@ epo	fin	Kio do okazas ĉi tie?	Mitä täällä sitten tapahtuu?
 epo	fin	Kio estas via nomo?	Mikä on nimesi?
 epo	fin	Kiom bela floro!	Voi kuinka kaunis kukka!
 epo	fin	Kiom belaj floroj!	Miten kauniita kukkia!
+epo	fin	Kiom da akvo estas en la glaso?	Paljonko vettä on lasissa?
 epo	fin	Kiom da lingvoj estas en Eŭropo?	Montako kieltä Euroopassa on?
 epo	fin	Kiom da loĝantoj havas Nov-Jorko?	Kuinka monta asukasta New Yorkissa on?
 epo	fin	Kiom da mono vi havas?	Kuinka paljon rahaa sinulla on?
@@ -298,6 +328,8 @@ epo	fin	Kion vi opinias, Tomon?	Mitä sinä luulet, Tom?
 epo	fin	Kion volas vi trinki?	Mitä haluaisit juoda?
 epo	fin	Kio okazis poste?	Mitä sitten tapahtui?
 epo	fin	Kiu edziĝas?	Kuka on menossa naimisiin?
+epo	fin	Kiu el tiuj estas via?	Mikä noista on sinun?
+epo	fin	Kiu el tiuj estas via?	Mikä noista on teidän?
 epo	fin	Kiu estas bona hundo?	Kuka on kiltti koira?
 epo	fin	Kiu estas la ĉefurbo de Finnujo ?	Mikä on Suomen pääkaupunki?
 epo	fin	Kiu estas tiu?	Kuka tuo on?
@@ -321,12 +353,18 @@ epo	fin	Kutime, mia edzino ne trinkas kafon vespere, kaj ankaŭ mi ne.	Vaimoni e
 epo	fin	Kvankam estis malvarme, li eliris.	Vaikka oli kylmä, hän meni ulos.
 epo	fin	Kvankam koro ploras, tamen buŝo ridas.	Vaikka sydän itkee, niin siitä huolimatta suu nauraa.
 epo	fin	Kvankam malsana, li iris lernejen.	Vaikka hän oli kipeä, hän meni kouluun.
+epo	fin	La 13-an de Majo 1888 Brazilo oficiale forigis sklavecon.	Brasiliassa orjuus lakkautettiin virallisesti 13. toukokuuta 1888.
 epo	fin	La aglo estas blanka.	Kotka on valkoinen.
+epo	fin	La angla ne taŭgas al riĉuloj.	Englanti ei sovi rikkaille.
 epo	fin	La angla registaro estas kontraŭ tiu projekto.	Englannin hallitus on tätä hanketta vastaan.
 epo	fin	La armeo uzas civilulojn kiel homan ŝildon.	Armeija käyttää siviilejä ihmiskilpenä.
 epo	fin	La dento doloras al mi.	Hammastani särkee.
 epo	fin	La domo estas malvarma.	Talo on kylmä.
+epo	fin	La domo estas tro granda por mi.	Talo on minulle liian suuri.
 epo	fin	La domo malvarmas.	Talo on kylmä.
+epo	fin	La domo situas apud la strando en Jukatano.	Talo sijaitsee rannan vieressä Yucatánissa.
+epo	fin	La domo situas apud la strando en Kankuno.	Talo sijaitsee Cancúnin rannan vieressä.
+epo	fin	La domo situas en Jukatano.	Talo sijaitsee Yucatánissa.
 epo	fin	La eksperimento estis sukcesa.	Koe onnistui.
 epo	fin	La eksperimento estis sukcesa.	Kokeilu onnistui.
 epo	fin	La eksperimento sukcesis.	Koe onnistui.
@@ -344,13 +382,18 @@ epo	fin	La hundo mortis.	Koira kuoli.
 epo	fin	La hundo saltas.	Koira hyppii.
 epo	fin	La imagopovo ebligas al ni vojaĝi tra la kosmo.	Voimme matkustaa läpi avaruuden mielikuvituksen voimalla.
 epo	fin	La kadavro ankoraŭ ne surakviĝis.	Ruumis ei ole vielä noussut pintaan.
+epo	fin	La kastelo situas sur klifo apud la strando.	Linna sijaitsee kallion rannalla.
 epo	fin	La kaŭzo de la brulego estas nekonata.	Tulipalon syytä ei tunneta.
+epo	fin	La knaboj kuras al la plaĝo.	Pojat juoksevat rannalle.
+epo	fin	La knaboj kuras en la arbaron.	Pojat juoksevat metsään.
 epo	fin	La knabo restis silenta.	Poika pysyi hiljaa.
 epo	fin	La knabo scipovas desegni kurbon.	Poika tietää miten piirretään käyrä.
 epo	fin	Lakto kaŭzas al mi stomakodoloron.	Mahani tulee kipeäksi maidosta.
 epo	fin	Lakto kaŭzas al mi stomakodoloron.	Minulle tulee maha kipeäksi maidosta.
 epo	fin	Lakto kaŭzas al mi stomakodoloron.	Saan vatsakivun maidosta.
+epo	fin	La lageton makulis falintaj folioj.	Lammikkoa täplittivät pudonneet lehdet.
 epo	fin	La landa numero por Italio estas +39.	Italian maakoodi on 39.
+epo	fin	La lanternoj, kiuj verde lumigis la stratetojn, ĉirkaŭis la teejon.	Kujat vihreiksi värjäävät lyhdyt ympäröivät teehuonetta.
 epo	fin	La lastaj dek jaroj de lia vivo estis torturo.	Viimeiset kymmenen vuotta elämästään olivat yhtä kidutusta.
 epo	fin	La lasta trajno jam foriris.	Viimeinen juna on jo mennyt.
 epo	fin	La literoj sch en germanaj vortoj kaj sh en anglaj estas skribitaj ŝ en Esperanto. Tio ŝparas spacon kaj inkon.	Saksan kirjaimet "sch" ja englannin "sh" kirjoitetaan esperantossa "ŝ". Säästää tilaa ja mustetta.
@@ -358,11 +401,13 @@ epo	fin	La luno estas bela aŭtune.	Kuu on kaunis syksyisin.
 epo	fin	La luno estas malantaŭ la nuboj.	Kuu on pilvien takana.
 epo	fin	La luno jam videblas.	Kuu näkyy jo.
 epo	fin	La malvarmigadon de la nuklea centralo faciligis la havigo de elektro en parto de ĝiaj sekcioj.	Ydinvoimalan jäähdytystöitä helpotti sähkön saaminen osaan voimalan yksiköistä.
+epo	fin	La mondo estas malsana.	Maailma on sairas.
 epo	fin	La okuloj doloras min!	Silmiini sattuu!
 epo	fin	La patrinjo aĉetis la libron por mi.	Äiti osti kirjan minulle.
 epo	fin	La patro estas sana.	Isä on terve.
 epo	fin	La probablo de tia sinsekvo de eventoj estas unu en du milionoj da flugoj, aŭ unu en du monatoj kun la nuna aertrafika denseco.	Tällaisen tapahtumasarjan todennäköisyys on kerran kahdessa miljoonassa lennossa tai, nykyisellä lentotiheydellä, kahdessa kuukaudessa
 epo	fin	La pufiĝema konduto de tiu aroga muknazulo forpuŝas elektontojn.	Tuon röyhkeän räkänokan mahtaileva käytös karkottaa valitsijoita.
+epo	fin	La puno sekvas la pekon	Rangaistus seuraa synnistä.
 epo	fin	La romanon finas la morto de la heroo.	Romaani päättyy sankarittaren kuolemaan.
 epo	fin	La sablo estas flava, kaj ankaŭ la suno estas flava. La sablo kaj la suno estas flavaj.	Hiekka on keltaista ja aurinkokin on keltainen. Hiekka ja aurinko ovat keltaisia.
 epo	fin	La soldato sciigis sian nomon.	Sotilas kertoi nimensä.
@@ -370,11 +415,13 @@ epo	fin	Lastan jaron li mortis pro kancero.	Hän kuoli syöpään viime vuonna.
 epo	fin	La stato de Tom malboniĝis.	Tomin tila huononi.
 epo	fin	La ŝtono estas peza.	Kivi on painava.
 epo	fin	La telefono estas unu el multaj inventaĵoj de Bell.	Puhelin on yksi Bellin lukuisista keksinnöistä.
+epo	fin	La tempo pasis rapide.	Aika kului nopeaan.
 epo	fin	La trajno haltas en ĉiu stacio.	Juna pysähtyy jokaisella asemalla.
 epo	fin	Laŭdire, li konas la sekreton.	Sanotaan, että hän tietää salaisuuden.
 epo	fin	Laŭ la biblio Dio kreis la mondon dum ses tagoj.	Raamatun mukaan Jumala loi maailman kuudessa päivässä.
 epo	fin	Laŭ la Biblio Dio kreis la mondon en ses tagoj.	Raamatun mukaan Jumala loi maailman kuudessa päivässä.
 epo	fin	Laŭ mia opinio li pravas.	Minun mielestäni hän on oikeassa.
+epo	fin	La unuigita popolo neniam estos venkita.	Yhtenäisiä ihmisiä ei koskaan voiteta.
 epo	fin	La urba loĝantaro de plej multaj evolulandoj kreskas tre rapide.	Useimpien kehitysmaiden kaupunkiväestö kasvaa hyvin nopeasti.
 epo	fin	La urbo fondiĝis en 573.	Kaupunki perustettiin vuonna 573.
 epo	fin	La urso manĝas pomon.	Karhu syö omenaa.
@@ -408,6 +455,9 @@ epo	fin	Li estas inteligenta.	Hän on nokkela.
 epo	fin	Li estas kelnero en restoracio ĉe la marbordo.	Hän on tarjoilijana ravintolassa rannikolla.
 epo	fin	Li estas lerta en futbalo.	Hän on hyvä jalkapallossa.
 epo	fin	Li estas malriĉa.	Hän on köyhä.
+epo	fin	Li estas nuda.	Hän on alasti.
+epo	fin	Li estas nuda.	Hän on ilkosillaan.
+epo	fin	Li estas nuda.	Hän on nakuna.
 epo	fin	Li estas pentristo.	Hän on taidemaalari.
 epo	fin	Li estas simpla viro.	Hän on yksinkertainen mies.
 epo	fin	Li estas sviso.	Hän on sveitsiläinen.
@@ -423,6 +473,7 @@ epo	fin	Li havas blondajn harojn.	Hän on blondi.
 epo	fin	Li havas blondan hararon.	Hänellä on vaaleat hiukset.
 epo	fin	Li havas blondan hararon.	Hän on vaaleahiuksinen.
 epo	fin	Li havas la samajn notojn, kiel mi.	Hänellä on samat muistiinpanot kuin minulla.
+epo	fin	Li komencis pretekstadi.	Hän alkoi ladella tekosyitä.
 epo	fin	Li konas neniun el ni.	Hän ei tunne ketään meistä.
 epo	fin	Li laboras en fabriko.	Hän on töissä tehtaassa.
 epo	fin	Li laboras en fabriko.	Hän työskentelee tehtaassa.
@@ -445,11 +496,13 @@ epo	fin	Li ne povas lerte kanti.	Hän ei osaa laulaa hyvin.
 epo	fin	Li ne povis bridi siajn larmojn.	Hän ei pystynyt estämään kyyneleitään.
 epo	fin	Li ne povis bridi siajn larmojn.	Hän ei pystynyt pidättämään itkuaan.
 epo	fin	Li ne rimarkis la ŝanĝon.	Hän ei huomannut muutosta.
+epo	fin	Lin ŝatas ĉiuj.	Hänestä tykkäävät kaikki.
 epo	fin	Li parolas la anglan pli bone ol mi.	Hän puhuu englantia paremmin kuin minä.
 epo	fin	Li parolas pli bone la anglan ol mi.	Hän puhuu englantia paremmin kuin minä.
 epo	fin	Li posedas maksimume cent dolarojn.	Hänellä on korkeintaan 100 dollaria.
 epo	fin	Li preparis mian tagmanĝon.	Hän valmisti minulle illallisen.
 epo	fin	Li preparis por mi tagmanĝon.	Hän valmisti minulle päivällisen.
+epo	fin	Li restis en sia posteno.	Hän pysyi työpaikassaan.
 epo	fin	Li rimarkis ĝin.	Hän huomasi sen.
 epo	fin	Li ŝatas la francan pli ol la germanan.	Hän pitää enemmän ranskasta kuin saksasta.
 epo	fin	Li scipovas almenaŭ legi.	Hän osaa ainakin lukea.
@@ -500,6 +553,8 @@ epo	fin	Mia patro kredis, ke tiu, kiu ne sukcesas perlabori sian vivon en Japanu
 epo	fin	Mia patro ŝatas vojaĝi aviadile.	Isäni tykkää matkustaa lentokoneella.
 epo	fin	Mi apenaŭ dormis.	Minä en juurikaan nukkunut.
 epo	fin	Mi apenaŭ eskapis.	Onnistuin juuri ja juuri pakenemaan.
+epo	fin	Mia postmoderna kastelo situas en Kankuno.	Postmoderni linnani sijaitsee Cancúnissa.
+epo	fin	Mia sekretario diris, ke vi telefonis.	Sihteerini sanoi, että olit soittanur.
 epo	fin	Mi aŭdis, ke povas neĝi.	Kuulin että saattaisi sataa lunta.
 epo	fin	Mi aŭdis la feliĉajn voĉojn de la infanoj.	Kuulin lasten iloiset äänet.
 epo	fin	Mi bedaŭras ke mi venas tiel malfrue.	Anteeksi, että olen myöhässä.
@@ -523,11 +578,16 @@ epo	fin	Mi devas lin helpi.	Minun täytyy auttaa häntä.
 epo	fin	Mi devas nun foriri.	Minun pitää mennä nyt.
 epo	fin	Mi devas nun foriri.	Minun täytyy lähteä nyt.
 epo	fin	Mi devas nun foriri.	Nyt minun täytyy lähteä.
+epo	fin	Mi devis iri piede, ĉar ne estis taksioj.	Minun täytyi kävellä, koska takseja ei ollut.
 epo	fin	Mi deziras proponi al vi laboron.	Haluaisin tarjota sinulle työtä.
 epo	fin	Mi deziras testi tiun novan modelon, antaŭ ol ĝin aĉeti.	Haluaisin kokeilla tätä uutta mallia ennen kuin ostan sen.
+epo	fin	Mi diris al Tomo, ke la afero urĝas.	Sanoin Tomille, että asia on kiireellinen.
+epo	fin	Mi diris al Tomo, ke la afero urĝas.	Sanoin Tomille, että se on kiireellinen.
 epo	fin	Mi dormemas!	Mua väsyttää!
 epo	fin	Mi dufoje vojaĝis eksterlanden en juneco.	Nuorena matkustin ulkomaille kaksi kertaa.
 epo	fin	Mi edziĝos kun bela estonino.	Aion mennä naimisiin kauniin eestittären kanssa.
+epo	fin	Mi edziĝos morgaŭ.	Menen naimisiin huomenna.
+epo	fin	Mi ege tediĝas de tiuj pitanimaj kvereloj inter politikistoj.	Olen lopen kyllästynyt pikkusieluisten poliitikkojen keskinäiseen riitelyyn.
 epo	fin	Mi eniris neĝustan buson pro malatento.	Menin epähuomiossa väärän bussin kyytiin.
 epo	fin	Mi eniris neĝustan buson pro malatento.	Nousin epähuomiossa väärään bussiin.
 epo	fin	Mi esperas, ke vi helpos min.	Toivon että autat minua.
@@ -587,10 +647,12 @@ epo	fin	Mi havas novan ruĝan aŭton.	Minulla on uusi punainen auto.
 epo	fin	Mi iĝis tre dormema post iom da legado.	Tulin hyvin uneliaaksi pienen lukemisen jälkeen.
 epo	fin	Mi iras en la butikon.	Menen kauppaan.
 epo	fin	Mi iras la butikon.	Minä menen kauppaan.
+epo	fin	Mi jam diris ĝin.	Minähän sanoin sen jo.
 epo	fin	Mi ĵus malkovris la malklaran flankon de Tatoeba.	Olen juuri löytänyt Tatoeban pimeän puolen.
 epo	fin	Mi kapablas perfekte desegni mapon de Brazilo.	Osaan piirtää täydellisesti Brasilian kartan.
 epo	fin	Mi kolektis frambojn en la ĝardeno.	Poimin vattuja puutarhassa.
 epo	fin	Mi koleras, ĉar iu ŝtelis mian biciklon.	Minua suututtaa, koska joku varasti polkupyöräni.
+epo	fin	Mi komprenas ŝin.	Minä ymmärrän häntä.
 epo	fin	Mi konas la kanton.	Minä osaan sen laulun.
 epo	fin	Mi konas neniun de ambaŭ.	En tunne heistä kumpaakaan.
 epo	fin	Mi konas ŝin.	Tunnen hänet.
@@ -611,12 +673,15 @@ epo	fin	Mi malamas karaokeon.	Inhoan karaokea.
 epo	fin	Mi malsatas kaj soifas.	Minulla on nälkä ja jano.
 epo	fin	Mi malŝatas malgajni.	Minä vihaan häviämistä.
 epo	fin	Mi malsatas.	Minulla on nälkä.
+epo	fin	Mi meditas en la arbaro.	Meditoin metsässä.
 epo	fin	Mi memoras tion.	Minä muistan sen.
 epo	fin	Mi mensogis al vi.	Valehtelin sinulle.
 epo	fin	Mi momente ne havas multe da mono.	Minulla ei ole tällä hetkellä paljon rahaa.
 epo	fin	Mi mortas pro malsatego.	Mä kuolen nälkään!
 epo	fin	Mi mortas pro malsatego.	Minä kuolen nälkään!
 epo	fin	Mi naskiĝis en Finnlando.	Minä olen syntynyt Suomessa.
+epo	fin	Mi naskiĝis en la 22-a tago de Januaro de la jaro 1993.	Synnyin kahdeskymmenes toinen ensimmäistä 1993.
+epo	fin	Mi naskiĝis en la 22-a tago de Januaro de la jaro 1993.	Synnyin tammikuun 22. vuonna 1993.
 epo	fin	Mi ne bezonas helpon.	En tarvitse apua.
 epo	fin	Mi ne estas kuracisto.	En ole lääkäri.
 epo	fin	Mi ne estas nano. Mi havas malaltan staturon.	En ole kääpiö. Olen lyhytkasvuinen.
@@ -633,6 +698,7 @@ epo	fin	Mi ne kunportis miajn orelumojn.	En ottanut korvaläppiäni mukaan.
 epo	fin	Mi ne lasos la pordon malfermita.	En jätä ovea auki.
 epo	fin	Mi neniam antaŭe sciis por kio utilas la eterneco. Ĝi utilas por doni al ni la eblecon lerni la germanan.	En ole ennen tiennyt, mihin tarvitaan iäisyyttä. Siitä on hyötyä, jos haluaa mahdollisuuden oppia saksaa.
 epo	fin	Mi neniam estas sola, ĉar mi havas hundon.	Minä en ole koskaan yksin, sillä minulla on koira.
+epo	fin	Mi neniam forgesos, ke vi diris tion.	En tule koskaan unohtamaan, että sanoit sen.
 epo	fin	Mi neniel komprenas liajn dirojn.	En ymmärrä yhtään hänen sanomisiaan.
 epo	fin	Mi ne parolas en la japana.	En puhu japania.
 epo	fin	Mi ne parolas en la japana.	Minä en puhu japania.
@@ -660,6 +726,7 @@ epo	fin	Mi ne scias.	En tiedä.
 epo	fin	Mi ne scias kiel aĉeti bileton.	En tiedä miten lippu ostetaan.
 epo	fin	Mi ne scias, kiel li nomiĝas.	Minä en tiedä mikä hänen nimensä on.
 epo	fin	Mi ne scias, kioma horo estas.	En tiedä mitä kello on.
+epo	fin	Mi ne scias, kion alportos la morgaŭo.	En tiedä, mitä huominen tuo tullessaan.
 epo	fin	Mi ne sciis kie preni la buson.	En tiennyt, missä nousta bussiin.
 epo	fin	Mi ne scipovas desegni birdon.	Minä en osaa piirtää lintua.
 epo	fin	Mi ne vidas lin.	En näe häntä.
@@ -673,6 +740,8 @@ epo	fin	Mi nur volas esti perfekta.	Haluan vain olla täydellinen.
 epo	fin	Mi ofte iris skii vintre.	Kävin talvella usein hiihtämässä.
 epo	fin	Mi parolas pri leono.	Minä puhun leijonasta.
 epo	fin	Mi parolis kun Tomaso dum tridek minutoj.	Juttelin Tomin kanssa puoli tuntia.
+epo	fin	Mi penas esti sincera.	Yritän olla rehellinen.
+epo	fin	„Mi pensas, do mi estas”, diris René Descartes.	”Ajattelen, siis olen”, sanoi René Descartes.
 epo	fin	Mi pensas, ke mi povas helpi per tio.	Luulen, että voin auttaa siinä.
 epo	fin	Mi perdis plombaĵon.	Minulta irtosi hampaasta paikka.
 epo	fin	Mi petas pardonon pro mia malfruiĝo.	Anteeksi että olen myöhässä.
@@ -682,10 +751,13 @@ epo	fin	Mi povis nur plori.	En voinut olla itkemättä.
 epo	fin	Mi preferas rizon ol panon.	Pidän riisistä enemmän kuin leivästä.
 epo	fin	Mi preparis al li vespermanĝon.	Minä tein hänelle illallista.
 epo	fin	Mi pretos post du minutoj.	Olen valmis kahden minuutin päästä.
+epo	fin	Mi promenas tra la parka arbareto.	Kävelen puiston lehtoa.
 epo	fin	Mi provas kontakti ŝian fratinon.	Yritän saada yhteyden hänen sisareensa.
 epo	fin	Mi renkontis vian koramikinon.	Tapasin tyttöystäväsi.
 epo	fin	Mi respondis al la direktoro.	Minä vastasin johtajalle.
 epo	fin	Mi revenos post unu horo.	Palaan takaisin tunnin kuluttua.
+epo	fin	Mi rifuzas aŭskulti vin.	Kieltäydyn kuuntelemasta sinua.
+epo	fin	Mi rifuzas aŭskulti vin.	Kieltäydyn kuuntelemasta teitä.
 epo	fin	Mi ŝatas bildstriojn.	Tykkään sarjakuvista.
 epo	fin	Mi ŝatas la verdan koloron.	Pidän vihreästä.
 epo	fin	Mi ŝatas suŝion.	Tykkään sushista.
@@ -721,6 +793,7 @@ epo	fin	Mi venas el Francujo.	Olen kotoisin Ranskasta.
 epo	fin	Mi verkas kanton en la germana.	Kirjoitan laulun saksaksi.
 epo	fin	Mi vidas libron.	Näen kirjan.
 epo	fin	Mi vidas viron inter la arboj.	Näen puiden välissä miehen.
+epo	fin	Mi vidis ajnuan vilaĝon en la arbaro.	Näin ainukylän metsässä.
 epo	fin	Mi vidis viron eniri la ĉambron.	Näin miehen menevän huoneeseen.
 epo	fin	Mi vidos vin morgaŭ en la biblioteko!	Nähdään huomenna kirjastossa!
 epo	fin	Mi vivas ĉi tie.	Asun täällä.
@@ -745,6 +818,7 @@ epo	fin	Muiriel nun aĝas 20.	Muiriel on nyt 20.
 epo	fin	Muiriel nun havas 20 jarojn.	Muiriel on nyt 20.
 epo	fin	Muiriel nun havas 20 jarojn.	Muiriel on nyt kaksikymmentävuotias.
 epo	fin	Multaj bonaj homoj mortas ĉiutage.	Monia hyviä ihmisiä kuolee joka päivä.
+epo	fin	Multaj homoj ne laboras sabate kaj dimanĉe.	Monet ihmiset eivät tee töitä lauantaisin ja sunnuntaisin.
 epo	fin	Multan dankon!	Kiitos todella paljon!
 epo	fin	Nancy ŝatas muzikon.	Nancy pitää musiikista.
 epo	fin	Naoko estas bona naĝantino.	Naoko on hyvä uimari.
@@ -755,6 +829,8 @@ epo	fin	Ne estas iuj.	Ei ole yhtään.
 epo	fin	Ne estas klientoj.	Asiakkaita ei ole.
 epo	fin	Ne faru erarojn!	Älä tee virheitä!
 epo	fin	Ne fidu lin.	Älä luota häneen.
+epo	fin	Ne forgesu telefoni nin, kiam vi alvenos en Kioto.	Älä unohda soittaa meille, kun saavut Kiotoon.
+epo	fin	Ne forgesu telefoni nin, kiam vi alvenos en Kioto.	Älkää unohtako soittaa meille, kun saavutte Kiotoon.
 epo	fin	Ne forgesu voĉdoni!	Älä unohda äänestää.
 epo	fin	Ne forĵetu ĉi tiun gazeton.	Älä heitä pois tätä lehteä.
 epo	fin	Ne gravas ĉu li venos aŭ ne venos.	Sillä ei ole väliä tuleeko hän vai ei.
@@ -796,9 +872,12 @@ epo	fin	Ni havos tempon ĝis morgaŭ matene.	Meillä on aikaa huomisaamuun asti.
 epo	fin	Ni helpis ankaŭ ilin.	Autoimme heitäkin.
 epo	fin	Ni iris al la parko por ludi.	Menimme leikkimään puistoon.
 epo	fin	Ni iros al Estonio en la proksima monato.	Matkustamme Viroon ensi kuussa.
+epo	fin	Ni kaptu ilin!	Ottakaamme kiinni heidät!
+epo	fin	Ni kaptu ilin!	Ottakaamme kiinni ne!
 epo	fin	Ni loĝis en tristela hotelo.	Me yövyimme kolmen tähden hotellissa.
 epo	fin	Ni manĝis specon de fiŝo, kiu estis tre bongusta.	Vedenpuhdistamolla vesi puhdistetaan haitallisista hiukkasista ja aineksista eri menetelmien avulla.
 epo	fin	Ni ne kapablis kompreni lian logikon.	Me emme pystyneet tajuamaan hänen logiikkaansa.
+epo	fin	Ni ne konas la naturon de l’ infanaĝo: ju pli ni sekvas niajn malverajn nociojn pri ĝi, des pli ni devagas en iluzion.	Emme ollenkaan tunne lapsen luontoa; siitä muodostamiemme väärien käsitteiden nojalla joudumme, kuta pitemmälle koetamme päästä, yhä kauemmaksi harhateille.
 epo	fin	Ni ne konfuzu Amerikon kun Usono, Amerikanojn kun Usonanoj.	Emme saa sekoittaa Amerikkaa Yhdysvaltoihin, amerikkalaisia yhdysvaltalaisiin.
 epo	fin	Ni povas ekiri.	Voimme lähteä.
 epo	fin	Ni sciis ĉion pri tio.	Me tiesimme kaiken siitä.
@@ -807,6 +886,7 @@ epo	fin	Ni volonte helpos vin.	Autamme teitä ilomielin.
 epo	fin	Ni volontulis.	Me tarjouduimme vapaaehtoisiksi.
 epo	fin	Nova balailo bone balaas.	Uudet luudat lakaisevat hyvin.
 epo	fin	Nu, almenaŭ ŝi ne malsekiĝis.	No, ainakaan hän ei kastunut.
+epo	fin	Nun elĉerpiĝis miaj fortoj.	Nyt olen ihan poikki.
 epo	fin	Nun estas mia vico paroli.	Nyt on minun vuoroni puhua.
 epo	fin	Nun ĝi estas oficiala.	Nyt se on virallinen.
 epo	fin	Oni ankoraŭ povas vidi la ŝipon.	Laiva on vielä näkyvissä.
@@ -826,6 +906,7 @@ epo	fin	Pardonu min pro mia malfruo.	Anteeksi että olen myöhässä.
 epo	fin	Pardonu min pro tio ke mi interrompas vin.	Anteeksi kun keskeytän sinut.
 epo	fin	Pardonu min pro tio ke mi interrompis vin.	Anteeksi kun keskeytän sinut.
 epo	fin	Pardonu, permesu al mi indiki tri erarojn en la supra artikolo.	Anteeksi, mutta saisinko näyttää kolme virhettä yllä olevasta artikkelista.
+epo	fin	Parolu kun mia kuracisto.	Juttele lääkärini kanssa.
 epo	fin	Parolu kun mi!	Puhu minulle!
 epo	fin	Pensu pri via familio!	Ajattele perhettäsi!
 epo	fin	Persikoj gustas dolĉe.	Persikat maistuvat makeilta.
@@ -853,6 +934,7 @@ epo	fin	Restas lakto en la fridujo.	Jääkaapissa on maitoa jäljellä.
 epo	fin	Restas malmulte da mono.	Rahaa on vähän jäljellä.
 epo	fin	Ri diris ion.	Hän sanoi jotain.
 epo	fin	Ri estas ege bela.	Hän on erittäin kaunis.
+epo	fin	Rigardu, panjo, mi estas en Tatoeba!	Katso äiti! Olen Tatoebassa!
 epo	fin	Romo ne estis konstruita je unu tago.	Ei Roomaakaan rakennettu yhdessä päivässä.
 epo	fin	Saluton! Kiel vi fartas?	Moi! Miten menee?
 epo	fin	Saluton, mi estas Tomoko Sato el Japanio.	Hei. Olen Tomoka Sato Japanista.
@@ -863,6 +945,7 @@ epo	fin	Se ĝi ne estas difektita, ne riparu ĝin.	Jos se ei ole rikki, älä ko
 epo	fin	Se la doloro daŭras, vi devos viziti kuraciston.	Jos kipu jatkuu, sinun täytyy mennä lääkäriin.
 epo	fin	Se mi estus riĉa, mi aĉetus tion.	Jos olisin rikas, ostaisin sen.
 epo	fin	Se muso havas nur unu truon, baldaŭ ĝi pereos.	Jos hiirellä on vain yksi kolo, sen tuho on lähellä.
+epo	fin	Senpense vagante tra la urbo, ŝi subite falis en la fosaĵon.	Vaeltaessaan mitään miettimättä kaupungin halki hän yht' äkkiä putosi kuoppaan.
 epo	fin	Sen via helpo mi ne povintus fari ĝin.	Ilman teidän apuanne en olisi voinut tehdä sitä.
 epo	fin	Se vi deziras pacon, preparu vin por milito.	Jos haluat rauhaa, varaudu sotaan.
 epo	fin	Se vi ne povas ridi, almenaŭ ridetu!	Jos et voi nauraa, niin hymyile ainakin!
@@ -871,6 +954,7 @@ epo	fin	Sezamo, malfermiĝu!	Seesam, aukene!
 epo	fin	Ŝia angla lingvoscio estas bonega.	Hänen englantinsa on erinomaista.
 epo	fin	Ŝi aĉetadas en najbara nutraĵvendejo.	Hän käy ostoksilla naapurin ruokakaupassa.
 epo	fin	Ŝiaj manoj estas plenplenaj per laboro.	Hänen kätensä ovat aivan täynnä työtä.
+epo	fin	Ŝi atendas ilin.	Hän odottaa heitä.
 epo	fin	Ŝi ĉiam aĉetas multekostajn vestaĵojn.	Hän ostaa aina kalliita vaatteita.
 epo	fin	Ŝi estas en la kuirejo.	Hän on keittiössä.
 epo	fin	Ŝi estas fidinda homo.	Hän on luotettava ihminen.
@@ -879,6 +963,7 @@ epo	fin	Ŝi havas blankan katon.	Hänellä on valkoinen kissa.
 epo	fin	Ŝi havas blondan hararon.	Hän on blondi.
 epo	fin	Ŝi havas proksimume 2000 librojn.	Hänellä on noin 2 000 kirjaa.
 epo	fin	Ŝi kelkfoje skribas al sia filo.	Hän kirjoittaa joskus pojalleen.
+epo	fin	Ŝi komencis pretekstadi.	Hän alkoi ladella tekosyitä.
 epo	fin	"Silentu" li flustris.	”Ole hiljaa”, hän kuiskasi.
 epo	fin	Ŝi loĝas en Nov-Jorko.	Hän asuu New Yorkissa.
 epo	fin	Ŝi malamas Tomon.	Hän vihaa Tomia.
@@ -904,6 +989,7 @@ epo	fin	Subite ekpluvis.	Yhtäkkiä alkoi sataa.
 epo	fin	Subite komencis pluvi.	Yhtäkkiä alkoi sataa.
 epo	fin	Sur la libra breto estas nur libroj.	Hyllyssä on vain kirjoja.
 epo	fin	Surmetu vian mantelon!	Laita takkisi päälle.
+epo	fin	Sur Titano, malhela metana rivero fluas en metanan lagon ĉirkaŭatan de dezerto da dunoj.	Titanilla tumma metaanijoki virtaa metaanijärveen, jota ympäröi dyynien autiomaa.
 epo	fin	Svedujo nomiĝas "Sverige" en la sveda.	Ruotsi on "Sverige" ruotsiksi.
 epo	fin	Tatoeba estas dependiga.	Tatoeba aiheuttaa riippuvuutta.
 epo	fin	Tiam lia patrino pensis.	Tuolloin hänen äitinsä ajatteli.
@@ -924,7 +1010,11 @@ epo	fin	Tiu domo famas.	Tuo talo on kuuluisa.
 epo	fin	Tiu estas mia amiko Tom.	Tässä on ystäväni Tom.
 epo	fin	Tiu estis la plej interesa libro, kiun ŝi iam ajn legis.	Tämä oli mielenkiintoisin kirja, jonka hän oli koskaan lukenut.
 epo	fin	Tiu filmo infantaŭgas.	Tuo elokuva on lapsille soveltuva.
+epo	fin	Tiuj knaboj kuras al la plaĝo.	Nuo pojat juoksevat rannalle.
+epo	fin	Tiuj knaboj kuras en la arbaron.	Nuo pojat juoksevat metsään.
+epo	fin	Tiujn oni nun vaste uzas por komunikado, kalkulado kaj aliaj taskoj.	Niitä käytetään nyt laajasti viestintään, laskentaan ja muuhun toimintaan.
 epo	fin	Tiuj vendas ŝuojn.	Nuo myyvät kenkiä.
+epo	fin	Tiuj viroj kuras en la arbaron.	Nuo miehet juoksevat metsään.
 epo	fin	Tiu malnova tablo ankoraŭ estadas en uzo.	Tuo vanha pöytä on vielä käytössä.
 epo	fin	Tiu pomo dolĉas.	Se omena on makea.
 epo	fin	Tiu revo efektiviĝis.	Se unelma on toteutunut.
@@ -938,6 +1028,7 @@ epo	fin	Tiu vortaro ĝisdatas.	Se sanakirja on ajantasalla.
 epo	fin	Tom ankoraŭ ne povas naĝi.	Tom ei osaa vielä uida.
 epo	fin	Tom ankoraŭ ploras plu.	Tom itkee vieläkin.
 epo	fin	Tom ankoraŭ ploras.	Tom itkee edelleen.
+epo	fin	Tomaso estis mortigita de fulmo.	Tomin tappoi salama.
 epo	fin	Tomaso paliĝis.	Tomin kasvot kalpenivat.
 epo	fin	Tomaso sciiĝis pri tempo.	Tom tarkisti kellonajan.
 epo	fin	Tomaso scipovas ludi ĉiujn pianajn sonatojn de Betoveno.	Tomi osaa soittaa kaikki Beethovenin pianosonaatit.
@@ -971,6 +1062,7 @@ epo	fin	Tomo diris, ke Manjo malpravas.	Tom sanoi, että Mari on väärässä.
 epo	fin	Tomo dormas.	Tom nukkuu.
 epo	fin	Tomo estas la najbaro de Manjo.	Tom on Maryn naapuri.
 epo	fin	Tomo estis malriĉa dum sia tuta vivo.	Tom oli köyhä koko elämänsä.
+epo	fin	Tomo farbis la barilon blanka.	Tommi maalasi aidan valkoiseksi.
 epo	fin	Tomo firme decidis ĉesi fumi.	Tom päätti lopettaa tupakanpolton.
 epo	fin	Tomo firme decidis ĉesi fumi.	Tom päätti lopettaa tupakoinnin.
 epo	fin	Tomo havas bluajn okulojn.	Tomilla on siniset silmät.
@@ -980,6 +1072,7 @@ epo	fin	Tomo havas nenion.	Tomilla ei ole mitään.
 epo	fin	Tomo havas tatuaĵon sur sia brusto.	Tomilla on tatuointi rinnassa.
 epo	fin	Tomo kapablas rapide kuri.	Tom pystyy juoksemaan nopeasti.
 epo	fin	Tomo konfesis sian eraron.	Tom myönsi virheensä.
+epo	fin	Tomo malkaŝis sian sekreton.	Tuomo paljasti salaisuutensa.
 epo	fin	Tomo ne estas anarkiisto.	Tom ei ole anarkisti.
 epo	fin	Tomo ne estas bioĥemiisto.	Tuomas ei ole biokemisti.
 epo	fin	Tomo ne estas ĉi tie.	Tom ei ole täällä.
@@ -1008,6 +1101,8 @@ epo	fin	Tra tia pluvo li ne venos.	Tällä sateella hän ei tule.
 epo	fin	Tre belas ĉi tie.	Täällä on todella kaunista.
 epo	fin	Tri jaroj miaopinie estas longa tempo.	Mielestäni kolme vuotta on pitkä aika.
 epo	fin	Unu, du, tri, kvar, kvin, ses, sep, ok, naŭ, dek.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän, kymmenen.
+epo	fin	Unu el miaj filinoj iras al la sama lernejo kiel Tomo.	Yksi tytöistäni käy samaa koulua Tomin kanssa.
+epo	fin	Unu el miaj filinoj iras al la sama lernejo kiel Tomo.	Yksi tyttäristäni käy samaa koulua Tomin kanssa.
 epo	fin	Unu glason da akvo, mi petas.	Lasillinen vettä, kiitos.
 epo	fin	Valoras vojaĝi en la regionon de Tohoku.	Tōhokun alue on vierailemisen arvoinen.
 epo	fin	Venĝo estas dolĉa.	Kosto on suloinen.

@@ -1,0 +1,61 @@
+ara-kab	Arabic	Kabyle	522	2394	2596				27728	212475	266279	
+bel-lat	Belarusian	Latin	222	956	901				33030	92459	113646	
+ces-lat	Czech	Latin	326	1452	1362	1	3	4	93041	848681	784915	
+cha-eng	Chamorro	English	227	774	898				12958	240438	265296	
+chv-tur	Chuvash	Turkish	525	2129	2101				77766	952316	928648	
+dan-yid	Danish	Yiddish	200	968	1053	11	58	60	79581	399299	635391	
+deu-dsb	German	Lower Sorbian	640	3696	3203	1	5	5	24374	208816	201470	
+deu-hsb	German	Upper Sorbian	667	3961	3337	1	5	5	33193	253689	237563	
+deu-ina	German	Interlingua (International Auxiliary Language Association)	1257	9764	10569	213	1008	1057	17527	144114	158585	
+deu-kab	German	Kabyle	453	2481	2106	8	47	33	29080	305106	306566	
+deu-lat	German	Latin	2016	10773	8116	1283	7964	5950	90136	1018375	823842	
+deu-yid	German	Yiddish	1000	4929	5230	430	2378	2589	80311	910608	1144788	
+dsb-hsb	Lower Sorbian	Upper Sorbian	333	943	930				26230	218572	215893	
+dsb-slv	Lower Sorbian	Slovenian	332	1017	1038				28672	221120	217525	
+eng-ido	English	Ido	2271	13288	12187	1483	8666	8023	20477	150789	146607	
+eng-ina	English	Interlingua (International Auxiliary Language Association)	4988	36505	38263	6550	45714	47784	23929	209596	228533	
+eng-rom	English	Romany	706	3961	4494				23887	447988	458579	
+epo-ina	Esperanto	Interlingua (International Auxiliary Language Association)	2644	17723	19883	1764	10190	11395	11490	67228	73779	
+epo-lat	Esperanto	Latin	3106	36459	27041	5980	76518	56743	82530	793907	666225	
+epo-nds	Esperanto	Low German	2536	14209	15218	1284	7483	7944	70139	318548	351891	
+epo-oci	Esperanto	Occitan (post 1500)	589	4291	4484	1	8	6	79752	194099	227876	
+epo-yid	Esperanto	Yiddish	2489	12345	13852	2278	11029	12302	23264	49764	109329	
+fin-kur	Finnish	Kurdish	261	1186	1555				55449	395487	583192	
+fin-lat	Finnish	Latin	297	1141	1110	1	4	4	77949	650191	662444	
+fra-ina	French	Interlingua (International Auxiliary Language Association)	1177	8102	7878	187	1009	934	20577	181596	172040	
+fra-uig	French	Uighur	694	4006	2733				13012	196445	186586	
+fra-yid	French	Yiddish	752	4197	3929	61	330	325	21456	88741	581285	
+gla-spa	Scottish Gaelic	Spanish	289	1710	1293				32696	197794	179232	
+heb-ina	Hebrew	Interlingua (International Auxiliary Language Association)	281	1245	1573	41	165	235	16264	89463	108319	
+heb-yid	Hebrew	Yiddish	983	4112	5718	374	1575	2117	27872	123470	639272	
+hsb-slv	Upper Sorbian	Slovenian	745	2260	2314				37314	255643	262101	
+hun-lat	Hungarian	Latin	622	2764	2550	16	54	52	81748	705469	672352	
+ina-ita	Interlingua (International Auxiliary Language Association)	Italian	956	6447	5872	11	51	47	20435	188413	186304	
+ina-nld	Interlingua (International Auxiliary Language Association)	Dutch	1068	6985	7072	19	83	78	19869	183813	168965	
+ina-por	Interlingua (International Auxiliary Language Association)	Portuguese	2581	21465	20681	7080	60561	57869	36471	346723	340608	
+ina-rus	Interlingua (International Auxiliary Language Association)	Russian	1453	11568	8627	63	305	217	20067	170524	145852	
+ina-spa	Interlingua (International Auxiliary Language Association)	Spanish	1613	13112	12448	234	1232	1199	17485	159209	160775	
+ina-tur	Interlingua (International Auxiliary Language Association)	Turkish	330	1578	1104	13	69	45	19925	149194	113232	
+ita-yid	Italian	Yiddish	316	1426	1542	37	179	205	24324	105611	608582	
+jpn-jpn	Japanese	Japanese	616	622	659				18246	32087	31795	
+jpn-nds	Japanese	Low German	427	431	2451	54	54	357	90551	154542	524982	
+kab-rus	Kabyle	Russian	438	2201	2269				33304	327095	284552	
+kab-spa	Kabyle	Spanish	1000	5503	6413	622	3394	3880	30212	313037	332433	
+kur-kur	Kurdish	Kurdish	996	4902	4913	205	1039	1036	70847	407918	407919	
+lat-nld	Latin	Dutch	403	1628	2234	9	35	40	91581	745657	1009715	
+lat-nor	Latin	Norwegian	333	1388	1838				72089	641842	821076	
+lat-pol	Latin	Polish	920	3652	3890				96030	787390	845436	
+lat-rus	Latin	Russian	1041	4728	4920	1205	5892	6235	90994	758535	783501	
+lat-ukr	Latin	Ukrainian	392	1467	1583	8	25	26	56845	269704	248423	
+lat-yid	Latin	Yiddish	630	2238	3100	78	281	385	10479	22923	92660	
+nds-rus	Low German	Russian	1003	5764	4787	36	212	182	99907	587241	513499	
+nld-yid	Dutch	Yiddish	257	1265	1322	22	92	98	55258	649053	767680	
+oss-rus	Ossetian	Russian	324	1583	1491				59537	490091	485072	
+por-yid	Portuguese	Yiddish	253	1295	1354	22	116	119	23367	89882	518435	
+rus-uig	Russian	Uighur	536	2691	2303				50345	2004338	1117189	
+rus-yid	Russian	Yiddish	284	1117	1501	24	87	117	20133	75774	570250	
+spa-yid	Spanish	Yiddish	710	3530	3762	43	247	266	23063	88177	549997	
+tur-uig	Turkish	Uighur	1400	6421	6252	1034	4733	4664	58242	1038548	1292825	
+tur-yid	Turkish	Yiddish	200	671	979	26	95	143	21640	63435	373122	
+uig-zho	Uighur	Chinese	1929	8649	1980				19085	261009	27226	
+vie-vie	Vietnamese	Vietnamese	552	5658	5786				17294	162880	158321	

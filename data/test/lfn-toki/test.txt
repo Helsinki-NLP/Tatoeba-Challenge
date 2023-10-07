@@ -57,6 +57,7 @@ lfn_Latn	toki_Latn	Esce vos gusta esta pais?	ma ni li pona ala pona tawa sina?
 lfn_Latn	toki_Latn	Esta acua no es fria.	telo ni li lete ala.
 lfn_Latn	toki_Latn	Esta es multe dulse.	ni li suwi mute.
 lfn_Latn	toki_Latn	Esta no es blu?	ni li laso ala anu seme?
+lfn_Latn	toki_Latn	Femes transjenero es femes.	meli tonsi li meli.
 lfn_Latn	toki_Latn	Gatos es individuas complicada.	soweli li ike.
 lfn_Latn	toki_Latn	Helen Keller ia es sieca, sorda e muda.	jan Elenkela li ken ala lukin, li ken ala kute, li ken ala toki kepeken uta.
 lfn_Latn	toki_Latn	Iudisme es bela.	nasin sewi Juta li pona.
@@ -71,7 +72,9 @@ lfn_Latn	toki_Latn	La vera iudis es la iudis.	jan Juta lon li jan Juta.
 lfn_Latn	toki_Latn	Libri Filastin.	o pana e ken ale tawa ma Pilisin.
 lfn_Latn	toki_Latn	Lietuvisce es un bon lingua.	toki Lijatuwa li toki pona.
 lfn_Latn	toki_Latn	Lo pare ce Tokyo ia reseta la mesaje de Washington.	lukin la ma Nijon li kama jo e toki tan ma Mewika.
+lfn_Latn	toki_Latn	Los es de Suomi.	ona li tan ma Sumi.
 lfn_Latn	toki_Latn	Los ia responde: "Perce un xapo ta asusta?"	ona li toki: "mi pilin ike tan len lawa anu seme?"
+lfn_Latn	toki_Latn	Maria es un fem transjenero.	jan Mewi li meli tonsi.
 lfn_Latn	toki_Latn	Me ama parolas.	nimi li pona mute tawa mi.
 lfn_Latn	toki_Latn	Me aprende eres.	mi kama sona e toki Alan.
 lfn_Latn	toki_Latn	Me aprende Ido.	mi kama sona e toki Ito.
@@ -79,6 +82,7 @@ lfn_Latn	toki_Latn	Me ave la parolas la plu bon.	nimi mute mi li pona mute. nimi
 lfn_Latn	toki_Latn	Mea vive es un era.	pakala la mi lon.
 lfn_Latn	toki_Latn	Me come como me come.	mi moku kepeken nasin moku mi.
 lfn_Latn	toki_Latn	Me es grande e forte.	mi suli li wawa.
+lfn_Latn	toki_Latn	Me es un anarciste.	mi wile ala e jan lawa.
 lfn_Latn	toki_Latn	Me es un leon fema.	mi soweli meli.
 lfn_Latn	toki_Latn	Me es un leon fema.	mi soweli wawa.
 lfn_Latn	toki_Latn	Me gusta nomes.	nimi li pona tawa mi.
@@ -91,13 +95,16 @@ lfn_Latn	toki_Latn	Me no es un serpente.	mi akesi ala.
 lfn_Latn	toki_Latn	Me sabe ce Tom sabe ce me sabe.	mi sona e ni: jan Ton li sona e ni: mi sona.
 lfn_Latn	toki_Latn	Me va es fenomenal per la femes. Me vole dise, me vole aida femes.	mi pona mute tawa meli ali. mi wile toki e ni: mi wile pana e pona tawa meli ali.
 lfn_Latn	toki_Latn	Me vole mori!	mi wile moli a!
+lfn_Latn	toki_Latn	Me vole un can.	mi wile e soweli tomo.
 lfn_Latn	toki_Latn	Me vole un libro.	mi wile e lipu sona.
 lfn_Latn	toki_Latn	No abri lo.	o open ala e ona!
 lfn_Latn	toki_Latn	Nos no vole feri los.	mi wile ala pakala e ona.
 lfn_Latn	toki_Latn	Odiores va odia.	tenpo ali la jan li ike tawa jan ike.
 lfn_Latn	toki_Latn	Oji lo es multe fria, no?	tenpo suno ni la lete mute li lon anu seme?
+lfn_Latn	toki_Latn	Omes transjenero es omes.	mije tonsi li mije.
 lfn_Latn	toki_Latn	On ave planetas grande como Jupiter e Marte. Ma on ave ance tro multe corpos sielal peti, cuales on nomi sola par un numero.	sike sewi suli li lon. nimi ona li sike ma li sike Upita li sike Masu. sike sewi lili li lon kin. nanpa ona li mute mute. nimi ona li nanpa taso.
 lfn_Latn	toki_Latn	On pote ensenia cosas importante par Toki Pona.	jan li ken pana e sona pi suli mute kepeken toki pona.
+lfn_Latn	toki_Latn	Parla, David.	jan Tawi o toki!
 lfn_Latn	toki_Latn	Pas es multe importante.	utala ala li suli mute.
 lfn_Latn	toki_Latn	Per favore, no toca mea orcideas.	o luka ala e kasi kule mani mi.
 lfn_Latn	toki_Latn	Regarda! Mea ami de cor ave capeles blonde e oios azul.	o lukin! meli mi li jo e linja lawa jelo e oko laso.
@@ -111,10 +118,12 @@ lfn_Latn	toki_Latn	Tom es un antiiudiste.	jan Juta li ike tawa jan Ton.
 lfn_Latn	toki_Latn	Tom es un antisemita.	jan Juta li ike tawa jan Ton.
 lfn_Latn	toki_Latn	Tom es un manica relijiosa.	jan Tom li nasa tan nasin sewi.
 lfn_Latn	toki_Latn	Tom es un om e me es un fem.	jan Ton li mije. mi meli.
+lfn_Latn	toki_Latn	Tom es un om transjenero.	jan Ton li mije tonsi.
 lfn_Latn	toki_Latn	Tom es un person multe bon.	jan Ton li jan pi pona mute.
 lfn_Latn	toki_Latn	Tom gusta Mary.	jan Mewi li pona tawa jan Ton.
 lfn_Latn	toki_Latn	Tom ia clui lo.	tenpo pini la jan Ton li pini e ona.
 lfn_Latn	toki_Latn	Tom ia odia Boston.	tenpo pini la ma tomo Pasen li ike mute tawa jan Ton.
+lfn_Latn	toki_Latn	Tom ia peta.	jan Ton li pana e kon monsi.
 lfn_Latn	toki_Latn	Tom odia Boston.	ma tomo Pasen li ike mute tawa jan Ton.
 lfn_Latn	toki_Latn	Tom usa drogas.	jan Ton li kepeken jaki nasa.
 lfn_Latn	toki_Latn	Tota la rios vade a la mar, e la mar no es plen; a la loca a cual la rios vade, ala los revade.	nasin telo ale li tawa telo suli. taso telo suli li kama ala ale. tenpo ale la nasin telo tawa tan ni.

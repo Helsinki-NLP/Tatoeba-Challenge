@@ -15,6 +15,8 @@ tur	ukr	Adam gençtir.	Цей чоловік є молодий.
 tur	ukr	Adamları seviyorum.	Я люблю чоловіків.
 tur	ukr	Adam uzun boyludur.	Чоловік високий.
 tur	ukr	Adım Tamako, ya senin adın...?	Мене звати Тамако, а тебе?
+tur	ukr	Adı Muhammad.	Його звуть Мухаммед.
+tur	ukr	Adı Muhammad.	Його ім'я Мухаммед.
 tur	ukr	Adını nasıl hecelersin?	Як пишеться твоє ім'я?
 tur	ukr	Adminler, neredesiniz?	Де ви, адміни?
 tur	ukr	Afedersiniz, İngilizce konuşur musunuz?	Перепрошую, ви розмовляєте англійською?
@@ -253,6 +255,7 @@ tur	ukr	Benim erkek kardeşim değilsin.	Ти не мій брат.
 tur	ukr	Benim evim orada.	Мій будинок он там.
 tur	ukr	Benim için önemlidir.	Для мене це важливо.
 tur	ukr	Benim için yaptığın her şey için teşekkür ederim.	Дякую за все, що ти для мене зробив.
+tur	ukr	Benim ismim Dušana.	Мене звати Душана.
 tur	ukr	Benim iyi bir işim var.	У мене добра робота.
 tur	ukr	Benim kahvaltı için zamanım yok.	У мене немає часу на сніданок.
 tur	ukr	Benim kitaplarım nerede?	Де мої книжки?
@@ -315,10 +318,10 @@ tur	ukr	Ben sağdayım.	Я справа.
 tur	ukr	Ben sağlakım.	Я правша.
 tur	ukr	Ben sana ne söyleyeceğini anlatacağım.	Я скажу тобі, що говорити.
 tur	ukr	Ben senden daha yaşlıyım.	Я старший за тебе.
-tur	ukr	Ben sıcak kışları sevmiyorum.	Не люблю теплі зими.
 tur	ukr	Ben Singapur'danım.	Я з Сингапуру.
-tur	ukr	Ben sırada bir sonrakiyim.	Я наступний у черзі.
 tur	ukr	Ben şişmanım.	Я гладка.
+tur	ukr	Ben sıcak kışları sevmiyorum.	Не люблю теплі зими.
+tur	ukr	Ben sırada bir sonrakiyim.	Я наступний у черзі.
 tur	ukr	Ben solağım.	Я шульга.
 tur	ukr	Ben temizim.	Я чиста.
 tur	ukr	Ben Tom'dayım.	Я з Томом.
@@ -343,6 +346,8 @@ tur	ukr	Ben yeşil renkten hoşlanırım.	Мені подобається зел
 tur	ukr	Ben zayıfım.	Я худа.
 tur	ukr	Ben zenginim.	Я заможний.
 tur	ukr	Berlin Almanya'dadır.	Берлін знаходиться у Німеччині.
+tur	ukr	Beyzbol benim en sevdiğim spor.	Бейсбол — мій улюблений спорт.
+tur	ukr	Beyzbol benim en sevdiğim spor.	Бейсбол — це мій улюблений спорт.
 tur	ukr	Biayłstok'ta yaşıyorum.	Я живу в Білостоці.
 tur	ukr	Bilgisayarlardan nefret ediyorum.	Я ненавиджу комп'ютери.
 tur	ukr	Bilgisayarların ailesi yok.	У комп'ютерів немає родини.
@@ -369,8 +374,8 @@ tur	ukr	Bir çocuk değilim.	Я не дитина.
 tur	ukr	Birçok okul bugün fırtına nedeniyle kapalı.	Чимало шкіл сьогодні зачинені через бурю.
 tur	ukr	Bir dakika bekle.	Зачекай хвилину.
 tur	ukr	Bir dakika önce onu gördüm.	Я бачив його хвилину тому.
-tur	ukr	Bir elma yıkıyor.	Вона миє яблуко.
 tur	ukr	Bir elma yiyorum.	Я їм яблуко.
+tur	ukr	Bir elma yıkıyor.	Вона миє яблуко.
 tur	ukr	Bir ev görüyorum.	Я бачу будинок.
 tur	ukr	Bir fare yakaladım.	Я впіймав мишу.
 tur	ukr	Bir filim var.	Маю слона.
@@ -405,6 +410,7 @@ tur	ukr	Bir sürü sorum var.	Я маю багато питань.
 tur	ukr	Bir tomruğa oturdum.	Я сів на колоду.
 tur	ukr	Bir tren bekliyorum.	Я чекаю на потяг.
 tur	ukr	Bisikletimle eve dönemeyecek kadar yorgunum.	Я занадто втомився, щоб їхати назад додому на велосипеді.
+tur	ukr	Bisiklet kiralamak istiyorum.	Я хочу взяти велосипед напрокат.
 tur	ukr	Bitkin görünüyordun.	Ти виглядаєш виснаженим.
 tur	ukr	Biz akşam yemeği yemek üzereyiz.	Ми збираємося вечеряти.
 tur	ukr	Biz bavulu kapattık.	Ми закрили валізу.
@@ -427,6 +433,8 @@ tur	ukr	Bizim bir kızımız yok.	У нас немає доньки.
 tur	ukr	Bizim bir planımız olmak zorunda.	Ми повинні мати план.
 tur	ukr	Bizim hakkımızda ne seviyorsun?	Що тобі в нас подобається?
 tur	ukr	Bizim hiç koyunumuz yok.	У нас немає овець.
+tur	ukr	Bizim kâğıdımız yok.	Ми не маємо паперу.
+tur	ukr	Bizim kâğıdımız yok.	У нас немає паперу.
 tur	ukr	Bizimle Boston'a gitmeyecek misin?	Хіба ти не поїдеш з нами до Бостона?
 tur	ukr	Bizimle gelebilir misin?	Ви можете піти з нами?
 tur	ukr	Biz insanız.	Ми люди.
@@ -446,8 +454,8 @@ tur	ukr	Biz onu tanıdık.	Ми його впізнали.
 tur	ukr	Biz onu yapmayacağız.	Ми не робитимемо цього.
 tur	ukr	Biz Pasifik üzerinde uçuyoruz.	Ми пролітаємо над Тихим океаном.
 tur	ukr	Biz seni bekliyor olacağız.	Ми на тебе чекатимемо.
-tur	ukr	Biz sık sık satranç oynarız.	Ми часто граємо в шахи.
 tur	ukr	Biz şimdiden 7 milyarız.	Нас вже сім мільярдів.
+tur	ukr	Biz sık sık satranç oynarız.	Ми часто граємо в шахи.
 tur	ukr	Biz temiz hava soluyoruz.	Ми дихаємо чистим повітрям.
 tur	ukr	Biz Tom'a güvenemeyiz.	Ми не можемо довіряти Тому.
 tur	ukr	Biz Tom ile kalacağız.	Ми побудемо з Томом.
@@ -468,6 +476,7 @@ tur	ukr	Boş zamanım yok.	Я не маю вільного часу.
 tur	ukr	Boykotlar şirketleri değiştirir.	Бойкоти змінюють компанії.
 tur	ukr	Brad Pitt bir aktördür.	Бред Пітт - актор.
 tur	ukr	Branç ne zaman?	О котрій годині бранч?
+tur	ukr	Brezilyalılar hakkında düşüncelerin neler?	Якої ти думки про бразильців?
 tur	ukr	Brezilyalıyım.	Я з Бразилії.
 tur	ukr	Bronisław 18 yaşında.	Броніславу вісімнадцять років.
 tur	ukr	Bu €30'a mal olacak.	Це коштуватиме 30 євро.
@@ -541,6 +550,7 @@ tur	ukr	Bugün çalışmıyorum.	Я сьогодні не працюю.
 tur	ukr	Bugün Çarşambadır.	Сьогодні середа.
 tur	ukr	Bugün Cuma'dır.	Сьогодні п'ятниця.
 tur	ukr	Bugün cumartesidir.	Сьогодні субота.
+tur	ukr	Bugün ekmek yok.	Сьогодні немає хліба.
 tur	ukr	Bugün hava nasıl?	Яка сьогодні погода?
 tur	ukr	Bugün hayır, yarın evet.	Сьогодні ні, а завтра - так.
 tur	ukr	Bugün kar yağıyor.	Сьогодні падає сніг.
@@ -610,8 +620,8 @@ tur	ukr	Burada devam eden bir şey yok.	Тут нічого не відбува�
 tur	ukr	Burada kal lütfen.	Залишайся тут, будь ласка.
 tur	ukr	Buradaki herkes senden korkuyor.	Тут усі бояться тебе.
 tur	ukr	Burada yemek istemiyorum.	Я не хочу їсти тут.
-tur	ukr	Buradayım, değil mi?	Я ж тут?
 tur	ukr	Burada yiyorum.	Я їм тут.
+tur	ukr	Buradayım, değil mi?	Я ж тут?
 tur	ukr	Burası onun yaşadığı ev.	Це будинок, в якому він жив.
 tur	ukr	Buraya gel ve bana yardım et.	Іди сюди і допоможи мені.
 tur	ukr	Burs bana, eğitimime devam etme şansı verdi.	Стипендія дала мені змогу продовжувати навчання.
@@ -1076,7 +1086,6 @@ tur	ukr	Kimse sizi durdurmuyor.	Ніхто тебе не зупиняє.
 tur	ukr	Kimse Tom'u görmedi.	Тома ніхто не бачив.
 tur	ukr	Kimseye bir şey söylemedim.	Я ніколи нічого нікому не сказав.
 tur	ukr	Kim yeni yönetici oldu?	Хто став новим директором?
-tur	ukr	Kırlangıçlar gökyüzünde uçuyor.	В небі летять ластівки.
 tur	ukr	Kitabın adı ne?	Яка назва у книжки?
 tur	ukr	Kitap için teşekkür ederim.	Дякую за книжку.
 tur	ukr	Kitap küçüktür.	Книга маленька.
@@ -1084,6 +1093,7 @@ tur	ukr	Kitaplar küçük.	Книги малі.
 tur	ukr	Kitap ne renk?	Якого кольору книжка?
 tur	ukr	Kitap okumak için zamanım yok.	Я не маю часу на читання книг.
 tur	ukr	Kitap turuncu.	Книжка помаранчева.
+tur	ukr	Kırlangıçlar gökyüzünde uçuyor.	В небі летять ластівки.
 tur	ukr	Kız arkadaşım sık sık saçlarımı keser.	Моя подруга мені часто стриже волосся.
 tur	ukr	Kız kardeşim anneanneme benzer.	Моя сестра схожа на бабусю.
 tur	ukr	Kız kardeşim aynı şeyi yaptı.	Моя сестра зробила те саме.
@@ -1188,8 +1198,8 @@ tur	ukr	Merhaba Tom! Nasılsın?	Привіт, Томе! Як справи?
 tur	ukr	Merhaba!	Привіт!
 tur	ukr	Meşgulüm.	Я зайнята.
 tur	ukr	Metro istasyonu nerede?	Де станція метро?
-tur	ukr	Mike'ın Şikago'da yaşayan bir arkadaşı var.	У Майка є подруга, яка живе в Чікаго.
 tur	ukr	Mike iyi şarkı söylüyor.	Майк добре співає.
+tur	ukr	Mike'ın Şikago'da yaşayan bir arkadaşı var.	У Майка є подруга, яка живе в Чікаго.
 tur	ukr	Milan'da çalışıyorum.	Я працюю в Мілані.
 tur	ukr	Motoru kapattım.	Я заглушив мотор.
 tur	ukr	Muhtemelen cevabı biliyor.	Можливо, він знає відповідь.
@@ -1223,6 +1233,7 @@ tur	ukr	Neden ona söyleyemiyoruz?	Чому ми не можемо їй сказ
 tur	ukr	Neden ona söyleyemiyoruz?	Чому ми не можемо йому сказати?
 tur	ukr	Neden onu seviyorsun?	Чому вона тобі подобається?
 tur	ukr	Neden o orada?	Чому він тут?
+tur	ukr	Neden Paris'teydi?	Чому вона була в Парижі?
 tur	ukr	Neden Tom'u öptün?	Навіщо ти поцілував Тома?
 tur	ukr	Neden Tom'u öptün?	Навіщо ти поцілувала Тома?
 tur	ukr	Neden?	Чому?
@@ -1275,6 +1286,7 @@ tur	ukr	Niçin ona söylemedin?	Чому ти не сказав їй?
 tur	ukr	Niçin?	Чому?
 tur	ukr	Nisanda o, Japonya'dan ayrılacak.	Вона поїде з Японії у квітні.
 tur	ukr	Niue bir ülkedir.	Ніуе - це країна.
+tur	ukr	Niye yemiyorsun?	Чому ти не їси?
 tur	ukr	Noel 25 Aralıktadır.	Різдво 25-го грудня.
 tur	ukr	Noel'den nefret ediyorum.	Я ненавиджу Різдво.
 tur	ukr	Noel yaklaştı.	Наближалося Різдво.
@@ -1316,8 +1328,8 @@ tur	ukr	O benim bir resmim mi?	Це моя фотографія?
 tur	ukr	O benim bisikletim değil.	Це не мій велосипед.
 tur	ukr	O benim gelmemi istedi.	Вона хотіла, щоб я прийшов.
 tur	ukr	O benim karım.	Вона моя дружина.
-tur	ukr	O benim kız arkadaşım değil. O benim kız kardeşim.	Вона не моя дівчина. Вона — моя сестра.
 tur	ukr	O benimki.	Це моє.
+tur	ukr	O benim kız arkadaşım değil. O benim kız kardeşim.	Вона не моя дівчина. Вона — моя сестра.
 tur	ukr	O benim sözlüğümdür.	Це мій словник.
 tur	ukr	O beş yaşında.	Їй п'ять.
 tur	ukr	O, beyzbolu çok sever.	Він дуже любить бейсбол.
@@ -1508,6 +1520,7 @@ tur	ukr	Önce Tom'la konuşmak istiyorum.	Спочатку я хочу пого�
 tur	ukr	Ondan korkuyorum.	Я його боюся.
 tur	ukr	On dokuz yaşındayım.	Мені дев'ятнадцять років.
 tur	ukr	O ne dedi?	Що вона сказала?
+tur	ukr	O, neden Paris'teydi?	Чому вона була в Парижі?
 tur	ukr	O nedir?	Що це?
 tur	ukr	Önemsiz şey.	Нічого.
 tur	ukr	O nerede?	Де він?
@@ -1546,17 +1559,17 @@ tur	ukr	Onlar Fransız değil.	Вони не французи.
 tur	ukr	Onlar gidiyorlar.	Вони йдуть.
 tur	ukr	Onlar henüz geldi mi?	Вони вже приїхали?
 tur	ukr	Onlar Hıristiyanlar.	Вони християнки.
+tur	ukr	Onlar İngilizce konuşuyorlar mı?	Вони розмовляють англійською?
+tur	ukr	Onlar iyi olacaklar.	У них все буде гаразд.
 tur	ukr	Onları burada beklemeli miyiz?	Ми повинні чекати на них тут?
 tur	ukr	Onları kurtaran kişi benim.	Це я їх врятувала.
 tur	ukr	Onların başka şarapları yok.	У них не лишилося вина.
-tur	ukr	Onlar İngilizce konuşuyorlar mı?	Вони розмовляють англійською?
 tur	ukr	Onların hepsi bunu yaptı.	Вони всі це зробили.
 tur	ukr	Onların hepsi onu tanıyordu.	Вони всі її знали.
 tur	ukr	Onların neye ihtiyacı var?	Що їм потрібно?
 tur	ukr	Onları seviyorum.	Вони мені подобаються.
 tur	ukr	Onları seviyorum.	Я їх люблю.
 tur	ukr	Onları tutukladınız mı?	Ви їх заарештували?
-tur	ukr	Onlar iyi olacaklar.	У них все буде гаразд.
 tur	ukr	Onlar kalktı.	Вони піднялися.
 tur	ukr	Onlar Kanadalı olsaydı, bu sorun olmazdı.	Якби вони були канадцями, цієї проблеми не існувало би.
 tur	ukr	Onlar katiller.	Вони вбивці.
@@ -1574,6 +1587,8 @@ tur	ukr	Onlar onu bulacak.	Вони її знайдуть.
 tur	ukr	Onlar onu bulacak.	Вони його знайдуть.
 tur	ukr	Onlar onu neden söylüyor?	Чому вони це говорять?
 tur	ukr	Onlar orada garip bir hayvan gördü.	Там вони бачили дивовижну тварину.
+tur	ukr	Onlar Rumen mi?	Вони румунки?
+tur	ukr	Onlar Rumen mi?	Вони румунці?
 tur	ukr	Onlar sahil boyunca gezdiler.	Вони прогулювалися по пляжу.
 tur	ukr	Onlar satranç oynuyor.	Вони грають у шахи.
 tur	ukr	Onlar seni kullanıyorlar.	Вони використовують тебе.
@@ -1594,6 +1609,8 @@ tur	ukr	Onu çok düşündüğünü biliyorum.	Я знаю, що ти про н�
 tur	ukr	Onu çok iyi biliyorum.	Я це дуже добре знаю.
 tur	ukr	Onu herkes sever.	Її всі люблять.
 tur	ukr	Onun adı herkese tanıdık gelir.	Його ім'я знають всі.
+tur	ukr	Onun adı Muhammad.	Його звуть Мухаммед.
+tur	ukr	Onun adı Muhammad.	Його ім'я Мухаммед.
 tur	ukr	Onun bana bir açıklama getirmesini isterdim.	Я би хотів, щоб вона надала мені пояснення.
 tur	ukr	Onun başı ağrıyor.	У нього болить голова.
 tur	ukr	Onun bir arabası var.	Він має машину.
@@ -1675,11 +1692,11 @@ tur	ukr	O şarkıyı bilmiyordum.	Я не знала цієї пісні.
 tur	ukr	O Satürn.	Це Сатурн.
 tur	ukr	O seni nasıl etkiliyor?	Як це на тебе впливає?
 tur	ukr	O senin oğlun.	Він твій син.
+tur	ukr	O şimdi Tokyo'da yaşamaktadır.	Зараз він живе в Токіо.
+tur	ukr	O size çok kızgın.	Він дуже на тебе злий.
 tur	ukr	O sık sık nehirde balık tutmaya giderdi.	Він часто ходив рибалити на річку.
 tur	ukr	O, sık sık Tokyo'ya gider.	Він часто їздить до Токіо.
-tur	ukr	O şimdi Tokyo'da yaşamaktadır.	Зараз він живе в Токіо.
 tur	ukr	O, sırdır.	Це секрет.
-tur	ukr	O size çok kızgın.	Він дуже на тебе злий.
 tur	ukr	O sonuncusu.	Це остання.
 tur	ukr	O suya atladı.	Він стрибнув у воду.
 tur	ukr	Oteldeyim.	Я в готелі.
@@ -1843,19 +1860,20 @@ tur	ukr	Sevgilim bilmiyor.	Моя дівчина не знає.
 tur	ukr	Seyahat etmeye ihtiyacım var.	Мені потрібно подорожувати.
 tur	ukr	Şifremi unuttum.	Я забула свій пароль.
 tur	ukr	Sihirli değneğin nerede?	Де твоя чарівна паличка?
-tur	ukr	Sık sık nehirde yüzmeye giderdik.	Ми часто ходили плавати у річці.
-tur	ukr	Sık sık yatakta okurum.	Я часто читаю в ліжку.
 tur	ukr	Şimdi bana ne olacak?	Що зараз зі мною буде?
 tur	ukr	Şimdi çok daha iyi hissediyorum.	Тепер мені набагато краще.
 tur	ukr	Şimdi kimse gülmüyor.	Зараз ніхто не сміється.
 tur	ukr	Şimdi neredesin?	Ти де зараз?
 tur	ukr	Siparişiniz hazır.	Ваше замовлення готове.
-tur	ukr	Sırbistan; Macaristan, Romanya, Bulgaristan, Hırvatistan, Makedonya, Bosna ve Karadağ'la komşudur.	Сербія межує з Угорщиною, Румунією, Болгарією, Хорватією, Македонією, Боснією та Чорногорією.
-tur	ukr	Sırtımın alt tarafında berbat bir ağrım var.	Я відчуваю сильний біль у попереку.
 tur	ukr	Şişmanım.	Я гладка.
 tur	ukr	Siz Almansınız, değil mi?	Ви німці, чи не так?
 tur	ukr	Siz benden daha çok formdasınız.	Ви у кращій формі, ніж я.
+tur	ukr	Siz düşmansınız.	Ви ворог.
 tur	ukr	Siz hepiniz, ben tek.	Вас багато, а я один.
+tur	ukr	Sık sık nehirde yüzmeye giderdik.	Ми часто ходили плавати у річці.
+tur	ukr	Sık sık yatakta okurum.	Я часто читаю в ліжку.
+tur	ukr	Sırbistan; Macaristan, Romanya, Bulgaristan, Hırvatistan, Makedonya, Bosna ve Karadağ'la komşudur.	Сербія межує з Угорщиною, Румунією, Болгарією, Хорватією, Македонією, Боснією та Чорногорією.
+tur	ukr	Sırtımın alt tarafında berbat bir ağrım var.	Я відчуваю сильний біль у попереку.
 tur	ukr	Soğandan nefret ediyorum.	Я ненавиджу цибулю.
 tur	ukr	Son dersin ne zaman bitecek?	О котрій годині закінчиться твій останній урок?
 tur	ukr	Sonuç onu tatmin edecek.	Результат його задовільнить.
@@ -2018,8 +2036,8 @@ tur	ukr	Tom, bütün hikayeyi bilmiyor.	Том не знає всієї істо
 tur	ukr	Tom çalışıyor.	Том працює.
 tur	ukr	Tom çantasını omuzuna astı.	Том повісив сумку собі на плече.
 tur	ukr	Tom çiçekleri topluyor.	Том збирає квіти.
-tur	ukr	Tom çıplak uyur.	Том спить голий.
 tur	ukr	Tom çirkin olduğunu söyledi.	Том сказав, що я потворний.
+tur	ukr	Tom çıplak uyur.	Том спить голий.
 tur	ukr	Tom çocukları ile birlikte Boston'da yaşar.	Том живе в Бостоні зі своїми дітьми.
 tur	ukr	Tom, çocuklarını futbol antremanına götürdü.	Том відвіз дітей на футбольне заняття.
 tur	ukr	Tom çocukları seviyordu.	Том любив дітей.
@@ -2098,11 +2116,11 @@ tur	ukr	Tom inekleri besliyor.	Том годує корів.
 tur	ukr	Tom, İnternet Explorer 11 kullanıyor.	Том використовує Internet Explorer 11.
 tur	ukr	Tom ipek kravatlar takıyor.	Том носить шовкові краватки.
 tur	ukr	Tom işini seviyor.	Том любить свою роботу.
-tur	ukr	Tom ıslaktı.	Том був мокрий.
 tur	ukr	Tom, iyi bir belleğe sahiptir.	У Тома добра пам'ять.
 tur	ukr	Tom, iyi misin?	Томе, ти в порядку?
 tur	ukr	Tom iyi mi?	З Томом все гаразд?
 tur	ukr	Tom iyi olacak.	З Томом усе буде гаразд.
+tur	ukr	Tom ıslaktı.	Том був мокрий.
 tur	ukr	Tom kadınlardan nefret ediyordu.	Том ненавидів жінок.
 tur	ukr	Tom kahvaltıdan önce sık sık koşar.	Том часто бігає перед сніданком.
 tur	ukr	Tom kahve çekirdeklerini kavuruyor.	Том обсмажує кавові зерна.
@@ -2232,6 +2250,7 @@ tur	ukr	Tom mutfakta.	Том на кухні.
 tur	ukr	Tom muz sevmez.	Том не любить банани.
 tur	ukr	Tom nasıl?	Як там Том?
 tur	ukr	Tom nazik ve cömerttir.	Том добрий і щедрий.
+tur	ukr	Tom ne almayı unuttu?	Що Том забув купити?
 tur	ukr	Tom neden bazen onu yapıyor?	Чому Том іноді це робить?
 tur	ukr	Tom neden bu kadar üzgün?	Чому Том такий засмучений?
 tur	ukr	Tom neden gitmek istemiyor?	Чому Том не хоче йти?
@@ -2241,6 +2260,7 @@ tur	ukr	Tom neredeyse hiç TV izlemez.	Том майже ніколи не ди�
 tur	ukr	Tom neyden korkuyor ?	Чого боїться Том?
 tur	ukr	Tom ne zaman Boston'da yaşadı?	Коли Том жив у Бостоні?
 tur	ukr	Tom Noel için bir yavru köpek aldı.	Тому на Різдво подарували цуценя.
+tur	ukr	Tom oğluna futbol topu aldı.	Том купив синові футбольний м'яч.
 tur	ukr	Tom okumaya başladı.	Том почав читати.
 tur	ukr	Tom okuyamaz.	Том не вміє читати.
 tur	ukr	Tom öldüğünde ölmek istedim.	Коли Том помер, я хотів померти.
@@ -2295,13 +2315,13 @@ tur	ukr	Tom senin kadar akıllı değil.	Том не такий розумний
 tur	ukr	Tom seninle çok eğlendiğini söyledi.	Том сказав, що він добре провів з тобою час.
 tur	ukr	Tom seninle Fransızca konuştu mu?	Том говорив з тобою французькою?
 tur	ukr	Tom sessizce kapıyı kapadı.	Том тихенько зачинив двері.
+tur	ukr	Tom şimdi otuz yaşında.	Тому зараз тридцять.
+tur	ukr	Tom sirenler duydu.	Том почув сирени.
+tur	ukr	Tom size ihanet etti.	Том вас зрадив.
 tur	ukr	Tom sık sık film indirir.	Том часто завантажує фільми.
 tur	ukr	Tom sık sık hata yapar.	Том часто помиляється.
 tur	ukr	Tom sık sık Mary ile konuşur.	Том часто говорить з Мері.
 tur	ukr	Tom sık sık Mary ile konuşur.	Том часто розмовляє з Мері.
-tur	ukr	Tom şimdi otuz yaşında.	Тому зараз тридцять.
-tur	ukr	Tom sirenler duydu.	Том почув сирени.
-tur	ukr	Tom size ihanet etti.	Том вас зрадив.
 tur	ukr	Tom şok olurdu.	Том був би шокований.
 tur	ukr	Tom solak mı?	Том шульга?
 tur	ukr	Tom solak.	Том шульга.
@@ -2499,10 +2519,10 @@ tur	ukr	Yeteri kadar nakitin olduğuna emin misin?	Ти певен, що має�
 tur	ukr	Yeterli param olduğunu sanmıyorum.	Я не думаю, що в мене є достатньо грошей.
 tur	ukr	Yeterli param olsa, ben bu kitabı satın alabilirim.	Якби в мене було достатньо грошей, я б міг купити цю книгу.
 tur	ukr	Yeterli sos var mı?	Чи достатньо соусу?
-tur	ukr	Yılan bir kurbağayı yuttu.	Змія проковтнула жабу.
 tur	ukr	Yirmi dört yaşındayım.	Мені двадцять чотири роки.
 tur	ukr	Yiyorum.	Я їм.
 tur	ukr	Yiyoruz.	Ми їмо.
+tur	ukr	Yılan bir kurbağayı yuttu.	Змія проковтнула жабу.
 tur	ukr	Yol orada sola döner.	Там дорога повертає ліворуч.
 tur	ukr	Yorgun değilim.	Я не втомився.
 tur	ukr	Yorgun değil misiniz?	Ви не втомлені?

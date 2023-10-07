@@ -207,6 +207,7 @@ epo	hrv	La simbolo ' &amp; ' signifas 'kaj'.	Simbol " &amp; " znači "i".
 epo	hrv	La simbolo '&' signifas 'kaj'.	Simbol "&" znači "i".
 epo	hrv	La tuta urbo estis sen elektro.	Cijeli grad je ostao bez struje.
 epo	hrv	Laŭ mia opinio li pravas.	Po mojem mišljenju on je u pravu.
+epo	hrv	La unuigita popolo neniam estos venkita.	Narod ujedinjen nikada neće biti poražen.
 epo	hrv	La virino naskis al li du filinojn kaj filon.	Žena mu je rodila dvije kćeri i sina.
 epo	hrv	La vivo de ĉi malsanulo estas en danĝero.	Život tog bolesnika je u opasnosti.
 epo	hrv	Legu laŭeble plej multajn librojn.	Pročitaj po mogućnosti što više knjiga.
@@ -570,6 +571,7 @@ epo	srp_Cyrl	Ĉar tiu plano kostas tro multon, mi ne povas akcepti ĝin.	Пош�
 epo	srp_Cyrl	Ĉashundoj estas rapidaj.	Ловачки пси су брзи.
 epo	srp_Cyrl	Cathy scipovas paroli la francan kaj la germanan.	Кети зна говорити француски и немачки.
 epo	srp_Cyrl	Ĉefa rolo en la francajn teatropupoj estas Ginjolo.	Главну улогу у француским луткарским представама има Гињоло.
+epo	srp_Cyrl	Ĉefo, ĉio malsukcesis! Ili forigas la gipson, la kliento forveturas.	Шефе, све је нестало! Гипс се скида, клијент одлази.
 epo	srp_Cyrl	Ĉe ni regas libera merkato.	Код нас влада слободна трговина.
 epo	srp_Cyrl	Centjaraĝan arbaron ni devas gardi.	Стогодишњу шуму ми морамо чувати.
 epo	srp_Cyrl	Cento da jaroj nomiĝas jarcento.	Стотина година назива се век.
@@ -930,8 +932,8 @@ epo	srp_Cyrl	Ĝi jam klariĝis.	То је већ разјашњено.
 epo	srp_Cyrl	Ĝi ne okazos.	То се неће десити.
 epo	srp_Cyrl	Ĝis baldaŭ!	До виђења, ускоро!
 epo	srp_Cyrl	Ĝis la edziniĝo venos resaniĝo.	До удаје ће доћи оздрављење.
-epo	srp_Cyrl	Ĝis revido!	Довиђења!
 epo	srp_Cyrl	Ĝis revido!	До виђења!
+epo	srp_Cyrl	Ĝis revido!	Довиђења!
 epo	srp_Cyrl	Ĝis!	Довиђења!
 epo	srp_Cyrl	Ĝis.	До виђења!
 epo	srp_Cyrl	Glorata estu la Eternulo!	Хваљен нека је Господ!
@@ -1994,6 +1996,7 @@ epo	srp_Cyrl	Ni eliru de ĉi tie.	Изађимо одавде.
 epo	srp_Cyrl	Ni elkuris el la konstruaĵo.	Ми смо истрчали из грађевине.
 epo	srp_Cyrl	Ni emas forgesi ĉi tiun fakton.	Ми смо склони да заборавимо ту чињеницу.
 epo	srp_Cyrl	Ni estas kontentaj.	Ми смо задовољни.
+epo	srp_Cyrl	Ni estas la unuaj.	Ми смо први.
 epo	srp_Cyrl	Nigran frugilegon sapo ne blankigos.	Црну врану сапун неће избелети.
 epo	srp_Cyrl	Ni gratulas la Tagon de virinoj.	Честитам Дан жена.
 epo	srp_Cyrl	Ni ĝuis kanti kune.	Уживали смо певајући заједно.

@@ -21,6 +21,7 @@ dan	fin	Alle veje fører til Rom.	Kaikki tiet vievät Roomaan.
 dan	fin	At hjælpe andre er aldrig spild af tid.	Muiden auttaminen ei ole koskaan ajanhukkaa.
 dan	fin	At hjælpe andre er aldrig spild af tid.	Toisten auttaminen ei ole koskaan ajanhukkaa.
 dan	fin	Atombomber er en fare for menneskeheden.	Atomipommit ovat vaaraksi ihmiskunnalle.
+dan	fin	At svømme mod strømmen kræver mod.	Virtaa vastaan uiminen vaatii rohkeutta.
 dan	fin	At svømme om vinteren er ikke farligt for raske mennesker.	Avantouinti ei ole vaarallista terveille.
 dan	fin	Babyen ligger og sover.	Vauva on nukkumassa.
 dan	fin	Begynd.	Aloita.
@@ -46,6 +47,8 @@ dan	fin	Bland kortene grundigt.	Sekoittakaa ne kortit perusteellisesti.
 dan	fin	Bogen er på bordet.	Kirja on pöydällä.
 dan	fin	Bogen er på bordet.	Kirja on sillä pöydällä.
 dan	fin	Bogen ligger på bordet.	Se kirja makaa pöydällä.
+dan	fin	Bo har en mølle som maler korn.	Bolla on mylly, joka jauhaa viljaa.
+dan	fin	Bo har en mølle som maler korn.	Bolla on viljaa jauhava mylly.
 dan	fin	Bortset fra tøjet på kroppen, så ejer han intet.	Hän ei omista mitään muuta kuin vaatteet päällään.
 dan	fin	Bøsse!	Homo!
 dan	fin	Bussen kommer.	Bussi tulee.
@@ -74,6 +77,7 @@ dan	fin	De er virkelig nære venner.	Ne ovat todella läheisiä ystäviä.
 dan	fin	De hader edderkopper.	He vihaavat hämähäkkejä.
 dan	fin	De hader edderkopper.	Ne vihaa hämppyhäkkejä.
 dan	fin	De kom sidste uge.	Ne tulivat viime viikolla.
+dan	fin	De lo.	Ne nauroivat.
 dan	fin	Den cykel der er ikke din.	Tuo tuolla oleva pyörä ei ole sinun.
 dan	fin	Den ene taler engelsk, den anden japansk.	Toinen puhuu englantia, toinen japania.
 dan	fin	Den film var god.	Tuo elokuva oli hyvä.
@@ -166,10 +170,16 @@ dan	fin	Det er sandpapir.	Tuo on hiekkapaperia.
 dan	fin	Det er sandt.	Tuo on totta.
 dan	fin	Det er sjovt at spille baseball.	On hauskaa pelata baseballia.
 dan	fin	Det er stærk tobak.	Se on hasista.
+dan	fin	Det er svært.	Se on vaikeaa.
+dan	fin	Det er svært.	Se on vaikeata.
+dan	fin	Det er vanskeligt.	Se on vaikeaa.
+dan	fin	Det er vanskeligt.	Se on vaikeata.
 dan	fin	Det her er det billede som jeg malede i går.	Tämä on eilen maalaamani kuva.
 dan	fin	Det her er det billede som jeg malede i går.	Tämä on se kuva, jonka maalasin eilen.
 dan	fin	Det her er det billede som jeg malede i går.	Tämä on se kuva, jonka minä maalasin eilen.
+dan	fin	Det her er en ræv.	Tämä on kettu.
 dan	fin	Det her er ikke en kat. Det her er en hund.	Tämä ei ole kissa. Tämä on koira.
+dan	fin	Det her er sæbe.	Tämä on saippuaa.
 dan	fin	Det her er sandpapir.	Tämä on hiekkapaperia.
 dan	fin	Det her flag er meget smukt.	Tämä lippu on erittäin kaunis.
 dan	fin	Det her flag er meget smukt.	Tämä lippu on hyvin kaunis.
@@ -198,12 +208,14 @@ dan	fin	Dette bjerg er dækket af sne hele året.	Tämä vuori on koko vuoden lu
 dan	fin	Dette er det billede, jeg malte i går.	Tämä on eilen maalaamani kuva.
 dan	fin	Dette er det billede, jeg malte i går.	Tämä on se kuva, jonka maalasin eilen.
 dan	fin	Dette er det billede, jeg malte i går.	Tämä on se kuva, jonka minä maalasin eilen.
+dan	fin	Dette er en ræv.	Tämä on kettu.
 dan	fin	Dette er et billede af Toms familie.	Tämä on kuva Tomin perheestä.
 dan	fin	Dette er ikke fransk.	Tämä ei ole ranskaa.
 dan	fin	Dette er meget vigtigt for os.	Tämä on erittäin tärkeää meille.
 dan	fin	Dette er sandpapir.	Tämä on hiekkapaperia.
 dan	fin	Dette spædbarn er seks måneder gammelt.	Tämä vauva on kuusikuukautinen.
 dan	fin	Det tog ham tre måneder at lære at cykle.	Hänellä meni kolme kuukautta oppia pyöräilemään.
+dan	fin	Det Tom sagde, fik Mary til at le.	Se, mitä Tuomo sanoi, sai Maryn nauramaan.
 dan	fin	Det tror jeg ikke på.	En tuohon usko.
 dan	fin	Det tror jeg ikke på.	Minä en siihen usko.
 dan	fin	Det tror jeg ikke på.	Minä en tuohon usko.
@@ -224,6 +236,7 @@ dan	fin	Det var et enormt spild af tid.	Tuo oli järkyttävää ajanhukkaa.
 dan	fin	Det var et enormt spild af tid.	Tuo oli valtavaa ajanhukkaa.
 dan	fin	Det var et stort spild af tid.	Se oli suurta ajanhukkaa.
 dan	fin	Det var et stort spild af tid.	Tuo oli suurta ajanhukkaa.
+dan	fin	Det var i 1912 at Titanic sank under sin første rejse.	Se oli vuosi 1912, kun Titanic upposi neitsytmatkallaan.
 dan	fin	Det var meget nemt.	Tuo oli hyvin helppo.
 dan	fin	Det var meget nemt.	Tuo oli hyvin helppoa.
 dan	fin	Det var meget nemt.	Tuo oli todella helppo.
@@ -286,6 +299,8 @@ dan	fin	Du er virkelig en idiot.	Sinä todella olet idiootti.
 dan	fin	Du gjorde det igen.	Sinä teit sen taas.
 dan	fin	Du gjorde det igen.	Teit sen taas.
 dan	fin	Du gjorde det igen.	Teit sen uudestaan.
+dan	fin	Du har corona.	Sinulla on koronatartunta.
+dan	fin	Du har corona.	Sulla on korona.
 dan	fin	Du har ikke et hjerte.	Sinulla ei ole sydäntä.
 dan	fin	Du kom ikke i skole i går.	Et tullut eilen kouluun.
 dan	fin	Du kom ikke i skole i går.	Et tullut kouluun eilen.
@@ -309,11 +324,15 @@ dan	fin	Du så mig, ikke sandt?	Sinä näit minut, etkö vaan?
 dan	fin	Du ser bleg ud.	Näytät kalpealta.
 dan	fin	Du snakker hele tiden, og det er irriterende.	Puhut jatkuvasti, ja se on ärsyttävää.
 dan	fin	Du taler flydende engelsk.	Puhut sujuvaa englantia.
+dan	fin	Eas motorcykel er meget dyr.	Ean moottoripyörä on hyvin kallis.
+dan	fin	Eas motorcykel er meget dyr.	Ean moottoripyörä on todella kallis.
+dan	fin	Eas motorcykel er meget dyr.	Ean moottoripyörä on tosi kallis.
 dan	fin	Efter middagsmaden røg han en cigar.	Hän poltti iltaruoan jälkeen sikarin.
 dan	fin	Efter middagsmaden røg han en cigar.	Hän poltti iltaruoan jälkeen yhden sikarin.
 dan	fin	Efter min mening er tysk det bedste sprog i verden.	Minun mielestäni saksa on maailman paras kieli.
 dan	fin	Efter søndag kommer mandag.	Sunnuntain jälkeen tulee maanantai.
 dan	fin	Egentlig ikke.	Ei oikeastaan.
+dan	fin	Elsker du også mig?	Sinäkinkö rakastat minua?
 dan	fin	Elvis har forladt bygningen.	Elvis on lähtenyt rakennuksesta.
 dan	fin	Elvis har forladt bygningen.	Elvis on lähtenyt siitä rakennuksesta.
 dan	fin	Emily og Melanie er nære venner.	Emily ja Melanie ovat läheiset ystävät.
@@ -363,12 +382,20 @@ dan	fin	Ester er Rachels hustru.	Ester on Raakelin vaimo.
 dan	fin	Esther er Rachels hustru.	Ester on Raakelin vaimo.
 dan	fin	Et år har tolv måneder.	Vuodessa on kaksitoista kuukautta.
 dan	fin	Ét, to, tre, fire, fem, seks, syv, otte, ni og ti er tal.	Yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän ja kymmenen ovat lukuja.
+dan	fin	Europa eksisterer ikke.	Eurooppaa ei ole.
+dan	fin	Europa eksisterer ikke.	Eurooppaa ei ole olemassa.
 dan	fin	Faktisk er hun min storesøster.	Itse asiassa on hän minun isosiskoni.
 dan	fin	Fang tyven!	Ota varas kiinni!
 dan	fin	Fantastisk!	Fantastista!
 dan	fin	Far arbejder.	Isä tekee töitä.
 dan	fin	Far arbejder.	Isi työskentelee.
 dan	fin	Fare! Højspænding.	Vaara! Korkeajännite.
+dan	fin	Fårene lå i skyggen af træet.	Lampaat loikoilivat puun varjossa.
+dan	fin	Fårene lå i skyggen af træet.	Lampaat loikoilivat sen puun varjossa.
+dan	fin	Fårene lå i skyggen af træet.	Lampaat makasivat puun varjossa.
+dan	fin	Fårene lå i skyggen af træet.	Lampaat makasivat sen puun varjossa.
+dan	fin	Fårene lå i skyggen af træet.	Lampaat pötköttivät puun varjossa.
+dan	fin	Fårene lå i skyggen af træet.	Lampaat pötköttivät sen puun varjossa.
 dan	fin	Fem gange syv er tretifem.	Viisi kertaa seitsemän on 35.
 dan	fin	Femoghalvfjerds delt med fem er femten.	Seitsemänkymmentäviisi jaettuna viidellä on viisitoista.
 dan	fin	F i det hexadecimale system er lig med 15.	F heksadesimaaleissa on yhtä suuri kuin 15.
@@ -457,6 +484,8 @@ dan	fin	Grækerne byggede en træhest.	Ne kreikkalaiset rakensivat puuhevosen.
 dan	fin	Gratulerer!	Onneksi olkoon!
 dan	fin	Gud eksisterer.	Jumala on olemassa.
 dan	fin	Gulvtæppet i mit soveværelse er grønt.	Makuuhuoneeni lattiamatto on vihreä.
+dan	fin	Gurli Gris er fire år gammel, og Georg Gris er atten måneder gammel.	Pipsa Possu on nelivuotias ja Jyri Possu on kahdeksantoista kuukautta.
+dan	fin	Gurli Gris er fire år gammel, og Georg Gris er atten måneder gammel.	Pipsa Possu on neljä vuotta vanha ja Jyri Possu on kahdeksantoista kuukautta.
 dan	fin	Hænderne op!	Kädet ylös!
 dan	fin	Hænderne op!	Ne kädet ylös!
 dan	fin	Han begyndte at bande.	Hän alkoi kiroilemaan.
@@ -468,12 +497,16 @@ dan	fin	Han burde have været mere forsigtig.	Hänen olisi pitänyt olla varovai
 dan	fin	Han burde være forsigtigere.	Hänen pitäisi olla varovaisempi.
 dan	fin	Han burde være mere forsigtig.	Hänen pitäisi olla varovaisempi.
 dan	fin	Han døde.	Hän kuoli.
+dan	fin	Han elsker at gøre en myg til en elefant.	Hän tykkää tehdä kärpäsestä härkäsen.
 dan	fin	Han er astronaut.	Hän on astronautti.
+dan	fin	Han er doven.	Hän on laiskamato.
+dan	fin	Han er doven.	Hän on laiskuri.
 dan	fin	Han er en dårlig bilist.	Hän on surkea ajaja.
 dan	fin	Han er et eller andet sted i parken.	Hän on jossakin päin puistoa.
 dan	fin	Han er i dårligt humør.	Hän on pahalla päällä.
 dan	fin	Han er i dårligt humør.	Hän on pahalla tuulella.
 dan	fin	Han er min bror.	Hän on minun veljeni.
+dan	fin	Han er punktlig.	Hän on täsmällinen.
 dan	fin	Han fortalte mig, at han ikke ville komme tilbage.	Hän kertoi minulle, ettei haluaisi tulla takaisin.
 dan	fin	Han går altid med et gevær i hånden.	Hän kävelee aina kivääri kädessä.
 dan	fin	Han går altid med et gevær i hånden.	Hän kävelee aina kivääri kourassa.
@@ -486,6 +519,8 @@ dan	fin	Han har en hund.	Hänellä on koira.
 dan	fin	Han har en ketsjer.	Hänellä on maila.
 dan	fin	Han har malet væggen rød.	Hän on maalannut seinän punaiseksi.
 dan	fin	Han har malet væggen rød.	Hän on maalannut sen seinän punaiseksi.
+dan	fin	Han har straffet sine børn.	Hän on rangaissut lapsiaan.
+dan	fin	Han har straffet sine børn.	Hän on rangaissut omia lapsiaan.
 dan	fin	Han hjalp de fattige.	Hän auttoi köyhiä.
 dan	fin	Han kan ikke åbne munden uden at bande.	Hän kiroilee aina kun avaa suunsa.
 dan	fin	Han kan ikke leve op til Marys forventninger.	Hän ei voi vastata Marjan odotuksia.
@@ -494,7 +529,12 @@ dan	fin	Han kører stadigvæk rundt i sit gamle vrag af en bil.	Hän ajelee edel
 dan	fin	Han kører stadigvæk rundt i sit gamle vrag af en bil.	Hän ajelee vieläkin vanhalla autonrämällään.
 dan	fin	Han læste brevet mange gange.	Hän luki kirjeen monta kertaa.
 dan	fin	Han lagde hånden på min skulder.	Hän laittoi kätensä olkapäälleni.
+dan	fin	Han lever uden planer og mål.	Hän elää ilman suunnitelmia ja tavoitteita.
+dan	fin	Han lever uden planer og mål.	Hän elää ilman tasoja ja tavoitteita.
+dan	fin	Han lever uden plan og mål.	Hän elää ilman suunnitelmia ja tavoitteita.
 dan	fin	Han malede væggen rød.	Hän maalasi sen seinän punaiseksi.
+dan	fin	Han misbrugte vores tillid.	Hän väärinkäytti luottamustamme.
+dan	fin	Han misbrugte vores tillid.	Hän väärinkäytti meidän luottamustamme.
 dan	fin	Han og jeg er så nære venner, at vi næsten kan læse hinandens tanker.	Hän ja minä olemme niin läheiset ystävät, että voimme lähes lukea toistemme ajatuksia.
 dan	fin	Han og jeg er så nære venner, at vi næsten kan læse hinandens tanker.	Hän ja minä olemme niin läheisiä ystäviä, että voimme lähes lukea toistemme ajatuksia.
 dan	fin	Han opfører sig som et barn.	Hän käyttäytyy kuin lapsi.
@@ -522,6 +562,7 @@ dan	fin	Har du altid boet her?	Ookko sää asunu aina täällä?
 dan	fin	Har du brug for penge?	Tarvitsetko rahaa?
 dan	fin	Har du en ven eller en veninde? Hvor har du lært ham eller hende at kende?	Onko sinulla poika- tai tyttöystävää? Missä sinä tutustuit häneen?
 dan	fin	Har du et køretøj?	Onko sinulla ajoneuvoa?
+dan	fin	Har du familie eller venner, du kan bo hos?	Onko sinulla perhettä tai ystäviä, joiden luona voit asua?
 dan	fin	Har du forstået det?	Oletko sinä ymmärtänyt sen?
 dan	fin	Har du forstået det?	Oletko ymmärtänyt tuon?
 dan	fin	Har du glemt at købe æg?	Unohditko ostaa munia?
@@ -684,6 +725,7 @@ dan	fin	Hverken Tom eller Mary har forladt bygningen.	Ei Tuomas eikä Marykaan o
 dan	fin	Hverken Tom eller Mary har forladt bygningen.	Ei Tuomas eikä Marykaan ole lähtenyt siitä rakennuksesta.
 dan	fin	Hverken Tom eller Mary har forladt bygningen.	Kumpikaan, Tuomas eikä Mary, ei ole lähtenyt rakennuksesta.
 dan	fin	Hverken Tom eller Mary har forladt bygningen.	Kumpikaan, Tuomas eikä Mary, ei ole lähtenyt siitä rakennuksesta.
+dan	fin	Hvil dig lidt.	Huilaa vähän.
 dan	fin	Hvilken lettelse!	Mikä helpotus!
 dan	fin	Hvilken måned er vi i?	Mitä kuukautta elämme?
 dan	fin	Hvilket land er du fra?	Mistä maasta sinä olet kotoisin?
@@ -733,6 +775,16 @@ dan	fin	Hvorfor blev spillet aflyst?	Minkä takia peli peruttiin?
 dan	fin	Hvorfor blev spillet aflyst?	Minkä takia se peli peruttiin?
 dan	fin	Hvorfor blev spillet aflyst?	Minkä vuoksi peli peruttiin?
 dan	fin	Hvorfor blev spillet aflyst?	Minkä vuoksi se peli peruttiin?
+dan	fin	Hvorfor er du i badeværelset?	Miksi olet pesuhuoneessa?
+dan	fin	Hvorfor er du i badeværelset?	Miksi olet vessassa?
+dan	fin	Hvorfor er du i badeværelset?	Miksi sinä olet kylpyhuoneessa?
+dan	fin	Hvorfor er du i badeværelset?	Miksi sinä olet pesuhuoneessa?
+dan	fin	Hvorfor er du i badeværelset?	Miksi sinä olet vessassa?
+dan	fin	Hvorfor er du på badeværelset?	Miksi olet pesuhuoneessa?
+dan	fin	Hvorfor er du på badeværelset?	Miksi olet vessassa?
+dan	fin	Hvorfor er du på badeværelset?	Miksi sinä olet kylpyhuoneessa?
+dan	fin	Hvorfor er du på badeværelset?	Miksi sinä olet pesuhuoneessa?
+dan	fin	Hvorfor er du på badeværelset?	Miksi sinä olet vessassa?
 dan	fin	Hvorfor er himlen blå?	Miksi taivas on sininen?
 dan	fin	Hvor forfærdeligt!	Miten kauheaa!
 dan	fin	Hvorfor ikke?	Miksipä ei.
@@ -763,6 +815,9 @@ dan	fin	Hvor mange gange om måneden skriver du til din mor?	Monestiko kuukaudes
 dan	fin	Hvor mange nære venner har I?	Kuinka monta läheistä ystävää teillä on?
 dan	fin	Hvor mange nære venner har I?	Montako läheistä ystävää teillä on?
 dan	fin	Hvor meget har du betalt for den?	Kuinka paljon olet maksanut tuosta?
+dan	fin	Hvor meget har du brug for?	Kuinka paljon tarvitset?
+dan	fin	Hvor meget har du brug for?	Paljonko sinä tarvitset?
+dan	fin	Hvor meget har du brug for?	Paljonko tarvitset?
 dan	fin	Hvornår får jeg min bil tilbage?	Koska minä saan autoni takaisin?
 dan	fin	Hvornår så du filmen?	Milloin katsoit elokuvan?
 dan	fin	Hvornår så du filmen?	Milloin sinä katsoit sen elokuvan?
@@ -834,6 +889,8 @@ dan	fin	Japan ligger øst for Kina.	Japani on Kiinasta itään.
 dan	fin	Ja, selvfølgelig.	Joo, tietenkin.
 dan	fin	Ja, selvfølgelig.	Joo, toki.
 dan	fin	Javel!	Joo!
+dan	fin	Jeg aner ikke, hvordan det er at bo i USA. Jeg har aldrig været der.	Minulla ei ole aavistustakaan millaista USA:ssa olisi asua. En ole koskaan käynyt siellä.
+dan	fin	Jeg aner ikke, hvordan det er at bo i USA. Jeg har aldrig været der.	Minulla ei ole aavistustakaan millaista USA:ssa olisi asua. En ole koskaan ollut siellä.
 dan	fin	Jeg bad hende om råd.	Pyysin häneltä neuvoa.
 dan	fin	Jeg bad Tom om at gå til læge.	Minä pyysin Tuomasta menemään lääkäriin.
 dan	fin	Jeg bad Tom om at gå til lægen.	Minä pyysin Tuomoa menemään lääkäriin.
@@ -873,7 +930,9 @@ dan	fin	Jeg er allergisk over for katte.	Minä olen allerginen kissoille.
 dan	fin	Jeg er allergisk over for katte.	Olen allerginen kissoille.
 dan	fin	Jeg er en helt.	Olen sankari.
 dan	fin	Jeg er et menneske.	Minä olen ihminen.
+dan	fin	Jeg er finne, men jeg taler også svensk.	Minä olen suomalainen, mutta puhun myös ruotsia.
 dan	fin	Jeg er finsk.	Olen suomalainen.
+dan	fin	Jeg er fornærmet.	Loukkasit juuri minua.
 dan	fin	Jeg er fra Frankrig.	Olen kotoisin Ranskasta.
 dan	fin	Jeg er fra Kyoto.	Minä olen Kyotosta.
 dan	fin	Jeg er fra Tokyo.	Minä olen Tokiosta.
@@ -976,6 +1035,7 @@ dan	fin	Jeg har en pen.	Minulla on kynä.
 dan	fin	Jeg har en stor, sort hund.	Minulla on iso musta koira.
 dan	fin	Jeg har et hus i Bergen.	Minulla on talo Bergenissä.
 dan	fin	Jeg har et værktøj.	Minulla on työkalu.
+dan	fin	Jeg har fire katte.	Minulla on neljä kissaa.
 dan	fin	Jeg har hørt at Tom og Mary skal til Boston.	Minä olen kuullut, että Tuomas ja Mary menevät Bostoniin.
 dan	fin	Jeg har ingen cigaretter. Hent mig en cigaret.	Minulla ei ole yhtäkään sikaria. Hakekaa minulle sikari.
 dan	fin	Jeg har kun set den én gang.	Minä olen nähnyt tuon vain yhden kerran.
@@ -994,8 +1054,11 @@ dan	fin	Jeg har sagt noget.	Minä olen sanonut jotain.
 dan	fin	Jeg har sagt noget.	Minä olen sanonut jotakin.
 dan	fin	Jeg har sagt noget.	Olen sanonut jotain.
 dan	fin	Jeg har sagt noget.	Olen sanonut jotakin.
+dan	fin	Jeg har savnet dig.	Minä olen kaivannut sinua.
+dan	fin	Jeg har savnet dig.	Olen kaivannut sinua.
 dan	fin	Jeg har spurgt alle hvad det var.	Olen kysynyt kaikilta, että mikä se oli.
 dan	fin	Jeg har spurgt alle hvad det var.	Olen kysynyt kaikilta, että mikä tuo oli.
+dan	fin	Jeg har to hænder.	Minulla on kaksi kättä.
 dan	fin	Jeg har tre gange været i Australien.	Olen minä kolme kertaa käynyt Australiassa.
 dan	fin	Jeg har været i Australien tre gange.	Olen minä käynyt Australiassa kolme kertaa.
 dan	fin	Jeg har været tre gange i Australien.	Minä olen käynyt kolmesti Australiassa.
@@ -1016,6 +1079,8 @@ dan	fin	Jeg kan godt lide pomfritter.	Pidän ranskanperunoista.
 dan	fin	Jeg kan godt lide pomfritter.	Tykkään ranskalaisista perunoista.
 dan	fin	Jeg kan ikke huske den præcise dato.	En muista tarkkaa päivämäärää.
 dan	fin	Jeg kan ikke huske hans forklaring.	Minä en muista hänen selitystään.
+dan	fin	Jeg kan ikke lide at spise tomater.	En pidä tomaattien syömisestä.
+dan	fin	Jeg kan ikke lide at spise tomater.	En tykkää tomaattien syömisestä.
 dan	fin	Jeg kan ikke lide hende længere.	En enää pidä hänestä.
 dan	fin	Jeg kan ikke lide hende længere.	En minä enää pidä hänestä.
 dan	fin	Jeg kan ikke lide hende længere.	En pidä enää hänestä.
@@ -1034,6 +1099,7 @@ dan	fin	Jeg kan lide ærtesuppe.	Pidän hernerokasta.
 dan	fin	Jeg kan lide din måde at udtrykke dig på.	Minä pidän tavasta, jolla sinä ilmaiset itseäsi.
 dan	fin	Jeg kan lide dyr, for eksempel katte og hunde.	Tykkään eläimistä, esimerkiksi kissoista ja koirista.
 dan	fin	Jeg kan synge det på engelsk.	Voin laulaa sen englanniksi.
+dan	fin	Jeg kan tale esperanto som en indfødt.	Osaan esperantoa kuin äidinkieltäni.
 dan	fin	Jeg kender ikke denne dame.	En tunne tätä rouvaa.
 dan	fin	Jeg køber.	Minä ostan.
 dan	fin	Jeg kom, jeg så, jeg sejrede.	Tulin, näin, voitin.
@@ -1066,6 +1132,7 @@ dan	fin	Jeg ønsker ikke at skuffe mine venner.	Minä en halua aiheuttaa pettymy
 dan	fin	Jeg prøver at sammenligne de her to ordbøger for at finde ud af hvilken der er bedst, den ene eller den anden.	Yritän vertailla näitä kahta sanakirjaa selvittääkseni, kumpi on parempi.
 dan	fin	Jeg reparerer huset.	Minä korjaan sitä taloa.
 dan	fin	Jeg sad ved siden af ​​Tom.	Istuin Tomin vieressä.
+dan	fin	Jeg så en koala.	Näin koalan.
 dan	fin	Jeg så en masse dyr, da jeg rejste i Asien.	Minä näin paljon eläimiä, kun minä matkustin Aasiassa.
 dan	fin	Jeg sagde noget.	Minä sanoin jotain.
 dan	fin	Jeg sagde noget.	Minä sanoin jotakin.
@@ -1088,8 +1155,11 @@ dan	fin	Jeg spiser.	Syön.
 dan	fin	Jeg spiser tofu.	Minä syön tofua.
 dan	fin	Jeg spiser tofu.	Syön tofua.
 dan	fin	Jeg spiste alle æblerne.	Söin ne kaikki omenat.
+dan	fin	Jeg stolte på nogen som ikke fortjente min tillid.	Luotin johonkuhun, joka ei ansainnut luottamustani.
+dan	fin	Jeg stolte på nogen som ikke fortjente min tillid.	Minä luotin johonkuhun, joka ei ansainnut luottamustani.
 dan	fin	Jeg syntes ikke, det var sjovt.	Minun mielestäni se ei ollut hauskaa.
 dan	fin	Jeg syntes ikke, det var sjovt.	Minusta se ei ollut hauskaa.
+dan	fin	»Jeg tænker, altså er jeg«, sagde René Descartes.	”Ajattelen, siis olen”, sanoi René Descartes.
 dan	fin	Jeg tænkte at det måske var brugbart.	Minä ajattelin, että se ehkä olisi käyttökelpoista.
 dan	fin	Jeg tager altid metroen, når jeg skal på arbejde.	Kuljen töihin aina metrolla.
 dan	fin	Jeg tager altid metroen, når jeg skal på arbejde.	Minä menen töihin aina metrolla.
@@ -1152,6 +1222,7 @@ dan	fin	Jeg ved ikke hvornår, men det vil ske en dag.	En tiedä milloin, mutta 
 dan	fin	Jeg ved ikke hvornår, men det vil ske en dag.	En tiedä milloin, mutta jonakin päivänä se tulee tapahtumaan.
 dan	fin	Jeg ved stadig ikke, hvem jeg skal stemme på.	En vieläkään tiedä ketä äänestäisin.
 dan	fin	Jeg venter her indtil hun kommer tilbage.	Odotan täällä, kunnes hän tulee takaisin.
+dan	fin	Jeg vidste det var forkert at gøre, men jeg gjorde det alligevel.	Tiesin sen olevan väärin, mutta tein sen silti.
 dan	fin	Jeg vidste ikke at Mary var Toms kæreste.	En tiennyt Maryn olevan Tuomaan tyttöystävä.
 dan	fin	Jeg vidste ikke at Mary var Toms kæreste.	En tiennyt Maryn olevan Tuomaksen tyttöystävä.
 dan	fin	Jeg vidste ikke at Mary var Toms kæreste.	En tiennyt Maryn olleen Tuomaan tyttöystävä.
@@ -1167,11 +1238,15 @@ dan	fin	Jeg vil aldrig glemme hvad du gjorde for mig.	Minä en koskaan unohda, m
 dan	fin	Jeg vil aldrig glemme hvad du gjorde for mig.	Minä en koskaan unohda, mitä sinä teit puolestani.
 dan	fin	Jeg vil aldrig glemme hvad du gjorde for mig.	Minä en koskaan unohda, mitä teit puolestani.
 dan	fin	Jeg vil gerne betale.	Maksan kernaasti.
+dan	fin	Jeg vil gerne have en kvinde til at undersøge mig.	Haluaisin naisen tutkivan minua.
+dan	fin	Jeg vil gerne have en mand til at undersøge mig.	Haluaisin miehen tutkivan minua.
 dan	fin	Jeg vil gerne hjælpe dig.	Autan sinua mielelläni.
 dan	fin	Jeg vil gerne hjælpe dig.	Minä autan sinua mielelläni.
 dan	fin	Jeg vil gerne tale fransk flydende.	Minä haluaisin puhua ranskaa sujuvasti.
 dan	fin	Jeg vil gerne tale med oversygeplejersken.	Haluaisin puhua ylihoitajalle.
+dan	fin	Jeg vil give ham et tilbud som han ikke kan afslå.	Teen hänelle tarjouksen, josta hän ei voi kieltäytyä.
 dan	fin	Jeg vil have mit eget værelse.	Haluan saada oman huoneen.
+dan	fin	Jeg vil ikke anbefale, at du prøver at ride på en zebra.	En suosittele yrittämään seepralla ratsastamista.
 dan	fin	Jeg vil ikke gå i skole.	En halua mennä kouluun.
 dan	fin	Jeg vil ikke gå i skole.	En tahdo mennä kouluun.
 dan	fin	Jeg vinder, koste hvad det vil.	Minä voitan, maksoi mitä maksoi.
@@ -1254,6 +1329,7 @@ dan	fin	Lær fransk.	Oppikaa ranskaa.
 dan	fin	Lås døren!	Lukitse ovi!
 dan	fin	Liisa er en aktiv og energisk ung kvinde.	Liisa on aktiivinen ja energinen nuori nainen.
 dan	fin	Linda slår dig ihjel.	Linda tappaa sinut.
+dan	fin	Liv spillede bordtennis med Bo.	Liv pelasi pöytätennistä Bon kanssa.
 dan	fin	Løb!	Pingo!
 dan	fin	Løb!	Pinkokaa!
 dan	fin	Løsenet er "Muiriel".	Salasana on ”Muiriel”.
@@ -1283,6 +1359,8 @@ dan	fin	Mange elever har købt bogen.	Monet oppilaat ovat ostaneet kirjan.
 dan	fin	Mange elever har købt bogen.	Moni oppilaista on ostanut sen kirjan.
 dan	fin	Mange elever har købt bogen.	Useat oppilaat ovat ostaneet kirjan.
 dan	fin	Mange hilsener.	Terveisiä.
+dan	fin	Mange hyperaktive børn får diagnosen ADHD.	Monet hyperaktiiviset lapset saavat ADHD-diagnoosin.
+dan	fin	Mange hyperaktive børn får diagnosen ADHD.	Monet hyperaktiiviset lapset saavat tarkkaavaisuus- ja ylivilkkaushäiriödiagnoosin.
 dan	fin	Mange tak!	Kiitos todella paljon!
 dan	fin	Mary blev mor i 2013.	Marysta tuli äiti vuonna 2013.
 dan	fin	Mary blev mor i to tusind og tretten.	Marysta tuli äiti vuonna kaksituhatta kolmetoista.
@@ -1298,6 +1376,7 @@ dan	fin	Mary skoldede sin hånd med kogende vand.	Mari poltti kätensä kiehuval
 dan	fin	Marys mobiltelefon løb tør for strøm.	Marin kännykän akku tyhjeni.
 dan	fin	Marys mobiltelefon løb tør for strøm.	Marin kännykästä loppui virta.
 dan	fin	Matematik består grundlæggende af funktioner, mængder og logik.	Matematiikka perustuu funktioille, joukoille ja logiikalle.
+dan	fin	Med Tom havde det været anderledes.	Tuomon kanssa se olisi ollut erilaista.
 dan	fin	Meget mærkelig.	Todella erikoista.
 dan	fin	Meget romantisk!	Todella romanttista!
 dan	fin	Men hvorfor?	Mutta miksi?
@@ -1337,6 +1416,7 @@ dan	fin	Mit sværd er mit liv.	Minun miekkani on elämäni.
 dan	fin	Mit ur er mere præcist end dit.	Kelloni on tarkempi kuin sinun.
 dan	fin	Mit ur skal repareres.	Kelloni on korjattava.
 dan	fin	Mit ur skal repareres.	Minun kelloni on korjattava.
+dan	fin	Mødet er endnu ikke afsluttet.	Tapaaminen ei ole vielä päättynyt.
 dan	fin	Mor er i gang med at lave mad i køkkenet.	Äippä tekee ruakaa keittiös.
 dan	fin	Mor er i gang med at lave mad i køkkenet.	Äiti on tekemässä ruokaa keittiössä.
 dan	fin	Morgenmaden er færdig.	Aamiainen on valmis.
@@ -1361,6 +1441,10 @@ dan	fin	Nordenvinden havde en diskussion med Solen om hvem af de to der var den 
 dan	fin	Nu, da det er lovligt at gifte sig med en person af samme køn, er jeg kommet et trin nærmere med at gifte mig med mig selv.	Nyt, kun laki sallii samansukupuolisten avioliitot, olen päässyt askeleen lähemmäksi itseni kanssa naimisiin menoa.
 dan	fin	Nu ved jeg endelig, hvordan man siger det på tysk!	Lopultakin tiedän kuinka se sanotaan saksaksi!
 dan	fin	Nu ved jeg endelig, hvordan man siger det på tysk!	Lopultakin tiedän miten se sanotaan saksaksi!
+dan	fin	Øen synker.	Saari uppoaa.
+dan	fin	Øen synker.	Saari vajoaa.
+dan	fin	Øen synker.	Se saari uppoaa.
+dan	fin	Øen synker.	Se saari vajoaa.
 dan	fin	Okay. Undskyld.	Selvä. Sori.
 dan	fin	Om vinteren føler jeg mig mere træt.	Talvisin minä tunnen itseni väsyneemmäksi.
 dan	fin	"Ønsker du noget at drikke?" "Nej, tak."	"Haluatko jotain juotavaa?" "Ei kiitos."
@@ -1419,6 +1503,12 @@ dan	fin	Sid ikke for tæt på ilden.	Älä istu liian lähellä tulta.
 dan	fin	Sid ikke for tæt på ilden.	Älkää istuko liian lähellä sitä tulta.
 dan	fin	Sid ikke for tæt på ilden.	Älkää istuko liian lähellä tulta.
 dan	fin	Sidste måned, giftede hun sig med Tom.	Viime kuussa hän meni naimisiin Tomin kanssa.
+dan	fin	Skal vi bytte plads?	Vaihdetaanko paikkaa?
+dan	fin	Skal vi bytte plads?	Vaihdetaanko paikkoja?
+dan	fin	Skal vi bytte plads?	Vaihdettaisko paikkaa?
+dan	fin	Skal vi bytte plads?	Vaihdettaisko paikkoja?
+dan	fin	Skal vi bytte plads?	Vaihtaisimmeko paikkaa?
+dan	fin	Skal vi bytte plads?	Vaihtaisimmeko paikkoja?
 dan	fin	Skal vi tage i biografen?	Menisimmekö me elokuviin?
 dan	fin	Skam jer!	Hävetkää!
 dan	fin	Skibet synker.	Laiva uppoaa.
@@ -1452,9 +1542,15 @@ dan	fin	Ssh!	Hys!
 dan	fin	Statistikkerne viser at størstedelen af dem der konverterer til islam i Europa, lider af psykiske problemer.	Tilastojen mukaan suurin osa heistä, jotka kääntyvät islaminuskoon Euroopassa, kärsivät henkisistä ongelmista.
 dan	fin	Strålende!	Fantastista!
 dan	fin	Summen på kvadratet af kateterne er lig kvadratet på hypotenusen.	Kateettien neliöiden summa on yhtä suuri kuin hypotenuusan neliö.
+dan	fin	Synker øen?	Uppoaako saari?
+dan	fin	Synker øen?	Uppoaako se saari?
+dan	fin	Synker øen?	Vajoaako saari?
+dan	fin	Synker øen?	Vajoaako se saari?
 dan	fin	Tæl fra en til ti.	Laske yhdestä kymmeneen.
 dan	fin	Tæl til tredive.	Laskekaa kolmeenkymppiin.
 dan	fin	Tag det ikke for givet at alle har en bil.	Älä oleta, että kaikilla olisi auto.
+dan	fin	Tag en fin kjole på.	Pukeudu hienoon mekkoon.
+dan	fin	Tag en fin kjole på.	Pukeutukaa hienoon mekkoon.
 dan	fin	Tag honningen og smørret!	Ota hunaja ja voi!
 dan	fin	Tag honningen og smørret!	Ota se hunaja ja se voi!
 dan	fin	Tag honning og smør!	Ottakaa hunajaa ja voita!
@@ -1476,6 +1572,7 @@ dan	fin	Titanic sank på sin jomfrurejse.	Titanic upposi neitsytmatkallaan.
 dan	fin	Tom åbnede køleskabet og tog mælken ud.	Tomi avasi jääkaapin ja otti sen maidon sieltä.
 dan	fin	Tom arbejder med elværktøj.	Tomi työskentelee sähkötyökaluilla.
 dan	fin	Tom bar Marys bøger for hende.	Tuomo kantoi Maryn kirjat hänen puolestaan.
+dan	fin	Tom begyndte at le.	Tom alkoi nauramaan.
 dan	fin	Tom boede her hos os i tre måneder.	Tomi asui kolme kuukautta täällä meidän luonamme.
 dan	fin	Tom boede her hos os i tre måneder.	Tomi asui kolmen kuukauden ajan täällä meidän luonamme.
 dan	fin	Tom boede her hos os i tre måneder.	Tomi asui täällä meidän luonamme kolme kuukautta.
@@ -1557,6 +1654,7 @@ dan	fin	Tom kommer ikke her mere.	Tommi ei enää käy täällä.
 dan	fin	Tom kommer ikke her mere.	Tommi ei käy enää täällä.
 dan	fin	Tom kunne godt lide sangen.	Tomi piti laulusta.
 dan	fin	Tom kunne godt lide sangen.	Tomi tykkäsi siitä laulusta.
+dan	fin	Tom laver pytipande.	Tomi tekee pyttipannua.
 dan	fin	Tom lever i Maryland.	Tuomas asuu Marylandissa.
 dan	fin	Tom, Mary, John og Alice bor alle i Boston.	Tomi, Mari, Joni ja Liisa asuvat kaikki Bostonissa.
 dan	fin	"Tom!" "Mary!"	»Tuomas!» »Mary!»
@@ -1609,6 +1707,7 @@ dan	fin	Tom tror at kvinder altid fortæller alt til deres nærmeste venner.	Tuo
 dan	fin	Tom tror at kvinder altid fortæller alt til deres nærmeste venner.	Tuomo luulee naisten aina kertovan kaiken läheisimmille ystävilleen.
 dan	fin	Tom tror at kvinder altid fortæller alt til deres nærmeste venner.	Tuomon mielestä naiset kertovat aina kaiken läheisimmille ystävilleen.
 dan	fin	Tom underviser.	Tom opettaa.
+dan	fin	Tom valgte at bo i Australien.	Tuomo päätti asua Australiassa.
 dan	fin	Tom var den eneste der kom til skade.	Tomi oli ainoa, joka vahingoittui.
 dan	fin	Tom var den eneste mand i værelset.	Tom oli ainoa mies huoneessa.
 dan	fin	Tom var en af mine patienter.	Tom oli yksi potilaistani.
@@ -1639,6 +1738,8 @@ dan	fin	Træstolen er dyr.	Se puutuoli on kallis.
 dan	fin	Tre gange har jeg været i Australien.	Kolme kertaa olen käynyt Australiassa.
 dan	fin	Tre gange har jeg været i Australien.	Kolme kertaa olen minä käynyt Australiassa.
 dan	fin	Tre gange har jeg været i Australien.	Kolmesti olen käynyt Australiassa.
+dan	fin	Tror du, Tom vil synge til vores bryllup?	Luuletko Tuomaan laulavan häissämme?
+dan	fin	Tror du, Tom vil synge til vores bryllup?	Uskotko Tuomaan laulavan häissämme?
 dan	fin	Tror du virkelig, at jeg er så dum?	Uskotko sinä todella, että minä olen niin tyhmä?
 dan	fin	Tror du virkelig, at jeg er så dum?	Uskotko sinä todella, että olen niin tyhmä?
 dan	fin	Tror du virkelig, at jeg er så dum?	Uskotko sinä todella, että olen noin tyhmä?
@@ -1646,8 +1747,11 @@ dan	fin	Tror du virkelig, at jeg er så dum?	Uskotko todella, että minä olen n
 dan	fin	Tror du virkelig, at jeg er så dum?	Uskotko todella, että minä olen noin tyhmä?
 dan	fin	Tusind tak.	Tuhannet kiitokset.
 dan	fin	Tv'et er tændt.	Televisio on auki.
+dan	fin	Uanset, hvor meget hun spiser, så tager hun aldrig på i vægt.	Miten paljon tahansa hän syökään, ei hän lihoa.
 dan	fin	Uden tvivl!	Ei epäilystäkään!
 dan	fin	Undskyld...	Anteeksi...
+dan	fin	Undskyld, kan du sige mig vejen til Central Park?	Anteeksi, voitko kertoa reitin Central parkiin?
+dan	fin	Undskyld, kan du sige mig vejen til Central Park?	Anteeksi, voitko sinä kertoa reitin Central parkiin?
 dan	fin	Uret er ti minutter bagud.	Kello jättää kymmenen minuuttia.
 dan	fin	Uret er ti minutter bagud.	Se kello jättää kymmenen minuuttia.
 dan	fin	Utroligt! Esperanto er på andenpladsen.	Uskomatonta! Esperanto on toisella sijalla.
@@ -1680,6 +1784,7 @@ dan	fin	Velbekomme.	Toivottavasti ruoka maistui.
 dan	fin	Velkommen.	Tervetuloa.
 dan	fin	Vent her.	Odottakaa tässä.
 dan	fin	Vent venligst i venteværelset.	Olkaa hyvä ja odottakaa odotushuoneessa.
+dan	fin	Verden er syg.	Maailma on sairas.
 dan	fin	Vi behøver flere talentfulde mennesker.	Tarvitsemme enemmän lahjakkaita ihmisiä.
 dan	fin	Vi blev gift for syv år siden.	Menimme naimisiin seitsemän vuotta sitten.
 dan	fin	Vi bør adlyde færdselsreglerne.	Meidän pitää noudattaa liikennesääntöjä.
@@ -1714,7 +1819,12 @@ dan	fin	Vi laver ikke noget.	Emme tee mitään.
 dan	fin	Vi laver ikke noget.	Me ei tehdä mitään.
 dan	fin	Vi laver mange projekter i skolen.	Meillä on monta projektia koulussa.
 dan	fin	Vi laver mange projekter i skolen.	Me toteutamme monta projektia koulussa.
+dan	fin	Vil du bytte plads?	Haluatko sinä vaihtaa paikkaa?
+dan	fin	Vil du bytte plads?	Haluatko sinä vaihtaa paikkoja?
+dan	fin	Vil du bytte plads?	Haluatko vaihtaa paikkaa?
+dan	fin	Vil du bytte plads?	Haluatko vaihtaa paikkoja?
 dan	fin	Vi lejer lejligheden.	Asumme vuokralla siinä asuntossa.
+dan	fin	Vi løb tør for brændstof.	Meiltä loppui polttoaine.
 dan	fin	Vi mangler noget.	Meiltä puuttuu jotain.
 dan	fin	Virkelig?	Ihanks totta?
 dan	fin	Vi sad og læste.	Me istuimme lukemassa.
@@ -1741,3 +1851,4 @@ dan	fin	Vi ventede.	Odotimme.
 dan	fin	Vi vil bevise, at P er en delvist ordnet mængde.	Me aiomme näyttää, että P on osittain järjestetty joukko.
 dan	fin	Vi vil bevise, at P er en delvist ordnet mængde.	Me haluamme näyttää, että P on osittain järjestetty joukko.
 dan	fin	Wenjin er en kinesisk kvinde.	Wenjin on kiinalainen nainen.
+dan	fin	Yanni blev blind.	Yanni tuli sokeaksi.

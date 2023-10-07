@@ -132,6 +132,7 @@ ell	spa	Γεια σου, το όνομα μου είναι Πέκκα. Ποιο 
 ell	spa	Γεια σου, φίλε μου. Τι κάνεις;	¡Hola, amigo mío! ¿Cómo estás?
 ell	spa	Γελάει καλύτερα όποιος γελάει τελευταίος.	Quien ríe último, ríe mejor.
 ell	spa	Γεννήθηκα εκεί.	Nací allá.
+ell	spa	Γεννηθήκαμε το ίδιο έτος.	Nacimos el mismo año.
 ell	spa	Γεννήθηκα το 1979.	Nací en 1979.
 ell	spa	Γεννήθηκε το 1960.	Ella nació en 1960.
 ell	spa	Για βλάκα με περνάς;	¿Me tomas por un imbécil?
@@ -163,6 +164,7 @@ ell	spa	Δε θυμάμαι την εξήγησή του.	No puedo recordar su e
 ell	spa	Δείχνει κουρασμένη.	Ella parece cansada.
 ell	spa	Δε μ' αρέσει το κρασί.	No me gusta el vino.
 ell	spa	Δε με νοιάζει τι λέει ο κόσμος.	No me importa lo que dice la gente.
+ell	spa	Δε μου αρέσει το μεταλλικό νερό.	No me gusta el agua mineral.
 ell	spa	Δε μπορώ να κοιμηθώ καλά.	No puedo dormir bien.
 ell	spa	Δε μπορώ να το πω στον πατέρα μου.	No puedo decírselo a mi padre.
 ell	spa	Δε μπορώ να το πω στον πατέρα μου.	No se lo puedo decir a mi padre.
@@ -188,6 +190,7 @@ ell	spa	Δεν έχω αδελφές.	No tengo hermanas.
 ell	spa	Δεν έχω λεφτά μαζί μου.	No llevo dinero encima.
 ell	spa	Δεν έχω πάει ποτέ στο Παρίσι.	No he estado nunca en París.
 ell	spa	Δεν έχω φράγκα.	Estoy sin un duro.
+ell	spa	Δεν ήθελα να κλείσω την πόρτα.	No quería cerrar la puerta.
 ell	spa	Δεν ήταν ευχάριστη εμπειρία.	No fue una experiencia agradable.
 ell	spa	Δεν θα μας αφήσει ήσυχους.	Él no nos va a dejar tranquilos.
 ell	spa	Δεν θέλω να χάσω την πτήση.	No quiero perder el avión.
@@ -418,10 +421,13 @@ ell	spa	Η Σανγκάη είναι μία από τις μεγαλύτερες
 ell	spa	Η σκουριά τρώει το σίδερο.	El óxido se come el hierro.
 ell	spa	Ήσουν μεθυσμένος;	¿Estuviste bebiendo?
 ell	spa	Ήσουν τέλεια.	Estuviste perfecta.
+ell	spa	Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	El servicio militar es también un deber patriótico.
 ell	spa	Ήταν ένας καλός βασιλιάς.	Fue un rey bueno.
 ell	spa	Ήταν εύκολο για μένα να λύσω το πρόβλημα.	Era fácil para mí de solucionar el problema.
 ell	spa	Ήταν ιδέα του συζύγου μου.	Fue idea de mi marido.
+ell	spa	Ήταν μια όμορφη μέρα, αλλά δεν μπορούσα να βγω έξω.	Hacía un día precioso, pero no podía salir.
 ell	spa	Η τάξη αποτελούνταν από 15 αγόρια και πολλά κορίτσια.	La clase se componía de 15 niños y muchas niñas.
+ell	spa	Η ψηφοφορία είναι ένα πατριωτικό καθήκον.	Votar es un deber patriótico.
 ell	spa	Θα είμαι εκεί στις πέντε μ.μ.	Estaré ahí a las cinco de la tarde.
 ell	spa	Θα είμαι πίσω σε δέκα λεπτά.	Volveré en diez minutos.
 ell	spa	Θα έρθω να σε δω αύριο.	Vendré a verte mañana.
@@ -602,6 +608,7 @@ ell	spa	Να μην έρθεις μέχρι να σου πω.	No vengas hasta qu
 ell	spa	Νερό, παρακαλώ.	Agua, por favor.
 ell	spa	Νιώθω μοναξιά.	Me siento solo.
 ell	spa	Νομίζω ότι θα έρθει, αλλά δεν είμαι σίγουρος.	Creo que viene, pero no estoy seguro.
+ell	spa	Νομίζω ότι πρέπει να πεις στους γονείς σου ότι είμαστε παντρεμένοι.	Creo que deberías decirles a tus padres que estamos casados.
 ell	spa	Ντυθήκαμε κυριλέ, αυτή με σικάτο φόρεμα εξόδου κι εγώ με γραβατούλα και κουστούμι.	Nos pusimos de punta en blanco, ella con un elegante vestido de noche y yo con corbata y traje.
 ell	spa	Νώμιζα πως ήθελες να πάρεις τη γυναίκα σου.	Pensaba que querías llamar a tu mujer.
 ell	spa	Ξαπλώνω πολύ νωρίς.	Me acuesto muy pronto.
@@ -635,12 +642,14 @@ ell	spa	Οι γονείς μου έχουν αποχωρήσει από την �
 ell	spa	Οι εξαιρέσεις επιβεβαιώνουν τον κανόνα.	La excepción confirma la regla.
 ell	spa	Οι μαθητές γέλασαν.	Los estudiantes se rieron.
 ell	spa	Οι μόνες χρήσιμες απαντήσεις είναι αυτές που εγείρουν νέα ερωτήματα.	Las únicas respuestas útiles son las que plantean nuevas preguntas.
+ell	spa	Οι πόλεις είναι τα χωνευτήρια του πολιτισμού.	Las ciudades son los crisoles de la civilización.
 ell	spa	Ο καιρός είναι γιατρός.	El tiempo todo lo cura.
 ell	spa	Ο καφές με ξυπνάει.	El café me despierta.
 ell	spa	Ο κηπουρός ήταν ο δολοφόνος.	El jardinero era el asesino.
 ell	spa	Ο κύβος ερρίφθη.	La suerte está echada.
 ell	spa	Ο κύριος Χασιμότο έβαλε μπρος τη μηχανή.	El Sr. Hashimoto arrancó el motor.
 ell	spa	Όλα κι όλα!	Eso pasa de la raya.
+ell	spa	Ο Λίβανος είναι μια δημοκρατία.	Líbano es una república.
 ell	spa	Όλοι οι άνθρωποι μπορούν να συναντήσουν το άλλο τους μισό.	Todas las personas pueden encontrar a su media naranja.
 ell	spa	Όλος ο κόσμος τον αγαπάει.	Todo el mundo le quiere.
 ell	spa	Ο λύκος κι αν εγέρασε κι άλλαξε το μαλλί του, μήτε τη γνώμη άλλαξε μήτε την κεφαλή του.	El hijo de la gata, ratones mata.
@@ -692,8 +701,8 @@ ell	spa	Ο τόνος θα δώσει χαρακτήρα στο τραγούδι
 ell	spa	Ο υπολογιστής είναι καινούργιος.	El ordenador es nuevo.
 ell	spa	Οφθαλμό αντί οφθαλμού και οδόντα αντί οδόντος.	Ojo por ojo, diente por diente.
 ell	spa	Ο φίλος σου είναι εδώ.	Tu amigo está aquí.
-ell	spa	Όχι, ευχαριστώ. Είμαι έγκυος.	No, gracias. Estoy embarazada.
 ell	spa	Όχι ευχαριστώ, είμαι έγκυος.	No, gracias. Estoy embarazada.
+ell	spa	Όχι, ευχαριστώ. Είμαι έγκυος.	No, gracias. Estoy embarazada.
 ell	spa	Ο χρόνος επουλώνει τα τραύματα.	El tiempo todo lo cura.
 ell	spa	Ο χρόνος έχει δώδεκα μήνες.	Un año tiene doce meses.
 ell	spa	Πάει πίσω από αρχικό πλάνο.	Voy con retraso sobre lo previsto.
@@ -727,6 +736,7 @@ ell	spa	Πες μου τι έγινε.	Dime qué ha pasado.
 ell	spa	Πες μου τι έγινε.	Dime qué pasó.
 ell	spa	Πες μου τι να κάνω.	Dime qué hacer.
 ell	spa	Πετυχαίνω μ' ένα σμπάρο δυο τρυγόνια.	Matar dos pájaros de un tiro.
+ell	spa	Πηγαίνουμε στην εκκλησία κάθε Κυριακή.	Vamos a la iglesia todos los domingos.
 ell	spa	Πήγαμε και στο ναό.	Fuimos también al templo.
 ell	spa	Πήγαν όλα τζάμπα!	¡Fue todo en vano!
 ell	spa	Πήγαν όλα τζάμπα!	¡Todo fue en vano!
@@ -847,6 +857,7 @@ ell	spa	Σας είπα ήδη ότι δεν είναι εδώ.	Ya os dije que n
 ell	spa	Σας κάνει το φόρεμα;	¿Le queda bien el vestido?
 ell	spa	Σας καταλαβαίνω.	Le entiendo.
 ell	spa	Σ' αυτό τον δρόμο υπάρχουν παρκόμετρα.	En esa calle hay parquímetros.
+ell	spa	Σε γνωρίζω από την κόψη του σπαθιού την τρομερή.	Te reconozco por el terrible filo de tu espada.
 ell	spa	Σε ευχαριστώ για όλα.	Gracias por todo.
 ell	spa	Σειρά σας.	Le toca a usted.
 ell	spa	Σε κάθε κοινωνία υπάρχουν συντηρητικά και προοδευτικά στοιχεία.	En toda sociedad hay elementos conservadores y progresistas.
@@ -905,6 +916,7 @@ ell	spa	Τελικά δεν πήρε τηλέφωνο.	Al final no llamó.
 ell	spa	Τέλος πάντων, που μένει αυτός;	Por cierto, ¿dónde vive él?
 ell	spa	Τέλος πάντων, πού μένετε εσείς;	Por cierto, ¿dónde vive usted?
 ell	spa	Τέσσερα επί τρία ίσον δώδεκα.	Cuatro por tres son doce.
+ell	spa	Τέτοιες λέξεις λένε μόνο οι τρελοί.	Sólo los locos dicen esas palabras.
 ell	spa	Τη λατρεύω αυτή τη φωτογραφία.	Me encanta esta foto.
 ell	spa	Την αποχαιρέτησε με ένα φιλί.	Se despidió de ella con un beso.
 ell	spa	Τι;	¿Qué?
@@ -915,6 +927,7 @@ ell	spa	τι είδος πορτοκάλια φυτέυετε εδώ;	¿Qué cla
 ell	spa	Τι είπε;	¿Qué ha dicho?
 ell	spa	Τι είπες;	¿Qué has dicho?
 ell	spa	Τι εννοείς μ' αυτό;	¿Qué quieres decir con eso?
+ell	spa	Τι θα πει;	¿Qué va a decir?
 ell	spa	Τι θες να φας;	¿Qué quieres comer?
 ell	spa	Τι κρίμα!	¡Qué lástima!
 ell	spa	Τι κρίμα!	¡Qué pena!
@@ -930,6 +943,7 @@ ell	spa	Τι συνέβη σε σένα χθες βράδυ;	¿Qué te pasó ano
 ell	spa	Τι της έλεγες;	¿Qué le decías?
 ell	spa	Τι της έλεγες;	¿Qué le decías a ella?
 ell	spa	Τι ύψος έχεις;	¿Cuánto mides de alto?
+ell	spa	Τι ώρα ανοίγουν οι τράπεζες?	¿A qué hora abren los bancos?
 ell	spa	Τι ώρα θα 'ρθεις να με πάρεις;	¿A qué hora vienes a buscarme?
 ell	spa	Τι ώρα θα 'ρθεις να με πάρεις;	¿A qué hora vienes a recogerme?
 ell	spa	Τι ωραία θέα!	¡Qué bonita vista!
@@ -943,6 +957,7 @@ ell	spa	Το γουρούνι είναι ροζ.	El cerdo es rosa.
 ell	spa	Το θέλω.	Lo quiero.
 ell	spa	Το ίδιο μου κάνει.	Me da igual.
 ell	spa	Το κορίτσι έχει ένα ποντίκι.	La niña tiene un ratón.
+ell	spa	Το κυριλλικό αλφάβητο δημιουργήθηκε με βάση το ελληνικό αλφάβητο.	El alfabeto cirílico se creó a partir del alfabeto griego.
 ell	spa	Το λατρεύω το κινέζικο φαγητό.	Me encanta la comida china.
 ell	spa	Το μαγαζί του είναι πάντα γεμάτο πελάτες.	Su negocio está siempre lleno de clientes.
 ell	spa	Το μέγεθος δεν έχει σημασία.	El tamaño no importa.
@@ -961,6 +976,7 @@ ell	spa	Τον πέταξαν στους πέντε δρόμους.	Le echaron a
 ell	spa	Τον πιάσαμε στα πράσα.	Le pillamos con las manos en la masa.
 ell	spa	Τον πιάσαμε στα πράσα.	Le pillamos en flagrante.
 ell	spa	Τον πιάσαμε στα πράσα.	Le pillamos in fraganti.
+ell	spa	Τον χειμώνα η κορυφή του βουνού καλύπτεται με χιόνι.	La cima de la montaña está cubierta de nieve en el invierno.
 ell	spa	Το όνομά μου είναι Ριχάρδος.	Mi nombre es Ricardo.
 ell	spa	Το πάθημα να γίνει μάθημα.	De los errores se aprende.
 ell	spa	Το σπίτι είναι κόκκινο.	La casa es roja.
@@ -980,6 +996,7 @@ ell	spa	Τσάι χωρίς πάγο.	Té sin hielo.
 ell	spa	Τώρα θυμάμαι.	Ahora recuerdo.
 ell	spa	Τώρα κάνω ένα μπάνιο.	Ahora me estoy dando un baño.
 ell	spa	Τώρα κάνω μπάνιο.	Me estoy bañando.
+ell	spa	Υπάρχει ένα σπίτι δίπλα στη θάλασσα.	Hay una casa junto al mar.
 ell	spa	Υπάρχει καμία πτήση το απόγευμα;	¿Hay un vuelo por la tarde?
 ell	spa	Υπάρχει λίγο νερό στο ποτήρι.	Hay un poquito de agua en el vaso.
 ell	spa	Υπάρχουν πολλά νησιά στην Ελλάδα.	Hay muchas islas en Grecia.
@@ -994,6 +1011,7 @@ ell	spa	Φυσικά.	Por supuesto.
 ell	spa	Χαίρομαι που σε ξαναβλέπω.	Me alegra volver a verte.
 ell	spa	Χαίρομαι που σε ξαναβλέπω.	Me alegro de volver a verte.
 ell	spa	Χαλάρωσε.	Relájate.
+ell	spa	Χθες τελείωσε η πρώτη περίοδος.	El primer período terminó ayer.
 ell	spa	Χμ, ίσως!	¡Hm, quizá!
 ell	spa	Χρειάζομαι ένα χάρακα.	Necesito una regla.
 ell	spa	Χρειάζομαι μια σκάλα.	Yo necesito una escalera.

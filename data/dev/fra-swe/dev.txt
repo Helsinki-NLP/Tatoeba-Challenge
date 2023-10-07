@@ -80,6 +80,7 @@ fra	swe	C'est malpoli de montrer du doigt les gens.	Det är oartigt att peka på
 fra	swe	C'est mon CD.	Det är min cd-skiva.
 fra	swe	C'est mon travail, tu sais.	Det är mitt jobb, du vet.
 fra	swe	C'est plus nuageux aujourd'hui qu'hier.	Det är molnigare i dag än i går.
+fra	swe	C'est ton pain.	Det här är ditt bröd.
 fra	swe	C'est un anglicisme.	Detta är en anglicism.
 fra	swe	C'est un dictionnaire.	Det är en ordbok.
 fra	swe	C'est une ombre.	Det är en skugga.
@@ -88,6 +89,7 @@ fra	swe	C'est un héros.	Han är en hjälte.
 fra	swe	C'est un moment historique.	Detta är ett historiskt ögonblick.
 fra	swe	C'est un piège.	Det är en fälla.
 fra	swe	C'est un vieil ami à moi.	Det är en gammal vän till mig.
+fra	swe	C'est vous qui m'avez manqué, les enfants.	Det är jag som har saknat er, mina barn.
 fra	swe	C'est vrai ?	Är det sant?
 fra	swe	C'est vrai !	Det är sant.
 fra	swe	C'était toi qui a appelé la police ?	Var det du som ringde polisen?
@@ -164,6 +166,8 @@ fra	swe	Elle a hérité de l'argent d'un parent lointain.	Hon ärvde pengar av e
 fra	swe	Elle aimait la poésie et la musique.	Hon gillade poesi och musik.
 fra	swe	Elle aimait la poésie et la musique.	Hon tyckte om poesi och musik.
 fra	swe	Elle a les cheveux blonds platine.	Hon har platinablont hår.
+fra	swe	Elle a pris le volant.	Hon har tagit över ratten.
+fra	swe	Elle a pris le volant.	Hon tog ratten.
 fra	swe	Elle a un chien.	Hon har en hund.
 fra	swe	Elle a un grand nombre de livres.	Hon har ett stort antal böcker.
 fra	swe	Elle chante bien.	Hon sjunger bra.
@@ -186,17 +190,21 @@ fra	swe	Elle n'était pas du tout impatiente.	Hon var inte det minsta otålig.
 fra	swe	Elle parle vite.	Hon talar fort.
 fra	swe	Elle posa la tête sur mon épaule.	Hon lade huvudet på min axel.
 fra	swe	Elles boivent du coca.	De dricker cola.
+fra	swe	Elle s'est plainte qu'il faisait trop chaud dans la chambre.	Hon klagade över att det var för varmt i rummet.
+fra	swe	Elle s'est plainte qu'il faisait trop chaud dans la chambre.	Hon klagade på att det var för varmt i rummet.
 fra	swe	Elles ne sont pas occupées.	De är inte upptagna.
 fra	swe	Elle tient toujours ses promesses.	Hon håller alltid sitt ord.
 fra	swe	Elle veut danser.	Hon vill dansa.
 fra	swe	Elle voulait voyager.	Hon ville resa.
 fra	swe	Encore du café s'il vous plait.	Kan jag få mer kaffe?
+fra	swe	Ensuite elle s’est tue.	Sedan tystnade hon.
 fra	swe	Essaie de le convaincre de nous aider.	Försök att övertyga honom att hjälpa oss.
 fra	swe	Est-ce bleu ?	Är det blått?
 fra	swe	Est-ce que ça vous dirait de prendre un petit café ?	Vad sägs om en kopp kaffe?
 fra	swe	Est-ce que je parle trop vite ?	Talar jag för snabbt?
 fra	swe	Est-ce que la porte est fermée ?	Är dörren stängd?
 fra	swe	Est-ce que tu m'aimes ?	Älskar du mig?
+fra	swe	Est-ce un renard ?	Är det en räv?
 fra	swe	Est-elle japonaise ?	Är hon japansk?
 fra	swe	Es-tu amoureux de quelqu'un en ce moment ?	Är du kär i någon just nu?
 fra	swe	Es-tu aussi chez toi ?	Är du också hemma?
@@ -224,6 +232,7 @@ fra	swe	Il a beaucoup changé depuis la dernière fois.	Han har förändrats myc
 fra	swe	Il a beaucoup de livres.	Han har många böcker.
 fra	swe	Il a dit qu'il m'aimait.	Han sa att han älskade mig.
 fra	swe	Il a dû quitter l'école parce qu'il était pauvre.	Han var tvungen att lämna skolan för att han var fattig.
+fra	swe	Il a été des plus gentils avec moi.	Han var ytterst vänlig mot mig.
 fra	swe	Il a fait peur aux enfants.	Han gjorde barnen rädda.
 fra	swe	Il a fait peur aux enfants.	Han skrämde barnen.
 fra	swe	Il aime beaucoup la musique.	Han tycker mycket om musik.
@@ -281,12 +290,15 @@ fra	swe	Il risque de ne pas venir.	Det finns en risk för att han inte kommer.
 fra	swe	Il risque de pleuvoir demain.	Det finns en risk för regn i morgon.
 fra	swe	Il ronflait bruyamment pendant son sommeil.	Han snarkade högt medan han sov.
 fra	swe	Il sait nager.	Han kan simma.
+fra	swe	Il s’amuse avec son chien.	Han har kul med sin hund.
+fra	swe	Il s’amuse avec son chien.	Han roar sig med sin hund.
 fra	swe	Ils chérissent leurs enfants.	De älskar sina barn.
 fra	swe	Il se fatigue facilement.	Han blir lätt trött.
 fra	swe	Il s'entraîne à la guitare jusqu'à tard le soir.	Han övar på att spela gitarr tills sent på kvällen.
 fra	swe	Il se peut qu'elle vienne.	Hon kommer förmodligen.
 fra	swe	Il s'est blessé en jouant avec ses amis.	Han gjorde sig illa när han lekte med sina vänner.
 fra	swe	Il s'est construit une nouvelle maison.	Han har byggt sig ett nytt hus.
+fra	swe	Il s'est endormi d'un sommeil éternel.	Han somnade in från en evig dvala.
 fra	swe	Ils ne m'écoutent pas.	De lyssnar inte på mig.
 fra	swe	Ils ne savent pas comment utiliser un astérisque.	De vet inte hur en asterisk används.
 fra	swe	Ils n'ont pas dit ça.	Det sa de inte.
@@ -319,6 +331,7 @@ fra	swe	J'adore les cheveux de Laurie.	Jag älskar Lauries hår.
 fra	swe	J'ai aimé ton discours.	Jag gillade ditt tal.
 fra	swe	J'ai appris le français au lieu de l'allemand.	Jag lärde mig franska i stället för tyska.
 fra	swe	J'ai assez d'argent.	Jag har tillräckligt med pengar.
+fra	swe	J’ai baisé Marie.	Jag knullade Mary.
 fra	swe	J'ai besoin d'acheter des timbres-poste.	Jag behöver köpa frimärken.
 fra	swe	J'ai besoin de café.	Jag behöver kaffe.
 fra	swe	J'ai besoin d'une réponse maintenant.	Jag behöver ett svar nu.
@@ -332,6 +345,7 @@ fra	swe	J'ai déjà dit à Tom ce que je veux acheter.	Jag har redan berättat f
 fra	swe	J'ai déjà dit qu'elle n'est pas ici.	Jag har redan sagt att hon inte är här.
 fra	swe	J'ai déjà recherché partout.	Jag har redan letat överallt.
 fra	swe	J'ai de l'argent.	Jag har lite pengar.
+fra	swe	J'ai de l’asthme.	Jag har astma.
 fra	swe	J'ai deux chats.	Jag har två katter.
 fra	swe	J'ai dix minutes de retard.	Jag är tio minuter försenad.
 fra	swe	J'ai donné au mendiant tout l'argent que j'avais.	Jag gav tiggaren alla pengar jag hade.
@@ -363,10 +377,12 @@ fra	swe	J'ai oublié de l'appeler aujourd'hui.	Jag glömde att ringa henne idag.
 fra	swe	J'ai perdu beaucoup d'argent.	Jag har förlorat en massa pengar.
 fra	swe	J'ai perdu ma motivation.	Jag förlorade min motivation.
 fra	swe	J'ai presque tué Tom.	Jag dödade nästan Tom.
+fra	swe	J'ai renvoyé Tom à la maison.	Jag har skickat hem Tom.
 fra	swe	J'ai tellement de questions pour toi.	Jag har så många frågor till dig.
 fra	swe	J'ai tellement de questions pour vous.	Jag har så många frågor till er.
 fra	swe	J'ai tous les amis dont j'ai besoin.	Jag har alla de vänner som jag behöver.
 fra	swe	J'ai tout raconté à maman.	Jag berättade allt för mamma.
+fra	swe	J'ai trait les vaches.	Jag har mjölkat korna.
 fra	swe	J'ai trois frères.	Jag har tre bröder.
 fra	swe	J'ai trouvé un autre travail.	Jag fick ett annat jobb.
 fra	swe	J'ai trouvé une solution grâce à ton aide.	Jag fann en lösning tack vare din hjälp.
@@ -423,6 +439,8 @@ fra	swe	Je m'appelle Farshad.	Jag heter Farshad.
 fra	swe	Je m'appelle Henri.	Jag heter Henry.
 fra	swe	Je m'appelle Hisashi.	Jag heter Hisashi.
 fra	swe	Je m'appelle Jiaming Wang.	Jag heter Wang Jiaming.
+fra	swe	Je m'appelle Marina.	Jag heter Marina.
+fra	swe	Je m'en doutais !	Jag tänkte väl det!
 fra	swe	Je m'entraînais tous les jours.	Jag övade varje dag.
 fra	swe	Je me sens comme si j'étais une autre personne.	Jag känner mig som en annan person.
 fra	swe	Je me sens seule.	Jag känner mig ensam.
@@ -537,6 +555,7 @@ fra	swe	J'espère que tu m'apprécies.	Jag hoppas att du tycker om mig.
 fra	swe	J'espère que tu te plais ici.	Jag hoppas att du trivs här.
 fra	swe	J'essaie de nouveau.	Jag försöker igen.
 fra	swe	Je suis allée en Suède.	Jag for till Sverige.
+fra	swe	Je suis asthmatique.	Jag har astma.
 fra	swe	Je suis belle.	Jag är vacker.
 fra	swe	Je suis certain qu'il va venir.	Jag är säker på att han kommer.
 fra	swe	Je suis content que nous nous soyons rencontrés.	Jag är glad att vi träffades.
@@ -645,16 +664,19 @@ fra	swe	Le coureur a l'air fatigué et ne semble pas être en mesure de continue
 fra	swe	Le dictateur disposait de la complète loyauté de ses collaborateurs.	Diktatorn hade alla sina medhjälpares fulla lojalitet.
 fra	swe	Le feu de circulation est passé au rouge.	Trafikljuset slog om till rött.
 fra	swe	Le grand-père de Tom et celui de Mary ont combattu ensemble durant la seconde guerre mondiale.	Toms farfar och Marys farfar slogs tillsammans i andra världskriget.
+fra	swe	Le levier de vitesse est cassé.	Växelspaken är trasig.
 fra	swe	Le livre coûte 4 dollars.	Boken kostar fyra dollar.
 fra	swe	Le mal gagne toujours.	Det onda vinner alltid.
 fra	swe	Le manque de sommeil est mauvais pour le corps.	Sömnbrist är inte bra för kroppen.
 fra	swe	Le monde entier nous regarde.	Hela världen tittar på oss.
 fra	swe	Le monde est-il devenu fou ?	Har världen blivit tokig?
+fra	swe	Le monde est une nation.	Världen är en nation.
 fra	swe	L'enfant avait peur de l'eau et ne savait pas nager.	Barnen var rädda för vatten och kunde inte simma.
 fra	swe	Le nouveau tunnel va relier la Grande-Bretagne et la France.	Den nya tunneln kommer att förbinda Storbritannien med Frankrike.
 fra	swe	L'entreprise est sur le point de faire faillite.	Företaget håller på att gå i konkurs.
 fra	swe	Le papier est blanc.	Papper är vitt.
 fra	swe	Le parti s'est divisé en deux factions rivales.	Partiet delade sig i två rivaliserande grupperingar.
+fra	swe	Le peuple uni ne sera jamais vaincu.	Det förenade folket kommer aldrig att besegras.
 fra	swe	Le portefeuille de Fadil était toujours dans sa poche.	Fadils plånbok var fortfarande i hans ficka.
 fra	swe	Le président a aboli l'esclavage.	Presidenten har avskaffat slaveriet.
 fra	swe	Le prêtre a accepté de nous marier.	Prästen har gått med på att viga oss.
@@ -682,6 +704,7 @@ fra	swe	Le soleil brille.	Solen skiner.
 fra	swe	Le soleil est rouge.	Solen är röd.
 fra	swe	L'espagnol est ma langue maternelle.	Spanska är mitt modersmål.
 fra	swe	Les petites gouttes font les grandes rivières.	Många bäckar små gör en stor å.
+fra	swe	Les voleurs se sont réparti le butin du casse.	Tjuvarna delade upp bytet från rånet mellan sig.
 fra	swe	Les vrais hommes boivent du thé.	Riktiga män dricker te.
 fra	swe	Le thermomètre indique 10 degrés.	Termometern visar 10 grader.
 fra	swe	Le train est retardé à cause de la neige.	Tåget är försenat på grund av snön.
@@ -766,6 +789,7 @@ fra	swe	Notre mère nous a acheté un chiot.	Vår mamma köpte en hundvalp till 
 fra	swe	Notre professeur d'anglais est à la fois strict et gentil.	Vår engelsklärare är både sträng och snäll.
 fra	swe	Notre téléphone ne fonctionne plus. Je devrais le faire réparer.	Vår telefon fungerar inte längre. Jag skulle behöva laga den.
 fra	swe	N'oublie jamais cette règle.	Glöm aldrig den här regeln.
+fra	swe	Nous allons aussi acheter une bouteille de vin rouge.	Vi ska också köpa en flaska rödvin.
 fra	swe	Nous allons leur acheter de la nourriture.	Vi ska köpa mat åt dem.
 fra	swe	Nous avons attendu le bateau pendant de nombreuses heures.	Vi väntade på båten i många timmar.
 fra	swe	Nous avons beaucoup de nourriture.	Vi har mycket mat.
@@ -786,6 +810,7 @@ fra	swe	Nous n'avons pas où aller.	Vi har ingenstans att ta vägen.
 fra	swe	Nous ne pouvons pas abandonner sans nous battre.	Vi kan inte ge upp utan en kamp.
 fra	swe	Nous ne sommes jamais satisfaits.	Vi är aldrig nöjda.
 fra	swe	Nous ne sommes pas ici pour nous amuser.	Vi är inte här för att ha roligt.
+fra	swe	Nous nous sommes adjoint des partenaires majeurs.	Vi har knutit till oss några framträdande partner.
 fra	swe	Nous sommes des hommes.	Vi är män.
 fra	swe	Nous sommes restés éveillés toute la nuit.	Vi har varit uppe hela natten.
 fra	swe	Nous sommes très occupés.	Vi var väldigt upptagna.
@@ -950,6 +975,8 @@ fra	swe	Sortez de ma chambre !	Gå ut ur mitt rum!
 fra	swe	Souviens-toi de cela.	Kom ihåg det.
 fra	swe	Spinoza était un panthéiste.	Spinoza var panteist.
 fra	swe	Suis cette voiture.	Följ efter den där bilen.
+fra	swe	Ta braguette est ouverte.	Du har gylfen öppen.
+fra	swe	Taïwan est un pays.	Taiwan är ett land.
 fra	swe	Tatoeba te tient à l'œil.	Tatoeba håller ögonen på dig.
 fra	swe	Tes livres me plaisent.	Jag tycker om dina böcker.
 fra	swe	T'es sérieux ?	Äru seriös?
@@ -1051,6 +1078,8 @@ fra	swe	Tom t'ignore.	Tom ignorerar dig.
 fra	swe	Tom transpirait.	Tom svettades.
 fra	swe	Tom veut devenir fort.	Tom vill bli stark.
 fra	swe	Tout devint noir.	Allt blev svart.
+fra	swe	Tout est blanc dehors.	Allt är vitt ute.
+fra	swe	Tout est blanc dehors.	Allt är vitt utomhus.
 fra	swe	Tout est devenu noir.	Allt blev svart.
 fra	swe	Tout est devenu noir.	Allting blev svart.
 fra	swe	Tout le monde est occupé.	Alla är upptagna.
@@ -1110,6 +1139,8 @@ fra	swe	Un tremblement de terre détruisit le bâtiment.	En jordbävning först�
 fra	swe	Venez prendre le thé avec moi.	Kom och drick te med mig.
 fra	swe	Veux-tu plus de thé ?	Vill du ha mer te?
 fra	swe	Veux-tu un peu de bière ?	Vill du ha lite öl?
+fra	swe	Vite !	Snabba på!
+fra	swe	Vite !	Snabbt!
 fra	swe	Voici ma femme, Minna.	Det här är min fru, Minna.
 fra	swe	Votre maison est grande.	Ditt hus är stort.
 fra	swe	Vous apprenez l'arabe.	Du lär dig arabiska.

@@ -1,4 +1,5 @@
 rus	toki_Latn	А вот и мы!	mi mute kin li kama!
+rus	toki_Latn	А майонез - это инструмент?	ko sin jelo li ilo pi kalama musi anu seme?
 rus	toki_Latn	Америка очень большая.	ma Mewika li suli mute.
 rus	toki_Latn	Английский — международный язык.	jan pi ma ali li ken toki kepeken toki Inli.
 rus	toki_Latn	Аппетит приходит во время еды.	jan li jo e moku la jan li wile moku.
@@ -24,6 +25,7 @@ rus	toki_Latn	В доме никого не будет.	jan ala li lon tomo.
 rus	toki_Latn	В доме очень жарко.	seli mute li insa lon tomo.
 rus	toki_Latn	В дополнение к английскому я изучаю французский.	mi kama sona e toki Inli. mi kama sona e toki Kanse kin.
 rus	toki_Latn	Веди!	o lawa!
+rus	toki_Latn	Век живи - век учись.	sina lon la o kama sona sin.
 rus	toki_Latn	Великан Циклоп одноглазый.	jan suli Siklop li jo e sike lukin wan taso.
 rus	toki_Latn	Вернись в постель.	o tawa supa lape.
 rus	toki_Latn	В замке стояла тишина.	kalama ala li lon tomo.
@@ -46,14 +48,14 @@ rus	toki_Latn	В парке много детей.	jan lili mute li lon ma kasi.
 rus	toki_Latn	В прошлом буржуи сильно изменили мир.	tenpo kama la jan mani li ante mute e ma.
 rus	toki_Latn	Время идёт.	tenpo li tawa.
 rus	toki_Latn	В России букву "ъ" называют "твёрдый знак" , а букву "ь" - "мягкий знак".	jan pi ma Losi li nimi "ъ" sama "твёрдый знак". ona li nimi "ь" sama "мягкий знак".
+rus	toki_Latn	Всё в порядке.	ali li pona.
 rus	toki_Latn	Все всё знают, но никто ничего не говорит.	jan ali li sona e ali, taso jan ala li toki e ali.
+rus	toki_Latn	Всё имеет конец.	ali li ken pini.
 rus	toki_Latn	Все любят Мак.	jan ali li olin e jan Maku.
 rus	toki_Latn	Все склонны к лени.	jan ala li wile pali.
-rus	toki_Latn	Все цвета базируются на основных трех цветах.	kule tu wan li kule lawa. kule ante li lawa ala.
-rus	toki_Latn	Всё в порядке.	ali li pona.
-rus	toki_Latn	Всё имеет конец.	ali li ken pini.
 rus	toki_Latn	Всё хорошо.	ali li pona!
 rus	toki_Latn	Всё хорошо.	ali li pona.
+rus	toki_Latn	Все цвета базируются на основных трех цветах.	kule tu wan li kule lawa. kule ante li lawa ala.
 rus	toki_Latn	Вскипяти воду.	o seli e telo.
 rus	toki_Latn	Вся стена в граффити.	jan li jaki e selo tomo kepeken ilo sitelen.
 rus	toki_Latn	Вся стена в граффити.	sitelen nasa li lon sinpin tomo.
@@ -120,6 +122,7 @@ rus	toki_Latn	Его работа заслуживает высшей похва
 rus	toki_Latn	Еда слишком холодная.	moku li lete pi mute ike.
 rus	toki_Latn	Её глаза светились счастьем.	oko pi meli ni li suno tan ni: ona li pilin pona.
 rus	toki_Latn	Её муж пьёт действительно как сапожник.	mije ona li moku mute e telo nasa.
+rus	toki_Latn	Ёлки-палки!	pakala!
 rus	toki_Latn	Если бы не воздух и вода, мы не могли бы жить.	kon en telo li weka la mi ali li moli.
 rus	toki_Latn	Если бы я был богат, я бы это сделал. А так я ничего не могу сделать.	mi jo e mani mute la mi pali e ni. ante la mi ken ala pali.
 rus	toki_Latn	Если в доме нет кота, мышь может делать что угодно.	soweli Kato li ala lon tomo la soweli lili Muso li ken pali ale.
@@ -129,7 +132,6 @@ rus	toki_Latn	Если ты не можешь мне понравиться, п�
 rus	toki_Latn	Если хочешь жить без проблем — молчи.	o toki ala. ante la sina pilin ike.
 rus	toki_Latn	Если хочешь, можешь остаться здесь.	sina wile la sina ken awen lon ni.
 rus	toki_Latn	Ещё один шаг - и ты покойник.	sina tawa lili taso la sina li kama moli.
-rus	toki_Latn	Ёлки-палки!	pakala!
 rus	toki_Latn	Жди.	o awen.
 rus	toki_Latn	Жди.	sina o awen.
 rus	toki_Latn	Желаю вам хорошей поездки.	tawa pona!
@@ -164,6 +166,7 @@ rus	toki_Latn	Из-за нехватки кормов скот умер от г�
 rus	toki_Latn	Из-за тебя я потерял аппетит.	sina kama e ni: mi wile ala moku.
 rus	toki_Latn	Из ничего ничего не бывает.	tan ala la ala li kama.
 rus	toki_Latn	Икар летел на искусственных крыльях.	jan Ikawus li tawa sewi kepeken ilo waso.
+rus	toki_Latn	Или не хочешь?	sina wile ala anu seme?
 rus	toki_Latn	Им нужна помощь.	ona li wile e pona tan jan.
 rus	toki_Latn	И что мы будем делать?	mi mute li wile seme?
 rus	toki_Latn	Каждый должен это знать.	jan ali o sona e ni.
@@ -276,6 +279,7 @@ rus	toki_Latn	Мы идём позади тебя.	mi mute li tawa monsi lon sin
 rus	toki_Latn	Мы мужчины.	mi mute li mije.
 rus	toki_Latn	Мы найдём время.	mi kama jo e tenpo.
 rus	toki_Latn	Мы не могли прийти.	mi ken ala kama.
+rus	toki_Latn	Мы нуждаемся в Вашей помощи.	mi mute li wile e pona tan sina.
 rus	toki_Latn	Мы подарили ему наручные часы.	mi mute li pana e ilo tenpo luka tawa ona.
 rus	toki_Latn	Мы пока еще не слишком голодны.	tenpo ni la mi kama ala wile moku.
 rus	toki_Latn	Мы снова и снова перечитывали это письмо.	mi lukin e sitelen lipu lon tenpo sin en tenpo sin.
@@ -336,6 +340,7 @@ rus	toki_Latn	Ночью холодно.	tenpo pimeja li lete.
 rus	toki_Latn	Оба брата ещё живы.	mije sama tu li lon kin.
 rus	toki_Latn	Обе его сестры красивы.	meli sama ona tu li pona lukin.
 rus	toki_Latn	Одежда Тома грязная.	len pi jan Ton li jaki.
+rus	toki_Latn	Однажды я её встретил.	tenpo pini wan la mi lukin e ona.
 rus	toki_Latn	Она будет ждать свою сестру здесь.	ni la ona li awen lon ni: jan sama ona li kama ala.
 rus	toki_Latn	Она была бледная от страха.	sinpin ona li walo tan ni: ona li pilin monsuta.
 rus	toki_Latn	Она была душой компании.	tenpo pini la ona li suno insa pi kulupu ni.
@@ -558,8 +563,10 @@ rus	toki_Latn	Тебе нужно время.	sina wile e tenpo.
 rus	toki_Latn	Тебе нужно поспать.	sina wile lape.
 rus	toki_Latn	Телефон был изобретён Беллом в 1876-м году.	tenpo pini mute mute la jan Pel li pali e ilo toki sin.
 rus	toki_Latn	Теперь буржуи набрались сил и победили помещиков. Но трудящимся снова едва хватает еды.	tenpo ni la jan mani li kama wawa li anpa e jan pi ma mute. taso jan pali li jo lili sin e moku.
+rus	toki_Latn	Токипона очень милый язык.	toki pona li toki pi suwi mute.
 rus	toki_Latn	Токипона - хороший язык.	toki pona li toki pona.
 rus	toki_Latn	Токипона - это единственный язык, одинаково пригодный для всех народов.	toki pona taso li pona sama tawa jan pi ma ali.
+rus	toki_Latn	Том!	jan Ton o!
 rus	toki_Latn	Том, а ты правда встречаешься с японкой?	jan Ton o! sina unpa e meli Nijon anu seme?
 rus	toki_Latn	Том - аутист.	jan Ton li nasa.
 rus	toki_Latn	Том бросил институт.	jan Ton li weka e tomo pi sona mute.
@@ -637,6 +644,7 @@ rus	toki_Latn	Ты умный-умный, а дурак.	ken la sina sona. taso 
 rus	toki_Latn	Ты хорошая.	sina pona.
 rus	toki_Latn	Ты хороший.	sina pona.
 rus	toki_Latn	Ты что, больной на голову?	sina nasa anu seme?
+rus	toki_Latn	Убить его!	o moli e ona!
 rus	toki_Latn	У вас есть двухместные комнаты?	tomo tawa jan tu li lon ala lon?
 rus	toki_Latn	У Вас есть карандаш?	sina jo ala jo e ilo sitelen?
 rus	toki_Latn	У доктора Смит много пациентов.	jan Smit li pona e jan pakala mute.
@@ -647,11 +655,13 @@ rus	toki_Latn	У Маши больше денег, чем мы все можем
 rus	toki_Latn	У меня болит голова, и меня мучает кашель.	mi pilin ike.
 rus	toki_Latn	У меня был длинный разговор с ней.	tenpo suli la mi en ona li toki.
 rus	toki_Latn	У меня есть часы.	mi jo e ilo tenpo.
+rus	toki_Latn	У меня мало, а у тебя?	mi jo e lili. taso sina jo e seme?
 rus	toki_Latn	У меня на родине жуки маленькие.	pipi pi ma mama mi li lili.
 rus	toki_Latn	У меня нет слов.	a! mi ken ala toki.
 rus	toki_Latn	У меня такое чувство, что тут никто не понимает финский.	mi pilin e ni: jan ala li ken kepeken e toki Sumi lon ni.
 rus	toki_Latn	У Мэри пухленький муженёк.	jan Mewi li jo e mije pi sijelo nena.
 rus	toki_Latn	У нас дома два телевизора.	ilo tu pi sitelen tawa li lon tomo mi.
+rus	toki_Latn	У нас другая информация.	mi sona e ijo ante.
 rus	toki_Latn	У нас заканчивалась и пища, и вода.	mi mute li jo ala e moku.
 rus	toki_Latn	У нас мало шансов выиграть.	mi mute li ken lili anpa e ona.
 rus	toki_Latn	У него была привычка вставать рано.	ona li awen kama sinpin tan supa lape lon tenpo lili.
@@ -660,10 +670,10 @@ rus	toki_Latn	У него на тебя зуб.	ona li wile ike tawa sina.
 rus	toki_Latn	У него нет подружки.	ona li jo ala e meli.
 rus	toki_Latn	У него семь сыновей.	ona li jo e mije lili luka tu.
 rus	toki_Latn	У него чёрные волосы.	linja lawa ona li pimeja.
-rus	toki_Latn	У нее сексуальный ротик.	uta ona li unpa lukin.
-rus	toki_Latn	У нее чувственный рот.	uta ona li unpa lukin.
 rus	toki_Latn	У неё большие голубые глаза.	oko ona li suli li laso.
 rus	toki_Latn	У неё красивые глаза.	oko ona li pona lukin.
+rus	toki_Latn	У нее сексуальный ротик.	uta ona li unpa lukin.
+rus	toki_Latn	У нее чувственный рот.	uta ona li unpa lukin.
 rus	toki_Latn	У Нептуна очень сильное магнитное поле.	mun Kala li jo e wawa kon suli.
 rus	toki_Latn	У них большой дом.	tomo ona li suli.
 rus	toki_Latn	Уничтожь это всё.	mi wile e ni: sina pakala e ni ali.
@@ -697,9 +707,9 @@ rus	toki_Latn	Человек — это маленький мир.	jan li sike m
 rus	toki_Latn	Чем больше читаешь, тем больше познаешь.	jan li lukin e lipu sona la ona li alasa e sona sin.
 rus	toki_Latn	Чем занят?	sina pali e seme?
 rus	toki_Latn	Чем крупнее город, тем больше в нём уровень загрязнения воздуха и воды.	ma tomo li kama suli sin la kon en telo li kama jaki sin lon ona.
+rus	toki_Latn	Чёрт!	pakala!
 rus	toki_Latn	Черт подери! Это неплохо!	pona! a!
 rus	toki_Latn	Честность - не гарантия успеха.	sina pali pona. taso ken la sina jo ala e mani.
-rus	toki_Latn	Чёрт!	pakala!
 rus	toki_Latn	Чтение доставляет мне огромное удовольствие.	mi lukin e lipu sona. ni li pona tawa mi.
 rus	toki_Latn	Что вызвало пожар?	seme li pana e seli pakala?
 rus	toki_Latn	Что вы скажете насчёт игры в карты?	sina wile ala wile musi lipu?
@@ -735,10 +745,12 @@ rus	toki_Latn	Это моя страна.	ma ni li ma mi.
 rus	toki_Latn	Это моя школа.	ni tomo pi jan pana pi sona. ni mi.
 rus	toki_Latn	Это моя шляпа.	ni li len lawa mi.
 rus	toki_Latn	Это наш отец.	ni li mije mama mi.
+rus	toki_Latn	Это не только мой сын, но и твой.	ona li mije lili mi. taso ona li mije lili sina kin.
 rus	toki_Latn	Это очень просто, если знаешь правила.	sina sona e lawa la ni li pona tawa sina.
 rus	toki_Latn	Это очень сложный механизм.	ilo ni li ike.
 rus	toki_Latn	Это предложение очень короткое.	sitelen ni li lili mute.
 rus	toki_Latn	Это птицы.	ni li waso mute.
+rus	toki_Latn	Это самое печальное.	ni li pana e pilin ike mute. ale ante li pana e pilin ike lili.
 rus	toki_Latn	Это сложно.	ni li ike.
 rus	toki_Latn	Это твой кошелёк?	ni li poki mani sina anu seme?
 rus	toki_Latn	Это твоя книга, Мике?	jan Mike o! lipu ni li sina ala sina?
@@ -751,6 +763,7 @@ rus	toki_Latn	Этот факт, полагаю, очень важен.	mi pilin
 rus	toki_Latn	Этот цвет вам идёт.	kule ni li pona tawa sina.
 rus	toki_Latn	Это чертовски сложно!	ni li ike mute.
 rus	toki_Latn	Это чья сумка?	jan seme li jo e poki ni?
+rus	toki_Latn	Это шар.	ni li sike.
 rus	toki_Latn	Эту книгу написали три человека.	jan tu wan li sitelen e lipu sona ni.
 rus	toki_Latn	Эх, всё-то вам не нравится.	pakala! ala li pona tawa sina.
 rus	toki_Latn	Юми станет учителем.	tenpo kama la jan Jumi li pana e sona.
@@ -840,6 +853,7 @@ rus	toki_Latn	Я очень хочу её видеть.	mi wile mute lukin e ona
 rus	toki_Latn	Я очень хочу съездить в Египет.	mi wile kin tawa ma Masu.
 rus	toki_Latn	Я подожду тебя.	mi awen tawa sina.
 rus	toki_Latn	Я поймал прекрасную бабочку.	mi alasa e pipi. ona li pona lukin.
+rus	toki_Latn	Я помогаю жене по хозяйству.	meli mi li pali e ijo lon tomo, la mi pana e pona tawa ona.
 rus	toki_Latn	Я понимаю твой язык.	mi ken pilin e toki sina.
 rus	toki_Latn	Я попросил его помочь мне.	mi toki e ni tawa ona: ona o pana e pona tawa mi.
 rus	toki_Latn	Я посетил Нару.	mi lukin e jan Nala.

@@ -1,6 +1,7 @@
 bjn	spa	Asa, dua, talu, ampat, lima, anam, pitu, walu, sanga, sapuluh.	Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.
 bjn	spa	Kada.	No.
 bjn	spa	Tarima kasih!	¡Gracias!
+ind	spa	Ada banyak binatang karnivora yang juga makan buah-buahan.	Hay muchos animales carnívoros que también comen frutas.
 ind	spa	Ada tiga jendela di ruangan ini.	Este cuarto tiene tres ventanas.
 ind	spa	Adat istiadat ini berasal dari Cina.	La costumbre se originó en China.
 ind	spa	Airnya berwarna hijau.	El agua es verde.
@@ -13,17 +14,20 @@ ind	spa	Aku cinta kamu!	¡Te quiero!
 ind	spa	Aku cinta kamu!	Te quiero.
 ind	spa	Aku cinta kamu.	Te quiero.
 ind	spa	Aku cinta kamu!	Yo te quiero.
+ind	spa	Aku harus mencari kata itu di kamus.	Tengo que buscar esa palabra en el diccionario.
 ind	spa	Aku kehilangan tiketku.	Perdí mi boleto.
 ind	spa	Aku lapar.	Tengo hambre.
 ind	spa	Aku melakukannya seperti ini.	Lo hice de esta manera.
 ind	spa	Aku sebenarnya tidak melakukan apa-apa.	Realmente no hice nada.
 ind	spa	Aku sedang berbicara dengan muridku.	Estoy hablando con mi alumno.
 ind	spa	Aku sedang makan roti.	Estoy comiendo pan.
+ind	spa	Aku sudah menulis banyak kalimat dalam bahasa Prancis.	He escrito muchas frases en francés.
 ind	spa	Aku suka pergi memancing dengan ayahku.	Me gusta ir a pescar con mi papá.
 ind	spa	Aku tidak akan pernah mau melakukannya.	Yo jamás haría eso.
 ind	spa	Aku tidak peduli meskipun turun salju.	No me importa si cae nieve.
 ind	spa	Aku tidak peduli meskipun turun salju.	No me importa si nieva.
 ind	spa	Aku tidak percaya padamu.	No te creo.
+ind	spa	Aku tidak suka makan tomat.	No me gusta comer tomates.
 ind	spa	Aku tidak takut dengan hantu.	Yo no les temo a los fantasmas.
 ind	spa	Anak-anak adalah bunga dari kehidupan kita.	Los niños son las flores de nuestra vida.
 ind	spa	Anak laki-lakiku percaya akan Santa Claus.	Mi hijo cree en Papá Noel.
@@ -54,16 +58,22 @@ ind	spa	Awas!	¡Cuidado!
 ind	spa	Ayah memastikan semua lampu telah padam sebelum pergi tidur.	Papá se aseguró de que todas las luces estuvieran apagadas antes de irse a dormir.
 ind	spa	Ayahnya memanggilnya Tom.	Su padre lo llama "Tom".
 ind	spa	Bagaimana kabar Anda?	¿Cómo está usted?
+ind	spa	Bahasa Finlandia memiliki lebih banyak vokal daripada konsonan.	El finés tiene más vocales que consonantes.
 ind	spa	Bantu aku membuka jendela ini.	Ayúdame a abrir esta ventana.
 ind	spa	Belajar bahasa asing membosankan.	Aprender lenguas extranjeras es aburrido.
 ind	spa	Belajar bahasa Inggris membutuhkan ketekunan.	Aprender inglés requiere dedicación.
 ind	spa	Berapa lama kamu akan pergi, Tom?	¿Cuánto tiempo estarás fuera, Tom?
+ind	spa	Berkas tidak ditemukan.	Archivo no encontrado.
 ind	spa	Besok kami akan pergi dari Frankfurt ke München.	Mañana iremos de Fráncfort a Múnich.
 ind	spa	Besok, saya akan bisa istirahat.	Mañana podré reposar.
 ind	spa	Bila anda tidak memiliki program ini, anda dapat mendownloadnya sekarang.	Si usted no dispone de este programa puede descargarlo ahora.
 ind	spa	Bin tinggal di Singapura.	Bin vivía en Singapur.
+ind	spa	Bisbol adalah permainan yang aneh dan membosankan.	El béisbol es un juego raro y aburrido.
+ind	spa	Buku ini bisa membantumu.	Este libro te puede ayudar.
 ind	spa	Buku ini tentang perbintangan.	Este libro es acerca de las estrellas.
 ind	spa	Buku itu kecil.	El libro es chico.
+ind	spa	Buku yang Tom tulis dalam bahasa Esperanto telah diterjemahkan ke banyak bahasa di seluruh dunia.	El libro que Tom escribió en esperanto ha sido traducido a muchos idiomas alrededor del mundo.
+ind	spa	Cari berdasarkan nama.	Buscar por nombre.
 ind	spa	Cepatlah, atau anda akan ketinggalan kereta.	Date prisa o perderás el tren.
 ind	spa	Cepatlah, atau kamu akan ketinggalan pesawat.	Date prisa o perderás el avión.
 ind	spa	Cepatlah!	¡Date prisa!
@@ -75,6 +85,8 @@ ind	spa	Dia benci pesta.	Odia las festas.
 ind	spa	Dia bisa dipercaya.	Se puede confiar en él.
 ind	spa	Dia dipecat karena mencuri.	Lo despidieron por robar.
 ind	spa	Dia di sini!	¡Él está aquí!
+ind	spa	Dia ingin belajar bahasa Estonia.	Quiere aprender estonio.
+ind	spa	Dia ingin belajar bahasa Spanyol.	Quiere aprender español.
 ind	spa	Dia lebih tinggi daripada saya.	Él es más alto que yo.
 ind	spa	Dia lebih tinggi daripada saya.	Ella es más alta que yo.
 ind	spa	Dia lebih tinggi daripada saya.	Es más alta que yo.
@@ -92,6 +104,7 @@ ind	spa	Di sekitar sini supermarket ada di mana?	¿Adónde hay un supermercado c
 ind	spa	Dokter hanya ada pada hari kerja.	El doctor sólo está disponible los días laborables.
 ind	spa	Dokter tidak ada saat ini.	El médico no está disponible.
 ind	spa	Dulu, saya pernah bekerja di bank.	Trabajé en un banco.
+ind	spa	Edward Sapir adalah seorang ahli bahasa Amerika.	Edward Sapir fue un lingüista estadounidense.
 ind	spa	Garpu jatuh dari meja.	Se cayó un tenedor de la mesa.
 ind	spa	Guru itu, tanpa mendengar lonceng, terus saja berbicara.	El maestro, al no oír la campana, no paró de hablar.
 ind	spa	Hanya ada satu hal yang bisa kulakukan.	Sólo hay una cosa por hacer.
@@ -107,6 +120,7 @@ ind	spa	Kakek saya sudah meninggal semenjak 5 tahun yang lalu.	Mi abuelo murió 
 ind	spa	Kami akan senang.	Estaremos felices.
 ind	spa	Kami selalu patuh terhadap peraturan.	Nosotros siempre obedecemos las reglas.
 ind	spa	Kamu bilang apa ke Paula?	¿Qué le dijiste a Paula?
+ind	spa	Kamu bukan istriku.	No eres mi esposa.
 ind	spa	Kamu harus tidur.	Deberías dormir.
 ind	spa	Kamu ingin pergi?	¿Quieres ir?
 ind	spa	Kamu ingin pergi?	¿Usted quiere ir?
@@ -118,6 +132,7 @@ ind	spa	Kapal itu mengangkut bahan mentah dari Indonesia.	El barco transporta ma
 ind	spa	Kau bisa memanggilku Bob.	Puedes llamarme Bob.
 ind	spa	Kau melihat Nancy di mana?	¿Dónde viste a Nancy?
 ind	spa	Keiko memberitahu aku tentang kedatangan pesawatnya.	Keiko me informó la llegada de su vuelo.
+ind	spa	Kemarin kami pergi ke kotaku untuk mengambil beberapa foto.	Ayer fuimos a mi pueblo a hacer unas cuantas fotos.
 ind	spa	Kenapa dia berubah pikiran?	¿Por qué cambió de opinión?
 ind	spa	Kita tidak dapat lepas dari masa lalu.	Nunca podemos deshacernos del pasado.
 ind	spa	Kucing tidak makan pisang.	Los gatos no comen plátanos.
@@ -129,10 +144,12 @@ ind	spa	Mengapa kamu tidak mau membersihkan kamarmu?	¿Por qué no quieres limpi
 ind	spa	Mengecas mobil listrik memakan waktu sangat lama.	Cargar el coche eléctrico tarda mucho tiempo.
 ind	spa	Mereka berenang.	Ellas nadaban.
 ind	spa	Mereka melalui pemeriksaan bea dan cukai di Sao Paulo.	Pasaron por la aduana de San Pablo.
+ind	spa	Mereka pergi berbelanja ke Budafal.	Se van de compras a Budafal.
 ind	spa	Mereka tidak membiarkanku masuk karena celana pendekku terlalu pendek.	No me dejaron entrar porque mis pantalones cortos eran demasiado cortos.
 ind	spa	Mobilnya biru.	El auto es azul.
 ind	spa	Nampaknya hujan.	Parece lluvia.
 ind	spa	Orang Cina suka bekerja keras.	Los chinos son grandes trabajadores.
+ind	spa	Orang ini tidak tinggal di sini.	Esta persona no vive aquí.
 ind	spa	Panggil ambulan！	Llama a una ambulancia.
 ind	spa	Para perokok meninggal lebih muda.	Los fumadores mueren más jóvenes.
 ind	spa	Pemikiran dan perasaan akan tergambarkan dari kata-kata.	Los pensamientos y los sentimientos se expresan con palabras.
@@ -155,6 +172,7 @@ ind	spa	Saya orang Jepang, tetapi tidak tinggal di Jepang.	Soy japonés, pero no
 ind	spa	Saya penasaran apanya yang lucu.	Quiero saber lo que es divertido.
 ind	spa	Saya pernah tinggal selama bertahun-tahun pada masa kanak-kanak di Indonesia. Di sana saya mendengar suara Azan pada subuh dan maghrib.	Cuando niño pasé muchos años en Indonesia y oí el adhan al amanecer y al atardecer.
 ind	spa	Saya pikir dia akan berhasil.	Creo que él triunfará.
+ind	spa	Saya seorang pekerja lepas di Jepang.	Soy freelancer en Japón.
 ind	spa	Saya sudah membaca bukunya.	Ya leí su libro.
 ind	spa	Saya suka menulis ratusan kalimat di Tatoeba, namun ada beberapa hal yang harus kulakukan.	Me encantaría escribir cientos de frases en Tatoeba, pero tengo cosas que hacer.
 ind	spa	Saya tahu ada beberapa orang yang bisa melihatnya.	Sé que hay gente que puede verlo.
@@ -188,6 +206,7 @@ zsm_Latn	spa	Apa?	¿Qué?
 zsm_Latn	spa	Apa yang kamu cakapkan ini?	¿De qué hablas?
 zsm_Latn	spa	Api! Lari!	¡Fuego! ¡Corran!
 zsm_Latn	spa	Awak apa khabar, Mike?	¿Cómo estás, Mike?
+zsm_Latn	spa	Awak mahukah gula-gula getah?	¿Te gustaría un poco de chicle?
 zsm_Latn	spa	Awak mesti cuba memecahkan siling kaca.	Hay que intentar romper el techo de cristal.
 zsm_Latn	spa	Awak percaya kepada Tuhan?	¿Crees en un dios?
 zsm_Latn	spa	Bahasa Cina lebih susah dari bahasa asing lain.	El chino es más difícil que otras lenguas extranjeras.
@@ -212,6 +231,7 @@ zsm_Latn	spa	Esok, pada masa ini, saya akan berada di London.	Mañana a esta hor
 zsm_Latn	spa	Kami ingin tinggal di kampung ini dan belajar bahasa Kadazan.	Nos gustaría vivir en esta aldea y estudiar el idioma Kadazan.
 zsm_Latn	spa	Kedua-dua adik-beradik itu telah mati.	Los dos hermanos murieron.
 zsm_Latn	spa	Ketika lampu isyarat menunjukkan warna kuning, kami berhenti.	Cuando el semáforo indica la luz amarilla, nos detenemos.
+zsm_Latn	spa	Ketika sampai di garpu, kami ragu-ragu antara terus menuju ke bandar atau terus menuju ke pergunungan.	Cuando llegamos a la bifurcación, dudamos entre seguir hacia el pueblo o continuar hacia las montañas.
 zsm_Latn	spa	Lambat atau cepat, dia akan tahu tentang rahsia itu.	Tarde o temprano se enterará del secreto.
 zsm_Latn	spa	Mana dia?	¿Dónde está?
 zsm_Latn	spa	Mana dia?	¿Dónde está él?
@@ -226,7 +246,9 @@ zsm_Latn	spa	Saya orang Islam.	Soy musulmana.
 zsm_Latn	spa	Saya sangat gembira.	Estoy muy feliz.
 zsm_Latn	spa	Selepas lima minit, dia muncul daripada dapur.	Cinco minutos después ella apareció desde la cocina.
 zsm_Latn	spa	Selepas selesai kerja saya akan telefon awak.	Cuando termine el trabajo te llamo.
+zsm_Latn	spa	Serangga mula menjadi sebahagian daripada hidangan lazat di pelbagai wilayah di Mexico dan di dunia.	Los insectos comienzan a formar parte de deliciosos platillos en diversas regiones en México y en el mundo.
 zsm_Latn	spa	Setelah seketika, muncul bulan.	Poco después salió la luna.
 zsm_Latn	spa	Siapakah penyanyi kegemaran awak?	¿Cuál es tu cantante favorito?
 zsm_Latn	spa	Tali leher saya ialah oren.	Mi corbata es naranja.
 zsm_Latn	spa	Tiada sesiapa yang membantu saya.	Nadie me prestó ayuda.
+zsm_Latn	spa	Toki Pona mempunyai perbendaharaan kata sebanyak 123 perkataan, berasal daripada beberapa bahasa.	El toki pona tiene un vocabulario de 123 palabras, derivadas de varios idiomas.

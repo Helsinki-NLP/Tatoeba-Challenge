@@ -1,3 +1,5 @@
+nno	pol	Kva kan eg gjere?	Co mogę zrobić?
+nob	pol	Å bo i en hovedstad har sine fordeler fordi man bor nærme alle de nødvendigste og kuleste stedene, men det er mye støy der. Derfor vil jeg heller bo på et lite tettsted eller i en forstad heller enn i bykjernen.	Mieszkanie w stolicy ma swoje zalety, jest blisko di wszystkich potrzebnych i fajnych miejsc, ale jest tam dużo hałasu, więc wolałabym mieszkać w małej prowincji lub na przedmieściach niż w centrum miasta.
 nob	pol	'A' kommer før 'B' i alfabetet.	"A" jest przed "B" w alfabecie.
 nob	pol	'A' kommer før 'B' i alfabetet.	"A" znajduje się przed "B" w alfabecie.
 nob	pol	Alle forteller​ meg at jeg er rar.	Wszyscy mówią mi, że jestem dziwny.
@@ -6,12 +8,15 @@ nob	pol	Alltid åpent.	Zawsze otwarte.
 nob	pol	Alt i orden.	W porządku.
 nob	pol	Begge brødrene er musikere.	Obaj bracia są muzykami.
 nob	pol	Bilen er blå.	Samochód jest niebieski.
+nob	pol	Bilen er fanget på togsporet fordi bommene gikk ned.	Samochód utknął na torach kolejowych po tym jak opadły szlabany.
+nob	pol	Bilen har hengt seg opp på sporvei etter bommene hadde gått ned.	Samochód utknął na torach po opadnięciu szlabanów.
 nob	pol	Bør Skottland være et uavhengig land?	Czy Szkocja powinna być niepodległym krajem?
 nob	pol	"Brann" ropte han.	"Pożar!" krzyknął.
 nob	pol	Byen min er ikke som den pleide å være.	Moje miasto nie jest już tym, czym kiedyś było.
 nob	pol	Da jeg bygde på huset var det bare i dette rommet jeg fikk satt inn lydisolasjon og en lås på innsiden.	Kiedy do mojego domu dodano przybudówkę, założyłem w tym pokoju osłonę dźwiękoszczelną i wewnętrzny zamek.
 nob	pol	Danmarks nest største religiøse gruppe er muslimene, som med 210 000 personer utgjør 3,7 % av befolkningen.	Drugą największą religią w Danii jest islam, którego 210 tys. wyznawców stanowi 3,7% społeczeństwa.
 nob	pol	Dansk, norsk og svensk er språk som har langt flere likhetstrekk enn forskjeller.	Duński, norweski i szwedzki to języki, które mają o wiele więcej podobieństw, niż różnic.
+nob	pol	Da vi kjørte på motorveien var det en bil foran oss i høyre fil som plutselig byttet fil. Vi var en hårsbredd fra å kollidere.	Kiedy jechaliśmy autostradą samochód jadący przed nami na prawym pasie nagle zmienił pas i było o włos od kolizji.
 nob	pol	De møtes en gang i uka.	Oni spotykają się raz w tygodniu.
 nob	pol	Denne amuletten beskytter meg fra å begå språklige feil.	Ten amulet chroni mnie przed popełnieniem błędów językowych.
 nob	pol	Denne brosjyren er gratis.	Ta broszura jest darmowa.
@@ -25,6 +30,7 @@ nob	pol	Der har jeg kjøpt bøker, magasiner og aviser.	Ja tam kupiłem książk
 nob	pol	Der kjøpte jeg bøker, magasiner og aviser.	Ja tam kupiłem książki, czasopisma i gazety.
 nob	pol	De sier at filmen er en interessant en.	Oni mówią, że ten film jest ciekawy.
 nob	pol	De sier at filmen er en interessant en.	Oni mówią, że ten film jest interesujący.
+nob	pol	De skal bygge en ny vei med fortau på begge sider.	Zamierzają zbudować nową drogę z chodnikami po obu stronach jezdni.
 nob	pol	Det beste er å be en ekspert om å reparere den.	Najlepiej jest poprosić eksperta o naprawę tego.
 nob	pol	Det er bare et spill.	To tylko gra.
 nob	pol	Det er bortkastet å la jorden ligge uutvunnet.	Szkoda pozostawiać grunt bez uprawy.
@@ -38,6 +44,7 @@ nob	pol	Det er kaldt.	Jest zimno.
 nob	pol	Det er litt rart for meg.	To jest trochę dziwne dla mnie.
 nob	pol	Det er overraskende hvor mange ulykkelige ekteskap som finnes.	To zaskakujące jak wiele jest nieszczęśliwych małżeństw.
 nob	pol	Det er på tide at du begynner å vaske bordet.	Nadszedł czas na sprzątnięcie ze stołu.
+nob	pol	Det er veiarbeid på veien og rundkjøringen, så vi må ta en omvei.	Remontują tę drogę oraz rondo, więc musimy zmienić trasę i zrobić objazd.
 nob	pol	Det er veldig vanskelig å vite hvilket land en person kommer fra.	Trudno jest powiedzieć, z którego państwa pochodzi osoba.
 nob	pol	Det er virkelig et problem.	To naprawdę kłopot.
 nob	pol	Det er virkelig et problem.	To naprawdę problem.
@@ -59,6 +66,8 @@ nob	pol	Du kan ikke få god karakter uten å jobbe hardt.	Nie możesz otrzymywa�
 nob	pol	Du må ikke parkere bilen i denne gaten.	Nie możesz parkować samochodu na tej ulicy.
 nob	pol	Du må ikke parkere bilen i denne gaten.	Nie możesz zaparkować samochodu na tej ulicy.
 nob	pol	Du må ikke snakke så høyt her.	Nie musisz mówić tu tak głośno.
+nob	pol	Du må ta den venstre gata når du når en veiskille hvis du vil ta en snarvei og bryr deg ikke å gå på sideveiene.	Musisz skręcić w lewo kiedy dotrzesz do skrzyżowania jeśli chcesz jechać skrótem i nie masz nic przeciwko jeździe bocznymi drogami.
+nob	pol	Elever har pugget dikten utenat og lirte den foran sine klassekamerater og lærerinne.	Uczniowie wykuli na pamięć wiersz i wyrecytowali go przed kolegami z klesy i nauczycielką.
 nob	pol	Endelig!	W końcu!
 nob	pol	En venn av meg studerer i utlandet.	Jeden mój przyjaciel studiuje za granicą.
 nob	pol	Er det en direkte forbindelse fra Warszawa til Berlin?	Czy jest połączenie bezpośrednie z Warszawy do Berlina?
@@ -70,6 +79,7 @@ nob	pol	Følg simpelthen ditt hjerte!	Po prostu idź za głosem serca.
 nob	pol	Forstår du hva jeg mener?	Rozumiesz co mam na myśli?
 nob	pol	Forstår du hva jeg mener?	Wiesz co mam na myśli?
 nob	pol	Fortellingen din var ikke veldig skremmende.	Twoje opowiadanie nie było bardzo straszne.
+nob	pol	Fravær påvirker karakterene dine, minsker dem fordi da har du restanser du ikke kan ta igjen.	Nieobecności wpływają na twoje oceny obniżając je ponieważ masz potem zaległości których nie potrafisz nadrobić.
 nob	pol	Guiden vår feilinformerte oss om hotellets beliggenhet.	Nasz przewodnik źle nas poinformowało o lokalizacji hotelu.
 nob	pol	Hallo.	Cześć.
 nob	pol	Han børstet hatten sin.	Wyszczotkował kapelusz.
@@ -88,6 +98,7 @@ nob	pol	Han nektet å ta imot bestikkelsen.	Odmówił przyjęcia łapówki.
 nob	pol	Han sluttet å røyke i fjor.	rzucil palenie w zeszlym roku
 nob	pol	Han svømmer.	On pływa.
 nob	pol	Han trenger hjelpere.	On potrzebuje pomocników.
+nob	pol	Han var full, mistet balansen og havnet i grøfta.	Był pijany, stracił równowagę i wylądował w rowie.
 nob	pol	Har du noen gang vært i Mexico?	Czy byłeś kiedykolwiek w Meksyku?
 nob	pol	Har du noen gang vært i Mexico?	Czy kiedykolwiek byłeś w Meksyku?
 nob	pol	Har du noen spørsmål?	Masz jakieś pytania?
@@ -104,6 +115,7 @@ nob	pol	Hun er alkoholiker.	Jest alkoholiczką.
 nob	pol	Hun går sjelden ut.	Ona rzadko wychodzi z domu.
 nob	pol	Hun har lite kunnskap om fysikk.	Ona ma małą wiedzę z fizyki.
 nob	pol	Hun røyker 20 sigaretter om dagen.	Ona pali 20 papierosów dziennie.
+nob	pol	Hun savner eksen sin.	Ona tęskni za swoim byłym.
 nob	pol	Hun skyter.	Ona strzela.
 nob	pol	Hun sto opp sent.	Ona wstała późno.
 nob	pol	Hun svømmer.	Ona pływa.
@@ -122,6 +134,7 @@ nob	pol	Hvem vil ha varm sjokolade?	Kto chce gorącą czekoladę?
 nob	pol	Hvem ville tatt vare på barna mine om jeg døde?	Kto zaopiekowałby się moimi dziećmi, jeślibym umarł.
 nob	pol	Hver gang jeg prøvde, feilet jeg.	Za każdym razem kiedy próbuję, nie udaje mi się.
 nob	pol	Hvilke filmer går nå?	Jakie filmy są teraz grane?
+nob	pol	Hvilket fag likte dere mest i grunnskole?	Jaki przedmiot lubiłeś najbardziej w szkole podstawowej?
 nob	pol	Hvis du fortsetter å bruke penger på den måten, vil du være blakk før du vet ordet av det.	Jeśli dalej będziesz wydawał pieniądze w ten sposób, będziesz spłukany zanim się obejrzysz.
 nob	pol	Hvordan kommer jeg meg til busstasjonen?	Jak mogę dotrzeć do dworca autobusowego?
 nob	pol	Hvordan ser en vanlig dag ut for deg?	Jak wygląda twój zwyczajny dzień?
@@ -130,6 +143,7 @@ nob	pol	Hvor enn du går, vil du aldri finne et bedre sted enn ditt eget hjem.	G
 nob	pol	Hvor er hanskene?	Gdzie rękawiczki?
 nob	pol	Hvorfor liker du ikke meg?	Dlaczego mnie nie lubisz?
 nob	pol	Hvorfor ringte du meg ikke i går kveld?	Dlaczego do mnie nie zadzwoniłeś wczoraj wieczorem?
+nob	pol	Hvor lenge har han vært i koma?	Jak długo było on w śpiączce?
 nob	pol	Hvor lenge har hun vært syk?	Jak długo była chora?
 nob	pol	Hvor mange epler?	Ile jabłek?
 nob	pol	Hvor mange hester finnes i Sverige?	Ile koni znajduje się w Szwecji?
@@ -158,6 +172,7 @@ nob	pol	Jeg er i et fryktelig dilemma.	Mam straszny dylemat.
 nob	pol	Jeg er ikke ferdig med leksene ennå.	Nie odrobiłem jeszcze lekcji.
 nob	pol	Jeg er ikke god på latin.	Nie jestem dobry w łacinie.
 nob	pol	Jeg er ikke lege.	Nie jestem lekarzem.
+nob	pol	Jeg er i trakten av dette stedet hvor den ulykken skjedde.	Jestem w okolicy gdzie zdarzył się ten wypadek.
 nob	pol	Jeg er lærer også.	Też jestem nauczycielem.
 nob	pol	Jeg gjentok ordet flere ganger for henne.	Powtórzyłam jej kilkakrotnie to słowo.
 nob	pol	Jeg gjør alt du ber meg om.	Robię wszystko o co mnie prosisz.
@@ -178,9 +193,11 @@ nob	pol	Jeg liker måten du går på.	Lubię sposób w jaki chodzisz.
 nob	pol	Jeg liker måten du går på.	Lubię Twój sposób chodzenia.
 nob	pol	Jeg liker språk.	Lubie języki.
 nob	pol	Jeg lovet at det aldri skulle skje igjen.	Obiecałam, że to się nigdy nie powtórzy.
+nob	pol	Jeg må terpe gjennom denne materialen og pugge viktigste informasjonene og datene.	Muszę przebrnąć przez ten materiał i wykuć najważniejsze informacje i daty.
 nob	pol	Jeg òg.	Ja także.
 nob	pol	Jeg ringer deg en annen gang.	Zadzwonię do Ciebie innym razem.
 nob	pol	Jeg spurte ham om hvorfor han er så trist.	Zapytałem go, czemu jest taki smutny.
+nob	pol	Jeg står fast i bilkø i begynnelsen av en tunnel. Køen strekker seg hele veien til neste avkjørsel.	Utknąłem przy wjeździe do tunelu w korku, który ciągnie się aż do wyjazdu.
 nob	pol	Jeg sto opp klokken fem den morgenen.	wstalem o 5 tego ranka
 nob	pol	Jeg synger ikke.	Nie śpiewam.
 nob	pol	Jeg traff henne ved en tilfeldighet.	Spotkałem ją przypadkowo.
@@ -210,6 +227,7 @@ nob	pol	Læreren så over eksamenspapirene.	Nauczyciel spojrzał w dokumenty egz
 nob	pol	Latin er fremtidens språk!	Łacina to język przyszłości.
 nob	pol	Latteren er den beste medisin!	Śmiech jest najlepszym lekarstwem.
 nob	pol	Lenge leve kaos!	Niech żyje chaos!
+nob	pol	Liket av en kvinne ble funnet i går i veikanten ved siden av hovedveien på strekningen mellom skolen og huset ditt.	Ciało martwej kobiety zostało znalezione wczoraj na poboczu obok głównej drogi na odcinku między szkołą a twoim domem.
 nob	pol	Livet er for kort til å lære seg tysk.	Życie jest za krótkie, żeby uczyć się niemieckiego.
 nob	pol	Lommekalkulatorer er like billige å kjøpe som et par sokker, og like viktig for tusener av britiske skolebarn som blyant og viskelær.	Kalkulator jest tani jak para skarpet, i tak samo ważny jak ołówek i gumka dla tysięcy brytyjskich uczniów.
 nob	pol	Magesmertene er borte.	Ból żołądka ustąpił.
@@ -235,8 +253,12 @@ nob	pol	Om bare legen hadde kommet litt fortere.	Gdyby tylko lekarz przyszedł t
 nob	pol	Opptredenen hans var prisverdig.	Wspaniale się zachował.
 nob	pol	Ordboken inneholder cirka en halv million ord.	Słownik zawiera około pół miliona słów.
 nob	pol	Ordboken inneholder cirka en halv million ord.	Słownik zawiera w przybliżeniu pół miliona słów.
+nob	pol	På foreldremøtet rektoren har sagt at de skal belønne elever som har høy antal nærvær.	Na spotkaniu rodzicielskim dyrektor powiedział że będą nagradzali uczniów z wysoką frekwencją.
+nob	pol	På høyskolen hadde jeg flinke professorene som holdte interesante forelesninger.	Na studiach miałem świetnych profesorów którzy prowadzili ciekawe wykłady.
 nob	pol	Passord?	Hasło?
+nob	pol	På ungdomskolen plaide jeg å lese til prøver i friminutter mellom timene.	W gimnazjum na sprawdziany uczyłam się na przerwach między lekcjami.
 nob	pol	Piken er en sykesøster.	Ta dziewczyna jest pielęgniarką.
+nob	pol	Russ er redd for avsluttende eksamener men når de hadde fått sine vitnemål kan de slappe av	Uczniowie kończący szkołę boją się matury ale kiedy dostaną dyplomy będą mogli odpocząć.
 nob	pol	Sakuras måte å snakke på går meg på nervene.	Sposób, w jaki wypowiada się Sakura, denerwuje mnie.
 nob	pol	Sannheten er at jeg elsker deg.	Prawdą jest, że cię kocham.
 nob	pol	Ses vi i morgen?	Zobaczymy się jutro?
@@ -271,6 +293,8 @@ nob	pol	Velbekomme!	Smacznego!
 nob	pol	Vennligst kom når det passer deg.	Wpadnij, kiedy ci będzie pasować.
 nob	pol	Vet du hvor mye dette betyr for meg?	Wiesz, ile to dla mnie znaczy?
 nob	pol	Vi er ment å beskytte Tom.	Mamy chronić Tom'a.
+nob	pol	Vi fikk en ny timeplan og fikk noe nye leksjoner.	Dostaliśmy nowy plan lekcji i doszło nam kilka zajęć.
+nob	pol	Vi hadde ingen hjemlekser eller stil da vi gikk i barnehagen.	Nie mieliśmy żadnych zadań domowych ani wypracowań kiedy chodziliśmy do przedszkola.
 nob	pol	Vi har bananer.	Mamy banany.
 nob	pol	Vi har diskutert denne saken flere ganger.	Omówiliśmy tę kwestię kilkakrotnie.
 nob	pol	Vi har diskutert veldig mange forskjellige saker.	Omówiliśmy wiele różnych spraw.

@@ -64,6 +64,7 @@ epo	nob	Ĉar vi parolas itale, mi skribas al vi en mia bela gepatra lingvo. Fojf
 epo	nob	Ĉe la bordo de la lageto, vi povas konstrui laŭbon, post kio tiu angulo de la ĝardeno estos agrabla ripoziga loko.	På kysten av dammen kan du bygge et lysthus, og deretter denne hjørnet av hagen vil bli koselig sted for rekreasjon.
 epo	nob	Ĉe la rando de la urbo staras buso preta por pluveturigi nin.	Ved utkanten av byen står bussen klar for å kjøre oss videre.
 epo	nob	Ĉe la tablo sidis viro, virino kaj knabino.	En mann, en kvinne, og en jente.
+epo	nob	Ĉe la tablo sidis viro, virino kaj knabino.	Ved bordet satt en mann, en kvinne og en jente.
 epo	nob	Ĉerizoj enhavas duoble tiom da kalorioj kiel framboj.	Kirsebær inneholder dobbelt så mange kalorier som bringebær.
 epo	nob	Certa kvanto da liberaj radikaloj estas kaj grava kaj sendanĝera. Liberaj radikaloj, ekzemple, helpas en la batalo kontraŭ infektoj.	En viss mengde frie radikaler er både viktig og ufarlig. Frie radikaler er for eksempel med på å bekjempe infeksjoner.
 epo	nob	Ĉiam ekzistas argumentoj kaj por kaj kontraŭ io.	Det er alltid argumenter for og mot saker.
@@ -94,6 +95,7 @@ epo	nob	Ĉu mi povas pagi per kredita karto?	Kan jeg betale med kredittkort?
 epo	nob	Ĉu mi povas rigardi vian stirpermesilon?	Kan jeg få se førerkortet ditt?
 epo	nob	Ĉu ni faru tion je plia fojo?	Skal vi gjøre det en gang til?
 epo	nob	Ĉu ni vere devas fari tion?	Må vi virkelig gjøre det?
+epo	nob	Ĉu ŝi estas knabino?	Er hun ei jente?
 epo	nob	Ĉu ŝi ’stas knabino?	Er hun ei jente?
 epo	nob	Ĉu Skotlando estu sendependa lando?	Bør Skottland være et uavhengig land?
 epo	nob	Ĉu tio estas io memkomprenebla por ni?	Er det en selvfølge for oss?
@@ -269,6 +271,7 @@ epo	nob	Kiel vi difinas fidelon?	Hvordan definerer du lojalitet?
 epo	nob	Kiel vi eksciis pri la aresto de via filo?	Hvordan fikk du høre om arrestasjonen av sønnen din?
 epo	nob	Kiel vi venis ĉi tien?	Hvordan er du kommet hit?
 epo	nob	Kio estas la nomo de tiu best-ĝardeno?	Hva heter denne dyreparken?
+epo	nob	Kio estas palindromo?	Hva er et palindrom?
 epo	nob	Kio li volas iĝi?	Hva vil han bli?
 epo	nob	Kiom da pomoj?	Hvor mange epler?
 epo	nob	Kiom da tempo vi pasigas en Vizaĝaro?	Hvor mye tid bruker du på Facebook?
@@ -298,6 +301,7 @@ epo	nob	Kiu lin mortigis viasupoze?	Hvem tror du drepte ham?
 epo	nob	Kiu ne riskas, tiu ne gajnas.	Den som intet våger, intet vinner.
 epo	nob	Kiun mi elektos?	Hvem skal jeg velge?
 epo	nob	Kiu scias, kion kaŝas la fasado?	Hvem vet hva som skjuler seg bak fasaden?
+epo	nob	Klabaster kaj Gizmo estas katoj.	Klabaster og Gizmo er katter.
 epo	nob	Kolororiĉaj, puraj kaj precipe precizaj la trajnoj enveturas en la solidan ĉefan stacidomon en Zuriko.	Fargesprakende, rene og fremfor alt presis, ruller togene inn på den gedigne sentralstasjonen i Zürich.
 epo	nob	Kolumbo volis trovi pli mallongan maran vojon al Hindujo.	Columbus ønsket å finne en kortere sjøvei til India.
 epo	nob	Kompreneble mi ĝojas, sed mi petas vin ne forgesi, ke vi faras ĉion ĉi unuavice por vi mem.	Jeg er naturligvis glad, men ikke glem at du gjør alt dette først og fremst for deg selv.
@@ -423,6 +427,9 @@ epo	nob	La vortoj de Bersani ŝajnas al mi raciaj.	Hva Bersani sier virker fornu
 epo	nob	Legi tekston en la dana estas preskaŭ kiel legi la norvegan, sed la maniero, laŭ kiu la danoj prononcas la vortojn, estas malfacile komprenebla.	Det å lese en tekst på dansk er nesten som å lese norsk, men måten danskene uttaler ordene er vanskelig å forstå.
 epo	nob	Lerni fremdan lingvon postulas multe da pacienco.	Å lære et fremmedspråk krever mye tålmodighet.
 epo	nob	Lernu difini viajn celojn!	Lær hvordan du kan definere dine mål.
+epo	nob	Li aĉetas ĉiujn ĉevalinojn.	Han kjøper alle hestene.
+epo	nob	Li aĉetas ĉiujn ĉevalojn.	Han kjøper alle hestene.
+epo	nob	Li aĉetas ĉiujn geĉevalojn.	Han kjøper alle hestene.
 epo	nob	Lia kapo ne estas sen kerno.	Han er ikke for katten.
 epo	nob	Li ankoraŭ atendas ŝin.	Han venter fortsatt på henne.
 epo	nob	Lia patrino perdis ĉe la laboro kelkajn fingrojn.	Moren hans mistet et par fingre på jobben.
@@ -487,6 +494,7 @@ epo	nob	Malantaŭ la granda skribotablo sidis virino.	Bak det store skrivebordet
 epo	nob	Malriĉeco instruas al vi manĝi panon sen butero.	Fattigdom lærer deg å spise brød uten smør.
 epo	nob	Malvarma kolero kaptis ŝin.	Kaldt raseri grep henne.
 epo	nob	Manĝaĵoj kostas monon.	Mat koster penger.
+epo	nob	Manjo donis drumon al sia filo.	Mary ga sønnen hennes et trommesett.
 epo	nob	Manko de malfermemo estas problemo.	Mangel på åpenhet er et problem.
 epo	nob	Manko de travideblo estas problema.	Mangel på åpenhet er et problem.
 epo	nob	Maria estas interesata de la psikologio de la ĉiutaga vivo.	Maria er interessert i hverdagspsykologien.
@@ -785,11 +793,17 @@ epo	nob	Norvegio surprizis min.	Norge har overrasket meg.
 epo	nob	Nu, kion diri?	Vel, hva kan man si?
 epo	nob	Nun ĉio estas klara.	Nå alt er klart.
 epo	nob	Nun ĉiuj estas pretaj.	Nå er alle ferdige.
+epo	nob	Nun interkisu!	Nå kyss!
+epo	nob	Nun kisiĝu!	Nå kyss!
+epo	nob	Nun kisu!	Nå kyss!
+epo	nob	Nun kisu unu la alian!	Nå kyss!
+epo	nob	Nun kisu vin!	Nå kyss!
 epo	nob	Nun ŝi rilatas al mi kolera kaj ofendita.	Nå er hun sint og sur på meg.
 epo	nob	Nun vi devas retrovi pluvotaŭgajn vestaĵojn.	Nå bør du finne frem regntøyet.
 epo	nob	Nur dum sia tria somero la malgranda pingloarbo ricevas sian unuan kronon el branĉoj.	Først i løpet av sine tredje sommer får den vesle bartrær sin første krans av greiner.
 epo	nob	Ofte okazas al mi, ke io, ŝajne facila por aliaj, estas tro malfacila por mi.	Jeg opplever ofte at det som ser ut til å være er en enkel sak for andre, blir for mye for meg.
 epo	nob	Oni atendis, ke li faros decidon.	Det ble ventet av ham at han skulle ta en bestemmelse.
+epo	nob	Oni devas esti ano.	Man må være medlem.
 epo	nob	Oni diras, ke li mortos neniam.	Folk sier at han aldri dør.
 epo	nob	Oni diris al mi, ke la krimula sindikato de Odeso serĉas kontakton kun ĉitiea krima organizaĵo.	Jeg ble fortalt at forbrytersyndikat i Odessa søker kontakt med en lokal kriminell organisasjon.
 epo	nob	Oni lin dungis kiel ĉefkuraciston.	Han ble ansatt som overlege.
@@ -908,6 +922,7 @@ epo	nob	Sur la montoj neĝo abundas kaj mi kontentas pri tio.	Det er mye snø p�
 epo	nob	Sur la montosupro estis du kasteloj kaj turo.	På toppen var det to borger og et tårn.
 epo	nob	Sur la supro de la monto estis du burgoj kaj unu turo.	På toppen var det to borger og et tårn.
 epo	nob	Telefonu al mi!	Ring meg opp!
+epo	nob	Tenu taglibron!	Før dagbok.
 epo	nob	Terpomoj, precipe post bolado, estas valora manĝaĵo, interalie ĉar ili malpliigas la premon de la sango.	Poteter, spesielt hvis kokt, er en verdifull mat, blant annet fordi de senker blodtrykket.
 epo	nob	Tia projekto kompreneble postulis reviziitan buĝeton.	Et slikt prosjekt har selvsagt fordret et revidert budsjett.
 epo	nob	Tie mi aĉetis librojn, ĵurnalojn kaj gazetojn.	Der kjøpte jeg bøker, magasiner og aviser.
@@ -996,6 +1011,7 @@ epo	nob	Videbliĝas, ke tio estas malfacila afero.	Det viser seg at det er en va
 epo	nob	Vi devas atendi la sekvan buson.	Du må vente på den neste bussen.
 epo	nob	Vi devas atenti, ke vi ne tro streĉu viajn fortojn.	Du må passe på så du ikke overanstrenger deg.
 epo	nob	Vi devas atenti, por ke vi ne estu pli bela ol la fianĉo.	Du må passe på så du ikke blir finere enn brudgommen.
+epo	nob	Vi devas esti ano.	Du må være medlem.
 epo	nob	Vi devas esti ĉe la stacio plej malfrue je la kvina.	Du må være på stasjonen senest klokken fem.
 epo	nob	Vi devas lerni de eraroj.	Dere må lære av feilene deres.
 epo	nob	Vi devas trovi propran ritmon.	Du må finne din egen rytme.

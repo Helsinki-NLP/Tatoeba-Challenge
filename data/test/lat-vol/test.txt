@@ -1,7 +1,11 @@
 lat_Latn	vol_Latn	Aliquis cantavit.	Ek äkaniton.
+lat_Latn	vol_Latn	Amabas me.	Älöfol obi.
+lat_Latn	vol_Latn	Amamus Thoman.	Löfobs Tomasi.
 lat_Latn	vol_Latn	Amant te.	Löfoms oli.
 lat_Latn	vol_Latn	Amicae factae sunt.	Äflenikons.
+lat_Latn	vol_Latn	Amor amorem amare amat.	Löf löfon löfön löfi.
 lat_Latn	vol_Latn	Applaudite, amabo.	Lobülolsös.
+lat_Latn	vol_Latn	Arbores vivunt.	Bims lifons.
 lat_Latn	vol_Latn	Cantabam.	Äkanitob.
 lat_Latn	vol_Latn	Cantābam.	Äkanitob.
 lat_Latn	vol_Latn	Cantavi.	Äkanitob.
@@ -36,13 +40,17 @@ lat_Latn	vol_Latn	Hanc viam nescio.	No sevob vegi at.
 lat_Latn	vol_Latn	Hic puer frater meus est.	Pul at binom blod obik.
 lat_Latn	vol_Latn	Hoc malum viride est.	Pod at binon grünik.
 lat_Latn	vol_Latn	Hoc malum viride est.	Pod at grünon.
+lat_Latn	vol_Latn	In Deum iam non credo.	No plu kredob mö God.
 lat_Latn	vol_Latn	Inimicae sumus.	Binobs neflens.
 lat_Latn	vol_Latn	Inimici sumus.	Binobs neflens.
 lat_Latn	vol_Latn	In magno lecto dormio.	Slipob in bed gretik.
 lat_Latn	vol_Latn	Iudaei veri sunt Iudaei.	Yudans jenöfik binons yudans.
 lat_Latn	vol_Latn	Iudaismus pulcher est.	Yud binon jönik.
+lat_Latn	vol_Latn	Liberate Scotiam!	Libükolsöd Skotäni!
 lat_Latn	vol_Latn	Lingua Arabica Hebraicae similis est.	Larabänapük binon sümik ad Hebreyapük.
 lat_Latn	vol_Latn	Lingua Arabica Hebraicae similis est.	Larabänapük sümon ad Hebreyapük.
+lat_Latn	vol_Latn	Lingua Francogallica pulchra est.	Fransänapük binon pük jönik.
+lat_Latn	vol_Latn	Linguam Esperanticam numquam discam.	Neai ostudob Sperantapüki.
 lat_Latn	vol_Latn	Lupa sum.	Binob jilup.
 lat_Latn	vol_Latn	Lupa sum.	Binob jinepuedan.
 lat_Latn	vol_Latn	Lupa sum.	Binob lup.
@@ -50,6 +58,7 @@ lat_Latn	vol_Latn	Lupus sum.	Binob hilup.
 lat_Latn	vol_Latn	Lupus sum.	Binob lup.
 lat_Latn	vol_Latn	Mariae est canis.	Maria labof dogi.
 lat_Latn	vol_Latn	Me occident.	Odeidons obi.
+lat_Latn	vol_Latn	Mundus aegrotat.	Vol binon malädik.
 lat_Latn	vol_Latn	Mundus villagium est.	Vol binon vilag.
 lat_Latn	vol_Latn	Nemo omnia scit.	Nek nolon valikosi.
 lat_Latn	vol_Latn	Nemo omnia scit.	Nek valikosi nolon.
@@ -63,6 +72,9 @@ lat_Latn	vol_Latn	Occidistine eos?	Ädeidol-li onis?
 lat_Latn	vol_Latn	Ornithorhynchum habemus.	Labobs honedafi.
 lat_Latn	vol_Latn	Osores odient.	Hetans ohetons.
 lat_Latn	vol_Latn	Paene omnes laeti erant.	Ti valikans äbinons fredik.
+lat_Latn	vol_Latn	Politica sum.	Binob bolitan.
+lat_Latn	vol_Latn	Politicus sum.	Binob bolitan.
+lat_Latn	vol_Latn	Potestne alius mundus esse?	Vol difik mögon-li?
 lat_Latn	vol_Latn	Protestatores clamaverunt: "America delenda est!"	Protestans äluvokädons, „Deadami Lamerikäna!“
 lat_Latn	vol_Latn	Pulchra est mea vagina!	Vagin obik binon jönik!
 lat_Latn	vol_Latn	Quattuor liberos habeo.	Labob cilis fol.
@@ -71,11 +83,14 @@ lat_Latn	vol_Latn	Quid est verbum?	Kis binon vöd?
 lat_Latn	vol_Latn	Quid est vocabulum?	Kis binon vöd?
 lat_Latn	vol_Latn	Regina debet mori.	Jireg mutof deadön.
 lat_Latn	vol_Latn	Samius mentitus est.	El Sami älugom.
+lat_Latn	vol_Latn	Servus sum.	Binob slaf.
+lat_Latn	vol_Latn	Simiae sumus omnes.	Obs valik binobs leps.
 lat_Latn	vol_Latn	Suntne laetae?	Binofs-li fredik?
 lat_Latn	vol_Latn	Suntne laeti?	Binoms-li fredik?
 lat_Latn	vol_Latn	Suntne laeti?	Binons-li fredik?
 lat_Latn	vol_Latn	Te amant.	Löfoms oli.
 lat_Latn	vol_Latn	Te occidam.	Odeidob oli.
+lat_Latn	vol_Latn	Thoman interfeci.	Ädeidob eli Tom.
 lat_Latn	vol_Latn	Thomas acetariam Mariae ēdit.	El Tom äfidom saladi ela Mary.
 lat_Latn	vol_Latn	Thōmās cantāvit.	Tomas äkanitom.
 lat_Latn	vol_Latn	Thōmās claudicābat.	Tomas äboatagolom.
@@ -88,6 +103,7 @@ lat_Latn	vol_Latn	Thomas poeta bonus est.	El Tom binom poedan gudik.
 lat_Latn	vol_Latn	Thōmās spuit.	Tomas äspukom.
 lat_Latn	vol_Latn	Tibi nocere non iam potest.	No plu kanof viodön oli.
 lat_Latn	vol_Latn	Tibi nocere non iam potest.	No plu kanom viodön oli.
+lat_Latn	vol_Latn	Tres canes habebam.	Älabob dogis kil.
 lat_Latn	vol_Latn	Universum mysterium est.	Lespad binon müster.
 lat_Latn	vol_Latn	Verba optima habeo.	Labob vödis gudikün.
 lat_Latn	vol_Latn	Verbum quid est?	Kis binon vöd?

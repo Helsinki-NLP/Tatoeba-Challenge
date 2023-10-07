@@ -1,4 +1,6 @@
 fra	slv	A cause de la pluie nous n'avons pas pu finir notre match de tennis.	Pre dážď sme nemohli dokončiť náš tenisový zápas.
+fra	slv	Aide-toi et Dieu t'aidera.	Pomagaj si sam in Bog ti bo pomagal.
+fra	slv	Aide-toi et Dieu t'aidera !	Pomogaj si sam in Bog ti bo pomagal!
 fra	slv	Aimez-vous discuter ?	Radi diskutujete?
 fra	slv	À la semaine prochaine.	Uvidíme sa budúci týždeň.
 fra	slv	Andi écrit une lettre à sa mère chaque semaine.	Andi píše list svojej mame každý týždeň.
@@ -96,6 +98,7 @@ fra	slv	Et maintenant, je suis dans la mouise à cause de toi !	A teraz mám kv�
 fra	slv	Ferme bien la porte à clefs avant d'aller au lit.	Poriadne zavri dvere predtým, ako pôjdeš spať.
 fra	slv	Finalement, il a réalisé son objectif.	Nakoniec uskutočnil svoj cieľ.
 fra	slv	Hé là! Ne me tirez pas si violemment!	Hej! Neťahajte ma tak silno!
+fra	slv	Heureuse nouvelle année !	Srečno novo leto!
 fra	slv	Hier, c'était jeudi.	Včera bol štvrtok.
 fra	slv	Il a changé les meubles de place.	Premiestnil nábytok.
 fra	slv	Il a dédié sa vie à la préservation de l'environnement.	Venoval svoj život ochrane životného prostredia.
@@ -203,6 +206,7 @@ fra	slv	Je ne veux pas traduire cette phrase.	Nočem prevesti te povedi.
 fra	slv	Je ne vois pas comment ça peut bien se terminer.	Nevidím ako to môže skončiť dobre.
 fra	slv	Je parie que tu as raison.	Stavím sa, že máš pravdu.
 fra	slv	Je parle le bas-sorabe.	Hovorím dolnolužickou srbčinou.
+fra	slv	Je parle luxembourgeois, allemand, français et anglais.	Govorim luksemburško, nemško, francosko in angleško.
 fra	slv	Je pense donc je suis.	Mislim, torej sem.
 fra	slv	Je pense que Tom ne parle que français.	Myslím, že Tom hovorí iba po francúzsky.
 fra	slv	Je pense que tu me dois une explication.	Myslím si, že mi dlžíš vysvetlenie.
@@ -241,6 +245,7 @@ fra	slv	Je vais habituellement à l'école à pied.	Običajno grem v šolo peš.
 fra	slv	Je vais prendre un verre de lait avant d'aller au lit.	Dám si pohár mlieka predtým, ako pôjdem do postele.
 fra	slv	Je vais te rendre heureuse.	Spravím ťa šťastnou.
 fra	slv	Je vais voir la police.	Idem na políciu.
+fra	slv	Je veux être comme lui.	Želim biti kot on.
 fra	slv	Je veux me marier avec Martina.	Chcem sa oženiť s Martinou.
 fra	slv	Je veux rejoindre ton groupe.	Rad bi se pridružil tvoji skupini.
 fra	slv	Je veux rester ici.	Chcem tu ostať.
@@ -262,6 +267,7 @@ fra	slv	L'alphabet slovaque se compose de 46 lettres : a, á, ä, b, c, č, d, �
 fra	slv	La pluie frappe contre les fenêtres.	Dážď udiera na okná.
 fra	slv	La police accourut sur les lieux, à l'annonce qu'une bombe à retardement y avait été déposée.	Polícia sa ponáhľala na miesto, kde bola nahlásená časovaná bomba.
 fra	slv	La Pologne est un grand pays.	Poľsko je veľká krajina.
+fra	slv	La reine est morte, vive le roi !	Kraljica je mrtva, naj živi kralj!
 fra	slv	La réponse est « oui ».	Odpoveď je „Áno“.
 fra	slv	La température au Japon est aussi élevée qu'en Chine.	Teplota v Japonsku je rovnako vysoká ako v Číne.
 fra	slv	Laurie est malade.	Laurie je chorá.
@@ -275,18 +281,24 @@ fra	slv	Le chat rentra ses griffes.	Mačka stiahla pazúry.
 fra	slv	Le christianisme et l'islam sont deux religions différentes.	Kresťanstvo a islam sú dve rôzne náboženstvá.
 fra	slv	Le client a-t-il toujours raison ?	Má zákazník vždy pravdu?
 fra	slv	Le comportement de Tom est imprévisible quand il est soûl.	Tomovo správanie je nepredvídateľné, keď je opitý.
+fra	slv	Le feu s'est éteint.	Ogenj je ugasnil.
 fra	slv	Le fromage est un aliment solide fabriqué à partir du lait de vache, de chèvre, de mouton, et d'autres mammifères.	Syr je pevná potravina vyrobená z kravského, kozieho, ovčieho mlieka alebo mlieka iných cicavcov.
+fra	slv	Le gouvernement ment.	Vlada laže.
+fra	slv	Le lait est frais.	Mleko je sveže.
 fra	slv	Le maire va annoncer sous peu sa démission.	Starosta v krátkosti oznámi svoju demisiu.
 fra	slv	Le misanthrope n'aime pas l'être humain.	Mizantrop nemá rád ľudí.
 fra	slv	L'entraînement a été annulé.	Tréning bol zrušený.
+fra	slv	Le pain est frais.	Kruh je svež.
 fra	slv	Le perroquet est mort.	Papagáj je mŕtvy.
 fra	slv	Le saumon pond ses œufs en eau douce.	Losos kladie ikry v sladkej vode.
+fra	slv	Les chouettes sont des animaux nocturnes.	Sovy sú nočné živočíchy.
 fra	slv	Les données du cadastre ont été importées dans la base de données d’OpenStreetMap.	Dáta z katastra boli importované do databázy OpenStreetMap.
 fra	slv	Les enfants de Felicja pensent que leur père Lazarz est plus beau que Justin Bieber.	Felicjine deti si myslia, že ich otec Łazarz je krajší ako Justin Bieber.
 fra	slv	Les faits ne concordent pas avec votre hypothèse.	Fakty nesúhlasia s vašou hypotézou.
 fra	slv	Les filles les plus belles viennent de Lituanie.	Najkrajšie dievčatá sú z Litvy.
 fra	slv	Les gens généreux font de mauvais commerçants.	Štedrí ľudia sú zlí obchodníci.
 fra	slv	Les jumelles se ressemblent telles deux gouttes d'eau.	Dvojičky sa podobajú ako vajce vajcu.
+fra	slv	Le slovène est une belle langue.	Slovenščina je lep jezik.
 fra	slv	Les oiseaux se posèrent sur les branches.	Vtáky si sadli na konáre.
 fra	slv	Les paysans se plaignent toujours du temps.	Farmári sa stále sťažujú na počasie.
 fra	slv	Les sœurs sont toutes les deux très belles.	Obe sestry sú veľmi krásne.
@@ -344,6 +356,8 @@ fra	slv	Nous montons.	Ideme hore.
 fra	slv	Nous ne sommes pas tes esclaves.	Nie sme tvoji otroci.
 fra	slv	Nous sommes taillés dans le même bois.	Sme z rovnakého cesta.
 fra	slv	Nous sommes toujours occupées.	Stále sme zaneprázdnení.
+fra	slv	Œil pour œil et dent pour dent.	Oko za oko in zob za zob.
+fra	slv	Oh, que c'est beau !	Oh, kako lepo!
 fra	slv	On a posé à mon oncle le diagnostic de leucémie.	Môjmu strýkovi diagnostikovali leukémiu.
 fra	slv	On dirait que tu viens de perdre ton meilleur ami.	Vyzeráš, ako keby si práve stratil svojho najlepšieho kamaráta.
 fra	slv	On l'a hospitalisé pour une intervention chirurgicale.	Hospitalizovali sme ho kvôli chirurgickej operácii.
@@ -359,6 +373,13 @@ fra	slv	Où le poste de police se trouve-t-il ?	Kde je policajná stanica?
 fra	slv	Ouvre la bouche !	Otvor ústa!
 fra	slv	Par exemple, si un professeur qui fume lui-même comme une cheminée avertit un étudiant parce qu'il fume, c'est une contradiction.	Napríklad ak učiteľ, ktorý je sám tuhý fajčiar, upozorní študenta, pretože fajčí, je to protirečivé.
 fra	slv	Paris brûle-t-il ?	Horí Paríž?
+fra	slv	Parles-tu letton ?	Govoriš latvijsko?
+fra	slv	Parles-tu thaïlandais ?	Ali govoriš tajsko?
+fra	slv	Parles-tu thaïlandais ?	Govoriš tajsko?
+fra	slv	Parlez-vous birman ?	Govorite burmansko?
+fra	slv	Parlez-vous khmer ?	Govorite kmersko?
+fra	slv	Parlez-vous thaïlandais ?	Ali govorite tajsko?
+fra	slv	Parlez-vous thaïlandais ?	Govorite tajsko?
 fra	slv	Penses-tu que je sois trop matérialiste ?	Myslíš si, že som príliš materialistický?
 fra	slv	Permettez-moi de me présenter.	Dovoľte mi predstaviť sa.
 fra	slv	Personne ne dit quoi que ce soit à ce sujet.	Nikto o tomto nič nehovorí.
@@ -384,6 +405,7 @@ fra	slv	Que feriez-vous si vous disposiez d'une année de libre ?	Čo by ste rob
 fra	slv	Quelle est la définition du jazz ?	Aká je definícia jazzu?
 fra	slv	Que se passe-t-il ?	Čo sa tam deje ?
 fra	slv	Que vendent-ils ?	Čo predávajú?
+fra	slv	Qui dit A, doit dire B.	Kdor reče A, mora reči tudi B.
 fra	slv	Qui rit maintenant?	Kto sa teraz smeje?
 fra	slv	Quoi qu'elle mange, elle ne grossit pas.	Je jedno čo je , nepribera.
 fra	slv	Quoi qu'il arrive, je sortirai quand il ne pleuvra plus.	V každom prípade, pôjdem keď prestane pršať.
@@ -422,6 +444,7 @@ fra	slv	Touche ça !	Chyť toto!
 fra	slv	Tous les humains sur Terre sont issus d'un ancêtre commun.	Vsi ljudje na Zemlji imajo skupnega prednika.
 fra	slv	Toutes sont étrangères.	Všetky sú cudzie.
 fra	slv	Tout le monde est resté calme.	Všetci ostali pokojní.
+fra	slv	Tout ou rien !	Vse ali nič!
 fra	slv	Trois soldats ont été blessés.	Traja vojaci sa zranili.
 fra	slv	Tu es une personne merveilleuse.	Si skvelý človek.
 fra	slv	Tu étais au courant de tout et tu as fait semblant de ne pas comprendre.	Vedel si o všetkom, ale tváril si sa, že nerozumieš.
@@ -431,18 +454,23 @@ fra	slv	Tu n'as pas à travailler aussi dur.	Nemusíš pracovať tak tvrdo.
 fra	slv	Tu ne peux pas gérer ça toute seule.	Nemôžeš to zvládnuť sama.
 fra	slv	Tu n'es pas trop vieux pour apprendre.	Na učenie nikdy nie je neskoro.
 fra	slv	Tu parles bien le français !	Hovoríš dobre po francúzsky!
+fra	slv	Tu parles birman ?	Govoriš burmansko?
+fra	slv	Tu parles khmer ?	Govoriš kmersko?
 fra	slv	Tu peux le faire ! Vas-y. Je serai avec toi.	Dokážeš to! Poď. Budem s tebou.
 fra	slv	Tu te fatigues facilement.	Ľahko sa unavíš.
 fra	slv	Tu veux rester anonyme.	Chceš ostať anonymný.
 fra	slv	Tu viens souvent ici ?	Chodíš sem často?
 fra	slv	Une fois, il se rendit à l'hôtel de ville, mais il dut attendre peut-être deux heures, ce qui excéda la limite de sa patience.	Raz prišiel na radnicu, ale musel čakať možno dve hodiny, čo prekročilo jeho limit trpezlivosti.
 fra	slv	Une jeune fille bizarrement vêtue sortit de la foule. Elle était accompagnée d’une petite chèvre blanche à cornes dorées et portait un tambour de basque à la main.	Mladé, bizarne oblečené dievča vyšlo z davu. Sprevádzala ho malá biela koza so zlatými rohmi a v ruke nieslo tamburínu.
+fra	slv	Une pomme par jour éloigne le médecin.	Jabolko na dan odžene zdravnika stran.
 fra	slv	Un pas que l'on fait vers l'autre peut-être un tour du monde pour le cœur.	Jeden krok, ktorý urobíme k inému človeku, môže byť cesta okolo sveta pre srdce.
 fra	slv	Un récent sondage montre que le nombre de fumeurs diminue.	Nedávny prieskum ukazuje, že počet fajčiarov sa zmenšuje.
 fra	slv	Va me chercher de l'eau !	Zožeň mi vodu!
+fra	slv	Vive la démocratie !	Naj živi demokracija!
 fra	slv	Voici ce que vous êtes supposé faire.	Toto je to, čo máte urobiť.
 fra	slv	Voici l'autobus.	Tu je autobus.
 fra	slv	Voilà une information intéressante.	To je zaujímavá informácia.
 fra	slv	Votre moustache est factice.	Vaše fúzy sú neprirodzené.
+fra	slv	Voulez-vous un café ?	Želite kavo?
 fra	slv	Vous étiez en train de regarder, n'est-ce pas ?	Práve ste sa pozerali, však?
 fra	slv	Vraiment? Mon passe-temps, c'est de lire des bédés.	Naozaj? Môj koníček je čítanie komiksov.

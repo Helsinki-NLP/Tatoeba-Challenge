@@ -4,6 +4,8 @@ fra	ind	À côté de chez moi, il n'y a pas de magasins.	Di dekat rumahku tidak 
 fra	ind	À côté de chez moi, il y a des magasins.	Di dekat rumahku ada beberapa toko.
 fra	ind	À côté de chez moi il y a quelques magasins.	Di dekat rumahku ada beberapa toko.
 fra	ind	À côté de chez moi, il y a un super parc.	Di dekat rumahku ada taman bagus.
+fra	ind	Adam est un médecin très compétent.	Adam adalah dokter yang sangat ahli.
+fra	ind	Adam est un médecin très compétent.	Adam adalah dokter yang sangat kompeten.
 fra	ind	À demain !	Sampai ketemu besok!
 fra	ind	Andi écrit une lettre à sa mère chaque semaine.	Andi menulis surat kepada ibunya setiap minggu.
 fra	ind	À partir de maintenant, prenons notre déjeuner dans la cuisine.	Mulai sekarang, mari kita makan siang di dapur.
@@ -110,6 +112,7 @@ fra	ind	Ce volcan est déjà entré en éruption deux fois cette année.	Gunung 
 fra	ind	Ce volcan est entré en éruption il y a quelques années.	Gunung api itu meletus beberapa tahun yang lalu.
 fra	ind	Chaque fois qu'ils se rencontrent, ils se disputent.	Setiap kali bertemu, mereka bertengkar.
 fra	ind	Chaque partie de l'île a été explorée.	Setiap jengkal pulau telah dijelajahi.
+fra	ind	Chérie, tu vas bien ?	Sayang, kamu tidak apa-apa?
 fra	ind	Chez moi le jardin est petit.	Di rumahku cuma ada halaman kecil.
 fra	ind	Colle un timbre sur l'enveloppe.	Tempelkan sebuah perangko pada amplopnya.
 fra	ind	Combien coûte cette montre-bracelet ?	Berapa harga jam tangan ini?
@@ -156,6 +159,8 @@ fra	ind	Dieu est mauvais.	Tuhan adalah kejahatan
 fra	ind	Dieu n'existe pas.	Tuhan tidak ada.
 fra	ind	Dix personnes sont dans cette pièce.	Ada sepuluh orang di ruangan ini.
 fra	ind	Donne-moi ton argent.	Berikan uangmu.
+fra	ind	Donne-moi un papier et un stylo.	Berikan aku kertas dan pulpen.
+fra	ind	D'où viennent tous ces T-shirts ?	Dari mana datangnya semua kaus ini?
 fra	ind	Du printemps ou de l'automne, quelle est la saison que vous préférez ?	Antara musim semi dan musim gugur, mana yang kamu suka?
 fra	ind	Du printemps ou de l'automne, quelle est votre saison préférée ?	Antara musim semi dan musim gugur, mana yang kamu suka?
 fra	ind	Écoutez-moi !	Dengarkan aku!
@@ -163,9 +168,11 @@ fra	ind	EIle n'avait pas l'intention de te blesser.	Dia tidak bermaksud menyakit
 fra	ind	Elle a oublié d'éteindre la lampe.	Dia lupa mematikan lampu.
 fra	ind	Elle a promis de nous faire savoir.	Dia telah berjanji akan memberi tahu kita.
 fra	ind	Elle arrive souvent en retard.	Dia sering datang terlambat.
+fra	ind	Elle a sa propre maison.	Dia punya rumah sendiri.
 fra	ind	Elle a terminé son travail.	Dia sudah menyelesaikan pekerjaannya.
 fra	ind	Elle désirait se marier immédiatement.	Dia ingin menikah segera.
 fra	ind	Elle déteste les fêtes.	Dia benci pesta.
+fra	ind	Elle dort dans la voiture.	Dia tidur di dalam mobil.
 fra	ind	Elle envoyait de temps à autre une lettre à sa mère.	Ia sesekali mengirim sepucuk surat kepada ibundanya.
 fra	ind	Elle envoyait de temps en temps une lettre à sa mère.	Ia sesekali mengirim sepucuk surat kepada ibundanya.
 fra	ind	Elle essaya de dormir à même le sol.	Dia mencoba tidur di lantai.
@@ -222,6 +229,7 @@ fra	ind	Est-ce que tu l'as ressenti ?	Apa kamu merasakannya?
 fra	ind	Est-ce que tu sais bien skier ?	Apa kamu bisa berski dengan baik?
 fra	ind	Est-ce que tu sais utiliser cette machine?	Apakah kamu tahu cara menggunakan mesin ini?
 fra	ind	Est-ce que tu veux courir le risque ?	Apa kamu mau mengambil risiko?
+fra	ind	Est-il Hongrois ?	Dia orang Hungaria?
 fra	ind	Es-tu conscient de ce que tu as fait ?	Apa kamu sadar akan apa yang kamu perbuat?
 fra	ind	Es-tu déjà allé au Japon ?	Apakah kamu pernah ke Jepang?
 fra	ind	Es-tu fou ?	Apakah kamu gila ?
@@ -240,6 +248,7 @@ fra	ind	Grâce aux avions, on peut aller n'importe où dans le monde en 2, 3 jou
 fra	ind	Hier j'ai reçu sa lettre.	Kemaren saya menerima suratnya.
 fra	ind	Hier je reçus votre lettre.	Kemaren saya menerima surat Anda.
 fra	ind	Ici et là.	Di sana-sini.
+fra	ind	Il accepte mon cadeau.	Dia menerima kadoku.
 fra	ind	Il a été le premier homme avec qui j'ai eu un entretien d'embauche.	Dia pria pertama yang saya wawancarai untuk pekerjaan.
 fra	ind	Il a été percuté par une voiture et est mort sur place.	Dia tertabrak mobil dan tewas di tempat.
 fra	ind	Il a été trouvé étendu inconscient sur le sol de la cuisine.	Dia ditemukan terbaring tidak sadar di lantai dapur.
@@ -256,6 +265,7 @@ fra	ind	Il a un vif désir de travailler comme interprète.	Dia memiliki keingin
 fra	ind	Il a un vif désir de travailler comme traducteur.	Dia memiliki keinginan yang kuat untuk bekerja sebagai seorang penerjemah.
 fra	ind	Il déteste les fêtes.	Dia benci pesta.
 fra	ind	Il doit acheter une voiture d'occasion.	Dia harus membeli sebuah mobil bekas.
+fra	ind	Il dort dans la voiture.	Dia tidur di dalam mobil.
 fra	ind	Il écrit une lettre à sa mère.	Dia menulis surat untuk ibunya.
 fra	ind	Il envoyait de temps à autre une lettre à sa mère.	Ia sesekali mengirim sepucuk surat kepada ibundanya.
 fra	ind	Il envoyait de temps en temps une lettre à sa mère.	Ia sesekali mengirim sepucuk surat kepada ibundanya.
@@ -273,6 +283,7 @@ fra	ind	Il est toujours ici entre 5 et 6.	Dia selalu di sini antara pukul 5 dan 
 fra	ind	Il est très intelligent.	Dia sangat pintar.
 fra	ind	Il est trop fatigué pour travailler.	Dia terlalu lelah untuk bekerja.
 fra	ind	Il fait semblant de dormir.	Dia pura-pura tidur.
+fra	ind	Il faut que je cherche ce mot dans le dictionnaire.	Aku harus mencari kata itu di kamus.
 fra	ind	Il le mit de côté pour pouvoir l'utiliser plus tard.	Dia menyimpannya agar bisa digunakan nanti.
 fra	ind	Il lit vingt livres chaque semaine.	Dia membaca sebanyak dua puluh buku setiap minggu.
 fra	ind	Il lui donna quelque chose à boire.	Dia memberikannya sesuatu untuk diminum.
@@ -318,6 +329,7 @@ fra	ind	Il t'attendra.	Dia akan menunggu kamu.
 fra	ind	Il travaille dans une usine.	Dia bekerja di sebuah pabrik.
 fra	ind	Il traversa la rue.	Dia menyeberang jalan.
 fra	ind	Il va rarement à l'église.	Dia jarang pergi ke gereja.
+fra	ind	Il vit normalement.	Dia hidup dengan normal.
 fra	ind	Il y a aujourd'hui quelques nuages de plus qu'hier.	Hari ini lebih berawan dari kemarin.
 fra	ind	Il y a beaucoup de lignes aériennes dans cet aéroport.	Banyak maskapai penerbangan di bandar udara ini.
 fra	ind	Il y a beaucoup de meubles dans cette pièce.	Ada banyak perabotan di ruangan ini.
@@ -336,11 +348,13 @@ fra	ind	Impossible !	Tidak mungkin!
 fra	ind	Inscris ici ton adresse.	Tulis alamatmu di sini.
 fra	ind	J'accepte votre offre.	Saya menerima tawaran Anda.
 fra	ind	Jacques est l'un de mes amis.	Jack adalah salah satu temanku.
+fra	ind	J'ai ajouté 3333 phrases russes au corpus de Tatoeba.	Aku telah menambahkan 3.333 kalimat berbahasa Rusia ke korpus Tatoeba.
 fra	ind	J'ai arrêté la cigarette.	Saya berhenti merokok.
 fra	ind	J'ai besoin d'un médicament pour atténuer la douleur.	Saya perlu obat untuk mengurangi rasa sakit.
 fra	ind	J'ai besoin d'un nouveau vélo.	Saya butuh sebuah sepeda baru.
 fra	ind	J'ai déjà attendu pendant deux heures. Je ne peux pas attendre plus longtemps.	Saya sudah menunggu selama dua jam. Saya tidak bisa menunggu lebih lama lagi.
 fra	ind	J'ai déjà vu cette fille avant.	Aku pernah melihat gadis itu sebelumnya.
+fra	ind	J'ai dû travailler dur quand j'étais jeune.	Aku terpaksa harus bekerja keras saat masih muda.
 fra	ind	J'ai entendu que le patron de Tom a refusé de lui accorder une augmentation de salaire.	Aku dengar bos Tom menolak memberinya kenaikan gaji.
 fra	ind	J'ai entendu quelque chose tomber par terre.	Aku dengar sesuatu jatuh ke tanah.
 fra	ind	J'ai entendu qu'étudier le matin était plus efficace. Étudier une heure le matin est aussi bien que d'étudier trois heures le soir.	Saya dengar bahwa belajar di pagi hari lebih efektif. Belajar satu jam di pagi hari sama baiknya dengan belajar tiga jam di malam hari.
@@ -382,6 +396,7 @@ fra	ind	Je le fais chaque dimanche matin.	Saya melakukannya setiap Minggu pagi.
 fra	ind	Je le fais parce que je ne suis pas toi.	Aku melakukannya karena aku bukan kamu.
 fra	ind	Je lirai le journal après avoir mangé.	Saya akan membaca koran setelah makan.
 fra	ind	Je lui ai montré ma chambre.	Aku menunjukkan kamarku padanya.
+fra	ind	Je mange souvent des bananes.	Aku sering makan pisang.
 fra	ind	Je me lave les mains.	Saya mencuci tangan.
 fra	ind	Je me lèverai plus tôt demain.	Aku akan bangun lebih awal besok.
 fra	ind	Je me sens très fatigué.	Aku merasa sangat lelah.
@@ -395,9 +410,12 @@ fra	ind	Je n'ai jamais dit cela.	Aku tidak pernah berkata itu.
 fra	ind	Je n'ai jamais dit cela.	Aku tidak pernah mengatakan itu.
 fra	ind	Je n'ai jamais dit cela.	Saya tidak pernah berkata itu.
 fra	ind	Je n'ai jamais dit cela.	Saya tidak pernah mengatakan itu.
+fra	ind	Je n'aime pas ce film.	Aku tidak suka film ini.
+fra	ind	Je n'aime pas manger des tomates.	Aku tidak suka makan tomat.
 fra	ind	Je n'ai pas confiance en toi.	Aku tidak mempercayaimu.
 fra	ind	Je n'ai pas confiance en toi.	Aku tidak percaya padamu.
 fra	ind	Je n'ai pas de temps à perdre.	Tidak ada waktu yang bisa disia-siakan.
+fra	ind	Je n'ai pas encore perdu espoir.	Aku belum kehilangan harapan.
 fra	ind	Je n'ai pas touché ta guitare.	Aku tidak menyentuh gitarmu.
 fra	ind	Je n'ai plus d'argent.	Uang saya habis.
 fra	ind	Je n'ai plus de lave-linge.	Saya tidak punya mesin cuci lagi.
@@ -468,12 +486,14 @@ fra	ind	Je suis déçu qu'il ne soit pas là.	Saya mengecewakan karena dia (laki
 fra	ind	Je suis devenu avocat pour aider les gens.	Aku menjadi seorang pengacara untuk membantu orang-orang.
 fra	ind	Je suis différent de Tom.	Kamu berbeda dengan Tom.
 fra	ind	Je suis en train de l'attendre.	Aku sedang menunggunya.
+fra	ind	Je suis en train de lire un roman.	Aku sedang membaca novel.
 fra	ind	Je suis en train d'étudier l'anglais maintenant.	Saya sedang belajar Bahasa Inggris sekarang.
 fra	ind	Je suis heureuse de vous revoir.	Senang bisa bertemu dengan Anda kembali.
 fra	ind	Je suis heureux de pouvoir travailler avec vous.	Saya senang bisa bekerja dengan Anda.
 fra	ind	Je suis heureux de vous revoir.	Senang bisa bertemu dengan Anda kembali.
 fra	ind	Je suis honoré de faire votre rencontre.	Saya merasa terhormat bisa berjumpa dengan anda.
 fra	ind	Je suis le seul à ne pas être tombé dans le piège.	Saya satu-satunya yang tidak masuk dalam jebakan.
+fra	ind	Je suis prêt à lui pardonner.	Aku siap memaafkannya.
 fra	ind	Je suis prêt.	Saya siap.
 fra	ind	Je suis ravi de vous rencontrer.	Senang bertemu denganmu.
 fra	ind	Je suis Ricardo.	Saya Ricardo.
@@ -482,8 +502,10 @@ fra	ind	Je suis sûre que tu réussiras.	Saya yakin kamu akan berhasil.
 fra	ind	Je suis sûr que tu réussiras.	Saya yakin kamu akan berhasil.
 fra	ind	Je suis très fatiguée.	Saya sangat lelah.
 fra	ind	Je suis très fatigué.	Saya sangat lelah.
+fra	ind	Je suis un robot.	Aku adalah sebuah robot.
 fra	ind	Je suis un vendeur.	Saya seorang pedagang.
 fra	ind	Je suis venu trois fois cette semaine.	Saya datang tiga kali minggu ini.
+fra	ind	Je suppose que c'est pour impressionner les gens.	Aku rasa itu untuk memukau orang-orang.
 fra	ind	Je t'aime !	Aku cinta kamu!
 fra	ind	Je t'aime.	Aku cinta kamu!
 fra	ind	Je t'aime aussi.	Aku cinta kamu juga
@@ -497,6 +519,7 @@ fra	ind	Je vais te manger, petit.	Aku akan memakan kamu anak kecil.
 fra	ind	Je vais te manger, petite.	Aku akan memakan kamu anak kecil.
 fra	ind	Je veux m'assurer de la véracité de cette histoire.	Saya mau mengecek kebenaran cerita itu.
 fra	ind	Je veux mourir avec Getter Jaani.	Aku ingin mati bersama Getter Jaani.
+fra	ind	Je veux qu'il meure.	Aku ingin dia mati.
 fra	ind	Je veux seulement savoir ce qui s'est réellement passé.	Aku hanya ingin mengetahui apa yang sebenarnya terjadi.
 fra	ind	Je viens de finir de lire ce livre.	Saya baru selesai membaca buku itu.
 fra	ind	Je voudrais avoir une tasse de café.	Aku ingin minum kopi.
@@ -507,12 +530,14 @@ fra	ind	Je voudrais que vous reconsidériez votre décision.	Saya ingin Anda mem
 fra	ind	Je voudrais savoir si cela est vrai.	Aku ingin tahu apakah itu benar.
 fra	ind	J'habite ici depuis longtemps.	Saya tinggal di sini sejak lama.
 fra	ind	Jim a de larges épaules.	Jim memiliki pundak yang lebar.
+fra	ind	J'irai en ville.	Aku akan pergi ke kota.
 fra	ind	La boisson est présentée dans une coque de noix de coco.	Minumannya disajikan dalam tempurung kelapa.
 fra	ind	La Chine est un pays qui produit beaucoup de poteries.	Tiongkok adalah negara penghasil tembikar yang produktif.
 fra	ind	La collecte des déchets s'effectue trois fois par semaine.	Pengambilan sampah dilakukan tiga kali sepekan.
 fra	ind	La croissance de cet enfant est normale pour son âge.	Pertumbuhan bayi ini normal untuk seumurannya.
 fra	ind	La dernière fois, j'ai croisé Tom devant la gare.	Waktu lalu saya bertemu Tom di depan stasiun.
 fra	ind	La douane demandera un reçu.	Bea dan Cukai akan meminta bukti pembayaran.
+fra	ind	La fille a des cheveux noirs et des yeux bleus.	Anak perempuan itu berambut hitam dan bermata biru.
 fra	ind	Laisse-moi essayer !	Biarkan saya mencoba!
 fra	ind	Laissez-moi finir.	Biarkan saya selesaikan.
 fra	ind	La ligne du Tokaido s'arrête à Tokyo.	Jalur Tokaido berhenti di Tokyo
@@ -529,6 +554,7 @@ fra	ind	La Poste de ce pays n'est pas rapide.	Pelayanan surat di negara itu tida
 fra	ind	Laquelle est la mienne ?	Yang mana punyaku?
 fra	ind	La rue qui mène à l'hôtel est étroite.	Jalan yang menuju arah hotel itu sempit.
 fra	ind	L'as-tu entendu ?	Apa kamu mendengarnya?
+fra	ind	La température de l'eau était trop basse.	Suhu airnya terlalu rendah.
 fra	ind	La température minimale s'est élevée aujourd'hui à 3°C.	Suhu terendah hari ini adalah 3 °C.
 fra	ind	L'Australie est plus petite que l'Amérique du Sud.	Australia lebih kecil daripada Amerika Selatan.
 fra	ind	La vie en prison est pire que la vie d'un animal.	Hidup di penjara lebih buruk dibanding hidupnya seekor binatang.
@@ -611,6 +637,7 @@ fra	ind	Marie est une fille avec qui il est agréable de parler.	Mary adalah gad
 fra	ind	Mary a semé du blé dans son champ.	Mary menabur gandum di ladangnya.
 fra	ind	Mary n'est pas ma petite amie.	Mary itu bukan pacarku.
 fra	ind	Merci de votre aide.	Terima kasih untuk pertolongan Anda.
+fra	ind	Moi aussi, je le pense.	Aku juga berpikir begitu.
 fra	ind	Mon fils est entré au lycée.	Putraku telah masuk sekolah menengah.
 fra	ind	Mon lacet s'est coincé dans l'escalator.	Tali sepatuku tersangkut di eskalator.
 fra	ind	Mon livre ne doit pas être touché par des mains sales.	Bukuku tidak boleh dipegang tangan yang kotor.
@@ -630,6 +657,7 @@ fra	ind	Ne lis pas dans cette chambre.	Jangan membaca di kamar ini.
 fra	ind	Ne me regarde pas comme ça.	Jangan melihatku seperti itu!
 fra	ind	Ne me remercie pas, remercie Tom !	Jangan berterimakasih kepada saya, berterimakasihlah kepada Tom!
 fra	ind	Ne me traite pas avec condescendance.	Jangan merendahkanku.
+fra	ind	Ne pars pas. Reste ici avec moi.	Jangan pergi. Tinggallah di sini bersamaku.
 fra	ind	Ne prononce pas son nom.	Jangan sebut namanya.
 fra	ind	Notre pays est riche en produits de la mer.	Negara kita kaya akan hasil laut.
 fra	ind	N'oublie pas de prendre un vêtement imperméable.	Jangan lupa membawa jas hujan.
@@ -686,6 +714,7 @@ fra	ind	Pourquoi as-tu besoin de ce cure-dents ?	Mengapa kamu membutuhkan tusuk 
 fra	ind	Pourquoi a-t-il si peur?	Kenapa dia begitu khawatir ya?
 fra	ind	Pourquoi demandes-tu ?	Mengapa kamu bertanya?
 fra	ind	Pourquoi détestes-tu autant Tom ?	Kenapa kamu begitu benci sama Tom?
+fra	ind	Pourquoi devrais-je vous écouter ?	Mengapa saya harus mendengarkan Anda?
 fra	ind	Pourquoi dois-je attendre ?	Mengapa saya harus menunggu?
 fra	ind	Pourquoi est-ce que tu détestes tant Tom ?	Kenapa kamu begitu benci sama Tom?
 fra	ind	Pourquoi est-ce un secret ?	Mengapa ini rahasia?
@@ -764,6 +793,7 @@ fra	ind	Sais-tu comment fonctionne cette machine?	Apakah kamu tahu cara mengguna
 fra	ind	Sais-tu pourquoi Tom n'a pas assisté à la réunion cet après-midi ?	Apa kamu tahu kenapa Tom tidak hadir pada rapat tadi siang?
 fra	ind	Sais-tu utiliser cette machine?	Apakah kamu tahu cara menggunakan mesin ini?
 fra	ind	Salut, qu'est-ce qu'on va faire demain ?	Hei, apa yang akan kita lakukan besok?
+fra	ind	Sa maison est propre.	Rumahnya bersih.
 fra	ind	Sa mort soudaine nous a vraiment surpris.	Kematiannya yang mendadak benar-benar mengejutkan kami.
 fra	ind	Sans un bon dictionnaire, tu ne peux rien faire.	Kamu tak akan bisa menyelesaikan tanpa kamus yang bagus.
 fra	ind	Santé !	Bersulang!
@@ -776,6 +806,7 @@ fra	ind	Seule ma mère me comprend.	Hanya ibuku yang mengerti aku.
 fra	ind	Seule une femme peut être candidate.	Hanya wanita yang diperbolehkan sebagai pelamar.
 fra	ind	Si c'est possible, je reviendrai demain.	Kalau memungkinkan, saya akan kembali besok.
 fra	ind	Si j'étais un animal, quel animal pourrais-je bien être ?	Kalau aku hewan, menurutmu aku hewan apa?
+fra	ind	« Si la traduction est correcte, pourquoi ne l'aimez-vous pas ? » « Parce qu'elle a été faite par une machine. »	"Jika terjemahannya benar, mengapa Anda tidak menyukainya?" "Karena itu dibuat oleh mesin."
 fra	ind	S'il fait beau, j'irai au parc.	Kalau cuacanya bagus, aku akan pergi ke taman.
 fra	ind	Si tu veux venir chez moi, appelle d'abord s'il te plaît.	Kalau mau datang ke rumahku tolong telepon dulu.
 fra	ind	Si vous prenez l'avion c'est plus cher !	Kalau naik pesawat lebih mahal lho!
@@ -795,6 +826,7 @@ fra	ind	Tes chaussures sont ici.	Sepatumu ada di sini.
 fra	ind	Tes mots ont provoqué sa colère.	Kata-kataku memicu kemarahannya.
 fra	ind	Tes parents approuvent-ils que tu deviennes hôtesse de l'air?	Apakah orang tuamu setuju kamu menjadi pramugari?
 fra	ind	Toast !	Bersulang!
+fra	ind	Tom a acquis la citoyenneté japonaise.	Tom memperoleh kewarganegaraan Jepang.
 fra	ind	Tom a fait une belle prise.	Tom menangkap yang besar.
 fra	ind	Tom a grandi dans un petit village de pêcheurs.	Tom dibesarkan di sebuah desa nelayan kecil.
 fra	ind	Tom a le crâne fracturé.	Tempurung kepala Tom retak.
@@ -838,6 +870,7 @@ fra	ind	Tom veut encore un morceau de pastèque.	Tom mau sepotong semangka lagi.
 fra	ind	Tom veut un autre morceau de pastèque.	Tom mau sepotong semangka lagi.
 fra	ind	Tom veut une autre tranche de pastèque.	Tom mau sepotong semangka lagi.
 fra	ind	Ton discours était loin d'être satisfaisant.	Pidatomu jauh dari memuaskan.
+fra	ind	Ton fils n'est pas utile.	Anakmu tidak berguna.
 fra	ind	Tous les dictionnaires comportent des erreurs.	Semua kamus mengandung kesalahan.
 fra	ind	Tous les livres qui sont sur la table ne m'appartiennent pas.	Tidak semua buku yang di atas meja miliki saya.
 fra	ind	Tout à l'heure il y a eu un problème à l'école.	Tadi ada masalah di sekolah.
@@ -863,6 +896,7 @@ fra	ind	Tu ne m'as jamais dit ça.	Kamu tidak pernah menyebutkan hal itu padaku.
 fra	ind	Tu n'en auras pas besoin.	Kamu tidak akan memerlukan itu.
 fra	ind	Tu ne peux pas monter à cheval.	Kamu tidak bisa menunggang kuda.
 fra	ind	Tu n'es pas encore prêt.	Kamu belum siap.
+fra	ind	Tu n'es pas ma femme.	Kamu bukan istriku.
 fra	ind	Tu n'es plus un enfant.	Kamu bukan lagi seorang anak kecil.
 fra	ind	Tu peux aller où bon te semble.	Kamu boleh pergi ke mana pun yang kamu suka.
 fra	ind	Tu peux aller où ça te chante.	Kamu boleh pergi ke mana pun yang kamu suka.
@@ -871,8 +905,10 @@ fra	ind	Tu peux deviner ce qui s'est passé.	Kamu bisa menebak apa yang terjadi.
 fra	ind	Tu peux fumer dans cette pièce.	Kamu boleh merokok di ruangan ini.
 fra	ind	Tu peux le joindre en appelant à ce numéro.	Kamu dapat menghubunginya dengan menelpon nomor ini.
 fra	ind	Tu peux lui demander de l'aide.	Kamu bisa meminta bantuan darinya.
+fra	ind	Tu peux regarder si tu ne veux pas participer.	Kamu boleh melihat jika kamu tidak ingin ikut.
 fra	ind	Tu seras en sécurité ici.	Kamu akan aman di sini
 fra	ind	Tu te sentiras mieux après une bonne nuit de sommeil.	Kamu akan merasa lebih baik setelah tidur malam.
+fra	ind	Tu vas prendre le livre que je t'ai conseillé ou non ?	Kamu akan mengambil buku yang kuberitahukan padamu atau tidak?
 fra	ind	Un amour sincère est un amour sans contrainte.	Cinta yang tulus adalah cinta yang tanpa paksaan.
 fra	ind	Un chauffeur dormait dans la voiture.	Seorang sopir tidur didalam mobil.
 fra	ind	Une petite chose peut produire de grands effets.	Sesuatu yang kecil dapat menyebabkan hal yang besar.
@@ -889,7 +925,9 @@ fra	ind	Veux-tu y aller ?	Kamu ingin pergi?
 fra	ind	Vite !	Cepat!
 fra	ind	Voici votre monnaie.	Ini kembalian Anda.
 fra	ind	Votre anglais s'améliore.	Bahasa Inggris Anda meningkatkan.
+fra	ind	Votre femme est dans votre bureau.	Istri Anda ada di kantor Anda.
 fra	ind	Voulez-vous manger ici ?	Apakah Anda mau makan di sini ?
+fra	ind	Vous avez dit trois ?	Apakah kalian bilang "tiga"?
 fra	ind	Vous cherchez quelque chose ?	Anda mencari sesuatu?
 fra	ind	Vous désirez ?	Anda mencari sesuatu?
 fra	ind	Vous devez l'aider.	Anda harus membantunya.
@@ -928,6 +966,7 @@ fra	zsm_Latn	Elle ne fume pas.	Dia tidak merokok.
 fra	zsm_Latn	Elle s'est réveillée.	Dia telah bangun daripada ketiduran.
 fra	zsm_Latn	Elle transporte toujours la Sainte Bible avec elle.	Dia sentiasa membawa kitab Bible bersamanya.
 fra	zsm_Latn	Entre mille huit cent vingt et mille neuf cent soixante-treize les États-Unis ont accueillis plus de quarante six millions d'immigrants.	Antara 1820 dan 1973, Amerika Syarikat telah menerima lebih daripada 46 juta pendatang.
+fra	zsm_Latn	Fais ce que je dis mais pas ce que je fais.	Lakukan seperti yang saya katakan tetapi bukan seperti yang saya lakukan.
 fra	zsm_Latn	Il a l'habitude de laisser la porte ouverte.	Dia ada tabiat membiarkan pintu terbuka.
 fra	zsm_Latn	Il a parlé au président.	Dia telah bercakap dengan presiden.
 fra	zsm_Latn	Il a porté six boîtes à la fois.	Dia mengangkat enam kotak sekaligus.
@@ -947,6 +986,17 @@ fra	zsm_Latn	J'ai besoin d'aide.	Saya perlukan bantuan.
 fra	zsm_Latn	Jamais elle ne me l'a dit.	Dia tidak pernah menyebutkan hal itu kepada saya.
 fra	zsm_Latn	J'aurai seize ans en septembre.	Saya akan jadi enam belas tahun September ini.
 fra	zsm_Latn	Je descendrai à la gare RER Sungai Buloh.	Saya akan turun di Komuter Sungai Buloh.
+fra	zsm_Latn	Je lui achèterai des nèfles.	Saya akan membelikannya medlar.
+fra	zsm_Latn	Je lui achèterai un balai.	Saya akan belikan dia penyapu.
+fra	zsm_Latn	Je lui achèterai un ballon de volley-ball.	Saya akan membelikan dia bola tampar.
+fra	zsm_Latn	Je lui achèterai une blouse.	Saya akan belikan dia blaus.
+fra	zsm_Latn	Je lui achèterai une camionnette.	Saya akan belikan dia sebuah van.
+fra	zsm_Latn	Je lui achèterai une cruche.	Saya akan membelikan dia sebuah jag.
+fra	zsm_Latn	Je lui achèterai une télévision.	Saya akan membelikan dia televisyen.
+fra	zsm_Latn	Je lui achèterai une trousse.	Saya akan membelikan dia kotak pensel.
+fra	zsm_Latn	Je lui achèterai une valise.	Saya akan belikan dia beg pakaian.
+fra	zsm_Latn	Je lui achèterai un marteau.	Saya akan membelikan dia tukul.
+fra	zsm_Latn	Je lui achèterai un poussin.	Saya akan membelikan dia seekor anak ayam.
 fra	zsm_Latn	Je mange du pain.	Saya makan roti.
 fra	zsm_Latn	Je m'appuyais contre le mur.	Saya tersandar di dinding.
 fra	zsm_Latn	Je ne suis plus végétarien.	Saya bukan lagi seorang vegetarian.
@@ -971,6 +1021,8 @@ fra	zsm_Latn	La vie est très courte.	Hidup ini sungguh pendek.
 fra	zsm_Latn	La ville était enveloppée par le brouillard.	Bandar itu telah diselubungi kabus.
 fra	zsm_Latn	Le pain est fait à partir de la farine.	Roti dibuat daripada tepung.
 fra	zsm_Latn	Le papier est confectionné à partir de bois.	Kertas dibuat daripada kayu.
+fra	zsm_Latn	Les enfants adorent creuser dans le sable.	Kanak-kanak suka menggali di dalam pasir.
+fra	zsm_Latn	Les retardataires sont passibles de sanctions.	Pelawat yang lewat akan dikenakan penalti.
 fra	zsm_Latn	Lorsque j'ai ouvert la porte, je l'ai trouvé endormi.	Ketika saya membuka pintu, saya mendapatinya sedang tidur.
 fra	zsm_Latn	Mais en utilisant des hélicoptères anti-feu, on est déjà parvenu à limiter en grande partie les incendies.	Tetapi dengan menggunakan helikopter pemadam kebakaran, kami telah berjaya mengatasi kebakaran.
 fra	zsm_Latn	Ma sœur se lave les cheveux tous les matins.	Kakak saya membasuh rambut setiap pagi.
@@ -979,6 +1031,7 @@ fra	zsm_Latn	Mon père arrose les fleurs.	Ayah saya menyiram bunga-bunga itu.
 fra	zsm_Latn	Nager dans cette rivière en juillet est dangereux.	Berenang di sungai ini pada Julai adalah berbahaya.
 fra	zsm_Latn	Nancy est allÃ©e Ã  Londres de mÃªme qu'Ã  Paris.	Nancy telah pergi ke London, begitu juga ke Paris.
 fra	zsm_Latn	Ne dis pas du mal des autres.	Jangan bercakap yang buruk tentang orang lain.
+fra	zsm_Latn	Ne faites jamais confiance à un homme ou une femme politique.	Jangan sesekali mempercayai ahli politik.
 fra	zsm_Latn	Ne laisse pas cette chaise se couvrir de rosée dehors.	Janganlah dibiarkan kerusi itu berembun di luar rumah.
 fra	zsm_Latn	Nous avons beaucoup aimé la pluie de la nuit passée dans le parc.	Kami menikmati hujan semalam di taman.
 fra	zsm_Latn	Nous sucrons notre thé.	Kami menggulakan teh kami.

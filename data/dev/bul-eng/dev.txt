@@ -688,6 +688,7 @@ bul	eng	Винаги си ме мразела.	You've always hated me.
 bul	eng	Винаги сте били малко странни.	You were always a little strange.
 bul	eng	Винаги съм имал проблеми с черния дроб.	I have a history of liver trouble.
 bul	eng	Винаги съм искал да уча френски.	I've always wanted to study French.
+bul	eng	Винаги съм мислил, че е във Франция.	I've always thought it was in France.
 bul	eng	Винаги съм се чудел дали ще се върнеш.	I always wondered whether you'd come back.
 bul	eng	Винаги трябва да проверявам двора си за локви от застояла вода, така че комарите да не се размножават.	I always have to check my yard for stagnant pools of water so mosquitoes don't breed there.
 bul	eng	Винаги ще те обичам.	I will love you always.
@@ -749,6 +750,7 @@ bul	eng	Внимавайте с багажа ми.	Be careful with my luggage.
 bul	eng	Внимание!	Attention!
 bul	eng	Вносът надхвърли износа през миналата година.	Imports exceeded exports last year.
 bul	eng	В някаква степен приемам това, което казваш.	I accept what you say to some extent.
+bul	eng	Водата е необходима за живота ни.	Water is essential to our life.
 bul	eng	Водата е спряла.	There's no running water.
 bul	eng	Водиш ли си дневник?	Do you keep a diary?
 bul	eng	Военната служба е задължителна в Турция.	Compulsory military service exists in Turkey.
@@ -818,6 +820,7 @@ bul	eng	Всички сме съгласни, че трябва да тръгн�
 bul	eng	Всички сте откачили.	You're all crazy.
 bul	eng	Всичките Ви неща са тук.	Your things are all here.
 bul	eng	Всичките им говеда са тлъсти.	Their cattle are all fat.
+bul	eng	Всичките ми пари бяха откраднати.	All my money got stolen.
 bul	eng	Всичките ми приятели и семейството ми са мъртви.	All my friends and family are dead.
 bul	eng	Всичките ни срещи се провеждат на френски.	All of our meetings are in French.
 bul	eng	Всичките предвиждания на Том се сбъднаха.	All of Tom's predictions came true.
@@ -959,6 +962,7 @@ bul	eng	Главата ми мина.	My headache has gone.
 bul	eng	Главата ти не е кошче за боклук.	Your head is not a trash bin.
 bul	eng	Гладен съм!	I'm hungry!
 bul	eng	Гладен съм.	I'm hungry.
+bul	eng	Гласувах да останем.	I voted "remain".
 bul	eng	Гласът ѝ все още отеква в ушите ми.	Her voice still rings in my ears.
 bul	eng	Гледай да не настинеш.	Take care not to catch a cold.
 bul	eng	Гледай да не натиснеш грешното копче.	Don't push the wrong button.
@@ -974,7 +978,9 @@ bul	eng	Гледа ли мача?	Did you watch the game?
 bul	eng	Гледал съм всичките Ви филми.	I've seen all your movies.
 bul	eng	Гледам телевизия два пъти седмично.	I watch television twice a week.
 bul	eng	Гледан отдалече, камъкът напомня клечаща човешка фигура.	Seen at a distance, the rock looks like a squatting human figure.
+bul	eng	Гледате ли новините?	Do you watch the news?
 bul	eng	Гледахме филм.	We watched a movie.
+bul	eng	Гледаш ли новините?	Do you watch the news?
 bul	eng	Гледаш ли телевизия?	Do you watch television?
 bul	eng	Глупости!	Nonsense!
 bul	eng	Глутница вълци нападна пътешественика.	A pack of wolves attacked the traveler.
@@ -1180,6 +1186,7 @@ bul	eng	Денят е ясен.	It's a clear day.
 bul	eng	Десет хиляди йени стигат ли?	Is ten thousand yen enough?
 bul	eng	Детайлите не ме притесняват.	I'm not concerned with the details.
 bul	eng	Детето вярва, че земята е плоска.	The child believes that the earth is flat.
+bul	eng	Детето има ръкавици и шал.	The child has gloves and a scarf.
 bul	eng	Деца, ние ядем.	Children, we're eating.
 bul	eng	Деца, ние ядем.	Kids, we're eating.
 bul	eng	Децата ви знаят ли френски?	Do your children know French?
@@ -1282,8 +1289,8 @@ bul	eng	Дори когато беше много заета, тя пак идв
 bul	eng	Дори не си го и помисляй.	Don't give it a thought.
 bul	eng	Доскоро.	I'll see you later.
 bul	eng	До скоро.	See you.
-bul	eng	Доскоро!	See you later!
 bul	eng	До скоро.	See you later.
+bul	eng	Доскоро!	See you later!
 bul	eng	Доста добре се получи.	That worked pretty well.
 bul	eng	Доста добре сработи.	That worked pretty well.
 bul	eng	Доста ме бива в приготвянето на спагети.	I'm pretty good at cooking spaghetti.
@@ -1383,6 +1390,8 @@ bul	eng	Ето ти питието, Том.	Here's your drink, Tom.
 bul	eng	Ето я твоята чанта.	Here is your bag.
 bul	eng	Жаден съм.	I am thirsty.
 bul	eng	Жадна съм.	I'm thirsty.
+bul	eng	Жалко е, че не можа да дойде.	It's a pity he couldn't come.
+bul	eng	Жалко, че не можа да дойде.	It's a pity he couldn't come.
 bul	eng	Жалко, че не разбирам френски по-добре.	It's a pity that I don't understand French better.
 bul	eng	Жал ми е за Том.	I just feel sorry for Tom.
 bul	eng	Желязното е полезен метал.	Iron is a useful metal.
@@ -1393,6 +1402,7 @@ bul	eng	Жена му е от Калифорния.	His wife comes from Californ
 bul	eng	Жена на средна възраст с раница на гърба изглежда търсеше място да седне.	A middle-aged woman with a knapsack on her back seemed to be looking for a place to sit down.
 bul	eng	Жената, която вдигна телефона, говореше на френски.	The woman who answered the phone spoke French.
 bul	eng	Жената на Том току-що почина.	Tom's wife just died.
+bul	eng	Жената носи черна рокля.	The woman is wearing a black dress.
 bul	eng	Жената яде хляб.	The woman is eating bread.
 bul	eng	Жена ти блондинка или брюнетка е?	Is your wife a blonde or a brunette?
 bul	eng	Жесток сте.	You're cruel.
@@ -1401,6 +1411,7 @@ bul	eng	Живи ли са?	Are they alive?
 bul	eng	Живи ли сте?	Are you alive?
 bul	eng	Животните бяха уплашени от шума на фойерверките.	These animals were startled by the noise of the fireworks.
 bul	eng	Животът е несправедлив.	Life is not fair.
+bul	eng	Животът ми имаше своите възходи и падения.	My life has had its ups and downs.
 bul	eng	Животът на пеперудата е кратък.	The life span of a butterfly is short.
 bul	eng	Забавлявайте се.	Have fun.
 bul	eng	Забавно е да се играе на карти.	It's fun to play cards.
@@ -1533,6 +1544,7 @@ bul	eng	Защо винаги си толкова зла?	Why are you always so 
 bul	eng	Защо винаги сте толкова зли?	Why are you always so evil?
 bul	eng	Защо вярваш на Том?	Why do you believe Tom?
 bul	eng	Защо да се тревожи човек за Том?	Why worry about Tom?
+bul	eng	Защо джудото е най-добрият избор за вашето дете?	Why is judo the best choice for your child?
 bul	eng	Защо дойде по-рано?	Why did you come early?
 bul	eng	Защо дойде толкова рано?	Why did you come this early?
 bul	eng	"Защо залепваш този чийзбургер с тиксо на стената?" "Това е форма на изкуството."	"Why are you duct-taping that cheeseburger to the wall?" "It's a form of art."
@@ -1877,6 +1889,7 @@ bul	eng	Имам разни неща за вършене.	I have some things to 
 bul	eng	Имам само няколко английски книги.	I have few English books.
 bul	eng	Имам среща с него по обед.	I have an appointment with him at noon.
 bul	eng	Имам тежък зъбобол.	I have a bad toothache.
+bul	eng	Имам техники.	I have techniques.
 bul	eng	Имам толкова книги, колкото и той.	I have as many books as he.
 bul	eng	Имам три деца.	I have three children.
 bul	eng	Имам три компютъра.	I have three computers.
@@ -1939,6 +1952,7 @@ bul	eng	И от двете страни на пътя има стари стен
 bul	eng	И преди си ми го казвал.	You've told me that before.
 bul	eng	И преди си ми го казвала.	You've told me that before.
 bul	eng	И представа си нямам.	I haven't got a clue.
+bul	eng	Ирландец ли си?	Are you Irish?
 bul	eng	Искам да гледам това, което дават по телевизията в момента.	I want to watch what's on TV right now.
 bul	eng	Искам да говоря на френски.	I want to speak in French.
 bul	eng	Искам да говоря френски гладко.	I want to be fluent in French.
@@ -2029,6 +2043,7 @@ bul	eng	Историята ѝ не може да е лъжа.	Her story cannot b
 bul	eng	Историята ѝ се оказа вярна.	Her story turned out to be true.
 bul	eng	Историята му беше забавна на всички.	His story amused everyone.
 bul	eng	Историята ти ми допадна.	I liked your story.
+bul	eng	Исус не беше християнин.	Jesus wasn't a Christian.
 bul	eng	И ти, и аз сме мъже.	Both you and I are men.
 bul	eng	И Том, и Мери живеят в Бостън.	Tom and Mary both live in Boston.
 bul	eng	И Том, и Мери крещяха.	Both Tom and Mary were screaming.
@@ -2438,6 +2453,8 @@ bul	eng	Колко плати за роклята?	How much did you pay for the 
 bul	eng	Колко пъти го повторих това.	I've said this many times.
 bul	eng	Колко си висок!	How tall you are!
 bul	eng	Колко стаи имате?	How many rooms do you have?
+bul	eng	Колко струва един килограм ориз?	How much does a kilo of rice cost?
+bul	eng	Колко струва едно кило ориз?	How much does a kilo of rice cost?
 bul	eng	Колкото и да беше внимателен, той допусна неочаквана грешка.	Careful as he was, he made an unexpected mistake.
 bul	eng	Колкото повече работи човек, толкова повече му се работи.	The more one works, the more willing one is to work.
 bul	eng	Колкото повече учиш, толкова повече научаваш.	The more you study the more you learn.
@@ -2682,6 +2699,7 @@ bul	eng	Мечтаеш ли за мен?	Do you dream about me?
 bul	eng	Мечтата ѝ е да посети Париж.	Her dream is to visit Paris.
 bul	eng	Мечтата ми е да стана учител.	My dream is to become a teacher.
 bul	eng	Мик нарече бебето Ричард.	Mick named the baby Richard.
+bul	eng	Мили има сини очи.	Millie's got blue eyes.
 bul	eng	Минавам покрай тази църква всеки ден.	I go by that church every day.
 bul	eng	Мина една седмица оттогава.	It's been a week.
 bul	eng	Миналата година се пенсионирах.	I retired last year.
@@ -3369,6 +3387,7 @@ bul	eng	Най-накрая дойде и моят ред.	At last, my turn came
 bul	eng	Най-накрая училището свърши.	School is finally over.
 bul	eng	На Йода граматиката научил ти си.	Yoda's grammar learned you have.
 bul	eng	Най после, петък е.	Finally, it's Friday.
+bul	eng	На кого е този въпрос?	Whose question is this?
 bul	eng	На кой етаж живееш?	Which floor do you live on?
 bul	eng	На кой плаж обичаш да ходиш?	Which beach do you like to go to?
 bul	eng	На колко години бяха децата ви, когато се преместихте в Бостън?	How old were your kids when you moved to Boston?
@@ -3460,6 +3479,7 @@ bul	eng	Научих, че са ти предложили работата.	I he
 bul	eng	Начинанието на правителството налага високи разходи.	The undertaking entailed great expense upon the government.
 bul	eng	Нашата истинска националност е човешката.	Our true nationality is mankind.
 bul	eng	Нашата къща е и твоя къща.	Our house is your house.
+bul	eng	Нашата планета е красива.	Our planet is beautiful.
 bul	eng	Нашият боклук се събира три пъти в седмицата.	Our garbage is collected three times a week.
 bul	eng	Нашият екип е готов.	Our team is ready.
 bul	eng	На ягодите сега им е сезонът.	Strawberries are in season now.
@@ -3628,6 +3648,7 @@ bul	eng	Не искам да ви задържам.	Don't let me keep you.
 bul	eng	Не искам да ви притискам.	I don't want to pressure you.
 bul	eng	Не искам да говоря за детето си.	I don't want to talk about my child.
 bul	eng	Не искам да казвам на приятелката си.	I don't want to tell my girlfriend.
+bul	eng	Не искам да ме виждат с нея.	I don't want to be seen with her.
 bul	eng	Не искам да мислиш повече за това.	I don't want you to think about it anymore.
 bul	eng	Не искам да пораствам.	I don't want to grow up.
 bul	eng	Не искам да се замесвам в този бизнес.	I don't want to get involved in that business.
@@ -3729,6 +3750,7 @@ bul	eng	Не мога да го понасям.	I can't stand him.
 bul	eng	Не мога да живея без вас.	I can't live without you.
 bul	eng	Не мога да живея без теб.	I can't live without you.
 bul	eng	Не мога да живея такъв живот.	I can't live that kind of life.
+bul	eng	Не мога да играя тази игра.	I can't play this game.
 bul	eng	Не мога да кажа обратното.	I can't say the opposite.
 bul	eng	Не мога да направя нищо за Том.	I can't do anything for Tom.
 bul	eng	Не мога да отговоря на този въпрос.	I can't answer this question.
@@ -3989,6 +4011,7 @@ bul	eng	Не ти ли е забавно?	Aren't you enjoying yourself?
 bul	eng	Не ти ли е любопитно?	Aren't you curious?
 bul	eng	Не ти ли е студено?	Aren't you cold?
 bul	eng	Не ти липсва самочувствие.	You've got some brass.
+bul	eng	Не, това не е моята кола.	No, this isn't my car.
 bul	eng	Не Том започна враждата.	Tom didn't start the brawl.
 bul	eng	Не тръгвам, докато не тръгне Том.	I'm not going unless Tom goes.
 bul	eng	Не трябва да влизате.	You must not come in.
@@ -4606,6 +4629,7 @@ bul	eng	Питам се коя ли е тя.	I wonder who she is.
 bul	eng	Питър е честен човек.	Peter is a truthful man.
 bul	eng	Питър обича Джейн.	Peter loves Jane.
 bul	eng	Пих чая на закуска с питка нан.	I had nan with tea for breakfast.
+bul	eng	Пиша, а после чета.	I write and then I read.
 bul	eng	Пишеш ли на френски?	Do you write in French?
 bul	eng	Пиян си.	You're drunk.
 bul	eng	Планетата ли имаш предвид, или бога?	Do you mean the planet or the god?
@@ -4840,6 +4864,7 @@ bul	eng	Престана да пие и да пуши.	He renounced smoking and 
 bul	eng	Престанете!	Cut it out!
 bul	eng	Престани!	Cut it out!
 bul	eng	Престани да се заяждаш с Том.	Stop picking on Tom.
+bul	eng	Преструва се, че знае всичко.	He pretends he knows everything.
 bul	eng	Пречиш.	You're in the way.
 bul	eng	Прибери се.	Go inside.
 bul	eng	Прибира се вкъщи в пет и половина.	He comes home at five-thirty.
@@ -5024,6 +5049,7 @@ bul	eng	Ранен ли си?	Are you injured?
 bul	eng	Ранен ли сте?	Are you injured?
 bul	eng	Рано или късно късметът му ще свърши.	Sooner or later his luck will run out.
 bul	eng	Рано или късно късметът ще му изневери.	He'll run out of luck sooner or later.
+bul	eng	Рано или късно тя ще се върне.	Sooner or later, she'll be back.
 bul	eng	Регистрирана ли сте?	Are you registered?
 bul	eng	Регистрирани ли сте?	Are you registered?
 bul	eng	Регистриран ли сте?	Are you registered?
@@ -6072,6 +6098,7 @@ bul	eng	Той излезе въпреки бурята.	He went out in spite of
 bul	eng	Той изпадна в отчаяние след инцидента.	He lapsed into despair after that accident.
 bul	eng	Той изпи една чаша кафе.	He drank a cup of coffee.
 bul	eng	Той използва парите добре.	He made good use of the money.
+bul	eng	Той използваше гевгира да изцеди спагетите.	He used the strainer to strain out the spaghetti.
 bul	eng	Той изпуснал последния влак.	He missed the last train.
 bul	eng	Той изхвърли банана.	He threw the banana away.
 bul	eng	Той има добър апетит.	He has a good appetite.
@@ -6268,6 +6295,7 @@ bul	eng	Той стреля по мен.	He shot at me.
 bul	eng	Той събираше информация	He collected bits of information.
 bul	eng	Той създаде училището преди пет години.	He founded the school five years ago.
 bul	eng	Той със сигурност ще победи.	He'll win for sure.
+bul	eng	Той също е зает.	He's also busy.
 bul	eng	Той току-що изпусна влака.	He just missed the train.
 bul	eng	Той тръгна преди десет минути.	He left ten minutes ago.
 bul	eng	Той трябваше да дойде.	He was supposed to come.
@@ -6979,6 +7007,7 @@ bul	eng	Трябва да науча френски.	I have to learn French.
 bul	eng	Трябва да науча френски.	I must learn French.
 bul	eng	Трябва да науча френски.	I need to learn French.
 bul	eng	Трябва да носиш дебели чорапи, за да са ти топли краката.	You need to wear thick socks to keep your feet warm.
+bul	eng	Трябва да носиш каска.	You have to wear a helmet.
 bul	eng	Трябва да нося тази вратовръзка по-често. Днес ми направиха доста комплименти.	I ought to wear this tie more often. I've gotten a lot of compliments today.
 bul	eng	Трябва да обмисля всички варианти.	I have to consider every possibility.
 bul	eng	Трябва да обсъдя нещо лично с Том.	I have something personal to discuss with Tom.
@@ -7184,6 +7213,7 @@ bul	eng	Тялото му беше покрито с кафява козина.	
 bul	eng	Тя любезно ме поздрави.	She greeted me politely.
 bul	eng	Тя ме помисли за доктор.	She thought that I was a doctor.
 bul	eng	Тя ме смъмри, че съм мързелив.	She reproached me for being lazy.
+bul	eng	Тя ме ухапа.	She bit me.
 bul	eng	Тя ми го прошепна в ухото.	She whispered it in my ear.
 bul	eng	Тя ми даде да ям много.	She gave me plenty to eat.
 bul	eng	Тя ми даде някои добри съвети.	She gave me some good advice.
@@ -7245,6 +7275,7 @@ bul	eng	Тя промени графика си да съвпада с него�
 bul	eng	Тя разбира се е права.	Certainly she is correct.
 bul	eng	Тя реши да вземе синя рокля.	She decided on a blue dress.
 bul	eng	Тя реши да се откаже.	She decided to resign.
+bul	eng	Тя реши да се премести в Белгия.	She decided to move to Belgium.
 bul	eng	Тя рядко излиза, освен по работа.	She scarcely goes out except on business.
 bul	eng	Тя сама му помогна, понеже никой друг не искаше.	She herself helped him because no one else would.
 bul	eng	Тя сама си написа домашното.	She herself did the homework.
@@ -7287,6 +7318,7 @@ bul	eng	Тяхната работа е кълцам зеленчуци.	Their jo
 bul	eng	Тя ходи на аеробика веднъж седмично.	She goes to aerobics once a week.
 bul	eng	Тя ще прави купон довечера.	She is giving a party tonight.
 bul	eng	Тя ще се върне до един час.	She will return within an hour.
+bul	eng	Тя ще се върне рано или късно.	She will come back sooner or later.
 bul	eng	Тя ще съжалява.	She's going to regret this.
 bul	eng	Тя ще съжалява за това.	She's going to regret this.
 bul	eng	Убедих Том да каже истината.	I persuaded Tom to tell the truth.
@@ -7434,6 +7466,7 @@ bul	eng	Харесва ли ти Япония?	How do you like Japan?
 bul	eng	Харесва ми вашата градина.	I like your garden.
 bul	eng	Харесва ми да говоря на френски.	I like speaking in French.
 bul	eng	Харесва ми тази пола, може ли да я пробвам?	I like this skirt. May I try it on?
+bul	eng	Харесвам тези ябълки.	I like these apples.
 bul	eng	Хванах го да ми оправи колата.	I got him to repair my car.
 bul	eng	Хвани топката.	Catch the ball.
 bul	eng	Хедър ми вярва.	Heather believes me.
@@ -7513,6 +7546,7 @@ bul	eng	Чета кратки разкази.	I am reading short stories.
 bul	eng	Четенето е много полезно.	Reading is of great benefit.
 bul	eng	Чие е това палто?	Whose coat is this?
 bul	eng	Чии са тези книги?	Whose books are these?
+bul	eng	Чий въпрос е това?	Whose question is this?
 bul	eng	Чий ред е?	Whose turn is it?
 bul	eng	Чий ред е?	Whose turn is it next?
 bul	eng	Чиста загуба на време е да учиш, когато ти се спи.	It's a waste of time to study when you're sleepy.
@@ -7691,6 +7725,7 @@ bul	eng	Ще отида да проверя.	I'll go and check.
 bul	eng	Ще отида сам.	I'll go by myself.
 bul	eng	Ще посетим чичо си другата неделя.	We are going to visit our uncle next Sunday.
 bul	eng	Ще посетя господин Браун утре.	I'll visit Mr. Brown tomorrow.
+bul	eng	Ще последвам съвета му.	I'll follow his advice.
 bul	eng	Ще послушам съвета ти.	I'll follow your advice.
 bul	eng	Ще почакам до обяд.	I'll wait till noon.
 bul	eng	Ще приема всяка работа, която ми предложиш.	I'll take any job you can offer me.

@@ -39,6 +39,7 @@ eng	bos_Latn	He is poor but is too proud to ask for help.	On je siromašan ali p
 eng	bos_Latn	He lives in England.	On živi u Engleskoj.
 eng	bos_Latn	Help!	Upomoć!
 eng	bos_Latn	He made amends for his mistakes.	On je iskupio za svoje greške.
+eng	bos_Latn	He put a pebble on the paper.	Stavio je šljunak na papir.
 eng	bos_Latn	He's not a scientist, but he is our friend.	On nije naučnik, ali on jeste naš prijatelj.
 eng	bos_Latn	He wants to work in a hospital.	On želi raditi u bolnici.
 eng	bos_Latn	He works in a big city hospital.	On radi u velike gradske bolnice.
@@ -67,6 +68,7 @@ eng	bos_Latn	I don't speak English.	Ne govorim engleski.
 eng	bos_Latn	I don't want to go to school.	Ne želim ići u školu.
 eng	bos_Latn	I don't want to work under these conditions.	Ne želim raditi pod ovim uvjetima.
 eng	bos_Latn	I drink milk.	Pijem mlijeko.
+eng	bos_Latn	I drink water when I'm thirsty.	Pijem vodu kad sam žedan.
 eng	bos_Latn	If you come to Rio, don't forget to call me to be your guide!	Ako dodjes u Rio, ne zaboravi me nazvati da ti budem vodic!
 eng	bos_Latn	I got a new girlfriend; you didn't know?	Imam novu djevojku; zar nisi znala?
 eng	bos_Latn	I got a new girlfriend; you didn't know?	Imam novu djevojku; zar nisi znao?
@@ -119,6 +121,7 @@ eng	bos_Latn	It is a table.	Ono je sto.
 eng	bos_Latn	It is hers, is it not?	Njena je, zar ne?
 eng	bos_Latn	It is hers, is it not?	Njen je, zar ne?
 eng	bos_Latn	It is hers, is it not?	Njeno je, zar ne?
+eng	bos_Latn	It needs a stone.	Potreban je kamen.
 eng	bos_Latn	I told Tom that you were in Australia.	Rekao sam Tomu da si u Australiji.
 eng	bos_Latn	It's his, isn't it?	Njegovo je, zar ne?
 eng	bos_Latn	It's incredible.	Nevjerovatno je.
@@ -164,6 +167,7 @@ eng	bos_Latn	My telephone number is 9876-5432.	Moj broj telefona je 9876-5432.
 eng	bos_Latn	Naoko lives in the white house.	Naoko živi u bijeloj kući.
 eng	bos_Latn	Our galaxy is called the Milky Way.	Naša galaksija se zove Mliječni put.
 eng	bos_Latn	People have short memories.	Ljudi imaju kratko pamćenje.
+eng	bos_Latn	Pineapple juice, please.	Sok od ananasa, molim.
 eng	bos_Latn	Really?	Stvarno?
 eng	bos_Latn	She also loves books.	Ona također voli knjige.
 eng	bos_Latn	She does not speak English.	Ona ne govori engleski.
@@ -277,6 +281,9 @@ eng	bos_Latn	What's your name?	Kako se zovete?
 eng	bos_Latn	What would Tom think?	Šta bi Tom mislio?
 eng	bos_Latn	What would Tom think?	Šta bi Tom pomislio?
 eng	bos_Latn	Where are our umbrellas?	Gdje su naši kišobrani?
+eng	bos_Latn	Where did you buy this pineapple juice?	Gdje si kupila ovaj sok od ananasa?
+eng	bos_Latn	Where did you buy this pineapple juice?	Gdje si kupio ovaj sok od ananasa?
+eng	bos_Latn	Where did you buy this pineapple juice?	Gdje ste kupili ovaj sok od ananasa?
 eng	bos_Latn	Where is Laurie?	Gdje je Laurie?
 eng	bos_Latn	Where is the dog?	Gdje je pas?
 eng	bos_Latn	Who are you?	Ko si ti?
@@ -449,6 +456,8 @@ eng	hrv	Do you speak French?	Govoriš li francuski?
 eng	hrv	Do you think he did it?	Misliš li da je to napravio?
 eng	hrv	Do you think she did it?	Misliš li da je to napravila?
 eng	hrv	Do you think that I'm a dictator?	Misliš li da ja sam diktator?
+eng	hrv	Do you watch the news?	Gledaš li vijesti?
+eng	hrv	Do you watch the news?	Gledate li vijesti?
 eng	hrv	Easy come, easy go.	Kako došlo, tako prošlo.
 eng	hrv	Eating broccoli is healthy.	Jedenje brokule je zdravo.
 eng	hrv	Eat whatever you like.	Jedite što hoćete.
@@ -543,6 +552,7 @@ eng	hrv	He disappeared without a trace.	On je nestao bez traga.
 eng	hrv	He doesn't know French at all.	On uopće ne zna francuski.
 eng	hrv	He doesn't live in my neighborhood.	On ne živi u mom susjedstvu.
 eng	hrv	He doesn't smoke and he doesn't drink vodka.	On ne puši i ne pije votku.
+eng	hrv	He drives well.	On dobro vozi.
 eng	hrv	He gets a good salary.	On dobro zarađuje.
 eng	hrv	He goes running every morning.	On trči svako jutro.
 eng	hrv	He hadn't eaten all day long and was very hungry.	Nije bio jeo cijeli dan i bio je gladan.
@@ -658,6 +668,7 @@ eng	hrv	I am not at all pleased with the condition.	Nimalo nisam zadovoljan stan
 eng	hrv	I am so busy that I can't help you.	Tako sam zauzet da ti ne mogu pomoći.
 eng	hrv	I am so tired that I can't study.	Tako sam umoran da ne mogu učiti.
 eng	hrv	I am so tired that I can't walk another step.	Umoran sam toliko da ne mogu više ni korak.
+eng	hrv	I am taking Russian classes.	Uzimam satove ruskog jezika.
 eng	hrv	I am thinking of going abroad.	Mislim otići u inozemstvo.
 eng	hrv	I am thirsty.	Žedna sam.
 eng	hrv	I am too late, right?	Zakasnio sam, zar ne?
@@ -779,6 +790,9 @@ eng	hrv	I know who killed them.	Znam tko ga je ubio.
 eng	hrv	I know your name.	Znam tvoje ime.
 eng	hrv	I know.	Znam.
 eng	hrv	I laughed.	Smijao sam se.
+eng	hrv	I learned French.	Naučila sam francuski.
+eng	hrv	I learned French.	Naučio sam francuski.
+eng	hrv	I learned German.	Naučio sam njemački.
 eng	hrv	I left my credit card at home.	Ostavio sam svoju kreditnu karticu u kući.
 eng	hrv	I like bread.	Kruh mi se sviđa.
 eng	hrv	I like herbal tea.	Bitkisel çayı severim.
@@ -964,6 +978,7 @@ eng	hrv	I've lost everything.	Izgubio sam sve.
 eng	hrv	I've never had any complaints.	Nikada nisam imala pritužbi.
 eng	hrv	I've never seen her before in my life.	Nikad je prije nisam vidio.
 eng	hrv	I've returned today.	Vratila sam se danas.
+eng	hrv	I voted "remain".	Glasao sam za ostanak.
 eng	hrv	I want a new bike.	Hoću novi bicikl.
 eng	hrv	I want a sword like this!	Želim mač kao ovaj!
 eng	hrv	I wanted to do it.	Htio sam to napraviti.
@@ -989,6 +1004,7 @@ eng	hrv	I was hardly prepared.	Nisam baš bio spreman.
 eng	hrv	I was kidding before.	Šalio sam se prije.
 eng	hrv	I was nine years old when I asked my mother whether Father Christmas really existed.	Imao sam devet godina kad sam pitao mamu da li djed Božićnjak zaista postoji.
 eng	hrv	I was sick and had to stay indoors.	Bio sam bolestan i morao sam ostati u kući
+eng	hrv	I wear socks.	Nosim čarape.
 eng	hrv	I went to church this morning.	Jutros sam išao u crkvu.
 eng	hrv	I went to the hospital.	Otišao sam u bolnicu.
 eng	hrv	I will give you the money tomorrow.	Dat ću ti novac sutra.
@@ -1058,6 +1074,7 @@ eng	hrv	Mayonnaise is made from eggs.	Majoneza se pravi od jaja.
 eng	hrv	Mayuko avoided doing hard work.	Mayuko je izbjegavala težak posao.
 eng	hrv	Measure thrice, cut once.	Triput meri, jednom seci.
 eng	hrv	Merry Christmas!	Sretan Božić!
+eng	hrv	Millie's got blue eyes.	Millie ima plave oči.
 eng	hrv	Mom, I'm hungry.	Mama, gladan sam.
 eng	hrv	Mom is washing the dog because he's dirty.	Mama kupa psa, jer je prljav.
 eng	hrv	Money talks.	Novac govori.
@@ -1111,6 +1128,7 @@ eng	hrv	Only vodka from Russia is genuine Russian vodka!	Samo votka iz Rusije je
 eng	hrv	Open the door!	Otvori vrata!
 eng	hrv	Our exchange students are leaving Japan next week.	Studenti na razmjeni napuštaju Japan sljedeći tjedan.
 eng	hrv	Our eyes can't see infrared light.	Naše oči ne mogu vidjeti infracrvene zrake.
+eng	hrv	Our planet is beautiful.	Naš planet je prekrasan.
 eng	hrv	Our teacher will return from abroad in August.	Naš učitelj će se vratiti iz inozemstva u kolovozu.
 eng	hrv	Our train was an hour late because of the heavy snow.	Zbog mećave naš vlak je kasnio jedan sat.
 eng	hrv	Pardon me, can you repeat that?	Oprostite, možete li to ponoviti?
@@ -1169,6 +1187,7 @@ eng	hrv	She spends her holidays at her uncle's.	Ona provodi praznike kod strica.
 eng	hrv	She's Thai.	Ona je Tajlanđanka.
 eng	hrv	She stopped to talk.	Prestala je govoriti.
 eng	hrv	She's Ukrainian.	Ona je Ukrajinka.
+eng	hrv	She's writing an article for the school newspaper.	Ona piše članak za školske novine.
 eng	hrv	She was amazed to hear the news.	Bila je iznenađena čuvši vijesti.
 eng	hrv	She went out for a walk.	Ona je izašla u šetnju.
 eng	hrv	She will pay 50 dollars at most.	Ona će platiti najviše 50 dolara.
@@ -1252,6 +1271,7 @@ eng	hrv	The coffee is cold.	Kava je hladna.
 eng	hrv	The company aims to branch out into China.	Tvrtka se namjerava proširiti u Kinu.
 eng	hrv	The craziness has crossed a line.	Ludost je prešla granicu.
 eng	hrv	The cup is on the table.	Šalica je na stolu.
+eng	hrv	The depth of the river is about ten meters.	Dubina rijeke je desetak metara.
 eng	hrv	The doctor gave her a thorough check-up.	Liječnik ju je temeljito pregledao.
 eng	hrv	The doctors are looking at an x-ray.	Liječnici gledaju rendgensku sliku.
 eng	hrv	The dog is mine.	Pas je moj.
@@ -1462,6 +1482,7 @@ eng	hrv	Tom is always daydreaming.	Tom uvijek sanjari.
 eng	hrv	Tom is a mechanic.	Tom je mehaničar.
 eng	hrv	Tom is an activist in his community.	Tom je aktivist u svojoj zajednici.
 eng	hrv	Tom is an American living in Paris.	Tom je Amerikanac koji živi u Parizu.
+eng	hrv	Tom is a three-lettered name.	Tom je troslovno ime.
 eng	hrv	Tom is down.	Tom je dolje.
 eng	hrv	Tom is going for broke.	Tom riskira sve.
 eng	hrv	Tom is highly intelligent.	Tom je vrlo inteligentan.
@@ -1640,6 +1661,7 @@ eng	hrv	When will you leave?	Kada odlaziš?
 eng	hrv	Where are all the flying cars?	Gdje su leteći auti?
 eng	hrv	Where are your things?	Gdje su tvoje stvari?
 eng	hrv	Where can I buy a bathing suit?	Gdje mogu kupiti kupaći kostim?
+eng	hrv	Where can I put this box?	Gdje mogu staviti ovu kutiju?
 eng	hrv	Where did you find this evidence?	Gdje si pronašao ovaj dokaz?
 eng	hrv	Where did you leave your umbrella?	Gdje si ostavila svoj kišobran?
 eng	hrv	Where do you live, Tom?	Gdje ti živiš, Tome?
@@ -1685,6 +1707,7 @@ eng	hrv	Why do people go to the movies?	Zašto ljudi idu u kino?
 eng	hrv	Why do you think Tom would do that?	Zašto misliš da bi Tom to učinio?
 eng	hrv	Why do you think Tom would do this?	Zašto misliš da bi Tom ovo učinio?
 eng	hrv	Why is he here?	Zašto je on ovdje?
+eng	hrv	Why is judo the best choice for your child?	Zašto je džudo najbolji izbor za vaše dijete?
 eng	hrv	Why should I listen to you?	Zašto bi te trebao slušati?
 eng	hrv	Will ten thousand yen do?	Hoće li deset tisuća yena biti dovoljno?
 eng	hrv	Will you join us?	Hoćeš li nam se pridružiti?
@@ -1798,6 +1821,11 @@ eng	srp_Cyrl	All or nothing.	Све или ништа.
 eng	srp_Cyrl	All rights reserved.	Сва права задржана.
 eng	srp_Cyrl	All systems are go.	Све је спремно.
 eng	srp_Cyrl	All systems are go.	Све штима.
+eng	srp_Cyrl	All Tom does is play.	Том само свира.
+eng	srp_Cyrl	All Tom does is play.	Том се само игра.
+eng	srp_Cyrl	Always be constructive when you criticize others.	Увек буди конструктиван када критикујеш друге.
+eng	srp_Cyrl	Always be constructive when you criticize others.	Увек буди конструктивна када критикујеш друге.
+eng	srp_Cyrl	Always be constructive when you criticize others.	Увек будите конструктивни када критикујете друге.
 eng	srp_Cyrl	A man's character is his fate.	Човеков карактер је његова судбина.
 eng	srp_Cyrl	A man's home is his castle.	Своја кућица, своја слободица.
 eng	srp_Cyrl	Am I seeing things?	Да ли ми се привиђа?
@@ -1810,6 +1838,8 @@ eng	srp_Cyrl	An elephant has a long nose.	Слон има дугачак нос.
 eng	srp_Cyrl	Ania is interested in computers.	Ану занимају рачунари.
 eng	srp_Cyrl	Anybody home?	Има ли некога у кући?
 eng	srp_Cyrl	Anyway, you're wrong.	У сваком случају, ниси у праву.
+eng	srp_Cyrl	Apologize.	Извини се.
+eng	srp_Cyrl	Apologize.	Извините се.
 eng	srp_Cyrl	Apples are red.	Јабуке су црвене.
 eng	srp_Cyrl	Aren't you from Australia?	Зар ти ниси из Аустралије?
 eng	srp_Cyrl	Are we ready to go?	Да ли смо спремни за полазак?
@@ -1834,6 +1864,7 @@ eng	srp_Cyrl	Ask a policeman!	Питај полицајца!
 eng	srp_Cyrl	At a first glance it seems easy.	На први поглед изгледа лако.
 eng	srp_Cyrl	A taxi is expensive.	Такси је скуп.
 eng	srp_Cyrl	At last, we have arrived!	Напокон смо стигли!
+eng	srp_Cyrl	A true friend wouldn't do that.	Прави пријатељ не би то урадио.
 eng	srp_Cyrl	At what time do you eat breakfast?	У колико сати ви доручкујете?
 eng	srp_Cyrl	Back off.	Одабиј.
 eng	srp_Cyrl	Based on the information that I've given you, what story would you come up with?	На основу података које сам вам изнео, са којом причом би сте изашли?
@@ -1847,6 +1878,7 @@ eng	srp_Cyrl	Be realistic!	Буди реалан!
 eng	srp_Cyrl	Be realistic!	Будите реални!
 eng	srp_Cyrl	Be reasonable.	Буди разуман.
 eng	srp_Cyrl	Be reasonable.	Будите разумни.
+eng	srp_Cyrl	Be smart.	Буди паметан.
 eng	srp_Cyrl	Be that as it may, you are wrong.	Било како било, ниси у праву.
 eng	srp_Cyrl	Be that as it may, you are wrong.	Било како било, ти ниси у праву.
 eng	srp_Cyrl	Better late than never.	Боље икад него никад.
@@ -1858,6 +1890,7 @@ eng	srp_Cyrl	Birds sing.	Птице певају.
 eng	srp_Cyrl	Bitcoin is a cryptocurrency.	Биткоин је криптовалута.
 eng	srp_Cyrl	Bob's your uncle.	То ти је цела мудрост!
 eng	srp_Cyrl	Books have a fate of their own.	Књиге имају своју судбину.
+eng	srp_Cyrl	Both men quickly drew their guns.	Обојица мушкараца су брзо потегла пиштоље.
 eng	srp_Cyrl	Bully for you.	Нека ти буде.
 eng	srp_Cyrl	Burj Khalifa is currently the tallest skyscraper in the world.	Бурџ Калифа је тренутно највиши облакодер на свету.
 eng	srp_Cyrl	By the way, where are you from?	Узгред, одакле си?
@@ -1890,8 +1923,10 @@ eng	srp_Cyrl	Choose one.	Изабери једну.
 eng	srp_Cyrl	Choose one.	Изаберите један.
 eng	srp_Cyrl	Choose one.	Изаберите једно.
 eng	srp_Cyrl	Choose one.	Изаберите једну.
+eng	srp_Cyrl	Choose wisely.	Мудро изабери.
 eng	srp_Cyrl	Clearly, I was overly optimistic.	Очигледно, била сам превише оптимистична.
 eng	srp_Cyrl	Coffee, please.	Кафу, молићу.
+eng	srp_Cyrl	Cold day, isn't it?	Хладан дан, зар не?
 eng	srp_Cyrl	Come back.	Вратите се.
 eng	srp_Cyrl	Come here. I want to show you something.	Дођи. Желим нешто да ти покажем.
 eng	srp_Cyrl	Come on, admit it.	Хајде, признај.
@@ -1908,17 +1943,24 @@ eng	srp_Cyrl	Deaf people can converse in sign language.	Глуви људи мо
 eng	srp_Cyrl	Democracy is the worst form of government, except all the others that have been tried.	Демократија – најгора форма управљања, ако се не узму у обзир сви остали облици испробани до сада.
 eng	srp_Cyrl	Detectives are still investigating.	Детективи и даље истражују.
 eng	srp_Cyrl	Diamond cuts diamond.	Намерио се јунак на јунака.
+eng	srp_Cyrl	Did anyone hear Tom leave the house?	Да ли је било ко чуо Тома како излази из куће?
+eng	srp_Cyrl	Did anyone hear Tom leave the house?	Да ли је неко чуо Тома да је напустио кућу?
 eng	srp_Cyrl	"Did he say why?" "He did."	"Је л' образложио?" "Јесте."
 eng	srp_Cyrl	Did I come at a bad time?	Да ли сам дошао у незгодно време?
+eng	srp_Cyrl	Didn't you see Tom yesterday?	Зар ниси јуче видела Тома?
+eng	srp_Cyrl	Didn't you see Tom yesterday?	Ниси ли јуче видео Тома?
+eng	srp_Cyrl	Did Tom tell you what happened to him?	Да ли ти је Том рекао шта се десило са њим?
 eng	srp_Cyrl	Did you bring a hair dryer?	Да ли си донео фен?
 eng	srp_Cyrl	Did you bring a hair dryer?	Јеси ли донео фен?
 eng	srp_Cyrl	Did you do that purposely?	Јеси ли то намерно урадила?
 eng	srp_Cyrl	Did you do that purposely?	Јеси ли то намерно урадио?
 eng	srp_Cyrl	Did you do that purposely?	Јесте ли то намерно урадили?
 eng	srp_Cyrl	Did you know that?	Да ли си то знао?
+eng	srp_Cyrl	Did you say anything?	Да ли си рекао нешто?
 eng	srp_Cyrl	Did you see anybody there?	Да ли сте видели неког тамо?
 eng	srp_Cyrl	Did you sleep enough last night?	Да ли си довољно спавала синоћ?
 eng	srp_Cyrl	Did you take the book back to the library?	Јеси ли вратио књигу у библиотеку?
+eng	srp_Cyrl	Does it rain much here?	Да ли овде пада пуно кише?
 eng	srp_Cyrl	Does objective history exist?	Постоји ли објективна историја?
 eng	srp_Cyrl	Does that price include breakfast?	Да ли је доручак урачунат у цену?
 eng	srp_Cyrl	Does that price include breakfast?	Да ли је у цену укључен доручак?
@@ -1929,6 +1971,7 @@ eng	srp_Cyrl	Does Tom eat fish?	Да ли Том једе рибу?
 eng	srp_Cyrl	Does your head hurt?	Боли те глава?
 eng	srp_Cyrl	Dogs are barking.	Пси лају.
 eng	srp_Cyrl	Do I detect sarcasm?	Осећам ли сарказам?
+eng	srp_Cyrl	Doing this is wrong.	Није исправно радити ово.
 eng	srp_Cyrl	Do not thank me.	Не захваљуј мени.
 eng	srp_Cyrl	Do not thank me.	Не захваљуј ми.
 eng	srp_Cyrl	Don't argue with me.	Не препири се са мном.
@@ -1937,10 +1980,13 @@ eng	srp_Cyrl	Don't argue with me.	Не свађај се са мном.
 eng	srp_Cyrl	Don't be fresh with me.	Не буди безобразан према мени!
 eng	srp_Cyrl	Don't be fresh with me.	Не буди дрзак са мном!
 eng	srp_Cyrl	Don't be late.	Немој каснити.
+eng	srp_Cyrl	Don't camp here.	Не кампујте овде.
 eng	srp_Cyrl	Don't come in! I'm naked.	Не улази! Гола сам.
 eng	srp_Cyrl	Don't drink the water.	Немој да пијеш воду.
 eng	srp_Cyrl	Don't drink the water.	Немојте пити воду.
+eng	srp_Cyrl	Don't forget to buy Tom a present.	Не заборави да Тому купиш поклон.
 eng	srp_Cyrl	Don't forget to do your homework, okay?	Не заборавите да урадите ваш домаћи задатак, у реду?
+eng	srp_Cyrl	Don't forget to say goodbye.	Не заборави да кажеш збогом.
 eng	srp_Cyrl	Don't get angry.	Не љути се.
 eng	srp_Cyrl	Don't hog the road.	Не буди друмски силеџија.
 eng	srp_Cyrl	Don't let such a good opportunity go by.	Немој да дозволиш да ти измакне овако добра шанса.
@@ -1965,8 +2011,23 @@ eng	srp_Cyrl	Do you drink coffee?	Пијете кафу?
 eng	srp_Cyrl	"Do you have a nickname?" "Yes, it's Rick."	"Да ли имаш надимак?" "Да, Рик."
 eng	srp_Cyrl	Do you have your passport?	Имаш ли пасош?
 eng	srp_Cyrl	Do you hear something?	Чујеш ли ти нешто?
+eng	srp_Cyrl	Do you know anybody who can do that for us?	Да ли знаш неког ко може да нам среди то?
+eng	srp_Cyrl	Do you know anybody who can do that for us?	Да ли познајеш некога ко то може да нам среди?
+eng	srp_Cyrl	Do you know anybody who can do that for us?	Знаш ли некога ко може да нам среди то?
+eng	srp_Cyrl	Do you know anybody who can do that for us?	Знаш ли некога ко може да уради то за нас?
+eng	srp_Cyrl	Do you know anybody who can do that for us?	Познајеш ли некога ко може да уради то за нас?
+eng	srp_Cyrl	Do you know anybody who can do that?	Да ли познајеш икога ко може да уради то?
+eng	srp_Cyrl	Do you know anybody who can do that?	Знаш ли иког ко то може да уради?
+eng	srp_Cyrl	Do you know anyone who can do that as well as Tom can?	Познајеш ли некога ко то може да уради добро колико и Том?
+eng	srp_Cyrl	Do you know anyone who can do that?	Да ли познајеш некога ко може да изведе то?
+eng	srp_Cyrl	Do you know anyone who can do that?	Да ли познајеш некога ко може да уради то?
+eng	srp_Cyrl	Do you know anyone who can do that?	Познајеш ли некога ко може да изведе то?
+eng	srp_Cyrl	Do you know anyone who can do that?	Познајеш ли некога ко може да уради то?
+eng	srp_Cyrl	Do you know why Tom is so mad at Mary?	Да ли знаш зашто је Том толико бесан на Мери?
+eng	srp_Cyrl	Do you know why Tom is so mad at Mary?	Знаш ли зашто је Том толико љут на Мери?
 eng	srp_Cyrl	Do you like apples?	Волите ли јабуке?
 eng	srp_Cyrl	Do you play any sports?	Да ли се бавиш неким спортом?
+eng	srp_Cyrl	Do you remember the place where we first met?	Да ли се сећаш места где смо се први пут упознали?
 eng	srp_Cyrl	Do you speak Chinese?	Да ли говорите кинески?
 eng	srp_Cyrl	Do you speak Greek?	Говориш ли грчки?
 eng	srp_Cyrl	Do you speak Greek?	Да ли говориш грчки?
@@ -1978,6 +2039,8 @@ eng	srp_Cyrl	Do you think these letters are worth saving?	Да ли мислиш
 eng	srp_Cyrl	Do you think the situation will improve?	Мислиш ли да ће се ситуација побољшати?
 eng	srp_Cyrl	Do you understand what I'm saying?	Да ли разумете шта говорим?
 eng	srp_Cyrl	Do you want fruit juice?	Хоћеш ли воћни ђус?
+eng	srp_Cyrl	"Do you want me to turn off the computer?" "Leave it on. I'm still using it."	"Да ли желиш да искључим рачунар?" "Остави га. Још га користим."
+eng	srp_Cyrl	Drink your coffee while it's hot.	Попиј кафу док је врућа.
 eng	srp_Cyrl	Drive safely.	Вози пажљиво.
 eng	srp_Cyrl	Dr. Jackson has a good bedside manner.	Др Џексон има добар однос према пацијенту.
 eng	srp_Cyrl	Due to bad weather, the plane was late.	Због лошег времена, авион је каснио.
@@ -1987,8 +2050,12 @@ eng	srp_Cyrl	Eat everything.	Поједите све.
 eng	srp_Cyrl	Eat slowly.	Једи споро.
 eng	srp_Cyrl	Eat slowly.	Једите споро.
 eng	srp_Cyrl	Elementary, my dear Watson.	Елементарно, мој драги Вотсоне.
+eng	srp_Cyrl	Elephants don't climb trees.	Слонови се не пењу на дрвеће.
 eng	srp_Cyrl	Emma was much in evidence during the party.	Ема је била веома упадљива на журци.
+eng	srp_Cyrl	Encourage Tom.	Подстакни Тома.
 eng	srp_Cyrl	Enjoy it while you can.	Уживај у томе док још можеш!
+eng	srp_Cyrl	Enter quickly.	Уђи брзо.
+eng	srp_Cyrl	Enter quickly.	Уђите брзо.
 eng	srp_Cyrl	Ethereum and Bitcoin are cryptocurrencies.	Етеријум и биткоин су криптовалуте.
 eng	srp_Cyrl	Everybody lies.	Свако лаже.
 eng	srp_Cyrl	Everybody lies.	Сви лажу.
@@ -1997,6 +2064,7 @@ eng	srp_Cyrl	Everyone changes.	Свако се мења.
 eng	srp_Cyrl	Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.	Свако има право на заштиту моралних и материјалних интереса који проистичу из било ког научног, књижевног или уметничког дела чији је он творац.
 eng	srp_Cyrl	Everyone is master in his own house.	Свако је газда у својој кући.
 eng	srp_Cyrl	Everyone says that.	Сви кажу тако.
+eng	srp_Cyrl	Everyone's doing it, so it's OK.	То сви раде, тако да је то у реду.
 eng	srp_Cyrl	Everyone was young once.	Сви су били једном млади.
 eng	srp_Cyrl	Everything comes to him who waits.	Ко чека, дочека.
 eng	srp_Cyrl	Everything happened at lightning speed.	Све се одиграло брзином светлости.
@@ -2011,9 +2079,12 @@ eng	srp_Cyrl	Excuse me.	Опростите.
 eng	srp_Cyrl	Exercise outdoors.	Вежбај напољу.
 eng	srp_Cyrl	Fadil had second thoughts.	Фадил се предомислио.
 eng	srp_Cyrl	Faith can move mountains.	Вера може да помера планине.
+eng	srp_Cyrl	Fashions change.	Мода се мења.
 eng	srp_Cyrl	Fat chance.	Нема шансе!
 eng	srp_Cyrl	Fate shuffles the cards; we play.	Судбина меша карте, а ми играмо.
 eng	srp_Cyrl	Fine. And you?	Добро. А ти?
+eng	srp_Cyrl	Fire Tom.	Отпусти Тома.
+eng	srp_Cyrl	Fish and guests smell after three days.	Рибе и гости се усмрде после три дана.
 eng	srp_Cyrl	Fish, please.	Рибу, молим.
 eng	srp_Cyrl	Fish, please.	Рибу, молићу.
 eng	srp_Cyrl	Follow him.	Пратите га.
@@ -2023,12 +2094,15 @@ eng	srp_Cyrl	For next class, I want you guys to transcribe the lyrics from any s
 eng	srp_Cyrl	France is in Western Europe.	Француска је у Западној Европи.
 eng	srp_Cyrl	French is a difficult language.	Француски је тежак језик.
 eng	srp_Cyrl	Get a move on!	Покрени се!
+eng	srp_Cyrl	Get comfortable.	Смести се.
 eng	srp_Cyrl	Get lost!	Губи се!
+eng	srp_Cyrl	Get ready to fight.	Спремни за борбу.
 eng	srp_Cyrl	Giraffes have very long necks.	Жирафе имају веома дугачке вратове.
 eng	srp_Cyrl	Give me a key, and I will unlock the universe.	Дајте ми кључ, и ја ћу откључати свемир.
 eng	srp_Cyrl	Give me an example.	Дајте ми један пример.
 eng	srp_Cyrl	Give me another example.	Дајте ми други пример.
 eng	srp_Cyrl	Give me the milk.	Дај ми млеко.
+eng	srp_Cyrl	Give yourself a pat on the back. You deserve it.	Потапшај се по леђима. Заслужујеш.
 eng	srp_Cyrl	Go away!	Одлази!
 eng	srp_Cyrl	God knows.	Бог зна.
 eng	srp_Cyrl	Go find something else to do.	Иди нађи нешто друго да радиш.
@@ -2048,6 +2122,7 @@ eng	srp_Cyrl	Good morning, everybody.	Добро јутро свима.
 eng	srp_Cyrl	Good morning. How are you?	Добро јутро. Како си?
 eng	srp_Cyrl	Go straight.	Иди право.
 eng	srp_Cyrl	Grammar is a very complex thing.	Граматика је изузетно сложена ствар.
+eng	srp_Cyrl	Greyhounds have higher levels of red blood cells than other breeds.	Хртови имају виши ниво црвених крвних зрнаца од других раса.
 eng	srp_Cyrl	Happy birthday!	Срећан рођендан!
 eng	srp_Cyrl	Happy Easter!	Срећан васкрс!
 eng	srp_Cyrl	Happy Mother's Day!	Срећан мајчин дан!
@@ -2058,14 +2133,20 @@ eng	srp_Cyrl	Have fun while you can.	Забављај се док можеш.
 eng	srp_Cyrl	Have fun while you can.	Забављајте се док можете.
 eng	srp_Cyrl	Haven't you finished yet?	Још ниси завршио?
 eng	srp_Cyrl	Have you already finished?	Зар си већ завршио?
+eng	srp_Cyrl	Have you decided who you'll hire?	Да ли си одлучио кога ћеш запослити?
 eng	srp_Cyrl	Have you ever milked a cow?	Да ли си некада помузао краву?
 eng	srp_Cyrl	Have you ever seen anything like this?	Јеси ли икада видео нешто овако?
 eng	srp_Cyrl	Have you ever tried it?	Јеси ли икада пробала?
 eng	srp_Cyrl	Have you ever tried it?	Пробао си некада?
 eng	srp_Cyrl	Have you ever wanted to live on an island?	Никада ниси пожелео да живиш на острву?
+eng	srp_Cyrl	Have you finished reading this book?	Да ли си завршио са читањем ове књиге?
+eng	srp_Cyrl	Have you finished reading this book?	Јеси ли завршила са читањем ове књиге?
 eng	srp_Cyrl	Have you finished?	Да ли си завршио?
 eng	srp_Cyrl	Have you finished?	Јеси ли завршио?
 eng	srp_Cyrl	Have you reported it to the police?	Јеси ли пријавио полицији?
+eng	srp_Cyrl	Have you seen any new movies recently?	Јеси ли погледао скоро неки нови филм?
+eng	srp_Cyrl	Have you tried yoga?	Да ли си пробао јогу?
+eng	srp_Cyrl	Have you tried yoga?	Јеси ли пробао јогу?
 eng	srp_Cyrl	He abandoned his family and went to live in Tahiti.	Напустио је своју породицу и преселио се на Тахити.
 eng	srp_Cyrl	Heads or tails?	Глава или писмо?
 eng	srp_Cyrl	He arrived at midnight.	Дошао је у поноћ.
@@ -2081,6 +2162,8 @@ eng	srp_Cyrl	He breathed his last breath.	Издахнуо је.
 eng	srp_Cyrl	He breathed his last breath.	Он је издахнуо.
 eng	srp_Cyrl	He came.	Дошао је.
 eng	srp_Cyrl	He congratulated me on my success.	Он ми је честитао на успеху.
+eng	srp_Cyrl	He cried out.	Зајецао је.
+eng	srp_Cyrl	He cried out.	Он зајеца.
 eng	srp_Cyrl	He didn't hide his disappointment.	Није крио своје разочарење.
 eng	srp_Cyrl	He doesn't know where he should be.	Он не зна где би требао бити.
 eng	srp_Cyrl	He doesn't miss a beat.	Он ништа не пропушта.
@@ -2151,7 +2234,9 @@ eng	srp_Cyrl	He was bare-chested and barefoot.	Био је голих прса �
 eng	srp_Cyrl	He was bare-chested and barefoot.	Био је голих прса и босоног.
 eng	srp_Cyrl	He was murdered on the spot.	Убијен је на лицу места.
 eng	srp_Cyrl	He works on some really crazy projects.	Он ради на баш лудим пројектима.
+eng	srp_Cyrl	Hire Tom.	Запосли Тома.
 eng	srp_Cyrl	His book is red.	Његова књига је црвена.
+eng	srp_Cyrl	His claim is that there is a close relation between birth order and personality.	Он тврди да постоји блиска веза између редоследа рођења и личности.
 eng	srp_Cyrl	His failure taught me a good lesson.	Његова несрећа мене је много чему научила.
 eng	srp_Cyrl	His loss of memory is a psychological problem rather than a physical one.	Губитак памћења је више психолошки него физички.
 eng	srp_Cyrl	Hold on.	Стани.
@@ -2169,9 +2254,12 @@ eng	srp_Cyrl	How do you say "good bye" in German?	Како се каже „до
 eng	srp_Cyrl	How do you say "thank you" in Japanese?	Како се каже „Хвала“ на јапанском?
 eng	srp_Cyrl	How do you say XXX in Dutch?	Како се каже XXX на холандском језику?
 eng	srp_Cyrl	How far is it from here?	Колико је далеко одавде?
+eng	srp_Cyrl	How long do you think it'll take Tom to finish writing the report?	Колико дуго мислиш да ће Тому требати да заврши писање извештаја?
 eng	srp_Cyrl	How long have you been a teacher?	Колико дуго сте наставник?
 eng	srp_Cyrl	How long have you been here?	Колико дуго си био овде?
 eng	srp_Cyrl	How long have you been here?	Колико си дуго овде?
+eng	srp_Cyrl	How many days will you be here?	Колико дана ћете бити овде?
+eng	srp_Cyrl	How many days will you be here?	Колико ћеш дана бити овде?
 eng	srp_Cyrl	How many human beings live on Earth?	Колико људи живи на Земљи?
 eng	srp_Cyrl	How much does this hat cost?	Колико кошта овај шешир?
 eng	srp_Cyrl	How much is this?	Колико то кошта?
@@ -2199,8 +2287,12 @@ eng	srp_Cyrl	I am not young enough to know everything.	Нисам довољно
 eng	srp_Cyrl	I am studying languages. I can help you if you want me to. And maybe I'd like you to help me.	Ја студирам језике, могу ти помоћи ако желиш. А можда бих волео да и ти мени помогнеш.
 eng	srp_Cyrl	I am thirsty.	Жедан сам.
 eng	srp_Cyrl	I am thirsty.	Жедна сам.
+eng	srp_Cyrl	I asked Tom why he'd come so early.	Питала сам Тома зашто је дошао тако рано.
+eng	srp_Cyrl	I asked Tom why he'd come so early.	Питао сам Тома зашто је дошао тако рано.
 eng	srp_Cyrl	I ate a hasty lunch.	Ручао сам на брзину.
 eng	srp_Cyrl	I baked bread.	Испекао сам хлеб.
+eng	srp_Cyrl	I believe there is too much violence on TV.	Верујем да има превише насиља на ТВ-у.
+eng	srp_Cyrl	I bet nobody's ever told you that.	Кладим да ти нико никад није рекао то.
 eng	srp_Cyrl	I bought a book.	Купио сам књигу.
 eng	srp_Cyrl	I bought flowers.	Купила сам цвеће.
 eng	srp_Cyrl	I bought flowers.	Купио сам цвеће.
@@ -2236,12 +2328,16 @@ eng	srp_Cyrl	I compared notes with Tom.	Разменио сам мишљења �
 eng	srp_Cyrl	I completely disagree with that.	У потпуности се не слажем са тим.
 eng	srp_Cyrl	I couldn't help feeling sorry for him.	Нисам могао а да га не сажаљевам.
 eng	srp_Cyrl	I couldn't help feeling sorry for him.	Нисам могла а да га не сажаљевам.
+eng	srp_Cyrl	I couldn't solve the problem.	Нисам могао да решим проблем.
 eng	srp_Cyrl	I'd do it all again in a heartbeat.	Поново бих урадио исто без размишљања.
 eng	srp_Cyrl	I did it with a heavy heart.	Тешка срца сам то урадила.
+eng	srp_Cyrl	I didn't go to bed last night as early as I usually do.	Синоћ нисам отишао у кревет онолико рано колико обично идем.
+eng	srp_Cyrl	I didn't know everyone in the room.	Нисам знала сваког у соби.
 eng	srp_Cyrl	I didn't mean to hurt you.	Нисам желео да те повредим.
 eng	srp_Cyrl	I didn't tell her you're here.	Нисам јој рекао да си овде.
 eng	srp_Cyrl	I didn't tell him you're here.	Нисам му рекао да си овде.
 eng	srp_Cyrl	I didn't tell him you're here.	Нисам му рекла да си овде.
+eng	srp_Cyrl	I didn't think Tom would remember all our names.	Ја нисам мислио да ће се Том сетити свих наших имена.
 eng	srp_Cyrl	I didn't understand anything at today's seminar.	Нисам разумео ништа на данашњем семинару.
 eng	srp_Cyrl	I didn't understand what he said.	Нисам разумео шта је рекао.
 eng	srp_Cyrl	I didn't vote for Tom.	Нисам гласала за Тома.
@@ -2250,18 +2346,25 @@ eng	srp_Cyrl	I'd like to take this opportunity to thank you for all the trust yo
 eng	srp_Cyrl	I'd never thought of it that way before.	Никада нисам размишљала о томе на такав начин.
 eng	srp_Cyrl	I do not fear death, but dying.	Не бојим се смрти, него умирања.
 eng	srp_Cyrl	I don't care what he says.	Не занима ме шта он каже.
+eng	srp_Cyrl	I don't care what people think of me.	Није ме брига шта људи мисле о мени.
 eng	srp_Cyrl	I don't have any homework today.	Данас немам никакав домаћи.
 eng	srp_Cyrl	I don't have any money.	Потпуно сам без пара.
 eng	srp_Cyrl	I don't intend to answer any questions.	Немам намеру да одговорим на сва питања.
+eng	srp_Cyrl	I don't know exactly when Tom will arrive.	Не знам када ће тачно Том стићи.
 eng	srp_Cyrl	I don't know if I have the time.	Не знам да ли ћу имати времена.
+eng	srp_Cyrl	I don't know that girl.	Не знам ту девојчицу.
+eng	srp_Cyrl	I don't know that girl.	Не познајем ту девојчицу.
 eng	srp_Cyrl	I don't know the answer.	Ја не знам одговор.
 eng	srp_Cyrl	I don't know the answer.	Не знам одговор.
 eng	srp_Cyrl	I don't know what it is.	Ја не знам шта је то.
+eng	srp_Cyrl	I don't know what Tom thinks he's doing.	Не знам шта Том мисли да ради.
+eng	srp_Cyrl	I don't know where this road goes.	Не знам где води овај пут.
 eng	srp_Cyrl	I don't know who they are.	Ја не знам ко су они.
 eng	srp_Cyrl	I don't know who they are.	Не знам ко су.
 eng	srp_Cyrl	I don't know why my head hurts.	Не знам зашто ме боли глава.
 eng	srp_Cyrl	I don't like to work.	Не волим да радим.
 eng	srp_Cyrl	I don't need anything.	Не треба ми ништа.
+eng	srp_Cyrl	I don't remember what I ate because I was on my phone while I was eating.	Не памтим шта сам јео зато што сам користио телефон док сам јео.
 eng	srp_Cyrl	I don't see the difference.	Не видим разлику.
 eng	srp_Cyrl	I don't speak Japanese.	Ја не говорим јапански.
 eng	srp_Cyrl	I don't understand German.	Не разумем Немачки.
@@ -2270,16 +2373,24 @@ eng	srp_Cyrl	I don't want meat.	Не желим месо.
 eng	srp_Cyrl	I don't want to see you get hurt.	Не желим да будеш повређен.
 eng	srp_Cyrl	I don't want to see you get hurt.	Не желим да будеш повређена.
 eng	srp_Cyrl	I don't want you to see me naked.	Не желим да ме видиш голу.
+eng	srp_Cyrl	I'd really like to know what's going on.	Заиста бих волела да знам шта се дешава.
+eng	srp_Cyrl	I'd really like to know what's going on.	Стварно бих волео да знам шта се дешава.
+eng	srp_Cyrl	I'd really like to know what's happening.	Стварно бих хтео да знам шта се збива.
 eng	srp_Cyrl	I drink coffee.	Ја пијем кафу.
+eng	srp_Cyrl	I enjoyed singing with Tom.	Уживао сам у певању са Томом.
 eng	srp_Cyrl	I entered her room.	Ушао сам у њену собу.
+eng	srp_Cyrl	If a job is worth doing, it is worth doing well.	Ако посао вреди обавити, онда га вреди обавити ваљано.
 eng	srp_Cyrl	I feel bad about lying.	Осећам се лоше јер сам лагао.
 eng	srp_Cyrl	I feel safe with you.	Осећам се сигурно са тобом.
 eng	srp_Cyrl	I fell to the ground.	Пао сам на земљу.
 eng	srp_Cyrl	If I love you, what business is it of yours?	Ако те ја волим, шта се то тебе тиче?
 eng	srp_Cyrl	I forgot the baby monitor.	Заборавио сам уређај за надгледање беба.
+eng	srp_Cyrl	I forgot to pay the bill.	Заборавила сам да платим рачун.
+eng	srp_Cyrl	I forgot to pay the bill.	Заборавио сам да платим рачун.
 eng	srp_Cyrl	I found him the book.	Нашла сам му књигу.
 eng	srp_Cyrl	I found the cage empty.	Затекао сам празан кавез.
 eng	srp_Cyrl	If you do this, you will regret it for the rest of your life.	Ако то урадиш, кајаћеш се до краја живота.
+eng	srp_Cyrl	If you leave, everyone else will leave, too.	Ако одеш, и сви други ће отићи.
 eng	srp_Cyrl	I get up early.	Ја устајем рано.
 eng	srp_Cyrl	I got it.	Разумела сам.
 eng	srp_Cyrl	I got it.	Схватила сам.
@@ -2309,6 +2420,7 @@ eng	srp_Cyrl	I have been looking for you.	Тражила сам те.
 eng	srp_Cyrl	I have been looking for you.	Тражио сам вас.
 eng	srp_Cyrl	I have been looking for you.	Тражио сам те.
 eng	srp_Cyrl	I have bigger fish to fry.	Имам паметнија посла.
+eng	srp_Cyrl	I have clients to see.	Имам клијенте са којима морам да се видим.
 eng	srp_Cyrl	I have confidence in you.	Имам поверење у тебе.
 eng	srp_Cyrl	I have many friends.	Имам много пријатеља.
 eng	srp_Cyrl	I have many friends.	Имам пуно пријатеља.
@@ -2320,27 +2432,53 @@ eng	srp_Cyrl	I haven't forgotten.	Ја нисам заборавио.
 eng	srp_Cyrl	I haven't seen her for ages.	Одавно је нисам видео.
 eng	srp_Cyrl	I haven't seen him for ages.	Одавно га нисам видела.
 eng	srp_Cyrl	I have some gifts.	Ја имам неколико дарова.
+eng	srp_Cyrl	I have to buy some new clothes next week.	Морам да купим неку нову одећу следеће недеље.
 eng	srp_Cyrl	I have to go find Tom.	Морам да нађем Тома.
+eng	srp_Cyrl	I have to return these books to the library on Monday.	Морам да вратим ове књиге у библиотеку у понедељак.
+eng	srp_Cyrl	I have to take these books back to the library on Monday.	У понедељак морам да вратим ове књиге у библиотеку.
 eng	srp_Cyrl	I have two daughters.	Ја имам две кћерке.
 eng	srp_Cyrl	I have two flowers.	Имам два цвета.
 eng	srp_Cyrl	I hope my mistake will escape his notice.	Надам се да неће приметити моју грешку.
+eng	srp_Cyrl	I just can't help thinking that I should've done that.	Једноставно не могу да не мислим да сам могао то да урадим.
 eng	srp_Cyrl	I just got up.	Управо сам устао.
 eng	srp_Cyrl	I just wanted to hear your voice.	Само сам хтела да ти чујем глас.
+eng	srp_Cyrl	I knew that I'd find you here.	Знао сам да ћу те овде пронаћи.
+eng	srp_Cyrl	I knew that I'd find you here.	Знао сам да ћу те пронаћи овде.
+eng	srp_Cyrl	I know a lot about butterflies.	Знам пуно о лептирима.
+eng	srp_Cyrl	I know a lot about insects.	Знам пуно о инсектима.
+eng	srp_Cyrl	I know everyone in the room.	Знам сваког у соби.
 eng	srp_Cyrl	I know everything.	Ја све знам.
 eng	srp_Cyrl	I know him well.	Добро га знам.
 eng	srp_Cyrl	I know him well.	Добро га познајем.
 eng	srp_Cyrl	I know him well.	Знам га добро.
 eng	srp_Cyrl	I know I'm not perfect.	Знам да нисам савршен.
+eng	srp_Cyrl	I know someone should tell Tom about Mary's death, but does it have to be me?	Знам да би неко требало да каже Тому о Мериној смрти, али да ли то морам да будем ја?
+eng	srp_Cyrl	I know that boy.	Знам тог дечака.
+eng	srp_Cyrl	I know that boy.	Познајем тог дечака.
+eng	srp_Cyrl	I know that Tom hates Mary.	Знам да Том мрзи Марију.
+eng	srp_Cyrl	I know that you'll never love me as much as I love you.	Знам да ме никад нећеш волити као што ја волим тебе.
 eng	srp_Cyrl	I know those girls.	Познајем те девојке.
+eng	srp_Cyrl	I know Tom will be leaving with you.	Знам да ће Том отићи са тобом.
+eng	srp_Cyrl	I know you think I'm like the others.	Знам да мислиш да сам исти као други.
 eng	srp_Cyrl	I know.	Знам.
+eng	srp_Cyrl	I like it when you put your arms around me.	Волим када ме загрлиш.
 eng	srp_Cyrl	I like Korean food.	Волим корејску храну.
+eng	srp_Cyrl	I like to fight.	Волим борбу.
 eng	srp_Cyrl	I like to study foreign languages.	Волим да студирам стране језике.
 eng	srp_Cyrl	I'll be back later.	Вратићу се касније.
 eng	srp_Cyrl	I'll be busy tomorrow.	Сутра ћу бити заузет.
 eng	srp_Cyrl	I'll be busy tomorrow.	Сутра ћу бити заузета.
 eng	srp_Cyrl	I'll do it with pleasure.	Урадићу то са задовољством.
 eng	srp_Cyrl	I'll keep you updated.	Обавештаваћу те.
+eng	srp_Cyrl	I'll manage on my own.	Снаћи ћу се сам.
+eng	srp_Cyrl	I'll manage on my own.	Снаћи ћу се сама.
+eng	srp_Cyrl	I'll need to take a few days off.	Мораћу да узмем неколико слободних дана.
+eng	srp_Cyrl	I'll need to take a few days off.	Мораћу да узмем пар дана слободно.
+eng	srp_Cyrl	I'll need to take a few days off.	Мораћу да узмем пар слободних дана.
 eng	srp_Cyrl	I'll never find true love.	Никада нећу пронаћи праву љубав.
+eng	srp_Cyrl	I'll never forget what Tom said about me.	Никад нећу да заборавим шта је Том рекао о мени.
+eng	srp_Cyrl	I'll never forget what Tom said about me.	Никад нећу заборавити шта је Том рекао о мени.
+eng	srp_Cyrl	I'll probably have to take some time off.	Вероватно ћу морати да узмем неко време слободно.
 eng	srp_Cyrl	I'll probably never use this again.	Вероватно никад више нећу да користим ово.
 eng	srp_Cyrl	I'll take a shower.	Истушираћу се.
 eng	srp_Cyrl	I'll teach you how to play the ukulele if you want me to.	Ако желиш, научићу те да свираш укулеле.
@@ -2356,6 +2494,8 @@ eng	srp_Cyrl	I love watching you work.	Волим да вас гледам до�
 eng	srp_Cyrl	I love watching you work.	Волим да те гледам док радиш.
 eng	srp_Cyrl	I love you both.	Волим вас обоје.
 eng	srp_Cyrl	I'm a beginner.	Почетник сам.
+eng	srp_Cyrl	I made a sandwich for Tom.	Направила сам сендвич за Тома.
+eng	srp_Cyrl	I made Tom something to eat.	Направио сам Тому нешто за јело.
 eng	srp_Cyrl	I'm a flat-earther.	Jа сам равноземљаш.
 eng	srp_Cyrl	Imagination is more important than knowledge. Knowledge is limited.	Машта је битнија од знања. Знање је ограничено.
 eng	srp_Cyrl	I'm angry with Tom.	Кивна сам на Тома.
@@ -2364,13 +2504,16 @@ eng	srp_Cyrl	I'm angry with Tom.	Љут сам на Тома.
 eng	srp_Cyrl	I'm a translator.	Ја сам преводилац.
 eng	srp_Cyrl	I'm coming to your rescue!	Долазим да те спасем!
 eng	srp_Cyrl	I'm deaf and mute while I'm eating.	Глув и нем сам док једем.
+eng	srp_Cyrl	I'm done as well.	И ја сам завршио.
 eng	srp_Cyrl	I'm driving into town so I can drop you off on the way.	Идем аутом до града, па могу да те одбацим успут.
 eng	srp_Cyrl	I'm eating here.	Једем овде.
 eng	srp_Cyrl	I'm fine, thanks for asking!	Ја само добро,хвала што питате!
 eng	srp_Cyrl	I'm fortunate to have survived the accident.	Срећом, преживео сам несрећу.
 eng	srp_Cyrl	I'm furious.	Љут сам.
+eng	srp_Cyrl	I'm getting tired of staying at home all the time.	Мука ми је више од тога да остајем кући све време.
 eng	srp_Cyrl	I'm glad to see you again.	Драго ми да те опет видим.
 eng	srp_Cyrl	I'm going to correct the homework tomorrow.	Исправићу домаћи задатак сутра.
+eng	srp_Cyrl	I'm going to give you everything I've got.	Даћу ти све што имам.
 eng	srp_Cyrl	I'm going to leave.	Отићи ћу.
 eng	srp_Cyrl	I'm hungry like the wolf.	Гладан сам као вук.
 eng	srp_Cyrl	I'm in Rome.	Ја сам у Риму.
@@ -2378,6 +2521,7 @@ eng	srp_Cyrl	I miss him.	Недостаје ми.
 eng	srp_Cyrl	I miss you so much.	Толико ми недостајеш.
 eng	srp_Cyrl	I miss you so much.	Фалиш ми јако.
 eng	srp_Cyrl	I'm just kidding.	Шалим се.
+eng	srp_Cyrl	I'm just the wrong guy for this.	Ја сам просто погрешан човек за ово.
 eng	srp_Cyrl	I'm just thinking out loud.	Само гласно размишљам.
 eng	srp_Cyrl	I'm just thinking out loud.	Само наглас размишљам.
 eng	srp_Cyrl	I'm looking for a job.	Тражим посао.
@@ -2386,6 +2530,8 @@ eng	srp_Cyrl	I'm not buying it.	Не верујем.
 eng	srp_Cyrl	I'm not going to say anything.	Ја нећу ништа рећи.
 eng	srp_Cyrl	I'm not going to say anything.	Ништа нећу рећи.
 eng	srp_Cyrl	I'm not happy with this situation.	Нисам задовољан овом ситуацијом.
+eng	srp_Cyrl	I'm not nice.	Ја нисам фина особа.
+eng	srp_Cyrl	I'm not nice.	Нисам фин.
 eng	srp_Cyrl	I'm not ready yet.	Нисам још спреман.
 eng	srp_Cyrl	I'm not ready yet.	Нисам још спремна.
 eng	srp_Cyrl	I'm not saying anything.	Не кажем ништа.
@@ -2402,6 +2548,7 @@ eng	srp_Cyrl	I'm sorry, the line is still busy.	Жао ми је, веза је 
 eng	srp_Cyrl	I'm starving.	Умирем од глади.
 eng	srp_Cyrl	I'm still awake.	Још увек сам будна.
 eng	srp_Cyrl	I'm studying now.	Учим сада.
+eng	srp_Cyrl	I'm the bait.	Ја сам мамац.
 eng	srp_Cyrl	I'm tired of your whining.	Мука ми је од твог цмиздрења.
 eng	srp_Cyrl	I'm told by everybody that I am strange.	Сви ми кажу да сам чудан.
 eng	srp_Cyrl	I'm told by everybody that I am strange.	Сви ми кажу да сам чудна.
@@ -2412,6 +2559,8 @@ eng	srp_Cyrl	I'm trying to conquer her heart.	Покушавам да освој
 eng	srp_Cyrl	I'm twice as old as Tom.	Дупло сам старија од Тома.
 eng	srp_Cyrl	I'm twice as old as Tom.	Дупло сам старији од Тома.
 eng	srp_Cyrl	I'm used to it.	Ја сам навикао.
+eng	srp_Cyrl	I'm very glad.	Веома сам задовољан.
+eng	srp_Cyrl	I'm very glad.	Драго ми је.
 eng	srp_Cyrl	I'm very impressed.	Веома сам импресиониран.
 eng	srp_Cyrl	I'm very impressed.	Веома сам импресионирана.
 eng	srp_Cyrl	I'm waiting for the bus.	Чекам аутобус.
@@ -2419,7 +2568,11 @@ eng	srp_Cyrl	I’m warning you!	Упозоравам те!
 eng	srp_Cyrl	I'm worried about you.	Забринут сам за тебе.
 eng	srp_Cyrl	I need five more minutes.	Треба ми још пет минута.
 eng	srp_Cyrl	I need something to drink.	Морам нешто попити.
+eng	srp_Cyrl	I need to go to bed early tonight.	Вечерас морам да рано одем у кревет.
+eng	srp_Cyrl	I need to go to bed early tonight.	Морам да одем рано у кревет вечерас.
 eng	srp_Cyrl	I need to go.	Морам да идем.
+eng	srp_Cyrl	I need to take a few days off.	Морам да одморим пар дана.
+eng	srp_Cyrl	I need to take a few days off.	Морам да узмем неколико дана слободно.
 eng	srp_Cyrl	I need your signature.	Треба ми твој потпис.
 eng	srp_Cyrl	I never should've listened to you.	Никад није требало да те послушам.
 eng	srp_Cyrl	In general, children are fond of candy.	Генерално, деца воле слаткише.
@@ -2430,6 +2583,7 @@ eng	srp_Cyrl	In that case, let's go.	У том случају, идемо.
 eng	srp_Cyrl	In the beginning God created Heaven and Earth.	У почетку Бог је створио небо и Земљу.
 eng	srp_Cyrl	In the beginning God created the heaven and the earth.	У почетку Бог је створио небо и Земљу.
 eng	srp_Cyrl	In the morning, we found a stranded dolphin.	Ујутру смо нашли насуканог делфина.
+eng	srp_Cyrl	In those days, food was much cheaper.	Тих дана, храна је била много јефтинија.
 eng	srp_Cyrl	Introduce me to Tom.	Упознај ме са Томом.
 eng	srp_Cyrl	I often borrow books from Tom.	Често позајмљујем књиге од Тома.
 eng	srp_Cyrl	I owe you an apology.	Дугујем вам извињење.
@@ -2443,6 +2597,7 @@ eng	srp_Cyrl	I really feel sorry for Tom.	Стварно ми је жао Том
 eng	srp_Cyrl	I really want to see you again.	Стварно бих волела опет да те видим.
 eng	srp_Cyrl	I recognized him at first glance.	Препознала сам га на први поглед.
 eng	srp_Cyrl	I remember everything.	Сећам се свега.
+eng	srp_Cyrl	I remember the first time I kissed you.	Сећам се кад сам те први пут пољубио.
 eng	srp_Cyrl	I resign.	Одустајем.
 eng	srp_Cyrl	I saw Marcus' house.	Видео сам Маркусову кућу.
 eng	srp_Cyrl	I saw the bus.	Видео сам аутобус.
@@ -2477,11 +2632,15 @@ eng	srp_Cyrl	Is this how it ends?	Значи овако се завршава?
 eng	srp_Cyrl	Is this seat taken?	Да ли је ово место заузето?
 eng	srp_Cyrl	Is this what you want?	Да ли је то оно што желите?
 eng	srp_Cyrl	Is Tom getting a raw deal?	Да ли је Том извукао дебљи крај?
+eng	srp_Cyrl	Is Tom happy now?	Да ли је Том сада срећан?
+eng	srp_Cyrl	Is Tom happy now?	Да ли је Том срећан сада?
 eng	srp_Cyrl	Is your car blue?	Да ли је твој ауто плав?
 eng	srp_Cyrl	It ain't over till it's over.	Није готово док се не заврши.
 eng	srp_Cyrl	It appeared to me that Tom wasn't doing what he was supposed to be doing.	Изгледало ми је да Том не ради то што треба да ради.
 eng	srp_Cyrl	It came to a heated exchange of words.	Дошло је до жучне свађе.
+eng	srp_Cyrl	It can wait until tomorrow.	Може да сачека до сутра.
 eng	srp_Cyrl	It didn't hurt.	Није болело.
+eng	srp_Cyrl	It doesn't matter who gets the credit. The important thing is that we succeeded.	Није важно ко покупи заслуге. Битно је да смо успели.
 eng	srp_Cyrl	It feels good.	Добар осећај.
 eng	srp_Cyrl	It has a great many words borrowed from foreign languages.	Велики број речи позајмљене су из страних језика.
 eng	srp_Cyrl	It has been said that doctors only need to help nature do its job.	Каже се: лекар треба само да помогне природи.
@@ -2489,8 +2648,12 @@ eng	srp_Cyrl	I think, therefore I am.	мислим, дакле јесам.
 eng	srp_Cyrl	I think, therefore I am.	мислим, дакле постојим.
 eng	srp_Cyrl	I think this is the beginning of a beautiful friendship.	Мислим да је ово почетак дивног пријатељства.
 eng	srp_Cyrl	I think Tom got a raw deal.	Мислим да је Том извукао дебљи крај.
+eng	srp_Cyrl	I think Tom is the guilty one.	Мислим да је Том кривац.
+eng	srp_Cyrl	I think we should talk about something less depressing.	Мислим да би требало да причамо о нечему мање депресивном.
+eng	srp_Cyrl	I think you're wrong, Tom.	Мислим да грешиш, Томе.
 eng	srp_Cyrl	I thought you might need help.	Мислила сам да требаш помоћ.
 eng	srp_Cyrl	It is a book.	Ово је књига.
+eng	srp_Cyrl	It is a good application to start doing sport.	То је добра апликација за почетак бављења спортом.
 eng	srp_Cyrl	It is a small dog.	То је мали пас.
 eng	srp_Cyrl	It is hers, is it not?	Њена је, зар не?
 eng	srp_Cyrl	It is hers, is it not?	Њен је, зар не?
@@ -2501,6 +2664,7 @@ eng	srp_Cyrl	It is snowing.	Пада снег.
 eng	srp_Cyrl	I told Tom to wait.	Рекао сам Тому да сачека.
 eng	srp_Cyrl	I told Tom to wait.	Рекла сам Тому да сачека.
 eng	srp_Cyrl	I told you it wouldn't work.	Рекао сам вам да то не функционише.
+eng	srp_Cyrl	I took a taxi because I missed the bus.	Ишао сам таксијем јер сам закаснио на аутобус.
 eng	srp_Cyrl	I took him to the most expensive restaurant on campus.	Одвео сам га у најскупљи ресторан у кампусу.
 eng	srp_Cyrl	I took off my wig.	Скинула сам перику.
 eng	srp_Cyrl	I took part in the contest.	Учествовао сам на конкурсу.
@@ -2508,6 +2672,15 @@ eng	srp_Cyrl	I took the first step.	Направила сам први кора�
 eng	srp_Cyrl	I took the first step.	Начинила сам први корак.
 eng	srp_Cyrl	I took the first step.	Учинила сам први корак.
 eng	srp_Cyrl	It rained.	Падала је киша.
+eng	srp_Cyrl	I tried to explain it to Tom, but he refused to listen.	Пробао сам да то објасним Тому, али је одбио да слуша.
+eng	srp_Cyrl	I tried to persuade Tom to go with us.	Пробала сам да убедим тома да пође с нама.
+eng	srp_Cyrl	I tried to persuade Tom to go with us.	Пробао сам да убедим Тома да иде са нама.
+eng	srp_Cyrl	I tried to persuade Tom to go with us.	Пробао сам да убедим Тома да крене са нама.
+eng	srp_Cyrl	I tried to persuade Tom to go with us.	Пробао сам да убедим Тома да пође с нама.
+eng	srp_Cyrl	I tried to persuade Tom to help.	Пробала сам да убедим Тома да помогне.
+eng	srp_Cyrl	I tried to persuade Tom to help.	Пробао сам да убедим Тома да помогне.
+eng	srp_Cyrl	I tried to persuade Tom to leave.	Пробала сам да убедим Тома да остане.
+eng	srp_Cyrl	I tried to persuade Tom to leave.	Пробао сам да убедим Тома да остане.
 eng	srp_Cyrl	It's 5:00 a.m. here in Brazil.	Пет сати је ујутру у Бразилу.
 eng	srp_Cyrl	It's all Greek to me.	То су за мене шпанска села.
 eng	srp_Cyrl	It's always been like that.	Одувек је било тако.
@@ -2515,7 +2688,14 @@ eng	srp_Cyrl	It's a piece of cake.	Просто као пасуљ.
 eng	srp_Cyrl	It's a snowman.	То је Снешко Белић.
 eng	srp_Cyrl	It's a timed competition.	То је временско такмичење.
 eng	srp_Cyrl	It's a weapon.	То је оружје.
+eng	srp_Cyrl	It's been a long time since Tom has written to us.	Прошло је пуно откако нам је Том писао.
+eng	srp_Cyrl	It's been a long time since we've done that.	Прошло је пуно времена откако сам радио то.
+eng	srp_Cyrl	It's been hot all week.	Целе недеље је било вруће.
 eng	srp_Cyrl	It's dark.	Мрачно је.
+eng	srp_Cyrl	It's difficult to describe it.	Тешко је описати га.
+eng	srp_Cyrl	It's difficult to describe it.	Тешко је описати је.
+eng	srp_Cyrl	It's difficult to describe it.	Тешко је описати то.
+eng	srp_Cyrl	It's either ours or theirs, I'm not sure which.	Или је наше или је њихово, нисам сигуран.
 eng	srp_Cyrl	It's empty.	Празан је.
 eng	srp_Cyrl	It's empty.	Празна је.
 eng	srp_Cyrl	It's for a friend of mine.	То је за мога пријатеља.
@@ -2529,6 +2709,7 @@ eng	srp_Cyrl	It's not as bad as it looks.	Није тако страшно ка�
 eng	srp_Cyrl	It's not that easy.	Није баш тако лако.
 eng	srp_Cyrl	It snowed.	Падао је снег.
 eng	srp_Cyrl	It snows.	Пада снег.
+eng	srp_Cyrl	It's probably the first thing they'll think of.	То је вероватно прво што ће им пасти на памет.
 eng	srp_Cyrl	It's pure escapism.	То је чисти ескапизам.
 eng	srp_Cyrl	It's shiny.	Сјајно је.
 eng	srp_Cyrl	It's the third biggest city of Serbia.	То је по величини трећи град у Србији.
@@ -2536,25 +2717,37 @@ eng	srp_Cyrl	It's time for you to get up.	Време је да устанеш.
 eng	srp_Cyrl	It's time to say goodbye.	Време је да се опростимо.
 eng	srp_Cyrl	It stinks.	Заудара.
 eng	srp_Cyrl	It stinks.	Смрди.
+eng	srp_Cyrl	It's well known but not popular.	То је свима познато, али није популарно.
+eng	srp_Cyrl	It took an hour and a half to control the blaze.	Било је потребно сат и по времена да се пожар водеве под контролу.
 eng	srp_Cyrl	It turned out to be true.	Испоставило се да је тачно.
 eng	srp_Cyrl	I turned around.	Окренула сам се.
 eng	srp_Cyrl	It was a beautiful marriage proposal.	Просидба је била дивна.
+eng	srp_Cyrl	It was great seeing you.	Било је дивно видети те.
 eng	srp_Cyrl	It was hot in every sense of the word.	Било је вруће у сваком смислу те речи.
 eng	srp_Cyrl	It was just like that.	Баш је било тако.
 eng	srp_Cyrl	It was love at first sight.	Била је то љубав на први поглед.
 eng	srp_Cyrl	It was love at first sight.	То је била љубав на први поглед.
 eng	srp_Cyrl	It wasn't a total loss.	Нисмо потпуно изгубили.
 eng	srp_Cyrl	It was only a partial success.	Успех је био само делимичан.
+eng	srp_Cyrl	It was only supposed to be an interim solution.	То је требало да буде само привремено решење.
 eng	srp_Cyrl	It was really inspiring.	Било је заиста инспиришуће.
 eng	srp_Cyrl	It works for me.	Мени одговара.
 eng	srp_Cyrl	It works.	Ради.
 eng	srp_Cyrl	It wouldn't have made any difference.	Не би било разлике.
+eng	srp_Cyrl	I usually shower in the morning.	Обично се туширам ујутру.
 eng	srp_Cyrl	I've been doing research over the last few days about how I might make money from the project, but I think all my options will require a severe shift in the way I live, which is a tricky thing.	Током последњих неколико дана сам се бавио истраживањем у вези са зарадом новца помоћу пројекта, али мислим да ће све опције захтевати наглу промену мог начина живота, што је незгодна ствар.
 eng	srp_Cyrl	I've been there twice.	Двапут сам био тамо.
 eng	srp_Cyrl	I've brought a cup of coffee.	Донео сам шољицу кафе.
 eng	srp_Cyrl	I've forgotten.	Заборавила сам.
+eng	srp_Cyrl	I've just moved in.	Управо сам се уселио.
+eng	srp_Cyrl	I've just sent you an email.	Управо сам ти послао мејл.
+eng	srp_Cyrl	I've just showered.	Само што сам се истуширала.
+eng	srp_Cyrl	I've just showered.	Управо сам се истуширао.
+eng	srp_Cyrl	I've just washed up, and now I've got to take the rubbish out.	Таман сам се окупао, и сад морам да идем да избацим ђубре.
 eng	srp_Cyrl	I've known Jim since my childhood.	Познајем Џима још од детињства.
 eng	srp_Cyrl	I've never seen Tom so busy.	Никад нисам видео Тома овако заузетог.
+eng	srp_Cyrl	I've never understood these rules.	Никад нисам разумео ова правила.
+eng	srp_Cyrl	I've never used that shovel.	Никад нисам користио ту лопату.
 eng	srp_Cyrl	I want a sword like this!	Желим мач као овај.
 eng	srp_Cyrl	I wanted to help you.	Хтео сам да вам помогнем.
 eng	srp_Cyrl	I wanted to help you.	Хтео сам да ти помогнем.
@@ -2573,30 +2766,49 @@ eng	srp_Cyrl	I was just about to say that.	Баш сам то хтео да ка
 eng	srp_Cyrl	I was just thinking about you.	Баш сам размишљао о теби.
 eng	srp_Cyrl	I was just thinking about you.	Управо сам мислио на тебе.
 eng	srp_Cyrl	"I was killed by too powerful a word!" said the poet.	Уби ме прејака реч! - рече песник.
+eng	srp_Cyrl	I wasn't expecting to be paid.	Нисам очекивао да ће ми платити.
+eng	srp_Cyrl	I wasn't expecting to be paid.	Нисам очекивао да ћу бити плаћен.
 eng	srp_Cyrl	I was trying to be nice.	Трудила сам се да будем љубазна.
 eng	srp_Cyrl	I was trying to be nice.	Трудио сам се да будем љубазан.
 eng	srp_Cyrl	I was trying to be nice.	Трудио сам се да будем фин.
+eng	srp_Cyrl	I was tying my shoelaces.	Везивао сам пертле.
 eng	srp_Cyrl	I was very excited.	Био сам веома узбуђен.
 eng	srp_Cyrl	I watched Tom die.	Гледала сам Тома како умире.
 eng	srp_Cyrl	I watched Tom die.	Гледао сам Тома како умире.
+eng	srp_Cyrl	I went shopping yesterday.	Јуче сам ишао у шопинг.
 eng	srp_Cyrl	I went there on my own free will.	Отишао сам тамо добровољно
 eng	srp_Cyrl	I will be late.	Закаснићу.
 eng	srp_Cyrl	I will contact you as soon as I arrive.	Јавићу ти се чим стигнем.
 eng	srp_Cyrl	I will eat supper at seven.	Вечераћу у седам.
 eng	srp_Cyrl	I will give you the money tomorrow.	Сутра ћу ти дати новац.
 eng	srp_Cyrl	I will have to change my ways.	Мораћу да мењам своје навике.
+eng	srp_Cyrl	I wish I could meet a guy like Tom who is single.	Волела бих да могу да упознам момка као што је Том, који је соло.
+eng	srp_Cyrl	I wish I could spend more time here in Boston with you.	Волео бих да могу да проведем више времена са тобом овде у Бостону.
+eng	srp_Cyrl	I wish I could spend more time with friends.	Волео бих да више времена могу да проводим са својим пријатељима.
+eng	srp_Cyrl	I wish I could spend more time with my friends.	Волео бих да могу више времена да проводим са својим пријатељима.
 eng	srp_Cyrl	I wish I had known.	Да сам бар знао.
+eng	srp_Cyrl	I wish I were there with you.	Волела бих да сам тамо с тобом.
+eng	srp_Cyrl	I wish I were there with you.	Волео бих да сам тамо са тобом.
+eng	srp_Cyrl	I wish I were with you.	Волела бих да сам с тобом.
+eng	srp_Cyrl	I wish I were with you.	Волео бих да сам са тобом.
+eng	srp_Cyrl	I wonder if Tom is the guilty one.	Питам се да ли је Том тај који је крив.
 eng	srp_Cyrl	I wonder who this sentence belongs to.	Питам се чија је ово реченица.
+eng	srp_Cyrl	I wonder why Tom is so mad at Mary.	Питам се зашто је Том толико бесан на Мери.
 eng	srp_Cyrl	I won't let you do that.	Нећу ти дозволити да то урадиш.
 eng	srp_Cyrl	I work at a language school.	Ја радим у школи за језике.
+eng	srp_Cyrl	I work part-time at a bookstore.	Радим хонорарно у књижари.
 eng	srp_Cyrl	I would be thankful to you if you stayed until tomorrow.	Био бих вам захвалан ако бисте остали до сутра.
 eng	srp_Cyrl	I would have said yes.	Мораћу да кажем, да.
+eng	srp_Cyrl	I wouldn't be able to solve the problem, even if I tried.	Не бих могао да решим проблем, чак ако бих пробао.
 eng	srp_Cyrl	I wouldn't hurt him.	Не бих га повредила.
 eng	srp_Cyrl	I wouldn't hurt him.	Не бих га повредио.
 eng	srp_Cyrl	I wouldn't hurt them.	Не бих их повредио.
 eng	srp_Cyrl	I wouldn't hurt you.	Не бих те повредила.
 eng	srp_Cyrl	I wouldn't hurt you.	Не бих те повредио.
 eng	srp_Cyrl	Jane is sick in bed.	Џејн лежи болесна у кревету.
+eng	srp_Cyrl	Judging from how they're dressed, I'd guess they don't have much money.	Судећи по томе како су обучени, ја бих рекао да они немају много новца.
+eng	srp_Cyrl	Judging from how you did on the exam, you probably should've studied harder.	Судећи по томе како си урадила испит, ти би вероватно морала више да учиш.
+eng	srp_Cyrl	Judging from the sky, I'd say it's going to start raining soon.	Судећи по небу, ја бих рекао да ће ускоро падати киша.
 eng	srp_Cyrl	Just close your eyes.	Само зажмури.
 eng	srp_Cyrl	Just close your eyes.	Само затвори очи.
 eng	srp_Cyrl	Just in time!	Баш на време!
@@ -2615,12 +2827,19 @@ eng	srp_Cyrl	Lemon is sour.	Лимун је кисео.
 eng	srp_Cyrl	Let him have it.	Нека плати за оно што је учинио.
 eng	srp_Cyrl	Let me check.	Само да проверим.
 eng	srp_Cyrl	Let me in.	Пусти ме унутра.
+eng	srp_Cyrl	Let me know if anything bad happens.	Јави ми ако се било шта лоше догоди.
+eng	srp_Cyrl	Let me know if anything bad happens.	Јави ми ако се деси нешто лоше.
+eng	srp_Cyrl	Let me know if anything bad happens.	Јавите ми ако се деси било шта лоше.
 eng	srp_Cyrl	Let me sit down.	Дај да седнем.
+eng	srp_Cyrl	Let me tell you what happened to me.	Да ти кажем шта ми се десило.
 eng	srp_Cyrl	Let's get to know each other.	Упознајмо се!
 eng	srp_Cyrl	Let's go!	Идемо.
 eng	srp_Cyrl	Let's hope this never happens again.	Надам се да се ово више никада неће поновити.
+eng	srp_Cyrl	Let's meet for lunch.	Хајде да се нађемо за ручак.
 eng	srp_Cyrl	Let's sit down.	Седнимо.
 eng	srp_Cyrl	Let's start right away.	Почнимо одмах.
+eng	srp_Cyrl	Let's stay up all night, studying for tomorrow's exam.	Останимо будни целу ноћ учећи за сутрашњи испит.
+eng	srp_Cyrl	Let's talk about what we should do.	Хајде да причамо о томе шта бисмо могли да урадимо.
 eng	srp_Cyrl	Let your imagination run wild.	Пусти машти на вољу.
 eng	srp_Cyrl	Life begins when we realize who we really are.	Живот почиње онда, када схватимо ко смо ми заправо.
 eng	srp_Cyrl	Life is sweet.	Живот је сладак.
@@ -2628,6 +2847,9 @@ eng	srp_Cyrl	Like father, like son.	Какав отац, такав син.
 eng	srp_Cyrl	Live long and prosper.	Живи дуго и осећај се добро!
 eng	srp_Cyrl	Logic is obviously your strong point.	Логика је очигледно твоја јача страна.
 eng	srp_Cyrl	Look around.	Погледај унаоколо.
+eng	srp_Cyrl	Look elsewhere.	Погледај негде другде.
+eng	srp_Cyrl	Look inside.	Погледајте унутра.
+eng	srp_Cyrl	Look inside.	Погледај унутра.
 eng	srp_Cyrl	Look there.	Погледајте тамо.
 eng	srp_Cyrl	Make love, not war.	Водите љубав, а не рат!
 eng	srp_Cyrl	Make no mistake about it.	Без икакве сумње.
@@ -2635,13 +2857,16 @@ eng	srp_Cyrl	Make no mistake about it.	Будите уверени у то.
 eng	srp_Cyrl	Make yourself at home.	Осећај се као код куће.
 eng	srp_Cyrl	Man has many wishes that he does not really wish to fulfil, and it would be a misunderstanding to suppose the contrary. He wants them to remain wishes, they have value only in his imagination; their fulfilment would be a bitter disappointment to him. Such a desire is the desire for eternal life. If it were fulfilled, man would become thoroughly sick of living eternally, and yearn for death.	Човек има много жеља које заправо ни не жели да се остваре, и било би погрешно претпоставити супротно.Он жели да оне остану само жеље; оне имају вредност само у његовој машти; њихово остваривање било би за њега горко разочарење.Таква једна жеља је и жеља за вечним животом. Да је била испуњена, човек би постао потпуно болестан од бесконачног живота, и желео би смрт.
 eng	srp_Cyrl	Man hopes as long as he lives.	Све док човек живи, нада се.
+eng	srp_Cyrl	Many factors need to be considered.	Много утицаја мора да се узме у обзир.
 eng	srp_Cyrl	Many great thinkers who were unknown while alive became famous after death.	Многи велики мислиоци који су током живота били непознати су постали славни након смрти.
+eng	srp_Cyrl	Many of my friends have died.	Многи од мојих пријатеља су умрли.
 eng	srp_Cyrl	Mary began to feel hot under the collar.	Марија је била бесна као рис.
 eng	srp_Cyrl	Mary giggled.	Марија се закикотала.
 eng	srp_Cyrl	Mary has lost her key.	Мери је изгубила кључ.
 eng	srp_Cyrl	Mary makes her living by sewing.	Мери живи од шивења.
 eng	srp_Cyrl	Mary makes her living by sewing.	Мери зарађује за живот шијући.
 eng	srp_Cyrl	Mary started taking her clothes off.	Марија је почела да се скида.
+eng	srp_Cyrl	May I ask you about something totally unrelated?	Да ли могу да вас питам о нечем потпуно неповезаном?
 eng	srp_Cyrl	May I have your email, please?	Да ли могу да добијем твој имејл, молићу?
 eng	srp_Cyrl	Mayuko had a strange dream.	Мајуко је уснила чудан сан.
 eng	srp_Cyrl	Measure thrice, cut once.	Трипут мери, једном сеци.
@@ -2650,6 +2875,8 @@ eng	srp_Cyrl	Me, too.	И ја такође.
 eng	srp_Cyrl	Mini-skirts are back in fashion again.	Мини сукње су поново модерне.
 eng	srp_Cyrl	Mini-skirts are back in fashion again.	Мини сукње су се вратиле у моду.
 eng	srp_Cyrl	Miss Pizza and Mr Porridge were walking in the woods.	Девојка Пица и господин каша шетали су у шуми.
+eng	srp_Cyrl	Mom loves you more than she loves me.	Мама воли тебе више него што воли мене.
+eng	srp_Cyrl	Mom loves you more than she loves me.	Мама те воли више него мене.
 eng	srp_Cyrl	Money is not a criterion of success.	Новац није мерило успеха.
 eng	srp_Cyrl	Mosquitoes in Minnesota are as big as storks.	Комарци у Минесоти су велики као роде.
 eng	srp_Cyrl	Mother has just gone out shopping.	Мама је управо отишла у куповину.
@@ -2667,6 +2894,7 @@ eng	srp_Cyrl	My father always said that heaven helps those who help themselves.	
 eng	srp_Cyrl	My father is so old that he can't work.	Мој отац је толико стар да не може да ради.
 eng	srp_Cyrl	My French is crappy.	Мој француски је срање.
 eng	srp_Cyrl	My French is shitty.	Мој француски је срање.
+eng	srp_Cyrl	My girlfriend broke up with me last night.	Девојка ми је раскинула синоћ.
 eng	srp_Cyrl	My hands are cold.	Руке су ми хладне.
 eng	srp_Cyrl	My jaw dropped.	Зинуо сам од чуда.
 eng	srp_Cyrl	My mother is a woman.	Мајка је жена.
@@ -2674,6 +2902,7 @@ eng	srp_Cyrl	My name is Jack.	Зовем се Џек.
 eng	srp_Cyrl	My name is James, but please call me Jim.	Моје име је Џејмс,али молим те зови ме Џим.
 eng	srp_Cyrl	My name is not "you"; it's Ricardo.	Моје име није „ти“ ; већ Рикардо.
 eng	srp_Cyrl	My name's Ricardo. What's yours?	Моје име је Рикардо.Како се ти зовеш?
+eng	srp_Cyrl	My pants are already dirty, so I might as well sit on the ground.	Панталоне су ми већ прљаве, па нема бриге и ако седнем на земљу.
 eng	srp_Cyrl	My parents are dead.	Моји родитељи су умрли.
 eng	srp_Cyrl	My parents are dead.	Родитељи су ми умрли.
 eng	srp_Cyrl	My water broke on the evening of the predicted birth date.	Мој водењак је пукао у вечерњним сатима предвиђеног датума.
@@ -2682,26 +2911,42 @@ eng	srp_Cyrl	Never will I see her again.	Никада је више нећу в�
 eng	srp_Cyrl	New York is a big city.	Њујорк је велики град.
 eng	srp_Cyrl	Nice to see you again.	Драго ми је да те опет видим.
 eng	srp_Cyrl	Nice to see you again.	Драго ми је што те видим поново.
+eng	srp_Cyrl	Nobody helped Tom do that.	Тому нико није помогао да уради то.
+eng	srp_Cyrl	Nobody screamed.	Нико није викао.
+eng	srp_Cyrl	Nobody screamed.	Нико није вриснуо.
+eng	srp_Cyrl	Nobody survived.	Нико није преживео.
 eng	srp_Cyrl	No fewer than 50 passengers were killed.	Најмање 50 путника је погинуло.
 eng	srp_Cyrl	No one asked your opinion.	Нико те није питао за мишљење.
+eng	srp_Cyrl	No one backed Tom up.	Нико није подржао Тома.
+eng	srp_Cyrl	No one helped Tom do that.	Нико није помогао Тому да уради то.
 eng	srp_Cyrl	No one is immortal.	Нико није бесмртан.
 eng	srp_Cyrl	No one is working. Everyone's watching the World Cup.	Нико не ради. Сви гледају Светско првенство.
 eng	srp_Cyrl	No one said anything.	Нико није ништа рекао.
 eng	srp_Cyrl	No one trusts anyone anymore.	Нико ником више не верује.
 eng	srp_Cyrl	No one trusts him any more.	Нико му више не верује.
+eng	srp_Cyrl	No one wanted to go ice skating with me.	Нико није желео да иде на клизање са мном.
+eng	srp_Cyrl	No one was allowed on board.	Ником није било дозвољено да се укрца.
+eng	srp_Cyrl	No one was on board at the time.	Нико није био укрцан у том тренутку.
 eng	srp_Cyrl	No problem.	Није проблем.
 eng	srp_Cyrl	Not every lamp is magic.	Није свака лампа чаробна.
+eng	srp_Cyrl	Not everyone can do this.	Нико не може да то уради.
+eng	srp_Cyrl	Not everyone wanted to help.	Нико није желео да помогни.
+eng	srp_Cyrl	Not everyone wanted to help.	Нису сви желели да помогну.
 eng	srp_Cyrl	Nothing's going my way today.	Данас ми ништа не иде од руке.
 eng	srp_Cyrl	Not yet.	Још не.
 eng	srp_Cyrl	Now introduce yourself using these sentences!	Сада представите себе користећи ове Реченице!
 eng	srp_Cyrl	No words are necessary.	Нису потребне речи.
 eng	srp_Cyrl	No words are necessary.	Речи нису потребне.
+eng	srp_Cyrl	Obey traffic regulations.	Придржавајте се саобраћајних правила.
 eng	srp_Cyrl	Of course!	Наравно!
 eng	srp_Cyrl	Of course.	Наравно.
 eng	srp_Cyrl	Oh no!	О, не!
 eng	srp_Cyrl	On a separate sheet of paper, describe your best friend: age, where he or she lives, his or her job, etc.	На одвојеној страни папира,опишите вашег пријатеља: године,где она или он живи, његов или њен посао итд.
 eng	srp_Cyrl	One day he will be mine.	Једног дана биће мој.
 eng	srp_Cyrl	One day you'll understand.	Једног дана ћеш разумети.
+eng	srp_Cyrl	One of the doors is open.	Једна од врата била су отворена.
+eng	srp_Cyrl	One of the doors was open.	Једна од врата су била отворена.
+eng	srp_Cyrl	One of the students in the back raised his hand.	Један од ученика из задње клупе подиже руку.
 eng	srp_Cyrl	One, two, three, four, five, six, seven, eight, nine, ten.	Један, два, три, четири, пет, шест, седам, осам, девет, десет.
 eng	srp_Cyrl	Open fire!	Отвори паљбу!
 eng	srp_Cyrl	Open the door for love.	Отворите врата за љубав.
@@ -2712,15 +2957,19 @@ eng	srp_Cyrl	Our yacht club has ten members.	Наш јахт клуб има д�
 eng	srp_Cyrl	Pardon, I am late to the meeting.	Извините, закаснио сам на седницу.
 eng	srp_Cyrl	Pardon me, do you speak English?	Пардон, да ли говорите енглески?
 eng	srp_Cyrl	Parliament has been dissolved.	Парламент је распуштен.
+eng	srp_Cyrl	Penguins aren't able to fly, but they can swim.	Пингвини не могу да лете, али могу да пливају.
 eng	srp_Cyrl	Peter loves Jane.	Питер воли Џејн.
 eng	srp_Cyrl	Picasso is a famous artist.	Пикасо је чувени уметник.
 eng	srp_Cyrl	Play it again, Sam.	Свирај то поново, Сем.
 eng	srp_Cyrl	Please add me on Facebook.	Молим те, додај ме на Фејсбуку.
 eng	srp_Cyrl	Please continue.	Молим Вас, наставите.
 eng	srp_Cyrl	Please continue.	Молим те, настави.
+eng	srp_Cyrl	Please get me a taxi.	Молим Вас, позовите ми такси.
+eng	srp_Cyrl	Please help.	Помозите ми.
 eng	srp_Cyrl	Please hurry.	Молим вас, пожурите.
 eng	srp_Cyrl	Please leave.	Молим вас, идите.
 eng	srp_Cyrl	Please leave.	Молим те, иди.
+eng	srp_Cyrl	Please lend me some money.	Молим те, позајми ми нешто новца.
 eng	srp_Cyrl	Please read between the lines.	Молим вас да читате између редова.
 eng	srp_Cyrl	Please sit.	Молим вас, седите.
 eng	srp_Cyrl	Please step aside.	Молим те, склони се.
@@ -2728,6 +2977,10 @@ eng	srp_Cyrl	Please stop here.	Молим вас, зауставите овде.
 eng	srp_Cyrl	Please write it down.	Молим вас, напишите то.
 eng	srp_Cyrl	Put the book on the top shelf.	Стави књигу на горњу полицу.
 eng	srp_Cyrl	Put your hands up!	Руке увис!
+eng	srp_Cyrl	Quiet, Tom.	Тихо, Томе.
+eng	srp_Cyrl	Quiet, Tom.	Тише, Томе.
+eng	srp_Cyrl	Quit bragging.	Не размећи се више.
+eng	srp_Cyrl	Quit bragging.	Престани да се размећеш.
 eng	srp_Cyrl	Quit gambling.	Престани да се коцкаш.
 eng	srp_Cyrl	Read this.	Прочитајте ово.
 eng	srp_Cyrl	Read this.	Читајте ово.
@@ -2735,6 +2988,7 @@ eng	srp_Cyrl	Really?	Стварно?
 eng	srp_Cyrl	Redheads drive me crazy!	Риђокосе ме излуђују!
 eng	srp_Cyrl	Redheads drive me crazy!	Црвенокосе ме излуђују!
 eng	srp_Cyrl	Refugees are welcome.	Избеглице су добродошле.
+eng	srp_Cyrl	Remembering is more satisfying than forgetting.	Сећање пружа веће задовољство од заборава.
 eng	srp_Cyrl	Ricky, this is my friend Suzuki.	Рики, ово је мој пријатељ Сузуки.
 eng	srp_Cyrl	Romans, go home!	Римљани, идите кући!
 eng	srp_Cyrl	Russia is under attack.	Русија је нападнута.
@@ -2751,6 +3005,7 @@ eng	srp_Cyrl	She came alone.	Дошла је сама.
 eng	srp_Cyrl	She came alone.	Она је дошла сама.
 eng	srp_Cyrl	She cared for her son.	Бринула се о свом сину.
 eng	srp_Cyrl	She cooked him meals.	Она му спрема оброке.
+eng	srp_Cyrl	She decided to move to Belgium.	Одлучила је да се пресели у Белгију.
 eng	srp_Cyrl	She divorced her husband.	Она се развела од мужа.
 eng	srp_Cyrl	She doesn't like being told what to do.	Не воли да јој се каже шта да ради.
 eng	srp_Cyrl	She doesn't speak English, let alone French.	Она не говори енглески, а камоли француски.
@@ -2799,11 +3054,14 @@ eng	srp_Cyrl	Smoking is prohibited in every section of the restaurant.	Пуше�
 eng	srp_Cyrl	Snow is falling.	Пада снег.
 eng	srp_Cyrl	Snow melts in the spring.	Снег се топи у пролеће.
 eng	srp_Cyrl	So goes life!	Такав је живот!
+eng	srp_Cyrl	Some areas are still closed after the incident.	Неке области су и даље затворене после незгоде.
+eng	srp_Cyrl	Somebody is knocking on the door. It must be Tom.	Неко куца на врата. Мора да је Том.
 eng	srp_Cyrl	Someday you should give it a try.	Једнога дана би требало да покушаш.
 eng	srp_Cyrl	Somehow we survived.	Некако смо преживели.
 eng	srp_Cyrl	Somehow we survived.	Преживели смо некако.
 eng	srp_Cyrl	Someone called.	Неко је звао.
 eng	srp_Cyrl	Someone came.	Неко је дошао.
+eng	srp_Cyrl	Someone needs to clean this room.	Неко мора да почисти ову собу.
 eng	srp_Cyrl	Some people, no matter how old they get, never lose their beauty.	Неки људи без обзира на своје године, не губе лепоту.
 eng	srp_Cyrl	Some people, no matter how old they get, never lose their beauty.	Неки људи без обзира у ком добу су, не губе своју лепоту.
 eng	srp_Cyrl	Speak clearly.	Говори јасно.
@@ -2825,11 +3083,15 @@ eng	srp_Cyrl	Stop moving!	Престани да се мрдаш!
 eng	srp_Cyrl	Stop moving!	Престаните да се крећете!
 eng	srp_Cyrl	Stop moving!	Престаните да се мрдате!
 eng	srp_Cyrl	Stop resisting!	Престани да се одупиреш!
+eng	srp_Cyrl	Stop shoving.	Доста с гурањем.
+eng	srp_Cyrl	Stop shoving.	Престани да се гураш.
 eng	srp_Cyrl	Stop that!	Доста!
 eng	srp_Cyrl	Stop that!	Престани!
 eng	srp_Cyrl	Stop that!	Престани с тим!
 eng	srp_Cyrl	Stop worrying.	Престани да бринеш.
 eng	srp_Cyrl	Stuff happens.	Деси се.
+eng	srp_Cyrl	Take both.	Узми оба.
+eng	srp_Cyrl	Talking with foreigners is a lot of fun.	Причање са странцима је веома забавно.
 eng	srp_Cyrl	Tell her I'm innocent.	Реци јој да сам невин.
 eng	srp_Cyrl	Tell her.	Кажи јој.
 eng	srp_Cyrl	Tell him I'm innocent.	Кажи му да сам невина.
@@ -2842,6 +3104,8 @@ eng	srp_Cyrl	Thanks anyway.	Свакако, хвала.
 eng	srp_Cyrl	Thanks for accepting my friend request on Facebook.	Хвала што си прихватио мој захтев за пријатеља на Фејсбуку.
 eng	srp_Cyrl	Thanks for coming!	Хвала што си дошао!
 eng	srp_Cyrl	Thanks for your email!	Хвала на имејлу!
+eng	srp_Cyrl	Thanks, Tom.	Хвала ти, Томе.
+eng	srp_Cyrl	Thanks, Tom.	Хвала, Томе.
 eng	srp_Cyrl	Thank you so much, my friends!	Много вам хвала, моји пријатељи!
 eng	srp_Cyrl	Thank you very much for everything.	Хвала вам пуно на свему!
 eng	srp_Cyrl	Thank you very much. You should also feel free to ask me for help in the future.	Хвала ти пуно.Ти би такође требало да се осетиш слободним и затражиш помоћ у будућности.
@@ -2883,18 +3147,25 @@ eng	srp_Cyrl	That was terrible.	То је било страшно.
 eng	srp_Cyrl	That was very good.	Баш је било добро.
 eng	srp_Cyrl	That was very good.	То је било врло добро.
 eng	srp_Cyrl	That whiskey is very strong.	Тај виски је веома јак.
+eng	srp_Cyrl	That would be a huge mistake.	То би била огромна грешка.
 eng	srp_Cyrl	The average American living space is twice as large as the living space in Japan.	Просечан животни простор у Америци је двоструко већи него у Јапану.
 eng	srp_Cyrl	The baby fell asleep.	Беба је заспала.
 eng	srp_Cyrl	The bathroom is upstairs.	Купатило је на спрату.
 eng	srp_Cyrl	The bedroom is upstairs.	Спаваћа соба је на спрату.
 eng	srp_Cyrl	The best lecture that you can attend is the one you won't understand.	Најбоље предавање ком можеш присуствовати је оно које не разумеш.
+eng	srp_Cyrl	The best time to go shopping is between three o'clock and five o'clock.	Најбоље време за куповину је између три и пет сати.
 eng	srp_Cyrl	The bird on the roof is a crow.	Птица на крову је врана.
+eng	srp_Cyrl	The book is better than the movie.	Књига је боља од филма.
 eng	srp_Cyrl	The book is out of print.	Књига је распродата.
 eng	srp_Cyrl	The bullet went through his body.	Метак је прошао кроз његово тело.
+eng	srp_Cyrl	The ceremony will last for a little over thirty minutes.	Церемонија ће трајати мало преко тридесет минута.
+eng	srp_Cyrl	The ceremony will last for just over half an hour.	Церемонија ће трајати нешто преко пола сата.
 eng	srp_Cyrl	The chairman called the meeting to order.	Председавајући је отворио седницу.
 eng	srp_Cyrl	The children are playing outside.	Деца се играју напољу.
+eng	srp_Cyrl	The clock on the wall said it was 2:30.	Сат на зиду је показивао да је 2:30.
 eng	srp_Cyrl	The conference was not a complete success.	Конференција није баш била успешна.
 eng	srp_Cyrl	The cost of living is rising.	Трошкови живота расту.
+eng	srp_Cyrl	The depth of the river is about ten meters.	Дубина реке је десетак метара.
 eng	srp_Cyrl	The document passed into the enemy's hands.	Документ је доспео у непријатељске руке.
 eng	srp_Cyrl	The door of the office is yellow.	Врата канцеларије су жута.
 eng	srp_Cyrl	The eagle is king of birds.	Орао је цар птица.
@@ -2924,14 +3195,20 @@ eng	srp_Cyrl	The police are after me.	Полиција ме јури.
 eng	srp_Cyrl	The pronunciation is as follows:	Изговара се овако:
 eng	srp_Cyrl	The quarterly growth of 1.2% means an annual growth rate of 4.8%.	Тромесечни раст од 1,2% значи годишњи раст од 4,9%.
 eng	srp_Cyrl	There are all kinds of flowers in that garden.	У башти има свакакве врсте цвећа.
+eng	srp_Cyrl	There are always selfish people to ruin everything.	Увек постоје себични људи који све руше.
 eng	srp_Cyrl	There are many mysteries in life.	Постоји много тајни у животу.
 eng	srp_Cyrl	There goes our bus. Now we'll have to walk.	Оде нам аутобус. Мораћемо сад да идемо пешке.
 eng	srp_Cyrl	There goes our bus. Now we'll have to walk.	Оде нам аутобус. Мораћемо сад пешице.
 eng	srp_Cyrl	There goes our bus.	Оде наш аутобус.
 eng	srp_Cyrl	There is no rule without exception.	Нема постоји правило без изузетка.
 eng	srp_Cyrl	There is no such thing, at this stage of the world’s history in America, as an independent press. You know it and I know it. There is not one of you who dare write your honest opinions, and if you did, you know beforehand that it would never appear in print. I am paid weekly for keeping my honest opinions out of the paper I am connected with. Others of you are paid similar salaries for similar things, and any of you who would be foolish as to write honest opinions would be out on the streets looking for another job. If I allowed my honest opinions to appear in one issue of my papers, before twenty-four hours my occupation would be gone. The business of the journalist is to destroy the truth, to lie outright, to pervert, to vilify, to fawn at the feet of Mammon, and to sell his country and his race for his daily bread. You know it and I know it, and what folly is this toasting an independent press? We are the jumping jacks, they pull the strings and we dance. Our talents, our possibilities and our lives are all the property of other men. We are intellectual prostitutes.	У овој фази светске историје, у Америци не постоји једна таква ствар као што је независна штампа. Ви то знате и ја то знам. Међу вама нема ни једног који се усуђује да напише своје искрено мишљење, и кад би га написао, већ унапред би знао да се то никада неће појавити у штампи. Ја сам добијао редовно своју плату како бих држао своје искрено мишљење изван новина за које радим. Многи од вас су такође слично плаћени за сличне ствари, и било ко од вас ко би био толико луд да пише оно што искрено мисли, нашао би се напољу, на улици, у потрази за неким другим послом. Да сам ја дозволио да се моје право мишљење појави само у једном издању новина за које радим, добио бих отказ с посла за мање од 24 часа. (...)
+eng	srp_Cyrl	There's a tree in the park.	У парку је дрво.
+eng	srp_Cyrl	There's more than enough food on the planet for everyone, but our economic system prevents us from properly distributing it.	Има више него довољно хране на плати за све људе, али наш економски систем нас спречава да је ваљано дистрибуирамо.
 eng	srp_Cyrl	The rest doesn't matter.	Све остало је неважно.
+eng	srp_Cyrl	There used to be houses here.	Овде су некад биле куће.
 eng	srp_Cyrl	There've been no injuries.	Није било повређених.
+eng	srp_Cyrl	There were over thirty children on board the ship that sank.	Било је преко тридесеторо деце на броду који је потонуо.
+eng	srp_Cyrl	There were some boys playing near the river.	Неки дечаци су се играли близу реке.
 eng	srp_Cyrl	The river that flows through Paris is called the Seine.	Река која тече кроз Париз назива се Сена.
 eng	srp_Cyrl	These are very old books.	То су врло старе књиге.
 eng	srp_Cyrl	The situation was extremely dangerous; it was a matter of life and death.	Ситуација је била веома опасна; било је питање живота и смрти.
@@ -2954,12 +3231,17 @@ eng	srp_Cyrl	The whole country is talking about it.	Цела држава о т�
 eng	srp_Cyrl	The wind has abated.	Ветар је попустио.
 eng	srp_Cyrl	The wind is blowing like crazy.	Ветар дува као блесав.
 eng	srp_Cyrl	The window is made of glass.	Прозор је од стакла.
+eng	srp_Cyrl	The windows are dirty.	Прозори су прљави.
 eng	srp_Cyrl	The woman eats bread.	Жена једе хлеб.
+eng	srp_Cyrl	The words delicious and disgusting are antonyms.	Речи укусно и одвратно су антоними.
+eng	srp_Cyrl	The working conditions weren't very good.	Радни услови ниси били нешто добри.
+eng	srp_Cyrl	The working conditions weren't very good.	Радни услови нису били баш добри.
 eng	srp_Cyrl	The world is unjust.	Свет је неправедан.
 eng	srp_Cyrl	The Worldwide Web was invented by Tim Berners-Lee in 1989.	Веб је изумео 1989. године Том Бернерс Ли.
 eng	srp_Cyrl	They can't get enough of each other.	Не могу да се засите један другога.
 eng	srp_Cyrl	They decided to get married.	Одлучили су да се узму.
 eng	srp_Cyrl	They decided to marry.	Одлучили су да се венчају.
+eng	srp_Cyrl	They deliberately created a hostile environment.	Намерно су направили непријатељски настројено окружење.
 eng	srp_Cyrl	They did an unimaginable job.	Они су урадили незамислив посао.
 eng	srp_Cyrl	They don't teach you that in school.	То се не учи у школи.
 eng	srp_Cyrl	They know you.	Знају те.
@@ -2973,17 +3255,22 @@ eng	srp_Cyrl	They needed one another.	Они су потребни једни д
 eng	srp_Cyrl	They needed one another.	Потребни су једни другима.
 eng	srp_Cyrl	The young man is often foolhardy.	Млад човек је често непромишљен.
 eng	srp_Cyrl	They're digging a hole.	Они копају рупу.
+eng	srp_Cyrl	They're not even trying to understand.	Они ни не покушавају да разумеју.
 eng	srp_Cyrl	They're waiting for us.	Чекају нас.
 eng	srp_Cyrl	They say love is blind.	Каже се да је љубав слепа.
 eng	srp_Cyrl	They say love is blind.	Кажу да је љубав слепа.
 eng	srp_Cyrl	They say love is blind.	Кажу, љубав је слепа.
 eng	srp_Cyrl	They substituted coal for oil.	Они су заменили угаљ нафтом.
+eng	srp_Cyrl	They were sitting on a bench outside the house, waiting for Tom.	Седели су на клупи испред куће, чекајући Тома.
 eng	srp_Cyrl	They won.	Победили су.
 eng	srp_Cyrl	They work together.	Раде заједно.
 eng	srp_Cyrl	Things are not always what they seem.	Ствари нису увек онакве како изгледају.
+eng	srp_Cyrl	Think big.	Мисли на велико.
 eng	srp_Cyrl	This box is almost empty.	Ова кутија је скоро празна.
+eng	srp_Cyrl	This has been a pretty bad year for our company.	Ова година је била прилично лоша за нашу компанију.
 eng	srp_Cyrl	This is a book.	Ово је књига.
 eng	srp_Cyrl	This is a good textbook.	Ово је добар уџбеник.
+eng	srp_Cyrl	This is an absurd situation.	То је апсурдна ситуација.
 eng	srp_Cyrl	This is a sentence.	Ово је реченица.
 eng	srp_Cyrl	This is Brian Rock.	Ово је Брајан Рок.
 eng	srp_Cyrl	This is going to take forever.	Ово ће трајати читаву вечност.
@@ -2991,81 +3278,168 @@ eng	srp_Cyrl	This is how it should have been.	Овако је требало д�
 eng	srp_Cyrl	This is just like old times.	Као у добра стара времена.
 eng	srp_Cyrl	This is my wife Edita.	Ово је моја жена Едита.
 eng	srp_Cyrl	This is not true.	Ово није истина.
+eng	srp_Cyrl	This isn't exactly the kind of house I want to live in.	Ово није баш кућа у каквој желим да живим.
 eng	srp_Cyrl	This isn't exactly what I wanted.	Ово није тачно баш оно што сам желела.
 eng	srp_Cyrl	This is taking forever.	Ово траје читаву вечност.
+eng	srp_Cyrl	This is the first time I've ever done this kind of thing.	Ово је први пут икад да радим нешто овако.
+eng	srp_Cyrl	This is the place.	Ово је то место.
+eng	srp_Cyrl	This is your table.	Ово је твој сто.
 eng	srp_Cyrl	This model can be combined with any color.	Овај модел се може комбиновати са било којом бојом.
 eng	srp_Cyrl	This road goes to the city.	Овај пут води у град.
 eng	srp_Cyrl	This should do the trick.	Требало би да успе овако.
 eng	srp_Cyrl	This tea is good.	Овај чај је добар.
+eng	srp_Cyrl	Three men remain in critical condition.	Тројица мушкараца остаје у критичном стању.
+eng	srp_Cyrl	Three of the windows are open.	Три прозора су отворена.
+eng	srp_Cyrl	Three of the windows were open.	Три прозора су била отворена.
+eng	srp_Cyrl	Three other suspects remain at large.	Преостала три осумњичена су на слободи.
 eng	srp_Cyrl	Time flew.	Време је пролетело.
 eng	srp_Cyrl	Time has no end. It's endless.	Време нема крај. Оно је бескрајно.
+eng	srp_Cyrl	Time stopped.	Време је стало.
+eng	srp_Cyrl	Time stopped.	Време стаде.
 eng	srp_Cyrl	Tom adopted a Russian sentence.	Том је присвојио руску реченицу.
+eng	srp_Cyrl	Tom always blames others.	Том увек криви друге.
+eng	srp_Cyrl	Tom always carries a pocketknife with him.	Том увек носи перорез са собом.
+eng	srp_Cyrl	Tom and Mary don't get along well.	Том и Мери се не слажу.
+eng	srp_Cyrl	Tom became distant.	Том је постао отуђен.
 eng	srp_Cyrl	Tom began to feel hot under the collar.	Тома је био бесан као рис.
 eng	srp_Cyrl	Tom begged Mary to give him one more chance.	Том је молио Мери да му пружи још једну шансу.
 eng	srp_Cyrl	Tom blushed.	Том је поцрвенео.
+eng	srp_Cyrl	Tom collapsed.	Том се срушио.
+eng	srp_Cyrl	Tom didn't want any help doing that.	Том није желео да му било ко помаже док ради то.
+eng	srp_Cyrl	Tom died in an accident three weeks ago.	Том је пре три недеље погинуо у несрећи.
 eng	srp_Cyrl	Tom died in his thirties.	Том је умро у својим тридесетим.
 eng	srp_Cyrl	Tom disappeared.	Том је нестао.
+eng	srp_Cyrl	Tom doesn't want to hear the truth.	Том не жели да чује истину.
+eng	srp_Cyrl	Tom doesn't want us here, so let's go.	Том нас не жели овде; хајдемо.
+eng	srp_Cyrl	Tom does what he pleases.	Том ради шта хоће.
 eng	srp_Cyrl	Tom drinks beer.	Том пије пиво.
 eng	srp_Cyrl	Tom drinks like a fish.	Том пије као смук.
+eng	srp_Cyrl	Tom explained to his grandfather how to use a cash machine.	Том је објаснио свом деди како да користи банкомат.
 eng	srp_Cyrl	Tom fell back to sleep.	Том је опет заспао.
+eng	srp_Cyrl	Tom fell eight meters.	Том је пао осам метара.
+eng	srp_Cyrl	Tom felt very alone.	Том се осетио веома усамљено.
+eng	srp_Cyrl	Tom got bitten by a snake.	Тома је ујела змија.
 eng	srp_Cyrl	Tom got on the wrong bus.	Том је ушао у погрешан аутобус.
+eng	srp_Cyrl	Tom got to the cabin before we did.	Том је ушао у кабину пре нас.
+eng	srp_Cyrl	Tom had no cash on him.	Том није имао кеш код себе.
+eng	srp_Cyrl	Tom had no help doing that.	Тому нико није помогао у томе.
+eng	srp_Cyrl	Tom had serious injuries.	Том је имао озбиљне повреде.
+eng	srp_Cyrl	Tom had several questions he wanted to ask Mary.	Том је имао неколико питања која је желео да пита Мери.
+eng	srp_Cyrl	Tom had several questions he wanted to ask Mary.	Том је имао неколико питања која је желео да постави Мери.
+eng	srp_Cyrl	Tom had several things he wanted to ask Mary.	Том је имао неколико ствари које је желео да пита Мери.
+eng	srp_Cyrl	Tom has a gift for Mary.	Том има поклон за Марију.
 eng	srp_Cyrl	Tom has a heavy German accent.	Том има јак немачки акценат.
 eng	srp_Cyrl	Tom has all kinds of problems.	Том има свакакве проблеме.
+eng	srp_Cyrl	Tom has an adopted daughter.	Том има усвојену ћерку.
+eng	srp_Cyrl	Tom has a PhD.	Том има докторат.
 eng	srp_Cyrl	Tom has been fired.	Том је отпуштен.
+eng	srp_Cyrl	Tom has something for us.	Том има нешто за нас.
 eng	srp_Cyrl	Tom hates your guts.	Тома те мрзи из дна душе.
 eng	srp_Cyrl	Tom hired a private detective to follow Mary.	Том је унајмио приватног детектива да прати Мери.
+eng	srp_Cyrl	Tom is a bit strange, but he's a good guy.	Том је мало чудан, али је добар момак.
 eng	srp_Cyrl	Tom is a bookworm.	Том много чита.
 eng	srp_Cyrl	Tom is a bundle of nerves.	Том је на ивици живаца.
 eng	srp_Cyrl	Tom is a bundle of nerves.	Том је напет као струна.
 eng	srp_Cyrl	Tom is a nerd.	Том је штребер.
 eng	srp_Cyrl	Tom is an ex-con.	Том је бивши робијаш.
+eng	srp_Cyrl	Tom is a retired general.	Том је генерал у пензији.
 eng	srp_Cyrl	Tom is as deaf as a post.	Том је глув као топ.
+eng	srp_Cyrl	Tom is a valuable ally.	Том је вредан савезник.
 eng	srp_Cyrl	Tom is cheating on his wife.	Том вара своју жену.
+eng	srp_Cyrl	Tom is coming by bus.	Том стиже аутобусом.
 eng	srp_Cyrl	Tom is crazy about Mary.	Тома је луд за Маријом.
 eng	srp_Cyrl	Tom is extraordinary.	Том је изванредан.
 eng	srp_Cyrl	Tom is getting under my skin.	Том ми иде на живце.
 eng	srp_Cyrl	Tom is getting under my skin.	Том ми иде на нерве.
 eng	srp_Cyrl	Tom is hiding under the table.	Том се крије испод стола.
+eng	srp_Cyrl	Tom is just pretending to be mad.	Том се баш прави љут.
 eng	srp_Cyrl	Tom is Mary's grandfather.	Том је Мерин деда.
 eng	srp_Cyrl	Tom is on a top secret mission.	Том је на тајном задатку.
 eng	srp_Cyrl	Tom is on the short list.	Том је у ужем избору.
+eng	srp_Cyrl	Tom is stressed.	Том је под стресом.
 eng	srp_Cyrl	Tom is the best student in our class.	Том је најбољи ученик у разреду.
+eng	srp_Cyrl	Tom is the boy talking to Mary.	Том је дечак који прича с Мери.
+eng	srp_Cyrl	Tom is the boy who'll do that for you.	Том је дечак који ће то урадити за тебе.
+eng	srp_Cyrl	Tom is too strong for me.	Том је прејак за мене.
 eng	srp_Cyrl	Tom is unfazed.	Том је хладнокрван.
 eng	srp_Cyrl	Tom is unmerciful.	Том је немилосрдан.
 eng	srp_Cyrl	Tom is upstairs.	Том је на спрату.
 eng	srp_Cyrl	Tom knows it's over.	Том зна да је дошао крај.
+eng	srp_Cyrl	Tom liked learning French.	Тому се свидело учење француског.
+eng	srp_Cyrl	Tom liked soccer.	Тому се свиђао фудбал.
+eng	srp_Cyrl	Tom liked the food.	Тому се свидела храна.
 eng	srp_Cyrl	Tom likes to show off.	Том воли да се хвали.
 eng	srp_Cyrl	Tom looked both ways before crossing the road.	Том је погледао лево и десно пре него што је прешао улицу.
 eng	srp_Cyrl	Tom looked so different after his haircut.	Том је изгледао много другачије након шишања.
 eng	srp_Cyrl	Tom lost his job.	Том је изгубио посао.
 eng	srp_Cyrl	Tom made Mary do that.	Том је натерао Мери да то уради.
+eng	srp_Cyrl	Tom made progress.	Том је напредовао.
 eng	srp_Cyrl	Tom makes me laugh.	Том ме засмејава.
 eng	srp_Cyrl	Tom must've had a key.	Том је сигурно имао кључ.
 eng	srp_Cyrl	Tom named his hamster Cookie.	Том је назвао свог хрчка Куки.
+eng	srp_Cyrl	Tom needs something else.	Тому треба нешто друго.
+eng	srp_Cyrl	Tom needs to be aware of this.	Том мора да буде свестан овога.
+eng	srp_Cyrl	Tom never goes to bars.	Том никад не иде у барове.
+eng	srp_Cyrl	Tom never goes to bars.	Том никад не излази у барове.
+eng	srp_Cyrl	Tom never misses.	Том никад не пропушта.
 eng	srp_Cyrl	Tom nodded.	Том је климнуо главом.
+eng	srp_Cyrl	Tom no longer lives with us.	Том више не живи са нама.
 eng	srp_Cyrl	Tom only drinks decaffeinated coffee.	Том пије само кафу без кофеина.
 eng	srp_Cyrl	Tomorrow I'm going back home.	Сутра се враћам кући.
 eng	srp_Cyrl	Tomorrow there's a high probability it will rain.	Велика је вероватноћа да ће сутра падати киша.
+eng	srp_Cyrl	Tom picked up his suitcase and left.	Том је покупио свој кофер и отишао.
 eng	srp_Cyrl	Tom played his highest card.	Том је одиграо на најјачу карту.
+eng	srp_Cyrl	Tom put the flowers that he brought in the vase on Mary's kitchen table.	Том је цвеће које је донео ставио у вазу на Мерином кухињском столу.
+eng	srp_Cyrl	Tom ran out into the road without looking both ways.	Том је истрчао на улицу не погледавши лево и десно.
+eng	srp_Cyrl	Tom refused the drink that Mary offered him.	Том је одбио пиће које му је Марија понудила.
+eng	srp_Cyrl	Tom retreated.	Том се повукао.
+eng	srp_Cyrl	Tom retreated.	Том се повуче.
+eng	srp_Cyrl	Tom rose.	Том устаде.
 eng	srp_Cyrl	Tom's car has 100 horsepower.	Томов ауто има сто коњских снага.
 eng	srp_Cyrl	Tom sees things.	Тому се привиђа.
 eng	srp_Cyrl	Tom sells cars.	Том продаје аутомобиле.
 eng	srp_Cyrl	Tom sells cars.	Том продаје кола.
+eng	srp_Cyrl	Tom's got a PhD.	Том је добио докторат.
 eng	srp_Cyrl	Tom's grandfather knew my grandfather.	Томов деда је познавао мог деду.
 eng	srp_Cyrl	Tom shrugged.	Том је слегнуо раменима.
 eng	srp_Cyrl	Tom's living proof that you don't have to have brains to be successful.	Том је живи доказ да не морате бити паметни да би били успешни.
+eng	srp_Cyrl	Tom smiles.	Том се осмехује.
+eng	srp_Cyrl	Tom smiles.	Том се смеје.
+eng	srp_Cyrl	Tom smiles.	Том се смеши.
 eng	srp_Cyrl	Tom suggested that Mary see a doctor.	Том је предложио да Марија оде код лекара.
+eng	srp_Cyrl	Tom talks to himself.	Том прича сам са собом.
+eng	srp_Cyrl	Tom taught John to swim by throwing him in the water.	Том је Џона научио да плива тако што га је бацио у воду.
 eng	srp_Cyrl	Tom teaches French.	Том предаје француски.
+eng	srp_Cyrl	Tom took two bottles of beer out of the fridge, one for himself and one for John, and put them on the table.	Том је узео две флаше пива из фрижидера, једну за себе и једну за Џона, и ставио их на сто.
+eng	srp_Cyrl	Tom took two bottles of beer out of the fridge, one for himself and one for John, and put them on the table.	Том узе две флаше пива из фрижидера, једну за себе и једну за Џона, и стави их на сто.
+eng	srp_Cyrl	Tom translated a book in French into English.	Том је превео књигу с француског на енглески.
 eng	srp_Cyrl	Tom traveled on the legendary Orient Express from Paris to Istanbul.	Том је отпутовао на легендарном Оријент Експресу из Париза у Истанбул.
+eng	srp_Cyrl	Tom tried to explain it to me.	Том је то пробао да ми објасни.
+eng	srp_Cyrl	Tom tried to say something.	Том је покушао нешто да каже.
+eng	srp_Cyrl	Tom turned towards me and smiled.	Том се окренуо ка мени и осмехнуо се.
 eng	srp_Cyrl	Tom unlocked the door.	Том је откључао врата.
 eng	srp_Cyrl	Tom uses that word a lot.	Том често користи ту реч.
+eng	srp_Cyrl	Tom usually doesn't do that like that on Monday.	Том обично не ради то тако понедељком.
+eng	srp_Cyrl	Tom usually doesn't do that like that.	Том обично то не ради тако.
+eng	srp_Cyrl	Tom usually doesn't like doing that kind of thing.	Том обично не воли да ради нешто тако.
+eng	srp_Cyrl	Tom usually doesn't like doing that kind of thing.	Том обично не воли да ради такве ствари.
+eng	srp_Cyrl	Tom was found lying blind drunk in someone's front garden. His wallet, keys and mobile phone had been stolen.	Тома су нашли како мортус пијан лежи у нечијем предњем дворишту. Новчаник, кључеви, и мобилни телефон били су му украдени.
 eng	srp_Cyrl	Tom was good and drunk.	Тома је био потпуно пијан.
 eng	srp_Cyrl	Tom was good and scared.	Том је био веома уплашен.
+eng	srp_Cyrl	Tom was just a baby when that happened.	Том је још био беба када се то десило.
+eng	srp_Cyrl	Tom was just a baby when that happened.	Том је још увек био беба када се то догодило.
+eng	srp_Cyrl	Tom wasn't entirely sure about that.	Том није био у потпуности сигуран у вези с тим.
 eng	srp_Cyrl	Tom was playing for time.	Том је куповао време.
 eng	srp_Cyrl	Tom was playing for time.	Том је одугловачио.
+eng	srp_Cyrl	Tom was the owner of the restaurant that burned down.	Том је био власник ресторана који је изгорео.
 eng	srp_Cyrl	Tom went to his high school reunion last week.	Тома је ишао на годишњицу матуре прошле недеље.
 eng	srp_Cyrl	Tom will buy a new computer.	Том ће купити нов компјутер.
 eng	srp_Cyrl	Tom will buy a new computer.	Том ће купити нов рачунар.
+eng	srp_Cyrl	Tom will decide what needs to be done.	Том ће да одлучи шта треба да се уради.
+eng	srp_Cyrl	Tom will decide what needs to be done.	Том ће одлучити шта треба да се ради.
+eng	srp_Cyrl	Tom will decide who'll do that.	Том ће да одлучи ко ће то да уради.
+eng	srp_Cyrl	Tom will decide who'll do that.	Том ће одлучити ко ће то да ради.
+eng	srp_Cyrl	Tom will stop Mary.	Том ће зауставити Мери.
 eng	srp_Cyrl	Tom works for his father's company.	Том ради за компанију свог оца.
 eng	srp_Cyrl	Too many cooks spoil the broth.	Сто бабица, килаво дете.
 eng	srp_Cyrl	To the whole world - good night, good day and good morning.	Целом свету - добро вече, добро дан и добро јутро.
@@ -3088,6 +3462,8 @@ eng	srp_Cyrl	Under what name?	Под којим именом?
 eng	srp_Cyrl	Variety is the spice of life.	Разноврсност је зачин живота.
 eng	srp_Cyrl	Vladivostok is a city in Russia.	Владивосток је град у Русији.
 eng	srp_Cyrl	Wang Lao Ji isn't beer. It's tea.	Ванг Лао Ђи није пиво. Чај је.
+eng	srp_Cyrl	Was it Tom who started the fight?	Да ли је Том тај који је започео тучу?
+eng	srp_Cyrl	Was Tom the one who started the fight?	Да ли је Том први почео да се туче?
 eng	srp_Cyrl	We act without fear or favor.	Поступамо непристрасно.
 eng	srp_Cyrl	We are Australians.	Ми смо Аустралијанци.
 eng	srp_Cyrl	We are cut from the same cloth.	Истог смо соја.
@@ -3101,8 +3477,13 @@ eng	srp_Cyrl	We barely survived.	Једва смо преживели.
 eng	srp_Cyrl	We can't go back.	Не можемо да се вратимо.
 eng	srp_Cyrl	We can't go.	Не можемо ићи.
 eng	srp_Cyrl	We demonstrated peacefully.	Мирно смо протестовали.
+eng	srp_Cyrl	We fought.	Борили смо се.
+eng	srp_Cyrl	We fought.	Свађали смо се.
+eng	srp_Cyrl	We got a lot of rain yesterday.	Јуче је било баш кишовито.
 eng	srp_Cyrl	We got off the train.	Сишли смо са воза.
 eng	srp_Cyrl	We got up at dawn.	Устали смо у зору.
+eng	srp_Cyrl	We had to work under miserable conditions.	Морали смо да радимо под јадним условима.
+eng	srp_Cyrl	We had to work under miserable conditions.	Морали смо да радимо у јавним условима.
 eng	srp_Cyrl	We have a problem.	Имамо проблем.
 eng	srp_Cyrl	We have a serious problem.	Имамо озбиљан проблем.
 eng	srp_Cyrl	We have five fingers on each hand.	Имамо пет прстију на свакој руци.
@@ -3110,6 +3491,9 @@ eng	srp_Cyrl	We have no such example.	Такав пример немамо.
 eng	srp_Cyrl	We haven't met yet.	Још се нисмо упознали.
 eng	srp_Cyrl	We have to set the scene for negotiations.	Морамо да припремимо терен за преговоре.
 eng	srp_Cyrl	We know enough.	Довољно знамо.
+eng	srp_Cyrl	We know who it is.	Знамо ко је.
+eng	srp_Cyrl	We know who it is.	Ми знамо ко је.
+eng	srp_Cyrl	We know who it is.	Ми знамо ко је то.
 eng	srp_Cyrl	We know.	Знамо.
 eng	srp_Cyrl	Welcome back.	Добро дошао назад.
 eng	srp_Cyrl	Welcome back.	Добро дошли назад.
@@ -3123,17 +3507,36 @@ eng	srp_Cyrl	We ran out of food.	Нестало нам је хране.
 eng	srp_Cyrl	We ran out of food.	Остали смо без хране.
 eng	srp_Cyrl	We ran out of the building.	Ми смо истрчали из грађевине.
 eng	srp_Cyrl	We're almost done.	Скоро смо завршили.
+eng	srp_Cyrl	We're celebrating the end of the semester.	Славимо крај семестра.
 eng	srp_Cyrl	We're close friends.	Блиски смо пријатељи.
 eng	srp_Cyrl	We're close friends.	Ми смо блиски пријатељи.
 eng	srp_Cyrl	We're done for today.	Завршили смо за данас.
 eng	srp_Cyrl	We're going to lunch at 1 o'clock. In other words, in 10 minutes.	Идемо на ручак у 1 сат, односно за 10 минута.
 eng	srp_Cyrl	We're just getting started.	Тек смо почели.
 eng	srp_Cyrl	We're ready to go.	Спремни смо да идемо.
+eng	srp_Cyrl	We're the first.	Ми смо први.
+eng	srp_Cyrl	Were there any letters in the letter box?	Да ли је било писама у поштанском сандучету?
+eng	srp_Cyrl	Were there many passengers on the bus?	Да ли је било много путника у аутобусу?
+eng	srp_Cyrl	Were there many passengers on the train?	Да ли је било много путника у возу?
+eng	srp_Cyrl	Were there many people in the library?	Да ли је било много људи у библиотеци?
+eng	srp_Cyrl	Were there many people in your carriage?	Да ли је било много људи у твом вагону?
+eng	srp_Cyrl	Were there many people on the train?	Да ли је било много људи у возу?
 eng	srp_Cyrl	Were you able to do that by yourself?	Да ли си успела да урадиш то сама?
+eng	srp_Cyrl	Were you in Boston last winter?	Да ли си била у Бостону прошле зиме?
+eng	srp_Cyrl	Were you in Boston last winter?	Да ли си био у Бостону прошле зиме?
+eng	srp_Cyrl	We spent three hours there.	Провели смо три сата тамо.
+eng	srp_Cyrl	We started to like each other.	Почели смо да се допадамо један другом.
+eng	srp_Cyrl	We started to like each other.	Почели смо да се свиђамо једно другом.
 eng	srp_Cyrl	We talked about it all night.	Разговарали смо о томе целу ноћ.
 eng	srp_Cyrl	We've got to find them first.	Прво морамо да их нађемо.
+eng	srp_Cyrl	We've just moved in.	Само што смо се уселили.
+eng	srp_Cyrl	We've just moved in.	Тек смо се уселили.
 eng	srp_Cyrl	We visited the hippodrome. We visited the horse racecourse.	Посетили смо хиподром. Посетили смо тркалиште за коње.
+eng	srp_Cyrl	We visit Tom regularly.	Често посећујемо Тома.
 eng	srp_Cyrl	We went to school together.	Заједно смо ишли у школу.
+eng	srp_Cyrl	We were sitting with Tom in a pub, drinking beer.	Седели смо са Томом у пабу и пили пиво.
+eng	srp_Cyrl	We were there for three hours.	Били смо тамо три сата.
+eng	srp_Cyrl	We won't take it anymore.	Нећемо то трпети више.
 eng	srp_Cyrl	What about putting together a group on Facebook so we can discuss studying foreign languages?	Како би било да направимо групу на фејсбуку тако да можемо да дискутујемо о учењу страних језика?
 eng	srp_Cyrl	What a man you are!	Какав си то човек!
 eng	srp_Cyrl	What am I doing here?	Шта ја радим овде?
@@ -3150,6 +3553,7 @@ eng	srp_Cyrl	What are you going to do today?	Шта ћеш да радиш да�
 eng	srp_Cyrl	What are you going to do today?	Шта ћеш радити данас?
 eng	srp_Cyrl	What are you talking about?	О чему причаш?
 eng	srp_Cyrl	What are you trying to say?	Шта хоћеш тиме да кажеш?
+eng	srp_Cyrl	What classes do you have on Monday?	Које часове имаш у понедељак?
 eng	srp_Cyrl	What day is tomorrow?	Који је сутра дан?
 eng	srp_Cyrl	What did you buy?	Шта си купио?
 eng	srp_Cyrl	What did you do today?	Шта си радио данас?
@@ -3161,6 +3565,7 @@ eng	srp_Cyrl	What does it feel like?	Какав је осећај?
 eng	srp_Cyrl	What do the papers say?	Шта кажу новине?
 eng	srp_Cyrl	What do the papers say?	Шта пишу новине?
 eng	srp_Cyrl	What do you believe in?	У шта верујеш?
+eng	srp_Cyrl	What do you have in your refrigerator?	Шта имаш у твом фрижидеру?
 eng	srp_Cyrl	What do you want to do about Tom?	Шта ћеш да урадиш са Томом?
 eng	srp_Cyrl	What else could I have done?	Шта сам требао урадити?
 eng	srp_Cyrl	What else could I have done?	Шта сам требао учинити?
@@ -3177,6 +3582,7 @@ eng	srp_Cyrl	What is this?	Шта је то?
 eng	srp_Cyrl	What is your blood type?	Која је твоја крвна група?
 eng	srp_Cyrl	What is your name?	Како се зовете?
 eng	srp_Cyrl	What is your name?	Како се ти зовеш?
+eng	srp_Cyrl	What kinds of books do you like?	Коју врсту књига волиш?
 eng	srp_Cyrl	What language do you speak?	Који језик говориш?
 eng	srp_Cyrl	What school did you go to?	У коју си школу ишао?
 eng	srp_Cyrl	What should I see?	Шта бих требао да видим?
@@ -3201,6 +3607,7 @@ eng	srp_Cyrl	What's your nationality?	Која је твоја национал�
 eng	srp_Cyrl	What's your poison?	Кажи шта ћеш да попијеш?
 eng	srp_Cyrl	What's your story?	Која је твоја прича?
 eng	srp_Cyrl	What time is it please?	Колико је сати, молим?
+eng	srp_Cyrl	What Tom said was implausible, but I pretended to believe him.	То што је Том рекао је било неуверљиво, али ја сам се претварао да му верујем.
 eng	srp_Cyrl	What will happen now?	Шта ће сада бити?
 eng	srp_Cyrl	What will happen now?	Шта ће сада да се деси?
 eng	srp_Cyrl	What will happen now?	Шта ће се сада десити?
@@ -3211,22 +3618,28 @@ eng	srp_Cyrl	What would you like to know?	Шта би волела да знаш
 eng	srp_Cyrl	What would you like to know?	Шта бисте волели да знате?
 eng	srp_Cyrl	When are you going home?	Када идеш кући?
 eng	srp_Cyrl	When are you leaving?	Када одлазиш?
+eng	srp_Cyrl	"When did Tom get here?" "About three hours ago."	"Кад је Том дошао овде?" "Отприлике пре три сата."
 eng	srp_Cyrl	When did you get home?	Кад си дошао кући?
 eng	srp_Cyrl	When exactly did you do that?	Тачно када си то урадио?
+eng	srp_Cyrl	When I saw Tom in that restaurant, I lost my appetite.	Када сам у том ресторану видела Тома, изгубила сам апетит.
+eng	srp_Cyrl	When I saw Tom in that restaurant, I lost my appetite.	Када сам у том ресторану видео Тома, изгубио сам апетит.
 eng	srp_Cyrl	When is your birthday?	Када је твој рођендан?
 eng	srp_Cyrl	When Marcus arrived, I was sleeping.	Кад је Маркус дошао, спавала сам.
 eng	srp_Cyrl	When was the last time we met?	Када смо се последњи пут срели?
 eng	srp_Cyrl	When will the Italian course start?	Када ће кренути курс италијанског језика?
+eng	srp_Cyrl	Where are Tom and Mary going for their vacation?	Где Том и Мери иду на одмор?
 eng	srp_Cyrl	Where did you learn English?	Где си научио енглески?
 eng	srp_Cyrl	Where do you live?	Где ви живите?
 eng	srp_Cyrl	Where I am doesn't matter.	Није битно где сам.
 eng	srp_Cyrl	Where is the museum?	Где је музеј?
+eng	srp_Cyrl	Where should I put my tray?	Где бих поставио тацну?
 eng	srp_Cyrl	Where's my room?	Где је моја соба?
 eng	srp_Cyrl	Where's the museum?	Где је музеј?
 eng	srp_Cyrl	Where's the toothpaste?	Где је паста за зубе?
 eng	srp_Cyrl	Where's Tom going to sleep?	Где ће Том спавати?
 eng	srp_Cyrl	Where's your friend?	Где ти је пријатељица?
 eng	srp_Cyrl	Where there is grass, there is no water. Where there is water, there is no grass.	Где има траве, нема воде. Где има воде, нема траве.
+eng	srp_Cyrl	Which one of us is making dinner tonight?	Ко од нас спрема вечеру вечерас?
 eng	srp_Cyrl	Which way are you going?	Којим путем идеш?
 eng	srp_Cyrl	Which way are you going?	У ком правцу идеш?
 eng	srp_Cyrl	Who are you really?	Ко си ти заиста?
@@ -3237,6 +3650,7 @@ eng	srp_Cyrl	Who is this person?	Ко је овај човек?
 eng	srp_Cyrl	Who is your teacher?	Ко је твој учитељ?
 eng	srp_Cyrl	Who knows what will happen tomorrow?	Ко зна шта ће се догодити сутра?
 eng	srp_Cyrl	Who knows?	Ко зна?
+eng	srp_Cyrl	Who participated?	Ко је учествовао?
 eng	srp_Cyrl	Whose handwriting is this?	Чији је ово рукопис?
 eng	srp_Cyrl	Who's your favorite wrestler?	Ко је твој омиљени рвач?
 eng	srp_Cyrl	Who wears the pants in your family?	Ко у породици носи панталоне?
@@ -3247,7 +3661,10 @@ eng	srp_Cyrl	Why are you angry at me?	Зашто си љут на мене?
 eng	srp_Cyrl	Why are you doing this, if I may ask?	Зашто то радиш, ако могу да питам?
 eng	srp_Cyrl	Why are you leaving?	Зашто одлазите?
 eng	srp_Cyrl	Why didn't you say that in the first place?	Зашто то одмах ниси рекао?
+eng	srp_Cyrl	Why didn't you speak up sooner?	Зашто се раније ниси јавио?
 eng	srp_Cyrl	Why did you shave off your beard?	Зашто си обријао браду?
+eng	srp_Cyrl	Why don't you stay until tomorrow?	Зашто не останеш до сутра?
+eng	srp_Cyrl	Why don't you stay until tomorrow?	Зашто те останете до сутра?
 eng	srp_Cyrl	Why do you ask?	Зашто питаш?
 eng	srp_Cyrl	Why do you need so many shoes?	Зашто ти треба тако пуно ципела?
 eng	srp_Cyrl	Why do you think so?	Зашто тако мислите?
@@ -3255,12 +3672,15 @@ eng	srp_Cyrl	Why do you think so?	Зашто то мислиш?
 eng	srp_Cyrl	Why give it to me now?	Зашто ми га дајеш сада?
 eng	srp_Cyrl	Why is love so complicated?	Зашто је љубав тако компликована?
 eng	srp_Cyrl	Why is love so difficult?	Зашто је љубав тако тешка?
+eng	srp_Cyrl	Why is Tom so mad at Mary?	Зашто је Том толико љут на Мери?
 eng	srp_Cyrl	Why me of all people?	Зашто баш ја?
 eng	srp_Cyrl	Why me?	Зашто баш ја?
 eng	srp_Cyrl	Why not just tell Tom?	Зашто само не кажеш Тому?
 eng	srp_Cyrl	Why would I want to kill you all?	Зашто бих ја желео све да вас убијем?
 eng	srp_Cyrl	Why would Tom want that?	Зашто би Том желео то?
 eng	srp_Cyrl	Why?	Зашто?
+eng	srp_Cyrl	Will Tom be here tonight?	Да ли ће Том бити овде вечерас?
+eng	srp_Cyrl	Will Tom be here tonight?	Хоће ли Том бити овде вечерас?
 eng	srp_Cyrl	Will you do it for me?	Хоћеш ли ми то учинити?
 eng	srp_Cyrl	Will you help me?	Хоћете ли ми помоћи?
 eng	srp_Cyrl	Wind is a cheap and clean source of energy.	Ветар је јефтин и чист извор енергије.
@@ -3271,6 +3691,7 @@ eng	srp_Cyrl	Would you like to meet her?	Желиш да је упознаш?
 eng	srp_Cyrl	Would you like to meet him?	Желиш да га упознаш?
 eng	srp_Cyrl	Would you mind translating this for me?	Да ли би могао да преведеш ово за мене?
 eng	srp_Cyrl	Write something.	Напиши нешто.
+eng	srp_Cyrl	Yeah, sure.	Аха, сигурно.
 eng	srp_Cyrl	Yes, I love it.	Да, волим то!
 eng	srp_Cyrl	Yesterday I was not at home the whole day.	Јуче цео дан нисам била код куће.
 eng	srp_Cyrl	You are absolutely right.	Потпуно си у праву.
@@ -3307,14 +3728,28 @@ eng	srp_Cyrl	You let me down.	Изневерили сте ме.
 eng	srp_Cyrl	You'll be absolutely safe.	Бићеш потпуно безбедан.
 eng	srp_Cyrl	You'll be absolutely safe.	Бићеш потпуно безбедна.
 eng	srp_Cyrl	You'll get better in a few days.	Биће вам боље за неколико дана.
+eng	srp_Cyrl	You'll never guess what I did today.	Никад нећеш да погодиш шта сам данас урадио.
+eng	srp_Cyrl	You'll never guess what I did today.	Никад нећеш погодити шта сам данас радио.
+eng	srp_Cyrl	You'll never guess what I did today.	Никад нећеш погодити шта сам данас урадила.
+eng	srp_Cyrl	You'll never guess what I did today.	Никад нећеш погодити шта сам данас учинила.
+eng	srp_Cyrl	You'll never guess what I saw today.	Никад нећеш да погодиш шта сам данас видео.
+eng	srp_Cyrl	You'll never guess what I saw today.	Никад нећеш погодити шта сам видео данас.
+eng	srp_Cyrl	You'll never guess who I saw today.	Никад нећеш да погодиш кога сам видела данас.
+eng	srp_Cyrl	You'll never guess who I saw today.	Никад нећеш да погодиш кога сам видео данас.
+eng	srp_Cyrl	You'll never guess who I saw today.	Никад нећеш погодити кога сам видео данас.
+eng	srp_Cyrl	You'll never guess who I saw today.	Никад нећеш погодити кога сам данас видела.
 eng	srp_Cyrl	You'll never take me alive!	Никада ме нећеш ухватити живог!
 eng	srp_Cyrl	You'll see her.	Видећеш њу.
+eng	srp_Cyrl	You may not know who I am, but I know who you are.	Можда ви не знате ко сам ја, али ја знам ко сте ви.
+eng	srp_Cyrl	You may not know who I am, but I know who you are.	Ти можда не знаш ко сам ја, али ја знам ко си ти.
 eng	srp_Cyrl	You must be homesick.	Сигурно ти недостаје домовина.
 eng	srp_Cyrl	You must be new here.	Ви мора да сте нови овде.
 eng	srp_Cyrl	You must give up smoking.	Мораш да престанеш да пушиш.
 eng	srp_Cyrl	You must have had a hard time.	Сигурно ти је било тешко.
 eng	srp_Cyrl	You mustn't touch it.	Не смете дирати.
 eng	srp_Cyrl	You mustn't touch it.	Не смеш то да дираш.
+eng	srp_Cyrl	You must tell Tom everything.	Мораш Тому да кажеш све.
+eng	srp_Cyrl	You must've known that I was lonely.	Сигурно си знао да сам усамљен.
 eng	srp_Cyrl	You need a hobby.	Треба ти хоби.
 eng	srp_Cyrl	You need money.	Треба ти новац.
 eng	srp_Cyrl	You never arrive on time.	Никад не стижеш на време.
@@ -3349,9 +3784,14 @@ eng	srp_Cyrl	You're watching the idiot box again instead of doing your homework!
 eng	srp_Cyrl	Your guess is as good as mine.	Знам колико и ти.
 eng	srp_Cyrl	Your house is big.	Ваша кућа је велика.
 eng	srp_Cyrl	Your shoes are here.	Твоје ципеле су овде.
+eng	srp_Cyrl	Your son is a lot like your father.	Ваш син је много сличан вашем оцу.
+eng	srp_Cyrl	Your taxi is waiting outside.	Такси Вас чека испред.
+eng	srp_Cyrl	Your taxi is waiting outside.	Такси те чека напољу.
 eng	srp_Cyrl	Your time will come soon.	Твоје време ће убрзо доћи.
 eng	srp_Cyrl	Your wish is my command.	Твоја жеља је за мене заповест.
 eng	srp_Cyrl	You said you were ready.	Рекао си да си спреман.
+eng	srp_Cyrl	You should thank Tom for doing that.	Треба да захвалиш Тому што је то урадио.
+eng	srp_Cyrl	You talk about Tom as if he were a complete idiot.	Причаш о Тому као да је потпуна будала.
 eng	srp_Cyrl	"You talk too much," he said.	"Ви говорите превише", рекао је он.
 eng	srp_Cyrl	You too, Brutus?	И ти, Бруте?
 eng	srp_Cyrl	YouTube videos are very meaningless.	YouTube видео материјали су врло бесмислени.
@@ -3583,6 +4023,7 @@ eng	srp_Latn	Are you ready for more?	Jeste li spremni za još?
 eng	srp_Latn	Are you ready?	Jeste li spremni?
 eng	srp_Latn	Are you saving this seat for someone?	Čuvate li ovo mesto za nekoga?
 eng	srp_Latn	"Are you serious?" "I'm absolutely serious."	"Da li si ozbiljan?" "Sasvim sam ozbiljan."
+eng	srp_Latn	Are you seriously considering doing that?	Da li ozbiljno razmišljaš da to uradiš?
 eng	srp_Latn	Are you still jealous?	Jesi li i dalje ljubomoran?
 eng	srp_Latn	Are you sure this is safe?	Da li si siguran da je ovo bezbedno?
 eng	srp_Latn	Are you sure this is safe?	Da li ste sigurni da je ovo bezbedno?
@@ -3602,6 +4043,7 @@ eng	srp_Latn	At a first glance it seems easy.	Na prvi pogled izgleda lako.
 eng	srp_Latn	Atatürk was born in 1881, Thessaloniki	Ataturk je rođen 1881, u Solunu.
 eng	srp_Latn	A team is only as strong as its weakest member.	Tim je jak koliko njegov najslabiji član.
 eng	srp_Latn	At last, we have arrived!	Napokon smo stigli!
+eng	srp_Latn	At least three people were hurt.	Barem tri čoveka su bila povređena.
 eng	srp_Latn	At least Tom is honest.	Tom je barem iskren.
 eng	srp_Latn	At least Tom is honest.	Tom je bar iskren.
 eng	srp_Latn	At that instant it exploded with a great noise.	U tom momentu, eksplodiralo je sa velikim praskom.
@@ -3975,6 +4417,7 @@ eng	srp_Latn	Does Tom like it there?	Sviđa li se Tomu ovde?
 eng	srp_Latn	Does your head hurt?	Boli te glava?
 eng	srp_Latn	Dogs are smart.	Psi su pametni.
 eng	srp_Latn	Do I have a knife?	Imam li nož?
+eng	srp_Latn	Do I have to drink this?	Moram li popiti ovo?
 eng	srp_Latn	Do I usually seem happy?	Da li obično delujem srećno?
 eng	srp_Latn	Do I usually seem happy?	Delujem li obično srećno?
 eng	srp_Latn	Do I usually seem happy?	Izgledam li obično srećno?
@@ -4326,6 +4769,7 @@ eng	srp_Latn	Faith can move mountains.	Vera može da pokreće planine.
 eng	srp_Latn	Fashions grow old and die.	Mode zastarevaju i umiru.
 eng	srp_Latn	Fate shuffles the cards; we play.	Sudbina meša karte, a mi igramo.
 eng	srp_Latn	Father bought me the book.	Otac mi je kupio knjigu.
+eng	srp_Latn	Fear is lack of confidence.	Strah je nedostatak samopouzdanja.
 eng	srp_Latn	Fees are about to go up.	Troškovi će uskoro narasti.
 eng	srp_Latn	FIFA is composed of 209 member associations.	FIFA se sastoji od 209 udruženja.
 eng	srp_Latn	Finally, it's Friday.	Konačno je petak.
@@ -4928,6 +5372,7 @@ eng	srp_Latn	I can't concentrate with all this commotion going on.	Ne mogu da se
 eng	srp_Latn	I can't do it either.	Ne mogu ni ja.
 eng	srp_Latn	I can't do it either.	Ni ja ne mogu.
 eng	srp_Latn	I can't even imagine that.	Ne mogu ni da zamislim to.
+eng	srp_Latn	I can't find one of my shoes.	Ne mogu da pronađem jednu od mojih cipela.
 eng	srp_Latn	I can't forget her eyes.	Ne mogu da zaboravim njene oči.
 eng	srp_Latn	I can't forget that.	Ne mogu da zaboravim to.
 eng	srp_Latn	I can't give you an immediate answer.	Ne mogu odmah da ti odgovorim.
@@ -5041,6 +5486,7 @@ eng	srp_Latn	I didn't mean to hurt you.	Nisam želeo da te povredim.
 eng	srp_Latn	I didn't pick anything.	Ništa nisam izabrao.
 eng	srp_Latn	I didn't really want to do that.	Nisam stvarno htela da uradim to.
 eng	srp_Latn	I didn't recognise the tune.	Nisam prepoznao melodiju.
+eng	srp_Latn	I didn't recognize anyone there.	Nisam nikog prepoznao tamo.
 eng	srp_Latn	I didn't say I did that.	Nisam rekao da sam to uradio.
 eng	srp_Latn	I didn't spend anything.	Ništa nisam potrošio.
 eng	srp_Latn	I didn't tell him you're here.	Nisam mu rekla da si ovde.
@@ -5120,6 +5566,7 @@ eng	srp_Latn	I don't sing.	Ne pevam.
 eng	srp_Latn	I don't think he knows I love you.	Mislim da on ne zna da ja volim tebe.
 eng	srp_Latn	I don't think I'm the only one who noticed.	Sumnjam da sam jedini koji je primetio.
 eng	srp_Latn	I don't think much of him as a musician.	Nemam neko visoko mišljenje o njemu kao muzičaru.
+eng	srp_Latn	I don't think that Tom knew who I was.	Mislim da Tom nije znao ko sam bila.
 eng	srp_Latn	I don't think that Tom will ever come back.	Ne mislim da će se Tom ikad vratiti.
 eng	srp_Latn	I don't think that Tom will ever come back.	Sumnjam da će se Tom ikad vratiti.
 eng	srp_Latn	I don't think Tom knows that.	Sumnjam da Tom zna to.
@@ -5172,12 +5619,14 @@ eng	srp_Latn	If I had known your email address, I would've written.	Da sam znao 
 eng	srp_Latn	I filled the glass.	Napunio sam čašu.
 eng	srp_Latn	I find it difficult to understand French when it's spoken quickly.	Teško mi je da razumem francuski kad se brzo govori.
 eng	srp_Latn	If it exists, a crossover with it will eventually happen.	Ako postoji, krosover sa tim će se kad-tad dogoditi.
+eng	srp_Latn	If it rains, the event will be canceled.	Ako padne kiša, događaj će biti otkazan.
 eng	srp_Latn	If one has the right to live, then one should also have the right to die. If not, then living is not a right, but an obligation.	Ako čovek ima prava na život, onda treba da ima i prava na smrt. Ako nema, onda život nije pravo, već obaveza.
 eng	srp_Latn	I forget where I put my hat.	Zaboravljam gde ostavim šešir.
 eng	srp_Latn	I forgot the baby monitor.	Zaboravio sam uređaj za nadgledanje beba.
 eng	srp_Latn	I forgot to pay the rent.	Zaboravio sam da platim kiriju.
 eng	srp_Latn	I forgot to write my name on the exam.	Zaboravio sam da napišem ime na ispitu.
 eng	srp_Latn	I found him the book.	Našla sam mu knjigu.
+eng	srp_Latn	I found out about this the same way you did.	Saznao sam o ovom na isti način kao i ti.
 eng	srp_Latn	I found something, too.	I ja sam našao nešto.
 eng	srp_Latn	I found something, too.	I ja sam našla nešto.
 eng	srp_Latn	I found the cage empty.	Zatekao sam prazan kavez.
@@ -5231,6 +5680,7 @@ eng	srp_Latn	I had second thoughts.	Predomislila sam se.
 eng	srp_Latn	I happened to be right.	Pogodilo se da sam u pravu.
 eng	srp_Latn	I hate mathematics.	Ja mrzim matematiku.
 eng	srp_Latn	I hate the smell of garlic.	Mrzim miris luka.
+eng	srp_Latn	I hate the sound of my own voice.	Mrzim ćuti zvuk svog glasa.
 eng	srp_Latn	I have a book.	Imam knjigu.
 eng	srp_Latn	I have a debt to pay.	Moram da otplatim dug.
 eng	srp_Latn	I have a few friends.	Imam nekoliko prijatelja.
@@ -5313,6 +5763,7 @@ eng	srp_Latn	I hope that you like it.	Nadam se da će ti se sviđati.
 eng	srp_Latn	I hope that you like it.	Nadam se da će ti se svideti.
 eng	srp_Latn	I hope that you like it.	Nadam se da će vam se svideti.
 eng	srp_Latn	I hope the weather will be dry.	Nadam se da će biti suvo vreme.
+eng	srp_Latn	I hope Tom didn't suffer for long.	Nadam se da Tom nije trpio za dugo.
 eng	srp_Latn	I hope Tom does that.	Nadam se da će Tom uraditi to.
 eng	srp_Latn	I hope Tom gets back safely.	Nadam se da će se Tom vratiti bezbedno.
 eng	srp_Latn	I hope Tom gets back safely.	Nadam se da će Tom da se vrati bezbedno.
@@ -5363,6 +5814,7 @@ eng	srp_Latn	I know your face.	Znam tvoje lice.
 eng	srp_Latn	I know.	Znam.
 eng	srp_Latn	I laughed.	Ja sam se smejala.
 eng	srp_Latn	I laughed.	Ja sam se smejao.
+eng	srp_Latn	I learned German.	Naučio sam nemački.
 eng	srp_Latn	I left Tom in 2013.	Napustila sam Toma 2013.
 eng	srp_Latn	I like dogs.	Volim pse.
 eng	srp_Latn	I like instrumental music.	Sviđa mi se instrumentalna muzika.
@@ -6026,6 +6478,7 @@ eng	srp_Latn	I pay someone to do that for me.	Plažam nekog da uradi umesto mene
 eng	srp_Latn	I pissed him off.	Iznervirala sam ga.
 eng	srp_Latn	I pissed him off.	Iznervirao sam ga.
 eng	srp_Latn	I plan to give my son a computer at the end of the month.	Planiram da sinu dam kompjuter krajem meseca.
+eng	srp_Latn	I poured some milk into a glass, and I drank it.	Sipao sam mleko u čašu i popio sam ga.
 eng	srp_Latn	I predicted this would happen months ago.	Predvidela sam da će ovo da se desi pre više meseci.
 eng	srp_Latn	I predicted this would happen months ago.	Predvidela sam da će se ovo desiti pre više meseci.
 eng	srp_Latn	I predicted this would happen months ago.	Predvidela sam da će se ovo dogoditi pre više meseci.
@@ -6331,6 +6784,7 @@ eng	srp_Latn	It looks uncomfortable.	Izgleda neudobno.
 eng	srp_Latn	It may not be possible.	Možda nije moguće.
 eng	srp_Latn	It meant a lot to me.	To mi je puno značilo.
 eng	srp_Latn	It might not be enough.	Možda nije dovoljno.
+eng	srp_Latn	It must be a new feature.	Mora da je to nova funkcija.
 eng	srp_Latn	It must be frightening.	Mora da je zastrašujuće.
 eng	srp_Latn	It must've been awful.	Mora da je bilo užasno.
 eng	srp_Latn	It needs exercise.	To treba vežbati.
@@ -6528,6 +6982,7 @@ eng	srp_Latn	It was a big explosion.	Bila je velika eksplozija.
 eng	srp_Latn	It was a dark and stormy night.	Bila je to mračna i olujna noć.
 eng	srp_Latn	It was a false alarm.	To je bila lažna uzbuna.
 eng	srp_Latn	It was a good day.	Bio je dobar dan.
+eng	srp_Latn	It was a great boost to the economy.	Bio je to veliki podsticaj za ekonomiju.
 eng	srp_Latn	It was a hard decision.	Bila je to teška odluka.
 eng	srp_Latn	It was a hard decision.	To je bila teška odluka.
 eng	srp_Latn	It was a huge success.	Bio je veliki uspeh.
@@ -6934,6 +7389,7 @@ eng	srp_Latn	Let's set up a meeting.	Zakažimo sastanak.
 eng	srp_Latn	Let's sit down.	Hajde da sednemo.
 eng	srp_Latn	Let's sit down.	Sednimo.
 eng	srp_Latn	Let's sit for five minutes.	Hajde da sednemo na pet minuta.
+eng	srp_Latn	Let's split a pizza.	Idemo podeliti picu.
 eng	srp_Latn	Let's start right away.	Počnimo odmah.
 eng	srp_Latn	Let's stay in tonight.	Hajde da ostanemo unutra večeras.
 eng	srp_Latn	Let's stretch our legs.	Hajde da protegnemo noge.
@@ -6958,6 +7414,7 @@ eng	srp_Latn	Look at that one there. He's such a lazy bum!	Vidi ga! Koja lenšti
 eng	srp_Latn	Look at the size of it!	Gledaj kolika je!
 eng	srp_Latn	Look at the size of it!	Gledaj koliki je!
 eng	srp_Latn	Look at the size of it!	Gledaj koliko je!
+eng	srp_Latn	Look at those ducks on the pond.	Gledaj te patke na jezeru.
 eng	srp_Latn	Look at what's become of me!	Pogledaj u šta sam izrastao!
 eng	srp_Latn	Look back!	Okreni se!
 eng	srp_Latn	Look out!	Čuvaj se!
@@ -6976,6 +7433,7 @@ eng	srp_Latn	Man proposes, God disposes.	Čovek snuje, Bog određuje.
 eng	srp_Latn	Manufacturers of weapons should contribute to a fund, from which help organisations can extract for their activities in countries where is war.	Proizvođači oružija treba da doniraju svoj novac organizacijama koje mogu da pomognu zemljama u ratu.
 eng	srp_Latn	Many admire him.	Mnogi mu se dive.
 eng	srp_Latn	Many birds are on the branch.	Mnogo ptica je na grani.
+eng	srp_Latn	Many houses burned down.	Mnogo kuća je izgorelo.
 eng	srp_Latn	Many people pray before eating.	Mnogo ljudi se moli pre jela.
 eng	srp_Latn	Many people would like to be motivated, innovative, thinking beings if they could only get the opportunity.	Mnogi bi rado bili motivisana, kreativna, misleća bića, samo ako bi dobili tu šansu.
 eng	srp_Latn	Many predictions fail.	Mnoga se predviđanja ne ostvare.
@@ -7025,6 +7483,7 @@ eng	srp_Latn	Maybe Tom was involved.	Možda je Tom bio upleten.
 eng	srp_Latn	Maybe Tom wasn't hungry.	Možda Tom nije bio gladan.
 eng	srp_Latn	Maybe Tom would be willing to do that.	Možda će se Tom složiti da uradi to.
 eng	srp_Latn	Maybe you can't hear me.	Možda ne možeš da me čuješ.
+eng	srp_Latn	Maybe you need to help Tom.	Možda treba da pomogneš Tomu.
 eng	srp_Latn	Maybe you shouldn't have told Tom that.	Možda nije trebalo da to kažeš Tomu.
 eng	srp_Latn	May I call around 2:30?	Mogu li da te pozovem oko 2:30?
 eng	srp_Latn	May I call at around 2:30?	Mogu li da pozovem oko 2:30?
@@ -7087,6 +7546,7 @@ eng	srp_Latn	My friend lives in the middle of nowhere.	Moj prijatelj živi bogu 
 eng	srp_Latn	My friend scored 95 on the maths exam.	Moja drugarica je dobila 95 poena na ispitu iz matematike.
 eng	srp_Latn	My friends live in the same house as me.	Moji prijatelji žive u istoj kući kao i ja.
 eng	srp_Latn	My future is in your hands.	Moja budućnost je u vašim rukama.
+eng	srp_Latn	My grandmother was the one who gave me this ring.	Moja baka je bila ona, koja mi je dala ovaj prsten.
 eng	srp_Latn	My gums are bleeding.	Krvare mi desni.
 eng	srp_Latn	My hands are full.	Ruke su mi pune.
 eng	srp_Latn	My home is far away.	Kuća mi je daleko.
@@ -7160,6 +7620,7 @@ eng	srp_Latn	None of us saw Tom do that.	Niko od nas nije video Toma kako radi t
 eng	srp_Latn	No news is a good news.	Kad nema vesti, to su dobre vesti.
 eng	srp_Latn	No one else was hurt.	Niko drugi nije bio povređen.
 eng	srp_Latn	No one has died... yet.	Niko nije umro... još.
+eng	srp_Latn	No one in the store could speak French.	Niko u prodavnici nije mogao pričati francuski.
 eng	srp_Latn	No one is coming to save you.	Niko ne dolazi da te spase.
 eng	srp_Latn	No one trusts him any more.	Niko mu više ne veruje.
 eng	srp_Latn	No one was helping us.	Niko nam nije pomagao.
@@ -7203,6 +7664,7 @@ eng	srp_Latn	One day he will be mine.	Jednog dana biće moj.
 eng	srp_Latn	One gives away apples and pears, and not gold and green forests.	Poklanjaju se jabuke i kruške, a ne zlato i zelene šume.
 eng	srp_Latn	One learns by doing.	Uči se tako što se radi.
 eng	srp_Latn	One man has been arrested and charged with the voluntary manslaughter of 25-year-old Mary Tomson.	Jedan čovek je uhapšen i optužen za namerno ubistvo iz nehata 25-godišnje Marije Tomson.
+eng	srp_Latn	One person’s trash is another person’s treasure.	Nečije smeće je za nekog blago.
 eng	srp_Latn	One senator has called a president of another country, an officer of the old intelligence service which would like to restore that country's old empire.	Jedan je senator nazvao predsednika druge zemlje, oficirem stare obaveštajne službe koji bi želeo da povrati staru imperiju te zemlje.
 eng	srp_Latn	One, two, three, four, five, six, seven, eight, nine, ten.	Jedan, dva, tri, četri, pet, šest, sedam, osam, devet, deset.
 eng	srp_Latn	On that point the learned disagree.	Oko toga se i učeni prepiru.
@@ -7445,6 +7907,7 @@ eng	srp_Latn	Something wasn't kosher.	Nešto nije bilo kako treba.
 eng	srp_Latn	Something wonderful happened today.	Nešto divno se desilo danas.
 eng	srp_Latn	Sometimes family feuds extend through the generations.	Nekad se zavade među porodicama prošire kroz generacije.
 eng	srp_Latn	Sometimes it's too late to apologize.	Nekad je prekasno za izvinjenje.
+eng	srp_Latn	Sooner or later, you'll have to do what you've been asked to do.	Pre ili kasnije, moraćeš uraditi ono što ti se kaže.
 eng	srp_Latn	Sorry, I don't follow.	Izvini, nisam ispratio.
 eng	srp_Latn	Sorry I'm late.	Izvinite što kasnim.
 eng	srp_Latn	So what are your plans?	Koji su ti planovi onda?
@@ -7567,6 +8030,7 @@ eng	srp_Latn	Tell us your real name.	Reci nam svoje pravo ime.
 eng	srp_Latn	Terrific!	Divno!
 eng	srp_Latn	Terrific!	Izvanredno!
 eng	srp_Latn	Thank God.	Hvala bogu.
+eng	srp_Latn	Thank God nobody was hurt.	Hvala Bogu da niko nije bio povređen.
 eng	srp_Latn	Thanks for the correction.	Hvala na ispravci.
 eng	srp_Latn	Thanks for your email!	Hvala na imejlu!
 eng	srp_Latn	Thanks!	Hvala!
@@ -7712,6 +8176,7 @@ eng	srp_Latn	The archaeologist is studying old Roman ruins.	Arheolog istražuje 
 eng	srp_Latn	The author of "The Last of the Mohicans", James Fenimore Cooper, was the first environmentalist.	Pisac knjige "Poslednji mohikanac", Džejms Fenimor Kuper je bio prvi borac za zaštitu prirode.
 eng	srp_Latn	The bad weather kept me from leaving.	Loše vreme mi nije dalo da odem.
 eng	srp_Latn	The bad weather prevented me from leaving.	Loše vreme me je sprečilo da odem.
+eng	srp_Latn	The band didn't play one song that I recognized.	Grupa nije svirala niti jednu pesmu koju sam prepoznao.
 eng	srp_Latn	The bathroom is upstairs.	Kupatilo je na spratu.
 eng	srp_Latn	The battle lasted a week.	Bitka je trajala nedelju dana.
 eng	srp_Latn	The beautiful blonde was sunbathing on the beach.	Prelepa plavuša sunčala se na plaži.
@@ -7837,6 +8302,7 @@ eng	srp_Latn	The problem is in that it's too expensive.	Problem je što je presk
 eng	srp_Latn	The program sets the terms for project development and implementation.	Program postavlja uslove za razvoj i implementaciju projekata.
 eng	srp_Latn	The pronunciation is as follows:	Izgovara se ovako:
 eng	srp_Latn	The Queen and the King have again united their powers.	Kraljica i kralj su ponovo ujedinili svoje moći.
+eng	srp_Latn	The rain continued to pour all day.	Kiša je nastavila da lije ceo dan.
 eng	srp_Latn	The rain is finally clearing up.	Kiša konačno prestaje.
 eng	srp_Latn	There are 1,000 English words written down in this vocabulary book, and they all have to be memorized by July.	U ovom rečniku se napisane 1000 reči uz to da sve one moraju biti zapamćene do jula.
 eng	srp_Latn	There are 40 pupils in this class.	U ovom razredu ima 40 učenika.
@@ -7851,6 +8317,7 @@ eng	srp_Latn	There are many orange fishes in the river.	Na reci ima puno narand�
 eng	srp_Latn	There are many possible answers to that question.	Mnogo je mogućih odgovora na to pitanje.
 eng	srp_Latn	There are no girls on the Internet.	Nema devojki na internetu.
 eng	srp_Latn	There are no jobs here.	Ovde nema poslova.
+eng	srp_Latn	There aren't many stores near where I live.	Nema puno prodavnica pored mene.
 eng	srp_Latn	There are some indications that the reception, which is known for its luxurious dishes, will be a bit more subdued this year.	Postoje indicije da će prijem, koji je poznat po svojim luksuznim jelima, ove godine biti nešto skromniji.
 eng	srp_Latn	There goes our bus.	Ode nam autobus.
 eng	srp_Latn	There is an obvious distinction between the good and the best.	Postoji očigledna razlika između dobrih i najboljih.
@@ -7894,6 +8361,7 @@ eng	srp_Latn	There was nothing to eat.	Nije bilo ničega za jelo.
 eng	srp_Latn	There was nothing to eat.	Nije bilo ništa da se jede.
 eng	srp_Latn	There was only one small problem.	Postojao je samo jedan mali problem.
 eng	srp_Latn	There was something lying on the ground.	Nešto je ležalo na zemlji.
+eng	srp_Latn	There were a lot of people there that I didn't know.	Tamo je bilo mnogo ljudi, koje ja nisam znao.
 eng	srp_Latn	The ring is tight.	Prsten je tesan.
 eng	srp_Latn	The room was dark.	Soba je bila mračna.
 eng	srp_Latn	The rumor's all over town.	Glasina se proširila celim gradom.
@@ -7931,6 +8399,7 @@ eng	srp_Latn	The top of that mountain is flat.	Vrh te planine je ravan.
 eng	srp_Latn	The train was on time today, as always.	Voz je stigao na vreme danas, kao i uvek.
 eng	srp_Latn	The train was so packed that I had to stand up during the whole trip.	Bilo je tako puno ljudi u vozu, da sam morao da stojim.
 eng	srp_Latn	The train was so packed that I had to stand up during the whole trip.	Nisam uspeo da sednem u vozu, jer je bilo tako mnogo ljudi.
+eng	srp_Latn	The truth isn't always easy to recognize.	Istinu nije uvek lako da prepoznaš.
 eng	srp_Latn	The truth must be told.	Istina se mora kazati.
 eng	srp_Latn	The truth must be told.	Istina se mora reći.
 eng	srp_Latn	The TV isn't plugged in.	TV nije uključen u struju.
@@ -7946,6 +8415,7 @@ eng	srp_Latn	The White family will arrive in Tokyo at ten thirty.	Bela porodica 
 eng	srp_Latn	The whole country is talking about it.	Cela država o tome bruji!
 eng	srp_Latn	The wind has abated.	Vetar se smirio.
 eng	srp_Latn	The window is made of glass.	Prozor je od stakla.
+eng	srp_Latn	The winner of the race was a retired US serviceman.	Pobednik trke je bilo penzionisano američko vojno lice.
 eng	srp_Latn	The woman eats bread.	Žena jede hleb.
 eng	srp_Latn	The working group on data transfer, led by Ben Manny, will hold a meeting on Jan 14, 1999.	Radna grupa koja se bavi transferom podataka, vodjena od strane Bena Manija, će održati sastanak 14 januara 1999.
 eng	srp_Latn	The world was on the very brink of nuclear war during the Cuban Missile Crisis in October 1962.	Svet je bio nasamom rubu nuklearnog rata tokom Kubanske raketne krize oktobra 1962.
@@ -8128,6 +8598,7 @@ eng	srp_Latn	Those girls are very busy.	Te devojke su veoma zauzete.
 eng	srp_Latn	Those who live in glass houses should not throw stones.	Ne treba se gađati kamenjem u staklenoj kući.
 eng	srp_Latn	Those who want to stay can stay.	Oni koji žele da ostanu mogu da ostanu.
 eng	srp_Latn	Three of the wounded, whose condition is unclear, have been evacuated to an American field hospital.	Troje ranjenih, za koje je trenutno nejasno u kakvom su stanju, je evakuisano u Američku poljsku bolnicu.
+eng	srp_Latn	Three servicemen were killed and three were injured in the explosion.	Tri vojna lica su ubijena i tri povređena u eksploziji.
 eng	srp_Latn	Ticket, please.	Karta, molim.
 eng	srp_Latn	Time flies.	Vreme leti.
 eng	srp_Latn	To be honest, I really don't know.	Da budem iskren, ne znam baš.
@@ -8337,11 +8808,13 @@ eng	srp_Latn	Tom has his reasons.	Tom ima svoje razloge.
 eng	srp_Latn	Tom has lost his touch.	Tom je izgubio osećaj.
 eng	srp_Latn	Tom has no such problem.	Tom nema takve probleme.
 eng	srp_Latn	Tom hasn't done that.	Tom nije uradio to.
+eng	srp_Latn	Tom hasn't eaten much.	Tom nije jeo mnogo.
 eng	srp_Latn	Tom hasn't had anything but water since last night.	Tom nije uzeo ništa sem vode još od sinoć.
 eng	srp_Latn	Tom hasn't written to Mary in a long time.	Tom nije pisao Meri jako dugo.
 eng	srp_Latn	Tom hasn't written to me in a long time.	Tom mi dugo nije pisao.
 eng	srp_Latn	Tom has put on weight.	Tom se ugojio.
 eng	srp_Latn	Tom has seen enough.	Tom je video dosta.
+eng	srp_Latn	Tom has started dating an older woman.	Tom je počeo da izlazi sa starijom ženom.
 eng	srp_Latn	Tom has the right attitude.	Tom ima pravi stav.
 eng	srp_Latn	Tom has three adult sons.	Tom ima tri odrasla sina.
 eng	srp_Latn	Tom has three sons and one daughter.	Tom ima tri sina i jednu ćerku.
@@ -9059,6 +9532,7 @@ eng	srp_Latn	We'd save time if we drove down Park Street.	Uštedeli bi vreme da 
 eng	srp_Latn	We failed.	Nismo uspeli.
 eng	srp_Latn	We found the footprints in the sand.	Pronašli smo otiske stopala u pesku.
 eng	srp_Latn	We got the news.	Stigle su vesti.
+eng	srp_Latn	We had a busy day.	Imali smo naporan dan.
 eng	srp_Latn	We had a lot to drink.	Imali smo puno toga da popijemo.
 eng	srp_Latn	We had a terrible fight.	Gadno smo se posvađali.
 eng	srp_Latn	We had a terrible fight.	Užasno smo se posvađale.
@@ -9112,6 +9586,7 @@ eng	srp_Latn	We limit baggage to ten kilograms each.	Mi ograničavamo prtljag na
 eng	srp_Latn	We live in a house.	Živimo u kući.
 eng	srp_Latn	We live in a very safe country.	Živimo u veoma bezbednoj zemlji.
 eng	srp_Latn	We live on the sixth floor.	Živimo na šestom spratu.
+eng	srp_Latn	We'll announce the results as soon as we verify them.	Mi ćemo objaviti rezultate ćim ih verificiramo.
 eng	srp_Latn	We'll be leaving soon.	Uskoro idemo.
 eng	srp_Latn	We'll catch up to you.	Stići ćemo te.
 eng	srp_Latn	We'll come by tonight.	Navratićemo večeras.
@@ -9254,6 +9729,7 @@ eng	srp_Latn	We've already decided not to do that.	Već smo odlučili da ne urad
 eng	srp_Latn	We've already settled that.	To smo već odlučili.
 eng	srp_Latn	We've been cooperative.	Sarađivali smo.
 eng	srp_Latn	We've been lucky, I think.	Mislim da smo imali sreće.
+eng	srp_Latn	We've been playing all day.	Igrali smo ceo dan.
 eng	srp_Latn	We've come to get you.	Došli smo po tebe.
 eng	srp_Latn	We've got enough here.	Imamo dovoljno ovde.
 eng	srp_Latn	We've got one casualty.	Imamo jednu žrtvu.
@@ -9270,6 +9746,7 @@ eng	srp_Latn	We've got what we need.	Imamo šta nam je potrebno.
 eng	srp_Latn	We've had enough of you.	Dosta nam je tebe.
 eng	srp_Latn	We've never been apart.	Nikad nismo bili razdvojeni.
 eng	srp_Latn	We've never been there.	Nikad nismo bili ovde.
+eng	srp_Latn	We've suffered heavy losses.	Pretrpeli smo teške gubitke.
 eng	srp_Latn	We've won!	Pobedili smo!
 eng	srp_Latn	We walked in the park.	Šetali smo parkom.
 eng	srp_Latn	We want complete sentences.	Želimo kompletne rečenice.
@@ -9434,6 +9911,7 @@ eng	srp_Latn	What should I write here?	Šta da napišem ovde?
 eng	srp_Latn	What should you do?	Šta treba da uradiš?
 eng	srp_Latn	What should you do?	Šta vi možete učiniti?
 eng	srp_Latn	What's in here, Tom?	Šta je unutra, Tome?
+eng	srp_Latn	What's on the box?	Šta je na kutiji?
 eng	srp_Latn	What's on your mind?	Šta imaš na umu?
 eng	srp_Latn	What's on your mind?	Šta ti je na umu?
 eng	srp_Latn	What's that, little cat? Would you like some sour cream?	Šta je to, mala maco? Želela bi malo krema?
@@ -9538,6 +10016,7 @@ eng	srp_Latn	"Where should I sit?" "Anywhere is OK."	"Gde da sednem?" "Bilo gde.
 eng	srp_Latn	Where should we meet tomorrow?	Gde da se nađemo sutra?
 eng	srp_Latn	Where's Tehran?	Gde je Teheran?
 eng	srp_Latn	Where's Tom going to sleep?	Gde će Tom spavati?
+eng	srp_Latn	"Where's Tom?" "He's in his room."	"Gde je Tom?" "Eno ga u njegovoj sobi."
 eng	srp_Latn	Where's your friend?	Gde ti je prijatelj?
 eng	srp_Latn	Where's your friend?	Gde ti je prijateljica?
 eng	srp_Latn	Where there's smoke there's fire.	Gde ima dima, ima i vatre.
@@ -9813,6 +10292,7 @@ eng	srp_Latn	You'll never take me alive!	Nikada me nećete uhvatiti živog!
 eng	srp_Latn	You'll never walk alone.	Nikad nećeš hodati sama.
 eng	srp_Latn	You'll probably never see me again.	Verovatno me nikada više nećeš videti.
 eng	srp_Latn	You'll probably never see me again.	Verovatno me nikada više nećete videti.
+eng	srp_Latn	You'll recognize it when you see it.	Ti ćeš ga prepoznati kad ga vidiš.
 eng	srp_Latn	You'll see her.	Videćeš je.
 eng	srp_Latn	You'll see her.	Videćeš nju.
 eng	srp_Latn	You'll see her.	Videćete je.
@@ -9879,6 +10359,7 @@ eng	srp_Latn	You're being irrational.	Nisi racionalan.
 eng	srp_Latn	You're being irrational.	Niste racionalni.
 eng	srp_Latn	You're being ridiculous.	Smešne ste.
 eng	srp_Latn	You're being ridiculous.	Smešni ste.
+eng	srp_Latn	You're blocking traffic.	Napravio si gužvu.
 eng	srp_Latn	You're contagious.	Zarazni ste.
 eng	srp_Latn	You're contradicting yourselves.	Kontradiktorni ste sami sa sobom.
 eng	srp_Latn	You're dead.	Mrtav si.

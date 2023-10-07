@@ -7,10 +7,10 @@ spa	sux_Xsux	¡Alabado sea mi dios!	𒀭 𒈬 𒍠 𒊩
 spa	sux_Xsux	¡Alabado sea Utu!	𒀭 𒌓 𒍠 𒊩
 spa	sux_Xsux	Ándale.	𒉌 𒀀
 spa	sux_Xsux	¿A quién le pego?	𒀀 𒁀 𒀀𒀭 𒀭 𒉺𒍜 𒉈 𒂗
-spa	sux_Xsux	¡Ay!	𒉌 𒀀
-spa	sux_Xsux	Ay.	𒈨 𒇷 𒂊 𒀀
 spa	sux_Xsux	¡Ay de mí!	𒈨 𒇷 𒂊 𒀀
 spa	sux_Xsux	Ayúdanos.	𒈨 𒂗 𒉈 𒈭 𒈠 𒀊
+spa	sux_Xsux	Ay.	𒈨 𒇷 𒂊 𒀀
+spa	sux_Xsux	¡Ay!	𒉌 𒀀
 spa	sux_Xsux	¡Basta!	𒀊 𒋛
 spa	sux_Xsux	Bienvenida.	𒁲 𒈠 𒃶 𒈨 𒂗
 spa	sux_Xsux	¡Bienvenido!	𒁲 𒈠 𒃶 𒈨 𒂗
@@ -22,6 +22,7 @@ spa	sux_Xsux	Cierra la puerta.	𒄑 𒅅 𒍝 𒇻
 spa	sux_Xsux	¿Cómo están?	𒁲 𒈠 𒃶 𒈨 𒂗 𒍢 𒂗
 spa	sux_Xsux	¿Cómo estás?	𒁲 𒈠 𒃶 𒈨 𒂗
 spa	sux_Xsux	Construye como señor; vive como esclavo. Construye como esclavo; vive como señor.	𒂗 𒁶 𒆕 𒊕 𒁶 𒋾 𒊕 𒁶 𒆕 𒂗 𒁶 𒋾
+spa	sux_Xsux	Contrata a un indigente y lo despedirás después de medio día.	𒀀 𒄯 𒀸 𒆟 𒊏 𒀊 𒌓 𒑏 𒀀 𒃮 𒃮 𒀀 𒀊
 spa	sux_Xsux	Contrata a un indigente y lo despedirás después de medio día.	𒄷 𒊒 𒌝 𒆟 𒊏 𒀊 𒌓 𒑏 𒀀 𒃮 𒃮 𒀀 𒀊
 spa	sux_Xsux	¡Dámelo!	𒋧 𒈠 𒀊
 spa	sux_Xsux	Dámelo.	𒋧 𒈠 𒀊
@@ -70,8 +71,8 @@ spa	sux_Xsux	Hablas como tu madre.	𒂼 𒍪 𒁶 𒈬 𒉈 𒅗
 spa	sux_Xsux	Hablas como un ángel.	𒀭𒆗 𒁶 𒈬 𒉈 𒅗
 spa	sux_Xsux	Hablas como un idiota.	𒈾 𒂷 𒄴 𒁶 𒈬 𒉈 𒅗
 spa	sux_Xsux	Hay neblina.	𒁇 𒀀𒀭 𒈾 𒉆
-spa	sux_Xsux	Hay uno.	𒑰 𒈾 𒉆
 spa	sux_Xsux	Hay uno.	𒑰 𒁉 𒈾 𒉆
+spa	sux_Xsux	Hay uno.	𒑰 𒈾 𒉆
 spa	sux_Xsux	He ido a Roma.	𒊒𒈠 𒂠 𒈬 𒁺 𒉈 𒂗
 spa	sux_Xsux	He terminado.	𒂷 𒂊 𒁀 𒌀 𒉈 𒂗
 spa	sux_Xsux	¡Hola!	𒁲
@@ -86,6 +87,7 @@ spa	sux_Xsux	¡Levántate!	𒍣 𒂵
 spa	sux_Xsux	¡Libérame!	𒋗 𒁀 𒈬 𒇇
 spa	sux_Xsux	Mi destino es su voz; mi madre lo puede cambiar.	𒉆 𒋻 𒈬 𒅗 𒉆 𒂼 𒈬 𒈬 𒁕 𒀭 𒉽
 spa	sux_Xsux	Mi nombre es Tom.	𒈬 𒈬 𒌈 𒈨
+spa	sux_Xsux	Mi nombre es Tom.	𒌈 𒈬 𒈬 𒌝
 spa	sux_Xsux	¡Mira!	𒅆 𒁇 𒊏
 spa	sux_Xsux	Nada cambia.	𒃻 𒉡 𒉽 𒊏 𒀀𒀭
 spa	sux_Xsux	No está en casa.	𒂍 𒉌 𒋫 𒉡 𒈨 𒀀𒀭
@@ -144,17 +146,19 @@ spa	sux_Xsux	Te quiero decir algo.	𒅗 𒂵 𒊏 𒀊 𒅗
 spa	sux_Xsux	Tu río es poderoso; determina destinos.	𒀀𒇉 𒍪 𒀀𒇉 𒆗 𒂵 𒀀𒀭 𒀀𒇉 𒉆 𒋻 𒊏 𒀀𒀭
 spa	sux_Xsux	Tú y yo somos hermanos.	𒂷 𒂊 𒅇 𒍝 𒂊 𒋀 𒈨 𒂗 𒉈 𒂗
 spa	sux_Xsux	Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	𒁹 𒈫 𒐈 𒐼 𒐊 𒐋 𒑂 𒑄 𒑆 𒌋
-spa	sux_Xsux	—Vamos —me dijo él.	𒂷 𒉆 𒈠 𒂊 𒉈 𒂷 𒀀 𒊏 𒈠 𒀭 𒅗
 spa	sux_Xsux	—Vamos —me dijo él.	𒂷 𒉆 𒈠 𒀭 𒍢 𒂗 𒂊 𒉈 𒂷 𒀀 𒊏 𒈠 𒀭 𒅗
+spa	sux_Xsux	—Vamos —me dijo él.	𒂷 𒉆 𒈠 𒂊 𒉈 𒂷 𒀀 𒊏 𒈠 𒀭 𒅗
 spa	sux_Xsux	Vas a morir.	𒁀 𒂦 𒄀 𒂗
+spa	sux_Xsux	¡Venga!	𒂷 𒉡
 spa	sux_Xsux	¡Ve!	𒁺 𒈾
 spa	sux_Xsux	Ve.	𒁺 𒈾
-spa	sux_Xsux	¡Venga!	𒂷 𒉡
 spa	sux_Xsux	Voy a ir al parque.	𒂷 𒂊 𒄑𒊬𒈤 𒂠 𒂵 𒁺
 spa	sux_Xsux	Voy a la ciudad.	𒌷 𒂠 𒉌 𒁺 𒂊
 spa	sux_Xsux	Voy a la escuela.	𒂍 𒁾 𒁀 𒀀 𒂠 𒁀 𒁺 𒌦
+spa	sux_Xsux	Voy a la montaña.	𒆳 𒂠 𒁀 𒁺 𒌦
 spa	sux_Xsux	Voy a la montaña.	𒆳 𒂠 𒉌 𒁺 𒌦
 spa	sux_Xsux	Voy al parque.	𒄑𒊬𒈤 𒂠 𒁀 𒁺 𒌦
 spa	sux_Xsux	¿Y a mí qué?	𒉆 𒈬
+spa	sux_Xsux	Yo iré.	𒂷 𒂊 𒂵 𒁺
 spa	sux_Xsux	Yo iré.	𒈨 𒂊 𒂵 𒁺
 spa	sux_Xsux	Yo soy tu padre.	𒂷𒂊𒀀𒀀𒍪𒈨𒂗

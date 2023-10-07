@@ -85,8 +85,8 @@ bel	deu	Гэты хлопчык бяжыць вельмі хутка.	Dieser Ker
 bel	deu	Гэтыя кветкі растуць у цёплых краінах.	Diese Blumen wachsen in warmen Ländern.
 bel	deu	Да 1910 года кніга «Аліса ў краіне цудаў» ужо была перакладзена на наступны мовы: нямецкую, французскую, шведскую, італьянскую, рускую, дацкую, нідэрландскую, фінскую і эсперанта.	Bis 1910 war das Buch "Alice in Wonderland" schon in folgende Sprachen übersetzt worden: Deutsch, Französisch, Schwedisch, Italienisch, Russisch, Dänisch, Niederländisch, Norwegisch, Finnisch und Esperanto.
 bel	deu	Давайце пагуляем у тэніс.	Lass uns eine Runde Tennis spielen.
-bel	deu	Дай мне ключ ад гэтага за́мка.	Gib mir den Schlüssel für dieses Schloss!
 bel	deu	Дай мне ключ ад гэтага замка́.	Gib mir den Schlüssel für dieses Schloss!
+bel	deu	Дай мне ключ ад гэтага за́мка.	Gib mir den Schlüssel für dieses Schloss!
 bel	deu	Дайце мне цукар, калі ласка.	Bitte reiche mir den Zucker.
 bel	deu	Дайце мне цукеркі, калі ласка.	Bitte reiche mir den Zucker.
 bel	deu	Дваццаць першае стагоддзе пачынаецца ў 2001 годзе.	Das einundzwanzigste Jahrhundert fängt 2001 an.
@@ -195,13 +195,13 @@ bel	deu	Лііза прыйшла зарана.	Liisa kam zu früh.
 bel	deu	Львоўскі гарадскі савет яшчэ раз звяртае ўвагу на лжывую інфармацію адносна намеру забараніць размаўляць у Львове па-руску.	Lembergs Stadtrat lenkt noch einmal die Aufmerksamkeit auf falsche Informationen bezüglich eines beabsichtigten Verbots, in Lemberg Russisch zu reden.
 bel	deu	Людзі з дрэнным зрокам не могуць бачыць далечыню.	Menschen mit schlechten Augen können nicht in die Ferne sehen.
 bel	deu	Мадэм быў убудаваны ў кампутар.	Das Modem war in den Computer eingebaut.
+bel	deu	Маё вырашэнне навучацца за мяжой здзівіла маіх бацькоў.	Meine Entscheidung im Ausland zu studieren überraschte meine Eltern.
+bel	deu	Маё жыццё — гэта толькі сон матылька? Ці гэта рэальнасць?	Mein Leben, ist es der Traum eines Schmetterlings? Ist es Wirklichkeit?
+bel	deu	Маёй мовы няма ў спісе!	Meine Sprache ist nicht in der Liste!
 bel	deu	Маеш далькажык?	Hast du ein Handy?
 bel	deu	Маеш далькажык?	Hast du ein Natel?
 bel	deu	Маеш мабільны?	Hast du ein Handy?
 bel	deu	Маеш мабільны?	Hast du ein Natel?
-bel	deu	Маё вырашэнне навучацца за мяжой здзівіла маіх бацькоў.	Meine Entscheidung im Ausland zu studieren überraschte meine Eltern.
-bel	deu	Маё жыццё — гэта толькі сон матылька? Ці гэта рэальнасць?	Mein Leben, ist es der Traum eines Schmetterlings? Ist es Wirklichkeit?
-bel	deu	Маёй мовы няма ў спісе!	Meine Sprache ist nicht in der Liste!
 bel	deu	Малаверагодна, што наша каманда выйграе.	Es ist unwahrscheinlich, dass unser Team gewinnt.
 bel	deu	Мама вучыла мяне, што паказваць пальцам няветліва.	Meine Mutter hat mir beigebracht, dass es unhöflich ist, mit dem Finger zu zeigen.
 bel	deu	Марка мае болей грошай, ніж ты.	Mark hat mehr Geld als du.
@@ -227,8 +227,8 @@ bel	deu	Мой сябар ходзіць у бібліятэку займацц�
 bel	deu	Мужчына, што тэлефанаваў гадзіну таму, быў Франк.	Der Mann, der vor einer Stunde angerufen hat, war Frank.
 bel	deu	Мы былі ідэальная парай.	Wir waren ein perfektes Paar.
 bel	deu	Мы жанчыны.	Wir sind Frauen.
-bel	deu	Мы жывем у цудоўным горадзе.	Wir leben in einer schönen Stadt.
 bel	deu	Мы жывём у глабальнай вёсцы.	Wir leben in einem globalen Dorf.
+bel	deu	Мы жывем у цудоўным горадзе.	Wir leben in einer schönen Stadt.
 bel	deu	Мы мусім купіць да гэтага пакою новы дыван.	Wir müssen einen neuen Teppich für dieses Zimmer kaufen.
 bel	deu	Мы стаміліся і хочам піць.	Wir sind müde und haben Durst.
 bel	deu	Мы чулі рык тыгра ўдалечыні.	Wir hörten Tiger in der Ferne brüllen.
@@ -279,6 +279,7 @@ bel	deu	Перад сняданкам палей кветкі.	Gieß vor dem Fr�
 bel	deu	Перакладзіце, калі ласка, гэта на англійскую.	Übersetzen Sie dies bitte ins Englische.
 bel	deu	Платон мне сябра, але ісціна даражэйшая.	Ein Freund ist Platon, aber eine größere Freundin ist die Wahrheit.
 bel	deu	Плоў з мясам каштуе восем юаняў, а вегетарыянскі плоў — толькі чатыры юаня.	Der Pilaw mit Fleisch kostet acht Yuan. Der vegetarische Pilaw kostet nur vier Yuan.
+bel	deu	Польскія дзяўчыны не хацелі, каб Джасцін Бібер прыехаў у Польшчу.	Die polnischen Mädchen wollten nicht, dass Justin Bieber nach Polen käme.
 bel	deu	Прабач, што я спазніўся.	Verzeih mir, dass ich spät bin.
 bel	deu	Праблема ў тым, што сонечная энэргія занадта дарагая.	Das Problem ist, dass Sonnenenergie zu teuer ist.
 bel	deu	Пралетарыі ўсіх краін, яднайцеся!	Proletarier aller Länder, vereinigt euch!
@@ -371,9 +372,9 @@ bel	deu	У мяне ружовая машына.	Ich habe ein rosa Auto.
 bel	deu	У мяне цёмныя вочы.	Ich habe dunkle Augen.
 bel	deu	У нас двое дзяцей.	Wir haben zwei Kinder.
 bel	deu	У Паўліны ёсць ружовы капялюшык.	Paulina hat einen rosa Hut.
+bel	deu	Усё добра.	Alles ist gut.
 bel	deu	Усе людзi нараджаюцца свабоднымi i роўнымi ў сваёй годнасцi i правах. Яны надзелены розумам i сумленнем i павiнны ставiцца адзiн да аднаго ў духу брацтва.	Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Brüderlichkeit begegnen.
 bel	deu	Усе фатаграфіі і відэазапісы самалёта, які раскідваў плюшавых мішак, беларускія ўлады называюць фальсіфікацыяй і правакацыяй.	Alle Fotografien und Videoaufzeichnungen eines Plüschteddies abwerfenden Flugzeugs werden von den weißrussischen Behörden als Fälschungen und Provokationen bezeichnet.
-bel	deu	Усё добра.	Alles ist gut.
 bel	deu	У студні няма вады.	Da ist kein Wasser im Brunnen.
 bel	deu	У сусвеце шмат галактык.	Es gibt viele Galaxien im Universum.
 bel	deu	У цябе ёсць аловак?	Hast du einen Bleistift?
@@ -408,6 +409,8 @@ bel	deu	Чы можа гэтая навіна быць праўдай?	Kann die 
 bel	deu	Чытаць кнігі вельмі цікава.	Bücher lesen ist interessant.
 bel	deu	Шкада, калі хтосьці памірае.	Es ist schade, wenn jemand stirbt.
 bel	deu	Што?	Was?
+bel	deu	Што больш: адна чацвёртая ці адна трэцяя?	Was ist größer: ein Viertel oder ein Drittel?
+bel	deu	Што больш: адна чвэрць ці адна трэць?	Was ist größer: ein Viertel oder ein Drittel?
 bel	deu	Што вывучае саветолаг?	Was studiert der Sowjetologe?
 bel	deu	Што вывучае саветолаг?	Was studiert die Sowjetologin?
 bel	deu	Што Вы гатуеце?	Was kochen Sie?
@@ -543,6 +546,7 @@ bel	deu	Я цябе шукала.	Ich habe nach dir gesucht.
 bel	deu	Я цябе шукаў.	Ich habe nach dir gesucht.
 bel	deu	Я час ад часу сустракаю яго ў клубе.	Ich treffe ihn von Zeit zu Zeit im Club.
 bel	deu	Я часта сустракаю яе ў супермаркеце.	Ich treffe sie oft im Supermarkt.
+bel	deu	Я шукаю добры камп'ютар.	Ich suche einen guten Computer.
 bel	deu	Я шукаю, у каго б закахацца.	Ich suche jemanden, in den ich mich verlieben könnte.
 bel	deu	Я яе не запрасіла.	Ich habe sie nicht eingeladen.
 bel	deu	Я яе не запрашала.	Ich habe sie nicht eingeladen.

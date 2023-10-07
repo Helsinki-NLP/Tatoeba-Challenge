@@ -10,6 +10,7 @@ eng	kaz_Cyrl	A mother with a wooden leg and glass eye is coming.	Aғаштан �
 eng	kaz_Cyrl	Anything new?	Тағы не жаңалық?
 eng	kaz_Cyrl	April 25th is World Malaria Day.	25 сәуір - бүкіләлемдік безгекке қарсы күрес күні.
 eng	kaz_Cyrl	Are the students sitting in the auditorium?	Студенттер аудиторияда отыр ма?
+eng	kaz_Cyrl	Are they afraid?	Олар қорқа ма?
 eng	kaz_Cyrl	Are you learning Kazakh?	Сiз қазақ тiлiн үйренесiз бе?
 eng	kaz_Cyrl	A week is divided into seven days: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday.	Апта жетi күн жiктеледi: дүйсенбi, сейсенбi, сәрсенбi, бейсенбі, жұма, сенбі, жексенбi.
 eng	kaz_Cyrl	A wooden-legged, glass-eyed mother is coming.	Aғаштан жасалған аяғы бар, әйнектен жасалған көзi бар ана саған келе жатыр.
@@ -28,6 +29,8 @@ eng	kaz_Cyrl	Dan changed Linda's life.	Дэн, Линданың өмірін ө�
 eng	kaz_Cyrl	Didn't I tell you to close the door?	Есікті жап деп айтпадым ба саған?
 eng	kaz_Cyrl	Did you give the food to the cat?	Мысыққа тамақ бердің бе?
 eng	kaz_Cyrl	"Doc" is an abbreviation of "doctor".	"Док" дегеніміз "доктор" сөзінің қысқармасы.
+eng	kaz_Cyrl	Does your boyfriend like tea?	Сенің жігітіңе шай ұнай ма?
+eng	kaz_Cyrl	Does your boyfriend like tea?	Сенің жігітің шайды жақсы көре ме?
 eng	kaz_Cyrl	Don't eat me.	Сен мені жеме.
 eng	kaz_Cyrl	Don't tell her about this.	Оған бұл туралы айтпа.
 eng	kaz_Cyrl	Don't worry.	Абыржымаңыз.
@@ -47,6 +50,7 @@ eng	kaz_Cyrl	Every day has a sequel.	Батар күннің атар таңы �
 eng	kaz_Cyrl	Every day the girls used to walk to the village to look for work, after which they would give the money they found to their mother.	Күн сайын қыздар ауылға жаяу жұмыс iздеуге баратын, содан кейiн тапқан ақшасын анасына беретiн.
 eng	kaz_Cyrl	Everyone has the right to personal liberty.	Әркiм өзiнiң жеке басының бостандығына құқығы бар.
 eng	kaz_Cyrl	Everyone wants peace, right?	Барлығы бейбітшілікті қалайды, иә?
+eng	kaz_Cyrl	Facebook is dead.	Фейсбук өлі.
 eng	kaz_Cyrl	Fine!	Тамаша!
 eng	kaz_Cyrl	First Asem, then Saule started to cry.	Бiрiншi Әсем, содан Сәуле жылай бастады.
 eng	kaz_Cyrl	First of all, let me speak about myself.	Бiрiншiден, өзiм туралы айтайын.
@@ -56,6 +60,7 @@ eng	kaz_Cyrl	Focus on the task at hand.	Қолдағы тапсырмаға де
 eng	kaz_Cyrl	For example, the idea of marriage is a religious idea, a thing that comes from God.	Мысалы, «неке» деген ой – дiни ой, құдайдан келген нəрсе.
 eng	kaz_Cyrl	Freshness is our top priority.	Жақа құйылған — ең бастысы.
 eng	kaz_Cyrl	Get both a phone and internet access in a single package!	Интернет пен телефонды бір жинақта сатыл ал!
+eng	kaz_Cyrl	God gave you a nose.	Құдай саған мұрын берген.
 eng	kaz_Cyrl	Good afternoon!	Қайырлы таң!
 eng	kaz_Cyrl	Good afternoon.	Қайырлы таң!
 eng	kaz_Cyrl	Goodbye!	Қош бол!
@@ -77,8 +82,10 @@ eng	kaz_Cyrl	He came by train.	Ол поезбен келді.
 eng	kaz_Cyrl	He doesn't know Kazakh language.	Ол қазақ тілін білмейді.
 eng	kaz_Cyrl	He gave his place to an old man.	Ол қарт кісіге орынды берді.
 eng	kaz_Cyrl	He has got a job.	Ол жұмысқа кірді.
+eng	kaz_Cyrl	He is a Muslim.	Ол мұсылман.
 eng	kaz_Cyrl	He is a teacher.	Ол мұғалім.
 eng	kaz_Cyrl	He is not a student.	Ол студент емес.
+eng	kaz_Cyrl	He is seventeen years old.	Ол он жеті жаста.
 eng	kaz_Cyrl	Hello, world!	Сәлем, әлем!
 eng	kaz_Cyrl	Hello!	Сәлем!
 eng	kaz_Cyrl	Hello!	Сәлем.
@@ -109,6 +116,7 @@ eng	kaz_Cyrl	I am single.	Мен бойдақпын.
 eng	kaz_Cyrl	I came earlier than her.	Мен одан ертерек келдім.
 eng	kaz_Cyrl	I came earlier than him.	Мен одан ертерек келдім.
 eng	kaz_Cyrl	I can't wait ten minutes.	Мен он минут бойы күтіп тұра алмаймын.
+eng	kaz_Cyrl	I couldn't solve the problem.	Мәселені шеше алмадым.
 eng	kaz_Cyrl	I didn't know how long I'd been asleep.	Қанша уақыт бойы ұйықтайтынымды білмеймін.
 eng	kaz_Cyrl	I don't eat meat.	Мен ет жемеймін.
 eng	kaz_Cyrl	I don't fly.	Мен ұшақпен ұшпаймын
@@ -124,10 +132,13 @@ eng	kaz_Cyrl	I don't want meat.	Ет қаламаймын.
 eng	kaz_Cyrl	I don't want to go back.	Оралғым келмейді.
 eng	kaz_Cyrl	I don't want to talk to Tom right now.	Дәл қазір Томмен сөйлескім келмейді.
 eng	kaz_Cyrl	I don't want to watch ads.	Хабарландыруларды көргім келмейді.
+eng	kaz_Cyrl	I downloaded this book from the Internet.	Бұл кітапты интернеттен жүктеп алдым.
 eng	kaz_Cyrl	If all goes well, we will meet again.	Амандық болса тағы кездесерміз.
 eng	kaz_Cyrl	If not now, when?	Қазір болмаса, енді қашан?
 eng	kaz_Cyrl	I forgot to call you.	Мен саған қоңырау шалуға ұмытып кеттім.
 eng	kaz_Cyrl	If the government wants to write news, it is not news.	Егер үкiмет жаңалықты жазғызса, жаңалық емес.
+eng	kaz_Cyrl	I gave her the vase.	Мен вазаны оған бердім.
+eng	kaz_Cyrl	I gave her the vase.	Мен оған вазаны бердім.
 eng	kaz_Cyrl	I hate being laughed at.	Мені күлкі қылғанды жек көремін.
 eng	kaz_Cyrl	I have a book.	Менің кітабым бар.
 eng	kaz_Cyrl	I have an electric guitar.	Менде электрогитара бар.
@@ -139,6 +150,7 @@ eng	kaz_Cyrl	I have no statistics.	Менде санақтар жоқ.
 eng	kaz_Cyrl	I haven't got books.	Менің кітаптарым жоқ.
 eng	kaz_Cyrl	I have two cats.	Менің екі мысығым бар.
 eng	kaz_Cyrl	I hope I'm not interrupting you.	Сізді бөлмедім деп үміттенемін.
+eng	kaz_Cyrl	I hope that will work for you.	Бұл сен үшін жұмыс істейді деп үміттенемін.
 eng	kaz_Cyrl	I just saw her three hours ago.	Мен оны үш сағат бұрын ғана көрдім.
 eng	kaz_Cyrl	I know exactly what you're thinking.	Сенің не ойлап отырғаныңды анық білемін.
 eng	kaz_Cyrl	I know.	Бiлемiн.
@@ -159,6 +171,7 @@ eng	kaz_Cyrl	I'm confident.	Мен сенімдімін.
 eng	kaz_Cyrl	I met him just now.	Мен жаңа ғана оны таныстым.
 eng	kaz_Cyrl	I'm fine, thank you!	Рақмет, жақсы.
 eng	kaz_Cyrl	I'm fine, thank you.	Рақмет, жақсы.
+eng	kaz_Cyrl	I'm here to play.	Мұнда ойнауға келдім.
 eng	kaz_Cyrl	I miss you.	Мен сені сағындым.
 eng	kaz_Cyrl	I'm not a doctor.	Мен дәрігер емеспін.
 eng	kaz_Cyrl	I'm not paid much.	Мен көп жалақы алмаймын.
@@ -187,6 +200,7 @@ eng	kaz_Cyrl	Is this a new photo?	Бұл жаңа фотография ма?
 eng	kaz_Cyrl	I still haven't found work.	Мен әлі жұмыс таппадым.
 eng	kaz_Cyrl	Is your country of birth Kazakhstan?	Сіздердің туған елдеріңіз Қазахстан шығар?
 eng	kaz_Cyrl	Is your mother at home?	Мамаң үйде ме?
+eng	kaz_Cyrl	I think I know that man.	Мен бұл адамды танимын деп ойлаймын.
 eng	kaz_Cyrl	I think that Tom will like this wine.	Томға осы шарап ұнайды деп ойлаймын.
 eng	kaz_Cyrl	It is raining cats and dogs.	Жаңбыр саулап құйып тұр.
 eng	kaz_Cyrl	It is said that Tokyo is a very safe city.	Ол, Токионың өте қауіпсіз қала екенін айтты.
@@ -197,6 +211,7 @@ eng	kaz_Cyrl	I want to take dictation.	Біреудің айтуымен жаз�
 eng	kaz_Cyrl	I want to write some spoken words.	Біреудің айтуымен жазғым келеді.
 eng	kaz_Cyrl	I was born there.	Мен анда дүниеге келдiм.
 eng	kaz_Cyrl	I washed my feet.	Мен аяғымды жудым.
+eng	kaz_Cyrl	I was there for three days.	Мен онда үш күн болдым.
 eng	kaz_Cyrl	I will miss you.	Мен сені сағынамын.
 eng	kaz_Cyrl	I will never forget this day.	Мен бұл күнді ешқашан ұмытпаймын.
 eng	kaz_Cyrl	I will shoot her.	Мен оны атып тастаймын.
@@ -251,8 +266,10 @@ eng	kaz_Cyrl	She doesn't know Kazakh language.	Ол қазақ тілін біл
 eng	kaz_Cyrl	She had no money.	Оның ақшасы жоқ екен.
 eng	kaz_Cyrl	She is a beautiful woman.	Ол әдемі әйел.
 eng	kaz_Cyrl	She is not a student.	Ол студент емес.
+eng	kaz_Cyrl	She lives in Brisbane.	Ол Брисбенде тұрады.
 eng	kaz_Cyrl	She raised her hand to ask a question.	Сұрақ қою үшін қолын көтерді.
 eng	kaz_Cyrl	She's the most beautiful woman.	Ол ең әдемі әйел.
+eng	kaz_Cyrl	She tried to kill me.	Ол мені өлтірмек болды.
 eng	kaz_Cyrl	She wants to work in a hospital.	Ол әйел ауруханада жұмыс істегісі келеді.
 eng	kaz_Cyrl	She works alone.	Ол әйел жалғыз өзі жұмыс істейді.
 eng	kaz_Cyrl	Siemens. No family can do without us.	Сименс. Біз әр жанұяға қажетпіз.
@@ -270,8 +287,12 @@ eng	kaz_Cyrl	That night, Asem broke five dishes.	Сол түнде, Әсем б�
 eng	kaz_Cyrl	That's enough.	Осы да жеткілікті.
 eng	kaz_Cyrl	The bird is in the sky.	Құс аспанда.
 eng	kaz_Cyrl	The "Bolashak" program is very useful.	«Болашақ» бағдарламасы өте пайдалы болып жатыр.
+eng	kaz_Cyrl	The capital of Azerbaijan is Baku.	Әзірбайжанның басқаласы – Баку.
+eng	kaz_Cyrl	The capital of Czechia is Prague.	Чехияның астанасы - Прага.
+eng	kaz_Cyrl	The chicken eats a butterfly.	Тауық көбелек жейді.
 eng	kaz_Cyrl	The dogs barked all night.	Иттер түнi бойы үрдi.
 eng	kaz_Cyrl	The eagle is white.	Бүркіт ақ.
+eng	kaz_Cyrl	The girl who lives here goes to my school.	Мұнда тұратын қыз менің мектебімде оқиды.
 eng	kaz_Cyrl	The journalists in Russia are not free, are not independent.	Ресейдегi журналистика еркiн емес, тәуелсiз емес.
 eng	kaz_Cyrl	The key is stuck.	Кілт тұрып қалды.
 eng	kaz_Cyrl	The Mongolian dinosaur was sold in New York for a million dollars.	Моңғол динозавры Нью-Йоркте миллион долларға сатылды.
@@ -282,14 +303,17 @@ eng	kaz_Cyrl	The quality of higher education must answer to the highest internat
 eng	kaz_Cyrl	The rampant sickness spread to many countries.	Індет көп елді жайлады.
 eng	kaz_Cyrl	There are islands in the sea.	Тенізде аралдар бар.
 eng	kaz_Cyrl	There are lots of animals in the park.	Саябақта көп жануарлар бар.
+eng	kaz_Cyrl	There are no heroes in war.	Соғыста батырлар болмайды.
 eng	kaz_Cyrl	There are no Walmarts in Germany.	Германияда Уолмарт жоқ.
 eng	kaz_Cyrl	There are over 80 people in my house. We're having a party.	Менің үйімде 80-нен астам адам жиналды. Біз сауық кешін ұйымдастырамыз.
+eng	kaz_Cyrl	There are two churches on this street.	Бұл көшеде екі шіркеу бар.
 eng	kaz_Cyrl	There is a metro in Kazan.	Қазанда метро бар.
 eng	kaz_Cyrl	There is no air on the moon.	Айда ауа жоқ.
 eng	kaz_Cyrl	There's no food right now.	Әзір тамақ жоқ.
 eng	kaz_Cyrl	The South Pole is a lot colder than the North Pole.	Оңтүстік полюс солтүстік полюстен әлдеқайда салқын.
 eng	kaz_Cyrl	The sun is at the center of our solar system.	Күн біздің күн жүйеміздің ортасында орналасқан.
 eng	kaz_Cyrl	The ticket is good through Monday.	Билет дүйсенбiге дейiн нақты.
+eng	kaz_Cyrl	The two are not comparable.	Екеуін салыстыруға болмайды.
 eng	kaz_Cyrl	The work goes around the clock.	Жұмыс тәулік бойы істеледі.
 eng	kaz_Cyrl	The work is a whole day.	Жұмыс тәулік бойы істеледі.
 eng	kaz_Cyrl	They lived in a village close to a forest.	Олар орманның жанындағы ауылда тұратын едi.
@@ -309,11 +333,13 @@ eng	kaz_Cyrl	This is my horse.	Бұл менің атым.
 eng	kaz_Cyrl	This is not his handwriting.	Бұл оның жазуы емес.
 eng	kaz_Cyrl	This is the guitar that Tom gave me.	Том маған берген гитара осы.
 eng	kaz_Cyrl	This is true love!	Бұл нағыз махаббат!
+eng	kaz_Cyrl	This problem isn't easy to solve.	Бұл мәселені шешу оңай емес.
 eng	kaz_Cyrl	This text is not a translated text.	Бұл мəтiн – аударылған мəтiн емес.
 eng	kaz_Cyrl	This thin book is mine.	Бұл жұқа кітап менікі.
 eng	kaz_Cyrl	Three people were slightly injured.	Үш адам жеңіл жарақаттанды.
 eng	kaz_Cyrl	Today is Monday.	Бүгін Дүйсенбі.
 eng	kaz_Cyrl	Today is the second of January.	Бүгiн екiншi қаңтар.
+eng	kaz_Cyrl	Today is Tom's day off.	Бүгін Томның демалыс күні.
 eng	kaz_Cyrl	Today's Tom's birthday.	Бүгін Томның туған күні.
 eng	kaz_Cyrl	Today's Tom's birthday.	Бүгін Томның туылған күні.
 eng	kaz_Cyrl	Tom couldn't calm down.	Том тыныштала алмады.
@@ -322,12 +348,14 @@ eng	kaz_Cyrl	Tom doesn't want to drink champagne.	Том аққайнар ішк
 eng	kaz_Cyrl	Tom gained American citizenship.	Том, АҚШ азаматтығын алды.
 eng	kaz_Cyrl	Tom is a pretty good guy, isn't he?	Том өте жақсы жігіт, солай емес пе?
 eng	kaz_Cyrl	Tom is going to visit his brother in prison.	Том түрмеде жатқан ағасына барады.
+eng	kaz_Cyrl	Tom is learning Thai.	Том тай тілін үйреніп жатыр.
 eng	kaz_Cyrl	Tom is swimming in the neighbor's pool.	Том, өз көршісінің әуітінде жүзіп жатыр.
 eng	kaz_Cyrl	Tom knows a lot about baseball.	Том бейсбол жайында көп нәрсе біледі.
 eng	kaz_Cyrl	Tom says he doesn't have any regrets.	Том еш өкінші жоқтығын айтты.
 eng	kaz_Cyrl	Tom showed me his portfolio.	Том маған портфолиосын көрсетті.
 eng	kaz_Cyrl	Tom tasted the wine.	Том шараптың дәмін татты.
 eng	kaz_Cyrl	Tom taught me a lot of useful things.	Том маған көптеген пайдалы нәрселер үйретті.
+eng	kaz_Cyrl	Tom tried to catch the children's attention.	Том балалардың назарын аударуға тырысты.
 eng	kaz_Cyrl	Tom will probably be here in the morning.	Том таңертең мұнда болуы мүмкін.
 eng	kaz_Cyrl	Translate the word.	Сөзді аударыңыз.
 eng	kaz_Cyrl	Turtles don't have teeth.	Тасбақалардың тістері жоқ.
@@ -371,6 +399,7 @@ eng	kaz_Cyrl	Where is the newspaper?	Газет қайда?
 eng	kaz_Cyrl	Where is today's paper?	Бүгінгі газет қайда?
 eng	kaz_Cyrl	Where's the nearest store?	Жақын жердегі дүкен қайда?
 eng	kaz_Cyrl	Who are you?	Сіз кімсіз?
+eng	kaz_Cyrl	Who is leading them?	Оларды кім жетелеп жүр?
 eng	kaz_Cyrl	Who's this?	Мынау кім?
 eng	kaz_Cyrl	Why is everybody laughing?	Бәрі неге күліп жатыр?
 eng	kaz_Cyrl	Why?	Неге?
@@ -387,6 +416,7 @@ eng	kaz_Cyrl	You are my mother.	Сен менің анам.
 eng	kaz_Cyrl	You are my mother.	Сен менің шешем.
 eng	kaz_Cyrl	You are right.	Дұрыс айтасың.
 eng	kaz_Cyrl	You are right.	Сенікі дұрыс.
+eng	kaz_Cyrl	You can't eat money.	Ақша жей алмайсың.
 eng	kaz_Cyrl	You just killed me.	Өлтірдің ғой мені.
 eng	kaz_Cyrl	You kill me!	Өлтірдің ғой мені.
 eng	kaz_Cyrl	You must be a good cook.	Сен тамақты жақсы пісіретін сияқтысың.
@@ -394,6 +424,7 @@ eng	kaz_Cyrl	You're going to get us both killed.	Сен екеумізді де 
 eng	kaz_Cyrl	Your room is dirty.	Сенің бөлмен кір.
 eng	kaz_Cyrl	You want to work at METRO?!	Сен МЕТРО-да жұмыс істегің келе ме?!
 eng	kaz_Cyrl	Zhanar Amantaevna tosses good ideas in organizing school holiday for our children.	Жанар Амантаевна біздің балалардың жазғы демалысын ұйымдастыруда жақсы ой тастайды.
+eng	kaz_Cyrl	Ziri's whole house was empty.	Зиридің бүкіл үйі бос еді.
 eng	kaz_Latn	Anti-Zionism is not antisemitism.	Antısıonızm - antısemıtızm emes.
 eng	kaz_Latn	Don't let anyone know I'm here.	Eshkimge meniń munda bolǵanymdy aıtpa.
 eng	kaz_Latn	Each student has their own computer.	Ár oqýshynyń óz kompıýteri bar.

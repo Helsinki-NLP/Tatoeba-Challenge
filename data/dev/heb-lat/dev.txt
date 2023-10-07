@@ -15,8 +15,8 @@ heb	lat_Latn	אני לא אשתה של מריה.	Uxor Mariae non sum.
 heb	lat_Latn	אני שונאת ואוהבת.	Odi et amo.
 heb	lat_Latn	ברוך אתה ה' אלוהינו מלך העולם שעשני כרצונו.	Benedictus es, Domine, Deus noster, Rex Universi, Qui me secundum voluntatem Suam creavit.
 heb	lat_Latn	בָּרוּךְ אַתָּה ה' אֱלֹקֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר בָּחַר-בָּנוּ מִכָּל הָעַמִּים וְנָתַן לָנוּ אֶת תּוֹרָתוֹ. בָּרוּךְ אַתָּה ה' נוֹתֵן הַתּוֹרָה:	Benedictus es, Domine, Deus noster, Rex Universi, Qui nos ex omnibus nationibus elegit et Thoram Suam nobis dedit. Benedictus es, Domine, Dator Thorae.
-heb	lat_Latn	הַבַּיִת שָׁם.	Domus ibi est.
 heb	lat_Latn	הבית שם.	Domus ibi est.
+heb	lat_Latn	הַבַּיִת שָׁם.	Domus ibi est.
 heb	lat_Latn	הברווז אכל אננס.	Anas ananasum edit.
 heb	lat_Latn	הוא גר כאן.	Hic habitat.
 heb	lat_Latn	הוא גר פה.	Hic habitat.
@@ -28,10 +28,10 @@ heb	lat_Latn	היטלר שנא את היהודים.	Hitler Iudaeos oderat.
 heb	lat_Latn	המים האלה לא קרים.	Haec aqua non friget.
 heb	lat_Latn	המים לא קרים.	Aqua non friget.
 heb	lat_Latn	הנער עובד.	Puer operatur.
-heb	lat_Latn	הַנַּעַר שָׁם.	Puer ibi est.
 heb	lat_Latn	הנער שם.	Puer ibi est.
-heb	lat_Latn	ה׳ נָתַן וַֽה׳ לָקָח.	Dominus dedit et Dominus abstulit.
+heb	lat_Latn	הַנַּעַר שָׁם.	Puer ibi est.
 heb	lat_Latn	ה׳ נתן וה׳ לקח.	Dominus dedit et Dominus abstulit.
+heb	lat_Latn	ה׳ נָתַן וַֽה׳ לָקָח.	Dominus dedit et Dominus abstulit.
 heb	lat_Latn	העולם יפה.	Mundus pulcher est.
 heb	lat_Latn	העולם כפר.	Mundus oppidulum est.
 heb	lat_Latn	העולם כפר.	Mundus villagium est.

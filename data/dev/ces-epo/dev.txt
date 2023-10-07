@@ -25,26 +25,31 @@ ces	epo	Buď odvážný!	Estu kuraĝa!
 ces	epo	Budoucnost má hodně jmen.	La estonteco havas multajn nomojn.
 ces	epo	Budou vyjednávat.	Ili intertraktos.
 ces	epo	Budu ti vyprávět o svém tátovi.	Mi rakontos al vi pri mia patro.
+ces	epo	Byla jsem tam jediná žena.	Mi tie estis la ununura virino.
 ces	epo	Byl bych milován.	Mi estus amata.
 ces	epo	Byl bych velmi vděčný, kdybys mi pomohl.	Mi estus tre danka, se vi helpus al mi.
 ces	epo	Byl dostatečně silný na to, aby pomohl svému otci na farmě.	Li estis sufiĉe forta por helpi sian patron en la bieno.
 ces	epo	Byli bychom rádi, kdyby Tom odešel.	Ni ĝojus, se Tomo forirus.
 ces	epo	Byl jsem otázán.	Oni pridemandis min.
 ces	epo	Byl jsem překvapen.	Mi estis surprizita.
+ces	epo	Byl jsem zrazen.	Mi estis perfidita.
 ces	epo	Byl jsi venku.	Vi estis ekstere.
 ces	epo	Bylo chladno a foukal vítr.	Estis malvarme kaj ventis.
 ces	epo	Bylo slyšet, jak si ve sprše zpívá.	Aŭdeblis, kiel li kantis duŝante sin.
 ces	epo	Bylo slyšet, jak si ve sprše zpívá.	Aŭdeblis, kiel ŝi kantis duŝante sin.
 ces	epo	Byl to člověk, který vzbuzoval extrémní reakce.	Li estis homo kiu vekis ekstremajn reagojn.
 ces	epo	Byl to pouze polibek na tvář.	Tio nur estis kiso sur la vango.
+ces	epo	Byl trockista.	Li estis trockiisto.
 ces	epo	Byl velmi přátelský ke všem.	Li estis tre afabla al ĉiuj.
 ces	epo	Byl vypovězen ze školy.	Li estis forpelita el la lernejo.
 ces	epo	Čas běží.	Pasas la temp'.
 ces	epo	Čeho se obáváš?	Kion vi timas?
 ces	epo	Celou dobu zůstal zticha.	Li restis silenta la tutan tempon.
 ces	epo	Celý den jen pláče.	Ŝi nur ploras dum la tuta tago.
+ces	epo	Celý týden pracuji.	Mi laboras la tutan semajnon.
 ces	epo	Černý medvěd sedí na stromě a spí.	Nigra urso sidas sur arbo kaj dormas.
 ces	epo	Četl jsem, že prezidentem Brazílie je žena. Jmenuje se Dilma.	Mi legis, ke la prezidento de Brazilo estas virino. Ŝia nomo estas Dilma.
+ces	epo	Chceme tady žít v míru.	Ni volas vivi ĉi tie en paco.
 ces	epo	Chce to, ale nepotřebuje to.	Ŝi volas, sed ne bezonas tion.
 ces	epo	Chci, abyste mi pomohla.	Mi volas, ke vi helpu al mi.
 ces	epo	Chci, abyste mi pomohl.	Mi volas, ke vi helpu min.
@@ -67,6 +72,7 @@ ces	epo	Chybí jeden z nožů.	Mankas unu el la tranĉiloj.
 ces	epo	„Čí jsou tohle ponožky?“ — „Mojí sestry.“	“Kies estas ĉi tiuj ŝtrumpetoj?” — “De mia fratino.”
 ces	epo	Co děláš?	Kion vi faras?
 ces	epo	Co jest hlavním cílem toho plánu?	Kio estas la ĉefa celo de tiu plano?
+ces	epo	Co je to za dívku, která sedí vedle Toma?	Kiu estas la knabino sidanta apud Tomo?
 ces	epo	Co je to za rybu?	Kiu fiŝo tio estas?
 ces	epo	Co jsi koupila?	Kion vi aĉetis?
 ces	epo	Co jsi ukradl?	Kion vi ŝtelis?
@@ -131,11 +137,13 @@ ces	epo	Hledáte práci?	Ĉu vi serĉas laboron?
 ces	epo	Hned budeme dole.	Ni estos tuj sube.
 ces	epo	Hned přinesu recept.	Mi tuj alportos la kvitancon.
 ces	epo	Holub odletěl.	La kolombo forflugis.
+ces	epo	Homosexualita je přirozená.	Samseksemo estas natura.
 ces	epo	Hoteliér je velmi příjemný - mluvil hezky s tou dívkou.	La hotelisto estas tre afabla; li parolis afable al la knabino.
 ces	epo	Hovořili spolu jako stáří přátelé.	Ili interparolis kiel malnovaj amikoj.
 ces	epo	Hraje s nimi poker.	Ŝi ludas pokeron kun ili.
 ces	epo	Instrukce, které dává, jsou velmi přesné.	La instruoj, kiujn ŝi donas, estas tre precizaj.
 ces	epo	Inu... Můj dům není dost velký.	Nu... mia domo ne estas sufiĉe granda.
+ces	epo	Írán je velká země.	Irano estas granda lando.
 ces	epo	Italská slovesa se dělí do tří konjugací.	La italaj verboj sin dividas en tri konjugaciojn.
 ces	epo	Já chci k jídlu sýr.	Mi volas manĝi la fromaĝon.
 ces	epo	Já chci umřít s Getter Jaani.	Mi volas morti kun Getter Jaani.
@@ -156,11 +164,13 @@ ces	epo	Jak to s tím souvisí?	Kiel tio rilatas?
 ces	epo	Jak vyložit tuto větu?	Kiel interpreti ĉi tiun frazon?
 ces	epo	Jak vypadám?	Kiel mi aspektas?
 ces	epo	Jaký hrozný člověk!	Kia popolaĉo!
+ces	epo	Jaký je rozdíl mezi stolem a židlí?	Kio estas la diferenco inter tablo kaj seĝo?
 ces	epo	Jaký je rozdíl mezi tímto a tamtím?	Kia diferenco estas inter ĉi tio kaj tio?
 ces	epo	Jaký počítač používáš?	Kian komputilon vi uzas?
 ces	epo	Jak zemřel Tom?	Kiel mortis Tom?
 ces	epo	Jane je úžasně krásná dívka.	Jane estas mirinde bela knabino.
 ces	epo	Já nerozernám skokana od ropuchy.	Mi ne kapablas distingi ranon de bufo.
+ces	epo	Japonsko je malá země.	Japanio estas malgranda lando.
 ces	epo	Japonsko je země, která je obklopená mořem.	Japanio estas lando kiu estas ĉie ĉirkaŭita de maro.
 ces	epo	Jaro je období, které mám nejraději.	Printempo estas la sezono, kiun mi plej ŝatas.
 ces	epo	Jdi rovně až na konec ulice.	Iru rekten, ĝis la fino de la strato.
@@ -175,6 +185,7 @@ ces	epo	Jeho bratr se vždy dívá na televizi.	Lia frato ĉiam spektas la telev
 ces	epo	Jeho krásná manželka je jeho pýchou.	Lia bela edzino estas lia fiero.
 ces	epo	Jeho matka pocházela z ruské rodiny.	Lia patrino devenis de rusa familio.
 ces	epo	Jeho mzda se zvýšila o deset procent.	Lia salajro altiĝis je dek procentoj.
+ces	epo	Jeho pyžamo je dlouhé.	Lia piĵamo estas longa.
 ces	epo	Jeho rady příliš nepomohly.	Liaj konsiloj ne multe helpis.
 ces	epo	Jeho rodiče byli učitelé.	Liaj gepatroj estis instruistoj.
 ces	epo	Jeho vtip všechny rozesmál.	Lia ŝerco ridigis ĉiujn.
@@ -242,6 +253,7 @@ ces	epo	Jsi členem?	Ĉu vi estas partiano?
 ces	epo	Jsi jedináček?	Ĉu vi estas solinfano?
 ces	epo	"Jsi Rus?" "Ano."	„Ĉu vi estas ruso?” – „Jes.”
 ces	epo	Jsi si jistý, že to chceš udělat teď hned?	Ĉu vi estas certa, ke vi volas fari tion tuj nun?
+ces	epo	Jsi špión.	Vi estas spiono.
 ces	epo	Jsme obyčejní smrtelníci.	Ni estas ordinaraj mortemuloj.
 ces	epo	Jsme o dost mladší, než Tom.	Ni estas multe pli junaj ol Tomo.
 ces	epo	Jsou dobré důvody k tomu věřit, co říká.	Sin trovas bonaj kialoj por kredi, kion li diras.
@@ -277,6 +289,7 @@ ces	epo	Kdy jsi ho naposledy viděl?	Kiam vi lastfoje vidis lin?
 ces	epo	Kdy jsi naposledy něco ztratil?	Kiam estis la lasta fojo ke vi perdis ion?
 ces	epo	Kdy jsi to koupila?	Kiam vi aĉetis ĝin?
 ces	epo	Kdy jste to koupili?	Kiam vi aĉetis ĝin?
+ces	epo	Kdy nás Tom zase navštíví?	Kiam Tomo denove vizitos nin?
 ces	epo	Kdy se ona vrátí domů?	Kiam ŝi revenos hejmen?
 ces	epo	Když ještě žil, náš děd věřil, že měsíc je velká bílá husa.	Kiam li ankoraŭ vivis, nia avo kredis, ke la luno estas granda blanka ansero.
 ces	epo	Když jsi naštvaný, počítej do deseti před tím, než promluvíš, pokud jsi rozzuřený, tak do sta.	Kiam kolera, kalkulu ĝis dek antaŭ ol vi parolas; se tre kolera, ĝis cent.
@@ -302,9 +315,11 @@ ces	epo	Krájím chléb nožem.	Mi tranĉas la panon per tranĉilo.
 ces	epo	Král vládl svému království spravedlivě.	La reĝo regis sian reĝlandon kun justeco.
 ces	epo	Kriminálník byl vyhoštěn ze země.	La krimulo estis forpelita de la lando.
 ces	epo	Kritizoval destruktivní sílu finančních trhů.	Li kritikis la detruan potencon de la financaj merkatoj.
+ces	epo	Krokodýl není aligátor.	Krokodilo ne estas aligatoro.
 ces	epo	Která kniha je tvoje?	Kiu libro estas la via?
 ces	epo	Které ovoce máš rád? - Mám rád podzimní ovoce.	Kiajn fruktojn vi ŝatas? - Aŭtunajn fruktojn mi ŝatas.
 ces	epo	Kůň skáče.	Ĉevalo saltas.
+ces	epo	Kůrku nejím.	La kruston mi ne manĝas.
 ces	epo	Kvůli čemu se tak rozčiluje?	Kontraŭ kio li tiom koleras?
 ces	epo	Kvůli husté mlze nebyl vidět žádný člověk.	Pro densa nebulo neniu homo estis videbla.
 ces	epo	Láska je jako spalničky. Všichni si jí musíme jednou projít.	Amo estas kiel morbilo. Ni ĉiuj devas travivi ĝin.
@@ -329,6 +344,7 @@ ces	epo	Mám dvojče.	Mi havas ĝemelon.
 ces	epo	Máme parkovací místa pro klienty.	Ni havas parkejon por la klientoj.
 ces	epo	Mám hodně knih.	Mi havas multajn librojn.
 ces	epo	Mám jednoho syna.	Mi havas filon.
+ces	epo	Mám kamarádku, která žije ve Španělsku.	Mi havas amikinon, kiu loĝas en Hispanio.
 ces	epo	Mám lepší nápad.	Mi havas pli bonan ideon.
 ces	epo	Mám na pokoji telefon.	Estas telefono en mia ĉambro.
 ces	epo	Mám přátele.	Mi havas amikojn.
@@ -354,6 +370,7 @@ ces	epo	Marie snila o Tomovi.	Manjo revis pri Tomo.
 ces	epo	Mari pracuje pro velkou firmu.	Mari laboras ĉe granda firmao.
 ces	epo	Marně se pokoušel přestat kouřit.	Li vane provis ĉesi fumi.
 ces	epo	Mary pije jen mléko bez laktózy.	Manjo trinkas nur senlaktozan lakton.
+ces	epo	Mary řekla že nemůže jít zítra s námi.	Mary diris, ke ŝi ne povos veni kun ni morgaŭ.
 ces	epo	Má sestra se podobá mé babičce.	Mia fratino similas al mia avino.
 ces	epo	Máš housle?	Ĉu vi havas violonon?
 ces	epo	Máš k tomu co říct?	Ĉu pri tio vi havas ion dirindan?
@@ -396,9 +413,12 @@ ces	epo	Moc se těším na dovolenou.	Mi tre antaŭĝojas miajn feriojn.
 ces	epo	Modli se za mne.	Preĝu por mi.
 ces	epo	Mohl bys mi prosím říct, proč tu jsi?	Ĉu vi bonvolas diri al mi kial vi estas ĉi tie?
 ces	epo	Mohli bychom začít znovu.	Ni povus rekomenci.
+ces	epo	Moje kočka žije s foxteriérem.	Mia kato loĝas kun vulpa terhundo.
 ces	epo	Moje matka mě přivedla na svět, když jí bylo šestnáct let.	Mia patrino naskis min, kiam ŝi estis deksesjara.
 ces	epo	Moje sestra je podobná mé babičce.	Mia fratino similas al mia avino.
+ces	epo	Moše je sefardský Žid.	Moseo estas sefardo.
 ces	epo	Most byl postaven Římany.	La ponto estis konstruita de la romianoj.
+ces	epo	Mount Evrest se nachází v Himalájích.	La monto Everesto troviĝas en Himalajo.
 ces	epo	Možná máš pravdu, ale naše názory se trochu liší.	Eble vi pravas, sed niaj opinioj iomete diferas.
 ces	epo	Mrzí mne, že jsem tě nechal čekat tak dlouho.	Mi bedaŭras ke mi atendigis vin tiel longe.
 ces	epo	Můj bratr se zranil při nehodě.	Mia frato estis vundita en la akcidento.
@@ -407,6 +427,8 @@ ces	epo	Můj chytrý telefon je na mě moc chytrý! Prostě ho neumím používa
 ces	epo	Můj dům je vedle parku.	Mia domo estas apud la parko.
 ces	epo	Můj kamarád jí rybu.	Mia amiko estas manĝanta fiŝon.
 ces	epo	Můj kamarád jí rybu.	Mia amiko manĝas fiŝon.
+ces	epo	Můj otec je Žid a moje matka Arabka.	Mia patro estas hebreo kaj mia patrino estas arabino.
+ces	epo	Můj otec je Žid a moje matka Arabka.	Mia patro estas judo kaj mia patrino estas arabino.
 ces	epo	Můj otec rád cestuje letadlem.	Mia patro ŝatas vojaĝi aviadile.
 ces	epo	Můj pes je bílý.	Mia hundo estas blanka.
 ces	epo	Můj pes rozumí Esperantu, ale nedokáže jím mluvit.	Mia hundo povas kompreni Esperanton, sed ne povas paroli ĝin.
@@ -422,6 +444,7 @@ ces	epo	Musím odmést sníh ze střechy.	Ni devas forbalai la neĝon de sur la 
 ces	epo	Musím si pospíšit; mám zpoždění.	Mi devas hasti; mi malfruas.
 ces	epo	Musí se vzít v úvahu hodně faktorů.	Oni devas konsideri multajn faktorojn.
 ces	epo	Muž dokonce ani nedokázal napsat svoje jméno.	La viro eĉ ne kapablis skribi sian nomon.
+ces	epo	Může se také jíst.	Ankaŭ tio estas manĝebla.
 ces	epo	Můžeš mi říci, kde je zoo?	Ĉu vi povas diri al mi, kie estas la bestĝardeno?
 ces	epo	Můžeš pozvat koho chceš.	Vi povas inviti kiun vi volas.
 ces	epo	Můžete mi na téhle mapě ukázat, kde se nacházím?	Ĉu vi bonvolas montri al mi sur tiu mapo, kie mi troviĝas?
@@ -435,6 +458,7 @@ ces	epo	Myslel jsem si, že bude tady.	Mi pensis, ke ŝi estos ĉi tie.
 ces	epo	Myslel jsem si, že to nebudeš schopen udělat.	Mi pensis, ke vi ne kapablos tion fari.
 ces	epo	Myslel jsem, že nepřijdeš.	Mi pensis, ke vi ne venos.
 ces	epo	Myslím, že bychom v tomto rozhovoru měli pokračovat venku.	Mi pensas, ke ni daŭrigu ĉi tiun konversacion ekstere.
+ces	epo	My trpíme nespravedlností	Ni suferas maljustaĵon.
 ces	epo	My všichni se těšíme na tvůj příjezd.	Ni ĉiuj antaŭĝojas pri via veno.
 ces	epo	Nabídl mi pivo, já jej však odmítl.	Li proponis bieron al mi, sed mi malakceptis ĝin.
 ces	epo	"Na co myslíš?" "Myslím na tebe."	"Pri kio vi pensas?" "Mi pensas pri vi."
@@ -542,6 +566,7 @@ ces	epo	Nevěděl jsi, že Tom umí hrát na kytaru?	Ĉu vi ne sciis, ke Tomo sc
 ces	epo	Nevěřím, že takové věci existují.	Mi ne kredas, ke tiaj aferoj ekzistas.
 ces	epo	Nevím, co je horší.	Mi ne scias kio estas la plej malbona.
 ces	epo	Nevím, co se mohlo stát.	Mi ne scias, kio povus okazi.
+ces	epo	Nevím, jak dlouho jsem spal.	Mi ne scias, kiom longe mi dormis.
 ces	epo	Nevím, jak se to stalo.	Mi ne scias, kiel tio okazis.
 ces	epo	Nevím, v kolik bude zpátky.	Mi ne scias, kiam ŝi revenos.
 ces	epo	Ne vždy je možné vyhnout se konfliktům.	Ne ĉiam estas eble eviti konfliktojn.
@@ -613,12 +638,14 @@ ces	epo	Pojmenovala svoji kočku Tatoeba.	Ŝi nomis sian katon Tatoeba.
 ces	epo	Pojmenoval jsem své kočky Tom a Jerry.	Mi nomis miajn katojn Tom kaj Jerry.
 ces	epo	Pokud je to možné, nepoužívej slang.	Laŭeble ne uzu slangon.
 ces	epo	Poletím na měsíc.	Mi flugos al la luno.
+ces	epo	Políbili jste někdy cizího člověka?	Ĉu vi iam kisis fremdulon?
 ces	epo	Policie je trénovaná na použití zbraní.	La polico estas trejnita uzi armilojn.
 ces	epo	Po práci jdu rovnou domů.	Post laboro mi rekte hejmeniras.
 ces	epo	Poradila mi, kde zůstat.	Ŝi konsilis min, kie restadi.
 ces	epo	Posadil se na lavičku.	Li eksidis sur la benkon.
 ces	epo	Posaď se přece na židli.	Sidiĝu ja sur la seĝon.
 ces	epo	Poslední část legendy byla přidána později.	La lasta parto de la legendo estis aldonita poste.
+ces	epo	Poslední kniha, kterou můj otec četl na smrtelné posteli, byla o litování minulých životů, Žít své minulé životy od Karla Schlotterbecka.	La lasta libro, kiun mia patro legis sur sia mortolito, temis pri pasintaj vivregresoj, Vivi en Viaj Pasintaj Vivoj, de Karl Schlotterbeck.
 ces	epo	Poslouchají rádio.	Ili aŭskultas la radion.
 ces	epo	Poslouchej, protože to nebudu opakovat.	Aŭskultu, ĉar mi ne ripetos tion.
 ces	epo	Posmíval se mému přízvuku.	Li mokis mian akĉenton.
@@ -669,6 +696,7 @@ ces	epo	Proč jste tu tak brzo?	Kial vi estas ĉi tie tiel frue?
 ces	epo	Proč máš tolik koček?	Kiom da katoj vi posedas?
 ces	epo	Proč mlčíš?	Kial vi silentas?
 ces	epo	Proč se tedy mnozí dospělí smějí méně než děti?	Kial do multaj plenkreskuloj ridas malpli ol infanoj?
+ces	epo	Proč si mě Tom nepamatuje?	Kial Tomo ne memoras min?
 ces	epo	Proč s námi neobědváš?	Kial ne tagmanĝi kun ni?
 ces	epo	Proč svítí měsíc v noci?	Kial brilas la luno nokte?
 ces	epo	Proč to nemůžeme udělat?	Kial ni ne povas tion fari?
@@ -696,6 +724,7 @@ ces	epo	Protože jsem nemocný, nepůjdu s tebou.	Ĉar mi malsanas, mi ne iros k
 ces	epo	Protože pršelo, rozhodli jsme se zůstat uvnitř.	Ĉar falis pluvo, ni decidis resti en la interno.
 ces	epo	Pršelo, proto jsem nastydnul.	Pluvis, tial mi malvarmumis.
 ces	epo	Průměrně čte tři až čtyři knihy týdně.	Meznombre ŝi legas po tri aŭ kvar libroj semajne.
+ces	epo	První tři roky svého života jsem prožil v Německu.	La unuajn tri jarojn de mia vivo mi pasigis en Germanio.
 ces	epo	Psíček chce spát.	Hundeto volas dormi.
 ces	epo	Pšt, pšt, nehraj si tady, prosím!	Ts, ts! Ne ludu ĉi tie, mi petas!
 ces	epo	Ptali se mě.	Oni pridemandis min.
@@ -742,6 +771,8 @@ ces	epo	Samozřejmě, že tam půjdu s tebou.	Kompreneble mi iros tien kun vi.
 ces	epo	Sazae vždycky zapomíná své vlastní telefonní číslo.	Sazae ĉiam forgesas sian propran telefonnumeron.
 ces	epo	Scvrnkls.	Vi depuŝis perfingre.
 ces	epo	Sdílel mou radost.	Li kundividis mian ĝojon.
+ces	epo	Sebeobrana je nezbytná.	Memdefendo estas vivnecesa.
+ces	epo	Sebeobrana je životně důležitá.	Memdefendo estas vivnecesa.
 ces	epo	Seděl na posteli.	Li sidis sur la lito.
 ces	epo	Sedni si tady.	Sidu ĉi tie.
 ces	epo	Sedni si tam	Sidu tien.
@@ -749,6 +780,7 @@ ces	epo	Šel jsem na pivo s přáteli.	Mi iris drinki bieron kun miaj geamikoj.
 ces	epo	Šel jsem pěšky.	Mi piediris.
 ces	epo	Separatisté mají nadále držení nad státními budovami.	Separistoj daŭre tenas ŝtatajn konstruaĵojn.
 ces	epo	Sestra ovinula obvaz kolem mé nohy.	La flegistino volvis bandaĝon ĉirkaŭ mian kruron.
+ces	epo	Sjednocený lid nebude nikdy poražen.	La unuigita popolo neniam estos venkita.
 ces	epo	Šla jsem na ten večírek jenom proto, abych se ukázala ve společnosti.	Mi iris al la festo nur por min montri en la societo.
 ces	epo	Slíbil, že tu bude na šestou hodinu.	Li promesis esti ĉi tie je la 6a horo.
 ces	epo	Sliby se mají plnit.	Oni plenumu siajn promesojn.
@@ -828,6 +860,7 @@ ces	epo	To je ryba.	Tio estas fiŝo.
 ces	epo	To je ta zastávka.	Tio estas la bushaltejo.
 ces	epo	To je tvůj problém.	Tio estas via problemo.
 ces	epo	To je velmi závažná oprava.	Tio estas ĝustigo de granda graveco.
+ces	epo	To je vysoká pokuta.	Ĝi estis alta monpuno.
 ces	epo	Tom byl mrtev.	Tom estis mortinta.
 ces	epo	Tom byl můj manžel.	Tomo estis mia edzo.
 ces	epo	Tom byl můj první přítel.	Tomo estis mia unua koramiko.
@@ -837,9 +870,12 @@ ces	epo	Tom byl smutný.	Tom estis malgaja.
 ces	epo	Tom byl unavený, ale šťastný.	Tomo estis laca, sed feliĉa.
 ces	epo	Tom byl v posteli.	Tom estis en lito.
 ces	epo	To mě hrozně trápí.	Pri tio mi ege ĉagreniĝas.
+ces	epo	Tome!	Tomo!
 ces	epo	Tom jednal bez rozmyslu.	Tom agis sen penso.
 ces	epo	Tom je hrdina.	Tom estas brava ulo.
+ces	epo	Tom je jazykovědec.	Tomo estas lingvisto.
 ces	epo	Tom je ještě v posteli.	Tomo ankoraŭ estas en la lito.
+ces	epo	Tom je lingvista.	Tomo estas lingvisto.
 ces	epo	Tom je muž, a já jsem žena.	Tomo estas viro kaj mi estas virino.
 ces	epo	Tom je negramotný, že?	Tomo estas analfabeto, ĉu ne?
 ces	epo	Tom je policista.	Tomo estas policisto.
@@ -1001,6 +1037,7 @@ ces	epo	V zahradě nikdo nebyl.	Estis neniu en la ĝardeno.
 ces	epo	Vždycky jsem chtěl zkusit naučit se francouzský jazyk.	Ĉiam mi volis provi lerni la francan lingvon.
 ces	epo	Vždycky má v pokoji čisto.	Ŝi ĉiam tenas sian ĉambron pura.
 ces	epo	Začala plakat a já jsem začal plakat také.	Ŝi komencis plori, kaj ankaŭ mi komencis plori.
+ces	epo	Začal jsem sledovat ruské filmy na YouTube.	Mi ekspektis rusajn filmojn per Jutubo.
 ces	epo	Zachránili nás.	Ili savis nin.
 ces	epo	Zachránil psa riskujíce svůj život.	Li savis la hundon riskante sian vivon.
 ces	epo	Začni zde nový odstavec.	Komencu novan alineon ĉi tie.
@@ -1040,6 +1077,8 @@ ces	epo	Zjistili jsme, že všichni už spali.	Ni malkovris ke ĉiuj ekdormiĝis
 ces	epo	Zkontroluj to znovu.	Kontrolu denove.
 ces	epo	Zkouším položit otázku.	Mi provas starigi demandon.
 ces	epo	Zkusme něco!	Provu ni ion!
+ces	epo	Zlato je těžší než voda.	Oro estas pli peza ol akvo.
+ces	epo	Zlomil si holenní kost.	Lia tibio rompiĝis.
 ces	epo	Zmítal se jak ryba na suchu.	Barakti kiel fiŝo ekster la akvo.
 ces	epo	Znal jste Toma dobře?	Ĉu vi konis Tomon bone?
 ces	epo	Znáte odpověď?	Ĉu vi scias la respondon?
@@ -1048,6 +1087,7 @@ ces	epo	Znečišťovat vodu je zločin proti lidstvu.	Malpurigi akvon estas krim
 ces	epo	Z nějakého důvodu se cítím živější v noci.	Pro iu kaŭzo mi sentas min pli vigla nokte.
 ces	epo	Znovu, prosím!	Denove, mi petas!
 ces	epo	Znovu vyhrál v závodě.	Li denove gajnis la vetkuron.
+ces	epo	Zpívá špatně.	Ŝi kantas malbone.
 ces	epo	Zpívej se mnou.	Kantu kun mi.
 ces	epo	Z pokoje byl vynesen poslední předmět.	Oni elportis el la ĉambro la lastan objekton.
 ces	epo	Zúčastním se konference.	Mi ĉeestos en la konferenco.

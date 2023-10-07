@@ -11,6 +11,7 @@ eng	oci	Are you a student?	Ètz estudiants ?
 eng	oci	Are you going, too?	Tu tanben i vas ?
 eng	oci	Are you going, too?	Vosautes tanben i vatz ?
 eng	oci	Are you helping Miss Hansson?	Ajudas Dauna Hansson ?
+eng	oci	Ask him what he wants to drink.	Demanda-li qué vòl beure.
 eng	oci	A squid has ten legs.	Un chipiron a dètz camas.
 eng	oci	At first, Meg was homesick.	A la debuta, la Meg avèva lo mau de casa.
 eng	oci	At last, I completed my work.	Ai fin finala acabat lo meu trabalh.
@@ -43,14 +44,17 @@ eng	oci	Do you like this flower?	T'agrada aquera flor ?
 eng	oci	Do you love your mother?	Aimatz vòstra maire ?
 eng	oci	Do you love your mother?	T'agrada toa mair?
 eng	oci	Do you plan to go overseas?	As pervist d'anar a l'estrangèr ?
+eng	oci	Do you really think that I don't know what you did?	Pensas vertadièrament que sabi pas çò que faguères ?
 eng	oci	Do you really want it?	Vòus vertadierament aquò ?
 eng	oci	Do your homework now.	Hè los tons devers adara.
 eng	oci	Do you speak Chinese?	Parlatz lo chinés ?
 eng	oci	Do you think Tom lied to us?	Pensas, que lo Tòm nos a mentit ?
 eng	oci	Do you want to be rich?	E vòus estar ric ?
 eng	oci	Drink less and sleep more.	Bèu mensh e drom mei.
+eng	oci	Eating between meals isn't good.	Manjar entre los repaisses es pas de bon far.
 eng	oci	Enjoy your meal!	Bon apetit !
 eng	oci	Everyone looks exhausted.	Tot lo monde sembla estadit.
+eng	oci	Farewell, my friend!	Adieu, amic meu !
 eng	oci	Father is busy putting up a wall.	Lo pair qu'ei encuentat a bastir ua murralha.
 eng	oci	Father objected to my going to the mountain alone.	Lo pair n'èra pas d'acòrd qu'angui sol a la montanha.
 eng	oci	Good afternoon.	Bon jorn !
@@ -120,11 +124,13 @@ eng	oci	I can't remember the meaning of the word that I looked up yesterday.	Ne'
 eng	oci	I discovered a very nice place today.	Qu'èi descobèrt uei un endret hèra agradiu.
 eng	oci	I'd like to see my son.	M'agradaré de véser lo men hilh.
 eng	oci	I'd like you to come early.	Volerí que venguosses de d'ora.
+eng	oci	I don't always put sugar in my tea.	Meti pas totjorn de sucre dins mon tè.
 eng	oci	I don't care what he does.	Me'n foti de çò qui hè.
 eng	oci	I don't care what he does.	Me'n trufi de çò qui hè.
 eng	oci	I don't have a cat.	N'èi pas de gat.
 eng	oci	I don't have a cat.	N'èi pas nat gat.
 eng	oci	I don't like eggs.	Lo sueus ne m'agradan pas.
+eng	oci	I don't think Tom knew how I felt.	Pensi pas que Tom sabiá cossí me sentiái.
 eng	oci	I don't understand how she did that. That was a miracle.	Comprengui pas pr'amor as hèit aquò. Estoc un miracle.
 eng	oci	I don't want any more.	Ne'n vòli pas mei.
 eng	oci	I don't want to give myself false hopes.	Ne'm vòli pas balhar faus espèrs.
@@ -163,6 +169,7 @@ eng	oci	I love Hitomi.	Qu'aimi Hitomi.
 eng	oci	I love parties.	Qu'aimi las hèstas.
 eng	oci	I'm a policeman.	Soi policièr.
 eng	oci	I met your father just now.	Qu'acabi d'encontrar lo ton pair.
+eng	oci	I'm going to the concert.	Vau al concèrt.
 eng	oci	I'm in Hong Kong right now.	Ara soi a Hong Kong.
 eng	oci	I'm Japanese, but I don't live in Japan.	Soi japonés, mès ne demòri pas au Japon.
 eng	oci	I'm not a doctor.	Ne soi pas mètge.
@@ -194,6 +201,7 @@ eng	oci	Is Mother scolding the horse?	E Mamà polha lo shivau ?
 eng	oci	Is she your sister?	Ei la toa sòr ?
 eng	oci	I stared at the man.	Qu'èi claverat los uelhs sus l'òmi.
 eng	oci	I stayed home all day.	Que demorèi a casa lo jorn sancèr.
+eng	oci	Is there a need to write it down?	Fa mestièr de l'escriure ?
 eng	oci	It has been three years since I came to live here.	Tres annadas que son passadas desempuish que vengoi viure aquí.
 eng	oci	I think, therefore I am.	Pensi, per consequéncia soi.
 eng	oci	I think you've been brainwashed.	Pensi qu'as subit un lavatge de cervèth.
@@ -257,6 +265,7 @@ eng	oci	May I have your next dance?	M'autrejatz la dança qui veng ?
 eng	oci	May I talk to Ms. Brown?	E podi parlar a Dauna Brown ?
 eng	oci	Mike has two girlfriends.	Lo Mike qu'a duas amiguetas.
 eng	oci	Mr Gorbachev, tear down this wall!	Sénher Gorbachev, desapitatz aquera murrallha !
+eng	oci	My brothers and sisters know that I'm in love with you.	Mos fraires e sòrres sabon que soi amorós de tu.
 eng	oci	My daughter caught a cold.	La mea hilha qu'a gahat ua tehequèra.
 eng	oci	My father drinks daily.	Lo men pair que beu cada jorn.
 eng	oci	My father drives to work.	Lo men pair que va au tribalh en veitura.
@@ -265,6 +274,7 @@ eng	oci	My father likes tennis.	Que l'agrada au men pair lo tennís.
 eng	oci	My father loves pizza.	Lo men pair qu'aima la pizza.
 eng	oci	My father smokes.	Lo men pair que fuma.
 eng	oci	My father walks.	Lo men pair que camina.
+eng	oci	My friends are the best.	Mos amics son los melhors.
 eng	oci	My god is the greatest!	Mon diu ei lo mei gran !
 eng	oci	My job is to take care of the baby.	Lo men tribalh qu'ei encuentà's deu nenet.
 eng	oci	My love, I've finished cooking the food.	Mon amor, qu'èi acabat de còser lo minjar.
@@ -311,6 +321,7 @@ eng	oci	She still loved him.	Que l'aima enqüèra.
 eng	oci	She teaches English.	Qu'ensenha l'anglés.
 eng	oci	She wept when she heard the terrible news.	Que plorè quan ausiscó la tarribla novèla.
 eng	oci	Signing off, gonna take a shower.	Qu'em desconecti, me'n vau prénguer ua docha.
+eng	oci	Someone will have to do that.	Qualqu'un deurà far aquò.
 eng	oci	Something is wrong with this calculator.	I a quicòm que truca a sa calculadera.
 eng	oci	Spring has passed and summer starts.	La prima es passada e l'estiu comença.
 eng	oci	Sunday is the last day of the week.	Dimenge es lo darrèr jorn de la setmana.
@@ -336,6 +347,7 @@ eng	oci	The fish is in clear water.	Lo peish qu'ei en aiga clara.
 eng	oci	The food isn't very good here.	La mangiscla n'ei pas hèra bona aquí.
 eng	oci	The French word "amour" comes from the Occitan language through the troubadours, otherwise it would be "ameur".	Lo mot francés "amour" veng de l'occitan peus trobadors, se que non seré "ameur".
 eng	oci	The garden is still in shadow.	Lo casau qu'ei enqüèra a l'ombra.
+eng	oci	The loo is blocked.	Los comuns son blocats.
 eng	oci	The man, who had not eaten for three days, had trouble thinking about anything except food.	L'òmi qui n'a pas minjat desempuish tres dias, a problèmas entà pensar a quauquarren d'aute.
 eng	oci	The President is usually accompanied by his wife when he goes abroad.	Lo president es de costuma acompanhat per sa femna quan se'n va a l'estrangèr.
 eng	oci	There is no hope of his being alive.	N'i a pas d'esper que sia vivent.
@@ -552,10 +564,12 @@ eng	oci	Tom is very kind.	Lo Tòm qu'ei plan brave.
 eng	oci	Tom knocked him down.	Lo Tòm que l'ensuquè.
 eng	oci	Tom likes hot curry.	Lo Tòm qu'aima lo currí hòrt.
 eng	oci	Tom likes to knit.	Au Tòm que l'agrada brocar.
+eng	oci	Tom looks like an egg.	Tom sembla un uòu.
 eng	oci	Tom lost his job.	Lo Tòm que's perdó lo tribalh.
 eng	oci	Tom must be at least thirty years old.	Lo Tòm que dèu aver au mensh trenta ans.
 eng	oci	Tom reloaded his gun.	Lo Tòm que's tornè cargar lo pistolet.
 eng	oci	Tom runs very fast.	Lo Tòm que cor hèra viste.
+eng	oci	Tom should've helped you.	Tom auriá degut t'ajudar.
 eng	oci	Tom's phone was confiscated by the teacher.	Lo telefonet deu Tòm estoc confiscat peu professor.
 eng	oci	Tom's phone was confiscated by the teacher.	Lo telefonet deu Tòm estoc confiscat peu regent.
 eng	oci	Tom's speech was excellent.	Lo devís deu Tòm qu'èra excellent.
@@ -772,6 +786,8 @@ eng	oci	Where was he born and raised?	On èra nascut e eslhevat ?
 eng	oci	Which dictionary did you refer to?	A quin diccionari hès referéncia ?
 eng	oci	Which direction were they heading in?	De cap a on anàvan ?
 eng	oci	Which direction were they heading in?	En quina direccion anàvan ?
+eng	oci	Which instance is it?	Quina instància es aquesta ?
+eng	oci	Who has left the door open?	Qual a daissat la pòrta dobèrta ?
 eng	oci	Why are you crying?	Pr'amor ploras ?
 eng	oci	Why did this happen?	Perqué aquò s'ei passat ?
 eng	oci	Will she get well soon?	E va remete's lèu ?
@@ -839,3 +855,4 @@ eng	oci	You should tell the truth.	Que't caleré díser la vertat.
 eng	oci	You were late for work.	Ès arribat tròp tard au tribalh.
 eng	oci	You will be laughed at.	Se van trufar de tu.
 eng	oci	You will have to study harder next year.	Que't calerà estudiar mei dur l'an qui veng.
+eng	oci	Ziri is shy as well.	Ziri es timide tanben.

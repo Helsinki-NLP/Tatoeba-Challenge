@@ -4,8 +4,10 @@ ind	tur	Aku cinta kamu!	Seni seviyorum.
 ind	tur	Aku tidak tahu bahwa Tom seorang penyanyi.	Tom'un bir şarkıcı olduğunu bilmiyordum.
 ind	tur	Aku tidak tahu kapan dia bisa datang.	Onun ne zaman gelebileceğini bilmiyorum.
 ind	tur	Anak itu sudah tidak ada harapan lagi.	O çocuk çekilmez.
+ind	tur	Apakah kamu orang Irlandia?	İrlandalı mısın?
 ind	tur	Apakah kamu pernah pergi ke pantai dengan Tom?	Sen hiç Tom'la plaja gittin mi?
 ind	tur	Apakah kamu punya album terbaru Stevie Wonder?	Stevie Wonder'ın yeni albümü sende var mı?
+ind	tur	Apa yang sedang terjadi di negara ini?	Bu ülkede neler oluyor?
 ind	tur	Bagaimana Anda bisa menyakiti hamba yang telah Allah ampuni?	Allah'ın affettiği kuluna siz nasıl olur da acı çektirirsiniz?
 ind	tur	Baru dibuang.	Onu attım.
 ind	tur	Bolehkah kalau saya diskusikan dengan istri saya?	Onu karımla tartışabilir miyim?
@@ -33,6 +35,7 @@ ind	tur	Mengapa mereka memenjarakannya?	Onlar onu neden tutukladılar?
 ind	tur	Mereka sedang mencari kebahagian.	Onlar mutluluğun peşindeler.
 ind	tur	Mungkin kita harus duduk di tempat lain.	Belki de başka bir yerde oturmalıyız.
 ind	tur	Percobaannya berhasil.	Deney başarılıydı.
+ind	tur	Pusat perbelanjaan itu penuh sesak.	AVM kalabalıktı.
 ind	tur	Ribuan orang kehilangan pekerjaan mereka.	Binlerce insan işlerini kaybetti.
 ind	tur	Ruang kelas ini hanya bisa menampung tiga puluh orang murid.	Bu sınıf sadece otuz öğrenci alabilir.
 ind	tur	Rumahnya terjual seharga sepuluh ribu dolar.	Onun evi on bin dolara satıldı.
@@ -41,15 +44,21 @@ ind	tur	Saya belum mendengar kabar darinya.	Ondan henüz haberim yok.
 ind	tur	Saya berada di dalam rumah yang indah.	Güzel bir evdeyim.
 ind	tur	Saya hanya bergurau.	Sadece şaka yapıyorum.
 ind	tur	Saya membaca New York Times.	New York Times'ı okuyorum.
+ind	tur	Saya tidak banyak bicara.	Çok konuşmuyorum.
 ind	tur	Saya tidak ingin kamu sakit karena saya.	Benim yüzümden incinmeni istemiyorum.
+ind	tur	Saya tidak punya pacar.	Erkek arkadaşım yok.
 ind	tur	Selamat liburan!	Tatilin keyfini çıkarın.
 ind	tur	Seorang laki-laki kaya yang tidur diatas tempat tidur emas.	Altın bir yatakta yatan zengin bir adam var.
 ind	tur	Seorang sopir tidur didalam mobil.	Bir sürücü, arabanın içinde uyuyordu.
 ind	tur	Seratus lima puluh ribu pasangan ingin menikah di Shanghai pada tahun 2006.	Yüz elli bin çiftin, 2006 yılında Shanghai'da evlenmesi bekleniyor.
 ind	tur	Silakan duduk.	Lütfen oturun.
+ind	tur	Tidak ada alamat di amplop ini.	Bu zarfta adres yok.
 ind	tur	Tom pandai matematika.	Tom matematikte iyidir.
 ind	tur	Tom tidak akan menunggu.	Tom beklemeyecek.
+ind	tur	Ujiannya tidak sulit.	Sınav zor değildi.
 zsm_Arab	tur	.محمد سوک ماکن ناسي لمق	Muhammet nasi lemak yemeyi sever.
 zsm_Latn	tur	Apa yang anda tangkap hari ini?	Bugün ne yakaladın?
 zsm_Latn	tur	Kadang-kadang untuk membetulkan adalah lebih sukar daripada menulis.	Kimi zaman düzeltmek yazmaktan daha zordur.
 zsm_Latn	tur	Muhammad suka makan nasi lemak.	Muhammet nasi lemak yemeyi sever.
+zsm_Latn	tur	Setiap ideologi pada asasnya adalah seperti agama. Setiap agama juga adalah ideologi.	Her ideoloji esasında bir din gibidir. Her din de bir ideoloji.
+zsm_Latn	tur	Tuhan itu satu, pintunya seribu satu.	Allah bir, kapısı bin bir.

@@ -36,8 +36,11 @@ spa	cmn_Hans	¿Aquí?	在这里吗？
 spa	cmn_Hans	Así es, es nuestra directora.	对，是我们经理。
 spa	cmn_Hans	Así es, es nuestra jefa.	对，是我们经理。
 spa	cmn_Hans	Así es, es nuestro director.	对，是我们经理。
+spa	cmn_Hans	A Tom le gustan ambos.	汤姆两个都喜欢。
 spa	cmn_Hans	A Tom no le gusta ponerse reloj.	汤姆不喜欢戴手表。
+spa	cmn_Hans	A Tom también le gusta comer pescado.	汤姆也喜欢吃鱼。
 spa	cmn_Hans	Aunque estaba cansada, siguió trabajando.	虽然她很累了，她还是继续工作。
+spa	cmn_Hans	Ayer estaba malo así que no vino a la escuela.	他昨天病了，所以没来学校。
 spa	cmn_Hans	Ayer le ayudé.	昨天我帮了他。
 spa	cmn_Hans	¡Ayúdanos!	帮帮我们！
 spa	cmn_Hans	¡Basta!	够了！
@@ -50,12 +53,14 @@ spa	cmn_Hans	¡Bienvenido a nuestro hogar!	欢迎来到我们家！
 spa	cmn_Hans	¡Bienvenido a Tatoeba!	欢迎访问 Tatoeba!
 spa	cmn_Hans	Bienvenidos a Tatoeba.	欢迎来到 Tatoeba。
 spa	cmn_Hans	Bob me ayudó.	Bob帮助了我。
+spa	cmn_Hans	Buenos días, ahora tengo helado.	早上好、现在我有冰淇淋。
 spa	cmn_Hans	¡Buen viaje!	祝你一路顺风。
 spa	cmn_Hans	Cada día el tiempo viene más frío.	天气一天天冷下来了。
 spa	cmn_Hans	¡Cálmate!	冲动是魔鬼！
 spa	cmn_Hans	Casi muere ahogada.	她差点被淹死。
 spa	cmn_Hans	Casi nunca llega tarde al colegio.	她上学很少迟到。
 spa	cmn_Hans	Cerca hay una parada de autobús.	附近有个车站。
+spa	cmn_Hans	China en chino se dice "Zhongguo".	中国在中文中是“Zhongguo”。
 spa	cmn_Hans	¡Chinga a tu madre!	肏你妈屄！
 spa	cmn_Hans	¡Cielo santo! ¡Está delicioso!	天呐，真好吃!
 spa	cmn_Hans	Cogiste la llave equivocada.	你拿错钥匙了。
@@ -66,9 +71,11 @@ spa	cmn_Hans	Comed con nosotros.	跟我们一起吃吧。
 spa	cmn_Hans	¿Comiste?	你吃饭了吗？
 spa	cmn_Hans	Como ella es nueva, no conoce a nadie.	因为她是新来的，所以她谁都不认识。
 spa	cmn_Hans	¿Cómo es el clima de Nueva York?	纽约的天气怎么样？
+spa	cmn_Hans	¿Cómo estuvo el tiempo ayer en Pekín?	北京昨天天气怎么样？
 spa	cmn_Hans	¿Cómo leen ustedes esta palabra?	你们怎么读这个词？
 spa	cmn_Hans	¿Cómo me pongo en contacto contigo?	我怎么联系你？
 spa	cmn_Hans	¡Cómo puedes decir algo así!	你怎么能这么说！
+spa	cmn_Hans	¿Cómo se conocieron?	他们是怎么认识的？
 spa	cmn_Hans	¿Cómo se pronuncia esta palabra?	这个词怎么发音？
 spa	cmn_Hans	¿Cómo serían nuestras vidas sin electricidad?	如果没有电，那我们生活会怎样?
 spa	cmn_Hans	¿Cómo te atreves a decirme algo así?	你怎么敢对我说这样的话?
@@ -143,6 +150,7 @@ spa	cmn_Hans	¿De quién es?	这是谁的？
 spa	cmn_Hans	Descansemos un rato.	我们休息一会儿吧。
 spa	cmn_Hans	¿Desde hace cuánto que la conoces?	你认识她多久了？
 spa	cmn_Hans	De verdad estoy de acuerdo contigo.	我确实同意你。
+spa	cmn_Hans	De verdad que estoy muy contento.	我真的非常开心。
 spa	cmn_Hans	¡De verdad que me encanta viajar!	我真的太喜欢旅行了！
 spa	cmn_Hans	¿De verdad vas a ir a estudiar a Londres?	你要去伦敦读书是真的吗？
 spa	cmn_Hans	Dicen que nació en Alemania.	他们说她是在德国出生的。
@@ -179,7 +187,9 @@ spa	cmn_Hans	El chico está comiendo pan.	这个男孩子在吃面包。
 spa	cmn_Hans	El cielo es azul claro.	天空是浅蓝的。
 spa	cmn_Hans	Él conoce a mucha gente.	他认识很多人。
 spa	cmn_Hans	Él descansó un rato.	他休息了一会儿。
+spa	cmn_Hans	Él dice que ha ganado.	他说他赢了。
 spa	cmn_Hans	Él dijo que tenía hambre.	他说他饿了。
+spa	cmn_Hans	Él es bueno para el golf.	他高尔夫球打得好。
 spa	cmn_Hans	Él es chino.	他是中国人。
 spa	cmn_Hans	Él es doctor.	他是医生。
 spa	cmn_Hans	Él es igual de alto que su padre.	他和他爸爸一样高。
@@ -192,6 +202,7 @@ spa	cmn_Hans	¿Él está saliendo con una estudiante extranjera?	他正在和一
 spa	cmn_Hans	Él estudia chino.	他学习汉语。
 spa	cmn_Hans	Él estudia la historia de los Estados Unidos.	他学美国的历史。
 spa	cmn_Hans	El es una persona apasionada.	他是个多情的人。
+spa	cmn_Hans	Él es un borrachín.	他是个酒鬼。
 spa	cmn_Hans	Él es un chico muy honesto.	他是个非常老实的小伙子。
 spa	cmn_Hans	Él es un joven japonés.	他是个日本少年。
 spa	cmn_Hans	El experimento comprobó su teoría.	实验证明了他的理论。
@@ -213,6 +224,7 @@ spa	cmn_Hans	Ella dijo unas palabras de agradecimiento por el regalo.	她对收�
 spa	cmn_Hans	Ella duerme en el coche.	她在车子里睡觉。
 spa	cmn_Hans	Ella escribió muchos poemas.	她写了好多诗。
 spa	cmn_Hans	Ella es la ama de casa perfecta.	她是个完美的家庭主妇。
+spa	cmn_Hans	Ella es más alta que su madre.	她比母亲高。
 spa	cmn_Hans	Ella estaba sentada bajo un árbol.	她在一棵树下坐着。
 spa	cmn_Hans	Ella está esperando a que vuelvas.	她在等你回来。
 spa	cmn_Hans	Ella está estudiando holandés.	她在学习荷兰语。
@@ -245,6 +257,7 @@ spa	cmn_Hans	Ellos llegaron a Osaka a comienzos de mayo.	他们五月初到了�
 spa	cmn_Hans	Ellos no han dormido por cuarenta y ocho horas.	他们已经四十八个小时沒睡觉了。
 spa	cmn_Hans	Ellos no lo oyeron.	他们没听。
 spa	cmn_Hans	Ellos pueden hablar inglés.	他们会说英语。
+spa	cmn_Hans	Ellos son muy especiales.	他们很特别。
 spa	cmn_Hans	Ellos tienen doce hijos.	他们有12个孩子。
 spa	cmn_Hans	Él me escribió una carta de amor.	他给我写了情书。
 spa	cmn_Hans	Él me llamó a medianoche.	他半夜打了个电话给我。
@@ -260,6 +273,7 @@ spa	cmn_Hans	Él no tiene empleo. Está jubilado.	他没有工作，他退休了
 spa	cmn_Hans	El número 2010 tiene dos ceros.	2010这个数字里有两个零。
 spa	cmn_Hans	El padre de ella es japonés.	她父亲是日本人。
 spa	cmn_Hans	Él parecía preocupado por su salud.	他看起来很担心自己的健康。
+spa	cmn_Hans	El presidente de Ucrania es judío.	烏克蘭總統是猶太人。︀
 spa	cmn_Hans	El profesor Wang nos enseña chino.	王老师教我们汉语。
 spa	cmn_Hans	El pueblo chino es muy trabajador.	中国人民非常勤劳。
 spa	cmn_Hans	El queso es un alimento sólido elaborado a partir de la leche de vaca, cabra, oveja u otros mamíferos.	奶酪是由母牛、山羊、绵羊或其它哺乳动物的奶被加工制造的坚硬的食物。
@@ -393,6 +407,7 @@ spa	cmn_Hans	Estoy ahora en el aeropuerto.	我现在在机场。
 spa	cmn_Hans	Estoy aprendiendo dos lenguas extranjeras.	我学两种外语。
 spa	cmn_Hans	Estoy en Londres.	我在伦敦。
 spa	cmn_Hans	Estoy estudiando en la Universidad de Hyogo.	我在兵库县立大学学习。
+spa	cmn_Hans	Estoy herida.	我受伤了。
 spa	cmn_Hans	Estoy leyendo tu libro.	我在读你的书。
 spa	cmn_Hans	Estoy seguro que esto es pescado fresco.	我肯定这是淡水鱼。
 spa	cmn_Hans	Estoy sentado en el sofá.	我坐在沙发上。
@@ -408,6 +423,8 @@ spa	cmn_Hans	Estudio en esta universidad.	我在这所大学学习。
 spa	cmn_Hans	Estudio francés todos los días después de cenar.	我每天吃过晚饭后都会学法语。
 spa	cmn_Hans	Estudio inglés en casa.	我在家学习英语。
 spa	cmn_Hans	Estudio.	我学习。
+spa	cmn_Hans	¿Es una amiga?	她是一个朋友吗？
+spa	cmn_Hans	¿Es un amigo?	他是一个朋友吗？
 spa	cmn_Hans	Es una silla cómoda.	这是张舒服的椅子。
 spa	cmn_Hans	Es una tarea difícil elegir qué está "bien" o "mal", pero has de hacerlo.	选择什么是“对”或“错”是一项艰难的任务，我们却必须要完成它。
 spa	cmn_Hans	Es un poco como su padre.	他有点像他的父亲。
@@ -426,6 +443,7 @@ spa	cmn_Hans	¡Gracias a todos!	谢谢大家！
 spa	cmn_Hans	¡Gracias por darme un regalo tan bonito!	谢谢你送给我这么漂亮的礼物！
 spa	cmn_Hans	Gracias por su regalo.	谢谢您的礼物。
 spa	cmn_Hans	Gracias por tu consejo.	谢谢你的建议。
+spa	cmn_Hans	Gracias, Tom.	汤姆，谢谢你。
 spa	cmn_Hans	¿Habla alguien japonés aquí?	这里有人会说日语吗？
 spa	cmn_Hans	¿Hablas japonés?	你说日语吗?
 spa	cmn_Hans	¿Hablas shanghainés?	你说上海话吗？
@@ -501,12 +519,14 @@ spa	cmn_Hans	La he hecho enfadarse.	我让她生气了。
 spa	cmn_Hans	La he visto hoy.	我今天看见她了。
 spa	cmn_Hans	La he visto tocando el piano.	我看见她弹钢琴。
 spa	cmn_Hans	La informática es una ciencia particular.	计算机科学是一门奇特的学科。
+spa	cmn_Hans	¿La mayonesa es un instrumento?	蛋黄酱是一种乐器吗？
 spa	cmn_Hans	Lamento interrumpiros, pero ya es muy tarde.	抱歉打断你，不过已经很晚了。
 spa	cmn_Hans	La nevera está sucia.	小冰箱很脏。
 spa	cmn_Hans	La nieve desaparecerá pronto.	雪很快就会消失。
 spa	cmn_Hans	La niña está tomando té.	这个女孩子在喝茶。
 spa	cmn_Hans	La sala de mi casa nueva es muy amplia.	我新家的客厅很宽敞。
 spa	cmn_Hans	Las bolas son redondas.	球是圆的。
+spa	cmn_Hans	Las cosas están en el coche de papá.	东西在爸爸的车上。
 spa	cmn_Hans	Las críticas por las estrictas medidas económicas arrecian.	对严格限制经济的批评蜂拥而来。
 spa	cmn_Hans	Las desgracias nunca vienen solas.	祸不单行。
 spa	cmn_Hans	Las dos hermanas son campeonas de baile: una sabe bailar salsa y la otra sabe bailar tango.	她们姊妹俩都是舞蹈选手：一个会跳萨尔萨舞，另一个会跳探戈舞。
@@ -518,6 +538,7 @@ spa	cmn_Hans	La televisión no debería estar demasiado cerca, colócala un poco
 spa	cmn_Hans	La vida es dura, pero yo soy más dura.	生活很困难，但我更坚强。
 spa	cmn_Hans	La vida es dura, pero yo soy más duro.	生活很困难，但我更坚强。
 spa	cmn_Hans	La vida es un largo, largo camino.	生活是一条很长、很长的道路。
+spa	cmn_Hans	Le di a Tom mi vieja bicicleta.	我把我的旧自行车给了汤姆。
 spa	cmn_Hans	Le dio un juguete al niño.	他给了孩子一个玩具。
 spa	cmn_Hans	Le dio un nuevo nombre.	他给了它一个新名字。
 spa	cmn_Hans	Le encanta pescar.	他酷爱钓鱼。
@@ -525,6 +546,7 @@ spa	cmn_Hans	Leer un libro es interesante.	看书很有意思。
 spa	cmn_Hans	Le gusta cocinar para su familia.	她喜欢为她的家人做饭。
 spa	cmn_Hans	Le gusta Disney.	他喜欢迪士尼。
 spa	cmn_Hans	Le gusta leer el periódico.	他喜欢看报纸。
+spa	cmn_Hans	Le gusta leer novelas de ciencia ficción.	他喜欢看科幻小说。
 spa	cmn_Hans	Le gusta leer novelas.	她喜欢看小说。
 spa	cmn_Hans	Le gusta nadar.	他喜欢游泳。
 spa	cmn_Hans	Le gustan las naranjas.	他喜欢橙子。
@@ -533,10 +555,12 @@ spa	cmn_Hans	¿Le importa si apago la luz?	您介不介意我把灯关了？
 spa	cmn_Hans	¿Le puedo preguntar dónde queda el metro?	请问;地铁在哪儿?
 spa	cmn_Hans	Les dijo el secreto a sus amigos.	他把她的秘密告诉了他的朋友。
 spa	cmn_Hans	Le vi hace tres años.	我三年前见过他。
+spa	cmn_Hans	Llama a mi esposo.	给我老公打电话。
 spa	cmn_Hans	Llama a una ambulancia.	叫救护车。
 spa	cmn_Hans	Llamame a las 6:30.	六点半给我打电话。
 spa	cmn_Hans	Llegó justo tiempo al colegio.	他刚好准时到校。
 spa	cmn_Hans	Lleva el sombrero que le regalaste.	她戴着你给她的帽子。
+spa	cmn_Hans	Llevamos ya más de diez años sin verle.	我们已经十多年没看到过他了。
 spa	cmn_Hans	Llévate aquello.	你把那个拿走.
 spa	cmn_Hans	Llevo 4 años estudiando inglés.	我学英语学了4年了。
 spa	cmn_Hans	¿Lloverá mañana?	明天会下雨吗？
@@ -550,6 +574,7 @@ spa	cmn_Hans	Los computadores vuelven a la gente estúpida.	电脑让人变愚�
 spa	cmn_Hans	Los domingos nunca estoy en casa.	我周日从来都不在家。
 spa	cmn_Hans	Los echo de menos.	我想念他们。
 spa	cmn_Hans	Los estudiantes han vuelto.	学生们回来了。
+spa	cmn_Hans	Los gatos son astutos.	猫很聪明。
 spa	cmn_Hans	Los he visto hoy.	我今天看见他们了。
 spa	cmn_Hans	Los jóvenes tienen que respetar a los mayores.	年轻人应该尊敬老人。
 spa	cmn_Hans	Los jueves por la noche es gratis la cerveza.	周四晚上啤酒免费畅饮。
@@ -575,6 +600,7 @@ spa	cmn_Hans	Me dijo que no podía hacerlo sola.	她告诉我她不能自己做�
 spa	cmn_Hans	Me duele la cabeza.	我的头疼。
 spa	cmn_Hans	¿Me echas de menos?	你想我吗？
 spa	cmn_Hans	Me encanta tomar sopa caliente.	我爱喝热汤。
+spa	cmn_Hans	Me gusta Alemania.	我喜欢德国。
 spa	cmn_Hans	Me gusta cantar.	我喜欢唱歌。
 spa	cmn_Hans	Me gusta China.	我喜欢中国。
 spa	cmn_Hans	Me gusta comer manzanas.	我喜欢吃苹果。
@@ -627,6 +653,7 @@ spa	cmn_Hans	Mi padre ni bebe ni fuma.	我爸爸既不喝酒也不抽烟。
 spa	cmn_Hans	Mi padre se fue a los Estados Unidos.	我爸去了美国。
 spa	cmn_Hans	Mi padre ya había estado en Grecia.	我爸爸已经去过希腊了。
 spa	cmn_Hans	¡Mi regalo es el mejor!	我的礼物最好！
+spa	cmn_Hans	Mis hermanos son delfines.	我弟弟们是海豚。
 spa	cmn_Hans	Mi teléfono es bonito.	我的手机是美丽的
 spa	cmn_Hans	Mi tía me regaló una cámara.	我的阿姨送给我一台相机。
 spa	cmn_Hans	Mi tío vive cerca de la escuela.	我叔叔住在学校附近。
@@ -697,6 +724,7 @@ spa	cmn_Hans	No os preocupéis.	别擔心。
 spa	cmn_Hans	No parece estar muy contento.	他看起来不是很高兴。
 spa	cmn_Hans	No parece muy feliz.	他看起来不是很高兴。
 spa	cmn_Hans	No pases tanto tiempo delante de la televisión.	不要花那么多时间在电视上。
+spa	cmn_Hans	No podemos rendirnos.	我们不能放弃。
 spa	cmn_Hans	No podría haberlo hecho sin ti. Gracias.	没有你我无法做到，谢谢。
 spa	cmn_Hans	No puede nadar aquí.	您不能在这里游泳。
 spa	cmn_Hans	No puedes beber agua del mar porque es demasiado salada.	你不能喝海水，因为它太咸了。
@@ -714,6 +742,7 @@ spa	cmn_Hans	No quiero ir solo.	我不想独自前往。
 spa	cmn_Hans	Normalmente, voy al colegio andando.	我通常走去学校。
 spa	cmn_Hans	No sabe quién soy.	他不知道我是谁。
 spa	cmn_Hans	No sabe quién soy.	您不知道我是谁。
+spa	cmn_Hans	No sé dónde están los calcetines de Tom.	我不知道汤姆的袜子在哪里。
 spa	cmn_Hans	No sé por qué está tan preocupada.	不知道她为什么这么担心呢。
 spa	cmn_Hans	No sé por qué no te gusta.	我不知道为什么你不喜欢她。
 spa	cmn_Hans	No sé qué debo hacer ahora.	我不知道，我现在应该做什么。
@@ -794,6 +823,8 @@ spa	cmn_Hans	¿Por qué intentaste escapar?	为什么你企图逃走？
 spa	cmn_Hans	¿Por qué la gente va al cine?	为什么人们去电影院？
 spa	cmn_Hans	¿Por qué les castiga?	您为什么惩罚他们？
 spa	cmn_Hans	¿Por qué me das este dinero?	你为什么给我这些钱？
+spa	cmn_Hans	¿Por qué me pegas?	你为什么打我？
+spa	cmn_Hans	¿Por qué necesita Tom tres bicicletas?	汤姆为什么需要三辆自行车？
 spa	cmn_Hans	¿Por qué necesita un paraguas nuevo?	为什么你需要一把新的雨伞？
 spa	cmn_Hans	¿Por qué no vienes a visitarnos?	为什么你不来看我们？
 spa	cmn_Hans	¿Por qué últimamente siempre está lloviendo?	为什么最近总是下雨？
@@ -835,6 +866,7 @@ spa	cmn_Hans	Que no se te olvide venir aquí mañana a las siete.	别忘了明�
 spa	cmn_Hans	Que no te maten.	别被杀了。
 spa	cmn_Hans	¿Qué ocurrió entre tú y Tom?	你和汤姆之间发生了什么？
 spa	cmn_Hans	Qué pena, ese arbusto ha sido pisoteado.	真可惜， 那个灌木被踩了
+spa	cmn_Hans	¿Qué quiere contarme?	您想告诉我什么？
 spa	cmn_Hans	¿Qué quieres tomar para desayunar?	你早饭想吃什么?
 spa	cmn_Hans	Queremos quedarnos tres noches.	我们要住三晚。
 spa	cmn_Hans	Querría invitarte a la fiesta.	我想请你参加派对。
@@ -864,6 +896,7 @@ spa	cmn_Hans	¿Quién ha hecho esta tarta?	谁做的这个蛋糕？
 spa	cmn_Hans	¿Quién la ayuda?	谁帮帮她？
 spa	cmn_Hans	¿Quién murió?	谁死了？
 spa	cmn_Hans	¿Quién os enseña francés?	谁教你们法语？
+spa	cmn_Hans	¿Quién se bebió el agua?	谁喝了水？
 spa	cmn_Hans	¿Quiere café?	您想要咖啡吗？
 spa	cmn_Hans	¿Quieres beber un poco de café o de té?	你想喝点儿咖啡或茶吗？
 spa	cmn_Hans	¿Quieres comer?	你想吃吗？
@@ -873,6 +906,7 @@ spa	cmn_Hans	Quiero adelgazar.	我想减肥。
 spa	cmn_Hans	Quiero aprender chino el año que viene.	我明年想学汉语.
 spa	cmn_Hans	Quiero dos gatitos.	我想要两只猫咪。
 spa	cmn_Hans	Quiero encontrarme con Tom.	我想跟汤姆见面。
+spa	cmn_Hans	Quiero ir a estudiar en una universidad canadiense.	我想去加拿大读大学。
 spa	cmn_Hans	Quiero llamar a mi familia.	我想给家人打电话。
 spa	cmn_Hans	Quiero morir con Getter Jaani.	我想和约翰格特在一起死。
 spa	cmn_Hans	Quiero que me digas la verdad.	我想你把真相告诉我。
@@ -906,6 +940,7 @@ spa	cmn_Hans	Se levantó a las 7 de la mañana.	她早上七点起床的。
 spa	cmn_Hans	Sé lo que quieren hacer.	我知道他们要做什么。
 spa	cmn_Hans	Se pone mucho pintalabios al maquillarse.	她化妆时擦了很多的口红。
 spa	cmn_Hans	Se puede ver el Monte Fuji desde aquí.	从这里能看到富士山。
+spa	cmn_Hans	Se puso verde.	变成了绿色。
 spa	cmn_Hans	Sé que antes había una gran iglesia aquí.	我知道这里以前有个大教堂。
 spa	cmn_Hans	Sé que Tom está un poco preocupado.	我知道汤姆有点担心。
 spa	cmn_Hans	¡Sé que vendrás!	我知道你会来的！
@@ -917,6 +952,7 @@ spa	cmn_Hans	Siempre es mejor llegar tarde que no llegar.	迟到总比不到好�
 spa	cmn_Hans	Siempre está conectado.	他总是在网上。
 spa	cmn_Hans	Siempre está tomando su café negro.	他总喝他的黑咖啡。
 spa	cmn_Hans	Siento mucho no poder venir hoy.	我很抱歉今天不能过来。
+spa	cmn_Hans	¿Sigue con vida?	它还活着吗？
 spa	cmn_Hans	Sigue esforzándote.	继续努力。
 spa	cmn_Hans	Si haces eso, traicionarás la confianza de tus amigos.	你这样做，辜负了朋友对你的信任。
 spa	cmn_Hans	Si lo hubiera sabido os lo habría dicho.	如果我知道的话，我早就已经告诉你了。
@@ -924,6 +960,7 @@ spa	cmn_Hans	Si lo quieres, puedes tenerlo.	如果你想要，你可以拥有它
 spa	cmn_Hans	Si lo quieres, puedes tenerlo.	如果你想要的话，你就拿吧。
 spa	cmn_Hans	Si me enseñas japonés, yo te enseño español.	你要是教我日语，我就教你西班牙语。
 spa	cmn_Hans	Sin aire, el hombre no puede existir.	没有空气，人无法存在。
+spa	cmn_Hans	Si no te gusta el vino es porque todavía no has probado ninguno bueno.	如果你不喜欢葡萄酒，那你还没喝到好的葡萄酒。
 spa	cmn_Hans	Sí, soy Tom.	是的。我是汤姆。
 spa	cmn_Hans	Si te levantas así de tarde, irremediablemente deberás llegar tarde.	你这么晚起床，非迟到不行。
 spa	cmn_Hans	Si te pones enfermo, vete al médico.	如果你生病了，就去看医生。
@@ -932,7 +969,9 @@ spa	cmn_Hans	Sí, tienes que practicar todos los días.	是的，你需要每天
 spa	cmn_Hans	Si tienes una pregunta, por favor alza tu mano derecha.	如果有问题，请举起你的右手。
 spa	cmn_Hans	Sois médicos.	你们是医生。
 spa	cmn_Hans	Sólo tenemos té.	我们只有茶水。
+spa	cmn_Hans	Somos colegas.	我们是哥们儿。
 spa	cmn_Hans	¿Son estadounidenses?	他们是美国人吗?
+spa	cmn_Hans	Son las 10 menos 5.	还有五分钟就到十点了。
 spa	cmn_Hans	Son mis hermanos.	他们是我的兄弟。
 spa	cmn_Hans	Son nuestros libros.	这些是我们的书。
 spa	cmn_Hans	Soñó que se convertía en un héroe.	他梦想着成为一名英雄。
@@ -954,12 +993,14 @@ spa	cmn_Hans	Su esposa es una mujer muy talentosa.	他妻子是个才女。
 spa	cmn_Hans	Su libro es rojo.	他的书是红色的。
 spa	cmn_Hans	Supongo que puedes tener razón.	我猜想你可能是对的。
 spa	cmn_Hans	Sus amenazas no me dan ningún miedo.	我一点也不怕他威胁。
+spa	cmn_Hans	Sus juguetes son azules.	他的玩具是蓝色的。
 spa	cmn_Hans	Su vida estuvo llena de altos y bajos.	他的人生充满了起起落落。
 spa	cmn_Hans	Tal cosa no puede ser cierta.	这不可能是真的。
 spa	cmn_Hans	Tal vez él no sea feliz.	他可能不高兴。
 spa	cmn_Hans	Tardé más de 2 horas en traducir unas páginas en inglés.	翻译几页英文花了我2个多小时。
 spa	cmn_Hans	Tarde o temprano me lo dirá todo.	他早晚会全告诉我的。
 spa	cmn_Hans	Tardé tres años en escribir este libro.	我写这本书用了三年时间。
+spa	cmn_Hans	Tatoeba no es un diccionario.	Tatoeba不是词典。
 spa	cmn_Hans	¿Te acuerdas del día en que nos conocimos?	你记不记得我们认识的那一天？
 spa	cmn_Hans	Te amo.	我爱你。
 spa	cmn_Hans	¿Te conozco?	我认识你吗？
@@ -970,7 +1011,9 @@ spa	cmn_Hans	¿Te gusta cantar?	你喜欢唱歌吗？
 spa	cmn_Hans	¿Te gusta la música?	你爱音乐吗？
 spa	cmn_Hans	¿Te gusta la nieve?	你喜欢雪吗？
 spa	cmn_Hans	¿Te gusta leer?	你喜欢阅读吗？
+spa	cmn_Hans	¿Te gusta mi camiseta?	你喜欢我的T恤吗？
 spa	cmn_Hans	¿Te gusta?	你喜欢吗 ?
+spa	cmn_Hans	¿Te ha dicho Tom adónde ha ido?	汤姆告诉你他去哪儿了吗？
 spa	cmn_Hans	Te haré feliz.	我会让你幸福的。
 spa	cmn_Hans	¿Te has casado o no?	你结婚了或没结婚？
 spa	cmn_Hans	¿Te interesan las lenguas?	你对语言感兴趣吗？
@@ -1025,6 +1068,7 @@ spa	cmn_Hans	Todavía está durmiendo.	他还在睡觉。
 spa	cmn_Hans	Todavía no es la hora de la cena.	现在还不是晚饭时间。
 spa	cmn_Hans	Todavía no ha respondido a mi carta.	他还没回我的信。
 spa	cmn_Hans	Todo el mundo lo sabe.	那件事谁也知道。
+spa	cmn_Hans	Todo mundo está aquí.	每个人都在这里。
 spa	cmn_Hans	Todos están aquí ahora.	现在每个人都在这里。
 spa	cmn_Hans	Todos los días hago deporte durante una hora.	我每天运动一小时。
 spa	cmn_Hans	Todos los estudiantes están estudiando inglés.	学生们都在学英语。
@@ -1036,8 +1080,10 @@ spa	cmn_Hans	Tom canta.	汤姆唱歌。
 spa	cmn_Hans	Tom corre rápido.	汤姆跑得快。
 spa	cmn_Hans	Tom dice que María parece estar muy decepcionada.	汤姆说玛丽看起来很失望。
 spa	cmn_Hans	Tom dice que necesitan más tiempo.	汤姆说他们需要更多时间。
+spa	cmn_Hans	Tom dice que quiere aprender francés.	汤姆说，他想学法语。
 spa	cmn_Hans	¡Tomemos un taxi!	我们坐出租车去吧！
 spa	cmn_Hans	Tom engordó.	汤姆长胖了。
+spa	cmn_Hans	Tom es bueno, pero no lo suficiente.	汤姆是好，但是不够好。
 spa	cmn_Hans	Tom es muy guapo.	汤姆真帅。
 spa	cmn_Hans	¿Tom está enfermo?	汤姆生病了吗？
 spa	cmn_Hans	Tom está limpiando su habitación.	汤姆正在打扫他的房间。
@@ -1045,6 +1091,7 @@ spa	cmn_Hans	Tom está listo para aceptar las consecuencias.	汤姆准备承担�
 spa	cmn_Hans	Tom está nervioso.	汤姆很紧张。
 spa	cmn_Hans	Tom es un chaval listo.	汤姆是聪明的孩子。
 spa	cmn_Hans	Tom es un niño listo.	汤姆是聪明的孩子。
+spa	cmn_Hans	Tom la amó.	汤姆爱过她。
 spa	cmn_Hans	Tom le pidió a María que comprara un regalo para Juan.	汤姆叫玛丽买一份礼物给约翰。
 spa	cmn_Hans	Tom le pidió perdón a María.	Tom祈求María的原諒。
 spa	cmn_Hans	Tom, ¡levántate!	汤姆，快起来！
@@ -1065,11 +1112,13 @@ spa	cmn_Hans	Tom se compró una cámara ayer.	汤姆昨天买了一部相机。
 spa	cmn_Hans	Tom se está riendo.	汤姆在笑。
 spa	cmn_Hans	Tom se sentó.	汤姆坐下了。
 spa	cmn_Hans	Tom se va a morir.	汤姆要死了。
+spa	cmn_Hans	Tom tiene mi libro.	汤姆有我的书。
 spa	cmn_Hans	Tom tiene que protegerse.	汤姆得保护自己。
 spa	cmn_Hans	Tom viene aquí con frecuencia.	汤姆常来这里。
 spa	cmn_Hans	Tom vio la televisión ayer.	Tom昨天看了电视。
 spa	cmn_Hans	¿Tom vive en Boston?	汤姆住在波士顿吗？
 spa	cmn_Hans	Tom y Mary dicen que son muy felices.	汤姆和玛丽说他们很开心。
+spa	cmn_Hans	Tom y Mary se pondrán bien, ¿verdad?	汤姆和玛丽都会没事的，对吗？
 spa	cmn_Hans	Tom y Mary tienen mucho en común.	汤姆和玛丽有很多共同点。
 spa	cmn_Hans	Tom y yo somos muy buenos amigos.	汤姆和我是好朋友。
 spa	cmn_Hans	¡Tonterías!	屁话！
@@ -1085,6 +1134,7 @@ spa	cmn_Hans	Un estudiante quiere verte.	有个学生想见你。
 spa	cmn_Hans	Un montón de niños se reunieron en el jardín.	一大群孩子聚集在花园中。
 spa	cmn_Hans	Unos minutos más tarde, sonó el teléfono.	几分钟后，电话响了。
 spa	cmn_Hans	Ustedes son estudiantes nuevos.	你们是新生。
+spa	cmn_Hans	¿Usted quiere estudiar francés?	您想学法语吗？
 spa	cmn_Hans	Usted tiene algunos libros.	您有一些书。
 spa	cmn_Hans	Usualmente Tom se queda en hoteles cinco estrellas.	汤姆一般住五星级酒店。
 spa	cmn_Hans	¿Va a nevar esta noche?	今晚会下雪吗？
@@ -1258,6 +1308,7 @@ spa	cmn_Hant	¿Cómo te atreves hablarme así?	你怎麼敢這樣和我說話？
 spa	cmn_Hant	¡Cómo te atreves!	你敢！
 spa	cmn_Hant	¿Cómo te llamas?	你叫什么名字？
 spa	cmn_Hant	¿Cómo vuelvo a casa?	我怎么回家?
+spa	cmn_Hant	Compramos una casa el año pasado.	我們去年買了棟房子。
 spa	cmn_Hant	¿Compraste zumo?	你買果汁了嗎？
 spa	cmn_Hant	Compré dos bolsas de palomitas.	我買了兩袋爆米花。
 spa	cmn_Hant	Compré dos botellas de leche.	我買了兩瓶牛奶。
@@ -1308,9 +1359,11 @@ spa	cmn_Hant	¿Cuántos países hay en África?	非洲有幾個國家？
 spa	cmn_Hant	¿Cuántos sombreros tienes?	你有多少頂帽子？
 spa	cmn_Hant	¿Cuánto tiempo estuviste enfermo?	你病了多久了？
 spa	cmn_Hant	¿Cuánto tiempo tardaste en traducir este libro?	你翻譯這本書用了多少時間？
+spa	cmn_Hant	¿Cuánto tiempo vas a estar en Houston?	你要在波士頓待多久？
 spa	cmn_Hant	¿Cuánto tiempo viviste en la isla?	你在島上住了多久？
 spa	cmn_Hant	¿Cuánto vale una noche?	一晚多少錢？
 spa	cmn_Hant	Cuéntame tu plan.	告訴我你的計畫。
+spa	cmn_Hant	Cuéntanoslo todo.	把一切都告訴我們。
 spa	cmn_Hant	Dado que las órbitas son elípticas, los planetas no siempre están a la misma distancia del Sol.	由於軌道是橢圓形的，行星和太陽之間的距離不會總是相同。
 spa	cmn_Hant	¡Date prisa! Si no, llegaremos tarde.	快點！不然我們要遲到了。
 spa	cmn_Hant	¡Date prisa!	趕快!
@@ -1329,6 +1382,7 @@ spa	cmn_Hant	Decidí estudiar más.	我決定更努力讀書。
 spa	cmn_Hant	¡Deja de decir eso!	別說了！
 spa	cmn_Hant	Déjame cortar las zanahorias.	讓我來切胡蘿蔔。
 spa	cmn_Hant	Deja ya de hablar de eso.	別說這些了。
+spa	cmn_Hant	¿Dejé mi paraguas aquí?	我把雨傘落在這裡了嗎？
 spa	cmn_Hant	Dejé tu libro en el coche.	我把你的書落在車上了。
 spa	cmn_Hant	De los tres coches que tiene, uno es azul y los otros dos blancos.	她的三台車有一輛是藍色的，其餘兩輛是白色的。
 spa	cmn_Hant	¡Demasiado caro!	太貴了！
@@ -1349,6 +1403,7 @@ spa	cmn_Hant	Después de tener sexo anal con mi novio, usualmente necesitamos la
 spa	cmn_Hant	Destruiste nuestro amor.	你毀了我們的愛。
 spa	cmn_Hant	De verdad que quiero ir a Italia.	我真想去意大利。
 spa	cmn_Hant	Diciembre es el último mes del año.	十二月是一年的最後一個月。
+spa	cmn_Hant	Diles que no bebo alcohol.	告訴她們我不喝酒。
 spa	cmn_Hant	Di patata.	說“茄子”。
 spa	cmn_Hant	Disculpe, ¿dónde está la estación de tren?	抱歉，火車站在哪裡？
 spa	cmn_Hant	Disculpe, ¿esta calle lleva a la estación de metro?	不好意思，請問這條路通往地鐵站嗎？
@@ -1370,6 +1425,7 @@ spa	cmn_Hant	Él acaba de comprarse un coche de segunda mano.	他剛買了輛二
 spa	cmn_Hant	El accidente retrasó el tráfico.	事故耽誤了交通。
 spa	cmn_Hant	El accidente tuvo lugar en la esquina.	事故發生在轉角。
 spa	cmn_Hant	El agua de la lluvia está limpia.	雨水是乾淨的。
+spa	cmn_Hant	El agua es insípida, inodora e incolora.	水無味、無臭、無色。
 spa	cmn_Hant	¿El amor existe?	愛存在嗎？
 spa	cmn_Hant	El anciano a veces habla consigo mismo.	老人時常自言自語。
 spa	cmn_Hant	El anciano se murió de hambre.	那個老人餓死了。
@@ -1470,6 +1526,7 @@ spa	cmn_Hant	Ella se sentía un poco cansada.	她覺得有點累了。
 spa	cmn_Hant	Ellas le dispararon a Mary.	她們對瑪麗開了槍。
 spa	cmn_Hant	Ellas no son chinas.	她們不是中國人。
 spa	cmn_Hant	¿Ellas son francesas?	她們是法國人嗎？
+spa	cmn_Hant	Ellas te odian.	她們恨你。
 spa	cmn_Hant	Ellas ya están aquí.	他們已經在這裡了。
 spa	cmn_Hant	¿Ella te enseñó la foto?	她給你看過照片了嗎?
 spa	cmn_Hant	Ella tenía ganas de volver a verle.	她想再次見到他。
@@ -1510,6 +1567,7 @@ spa	cmn_Hant	El monte Fuji es la montaña más alta de Japón.	富士山是日�
 spa	cmn_Hant	El mundo es pequeño.	世界很小。
 spa	cmn_Hant	Él murió antes de que llegara.	他在我來到之前就死了。
 spa	cmn_Hant	Él murió ayer.	他昨天去世了。
+spa	cmn_Hant	Él nada bien.	他游得很好。
 spa	cmn_Hant	Él no es David, él se llama Daniel.	他不是大衛，他叫丹尼爾。
 spa	cmn_Hant	Él no es el mismo de antes.	他和從前不一樣。
 spa	cmn_Hant	Él no es surcoreano.	他不是韓國人。
@@ -1566,6 +1624,7 @@ spa	cmn_Hant	El vino ayuda a hacer la digestión.	葡萄酒幫助消化。
 spa	cmn_Hant	Él vive en una manzana.	他住在苹果里面。
 spa	cmn_Hant	Él y yo caminamos juntos.	我和他一起走。
 spa	cmn_Hant	El zorro es un animal salvaje.	狐狸是一種野生動物。
+spa	cmn_Hant	Empieza a las seis y media.	六點半開始。
 spa	cmn_Hant	En caso de que se me olvide, por favor, recuérdamelo.	如果我忘記了請提醒我。
 spa	cmn_Hant	En cuanto salió por la puerta, empezó a llover.	他一出門，雨就開始下了。
 spa	cmn_Hant	En ese entonces no estaba casada.	那個時候我還沒有結婚。
@@ -1615,6 +1674,7 @@ spa	cmn_Hant	Es el cachorro más bonito que he visto.	這是我見過最可愛�
 spa	cmn_Hant	Ese libro es muy viejo.	那本書很舊。
 spa	cmn_Hant	Ese libro se vende bien.	那本書賣得很好。
 spa	cmn_Hant	Es el perrito más lindo que he visto.	這是我見過最可愛的小狗。
+spa	cmn_Hant	¿Es guapa?	她好看嗎？
 spa	cmn_Hant	Es guapa.	她很漂亮。
 spa	cmn_Hant	Es imposible predecir los terremotos.	預測地震是不可能的。
 spa	cmn_Hant	Es Jackie Chan.	他是成龍。
@@ -1628,6 +1688,7 @@ spa	cmn_Hant	Es necesario que vayas ahí.	你有必要到那里去。
 spa	cmn_Hant	¡Eso debe de ser una tarta de cumpleaños!	它一定是個生日蛋糕。
 spa	cmn_Hant	¿Eso es amor?	那是愛嗎？
 spa	cmn_Hant	Eso es Saturno.	那是土星。
+spa	cmn_Hant	Eso es todo lo que pude encontrar.	我能找到的都在那。
 spa	cmn_Hant	Eso lo hizo perder su trabajo.	這件事讓他丟了工作。
 spa	cmn_Hant	Esperamos largo rato, pero no apareció.	我們等了好久，但是她還是沒有出現。
 spa	cmn_Hant	¡Espérate!	停下！
@@ -1644,6 +1705,7 @@ spa	cmn_Hant	Estaba escribiendo una larga carta.	他在寫一封長信。
 spa	cmn_Hant	Estaba muy cansado, así que me fui a dormir pronto.	我很累所以早睡了。
 spa	cmn_Hant	¿Estaba nublado en Tokio ayer?	昨天東京天氣多雲嗎？
 spa	cmn_Hant	¿Está casada?	他結婚了嗎？
+spa	cmn_Hant	Está cayendo la del pulpo.	大雨如注。
 spa	cmn_Hant	Está demasiado caliente.	太熱了。
 spa	cmn_Hant	Está en el cuarto curso.	他現在四年級。
 spa	cmn_Hant	Está en el sofá.	它在沙發上。
@@ -1708,6 +1770,7 @@ spa	cmn_Hant	Estoy comiendo pan.	我吃面包。
 spa	cmn_Hant	Estoy consolando a Mary.	我在安慰瑪麗。
 spa	cmn_Hant	Estoy de acuerdo con él.	我同意他。
 spa	cmn_Hant	Estoy de acuerdo con usted.	我同意您的意見。
+spa	cmn_Hant	Estoy de camino al hospital.	我在去醫院的路上。
 spa	cmn_Hant	Estoy enfermo.	我生病了。
 spa	cmn_Hant	Estoy esperando el autobús.	我在等公交。
 spa	cmn_Hant	Estoy feliz de verte aquí.	我很高興在這裡看到你。
@@ -1720,10 +1783,12 @@ spa	cmn_Hant	¿Estudias química?	你讀化學嗎？
 spa	cmn_Hant	Estudio inglés.	我學英語。
 spa	cmn_Hant	Estudio matemáticas.	我讀數學。
 spa	cmn_Hant	Estuve en Hong Kong una vez.	我去過一次香港。
+spa	cmn_Hant	Es una auténtica lástima que no hablemos el mismo idioma.	真可惜我們說的語言不同。
 spa	cmn_Hant	Es un abogado experto.	她是一位有經驗的律師。
 spa	cmn_Hant	Es una chica guapa.	她是一個漂亮的女孩。
 spa	cmn_Hant	Es un bonito cuadro.	是一幅漂亮的畫。
 spa	cmn_Hant	Es un diccionario.	那是一本詞典。
+spa	cmn_Hant	Es vuestro rey.	他是你們的王。
 spa	cmn_Hant	¡Exactamente!	就是！
 spa	cmn_Hant	Fabien tiene muchas ideas buenas.	法比安有很多好的想法。
 spa	cmn_Hant	Facebook está bloqueado en China.	Facebook在中國是被封鎖的。
@@ -1740,6 +1805,7 @@ spa	cmn_Hant	Habla inglés con fluidez.	她的英語說得很流利。
 spa	cmn_Hant	—Hablas demasiado —dijo él.	"你說得太多了。"他說。
 spa	cmn_Hant	¿Hablas italiano?	你會說義大利語嗎？
 spa	cmn_Hant	¡Hablas tantos idiomas!	你會說好多語言！
+spa	cmn_Hant	¿Hablas ucraniano o ruso?	你會說烏克蘭語還是俄羅斯語？
 spa	cmn_Hant	Hace mucho que no le veo.	我好久沒見過他了。
 spa	cmn_Hant	Ha escrito un nuevo libro.	他寫了本新書。
 spa	cmn_Hant	Ha habido una buena cosecha de manzanas este año.	今年蘋果的收成不錯。
@@ -1763,6 +1829,7 @@ spa	cmn_Hant	Helen acabó el instituto el año pasado.	海倫去年從高中畢�
 spa	cmn_Hant	Hemos decidido callarnos.	我們決定要保持沉默。
 spa	cmn_Hant	He perdido a mis amigos.	我失去了我的朋友。
 spa	cmn_Hant	He recibido su carta.	我收到了您的信。
+spa	cmn_Hant	¡Hijo mío!	我的兒子！
 spa	cmn_Hant	¡Hola, chica del vestido rojo!	你好，紅衣服的女生！
 spa	cmn_Hant	Hola, ¿eres Xiǎoyǔ?	你好，你是小雨嗎？
 spa	cmn_Hant	Hola, soy Juan.	你好，我是胡安。
@@ -1775,6 +1842,7 @@ spa	cmn_Hant	Hoy es un lindo día para correr por la playa.	今天是一個在�
 spa	cmn_Hant	Hoy hace bueno.	今天好天气。
 spa	cmn_Hant	Hoy hace un día horrible.	今天天气糟透了。
 spa	cmn_Hant	Hoy no hace tanto calor como ayer.	今天沒有昨天那麼熱。
+spa	cmn_Hant	Hoy no nieva.	今天不下雪。
 spa	cmn_Hant	Hoy no tengo nada más que hacer.	我今天沒有更多的事要做的了。
 spa	cmn_Hant	Hoy olvidé llamarle.	我今天忘了打電話給他。
 spa	cmn_Hant	Hoy papá está de un ánimo impaciente.	爸爸今天不耐煩。
@@ -1800,6 +1868,7 @@ spa	cmn_Hant	Juro que te voy a meter tras las rejas.	我保證我會把你送進
 spa	cmn_Hant	Ken encendió las velas.	肯點燃了蠟燭。
 spa	cmn_Hant	La amo.	我愛她。
 spa	cmn_Hant	La astronomía trata de estrellas y planetas.	天文學涉及恆星和行星。
+spa	cmn_Hant	La bandera es azul.	旗幟是藍色的。
 spa	cmn_Hant	La besé en la frente.	我親了她的額頭。
 spa	cmn_Hant	La biblioteca está en el cuarto piso.	圖書館在四樓。
 spa	cmn_Hant	La biblioteca tiene muchos libros.	圖書館有很多書。
@@ -1841,6 +1910,7 @@ spa	cmn_Hant	La sangre es más densa que el agua.	血濃於水。
 spa	cmn_Hant	La sartén sirve para freír.	鍋是用來炒的。
 spa	cmn_Hant	Las botellas de cerveza están hechas de vidrio.	啤酒瓶是玻璃做的。
 spa	cmn_Hant	Las cajas de cartón son cien por ciento reciclables.	這些紙板盒是百分之百可回收的。
+spa	cmn_Hant	Las dos hermanas son abogadas.	兩姐妹都是律師。
 spa	cmn_Hant	Las dos muchachas se sentaron.	兩個女孩坐了下來。
 spa	cmn_Hant	¿La señora Smith es profesora de inglés?	史密斯小姐是英語老師嗎？
 spa	cmn_Hant	La señora Smith va a la iglesia en coche.	史密斯太太坐車去教堂。
@@ -1861,6 +1931,7 @@ spa	cmn_Hant	¿Le gusta estar solo?	你喜歡一個人嗎？
 spa	cmn_Hant	Le gustan todas las cosas dulces.	他喜歡一切甜的東西。
 spa	cmn_Hant	Leí su libro.	我看了他的書。
 spa	cmn_Hant	Le regalamos un reloj de pulsera a nuestra madre.	我們給了母親一支手錶。
+spa	cmn_Hant	Le tiene miedo a su esposa.	他怕他老婆。
 spa	cmn_Hant	Levanta la mano izquierda.	舉起左手。
 spa	cmn_Hant	Levantó la mano.	他舉起他的手。
 spa	cmn_Hant	Le vi lavar el coche.	我看見他洗車。
@@ -1898,6 +1969,7 @@ spa	cmn_Hant	Mañana tengo curso muy temprano.	我明天的課很早。
 spa	cmn_Hant	Manos frías, corazón caliente.	冰的雙手，炙熱的心臟。
 spa	cmn_Hant	Manuel, que es ateo, se rehusó a ir a la misa del séptimo día del amigo fallecido.	Manuel因為是無神論者，所以拒絕參加逝世朋友的第七天彌撒。
 spa	cmn_Hant	María confesó que es prostituta.	瑪麗婭承認她是一個妓女。
+spa	cmn_Hant	María es más guapa que yo.	瑪麗比我好看。
 spa	cmn_Hant	María no ha comido nada todavía.	瑪利亞什麼還沒吃。
 spa	cmn_Hant	María y yo planeamos tener dos hijos.	Mary和我計畫生兩個孩子。
 spa	cmn_Hant	Mari ha estado en Hungría.	Mari已經在匈牙利了。
@@ -1920,6 +1992,7 @@ spa	cmn_Hant	Me encantan los pimientos verdes.	我特別喜歡青椒。
 spa	cmn_Hant	¿Me enseñarás a tocar la guitarra?	你會教我彈吉他嗎？
 spa	cmn_Hant	Me estaba bañando cuando sonó el teléfono.	電話響的時候，我正在泡澡。
 spa	cmn_Hant	Me gusta aprender chino e inglés.	我喜歡學中文和英文。
+spa	cmn_Hant	Me gusta este reloj de pulsera.	我喜歡這塊手錶。
 spa	cmn_Hant	Me gusta mirar las mariposas.	我喜歡看蝴蝶。
 spa	cmn_Hant	Me gusta mucho la pizza.	我非常喜歡比薩。
 spa	cmn_Hant	Me gustan las berenjenas.	我喜歡茄子。
@@ -1971,6 +2044,7 @@ spa	cmn_Hant	Mi ingreso se ha reducido en un 10 porciento.	我的收入減少了
 spa	cmn_Hant	Mi madre es una buena mujer.	我媽媽是個好女人。
 spa	cmn_Hant	Mi marido es muy buen cocinero.	我的丈夫是一個很好的廚師。
 spa	cmn_Hant	Mi mejor amiga está embarazada.	我最好的朋友懷孕了。
+spa	cmn_Hant	Mi mejor amigo es filipino.	我最好的朋友是菲律賓人。
 spa	cmn_Hant	Mi nombre es Hopkins.	我的名字叫霍普金斯。
 spa	cmn_Hant	Mi padre me ha comprado una cámara.	父親買了部相機給我。
 spa	cmn_Hant	Mi padre no está en casa en este momento.	我的爸爸現在不在家。
@@ -2066,10 +2140,12 @@ spa	cmn_Hant	No podía estar más de acuerdo contigo.	我非常同意你。
 spa	cmn_Hant	No podré asistir.	我沒有辦法參加。
 spa	cmn_Hant	¡No puede ser! ¿Cómo has terminado de escribirlo?	不可能啦，怎麼可能寫得完嘛！
 spa	cmn_Hant	No puedes salir.	你不可以出去。
+spa	cmn_Hant	No puedes salvarme.	你救不了我。
 spa	cmn_Hant	No puedo encontrar ningún fallo en su teoría.	我在他的理論中找不到任何問題。
 spa	cmn_Hant	No puedo mirar esta pintura sin pensar en mi madre.	我無法看著這幅畫而不想起我母親。
 spa	cmn_Hant	No puedo vivir sin ti.	沒有你我活不下去。
 spa	cmn_Hant	No quiero beber nada.	我什么都不想喝。
+spa	cmn_Hant	No quiero hacerme famoso.	我不想成名。
 spa	cmn_Hant	No quiero ir allí otra vez.	我不想再次去那儿。
 spa	cmn_Hant	No quiero nada de beber.	我什么都不想喝。
 spa	cmn_Hant	No quiero volverlo a hacer.	我不想再做了。
@@ -2095,6 +2171,7 @@ spa	cmn_Hant	No somos rusas.	我們不是俄羅斯人。
 spa	cmn_Hant	No somos rusos.	我們不是俄羅斯人。
 spa	cmn_Hant	No son chinas.	她們不是中國人。
 spa	cmn_Hant	No son chinos.	他們不是中國人。
+spa	cmn_Hant	No son de confianza.	他們不可靠。
 spa	cmn_Hant	Nosotras no somos rusas.	我們不是俄羅斯人。
 spa	cmn_Hant	Nosotras somos inglesas.	我們是英國人。
 spa	cmn_Hant	Nosotras tocamos el piano.	我們彈鋼琴。
@@ -2110,6 +2187,7 @@ spa	cmn_Hant	Nos presentó una idea interesante.	他向我們展示了一個很�
 spa	cmn_Hant	¿Notaste algo sospechoso?	你有注意到什麼可疑的地方嗎？
 spa	cmn_Hant	No te creas lo que dice.	不要相信他說的話。
 spa	cmn_Hant	No te entiendo.	我不懂你。
+spa	cmn_Hant	¿No temes morir?	你不怕死嗎？
 spa	cmn_Hant	¡No te mueras!	不要死！
 spa	cmn_Hant	No te muevas de aquí.	你呆在這裡別動。
 spa	cmn_Hant	No tengas miedo.	不要害怕。
@@ -2137,6 +2215,7 @@ spa	cmn_Hant	Nunca me imaginé volviéndome a casa tan temprano.	我從來沒想
 spa	cmn_Hant	¡Oh gracias! Qué considerado.	謝謝！真是體貼。
 spa	cmn_Hant	Ojalá fuera más alta.	我希望我比較高。
 spa	cmn_Hant	Ojo por ojo, diente por diente.	以眼還眼，以牙還牙。
+spa	cmn_Hant	Olvidé cerrar la ventana.	我忘記關窗了。
 spa	cmn_Hant	¡Oye tú! ¿Qué estás haciendo?	嘿，你！你在幹什麼？
 spa	cmn_Hant	Papá es un buen hombre.	父親是個好人。
 spa	cmn_Hant	Papá no está en casa.	父親不在家。
@@ -2171,6 +2250,7 @@ spa	cmn_Hant	¿Por qué no puede jugar hoy al tenis?	為什麼他今天不能打
 spa	cmn_Hant	¿Por qué no vas a echar un vistazo?	你為什麼不去看看？
 spa	cmn_Hant	¿Por qué quieres matarme?	你為什麼想殺我？
 spa	cmn_Hant	¿Por qué se rasca tanto? ¿Acaso tiene piojos?	他為什麼老是撓？難道是有虱子？
+spa	cmn_Hant	¿Por qué te ha preguntado a ti?	她為甚麼問了你？
 spa	cmn_Hant	¿Por qué tiene dos autos?	他為什麼有兩輛車？
 spa	cmn_Hant	¿Por qué?	為何？
 spa	cmn_Hant	Por una cabeza tonta sufren las piernas.	愚笨的頭腦使腿受苦。
@@ -2220,6 +2300,7 @@ spa	cmn_Hant	¿Qué has bebido?	你喝了什么？
 spa	cmn_Hant	¿Qué hay encima de la mesa?	桌子上有什么？
 spa	cmn_Hant	¿Qué hiciste?	你做了什么？
 spa	cmn_Hant	¿Qué más quieres, Tomás?	托馬斯，你還要什麼？
+spa	cmn_Hant	¿Qué perro es negro?	哪只狗是黑色的？
 spa	cmn_Hant	¿Qué quieren hacer hoy?	你今天要做什麼？
 spa	cmn_Hant	¿Qué quieres?	你想要什麼?
 spa	cmn_Hant	¡Qué raro!	真奇怪。
@@ -2243,6 +2324,7 @@ spa	cmn_Hant	Quiere ir a esta fiesta.	她想參加這個派對。
 spa	cmn_Hant	¿Quieres beber algo?	你要喝點什麼嗎?
 spa	cmn_Hant	¿Quieres decir que yo no tengo cerebro?	你是說我沒有大腦嗎？
 spa	cmn_Hant	¿Quieres que te dibuje algo?	想要我給你畫點什麼嗎？
+spa	cmn_Hant	¿Quieres saber quién es?	你想知道她是誰嗎？
 spa	cmn_Hant	Quiere vivir en la ciudad.	她想住在城市里。
 spa	cmn_Hant	Quiero algunas patatas.	我要幾個土豆。
 spa	cmn_Hant	Quiero alquilar una casa.	我想租房。
@@ -2284,6 +2366,7 @@ spa	cmn_Hant	Sale.	好。
 spa	cmn_Hant	Se afeitó el bigote.	他刮了他的胡子。
 spa	cmn_Hant	Se casó con ella.	他和她結婚了。
 spa	cmn_Hant	Se casó con ella.	他娶了她。
+spa	cmn_Hant	Se casó conmigo el año pasado.	她去年嫁給了我。
 spa	cmn_Hant	Sé demasiado.	我知道的太多了。
 spa	cmn_Hant	Se fueron a Estados Unidos el mes pasado.	他們上個月去美國。
 spa	cmn_Hant	Según el horóscopo chino, nací en el año de la serpiente.	依據中國的生肖，我出生在蛇年。
@@ -2333,6 +2416,7 @@ spa	cmn_Hant	Sólo puedo esperar.	我只能等了。
 spa	cmn_Hant	Sólo tienes dos opciones para seleccionar.	你只有兩種選擇。
 spa	cmn_Hant	Somos amigos.	我們是朋友。
 spa	cmn_Hant	Somos buenos amigos.	我們是好朋友。
+spa	cmn_Hant	Somos hombres, y no niños.	我們是男人，不是男孩兒。
 spa	cmn_Hant	Somos inglesas.	我們是英國人。
 spa	cmn_Hant	Somos ingleses.	我們是英國人。
 spa	cmn_Hant	Somos las primeras en llegar.	我們是最早來到的。
@@ -2358,6 +2442,7 @@ spa	cmn_Hant	Soy Paul, tu compañero de habitación.	我是你的室友，保羅
 spa	cmn_Hant	Soy tan estúpida.	我真蠢。
 spa	cmn_Hant	Soy tu vecino del cuarto.	我是你四樓的鄰居。
 spa	cmn_Hant	Soy tú.	我是你。
+spa	cmn_Hant	Soy una niña.	我是個女孩兒。
 spa	cmn_Hant	Soy un buen sujeto.	我是好人。
 spa	cmn_Hant	Soy un héroe.	我是個英雄。
 spa	cmn_Hant	Su amiga es japonesa.	他的女朋友是日本人。
@@ -2455,6 +2540,7 @@ spa	cmn_Hant	Tom conspiró para destruir el proyecto.	湯姆打算毀掉這個�
 spa	cmn_Hant	Tom dice que él puede comunicarse con los muertos.	湯姆說他能和死人交流。
 spa	cmn_Hant	Tom dice que no le gusta el aire acondicionado.	湯姆說他不喜歡空調。
 spa	cmn_Hant	Tom entrenó a su perro a ladrar a los desconocidos.	Tom訓練他的狗對陌生人吠。
+spa	cmn_Hant	Tom es mi dentista.	湯姆是我的牙醫。
 spa	cmn_Hant	Tom es solo un loco anciano.	湯姆只是一個瘋老頭。
 spa	cmn_Hant	Tom está buscando un trabajo.	Tom正在找工作。
 spa	cmn_Hant	Tom está casado con Mary, ¿no?	湯姆是和瑪麗結婚的吧？
@@ -2519,6 +2605,7 @@ spa	cmn_Hant	¿Tu idea y la suya se diferencian en algo?	你的想法和她的�
 spa	cmn_Hant	Tú lo sabes todo, ¿verdad?	你全都知道，對嗎？
 spa	cmn_Hant	Tu media derecha está al revés.	你右邊襪子倒轉穿了。
 spa	cmn_Hant	Tú no eres japonés.	你不是日本人。
+spa	cmn_Hant	¿Tú no le tienes miedo a la muerte?	你不怕死嗎？
 spa	cmn_Hant	Tú no necesitas dinero.	你不需要錢。
 spa	cmn_Hant	Tu perro está ahí.	你的狗在那儿。
 spa	cmn_Hant	Tu problema es parecido al mío.	你的問題和我的相似。
@@ -2541,9 +2628,12 @@ spa	cmn_Hant	Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.	一�
 spa	cmn_Hant	Usted debería aprender a controlarse.	您應該學會控制自己。
 spa	cmn_Hant	Usted es muy valiente.	您非常勇敢。
 spa	cmn_Hant	Usted no es especial.	您不特別。
+spa	cmn_Hant	¿Usted qué respondió?	您回答了什么？
 spa	cmn_Hant	¿Usted qué vio en París?	您在巴黎看到了什么？
+spa	cmn_Hant	Va a llover esta noche.	今晚會下雨。
 spa	cmn_Hant	¿Vacaciones? ¿Qué son las vacaciones?	暑假？暑假是什么意思啊？
 spa	cmn_Hant	¿Vais a venir conmigo?	你們要和我一起去嗎？
+spa	cmn_Hant	Vámonos, que ya no llueve.	我們走吧，雨已經不下了。
 spa	cmn_Hant	¿Vamos al cine?	我們去電影院嗎？
 spa	cmn_Hant	Ve al médico.	去看醫生吧。
 spa	cmn_Hant	Ven a mi habitación.	進來我房間。
@@ -2582,6 +2672,7 @@ spa	cmn_Hant	¿Ya has almorzado?	你吃過午飯了嗎？
 spa	cmn_Hant	Ya he terminado el trabajo.	我已經完成了這項工作。
 spa	cmn_Hant	¿Ya leíste el periódico de hoy?	你看過今天的報紙了嗎？
 spa	cmn_Hant	¿Ya lo terminaste?	你做完了嗎?
+spa	cmn_Hant	Ya no puedo comer.	我吃不下了。
 spa	cmn_Hant	Ya no tenemos pan.	我們沒麵包了。
 spa	cmn_Hant	¿Ya se conocen?	他們早就認識了嗎？
 spa	cmn_Hant	Ya se los dije.	我早就和他說過這些了。
@@ -2612,6 +2703,7 @@ spa	cmn_Hant	Yo también quiero ir a verlo.	我也好想去看喔。
 spa	cmn_Hant	¡Yo también quiero saber!	我也想知道。
 spa	cmn_Hant	Yo tampoco lo puedo hacer.	我也不會做。
 spa	cmn_Hant	Yo tengo tres cámaras fotográficas.	我有三台攝影機。
+spa	cmn_Hant	Yo tuve mucho cuidado.	我非常小心了。
 spa	cmn_Hant	Yo vine aquí a estudiar.	我來這裡讀書。
 spa	cmn_Hant	Yo vivo con mis padres.	我跟父母住在一起.
 spa	cmn_Hant	¿Y usted?	您呢？

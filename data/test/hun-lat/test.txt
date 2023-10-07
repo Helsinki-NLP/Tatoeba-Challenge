@@ -126,6 +126,8 @@ hun	lat_Latn	Az eszperantót nem nehéz megtanulni.	Linguam esperanticam studere
 hun	lat_Latn	Az "F" latin, nem görög betű.	Non littera Graeca, sed littera Latina est "F".
 hun	lat_Latn	Az idők változnak, és mi változunk velük.	Tempora mutantur et nos mutamur in illis.
 hun	lat_Latn	Az idők változnak, és mi változunk velük.	Tempora mutantur, nos et mutamur in illis.
+hun	lat_Latn	Az igazság a birodalmak alapja.	Justitia fundamentum regnorum.
+hun	lat_Latn	Az igazság a birodalmak alapja.	Justitia regnorum fundamentum.
 hun	lat_Latn	Az Isten lélek: és a kik őt imádják, szükség, hogy lélekben és igazságban imádják.	Spiritus est Deus: et eos qui adorant eum, in spiritu et veritate oportet adorare.
 hun	lat_Latn	Az Istent soha senki nem látta; az egyszülött Fiú, a ki az Atya kebelében van az jelentette ki őt.	Deum nemo vidit unquam: Unigenitus Filius, qui est in sinu Patris, Ipse enarravit.
 hun	lat_Latn	Az öregek lassan járnak.	Seniores lente ambulant.
@@ -275,10 +277,12 @@ hun	lat_Latn	Hogyan?	Quomodo?
 hun	lat_Latn	Hogy hívják az édesanyádat?	Quae vocatur mater tua?
 hun	lat_Latn	Hogy hívnak?	Quis vocaris?
 hun	lat_Latn	Hol a férjem?	Maritus meus ubi est?
+hun	lat_Latn	Hol a lányom?	Ubi est filia mea?
 hun	lat_Latn	Hol kétség, ott a szabadság.	Ubi dubium, ibi libertas.
 hun	lat_Latn	Hol lakik most?	Ubi nunc habitat?
 hun	lat_Latn	Holnap elhozom neked.	Tibi id cras feram.
 hun	lat_Latn	Hol?	Ubi?
+hun	lat_Latn	Hol van a lányom?	Ubi est filia mea?
 hun	lat_Latn	Hol van a mamád, fiú?	Ubi est mater tua, puer?
 hun	lat_Latn	Hol van a telefonkönyv?	Ubi catalogus telephonicus est?
 hun	lat_Latn	Horgászni megyek.	Eo ad piscandum.
@@ -319,6 +323,7 @@ hun	lat_Latn	Jaj a legyőzötteknek.	Vae victis.
 hun	lat_Latn	Japán kisebb Kanadánál.	Iaponia minor quam Canada est.
 hun	lat_Latn	Jegyzetfüzetet akarok.	Libellum volo.
 hun	lat_Latn	Jézus megment engem.	Iesus salvat me.
+hun	lat_Latn	Jézus nem volt keresztény.	Iēsus Christiānus non erat.
 hun	lat_Latn	Jó a bor?	Num vinum est bonum?
 hun	lat_Latn	Jó éjszakát, Timmy!	Bene dormi, Timothee!
 hun	lat_Latn	Jó éjszakát, Timmy!	Bonam noctem, Timmy.
@@ -436,6 +441,7 @@ hun	lat_Latn	Mindig hordok magamnál kést.	Cultrum semper mecum porto.
 hun	lat_Latn	Mit csinálnak?	Quid faciunt?
 hun	lat_Latn	Mit esznek az emberek Egyiptomban.	Quid homines in Aegypto edunt?
 hun	lat_Latn	Mi vagyunk a nép.	Populus sumus.
+hun	lat_Latn	Mi vagyunk az elsők.	Primi sumus.
 hun	lat_Latn	Most ebédel.	Nunc prandium sumit.
 hun	lat_Latn	Most tanul.	Nunc studet.
 hun	lat_Latn	Most van a havi vérzésed?	Menses tibi adsunt?
@@ -461,9 +467,11 @@ hun	lat_Latn	Nem tudjuk.	Nescimus.
 hun	lat_Latn	Nem tudom.	Haud scio.
 hun	lat_Latn	Nem tudom kiejteni ennek a lánynak a nevét!	Istius puellae nomen pronuntiare non possum!
 hun	lat_Latn	Nem tudom!	Nescio!
+hun	lat_Latn	Nem tudom, Tom.	Nescio, Thoma.
 hun	lat_Latn	Nem tudtam, hogy költő vagy.	Nesciebam te poetam esse.
 hun	lat_Latn	Nem vagy jó tanár.	Magister bonus non es.
 hun	lat_Latn	Nem vagyok orvos.	Non sum medicus.
+hun	lat_Latn	Nem zsidó.	Iudaeus non est.
 hun	lat_Latn	Nevében a végzete.	Nomen est omen.
 hun	lat_Latn	Nevet.	Ridet.
 hun	lat_Latn	Ne vitatkozz azzal ami világos, mint a nap.	Adversus solem ne loquitur.
@@ -487,6 +495,8 @@ hun	lat_Latn	Őt nem ismerjük.	Eum non cognoscimus.
 hun	lat_Latn	Pánszexuális vagyok.	Pansexualis sum.
 hun	lat_Latn	Párizsban havazik.	Lutetiae ninguit.
 hun	lat_Latn	Pénz kormányozza a világot.	Pecunia regit mundum.
+hun	lat_Latn	Politikus vagyok.	Politica sum.
+hun	lat_Latn	Politikus vagyok.	Politicus sum.
 hun	lat_Latn	Rádiót hallgatok.	Radiophoniam ausculto.
 hun	lat_Latn	Róbert tud főzni.	Robertus coquere potest.
 hun	lat_Latn	Rögtön aludni mentek.	Statim ad lectum ierunt.
@@ -509,6 +519,7 @@ hun	lat_Latn	Stella egy magyar zsidó.	Stella Iudaea Hungarica est.
 hun	lat_Latn	Stella magyar zsidó.	Stella Iudaea Hungarica est.
 hun	lat_Latn	Suszter, maradj a kaptafánál!	Ne sutor ultra crepidam.
 hun	lat_Latn	Süt a nap.	Sol splendet.
+hun	lat_Latn	Szabadságot Skóciának!	Liberate Scotiam!
 hun	lat_Latn	Szabad vagyok.	Liber sum.
 hun	lat_Latn	Szamárról ökörre.	Ab asinis ad boves.
 hun	lat_Latn	Szereted az elefántot.	Elephantus tibi placet.
@@ -574,7 +585,9 @@ hun	lat_Latn	Tudtam.	Sciebam.
 hun	lat_Latn	Túléljük őket.	Eis supererimus.
 hun	lat_Latn	Túléljük őket.	Eis supervivemus.
 hun	lat_Latn	Túlságosan szép.	Ea quoque pulchra est.
+hun	lat_Latn	Üdv, Cézár! A halálba menők köszöntenek.	Ave Cæsar, morituri te salutant.
 hun	lat_Latn	Üdv nektek!	Salvete!
+hun	lat_Latn	Üdvözlégy Cézár, a halálba indulók köszöntenek!	Ave Cæsar, morituri te salutant.
 hun	lat_Latn	Üdvözlégy, Cézár!	Ave Caesar!
 hun	lat_Latn	Üdv!	Salve.
 hun	lat_Latn	Úgy gondolom, Tamás egy macska.	Puto Thoman felem esse.
@@ -605,3 +618,5 @@ hun	lat_Latn	Virágot árul.	Flores vendit.
 hun	lat_Latn	Voltál már Bostonban, igaz?	Nonne Bostoniae fuisti?
 hun	lat_Latn	Vonattal mész?	Tramine ibis?
 hun	lat_Latn	Zombik jönnek!	Zombiae veniunt!
+hun	lat_Latn	Zsidó vagyok?	Sumne Iudaea?
+hun	lat_Latn	Zsidó vagyok?	Sumne Iudaeus?

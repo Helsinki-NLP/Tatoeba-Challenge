@@ -5,17 +5,17 @@ apc	lad	بدي أشتري بيت.	קירו מירקאר אונה קאזה.
 apc	lad	شو كلمه؟	קי איס און ביירבﬞו?
 apc	lad	شو كلمه؟	קי איס אונה פאלאבﬞרה?
 ara	lad_Latn	أُحب اللغات الرومانيقية.	Amo las linguas romanzes.
-ara	lad_Latn	أريد السلام.	Kero paz.
 ara	lad_Latn	أريد أن أشتري منزلا.	Kero merkar una kaza.
-ara	lad_Latn	إسمي توم.	Mi nombre es Tom.
+ara	lad_Latn	أريد السلام.	Kero paz.
 ara	lad_Latn	أكره المنافقين.	Aborresko a los ipokritas.
+ara	lad_Latn	أنا عبقري مستقر جدا.	So un djenio muy estavle.
+ara	lad_Latn	إسمي توم.	Mi nombre es Tom.
 ara	lad_Latn	العالم جميل.	El mundo es ermozo.
 ara	lad_Latn	العبرية والفينيقية لغات كنعانية.	El ebreo i el fenisio son linguas kananitas.
 ara	lad_Latn	العربية تشبه العبرية.	El arabo es asemejante al ebreo.
 ara	lad_Latn	القبائلية هي لغة أمازيغية.	El kabil es una lingua bereber.
 ara	lad_Latn	القبائلية هي لغة أمازيغية.	El taqbaylit es una lingua bereber.
 ara	lad_Latn	انا الشيطان.	So el diavlo.
-ara	lad_Latn	أنا عبقري مستقر جدا.	So un djenio muy estavle.
 ara	lad_Latn	توم ليس ترامب.	Tom no es Trump.
 ara	lad_Latn	توم ليس مترجم.	Tom no es un tardjuman.
 ara	lad_Latn	حياة السود مهمة.	Las vidas de las personas pretas son emportantes.
@@ -38,19 +38,35 @@ ara	lad	أتحدث لغة إيدو.	אבﬞלו אידו.
 ara	lad	أتحدث لغة إيدو.	פﬞאבﬞלו אידו.
 ara	lad	أُحب اللغات السامية.	אמו לאס לינגואס סימיטיקאס.
 ara	lad	أريد أن أشتري منزلا.	קירו מירקאר אונה קאזה.
+ara	lad	أريد جروا.	Kero un perriko.
+ara	lad	أريد كلبا.	Kero un perro.
 ara	lad	أكره المنافقين.	אבוריסקו אה לוס איפוקריטאס.
+ara	lad	أنا عبقري مستقر جدا.	סו און גﬞינייו מויי איסטאבﬞלי.
+ara	lad	الحرب سيئة.	La gerra es mala.
+ara	lad	الحرب سيئة.	לה גיררה איס מאלה.
 ara	lad	الدنيا جميلة.	איל מונדו איס אירמוזו.
 ara	lad	العالم جميل.	איל מונדו איס אירמוזו.
 ara	lad	العبرية والفينيقية لغات كنعانية.	איל איבריאו אי איל פﬞיניסיו סון לינגואס קאנאניטאס.
+ara	lad	المرآة متسخة جداً	El espejo esta muy suzio.
 ara	lad	انا الشيطان.	סו איל שטן.
-ara	lad	أنا عبقري مستقر جدا.	סו און גﬞינייו מויי איסטאבﬞלי.
+ara	lad	تُغنِّي بالقبائليَّة.	Kanta en kabil.
 ara	lad	توم ليس ترامب.	טום נו איס טרומפ.
 ara	lad	حياة السود مهمة.	לאס בﬞידﬞאס די לאס פירסונאס פריטאס סון אימפורטאנטיס.
 ara	lad	حياة الفلسطينيين مهمة.	לאס בﬞידﬞאס פאליסטיניאנאס סון אימפורטאנטיס.
+ara	lad	زرت مسجدا.	Vijiti una meskita.
+ara	lad	طيور ليست حقيقية	Los pasharos no son reales.
+ara	lad	كان يعلم ذلك.	El savia esto.
+ara	lad	كان يعلم هذا.	El savia esto.
+ara	lad	لا أريد الكثير.	No kero muncho.
+ara	lad	لم يكن ماركس وإنجلز نبيَين.	Marx i Engels no eran neviim.
 ara	lad	ليس لأي دولة الحق في الوجود.	דינגונו איסטאדﬞו נו טייני איל דיריגﬞו א איגזיסטיר.
 ara	lad	ماذا الحرية؟	קי איס לה ליבירטאדﬞ?
+ara	lad	نحن لا نريد حربا.	No keremos una gerra.
 ara	lad	نحن نعيش في مجتمع.	ביבﬞימוס אין אונה סוסיידﬞאד.
+ara	lad	نحن يهود.	Somos djudios.
 ara	lad	هتلر كره اليهود.	היטליר אבוריסייה אה לוס גﬞודﬞייוס.
+ara	lad	هو علماني.	Es sekular.
+ara	lad	يتعلم توم الجودو.	Tom se esta ambezando djudo.
 arq	lad_Latn	الحمد لله.	Baruh Ashem.
 arz	lad_Latn	اليونان جميلة.	Gresia es ermoza.
 arz	lad_Latn	اليونان جميلة.	Gresia es fermoza.
@@ -58,6 +74,8 @@ arz	lad_Latn	كلمة ايه؟	Ke es una palavra?
 arz	lad_Latn	كلمة ايه؟	Ke es un biervo?
 arz	lad_Latn	لا اله الا الله	No ay dingun dio mas ke el Dio.
 arz	lad	اليهوديه حلوة.	איל גﬞודﬞאאיזמו איס אירמוזו.
+arz	lad	توم قرر يزرع شجرة.	Tom se desido de plantar un arvol.
+arz	lad	كل الدول مزيفة.	Todos los paizes son falsos.
 arz	lad	كلمة ايه؟	קי איס און ביירבﬞו?
 arz	lad	كلمة ايه؟	קי איס אונה פאלאבﬞרה?
 arz	lad	هيتلر كره اليهود.	היטליר אבוריסייה אה לוס גﬞודﬞייוס.

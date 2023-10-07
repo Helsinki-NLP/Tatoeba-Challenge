@@ -34,8 +34,8 @@ spa	tat	¡Cállate!	Дәшмә!
 spa	tat	Carl me enseñó la medalla de oro.	Карл миңа алтын медален күрсәтте.
 spa	tat	Cierra la ventana, Jim.	Тәрәзәне яп, Джим.
 spa	tat	Ciña ¡oh Patria! tus sienes de oliva de la paz el arcángel divino, que en el cielo tu eterno destino por el dedo de Dios se escribió.	Зәйтүн чәчәгеннән таҗ үреп ки – Җәбраил әмере бу, Ватан, синең тәкъдир Ходай хозурында “Мәңгелеккә!” диеп язылган.
-spa	tat	¡Claro!	Билгеле!
 spa	tat	¡Claro!	Әлбәттә!
+spa	tat	¡Claro!	Билгеле!
 spa	tat	Come todo lo que quieras.	Туйганчы аша.
 spa	tat	Come y bebe.	Аша да эч.
 spa	tat	¿Cómo sería mejor?	Ничек яхшырак булыр икән?
@@ -138,6 +138,7 @@ spa	tat	Esta manzana es requeterroja.	Бу алма кып-кызыл.
 spa	tat	Esta manzana es rojísima.	Бу алма кып-кызыл.
 spa	tat	Esta manzana está dulce.	Бу алма татлы.
 spa	tat	Esta naranja está demasiado agria.	Бу әфлисун артык ачы.
+spa	tat	Están construyendo un puente de piedra.	Алар таш күпер төзиләр.
 spa	tat	Esta pluma es la mía.	Бу шариклы авторучка - минеке.
 spa	tat	Esta puerta no abre.	Бу ишек ачылмый.
 spa	tat	Está rico.	Тәмле.
@@ -222,6 +223,7 @@ spa	tat_Latn	Tom y María han estado parados ya una hora frente a un espejo.	Tom
 spa	tat_Latn	Uno de los dos tiene que irse.	İkeseneñ berse kitärgä tieş.
 spa	tat	Le caía gorda.	Ул аны күрә алмый иде.
 spa	tat	Le caía gordo.	Ул аны күрә алмый иде.
+spa	tat	Le condenaron a Samí a seis años de prisión.	Самины алты елга төрмәгә утырттылар.
 spa	tat	¿Le gusta Kazán?	Сезгә Казан ошадымы?
 spa	tat	Les dará igual.	Аларга барыбер.
 spa	tat	Llora todo lo que quieras.	Туйганчы ела.
@@ -244,6 +246,7 @@ spa	tat	Me gustan todos los animales excepto los gatos.	Мәчеләрдән к�
 spa	tat	¡Me has cautivado!	Син мине сокландырасың!
 spa	tat	¿Me permite?	Рөхсәтме?
 spa	tat	Me voy a dormir.	Йокларга киттем.
+spa	tat	Mexicanos, al grito de guerra el acero aprestad y el bridón.	Meksikalı, suğış awaz salsa, äzerlä at, qılıç häm iär.
 spa	tat	Mi cena consta de solo frutas.	Кичке ашым җимешләрдән генә тора.
 spa	tat	Mi cena consta de solo fruta.	Кичке ашым җиләк-җимештән генә тора.
 spa	tat	Miel en el idioma, gris en el corazón.	Телендә - бал, күңелендә - чал.
@@ -317,8 +320,8 @@ spa	tat	Persona que profesa la verdad no muere.	Дөреслеккә табын�
 spa	tat	¿Por qué no viniste?	Нигә килмәдең?
 spa	tat	¿Por qué?	Нәрсәдән?
 spa	tat	¿Por qué?	Нигә?
-spa	tat	¡Por supuesto!	Билгеле!
 spa	tat	¡Por supuesto!	Әлбәттә!
+spa	tat	¡Por supuesto!	Билгеле!
 spa	tat	¿Puedes hablar francés?	Французча беләсеңме?
 spa	tat	Puedo comer.	Ашый алам.
 spa	tat	Puedo comprender su idioma.	Телегезне аңлыйм.
@@ -407,6 +410,7 @@ spa	tat	Toma la cámara.	Фотоаппарат ал.
 spa	tat	Tom es más valiente que yo.	Том миннән кыюрак.
 spa	tat	Tom es un hombre de nariz parada.	Том борын күтәрүчән кеше.
 spa	tat	Tom es un hombre fanfarrón.	Том масаючан кеше.
+spa	tat	Tom le disparó a un venado.	Том фехста сагы.
 spa	tat	Tom se subió al taxi.	Том таксига утырды.
 spa	tat	Tom y María han estado parados ya una hora frente a un espejo.	Том белән Мария бер сәгать инде көзге каршында басып торалар.
 spa	tat	Trabajar la tierra es mejor que pedir limosna en el desierto.	Илдә хезмәт кую чүлдә хәер сорашудан яхшырак.
@@ -439,3 +443,4 @@ spa	tat	Yo comprendo tu lengua.	Телеңне аңлыйм.
 spa	tat	Yo enseño.	Өйрәтәм.
 spa	tat	Yo no lo veo.	Мин аны күрмим.
 spa	tat	Yo no veo la televisión.	Мин телевизор карамыйм.
+spa	tat	Y retiemble en sus centros la tierra, al sonoro rugir del cañón.	Tuplar atuınnan qaltıransın Cir şarı – üzägenä qädär.

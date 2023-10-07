@@ -1,11 +1,13 @@
 fin	fra	Aamiainen on valmis.	Le petit-déjeuner est prêt.
 fin	fra	Afrikka on ihmiskunnan kehto.	L'Afrique est le berceau de l'humanité.
+fin	fra	Äidillä on kaksi kultasormusta.	Maman a deux bagues en or.
 fin	fra	Aina.	Toujours.
 fin	fra	Äitini on vakavasti sairas.	Ma mère est gravement malade.
 fin	fra	Ajattelen, joten olen olemassa.	Je pense, donc j'existe.
 fin	fra	Ajattelen, siis minä olen olemassa.	Je pense, donc j'existe.
 fin	fra	Ajattelen, siis olen.	Je pense donc je suis.
 fin	fra	Ajattelen, siis olen olemassa.	Je pense, donc j'existe.
+fin	fra	”Ajattelen, siis olen”, sanoi René Descartes.	« Je pense, donc je suis », a dit René Descartes.
 fin	fra	Ajattele!	Penses-tu!
 fin	fra	Älä laiskottele, käytä kanji-merkkejä jotka sinulle on opetettu.	Ne sois pas fainéant, utilise les kanji que tu as appris.
 fin	fra	Älä myöhästy!	Ne sois pas en retard.
@@ -37,6 +39,7 @@ fin	fra	Anteeksi?	Pardon ?
 fin	fra	Asialaiset kuluttavat paljon riisiä.	Les asiatiques consomment beaucoup de riz.
 fin	fra	Asun Bostonissa.	J'habite à Boston.
 fin	fra	Asun täällä.	J'habite ici.
+fin	fra	Aurinko on tappava laser.	Le soleil est un laser mortel.
 fin	fra	Autan sinua ilomielin.	J'aurai plaisir à vous aider.
 fin	fra	Bakteereita ei voi nähdä paljaalla silmällä.	Les bactéries sont invisibles à l'œil nu.
 fin	fra	Biwa-järvi on Japanin suurin järvi.	Le lac Biwa est le plus grand du Japon.
@@ -49,11 +52,13 @@ fin	fra	Eilen tapaamani mies oli herra Hill.	L'homme que j'ai rencontré hier é
 fin	fra	Ei, minä olen englantilainen.	Non, je suis anglais.
 fin	fra	Ei, minä olen englantilainen.	Non, je suis Anglais.
 fin	fra	Ei!	Non !
+fin	fra	Ei ole tarvetta valehdella.	Il n'y a pas besoin de mentir.
 fin	fra	Ei sääntöä ilman poikkeusta.	Il n’est pas de règle sans exception.
 fin	fra	Ei sääntöä ilman poikkeusta.	Il n'y a pas de règle sans exception.
 fin	fra	Elämä on kaunis!	La vie est belle !
 fin	fra	Elämä on kaunista!	La vie est belle !
 fin	fra	Emme ajatelleet hintaa.	Nous n'avons pas pris le prix en considération.
+fin	fra	Emme ollenkaan tunne lapsen luontoa; siitä muodostamiemme väärien käsitteiden nojalla joudumme, kuta pitemmälle koetamme päästä, yhä kauemmaksi harhateille.	On ne connoît point l’enfance : sur les fausses idées qu’on en a, plus on va, plus on s’égare.
 fin	fra	En, en minä ole hullu.	Non, je ne suis pas fou.
 fin	fra	Englannin puhuminen ei ole helppoa.	Parler anglais n'est pas facile.
 fin	fra	En juo paljon viiniä.	Je ne bois pas beaucoup de vin.
@@ -104,9 +109,12 @@ fin	fra	Et halua tietää.	Tu ne veux pas savoir.
 fin	fra	Et tule kuolemaan täällä.	Tu ne vas pas mourir ici.
 fin	fra	Et voi olla tosissasi!	Tu ne peux pas être sérieux.
 fin	fra	Et voi syyttää häntä onnettomuudesta.	Tu ne peux pas le blâmer pour l'accident.
+fin	fra	Eurooppaa ei ole.	L'Europe n'existe pas.
+fin	fra	Eurooppaa ei ole olemassa.	L'Europe n'existe pas.
 fin	fra	Eurooppalaiset ovat maailman suurimpia alkoholin kuluttajia.	Les Européens sont les plus grands consommateurs d'alcool au monde.
 fin	fra	Gladiaattorit taistelivat kuolemaan asti Kolosseumissa.	Les gladiateurs se battaient à mort dans l'enceinte du Colisée.
 fin	fra	Haarukka puuttuu.	Il manque une fourchette.
+fin	fra	Hallitus rankaisi heitä ankarasti.	Le gouvernement les a sévèrement punis.
 fin	fra	Haluaisin huoneen, jossa on ilmastointi.	Je voudrais une chambre avec air conditionné.
 fin	fra	Haluaisin kaupunkikartan.	Je voudrais un plan de la ville.
 fin	fra	Haluaisin mennä naimisiin hänen kanssaan.	J'espère l'épouser.
@@ -189,6 +197,8 @@ fin	fra	Hän oli kateellinen menestyksestäni.	Il était envieux de mon succès.
 fin	fra	Hän oli liian nuori elämään yksin.	Il était trop jeune pour vivre seul.
 fin	fra	Hän oli mustasukkainen vaimostaan.	Il était jaloux de sa femme.
 fin	fra	Hän omistaa kymmenen lehmää.	Il possède dix vaches.
+fin	fra	Hän on alasti.	Elle est nue.
+fin	fra	Hän on alasti.	Il est nu.
 fin	fra	Hän on blondi.	Il a les cheveux blonds.
 fin	fra	Hän on DJ.	Il est DJ.
 fin	fra	Hän on feministi.	Elle est une féministe.
@@ -197,6 +207,8 @@ fin	fra	Hän on hulluna baseballiin.	Il est fou de baseball.
 fin	fra	Hän on huonolla tuulella.	Elle est de mauvaise humeur.
 fin	fra	Hän on hyvä oppilas.	C'est un bon étudiant.
 fin	fra	Hän on hyvä uimari.	Elle est bonne nageuse.
+fin	fra	Hän on ilkosillaan.	Elle est nue.
+fin	fra	Hän on ilkosillaan.	Il est nu.
 fin	fra	Hän on keittiössä.	Elle est dans la cuisine.
 fin	fra	Hän on kiltti eläimille.	Elle est douce envers les animaux.
 fin	fra	Hän on kiltti.	Il est gentil.
@@ -207,6 +219,8 @@ fin	fra	Hän on minua kolme vuotta nuorempi.	Il est trois ans plus jeune que moi
 fin	fra	Hän on minun ystäväni.	Elle est mon amie.
 fin	fra	Hän on minun ystäväni.	Il est mon ami.
 fin	fra	Hän on naistenvihaaja.	Il est misogyne.
+fin	fra	Hän on nakuna.	Elle est nue.
+fin	fra	Hän on nakuna.	Il est nu.
 fin	fra	Hän on niin sanoakseni kuin kala kuivalla maalla.	Il est, pour ainsi dire, comme un poisson hors de l'eau.
 fin	fra	Hän on onnellinen.	Elle est heureuse.
 fin	fra	Hän on pitkä ja vahva.	Il est grand et fort.
@@ -220,6 +234,7 @@ fin	fra	Hän on vain kateellinen nuoruudestasi.	Elle est seulement jalouse de ta
 fin	fra	Hän on varmasti oikeassa.	Elle a certainement raison.
 fin	fra	Hän opiskelee Kyodaissa.	Il étudie à l'université de Kyoto.
 fin	fra	Hän osti hänelle koiran.	Il lui acheta un chien.
+fin	fra	Hän paransi laitetta.	Il a amélioré l'appareil.
 fin	fra	Hän pelasi tennistä.	Il a joué au tennis.
 fin	fra	Hän pesee autoa.	Il lave la voiture.
 fin	fra	Hän pitää hyytelöstä.	Il aime la gelée.
@@ -389,6 +404,8 @@ fin	fra	Kymmenen, yksitoista, kaksitoista, kolmetoista, neljätoista, viisitoist
 fin	fra	Kysyin häneltä onko hän ollut Meksikossa.	Je lui ai demandé, si elle avait été au Mexique.
 fin	fra	Lääkekannabis on laillista tässä osavaltiossa.	La marijuana thérapeutique est légale dans cet État.
 fin	fra	Lähetän sinulle linkin.	Je t'enverrai le lien.
+fin	fra	Lakkaa nipistelemästä minua.	Arrête de me pincer.
+fin	fra	Lapset haluaisivat tappaa kaikki muurahaiset!	Les enfants voudraient tuer toutes les fourmis !
 fin	fra	Lehmät ovat pyhiä monille ihmisille Intiassa.	Les vaches sont sacrées pour beaucoup de gens en Inde.
 fin	fra	Leipää.	Pain.
 fin	fra	Linnut lentävät.	Les oiseaux s'envolèrent.
@@ -396,6 +413,7 @@ fin	fra	Lopeta!	Arrête ça !
 fin	fra	Lopeta jo!	Arrête !
 fin	fra	Lopeta jo!	Arrête ça !
 fin	fra	Lopeta jo!	Cela suffit.
+fin	fra	Lopeta minun nipisteleminen.	Arrête de me pincer.
 fin	fra	Löytyi!	Je le trouvai.
 fin	fra	Lue!	Lis !
 fin	fra	Luen kirjaa sillä välin kun sinä nukut.	Je vais lire un livre pendant que tu dors.
@@ -410,6 +428,7 @@ fin	fra	Maapallolla on viisi valtamerta.	Le monde a cinq océans.
 fin	fra	Mä kuolen nälkään!	Je crève de faim.
 fin	fra	Mari tarvitsee uudet kengät.	Maria a besoin de nouvelles chaussures.
 fin	fra	Mari tarvitsee uudet kengät.	Marie a besoin de nouvelles chaussures.
+fin	fra	Mayuko oli yksin huoneessa.	Mayuko était seule dans la pièce.
 fin	fra	Meg oli ainoa tyttö, jolla oli farkut jalassa.	Meg était la seule fille à porter un jeans.
 fin	fra	Me haluamme vain teidät.	Nous ne voulons que vous.
 fin	fra	Meidän automme on varustettu ilmastoinnilla.	Notre voiture est équipée de l'air conditionné.
@@ -588,6 +607,7 @@ fin	fra	Moi John!	Salut, John !
 fin	fra	Moikka John!	Salut, John !
 fin	fra	Moi.	Salut.
 fin	fra	Monelta leipomo menee kiinni?	À quelle heure ferme la boulangerie ?
+fin	fra	Monet ihmiset eivät tee töitä lauantaisin ja sunnuntaisin.	Beaucoup de gens ne travaillent pas les samedis et dimanches.
 fin	fra	Monet syöpäpotilaat menettävät hiuksensa kemoterapian takia.	De nombreux patients atteints du cancer perdent leurs cheveux à cause de la chimiothérapie.
 fin	fra	Monilla maailman noin seitsemästä tuhannesta kielestä on elossa vain kourallinen puhujia, ja kieliä uhkaa kuoleminen.	Beaucoup des environ sept mille langues du monde ne sont parlées que par quelques poignées de personnes vivantes et sont menacées d'extinction.
 fin	fra	Morjens John!	Salut, John !
@@ -720,6 +740,7 @@ fin	fra	Onko hän japanilainen?	Est-elle japonaise ?
 fin	fra	Onko hän siskonne?	Est-ce là votre sœur ?
 fin	fra	Onko kaikki okei?	Tu vas bien ?
 fin	fra	Onko kyydissä lääkäriä?	Y a-t-il un médecin à bord ?
+fin	fra	Onko majoneesi soitin?	La mayonnaise est-elle un instrument ?
 fin	fra	Onko se ilmainen?	C'est gratuit ?
 fin	fra	Onko sinulla polkupyörää?	Avez-vous une bicyclette ?
 fin	fra	Onko sinulla polkupyörää?	Avez-vous un vélo ?
@@ -777,6 +798,7 @@ fin	fra	Pidän riisistä enemmän kuin leivästä.	J'aime le riz davantage que l
 fin	fra	Pidän sinua parhaana ystävänäni.	Je pense que tu es mon meilleur ami.
 fin	fra	Pidän tästä koulusta.	J'aime bien cette école.
 fin	fra	Pieni.	Petite.
+fin	fra	Planeettamme on sairas.	Notre planète est malade.
 fin	fra	Poikamme kuoli sodassa.	Notre fils a été tué à la guerre.
 fin	fra	Poika pysyi hiljaa.	Le garçon resta silencieux.
 fin	fra	Pöydän alla on kissa.	Il y a un chat sous la table.
@@ -827,6 +849,7 @@ fin	fra	Se maksaa liikaa.	C'est trop cher.
 fin	fra	Se mies ryösti häneltä kaikki hänen rahansa.	L'homme lui déroba tout son argent.
 fin	fra	Se oli käsintehty.	Ça a été fait à la main.
 fin	fra	Se oli käsityönä tehty.	Ça a été fait à la main.
+fin	fra	Se on etana.	C'est un escargot.
 fin	fra	Se on klassikko.	C'est un classique.
 fin	fra	Se on liian kallis.	C'est trop cher.
 fin	fra	Se on liian kallista.	C'est trop cher.
@@ -879,6 +902,7 @@ fin	fra	Strutsit eivät osaa lentää.	Les autruches ne peuvent pas voler.
 fin	fra	Sulje se.	Ferme-le.
 fin	fra	Sulkekaa ikkuna.	Fermez la fenêtre.
 fin	fra	Suomalaiset puhuvat suomea.	Les Finlandais parlent le finnois.
+fin	fra	Surmasin ne.	Je les ai tués.
 fin	fra	Suurkiitokset!	Grand merci !
 fin	fra	Syön leipää.	Je mange du pain.
 fin	fra	Tähän klubiin kuuluu viisikymmentä jäsentä.	Il y a 50 membres dans ce club.
@@ -892,6 +916,7 @@ fin	fra	Tämä ei ole kala.	Ceci n'est pas un poisson.
 fin	fra	Tämä koira on valkoinen.	Ce chien-là est blanc.
 fin	fra	Tämä lause ei tarkoita mitään.	Cette phrase ne veut rien dire.
 fin	fra	Tämä leipä on gluteenitonta.	Ce pain est sans gluten.
+fin	fra	Tämä nainen on hänen puolisonsa, luulen.	Cette femme est son épouse, je crois.
 fin	fra	Tämän päivän sanomalehden mukaan Chilessä sattui iso maanjäristys eilen.	D'après le journal, il y a eu un grand tremblement de terre au Chili hier.
 fin	fra	Tämä on leijona.	Ceci est un lion.
 fin	fra	Tämä puhelin ei toimi.	Ce téléphone ne fonctionne pas.
@@ -912,6 +937,7 @@ fin	fra	Tapasin hänet kadulla sattumalta.	Je l'ai rencontré par chance dans la
 fin	fra	Tapasin isäsi eilen.	J'ai rencontré ton père hier.
 fin	fra	Tapasin Tomin joitakin minuutteja sitten.	J'ai vu Tom il y a quelques minutes.
 fin	fra	Tapoin hiiret.	J'ai tué les souris.
+fin	fra	Tapoin ne.	Je les ai tués.
 fin	fra	Tarkkailen sinua.	Je vais vous surveiller.
 fin	fra	Tarvitsen autonavaimet.	Il me faut les clés de voiture.
 fin	fra	Tarvitsen monta kirjaa.	J'ai besoin de beaucoup de livres.
@@ -948,6 +974,7 @@ fin	fra	Tomin kasvot kalpenivat.	Tom a pâli.
 fin	fra	Tomin pitäisi pyytää Marilta anteeksi, että hän ei tullut ajoissa.	Tom ferait bien de s'excuser auprès d'Amélie de ne pas être arrivé à l'heure.
 fin	fra	Tomi on esikoiseni.	Tom est mon premier-né.
 fin	fra	Tomi on kanadalainen.	Tom est canadien.
+fin	fra	Tomi on Tomi.	Tom est Tom.
 fin	fra	Tom itki.	Tom pleurait.
 fin	fra	Tom jäi pois junan kyydistä.	Tom descendit du train.
 fin	fra	Tom joi paljon vodkaa Venäjän-matkallaan.	Tom a bu beaucoup de vodka lors de son voyage en Russie.
@@ -1031,6 +1058,7 @@ fin	fra	Voisitko vähän auttaa minua?	Pouvez-vous m'aider un peu ?
 fin	fra	Voisitko vaihtaa lipun, kiitos.	Change le drapeau, s'il te plait.
 fin	fra	Voitko löytää sen?	Peux-tu la trouver ?
 fin	fra	Voitko suositella hyvää ravintolaa?	Pouvez-vous me recommander un bon restaurant?
+fin	fra	Yhtenäisiä ihmisiä ei koskaan voiteta.	Le peuple uni ne sera jamais vaincu.
 fin	fra	Yksi olut, kiitos.	Une bière, s'il vous plaît !
 fin	fra	Ylös sängystä!	Sors du lit !
 fin	fra	Yritä uudelleen.	Essaie à nouveau.
@@ -1054,3 +1082,4 @@ fin	fra	Yritä vielä kerran uudelleen.	Essaye de nouveau.
 fin	fra	Yritä vielä kerran uudelleen.	Fais-le encore une fois.
 fin	fra	Ystäväni on kaksikielinen.	Mon ami est bilingue.
 fin	fra	Yy, kaa, koo, nee, vii, kuu, seiten, kas, ys, kymp.	Un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix.
+fin	fra	Ziri söi mansikoita.	Ziri mangeait des fraises.

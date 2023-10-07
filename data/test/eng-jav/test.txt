@@ -62,6 +62,7 @@ eng	jav	I couldn't go.	Aku ora isa lunga.
 eng	jav	I don't find any of this interesting.	Aku ora nemokaké endi-endi sing wangun.
 eng	jav	I don't know either.	Aku ya ora ngerti
 eng	jav	I don't like coffee.	Aku ora doyan kopi.
+eng	jav	I don't like eating tomatoes.	Aku ora seneng mangan tomat.
 eng	jav	I'd rather walk than wait for the next bus.	Aku mendhing mlaku tinimbang ngentèni bis sabanjuré.
 eng	jav	I feel like having an ice-cream.	Rasané kaya lagi mangan ès krim.
 eng	jav	I fell asleep while studying at my desk.	Aku katuron nalika sinau ana ing méjaku.
@@ -107,6 +108,7 @@ eng	jav	It was not until few days later that the news arrived.	Kasunyatané isih
 eng	jav	It was really nice.	Kuwi apik tenan.
 eng	jav	I've been very busy.	Aku nembé ana gawé.
 eng	jav	I've heard that Boston is a very expensive place to live.	Krungu-krungu Boston kuwi tlatah sing larang kanggo urip.
+eng	jav	I've written many sentences in French.	Aku wis nulis akèh tembung basa Prancis.
 eng	jav	I was about to leave my house.	Nalika iku, aku piuju arep lunga.
 eng	jav	I was born on 18th March 1994.	Aku dilairaké tanggal 18 Maret 1994.
 eng	jav	I wash my hands of it.	Aku wisuh nganggo kuwi.
@@ -115,8 +117,10 @@ eng	jav	I won't let him do it.	Aku ora bakal ngejaraké dhèwèké nglakoni iku.
 eng	jav	I won't run.	Aku wegah mlayu.
 eng	jav	I would rather stay here.	Aku luwung mapan kéné.
 eng	jav	I would rather walk than wait for the next bus.	Aku mendhing mlaku tinimbang ngentèni bis sabanjuré.
+eng	jav_Java	Congratulations!	ꦮꦶꦭꦸꦗꦼꦁ
 eng	jav_Java	Congratulations!	ꦱ꧀ꦭꦩꦼꦠ꧀
 eng	jav_Java	He walks fast.	ꦣꦺꦏꦺꦩ꧀ꦭꦏꦸꦧꦤ꧀ꦠꦼꦂ
+eng	jav_Java	The food is decent.	ꦥꦔꦤ꧀ꦤꦤ꧀ꦤꦺꦭꦸꦩꦪꦤ꧀꧈
 eng	jav	Joseph has a limp.	Yusuf mlakuné nyèmpèr.
 eng	jav	Keep an eye on the baby for a while.	Tulung awasi bayiné sedhéla.
 eng	jav	Let him wait!	Bènaké dhèwèké ngentèni.
@@ -167,6 +171,7 @@ eng	jav	The butcher ground the meat.	Bakul iwaké nggiling iwak.
 eng	jav	The car he's driving is not his.	Mobil sing ditumpaki dhewekke dudu nggonane dhewekke
 eng	jav	The fish isn't supposed to be thrown away. It can be used to feed cats.	Iwaké dhongé aja diguwak, isa dienggo pakan kucing.
 eng	jav	The flag is up.	Gendérané wis munggah.
+eng	jav	The girl has black hair and blue eyes.	Bocah wadon iku rambuté ireng lan matané biru.
 eng	jav	The hut was set on fire.	Gubugé diobong.
 eng	jav	The moment she heard the news, she turned pale.	Nalika dhèké krungu wartané, dhèké malih pucet.
 eng	jav	There's fruit and meat in this market.	Ana woh-wohan lan iwak-iwakan nèng pasar iki.
@@ -212,6 +217,7 @@ eng	jav	Tom's father is a police officer.	Bapaké Tom pulisi.
 eng	jav	Tom's father is a police officer.	Ramané Tom pulisi.
 eng	jav	Tom's father is a police officer.	Ramanipun Tom punika pulisi.
 eng	jav	Tom's father is a police officer.	Yayahé Tom pulisi.
+eng	jav	Tom's native language isn't French, but English.	Basa ibuné Tom dudu basa Prancis, nanging basa Inggris.
 eng	jav	Tom told Mary he wasn't interested in discussing his problems with her.	Tom ngandhani Mary yèn dhèwèké ora seneng ngrembug perkarané karo dhèwèké.
 eng	jav	Tom understands what needs to be done.	Tom mudheng apa sing kudu dirampungaké.
 eng	jav	Tom wanted to go into politics.	Tom pingin mélu politik.
@@ -258,5 +264,6 @@ eng	jav	You'll be safe here.	Kowe aman ing kene
 eng	jav	You ought to have known that he was sick in bed.	Kowe kudu mangerti yen dhewekke lagi lara ning kasur
 eng	jav	You're better than me.	Kowé luwih apik katimbang aku.
 eng	jav	You're better than me.	Panjenengan langkung saé katimbang kula.
+eng	jav	You're not my wife.	Kowé dudu bojoku.
 eng	jav	You seemed not to know the truth.	Kowé kayané ora ngerti sing tenané piyé.
 eng	jav	You should try to be more polite.	Kowé jajal sopan sithik.

@@ -14,6 +14,8 @@ fin	fin	Anteeksi että olen myöhässä.	Anna anteeksi myöhästymiseni.
 fin	fin	Anteeksi, mutta voisitko kertoa minulle miten pääsen asemalle?	Anteeksi, voisitko neuvoa tien asemalle?
 fin	fin	Ärsyynnyin hänen asenteestaan.	Minua ärsytti hänen asenteensa.
 fin	fin	Auttakaa!	Auttakaa minua!
+fin	fin	Cuu ei paista ales.	Kuu ei loista.
+fin	fin	Cuu ei paista ales.	Kuu ei paista.
 fin	fin	Ehdottomasti kielletty.	Ankarasti kiellettyä.
 fin	fin	Eilen tapaamani mies oli herra Hill.	Mies, jonka tapasin eilen, oli herra Hill.
 fin	fin	Ei ole paljon järkeä siinä että minun on maksettava enemmän tuloveroa kuin sinä, vaikka sinä ansaitset enemmän rahaa kuin minä.	Eipä ole kovin järkevää, että minun pitää maksaa enemmän tuloveroa kuin sinun, vaikka sinä tienaat enemmän kuin minä.
@@ -200,9 +202,11 @@ fin	fin	Nukuin tänään iltapäivällä kello yhdestä kello neljään.	Nukuin 
 fin	fin	Nussi mutsias.	Nussi mutsiis.
 fin	fin	Nyt minun täytyy lähteä.	Minun täytyy mennä nyt.
 fin	fin	Nyt riitti!	Antaisit jo olla!
+fin	fin	Odotan hänen soittoaan.	Odotan häneltä soittoa.
 fin	fin	Olen hirveän lihava.	Olen hirvittävän lihava.
 fin	fin	Olen huolissani painostani.	Painoni huolettaa minua.
 fin	fin	Olen menossa leffaan.	Minä olen menossa leffaan.
+fin	fin	Olen rehellinen ihminen.	Minä olen rehellinen ihminen.
 fin	fin	Olen vilustunut.	Minulla on nuha.
 fin	fin	Olet hyvä ihmisten kanssa.	Osaat käsitellä ihmisiä hyvin.
 fin	fin	Olet hyvä ihmisten kanssa.	Tulet hyvin toimeen ihmisten kanssa.
@@ -222,6 +226,7 @@ fin	fin	Onkoha joulupukki oikeesti olemas?	Onkohan joulupukki oikeasti olemassa?
 fin	fin	Onko jotain sellaista, mitä haluat tehdä, kun sinusta tulee aikuinen?	Onks jotai sellast, mitä sä haluut tehä sit ku sä oot aikune?
 fin	fin	Onko kaikki okei?	Onko kaikki kunnossa?
 fin	fin	Onko se tieteellisesti todistettu?	Onks se tieteellisest todistettu?
+fin	fin	Onko se yhä elossa?	Onko se vielä elossa?
 fin	fin	Onko sinulla prätkää?	Onko sinulla moottoripyörää?
 fin	fin	Onko tässä lähistöllä kauppaa?	Onko tällä seudulla supermarkettia?
 fin	fin	Onko totta, että Tom seurustelee japanilaisen tytön kanssa?	Onks totta, et Tom seukkaa japanilaisen tytön kaa?
@@ -252,11 +257,15 @@ fin	fin	Se on minun CDni, eikö olekin?	Se on minun CD:ni, eikö olekin?
 fin	fin	Se on minun CD:ni.	Se on minun CD-levyni.
 fin	fin	Se on yllättävää.	Tuo on yllättävää.
 fin	fin	Sepä hauskaa kuulla.	Sepä hauska kuulla.
+fin	fin	Se tapahtui toukokuun ensimmäisenä	Se sattui vappuna.
 fin	fin	Seurustellaanko me?	Ollaanko me pari?
 fin	fin	Siellä on kylmä myös kesäisin.	Siellä on kylmä kesälläkin.
+fin	fin	Sinuna olisin tehnyt saman.	Jos olisin ollut sinä, niin olisin tehnyt saman.
+fin	fin	Sinuna olisin tehnyt saman.	Jos olisin ollut sinä, olisin tehnyt saman.
 fin	fin	Sinun ei tarvitse ottaa pois kenkiäsi.	Sinun ei tarvitse ottaa kenkiä pois jalasta.
 fin	fin	Sitä sattuu.	Sellaista sattuu.
 fin	fin	Sori, mun oli tarkoitus vaan vähän vitsailla.	Sori, mun oli tarkotus vaan heittää vähä läppää.
+fin	fin	Sulla ei riitä pokka.	Sulla ei oo munaa.
 fin	fin	Suomi oli osa Venäjää vuosina 1809-1917.	Suomi oli osa Venäjää vuodesta 1809 vuoteen 1917.
 fin	fin	Syksyllä lehdet kellastuvat.	Syksyllä lehdet muuttuvat keltaisiksi.
 fin	fin	Tämä ei ole heidän.	Tämä ei ole niiden.
@@ -293,6 +302,7 @@ fin	fin	Tom jäi eläkkeelle kun hän oli kuusikymmentäviisi.	Tom jäi eläkkee
 fin	fin	Tom kuulostaa olevan poissa tolaltaan.	Tom kuulostaa hermostuneelta.
 fin	fin	Tom lopetti tupakoinnin.	Tom lopetti tupakanpolton.
 fin	fin	Tom, mikä sinulla on hätänä?	Tom, mikä sinun ongelmasi oikein on?
+fin	fin	Tommi on pitempi ja vahvempi kuin Jussi.	Tommi on Jussia pitempi ja vahvempi.
 fin	fin	Tom nirsoilee ruoan kanssa.	Tom on ronkeli syöjä.
 fin	fin	Tom oli nukkumassa.	Tom oli unessa.
 fin	fin	Tom on fiksu.	Tom on hyvä päästään.
@@ -319,6 +329,7 @@ fin	fin	Tuo kakku maistuu hyvältä.	Tuo kakku on hyvää.
 fin	fin	Tuo puhelin minulle, Tom.	Anna puhelin minulle, Tom.
 fin	fin	Ulos täältä!	Ala jo painella!
 fin	fin	Unelmani on tulla lentäjäksi.	Unelmani on tulla pilotiksi.
+fin	fin	Unkarilaistomaatit ovat parhaita, mitä olen koskaan syönyt.	Unkarilaistomaatit ovat parhaita, mitä olen ikinä syönyt.
 fin	fin	Valitsit mainion ajankohdan vierailla Kashgarissa.	Valitsit mainion ajankohdan vierailla Kašgarissa.
 fin	fin	Veljelläni on Twitter-tili.	Veljeni on Twitterissä.
 fin	fin	Viime kerralla kun näin Tomin, hänellä oli parta.	Viimeksi kun näin Tomin, hänellä oli parta.
@@ -343,6 +354,7 @@ fin	fin	Voisitko neuvoa minulle miten pääsen asemalle?	Voisitko kertoa minulle
 fin	fin	Voisitko neuvoa minulle miten pääsen asemalle?	Voisitko neuvoa minut asemalle?
 fin	fin	Voisitko ottaa kuvan minusta?	Voisitko ottaa minusta kuvan?
 fin	fin	Voitko antaa sen minulle?	Voiksä antaa sen mulle?
+fin	fin	Voitko vahtia matkalaukkuani muutaman minuutin?	Voitteko vahtia matkalaukkuani muutaman minuutin?
 fin	fin	Voit tietysti tehdä mitä ikinä haluatkin.	Voit tietenkin tehdä ihan niin kuin haluat.
 fin	fin	Ymmärrätkö minua?	Ymmärrätkö sinä minua?
 fin	fin	Yritä vielä kerran.	Yritä uudestaan.

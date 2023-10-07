@@ -14,6 +14,7 @@ lat_Latn	ukr	Antisemitismus est socialismus stultorum.	Антисемитизм 
 lat_Latn	ukr	Apes nobis mel dant.	Бджоли дають нам мед.
 lat_Latn	ukr	Aqua bona est.	Вода добра.
 lat_Latn	ukr	Aqua est.	Це вода.
+lat_Latn	ukr	Aquam vult.	Вона хоче води.
 lat_Latn	ukr	Arbor ex fructu cognoscitur.	Дерево пізнається за плодом.
 lat_Latn	ukr	Arbor mala, māla mala.	Яблучко від яблуньки недалеко падає.
 lat_Latn	ukr	Arbor mala, māla mala.	Яка яблунька, такі й яблучка.
@@ -111,6 +112,8 @@ lat_Latn	ukr	Elizabetha matrem eius necavit.	Беті вбила його мат
 lat_Latn	ukr	Eme mihi testudinem, mamma, eme mihi testudinem!	Купи мені черепаху, мамо, купи мені черепаху!
 lat_Latn	ukr	epistolam ab amīcā accēpī.	Я отримала листа від подруги.
 lat_Latn	ukr	Equi animalia utilia sunt.	Коні — корисні тварини.
+lat_Latn	ukr	Esne Thomas Jackson ille?	Ви той самий Том Джексон?
+lat_Latn	ukr	Esne Thomas Jackson ille?	Ти той самий Том Джексон?
 lat_Latn	ukr	Esse oportet, ut vivas, non vivere, ut edas.	Треба їсти, щоб жити, а не жити, щоб їсти.
 lat_Latn	ukr	Est modus in rebus.	Все любить міру.
 lat_Latn	ukr	Estne hoc malum flavum?	Це яблуко жовте?
@@ -139,6 +142,8 @@ lat_Latn	ukr	Finis coronat opus.	Кінець вінчає діло.
 lat_Latn	ukr	Flores emit.	Він купив квіти.
 lat_Latn	ukr	Flos super mensam est.	На столі квітка.
 lat_Latn	ukr	Fluvius longus est.	Річка довга.
+lat_Latn	ukr	Frater meus es, Thoma.	Ви мій брат, Томе.
+lat_Latn	ukr	Frater meus es, Thoma.	Ти мій брат, Томе.
 lat_Latn	ukr	Frāter meus Tokii habitat.	Мій брат живе в Токіо.
 lat_Latn	ukr	Fuitne Carolus Marx communista?	Карл Маркс був комуністом?
 lat_Latn	ukr	Fuma cannabem cotidie.	Кури маріхуану кожного дня.
@@ -174,6 +179,8 @@ lat_Latn	ukr	Homo homini lupus est.	Людина людині вовк.
 lat_Latn	ukr	Homo ornat locum, non locus hominem.	Не місце красить людину, а людину місце.
 lat_Latn	ukr	Homo sum et nihil humani a me alienum puto.	Я людина, і ніщо людське мені не чуже.
 lat_Latn	ukr	Homo sum ; humani nihil a me alienum puto.	Я людина, і ніщо людське мені не чуже.
+lat_Latn	ukr	Ibi sunt dracones.	Там дракони.
+lat_Latn	ukr	Ibi sunt dracones.	Там є дракони.
 lat_Latn	ukr	Ille poeta est.	Він поет.
 lat_Latn	ukr	In Aegyptum nos abdemus.	Ми сховаємося в Єгипті.
 lat_Latn	ukr	In deversorio edunt.	Вони їдять у готелі.
@@ -206,6 +213,7 @@ lat_Latn	ukr	Liber facilis est.	Книжка проста.
 lat_Latn	ukr	Liber meus ubi est?	Де моя книга?
 lat_Latn	ukr	Liber parvus est.	Книга маленька.
 lat_Latn	ukr	Lingua est mundus in quo habitant homines.	Мова — це світ, в якому люди живуть.
+lat_Latn	ukr	Lingua mea vivet!	Моя мова буде жити!
 lat_Latn	ukr	Lingua mortua est.	Це мертва мова.
 lat_Latn	ukr	Luna splendet in caelo.	Місяць сяє на небі.
 lat_Latn	ukr	Lupus in fabula.	Про вовка промовка, а він і тут.
@@ -273,9 +281,11 @@ lat_Latn	ukr	Pāx vōbis.	Мир вам.
 lat_Latn	ukr	Pecunia mihi non est, sed opiniones sunt.	У мене немає грошей, але є мрії.
 lat_Latn	ukr	Pecunia non olet.	Гроші не пахнуть.
 lat_Latn	ukr	Per aspera ad astra.	Через терни - до зірок.
+lat_Latn	ukr	Piper an sal?	Перець чи сіль?
 lat_Latn	ukr	Piscēs in aquā vīvunt.	Риба живе в воді.
 lat_Latn	ukr	Poeta est.	Він поет.
 lat_Latn	ukr	Post decem dies Romam ibo.	За десять днів поїду до Риму.
+lat_Latn	ukr	Primi sumus.	Ми перші.
 lat_Latn	ukr	Primus mensis anni est Ianuarius.	Перший місяць року — січень.
 lat_Latn	ukr	Q.E.D.	Що й слід було довести.
 lat_Latn	ukr	Qualis pater, talis filius.	Який батько - такий син.

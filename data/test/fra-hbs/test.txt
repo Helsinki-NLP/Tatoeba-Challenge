@@ -149,6 +149,7 @@ fra	hrv	Il semble qu'il croie que ce qu'il dit est juste.	Izgleda da vjeruje u i
 fra	hrv	Il se plaignit à elle à propos de la nourriture.	Žalio joj se za hranu.
 fra	hrv	Ils ne craignent pas les attaques.	Ne boje se napada.
 fra	hrv	Ils vont travailler tous les jours.	Idu na posao svaki dan.
+fra	hrv	Il y a beaucoup de choses que je ne sais pas et ne saurai jamais.	Puno je stvari koje ne znam i nikada neću znati.
 fra	hrv	Il y a beaucoup de parcs dans notre ville.	Mnogo je parkova u našem gradu.
 fra	hrv	J'abandonne. Quoi que je fasse, tu sembles ne jamais être content.	Odustajem. Što god da radim, nikad ne izgledaš zadovoljno.
 fra	hrv	J'adore lire des livres.	Obožavam čitati knjige.
@@ -171,6 +172,7 @@ fra	hrv	Je ne parle pas du tout anglais, encore moins espagnol.	Ne znam engleski
 fra	hrv	Je ne peux pas attendre toute la journée.	Ne mogu čekati cijeli dan.
 fra	hrv	Je ne sais pas.	Ne znam.
 fra	hrv	Je ne sais pas parler anglais, et encore moins espagnol.	Ne znam engleski, još manje španjolski.
+fra	hrv	Je ne sais pas quel jour on est aujourd'hui.	Ne znam koji je danas dan.
 fra	hrv	Je ne suis jamais allé en Amérique.	Nikad nisam bio u Americi.
 fra	hrv	Je sais que je ne te mérite pas.	Znam da te ne zaslužujem.
 fra	hrv	Je sais que vous êtes tous des lâches.	Znam da ste svi vi kukavice.
@@ -352,6 +354,11 @@ fra	srp_Cyrl	Il va bientôt finir.	Он ће ускоро завршити.
 fra	srp_Cyrl	Il vaut mieux tard que jamais.	Боље икад него никад.
 fra	srp_Cyrl	Il y a beaucoup d'invités dans cette pièce.	Много је гостију у тој соби.
 fra	srp_Cyrl	Il y a une inimitié notable entre eux.	Забележено је непријатељство између њих.
+fra	srp_Cyrl	J'ai voté contre.	Гласала сам против.
+fra	srp_Cyrl	J'ai voté contre.	Гласао сам против.
+fra	srp_Cyrl	J'ai voté pour.	Гласала сам за.
+fra	srp_Cyrl	J'ai voté pour.	Гласао сам за.
+fra	srp_Cyrl	Je déteste ma voisine.	Мрзим своју комшиницу.
 fra	srp_Cyrl	Je l'ai amené au restaurant le plus cher du campus.	Одвео сам га у најскупљи ресторан у кампусу.
 fra	srp_Cyrl	Je m'appelle Jack.	Зовем се Џек.
 fra	srp_Cyrl	Je me lève tôt.	Ја устајем рано.
@@ -421,6 +428,7 @@ fra	srp_Cyrl	Son nom est Tomoyuki Ogura.	Зове се Томојуки Огур
 fra	srp_Cyrl	T'as volé mon vélo, et maintenant je vais te casser la gueule.	Украо си ми бицикл и сад ћу да ти сломим фацу.
 fra	srp_Cyrl	Tes chaussures sont ici.	Твоје ципеле су овде.
 fra	srp_Cyrl	T'inquiète.	Не брини.
+fra	srp_Cyrl	Tom continue de faire ça.	Том наставља да то ради.
 fra	srp_Cyrl	Toutes les lampes ne sont pas merveilleuses.	Није свака лампа чаробна.
 fra	srp_Cyrl	Trois fois mesure et une fois coupe.	Трипут мери, једном сеци.
 fra	srp_Cyrl	Tu es bon.	Ти си добар.

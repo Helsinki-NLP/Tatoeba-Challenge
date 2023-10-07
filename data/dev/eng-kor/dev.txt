@@ -1,6 +1,13 @@
 eng	kor	10 take away 2 is 8.	10에서 2를 빼면 8을 얻는다.
 eng	kor	45 times 2 is 90.	45 곱하기 2는 90이다.
 eng	kor	5 times 20 is 100.	5 곱하기 20은 100이다.
+eng	kor	Almost everyone expected Tom to win.	거의 모두가 톰이 이길 것이라고 예상했다.
+eng	kor	And the good news is that today the economy is growing again. Wages, incomes, home values and retirement accounts are all rising again. Poverty is falling again.	다음으로 좋은 소식은 오늘 경제가 재성장한다는 것입니다. 임금, 소득, 집값, 퇴직금이 모두 다시 오르고 있습니다. 빈곤도 다시 줄어들고 있습니다.
+eng	kor	Australia is a great place for sightseeing.	오스트레일리아는 최고의 관광지이다.
+eng	kor	Be careful not to make that same mistake again.	똑같은 실수를 반복하지 않도록 조심해.
+eng	kor	Can this water be drunk?	이거 마실 수 있는 물이야?
+eng	kor	Everyone needs to know how to swim.	누구나 수영할 줄 알아야 한다.
+eng	kor	Fuck the police.	짭새들 같으니.
 eng	kor_Hang	About how many hours does it take by car?	차로 몇 시간이나 걸려요?
 eng	kor_Hang	A cute girl caught Tom's eye.	귀여운 여자애가 톰의 눈길을 사로잡았어.
 eng	kor_Hang	Aimee is listening to music now.	에이미는 지금 음악을 듣고 있어요.
@@ -221,8 +228,8 @@ eng	kor_Hang	I'd like something to drink.	난 뭔가 마시고 싶다.
 eng	kor_Hang	I'd like to go.	가고 싶어.
 eng	kor_Hang	I don't believe Tom is a murderer.	난 톰이 살인자라고 믿지 않아.
 eng	kor_Hang	I don't drink that without sugar.	저는 설탕이 없어서 안 마셔요.
-eng	kor_Hang	I don't know.	나는 몰라요.
 eng	kor_Hang	I don't know.	모르겠어요.
+eng	kor_Hang	I don't know.	나는 몰라요.
 eng	kor_Hang	I don't know at all.	난 전혀 모르겠어.
 eng	kor_Hang	I don't know either.	나도 몰라.
 eng	kor_Hang	I don't know how to translate this sentence into Russian.	난 이 문장을 러시아어로 어떻게 번역해야 할지 몰라.
@@ -285,15 +292,15 @@ eng	kor_Hang	I kept my promise to him.	나는 그와의 약속을 지켰다.
 eng	kor_Hang	I know I can count on all of you.	나는 내가 너희 모두를 믿을 수 있다는 것을 안다.
 eng	kor_Hang	I left the car in the garage.	자동차를 차고에 놓어두었다.
 eng	kor_Hang	I like eating fruit for breakfast.	나는 아침으로 과일을 먹는 것을 좋아합니다.
-eng	kor_Hang	I like Korean cuisine.	전 한국 요리가 좋아요.
 eng	kor_Hang	I like Korean cuisine.	전 한국 요리를 좋아해요.
+eng	kor_Hang	I like Korean cuisine.	전 한국 요리가 좋아요.
 eng	kor_Hang	I like reading.	독서를 좋아합니다.
 eng	kor_Hang	I like that person.	나는 그 사람을 좋아한다.
 eng	kor_Hang	I like the Occitan language.	내가 사랑 오크어 언어입니다.
 eng	kor_Hang	I like this book better than that one.	난 이 책을 저 책보다 좋아한다.
 eng	kor_Hang	I like your cat, but she hates me.	나는 네 고양이가 좋은데, 네 고양이는 나를 싫어하네.
-eng	kor_Hang	I'll be right back.	빨리 갔다 올게.
 eng	kor_Hang	I'll be right back.	금방 올께요.
+eng	kor_Hang	I'll be right back.	빨리 갔다 올게.
 eng	kor_Hang	I'll call you back soon.	내가 금방 다시 전화해 줄게.
 eng	kor_Hang	I'll find them.	내가 찾아 볼게.
 eng	kor_Hang	I'll fix a drink.	난 마실꺼리를 준비할께.
@@ -307,8 +314,8 @@ eng	kor_Hang	I lost my ticket. What should I do?	티켓을 잃어버렸어요. �
 eng	kor_Hang	I lost my wallet.	지갑을 잃어버렸어.
 eng	kor_Hang	I love lasagna.	저는 라자냐를 좋아해요.
 eng	kor_Hang	I love my home.	난 내 집이 좋아.
-eng	kor_Hang	I love you - I love you too.	사랑해 - 나도.
 eng	kor_Hang	I love you - I love you too.	사랑해요 - 나도
+eng	kor_Hang	I love you - I love you too.	사랑해 - 나도.
 eng	kor_Hang	I'm a black belt in karate.	난 공수도 1단이다.
 eng	kor_Hang	I'm a Christian, but I don't eat pork.	저는 기독교인이지만, 돼지 고기는 먹지 않아요.
 eng	kor_Hang	Images are the books of the illiterate.	그림은 문맹자의 책이다.
@@ -334,8 +341,8 @@ eng	kor_Hang	I'm seeing a trend here.	나는 여기서 유행(경향)을 본다.
 eng	kor_Hang	I'm sixteen years old.	나는 열여섯 살입니다.
 eng	kor_Hang	I'm so glad that you're here.	와줘서 고마워.
 eng	kor_Hang	I'm so happy! I want to hug the entire world!	너무 행복해! 온 세상을 안고 싶을 정도야!
-eng	kor_Hang	I'm sorry, but I don't understand.	죄송하지만, 무슨 말인지 모르겠어요.
 eng	kor_Hang	I'm sorry, but I don't understand.	미안하지만, 모르겠어.
+eng	kor_Hang	I'm sorry, but I don't understand.	죄송하지만, 무슨 말인지 모르겠어요.
 eng	kor_Hang	I'm sorry Mother.	죄송합니다, 어머니.
 eng	kor_Hang	I'm still in love with Mary.	나는 아직 메리를 사랑해.
 eng	kor_Hang	I'm still optimistic about the project.	그 프로젝트에 대해 난 아직 긍정적인 입장이야.
@@ -370,8 +377,8 @@ eng	kor_Hang	Is it true that you're a high school teacher?	네가 고등학교 �
 eng	kor_Hang	Isn't she a little young?	그 여자애 좀 어리지 않아?
 eng	kor_Hang	Is that all you want to say?	그게 네가 하고 싶은 말 전부니?
 eng	kor_Hang	Is that real blood?	그거 진짜 피야?
-eng	kor_Hang	Is the bank open?	은행 문 열었어요?
 eng	kor_Hang	Is the bank open?	은행 해요?
+eng	kor_Hang	Is the bank open?	은행 문 열었어요?
 eng	kor_Hang	Is there a bulk discount?	대용량 할인 있어요?
 eng	kor_Hang	Is there any proof?	증거가 있습니까?
 eng	kor_Hang	Is there anything you want us to send you from home?	우리가 집에서 너에게 보내줬으면 하는 거 없니?
@@ -385,8 +392,8 @@ eng	kor_Hang	It'd be good if it wouldn't rain tomorrow.	내일 비가 안오면 
 eng	kor_Hang	It doesn't matter.	상관없어요.
 eng	kor_Hang	I texted Tom back.	난 톰한테 답장했어.
 eng	kor_Hang	It has stopped raining.	비가 그쳤다.
-eng	kor_Hang	I think everyone did really well.	다들 정말 잘 한 것 같아.
 eng	kor_Hang	I think everyone did really well.	다들 진짜로 잘 한 것 같아.
+eng	kor_Hang	I think everyone did really well.	다들 정말 잘 한 것 같아.
 eng	kor_Hang	I think he is strange.	그 사람은 이상하다고 생각합니다.
 eng	kor_Hang	I think it is his intention.	그것이 그의 목적이라고 생각해요.
 eng	kor_Hang	I think it's not a problem in this case.	이 경우에는 문제가 없다고 본다.
@@ -654,9 +661,9 @@ eng	kor_Hang	Tatoeba is not a social network.	타토에바는 SNS가 아닙니�
 eng	kor_Hang	Thank you for your prompt reply.	빠른 답변 감사합니다.
 eng	kor_Hang	Thank you very much!	대단히 감사합니다!
 eng	kor_Hang	Thank you very much for being so willing to help me being so busy with so many things.	여러 모로 바쁘신데도 흔쾌히 도와 주셔서 감사드립니다.
-eng	kor_Hang	That made me curious.	저게 날 궁금하게 하네.
-eng	kor_Hang	That made me curious.	저게 궁금하게 하네.
 eng	kor_Hang	That made me curious.	저게 궁금하게 만드네.
+eng	kor_Hang	That made me curious.	저게 궁금하게 하네.
+eng	kor_Hang	That made me curious.	저게 날 궁금하게 하네.
 eng	kor_Hang	That's a good idea!	그것은 좋은 생각이야!
 eng	kor_Hang	That's all I'm doing.	그게 내가 하고 있는 것의 전부야.
 eng	kor_Hang	That's just how cunning North Korea (and China) is.	그만큼 북한이 (중국도) 교활한 것이다.
@@ -736,9 +743,9 @@ eng	kor_Hang	The soldiers went back to the town without any hope.	군인들은 �
 eng	kor_Hang	The sooner you do it, the better it is.	더 빨리할수록 좋다.
 eng	kor_Hang	The text was incomprehensible.	그 글은 이해할 수 없었다.
 eng	kor_Hang	The tickets are 20 yen each.	티켓은 각각 20엔 입니다.
-eng	kor_Hang	The weather today is more beautiful than yesterday's.	오늘 날씨가 어제보다 더 좋다.
-eng	kor_Hang	The weather today is more beautiful than yesterday's.	오늘의 날씨가 어제보다 더 아름다워.
 eng	kor_Hang	The weather today is more beautiful than yesterday's.	오늘의 날씨가 어제보다 더 아름다워요.
+eng	kor_Hang	The weather today is more beautiful than yesterday's.	오늘의 날씨가 어제보다 더 아름다워.
+eng	kor_Hang	The weather today is more beautiful than yesterday's.	오늘 날씨가 어제보다 더 좋다.
 eng	kor_Hang	The woman sleeps in the bedroom.	여자가 침실에서 잠을 잔다.
 eng	kor_Hang	The writers are in that house.	글쓴이들은 저 집에 있다.
 eng	kor_Hang	They gave a big party for me.	그들은 나를 위해 큰 파티를 열어 줬어.
@@ -832,8 +839,8 @@ eng	kor_Hang	Tom isn't skinny.	톰은 마르지 않았다.
 eng	kor_Hang	Tom is obviously wrong.	톰은 분명히 틀렸어.
 eng	kor_Hang	Tom is our next-door neighbor.	톰은 우리의 옆집 이웃이다.
 eng	kor_Hang	Tom is passionate, isn't he?	톰은 열정적인 애지?
-eng	kor_Hang	Tom is quite motivated.	톰은 꽤 의욕 있어.
 eng	kor_Hang	Tom is quite motivated.	톰은 꽤 동기부여가 되어 있어.
+eng	kor_Hang	Tom is quite motivated.	톰은 꽤 의욕 있어.
 eng	kor_Hang	Tom is really decisive.	톰은 정말 결단력이 있어.
 eng	kor_Hang	Tom is shouting something.	톰은 뭔가를 쏘고 있어.
 eng	kor_Hang	Tom is spending more and more time in Boston.	톰은 점점 많은 시간을 보스턴에서 보내고 있어.
@@ -866,8 +873,8 @@ eng	kor_Hang	Tom thinks Mary is too old for him.	톰은 메리가 자신한테 �
 eng	kor_Hang	Tom told Mary what John had told him.	톰은 존이 말한 것을 메리한테 말했다.
 eng	kor_Hang	Tom told me where I could buy pomegranates.	톰이 어디서 석류를 살 수 있는지 말해 주었다.
 eng	kor_Hang	Tom wanted to know where Mary had been.	탐은 메리가 어디에 있었는지 알고 싶었다.
-eng	kor_Hang	Tom wants to stay home tonight.	톰은 오늘 밤 집에 있고 싶어한다.
 eng	kor_Hang	Tom wants to stay home tonight.	톰은 오늘 밤 집에 머물고 싶어한다.
+eng	kor_Hang	Tom wants to stay home tonight.	톰은 오늘 밤 집에 있고 싶어한다.
 eng	kor_Hang	Tom was afraid to be here.	톰이 여기에 있길 두려워 했어.
 eng	kor_Hang	Tom was daydreaming.	톰은 몽상에 잠겨 있었다.
 eng	kor_Hang	Tom washes his hands more than thirty times a day.	톰은 하루에 삼십 번 이상 손을 씻어.
@@ -897,8 +904,8 @@ eng	kor_Hang	We cannot sleep due to the noise.	소음때문에, 우리는 잠들
 eng	kor_Hang	We can't give up.	우린 포기할 수 없어.
 eng	kor_Hang	We'd been warned.	우린 경고 받았었어.
 eng	kor_Hang	We'd like you to sing the song.	우리는 네가 그 노래를 불렀으면 좋겠다.
-eng	kor_Hang	We don't lie.	우린 거짓말 안해.
 eng	kor_Hang	We don't lie.	우리는 거짓말을 하지 않아요.
+eng	kor_Hang	We don't lie.	우린 거짓말 안해.
 eng	kor_Hang	We got lost while driving.	우리는 운전하다 길을 잃었어요.
 eng	kor_Hang	We had fun with Tom.	우리는 톰과 즐거운 시간을 가졌다.
 eng	kor_Hang	We had to keep it secret.	우리는 그것을 비밀에 부쳐야 했다.
@@ -961,8 +968,8 @@ eng	kor_Hang	Where can I make a phone call?	어디서 전화를 걸 수 있죠?
 eng	kor_Hang	Where did you go without telling me?	나한테 말없이 어디 갔었어?
 eng	kor_Hang	Where did you hide them?	그걸 어디에 숨겼니?
 eng	kor_Hang	Where did you put my suitcase?	내 (여행용) 가방 어디에 두었니?
-eng	kor_Hang	Where do you want to go?	너 어디 가고 싶니?
 eng	kor_Hang	Where do you want to go?	어디에 가고 싶으세요?
+eng	kor_Hang	Where do you want to go?	너 어디 가고 싶니?
 eng	kor_Hang	Where in the world have you been?	세상에 너 어디에 있었니?
 eng	kor_Hang	Where is the American embassy?	미국 대사관이 어디입니까?
 eng	kor_Hang	Where is the toilet?	화장실이 어디죠?
@@ -1009,8 +1016,8 @@ eng	kor_Hang	You have to memorize this sentence.	문장을 외워야 합니다.
 eng	kor_Hang	You have to take the bull by the horns.	황소를 잡을 때는 뿔 부분을 잡아야 한다.
 eng	kor_Hang	You know it doesn't matter.	상관없는 거 알잖아.
 eng	kor_Hang	You'll be busy tomorrow afternoon.	내일 낮에는 네가 바쁠 것이다.
-eng	kor_Hang	You look pale. Are you ill?	창백해 보이네. 너 아파?
 eng	kor_Hang	You look pale. Are you ill?	창백해 보이네요. 어디 아프세요?
+eng	kor_Hang	You look pale. Are you ill?	창백해 보이네. 너 아파?
 eng	kor_Hang	You may get it free of charge.	무료로 받을 수도 있어.
 eng	kor_Hang	You need good equipment to climb that mountain.	저 산에 오르려면 좋은 장비가 있어야 돼.
 eng	kor_Hang	You only think about food.	너는 음식 생각 밖에 안 한다.
@@ -1033,9 +1040,90 @@ eng	kor_Hang	You've got to fish where the fish are.	물고기가 있는 곳에�
 eng	kor_Hang	You will know soon enough.	곧 충분히 알게 될거야.
 eng	kor_Hang	You worked hard.	고생하셨어요.
 eng	kor_Hang	Zoos are like prisons for animals.	동물원은 동물에게 감옥 같다.
+eng	kor	Have you tested it yet?	한번 시도해봤어?
+eng	kor	He didn't turn off the engine.	그는 엔진을 끄지 않았다.
+eng	kor	His wife first started showing symptoms of covid-19	그의 아내는 처음으로 코로나19 증상을 보이기 시작했다.
+eng	kor	How many days are you planning to stay?	며칠 동안 있을 예정이에요?
+eng	kor	How's this?	이거 괜찮아?
+eng	kor	How's your headache?	두통은 좀 어때?
+eng	kor	How was the man you met yesterday?	어제 선 본 남자는 어땠어?
+eng	kor	I am Orthodox.	나는 정교회 신자입니다.
+eng	kor	I could use some words of encouragement. I’ve been feeling really down lately.	나는 격려의 말을 할 수 있었다. 나는 최근에 기분이 정말 안 좋았다.
+eng	kor	I didn't want to get hurt.	나는 다치고 싶지 않았다.
+eng	kor	I'd like to mail this package to Australia.	이 소포를 오스트레일리아에 보내고 싶습니다.
+eng	kor	I don't think this is a crime.	나는 이것이 범죄라고 생각하지 않는다.
+eng	kor	I got bit by a mosquito.	모기가 날 물었다.
+eng	kor	I have some time, but not much.	난 시간이 좀 있는데, 그렇게 많지는 않아.
+eng	kor	I hope my kids are safe.	우리 아이들이 안전했으면 해.
+eng	kor	I'm not nice even though I'm rich; I'm nice because I'm rich.	부자인데 착한 게 아니라, 부자라서 착한 것이다.
+eng	kor	I'm not the one who picks the fruit.	나는 과일을 집어든 사람이 아니다.
+eng	kor	I'm sure Tom won't be here tonight.	오늘밤 톰이 여기 없을 거라고 확신한다.
+eng	kor	I must speak to you later about Tom.	나중에 톰에 대해 말해줄 것이 있다.
+eng	kor	I need to go down to my hometown.	고향에 내려가야 한다.
+eng	kor	I owe it to my parents that I'm so healthy.	내가 이렇게 건강한 것은 우리 부모님 덕이다.
+eng	kor	I regret leaving.	나는 떠난 것을 후회한다.
+eng	kor	I saw my mother hiding cake.	나는 어머니가 케이크를 숨기는 것을 보았다.
+eng	kor	Is it that important to you?	그게 너한테 중요해?
+eng	kor	Is there a late fee?	지각비가 있나요?
+eng	kor	I think this word is mistranslated.	이 단어는 잘못 번역된 것 같다.
+eng	kor	I think Tom and I have missed something.	톰과 내가 무언가를 깜빡한 것 같다.
+eng	kor	It'll become much warmer in March.	3월에는 훨씬 따뜻해질 것이다.
+eng	kor	It’s been a while since we’ve seen a movie together.	오랜만에 우리가 영화를 같이 봤군요.
+eng	kor	It's coming back to me now.	이제 다시 기억이 나네요.
+eng	kor	It's far better than it used to be.	예전보다는 훨씬 나아졌다.
+eng	kor	It will be ready by six this evening.	저녁 여섯 시까지는 준비될 거에요.
+eng	kor	It will not be long before the sun rises.	해가 뜨기까지는 그리 오래 걸리지 않을 것이다.
+eng	kor	I've had enough of your anti-science poverty.	나는 당신의 반과학 빈곤을 충분히 겪었습니다.
+eng	kor	I've moved out already. Now I live alone.	이미 이사했습니다. 이제 자신은 혼자 살고 있습니다.
+eng	kor	I want to be a monk in an ancient monastery.	나는 고대 수도원의 수도사가 되고 싶습니다.
+eng	kor	I was really thrilled to have met you.	널 만나서 그저 기쁘다.
+eng	kor	I wonder what they were thinking of at that moment.	그 사람은 그 때 무슨 생각을 했을까?
+eng	kor	I wouldn't say that I don't want to talk with my friend - it's just that I'm really shy.	친구랑 이야기를 하고 싶지 않다기보다는 그냥 정말 부끄러워요.
 eng	kor_Latn	Muiriel is 20 now.	Muiriel은 지금 20살입니다.
 eng	kor_Latn	Tom began to sing "Happy Birthday."	Tom이 "Happy Birthday" 노래를 부르기 시작했다.
+eng	kor	Look me up next time you're in Boston.	다음에 보스턴에 오면 나랑 만나자.
+eng	kor	Making a plan and actually following through are two separate problems.	계획을 세우는 것과 그것을 실행하는 것은 별개의 문제다.
+eng	kor	My sister asked my father to buy her a new bicycle.	우리 누나는 아버지에게 새 자전거를 사 달라고 부탁했다.
+eng	kor	My sister asked my father to buy her a new bicycle.	내 여동생은 아버지에게 새 자전거를 사 달라고 부탁했다.
+eng	kor	Nobody told me about that.	아무도 나한테 그 얘기를 해주지 않았어.
+eng	kor	No one knows about this place but you and me.	너와 나 말고는 아무도 이곳에 대해 몰라.
 eng	kor	One, three, and five are odd numbers.	1, 3 그리고 5는 홀수이다.
+eng	kor	She's raising a small black dog.	그녀는 조그만 검은 개를 기른다.
+eng	kor	She stayed back at the hotel.	그녀는 호텔에 머물렀다.
+eng	kor	She writes a letter.	그녀는 편지를 쓴다.
+eng	kor	So he looks good feeling.	그래서 기분이 좋아 보이는구나.
+eng	kor	Superman can bend iron.	슈퍼맨은 철을 구부릴 수 있다.
+eng	kor	That person died of lung cancer a week ago.	저 사람은 일주일 전에 폐암으로 죽었다.
+eng	kor	The children had ice cream at the shop.	아이들은 가게에서 아이스크림을 먹었어요.
+eng	kor	The computer was very useful.	컴퓨터는 정말 유용했다.
 eng	kor	The game starts 2:30.	게임은 2:30에 시작해.
+eng	kor	The king lives in the castle.	왕은 성에 삽니다.
+eng	kor	These curtains are ugly.	이 커튼은 흉하게 생겼다.
+eng	kor	They came home late.	그들은 집에 늦게 왔다.
+eng	kor	They live in this village.	그들은 이 마을에 산다.
+eng	kor	They're still there?	걔 아직 거기 있어?
+eng	kor	This isn't a crime, is it?	이건 범죄가 아닌 거지, 그치?
+eng	kor	This is our biggest challenge.	이것은 우리에게 가장 큰 도전이다.
+eng	kor	This sentence isn't useful for language learners.	이 문장은 언어 학습자에게 유용하지 않다.
+eng	kor	This sentence isn't useful for language learners.	이 문장은 언어 학습자에게 별로 도움이 되지 않는다.
+eng	kor	Todays weather is way better than yesterdays.	오늘은 어제보다 날씨가 훨씬 좋네요.
+eng	kor	Tom finally gathered up his courage and asked Mary out on a date.	톰은 마침내 용기를 내어 메리에게 데이트 신청을 했다.
+eng	kor	Tom Jackson easily won the election.	톰 잭슨은 손쉽게 선거에서 이겼다.
 eng	kor	Two, four, six, etc. are even numbers.	2, 4 그리고 6은 짝수이다.
+eng	kor	We don't talk anymore.	우리는 더 이상 대화하지 않는다.
+eng	kor	We're going to meet in front of the museum at 2:30.	우리는 2시 30분에 박물관 앞에서 만나기로 했다.
 eng	kor	What?	네?
+eng	kor	What are you doing on Sunday?	일요일에 뭐 할거야?
+eng	kor	What are you eating for dinner tonight?	오늘 밤 저녁으로 뭘 먹을 거야?
+eng	kor	What do you remember about last night?	어젯밤에 대해 기억나는 게 뭐야?
+eng	kor	What floor is the computer on?	컴퓨터는 몇 층에 있어요?
+eng	kor	What should we have for dinner tonight?	오늘 저녁으로 뭘 먹지?
+eng	kor	Why are you saying such things?	왜 그런 말을 해?
+eng	kor	Why didn't you stop by my place today?	오늘 내 집에 들러보지 않을래?
+eng	kor	Would you please just go away?	그냥 사라져 주실래요?
+eng	kor	Wow, it's totally white.	완전히 하얗네.
+eng	kor	You may be right, but I have a different view.	네가 맞을 지도 모르는데, 난 다른 의견을 갖고 있어.
+eng	kor	You must wear a helmet for the safety of your head.	머리 보호를 위해서 헬멧을 써야 한다.
+eng	kor	You really want to go to Boston with Tom?	정말로 톰과 함께 보스턴에 가고 싶어?
+eng	kor	You think you can do this?(You have the courage to do this?)	그럴 용기는 있어?
+eng	kor	Ziri charged his phone.	지리는 전화를 충전했습니다.

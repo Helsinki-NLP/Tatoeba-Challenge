@@ -42,6 +42,8 @@ hun	ukr	A nagy és a mutató ujja közé csippentette a lepkét.	Він підх
 hun	ukr	A nyelv gyakran jobban vág a kardnál.	Не бiйся ножа, бiйся балаканини.
 hun	ukr	Apám szeret repülővel utazni.	Мій батько полюбляє подорожувати літаком.
 hun	ukr	A papám szereti a mamámat.	Мій тато кохає мою маму.
+hun	ukr	A tej friss.	Молоко свіже.
+hun	ukr	A templom ott van.	Церква там.
 hun	ukr	Át kell nézned ezt a programot.	Ти повинен передивитися цю програму.
 hun	ukr	A tó nagyon mély.	Озеро дуже глибоке.
 hun	ukr	Attól félek, holnap esni fog.	Боюся, завтра може піти дощ.
@@ -66,6 +68,7 @@ hun	ukr	Azt hiszem, hogy holnap havazni fog.	Я думаю, завтра під�
 hun	ukr	Azt hiszem, Tom tudta.	Я думаю, Том знав.
 hun	ukr	Azt hiszem, valamit eltitkol előlünk.	Я думаю він щось приховує від нас.
 hun	ukr	Azt hittem, Tomi zenész.	Я думав, що Том - музикант.
+hun	ukr	Azt mondta, tizenkilenc éves.	Вона сказала, що їй дев'ятнадцять років.
 hun	ukr	Azt nehezen lehetett elhinni.	У це було важко повірити.
 hun	ukr	Az új gyógyszer megmentette az életét.	Нові ліки спасли його життя.
 hun	ukr	Az új koronavírus erősen fertőző.	Новий коронавірус дуже заразний.
@@ -155,6 +158,7 @@ hun	ukr	Felhívhatlak holnap?	Можна зателефонувати тобі �
 hun	ukr	Fiatal vagyok.	Я молода.
 hun	ukr	Fiatal vagyok.	Я молодий.
 hun	ukr	Fizettem.	Я заплатила.
+hun	ukr	Friss a tej.	Молоко свіже.
 hun	ukr	Genovából jön.	Він приїжджає з Генуї.
 hun	ukr	Getter Jaanival akarok meghalni.	Я хочу вмерти разом із Ґеттер Яані.
 hun	ukr	Gyalog megyek az iskolába.	Я ходжу до школи пішки.
@@ -240,6 +244,7 @@ hun	ukr	Közeledünk egymáshoz.	Ми наближаємось один до о�
 hun	ukr	Közeledünk egymáshoz.	Ми стаємо ближчі один до одного.
 hun	ukr	Közeledünk egymáshoz.	Ми стаємо ближчі одна до одної.
 hun	ukr	Közvetlen járattal repülünk az USA-ba.	У нас прямий рейс до США?
+hun	ukr	Kukurikú!	Кукуріку!
 hun	ukr	Különös számodra, hogy én is ember vagyok?	Тобі дивно, що навіть я - людина?
 hun	ukr	Lassan járj!	Поспішай повільно.
 hun	ukr	Lehet, hogy havazni fog.	Може піти сніг.
@@ -288,6 +293,7 @@ hun	ukr	Miért jöttél Japánba?	Чому ти приїхав до Японії
 hun	ukr	Miért jöttél Japánba?	Чому ти приїхала в Японію?
 hun	ukr	Miért nem hiszel nekem?	Чому ти мені не віриш?
 hun	ukr	Mi ez?	Що це?
+hun	ukr	Mi!? Komolyan!?	Що... Серйозно?
 hun	ukr	Mikor ketten csinálják ugyanazt, az már nem ugyanaz.	Коли двоє роблять те саме, це не те саме.
 hun	ukr	Milyen filmet vetítenek nyolckor?	Який фільм показують о восьмій?
 hun	ukr	Milyen idős a legnagyobb fiad?	Скільки років твоєму найстаршому сину?
@@ -337,7 +343,9 @@ hun	ukr	Nem szívesen megyek ki, ha esik.	Я не люблю виходити н
 hun	ukr	Nem található egyik szótárban sem.	Це є в будь-якому словнику.
 hun	ukr	Nem találok szavakat.	В мене нема слів.
 hun	ukr	Nem tudok neked mindent elmondani.	Я не можу тобі розповісти всього.
+hun	ukr	Nem tudom a címedet.	Я не знаю твоєї адреси.
 hun	ukr	Nem tudom, hogy hol van.	Я не знаю, де це.
+hun	ukr	Nem tudom, mikor hazudik.	Я не знаю, коли він бреше.
 hun	ukr	Nem tudom.	Я не знаю.
 hun	ukr	Nem tudtunk jegyet vásárolni, így nem mentünk el a hangversenyre.	Ми не змогли купити квитки, тому ми не пішли на концерт.
 hun	ukr	Nem vagyok orvos.	Я не лікар.
@@ -358,6 +366,7 @@ hun	ukr	Ő magyarul beszél, ő meg németül.	Він говорить угор�
 hun	ukr	Ő nem az én esetem.	Це не мій типаж.
 hun	ukr	Öregebb a kocsim nálam.	Моя машина старша від мене.
 hun	ukr	Öregebb az autóm, mint én magam.	Моя машина старша від мене.
+hun	ukr	Öregember vagyok.	Я старик.
 hun	ukr	Öt dollárt fizettem neki.	Я заплатив йому п'ять доларів.
 hun	ukr	Otthon vacsiztok?	Ви вечерятимете вдома?
 hun	ukr	Otthon vacsoráztok?	Ви вечерятимете вдома?
@@ -420,8 +429,10 @@ hun	ukr	Több a felhő ma, mint tegnap.	Нині більше хмар ніж в
 hun	ukr	Több a felhő ma, mint tegnap.	Сьогодні більше хмар, ніж учора.
 hun	ukr	Több mint négyezer nyelv van a világon.	У світі налічується більше ніж 4000 мов.
 hun	ukr	Tom a legjobb játékosunk.	Том - наш найкращій гравець.
+hun	ukr	Tom antihős.	Том антигерой.
 hun	ukr	Tom ásított.	Фома позіхнув.
 hun	ukr	Tom az én hősöm.	Том мій герой.
+hun	ukr	Tom egy cetcápával úszott.	Том плавав з китовою акулою.
 hun	ukr	Tom eltűnt.	Фома зник.
 hun	ukr	Tom és Frank jó barátok.	Том та Франк - добрі друзі.
 hun	ukr	Tom és Mary örökbefogadott három gyereket.	Том та Мері усиновили трьох дітей.
@@ -464,6 +475,8 @@ hun	ukr	Van családod?	Маєш родину?
 hun	ukr	Van családod?	У тебе є родина?
 hun	ukr	Van egy almám.	Маю яблуко.
 hun	ukr	Van egy könyvem.	У мене є книжка.
+hun	ukr	Van egy vízilovunk.	У нас є бегемот.
+hun	ukr	Van egy vízilovunk.	У нас є гіпопотам.
 hun	ukr	Várok.	Я очікую.
 hun	ukr	Vegetáriánus vagyok.	Я вегетаріанець.
 hun	ukr	Végeztünk?	Ми закінчили?

@@ -63,6 +63,7 @@ nds	nld	Dat is echt en heel leckere Supp, nech?	Het is echt heel lekkere soep, n
 nds	nld	Dat is en Disch.	Dat is een tafel.
 nds	nld	Dat is en langen Weg von hier na de School.	Het is een lange weg van hier naar de school.
 nds	nld	Dat is fein Weder vondaag.	Het is mooi weer vandaag.
+nds	nld	Dat is för di!	Het is voor jou!
 nds	nld	Dat is frisch vondaag.	Het is fris vandaag.
 nds	nld	Dat is hier dat hele Johr dör koold.	Het is hier koud het hele jaar door.
 nds	nld	Dat is in Japan nich de Fall.	Dat is niet het geval in Japan.
@@ -221,6 +222,7 @@ nds	nld	Dor lööp en Rött över de Straat.	Er stak een rat de weg over.
 nds	nld	Dor nich för!	Niets te danken!
 nds	nld	Dor sünd veel Böker in mien Kamer.	Er zijn veel boeken in mijn kamer.
 nds	nld	Do wat du wullt.	Doe wat ge wilt.
+nds	nld	Driggst du giern Nogellack?	Draag je graag nagellak?
 nds	nld	Drinkst du Kaffe?	Drink je koffie?
 nds	nld	Dröff ik dat Telefoon bruken?	Mag ik je telefoon gebruiken?
 nds	nld	Dröff ik en Bild von di maken?	Mag ik een foto van je maken?
@@ -448,6 +450,7 @@ nds	nld	Ik dans geern.	Ik dans graag.
 nds	nld	Ik deed de Döör achter mi dicht.	Ik deed de deur achter me dicht.
 nds	nld	Ik deed em nagahn.	Ik volgde hem.
 nds	nld	Ik denk, dat se mehrstendeels na Huus gahn sünd.	Ik denk dat de meesten van hen naar huis zijn gegaan.
+nds	nld	Ik denk nich, dat Tom un Ria scheedt sünd.	Ik denk niet dat Tom en Mary gescheiden zijn.
 nds	nld	Ik dröff in mien Dagbook schrieven, wat ik will.	Ik mag in mijn dagboek schrijven wat ik wil.
 nds	nld	Ik eet geern Ananas.	Ik eet graag ananas.
 nds	nld	Ik eet geern kolen Kartuffelsalaat in ’n Sommer.	Ik eet graag koude aardappelsla in de zomer.
@@ -475,6 +478,7 @@ nds	nld	Ik heff dat fröher al maal höört.	Ik heb dat vroeger al eens gehoord.
 nds	nld	Ik heff den Breev dree Kehr nee schreven.	Ik heb de brief drie keer herschreven.
 nds	nld	Ik heff dit Book för mi sülvs köfft, nich för mien Froo.	Ik heb dit boek voor mijzelf gekocht, niet voor mijn vrouw.
 nds	nld	Ik heff dor keen Probleem mit.	Ik heb daar geen probleem mee.
+nds	nld	Ik heff düssen Satz ümschreven.	Ik heb deze zin herschreven.
 nds	nld	Ik heff em al ewig nich mehr sehn.	Ik heb hem al eeuwen niet gezien.
 nds	nld	Ik heff em dat utdüüdt.	Ik heb hem dat uitgelegd.
 nds	nld	Ik heff em dat wenige Geld geven, dat ik bi mi harr.	Ik heb hem het weinige geld gegeven dat ik bij mij had.
@@ -586,6 +590,7 @@ nds	nld	Ik weet, dat Johan ehrlich is.	Ik weet dat Johan eerlijk is.
 nds	nld	Ik weet dat nich.	Ik weet dat niet.
 nds	nld	Ik weet dat nich.	Ik weet het niet.
 nds	nld	Ik weet mien Adress noch nich, ik gah en Tied bi mien Fründ wahnen.	Ik weet mijn adres nog niet, ik ga een tijdje bij mijn vriend wonen.
+nds	nld	Ik weet nich, wannehr ik weer tohuus bün.	Ik weet niet wanneer ik weer thuis ben.
 nds	nld	Ik weet nich, wo dat is.	Ik weet niet waar het is.
 nds	nld	Ik weet nix.	Ik weet niets.
 nds	nld	Ik weet noch, dat ik den Film sehn heff.	Ik weet nog dat ik de film gezien heb.
@@ -611,6 +616,9 @@ nds	nld	Irland liggt in Westeuropa.	Ierland ligt in West-Europa.
 nds	nld	Is dat dien Glas oder dat von dien Süster?	Is dit jouw glas of dat van je zus?
 nds	nld	Is dat Groningsch en Spraak of en Dialekt?	Is het Gronings een taal of een dialect?
 nds	nld	Is dat ne’e Modell op ’n Markt to kriegen?	Is dit nieuwe model op de markt verkrijgbaar?
+nds	nld	Is dat Tom sien Hund?	Is dat de hond van Tom?
+nds	nld	Is dat Tom sien Hund?	Is dat Toms hond?
+nds	nld	Is dat Tom sien Hund?	Is dat Tom zijn hond?
 nds	nld	Is de Butenminister al ankamen?	Is de minister van buitenlandse zaken al aangekomen?
 nds	nld	Is de Himmel blau? Ja.	Is de hemel blauw? Ja.
 nds	nld	Is dien Moder tohuus?	Is je moeder thuis?
@@ -845,6 +853,7 @@ nds	nld	Stöört di dat, wenn ik de Döör apen do?	Stoort het u, als ik de deur
 nds	nld	Stööv dat Reck af.	Stof het rek af.
 nds	nld	Stopp dat Baby nich in ’n Sack!	Stop de baby niet in de zak!
 nds	nld	Sünd dat dien Fotos?	Zijn dat jouw foto's?
+nds	nld	Sünd dat Tom sien Beuker?	Zijn dat Toms boeken?
 nds	nld	Sünd diene Öllern nu tohuus?	Zijn je ouders nu thuis?
 nds	nld	Sünd dor noog Stöhl för all?	Zijn er genoeg stoelen voor iedereen?
 nds	nld	Sundheit is mehr weert as Gold.	Gezondheid is meer waard dan goud.
@@ -864,7 +873,9 @@ nds	nld	Tom hett twee Kinner.	Tom heeft twee kinderen.
 nds	nld	Tom is in’n Woold.	Tom is in het bos.
 nds	nld	Tom is Muslim.	Tom is moslim.
 nds	nld	Tom is na Boston komen, üm Kunst to studeren.	Tom is naar Boston gekomen om kunst te studeren.
+nds	nld	Tom is över en Wuttel stolpert.	Tom is over een wortel gestruikeld.
 nds	nld	Tom is Student.	Tom is een student.
+nds	nld	Tom seggt, dat jedereen, den he kennt, dat deit.	Tom zegt dat iedereen die hij kent dat doet.
 nds	nld	Tom sien Broer Tim is en Töverer, de bang vör Kaninken is.	Toms broer Tim is een tovenaar die bang is voor konijnen.
 nds	nld	Tom un Ria hebbt in’n Oktober heirodt.	Tom en Maria zijn in oktober getrouwd.
 nds	nld	Tom un Ria kennt sik al.	Tom en Maria kennen elkaar al.
@@ -934,6 +945,8 @@ nds	nld	Wat mööt, dat mööt.	Wat moet dat moet.
 nds	nld	Wat schall ik doon?	Wat moet ik doen?
 nds	nld	Wees bedankt för dat Geschenk.	Dank je voor het cadeau.
 nds	nld	Wees nich bang.	Wees niet bang.
+nds	nld	Weet he, dat ik hier bün?	Weet hij dat ik hier ben?
+nds	nld	Weet se, dat ik hier bün?	Weet ze dat ik hier ben?
 nds	nld	Weetst du ’keen he is?	Weet u wie hij is?
 nds	nld	Weetst du wannehr de Laden slütt?	Weet je om hoe laat de winkel sluit?
 nds	nld	Weetst du, wat Lucy Japaansch snackt?	Weet gij of Lucy Japans spreekt?
@@ -998,6 +1011,8 @@ nds	nld	Worüm mutt ik dat doon?	Waarom moet ik dat doen?
 nds	nld	Worüm nich Esperanto?	Waarom niet Esperanto?
 nds	nld	Worüm nich?	Waarom niet?
 nds	nld	Wo snackt ji von?	Waar heb je het over?
+nds	nld	Woveel Eilannen hebbt de Philippinen?	Hoeveel eilanden hebben de Filipijnen?
+nds	nld	Woveel Eilannen hett Nederland?	Hoeveel eilanden heeft Nederland?
 nds	nld	Woveel köst dat Beer?	Hoeveel kost het bier?
 nds	nld	Woveel köst en halv Kilo?	Hoeveel kost een halve kilogram?
 nds	nld	Woveel Liter Water sünd dor in ’t Swemmbad?	Hoeveel liter water is er in dat zwembad?

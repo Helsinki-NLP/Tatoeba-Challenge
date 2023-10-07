@@ -18,6 +18,7 @@ ron	rus	Aceste cărți sunt noi.	Это новые книги.
 ron	rus	Acest material pentru ambalare asigură termoizolarea.	Этот упаковочный материал обеспечивает теплоизоляцию.
 ron	rus	Acest motan nu e de vânzare.	Этот кот не продаётся.
 ron	rus	Acest site este inutil.	Этот сайт бесполезен.
+ron	rus	Acest trandafir este foarte frumos.	Эта роза очень красивая.
 ron	rus	Acest tren opreşte în fiecare staţie.	Этот поезд останавливается на каждой станции.
 ron	rus	A cui e cartea?	Чья книга?
 ron	rus	Acum că ești adult nu trebuie să te porți ca un copil.	Теперь, когда ты вырос, ты не должен вести себя как ребёнок.
@@ -30,6 +31,8 @@ ron	rus	A fost bun?	Это было хорошо?
 ron	rus	A fost un șoarece.	Это была мышка.
 ron	rus	Ah, împiedicatule!	Эх ты, раззява.
 ron	rus	Ai avut destul timp.	У тебя было полно времени.
+ron	rus	Ai avut șansa să o faci.	У тебя была возможность это сделать.
+ron	rus	Ai avut șansa s-o faci.	У тебя была возможность это сделать.
 ron	rus	Aici nu este așa de frig ca în Alaska.	Здесь не так холодно, как на Аляске.
 ron	rus	Aici și acum.	Здесь и сейчас.
 ron	rus	Ai cui sunt studentii?	Чьи студенты?
@@ -58,6 +61,7 @@ ron	rus	Am citit că preşedintele Braziliei este o femeie. Ea se numeşte Dilma
 ron	rus	Am citit toată cartea într-o seară.	Я прочитал всю книгу за один вечер.
 ron	rus	Am diaree.	У меня понос.
 ron	rus	Am dormit doar două ore.	Я спал не больше двух часов.
+ron	rus	Am două cărţi.	У меня есть две книги.
 ron	rus	Am două cărți.	У меня есть две книги.
 ron	rus	Am dreptul să-mi sun avocatul.	У меня есть право позвонить адвокату.
 ron	rus	Am fost ocupat.	Я был занят.
@@ -85,6 +89,7 @@ ron	rus	Apa este rece.	Вода холодная.
 ron	rus	Aparatul lui foto este de trei ori mai scump decât al meu.	Его камера в три раза дороже моей.
 ron	rus	Aprilie este a patra lună a anului.	Апрель — четвёртый месяц в году.
 ron	rus	Arată ceasul tău ora exactă?	У тебя часы правильно идут?
+ron	rus	Are frunze pe el.	На нем есть листья.
 ron	rus	Are părul scurt.	У неё короткие волосы.
 ron	rus	Articolul exprimă opinia personală a autorului.	Статья выражает личное мнение автора.
 ron	rus	Asa-i la tara.	Это деревня.
@@ -103,6 +108,11 @@ ron	rus	Aștept trenul.	Я жду поезда.
 ron	rus	Astfel de oameni mă calcă pe nervi.	Такой человек действует мне на нервы.
 ron	rus	Aș vrea să merg la grădina zoologică.	Я бы хотел пойти в зоопарк.
 ron	rus	Atacantul a marcat un gol în prelungirile primei reprize.	Нападающий забил гол в раздевалку.
+ron	rus	Ați avut șansa să o faceți.	У вас была возможность это сделать.
+ron	rus	Ați avut șansa s-o faceți, dar n-ați profitat de asta.	У вас была возможность это сделать, но вы ей не воспользовались.
+ron	rus	Ați avut șansa s-o faceți.	У вас была возможность это сделать.
+ron	rus	Ați făcut-o cu adevărat?	Вы действительно это сделали?
+ron	rus	Ați făcut-o într-adevăr?	Вы действительно это сделали?
 ron	rus	Ați fost vreodată în Hawaii?	Вы когда-нибудь бывали на Гавайях?
 ron	rus	Ați mâncat deja plăcinta?	Вы уже поели пирог?
 ron	rus	Ați putea să îmi faceți o rezervare?	Вы бы могли сделать для меня резервирование?
@@ -122,10 +132,12 @@ ron	rus	Avionul decolează la 17:30.	Вылет самолёта в 17:30.
 ron	rus	Azi e sâmbătă.	Сегодня суббота.
 ron	rus	Baftă la examen!	Удачи тебе на экзамене!
 ron	rus	Băiatul merge la școală.	Мальчик ходит в школу.
+ron	rus	Băieții se gândesc mult la fete.	Мальчики много думают о девочках.
 ron	rus	Bărbatul era beat criță.	Мужчина был вдрызг пьян.
 ron	rus	Bărbatul se îmbătase ca un porc.	Мужчина был пьян как свинья.
 ron	rus	Beau lapte.	Я пью молоко.
 ron	rus	Beton!	Класс!
+ron	rus	Biletul costă douăzeci de dolari.	Билет стоит двадцать долларов.
 ron	rus	Bine ai venit!	Добро пожаловать!
 ron	rus	Bine ați venit!	Добро пожаловать!
 ron	rus	Bine, Tom, dar asta e o josnicie!	Знаешь, Том, а ведь это подлость!
@@ -202,12 +214,14 @@ ron	rus	Ce vrei să iei?	Чего бы ты хотел?
 ron	rus	Ce vrei să muncești?	Какую работу ты хочешь выполнять?
 ron	rus	Ce vreme е azi?	Какая сегодня погода?
 ron	rus	Ce?	Что?
+ron	rus	Chiar acum l-am văzut pe Tom la fereastră.	Я только что видел в окне Тома.
 ron	rus	Cine este acasă?	Кто дома?
 ron	rus	Cine seamănă vânt va culege furtună.	Посадишь ветер - пожнёшь бурю.
 ron	rus	Circumstantele nu mi-au permis sa va ajut.	Обстоятельства не позволили мне вам помочь.
 ron	rus	Citesc cărți.	Я читаю книги.
 ron	rus	Clădirea s-a surpat acum trei ani.	Здание развалилось три года назад.
 ron	rus	Clădirea se poate prăbuși în orice moment.	Здание в любой момент может упасть.
+ron	rus	Clientul vrea să cumpere câinele meu.	Клиент хочет купить мою собаку.
 ron	rus	Coca-Cola conține cafeină?	Кока-кола содержит кофеин?
 ron	rus	Comparată cu a ta, maşina mea este mică.	По сравнению с вашей, моя машина маленькая.
 ron	rus	Copiii mei îmi sunt lucrul cel mai de preț.	Мои дети — моё сокровище.
@@ -323,6 +337,7 @@ ron	rus	Este cu câțiva ani mai tânăr ca mine.	Он на несколько �
 ron	rus	Este degradant pentru ei.	Это унизительно для неё.
 ron	rus	Este deja ora nouă.	Уже девять часов.
 ron	rus	Este foarte bolnavă.	Она очень больна.
+ron	rus	Este foarte înțelept.	Он очень мудрый.
 ron	rus	Este frumoasă.	Она красивая.
 ron	rus	Este important să asculți cu atenție.	Важно внимательно слушать.
 ron	rus	Este interzis să umbli gol prin hotel.	Нельзя ходить по гостинице голым.
@@ -374,6 +389,7 @@ ron	rus	Fă cum zice el.	Делай, как он говорит.
 ron	rus	Fără el n-aș fi putut face asta.	Без него я бы не смог этого сделать.
 ron	rus	Fata a spart fereastra.	Девочка разбила окно.
 ron	rus	Fata mi-a zâmbit.	Девочка улыбнулась мне.
+ron	rus	Fetele se gândesc mult la băieți.	Девочки много думают о мальчиках.
 ron	rus	Fie că îți place sau nu, trebuie să faci asta.	Нравится ли тебе или нет, ты должен это сделать.
 ron	rus	Fratele meu lucrează la o stație de benzină.	Мой брат работает на заправочной станции.
 ron	rus	Fratele meu mai mare știe să conducă mașina.	Мой старший брат умеет шоферить.
@@ -404,6 +420,7 @@ ron	rus	Îmi cer scuze!	Извините.
 ron	rus	Îmi pare bine de cunoștință!	Очень приятно.
 ron	rus	Îmi pare rău!	Сожалею!
 ron	rus	Îmi plac câinii foarte mult.	Я очень люблю собак.
+ron	rus	Îmi place bucătăria grecească.	Мне нравится греческая кухня.
 ron	rus	Îmi place matematica.	Мне нравится математика.
 ron	rus	Îmi place mult țara ta.	Мне очень нравится твоя страна.
 ron	rus	Îmi place să citesc cărți.	Я люблю читать книги.
@@ -442,6 +459,7 @@ ron	rus	Învățăm să citim și să scriem.	Мы учимся читать и 
 ron	rus	Învață!	Учись.
 ron	rus	În viitorul apropiat, călătoriile în spațiu nu vor mai fi doar un vis.	В близком будущем космическое путешествие больше не будет всего лишь мечтой.
 ron	rus	Își dorește mult să reușească.	Он очень хочет преуспеть.
+ron	rus	Isus nu era creștin.	Иисус не был христианином.
 ron	rus	Îți place să dansezi?	Вам нравится танцевать?
 ron	rus	Iti spun pentru a nu stiu cita oara: nu!	Я тебе это говорю в который раз: Нет!
 ron	rus	Iubesc golful.	Я люблю гольф.
@@ -460,6 +478,7 @@ ron	rus	Locuiesc în Moldova.	Я живу в Молдове.
 ron	rus	Locuiesc în oraș.	Я живу в городе.
 ron	rus	Lui Ann îi place ciocolata foarte mult.	Энн очень любит шоколад.
 ron	rus	Lui Tom nu îi place vara. Zice că e prea cald.	Тому не нравится лето. Говорит, что слишком жарко.
+ron	rus	Lumea este o națiune.	Мир - это нация.
 ron	rus	Luna este minunată toamna.	Луна осенью прекрасна.
 ron	rus	Mă asculţi?	Ты слушаешь меня?
 ron	rus	Mă bucur!	Я рад!
@@ -778,5 +797,6 @@ ron	rus	Vreau un cadou pentru soția mea.	Я хочу подарок для св
 ron	rus	Vreau zăpadă.	Я хочу снега.
 ron	rus	Vrei o ieșire în seara asta?	Хочешь пойти куда-нибудь сегодня вечером?
 ron	rus	Vrei să mergi undeva în seara asta?	Хочешь пойти куда-нибудь сегодня вечером?
+ron	rus	Yanni nu știe cum să descrie asta.	Янни не знает, как это описать.
 ron	rus	Zăpada este albă.	Снег бел.
 ron	rus	Zăpada este albă.	Снег белый.

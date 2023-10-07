@@ -2,6 +2,7 @@ ido_Latn	nld	Al hotelo Hilton, me pregas.	Naar het Hiltonhotel alstublieft.
 ido_Latn	nld	Anke me.	Ik ook.
 ido_Latn	nld	Bona nokto, Tatoeba.	Goedenacht, Tatoeba.
 ido_Latn	nld	Bona voyajo!	Fijne reis!
+ido_Latn	nld	Dementino!	Gekkin!
 ido_Latn	nld	Elefanti manjas herbo.	Olifanten eten gras.
 ido_Latn	nld	El esas la spozino di Alain.	Zij is de vrouw van Alain.
 ido_Latn	nld	Eli esas kantistini.	Zij zijn zangeressen.
@@ -17,6 +18,7 @@ ido_Latn	nld	Ica hundi esas granda.	Deze honden zijn groot.
 ido_Latn	nld	Il eniris la chambro.	Hij kwam de kamer binnen.
 ido_Latn	nld	Il esas nia vicino.	Hij is onze buurman.
 ido_Latn	nld	Il esis patologial mentiemo.	Hij was een pathologische leugenaar.
+ido_Latn	nld	Il nulatempe dormas.	Hij slaapt nooit.
 ido_Latn	nld	Il parolas dek lingui.	Hij spreekt 10 talen.
 ido_Latn	nld	Ilu decidis cesar fumar.	Hij besliste te stoppen met roken.
 ido_Latn	nld	Ilu havas verda okuli.	Hij heeft groene ogen.
@@ -38,6 +40,7 @@ ido_Latn	nld	La chefurbo di Grekia esas Athina.	De hoofdstad van Griekenland is 
 ido_Latn	nld	La fakti esas fakti.	Feiten zijn feiten.
 ido_Latn	nld	La Hispaniani havas du surnomi.	Spanjaarden hebben twee achternamen.
 ido_Latn	nld	La maxim rapida veturo esas la aviono.	Het snelste voertuig is het vliegtuig.
+ido_Latn	nld	La mondumo es naciono.	De wereld is een natie.
 ido_Latn	nld	La rozo apartenas a Teodoro.	De roos is van Theodore.
 ido_Latn	nld	La Yidisha ne esas la Germaniana.	Jiddisch is niet Duits.
 ido_Latn	nld	Lia nepoto rezidas en Nederlando.	Hun kleinkind woont in Nederland.
@@ -52,7 +55,10 @@ ido_Latn	nld	Mea kolego havas kolego.	Mijn collega heeft een collega.
 ido_Latn	nld	Mea nomo es John.	Mijn naam is John.
 ido_Latn	nld	Me esas ateisto.	Ik ben atheïst.
 ido_Latn	nld	Me esas heroo.	Ik ben een held.
+ido_Latn	nld	Me esas me.	Ik ben ik.
+ido_Latn	nld	Me esas stupida.	Ik ben dom.
 ido_Latn	nld	Me filiino ankore esas puero.	Mijn dochter is nog een kind.
+ido_Latn	nld	Me habitas en Rio de Janeiro.	Ik woon in Rio de Janeiro.
 ido_Latn	nld	Me havas fratuli.	Ik heb broers.
 ido_Latn	nld	Me havas multa vesti en mea vest-armoro.	Ik heb veel kleren in mijn kleerkast.
 ido_Latn	nld	Me lojas en Yokohama.	Ik woon in Yokohama.
@@ -60,6 +66,7 @@ ido_Latn	nld	Me ne savas ka me povas facar lo, ma me probos.	Ik weet niet of ik 
 ido_Latn	nld	Me nomesas Alex.	Ik heet Alex.
 ido_Latn	nld	Me nomesas Maria.	Ik heet Maria.
 ido_Latn	nld	Me perdis mea bilieto.	Ik ben mijn kaartje kwijt.
+ido_Latn	nld	Me rezidas en Rio de Janeiro.	Ik woon in Rio de Janeiro.
 ido_Latn	nld	Me sequis il.	Ik volgde hem.
 ido_Latn	nld	Me uzas Twitter.	Ik gebruik Twitter.
 ido_Latn	nld	Me uzis ol.	Ik heb het gebruikt.
@@ -71,9 +78,16 @@ ido_Latn	nld	Nia domo esas vua domo.	Ons huis is jouw huis.
 ido_Latn	nld	Ni amas tu, Tom.	We houden van je, Tom.
 ido_Latn	nld	Ni esas racionoza.	We zijn rationeel.
 ido_Latn	nld	Ni esas tro febla.	Wij zijn te zwak.
+ido_Latn	nld	Ni havas nur unu horo.	We hebben maar een uur.
+ido_Latn	nld	Ni ne volas milito.	We willen geen oorlog.
 ido_Latn	nld	Ni volas pacoza solvo.	We willen een vreedzame oplossing.
 ido_Latn	nld	Nulu povas trublar vera amikeso.	Niemand kan echte vriendschap verstoren.
+ido_Latn	nld	Omna landi es falsa.	Alle landen zijn nep.
 ido_Latn	nld	Omna voyi duktas a Roma.	Alle wegen leiden naar Rome.
+ido_Latn	nld	Pro quo tu odias libereso?	Waarom haat je vrijheid?
+ido_Latn	nld	Pro quo vi odias libereso?	Waarom haat u vrijheid?
+ido_Latn	nld	Pro quo vu odias libereso?	Waarom haat u vrijheid?
+ido_Latn	nld	Quala bela matino!	Wat een mooie morgen!
 ido_Latn	nld	Qua linguo esas parolata en Usa?	Welke taal spreken ze in de VS?
 ido_Latn	nld	Qua linguon on parolas en Usa?	Welke taal spreken ze in de VS?
 ido_Latn	nld	Qua linguon on parol en Usa?	Welke taal spreken ze in de VS?
@@ -85,17 +99,22 @@ ido_Latn	nld	Quo esas porko?	Wat is een varken?
 ido_Latn	nld	Quo es haiko?	Wat is een haiku?
 ido_Latn	nld	Quo es libereso?	Wat is vrijheid?
 ido_Latn	nld	Quo es pandemio?	Wat is een pandemie?
+ido_Latn	nld	Quon vu facis ibe?	Wat deed u daar?
 ido_Latn	nld	Roma esas la chefurbo dil mondo.	Rome is de hoofdstad van de wereld.
 ido_Latn	nld	Saluto!	Hallo!
 ido_Latn	nld	Sami esas patologial mentiemo.	Sami is een pathologische leugenaar.
 ido_Latn	nld	Sequez me.	Volg me.
 ido_Latn	nld	Se tu ne prizas to, me cesos.	Als dat je niet bevalt, hou ik ermee op.
 ido_Latn	nld	Ta es nia vicino.	Dat is onze buurman.
+ido_Latn	nld	To esas interesanta projeto.	Dat is een interessant plan.
+ido_Latn	nld	To esas mea proprietajo.	Dit is mijn eigendom.
 ido_Latn	nld	Tom e Maria asertis vidir NIFO.	Tom en Maria beweerden dat ze een ufo hadden gezien.
+ido_Latn	nld	Tom e Maria havas la sama sangogrupo.	Tom en Marietje hebben dezelfde bloedgroep.
 ido_Latn	nld	Tom esas tradukisto.	Tom is vertaler.
 ido_Latn	nld	Tom esas tro olda.	Tom is te oud.
 ido_Latn	nld	Tom esas viro e me esas muliero.	Tom is een man en ik ben een vrouw.
 ido_Latn	nld	Tom es malada.	Tom is ziek.
+ido_Latn	nld	Tom es tre stabila geniozo.	Tom is een heel stabiel genie.
 ido_Latn	nld	Tom es viro e me es muliero.	Tom is een man en ik ben een vrouw.
 ido_Latn	nld	Tom habitas en altra lando.	Tom woont in een ander land.
 ido_Latn	nld	Tom havas tri hundi.	Tom heeft drie honden.
@@ -105,6 +124,7 @@ ido_Latn	nld	Tom ne esas programisto.	Tom is geen programmeur.
 ido_Latn	nld	Tom pardonos ni.	Tom zal het ons vergeven.
 ido_Latn	nld	To ne esas exakte quon me havis en la mento.	Dat is niet precies wat ik in gedachten had.
 ido_Latn	nld	To ne esas exakte quon me pensabis.	Dat is niet precies wat ik in gedachten had.
+ido_Latn	nld	To ne es sango.	Het is geen bloed.
 ido_Latn	nld	Tu esas anjelo!	Je bent een engel!
 ido_Latn	nld	Ube esas la libro?	Waar is het boek?
 ido_Latn	nld	Via magio ne efikos hike.	Je magie zal hier niet werken.

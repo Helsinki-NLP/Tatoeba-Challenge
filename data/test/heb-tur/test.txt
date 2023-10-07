@@ -45,6 +45,10 @@ heb	tur	איך נמצא זאת?	Onu nasıl bulacağız?
 heb	tur	איך עשית את זה?	Onu nasıl yaptın?
 heb	tur	איך עשית זאת?	Onu nasıl yaptın?
 heb	tur	אין בכך די?	O yeterli değil mi?
+heb	tur	איני יכולה לשתות אלכוהול.	Alkol içemem.
+heb	tur	איני פחדן.	Ben korkak değilim.
+heb	tur	איני פחדנית.	Ben korkak değilim.
+heb	tur	איני רוצה לראותך עוד.	Seni bir daha görmek istemiyorum.
 heb	tur	אין לו אויבים כלשהם.	Onun kesinlikle düşmanları yoktur.
 heb	tur	אין לו בכלל אויבים.	Onun kesinlikle düşmanları yoktur.
 heb	tur	אין לי אחות קטנה.	Hiç küçük kız kardeşim yok.
@@ -54,11 +58,6 @@ heb	tur	אין לי די כסף כדי לקנות את התרופה הדרושה
 heb	tur	אין לי מה להוסיף בעניין זה.	Söyleyecek daha fazla şeyim yok.
 heb	tur	אין לי מקלדת טורקית.	Benim Türkçe klavyem yok.
 heb	tur	אין לי משרד.	Bir ofisim yok.
-heb	tur	אין תשובה נכונה.	Doğru cevap yok.
-heb	tur	איני יכולה לשתות אלכוהול.	Alkol içemem.
-heb	tur	איני פחדן.	Ben korkak değilim.
-heb	tur	איני פחדנית.	Ben korkak değilim.
-heb	tur	איני רוצה לראותך עוד.	Seni bir daha görmek istemiyorum.
 heb	tur	אינני האויב שלך.	Ben senin düşmanın değilim.
 heb	tur	אינני יכולה ללכת מהר יותר.	Daha hızlı gidemem.
 heb	tur	אינני יכול לגמור לקרוא ספר עבה כזה בשבוע.	Bu kalın kitabı okumayı bir haftada bitiremem.
@@ -67,6 +66,7 @@ heb	tur	אינני מורה.	Ben bir öğretmen değilim.
 heb	tur	אינני נהנה ממסעות.	Ben seyahat etmekten zevk almıyorum.
 heb	tur	אינני פחדן.	Ben korkak değilim.
 heb	tur	אינני פחדנית.	Ben korkak değilim.
+heb	tur	אין תשובה נכונה.	Doğru cevap yok.
 heb	tur	איפה אני יכול למצוא משחת שיניים?	Nereden diş macunu bulabilirim?
 heb	tur	איפה אתה יושב כרגע?	Sen şimdi nerede oturuyorsun?
 heb	tur	איפה אתה יושב עכשיו?	Sen şimdi nerede oturuyorsun?
@@ -110,9 +110,9 @@ heb	tur	אל תגידי דברים רעים על אחרים.	Diğerleri hakkınd
 heb	tur	אל תהיה ילד.	Çocuk olma.
 heb	tur	אל תהיה תינוק.	Çocuk olma.
 heb	tur	אל תהרוג אותי.	Beni öldürme.
+heb	tur	אל תלכי לשם כעת.	Şimdi oraya gitme.
 heb	tur	אל תלך לשם. מרי מתקלחת.	Oraya gitme. Mary duş alıyor.
 heb	tur	אל תלך לשם עכשיו.	Şimdi oraya gitme.
-heb	tur	אל תלכי לשם כעת.	Şimdi oraya gitme.
 heb	tur	אל תפחד.	Korkma.
 heb	tur	אל תפחדי.	Korkma.
 heb	tur	אל תשכח!	Unutma!
@@ -301,12 +301,12 @@ heb	tur	אני צוחקת עליך.	Sana gülüyorum.
 heb	tur	אני צריך אספירין.	Bir aspirine ihtiyacım var.
 heb	tur	אני צריך את הדרכון שלך, וכן שלוש תמונות.	Pasaportuna ve üç fotoğrafına ihtiyacım var.
 heb	tur	אני צריך את הפספורט שלך ושלוש תמונות.	Pasaportuna ve üç fotoğrafına ihtiyacım var.
-heb	tur	אני צריך להירגע.	Benim dinlenmem gerekiyor.
-heb	tur	אני צריך קצת שינה.	Biraz uykuya ihtiyacım var.
 heb	tur	אני צריכה אספירין.	Bir aspirine ihtiyacım var.
 heb	tur	אני צריכה את דרכונך ושלוש תמונות שלך.	Pasaportuna ve üç fotoğrafına ihtiyacım var.
 heb	tur	אני צריכה את הדרכון שלך ושלוש תמונות שלך.	Pasaportuna ve üç fotoğrafına ihtiyacım var.
 heb	tur	אני צריכה קצת שינה.	Biraz uykuya ihtiyacım var.
+heb	tur	אני צריך להירגע.	Benim dinlenmem gerekiyor.
+heb	tur	אני צריך קצת שינה.	Biraz uykuya ihtiyacım var.
 heb	tur	אני קונה אוטו חדש.	Yeni bir araba alıyorum.
 heb	tur	אני קונה מכונית חדשה.	Yeni bir araba alıyorum.
 heb	tur	אני קונה רכב חדש.	Yeni bir araba alıyorum.
@@ -430,15 +430,15 @@ heb	tur	את כתבת את הספר הזה?	Bu kitabı sen mi yazdın?
 heb	tur	את לא יכולה לעשות את זה כאן.	Onu burada yapamazsın.
 heb	tur	את לא מעשנת?	Sigara içmiyor musun?
 heb	tur	את לומדת אנגלית כל יום?	Her gün İngilizce çalışır mısın?
+heb	tur	אתמול בשעה הזאת היינו בקולנוע.	Dün bu saatte sinemadaydık.
 heb	tur	אתם חופשיים לצאת החוצה.	Dışarı çıkmak için özgürsünüz.
 heb	tur	אתם יודעים הכול עליי.	Benim hakkımda her şeyi biliyorsunuz.
 heb	tur	אתם יודעים מי אני.	Kim olduğumu biliyorsunuz.
+heb	tur	את מכירה אותו כבר הרבה זמן?	Uzun süredir onu tanıyor musun?
+heb	tur	את מכירה אותו כבר זמן רב?	Uzun süredir onu tanıyor musun?
 heb	tur	אתם לא צעירים.	Genç değilsiniz.
 heb	tur	אתם משונים.	Siz garipsiniz.
 heb	tur	אתם רשאים לצאת.	Dışarı çıkmak için özgürsünüz.
-heb	tur	אתמול בשעה הזאת היינו בקולנוע.	Dün bu saatte sinemadaydık.
-heb	tur	את מכירה אותו כבר הרבה זמן?	Uzun süredir onu tanıyor musun?
-heb	tur	את מכירה אותו כבר זמן רב?	Uzun süredir onu tanıyor musun?
 heb	tur	את מתקרבת.	Yaklaşıyorsun.
 heb	tur	את נראית נהדר.	Harika görünüyorsun.
 heb	tur	את עדיין בבית?	Hâlâ evde misin?
@@ -546,8 +546,8 @@ heb	tur	האם טום נמצא שם?	Tom orada mı?
 heb	tur	האם טום שם?	Tom orada mı?
 heb	tur	האם יש חתול על השולחן?	Masanın üzerinde bir kedi var mı?
 heb	tur	האם נחיה כאן או שם?	Burada mı yoksa orada mı yaşayacağız?
-heb	tur	האם עמדתי למות?	Ben ölmek üzere miydim?
 heb	tur	האמנתי לך.	Size inandım.
+heb	tur	האם עמדתי למות?	Ben ölmek üzere miydim?
 heb	tur	האנטישמיות היא הסוציאליזם של הטפשים.	Antisemitizm aptalların sosyalizmidir.
 heb	tur	האנשים האלה אוכלים כלבים.	Bu insanlar köpek yiyor.
 heb	tur	הבה נדבר עם טום.	Tom ile konuşalım.
@@ -794,8 +794,8 @@ heb	tur	היפנים החריבו את פרל הרבור.	Japonlar Pearl Harbor'
 heb	tur	היפנים השמידו את פרל הרבור.	Japonlar Pearl Harbor'ı tahrip etti.
 heb	tur	הכבשים אוכלות את העשב בשדה.	Tarladaki koyunlar ot yiyor.
 heb	tur	הכלב מת.	Köpek öldü.
-heb	tur	הכנּו את הארוחות שלנו.	Yemeklerimizi hazırladık.
 heb	tur	הכנו את הארוחות שלנו.	Yemeklerimizi hazırladık.
+heb	tur	הכנּו את הארוחות שלנו.	Yemeklerimizi hazırladık.
 heb	tur	הלוואי שהיית כאן.	Keşke burada olsan.
 heb	tur	הלוואי שזה היה נכון.	Keşke doğru olsa.
 heb	tur	הלוואי שיכולנו לעזור.	Keşke yardım edebilsek.
@@ -807,23 +807,23 @@ heb	tur	הם באים הנה מחר?	Yarın buraya mı geliyorlar?
 heb	tur	הם בערך באותו גיל.	Onlar hemen hemen aynı yaştalar.
 heb	tur	הם הגיעו לאוסקה בתחילת מאי.	Mayıs ayının başında Osaka'ya vardılar.
 heb	tur	הם היו שמרנים.	Onlar muhafazakâr insanlardı.
+heb	tur	המוות של סבתא שלי היה שוק גדול.	Anneannemin ölümü büyük bir şok oldu.
+heb	tur	המחוז הזה כבר איננו מקום בטוח לחיות בו.	Bu ilçe yaşamak için güvenli bir yer değil artık.
+heb	tur	המחיר עולה.	Fiyat yükseliyor.
 heb	tur	הם יבואו הנה מחר?	Yarın buraya mı geliyorlar?
 heb	tur	הם יודעים לשחות.	Onlar nasıl yüzüleceğini biliyor.
+heb	tur	המלגה נתנה לי אפשרות להמשיך בלימודיי.	Burs bana, eğitimime devam etme şansı verdi.
 heb	tur	הם נראים אמריקאים.	Onlar Amerikalı görünüyor.
 heb	tur	הם נראים אמריקנים.	Onlar Amerikalı görünüyor.
 heb	tur	הם נתנו לכלב את השם "שירו".	Köpeğe Shiro adını koydular.
 heb	tur	הם צוחקים.	Gülüyorlar.
-heb	tur	המוות של סבתא שלי היה שוק גדול.	Anneannemin ölümü büyük bir şok oldu.
-heb	tur	המחוז הזה כבר איננו מקום בטוח לחיות בו.	Bu ilçe yaşamak için güvenli bir yer değil artık.
-heb	tur	המחיר עולה.	Fiyat yükseliyor.
-heb	tur	המלגה נתנה לי אפשרות להמשיך בלימודיי.	Burs bana, eğitimime devam etme şansı verdi.
 heb	tur	המרק היה טעים?	Çorba lezzetli miydi?
 heb	tur	הן אלכוהוליסטיות.	Onlar alkolik.
-heb	tur	הן צוחקות.	Gülüyorlar.
 heb	tur	הנאקו גבהה יותר מאמה.	Hanako annesinden daha uzun oldu.
 heb	tur	הנאקו נעשתה גבוהה יותר מאמה.	Hanako annesinden daha uzun oldu.
 heb	tur	הנער הצעיר לבש המעיל של אמו.	Genç çocuk annesinin ceketini giydi.
 heb	tur	הנפיחה שלו הייתה מסריחה.	Onun osuruğu koktu.
+heb	tur	הן צוחקות.	Gülüyorlar.
 heb	tur	הנשיא נשאר במיטה.	Başkan yatakta kaldı.
 heb	tur	הסגנון יפה, אבל יש לכם בצבע אחר?	Tarz güzel, ama farklı bir renginiz var mı?
 heb	tur	הסכמנו.	Kabul ettik.
@@ -945,8 +945,8 @@ heb	tur	טום ומרי לא עסוקים.	Tom ve Mary meşgul değiller.
 heb	tur	טום ומרי עובדים בלילה.	Tom ve Mary gece çalışıyorlar.
 heb	tur	טום חיכה לך.	Tom seni bekliyordu.
 heb	tur	טום חש בגשם הקר הניתך בפניו.	Tom soğuk yağmuru yüzünde hissetti.
-heb	tur	טום טען שהוא בן של אדם עשיר.	Tom zengin bir adamın oğlu olduğunu iddia etti.
 heb	tur	טום טען שהוא בנו של עשיר.	Tom zengin bir adamın oğlu olduğunu iddia etti.
+heb	tur	טום טען שהוא בן של אדם עשיר.	Tom zengin bir adamın oğlu olduğunu iddia etti.
 heb	tur	טום יוק.	Tom yok.
 heb	tur	טום יצא מבית הכלא.	Tom hapisten çıktı.
 heb	tur	טום יצליח.	Tom başarılı olacak.
@@ -1005,8 +1005,8 @@ heb	tur	יש חריגים.	İstisnalar var.
 heb	tur	יש טעות בחשבון.	Faturada bir hata var.
 heb	tur	יש יוצאים מן הכלל.	İstisnalar var.
 heb	tur	יש לה כאב ראש.	Onun başı ağrıyor.
-heb	tur	יש להם כסף?	Onların parası var mı?
 heb	tur	יש לה מחלת לב.	Onun kalp hastalığı var.
+heb	tur	יש להם כסף?	Onların parası var mı?
 heb	tur	יש לה עשרה ילדים.	O on çocuğa sahiptir.
 heb	tur	יש לו כלב.	Onun bir köpeği var.
 heb	tur	יש לו מחלת לב.	Onun kalp hastalığı var.
@@ -1072,8 +1072,8 @@ heb	tur	לא היה לנו כסף.	Hiç paramız yoktu.
 heb	tur	לא היה קל לשכנע אותה.	Onu ikna etmek kolay olmadı.
 heb	tur	לא הייתי יכול לעשות זאת בלעדייך.	Bunu sensiz yapamazdım.
 heb	tur	לא הייתי יכול לעשות זאת בלעדיך.	Bunu sensiz yapamazdım.
-heb	tur	לא היית צריך להרוג את טום.	Tom'u öldürmemeliydin.
 heb	tur	לא היית צריכה לרצוח את טום.	Tom'u öldürmemeliydin.
+heb	tur	לא היית צריך להרוג את טום.	Tom'u öldürmemeliydin.
 heb	tur	לאחרונה עברתי לדירה חדשה.	Geçenlerde yeni bir daireye taşındım.
 heb	tur	לא יכולתי לענות על השאלה הזאת.	Bu soruyu cevaplamam imkansızdı.
 heb	tur	לא מצאתי שום דבר.	Bir şey bulmadım.
@@ -1162,8 +1162,8 @@ heb	tur	מה שאמרת שגוי.	Söylediğin doğru değil.
 heb	tur	מה שאעשה לאחר ארוחת הערב הוא צ'אט באינטרנט.	Akşam yemeğinden sonra yapacağım şey internette sohbet etmektir.
 heb	tur	מה שאעשה לאחר ארוחת הערב הוא צ'יטוט באינטרנט.	Akşam yemeğinden sonra yapacağım şey internette sohbet etmektir.
 heb	tur	מה שאעשה לאחר ארוחת הערב הוא צ'יטוט ברשת.	Akşam yemeğinden sonra yapacağım şey internette sohbet etmektir.
-heb	tur	מה שלום טום?	Tom nasıl?
 heb	tur	מה שלומו של טום?	Tom nasıl?
+heb	tur	מה שלום טום?	Tom nasıl?
 heb	tur	מה שמו של האגם הגדול ביותר בגרמניה?	Almanya'nın en büyük gölü ne?
 heb	tur	מה תום ומרי עושים פה?	Tom ve Mary burada ne yapıyor?
 heb	tur	מה תעשה באוניברסיטה?	Üniversitede ne yapacaksın?

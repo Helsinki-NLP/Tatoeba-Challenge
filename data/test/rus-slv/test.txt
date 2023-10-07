@@ -24,6 +24,8 @@ rus	slv	В комнату вбежал Том.	Do miestnosti vbehol Tom.
 rus	slv	В Курдистане живут курды и курдянки.	V Kurdistane žijú Kurdi a Kurdky.
 rus	slv	В море есть острова.	Na morju so otoki.
 rus	slv	В море есть острова.	V mori sú ostrovy.
+rus	slv	В нашей стране каждый день попираются права человека.	Porušovanie ľudských práv je v našej krajine na dennom poriadku.
+rus	slv	В нашей стране каждый день попираются права человека.	V našej krajine sa dennodenne porušujú ľudské práva.
 rus	slv	В немецком языке сложные слова пишутся слитно!	V nemščina, zloženke se napisane kot eno besedo!
 rus	slv	Внутри улья пахло мёдом.	Vnútri úľa to voňalo medom.
 rus	slv	Возьми книгу и прочитай её!	Vzemi knjigo in jo preberi!
@@ -38,11 +40,12 @@ rus	slv	В русском алфавите тридцать три буквы: �
 rus	slv	В саду растёт много крапивы.	V záhrade rastie veľa pŕhľavy.
 rus	slv	В саду растёт много крапивы.	V záhrade rastie veľa žihľavy.
 rus	slv	В своё свободное время я играю на гитаре.	Vo svojom voľnom čase hrám na gitaru.
+rus	slv	Всё в порядке.	To je v poriadku.
+rus	slv	Всё в порядке.	Všetko v poriadku.
 rus	slv	Все дома в деревне были сожжены дотла.	Všetky domy v dedine boli zhorené do tla.
 rus	slv	Все застыли в немом ужасе.	Všetci zostali v nemom úžase.
 rus	slv	Все мои родственники живут в этом городе.	Vsi moji sorodniki živijo v tem mestu.
-rus	slv	Всё в порядке.	To je v poriadku.
-rus	slv	Всё в порядке.	Všetko v poriadku.
+rus	slv	Все отводят глаза.	Všetci odvracajú zrak.
 rus	slv	Всё, что существует, для чего-нибудь нужно.	Všetko, čo jestvuje, je na niečo potrebné.
 rus	slv	В тихом омуте черти водятся.	Tichá voda brehy myje.
 rus	slv	Второй по величине город Бразилии — Рио-де-Жанейро.	Druhé najväčšie mesto v Brazílii je Rio de Janeiro.
@@ -52,6 +55,9 @@ rus	slv	Вы всё потеряли.	Všetko ste stratili.
 rus	slv	Вы всё проиграли.	Všetko ste prehrali.
 rus	slv	Вы говорите по-сингальски?	Hovoríte po sinhalsky?
 rus	slv	Вы говорите по-сингальски?	Hovoríte sinhalsky?
+rus	slv	Вы дали ей ответ?	Dali ste jej odpoveď?
+rus	slv	Вы дали ему ответ?	Dali ste mu odpoveď?
+rus	slv	Вы завтракать не будете?	Nebudete raňajkovať?
 rus	slv	Вы знаете, что там происходит?	Ali veste, kaj se dogaja tam?
 rus	slv	Вы католик?	Jesi li ti katolik?
 rus	slv	Вы можете отвезти Тома в больницу?	Môžete odviezť Toma do nemocnice?
@@ -60,6 +66,7 @@ rus	slv	Вы очень элегантны.	Vi ste zelo eleganten.
 rus	slv	Вы предлагаете жильё?	Ponúkate ubytovanie?
 rus	slv	Вы предлагаете место для проживания?	Ponúkate ubytovanie?
 rus	slv	Вы пьёте кофе?	Pijete kavo?
+rus	slv	Вы сажаете дерево.	Sadíte strom.
 rus	slv	Вы уйгур?	Ali ste Ujgur?
 rus	slv	Выход там же, где и вход.	Východ je tam, kde aj vchod.
 rus	slv	Выход там же, где и вход.	Východ je tam, kde i vchod.
@@ -78,6 +85,7 @@ rus	slv	Где черепаха?	Kde je korytnačka?
 rus	slv	Глубоко дыши́те ртом.	Dýchajte zhlboka ústami.
 rus	slv	Грамматика очень сложная.	Slovnica je zelo zapletena.
 rus	slv	Грязный дом, грязные полы.	Umazana hiša, umazana tla.
+rus	slv	Даже профессора могут ошибаться.	Aj profesori sa môžu mýliť.
 rus	slv	Да, меня зовут Карен Смит.	Da, ime mi je Karen Smith.
 rus	slv	Да, правильно!	Áno, správne!
 rus	slv	Двери оставили незамкнутыми.	Dvere zostali nezamknuté.
@@ -171,7 +179,12 @@ rus	slv	Лори больна.	Laurie je chorá.
 rus	slv	Любопытство кошку сгубило.	Zvedavosť zabila mačku.
 rus	slv	Людмила и Анна - словачки.	Ľudmila a Anna sú Slovenky.
 rus	slv	Малайзия граничит с Индонезией.	Malajzia hraničí s Indonéziou.
+rus	slv	Мама, о чём ты сейчас думаешь?	Mami, o čom teraz rozmýšľaš?
+rus	slv	Мама, я иду в школу. Пока!	Mami, idem do školy. Maj sa!
+rus	slv	Мама, я люблю тебя!	Mama, ľúbim ťa!
 rus	slv	Мам, смотри, крокодил!	Mami, pozri, krokodíl!
+rus	slv	Мария не говорит по-немецки.	Mária nehovorí nemecky.
+rus	slv	Мария не говорит по-немецки.	Mária nehovorí po nemecky.
 rus	slv	Масло сделано из молока.	Maslo je izdelano iz mleka.
 rus	slv	Мать будит дочь.	Matka budí dcéru.
 rus	slv	Маша — всемирно известная художница.	Mária je svetoznáma umelkyňa.
@@ -182,6 +195,7 @@ rus	slv	Мне нужен твой совет.	Potrebujem tvoj nasvet.
 rus	slv	Мне очень нравится плавать.	Mám veľmi rád plávanie.
 rus	slv	Мне очень нравится плавать.	Veľmi sa mi páči plávanie.
 rus	slv	Мне очень нравится путешествовать на корабле.	Naozaj rád cestujem loďou.
+rus	slv	Много тебе нужно денег?	Potrebuješ veľa peňazí?
 rus	slv	Могу я пригласить вас на ужин?	Môžem vás pozvať na večeru?
 rus	slv	Мое мнение отличается от вашего.	Môj názor sa líši od vášho.
 rus	slv	Можешь отвезти Тома в больницу?	Môžeš odviezť Toma do nemocnice?
@@ -205,6 +219,7 @@ rus	slv	Мы должны всё ей сказать.	Musíme jej všetko poveda
 rus	slv	Мы должны всё ему сказать.	Musíme mu všetko povedať.
 rus	slv	Мы едим яблоки.	Jeme jablká.
 rus	slv	Мы знаем, что она родилась в Канаде.	Vemo, da se je rodila v Kanadi.
+rus	slv	Мы знакомы два дня.	Poznáme sa dva dni.
 rus	slv	Мы из Германии.	Iz Nemčije smo.
 rus	slv	Мы из Германии.	Iz Nemčije sva.
 rus	slv	Мы не были разочарованы.	Neboli sme sklamaní.
@@ -246,6 +261,8 @@ rus	slv	Несчастный случай произошёл вчера утро
 rus	slv	Нет, неправильно!	Nie, nesprávne!
 rus	slv	Нет ни малейших сомнений, что этот человек виновен.	Niet najmenších pochýb o tom, že tento človek je vinný.
 rus	slv	Не трогайте меня!	Ne dotikajte se me!
+rus	slv	Нет, у меня нет девушки.	Nie, nemám priateľku.
+rus	slv	Нет, я не люблю кошек.	Nie, nemám rád mačky.
 rus	slv	Никто не может сказать наверняка, почему так случилось.	Nikto nemôže s určitosťou povedať, prečo sa to stalo.
 rus	slv	Никто не сказал, что тебе нельзя идти на рыбалку.	Nikto nepovedal, že nemôžeš ísť na ryby.
 rus	slv	Ни один человек не мог это сделать.	Žiaden človek to nemohol urobiť.
@@ -257,6 +274,7 @@ rus	slv	Озеро замерзает.	Jezero zamrzá.
 rus	slv	Она в Бостоне.	V Bostonu je.
 rus	slv	Она всегда мне звонила.	Ona mi vždy telefonovala.
 rus	slv	Она выросла и стала очень красивой женщиной.	Odrasla je v prelepo žensko.
+rus	slv	Она выше тебя.	Je od teba vyššia.
 rus	slv	Она говорит не только на немецком, но и на нижнесорбском.	Nehovorí iba nemecky, ale aj dolnolužickou srbčinou.
 rus	slv	Она думала, что может ему помочь.	Myslela si, že mu môže pomôcť.
 rus	slv	Она забыла покормить свою собаку.	Zabudla nakŕmiť svojho psa.
@@ -283,6 +301,7 @@ rus	slv	Он ест только те овощи, которые выращив�
 rus	slv	Он ест яблоко.	On je jablko.
 rus	slv	О нет. Что случилось?	O ne. Kaj se je zgodilo?
 rus	slv	Он забыл, что у него сегодня занятия по французскому.	Zabudol, že má dnes hodinu francúzštiny.
+rus	slv	Они быстро растут.	Rýchlo rastú.
 rus	slv	Они ждут тебя у входа.	Čakajú ťa pri vchode.
 rus	slv	Они заставили меня спеть песню.	Prisilili so me, da zapojem pesem.
 rus	slv	Они любили своих детей.	Milovali svoje deti.
@@ -300,6 +319,8 @@ rus	slv	Он не стыдится того, что он бедный.	Nehanbí 
 rus	slv	Он не хочет вас беспокоить.	Nechce vás vyrušovať.
 rus	slv	Он не хочет ничего пробовать.	Nič nechce skúsiť.
 rus	slv	Он никогда не знает, чего хочет.	On nikdy nevie, čo chce.
+rus	slv	Он новичок, но быстро учится.	Je začiatočník, ale učí sa rýchlo.
+rus	slv	Он новичок, но он быстро учится.	Je začiatočník, ale učí sa rýchlo.
 rus	slv	Он погиб, защищая родину.	Zahynul, brániac vlasť.
 rus	slv	Он погиб, защищая родину.	Zahynul pri obrane vlasti.
 rus	slv	Он прибудет двадцать четвёртого июня.	Prišel bo 24. junija.
@@ -319,6 +340,7 @@ rus	slv	Отец пришел домой.	Oče je prišel domov.
 rus	slv	Открой ей дверь.	Otvor jej dvere.
 rus	slv	Отче наш, сущий на небесах.	Otče náš, ktorý si na nebesiach.
 rus	slv	Очень жаль, что ты его не знаешь.	Res škoda, da ga ne poznaš.
+rus	slv	Передай мне хлеб, пожалуйста.	Podaj mi chlieb, prosím.
 rus	slv	Пожалуйста.	Prosím.
 rus	slv	Пожалуйста, оставайся дома.	Prosím, zostaň doma.
 rus	slv	Пожалуйста, останься дома.	Prosím, zostaň doma.
@@ -326,6 +348,8 @@ rus	slv	Позови Тома!	Zavolaj Tomovi!
 rus	slv	Пока!	Adijo.
 rus	slv	Покажи мне своё истинное лицо.	Ukáž mi svoju pravú tvár.
 rus	slv	Понятия не имею.	Pojma nimam.
+rus	slv	Посмотри вон на того коалу.	Pozri tam na tú koalu.
+rus	slv	Посмотрите вон на того коалу.	Pozrite tam na tú koalu.
 rus	slv	Поцелуй меня.	Poljubi me.
 rus	slv	Почему вы стоите?	Prečo stojíte?
 rus	slv	Почему не все мы поем?	Prečo všetci nespievame?
@@ -357,6 +381,7 @@ rus	slv	Сколько, вы говорили, Тому лет?	Koľko ste vrave
 rus	slv	Сколько ему лет?	Koliko je star?
 rus	slv	Сколько живут кошки?	Ako dlho žijú mačky?
 rus	slv	Сколько примерно книг у вас есть?	Približno koliko knjig imate?
+rus	slv	Сколько сейчас времени на Луне?	Koliko je ura na Luni?
 rus	slv	Сколько Том тебе должен?	Koliko ti je Tom dolžan?
 rus	slv	Сколько, ты говорил, Тому лет?	Koľko si hovoril, že má Tom rokov?
 rus	slv	Сколько, ты говорил, Тому лет?	Koľko si vravel, že má Tom rokov?
@@ -368,6 +393,7 @@ rus	slv	Словацкий алфавит состоит из 46 букв: a, á
 rus	slv	Словенская певица Майя Кеуц родилась в 1992 году.	Slovenska pevka Maja Kevc je bila rojena leta 1992.
 rus	slv	С неба падал снег с дождём.	Z oblohy padal sneh s dažďom.
 rus	slv	Собака побежала за кроликом.	Pes utekal za králikom.
+rus	slv	Совы - ночные животные.	Sovy sú nočné živočíchy.
 rus	slv	Сомневаюсь.	Dvomim.
 rus	slv	Составь предложение с тремя глаголами.	Napíš vetu obsahujúcu tri slovesá.
 rus	slv	Спасибо за комплимент!	Ďakujem za kompliment!
@@ -436,9 +462,11 @@ rus	slv	Ты говоришь по-албански?	Hovoríš po albánsky?
 rus	slv	Ты говоришь по-английски?	Govoriš angleško?
 rus	slv	Ты дома?	Si doma?
 rus	slv	Ты ещё слишком мал, чтобы знать о таких вещах.	Ešte si príliš malý, aby si vedel o takých veciach.
+rus	slv	Ты завтракать не будешь?	Nebudeš raňajkovať?
 rus	slv	Ты знаешь какие-нибудь народные песни?	Poznáš nejaké ľudové piesne?
 rus	slv	Ты знаком с новой девушкой Тома?	Poznáš sa s Tomovou novou priateľkou?
 rus	slv	Ты когда-нибудь пробовал мятный чай?	Skúšal si niekedy mätový čaj?
+rus	slv	Ты корочку не ешь? Это же самое вкусное!	Ty neješ kôrku? Veď to je to najchutnejšie!
 rus	slv	Ты купил себе новый дом.	Kúpil si si nový dom.
 rus	slv	Ты можешь дать мне почитать эту книгу?	Mi prosim posodiš to knjigo?
 rus	slv	Ты можешь одолжить мне эту книгу?	Mi prosim posodiš to knjigo?
@@ -451,6 +479,8 @@ rus	slv	Ты не мог бы помочь мне кое с чем завтра?
 rus	slv	Ты очень элегантная.	Ti si zelo elegantna.
 rus	slv	Ты очень элегантный.	Ti si zelo eleganten.
 rus	slv	Ты пьёшь кофе?	Pijete kávu?
+rus	slv	Ты сажаешь дерево.	Sadíš strom.
+rus	slv	Ты сегодня в обед будешь дома?	Budeš dnes naobed doma?
 rus	slv	Ты слишком недоверчив.	Si príliš nedôverčivý.
 rus	slv	Ты сюда один пришёл?	Prišiel si tu sám?
 rus	slv	Ты теннисист.	Ty si teniska.
@@ -463,6 +493,7 @@ rus	slv	Ты уйгур?	Ali si Ujgur?
 rus	slv	Ты что-то сказал?	Si nekaj dejal?
 rus	slv	Увидев её, у меня замерло сердце.	Keď som ju uvidel, zamrelo mi srdce.
 rus	slv	Уже август.	Je že avgust.
+rus	slv	У женщин чутьё на такие вещи.	Ženy majú cit pre také veci.
 rus	slv	У каждой кассы стоит длинная очередь.	Pri každej pokladni je dlhá rada.
 rus	slv	У меня две руки и две ноги.	Mám dve ruky a dve nohy.
 rus	slv	У меня две собаки.	Mám dva psy.
@@ -530,6 +561,7 @@ rus	slv	Это была душераздирающая история.	Bol to sr
 rus	slv	Это была ужасная неделя.	Grozen teden je bil.
 rus	slv	Это было бы просто.	To by bolo jednoduché.
 rus	slv	Это Вы дверь закрыли?	To vy ste zavreli dvere?
+rus	slv	Этого будет более чем достаточно.	To bude viac než dostatočné.
 rus	slv	Это жеребец или кобыла?	Je to žrebec alebo kobyla?
 rus	slv	Это мой самый младший брат.	To je môj najmladší brat.
 rus	slv	Это моя самая младшая сестра.	To je moja najmladšia sestra.
@@ -548,12 +580,16 @@ rus	slv	Это предположение в принципе верно.	V pods
 rus	slv	Это собака.	To je pes.
 rus	slv	Это твоё?	Je to tvoje?
 rus	slv	Этот мужчина пьяный.	Tento muž je opitý.
+rus	slv	Это тоже можно есть.	To sa tiež dá jesť.
+rus	slv	Это тоже можно есть.	To sa tiež môže jesť.
+rus	slv	Это тоже можно есть.	To tiež možno jesť.
 rus	slv	Это треугольник.	To je trikotnik.
 rus	slv	Это трудно, но я собираюсь сделать это!	Je to ťažké, ale chystám sa to urobiť!
 rus	slv	Этот стол тяжёлый.	Ten stôl je ťažký.
 rus	slv	Это ты дверь закрыл?	To ty si zavrel dvere?
 rus	slv	Это ты дверь закрыла?	To ty si zavrela dvere?
 rus	slv	Это хороший справочник.	Toto je dobrá príručka.
+rus	slv	Это что, плесень?	To je čo, plieseň?
 rus	slv	Эту книгу легко читать.	Lahko je brati to knjigo.
 rus	slv	Эту книгу я получил от него.	To knjigo sem dobil od njega.
 rus	slv	Я 10 лет жил за границей.	V tujini sem živel 10 let.
@@ -564,6 +600,7 @@ rus	slv	Я был бы очень рад, если бы он пришел.	Zelo 
 rus	slv	Я был на работе.	Bol som v práci.
 rus	slv	Я был удивлён.	Bol som prekvapený.
 rus	slv	Я в Австралии.	Som v Austrálii.
+rus	slv	Я вам это объясню.	Vysvetlím vám to.
 rus	slv	Я вежливо поправил её.	Slušne som ju opravil.
 rus	slv	Я вежливо поправил её.	Zdvorilo som ju opravil.
 rus	slv	Я видела.	Videla som.
@@ -588,6 +625,7 @@ rus	slv	Я думаю, Том сказал правду.	Myslím, že Tom poveda
 rus	slv	Я ещё ни разу не видел такого растения.	Takúto rastlinku som ešte nevidel.
 rus	slv	Я жду на платформе.	Čakám na nástupišti.
 rus	slv	Я живу в Нью-Йорке.	Živim v New Yorku.
+rus	slv	Я живу в Рио-де-Жанейро.	Žijem v Riu de Janeiro.
 rus	slv	Я заберу это с собой домой.	Zoberiem to so sebou domov.
 rus	slv	Я заплатил ему деньги.	Zaplatil som mu peniaze.
 rus	slv	Я знаю, где они.	Viem, kde sú.
@@ -599,6 +637,7 @@ rus	slv	Я иду домой.	Grem domov.
 rus	slv	Я иду на пляж.	Grem na plažo.
 rus	slv	Я иду на пляж.	Idem na pláž.
 rus	slv	Я иду спать.	Grem v posteljo.
+rus	slv	Я корки не ем.	Kôrku nejem.
 rus	slv	Я люблю есть.	Rada jem.
 rus	slv	Я люблю есть.	Rád jem.
 rus	slv	Я люблю пить чай из крапивы.	Rada pijem žihľavový čaj.
@@ -611,8 +650,11 @@ rus	slv	Я не владею бенгальским языком.	Nehovorím ben
 rus	slv	Я не говорю по-бенгальски.	Nehovorím bengálsky.
 rus	slv	Я не доволен тем, как моляры покрасили мой кабинет.	Nie som spokojný s tým, ako maliari vymaľovali moju kanceláriu.
 rus	slv	Я не знал его настоящего имени.	Nepoznal som jeho skutočné meno.
+rus	slv	Я не знал, что Вы и французский знаете.	Nevedel som, že viete aj francúzsky.
+rus	slv	Я не знал, что ты и по-французски говоришь.	Nevedel som, že hovoríš aj po francúzsky.
 rus	slv	Я не знаю, где Том.	Ja neviem, kde je Tom.
 rus	slv	Я не знаю, когда он придёт сюда.	Neviem kedy sem príde.
+rus	slv	Я не знаю, откуда он взялся.	Neviem, odkiaľ sa vzal.
 rus	slv	Я не знаю флаг этой страны.	Nepoznám vlajku tejto krajiny.
 rus	slv	Я не могу послать тебе приглашение.	Ne morem ti poslati vabila.
 rus	slv	Я не помню весь вчерашний день.	Nepamätám si celý včerajší deň.
@@ -620,8 +662,13 @@ rus	slv	Я не понял твоего вопроса.	Nisem razumel tvojega vp
 rus	slv	Я нет, а ты?	Ja nie. A ty?
 rus	slv	Я не хочу работать на этих условиях.	Nechcem pracovať za týchto podmienok.
 rus	slv	Я не хочу сегодня ничего читать.	Dnes nechcem nič čítať.
+rus	slv	Я останусь здесь и буду смотреть.	Zostanem tu a budem sa pozerať.
 rus	slv	Я очень голоден.	Som veľmi hladný.
 rus	slv	Японец никогда бы не сделал чего-либо подобного.	Japonec ne bi nikoli naredil česa takega.
+rus	slv	Я построил вам дом.	Postavil som vám dom.
+rus	slv	Я построил им дом.	Postavil som im dom.
+rus	slv	Я построил тебе дом.	Postavil som ti dom.
+rus	slv	Я провожу много времени на пляже.	Veľa času trávim na pláži.
 rus	slv	Я работаю с твоим другом.	Pracujem s tvojím priateľom.
 rus	slv	Я разговаривал с Томом.	Hovoril som s Tomom.
 rus	slv	Я сделал то, что я обещал сделать для них.	Urobil so, čo som im sľúbil urobiť.
@@ -630,7 +677,9 @@ rus	slv	Я слишком стар для этой херни.	Ja som príliš s
 rus	slv	Я слышу, как кто-то разговаривает в соседней комнате.	Počujem niekoho hovoriť v susednej miestnosti.
 rus	slv	Я с нетерпением ждал встречи с тобой.	Netrpezlivo som čakal na stretnutie s tebou.
 rus	slv	Я счастлива.	Jaz sem srečna.
+rus	slv	Я такой глупый... Я пытаюсь тебе объяснить то, что сам не понимаю.	Som taký hlúpy... Snažím sa ti vysvetliť to, čomu sám nerozumiem.
 rus	slv	Я твоя старшая сестра.	Som tvoja staršia sestra.
+rus	slv	Я тебе это объясню.	Vysvetlím ti to.
 rus	slv	Я тебя люблю.	Rada te imam.
 rus	slv	Я тку ковёр.	Tkám koberec.
 rus	slv	Я тот, кто болеет.	Ja som ten, ktorý je chorý.
@@ -646,6 +695,7 @@ rus	slv	Я учу украинский.	Učím sa ukrajinsky.
 rus	slv	Я ходила в супермаркет.	Šla som do supermarketu.
 rus	slv	Я хотела почитать книгу.	Chcela som čítať knihu.
 rus	slv	Я хочу выучить сингальский.	Chcem sa naučiť sinhalsky.
+rus	slv	"Я хочу домой". - "Я тоже".	„Chcem domov.“ „Ja tiež.“
 rus	slv	Я хочу жениться на Мартине.	Chcem sa oženiť s Martinou.
 rus	slv	Я хочу меч!	Chcem meč!
 rus	slv	Я хочу присоединиться к твоей группе.	Rad bi se pridružil tvoji skupini.

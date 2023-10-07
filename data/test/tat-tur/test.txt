@@ -8,6 +8,7 @@ tat	tur	YouTube яхшы сайт түгел.	YouTube iyi bir web sitesi değild
 tat	tur	Авылга ике чакрым кала бензин бетте.	Köye iki kilometre kala benzin bitmiş.
 tat	tur	Авылда биш баш терлек бар.	Köyde beş inek var.
 tat	tur	Акулалар йөзгечләреннән файдалану өчен үтерелде.	Köpek balıkları yüzgeçleri için öldürüldü.
+tat	tur	Алар безгә һөҗүм итәләр.	Onlar bize hücum ediyorlar.
 tat	tur	Алар белән калыр идеңме?	Onlarla kalabilir misin?
 tat	tur	Алар дини ирек өчен көрәште.	Din özgürlüğü için savaşıyorlar.
 tat	tur	Алар кемнәр?	Onlar kim?
@@ -18,17 +19,10 @@ tat	tur	Алдашасың икән, сүзеңне кыскарак тот.	Ald
 tat	tur	Аллаһ тугызда биргәнне сигездә алмас.	Allah dokuzda verdiğini sekizde almaz.
 tat	tur	Алман иптәшемнең исеме Һанс.	Alman arkadaşımın adı Hans.
 tat	tur	Алмания — парламент җөмһүрияте.	Almanya parlamenter bir cumhuriyettir.
+tat	tur	Алсу төсле дуңгызым бар.	Pembe renkli domuzum var.
 tat	tur	Аль-Капоне: "Бөтендөнья сугышы корбаннарыннан кала, барлык кеше үтерүләрне миңа тактылар".	Al Capone: "Dünya Savaşı kurbanları hariç, bütün kişilerin katledilmelerini bana itham ettiler".
 tat	tur	Американың һәр шәһәрендә китапханә бар.	Amerika'da her şehirde bir kütüphane vardır.
-tat	tur	Аңа булышырга кирәк дип уйлыйм.	Sanırım ona yardımcı olmalıyız.
-tat	tur	Аңа булышырга кирәк дип уйлыйм.	Sanırım ona yardımcı olmamız gerekir.
-tat	tur	Аңа тәкъдим иттем.	Ona önerdim.
-tat	tur	Аңа ярдәм итәргә кирәк дип уйлыйм.	Sanırım ona yardımcı olmalıyız.
-tat	tur	Аңа ярдәм итәргә кирәк дип уйлыйм.	Sanırım ona yardımcı olmamız gerekir.
 tat	tur	Анда паспортларны бик каты тикшерәләрме?	Orada pasaport muayenesi sıkı mıdir?
-tat	tur	Аңламадым.	Anlamadım.
-tat	tur	Аңламыйм.	Anlamadım.
-tat	tur	Аңлашылдымы?	Tamam mı?
 tat	tur	Аны күргәнеңне беләм, әмма аңа чынлап торып карыйсыңмы?	Onu gördüğünü biliyorum ama gerçekten ona bakıyor musun?
 tat	tur	Аның акчасы күп.	Onun akçesi çok.
 tat	tur	Аның акчасы күп.	Onun parası çok.
@@ -40,20 +34,44 @@ tat	tur	Аның китаплары кызыклы.	Onun kitapları ilginç.
 tat	tur	Аның тәкъдимнәрен кабул иттек.	Onun önerilerin kabul ettik.
 tat	tur	Анысы арбачы, монысы киезче, ә син кем?	O arabacı, bu kebeci, sen neci?
 tat	tur	Аны туктаттым.	Onu durdurdum.
+tat	tur	Аңа булышырга кирәк дип уйлыйм.	Sanırım ona yardımcı olmalıyız.
+tat	tur	Аңа булышырга кирәк дип уйлыйм.	Sanırım ona yardımcı olmamız gerekir.
+tat	tur	Аңа тәкъдим иттем.	Ona önerdim.
+tat	tur	Аңа ярдәм итәргә кирәк дип уйлыйм.	Sanırım ona yardımcı olmalıyız.
+tat	tur	Аңа ярдәм итәргә кирәк дип уйлыйм.	Sanırım ona yardımcı olmamız gerekir.
+tat	tur	Аңламадым.	Anlamadım.
+tat	tur	Аңламыйм.	Anlamadım.
+tat	tur	Аңлашылдымы?	Tamam mı?
 tat	tur	Арыдыгызмы?	Yoruldunuz mu?
 tat	tur	Атасы өлгермәгән йөзем ашар, улының теше камашыр.	Babaları koruk yer, oğlunun dişi kamaşır.
 tat	tur	Атом бомбасы - егерменче гасыр физикасының "баласы".	Atom bombası yirminci yüzyıl fiziğinin yavrusudur.
 tat	tur	Атом бомбасы - егерменче йөзъеллык физикасы тудырган "бала" ул.	Atom bombası yirminci yüzyıl fiziğinin yavrusudur.
+tat	tur	Аурупада тормыш бармы?	Avrupa'da hayat var mı?
+tat	tur	Аурупа юк.	Avrupa yok.
 tat	tur	Ачыкламагыз өчен рәхмәт.	Yorum için teşekkürler.
 tat	tur	Аша да эч.	Ye ve iç.
 tat	tur	Аягың тапылдамаса, авызың шапылдамас.	Safa ile yenen cefa ile kazanılır.
+tat	tur	Әгәр бер төймәгә бассаң, йә исән калачаксың, йә үләчәксең.	Eğer bir düğmeye basarsan, ya yaşayacak ya da öleceksin.
+tat	tur	Әйе, Боб миңа ярдәм итте.	Evet, Bob bana yardım etti.
+tat	tur	Әмма каһвә яхшы түгел.	Ama kahve iyi değil.
+tat	tur	Әмма күңелем яна киләчәктән.	Ama gönlüm olasılıkla'dan yana.
+tat	tur	Әмма мин китәргә теләмим.	Hayır, gitmek istemiyorum.
+tat	tur	Әнием янына ашыгам.	Annemin yanına koştum.
+tat	tur	Әни ягыннан булган дәү әтием ун ел элек вафат булды.	Annemin tarafında büyükbabam on yıl önce vefat etti.
+tat	tur	Ә синең монда ни катнашың бар?	O arabacı, bu kebeci, sen neci?
+tat	tur	Әтием җимерек урындыкны төзәтте.	Babam kırık sandalyeyi tamir etti.
+tat	tur	Әтиемнең исеме — Том.	Babamın adı Tom'dur.
 tat	tur	Бабасы Америка Кушма Штатларында сенатор булып торды.	Babası Amerika Birleşik Devletleri senatörü olarak görev yapmıştı.
 tat	tur	Базар көннәреннән гайре, көн саен эшлим.	Pazar hariç her gün çalışırım.
 tat	tur	Бакчада бер генә роза да юк иде.	Bahçede hiç gül yoktu.
 tat	tur	Бала сискәнеп уянды.	Çocuk sıçrayarak uyandı.
 tat	tur	Бәдрәф кайда?	Tuvalet nerede?
+tat	tur	Бәлки безгә монда калып Томга булышырга кирәктер.	Belki de burada kalıp Tom'a yardımcı olmalıyız.
+tat	tur	Бәлки безгә монда калып Томга ярдәм итәргә кирәктер.	Belki de burada kalıp Tom'a yardımcı olmalıyız.
+tat	tur	Бәхетле булырга гына телим мин.	Sadece mutlu olmak istiyorum.
 tat	tur	Без аларга булышырга тырышып карарга тиешбез дип уйлыйм.	Sanırım onlara yardımcı olmaya çalışmalıyız.
 tat	tur	Без гарәпләр.	Biz Arabız.
+tat	tur	Безгә кәгазь кирәк.	Bize kâğıt gerek.
 tat	tur	Безгә килеп кушылуыгызны телибез.	Bize katılmanızı istiyoruz.
 tat	tur	Без инглиз телен атнага өч сәгать өйрәнәбез.	Biz, İngilizceyi haftada üç saat öğreniyoruz.
 tat	tur	Без итне ашамадык.	Biz eti yemedik.
@@ -62,8 +80,6 @@ tat	tur	Безнең ике балабыз бар.	Bizim iki çocuğumuz var.
 tat	tur	Безнең ресторан иң яхшысы.	Bizim restoran en iyisidir.
 tat	tur	Без якын дуслар.	Biz iyi arkadaşız.
 tat	tur	Бейсбол уены сине хушландырамы?	Sen beyzboldan hoşlanıyor musun?
-tat	tur	Бәлки безгә монда калып Томга булышырга кирәктер.	Belki de burada kalıp Tom'a yardımcı olmalıyız.
-tat	tur	Бәлки безгә монда калып Томга ярдәм итәргә кирәктер.	Belki de burada kalıp Tom'a yardımcı olmalıyız.
 tat	tur	Белоруссияда төрле дин вәкилләре яши.	Belarus'ta çeşitli dinlerin taraftarları yaşıyor.
 tat	tur	Бераз арыдым.	Biraz yoruldum.
 tat	tur	Бераз яктырак итсәгез иде.	Biraz ışığa ihtiyacım var.
@@ -79,7 +95,6 @@ tat	tur	Бер секунд вакыт - бер минутның алтмышт�
 tat	tur	Бер тәкъдимегез бармы?	Bir öneriniz var mı?
 tat	tur	Бер төркем кеше концертка барды.	Konserde bir sürü kişi vardı.
 tat	tur	Бер эш сәфәре өчен 5 көнгә Бостонга киттем.	Bir iş gezisi için 5 gün Boston'a gittim.
-tat	tur	Бәхетле булырга гына телим мин.	Sadece mutlu olmak istiyorum.
 tat	tur	Бик күңелле иде дә, ләкин күңеллелек бик тиз үтеп китә торган нәрсә.	Pek gönüllü idi, lakin gönüllülük pek çabuk geçip gitmekte olan bir şey.
 tat	tur	Биш минуттан кире кайт.	Beş dakika içinde geri gel.
 tat	tur	Биш минуттан Том монда булачак.	Tom beş dakika içinde burada olacak.
@@ -112,8 +127,6 @@ tat	tur	Бу бүлмәдә алар белән кал.	Bu odada onlarla kal.
 tat	tur	Бу бүлмәдә аның белән кал.	Bu odada onunla kal.
 tat	tur	Бу бүлмәдә безнең белән кал.	Bu odada bizimle kal.
 tat	tur	Бу бүлмәдә минем белән кал.	Bu odada benimle kal.
-tat	tur	Бүген кар яуды.	Bugün kar yağdı.
-tat	tur	Бүген кичәгә барасыңмы?	Bugün partiye gidiyor musun?
 tat	tur	Бу да алма.	Bu da bir elma.
 tat	tur	Бу җитди бер хата.	Bu ciddi bir hatadır.
 tat	tur	Бу кадәр акча белән нишләмәкче буласың?	Bu kadar para ile neler yapacaksın?
@@ -122,14 +135,16 @@ tat	tur	Бу кемнең карары?	Bu kimin kararı?
 tat	tur	Бу кемнең китаплары?	Bunlar kimin kitapları?
 tat	tur	Бу кеше кем?	Bu kişi kim?
 tat	tur	Бу китап йолдызлар турында.	Bu kitap yıldızlar hakkında.
+tat	tur	Бу китапны ике ел элек укыган идем.	Bu kitabı iki yıl önce okumuştum.
 tat	tur	Бу күп дигәндә ун куруш тора.	Bunun kemali on kuruş.
 tat	tur	Булдымы?	Tamam mı?
-tat	tur	Бүлмәмдә ике тәрәзә бар.	Odamın iki penceresi vardır.
 tat	tur	Бу мантыйкка бик тә ярашлы.	Bu çok mantıklı geliyor.
 tat	tur	Бу мантыйксыз.	Bu mantıksız.
 tat	tur	Бу мәче түгел, бу эт.	O bir kedi değil, o bir köpek.
 tat	tur	Бу минем җөмләм.	Bu benim cümlem.
 tat	tur	Бу минем өем.	Bu benim evim.
+tat	tur	Бу минем өчен җитәрлек түгел.	Bu benim için yeterli değil.
+tat	tur	Бу минем соңгы тапкыр телевизор каравым булды.	Bu benim son defa televizyon izleyişim oldu.
 tat	tur	Бу мөһим бер вакыт.	Bu önemli bir zamandır.
 tat	tur	Бу — өй, ә бу — мәчет.	Bu bir ev, şu ise camidir.
 tat	tur	Бу өй түгел.	Bu ev değil.
@@ -144,15 +159,18 @@ tat	tur	Бу хайван бик акыллы.	Bu hayvan çok akıllı.
 tat	tur	Бу хаксыз көндәшлек.	Bu haksız rekabet.
 tat	tur	Бу һичшиксез кызык булачак.	Bu kesinlikle eğlenceli olacak.
 tat	tur	Бу чыннан да кыен бер эш.	Bu gerçekten zor bir iş.
-tat	tur	Буш вакытым булса, «Tatoeba»да жөмләләр тәрҗемә итәм.	Boş zamanımda Tatoeba'da cümle çeviririm.
 tat	tur	Бу - шәһәрдә иң зур кунакханә.	O bu şehirdeki en büyük oteldir.
 tat	tur	Бу шәһәр Франциядә.	Bu şehir Fransa'da.
+tat	tur	Буш вакытым булса, «Tatoeba»да жөмләләр тәрҗемә итәм.	Boş zamanımda Tatoeba'da cümle çeviririm.
 tat	tur	Бу — эт.	Bu köpektir.
-tat	tur	Бу эшне ике юл белән башкарып була.	Bu işi yapmanın iki yolu vardır.
 tat	tur	Бу эш нәрсә белән бетәчәк?	Bu iş nereye varacak?
+tat	tur	Бу эшне ике юл белән башкарып була.	Bu işi yapmanın iki yolu vardır.
 tat	tur	Бу юлдан йөрү тыелган.	Bu yoldan yürmek yasaktır.
 tat	tur	Бу - Япония.	Bu Japonya.
 tat	tur	Бу - Япония флагы.	Bu, Japonya'nın bayrağıdır.
+tat	tur	Бүген кар яуды.	Bugün kar yağdı.
+tat	tur	Бүген кичәгә барасыңмы?	Bugün partiye gidiyor musun?
+tat	tur	Бүлмәмдә ике тәрәзә бар.	Odamın iki penceresi vardır.
 tat	tur	Гаиләмдә ике зомби бар.	Evimin içinde iki tane zombi var.
 tat	tur	Гайсә Мәрьямның баласы булып туды.	İsa, Meryem'in bir çocuğu olarak doğdu.
 tat	tur	Гарасатта үлүчеләр саны ике йөзгә җитте инде.	Kasırgada ölenlerin sayısı 200'e yükseldi.
@@ -161,28 +179,18 @@ tat	tur	Гафу итегез, Синьцзяо рестораны моннан 
 tat	tur	Генерал Джон Поуп бик куркыныч бер хата ясады.	General John Pope korkunç bir hata yaptı.
 tat	tur	Германия — парламент республикасы.	Almanya parlamenter bir cumhuriyettir.
 tat	tur	Гөрелдәмәгез.	Gürültü yapmayın.
-tat	tur	"Д" витаминына ихтыяҗым бар.	Daha fazla D vitaminine ihtiyacım var.
 tat	tur	Дәүләт адәмгә үзе атлап килмәс.	Devlet adama ayağıyla gelmez.
 tat	tur	Дәүләт башлыгы безгә, каһәр суккан янкилар бөтен ил буйлап биометрик материал җыялар, диде.	Devlet başkanı bize lanetli Yankeelerin ülke genelinde biyometrik malzemeyi toplamak olduğunu anlattı.
 tat	tur	Дәүләтленең күзе пәрдәле булыр.	Devletlinin gözü perdeli olur.
+tat	tur	"Д" витаминына ихтыяҗым бар.	Daha fazla D vitaminine ihtiyacım var.
+tat	tur	Дошман фабриканы бомбага тотты.	Düşman fabrikaya bomba attı.
 tat	tur	Дөнья бик тиз үзгәрә.	Dünya hızla değişiyor.
 tat	tur	Дөнья гүзәл!	Dünya güzeldir!
 tat	tur	Дөрес тәрҗемә итегез.	Doğru çeviriniz.
-tat	tur	Дошман фабриканы бомбага тотты.	Düşman fabrikaya bomba attı.
 tat	tur	Дөяне ярдан очырткан бер тотам үләндер.	Deveyi yardan uçuran bir tutam ottur.
 tat	tur	Дөяче белән белешкән ишеген биек ачмалы.	Deveciyle görüşen kapısını yüksek açmalı.
 tat	tur	Дуайт Эйзенһауэр мең тугыз йөз илле икенче (1952 нче) елда Илбашы булып сайланды.	Dwight Eisenhower, 1952'de başkan olarak seçildi.
-tat	tur	Әгәр бер төймәгә бассаң, йә исән калачаксың, йә үләчәксең.	Eğer bir düğmeye basarsan, ya yaşayacak ya da öleceksin.
-tat	tur	Әйе, Боб миңа ярдәм итте.	Evet, Bob bana yardım etti.
 tat	tur	Елаучы балаларны тыңларга яратмыйм.	Ağlayan çocukları dinlemeyi sevmem.
-tat	tur	Әмма каһвә яхшы түгел.	Ama kahve iyi değil.
-tat	tur	Әмма күңелем яна киләчәктән.	Ama gönlüm olasılıkla'dan yana.
-tat	tur	Әмма мин китәргә теләмим.	Hayır, gitmek istemiyorum.
-tat	tur	Әнием янына ашыгам.	Annemin yanına koştum.
-tat	tur	Әни ягыннан булган дәү әтием ун ел элек вафат булды.	Annemin tarafında büyükbabam on yıl önce vefat etti.
-tat	tur	Ә синең монда ни катнашың бар?	O arabacı, bu kebeci, sen neci?
-tat	tur	Әтием җимерек урындыкны төзәтте.	Babam kırık sandalyeyi tamir etti.
-tat	tur	Әтиемнең исеме — Том.	Babamın adı Tom'dur.
 tat	tur	Җитәр, сөйләмә!	Yeter, söyleme!
 tat	tur	Заманында Нигерия Британия колониясе иде.	Bir zamanlar, Nijerya bir Britanya kolonisiydi.
 tat	tur	Затлы нәселле нәселеннән, яхшы холыклы холкыннан ваз кичмәс.	Soylu soyundan, iyi huylu huyundan vazgeçmez.
@@ -194,21 +202,23 @@ tat	tur	Инглизчә җавап бирегез!	İngilizce cevap veriniz!
 tat	tur	Интернетта татар телендә сайтлар аз.	İnternette Tatar dilinde çok az site vardır.
 tat	tur	Иртәгә кар явар.	Yarın kar yağacak.
 tat	tur	Иртәгә Томның бер очрашуы бар.	Yarın Tom'un bir toplantısı var.
-tat	tur	Исемлектә минем телем юк!	Listede benim dilim yok!
 tat	tur	Исән-имин илем өстендә янган иң соңгы учак.	Sönmeden yurdumun üstünde tüten en son ocak.
+tat	tur	Исемлектә минем телем юк!	Listede benim dilim yok!
 tat	tur	Истанбул - күп халыклы шәһәр.	İstanbul kalabalık bir şehirdir.
-tat	tur	Йөзә беләсеңме?	Yüzebilir misin?
+tat	tur	Ишекне кем ачкан?	Kapıyı kim açmış?
+tat	tur	Ишекне кем ачты?	Kapıyı kim açtı?
 tat	tur	Йоклап алдыгызмы?	Uyudunuz mu?
 tat	tur	Йокым килә.	Uyumak istiyorum.
 tat	tur	Йорт буш тора.	Ev boştur.
+tat	tur	Йөзә беләсеңме?	Yüzebilir misin?
 tat	tur	Казанда метро бар.	Kazan'da bir metro var.
 tat	tur	Карбыз өлгермәгән булып чыкты.	Karpuz kabak çıktı.
 tat	tur	Каршы якка чык.	Caddeyi geç.
 tat	tur	Кар ява.	Kar yağıyor.
 tat	tur	Кар ява башлады.	Kar yağmaya başladı.
 tat	tur	Кәгазьне вак кисәкләргә ерткалап бетердем.	Kâğıdı parçaladım.
-tat	tur	Кемнәрнең язуы бу, беләсеңме?	Kimlerin yazısı bu, biliyor musun?
 tat	tur	Кәсәбә экспансиясе өчен планнар кордык.	İşte şirketi genişletmek için bir şema.
+tat	tur	Кемнәрнең язуы бу, беләсеңме?	Kimlerin yazısı bu, biliyor musun?
 tat	tur	Кешеме син, җенме?	İn misin, cin misin?
 tat	tur	Кешенең ике аягы бар.	İnsanın iki ayağı vardır.
 tat	tur	Кибетемне яптым.	Mağazamı kapatıyorum.
@@ -221,13 +231,13 @@ tat	tur	Китик, зинһар.	Gidelim lütfen.
 tat	tur	Кичке ашка ни ашарга җыенасың?	Akşam yemeği için ne yiyeceksin?
 tat	tur	Кишерне казанга сал.	Havuçları tencereye koy.
 tat	tur	Кияүгә ашыккан кыз иргә бармас, барса да бәхет тапмас.	İven kız ere varmaz, varsa dahi baht bulmaz.
+tat	tur	Концертка бер төркем кеше барды.	Konserde bir sürü kişi vardı.
 tat	tur	Көймәне дулкыннар йотты.	Dalgalar tekneyi yuttu.
 tat	tur	Көнбатыш Берлин совет кулы астында калудан котылды.	Batı Berlin, Sovyet kontrolü olmadan kalacaktı.
-tat	tur	Концертка бер төркем кеше барды.	Konserde bir sürü kişi vardı.
+tat	tur	Курыкма, сүнмәс бу шәфәкъ нурында йөзгән ал байрак.	Korkma, sönmez bu şafaklarda yüzen al sancak.
 tat	tur	“Күзгә күз” принцибы бөтен дөньяны сукырайта.	Göze göz düşüncesi bütün dünyayı kör edecek.
 tat	tur	Күзләрегез кайда?	Gözleriniz nerede?
 tat	tur	Күл бик тирән.	Göl çok derin.
-tat	tur	Курыкма, сүнмәс бу шәфәкъ нурында йөзгән ал байрак.	Korkma, sönmez bu şafaklarda yüzen al sancak.
 tat	tur	Кызыңны миңа бир.	Kızını bana ver.
 tat	tur	Ләкин минем өлкән апам бик яхшы йөзә белә.	Fakat ablam nasıl yüzüleceğini oldukça iyi bilir.
 tat	tur	Лианның күзләре зәңгәр.	Leanne'nin mavi gözleri var.
@@ -237,24 +247,22 @@ tat	tur	Малай икмәк ашый.	Oğlan ekmek yiyor.
 tat	tur	Марк Цукерберг - атеист, Аллага ышанучы түгел.	Mark Zuckerberg ateisttir, teist değil.
 tat	tur	Математика — яхшы фән.	Matematik dersi iyidir.
 tat	tur	Мәгълүмат алуга мохтаҗмын.	Biraz bilgiye ihtiyacım var.
-tat	tur	Меңләгән кеше реклама тарафыннан алданды.	Binlerce insan, reklam yüzünden aldatıldı.
 tat	tur	Мәче тырнакларын яшерә.	Kedi tırnaklarını saklıyor.
+tat	tur	Меңләгән кеше реклама тарафыннан алданды.	Binlerce insan, reklam yüzünden aldatıldı.
 tat	tur	Мин 1948 елның 22 ноябрендә туганмын.	Ben, 22 Kasım 1948'de doğdum.
 tat	tur	Мин 1977 (мең тугыз йөз җитмеш җиденче) елда Осака шәһәрендә туганмын.	Ben 1977 yılında Osaka şehrinde doğdum.
-tat	tur	Миңа дөресен әйтәгез.	Bana gerçeği söyle.
 tat	tur	Мин алма ашыйм.	Ben bir elma yiyorum.
 tat	tur	Мин алма яратмыйм.	Elmaları sevmem.
 tat	tur	мин - Антонио.	Ben Antonio.
 tat	tur	Мин Антонио булам инде.	Ben Antonio.
-tat	tur	Миңа унсигез яшь.	On sekiz yaşındayım.
+tat	tur	Мин аны сиңа кичә биргән идем.	Ben onu sana dün vermiştim.
 tat	tur	Мин ашамыйм.	Yemiyorum.
 tat	tur	Мин ашыйм.	Ben yiyorum.
-tat	tur	Миңа ярдәм кирәк.	Yardıma ihtiyacım var.
-tat	tur	Миңа яшел төс ошый.	Yeşili beğenirim.
 tat	tur	Мин бер данә тәкъдим иттем.	Ben bir tane önerdim.
 tat	tur	Мин бик еш алмалар ашыйм.	Ben sık sık elmalar yerim.
 tat	tur	Мине берәрсе якласа иде.	Beni koruyacak birine ihtiyacım var.
 tat	tur	Мине кайчан онытырсың икән, дип сорама, чөнки кайчан үләчәгемне белмим.	Seni ne zaman unutacağımı sorma, çünkü ne zaman öleceğimi bilmiyorum.
+tat	tur	Мине машина бәрде.	Bana araba çarptı.
 tat	tur	Минем бер автомобилем бар.	Benim bir arabam var.
 tat	tur	Минем бер китабым бар.	Benim bir kitabım var.
 tat	tur	Минем иң яхшы дустым — китап.	Benim en iyi dostum bir kitaptır.
@@ -262,6 +270,7 @@ tat	tur	Минем өч тавыгым бар.	Benim üç tavuğum var.
 tat	tur	Минем паспортыма ни булды?	Benim pasaportuma ne oldu?
 tat	tur	Минем сүзлегем бар.	Sözlüğüm var.
 tat	tur	Минем фамилиям Ватанабе.	Benim soyadım Watanabe.
+tat	tur	Мин заводта эшлим.	Fabrikada çalışıyorum.
 tat	tur	Мин каһвә эчмим.	Ben kahve içmem.
 tat	tur	Мин корейча сөйләшәм.	Korece konuşuyorum.
 tat	tur	Мин корея телен өйрәнәм.	Ben Korece öğreniyorum.
@@ -273,20 +282,25 @@ tat	tur	Мин монда ашыйм.	Ben burada yiyorum.
 tat	tur	Мин намуслы кеше.	Ben dürüst biriyim.
 tat	tur	Мин намуслы кеше.	Ben namuslu biriyim.
 tat	tur	Мин Сезгә ныгракъ тырышырга тәкъдим итәр идем.	Ben daha çok denemenizi öneririm.
-tat	tur	Мин сиңа ярдәм итәрмен, дидем.	Ben sana yardım edeceğim dedim.
 tat	tur	Мин сине бәхетле итәм.	Ben seni bahtiyar edeceğim.
 tat	tur	Мин сине бәхетле итәм.	Ben seni mutlu edeceğim.
 tat	tur	Мин сине сөям.	Seni seviyorum.
 tat	tur	Мин сине яратам.	Seni seviyorum.
+tat	tur	Мин сиңа ярдәм итәрмен, дидем.	Ben sana yardım edeceğim dedim.
 tat	tur	Мин сөйләгәннәрне онытсаң иде.	Lütfen bir şey söylediğimi unut.
 tat	tur	Мин тәкъдимнәргә ачыкмын.	Ben önerilere açığım.
 tat	tur	Мин телевизор карамыйм.	Ben televizyon izlemem.
 tat	tur	Мин Томны "майладым".	Ben Tom'a rüşvet verdim.
 tat	tur	Мин уйгур түгел, мин — рус.	Ben bir Uygur değilim, ben bir Rus'um.
+tat	tur	Мин үз компьютерымны кулланам.	Ben kendi bilgisayarımı kullanıyorum.
 tat	tur	Мин хат язмыйм.	Bir mektup yazmıyorum.
 tat	tur	Мин хәзер ашыйм.	Ben şimdi yiyorum.
 tat	tur	Мин эшләячәкмен.	Ben çalışacağım.
 tat	tur	Мин ялгызак.	Ben yalnızım.
+tat	tur	Миңа дөресен әйтәгез.	Bana gerçeği söyle.
+tat	tur	Миңа унсигез яшь.	On sekiz yaşındayım.
+tat	tur	Миңа ярдәм кирәк.	Yardıma ihtiyacım var.
+tat	tur	Миңа яшел төс ошый.	Yeşili beğenirim.
 tat	tur	Монда эчә алмыйсың.	Burada içemezsin.
 tat	tur	Моны хәл итә алачагыбызга иманым камил.	Bunu halledebileceğimizden eminim.
 tat	tur	Мостафа Кемал Ататөрк Төркия Җөмһүриятен 1923 елда игълан итте.	Mustafa Kemal Atatürk, 1923'te Türkiye Cumhuriyetini ilan etti.
@@ -295,9 +309,9 @@ tat	tur	Музыка искиткеч яхшы иде.	Müzik harikaydı.
 tat	tur	Мунчагыз саулыкка!	Sihhatler olsun!
 tat	tur	Мэри — Томның үги апасы.	Mary, Tom'un üvey ablasıdır.
 tat	tur	Наданга сүз аңлату дөяне канау аша атлатудан авыррак.	Cahile söz anlatmak deveye hendek atlatmaktan güçtür.
-tat	tur	Ненсины кайда күрдең?	Nancy'yi nerede gÃ¶rdÃ¼n?
 tat	tur	Нәрсәдән?	Neden?
 tat	tur	Нәтиҗәсе булмады.	Sonuç yoktu.
+tat	tur	Ненсины кайда күрдең?	Nancy'yi nerede gÃ¶rdÃ¼n?
 tat	tur	Нигә алар белән каласың?	Neden onlarla kalıyorsun?
 tat	tur	Нигә алар белән калдың?	Neden onlarla kaldın?
 tat	tur	Нигә алар белән калмадың?	Neden onlarla kalmadın?
@@ -306,6 +320,7 @@ tat	tur	Нигә аның белән каласың?	Neden onunla kalıyorsun?
 tat	tur	Нигә аның белән калдың?	Neden onunla kaldın?
 tat	tur	Нигә аның белән калмадың?	Neden onunla kalmadın?
 tat	tur	Нигә аның белән калмыйсың?	Neden onunla kalamazsın?
+tat	tur	Нигә ашамыйсың?	Niye yemiyorsun?
 tat	tur	"Нигә бармыйсың?" - "Теләгем юк".	"Niye varmıyorsun?" - "İsteğim yok".
 tat	tur	Нигә безнең белән калмадың?	Neden bizimle kalmadın?
 tat	tur	Нигә безнең белән калмыйсың?	Neden bizimle kalamazsın?
@@ -317,6 +332,8 @@ tat	tur	Ни хәлләр бар?	Nasılsın?
 tat	tur	Ничә алма?	Kaç elma?
 tat	tur	Ничә алма?	Kaç tane elma var?
 tat	tur	Ничә мәчегез бар?	Kaç kediniz var?
+tat	tur	Оттава — Канаданың башкаласы.	Ottawa, Kanada'nın başkentidir.
+tat	tur	Оттава — Канаданың башкаласы.	Ottawa, Kanada'nın başşehridir.
 tat	tur	Өең кайда?	Eviniz nerede?
 tat	tur	Өең кайда?	Evin nerede?
 tat	tur	Өйдә ризык бармы?	Evde yemek var mı?
@@ -324,8 +341,6 @@ tat	tur	Өйрәтәм.	Öğretiyorum.
 tat	tur	Өстәл астында алма бар.	Sıranın altında bir elma var.
 tat	tur	Өстәлдә алма бар.	Masanın üzerinde bir elma var.
 tat	tur	Өстәлдә алма бар.	Sıranın üzerinde bir elma var.
-tat	tur	Оттава — Канаданың башкаласы.	Ottawa, Kanada'nın başkentidir.
-tat	tur	Оттава — Канаданың башкаласы.	Ottawa, Kanada'nın başşehridir.
 tat	tur	Паркта кеше күп.	Parkta bir sürü kişi var.
 tat	tur	Паркта кеше күп.	Parkta çok fazla kişi var.
 tat	tur	Паркта кеше күп.	Parkta kişi çok.
@@ -341,10 +356,14 @@ tat	tur	Сабыр иткән морадына җиткән.	Sabreden derviş mu
 tat	tur	Сабыр итү авыр, тик җимеше татлы.	Sabır acıdır, meyvası tatlıdır.
 tat	tur	Сакланганны саклармын, ди.	Kaçanın anası ağlamamış.
 tat	tur	Салават күпере җиде төстә.	Gökkuşağı yedi renklidir.
+tat	tur	Самины алты елга төрмәгә утырттылар.	Sami'yi altı yıllığına hapse attılar.
 tat	tur	Саулык вә ләззәт өчен!	Sağlık ve lezzet için!
 tat	tur	Сәгатегез биш минутка алда.	Saatiniz beş dakika ileridir.
 tat	tur	Сәгать җидегә кадәр көтәргә кирәк.	Saat yediye kadar beklemek gerek.
 tat	tur	Сәгать ничә?	Saat kaç?
+tat	tur	Сәлам, исемең ничек?	Merhaba, adın ne?
+tat	tur	Сәлам, минем исемем — Хәмит.	Merhaba, benim adım Hamit.
+tat	tur	Сәлам. Син Джеки Скоттмы?	Merhaba. Sen Jackie Scott musun?
 tat	tur	Сез бәхетлеме?	Mutlu musun?
 tat	tur	Сез бик үк тырышып эшләмәдегез.	Siz pek yeterince çalışıp işlemediniz.
 tat	tur	Сез бик үк тырышып эшләмәдегез.	Siz yeterince çalışmadınız.
@@ -355,9 +374,6 @@ tat	tur	Сез ул хатынны кайда күрдегез?	Kadını nerede 
 tat	tur	"Сез шәкертләрме?" - "Әйе!"	"Siz öğrenci misiniz?" - "Evet!"
 tat	tur	Сез ялгызмы?	Yalnız mısın?
 tat	tur	Сез ялгызмы?	Yalnız mısınız?
-tat	tur	Сәлам, исемең ничек?	Merhaba, adın ne?
-tat	tur	Сәлам, минем исемем — Хәмит.	Merhaba, benim adım Hamit.
-tat	tur	Сәлам. Син Джеки Скоттмы?	Merhaba. Sen Jackie Scott musun?
 tat	tur	Син алма яратасыңмы?	Elmaları sever misin?
 tat	tur	Син аны да уйларга тиешсең.	Sen onu da düşünmelisin.
 tat	tur	Сине кайчан онытачагымны сорама, чөнки кайчан үләсемне белмим.	Seni ne zaman unutacağımı sorma, çünkü ne zaman öleceğimi bilmiyorum.
@@ -381,10 +397,10 @@ tat	tur	Син укучымы (шәкертме, студентмы)?	Sen bir ö
 tat	tur	Син хаклы.	Haklısın.
 tat	tur	Соңгы станция нинди булды?	Son istasyon neydi?
 tat	tur	Сорауга җавап бир.	Soruyu cevapla.
-tat	tur	Сүз бирәм сиңа.	Sana söz veriyorum.
 tat	tur	Сукыр бер тиен дә тормый.	Bu malın kiymeti sıfırdır.
 tat	tur	Суматра — утрау.	Sumatra bir adadır.
 tat	tur	Су эчәргә теләмим.	Su içmek istemiyorum.
+tat	tur	Сүз бирәм сиңа.	Sana söz veriyorum.
 tat	tur	Табиб белән киңәшләшәсем бар.	Biraz doktor tavsiyesine ihtiyacım var.
 tat	tur	Тавыш бирү бик мөһим.	Oy vermek çok önemli.
 tat	tur	Тавышланмагыз.	Gürültü yapmayın.
@@ -392,10 +408,10 @@ tat	tur	Таулар гүзәл.	Dağlar güzel.
 tat	tur	Тәвә кошы йөк ташыганда — кош, очканда — дөя.	Deve kuşu yüke gelince kuş, uçmaya gelince deve.
 tat	tur	Тәкъдиме мантыйклы күренә.	Öneri mantıklı görünüyor.
 tat	tur	Тәкъдимнәрегез бармы?	Hiç önerin var mı?
-tat	tur	Телегезне аңлыйм.	Dilinizi anlayabiliyorum.
-tat	tur	Телеңне аңлыйм.	Dilini anlayabiliyorum.
 tat	tur	Тәмам туйдырдың инде!	Artık sıktın ama!
 tat	tur	Тәмәке тарту - үтергеч!	Sigara içmek öldürür!
+tat	tur	Телегезне аңлыйм.	Dilinizi anlayabiliyorum.
+tat	tur	Телеңне аңлыйм.	Dilini anlayabiliyorum.
 tat	tur	Тере балык су астында йөзәр.	Canlı balık suyun altında yüzer.
 tat	tur	Тере балык су төбендә йөзә.	Canlı balık suyun altında yüzer.
 tat	tur	Тизрәк әйләнеп кайт.	Yakında geri gel.
@@ -405,13 +421,13 @@ tat	tur	Том Австралиягә сәяхәт кылыр өчен акча 
 tat	tur	Том акылдан язган.	Tom aklını kaçırmış.
 tat	tur	Том - алга киткән кеше.	Tom ileri gelen insandır.
 tat	tur	Том - алдынгы карашлы кеше.	Tom ileri gelen insandır.
+tat	tur	Том әле кома хәлендә.	Tom hala komada.
 tat	tur	Том бии алмаслык бик арыган булганын сөйләде.	Tom dans edemeyecek kadar çok yorgun olduğunu söyledi.
 tat	tur	Том бик горурлана ала.	Tom çok gururlu olmalı.
 tat	tur	Том вәгъдәсен үти торган кеше.	Tom vaadinde durmaktadır.
 tat	tur	Томга булышырга тиешбез дип уйлыйм.	Sanırım Tom'a yardımcı olmaya çalışmalıyız.
 tat	tur	Томга илле яшь тула.	Tom’un yaşı elliye vardı.
 tat	tur	Томга ярдәм итәргә тиешбез дип уйлыйм.	Sanırım Tom'a yardımcı olmaya çalışmalıyız.
-tat	tur	Том әле кома хәлендә.	Tom hala komada.
 tat	tur	Том кардәшен бөтенләй белми иде.	Tom kardeşini zaten tanımıyordu.
 tat	tur	Том килешүне имзалады инде.	Tom zaten sözleşmeyi imzaladı.
 tat	tur	Том китабымны кичкә кадәр кайтарам дип алды.	Tom kitabımı akşama geri vermek üzeri aldı.
@@ -438,8 +454,6 @@ tat	tur	Том ялгыз булуына бик шат иде.	Tom yalnız oldu�
 tat	tur	Төне буе кар яуды.	Gece boyunca kar yağdı.
 tat	tur	Тузан туздырмагыз!	Toz kaldırmayın!
 tat	tur	Тыныч йокы!	İyi geceler.
-tat	tur	Үземнең нинди бәхетсез булуымны “Бәхетле”гә кергәч кенә аңладым.	Ancak "Mutlu"yu ziyaret ettiğim vakit mutsuz olduğumu fark ettim.
-tat	tur	Үз уйларын кәгазьгә төшерде.	Düşüncelerini kağıda döktü.
 tat	tur	Уйгур теле — төрки тел.	Uygurca bir Türk dilidir.
 tat	tur	Укымадым.	Okumadım.
 tat	tur	Ул анда җиде ел яши.	Yedi yıldır orada yaşıyor.
@@ -463,13 +477,16 @@ tat	tur	Ул пианинода уйный беләме?	O, piyano çalabiliyor 
 tat	tur	Ул савыт-сабаны чайкатты.	O, bulaşıkları duruladı.
 tat	tur	Ул савыт-сабаны юды.	O, bulaşıkları duruladı.
 tat	tur	Ул Токио университетын тәмамлады.	O, Tokyo Üniversitesi'nden mezun oldu.
+tat	tur	Ул үз бүлмәсендә.	O, kendi odasında.
 tat	tur	Ул физикада тирән йөзә.	O, fizikte iyidir.
 tat	tur	Ул физиканы яхшы белә.	O, fizikte iyidir.
 tat	tur	Ул яңа аяк киеме сатып алды.	O yeni bir ayakkabı satın aldı.
-tat	tur	Уң күзен сул күзеннән көнли.	Sağ gözünü sol gözünden kıskanıyor.
 tat	tur	Ун, унбер, унике, унөч, ундүрт, унбиш, уналты, унҗиде, унсигез, унтугыз, егерме.	On, on bir, on iki, on üç, on dört, on beş, on altı, on yedi, on sekiz, on dokuz, yirmi.
-tat	tur	Үткән заманда яшәмәсәң дә була бит инде.	Geçmişte yaşamaya son vermelisin.
+tat	tur	Уң күзен сул күзеннән көнли.	Sağ gözünü sol gözünden kıskanıyor.
 tat	tur	"Утыз көнлек" дип аталган тел курсларына нәфрәт тотам.	Sözde "30 günlük" dil kurslarından nefret ediyorum.
+tat	tur	Үземнең нинди бәхетсез булуымны “Бәхетле”гә кергәч кенә аңладым.	Ancak "Mutlu"yu ziyaret ettiğim vakit mutsuz olduğumu fark ettim.
+tat	tur	Үз уйларын кәгазьгә төшерде.	Düşüncelerini kağıda döktü.
+tat	tur	Үткән заманда яшәмәсәң дә була бит инде.	Geçmişte yaşamaya son vermelisin.
 tat	tur	Фахишне полициягә китерделәр.	Oğlancı karakola getirildi.
 tat	tur	Физика - фәннең бер бүлеге ул.	Fizik, fenin bir dalıdır.
 tat	tur	Физика - фәннең бер тармагы ул.	Fizik, fenin bir branşıdır.
@@ -481,13 +498,14 @@ tat	tur	Хәерле юл!	Allah yolunu açık etsin!
 tat	tur	Хәлләр ничек?	Nasılsın?
 tat	tur	Һәм Сезгә беркем дә ярдәм итмәдеме?	ve size hiç kimse yardım etmedi mi?
 tat	tur	Һәр нәрсә өчен әзер булуың кирәк.	Her şey için hazır olmak zorundasın.
+tat	tur	Һәр эшнең кимендә ике ягы бар.	Her işin en azından iki tarafı var.
 tat	tur	Чәй эчәбезме?	Çay içelim mi?
-tat	tur	Чемоданыма биш минут күз-колак булып тора алмассызмы?	Beş dakika için valizime göz kulak olabilir misin?
-tat	tur	Чемоданымны биш кенә минут карап тора алмассызмы?	Beş dakika için valizime bakabilir misin?
 tat	tur	Чәч алдырырга теләмим.	Saçımı kesmek istemiyorum.
 tat	tur	Чәчемне кистерергә теләмим.	Saçımı kesmek istemiyorum.
 tat	tur	Чәчен алдырма!	Saçını kesme!
 tat	tur	Чәчен кистермә!	Saçını kesme!
+tat	tur	Чемоданыма биш минут күз-колак булып тора алмассызмы?	Beş dakika için valizime göz kulak olabilir misin?
+tat	tur	Чемоданымны биш кенә минут карап тора алмассызмы?	Beş dakika için valizime bakabilir misin?
 tat	tur	Чын күңелдән рәхмәт әйтәм.	Yürekten teşekkür ederim.
 tat	tur	Чынлыкта, мин бернәрсә дә тәкъдим итмим.	Aslında, ben bir şey önermiyorum.
 tat	tur	Чытма йөзеңне, зинһар өчен, әй назлы һилял!	Çatma, kurban olayım çehreni ey nazlı hilâl!

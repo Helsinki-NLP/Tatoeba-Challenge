@@ -430,16 +430,16 @@ fra	kab	Attention aux chutes de pierres.	Ḥader anda i d-ɣellin yiẓra.
 fra	kab	Attention aux imitations.	Ḥader aḥaki.
 fra	kab	Attention ! C'est probablement dangereux.	Ɣur-k ! Yezmer ad yili d amihan.
 fra	kab	Attention, chien mordant !	Ḥadret aqjun!
+fra	kab	Attention !	Ɣurek!
 fra	kab	Attention !	Ḥader!
 fra	kab	Attention, il griffe !	Balak, ixebbec!
-fra	kab	Attention, il griffe !	Ḥader, ixebbec!
 fra	kab	Attention, il griffe !	Ɣuṛ-k, ixebbec!
+fra	kab	Attention, il griffe !	Ḥader, ixebbec!
 fra	kab	Attention, il y a une vache sur la route !	Ḥader, atta tfunast deg ubrid.
 fra	kab	Attention! Les portes vont se fermer!	Ɣuṛwat! Ad medlent tebbura!
 fra	kab	Attention! Les portes vont se fermer!	Ɣuṛwat! Ad medlent teggura!
 fra	kab	Attention! Les portes vont se fermer!	Ɣuṛwat! Ad medlent tewwura!
 fra	kab	Attention ! Ne te mêle pas.	Haa! ur ggar ara iman-ik.
-fra	kab	Attention !	Ɣurek!
 fra	kab	Attrape le bout de cette corde !	Ṭṭef-d ixef n wemrar-a.
 fra	kab	Attrape-le.	Ṭṭef-it-id.
 fra	kab	Attrapez-le.	Ṭṭfet-it-id.
@@ -3056,8 +3056,8 @@ fra	kab	Elle a trouvé qu'elle peut compter sur elle.	Tufa tezmer ad tettkel fel
 fra	kab	Elle attendait ça avec impatience.	Tella tettraǧu aya s ccuq.
 fra	kab	Elle attend son retour.	Tettraju-t ad d-yuɣal.
 fra	kab	Elle attend un bébé pour juin.	Ad tarew deg yunyu.
-fra	kab	Elle a un charme subtil.	Tesεa kra n wenzaḍ n sser.
 fra	kab	Elle a un charme subtil.	Ɣur-s yiwen n sser d areggal.
+fra	kab	Elle a un charme subtil.	Tesεa kra n wenzaḍ n sser.
 fra	kab	Elle a un chat. Ce chat est blanc.	Tesεa amcic. Amcic-a d amellal.
 fra	kab	Elle a une leçon de piano une fois par semaine.	Ɣur-s tamsirt n wepyanu abrid i ssmana.
 fra	kab	Elle aura à balayer le parterre, l'étable et la cours.	Ad tenneḍ tiɣreɣrin, addaynin d ufrag.
@@ -3341,8 +3341,8 @@ fra	kab	Elle m'a tressé les cheveux.	Teksa-yi acekkuḥ-iw.
 fra	kab	Elle m'a trouvé une bonne place.	Tufa-yi-d amkan n lεali.
 fra	kab	Elle m'a volé mes vêtements !	Tuker-iyi iceṭṭiḍen-iw !
 fra	kab	Elle médite.	Tettmeggiz.
-fra	kab	Elle me fait de la peine.	Tɣaḍ-iyi.
 fra	kab	Elle me fait de la peine.	Tegzem tasa-w.
+fra	kab	Elle me fait de la peine.	Tɣaḍ-iyi.
 fra	kab	Elle me l'a dit.	Tenna-yi-t-id.
 fra	kab	Elle mélangea du poison au gâteau.	Texleḍ abeεduj deg tgaṭiwt-nni.
 fra	kab	Elle me les a prises.	Tewwi-yi-tent.
@@ -6239,8 +6239,8 @@ fra	kab	Ils font tout pour lui ressembler.	Kkaten akk ad d-cbun deg-s.
 fra	kab	Ils fournirent à la bibliothèque de nombreux bouquins.	Aṭas n tektabin i d-fkan i temkerḍit.
 fra	kab	Ils furent frappés de surprise en apprenant sa démission.	Twehhmen mi slan yeṭṭaxer.
 fra	kab	Ils furent mis en prison.	Gran-ten ɣer lḥebs.
-fra	kab	Ils furent pour ainsi dire victimes de la guerre.	Ruḥen d tisɣa n ṭṭraḍ, ma nenna-tt-id akka.
 fra	kab	Ils furent pour ainsi dire victimes de la guerre.	Ruḥen d tiɣtas umgaru, ma nzemer ad d-nini akka.
+fra	kab	Ils furent pour ainsi dire victimes de la guerre.	Ruḥen d tisɣa n ṭṭraḍ, ma nenna-tt-id akka.
 fra	kab	Ils furent surpris par ce qu'ils virent.	Nneqmasen seg ayen i walan.
 fra	kab	Ils iront à l'hôpital.	Ad ṛuḥen ar sbiṭeṛ.
 fra	kab	Ils iront en enfer.	Ad ruḥen ɣer ǧǧahennama.
@@ -6248,8 +6248,8 @@ fra	kab	Ils jasèrent jusqu'au petit matin.	Cceɣnen armi d ṣṣbeḥ.
 fra	kab	Ils l'accusèrent d'avoir volé le vélo.	Ssukren-t deg uvilu.
 fra	kab	Ils la découvrirent.	Ufan-tt-id.
 fra	kab	Ils lavèrent les pommes de terre.	Ssarden lbaṭaṭa.
-fra	kab	Ils le détestent.	Kerhen-t.
 fra	kab	Ils le détestent.	Ɣuccen-t.
+fra	kab	Ils le détestent.	Kerhen-t.
 fra	kab	Ils le font plus rapidement que nous.	Nutni i t-ixeddmen s tɣawla wala nekni.
 fra	kab	Ils le frappèrent d’un baton.	Wwten-t s uɛekkaz.
 fra	kab	Ils le recherchent.	Ttḥufun-t.
@@ -6261,8 +6261,8 @@ fra	kab	Ils les voient d’un mauvais œil.	Ttwalin-ten-id s yir tiṭ.
 fra	kab	Ils leur ont répondu par oui.	Rran-asen s ih.
 fra	kab	Ils leur tenaient compagnie chaque jour.	Ttwanasen-tent yal ass.
 fra	kab	Ils leur tenaient compagnie chaque jour.	Ttwanasen-ten yal ass.
-fra	kab	Ils lisent des journaux et des livres.	Qqaren ijernanen d idlisen.
 fra	kab	Ils lisent des journaux et des livres.	Qqaren iɣmisen d idlisen.
+fra	kab	Ils lisent des journaux et des livres.	Qqaren ijernanen d idlisen.
 fra	kab	Ils l'ont abandonné.	Ǧǧan-t.
 fra	kab	Ils l'ont cherché partout mais ne l'ont pas trouvé.	Eǧǧ anda ur t-nudan, ur t-ufin ara.
 fra	kab	Ils l'ont démasqué.	Faqen-as.
@@ -6571,8 +6571,8 @@ fra	kab	Ils vendent des tapis anciens.	Znuzun tiẓerbiyin tiqdimin.
 fra	kab	Ils veulent aider.	Bɣan ad d-εawnen.
 fra	kab	Ils veulent bien faire les choses.	Bɣan ad xedmen kra akken ilaq.
 fra	kab	Ils veulent bien faire les choses.	Ran ad gen tiɣawsiwin akken ilaq.
-fra	kab	Ils veulent nous laver nos cerveaux.	Bɣan ad sirden allaɣ-nneɣ.
 fra	kab	Ils veulent nous laver nos cerveaux.	Bɣan ad ɣ-sirden allaɣ-nteɣ.
+fra	kab	Ils veulent nous laver nos cerveaux.	Bɣan ad sirden allaɣ-nneɣ.
 fra	kab	Ils veulent nous laver nos cerveaux.	Bɣan ad sirden allaɣ-nteɣ.
 fra	kab	Ils viennent juste d'arriver ?	Tura kan dɣa i d-wwḍen?
 fra	kab	Ils viennent juste de le croiser.	Melmi kan i t-id-mlalen.
@@ -7025,8 +7025,8 @@ fra	kab	J'ai des cadeaux pour toi.	Wwiɣ-ak-d kra n yisefken.
 fra	kab	J'ai des difficultés à dormir la nuit.	Sgumiɣ ad ṭṭseɣ deg yiḍ.
 fra	kab	J'ai des factures à payer.	Sεiɣ tifakturin ara xellṣeɣ.
 fra	kab	J'ai des informations.	Sεiɣ isallen.
-fra	kab	J'ai des milliards de dollars.	Sεiɣ imelyaren n yidularen.
 fra	kab	J'ai des milliards de dollars.	Ɣur-i imelyaren n yidularen.
+fra	kab	J'ai des milliards de dollars.	Sεiɣ imelyaren n yidularen.
 fra	kab	J'ai des nausées.	Ttemεukkureɣ.
 fra	kab	J'ai des nausées.	Yuli-yi-d uɣujbu.
 fra	kab	J'ai désormais un autre boulot.	Tura xeddmeɣ anda nniḍen.
@@ -7273,8 +7273,8 @@ fra	kab	J'aime le dimanche.	Ḥemmleɣ ass n lḥedd.
 fra	kab	J'aime le poulet.	Ḥemmleɣ ayaziḍ yewwan.
 fra	kab	J'aime les chansons populaires.	Ḥemmleɣ tuɣac tiɣerfanin.
 fra	kab	J'aime les chaussures légères.	Ḥemmleɣ isebbaḍen xfifen.
-fra	kab	J'aime les chiens.	Ԑeǧben-iyi yeqjan.
 fra	kab	J'aime les chiens.	Ḥemmleɣ iḍan.
+fra	kab	J'aime les chiens.	Ԑeǧben-iyi yeqjan.
 fra	kab	J'aime les filles.	Ḥemmleɣ tiqcicin.
 fra	kab	J'aime les filles.	Ḥemmleɣ tullas.
 fra	kab	J'aime les histoires qui finissent mal.	Ḥemmleɣ tiqsiḍin ur nettfaka akken yelha.
@@ -8562,8 +8562,8 @@ fra	kab	Je n'en ai qu'une, jusqu'à présent.	Ar tura, ɣur-i yiwet kan.
 fra	kab	Je n'en ai qu'une, jusqu'à présent.	Yiwet kan i sεiɣ taswiεt-a.
 fra	kab	Je n'en crois pas mes oreilles.	Ur umineɣ ayen iwumi sliɣ.
 fra	kab	Je n'en dirai pas davantage.	Ur d-qqaṛeɣ ugar n waya.
-fra	kab	Je n'en parle pas.	Ur heddṛeɣ ara ɣef annect-a.
 fra	kab	Je n'en parle pas.	Ur heddṛeɣ ara fell-as.
+fra	kab	Je n'en parle pas.	Ur heddṛeɣ ara ɣef annect-a.
 fra	kab	Je n'en suis pas certaine.	Ur tḥeqqeɣ ara.
 fra	kab	Je n'en suis pas fière.	Mačči d ayen swayes ara zuxxeɣ.
 fra	kab	Je n'en suis pas si convaincu.	Ur ttuqennεeɣ ara mliḥ.
@@ -9288,8 +9288,8 @@ fra	kab	Je sais exactement où je veux me rendre.	Ẓriɣ swaswa anda bɣiɣ ad 
 fra	kab	Je sais garder un secret.	Zemreɣ ad ḥerzeɣ tabaḍnit.
 fra	kab	Je sais jouer du piano.	Ssneɣ ad urareɣ s upianu.
 fra	kab	Je sais où elles seront cet après-midi.	Ԑelmeɣ anda ara ilint tameddit-a.
-fra	kab	Je sais où tu gardes ton arme.	Ԑelmeɣ anda tetteffreḍ sslaḥ-im.
 fra	kab	Je sais où tu gardes ton arme.	Ẓriɣ anda tetteffreḍ amrig-ik.
+fra	kab	Je sais où tu gardes ton arme.	Ԑelmeɣ anda tetteffreḍ sslaḥ-im.
 fra	kab	Je sais pourquoi tu l'as fait.	Ẓriɣ iwacu txedmeḍ akken.
 fra	kab	Je sais que cela ne se reproduira pas.	Ẓriɣ d ayen ur nettεawad ad d-yeḍru.
 fra	kab	Je sais que c'en est fini pour Tom.	Ẓriɣ belli Tom tekfa fell-as.
@@ -9311,8 +9311,8 @@ fra	kab	Je sais que tu m’aimes, mais je ne veux pas être seulement prisonniè
 fra	kab	Je sais que tu me tenais pour une amie proche.	Ẓriɣ telliḍ telliḍ tḥesbeḍ-iyi d tamdakelt n ṣṣeḥ.
 fra	kab	Je sais que tu n'es pas sérieuse.	Ẓriɣ mačči s wul-im.
 fra	kab	Je sais que tu prendras la bonne décision.	Ẓriɣ d rray n lεali ara teṭṭfeḍ.
-fra	kab	Je sais que tu te caches derrière le rideau.	Ԑelmeɣ deffir uridu i teffreḍ.
 fra	kab	Je sais que tu te caches derrière le rideau.	Ẓriɣ teffreḍ deffir uridu.
+fra	kab	Je sais que tu te caches derrière le rideau.	Ԑelmeɣ deffir uridu i teffreḍ.
 fra	kab	Je sais que tu te sens mal.	Ẓriɣ tettḥulfuḍ iman-ik deg yir taswiεt.
 fra	kab	Je sais que tu te sens mal.	Ẓriɣ ur telliḍ ara bxiṛ.
 fra	kab	Je sais que tu te sens mal.	Ẓriɣ ur tgerrzeḍ ara.
@@ -9436,8 +9436,8 @@ fra	kab	Je suis arrivé à la gare ce matin.	Ṣṣbeḥ-a i d-wwḍeɣ ɣer te�
 fra	kab	Je suis arrivé dernier.	Uwḍeɣ d aneggaru.
 fra	kab	Je suis arrivée à Narita avant-hier.	Wwḍeɣ sendiḍelli ɣer Narita.
 fra	kab	Je suis arrivé la nuit où il est parti.	Wwḍeɣ-d iḍ-nni mi iruḥ.
-fra	kab	Je suis arrivé un peu en retard.	Ԑeṭṭleɣ acemma mi d-wwḍeɣ.
 fra	kab	Je suis arrivé un peu en retard.	Wwḍeɣ-d εeṭṭleɣ acemma.
+fra	kab	Je suis arrivé un peu en retard.	Ԑeṭṭleɣ acemma mi d-wwḍeɣ.
 fra	kab	Je suis aussi choqué que toi.	Akken txelεeḍ i xelεeɣ.
 fra	kab	Je suis aussi choqué que toi.	Ula d nekk xelεeɣ am kečč.
 fra	kab	Je suis avec eux.	Aql-i yid-sen.
@@ -9835,10 +9835,10 @@ fra	kab	Je t'apporterai quelque chose à manger.	Ad m-d-awiɣ kra ad t-tečče�
 fra	kab	Je t'avais dit que Thomas ne comprendrait pas.	Yak nniɣ-ak ur ifehhem ara Thomas.
 fra	kab	Je t'avais prévenu de ne pas venir ici.	Nniɣ-ak-d ur d-ttas ara ɣer da.
 fra	kab	Je te défie!	Cqerrweɣ-k!
-fra	kab	Je te déteste.	Keṛheɣ-k.
-fra	kab	Je te déteste.	Keṛheɣ-kem.
 fra	kab	Je te déteste.	Ɣucceɣ-k.
 fra	kab	Je te déteste.	Ɣucceɣ-kem.
+fra	kab	Je te déteste.	Keṛheɣ-k.
+fra	kab	Je te déteste.	Keṛheɣ-kem.
 fra	kab	Je te dois un déjeuner.	Tettalaseḍ-iyi lefḍur.
 fra	kab	Je te dois un dîner.	Tettalaseḍ-iyi imensi.
 fra	kab	Je te dois un dîner.	Tettsayaleḍ-iyi imensi.
@@ -12533,11 +12533,11 @@ fra	kab	Mayas est un responsable corrompu.	Mayas d amasay ameggafsu.
 fra	kab	Mayas est un secrétaire administratif.	Mayas d amaray adeblan.
 fra	kab	Mayas est un secrétaire général.	Mayas d amaray amatu.
 fra	kab	Mayas est un témoin corrompu.	Mayas d anagi ameggafsu.
-fra	kab	Maziɣ a terminé ses études.	Maziɣ ifukk-d tizrawin-is.
 fra	kab	Maziǧh aime monter à vélo.	Yeḥmmel Maziɣ ad yenher azlalam.
 fra	kab	Mazigh est parti à Bougie.	Maziɣ iruḥ ɣer Bgayet.
 fra	kab	Mazigh est un homme maintenant.	Maziɣ, tura d argaz.
 fra	kab	Mazigh veut émigrer au Canada.	Maziɣ yebɣa ad inig ɣer kanada.
+fra	kab	Maziɣ a terminé ses études.	Maziɣ ifukk-d tizrawin-is.
 fra	kab	Me confieras-tu le secret ?	Ad yi-d-temleḍ ufur-nni ?
 fra	kab	Me confierez-vous le secret ?	Ad yi-d-temleḍ sser-nni?
 fra	kab	Me crois-tu, maintenant ?	Tumneḍ tura?
@@ -13015,8 +13015,8 @@ fra	kab	Ne pousse pas les limites.	Ur ttεeddi ara tilas.
 fra	kab	Ne pouvez-vous voir que je suis occupé ?	Ur tettwaliḍ ara belli ceɣleɣ?
 fra	kab	Ne prends pas ce qui ne t’appartient pas.	Ur reffed ara ayen ur tettayaleḍ.
 fra	kab	Ne prête pas de livres : personne ne les rend jamais. Les seuls livres que j'ai dans ma bibliothèque sont des livres qu'on m'a prêtés.	Ur reṭṭel ara idlisen: yiwen ur ten-id-yettarra. Idlisen i yesεiɣ deg temkarḍit-iw d idlisen kan iyi-d-reḍlen.
-fra	kab	Ne quitte pas Tom des yeux.	Ur d-tekkes ara allen-ik si Tom.
 fra	kab	Ne quitte pas Tom des yeux.	Ɣur-k ad tɣefleḍ ɣef Tom.
+fra	kab	Ne quitte pas Tom des yeux.	Ur d-tekkes ara allen-ik si Tom.
 fra	kab	Ne quittez pas.	Ur gezzem ara.
 fra	kab	Ne reconnaissez-vous pas Tom ?	Ur teɛqileḍ ara Tom?
 fra	kab	Ne reconnais-tu pas ce type ?	Ur teεqileḍ ara wihin?
@@ -13981,8 +13981,8 @@ fra	kab	Ont-ils connaissance de notre existence ?	Ԑelmen yess-neɣ?
 fra	kab	Ont-ils dit ce qui s'est produit ?	Nnan-d d acu yeḍran?
 fra	kab	Ont-ils habité ici ?	Zedɣen da yakan?
 fra	kab	Ont-ils un ordinateur ?	Sεan aselkim?
-fra	kab	On tire à pile ou face ?	Ad nger tasɣart?
 fra	kab	On tire à pile ou face ?	Ad nger taseqqart?
+fra	kab	On tire à pile ou face ?	Ad nger tasɣart?
 fra	kab	On trottine puis on rampe.	Deg ucrured ɣer uḥrured.
 fra	kab	On trouve toujours de l'argent quand il s’agit d’aller faire tuer des hommes sur la frontière ; il n’y en a plus quand il faut les sauver.	Akken ad ceyyεen wara yenɣen medden ɣur tlisa n tmurt, llan yidrimen ; ma iwakken ad ten-id-isellek yiwen, ulac.
 fra	kab	On va devoir s'y habituer.	Ilaq ad nwalef.
@@ -15763,8 +15763,8 @@ fra	kab	Serai-je en mesure de la trouver ?	Zemreɣ ad tt-afeɣ?
 fra	kab	Serait-elle souffrante?	Wissen ma tuḍen?
 fra	kab	Se rend-il en bus à l'école ?	S lkar i yettruḥ ɣer uɣerbaz?
 fra	kab	Serre les dents.	Ẓeyyer tuɣmas-ik.
-fra	kab	Serre-moi dans tes bras !	Ԑebber-iyi-id.
 fra	kab	Serre-moi dans tes bras !	Ḥemmeẓ-iyi-n.
+fra	kab	Serre-moi dans tes bras !	Ԑebber-iyi-id.
 fra	kab	Serrez-lui la main.	Efk-as afus-ik.
 fra	kab	Sers-t'en tant que tu en as besoin.	Ddem ayen tuḥwaǧeḍ.
 fra	kab	Servez-vous s'il vous plaît.	Ddem acu tebɣiḍ.
@@ -16139,9 +16139,9 @@ fra	kab	Sortez de la classe.	Ffeɣ-d seg tneɣrit.
 fra	kab	Sortez de ma vie !	Ffeɣ si tudert-iw!
 fra	kab	Sortez de ma vie !	Ffɣet si tudert-iw!
 fra	kab	Sortez d'ici.	Ffɣet sya.
+fra	kab	Sortez !	Ffeɣt-iyi.
 fra	kab	Sortez !	Ffɣet!
 fra	kab	Sortez.	Ffɣet.
-fra	kab	Sortez !	Ffeɣt-iyi.
 fra	kab	Sortez ! Je ne veux plus vous parler !	Ffɣet! Ur bɣiɣ ara ad heḍṛeɣ yid-wen!
 fra	kab	Sortez les mains de vos poches !	Kkes-d ifassen-ik seg leǧyub!
 fra	kab	Sortez les mains de vos poches !	Kkset ifassen-nwen seg leǧyub!
@@ -17786,10 +17786,10 @@ fra	kab	Vis et apprends.	Idir, tlemdeḍ.
 fra	kab	Vis la journée sans te soucier ni d’hier ou ni de demain.	Idir ass-a, ur k-tuqiɛ la deg yiḍelli la deg uzekka.
 fra	kab	Vis maintenant!	Idir tura!
 fra	kab	Vis-tu dans cette cité universitaire ?	Deg taɣremt-a tasdawant i tzedɣeḍ?
-fra	kab	Vite!	Hala!
 fra	kab	Vite!	Ɣiwel!
 fra	kab	Vite.	Ɣiwel.
 fra	kab	Vite!	Ɣṣeb!
+fra	kab	Vite!	Hala!
 fra	kab	Vite!	Zrev !
 fra	kab	Vive la liberté !	Tudert i tlelli!
 fra	kab	Vivre en ville est assez différent de vivre à la campagne.	Mačči kifkif win iεacen deg temdint neɣ deg tmurt.
@@ -17956,12 +17956,12 @@ fra	kab	Vous avez réussi !	Trebḥem!
 fra	kab	Vous avez sept enfants.	Tesɛam sebɛa n warrac.
 fra	kab	Vous avez tous l'air en forme.	Tettbinem-d tgerrzem akk.
 fra	kab	Vous avez tous l'air en forme.	Waqil tṣeḥḥam merra.
-fra	kab	Vous avez tout.	Tesεiḍ kullec.
 fra	kab	Vous avez tout.	Ɣur-k kullec.
 fra	kab	Vous avez tout.	Ɣur-m kullec.
+fra	kab	Vous avez tout.	Tesεiḍ kullec.
 fra	kab	Vous avez une autre chance, même si vous échouez cette fois-ci.	Mazal ɣur-k tagnit-iḍen, ɣas ad txesreḍ abrid-a.
-fra	kab	Vous avez une imagination fertile.	Tesεiḍ kra usugen d anakkaf.
 fra	kab	Vous avez une imagination fertile !	Ɣur-k kra usugen d anakkaf.
+fra	kab	Vous avez une imagination fertile.	Tesεiḍ kra usugen d anakkaf.
 fra	kab	Vous avez une maladie du cœur.	Tuḍneḍ yiwen waṭṭan n wul.
 fra	kab	Vous avez vraiment froid !	Yenɣa-kent usemmiḍ s tidet!
 fra	kab	Vous avez vraiment froid !	Yenɣa-ken usemmiḍ s tidet!

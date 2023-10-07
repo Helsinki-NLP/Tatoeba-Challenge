@@ -1,4 +1,6 @@
 kor	cmn_Hans	왜?	为什么？
+kor	cmn_Hans	나는 꽃을 샀다.	我买了花。
+kor	cmn_Hant	응.	嗯。
 kor_Hang	cmn_Hans	이 회색곰은 무게가 0.5톤이나 돼.	这只灰熊有0.5吨重。
 kor_Hang	cmn_Hans	이 책은 1689년에 출판되었다.	这本书出版于1689年。
 kor_Hang	cmn_Hans	나는 1분 차이로 기차를 놓쳤다.	我以一分之差错过了那趟火车。
@@ -15,9 +17,9 @@ kor_Hang	cmn_Hans	물가를 조사하기 위하여 위원회 하나가 설립되
 kor_Hang	cmn_Hans	왜 아니야?	为什么不？
 kor_Hang	cmn_Hans	그가 왜 화났어?	为什么他生气？
 kor_Hang	cmn_Hans	왜 나야?	为什么是我？
-kor_Hang	cmn_Hans	오늘 우리 각자 냅시다.	今天我们AA制吧。
-kor_Hang	cmn_Hans	오늘 우리 각자 계산합시다.	今天我们AA制吧。
 kor_Hang	cmn_Hans	오늘 우리 더치페이합시다.	今天我们AA制吧。
+kor_Hang	cmn_Hans	오늘 우리 각자 계산합시다.	今天我们AA制吧。
+kor_Hang	cmn_Hans	오늘 우리 각자 냅시다.	今天我们AA制吧。
 kor_Hang	cmn_Hans	그중 하나를 고르세요.	从中选一个。
 kor_Hang	cmn_Hans	그들은 떠났어.	他们离开了。
 kor_Hang	cmn_Hans	그는 큰 책임감을 느낀다.	他感觉到了责任重大。
@@ -27,8 +29,8 @@ kor_Hang	cmn_Hans	만족스러운 삶의 영위는 간단한 질문에서부터 
 kor_Hang	cmn_Hans	그들사이의 두터운 정을 보여준다. (반영한다)	体现了 彼此间 深厚的 感情.
 kor_Hang	cmn_Hans	너 왜 울어?	你为什么哭？
 kor_Hang	cmn_Hans	너 왜 화났어?	你为什么生气？
-kor_Hang	cmn_Hans	왜 거짓말 하는거야?	你为什么说谎？
 kor_Hang	cmn_Hans	왜 거짓말을 해요?	你为什么说谎？
+kor_Hang	cmn_Hans	왜 거짓말 하는거야?	你为什么说谎？
 kor_Hang	cmn_Hans	넌 잘못된 예를 든거야.	你举了一个不好的例子。
 kor_Hang	cmn_Hans	결정 했니?	你决定好了吗？
 kor_Hang	cmn_Hans	너는 언제 아침식사를 하니?	你几点吃早餐？
@@ -139,8 +141,8 @@ kor_Hang	cmn_Hans	모든 사람들이 두번째 기회를 받아 마땅하다.	�
 kor_Hang	cmn_Hans	톰은 자기가 바쁘다고 메리한테 말할 거야.	汤姆会和玛丽说他很忙。
 kor_Hang	cmn_Hans	톰은 빨리 움직이네.	汤姆动得好快。
 kor_Hang	cmn_Hans	톰은 메리라는 캐나다 사람이랑 결혼했어.	汤姆和一个叫玛丽的加拿大人结婚了。
-kor_Hang	cmn_Hans	톰이랑 같이 있어?	汤姆和你在一起吗？
 kor_Hang	cmn_Hans	톰이랑 같이 있었어?	汤姆和你在一起吗？
+kor_Hang	cmn_Hans	톰이랑 같이 있어?	汤姆和你在一起吗？
 kor_Hang	cmn_Hans	톰이 메리가 내일 떠난다고 나한테 말했어.	汤姆和我说明天玛丽会离开。
 kor_Hang	cmn_Hans	톰, 당신에게 행복이란 무엇입니까?	汤姆，对你而言幸福是什么呢？
 kor_Hang	cmn_Hans	톰은 아주 나쁜 사람이야.	汤姆是个非常坏的人。
@@ -184,14 +186,14 @@ kor_Hang	cmn_Hans	이 상자를 열어주세요.	请打开箱子。
 kor_Hang	cmn_Hans	저를 사랑해 주세요.	请爱我吧。
 kor_Hang	cmn_Hans	조금만 기다려 주시기 바랍니다.	请稍等一会。
 kor_Hang	cmn_Hans	시카고 왕복표 한 장 주세요.	请给我一张芝加哥的往返票。
-kor_Hang	cmn_Hans	저놈 잡아라!	谁来抓住他！
 kor_Hang	cmn_Hans	저사람좀 잡아주세요.	谁来抓住他！
+kor_Hang	cmn_Hans	저놈 잡아라!	谁来抓住他！
 kor_Hang	cmn_Hans	이걸 조사해봐.	调查下这个。
 kor_Hang	cmn_Hans	소프트웨어는 끊임없이 진화하고 있어.	软件正在不断进化。
 kor_Hang	cmn_Hans	이번 주말에 뭐 먹고 싶어요?	这个周末你想吃什么？
 kor_Hang	cmn_Hans	이곳의 분위기는 매우 신비하다.	这个地方的气氛很神秘。
-kor_Hang	cmn_Hans	이 꽃들은 물이 필요하다. 잎들이 벌써 시들었다.	这些花的叶子都枯了，得给它们浇水了。
 kor_Hang	cmn_Hans	꽃에 물을 줘야겠다. 잎들이 벌써 시들었다.	这些花的叶子都枯了，得给它们浇水了。
+kor_Hang	cmn_Hans	이 꽃들은 물이 필요하다. 잎들이 벌써 시들었다.	这些花的叶子都枯了，得给它们浇水了。
 kor_Hang	cmn_Hans	참 귀여운 아기구나!	这娃儿真可爱！
 kor_Hang	cmn_Hans	이 산은 일년 내내 눈으로 덮여 있다.	这座山全年覆盖着雪。
 kor_Hang	cmn_Hans	이거 무슨 냄새지?	这是什么气味？
@@ -215,8 +217,8 @@ kor_Hang	cmn_Hant	자꾸 귀찮게 해서 미안해.	一直打扰你不好意思
 kor_Hang	cmn_Hant	지난 주말에 산으로 소풍을 갔다.	上周末我爬山去了。
 kor_Hang	cmn_Hant	지난 방학 때 뭐 했어요?	上次放假時，做了什麼?
 kor_Hang	cmn_Hant	안녕하세요.	下午好。
-kor_Hang	cmn_Hant	아냐.	不是。
 kor_Hang	cmn_Hant	아니에요.	不是。
+kor_Hang	cmn_Hant	아냐.	不是。
 kor_Hang	cmn_Hant	이 세상의 교육이 나를 실망시켜요.	世界上的教育都讓我失望。
 kor_Hang	cmn_Hant	오늘은 내 생일이야.	今天是我生日。
 kor_Hang	cmn_Hant	오늘 밤 하늘에는 별들이 아주 밝게 빛나고 있어.	今晚的夜空星光非常明亮。
@@ -242,9 +244,9 @@ kor_Hang	cmn_Hant	나중에 친구랑 같이 영화 보러 갈거다.	後來，�
 kor_Hang	cmn_Hant	어디에서 태어나셨습니까?	您是在哪儿出生的呢？
 kor_Hang	cmn_Hant	난 죽음이 두렵지 않다.	我不怕死。
 kor_Hang	cmn_Hant	더이상 어떻게 해야할지 모르겠어.	我不知所措
-kor_Hang	cmn_Hant	난 몰라.	我不知道。
-kor_Hang	cmn_Hant	나는 몰라요.	我不知道。
 kor_Hang	cmn_Hant	모르겠어요.	我不知道。
+kor_Hang	cmn_Hant	나는 몰라요.	我不知道。
+kor_Hang	cmn_Hant	난 몰라.	我不知道。
 kor_Hang	cmn_Hant	시간 있는지 잘 모르겠어요.	我不知道我有沒有時間。
 kor_Hang	cmn_Hant	난 아직도 기억이 생생해.	我仍然記憶猶新。
 kor_Hang	cmn_Hant	나는 산에 있었어.	我以前在山里。
@@ -409,3 +411,7 @@ kor_Hang	yue_Hant	커피 한 잔 어떠세요?	飲杯咖啡好無？
 kor_Hang	yue_Hant	왜 거짓말을 해요?	點解你講大話？
 kor_Latn	cmn_Hans	Muiriel은 지금 20살입니다.	Muiriel现在20岁了。
 kor_Latn	cmn_Latn	생일 축하해 Muiriel!	生日快乐，Muiriel！
+kor	yue_Hans	언제 말레이시아로 돌아갈까요?	你幾時返馬来西亞？
+kor	yue_Hans	다음주 말레이시아로 돌아갈게요.	我下個禮拜返馬来西亞。
+kor	yue_Hant	왜 학교에 가지 않니?	點解你唔返學？
+kor	yue_Hant	왜 광동어를 배웠습니까?	點解你學廣東話？

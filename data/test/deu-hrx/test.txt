@@ -96,8 +96,10 @@ deu	hrx_Latn	Die Statue hat keinen Kopf.	Die Statua hod keen Kopp.
 deu	hrx_Latn	Du auch?	Du aach?
 deu	hrx_Latn	Du bist ein Anfänger.	Du bist en Aanfenger.
 deu	hrx_Latn	Du bist ein guter Zuhörer.	Du bist en guder Laustrer.
+deu	hrx_Latn	Du bist nicht krank.	Du bist net krank.
 deu	hrx_Latn	Du bist noch Anfänger.	Du bist noch Aanfenger.
 deu	hrx_Latn	Du musst kämpfen!	Du musst kemfe!
+deu	hrx_Latn	Du musst sie vergessen.	Du musst se fergesse.
 deu	hrx_Latn	Du solltest das Licht anmachen.	Du solldst das Licht aanmache.
 deu	hrx_Latn	Du trinkst zu viel Kaffee.	Du drinkst zu fiel Kaffi.
 deu	hrx_Latn	Ein Achteck hat acht Ecken und acht Seiten.	En Achteck hod acht Ecke un acht Seite.
@@ -133,6 +135,7 @@ deu	hrx_Latn	Es ist das erste Mal, dass ich alle Tische abputze.	Es is das eerst
 deu	hrx_Latn	Es ist ganz dunkel.	Es is ganz dunkel.
 deu	hrx_Latn	Es ist genau Mitternacht.	Es is genau Hallebnacht.
 deu	hrx_Latn	Es ist genug!	Es is genugh!
+deu	hrx_Latn	Es ist Mittag und das Gras immer noch nass.	Es is Mittach un die Gramme sin immer noch nass.
 deu	hrx_Latn	Es ist Mitternacht.	Es is Hallebnacht.
 deu	hrx_Latn	Es ist passiert.	Es is basseerd.
 deu	hrx_Latn	Es ist schon Mitternacht.	Es is schun Hallebnacht.
@@ -215,6 +218,7 @@ deu	hrx_Latn	Ich habe Gott getötet.	Ich hon Gott dotgemach.
 deu	hrx_Latn	Ich habe Gott getötet.	Ich hon Gott umgebrung.
 deu	hrx_Latn	Ich habe Kopfweh.	Ich hon Koppweh.
 deu	hrx_Latn	Ich habe mich entschieden.	Ich hon mich entschloss.
+deu	hrx_Latn	Ich hasse Esperanto.	Ich hasse Esperanto.
 deu	hrx_Latn	Ich hätte gerne fünf Ananas.	Ich häd gern finnef Abakaschi.
 deu	hrx_Latn	Ich hätte gerne fünf Ananas.	Ich häd gern finnef Annase.
 deu	hrx_Latn	Ich heiße Hisashi.	Ich heese Hisashi.
@@ -271,6 +275,7 @@ deu	hrx_Latn	Ich will wissen, wer du bist.	Ich will wisse, wer du bist.
 deu	hrx_Latn	Ich will wissen, wer ihr seid.	Ich will wisse, wer deer seid.
 deu	hrx_Latn	Ich wollte kämpfen.	Ich wolld kemfe.
 deu	hrx_Latn	Ihr müsst kämpfen!	Deer missd kemfe!
+deu	hrx_Latn	Ihr seid nicht krank.	Deer seid net krank.
 deu	hrx_Latn	Ja, das passiert ab und zu.	Ia, das basseerd ab un zu.
 deu	hrx_Latn	Jeder Mensch ist ein Abgrund.	Jeder Mensch is en Abgrund.
 deu	hrx_Latn	Jederzeit.	Jede Zeid.
@@ -325,6 +330,7 @@ deu	hrx_Latn	Mein Affe ist fortgelaufen.	Mein Aff is fortgelaaf.
 deu	hrx_Latn	Mein Affe ist weggelaufen!	Mein Aff is wechgelaaf.
 deu	hrx_Latn	Mein Anzug ist grau.	Mein Aanzugh is grau.
 deu	hrx_Latn	Meine Arbeit ist schwer, aber interessant.	Mein Aarvet is schwäer, awer interessant.
+deu	hrx_Latn	Mein Eimer ist voll.	Mein Eemer is foll.
 deu	hrx_Latn	Mein Name ist Tom.	Mein Naame is Tom.
 deu	hrx_Latn	Mir hat alles gefallen.	Meer hod alles gefall.
 deu	hrx_Latn	Mir tat alles weh.	Meer hod alles wehgedun.
@@ -353,6 +359,7 @@ deu	hrx_Latn	Sie ist nicht arm.	Sie is net aarem.
 deu	hrx_Latn	Sie kämpfen für Freiheit.	Sie kemfe fer Freiheet.
 deu	hrx_Latn	Sie leben in Armut.	Sie leve in Aarmut.
 deu	hrx_Latn	Sie müssen kämpfen!	Sie misse kemfe!
+deu	hrx_Latn	Sie müssen sie vergessen.	Deer missd se fergesse.
 deu	hrx_Latn	Sie nimmt die Geschenke an.	Sie nemmd die Geschenke aan.
 deu	hrx_Latn	Sie nimmt keine Geschenke an.	Sie nemmd keen Geschenke aan.
 deu	hrx_Latn	Sie sind noch Anfänger.	Sie sin noch Aanfenger.
@@ -360,6 +367,7 @@ deu	hrx_Latn	Sind wir arm?	Sim-mer aarem?
 deu	hrx_Latn	So, wie der Löwe König der Tiere ist, so ist der Adler der König der Vögel.	So, wie de Leeb de Diere eere Keenich is, so is de Aadler de Feghel eere Keenich.
 deu	hrx_Latn	Statt zehnmal zu lesen, schreibe lieber einmal ab.	Statt zehnmol se lese, schreib liever eenmol ab.
 deu	hrx_Latn	Such Arbeit!	Such Aarvet!
+deu	hrx_Latn	Tatoeba ist Kultur.	Tatoeba is Kultuer.
 deu	hrx_Latn	Tom besuchte Boston.	Tom hod Boston besughd.
 deu	hrx_Latn	Tom erzählte mir, dass er nicht gewonnen hat.	Tom hod meer ferzehld, dass-er net gewunn hod.
 deu	hrx_Latn	Tom hat eingeatmet.	Tom hod Ochtem ingezoh.
@@ -385,6 +393,7 @@ deu	hrx_Latn	Tom will abhauen.	Tom will abhaue.
 deu	hrx_Latn	Tom wuchs in Armut auf.	Tom is in Aarmut uffgewachsd.
 deu	hrx_Latn	Trangs Party war wie eine Totenwache.	Trang sein Fest waar wie en Dotewach.
 deu	hrx_Latn	Trangs Party war wie eine Totenwache.	Trang sein fest waar wie en Velorio.
+deu	hrx_Latn	Um wie viel Uhr öffnen die Banken?	Um wiffel Uher gehn die Banke uff?
 deu	hrx_Latn	Unmöglich!	Unmeeghlich!
 deu	hrx_Latn	Vergesst nicht, das Licht auszuschalten, bevor ihr schlafen geht!	Fergessd net, das Licht aussemache, ob-der schlofe gehd!
 deu	hrx_Latn	Verkehrter Anfang, schwieriges Ende!	Ferkeerder Aanfang, schwäres Enn!
@@ -441,6 +450,7 @@ deu	hrx_Latn	Wir arbeiten zusammen an dem Projekt.	Meer schaffe mitsammer aam Pr
 deu	hrx_Latn	Wir fangen nach dem Frühstück an.	Meer fange nohm Frihstick aan.
 deu	hrx_Latn	Wir gehen ab und zu angeln.	Meer gehn ab un zu angle.
 deu	hrx_Latn	Wir gehen ab und zu essen.	Meer gehn ab un zu esse.
+deu	hrx_Latn	Wir gehen jeden Sonntag in die Kirche.	Meer gehn jede Sunntach in die Kerrich.
 deu	hrx_Latn	Wir gewannen den Kampf.	Meer hon de Kamp gewunn.
 deu	hrx_Latn	Wir glauben an Gott.	Meer glaave aan Gott.
 deu	hrx_Latn	Wir kämpfen.	Meer kemfe.
@@ -461,6 +471,7 @@ deu	hrx_Latn	Wo arbeitest du?	Wo schaffst-du?
 deu	hrx_Latn	Wo hast du den Geldbeutel gefunden?	Wo host-du die Brieftasch gefunn?
 deu	hrx_Latn	Woher?	Woher?
 deu	hrx_Latn	Wo ist die Toilette?	Wo is die Patent?
+deu	hrx_Latn	Wo kann ich diese Kiste hinstellen?	Wo kann-ich do där Kaste hinstelle?
 deu	hrx_Latn	Wo kann ich dieses Dokument abgeben?	Wo kann-ich do das Dokument abgewe?
 deu	hrx_Latn	Wo kommst du her?	Wo kommst-du her?
 deu	hrx_Latn	Womit soll ich anfangen?	Womit soll-ich aanfange?

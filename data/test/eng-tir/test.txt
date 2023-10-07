@@ -13,7 +13,9 @@ eng	tir	Can city-boys plough?	ዕባይ ከተማ ዶ ማሕረስ ይኽእል�
 eng	tir	Do not confide in a child; do not hide yourself with a dog.	ምስ ቆልዓ ኣይትምከር፡ ምስ ከልቢ ኣይትተሓባእ።
 eng	tir	Do you speak Tigrinya?	ትግርኛ ትዛረብ ዲኻ?
 eng	tir	Everything passes. Love remains.	ኩሉ ይሓልፍ፡ ፍቕሪ ይተርፍ።
+eng	tir	Good morning!	ከመይ ሓዲርኩም።
 eng	tir	Good morning!	ከመይ ሓዲርኪ።
+eng	tir	Good morning!	ከመይ ሓዲርካ።
 eng	tir	Good morning!	ከመይ ሓዲርክን።
 eng	tir	Good speech will break the bones of a ghost.	ጽቡቕ ዘረባ ዓጽሚ ኣጋንንቲ ይሰብር።
 eng	tir	Have you done your homework?	ዕዮ ገዛ ስርሕኹሞ ዶ፧
@@ -30,8 +32,8 @@ eng	tir	I'll have the same.	ከምኡ ሓደ ዓይነት ክወስድ እየ።
 eng	tir	I'm looking for work.	ስራሕ እደሊ ኣሎኹ።
 eng	tir	I sucked orange juice through a straw.	ጽሟቅ ብርቱካን ብመምጸዪ ገይረ መጽየ።
 eng	tir	It's important to care for one another.	ናይ ሓድሕድ ሓልዮት ኣድላዩ እዩ።
-eng	tir	It's Mary's turn to wash the dishes.	ናይ ሜሪ ተራ አዩ ድስትታት ምሕጻብ።
 eng	tir	It's Mary's turn to wash the dishes.	ነቲ ድስታት ምሕጻብ ናይ ሜሪ ተራ አዩ።
+eng	tir	It's Mary's turn to wash the dishes.	ናይ ሜሪ ተራ አዩ ድስትታት ምሕጻብ።
 eng	tir	I want to learn Tigrinya.	ትግሪኛ ክምሃር እድሊ እሎኹ።
 eng	tir	I was born in Asmara.	ኣብ ኣስመራ ተወለድኩ።
 eng	tir	Look at that boy!	እቲ ወዲ ርኣዮ።
@@ -40,8 +42,9 @@ eng	tir	My accent is probably strange.	ምናልባት ኣደማምጻይ ዝተ
 eng	tir	Next to smoke, don't make someone cry.	ኣብ ጥቓ ትኪ ዘሎ ዓይኒ ኣይተብኪ።
 eng	tir	No one has been able to reach the top of the mountain.	ዋላ ሓደ ናብቲ ዝበረኸ ክፋል ናይቲ ጎቦ ኣይበጸሐን።
 eng	tir	Practice makes perfect.	ልምምድ ንሰብ ውሕሉል ይገብሮ።
-eng	tir	She speaks English fluently.	ንሳ እንግሊዝ ብትኽክል ትዛረብ
+eng	tir	She decided to move to Belgium.	ናብ ቤልጅየም ክትግዕዝ ወሰነት።
 eng	tir	She speaks English fluently.	ንሳ እንግሊዘኛ ብዘይ ሰጋእ መጋእ ትዛረብ።
+eng	tir	She speaks English fluently.	ንሳ እንግሊዝ ብትኽክል ትዛረብ
 eng	tir	Someone has slept in this bed.	ነታ ዓራት ተደቂሱላ ነይሩ።
 eng	tir	The brothers cared for one another.	እቶም ኣሕዋት ንሓድሕዶም ተሓላልዮም።
 eng	tir	The fishery remained empty and devoid of fish for many centuries.	ንቡዙሕ መዋአል እቲ እንዳ ዓሳ ጥርሑ ተሪፉን ዓሳ ተነፊግዎን።
@@ -60,6 +63,7 @@ eng	tir	Which boy?	ኣየናይ ወዲ?
 eng	tir	Wish you were here.	ኣብዚ ክትህልዉ ምደለኹ።
 eng	tir	Within three months, I will be able to read, write and speak.	ዳ'ብዚ ሰለስተ ወርሒ፣ ምጽሓፍን ምንባብን ምዝራብን ክኽእል ኢየ።
 eng	tir	Would you give me the book?	እታ መጽሓፍ ምሃብካኒ ዶ?
+eng	tir	Yesterday I bought a horse	ትማሊ ፈረስ ዓዲገ
 eng	tir	Yesterday I bought a horse	ትማሊ ፈረስ ገዚአ
 eng	tir	You call that dancing?!	ሳዕሲዐ ኢልካ ዲኻ?
 eng	tir	You like putting me to sleep don't you?	ከተደቅሰኒ ትደልዪ ኢኺ ምሽ`ዶ?

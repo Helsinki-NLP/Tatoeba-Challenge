@@ -132,8 +132,8 @@ eng	uig_Arab	Excuse me, who is this woman?	كەچۈرۈڭ، بۇ ئايال كى
 eng	uig_Arab	Fadil told his parents he converted to Islam.	فەزىل ئاتا-ئانىسىنىڭ ئىسلامغا كىرگەنلىكىنى ئېيتتى.(mujtehid.blogspot.com)
 eng	uig_Arab	Fadil wanted to know everything about Islam.	فەزىل ئىسلام توغرىسىدىكى ھەممە بىلىمنى بىلمەكچى بولدى.
 eng	uig_Arab	Fashion is not my specialty.	مودا - مېنىڭ تالانتىم ئەمەس.
-eng	uig_Arab	Father bought me a motorcycle.	دادام ماڭا بىر موتسىكلىت ئالدى.
 eng	uig_Arab	Father bought me a motorcycle.	ئاتام ماڭا بىر موتسىكلىت ئالدى.
+eng	uig_Arab	Father bought me a motorcycle.	دادام ماڭا بىر موتسىكلىت ئالدى.
 eng	uig_Arab	Father bought me the book.	دادام ماڭا كىتابنى ئالدى.
 eng	uig_Arab	Find yourself an Uyghur girlfriend and you'll never have problems with Uyghur again.	سەن ئۇيغۇر قىزلاردىن دوست تېپىۋالدىڭمۇ بولدى، ئۇيغۇرچە ئۆگىنىشىڭدە گەپ يوق.
 eng	uig_Arab	Fish live in the sea.	بېلىقلار دېڭىزدا ياشىدۇ.
@@ -164,6 +164,7 @@ eng	uig_Arab	Have you ever seen her?	سىز بۇرۇن ئۇنى كۆرگەنمۇ
 eng	uig_Arab	Have you finished reading that novel?	ئۇ روماننى ئوقۇپ بولدۇڭمۇ؟
 eng	uig_Arab	He abused the privilege.	ئۇ ھوقۇقىنى قالايمىقان ئىشلەتتى.
 eng	uig_Arab	He asked about the others.	باشقالارنى سورىدى.
+eng	uig_Arab	He bit himself.	ئۇ ئۆزىنى چىشلىدى.
 eng	uig_Arab	He built the house for himself.	ئۇ ئۆزىگە ئۆي سالدى.
 eng	uig_Arab	He called his mother up from the airport.	ئۇ ئايرودرومدىن ئانىسىغا تېلېڧون بەردى.
 eng	uig_Arab	He can speak Thai as well as English.	ئۇ ھەم تايلاندچە ھەم ئىنگلىزچە سۆزلىيەلەيدۇ.
@@ -186,14 +187,14 @@ eng	uig_Arab	He has no girlfriend.	قىز دوستى يوق.
 eng	uig_Arab	He is afraid of Father.	ئۇ دادىدىن قورقىدۇ.
 eng	uig_Arab	He is a scientist.	ئۇ ئالىم.
 eng	uig_Arab	He is a waiter and an actor.	ئۇ ھەم كۈتكۈچى ھەم ئارتىس.
-eng	uig_Arab	He is good-natured.	مىجەزى ياخشى.
 eng	uig_Arab	He is good-natured.	ئۇنىڭ مىجەزى ياخشى.
+eng	uig_Arab	He is good-natured.	مىجەزى ياخشى.
 eng	uig_Arab	He is no more foolish than you are.	ئۇ سەندەك ئەخمەق ئەمەس.
 eng	uig_Arab	He is present at the meeting.	ئۇ يىغىنغا قاتنىشىۋاتقان.
-eng	uig_Arab	He is taller than his father.	دادىسىدىن ئېگىز.
 eng	uig_Arab	He is taller than his father.	ئاتىسىدىن ئېگىز.
 eng	uig_Arab	He is taller than his father.	ئۇ ئاتىسىدىن ئېگىز.
 eng	uig_Arab	He is taller than his father.	ئۇ ئۇىىڭ دادىسىدىن ئېگىز.
+eng	uig_Arab	He is taller than his father.	دادىسىدىن ئېگىز.
 eng	uig_Arab	He is very handsome.	ئۇ ناھايىتى كېلىشكەن.
 eng	uig_Arab	He kicked me twice.	ئۇ مېنى ئىككىنى تەپتى.
 eng	uig_Arab	He killed himself by taking poison.	ئۇ زەھەر ئىچىپ ئۆلىۋالدى.
@@ -339,8 +340,8 @@ eng	uig_Arab	If you smile, I'll be happy.	سەن كۈلسەڭ، مەن خۇشا�
 eng	uig_Arab	If you want to go, then go. If you don't want to, then whatever.	خالىسىڭىز بېرىڭ، خالىمىسىڭىز مەيلى.
 eng	uig_Arab	I gave my dad a tambourine as a gift.	مەن بىر ناغرىنى دادامغا ھەدىيە قىلدىم.
 eng	uig_Arab	I got fired from my job this morning. But, when it rains it pours, and upon coming out of the office building I found that someone had stolen my car.	بۈگۈن ئەتىگەن مەن ئىشتىن بوشتۇلدۇم. بىراق، بالا كەلسە قوش كەپتۇ دېگەندەك مەن ئىشخانىدىن چىققىنىمدا بىرسىنىڭ ماشىنامنى ئوغرىلىۋالغانلىقىنى سەزدىم.
-eng	uig_Arab	I go to the bazaar every Sunday afternoon.	ھەر يەكشەنبە چۈشتىن كېيىن بازارغا بارىمەن.
 eng	uig_Arab	I go to the bazaar every Sunday afternoon.	مەن ھەر يەكشەنبە چۈشتىن كېيىن بازارغا بارىمەن.
+eng	uig_Arab	I go to the bazaar every Sunday afternoon.	ھەر يەكشەنبە چۈشتىن كېيىن بازارغا بارىمەن.
 eng	uig_Arab	I got scared long before entering the plane.	مەن ئايروپىلانغا چىقماستىنلا، قورقۇپ كەتتىم.
 eng	uig_Arab	I got to know her through one of my friends.	مەن دوستلىرىمنىڭ بىرى ئارقىلىق ئۇنىڭ بىلەن تونۇشقان.
 eng	uig_Arab	I guess the dog bites.	ئۇ ئىت چىشلەيدىكەن.
@@ -395,8 +396,8 @@ eng	uig_Arab	I'm in charge of the propaganda.	مەن تەشۋىقات خىزمى
 eng	uig_Arab	I'm not Uyghur. I'm Russian.	مەن ئۇيغۇر ئەمەس .روس
 eng	uig_Arab	I'm outta here.	كەتتىم.
 eng	uig_Arab	I'm sure your efforts will result in success.	ئىشىنىمەنكى،تىرىشچانلىقىڭىزنىڭ نەتىجىسى غەلبىلىك بولىدۇ.
-eng	uig_Arab	I'm thinking about you.	سېنى ئويلىۋاتىمەن.
 eng	uig_Arab	I'm thinking about you.	سىلەرنى ئويلىۋاتىمەن.
+eng	uig_Arab	I'm thinking about you.	سېنى ئويلىۋاتىمەن.
 eng	uig_Arab	I'm thirsty.	ئۇسسىدىم.
 eng	uig_Arab	I'm tired.	ھېرىپ كەتتىم.
 eng	uig_Arab	I'm undressing.	كىيىمىمنى سېلىۋاتىمەن.
@@ -431,8 +432,8 @@ eng	uig_Arab	Is there any sugar?	شېكەر بارمۇ؟
 eng	uig_Arab	Is this bag yours or his?	بۇ سومكا سىزنىڭكى ياكى ئۇنىڭكى؟
 eng	uig_Arab	Is this your money?	بۇ ئۆزىڭىزنىڭ پۇلىمۇ؟
 eng	uig_Arab	I studied hard to enter the school.	مەكتەپكە كىرگىلى تىرىشىپ ئۆگەنگەنىدىم.
-eng	uig_Arab	I study English at home.	مەن ئۆيۈمدە ئىنگلىز تىلىنى ئوقۇيمەن.
 eng	uig_Arab	I study English at home.	ئۆيۈمدە ئىنگلىز تىلىنى ئوقۇيمەن.
+eng	uig_Arab	I study English at home.	مەن ئۆيۈمدە ئىنگلىز تىلىنى ئوقۇيمەن.
 eng	uig_Arab	It doesn't sound like I'll get any rest.	مەن دەم ئالمىغۇدەكمەن.
 eng	uig_Arab	It doesn't sound like you'll be working today.	بۈگۈن ئەمگەك قىلمىغۇدەكسەن.
 eng	uig_Arab	It doesn't sound like you'll be working today.	بۈگۈن ئەمگەك قىلمىغۇدەكسىز.
@@ -542,6 +543,7 @@ eng	uig_Arab	Lips that touch liquor shall not touch mine.	ھاراققا تەگ�
 eng	uig_Arab	Look at the next page.	كېلەر بەتنى كۆرۈپ بېقىڭ.
 eng	uig_Arab	Love? What's that? I'm an orphan. I've never known love.	مۇھەببەتمۇ؟ نېمە بۇ؟ مەن بىر ئىگە_چاقىسىز يېتىم بالا، ئەزەلدىن مۇھەببەتنى بىلمەيمەن.
 eng	uig_Arab	Make that book your basis.	ئۇ كىتابنى ئاساس قىلىڭ.
+eng	uig_Arab	Man is a featherless biped.	ئىنسان پەيسىز ئىككى پۇتلۇق.
 eng	uig_Arab	Many admire him.	ئۇنى قايىل قىلىدىغانلار بەك جىق.
 eng	uig_Arab	Mary has just come home.	مەرى ئەمدى كەلدى.
 eng	uig_Arab	May I ask a question?	بىر سوئال سورىسام بولامدۇ؟
@@ -557,8 +559,8 @@ eng	uig_Arab	Muiriel is slandering me!	مۇرئىيەل ماڭا تۆھمەت ق
 eng	uig_Arab	Musa is a really interesting guy.	مۇساجان بىر قىزىقلا ئادەم.
 eng	uig_Arab	My brother Jacques is fourteen years old.	جاك ئاكا ئون تۆت ياشقا كىردى.
 eng	uig_Arab	My brother watches television.	ئۇكام تېلېۋىزور كۆرىدۇ.
-eng	uig_Arab	My father is a doctor.	مېنىڭ دادام دوختۇر.
 eng	uig_Arab	My father is a doctor.	مېنىڭ ئاتام دوختۇر.
+eng	uig_Arab	My father is a doctor.	مېنىڭ دادام دوختۇر.
 eng	uig_Arab	My father told me to rest well.	دادام ماڭا ئوبدان ئارام ئېلىڭ دېدى.
 eng	uig_Arab	My food is cheap.	مېنىڭ تامىقىم ئەرزان.
 eng	uig_Arab	My girlfriend often cuts my hair.	مېنىڭ چېچىمنى دائىم قىز دوستۇم چۈشۈرۈپ قويىدۇ.
@@ -632,6 +634,7 @@ eng	uig_Arab	Regardless of whether you come tomorrow or not, let me know.	ئەت
 eng	uig_Arab	Scatter, you chickens!	تاق تاق!
 eng	uig_Arab	She adores cakes.	ئۇ تورتنى تولىمۇ ياخشى كۆرىدۇ.
 eng	uig_Arab	She asked about the others.	باشقالارنى سورىدى.
+eng	uig_Arab	She decided to move to Belgium.	ئۇ بېلگىيەگە كۆچۈشنى قارار قىلدى.
 eng	uig_Arab	She didn't buy anything from the store.	ئۇ دۇكانداىن ھېچنېمە سېتىۋالمىدى.
 eng	uig_Arab	She didn't give me anything.	ئۇ ماڭا ھېچنەرسە بەرمىدى.
 eng	uig_Arab	She died in 1960.	ئۇ 1960_يىلىدا ئۆلدى.
@@ -693,6 +696,7 @@ eng	uig_Arab	The darkest hour is just before the dawn.	تاڭنىڭ ئالدىد
 eng	uig_Arab	The dog went away.	ئىت كەتتى.
 eng	uig_Arab	The hail harmed the crops.	زىرائەت مۆلدۈر چۈشۈشتىن زىيانغا ئۇچرىدى.
 eng	uig_Arab	Their equipment is extremely advanced.	ئۈسكۈنىلىرى تولىمۇ ئىلغار.
+eng	uig_Arab	The king lives in the castle.	پادىشاھ قەلئەدە تۇرىدۇ.
 eng	uig_Arab	The letter was written.	خەت يېزىلدى.
 eng	uig_Arab	The lives of most people are determined by their environment.	كۆپ ساندىكى كىشىلەرنىڭ ھاياتى ئۇلار تۇرغان مۇھىت تەرىپىدىن بەلگىلىنىدۇ.
 eng	uig_Arab	The location has changed.	ئورۇن ئۆزگەردى.
@@ -805,6 +809,7 @@ eng	uig_Arab	Tom thought Mary's offer was unreasonable.	توم مارىيەنى�
 eng	uig_Arab	Tom told Mary and her children an interesting story.	توم مارىيە بىلەن ئۇنىڭ باللىرىغا قىزىقارلىق ھېكايىدىن بىرنى ئەيتىپ بەردى.
 eng	uig_Arab	Tom told Mary not to be late again.	توم مارىيەگە يەنە كېچىكىپ قالما دېدى.
 eng	uig_Arab	Tom told Mary not to play with fire.	توم مارىيەگە ئوت بىلەن ئويناشما دېدى.
+eng	uig_Arab	Tom tried to catch the children's attention.	توم بالىلارنىڭ دىققىتىنى تارتماقچى بولدى.
 eng	uig_Arab	Toronto used to be called Fort York.	تورونتونى فورت يورك دەپ ئاتاش ئادەت بولۇپ قالدى.
 eng	uig_Arab	To serve people is his sole object in life.	خەلققە خىزمەت قىلىش ئۇنىڭ ياشاشتىكى بىردىنبىر مەقسىتى.
 eng	uig_Arab	Traffic on this road has been disrupted due to flooding.	مۇشۇ يولدا كەلكۈن سەۋەبىدىن قاتناش ئۈزۈلۈپ قالدى.
@@ -953,8 +958,8 @@ eng	uig_Arab	You don't have to do it now.	بۇ پەيتتە قىلىشىڭىز �
 eng	uig_Arab	You don't understand. He'll kill you.	سەن چۈسەنمەيسەن. ئۇ سېنى ئۆلتۈرىدۇ.
 eng	uig_Arab	You had better not copy off others.	باشقىلاردىن كۆچۈرمەڭلار يەنە.
 eng	uig_Arab	You had better not speak.	گەپ قىلىپ قالماڭ جۇمۇ.
-eng	uig_Arab	You have a good memory.	ئېسىڭ ياخشى.
 eng	uig_Arab	You have a good memory.	ئېسىڭىز ياخشى.
+eng	uig_Arab	You have a good memory.	ئېسىڭ ياخشى.
 eng	uig_Arab	You have only to study hard, and you will pass the test.	سىز تىرىشىپ ئۆگىنىپلا ئىمتىھاندىن ئۆتەلەيسىز.
 eng	uig_Arab	You'll be able to see the differences very easily.	پەرقنى ناھايىتى ئاسان بايقىيالايسەن.
 eng	uig_Arab	You'll be able to see the differences very easily.	پەرقنى ناھايىتى ئاسان بايقىيالايسىز.

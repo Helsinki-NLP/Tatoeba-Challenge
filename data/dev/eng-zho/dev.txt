@@ -1215,6 +1215,7 @@ eng	cmn_Hans	Come in, it's open.	进来，门开着。
 eng	cmn_Hans	Come in!	请进！
 eng	cmn_Hans	Come in.	请进！
 eng	cmn_Hans	Come in.	进来。
+eng	cmn_Hans	Come in.	进来！
 eng	cmn_Hans	Come on, Arianna, speed up or we'll never get there!	来吧，阿里亚娜号，不快点我们就永远到不了那儿!
 eng	cmn_Hans	Come on, everything will be alright.	放心，没事的。
 eng	cmn_Hans	Come on! Give me a chance.	来嘛！给我个机会。
@@ -9950,6 +9951,7 @@ eng	cmn_Hans	No point in threatening me. I'll still tell you nothing.	威胁我�
 eng	cmn_Hans	No problem at all!	什么问题都没有！
 eng	cmn_Hans	No problem at all!	没有任何问题!
 eng	cmn_Hans	No problem.	没事儿。
+eng	cmn_Hans	No problem.	没关系。
 eng	cmn_Hans	No problem.	没关系！
 eng	cmn_Hans	No problem.	没问题。
 eng	cmn_Hans	Normally I might study Chinese characters for an hour a day.	我平时每天可能练习一个小时汉字。
@@ -20409,6 +20411,7 @@ eng	cmn_Hant	Good medicine is bitter to the mouth.	良藥苦口。
 eng	cmn_Hant	Good morning, everyone.	大家早上好。
 eng	cmn_Hant	Good morning. It's time to wake up.	早安。是該醒來的時候了。
 eng	cmn_Hant	Good morning!	早上好！
+eng	cmn_Hant	Good morning.	早上好。
 eng	cmn_Hant	Good morning.	早上好！
 eng	cmn_Hant	Good night. Sweet dreams.	晚安。祝你做個好夢。
 eng	cmn_Hant	Good night, Timmy!	晚安，蒂米。
@@ -21503,8 +21506,8 @@ eng	cmn_Hant	Hello everyone!	大家好。
 eng	cmn_Hant	Hello, I am Nancy.	你好，我叫 Nancy。
 eng	cmn_Hant	Hello, I'm called Linfeng.	你好，我叫林峰。
 eng	cmn_Hant	Hello! I'm called Xiaoyu.	你好！我叫小雨。
-eng	cmn_Hant	Hello, I'm Huan.	你好，我是胡安。
 eng	cmn_Hant	Hello! I'm Huan.	你好！我是胡安。
+eng	cmn_Hant	Hello, I'm Huan.	你好，我是胡安。
 eng	cmn_Hant	Hello! Linfeng.	你好！林峰。
 eng	cmn_Hant	Hello! Minghui.	你好！明惠。
 eng	cmn_Hant	Hello, Teacher Li.	李老師好！
@@ -25970,9 +25973,9 @@ eng	cmn_Hant	I ordered a book from London.	我從倫敦訂購了一本書。
 eng	cmn_Hant	I ordered those books from Germany.	我從德國訂購了那些書。
 eng	cmn_Hant	I ordered two hamburgers.	點了兩個漢堡。
 eng	cmn_Hant	I owed him a thousand dollars.	我欠了他1000美元。
+eng	cmn_Hant	I owe him $100.	我欠他一百元。
 eng	cmn_Hant	I owe him 1,000 dollars.	我欠他1000美元。
 eng	cmn_Hant	I owe him 100 yen.	我欠他一百日元。
-eng	cmn_Hant	I owe him $100.	我欠他一百元。
 eng	cmn_Hant	I owe him my life.	他是我的救命恩人。
 eng	cmn_Hant	I owe ten dollars to her.	我欠她10美元。
 eng	cmn_Hant	I owe Tom some money.	我欠湯姆錢。

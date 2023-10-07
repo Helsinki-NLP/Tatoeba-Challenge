@@ -200,7 +200,6 @@ tur	tur	Ali sıvıştı.	Ali savuştu.
 tur	tur	Ali sıvıştı.	Ali topukladı.
 tur	tur	Ali sıvıştı.	Ali tüydü.
 tur	tur	Ali sıvıştı.	Ali vınladı.
-tur	tur	Alışkanlıklarıma bağlıyımdır.	Rutinimi pek bozmam.
 tur	tur	Ali, Soros beslemesidir.	Ali, Sorospu çocuğudur.
 tur	tur	Ali spiritualisttir.	Ali ruhçudur.
 tur	tur	Ali tabanları yağladı.	Ali arazi oldu.
@@ -305,6 +304,7 @@ tur	tur	Ali zamkinos etti.	Ali kaçtı.
 tur	tur	Ali zamkinos etti.	Ali sıvıştı.
 tur	tur	Ali zamkinos etti.	Ali topukladı.
 tur	tur	Ali zamkinos etti.	Ali tüydü.
+tur	tur	Alışkanlıklarıma bağlıyımdır.	Rutinimi pek bozmam.
 tur	tur	Alkol içebilir miyim?	Alkol alabilir miyim?
 tur	tur	Allah az verip aratmasın, çok verip azdırmasın.	Allah az verip bezdirmesin, çok verip azdırmasın.
 tur	tur	Allah az verip gezdirmesin, çok verip azdırmasın.	Allah az verip bezdirmesin, çok verip azdırmasın.
@@ -533,7 +533,6 @@ tur	tur	Bilemezdin ki.	Nereden bilecektin ki?
 tur	tur	Biletin pazartesine kadar süresi var.	Bilet pazartesiye kadar geçerli.
 tur	tur	Bilgisayarı tamir edemem.	Bilgisayarı onaramam.
 tur	tur	Bilgisayarlar makinedir.	Bilgisayarlar kılgadır.
-tur	tur	Bırak kurusun.	Kurumaya bırak.
 tur	tur	Biraz açar mısın?	Ayrıntı verebilir misin?
 tur	tur	Biraz bekleyelim.	Hadi biraz bekleyelim.
 tur	tur	Biraz daha açabilir misin?	Ayrıntı verebilir misin?
@@ -602,6 +601,7 @@ tur	tur	Biz köpeği besledik.	Köpeği besledik.
 tur	tur	Biz mahkumlar değiliz.	Biz mahkum değiliz.
 tur	tur	Biz sık sık okuldan kaçarız.	Sık sık okulu ekeriz.
 tur	tur	Biz yan daireye taşınıyoruz.	Biz yandaki eve taşınıyoruz.
+tur	tur	Bırak kurusun.	Kurumaya bırak.
 tur	tur	Borsa bazen yukarı gider, bazen aşağı gider.	Borsa bazen yükselir, bazen düşer.
 tur	tur	Boş boş oturmak bana göre değil.	Boş boş oturacak biri değilim ben.
 tur	tur	Boş teneke çok ses çıkarır.	Boş fıçı çok langırdar.
@@ -896,12 +896,12 @@ tur	tur	Çekimi yapan kim?	Çeken kim?
 tur	tur	Cep telefonu kapalı.	Cebi kapalı.
 tur	tur	Çeşitli ürünler yetiştirdi.	Muhtelif mahsuller yetiştirdi.
 tur	tur	Ceza suça orantılı olmalı.	Ceza cürme mütenasip olmalı.
-tur	tur	Çığlık atacağım.	Vaveyla koparacağım.
 tur	tur	Cihaz portatiftir.	Cihaz taşınabilir.
 tur	tur	Çikolata tatlıdır.	İtimil tatlıdır.
 tur	tur	Çikolata yiyemem.	İtimil yiyemem.
 tur	tur	Cildinize özen göstermeniz önemlidir.	Cildinize itina etmeniz mühimdir.
 tur	tur	Çilek de ahududu da birer agregat meyve örneğidir.	Hem çilek hem de ahududu küme meyvelere birer örnektir.
+tur	tur	Çığlık atacağım.	Vaveyla koparacağım.
 tur	tur	Clive bir çıncalık kıvcısı olmak istiyor.	Clive bir çıncalık mühendisi olmak istiyor.
 tur	tur	Çocukların ismi Tom ve Mary.	O nome das crianças é Tom e Mary.
 tur	tur	Çoğu zaman okula geç kalır.	Sık sık okula geç kalır.
@@ -947,10 +947,10 @@ tur	tur	Dil çeşitli şekillerde kullanılabilir.	Lisan muhtelif şekillerde ku
 tur	tur	Dimyat'a pirince giderken evdeki bulgurdan olma.	Boynuz isterken kulaktan olma.
 tur	tur	Dinime söven bari Müslüman olsa.	Dinime küfreden bari Müslüman olsa.
 tur	tur	Dinliyorum.	Dinlemekteyim.
-tur	tur	Dışı seni, içi beni yakar.	İçi beni yakar, dışı eli yakar.
 tur	tur	Diyelim ki bir milyon yenin olsa, onunla ne yaparsın?	Faraza bir milyon yenin olsa, onunla ne yaparsın?
 tur	tur	Diyelim ki, doğru söylüyor!	Faraza, doğru söylüyor!
 tur	tur	Diyelim ki geri geldi. Ona ne diyeceksin?	Faraza geri geldi. Ona ne diyeceksin?
+tur	tur	Dışı seni, içi beni yakar.	İçi beni yakar, dışı eli yakar.
 tur	tur	Doğduğu şehirden uzakta bir yerde yaşıyor.	Doğduğu şehirden uzaklarda yaşıyor.
 tur	tur	Doğmadık çocuğa don biçilmez.	Doğmamış çocuğa don biçilmez.
 tur	tur	Doğrudan bana geliyor!	Üzerime üzerime geliyor!
@@ -1060,9 +1060,9 @@ tur	tur	Filler tepişir, çimenler ezilir.	Filler tepişir, karıncalar ezilir.
 tur	tur	Film boyunca uyumuşum.	Film boyunca uyudum.
 tur	tur	Filmi beğendin mi? Ali gömüyordu.	Filmi beğendin mi? Ali bokluyordu.
 tur	tur	Filmi sevdin mi?	Filmi beğendin mi?
-tur	tur	Fırsatı kaçırma.	Şansı kaçırma.
 tur	tur	Fiyat makul mu?	Fiyat uygun mu?
 tur	tur	Fizik öğretmeni her zamanki gibi derse geç kaldı.	Fizikçi her zamanki gibi derse geç girdi.
+tur	tur	Fırsatı kaçırma.	Şansı kaçırma.
 tur	tur	Fotoğraflar nerede?	Yaçınlar nerededir?
 tur	tur	Fotokopi yaptım.	Fotokopi çektim.
 tur	tur	Gazete nerede?	Yenün nerededir?
@@ -1316,7 +1316,6 @@ tur	tur	Kendisine Fransızca öğretti.	Kendi kendine Fransızca öğrendi.
 tur	tur	Kendi yatağımda uyumak şartıyla seninle evlenirim.	Seninle evlenirim; ama kendi yatağımda yatmak şartıyla.
 tur	tur	Keşke Boston'da daha çok kalabilseydim.	Boston'da daha uzun kalabilmeyi isterdim.
 tur	tur	Keşke bu kadar genç evlenmeseydim.	Keşke bu kadar genç yaşta evlenmeseydim.
-tur	tur	Kıl payı kurtuldu.	Paçasını zor kurtardı.
 tur	tur	"Kim aç?" "Biz açız."	"Acıkan var mı?" "Biz."
 tur	tur	"Kim aç?" "Biz açız."	"Aç olan var mı?" "Biz."
 tur	tur	Kiminle konuştuğunu biliyor musun?	Konuştuğun kişinin kim olduğunun farkında mısın?
@@ -1327,16 +1326,17 @@ tur	tur	Kimsenin umurunda değil.	Kimsenin taktığı yok.
 tur	tur	Kimsenin yaşamadığı, şehirden uzakta bir yerdeyiz.	Kuş uçmaz, kervan geçmez bir yerdeyiz.
 tur	tur	Kimse yemiyor Tom. Senin olduğunu biliyoruz.	Kimseyi kandırdığın yok Tom. Sensin, biliyoruz.
 tur	tur	"Kim yaptı?" "O yaptı."	"Kim yaptı?" "O."
-tur	tur	Kırk yıl kıran olmuş, eceli gelen ölmüş.	Kırk yılda bir ölet olur, eceli gelen ölür.
-tur	tur	Kırmızı elbise mavi elbiseden daha çok hoşuma gitti.	Kırmızı elbiseyi mavi elbiseden daha çok beğendim.
-tur	tur	Kırmızı gömlek yüzünden mi?	Kırmızı gömlekten dolayı mı?
-tur	tur	Kısa saç ona daha iyi duruyor.	Kısa saç ona daha çok yakışıyor.
-tur	tur	Kısa sürede yakınlaştılar.	Çabucak kaynaştılar.
 tur	tur	Kişiliğimi değiştirmeyeceğim.	Karakterimi bozmayacağım.
 tur	tur	Kişiliğimi değiştirmeyeceğim.	Kimliğimden ödün vermeyeceğim.
 tur	tur	Kitabında benim adımdan bahsetti.	O, kitabında benim adımdan söz etti.
 tur	tur	Kitapta Tom'dan bahsediliyor.	Kitapta Tom'un adı geçiyor.
 tur	tur	Kitapta Tom'dan da bahsedilmişti.	Kitapta Tom'un da adı geçiyordu.
+tur	tur	Kıl payı kurtuldu.	Paçasını zor kurtardı.
+tur	tur	Kırk yıl kıran olmuş, eceli gelen ölmüş.	Kırk yılda bir ölet olur, eceli gelen ölür.
+tur	tur	Kırmızı elbise mavi elbiseden daha çok hoşuma gitti.	Kırmızı elbiseyi mavi elbiseden daha çok beğendim.
+tur	tur	Kırmızı gömlek yüzünden mi?	Kırmızı gömlekten dolayı mı?
+tur	tur	Kısa saç ona daha iyi duruyor.	Kısa saç ona daha çok yakışıyor.
+tur	tur	Kısa sürede yakınlaştılar.	Çabucak kaynaştılar.
 tur	tur	Kızarmış ekmekler tam kıvamında olmuştu.	Kızarmış ekmekler tam kıvamında kızarmıştı.
 tur	tur	Kızarmış ekmekler yanıktı.	Kızarmış ekmekler yanmıştı.
 tur	tur	Kız kardeşim haziranda bir bebek doğuracak.	Kız kardeşim haziranda bir çocuk sahibi olacak.
@@ -1461,13 +1461,13 @@ tur	tur	Mutluluk sevilmekle değil, sevmekle olur.	Mutluluk sevilmek değil, sev
 tur	tur	Muz yerken çekilmişim.	Bu benim, muz yerken.
 tur	tur	Nadiren telefon ederim.	Sık sık telefon edemem.
 tur	tur	Namaza meyli olmayanın ezanda kulağı olmaz.	Namazda gözü olmayanın ezanda kulağı olmaz.
+tur	tur	Nasipse gelir Hint'ten, Yemen'den; nasip değilse ne gelir elden?	Kısmet ise gelir Hint'ten, Yemen'den; kısmet değilse düşer çenenden.
 tur	tur	Nasıl başa çıkıyorsun?	Nasıl baş ediyorsun?
 tur	tur	Nasıl endişelenmem?	Ne demek endişelenme?
 tur	tur	Nasıl endişelenmeyeyim?	Nasıl endişelenmem?
 tur	tur	Nasıl endişelenmeyeyim?	Ne demek endişelenme?
 tur	tur	Nasıl giyinmişsin öyle?	Senin giyimin ne öyle?
 tur	tur	Nasıl vakit buluyor bilmiyorum.	Buna nasıl zaman ayırıyor bilmiyorum.
-tur	tur	Nasipse gelir Hint'ten, Yemen'den; nasip değilse ne gelir elden?	Kısmet ise gelir Hint'ten, Yemen'den; kısmet değilse düşer çenenden.
 tur	tur	Neden ağlıyorsun?	Ne ağlıyorsun?
 tur	tur	Neden ayakkabı giymiyorsun?	Neden pabuç giymiyorsun?
 tur	tur	Neden benim tansiyonum yüksek?	Benim tansiyonum neden yüksek?
@@ -1511,8 +1511,8 @@ tur	tur	Ne yapıyorsun?	Nābün?
 tur	tur	Ne yapıyorsun?	Ne ediysen?
 tur	tur	Ne yapıyorsun?	Niydiyon?
 tur	tur	Ne yapıyorsun?	N'ȫrün?
-tur	tur	Ne yapıyorsun?	Nȫrüyon?
 tur	tur	Ne yapıyorsun?	Nörüyon?
+tur	tur	Ne yapıyorsun?	Nȫrüyon?
 tur	tur	Ne yapmaya oradaydın?	Niye oradaydın?
 tur	tur	Ne yaptığımı bilmek istemiyor musun?	Ne yaptığımı bilmek istemez misin?
 tur	tur	Ne yaptığının farkında mısın?	Yaptığın şeyin farkında mısın?
@@ -1601,12 +1601,12 @@ tur	tur	O, her sabah gazete okur.	Her sabah gazete okur.
 tur	tur	O, ikiye kadar gelmedi.	İkiye kadar gelmedi.
 tur	tur	O incitmeyecek, söz veriyorum.	Acıtmayacak, söz veriyorum.
 tur	tur	"oindre" sözcüğünün çevirisini bilmiyorum.	"oindre" kelimesinin tercümesini bilmiyorum.
-tur	tur	O, ışıkları kapattı.	O, ışıkları söndürdü.
 tur	tur	O isim kulağa tanıdık geliyor.	O isim olumlu.
 tur	tur	O, işini özenle yaptı.	O, işini ihtimamla yaptı.
 tur	tur	O, işini titizlikle yaptı.	O, işini özenle yaptı.
 tur	tur	O işi yaptırmak için beni zorladı.	O görevi bana yaptırmak için beni zorladı.
 tur	tur	O, İstanbul'da yaşıyor.	O İsdanbolda yaşıyoru.
+tur	tur	O, ışıkları kapattı.	O, ışıkları söndürdü.
 tur	tur	O kaleci son 10 maçtır kalesini gole kapadı.	O kaleci son on maç kalesinde gol görmedi.
 tur	tur	O kapıyı açık bıraktı.	O, kapıyı açık bıraktı.
 tur	tur	O, kazadan sorumlu tutuluyor.	Kaza, onun suçudur.
@@ -1852,28 +1852,16 @@ tur	tur	Sevgililer Günün kutlu olsun.	Sevgililer Günün kutlu olsun!
 tur	tur	Sevilmeyecek nesi var?	Bunda beğenilmeyecek ne var?
 tur	tur	Seyahatinin nedeni ne?	Seyahatinin amacı ne?
 tur	tur	Şeyimde değil.	Şeyimde olmaz.
-tur	tur	Sıcaktan dolayı pencerelerden birini açık bırakıp da uyudum.	Sıcak yüzünden cam açık yattım.
 tur	tur	Şiddetli fırtına sebebiyle seyahat iptal edildi.	Şiddetli fırtına sebebiyle gezi iptal edildi.
 tur	tur	Şiddetli yağmur yüzünden baraj taştı.	Şiddetli yağmur yüzünden baraj kapakları patladı.
-tur	tur	Sık sık lise günlerini hatırlıyor.	Sık sık lise günlerini anımsıyor.
 tur	tur	Silah yasasının sıkılaştırılmasına karşı değilim.	Silahların yasaklanmasına karşı değilim.
 tur	tur	Şimdi, ilk bakışta cümleyi yanlış anladığımı görüyorum.	Şimdi görüyorum ki, ilk bakışta cümleyi yanlış anlamışım.
 tur	tur	Şimdi kendime gelirim.	Birazdan düzelirim.
 tur	tur	Şimdi ne yeri ne de zamanı Tom.	Bunun ne yeri ne de sırası Tom.
 tur	tur	Şimdi ne yeri ne de zamanı Tom.	Şimdi yeri ve sırası değil Tom.
 tur	tur	Şimdi yapmamı istediğin nedir?	Şimdi ne yapmamı istiyorsun?
-tur	tur	Sınava girmeden o okula alındı.	Sınavsız o okula alındı.
-tur	tur	Sınava girmeden o okula kabul edildi.	Sınava girmeden o okula alındı.
-tur	tur	Sınava girmeden o okula kabul edildi.	Sınavsız o okula alındı.
-tur	tur	Sınav kolaydı.	Sınav basitti.
-tur	tur	Sınavsız o okula kabul edildi.	Sınava girmeden o okula alındı.
 tur	tur	Sinek küçüktür, ama mide bulandırır.	Sinek küçüktür, mide bulandırır.
 tur	tur	Sinüzit olmuşum.	Sinüzit oldum.
-tur	tur	Sırada bekliyordu.	Kuyruktaydı.
-tur	tur	Sırada duruyordu.	Kuyruktaydı.
-tur	tur	Sıradaki sözcüklerinizi dikkatle seçin.	Sıradaki kelimelerinizi dikkatli bir şekilde seçin.
-tur	tur	Sıra Tom'da.	Sonra sıra Tom'da.
-tur	tur	Sırt çantan sugeçirmez mi?	Sırt çantan su geçiriyor mu?
 tur	tur	Sizce Tom kaç yaşında?	Sizce kaç yaşında Tom?
 tur	tur	Sizce Tom kaç yaşında?	Tom kaç yaşında sizce?
 tur	tur	Siz çocuklarla bir dakika konuşabilir miyim?	Arkadaşlar, sizinle bir dakikalığına konuşabilir miyim ?
@@ -1887,6 +1875,18 @@ tur	tur	Sizi öldürmek istemiyorum.	Seni öldürmek istemem.
 tur	tur	Sizi öldürmek istemiyorum.	Sizi öldürmek istemem.
 tur	tur	Sizi seviyorum.	Sizi seviyom.
 tur	tur	Siz yokken bir beyefendi aradı, efendim.	Bir beyefendi sizin yokluğunuzda aradı, efendim.
+tur	tur	Sıcaktan dolayı pencerelerden birini açık bırakıp da uyudum.	Sıcak yüzünden cam açık yattım.
+tur	tur	Sık sık lise günlerini hatırlıyor.	Sık sık lise günlerini anımsıyor.
+tur	tur	Sınava girmeden o okula alındı.	Sınavsız o okula alındı.
+tur	tur	Sınava girmeden o okula kabul edildi.	Sınava girmeden o okula alındı.
+tur	tur	Sınava girmeden o okula kabul edildi.	Sınavsız o okula alındı.
+tur	tur	Sınav kolaydı.	Sınav basitti.
+tur	tur	Sınavsız o okula kabul edildi.	Sınava girmeden o okula alındı.
+tur	tur	Sırada bekliyordu.	Kuyruktaydı.
+tur	tur	Sırada duruyordu.	Kuyruktaydı.
+tur	tur	Sıradaki sözcüklerinizi dikkatle seçin.	Sıradaki kelimelerinizi dikkatli bir şekilde seçin.
+tur	tur	Sıra Tom'da.	Sonra sıra Tom'da.
+tur	tur	Sırt çantan sugeçirmez mi?	Sırt çantan su geçiriyor mu?
 tur	tur	Şoför kapıyı açtı.	Yöndemci kapıyı açtı.
 tur	tur	Sofrayı kur!	Masayı hazırla!
 tur	tur	Soğandan başka her şeyi yiyebilirim.	Soğan hariç her şeyi yiyebilirim.
@@ -2048,9 +2048,9 @@ tur	tur	Tom büyük özenle kalktı.	Tom büyük ihtimamla kalktı.
 tur	tur	Tom çekle ödedi.	Tom çek ile ödedi.
 tur	tur	Tom cennette gibiydi.	Tom'un keyfine diyecek yoktu.
 tur	tur	Tom ceplerini kurcalayıp para aradı.	Tom ceplerini yoklayıp para arandı.
-tur	tur	Tom çıktı, ama geri gelecek.	Tom gitti, ama dönecek.
 tur	tur	Tom çilingir.	Tom çilingirlik yapıyor.
 tur	tur	Tom cimri biridir, bilirim.	Tom'un eli sıkı biri olduğunu biliyorum.
+tur	tur	Tom çıktı, ama geri gelecek.	Tom gitti, ama dönecek.
 tur	tur	Tom çok büyük risk alıyordu.	Tom çok büyük bir riske giriyordu.
 tur	tur	Tom çok emin değil.	Tom o kadar emin değil.
 tur	tur	Tom çok tok olduğunu söyledi bana.	Tom bana tıka basa tok olduğunu söyledi.
@@ -2113,13 +2113,13 @@ tur	tur	Tom ikidir kaybediyor.	Tom iki seferdir başarısızlığa uğruyor.
 tur	tur	Tom ile konuşmak istiyorum.	Tom'la konuşmak istiyorum.
 tur	tur	Tom ilgileniyor gibi görünüyordu.	Tom ilgileniyor gibiydi.
 tur	tur	Tom ilgilenmiş gibi duruyordu.	Tom ilgileniyor gibiydi.
-tur	tur	Tom ışığı kapattı.	Tom ışığı söndürdü.
-tur	tur	Tom ışıkları kapattı.	Tom ışıkları söndürdü.
 tur	tur	Tom işi vaktinde bitirebilmek için yardırıyor.	Tom işi zamanında bitirebilmek için elinden geleni yapıyor.
 tur	tur	Tom işi zamanında yetiştirebilmek için yırtınıyor.	Tom işi zamanında bitirebilmek için elinden geleni yapıyor.
 tur	tur	Tom ismi bir şey çağrıştırmıyor.	Tom ismi bir şeyler hatırlatmıyor.
 tur	tur	Tom ismi bir şey çağrıştırmıyor.	Tom ismi tanıdık gelmiyor.
 tur	tur	Tom iyi bir karikatürist değil.	Tom iyi bir karikatürcü değil.
+tur	tur	Tom ışığı kapattı.	Tom ışığı söndürdü.
+tur	tur	Tom ışıkları kapattı.	Tom ışıkları söndürdü.
 tur	tur	Tom jeolog değil.	Tom yer bilimci değil.
 tur	tur	Tom, John'la futgolf oynadı.	Tom, John'la ayak golfü oynadı.
 tur	tur	Tom kafasının üzerine düştü.	Tom kafaüstü yere çakıldı.
@@ -2232,12 +2232,12 @@ tur	tur	Tom sesi sona getirdi.	Tom sesi sonuna kadar açtı.
 tur	tur	Tom şimdi daha özenle çalışıyor.	Tom şimdi daha ihtimamla çalışıyor.
 tur	tur	Tom şimdi emekli olmuş olmalı.	Tom şimdiye mutlaka emekli olmuştur.
 tur	tur	Tom şimdiye bitirmiş olmalıydı.	Tom şimdiye bitirmeliydi.
-tur	tur	Tom sırtüstü yatıyordu.	Tom sırtüstü uzanmıştı.
 tur	tur	Tom size katakulli yapmasın.	Tom size dalavere yapmasın.
 tur	tur	Tom size katakulli yapmasın.	Tom size kelek yapmasın.
 tur	tur	Tom size kelek yapmasın.	Tom size dalavere yapmasın.
 tur	tur	Tom sizi ketenpereye getirmesin.	Tom size katakulli yapmasın.
 tur	tur	Tom sizi ketenpereye getirmesin.	Tom size kelek yapmasın.
+tur	tur	Tom sırtüstü yatıyordu.	Tom sırtüstü uzanmıştı.
 tur	tur	Tom soğuk ısırığına maruz kaldı.	Tom soğuk ısırmasına maruz kaldı.
 tur	tur	Tom, soğuk olduğunu düşündü.	Tom, soğuk olduğunu sandı.
 tur	tur	Tom sola dönmesi gerekirken sağa döndü.	Tom, sola döneceğine sağa döndü.
@@ -2436,8 +2436,8 @@ tur	tur	Yangında ayakkabımı kaybettim.	Yangında pabucumu kaybettim.
 tur	tur	Yanık kokusu olduğunu sanmıştım.	Yanık kokusu aldığımı düşünmüştüm.
 tur	tur	Yaptığımız tam olarak bu.	Yapmış olduğumuz aynen bu.
 tur	tur	Yaptığın şeye özen göster.	Yaptığın şeye itina et.
-tur	tur	Yardımın her şeyi değiştirdi.	Yardımın işin rengini tamamen değiştirdi.
 tur	tur	Yardım ister misin?	Yardım istiyor musun?
+tur	tur	Yardımın her şeyi değiştirdi.	Yardımın işin rengini tamamen değiştirdi.
 tur	tur	Yarın bazı arkadaşlarım sinemaya gidecekler.	Yarın arkadaşlarımdan bazıları sinemaya gidecekler.
 tur	tur	Yarın burada mısın?	Yarın burada olacak mısın?
 tur	tur	Yarın cumartesi, 5 Şubat 2011.	Yarın 5 Şubat 2011 Cumartesi.
@@ -2473,11 +2473,11 @@ tur	tur	Yeter yahu.	Yahu yeter.
 tur	tur	Yetti artık.	Yeter artık.
 tur	tur	Yetti artık.	Yetti gari.
 tur	tur	Yeyin efendiler, yeyin.	Yiyin efendiler, yiyin.
+tur	tur	Yine başa döndük.	Yine başa sardık.
+tur	tur	Yine de ona pişman olacaksın.	Buna pişman olacaksın!
 tur	tur	Yıldızspor haftayı puansız kapattı.	Yıldızspor haftayı puansız tamamladı.
 tur	tur	Yıldızspor ligde sonuncu.	Yıldızspor ligde bütün takımları önüne katmış kovalıyor.
 tur	tur	Yıllardır ayağım düşmedi oraya.	Oraya senelerdir yolum düşmedi.
-tur	tur	Yine başa döndük.	Yine başa sardık.
-tur	tur	Yine de ona pişman olacaksın.	Buna pişman olacaksın!
 tur	tur	Yoğun yağış sebebiyle baraj taştı.	Şiddetli yağmur yüzünden baraj kapakları patladı.
 tur	tur	Yoğun yağış sebebiyle baraj taştı.	Şiddetli yağmur yüzünden baraj taştı.
 tur	tur	Yol ver, değmesin!	Değmesin, yağlı boya!

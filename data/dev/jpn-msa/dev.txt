@@ -1,3 +1,8 @@
+jpn_Hani	ind	お名前は？	Siapa nama Anda?
+jpn_Hani	ind	お見事！	Kerja bagus!
+jpn_Hani	ind	この子の将来の夢は弁護士です。	Anaknya ingin menjadi pengacara.
+jpn_Hani	ind	それ本当？	Apa itu benar?
+jpn_Hani	ind	トムから返事来た？	Ada balasan dari Tom?
 jpn_Hani	ind	一週間滞在する予定です。	Kami dijadwalkan akan tinggal selama seminggu.
 jpn_Hani	ind	世界で一番難しい言語は何ですか。	Bahasa apa yang paling sulit di dunia?
 jpn_Hani	ind	人々は城の外へと走り出た。	Orang-orang berlarian keluar istana.
@@ -9,31 +14,29 @@ jpn_Hani	ind	元気？	Apa kabar?
 jpn_Hani	ind	医療保険は使えますか。	Bisakah saya menggunakan asuransi kesehatan?
 jpn_Hani	ind	十時二十分過ぎ。	Jam 10 lewat 20 menit.
 jpn_Hani	ind	友人は私の意見に反対だ。	Teman saya berbeda pendapat dengan saya.
-jpn_Hani	ind	お名前は？	Siapa nama Anda?
 jpn_Hani	ind	君の専門は何？	Jurusanmu apa?
 jpn_Hani	ind	回れ右！	Balik kanan!
 jpn_Hani	ind	大丈夫？	Kamu tidak apa-apa?
 jpn_Hani	ind	子供は毎日牛乳を飲むべきだ。	Anak-anak harus minum susu setiap hari.
-jpn_Hani	ind	この子の将来の夢は弁護士です。	Anaknya ingin menjadi pengacara.
 jpn_Hani	ind	完璧！	Sempurna!
 jpn_Hani	ind	実際のところ感染者の多くは無症状だ。	Bahkan banyak orang yang tertular yang tidak merasakan gejala apapun.
 jpn_Hani	ind	嵐の後の太陽は一層明るく輝く。	Matahari bersinar lebih terang setelah badai.
 jpn_Hani	ind	幸福って何？	Apa itu kebahagiaan?
+jpn_Hani	ind	彼の演技は格好の批判の対象だった。	Penampilannya menjadi bahan kritikan.
+jpn_Hani	ind	彼の説明は説得力に欠けている。	Penjelasan darinya kurang meyakinkan.
 jpn_Hani	ind	彼は世界記録を破った。	Dia memecahkan rekor dunia.
+jpn_Hani	ind	彼は妻が病気の時一人で食事を作った。	Dia makan seorang diri ketika istrinya sakit.
+jpn_Hani	ind	彼は時折母親に手紙を書く。	Ia sesekali mengirim sepucuk surat kepada ibundanya.
+jpn_Hani	ind	彼は本棚から本を１冊取った。	Dia mengambil sebuah buku dari rak buku.
+jpn_Hani	ind	彼は誰？	Dia siapa?
+jpn_Hani	ind	彼は車で学校へ行った。	Dia pergi ke sekolah dengan mobil.
+jpn_Hani	ind	彼は頭の回転が速い。	Dia berpikirnya cepat.
 jpn_Hani	ind	彼女は正直と言うより利口だ。	Dia lebih tepat dibilang cerdik daripada jujur.
 jpn_Hani	ind	彼女は洋服の好みが極端だ。	Selera berpakaiannya ekstrem.
 jpn_Hani	ind	彼女は精神保健福祉士を目指していて、大学では特に精神障害者のインテグレーションについて勉強している。	Dia tertarik pada pelayanan kesehatan mental, maka dari itu perkuliahannya sebagian besar mempelajari tentang integrasi dari orang yang menderita gangguan jiwa.
 jpn_Hani	ind	彼女は記憶力もいい。	Dia juga memiliki daya ingat yang bagus.
 jpn_Hani	ind	彼女は遅刻魔だ。	Dia kebiasaan datang terlambat.
 jpn_Hani	ind	彼女は鶏肉を買った。	Perempuan itu membeli daging ayam.
-jpn_Hani	ind	彼は妻が病気の時一人で食事を作った。	Dia makan seorang diri ketika istrinya sakit.
-jpn_Hani	ind	彼は時折母親に手紙を書く。	Ia sesekali mengirim sepucuk surat kepada ibundanya.
-jpn_Hani	ind	彼は本棚から本を１冊取った。	Dia mengambil sebuah buku dari rak buku.
-jpn_Hani	ind	彼の演技は格好の批判の対象だった。	Penampilannya menjadi bahan kritikan.
-jpn_Hani	ind	彼の説明は説得力に欠けている。	Penjelasan darinya kurang meyakinkan.
-jpn_Hani	ind	彼は誰？	Dia siapa?
-jpn_Hani	ind	彼は車で学校へ行った。	Dia pergi ke sekolah dengan mobil.
-jpn_Hani	ind	彼は頭の回転が速い。	Dia berpikirnya cepat.
 jpn_Hani	ind	息子の失敗は私が責任を負います。	Saya bertanggung jawab atas kegagalan anak saya.
 jpn_Hani	ind	救急車が必要ですか。	Apakah perlu ambulans?
 jpn_Hani	ind	日本製の車は世界中で使われている。	Mobil produksi Jepang digunakan di seluruh dunia.
@@ -41,29 +44,26 @@ jpn_Hani	ind	明日は給料日だ。	Besok hari gajian.
 jpn_Hani	ind	昨日電車で財布を盗られた。	Kemarin, dompetku dicuri di kereta.
 jpn_Hani	ind	昨晩は零度以下に下がった。	Semalam suhu di bawah 0 derajat.
 jpn_Hani	ind	朝九時から昼の三時まで。	Dari jam sembilan pagi sampai jam tiga siang.
-jpn_Hani	ind	それ本当？	Apa itu benar?
 jpn_Hani	ind	機嫌悪いの？	Apa suasana hatimu sedang buruk?
 jpn_Hani	ind	機嫌悪いの？	Kamu sakit?
-jpn_Hani	ind	正解です。	Betul.
 jpn_Hani	ind	正解！	Betul!
+jpn_Hani	ind	正解です。	Betul.
 jpn_Hani	ind	残念！	Sayang sekali!
 jpn_Hani	ind	気温は氷点下6度です。	Suhunya 6 derajat di bawah titik beku.
 jpn_Hani	ind	火事！	Kebakaran!
 jpn_Hani	ind	火事だ！逃げろ！	Api! Lari!
 jpn_Hani	ind	牛乳の流れを素早く止め、牛乳が固まるまで約３０分間静置する。	Air kucuran susu bisa dengan cepat berhenti. Sampai air susu bisa memadat, perlu dibiarkan kira-kira 30 menit.
+jpn_Hani	ind	私の家の屋根は赤い。	Atap rumahku merah.
 jpn_Hani	ind	私の家は大家族だ。	Keluargaku adalah keluarga besar.
 jpn_Hani	ind	私の家は大家族だ。	Keluargaku keluarga besar.
 jpn_Hani	ind	私の家は大都会の便利な設備の近くにある。	Rumahku dekat dengan fasilitas yang nyaman di kota besar.
-jpn_Hani	ind	私の家の屋根は赤い。	Atap rumahku merah.
+jpn_Hani	ind	私の趣味は音楽だ。	Hobiku musik.
 jpn_Hani	ind	私は招待状の封筒の宛名書きをしました。	Saya menulis nama penerima surat undangan itu pada amplopnya.
 jpn_Hani	ind	私は故郷の両親に手紙を書いた。	Aku menulis surat untuk orang tuaku yang ada di kampung halaman.
 jpn_Hani	ind	私は正午に東京に着いた。	Saya tiba di Tokyo tengah hari.
-jpn_Hani	ind	私の趣味は音楽だ。	Hobiku musik.
 jpn_Hani	ind	自動車は私たちの生活を変えた。	Mobil telah mengubah kehidupan kami.
-jpn_Hani	ind	お見事！	Kerja bagus!
 jpn_Hani	ind	身分相応に暮らせ。	Hiduplah sesuai dengan apa yang diberikan kepadamu.
 jpn_Hani	ind	身長何センチ？	Tinggimu berapa?
-jpn_Hani	ind	トムから返事来た？	Ada balasan dari Tom?
 jpn_Hani	ind	選挙運動は成功し、彼女は当選した。	Kampanyenya sukses dan dia pun terpilih.
 jpn_Hani	ind	野球の試合に行く前に夕食を食べよう。	Mari makan malam sebelum ke pertandingan baseball.
 jpn_Hani	ind	非暴力というのは私の信仰の第１条だ。	Non-kekerasan adalah poin pertama dalam kepercayaan saya.
@@ -77,418 +77,619 @@ jpn_Hani	zsm_Latn	彼は富士山に登った。	Dia telah mendaki Gunung Fuji.
 jpn_Hani	zsm_Latn	我々は今や原子力時代にある。	Kita sedang berada dalam zaman tenaga atom.
 jpn_Hani	zsm_Latn	明け方、私たちは蒸気機関車の汽笛で目を覚ました。	Kami terbangun dengan wisel lokomotif wap pada waktu subuh.
 jpn_Hani	zsm_Latn	水泳は私の趣味です。	Berenang adalah hobi saya.
+jpn_Hira	ind	１０時前にはホテルを出発しなければなりません。さもなければマイアミ行きの電車を乗り逃がしてしまいます。	Kita harus berangkat dari hotel sebelum jam 10. Jika tidak, kita akan ketinggalan kereta jurusan Miami.
 jpn_Hira	ind	21時に来れますか。	Apakah Anda bisa datang pada pukul 9 malam?
 jpn_Hira	ind	2分でいいので話聞いてもらえませんか？	Bisa bicara dengan saya sebentar? 2 menit saja cukup.
+jpn_Hira	ind	８時に起こして。	Bangunkan aku jam delapan.
+jpn_Hira	ind	Aは十分だが、Bはそうではない。	Untuk A cukup, tetapi tidak demikian untuk B.
+jpn_Hira	ind	ああ、本当？	Oh, benarkah?
+jpn_Hira	ind	アイス溶けそうだから今食べちゃおうよ。	kelihatannya es krim itu akan mencair, ayo kita makan sekarang
+jpn_Hira	ind	あいつの生意気な話し方が嫌いだ。	Aku benci cara bicaranya yang suka lancang.
+jpn_Hira	ind	あいにく品切れになってしまったんですが。	Mohon maaf, kami kehabisan stok barang tersebut.
+jpn_Hira	ind	あなたがたの賃上げの要求は再び拒絶されました。	Permohonan kenaikan gaji kalian kembali ditolak.
+jpn_Hira	ind	あなたが発見した方法とはどういったものですか？	Metode apa yang Anda gunakan dalam melakukan penemuan?
+jpn_Hira	ind	あなたと健とどちらが背が高いですか。	Antara kau dan Ken, siapa yang badannya lebih tinggi?
+jpn_Hira	ind	あなたにお会いするのを楽しみにしています。	Saya berharap bisa bertemu denganmu.
+jpn_Hira	ind	あなたにお会いできてとてもうれしく思います。	Saya merasa senang sekali bertemu denganmu.
+jpn_Hira	ind	あなたにお会いできて光栄です。	Saya merasa terhormat bisa berjumpa dengan anda.
+jpn_Hira	ind	あなたにお目にかかって大変うれしく存じます。	Saya merasa senang sekali berjumpa dengan anda.
+jpn_Hira	ind	あなたにお目にかかると彼は喜ぶだろうと思います。	Saya pikir, dia akan senang jika bertemu denganmu.
+jpn_Hira	ind	あなたにお目にかかれてうれしかったです、タモリさん。	Senang sekali berjumpa dengan anda, Pak Tamori.
+jpn_Hira	ind	あなたには研究に専念していただきたいのです。	Aku ingin kau bersungguh-sungguh dalam penelitian ini.
+jpn_Hira	ind	あなたの一押しの俳優は誰ですか？	Siapa aktor favoritmu?
+jpn_Hira	ind	あなたの名前は何ですか。	Siapa nama Anda?
+jpn_Hira	ind	あなたの話を信じるのはちょっと無理ですね。	Saya tidak dapat berpikir bahwa ceritamu benar.
+jpn_Hira	ind	あなたはこの質問に答える必要はない。	Anda tidak perlu menjawab pertanyaan ini.
+jpn_Hira	ind	あなたはどう思いますか。	Bagaimana menurutmu?
+jpn_Hira	ind	あなたはどこでナンシーを見かけましたか。	Kau melihat Nancy di mana?
+jpn_Hira	ind	あなたはどこにいたのですか。	Tadi kau ada di mana?
+jpn_Hira	ind	あなたはどこに行くところでしたか。	Tadi kau mau pergi ke mana?
+jpn_Hira	ind	あなたはどこに行くのですか？	Anda akan pergi ke mana?
+jpn_Hira	ind	あなたはどのくらいのお金が必要なのですか。	Berapa banyak uang yang kamu butuhkan?
+jpn_Hira	ind	あなたはバッグに何を持っていますか。	Apa yang kau simpan di dalam tasmu?
+jpn_Hira	ind	あなたはピアノやるそうですね。	Aku dengar kau bermain piano.
+jpn_Hira	ind	あなたはブラウンさんをご存知ですか。	Apakah Anda mengenal tuan Brown?
+jpn_Hira	ind	あなたはフランスへ行ったことがありますか。	Apa kau pernah ke Prancis?
+jpn_Hira	ind	あなたはもう朝食をとりましたか？	Kalian sudah sarapan?
+jpn_Hira	ind	あなたはもう朝食を済ませましたか。	Apa kau sudah menghabiskan sarapanmu?
+jpn_Hira	ind	あなたはもっと理性的であるべきだ。	Seharusnya kau lebih rasional.
+jpn_Hira	ind	あなたはラケットを何本持っていますか。	Berapa banyak raket yang kau miliki?
+jpn_Hira	ind	あなたは何が違うか知っていますか?	Apakah Anda tahu perbedaannya?
+jpn_Hira	ind	あなたは何を持っていますか。	Anda punya apa?
+jpn_Hira	ind	あなたは何故そう考えるのですか。	Kenapa kau berpikir begitu?
+jpn_Hira	ind	あなたは兄弟で上から何番目ですか？	Anak keberapakah kamu?
+jpn_Hira	ind	あなたは兄弟の中で何番目ですか？	Anak keberapakah kamu?
+jpn_Hira	ind	あなたは既に朝食を食べていますよね？	Kalian sudah makan pagi, bukan?
+jpn_Hira	ind	あなたは明日お暇ですか。	Apakah Anda ada acara besok?
+jpn_Hira	ind	あなたは東京から来たんですか？	Apa kamu datang dari Tokyo?
+jpn_Hira	ind	あなたは結婚するには若すぎますよ。	Anda terlalu muda untuk menikah.
+jpn_Hira	ind	あなたは英語の宿題をもう終えましたか。	Apakah anda sudah menyelesaikan pekerjaan rumah bahasa Inggris?
+jpn_Hira	ind	あのレコードはこの店で買った。	Perekam itu saya beli di toko ini.
+jpn_Hira	ind	あのレストランはひどいものを食わせる。	Restoran itu menyajikan makanan tidak enak.
+jpn_Hira	ind	あの上の方で光っている星は木星です。	Bintang yang bersinar di atas sana adalah Jupiter
+jpn_Hira	ind	あの人はすぐ怒る。	Orang itu mudah marah.
+jpn_Hira	ind	あの人はだれですか。	Siapa orang itu?
+jpn_Hira	ind	あの人は誰ですか？	Siapa orang itu?
+jpn_Hira	ind	あの映画、最低！	Film itu jelek sekali!
+jpn_Hira	ind	あの音は何だったんだろう？	Suara apa itu?
+jpn_Hira	ind	ありがとう。	Makasih.
+jpn_Hira	ind	ありがとう！	Makasih!
+jpn_Hira	ind	ありがとう！	Terima kasih!
+jpn_Hira	ind	アルメニアについての本がありますか。	Apa kau punya buku tentang Armenia?
+jpn_Hira	ind	アレッシアは英語を話せない。	Alessia tidak bisa berbahasa Inggris.
+jpn_Hira	ind	あれは古いお城です。	Itu adalah benteng tua.
+jpn_Hira	ind	あんな奴のどこがいいんだよ？ ただの女たらしじゃねえか。	Orang seperti itu apanya yang baik? Bukankah ia suka mempermainkan wanita?
+jpn_Hira	ind	いいかげんにして。	Sudah hentikan.
+jpn_Hira	ind	いい案だ！	Rencana yang bagus!
+jpn_Hira	ind	イスラエルの何を知ってるんですか?	Apa yang Anda ketahui tentang Israel?
+jpn_Hira	ind	いただきます。	Selamat makan.
+jpn_Hira	ind	イチゴは今が旬です。	Stroberi sekarang ini sedang musim.
+jpn_Hira	ind	いつかアメリカに行きたい。	Aku ingin pergi ke Amerika suatu hari nanti.
+jpn_Hira	ind	いつかオートクチュールに身を包むんだという彼女の夢が意外な形で実現した。	Suatu hari, secara tidak terduga mimpinya mengenakan setelan haute couture menjadi kenyataan.
+jpn_Hira	ind	いつかは私は立派な絵を描くつもりです。	Saya ingin melukis sebuah gambar yang bagus suatu hari nanti.
+jpn_Hira	ind	いつからここで働いてるんですか？	Sejak kapan kau bekerja di sini?
+jpn_Hira	ind	いつからコンタクトしてるの？	Sejak kapan kamu menggunakan lensa kontak?
+jpn_Hira	ind	イランから来ました。	Aku datang dari Iran.
+jpn_Hira	ind	インターネットで知り合った人と、実際に会ったことはありますか？	Pernahkah kamu bertemu secara langsung dengan orang yang kamu kenal dari internet?
+jpn_Hira	ind	エイミーはどのように見えましたか。	Emi tampak seperti apa?
+jpn_Hira	ind	おはようございます！	Selamat pagi!
+jpn_Hira	ind	おめでとう！	Selamat!
+jpn_Hira	ind	おめでとうございます。	Selamat!
+jpn_Hira	ind	お会計お願いします。	Tolong bonnya.
+jpn_Hira	ind	お前がいっちゃん背が高いぞ。	Kau tinggi sekali, hoi.
+jpn_Hira	ind	お前が犯人だ。	Kamu adalah pelakunya.
+jpn_Hira	ind	お医者さんは平日しかいませんよ。	Dokter hanya ada pada hari kerja.
+jpn_Hira	ind	お友達の名前は何ですか。	Siapa nama teman Anda?
+jpn_Hira	ind	お名前をお伺いするのを忘れておりました。	Aku lupa menanyakan namamu.
+jpn_Hira	ind	お姉さんが教えてア・ゲ・ル。	Kakakmu akan memberitahumu.
+jpn_Hira	ind	お幸せに！	Semoga bahagia!
+jpn_Hira	ind	お昼ごはんは食べたの？	Kamu sudah makan siang?
+jpn_Hira	ind	お気に入りのスポーツは何ですか。	Apa olahraga favoritmu?
+jpn_Hira	ind	お気に召しましたでしょうか？	Apakah Anda menyukainya?
+jpn_Hira	ind	お水をください。	Tolong beri aku air.
+jpn_Hira	ind	お疲れさまでした。	Terima kasih.
+jpn_Hira	ind	お腹が減った。	Saya lapar.
+jpn_Hira	ind	お腹が痛いのです。	Perutku sakit.
+jpn_Hira	ind	お腹が空いているのですか。	Apa kau lapar?
+jpn_Hira	ind	お茶をもらえますか。	Boleh saya minta teh?
+jpn_Hira	ind	お飲み物はどういたすか。	Anda mau minum apa?
+jpn_Hira	ind	がっかりだよ。	Aku kecewa.
+jpn_Hira	ind	ギャンブルはやめなさい。	Kamu harus berhenti berjudi.
+jpn_Hira	ind	キリンってなんて鳴くんだろう？	Suaranya jerapah itu gimana sih?
+jpn_Hira	ind	ケーキを二人に分けた。	Dia membagi kuenya untuk dua orang.
+jpn_Hira	ind	コートを着たほうがいい。	Sebaiknya kamu pakai jasmu.
+jpn_Hira	ind	コートを着るのを手伝ってあげよう。	Biar kubantu memakai jas.
+jpn_Hira	ind	コートを脱いだらどうですか。	Kenapa tidak kau lepas jasmu?
+jpn_Hira	ind	コーヒーが好きな人もいれば、紅茶が好きな人もいる。	Sebagian orang suka kopi, sebagian lagi suka teh.
+jpn_Hira	ind	コーヒーか紅茶、どちらになさいますか。	Mau kopi atau teh?
+jpn_Hira	ind	ここから一番近い銀行はどこですか？	Di mana bank yang paling dekat dari sini?
+jpn_Hira	ind	ここなら安全なのですか。	Apakah di sini aman?
+jpn_Hira	ind	ここに来な。	Kemari.
+jpn_Hira	ind	ここは病院です。	Ini adalah rumah sakit.
+jpn_Hira	ind	ここを曲がればおそらく渋滞を回避できますよ。	Kalau kamu belok ke sini, mungkin kamu bisa terhindar dari kemacetan.
+jpn_Hira	ind	このドレス、太って見えるかな？	Kalau pakai gaun ini kelihatan gemuk nggak ya?
+jpn_Hira	ind	このニュースに対する彼女の反応はどうでしたか。	Bagaimana pendapatnya terhadap berita ini?
+jpn_Hira	ind	このビールは冷えていません。	Bir ini masih belum dingin.
+jpn_Hira	ind	この傘いくらですか？	Payung ini berapa harganya?
+jpn_Hira	ind	この小説は退屈だ。	Novel ini membosankan.
+jpn_Hira	ind	この川は太平洋に流れ込みます。	Sungai ini bermuara di Pasifik.
+jpn_Hira	ind	この映画は小説をもとにしている。	Film ini didasarkan pada novel.
+jpn_Hira	ind	この時計は絶対に狂わないこと請け合いだ。	Saya jamin jam ini tidak meleset.
+jpn_Hira	ind	この木はどうしても燃えない。	Apapun usahamu, kayu ini tidak dapat terbakar.
+jpn_Hira	ind	この本はあなたのですか。	Buku ini milikmu?
+jpn_Hira	ind	この番号に電話を下さい。	Silakan hubungi nomor ini.
+jpn_Hira	ind	この痛みをやわらげる薬が何かほしい。	Saya perlu obat untuk mengurangi rasa sakit.
+jpn_Hira	ind	この自転車、誰の？	Sepeda ini milik siapa?
+jpn_Hira	ind	この花瓶は割れやすい。	Vas ini mudah pecah.
+jpn_Hira	ind	この街へは何のようで来たのですか。	Anda datang ke kota ini untuk urusan apa?
+jpn_Hira	ind	この身振りは若い人たちにはよく知られている。	Isyarat ini sangat dikenal di kalangan muda.
+jpn_Hira	ind	この車は乱暴な使い方をされてきたに違いない。	Mobil ini pasti telah digunakan dengan cara yang kasar.
+jpn_Hira	ind	この辺でスーパーってどこにありますか？	Di sekitar sini supermarket ada di mana?
+jpn_Hira	ind	この道はあまり車が通らないんだ。	Jalan ini jarang dilalui kendaraan.
+jpn_Hira	ind	この道はとてもせまいので車は通れません。	Jalannya terlalu sempit, sehingga mobil tidak bisa melaluinya.
+jpn_Hira	ind	この魚はなに色ですか?	Ikan ini warnanya apa?
+jpn_Hira	ind	この黒い箱に砂糖がたくさんある。	Ada banyak gula di dalam kotak hitam ini.
+jpn_Hira	ind	ゴミ収集は週に３回やっています。	Pengambilan sampah dilakukan tiga kali sepekan.
+jpn_Hira	ind	コメントありがとうございます。	Terima kasih untuk komentarnya.
+jpn_Hira	ind	これはドイツから輸入した車です。	Ini adalah mobil yang diimpor dari Jerman.
+jpn_Hira	ind	これは君の本ですか。	Apa ini bukumu?
+jpn_Hira	ind	これは変だ。	Ini aneh.
+jpn_Hira	ind	これは文では無い。	Ini bukan kalimat.
+jpn_Hira	ind	これは本当の話です。	Ini cerita yang sebenarnya.
+jpn_Hira	ind	これは猫です。	Ini kucing.
+jpn_Hira	ind	これらの本は健二のものですか。	Apakah buku ini karangan Kenji?
+jpn_Hira	ind	これらの本を２冊とも読んだ。	Aku sudah membaca kedua buku ini.
+jpn_Hira	ind	これを壊したのはだれですか。	Siapa yang merusak ini?
+jpn_Hira	ind	これ使って。	Pakailah ini.
+jpn_Hira	ind	これ誰の？	Ini punya siapa?
+jpn_Hira	ind	これ食べてもいいですか？	Saya bisa makan yang ini?
+jpn_Hira	ind	こんなきれいな夕陽見たことないよ。	Wah, aku belum pernah melihat matahari terbenam seindah ini.
+jpn_Hira	ind	こんなところで君に会うなんて夢にも思わなかったよ。	Tak pernah terpikirkan aku akan bertemu denganmu di tempat seperti ini, bahkan di dalam mimpi sekalipun.
+jpn_Hira	ind	こんな時間まで何してたの？	Sampai jam segini kamu ngapain?
+jpn_Hira	ind	こんにちは、お元気ですか？	Halo, apa kabar?
+jpn_Hira	ind	こんにちは。すみません、ロレッタを探しているのですが・・・	Selamat siang. Permisi, saya mencari Loretta.
+jpn_Hira	ind	こんにちは、如何ですか？	Hai, bagaimana kabarmu?
+jpn_Hira	ind	こんにちは、如何ですか？	Selamat siang, bagaimana kabarmu?
+jpn_Hira	ind	さようなら。	Sampai jumpa.
+jpn_Hira	ind	しばらく雑誌を読んでいたら彼女がきた。	Dia datang setelah aku membaca majalah selama beberapa saat.
+jpn_Hira	ind	ジムはフランス語とドイツ語を使いこなせている。	Jim mahir dalam Bahasa Perancis dan Jerman.
+jpn_Hira	ind	ジムは埠頭へ釣りに行った。	Jim pergi memancing di dermaga.
+jpn_Hira	ind	ジムは教習所に通っている。	Jim menghadiri sebuah lembaga pelatihan.
+jpn_Hira	ind	じゃあね！	Dah!
+jpn_Hira	ind	じゃまたね。	Sampai jumpa lagi.
+jpn_Hira	ind	じゃ何？	Terus kenapa?
+jpn_Hira	ind	シュークリーム買ってきたけど食べる？	Aku tadi beli kue sus, kamu mau?
+jpn_Hira	ind	ジョンは親から独立したいと思っている。	John berkeinginan untuk hidup mandiri.
+jpn_Hira	ind	シンガポールからやって来ました。	Saya datang dari Singapura.
+jpn_Hira	ind	スナック売り場は、どこですか。	Dimana tempat membeli makanan ringan?
+jpn_Hira	ind	すみません、母は今留守です。	Maaf, ibuku sedang tidak di rumah.
+jpn_Hira	ind	すみません、通ります。	Permisi, saya lewat.
+jpn_Hira	ind	すらすら言えるようになるまでこの文を暗記しなさい。	Hafalkan paragraf ini sampai kamu bisa mengatakannya dengan lancar.
+jpn_Hira	ind	ぜひその映画を見るべきです。	Kamu harus menonton film itu.
+jpn_Hira	ind	そういうことは計画的というよりむしろ偶然に起こることがしばしばある。	Hal semacam itu lebih sering terjadi karena kecelakaan ketimbang direncanakan.
+jpn_Hira	ind	そうだ！	Tepat sekali!
+jpn_Hira	ind	そうなんですか？	Apa benar begitu?
+jpn_Hira	ind	そう思うかい？	Apa kamu pikir begitu?
+jpn_Hira	ind	そこに羽の生えたばかりの小鳥がありました。	Di sana ada anak burung yang baru saja bisa terbang.
+jpn_Hira	ind	そしてこのニューアルバムをひっさげて全国アリーナツアーが決定しました！	Kemudian ia mengeluarkan album baru ini dan berencana untuk melakukan tur arena nasional!
+jpn_Hira	ind	そっちは今何時？	Di sana sekarang jam berapa?
+jpn_Hira	ind	そのノートは君のではなくて彼のです。	Buku catatan itu bukan milikmu, tapi miliknya.
+jpn_Hira	ind	その事故について彼に質問した。	Aku bertanya padanya mengenai kecelakaan itu.
+jpn_Hira	ind	その列車は予定どおりに到着した。	Kereta itu tiba sesuai jadwal.
+jpn_Hira	ind	その列車は元町駅を通過します。	Kereta itu akan melintasi stasiun Motomachi.
+jpn_Hira	ind	その列車は定刻に到着した。	Kereta itu tiba sesuai jadwal.
+jpn_Hira	ind	その列車は転覆した。	Kereta tersebut terguling.
+jpn_Hira	ind	その問題全体を検討しなさい。	Periksa keseluruhan pertanyaan itu.
+jpn_Hira	ind	その歌手は女の子に人気がある。	Penyanyi itu terkenal di kalangan perempuan.
+jpn_Hira	ind	その町は山のふもとにあります。	Kota itu ada di kaki gunung.
+jpn_Hira	ind	その知らせで彼は幸せな気分になった。	Berita itu membuatnya bahagia.
+jpn_Hira	ind	その船の船主は誰ですか。	Siapa pemilik kapal itu?
+jpn_Hira	ind	その船は、水平線のかなたに消えた。	Kapal itu menghilang di ujung cakrawala.
+jpn_Hira	ind	その色いいね。	Warna itu bagus.
+jpn_Hira	ind	その食べ物はおいしいでしょう。	Makanan itu enak sekali.
+jpn_Hira	ind	ソファーに横になっても構いませんか。	Bolehkah aku berbaring di sofa?
+jpn_Hira	ind	それがどこから来たのか分からなかった。	saya tidak tau darimana itu berasal
 jpn_Hira	ind	それは、5ドルや10ドルや20ドルといったごくわずかの貯金を掘り起こした働く人々によってたてられたのだ。	Itu dibangun menggunakan uang simpanan yang dikumpulkan oleh orang-orang yang bekerja, sekurang-kurangnya sebesar 5 dolar, 10 dolar, dan 20 dolar.
+jpn_Hira	ind	それはこっちの台詞だよ。	Harusnya aku yang bilang begitu.
+jpn_Hira	ind	それは確かかい。	Apa kau yakin dengan hal itu?
+jpn_Hira	ind	それは私にとって全く新しい経験です。	Itu adalah pengalaman yang benar-benar baru bagi saya.
+jpn_Hira	ind	それ本気で言ってる？	Apa kau serius mengatakannya?
+jpn_Hira	ind	そんなに食べたらお腹壊すよ。	Kalau kamu makan sebanyak itu, kamu akan sakit perut.
+jpn_Hira	ind	だから何なの？	Terus kenapa?
+jpn_Hira	ind	たくさんの本が出版されているが、そのうち読むに値するものは非常に少ない。	Banyak buku telah dipublikasikan, namun hanya sedikit diantara mereka yang menarik untuk dibaca.
+jpn_Hira	ind	たこは上へ上っていった。	Layang-layangnya naik ke atas.
+jpn_Hira	ind	ただなの？	Ini gratis?
+jpn_Hira	ind	ただの冗談よ。	Aku cuma bercanda.
+jpn_Hira	ind	たとえ学問はあっても、彼は尊敬できない。	Sekalipun ia mendapatkan beasiswa, aku tidak bisa menghormatinya.
+jpn_Hira	ind	だれでも間違いを犯すことがある。	Setiap orang bisa berbuat salah.
+jpn_Hira	ind	チョコレートは好きじゃない。	Aku tidak suka cokelat.
+jpn_Hira	ind	ちょっととまって一休みしよう。	Mari kita berhenti dan beristirahat sejenak.
+jpn_Hira	ind	ちょっと休みませんか？	Mau istirahat sebentar?
+jpn_Hira	ind	ちょっと話がわからないんですが。	Saya tidak paham dengan perkataanmu.
+jpn_Hira	ind	「ついお宅のバラに見とれてしまってまして。本当に華やかですこと」「まあ、お上手ねえ。それはどうも」	"Saya terpesona dengan bunga-bunga mawar di rumah Anda. Mereka sangat indah sekali." "Ah, saya tersanjung mendengarnya. Terima kasih."
+jpn_Hira	ind	って、知らないわけ？	Maksudnya, kamu ga tahu?
+jpn_Hira	ind	テストってどのくらい難しかったの？	Seberapa susahnya ujian itu?
+jpn_Hira	ind	デパートで新しい帽子を買った。	Aku mendapatkan sebuah topi baru di pusat perbelanjaan.
+jpn_Hira	ind	テレビがほとんど映画にとって代わった。	Televisi hampir mengambil alih peran bioskop.
+jpn_Hira	ind	どういう意味ですか？	Artinya apa?
+jpn_Hira	ind	「どうしたの？」「鍵がない」「何の鍵？」「自転車の鍵」	"Kenapa?" "Kunciku nggak ada." "Kunci apa?" "Kunci sepeda motor."
 jpn_Hira	ind	どうしました？	Ada apa?
+jpn_Hira	ind	どうぞおかけになってください。	Silakan duduk.
+jpn_Hira	ind	どうぞよろしく。	Senang bertemu denganmu.
+jpn_Hira	ind	どう思いますか。	Bagaimana menurutmu?
+jpn_Hira	ind	どこにいたの？	Tadi kau ada di mana?
+jpn_Hira	ind	どこへ行きたいのですか。	Anda ingin pergi ke mana?
+jpn_Hira	ind	どこへ行きたいのですか。	Kau ingin pergi ke mana?
+jpn_Hira	ind	どこへ行くの？	Kau mau pergi ke mana?
+jpn_Hira	ind	どこ行ってたの？	Ke mana kamu pergi?
+jpn_Hira	ind	どちらのボタンを押せばいいのでしょうか？	Tombol mana yang harus saya tekan?
+jpn_Hira	ind	どのチームのファンですか。	Anda penggemar dari tim mana?
+jpn_Hira	ind	どの教科が一番好きですか。	Pelajaran mana yang paling kamu sukai?
+jpn_Hira	ind	どの果物が一番好きですか。	Buah apa yang paling Anda sukai?
+jpn_Hira	ind	トムが当選する可能性は、たとえあるにしてもごく少ない。	Sangat kecil kemungkinan Tom akan memenangkan pemilihan.
+jpn_Hira	ind	トムさんはアラビアの馬を育ている。	Tom merawat dan membesarkan kuda Arabia.
+jpn_Hira	ind	トムだったらこういうときどうする？	Kalau Tom, apa yang akan dia lakukan di waktu seperti ini?
+jpn_Hira	ind	トムと会いたい。	Aku ingin bertemu Tom.
+jpn_Hira	ind	トムには役職がない。	Tom tidak punya jabatan.
+jpn_Hira	ind	トムに聞きなさい。	Bertanyalah pada Tom.
+jpn_Hira	ind	トムに聞きなさい。	Tanyalah Tom.
+jpn_Hira	ind	トムに話してもいい？	Boleh aku bicara sama Tom?
+jpn_Hira	ind	トムの本名知ってる？	Apa kamu tahu nama asli Tom?
+jpn_Hira	ind	トムはいい医者になるでしょう。	Tom akan menjadi dokter yang baik.
+jpn_Hira	ind	トムはいつでも明るい。	Tom selalu ceria kapanpun itu.
+jpn_Hira	ind	トムはいつも健康的です。	Tom selalu sehat.
+jpn_Hira	ind	トムはこっそり教室を抜け出した。	Tom menyelinap keluar dari kelas secara diam-diam.
+jpn_Hira	ind	トムはさらに三年間、フランス語の勉強を続けた。	Tom melanjutkan mempelajari bahasa Prancis hingga tiga tahun ke depan.
+jpn_Hira	ind	トムはジャックと背が同じくらいだ。	Tinggi Tom kurang lebih sama dengan Jack.
+jpn_Hira	ind	トムはのんきだ。	Tom itu santai.
+jpn_Hira	ind	トムはひとりでうちに帰った。	Tom pulang ke rumah sendirian.
+jpn_Hira	ind	トムはボストンに行ったことがなかった。	Tom belum pernah pergi ke Boston.
+jpn_Hira	ind	トムはメアリーの気持ちを楽にするのに何と言っていいかわからない。	Tom tidak tahu apa yang sebaiknya ia katakan untuk membuat Mary merasa lebih baik.
+jpn_Hira	ind	トムはもう起きました？	Apakah Tom sudah bangun?
+jpn_Hira	ind	トムはもっと食べるべきだと思う。	Aku rasa Tom harus makan lebih banyak.
+jpn_Hira	ind	トムは信頼できる男だ。	Tom laki-laki yang bisa kamu percaya.
+jpn_Hira	ind	トムは僕の友達です。	Tom adalah temanku.
+jpn_Hira	ind	トムは僕の友達です。	Tom itu temanku.
+jpn_Hira	ind	トムは君に怒ってないよ。	Tom tidak marah padamu, kok.
+jpn_Hira	ind	トムは嘘をついていると思う。	Aku pikir Tom berbohong.
+jpn_Hira	ind	トムは多分寝ている。	Tom mungkin sedang tidur.
+jpn_Hira	ind	トムは多分眠っている。	Tom mungkin sedang tidur.
+jpn_Hira	ind	トムは大物を捕まえた。	Tom menangkap yang besar.
+jpn_Hira	ind	トムは実にいい声をしている。	Tom memang memiliki suara yang bagus.
+jpn_Hira	ind	トムは家の中に居る。	Tom ada di rumah.
+jpn_Hira	ind	トムは少し酔っていた。	Tom sedikit mabuk.
+jpn_Hira	ind	トムは幸せだった。	Tom merasa bahagia.
+jpn_Hira	ind	トムは急に泣き出した。	Tom tiba-tiba menangis.
+jpn_Hira	ind	トムは最後に到着した。	Tom datang paling akhir.
+jpn_Hira	ind	トムは最近誰ともけんかをしていない。	Tom tidak berkelahi dengan siapa pun akhir-akhir ini.
+jpn_Hira	ind	トムは歯が痛い。	Tom sedang sakit gigi.
+jpn_Hira	ind	トムは泣いているようです。	Tom kelihatannya menangis.
+jpn_Hira	ind	トムは私の友達です。	Tom adalah temanku.
+jpn_Hira	ind	トムは私より背が高い。	Tom lebih tinggi ketimbang aku.
+jpn_Hira	ind	トムは私をがっかりさせた。	Tom membuatku kecewa.
+jpn_Hira	ind	トムは私をがっかりさせた。	Tom mengecewakanku.
+jpn_Hira	ind	トムは空想の世界に生きている。	Tom hidup di dunia fantasi.
+jpn_Hira	ind	トムは紙飛行機を作るのが好きだ。	Tom suka membuat pesawat kertas.
+jpn_Hira	ind	トムは衝撃を受けたようだ。	Tom terlihat syok.
+jpn_Hira	ind	トムは遊びに行きたくない。	Tom tidak ikut main.
+jpn_Hira	ind	トムは顔が広い。	Tom memiliki banyak kenalan.
+jpn_Hira	ind	トム、調子はいかがですか？	Apa kabar, Tom?
+jpn_Hira	ind	どれ位かかりますか。	Butuh waktu berapa lama?
+jpn_Hira	ind	どんなスポーツが好きですか。	Olahraga macam apa yang kau sukai?
+jpn_Hira	ind	ナイフを貸して下さい。	Tolong pinjam pisaunya.
+jpn_Hira	ind	なくしていた財布を見つけた。	Aku menemukan dompetku yang hilang.
+jpn_Hira	ind	なぜ欠席したか理由を言いなさい。	Katakan aku alasan kenapa ia tidak hadir.
+jpn_Hira	ind	なにか言うことがありますか。	Ada yang ingin kau katakan?
+jpn_Hira	ind	なるほど。	Begitu rupanya.
+jpn_Hira	ind	なんか今日はついてないみたい。	Rasa-rasanya hari ini aku kurang beruntung.
+jpn_Hira	ind	なんか天気悪くなってきたね。	Cuacanya makin gelap aja ya.
+jpn_Hira	ind	ナンシーは犬が怖い。	Nancy takut anjing.
+jpn_Hira	ind	ナンシーは私の姉に似ている。	Nancy mirip dengan adikku.
+jpn_Hira	ind	なんでこんなことしたの？	Kenapa kau melakukan hal semacam ini?
+jpn_Hira	ind	ねぇ。	Eh.
 jpn_Hira	ind	ネコがいる。	Ada kucing.
 jpn_Hira	ind	ネコがいる。	Ada seekor kucing.
-jpn_Hira	ind	あなたはピアノやるそうですね。	Aku dengar kau bermain piano.
-jpn_Hira	ind	がっかりだよ。	Aku kecewa.
-jpn_Hira	ind	まだここにいたい。	Aku masih ingin di sini.
-jpn_Hira	ind	ログアウトするんじゃなかったよ。	Aku tidak log keluar kok.
-jpn_Hira	ind	どのチームのファンですか。	Anda penggemar dari tim mana?
-jpn_Hira	ind	そうなんですか？	Apa benar begitu?
-jpn_Hira	ind	もっとクッキーはいかがですか。	Apa kamu mau kue lagi?
-jpn_Hira	ind	Aは十分だが、Bはそうではない。	Untuk A cukup, tetapi tidak demikian untuk B.
+jpn_Hira	ind	ネズミは臆病な生き物だ。	Tikus itu hewan yang penakut.
+jpn_Hira	ind	ノーベル賞を得ることが私の夢です。	Mendapatkan Penghargaan Nobel adalah impian saya.
 jpn_Hira	ind	パーティーはいかがでしたか。	Bagaimana menurut Anda pestanya?
-jpn_Hira	ind	なるほど。	Begitu rupanya.
-jpn_Hira	ind	まじで？	Benarkah?
-jpn_Hira	ind	じゃあね！	Dah!
-jpn_Hira	ind	ねぇ。	Eh.
-jpn_Hira	ind	やめろ！	Hentikan!
-jpn_Hira	ind	ただなの？	Ini gratis?
-jpn_Hira	ind	トムだったらこういうときどうする？	Kalau Tom, apa yang akan dia lakukan di waktu seperti ini?
-jpn_Hira	ind	ギャンブルはやめなさい。	Kamu harus berhenti berjudi.
-jpn_Hira	ind	なんでこんなことしたの？	Kenapa kau melakukan hal semacam ini?
-jpn_Hira	ind	よくやった！	Kerja bagus!
-jpn_Hira	ind	ありがとう！	Makasih!
-jpn_Hira	ind	ありがとう。	Makasih.
-jpn_Hira	ind	ラジオをつけてくれ。	Nyalakan radionya.
-jpn_Hira	ind	さようなら。	Sampai jumpa.
-jpn_Hira	ind	じゃまたね。	Sampai jumpa lagi.
-jpn_Hira	ind	いつからコンタクトしてるの？	Sejak kapan kamu menggunakan lensa kontak?
-jpn_Hira	ind	おめでとうございます。	Selamat!
-jpn_Hira	ind	おめでとう！	Selamat!
-jpn_Hira	ind	いただきます。	Selamat makan.
-jpn_Hira	ind	おはようございます！	Selamat pagi!
-jpn_Hira	ind	どうぞよろしく。	Senang bertemu denganmu.
-jpn_Hira	ind	どうぞおかけになってください。	Silakan duduk.
-jpn_Hira	ind	いいかげんにして。	Sudah hentikan.
-jpn_Hira	ind	あなたはどこにいたのですか。	Tadi kau ada di mana?
-jpn_Hira	ind	どこにいたの？	Tadi kau ada di mana?
-jpn_Hira	ind	そうだ！	Tepat sekali!
-jpn_Hira	ind	ありがとう！	Terima kasih!
-jpn_Hira	ind	コメントありがとうございます。	Terima kasih untuk komentarnya.
+jpn_Hira	ind	バイオリン弾きは演奏の合図を待っています。	Para pemain violin menunggu sinyal untuk mulai bermain.
+jpn_Hira	ind	バイクは若者が乗ると危険なことがある。	Bisa berbahaya kalau orang yang masih muda mengendarai sepeda motor.
+jpn_Hira	ind	バスは１０分ごとに通っている。	Busnya datang dan pergi setiap 10 menit.
+jpn_Hira	ind	パスポートを見せてくれませんか？	Dapatkah saya melihat paspor anda?
+jpn_Hira	ind	はっきりとは知らない。	Aku tidak tahu pastinya.
+jpn_Hira	ind	ピアノの他に何か楽器やってる？	Kamu main alat musik apa selain piano?
+jpn_Hira	ind	ピザは私の大好きな食べ物です。	Piza adalah makanan yang paling aku sukai.
+jpn_Hira	ind	ひとつ、意見があるんですが。	Aku punya ide.
+jpn_Hira	ind	ビルがこの本持ってきましたよ。	Bill membawakan saya buku ini.
+jpn_Hira	ind	ビルはボブより足が速い。	Lari Bill lebih cepat daripada lari Bob.
+jpn_Hira	ind	ビルは親の誕生日にプレゼントを欠かしたことがない。	Bill tidak pernah salah/lupa mengirim hadiah ulang tahun pada ibunya.
+jpn_Hira	ind	ぼくはこの本を古本屋で見つけた。	Aku menemukan buku ini di toko barang bekas.
+jpn_Hira	ind	ぼくは一生懸命その仕事をやろうと思う。	Aku akan berusaha semaksimal mungkin untuk melakukan pekerjaan itu.
+jpn_Hira	ind	ポケットに何を持っていますか。	Apa yang kau simpan di dalam kantongmu?
 jpn_Hira	ind	ほっといてよ！	Tinggalkan aku sendiri!
-jpn_Hira	ind	トムはのんきだ。	Tom itu santai.
-jpn_Hira	ind	ちょっととまって一休みしよう。	Mari kita berhenti dan beristirahat sejenak.
+jpn_Hira	ind	ほらね、雨が降っているよ。	Kau lihat, hujan sedang turun.
+jpn_Hira	ind	ほんの冗談です。	Aku cuma bercanda.
+jpn_Hira	ind	ほんの冗談です。	Saya hanya bergurau.
+jpn_Hira	ind	ほんの少数の人しかその事実を知らない。	Hanya sedikit orang saja yang mengetahui fakta itu.
+jpn_Hira	ind	マイクの誕生日にあなたは何をプレゼントしたの？	Apa yang kamu hadiahkan di hari ulang tahun Mike?
+jpn_Hira	ind	まじで？	Benarkah?
+jpn_Hira	ind	まだここにいたい。	Aku masih ingin di sini.
+jpn_Hira	ind	まだ怖いの？	Kamu masih takut?
+jpn_Hira	ind	まだ眠いです。	Aku masih ngantuk.
+jpn_Hira	ind	まだ空席がありますか。	Apa masih ada kursi yang tersedia?
+jpn_Hira	ind	まだ行かないで。	Jangan pergi dulu.
+jpn_Hira	ind	ママと私はホールに逃げたのよ。	Aku dan ibuku melarikan diri ke aula.
+jpn_Hira	ind	まもなく彼がくるだろう。	Ia akan datang tidak lama lagi.
+jpn_Hira	ind	みなさん、お腹すいてますか？	Apa kalian lapar?
+jpn_Hira	ind	メアリーはお金を盗んだことを否定した。	Mary menolak bahwa dia mencuri uangnya.
+jpn_Hira	ind	めっちゃお腹すいた。	Aku sangat lapar.
+jpn_Hira	ind	もう６ヶ月たてば流暢にドイツ語が話せるようになるでしょう。	6 bulan lagi Anda akan bisa berbicara bahasa Jerman dengan lancar.
+jpn_Hira	ind	もう少し、先生が言っていることに集中して聞いていれば、理解できると思うよ。	Menurutku jika kamu mendengarkan apa yang dikatakan gurumu dengan seksama, kamu akan bisa memahaminya.
+jpn_Hira	ind	もう我慢できない。	Aku sudah tidak tahan lagi.
+jpn_Hira	ind	もう我慢できない。	Aku tidak tahan lagi.
+jpn_Hira	ind	もう我慢できないわ。	Aku sudah tak mampu menahannya lagi.
+jpn_Hira	ind	もう我慢できないわ。	Aku sudah tidak tahan lagi.
+jpn_Hira	ind	もう時間だ。行かないと。	Sudah waktu untuk saya pergi. Saya harus pergi sekarang.
+jpn_Hira	ind	もう時間だ、行かなきゃ。	Sudah jam segini, aku harus pergi.
+jpn_Hira	ind	もう疲れた。	Aku sudah lelah.
+jpn_Hira	ind	もしこんなことを続けていたら、彼は刑務所に入るはめになるぞ。	Jika dia terus-menerus melakukannya, dia akan berakhir di penjara.
+jpn_Hira	ind	もしも私が本当のことを話すようなことがあれば、彼は怒るだろう。	Kalau aku katakan padanya yang sebenarnya, dia akan marah.
+jpn_Hira	ind	もし今日が地球最後の日だったら何食べたい？	Kalau hari ini adalah hari terakhir bagi dunia, apa yang ingin kamu makan?
+jpn_Hira	ind	もし暇があれば、私はフランス語を勉強するのだが。	Jika ada waktu luang, saya ingin belajar bahasa Prancis.
+jpn_Hira	ind	もっとクッキーはいかがですか。	Apa kamu mau kue lagi?
+jpn_Hira	ind	もっと小さいサイズのはありますか？	Apakah ada ukuran yang lebih kecil?
+jpn_Hira	ind	もっと頑張って日本語勉強しなさい。	Kamu harus belajar bahasa Jepang lebih giat.
+jpn_Hira	ind	もはや言うことはない。	Sudah tidak ada yang ingin aku katakan.
+jpn_Hira	ind	やめろ！	Hentikan!
+jpn_Hira	ind	よいお年を。	Selamat tahun baru.
+jpn_Hira	ind	ようやく稼いだ金を無駄遣いするなよ！	Jangan boros dengan uang yang baru kamu dapat!
+jpn_Hira	ind	ようやく辿りついたスキー場・・・雪が雨に変わっていた。	Akhirnya kita sampai juga di bukit ski ini... Saljunya berubah menjadi hujan.
+jpn_Hira	ind	よくやった！	Kerja bagus!
+jpn_Hira	ind	よく旅行をしますか。	Apa Anda sering melakukan perjalanan?
+jpn_Hira	ind	ラジオの音を下げてくれませんか。	Bisakah kau kecilkan volume radionya?
+jpn_Hira	ind	ラジオの音を小さくしていただけませんか。	Bisakah kau kecilkan volume radionya?
+jpn_Hira	ind	ラジオをつけてくれ。	Nyalakan radionya.
+jpn_Hira	ind	ロウソクの火が自然に消えた。	Api lilinnya mati sendiri.
+jpn_Hira	ind	ログアウトするんじゃなかったよ。	Aku tidak log keluar kok.
+jpn_Hira	ind	ロバート・ハンセンが、旧ソ連に秘密情報を売りさばいた容疑で逮捕された。	Robert Hansen ditangkap atas tuduhan penjualan informasi rahasia kepada bekas Uni Soviet.
+jpn_Hira	ind	ワインを一本ください。	Tolong berikan saya anggur satu botol.
+jpn_Hira	ind	わからないときは遠慮なくご質問ください。	Ketika tidak mengerti, jangan ragu untuk bertanya.
+jpn_Hira	ind	一つ知りたいことがあります。	Ada satu hal yang ingin aku tahu.
 jpn_Hira	ind	一体何が彼らをそのような行動に駆り立てたのか？	Sebenarnya apa yang mendorong mereka untuk melakukan tindakan seperti itu?
 jpn_Hira	ind	一体君は英語が話せるのかね。	Kamu bisa berbahasa Inggris tidak?
-jpn_Hira	ind	あなたの一押しの俳優は誰ですか？	Siapa aktor favoritmu?
-jpn_Hira	ind	ワインを一本ください。	Tolong berikan saya anggur satu botol.
-jpn_Hira	ind	ぼくは一生懸命その仕事をやろうと思う。	Aku akan berusaha semaksimal mungkin untuk melakukan pekerjaan itu.
 jpn_Hira	ind	一番いいのは、専門家に修理を依頼することだよ。	Yang paling baik adalah meminta seorang ahli untuk memperbaikinya.
 jpn_Hira	ind	一番近い銀行はどこにありますか。	Bank yang terdekat ada di mana?
-jpn_Hira	ind	ここから一番近い銀行はどこですか？	Di mana bank yang paling dekat dari sini?
-jpn_Hira	ind	一つ知りたいことがあります。	Ada satu hal yang ingin aku tahu.
 jpn_Hira	ind	一緒にくるかい。	Kamu mau ikut?
 jpn_Hira	ind	一緒に来ますか？	Apa kamu mau ikut?
-jpn_Hira	ind	トムはさらに三年間、フランス語の勉強を続けた。	Tom melanjutkan mempelajari bahasa Prancis hingga tiga tahun ke depan.
-jpn_Hira	ind	たこは上へ上っていった。	Layang-layangnya naik ke atas.
-jpn_Hira	ind	あの上の方で光っている星は木星です。	Bintang yang bersinar di atas sana adalah Jupiter
 jpn_Hira	ind	上映はいつから始まりますか。	Kapan pemutaran filmnya dimulai?
 jpn_Hira	ind	世の中には争いの中でしか自己実現できない人もいるでしょう。僕はそういった人たちを責めたくないんです。	Di dunia ini ada orang yang hanya mampu merealisasikan diri saat berada dalam perselisihan. Aku tidak ingin menyalahkan orang seperti itu.
 jpn_Hira	ind	世の中には高級な人間と低級な人間が存在している、そんな考えが彼女のエッセイからはうかがえる。そのような考えは低級な人間の物だ。	Gagasan yang menyebutkan bahwa di dunia ini terdapat manusia kelas tinggi dan manusia kelas rendah bisa Anda temukan pada karangan miliknya. Manusia yang memiliki gagasan seperti itu adalah manusia kelas rendah.
 jpn_Hira	ind	両親は私に老人を敬うように言った。	Orang tuaku menyuruhku untuk menghormati orang yang lanjut usia.
-jpn_Hira	ind	その事故について彼に質問した。	Aku bertanya padanya mengenai kecelakaan itu.
-jpn_Hira	ind	ケーキを二人に分けた。	Dia membagi kuenya untuk dua orang.
 jpn_Hira	ind	五角柱の頂点の数と面の数は，それぞれいくつですか。	Berapa banyak sudut dan permukaan sebuah prisma segi lima?
 jpn_Hira	ind	交渉は中止になった。	Negosiasinya dibatalkan.
 jpn_Hira	ind	人をからかわないで。	Jangan mempermainkan orang lain.
-jpn_Hira	ind	あの人はだれですか。	Siapa orang itu?
-jpn_Hira	ind	あの人はすぐ怒る。	Orang itu mudah marah.
-jpn_Hira	ind	人生を幸福にする為には、日常の瑣事を愛さなければならぬ。	Agar hidup kita bahagia, kita harus mencintai hal-hal kecil di sekitar kita.
-jpn_Hira	ind	あの人は誰ですか？	Siapa orang itu?
 jpn_Hira	ind	人を馬鹿にしないで。	Jangan mempermainkan orang lain.
-jpn_Hira	ind	そっちは今何時？	Di sana sekarang jam berapa?
-jpn_Hira	ind	今回だけは許してやろう。	Aku hanya memaafkanmu kali ini saja.
+jpn_Hira	ind	人生を幸福にする為には、日常の瑣事を愛さなければならぬ。	Agar hidup kita bahagia, kita harus mencintai hal-hal kecil di sekitar kita.
 jpn_Hira	ind	今いる市民が逃げ出すという事態が危惧されます。	Dikhawatirkan para penduduk yang ada saat ini akan pergi melarikan diri.
-jpn_Hira	ind	今後の研究は、海洋に関する一層価値のある知識が得られる可能性を高めてくれるだろう。	Penelitian selanjutnya akan memungkinkan kami untuk memperoleh pengetahuan penting lain terkait dengan samudra.
-jpn_Hira	ind	今は忙しい。	Aku sibuk sekarang.
-jpn_Hira	ind	なんか今日はついてないみたい。	Rasa-rasanya hari ini aku kurang beruntung.
-jpn_Hira	ind	もし今日が地球最後の日だったら何食べたい？	Kalau hari ini adalah hari terakhir bagi dunia, apa yang ingin kamu makan?
-jpn_Hira	ind	今日までいい天気でした。	Sampai hari ini cuacanya selalu cerah.
-jpn_Hira	ind	今日は暑い。	Hari ini panas.
-jpn_Hira	ind	イチゴは今が旬です。	Stroberi sekarang ini sedang musim.
 jpn_Hira	ind	今から直します。	Saya akan memperbaikinya sekarang juga.
+jpn_Hira	ind	今は忙しい。	Aku sibuk sekarang.
+jpn_Hira	ind	今回だけは許してやろう。	Aku hanya memaafkanmu kali ini saja.
+jpn_Hira	ind	今後の研究は、海洋に関する一層価値のある知識が得られる可能性を高めてくれるだろう。	Penelitian selanjutnya akan memungkinkan kami untuk memperoleh pengetahuan penting lain terkait dengan samudra.
+jpn_Hira	ind	今日は暑い。	Hari ini panas.
+jpn_Hira	ind	今日までいい天気でした。	Sampai hari ini cuacanya selalu cerah.
 jpn_Hira	ind	他人のことには口出ししないよう彼に伝えてくれ。	Katakan padanya untuk tidak ikut campur.
 jpn_Hira	ind	他人のことを考慮して、たばこは控えて下さい。	Jangan merokok, bertenggang rasalah dengan yang lainnya.
-jpn_Hira	ind	ピアノの他に何か楽器やってる？	Kamu main alat musik apa selain piano?
-jpn_Hira	ind	ちょっと休みませんか？	Mau istirahat sebentar?
-jpn_Hira	ind	トムと会いたい。	Aku ingin bertemu Tom.
-jpn_Hira	ind	あなたにお会いできて光栄です。	Saya merasa terhormat bisa berjumpa dengan anda.
-jpn_Hira	ind	あなたにお会いできてとてもうれしく思います。	Saya merasa senang sekali bertemu denganmu.
-jpn_Hira	ind	あなたにお会いするのを楽しみにしています。	Saya berharap bisa bertemu denganmu.
-jpn_Hira	ind	お会計お願いします。	Tolong bonnya.
-jpn_Hira	ind	どれ位かかりますか。	Butuh waktu berapa lama?
 jpn_Hira	ind	住所を教えてください。	Tolong beritahukan alamat Anda.
 jpn_Hira	ind	体の調子がいまいちだ。	Aku sedang tidak enak badan
 jpn_Hira	ind	何かアレルギーはありますか？	Apa Anda punya alergi?
 jpn_Hira	ind	何かしてみましょう。	Mari kita mencoba melakukan sesuatu.
-jpn_Hira	ind	だから何なの？	Terus kenapa?
-jpn_Hira	ind	じゃ何？	Terus kenapa?
-jpn_Hira	ind	何事も友情ほど大切ではない。	Tidak ada yang lebih berharga dari persahabatan.
-jpn_Hira	ind	何人が旅行に行きますか。	Berapa orang yang ikut bepergian?
 jpn_Hira	ind	何か問題がありますか？	Apakah ada masalah?
 jpn_Hira	ind	何が怖いの？	Apa yang kamu takutkan?
 jpn_Hira	ind	何が怖いの？	Kamu takut apa?
 jpn_Hira	ind	何か悪いことでもあったの？	Kamu kenapa?
-jpn_Hira	ind	あなたは何を持っていますか。	Anda punya apa?
-jpn_Hira	ind	ポケットに何を持っていますか。	Apa yang kau simpan di dalam kantongmu?
-jpn_Hira	ind	あなたはバッグに何を持っていますか。	Apa yang kau simpan di dalam tasmu?
 jpn_Hira	ind	何か探してるの？	Kamu mencari sesuatu?
-jpn_Hira	ind	あなたは何故そう考えるのですか。	Kenapa kau berpikir begitu?
+jpn_Hira	ind	何が起きたの？	Apa yang terjadi?
+jpn_Hira	ind	何が起きたのか話して下さい。	Ceritakan padaku apa yang telah terjadi?
+jpn_Hira	ind	何が起こったの？	Apa yang terjadi?
+jpn_Hira	ind	何が起こっているのかぜひ知りたい。	Aku ingin tahu apa yang terjadi di sini?
+jpn_Hira	ind	何か食べようか。	Mau makan sesuatu?
+jpn_Hira	ind	何か飲む？	Mau minum sesuatu?
+jpn_Hira	ind	何を買ったのですか。	Beli apa?
+jpn_Hira	ind	何を飲みますか。	Mau minum apa?
+jpn_Hira	ind	何事も友情ほど大切ではない。	Tidak ada yang lebih berharga dari persahabatan.
+jpn_Hira	ind	何人が旅行に行きますか。	Berapa orang yang ikut bepergian?
 jpn_Hira	ind	何時までにチェックインすればいいですか。	Saya harus lapor masuk sebelum pukul berapa?
 jpn_Hira	ind	何書いてんの？	Apa yang sedang kamu tulis?
-jpn_Hira	ind	あなたはラケットを何本持っていますか。	Berapa banyak raket yang kau miliki?
-jpn_Hira	ind	イスラエルの何を知ってるんですか?	Apa yang Anda ketahui tentang Israel?
-jpn_Hira	ind	何を買ったのですか。	Beli apa?
-jpn_Hira	ind	何が起こったの？	Apa yang terjadi?
-jpn_Hira	ind	何が起きたの？	Apa yang terjadi?
-jpn_Hira	ind	何が起こっているのかぜひ知りたい。	Aku ingin tahu apa yang terjadi di sini?
-jpn_Hira	ind	何が起きたのか話して下さい。	Ceritakan padaku apa yang telah terjadi?
-jpn_Hira	ind	あなたは何が違うか知っていますか?	Apakah Anda tahu perbedaannya?
-jpn_Hira	ind	何か食べようか。	Mau makan sesuatu?
-jpn_Hira	ind	何を飲みますか。	Mau minum apa?
-jpn_Hira	ind	何か飲む？	Mau minum sesuatu?
 jpn_Hira	ind	余計なお世話するな！	Urusi urusanmu sendiri!
-jpn_Hira	ind	これ使って。	Pakailah ini.
 jpn_Hira	ind	信じてくれる？	Kamu percaya padaku?
 jpn_Hira	ind	信濃川は日本のほかのどの川よりも長い。	Sungai Shinano paling panjang dibandingkan sungai lainnya di Jepang.
-jpn_Hira	ind	トムは信頼できる男だ。	Tom laki-laki yang bisa kamu percaya.
 jpn_Hira	ind	俺は人間だ。	Aku adalah manusia.
 jpn_Hira	ind	借りた車の調子が悪いのですが。	Mobil yang saya pinjam kondisinya kurang baik.
 jpn_Hira	ind	値段はいくらですか。	Berapa harganya?
 jpn_Hira	ind	健君とトニー君とではどちらが早く走りますか。	Antara Ken dan Tom, siapa yang berlari dengan cepat?
-jpn_Hira	ind	トムはいつも健康的です。	Tom selalu sehat.
-jpn_Hira	ind	あなたと健とどちらが背が高いですか。	Antara kau dan Ken, siapa yang badannya lebih tinggi?
-jpn_Hira	ind	この傘いくらですか？	Payung ini berapa harganya?
-jpn_Hira	ind	いつからここで働いてるんですか？	Sejak kapan kau bekerja di sini?
 jpn_Hira	ind	僕だよ！	Ini aku!
-jpn_Hira	ind	僕は不幸かも知れないけれど自殺はしない。	Mungkin saya tidak bahagia, tetapi saya tidak bunuh diri
-jpn_Hira	ind	トムは僕の友達です。	Tom adalah temanku.
-jpn_Hira	ind	トムは僕の友達です。	Tom itu temanku.
-jpn_Hira	ind	僕は子供になりたい。	Aku ingin menjadi anak kecil.
 jpn_Hira	ind	僕の趣味は切手集めなんだ。	Hobi saya mengumpulkan prangko.
+jpn_Hira	ind	僕は不幸かも知れないけれど自殺はしない。	Mungkin saya tidak bahagia, tetapi saya tidak bunuh diri
+jpn_Hira	ind	僕は子供になりたい。	Aku ingin menjadi anak kecil.
 jpn_Hira	ind	元気ですか。	Apa kabar?
-jpn_Hira	ind	こんにちは、お元気ですか？	Halo, apa kabar?
 jpn_Hira	ind	元気良く起きなさい。	Bangunlah dengan ceria.
-jpn_Hira	ind	あなたは兄弟で上から何番目ですか？	Anak keberapakah kamu?
-jpn_Hira	ind	あなたは兄弟の中で何番目ですか？	Anak keberapakah kamu?
 jpn_Hira	ind	先生の話に励まされてメアリーはさらに勉強した。	Mary belajar dengan lebih giat karena perkataan pak guru.
-jpn_Hira	ind	そしてこのニューアルバムをひっさげて全国アリーナツアーが決定しました！	Kemudian ia mengeluarkan album baru ini dan berencana untuk melakukan tur arena nasional!
 jpn_Hira	ind	全くあなたのおっしゃる通りです。	Tepat seperti apa yang Anda katakan.
 jpn_Hira	ind	全くおっしゃる通りです。	Tepat seperti apa yang Anda katakan.
 jpn_Hira	ind	公園には黒い髪の綺麗な女の子が一人ありました。	Di taman ini ada seorang gadis cantik berambut hitam.
-jpn_Hira	ind	ほんの冗談です。	Aku cuma bercanda.
-jpn_Hira	ind	ただの冗談よ。	Aku cuma bercanda.
-jpn_Hira	ind	冗談ですよ。	Bercanda.
+jpn_Hira	ind	冗談じゃない。	Ini bukan lelucon.
+jpn_Hira	ind	冗談じゃねえよ。	Ini bukan lelucon.
 jpn_Hira	ind	冗談だよ。	Bercanda.
 jpn_Hira	ind	冗談でしょ！？	Bercanda kan!?
-jpn_Hira	ind	冗談じゃねえよ。	Ini bukan lelucon.
-jpn_Hira	ind	冗談じゃない。	Ini bukan lelucon.
 jpn_Hira	ind	冗談でしょ！？	Kau bercanda kan!?
-jpn_Hira	ind	ほんの冗談です。	Saya hanya bergurau.
+jpn_Hira	ind	冗談ですよ。	Bercanda.
 jpn_Hira	ind	冗談で言ったのよ。	Itu tadi bercanda.
 jpn_Hira	ind	冗談を言ってるだけです。	Saya hanya bergurau.
-jpn_Hira	ind	このビールは冷えていません。	Bir ini masih belum dingin.
 jpn_Hira	ind	冷たい北風が木の葉を茶色にした。	Angin utara yang dingin membuat dedaunan pohon berubah menjadi kecoklatan.
-jpn_Hira	ind	出口はどこですか？	Di mana pintu keluarnya?
 jpn_Hira	ind	出て行け！	Keluar!
+jpn_Hira	ind	出口はどこですか？	Di mana pintu keluarnya?
 jpn_Hira	ind	分かった。	Aku mengerti.
 jpn_Hira	ind	分からない時は遠慮なく御質問下さい。	Ketika tidak mengerti, jangan ragu untuk bertanya.
-jpn_Hira	ind	バスは１０分ごとに通っている。	Busnya datang dan pergi setiap 10 menit.
-jpn_Hira	ind	その列車は予定どおりに到着した。	Kereta itu tiba sesuai jadwal.
-jpn_Hira	ind	その列車は元町駅を通過します。	Kereta itu akan melintasi stasiun Motomachi.
-jpn_Hira	ind	その列車は定刻に到着した。	Kereta itu tiba sesuai jadwal.
 jpn_Hira	ind	列車で行くのか飛行機で行くのか決めなさい。	Putuskan apakah kamu ingin pergi dengan kereta atau pesawat.
-jpn_Hira	ind	その列車は転覆した。	Kereta tersebut terguling.
-jpn_Hira	ind	お前が犯人だ。	Kamu adalah pelakunya.
-jpn_Hira	ind	お前がいっちゃん背が高いぞ。	Kau tinggi sekali, hoi.
 jpn_Hira	ind	力になれてよかったです。	Saya senang bisa membantu.
 jpn_Hira	ind	勉強しなくっちゃ。	Aku harus belajar.
 jpn_Hira	ind	勉強は何が好きですか。	Pelajaran apa yang paling kau sukai?
 jpn_Hira	ind	勘定書をお願いします。	Tolong bonnya.
-jpn_Hira	ind	トムはいい医者になるでしょう。	Tom akan menjadi dokter yang baik.
-jpn_Hira	ind	お医者さんは平日しかいませんよ。	Dokter hanya ada pada hari kerja.
-jpn_Hira	ind	医者は彼女にそれを与えた。	Dokter memberikan itu padanya.
-jpn_Hira	ind	医者に診てもらったのか。	Apa kau sudah mendapat pemeriksaan dari dokter?
 jpn_Hira	ind	医者に診てもらいたいのです。	Saya ingin mendapatkan pemeriksaan dari dokter.
+jpn_Hira	ind	医者に診てもらったのか。	Apa kau sudah mendapat pemeriksaan dari dokter?
+jpn_Hira	ind	医者は彼女にそれを与えた。	Dokter memberikan itu padanya.
 jpn_Hira	ind	千に百を加えると千百になる。	Kalau seratus ditambahkan ke seribu, maka akan menjadi seribu seratus.
 jpn_Hira	ind	午後は晴れるだろうか。	Nanti sore apakah akan bersih?
 jpn_Hira	ind	卵は嫌いです。	Aku tidak suka telur.
-jpn_Hira	ind	お友達の名前は何ですか。	Siapa nama teman Anda?
-jpn_Hira	ind	ゴミ収集は週に３回やっています。	Pengambilan sampah dilakukan tiga kali sepekan.
-jpn_Hira	ind	あれは古いお城です。	Itu adalah benteng tua.
-jpn_Hira	ind	それはこっちの台詞だよ。	Harusnya aku yang bilang begitu.
 jpn_Hira	ind	右に曲がってください。	Tolong belok kanan.
 jpn_Hira	ind	同感です。	Aku sependapat.
 jpn_Hira	ind	同時に少年たちはドアに殺到した。	Anak-anak laki-laki berdesak-desakan untuk masuk.
-jpn_Hira	ind	お名前をお伺いするのを忘れておりました。	Aku lupa menanyakan namamu.
-jpn_Hira	ind	あなたの名前は何ですか。	Siapa nama Anda?
 jpn_Hira	ind	向こうにおられる方はどなたかしら。	Siapakah orang itu di sana?
-jpn_Hira	ind	君はどこにいたの？	Kamu di mana?
+jpn_Hira	ind	君が支払うべきではなかったんだ。	Kamu tidak harus membayarnya.
+jpn_Hira	ind	君と言い争っている時間は無い。食事の支度をしなくちゃいけないからね。	Aku tidak punya waktu untuk berurusan denganmu. Aku harus menyiapkan makanannya.
 jpn_Hira	ind	君のケーキはおいしいね。	Kuemu enak.
-jpn_Hira	ind	君は一体何を言おうとしているのか。	Sebenarnya kau mencoba untuk mengatakan apa?
+jpn_Hira	ind	君の未来計画について話してください。	Ceritakan padaku tentang rencana masa depanmu.
+jpn_Hira	ind	君の気付いていない問題がある。	Ada masalah yang tidak kamu lihat.
+jpn_Hira	ind	君の話がほとんど聞き取れない。	Aku hampir tidak bisa memahami perkataanmu.
 jpn_Hira	ind	君はこの事が分かる年齢だね。	Kamu sudah cukup dewasa untuk memahami hal ini.
-jpn_Hira	ind	こんなところで君に会うなんて夢にも思わなかったよ。	Tak pernah terpikirkan aku akan bertemu denganmu di tempat seperti ini, bahkan di dalam mimpi sekalipun.
+jpn_Hira	ind	君はどこにいたの？	Kamu di mana?
+jpn_Hira	ind	君は一体何を言おうとしているのか。	Sebenarnya kau mencoba untuk mengatakan apa?
 jpn_Hira	ind	君は何年生ですか。	Kamu kelas berapa?
 jpn_Hira	ind	君は家にいますか。	Apa kamu ada di rumah?
-jpn_Hira	ind	そのノートは君のではなくて彼のです。	Buku catatan itu bukan milikmu, tapi miliknya.
 jpn_Hira	ind	君は彼の返事を待ちさえすればよい。	Yang harus kau lakukan adalah menunggu jawaban darinya.
-jpn_Hira	ind	トムは君に怒ってないよ。	Tom tidak marah padamu, kok.
-jpn_Hira	ind	君が支払うべきではなかったんだ。	Kamu tidak harus membayarnya.
-jpn_Hira	ind	君の未来計画について話してください。	Ceritakan padaku tentang rencana masa depanmu.
-jpn_Hira	ind	これは君の本ですか。	Apa ini bukumu?
 jpn_Hira	ind	君は本当の事をいいさえすればいいのだ。	Yang harus kau lakukan adalah mengatakan yang sebenarnya.
-jpn_Hira	ind	君の気付いていない問題がある。	Ada masalah yang tidak kamu lihat.
 jpn_Hira	ind	君は自分の義務を果たすべきだ。	Kamu harus memenuhi kewajibanmu.
-jpn_Hira	ind	君と言い争っている時間は無い。食事の支度をしなくちゃいけないからね。	Aku tidak punya waktu untuk berurusan denganmu. Aku harus menyiapkan makanannya.
-jpn_Hira	ind	君の話がほとんど聞き取れない。	Aku hampir tidak bisa memahami perkataanmu.
-jpn_Hira	ind	あいにく品切れになってしまったんですが。	Mohon maaf, kami kehabisan stok barang tersebut.
-jpn_Hira	ind	その問題全体を検討しなさい。	Periksa keseluruhan pertanyaan itu.
 jpn_Hira	ind	問題は我々が十分なお金を持っていないことだ。	Masalahnya adalah kita tidak punya cukup uang.
-jpn_Hira	ind	トムは嘘をついていると思う。	Aku pikir Tom berbohong.
 jpn_Hira	ind	「国連」は「国際連合」の略です。	PBB adalah singkatan dari Persatuan Bangsa-Bangsa.
 jpn_Hira	ind	地元のビールの中では、どれがおいしいですか。	Bir lokal apa yang paling enak?
 jpn_Hira	ind	地球は丸い。	Bumi itu bulat.
 jpn_Hira	ind	地球は内部に大きな磁石を持ったボールのようなものである。	Bumi itu seperti bola yang memiliki magnet besar di dalamnya.
-jpn_Hira	ind	ジムは埠頭へ釣りに行った。	Jim pergi memancing di dermaga.
-jpn_Hira	ind	これを壊したのはだれですか。	Siapa yang merusak ini?
-jpn_Hira	ind	スナック売り場は、どこですか。	Dimana tempat membeli makanan ringan?
 jpn_Hira	ind	変ですね。	Anehnya.
-jpn_Hira	ind	これは変だ。	Ini aneh.
 jpn_Hira	ind	変ですね。	Itu aneh.
-jpn_Hira	ind	こんなきれいな夕陽見たことないよ。	Wah, aku belum pernah melihat matahari terbenam seindah ini.
 jpn_Hira	ind	夕食後は外出してはいけません。	Setelah makan malam tidak boleh pergi keluar.
 jpn_Hira	ind	外出するより家にいるほうがいい。	Lebih baik tinggal di rumah daripada pergi keluar.
-jpn_Hira	ind	トムは多分寝ている。	Tom mungkin sedang tidur.
-jpn_Hira	ind	トムは多分眠っている。	Tom mungkin sedang tidur.
-jpn_Hira	ind	トムは大物を捕まえた。	Tom menangkap yang besar.
-jpn_Hira	ind	なんか天気悪くなってきたね。	Cuacanya makin gelap aja ya.
-jpn_Hira	ind	このドレス、太って見えるかな？	Kalau pakai gaun ini kelihatan gemuk nggak ya?
 jpn_Hira	ind	奮闘がおさまると、話し合いが再び始まった。	Setelah ketegangan mereda, diskusinya dimulai kembali.
-jpn_Hira	ind	あんな奴のどこがいいんだよ？ ただの女たらしじゃねえか。	Orang seperti itu apanya yang baik? Bukankah ia suka mempermainkan wanita?
 jpn_Hira	ind	奴はうそもつきかねない男だ。	Pria ini pandai sekali berbohong.
 jpn_Hira	ind	奴等の無遠慮がしゃくなんだ。	Aku tidak tahan dengan kelancangan mereka.
-jpn_Hira	ind	チョコレートは好きじゃない。	Aku tidak suka cokelat.
-jpn_Hira	ind	どんなスポーツが好きですか。	Olahraga macam apa yang kau sukai?
-jpn_Hira	ind	コーヒーが好きな人もいれば、紅茶が好きな人もいる。	Sebagian orang suka kopi, sebagian lagi suka teh.
 jpn_Hira	ind	好きな作家は誰ですか？	Penulis favoritmu siapa?
 jpn_Hira	ind	好きな歌手とかいる？	Apa kamu punya penyanyi favorit?
 jpn_Hira	ind	好きな食べ物は何ですか？	Apa makanan favoritmu?
-jpn_Hira	ind	こんにちは、如何ですか？	Hai, bagaimana kabarmu?
-jpn_Hira	ind	こんにちは、如何ですか？	Selamat siang, bagaimana kabarmu?
 jpn_Hira	ind	妙だな。	Itu aneh.
-jpn_Hira	ind	お姉さんが教えてア・ゲ・ル。	Kakakmu akan memberitahumu.
 jpn_Hira	ind	嫌いな食べ物ってありますか？	Apa ada makanan yang tidak kamu suka?
-jpn_Hira	ind	子供を誉めることは大事なことだ。	Memuji anak adalah hal yang penting.
 jpn_Hira	ind	子供の頃は楽しかったなあ。	Masa kecilku menyenangkan.
-jpn_Hira	ind	あなたはブラウンさんをご存知ですか。	Apakah Anda mengenal tuan Brown?
-jpn_Hira	ind	たとえ学問はあっても、彼は尊敬できない。	Sekalipun ia mendapatkan beasiswa, aku tidak bisa menghormatinya.
+jpn_Hira	ind	子供を誉めることは大事なことだ。	Memuji anak adalah hal yang penting.
 jpn_Hira	ind	学校は駅から歩いて５分とかからないところにある。	Sekolah itu terletak di lokasi yang mana jauhnya tidak sampai memakan waktu 5 menit dari stasiun dengan berjalan kaki.
-jpn_Hira	ind	「ついお宅のバラに見とれてしまってまして。本当に華やかですこと」「まあ、お上手ねえ。それはどうも」	"Saya terpesona dengan bunga-bunga mawar di rumah Anda. Mereka sangat indah sekali." "Ah, saya tersanjung mendengarnya. Terima kasih."
-jpn_Hira	ind	ここなら安全なのですか。	Apakah di sini aman?
-jpn_Hira	ind	トムは実にいい声をしている。	Tom memang memiliki suara yang bagus.
 jpn_Hira	ind	実際、睡眠は人間にはどうしても欠かせない。	Faktanya, manusia tak bisa hidup tanpa tidur.
-jpn_Hira	ind	トムは家の中に居る。	Tom ada di rumah.
 jpn_Hira	ind	家で休むくらいならむしろ外出したい。	Aku lebih memilih pergi keluar daripada berdiam diri di rumah.
-jpn_Hira	ind	このニュースに対する彼女の反応はどうでしたか。	Bagaimana pendapatnya terhadap berita ini?
-jpn_Hira	ind	もっと小さいサイズのはありますか？	Apakah ada ukuran yang lebih kecil?
 jpn_Hira	ind	小さな子どもは恐竜や他の怪物の本が好きなものである。	Anak-anak kecil suka dengan buku tentang dinosaurus dan monster.
 jpn_Hira	ind	小説は読むより書く方が好きです。	Aku lebih suka menulis novel daripada membacanya.
-jpn_Hira	ind	この小説は退屈だ。	Novel ini membosankan.
-jpn_Hira	ind	もう少し、先生が言っていることに集中して聞いていれば、理解できると思うよ。	Menurutku jika kamu mendengarkan apa yang dikatakan gurumu dengan seksama, kamu akan bisa memahaminya.
-jpn_Hira	ind	ほんの少数の人しかその事実を知らない。	Hanya sedikit orang saja yang mengetahui fakta itu.
 jpn_Hira	ind	少しずつ、漢字を学んでいます。	Aku belajar kanji sedikit demi sedikit.
-jpn_Hira	ind	トムは少し酔っていた。	Tom sedikit mabuk.
 jpn_Hira	ind	少しの間座ったままでいて下さい。	Tolong duduk sebentar.
-jpn_Hira	ind	この川は太平洋に流れ込みます。	Sungai ini bermuara di Pasifik.
-jpn_Hira	ind	トムはひとりでうちに帰った。	Tom pulang ke rumah sendirian.
-jpn_Hira	ind	よいお年を。	Selamat tahun baru.
 jpn_Hira	ind	年齢聞いてもいいですか？	Boleh saya bertanya tentang usia Anda?
-jpn_Hira	ind	お幸せに！	Semoga bahagia!
-jpn_Hira	ind	トムは幸せだった。	Tom merasa bahagia.
 jpn_Hira	ind	幸運を祈るよ。	Aku mendoakan keberuntunganmu.
-jpn_Hira	ind	あのレコードはこの店で買った。	Perekam itu saya beli di toko ini.
-jpn_Hira	ind	座りなよ。	Duduklah.
 jpn_Hira	ind	座って下さい。	Silakan duduk.
+jpn_Hira	ind	座りなよ。	Duduklah.
 jpn_Hira	ind	引き換え券を見せて下さい。	Tolong tunjukkan kupon Anda.
 jpn_Hira	ind	弘法も筆の誤り。	Manusia tidak pernah luput dari kesalahan.
 jpn_Hira	ind	強盗は彼女にお金を出させた。	Perampok itu memaksanya untuk menyerahkan uangnya.
-jpn_Hira	ind	バイオリン弾きは演奏の合図を待っています。	Para pemain violin menunggu sinyal untuk mulai bermain.
-jpn_Hira	ind	トムが当選する可能性は、たとえあるにしてもごく少ない。	Sangat kecil kemungkinan Tom akan memenangkan pemilihan.
-jpn_Hira	ind	トムには役職がない。	Tom tidak punya jabatan.
+jpn_Hira	ind	彼があっと言う間に飛び出しました。	Dia keluar dalam sekejap mata.
 jpn_Hira	ind	彼がいなくてがっかりです。	Aku kecewa karena dia tidak di sini.
+jpn_Hira	ind	彼がくるまで私は行けません。	Sebelum dia datang, aku tidak bisa pergi.
+jpn_Hira	ind	彼がそんなに若くして亡くなったのは残念です。	Sayang sekali dia meninggal di usia yang sangat muda.
+jpn_Hira	ind	彼が急速に日本語を習得するので私は嬉しかった。	Saya senang dia bisa belajar bahasa Jepang dengan cepat.
+jpn_Hira	ind	彼にとって英語を勉強するということは容易ではない。	Tidak mudah baginya untuk belajar bahasa Inggris.
+jpn_Hira	ind	彼にはもう我慢ならない。	Aku sudah tidak tahan dengannya.
+jpn_Hira	ind	彼の作品はたとえようもないほど素晴らしい。	Karyanya benar-benar tak tertandingi.
+jpn_Hira	ind	彼の家を見つけ出す手だてがない。	Tidak ada cara untuk menemukan rumahnya.
+jpn_Hira	ind	彼の年はいくつですか。	Berapa umurnya?
+jpn_Hira	ind	彼の手紙にはなんて書いてあるの。	Apa yang tertulis di suratnya?
+jpn_Hira	ind	彼の提案には賛成できない。	Saya tidak bisa menyetujui proposalnya.
+jpn_Hira	ind	彼の進歩ぶりに満足しています。	Aku puas dengan perkembangannya.
+jpn_Hira	ind	彼の野望は権力を手に入れることだ。	Ambisinya adalah untuk mendapatkan kekuatan politik.
+jpn_Hira	ind	彼は３０歳くらいだ。	Umurnya sekitar tiga puluh tahun.
+jpn_Hira	ind	彼は８歳だ。	Dia berumur 8 tahun.
+jpn_Hira	ind	彼はいつも時間を守る。	Dia selalu tepat waktu.
+jpn_Hira	ind	彼はうちの弟と親しい。	Dia dekat dengan adikku.
+jpn_Hira	ind	彼はクモが大嫌いだ。	Dia benci laba-laba.
+jpn_Hira	ind	彼はクラスの会合には必ず出席している。	Dia pasti akan menghadiri rapat kelasnya.
+jpn_Hira	ind	彼はコップを落として割ってしまった。	Dia menjatuhkan dan memecahkan gelasnya.
+jpn_Hira	ind	彼はスキーに非常な腕を示した。	Dia menunjukkan bakat yang luar biasa dalam permainan ski.
+jpn_Hira	ind	彼はすぐ怒る。	Dia mudah marah.
+jpn_Hira	ind	彼はそこに独りで住んでいる。	Dia tinggal di sana seorang diri.
+jpn_Hira	ind	彼はそのボールを投げ返してくれと言った。	Dia memintaku untuk melemparkan kembali bola itu padanya.
+jpn_Hira	ind	彼はその新しい計画に抗議した。	Dia menolak rencana baru itu.
+jpn_Hira	ind	彼はその話がよほど面白かったようだ。	Kelihatannya cerita itu begitu menarik baginya.
+jpn_Hira	ind	彼はたいていマクドナルドに行く。	Dia biasanya pergi ke McDonald.
+jpn_Hira	ind	彼はたくさんお金を持っている。	Dia punya banyak uang.
 jpn_Hira	ind	彼はだれですか。	Dia siapa?
-jpn_Hira	ind	まもなく彼がくるだろう。	Ia akan datang tidak lama lagi.
+jpn_Hira	ind	彼はテニスをする代わりに釣りに行った。	Dia pergi memancing sebagai ganti bermain tenis.
+jpn_Hira	ind	彼はドアを開けようとした。	Dia berusaha membuka pintunya.
+jpn_Hira	ind	彼はどうしても非を認めなかった。	Dia tetap tidak mau mengakui kesalahannya.
+jpn_Hira	ind	彼はとうとう望みがかなった。	Harapannya akhirnya terkabul.
+jpn_Hira	ind	彼はどこに行った？	Dia pergi ke mana?
 jpn_Hira	ind	彼はどんなに一生懸命に挑戦しても成功しないだろう。	Seberapa pun kerasnya dia mencoba, dia tidak akan berhasil.
+jpn_Hira	ind	彼はまだ来ない。	Dia belum datang.
+jpn_Hira	ind	彼はまだ若い。	Dia masih muda.
+jpn_Hira	ind	彼はもっと給料を上げてくれと要求した。	Ia meminta supaya gajinya dinaikkan lagi.
+jpn_Hira	ind	彼はよくギターを弾きます。	Dia sering bermain gitar.
+jpn_Hira	ind	彼はよく学校を欠席する。	Dia sering absen dari sekolah.
 jpn_Hira	ind	彼は中古車を買わなければならない。	Dia harus membeli sebuah mobil bekas.
 jpn_Hira	ind	彼は事実を隠すつもりらしかった。	Kelihatannya ia berniat menyembunyikan fakta yang sesungguhnya.
 jpn_Hira	ind	彼は二度とそれを言わなかった。	Dia tidak pernah lagi mengatakan hal itu.
 jpn_Hira	ind	彼は仕事でそこへ行った。	Dia pergi ke ke sana untuk urusan perkerjaan.
-jpn_Hira	ind	彼はテニスをする代わりに釣りに行った。	Dia pergi memancing sebagai ganti bermain tenis.
-jpn_Hira	ind	彼はクラスの会合には必ず出席している。	Dia pasti akan menghadiri rapat kelasnya.
 jpn_Hira	ind	彼は何才ですか。	Berapa umurnya?
-jpn_Hira	ind	彼の作品はたとえようもないほど素晴らしい。	Karyanya benar-benar tak tertandingi.
 jpn_Hira	ind	彼は俳優です。	Dia adalah seorang aktor.
 jpn_Hira	ind	彼は先生に向いてない。	Dia tidak cocok menjadi guru.
 jpn_Hira	ind	彼は努めて雇い主を満足させようとした。	Dia berusaha semaksimal mungkin untuk menyenangkan majikannya.
 jpn_Hira	ind	彼は勤勉です。	Dia adalah seorang yang rajin.
-jpn_Hira	ind	彼らは化学の新しい実験をした。	Mereka melakukan percobaan kimia baru.
 jpn_Hira	ind	彼は医者だ。	Dia adalah seorang dokter.
 jpn_Hira	ind	彼は君を恨んでいるよ。	Dia memiliki dendam padamu.
 jpn_Hira	ind	彼は多くの障害にもかかわらずその仕事をした。	Dia melakukan pekerjaan itu meskipun ada banyak kendala.
-jpn_Hira	ind	彼はクモが大嫌いだ。	Dia benci laba-laba.
 jpn_Hira	ind	彼は大金を手にした。	Dia punya banyak uang.
-jpn_Hira	ind	彼女はソファーの上にだらしなく腰を下ろしていた。	Dia sedang bermalas-malasan di atas sofa.
-jpn_Hira	ind	彼女は優しい心の持ち主だ。	Dia memiliki hati yang mulia.
-jpn_Hira	ind	彼女は２、３分考えた。	Dia berpikir selama 2-3 menit.
-jpn_Hira	ind	彼女は友達に好意を持ってもらいます。	Dia disukai teman-temannya.
-jpn_Hira	ind	彼女は外車に乗っている。	Dia naik mobil impor.
-jpn_Hira	ind	彼女は学生だ。	Dia adalah seorang murid sekolah.
-jpn_Hira	ind	彼女は彼より若い。	Dia lebih muda darinya.
-jpn_Hira	ind	彼女が心に描いていた幸せのすべてが一瞬のうちに消えてしまった。	Semua bayangan kebahagiaannya hilang begitu saja dalam waktu singkat.
-jpn_Hira	ind	彼女はなぜそんなに心配しているのかしら。	Kenapa dia begitu khawatir ya?
-jpn_Hira	ind	彼女は情勢を把握することができる。	Dia mampu memahami situasi yang ada.
-jpn_Hira	ind	彼女はすぐに戻ってくると思います。	Aku pikir dia akan segera kembali.
-jpn_Hira	ind	彼女は日曜日には映画を見に行くのが常だった。	Dulu dia biasa pergi ke bioskop pada hari Minggu.
-jpn_Hira	ind	彼女ははしごを昇っていった。	Dia pergi menaiki tangga.
-jpn_Hira	ind	彼女は生活が単調だという。	Dia berkata bahwa kehidupannya monoton.
-jpn_Hira	ind	彼女が病院までついて来てくれた。	Dia mengantarku ke rumah sakit.
-jpn_Hira	ind	彼女は目を丸くして見つめた。	Ia menatapku dengan mata membelalak.
-jpn_Hira	ind	彼女はその箱を持ち上げようとしたが不可能だとわかった。	Dia mencoba untuk mengangkat kotak itu, tetapi tidak berhasil.
-jpn_Hira	ind	彼女はかれに結婚の承諾を与えた。	Dia menerima lamarannya.
-jpn_Hira	ind	彼女の腰は細いです。	Dia punya pinggul yang ramping.
-jpn_Hira	ind	彼女はどこに行ったの？	Ke mana perginya dia?
-jpn_Hira	ind	彼女の話では彼は来ないそうだ。	Pria itu tidak datang kata perempuan itu.
-jpn_Hira	ind	彼女はとても賢い人だ。	Ia memang bijaksana.
-jpn_Hira	ind	彼女は通りを横切った。	Dia menyeberang jalan.
-jpn_Hira	ind	彼女はかごを開けて鳥を放してやった。	Dia membebaskan burung itu dari kandangnya.
-jpn_Hira	ind	彼女なら面識があります。	Aku mengenal dia.
-jpn_Hira	ind	彼女の顔はすすだらけ。	Mukanya tertutup oleh jelaga.
-jpn_Hira	ind	彼女は食べ物を買いに出ていった。	Dia pergi keluar untuk membeli makanan.
-jpn_Hira	ind	彼女は食べ物を買いに行った。	Dia pergi untuk membeli makanan.
 jpn_Hira	ind	彼は妹の良い夫となるだろう。	Dia akan menjadi suami yang baik bagi adikku.
 jpn_Hira	ind	彼は学外に住んでいる。	Dia tinggal di dekat kampus.
-jpn_Hira	ind	彼はよく学校を欠席する。	Dia sering absen dari sekolah.
-jpn_Hira	ind	彼の家を見つけ出す手だてがない。	Tidak ada cara untuk menemukan rumahnya.
-jpn_Hira	ind	彼の年はいくつですか。	Berapa umurnya?
 jpn_Hira	ind	彼は年齢を偽った。	Dia memalsukan umurnya.
 jpn_Hira	ind	彼は年齢を偽った。	Dia memalsukan usianya.
-jpn_Hira	ind	彼はうちの弟と親しい。	Dia dekat dengan adikku.
-jpn_Hira	ind	彼はよくギターを弾きます。	Dia sering bermain gitar.
-jpn_Hira	ind	彼は彼女に何か囁いた。	Ia membisikkan sesuatu padanya.
 jpn_Hira	ind	彼は彼らの幸せを妬んでいた。	Dia iri dengan kebahagiaan mereka.
-jpn_Hira	ind	彼はすぐ怒る。	Dia mudah marah.
-jpn_Hira	ind	彼が急速に日本語を習得するので私は嬉しかった。	Saya senang dia bisa belajar bahasa Jepang dengan cepat.
-jpn_Hira	ind	彼らは息子をジョンと名づけた。	Mereka menamai anak laki-laki mereka John.
-jpn_Hira	ind	彼にはもう我慢ならない。	Aku sudah tidak tahan dengannya.
-jpn_Hira	ind	彼の手紙にはなんて書いてあるの。	Apa yang tertulis di suratnya?
-jpn_Hira	ind	彼はそのボールを投げ返してくれと言った。	Dia memintaku untuk melemparkan kembali bola itu padanya.
-jpn_Hira	ind	彼の提案には賛成できない。	Saya tidak bisa menyetujui proposalnya.
+jpn_Hira	ind	彼は彼女に何か囁いた。	Ia membisikkan sesuatu padanya.
 jpn_Hira	ind	彼は教師でもあり小説家でもある。	Dia adalah seorang guru dan novelis.
 jpn_Hira	ind	彼は新聞を配達している。	Dia mengantar koran.
-jpn_Hira	ind	彼はその新しい計画に抗議した。	Dia menolak rencana baru itu.
 jpn_Hira	ind	彼は日本に帰っていった。	Mereka pulang kembali ke Jepang.
-jpn_Hira	ind	彼らは映画を観ている。	Mereka sedang menonton film.
-jpn_Hira	ind	彼はいつも時間を守る。	Dia selalu tepat waktu.
-jpn_Hira	ind	彼はとうとう望みがかなった。	Harapannya akhirnya terkabul.
 jpn_Hira	ind	彼は木の下で寝ていました。	Dia tidur di bawah pohon.
-jpn_Hira	ind	彼はまだ来ない。	Dia belum datang.
-jpn_Hira	ind	彼は８歳だ。	Dia berumur 8 tahun.
-jpn_Hira	ind	彼は３０歳くらいだ。	Umurnya sekitar tiga puluh tahun.
-jpn_Hira	ind	彼らは泣きそうな顔をしていた。	Mereka tampak seperti akan menangis.
 jpn_Hira	ind	彼は浮気していた。	Dia berselingkuh.
 jpn_Hira	ind	彼は父親のすぐあとから外国に行った。	Dia pergi ke luar negeri segera setelah ayahnya.
-jpn_Hira	ind	彼はそこに独りで住んでいる。	Dia tinggal di sana seorang diri.
 jpn_Hira	ind	彼は理事なので、それにふさわしい扱いを受けるべきである。	Dia adalah seorang direktur, karena itu dia harus mendapat perlakuan yang baik.
 jpn_Hira	ind	彼は病気のために働けなかった。	Dia tidak bisa bekerja karena sakit.
-jpn_Hira	ind	彼がくるまで私は行けません。	Sebelum dia datang, aku tidak bisa pergi.
 jpn_Hira	ind	彼は競争に勝とうと努力した。	Dia berjuang untuk memenangkan kompetisinya.
-jpn_Hira	ind	彼はもっと給料を上げてくれと要求した。	Ia meminta supaya gajinya dinaikkan lagi.
 jpn_Hira	ind	彼は背中を掻いたり、爪を噛んだりする癖がある。	Dia memiliki kebiasaan menggaruk punggung dan menggigit kuku.
-jpn_Hira	ind	彼らは自分の息子をジョンと名づけた。	Mereka menamai anak laki-laki mereka John.
 jpn_Hira	ind	彼は自分の考えを実行に移すのが遅かった。	Dia lambat dalam mewujudkan pemikirannya.
-jpn_Hira	ind	彼はまだ若い。	Dia masih muda.
-jpn_Hira	ind	彼がそんなに若くして亡くなったのは残念です。	Sayang sekali dia meninggal di usia yang sangat muda.
-jpn_Hira	ind	彼にとって英語を勉強するということは容易ではない。	Tidak mudah baginya untuk belajar bahasa Inggris.
-jpn_Hira	ind	彼はコップを落として割ってしまった。	Dia menjatuhkan dan memecahkan gelasnya.
 jpn_Hira	ind	彼は虎が好き。	Dia suka macan.
-jpn_Hira	ind	彼はたいていマクドナルドに行く。	Dia biasanya pergi ke McDonald.
-jpn_Hira	ind	彼はどこに行った？	Dia pergi ke mana?
 jpn_Hira	ind	彼は言語学の分野にはよく通じている。	Dia sangat menguasai bidang linguistik.
-jpn_Hira	ind	彼があっと言う間に飛び出しました。	Dia keluar dalam sekejap mata.
-jpn_Hira	ind	彼らはまだ証拠を探している。	Mereka masih mencari bukti-buktinya.
-jpn_Hira	ind	彼はその話がよほど面白かったようだ。	Kelihatannya cerita itu begitu menarik baginya.
 jpn_Hira	ind	彼は議長の職に就くことを受諾した。	Dia menerima pengangkatannya sebagai ketua.
 jpn_Hira	ind	彼は輸入にかかる税を減らしたかった。	Dia ingin mengurangi pajak impor.
 jpn_Hira	ind	彼は近くの小さな町に住んでいた。	Dia tinggal di sebuah kota kecil yang ada di dekat sini.
 jpn_Hira	ind	彼は通りを横切った。	Dia menyeberang jalan.
-jpn_Hira	ind	彼の進歩ぶりに満足しています。	Aku puas dengan perkembangannya.
 jpn_Hira	ind	彼は運転免許をとるのに、夢中になっている。	Dia menjadi kegirangan setelah mendapatkan SIM.
 jpn_Hira	ind	彼は都会生活にあこがれている。	Dia mendambakan kehidupan di kota.
-jpn_Hira	ind	彼の野望は権力を手に入れることだ。	Ambisinya adalah untuk mendapatkan kekuatan politik.
-jpn_Hira	ind	彼はたくさんお金を持っている。	Dia punya banyak uang.
 jpn_Hira	ind	彼は金をたんまり持っている。	Dia punya uang dalam jumlah yang banyak.
-jpn_Hira	ind	彼らは鎮火するために互いに協力した。	Mereka saling bekerja sama untuk memadamkan api.
-jpn_Hira	ind	彼はドアを開けようとした。	Dia berusaha membuka pintunya.
-jpn_Hira	ind	彼らは雨でびしょぬれになった。	Mereka basah oleh hujan.
-jpn_Hira	ind	彼はスキーに非常な腕を示した。	Dia menunjukkan bakat yang luar biasa dalam permainan ski.
-jpn_Hira	ind	彼はどうしても非を認めなかった。	Dia tetap tidak mau mengakui kesalahannya.
 jpn_Hira	ind	彼は頭がいい。	Dia pintar.
 jpn_Hira	ind	彼は魚が好きじゃない。	Dia tidak suka ikan.
+jpn_Hira	ind	彼らはまだ証拠を探している。	Mereka masih mencari bukti-buktinya.
+jpn_Hira	ind	彼らは化学の新しい実験をした。	Mereka melakukan percobaan kimia baru.
+jpn_Hira	ind	彼らは息子をジョンと名づけた。	Mereka menamai anak laki-laki mereka John.
+jpn_Hira	ind	彼らは映画を観ている。	Mereka sedang menonton film.
+jpn_Hira	ind	彼らは泣きそうな顔をしていた。	Mereka tampak seperti akan menangis.
+jpn_Hira	ind	彼らは自分の息子をジョンと名づけた。	Mereka menamai anak laki-laki mereka John.
+jpn_Hira	ind	彼らは鎮火するために互いに協力した。	Mereka saling bekerja sama untuk memadamkan api.
+jpn_Hira	ind	彼らは雨でびしょぬれになった。	Mereka basah oleh hujan.
+jpn_Hira	ind	彼女が心に描いていた幸せのすべてが一瞬のうちに消えてしまった。	Semua bayangan kebahagiaannya hilang begitu saja dalam waktu singkat.
+jpn_Hira	ind	彼女が病院までついて来てくれた。	Dia mengantarku ke rumah sakit.
+jpn_Hira	ind	彼女なら面識があります。	Aku mengenal dia.
+jpn_Hira	ind	彼女の腰は細いです。	Dia punya pinggul yang ramping.
+jpn_Hira	ind	彼女の話では彼は来ないそうだ。	Pria itu tidak datang kata perempuan itu.
+jpn_Hira	ind	彼女の顔はすすだらけ。	Mukanya tertutup oleh jelaga.
+jpn_Hira	ind	彼女は２、３分考えた。	Dia berpikir selama 2-3 menit.
+jpn_Hira	ind	彼女はかごを開けて鳥を放してやった。	Dia membebaskan burung itu dari kandangnya.
+jpn_Hira	ind	彼女はかれに結婚の承諾を与えた。	Dia menerima lamarannya.
+jpn_Hira	ind	彼女はすぐに戻ってくると思います。	Aku pikir dia akan segera kembali.
+jpn_Hira	ind	彼女はその箱を持ち上げようとしたが不可能だとわかった。	Dia mencoba untuk mengangkat kotak itu, tetapi tidak berhasil.
+jpn_Hira	ind	彼女はソファーの上にだらしなく腰を下ろしていた。	Dia sedang bermalas-malasan di atas sofa.
+jpn_Hira	ind	彼女はどこに行ったの？	Ke mana perginya dia?
+jpn_Hira	ind	彼女はとても賢い人だ。	Ia memang bijaksana.
+jpn_Hira	ind	彼女はなぜそんなに心配しているのかしら。	Kenapa dia begitu khawatir ya?
+jpn_Hira	ind	彼女ははしごを昇っていった。	Dia pergi menaiki tangga.
+jpn_Hira	ind	彼女は優しい心の持ち主だ。	Dia memiliki hati yang mulia.
+jpn_Hira	ind	彼女は友達に好意を持ってもらいます。	Dia disukai teman-temannya.
+jpn_Hira	ind	彼女は外車に乗っている。	Dia naik mobil impor.
+jpn_Hira	ind	彼女は学生だ。	Dia adalah seorang murid sekolah.
+jpn_Hira	ind	彼女は彼より若い。	Dia lebih muda darinya.
+jpn_Hira	ind	彼女は情勢を把握することができる。	Dia mampu memahami situasi yang ada.
+jpn_Hira	ind	彼女は日曜日には映画を見に行くのが常だった。	Dulu dia biasa pergi ke bioskop pada hari Minggu.
+jpn_Hira	ind	彼女は生活が単調だという。	Dia berkata bahwa kehidupannya monoton.
+jpn_Hira	ind	彼女は目を丸くして見つめた。	Ia menatapku dengan mata membelalak.
+jpn_Hira	ind	彼女は通りを横切った。	Dia menyeberang jalan.
+jpn_Hira	ind	彼女は食べ物を買いに出ていった。	Dia pergi keluar untuk membeli makanan.
+jpn_Hira	ind	彼女は食べ物を買いに行った。	Dia pergi untuk membeli makanan.
 jpn_Hira	ind	待って！	Tunggu!
 jpn_Hira	ind	後でまた電話するよ。	Aku akan meneleponmu lagi nanti.
 jpn_Hira	ind	得やすいものは失いやすい。	Mudah didapat, mudah hilang.
@@ -496,565 +697,496 @@ jpn_Hira	ind	心のなすがままにせよ。	Ikutilah kata hatimu.
 jpn_Hira	ind	心配しないで。	Tolong jangan cemas
 jpn_Hira	ind	志願者は女性に限ると規定されている。	Hanya wanita yang diperbolehkan sebagai pelamar.
 jpn_Hira	ind	忘れずにその手紙をポストに入れなさい。	Jangan lupa masukkan suratnya ke dalam kotak pos.
-jpn_Hira	ind	まだ怖いの？	Kamu masih takut?
-jpn_Hira	ind	そう思うかい？	Apa kamu pikir begitu?
-jpn_Hira	ind	あなたはどう思いますか。	Bagaimana menurutmu?
-jpn_Hira	ind	どう思いますか。	Bagaimana menurutmu?
 jpn_Hira	ind	急いで、トム。	Cepat, Tom.
-jpn_Hira	ind	トムは急に泣き出した。	Tom tiba-tiba menangis.
 jpn_Hira	ind	急がないと遅れるよ。	Kalau nggak cepat-cepat, nanti terlambat lo.
 jpn_Hira	ind	恐ろしく寒いな、今日の夜は。	Dingin sekali ya malam ini.
 jpn_Hira	ind	恥を知れ！	Dasar tidak tahu malu!
 jpn_Hira	ind	悪い習慣を取り除くことはできない。	Sulit meninggalkan kebiasaan buruk.
-jpn_Hira	ind	悲しいです。	Saya sedih.
 jpn_Hira	ind	悲しい。	Sedih.
-jpn_Hira	ind	どういう意味ですか？	Artinya apa?
-jpn_Hira	ind	ひとつ、意見があるんですが。	Aku punya ide.
+jpn_Hira	ind	悲しいです。	Saya sedih.
 jpn_Hira	ind	愛してるよ。	Aku cinta kamu.
+jpn_Hira	ind	愛と真理子はとても仲が良く、どこにでもいっしょに行く。	Ai dan Mariko adalah teman dekat. Mereka pergi ke mana pun bersama.
 jpn_Hira	ind	愛は人の心を砕くこともできるのさ。	Cinta juga bisa mengacaukan pikiran seseorang.
 jpn_Hira	ind	「愛は盲目」と言われる。	Orang bilang cinta itu buta.
-jpn_Hira	ind	愛と真理子はとても仲が良く、どこにでもいっしょに行く。	Ai dan Mariko adalah teman dekat. Mereka pergi ke mana pun bersama.
 jpn_Hira	ind	我々にとって会議に参加する必要はない。	Kami tidak perlu menghadiri rapat itu.
-jpn_Hira	ind	もう我慢できないわ。	Aku sudah tak mampu menahannya lagi.
-jpn_Hira	ind	もう我慢できないわ。	Aku sudah tidak tahan lagi.
-jpn_Hira	ind	もう我慢できない。	Aku sudah tidak tahan lagi.
-jpn_Hira	ind	もう我慢できない。	Aku tidak tahan lagi.
 jpn_Hira	ind	我々はエネルギー資源を浪費してはいけない。	Kita tidak boleh membuang-buang percuma sumber energi kita.
 jpn_Hira	ind	戴きます。	Selamat makan.
-jpn_Hira	ind	手を上げなさい。	Angkat tanganmu.
 jpn_Hira	ind	手は清潔にしておきなさい。	Jagalah kebersihan tanganmu.
+jpn_Hira	ind	手を上げなさい。	Angkat tanganmu.
 jpn_Hira	ind	手術が一番いいでしょう。	Operasi adalah solusi yang terbaik.
 jpn_Hira	ind	払わせてください。	Biarkan saya yang membayar.
-jpn_Hira	ind	どちらのボタンを押せばいいのでしょうか？	Tombol mana yang harus saya tekan?
 jpn_Hira	ind	招待を受理したのに、彼は来なかった。	Meskipun menerima undangan, dia tidak datang.
-jpn_Hira	ind	こんにちは。すみません、ロレッタを探しているのですが・・・	Selamat siang. Permisi, saya mencari Loretta.
 jpn_Hira	ind	放っておいて。	Tinggalkan aku sendiri.
-jpn_Hira	ind	トムはこっそり教室を抜け出した。	Tom menyelinap keluar dari kelas secara diam-diam.
-jpn_Hira	ind	どの教科が一番好きですか。	Pelajaran mana yang paling kamu sukai?
-jpn_Hira	ind	ジムは教習所に通っている。	Jim menghadiri sebuah lembaga pelatihan.
-jpn_Hira	ind	これは文では無い。	Ini bukan kalimat.
 jpn_Hira	ind	新しくブログを始めた。三日坊主にならないようがんばるぞ！	Saya membuat blog baru. Saya akan berusaha keras untuk mengurusnya.
-jpn_Hira	ind	デパートで新しい帽子を買った。	Aku mendapatkan sebuah topi baru di pusat perbelanjaan.
-jpn_Hira	ind	よく旅行をしますか。	Apa Anda sering melakukan perjalanan?
-jpn_Hira	ind	旅行は楽しかったですか。	Apa perjalanannya menyenangkan?
 jpn_Hira	ind	旅行の目的は何ですか。	Tujuan perjalananmu apa?
-jpn_Hira	ind	あなたは既に朝食を食べていますよね？	Kalian sudah makan pagi, bukan?
+jpn_Hira	ind	旅行は楽しかったですか。	Apa perjalanannya menyenangkan?
 jpn_Hira	ind	日本語の話せる人を呼んでください。	Tolong panggil seseorang yang mengerti Bahasa Jepang.
-jpn_Hira	ind	ロバート・ハンセンが、旧ソ連に秘密情報を売りさばいた容疑で逮捕された。	Robert Hansen ditangkap atas tuduhan penjualan informasi rahasia kepada bekas Uni Soviet.
-jpn_Hira	ind	トムはいつでも明るい。	Tom selalu ceria kapanpun itu.
-jpn_Hira	ind	あなたは明日お暇ですか。	Apakah Anda ada acara besok?
 jpn_Hira	ind	明日も来れたら来るね。	Aku akan datang lagi besok kalau memungkinkan.
 jpn_Hira	ind	映画は2時に始まった。	Filmnya mulai jam dua.
-jpn_Hira	ind	テレビがほとんど映画にとって代わった。	Televisi hampir mengambil alih peran bioskop.
 jpn_Hira	ind	映画は何時に始まりますか。	Kapan filmnya mulai?
-jpn_Hira	ind	この映画は小説をもとにしている。	Film ini didasarkan pada novel.
-jpn_Hira	ind	あの映画、最低！	Film itu jelek sekali!
-jpn_Hira	ind	ぜひその映画を見るべきです。	Kamu harus menonton film itu.
-jpn_Hira	ind	昨日は、くもりだった。	Kemarin cuacanya berawan.
 jpn_Hira	ind	昨日はありがとうございました。	Terima kasih untuk yang kemarin.
+jpn_Hira	ind	昨日は、くもりだった。	Kemarin cuacanya berawan.
 jpn_Hira	ind	昨日彼に会いました。	Kemarin aku bertemu dengannya.
 jpn_Hira	ind	昨日彼に会いました。	Kemarin aku menemuinya.
 jpn_Hira	ind	昨日彼は大きな魚を釣り上げました。	Kemarin, dia memancing sebuah ikan yang besar.
-jpn_Hira	ind	お昼ごはんは食べたの？	Kamu sudah makan siang?
-jpn_Hira	ind	１０時前にはホテルを出発しなければなりません。さもなければマイアミ行きの電車を乗り逃がしてしまいます。	Kita harus berangkat dari hotel sebelum jam 10. Jika tidak, kita akan ketinggalan kereta jurusan Miami.
-jpn_Hira	ind	この時計は絶対に狂わないこと請け合いだ。	Saya jamin jam ini tidak meleset.
-jpn_Hira	ind	８時に起こして。	Bangunkan aku jam delapan.
-jpn_Hira	ind	こんな時間まで何してたの？	Sampai jam segini kamu ngapain?
 jpn_Hira	ind	時間を潰そうとしていた。	Aku mencoba menghabiskan waktu.
-jpn_Hira	ind	もう時間だ、行かなきゃ。	Sudah jam segini, aku harus pergi.
-jpn_Hira	ind	もう時間だ。行かないと。	Sudah waktu untuk saya pergi. Saya harus pergi sekarang.
 jpn_Hira	ind	晩ご飯は食べましたか。	Apa kau sudah makan malam?
-jpn_Hira	ind	もし暇があれば、私はフランス語を勉強するのだが。	Jika ada waktu luang, saya ingin belajar bahasa Prancis.
 jpn_Hira	ind	暗くなったらひとりで歩いてはいけません。	Jangan berjalan seorang diri setelah hari menjadi gelap.
-jpn_Hira	ind	ここを曲がればおそらく渋滞を回避できますよ。	Kalau kamu belok ke sini, mungkin kamu bisa terhindar dari kemacetan.
 jpn_Hira	ind	最大２００語以内に。	Maksimal 200 kata.
 jpn_Hira	ind	最寄の地下鉄の駅はどちらでしょうか？	Di mana lokasi stasiun kereta bawah tanah yang terdekat?
-jpn_Hira	ind	トムは最後に到着した。	Tom datang paling akhir.
 jpn_Hira	ind	最後に星空を見上げたのはいつですか？	Kapan terakhir kali kamu melihat langit yang berbintang?
 jpn_Hira	ind	最近この仕事にかかりきりです。	Aku sangat sibuk dengan pekerjaan ini akhir-akhir ini.
-jpn_Hira	ind	トムは最近誰ともけんかをしていない。	Tom tidak berkelahi dengan siapa pun akhir-akhir ini.
-jpn_Hira	ind	もう６ヶ月たてば流暢にドイツ語が話せるようになるでしょう。	6 bulan lagi Anda akan bisa berbicara bahasa Jerman dengan lancar.
 jpn_Hira	ind	望みは何だ？	Apa harapanmu?
-jpn_Hira	ind	あなたはもう朝食をとりましたか？	Kalian sudah sarapan?
-jpn_Hira	ind	あなたはもう朝食を済ませましたか。	Apa kau sudah menghabiskan sarapanmu?
-jpn_Hira	ind	この木はどうしても燃えない。	Apapun usahamu, kayu ini tidak dapat terbakar.
-jpn_Hira	ind	アルメニアについての本がありますか。	Apa kau punya buku tentang Armenia?
-jpn_Hira	ind	この本はあなたのですか。	Buku ini milikmu?
-jpn_Hira	ind	これらの本は健二のものですか。	Apakah buku ini karangan Kenji?
-jpn_Hira	ind	これらの本を２冊とも読んだ。	Aku sudah membaca kedua buku ini.
-jpn_Hira	ind	たくさんの本が出版されているが、そのうち読むに値するものは非常に少ない。	Banyak buku telah dipublikasikan, namun hanya sedikit diantara mereka yang menarik untuk dibaca.
-jpn_Hira	ind	ぼくはこの本を古本屋で見つけた。	Aku menemukan buku ini di toko barang bekas.
-jpn_Hira	ind	トムの本名知ってる？	Apa kamu tahu nama asli Tom?
+jpn_Hira	ind	本をその表紙で判断してはいけない。	Jangan menilai buku dari sampulnya.
 jpn_Hira	ind	本当にすいません。	Aku benar-benar minta maaf.
 jpn_Hira	ind	本当にそうだろうか。	Apa memang benar begitu?
-jpn_Hira	ind	ああ、本当？	Oh, benarkah?
 jpn_Hira	ind	本当のことを言ってください。	Tolong katakan yang sebenarnya.
-jpn_Hira	ind	これは本当の話です。	Ini cerita yang sebenarnya.
-jpn_Hira	ind	ビルがこの本持ってきましたよ。	Bill membawakan saya buku ini.
 jpn_Hira	ind	本気で言ってるんです。	Aku serius mengatakannya.
-jpn_Hira	ind	それ本気で言ってる？	Apa kau serius mengatakannya?
-jpn_Hira	ind	本をその表紙で判断してはいけない。	Jangan menilai buku dari sampulnya.
-jpn_Hira	ind	机の上の本は全部が全部私のものではない。	Tidak semua buku yang di atas meja miliki saya.
 jpn_Hira	ind	机の上のお金は私のものではありません。	Uang yang ada di atas meja bukan milikku.
-jpn_Hira	ind	イランから来ました。	Aku datang dari Iran.
-jpn_Hira	ind	ここに来な。	Kemari.
-jpn_Hira	ind	シンガポールからやって来ました。	Saya datang dari Singapura.
-jpn_Hira	ind	それがどこから来たのか分からなかった。	saya tidak tau darimana itu berasal
+jpn_Hira	ind	机の上の本は全部が全部私のものではない。	Tidak semua buku yang di atas meja miliki saya.
 jpn_Hira	ind	来るなといっても彼女は来るよ。	Meskipun kamu bilang jangan datang, dia tetap akan datang.
-jpn_Hira	ind	あなたは東京から来たんですか？	Apa kamu datang dari Tokyo?
-jpn_Hira	ind	どの果物が一番好きですか。	Buah apa yang paling Anda sukai?
-jpn_Hira	ind	いい案だ！	Rencana yang bagus!
 jpn_Hira	ind	椅子の下にあります。	Ada di bawah kursi.
 jpn_Hira	ind	楽しみにしています。	Saya menantikannya.
-jpn_Hira	ind	ソファーに横になっても構いませんか。	Bolehkah aku berbaring di sofa?
 jpn_Hira	ind	機内で映画を見られますか。	Apakah saya bisa menonton film di dalam pesawat?
-jpn_Hira	ind	なぜ欠席したか理由を言いなさい。	Katakan aku alasan kenapa ia tidak hadir.
 jpn_Hira	ind	次の交差点を右に曲がってください。	Tolong belok kanan di persimpangan berikutnya.
-jpn_Hira	ind	その歌手は女の子に人気がある。	Penyanyi itu terkenal di kalangan perempuan.
 jpn_Hira	ind	止まれ！	Berhenti!
 jpn_Hira	ind	正解です。	Benar.
 jpn_Hira	ind	歩ける？	Bisa jalan?
-jpn_Hira	ind	トムは歯が痛い。	Tom sedang sakit gigi.
 jpn_Hira	ind	死んじゃいたい。	Aku harap aku mati.
-jpn_Hira	ind	すみません、母は今留守です。	Maaf, ibuku sedang tidak di rumah.
 jpn_Hira	ind	母はケーキを作っている。	Ibu saya sedang membuat kue.
 jpn_Hira	ind	母はひどい風邪にかかっている。	Ibuku terserang flu berat.
 jpn_Hira	ind	気にしないでいいよ。	Tidak perlu mengkhawatirkannya.
-jpn_Hira	ind	お気に入りのスポーツは何ですか。	Apa olahraga favoritmu?
-jpn_Hira	ind	お気に召しましたでしょうか？	Apakah Anda menyukainya?
-jpn_Hira	ind	トムはメアリーの気持ちを楽にするのに何と言っていいかわからない。	Tom tidak tahu apa yang sebaiknya ia katakan untuk membuat Mary merasa lebih baik.
-jpn_Hira	ind	お水をください。	Tolong beri aku air.
 jpn_Hira	ind	水なしでは、生きて行けない。	Kita tidak bisa hidup tanpa air.
 jpn_Hira	ind	汽車が混んでいたので、私は京都までずっと立ち続けだった。	Karena keretanya penuh, saya terus berdiri hingga saya tiba di Kyoto.
 jpn_Hira	ind	法律はすべての市民に税を払うように義務づけている。	Peraturan mengharuskan setiap warga negara membayar pajak.
 jpn_Hira	ind	波が高い。	Ombaknya tinggi.
-jpn_Hira	ind	泣くな。	Jangan menangis.
-jpn_Hira	ind	トムは泣いているようです。	Tom kelihatannya menangis.
-jpn_Hira	ind	泣けばよいのか悪いのか。	Aku tak tahu apakah mesti menangis atau tertawa.
 jpn_Hira	ind	泣きすぎて目と頭が痛い。	Mata dan kepalaku sakit karena menangis terlalu banyak.
+jpn_Hira	ind	泣くな。	Jangan menangis.
+jpn_Hira	ind	泣けばよいのか悪いのか。	Aku tak tahu apakah mesti menangis atau tertawa.
 jpn_Hira	ind	洋子さんと由美さんとではどちらが英語を上手に話せますか。	Antara Yoko dan Yumi, siapa yang bisa berbahasa Inggris dengan baik?
 jpn_Hira	ind	津波が来ますので注意してください。	Tsunami sedang menerjang, jadi mohon berhati-hati.
-jpn_Hira	ind	アイス溶けそうだから今食べちゃおうよ。	kelihatannya es krim itu akan mencair, ayo kita makan sekarang
-jpn_Hira	ind	ロウソクの火が自然に消えた。	Api lilinnya mati sendiri.
 jpn_Hira	ind	無理するなよ！	Jangan memaksakan diri!
 jpn_Hira	ind	父の日に娘からオカリナをもらった。正直言っていらない。どこからこんなチョイスを思いつくのか不思議だ。	Aku mendapat okarina dari anak perempuanku di hari Ayah. Sebetulnya aku tidak membutuhkannya. Aku heran dari mana ia mendapat ide seperti itu.
 jpn_Hira	ind	父親にそっくりだ。	Dia terlihat sangat mirip dengan ayahnya.
 jpn_Hira	ind	犬は人間よりも速く走る。	Anjing berlari lebih cepat dari manusia.
-jpn_Hira	ind	ナンシーは犬が怖い。	Nancy takut anjing.
-jpn_Hira	ind	これは猫です。	Ini kucing.
-jpn_Hira	ind	猫は人間ではない。	Kucing bukan manusia.
 jpn_Hira	ind	猫がネズミを嗅ぎつけたようですね。	Rasanya kucing itu telah mencium aroma kucing
+jpn_Hira	ind	猫は人間ではない。	Kucing bukan manusia.
 jpn_Hira	ind	猫は水が大嫌いです。	Kucing benci air.
 jpn_Hira	ind	献血をしたことがありますか。	Apa kau pernah mendonorkan darah?
-jpn_Hira	ind	あなたはもっと理性的であるべきだ。	Seharusnya kau lebih rasional.
-jpn_Hira	ind	あいつの生意気な話し方が嫌いだ。	Aku benci cara bicaranya yang suka lancang.
 jpn_Hira	ind	産科医に加え、助産師も不足と我が国の産科医療が極めて深刻な状況にあることが改めて浮き彫りになった。	Dengan kurangnya jumlah dokter kandungan, termasuk juga jumlah bidan, maka semakin jelas bahwa pelayanan kebidanan di negeri kita dalam keadaan yang sangat mengkhawatirkan.
 jpn_Hira	ind	田舎は何かと不便ですが、田舎ならではの良さもたくさんあります。	Hidup di kampung memang agak merepotkan, tetapi banyak pula hal positif yang hanya ada di kampung.
 jpn_Hira	ind	由美はテニスをしないでしょう。	Yumi tidak akan bermain tenis.
 jpn_Hira	ind	申告する物はありますか。	Apakah ada yang ingin Anda beritahukan?
-jpn_Hira	ind	その町は山のふもとにあります。	Kota itu ada di kaki gunung.
-jpn_Hira	ind	この番号に電話を下さい。	Silakan hubungi nomor ini.
 jpn_Hira	ind	疲れた！	Aku capek!
-jpn_Hira	ind	もう疲れた。	Aku sudah lelah.
 jpn_Hira	ind	疲れちゃったの？	Kamu capek?
-jpn_Hira	ind	お疲れさまでした。	Terima kasih.
 jpn_Hira	ind	病気のため、私は外国へ行けなかった。	Karena sakit, saya tidak bisa pergi ke luar negeri.
-jpn_Hira	ind	ここは病院です。	Ini adalah rumah sakit.
-jpn_Hira	ind	この痛みをやわらげる薬が何かほしい。	Saya perlu obat untuk mengurangi rasa sakit.
-jpn_Hira	ind	あなたが発見した方法とはどういったものですか？	Metode apa yang Anda gunakan dalam melakukan penemuan?
 jpn_Hira	ind	白いですか。	apakah putih?
+jpn_Hira	ind	皆が笑った。	Semuanya tertawa.
 jpn_Hira	ind	皆さん、おはようございます。	Selamat pagi, semuanya.
 jpn_Hira	ind	皆様、おはようございます。	Selamat pagi, semuanya.
-jpn_Hira	ind	皆が笑った。	Semuanya tertawa.
-jpn_Hira	ind	あなたにお目にかかれてうれしかったです、タモリさん。	Senang sekali berjumpa dengan anda, Pak Tamori.
-jpn_Hira	ind	あなたにお目にかかって大変うれしく存じます。	Saya merasa senang sekali berjumpa dengan anda.
-jpn_Hira	ind	あなたにお目にかかると彼は喜ぶだろうと思います。	Saya pikir, dia akan senang jika bertemu denganmu.
 jpn_Hira	ind	目が痛い。	Mataku sakit.
 jpn_Hira	ind	目を覚ませよ！	Bangunlah!
-jpn_Hira	ind	まだ眠いです。	Aku masih ngantuk.
 jpn_Hira	ind	眠いけど今寝たら明日のテストがやばい。	Bila saya mengantuk, saya akan kesulitan mengikuti tes besok.
-jpn_Hira	ind	コートを着たほうがいい。	Sebaiknya kamu pakai jasmu.
-jpn_Hira	ind	コートを着るのを手伝ってあげよう。	Biar kubantu memakai jas.
-jpn_Hira	ind	はっきりとは知らない。	Aku tidak tahu pastinya.
-jpn_Hira	ind	って、知らないわけ？	Maksudnya, kamu ga tahu?
-jpn_Hira	ind	インターネットで知り合った人と、実際に会ったことはありますか？	Pernahkah kamu bertemu secara langsung dengan orang yang kamu kenal dari internet?
-jpn_Hira	ind	その知らせで彼は幸せな気分になった。	Berita itu membuatnya bahagia.
-jpn_Hira	ind	あなたには研究に専念していただきたいのです。	Aku ingin kau bersungguh-sungguh dalam penelitian ini.
-jpn_Hira	ind	それは確かかい。	Apa kau yakin dengan hal itu?
 jpn_Hira	ind	神があなたを祝福してくれますように。	Semoga Tuhan memberkatimu.
-jpn_Hira	ind	私は4年間ネイティブから英語を習っていた。	Saya belajar bahasa Inggris dari penutur asli selama 4 tahun.
-jpn_Hira	ind	私も。	Aku juga.
-jpn_Hira	ind	私のペンはどこですか？	Di mana pulpenku?
-jpn_Hira	ind	私ですが。	Ini aku.
+jpn_Hira	ind	私がその責任を負いましょう。	Aku akan memikul tanggung jawab itu.
+jpn_Hira	ind	私が何をしているかわかりますか。	Apa kamu tahu apa yang sedang aku lakukan?
+jpn_Hira	ind	私が彼女に会ったのは昨日のことでした。	Saya bertemu dengannya kemarin.
+jpn_Hira	ind	私が彼女の歌を作曲しました。	Saya menuliskan lagu untuknya.
+jpn_Hira	ind	私たちには処理しなければならない問題がたくさんある。	Kami memiliki banyak masalah yang harus ditangani.
+jpn_Hira	ind	私たちの飛行機は午後６時ちょうどに離陸した。	Pesawat kami lepas landas tepat jam 6 malam.
 jpn_Hira	ind	私たちはきのうサッカーをしました。	Kami bermain sepak bola kemarin.
-jpn_Hira	ind	トムは私をがっかりさせた。	Tom membuatku kecewa.
-jpn_Hira	ind	トムは私をがっかりさせた。	Tom mengecewakanku.
+jpn_Hira	ind	私たちは冬に毛織物を着る。	Kami mengenakan pakaian berbahan wol di musim dingin.
+jpn_Hira	ind	私たち、犬と猫を飼ってるんです。	Kami memelihara anjing dan kucing.
+jpn_Hira	ind	私ですが。	Ini aku.
+jpn_Hira	ind	私には双子の姉がいる。	Aku punya saudara kembar kakak perempuan.
+jpn_Hira	ind	私のペンはどこですか？	Di mana pulpenku?
+jpn_Hira	ind	私の家って、見つけるの難しかった？	Susah tidak mencari rumahku?
+jpn_Hira	ind	私の家には十分保険がかけてある。	Rumahku sudah diasuransikan penuh.
+jpn_Hira	ind	私の家には狭い庭しかない。	Di rumahku cuma ada halaman kecil.
+jpn_Hira	ind	私の家の上で静かになった。	Di atas rumahku jadi tenang.
+jpn_Hira	ind	私の家の前にビルが新築中です。	Di depan rumahku sedang dibangun sebuah gedung.
+jpn_Hira	ind	私の家の前に公園があります。	Di depan rumahku ada taman umum.
+jpn_Hira	ind	私の家の前に店があります。	Di depan rumahku ada toko.
+jpn_Hira	ind	私の家の近くにりっぱな公園がある。	Di dekat rumahku ada taman bagus.
+jpn_Hira	ind	私の家の近くを広い道路が走っている。	Di dekat rumahku ada jalan besar.
+jpn_Hira	ind	私の家の隣に高いビルを立てられた。	Di sebelah rumahku didirikan bangunan tinggi.
+jpn_Hira	ind	私の家は２階建てです。	Rumahku berlantai 2.
+jpn_Hira	ind	私の家はちょうど通りのむこうにある。	Rumahku tepat di seberang jalan.
+jpn_Hira	ind	私の家はトラックが通過する時いつも揺れる。	Rumahku selalu bergetar saat truk lewat.
+jpn_Hira	ind	私の家はにぎやかな通りに面しています。	Rumahku menghadap jalan ramai.
+jpn_Hira	ind	私の家は丘の上にあるので、見晴らしがよい。	Karena rumahku di atas bukit, pemandangannya indah.
+jpn_Hira	ind	私の家は丘の上に建っています。	Rumahku berada di atas bukit.
+jpn_Hira	ind	私の家は公園のすぐ近くにある。	Rumahku dekat sekali dengan taman.
+jpn_Hira	ind	私の家は海に面している。	Rumahku menghadap laut.
+jpn_Hira	ind	私の家は炎に包まれました。	Rumahku kebakaran.
+jpn_Hira	ind	私の家は駅に近くて便利です。	Rumahku dekat stasiun dan nyaman.
+jpn_Hira	ind	私の家は駅の近くです。	Rumahku dekat stasiun.
+jpn_Hira	ind	私の悩み聞いてもらってもいいですか？	Maukah kamu mendengarkan curhatku?
+jpn_Hira	ind	私の注文はまだですか。	Orderan saya belum datang ya?
+jpn_Hira	ind	私の言う事を注意して聞きなさい。	Dengarkan baik-baik maksud perkataan saya.
+jpn_Hira	ind	私の話をよく聞きなさい。	Dengar baik-baik perkataanku.
+jpn_Hira	ind	私の趣味の１つは古い切手を集めることです。	Salah satu hobiku mengumpulkan perangko lama.
+jpn_Hira	ind	私の趣味は魚つりです。	Hobiku memancing ikan.
+jpn_Hira	ind	私の髪はまだ洗ったばかりで濡れていた。	Rambutku masih basah karena aku baru saja keramas.
+jpn_Hira	ind	私は３ヶ月ぐらい前から彼に会っていない。	Saya tidak pernah melihatnya sejak sekitar tiga bulan yang lalu.
+jpn_Hira	ind	私は4年間ネイティブから英語を習っていた。	Saya belajar bahasa Inggris dari penutur asli selama 4 tahun.
+jpn_Hira	ind	私はあなたに賛成だ。	Aku setuju denganmu.
+jpn_Hira	ind	私はいつも歩いて学校に行く。	Aku selalu pergi ke sekolah dengan berjalan kaki.
+jpn_Hira	ind	私はインドネシアに住んでいます。	Saya tinggal di Indonesia.
+jpn_Hira	ind	私はスイカを食べるのが好きです。	Aku suka makan semangka.
+jpn_Hira	ind	私はその動物の名前を知っている。	Saya mengetahui nama binatang itu.
+jpn_Hira	ind	私はその問題を考えているところだ。	Saya sedang memikirkan persoalan itu.
+jpn_Hira	ind	私はチョコレートが好きです。	Saya suka coklat.
+jpn_Hira	ind	私はついにその問題の答えを出した。	Pada akhirnya aku menemukan jawaban pertanyaan itu.
+jpn_Hira	ind	私はドイツ語をしゃべることができません。	Saya tidak bisa bahasa Jerman.
+jpn_Hira	ind	私はどのようにして切符を買うのか知りません。	Saya tidak tahu cara membeli tiket.
+jpn_Hira	ind	私はどの車を買うか決めあぐねています。	Aku tidak tahu mobil mana yang mau kubeli.
+jpn_Hira	ind	私はもうかつての私ではない。	Aku sudah tidak sama seperti yang dulu.
 jpn_Hira	ind	私は世界を変えたい。	Aku ingin mengubah dunia.
 jpn_Hira	ind	私は人間だ。	Aku adalah manusia.
 jpn_Hira	ind	私は今風邪をひいている。	Aku sedang pilek saat ini.
 jpn_Hira	ind	私は以前からここに住んでおります。	Saya tinggal di sini sejak lama.
-jpn_Hira	ind	私はインドネシアに住んでいます。	Saya tinggal di Indonesia.
-jpn_Hira	ind	私が何をしているかわかりますか。	Apa kamu tahu apa yang sedang aku lakukan?
-jpn_Hira	ind	それは私にとって全く新しい経験です。	Itu adalah pengalaman yang benar-benar baru bagi saya.
-jpn_Hira	ind	私たちは冬に毛織物を着る。	Kami mengenakan pakaian berbahan wol di musim dingin.
-jpn_Hira	ind	私たちには処理しなければならない問題がたくさんある。	Kami memiliki banyak masalah yang harus ditangani.
 jpn_Hira	ind	私は切手をたくさん集めている。	Aku banyak mengoleksi perangko.
-jpn_Hira	ind	私はどのようにして切符を買うのか知りません。	Saya tidak tahu cara membeli tiket.
 jpn_Hira	ind	私は勉強する前にテレビを見ます。	Saya menonton televisi sebelum belajar.
-jpn_Hira	ind	私はその動物の名前を知っている。	Saya mengetahui nama binatang itu.
 jpn_Hira	ind	私は十八歳です。	Saya berusia 18 tahun.
-jpn_Hira	ind	トムは私の友達です。	Tom adalah temanku.
-jpn_Hira	ind	私には双子の姉がいる。	Aku punya saudara kembar kakak perempuan.
 jpn_Hira	ind	私は古代の言語を学ぶことが好きです。	Saya suka belajar bahasa-bahasa kuno.
 jpn_Hira	ind	私は君のお父さんを知っている。	Aku tahu ayahmu.
-jpn_Hira	ind	私はついにその問題の答えを出した。	Pada akhirnya aku menemukan jawaban pertanyaan itu.
-jpn_Hira	ind	私はその問題を考えているところだ。	Saya sedang memikirkan persoalan itu.
-jpn_Hira	ind	ピザは私の大好きな食べ物です。	Piza adalah makanan yang paling aku sukai.
-jpn_Hira	ind	私はチョコレートが好きです。	Saya suka coklat.
-jpn_Hira	ind	ナンシーは私の姉に似ている。	Nancy mirip dengan adikku.
-jpn_Hira	ind	私の家の上で静かになった。	Di atas rumahku jadi tenang.
-jpn_Hira	ind	私の家は丘の上に建っています。	Rumahku berada di atas bukit.
-jpn_Hira	ind	私の家は丘の上にあるので、見晴らしがよい。	Karena rumahku di atas bukit, pemandangannya indah.
-jpn_Hira	ind	私の家は公園のすぐ近くにある。	Rumahku dekat sekali dengan taman.
-jpn_Hira	ind	私の家の前に公園があります。	Di depan rumahku ada taman umum.
-jpn_Hira	ind	私の家の前に店があります。	Di depan rumahku ada toko.
-jpn_Hira	ind	私の家の前にビルが新築中です。	Di depan rumahku sedang dibangun sebuah gedung.
-jpn_Hira	ind	私の家には十分保険がかけてある。	Rumahku sudah diasuransikan penuh.
-jpn_Hira	ind	私の家は海に面している。	Rumahku menghadap laut.
-jpn_Hira	ind	私の家は炎に包まれました。	Rumahku kebakaran.
-jpn_Hira	ind	私の家には狭い庭しかない。	Di rumahku cuma ada halaman kecil.
-jpn_Hira	ind	私の家って、見つけるの難しかった？	Susah tidak mencari rumahku?
-jpn_Hira	ind	私の家の近くにりっぱな公園がある。	Di dekat rumahku ada taman bagus.
-jpn_Hira	ind	私の家の近くを広い道路が走っている。	Di dekat rumahku ada jalan besar.
-jpn_Hira	ind	私の家はちょうど通りのむこうにある。	Rumahku tepat di seberang jalan.
-jpn_Hira	ind	私の家はトラックが通過する時いつも揺れる。	Rumahku selalu bergetar saat truk lewat.
-jpn_Hira	ind	私の家はにぎやかな通りに面しています。	Rumahku menghadap jalan ramai.
-jpn_Hira	ind	私の家は２階建てです。	Rumahku berlantai 2.
-jpn_Hira	ind	私の家の隣に高いビルを立てられた。	Di sebelah rumahku didirikan bangunan tinggi.
-jpn_Hira	ind	私の家は駅の近くです。	Rumahku dekat stasiun.
-jpn_Hira	ind	私の家は駅に近くて便利です。	Rumahku dekat stasiun dan nyaman.
 jpn_Hira	ind	私は幽霊の存在を本当に信じている。	Aku benar-benar percaya pada keberadaan hantu.
-jpn_Hira	ind	私が彼女に会ったのは昨日のことでした。	Saya bertemu dengannya kemarin.
-jpn_Hira	ind	私が彼女の歌を作曲しました。	Saya menuliskan lagu untuknya.
-jpn_Hira	ind	私は彼女が部屋から出て行くのに気がつかなかった。	Aku tidak menyadari kalau dia keluar dari kamarnya.
-jpn_Hira	ind	私は彼の小説を全部読んだわけではない。	Aku belum membaca semua novelnya.
 jpn_Hira	ind	私は彼とそのことで議論した。	Saya berdebat tentang hal itu dengannya.
-jpn_Hira	ind	私の悩み聞いてもらってもいいですか？	Maukah kamu mendengarkan curhatku?
+jpn_Hira	ind	私は彼の小説を全部読んだわけではない。	Aku belum membaca semua novelnya.
+jpn_Hira	ind	私は彼女が部屋から出て行くのに気がつかなかった。	Aku tidak menyadari kalau dia keluar dari kamarnya.
 jpn_Hira	ind	私は感謝しています。	Aku mengapresiasinya.
 jpn_Hira	ind	私は数学を英語と同じだけ勉強する。	Aku belajar matematika dengan giat, segiat waktu aku belajar bahasa Inggris.
 jpn_Hira	ind	私は昔ほど健康ではない。	Aku tidak sesehat dulu.
-jpn_Hira	ind	私は３ヶ月ぐらい前から彼に会っていない。	Saya tidak pernah melihatnya sejak sekitar tiga bulan yang lalu.
-jpn_Hira	ind	もしも私が本当のことを話すようなことがあれば、彼は怒るだろう。	Kalau aku katakan padanya yang sebenarnya, dia akan marah.
-jpn_Hira	ind	私はいつも歩いて学校に行く。	Aku selalu pergi ke sekolah dengan berjalan kaki.
 jpn_Hira	ind	私は毎朝自分でコーヒー豆を挽いている。	Setiap pagi saya menggiling biji kopi saya sendiri.
-jpn_Hira	ind	私の注文はまだですか。	Orderan saya belum datang ya?
-jpn_Hira	ind	私たち、犬と猫を飼ってるんです。	Kami memelihara anjing dan kucing.
 jpn_Hira	ind	私は疲れた。	Aku lelah.
 jpn_Hira	ind	私は病気だったので、仕事に行けなかった。	Karena saya sakit, saya tidak bisa pergi bekerja.
 jpn_Hira	ind	私は眠らなければなりません。	Saya harus tidur
-jpn_Hira	ind	私はもうかつての私ではない。	Aku sudah tidak sama seperti yang dulu.
-jpn_Hira	ind	いつかは私は立派な絵を描くつもりです。	Saya ingin melukis sebuah gambar yang bagus suatu hari nanti.
 jpn_Hira	ind	私は笑わないわけにはいかなかった。	Aku tak bisa menahan diri untuk tidak tertawa.
 jpn_Hira	ind	私は絶対にそんな事しません。	Aku tidak akan pernah mau melakukannya.
-jpn_Hira	ind	トムは私より背が高い。	Tom lebih tinggi ketimbang aku.
 jpn_Hira	ind	私は覚悟ができている。	Saya siap.
-jpn_Hira	ind	私の言う事を注意して聞きなさい。	Dengarkan baik-baik maksud perkataan saya.
-jpn_Hira	ind	私の話をよく聞きなさい。	Dengar baik-baik perkataanku.
-jpn_Hira	ind	私はドイツ語をしゃべることができません。	Saya tidak bisa bahasa Jerman.
-jpn_Hira	ind	私がその責任を負いましょう。	Aku akan memikul tanggung jawab itu.
-jpn_Hira	ind	私はあなたに賛成だ。	Aku setuju denganmu.
-jpn_Hira	ind	私は赤ワインより白ワインのほうが好きです。	Saya lebih suka anggur putih daripada anggur merah.
 jpn_Hira	ind	私は赤ブドウ酒より白ブドウ酒のほうが好きだ。	Aku lebih suka anggur putih daripada anggur merah.
-jpn_Hira	ind	私の趣味の１つは古い切手を集めることです。	Salah satu hobiku mengumpulkan perangko lama.
-jpn_Hira	ind	私の趣味は魚つりです。	Hobiku memancing ikan.
-jpn_Hira	ind	私はどの車を買うか決めあぐねています。	Aku tidak tahu mobil mana yang mau kubeli.
-jpn_Hira	ind	ママと私はホールに逃げたのよ。	Aku dan ibuku melarikan diri ke aula.
+jpn_Hira	ind	私は赤ワインより白ワインのほうが好きです。	Saya lebih suka anggur putih daripada anggur merah.
 jpn_Hira	ind	私は造花が好きではない。	Saya tidak suka bunga buatan.
+jpn_Hira	ind	私は青色が好きです。	Saya suka warna biru.
+jpn_Hira	ind	私は、飛行機でアメリカへ行くつもりだ。	saya berencana ke Amerika menggunakan pesawat
+jpn_Hira	ind	私も。	Aku juga.
 jpn_Hira	ind	私達の先生はめったに笑わない。	Guru kami jarang tertawa.
+jpn_Hira	ind	私達はジャックを議長に選んだ。	Kami memilih Jack sebagai pembicara.
 jpn_Hira	ind	私達は彼らに早く出発するように忠告した。	Kami menyarankan kepada mereka untuk berangkat lebih awal.
 jpn_Hira	ind	私達は、春の夜、月光を浴びた桜の優美さに心を打たれる。	Kami terpukau oleh kecantikan bunga sakura yang bermandikan cahaya bulan di malam musim semi.
-jpn_Hira	ind	私達はジャックを議長に選んだ。	Kami memilih Jack sebagai pembicara.
-jpn_Hira	ind	私は青色が好きです。	Saya suka warna biru.
-jpn_Hira	ind	私たちの飛行機は午後６時ちょうどに離陸した。	Pesawat kami lepas landas tepat jam 6 malam.
-jpn_Hira	ind	私は、飛行機でアメリカへ行くつもりだ。	saya berencana ke Amerika menggunakan pesawat
-jpn_Hira	ind	私はスイカを食べるのが好きです。	Aku suka makan semangka.
-jpn_Hira	ind	私の髪はまだ洗ったばかりで濡れていた。	Rambutku masih basah karena aku baru saja keramas.
-jpn_Hira	ind	税金を払ったら実生活の始まりだ。	Membayar pajak adalah awal dari kehidupan yang sebenarnya.
 jpn_Hira	ind	税金に関するあなたの意見に同感です。	Saya sependapat dengan opini Anda terkait pajak.
-jpn_Hira	ind	ようやく稼いだ金を無駄遣いするなよ！	Jangan boros dengan uang yang baru kamu dapat!
-jpn_Hira	ind	まだ空席がありますか。	Apa masih ada kursi yang tersedia?
-jpn_Hira	ind	トムは空想の世界に生きている。	Tom hidup di dunia fantasi.
+jpn_Hira	ind	税金を払ったら実生活の始まりだ。	Membayar pajak adalah awal dari kehidupan yang sebenarnya.
 jpn_Hira	ind	窓を壊したのはジャックでしたか。	Apakah Jack yang memecahkan jendelanya?
 jpn_Hira	ind	笑いすぎて、顎がはずれそうになった。	Tertawa terbahak-bahak membuat gerahamku serasa mau lepas.
 jpn_Hira	ind	答えを頂きたいのです。	Saya ingin memperoleh jawaban.
-jpn_Hira	ind	コーヒーか紅茶、どちらになさいますか。	Mau kopi atau teh?
 jpn_Hira	ind	紙がほしい。	Aku ingin kertas.
-jpn_Hira	ind	トムは紙飛行機を作るのが好きだ。	Tom suka membuat pesawat kertas.
 jpn_Hira	ind	細かいお金がないんだよ。	Aku ga punya recehan.
 jpn_Hira	ind	細かいお金がないんだよ。	Aku tidak punya uang receh.
-jpn_Hira	ind	あなたは結婚するには若すぎますよ。	Anda terlalu muda untuk menikah.
 jpn_Hira	ind	結局、私はその映画を見に行かないことにした。	Pada akhirnya kami memutuskan untuk tidak pergi menonton film itu.
 jpn_Hira	ind	給仕さん水をいただけませんか。	Pelayan, boleh saya minta air?
-jpn_Hira	ind	もしこんなことを続けていたら、彼は刑務所に入るはめになるぞ。	Jika dia terus-menerus melakukannya, dia akan berakhir di penjara.
 jpn_Hira	ind	続けてください。とても興味深い。	Lanjutkan ceritanya. Benar-benar menarik.
 jpn_Hira	ind	罠だよ！	Ini jebakan!
 jpn_Hira	ind	美しい！	Cantik sekali!
-jpn_Hira	ind	そこに羽の生えたばかりの小鳥がありました。	Di sana ada anak burung yang baru saja bisa terbang.
 jpn_Hira	ind	聖書にこう書いてある。	Di Alkitab tertulis seperti ini.
-jpn_Hira	ind	トムに聞きなさい。	Bertanyalah pada Tom.
-jpn_Hira	ind	トムに聞きなさい。	Tanyalah Tom.
-jpn_Hira	ind	トムはジャックと背が同じくらいだ。	Tinggi Tom kurang lebih sama dengan Jack.
 jpn_Hira	ind	脈がはやいです。	Denyut nadiku cepat.
-jpn_Hira	ind	コートを脱いだらどうですか。	Kenapa tidak kau lepas jasmu?
 jpn_Hira	ind	腰痛持ちです。	Aku memiliki masalah pada punggungku.
-jpn_Hira	ind	めっちゃお腹すいた。	Aku sangat lapar.
-jpn_Hira	ind	みなさん、お腹すいてますか？	Apa kalian lapar?
-jpn_Hira	ind	お腹が減った。	Saya lapar.
-jpn_Hira	ind	お腹が痛いのです。	Perutku sakit.
-jpn_Hira	ind	お腹が空いているのですか。	Apa kau lapar?
-jpn_Hira	ind	ネズミは臆病な生き物だ。	Tikus itu hewan yang penakut.
 jpn_Hira	ind	自分がどの求婚者と結婚したいかわからず、ある者を挙げたりまたある者を挙げたりしてお姫様は迷っていた。	Sang putri tidak tahu dengan pelamar mana ia akan menikah, ia bingung, satu saat ia memilih satu orang, tetapi kemudian ia memilih satu orang yang lain.
 jpn_Hira	ind	自己紹介をお願いします。お仕事は何をされていますか?	Tolong perkenalkan diri Anda. Boleh saya tahu apa profesi Anda?
-jpn_Hira	ind	この自転車、誰の？	Sepeda ini milik siapa?
-jpn_Hira	ind	その船は、水平線のかなたに消えた。	Kapal itu menghilang di ujung cakrawala.
-jpn_Hira	ind	その船の船主は誰ですか。	Siapa pemilik kapal itu?
-jpn_Hira	ind	その色いいね。	Warna itu bagus.
 jpn_Hira	ind	花火が見える！	Kembang apinya terlihat!
-jpn_Hira	ind	この花瓶は割れやすい。	Vas ini mudah pecah.
-jpn_Hira	ind	バイクは若者が乗ると危険なことがある。	Bisa berbahaya kalau orang yang masih muda mengendarai sepeda motor.
 jpn_Hira	ind	若者のグループがその老人を襲った。	Sekelompok pemuda menyerang orang tua itu.
-jpn_Hira	ind	あなたは英語の宿題をもう終えましたか。	Apakah anda sudah menyelesaikan pekerjaan rumah bahasa Inggris?
-jpn_Hira	ind	アレッシアは英語を話せない。	Alessia tidak bisa berbahasa Inggris.
-jpn_Hira	ind	お茶をもらえますか。	Boleh saya minta teh?
 jpn_Hira	ind	葵さんはダンスをします。	Aoi menari.
-jpn_Hira	ind	いつかアメリカに行きたい。	Aku ingin pergi ke Amerika suatu hari nanti.
-jpn_Hira	ind	あなたはどこに行くのですか？	Anda akan pergi ke mana?
-jpn_Hira	ind	どこへ行きたいのですか。	Anda ingin pergi ke mana?
-jpn_Hira	ind	あなたはフランスへ行ったことがありますか。	Apa kau pernah ke Prancis?
-jpn_Hira	ind	まだ行かないで。	Jangan pergi dulu.
-jpn_Hira	ind	どこへ行きたいのですか。	Kau ingin pergi ke mana?
-jpn_Hira	ind	どこへ行くの？	Kau mau pergi ke mana?
-jpn_Hira	ind	どこ行ってたの？	Ke mana kamu pergi?
-jpn_Hira	ind	あなたはどこに行くところでしたか。	Tadi kau mau pergi ke mana?
-jpn_Hira	ind	トムはボストンに行ったことがなかった。	Tom belum pernah pergi ke Boston.
-jpn_Hira	ind	この街へは何のようで来たのですか。	Anda datang ke kota ini untuk urusan apa?
-jpn_Hira	ind	トムは衝撃を受けたようだ。	Tom terlihat syok.
-jpn_Hira	ind	パスポートを見せてくれませんか？	Dapatkah saya melihat paspor anda?
-jpn_Hira	ind	エイミーはどのように見えましたか。	Emi tampak seperti apa?
-jpn_Hira	ind	あなたはどこでナンシーを見かけましたか。	Kau melihat Nancy di mana?
 jpn_Hira	ind	見せてくれ。	Perlihatkan padaku.
 jpn_Hira	ind	見て本が燃えている。	Lihat! Buku itu terbakar.
 jpn_Hira	ind	見知らぬ人が建物の中へ入っていきました。	Orang yang tidak dikenal pergi memasuki gedung itu.
-jpn_Hira	ind	ジョンは親から独立したいと思っている。	John berkeinginan untuk hidup mandiri.
 jpn_Hira	ind	親が親なら子も子。	Anak sama seperti orang tuanya.
-jpn_Hira	ind	ビルは親の誕生日にプレゼントを欠かしたことがない。	Bill tidak pernah salah/lupa mengirim hadiah ulang tahun pada ibunya.
-jpn_Hira	ind	なにか言うことがありますか。	Ada yang ingin kau katakan?
-jpn_Hira	ind	もはや言うことはない。	Sudah tidak ada yang ingin aku katakan.
-jpn_Hira	ind	すらすら言えるようになるまでこの文を暗記しなさい。	Hafalkan paragraf ini sampai kamu bisa mengatakannya dengan lancar.
-jpn_Hira	ind	そういうことは計画的というよりむしろ偶然に起こることがしばしばある。	Hal semacam itu lebih sering terjadi karena kecelakaan ketimbang direncanakan.
 jpn_Hira	ind	証拠はありません。	Tidak ada bukti.
-jpn_Hira	ind	トムに話してもいい？	Boleh aku bicara sama Tom?
 jpn_Hira	ind	話したい？	Kamu mau bicara?
-jpn_Hira	ind	ちょっと話がわからないんですが。	Saya tidak paham dengan perkataanmu.
-jpn_Hira	ind	あなたの話を信じるのはちょっと無理ですね。	Saya tidak dapat berpikir bahwa ceritamu benar.
-jpn_Hira	ind	マイクの誕生日にあなたは何をプレゼントしたの？	Apa yang kamu hadiahkan di hari ulang tahun Mike?
-jpn_Hira	ind	ジムはフランス語とドイツ語を使いこなせている。	Jim mahir dalam Bahasa Perancis dan Jerman.
-jpn_Hira	ind	これ誰の？	Ini punya siapa?
-jpn_Hira	ind	誰も来なかった。	Tidak ada yang datang.
-jpn_Hira	ind	誰もがその話に関心を示した。	Semua orang menunjukkan ketertarikan pada cerita itu.
 jpn_Hira	ind	誰がこの赤ちゃんを世話してくれるの。	Siapa yang bersedia merawat bayi ini?
-jpn_Hira	ind	トム、調子はいかがですか？	Apa kabar, Tom?
+jpn_Hira	ind	誰もがその話に関心を示した。	Semua orang menunjukkan ketertarikan pada cerita itu.
+jpn_Hira	ind	誰も来なかった。	Tidak ada yang datang.
 jpn_Hira	ind	調子はどうですか。	Bagaimana kabar Anda?
 jpn_Hira	ind	警察は私が車を移動するように求めた。	Polisi meminta saya untuk memindahkan mobil.
-jpn_Hira	ind	なくしていた財布を見つけた。	Aku menemukan dompetku yang hilang.
 jpn_Hira	ind	貧乏であることを恥じるな。	Jangan malu karena miskin.
 jpn_Hira	ind	貴方に必要だ。	Anda membutuhkannya.
 jpn_Hira	ind	貴方は、テニスの選手です。	Anda adalah seorang pemain tenis.
-jpn_Hira	ind	シュークリーム買ってきたけど食べる？	Aku tadi beli kue sus, kamu mau?
-jpn_Hira	ind	ナイフを貸して下さい。	Tolong pinjam pisaunya.
-jpn_Hira	ind	あなたがたの賃上げの要求は再び拒絶されました。	Permohonan kenaikan gaji kalian kembali ditolak.
 jpn_Hira	ind	賞は彼の手に。	Hadiahnya jatuh ke tangannya.
-jpn_Hira	ind	ノーベル賞を得ることが私の夢です。	Mendapatkan Penghargaan Nobel adalah impian saya.
-jpn_Hira	ind	あなたはこの質問に答える必要はない。	Anda tidak perlu menjawab pertanyaan ini.
 jpn_Hira	ind	走り続けると明かりが見えてきた。	Cahaya itu akan terlihat jika aku terus berlari.
-jpn_Hira	ind	トムはもう起きました？	Apakah Tom sudah bangun?
-jpn_Hira	ind	起きろ！	Bangun!
 jpn_Hira	ind	起きる時間だ。	Sudah waktunya bangun.
-jpn_Hira	ind	ビルはボブより足が速い。	Lari Bill lebih cepat daripada lari Bob.
-jpn_Hira	ind	いつかオートクチュールに身を包むんだという彼女の夢が意外な形で実現した。	Suatu hari, secara tidak terduga mimpinya mengenakan setelan haute couture menjadi kenyataan.
-jpn_Hira	ind	この身振りは若い人たちにはよく知られている。	Isyarat ini sangat dikenal di kalangan muda.
-jpn_Hira	ind	この車は乱暴な使い方をされてきたに違いない。	Mobil ini pasti telah digunakan dengan cara yang kasar.
+jpn_Hira	ind	起きろ！	Bangun!
 jpn_Hira	ind	車を利用すれば時間をかなり節約できますよ。	Kau bisa menghemat banyak waktu jika menggunakan mobil.
-jpn_Hira	ind	これはドイツから輸入した車です。	Ini adalah mobil yang diimpor dari Jerman.
-jpn_Hira	ind	この辺でスーパーってどこにありますか？	Di sekitar sini supermarket ada di mana?
-jpn_Hira	ind	ようやく辿りついたスキー場・・・雪が雨に変わっていた。	Akhirnya kita sampai juga di bukit ski ini... Saljunya berubah menjadi hujan.
 jpn_Hira	ind	退屈しちゃったよ。	Aku bosan.
 jpn_Hira	ind	逃げるな。	Jangan melarikan diri.
 jpn_Hira	ind	透明人間が見えますか？	Kamu bisa lihat manusia transparan?
-jpn_Hira	ind	すみません、通ります。	Permisi, saya lewat.
-jpn_Hira	ind	トムは遊びに行きたくない。	Tom tidak ikut main.
 jpn_Hira	ind	過ぎ去ったことを嘆いてもしょうがない。	Tidak ada gunanya menyesali apa yang telah berlalu.
-jpn_Hira	ind	この道はあまり車が通らないんだ。	Jalan ini jarang dilalui kendaraan.
-jpn_Hira	ind	この道はとてもせまいので車は通れません。	Jalannya terlalu sempit, sehingga mobil tidak bisa melaluinya.
-jpn_Hira	ind	わからないときは遠慮なくご質問ください。	Ketika tidak mengerti, jangan ragu untuk bertanya.
 jpn_Hira	ind	遺体はどのように処理されたのですか。	Bagaimana mayat itu dibuang?
 jpn_Hira	ind	野球は好きじゃないの？	Apakah kamu tidak menyukai softball?
-jpn_Hira	ind	あなたはどのくらいのお金が必要なのですか。	Berapa banyak uang yang kamu butuhkan?
-jpn_Hira	ind	メアリーはお金を盗んだことを否定した。	Mary menolak bahwa dia mencuri uangnya.
-jpn_Hira	ind	「どうしたの？」「鍵がない」「何の鍵？」「自転車の鍵」	"Kenapa?" "Kunciku nggak ada." "Kunci apa?" "Kunci sepeda motor."
 jpn_Hira	ind	長い一週間だったな。	Minggu yang panjang ya.
-jpn_Hira	ind	だれでも間違いを犯すことがある。	Setiap orang bisa berbuat salah.
 jpn_Hira	ind	陸地は地表の小さいほうの部分を占めている。	Daratan melingkupi sebagian kecil permukaan Bumi.
 jpn_Hira	ind	集合時間まであと1時間もあるんだね。どこで時間つぶそうか？	Masih 1 jam lagi sebelum waktu berkumpul. Sambil menunggu, kita mau pergi ke mana?
-jpn_Hira	ind	しばらく雑誌を読んでいたら彼女がきた。	Dia datang setelah aku membaca majalah selama beberapa saat.
-jpn_Hira	ind	テストってどのくらい難しかったの？	Seberapa susahnya ujian itu?
 jpn_Hira	ind	雨が窓に打ち付けている。	Air hujan menghujani jendela.
-jpn_Hira	ind	ほらね、雨が降っているよ。	Kau lihat, hujan sedang turun.
+jpn_Hira	ind	雪が降っています。	Salju.
 jpn_Hira	ind	雪は１日中降り続いた。	Saljunya terus turun hingga satu hari penuh.
 jpn_Hira	ind	雪は消えた。	Saljunya menghilang.
-jpn_Hira	ind	雪が降っています。	Salju.
 jpn_Hira	ind	電話では、ありがとうございました。	Terima kasih sudah menelepon.
 jpn_Hira	ind	電話に出てちょうだい。	Tolong angkat teleponnya.
-jpn_Hira	ind	電車は時間どおりに着いた。	Keretanya tiba tepat waktu.
 jpn_Hira	ind	電車だと、横浜へは何時頃に着きますか?	Pada jam berapa kereta akan sampai di Yokohama?
-jpn_Hira	ind	ラジオの音を下げてくれませんか。	Bisakah kau kecilkan volume radionya?
-jpn_Hira	ind	あの音は何だったんだろう？	Suara apa itu?
-jpn_Hira	ind	ラジオの音を小さくしていただけませんか。	Bisakah kau kecilkan volume radionya?
-jpn_Hira	ind	もっと頑張って日本語勉強しなさい。	Kamu harus belajar bahasa Jepang lebih giat.
-jpn_Hira	ind	頼りにしてます。	Aku mengandalkanmu.
+jpn_Hira	ind	電車は時間どおりに着いた。	Keretanya tiba tepat waktu.
 jpn_Hira	ind	頼むからもう泣かないでくれ。	Tolong, jangan menangis lagi.
-jpn_Hira	ind	トムは顔が広い。	Tom memiliki banyak kenalan.
+jpn_Hira	ind	頼りにしてます。	Aku mengandalkanmu.
 jpn_Hira	ind	顔色悪いけど大丈夫？ 病院行った方がいいんじゃない？	Mukamu pucat, kamu gak apa-apa? Ke rumah sakit aja sekarang.
 jpn_Hira	ind	風邪治ってよかったね。	Syukur ya flumu sudah sembuh.
-jpn_Hira	ind	飛行機に乗ったのはそれが始めてでした。	Ini adalah pertama kali saya naik pesawat.
-jpn_Hira	ind	飛行機の姿は見えなくなった。	Pesawat itu sudah tak tampak.
-jpn_Hira	ind	飛行機は定刻にニューヨークについた。	Pesawatnya tiba di New York tepat pada waktunya.
-jpn_Hira	ind	飛行機の席は予約しましたか。	Sudah pesan tempat di pesawat?
-jpn_Hira	ind	飛行機で旅行した事がありますか。	Pernah bepergian naik pesawat?
-jpn_Hira	ind	飛行機の時間が遅れてるらしい。	Sepertinya pesawat terlambat.
-jpn_Hira	ind	飛行機のおかげで、私たちは２、３日で世界一周ができる。	Berkat pesawat, kita dapat mengelilingi dunia dalam 2, 3 hari.
-jpn_Hira	ind	飛行機で行くとどれくらいかかりますか。	Bepergian naik pesawat berapa ongkosnya?
 jpn_Hira	ind	飛び越えろ！	Lompat!
+jpn_Hira	ind	飛行機で旅行した事がありますか。	Pernah bepergian naik pesawat?
+jpn_Hira	ind	飛行機で行くとどれくらいかかりますか。	Bepergian naik pesawat berapa ongkosnya?
+jpn_Hira	ind	飛行機に乗ったのはそれが始めてでした。	Ini adalah pertama kali saya naik pesawat.
+jpn_Hira	ind	飛行機のおかげで、私たちは２、３日で世界一周ができる。	Berkat pesawat, kita dapat mengelilingi dunia dalam 2, 3 hari.
+jpn_Hira	ind	飛行機の姿は見えなくなった。	Pesawat itu sudah tak tampak.
+jpn_Hira	ind	飛行機の席は予約しましたか。	Sudah pesan tempat di pesawat?
+jpn_Hira	ind	飛行機の時間が遅れてるらしい。	Sepertinya pesawat terlambat.
+jpn_Hira	ind	飛行機は定刻にニューヨークについた。	Pesawatnya tiba di New York tepat pada waktunya.
 jpn_Hira	ind	食べた	Aku sudah makan.
-jpn_Hira	ind	あのレストランはひどいものを食わせる。	Restoran itu menyajikan makanan tidak enak.
-jpn_Hira	ind	これ食べてもいいですか？	Saya bisa makan yang ini?
-jpn_Hira	ind	トムはもっと食べるべきだと思う。	Aku rasa Tom harus makan lebih banyak.
 jpn_Hira	ind	食料はまだいくらでもある。	Persediaan makanan masih banyak.
-jpn_Hira	ind	その食べ物はおいしいでしょう。	Makanan itu enak sekali.
-jpn_Hira	ind	そんなに食べたらお腹壊すよ。	Kalau kamu makan sebanyak itu, kamu akan sakit perut.
-jpn_Hira	ind	お飲み物はどういたすか。	Anda mau minum apa?
-jpn_Hira	ind	トムさんはアラビアの馬を育ている。	Tom merawat dan membesarkan kuda Arabia.
 jpn_Hira	ind	駅はどこですか。	Stasiunnya di mana?
 jpn_Hira	ind	駅まで一緒に行かない？	Mau pergi bareng sampai ke stasiun?
 jpn_Hira	ind	「駅前に新しい喫茶店ができたんだけど一緒に行ってみない？」「行く！ いつが都合いい？」	"Di depan stasiun ada cafe baru, mau coba pergi ke sana?" "Ayo! Enaknya kapan?"
 jpn_Hira	ind	高すぎる！	Terlalu mahal!
-jpn_Hira	ind	この魚はなに色ですか?	Ikan ini warnanya apa?
-jpn_Hira	ind	キリンってなんて鳴くんだろう？	Suaranya jerapah itu gimana sih?
-jpn_Hira	ind	この黒い箱に砂糖がたくさんある。	Ada banyak gula di dalam kotak hitam ini.
 jpn_Hira	zlm_Arab	学校が終わってから何してる？	لڤس سكوله بوات اڤ؟
 jpn_Hira	zlm_Arab	犬は病気のようだ。	انجيڠ ايت ماچم ساکيت.
-jpn_Hira	zlm_Latn	学校が終わってから何してる？	Lepas sekolah buat apa?
-jpn_Hira	zlm_Latn	もう数学なんてご免だよ。	Kamek sudah bosan ngan matematik.
-jpn_Hira	zlm_Latn	犬は病気のようだ。	Anjing tu macam sakit.
 jpn_Hira	zlm_Latn	ちょっと、おかしな話聞きたくない？	Nak dengar sesuatu yang lucu?
+jpn_Hira	zlm_Latn	もう数学なんてご免だよ。	Kamek sudah bosan ngan matematik.
+jpn_Hira	zlm_Latn	学校が終わってから何してる？	Lepas sekolah buat apa?
+jpn_Hira	zlm_Latn	犬は病気のようだ。	Anjing tu macam sakit.
+jpn_Hira	zsm_Arab	あいつ、英語勉強してるよ。	دي سدڠ بلاجر بهاس ايڠڬريس.
 jpn_Hira	zsm_Arab	あの会議には参加しない方がいいと思うのですが。	ساي راس لبيه باڬوس جيكالاو ساي تيدق مڠهاديري مشوارت ايت.
-jpn_Hira	zsm_Arab	学校が終わってから何してる？	اڤ يڠ كامو لاكوكن سلڤس هابيس سكوله؟
 jpn_Hira	zsm_Arab	これは本物のダイヤモンドですか？	اداكه اين برليان اصلي؟
+jpn_Hira	zsm_Arab	学校が終わってから何してる？	اڤ يڠ كامو لاكوكن سلڤس هابيس سكوله؟
 jpn_Hira	zsm_Arab	犬は病気のようだ。	انجيڠ ايت کليهتن ساکيت.
 jpn_Hira	zsm_Arab	犬は病気のようだ。	انجيڠ ايت نمڤق سڤرتي ساکيت.
-jpn_Hira	zsm_Arab	あいつ、英語勉強してるよ。	دي سدڠ بلاجر بهاس ايڠڬريس.
-jpn_Hira	zsm_Latn	やめなさい。	Hentikan.
-jpn_Hira	zsm_Latn	それって、もうここにあるの？	Masihkah berada di sini?
-jpn_Hira	zsm_Latn	おやすみ。	Selamat malam.
-jpn_Hira	zsm_Latn	今夜７時に、電話するよ。	Saya akan memanggil anda pada pukul 7 petang.
-jpn_Hira	zsm_Latn	あの会議には参加しない方がいいと思うのですが。	Saya rasa lebih bagus jikalau saya tidak menghadiri mesyuarat itu.
+jpn_Hira	zsm_Latn	あいつは自分の過ちを悔やんでるんだ。	Dia menyesali kesalahannya.
+jpn_Hira	zsm_Latn	あいつ、英語勉強してるよ。	Dia sedang belajar Bahasa Inggeris.
+jpn_Hira	zsm_Latn	あした父が帰る。	Ayah akan pulang besok
 jpn_Hira	zsm_Latn	あなたのお兄さんは車を運転できますか。	Adakah abang awak boleh memandu kereta?
+jpn_Hira	zsm_Latn	あの会議には参加しない方がいいと思うのですが。	Saya rasa lebih bagus jikalau saya tidak menghadiri mesyuarat itu.
+jpn_Hira	zsm_Latn	アメリカの首都はどこですか。	Apakah nama ibu negara Amerika?
+jpn_Hira	zsm_Latn	おやすみ。	Selamat malam.
+jpn_Hira	zsm_Latn	この店ではちゃんとした身なりをしなさい。	Anda dijangka untuk berpakaian dengan baik untuk kedai ini.
+jpn_Hira	zsm_Latn	これは本物のダイヤモンドですか？	Adakah ini berlian asli?
+jpn_Hira	zsm_Latn	スケートは趣味の一つだ。	Skateboard ialah hobi nombor satu saya.
+jpn_Hira	zsm_Latn	その文章、ピーターがカダザン語に訳したんだ。	Peter menerjemahkan ayat itu ke dalam bahasa Kadazan.
+jpn_Hira	zsm_Latn	それって、もうここにあるの？	Masihkah berada di sini?
 jpn_Hira	zsm_Latn	とても助かります。	Itu sangat pertolongan.
+jpn_Hira	zsm_Latn	トムが君に言ったか？	Tom memberitahu awakkah?
+jpn_Hira	zsm_Latn	トムが新車を買ったんだ。	Tom membeli kereta baru.
+jpn_Hira	zsm_Latn	トムはたくさんは食べないよ。	Tom tidak makan banyak.
+jpn_Hira	zsm_Latn	トムは晩ご飯何食べたい？	Tom, apa yang awak mahu untuk makan malam?
+jpn_Hira	zsm_Latn	パスポートをお持ちですか。	Adakah anda mempunyai pasport?
+jpn_Hira	zsm_Latn	もう数学なんてご免だよ。	Saya sudah bosan dengan matematik.
+jpn_Hira	zsm_Latn	もう、私のバカ！	Betapa bodohnya saya!
+jpn_Hira	zsm_Latn	やめなさい。	Hentikan.
+jpn_Hira	zsm_Latn	今夜７時に、電話するよ。	Saya akan memanggil anda pada pukul 7 petang.
 jpn_Hira	zsm_Latn	動いている車のドアを決してあけるな。	Jangan sekali-kali membuka pintu kereta yang sedang bergerak.
 jpn_Hira	zsm_Latn	向こうについたら忘れずすぐ電話してね。	Bila bila sahaja sampai, panggilkan saya.
 jpn_Hira	zsm_Latn	君も行くか。	Awak mahu pergi?
-jpn_Hira	zsm_Latn	トムが君に言ったか？	Tom memberitahu awakkah?
 jpn_Hira	zsm_Latn	天におられるわたしたちの父よ、 み名が聖とされますように。 み国が来ますように。 みこころが天に行われるとおり 地にも行われますように。 わたしたちの日ごとの糧を 今日もお与えください。 わたしたちの罪をおゆるしください。 わたしたちも人をゆるします。 わたしたちを誘惑におちいらせず、 悪からお救いください。 国と力と栄光は、永遠にあなたのものです。 [アーメン]	Bapa kami yang ada di syurga, dikuduskanlah nama-Mu. Datanglah kerajaan-Mu, Jadilah kehendak-Mu, di atas bumi seperti di dalam syurga. Berikanlah kami rezeki pada hari ini, dan ampunilah kesalahan kami seperti kami pun mengampuni orang yang bersalah kepada kami. dan janganlah masukkan kami ke dalam percubaan, tetapi bebaskanlah kami dari yang jahat. Kerana Engkaulah yang memiliki kerajaan, dan kuasa dan kemuliaan sampai selama-lamanya. Amin.
-jpn_Hira	zsm_Latn	学校にはどうやって来ているのですか。	Macam mana datang ke sekolah?
 jpn_Hira	zsm_Latn	学校が終わってから何してる？	Apa yang kamu lakukan selepas habis sekolah?
-jpn_Hira	zsm_Latn	この店ではちゃんとした身なりをしなさい。	Anda dijangka untuk berpakaian dengan baik untuk kedai ini.
+jpn_Hira	zsm_Latn	学校にはどうやって来ているのですか。	Macam mana datang ke sekolah?
+jpn_Hira	zsm_Latn	彼が言っていることは、この問題と何の関係もない。	Apa yang dia katakan tidak ada kaitan dengan masalah ini.
+jpn_Hira	zsm_Latn	彼には少しもやましい点がない。	Tidak ada apa-apa yang menarik tentang lelaki itu.
+jpn_Hira	zsm_Latn	彼は８年ぶりに日本に帰った。	Beliau kembali ke Jepun buat pertama kali dalam tempoh lapan tahun.
+jpn_Hira	zsm_Latn	彼は８時に家を出た。	Dia keluar pada jam lapan.
+jpn_Hira	zsm_Latn	彼は８時前に帰ってきた。	Dia balik sebelum pukul lapan.
+jpn_Hira	zsm_Latn	彼は９０歳まで生きそうだ。	Nampaknya dia berumur 90 tahun.
+jpn_Hira	zsm_Latn	彼はあれを完成できません。	Dia tidak dapat menyelesaikannya.
+jpn_Hira	zsm_Latn	彼は川の向こう側に住んでいる。	Dia tinggal di seberang sungai.
+jpn_Hira	zsm_Latn	彼は川を泳いで渡った。	Dia direnangkan di seberang sungai.
+jpn_Hira	zsm_Latn	彼らは賄賂を使って証人の口を封じた。	Mereka memberi rasuah kepada saksi itu untuk mendiamkan mulutnya.
 jpn_Hira	zsm_Latn	彼女の声にうっとりとした。	Saya terpesona dengan suara perempuan itu
 jpn_Hira	zsm_Latn	彼女は目ざめた。	Dia telah bangun daripada ketiduran.
 jpn_Hira	zsm_Latn	「彼女は若いですか」「はい」	"Perempuan itu muda?". "Ya".
-jpn_Hira	zsm_Latn	彼はあれを完成できません。	Dia tidak dapat menyelesaikannya.
-jpn_Hira	zsm_Latn	彼には少しもやましい点がない。	Tidak ada apa-apa yang menarik tentang lelaki itu.
-jpn_Hira	zsm_Latn	彼は川の向こう側に住んでいる。	Dia tinggal di seberang sungai.
-jpn_Hira	zsm_Latn	彼は川を泳いで渡った。	Dia direnangkan di seberang sungai.
-jpn_Hira	zsm_Latn	彼は８年ぶりに日本に帰った。	Beliau kembali ke Jepun buat pertama kali dalam tempoh lapan tahun.
-jpn_Hira	zsm_Latn	彼は８時前に帰ってきた。	Dia balik sebelum pukul lapan.
-jpn_Hira	zsm_Latn	彼は８時に家を出た。	Dia keluar pada jam lapan.
-jpn_Hira	zsm_Latn	彼は９０歳まで生きそうだ。	Nampaknya dia berumur 90 tahun.
-jpn_Hira	zsm_Latn	彼が言っていることは、この問題と何の関係もない。	Apa yang dia katakan tidak ada kaitan dengan masalah ini.
-jpn_Hira	zsm_Latn	彼らは賄賂を使って証人の口を封じた。	Mereka memberi rasuah kepada saksi itu untuk mendiamkan mulutnya.
 jpn_Hira	zsm_Latn	忙しいです。	Saya sibuk.
-jpn_Hira	zsm_Latn	パスポートをお持ちですか。	Adakah anda mempunyai pasport?
-jpn_Hira	zsm_Latn	もう数学なんてご免だよ。	Saya sudah bosan dengan matematik.
-jpn_Hira	zsm_Latn	その文章、ピーターがカダザン語に訳したんだ。	Peter menerjemahkan ayat itu ke dalam bahasa Kadazan.
-jpn_Hira	zsm_Latn	トムが新車を買ったんだ。	Tom membeli kereta baru.
 jpn_Hira	zsm_Latn	昨日はとても寒かった、だから私たちは外にでないで家にいました。	Disebabkan semalam sangat sejuk, kami tidak keluar dari rumah dan hanya duduk di dalam rumah.
-jpn_Hira	zsm_Latn	トムは晩ご飯何食べたい？	Tom, apa yang awak mahu untuk makan malam?
-jpn_Hira	zsm_Latn	これは本物のダイヤモンドですか？	Adakah ini berlian asli?
-jpn_Hira	zsm_Latn	あした父が帰る。	Ayah akan pulang besok
 jpn_Hira	zsm_Latn	牛乳は私たちの体を丈夫にしてくれます。	Susu membuatkan kita kuat.
 jpn_Hira	zsm_Latn	犬は病気のようだ。	Anjing itu kelihatan sakit.
 jpn_Hira	zsm_Latn	犬は病気のようだ。	Anjing itu nampak seperti sakit.
-jpn_Hira	zsm_Latn	もう、私のバカ！	Betapa bodohnya saya!
-jpn_Hira	zsm_Latn	私は一日中全く何も食べなかった。	Saya tidak makan apa-apa sepanjang hari.
 jpn_Hira	zsm_Latn	私ならもっと楽しませてあげれるよ。	Saya dapat menunjukkan masa yang lebih baik kepada awak.
 jpn_Hira	zsm_Latn	私の見方ではもう少し待つほうがよさそうだ。	Dari pandangan saya, ia akan menjadi lebih baik untuk menunggu lebih lama.
-jpn_Hira	zsm_Latn	私の言う意味が分かりますか。	Awak faham tak apa maksud saya?
 jpn_Hira	zsm_Latn	私の言うことを聞いてくださいね。	Dengar sini, boleh tak!
-jpn_Hira	zsm_Latn	私はフランス語が上手になりたいです。	Saya mahu fasih berbahasa Perancis.
+jpn_Hira	zsm_Latn	私の言う意味が分かりますか。	Awak faham tak apa maksud saya?
 jpn_Hira	zsm_Latn	私はお金が無くなってしまった。	Wang saya habis.
+jpn_Hira	zsm_Latn	私はフランス語が上手になりたいです。	Saya mahu fasih berbahasa Perancis.
+jpn_Hira	zsm_Latn	私は一日中全く何も食べなかった。	Saya tidak makan apa-apa sepanjang hari.
 jpn_Hira	zsm_Latn	立派な仕事をしたと彼を誉めた。	Saya memuji dia atas kerjanya yang bagus.
 jpn_Hira	zsm_Latn	自分が興味を引かれるような本を読みなさい。	Bacalah mana-mana buku yang menarik bagi anda.
-jpn_Hira	zsm_Latn	あいつは自分の過ちを悔やんでるんだ。	Dia menyesali kesalahannya.
-jpn_Hira	zsm_Latn	あいつ、英語勉強してるよ。	Dia sedang belajar Bahasa Inggeris.
-jpn_Hira	zsm_Latn	スケートは趣味の一つだ。	Skateboard ialah hobi nombor satu saya.
 jpn_Hira	zsm_Latn	金曜までに第４章を読んでおきなさい。	Baca Bab 4 pada hari Jumaat.
 jpn_Hira	zsm_Latn	雨が降っている。	Hujan sedang turun.
 jpn_Hira	zsm_Latn	靴はピカピカに磨いてくれよ。	Kilaukan kasutku.
-jpn_Hira	zsm_Latn	トムはたくさんは食べないよ。	Tom tidak makan banyak.
-jpn_Hira	zsm_Latn	アメリカの首都はどこですか。	Apakah nama ibu negara Amerika?
+jpn	ind	1つのボタンから他のボタンに距離があって押す間違えが発生する可能性はあるか？	Apakah terdapat kemungkinan timbulnya salah pencet karena jarak salah satu tombol dengan tombol lainnya?
+jpn	ind	２時１５分です。	Jam dua lebih lima belas menit.
+jpn	ind	３の２乗は９です。	Tiga pangkat dua sama dengan sembilan.
+jpn	ind	あのお人形が欲しい！	Aku mau boneka itu!
+jpn	ind	いつも言ってるでしょ。	Aku kan selalu bilang itu.
+jpn	ind	いる？	Ada?
+jpn	ind	エジプト人はヒエログリフを読むことができますか。	Apakah orang Mesir bisa membaca hieroglif?
+jpn	ind	え、たこ焼きをおかずにするの？	hah, lauknya pakai Takoyaki?
+jpn	ind	お前、あれから変わったな。	Kau, sejak saat itu sudah berubah, ya.
+jpn	ind	ここに住みたいです。	Aku ingin tinggal disini.
+jpn	ind	ここはとてもにぎやかな所です。	Di sini adalah tempat yang sangat ramai.
+jpn	ind	このマークはどういう意味なの？	Apa artinya tanda ini?
+jpn	ind	この冬は例年になく雪が多かった。	Musim dingin kali ini lebih banyak salju, tidak seperti biasaya.
+jpn	ind	この歌手は、きれいな声をしています。	Penyanyi ini suaranya indah.
+jpn	ind	この薬のおかげで私の風邪は治った。	Berkat obat ini pilek saya sembuh.
+jpn	ind	この言語が大好きだ。	Aku sangat suka bahasa ini.
+jpn	ind	この辞書はあまりよくないです。	Kamus ini tidak begitu bagus.
+jpn	ind	これはおもちゃじゃない！	Ini bukan mainan!
+jpn	ind	これはペンです。	Ini pena.
+jpn	ind	これは星についての本です。	Ini adalah buku tentang bintang.
+jpn	ind	スイッチに機能情報のラベルはあるか？	Apakah terdapat label informasi fungsi pada sakelar?
+jpn	ind	その光景を決して忘れることは無いでしょう。	Aku tidak akan pernah melupakan pemandangan itu.
+jpn	ind	それ、考えるとちょっと怖いよな。	Itu, kalau dipikir-pikir cukup menakutkan.
+jpn	ind	そろそろ落ち着くと思ってたのにまだ続いてる。	Saya pikir dia sudah akan tenang, tetapi malah terus berlanjut.
+jpn	ind	ちゃんと分かった？	Benar-benar mengerti?
+jpn	ind	トーマスはフランスに住んでいるが、仕事はベルギーで行っている。	Thomas tinggal di Prancis, tapi kerja di Belgia.
+jpn	ind	どうして弁護士になりたいの？	Mengapa kamu ingin menjadi pengacara?
+jpn	ind	トムは猫があまり好きじゃないんです。	Tom tidak terlalu suka kucing.
+jpn	ind	トム、留年したらしいよ。	Sepertinya Tom tinggal kelas.
+jpn	ind	「パソコンでゲームをしてもいい？」「宿題が終わったんだったらいいよ」	"Boleh tidak aku main gim di komputer?" "Kalau PR-mu sudah selesai tidak apa-apa."
+jpn	ind	フットスイッチを使用設備はあるか？	Apakah terdapat mesin yang menggunakan sakelar kaki?
+jpn	ind	フランス人シェフと日本人シェフは全然違う。	Koki Perancis dan Koki Jepang sama sekali berbeda.
+jpn	ind	ミニスカートは時代遅れよ。	Rok mini sudah ketinggalan zaman.
+jpn	ind	みんな知ってると思うよ。	Aku rasa semua orang tahu.
+jpn	ind	もうおしっこ済んだ？	Sudah selesai pipisnya?
+jpn	ind	ワインはお嫌いですか？	Apakah Anda tidak suka anggur?
+jpn	ind	ワインはお嫌いですか？	Apakah Anda tidak suka Wine?
+jpn	ind	今の話、誰にも言わないって約束して。お願い。	Cerita barusan tadi, janji jangan bilang siapa-siapa ya. Tolong.
+jpn	ind	僕は、トムの友達だよ。	Aku teman Tom.
+jpn	ind	「分かった？」「ううん。分かんない」	"Mengerti?" "Tidak, tidak mengerti."
+jpn	ind	動いている部分にプロテクターはあるか？	Apakah terdapat pelindung pada bagian yang bergerak?
+jpn	ind	印象が強いから記憶に残ってるだけ。	Karena kesannya yang mendalam, cukup untuk membekas dalam ingatan.
+jpn	ind	卵は毎朝一つ食べます。	Setiap pagi saya makan satu butir telur.
+jpn	ind	回っている部分にプロテクターはあるか？	Apakah terdapat pelindung pada bagian yang berputar?
+jpn	ind	外は暑いです。	Di luar panas.
+jpn	ind	子供は物覚えがいい。	Anak-anak memiliki kemampuan belajar yang baik.
+jpn	ind	安全柵はあるか？	Apakah terdapat pagar pengaman?
+jpn	ind	安全用パーテーションに体・手・指が入れるか？	Apakah badan/tangan/jari bisa masuk ke partisi pengaman?
+jpn	ind	家に帰りたいのは分かるけど。	Aku mengerti kamu ingin pulang ke rumah.
+jpn	ind	彼は借金で首が回らなくなり、家を手放さざるを得なかった。	Dia terlilit hutang, dan harus berpisah dengan rumahnya.
+jpn	ind	彼らは日給制です。	Mereka adalah penerima upah harian.
+jpn	ind	押すボタンがロックされ、設備は動かせない。	Mesin tidak dapat digerakkan dengan mengunci tombol tekan.
+jpn	ind	押すボタンが作業者の押しやすい位置に設置される。	Tombol tekan dipasang di posisi yang mudah ditekan oleh operator.
+jpn	ind	押すボタンは、赤色でキノコのような形をしています。	Tombol tekan berwarna merah dan berbentuk jamur.
+jpn	ind	操作スイッチと緊急スイッチの距離が48㎜以上になっているか？	Apakah jarak antara sakelar operasi dan sakelar darurat lebih dari 48mm?
+jpn	ind	操作ボタンにランプは付いているか？	Apakah terpasang lampu pada tombol pengoperasian?
+jpn	ind	新聞に広告を出したらどうでしょう？	Bagaimana jika kita terbitkan iklan di koran?
+jpn	ind	本当かどうかは分かんないけど、そう言ってる人も多いよ。	Aku tidak tahu itu benar atau tidak, tapi banyak orang yang bilang begitu.
+jpn	ind	機械を操作する時、作業者は片手で操作できますか？	Apakah operator bisa mengoperasikan mesin dengan sebelah tangan?
+jpn	ind	犬を２匹、猫を３匹、ニワトリを６羽飼ってるよ。	Aku memelihara anjing dua ekor, kucing tiga ekor, dan ayam enam ekor.
+jpn	ind	画面がでかすぎると見てて疲れる。	Ku capek melihatnya kalau layarnya terlalu gede.
 jpn	ind	痛!	Sakit!
+jpn	ind	私はあの人のことを覚えていませんでした。	Saya tidak ingat orang itu.
+jpn	ind	私は数学を勉強したい。	Saya ingin belajar matematika.
+jpn	ind	約束は守らなきゃ。	Janji itu harus ditepati.
+jpn	ind	緊急ボタンを押すと、機械が停止し、モニターにエラーが表示される。	Ketika menekan tombol darurat, mesin berhenti sementara, tampilan eror keluar di monitor.
+jpn	ind	英会話を学んでいるが、なかなか使う機会がない。	Sudah belajar percakapan bahasa Inggris tapi kesempatan pakainya ngga ketemu-ketemu.
+jpn	ind	誤操作により、機械が作動してしまう可能性はありませんか？誤操作用プロテクターは取り付けてありますか？	Apakah tidak ada kemungkinan mesin bergerak karena salah sentuh? Apakah ada pelindungnya?
+jpn	ind	読み終わるまで、あと20ページ。	masih tersisa 20 halaman lagi hingga selesai membaca.
 jpn	ind	誰？	Siapa?
-jpn_Kana	ind	もうヘトヘトです。	Aku sudah capek sekali.
-jpn_Kana	ind	ラジャー！	Dimengerti!
-jpn_Kana	ind	ホンミョンボはすばらしいプレイヤーです。	Hong Myong Bo adalah pemain yang hebat.
-jpn_Kana	ind	ニャー。	Meong.
-jpn_Kana	ind	パスワードは「Muiriel」です。	passwordnya adalah "Muiriel".
-jpn_Kana	ind	ナンシーはテニスをしません。	Nancy tidak bermain tenis.
-jpn_Kana	ind	バッチリ！	Sempurna!
-jpn_Kana	ind	「トム！」「メアリー！」	"Tom!" "Mary!"
-jpn_Kana	ind	ゲッテル・ヤーニと一緒に死にたい。	Aku mau mati bersama Getter Jaani.
-jpn_Kana	ind	トムはテーブルの下に隠れた。	Tom bersembunyi di bawah meja.
+jpn	ind	質問があったら、遠慮しないで先生に聞きなさい。	Jika ada pertanyaan, janganlah ragu untuk bertanya pada gurumu.
+jpn	ind	金髪の女の子なんだ。	Dia wanita berambut pirang.
+jpn	ind	電車内部における騒音と振動を予測する。	Memprediksi kebisingan dan getaran yang terjadi di bagian dalam kereta.
+jpn	ind	頭がいいね。	Kamu pintar, ya!
+jpn_Kana	ind	アレックスに聞けよ。	Tanya Alex.
 jpn_Kana	ind	イタリア人はよくコーヒーを飲む。	Orang Italia sering minum kopi.
-jpn_Kana	ind	僕は一度テレビに出た。	saya muncul sekali di telivisi
-jpn_Kana	ind	やあ、マイク、元気？	Apa kabar, Mike?
-jpn_Kana	ind	出身はオーストラリアです。	Tempat asal saya Australia.
-jpn_Kana	ind	台湾のナイトマーケットは、賑やかなものだ。	Pasar malam Taiwan adalah sesuatu yang ramai.
-jpn_Kana	ind	トム、大丈夫？	Tom, kamu gak apa-apa?
-jpn_Kana	ind	チャンピオンは大観衆の歓迎を受けた。	Pemenangnya mendapat sambutan dari para penonton.
-jpn_Kana	ind	ライター持ってる？	Punya korek?
-jpn_Kana	ind	昨日、ジャイアンツぼろ負け！！	Giants kemarin kalah telak!!
-jpn_Kana	ind	スーザンは１時間前に出た。	Susan pergi sejam yang lalu.
+jpn_Kana	ind	ゲッテル・ヤーニと一緒に死にたい。	Aku mau mati bersama Getter Jaani.
 jpn_Kana	ind	シンガポールから来ました。	Saya datang dari Singapura.
-jpn_Kana	ind	洋子はコンピューターを買えない。	Yoko tidak mampu membeli komputer.
-jpn_Kana	ind	フランス産のワインは好きですか。	Apa kau suka minuman anggur buatan Prancis?
+jpn_Kana	ind	スーザンは１時間前に出た。	Susan pergi sejam yang lalu.
+jpn_Kana	ind	チャンピオンは大観衆の歓迎を受けた。	Pemenangnya mendapat sambutan dari para penonton.
+jpn_Kana	ind	トーマス・エジソンは電球を発明した。	Thomas Edison menciptakan bola lampu.
+jpn_Kana	ind	トムはテーブルの下に隠れた。	Tom bersembunyi di bawah meja.
 jpn_Kana	ind	トムはハンサムな男だ。	Tom laki-laki yang tampan.
 jpn_Kana	ind	トムは男前だ。	Tom laki-laki yang tampan.
-jpn_Kana	ind	私はブラジルの出身です。	Saya datang dari Brasil.
-jpn_Kana	ind	私の趣味はゴルフだ。	Hobiku golf.
-jpn_Kana	ind	私たちはジョンをキャプテンに選んだ。	Kami memilih John sebagai kapten.
-jpn_Kana	ind	アレックスに聞けよ。	Tanya Alex.
 jpn_Kana	ind	トムは自分のライフルを撃った。	Tom menembakkan senapannya.
-jpn_Kana	ind	トーマス・エジソンは電球を発明した。	Thomas Edison menciptakan bola lampu.
+jpn_Kana	ind	「トム！」「メアリー！」	"Tom!" "Mary!"
+jpn_Kana	ind	トム、大丈夫？	Tom, kamu gak apa-apa?
+jpn_Kana	ind	ナンシーはテニスをしません。	Nancy tidak bermain tenis.
+jpn_Kana	ind	ニャー。	Meong.
+jpn_Kana	ind	パスワードは「Muiriel」です。	passwordnya adalah "Muiriel".
+jpn_Kana	ind	バッチリ！	Sempurna!
+jpn_Kana	ind	フランス産のワインは好きですか。	Apa kau suka minuman anggur buatan Prancis?
+jpn_Kana	ind	ホンミョンボはすばらしいプレイヤーです。	Hong Myong Bo adalah pemain yang hebat.
+jpn_Kana	ind	もうヘトヘトです。	Aku sudah capek sekali.
+jpn_Kana	ind	やあ、マイク、元気？	Apa kabar, Mike?
+jpn_Kana	ind	ライター持ってる？	Punya korek?
+jpn_Kana	ind	ラジャー！	Dimengerti!
+jpn_Kana	ind	僕は一度テレビに出た。	saya muncul sekali di telivisi
+jpn_Kana	ind	出身はオーストラリアです。	Tempat asal saya Australia.
+jpn_Kana	ind	台湾のナイトマーケットは、賑やかなものだ。	Pasar malam Taiwan adalah sesuatu yang ramai.
+jpn_Kana	ind	昨日、ジャイアンツぼろ負け！！	Giants kemarin kalah telak!!
+jpn_Kana	ind	洋子はコンピューターを買えない。	Yoko tidak mampu membeli komputer.
+jpn_Kana	ind	私たちはジョンをキャプテンに選んだ。	Kami memilih John sebagai kapten.
+jpn_Kana	ind	私の趣味はゴルフだ。	Hobiku golf.
+jpn_Kana	ind	私はブラジルの出身です。	Saya datang dari Brasil.
 jpn_Kana	zsm_Latn	カエルはヘビが恐い。	Katak takutkan ular.
 jpn_Kana	zsm_Latn	私はイスラム教徒です。	Saya orang Islam.
 jpn_Latn	ind	Facebookやってる？	Punya Facebook?
 jpn_Latn	ind	UN は United Nations の略です。	UN adalah singkatan dari United Nations.
+jpn	mfa	お皿を洗うところです。	baghu basoh pingae
+jpn	mfa	お見舞いありがとう。	terimor kaseh maghi taengor sayor
+jpn	mfa	けんは、二匹猫を飼っている。	ken yor paeghor kucing duwor aekor
+jpn	mfa	ごめん。	maaf
+jpn	mfa	トム、ありがとう。	tom terimor kaseh
+jpn	mfa	今日もカレーよ。	haghi ini pong ghula
+jpn	mfa	今日もカレーよ。	haghi ini pong yadi ghula
+jpn	mfa	今日もカレーよ。	nasi haghi ini pong yadi ghula
+jpn	mfa	何もできないよ。	torleh wa gapor
+jpn	mfa	写真を二枚撮りました。	sayor ukor gama duwor keping dorh
+jpn	mfa	学校にいるよ。	do di korlorh
+jpn	mfa	待ってあげる。	nati wi
+jpn	mfa	待ってた方がいい？	baik nati dor?
+jpn	mfa	本当にありがとう！	terimor kaseh banyor
+jpn	mfa	本当にありがとう！	terimor kaseh banyor banyor
+jpn	mfa	本当に高い。	maha sungoh!
+jpn	mfa	本当に高い。	tingi sungoh!
+jpn	mfa	猫を一匹飼ってます。	sayor paeghor kucing saekor
+jpn	mfa	痛！	sake!
+jpn	mfa	私は自分で皿を洗います。	sayor basoh pingae dighi
+jpn	mfa	私もびっくりよ。	kitor pong gecu kor
+jpn	mfa	言いなさい！	kaecae lah!
+jpn	mfa	言ってみただけです。	sayor tera kaecae sajor
+jpn	mfa	話せない。	torleh kaecae
+jpn	mfa	道案内してくれる？	tulong bowork jalae wi buleh dor?
+jpn	zsm_Arab	あの女性がチラシをくれたのよ。	ڤرمڤوان ايت ممبريکن ساي رساله.
+jpn	zsm_Arab	おすすめのアニメって、何？	انيمي اڤ يڠ كامو سارنكن؟
+jpn	zsm_Arab	すぐにここを離れます。	کيت اکن برتولق سبنتر سهاج لاݢي.
+jpn	zsm_Latn	Ｂｉｎｇで検索させてよ。	Biar saya Googlekan menggunakan Bing.
+jpn	zsm_Latn	あなたに声をかけるの、かなり勇気が要ったんですよ。	Saya hampir takut nak bercakap dengan awak.
+jpn	zsm_Latn	あの女性がチラシをくれたのよ。	Perempuan itu memberikan saya risalah.
+jpn	zsm_Latn	いつも自転車で学校に行きます。	Saya selalu menunggang basikal ke sekolah.
+jpn	zsm_Latn	いつ帰ってきたの？	Bila awak dah balik?
+jpn	zsm_Latn	おすすめのアニメって、何？	Anime apa yang kamu sarankan?
+jpn	zsm_Latn	こういうふうに考えてよろしいでしょうか。	Betulkah saya berfikir demikian?
+jpn	zsm_Latn	こういう場合には経験が物を言う。	Alami ceramah dalam kes ini.
+jpn	zsm_Latn	これが私の犬よ。	Ini anjing saya.
+jpn	zsm_Latn	すぐにここを離れます。	Kita akan bertolak sebentar sahaja lagi.
+jpn	zsm_Latn	そうやって、人に嫌がらせばかりしてたら、罰が当たるよ。	Lagi sekali awak mengganggu sesiapapun, awak akan dihukum.
+jpn	zsm_Latn	そのお祭りは花火とかあるの？	Akankah ada bunga api dan sebagainya pada perayaan itu?
+jpn	zsm_Latn	その単語を辞書で調べなさい。	Cari perkataan dalam kamus.
+jpn	zsm_Latn	トムはベッドに座っている。	Tom sedang duduk di atas katilnya.
+jpn	zsm_Latn	トムはメアリーがそうすると予測した。	Tom meramalkan bahawa Mary akan melakukan itu.
+jpn	zsm_Latn	ミネラルウォーターありますか？	Adakah anda menjual air mineral?
+jpn	zsm_Latn	もし空気と水がなければ、私たちは生きていけないだろう。	Jika bukan kerana udara dan air, kita tidak boleh hidup.
+jpn	zsm_Latn	休みは終わった。	Cuti sudah tamat sekarang.
+jpn	zsm_Latn	何があろうと諦めるつもりはありません。	Saya tidak berhasrat untuk berhenti, tidak kira apa pun.
+jpn	zsm_Latn	何とかしてよ。	Buatlah sesuatu.
+jpn	zsm_Latn	君と仲良くなりたいんだ。	Saya nak berkawan dengan awak.
+jpn	zsm_Latn	大学は4月からだよ。	Universiti bermula pada bulan April.
+jpn	zsm_Latn	好きなんじゃないけど、安いからよく食べる。	Bukan saya sukakannya… tapi saya kerap memakannya kerana harganya murah.
+jpn	zsm_Latn	彼は借金で首が回らなくなり、家を手放さざるを得なかった。	Dia terlilit hutang, dan terpaksa berpisah dengan rumahnya.
+jpn	zsm_Latn	彼女を探しにここに来ました。	Saya datang ke sini mencari dia.
+jpn	zsm_Latn	思い立ったが吉日！	Esok takkan datang.
+jpn	zsm_Latn	我々の計画は具体化しつつある。	Rancangan kami sedang dibentuk.
+jpn	zsm_Latn	殺人犯はまだ捕まっていない。	Pembunuh itu belum ditangkap lagi.
+jpn	zsm_Latn	父は家を売りに出した。	Ayah saya membina rumah untuk dijual.
+jpn	zsm_Latn	疲れたけど寝れないわ。	Aku lelah tapi aku tak boleh tidur pun.
+jpn	zsm_Latn	私達は、書店に行ってきました。	Kami telah pergi ke kedai buku.
+jpn	zsm_Latn	駅で待ち合わせしようね。	Mari berjumpa di stesen.

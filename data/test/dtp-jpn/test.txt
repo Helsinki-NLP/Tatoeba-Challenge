@@ -1,3 +1,15 @@
+dtp	jpn	Aiso ii do suvab!	思い立ったが吉日！
+dtp	jpn	Aiso nunu nopo do taakanon ku di saasangaadau.	私は一日中全く何も食べなかった。
+dtp	jpn	Atagak zou naku?	何か見落としていますか？
+dtp	jpn	Au i Tom mangakan togumu.	トムはたくさんは食べないよ。
+dtp	jpn	Au' po' nagakom iho momomoduso'.	殺人犯はまだ捕まっていない。
+dtp	jpn	Au' zotokou kotomposizo' nung okon ko' do tongus om vaig.	もし空気と水がなければ、私たちは生きていけないだろう。
+dtp	jpn	Au zou kodimpoton do tingkadai, au monguo bo.	何があろうと諦めるつもりはありません。
+dtp	jpn	Au zou kotunud iti kokuama'on.	この仕事は僕の手に負えないよ。
+dtp	jpn	Ba, maan ku gia tuhungo kio.	ああ、いいよ。手伝うよ。
+dtp	jpn	Basao' no do boogizan kaapat di Tadau Kohimo.	金曜までに第４章を読んでおきなさい。
+dtp	jpn	Biio' no do patodboos id komiboos.	その単語を辞書で調べなさい。
+dtp	jpn	Doiti zou nokoikot do mogium dau.	彼女を探しにここに来ました。
 dtp	jpn_Hani	Alaat kotuutuhunan dosido.	彼女は人が悪い
 dtp	jpn_Hani	Au oku sumongkuro koilo magapon.	魚釣りは苦手だ。
 dtp	jpn_Hani	Kopiruba id minggu tobontol kio!	また来週！
@@ -178,12 +190,12 @@ dtp	jpn_Hira	Oi ina, manansawo zou i'.	お母さん、僕も結婚したいな�
 dtp	jpn_Hira	Okuro-kuro habar dikoyu?	あなたたち、元気にしてる？
 dtp	jpn_Hira	Okuro-kuro no pogindopuan nu?	商売はどうかね。
 dtp	jpn_Hira	Okuro-kuro no tadau dinondo?	明日天気はどうでしょうか。
-dtp	jpn_Hira	Olumis!	きれい！
 dtp	jpn_Hira	Olumis ko' tomod nopo sorohon ku.	きれいになったね。
 dtp	jpn_Hira	Olumis no lukisan dilo.	きれいな絵だ。
-dtp	jpn_Hira	Olundus!	きれい！
+dtp	jpn_Hira	Olumis!	きれい！
 dtp	jpn_Hira	Olundus ilo tusak.	なんてきれいな花だ。
 dtp	jpn_Hira	Olundus no tobuk nu.	きれいな髪してるね。
+dtp	jpn_Hira	Olundus!	きれい！
 dtp	jpn_Hira	Onuai oku do karatas suat.	便箋をください。
 dtp	jpn_Hira	Onuai oku do kumut.	毛布をください。
 dtp	jpn_Hira	Onuai oku do sonlopot waig tokodou.	氷嚢をください。
@@ -247,5 +259,43 @@ dtp	jpn_Hira	Zosido mananangkus.	彼女は走者です。
 dtp	jpn_Hira	Zosido nopo nga i mongingia.	彼女は教師だ。
 dtp	jpn_Hira	Zosido nopo nga susumikul.	彼女は学生だ。
 dtp	jpn_Hira	Zosido tuhun avasi.	彼女は人がいい。
+dtp	jpn	Isai iumon nu?	誰をお探しですか？
+dtp	jpn	Iti no hamin do kadagangan i tinoodoon di tapa ku.	父は家を売りに出した。
+dtp	jpn	Kaanu zou popokito diau do timpu di hobi vinasi.	私ならもっと楽しませてあげれるよ。
+dtp	jpn	Kaino muli, tumuong nodii moti.	帰ろう、暗くなってきた。
+dtp	jpn	Kakaal po ii naku doiti?	それって、もうここにあるの？
 dtp	jpn_Kana	Mikot no isido!	あっ、来た来た。
 dtp	jpn_Kana	Oligkang i Tom.	トムはハンサムだ。
+dtp	jpn	Kanou kopisoomo id sitisin.	駅で待ち合わせしようね。
+dtp	jpn	Kidagang naku o vaig mineral nu?	ミネラルウォーターありますか？
+dtp	jpn	Mai ku gia popogoogle do gunoon do Bing kio.	Ｂｉｎｇで検索させてよ。
+dtp	jpn	Mai no tiiso!	何とかしてよ。
+dtp	jpn	Minomohi i Tom do kulita kavavagu.	トムが新車を買ったんだ。
+dtp	jpn	Minongoi yahai id kadai buuk.	私達は、書店に行ってきました。
+dtp	jpn	Mongomi o nangaangazan doid ahal diti.	こういう場合には経験が物を言う。
+dtp	jpn	Mononso isido do kinahasaan dau.	あいつは自分の過ちを悔やんでるんだ。
+dtp	jpn	Naahom isido do tutang om nokoponginsud no doid daamin dau'.	彼は借金で首が回らなくなり、家を手放さざるを得なかった。
+dtp	jpn	Naavi nodii o koundaangan.	休みは終わった。
+dtp	jpn	Nababasan zou do matematik.	もう数学なんてご免だよ。
+dtp	jpn	Nabasug zou kozo!	もう、私のバカ！
+dtp	jpn	Noikot inuzan.	本当に疲れた。
+dtp	jpn	Noposik zikoi do vivik injin uap doid sumaang tudan.	明け方、私たちは蒸気機関車の汽笛で目を覚ました。
+dtp	jpn	Nunu di booson dau do aiso piompitan do miampai kobohingkaangan diti.	彼が言っていることは、この問題と何の関係もない。
+dtp	jpn	Obuatan o abaabazan dagai.	我々の計画は具体化しつつある。
+dtp	jpn	Ogumu do tanak susumikul id kolej momoguno do kompiutol montok monuat.	大学生のほとんどが、パソコンを主に論文作成のために使います。
+dtp	jpn	Ohuyan oku nga au oku koodop.	疲れたけど寝れないわ。
+dtp	jpn	Okon ko aanangan zou i', nga' sasau zou mangakan dii tu omula i' bo.	好きなんじゃないけど、安いからよく食べる。
+dtp	jpn	Onu o bagas tosonong di naanu dokoyu mantad do pandemik Covid19?	Covid19パンデミックからどのような良い効果が得られましたか？
+dtp	jpn	Otopot naku o pomusaavan ku do ingkaa?	こういうふうに考えてよろしいでしょうか。
+dtp	jpn	Oukum ko, nung mimang ko dino.	そうやって、人に嫌がらせばかりしてたら、罰が当たるよ。
+dtp	jpn	Ozian ku no modosi do monongkiboos id diau.	あなたに声をかけるの、かなり勇気が要ったんですよ。
+dtp	jpn	Papavakas tokou o susu.	牛乳は私たちの体を丈夫にしてくれます。
+dtp	jpn	Pinapadahin zi Peter doid Kadazan do nuzudan boos diti.	その文章、ピーターがカダザン語に訳したんだ。
+dtp	jpn	Pinapadahin zi Tom doid boos Perancis do suat diti.	そのテキスト、トムがフランス語に翻訳したの。
+dtp	jpn	Pinoboos diau di Tom naku?	トムが君に言ったか？
+dtp	jpn	Pokiongon no o kasut ku.	靴はピカピカに磨いてくれよ。
+dtp	jpn	Songian ko minuhi?	いつ帰ってきたの？
+dtp	jpn	Songkuo hinaid no pongizon dau?	どのくらい前に出て行ったの？
+dtp	jpn	Tasu ku iti.	これが私の犬よ。
+dtp	jpn	Titiambat zou daa diau.	君と仲良くなりたいんだ。
+dtp	jpn	Tumimpuun i Univositi doid Vuhan Kaapat.	大学は4月からだよ。

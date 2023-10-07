@@ -6,11 +6,13 @@ epo	ile_Latn	Avertu lin.	Adverti il.
 epo	ile_Latn	Birdoj flugas.	Avies vola.
 epo	ile_Latn	Bonvolu aplaŭdi.	Ples aplauder.
 epo	ile_Latn	Bonvolu fermi la fenestron.	Ples clúder li fenestre.
+epo	ile_Latn	Ĉu alia mondo eblas?	Esque un altri munde es possibil?
 epo	ile_Latn	Ĉu estas multe da arboj en la parko?	Esque hay mult árbores in li parc?
 epo	ile_Latn	Ĉu fraŭlino Sandra loĝas tie ĉi?	Esque senioretta Sandra habita ci?
 epo	ile_Latn	Ĉu ili estas feliĉaj?	Esque ili es felici?
 epo	ile_Latn	Ĉu ili estas feliĉaj?	Esque illos es felici?
 epo	ile_Latn	Ĉu li estas feliĉa?	Esque il es felici?
+epo	ile_Latn	Ĉu Python estas programlingvo?	Esque Python es un lingue de programmation?
 epo	ile_Latn	Ĉu ŝi estas feliĉa?	Esque ella es felici?
 epo	ile_Latn	Ĉu viaj menstruoj normalas?	Esque tui menstruation es normal?
 epo	ile_Latn	Ĉu vi estas esperantisto?	Esque tu es esperantist?
@@ -71,6 +73,7 @@ epo	ile_Latn	Judismo estas bela.	Li Judeisme es bell.
 epo	ile_Latn	Junko estas bela knabino.	Junko es un bell puella.
 epo	ile_Latn	Kait legas la ĵurnalon.	Cáit lee li jurnal.
 epo	ile_Latn	Katoj ne ŝatas hundojn.	Cates ne ama canes.
+epo	ile_Latn	Kato skribis tion.	Un cat scrit to.
 epo	ile_Latn	Kial mi estas sola?	Pro quo yo es sol?
 epo	ile_Latn	Kiam la buso numero kvar alvenos?	Quande va arivar li autobus numeró quar?
 epo	ile_Latn	Kie estas la elirejo?	U es li exeada?
@@ -115,7 +118,9 @@ epo	ile_Latn	La ino estas nuda.	Li fémina es nud.
 epo	ile_Latn	La junulinoj perdas la ĉastecon ĉiam pli frue.	Puellas perdi lor virginitá plu e plu tost.
 epo	ile_Latn	La kato grandas.	Li cat es grand.
 epo	ile_Latn	La kato ludas kun la infanoj.	Li cat lude con li infantes.
+epo	ile_Latn	La mondo estas malsana.	Li munde es malad.
 epo	ile_Latn	La perforto daŭris dum du semajnoj.	Li violentie durat du semanes.
+epo	ile_Latn	La pipro estas nigra kaj la salo estas blanka.	Li pipre es nigri e li sale es blanc.
 epo	ile_Latn	La pluvo ĉesis.	Li pluvie cessat.
 epo	ile_Latn	La pomo ankoraŭ ne estas matura.	Li pom ancor ne es matur.
 epo	ile_Latn	La prunoj estis maturaj.	Li prunes esset matur.
@@ -135,6 +140,7 @@ epo	ile_Latn	Liberigu Roĵavon!	Libera Rojava!
 epo	ile_Latn	Li certe venos viziti nin.	Il va certmen visitar nos.
 epo	ile_Latn	Li estas bona ĉarpentisto.	Il es un bon carpentero.
 epo	ile_Latn	Li estas plaĝisto.	Il es un plagiator.
+epo	ile_Latn	Li estas sekulara.	Il es seculari.
 epo	ile_Latn	Li estas via patro.	Il es vor patre.
 epo	ile_Latn	Li estis tre laca.	Il esset tre fatigat.
 epo	ile_Latn	Li gaje ridis.	Il ridet joyosimen.
@@ -146,6 +152,7 @@ epo	ile_Latn	Linda baldaŭ foriros.	Linda va bentost forear.
 epo	ile_Latn	Li ne manĝas viandon.	Il ne manja carne.
 epo	ile_Latn	Li parolas la jidan.	Il parla yiddic.
 epo	ile_Latn	Li skribis al siaj gepatroj.	Il scrit a su genitores.
+epo	ile_Latn	Logiko ne estas listo de paralogismoj.	Logica ne es un liste de sofismes.
 epo	ile_Latn	Maja Keuc estas bona kantistino.	Maja Keuc es un bon cantatoressa.
 epo	ile_Latn	Malamantoj malamos.	Li odiantes va odiar.
 epo	ile_Latn	Malami iun estas tiel facile.	Odiar alcun es tant facil.
@@ -155,6 +162,7 @@ epo	ile_Latn	Marius mortis en 1914 en urbo Angers.	Marius morit in li 1914 in li
 epo	ile_Latn	Mary helpis sian patrinon kuiri.	Mary auxiliat su matre cocinar.
 epo	ile_Latn	Mi abomenas la dimanĉon! Damna tago!	Yo abomina li soledí. Condamnat die!
 epo	ile_Latn	Mia edzino vere malamas katojn.	Mi marita odia cates.
+epo	ile_Latn	Mia estro estas el Israelo.	Min chef er fra Israel.
 epo	ile_Latn	Mia fratino televidas.	Mi sestra regarda li television.
 epo	ile_Latn	Mia frato nun estas en Aŭstralio.	Mi fratre nu es in Australia.
 epo	ile_Latn	Miaj amikoj perfidis min.	Mi amicos trahit me.
@@ -175,6 +183,7 @@ epo	ile_Latn	Mi dormis en la trajno.	Yo dormit in li tren.
 epo	ile_Latn	Mi esperante parolas kiel indiĝeno.	Yo parla Esperanto quam un indigen.
 epo	ile_Latn	Mi esperas, ke vi fartas bone.	Yo espera, que tu standa bon.
 epo	ile_Latn	Mi estas nur homo.	Yo es solmen un hom.
+epo	ile_Latn	Mi estas seruristo.	Yo es un serrurero.
 epo	ile_Latn	Mi estas tre inteligenta homo.	Yo es un tre inteligent person.
 epo	ile_Latn	Mi estas tre stabila geniulo.	Yo es un tre stabil genio.
 epo	ile_Latn	Mi havas du infanojn.	Yo have du infantes.
@@ -182,6 +191,7 @@ epo	ile_Latn	Mi havas filon, kiu studas en Oslo.	Yo have un filio qui studia in 
 epo	ile_Latn	Mi ignoris tion.	Yo ignorat it.
 epo	ile_Latn	Mi kantas belan kanzonon.	Yo canta un bell canzon.
 epo	ile_Latn	Mi kaŝiĝis malantaŭ arbo.	Yo celat me detra un árbor.
+epo	ile_Latn	Mi kredis, ke mi devas fari tion.	Yo credet, que yo devet far to.
 epo	ile_Latn	Mi legas ilian libron.	Yo lee lor libre.
 epo	ile_Latn	Mi legas ŝian libron.	Yo lee su libre.
 epo	ile_Latn	Mi legis la ĵurnalojn.	Yo leet li jurnales.
@@ -189,6 +199,8 @@ epo	ile_Latn	Mi ludis ĉi tie.	Yo ludet ci.
 epo	ile_Latn	Mi matenmanĝas.	Yo dejunea.
 epo	ile_Latn	Mi mortigis la bovinon.	Yo mortat li vacca.
 epo	ile_Latn	Mi mortigis la bovon.	Yo mortat li vacca.
+epo	ile_Latn	Mi mortigis Tomon.	Yo assassinat Tom.
+epo	ile_Latn	Mi mortigis Tomon.	Yo mortat Tom.
 epo	ile_Latn	Mi mortos ĉi-nokte.	Yo va morir ho-nocte.
 epo	ile_Latn	Mi mortos.	Yo va morir.
 epo	ile_Latn	Mi naskiĝis en Siatama.	Yo nascet in Siatama.
@@ -201,10 +213,13 @@ epo	ile_Latn	Mi ne havas fratinojn.	Yo ne have sestras.
 epo	ile_Latn	Mi ne havas tempon por ludi.	Yo ne have témpor por luder.
 epo	ile_Latn	Mi ne kantas.	Yo ne canta.
 epo	ile_Latn	Mi ne kredas, ke Dio ekzistas.	Yo ne crede que Deo existe.
+epo	ile_Latn	Mi neniam studos Esperanton.	Yo va nequande studiar Esperanto.
 epo	ile_Latn	Mi ne povas manĝi pli.	Yo ne posse plu manjar.
 epo	ile_Latn	Mi ne scias, kiam.	Yo ne save quande.
 epo	ile_Latn	Mi ne volas, ke li mortu.	Yo ne vole que il mori.
 epo	ile_Latn	Mi ne volas, ke ŝi mortu.	Yo ne vole que ella mori.
+epo	ile_Latn	Mi ne volas multe.	Yo ne vole mult.
+epo	ile_Latn	Mi ne volas multon.	Yo ne vole mult.
 epo	ile_Latn	Mi parolas vian lingvon.	Yo parla tui lingue.
 epo	ile_Latn	Mi pensis, ke li venas.	Yo pensat que il veni.
 epo	ile_Latn	Mi planas labori en bordelo.	Yo plana laborar in un bordelle.
@@ -236,16 +251,19 @@ epo	ile_Latn	Ne tuŝu!	Ne tucha!
 epo	ile_Latn	Ni ĉiuj preĝas por Japanio.	Noi omnes prega por Japan.
 epo	ile_Latn	Ni estas en granda konfuzo.	Noi es in grand confusion.
 epo	ile_Latn	Ni estas tro malfortaj.	Noi es tro debil.
+epo	ile_Latn	Ni ne parolas pri virinoj.	Noi ne parla pri féminas.
 epo	ile_Latn	Ni postvivos ilin.	Noi va superviver les.
 epo	ile_Latn	Ni renkontis ilin hazarde.	Noi incontrat les per hasarde.
 epo	ile_Latn	Ni renkontis ŝin hazarde.	Noi incontrat la per hasarde.
 epo	ile_Latn	Ni respektos la decidon de la ukraina popolo.	Noi va respectar li decision del ucrainian popul.
 epo	ile_Latn	Ni vivas en socio.	Noi vive in un societé.
 epo	ile_Latn	Ni vizitos vin morgaŭ.	Noi va visitar vos deman.
+epo	ile_Latn	Ni volas frandaĵon.	Noi desira sucre candit.
 epo	ile_Latn	Nun mi estas en Romo.	Nu yo es in Roma.
 epo	ile_Latn	Petro konas Paŭlon.	Peter conosse Paul.
 epo	ile_Latn	Plaĉas al ŝi mallongaj jupoj.	Ella ama curt jupes.
 epo	ile_Latn	Politiko estas la vivo.	Li política es li vive.
+epo	ile_Latn	Porkoj estas inteligentaj bestoj.	Svines es besties inteligent.
 epo	ile_Latn	Printempo pasis kaj somero ekas.	Li verne ha passat e li estive comensa.
 epo	ile_Latn	Romo estas la ĉefurbo de la mondo.	Roma es li cité capital del munde.
 epo	ile_Latn	Romo estas la ĉefurbo de l'mondo.	Roma es li cité capital del munde.

@@ -44,6 +44,8 @@ epo	vol_Latn	Ĉi tiu pomo verdas.	Pod at binon grünik.
 epo	vol_Latn	Ĉi tiu pomo verdas.	Pod at grünon.
 epo	vol_Latn	Ĉi tiu tablo estas pura.	Tab at binon klinik.
 epo	vol_Latn	Ĉi tiu vortaro ne estas mia.	Vödabuk at no binon obik.
+epo	vol_Latn	Ĉu alia mondo eblas?	Vol difik mögon-li?
+epo	vol_Latn	Ĉu al mi vi diras tion?	Obe-li sagol etosi?
 epo	vol_Latn	Ĉu ili diris al ŝi pri tio?	Li-äsagoms ofe dö etos?
 epo	vol_Latn	Ĉu ili estas feliĉaj?	Binofs-li fredik?
 epo	vol_Latn	Ĉu ili estas feliĉaj?	Binoms-li fredik?
@@ -57,6 +59,7 @@ epo	vol_Latn	Ĉu la akvo malvarmas?	Vat binom-li kalodik?
 epo	vol_Latn	Ĉu la kato troviĝas sur la seĝo, ĉu sub la seĝo?	Binon-li kat su stul u dis stul?
 epo	vol_Latn	Ĉu la urbo plaĉas al vi?	Löfilol-li zifi?
 epo	vol_Latn	Ĉu li estas feliĉa?	Binom-li fredik?
+epo	vol_Latn	Ĉu li estas la urbestro?	Om binom-li zifacif?
 epo	vol_Latn	Ĉu li estas via amiko?	Binom-li flen olik?
 epo	vol_Latn	Ĉu li helpos?	Oyufom-li?
 epo	vol_Latn	Ĉu li parolas la anglan, la francan aŭ la germanan?	Spikom-li Linglänapüki, Fransänapüki u Deutänapüki?
@@ -67,6 +70,7 @@ epo	vol_Latn	Ĉu li scipovas la anglan?	Кanom-li spikön Linglänapüki?
 epo	vol_Latn	Ĉu li scipovas la anglan?	Кanon-li spikön Linglänapüki?
 epo	vol_Latn	Ĉu li scipovas paroli angle?	Кanom-li spikön Linglänapüki?
 epo	vol_Latn	Ĉu li scipovas paroli angle?	Кanon-li spikön Linglänapüki?
+epo	vol_Latn	Ĉu Maria estas via fratino?	Maria binof-li jiblod ola?
 epo	vol_Latn	Ĉu mi devas resti en la lito?	Mutob-li blebön in bed?
 epo	vol_Latn	Ĉu mi devas studi?	Mutob-li studön?
 epo	vol_Latn	Ĉu mi rajtas demandi, kie vi laboras?	Dalob-li säkön kiöpo vobol?
@@ -90,6 +94,8 @@ epo	vol_Latn	Ĉu vi iam demandis vin, kiom da steloj estas en la ĉielo?	Esäkor
 epo	vol_Latn	Ĉu vi iam demandis vin, kiom da steloj estas en la ĉielo?	Esäkors-li oris, liomödotik stels dabinons in sil?
 epo	vol_Latn	Ĉu vi iras hejmen?	Li-golol domoi?
 epo	vol_Latn	Ĉu vi malsatas?	Faemol-li?
+epo	vol_Latn	Ĉu vi morgaŭ restos hejme, se pluvos?	Li-oblibol domo odelo, if olömibos?
+epo	vol_Latn	Ĉu vi ne estas du fratoj?	No-li binols blods tel?
 epo	vol_Latn	Ĉu vi parolas Esperanton?	Spikol-li Sperantapüki?
 epo	vol_Latn	Ĉu vi parolas Esperanton?	Spikols-li Sperantapüki?
 epo	vol_Latn	Ĉu vi parolas Volapukon?	Spikol-li Volapüki?
@@ -147,6 +153,8 @@ epo	vol_Latn	Estero estas tradukisto.	Esther binof tradutan.
 epo	vol_Latn	Estis facile trovi lian oficejon.	Äbinos fasilik ad tuvön bür omik.
 epo	vol_Latn	Estis varme hieraŭ.	Äbinos hitik ädelo.
 epo	vol_Latn	Estos festeto post la laboro.	Dabinon zälül po vob.
+epo	vol_Latn	Estos pli bone, se mi mem diros al ŝi.	Obinos gudikumo, if ob it osagob ofe.
+epo	vol_Latn	Fari tion ne estos malfacile por ni.	Dunön etosi no obinos fikuliko obes.
 epo	vol_Latn	Fermu la pordon.	Färmükolöd yani.
 epo	vol_Latn	Foriru!	Mogololöd!
 epo	vol_Latn	Forprenu lin.	Mosumolöd omi.
@@ -158,6 +166,7 @@ epo	vol_Latn	Germanio estas tro eta por la mondo kaj tro granda por Eŭropo.	Deu
 epo	vol_Latn	Ĝi estas la domo de mia patro.	Binom dom obika fata.
 epo	vol_Latn	Ĝi ne manĝas viandon.	No fidon miti.
 epo	vol_Latn	Hajko estas tre mallonga poemo.	El haiku binon poedot vemo brefik.
+epo	vol_Latn	Hieraŭ Tomo ne laboris.	Tomas no ävobom ädelo.
 epo	vol_Latn	Hodiaŭ estas la dek-oka de junio kaj la naskiĝtago de Muiriel.	Adelo binon 18id yunula e binos motedadel Muiriela!
 epo	vol_Latn	Homoj amas hundojn.	Mens löfoms dogis.
 epo	vol_Latn	Hundo estas la plej bona amiko de homo.	Dog binon flenün mena.
@@ -177,6 +186,7 @@ epo	vol_Latn	Ili estas virsamseksemuloj.	Binoms otgeniälans.
 epo	vol_Latn	Ili havas sukeron.	Labons juegi.
 epo	vol_Latn	Ili mortigos vin!	Odeidons oli!
 epo	vol_Latn	Ili mortigos vin!	Odeidons olis!
+epo	vol_Latn	Ili ne loĝas ĉi tie.	No lödoms is.
 epo	vol_Latn	Ili postkuras la ŝteliston.	Pöjutons ravani.
 epo	vol_Latn	Ili povas kanti.	Kanons kanitön.
 epo	vol_Latn	Infanoj iufoje timas la mallumon.	Cils dredons semikna dagi.
@@ -197,6 +207,7 @@ epo	vol_Latn	John vivas en Novjorko.	Hiel John lifom in New York.
 epo	vol_Latn	Judismo estas bela.	Yud binon jönik.
 epo	vol_Latn	Katoj estas strangaj.	Kats binons bisarik.
 epo	vol_Latn	Kelkaj personoj timas araneojn.	Pösods anik dredons raänidis.
+epo	vol_Latn	Kial ili ne diris tion al ni?	Kikod no esagoms etosi obes?
 epo	vol_Latn	Kial katidoj estas molaj?	Kikodo katüls binons-li molik?
 epo	vol_Latn	Kial mi estas sola?	Kikodo binob soelik?
 epo	vol_Latn	Kial vi estas tiom malĝoja?	Kikodo binol-li so lügik?
@@ -233,8 +244,11 @@ epo	vol_Latn	Kio gravas, krom amo?	If löf no binon veütik, kis binon?
 epo	vol_Latn	Kioma horo estas?	Düp kinid binos-li?
 epo	vol_Latn	Kiom granda vi estas!	Vio gretik binol!
 epo	vol_Latn	Kiom longa estas tiu ĉi ponto?	Lioluniko binon pon at?
+epo	vol_Latn	Kion li faris ĉi-semajne?	Kisi ädunom avigo?
+epo	vol_Latn	Kion mi faros morgaŭ?	Kisi odunob odelo?
 epo	vol_Latn	Kion oni diras pri tio?	Kisi pükon dö etos?
 epo	vol_Latn	Kion vi faris kun mia plumo?	Kisi etunol-li ko pen obik?
+epo	vol_Latn	Kion vi havas tie?	Kisi labol us?
 epo	vol_Latn	Kion vi manĝis?	Kisi äfidol?
 epo	vol_Latn	Kion vi scias?	Kisi nolols-li?
 epo	vol_Latn	Kion vi ŝtelis?	Kisi etifol-li?
@@ -242,6 +256,7 @@ epo	vol_Latn	Kio vi estos?	Kis obinol-li?
 epo	vol_Latn	Kiu donas panon al popolo?	Kim givom bodi pope?
 epo	vol_Latn	Kiu estas la unua?	Kim binom balid?
 epo	vol_Latn	Kiu estas tiu knabino? — Ŝi estas la knabino, al kiu mi sendis la rozojn.	Kif binof jipul et? - Binof jipul ut, kele äsedob lolis.
+epo	vol_Latn	Kiu estas tiu laboristo?	Kim binom vobel et?
 epo	vol_Latn	Kiu kaŝas sin malantaŭ la kurteno?	Kin klänedon oki po körten?
 epo	vol_Latn	Kondomoj gravas.	Tagrodaslivils binons veütik.
 epo	vol_Latn	Kutime mi konsentas kun ŝi.	Baicedob ko of geböfiko.
@@ -264,6 +279,7 @@ epo	vol_Latn	La ĉasisto pafas vircervojn kaj leporojn.	Yagan jutom stägis e li
 epo	vol_Latn	La ĉevalo kuras rapide.	Jeval gonom vifiko.
 epo	vol_Latn	La ĉielo falis sur nian kapon.	Sil efalom su kapis obsik.
 epo	vol_Latn	La domo estas malvarma.	Dom binon koldik.
+epo	vol_Latn	La dua libro estas mia.	Buk telid binom obik.
 epo	vol_Latn	La du homoj akuzis unu la alian.	Mens tel äkusadoms odi.
 epo	vol_Latn	La du virinoj konas unu la alian.	Voms tel sevädofs odi.
 epo	vol_Latn	La du viroj sidantaj sur la benko estis usonanoj.	Mans tel seadöl su bam äbinons lamerikänik.
@@ -274,6 +290,7 @@ epo	vol_Latn	La ĝardeno estas antaŭ la domo.	Gad binon föfü dom.
 epo	vol_Latn	La ĝardeno estas malantaŭ la domo.	Gad binon po dom.
 epo	vol_Latn	La gefrato de gepatro estas geonklo.	Gem pala binon ter.
 epo	vol_Latn	La germana lingvokurso komenciĝos la kvinan de oktobro.	Deutänapükatidodem primon tü del lulid tobula.
+epo	vol_Latn	La germanoj ŝatas trinki bieron.	Deutels löfoms dlinön bili.
 epo	vol_Latn	La hundo de mia amiko komprenas Esperanton. Almenaŭ la plej gravajn komandojn.	Dog flena obik suemon Sperantapüki. Nemuiko büdis veütikün.
 epo	vol_Latn	La hundo estas la plej bona amiko de la homo.	Dog binon flenün mena.
 epo	vol_Latn	La hundo estas la plej bona amiko de l' homo.	Dog binon flenün mena.
@@ -282,6 +299,7 @@ epo	vol_Latn	La hundoj bojas.	Dogs vaulons.
 epo	vol_Latn	La hundo maljuniĝas.	Dog bäldikon.
 epo	vol_Latn	La hundo volas ludi.	Dog vilom pledön.
 epo	vol_Latn	La hundo volas viandon.	Dog vilom miti.
+epo	vol_Latn	La infana ĉambro estas tie.	Cem cilik binom us.
 epo	vol_Latn	La infano dormis sur la sino de sia patrino.	Cil äslipon su vüm mota onik.
 epo	vol_Latn	La infano subite komencis plori.	Cil süpo primon ad drenön.
 epo	vol_Latn	La instruistoj instruas.	Tidels tidoms.
@@ -301,7 +319,9 @@ epo	vol_Latn	La libro estas blanka.	Buk binon vietik.
 epo	vol_Latn	La libro estas granda.	Buk binon gretik.
 epo	vol_Latn	La libro estas malgranda.	Buk binon smalik.
 epo	vol_Latn	La libro estas sur la tablo.	Buk binon su tab.
+epo	vol_Latn	La libroj, kiuj kuŝas tie, estas miaj.	Buks, kels binoms us, binoms obik.
 epo	vol_Latn	La malalta viro portas puloveron.	Man brefik lenlabom loviotirakloti.
+epo	vol_Latn	La mondo estas malsana.	Vol binon malädik.
 epo	vol_Latn	La naskiĝtago de Tom estis hieraŭ.	Motedadel ela Tom äbinon ädelo.
 epo	vol_Latn	La patro de mia amiko estas amiko de mia patro.	Fat flena obik binom flen fata obik.
 epo	vol_Latn	La patro de Tomaso estis kuracisto.	Fat Tomasa äbinom sanel.
@@ -372,6 +392,7 @@ epo	vol_Latn	Li ne plu povas dolorigi vin.	No plu kanom viodön oli.
 epo	vol_Latn	Li ne povas paroli la anglan.	No kanom pükön Nelijapüki.
 epo	vol_Latn	Li ne rajtas silenti.	No dalom seilön.
 epo	vol_Latn	Li ne scipovas naĝi.	No kanom svimön.
+epo	vol_Latn	Li parolas pri si.	Pükom dö ok.
 epo	vol_Latn	Li parolis malrapide.	Äpükom nevifiko.
 epo	vol_Latn	Li perdis sian hundon.	Eperom dogi omik.
 epo	vol_Latn	Li perdis sian kinejan enirbileton.	Eperom bioskopöpabilieti okik.
@@ -379,6 +400,7 @@ epo	vol_Latn	Li renkontis afablan junulon.	Äkolkömom mani junik plitälik.
 epo	vol_Latn	Li rigardas vin.	Logom oli.
 epo	vol_Latn	Li senigis sin je sia malnova domo.	Ämoükom domi bäldik omik.
 epo	vol_Latn	Li skribis al mi amleteron.	Epenom obe lelöfapenedi.
+epo	vol_Latn	Li trovis ilin hejme.	Etuvom omis domo.
 epo	vol_Latn	Li vendas aŭtomobilojn.	Selom toodis.
 epo	vol_Latn	Malamantoj malamos.	Hetans ohetons.
 epo	vol_Latn	Manjo plorĝemis.	El Maria äslokof.
@@ -410,6 +432,7 @@ epo	vol_Latn	Mia nomo estas Dilŝad.	Nem obik binon Dilshad.
 epo	vol_Latn	Mia nomo estas Dilŝado.	Nem obik binon Dilshad.
 epo	vol_Latn	Mia nomo estas Omid.	Nem obik binon Omid.
 epo	vol_Latn	Mia nomo estas Omido.	Nem obik binon Omid.
+epo	vol_Latn	Mia okulo doloras.	Log obik dolom.
 epo	vol_Latn	Mia onklo havas tri infanojn.	Ziom oba labom cilis kil.
 epo	vol_Latn	Mia onklo laboras en ĉi tiu oficejo.	Ziom obik vobom in bür at.
 epo	vol_Latn	Mia patrino estas pli aĝa ol mia patro.	Mot obik binon bäldikum ka fat obik.
@@ -431,15 +454,18 @@ epo	vol_Latn	Mia vagino estas bela!	Vagin obik binon jönik!
 epo	vol_Latn	Mi bedaŭras, sed mi ne povas iri kun vi.	Pidob, ab no kanob golön ko ol.
 epo	vol_Latn	Mi bezonas kondomon.	Neodob tagrodaslivili.
 epo	vol_Latn	Mi bone defendis min.	Äjelodob obi gudiko.
+epo	vol_Latn	Mi demandas, ĉu la angla vere estas taŭga mondlingvo.	Säkob, va Linglänapük jenöfo binon volapük pötik.
 epo	vol_Latn	Mi demandas min, kioma horo estas.	Säkob obi düp kinid binos.
 epo	vol_Latn	Mi devas hasti; mi malfruas.	Mutob spidön; latikob.
 epo	vol_Latn	Mi devas iri en la urbon.	Mutob golön in zifi.
 epo	vol_Latn	Mi devas studi.	Mutob studön.
 epo	vol_Latn	Mi donas la libron al amiko.	Givob buki flene.
 epo	vol_Latn	Mi donas la vortaro al li.	Givob vödasbuki ome.
+epo	vol_Latn	Mi donis al li la ŝlosilon.	Egivob kiki ome.
 epo	vol_Latn	Mi donos ĝin al vi.	Ogivob oni ole.
 epo	vol_Latn	Mi dormis antaŭ la televidilo.	Äslipob föfü televid.
 epo	vol_Latn	Mi eble povas helpi.	Kanoböx yufön.
+epo	vol_Latn	Mi esperas, ke hodiaŭ ne neĝos.	Spelob, das no onifos adelo.
 epo	vol_Latn	Mi esperas, ke iam li komprenos la aferon.	Spelob das evelo okapälom etosi.
 epo	vol_Latn	Mi estas amorvendistino.	Binob jinepuedan.
 epo	vol_Latn	Mi estas ĉinino.	Binob Tsyinänan.
@@ -457,6 +483,8 @@ epo	vol_Latn	Mi estas lupo.	Binob lup.
 epo	vol_Latn	Mi estas malĉastistino.	Binob jinepuedan.
 epo	vol_Latn	Mi estas Melanie.	Binob Melanie.
 epo	vol_Latn	Mi estas pola gazetisto.	Binob gasediman Polänik.
+epo	vol_Latn	Mi estas politikisto.	Binob bolitan.
+epo	vol_Latn	Mi estas princino.	Binob jiplin.
 epo	vol_Latn	Mi estas prostituitino.	Binob jinepuedan.
 epo	vol_Latn	Mi estas samseksemulino.	Binob jiotgeniälan.
 epo	vol_Latn	Mi estas samseksemulino.	Binob vom otgeniälik.
@@ -476,9 +504,12 @@ epo	vol_Latn	Mi havas du fratojn kaj unu fratinon.	Labob blodis tel e jiblodi.
 epo	vol_Latn	Mi havas du librojn.	Labob bukis tel.
 epo	vol_Latn	Mi havas edzon kaj du infanojn.	Labob mateli e cilis tel.
 epo	vol_Latn	Mi havas filon.	Labob soni.
+epo	vol_Latn	Mi havas kvar katojn.	Labob katis fol.
 epo	vol_Latn	Mi havas la plej bonajn vortojn.	Labob vödis gudikün.
 epo	vol_Latn	Mi havas tre multekostan brakhorloĝon.	Labob rietalinaglokili vemo jerik.
 epo	vol_Latn	Mi havis multan amuzon.	Älabob droli mödik.
+epo	vol_Latn	Mi instruas al instruistoj.	Tidob tidelis.
+epo	vol_Latn	Mi instruas instruistojn.	Tidob tidelis.
 epo	vol_Latn	Mi iris tien ĉar mi volis.	Ägolob us, bi ävilob.
 epo	vol_Latn	Mi iros kun vi.	Ogolom ko ol.
 epo	vol_Latn	Mi kapablas rapide naĝi.	Kanob svimön vifiko.
@@ -505,6 +536,7 @@ epo	vol_Latn	Mi memoras la vorton.	Memob vödi.
 epo	vol_Latn	Mi morgaŭ respondos vin.	Odelo ogepükob ole.
 epo	vol_Latn	Mi mortigis la bovinon.	Ädeidob jibubi.
 epo	vol_Latn	Mi mortigis la bovinon.	Edeidob jibubi.
+epo	vol_Latn	Mi mortigis Tomon.	Ädeidob eli Tom.
 epo	vol_Latn	Mi naskiĝis ne hieraŭ.	Pemotob no ädelo.
 epo	vol_Latn	Mi ne amas ilin.	No löfob omis.
 epo	vol_Latn	Mi ne aŭdis ĝin.	No älilob oni.
@@ -524,15 +556,18 @@ epo	vol_Latn	Mi ne memoras, kie mi aĉetis ĝin.	No kanob memön, kö äremob on
 epo	vol_Latn	Mi ne memoras, kie mi aĉetis ĝin.	No memob, kö äremob oni.
 epo	vol_Latn	Mi ne naskiĝis hieraŭ.	No pämotob ädelo.
 epo	vol_Latn	Mi neniam manĝis ĉinan manĝaĵon.	Neai efidob fidi Tsyinänik.
+epo	vol_Latn	Mi neniam studos Esperanton.	Neai ostudob Sperantapüki.
 epo	vol_Latn	Mi ne parolas la francan lingvon.	No spikob fransänapüki.
 epo	vol_Latn	Mi ne parolas la oficialan lingvon. Ĉu vi?	No spikob püki calöfik. Ols-li?
 epo	vol_Latn	Mi ne plu amas lin.	No löfob omi plu.
+epo	vol_Latn	Mi ne plu kredas je Dio.	No plu kredob mö God.
 epo	vol_Latn	Mi ne plu ŝatas vin.	No löfilob oli plu.
 epo	vol_Latn	Mi ne povas aĉeti novan biciklon.	No fägob ad remön saikuli nulik.
 epo	vol_Latn	Mi ne povas memori kie mi aĉetis ĝin.	No kanob memön, kö äremob oni.
 epo	vol_Latn	Mi ne povas paroli la germanan.	No kanob spikön Deutänapüki.
 epo	vol_Latn	Mi ne povas priskribi ĝin.	No kanob bepenön oni.
 epo	vol_Latn	Mi ne povas ripari la komputilon.	No kanob fimükön nünömi.
+epo	vol_Latn	Mi ne ŝatas labori nokte.	No löfob vobön neito.
 epo	vol_Latn	Mi ne scias, kiam ŝi edziniĝis.	No nolob, kü ämatikof.
 epo	vol_Latn	Mi ne vidas ilin.	No logob omis.
 epo	vol_Latn	Mi ne vidis ĝin.	No älogob oni.
@@ -547,6 +582,7 @@ epo	vol_Latn	Mi pafas, sed ne trafas.	Jutob, ab no flapob.
 epo	vol_Latn	Mi pafmortigos lin.	Odeijutob omi.
 epo	vol_Latn	Mi parolas Interlingvaon.	Spikob eli Interlingua.
 epo	vol_Latn	Mi parolas la svedan.	Spikob Svedänapüki.
+epo	vol_Latn	Mi parolas pri ili.	Pükob dö oms.
 epo	vol_Latn	Mi pensas, do mi ekzistas.	Tikob, so binob.
 epo	vol_Latn	Mi pensas, do mi estas.	Tikob, so binob.
 epo	vol_Latn	Mi pensas ke estas bone ke libroj ankoraŭ ekzistas, sed ili dorminklinigas min.	Tikob, binos gudik, das buks dabinons nog, ab ons slipöfikükons obi.
@@ -564,6 +600,9 @@ epo	vol_Latn	Mi ŝatas katojn.	Löfob katis.
 epo	vol_Latn	Mi ŝatas la okcitanan lingvon.	Plidob loxitänapüki.
 epo	vol_Latn	Mi ŝatas vian landon.	Plidob läni olik.
 epo	vol_Latn	Mi scias, ke mi ne scias.	Nolob, das no nolob.
+epo	vol_Latn	Mi scias, ke vi estas ĉi tie.	Nolob, das binol is.
+epo	vol_Latn	Mi scias, ke vi estas tie.	Nolob, das binol us.
+epo	vol_Latn	Mi serĉos ŝin.	Osükob ofi.
 epo	vol_Latn	Mi ŝin vidis.	Ilogob ofi.
 epo	vol_Latn	Mi skribas leteron.	Penob penedi.
 epo	vol_Latn	Mi skribis malĝustan adreson sur la koverton.	Äpenob ladeti neverätik sui köv.
@@ -572,6 +611,7 @@ epo	vol_Latn	Mi tre ŝatas la sunon.	Löfilob soli vemo.
 epo	vol_Latn	Mi urinas nepropravole.	Yurinob nevilöfo.
 epo	vol_Latn	Mi uzis ĝin.	Ägebob oni.
 epo	vol_Latn	Mi venis kun Tomo.	Äkömob ko Tomas.
+epo	vol_Latn	Mi vidas, ke neĝas.	Logob, das nifos.
 epo	vol_Latn	Mi vidas, ke Volapuko estas bona lingvo.	Logob das Volapük binom pük gudik.
 epo	vol_Latn	Mi vidas la belan filinon de la reĝino.	Logob jisoni jönik jirega.
 epo	vol_Latn	Mi vidas libron.	Logob buki.
@@ -594,6 +634,7 @@ epo	vol_Latn	Mi volas lerni la francan.	Vilob lärnön Fransänapuki.
 epo	vol_Latn	Mi volas lerni.	Ob vilob lärnön!
 epo	vol_Latn	Mi volas loĝi en Brazilo.	Vilob lifön in Brasilän.
 epo	vol_Latn	Mi volas vidi la ĉambron.	Vilob logön cemi.
+epo	vol_Latn	Mi volas vidi.	Vilob logön.
 epo	vol_Latn	Mi volis esti lia edzino.	Ävilob binön jimatel omik.
 epo	vol_Latn	Morgaŭ neĝos.	Onifos odelo.
 epo	vol_Latn	Ne ĉiam estas agrable aŭdi veron.	Lilön velati binos plidik no egelo.
@@ -609,6 +650,7 @@ epo	vol_Latn	Ne, la kato ne estas malgranda.	Nö, kat no binon smalik.
 epo	vol_Latn	Ne, la kato ne malgrandas.	Nö, kat no binon smalik.
 epo	vol_Latn	Ne metu bebon en sakon!	No pladolöd cili ini sakäd!
 epo	vol_Latn	Ne metu la bebon en la sakon!	No pladolöd cili ini sakäd!
+epo	vol_Latn	Ne, mi lernas mem.	No, studob it.
 epo	vol_Latn	Ne minacu min.	No tädolöd obi.
 epo	vol_Latn	Neniu ĉion scias.	Nek valikosi nolon.
 epo	vol_Latn	Neniu ĉi tie manĝas viandon.	Nek fidon miti is.
@@ -620,6 +662,8 @@ epo	vol_Latn	Nia kondomo rompiĝis.	Tagrodaslivil obas brekon.
 epo	vol_Latn	Nia kondomo rompiĝis.	Tagrodaslivil obsik brekon.
 epo	vol_Latn	Ni aŭdis.	Älilobs.
 epo	vol_Latn	Ni aŭdis.	Elilobs.
+epo	vol_Latn	Ni bone memoru tion!	Memobsöd etosi gudiko!
+epo	vol_Latn	Ni ĉiuj estas simioj.	Obs valik binobs leps.
 epo	vol_Latn	Ni devas labori diligente.	Mutobs vobön vobiäliko.
 epo	vol_Latn	Ni devas reklami en televido.	Mutobs reklamön televido.
 epo	vol_Latn	Ni elektis lin kiel prezidanton.	Ädavälobs omi presidanu.
@@ -627,6 +671,7 @@ epo	vol_Latn	Ni esperas, ke vi ĝuos la filmon.	Spelobs, das fredol biologamoti.
 epo	vol_Latn	Ni estas amikinoj.	Binobs jiflens.
 epo	vol_Latn	Ni estas bonaj amikinoj.	Binobs jiflens gudik.
 epo	vol_Latn	Ni faligas arbojn.	Docöpobs bimis.
+epo	vol_Latn	Ni havas filon kaj filinon.	Labobs soni e jisoni.
 epo	vol_Latn	Ni havas ornitorinkon.	Labobs honedafi.
 epo	vol_Latn	Ni havos lecionon pri matematiko morgaŭ.	Olabobs matematatidi odelo.
 epo	vol_Latn	Ni invitis dek parojn al la festeto.	Ävüdobs päris deg lü zälül.
@@ -635,6 +680,7 @@ epo	vol_Latn	Ni komencu nian laboron.	Primobsös vobi obsa.
 epo	vol_Latn	Ni konstruas domon.	Bumobs domi.
 epo	vol_Latn	Ni kunvenu postmorgaŭ.	Kolkömobsöd udelo.
 epo	vol_Latn	Ni mezuris la profundon de la rivero.	Ämafobs dibi flumeda.
+epo	vol_Latn	Ni naĝis rapide.	Äsvimobs vifiko.
 epo	vol_Latn	Ni ne havas televidilon.	No labobs televidömi.
 epo	vol_Latn	Ni ne havas tempon por dormi.	No labobs timi al slipön.
 epo	vol_Latn	Ni ne konas lin.	No sevobs omi.
@@ -649,11 +695,13 @@ epo	vol_Latn	Ni veturis tra la urbo.	Ävabobs travärü zif.
 epo	vol_Latn	Ni vivas en socio.	Lifobs in sog.
 epo	vol_Latn	Ni volis tion.	Ävilobs etosi.
 epo	vol_Latn	Nu ne!	Leno!
+epo	vol_Latn	Nun mi ne tre volas manĝi.	Nu no vemo vilob fidön.
 epo	vol_Latn	Oni devas manĝi por vivi, kaj ne vivi por manĝi.	Mutoy fidön ad lifön, e no lifön ad fidön.
 epo	vol_Latn	Oni diras, ke vampiroj abomenas ajlon, sed tio estas tute malvera. Al vampiroj, fakte, ajlo tre bone gustas, ili ekzemple emas spici per ĝi siajn hamburgerojn.	Sagoy, das vampirs panaudons fa läl, ab etos binos löliko neverätik. Jenöfo, läl vampires benosmekon vemo; vampirs äs sam pitons hamburgasändvigis onsik me läl.
 epo	vol_Latn	Oni korespondas per Volapuko.	Spodoy Volapüko.
 epo	vol_Latn	Oni laŭdas la laboremon de la instruistoj.	Loboy duti tidanas.
 epo	vol_Latn	Oni nomas ŝin Jane.	Nemons ofi Jane.
+epo	vol_Latn	Oni povas vidi min.	Kanon logön obi.
 epo	vol_Latn	Oro estas pli peza ol arĝento.	Goldin binon vetikum ka largent.
 epo	vol_Latn	Parizo estas la ĉefurbo de Francujo.	Paris binon cifazif Fransäna.
 epo	vol_Latn	Patrino faras supon denove por la infano.	Mot kvisinof cile dönu supi.
@@ -710,6 +758,7 @@ epo	vol_Latn	Ŝi havas hundon kaj ses katojn.	Labof dogi e katis mäl.
 epo	vol_Latn	Ŝi havas katon. La kato estas blanka.	Labof kati. Kat binon vietik.
 epo	vol_Latn	Ŝi havas multajn librojn.	Labof bukis mödik.
 epo	vol_Latn	Ŝi havas nek edzon nek infanojn.	Labof ni mateli, ni cilis.
+epo	vol_Latn	Ŝi havas tri filinojn.	Labof jisonis kil.
 epo	vol_Latn	Ŝi havas verdajn okulojn.	Labof logis grünik.
 epo	vol_Latn	Ŝi iĝis policistino.	Ävedof poldan.
 epo	vol_Latn	Ŝi kondutis tre malsaĝe.	Äkondötof vemo fopiko.
@@ -738,11 +787,15 @@ epo	vol_Latn	Tio estis en la jaro du mil.	Äbinos in yel telmilik.
 epo	vol_Latn	Tiu ĉi aŭto estas mia.	Tood at binom obik.
 epo	vol_Latn	Tiu ĉi domo apartenas al mia onklo.	Dom at duton lü ziom obik.
 epo	vol_Latn	Tiu domo estas lia.	Dom at binon omik.
+epo	vol_Latn	Tiuj homoj estas miaj amikoj.	Mens et binoms flens oba.
 epo	vol_Latn	Tiu kapitano bone traktas siajn trupojn.	Kapiten at träiton gudiko trupanis okik.
 epo	vol_Latn	Tiu ponto estis konstruita antaŭ du jaroj.	Pon at päbumon bü yels tel.
 epo	vol_Latn	Tom aĉetis domon, kiu havas ses ĉambrojn.	Hiel Tom eremom domi, kel labon cemis mäl.
 epo	vol_Latn	Tomaso esperas, ke Maria povos helpi al li.	Tomas spelom, das Maria okanof yufön ome.
+epo	vol_Latn	Tomaso kaj Maria pensas, ke ili povis fari tion.	Tomas e Maria tikoms, das äkanoms dunön etosi.
+epo	vol_Latn	Tomaso malamas min, vi jam scias tion.	Tomas hetom obi, ya nolol etosi.
 epo	vol_Latn	Tomaso opinias min sia malamiko.	Tomas tikom das binob neflen ome.
+epo	vol_Latn	Tomaso!	O Tomas!
 epo	vol_Latn	Tom bezonas telefoni kuraciston.	Hiel Tom nedom telefonön sanani.
 epo	vol_Latn	Tom bezonas voki kuraciston.	Hiel Tom nedom vokön sanani.
 epo	vol_Latn	Tom demandas sin, ĉu estas vere.	Hiel Tom säkom oki va binos verätik.
@@ -754,12 +807,17 @@ epo	vol_Latn	Tom malamas samseksemulojn.	Tom hetom otgeniälanis.
 epo	vol_Latn	Tommy, ĉu vi povas aŭdi min?	O Tommy, kanol-li lilön obi?
 epo	vol_Latn	Tommy estas afabla homo.	Hiel Tommy binom man plitälik.
 epo	vol_Latn	Tomo ĉiam troigas.	Tom ai tuükom.
+epo	vol_Latn	Tomo, ĉu vi volas manĝi?	Li-vilol fidön, o Tomas?
+epo	vol_Latn	Tomo estas lingvisto.	El Tom binom pükavan.
+epo	vol_Latn	Tomo estas saĝa homo.	Tomas binom men sapik.
 epo	vol_Latn	Tomo estas tradukisto.	Thomas binom tradutan.
 epo	vol_Latn	Tomo estas viro kaj mi estas virino.	Tom binom himen ed ob binob jimen.
 epo	vol_Latn	Tomo estas viro kaj mi estas virino.	Tom binom man ed ob binob vom.
 epo	vol_Latn	Tomo havas domon en Aŭstralio.	Tomas labom domi in Talop.
 epo	vol_Latn	Tomo havas geamikojn en Germanio.	Tom labom flenis in Deutän.
 epo	vol_Latn	Tomo havas nek fraton, nek fratinon.	Tomas labom ni blodi, ni jiblodi.
+epo	vol_Latn	Tomo iras tre rapide.	Tomas golom vemo vifiko.
+epo	vol_Latn	Tomo kaj mi ne estas amikoj.	Hiel Tom ed ob no binobs flens.
 epo	vol_Latn	Tomo loĝas en la sama apartamentaro kiel sia patrino.	Tomas lödom in dom ot, in kel mot omik lödof.
 epo	vol_Latn	Tomo malamas samseksemulojn.	Tom hetom otgeniälanis.
 epo	vol_Latn	Tomo malŝatis sian laboron.	Tomas ähetom vobi okik.
@@ -768,12 +826,14 @@ epo	vol_Latn	Tomo ne estas reala.	Tom no binom jenöfik.
 epo	vol_Latn	Tomo ne manĝis.	El Tom no äfidom.
 epo	vol_Latn	Tomo ne manĝis.	El Tom no efidom.
 epo	vol_Latn	Tomo ne ŝatas matematikon.	Tomas no löfom numavi.
+epo	vol_Latn	Tomo ne tre ofte trinkas vinon.	Tomas dlinom vini no vemo ofen.
 epo	vol_Latn	Tomo parolis, sed Manjo ne aŭskultis lin.	Tomas äpükom, sod Mari no älielof omi.
 epo	vol_Latn	Tomo plorĝemis.	El Tom äslokom.
 epo	vol_Latn	Tomo povas ludi piedpilkon.	Hiel Tom kanom pledön futaglöpädi.
 epo	vol_Latn	Tomo rapide malfermis la leteron.	Tom ämaifükom penedi vifiko.
 epo	vol_Latn	Tomo scipovas ludi piedpilkon.	Hiel Tom kanom pledön futaglöpädi.
 epo	vol_Latn	Tomo scipovis nur la germanan.	Tomas äkanom pükön te deutapüki.
+epo	vol_Latn	Tomo sendis florojn al Manjo.	Tomas esenom flolis ele Maria.
 epo	vol_Latn	Tomo senŝeligis la pomon.	Hiel Tom esäjalom podi.
 epo	vol_Latn	Tranĉu la terpomojn.	Kötolöd pötetis.
 epo	vol_Latn	Trankviliĝu kaj aŭskultu!	Takedolöd e dalilolöd!
@@ -796,23 +856,29 @@ epo	vol_Latn	"Vi estas la instruisto de Israelo", diris Jesuo.	"Binol tidan Yisr
 epo	vol_Latn	Vi estas necesaj.	Binols zesüdik.
 epo	vol_Latn	Vi estas tiel bela!	Binol so jönik!
 epo	vol_Latn	Vi havas belan haŭton.	Labol skini jönik.
+epo	vol_Latn	Vi havas monon.	Labol moni.
 epo	vol_Latn	Vi instruas la araban.	Tidol Larabänapüki.
 epo	vol_Latn	Vi instruas la araban.	Tidols Larabänapüki.
 epo	vol_Latn	Vi instruas la araban.	Tidor Larabänapüki.
 epo	vol_Latn	Vi instruas la araban.	Tidors Larabänapüki.
 epo	vol_Latn	Vi ne aŭskultis.	No älielol.
+epo	vol_Latn	Vi ne bezonas sep aŭtojn!	No nedol toodis vel!
 epo	vol_Latn	Vi necesas.	Binols zesüdik.
 epo	vol_Latn	Vi ne fidis min.	No ekonfidol obe.
 epo	vol_Latn	Vi ne komprenis la demandon.	No esuemol säki.
 epo	vol_Latn	Vi ne komprenis la demandon.	No esuemols säki.
+epo	vol_Latn	Vi parolas pri vi.	Pükol dö ol.
 epo	vol_Latn	Vi parolas rapide.	Pükol vifiko.
 epo	vol_Latn	Vi perdis viajn okulvitrojn.	Eperol logaglätis olik.
 epo	vol_Latn	Vi povas skribi en iu ajn lingvo, kiun vi volas. En Tatoeba ĉiuj lingvoj estas egalaj.	Dalol penön in pük alseimik, keli vilol. Su Tatoeba, püks valik binons leigik.
 epo	vol_Latn	Virinoj estas belaj.	Voms binofs jönik.
 epo	vol_Latn	Virinoj kaj infanoj unue!	Voms e cils balido!
 epo	vol_Latn	Virinon, kies edzo mortis, oni nomas vidvino.	Vom, jikelik matan binom deadik, panemof jiviudan.
+epo	vol_Latn	Vi scias.	Nolol.
 epo	vol_Latn	Vi skribis.	Äpenol.
 epo	vol_Latn	Vi studas la anglan.	Studol nelijapüki.
+epo	vol_Latn	Vi tro multe parolas pri ŝi.	Pükol dö of tu mödiko.
+epo	vol_Latn	Vi trovos nenion.	Otuvol nosi.
 epo	vol_Latn	Vivu kaj lernu.	Lifolöd e lärnolöd.
 epo	vol_Latn	Voku policiston!	Vokolöd poldani!
 epo	vol_Latn	Volapuko estas rapida lingvo.	Volapük binon pük vifik.

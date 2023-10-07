@@ -5,6 +5,9 @@ fra	tlh_Latn	Aimez-vous la cuisine japonaise ?	nIpon Soj DaparHa''a'?
 fra	tlh_Latn	Aimez-vous l'anglais ?	DIvI' Hol bomuSHa''a'?
 fra	tlh_Latn	Aimez-vous l'anglais ?	DIvI' Hol DamuSHa''a'?
 fra	tlh_Latn	Allah est grand !	Dun Qun'a'!
+fra	tlh_Latn	Apprends ta langue.	HollIj yIghoj.
+fra	tlh_Latn	Apprenez votre langue.	HollIj yIghoj.
+fra	tlh_Latn	Apprenez votre langue.	Holraj yIghoj.
 fra	tlh_Latn	Arrête ça !	mevyap!
 fra	tlh_Latn	As-tu faim ?	bIghung'a'?
 fra	tlh_Latn	Avec qui est-ce que je parle ?	'IvvaD jIjatlhtaH?
@@ -43,6 +46,7 @@ fra	tlh_Latn	C'est mon sac.	buqwIj 'oH.
 fra	tlh_Latn	C'est oui ou c'est non ?	HIja' 'oS pagh ghobe' 'oS?
 fra	tlh_Latn	C'est pas drôle !	tlhaQbe'!
 fra	tlh_Latn	C'est pour toi.	SoHvaD 'oH.
+fra	tlh_Latn	C'est quoi le judaïsme ?	nuq 'oH yISra'el lalDan'e'?
 fra	tlh_Latn	C'est sûrement un bon garçon.	loDHom QaQ ghaHbej.
 fra	tlh_Latn	C'est toi qui l'as fait !	Data' SoH!
 fra	tlh_Latn	C'est tout à fait autre chose.	Doch pImqu' 'oH.
@@ -121,6 +125,7 @@ fra	tlh_Latn	Êtes-vous fier de votre père ?	vavra'mo' SuHem'a'?
 fra	tlh_Latn	Être ou ne pas être ?	taH pagh taHbe'?
 fra	tlh_Latn	Ferme la bouche !	nuj yISoQmoH!
 fra	tlh_Latn	Généralement, les hommes sont plus grands que les femmes.	motlh loDpu' woch law' be'pu' woch puS.
+fra	tlh_Latn	Ha ha ha !	HghHghHgh!
 fra	tlh_Latn	Il a acheté une nouvelle voiture.	puH Duj chu' je'ta'.
 fra	tlh_Latn	Il abandonne rarement.	pIjHa' jegh.
 fra	tlh_Latn	Il a deux fils, je crois.	cha' puqloDpu' ghaj 'e' vIHar.
@@ -223,6 +228,7 @@ fra	tlh_Latn	J'ai rencontré ta sœur.	be'nI'lI' vIghompu'.
 fra	tlh_Latn	J'ai trois frères et quatre sœurs.	wej loDnI', loS be'nI' vIghaj.
 fra	tlh_Latn	J'ai un joli cadeau pour toi.	SoHvaD nob 'IH vIghaj.
 fra	tlh_Latn	J'ai vomi.	jI'empu'.
+fra	tlh_Latn	Jamais.	not.
 fra	tlh_Latn	J'appréciai vos amis.	juppu'ra' vIparHa'.
 fra	tlh_Latn	Je cherche mon frère.	loDnI'wI' vInejtaH.
 fra	tlh_Latn	Je connais ton âge.	nenlIj rav vISov.
@@ -287,6 +293,7 @@ fra	tlh_Latn	Je pense que vous avez raison.	bIlugh 'e' vIQub.
 fra	tlh_Latn	Je peux courir.	jIqetlaH.
 fra	tlh_Latn	Je possède un cheval.	wa' Sargh vIghaj.
 fra	tlh_Latn	Je pourrais mourir demain.	wa'leS jIHeghlaH.
+fra	tlh_Latn	Je quitte ce groupe.	ghomvam vImej.
 fra	tlh_Latn	Je sais nager.	jIQallaH.
 fra	tlh_Latn	Je sais que c'était une erreur.	Qagh 'oHpu' 'e' vISov.
 fra	tlh_Latn	Je sais que tu aimes le café.	qa'vIn DaparHa' 'e' vISov.
@@ -348,11 +355,15 @@ fra	tlh_Latn	Je voulais quelque chose, mais quoi ?	vay' vIneH 'ach nuq?
 fra	tlh_Latn	Je vous ai acheté un cadeau.	tlhIHvaD nob vIje'ta'.
 fra	tlh_Latn	Je vous aime beaucoup tous les deux.	cha' SaparHa'qu'.
 fra	tlh_Latn	Je vous attends ici.	naDev SaloS.
+fra	tlh_Latn	Jupiter est énorme.	rab ju'pIter.
+fra	tlh_Latn	Jupiter est énorme.	rab Sol vagh.
 fra	tlh_Latn	La civilisation moderne est fondée sur la science et l'éducation.	DaH tayqeq chenmoHmeH QeD paQDI'norgh je lulo'lu'.
 fra	tlh_Latn	La fille ne semblait lui prêter aucune attention.	ghaH qImbe'law' be'Hom.
 fra	tlh_Latn	Laisse-moi partir !	jImej 'e' yIchaw'!
 fra	tlh_Latn	L'alarme anti-fumée n'a jamais eu de maintenance.	not tlhIch ghum leHlu'.
 fra	tlh_Latn	L'Allemagne est un grand pays.	Sep tIn 'oH DoyIchlan'e'.
+fra	tlh_Latn	La lune n'est pas creuse, Tom.	woDbe' maS, tam.
+fra	tlh_Latn	L'amour aime aimer l'amour.	parmaq muSHa' 'e' muSHa' parmaq.
 fra	tlh_Latn	La nourriture, ici, est vraiment effroyable. Et les portions sont si petites.	'eyHa'qu' Qe'vam Soj 'ej machqu' nay'mey.
 fra	tlh_Latn	La pierre est lourde.	'ugh nagh.
 fra	tlh_Latn	La place est libre.	Daqvam lo'lu'be'.
@@ -361,11 +372,13 @@ fra	tlh_Latn	La pomme est verte.	SuD 'epIl naH.
 fra	tlh_Latn	La soupe est trop salée.	tlhoy na' chatlh.
 fra	tlh_Latn	La structure du cerveau est compliquée.	Qatlh QoghIj Qur.
 fra	tlh_Latn	L'as-tu fait ?	Data'ta''a'?
+fra	tlh_Latn	La terre est malade.	rop tera'.
 fra	tlh_Latn	La Terre n'est pas une étoile, mais une planète.	Hov 'oHbe' tera''e', 'ach yuQ 'oH.
 fra	tlh_Latn	Lave-toi les mains après être allé aux toilettes.	puch Dalo'pu'DI', ghopDu'lIj tISay'moH!
 fra	tlh_Latn	Le bébé dort encore.	QongtaH ghu.
 fra	tlh_Latn	Le château, il est ouvert aujourd'hui?	DaHjaj poS'a' qach'a'?
 fra	tlh_Latn	Le ciel de l'ouest rougeoyait.	DoqchoH 'ev tIng chal.
+fra	tlh_Latn	Le concombre est vert.	SuDqu' tera' peb'ot.
 fra	tlh_Latn	Le défaut apparaît-il régulièrement ou de manière sporadique ? Est-il possible de le reproduire ?	roD qaS Qaghvam pagh rut qaS? Qaghvam DaqaSqa'moHlaH'a'?
 fra	tlh_Latn	Le démon est mort.	Heghpu' veqlargh.
 fra	tlh_Latn	Le feu est très dangereux.	Qobqu' qul.
@@ -378,11 +391,16 @@ fra	tlh_Latn	Le livre que tu m'as donné est très intéressant.	Dajqu' paq chon
 fra	tlh_Latn	L'ennemi de mon ennemi est mon ami.	jupwI' ghaH jaghwI' jagh'e'.
 fra	tlh_Latn	Le nom de mon robot est Multi.	«Multi» 'oH qoqwI' pong'e'.
 fra	tlh_Latn	Le roi a abusé de son pouvoir.	woQDaj ghong ta'.
+fra	tlh_Latn	Les arbres sont des organismes vivants.	yInbogh yaghmey bIH Sormey'e'.
 fra	tlh_Latn	Les arbres sont verts.	SuD Sormey.
+fra	tlh_Latn	Les drogues sont bonnes.	QaQ 'enteDmey.
+fra	tlh_Latn	Les drogues sont chères.	wagh 'enteDmey.
+fra	tlh_Latn	Les drogues sont mauvaises.	qab 'enteDmey.
 fra	tlh_Latn	Les éléphants mangent de l'herbe.	magh luSop 'e'levan.
 fra	tlh_Latn	Les étudiants ne comprennent pas.	yajbe' ghojwI'pu'.
 fra	tlh_Latn	Les femmes sont au travail.	vumtaH be'pu'.
 fra	tlh_Latn	Les femmes travaillent.	vumtaH be'pu'.
+fra	tlh_Latn	Les idées ne meurent pas.	Heghbe' qechmey.
 fra	tlh_Latn	Les mots sont pour les amants. Je veux voir de l'action.	parmaqqaypu'vaD lI' mu'mey. ta'mey vIpoQ.
 fra	tlh_Latn	Le Soleil a neuf planètes.	Hut yuQ ghaj jul.
 fra	tlh_Latn	Les parents écoutent.	'IjtaH vav SoS je.
@@ -392,6 +410,7 @@ fra	tlh_Latn	Les vents de mer sont humides.	yIQ bIQ'a'vo' ghoStaHbogh SuSmey'e'.
 fra	tlh_Latn	Leurs gâteaux sont bons.	QaQ chabmeychaj.
 fra	tlh_Latn	Le vent souffle du nord.	'evvo' ghoS SuS.
 fra	tlh_Latn	Le voleur courait rapidement.	nom qet nIHwI'.
+fra	tlh_Latn	« Lorsque ? » « Jamais. »	"ghorgh?" "not."
 fra	tlh_Latn	L'Univers est un mystère.	poymar 'oH 'u''e'.
 fra	tlh_Latn	Ma bicyclette s'est volatilisée.	ngabpu' qam Do DujwIj.
 fra	tlh_Latn	Mais qu'est-ce que tu dis, le luth n'est pas une guitare!	'a nuqjatlh? leSpal 'oHbe' Supghew'e'!
@@ -415,6 +434,7 @@ fra	tlh_Latn	Mes parents m'adorent.	mumuSHa'qu' vavwI' SoSwI' je.
 fra	tlh_Latn	Mes parents sont vieux.	qan SoSwI' vavwI' je.
 fra	tlh_Latn	Mon ami a dix-sept ans.	wa'maH Soch ben boghpu' jupwI'.
 fra	tlh_Latn	Mon anniversaire approche.	ghoSlI' qoSwIj.
+fra	tlh_Latn	Mon chat m'aime.	mumuSHa' vIghro'wIj.
 fra	tlh_Latn	Mon chien a une longue queue.	tlhuQ tIq ghaj Ha'DIbaHwIj.
 fra	tlh_Latn	Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné ?	QunwI', QunwI', qatlh jIHvo' bIjaHta'?
 fra	tlh_Latn	Mon père est médecin.	Qel ghaH vavwI''e'.
@@ -432,6 +452,7 @@ fra	tlh_Latn	Notre classe compte 25 garçons et 20 filles.	ghommajDaq 25 loDHom 
 fra	tlh_Latn	N'oubliez pas vos affaires.	Dochmeyraj tIlIjQo'!
 fra	tlh_Latn	N'oubliez pas vos trucs.	Dochmeyraj tIlIjQo'!
 fra	tlh_Latn	Nous accompagnerons les enfants à l'école.	DuSaQ lujaH puqpu' 'ej DItlhej.
+fra	tlh_Latn	Nous avons baisé.	manga'chuq.
 fra	tlh_Latn	Nous avons fait...	... wIchenmoHta'.
 fra	tlh_Latn	Nous avons le problème inverse.	Dop Dochmaj qay'.
 fra	tlh_Latn	Nous devons aimer nos voisins.	jIlpu'wI' DImuSHa'nIS.
@@ -444,10 +465,13 @@ fra	tlh_Latn	Nous vivons aux États-Unis.	'amerI'qa' SepjIjQa' wIDab.
 fra	tlh_Latn	Nous vivons en société.	nughDaq mayIn.
 fra	tlh_Latn	Nous voulons aider.	maQaH wIneH.
 fra	tlh_Latn	On ne peut pas détester le type.	loDvetlh muSlu'bej.
+fra	tlh_Latn	On ne peut pas faire confiance à la police.	ghan'Iq wIvoqlaHbe'.
+fra	tlh_Latn	On ne peut pas se fier à la police.	ghan'Iq wIvoqlaHbe'.
 fra	tlh_Latn	On ne vit que deux fois.	cha' yInmey neH yIn ngIq nuv.
 fra	tlh_Latn	On sera là.	pa' maHtaHbej.
 fra	tlh_Latn	Où as-tu entendu ça ?	nuqDaq 'oH DaQoypu'?
 fra	tlh_Latn	Où est-il ?	nuqDaq ghaHtaH?
+fra	tlh_Latn	Où est ma fille ?	nuqDaq ghaHtaH puqbe'wI''e'?
 fra	tlh_Latn	Où est ma phrase ?	nuqDaq 'oH mu'tlheghwIj'e'?
 fra	tlh_Latn	Où est mon père ?	nuqDaq ghaHtaH vavwI'?
 fra	tlh_Latn	Où es-tu ?	nuqDaq SoHtaH?
@@ -460,6 +484,7 @@ fra	tlh_Latn	Pas de vie sans musique.	QoQ Hutlhbogh yIn'e' tu'lu'be'.
 fra	tlh_Latn	Passes-tu du bon temps ?	bItIv'eghtaH'a'?
 fra	tlh_Latn	Passez le bonjour à votre femme.	jIHvaD be'nallI' yIvan!
 fra	tlh_Latn	Personne n'a le droit de traduire cette phrase.	mu'tlheghvam mugh vay' net chaw'be'.
+fra	tlh_Latn	Personne n'a une âme.	qa' ghaj pagh.
 fra	tlh_Latn	Personne ne vous trouvera jamais.	not lItu' vay'.
 fra	tlh_Latn	Pose-le sur la table.	raSDaq yIlan.
 fra	tlh_Latn	Possédez-vous une maison en Italie ?	'Italya'Daq juH qach Daghaj'a'?
@@ -532,6 +557,7 @@ fra	tlh_Latn	Si vous y allez, j'y vais.	naDev DaghoSchugh naDevvo' jIghoS.
 fra	tlh_Latn	Six et quatre font dix.	jav boq loS; chen wa'maH.
 fra	tlh_Latn	Sommes-nous amis ?	juppu' maH'a'?
 fra	tlh_Latn	Son cadeau est une bouteille de vin.	HIq bal 'oH nobDaj'e'.
+fra	tlh_Latn	Son nouveau livre est magnifique.	Dun paq chu'Daj.
 fra	tlh_Latn	Sont-ils heureux ?	Quch'a'?
 fra	tlh_Latn	Sont-ils heureux ?	Quch'a' chaH?
 fra	tlh_Latn	Soyez calmes !	pejot!
@@ -614,6 +640,8 @@ fra	tlh_Latn	Vous pouvez le voir, mais vous ne pouvez pas l'emporter.	DaleghlaH 
 fra	tlh_Latn	Vous savez nager, n’est-ce pas ?	SuQallaH qar'a'?
 fra	tlh_Latn	Vous semblez détester les femmes.	be'pu' DamuSlaw'.
 fra	tlh_Latn	Vous trouverez le livre à la bibliothèque.	paqghomDaq paq Datu'.
+fra	tlh_Latn	Vous voyez un arbre.	Sor bolegh.
+fra	tlh_Latn	Vous voyez un arbre.	Sor Dalegh.
 fra	tlh_Latn	Voyez-vous mon livre ?	paqwIj bolegh'a'?
 fra	tlh_Latn	Voyons-nous mardi.	tera' poH jaj wej maghomjaj.
 fra	tlh_Latn	Y a-t-il quelqu'un ?	pa' vay' tu'lu''a'?

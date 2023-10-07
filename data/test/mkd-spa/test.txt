@@ -4,8 +4,8 @@ mkd	spa	А ти?	¿Y tú?
 mkd	spa	А Џек?	¿Y Jack?
 mkd	spa	Бакни ме.	Bésame.
 mkd	spa	Барам да молчиш.	Te pido que guardes silencio.
-mkd	spa	Ве молам говорете погласно!	Habla mas fuerte, por favor!
 mkd	spa	Веќе не ни помислувам на пари.	Ya ni pienso en dinero.
+mkd	spa	Ве молам говорете погласно!	Habla mas fuerte, por favor!
 mkd	spa	Внеси го внатре.	Tráelo adentro.
 mkd	spa	Во Бостон ли си?	¿Estás en Boston?
 mkd	spa	Во Лондон сум.	Estoy en Londres.
@@ -64,13 +64,16 @@ mkd	spa	Како одлучивте?	¿Cómo decidieron?
 mkd	spa	Како одлучивте?	¿Cómo decidió?
 mkd	spa	Како одлучивте?	¿Cómo decidisteis?
 mkd	spa	Како ти е надимакот?	¿Cuál es tu apodo?
+mkd	spa	Ќе им се јавам утре.	Los llamaré mañana.
+mkd	spa	Ќе се погрижиш ли да бидат добро нахранети?	¿Te encargarías de que estén bien alimentados?
+mkd	spa	Ќе умреш.	Vas a morir.
 mkd	spa	Книгата е мала.	El libro es chico.
 mkd	spa	Кога се случило?	¿Cuándo sucedió?
 mkd	spa	Кое е точно?	¿Cuál es el correcto?
 mkd	spa	Кои се твоите непријатели?	¿Quiénes son tus enemigos?
+mkd	spa	Кој ќе ни верува?	¿Quién nos va a creer?
 mkd	spa	Кој победи?	¿Quién ganó?
 mkd	spa	Кој сум јас?	¿Quién soy yo?
-mkd	spa	Кој ќе ни верува?	¿Quién nos va a creer?
 mkd	spa	Колку сестри имаш?	¿Cuántas hermanas tienes?
 mkd	spa	Консултирај се со својот лекар.	Consulta a tu médico.
 mkd	spa	Кучето лаеше.	El perro ladraba.
@@ -168,9 +171,9 @@ mkd	spa	Тој заборави да и купи подарок.	Él olvidó com
 mkd	spa	Том беше многу зафатен.	Tom estaba muy ocupado.
 mkd	spa	Том го отвори пивото.	Tom abrió la cerveza.
 mkd	spa	Том го спушти пенкалото.	Tom bajó la pluma.
+mkd	spa	Том е ќелав.	Tom está pelón.
 mkd	spa	Том е овде.	Tom está aquí.
 mkd	spa	Том е ранлив.	Tom es vulnerable.
-mkd	spa	Том е ќелав.	Tom está pelón.
 mkd	spa	Том е уште во кревет.	Tom todavía está en la cama.
 mkd	spa	Том е христијанин.	Tom es cristiano.
 mkd	spa	Том и вети на Мери дека нема да доцни.	Tom le prometió a Mary que no llegaría tarde.
@@ -195,9 +198,6 @@ mkd	spa	Том спиеше во автобус.	Tom durmió en el autobús.
 mkd	spa	Том треба да си оди сега.	Tom debería irse ahora.
 mkd	spa	Точно е тоа што го вели Том.	Es cierto lo que dice Tom.
 mkd	spa	Треба да си ги исчиштиш очилата?	¿Acaso deberías limpiar tus lentes?
-mkd	spa	Ќе им се јавам утре.	Los llamaré mañana.
-mkd	spa	Ќе се погрижиш ли да бидат добро нахранети?	¿Te encargarías de que estén bien alimentados?
-mkd	spa	Ќе умреш.	Vas a morir.
 mkd	spa	Ужасно е.	Es terrible.
 mkd	spa	Уживаш ли во губењето?	¿Te gusta perder?
 mkd	spa	Учам психологија.	Estudio psicología.

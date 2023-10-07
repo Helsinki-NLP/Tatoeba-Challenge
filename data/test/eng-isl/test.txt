@@ -7,6 +7,7 @@ eng	isl	Add more salt to the soup.	Bættu meira salti í súpuna.
 eng	isl	Aeschylus is not beholden to the rules of North and Hillard.	Æskýlos er ekki bundinn reglum North og Hillard.
 eng	isl	After dinner, I walk on the beach.	Eftir kvöldmat labba ég á ströndinni.
 eng	isl	After much debate, we decided to spend our holidays in Spain.	Eftir langa rökræðu ákváðum við að eyða fríinu á Spáni.
+eng	isl	After the breakup of the Soviet Union, NATO and Russia signed a written agreement that NATO would not expand eastward at the expense of the Russians.	Eftir fall Sovétríkjanna undirrituðu Atlantshafsbandalagið og Rússland skriflegt samkomulag að Atlantshafsbandalagið myndi ekki fara austur á kostnað Rússa.
 eng	isl	A genius can sometimes have rude manners.	Snillingar geta stundum verið ókurteisir.
 eng	isl	A good book is the best of friends, the same today and forever.	Góð bók er hinn besti vinur, eins í dag og um alla framtíð.
 eng	isl	A hunt is on for the runaway.	Leit er hafin að strokufanganum.
@@ -32,16 +33,19 @@ eng	isl	Although it is a very difficult task, I will do my best.	Þótt þetta s
 eng	isl	Am I pregnant?	Er ég ólétt?
 eng	isl	Among his novels, I like this best.	Af skáldsögunum hans líkar mér þessi best.
 eng	isl	An afternoon appointment is more convenient for me.	Eftirmiðdagstími væri hentugari fyrir mig.
+eng	isl	And as they continued asking him, he stood up, and said to them: he that is without sin among you, let him first cast a stone at her.	Og þegar þeir héldu áfram að spyrja hann, rétti hann sig upp og sagði við þá: 'Sá yðar, sem syndlaus er, kasti fyrstur steini á hana.'
 eng	isl	And you?	En þú?
 eng	isl	An earthquake, 8.9 on the Richter scale, hits Japan and causes a massive tsunami.	Jarðskjálfti, 8,9 á Richterskalanum, verður í Japan og veldur gríðarmikilli flóðbylgju.
 eng	isl	A nice day, isn't it? Why not go out for a walk?	Yndæll dagur, ekki satt? Hví ekki að fara í göngutúr?
 eng	isl	Answer the question.	Svaraðu spurningunni.
+eng	isl	Any book will do provided it is interesting.	Hvaða bók dugar svo lengi sem hún er áhugaverð.
 eng	isl	Anything that can be misunderstood will be.	Allt sem má misskilja verður misskilið.
 eng	isl	Aoi became a dancer.	Aóí varð dansari.
 eng	isl	Aoi dances.	Aóí dansar.
 eng	isl	Apart from his parents, nobody would defend the suspect.	Að foreldrum hans undanskildum mundi enginn verja hinn ákærða.
 eng	isl	Appearance is deceptive.	Útlit er blekkjandi.
 eng	isl	A rat is a small animal with long, pointed teeth and a long tail.	Rotta er lítið dýr með langar, oddmjóar tennur og langan hala.
+eng	isl	Aren't you surprised by his answer?	Kom þér ekki á óvart af svari hans?
 eng	isl	Aren't you thirsty?	Ertu ekki þyrstur?
 eng	isl	Are there other universes outside our own?	Eru aðrir alheimar utan okkar eigin?
 eng	isl	Are these your car keys?	Eru þetta bíllyklarnir þínir?
@@ -60,6 +64,7 @@ eng	isl	Are you here to help me?	Ertu hér til að hjálpa mér?
 eng	isl	Are you in a hurry?	Ertu að flýta þér?
 eng	isl	Are you insane?	Ertu geðveikur?
 eng	isl	Are you Japanese?	Ertu japönsk?
+eng	isl	Are you Jewish?	Ertu gyðingur?
 eng	isl	Are you on Facebook?	Ertu á Facebook?
 eng	isl	Are you saying that because you're afraid?	Segirðu það vegna þess að þú ert hræddur?
 eng	isl	Are you still collecting stamps?	Safnarðu ennþá frímerkjum?
@@ -104,10 +109,12 @@ eng	isl	Boeing developed a flying boat for the Maritime Self-Defense Force.	Boei
 eng	isl	Bring it to me.	Komdu með það til mín.
 eng	isl	Brush your teeth.	Burstaðu tennurnar.
 eng	isl	But the first thing we say is "hello."	En það fyrsta sem við segjum er „halló.“
+eng	isl	But the judgment is so: The light has come into the world, but men loved the darkness rather than the light, because their deeds were evil.	En þessi er dómurinn: Ljósið er komið í heiminn, en menn elskuðu myrkrið fremur en ljósið, því að verk þeirra voru vond.
 eng	isl	But why?	En af hverju?
 eng	isl	Call the police!	Hringið á lögregluna!
 eng	isl	Calm down.	Róaðu þig.
 eng	isl	Can I get a refund?	Get ég fengið endurgreitt?
+eng	isl	Can I have ketchup, please?	Má ég vinsamlegast fá tómatsósu?
 eng	isl	Can I help?	Get ég hjálpað?
 eng	isl	Can I leave a message?	Mætti ég skilja eftir skilaboð?
 eng	isl	Can I offer you anything else?	Má ég bjóða þér eitthvað meira?
@@ -120,6 +127,7 @@ eng	isl	Can you buy one for me as well?	Geturðu keypt eina fyrir mig líka?
 eng	isl	Can you do it in one day?	Geturðu gert það á einum degi.
 eng	isl	Can you drive a car?	Kanntu að keyra bíl?
 eng	isl	Can you get away from your parents?	Geturðu losnað frá foreldrum þínum?
+eng	isl	Can you own an oar for a river this year?	Má á ár í ár á á?
 eng	isl	Can you possibly help me?	Geturðu hugsanlega hjálpað mér?
 eng	isl	Can you put up with the way he behaves?	Þolirðu það hvernig hann hagar sér?
 eng	isl	Can you swim as fast as he?	Geturðu synt eins hratt og hann?
@@ -175,6 +183,7 @@ eng	isl	Does he speak English, French or German?	Talar hann ensku, frönsku eða
 eng	isl	Does that mean you won't come?	Þýðir það að þú komir ekki?
 eng	isl	Does Tom know why?	Veit Tom afhverju?
 eng	isl	Do good to those who hate you.	Gjörið þeim gott, sem hata yður.
+eng	isl	Dogs don't give birth to cats.	Hundar fæða ekki ketti.
 eng	isl	Do I know him?	Þekki ég hann?
 eng	isl	Do it the way he tells you to.	Gerðu það eins og hann segir þér.
 eng	isl	Don't act like that.	Láttu ekki svona.
@@ -187,6 +196,7 @@ eng	isl	Don't forget the ticket.	Ekki gleyma miðanum.
 eng	isl	Don't forget to flush the toilet.	Ekki gleyma að sturta niður.
 eng	isl	Don't forget your ticket.	Ekki gleyma farmiðanum þínum.
 eng	isl	Don't judge a person by his appearance.	Ekki dæma fólk af útliti þess.
+eng	isl	Don't let Google give any medical advice to you.	Ekki leyfa Google að gefa þér læknisráð.
 eng	isl	Don't make so much noise.	Ekki hafa svona hátt.
 eng	isl	Don't park here.	Ekki leggja hér.
 eng	isl	Don't quote me on this.	Ekki hafa þetta eftir mér.
@@ -221,6 +231,7 @@ eng	isl	Do you have any news?	Hvað er að frétta?
 eng	isl	Do you have any one dollar bills?	Ertu með nokkra eins dollara seðla?
 eng	isl	Do you have a question?	Ertu með spurningu?
 eng	isl	Do you have bread for lunch?	Borðarðu brauð í hádegismat?
+eng	isl	Do you have good memories of it?	Hefurðu góðar minningar frá þessu?
 eng	isl	Do you have grandchildren?	Áttu barnabörn?
 eng	isl	Do you know him?	Þekkiði hann?
 eng	isl	Do you know him?	Þekkirðu hann?
@@ -229,6 +240,7 @@ eng	isl	Do you know Tom well?	Þekkirðu Tom vel?
 eng	isl	Do you know where Mrs. Hudson lives?	Veistu hvar frú Hudson býr?
 eng	isl	Do you know where the girl lives?	Veistu hvar stelpan býr?
 eng	isl	Do you know who he is?	Veistu hver hann er?
+eng	isl	Do you like chess?	Finnst þér skemmtilegt skákmát?
 eng	isl	Do you love your mother?	Elskar þú móður þína?
 eng	isl	Do you mind if I smoke?	Er þér sama þótt ég reyki?
 eng	isl	Do you own a house in Italy?	Áttu hús á Ítalíu?
@@ -240,14 +252,18 @@ eng	isl	Do you speak German?	Taliði þýsku?
 eng	isl	Do you think he is the guy that broke the window?	Heldurðu að það hafi verið hann sem braut rúðuna?
 eng	isl	Do you think we'll reach his house before noon?	Heldur þú að við náum heim til hans fyrir hádegi?
 eng	isl	Do you want tea or coffee?	Vilt þú te eða kaffi?
+eng	isl	Do you want to grab a beer?	Viltu grípa bjór?
 eng	isl	Do you want to work in Germany?	Viltu vinna í Þýskalandi?
+eng	isl	Drawing a triangle is usually the "Hello, World!" equivalent when programming for a graphics card.	Að teikna þríhyrning er yfirleitt útgáfan af „Halló, Heimur!“ fyrir forritun skjákorta.
 eng	isl	Each child was given a present.	Hverju barni var gefin gjöf.
 eng	isl	Each person paid a thousand dollars.	Hver einstaklingur borgaði þúsund dollara.
 eng	isl	Each player did his best.	Hver leikmaður gerði sitt besta.
 eng	isl	Easier said than done.	Auðveldara sagt en gert.
+eng	isl	Eat my shit.	Étu skít minn.
 eng	isl	Economic development proceeded slowly.	Efnahagsleg þróun gekk hægt áfram.
 eng	isl	Education is the key to success.	Menntun er lykillinn að velgegni.
 eng	isl	Empty the drawer of its contents.	Tæmdu úr skúffunum.
+eng	isl	End of quote. Repeat the line.	Lok tilvitnunar. Endurtaktu línuna.
 eng	isl	English is a common language for many Asians.	Enska er sameiginlegt tungumál margra Asíubúa.
 eng	isl	English is spoken in Singapore.	Það er töluð enska í Singapúr.
 eng	isl	English is used by many people.	Enska er notuð af mörgum manneskjum.
@@ -272,6 +288,7 @@ eng	isl	Fertile soil is indispensable for a good harvest.	Næringarríkur jarðv
 eng	isl	Fill it up.	Fylla hann.
 eng	isl	Financial support is given to them.	Þeim er veitt fjárhagsaðstoð.
 eng	isl	For a bit of a change from red meat, for tonight I've cooked turkey breasts in mushroom sauce.	Til að taka smá frí frá rauðu kjöti, eldaði ég kalkúnabringur í sveppasósu í kvöldmatinn í kvöld.
+eng	isl	For clarity, we'll give an example.	Til skýrleika skulum við gefa dæmi.
 eng	isl	Forget your troubles for a while and come and have dinner with us.	Gleymdu vandamálum þínum um stund og borðaðu kvöldmat með okkur.
 eng	isl	Fork-users have historically been in the minority.	Gaffalnotendur hafa sögulega verið í minnihluta.
 eng	isl	For some reason I couldn't access my e-mail.	Af einhverri ástæðu komst ég ekki í tölvupóstinn minn.
@@ -281,6 +298,7 @@ eng	isl	Fox missed a chance to be a movie star.	Fox missti af tækifæri til að
 eng	isl	Fred followed my mother wherever she went.	Fred elti móður mína hvert sem hún fór.
 eng	isl	From time to time she stopped and looked round.	Öðru hverju stoppaði hún og leit í kringum sig.
 eng	isl	Fuck!	Fokk!
+eng	isl	Fundamentals are important.	Grundvallaratriði eru mikilvæg.
 eng	isl	Generally, men are taller than women.	Karlmenn eru almennt hávaxnari en konur.
 eng	isl	Germany adopted a social security system in the 1880's.	Þýskaland kom á fót velferðarkerfi á níunda áratug nítjándu aldar.
 eng	isl	Germany made an alliance with Italy.	Þýskaland gekk í bandalag með Ítalíu.
@@ -290,9 +308,11 @@ eng	isl	Girls like to show off their fine clothes.	Stúlkum líkar að sýna fí
 eng	isl	Give it to him.	Gefðu honum það.
 eng	isl	Give me a call later, OK?	Hringdu í mig á eftir, okei?
 eng	isl	Give me just a little.	Gefðu mér bara smá.
+eng	isl	Go and don't worry about anything.	Farðu og ekki hafa áhyggjur af neinu.
 eng	isl	Go and see who it is.	Farið og athugið hver þetta er.
 eng	isl	Go and wake Mary up.	Farðu og vektu Mary.
 eng	isl	Go away!	Farðu!
+eng	isl	God is Spirit, and those who worship him must worship in spirit and truth.	Guð er andi, og þeir, sem tilbiðja hann, eiga að tilbiðja í anda og sannleika.
 eng	isl	Goodbye!	Vertu blessaður.
 eng	isl	Goodbye!	Vertu sæl!
 eng	isl	Good evening.	Gott kvöld.
@@ -304,6 +324,7 @@ eng	isl	Good night!	Góða nótt.
 eng	isl	Google is a liar.	Google er lygari.
 eng	isl	Go straight down the road, and when you pass the traffic light you're there.	Farðu beint niður eftir götunni og þegar þú ferð framhjá umferðarljósunum ertu komin.
 eng	isl	Go straight down the road, and when you pass the traffic light you're there.	Farðu beint niður eftir götunni og þegar þú ferð framhjá umferðarljósunum ertu kominn.
+eng	isl	Grass is for cows.	Gras er fyrir kýr.
 eng	isl	Greetings are the basis of good manners.	Kveðjur eru grundvöllur góðra mannasiða.
 eng	isl	Hang your jacket on the hook by the door.	Hengdu jakkann á snagann við dyrnar.
 eng	isl	Hang your jacket on the hook by the door.	Hengdu jakkann þinn á krókinn við dyrnar.
@@ -312,8 +333,10 @@ eng	isl	Happy New Year!	Gleðilegt nýár!
 eng	isl	Has the flat got three bedrooms?	Hefur íbúðin þrjú svefnherbergi?
 eng	isl	Has this ever been done before?	Hefur þetta nokkurtíma verið gert áður?
 eng	isl	Has this ever been done before?	Hefur þetta verið gert nokkurtíma áður?
+eng	isl	Hating someone is so easy.	Það er svo auðvelt að hata einhvern.
 eng	isl	Have a nice day.	Hafðu það gott í dag.
 eng	isl	Have a nice Thanksgiving!	Góða þakkargjörðarhátíð!
+eng	isl	Have a wonderful Christmas.	Eigið yndisleg jól.
 eng	isl	Have you ever been to Hawaii, Takuya?	Hefurðu nokkurtíma komið til Hawaii, Takuja?
 eng	isl	Have you ever had cheese with apple pie?	Hefurðu nokkurntíma fengið þér ost með eplaköku?
 eng	isl	Have you ever visited the office where your father works?	Hefurðu einhverntíma farið á skrifstofuna þar sem pabbi þinn vinnur?
@@ -344,6 +367,7 @@ eng	isl	He can read and write.	Hann getur lesið og skrifað.
 eng	isl	He can run faster than I can.	Hann getur hlaupið hraðar en ég.
 eng	isl	He can't swim.	Hann kann ekki að synda.
 eng	isl	He comes from Geneva.	Hann er frá Genf.
+eng	isl	He couldn't finish the sandwich.	Hann gat ekki klárað samlokuna.
 eng	isl	He despises people of a lower social class.	Hann fyrirlítur fólk úr lægri samfélagsstéttum.
 eng	isl	He did better than last time.	Hann gerði betur en seinast.
 eng	isl	He did it anyway.	Hann gerði það samt.
@@ -364,6 +388,7 @@ eng	isl	He gave me a promise to come here at five.	Hann lofaði mér að koma hi
 eng	isl	He goes by the name of Kenchan.	Hann gengur undir nafninu Kenchan.
 eng	isl	He grabbed me by the collar.	Hann greip í hálsmálið á mér.
 eng	isl	He had a great fancy for traveling.	Hann hafði mikinn áhuga á ferðalögum.
+eng	isl	He had a heart attack while taking a hot bath.	Hann fékk hjartaáfall í heitu baði.
 eng	isl	He had grey hair.	Hann var með grátt hár.
 eng	isl	He had the courage to expose the scandal.	Hann var nógu hugrakkur til að koma upp um hneykslið.
 eng	isl	He had the presumption to reject my proposal.	Hann var svo ósvífinn að hafna tillögunni minni.
@@ -380,8 +405,10 @@ eng	isl	He is afraid of Father.	Hann er hræddur við pabba.
 eng	isl	He is a handsome man.	Hann er myndarlegur maður.
 eng	isl	He is always with me.	Hann er alltaf hjá mér.
 eng	isl	He is a man of action.	Hann er maður aðgerða.
+eng	isl	He is a true son of his father.	Hann er sannur sonur föður síns.
 eng	isl	He is coarse in manner.	Hann er grófur í framkomu.
 eng	isl	He is extremely strong.	Hann er ákaflega sterkur.
+eng	isl	He is good at mathematics.	Hann er fær um stærðfræði.
 eng	isl	He is guilty of theft.	Hann er sekur um þjófnað.
 eng	isl	He is her friend.	Hann er hennar vinur.
 eng	isl	He is no more a fool than you are.	Hann er engu meira flón en þú.
@@ -393,6 +420,7 @@ eng	isl	He is still alive.	Hann er enn á lífi.
 eng	isl	He is still standing.	Hann stendur enn.
 eng	isl	He is studying at his desk.	Hann er að læra við skrifborðið sitt.
 eng	isl	He is washing the car.	Hann er að þrífa bílinn.
+eng	isl	He is wealthy.	Hann er ríkur.
 eng	isl	He is wise enough not to do such a thing.	Hann er nógu skynsamur til að gera ekki þannig lagað.
 eng	isl	He keeps two cats.	Hann á tvo ketti.
 eng	isl	He killed him to avenge his dead father.	Hann drap hann til að hefna látins föður síns.
@@ -432,9 +460,11 @@ eng	isl	Her house is close to the park.	Húsið hennar er nálægt garðinum.
 eng	isl	He runs very fast.	Hann hleypur mjög hratt.
 eng	isl	Her voice could hardly be heard over the noise.	Það var varla hægt að heyra rödd hennar yfir hávaðann.
 eng	isl	He's a big science fiction fan.	Hann er mikill aðdáandi vísindaskáldskapar.
+eng	isl	He's also busy.	Hann er líka upptekinn.
 eng	isl	He sat on the bed.	Hann sat á rúminu.
 eng	isl	He says he will not give up smoking.	Hann segist ekki munu hætta að reykja.
 eng	isl	He's completely shunned. I'm surprised he's still working here.	Hann er fullkomlega hunsaður. Ég er undrandi á því að hann vinni hérna enn.
+eng	isl	He sees her dog.	Hann sér hundinn hennar.
 eng	isl	He's funny and cool.	Hann er fyndinn og töff.
 eng	isl	He's her friend.	Hann er vinur hennar.
 eng	isl	He should be back any minute now.	Hann ætti að koma aftur hvað úr hverju.
@@ -445,6 +475,7 @@ eng	isl	He's sleeping like a baby.	Hann sefur eins og barn.
 eng	isl	He stopped to smoke.	Hann hætti að reykja.
 eng	isl	He's very fond of science fiction.	Hann er mjög hrifinn af vísindaskáldsögum.
 eng	isl	He's very good at guitar.	Hann er mjög góður á gítar.
+eng	isl	He then ordered that I move his body to Virginia and that he be laid in an open coffin in a tomb.	Hann skipaði svo fyrir, að ég flytti líkama hans til Virginia og að hann yrði lagður í opna kistu í grafhvelfingu.
 eng	isl	He took off his hat.	Hann tók af sér hattinn.
 eng	isl	He took off his hat.	Hann tók hattinn ofan.
 eng	isl	He took the heavy box down from the shelf.	Hann tók þunga kassann niður af hillunni.
@@ -462,6 +493,7 @@ eng	isl	He was very happy.	Hann var mjög hamingjusamur.
 eng	isl	He was very patient.	Hann var mjög þolinmóður.
 eng	isl	He watched after the children as they were swimming.	Hann leit eftir börnunum meðan þau voru að synda.
 eng	isl	He went home yesterday.	Hann fór heim í gær.
+eng	isl	He who dares not offend cannot be honest.	Sá sem þorir ekki að móðga getur ekki verið hreinskilinn.
 eng	isl	He who laughs last, laughs best.	Sá hlær best sem síðast hlær.
 eng	isl	He will do his best.	Hann mun gera sitt besta.
 eng	isl	He will never break his promise.	Hann mun aldrei ganga á bak loforði.
@@ -530,6 +562,9 @@ eng	isl	How long will it take?	Hvað mun það taka langan tíma?
 eng	isl	How lucky we are to have had the opportunity to work with you!	Hve heppin við erum að hafa fengið tækifæri til að vinna með þér!
 eng	isl	How many people are there on the payroll?	Hversu margir eru á launaskránni?
 eng	isl	How many times a day do you look at yourself in the mirror?	Hversu oft á dag skoðar þú sjálfan þig í speglinum?
+eng	isl	How many weeks are in a year?	Hversu margar vikur eru á ári?
+eng	isl	How many weeks are in a year?	Hversu margar vikur eru í ári?
+eng	isl	"How much does one kilo of rice weigh?" "What do you think?"	„Hversu þungt er kíló af hrísgrjónum?“ „Hvað heldurðu?“
 eng	isl	How much does this cost?	Hvað kostar þetta?
 eng	isl	How much is your monthly gas bill?	Hversu hár er mánaðarlegi gasreikningurinn ykkar?
 eng	isl	How often a week do you take a bath?	Hversu oft á viku ferðu í bað?
@@ -537,12 +572,15 @@ eng	isl	How old am I?	Hversu gamall er ég?
 eng	isl	How old am I?	Hversu gömul er ég?
 eng	isl	How old will you be next year?	Hversu gamall verðurðu á næsta ári?
 eng	isl	How old will you be next year?	Hversu gömul verðurðu á næsta ári?
+eng	isl	How small is this thing?	Hversu lítill er þessi hlutur?
 eng	isl	How's Tom's cold?	Er kvefið í Tom að skána?
 eng	isl	How's your cold?	Hvernig er kvefið þitt?
 eng	isl	How was the dance?	Hvernig var dansinn?
 eng	isl	How was the math test?	Hvernig var stærðfræðikeppnin?
 eng	isl	How well she cooks!	Hve vel hún eldar!
 eng	isl	Human beings are not always wiser than animals.	Mennirnir eru ekki alltaf gáfaðari en dýrin.
+eng	isl	Humans are evolving, just backwards.	Menn eru að þróast en bara afturábak.
+eng	isl	Humans cannot wake up at six in the morning!	Mannfólk getur ekki vaknað um sex að morgni!
 eng	isl	Hunting is prohibited in this area.	Veiðar eru bannaðar á þessu svæði.
 eng	isl	Hurry up, or you will be late.	Flýtið ykkur eða þið verðið seinar.
 eng	isl	Hurry up, or you won't catch up with him.	Flýtið ykkur eða þið munuð ekki ná honum.
@@ -562,6 +600,7 @@ eng	isl	I am going to spend the weekend in Kanazawa.	Ég ætla að eyða vikunni
 eng	isl	I am leaving the books here.	Ég skil bækurnar eftir hér.
 eng	isl	I am looking forward to seeing you.	Ég hlakka til að hitta þig.
 eng	isl	I am married and have two children.	Ég er giftur og á tvö börn.
+eng	isl	I am my battles.	Ég er mínir bardagar.
 eng	isl	I am no longer tired.	Ég er ekki lengur þreyttur.
 eng	isl	I am no match for him.	Ég er honum enginn jafnoki.
 eng	isl	I am not able to do that because I don't have enough money.	Ég get ekki gert það vegna þess að ég á ekki næga peninga.
@@ -605,6 +644,7 @@ eng	isl	I can't stop sneezing.	Ég get ekki hætt að hnerra.
 eng	isl	I can't take it anymore! I haven't slept for three days!	Ég þoli þetta ekki lengur! Ég hef ekki sofið í þrjá daga!
 eng	isl	I can't understand why John turned down a job as good as that.	Ég get ekki skilið hví John hafnaði svo góðri vinnu.
 eng	isl	I caught him cheating in the examination.	Ég stóð hann að svindli í prófinu.
+eng	isl	Icelandic is my favorite language.	Íslenska er uppáhalds tungumálið mitt.
 eng	isl	I come from Australia.	Ég er frá Ástralíu.
 eng	isl	I come from Italy and I speak Italian.	Ég er frá Ítalíu og tala ítölsku.
 eng	isl	I could not stand my house being torn down.	Ég þoldi ekki að húsið mitt væri rifið.
@@ -627,6 +667,7 @@ eng	isl	I don't feel like helping you.	Ég er ekki í skapi til að hjálpa þé
 eng	isl	I don't feel like studying.	Ég er ekki í skapi til að læra.
 eng	isl	I don't feel like watching TV tonight.	Ég er ekki í skapi til að horfa á sjónvarpið í kvöld.
 eng	isl	I don't feel well.	Mér líður ekki vel.
+eng	isl	I don't have any money in my pocket.	Ég hef ekkert klínk í vasa.
 eng	isl	I don't have money.	Ég á engan pening.
 eng	isl	I don't have much money.	Ég á ekki mikinn pening.
 eng	isl	I don't know any blind men.	Ég þekki ekki neina blinda menn.
@@ -634,6 +675,7 @@ eng	isl	I don't know.	Ég veit það ekki.
 eng	isl	I don't know how to drive.	Ég kann ekki að keyra.
 eng	isl	I don't know how to express my thanks.	Ég veit ekki hvernig ég get látið þakklæti mitt í ljós.
 eng	isl	I don't know how you were able to do this to us.	Ég veit ekki hvernig þú gast gert okkur þetta.
+eng	isl	I don't know what I'm going to decide yet.	Ég veit ekki ennþá hvað ég ákveð.
 eng	isl	I don't know what that is.	Ég veit ekki hvað þetta er.
 eng	isl	I don't like learning irregular verbs.	Mér líkar ekki að læra óreglulegar sagnir.
 eng	isl	I don't mind if you smoke.	Mér er sama þótt þú reykir.
@@ -659,6 +701,7 @@ eng	isl	If I had not overslept, I would have been in time for school.	Hefði ég
 eng	isl	I find that funny.	Mér finnst það fyndið.
 eng	isl	I find words with concise definitions to be the easiest to remember.	Mér þykir auðveldast að muna orð með gagnyrtum skilgreiningum.
 eng	isl	I found it difficult to put it into practice.	Mér þótti erfitt að framkvæma það.
+eng	isl	I found your dog.	Ég fann hundinn þinn.
 eng	isl	If so, what did they read?	Ef svo er, hvað lásu þau?
 eng	isl	If there were no air, people could not live for even ten minutes.	Ef það væri ekkert loft mundi fólk ekki einu sinni geta lifað í tíu mínútur.
 eng	isl	If we are to judge the future of ocean study by its past, we can surely look forward to many exciting discoveries.	Ef við dæmum framtíð hafrannsókna af fortíðinni, getum við sannarlega hlakkað til margra spennandi uppgötvana.
@@ -670,6 +713,7 @@ eng	isl	If you go on drinking so much, you may well end up an alcoholic.	Ef þú
 eng	isl	If you have a cold, you should get plenty of rest.	Ef þú ert kvefaður ættirðu að hvíla þig vel.
 eng	isl	If you promise something, keep your word.	Ef þú lofar einhverju, stattu þá við það.
 eng	isl	If you're going to the supermarket, will you please bring me back some oranges?	Ef þú ætlar út í búð, geturðu keypt nokkrar appelsínur handa mér?
+eng	isl	If you're not the villain in someone's story then you're not doing much of anything.	Ef maður er ekki illmennið í sögu einhvers þá er hann ekki að gera neitt mikið.
 eng	isl	If your prices are competitive, we will place a large order.	Ef verðin hjá þér eru samkeppnishæf munum við leggja fyrir stóra pöntun.
 eng	isl	If you think you understand quantum mechanics, you don't understand quantum mechanics.	Ef þú telur þig skilja skammtafræði, þá skilurðu ekki skammtafræði.
 eng	isl	If you want a pencil, I'll lend you one.	Ef þig vantar blýant skal ég lána þér.
@@ -701,6 +745,7 @@ eng	isl	I had trouble getting a taxi.	Ég átti í erfiðleikum með að fá lei
 eng	isl	I hate fireworks.	Ég hata flugelda.
 eng	isl	I hate politics.	Ég hata pólitík.
 eng	isl	I hate taking risks.	Ég hata að taka áhættu.
+eng	isl	I hate the English language and everything related to it.	Ég hata ensku og allt sem tengist henni.
 eng	isl	I have a cat and a dog.	Ég á hund og kött.
 eng	isl	I have a daughter.	Ég á dóttur.
 eng	isl	I have a dictionary.	Ég á orðabók.
@@ -715,6 +760,7 @@ eng	isl	I have a slight headache.	Ég er með vægan höfuðverk.
 eng	isl	I have been anxious about your health.	Ég hef verið kvíðinn yfir heilsufari þínu.
 eng	isl	I have breakfast at seven.	Ég fæ mér morgunmat klukkan sjö.
 eng	isl	I have class tomorrow.	Ég er í tíma á morgun.
+eng	isl	I have feelings of guilt at the things I did.	Ég hef sektarkennd yfir hverju ég gerði.
 eng	isl	I have finished my homework.	Ég er búinn með heimavinnuna mína.
 eng	isl	I have five sons. Two of them are engineers, another is a teacher and the others are students.	Ég á fimm syni. Tveir þeirra eru verkfræðingar, einn er kennari og hinir eru í námi.
 eng	isl	I have got to go now.	Ég þarf að fara núna.
@@ -725,6 +771,7 @@ eng	isl	I have nothing to tell you for the moment.	Ég hef ekkert að segja þé
 eng	isl	I have no time to explain this in detail.	Ég hef engann tíma til að útskýra þetta í þaula.
 eng	isl	I haven't decided yet.	Ég er ekki enn búin að ákveða mig.
 eng	isl	I haven't decided yet.	Ég er ekki ennþá búin að ákveða mig.
+eng	isl	I have social phobia.	Ég hef félagsfælni.
 eng	isl	I have so much work to do that I have to put off my trip.	Ég hef svo mikið að gera að ég verð að fresta ferðinni minni.
 eng	isl	I have to blow my nose all the time.	Ég þarf stöðugt að vera að snýta mér.
 eng	isl	I have to do laundry while it's still sunny.	Ég verð að þvo þvott á meðan sólskinið varir.
@@ -743,6 +790,7 @@ eng	isl	I hope you enjoy your flight.	Ég vona að þú njótir flugsins.
 eng	isl	I hurried home.	Ég flýtti mér heim.
 eng	isl	I intend to write a letter to Judy.	Ég ætla að skrifa bréf til Judy.
 eng	isl	I just hope no one saw me.	Ég vona bara að enginn hafi séð mig.
+eng	isl	I knew them both.	Ég þekkti þau bæði.
 eng	isl	I knew you'd come to save me.	Ég vissi að þú kæmir til að bjarga mér.
 eng	isl	I knocked on the door, but nobody answered.	Ég bankaði á hurðina en enginn kom til dyra.
 eng	isl	I know him very well.	Ég þekki hann mjög vel.
@@ -778,6 +826,7 @@ eng	isl	I'll foot the bill.	Ég skal sjá um reikninginn.
 eng	isl	I'll get it.	Ég skal sækja hann.
 eng	isl	I'll give you Dr. Shiegal's telephone number.	Ég skal láta þig fá símanúmer Shiegal læknis.
 eng	isl	I'll look up this word in the dictionary.	Ég ætla að fletta þessu orði upp í orðabókinni.
+eng	isl	I'll never be able to understand women.	Ég næ aldrei að skilja konur.
 eng	isl	I'll see to it.	Ég sé til þess.
 eng	isl	I'll stay home today.	Ég verð heima í dag.
 eng	isl	I look forward to seeing you again very soon.	Ég hlakka til að heyra frá þér mjög bráðlega.
@@ -786,6 +835,7 @@ eng	isl	I look forward to your comments on the report.	Ég hlakka til að sjá a
 eng	isl	I love astronomy.	Ég dýrka stjörnufræði.
 eng	isl	I love her because of how patient she is.	Ég elska hana vegna þess hve þolinmóð hún er.
 eng	isl	I love her because she is patient.	Ég elska hana vegna þess að hún er þolinmóð.
+eng	isl	I love little girls.	Ég elska litlar stelpur.
 eng	isl	I love reading books.	Ég elska að lesa bækur.
 eng	isl	I love you more than her.	Ég elska þig meira en hana.
 eng	isl	I'm a bit tired.	Ég er svolítið þreyttur.
@@ -829,6 +879,8 @@ eng	isl	I'm glad to see you, Tom.	Gleður mig að sjá þig, Tom.
 eng	isl	I'm glad we met.	Ég á ánægður að við hittumst.
 eng	isl	I'm going through my closet to find clothes to give to charity.	Ég er að fara í gegnum skápinn minn til að finna föt til að gefa til góðgerðamála.
 eng	isl	I'm going to Hanover with you.	Ég ætla með þér til Hanover.
+eng	isl	I'm going to miss you!	Ég mun sakna þín!
+eng	isl	I'm going to order another beer.	Ég ætla að panta annan bjór.
 eng	isl	I'm going to see her off at the airport at 2:00.	Ég ætla að kveðja hana á flugvellinum klukkan tvö.
 eng	isl	I'm happy to see you again.	Það gleður mig að sjá þig aftur.
 eng	isl	I'm healthy.	Ég er hraustur.
@@ -867,6 +919,7 @@ eng	isl	I'm starving!	Ég er glorsoltinn!
 eng	isl	I'm sure I'll be able to find it.	Ég er viss um að muni geta fundið það.
 eng	isl	I'm thirsty.	Ég er þyrst.
 eng	isl	I'm tired.	Ég er þreitt.
+eng	isl	I'm tired of living.	Ég er þreytt á að lifa.
 eng	isl	I'm translating this sentence from English into Icelandic.	Ég er að þýða þessa setningu úr ensku yfir á íslensku.
 eng	isl	I'm trying to work out this problem.	Ég er að reyna að leysa þetta vandamál.
 eng	isl	I'm undressing.	Ég er að fara úr fötunum.
@@ -902,6 +955,7 @@ eng	isl	I ran into an old friend of mine at the party the other day.	Ég rakst �
 eng	isl	I really don't know much about that.	Ég veit í alvöru ekki mikið um það.
 eng	isl	I remember the day when we first met.	Ég man daginn sem við hittumst fyrst.
 eng	isl	Isaac was a leader of the Jewish people.	Ísak var einn leiðtoga Gyðinga.
+eng	isl	I said "fair fish in the sea."	Ég sagði „Fagur fiskur í sjó.”
 eng	isl	I saw him cross the street as I got off the bus.	Ég sá hann fara yfir götuna þegar ég steig úr vagninum.
 eng	isl	I saw him swim across the river.	Ég sá hann synda yfir ána.
 eng	isl	I saw nothing.	Ég sá ekkert.
@@ -923,6 +977,7 @@ eng	isl	I speak Spanish to God, Italian to women, French to men, and German to m
 eng	isl	I spoke to the boy, who seemed to be older than the girl.	Ég talaði við strákinn sem virtist eldri en stelpan.
 eng	isl	Is she Japanese?	Er hún Japani?
 eng	isl	Is somebody there?	Er einhver þarna?
+eng	isl	I stand against Israel.	Ég stend á móti Ísrael.
 eng	isl	I stared back at her in surprise.	Ég starði til baka á hana í undrun.
 eng	isl	I started learning Chinese last week.	Ég byrjaði að læra kínversku í seinustu viku.
 eng	isl	I stayed at home last night.	Ég var heima í gærkveldi.
@@ -938,6 +993,8 @@ eng	isl	I study at the library.	Ég læri á bókasafninu.
 eng	isl	I study Korean.	Ég læri Kóresku.
 eng	isl	I swear, John. As of today, I quit smoking.	Ég sver, John. Frá deginum í dag er ég hættur að reykja.
 eng	isl	I swim in the sea every day.	Ég syndi í sjónum á hverjum degi.
+eng	isl	I swim like a fish.	Ég syndi eins og fiskur.
+eng	isl	Is your brother younger than you?	Er bróðir þinn yngri en þú?
 eng	isl	I take it that you are fully acquainted with the facts.	Ég geri ráð fyrir því að þú sért fyllilega kunnugur staðreyndunum.
 eng	isl	I take the book because I see it.	Ég tek bókina því að ég sé hana.
 eng	isl	It can't be!	Það getur ekki verið!
@@ -1016,6 +1073,7 @@ eng	isl	It's a pity that you can't buy miracles like you would buy potatoes.	Þa
 eng	isl	It's bedtime.	Það er tími til að fara í háttinn.
 eng	isl	It's below her to say such a thing.	Það er fyrir neðan hennar virðingu að segja svona lagað.
 eng	isl	It's coming up to Christmas here and all the shops are like "Buy! Buy! Buy!"	Jólin eru að nálgast og allar búðirnar keppast um að kalla: "Kaupið! Kaupið! Kaupið!"
+eng	isl	It's convenient to live so close to the station.	Það er þægilegt að búa svo nálægt stöðinni.
 eng	isl	It's dark, so watch your step.	Það er dimmt svo passaðu hvar þú stígur.
 eng	isl	It seems that no one knows the truth.	Það virðist vera að enginn viti sannleikann.
 eng	isl	It seems that the rich part of humanity doesn't care much for the problems of the poor part.	Það virðist sem ríki hluti mannkyns varði sig lítið um vandamál fátæka hlutans.
@@ -1025,6 +1083,8 @@ eng	isl	It's freezing in this room, Cindy. I can't put up with this cold.	Það 
 eng	isl	It's getting dark little by little outside.	Það er smám saman að dimma úti.
 eng	isl	It's half past eight.	Klukkan er hálf níu.
 eng	isl	It's hard to love someone when one doesn't know whether one is loved as much as one loves.	Það er erfitt að elska þegar maður veit ekki hvort maður er elskaður jafn mikið og maður elskar.
+eng	isl	It's hard to stay calm in a situation like that.	Það er erfitt að halda ró sinni við slíkar aðstæður.
+eng	isl	It's hard to stay calm in a situation like that.	Það er erfitt að vera rólegur í svona stöðu.
 eng	isl	It's important to unite as many workers as possible.	Það er mikilvægt að sameina eins marga verkamenn og hægt er.
 eng	isl	It's impossible to make a generalization with such poorly obtained data.	Það er ómögulegt að alhæfa út frá svona illa söfnuðum gögnum.
 eng	isl	It's in your interest to go.	Það er í þína eigin þágu að fara.
@@ -1039,11 +1099,13 @@ eng	isl	It's not rocket science.	Þetta er ekki eldflaugavísindi.
 eng	isl	It's no trouble. Really.	Það er engin fyrirhöfn. Í alvörunni.
 eng	isl	It's not that far.	Það er ekki svo langt.
 eng	isl	It's not there.	Þetta er ekki þar.
+eng	isl	It's now half past one.	Klukkan er nú hálf tvö.
 eng	isl	It's now or never.	Nú eða aldrei.
 eng	isl	It's OK.	Það er í lagi.
 eng	isl	It's our pleasure.	Okkar er ánægjan.
 eng	isl	It's peculiar.	Það er skrýtið.
 eng	isl	It's quite true.	Það er frekar satt.
+eng	isl	It's so easy to hate someone.	Það er svo auðvelt að hata einhvern.
 eng	isl	It's still there.	Það er enn þar.
 eng	isl	It's still there.	Það er enn þá þarna.
 eng	isl	It's super easy!	Það er rosalega auðvelt!
@@ -1073,9 +1135,13 @@ eng	isl	It will take five to ten years for the technology to be ready.	Það mun
 eng	isl	It would be best for you to follow the doctor's orders.	Það er þér fyrir bestu að fylgja ráðleggingum læknisins.
 eng	isl	It would be so cool if I could speak ten languages!	það væri frábært ef ég gæti talað þrjú tungumál.
 eng	isl	I used to go fishing quite often, but now I rarely go.	Áður fór ég nokkuð oft í veiði en nú fer ég sjaldan.
+eng	isl	I used to have a crush on my friend.	Ég var hrifin af vini mínum áður fyrr.
+eng	isl	I used to have a crush on my friend.	Ég var hrifinn af vini mínum áður fyrr.
 eng	isl	I used to stay up long into the night.	Ég var vanur að vaka langt fram á nótt.
 eng	isl	I usually went to the movies on Sunday.	Ég fór yfirleitt í bíó á sunnudögum.
 eng	isl	I've asked him three times to take out the trash and he still hasn't done it!	Ég er búinn að biðja hann þrisvar sinnum um að fara út með ruslið og hann er ekki enn búinn að því!
+eng	isl	I've been away a few weeks.	Ég var í burtu í nokkrar vikur.
+eng	isl	I've been gone for a few weeks.	Ég var í burtu í nokkrar vikur.
 eng	isl	I've done my best.	Ég hef gert mitt besta.
 eng	isl	I've finally got used to urban life.	Ég hef loksins vanist borgarlífinu.
 eng	isl	I've got good news.	Ég er með fréttir
@@ -1091,6 +1157,7 @@ eng	isl	I waited for her till it got dark.	Ég beið eftir henni þar til það 
 eng	isl	I want a computer.	Mig langar í tölvu.
 eng	isl	I want more.	Ég vil meira.
 eng	isl	I want my mother to get well soon.	Ég vil að mömmu minni batni skjótt.
+eng	isl	I want to buy sunglasses.	Mig langar að kaupa sólgleraugu.
 eng	isl	I want to die with Getter Jaani.	Mig langar til að deyja með Getter Jaani.
 eng	isl	I want to dive into the river.	Mig langar til þess að dýfa mér ofan í ána.
 eng	isl	I want to go to Germany.	Mig langar að fara til Þýskalands.
@@ -1133,10 +1200,12 @@ eng	isl	I will look after your child this evening.	Ég skal passa barnið þitt 
 eng	isl	I will never forget the day when I first met him.	Ég gleymi aldrei deginum sem ég sá hann fyrst.
 eng	isl	I wish people would stop saying things in ways that crush young dreams.	Ég vildi óska að fólk mundi hætta að segja hluti á vegu sem rústa ungum draumum.
 eng	isl	I wish she had come last night.	Ég vildi óska þess að hún hefði komið í gærkveldi.
+eng	isl	I woke up in a bad mood.	Ég vaknaði í slæmu skapi.
 eng	isl	I wonder if we could run into any problems with the company.	Ætli við getum lent í vandamálum gagnvart fyrirtækinu?
 eng	isl	I wonder who started that rumor.	Hver ætli hafa byrjað þá sögusögn?
 eng	isl	I wonder who started that rumor.	Hver skyldi hafa byrjað þá Gróusögu?
 eng	isl	I wonder why John is always late for school.	Af hverju ætli John sé alltaf seinn í skólann?
+eng	isl	I won't get vaccinated.	Ég læt ekki bólusetja mig.
 eng	isl	I won't go skating today.	Ég fer ekki á skauta í dag.
 eng	isl	I won't go there again.	Ég mun ekki fara þangað aftur.
 eng	isl	I won't lower myself to his level.	Ég mun ekki síga niður á hans plan.
@@ -1196,6 +1265,7 @@ eng	isl	Just as I went to go out, it began to rain.	Í því að ég var að far
 eng	isl	Kate drinks a lot of milk every day.	Kate drekkur mikið af mjólk á hverjum degi.
 eng	isl	Ken decided on going abroad.	Ken ákvað að fara til útlanda.
 eng	isl	Kids, listen!	Krakkar, hlustið!
+eng	isl	Kill that nigger.	Dreptu þennan negra.
 eng	isl	Kindly refrain from smoking.	Vinsamlegast reykið ekki.
 eng	isl	Kissing a smoker is like licking an ashtray.	Að kyssa reykingarmann er eins og að sleikja öskubakka.
 eng	isl	Know your roots.	Þekktu rætur þínar.
@@ -1223,6 +1293,8 @@ eng	isl	Let's think about the worst that could happen.	Hugsum um það versta se
 eng	isl	Life is but a flash of lightning and beauty lasts only a day! Think of the skulls of the dead that all are alike.	Lífið er ekki nema leiftur, fegurðin endist einn enstakan dag! Hugsaðu um hauskúpur hinna dauðu sem allar eru eins.
 eng	isl	Lisa Lillien is married to Dan Schneider.	Lisa Lillien er gift Dan Schneider.
 eng	isl	Living on a small income is hard.	Það er erfitt að lifa á lágum launum.
+eng	isl	Logi was bigger and stronger than anyone else in the land.	Logi var stærri og sterkari en nokkur annar í því landi.
+eng	isl	Long live the emperor!	Lengi lifi keisarinn!
 eng	isl	Long live the Soviet Union!	Lengi lifi Sovétríkin!
 eng	isl	Look at me.	Horfðu á mig.
 eng	isl	Look at that one.	Líttu á þennan.
@@ -1231,6 +1303,7 @@ eng	isl	Look at the stars.	Líttu á stjörnurnar.
 eng	isl	Look out for Tom.	Passaðu þig á Tom.
 eng	isl	Look up the word in the dictionary.	Fletta upp orðinu í orðabókinni.
 eng	isl	Love is enough.	Ástin er nóg.
+eng	isl	Love is love, water is water, but you wouldn't drink from the toilet.	Ást er ást, vatn er vatn, en þú myndir ekki drekka úr klósettinu.
 eng	isl	Lucy is a student from America.	Lucy er nemandi frá Ameríku.
 eng	isl	Lyndon Johnson took over presidency when John Kennedy was assassinated.	Lyndon Johnson tók við forsetaembættinu þegar John Kennedy var myrtur.
 eng	isl	Madeira is the name of a wine.	Madeira er nafn á víni.
@@ -1277,6 +1350,7 @@ eng	isl	Much to my surprise, my song appealed to many young people.	Mér til mik
 eng	isl	Must I go there at once?	Verð ég að fara þangað undir eins?
 eng	isl	My body itches all over.	Mig klæjar í allan líkamann.
 eng	isl	My brother and I shared the room.	Bróðir minn og ég deildum herberginu.
+eng	isl	My computer cost a lot more than yours.	Tölvan mín kostaði miklu meira en þín.
 eng	isl	My dad drops in on me from time to time.	Pabbi minn lítur af og til inn til mín.
 eng	isl	My dad's name is Fritz.	Pabbi minn heitir Fritz.
 eng	isl	My daughter is buying milk from the store.	Dóttir mín er að kaupa mjólk úr búðinni.
@@ -1286,6 +1360,7 @@ eng	isl	My father bought me a bicycle.	Pabbi minn keypti handa mér hjól.
 eng	isl	My father died of cancer.	Faðir minn dó úr krabbameini.
 eng	isl	My father gave me a puppy for my birthday.	Pabbi minn gaf mér hvolp í afmælisgjöf.
 eng	isl	My father went fishing.	Pabbi minn fór að veiða.
+eng	isl	My French sucks.	Franskan mín er skelfileg.
 eng	isl	My friend studies Korean.	Vinkona mín er að læra Kóresku.
 eng	isl	My head aches.	Mér er illt í höfðinu.
 eng	isl	My heart's beating so fast!	Hjartað mitt slær svo hratt!
@@ -1313,6 +1388,8 @@ eng	isl	Nobody could give the correct answer.	Enginn gat gefið rétta svarið.
 eng	isl	Nobody knows why he left the town.	Enginn veit af hverju hann yfirgaf bæinn.
 eng	isl	Nobody was injured.	Enginn meiddist.
 eng	isl	Nobody will care.	Öllum er sama.
+eng	isl	No, I did not write this.	Nei, ég skrifaði þetta ekki.
+eng	isl	No, I did not write this.	Nei, þetta skrifaði ekki ég.
 eng	isl	No less than three hundred dollars was needed for the work.	Ekki minna en þrjú hundruð dollara þurfti fyrir verkið.
 eng	isl	No major damage or injuries are known to have resulted from the quake measuring 3.0 on the Richter scale.	Ekki er vitað um neinar stórvægilegar skemmdir eða meiðsl eftir jarðskjálftann sem mældis 3,0 á Richterkvarðann.
 eng	isl	No matter how long it takes, I will finish the job.	Sama hversu langan tíma það tekur mun ég ljúka verkinu.
@@ -1332,6 +1409,7 @@ eng	isl	No roses without thorns.	Engin er rós á þyrna.
 eng	isl	Not everybody can be a poet.	Það geta ekki allir verið skáld.
 eng	isl	Nothing can be produced out of nothing.	Ekkert verður skapað úr engu.
 eng	isl	Nothing could be more useful than a copying machine.	Ekkert gæti verið nytsamlegra en ljósritunarvél.
+eng	isl	Nothing special is going on.	Ekkert sérstakt er í gangi.
 eng	isl	Not knowing what to do, he asked me for help.	Vitandi ekki hvað hann ætti að gera, bað hann mig um hjálp.
 eng	isl	Not knowing what to do, we telephoned the police.	Þar sem við vissum ekki hvað við hvað við ættum til bragðs að taka, hringdum við á lögregluna.
 eng	isl	Not seeing anything in the dark, we couldn't move.	Án þess að sjá nokkuð í myrkrinu gátum við ekki hreyft okkur.
@@ -1340,6 +1418,7 @@ eng	isl	Now stop crying.	Hættu nú að gráta.
 eng	isl	Now that you are a college student, you should know better.	Nú þegar þú ert kominn í háskóla ættirðu að vita betur.
 eng	isl	Of course I'll help you.	Að sjálfsögðu hjálpa ég þér.
 eng	isl	Oh, no. I broke a string in my racket.	Ó nei! Ég sleit streng í spaðanum mínum.
+eng	isl	Oh shit, I'm sorry.	Æi, djöfullinn, fyrirgefðu.
 eng	isl	Oh, sure.	Ó vissulega.
 eng	isl	OK, and what are you going to do for me?	Allt í lagi, og hvað ætlar þú að gera fyrir mig?
 eng	isl	OK, no problem.	Allt í lagi, ekkert mál.
@@ -1351,9 +1430,27 @@ eng	isl	One after another they stood up and went out.	Einn af öðrum stóðu þ
 eng	isl	One after another they stood up and went out.	Eitt af öðru stóðu þau upp og gengu út.
 eng	isl	One cannot judge people only by their outward appearances.	Það er ekki hægt að dæma fólk eingöngu út frá útliti þess.
 eng	isl	One hundred and fifty thousand couples are expected to get married in Shanghai in 2006.	Búist er við því að eitt hundruð og fimmtíu þúsund pör muni gifta sig í Sjanghæ árið tvö þúsund og sex.
+eng	isl	One is never done with learning.	Maður hættir aldrei að læra.
 eng	isl	One is never too old to learn.	Það er aldrei of seint að læra.
 eng	isl	One must observe the rules.	Maður verður að fylgja reglunum.
+eng	isl	One of the two will have to go.	Annað af þeim tveim verður að fara.
+eng	isl	One of the two will have to go.	Annar af þeim tveimur verður að fara.
+eng	isl	One of the two will have to go.	Annar af þeim tveimur þarf að fara.
+eng	isl	One of the two will have to go.	Annar af þeim tveim þarf að fara.
+eng	isl	One of the two will have to go.	Annar verður að fara af þeim tveimur.
+eng	isl	One of the two will have to go.	Einn af þeim tveimur verður að fara.
+eng	isl	One of the two will have to go.	Einn af þeim tveim þarf að fara.
+eng	isl	One of the two will have to go.	Önnur af þeim tveim verður að fara.
+eng	isl	One of the two will have to leave.	Annað af þeim tveim verður að fara.
+eng	isl	One of the two will have to leave.	Annar af þeim tveimur verður að fara.
+eng	isl	One of the two will have to leave.	Annar af þeim tveimur þarf að fara.
+eng	isl	One of the two will have to leave.	Annar af þeim tveim þarf að fara.
+eng	isl	One of the two will have to leave.	Annar verður að fara af þeim tveimur.
+eng	isl	One of the two will have to leave.	Einn af þeim tveimur verður að fara.
+eng	isl	One of the two will have to leave.	Einn af þeim tveim þarf að fara.
+eng	isl	One of the two will have to leave.	Önnur af þeim tveim verður að fara.
 eng	isl	One, two, three, four, five, six, seven, eight, nine, ten.	Einn, tveir, þrír, fjórir, fimm, sex, sjö, átta, níu, tíu.
+eng	isl	On February 13 I'll be able to say I'm 35 years old.	Þann 13. febrúar get ég sagt að ég sé 35 ára.
 eng	isl	Only a few people came to the meeting yesterday.	Einungis fáir mættu á fundinn í gær.
 eng	isl	On Sunday we were on the beach flying a kite.	Á sunnudaginn vorum við á ströndinni að fljúga flugdreka.
 eng	isl	On weekdays there are enough parking spots free that you should be able to get one close to my apartment.	Á virkum dögum eru nógu mörg stæði laus að þú ættir að geta fundið eitt nærri íbúðinni minni.
@@ -1394,6 +1491,7 @@ eng	isl	Peter takes after his mother more than his father.	Peter líkist móður
 eng	isl	Philip, like Andrew and Peter, was from the town of Bethesda.	Philip, líkt og Andrew og Peter, kom frá bænum Bethesda.
 eng	isl	Phoenix is the capital of Arizona.	Phoenix er höfuðborg Arizona.
 eng	isl	Pickpockets may operate in this area.	Vasaþjófar kunna að starfa á þessu svæði.
+eng	isl	Pirates never drink water.	Píratar drekka aldrei vatn.
 eng	isl	Please come as soon as possible.	Vinsamlegast komið eins fljótt og auðið er.
 eng	isl	Please come in one by one.	Vinsamlegast komið inn einn af öðrum.
 eng	isl	Please come to my house in the afternoon.	Vinsamlegast komdu heim til mín um eftirmiðdaginn.
@@ -1428,6 +1526,7 @@ eng	isl	Please step aside.	Vinsamlegast standið til hliðar.
 eng	isl	Please tell me about your problem.	Vinsamlegast segðu mér frá öllu um vandamálið þitt.
 eng	isl	Please, tell me.	Gerðu það að segja mér.
 eng	isl	Please turn the television on.	Vinsamlegast kveiktu á sjónvarpinu.
+eng	isl	Politics is the art of lying.	Stjórnmál eru list lyga.
 eng	isl	Pro baseball is interesting these days.	Atvinnumannahafnaboltinn er áhugaverður þessa dagana.
 eng	isl	Prompt action is necessary.	Snaggra aðgerða er þörf.
 eng	isl	Quiet down.	Hafiði hljótt.
@@ -1441,6 +1540,8 @@ eng	isl	Really?	Er það satt?
 eng	isl	Really?	Í alvöru?
 eng	isl	Remember to post the letter on your way to school.	Mundu eftir að póstleggja bréfið á leiðinni í skólann.
 eng	isl	Remove your hat.	Taktu ofan hattinn.
+eng	isl	Russian is my favorite language.	Rússneska er uppáhalds tungumálið mitt.
+eng	isl	Sæmundur walks too slowly.	Sæmundur gengur of hægt.
 eng	isl	Say what you want.	Segðu hvað sem er.
 eng	isl	Say which one you would like.	Segðu hvort þú mundir vilja.
 eng	isl	See how they run!	Sjáðu hvernig þau hlaupa!
@@ -1522,15 +1623,19 @@ eng	isl	She came back just as I was leaving.	Hún kom aftur í því að ég var
 eng	isl	She came to my defence when I was accused of plagiarism.	Hún kom mér til varnar þegar ég var sakaður um ritstuld.
 eng	isl	She closed all the windows in the room.	Hún lokaði öllum gluggunum á herberginu.
 eng	isl	She could sing well when she was a child.	Hún söng vel sem barn.
+eng	isl	She decided to move to Belgium.	Hún ákvað að flytja til Belgíu.
 eng	isl	She deleted her Facebook account.	Hún eyddi Facebook síðunni sinni.
 eng	isl	She doesn't believe in God.	Hún trúir ekki á Guð.
 eng	isl	She doesn't have a driver's license.	Hún er ekki með ökuskírteini.
 eng	isl	She doesn't have any brothers.	Hún á enga bræður.
 eng	isl	She doesn't have any friends.	Hún á enga vini.
+eng	isl	She gave us a lot to eat.	Hún gaf okkur mikið að borða.
+eng	isl	She gave us a lot to eat.	Hún gaf okkur mikið að éta.
 eng	isl	She got a pair of shoes from Father.	Hún fékk skó frá pabba.
 eng	isl	She got a slight burn on her hand while cooking.	Hún brenndi sig aðeins á höndinni við eldamennskuna.
 eng	isl	She got married against her father's will.	Hún giftist gegn vilja föður síns.
 eng	isl	She hard-boiled the eggs.	Hún harðsauð eggin.
+eng	isl	She has an eating disorder.	Hún er með átröskun.
 eng	isl	She hasn't turned up yet.	Hún hefur ekki enn komið í leitirnar.
 eng	isl	She has three brothers.	Hún á þrjá bræður.
 eng	isl	She held her baby in her arms.	Hún hélt á barninu sínu í örmum sér.
@@ -1543,12 +1648,14 @@ eng	isl	She is a poor cook.	Hún eldar illa.
 eng	isl	She is appearing on TV tonight.	Hún verður í sjónvarpinu í kvöld.
 eng	isl	She is a quiet woman.	Hún er þögull kvenmaður.
 eng	isl	She is a selfish person.	Hún er sjálfselsk manneskja.
+eng	isl	She is a true daughter of her father.	Hún er sönn dóttir föður sinnar.
 eng	isl	She is busy cooking dinner.	Hún er önnum kafin við að elda matinn.
 eng	isl	She is crying.	Hún er að gráta.
 eng	isl	She is dead.	Hún er dáinn.
 eng	isl	She is going to be six next year.	Hún verður sex ára á næsta ári.
 eng	isl	She is more of an acquaintance than a friend.	Hún er meiri kunningi en vinur.
 eng	isl	She isn't a good cook.	Hún eldar ekki vel.
+eng	isl	She is tight.	Hún er þröng.
 eng	isl	She kept walking about the room. She seemed too uneasy to sit still.	Hún labbaði stöðugt um herbergið. Hún virtist of óróleg til að sitja kyrr.
 eng	isl	She kept working.	Hún hélt áfram að vinna.
 eng	isl	She left with her friends.	Hún fór með vinum sínum.
@@ -1627,6 +1734,7 @@ eng	isl	Sorry, but I think you've got the wrong number.	Afsakið en ég hugsa a�
 eng	isl	Sorry honey, I'm still stuck at the office.	Fyrirgefðu ástin. Ég er ennþá fastur á skrifstofunni.
 eng	isl	Sorry, you have the wrong number.	Afsakið, þú ert með vitlaust númer.
 eng	isl	So they ought to have arrived here by now.	Svo þau hefðu átt að vera komin.
+eng	isl	Sounds like a plan!	Hljómar eins og áætlun!
 eng	isl	So what if I am gay? Is it a crime?	Hvað með það ef ég er samkynhneigður? Er það glæpur?
 eng	isl	Speak more slowly, please!	Vinsamlegast talaðu hægar!
 eng	isl	Speech is silver, but silence is golden.	Ræðan er silfur en þögnin gull.
@@ -1636,6 +1744,7 @@ eng	isl	Stand up!	Á fætur með ykkur!
 eng	isl	Stand up!	Á fætur með þig!
 eng	isl	Stand up!	Stattu á fætur!
 eng	isl	Starting is half the task.	Hálfnað er verk þá hafið er.
+eng	isl	Start with simple sentences.	Byrjaðu á einföldum setningum.
 eng	isl	Steady the boat so we can get on safely.	Haltu bátnum stöðugum svo við komumst örugglega um borð.
 eng	isl	Strike while the iron is hot.	Hamraðu járnið meðan það er heitt.
 eng	isl	Such an idea is abhorrent to her.	Slík hugmynd er henni viðurstyggileg.
@@ -1661,6 +1770,7 @@ eng	isl	Thanks. Could I return it to you instead?	Takk. Gæti ég í staðinn sk
 eng	isl	Thanks for everything.	Takk fyrir allt.
 eng	isl	Thanks, that is all.	Takk, það er allt.
 eng	isl	Thank you for reminding me about the meeting I have to attend.	Takk fyrir að minna mig á fundinn sem ég þarf að mæta á.
+eng	isl	Thank you for the lovely story.	Þakka þér fyrir þessa yndislega sögu.
 eng	isl	Thank you for today.	Takk fyrir daginn.
 eng	isl	Thank you, I understand everything.	Takk fyrir, ég skil allt saman.
 eng	isl	"Thank you very much", she said with a smile.	„Kærar þakkir“, sagði hún með bros á vör.
@@ -1730,6 +1840,7 @@ eng	isl	The ceremony was simple.	Athöfnin var einföld.
 eng	isl	The chairs are under the tree.	Stólarnir eru undir trénu.
 eng	isl	The chances are that the bill will be rejected.	Líkurnar eru að frumvarpinu verði hafnað.
 eng	isl	The check, please.	Reikninginn, takk.
+eng	isl	The children are not to blame.	Börnunum er ekki að kenna.
 eng	isl	The chili burnt my tongue.	Chíleið brenndi mig á tungunni.
 eng	isl	The chimney is made of brick.	Reykháfurinn er gerður úr múrsteinum.
 eng	isl	The chimpanzee is an intelligent creature, capable of solving simple problems.	Simpansar eru gáfaðar skepnur, færar um að leysa einföld vandamál.
@@ -1739,10 +1850,13 @@ eng	isl	The common language of many Asians is English.	Margir Asíubúar hafa en
 eng	isl	The company is managed by my older brother.	Fyrirtækinu er stýrt af eldri bróður mínum.
 eng	isl	The company suffered a 15% drop in sales.	Fyrirtækið varð fyrir fimmtán prósenta lækkun í sölu.
 eng	isl	The computer is a relatively recent invention.	Tölvan er tiltölulega ný uppfinning.
+eng	isl	The concept of "mental health" in our society is defined largely by the extent to which an individual behaves in accord with the needs of the system and does so without showing signs of stress.	Hugtakið „geðheilbrigði“ í okkar þjóðfélagi er að mestu leyti skilgreint af því hversu mikið einstaklingur hagar sér í samræmi við þarfir kerfisins og gerir það án þess að sýna merki um streitu.
+eng	isl	The couple sitting on that bench over there are my parents.	Hjónin sitjandi á þessum bekki eru foreldrar mínir.
 eng	isl	The crew is busy preparing for the voyage into outer space.	Áhöfnin er upptekin við undirbúning fyrir ferðina út í geiminn.
 eng	isl	The current imbalance between supply and demand is considered to reflect structural changes on the demand side, rather than being a cyclical phenomenon.	Núverandi ójafnvægi milli framboðs og eftirspurnar er talið benda til formbreytinga á sviði eftirspurnar frekar en að það sé lotubundið fyrirbæri.
 eng	isl	The cymbals clashed.	Simbalarnir skullu saman.
 eng	isl	The decision rests with him.	Ákvörðunin liggur hjá honum.
+eng	isl	The decision was appealed.	Ákvörðuninni var áfrýjað.
 eng	isl	The delicate, graceful flowers are in bloom.	Viðkvæm, tignarleg blómin eru í blóma.
 eng	isl	The dirty plates in the restaurant disgusted us.	Okkur bauð við skítugu diskunum á veitingastaðnum.
 eng	isl	The discrepancy between the stories of the two parties involved in the accident was so great that the authorities had a hard time deciding which side was telling the truth.	Misræmið milli frásagna aðilanna tveggja að slysinu var svo mikill að yfirvöldin áttu í erfiðleikum með að ákveða hvor væri að segja satt.
@@ -1794,14 +1908,18 @@ eng	isl	The honeymoon is over.	Brúðkaupsferðin er búin.
 eng	isl	The house collapsed in an earthquake.	Húsið hrundi í jarðskjálfta.
 eng	isl	The IMF ruled out any new loans to that country.	AGS útilokaði nokkur ný lán til landsins.
 eng	isl	The IMF ruled out any new loans to that country.	Alþjóðagjaldeyrissjóðurinn útilokaði nokkur ný lán til landsins.
+eng	isl	The Industrial Revolution and its consequences have been a disaster for the human race.	Iðnbyltingin og hennar afleiðingar hafa verið áfall fyrir mannkynið.
 eng	isl	The instant he opened the door, he smelt something burning.	Í þann mund er hann opnaði dyrnar fann hann lykt af einhverju að brenna.
 eng	isl	The insurance on his violin costs $200 a year.	Tryggingin fyrir fiðluna hans er tvö hundruð dollarar á ári.
 eng	isl	The joke's on me.	Brandarinn er á mér.
 eng	isl	The key question is not what can I gain but what do I have to lose.	Lykilspurningin er ekki hvað ég get grætt heldur hverju ég hef að tapa.
 eng	isl	The kids are driving me crazy.	Krakkarnir eru að gera mig vitlausan.
+eng	isl	The king lives in the castle.	Kóngurinn býr í kastalanum.
+eng	isl	The king now thought a great difficulty was at hand.	Konungi þótti nú að höndum væri kominn vandi mikill.
 eng	isl	The known must be separated from the unknown.	Hið þekkta þarf að greina frá hinu óþekkta.
 eng	isl	The leader of our party met with the other leaders and talked about the problem.	Leiðtogi flokksins okkar hitti hina leiðtogana og ræddi vandamálið.
 eng	isl	The mail arrives before noon.	Pósturinn kemur fyrir hádegi.
+eng	isl	The main purpose of red blood cells is to transport oxygen.	Megintilgangur rauðkorna er að flytja súrefni.
 eng	isl	The majority of the committee voted against the bill.	Meirihluti nefndarinnar kaus gegn frumvarpinu.
 eng	isl	The man was surprised at the news.	Maðurinn var undrandi yfir fréttunum.
 eng	isl	The man who lives next door to me is a doctor.	Maðurinn sem býr í næsta húsi er læknir.
@@ -1810,15 +1928,18 @@ eng	isl	The ministry administers the internal affairs.	Ráðuneytið sér um inn
 eng	isl	The moon was above the horizon.	Tunglið var yfir sjóndeildarhringnum.
 eng	isl	The more chocolate you eat, the fatter you'll get.	Því meira súkkulaði sem þú borðar, því feitari verðurðu.
 eng	isl	The most incomprehensible thing about the world is that it is at all comprehensible.	Það óskiljanleglegasta við heiminn er að hann er skiljanlegur.
+eng	isl	The most precious possession you have in the world is your own people. And for this people, and for the sake of this people, we will struggle and fight, and never slacken, never tire, never lose courage, and never lose faith.	Dýrmætasta eign þitt í heimi er þitt eigið fólk. Og fyrir þetta fólk og vegna þessu fólki munum við berjast og slást, og aldrei slakna, aldrei þreytast, aldrei missa hugrekki og aldrei missa trúna.
 eng	isl	The motorway was closed due to a major accident.	Hraðbrautin var lokuð sökum meiriháttar slyss.
 eng	isl	The murderer was convicted and sentenced to life in prison.	Morðinginn var fundinn sekur og dæmdur til lífstíðarfangelsis.
 eng	isl	The music we listened to last night was wonderful.	Tónlistin sem við hlustuðum á í gær var yndisleg.
+eng	isl	The Nazis kept fighting till the end.	Nasistarnir héldu áfram að berjast allt til enda.
 eng	isl	The next instant Hercules caught hold of the monster.	Í næstu andrá náði Herkúles taki á skrímslinu.
 eng	isl	The noted diplomat readily participated in the committee.	Þekkti erindrekinn tók reglulegan þátt nefndinni.
 eng	isl	The nurse soothed the crying child.	Hjúkrunakonan huggaði grátandi barnið.
 eng	isl	The older of the two daughters is in college.	Sú eldri af dætrunum tveim er í háskóla.
 eng	isl	The old man was not as mean as he looked.	Gamli maðurinn var ekki eins illkvittinn og hann leit út fyrir að vera.
 eng	isl	The operation violates international law.	Aðgerðin er í trássi við alþjóðleg lög.
+eng	isl	Theoretically, it's possible.	Hugsanlega er það mögulegt.
 eng	isl	The origin of the universe will probably never be explained.	Upphaf alheimsins verður líklega aldrei útskýrt.
 eng	isl	Theory and practice do not always go together.	Kenning og raunveruleiki fara ekki alltaf saman.
 eng	isl	The parachutist fell into the ocean and drowned.	Fallhlífastökkvarinn féll í sjóinn og druknaði.
@@ -1837,6 +1958,8 @@ eng	isl	The printing business made Bill a small fortune.	Bill græddi talsvert �
 eng	isl	The radioactivity leaked out of the nuclear power plant.	Geislunin lak úr kjarnorkuverinu.
 eng	isl	The rain follows me everywhere!	Regnið fylgir mér hvert sem er!
 eng	isl	The real estate industry is in a serious slump, and industry people say the worst is yet to come.	Fasteignamarkaðurinn er í alvarlegri lægð og fagfólk segir það versta enn ókomið.
+eng	isl	There are islands in the sea.	Í sjónum eru eyjur.
+eng	isl	There are islands in the sea.	Það eru eyjur í sjónum.
 eng	isl	There are many stars larger than our sun.	Það eru til margar stjörnur sem eru stærri en sólin okkar.
 eng	isl	There are merits and demerits to both your opinions so I'm not going to decide right away which to support.	Það eru kostir og gallar við skoðanir hvorrar tveggja ykkar svo ég ætla ekki að ákveða strax hvora ég mun styðja.
 eng	isl	There are merits and demerits to both your opinions so I'm not going to decide right away which to support.	Það eru kostir og gallar við skoðanir hvors tveggja ykkar svo ég ætla ekki að ákveða strax hvorn ég mun styðja.
@@ -1859,10 +1982,13 @@ eng	isl	There is no answer to your question.	Það er ekkert svar við spurningu
 eng	isl	There is no freedom for the ignorant.	Það er ekkert frelsi fyrir þá fávísu.
 eng	isl	There is no other way to understand the sentence.	Það er engin önnur leið til að skilja setninguna.
 eng	isl	There is no place like home.	Heima er best.
+eng	isl	There is nothing I hate more than technology.	Það er ekkert sem ég hata meira en tækni.
 eng	isl	There is no water left in the bottle.	Það er ekkert vatn eftir í flöskunni.
 eng	isl	There's a book here.	Það er bók hérna.
 eng	isl	There's a dog by the door.	Það er hundur við dyrnar.
 eng	isl	There's a soccer match tomorrow.	Það er fótboltaleikur á morgun.
+eng	isl	There's enough room for all of us.	Það er nóg pláss fyrir okkur öll.
+eng	isl	There's no explanation for the evolution of altruism that doesn't involve kinship.	Það er engin útskýring fyrir þróun óeigingirni sem inniheldur ekki skyldleika.
 eng	isl	There's no hurry.	Það er engin þörf á að flýta sér.
 eng	isl	There's not a single safe place anymore in Japan.	Það er hvergi nokkur öruggur staður lengur í Japan.
 eng	isl	There's no toilet paper.	Það vantar klósettpappír.
@@ -1876,6 +2002,7 @@ eng	isl	There were two murders this month.	Það voru tvö morð í þessum mán
 eng	isl	The rights of the individual are the most important rights in a free society.	Réttur einstaklingsins eru mikilvægustu réttindi í frjálsu samfélagi.
 eng	isl	Thermometers often go below zero.	Hitamælar fara oft undir frostmark.
 eng	isl	The road to Nagano is closed to traffic.	Vegurinn til Nagano er lokaður umferð.
+eng	isl	The Russians live in Russia, and the Germans in Germany.	Rússarnir búa í Rússlandi og Þjóðverjarnir í Þýskalandi.
 eng	isl	The scandal has badly damaged his clean image.	Hneykslismálið hefur alvarlega skaðað hreinu ímyndina hans.
 eng	isl	The school will provide tents for us.	Skólinn mun sjá okkur fyrir tjöldum.
 eng	isl	These beams will not carry the weight of the roof.	Þessir bitar munu ekki halda þyngd þaksins.
@@ -1917,6 +2044,7 @@ eng	isl	The tree was blown down.	Trénu hafði feykt niður.
 eng	isl	The trouble is that I have no money with me.	Vandamálið er að ég er ekki með neinn pening á mér.
 eng	isl	The Tsubasa is a very fast train.	Tsúbasa lestin er mjög hraðskreið.
 eng	isl	The tunnel caved in because of the earthquake the other day.	Göngin hrundu vegna jarðskjálftans um daginn.
+eng	isl	The United States are guilty of war crimes and crimes against humanity.	Bandaríkin eru sekar um stríðsglæpum og glæpum gegn mannkyni.
 eng	isl	The watch is manufactured in Switzerland.	Úrið er búið til í Sviss.
 eng	isl	The water is beautiful.	Vatnið er fallegt.
 eng	isl	The widow was dressed in black.	Ekkjan var svartklædd.
@@ -1972,12 +2100,15 @@ eng	isl	This is a hospital.	Þetta er sjúkrahús.
 eng	isl	This is a kind of love letter.	Þetta er eins konar ástarbréf.
 eng	isl	This is all that is known so far.	Þetta er allt sem er vitað hingað til.
 eng	isl	This is also the first time I've been to this area.	Þetta er líka í fyrsta skiptið sem ég hef komið á þetta svæði.
+eng	isl	This is an old tub, not a car.	Þetta er gamalt ker. Ekki bíll.
+eng	isl	This is an old tub, not a car.	Þetta er gömul drusla. Ekki bíll.
 eng	isl	This is asparagus soup.	Þetta er aspassúpa.
 eng	isl	This is a Turkish tradition.	Þetta er tyrknesk hefð.
 eng	isl	This is awesome.	Þetta er frábært.
 eng	isl	This is my favorite movie.	Þetta er uppáhalds myndin mín.
 eng	isl	This is my new news.	Þetta eru mér nýjar fréttir.
 eng	isl	This is not my type.	Þetta er ekki mín gerð.
+eng	isl	This isn't salty.	Þetta er ekki salt.
 eng	isl	This is really awkward.	Þetta er mjög vandræðalegt.
 eng	isl	This is such a sad story.	Þetta er svo sorgleg saga.
 eng	isl	This is the boy whose name is Tom Fisher.	Þetta er strákurinn sem heitir Tom Fisher.
@@ -2005,9 +2136,12 @@ eng	isl	Though I've decided to go to the party, I'm not looking forward to it.	�
 eng	isl	Though Jane is not a good runner, she can swim very fast.	Þótt Jane sé ekki góður hlaupari syndir hún hratt.
 eng	isl	Thunder has been explained scientifically, and people no longer believe it is a sign that the gods are angry with them, so thunder, too, is a little less frightening.	Þrumur hafa verið útskýrðar vísindalega og fólk trúir því ekki lengur að þær séu tákn um að guðirnir séu því reiðir, svo þrumur eru líka svolítið minna ógnvekjandi.
 eng	isl	Time flew.	Tíminn flaug.
+eng	isl	Time to play.	Tími að spila.
 eng	isl	Tires wear down because of friction between the rubber and the road surface.	Hjólbarðar eyðast vegna núnings milli gúmmísins og vegyfirborðsins.
 eng	isl	To be on time, I ran.	Til að vera á réttum tíma hljóp ég.
+eng	isl	Today is both Mardi Gras and Beer Day.	Í dag er bæði sprengidagur og bjórdagur.
 eng	isl	Today is June 18th and it is Muiriel's birthday!	Í dag er 18. júní og Muiriel á afmæli!
+eng	isl	To Greenland and Iceland and Shetland, the voyage of longships went west. In France, Ireland and England, the Norseman was an uninvited guest.	Til Grænlands og Íslands og Hjaltlands fór ferðin á langskipum vestur. Í Frakklandi, Írlandi og Englandi var norðmaðurinn óboðinn gestur.
 eng	isl	Tom and Mary are the most wanted pair of bank robbers in the continent.	Tom og María eru það par bankaræningja sem hvað mest er leitað að í heimsálfunni.
 eng	isl	Tom and Mary work in the same office.	Tom og Mary vinna á sömu skrifstofunni.
 eng	isl	Tom couldn't help.	Tom gat ekki hjálpað.
@@ -2052,6 +2186,7 @@ eng	isl	Tough decisions lie ahead.	Erfiðar ákvarðanir eru framundan.
 eng	isl	Trees make oxygen.	Tré búa til súrefni.
 eng	isl	Tsunamis swept through rice fields and flooded the towns.	Flóðbylgjurnar óðu yfir hrísgrjónaakrana og flæddu yfir bæina.
 eng	isl	Turn on the rice cooker, please.	Vinsamlegast kveiktu á hrísgrjónaeldavélinni.
+eng	isl	Two earls were with Hálogi. One was called Vífill and the other Véseti.	Jarlar tveir voru með Háloga. Hét annar Vífill en annar Véseti.
 eng	isl	Unlock the door.	Opnaðu dyrnar.
 eng	isl	Unlock the door.	Taktu dyrnar úr lás.
 eng	isl	Until when will you be in Japan?	Þar til hvenær verðurðu í Japan?
@@ -2059,7 +2194,9 @@ eng	isl	Visit my Facebook profile.	Skoðaðu síðuna mína á Facebook.
 eng	isl	Wake up at seven, please.	Vinsamlegast vaknaðu klukkan sjö.
 eng	isl	Walking along the street, I met an old friend.	Þar sem ég gekk eftir götunni rakst ég á gamlan vin.
 eng	isl	Walking is an excellent exercise.	Ganga er frábær æfing.
+eng	isl	War is fun.	Stríð er skemmtilegt.
 eng	isl	Washington is the capital of the United States.	Washington er höfuðborg Bandaríkjanna.
+eng	isl	Was that my phone ringing?	Var þetta síminn minn að hringja?
 eng	isl	Was the door open?	Var hurðin opin?
 eng	isl	Watch your head!	Passaðu höfuðið!
 eng	isl	Water is much needed.	Það er mikil þörf á vatni.
@@ -2114,6 +2251,7 @@ eng	isl	We have to buy them from abroad.	Við verðum að kaupa þá frá útlö
 eng	isl	We have to buy them from abroad.	Við verðum að kaupa þau að utan.
 eng	isl	We have two tall players in our baseball team.	Við erum með tvo hávaxna leikmenn í hafnaboltaliðinu okkar.
 eng	isl	We hope to see you again.	Við vonumst til að sjá þig aftur.
+eng	isl	...we in Florida, there is no way we will ever support this WHO thing...	…við í Flórída, það er engin leið að við munum nokkurn tíma styðja þennan Alþjóðaheilbrigðismálastofnunarinnar hlut…
 eng	isl	We investigated the matter from all angles.	Við rannsökuðum málið frá öllum sjónarhornum.
 eng	isl	We know something about it.	Við vitum eitthvað um það.
 eng	isl	Welcome home.	Velkominn heim.
@@ -2130,6 +2268,7 @@ eng	isl	We must beef up our organization.	Við verðum að styrkja samtökin okk
 eng	isl	We must hurry if we want to arrive at the station on time.	Við verðum að flýta okkur ef við ætlum að ná á stöðina í tíma.
 eng	isl	We mustn't waste our energy resources.	Við megum ekki eyða orkuauðlindum okkar.
 eng	isl	We must try to protect the environment.	Við verðum að reyna að vernda umhverfið.
+eng	isl	We must understand each other.	Við verðum að skilja hvort annað.
 eng	isl	We often fail to realize the extent to which we depend on others.	Við gerum okkur ekki alltaf grein fyrir því að hversu miklu marki við stólum á aðra.
 eng	isl	We ought to send Jordan to the hospital.	Við ættum að senda Jordan á sjúkrahús.
 eng	isl	We ran down to the riverbank.	Við hlupum niður að árbakkanum.
@@ -2137,6 +2276,8 @@ eng	isl	We ran out of food.	Við urðum uppiskroppa með mat.
 eng	isl	We're looking forward to the holidays.	Við hlökkum til frísins.
 eng	isl	"Weren't you there?" asked Mr Jordan.	„Varstu ekki á staðnum?“ spurði herra Jordan.
 eng	isl	We saw the film and had dinner together.	Við horfðum á myndina og borðuðum saman kvöldmat.
+eng	isl	We saw you at the beach.	Við sáum ykkur á ströndinni.
+eng	isl	We saw you at the beach.	Við sáum þig á ströndinni.
 eng	isl	We should sometimes expose our bodies to the sun.	Við ættum stundum að bera sólinni líkama okkar.
 eng	isl	We stayed at a hotel by the lake.	Við gistum á hóteli við vatnið.
 eng	isl	We swam in the sea.	Við syntum í sjónum.
@@ -2178,6 +2319,7 @@ eng	isl	What do you call a man who takes care of sheep in the field?	Hvað kalla
 eng	isl	What do you think of him?	Hvað finnst þér um hann?
 eng	isl	What do you think of his suggestion?	Hvað finnst þér um tillöguna hans?
 eng	isl	What do you want it for?	Til hvers langar þig í það?
+eng	isl	What for? I'm fine as it is.	Til hvers? Ég hef það gott eins og er.
 eng	isl	What fruit is green?	Hvaða ávöxtur er grænn?
 eng	isl	What fruit is red?	Hvaða ávöxtur er rauður?
 eng	isl	What happens to all the wood?	Hvað verður um allan viðinn?
@@ -2210,6 +2352,7 @@ eng	isl	What's your dad's name?	Hvað heitir pabbi þinn?
 eng	isl	What's your favorite programming language?	Hvert er uppáhalds forritunarmálið þitt?
 eng	isl	What's your favorite spectator sport?	Hvaða íþróttagrein þykir þér skemmtilegast að horfa á?
 eng	isl	What's your favorite spectator sport?	Hver er uppáhalds áhorfsíþróttagreinin þín?
+eng	isl	"What's your favorite tea?" "Coffee."	„Hvað er uppáhalds teið þitt?“ „Kaffi.“
 eng	isl	What's your favorite television program?	Hver er uppáhalds þátturinn þinn?
 eng	isl	What's your phone number?	Hvað er símanúmerið hjá þér?
 eng	isl	What the hell are you doing?	Hvað í fjandanum ertu að gera?
@@ -2227,12 +2370,15 @@ eng	isl	Whenever my wife's best friend comes over, they sit on the couch and dis
 eng	isl	When I ask people what they regret most about high school, they nearly all say the same thing: that they wasted so much time.	Þegar ég spyr fólk hverju þau sjá mest eftir úr framhaldsskóla segja nær allir það sama: að þau hafi sólundað of miklum tíma.
 eng	isl	When I came home, my sister was playing the guitar.	Þegar ég kom heim var systir mín að spila á gítar.
 eng	isl	When is my brother's birthday?	Hvenær á bróðir minn afmæli?
+eng	isl	When I was at war, I drank tea.	Þegar ég var í stríði þá drakk ég te!
 eng	isl	When the phone rang, he ran to answer it.	Þegar síminn hringdi, hljóp hann að svara honum.
 eng	isl	When we are small, everything seems so big.	Þegar við erum lítil virðist allt svo stórt.
 eng	isl	When you talk, you are only repeating what you already know. But if you listen, you may learn something new.	Þegar þú talar ert þú aðeins að endurtaka það sem þú veist nú þegar. En ef þú hlustar gætir þú lært eitthvað nýtt.
 eng	isl	Where am I now?	Hvar er ég núna?
 eng	isl	Where are the tampons?	Hvar eru túrtapparnir?
 eng	isl	Where are they from?	Hvaðan eru þau?
+eng	isl	Where books are burned, people will eventually also be burned.	Þar sem bækur eru brenndar mun fólk sömuleiðis að enda vera brunnið.
+eng	isl	Where can I buy socks?	Hvar get ég keypt sokka?
 eng	isl	Where can I get a telephone card?	Hvar get ég fengið símkort?
 eng	isl	Where can we meet?	Hvar getum við hist?
 eng	isl	Where did he find the money?	Hvar fann hann peningana?
@@ -2252,6 +2398,7 @@ eng	isl	Which house are you staying in?	Í hvaða húsi gistirðu?
 eng	isl	Which is the heavier of the two?	Hvor þessara tveggja er þyngri?
 eng	isl	Which of you came here first?	Hvert ykkar kom hingað fyrst?
 eng	isl	Which of you came here first?	Hver ykkar kom hingað fyrst?
+eng	isl	Which one of us is smarter?	Hvor okkar er snjallari?
 eng	isl	Which part of Boston are you going to?	Hvaða hluta Boston ertu að fara til?
 eng	isl	While I see what you say, I can't accept your offer.	Þótt ég skilji hvað þú ert að segja get ég ekki samþykkt tilboðið þitt.
 eng	isl	Who am I?	Hver er ég?
@@ -2274,6 +2421,7 @@ eng	isl	Whose plan is it?	Hver planaði þetta?
 eng	isl	Who's that boy standing at the door?	Hver er þessi strákur sem stendur við dyrnar?
 eng	isl	Who's that girl?	Hver er þessi stúlka?
 eng	isl	Who's the loser?	Hver tapaði?
+eng	isl	"Who's this person?" "That's not a person. That's a robot I invented!"	„Hver er þessi manneskja?“ „Þetta er engin manneskja. Þetta er vélmenni ég fann upp!“
 eng	isl	Who's your favorite actor?	Hver er uppáhaldsleikarinn þinn?
 eng	isl	Who's your favorite actor or actress?	Hver er uppáhalds leikarinn þinn?
 eng	isl	Who's your favorite Beatle?	Hver er uppáhalds Bítillinn þinn?
@@ -2307,6 +2455,7 @@ eng	isl	Why?	Hvers vegna?
 eng	isl	Why not apologize and ask for his pardon?	Hví ekki að afsaka þig og biðja hann fyrirgefningar?
 eng	isl	Why should Tom go?	Hversvegna ætti Tom að fara?
 eng	isl	Why wasn't I asked?	Afhverju var ég ekki spurður?
+eng	isl	Why were you offended?	Af hverju varstu móðgaður?
 eng	isl	Why will you not listen to reason?	Af hverju viltu ekki hlýða rödd skynseminnar?
 eng	isl	"Will he come?" "No, I don't think so."	„Mun hann koma?“ „Nei, það held ég ekki.“
 eng	isl	Will you come tomorrow?	Kemurðu á morgun?
@@ -2356,6 +2505,7 @@ eng	isl	You are too clever not to solve the hard problem.	Þú ert of klár til 
 eng	isl	You are young boys.	Þið eruð ungir strákar.
 eng	isl	You are young. I, on the contrary, am very old.	Þú ert ung. Ég er aftur á móti mjög gömul.
 eng	isl	You bought the food, so if I buy the wine that will even things up.	Þú keyptir matinn svo ef ég kaupi vínið jafnast það út.
+eng	isl	You can change the world, just one mail bomb at a time.	Þú getur breytt heiminum, bara eina póstsprengju í einu.
 eng	isl	You can consult with me any time.	Þú getur ráðfært þig við mig hvenær sem er.
 eng	isl	You can count on her.	Þú getur reiknað með henni.
 eng	isl	You can depend on his help.	Þú getur reitt þig á hans hjálp.
@@ -2415,6 +2565,7 @@ eng	isl	You may call him a liar, but you cannot call him a bad man.	Þú getur k
 eng	isl	You may have read this book already.	Þú kannt að hafa lesið þessa bók nú þegar.
 eng	isl	You may keep the book.	Þú mátt eiga bókina.
 eng	isl	You may keep the book.	Þú mátt halda bókinni.
+eng	isl	You may live to see man-made horrors beyond your comprehension.	Þú gætir lifað til að sjá manngerða hryllinga fyrir utan skilnings þíns.
 eng	isl	You may park here.	Þú mátt leggja hérna.
 eng	isl	You may use my new car.	Þú mátt nota nýja bílinn minn.
 eng	isl	You might be surprised at the outcome.	Þú kynnir að verða undrandi á útkomunni.
@@ -2455,6 +2606,8 @@ eng	isl	You really believe in ghosts?	Trúirðu virkilega á drauga?
 eng	isl	You're asking the wrong person.	Þú ert að spurja ranga manneskju.
 eng	isl	You're beautiful.	Þú ert fallegur.
 eng	isl	You're disgusting!	Þú ert ógeðsleg!
+eng	isl	You're leaving?	Ertu að fara?
+eng	isl	You're leaving?	Eruð þið að fara?
 eng	isl	You're my guest.	Þú ert minn gestur.
 eng	isl	You're sick. You have to rest.	Þú ert veik. Þú verður að hvílast.
 eng	isl	You're still too young to get a driver's license.	Þú ert enn of ungur til að fá ökuskírteini.
@@ -2463,6 +2616,7 @@ eng	isl	Your eyes remind me of stars.	Augu þín minna mig á stjörnur.
 eng	isl	Your father is tall.	Pabbi þinn er hávaxinn.
 eng	isl	Your girlfriend is going to be so mad at you.	Kærastan þín verður svo reið við þig.
 eng	isl	Your house is three times as large as mine.	Húsið þitt er þrisvar sinnum stærra en mitt.
+eng	isl	Your idea is absolutely infeasible.	Hugmynd þínn er algjörlega ómöguleg.
 eng	isl	Your mother must have been beautiful when she was young.	Mamma þín hlýtur að hafa verið falleg þegar hún var ung.
 eng	isl	Your remark is irrelevant to our argument.	Athugasemdin þín eru röksemdafærslunni okkar óviðkomandi.
 eng	isl	Your remark is irrelevant to our argument.	Athugasemdin þín hefur ekkert með röksemdafærsluna okkar að gera.
@@ -2482,6 +2636,7 @@ eng	isl	You should have locked, or at least closed, all the doors.	Þú hefðir 
 eng	isl	You should know better than to ask a lady her age.	Þú ættir að vita betur en að spurja dömu að aldri.
 eng	isl	You should learn how to use your dictionary.	Þú ættir að læra að nota orðabókina þína.
 eng	isl	You shouldn't tell him anything about your girlfriend.	Þú ættir ekki að segja honum neitt um kærustuna þína.
+eng	isl	You should probably use German on German sentences to talk with people who speak German about German.	Þú ættir örugglega að nota þýsku á þýskum setningum til að tala með fólki sem tala á þýsku um þýsku.
 eng	isl	You should tell the truth.	Þú ættir að segja sannleikann.
 eng	isl	You sing a beautiful song.	Þú syngur fallegt lag.
 eng	isl	Youth adapt to things more quickly than the elderly.	Ungt fólk lagar sig að hlutum hraðar en það eldra.

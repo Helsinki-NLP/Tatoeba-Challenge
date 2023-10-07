@@ -48,8 +48,8 @@ vie	cmn_Hans	Bạn đến từ nước nào vậy?	你是从哪个国家来的�
 vie	cmn_Hans	Bạn đúng là người tốt bụng!	你真是个大好人！
 vie	cmn_Hans	bạn khả dĩ tùy tiện đi bất cứ đâu.	您可以随便去哪儿。
 vie	cmn_Hans	Bạn nghĩ cô ấy bao nhiêu tuổi?	你认为她多大？
-vie	cmn_Hans	Bạn phải ngừng hút thuốc.	你必须停止吸烟。
 vie	cmn_Hans	Bạn phải ngưng hút thuốc.	你必须停止吸烟。
+vie	cmn_Hans	Bạn phải ngừng hút thuốc.	你必须停止吸烟。
 vie	cmn_Hans	Bạn tôi có mua gì đâu?	我朋友哪里买过什么东西！
 vie	cmn_Hans	Bạn trai của bạn đẹp trai quá!	你男朋友真帅！
 vie	cmn_Hans	Bạn trai của mày bảnh trai quá!	你男朋友真帅！
@@ -87,6 +87,7 @@ vie	cmn_Hans	Chơi trò chơi điện tử này cần phải phản ứng nhanh 
 vie	cmn_Hans	Chưa khỏi rên đã quên thầy.	呻吟未止忘良医。
 vie	cmn_Hans	Chúng ta không thể để đối phương thừa cơ được.	我们不能让对方钻空子。
 vie	cmn_Hans	Chúng ta nên hợp tác tốt với đồng nghiệp, đừng suốt ngày làm khó người ta.	我们应该同事好好合作，不要老师给人家出难题。
+vie	cmn_Hans	Chúng ta tối nay đi ăn nhé.	我们今晚在外面吃饭吧。
 vie	cmn_Hans	Chúng tôi bước vào lớp học.	我们走进教室。
 vie	cmn_Hans	Chúng tôi cố gắng học tập các đồng chí.	我们努力向你们学习。
 vie	cmn_Hans	Chúng tôi cũng đồng ý.	我们也同意。
@@ -364,6 +365,7 @@ vie	cmn_Hant	Cấm đậu xe.	禁止停車。
 vie	cmn_Hant	Chúc mừng giáng sinh!	聖誕節快樂！
 vie	cmn_Hant	Chúng ta gặp nhau quá muộn.	我們是相見恨晚。
 vie	cmn_Hant	Chúng ta hãy thử một vài thứ.	我們試試看！
+vie	cmn_Hant	Chúng tôi không có cá.	我們沒有魚。
 vie	cmn_Hant	Có một số người không đồng ý.	有一部分人不同意。
 vie	cmn_Hant	Con sẽ trở về sớm.	我很快就會回來。
 vie	cmn_Hant	Cứ đi thẳng tới phía trước.	一直往前走。

@@ -5,6 +5,8 @@ rus	tlh_Latn	Вот книга, которую ты ищешь.	naDev 'oHtaH paq
 rus	tlh_Latn	Вселенная — это загадка.	poymar 'oH 'u''e'.
 rus	tlh_Latn	В чем проявляется неисправность?	Qaghvam Segh yIDel!
 rus	tlh_Latn	Вчера я видел его идущим по городу.	wa'Hu' vengDaq yIttaHvIS ghaH vIlegh.
+rus	tlh_Latn	Вы видите дерево.	Sor bolegh.
+rus	tlh_Latn	Вы видите дерево.	Sor Dalegh.
 rus	tlh_Latn	Вы знаете свою группу крови?	'IwlIj Segh DaSov'a'?
 rus	tlh_Latn	Вы знакомы с этим человеком?	loDvam boSov'a'?
 rus	tlh_Latn	Вы исполнили свой долг.	Qu'lIj Data'chu'ta'.
@@ -23,6 +25,7 @@ rus	tlh_Latn	Где ваша собака?	nuqDaq 'oHtaH Ha'DIbaHraj?
 rus	tlh_Latn	Где Вы были вчера?	wa'Hu' nuqDaq SoHtaH?
 rus	tlh_Latn	Где вы живёте?	Daq boDabbogh yIngu'!
 rus	tlh_Latn	Где её газеты?	nuqDaq bIHtaH De' chu' ghItlhmeyDaj'e'?
+rus	tlh_Latn	Где моя дочь?	nuqDaq ghaHtaH puqbe'wI''e'?
 rus	tlh_Latn	Где он?	nuqDaq ghaHtaH?
 rus	tlh_Latn	"Где твой дом?" – "Он вон там".	«nuqDaq 'oH juHlIj'e'?» - «pa' 'oH.»
 rus	tlh_Latn	Германия – большая страна.	Sep tIn 'oH DoyIchlan'e'.
@@ -35,12 +38,14 @@ rus	tlh_Latn	Джон сидит рядом с Джеком.	jeq retlhDaq ba' ja
 rus	tlh_Latn	Его английский лучше моего.	DIvI' Hol'e' jatlhbogh ghaH QaQ law' DIvI' Hol'e' vIjatlhbogh jIH QaQ puS.
 rus	tlh_Latn	Ему не нравится этот концерт.	ghaH belmoHbe' QoQ wanI'vam.
 rus	tlh_Latn	Если отдохнёшь, то скоро снова будешь на ногах.	bIleSchugh vaj tugh bIpIvqa'.
+rus	tlh_Latn	Есть богиня.	Qun be' tu'lu'.
 rus	tlh_Latn	Ешь медленно.	QIt yISop!
 rus	tlh_Latn	Женщина пьёт воду.	bIQ tlhutlh be'.
 rus	tlh_Latn	Женщины работают.	vumtaH be'pu'.
 rus	tlh_Latn	Завтра — мой день рождения.	wa'leS qaS qoSwIj.
 rus	tlh_Latn	Зайди вечером ко мне в офис.	choS yaHwIj yIghoS!
 rus	tlh_Latn	Закройте все двери и окна!	Hoch lojmItmey Hoch Qorwaghmey je tISoQmoH!
+rus	tlh_Latn	Земля больна.	rop tera'.
 rus	tlh_Latn	Знаете, зачем я к вам пришёл?	qaghoSta'meH ngoQ DaSov'a'?
 rus	tlh_Latn	Им нужны друзья.	juppu' ghajnIS.
 rus	tlh_Latn	Иногда ее мама напевала старые песни.	rut bommey ngo' bom SoSDaj.
@@ -49,6 +54,7 @@ rus	tlh_Latn	Как вы узнали, что я канадец?	qa'naDa'ngan jI
 rus	tlh_Latn	Какого хуя?	nuq jay'?
 rus	tlh_Latn	Какого цвета облако?	chay' nguv 'eng?
 rus	tlh_Latn	Какой цвет тебе больше нравится, синий или красный?	rItlh DamaSbogh yIngu'! rItlh SuD rItlh Doq ghap?
+rus	tlh_Latn	"Когда?" - "Никогда."	"ghorgh?" "not."
 rus	tlh_Latn	Когда построили этот храм?	ghorgh chIrghvam chenmoHlu'?
 rus	tlh_Latn	Когда ты приехал?	ghorgh bIpawpu'?
 rus	tlh_Latn	Когда ты приехала?	ghorgh bIpawpu'?
@@ -71,6 +77,7 @@ rus	tlh_Latn	Кто пришёл?	ghoSta' 'Iv?
 rus	tlh_Latn	Куда ты хочешь поехать этим летом?	DISvam poH tuj nuqDaq Daleng DaneH?
 rus	tlh_Latn	Марк Цукерберг украл мою идею!	qechwIj nIHta' maQ Suqerbergh!
 rus	tlh_Latn	Меня интересуют компьютеры.	jIHvaD Daj De'wI'mey.
+rus	tlh_Latn	Мир болен.	rop qo'.
 rus	tlh_Latn	Мир прекрасен.	'IH qo'.
 rus	tlh_Latn	Мне не нужны советчики.	qeSwI'pu' vIpoQbe'.
 rus	tlh_Latn	Мне нравится этот стул.	quSvam vIparHa'.
@@ -84,6 +91,7 @@ rus	tlh_Latn	Мой сын должен сделать эту работу.	Qu'v
 rus	tlh_Latn	Моя бабушка постарела.	qanchoHpu' SoSnI'wI'.
 rus	tlh_Latn	Моя кошка большая.	tIn vIghro'wIj.
 rus	tlh_Latn	Моя мама не очень хорошо говорит по-английски.	DIvI' Hol jatlhchu'be' SoSwI'.
+rus	tlh_Latn	Мы — американцы.	'amerI'qa' SepjIjQa' ngan maH.
 rus	tlh_Latn	Мы были как братья.	loDnI'pu' DIrur.
 rus	tlh_Latn	Мы знали, что Том говорит правду.	vIttaH tam 'e' wISov.
 rus	tlh_Latn	Мы очень надеемся, что не начнётся еще одна война.	taghbe' latlh noH 'e' wItulqu'.

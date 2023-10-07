@@ -21,9 +21,11 @@ epo	isl	Ĉu vi estas preta por la plej malbona?	Ertu undirbúinn undir það þa
 epo	isl	Ĉu vi estas preta por la plej malbona?	Ertu undirbúin undir það versta?
 epo	isl	Ĉu vi ŝatas la anglan?	Líkar þér enska?
 epo	isl	Ĉu vi skribas leteron?	Ertu að skrifa bréf?
+epo	isl	Danke al Dio, neniu mortis.	Guði sé lof að enginn dó.
 epo	isl	Dankon!	Takk!
 epo	isl	Daŭrus eterne ĉion klarigi.	Það mun taka heila eilífð að útskýra það allt saman.
 epo	isl	De la lernejo eblas atingi lian domon per ŝtonoĵeto.	Húsið hans er steinsnar frá skólanum hans.
+epo	isl	Dublino estas irlanda urbo.	Dyflinn er írsk borg.
 epo	isl	Eble ŝi ne memoras pri mi, sed mi memoras pri ŝi.	Hún man kannski ekki eftir mér en ég man eftir henni.
 epo	isl	Ekde kiam Karlo havas Chevrolet-on?	Hversu lengi er Karlo búinn að eiga Chevrolet?
 epo	isl	En ĉi tiu regiono oni kultivas pomojn.	Epli eru ræktuð í þessu héraði.
@@ -70,6 +72,7 @@ epo	isl	Kion signifas Tatoeba?	Hvað þýðir „Tatoeba“?
 epo	isl	Kiu detruis la fenestron? Diru al mi la veron.	Hver eyðilagði gluggann? Segðu mér satt.
 epo	isl	Kiu silentas, tiu konsentas.	Þögn er sama og samþykki.
 epo	isl	Kristo resurektis!	Kristur er upprisinn!
+epo	isl	Kun kiu mi estas?	Hverjum er ég með?
 epo	isl	La buso haltas antaŭ mia domo.	Vagninn stoppar fyrir utan húsið mitt.
 epo	isl	La ĉirkaŭaĵo influas nian karakteron.	Umhverfið hefur áhrif á persónuleika okkar.
 epo	isl	La domo brulas.	Húsið brennur.
@@ -226,8 +229,13 @@ epo	isl	Tiuj bildoj estas vere tre belaj.	Þessar myndir eru virkilega fallegar.
 epo	isl	Tom estas tre forta viro.	Tom er mjög sterkur maður.
 epo	isl	Unu por ĉiuj, ĉiuj por unu.	Einn fyrir alla, allir fyrir einn.
 epo	isl	Vi ambaŭ malpravas.	Þið hafið bæði rangt fyrir ykkur.
+epo	isl	Vi devas silenti kiam mi parolas!	Þú ættir að þegja þegar ég er að tala!
+epo	isl	Vi devas silenti kiam mi parolas!	Þú ættir að þegja þegar ég er talandi!
+epo	isl	Vi devas silenti kiam mi parolas!	Þú ættir að þegja þegar ég tala!
 epo	isl	Vi estas etaj knaboj.	Þið eruð ungir piltar.
 epo	isl	Vi havas ege seksemigajn gambojn.	Þú ert með mjög kynþokkafulla leggi.
 epo	isl	Vi ne rajtas malfermi la pordon.	Þú mátt ekki opna dyrnar.
 epo	isl	Vi parolas la hispanan tre bone.	Þú talar spænsku mjög vel.
+epo	isl	Vi ŝatas bicikli.	Þið elskið að hjóla.
+epo	isl	Vi ŝatas bicikli.	Þú elskar að hjóla.
 epo	isl	Vi trinkas teon.	Þú drekkur te.

@@ -34,8 +34,8 @@ kor_Hang	nld	곧 돌아올께요.	Ik ben zo terug.
 kor_Hang	nld	내 생각은 너와 달라.	Ik denk anders dan jij.
 kor_Hang	nld	제 생각은 당신과 다릅니다.	Ik denk anders dan u.
 kor_Hang	nld	나는 생각한다, 고로 나는 존재한다.	Ik denk, dus ik ben.
-kor_Hang	nld	나는 아직 학교에 다녀.	Ik ga nog naar school.
 kor_Hang	nld	저는 아직 학교에 다녀요.	Ik ga nog naar school.
+kor_Hang	nld	나는 아직 학교에 다녀.	Ik ga nog naar school.
 kor_Hang	nld	돈 좀 찾아올게.	Ik ga wat geld halen.
 kor_Hang	nld	나는 꿈이 있어.	Ik heb een droom.
 kor_Hang	nld	내게는 쌍둥이 언니가 있다.	Ik heb een oudere tweelingzus.
@@ -93,8 +93,8 @@ kor_Hang	nld	당신이 그에게 준 것을 얘기해 주세요.	Vertel alstubli
 kor_Hang	nld	네가 그에게 준 것을 얘기해 줘.	Vertel eens wat je hem hebt gegeven.
 kor_Hang	nld	무슨 일인지 얘기해 주세요.	Vertel mij alstublieft wat er aan de hand is.
 kor_Hang	nld	비가 올 것 같아.	Volgens mij regent het.
-kor_Hang	nld	그 은행은 어디 있어?	Waar is de bank?
 kor_Hang	nld	그 은행은 어디에 있어요?	Waar is de bank?
+kor_Hang	nld	그 은행은 어디 있어?	Waar is de bank?
 kor_Hang	nld	은행 문은 닫혀 있었어요?	Was de deur van de bank dicht?
 kor_Hang	nld	뭐해?	Wat doe je?
 kor_Hang	nld	물은 투명하다.	Water is doorzichtig.
@@ -102,3 +102,8 @@ kor_Hang	nld	그것은 무엇입니까?	Wat is dat?
 kor_Hang	nld	그녀의 머리카락은 길다.	Zij heeft lang haar.
 kor_Hang	nld	그녀는 작은 아파트에서 그와 함께 살고 있어요.	Zij woont samen met hem in een klein appartement.
 kor_Latn	nld	생일 축하해 Muiriel!	Gelukkige verjaardag Muiriel!
+kor	nld	사고가 벌어졌다.	Een ongeluk heeft plaatsgevonden.
+kor	nld	사고가 벌어졌다.	Er was een ongeluk.
+kor	nld	집에 TV가 없어요.	Ik heb geen tv thuis.
+kor	nld	집에 TV가 없어요.	Ik heb thuis geen tv.
+kor	nld	집에 TV가 없어요.	Thuis heb ik geen tv.

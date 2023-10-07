@@ -15,9 +15,11 @@ eng	vol_Latn	Are these books yours?	Buks at li-binoms olik?
 eng	vol_Latn	Are they eating the apple?	Fidons-li podi?
 eng	vol_Latn	Are they working today?	Li-voboms adelo?
 eng	vol_Latn	Are you allowed to go?	Dälon-li ole golön?
+eng	vol_Latn	Are you a teacher, Mary?	Li-binol tidel, o Maria?
 eng	vol_Latn	Are you busy now?	Binol-li jäfädik nu?
 eng	vol_Latn	Are you married?	Li-binol jimatel?
 eng	vol_Latn	Are you my friend?	Li-binol flen oba?
+eng	vol_Latn	Are you Tom's friends?	Li-binols flens Tomasa?
 eng	vol_Latn	Ask me if you don't understand.	Säkolöd obi, if no kapälol.
 eng	vol_Latn	Ask me what I want.	Säkolöd obi, kisi vilob.
 eng	vol_Latn	A woman whose husband is dead is called a widow.	Vom, jikelik matan binom deadik, panemof jiviudan.
@@ -40,6 +42,10 @@ eng	vol_Latn	Can he speak English?	Кanon-li spikön Linglänapüki?
 eng	vol_Latn	Can I go for a walk?	Kanob-li spatön?
 eng	vol_Latn	Can I use your dictionary?	Kanob-li gebön vödabuki olik?
 eng	vol_Latn	Can she speak English?	Кanon-li spikön Linglänapüki?
+eng	vol_Latn	Can they speak English?	Kanofs-li spikön Linglänapüki?
+eng	vol_Latn	Can they speak English?	Kanoms-li spikön Linglänapüki?
+eng	vol_Latn	Can they speak English?	Kanon-li spikön Linglänapüki?
+eng	vol_Latn	Can they speak English?	Kanons-li spikön Linglänapüki?
 eng	vol_Latn	Can Tom swim?	Kanom-li el Tom svimön?
 eng	vol_Latn	Can Tom write his name?	Tomas kanom-li penön nemi okik?
 eng	vol_Latn	Can't you see I'm working?	No-li logol das vobob?
@@ -56,6 +62,7 @@ eng	vol_Latn	Cats have two ears.	Kats laboms lilis tel.
 eng	vol_Latn	Change the flag, please.	Votükorös stäni.
 eng	vol_Latn	Children are sometimes afraid of the dark.	Cils dredons semikna dagi.
 eng	vol_Latn	Children play with toys.	Cils pledons ko pledadins.
+eng	vol_Latn	China is a huge country.	Cinän binom län legletik.
 eng	vol_Latn	Coffee is life.	Kaf binom lif.
 eng	vol_Latn	Coffee is life.	Kaf binon lif.
 eng	vol_Latn	Colorless green ideas sleep furiously.	Tiks glünik nekölik slipons foetiko.
@@ -71,9 +78,11 @@ eng	vol_Latn	Did you change it?	Li-äcenol omi?
 eng	vol_Latn	Did you get my gift?	Li-ägetol givi oba?
 eng	vol_Latn	Did you know that Mary killed Tom?	Li-änolol das el Maria äfunof Tomasi?
 eng	vol_Latn	Did you wait for her?	Li-ävaladol ofi?
+eng	vol_Latn	Does that place even exist?	Velatiko-li top et sibinom?
 eng	vol_Latn	Does Tom drink coffee?	Dlinom-li Tom kafi?
 eng	vol_Latn	Does Tom go downtown often?	Tomas ofen-li golom in zifazenodi?
 eng	vol_Latn	Does Tom hate it?	Tomas hetom-li etosi?
+eng	vol_Latn	Does Tom know about us?	Tomas nolom-li dö obs?
 eng	vol_Latn	Does Tom know what to do?	Tomas nolom-li, kisi dunön?
 eng	vol_Latn	Does Tom know who did it?	Tomas nolom-li, kim edunom etosi?
 eng	vol_Latn	Does Tom like that?	Tomas löfom-li etosi?
@@ -134,6 +143,7 @@ eng	vol_Latn	Do you speak Toki Pona?	Spikol-li eli Toki Pona?
 eng	vol_Latn	Do you speak Turkish?	Spikol-li Türkänapüki?
 eng	vol_Latn	Do you speak Volapük?	Spikol-li Volapüki?
 eng	vol_Latn	Do you think it's easy to find a job in Germany?	Li-tikol das tuvön vobi in Deut binos nefikulik?
+eng	vol_Latn	Do you think that it'll rain?	Li-tikol, das olömibos?
 eng	vol_Latn	Do you think that my work is easy?	Li-tikol das vob obik binom nefikulik?
 eng	vol_Latn	Do you think that you're too good to drink beer with us?	Li-tikol das binol tu gudik al dlinön bili ko obs?
 eng	vol_Latn	Do you want to know?	Li-vilol nolön?
@@ -146,6 +156,7 @@ eng	vol_Latn	English is spoken in Canada.	Linglänapük paspikon in Kanadän.
 eng	vol_Latn	Esperanto allows us to embrace the world.	Sperentapük dalon bradön voli.
 eng	vol_Latn	Everybody thinks so.	Alim tikom so.
 eng	vol_Latn	Everybody thought so.	Alim ätikom etosi.
+eng	vol_Latn	Everything you need will be provided for you.	Ogivon ole valikosi, keli nedol.
 eng	vol_Latn	Fred's house has five rooms.	In dom Freda binos cems lul.
 eng	vol_Latn	Free Rojava!	Libükolsöd eli Rojava!
 eng	vol_Latn	French is a very beautiful language.	Flentapük binom vemo jönik.
@@ -155,6 +166,7 @@ eng	vol_Latn	Give me that knife.	Givolöd obe neifi et.
 eng	vol_Latn	Give Tom the key.	Givolöd kiki Tomase.
 eng	vol_Latn	Go away!	Mogololöd!
 eng	vol_Latn	God is gay.	God binon otgeniälik.
+eng	vol_Latn	Go if you want to go.	Gololöd, if vilol golön.
 eng	vol_Latn	Go now.	Gololöd nu.
 eng	vol_Latn	Good night, Tatoeba.	Neiti gudik, o Tatoeba!
 eng	vol_Latn	Goodnight, Tatoeba.	Neiti gudik, o Tatoeba!
@@ -162,6 +174,7 @@ eng	vol_Latn	Goodnight, Tom.	Neiti gudik, o Tom!
 eng	vol_Latn	Go talk to him.	Gololöd al pükön ko om.
 eng	vol_Latn	Grandpa, what are you doing?	O fatel, kisi dunol?
 eng	vol_Latn	Hamisi doesn't use sugar.	Hamisi no gebom juegi.
+eng	vol_Latn	Has Tom paid you already?	Tomas epelom-li ole ya?
 eng	vol_Latn	He agreed with her.	Äbaivögom ko of.
 eng	vol_Latn	He came here to see you.	Ekömom isi al logön oli.
 eng	vol_Latn	He came to see you yesterday.	Äkömom ädelo al logön oli.
@@ -177,6 +190,7 @@ eng	vol_Latn	He decided to become a pilot.	Äsludom ad vedön stirädan.
 eng	vol_Latn	He didn't show up.	No ädajonom oki.
 eng	vol_Latn	He discovered a new star.	Ätüvom steli nulik.
 eng	vol_Latn	He doesn't have a computer.	No labom nünömi.
+eng	vol_Latn	He doesn't live here.	No lödom is.
 eng	vol_Latn	He had a great belief in the doctor.	Äklödom vemo sanele.
 eng	vol_Latn	He has a cat and two dogs.	Labom kati e dogis tel.
 eng	vol_Latn	He has a perfect body.	Labom koapi nendöfik.
@@ -204,6 +218,7 @@ eng	vol_Latn	He is ugly.	Binom nejönik.
 eng	vol_Latn	He is wealthy, but his older embroidery is poor.	Binom liegik, ab blod bäldikum omik binom pöfik.
 eng	vol_Latn	He knows many people.	Sevom menis mödik.
 eng	vol_Latn	He likes his teachers.	Löfom tidelis okik.
+eng	vol_Latn	He likes to drink coffee.	Löfom dlinön kafi.
 eng	vol_Latn	He likes to hunt.	Löfom yagön.
 eng	vol_Latn	He likes wine.	Plidom vini.
 eng	vol_Latn	He lives in Nagasaki.	Lödom in Nagasaki.
@@ -228,6 +243,7 @@ eng	vol_Latn	He wrote a book about China.	Äpenom buki dö Tsyinän.
 eng	vol_Latn	His argument is rational.	Blöfäd omik binon tikälik.
 eng	vol_Latn	His daughter and my son are good friends.	Jison omik e son obik binoms flens gudik.
 eng	vol_Latn	His family loved me.	Famül oma älöfom obi.
+eng	vol_Latn	His fifth daughter is much more beautiful than the others.	Jison omik lulid binof mödiko jönikum ka votiks.
 eng	vol_Latn	His grandchild lives in the Netherlands.	Poscil omik lödon in Nedän.
 eng	vol_Latn	His mother speaks Italian.	Mot oma pükof Tälapüki.
 eng	vol_Latn	His sister and I will be good friends.	Jiblod omik en ob obinobs flens gudik.
@@ -251,6 +267,7 @@ eng	vol_Latn	I am a man.	Binob man.
 eng	vol_Latn	I am a man.	Binob men.
 eng	vol_Latn	I am a new student.	Binob studel nulik.
 eng	vol_Latn	I am gay.	Binob otgeniälik.
+eng	vol_Latn	I am going home with my brother.	Golob domoi ko blod obik.
 eng	vol_Latn	I am his friend and will remain so.	Binob ed oblibob flen oma.
 eng	vol_Latn	I am hungry.	Faemob.
 eng	vol_Latn	I am loved by my mother.	Palöfob fa mot obik.
@@ -266,6 +283,7 @@ eng	vol_Latn	I bought this book yesterday.	Älemob buki at ädelo.
 eng	vol_Latn	I brought three bottles of wine.	Äblinob fladis kil vina.
 eng	vol_Latn	I can come.	Kanob kömön.
 eng	vol_Latn	I can neither read nor write in French.	Kanob ni lilädön ni penön Flentapüki.
+eng	vol_Latn	I cannot forget that year.	No kanob fögetön yeli et.
 eng	vol_Latn	I cannot speak German.	No kanob spikön Deutänapüki.
 eng	vol_Latn	I can read German, but I can't speak it.	Kanob lilädön Deutapüki, sod no kanob pükön dub om.
 eng	vol_Latn	I can speak English.	Kanob spikön Linglänapüki.
@@ -275,6 +293,7 @@ eng	vol_Latn	I can't afford to buy the new bicycle.	No fägob ad remön saikuli 
 eng	vol_Latn	I can't believe he did that.	No kanob kledön das ädunom etosi.
 eng	vol_Latn	I can't believe that you kissed Tom.	No kanob kledön das äkidol Tomasi.
 eng	vol_Latn	I can't describe it.	No kanob bepenön oni.
+eng	vol_Latn	I can't remember what we did that day.	No memob, kisi ädunobs du del et.
 eng	vol_Latn	I can't say that to my dad.	No kanob sagön etosi fate obik.
 eng	vol_Latn	I can't use this machine.	No kanob gebön cini at.
 eng	vol_Latn	I caught a beautiful butterfly.	Äfanob pabi jönik.
@@ -290,6 +309,9 @@ eng	vol_Latn	I didn't see it.	No älogob oni.
 eng	vol_Latn	I didn't think Mary would ask Tom to help her.	No ätikob das Maria obegof Tomasi yufön ofe.
 eng	vol_Latn	I didn't want to know.	No ävilob nolön.
 eng	vol_Latn	I do not understand her.	No suemob ofi.
+eng	vol_Latn	I do not want money. I just want love.	No vilob moni. Vilob te löfi.
+eng	vol_Latn	I don't believe in God anymore.	No plu kredob mö God.
+eng	vol_Latn	I don't believe Tom was telling the truth.	No klödob, das Tomas äsagom velati.
 eng	vol_Latn	I don't doubt that she is married.	No dotob das labof mateli.
 eng	vol_Latn	I don't eat the core of an apple.	No fidob piäfi poda.
 eng	vol_Latn	I don't have a boyfriend.	No labob hifleni.
@@ -302,6 +324,7 @@ eng	vol_Latn	I don't know what I want right now.	No nolob, kisi vilob ebo.
 eng	vol_Latn	I don't know what to bring.	No nolob, kisi blinoböd.
 eng	vol_Latn	I don't know what to give Tom.	No nolob, kisi givön Tomase.
 eng	vol_Latn	I don't know who did this.	No nolob, kim ädunom atosi.
+eng	vol_Latn	I don't know why he did that.	No nolob, kikod edunom etosi.
 eng	vol_Latn	I don't know why Tom didn't want to go to Australia with me.	No nolob kikod Tomas no ävilom golön in Talopi ko ob.
 eng	vol_Latn	I don't know why you did it.	No nolob, kikod ädunol etosi.
 eng	vol_Latn	I don't know your name.	No nolob nemi olik.
@@ -326,8 +349,10 @@ eng	vol_Latn	I do want to be your friend.	No vilob binön flen ola.
 eng	vol_Latn	I do want to learn!	Ob vilob lärnön!
 eng	vol_Latn	If I were an animal, I would be a cat.	If binob-la nim, binoböv kat.
 eng	vol_Latn	I found his office easily.	Ätuvob bür omik fasiliko.
+eng	vol_Latn	If you don't know, don't speak.	No sagolöd, if no nolol.
 eng	vol_Latn	If you have a medical certificate, bring it.	Ven labol dokümi sanavik, blinolöd oni.
 eng	vol_Latn	I gave her an apple.	Ägivob apodi ofe.
+eng	vol_Latn	I gave him the key.	Egivob kiki ome.
 eng	vol_Latn	I gave my dad a tambourine as a gift.	Ägevob tambureni fate obik as givot.
 eng	vol_Latn	I gave my half to Tom.	Ägivob teldili obik Tomase.
 eng	vol_Latn	I gave Tom a lot of money.	Egivob moni mödik Tomase.
@@ -354,11 +379,13 @@ eng	vol_Latn	I have three cats.	Labob katis kil.
 eng	vol_Latn	I have to go to the city.	Mutob golön in zifi.
 eng	vol_Latn	I have to study now.	Nu mutob studön.
 eng	vol_Latn	I have two siblings.	Labob gemis tel.
+eng	vol_Latn	I hear a horse.	Lilob jevodi.
 eng	vol_Latn	I hear that you're not well.	Lilob, das no binol saunik.
 eng	vol_Latn	I hear voices in my head.	Lilob vögis in kap obik.
 eng	vol_Latn	I hope that the weather stays this way.	Spelob das stom oblibom som.
 eng	vol_Latn	I hope that what you're saying is true.	Spelob das utos, keli sagol, binom velatik.
 eng	vol_Latn	I hope that you remember this.	Spelob das memol etosi.
+eng	vol_Latn	I hope Tom will clean his room.	Spelob, das Tomas oklinom cemi okik.
 eng	vol_Latn	I hope we have fine weather tomorrow.	Spelob das odelo stom obinom gudik.
 eng	vol_Latn	I hope what you're saying is true.	Spelob das utos, keli sagol, binom velatik.
 eng	vol_Latn	I hope you remember this.	Spelob das memol etosi.
@@ -367,6 +394,7 @@ eng	vol_Latn	I killed the cow.	Edeidob jibubi.
 eng	vol_Latn	I knew it was you, Tom!	Änolob das etos äbinom ol, o Tomas!
 eng	vol_Latn	I knew that you had a horse.	Änolob das labol jevali.
 eng	vol_Latn	I knew you wouldn't forget them.	Änolob das no ofögetol omis.
+eng	vol_Latn	I know her father, though I know not her.	Sevob fati ofik, sod no sevob ofi it.
 eng	vol_Latn	I know I can do it.	Nolob das kanob dunön etosi.
 eng	vol_Latn	I know, I know.	Nolob, nolob.
 eng	vol_Latn	I know it's going to be hard for you to understand.	Nolob das kapälön etosi obinos fikulik ole.
@@ -412,13 +440,16 @@ eng	vol_Latn	I love my sibling.	Löfob gemi obik.
 eng	vol_Latn	I love my yellow sweater.	Löfob loviotirakloti yelovik obik.
 eng	vol_Latn	I love this language.	Löfob püki at.
 eng	vol_Latn	I love this world.	Löfob voli at.
+eng	vol_Latn	"I love you." "I love me too."	"Löfob oli." - "I ob löfob obi."
 eng	vol_Latn	I love you.	Löfob oli.
 eng	vol_Latn	I love you, Millie!	Löfob oli, o Millie!
 eng	vol_Latn	I'm a cat.	Binob kat.
 eng	vol_Latn	I'm a fish.	Binob fit.
 eng	vol_Latn	I'm afraid that he can't do it.	Dledob das no kanom dunön etosi.
+eng	vol_Latn	I'm a princess.	Binob jiplin.
 eng	vol_Latn	I'm a prostitute.	Binob jinepuedan.
 eng	vol_Latn	I'm a she-wolf.	Binob jilup.
+eng	vol_Latn	I'm a slave.	Binob slaf.
 eng	vol_Latn	I'm a student, too.	I ob binob studel.
 eng	vol_Latn	I'm aware the work will be difficult.	Nolob das vob obinom fikulik.
 eng	vol_Latn	I'm a wolf.	Binob hilup.
@@ -469,13 +500,16 @@ eng	vol_Latn	I need you.	Nedob oli.
 eng	vol_Latn	I need your help very much.	Vemo nedob yufi ola.
 eng	vol_Latn	Ingo loves her.	Hiel Ingo löfom ofi.
 eng	vol_Latn	In Japan, there are many hot springs.	In Yapän dabinons hitafonäts mödik.
+eng	vol_Latn	I often read books.	Lilädob bukis ofen.
 eng	vol_Latn	I only know that I know nothing.	Nolob te das nolob nosi.
 eng	vol_Latn	I promised to think about that.	Äpömetob tikön dö et.
+eng	vol_Latn	I question whether English is really a suitable global language.	Säkob, va Linglänapük jenöfo binon volapük pötik.
 eng	vol_Latn	I read a book.	Lilädob buki.
 eng	vol_Latn	I really hope no one saw that.	Vemo spelob das nek älogom etosi.
 eng	vol_Latn	I really like studying foreign languages.	Vemo löfob studön pükis foginik.
 eng	vol_Latn	I requested extra salt on my french fries.	Äbonedob sali zuik löpü pötetakötäd oba.
 eng	vol_Latn	I respect your opinion.	Stimob niludami olik.
+eng	vol_Latn	Is another world possible?	Vol difik mögon-li?
 eng	vol_Latn	I saw a lioness.	Ilogob jileoni.
 eng	vol_Latn	I saw him last week.	Älogob omi ävigo.
 eng	vol_Latn	I saw Marcus's house.	Elogob domi hiela Marcus.
@@ -493,11 +527,14 @@ eng	vol_Latn	Is it true he can't read or write?	Binos-li velatiko, das no kanom 
 eng	vol_Latn	Is it true that you wanted to live in Germany?	Binos-li velatik das ävilol lödön in Deut?
 eng	vol_Latn	I slept a lot.	Äslipob mödiko.
 eng	vol_Latn	I slept too long.	Äslipob tu lonediko.
+eng	vol_Latn	Is Mary your sister?	Maria binof-li jiblod ola?
 eng	vol_Latn	I speak a few words of Cat.	Spikob vödis nemödik Katapüka.
 eng	vol_Latn	I speak from experience.	Spikob de plak.
 eng	vol_Latn	I speak Ido.	Spikob eli Ido.
 eng	vol_Latn	I speak Interlingua.	Spikob eli Interlingua.
 eng	vol_Latn	Is she Italian?	Binof-li Litaliyänik?
+eng	vol_Latn	Is she your aunt?	Binof-li jiter olik?
+eng	vol_Latn	Is she your aunt?	Binof-li zian olik?
 eng	vol_Latn	Is that all Tom does?	Etos binom-li valikos, keli Tomas dunom?
 eng	vol_Latn	Is that the sea or a lake?	Etos binom mel u lak?
 eng	vol_Latn	Is the cat on the chair or under the chair?	Binon-li kat su stul u dis stul?
@@ -511,6 +548,7 @@ eng	vol_Latn	Is Tom a good cook?	Tomas binom-li kukel gudik?
 eng	vol_Latn	Italy isn't Greece.	Litaliyän no binon Grikän.
 eng	vol_Latn	It'd be better to avoid Tom today.	Binos gudikumo vitön Tomasi adelo.
 eng	vol_Latn	It doesn't snow here.	No nifos is.
+eng	vol_Latn	I teach teachers.	Tidob tidelis.
 eng	vol_Latn	I teach.	Tidob.
 eng	vol_Latn	It has rained in the forest.	Ereinos in fot.
 eng	vol_Latn	I think it was Tom who helped Mary.	Tikob das men, kel äyufom ele Maria, binom Tomas.
@@ -528,21 +566,28 @@ eng	vol_Latn	It's become very cold.	Evedos vemo kalodiko.
 eng	vol_Latn	It's become very cold.	Evedos vemo nevamiko.
 eng	vol_Latn	It's become very hot.	Evedos vemo hitiko.
 eng	vol_Latn	It's become very warm.	Evedos vemo hitiko.
+eng	vol_Latn	It's better for you to know the truth.	Obinos gudikumo ole, if onolol velati.
 eng	vol_Latn	It's fun to build a snowman in winter.	Binos drol ad bumön nifaman ün nifüp.
 eng	vol_Latn	It's going to rain soon. Look at those black clouds.	Oreinos suno. Logedolöd lü lefogis blägik.
 eng	vol_Latn	It's hot today.	Hitos adelo.
 eng	vol_Latn	It's hot today, isn't it?	Hitos adelo, no-li?
 eng	vol_Latn	It's not very easy.	No binos vemo nefikulik.
+eng	vol_Latn	It snowed during the night.	Änifos du neit.
 eng	vol_Latn	It's raining.	Reinon.
 eng	vol_Latn	It's time to learn German.	Nu binos tim al studön Deutapüki.
 eng	vol_Latn	It's Tom's first time here.	Tomas binom is balidna.
+eng	vol_Latn	It's too dark in here to read.	Is binos tu dagiko al lilädön.
+eng	vol_Latn	It's too dark to read in here.	Is binos tu dagiko al lilädön.
 eng	vol_Latn	It's too hot.	Binos tu hitik.
 eng	vol_Latn	It's warm today.	Binos vamik adelo.
+eng	vol_Latn	It's windy and it's raining.	Vienos e lömibos.
 eng	vol_Latn	It took me three years to write this book.	Älautob buki at du yels kil.
 eng	vol_Latn	It was easy to find his office.	Äbinos fasilik ad tuvön bür omik.
 eng	vol_Latn	It was hot yesterday.	Äbinos hitik ädelo.
 eng	vol_Latn	It was proved that he was a thief.	Päblöfos, das äbinom tifan.
 eng	vol_Latn	It was raining in the forest.	Äireinos in fot.
+eng	vol_Latn	It was Tom that did that.	Etos pedunom fa Tomas.
+eng	vol_Latn	It was Tom that did that.	Tomas iet edunom etosi.
 eng	vol_Latn	It will be snowing tomorrow.	Onifos odelo.
 eng	vol_Latn	It will get warmer soon.	Obinos vamikumo suno.
 eng	vol_Latn	It will have rained in the forest.	Ureinos in fot.
@@ -578,11 +623,14 @@ eng	vol_Latn	I want to live in Australia.	Vilob lödön in Laustralän.
 eng	vol_Latn	I want to live in Brazil.	Vilob lödön in Brasilän.
 eng	vol_Latn	I want Tom to come.	Vilob, das Tom kömom.
 eng	vol_Latn	I want Tom to come.	Vilob dat Tomas okömom.
+eng	vol_Latn	I want Tom to know about it.	Vilob, dat Tomas vilomöd dö etos.
+eng	vol_Latn	I want to see.	Vilob logön.
 eng	vol_Latn	I want to sleep! Rather than live I want to sleep!	Vilob slipön! Vilob slipön umo ka lifön!
 eng	vol_Latn	I want to study French.	Vilob studön Fransänapüki.
 eng	vol_Latn	I want to study history.	Vilob studön jenavi.
 eng	vol_Latn	I want to study in that school.	Vilob studön in jul et.
 eng	vol_Latn	I want your money.	Vilob moni olik.
+eng	vol_Latn	I want you to remember this.	Vilob, dat memolöd etosi.
 eng	vol_Latn	I was able to help her.	Äkanob yufön ofe.
 eng	vol_Latn	I was a healthy child.	Äbinob cil saunik.
 eng	vol_Latn	I was caught sleeping in class.	Petuvob slipöl in studacem.
@@ -593,6 +641,7 @@ eng	vol_Latn	I was using it.	Ägebob oni.
 eng	vol_Latn	I went there yesterday.	Ägolob usi ädelo.
 eng	vol_Latn	I will go to Ireland this summer.	Ogolob lü Lireyän ün hitüp at.
 eng	vol_Latn	I will haunt you.	Ospäkob lä ol.
+eng	vol_Latn	I will never study Esperanto.	Neai ostudob Sperantapüki.
 eng	vol_Latn	I will not help you.	No oyufob ole.
 eng	vol_Latn	I will not sell my soul.	No oselob lani obik.
 eng	vol_Latn	I will sleep.	Oslipob.
@@ -600,6 +649,7 @@ eng	vol_Latn	I wonder if it'll rain.	Vilob nolön, va olömibos.
 eng	vol_Latn	I won't be able to do that without your help.	No okanob dunön etosi nen yuf olik.
 eng	vol_Latn	I won't come today.	No okömob adelo.
 eng	vol_Latn	I worked with Tom for many years.	Ävobob ko Tomas du yels mödik.
+eng	vol_Latn	I would do it, but Tom won't let me.	Dunoböv etosi, sod Tomas no oletom obe.
 eng	vol_Latn	I write a letter.	Penob penedi.
 eng	vol_Latn	I wrote a letter.	Äpenob penedi.
 eng	vol_Latn	I wrote the wrong address on the envelope.	Äpenob ladeti neverätik sui köv.
@@ -645,11 +695,13 @@ eng	vol_Latn	Music is love.	Musig binom löf.
 eng	vol_Latn	Must I stay in bed?	Mutob-li blebön in bed?
 eng	vol_Latn	My aim is to be a doctor.	Zeil oba binom vedön sanel.
 eng	vol_Latn	My blood is no redder than yours.	Blud obik no binon redikum ka olik.
+eng	vol_Latn	My brother's younger than me.	Blod obik binom umo yunik ka ob.
 eng	vol_Latn	My camera was stolen on the train.	Käm obik pätifon su tren.
 eng	vol_Latn	My car is German.	Tood obik binon Deutänik.
 eng	vol_Latn	My children can't speak Hebrew.	Cils obik no kanons spikön Hebreyapüki.
 eng	vol_Latn	My dog wants to play.	Jidog obik vilof pledön.
 eng	vol_Latn	My family has lived here for twenty years.	Famül oba älödom is yelis tels.
+eng	vol_Latn	My family lives in the city.	Famül obik lödom in zif.
 eng	vol_Latn	My father is a doctor.	Fat obik binom sanel.
 eng	vol_Latn	My father is retiring next spring.	Fat oba necalikom oflorüpo.
 eng	vol_Latn	My grandmother has many sisters.	Lemot obik labof söris mödik.
@@ -659,6 +711,7 @@ eng	vol_Latn	My hovercraft is full of eels.	Lutakujababot oba binon fulik senkaf
 eng	vol_Latn	My name is Dilshad.	Nem obik binon Dilshad.
 eng	vol_Latn	My name is Hopkins.	Nem obik binon Hopkins.
 eng	vol_Latn	My name is Wang Jiaming.	Nem obik binom Van Zsyamin.
+eng	vol_Latn	My neighbor saved my life.	Nilel oba esavom lifi obe.
 eng	vol_Latn	My nickname is "Itch."	Länem obik binon "Itch".
 eng	vol_Latn	My parents did not baptize me.	Pals obik no äblunedons obi.
 eng	vol_Latn	My sister has a dog.	Jiblod obik labof dogi.
@@ -675,6 +728,8 @@ eng	vol_Latn	Nobody can help us.	Nek kanom yufön obes.
 eng	vol_Latn	Nobody here eats meat.	Nek fidom miti is.
 eng	vol_Latn	Nobody knows everything.	Nek nolon valikosi.
 eng	vol_Latn	Nobody knows everything.	Nek valikosi nolon.
+eng	vol_Latn	Nobody loves you.	Nek löfom oli.
+eng	vol_Latn	Nobody wanted to go with Tom.	Nek ävilom golön ko Tomas.
 eng	vol_Latn	Nobody will help you.	Nek oyufom ole.
 eng	vol_Latn	No one knows everything.	Nek nolon valikosi.
 eng	vol_Latn	No one knows if someone helped him.	Nek nolom, va ek eyufom ome.
@@ -688,6 +743,7 @@ eng	vol_Latn	Open those doors.	Manifolöd yanis et.
 eng	vol_Latn	Our cow doesn't give us any milk.	Kun obsik no givof miligi obes.
 eng	vol_Latn	Our kids hate us.	Cils obsik hetoms obis.
 eng	vol_Latn	People learn from experience.	Pösods lärnons de plak.
+eng	vol_Latn	People learn when they teach.	Tidöl, studon.
 eng	vol_Latn	People often buy things that they don't need.	Ofen lemon dinis, keli no nedon.
 eng	vol_Latn	People often buy things they don't need.	Ofen lemon dinis, keli no nedon.
 eng	vol_Latn	Platypuses live in the east of Austria.	Honedafs lifon in Lösterän lofüd.
@@ -695,6 +751,7 @@ eng	vol_Latn	Please share my umbrella.	Dilolös reinajelömi obik.
 eng	vol_Latn	Please sing a song.	Kanitolös kaniti.
 eng	vol_Latn	Please write back soon.	Gepenolös suniko.
 eng	vol_Latn	Property is theft.	Dalab binon tif.
+eng	vol_Latn	Remember me.	Memolöd obi.
 eng	vol_Latn	Rubén is the father of three children.	Ruben binom fat cilas kil.
 eng	vol_Latn	Run fast!	Gonolöd vifiko!
 eng	vol_Latn	Sam has promised to pay the money at the end of the month.	Samül epömetom pelön moni len fin mula at.
@@ -702,6 +759,7 @@ eng	vol_Latn	Sami is a translator.	Sami binom tradutan.
 eng	vol_Latn	Say it in French.	Sagolöd etosi dub Flentapük.
 eng	vol_Latn	She behaved quite foolishly.	Äkondötof vemo fopiko.
 eng	vol_Latn	She bought a book at the shop.	Eremof buki in selidöp.
+eng	vol_Latn	She can speak.	Kanof pükön.
 eng	vol_Latn	She can't hurt you anymore.	No plu kanof viodön oli.
 eng	vol_Latn	She didn't know.	No änolof.
 eng	vol_Latn	She didn't show up.	No ädajonof oki.
@@ -716,6 +774,8 @@ eng	vol_Latn	She has many books.	Labof bukis mödik.
 eng	vol_Latn	She has never lived in India.	Neai elödof in Lindän.
 eng	vol_Latn	She has painted the door red.	Ekölof yani rediku.
 eng	vol_Latn	She has ten children.	Labof cilis deg.
+eng	vol_Latn	She has three daughters.	Labof jisonis kil.
+eng	vol_Latn	She has three sons.	Labof sonis kil.
 eng	vol_Latn	She is an actor.	Binof dramatan.
 eng	vol_Latn	She is everything to him.	Binof valikos ome.
 eng	vol_Latn	She is not tall.	No binof gretik.
@@ -751,14 +811,18 @@ eng	vol_Latn	Stay home.	Blebolöd domo.
 eng	vol_Latn	Stay out of the kitchen.	Blibolöd se kuk.
 eng	vol_Latn	Stay with us in this room.	Stebolöd ko obs in cem at.
 eng	vol_Latn	Stop the flow of blood from the wound.	Stopolöd bludaflumi vuna.
+eng	vol_Latn	Such a person doesn't exist.	Men som no sibinom.
 eng	vol_Latn	Take him away.	Mosumolsöd omi.
+eng	vol_Latn	Tell me about your father.	Konotolöd obe dö fat olik.
 eng	vol_Latn	Tell me if it hurts.	Sagolöd obe, if liedos.
 eng	vol_Latn	Tell me why you want to go there.	Sagolöd obe, kikod vilol golön usi.
 eng	vol_Latn	Tell Tom. I want him to know it was me.	Sagolöd Tomase. Vilob, dat nolomöd, das etos binos ob.
+eng	vol_Latn	Tell Tom that I'll be there.	Sagolöd Tomase, das obinob us.
 eng	vol_Latn	Tell Tom that Mary wants to see him.	Sagolöd Tomase das el Maria vilof logön omi.
 eng	vol_Latn	That big book is mine.	Gletik buk et binom obik.
 eng	vol_Latn	That box is better than this one.	Bog et binom gudikum ka at.
 eng	vol_Latn	That helped you a lot.	Etos vemo äyufom ole.
+eng	vol_Latn	That man over there is the spouse of the woman who's teaching me French.	Man et binom matel voma, kel binof tidel obik Flentapüka.
 eng	vol_Latn	That's all I needed to know.	Etos binom valikos keli änedob nolön.
 eng	vol_Latn	That's mine!	Etos binom obik!
 eng	vol_Latn	That's not a dictionary.	No binom vödasbuk.
@@ -772,6 +836,7 @@ eng	vol_Latn	That's what Tom wants to avoid.	Ätosi Tomas vilom vitön.
 eng	vol_Latn	That woman's name is Mary.	Nem voma et binom Maria.
 eng	vol_Latn	That won't be easy for me to do.	Dunön etosi no obinos nefikulik obe.
 eng	vol_Latn	That won't help Tom.	Etos no oyufom Tomase.
+eng	vol_Latn	That would be a huge mistake.	Etos binomöv pök legletik.
 eng	vol_Latn	The apple is yellow.	Pod binon yelovik.
 eng	vol_Latn	The atomic energy is expensive and dangerous.	Nämet taumik binom jerik e riskädik.
 eng	vol_Latn	The axe is very important in American culture.	Cüd binon vemo veütik in kuliv Lamerikänik.
@@ -779,9 +844,12 @@ eng	vol_Latn	The baby is sleeping on the bed.	Cilil slipon su bed.
 eng	vol_Latn	The boss was looking for you.	Cif äsükom oli.
 eng	vol_Latn	The boy is obedient to his parents.	Pul lobedom palis okik.
 eng	vol_Latn	The boy remained silent.	Pul äblibom nepükik.
+eng	vol_Latn	The cat eats the bird.	Kat fidom bödi.
 eng	vol_Latn	The cat is big.	Kat binon gretik.
+eng	vol_Latn	The cat is eating a mouse.	Kat fidom mugi.
 eng	vol_Latn	The cat is in the house.	Kat binon in dom.
 eng	vol_Latn	The cat is sleeping.	Kat slipom.
+eng	vol_Latn	The cat saw the bird.	Kat älogom bödi.
 eng	vol_Latn	The cat was asleep.	Kat äslipom.
 eng	vol_Latn	The child doesn't want to sleep.	Cil no vilom slipön.
 eng	vol_Latn	The child of a child is a grandchild.	Cil cila binon poscil.
@@ -840,9 +908,12 @@ eng	vol_Latn	The town is beautiful.	Zif binon jönik.
 eng	vol_Latn	The trees are green.	Bims binons grünik.
 eng	vol_Latn	The truth is bitter.	Velat binom biedik.
 eng	vol_Latn	The United States is Canada's evil twin.	Lamerikän binon telädan badik Kanadäna.
+eng	vol_Latn	The world is a nation.	Vol binon net.
 eng	vol_Latn	The world is a village.	Vol binon vilag.
+eng	vol_Latn	The world is sick.	Vol binon malädik.
 eng	vol_Latn	The worst virus is capitalism.	Virud badikün binon katädim.
 eng	vol_Latn	They are eating their apples.	Fidons podis okik.
+eng	vol_Latn	They are human.	Binons mens.
 eng	vol_Latn	They are neither a man nor a woman.	Binon ni himen ni jimen.
 eng	vol_Latn	They are neither a man nor a woman.	Binon ni man ni vom.
 eng	vol_Latn	They are teachers.	Binofs tidans.
@@ -869,6 +940,7 @@ eng	vol_Latn	This book is mine. Where is yours?	Buk at binom obik. Kiöp binom b
 eng	vol_Latn	This book is older than that one.	At buk binon bäldikum ka eti.
 eng	vol_Latn	This book is very heavy.	Buk at binom vemo neleitik.
 eng	vol_Latn	This book was easy.	Buk at ebinon fasilik.
+eng	vol_Latn	This box is bigger than that one.	Bog at binom umo gletik ka et.
 eng	vol_Latn	This bridge was built two years ago.	Pon at päbumon bü yels tel.
 eng	vol_Latn	This city is in the USA.	Zif et binom in Pebaltats.
 eng	vol_Latn	This dog is mine.	Dog at binom obik.
@@ -910,6 +982,8 @@ eng	vol_Latn	Tom can't help Mary today.	Tomas no kanom yufön ele Maria adelo.
 eng	vol_Latn	Tom can't help me.	Tomas no kanom yufön obe.
 eng	vol_Latn	Tom can't help us today because he's sick.	Tomas no kanom yufön obes adelo, ibo binom malädik.
 eng	vol_Latn	Tom couldn't find Mary.	Tomas no äkanom tuvön eli Maria.
+eng	vol_Latn	Tom could sense that.	Tomas äkanom senön etosi.
+eng	vol_Latn	Tom currently resides in Australia.	Tomas nu lödom in Talop.
 eng	vol_Latn	Tom didn't doubt that Mary loved him.	Tomas no ädotom das Maria löfof omi.
 eng	vol_Latn	Tom didn't eat.	El Tom no äfidom.
 eng	vol_Latn	Tom didn't have a phone.	Tom no älabom telefoni.
@@ -919,6 +993,7 @@ eng	vol_Latn	Tom didn't need much help.	Tomas no änedom yufi gletik.
 eng	vol_Latn	Tom didn't show up for work yesterday.	Ädelo Tom no äkömom al vobön.
 eng	vol_Latn	Tom does need you.	Tomas nedom oli velatiko.
 eng	vol_Latn	Tom doesn't drink.	Hiel Tom no drinom.
+eng	vol_Latn	Tom doesn't drink wine very often.	Tomas dlinom vini no vemo ofen.
 eng	vol_Latn	Tom doesn't know Mary.	Tomas no sevom eli Maria.
 eng	vol_Latn	Tom doesn't know that.	Hiel Tom no nolom etosi.
 eng	vol_Latn	Tom doesn't know too much.	Tomas nolom no tu mödiko.
@@ -930,11 +1005,13 @@ eng	vol_Latn	Tom had no doubt.	Tomaso no ädotom.
 eng	vol_Latn	Tom has been to Boston only once.	Tomas äbinom in Boston te balna.
 eng	vol_Latn	Tom has friends in Germany.	Tom labom flenis in Deutän.
 eng	vol_Latn	Tom has no empathy.	Tom labom keliedi nonik.
+eng	vol_Latn	Tom has no idea who I am.	Tomas no nolom, kim binob.
 eng	vol_Latn	Tom hasn't eaten.	El Tom no efidom.
 eng	vol_Latn	Tom hasn't had an easy life.	Lif Tomasa no äbinom nefikulik.
 eng	vol_Latn	Tom has to be here today.	Tomas mutob binön is adelo.
 eng	vol_Latn	Tom has to tell the truth.	Tomas mutom sagön velati.
 eng	vol_Latn	Tom hates himself.	Tomas hetom oki.
+eng	vol_Latn	Tom hates me, you already know.	Tomas hetom obi, ya nolol etosi.
 eng	vol_Latn	Tom hates us.	Tom hetom obis.
 eng	vol_Latn	Tom is a great teacher.	Tomas binom tidel legudik.
 eng	vol_Latn	Tom is a man, and I'm a woman.	Tom binom himen ed ob binob jimen.
@@ -947,6 +1024,7 @@ eng	vol_Latn	Tom is hoping Mary can help him.	Tomas spelom, das Maria okanof yuf
 eng	vol_Latn	Tom is learning how to swim.	Tomas lenadom svimön.
 eng	vol_Latn	Tom is looking at you.	Tomas logom oli.
 eng	vol_Latn	Tom is married to a Canadian.	Tomas binom matel jikanadela.
+eng	vol_Latn	Tom is much younger than you are.	Tomas binom mödiko umo yunik, ka ol.
 eng	vol_Latn	Tom is my brother.	El Tom binom blod obik.
 eng	vol_Latn	Tom is my daughter's third husband.	Tomas binom matel kilid jisona obik.
 eng	vol_Latn	Tom is my husband's best friend.	Tomas binom flenün obika matela.
@@ -994,6 +1072,7 @@ eng	vol_Latn	Tom said you needed a job.	Tomas äsagom das nedol vobi.
 eng	vol_Latn	Tom saved your life.	El Tom esavom lifi olik.
 eng	vol_Latn	Tom says he wants to help Mary do that.	Tomas sagom das vilom yufön ole Maria dunön etosi.
 eng	vol_Latn	Tom's birthday was yesterday.	Motedadel ela Tom äbinon ädelo.
+eng	vol_Latn	Tom's cats love me.	Kats Tomasa löfoms obi.
 eng	vol_Latn	Tom's eating.	Tom binom fidöl.
 eng	vol_Latn	Tom's eating.	Tom fidom.
 eng	vol_Latn	Tom sells coffee.	Tomas selom kafi.
@@ -1007,6 +1086,7 @@ eng	vol_Latn	Tom told me that he would do it tomorrow.	Tomas äsagom obe das ome
 eng	vol_Latn	Tom wanted this.	Tomas ävilom atosi.
 eng	vol_Latn	Tom wanted to be there.	Hiel Tom ävilom binön us.
 eng	vol_Latn	Tom wanted to do this.	Tomas ävilom dunön etosi.
+eng	vol_Latn	Tom wanted to see for himself if it was true.	Tomas ävilom logön it, va etos binom velatik.
 eng	vol_Latn	Tom wants to be famous.	Tomas vilom binön famik.
 eng	vol_Latn	Tom wants to thank you.	Tom vilom danön ole.
 eng	vol_Latn	Tom was in his office.	Tomas äbinom in bür okik.
@@ -1030,6 +1110,8 @@ eng	vol_Latn	Tom won't thank me.	Tomas no odanom obe.
 eng	vol_Latn	Tony did not know their names.	Toni no nolom nemis omas.
 eng	vol_Latn	To tell the truth, I am not your father.	Ad sagön verati, no binob fat olik.
 eng	vol_Latn	To tell the truth, I'm not your father.	Ad sagön verati, no binob fat olik.
+eng	vol_Latn	Trust the bear!	Konfidolöd beri!
+eng	vol_Latn	Trust the bear!	Konfidolsöd beri!
 eng	vol_Latn	Twenty years is a long time.	Yels tels binom tim gletik.
 eng	vol_Latn	Wait. I wanna talk to you.	Valadolöd. Vilob pükön ko ol.
 eng	vol_Latn	Was Karl Marx a communist?	El Karl Marx äbinom-li kobädiman?
@@ -1038,6 +1120,7 @@ eng	vol_Latn	We are good friends.	Binobs flens gudik.
 eng	vol_Latn	We are in Finland.	Binobs in Suomiyän.
 eng	vol_Latn	We aren't going to sing that song.	No okanitobs kaniti et.
 eng	vol_Latn	We are women.	Binobs voms.
+eng	vol_Latn	We bought everything.	Elemobs valikosi.
 eng	vol_Latn	We can't kill Tom.	No kanobs deidön hieli Tom.
 eng	vol_Latn	We caught the thief.	Äfanobs tifeli.
 eng	vol_Latn	We could write them a letter.	Äkanobs penön penedi omes.
@@ -1070,11 +1153,13 @@ eng	vol_Latn	We need our dictionaries, but we can't find them.	Nedobs vödasbuki
 eng	vol_Latn	We're friends.	Binobs flens.
 eng	vol_Latn	We're going.	Golobs.
 eng	vol_Latn	We're going to need both of them.	Onedobs omis bofik.
+eng	vol_Latn	We're learning how to write.	Studobs penön.
 eng	vol_Latn	We're sensitive.	Binobs senälöfik.
 eng	vol_Latn	We're sensitive.	Binobs senöfik.
 eng	vol_Latn	Were you sad when Tom died?	Ebinol-li lügik, ven el Tom edeadom?
 eng	vol_Latn	We should be there with them.	Mutobs binön us ko oms.
 eng	vol_Latn	We sometimes swim in the lake.	Svimobs semanaedo in lak.
+eng	vol_Latn	We teach in the same school.	Tidobs in jul ot.
 eng	vol_Latn	We've eaten.	Efidobs.
 eng	vol_Latn	We were in the capital.	Äbinobs in cifazif.
 eng	vol_Latn	We were right.	Änepölobs.
@@ -1092,6 +1177,7 @@ eng	vol_Latn	What does Tom have against you?	Kisi Tomas labom ta ol?
 eng	vol_Latn	What does Tom want to do tomorrow?	Kisi Tomas vilom dunön odelo?
 eng	vol_Latn	What do I have to change?	Kisi mutob cenön?
 eng	vol_Latn	What do they know that we don't know?	Kisi noloms, keli no nolobs?
+eng	vol_Latn	What do they want to know?	Kisi viloms nolön?
 eng	vol_Latn	What do Tom and Mary teach?	Kisi Tomas e Maria tidoms?
 eng	vol_Latn	What do you have in your hand?	Kisi labol in nam olik?
 eng	vol_Latn	What do you think of our love?	Kisi tikol dö löf obsik?
@@ -1115,6 +1201,7 @@ eng	vol_Latn	When can Tom do that?	Kiüp Tomas kanom dunön etosi?
 eng	vol_Latn	When did you begin teaching here?	Kiüp ebeginol tidön is?
 eng	vol_Latn	When was it built?	Kiüp om pebumom?
 eng	vol_Latn	When will Father be back?	Kitimo Fat ogekömom-li?
+eng	vol_Latn	Where and when?	Kiöp e kiüp?
 eng	vol_Latn	Where are you going?	Kipladi golol?
 eng	vol_Latn	Where are you going?	Kipladio golol-li?
 eng	vol_Latn	Where are you?	Kiöpo binol-li?
@@ -1125,6 +1212,7 @@ eng	vol_Latn	Where does the moon go when it's not in the sky?	Mun kipladio golon
 eng	vol_Latn	Where is the horse?	Kiöp jeval binom?
 eng	vol_Latn	Where is the restaurant?	Kiöpo topon-li staudöp?
 eng	vol_Latn	Where's my wife?	Kiöpo binof-li jimatan obik?
+eng	vol_Latn	"Where's Tom?" "He's in his room."	"Kiöp Tomas binom?" - "Binom in cem okik."
 eng	vol_Latn	Where's Tom's watch?	Kiöp binom glok Tomasa?
 eng	vol_Latn	Where's your money?	Kiöp mon olik binom?
 eng	vol_Latn	Who are those people?	Kims binoms mens et?
@@ -1132,6 +1220,7 @@ eng	vol_Latn	Who ate the bread?	Kim efidom bodi?
 eng	vol_Latn	Who built your house?	Kim ebumom domi olik?
 eng	vol_Latn	Who came yesterday?	Kim ekömom ädelo?
 eng	vol_Latn	Who can help me?	Kim kanom yufön obe?
+eng	vol_Latn	Who did Tom sell his house to?	Kime Tomas eselom domi okik?
 eng	vol_Latn	Who did you kill?	Kimi äfunol?
 eng	vol_Latn	Who does that?	Kim vobom etosi?
 eng	vol_Latn	Who here doesn't know what to do?	Kim is no nolom, kisi dunön?
@@ -1140,6 +1229,7 @@ eng	vol_Latn	Who is that man?	Kim binom man et?
 eng	vol_Latn	Who is your enemy?	Kim binom neflen olik?
 eng	vol_Latn	Who is your teacher?	Kim binom tidel olik?
 eng	vol_Latn	Who'll go with me?	Kim ogolom ko ob?
+eng	vol_Latn	Whom does she love?	Kimi löfof?
 eng	vol_Latn	Who rescued Tom?	Kim esavom Tomasi?
 eng	vol_Latn	Who sent me this?	Kim esedom atosi obe?
 eng	vol_Latn	"Whose socks are these?" "They are my sister's."	“Kifa binons-li lustogs at?” — “Binons söra obik.”
@@ -1172,11 +1262,13 @@ eng	vol_Latn	Why doesn't anybody help me?	Kikod nek yufom obe?
 eng	vol_Latn	Why does Tom want to live there?	Kikod Tomas vilom lödön us?
 eng	vol_Latn	Why don't I know about it?	Kikod no nolob dö etos?
 eng	vol_Latn	Why don't we walk?	Kikod no spatobs?
+eng	vol_Latn	Why don't you want Tom to help you?	Kikod no vilol, dat Tomas yufomöd ole?
 eng	vol_Latn	Why do you hate America?	Kikodo hetol Lamerikäni?
 eng	vol_Latn	Why do you hate the United States?	Kikodo hetol Lamerikäni?
 eng	vol_Latn	Why do you hate yourself?	Kikod hetol oli?
 eng	vol_Latn	Why do you study?	Kikodo studol-li?
 eng	vol_Latn	Why do you think I didn't do that?	Kikod tikol das no ädunob etosi?
+eng	vol_Latn	Why do you think Tom wanted to do that?	Kikod tikol, das Tomas ävilom dunön etosi?
 eng	vol_Latn	Why do you want to do that?	Kikod vilol dunön etosi?
 eng	vol_Latn	Why isn't Tom asleep?	Kikod Tomas no slipom?
 eng	vol_Latn	Why should I give you money?	Kikod mutob givön moni ole?
@@ -1201,6 +1293,7 @@ eng	vol_Latn	Yann ate bread.	El Yann fidon bodi.
 eng	vol_Latn	Yes, I have a daughter.	Si, labob jisoni.
 eng	vol_Latn	Yes, I went yesterday.	Si, ägolob ädelo.
 eng	vol_Latn	Yesterday, I ate an apple.	Ädelo efidob podi.
+eng	vol_Latn	Yes, we will help you.	Si, oyufobs ole.
 eng	vol_Latn	You all need to help Tom.	Ols valik mutols yufön Tomase.
 eng	vol_Latn	You already know too much.	Ya nolol tu mödiko.
 eng	vol_Latn	You are beautiful.	Binol jönik.
@@ -1223,9 +1316,11 @@ eng	vol_Latn	You fell.	Efalol.
 eng	vol_Latn	You have a beautiful smile.	Labol smüli jönik.
 eng	vol_Latn	You have a desire to be wealthy, don't you?	Vilol binön liegik, no-li?
 eng	vol_Latn	You know my terms.	Nolol stipi oba.
+eng	vol_Latn	You know what I found.	Nolol, kisi etuvob.
 eng	vol_Latn	You lied to us, didn't you?	Äseistol obes, no-li?
 eng	vol_Latn	You'll die soon.	Odeadol suno.
 eng	vol_Latn	You look perfect.	Logotöl nedöfiko.
+eng	vol_Latn	You loved me.	Älöfol obi.
 eng	vol_Latn	You love yourself.	Löfol oli.
 eng	vol_Latn	You must avoid making those kinds of mistakes.	Muton vitön pökis som.
 eng	vol_Latn	You promised that you would help me.	Äpömetol yufön obe.
@@ -1236,6 +1331,8 @@ eng	vol_Latn	You're a good sibling.	Binol gem gudik.
 eng	vol_Latn	You're a thief, Tom.	Binol tifel, o Tomas.
 eng	vol_Latn	You're a very lovely woman.	Binol vom vemo jönik.
 eng	vol_Latn	You're living in the past.	Lifol in paset.
+eng	vol_Latn	You're musicians, aren't you?	Binols musigels, no-li?
+eng	vol_Latn	You're not a bad person.	No binol men badik.
 eng	vol_Latn	You're sensitive.	Binol senälöfik.
 eng	vol_Latn	You're sensitive.	Binols senälöfik.
 eng	vol_Latn	You're so beautiful!	Binol so jönik!
@@ -1250,6 +1347,7 @@ eng	vol_Latn	You strain at a gnat and swallow a camel.	Sibols muskiti, e luslugo
 eng	vol_Latn	You teach Arabic.	Tidols Larabänapüki.
 eng	vol_Latn	You teach Arabic.	Tidor Larabänapüki.
 eng	vol_Latn	You've been married a long time.	Äbinol matel lonediko.
+eng	vol_Latn	You want to help me.	Vilol yufön obe.
 eng	vol_Latn	You will be punished.	Popönol.
 eng	vol_Latn	You will sell your house.	Oselol domi olik.
 eng	vol_Latn	You will write a letter.	Openol penedi.

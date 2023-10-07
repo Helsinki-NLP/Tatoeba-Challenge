@@ -7,7 +7,6 @@ ber_Latn	rus	Ad k-waliɣ akk-a kra n wussan.	Я увижусь с вами оч�
 ber_Latn	rus	Ad nnḍeɣ taxxamt-iw azekka.	Я завтра у себя в комнате уберусь.
 ber_Latn	rus	Ad tilimt d tizzyiwin yid-i.	Вы примерно моего возраста.
 ber_Latn	rus	Ad urareɣ tennis.	Я собираюсь играть в теннис.
-ber_Latn	rus	Ɣaleɣ is d Ujjappun ayed iga.	Думаю, он из Японии.
 ber_Latn	rus	Amcic-nni la ak-yettess akeffay-nnek.	Кот пьёт твоё молоко.
 ber_Latn	rus	Anda ay d-tezga Ldzayer?	Где находится Алжир?
 ber_Latn	rus	Anda ay ten-tenɣiḍ?	Где ты убил их?
@@ -20,6 +19,7 @@ ber_Latn	rus	As-d ad as-nsemmi Snoopy.	Давай называть его Сну
 ber_Latn	rus	Aseggas ameggaz!	С Новым годом!
 ber_Latn	rus	Aseggas deg-s 12 wagguren.	В году двенадцать месяцев.
 ber_Latn	rus	Aselmad-nni la yeqqar adlis-nni.	Учитель читает книгу.
+ber_Latn	rus	Atan yekkat udfel deg Zzayer?	Идет ли снег в Алжире?
 ber_Latn	rus	Axxam-inu d axxam-nnek.	Мой дом - твой дом.
 ber_Latn	rus	Axxam-inu d axxam-nnem.	Мой дом - твой дом.
 ber_Latn	rus	Aydi-nni la yettneggiz.	Пёс прыгает.
@@ -35,19 +35,21 @@ ber_Latn	rus	Bar is cggin, maca nkkin uhu	Ты - возможно, но не я!
 ber_Latn	rus	D acu ay la ittett Ken?	Что ест Кен?
 ber_Latn	rus	D acu ay tetteg deg tnarit-nnes?	Что она делает в его офисе?
 ber_Latn	rus	D acu wahil n uzekka?	Какая программа на завтра?
+ber_Latn	rus	Da, yezga udfel.	Здесь снег постоянно.
 ber_Latn	rus	Ddant-d akkw s snat.	Они обе пришли.
 ber_Latn	rus	D lawan ad nessecc akraren.	Время кормить овец.
 ber_Latn	rus	D ta ay d tikkelt tamezwarut aydeg ara t-waliɣ yezmumeg-d.	Это впервые, когда я вижу его улыбающимся.
 ber_Latn	rus	D takurt n uḍar ay tetturareḍ neɣ d arugby?	Ты играешь в футбол или в регби?
 ber_Latn	rus	Dzayer d rusya gant timeddukkal tistratijiyin.	Алжир и Россия - стратегические партнёры.
-ber_Latn	rus	Ɛejben-iyi yimagraden-nnek.	Мне нравятся твои статьи.
 ber_Latn	rus	Elle est partie au cinéma	Она ушла в кино.
+ber_Latn	rus	Ɛejben-iyi yimagraden-nnek.	Мне нравятся твои статьи.
 ber_Latn	rus	Ffreɣ deffir tewwurt.	Я спряталась за дверь.
 ber_Latn	rus	Ffreɣ deffir tewwurt.	Я спряталась за дверью.
 ber_Latn	rus	Ffreɣ deffir tewwurt.	Я спрятался за дверь.
 ber_Latn	rus	Ffreɣ deffir tewwurt.	Я спрятался за дверью.
 ber_Latn	rus	Giɣ akaylal.	Я очень амбициозный.
 ber_Latn	rus	Gma yufa-d tifrat.	Мой брат нашёл решение.
+ber_Latn	rus	Ɣaleɣ is d Ujjappun ayed iga.	Думаю, он из Японии.
 ber_Latn	rus	Ḥemmleɣ abanan ugar uḍeffu.	Бананы мне нравятся больше, чем яблоки.
 ber_Latn	rus	Ḥemmleɣ ad seɣreɣ taṣpenyulit i warrac.	Я люблю учить детей испанскому!
 ber_Latn	rus	Ḥwajeɣ amawal yelhan n tesperantot.	Мне нужен хороший словарь эсперанто.
@@ -59,8 +61,8 @@ ber_Latn	rus	Is t nnit teẓram?	Вы действительно его виде
 ber_Latn	rus	Iṭalyaniyen dima ttetten aspagiti.	Итальянцы всегда едят спагетти.
 ber_Latn	rus	iwwet akkw Ṭum ma ay d illan g uḥanu s ubaḍar.	Том вышвырнул всех из комнаты.
 ber_Latn	rus	Jane tefka-as idrimen-nni i Mary.	Джейн дала деньги Мэри.
-ber_Latn	rus	Keṛhent-iyi tsednan.	Женщины меня ненавидят.
 ber_Latn	rus	Keṛheɣ Tom.	Я ненавижу Тома.
+ber_Latn	rus	Keṛhent-iyi tsednan.	Женщины меня ненавидят.
 ber_Latn	rus	Llan keṛhen Tom.	Они ненавидели Тома.
 ber_Latn	rus	Lliɣ ceḍḍḥeɣ.	Я танцевал.
 ber_Latn	rus	Lliɣ ceḍḍḥeɣ.	Я танцевала.
@@ -75,11 +77,11 @@ ber_Latn	rus	Memmi ur yessawal taswidit.	Мой сын не говорит по-
 ber_Latn	rus	Mmreɣ kigan iddeɣ ur liɣ tawuri nnek.	Хорошо, что у меня нет твоей работы.
 ber_Latn	rus	Mosku d tamaneɣt n Rrus.	Москва - столица России.
 ber_Latn	rus	Namibya d awanak afriqi.	Намибия - африканское государство.
+ber_Latn	rus	Neɣreq deg ugaraw.	Мы утонули в океане.
 ber_Latn	rus	Nekk d amunak.	Я монах.
 ber_Latn	rus	Nekk d Tom. Sɛeddi-iyi-d Mary.	Это Том. Я хотел бы поговорить с Мэри.
 ber_Latn	rus	Nekk maci d abugaṭu.	Я не адвокат.
 ber_Latn	rus	Nekk ur d abugaṭu.	Я не адвокат.
-ber_Latn	rus	Neɣreq deg ugaraw.	Мы утонули в океане.
 ber_Latn	rus	Nessawal tajapunit.	Мы говорим по-японски.
 ber_Latn	rus	Netta ur ifehhem tanglizit.	Он не понимает по-английски.
 ber_Latn	rus	Nitenti d tiysetmatin.	Они – сёстры.
@@ -88,6 +90,7 @@ ber_Latn	rus	Refdet ifassen-nwen!	Руки вверх!
 ber_Latn	rus	Rfed ifassen-nnek!	Руки вверх!
 ber_Latn	rus	Rfed ifassen-nnem!	Руки вверх!
 ber_Latn	rus	Riɣ nik ad irireɣ aked trabbut nnek.	Я очень хочу петь с вашей группой.
+ber_Latn	rus	Robert yella yessawal deg usawal.	Роберт говорил по телефону.
 ber_Latn	rus	Saɛet‑nwem teẓẓa s ɛecṛ dqayeq.	Твои часы отстают на десять минут.
 ber_Latn	rus	Ṣelḥet taqqet.	Закройте окно.
 ber_Latn	rus	Sɣiɣ-d timseknewt yelhan.	Я купила хороший фотоаппарат.
@@ -99,11 +102,11 @@ ber_Latn	rus	Tamussni d tazmert.	Знание - сила.
 ber_Latn	rus	Tanemmirt, a gma.	Благодарю тебя, брат.
 ber_Latn	rus	Tanemmirt, a gma.	Благодарю тебя, брат мой.
 ber_Latn	rus	Tanemmirt ɣef usefk-nni.	Спасибо за подарок.
-ber_Latn	rus	Tɣawsiwin lkmnt iḍlli	Товары доставили вчера.
 ber_Latn	rus	Tebbid tasukt.	Вы перешли улицу.
-ber_Latn	rus	Tɛeyyen-ak Mary.	Мэри предупредила тебя.
 ber_Latn	rus	Tella tessawal kan s talmanit.	Она говорила только по-немецки.
 ber_Latn	rus	Tezdeɣ ɣer yimawlan-nnes.	Она живёт со своими родителями.
+ber_Latn	rus	Tɛeyyen-ak Mary.	Мэри предупредила тебя.
+ber_Latn	rus	Tɣawsiwin lkmnt iḍlli	Товары доставили вчера.
 ber_Latn	rus	Tom la ilemmed tanglizit.	Том изучает английский.
 ber_Latn	rus	Tom ur iquder ilugan.	Том нарушил правила.
 ber_Latn	rus	Tom ur yekcim ara ɣer din srid.	Том вошёл не сразу.

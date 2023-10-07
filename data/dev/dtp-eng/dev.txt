@@ -1,4 +1,5 @@
 dtp	eng	Aadahan ilo bas do hopod minit.	The bus has a ten-minute delay.
+dtp	eng	Aahom doiti bavang	The river is deep.
 dtp	eng	Aanangan isido do susuzan.	He likes stories.
 dtp	eng	Aanangan i Tom mangkabun poguhu do mooi kalaja.	Tom likes to work in the garden before going to work.
 dtp	eng	Aanangan zikoi do mizon doid kampung diti om minsingiho do boos do Kadazan.	We would like to live in this village and study the Kadazan language.
@@ -6,24 +7,37 @@ dtp	eng	Aanangan zou diti tuni o butu!	I love the sound this grasshopper makes!
 dtp	eng	Abahantas ko moboos do Sina nodi.	Your Chinese is awesome already.
 dtp	eng	Abalantas i Tom mimboros Poransis.	Tom speaks French fluently.
 dtp	eng	Abalantas kopio i gundoling Brown momboros do Jipun.	Mr Brown speaks Japanese very well.
+dtp	eng	Abazatan ko do songuhun i kaanangan nu do guminavo, nga' au' ko kaanu guminavo. Zisido sondii dati o monogod diau. Iti no iso' kavo pason nga' koginavaan i nimaan kuihibai.	“You hate someone whom you really wish to love, but whom you cannot love. Perhaps he himself prevents you. That is a disguised form of love.”
+dtp	eng	Ada gunoon do misin papadahin.	Don't use machine translation.
 dtp	eng	Ada' hiivai monohipoun dogo kio.	Don't forget to call me.
 dtp	eng	Ada' iduo ino kagos kio.	Don't let go of the rope.
 dtp	eng	Ada po hozoon.	Don't sing.
 dtp	eng	Agayo yau miagal doho.	He's as big as I am.
 dtp	eng	Agazo iziaha' do kusai pinungaan 'Little John'.	He was a big man called Little John.
+dtp	eng	Agazo kozo iti tasu za.	Our dog is very big.
+dtp	eng	Ah! Ahasu tia tiih.	Ah! This tea is hot.
+dtp	eng	Ahansan daa kaganapan doid diau.	May fortune be with you.
+dtp	eng	Ahansan zou disido do tumungag do piipio tadau.	I hope he'll be on his feet in a few days.
 dtp	eng	Ahansan zou do kouhagangan nu!	I wish you happiness!
 dtp	eng	Ahasu iti.	It's hot.
+dtp	eng	Aino i Tom do doiti kumaa dogo.	Tom won't be here with me.
 dtp	eng	Aiso isaasai nopo do papagazo do ginavo dau.	No one encouraged her.
+dtp	eng	Aiso isai nopo di kaanu momunso do anavau ih babang mantad id saahom.	No one can extinguish a light that shines from within.
 dtp	eng	Aiso koinsanai pakaraja tuminindapou.	Not all of the staff was present.
 dtp	eng	Aiso kosuvazan kumaa do kootulan diti.	There are no exceptions to this rule.
 dtp	eng	Aiso nodi havanan dioho lolobi do apat ngoopod toun.	They had not fought for more than forty years.
+dtp	eng	"Aiso nodii blah, blah, blah," ka di Greta id Glasgow 2021.	"No more blah, blah, blah," said Greta at Glasgow 2021.
 dtp	eng	Aiso no kaantakan nodi.	It'll never happen again.
+dtp	eng	Aiso no katamaan ku do monoodo diti.	I don't have the courage to do it.
 dtp	eng	Aiso no koongou kumaa do pogibooboos.	None were listening to the speaker.
 dtp	eng	Aiso no moboos do logat Australia i Tom.	Tom doesn't have an Australian accent.
+dtp	eng	Aiso no titihion o hivang diti.	This room has no windows.
 dtp	eng	Aiso no toilaan ku.	I have no idea.
 dtp	eng	Aiso nunu doiho.	Nothing's there.
 dtp	eng	Aiso o kotolinahasan.	There's no explanation.
 dtp	eng	Aiso oloso iho onsokon di tuhun China mantad utara-timur.	Northeastern Chinese dishes are tasteless.
+dtp	eng	Aiso pisou idsuang hamin diti.	It's all quiet in this house.
+dtp	eng	Aiso po iti ogonop do kasagaan. Poposogu zou do popouhan dii.	The sentence shows a complete lack of agreement. I propose to simplify it.
 dtp	eng	Aiso timpu i Tom mangakan doungosuvab.	Tom didn't have time for breakfast.
 dtp	eng	Aiso timpu mangakan baino ka di Tom.	Tom says doesn't have the time to eat right now.
 dtp	eng	Aiso tuhun kivaa do tohu tadau kinohodian do suvai.	No one can have three different birth dates.
@@ -35,10 +49,12 @@ dtp	eng	Alansan no daa korongou ko.	I wish you'd listen.
 dtp	eng	Alansan oku daa osonong-sonong i Tom.	I hope Tom does well.
 dtp	eng	Alansan oku do kounsikahan nu!	I wish you happiness!
 dtp	eng	Alasu no baino.	It's hot today.
+dtp	eng	Amatan ku ziau do minggu' tiiso'.	I'm going to harvest for you next week.
 dtp	eng	Amu kopunong sisimbar nu.	Your answer is wrong.
 dtp	eng	Amu oku monimban do maso todop ku.	I never change my sleep cycle.
 dtp	eng	Amu osonong kolidasan tinan disido id piipiro tulan.	Her health has been declining these past few months.
 dtp	eng	Amu po mangakan ko dilo taakanon nu.	You haven't touched your food.
+dtp	eng	Anaau kozo iho' dukug, dadi ginunting ku dii do minomutu'.	The rope was too long, so I needed a pair of scissors to cut it short.
 dtp	eng	Anaru iti miagal ko dilo.	This is as long as that.
 dtp	eng	Anaru kopio ilo lukug, dadi ginunting ku diri do minomutul.	The rope was too long, so I needed a pair of scissors to cut it short.
 dtp	eng	Andadon oku do orikatan ku.	I am waiting my turn.
@@ -48,6 +64,7 @@ dtp	eng	Andasan ku daa orohian ko' ti.	I thought you'd love it.
 dtp	eng	Andasan ku nopo daa om nokoongoi kou di.	I thought you guys had already left.
 dtp	eng	Antangai gambar lo.	Have a look at that picture.
 dtp	eng	Apagau i Tom a'adahan.	Tom is rarely late.
+dtp	eng	Apagau no kozo o sopinsodu zito.	We're so far apart.
 dtp	eng	Apagon no boros Poransis.	French is difficult.
 dtp	eng	Apagon no mimboros Poransis.	Speaking French is difficult.
 dtp	eng	Apangkal kopio ko' otumbayaan montok kinorohingan id koposion nu?	Is God important in your life?
@@ -56,8 +73,10 @@ dtp	eng	Apatut ko zou poposuung do taakanon do talasu?	Shall I prepare you a war
 dtp	eng	Apatut no au ko lumogos di Tom minaan dilo.	You shouldn't let Tom do that.
 dtp	eng	Apatut no ikodon dau au tumingkod tu kitoluo no pneumonia dau dii.	He's got pneumonia no wonder he is coughing nonstop.
 dtp	eng	Apatut no i Tom mikot baino.	Tom should've arrived by this time.
+dtp	eng	Apatut no kaangaon iho solita dau.	His story is worth listening to.
 dtp	eng	Apatut no konunu nopo do kaantakan doid diozu, poihoo no zikoi do insan po.	Should anything happen to you, let us know at once.
 dtp	eng	Apatut no noilaan i Tom mantad ko mumboyo di Mary.	Tom should have known better than to trust Mary.
+dtp	eng	Apatut no o songuhun kusai kaanu do minsavo do tondu dau. Atantu no ma nokounonom do mogikaakavo do tanda' do au' koimau.	A man should be able to make a mistress of his wife. The addiction for variety is certainly a sign of impotence.
 dtp	eng	Apatut no tulun ginawaan di tina sondiri.	One should love one's own mother.
 dtp	eng	Apatut oku daa mambasa po dilo buuk mantad di timpuun po tintod do mintong wayang.	I should've read the original work before watching the movie.
 dtp	eng	Araatan iyau di Nancy.	He hates Nancy.
@@ -66,6 +85,7 @@ dtp	eng	Araatan sido disio.	She hated him.
 dtp	eng	Araat o kokitanan di Tom?	Do you think Tom is ugly?
 dtp	eng	Aragang tolingo ku?	Are my ears red?
 dtp	eng	Arayou oku do togumu kaka Tom.	I admire Tom a lot.
+dtp	eng	Asaga ko nangku dumadi do koginavaan ku?	Will you be my beloved?
 dtp	eng	Asaga' yau doho mongoi.	She allowed me to go.
 dtp	eng	Asanaan oku do Poransis.	I hate French.
 dtp	eng	Asapou nokopio rasam do kosodop totuong.	It rained hard last night.
@@ -74,6 +94,7 @@ dtp	eng	Asaru kopio iyau mokinongou do loyuk.	He always listens to serious music
 dtp	eng	Asaru magadau hiri'd Itali.	It's always sunny in Italy.
 dtp	eng	Asaru oku modsu do monikid tadau.	I bathe daily.
 dtp	eng	Asaru oku sumakai do bas.	I always take a bus.
+dtp	eng	Asasau ko momogungguk?	Do you masturbate often?
 dtp	eng	Atagak no tampanak do sapi.	The cow lost its calf.
 dtp	eng	Atangkangau ko' po?	Are you still busy?
 dtp	eng	Atantu ko naku do au zikoi po mikot?	Are you sure we haven't met?
@@ -83,6 +104,7 @@ dtp	eng	Atuukoi, nunu maan nu dinondo?	For God's sake, what are you up to now?
 dtp	eng	Au avaavasi ko ti do tosoou nu.	You're not as good as you think you are.
 dtp	eng	Au avasi abal dosido.	She's in a bad mood.
 dtp	eng	Au dati umikot do suvab.	Tomorrow may never come.
+dtp	eng	Au di Yaki nokotilombus o booboroson dau tu naahawan do gontui isio.	Yaki couldn't continue what he wanted to say because he forgot what he wanted to say.
 dtp	eng	Au i Dan kakama do tongkulalava tagazo kivuhu dau miampai do aiso salung hongon takapa.	Dan never handles his big hairy spider without a thick glove.
 dtp	eng	Au ii atagak o boos tinau Kadazan nung kivaa songuhun no ii kakaal moboos do boos Kadazan.	The Kadazan language will never disappear as long as there is one person who continues to speak the Kadazan Language.
 dtp	eng	Au insan do poimpasi do tumahib nga' minsingiho tomoimo mantad dii.	Never live in the past but always learn from it.
@@ -90,28 +112,44 @@ dtp	eng	Au isai oudut.	No one cheated.
 dtp	eng	Au isio karati kopio do nunu.	He is completely clueless.
 dtp	eng	Au isio milo basaan do Inggilis, mantad ko boros Jorman piya nga au milo basaan nogi.	He can't read English, much less German.
 dtp	eng	Au isio minanahak ngaran dau tootopot.	He didn't give me his real name.
+dtp	eng	Au i Tom atantu di Mary do momudut.	Tom isn't sure Mary is lying.
+dtp	eng	Au i Tom insan mogium dii.	Tom won't ever find it.
 dtp	eng	Au i Tom kadampot tumolipoun kumaa di Mary.	Tom hasn't been able to contact Mary by phone.
 dtp	eng	Au i Tom koilo do nunu kopio wonsoyon dau.	Tom wasn't able to do what he wanted.
 dtp	eng	Au i Tom maan diri nogi kangku daa.	I'm sure Tom doesn't do that anymore.
+dtp	eng	Au i Tom minangaha do posoosoihi kinoizonon dii.	Tom didn't beat around the bush.
 dtp	eng	Au i Tom minomogompi tasu dau dot avasi.	Tom doesn't take very good care of his dog.
 dtp	eng	Au i Tom om Mary kopitungub id labus walai.	Tom and Mary never kiss each other in public.
 dtp	eng	Au i Tom siongoi ruba di Mary nodi.	Tom never wants to see Mary again.
 dtp	eng	Au iyau koilo do nunu dot apatut mangan dau.	He doesn't know what he's supposed to do.
 dtp	eng	Au iziaha' nokoiho nuununu di Lincoln kokomoi toiko do pogun Amerika kokomoi.	He knows nothing about Lincoln, or for that matter, about the United States.
 dtp	eng	Au kavasa singonuon nu iho tana sundung potuu savo nu zi Indai.	You cannot have the property although Indai was your late wife.
+dtp	eng	Au kinahasaan i Tom.	Tom wasn't guilty.
 dtp	eng	Au ko alaatan dogo?	Don't you hate that?
 dtp	eng	Au ko araatan doho?	Don't you hate that?
+dtp	eng	Au kodimpot i Tom do toluai.	Tom won't be arriving soon.
 dtp	eng	Au koindapou i duvo susumikul doiti kalas baino.	Two students are absent today.
 dtp	eng	Au ko kopio orotian kangku daa.	I don't think you really understand.
 dtp	eng	Au kolisih i kolisihan ku kumaa doho.	My lover doesn't love me.
 dtp	eng	Au ko mumang maan dilo.	You don't want to do that.
 dtp	eng	Au ko ndo kosodia.	You will not be ready.
 dtp	eng	Au ko opurimanan do nunu?	Don't you feel anything?
+dtp	eng	Au' ko po haid dumadi' koluang ku dii, au' songkuukuo o iti pomogunan, nokopogidu ko no dii, aiso nuununu o mai iti pomogunan.	"Before you be my friend, the world lacked nothing; after you depart, the world will lack nothing."
 dtp	eng	Au kosivat do nosoou ku.	I don't think it's time.
+dtp	eng	Au' ko tagal obinghasa'.	You don't need to feel guilty.
+dtp	eng	Au' ku oihaan dii pokionuan ku.	I'm not exactly sure that's what I need.
+dtp	eng	Au' ku taandakon o tadau kinohodian ku do toun diti.	This year, I don't want to celebrate my birthday.
+dtp	eng	Au' miimiaga' zi Tom om zi Mary.	Tom and Mary aren't at all alike.
+dtp	eng	Au' mimang i Tom diisai nopo do monuhung.	Tom doesn't need anyone's help.
 dtp	eng	Au mimang zi Tom do kinaman konunu do suvai.	Tom doesn't want to try anything else.
 dtp	eng	Au mimang zi Tom mamain golf do ogumu po.	Tom doesn't play golf so much anymore.
+dtp	eng	Au nadaa'on i Tom.	Tom wasn't tortured.
+dtp	eng	Au noihaan i Tom do ingkuo no papalati dii.	Tom didn't know how to describe it.
+dtp	eng	Au noizakou i Tom.	Tom wasn't thrilled.
 dtp	eng	Au no kosuang o vookon.	Some it could not get inside.
+dtp	eng	Au obinghodong i Tom.	Tom wasn't grumpy.
 dtp	eng	Au oguno i sangkalas ku. Nokosikul nodi zioho apat toun nga au po koiho momoguno boros posugkuan! Susumikul nopo koiho mimboos nga aiso id kalas.	My classmates are pathetic. They have studied for four years and yet they can't conjugate verbs! The only student who can speak well is not in the class anymore.
+dtp	eng	Au' ohidas o topiumanan ku, mimang zou soomo' do dokutul. Id nomboo o koupisan do kaagaban?	I am not feeling well, I want to see a doctor. Where is the emergency department?
 dtp	eng	Au oilaan tu omura gatang ti.	It's shockingly inexpensive.
 dtp	eng	Au oku karati.	I do not understand.
 dtp	eng	Au oku koilo mimboros Arab.	I don't speak Arabic.
@@ -130,9 +168,14 @@ dtp	eng	Au opiumanan do songkuo sinodu do tuutumuhud ko dati, do au nodii insan 
 dtp	eng	Au osonong i nung muhot ko' doho.	It's not as good, if you ask me.
 dtp	eng	Au osonong tomod timpu diti.	This isn't a very good time.
 dtp	eng	Au otulid ilo pasok.	That pole is not quite vertical.
+dtp	eng	Au otumbazaan ino.	That is not incredible.
 dtp	eng	Au oulan momboros do Inggilis.	Speaking English is not easy.
+dtp	eng	Au' pinosunudan di Tom do bobog songkuo do mogiandad disido.	Tom didn't say what time to expect him.
 dtp	eng	Au po kosimban tosoou dosido.	She hasn't changed her mind.
+dtp	eng	Au' po' mikot o timpu dioho'.	Their time hasn't come yet.
 dtp	eng	Au po minomongo i Tom do ripot.	Tom hasn't finished writing the report yet.
+dtp	eng	Au' po' nokoboos i Ziri om pisoko' no di Rima tolipaun disido.	Before Ziri said another word, Rima hung up on him.
+dtp	eng	Au po nokoboros i Ziri om pisoko no di Rima tolipaun disio.	Before Ziri said another word, Rima hung up on him.
 dtp	eng	Au songkuro kosorob iri suduon toyopos.	Wet firewood doesn't burn well.
 dtp	eng	Au sumongkuo otopot ngavi ilo ponontudukan do Ikea tomoimo.	Ikea instructions are not always perfect.
 dtp	eng	Au sumongkuro otopot ngawi ilo ponontudukan do Ikea kasasari.	Ikea instructions are not always perfect.
@@ -140,21 +183,35 @@ dtp	eng	Au tagal tikit.	No tickets are needed.
 dtp	eng	Au tokou noontok?	Are we safe now?
 dtp	eng	Au yahai apalid. Oilaan oku do hombo yahai.	We're not lost. I know where we are.
 dtp	eng	Au yau noilaan kaka yoku nopo nga i tulun Gipun.	She doesn't know that I'm Japanese.
+dtp	eng	Au zosido guminavo diisai nopo.	She doesn't love anyone.
 dtp	eng	Au zosido koiho humozog.	She doesn't know how to swim.
+dtp	eng	Au' zosido' koimat konunu.	She couldn't do anything.
 dtp	eng	Au zou aanangan do tandaa'.	I don't like roosters.
+dtp	eng	Au zou dati ointutunan... Aiso nuununu tinodo ku. Iso po nga aiso. Noubas zou do mongokot do hindusu ku nga baino au nodi..	"I am never going to be famous...I do not do anything. Not one single thing. I used to bite my nails, but I don't even do that anymore."
+dtp	eng	Au zou houson tu' nadadi zou kangku daa.	I wasn't as hungry as I thought I'd be.
 dtp	eng	"Au zou insan nokito konunu po haid do miaga diti. Oluo kozo o ginavo ii. Au zou nokoiho ingkuo o maasom daasom diti pavus doid suang hongkod kakadazan nga popointahang nopo kokito nga nadadang ino id titihizon do oluo o ginavo ii."	“I've never seen anything like this before. It's very sad. I don't know how a deer got this deep into downtown but obviously it must have seen it's reflection in the window it's very sad.”
 dtp	eng	Au zou kaanu momohiiu diau.	I can't forgetting about you.
+dtp	eng	Au zou kalati do lahan momusoou zi Tom.	I don't understand the way Tom thinks.
 dtp	eng	Au zou kataan.	I won't hold my breath.
 dtp	eng	Au zou katantu ngaatus piatus.	I'm not 100% sure about that.
+dtp	eng	Au' zou kavasa' momogompi do tingau tu' asabi' zou do tingau.	I can't have a cat because I have cat allergy.
 dtp	eng	Au zou kogua'.	I can't move.
 dtp	eng	Au zou kointutun diau nodi.	I don't even know who you are anymore.
 dtp	eng	Au zou kokodos doid alaat koula-ulahon disido.	I can't stand his impoliteness.
+dtp	eng	Au' zou kougad do doino tu' noikot sinapou ii asam doiti.	I can't go there because it's bucketing down in here.
+dtp	eng	Au zou kozo kalati diau.	I really don't understand you.
+dtp	eng	"Au' zou mimang do moboos do nootusan ko-19 di hobi vinasi', nga' ii no do maso ih kokounsikaan," ka di mongingia' susuzan.	“I don't want to say that the 19th century was a better time, but it was a happier time,” a history professor once said.
+dtp	eng	Au' zou mimang mokinongou diau do mogonsu!	I don’t want to hear you complain!
 dtp	eng	Au zou mimang ponongkiboos diau tii.	I don't really want to talk to you at the moment.
+dtp	eng	Au' zou mokiba-u toinsanan kumaa di saviavi' tuhun, nga' aanangan zou dumadi' songuhun kumaa id iso' tuhun.	I don't wish to be everything to everyone, but I would like to be something to someone.
+dtp	eng	Au zou nodii momohou diti kopoungkadanan, nga koindamaan.	I would no longer call this maximalism, but obsession.
 dtp	eng	Au zou nokoiho nunu o taakan ku kosodop.	I can't remember what I ate last night.
 dtp	eng	Au zou nokoikot tu uminasam.	I didn't come for it rained.
 dtp	eng	Au zou okito disido.	I don't see him.
+dtp	eng	Au zou po mambalai do tikit.	I haven't paid for the ticket yet.
 dtp	eng	Au zou po mintong diho wayang.	I haven't seen that movie yet.
 dtp	eng	Au zou songkuo oihaan diho kaantakan.	I'm not sure that's the case.
+dtp	eng	Au' zou tagal popoiho dosido nunu nopo, nokoiho zosido do kuozon nodii.	I don't have to tell her anything, she already knows what to do.
 dtp	eng	Avaavasi do mangakan!	Enjoy your meal!
 dtp	eng	Avasi' naku saviavi'?	Is everyone OK?
 dtp	eng	Awagat tomod iti kaban, au oku milo kumakat diti.	This box is very heavy, so I can't carry it.
@@ -162,13 +219,23 @@ dtp	eng	Babanalan no do kuminam.	Try hard.
 dtp	eng	Balazan ku iziau do au po koikot Tadau Koiso.	I will pay you before Monday.
 dtp	eng	Bantaton.	Fucking whore.
 dtp	eng	Barait nu lo hodi?	Are those your bags?
+dtp	eng	Basaon no kama iti nung minsingiho ko no do boos Kadazan.	Make sure you read this if you want to learn the Kadazan language.
+dtp	eng	Ba, tumanud zou mai do mogunsamang o kootulan nu.	Fine, I'll put up with your ridiculous rules.
 dtp	eng	Bayahan!	Congratulations!
 dtp	eng	Bazatan ku di Tom.	I hate Tom.
 dtp	eng	Biio mai iho tombohog ngaavi do id tavan. Au izioho mananom toi ko mongomot toi ko monima do id tangkob; om sumadon nogi di Tama diozu do id surga izioho. Okon naku ko agazo po o gatang diozu mantad dioho?	Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they?
+dtp	eng	Binalakatan no kokitanan dau.	He seemed blessed.
+dtp	eng	Bohizan ku ziau do suvab.	I'll buy it for you tomorrow.
 dtp	eng	Boos ka di Tom mokiuup isido i.	Tom said he was asked to help.
+dtp	eng	Botoun-toun dino, au zou nokopikito diau.	I haven't seen you for years.
 dtp	eng	Buuk nopo ti nga kokomoi pogun China.	This book is about China.
 dtp	eng	Dazanak zi Tom no.	Tom is just a kid.
 dtp	eng	Dazanak zou no.	I'm just a kid.
+dtp	eng	Di kougad zou mantad Tambunan, noukab no i sikul.	When I left Tambunan, the school was open already.
+dtp	eng	Di timpu dii, doino zou no, nokotongkizad i Tom.	By the time I got there, Tom had already left.
+dtp	eng	Doid 13 Vuhan Koduvo, obooson ku do kiumul zou 35 toun.	On February 13 I'll be able to say I'm 35 years old.
+dtp	eng	Doid papadahin id E -> K om K -> E, miaga ko do hobi ginumu do papadahin mantad id Onggilis kumaa id Kadazan.	Between E->K translations and K->E, it appears that more people want English-Kadazan translations.
+dtp	eng	Doid pomogunan nopo diti nga' osusa' do otumbazaan nunu nopo, otumbazaai no tomoimo do tindahanon nu.	In a world where it is hard to trust anything, always trust your journey.
 dtp	eng	Doiho kou!	There you go!
 dtp	eng	Doiho o Tokyo.	There is Tokyo.
 dtp	eng	Doino i Tom?	Is Tom there?
@@ -186,7 +253,12 @@ dtp	eng	Duuhia no.	It is there.
 dtp	eng	Duutia no zi tapa ku id daamin ontok nokouhi zou.	My father was already at home when I came back.
 dtp	eng	Fungsi nopo poruhangan om pokurian nga pongintaban.	Addition and subtraction are functions of mathematics.
 dtp	eng	Gambar nopo ti nga mantad do tolu toun nodii.	This picture is from three years ago.
+dtp	eng	Gompizo no i Zodu diho tanak.	Let Grandma take care of the kid.
 dtp	eng	Guminapus yau disido.	He hugged her.
+dtp	eng	Guminapus ziaha' sondii'.	He hugged himself.
+dtp	eng	Guminapus ziaho' sondii'.	She hugged herself.
+dtp	eng	Guminapus zioho' sondii'.	They hugged themselves.
+dtp	eng	Guminapus zotiho' sondii'.	They hugged themselves.
 dtp	eng	Guminawo i Yesus kumaa diya.	Jesus loves you.
 dtp	eng	Hangadon zou kozo do hamin ku om osuvai-suvai topiumanan ku.	I'm still feeling a little homesick and so many things seem strange to me.
 dtp	eng	Haro duo kiik.	There were two cakes.
@@ -209,6 +281,7 @@ dtp	eng	Haro po duo minggu do Krismas mantad baino.	Christmas is just two weeks 
 dtp	eng	Haro po momongoh dot kawagu.	There's still plenty that needs to be done.
 dtp	eng	Haro tolu tulun napatai id dualai Dan.	Three people were found murdered in Dan's home.
 dtp	eng	Haro tulun dot koilo momboros do Inggilis?	Does anyone speak English?
+dtp	eng	"Hei. Kavasa ko naku mokinongou do tuunizon?" "Au, soou ku do mositi no pongusapan nu--" "Koongou zou... di kihoogo."	"Hey. Can you hear the music?" "No, I think you need some thera--" "I can hear... the precious."
 dtp	eng	Himo no tuhun do paganakan dotokou.	We are a family of five.
 dtp	eng	Hino ko dii?	Are you there?
 dtp	eng	Hino ko' id sawat?	Are you up there?
@@ -229,9 +302,14 @@ dtp	eng	Honggo tapa nu?	Where is your father?
 dtp	eng	Honggo tiso dot osonong? Iti toi ko ilo?	Which is better, this or that?
 dtp	eng	Honggo tiso dot ouwai? Iti toi ko ilo?	Which is cheaper, this or that?
 dtp	eng	Honggo tiso wayaan diolo?	Which direction were they heading in?
+dtp	eng	Hozou diti nopo nga sinuatan di zaa, om okon do utin. Okon ino ko iso hozou do tombohog ih poinggabas. I tuhun doid piahatan tohig di naatu, pinopohozou diti hozou do miampai pistol doid hongon dotiho.	This song is written with blood, and not with lead. It's not a song of a bird that's free. A people, between falling walls, sang this song with pistols in their hands.
 dtp	eng	Hudi kio, mura-gura!	Yes, there was swimming towards this direction!
 dtp	eng	Humibok ko' tinu?	Are you leaving soon?
+dtp	eng	Huminombus zioho doid koibutan gisom do duminimpot zioho doid Potindugu Artik.	They continued northwards until they reached the Arctic Circle.
+dtp	eng	Humodong zikoi di Tom.	We're mad at Tom.
 dtp	eng	Idnombo o jamban?	Where is the toilet?
+dtp	eng	Id nomboo mai pisaasavaan dii?	Where will the wedding take place?
+dtp	eng	Iduo no i kuhit ngaavi di tuva dii!	Take the skins of those fruits away!
 dtp	eng	I gambal nopo dihia nga miaga do komogoton doid tosodu.	The picture looks better at a distance.
 dtp	eng	Ih apagon nopo pisingilaan do boros nga popohondom do piipiro boros-boros.	The hardest part of learning a language is knowing the vocabulary by heart.
 dtp	eng	Ih Harry nopo nga 40 toun nodi.	Harry is only 40.
@@ -239,6 +317,8 @@ dtp	eng	Iho kulita di Tom.	It's Tom's car.
 dtp	eng	Ihumon i Tom ndo dahai.	Tom will find us.
 dtp	eng	Ihumon ku'ndo diolo.	I will try to find them.
 dtp	eng	Ih Yesus nopo nga minamagun doid tugama do Kristian.	Jesus is God in Christianity.
+dtp	eng	Ii no koubasanan nga booson tokou.	That's what we usually talk about.
+dtp	eng	Iisai i kinootusan tagazo id koposizon nu?	Who makes the big decisions in your life?
 dtp	eng	I John doung pitimbungan do kumaau.	John belongs to the swimming club.
 dtp	eng	Ika id tirikohon ku.	You are in my seat.
 dtp	eng	Ika nga id walai?	Are you home, too?
@@ -248,12 +328,16 @@ dtp	eng	I Koingan no, kivao ih salajul do tohu tuhun, i Tama, i Tanak, om i Spir
 dtp	eng	Ilo hodi no tiyonon ku.	That's where I live.
 dtp	eng	Ilo nopo nga golupo.	That's a hen.
 dtp	eng	Ilo okon ko boogian dot araat.	That's not even the worst part.
+dtp	eng	Impiipio no di biniisan ku.	I’ve already said it several times.
+dtp	eng	"Ina, gumabas zou." "Monguo ko?" "Unibositi?" Okon gia ko tadau koundaangan do ponounan vusak do baino? "Nunu maan nu do doino?" "Kalab?" "Apandai o tokito ii?" "Avasi', koni?" "Au' monguo do nombo o pakaazan ku." "Ba, nga' hinuvizo' no o tobuk id tohikudan nu." "Toi gia?"	"Mum, I'm going out." "Where to?" "University?" "Isn't it spring break now? What are you going there for?" "A club?" "Looking that smart?" "It's all right isn't it? It shouldn't matter where I go." "Fine, but you've got bed hair at the back." "Seriously?"
 dtp	eng	Ingaa no iyau hilo'd dualai dau soira tinolipoun ku dau.	He wasn't at home when I called on him.
 dtp	eng	Ingaa no piramid hilo'd pomogunan do Eropah.	There are no pyramids in Europe.
 dtp	eng	Ingaa nopo do nunu pakayan ku.	I don't have any nice clothes.
 dtp	eng	Ingaa no yahai maan diti baino.	We don't have to do this now.
 dtp	eng	Ingaton kozo do ontok igitan nu diaha iti!	Be very careful when you hold this for him.
+dtp	eng	Ingkaa no o kinopupuson do tanong dii.	That's how the story ended.
 dtp	eng	Ingkuo daa zou miho moniva do gaung?	Where can I rent a costume?
+dtp	eng	Ingkuo zou kotumbazaan dogo kahapas diti?	How can I trust you after this?
 dtp	eng	Ingkuro no maan i Tom dilo?	How can Tom do that?
 dtp	eng	Ingkuro no milo' iyolo maan lo hodi?	How can they do that?
 dtp	eng	Ingkuro no tokou milo' monuang?	How can we get in?
@@ -261,6 +345,8 @@ dtp	eng	Ingkuro oku kagampot id Tom?	How can I reach Tom?
 dtp	eng	Ingkuro topurimanan di Tom?	What was Tom's reaction?
 dtp	eng	Inikot ziaha' mamanau do tikid kosuvabon kahapas pohingoson.	He came to take a walk every morning after rehabilitation.
 dtp	eng	I nopo nazatan do boos nga' pinuhas tu' dahin toomod ii.	This sentence has been deleted because it was a duplicate.
+dtp	eng	I nopo ngaavi' tuhun di ongotumbazaan doid giningo do nipizan ngaavi' dioho' nga' koimagon mai' doid timpu diti dumontoh.	"The future belongs to those who believe in the beauty of their dreams."
+dtp	eng	Insan ko dati nokito.	You might've been seen.
 dtp	eng	Insan o maso, haro no songulun raja do poingiyon hiri'd pogun tokoro.	Once upon a time there lived an old king on a small island.
 dtp	eng	Intangai id suang lo hodi.	Take a look in there.
 dtp	eng	Intangai lo hodi.	Take a look at these.
@@ -279,22 +365,29 @@ dtp	eng	Isai ko'?	Who are you?
 dtp	eng	Isai mimang moi pagasu?	Who wants to go hunting?
 dtp	eng	Isai minosunud kumaa Dejan kaka sinding? Tu nokoumbal oku sumininding maya tambalut ku id kampung ku di gulu.	From whom did Dejan know the song I've ever sung with my fellow friends from my village?
 dtp	eng	Isai nopo tuhun ii tumood minsingiho nga' nohoing, duvo ngoopod toi' vahu ngoopod. Isai nopo i au' tumood balajal nga' poimuhok nopo.	Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.
+dtp	eng	Isai sumuang do hinimput dii?	Who is there in the room?
 dtp	eng	I sapi nopo nokosusu do songinan tampanak miampai duo tulu.	The cow gave birth to a calf with two heads.
 dtp	eng	Ish, tongotuo tokou!	Fuck, we're old!
+dtp	eng	Isido nopo dii nga' au noongob gia. Kada' isido ponongkiubu.	He is mentally retarded. Don't get entangled with him.
 dtp	eng	Isio nopo nga mongingia do boros Inggilis.	He is a teacher of English.
 dtp	eng	Isio tulun Georgia.	He's Georgian.
 dtp	eng	Isoi' ngaavi o pomoinan tokou nga misuvai nopo nangangazan, monoguvang isoi' naraka nga mogisusuvai nopo o tombivo.	We're all in the same game just different levels dealing with the same hell just different devils.
+dtp	eng	Iso kubong tokoro poinsusui tanga do gana.	A small creek cut across the field.
 dtp	eng	I tapa di tambalut ku nopo nga songulun pamain piano do nointutunan.	I have a friend whose father is a famous pianist.
+dtp	eng	Itia lahan pougadan id Kadai Donggongon.	You can go this way to Donggongon town.
 dtp	eng	Itia no tasu nu. Nomboo o dogo?	Here is your dog. Where is mine?
 dtp	eng	Itia no toihaan nu.	That's your idea.
 dtp	eng	Iti no goroi do binobog di Tom.	This is the vase that Tom broke.
+dtp	eng	Iti no iikoon ku.	I sat on this.
 dtp	eng	Iti no kangku dii.	That's all I had to say.
 dtp	eng	Iti no kinoiyonon pogindopuan ku.	This is my business address.
+dtp	eng	Iti nopo boos, nung maan ku tamaai do mamalati', nga' iso koimazaan di potihombus, i kaanu do popoluo om nogi' mongumbasi'.	Words are, in my not humble opinion, our inexhaustible source of magic, capable of hurting and healing.
 dtp	eng	Iti nopo nga bunsiling di Mike.	This is Mike's bicycle.
 dtp	eng	Iti nopo nga kababakan do undang-undang ku nung poiloon ku do tudut.	It is against my principles to tell a lie.
 dtp	eng	Iti nopo nga tonggungan nu.	It's your responsibility.
 dtp	eng	Iti nopo nga totopot!	It is the truth!
 dtp	eng	Iti nopo nga tugu-wangon dahai monguhup diya.	It's our job to help you.
+dtp	eng	Iti no pongongid di kaanangan ku nga' au' nodogongan doiti.	The perfume that I like is not sold in here.
 dtp	eng	Iti no tundalo nga dagangon ku bo.	I'll sell my fishing net later.
 dtp	eng	Iti no uoton ku dii.	That's what I want to ask.
 dtp	eng	Itokou nopo nga nunu miiso tokou.	We are who we are.
@@ -305,6 +398,9 @@ dtp	eng	I Tom nopo nga kusai dot osonong kopio.	Tom has been a perfect gentleman
 dtp	eng	I Tom nopo nga tambalut ii tosonong kanto.	Tom seems like a good friend.
 dtp	eng	Iya mononokodung?	Are you a fan?
 dtp	eng	Iziau duminadi dokutul doid toongou ku.	I hear you're now a doctor.
+dtp	eng	Iziau no naku monoodo do hamin diti?	Are you making this house?
+dtp	eng	Iziau no songuhun di kohizaban ku.	You are the one that I want.
+dtp	eng	Iziau no tapandai do kotutun zou.	You're the smartest person that I know.
 dtp	eng	Izosido Betty.	She is Betty.
 dtp	eng	Izosido doid hamin kad Onggilis.	She is at home in English.
 dtp	eng	Izou!	Me!
@@ -314,33 +410,50 @@ dtp	eng	Jaam kopiro mangakan dougotuong?	What time do you have dinner?
 dtp	eng	Jaam kopiro muli di Tom do tiinu?	What time do you think Tom will be back?
 dtp	eng	Jaam pio o oubas ko mosik dii?	What time do you usually get up?
 dtp	eng	John nopo nga manangaman ku.	John is my nephew.
+dtp	eng	Ka'a'aai mati' do mugad doid hamin diho'.	It is forbidden to go to the house.
 dtp	eng	Kaakan iti?	Is this edible?
+dtp	eng	Kaamatan monunduan do winorun.	Kaamatan ensouls natural.
+dtp	eng	Kaanu zou dati do sokilim do au po mongoi id hamin di tapa.	Maybe I could get some ice cream before going to Dad's.
+dtp	eng	Kaanu zou minsinginsasamod dosido do mongoi, nga au zou kaanu sumonsog dosido.	I can try to persuade her to go, but I can't coerce her.
+dtp	eng	Kaavi' nopo disido ii, koikatai no o pomogunan dii do pononhousan topodos om tuminimpuun dii isido do momiumon do linuo do kosompitan	And when he had spent everything, a severe famine arose in that country, and he began to be in need.
 dtp	eng	Kadaada!	Shut up!
+dtp	eng	Kada' hiivai do muot di Tom om nunu maan dau, ka.	Don't forget to ask Tom what he's going to do.
 dtp	eng	Kada kogura.	Don't move.
 dtp	eng	Kada' koimaan do miaga' mintutun ko' dogo.	Don't act like you know me.
+dtp	eng	Kada' kokuazai, iti no naku o lahan kumaa doid Donggongon?	Excuse me, is this the road to Donggongon?
 dtp	eng	Kada koondos dot au oku muhang dika.	Don't think I don't like you.
 dtp	eng	Kada koti!	Stop!
 dtp	eng	Kada lihuai ongoi paganu dilo tikit kio.	Don't forget the ticket.
 dtp	eng	Kada lihuai tusin nu.	Don't forget your money.
 dtp	eng	Kada oku ponongkiboros kokomoi disio.	Don't talk to me about him.
 dtp	eng	Kada oku uhoto nga minogidu iyau sondiri soira koruba doho.	Don't ask me why but, he ran away when he saw me.
+dtp	eng	Kada pagampu do moboos, 'avagat ino' ka, avagat ino. Iti nopo ahal di tootopot nga do mantad baabaino.	Don’t give up, saying "It’s heavy, it’s heavy." You've got to give a hundred percent from now on.
 dtp	eng	Kada pologoso tanda i'd ponguhoton nu montok Kinorohingan dit popokito kumaa diya.	Don't ignore the signs you asked God to show you.
 dtp	eng	Kada pomoros boros suai mantad Esperanto!	Don't use a language other than Esperanto!
+dtp	eng	Kada' sugutai diho doid abantahan.	Don't repeat that in the future.
+dtp	eng	Kada zi Tom bobogo.	Don't hit Tom.
 dtp	eng	Kaino mirikau maya doho.	Come and sit by me.
 dtp	eng	Kaino monginum.	Have a drink with me.
+dtp	eng	Kaino muli, tumuong nodii moti.	Let's go home, it's getting dark.
+dtp	eng	Kakaal zi Tom id siibo do doino.	Tom is still down there.
 dtp	eng	Kakal iyolo po hiti?	Are they still here?
 dtp	eng	Kakal po tama nu id walai?	Is your mother at home?
 dtp	eng	Kanou hiti om uhupai oku.	Come and help me out.
+dtp	eng	Kanou minsingiho boos Kadazan.	Let's learn Kadazan language.
 dtp	eng	Kanou mooi sohovot disido duuhia.	Let's go and see him there.
 dtp	eng	Kanou no mugad tosuusuvab.	Let's leave early.
+dtp	eng	Kapapatai di Peter, sakit no i savo dau.	Immediately after Peter's death, his wife fell sick.
 dtp	eng	Kapatai matu iyau id onom tulan kangku daa.	I have expected his death for six months.
+dtp	eng	Kapatai nopo i mohoing dau, sovoo no di John om i Maria.	When his parents died, John married Mary.
 dtp	eng	Katapatan o koposizon iho gambal dau.	The portrait of her was true to life.
 dtp	eng	Kavasa ko daa pokupion montok dogo?	Can you make a copy for me?
 dtp	eng	Kavasa tokou mooi doiho?	Can we go over there?
+dtp	eng	Kavasa' zou maganu gambal nu?	Can I take your photo?
 dtp	eng	Kazu ngaavi'i odomut sumuni momiva' di tavasi' no kozo.	Trees that are slow to grow bear the best fruit.
 dtp	eng	Kigakod piya nga au kapanau dii?	What has a foot, but cannot walk?
 dtp	eng	Kihulu kangkab di Tom.	Tom has a hairy chest.
 dtp	eng	Kikaraja isido dot oruhai sabaagi do mananaip.	She got a part-time job as a typist.
+dtp	eng	Kikulita zi Tom sondii no.	Tom has his own car now.
 dtp	eng	Kimiapid oku di kusai.	I have a twin brother.
 dtp	eng	Kinaman i Tom tomoimo do nunu nopo topot doid tosoou dau.	Tom always tries to do what he thinks is right.
 dtp	eng	Kinaman ku pisingihaan do boos Inggilis.	I am trying to learn English.
@@ -352,11 +465,14 @@ dtp	eng	Kinosusuon ku id hopod tadau tulan kohopod om iso.	My birthday is Novemb
 dtp	eng	Kipizak o golupo do vahu.	The hen has eight chicks.
 dtp	eng	Kiroliu i Mennad.	Mennad got an infection.
 dtp	eng	Kisinsing zosido doid pusod dau.	She got her belly button pierced.
+dtp	eng	Kitavak oniini no i Mary.	Mary has a small waist.
 dtp	eng	Kitohu tanak zi Tom.	Tom has three children.
 dtp	eng	Kiumul zi Muriel 20 toun baino.	Muiriel is 20 now.
+dtp	eng	"Kivaa do makan(dumuom) doungosodop montok do pisompuuvan paganakan ku do doiti'. Au' ku noihaahaan do nokoobi nogi' i kouvang ku kusai do makan doungosodop id babang do dian do doiti' nogi' o' tampat dau ontok Tadau Piupusan."	"I had my reunion dinner with my family here. Little did I know that my boyfriend made a reservation to have our candlelight dinner in this same place on Valentine's day."
 dtp	eng	Kivaa gunoon o tuhang do kalabau montok do pakakas.	Buffalo bones were made into tools.
 dtp	eng	Kivaa hozou montok savi-avi.	There's music for everyone.
 dtp	eng	Kivaa kozo vuhu hongon di Tom.	Tom has really hairy arms.
+dtp	eng	Kivaa naku do talun-alun kumaa id Kg. Nosoob Baru, Penampang?	Is there a road to Kg. Nosoob Baru, Penampang?
 dtp	eng	Kivaa okuukudi no tongo vogok do kakang gisom opod om tohu tinan.	A litter of pigs can have as many as thirteen piglets.
 dtp	eng	Kivaa po tuhun dit au minomusoou sondii.	Some people never seem to learn how to think for themselves.
 dtp	eng	Kivaa tanakvagu di vagu i Mary.	Mary has a new boyfriend.
@@ -364,10 +480,16 @@ dtp	eng	Kivaa uoton ku diau.	I need to ask you something.
 dtp	eng	Kivaa vuhu kangkab di Tom.	Tom has a hairy chest.
 dtp	eng	Kobiinsianai no, miaga kozo di Ama nu tu' obiinsianan.	Be merciful, just as your Father is merciful.
 dtp	eng	Kobolingkangan tokou?	Are we in trouble?
+dtp	eng	Kodimpoto' nopo do totodok, kopiduvo ginavo tokou do tumihombus doid kakadazan toi ko' id do nuhu.	When we reached the fork, we hesitated between continuing towards the town or continuing towards the mountains.
 dtp	eng	Koginavaan nopo nga do manaak kounsikaan kumaa toinsanan do vinangun.	Love is what gives joy to all creation.
+dtp	eng	Koginvo zou diho' lahan nu do guminavo, nga' abazatan zou diho' lahan nu do poingkuo zou apatut guminavo diau mahik.	“I love the way you love, but I hate the way I'm supposed to love you back.”
+dtp	eng	Kogumuan dii tanak sikul dii ia'on ku au no dii kohizo do balajal/minghuda tu nopupusan nodi o UPS 1, hohobi no kozo vagu tia koundangan do raya somok no dumonto. Au zou papahasa dioho. Kogumuan dii mongingia' nga doingkaa nogi o momusoou.	It seems many of my students are losing their mood to study since the UPS 1 is recently over and the raya break is coming soon. I don't blame them though. Many lecturers are also feeling the same way.
 dtp	eng	Kogumuan do ahal dino kosusa ginavo nu kokomoi do au insan kaantakan dii.	Most of the things you worry about never happen!
 dtp	eng	Koiho i Mary do boos Sina.	Mary understands Chinese.
+dtp	eng	Koiho i Tom moboos do Kadazan.	Tom can speak Kadazan.
 dtp	eng	Koiho ko nunu pinoboos di timun (cucumber) kumaa di hampun?	Do you know what the 'timun' said to the 'durian'?
+dtp	eng	Koiho zou, osusa' do otumbazaan do obingpihi' o' kusai tohombon.	“I know. It's hard to believe a fat guy would be picky.”
+dtp	eng	Koikot ko po doid pibuutukan diti lahan om humisang no ponong id vanan/gibang.	You have to turn left/right at the junction.
 dtp	eng	Koilo' i Tom mimboros Poransis do okuri-kuri.	Tom knows some French.
 dtp	eng	Koilo ko popotuni do sompoton?	Do you know how to play sompoton?
 dtp	eng	Koilo' oku bo.	I know.
@@ -375,6 +497,7 @@ dtp	eng	Koilo' yau mimboros Poransis.	He speaks French.
 dtp	eng	Koinsanai do ayat-ayat diti mositi do kitanda dot mundorong.	All of these sentences need a full stop.
 dtp	eng	Kokito ko' dii?	Can you see?
 dtp	eng	Kokito ku di sada hudi.	I saw a fish swimming right over there.
+dtp	eng	Kokito zou do amorpous doid basaan tohuvai.	He saw an amorphous figure in baggy clothing.
 dtp	eng	Kokito zou do Kumokodong id habus titihion di kosodop.	Last night, I saw the floating head outside the window.
 dtp	eng	Koligagaanan ko' dii?	Are you in danger?
 dtp	eng	Kolihis ginawo iti tangon.	This is an interesting story.
@@ -382,6 +505,9 @@ dtp	eng	Kologos i Tom do boros kad Mary.	Tom ignored Mary's advice.
 dtp	eng	Koluang miiso dimput ku i Tom.	Tom used to be my roommate.
 dtp	eng	Komolohingan tokou.	We're parents.
 dtp	eng	Koodop tokou ngawi.	We were all asleep.
+dtp	eng	Kookotumḇazaan no o kaanu jumamin di ḇalakat ngaavi' i hansanon dotokou, toi papatahang do kivaa do katapatan ngaavi' i au' okito.	Now faith is confidence in what we hope for and assurance about what we do not see.
+dtp	eng	Koongou ko naku do tombohog bulbul?	Can you hear the nightingale?
+dtp	eng	Koongou nopo i tuhun Singapura do noonombo i tumula, duunia isido mai do mugad.	When a Singaporean hears where goods are cheap, he goes there.
 dtp	eng	Koontok ti?	Can this be it?
 dtp	eng	Kootusan nopo raha nga onomal.	The blood test is normal.
 dtp	eng	Koovit zou do sangkalung vagas.	I can carry a bag of rice.
@@ -390,12 +516,15 @@ dtp	eng	Kopiruba kawagu kio!	See you later!
 dtp	eng	Kopisanangan, isai ngaran nu?	Hello, what is your name?
 dtp	eng	Kopisoomo tokou vagu suvai tadau.	We'll meet again some other day.
 dtp	eng	Kopivosian, isai ngaan nu?	Hello, what is your name?
+dtp	eng	Kopivosian. Iziau sanganu do anau paai ngaavi' diti?	Hello. Are you the owner of these ricefields?
 dtp	eng	Kopiwosian!	Hello!
 dtp	eng	Kopiwosian, olundus!	Hello, beautiful!
+dtp	eng	Kopomoimagon do kinointutunan Rusia do Lugansk om Donetsk do miaga poimponu o kagabasan do pogun.	Russia officially recognized Lugansk and Donetsk as fully independent countries.
 dtp	eng	Korongou i Tom do tuni tombolog id soliwan do liligaon dau.	Tom could hear birds chirping outside his window.
 dtp	eng	Koruhang miiso bilik ku i Tom.	Tom used to be my roommate.
 dtp	eng	Kosimaan kogompit tokuudi do nasip om hobi ogumu miampai do pinoih.	Good fortune has little to do with luck and more with diligence.
 dtp	eng	Kosingud po isido do tumau wongi gunoon disio.	She could smell his cologne.
+dtp	eng	Kosuang nopo isido, iikau no.	When he came in, he sat down.
 dtp	eng	Kotigog ko' dii?	Are you freaking out?
 dtp	eng	Kotirog toli dau miagal do kuda.	He's hung like a horse.
 dtp	eng	Kotobian Tadan Tongoondu dit Sompomogunan!	Happy International Women's Day!
@@ -410,11 +539,18 @@ dtp	eng	Kotoluadan tu kosorou.	Thank you for remembering.
 dtp	eng	Kotoluadan tu manahak lo.	Thank you for that.
 dtp	eng	Kotoluadan tu monguhot.	Thank you for asking.
 dtp	eng	Kotoluadan tu monolipoun.	Thank you for calling.
+dtp	eng	Kotongkizadai ku nopo i tuhun ngaavi dii...	When I left all those people...
 dtp	eng	Kotorimo ko' nangku doho manansawo?	Will you marry me?
 dtp	eng	Kotuluadan tu piuhupan.	Thank you for sharing.
+dtp	eng	Kotumbazaan ko disido do miampai kuukuamaon nunu nopo.	You can trust him with any job.
 dtp	eng	Kotutun ko' dau?	Do you know him?
 dtp	eng	Kotutun ko' disido?	Do you know her?
+dtp	eng	Kotuutumbazaan toiko' pangadatan di minamadi dotokou do mogibaabazat poinggonop, nga' au' kogonop mogovit dotokou do mogiiginavo doid tiso' om tiso'.	“We have just enough religion to make us hate, but not enough to make us love one another.”
+dtp	eng	Kougad nopo i John, imang no asam.	When John had gone, it began to rain.
+dtp	eng	Kouha-uha no di mananggaung i Mary bo.	Mary was dressed modestly.
+dtp	eng	Ko'u'uhi zou kozo, hoovo zou no vagu.	I'd just come home, when I was called again.
 dtp	eng	Kumaa disai no linuput ku ti?	Who do I report to?
+dtp	eng	Kumaa doid tuhun di asaasau' nu do otuubungan, koubasan do muot do "Ingkuo ko no?" ka, toi' ko' "Ingkuo no o paganakan nu?" ka.	For someone you see more often, it is customary to ask, "How are you?" or "How is your family"
 dtp	eng	Kumoinsan zou mongoi doiho sarkas id tontok kitumul ku onom toun.	At the age of six, I was taken to a circus for the first time.
 dtp	eng	Kuroyon no pakayaan om tombuluyon dahai nga tumanud moti tadau dau.	Whether we will go on the trip depends on the weather.
 dtp	eng	Kusai kito.	You and I are men.
@@ -429,6 +565,7 @@ dtp	eng	Louson tian ku!	I'm hungry!
 dtp	eng	Louson tian toinsanan?	Is everybody hungry?
 dtp	eng	Lumangad oku diya.	I'll miss you.
 dtp	eng	Lumuung ko'.	You look down.
+dtp	eng	Lwil agalo bon pou azma	Oil of the leatherback turtle is good for asthma.
 dtp	eng	Maai no awi ti.	Let's end this.
 dtp	eng	Maan isido do maso dau doid Intonit.	He spends all his free time on the Internet.
 dtp	eng	Maan i Tom popunongo do sondiri.	Tom corrected himself.
@@ -441,7 +578,10 @@ dtp	eng	Mada oku daa mongoi ruhang maya di Tom.	I just don't want to go with Tom
 dtp	eng	Mada oku dilo hodi basaan, pokitonon oku do kawagu.	I don't like this shirt. Show me another one.
 dtp	eng	Mada oku mintong turos nu nogi.	I don't want to see your face again.
 dtp	eng	Mada oku mongoi id sikul.	I don't want to go to school.
+dtp	eng	Maganu zou do hobi ogumu po gambal.	I want to take more photos.
 dtp	eng	Maha oku daa monguhup.	I'd be glad to help.
+dtp	eng	Mai gia potoodo' tokou diti do suvab.	Let's do this tomorrow.
+dtp	eng	Mamadi i mai mintaatamong di Tom.	The guards will shoot Tom.
 dtp	eng	Mamain i John do tungau om biik miampai di Dick.	John played cat and mouse with Dick.
 dtp	eng	Mamaraag i tongo injiniur dilo sunsuyon tu karaag dot oruhai.	The engineers blew up the bridge because it was about to collapse.
 dtp	eng	Mambalut kito.	You and I are friends.
@@ -455,11 +595,16 @@ dtp	eng	Mangajar zosido dagai do boos Onggilis.	She teaches us English.
 dtp	eng	Mangakan isido id doungadau.	He is having lunch.
 dtp	eng	Mangakan yahai id dangadau mikuwo do tinahak disio do pondulung montok doho.	We were in the middle of lunch when he gave me a ring.
 dtp	eng	Mangakan zou do ipol om zosido nopo mangakan do ruti.	I eat an apple and she eats bread.
+dtp	eng	Mangakun zou daa do songuhun zou do 'lesbian'.	I have to acknowledge that I am a lesbian.
 dtp	eng	Mangandad nopo ilo tiksi id labus.	The taxi is waiting outside.
 dtp	eng	Mangandad oku do solinaid satanga jam.	I have been waiting for almost half an hour.
+dtp	eng	Manganu do pil vitamin om do mineral i Tom do tikid tadau.	Tom takes vitamin and mineral pills every day.
 dtp	eng	Manganu oku do kosiwatan tabi osonong do toun wagu kumaa tangambalut om koupusan.	Wish all my friends and loved one Happy New Year.
 dtp	eng	Manganu oku do ningkokoton ku sabaagi do puru-puru kotolu.	I intend to take my position as a third party.
+dtp	eng	Mangkus-tangkus isido tosikap maza do sikul.	He's running quite fast through the school.
+dtp	eng	Mansak no paai. Nunu kavo paai diti?	The rice is ripening. What type of rice is this?
 dtp	eng	Mantad di tanganak ri, nokoipi iyau monurat do tangon.	Since early childhood, he dreamed of writing stories.
+dtp	eng	Mantad i pinsan ku doiho id Mesir. Tuhun isido do Mesir.	My first cousin is from Egypt. He is Egyptian.
 dtp	eng	Mantad oku hilo'd Amorika.	I come from America.
 dtp	eng	Mantad oku hilo'd pogun Sina.	I come from China.
 dtp	eng	Manu i Tom do boros di Mary kaka guminawo iyau disio.	Tom wanted Mary to say that she loved him.
@@ -468,6 +613,7 @@ dtp	eng	Manu ko' do apol?	Do you like apples?
 dtp	eng	Manu ko' tiso kaagu?	Do you want another one of these?
 dtp	eng	Manu oku daa duo hut dug miampai dot ogumu lado'.	I want two hot dogs with lots of pepper.
 dtp	eng	Manu oku do pogulian.	I asked for a refund.
+dtp	eng	Manu o Rusia kootuson potimporon do Donetsk om Lugansk mantad Ukraine.	Russia wants to permanently sever Donetsk and Lugansk from Ukraine.
 dtp	eng	Manu yahai suduon do kawagu.	We need some more firewood.
 dtp	eng	Manu yahai tolu bilik.	We need three rooms.
 dtp	eng	Manu zikoi tohu bilik.	We need three rooms.
@@ -476,12 +622,15 @@ dtp	eng	Miaga' diau, amu insan nopo ounsikou.	People like you are never happy.
 dtp	eng	Miaga ko do moomogot tokudi mantad ko di poguhu po.	You seem a little better than you were before.
 dtp	eng	Miaga ko kozo do pitason tokito ku.	You seem to have an asthma.
 dtp	eng	Miaga ko oihaan nu do sontob konunu.	You seem to know everything.
+dtp	eng	Miaga ko' togodon i' mai o puun kazu!	Looks like that tree is going to fall down!
+dtp	eng	Miaga ko' umasam i' mai doid soosongian nopo.	It looks like it's going to rain at any moment.
 dtp	eng	Miagal do haro kobolingkangan iyau ih.	He seems to be in trouble.
 dtp	eng	Miagal do koilo oku momoguno mosin ti.	This machine is familiar to me.
 dtp	eng	Miagal do noilaan i Tom do numaan dau.	Tom seems to know exactly what he's doing.
 dtp	eng	Miagal o Labit maya kawo o bongol om bosing.	Rabbits are related to beavers and squirrels.
 dtp	eng	Miampai diti kulitapui koongoi ko induvo do tosiisikap po.	With this train you'll go twice as fast.
 dtp	eng	Miapid o tanak dioho' totuo.	Their eldest children are twins.
+dtp	eng	Miboos zikoi no do Kadazan do tikid tadau.	We only speak Kadazan to each other everyday.
 dtp	eng	Mihad ikoyu?	Are you guys crying?
 dtp	eng	Miiso tulun-tulun Esperanto.	Esperanto unites humanity.
 dtp	eng	Milo' daa pogulion do tusin?	Can one get the money back?
@@ -530,33 +679,54 @@ dtp	eng	Milo' tokou monuhu' do piza.	We can order a pizza.
 dtp	eng	Milo' tokou tumanud?	Can we join in?
 dtp	eng	Milo' tokou tumimpuun?	Can we get started?
 dtp	eng	Milo' yahai monguhup Tom baino.	We can help Tom now.
+dtp	eng	Mimang ko nopo daa dogo, magansak zou mai do pai.	If you want me to, I'll bake a pie.
+dtp	eng	Mimang o Rusia kootuson potimpoon do Donetsk om Lugansk mantad Ukraine.	Russia wants to permanently sever Donetsk and Lugansk from Ukraine.
+dtp	eng	Mimang zi Tom do iso ih ahal do kaantakan kavagu.	Tom wants the same thing to happen again.
 dtp	eng	Mimang zou daa diau do mintutun dogo doid diaho'.	I would like you to introduce me to her.
+dtp	eng	Mimang zou daa popointahang do au zou daa miimang do miaga diho.	I want to make it clear that I don't want to do that.
+dtp	eng	Mimbalai iti kusai do toinsanan	This gentleman will pay for everything
+dtp	eng	Mimbalai iti tondu do toinsanan	This lady will pay for everything
 dtp	eng	Mimboros iyolo Poransis.	They spoke French.
+dtp	eng	Mimbosikal zou tomoimo do mongoi id sikul.	I always ride a bicycle to go to school.
 dtp	eng	Mimpanau nopo nga osonong montok kolidasan.	Walking is nice.
 dtp	eng	Minaan yau poilang iso kaban do biskut montok tambalut dau ngawi.	He shared his box of biscuits with all his friends.
 dtp	eng	Minaan zou do pomusaavan dot ouhan.	I made a lucky guess.
 dtp	eng	Minamain yahai hiti'd disan rahat.	We have played at this beach.
 dtp	eng	Minamanau i Tom om i Mary doiho suang talun.	Tom and Mary hiked inside the jungle.
+dtp	eng	Minamanau zou sondii maza do id tahun.	I walked through the woods by myself.
 dtp	eng	Minamatai i Betty id disido.	Betty killed her.
 dtp	eng	Minamatos iyau korikot id jaam kaapat.	He promised me that he would come at four.
 dtp	eng	Minanahak i Tom doho disio kinoiyonon.	Tom gave me his address.
 dtp	eng	Minanahak yahai do pokionuan kopio diolo.	We gave way to their demands.
+dtp	eng	Minangakan zi Tom togumu.	Tom ate a lot.
+dtp	eng	Minggisom zou kuminam do umivad kobohingkaangan.	I'll try my best to stay out of trouble.
+dtp	eng	Minghuda zou mai.	I'm going to practice.
+dtp	eng	Mingkadazan i zina ku do hobi vinasi mantad do moboos do Dusun i zapa ku, dadi oubas zioho miboos do id Kadazan.	My mother speaks Kadazan better than my father speaks Dusun, so they usually speak to each other in Kadazan.
+dtp	eng	Mingkadazan zi Mary kumaa di Tom, tu zi Tom nopo nga tuhun Dusun mantad Tambunan.	Mary speaks Kadazan to Tom, because Tom is a Dusun from Tambunan.
 dtp	eng	Mingkikiut!	How cute!
+dtp	eng	Minimbalajal zou do au ko kaanu popoginavo songuhun kumaa diau. Koinsanai di koimaan nu nopo nga dumadi songuhun ih obingupus. Suvai nopo om dioho toihaan. Minimbalajal zou do au kuukuo no songkuo zou hizoo, kivaa piipio tuhun do au hizoo mahik. Om ii no okon ko kovion diti pomogunan. Minimbalajal zou do monontoun ih poposuni kotumbazaan om kokiop no momiumbak. Ii no okon ko nunu ih kivaa doid koposizon nu di poinguntob.	I've learned that you cannot make someone love you. All you can do is be someone who can be loved. The rest is up to them. I learned that no matter how much I care, some people just don't care back. And it's not the end of the world. I've learned that it takes years to build up trust and only seconds to destroy it. That it's not what you have in your life but who you have in your life that counts.
 dtp	eng	Minimpuupula isido miaga do au insan kinaantakan dii.	He pretended like it never happened.
+dtp	eng	Mininsud zosido ontok uminikot zosido.	She left as she came.
 dtp	eng	Minobohi i Mary do pipio gaung.	Mary bought several dresses.
 dtp	eng	Minobohi i tina dagai do duku.	Mother bought us a puppy.
 dtp	eng	Minoboos isido: "Insudai zou doid katanangan!"	He said: "Leave me in peace!"
 dtp	eng	Minogidu pogun i komolohingan di Mary id tumur dau do tolu toun.	Mary was orphaned when she was three.
 dtp	eng	Minogihum i Tom do tontolu dot kitamas natagakan di gulu-gulu.	Tom claims to have found one of the lost Fabergé eggs.
+dtp	eng	Minoginipi zou do tongohumis di kosodop.	I dreamed something wonderful last night.
 dtp	eng	Minogontolu o golupo ku dot okuukuri id toun nakatalib.	My hens laid fewer eggs last year.
 dtp	eng	Minoi iyau solowot disido hilo'd lamin pongusapan monikid tadau koiso.	He went to visit her at the hospital every Monday.
 dtp	eng	Minokiampun i Tom.	Tom made an apology.
+dtp	eng	Minokianu i Ziri di Yazid nung kavasa' isido mohos do sinso dau.	Ziri asked Yazid if he could borrow his chainsaw.
+dtp	eng	Minomohi zou do sapasang husob hongon panaak ku di Mary om zi Tom.	I bought a pair of gloves for Tom. For Mary, I bought a pair of mittens.
 dtp	eng	Minongkibit i Tom om i Mary do tanak mantad hilo'd pogun Russia.	Tom and Mary adopted a child from Russia.
 dtp	eng	Minongoi isido doiho London vulan nakatahib.	He went to London a month ago.
 dtp	eng	Minonoimo zi Tom do kapagahason dii.	Tom accepted the challenge.
 dtp	eng	Minonurat isido do buuk kaka tombolog.	She wrote a book about birds.
 dtp	eng	Minsiisinglaat i Daniel kumaa di Mary.	Daniel pretends to be bad against Mary.
+dtp	eng	Minsingiho boos Kadazandusun montok tuhun songkosuvazan.	Learn Kadazandusun language for foreigners.
 dtp	eng	Minsingiho ko naku boos Onggilis?	Do you study English?
+dtp	eng	Minsingiho zi Mary do boos Dusun maza do komoiboos Dusun.	Mary is learning the Dusun language through the Dusun dictionary.
+dtp	eng	Minsingiho zi Tom do boos Kadazan maza do komoiboos Kadazan.	Tom is learning the Kadazan language through the Kadazan dictionary.
 dtp	eng	Minsingilo i Mary do boros Dusun maya do komoiboros Dusun.	Mary is learning the Dusun language through the Dusun dictionary.
 dtp	eng	Minsingilo i Tom do boros Kadazan maya do komoiboros Kadazan.	Tom is learning the Kadazan language through the Kadazan dictionary.
 dtp	eng	Minsingilo' i Tom do boros Poransis.	Tom studies French.
@@ -575,13 +745,23 @@ dtp	eng	Mirikau isido hilo'd dompuran om monginum do tii.	She's sitting in the k
 dtp	eng	Miupus iyolo?	Are they in love?
 dtp	eng	Miupus oku nangku dii?	Am I in love?
 dtp	eng	Moboos ziaho' konunu do tikid timpu do pososoihi zou, ka.	She says something every time I turn around.
+dtp	eng	Moboos zosido do Kadazan om nogi moboos do Sina Kantonis.	She speaks Kadazan and also speaks Cantonese.
 dtp	eng	Modosi ko' baino?	Are you scared now?
+dtp	eng	Modtutud sizamut iziaka dau.	His brother burns garbage.
 dtp	eng	Mogiampot iyolo mangakan.	They ate lunch together.
+dtp	eng	Mogiduuduom tokou do suvab, kio.	We'll eat together tomorrow, OK?
+dtp	eng	Mogiihang-ihang tokou do makan do suvab, kio.	We'll eat together tomorrow, OK?
 dtp	eng	Mogiilang-ilang tokou do suab, kii.	We'll eat together tomorrow, OK?
 dtp	eng	Mogimaamain ilo tangaanak hilo'd taman.	The children were playing in the park.
+dtp	eng	Mogium i Tom do gaagambalan dau.	Tom is looking for his camera.
+dtp	eng	Mogot do abazatan izioho' do iisai ko, mantad ko ginovoon i okon ko' iisai ko.	“It is better to be hated for who you are, than to be loved for someone you are not.”
+dtp	eng	Moing-hoing om obinghiiu zou.	The older I get, the more forgetful I become.
 dtp	eng	Mokiampun oku.	I'm sorry.
 dtp	eng	Momilogot-logot isido mamanau.	She walked very carefully.
+dtp	eng	Momodusun sio doho kasasari.	He always speaks Dusun to me.
+dtp	eng	Momodusun zi Tom kumaa di Mary, tu zi Mary nopo nga tuhun do Kadazan mantad Penampang.	Tom speaks Dusun to Mary, because Mary is a Kadazan from Penampang.
 dtp	eng	Momoguno do poizuk.	Use a wok.
+dtp	eng	Momoguno zou do iso ginazo do toniini.	I need one size smaller.
 dtp	eng	Momohi zou daa kasut.	I must buy shoes.
 dtp	eng	Momoli oku do kolumpa.	I must buy shoes.
 dtp	eng	Momonsoi oku do karaja sikul ku katalib muli mantad id sikul.	I do my homework after school.
@@ -592,18 +772,23 @@ dtp	eng	Mongoi i Yumi hilo'd taman om main tinis.	Yumi goes to the park to play 
 dtp	eng	Mongoi kioson nopo tosoou disido no.	He saw suicide as the only way out.
 dtp	eng	Mongoi ko' suang?	Are you going in?
 dtp	eng	Mongoi oku ruba kama di pinsan ku hilo'd tutumpoon kapal tutumulud.	I have to go to the airport to meet my cousin.
+dtp	eng	Mongoi zi Tom doid Australia sabaagi do piohonon susumikul do toun mikot.	Tom is going to Australia as an exchange student next year.
 dtp	eng	Mongoi zou do tumodu po.	I will come when it will have stopped raining.
 dtp	eng	Mongoluang i Joe naku diau kosodop do minsosodop?	Was Joe with you yesterday evening?
 dtp	eng	Mongomoi oku do baibol id koiso.	I'm reading the Bible for the first time.
 dtp	eng	Mongongoi i todu do monongodu dau doid sikul.	A grandmother is sending her grandson to school.
 dtp	eng	Mongowit ko' do buuk?	Did you bring the book?
 dtp	eng	Monguhup i Tom.	Tom helped.
+dtp	eng	"Monguo tu' osonod ko?" "Tu' nakahabai zou do talun-alun."	"Why were you late?" "Because I got stuck in traffic."
 dtp	eng	Monguup zikoi koni dioho?	Shouldn't we be helping them?
 dtp	eng	Monimpad tungau do biik.	Cats catch mice.
 dtp	eng	Monompon i Tom dilo bakas tumau sapi kasang.	Tom put the lid back on the peanut butter jar.
 dtp	eng	Monondos ko' doho?	Are you blaming me?
 dtp	eng	Monongkiboros oku daa do piipiro tulun diri.	I want to talk to as many people as possible.
 dtp	eng	Monongkoilo oku kokomoi do kinaantakan di Tom.	I'd like to know more about what happened to Tom.
+dtp	eng	Monongkotohuod zou daa kumaa di Margit Maly, di abaa' om asabi' mogontong do ponoizukan.	I would like to thank Margit Maly, who expertly and sensitively supervised the editing.
+dtp	eng	Monongkuyaan i taki kaka do nosimbitan isio do kodumaat nung miampahu isio.	My grandfather believes he would be killed by a thunderbolt if he committed adultery.
+dtp	eng	Monoodo zou pakalaja poinsusuvai do vanan om gibang.	I do odd jobs right and left.
 dtp	eng	Monotos oku do tosonong-sonong do mangahai kosusaan.	I'll try my best to stay out of trouble.
 dtp	eng	Montok au kohiiu do nakatahib, undahiu no daa doid tampat do suvai.	In order to forget the past, you got to move to another place.
 dtp	eng	Monuang i Tom do waig id suang do butul.	Tom filled the bottle with water.
@@ -613,9 +798,11 @@ dtp	eng	Monuduk i gundoling Wang do boros Sina kumaa dahai.	Mr. Wang teaches us 
 dtp	eng	Monuduk i Tom do boros Poransis.	Tom teaches French.
 dtp	eng	Monuduk oku do boros Poransis hilo'd sikul tasawat.	I teach French at a high school.
 dtp	eng	Monuduk zou do boos Sina.	I teach Chinese.
+dtp	eng	Mooi zioho ponoodo do kotundaan id Australia.	They go to build buildings in Australia.
 dtp	eng	Moris-poris no rasam.	A light rain was falling.
 dtp	eng	Mositi oku momongo diti id jaam ko-2 satanga.	I have to finish doing this by 2:30.
 dtp	eng	Mugad kou doiho.	You went there.
+dtp	eng	Mugad zou id Papar. Id nomboo pogiuman ku do injin do mugad do doiho'?	I want to go to Papar. Where can I find a train to go there?
 dtp	eng	Mugad zou id sikul jaam kotuu'.	I go to school at seven.
 dtp	eng	Mugad zou mantad do Chicago doid tadau koonom kavagu dougosuvab.	I'm leaving for Chicago next Saturday morning.
 dtp	eng	Mugad zou takad Kinabalu. Ingkuo zou kaanu mikot doiho?	I am going to climb Kinabalu. How do I get there?
@@ -628,9 +815,14 @@ dtp	eng	Muli ko' tiinu?	Are you coming back?
 dtp	eng	Mumang i Tom do posulian.	Tom wanted revenge.
 dtp	eng	Mumang oku do kopoilaan kokomoi diolo.	I need information about them.
 dtp	eng	Mumbozo zosido om tobpinai tondu dau do ngaavi.	She and her sister agreed on everything.
+dtp	eng	Mundoong po toluai songian humodong ko.	Take a short break when you're angry.
 dtp	eng	Muot zou tu sabap osoou zou di noihaan nu.	I asked because I thought you knew.
 dtp	eng	Muuk-kuuk o tandaa'.	The rooster crows.
+dtp	eng	Naaba iho puun kazu	The tree branch has fallen.
+dtp	eng	Naambanan no mikot diho injin di opod om tohu minit.	The train came thirteen minutes late.
+dtp	eng	Naangangazan zikoi no do timpu do koposizon nuzu.	We've been having the time of our lives.
 dtp	eng	Naantakan ngawi kumaa doho.	It bothers me a lot.
+dtp	eng	Naanu ku nopo do parai dit toon biano limo no noopod o karung kaampai no ngawi lod sulap.	I only got 50 sacks of rice this year including that at the field hut.
 dtp	eng	Naawi ko' no?	Are you finished yet?
 dtp	eng	Naawuk ikoyu no?	Are you both drunk?
 dtp	eng	Nababak ilo sondulu do monokot dilo hodi.	The nail that sticks up gets hammered down.
@@ -639,30 +831,46 @@ dtp	eng	Nadahaan i Tom pouangon do sos topodos id piza disido.	Tom put too much 
 dtp	eng	Nahantop no kadai di Tom.	Tom closed the store.
 dtp	eng	Nahantop zikoi tosuusuvab.	We closed early.
 dtp	eng	Nakaakan oku dilo ipol tintod do nokokito hodi giuk.	I ate half the apple before I noticed there was a worm in it.
+dtp	eng	Nakaampai iho menu pongukab ginoot do piperade noomit marmitako, tinanok di kinama' miampai do tuna sood tobulou di ginakom miampai do hongon id kakadazan monginginsada doodoos do Saint-Jean-de-Luz.	The menu included an appetizer of piperade followed by marmitako, a stew made with bluefin tuna caught by hand in the nearby fishing town of Saint-Jean-de-Luz.
 dtp	eng	Nakaansak zi ina ku do mangakan doungotuvong ontok nadampot zou id daamin.	My mother had cooked supper when I got home.
 dtp	eng	Nakaanu ko' diti?	Are you getting this?
 dtp	eng	Nakalantoi i Tom do numbur soginumu 10,000.	Tom won $10,000 in the lottery.
+dtp	eng	Nakapamatai i Paati Repulikan do soginumu' tagazo do pongungundi dino maso do kopodohiu.	The Republican Party has killed a large number of its voters during the pandemic.
 dtp	eng	Nakasalu i Tom suminakai do kuritapui.	Tom may have taken the wrong train.
+dtp	eng	Nakasavo i Mary di Tom do hobi vinasi toiko hobi linaat. Au koimang i Tom do hobi vinasi om au zosido koimang do hobi linaat.	Mary had married Tom for better or worse. Tom couldn't have done better and she couldn't have done worse.
 dtp	eng	Nakasawo oku no om duo kitanak.	I am married and have two children.
 dtp	eng	Napalid ilo tanak tondu hiri'd gowuton dot otuong.	The poor girl lost her way in the dark woods.
 dtp	eng	Napatai i Tom id toun 2013 tu toruol do Pneumonia.	Tom died in 2013 of pneumonia.
 dtp	eng	Napatai i zapa ku do oopod toun.	My father has been dead for ten years.
+dtp	eng	Nasagkom zou doid asam tasapou om nozopos do kuhit om tuhang.	I was caught in a downpour and got soaked to the bone.
 dtp	eng	Nasala oku?	Am I wrong?
+dtp	eng	Nasansagan ku do popoboos do katapatan.	I was forced to tell the truth.
 dtp	eng	Nataanan nu no.	You're under arrest.
 dtp	eng	Natagadan di tanganak do komolohingan tu oruya iyolo.	Parents punish their children for misbehavior.
 dtp	eng	Nazakan no!	Just kidding!
 dtp	eng	Nga au oku koilo poingkuro ma mongonsok do kebab!	But I don't know how to cook kebabs!
 dtp	eng	Nga' avasi nogi do posuaton dagai do id nazatan boos Kadazan mooi do koiho dii kozo ingkuo pomogunoon diti boos dotokou.	But it's also good to write in Kadazan to know how to use it.
+dtp	eng	Nga', mimang kou i' do mamatai dogo', i songuhun i nokopononsunud diozu di katapatan i noihaan ku mantad Kinoingan; okon i' ko' ino i nimaan di Abraham.	But now you seek to kill me, a man who has told you the truth that I heard from God. This is not what Abraham did.
 dtp	eng	Ngaran nopo sampaganakan dau nga Smith tintod do pisasawaan dau.	She was a Smith before her marriage.
 dtp	eng	Nohiivan dosido paakanan do tasu dau.	She forgot to feed her dog.
+dtp	eng	Nohiot zi Tom naku?	Is Tom hoarse?
 dtp	eng	Nohodi zou doid 20 Vuhan Kosizam 2013.	I was born October 20, 2013.
+dtp	eng	Noihaan ku do kopisoomo zou po haid diau, nga' au' kosoou id nombo nopo.	I know that I've met you before, but I can't remember where.
+dtp	eng	Noikot noondugo iho ula-ula dau, miaga' do gipan id tohikud do pampang.	His behavior was very suspicious, like a shrimp behind a rock.
 dtp	eng	Noikot vinasi, kotohuadan.	I'm fine, thanks.
+dtp	eng	Noikot zou no do minongomi do ii nopo o' gaung do pakazon dosido; au' ku i' noihahaan do ginuno dau iti minaganu kosivatan do minomohi do sanlamali o' gaung vagu' montok dau sondii', di kosuvabai i'.	I was merely commenting she's always wearing the same clothes; little did I know that she would use it as an opportunity to buy herself a whole cupboard of new clothes the next day.
+dtp	eng	Noikot zou sinosol do kangku di Tom.	I deeply regret what I said to Tom.
 dtp	eng	Noilaan i Kinorohingan.	God knows.
 dtp	eng	Noilaan oku do kosongkuro daa atangkangau ko dii.	I know how busy you've been.
 dtp	eng	Noinsan kou naku mambasa do Baibol?	Have you ever read the Bible?
+dtp	eng	Noinsudan zou do tozibut ku id hamin dii.	I left my wallet in the house.
+dtp	eng	Nokito i Ziri di Rima om minamanau muzud dau.	Ziri saw Rima and marched up to her.
+dtp	eng	Nokito zou do biik mintangkus tangkus doid hisiu.	I saw a mouse scamper across the floor.
 dtp	eng	Nokobugar yau.	He shaved.
 dtp	eng	Nokobuu' tuhun hobi mantad do kahantazan do kavasian humavan kalaatan.	Mankind has grown mainly due to the success of good against evil.
+dtp	eng	Noko'iad/ Nokohogun zou ontok au' ko' minonoimo dogo.	It tears me up when you turn me down.
 dtp	eng	Nokoiho i Tina nu?	Does your mother know?
+dtp	eng	Noko'ii'insan kou panampanau?	Have you ever used this thing called "Tampanau"?
 dtp	eng	Nokoilo' i Kinorohingan kaka donki tu aiso no kisangau dau.	God knew donkeys so He hasn't given them horns.
 dtp	eng	Nokoilo i Tom di Mary tu nokosusi nodi do kurita.	Tom noticed that Mary had washed the car.
 dtp	eng	Nokoilo oku dot amu ii miloh popoginawo tulun kumaa diya. Nunu poh mangan nga mumbal dumadi songulun ii kobingginawaan. Suai nopo om diolo nopo toilaan. Nokoilo oku songkuro poh koginawaanku nga ii wokon amu koilo monuli. Om iri nopo nga okon ko kowion diti pomogunan. Nokoilo oku dot monontoun ii poposuni kotumbayaan om kokirop no mamaraag. Iri no okon ko nunu ii haro doid koposion nu nga isai poingampai.	I've learned that you cannot make someone love you. All you can do is be someone who can be loved. The rest is up to them. I learned that no matter how much I care, some people just don't care back. And it's not the end of the world. I've learned that it takes years to build up trust and only seconds to destroy it. That it's not what you have in your life but who you have in your life that counts.
@@ -673,6 +881,7 @@ dtp	eng	Nokoinsan ko no kopiuman do au' ko koiho nunu mangan?	Have you ever felt
 dtp	eng	"Nokokito ko naku di Mary miampai aiso do beg hongon dau?" "Mary? Au ii no."	"Have you ever seen Mary without her handbag?" "Mary? No, never."
 dtp	eng	Nokokito oku kopio dika.	I can barely see you.
 dtp	eng	Nokoongou i Tom do hozou di Mary.	Tom was entranced by Mary's singing.
+dtp	eng	Nokoontok tokou do ogumu' tongus topuod do toun diti.	We had a lot of hurricanes this year.
 dtp	eng	Nokopongo no dumuom doungosodop dii, minouhagang zioho mamain kaad.	Dinner finished, they enjoyed playing cards.
 dtp	eng	Nokoruba ku i Tom id walai dau.	I met him at Tom's house.
 dtp	eng	Nokosodia ko' baino?	Are you ready now?
@@ -681,6 +890,8 @@ dtp	eng	Nokosusu no tampanak dongkosuabon diti.	The calf was born this morning.
 dtp	eng	Nokotombuhui ko no do id Manala Tokyo?	Did you visit the Tokyo Tower?
 dtp	eng	Nokoumbal ko' minongoi id Miksiko?	Have you ever been to Mexico?
 dtp	eng	Nokoumbal ko nokokito diti?	Have you ever seen this before?
+dtp	eng	Nokoundahiu zou nodii. Songuhun zou do poingizon do baino.	I've moved out already. Now I live alone.
+dtp	eng	Nokoundaliu oku nodii. Songulun oku do poingion dinondo.	I've moved out already. Now I live alone.
 dtp	eng	Nokuasa' haid do Jipun o pogun do Sabah.	Sabah was once ruled by the Japanese.
 dtp	eng	Nokuo au ko tumimpuun do booson poguhu?	Why don't you start talking first?
 dtp	eng	Nokuo tu mogium ko do kalabau topuak?	Why are you looking for a white buffalo?
@@ -690,6 +901,7 @@ dtp	eng	Nokuro di Tom? Napatai iyau dii?	What happened to Tom? Is he dead?
 dtp	eng	Nokuro ko' id walai do baino?	Why are you home now?
 dtp	eng	Nokuro ko' mangandad id walai?	Why are you at home?
 dtp	eng	Nokuro tu amu ko' lumabus po oi Tom?	Why don't you leave, Tom?
+dtp	eng	Nokuro tu au ko minongoi umbaya hilo doho baino?	Why didn't you stop by my place today?
 dtp	eng	Nokuro tu haro nopo kisala' nga otopot nogi?	How can something so wrong feel so right?
 dtp	eng	Nokuro tu korikot ko' hiti?	Why did you come here?
 dtp	eng	Nokuro tu mihad ko' dii?	Why are you crying?
@@ -703,18 +915,26 @@ dtp	eng	Nokuro tu tumogod ko doho?	Why are you angry with me?
 dtp	eng	Nokuro?	Why?
 dtp	eng	Nomboo o tiikoon ku?	Where is my seat?
 dtp	eng	Nomboo o tupis ku?	Where is my office?
+dtp	eng	Nomboo tiiso o nizonon nu id Boston?	What part of Boston do you live in?
+dtp	eng	Nongokimpo kozo iziozu. Mada no.	You guys are totally lame. Please fuck off.
 dtp	eng	Noniini zou kozo.	I was too small.
 dtp	eng	Noodop zou do oopod om iso di kosodop.	I slept for 11 hours last night.
 dtp	eng	Nookuo tu au ko po minonongkiboos kumaa di Tom do kokomoi diti?	Why haven't you talked to Tom about this yet?
+dtp	eng	Nookuo tu minsingompuvong ko dogo?	Why are you trying to confuse me?
 dtp	eng	Noongou zou do nokopinotood o kalaja nu.	I heard you got fired.
 dtp	eng	Noopian do padsakayan nu hodi onuan ku.	You're parked in my spot.
+dtp	eng	Noovian o talipaun piovit-ovit do botili.	The mobile phone is out of battery.
+dtp	eng	Noovit zikoi di mongingia' do doiho' id Muzium om vatu kaandaman do Pisangadan Pomogunan Koduvo.	The teacher brought us to the museum and memorial tombs of World War II.
 dtp	eng	Nopiumanan ku do tosogit hia tongus doid voos ku ka bo.	I felt a cold wind on my face.
 dtp	eng	Nopongo' ko naku monuat do luputan nu?	Have you finished writing your reports yet?
 dtp	eng	Nopupusan ku o' pinonginabasan di duvo toun nakatahib.	I graduated two years ago.
 dtp	eng	Norikot oku kosodop.	I came yesterday.
 dtp	eng	Norongou oku dilo pomoinan nopo ti nga au mangasou pimbalajaran nu. Nga montok doho au milo.	I've noticed that having fun doesn't interfere at all with your studies. I just can't.
 dtp	eng	Norualan nu dii oi Tom?	Are you hurt, Tom?
+dtp	eng	Nosiibo ii nokokodou baino.	It's below freezing now.
 dtp	eng	Nosoomo zou i Tom do insan.	I met Tom once.
+dtp	eng	Nosoou ku dati do au mimang zi Tom do ingkaa.	I thought maybe Tom wouldn't want to do that.
+dtp	eng	Nosoou ku dati do au mimang zi Tom do ingkaa.	I thought that maybe Tom wouldn't want to do that.
 dtp	eng	Nosoou ku nga aanangan zosido dogo.	I think she likes me.
 dtp	eng	Nosoou ku nga apatut no daa kapatai iho mantad ko poimpasi i vokon tu alaat kozo doiti iniba'.	I think this one has to die for the other to live. It's a cruel world.
 dtp	eng	Nosoou nu daa om koiho ko mobooboos do Peransis mantad dogo?	Do you think you speak French better than I do?
@@ -722,13 +942,16 @@ dtp	eng	Nosunudan ku do moi hiti id tadau ko-13.	I was told to be here on the 13
 dtp	eng	Nosusu no do tuhun ngaavi i koidu om kopiagahan doid kotinguhan om sanganu. Kikasaavan om topiumanan ginavo zioho om minooi o tumindak id piahatan do iso suvai do sunduvan i kopiobpinazan.	All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 dtp	eng	Nosusu oku id tontok toun kinapatayan di taki ku.	I was born in the year that Grandfather died.
 dtp	eng	Notuu o mato dau.	She dried her eyes.
+dtp	eng	Noudipan konou kama, nopongo no do id tindahanon.	After that journey on the road, you all must be tired.
 dtp	eng	Noulau iyolo ngawi?	Are they all nuts?
 dtp	eng	Nu komoyon ti?	What does it mean?
 dtp	eng	Nu mangan nu id walai ku tinu?	What would you do if you were in my place?
 dtp	eng	Nung au' tokou tamangan kinoizonon posoihi', humusi' ii dotokou.	If we don't take care of the environment, it'll take vengeance against us.
 dtp	eng	Nung kosohovot ko di Tom, adaa hiivai uoton dau "ingkuro no abal di savo dau?".	If you see Tom, don't forget to ask him how his wife's doing.
+dtp	eng	Nung mimang ko nopo dogo, magansak zou mai do pai.	If you want me to, I'll bake a pie.
 dtp	eng	Nung minonimpuun oku minsingilo' do limo boros mantad limo toun di gulu, koilo' oku mimboros dondo.	If I had started learning these languages five years ago, I would know them now.
 dtp	eng	Nung mokiambalut ko' doho, ponokiambalut do tambalut ku nogi.	If you want to become my friend, then also become the friend of my friend.
+dtp	eng	Nung tumahib toomod o tuhun dii nga' iso' toi' duvo tudizo nga' uha' no. Dadi' moboos no isido do, "Mamanau zou dii", ka, om simbaon no di songuhun do "Ba," ka. Nung au' isido mimang do oihaan kozo o ngozon dau nga' sumimba isido do, "Mooi zou duuhia," ka noopo, om koubasan do au' nodii isido udizoon.	If the person is only passing through, one or two exchanges are sufficient, and then he will say "I am going now," to which the other person is responds, "Ok." If the person wished to be evasive, he may respond with "I'm going over there," and he is not usually questioned further.
 dtp	eng	Nunu binoli nu?	What did you buy?
 dtp	eng	Nunu gia?	What?
 dtp	eng	Nunu kad duo ayat id boros Poransis diti?	How do you say these two phrases in French?
@@ -751,37 +974,54 @@ dtp	eng	Nunu o tokito nu?	What can you see?
 dtp	eng	Nunu pokionuan ku hiti?	What am I here for?
 dtp	eng	Nunu pomusarahan nu?	What are you thinking about?
 dtp	eng	Nunu taakanon dot au milo akanon di toruol do diabetik?	What foods should a diabetic not eat?
+dtp	eng	O, abazatan ko diho kokuamaon nu? Nookuo tu' au' kanu dii? Kivaa tinimungan susumokodung montok diho'. Pinungaanan do tuhun SONGOVIAN, om mogisoosoomo izioho' doiho' id poginuman.	“Oh, you hate your job? Why didn't you say so? There's a support group for that. It's called EVERYBODY, and they meet at the bar.”
 dtp	eng	Obibi' po o tanak tonini' diho' do mamanau.	The baby staggers because he is just learning to walk.
+dtp	eng	Obingpihadan zou tu guminavo zou diau om au zou mimang doid isai nopo do montok diau nga izou. Obingpihadan zou tu iziau no do tuhun di mimang zou nopo om au zou mimang atagakan diau.	I get jealous because I love you and I don't want anybody to have you but me. I get jealous because you're the only person I want and I don't want to lose you.
 dtp	eng	Obuli ba' iya!	You can do it.
 dtp	eng	Obuli ko daa mooi pokisuduvon?	Why don't you go out and get some firewood?
 dtp	eng	Obuli ko daa ukabai dilo kakanan?	Could you open this jar for me?
 dtp	eng	Obuli oku daa mamalanja dokoyu tiinumon oi sumandak?	Can I offer you ladies a drink?
 dtp	eng	"Obuli oku daa mokianu dii?" "Tumanud moti diri."	"Can you do me a favor?" "It depends."
 dtp	eng	Obuli oku mamalanja dokoyu do tiinumon?	Can I offer you a drink?
+dtp	eng	Obuvazanan zou do ula talaat di savo ku.	I am pressured by my husband's bad character.
 dtp	eng	Odoromot i tadi ku.	My little brother is adorable.
 dtp	eng	Odoromot i tadi ku.	My little sister is adorable.
 dtp	eng	Odosi zosido kozo do tasu.	She is much afraid of dogs.
+dtp	eng	Ogorot tomod ii Muhammad do mangakan do sadur id walai.	Muhammad is quite fond of eating watermelon at home.
+dtp	eng	Ogumu do tambahut ku di koiho moboos do Kadazan ih tavasi.	I have many friends who speak Kadazan well.
+dtp	eng	Ogumu' o kosusaan ku.	I have many worries.
 dtp	eng	Ogumu ontokon ti.	A lot has happened.
 dtp	eng	Ogumu poingiyon hilo'd pogun tokoro maan pagapon.	That island's population lives on fishing.
 dtp	eng	Ohidas i Tom tomoimo.	Tom is always healthy.
 dtp	eng	Ohingos naku saviavi'?	Is everyone recovering?
 dtp	eng	Oh.	Yes.
 dtp	eng	"Oi Jesus, suang no id ginavo ku, dadi no do Tuhan om mononobus ku. Ompuno no saviavi douso ku. Poduo om bolisiho zou daa. Pohobuso zou. Jesus, monongkotohuod zou diau tu minatai ko montok dogo. Otumbazaan zou do tuminungag ko mantad poinpatai. Om mikot ko vagu montok dogo."	'Dear Lord Jesus, come into my heart, be my lord and savior. Forgive me of all my sin. Wash me and Cleanse me. Set me free. Jesus, Thank You that You died for me. I believe that You are risen from the dead. and that You are coming back again for me.'
+dtp	eng	Oimazaan tomod tia Muhammad do mangakan do sikui id daamin.	Muhammad is quite fond of eating watermelon at home.
+dtp	eng	Oinggohou kozo tuhu ku nung nakaahau do tindalanon ku.	I feel so dizzy when I'm losing my way.
 dtp	eng	"Oi, onu ahal?" "Oh, au ii ahal bo."	"Hey, what's up?" "Oh, not much."
 dtp	eng	Oi Tom, hino ko dii?	Tom, are you there?
 dtp	eng	Okitaan isido mongoi habus mantad do daamin.	He was seen to come out of the house.
 dtp	eng	Okito zou diau kadaada no.	I can see you're speechless.
 dtp	eng	Okodou tuhu nu!	You're hard-headed!
+dtp	eng	Okon ii noopo ko toponsol do saviavi manaak topiumanan dotiho kokomoi do bobooson diti, nga koiho zou ponogi dii topiumanan dotiho.	It's not only important that everyone gives their opinion about this topic, but also that I know what their opinion is.
+dtp	eng	Okon ino ko oizakou kozo o pamamain.	It wasn't a very exciting game.
+dtp	eng	Okon ko' aiso gontob iti tinoboi ku.	My patience is not unlimited.
+dtp	eng	Okon, maahing ko po om poguhian no.	No, you have to turn around and go back.
+dtp	eng	Okuang no do tongus o boogizan tohikud do kapal diti.	The aft part of the boat felt less windy.
 dtp	eng	Olohing oku do baino.	I'm an old man now.
 dtp	eng	Olohou yau tu manu do biir.	He called for beer.
 dtp	eng	Olombon oku kopio.	I'm so fat.
 dtp	eng	Oluai no doiho.	Almost there.
 dtp	eng	Olumis isido id tontok do komulakan disido.	She was beautiful when she was young.
+dtp	eng	Oluo o nipon ku tu' au' zou kaakan dii.	I have a toothache, so I can't eat anything.
+dtp	eng	Om ingkaa no do kada' kou tongob kokomoi do suvab: suvab nopo nga' mintamong i' dau sonḏii'. Kikobohingkaangan sonḏii' o potitikid tadau.	Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble.
 dtp	eng	Ompunai oku.	Please forgive me.
 dtp	eng	"Omuhok zosido?" "Oh"	"Is she young?" "Yes, she is."
 dtp	eng	Omuhok zou mantad disido apat toun.	I am four years younger than him.
 dtp	eng	Omulok ko' po.	You're still young.
 dtp	eng	Ondos di kogumuan tulun daa om noulau oku ih.	Most people think I'm crazy.
+dtp	eng	"Ondu, onuo ti sopong, taako di ama nu" ka di apa maso potunui sopong i naapon dau doiho botung.	"Along, take this catfish, give it to your mother," said my father, holding out the catfish he had just caught on the water rope.
+dtp	eng	Ongobuli kou ngaavi do muhi do ahapas o kalaja.	After manual labour, you may all go home.
 dtp	eng	Ongoi irikau hino tirikohon.	Go back to your seat.
 dtp	eng	Ongoi uhupai i Tom.	Help Tom.
 dtp	eng	Ontok guminavo o songuhun diau, mogisuusuvai no o lahan ngaavi dioho mangait do ngaan nu... Koiho ko tomoimo do atampasi o ngaan nu doid munung dioho. Ontok guminavo ko do vokon, miop-kiop mai o kiop do mato nu do om tombituon tongonini humabus mantad diau.	When someone loves you, the way they say your name is different.. You just know that your name is safe in their mouth. When you love somebody, your eyelashes will go up and down little stars come out of you.
@@ -793,9 +1033,12 @@ dtp	eng	Onu boos koiso dau?	What were his first words?
 dtp	eng	Onu di apatut kinaantakan nung titiumon tokou do timbang tinan nu?	What should be done if we want to find our soul mate?
 dtp	eng	Onu i maan nu do mangakan do kosuvabon dii?	What do you have for breakfast?
 dtp	eng	Onu mangan nu?	What are you doing?
+dtp	eng	Onu nopo i tosoou dotokou nga ii no kotutuko dotokou. Saviavi dii nadampot dotokou nopo nga mantad ngavi do pomusaavan dotokou. Miampai do pomusaavan dotokou, o'uug dotokou oh vinoun.	“We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.”
+dtp	eng	Onu o bagas tosonong di naanu dokoyu mantad do pandemik Covid19?	What good effects did you get from the Covid19 pandemic?
 dtp	eng	Onu ontokon ko' kinaantakan dii?	What happened or is happening?
 dtp	eng	Onuo' ti. Iti nopo nga poluu' magik.	Take it! It's a magic bullet.
 dtp	eng	Onu o tosoou nu di Tom minomohi?	What do you think Tom bought?
+dtp	eng	Oonu kavo o taakanon di pangakanan nu doid Tadau Krismas?	What kind of food do you eat on Christmas Day?
 dtp	eng	Oosizan zi Dan kokomoi do tongkulalava tagazo kivuhu.	Dan used to be so scared of big hairy spiders.
 dtp	eng	Opolokis zosido.	She is active.
 dtp	eng	Oponsol nopo kolidasan tinan ku.	My health is my only capital.
@@ -811,6 +1054,7 @@ dtp	eng	Osikap tomod i Tom dumuom.	Tom eats very quickly.
 dtp	eng	Osikap tomod tokou.	We're very fast.
 dtp	eng	Osinang montok diya.	It's easy for you.
 dtp	eng	Osiriba ilo sunsuyon.	The bridge is low.
+dtp	eng	Osodu' po naku kozo?	Is it a long distance?
 dtp	eng	Osogit.	It's cold.
 dtp	eng	Osongulun i Tom?	Was Tom alone?
 dtp	eng	Osongulun ko' po?	Are you still alone?
@@ -850,8 +1094,11 @@ dtp	eng	Otopot toi ko amu?	True or false?
 dtp	eng	Otumbayaan ku diya.	I trust you.
 dtp	eng	Oubas isido moi panangkus tintod do taakanon dongkosuabon.	She is in the habit of jogging before breakfast.
 dtp	eng	Oubas i Tom pisingihaan id totuvong.	Tom prefers studying at night.
+dtp	eng	Oubas zou momutu do louti kogut.	I usually cut the crust off bread.
 dtp	eng	Oudut.	That's a lie.
+dtp	eng	Ouhagang kozo ginavo tia moboos do ogumu boos.	It's so much fun to speak so many languages.
 dtp	eng	Ouhan nopo sosonguhun do kikoula-ulahon dit alaat!	How easily one acquires bad habits!
+dtp	eng	Ounsikou o ginavo do tasu di Tom.	Tom's dog is happy.
 dtp	eng	Owito ilo tongulun hiti.	Bring those men here.
 dtp	eng	Owito pakakas nu.	Bring your tool box.
 dtp	eng	Paatadai komi nu hiti kio.	Leave me a message, please.
@@ -859,14 +1106,24 @@ dtp	eng	Paatadai zou doiho.	Send me there.
 dtp	eng	Pakadaada.	Keep it quiet.
 dtp	eng	Pakarajaan di Tom nopo dinondo nga papapanau luri.	Tom is apparently a truck driver.
 dtp	eng	Pakazo kogos koumohigan diozu.	Buckle your seatbelts.
+dtp	eng	Pananggaung ko gia no do takapa. Osogit no do doino.	You should put on your anorak. It's cold out there.
 dtp	eng	Papaakan i Dan do hipos kumaa do tongkulalava tagazo do kivuhu dau	Dan feeds roaches to his big hairy spider.
 dtp	eng	Papadahin ko do hozou?	Do you translate songs?
 dtp	eng	Paparalom oku do pinuhobo.	I took a deep breath.
+dtp	eng	Papatantu zou do momohoou do pulis.	I've decided to call the police.
 dtp	eng	Paswod nopo nga "Muiriel".	The password is "Muiriel".
 dtp	eng	Pen dau doid siibo do mija.	His pen was under the table.
 dtp	eng	Piipio toun mikot au nodi mamanau id do taman kolooloizan dii.	The next few years won't be a walk in the park.
+dtp	eng	Pinaantakan di Ziri nopo tomoimo nga' au' miansau-ansau miampai di Rima.	Ziri always had an excuse for not hanging out with Rima.
 dtp	eng	Pinapaatod zou dosido do misij.	I left a message for her.
+dtp	eng	Pinatai ku iho tuhun ih aiso hasa, tu' izou nopo diti nga' tuhun di aiso hasa.	I killed those innocent people. Because I'm innocent.
 dtp	eng	Pinogidu ziaha' mantad daamin.	He got thrown out of the house.
+dtp	eng	Pinokitoon nu naku diti kumaa di mohoing nu nogi?	Did you show this to your parents too?
+dtp	eng	Pinoobian dogo zi Mr Smith titohuod disido montok/kumaa diau.	I would like to say thank you on behalf of Mr Smith.
+dtp	eng	Pinoopian ku daa doid tampat taakanan di kaanangan ku, nga nosompon doid Sodop Krismas.	I wanted to make a reservation at my favorite restaurant, but it's closed on Christmas Eve.
+dtp	eng	Pinopogidu i Ziri do pongku dau.	Ziri threw his girlfriend out.
+dtp	eng	Pinopoiho o Lugansk om Donetsk do kagabasan mantad do Ukraine.	Lugansk and Donetsk declared independence from Ukraine.
+dtp	eng	Pinopoikit zou do sumbu id mija.	I switched on the lamp on my desk.
 dtp	eng	Pinoposodia iyolo do taakanon montok tulun di poimpasi mantad do pisangadan.	They provided food for the war victims.
 dtp	eng	Pinorotu diolo do bodilan atom hodi Hiroshima.	They dropped an atomic bomb on Hiroshima.
 dtp	eng	Pinoundahiu zi Mary do hamin miampai di komohoingan dau.	Mary moved home to be with her parents.
@@ -880,6 +1137,7 @@ dtp	eng	Pogulio!	Give it back!
 dtp	eng	Pogulion ko nopo oloson nu nga milo ko oloson id kawagu. Nga nung au ko pogulion nopo oloson nu nga apagon nogindo moi olos diri.	Borrow and return, then you can borrow again. Borrow and don't return, and then the borrowing gets difficult.
 dtp	eng	Pohoroon o kopolintaan do oloson dot au gatangon montok popokito do kohompit id abaabayan.	The government will provide interest-free loans to firms that participate in the program.
 dtp	eng	Poihoon di Mary kumaa dogo kovihi mikuvo do pananggaung zosido po.	Mary wanted me to look the other way while she was getting dressed.
+dtp	eng	Poihoon ku iziau totootopot, do aiso i' do songuhun do kokito do kopomolintaan do Kinoingan do au' no ohodi' do mantad savat.	I tell you the truth, no one can see the kingdom of God unless he is born again.
 dtp	eng	Poiikoo zou tana do hinantazan, pakabazo zou hivantai do hibabou,	Have a proper funeral for the body so that the soul can reach to heaven.
 dtp	eng	Poiloon iyolo kaka tokou dit atangkangau.	Let them know we're busy.
 dtp	eng	Poimpanau o GPS ku.	My GPS works very well.
@@ -891,6 +1149,8 @@ dtp	eng	Poingkuro daa milo oku moniwa do pakayan?	Where can I rent a costume?
 dtp	eng	Poingkuro ma popotingkod diti?	How do you stop this?
 dtp	eng	Poingkuro no olingan ku dilo?	How can I forget it?
 dtp	eng	Poingsikul oku id Unibisiti Boston.	I study at a university in Boston.
+dtp	eng	Pokinongoo no o booson ku!	Listen to what I'm saying.
+dtp	eng	Pokiompunai zou kozo do kinaantakan di baino.	I sincerely apologize for the incident that happened today.
 dtp	eng	Pokituhung no.	Go get help.
 dtp	eng	Pologoson nu doho.	You underestimated me.
 dtp	eng	Pono'odo gia do kupi.	Please make coffee.
@@ -904,12 +1164,19 @@ dtp	eng	Popointutun iyau di tanak tondu dau kumaa doho.	He introduced me to his 
 dtp	eng	Poposurung yau do kupi' montok doho.	She served me coffee.
 dtp	eng	Popotigog ilo disio.	That surprised him.
 dtp	eng	Posik no.	It's time to get up.
+dtp	eng	Posuangai ngaavi ziaha' potuu di noihaan dau, au' ziaha' kaanu monongkibai diau.	Although he put in all that he knew, he could not match up with you.
+dtp	eng	Potuntugon nopo oh pomusaavan doid tonsi nga koundunon do kiniopon, nga nung potuntugon oh pomusaavan doid sunduvan, ii no oh koposizon om kataanangan	To set the mind on the flesh is death, but to set in mind on the spirit, is life and peace.
 dtp	eng	Povihio po duuhia.	Put it there.
 dtp	eng	Rahat dot aiso topuhod diri okon ko tabaal montok do pomomogun rahat.	A smooth sea never made a skillful sailor.
+dtp	eng	Randawi kolunduo di Kindaman tu tokobuk doo igu garau do tadau.	Kindaman is the most beautiful girl because her hair shines like the sun.
 dtp	eng	Rongoho no sawo nu oi Tom.	Listen to your wife, Tom.
 dtp	eng	Rumikot tokou miruba dika.	We came to see you.
 dtp	eng	Ruminuba oku di Jane suai tadau.	I met Jane the other day.
+dtp	eng	Sabaagi do koponuhungan montok diau, timpoonan om tuhungan ku mai	As a favor to you, I'll stay and help.
 dtp	eng	Sabap nopo tongus ti nga kogumuan do naraag.	The storm caused a lot of damage.
+dtp	eng	Sada pinokibolian ku dika bogia ri dii, okonko manuk!	I asked you to buy fish, not chicken!
+dtp	eng	Sampapas toniini poinsusui do danau.	A small creek cut across the field.
+dtp	eng	Sasau zou huminozog di nini po.	I often swam when I was a kid.
 dtp	eng	Savo nopo ginumuan nga pinosoou zou kokomoi do kogiu main violin.	The majority of husbands remind me of an orangutan trying to play the violin.
 dtp	eng	Sikapai!	Hurry up.
 dtp	eng	Sikapai uhupai.	Hurry, help.
@@ -920,18 +1187,26 @@ dtp	eng	Soira nopo papadalin boros do ayat nga haro nondo maan i suai popunongo 
 dtp	eng	Soira tadau kinosusuon nu?	When is your birthday?
 dtp	eng	Soira tongoyon ilo koritapui do kawagu?	When does the next train leave?
 dtp	eng	Somok no kohimpupuson toun.	It's almost the end of the year.
+dtp	eng	Somoonu' o tuhun do mudizo do, "Nunu no abal nu?" ka, kumaa di tuhun di ahaid no do aino' doid kinoizonon dii.	Sometimes people ask, "How are you?" if the person has been away from the place for quite sometime.
 dtp	eng	Sompoton nopo nga tunion doung koubasan di tinaru Kadazandusun.	Sompoton is a Kadazandusun traditional bamboo aerophone.
+dtp	eng	Songian do momogingo tokou do puun do Krismas, itia tinsel nga nakasavit tomoimo doid basaan tokou.	When we decorate our Christmas tree, tinsel always gets stuck to our clothes.
+dtp	eng	Songian ko tuminimpuun do minsingiho boos do Kadazan?	When did you start studying Kadazan?
 dtp	eng	Songian mugad iho kulitapui do kavagu?	When does the next train leave?
 dtp	eng	Songihisakai iho.	Please keep it secret.
+dtp	eng	Songko'uatan i' do tuhun di tokunamaan nu doid tindahanon.	Just keep asking people along the way.
 dtp	eng	Songkuo ginumu o kivaa tataangob do id damin diti?	How many doors are there in this house?
 dtp	eng	Songkuo tinama' sumovohi ko do hamin di tapa ku kumaa do id pasar!	How dare you turn my father's house into a market!
 dtp	eng	Songkuro linaid dot iyonon nu hilo'd Kanada?	How long did you stay in Canada?
+dtp	eng	Songuhun kusai kibasaan tosogit pinoindikau id mija'.	A man in a blue sweater sat at the desk.
+dtp	eng	Songuhun tondu Sina mantad Ipoh di ahantas no moboos do Kadazan mantad ko' moboos do Kantonis do mobooboos dau sondii.	A Chinese girl from Ipoh who is fluent in Kadazan rather than Cantonese as her native speaker.
 dtp	eng	Sontob nintorusan nga kopiagal no, nga haro po nintorusan do lobi mantad do suai.	All animals are equal, but some animals are more equal than others.
 dtp	eng	Sontob nunu nopo dati nga' kavasa' nung otumbazaan nu nopo ii.	All things are possible if you believe.
 dtp	eng	Soovon ku diho do miho tuhungon dagai.	I think that this should help us.
 dtp	eng	Soovon.	Think.
 dtp	eng	Soroiso-iso tokou mogirati.	We could understand each other.
 dtp	eng	Sumakai oku id korita do tinu.	I'll be in my car.
+dtp	eng	Sumakai zi Tom doid iso ih baas di poindikau zou.	Tom is on the same bus that I'm on.
+dtp	eng	Sumbu ngaavi' doid kakadazan pinisok vagu'.	The lights in town are turned off again.
 dtp	eng	Suminding o tombolog id sawat do guas.	A bird is singing in the tree.
 dtp	eng	Suminimbar i Yesus diolo.	Jesus answered them.
 dtp	eng	Sumium isido do ugadan dosido.	He kissed her farewell.
@@ -940,6 +1215,7 @@ dtp	eng	Sumonsog oku nodi?	Am I too demanding?
 dtp	eng	Sunudai isido.	Tell her.
 dtp	eng	Sunudai oku do topurimanan nu.	Tell me how you're feeling.
 dtp	eng	Sunudai zikoi do pamanahasazan dau.	Show us the solution.
+dtp	eng	Sunudai zou gia do nomboo o kadai pomoto dii.	Please tell me where the spice shop is.
 dtp	eng	Sunudai zou gia do numbul biing.	Please tell me the bank's number.
 dtp	eng	Tabi pintutunan kio.	Nice to meet you.
 dtp	eng	Tabi pintutunan kumaa dika.	I'm very glad to see you.
@@ -949,26 +1225,34 @@ dtp	eng	Tambahut tavasi, buuk tavasi, ula-ula di titiodop: iti no kopooposizon d
 dtp	eng	Tambalut kito ii tosonong.	You and I are good friends.
 dtp	eng	Tam minatai toi ko korualan di onom nahatus ribu o tulun.	Six hundred thousand men were killed or wounded.
 dtp	eng	Tanak topuavang noopo izioho.	They're just rich kids.
+dtp	eng	Tanda' tavasi' humiput do potulamui om bahazan popokito doid kakang kopoguhu.	Fine markings around the muzzle and shoulder hint at an early bridle.
 dtp	eng	Ta! Nobobod o tuva' diho' langahau.	Oh! That rambutan tree is laden with fruit.
 dtp	eng	Tata, nohiivan ku no do tudizo. Kanu po haid do au ko nokokito do kuzuub dii. Nokoium ko naku do baino dii?	Ah, I forgot to ask. Before you said you hadn't seen he umbrella. Have you found it since?
 dtp	eng	Tikid kosuabon, momosik ilo tandaha di sotimbang dahai.	Every morning, the neighbour's rooster woke us.
 dtp	eng	Tinantu i pososoizuk nopo tumau sompomogunan nga kavasa gompizon gisom do ngaatus toun vaavagu.	Some scientists predict that the world oil reserves will be used up within a century.
 dtp	eng	Tingaha hodi.	Look up there.
 dtp	eng	Tingkod o korita!	Stop the car!
+dtp	eng	Tinohobon iho vavazaan.	The door is blocked.
 dtp	eng	Titikito zi Henry id diau.	Henry wants to see you.
+dtp	eng	Titiugad zou id Sipanyol.	I want to go to Spain.
 dtp	eng	Titombuhui zou diau.	I want to visit you.
 dtp	eng	Tobonon tokou suab.	We're closed tomorrow.
+dtp	eng	Tohu no tinan sada naanu ku.	I caught only three fish.
 dtp	eng	Tokou nga milo' korikot?	Can we come, too?
+dtp	eng	Tolipounai zou do mositi kiva konunu. Tumihombus zou mai id hivang diti.	Call me if you need anything. I'll be in the next room.
+dtp	eng	"Tomoimo no koondom do uhagang ginavo tu au nu noihaan do isai ih guminavo do ngingis nu."	“Always remember to be happy because you never know who is falling in love with your smile.”
 dtp	eng	Tomposio' isido.	Save her.
 dtp	eng	Tondu ti nopo nga bantaton.	This woman is a prostitute.
 dtp	eng	Tontok do toun 1939 nodi nokoimbuhai o pisangadan do pomogunan koduvo.	It was in 1939 that the Second World War broke out.
 dtp	eng	Tontok dot owonsoi it otulid om ongotood i' o tulun dit osonong; nga' ongooris indo i tulun dot araat.	Doing what is right fills the upright with joy, but evil-doers with terror.
 dtp	eng	Tonudo isio.	Follow him.
 dtp	eng	Toruol disio mangantob iyau mongoi hiri'd karamaian.	Illness prevented him from attending the party.
+dtp	eng	Tosoou i Tom do katangkus isido dii.	Tom thinks he can get away with that.
 dtp	eng	Toun diti, aiso no timpu ku do tadau koundaangan dii.	This year I didn't have time to go on holidays.
 dtp	eng	Tou no i Tom mangan toi ko amu kangku daa.	I'm not sure whether Tom will do that or not.
 dtp	eng	Toun vagu ti. Kanou muzu.	It's a new year. Let's move forward.
 dtp	eng	Tumahang zikoi diho.	We explained it.
+dtp	eng	Tumangkabo kozo no kokitanan nu.	You looked pretty worried.
 dtp	eng	Tumanud ko mongoi tombului id tontok koundarangan miampai di Tom?	Do you plan to spend your summer vacation with Tom?
 dtp	eng	Tumanud oku do kopoilaan dau.	I share his opinion.
 dtp	eng	Tumilombus iri masam-rasam sangadau.	The rain continued all day.
@@ -978,8 +1262,10 @@ dtp	eng	Tuminingkod i Tom do ngawi.	Tom stopped everything.
 dtp	eng	Tuminongkiad oku id solinaid piginawaan ku maya tanakwagu ku do tolu' toun di tinu.	I recently broke up with my boyfriend of three years.
 dtp	eng	Tumombuhui zou tomoimo.	I travel often.
 dtp	eng	Tumongob i komolohingan nu do kosonong-sonong nu.	Your parents are just worried about your safety.
+dtp	eng	Tumoodo no. Kotohuadan insan po.	Goodbye. Thanks once again.
 dtp	eng	Tumulud o tombolog hilo'd tawan.	Birds fly in the sky.
 dtp	eng	Tutuduk ngaavi do momompoh tindalam.	Tips to bake a cake.
+dtp	eng	Uha' no gambal nanu ku. Kotohuadan.	I have taken enough photos. Thank you.
 dtp	eng	Uhupai!	Help!
 dtp	eng	Uhupai oku.	Please help me.
 dtp	eng	Uhupai yau.	Help him.
@@ -1007,6 +1293,8 @@ dtp	eng	Yoku nopo nga susumikul.	I'm a student.
 dtp	eng	Yoku okon gia mongugusap.	I'm not a doctor.
 dtp	eng	Yoku ti haro do kunsi.	I'm the one who has the key.
 dtp	eng	Zadaan nu naku dogo iti?	Are you throwing this away for me?
+dtp	eng	Ziisai o basug di nimaan dii?	Who's the idiot who did that?
 dtp	eng	Zioho ii au' koondom dii poguhu oukum do monugut dii.	Those who do not remember the past are condemned to repeat it.
+dtp	eng	Ziri, insoduai mantad dosido no!	Ziri, get away from her right now!
 dtp	eng	Zisido nopo nga tomuhok mantad ko tobpinai kusai ku do tohu toun.	He is junior to my brother by three years.
 dtp	eng	Zosido ti!	Here she is!

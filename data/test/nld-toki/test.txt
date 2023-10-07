@@ -38,6 +38,7 @@ nld	toki_Latn	Daden spreken luider dan woorden.	o toki ala. o pali.
 nld	toki_Latn	Dat is alles wat Tom wilt.	ni li wile ali pi jan Ton.
 nld	toki_Latn	Dat is een interessante taal.	toki ni li musi.
 nld	toki_Latn	Dat is een interessante taal.	toki ni li musi tawa sona mi.
+nld	toki_Latn	Dat is één kleine stap voor een mens, en een reuzensprong voor de mensheid.	ni li pali lili kepeken noka pi jan wan, li pali suli lon kulupu pi jan ale.
 nld	toki_Latn	Dat is een woestijn.	ni li ma pi telo ala.
 nld	toki_Latn	Dat is een woestijn.	ni li ma seli.
 nld	toki_Latn	Dat is een woestijn.	ni li ma seli pi telo ala.
@@ -89,6 +90,10 @@ nld	toki_Latn	Dit is mijn land.	ma ni li ma mi.
 nld	toki_Latn	Dit is mijn land, niet de jouwe.	ma ni li ma mi li ma sina ala.
 nld	toki_Latn	Dit is mijn piemel.	o lukin e palisa mije mi.
 nld	toki_Latn	Dit is soep.	ni li moku telo.
+nld	toki_Latn	Dit werk valt onder een CC BY 4.0-licentie.	jan li ken kepeken ijo ni kepeken nasin CC BY 4.0.
+nld	toki_Latn	Dit werk valt onder een CC BY 4.0-licentie.	jan li ken kepeken lipu ni kepeken nasin CC BY 4.0.
+nld	toki_Latn	Dit werk valt onder een CC BY 4.0-licentie.	lipu ni li kepeken nasin lawa CC BY 4.0.
+nld	toki_Latn	Dit werk valt onder een CC BY 4.0-licentie.	pali ni li kepeken nasin lawa CC BY 4.0.
 nld	toki_Latn	Doe het boek toe.	o selo e lipu.
 nld	toki_Latn	Doe je hoed af.	o weka e len lawa tan lawa sina.
 nld	toki_Latn	Doe je ogen dicht.	o pini e lukin sina.
@@ -216,6 +221,7 @@ nld	toki_Latn	Ik ben belangrijk.	mi suli.
 nld	toki_Latn	Ik ben de man van Maria.	mi mije pi jan Mewi.
 nld	toki_Latn	Ik ben dol op Frans.	toki Kanse li pona mute tawa mi.
 nld	toki_Latn	Ik ben dol op kinderen.	jan lili li pona mute tawa mi.
+nld	toki_Latn	Ik ben dol op paddenstoelen.	soko li pona mute tawa mi.
 nld	toki_Latn	Ik ben een vriend van Maria.	mi jan pona pi jan Mewi.
 nld	toki_Latn	Ik ben gek op Frankrijk.	ma Kanse li pona mute tawa mi.
 nld	toki_Latn	Ik ben gek op Sino-Tibetaanse talen.	kulupu toki Sonkopo li pona mute tawa mi.
@@ -279,6 +285,7 @@ nld	toki_Latn	Ik hou van mijn fiets.	ilo tawa mi pi sike tu li pona tawa mi.
 nld	toki_Latn	Ik hou van mijn fiets.	sike tu mi li pona tawa mi.
 nld	toki_Latn	Ik hou van rode vruchten.	kili loje li pona tawa mi.
 nld	toki_Latn	Ik hou van rood fruit.	kili loje li pona tawa mi.
+nld	toki_Latn	Ik hou van schimmels.	soko li pona tawa mi.
 nld	toki_Latn	Ik hou van zwart.	pimeja li pona tawa mi.
 nld	toki_Latn	Ik kan alles horen.	mi ken kute e ali.
 nld	toki_Latn	Ik kan je zien.	mi ken lukin e sina.
@@ -341,6 +348,7 @@ nld	toki_Latn	Ik zeg je niets nieuws.	mi toki ala e ijo sin tawa sina.
 nld	toki_Latn	Ik zeg niets nieuws.	mi toki ala e ijo sin.
 nld	toki_Latn	Ik zet mijn hoed af.	mi weka e len lawa tan lawa mi.
 nld	toki_Latn	Ik zie je.	mi ken lukin e sina.
+nld	toki_Latn	''Ik zou graag de manager willen spreken,'' zei Karen.	jan Kewen li toki e ni: mi wile toki tawa jan lawa.
 nld	toki_Latn	In Canada spreekt men Engels en Frans.	jan Kanata li kepeken e toki Kanse e toki Inli.
 nld	toki_Latn	India heeft een grote bevolking.	jan mute li lon ma Palata.
 nld	toki_Latn	India heeft een grote bevolking.	ma Palata li jo e jan mute.
@@ -368,6 +376,9 @@ nld	toki_Latn	Jij en ik zijn niet hetzelfde.	mi en sina li sama ala.
 nld	toki_Latn	Joe is tot over zijn oren verliefd op dat meisje.	jan Jo li olin nasa e meli ni.
 nld	toki_Latn	Jullie hebben allemaal goed werk verricht.	sina ale li pali pona.
 nld	toki_Latn	Jullie werken te veel!	sina pali pi mute ike.
+nld	toki_Latn	Kan iedereen me goed horen?	jan ale li ken ala ken kute pona e mi?
+nld	toki_Latn	Kan iedereen me horen?	jan ale li ken ala ken kute e mi?
+nld	toki_Latn	Kan iedereen me prima horen?	jan ale li ken ala ken kute pona e mi?
 nld	toki_Latn	Kan je jagen?	sina ken ala ken alasa?
 nld	toki_Latn	Kan je me horen?	sina ken ala ken kute e mi?
 nld	toki_Latn	Kan je me nu horen?	tenpo ni la sina ken ala ken kute e mi?
@@ -436,6 +447,7 @@ nld	toki_Latn	Nee.	ala.
 nld	toki_Latn	Niemand luisterde naar me.	jan ala li kute e mi.
 nld	toki_Latn	Niemand luistert naar me.	jan ala li kute e mi.
 nld	toki_Latn	Niemand wist dat.	jan ala li sona e ni.
+nld	toki_Latn	Niets te danken.	pona li tan sina.
 nld	toki_Latn	Nieuwsgierigheid vergroot kennis.	wile sona li mute e sona.
 nld	toki_Latn	Noord-Korea en Zuid-Korea zijn buurlanden.	ma Soson en ma Anku li ma poka.
 nld	toki_Latn	Noord-Korea en Zuid-Korea zijn buurlanden.	ma Soson li lon poka pi ma Anku.
@@ -501,8 +513,12 @@ nld	toki_Latn	Tom is niet thuis.	jan Ton li lon ala tomo ona.
 nld	toki_Latn	Tom luistert nooit naar iemand.	tenpo ali la jan Ton li kute ala e jan ante.
 nld	toki_Latn	Tom melkte de koe.	jan Ton li kama jo e telo walo tan soweli.
 nld	toki_Latn	Tom spreekt veel talen.	jan Ton li ken kepeken toki mute.
+nld	toki_Latn	Tom weet niet wat de reden is, maar hij weet wel dat er een reden is.	jan Ton li sona ala e tan, taso ona li sona e ni: tan li lon.
 nld	toki_Latn	Tom werd bleek.	sinpin pi jan Ton li kama walo.
 nld	toki_Latn	Tom wilde lang zijn.	tenpo pini la jan Ton li wile suli.
+nld	toki_Latn	Tom wil dokter worden.	jan Ton li wile kama jan sona misikeke.
+nld	toki_Latn	Tom wil dokter worden.	jan Ton li wile kama jan sona pi pona sijelo.
+nld	toki_Latn	Tom wil dokter worden.	jan Ton li wile kama jan sona sijelo.
 nld	toki_Latn	Tom wil gebarentaal leren.	jan Ton li wile kama sona e toki luka.
 nld	toki_Latn	Tom wil niet naar school gaan.	jan Ton li wile ala tawa tomo pi kama sona.
 nld	toki_Latn	Tom wil niet naar school gaan.	jan Ton li wile ala tawa tomo sona.

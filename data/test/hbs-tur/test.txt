@@ -1,4 +1,17 @@
+bos_Latn	tur	Govorim samo malo njemački.	Sadece biraz Almanca biliyorum.
+bos_Latn	tur	Koja gitara je Tomova?	Hangi gitar Tom'un?
+bos_Latn	tur	Malka je dobra pjevačica.	Malka iyi bir şarkıcıdır.
+bos_Latn	tur	Moj otac je sada na misiji.	Babam şu anda görevde.
+bos_Latn	tur	Molim, ponovite!	Lütfen tekrarlayın!
+bos_Latn	tur	Nažalost, nisam dobro.	Maalesef iyi değilim.
+bos_Latn	tur	Nisam Kineskinja.	Ben Çinli değilim.
+bos_Latn	tur	Nisam Kinez.	Ben Çinli değilim.
+bos_Latn	tur	Od čega se sastoji naš današnji dnevni red?	Bugünkü gündemimiz nelerden oluşuyor?
+bos_Latn	tur	To je prvo pismo koje sam napisao na njemačkom.	Bu, Almanca yazdığım ilk mektup.
+bos_Latn	tur	U autobusu mi je ukraden novčanik.	Otobüste cüzdanım çalındı.
 bos_Latn	tur	Vjenčat ćemo se.	Evleniyoruz.
+bos_Latn	tur	Yanni je bio na koncertu.	Yanni konserdeydi.
+bos_Latn	tur	Želim novi tepih.	Yeni halı istiyorum.
 hrv	tur	Bilo je jako lako.	Çok kolaydı.
 hrv	tur	Bob mi piše jednom mjesečno.	Bob bana ayda bir kez yazar.
 hrv	tur	Boje me se.	Benden korkuyorlar.
@@ -28,6 +41,7 @@ hrv	tur	I ja sam ovdje.	Ben de buradayım.
 hrv	tur	Ima li koga?	Burada biri var mı?
 hrv	tur	Imam malo engleskih knjiga.	Birkaç İngilizce kitabım var.
 hrv	tur	Imam osamnaest godina.	On sekiz yaşındayım.
+hrv	tur	Imate li knjige na engleskom jeziku?	İngilizce kitabınız var mı?
 hrv	tur	Išla je na audiciju prošli tjedan.	Geçen hafta ses sınavına katıldı.
 hrv	tur	Izvadio je olovku.	O, kalemini çıkardı.
 hrv	tur	Ja ću platiti.	Hesabı ben öderim.
@@ -75,8 +89,10 @@ hrv	tur	Most mora biti sagrađen u šest mjeseci.	Köprü altı ay içinde inşa
 hrv	tur	Možete li sutra doći na sastanak?	Yarın toplantıya gelebilir misin?
 hrv	tur	Mrzim matematiku.	Matematikten nefret ederim.
 hrv	tur	Mrzim terorističke organizacije.	Terör örgütlerinden nefret ediyorum.
+hrv	tur	Muğla je pokrajina u Turskoj.	Muğla, Türkiye'nin bir ilidir.
 hrv	tur	Neću gubiti vrijeme.	Zaman harcamayacağım.
 hrv	tur	Neću tratiti vrijeme.	Zaman harcamayacağım.
+hrv	tur	Nemamo papira.	Bizim kâğıdımız yok.
 hrv	tur	Nemam suprugu.	Karım yok.
 hrv	tur	Nemam ženu.	Karım yok.
 hrv	tur	Nemoj zaboraviti zaključati vrata.	Kapıyı kilitlemeyi unutma!
@@ -89,6 +105,7 @@ hrv	tur	Ne želim da moja zemlja postane članica Europske unije.	Ülkemin Avrup
 hrv	tur	Ne znam.	Bilmiyorum.
 hrv	tur	Nije smiješno.	Komik değil.
 hrv	tur	Nisam mogao razumjeti što je govorio.	Onun ne söylediğini anlayamadım.
+hrv	tur	Nisam terorista.	Terörist değilim.
 hrv	tur	Nisam to ja učinio.	Bunu yapan ben değilim.
 hrv	tur	Njemačka je hladna zemlja.	Almanya, soğuk bir ülkedir.
 hrv	tur	Ona nije ljepotica.	O güzel bir kız değildir.
@@ -106,12 +123,14 @@ hrv	tur	Ovo je moja žena Edita.	Bu benim eşim Edita.
 hrv	tur	Ovo je moja žena Edita.	Bu benim karım Edita.
 hrv	tur	Ovo je težak jezik.	Bu zor bir dil.
 hrv	tur	Ovo je veoma komplicirano.	Bu çok karmaşıktır.
+hrv	tur	PKK je teroristička organizacija.	PKK bir terör örgütüdür.
 hrv	tur	Poznajem dobar talijanski restoran.	İyi bir İtalyan restoranı biliyorum.
 hrv	tur	Predajem se. Što god da učinim, nikada ne izgledaš zadovoljno.	Pes. Ben ne yaparsam yapayım asla memnun görünmüyorsun.
 hrv	tur	Pričali smo o tebi.	Biz senin hakkında konuştuk.
 hrv	tur	Prodao nas je.	O, bizi sattı.
 hrv	tur	Putovanje kroz vrijeme je moguće.	Zamanda yolculuk mümkündür.
 hrv	tur	Sada se svi oni zabavljaju.	Şimdi onların hepsi eğleniyor.
+hrv	tur	Sada živim u Tokiju.	Şimdi Tokyo da yaşıyorum
 hrv	tur	Sat je stao.	Saat durdu.
 hrv	tur	Sigurno je ta lisica ubila kokoš.	Tavuğu o tilki öldürmüş olmalı.
 hrv	tur	Sjedni i zatvori oči.	Otur ve gözlerini kapat.
@@ -121,6 +140,7 @@ hrv	tur	Što ćeš raditi sutra?	Yarın ne yapacaksın?
 hrv	tur	Što god ti rekao, ne mislim da je Tom dobar dečko.	Ne söylersen söyle, Tom'un iyi bir adam olduğunu sanmıyorum.
 hrv	tur	Što je danas za ručak?	Bugün öğle yemeği için ne yiyeceksin?
 hrv	tur	Što radiš večeras?	Bu gece ne yapıyorsun?
+hrv	tur	Što se događa u ovoj zemlji?	Bu ülkede neler oluyor?
 hrv	tur	Što si govorila?	Ne diyordun?
 hrv	tur	Što si govorio?	Ne diyordun?
 hrv	tur	Što si radila tamo?	Orada ne yaptın?
@@ -147,6 +167,7 @@ hrv	tur	Tom ima gitaru.	Tom'un bir gitarı var.
 hrv	tur	Tom je bio jako sretan.	Tom çok mutluydu.
 hrv	tur	Tom je pustio svog psa da slobodno trči.	Tom köpeğine serbest koşması için izin verdi.
 hrv	tur	Tom je sretan.	Tom mutlu.
+hrv	tur	Tom je troslovno ime.	Tom üç harfli bir isimdir.
 hrv	tur	Tom me uopće ne poznaje.	Tom bile beni tanımıyor.
 hrv	tur	Tom neće izgubiti.	Tom kaybetmeyecek.
 hrv	tur	Tom ne razumije kako njegovo ponašanje utječe na druge.	Tom kendi davranışlarının başkalarını nasıl etkilediğini farketmiyor.
@@ -169,6 +190,7 @@ hrv	tur	Zadržite ostatak.	Üstü kalsın.
 hrv	tur	Zaista nemam vremena.	Gerçekten vaktim yok.
 hrv	tur	Zar nemate nijednog prijatelja?	Hiç arkadaşınız yok mu?
 hrv	tur	Zašto mi ne vjerujete?	Neden bana inanmıyorsunuz?
+hrv	tur	Zašto ne jedeš?	Niye yemiyorsun?
 hrv	tur	Zašto se zanimaš za mene?	Neden benimle ilgilisin?
 hrv	tur	Zašto te zanimam?	Neden benimle ilgilisin?
 hrv	tur	Zbilja nemam vremena.	Gerçekten vaktim yok.
@@ -178,3 +200,4 @@ hrv	tur	Znaš li turski?	Türkçe biliyor musun?
 hrv	tur	Znate li vi dvoje išta?	Siz ikiniz bir şey biliyor musunuz?
 hrv	tur	Zovem se Jack.	Benim adım Jack.
 hrv	tur	Zove se Tomojuki Ogura.	Onun adı Tomoyuki Ogura.
+srp_Cyrl	tur	Све његове реченице су кратке.	Onun tüm cümleleri kısa.

@@ -31,8 +31,8 @@ fra	uig_Arab	Au cas où je ne peux pas venir, je vais te téléphoner en avance.
 fra	uig_Arab	Au fait, d'où es-tu ?	ھە راست، سەن نەلىك؟
 fra	uig_Arab	Aujourd'hui c'est le jour de la paye.	بۈگۈن مائاش تارقىتىش كۈنى.
 fra	uig_Arab	Au revoir, Sayoko.	خەير_خوش، سايوكو.
-fra	uig_Arab	Au revoir !	خوش.
 fra	uig_Arab	Au revoir !	خەير_خوش.
+fra	uig_Arab	Au revoir !	خوش.
 fra	uig_Arab	Au secours !	قۇتقۇز!
 fra	uig_Arab	Au secours !	قۇتقۇزۇڭ!
 fra	uig_Arab	Au secours !	قۇتقۇزۇڭلار!
@@ -134,8 +134,8 @@ fra	uig_Arab	Elle est tombée amoureuse du nouveau professeur.	ئۇ يېڭى ك�
 fra	uig_Arab	Elle est tombée malade ce week-end.	ئۇ بۇ ھەپتە ئاخىرىدا كېسەل بولدى.
 fra	uig_Arab	Elle est très belle.	ئۇ ئىنتايىن چىرايلىق.
 fra	uig_Arab	Elle est venue au musée en taxi.	ئۇ تاكسى بىلەن مۇزېيغا كەلدى.
-fra	uig_Arab	Elle lavera le vélo cet après-midi.	بۈگۈن چۈشتىن كېيىن ۋېلىسىپىتنى يۇيىدۇ.
 fra	uig_Arab	Elle lavera le vélo cet après-midi.	ئۇ بۈگۈن چۈشتىن كېيىن ۋېلىسىپىتنى يۇيىدۇ.
+fra	uig_Arab	Elle lavera le vélo cet après-midi.	بۈگۈن چۈشتىن كېيىن ۋېلىسىپىتنى يۇيىدۇ.
 fra	uig_Arab	Ellen ne parle pas anglais.	ئەللەن ئىنگلىزچە سۆزلىمەيدۇ.
 fra	uig_Arab	Elle s'est mise en colère.	ئۇ خاپا بولدى.
 fra	uig_Arab	Elle travaille nuit et jour.	ئۇ ھەم كۈندۈزدە ھەم تۈندە ئىشلەۋاتىدۇ.
@@ -208,8 +208,8 @@ fra	uig_Arab	Il faut que vous fassiez la queue.	قاتارغا تۇرۇشۇڭل�
 fra	uig_Arab	Il habite dans une pomme.	ئۇ ئالمىنىڭ ئىچىدە تۇرىدۇ.
 fra	uig_Arab	Il m'a posé une question.	ئۇ مەندىن بىر سوئال سورىدى.
 fra	uig_Arab	Il m'a posé une question.	ئۇ مېنىڭدىن بىر سوئال سورىدى.
-fra	uig_Arab	Il n'a pas de petite amie.	قىز دوستى يوق.
 fra	uig_Arab	Il n'a pas de petite amie.	ئۇنىڭ قىز دوستى يوق.
+fra	uig_Arab	Il n'a pas de petite amie.	قىز دوستى يوق.
 fra	uig_Arab	Il ne craignait pas la mort.	ئۇ ئۆلۈشتىن قورقمايتتى.
 fra	uig_Arab	Il neigera demain.	ئەتە قار ياغىدۇ.
 fra	uig_Arab	Il ne sait pas bien chanter.	ئۇ ناخشا ياخشى ئېيتالمايدۇ.
@@ -244,8 +244,8 @@ fra	uig_Arab	Il y a une fleur sur la table.	جوزىدا بىر گۈل بار.
 fra	uig_Arab	Il y a une pomme sur le bureau.	جوزىدا بىر ئالما بار.
 fra	uig_Arab	Il y a un stylo sur le bureau.	ئۈستەلدە بىر قەلەم بار.
 fra	uig_Arab	Il y avait beaucoup de vent.	شامال كۆپ چىقتى.
-fra	uig_Arab	Il y est allé avec elle.	ئۇ بىلەن بارغانىدى.
 fra	uig_Arab	Il y est allé avec elle.	ئۇ ئۇ بىلەن بارغان.
+fra	uig_Arab	Il y est allé avec elle.	ئۇ بىلەن بارغانىدى.
 fra	uig_Arab	J'ai attrapé un rhume.	ماڭا زۇكام تېگىپ قالدى.
 fra	uig_Arab	J'ai beaucoup d'amis.	مېنىڭ دوستلىرىم كۆپ.
 fra	uig_Arab	J'ai de l'hypertension.	مېنىڭ قان بېسىمىم يۇقىرى.
@@ -260,8 +260,8 @@ fra	uig_Arab	"J'ai envie de jouer aux cartes." "Moi aussi."	«قارتا ئوي�
 fra	uig_Arab	J'ai étudié hier soir.	ئاخشام ئۆگەندىم.
 fra	uig_Arab	J'ai failli marcher sur une moufette hier soir.	تۈنۈگۈن كەچتە سېسىق كۈزەنگە تاس دەسسىۋالدىم.
 fra	uig_Arab	J'ai faim !	قورسىقىم ئاچتى!
-fra	uig_Arab	J'ai la diarrhée.	مېنىڭ ئىچىم كەتتى.
 fra	uig_Arab	J'ai la diarrhée.	ئىچىم كەتتى.
+fra	uig_Arab	J'ai la diarrhée.	مېنىڭ ئىچىم كەتتى.
 fra	uig_Arab	J'ai l'intention de vivre en ville.	شەھەردە تۇرماقچىمەن.
 fra	uig_Arab	J'ai l'intention de vivre en ville.	مەن شەھەردە تۇرماقچى.
 fra	uig_Arab	J'ai mal au ventre.	قورسىقىم ئاغرىيدۇ.
@@ -303,8 +303,8 @@ fra	uig_Arab	Je me rappelle l'avoir rencontré à Paris.	ئېسىمدە قىلى
 fra	uig_Arab	Je me tire.	كەتتىم.
 fra	uig_Arab	Je nage tous les jours.	مەن ھەر كۈنى سۇ ئۈزىمەن.
 fra	uig_Arab	Je n'aime pas l'école.	مەن مەكتەپكە بېرىشنى ياخشى كۆرمەيمەن.
-fra	uig_Arab	Je n'aime pas les pommes.	مەن ئالما ياخشى كۆرمەيمەن.
 fra	uig_Arab	Je n'aime pas les pommes.	ئالما ياخشى كۆرمەيمەن.
+fra	uig_Arab	Je n'aime pas les pommes.	مەن ئالما ياخشى كۆرمەيمەن.
 fra	uig_Arab	Je n'aime pas ta copine.	قىز دوستۇڭنى ياخشى كۆرمەيمەن.
 fra	uig_Arab	Je n'ai pas ce livre.	بۇ كىتاب مەندە يوق.
 fra	uig_Arab	Je n'ai pas ce livre.	مەندە بۇ كىتاب يوق.
@@ -326,8 +326,8 @@ fra	uig_Arab	Je n'y vais pas pour mourir. J'y vais pour vivre.	مەن ئۇ يە�
 fra	uig_Arab	Je patiente encore cinq minutes.	يەنە بەش مىنۇت ساقلايمەن.
 fra	uig_Arab	Je pense que c'est toi.	سەنغۇ دەيمەن.
 fra	uig_Arab	Je pense que j’achèterais une bonne voiture.	بىر ياخشى ماشىنا ئالسام دەيمەن.
-fra	uig_Arab	Je respecte son désintéressement.	مەن ئۇنىڭ خالىسانىلىكىنى ھۆرمەتلەيمەن.
 fra	uig_Arab	Je respecte son désintéressement.	ئۇنىڭ خالىسانىلىكىنى ھۆرمەتلەيمەن.
+fra	uig_Arab	Je respecte son désintéressement.	مەن ئۇنىڭ خالىسانىلىكىنى ھۆرمەتلەيمەن.
 fra	uig_Arab	Je reste à cet hôtel.	بۇ مېھمانخانىدا تۇرىمەن.
 fra	uig_Arab	Je sais tout.	ھەممە ئىشنى بىلىمەن.
 fra	uig_Arab	Je serai un nomade à jamais.	ئۆمۈر بويى بىر كۆچمەن ئادەم بولىمەن.
@@ -357,29 +357,29 @@ fra	uig_Arab	Je suis un végétarien.	مەن بىر گۆشسىز تاماق يې
 fra	uig_Arab	Je suis venu, non ?	مانا كەلدىمغۇ؟
 fra	uig_Arab	Jésus te déteste.	ئېيسا ساڭا ئۆچ.
 fra	uig_Arab	Je t'aime !	سېنى ياخشى كۆرىمەن.
-fra	uig_Arab	J'étais étudiant à cette époque-là.	مەن ئۇ چاغدا ئوقۇغۇچى ئىدىم.
 fra	uig_Arab	J'étais étudiant à cette époque-là.	ئۇ چاغدا ئوقۇغۇچى ئىدىم.
+fra	uig_Arab	J'étais étudiant à cette époque-là.	مەن ئۇ چاغدا ئوقۇغۇچى ئىدىم.
 fra	uig_Arab	J'étais occupé hier.	تۈنۈگۈن ئالدىراش ئىدىم.
 fra	uig_Arab	J’étais professeur.	مەن ئوقۇتقۇچى ئىدىم.
 fra	uig_Arab	J'étais un honnête homme jusqu'en 1985.	مەن 1985_يىلغىچە بىر سەمىمىي ئادەم ئىدىم.
 fra	uig_Arab	Je te prie de téléphoner avant de venir.	كېلىشتىن بۇرۇن تېلېفون قىلە جۇمۇ.
 fra	uig_Arab	Je te souhaite un bon voyage.	ساڭا ئاق يول تىلەيمەن.
 fra	uig_Arab	Je te souhaite un bon voyage.	سەپەر ئوڭۇشلۇق بولسۇن.
-fra	uig_Arab	J'étudie l'anglais chez moi.	مەن ئۆيۈمدە ئىنگلىز تىلىنى ئوقۇيمەن.
 fra	uig_Arab	J'étudie l'anglais chez moi.	ئۆيۈمدە ئىنگلىز تىلىنى ئوقۇيمەن.
+fra	uig_Arab	J'étudie l'anglais chez moi.	مەن ئۆيۈمدە ئىنگلىز تىلىنى ئوقۇيمەن.
 fra	uig_Arab	J'étudie l'anglais.	ئىنگلىز تىلىنى ئۆگىنىمەن.
 fra	uig_Arab	Je vais aller à 10 heures.	سائەت ئوندا بارماقچىمەن.
 fra	uig_Arab	Je vais aller à 10 heures.	سائەت ئوندا بارىمەن.
-fra	uig_Arab	Je vais au travail à bicyclette.	ۋېلىسىپىت بىلەن ئىشقا بارىمەن.
 fra	uig_Arab	Je vais au travail à bicyclette.	مەن ۋېلىسىپىت بىلەن ئىشقا بارىمەن.
+fra	uig_Arab	Je vais au travail à bicyclette.	ۋېلىسىپىت بىلەن ئىشقا بارىمەن.
 fra	uig_Arab	Je vais généralement à l'école à pied.	ئادەتتە مەكتەپكە پىيادە ماڭىمەن.
 fra	uig_Arab	Je vais me coucher !	ئۇخلايمەن!
 fra	uig_Arab	Je vais me coucher !	ئۇخلىدىم!
 fra	uig_Arab	Je vais voir Mary cet après-midi.	بۇ چۈشتىن كېيىن مەن مېرى بىلەن كۆرۈشىمىز.
 fra	uig_Arab	Je vais vous faire une injection.	سىزگە ئوكۇل سالىمەن.
 fra	uig_Arab	Je veux de l'eau.	بىر ئاز سۇنى ئىچكۈم بار.
-fra	uig_Arab	Je veux dormir.	مېنىڭ ئۇخلىغۇم بار.
 fra	uig_Arab	Je veux dormir.	ئۇخلىغۇم بار.
+fra	uig_Arab	Je veux dormir.	مېنىڭ ئۇخلىغۇم بار.
 fra	uig_Arab	Je veux la vie éternelle !	مەڭگۈلۈك ھاياتلىقنى خالايمەن!
 fra	uig_Arab	Je veux le faire moi-même.	بۇ ئىشنى ئۆز ئالدىغا قىلغۇم بار.
 fra	uig_Arab	Je veux mourir avec Getter Jaani.	مېنىڭ گەتتەر يانى بىلەن بىللە ئۆلكۈم بار.
@@ -464,8 +464,8 @@ fra	uig_Arab	Ma mère ne peut pas venir.	ئاپام كېلەلمەيدۇ.
 fra	uig_Arab	Mangeons une pastèque !	تاۋۇز يەيلى!
 fra	uig_Arab	Manges-tu dans la salle de classe ?	بۇنى سىنىپتا يەمسەن؟
 fra	uig_Arab	Mark Zuckerberg m'a volé mon idée !	مارك زۇكەربەرگ خىيالىمنى ئوغرىلىدى.
-fra	uig_Arab	Ma sœur a un travail.	سىڭلىمنىڭ خىزمەتى بار.
 fra	uig_Arab	Ma sœur a un travail.	ئاچامنىڭ خىزمەتى بار.
+fra	uig_Arab	Ma sœur a un travail.	سىڭلىمنىڭ خىزمەتى بار.
 fra	uig_Arab	Mêle-toi de tes affaires.	ئىشىڭنى قىل!
 fra	uig_Arab	« Merci. » « De rien. »	«رەھمەت ساڭا.» «ئەرزىمەيدۇ.»
 fra	uig_Arab	« Merci. » « De rien. »	«رەھمەت سىزگە.» «ئەرزىمەيدۇ.»
@@ -488,16 +488,16 @@ fra	uig_Arab	Mon frère regarde la télévision.	ئۇكام تېلېۋىزور �
 fra	uig_Arab	Mon oncle a trois enfants.	تاغامنىڭ ئۈچ بالىسى بار.
 fra	uig_Arab	Mon opinion est différente de la vôtre.	پىكرىم پىكرىڭىزگە ئوخشىمايدۇ.
 fra	uig_Arab	Mon père a cinquante ans.	دادام ئەللىك ياشقا كىردى.
-fra	uig_Arab	Mon père est médecin.	دادام دوختۇر.
-fra	uig_Arab	Mon père est médecin.	مېنىڭ دادام دوختۇر.
-fra	uig_Arab	Mon père est médecin.	مېنىڭ ئاتام دوختۇر.
 fra	uig_Arab	Mon père est médecin.	ئاتام دوختۇر.
-fra	uig_Arab	Mon père était occupé.	دادام ئالدىراش ئىدى.
+fra	uig_Arab	Mon père est médecin.	دادام دوختۇر.
+fra	uig_Arab	Mon père est médecin.	مېنىڭ ئاتام دوختۇر.
+fra	uig_Arab	Mon père est médecin.	مېنىڭ دادام دوختۇر.
 fra	uig_Arab	Mon père était occupé.	ئاتام ئالدىراش ئىدى.
-fra	uig_Arab	Mon père m'a acheté une moto.	دادام ماڭا بىر موتسىكلىت ئالدى.
+fra	uig_Arab	Mon père était occupé.	دادام ئالدىراش ئىدى.
 fra	uig_Arab	Mon père m'a acheté une moto.	ئاتام ماڭا بىر موتسىكلىت ئالدى.
-fra	uig_Arab	Mon père n'a que quinze ans.	دادام ئون بەشلا ياشقا كىردى.
+fra	uig_Arab	Mon père m'a acheté une moto.	دادام ماڭا بىر موتسىكلىت ئالدى.
 fra	uig_Arab	Mon père n'a que quinze ans.	ئاتام ئون بەشلا ياشقا كىردى.
+fra	uig_Arab	Mon père n'a que quinze ans.	دادام ئون بەشلا ياشقا كىردى.
 fra	uig_Arab	Mon petit frère regarde la télé.	ئۇكام تېلېۋىزور كۆرۈۋاتىدۇ.
 fra	uig_Arab	Ne dors pas trop demain matin.	ئەتە ئەتىگەندە ئارتۇق ئۇخلىماڭ.
 fra	uig_Arab	Ne me laissez pas seul.	مېنى يالغۇز قويما!
@@ -527,8 +527,8 @@ fra	uig_Arab	Nous l'appelions un "héros", mais il nous a trahis.	ئۇنى قە�
 fra	uig_Arab	Nous l'appelons « L'Homme moufette ».	بىز ئۇنى «سېسىق كۈزەن ئادەم» دەپ ئېتىمىز.
 fra	uig_Arab	Nous n'avons pas de sucre.	بىزدە شېكەر يوق.
 fra	uig_Arab	Nous n’avons pas peur de n’importe quelle détresse.	بىز ھېچقانداق قىيىنچىلىقتىن قورقمايمىز.
-fra	uig_Arab	Nous sommes allés à Londres l'année dernière.	بىز ئۆتكەن يىلىدا لوندونغا بارغان.
 fra	uig_Arab	Nous sommes allés à Londres l'année dernière.	ئۆتكەن يىلىدا لوندونغا بارغانىدۇق.
+fra	uig_Arab	Nous sommes allés à Londres l'année dernière.	بىز ئۆتكەن يىلىدا لوندونغا بارغان.
 fra	uig_Arab	Nous sommes arabes.	بىز ئەرەب.
 fra	uig_Arab	Nous sommes étudiants.	بىز ئوقۇغۇچى.
 fra	uig_Arab	Nous sommes lundi.	بۈگۈن كۈنگە دۇشەنبە.
@@ -597,8 +597,8 @@ fra	uig_Arab	Quelle est la date aujourd'hui ?	بۈگۈن چېسلاغا قانچ
 fra	uig_Arab	"Quelle heure est-il ?" "Il est dix heures trente."	«سائەت نەچچە بولدى؟» «ئوندىن ئوتتۇز مىنۇت ئۆتتى.»
 fra	uig_Arab	Que penses-tu du fromage au chocolat ?	شاكىلات ئىرىمچىكىگە نېمە دەيسەن؟
 fra	uig_Arab	Qu'est-ce que Toshio aime ?	توشىيو نېمىنى ياخشى كۆرىدۇ؟
-fra	uig_Arab	Qu'est-ce qui s'est passé ?	نېمە ھادىسە بولدى؟
 fra	uig_Arab	Qu'est-ce qui s'est passé ?	نېمە گەپ؟
+fra	uig_Arab	Qu'est-ce qui s'est passé ?	نېمە ھادىسە بولدى؟
 fra	uig_Arab	Qui a organisé cette réunion ?	ئۇ يىغىننى كىم ئۇيۇشتۇرغان؟
 fra	uig_Arab	Qui êtes-vous ?	سىز كىم؟
 fra	uig_Arab	Qui êtes-vous ?	كىم سىز؟

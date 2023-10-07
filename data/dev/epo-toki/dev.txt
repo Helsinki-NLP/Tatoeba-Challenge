@@ -88,6 +88,14 @@ epo	toki_Latn	Ĉi tie ni bezonas uzi specialan metodon.	mi o kepeken nasin namak
 epo	toki_Latn	Ĉi tie ni bezonas uzi specialan metodon.	mi wile kepeken nasin namako lon ni.
 epo	toki_Latn	Ĉi tie okazas absurdaj aferoj.	ijo nasa li kama lon ni.
 epo	toki_Latn	Ĉi tio estas dezerto.	ni li ma seli.
+epo	toki_Latn	Ĉi tiuj fungoj estas venenaj.	kili ni li ike tawa sijelo jan.
+epo	toki_Latn	Ĉi tiuj fungoj estas venenaj.	sina moku e kili ni la sijelo sina li kama ike.
+epo	toki_Latn	Ĉi tiuj fungoj estas venenaj.	sina moku e soko ni la sijelo sina li kama ike.
+epo	toki_Latn	Ĉi tiuj fungoj estas venenaj.	soko ni li ike tawa sijelo jan.
+epo	toki_Latn	Ĉi tiu verko estas disponebla laŭ la permesilo CC BY 4.0.	jan li ken kepeken ijo ni kepeken nasin CC BY 4.0.
+epo	toki_Latn	Ĉi tiu verko estas disponebla laŭ la permesilo CC BY 4.0.	jan li ken kepeken lipu ni kepeken nasin CC BY 4.0.
+epo	toki_Latn	Ĉi tiu verko estas disponebla laŭ la permesilo CC BY 4.0.	lipu ni li kepeken nasin lawa CC BY 4.0.
+epo	toki_Latn	Ĉi tiu verko estas disponebla laŭ la permesilo CC BY 4.0.	pali ni li kepeken nasin lawa CC BY 4.0.
 epo	toki_Latn	Ĉiu afero havas sian tempon.	ali li jo e tenpo.
 epo	toki_Latn	Ĉiu en mia familio estas riĉa.	jan ale pi kulupu mama mi li jo e mani mute.
 epo	toki_Latn	Ĉiu havas deziron, sed ne ĉiu povas realigi ĝin.	jan ali li jo e wile wan. taso jan pi ali ala li ken lon e ona.
@@ -103,16 +111,22 @@ epo	toki_Latn	Ĉiu medalo du flankojn posedas.	sike mani li jo e poka tu.
 epo	toki_Latn	Ĉiu statuo ŝajnis kvazaŭ ricevinta vivon.	jan li lukin e sitelen kiwen ali, la ona li pilin e ni: sitelen ni li lon.
 epo	toki_Latn	Ĉiutage ni bezonas puran akvon.	tenpo suno ale la mi ale li wile e telo pona.
 epo	toki_Latn	Ĉiu tajloro havas sian tranĉmanieron.	jan pali len li jo e nasin kepeken ona.
+epo	toki_Latn	Ĉu alia mondo eblas?	kulupu pi jan ali li ken ala ken kama ante?
 epo	toki_Latn	Ĉu ankaŭ papuanoj scias, kiel aspektas neĝo?	jan Papuwanijukini li sona e ni anu seme: ko lete li seme tawa lukin?
 epo	toki_Latn	Ĉu ankaŭ ŝi venos?	sama la ona a li kama anu seme?
 epo	toki_Latn	Ĉu ĉiuj estas feliĉaj?	jan ali li pilin pona ala pona?
+epo	toki_Latn	Ĉu ĉiuj povas aŭdi min bone?	jan ale li ken ala ken kute pona e mi?
+epo	toki_Latn	Ĉu ĉiuj povas aŭdi min?	jan ale li ken ala ken kute e mi?
+epo	toki_Latn	Ĉu ĉiuj povas bone aŭdi min?	jan ale li ken ala ken kute pona e mi?
 epo	toki_Latn	Ĉu eblas elekti?	ken la anu ala anu?
 epo	toki_Latn	Ĉu Esperanto estas malfacile lernebla?	kama sona toki epelanto li pona ala pona?
 epo	toki_Latn	Ĉu iel gravas al ni?	ona li suli tawa mi anu seme?
 epo	toki_Latn	Ĉu io doloras al vi?	wan sijelo sina li pilin ala pilin ike?
+epo	toki_Latn	Ĉu la bananoj estas flavaj aŭ verdaj?	kili li jelo anu laso?
 epo	toki_Latn	Ĉu la kato malgrandas?	soweli li lili ala lili?
 epo	toki_Latn	Ĉu la sama regulo validas por leono kaj azeno?	nasin lawa sama li wawa lon soweli wawa, lon soweli tawa?
 epo	toki_Latn	Ĉu licas al mi fari tion denove?	ken ala ken la mi pali sin e ni?
+epo	toki_Latn	Ĉu majonezo estas muzikilo?	ko sin jelo li ilo pi kalama musi anu seme?
 epo	toki_Latn	Ĉu mia frazo estas ĝusta?	linja nimi mi li pona anu seme?
 epo	toki_Latn	Ĉu mia frazo ĝustas?	linja nimi mi li pona anu seme?
 epo	toki_Latn	Ĉu mi povas iri al la necesejo? Mi bezonas urini.	mi ken tawa tomo telo anu seme? mi wile pana e telo jaki.
@@ -129,6 +143,7 @@ epo	toki_Latn	"Ĉu por vi kokaĵon aŭ fiŝaĵon?" "Mi volas ambaŭ."	"sina wile
 epo	toki_Latn	"Ĉu por vi kokaĵon aŭ fiŝaĵon?" "Mi volas ambaŭ."	"sina wile e waso anu kala?" "mi wile e ona tu."
 epo	toki_Latn	Ĉu ŝi estis francino?	ona li meli tan ma Kanse anu seme?
 epo	toki_Latn	Ĉu tio ĉi ne bluas?	ni li laso ala anu seme?
+epo	toki_Latn	Ĉu Tomo ekhavis novan ilon?	jan Ton li kama ala kama jo e ilo sin?
 epo	toki_Latn	Ĉu Tomo estas en Aŭstralio?	jan Ton li lon ala lon ma Oselija?
 epo	toki_Latn	Ĉu vere vi iros studi al Londono?	sina kama sona kin lon ma tomo Lanten anu seme?
 epo	toki_Latn	Ĉu via ĉambro estas vasta ?	tomo sina li suli ala suli?
@@ -139,9 +154,11 @@ epo	toki_Latn	Ĉu vi aŭdis ion?	sina kute ala kute e ijo?
 epo	toki_Latn	Ĉu vi aŭskultis, Tomo?	sina kute ala kute tawa toki pi jan Ton?
 epo	toki_Latn	Ĉu vi deziras iri danci kun mi?	sina wile ala wile tawa musi poka mi?
 epo	toki_Latn	Ĉu vi deziras trinki ion?	sina wile ala wile moku e telo?
+epo	toki_Latn	Ĉu vi estas ĉina?	sina jan pi ma Sonko anu seme?
 epo	toki_Latn	Ĉu vi estas la poeto, kiu skribis ĉi tiujn versojn?	sina sitelen ala sitelen e toki musi ni?
 epo	toki_Latn	Ĉu vi estas sana?	sina jo ala jo e sijelo pona?
 epo	toki_Latn	Ĉu vi estas testudo?	sina akesi pi selo kiwen anu seme?
+epo	toki_Latn	"Ĉu vi frenezas?" "Jes."	"sina nasa ala nasa?" "nasa."
 epo	toki_Latn	Ĉu vi iris al la lernejo hodiaŭ?	sina tawa ala tawa tomo sona lon tenpo suno ni?
 epo	toki_Latn	Ĉu vi konas ankaŭ la arabajn ciferojn?	sina sona ala sona e nanpa Alapi kin?
 epo	toki_Latn	Ĉu vi kredas, ke Dio ekzistas?	sina sona insa e ni anu seme: jan sewi li lon?
@@ -185,6 +202,7 @@ epo	toki_Latn	De kiu urbo vi venas?	sina tan ma tomo seme?
 epo	toki_Latn	De vorto ĝentila ne doloras la lango.	jan li kepeken nimi pona la ni li pilin pakala ala tawa loje uta.
 epo	toki_Latn	Deziro tre granda, sed mankas la forto.	wile li suli mute. taso wawa li weka.
 epo	toki_Latn	Dieco estas unu.	sewi li wan.
+epo	toki_Latn	Dio estas ĉiopova.	jan sewi li ken pali e ali.
 epo	toki_Latn	Dio estas granda.	Sewi li suli.
 epo	toki_Latn	Dio estas la komenco de ĉiuj aferoj.	sewi li open ale.
 epo	toki_Latn	Diogeno sidis antaŭ sia barelo kaj varmigis sin ĉe la sunbrilo.	jan Siwokene li lon poka pi poki sike sina li kama jo e seli tan suno.
@@ -196,6 +214,7 @@ epo	toki_Latn	D-ro Patterson interkompreniĝis kun gorilo uzante gestolingvon.	j
 epo	toki_Latn	Du manoj faras ĉion, sed unu nenion.	luka tu li pali e ale. taso luka wan li pali e ala.
 epo	toki_Latn	Dum kiom da tempo vi volas resti en Japanio?	tenpo seme la sina wile awen lon ma tomo Nijon?
 epo	toki_Latn	Dum mia edzino estis aĉetanta en la urbo, mi ordigis la kuirejon.	mi pona e tomo moku lon tenpo ni: meli mi li lon tawa tomo esun.
+epo	toki_Latn	Eble li diras la veron.	ken la ona li toki e lon.
 epo	toki_Latn	Eble pluvos.	ken la telo sewi li kama.
 epo	toki_Latn	Ebrieco pasas post dormo, malsaĝeco neniam.	jan li nasa pi telo nasa la ni li kama weka lon lape. taso tenpo ala la nasa pi jan nasa li kama weka.
 epo	toki_Latn	Eĉ eta pinglo povas koron trapiki.	palisa lili Pinilo kin li ken lupa e pilin sijelo.
@@ -288,6 +307,7 @@ epo	toki_Latn	Ili atendas nin.	ona mute li awen e mi mute.
 epo	toki_Latn	Ili detruis vendejojn kaj fabrikojn.	ona li pakala e esun e tomo pali.
 epo	toki_Latn	Ili devigis min kanti kanzonon.	ona li pali e ni: mi toki wawa e kalama musi.
 epo	toki_Latn	Ili estas en la ĝardeno.	ona li lon ma kasi.
+epo	toki_Latn	Ili estas finnoj.	ona li jan Sumi.
 epo	toki_Latn	Ili malsatis pro manko de manĝaĵo.	ona li wile moku li jo ala e moku.
 epo	toki_Latn	Ili povas helpi.	ona mute li ken pana e pona.
 epo	toki_Latn	Ili povas naĝi samkiel moviĝi sur tero.	ona li ken tawa lon telo li ken tawa lon ma.
@@ -328,6 +348,7 @@ epo	toki_Latn	Jen bulon mi devas porti hejmen. Ĝi ja estas el oro, sed ĝi prem
 epo	toki_Latn	Jen ja tre belaj oraĵoj. Tion nepre vidu la reĝidino; oraj objektoj ĝojigas ŝin tiel, ke ŝi de vi aĉetos ĉion ĉi.	ni li ijo jelo mani pi pona lukin. ni li pona mute tawa meli lili pi jan lawa. ona li lukin e ijo jelo mani la ona li wile kama jo esun e ale ni.
 epo	toki_Latn	Jen la ideala lingvo. Eble tio ne plaĉas al vi, sed jen kiel aspektas plej bona lingvaĵo.	ni li toki pi pona mute. toki ante li pona lili. ken la ni li pona ala tawa sina. taso toki pi pona mute li lukin sama ni.
 epo	toki_Latn	Jen la ŝlosilo de via ĉambro.	ni li ilo open tawa tomo sina.
+epo	toki_Latn	Jen unu malgranda paŝo por homo, kaj grandega salto por la homaro.	ni li pali lili kepeken noka pi jan wan, li pali suli lon kulupu pi jan ale.
 epo	toki_Latn	Jes ja.	lon a!
 epo	toki_Latn	Jes, mi ĵus piedpremis vian piedon. Kion vi intencas fari pri tio?	a, mi noka e noka sina. sina pali e seme pi ijo ni?
 epo	toki_Latn	Jes, mi opinias ke vi iru.	lon, mi pilin e ni: sina wile tawa.
@@ -346,6 +367,7 @@ epo	toki_Latn	Kial neniu manĝas?	tan seme la jan ala li moku?
 epo	toki_Latn	Kial oni inventis la monon?	jan li kama e mani tan seme?
 epo	toki_Latn	Kial vi estas en mia dormoĉambro?	tan seme la sina lon tomo lape mi?
 epo	toki_Latn	Kial vi ne helpas Tomon?	tan seme la sina pana ala e pona tawa jan Ton?
+epo	toki_Latn	Kial vi ne menciis pri tio en via libro?	sina sitelen ala e ni lon lipu sina tan seme?
 epo	toki_Latn	Kial vi volas mortigi lin?	sina wile moli e ona tan seme?
 epo	toki_Latn	Kiamaniere vi reagus, se via edzino dirus tion al vi?	meli sina li toki e ni tawa sina, la sina pali e seme?
 epo	toki_Latn	Kiam estas la tago de la patrino?	tenpo seme li tenpo suno pi mama meli?
@@ -425,6 +447,7 @@ epo	toki_Latn	Kiu domo estas la via?	tomo sina li seme?
 epo	toki_Latn	Kiu domo estas via?	tomo seme li ijo sina?
 epo	toki_Latn	Kiu domo estas via?	tomo sina li seme?
 epo	toki_Latn	Kiu donas al vi rajton rigardi al la fundo de mia koro?	jan seme li ken e ni: sina lukin e noka pi pilin mi?
+epo	toki_Latn	Kiu estas tiu laboristo?	jan pali ni li jan seme?
 epo	toki_Latn	Kiu estas vi?	ona li seme?
 epo	toki_Latn	Kiu estas vi?	sina jan seme?
 epo	toki_Latn	Kiu faris ĝin?	jan seme li pali e ona?
@@ -444,6 +467,8 @@ epo	toki_Latn	Kreemo amas limigojn.	pini li pona tawa musi.
 epo	toki_Latn	Kreemo amas limojn.	pini li pona tawa musi.
 epo	toki_Latn	Krome ankaŭ pluvis.	sin la telo li kama tan sewi, a.
 epo	toki_Latn	Krucu la fingrojn por mi.	o pana e pona ni tawa mi: o wan nasa e palisa tu.
+epo	toki_Latn	Kuketo estas bela kato.	soweli tomo lili Kuki li pona lukin.
+epo	toki_Latn	Kuketo! For de tie!	soweli Kuki o weka tan ni!
 epo	toki_Latn	Kun kiu vi iras?	sina tawa poka jan seme?
 epo	toki_Latn	Kvankam Tony estas usona, li ne povas paroli la anglan.	jan Toni li jan pi ma Mewika. taso, ona li ken ala toki kepeken toki Inli.
 epo	toki_Latn	La akvo ne malvarmas.	telo li lete ala.
@@ -531,6 +556,7 @@ epo	toki_Latn	Lasu min paroli kun ŝi.	o ken e ni: mi toki tawa meli ni.
 epo	toki_Latn	La sunlumo maturigas kaj dolĉigas la vinberojn.	suno li suli li pini li suwi e kili Wino.
 epo	toki_Latn	La suno degeligas la neĝon.	suno li seli e ko lete, la telo li kama tan ko lete.
 epo	toki_Latn	La suno fandas la neĝon.	suno li seli e ko lete, la telo li kama tan ko lete.
+epo	toki_Latn	La suno kaj la luno estas en la ĉielo.	suno en mun li lon sewi.
 epo	toki_Latn	La supo ankoraŭ estas varmega.	moku telo li awen seli.
 epo	toki_Latn	La supo estas ankoraŭ varma.	moku telo li awen seli.
 epo	toki_Latn	La tempo alvenis por ke li faru tion!	tenpo li kama tawa ni: mije li wile pali e ona!
@@ -586,6 +612,7 @@ epo	toki_Latn	Li matenmanĝis sola.	wan taso la ona li moku lon tenpo pi kama su
 epo	toki_Latn	Li metis ladskatolon sur la tablon.	ona li lon supa e poki kiwen.
 epo	toki_Latn	Li ne disponas komputilon.	ona li jo ala e ilo sona.
 epo	toki_Latn	Li ne estas ĉino.	ona li jan Sonko ala.
+epo	toki_Latn	Li ne havas amikaron.	ona li jo ala e kulupu pi jan pona.
 epo	toki_Latn	Li ne iris al la lago.	ona li tawa ala telo.
 epo	toki_Latn	Li ne plu povas dolorigi vin.	ona li pini ken pakala e sina.
 epo	toki_Latn	Li ne reagas al sia telefono.	ona li kute e ilo toki sina. taso ona li pali ala e ijo.
@@ -613,6 +640,8 @@ epo	toki_Latn	Malvarmas.	lete li ni.
 epo	toki_Latn	Manĝaĵo estas bona.	moku li pona.
 epo	toki_Latn	Manĝaĵo estas en mi.	moku li lon insa mi.
 epo	toki_Latn	Manjo estas blinda kaj surda.	jan Mali li ken ala lukin li ken ala kute.
+epo	toki_Latn	Manjo estas transgenra virino.	jan Mewi li meli tonsi.
+epo	toki_Latn	Manjo estas transseksa virino.	jan Mewi li meli tonsi.
 epo	toki_Latn	Manjo estis en Hungario.	jan Mewi li lon ma Mosijo.
 epo	toki_Latn	Manjo foriris kun la ŝlosiloj, mi ne plu povas eniri hejmen.	jan Mewi li tawa poka ilo open. tan ni la mi ken ala tawa insa tomo.
 epo	toki_Latn	Manjo mildigis la disputojn.	jan Mali li pona e toki utala.
@@ -622,6 +651,9 @@ epo	toki_Latn	Mano manon lavas.	sina pali pona e mi la mi pali pona e sina.
 epo	toki_Latn	Maria estas ambaŭseksama.	jan Mali li olin e meli e mije.
 epo	toki_Latn	Maria estas ambaŭseksama.	jan Mali li unpa e meli e mije.
 epo	toki_Latn	Maria estas ambaŭseksema.	jan Mali li olin e meli e mije.
+epo	toki_Latn	Maria estas transgenrulino.	jan Mewi li meli tonsi.
+epo	toki_Latn	Maria estas transseksulino.	jan Mewi li meli tonsi.
+epo	toki_Latn	Maria estas transulino.	jan Mewi li meli tonsi.
 epo	toki_Latn	Mario iĝas pli granda, kiam li manĝas fungon.	jan Malijo li moku e kili la ona li kama suli.
 epo	toki_Latn	Mario pligrandiĝas, kiam li manĝas fungon.	jan Malijo li moku e kili la ona li kama suli.
 epo	toki_Latn	Mia amikino sentas sin malbone.	jan meli pona mi li pilin ike.
@@ -655,6 +687,7 @@ epo	toki_Latn	Mia nomo estas Robin.	mi jan Lopin.
 epo	toki_Latn	Mia nomo estas Robin.	nimi mi li Lopin.
 epo	toki_Latn	Mia nomo estas Robin.	nimi mi li Wapin.
 epo	toki_Latn	Mia nomo estas Shu.	nimi mi li jan Su.
+epo	toki_Latn	Mia papago Kuketo parolas kaj la francan, kaj la anglan.	waso toki mi Kuki li kepeken e toki Kanse e toki Inli.
 epo	toki_Latn	Mia patro ankoraŭ malsana kuŝas en sia lito.	sijelo pi mama mi li pini ala ike. tan ni la ona li lon supa.
 epo	toki_Latn	Mia patro ne ŝatas muzikon.	kalama musi li ike tawa mama mije mi.
 epo	toki_Latn	Mia sinjoro, kiu mortigis la drakon, estas ĉi tie kaj sendis min peti legomon, kian manĝas la reĝo.	mije lawa mi ni li moli e aksei suli. ona li wile e ni: mi wile toki e ni: pona sina o pana e moku kasi sama pi jan lawa.
@@ -685,6 +718,7 @@ epo	toki_Latn	Mi eksciis, ke la planedo de la Eta Princo estas apenaŭ iom pli g
 epo	toki_Latn	Mielo kaj lakto kuŝas sub via lango.	telo jelo pi pipi Api en telo walo pi soweli Kawa li lon anpa pi palisa uta sina.
 epo	toki_Latn	Mi esperas, ke ĉi tio helpos al ni.	ken ni li pona tawa mi: ni li pana e pona tawa mi.
 epo	toki_Latn	Mi estas amiko de Manjo.	mi jan pona pi jan Mewi.
+epo	toki_Latn	Mi estas anarkiisto.	mi wile ala e jan lawa.
 epo	toki_Latn	Mi estas ĉi tie, por paroli kun vi.	mi lon ni li wile toki tawa sina.
 epo	toki_Latn	Mi estas ginekologo.	mi pona e meli.
 epo	toki_Latn	Mi estas granda kaj forta.	mi suli li wawa.
@@ -694,6 +728,7 @@ epo	toki_Latn	Mi estas la edzo de Manjo.	mi mije pi jan Mewi.
 epo	toki_Latn	Mi estas leonino.	mi soweli meli.
 epo	toki_Latn	Mi estas leonino.	mi soweli wawa.
 epo	toki_Latn	Mi estas lingv-amanto.	mi jan olin toki.
+epo	toki_Latn	Mi estas malfeliĉa ĉar mia kato mortis.	mi pilin ike tan ni: soweli tomo mi li moli.
 epo	toki_Latn	Mi estas malsana.	mi jo e sijelo ike.
 epo	toki_Latn	Mi estas malsana.	sijelo mi li ike.
 epo	toki_Latn	Mi estas nuntempe okupata, verkante libron.	tenpo ni la mi pali e ni: mi sitelen e lipu.
@@ -710,6 +745,7 @@ epo	toki_Latn	Mi faris timindaĵon el ĝi en mia menso, sed en realo ĝi ne esta
 epo	toki_Latn	Mi fekis en vian lakton.	mi pana e ko jaki mi lon telo walo sina.
 epo	toki_Latn	Mi feliĉas.	tenpo ni la mi pilin pona.
 epo	toki_Latn	Mi fine trovis paron da ŝuoj, kiu konvenas al mi.	mi pini lukin e selo noka tu ni: ona li pona tawa mi.
+epo	toki_Latn	Mi glutas la ĉuron de mia edzo.	mi moku e telo unpa pi mije mi.
 epo	toki_Latn	Mi ĝojas pro tio, ke mi helpis.	mi pilin pona tan ni: mi pana e pona.
 epo	toki_Latn	Mi havas du katojn.	mi jo e soweli tu.
 epo	toki_Latn	Mi havas informojn por vi.	mi jo e sona sin tawa sina.
@@ -829,10 +865,12 @@ epo	toki_Latn	Mi pensas, ke mi forgesis rakonti al Tomaso pri tio.	mi pilin e ni
 epo	toki_Latn	Mi pensas, ke mi venos tien ĝustatempe.	mi pilin e ni: mi kama lon ni lon tenpo pona.
 epo	toki_Latn	Mi pensas, ke tio estas lia celo.	mi pilin e ni: ona li wile e ni.
 epo	toki_Latn	Mi pensas, ke tiu akcidento estis preventebla.	mi pilin e ni: jan li ken lawa e ni lon tenpo pini: pakala ni li ken ala kama.
+epo	toki_Latn	Mi pensas, ke vi havas grekan nomon.	mi pilin e ni: sina jo e nimi pi toki Elina.
 epo	toki_Latn	Mi pensis, ke li sufokiĝos!	mi pilin e ni: ona li ken ala moku e kon, li moli!
 epo	toki_Latn	Mi pensis, ke vi studas la francan.	mi pilin e ni: sina kama sona e toki Kanse.
 epo	toki_Latn	Mi perdis la ŝlosilojn de mia hejmo.	mi sona ala e ni: ilo open pi tomo mi li lon seme?
 epo	toki_Latn	Mi pli ŝatas Esperanton ol la germana.	toki Epelanto li pona mute tawa mi. toki Tosi li pona lili tawa mi.
+epo	toki_Latn	Mi povas esti ĝentila.	ken la mi jan pona.
 epo	toki_Latn	Mi povas instrui al vi kiel fiŝkaptadi.	mi ken pana tawa sina e sona pi alasa kala.
 epo	toki_Latn	Mi povas kuri pli rapide ol la tri aliuloj.	mi ken tawa wawa mute. jan ante tu wan li ken tawa wawa lili.
 epo	toki_Latn	Mi povas naĝi.	mi ken tawa lon telo.
@@ -908,7 +946,9 @@ epo	toki_Latn	Mi volas morti!	mi wile moli a!
 epo	toki_Latn	Mi volas pacon.	mi wile e utala ala.
 epo	toki_Latn	Mono regas.	mani li lawa.
 epo	toki_Latn	Mordi mi ne povas. Dentojn mi ne havas.	mi ken ala kiwen kepeken uta. mi jo ala e kiwen uta.
+epo	toki_Latn	Mortinta insekto estas bona insekto.	pipi moli li pipi pona.
 epo	toki_Latn	Muiriel nun aĝas 20.	tenpo ni la jan Muriel li luka luka luka luka.
+epo	toki_Latn	Multaj homoj diras tion.	jan mute li toki e ni.
 epo	toki_Latn	Nacieco multe pli gravas, ol civitaneco, jam ĉar la unua estas primara, denaska kaj neŝanĝebla, sed la dua estas sekundara, konvencia, elektebla, kaj nemalofte facile aĉetebla.	kulupu mama li suli tawa jan. ma li lili tawa jan. jan li ken tawa ma ante. taso jan li ken ala ante e kulupu mama ona.
 epo	toki_Latn	Necesas, ke mi trovu lokon, kie vivi.	mi wile e ma ni: mi ken awen lon ni.
 epo	toki_Latn	Ne ĉiuj rozoj estas ruĝaj.	kasi kule ale li loje ala.
@@ -964,6 +1004,7 @@ epo	toki_Latn	Ni malproksimiĝis unu de la alia.	mi tawa weka tan ona. ona li ta
 epo	toki_Latn	Ni ne scias, kio okazos morgaŭ.	mi ale li sona ala e ni: tenpo suno kama la seme li kama.
 epo	toki_Latn	Ni ne volas vundi ilin.	mi wile ala pakala e ona.
 epo	toki_Latn	Ni ripozu iom ĉe la puto, ni trinku kaj manĝu!	mi mute li ken lape lon lupa telo ni la o moku.
+epo	toki_Latn	Ni trovis Kuketon.	mi mute li kama lukin e soweli Kuki.
 epo	toki_Latn	Ni vendas fruktojn.	mi esun e kili.
 epo	toki_Latn	Ni volas paroli kun Tom.	mi mute li wile toki tawa jan Ton.
 epo	toki_Latn	Ni volas rekuperi nian monon.	mi mute li wile kama jo sin e mani pi mi mute.
@@ -989,6 +1030,7 @@ epo	toki_Latn	Paĉjo kontraŭis al tio, ke mi iru sola al la monto.	mama mije li
 epo	toki_Latn	Panjo aĉetis la libron por mi.	mama meli li kama jo e lipu lon esun tawa mi.
 epo	toki_Latn	Panjo ĉi-momente ne estas hejme.	tenpo ni la mama meli mi li lon ala lon tomo.
 epo	toki_Latn	Parolo estas arĝento. Silento estas oro.	toki li kiwen walo. toki ala li kiwen jelo.
+epo	toki_Latn	Parolu, Davido.	jan Tawi o toki!
 epo	toki_Latn	Parolu Esperanton!	o kepeken toki Epelanto!
 epo	toki_Latn	Pasis tiom da tempo! Finfine ni renkontiĝas denove.	tenpo li kama suli ni a! pini la mi tu li kama kulupu lon tenpo sin.
 epo	toki_Latn	Paso malpermesita!	o tawa ala lon insa!
@@ -1013,6 +1055,7 @@ epo	toki_Latn	Prenu ĉi tiun broŝuron.	o kama jo e lipu ni.
 epo	toki_Latn	Rakontu tion, mi petas, al via praavino.	pona sina la o toki e ijo ni tawa mama mama mama sina.
 epo	toki_Latn	Regalu min, mi petas, per glaso da biero.	pona sina la o pana tawa mi e poki pi telo nasa jelo.
 epo	toki_Latn	Respondu al la scianto, servu al la nescianto.	o toki tawa jan sona. o pana e pona tawa jan pi sona ala.
+epo	toki_Latn	Ri estas mojosulo.	ona li jan epiku.
 epo	toki_Latn	Ri estas neduuma.	ona li mije ala li meli ala.
 epo	toki_Latn	Rigardu al la estonteco.	o lukin e tenpo kama.
 epo	toki_Latn	Rigardu kaj aŭskultu min.	o lukin o kute e mi.
@@ -1021,6 +1064,7 @@ epo	toki_Latn	Rozo estas floro kaj kolombo estas birdo.	kasi kule Loso li kasi k
 epo	toki_Latn	Ruĝaj fruktoj plaĉas al mi.	kili loje li pona tawa mi.
 epo	toki_Latn	Saĝulo lernas de siaj eraroj.	jan sona li palaka la ona li kama sona.
 epo	toki_Latn	Saĝulo parolas, ĉar lia parolo estas bezonata. Stultulo parolas, ĉar li bezonas paroli.	jan sona li toki tan ni: toki ona li wile. jan nasa li toki tan ni: ona li wile toki.
+epo	toki_Latn	Ŝajnas al mi, ke vi havas grekan nomon.	mi pilin e ni: sina jo e nimi pi toki Elina.
 epo	toki_Latn	Ŝajnas, ke vi ne ŝatas lin.	mi pilin e ni: ona li pona ala tawa sina.
 epo	toki_Latn	Ŝajnas, ke vi ofte ne helpas aliulojn.	tawa lukin la tenpo mute la sina pana ala e pona tawa jan ante.
 epo	toki_Latn	Saluton, belulino!	toki! sina li pona lukin.
@@ -1074,6 +1118,8 @@ epo	toki_Latn	Ŝi estas en la arbaro.	ona li lon ma pi kasi suli.
 epo	toki_Latn	Ŝi estas esperantisto.	ona li jan pi toki Epelanto.
 epo	toki_Latn	Ŝi estas graveda.	ona li jo e jan lili lon insa.
 epo	toki_Latn	Ŝi estas infano.	ona li jan lili.
+epo	toki_Latn	Ŝi estas mojosulino.	ona li jan epiku.
+epo	toki_Latn	Ŝi estas mojosulo.	ona li jan epiku.
 epo	toki_Latn	Ŝi estas tre sana.	ona li jo e sijelo pi pona mute.
 epo	toki_Latn	Ŝi estis en sia ĉambro.	meli ni li lon tomo ona lon tenpo pini.
 epo	toki_Latn	Ŝi estis en sia ĉambro.	tenpo pini la meli ni li lon tomo ona.
@@ -1090,6 +1136,7 @@ epo	toki_Latn	Ŝi levis la okulojn, ekrigardis la ĉielon kaj en la sama momento
 epo	toki_Latn	Ŝi loĝas en domego.	ona li jo e tomo suli.
 epo	toki_Latn	Ŝi loĝas en Jokohamo.	tomo ona li lon ma tomo Jokowama.
 epo	toki_Latn	Ŝi malamas dikiĝi.	kama sike li ike tawa ona.
+epo	toki_Latn	Ŝi malamas fungojn.	soko li ike mute tawa ona.
 epo	toki_Latn	Ŝi malfermis novan vendejon.	ona li open e esun sin.
 epo	toki_Latn	Ŝi manĝas.	ona li moku.
 epo	toki_Latn	Ŝi manĝas pomon.	ona li moku e kili.
@@ -1097,6 +1144,7 @@ epo	toki_Latn	Ŝi manĝas, sed malmulte.	ona li moku. taso ona li moku lili.
 epo	toki_Latn	Simio estas seksmatura en la aĝo de kelkaj jaroj.	tenpo sike lili pini la soweli Manki li ken unpa.
 epo	toki_Latn	Simioj estas inteligentaj.	soweli pi mu "uuu-aaa-a-a-a" li jo e lawa wawa.
 epo	toki_Latn	Ŝi mortis.	tenpo pini la meli ni li moli.
+epo	toki_Latn	Ŝi ne havas amikaron.	ona li jo ala e kulupu pi jan pona.
 epo	toki_Latn	Ŝi ne iris al la lago.	ona li tawa ala telo.
 epo	toki_Latn	Ŝi ne parolas kun mi.	ona li toki ala tawa mi.
 epo	toki_Latn	Ŝi ne plu povas dolorigi vin.	ona li pini ken pakala e sina.
@@ -1108,6 +1156,7 @@ epo	toki_Latn	Ŝipo iris rekte al roko.	tomo tawa telo li tawa kin lon kiwen.
 epo	toki_Latn	Ŝi portis strangan ĉapelon.	len lawa nasa li lon lawa ona.
 epo	toki_Latn	Ŝi posedas luksan vilaon en Svislando.	meli ni li lawa e tomo suli lon ma Suwasi.
 epo	toki_Latn	Ŝi preparas manĝon aŭskultante muzikon.	ona li seli e moku li kute e kalama musi.
+epo	toki_Latn	Ŝi sciis, ke ŝi bezonas eliri el la urbo.	ona li sona e ni: ona li wile tawa weka pi ma tomo.
 epo	toki_Latn	Ŝi serĉis siajn infanojn, sed nenie povis trovi ilin.	ona li lukin jo e jan lili ona. taso meli ni li ken ala lukin e ona.
 epo	toki_Latn	Ŝi skribas.	meli ni li sitelen.
 epo	toki_Latn	Ŝi surhavas ĉapelon.	ona li jo e lon lawa.
@@ -1170,10 +1219,12 @@ epo	toki_Latn	Tiu virino parolemas.	meli ni li toki mute.
 epo	toki_Latn	Tiu viro faras ŝuojn el ligno.	mije ni li pali e len noka anpa kasi.
 epo	toki_Latn	Tiu vojkruciĝo estas danĝera.	wan nasa pi nasin tu ni li ken pana e pakala.
 epo	toki_Latn	Tokio ŝajnas esti ricevinta la mesaĝon de Vaŝingtono.	lukin la ma Nijon li kama jo e toki tan ma Mewika.
+epo	toki_Latn	Tokipono estas tre ĉarma lingvo.	toki pona li toki pi suwi mute.
 epo	toki_Latn	Tokipono estas tre facila lingvo. Majstri ĝin tamen estas treege malfacile.	toki pona li toki pi pona mute. taso sina wile kepeken wawa ona, la sina lukin: ni li ike a!
 epo	toki_Latn	Tomaso ĉiutage provas ion novan.	teno suno sin ale la jan Ton li pali lukin e ijo ante.
 epo	toki_Latn	Tomaso decidis pasigi la nokton en Bostono.	jan Ton li wile e ni: tenpo pimeja la ona li lon ma Pasen.
 epo	toki_Latn	Tomaso kaj Maria ne permesas al siaj infanoj fari tion.	jan Ton en jan Mali li pana ala e ken tawa ni: jan lili ona li ken pali e ni.
+epo	toki_Latn	Tomaso malamas min, vi jam scias tion.	mi ike tawa jan Ton. sina sona e ni.
 epo	toki_Latn	Tomaso malŝlosis la pordegon.	jan Ton li open e lupa tomo suli.
 epo	toki_Latn	Tomaso manĝas.	jan Tom li moku.
 epo	toki_Latn	Tomaso opinias min sia malamiko.	jan Ton li pilin e ni: mi jan ike ona.
@@ -1198,9 +1249,13 @@ epo	toki_Latn	Tomo enaŭtiĝis kaj forveturis.	jan Tom li tawa insa pi tomo tawa
 epo	toki_Latn	Tomo eraris.	jan Ton li kepeken nasa.
 epo	toki_Latn	Tomo estas en nia familio la sola, kiu ne parolas france.	kulupu mama mi li ken toki kepeken toki Kanse. jan Ton taso li ken ala.
 epo	toki_Latn	Tomo estas la plej alta el ĉiuj.	jan Ton li suli nanpa wan lon jan ante ale.
+epo	toki_Latn	Tomo estas transgenruliĉo.	jan Ton li mije tonsi.
+epo	toki_Latn	Tomo estas transseksuliĉo.	jan Ton li mije tonsi.
+epo	toki_Latn	Tomo estas transuliĉo.	jan Ton li mije tonsi.
 epo	toki_Latn	Tomo estas unulingva franclingvano.	jan Ton li ken toki kepeken toki Kanse taso.
 epo	toki_Latn	Tomo estas viro kaj mi estas virino.	jan Ton li mije. mi meli.
 epo	toki_Latn	Tomo estis pli rapida ol mi.	jan Ton li tawa pi wawa mute. mi tawa pi wawa lili.
+epo	toki_Latn	Tomo furzis.	jan Ton li pana e kon monsi.
 epo	toki_Latn	Tomo kaj Manjo ambaŭ soifas.	jan Ton en jan Mawi li tu li wile moku e telo.
 epo	toki_Latn	Tomo kaj Manjo havas plurajn kanadajn amikojn.	jan Tone en jan Mawi li jo e jan pona mute pi ma Kanata.
 epo	toki_Latn	Tomo kaj Manjo ne havas infanojn.	jan Ton en jan Mewi li jo ala e jan lili.
@@ -1215,7 +1270,9 @@ epo	toki_Latn	Tomo malamas Bostonon.	ma tomo Pasen li ike mute tawa jan Ton.
 epo	toki_Latn	Tomo mensogis.	jan Ton li toki lon ala.
 epo	toki_Latn	Tomo mensogis.	toki pi jan Ton li lon ala.
 epo	toki_Latn	Tomo ne estas sana.	jan Ton li jo ala e sijelo pona.
+epo	toki_Latn	Tomo ne povas pagi tian komputilon.	jan Ton li ken ala pana e mani tawa esun pi ilo sona ni.
 epo	toki_Latn	Tomo ne sanas.	jan Ton li jo ala e sijelo pona.
+epo	toki_Latn	Tomo ne scias la kialon, sed li ja scias, ke estas kialo.	jan Ton li sona ala e tan, taso ona li sona e ni: tan li lon.
 epo	toki_Latn	Tomo ofte surhavas sandalojn.	tenpo mute la jan Ton li kepeken len noka open.
 epo	toki_Latn	Tomo parolis pli rapide ol ordinare.	tenpo ni la jan Ton li toki pi tenpo wawa la tenpo ante la jan li toki pi tenpo wawa lili.
 epo	toki_Latn	Tomo redonis la libron al la biblioteko.	jan Ton li pana sin e lipu tawa tomo pi lipu tenpo.
@@ -1228,12 +1285,19 @@ epo	toki_Latn	Tomo transportis ion.	jan Ton li tawa e ijo.
 epo	toki_Latn	Tomo uzas drogojn.	jan Ton li kepeken jaki nasa.
 epo	toki_Latn	Tomo uzis mantukon por sekigi siajn harojn.	jan Ton li weka e telo pi linja lawa ona kepeken len pi pona luka.
 epo	toki_Latn	Tomo verŝajne estas ankoraŭ ekstere.	ken la jan Ton li lon ma kin.
+epo	toki_Latn	Tomo volas iĝi kuracisto.	jan Ton li wile kama jan sona misikeke.
+epo	toki_Latn	Tomo volas iĝi kuracisto.	jan Ton li wile kama jan sona pi pona sijelo.
+epo	toki_Latn	Tomo volas iĝi kuracisto.	jan Ton li wile kama jan sona sijelo.
 epo	toki_Latn	Tomo volis esti alta.	tenpo pini la jan Ton li wile suli.
 epo	toki_Latn	Tom probable estas senkulpa.	ken la jan Ton li ike ala tan ni.
 epo	toki_Latn	Tom proponis al mi sian helpon.	jan Ton li toki e ni: mi wile e ni la ona li pana e pona tawa mi.
 epo	toki_Latn	Tom skribis tiun libron.	jan Ton li sitelen e lipu ni.
 epo	toki_Latn	Tondris kaj fulmis, sur la maro nigraj ondoj altiĝis kvazaŭ turoj aŭ montoj, kaj ĉiu ondo portis blankan ŝaŭman kronon.	kon sewi li kepeken kalama wawa en seli. telo suli li kepeken telo mute lon sewi. sama la tomo palisa en nena suli. sike telo suli ni ale li jo e walo telo lon sewi ona.
 epo	toki_Latn	Trajnoj moviĝas kiel serpentoj.	tomo tawa linja li tawa sama akesi linja.
+epo	toki_Latn	Transgenraj virinoj estas virinoj.	meli tonsi li meli.
+epo	toki_Latn	Transgenraj viroj estas viroj.	mije tonsi li mije.
+epo	toki_Latn	Transseksaj virinoj estas virinoj.	meli tonsi li meli.
+epo	toki_Latn	Transseksaj viroj estas viroj.	mije tonsi li mije.
 epo	toki_Latn	Trump estas narcisisto.	jan Tona Tun li olin nasa e ona sama.
 epo	toki_Latn	Tulipoj kreskas ĉirkaŭ mia kastelo.	kasi Tulipo mute li poka tomo selo mi.
 epo	toki_Latn	Tute ne gravas al mi, kion vi faras el tio.	ni li lili ale tawa mi: sina pali e ona ni kepeken ni.
@@ -1258,10 +1322,13 @@ epo	toki_Latn	Vi devas elekti.	sina wile anu.
 epo	toki_Latn	Vi devas esprimi vin per via koro.	o toki tan olin sina!
 epo	toki_Latn	Vi devas estingi la cigaredon.	sina o pini e seli pi ijo Sikawete.
 epo	toki_Latn	Vidinte Ia vesperton, la manto falas rapide sur teron. Vesperto ne povas plonĝi tiom rapide.	pipi pi moli luka li lukin e waso soweli, la ona li tawa anpa wawa. waso soweli li ken tawa anpa pi wawa lili taso.
+epo	toki_Latn	Vi dormas.	sina lape.
 epo	toki_Latn	Vi elektis min kiel objekton de via amuziĝo.	sina wile e ni: mi musi e sina.
 epo	toki_Latn	Vi estas amuza!	sina musi!
 epo	toki_Latn	Vi estas instruanta.	sina pana e sona.
+epo	toki_Latn	Vi estas kato, Kuketo.	soweli Kuki o, sina soweli tomo lili.
 epo	toki_Latn	Vi estas mia fratino.	sina meli sama mi.
+epo	toki_Latn	Vi iam amis min.	tenpo pini la sina olin e mi.
 epo	toki_Latn	Vi laboras tro multe.	sina pali pi mute ike.
 epo	toki_Latn	Vi lernas Esperanton.	sina kama sona e toki Epelanto.
 epo	toki_Latn	Vi manĝas tro multe da dolĉaĵoj.	sina moku e suwi mute ike.

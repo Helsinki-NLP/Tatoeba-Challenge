@@ -53,8 +53,8 @@ epo	pes	Amaso da mono kaj titolo de barono.	انبوهی از پول و عنوا
 epo	pes	Ambaŭ estas miaj kolegoj.	هردوی آنها همکاران من هستند.
 epo	pes	Ambaŭ iris al la fenestro por rigardi eksteren.	هر دو به طرف پنجره رفتند برای این که به بیرون نگاه کنند.
 epo	pes	Ambaŭ iris tra la longa strato.	هر دو از آن خیابان طولانی رفتند.
-epo	pes	Ambaŭ miaj fratinoj ne estas edzinoj.	هیچ یک از دو خواهرم ازدواج نکرده اند.
 epo	pes	Ambaŭ miaj fratinoj ne estas edzinoj.	هردوی خواهرانم ازدواج نکرده اند.
+epo	pes	Ambaŭ miaj fratinoj ne estas edzinoj.	هیچ یک از دو خواهرم ازدواج نکرده اند.
 epo	pes	Ambaŭ vi sciis, ke tia rilato ne povas daŭri longe.	هر دوی شما می دانستید که چنین رابطه ای نمی توانست برای مدتی طولانی ادامه پیدا کند.
 epo	pes	Ambaŭ vojoj iras al la stacidomo.	هردو راه به ایستگاه می‌روند.
 epo	pes	Amikoj, mi devas iri.	رفقا، باید بروم.
@@ -97,8 +97,8 @@ epo	pes	Antaŭe mi pensis en unu dimensio, sed nun en kelkaj dimensioj, se ne en
 epo	pes	Antaŭ endormiĝo mi legas nur romanojn, ne aĵojn sciencajn aŭ similajn.	فبل از خوابیدن من فقط رمان می خوانم، نه مطالب علمی یا مشابه آن.
 epo	pes	Antaŭ enlitiĝo, trinkado de varma lakto vere helpas al bona dormado.	نوشیدن شیر گرم، پیش از به تختخواب رفتن واقعاً برای خواب خوب کمک می کند.
 epo	pes	Antaŭe rezervu sidlokon.	از قبل محل نشتن را رزرو کنید.
-epo	pes	Antaŭ jardeko aŭ du multe pli neĝadis en Teherano.	پیش از یک یا دو دهه، در تهران خیلی بیشتر برف می بارید.
 epo	pes	Antaŭ jardeko aŭ du multe pli neĝadis en Teherano.	پیش از یک دهه یا دو، در تهران خیلی بیشتر برف می بارید.
+epo	pes	Antaŭ jardeko aŭ du multe pli neĝadis en Teherano.	پیش از یک یا دو دهه، در تهران خیلی بیشتر برف می بارید.
 epo	pes	Antaŭ jardeko aŭ du multe pli neĝadis en Teherano.	یک یا دودهه قبل، در تهران خیلی بیشتر برف می بارید.
 epo	pes	Antaŭ la lango laboru la cerbo.	فبل از زبان مغز باید کار کند.
 epo	pes	Antaŭ mia domo troviĝas librovendejo.	درمقابل خانه‌ی من یک کتاب‌فروشی است.
@@ -205,10 +205,10 @@ epo	pes	Bonan tagon, kiel mi povas servi vin?	روز به خیر، چطور می
 epo	pes	Bone, dankon, kaj vi?	خوبم، ممنون، شما چطور هستید؟
 epo	pes	Bone pasigu la tempon dum vi restas tie!	تا زمانی که آنجا می مانید، خوش بگذرانید.
 epo	pes	Bonŝanco venos al tiuj, kiuj serĉas ĝin.	خوش شانسی به سوی کسانی می رود، که در جستجوی آن هستند.
-epo	pes	Bonvenon!	خیر مقدم!
-epo	pes	Bonvenon!	خیر مقدم می‌گویم!
 epo	pes	Bonvenon!	خوش‌آمد!
 epo	pes	Bonvenon!	خوش آمدید!
+epo	pes	Bonvenon!	خیر مقدم!
+epo	pes	Bonvenon!	خیر مقدم می‌گویم!
 epo	pes	Bonvole akceptu mian kondolencon!	لطفاً تسلیت مرا بپذیرید!
 epo	pes	Bonvole alportu seĝon por mi.	لطفاً یک صندلی برای من بیاورید.
 epo	pes	Bonvole faru, kion vi deziras, mi ne volas ŝanĝi vian programon.	لطفاً کاری را که دوست دارید انجام دهید، من نمی خواهم برنامه شما را تغییر دهم.
@@ -614,9 +614,9 @@ epo	pes	Ĉu ŝi venis ĉi tien por malstreĉi sin?	آیا برای استراح�
 epo	pes	Ĉu tio estas franca?	آیا آن فرانسوی است؟
 epo	pes	Ĉu tio estas populara?	آیا آن محبوبیت دارد؟
 epo	pes	Ĉu tio estas via libro?	آیا آن کتاب شما است؟
+epo	pes	Ĉu tio plaĉas al vi?	آیا آن برای‌تان خوشایند است؟
 epo	pes	Ĉu tio plaĉas al vi?	آیا از آن خوش‌تان می‌آید؟
 epo	pes	Ĉu tio plaĉas al vi?	آیا از آن شخص خوشتان می آید؟
-epo	pes	Ĉu tio plaĉas al vi?	آیا آن برای‌تان خوشایند است؟
 epo	pes	Ĉu tiu ĉi foto estas nova?	آیا این تصویر جدید است؟
 epo	pes	Ĉu tiu ĉi vojo kondukas al la stacidomo?	آیا این راه به استادیوم منتهی می شود؟
 epo	pes	Ĉu tiu estas ofta nomo?	آیا آن نام زیاد وجود دارد؟
@@ -992,8 +992,8 @@ epo	pes	Eblas, ke hodiaŭ posttagmeze pluvos.	ممکن است، که امروز 
 epo	pes	Eblas ke li telefonos ĉi-nokte.	امشب احتمال دارد او تلفن بزند.
 epo	pes	Eble amado pli gravas ol amatado. Mi vere ne scias tion.	شاید دوست داشتن از دوست داشته شدن مهم تر باشد، من نمی دانم.
 epo	pes	Eble io okazis al li.	شاید اتفاقی برای او افتاده است.
-epo	pes	Eble mi ŝatos la libron.	شاید از آن کتاب خوشم بیاید.
 epo	pes	Eble mi ŝatos la libron.	شاید آن کتاب را دوست بدارم.
+epo	pes	Eble mi ŝatos la libron.	شاید از آن کتاب خوشم بیاید.
 epo	pes	Eble neĝos.	احتمالاً برف خواهد آمد.
 epo	pes	Eble neĝos.	شاید برف ببارد.
 epo	pes	Eble nur dum la infanaĝo libroj havas profundan influon sur niaj vivoj.	شاید تنها در طول کودکی است که کتاب‌ها تاثیر عمیقی بر زندگی‌های ما دارند.
@@ -1228,8 +1228,8 @@ epo	pes	Estis bileto de cent dolaroj.	آن یک اسکناس یک‌صددلار
 epo	pes	Estis ekzakte kiel mi pensis.	دقیقاً همانطور بود که فکر می کردم.
 epo	pes	Estis ekzakte kiel mi pensis.	عیناً همانی بود که می اندیشیدم.
 epo	pes	Estis evidente, ke ne estis alia eblo.	آشکار بود، که امکان دیگری نبود.
-epo	pes	Estis iam bela princino.	یک وفتی یک شاهزاده خانم قشنگ وجود داشت.
 epo	pes	Estis iam bela princino.	هنگامی یک پرنسس زیبا بود.
+epo	pes	Estis iam bela princino.	یک وفتی یک شاهزاده خانم قشنگ وجود داشت.
 epo	pes	Estis infanece de li tiel konduti.	آن طور رفتار کردن او از سر بچگی اش بود.
 epo	pes	Estis kato surtable.	گربه ای زیر میز بود.
 epo	pes	Estis klare, kion li volis fari.	واضح بود، که او چه می‌خواست بگوید.
@@ -1341,8 +1341,8 @@ epo	pes	Gandhi estis pafmortigita.	گاندی توسط شلیک گلوله کش�
 epo	pes	Gardu la sekreton.	از این راز محافظت کنید.
 epo	pes	Gardu la sekreton.	این راز را حفظ کنید.
 epo	pes	Gaskonsumaj aŭtoj poluas la aeron malpli ol petrolkonsumaj.	خودروهای گازسوز کمتر از خودروهای بنزینی هوا را آلوده می کنند.
-epo	pes	Gastoj ĉiam ĝojigas, se ne per sia alveno, do per foriro.	مهمان‌ها همیشه خوش‌حال می‌شوند، یا با آمدن‌شان، یا با رفتن‌شان.
 epo	pes	Gastoj ĉiam ĝojigas, se ne per sia alveno, do per foriro.	مهمان‌ها همیشه خوش‌حال می‌شوند، اگر نه با آمدن‌شان، پس با رفتن‌شان.
+epo	pes	Gastoj ĉiam ĝojigas, se ne per sia alveno, do per foriro.	مهمان‌ها همیشه خوش‌حال می‌شوند، یا با آمدن‌شان، یا با رفتن‌شان.
 epo	pes	Geedziĝaj proponoj alflugis amase.	پیشنهادات ازدواج از هرسو برخواست.
 epo	pes	Geedziĝaj proponoj alflugis amase.	پیشنهادهای ازدواج دسته دسته سرازیر شدند.
 epo	pes	Gejunuloj difekteblas per tento.	جوانان امکان صدمه خوردن از وسوسه دارند.
@@ -1384,8 +1384,8 @@ epo	pes	Ĝi ne kostos multe.	بهای زیادی نخواهد داشت.
 epo	pes	Ĝis antaŭ kelkaj jaroj li estis tiel malforta kaj maldika, sed nun li tre fortas kaj sufiĉe dikas.	تا پیش از چند سال قبل او خیلی ضعیف و لاغر یود، اما حالا خیلی قوی و به اندازه کافی فربه است.
 epo	pes	Ĝis kiam validos via pasporto?	اعتبار گذرنامه‌ی شما تا چه زمانی است؟
 epo	pes	Ĝis la kvara mi estos okupata.	تا ساعت چهار مشغول خواهم بود.
-epo	pes	Ĝis la revido!	به امید دیدار.
 epo	pes	Ĝis la revido!	به‌امید دیدار.
+epo	pes	Ĝis la revido!	به امید دیدار.
 epo	pes	Ĝis la revido!	تا دیدار بعد.
 epo	pes	Ĝis la revido!	تا دیدار بعدی.
 epo	pes	Ĝis la revido!	تا دیدار دوباره‌ی بعدی.
@@ -1556,11 +1556,11 @@ epo	pes	Ili ege interesiĝas pri astroscienco.	آنها خیلی به علم ن�
 epo	pes	Ili ekiris al pikniko.	آنها راهی پیک نیک شدند.
 epo	pes	Ili ekiris al pikniko.	راه افتادند بروند پیک نیک.
 epo	pes	Ili ekiris pasintnokte.	دیشب آنها راه افتادند.
-epo	pes	Ili elektis novan registaron.	ایشان حکومتی تازه برگزیدند.
 epo	pes	Ili elektis novan registaron.	آنها دولتی جدید انتخاب کردند.
+epo	pes	Ili elektis novan registaron.	ایشان حکومتی تازه برگزیدند.
 epo	pes	Ili esploris kiel pura estis la akvo.	آن‌ها برسی کردند که چقدر آن آب پاک است.
-epo	pes	Ili estas instruistoj.	ایشان معلم هستند.
 epo	pes	Ili estas instruistoj.	آنها معلم اند.
+epo	pes	Ili estas instruistoj.	ایشان معلم هستند.
 epo	pes	Ili estas kristanoj.	آنها مسیحی هستند.
 epo	pes	Ili estas kuzoj, se mi bone memoras.	اگر خوب به‌یاد آورم، آنها پسرعمو هستند.
 epo	pes	Ili estas mezlernejanoj.	آنها در دوره راهنمائی درس می خوانند.
@@ -1593,14 +1593,14 @@ epo	pes	Ili malfruas je 30 minutoj laŭplane.	آنها نسبت به برنام�
 epo	pes	Ili momente ekvidis la viron en la densa grupo da homoj.	برای یک لحظه آنها آن مرد را در آن گروه انبوه انسان‌ها دیدند.
 epo	pes	Ili ne decidas gravajn aferojn.	آنها درمورد چیزهای مهمی تصمیم نگرفتند.
 epo	pes	Ili ne havas pruvon.	اثبات ندارند.
-epo	pes	Ili nervoziĝis.	ایشان عصبی گشتند.
 epo	pes	Ili nervoziĝis.	آنها عصبی شدند.
+epo	pes	Ili nervoziĝis.	ایشان عصبی گشتند.
 epo	pes	Ili nomas min Bob.	آنها مرا باب می‌نامند.
 epo	pes	Ili nomis la hundon Ricky.	آنها آن سگ را ریکی نامیدند.
 epo	pes	Ili nomis sian bebon Jane.	نوزاد خود را جین نامیدند.
 epo	pes	Ili ofte ideasocie kunligas Japanion kun Monto Fuĝi.	ژاپن برای مردم اغلب با کوه فیجی تداعی می‌شود.
-epo	pes	Ili ofte komunikas unu kun la alia per retpoŝto.	ایشان غالباً توسط پست الکترونیکی با یک دیگر ارتباط برقرار می نمایند.
 epo	pes	Ili ofte komunikas unu kun la alia per retpoŝto.	آنها اغلب توسط ایمیل با یک دیگر در ارتباط اند.
+epo	pes	Ili ofte komunikas unu kun la alia per retpoŝto.	ایشان غالباً توسط پست الکترونیکی با یک دیگر ارتباط برقرار می نمایند.
 epo	pes	Ili planas havi feston ĉi-nokte.	آنها برنامه‌ریزی کرده‌اند که یک جشن امشب داشته باشند.
 epo	pes	Ili povas produkti la samajn varojn multe pli malaltekoste.	آنها می توانند آن کالاها را خیلی ارزان تر تولید کنند.
 epo	pes	Ili povis bone rajdi kaj pafi.	آنها به خوبی می توانستنند هم برانند وهم تیر اندازی کنند.
@@ -1651,8 +1651,8 @@ epo	pes	Internaciaj Esperantaj kunvenoj allogas kaj junulojn kaj maljunulojn.	ه
 epo	pes	Interne estas loko.	در داخل جا هست.
 epo	pes	Interne la Tero estas varmega.	در داخل کره زمین داغ است.
 epo	pes	Inter niaj domoj estas longa vojo.	بین خانه های ما فاصله زیادی است.
-epo	pes	Inter voli kaj fari, estas granda paŝo.	بین خواستن و انجام دادن گام بزرگی است.
 epo	pes	Inter voli kaj fari, estas granda paŝo.	به عمل کار بر آید، به سخن‌دانی نیست.
+epo	pes	Inter voli kaj fari, estas granda paŝo.	بین خواستن و انجام دادن گام بزرگی است.
 epo	pes	Io estas tie, sed mi ne povas vidi ĝin.	یک چیزی در آنجا هست، اما من نمی توانم آن را ببینم.
 epo	pes	Iom da akvo, bonvolu.	مقداری آب، لطفاً.
 epo	pes	Iom post iom ŝi ree pli bone fartas.	به تدریج او مجدداً حالش بهتر شده است.
@@ -1749,10 +1749,10 @@ epo	pes	Jessi parolis malbone la francan, kaj eĉ pli malbone la germanan.	جس�
 epo	pes	Jes, tio estas Antoni.	بلی، او آنتونی است.
 epo	pes	Jes, Toni havis ĝin.	آری، تونی دارای آن است.
 epo	pes	Jes, Toni havis ĝin.	بله، تونی آن را دارد.
-epo	pes	Jes.	آری.
 epo	pes	Jes.	آره.
-epo	pes	Jes.	بلی
+epo	pes	Jes.	آری.
 epo	pes	Jes.	بله.
+epo	pes	Jes.	بلی
 epo	pes	Ĵeti bastonon en la radon.	چوب لای چرخ گذاشتن.
 epo	pes	Je tiu distanco la ŝipo similas insulon.	در آن فاصله، آن کشتی شبیه یک جزیره است.
 epo	pes	Jim malfermas la pordon.	جیم درب را باز می‌کند.
@@ -1783,8 +1783,8 @@ epo	pes	Ju pli vi konas lin, des pli vi ŝatas lin.	هرچه بیشتر ارا �
 epo	pes	Kafo ne multe plaĉas al mi.	از قهوه خیلی خوشم نمی‌آید.
 epo	pes	Kaj eĉ ne estas sufiĉe da akvo.	و حتی آب هم به اندازه کافی نیست.
 epo	pes	Kaj kio nun?	و حالا؟
-epo	pes	Kaj kio nun?	و حالا چی؟
 epo	pes	Kaj kio nun?	و حالا چه؟
+epo	pes	Kaj kio nun?	و حالا چی؟
 epo	pes	Kaj la teo ankaŭ ne estas bona.	و چای هم خوب نیست.
 epo	pes	Kaj lia filino kaj lia filo estis famaj.	هم پسر و هم دختر او مشهور هستند.
 epo	pes	Kaj li kaj mi sciis solvi la matematikan problemon.	هم من هم او حل کردن آن مسئله‌ی ریاضی را بلد بودیم.
@@ -2071,8 +2071,8 @@ epo	pes	Kie vi vidis Nancy?	کجا نانسی را دیدید؟
 epo	pes	Kim loĝas kun Ken.	کیم با کن در یکجا اقامت دارند.
 epo	pes	Kim loĝas kun Ken.	کیم با کن زندگی می کند.
 epo	pes	Kio ajn okazos, mi subtenos vin.	هر اتفاقی که بیافتد، من از شما حمایت خواهم کرد.
-epo	pes	Kio do estas tio?	آن چیست؟
 epo	pes	Kio do estas tio?	آن چه چیزی است؟
+epo	pes	Kio do estas tio?	آن چیست؟
 epo	pes	Kio doloras al vi?	کجایتان درد دارد؟
 epo	pes	Kio estas amo?	عشق چه چیزی است؟
 epo	pes	Kio estas feliĉo?	خوشبختی چیست؟
@@ -2091,8 +2091,8 @@ epo	pes	Kio estas via plej granda projekto?	بزرگ ترین پروژه شما 
 epo	pes	Kio estis la unua, la ovo aŭ la kokino?	اول کدام بود، تخم‌مرغ یا مرغ؟
 epo	pes	Kio estis la unua, la ovo aŭ la kokino?	کدام‌یک اول بود، مرغ یا تخم‌مرغ؟
 epo	pes	Kio estus viaj plej ŝatataj televidaj programeroj en Esperanto?	چه برنامه های تلویزیونی برایتان به اسپرانتو بیش از همه مورد علاقه تان می بود؟
-epo	pes	Kio igis vin pensi tion?	چی چیزی شما را وادار ساخت به آن فکر کنید؟
 epo	pes	Kio igis vin pensi tion?	چه چیزی شما را به این فکر انداخت؟
+epo	pes	Kio igis vin pensi tion?	چی چیزی شما را وادار ساخت به آن فکر کنید؟
 epo	pes	Kio kolerigis ŝin tiel?	چه چیزی او را این چنین عصبانی کرد؟
 epo	pes	Kio kolerigis ŝin tiel?	چه چیزی باعث شد او این چنین عصبانی شود؟
 epo	pes	Kiomaĝa estas tiu hundo?	آن سگ چندساله است؟
@@ -2226,8 +2226,8 @@ epo	pes	Kion vi ŝatas ĉe ŝi?	چه چیزی را در او می پسندید؟
 epo	pes	Kion vi ŝatas fari dimanĉe?	یک‌شنبه دوست دارید چه‌کار کنید؟
 epo	pes	Kion vi serĉas?	به دنبال چه هستید؟
 epo	pes	Kion vi serĉas?	در جستجوی چه جیزی هستید؟
-epo	pes	Kion vi serĉas?	دنبال چه می گردید؟
 epo	pes	Kion vi serĉas?	دنبال چه می‌گردید؟
+epo	pes	Kion vi serĉas?	دنبال چه می گردید؟
 epo	pes	Kion vi vidas sur tiu ĉi bildo?	در این تصویر چه می‌بینید؟
 epo	pes	"Kion vi volas?" "Mi volas hundon."	"چه می خواهید؟" "یک سگ می خواهم."
 epo	pes	Kion vi volas nun?	حالا چه می خواهید؟
@@ -2278,8 +2278,8 @@ epo	pes	Kiu helpos min?	چه کسی مرا یاری خواهد کرد؟
 epo	pes	Kiu hodiaŭ subsabligas sian kapon, morgaŭ dentogrincos.	کسی که امروز سرش را زیر شن می کند، فردا دندان هایش را به یک دیگر خواهد سابید.
 epo	pes	Kiu inventis tiun maŝinon?	چه کسی آن ماشین را اختراع کرد؟
 epo	pes	Kiuj ĝenerale pli ofte vizitas siajn gepatrojn, ĉu la filoj aŭ la filinoj?	کدام‌یک بیشتر به دیدار والدین‌شان می‌روند، آیا پسران یا دختران؟
-epo	pes	Kiuj ili estas?	ایشان چه کسانی هستند؟
 epo	pes	Kiuj ili estas?	آنها کیستند؟
+epo	pes	Kiuj ili estas?	ایشان چه کسانی هستند؟
 epo	pes	Kiuj iris al siaj domoj?	چه کسانی به خانه خودشان رفتند؟
 epo	pes	Kiuj manĝaĵoj estas riĉaj je kalorioj, kaj kiuj ne?	کدام خوراکی ها غنی از کالری هستند، و کدام نه.
 epo	pes	Kiuj manĝaĵoj estas riĉaj je kalorioj, kaj kiuj ne?	کدام یک از غذاها سرشار از کالری اند، و کدام یک نه.
@@ -2388,8 +2388,8 @@ epo	pes	Kurado estas bona ekzerco.	دو تمرین خوبی است.
 epo	pes	Kurado estas bona ekzerco.	دویدن ورزش خوبی است.
 epo	pes	Kuspu vian dekstran manikon.	آستین راست تان را بالا بزنید.
 epo	pes	Kutime, li alvenas al la oficejo ĉirkaŭ la naŭa kaj duono matene.	او معمولاً صبح‌ها حدود ساعت نه ونیم به دفتر می‌رسد.
-epo	pes	Kutimo estas dua naturo.	عادت طبیعت ثانی است.
 epo	pes	Kutimo estas dua naturo.	عادت طبیعت ثانوی است.
+epo	pes	Kutimo estas dua naturo.	عادت طبیعت ثانی است.
 epo	pes	Kvadrato havas kvar flankojn.	مربع چهار ضلع دارد.
 epo	pes	Kvalito pli valoras ol kvanto.	کیفیت باارزش‌‌تر از کمیت است.
 epo	pes	Kvankam li estas tre maljuna, li estas forta.	اگرچه خیلی پیر، ولی بسیار باقدرت است.
@@ -2737,12 +2737,12 @@ epo	pes	La mezepoko haltigis la teknikan evoluon.	قرون وسظی روش تک�
 epo	pes	La migranto fine trovis sian hejmon.	مهاجر بالاخره خانه اش را خواهد یافت.
 epo	pes	La ministerio frontis amason da demandoj.	آن وزارت خانه با انبوهی از سوالات مواجه شد.
 epo	pes	La mondo iras laŭ bona direkto, se oni rigardas ĝian iron el ioma foreco.	دنیا در جهت خوبی در حرکت است، اگر انسان از کمی دورتر به حرکت آن بنگرد.
-epo	pes	La morto ne distingas, ĉiujn egale atingas.	مرگ فرقی نمی گذارد، یکسان شامل همه می شود.
 epo	pes	La morto ne distingas, ĉiujn egale atingas.	مرگ فرقی نمی گذارد، همه را به یک نحو درمی رباید.
+epo	pes	La morto ne distingas, ĉiujn egale atingas.	مرگ فرقی نمی گذارد، یکسان شامل همه می شود.
 epo	pes	La morto ŝercon ne komprenas: oni ĝin vokas, ĝi venas.	مرگ شوخی نمی شناسد: آن را فرا می خوانند، و آن می آید.
 epo	pes	La motivado de ŝia konduto ne estas facila.	انگیزه رفتار او ساده نیست.
-epo	pes	La muzeo estas vidinda.	این موزه دیدنی است.
 epo	pes	La muzeo estas vidinda.	آن موزه شایسته دیدن است.
+epo	pes	La muzeo estas vidinda.	این موزه دیدنی است.
 epo	pes	La muzeo vizitindas.	این موزه سزاوار دیدن است.
 epo	pes	La naĝantoj estis sensentaj pro malvarmo.	آن شنا‌گران از سرما بی‌حس شده‌اند.
 epo	pes	La naskiĝloko de mia patrino troviĝas en la oriento de la lando.	جایی که مادرم به دنیا آمده است در شرق کشور قرار دارد.
@@ -3001,8 +3001,8 @@ epo	pes	Lernejo komenciĝas en septembro en Eŭropo.	مدرسه در اروپا 
 epo	pes	Lerni Esperanton estas tre interese.	فراگیری اسپرانتو خیلی جذاب است.
 epo	pes	Lerni fremdan lingvon estas amuze.	فراگیری زبان بیگانه سرگرم کننده است.
 epo	pes	Lernu juna, por esti saĝa maljuna.	در جوانی بیاموز، تا در پیری خردمند باشی.
-epo	pes	Levi la voĉon antaŭ la maljusteco.	صدای خود را علیه ظلم بلند کردن.
 epo	pes	Levi la voĉon antaŭ la maljusteco.	صدا را در مقابل ظلم بلند کردن.
+epo	pes	Levi la voĉon antaŭ la maljusteco.	صدای خود را علیه ظلم بلند کردن.
 epo	pes	Lia agado konfuzas min.	اقدامات او سبب گیح شدن من می گردد.
 epo	pes	Lia agado konfuzas min.	کارهای او من را گیج می کند.
 epo	pes	Lia agado konfuzas min.	کارهایش باعث سردگمی من می شود.
@@ -3195,8 +3195,8 @@ epo	pes	Li esperis famiĝi kiel poeto.	او امید داشت به‌عنوان 
 epo	pes	Li estas akurata.	او وقت شناس است.
 epo	pes	Li estas amika persono.	آدم دوست مآبی است.
 epo	pes	Li estas argentinano kaj instruas tenison.	او آرژانتینی است و تنیس تدریس می‌کند.
-epo	pes	Li estas aŭtoro.	او یک نویسنده است.
 epo	pes	Li estas aŭtoro.	او مولف است.
+epo	pes	Li estas aŭtoro.	او یک نویسنده است.
 epo	pes	Li estas bonulo.	او آدم خوبی است.
 epo	pes	Li estas bonulo.	او نیک‌مرد است.
 epo	pes	Li estas ĉiumaniere ĝentilulo.	او از هر نظر آدم مودبی است.
@@ -3272,8 +3272,8 @@ epo	pes	Li estas unu el miaj najbaroj.	او یکی از همسایگان من ا
 epo	pes	Li estis arestita por dumebria kondukado.	او برای رانندگی در حال مستی بازداشت شده بود.
 epo	pes	Li estis arestita por dumebria kondukado.	او به خاطر رانندگی در خال مستی بازداشت شد.
 epo	pes	Li estis dormanta sub la arbo.	او زیر درخت خوابیده بود.
-epo	pes	Li estis grandioza viro.	او مردی باعظمت بود.
 epo	pes	Li estis grandioza viro.	او مرد بزرگی بود.
+epo	pes	Li estis grandioza viro.	او مردی باعظمت بود.
 epo	pes	Li estis kvazaŭ ebria pro ĝojo.	از شادمانی انگار مست بود.
 epo	pes	Li estis kvazaŭ patro por mi.	او برای من مثل یک پدر بود.
 epo	pes	Li estis liberpensulo.	او آزاداندیش بود.
@@ -3363,8 +3363,8 @@ epo	pes	Li havis du filojn, kiuj fariĝis kuracistoj.	او دو پسر داشت�
 epo	pes	Li havis du katojn: nigran kaj blankan.	او دو گربه داشت: یکی سفید و یکی سیاه.
 epo	pes	Li havis ĝentilecon logantan virinojn.	او از ادب و نزاکتی برخوردار بود که زنان را جذب می کرد.
 epo	pes	Li havis la malfacilan taskon enpremi elefanton en hundejon.	او وظیفه‌ی مشکل جادادن یک فیل در سگ‌دانی را داشت.
-epo	pes	Li helpas al ĉiu kiu petas lin helpi.	او به هر کسی که از او یاری بخواهد کمک مینماید.
 epo	pes	Li helpas al ĉiu kiu petas lin helpi.	او به هر کسی که از او تقاضای کمک کند کمک می کند.
+epo	pes	Li helpas al ĉiu kiu petas lin helpi.	او به هر کسی که از او یاری بخواهد کمک مینماید.
 epo	pes	Li helpis al mi ripari mian horloĝon.	او در تعمیر کردن ساعت به من کمک کرد.
 epo	pes	Li hezitis antaŭ ol respondi.	قبل از پاسخ دادن مکث کرد.
 epo	pes	Li hontas ĉe sia propra konduto.	از رفتار خودش شرم‌گین است.
@@ -3492,9 +3492,9 @@ epo	pes	Li ne havas senson por beleco.	او حس زیباشناختی ندارد
 epo	pes	Li ne havas zorgojn.	او نگرانی و دلواپسی ندارد.
 epo	pes	Li ne konsentas kun ni pri tiu temo.	در مورد آن موضوع او با ما موافق نیست.
 epo	pes	Li neniam aŭskultas, kion mi provas diri al li.	او هرگز گوش نمی‌کند، که چه چیزی را سعی می‌کنم به او بگویم.
+epo	pes	Li neniam venkis la alfabeton.	او هرگز الفبا را نیاموخت.
 epo	pes	Li neniam venkis la alfabeton.	او هیچ گاه باسواد نشد.
 epo	pes	Li neniam venkis la alfabeton.	او هیچگاه بر الفبا فائق نیامد.
-epo	pes	Li neniam venkis la alfabeton.	او هرگز الفبا را نیاموخت.
 epo	pes	Li neniel povis elpensi, kion li faros.	او به هیچ وجه نمی توانست فکر کند چکار میخواهد انجام دهد.
 epo	pes	Li neniel povis ne iri al tiu festo.	به هیچ ترتیبی نمی توانست به آن جشن نرود.
 epo	pes	Li neniel povis toleri la abomenan odoraĉon de putra cepo.	او اصلاً نتوانست بوی بد پیاز گندیده را تحمل نماید.
@@ -3506,8 +3506,8 @@ epo	pes	Li ne povas haltigi ĝin.	او نمی توا ند انرا متوقف ک
 epo	pes	Li ne povas helpi al ĉiuj.	او نمی تواند به همه کمک کند.
 epo	pes	Li nepre skribas al siaj gepatroj almenaŭ unu leteron monate.	او دست‌کم ماهی یک نامه به والدین‌اش می‌نویسد.
 epo	pes	Li ne riĉas sed feliĉas.	او غنی نیست ولی خشنود است.
-epo	pes	Li ne ŝatas la lernejestron.	او از آن مدیر مدرسه خوشش نمی‌آید.
 epo	pes	Li ne ŝatas la lernejestron.	او آن مدیر مدرسه را دوست ندارد.
+epo	pes	Li ne ŝatas la lernejestron.	او از آن مدیر مدرسه خوشش نمی‌آید.
 epo	pes	Li ne scias multon pri tiu besto.	او چیز زیادی درمورد آن حیوان نمی‌داند.
 epo	pes	Li ne seriozas.	او جدی نیست.
 epo	pes	Li ne seriozas.	جدیت ندارد او.
@@ -3689,8 +3689,8 @@ epo	pes	Li tajpas malrapide, sed korekte.	او کند، ولی صحیح تایپ
 epo	pes	Li telefonis min noktomeze.	او نیمه شب به من تلفن کرد.
 epo	pes	Li telefonis.	او تلفن زد.
 epo	pes	Li tenas intiman taglibron.	او دفترچه خاطرات دارد.
-epo	pes	Li tenis la sekreton por si mem.	این راز را پیش خود نگه داشت.
 epo	pes	Li tenis la sekreton por si mem.	او این راز را نزد خود نگاه داشت.
+epo	pes	Li tenis la sekreton por si mem.	این راز را پیش خود نگه داشت.
 epo	pes	Li tenis sekrete, ke li aĉetis biciklon por sia filo.	او این موضوع را محرمانه نگه داشت، که دوچرخه‌ای برای پسرش خریده است.
 epo	pes	Li tiam estis ĉi tie.	در آن‌زمان او اینجا بود.
 epo	pes	Li tiel altas kiel altas lia patro.	او به بلدقدی پدرش است.
@@ -3957,8 +3957,8 @@ epo	pes	Mi akceptas, sed nur kun unu kondiĉo.	قبول می‌کنم، فقط �
 epo	pes	Mi akceptis lian inviton.	من دعوت او را پذیرفتم.
 epo	pes	Mi akiris la bileton senpage.	آن بلیط را من رایگان به دست آوردم.
 epo	pes	Mi akiris la bileton senpage.	من یلیط را مجانی گرفتم.
-epo	pes	Mi akiros por vi kion ajn vi volas.	هر چیزی را که بخواهید برای تان مهیا می کنم.
 epo	pes	Mi akiros por vi kion ajn vi volas.	هرچه بخواهید برای تان به دست می آورم.
+epo	pes	Mi akiros por vi kion ajn vi volas.	هر چیزی را که بخواهید برای تان مهیا می کنم.
 epo	pes	Mi akompanos vin al la stacidomo.	من شما را تا ایستگاه همراهی خواهم کرد.
 epo	pes	Mia komputilo difektiĝis kaj riparendas.	رایانه من خراب شده و باید تعمیر شود.
 epo	pes	Mia koro estis plena de ĝojo.	قلبم سرشار از شادی بود.
@@ -4303,19 +4303,19 @@ epo	pes	Mi estas bonŝanca kompare al li.	در مقایسه با او خوش ش�
 epo	pes	Mi estas certa ke vi partoprenos la kunsidon.	مطمئن هستم که شما در آن نشست شرکت خواهید کرد.
 epo	pes	Mi estas ĉiam tre nervoza.	من همواره خیلی عصبی هستم.
 epo	pes	Mi estas edziniĝinta.	من ازدواج کرده‌ام.
-epo	pes	Mi estas edziniĝinta.	من شوهر کرده ام.
 epo	pes	Mi estas edziniĝinta.	من شوهر کرده‌ام.
+epo	pes	Mi estas edziniĝinta.	من شوهر کرده ام.
 epo	pes	Mi estas edziniĝinta.	من متاهل شده ام.
 epo	pes	Mi estas ekde tri jaroj en Japanujo.	سه سال است که در ژاپن هستم.
 epo	pes	Mi estas enamiĝinta al vi.	من عاشق شما شده‌ام.
 epo	pes	Mi estas en hasto.	من عجله دارم.
 epo	pes	Mi estas entreprenisto.	من یک کارآفرین هستم.
 epo	pes	Mi estas feliĉa.	من خوشبختم.
-epo	pes	Mi estas inĝeniero.	من یک مهندس هستم.
 epo	pes	Mi estas inĝeniero.	من مهندس‌ام.
+epo	pes	Mi estas inĝeniero.	من یک مهندس هستم.
 epo	pes	Mi estas instruisto.	آموزگارم.
-epo	pes	Mi estas instruisto.	من یک معلم هستم.
 epo	pes	Mi estas instruisto.	من معلم ام.
+epo	pes	Mi estas instruisto.	من یک معلم هستم.
 epo	pes	Mi estas ironta.	الآن راه می افتم بروم.
 epo	pes	Mi estas ironta.	دارم می روم.
 epo	pes	Mi estas ironta.	می خواهم بروم.
@@ -4331,8 +4331,8 @@ epo	pes	Mi estas libera homo.	من انسان آزادی هستم.
 epo	pes	Mi estas malantaŭ li.	پشت اویم.
 epo	pes	Mi estas malantaŭ li.	من پشت سر او هستم.
 epo	pes	Mi estas membro de futbalklubo.	من عضو باشگاه فوتبال هستم.
-epo	pes	Mi estas mevo.	من یک مرغ دریائی هستم.
 epo	pes	Mi estas mevo.	من مرغ دریائی ام.
+epo	pes	Mi estas mevo.	من یک مرغ دریائی هستم.
 epo	pes	Mi estas neokupita.	مشغول نیستم.
 epo	pes	Mi estas ne tute konvinkita ke vi pravas.	من کاملاً در مورد برحق بودن شما متقاعد نشدم.
 epo	pes	Mi estas pli aĝa ol li.	من از او بزرگ‌ترم.
@@ -4406,8 +4406,8 @@ epo	pes	Mi forgesis lian nomon.	نام او را فراموش کردم.
 epo	pes	Mi forgesis mian monon.	پولم را جا گذاشتم.
 epo	pes	Mi forgesis mian pluvombrelon en aŭtobuso.	چترم را در اتوبوس جا گذاشتم.
 epo	pes	Mi forgesis sendi novjarajn kartojn al miaj geamikoj.	فراموش کردم برای دوستانم کارت تبریک سال نو بفرستم.
-epo	pes	Mi forgesis ŝlosi la magazenon.	یادم رفت مغازه را قفل کنم.
 epo	pes	Mi forgesis ŝlosi la magazenon.	فراموش کردم درب مغازه را قفل کنم.
+epo	pes	Mi forgesis ŝlosi la magazenon.	یادم رفت مغازه را قفل کنم.
 epo	pes	Mi forgesis surglui poŝtmarkon sur la koverton.	فراموش کردم تمبر روی آن پاکت بچسبانم.
 epo	pes	Mi foriras, adiaŭ!	من می‌روم، خداحافظ!
 epo	pes	Mi forte laboris lastmonate.	در ماه اخیر به‌شدت کار کردم.
@@ -4456,8 +4456,8 @@ epo	pes	Mi havas multe da soifo.	خیلی تشنه‌ام.
 epo	pes	Mi havas nenian monon.	هیچ پولی ندارم.
 epo	pes	Mi havas nenion por deklari.	هیچ جیزی برای اعلام کردن ندارم.
 epo	pes	Mi havas neniun, kiu vojaĝos kun mi.	من هیچ کسی را ندارو، که همراهم به مسافرت بیاید.
-epo	pes	Mi havas neniun ŝuldon.	من هیچ بدهی ای ندارم.
 epo	pes	Mi havas neniun ŝuldon.	من هیچ بده‌کاری‌ای ندارم.
+epo	pes	Mi havas neniun ŝuldon.	من هیچ بدهی ای ندارم.
 epo	pes	Mi havas neniun ŝuldon.	من هیچ قرضی ندارم.
 epo	pes	Mi havas novan biciklon.	من یک دوچرخه جدید دارم.
 epo	pes	Mi havas nur duone tiom da libroj, kiom li havas.	من فقط به اندازه نیمی از کتاب های او، کتاب دارم.
@@ -4484,8 +4484,8 @@ epo	pes	Mi hazarde renkontis mian amikon en la teatro hieraŭ vespere.	به‌ط
 epo	pes	Mi helpos vin, se vi havas malfacilaĵon.	اگر مشکلی دارید، کمک‌تان خواهم کرد.
 epo	pes	Mi hezitas pritrakti la temon kun ŝi.	در پرداختن به آن موضوع با او، شک دارم.
 epo	pes	Mi hodiaŭ matene ellitiĝis je la sesa kaj duono.	امروز صبح ساعت شش و نیم بیدار شدم.
-epo	pes	Miho estas pianisto.	میهو یک پیانیست است.
 epo	pes	Miho estas pianisto.	میهو نوازنده‌ی پیانو است.
+epo	pes	Miho estas pianisto.	میهو یک پیانیست است.
 epo	pes	Mi iel sentas ke al li mi ne tre plaĉas.	احساسی به من می گوید که زیاد خوشایند او نیستم.
 epo	pes	Mi iel sentas ke al li mi ne tre plaĉas.	یه جورائی احساس می کنم که خیلی از من خوشش نمی آد.
 epo	pes	Mi instruas la ĉinan.	من چینی را تدریس می‌کنم.
@@ -4499,8 +4499,8 @@ epo	pes	Mi irantas al banko.	من دارم به بانک می روم.
 epo	pes	Mi iras al Hanovro kun vi.	با شما به هانوور می‌روم.
 epo	pes	Mi iras al la lernejo ĉar mi volas lerni.	من به مدرسه میروم چون میخواهم یاد بگیرم.
 epo	pes	Mi iras al lernejo.	من به مدرسه می‌روم.
-epo	pes	Mi iras dormi!	می روم بخوابم.
 epo	pes	Mi iras dormi!	من می روم بخسبم.
+epo	pes	Mi iras dormi!	می روم بخوابم.
 epo	pes	Mi iras kun li al la lernejo.	من با او به مدرسه می روم.
 epo	pes	Mi iras kun li al la lernejo.	همراه او به آموزشگاه میروم.
 epo	pes	Mi iris al la biblioteko.	من به کتاب‌خانه رفتم.
@@ -4687,8 +4687,8 @@ epo	pes	Mi ne komprenas, kion vi diras.	نمی‌فهمم، که چه می‌گ�
 epo	pes	Mi ne komprenas ŝin.	من او را درک نمی کنم.
 epo	pes	Mi ne komprenas ŝin.	من او را نمی فهمم.
 epo	pes	Mi ne konas vin.	من شما را نمی شناسم.
-epo	pes	Mi ne konas vin.	نمیشناسمتان.
 epo	pes	Mi ne konas vin.	نمی شناسم تان.
+epo	pes	Mi ne konas vin.	نمیشناسمتان.
 epo	pes	Mi ne konsciis, ke iu rigardis min.	من آگاه نبودم، که کسی مشغول نگاه کردن من بود.
 epo	pes	Mi ne konsciis pri lia ĉeesto.	من از حضور او آگاهی نداشتم.
 epo	pes	Mi ne konsciis pri lia foresto en la kunsido.	من از غیبت او در نشست آگاه نبودم.
@@ -4841,8 +4841,8 @@ epo	pes	Mi ne vidis Tom lastatempe.	این اواخر تام را ندیدم.
 epo	pes	Mi ne volas iri al Italujo.	من نمی‌خواهم به ایتالیا بروم.
 epo	pes	Mi ne volas iri en la lernejon.	من نمی خواهم به مدرسه بروم.
 epo	pes	Mi ne volas skribi per tiu ĉi plumo.	نمی خواهم با این قلم بنویسم.
-epo	pes	Mi ne volis frue leviĝi.	نمی‌خواستم زود بیدار شوم.
 epo	pes	Mi ne volis frue leviĝi.	نمی‌خواستم زود بلند شوم.
+epo	pes	Mi ne volis frue leviĝi.	نمی‌خواستم زود بیدار شوم.
 epo	pes	Mi ne volis, ke tio okazu.	نمی‌خواستم که آن اتفاق بیفتد.
 epo	pes	Min ĝojigas revidi vin.	دیدن مجدد شما خوشحالم می‌کند.
 epo	pes	Ming Xiao ankoraŭ ne scias, kien li iros venontjare.	مینگ ژیائو هنوز نمی‌داند که سال آینده به کجا خواهد رفت.
@@ -5023,8 +5023,8 @@ epo	pes	Mi ridis pro lia petolo.	از مزاح او خنده ام گرفت.
 epo	pes	Mi ridis pro lia petolo.	من خندیدم به خاطر شوخی او.
 epo	pes	Mi ridis.	خندیدم.
 epo	pes	Mi ridis.	می‌خندیدم.
-epo	pes	Mi rigardas la aferon de alia vidpunkto.	من از دیدگاه دیگری به آن مسئله می نگرم.
 epo	pes	Mi rigardas la aferon de alia vidpunkto.	من آن موضوع را از نقطه نظر دیگری نگاه می کنم.
+epo	pes	Mi rigardas la aferon de alia vidpunkto.	من از دیدگاه دیگری به آن مسئله می نگرم.
 epo	pes	Mirige, ĉu ne?	تعجب‌آور است، نه؟
 epo	pes	Mirigus vin, kiom oni povas lerni en semajno.	اینکه من چقدر می توانم در یک هفته یاد بگیرم، شما را به تعجب وامی دارد.
 epo	pes	Mi riparas la domon.	در حال تعمیر آن خانه‌ام.
@@ -5211,9 +5211,9 @@ epo	pes	Mi trinkas kafon matene.	من صبح‌ها قهوه می‌نوشم.
 epo	pes	Mi trinkis iom de la lakto kaj konservis la reston en la malvarmujo.	قدری از آن شیر را نوشیدم و بقیه را در یخچال نگه‌داشتم.
 epo	pes	Mi trovas ŝin ĉarma kaj alloga.	من او را دلربا و جذاب یافتم.
 epo	pes	Mi trovis ankoraŭ nenion.	هنوز هیچ چیزی پیدا نکرده ام.
-epo	pes	Mi trovis ĝin!	یافتمش!
 epo	pes	Mi trovis ĝin!	آنرا یافتم.
 epo	pes	Mi trovis ĝin!	من آن را پیدا کردم.
+epo	pes	Mi trovis ĝin!	یافتمش!
 epo	pes	Mi trovis, ke estas malfacile konvinki ŝin.	دریافتم که متقاعد ساختن او مشکل است.
 epo	pes	Mi trovis, ke estas malfacile konvinki ŝin.	من دریافتم که که تقاعد کردن او سخت است.
 epo	pes	Mi trovis la konstruaĵon.	آن ساختمان را یافتم.
@@ -5247,8 +5247,8 @@ epo	pes	Mi venas el Anglujo.	من انگلیسی هستم.
 epo	pes	Mi venas el Egiptujo.	من از مصر می آیم.
 epo	pes	Mi venas el Egiptujo.	من مصری هستم.
 epo	pes	Mi venas el Italio kaj parolas la italan.	من ایتالیائی هستم و به ایتالیائی حرف می‌زنم.
-epo	pes	Mi venas.	می آیم.
 epo	pes	Mi venas.	من می آیم.
+epo	pes	Mi venas.	می آیم.
 epo	pes	Mi vendas novan aŭton.	ماشین جدیدی را می‌فروشم.
 epo	pes	Mi vendis ĝin por dek dolaroj.	من آن را ده دلار فروختم.
 epo	pes	Mi venigos lin.	من او را وادار به آمدن می کنم.
@@ -5484,8 +5484,8 @@ epo	pes	Ne indas pripensi plu.	شایسته نیست بیش از این فکر �
 epo	pes	Ne intermiksu vin en la afero. Lasu lin fari ĝin sola.	در آن کار دخالتی نکنید. بگذارید خودش به تنهائی آن را انجام دهد.
 epo	pes	Ne interrompu min, kiam mi parolas.	وقتی صحبت می کنم، حرفم را قطع نکنید.
 epo	pes	Ne interrompu nian konversacion.	مکالمه‌ی ما را قطع نکنید.
-epo	pes	Ne iru tiom rapide.	اینقدر تند راه نروید.
 epo	pes	Ne iru tiom rapide.	آنقدر سریع نروید.
+epo	pes	Ne iru tiom rapide.	اینقدر تند راه نروید.
 epo	pes	Ne ĵetu ŝtonojn.	سنگ پرتاب نکنید.
 epo	pes	Ne ĵetu ŝtonojn.	سنگ نیاندازید.
 epo	pes	Ne juĝu pri afero laŭ ĝia ekstero.	از روی ظاهر قضاوت نکنید.
@@ -5543,9 +5543,9 @@ epo	pes	Neniam kredu lin, li estas mensogema persono.	هیچکاه حرف های
 epo	pes	Neniam kredu lin, li estas mensogema persono.	هیچوقت او را باور نکنید، او دروغ پرداز است.
 epo	pes	Neniam malbonfamigu aliajn malantaŭ ilia dorso.	هرگز دیگران را پشت سرشان بدنام نکنید.
 epo	pes	Neniam mi estis maldorma tiel frue en la mateno.	هرگز صیح به این زودی بیدار نبوده ام.
+epo	pes	Neniam mi maltrafas rendevuon.	هرگز قرار ملاقات هایم را از دست نمی دهم.
 epo	pes	Neniam mi maltrafas rendevuon.	هیچگاه دیر سر قرارهایم نمی رسم.
 epo	pes	Neniam mi maltrafas rendevuon.	هیچگاه قرارهایم را از دست نمی دهم.
-epo	pes	Neniam mi maltrafas rendevuon.	هرگز قرار ملاقات هایم را از دست نمی دهم.
 epo	pes	Neniam mi supozis, ke tie ĉi ekzistas tiom bela hotelo.	هرگز گمان نمی کردم که در اینجا هتلی به این زیبایی وجود داشته باشد.
 epo	pes	Nenia rozo malhavas dornon.	هیچ گونه رزی فاقد خار نیست.
 epo	pes	Nenie en la mondo malaperis malriĉeco.	در هیچ‌کجای دنیا فقر ازبین نرفته است.
@@ -5715,9 +5715,9 @@ epo	pes	Ni devas trovi Tomon.	باید تام را پیدا کنیم.
 epo	pes	Ni devas zorgi pri niaj gepatroj.	باید مراقب والدین‌مان باشیم.
 epo	pes	Ni devis atendi lin dum dek minutoj.	ما باید ده دقیقه منتظر او می‌ماندیم.
 epo	pes	Ni devus tuj trakti tiun aferon.	ما می بایست فوراً آن موضوع را بررسی کنیم.
-epo	pes	Ni deziras pacon por la tuta mondo.	یرای همه جهان خواستار صلح ایم.
 epo	pes	Ni deziras pacon por la tuta mondo.	ما برای تمام دنیا آرزوی صلح می کنیم.
 epo	pes	Ni deziras pacon por la tuta mondo.	ما جهت کل گیتی صلح آرزو می نمائیم.
+epo	pes	Ni deziras pacon por la tuta mondo.	یرای همه جهان خواستار صلح ایم.
 epo	pes	Ni dividu la rekompencon duon-duone.	آغازش را نصف-نصف تقسیم کنیم.
 epo	pes	Ni eksidu ĉi tie sur la herbon.	اینجا روی چمن بنشینیم.
 epo	pes	Ni elektis John kiel kapitanon.	جان را به‌عنوان کاپیتان انتخاب کردیم.
@@ -5732,8 +5732,8 @@ epo	pes	Ni estas invititaj por vespermanĝo.	برای عصرانه دعوت شد
 epo	pes	Ni estas najbaroj.	ما همسایه ایم.
 epo	pes	Ni estas najbaroj.	ما هم‌سایه هستیم.
 epo	pes	Ni estas studentoj.	ما دانشجو هستیم.
-epo	pes	Ni estas viroj.	ما مردیم.
 epo	pes	Ni estas viroj.	ما مرد هستیم.
+epo	pes	Ni estas viroj.	ما مردیم.
 epo	pes	Ni estas viroj.	مردیم.
 epo	pes	Ni estis samĉambranoj.	ما هم‌اتاقی بودیم.
 epo	pes	Ni estis surprizitaj pri la novaĵo.	از آن خبر شگفت زده شدیم.
@@ -5793,8 +5793,8 @@ epo	pes	Ni lasu ŝin sola.	او را تنها نگذارید.
 epo	pes	Ni legu eble plej multajn librojn.	شاید ما باید بیشترین کتاب‌ها را بخوانیم.
 epo	pes	Ni lernas muzikon.	ما موزیک فرا می گیریم.
 epo	pes	Ni lernas muzikon.	ما موسیقی می آموزیم.
-epo	pes	Ni lernis ke la Tero ĉirkaŭiras la Sunon.	ما یاد گرفته ایم که زمین به دور خورشید می گردد.
 epo	pes	Ni lernis ke la Tero ĉirkaŭiras la Sunon.	ما فراگرفتیم که زمین پیرامون خورشید می چرخد.
+epo	pes	Ni lernis ke la Tero ĉirkaŭiras la Sunon.	ما یاد گرفته ایم که زمین به دور خورشید می گردد.
 epo	pes	Ni loĝas proksime de la lernejo.	ما نزدیک مدرسه سکونت داریم.
 epo	pes	Ni longe atendis lin.	مدتی طولانی منتظر او بودیم.
 epo	pes	Ni ludis ĉe tiu ĉi plaĝo.	ما نزدیک این پلاژ بازی کردیم.
@@ -6005,8 +6005,8 @@ epo	pes	Pardonon, ĉu vi povus ripeti?	ببخشید اگر میتوانید دو
 epo	pes	Pardonon, mi ne aŭdis vian nomon bone.	ببخشید، اسم‌تان را خوب نشنیدم!
 epo	pes	Pardonon, mi ne havas la monerojn.	ببخشید، من آن سکه ها را ندارم.
 epo	pes	Pardonon, mi ne havas la monerojn.	معذرت، من پول خرد ندارم.
-epo	pes	Pardonon...	ببخشید...
 epo	pes	Pardonon.	ببخشید.
+epo	pes	Pardonon...	ببخشید...
 epo	pes	Pardonon.	عذرخواهی.
 epo	pes	Pardonon.	معذرت.
 epo	pes	Pardonpeton. Mi forgesis fari miajn hejmtaskojn.	عذر می خواهم. فراموش کردم تکالیفم را انجام دهم.
@@ -6070,8 +6070,8 @@ epo	pes	Peter aĉetas virkaton.	پیتر یک گربه نر می خرد.
 epo	pes	Petrolŝipo estas ŝipo kiu transportas petrolon.	کشتی نفتی کشتی‌ای است که نفت حمل می‌کند.
 epo	pes	Pharamp punpagis pro kontraŭleĝa parkado.	فارلامپ به‌خاط پارک غیرقانونی جریمه پرداخت کرد.
 epo	pes	Picasso pentris tiun bildon en 1950.	آن تصویر را پیکاسو در 1950 کشید.
-epo	pes	Piednotoj estas notoj situantaj malsupre de paĝo.	پانویس ها یادداشت هائی هستند که در پائین صفحه قرار دارند.
 epo	pes	Piednotoj estas notoj situantaj malsupre de paĝo.	پانوشت ها یادداشت هائی هستند که در زیر صفحه قرار دارند.
+epo	pes	Piednotoj estas notoj situantaj malsupre de paĝo.	پانویس ها یادداشت هائی هستند که در پائین صفحه قرار دارند.
 epo	pes	Pilko enflugis tra la fenestro.	توپ به سرعت از میان پنجره افتاد.
 epo	pes	Pilkoj estas rondaj.	توپ ها گردند.
 epo	pes	Pinokjo diras: "Nun mia nazo plilongiĝos".	پینوکیو می‌گوید: "حالا بینی‌ام دراز خواهد شد".
@@ -6349,8 +6349,8 @@ epo	pes	Sen trompo neniu negoco plenumiĝas.	بدون کلک هیچ معامله
 epo	pes	Sentu vin hejme ĉe ni.	پیش ما خود را در خانه خود بدانید.
 epo	pes	Se nun vi estus ĉi tie, ĉe mi, mi estus multege pli gaja.	اگر هم اکنون اینجا، در کنار من بودید، من بسیار خوشحال تر بودم.
 epo	pes	Sen via helpo li ne estus sukcesinta.	بدون کمک شما اوشاید نمی توانست موفق شود.
-epo	pes	Sen via helpo ni ne povos realigi nian planon.	بدون یاری شما نخواهیم توانست نقشه مان را اجرا کنیم.
 epo	pes	Sen via helpo ni ne povos realigi nian planon.	بدون کمک شما نمی توانیم برنامه مان را عملی کنیم.
+epo	pes	Sen via helpo ni ne povos realigi nian planon.	بدون یاری شما نخواهیم توانست نقشه مان را اجرا کنیم.
 epo	pes	Sen via helpo ni ne sukcesis.	بدون کمک شما من موفق نمی شدم.
 epo	pes	Sen viaj konsiloj oni ŝtelintus mian sakon.	بدون راهنمائی شما ساک مرا دزدیده بودند.
 epo	pes	Sen vi, mia vivo tute malplenus.	بدون شما زندگی من کاملاً خالی می‌بود.
@@ -6719,8 +6719,8 @@ epo	pes	Ŝi skribas novelojn.	او نوول می نویسد.
 epo	pes	Ŝi skribas novelojn.	او نوول نویس است.
 epo	pes	Ŝi ŝminkis sian vizaĝon en 20 minutoj.	او صورت‌اش را در 20 دقیقه آرایش کرد.
 epo	pes	Ŝi sukcesis akiri, kion ŝi volis.	او موفق شد چیزی را که می خواهد، به دست آورد.
-epo	pes	Ŝi surmetis ĉapon.	او کلاهی بر سرش گذاشته بود.
 epo	pes	Ŝi surmetis ĉapon.	او کلاه گذاشته بود.
+epo	pes	Ŝi surmetis ĉapon.	او کلاهی بر سرش گذاشته بود.
 epo	pes	Ŝi tenere karesis sian bebon.	او با ظرافت بچه اش را نوازش کرد.
 epo	pes	Ŝi tenere karesis sian bebon.	او با لطافت نوزادش را نوازش می کرد.
 epo	pes	Ŝi tradukis tion laŭvorte.	او آن را تحت‌اللفظی ترجمه کرد.
@@ -6771,8 +6771,8 @@ epo	pes	Stranga mara vivaĵo estis trovita antaŭ nelonge.	یک موجود زن�
 epo	pes	Struto ne flugas.	شترمرغ پرواز نمی کند.
 epo	pes	Stulteco estas la malstreĉiĝo de inteligenteco.	حماقت استراحت کردن هوش است.
 epo	pes	Subite ĉiuj lumoj estingiĝis.	ناگهان همه‌ی چراغ‌ها خاموش شد.
-epo	pes	Subite komencis pluvi.	یک دفعه باران شروع به باریدن کرد.
 epo	pes	Subite komencis pluvi.	ناگهان باران آمد.
+epo	pes	Subite komencis pluvi.	یک دفعه باران شروع به باریدن کرد.
 epo	pes	Subite li konstatis, ke li malhavis sian paperujon.	ناگهان متوجه شد که پوشه اش نیست.
 epo	pes	Subite ŝi ekridis.	یکهو شروع کرد به خندیدن.
 epo	pes	Sub kiu nomo?	تحت چه نامی؟
@@ -6879,8 +6879,8 @@ epo	pes	Tio estis korŝira rakonto.	حکایت دل‌آزاری بود.
 epo	pes	Tio estis korŝira rakonto.	حکایت غم‌انگیزی بود.
 epo	pes	Tio estis korŝira rakonto.	داستان متاثرکننده‌ای بود.
 epo	pes	Tio estis la plej agrabla, kion oni povis al ŝi donaci.	آن خوشایندترین چیزی بود، که می‌شد به او هدیه داد.
-epo	pes	Tio estis libro tiom bona, ke mi legis ĝin trifoje.	آن کتابی آنقدر خوب است، که من سه دفعه خواندم اش.
 epo	pes	Tio estis libro tiom bona, ke mi legis ĝin trifoje.	آن کتاب آنقدر خوب بود که من سه بار مطالعه کردم اش.
+epo	pes	Tio estis libro tiom bona, ke mi legis ĝin trifoje.	آن کتابی آنقدر خوب است، که من سه دفعه خواندم اش.
 epo	pes	Tio fareblas en unu tago.	آن را در یک روز می توتن درست کرد.
 epo	pes	Tio helpas nin en malfacilaj tempoj.	آن در مواقع سختی به ما کمک خواهد کرد.
 epo	pes	Tio igas vin eĉ pli alloga.	آن حتی باعث جذاب تر شدن شما می شود.
@@ -6970,8 +6970,8 @@ epo	pes	Tiu domo estas mia.	آن خانه من است.
 epo	pes	Tiu domo tute ne komfortas por loĝi.	آن خانه اصلاً برای سکونت راحت نیست.
 epo	pes	Tiu estas bona ideo.	آن، ایده خوبی است.
 epo	pes	Tiu estas la plej rapida trajno en la mondo.	آن، سرسع‌ترین قطار در دنیاست.
-epo	pes	Tiu estas libro pri steloj.	ان کتابی است درباره ستارگان.
 epo	pes	Tiu estas libro pri steloj.	آن کتاب درباره‌ی ستارگان است.
+epo	pes	Tiu estas libro pri steloj.	ان کتابی است درباره ستارگان.
 epo	pes	Tiu estas mia instruisto. Li nomiĝas sinjoro Haddad.	آن شجص معلم من است. آقای حداد نامیده می شود.
 epo	pes	Tiu estas mia kuzo.	آن شخص پسرعموی من است.
 epo	pes	Tiu estas mia naskiĝdomo.	آن خانه ای است که در آن متولد شدم.

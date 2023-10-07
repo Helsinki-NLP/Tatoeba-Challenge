@@ -603,8 +603,8 @@ run	rus	Ni binini birenze?	Слишком большой?
 run	rus	Ni birebire birenze?	Слишком большой?
 run	rus	Ni bitoya birenze urugero.	Слишком маленький.
 run	rus	Ni bitoya birenze?	Слишком маленькая?
-run	rus	Ni bitoya birenze?	Слишком маленький?
 run	rus	Ni bitoya birenze.	Слишком маленький.
+run	rus	Ni bitoya birenze?	Слишком маленький?
 run	rus	Ni bitoya birenze?	Слишком маленькое?
 run	rus	Nico cakuzanye ngaha?	Ты поэтому сюда пришёл?
 run	rus	Nico gituma cakuzanye ngaha?	Ты поэтому сюда пришёл?
@@ -878,13 +878,13 @@ run	rus	Sindi umunyeshuri muri kaminuza.	Я не студент.
 run	rus	Sindi umunyeshuri.	Я не студент.
 run	rus	Sindi umunyeshuri.	Я не ученик.
 run	rus	Si neza.	Это не есть хорошо.
-run	rus	Singushimye.	Я в тебя не влюблена.
 run	rus	Singushimye.	Я в тебя не влюблён.
+run	rus	Singushimye.	Я в тебя не влюблена.
 run	rus	Sinibaza ko aza.	Я не думаю, что он придёт.
 run	rus	Sinkora uko.	Я так не работаю.
 run	rus	Sinkubona.	Я тебя не вижу.
-run	rus	Sinkugomwe.	Я в тебя не влюблена.
 run	rus	Sinkugomwe.	Я в тебя не влюблён.
+run	rus	Sinkugomwe.	Я в тебя не влюблена.
 run	rus	Sinkunda aba bantu.	Мне не нравятся эти люди.
 run	rus	Sinkunda kwiruka.	Мне не нравится бегать.
 run	rus	Sinkunda kwiruka.	Я не люблю бегать.
@@ -1082,10 +1082,10 @@ run	rus	Urambabarira ko ndabivuze.	Прости, что я это сказал.
 run	rus	Urambabarira ko ndabivuze.	Прости, что я это сказала.
 run	rus	Uramukunda?	Ты его любишь?
 run	rus	Uramukunda?	Ты её любишь?
-run	rus	Uramuzi?	Ты его знаешь?
 run	rus	Uramuzi.	Ты его знаешь.
-run	rus	Uramuzi?	Ты её знаешь?
+run	rus	Uramuzi?	Ты его знаешь?
 run	rus	Uramuzi.	Ты её знаешь.
+run	rus	Uramuzi?	Ты её знаешь?
 run	rus	Urandondera?	Ты меня ищешь?
 run	rus	Uranezerewe?	Ты счастлив?
 run	rus	Uranezerewe?	Ты счастлива?

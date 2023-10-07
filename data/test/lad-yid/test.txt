@@ -142,8 +142,8 @@ lad_Latn	yid	Eyos desparesyeron.	זיי זענען נעלם געוואָרן.
 lad_Latn	yid	Favlash Ladino?	רעדט איר לאַדינאָ?
 lad_Latn	yid	Favlas Ladino?	רעדסטו לאַדינאָ?
 lad_Latn	yid	Feliz Pesah!	אַ פֿריילעכן פּסח!
-lad_Latn	yid	Fransia esta en la Evropa Oksidentala.	פֿראַנקרײַך איז אין מערבֿ־אייראָפּע.
 lad_Latn	yid	Fransia esta en la Evropa Oksidentala.	פֿראַנקרײך איז אין מערבֿ אײראָפּע.
+lad_Latn	yid	Fransia esta en la Evropa Oksidentala.	פֿראַנקרײַך איז אין מערבֿ־אייראָפּע.
 lad_Latn	yid	Fuimos atakados por piratas!	מיר זענען אַטאַקירט געוואָרן פֿון פּיראַטן!
 lad_Latn	yid	Gato!	קאַץ!
 lad_Latn	yid	Gresia es ermoza.	גריכנלאַנד איז שיין.
@@ -436,6 +436,200 @@ lad_Latn	yid	Yo so un gato.	איך בין אַ קאַץ.
 lad_Latn	yid	Yo so un robot.	איך בין אַ גולמאַט.
 lad_Latn	yid	Yo so un robot.	איך בין אַ ראָבאָט.
 lad_Latn	yid	Yo so vuestra reyna.	איך בין אײַער מלכה.
+lad	yid	Abandono el sosyalizmo.	ער האָט פֿאַרלאָזט סאָציאַליזם.
+lad	yid	Akordamos.	מיר געדענקען.
+lad	yid	Alimenta el pasharo!	גיב עסן דעם פֿויגל!
+lad	yid	Amo las linguas bereberes.	איך האָב ליב בערבערשפּראַכן.
+lad	yid	Avlas djudeo-espanyol?	צי רעדסטו דזשודעזמאָ?
+lad	yid	Avlas djudeo-espanyol?	צי רעדסטו ייִדיש־שפּאַניש?
+lad	yid	Avlash djudeo-espanyol?	צי רעדט איר דזשודעזמאָ?
+lad	yid	Avlash djudeo-espanyol?	צי רעדט איר ייִדיש־שפּאַניש?
+lad	yid	Ayer fue alhad.	נעכטן איז געווען זונטיק.
+lad	yid	Ay munchas linguas en el mundo.	ס׳איז פֿאַראַן אַ סך שפּראַכן אויף דער וועלט.
+lad	yid	Biven en pas.	זיי לעבן בשלום.
+lad	yid	Dales paras.	גיב זיי געלט.
+lad	yid	Damos paz!	גיב אונדז שלום!
+lad	yid	Deke aborresesh la libertad?	פֿאַר וואָס האָט איר פֿײַנט פֿרײַהייט?
+lad	yid	Deke aborreses la libertad?	פֿאַר וואָס האָסטו פֿײַנט פֿרײַהייט?
+lad	yid	Devo de uzar akeya lingua.	איך זאָל ניצן יענע שפּראַך.
+lad	yid	Dinguno no save todo.	קיינער ווייס נישט אַלץ.
+lad	yid	Dingunos no tienen una alma.	קיינער האָט נישט קיין נשמה.
+lad	yid	Dingunos no tienen una neshama.	קיינער האָט נישט קיין נשמה.
+lad	yid	Dingun ser umano no es ilegal.	קיין בן־אָדם איז נישט אומלעגאַל.
+lad	yid	El amor ama amar el amor.	ליבע האָט ליב, ליב צו האָבן ליבע.
+lad	yid	El espejo esta muy suzio.	דער שפּיגל איז זייער שמוציק.
+lad	yid	El gato tiene ambre.	די קאַץ איז הונגעריק.
+lad	yid	El kave es preto.	די קאַווע איז שוואַרץ.
+lad	yid	El ke bushka topa.	אַז מע זוכט, געפֿינט מען.
+lad	yid	El mundo esta hazino.	די וועלט איז קראַנק.
+lad	yid	El mundo es una nasyon.	די וועלט איז אַן אומה.
+lad	yid	El mundo es un puevlo.	די וועלט איז אַן אומה.
+lad	yid	El progreso no es inevitable.	פּראָגרעס איז נישט אומפֿאַרמײַדלעך.
+lad	yid	El savia esto.	ער האָט דאָס געוווּסט.
+lad	yid	En Gan Eden ke repoze.	זאָל ער האָבן אַ ליכטיקן גן־⁠עדן.
+lad	yid	Es frekuente.	ס׳איז אָפֿט.
+lad	yid	Es sekular.	ער איז וועלטלעך.
+lad	yid	Esta es vuestra kaza.	דאָס איז אײַער הויז.
+lad	yid	Esta es vuestra kaza.	דאָס איז אײַער שטוב.
+lad	yid	Esto akorruto deprimida.	איך בין אָפֿט דעפּרימירט.
+lad	yid	Esto akorruto deprimido.	איך בין אָפֿט דעפּרימירט.
+lad	yid	Esto es transfobiko.	דאָס איז טראַנספֿאָביש.
+lad	yid	Esto kansada.	כ׳בין מיד.
+lad	yid	Esto kansado.	כ׳בין מיד.
+lad	yid	Estos son emportantes.	דאָס זענען וויכטיק.
+lad	yid	Estos son pasharos.	דאָס זענען פֿייגל.
+lad	yid	Es un omofobo.	ער איז אַ האָמאָפֿאָב.
+lad	yid	Evropa no egziste.	אייראָפּע עקסיסטירט נישט.
+lad	yid	Evropa no egziste.	נישטאָ קיין אייראָפּע.
+lad	yid	Eya save la vedra.	זי ווייסט דעם אמת.
+lad	yid	Kada mansana es kolorada.	יעדער עפּל איז רויט.
+lad	yid	Kaji siempre.	כּמעט תּמיד.
+lad	yid	Kaminos de leche i miel!	אַ גוטן וועג!
+lad	yid	Kaminos de leche i miel!	אַ גוטע נסיעה!
+lad	yid	Kaminos de leche i miel!	אַ גוטע רײַזע!
+lad	yid	Kanta en kabil.	זי זינגט אויף קאַביליש.
+lad	yid	Keremos la pas.	מיר ווילן שלום.
+lad	yid	Kero un perro.	איך וויל אַ הונט.
+lad	yid	Kero un perro.	איך וויל אַ הינטל.
+lad	yid	Komo se dize "un gato" en ebreo?	ווי זאָגט מען „אַ קאַץ״ אויף העברעיִש?
+lad	yid	"Komo te yamas?" "Me yamo Tom."	„ווי הייסטו?״ – „איך הייס טאָם.״
+lad	yid	Kualo es el Djudaizmo?	וואָס איז ייִדישקייט?
+lad	yid	"Kuando?" "Nunka."	„ווען?״ – „קיין מאָל נישט.״
+lad	yid	Kuantos gatos son demaziados?	וויפֿל קעץ זענען צו פֿיל?
+lad	yid	La agua es limpia?	צי איז דאָס וואַסער ריין?
+lad	yid	La alma es diferente del kuerpo.	די נשמה איז אַנדערש פֿונעם גוף.
+lad	yid	La alma es diferente del kuerpo.	די נשמה איז אַנדערש פֿונעם קערפּער.
+lad	yid	La djente miente en el Internet.	די לײַט זאָגן ליגנס אויפֿן אינטערנעט.
+lad	yid	La djente miente.	מענטשן זאָגן ליגנס.
+lad	yid	La kolora es venenoza.	כּעס איז סמיק.
+lad	yid	La mansana ke di a Jon es kolorada.	דער עפּל וואָס איך האָב געגעבן דזשאָנען איז רויט.
+lad	yid	La mishpaha es emportante.	משפּחה איז וויכטיק.
+lad	yid	La mujer melda inglez.	די פֿרוי לייענט ענגליש.
+lad	yid	La neshama es diferente del puerpo.	די נשמה איז אַנדערש פֿונעם גוף.
+lad	yid	La neshama es diferente del puerpo.	די נשמה איז אַנדערש פֿונעם קערפּער.
+lad	yid	La shara es vedre.	דער וואַלד איז גרין.
+lad	yid	Las palavras son emportantes.	ווערטער זענען וויכטיק.
+lad	yid	La vida es kurta.	דאָס לעבן איז קורץ.
+lad	yid	Leila mora en Teman.	ליילע וווינט אין תּימן.
+lad	yid	Lo le kero dar a Miri.	איך וויל עס געבן מערין.
+lad	yid	Lo puedo atakanar.	איך קען אים צו רעכט מאַכן.
+lad	yid	Lo puedo atakanar.	איך קען עס צו רעכט מאַכן.
+lad	yid	Los arvoles biven.	ביימער לעבן.
+lad	yid	Los arvoles son organizmos bivos.	ביימער זענען לעבעדיקע אָרגאַניזמען.
+lad	yid	Los byervos son emportantes.	ווערטער זענען וויכטיק.
+lad	yid	Los gatos son animales.	קעץ זענען חיות.
+lad	yid	Los israelianos avlan ebreo.	ישׂראלדיקע רעדן העברעיִש.
+lad	yid	Los israelianos avlan ebreo.	ישׂראלדיקע רעדן עבֿריתּ.
+lad	yid	Los israelis avlan ivrit.	ישׂראלדיקע רעדן העברעיִש.
+lad	yid	Los israelis avlan ivrit.	ישׂראלדיקע רעדן עבֿריתּ.
+lad	yid	Los makabeos eran el Taliban djudio.	די מכּבייער זענען געווען דער ייִדישער טאַליבאַן.
+lad	yid	Los makabeos eran el Taliban djudio.	די מכּבים זענען געווען דער ייִדישער טאַליבאַן.
+lad	yid	Los makkabim eran el Taliban djudio.	די מכּבייער זענען געווען דער ייִדישער טאַליבאַן.
+lad	yid	Los makkabim eran el Taliban djudio.	די מכּבים זענען געווען דער ייִדישער טאַליבאַן.
+lad	yid	Los pasharos bolan.	פֿייגל פֿליִען.
+lad	yid	Los pasharos kantavan.	די פֿייגל האָבן געזונגען.
+lad	yid	Los pasharos no son reales.	פֿייגל זענען נישט אמת.
+lad	yid	Los pasharos no son reales.	פֿייגל זענען נישט רעאַל.
+lad	yid	Los pasharos pueden goler?	צי קענען פֿייגל שמעקן?
+lad	yid	Marx i Engels no eran neviim.	מאַרקס און ענגעלס זענען נישט געווען קיין נבֿיאים.
+lad	yid	Mati a Tom.	איך האָב דערהרגעט טאָמען.
+lad	yid	Merko, dunke egzisto.	איך קויף, דערפֿאַר בין איך.
+lad	yid	Mersi a todos.	אַ דאַנק אַלעמען.
+lad	yid	Mi ermana se esta ambezando Ido.	מײַן שוועסטער לערנט זיך אידאָ.
+lad	yid	Mi korason esta en el este, i yo esto en la fin del oeste.	מײַן האַרץ איז אין מזרח, און איך בין אין עק מערבֿ.
+lad	yid	Mi korason esta en el oriente, i yo esto en la fin del oksidente.	מײַן האַרץ איז אין מזרח, און איך בין אין עק מערבֿ.
+lad	yid	Mi madre es djudia i mi padre es polako.	מײַן מאַמע איז אַ ייִד, און מײַן טאַטע אַ פּאָליאַק.
+lad	yid	Mi padre es djudio i mi madre es araba.	מײַן טאַטע איז אַ ייִד און מײַן מאַמע, אַן אַראַבערין.
+lad	yid	Mi padre esta aki.	מײַן טאַטע איז דאָ.
+lad	yid	Mi pais tiene plajes maraviyozas.	מײַן לאַנד האָט וווּנדערלעכע פּלאַזשעס.
+lad	yid	Mis kriaturas moran en Roma.	מײַנע קינדער וווינען אין רוים.
+lad	yid	Moramos en Almania.	מיר וווינען אין דײַטשלאַנד.
+lad	yid	Moro en Rio de Djenero, Brasil.	איך וווין אין ריִאָ־⁠דע־⁠זשאַנייראָ, בראַזיל.
+lad	yid	Moro en Rio.	איך וווין אין ריִאָ.
+lad	yid	Moshe es un sefaradi.	משה איז אַ ספֿרדישער.
+lad	yid	Nevruz alegre!	אַ פֿריילעכן נאָוורוז!
+lad	yid	No devemos de avlar de Tom.	מיר דאַרפֿן נישט רעדן פֿון טאָמען.
+lad	yid	No era emportante.	ס׳איז נישט געווען וויכטיק.
+lad	yid	No es djudia.	זי איז נישט קיין ייִד.
+lad	yid	No es djudio.	ער איז נישט קיין ייִד.
+lad	yid	No keremos una gerra.	מיר ווילן נישט קיין מלחמה.
+lad	yid	No kero muncho.	איך וויל נישט קיין סך.
+lad	yid	No konoses a Tom.	דו קענסט נישט טאָמען.
+lad	yid	No konosesh a Tom.	איר קענט נישט טאָמען.
+lad	yid	No kreyo mas en el Dio.	איך גלייב מער נישט אין גאָט.
+lad	yid	No me plazen los portokales.	כ׳האָב נישט ליב מאַראַנצן.
+lad	yid	Nonika mos desho la vida.	באָבעשי איז אַוועק פֿון דער וועלט.
+lad	yid	No puedo komer kezo.	איך קען נישט עסן קיין קעז.
+lad	yid	No tienes munchas paras.	דו האָסט נישט קיין סך געלט.
+lad	yid	No todos los djudios avlan ivrit.	נישט אַלע ייִדן רעדן העברעיִש.
+lad	yid	No todos los djudios son relijiozos.	נישט אַלע ייִדן זענען פֿרום.
+lad	yid	Nunka.	קיין מאָל נישט.
+lad	yid	Onde esta mi ija?	וווּ איז מײַן טאָכטער?
+lad	yid	Onde esta mi ijo?	וווּ איז מײַן זון?
+lad	yid	Onde?	וווּ?
+lad	yid	Otro mundo es posivle?	אַן אַנדער וועלט איז מעגלעך?
+lad	yid	Otro mundo es posivle?	צי איז אַן אַנדער וועלט מעגלעך?
+lad	yid	Piedre pezgo.	פֿאַרליר וואָג.
+lad	yid	Podemos ayudar a Tom.	מיר קענען העלפֿן טאָמען.
+lad	yid	Refua shelema!	זאָלסט האָבן אַ רפֿואה־⁠שלמה!
+lad	yid	Sami mora en Teman.	סאַמי וווינט אין תּימן.
+lad	yid	Sami tiene una maymona.	סאַמי האָט אַ מאַלפּע.
+lad	yid	Si, lo ize.	יאָ, איך האָב עס געטאָן.
+lad	yid	Si, por favor.	יאָ, זײַ אַזוי גוט.
+lad	yid	Si, por favor.	יאָ, זײַט אַזוי גוט.
+lad	yid	So djudia?	צי בין איך אַ ייִד?
+lad	yid	So djudio?	צי בין איך אַ ייִד?
+lad	yid	Somos djudios.	אונז זענען אידן.
+lad	yid	Somos djudios.	מיר זענען ייִדן.
+lad	yid	Somos una nasion independente.	מיר זענען אַן אומאָפּהענגיקע אומה.
+lad	yid	Son personas.	זיי זענען מענטשן.
+lad	yid	Son rumanas?	צי זענען זיי רומענערין?
+lad	yid	Son rumanos?	צי זענען זיי רומענער?
+lad	yid	Sosh emportantes.	איר זענט וויכטיק.
+lad	yid	Sosh emportante.	איר זענט וויכטיק.
+lad	yid	"Sos loka?" "Si."	„ביסטו משוגע?״ – „יאָ.״
+lad	yid	"Sos loko?" "Si."	„ביסטו משוגע?״ – „יאָ.״
+lad	yid	Sos mi ermano, Tom.	דו ביסט מײַן ברודער, טאָם.
+lad	yid	Su famiya es rika.	זײַן משפּחה איז רײַך.
+lad	yid	Su mishpaha es rika.	זײַן משפּחה איז רײַך.
+lad	yid	Su padre aborrese a los musulmanes.	איר טאַטע האָט פֿײַנט מוסולמענער.
+lad	yid	Te abandonaron.	זיי האָבן דיך פֿאַרלאָזט.
+lad	yid	Te plaze ir al sinema?	צי געפֿעלט דיר צו גיין אין קינאָ?
+lad	yid	Te plaze ir al sinema?	צי האָסטו ליב צו גיין אין קינאָ?
+lad	yid	Te plaze mi kulo?	דיר געפֿעלט מײַן תּחת?
+lad	yid	Te plazen los portokales?	צי געפֿעלן דיר מאַראַנצן?
+lad	yid	Tiene una mansana.	ער האָט אַן עפּל.
+lad	yid	Todo lo ke digo es una mintira.	אַלץ, וואָס איך זאָג, איז אַ ליגן.
+lad	yid	Todos entraron.	אַלע זענען אַרײַן.
+lad	yid	Todos entraron.	יעדערער איז אַרײַן.
+lad	yid	Todos los djudios son mesianikos, ama dingunos de los djudios no son kristianos.	אַלע ייִדן זענען משיחיש, אָבער קיין ייִדן זענען נישט קריסטלעך.
+lad	yid	Todos los paizes son falsos.	אַלע לענדער זענען פֿאַלש.
+lad	yid	Todos somos maymonas.	מיר זענען אַלע מאַלפּעס.
+lad	yid	Tom es intolerante.	טאָם איז אומטאָלעראַנט.
+lad	yid	Tom es linguisto.	טאָם איז אַ לינגוויסט.
+lad	yid	Tom estava en Australia.	טאָם איז געווען אין אויסטראַליע.
+lad	yid	Tom es un djenio muy estavle.	טאָם איז זייער אַ סטאַבילער גאָון.
+lad	yid	Tom pedrio pezgo.	טאָם האָט פֿאַרלוירן וואָג.
+lad	yid	Tom se desido de plantar un arvol.	טאָם האָט באַשלאָסן צו פֿאַרזעצן אַ בוים.
+lad	yid	Tom se esta ambezando djudo.	טאָם לערנט דזשודאָ.
+lad	yid	Tom se esta ambezando karate.	טאָם לערנט קאַראַטע.
+lad	yid	Tom se esta ambezando Krav Maga.	טאָם לערנט קרבֿ־מגע.
+lad	yid	Tom tiene dos madres.	טאָם האָט צוויי מאַמעס.
+lad	yid	Tu ermano esta hazino.	דײַן ברודער איז קראַנק.
+lad	yid	Turkia esta matando personas inosentes en Kurdistan.	טערקײַ הרגעט אומשולדיקע מענטשן אין קורדיסטאַן.
+lad	yid	Un mijor mundo es posivle.	אַ בעסערע וועלט איז מעגלעך.
+lad	yid	Vendo arabas.	איך פֿאַרקויף מאַשינען.
+lad	yid	Vijiti una meskita.	איך האָב געמאַכט אַ באַזוך אין אַ מעטשעט.
+lad	yid	Vos abandonaron.	זיי האָבן אײַך פֿאַרלאָזט.
+lad	yid	Vos avlash djudeo-espanyol?	צי רעדט איר דזשודעזמאָ?
+lad	yid	Vos avlash djudeo-espanyol?	צי רעדט איר ייִדיש־שפּאַניש?
+lad	yid	Vos avlash djudeo-espanyol?	צי רעדט איר לאַדינאָ?
+lad	yid	Vos plaze ir al sinema?	צי געפֿעלט אײַך צו גיין אין קינאָ?
+lad	yid	Vos plaze ir al sinema?	צי האָט איר ליב צו גיין אין קינאָ?
+lad	yid	Vos plazen los portokales?	צי געפֿעלן אײַך מאַראַנצן?
+lad	yid	Vuestro ermano esta hazino.	אײַער ברודער איז קראַנק.
+lad	yid	Yerushalayim es la sivdad mas santa i mas emportante de los djudios.	ירושלים איז די הייליקסטע און וויכטיקסטע שטאָט פֿון ייִדן.
+lad	yid	Yerushalayim es la sivdad santa de los djudios.	ירושלים איז די הייליקע שטאָט פֿון ייִדן.
 lad	yid	אבוריסקו אה לוס איפוקריטאס.	איך האָב פֿײַנט צבֿועקעס.
 lad	yid	אבﬞלאמוס איל קאביל אין קאזה.	מיר רעדן קאַביליש אין דער היים.
 lad	yid	אבﬞלאס פורטוגיז?	צי רעדסטו פּאָרטוגעזיש?
@@ -469,6 +663,8 @@ lad	yid	איסטה מאנסאנה איס בﬞידרי.	אָט דער עפּל �
 lad	yid	איסטה מאנסאנה איס בﬞידרי.	דער עפּל איז גרין.
 lad	yid	איסטו מילדאנדו איל קוראן.	איך לייען דעם קאָראַן.
 lad	yid	איסטו נו איס באראטו.	דאָס איז נישט ביליק.
+lad	yid	איפשטיין נו סי מאטו.	עפּשטיין האָט זיך נישט דערהרגעט.
+lad	yid	איפשטיין נו סי סואיסידו.	עפּשטיין האָט זיך נישט דערהרגעט.
 lad	yid	אל בﬞירמוס.	זײַט געזונט.
 lad	yid	אמהאריקו נו איס אונה לינגואה קולאי.	אַמהאַריש איז נישט קיין גרינגע שפּראַך.
 lad	yid	אמו לאס לינגואס סימיטיקאס.	איך האָב ליב סעמיטישע שפּראַכן.
@@ -518,6 +714,7 @@ lad	yid	טינגוי דוס גאטאס.	איך האָב צוויי קעץ.
 lad	yid	טינגוי דוס גאטוס.	איך האָב צוויי קעץ.
 lad	yid	טיניאמוס און גאטו.	מיר האָבן געהאַט אַ קאַץ.
 lad	yid	טינימוס און גאטו.	מיר האָבן אַ קאַץ.
+lad	yid	טי פלאזי מי קולו?	דיר געפֿעלט מײַן תּחת?
 lad	yid	טרומפ פאריסי קומו און בובﬞו.	טראָמפּ זעט אויס ווי אַ טיפּש.
 lad	yid	טרומפ פאריסי קומו און בובﬞו.	טראָמפּ זעט אויס ווי אַ נאַר.
 lad	yid	יא נו טי פואידי פﬞיריר.	זי קען דיך שוין נישט צעקלאַפּן.
@@ -553,6 +750,7 @@ lad	yid	לוס פאליסטינייאנוס סון סיריס אומאנוס.	ד
 lad	yid	לוס קאביליוס אבﬞלאן איל קאביל.	די קאַבילן רעדן קאַביליש.
 lad	yid	מאתיאו איס און קריסטייאנו סיקולאר.	מתּיא איז אַ וועלטלעכער קריסט.
 lad	yid	מוזוטרוס לוס סובﬞריביבﬞירימוס.	מיר וועלן זיי איבערלעבן.
+lad	yid	מוראמוס אין אלמאניה.	מיר וווינען אין דײַטשלאַנד.
 lad	yid	מוראמוס אין סירביאה.	מיר וווינען אין סערביע.
 lad	yid	מורו אין איטיופיה.	איך וווין אין עטיאָפּיע.
 lad	yid	מי איסטו אמביזאנדו אידו.	איך לערן זיך אידאָ.
@@ -560,6 +758,7 @@ lad	yid	מילדי איל קוראן.	איך האָב געלייענט דעם ק
 lad	yid	מילי טייני און גאטו.	מילי האָט אַ קאַץ.
 lad	yid	מילייוניס די מוסולמאנוס נו פוידין בﬞיסיטאר לה סיבﬞדאד סאנטה די ירושלים.	מיליאָנען מוסלמענער קענען נישט באַזוכן די הייליקע שטאָט ירושלים.
 lad	yid	מי נומברי איס יוחנן.	מײַן נאָמען איז יוחנן.
+lad	yid	מי פאאיס טייני פלאז׳יס מאראב׳ייוזאס.	מײַן לאַנד האָט וווּנדערלעכע פּלאַזשעס.
 lad	yid	נו איי רינאריס אקי.	ס׳איז נישטאָ דאָ קיין פֿוקסן.
 lad	yid	נואיל נו איס אונה פﬞיייסטה סיקולאר.	ניטל איז נישט קיין סעקולערער יום־טובֿ.
 lad	yid	נו לה בﬞיאו.	איך זע זי נישט.
@@ -587,8 +786,8 @@ lad	yid	סי קי טום איס לוקו.	איך ווייס, אַז טאָם א�
 lad	yid	פﬞיליז פסח!	אַ זיסן פּסח!
 lad	yid	פינסו, דונקי ביבﬞו.	איך טראַכט, דערפֿאַר טרינק איך.
 lad	yid	פסח אליגרי!	אַ זיסן פּסח!
-lad	yid	פﬞראנצייה איסטה אין לה איברופה אוקסידﬞינטאלה.	פֿראַנקרײַך איז אין מערבֿ־אייראָפּע.
 lad	yid	פﬞראנצייה איסטה אין לה איברופה אוקסידﬞינטאלה.	פֿראַנקרײך איז אין מערבֿ אײראָפּע.
+lad	yid	פﬞראנצייה איסטה אין לה איברופה אוקסידﬞינטאלה.	פֿראַנקרײַך איז אין מערבֿ־אייראָפּע.
 lad	yid	קארל מארקס אירה און קומוניסטו?	צי איז קאַרל מאַרקס געווען אַ קאָמוניסט?
 lad	yid	קואנטוס מוסולמאנוס מוראן אין לה סיבﬞדאד סאנטה די ירושלים?	וויפֿל מוסלמענער וואוינען אין דער הייליקער שטאָט ירושלים?
 lad	yid	קואנטוס מוסולמאנוס מוראן אין לה סיבﬞדאד סאנטה די ירושלים?	וויפֿל מוסלמענער וואוינען אין עיר־הקודש ירושלים?

@@ -26,6 +26,8 @@ ita	tlh_Latn	Essere o non essere?	taH pagh taHbe'?
 ita	tlh_Latn	È una ragazza.	be'Hom ghaH.
 ita	tlh_Latn	È un errore banale.	QaghHom 'oH.
 ita	tlh_Latn	Fa troppo caldo per me.	tlhoy jIHvaD ghun.
+ita	tlh_Latn	Giove è enorme.	rab ju'pIter.
+ita	tlh_Latn	Giove è enorme.	rab Sol vagh.
 ita	tlh_Latn	Gli umani sono strani.	taQ Human.
 ita	tlh_Latn	Gli umani sono strani.	taQ Humanpu'.
 ita	tlh_Latn	Hai male allo stomaco?	'oy''a' burghlIj.
@@ -44,11 +46,13 @@ ita	tlh_Latn	I gatti sono strani.	taQ vIghro'mey.
 ita	tlh_Latn	Il calendario ha molte belle immagini.	'IHbogh mIlloghmey law' ghaj 'ISjaH.
 ita	tlh_Latn	Il castello è aperto oggi?	DaHjaj poS'a' qach'a'?
 ita	tlh_Latn	Il fuoco è molto pericoloso.	Qobqu' qul.
+ita	tlh_Latn	Il mio gatto mi ama.	mumuSHa' vIghro'wIj.
 ita	tlh_Latn	Il motore non funziona.	Qapbe' QuQ.
 ita	tlh_Latn	Il nemico del mio nemico è mio amico.	jupwI' ghaH jaghwI' jagh'e'.
 ita	tlh_Latn	Il nome di mio padre è Robert.	robe'rIt 'oH vavwI' pong'e'.
 ita	tlh_Latn	Il re abusò del suo potere.	woQDaj ghong ta'.
 ita	tlh_Latn	Il serpente è vivo o morto?	yIn ghargh'a' pagh Heghpu'?
+ita	tlh_Latn	Il suo nuovo libro è meraviglioso.	Dun paq chu'Daj.
 ita	tlh_Latn	In un giorno ci sono ventiquattr'ore.	wa' jaj'e' bIH cha'maH loS repmey.
 ita	tlh_Latn	Io do la mela a John.	janvaD 'epIl naH vInob.
 ita	tlh_Latn	Io non lo so.	vISovbe'.
@@ -64,6 +68,7 @@ ita	tlh_Latn	John diede la mela a Mary.	me'rIyvaD 'epIl naH nob jan.
 ita	tlh_Latn	John ha dato la mela a Mary.	me'rIyvaD 'epIl naH nob jan.
 ita	tlh_Latn	La città è bella.	'IH veng.
 ita	tlh_Latn	La distanza tra le stelle è misurata in anni luce.	Hovmey joj chuq permeH loghqam lo'lu'.
+ita	tlh_Latn	La luna non è vuota, Tom.	woDbe' maS, tam.
 ita	tlh_Latn	La porta è aperta.	poS lojmIt.
 ita	tlh_Latn	La porta non era chiusa.	SoQbe' lojmIt.
 ita	tlh_Latn	La realtà è bella.	'IH DI'ruj.
@@ -73,6 +78,8 @@ ita	tlh_Latn	Lavati le mani prima di mangiare.	ghopDu' tISay'moH bISoppa'.
 ita	tlh_Latn	La vita è bella!	'IH yIn.
 ita	tlh_Latn	Lavoriamo di giorno e riposiamo di notte.	mavum qaStaHvIS pem 'ej maleS qaStaHvIS ram.
 ita	tlh_Latn	La zuppa è troppo salata.	tlhoy na' chatlh.
+ita	tlh_Latn	Le amavano.	bIH muSHa' chaH.
+ita	tlh_Latn	Le amavano.	chaH muSHa' chaH.
 ita	tlh_Latn	Lei dov'è?	nuqDaq ghaHtaH?
 ita	tlh_Latn	Lei è gelosa.	ghal ghaH.
 ita	tlh_Latn	Lei è una ragazza.	be'Hom ghaH.
@@ -81,6 +88,8 @@ ita	tlh_Latn	Lei ha un gatto.	vIghro' ghaj.
 ita	tlh_Latn	Lei ha un gatto.	vIghro' ghaj ghaH.
 ita	tlh_Latn	Lei si lamenta sempre del cibo.	reH Sojmo' bep.
 ita	tlh_Latn	L’errore si verifica regolarmente o sporadicamente? L’errore è riproducibile?	roD qaS Qaghvam pagh rut qaS? Qaghvam DaqaSqa'moHlaH'a'?
+ita	tlh_Latn	Li amavano.	bIH muSHa' chaH.
+ita	tlh_Latn	Li amavano.	chaH muSHa' chaH.
 ita	tlh_Latn	Lui è geloso.	ghal ghaH.
 ita	tlh_Latn	Lui ha un gatto.	vIghro' ghaj.
 ita	tlh_Latn	Lui ha un gatto.	vIghro' ghaj ghaH.
@@ -111,6 +120,7 @@ ita	tlh_Latn	Posso pagare con una carta di credito?	jIDIlmeH Huch chaw' vIlo'laH
 ita	tlh_Latn	Posso usare questo?	Dochvam vIlo'laH'a'?
 ita	tlh_Latn	Potresti aprire la porta?	lojmIt DapoSmoHlaH'a'?
 ita	tlh_Latn	Provi di nuovo.	yInIDqa'!
+ita	tlh_Latn	"Quando?" "Mai."	"ghorgh?" "not."
 ita	tlh_Latn	Questo tè è troppo amaro.	tlhoy wIb Darghvam.
 ita	tlh_Latn	Sami e Layla andarono a un ristorante.	Qe' lujaH Sa'mIy, leyla je.
 ita	tlh_Latn	Se Dio non esiste nel nostro mondo, allora creerò Dio con le mie stesse mani.	qo'majDaq Qun tu'lu'be'chugh, vaj Qun vIchenmoHmeH ghopDu'wIj vIlo' jIH'e'.
@@ -120,6 +130,7 @@ ita	tlh_Latn	Sono nato in Cina.	jungwoqDaq bIboghpu'.
 ita	tlh_Latn	Sono un amico di Robert.	rabe'rIt jup jIH.
 ita	tlh_Latn	Sono un dottore.	Qel jIH.
 ita	tlh_Latn	Sto comprando una rosa.	ro'Sa' vIje'lI'.
+ita	tlh_Latn	Teme la morte.	HeghvIp.
 ita	tlh_Latn	Tutte le tragedie terminano con una morte.	Hoch Seng lutmey bertlhamDaq Heghlu'.
 ita	tlh_Latn	Un altro mondo è possibile.	qIt qo' pIm.
 ita	tlh_Latn	Uno dei bambini studia, ma gli altri suonano.	ghojtaH wa' puq, 'ach QongtaH latlhpu'.

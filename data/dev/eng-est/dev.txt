@@ -26,14 +26,20 @@ eng	est	Are your children with you?	Kas sul on lapsed kaasas?
 eng	est	Are you studying?	Kas sa õpid?
 eng	est	Are you sure she can do it?	Kas sa oled kindel, et ta suudab seda teha?
 eng	est	Aron killed Elizabeth.	Aron tappis Elisabethi.
+eng	est	As I wasn't invited, I'll stay at home.	Kuna mind ei kutsutud, siis jään koju.
+eng	est	A stunning view was waiting for us from the top of the mountain.	Mäetipust ootas meid vapustav vaade.
 eng	est	At first, I mistook you for your brother.	Alguses ma ajasin sinu su vennaga segamini.
 eng	est	At first sight, the question seemed easy.	Esimese silmapilgul paistis küsimus kerge olevat.
 eng	est	Attention!	Tähelepanu!
+eng	est	Autumn begins in October.	Sügis algab oktoobris.
 eng	est	Be careful next time.	Ole ettevaatlik järgmisel korral.
 eng	est	Bedouins live in the desert.	Beduiinid elavad kõrbetes.
 eng	est	Boys are strange sometimes.	Poisid on mõnikord naljakad.
+eng	est	Boys will be boys, and girls will be girls.	Poistest saavad poisid ja tüdrukutest tüdrukud.
 eng	est	Bring along your friend.	Võta oma sõber kaasa.
+eng	est	Bring your compass along.	Võta oma kompass kaasa.
 eng	est	Burj Khalifa is currently the tallest skyscraper in the world.	Burj Khalīfah on praegu maailma kõrgeim pilvelõhkuja.
+eng	est	But what kind of problems do you have?	Aga millised probleemid teil on?
 eng	est	Can I get by the guard?	Kas ma saan valvurist mööda?
 eng	est	Can I help with breakfast?	Kas ma saan hommikueinega aidata?
 eng	est	Can I pay for the book by check?	Kas ma saan raamatu eest tšekiga maksta?
@@ -61,6 +67,7 @@ eng	est	Did you brush your teeth?	Kas sa pesid hambaid?
 eng	est	Did you do a background check?	Kas sa tegid taustauuringu?
 eng	est	Did you get any work done?	Kas sa jõudsid midagi oma tööst ära teha?
 eng	est	Did you guys quit making music?	Kas te olete muusika tegemise ära lõpetanud?
+eng	est	Did you like the food?	Kas teile meeldis toit?
 eng	est	Did you two break up?	Kas te läksite lahku?
 eng	est	Die!	Sure!
 eng	est	"Does he like music?" "Yes, he does."	"Kas talle meeldib muusika?" "Jah, talle meeldib."
@@ -91,6 +98,8 @@ eng	est	Do you have a favorite singer?	Kas sul on lemmiklaulja?
 eng	est	Do you have a hammer?	Kas sul on haamer?
 eng	est	Do you have an English dictionary?	Kas teil on inglise sõnastik?
 eng	est	Do you have a nickname?	Kas sul on hüüdnimi?
+eng	est	Do you have anything else to drink?	Kas sul midagi muud juua on?
+eng	est	Do you have anything else to drink?	Kas teil midagi muud juua on?
 eng	est	Do you know?	Kas tead?
 eng	est	Do you know this?	Kas sa tead seda?
 eng	est	Do you know what to bring?	Kas sa tead, mida kaasa võtta?
@@ -106,6 +115,9 @@ eng	est	Do you want a cup of coffee?	Kas sa sooviksid tassikest kohvi?
 eng	est	Do you want anything?	Kas sa tahad midagi?
 eng	est	Do you want anything to eat?	Kas sa tahad midagi süüa?
 eng	est	Do you want to be my friend?	Kas sa tahad olla minu sõber?
+eng	est	Do you want to go?	Kas sa tahad minna?
+eng	est	Do you want to go?	Kas te tahate minna?
+eng	est	Do you work as an electrician?	Kas sa töötad elektrikuna?
 eng	est	Draw me a sheep...	Joonista mulle lammas...
 eng	est	Drive slowly.	Sõida aeglaselt.
 eng	est	Drive slowly.	Sõitke aeglaselt.
@@ -144,6 +156,7 @@ eng	est	He accepted our offer.	Ta võttis meie pakkumise vastu.
 eng	est	He attempted to swim across the river.	Ta proovis ujuda üle jõe.
 eng	est	He became a pianist.	Temast sai pianist.
 eng	est	He breathed deeply.	Ta hingas sügavalt.
+eng	est	He came fifth in the race.	Ta tuli jooksuvõistlusel viiendaks.
 eng	est	He came.	Ta tuli.
 eng	est	He dashed out of the store.	Ta tormas poest välja.
 eng	est	He didn't find what I hid.	Ta ei leidnud seda, mille ma ära peitsin.
@@ -167,6 +180,7 @@ eng	est	He is such a bad person that everybody dislikes him.	Ta on niivõrd halb
 eng	est	He is very meticulous in his work.	Ta on oma töös väga põhjalik.
 eng	est	He is very sensitive.	Ta on väga tundlik.
 eng	est	Helen is by nature an optimist.	Helen on loomu poolest optimist.
+eng	est	He lives in Greece.	Ta elab Kreekas.
 eng	est	Hello. Are you Jackie Scott?	Tere. Kas sa oled Jackie Scott?
 eng	est	Hello, how are you?	Tere, kuidas sul läheb?
 eng	est	Hello. May I speak to Mr Johnson, please?	Tere. Kas ma saaksin rääkida härra Johnsoniga, palun?
@@ -190,10 +204,14 @@ eng	est	He slept on the living room couch.	Ta magas elutoa diivanil.
 eng	est	He slipped on a banana peel.	Ta libises banaanikoorel.
 eng	est	He's not my cousin.	Ta ei ole mu onupoeg.
 eng	est	He's not my cousin.	Ta ei ole mu tädipoeg.
+eng	est	He's not my dad.	Ta ei ole minu isa.
+eng	est	He's not responding at all.	Ta ei reageeri üldse.
 eng	est	He's the man of the house.	Tema on perepea.
 eng	est	He swallowed his pride.	Ta neelas oma uhkuse alla.
 eng	est	He's wearing a red shirt; it's a sign!	Ta kannab punast särki – see on märk!
 eng	est	He's young and attractive.	Ta on noor ja kena väljanägemisega.
+eng	est	He wants to learn Estonian.	Ta tahab õppida eesti keelt.
+eng	est	He was born in China but lives in Angola.	Ta sündis Hiinas, kuid elab Angolas.
 eng	est	He was cleaning his room.	Ta koristas oma tuba.
 eng	est	He was sleeping under the tree.	Ta magas puu all.
 eng	est	He was the first man to climb Mt. Fuji in winter.	Ta oli esimene mees, kes ronis Fuji mäe otsa talvel.
@@ -209,9 +227,13 @@ eng	est	Home is where the heart is and my heart is always with my family.	Kodu o
 eng	est	How about a cup of coffee?	Kuidas oleks ühe tassikese kohviga?
 eng	est	How cute!	Kui armas!
 eng	est	How do I get to the bus station?	Kuidas ma saan bussijaama?
+eng	est	However, my shoulder hurts.	Kuid mu õlg valutab.
+eng	est	How long is the surgery?	Kui kaua operatsioon kestab?
+eng	est	How long will that nice weather last?	Kui kaua see ilus ilm kestab?
 eng	est	How many hats do you own?	Mitu mütsi sul on?
 eng	est	How many mangoes do you want?	Mitu mangot sa tahad?
 eng	est	How many shots did you fire?	Kui mitu korda sa tulistasid?
+eng	est	How much did this pair of glasses cost?	Kui palju need prillid maksid?
 eng	est	How much does the cake cost?	Kui palju see kook maksab?
 eng	est	How often do you go abroad?	Kui tihti sa välismaal käid?
 eng	est	How old are you? - I'm twenty-three years old.	"Kui vana sa oled?" — "Ma olen kahekümne kolme aastane."
@@ -236,10 +258,12 @@ eng	est	I asked Tom to watch my things.	Ma palusin Tomil oma asju valvata.
 eng	est	I barely made the train.	Ma jõudsin vaevu rongile.
 eng	est	I bear no grudge against you.	Ma ei kanna su vastu vimma.
 eng	est	I became his friend.	Minust sai tema sõber.
+eng	est	I bought an avocado last night.	Ma ostsin eile õhtul avokaado.
 eng	est	I brush my teeth twice a day.	Ma pesen hambaid kaks korda päevas.
 eng	est	I can barely move my arms.	Ma suudan vaevu oma käsi liigutada.
 eng	est	I can go there by foot.	Ma võin sinna jala minna.
 eng	est	I can make no promises.	Ma ei saa midagi lubada.
+eng	est	I cannot see.	Ma ei näe.
 eng	est	I can run.	Ma suudan joosta.
 eng	est	I can't believe that the pizza still isn't done.	Ma ei suuda uskuda, et pitsa pole ikka veel valmis.
 eng	est	I can't decide whether or not to tell them about the party.	Ma ei suuda otsustada, kas rääkida neile sellest peost või mitte.
@@ -263,11 +287,14 @@ eng	est	I didn't steal it. I only borrowed it.	Ma ei varastanud seda. Ma ainult 
 eng	est	I didn't unlock that door.	Ma ei teinud seda ust lukust lahti.
 eng	est	I didn't want anything.	Ma ei tahtnud midagi.
 eng	est	I do not have money with me at the moment.	Mul ei ole hetkel raha kaasas.
+eng	est	I do not read books.	Ma ei loe raamatuid.
 eng	est	I do not sing.	Ma ei laula.
 eng	est	I don't have anyone who'd travel with me.	Mul pole kedagi, kes minuga reisile tuleks.
 eng	est	I don't hold grudges.	Ma ei pea vimma.
 eng	est	I don't like cucumbers.	Mulle ei meeldi kurgid.
+eng	est	I don't like eating tomatoes.	Mulle ei meeldi tomateid süüa.
 eng	est	I don't like the idea, but we'll have to let him choose his team.	Kuigi mulle see mõte ei meeldi, peame laskma tal oma meeskonna valida.
+eng	est	I don't remember why we went there.	Ma ei mäleta, miks me sinna läksime.
 eng	est	I don't speak Estonian.	Mina ei räägi eesti keelt.
 eng	est	I don't think I love you anymore.	Ma arvan, et ma ei armasta sind enam.
 eng	est	I don't think that I love you anymore.	Ma arvan, et ma ei armasta sind enam.
@@ -276,16 +303,20 @@ eng	est	I don't think Tom is busy.	Ma ei usu, et Tom on hõivatud.
 eng	est	I don't think you should go to work if you still have a cough.	Ma arvan, et sa ei peaks tööle minema, kui sul ikka veel köha on.
 eng	est	I don't trust you anymore.	Ma ei usalda sind enam.
 eng	est	I don't understand.	Ma ei saa aru.
+eng	est	I don't understand what they're saying.	Ma ei saa aru, mida nad räägivad.
 eng	est	I don't understand you.	Ma ei saa sinust aru.
 eng	est	I don't want to go to school.	Ma ei taha kooli minna.
 eng	est	I drink the water.	Ma joon vett.
+eng	est	If anyone calls, I'm not here.	Kui keegi helistab, siis mind pole.
 eng	est	I feel fine today.	Ma tunnen ennast täna hästi.
 eng	est	I feel sick.	Mul on süda paha.
 eng	est	I fell down the stairs and hit my head.	Kukkusin trepist alla ja lõin pea ära.
 eng	est	I felt a severe pain on the shoulder.	Ma tundsin õlas tugevat valu.
 eng	est	If I had worked hard in my youth, I would be successful now.	Kui ma oleksin noorena rohkem töötanud, oleksin praegu edukas.
 eng	est	If only you had told me the whole story at that time!	Kui sa vaid oleksid mulle kogu loo ära rääkinud tol hetkel!
+eng	est	"If the translation is correct, why don't you like it?" "Because it was made by a machine."	"Kui tõlge on õige, siis miks see teile ei meeldi?" "Sest selle tegi masin."
 eng	est	If Tom calls, what should I say?	Kui Tom helistab, mis ma peaksin ütlema?
+eng	est	If we buy this, we won't have any money left.	Kui me selle ostame, ei jää meil üldse raha alles.
 eng	est	If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.	Kui sa räägid inimesega keeles, mida ta mõistab, puudutab see ta mõistust. Kui sa räägid temaga tema enda keeles, puudutab see ta südant.
 eng	est	If you've never done something so stupid before, go ahead and try.	Kui sa ei ole kunagi midagi nii rumalat teinud, siis lase käia ja proovi ära.
 eng	est	If you would talk less and listen more, you might learn something.	Kui sa vähem räägiksid ja rohkem kuulaksid, siis sa võibolla õpiksid ka midagi.
@@ -307,6 +338,8 @@ eng	est	I have finally received my British passport.	Lõpuks olen ma oma Briti p
 eng	est	I have no money to buy the dictionary.	Selle sõnastiku ostmiseks mul tõesti raha pole.
 eng	est	I have nothing to eat.	Mul ei ole midagi süüa.
 eng	est	I have not read all the books.	Ma ei ole kõiki raamatuid lugenud.
+eng	est	I haven't showered yet.	Ma pole veel duši all käinud.
+eng	est	I haven't taken a shower yet.	Ma pole veel duši all käinud.
 eng	est	I have three computers.	Mul on kolm arvutit.
 eng	est	I have three cousins.	Mul on kolm nõbu.
 eng	est	I have three dogs.	Mul on kolm koera.
@@ -337,6 +370,7 @@ eng	est	I know what you were doing.	Ma tean, mida sa tegid.
 eng	est	I like eating.	Mulle meeldib süüa.
 eng	est	I like eggs for breakfast, but my sister prefers oatmeal.	Mulle meeldib hommikusöögiks süüa mune, kuid mu õde eelistab kaerahelbeputru.
 eng	est	I like strawberry ice cream.	Mulle meeldib maasikajäätis.
+eng	est	I like this wristwatch.	Mulle meeldib see käekell.
 eng	est	I like to play the piano.	Mulle meeldib mängida klaverit.
 eng	est	I like what you did.	Mulle meeldib see, mida sa tegid.
 eng	est	I live in a city.	Elan linnas.
@@ -345,6 +379,8 @@ eng	est	I live in Montenegro.	Ma elan Montenegros.
 eng	est	I live on the tenth floor.	Ma elan kümnendal korrusel.
 eng	est	I'll be back in thirty minutes.	Ma tulen tagasi kolmekümne minuti pärast.
 eng	est	I'll be with Tom and Mary.	Ma olen koos Tomi ja Mariga.
+eng	est	I'll buy her a pan.	Ma ostan talle panni.
+eng	est	I'll buy him a pan.	Ma ostan talle panni.
 eng	est	I'll fight to the death.	Ma võitlen surmani.
 eng	est	I'll give you mine. I don't like it anyway.	Ma annan sulle enda oma. See nagunii ei meeldi mulle.
 eng	est	I'll have to live with it.	Ma pean sellega leppima.
@@ -366,6 +402,7 @@ eng	est	I'm 19.	Olen 19.
 eng	est	I'm 19.	Olen 19 aastat vana.
 eng	est	I'm a diabetic.	Mul on suhkruhaigus.
 eng	est	I'm afraid Tom isn't here.	Kardan, et Tom ei ole siin.
+eng	est	Imagine that you have a wife.	Kujuta ette, et sul on naine.
 eng	est	I'm an excellent listener.	Ma olen suurepärane kuulaja.
 eng	est	I'm angry.	Ma olen vihane.
 eng	est	I'm an islander.	Ma olen saarlane.
@@ -375,6 +412,7 @@ eng	est	I'm doing the speed limit.	Ma ületan kiirust.
 eng	est	I meet her once a week.	Ma kohtun temaga korra nädalas.
 eng	est	I'm falling.	Ma langen.
 eng	est	I'm fat.	Ma olen paks.
+eng	est	I'm forced to study.	Mind sunnitakse õppima.
 eng	est	I'm glad to be of service.	Mul on hea meel, et sain aidata.
 eng	est	I'm going out today.	Ma lähen täna välja.
 eng	est	I'm going to do that.	Ma teen seda.
@@ -442,15 +480,22 @@ eng	est	Is my French really that bad?	Kas mu prantsuse keel on tõesti nii halb?
 eng	est	Isn't it boring?	Kas see pole mitte igav?
 eng	est	I speak French and English.	Ma räägin prantsuse ja inglise keelt.
 eng	est	I spotted Tom immediately.	Ma märkasin Tomi kohe.
+eng	est	Is she your aunt?	Kas ta on sinu tädi?
+eng	est	Is she your aunt?	Kas ta on teie tädi?
 eng	est	Is that blood?	Kas see on veri?
 eng	est	Is that really science?	Kas see on tõesti teadus?
+eng	est	Is there a coffee machine in the kitchen?	Kas köögis on kohvimasin?
 eng	est	Is there anything special I can do for you?	Kas on midagi erilist, mida ma sinu heaks teha saaksin?
 eng	est	Is there a youth hostel near here?	Kas siin lähedal on noorte hosteli?
 eng	est	Is this your first trip abroad?	Kas see on su esimene reis välismaale?
+eng	est	Is today a bad day?	Kas täna on halb päev?
 eng	est	I study abroad.	Ma õpin välismaal.
+eng	est	I swear to God.	Ma vannun jumala nimel.
+eng	est	It annoys me that you're always late and I have to wait for you all the time.	Mind ajab närvi, et sa jääd alati hiljaks ja ma pean sind kogu aeg ootama.
 eng	est	It doesn't matter!	Pole oluline!
 eng	est	It happened three years ago.	See juhtus kolm aastat tagasi.
 eng	est	I think I have a theory about that.	Arvan, et mul on selle kohta teooria.
+eng	est	I think I'll love you until I die.	Ma arvan, et armastan sind surmani.
 eng	est	I think it's time for me to admit that I never cared about you.	Ma arvan, et on aeg tunnistada, et ma ei ole sust kunagi hoolinud.
 eng	est	I think that he has mumps.	Ma arvan, et tal on mumps.
 eng	est	I think, therefore I am.	Mõtlen, järelikult olen.
@@ -467,6 +512,7 @@ eng	est	I thought you hated me.	Ma arvasin, et sa vihkad mind.
 eng	est	I thought you wanted to play.	Ma arvasin, et sa tahad mängida.
 eng	est	It is a big dog.	See on suur koer.
 eng	est	It is already morning.	Juba on hommik.
+eng	est	It is your problem.	See on sinu probleem.
 eng	est	It'll be interesting for sure.	See on kindlasti huvitav.
 eng	est	It'll only make matters worse.	See teeb asja ainult hullemaks.
 eng	est	It looks like it's going to rain, right?	Paistab, et hakkab sadama, kas pole?
@@ -477,9 +523,13 @@ eng	est	I told you it didn't work.	Ma ütlesin sulle, et see ei toiminud.
 eng	est	I traveled abroad twice in my youth.	Noorena reisisin välismaale kahel korral.
 eng	est	I try to do it once a week.	Ma üritan seda kord nädalas teha.
 eng	est	It's already been taken care of.	See on juba korda aetud.
+eng	est	It's a nightmare.	See on õudusunenägu.
 eng	est	It's an interesting language.	See on huvitav keel.
 eng	est	It's a pity.	Kahju.
+eng	est	It's best if you don't tell her anything.	Parem on kui sa ei ütle talle mitte midagi.
+eng	est	It's hard to get good help.	Raske on saada head abi.
 eng	est	It's me!	See olen mina!
+eng	est	It's Murphy's law.	See on Murphy seadus.
 eng	est	It's not as cold today as it was yesterday.	Täna ei ole nii külm kui eile.
 eng	est	It's not safe to split up.	Lahku minna poleks turvaline.
 eng	est	It's obvious that you're wrong.	Ilmselgelt sa eksid.
@@ -496,6 +546,7 @@ eng	est	I've never been there.	Ma pole seal kunagi käinud.
 eng	est	I've never met Tom's wife.	Ma ei ole kunagi Tomi naist näinud.
 eng	est	I've still got a lot to learn.	Mul on ikka veel palju õppida.
 eng	est	I've studied English for five years.	Ma olen viis aastat inglise keelt õppinud.
+eng	est	I voted "remain".	Ma hääletasin jäämise poolt.
 eng	est	I want a good dictionary.	Ma tahan head sõnaraamatut.
 eng	est	I want a piece of cake.	Ma tahan torditükki.
 eng	est	I wanted to be with him and that is why I left my friends from the background.	et tahtsin nagu temaga olla ja jätsin sõbrannad kus kurat
@@ -539,6 +590,8 @@ eng	est	Keep it.	Jäta endale.
 eng	est	Keep it.	Jäta see endale.
 eng	est	Ken calls me every day.	Ken helistab mulle iga päev.
 eng	est	Kiss me.	Anna mulle musi.
+eng	est	Learn your language.	Õpi oma keelt.
+eng	est	Learn your language.	Õppige oma keelt.
 eng	est	Less is more.	Vähem on parem.
 eng	est	Let me see what we can do.	Las ma vaatan mis me teha saaksime.
 eng	est	Let me tell you what I did today.	Las ma räägin Sulle, mida ma täna tegin.
@@ -561,20 +614,25 @@ eng	est	Maybe you should lie down.	Võibolla peaksid sa pikali heitma.
 eng	est	May I have your attention?	Kas ma saaksin su tähelepanu?
 eng	est	Men love women, women love kids, kids love hamsters, and hamsters don't love anyone.	Meestele meeldivad naised, naistele meeldivad lapsed, lastele meeldivad hamstrid ja hamstritele ei meeldi keegi.
 eng	est	Merry Christmas!	Häid jõule!
+eng	est	Millie's got blue eyes.	Milliel on sinised silmad.
 eng	est	"Mirror, mirror on the wall. Who in the land is fairest of all?" And then the mirror would always reply: "You, my queen, are fairest of all."	"Peeglike, peeglike seina peal. Kes on kauneim kogu maal?" Ja peeglike alati vastab: "Teie, mu kuninganna, olete kauneim kogu maal."
 eng	est	Misako married a Canadian last June.	Misako abiellus eelmisel juunikuul kanadalasega.
+eng	est	Mom! Hurry!	Ema! Kiirusta!
 eng	est	Morning, sleepyheads!	Hommikust, unimütsid!
 eng	est	Mr Koizumi is really full of himself.	Härra Koizumi on väga ennast täis.
+eng	est	My answers were correct.	Minu vastused olid õiged.
 eng	est	My brother lives in a small village.	Mu vend elab väikeses külas.
 eng	est	My dad is a lawyer.	Mu isa on advokaat.
 eng	est	My father played the trumpet, and my mother played the violin.	Mu isa mängis trompetit ning mu ema mängis viiulit.
 eng	est	My foot's asleep again!	Mu jalg on jälle surnud!
+eng	est	My God is even stronger!	Mu jumal on veelgi tugevam!
 eng	est	My house is by the ocean.	Minu maja asub ookeani ääres.
 eng	est	My mom doesn't speak English very well.	Minu ema ei räägi inglise keelt väga hästi.
 eng	est	My mother is making a cake for my father.	Mu ema teeb isale torti.
 eng	est	My mother loves music.	Minu ema armastab muusikat.
 eng	est	My name is Sally.	Minu nimi on Sally.
 eng	est	My neighbor must go to work very early, because in the morning his car is never in front of his house.	Mu naaber ilmselt läheb tööle väga vara, sest tema auto ei ole hommikuti kunagi oma maja ees.
+eng	est	My parents helped us buy a new apartment.	Minu vanemad aitasid meil uue korteri osta.
 eng	est	My pen is out of ink.	Mu pastakas sai tühjaks.
 eng	est	My sunglasses were stolen at the beach yesterday.	Mu päikeseprillid varastati eile rannas ära.
 eng	est	My younger brother watches TV.	Mu noorem vend vaatab televiisorit.
@@ -599,6 +657,7 @@ eng	est	On your marks, get set, go!	Tähelepanu, valmis olla, start!
 eng	est	Open up.	Suu lahti!
 eng	est	Open up.	Tee lahti.
 eng	est	Our grandfather is ill.	Meie vanaisa on haige.
+eng	est	Our parents helped us buy a new apartment.	Meie vanemad aitasid meil uue korteri osta.
 eng	est	Oysters don't agree with me.	Austrid ei nõustu minuga.
 eng	est	Perfect!	Ideaalne!
 eng	est	Perfect!	Perfektne!
@@ -613,6 +672,7 @@ eng	est	Please don't argue.	Palun ära vaidle.
 eng	est	Please don't interrupt me, Tom.	Tom, palun ära sega mulle vahele.
 eng	est	Please don't misunderstand.	Palun ära saa valesti aru.
 eng	est	Please don't quit.	Palun ära loobu.
+eng	est	Please don't walk too fast.	Palun ärge kõndige liiga kiiresti.
 eng	est	Please do so.	Palun tee nii.
 eng	est	Pleased to meet you. I am an anteater.	Meeldiv kohtuda. Ma olen sipelgaõgija.
 eng	est	Please help me.	Palun aidake mind.
@@ -635,15 +695,19 @@ eng	est	Rome was the capital of the world.	Rooma oli maailma pealinn.
 eng	est	Russia is big.	Venemaa on suur.
 eng	est	Say hello to your friends.	Tervita oma sõpru.
 eng	est	She began to gain weight.	Ta hakkas kaalus juurde võtma.
+eng	est	She bought a new shirt.	Ta ostis uue särgi.
+eng	est	She came fifth in the race.	Ta tuli jooksuvõistlusel viiendaks.
 eng	est	She finds reading boring.	Tema arvates on lugemine igav.
 eng	est	She forgot to turn off the light.	Ta unustas lampi välja lülitada.
 eng	est	She has three children.	Tal on kolm last.
 eng	est	She is afraid you might be lost.	Ta kardab et te olete eksinud.
 eng	est	She is engaged in social work.	Ta on hõivatud sotsiaaltööga.
+eng	est	She is far from beautiful.	Ta pole kaugeltki ilus.
 eng	est	She keeps her hair in curls.	Ta hoiab oma juukseid lokkis.
 eng	est	She lied.	Ta valetas.
 eng	est	She lives near the beach.	Ta elab ranna lähedal.
 eng	est	She's probably very busy.	Ta on tõenäoliselt väga hõivatud.
+eng	est	She wrote one of the most famous novels of all time.	Ta kirjutas ühe kõigi aegade kuulsaima romaani.
 eng	est	Shit.	Kurat.
 eng	est	Should I make something special for dinner?	Kas ma peaksin õhtusöögiks midagi erilist valmistama?
 eng	est	Show yourself!	Näita ennast!
@@ -681,6 +745,7 @@ eng	est	That flag is very beautiful.	See lipp on väga ilus.
 eng	est	That isn't a toy.	See pole mänguasi.
 eng	est	That makes it even more special.	See teeb selle isegi veel erilisemaks.
 eng	est	That movie wasn't as interesting as I expected.	See film ei olnud nii huvitav kui ma ootasin.
+eng	est	That restaurant is too expensive.	See restoran on liiga kallis.
 eng	est	That's absurd!	See on absurd!
 eng	est	That's an interesting language.	See on huvitav keel.
 eng	est	That's a very simple question.	See on väga lihtne küsimus.
@@ -699,6 +764,7 @@ eng	est	The bird is in the sky.	Lind on taevas.
 eng	est	The birds flew to the south.	Linnud lendasid lõunasse.
 eng	est	The bottle is on the upper shelf.	Pudel on ülemisel riiulil.
 eng	est	The box was empty.	Karp oli tühi.
+eng	est	The boy bought a dog.	Poiss ostis koera.
 eng	est	The boy buys a dog.	Poiss ostab koera.
 eng	est	The boy I love doesn't love me.	Poiss, keda ma armastan, ei armasta mind.
 eng	est	The cat is in the bag.	Kass on kotis.
@@ -713,6 +779,7 @@ eng	est	The engine works well.	Mootor töötab hästi.
 eng	est	The export business isn't doing well.	Ekspordisektori seis on nutune.
 eng	est	The father is very tired.	Isa on väga väsinud.
 eng	est	The film is boring.	Film on igav.
+eng	est	The flight leaves in forty-five minutes.	Lend väljub neljakümne viie minuti pärast.
 eng	est	The funeral is tomorrow.	Matused on homme.
 eng	est	The girl is drinking tea.	Tüdruk joob tee.
 eng	est	The guests are in the kitchen.	Külalised on köögis.
@@ -735,8 +802,10 @@ eng	est	The office is being cleaned right now.	Kontorit koristatakse praegu.
 eng	est	The office was cleaned yesterday.	Kontorit koristati eile.
 eng	est	The people's hardships are our hardships.	Inimeste raskused on meie raskused.
 eng	est	The population of Italy is about half as large as that of Japan.	Itaalia rahvaarv moodustab umbes poole Jaapani rahvaarvust.
+eng	est	The president likes to travel.	Presidendile meeldib reisida.
 eng	est	The problem is that I don't remember where I've parked my car.	Probleem on selles, et ma ei mäleta, kuhu ma oma auto parkisin.
 eng	est	There are a lot of gullible people, so there is a chance that Tom will be elected.	Kergeusklikke inimesi on palju, nii et on võimalus, et Tom saab valituks.
+eng	est	There are a lot of roses in our garden.	Meie aias on palju roose.
 eng	est	There is an orange on the table.	Laual on apelsin.
 eng	est	There is no life without water.	Ilma veeta ei ole elu.
 eng	est	There is not much hope.	Seal ei ole palju lootust.
@@ -756,6 +825,7 @@ eng	est	There were no clouds today.	Täna ei olnud pilvi.
 eng	est	The rules must be few, and what is more important, simple.	Reegleid peab olema vähe, ja mis on tähtsam, nad peavad olema lihtsad.
 eng	est	These cars are made in Japan.	Need autod on valmistatud Jaapanis.
 eng	est	These oranges are very sour.	Need apelsinid on väga hapud.
+eng	est	These pears are very good.	Need pirnid on väga head.
 eng	est	These pictures are beautiful.	Need pildid on ilusad.
 eng	est	The sky looks threatening.	Taevas näeb ähvardav välja.
 eng	est	The snake swallowed a frog.	Madu neelas konna alla.
@@ -771,6 +841,7 @@ eng	est	The whole family is out for a walk.	Terve pere on väljas jalutamas.
 eng	est	The wind was howling.	Tuul ulus.
 eng	est	The workers are on strike.	Töötajad streigivad.
 eng	est	They are within earshot.	Nad on kuuldekauguses.
+eng	est	They changed clothes.	Nad vahetasid riideid.
 eng	est	They destroyed the old house.	Nad hävitasid vana maja.
 eng	est	They drink a lot.	Nad joovad palju.
 eng	est	They have sugar.	Neil on suhkrut.
@@ -803,11 +874,13 @@ eng	est	This is not his handwriting.	See ei ole tema käekiri.
 eng	est	This is the first time I've seen such a big strawberry.	See on esimene kord, kui ma näen nii suurt maasikat.
 eng	est	This is the last train, sir.	Härra, see on viimane rong.
 eng	est	This novel bores me.	See romaan tüütab mind.
+eng	est	This restaurant's too expensive.	See restoran on liiga kallis.
 eng	est	This street is dark.	See tänav on pime.
 eng	est	This table is white.	See laud on valge.
 eng	est	This thing is alive.	See asi on elus.
 eng	est	This was a good feeling.	See oli hea tunne.
 eng	est	This was her first job.	See oli tema esimene töökoht.
+eng	est	Those are my children's toys.	Need on minu laste mänguasjad.
 eng	est	Those are my pants.	Need on minu püksid.
 eng	est	Those who know him like him.	Kes teda teavad, neile ta meeldib.
 eng	est	Time flies like an arrow; fruit flies like a banana.	manidina toy ny tsipika ny fotoana
@@ -889,10 +962,12 @@ eng	est	Tom, this isn't about you.	Tom, see ei ole ainult sinu asi.
 eng	est	Tom threw the bottle away.	Tom viskas pudeli ära.
 eng	est	Tom told me his mother never loved him.	Tom ütles mulle, et tema ema ei armastanud teda kunagi.
 eng	est	Tom told me that his mother never loved him.	Tom ütles mulle, et tema ema ei armastanud teda kunagi.
+eng	est	Tom tried to catch the children's attention.	Toomas on püüdnud laste tähelepanu köita.
 eng	est	Tom tried to keep Mary warm.	Tom üritas Maryt soojas hoida.
 eng	est	Tom turned on the water faucet, but nothing came out.	Tom pani kraani tööle, aga sellest ei tulnud midagi.
 eng	est	Tom turned to Mary for advice.	Tom küsis Marylt nõu.
 eng	est	Tom used to be the fastest swimmer on our team.	Tom oli meie tiimi kõige kiirem ujuja.
+eng	est	Tom vomited on the roller coaster.	Tom oksendas Ameerika mägedel.
 eng	est	Tom wants Mary's approval.	Tom tahtis Mari heakskiitu.
 eng	est	Tom wants to be a diplomat.	Tom tahab diplomaadiks saada.
 eng	est	Tom wants to drink a cup of coffee.	Tom tahab juua tassike kohvi.
@@ -932,6 +1007,7 @@ eng	est	We apologize.	Me palume vabandust.
 eng	est	We are all born mad.	Me sünnime kõik hulludena.
 eng	est	We are all born mad.	Me sünnime kõik hulluna.
 eng	est	We are home.	Me oleme kodus.
+eng	est	We are Hungarians.	Me oleme ungarlased.
 eng	est	We are watching.	Me vaatame.
 eng	est	We'd better go help Tom.	Me peaksime Tomile appi minema.
 eng	est	We don't need Tom anymore.	Meil ei ole Tomi enam vaja.
@@ -944,6 +1020,8 @@ eng	est	We'll do fine without you.	Me saame sinuta hakkama.
 eng	est	We'll help you rescue Tom.	Me aitame sul Tomi päästa.
 eng	est	We'll never know.	Me ei saa kunagi teada.
 eng	est	We managed to swim across the river.	Ta suutis ujuda üle jõe.
+eng	est	We need a surgeon.	Vajame kirurgi.
+eng	est	We need to check the inventory, I think we are missing a lot of things.	Peame varud üle vaatama, ma arvan, et meil on palju asju puudu.
 eng	est	We need to talk right now.	Meil on vaja kohe rääkida.
 eng	est	We're all friends on Tatoeba!	Me oleme Tatoebas kõik sõbrad!
 eng	est	We're having a good time.	Meil on lõbus.
@@ -1011,10 +1089,16 @@ eng	est	Where do you work?	Kus sa töötad?
 eng	est	Where is Hakata station?	Kus asub Hakata jaam?
 eng	est	Where is the bar?	Kus on baar?
 eng	est	Which do you like better, white wine or red wine?	Kumba sa eelistad, kas valget või punast veini?
+eng	est	Which restaurant chain do you like?	Milline restoranikett sulle meeldib?
+eng	est	Which restaurant chain do you like?	Milline restoranikett teile meeldib?
 eng	est	Which sport do you like the most?	Milline sport sulle kõige rohkem meeldib?
 eng	est	Who are you going with?	Kellega koos sa lähed?
+eng	est	Who decides that?	Kes seda otsustab?
 eng	est	Who gave you your nickname?	Kes pani sulle su hüüdnime?
+eng	est	Who hurt your son?	Kes su pojale haiget tegi?
 eng	est	Who on earth is that?	Kes see veel on?
+eng	est	Who's older?	Kes on vanem?
+eng	est	Who's that man in the black coat?	Kes see mustas mantlis mees on?
 eng	est	Who's the better driver?	Kes on parem autojuht?
 eng	est	Who's this?	Kes see on?
 eng	est	Who told you this?	Kes sulle seda ütles?
@@ -1022,6 +1106,7 @@ eng	est	Who would have dared?	Kes oleks julgenud?
 eng	est	Why are you late to class?	Miks sa tundi hilinesid?
 eng	est	Why are you sorry for something you haven't done?	Miks sa palud vabandust millegi pärast, mida sa teinud ei ole?
 eng	est	Why did you go out?	Miks sa läksid välja?
+eng	est	Why did your family go to Latvia?	Miks su pere läks Lätti?
 eng	est	Why does the phone have to ring all the time only when I'm busy? I can't get any work done because of it.	Miks see telefon heliseb vaid siis, kui mul on kiire? Ma ei saa niimoodi oma tööd tehtud.
 eng	est	Why do you care so much about what Tom thinks?	Miks sind Tomi arvamus nii palju huvitab?
 eng	est	Why is everything so difficult?	Miks kõik on nii keeruline?
@@ -1051,6 +1136,8 @@ eng	est	You can't kill us both.	Sa ei saa meid mõlemat tappa.
 eng	est	You don't have to impress me.	Sa ei pea mulle muljet avaldama.
 eng	est	You don't have to use a dictionary when you read this book.	Selle raamatu lugemiseks pole sõnastikku vaja kasutada.
 eng	est	You don't need to worry about me.	Sa ei pea minu pärast muretsema.
+eng	est	You don't want to go to Ukraine.	Sa ei taha Ukrainasse minna.
+eng	est	You don't want to go to Ukraine.	Te ei taha Ukrainasse minna.
 eng	est	You have a very good memory.	Sul on väga hea mälu.
 eng	est	You have meat.	Sul on liha.
 eng	est	You have meat.	Teil on liha.
@@ -1091,6 +1178,9 @@ eng	est	You think you know me pretty well, don't you?	Sa arvad, et tead mind pä
 eng	est	You took the elevator up to the third floor.	Sa sõitsid liftiga kolmandale korrusele.
 eng	est	You tried.	Sa üritasid.
 eng	est	You won't make mistakes.	Ega sa ometigi ei eksi ju.
+eng	est	Ziri drove home with no problems.	Ziri sõitis ilma probleemideta koju.
+eng	est	Ziri is Walid's childhood friend.	Ziri on Walidi lapsepõlvesõber.
+eng	est	Ziri's cat even kills rabbits occasionally.	Ziri kass tapab aeg-ajalt isegi küülikuid.
 eng	vro	All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.	Kõik inemiseq sünnüseq avvo ja õiguisi poolõst ütesugumaidsis. Näile om annõt mudsu ja süämetunnistus ja nä piät ütstõõsõga vele muudu läbi käümä.
 eng	vro	Burj Khalifa is currently the tallest skyscraper in the world.	Burj Khalīfah om parhilla kõgõ kõrgõp pilvelaotaja maailmah.
 eng	vro	See you later!	Näemiq!

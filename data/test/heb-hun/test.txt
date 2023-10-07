@@ -1,6 +1,7 @@
 heb	hun	אבא בטוח מסוגל לבשל לפחות ביצה אחת!	Apunak meg kell tudnia főzni legalább egy tojást.
 heb	hun	אבי קנה ליום הולדתי כמה תקליטורים.	Apám vett néhány CD-t a születésnapomra.
 heb	hun	אבל אף פעם לא אמרת לי את זה.	De hát sose mondtad ezt nekem.
+heb	hun	אדם דרוזי.	Ádám drúz.
 heb	hun	אודה על תשובה בהקדם האפשרי.	Örülnék a mielőbbi gyors válaszodnak.
 heb	hun	איזה מהבתים הוא שלו?	Melyik ház az övé?
 heb	hun	איך הייתה הבחינה?	Hogy ment a vizsga?
@@ -13,8 +14,8 @@ heb	hun	אינני ממתין בדרך כלל לאיש.	Nem szoktam várni valak
 heb	hun	אינני צריכה כסף.	Nincs szükségem pénzre.
 heb	hun	איפה תתגורר?	Hol akarsz megszállni?
 heb	hun	אלוהים הוא אלוהים ודת היא דת.	Isten az Isten, a vallás meg vallás.
-heb	hun	אלוהים הומו?	Isten meleg?
 heb	hun	אלוהים הומו.	Isten meleg.
+heb	hun	אלוהים הומו?	Isten meleg?
 heb	hun	אלוהים קיים.	Isten létezik.
 heb	hun	אל תאחר מחר לבית הספר.	Ne késsen holnap az iskolából.
 heb	hun	אל תמחקו את המשפט לדוגמה.	Ne töröld a példamondatot.
@@ -56,6 +57,8 @@ heb	hun	אני יפני, אבל אני לא גר ביפן.	Japán vagyok, de nem
 heb	hun	אני כבר יודע.	Már tudom.
 heb	hun	אני כבר יודעת.	Már tudom.
 heb	hun	אני כבר יוצא.	No, én távozom.
+heb	hun	אני לא יודע, תום.	Nem tudom, Tom.
+heb	hun	אני לא יודעת, תום.	Nem tudom, Tom.
 heb	hun	אני לא יכול להבין איך לפתור את הפאזל.	Nem jövök rá, hogy kell kirakni a puzzle-t.
 heb	hun	אני לא מדבר סינית.	Nem beszélek kínaiul.
 heb	hun	אני לא מדבר פינית.	Nem beszélek finnül.
@@ -97,8 +100,8 @@ heb	hun	אני שונאת שעועית.	Utálom a babot.
 heb	hun	אני תמיד צורח, כאשר אני מתרגז.	Mindig kiabálok, ha mérges vagyok.
 heb	hun	אעשה כמיטב יכולתי.	Megteszek mindent, amit csak tudok.
 heb	hun	אעשה כמיטב יכולתי, גם היום.	Ma is megpróbálom kihozni a legjobbat magamból.
-heb	hun	אף תמונה לא מוצאת חן בעיניי.	Ezek közül egyik kép se tetszik nekem.
 heb	hun	אפשר לדבר אתך?	Beszélhetek veled?
+heb	hun	אף תמונה לא מוצאת חן בעיניי.	Ezek közül egyik kép se tetszik nekem.
 heb	hun	את אוכלת גרנולה לעתים קרובות?	Gyakran eszel müzlit?
 heb	hun	אתה אמריקאי?	Amerikaiak vagytok?
 heb	hun	אתה אמריקאי?	Amerikai vagy?
@@ -178,6 +181,7 @@ heb	hun	הוא יצא מהחדר.	Kiment a szobából.
 heb	hun	הוא כבר לא יכול לפגוע בך.	Már nem bánthat.
 heb	hun	הוא כמעט אף פעם לא מוותר.	Ritkán adja fel.
 heb	hun	הוא לא הצליח לזכור את הכתובת שלי.	Nem jutott eszébe a címem.
+heb	hun	הוא לא יהודי.	Nem zsidó.
 heb	hun	הוא מאשים אותך בכל.	Mindez a te bűnöd.
 heb	hun	הוא מדבר יפנית.	Beszél japánul.
 heb	hun	הוא פועל לפי האינטרס שלו.	Érdekei szerint cselekszik.
@@ -227,8 +231,12 @@ heb	hun	הנוסעים החלו להתעצבן כאשר המטוס התחיל ל
 heb	hun	הנח את הספר הזה על גבי האחרים.	Tedd ezt a könyvet a többi tetejére.
 heb	hun	הסטודנטים הללו עובדים בחריצות, אבל התוצאות אינן משביעות רצון.	Ezek a diákok szorgalmasan tanulnak, az eredmény mégsem túl jó.
 heb	hun	הספר הזה שייך לך?	Ez a könyv a tied?
+heb	hun	העולם הוא כפר.	Falu a világ.
+heb	hun	העולם זה עם.	A világ egy nép.
+heb	hun	העולם זה עם אחד.	A világ egy nép.
 heb	hun	העסקים חלשים.	Nehezen megy az üzlet.
 heb	hun	העפיפון נסק למעלה בזריזות של ציפור.	A sárkány úgy repült, mint egy madár a levegőben.
+heb	hun	הפלה היא זכות האדם.	Emberi jog a terhességmegszakítás.
 heb	hun	הציפורים הן אויביהם הטבעיים של החרקים.	A madarak a rovaroknak természetes ellenségük.
 heb	hun	הציפורים הן אויביהם הטבעיים של החרקים.	A madár a rovarok természetes ellensége.
 heb	hun	הרשימה היא כדלקמן:	A lista a következő.
@@ -264,8 +272,8 @@ heb	hun	טלפנו לי למשרד.	Telefonálj nekem a hivatalba.
 heb	hun	טפשי היה מצידו לעשות את זה.	Butaság volt tőle ilyet tenni.
 heb	hun	יום חמישי היום.	Csütörtök van ma.
 heb	hun	יום ראשון היום.	Vasárnap van ma.
-heb	hun	יום שישי היום?	Péntek van ma?
 heb	hun	יום שישי היום.	Péntek van ma.
+heb	hun	יום שישי היום?	Péntek van ma?
 heb	hun	יום שלישי היום.	Kedd van ma.
 heb	hun	ייתכן שנוכל לראות קני ציפורים.	Esetleg látunk madárfészket is.
 heb	hun	יש אנשים שאוהבים בייסבול, ואחרים אוהבים כדורגל.	Egyesek a baseballt szeretik, mások a futballt.
@@ -363,6 +371,7 @@ heb	hun	ערב טוב!	Jó estét!
 heb	hun	ערב טוב.	Jó estét!
 heb	hun	ערב טוב.	Jó estét.
 heb	hun	ערב טוב, איך הולך?	Jó estét, hogy vagy?
+heb	hun	פטריות הן חכמות.	Bölcsek a gombák.
 heb	hun	פטר לא מסוגל לסתום את הפה שלו.	Péter soha nem tudja tartani a száját.
 heb	hun	קיבלתי בחילה.	Hányingerem lett.
 heb	hun	קין לא היה אח טוב.	Káin nem volt jó testvér.

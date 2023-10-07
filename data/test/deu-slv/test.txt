@@ -3,12 +3,15 @@ deu	slv	Alles Gute zum Geburtstag!	Všetko najlepšie k narodeninám!
 deu	slv	Alles in Ordnung.	Všetko v poriadku.
 deu	slv	Anderen zu helfen ist nie eine Zeitverschwendung.	Pomáhať druhým nikdy nie je stratou času.
 deu	slv	Auf dem Tisch liegt ein Apfel.	Na mizi je jabolko.
+deu	slv	Aug um Auge, Zahn um Zahn.	Oko za oko, zob za zob.
+deu	slv	Aug um Aug und Zahn um Zahn.	Oko za oko in zob za zob.
 deu	slv	Beeil dich!	Ponáhľaj sa!
 deu	slv	Bill ist nicht so groß wie du.	Bill nie je tak vysoký ako ty.
 deu	slv	Bill kommt selten rechtzeitig.	Bill príde zriedka včas.
 deu	slv	Bis morgen muss ich hiermit fertig werden.	Do zajtra to musím dokončiť.
 deu	slv	Bist du beschäftigt?	Si zaneprázdnený?
 deu	slv	„Bist du ein Engel?“ – „Ja“, antwortete der Engel.	„Ty si anjel?“ „Áno,“ odpovedal anjel.
+deu	slv	Bist du Liberale?	Si liberál?
 deu	slv	Bist du schon zu Hause?	Už si doma?
 deu	slv	Bist du taub?	Si chluchý?
 deu	slv	Bist du zu Hause?	Si doma?
@@ -21,6 +24,7 @@ deu	slv	Das Auto ist blau.	Auto je modré.
 deu	slv	Das Auto ist gelb.	Auto je žlté.
 deu	slv	Das Haus ist fünfhundert Jahre alt.	Dom má päťsto rokov.
 deu	slv	Das ist der Junge, an den ich denke.	Toto je ten chlapec, na ktorého myslím.
+deu	slv	Das ist die beste Lösung.	To je naboljša rešitev.
 deu	slv	Das ist eine Kirche.	To je kostol.
 deu	slv	Das ist ein großer Hund.	To je veľký pes.
 deu	slv	Das ist ein sehr informativer Artikel.	To je veľmi informatívny článok.
@@ -30,14 +34,19 @@ deu	slv	Das ist etwas ganz anderes.	To je niečo úplne iné.
 deu	slv	Das ist ja furchtbar!	To je hrozné.
 deu	slv	Das ist ja furchtbar!	To je strašné.
 deu	slv	Das ist keine Tanne.	To nie je jedľa.
+deu	slv	Das ist mein Mann.	To je moj mož.
 deu	slv	Das ist mein nicht Kind.	To nie je moje dieťa.
 deu	slv	Das ist nicht das einzige, was Tom gefunden hat.	To nie je jediná vec, ktorú Tom našiel.
 deu	slv	Das ist reine Zeitverschwendung.	To je izguba časa.
 deu	slv	Das ist unser Land.	To je naša zem.
 deu	slv	Das sagen sie alle.	To hovoria všeci.
 deu	slv	Das slowakische Alphabet besteht aus 46 Buchstaben: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.	Slovenská abeceda pozostáva zo 46 písmen: a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž.
+deu	slv	Das slowenische Alphabet besteht aus 25 Buchstaben: a, b, c, č, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, š, t, u, v, z, ž.	Slovenska abeceda je sestavljena iz 25 črk: a, b, c, č, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, š, t, u, v, z, ž.
+deu	slv	Das slowenische Alphabet hat 25 Buchstaben.	Slovenska abeceda ima 25 črk.
 deu	slv	Das stimmt.	Je to tak.
+deu	slv	Das verstehe ich auch nicht.	Tega tudi jaz ne razumem.
 deu	slv	Das war ungeplant.	To bolo neplánované.
+deu	slv	Das Wesentliche ist für die Augen unsichtbar.	Bistvo je očem nevidno.
 deu	slv	Das Wort Schadenfreude gibt es nur im Deutschen.	Slovo "škodoradosť" existuje len v nemčine.
 deu	slv	David Beckham ist Engländer.	David Beckham je Anglež.
 deu	slv	Der Apfel fällt nicht weit vom Stamm.	Jablko nepadá ďaleko od stromu.
@@ -60,10 +69,14 @@ deu	slv	Die Detektive machten Jagd auf ihn.	Detektív ho sledoval.
 deu	slv	Die Erde ist ein Planet.	Zem je planéta.
 deu	slv	Die ganze Stadt war unter Wasser.	Celé mesto bolo pod vodou.
 deu	slv	Die Hauptstadt von Polen ist Warschau.	Hlavné mesto Poľska je Varšava.
+deu	slv	Die Kerze ist erloschen.	Sveča je ugasnila.
+deu	slv	Die Kruste esse ich nicht.	Kôrku nejem.
 deu	slv	Die Lage ist dramatisch.	Situácia je dramatická.
+deu	slv	Die Milch ist frisch.	Mleko je sveže.
 deu	slv	Die müssen sehr arm sein.	Musia byť veľmi chudobní.
 deu	slv	Die Mutter weckt die Tochter.	Matka budí dcéru.
 deu	slv	Die Pflanzen wachsen.	Rastliny rastú.
+deu	slv	Die Regierung lügt.	Vlada laže.
 deu	slv	Diese Frau ist Ärztin.	Táto žena je lekárka.
 deu	slv	Diese Gemeinschaft folgt ihren eigenen Gesetzen.	Táto komunita nasleduje svoje vlastné pravidlá.
 deu	slv	Diese Gemeinschaft folgt ihren eigenen Gesetzen.	Toto spoločenstvo nasleduje svoje vlastné zákony.
@@ -117,6 +130,7 @@ deu	slv	Es ist niemand hier.	Nikto tu nie je.
 deu	slv	Es ist nie zu spät zum Lernen.	Na učenie nikdy nie je neskoro.
 deu	slv	Es ist unter dem Tisch.	To je pod stolom.
 deu	slv	Es kommt ein Gewitter auf.	Bude búrka.
+deu	slv	Es lebe die Demokratie!	Naj živi demokracija!
 deu	slv	Es leben alle Völker, die sehnend warten auf den Tag, dass unter dieser Sonne die Welt dem alten Streit entsag’! Frei sei dann jedermann, nicht Feind, nur Nachbar mehr fortan! Frei sei dann jedermann, nicht Feind, nur Nachbar mehr, nicht Feind, nur Nachbar mehr fortan!	Žive vsi narodi, ki hrepéne dočakat’ dan: da, koder sonce hodi, prepir iz sveta bo pregnan, ko rojak prost bo vs’ak, ne vrag, le sosed bo mejak, ko rojak prost bo vs’ak, ne vrag, le sosed bo, ne vrag, le sosed bo mejak.
 deu	slv	Es regnete.	Deževalo je.
 deu	slv	Es scheint, dass er es eilig hatte.	Zdá sa, že sa ponáhľa.
@@ -156,8 +170,11 @@ deu	slv	Hast du heute schon zu Mittag gegessen?	Už si dnes obedovala?
 deu	slv	Hau ab!	Vypadni!
 deu	slv	Helfen Sie uns!	Pomôžte nám!
 deu	slv	Herzlichen Glückwunsch.	Gratulujem!
+deu	slv	Hier bin ich Ausländer.	Tukaj sem tujec.
 deu	slv	Hier ist mein Geheimnis. Es ist ganz einfach: man sieht nur mit dem Herzen gut. Das Wesentliche ist für die Augen unsichtbar.	Cuj mojo skrivnost. Zelo preprosta je: Kdor hoce videti, mora gledati s srcem. Bistvo je ocem nevidno.
 deu	slv	Hier ist mein Geheimnis. Es ist ganz einfach: man sieht nur mit dem Herzen gut. Das Wesentliche ist für die Augen unsichtbar.	Tu je moje tajomstvo. Je velmi jednoduché: dobré vidíme iba srdcom. To hlavné je ociam neviditelné.
+deu	slv	Hilf dir selbst und Gott wird dir helfen.	Pomagaj si sam in Bog ti bo pomagal.
+deu	slv	Hilf dir selbst und Gott wird dir helfen!	Pomogaj si sam in Bog ti bo pomagal!
 deu	slv	Horch!	Vypočujte si!
 deu	slv	Ich baute ein neues Haus.	Postavil som nový dom .
 deu	slv	Ich bekam Lampenfieber.	Dostal som trému.
@@ -177,6 +194,7 @@ deu	slv	Ich bin immer stolz auf dich gewesen.	Vždy som na teba bol hrdý.
 deu	slv	Ich bin immer stolz auf Sie gewesen.	Vždy som bola na Vás hrdá.
 deu	slv	Ich bin immer stolz auf Sie gewesen.	Vždy som bol na Vás hrdý.
 deu	slv	Ich bin in Portugal.	Sem na Portugalskem.
+deu	slv	Ich bin Jack.	Sem Jack.
 deu	slv	Ich bin keine Finnin.	Nie som Fínka.
 deu	slv	Ich bin keine gute Sängerin.	NIie som dobrá speváčka.
 deu	slv	Ich bin kein Finne.	Nie som Fín.
@@ -190,6 +208,7 @@ deu	slv	Ich brauche einen Arzt!	Potrebujem doktora!
 deu	slv	Ich denke, dass das nicht wahr ist.	Myslím, že to nie je pravda.
 deu	slv	Ich erreichte den Zug rechtzeitig.	Včas som stihla vlak.
 deu	slv	Ich erreichte den Zug rechtzeitig.	Včas som stihol vlak.
+deu	slv	Ich esse ein Sandwich.	Jem sendvič.
 deu	slv	Ich fing vor Kurzem zu malen an.	Nedávno som začal maľovať.
 deu	slv	Ich fühlte mich schlecht.	Cítil som sa zle.
 deu	slv	Ich fühlte mich schlecht.	Počutil sem se slabo.
@@ -202,6 +221,8 @@ deu	slv	Ich geh ins Kino.	Idem do kina.
 deu	slv	Ich gratuliere Ihnen!	Gratulujem Vám!
 deu	slv	Ich habe den Fernseher verkauft.	Predala som televízor.
 deu	slv	Ich habe den Fernseher verkauft.	Predal som televízor.
+deu	slv	Ich habe Deutsch gelernt.	Naučila sem se nemško.
+deu	slv	Ich habe Deutsch gelernt.	Naučil sem se nemško.
 deu	slv	Ich habe die Person gefunden, die das getan hat.	Našiel som človeka, ktorý to spravil.
 deu	slv	Ich habe die Wohnung verkauft.	Predala som byt.
 deu	slv	Ich habe die Wohnung verkauft.	Predal som byt.
@@ -239,7 +260,9 @@ deu	slv	Ich kenne die Flagge dieses Landes nicht.	Nepoznám vlajku tejto krajiny
 deu	slv	Ich komme aus Italien.	Som z Talianska.
 deu	slv	Ich komme in zehn Minuten.	Prídem za desať minút.
 deu	slv	Ich komme zurück.	Vrátim sa.
+deu	slv	Ich lebe auf dem Balkan.	Živim na Balkanu.
 deu	slv	Ich lebe in Białystok.	Žijem v Białystoku.
+deu	slv	Ich lerne lernen.	Učim se učiti.
 deu	slv	Ich liebe dich!	Ľúbim ťa.
 deu	slv	Ich liebe Geheimnisse.	Ljubim skrivnosti.
 deu	slv	Ich möchte deiner Gruppe beitreten.	Rad bi se pridružil tvoji skupini.
@@ -253,9 +276,27 @@ deu	slv	Ich schrieb dieses Buch.	Napisal sem to knjigo.
 deu	slv	Ich schwimme hier jeden Tag.	Každý deň tu plávam.
 deu	slv	Ich sehe eine Rose.	Vidim vrtnico.
 deu	slv	Ich sehe ihn nicht.	Nevidím ho.
+deu	slv	Ich spreche nicht albanisch.	Ne govorim albansko.
+deu	slv	Ich spreche nicht bosnisch.	Ne govorim bosansko.
+deu	slv	Ich spreche nicht chinesisch.	Ne govorim kitajsko.
+deu	slv	Ich spreche nicht deutsch.	Ne govorim nemško.
+deu	slv	Ich spreche nicht englisch.	Ne govorim angleško.
+deu	slv	Ich spreche nicht estnisch.	Ne govorim estonsko.
+deu	slv	Ich spreche nicht finnisch.	Ne govorim finsko.
+deu	slv	Ich spreche nicht französisch.	Ne govorim francosko.
+deu	slv	Ich spreche nicht italienisch.	Ne govorim italijansko.
+deu	slv	Ich spreche nicht koreanisch.	Ne govorim korejsko.
+deu	slv	Ich spreche nicht russisch.	Ne govorim rusko.
+deu	slv	Ich spreche nicht spanisch.	Ne govorim špansko.
+deu	slv	Ich spreche nicht türkisch.	Ne govorim turško.
+deu	slv	Ich spreche nicht ungarisch.	Ne govorim madžarsko.
 deu	slv	Ich spreche Niedersorbisch.	Hovorím dolnolužickou srbčinou.
+deu	slv	Ich spreche nur ein bisschen Slowenisch.	Govorim samo malo slovensko.
+deu	slv	Ich spreche nur ein wenig Slowenisch.	Govorim samo malo slovensko.
 deu	slv	Ich spreche Obersorbisch.	Hovorím hornolužickou srbčinou.
+deu	slv	Ich spreche russisch.	Govorim rusko.
 deu	slv	Ich spreche Slowakisch.	Hovorím slovensky.
+deu	slv	Ich spreche slowenisch.	Govorim slovensko.
 deu	slv	Ich trinke normalerweise viel Milch.	Obvykle pijem veľa mlieka.
 deu	slv	Ich verstand deine Frage nicht.	Nisem razumel tvojega vprašanja.
 deu	slv	Ich war bei der Arbeit.	Bol som v práci.
@@ -317,14 +358,20 @@ deu	slv	Könntest du uns fotografieren?	Odfotil by si nás?
 deu	slv	Küss mich.	Poljubi me.
 deu	slv	Lach nicht.	Nesmej sa!
 deu	slv	Libusza lebt in Posen.	Libuša žije v Poznani.
+deu	slv	Lüge ist Lüge!	Laž je laž!
 deu	slv	Magdalena besucht die Japanische Schule in Lodsch.	Magdalena študuje na japonskej škole v Łódźi.
 deu	slv	Magdalena besucht die Japanische Schule in Łódź.	Magdalena študuje na japonskej škole v Łódźi.
 deu	slv	Mag sie Apfelsinen?	Má rada pomaranče?
 deu	slv	Mag sie Orangen?	Má rada pomaranče?
+deu	slv	Mama, ich gehe zur Schule. Tschüss!	Mami, idem do školy. Maj sa!
+deu	slv	Mama, ich liebe dich!	Mama, ľúbim ťa!
+deu	slv	Man sieht nur mit dem Herzen gut.	Kdor hoče videti, mora gledati s srcem.
 deu	slv	Maria ist eine reiche Frau.	Mária je bohatá žena.
 deu	slv	Maria ist eine weltbekannte Künstlerin.	Mária je svetoznáma umelkyňa.
 deu	slv	Maria kauft eine neue Kaffeemaschine.	Mária kupuje nový kávovar.
 deu	slv	Maria kommt rechtzeitig.	Mária príde včas.
+deu	slv	Maria spricht kein Deutsch.	Mária nehovorí nemecky.
+deu	slv	Maria spricht kein Deutsch.	Mária nehovorí po nemecky.
 deu	slv	Meg hat ein vierblättriges Kleeblatt gefunden.	Mag našla štvorlistnú ďatelinu.
 deu	slv	Mein älterer Sohn ist Lech Zaręba.	Môj starší syn je Lech Zaręba.
 deu	slv	Mein Bauch ist dick.	Moje brucho je hrubé.
@@ -333,9 +380,14 @@ deu	slv	Meine Lehrer sind sehr streng.	Moji učitelia sú veľmi prísni.
 deu	slv	Meine Mutter liebt Musik.	Moja mama ljubi glasbo.
 deu	slv	Meine Schwester ist ein sehr hübsches Mädchen.	Moja sestra je veľmi pekné dievča.
 deu	slv	Mein Handy klingelt.	Môj mobil zvoní.
+deu	slv	Mein Name ist Duschana.	Moje ime je Dušana.
 deu	slv	Mir geht es gut. Und dir?	Mám sa dobre. A ty?
 deu	slv	Mir tut der Rücken weh.	Bolí ma chrbát.
+deu	slv	Möchten Sie einen Kaffee?	Želite kavo?
+deu	slv	Musik ist mein Leben.	Glasba je moje življenje.
+deu	slv	Nein, ich mag keine Katzen.	Nie, nemám rád mačky.
 deu	slv	Nichts Neues unter der Sonne.	Nič nové pod slnkom.
+deu	slv	Niederländisch ist die offizielle Sprache der Niederlande.	Nizozemščina je uradni jezik na Nizozemskem.
 deu	slv	Niemand sitzt hier.	Nikto ne sedie tu.
 deu	slv	Niemand war zu Hause.	Nikto nebol doma.
 deu	slv	Raus!	Von!
@@ -361,6 +413,7 @@ deu	slv	Sie ging allein ins Kino.	Išla sama do kina.
 deu	slv	Sie ist sehr beschäftigt.	Ona je veľmi zaneprázdnená.
 deu	slv	Sie kamen rechtzeitig an.	Prišli včas.
 deu	slv	Sie lernt Deutsch.	Učí sa nemecky.
+deu	slv	Sie lernt Ungarisch.	Uči se madžarsko.
 deu	slv	Sie müssen dies für mich tun.	Musíte to pre mňa spraviť.
 deu	slv	Sie schrie aus allen Kräften.	Kričala zo všetkých síl.
 deu	slv	Sie sind in der Bibliothek.	Sú v knižnici.
@@ -373,9 +426,116 @@ deu	slv	Sie stand vor dem Spiegel.	Stála pred zrkadlom.
 deu	slv	Sie verkauft Blumen.	Ona predáva kvety.
 deu	slv	Sind sie beschäftigt?	Ste zaneprázdnený?
 deu	slv	Sind Sie beschäftigt?	Ste zaneprázdnený?
+deu	slv	Slowenisch ist eine schöne Sprache.	Slovenščina je lep jezik.
 deu	slv	Soll ich mit dir gehen?	Mám ísť s tebou?
+deu	slv	Sprechen Sie albanisch?	Govorite albansko?
+deu	slv	Sprechen Sie arabisch?	Govorite arabsko?
+deu	slv	Sprechen Sie birmanisch?	Ali govorite burmansko?
+deu	slv	Sprechen Sie birmanisch?	Govorite burmansko?
+deu	slv	Sprechen Sie bosnisch?	Ali govorite bosansko?
+deu	slv	Sprechen Sie bosnisch?	Govorite bosansko?
+deu	slv	Sprechen Sie burmesisch?	Ali govorite burmansko?
+deu	slv	Sprechen Sie burmesisch?	Govorite burmansko?
+deu	slv	Sprechen Sie chinesisch?	Govorite kitajsko?
+deu	slv	Sprechen Sie dänisch?	Ali govorite dansko?
+deu	slv	Sprechen Sie deutsch?	Govorite nemško?
+deu	slv	Sprechen Sie englisch?	Govorite angleško?
+deu	slv	Sprechen Sie estnisch?	Govorite estonsko?
+deu	slv	Sprechen Sie Farsi?	Govorite perzijsko?
+deu	slv	Sprechen Sie finnisch?	Govorite finsko?
+deu	slv	Sprechen Sie französisch?	Govorite francosko?
+deu	slv	Sprechen Sie griechisch?	Govorite grško?
+deu	slv	Sprechen Sie hebräisch?	Govorite hebrejsko?
+deu	slv	Sprechen Sie Hindi?	Govorite hindi?
+deu	slv	Sprechen Sie isländisch?	Govorite islandsko?
+deu	slv	Sprechen Sie italienisch?	Govorite italijansko?
+deu	slv	Sprechen Sie japanisch?	Govorite japonsko?
+deu	slv	Sprechen Sie khmer?	Govorite kmersko?
+deu	slv	Sprechen Sie koreanisch?	Govorite korejsko?
+deu	slv	Sprechen Sie kroatisch?	Ali govorite hrvaško?
+deu	slv	Sprechen Sie kroatisch?	Govorite hrvaško?
+deu	slv	Sprechen Sie lettisch?	Govorite latvijsko?
+deu	slv	Sprechen Sie litauisch?	Govorite litovsko?
+deu	slv	Sprechen Sie maltesisch?	Govorite malteško?
+deu	slv	Sprechen Sie montenegrinisch?	Govorite črnogorsko?
+deu	slv	Sprechen Sie niederländisch?	Govorite nizozemsko?
+deu	slv	Sprechen Sie norwegisch?	Govorite norveško?
+deu	slv	Sprechen Sie persisch?	Govorite perzijsko?
+deu	slv	Sprechen Sie polnisch?	Govorite poljsko?
+deu	slv	Sprechen Sie rumänisch?	Govorite romunsko?
+deu	slv	Sprechen Sie russisch?	Govorite rusko?
+deu	slv	Sprechen Sie schwedisch?	Govorite švedsko?
+deu	slv	Sprechen Sie slowakisch?	Govorite slovaško?
+deu	slv	Sprechen Sie slowenisch?	Govorite slovensko?
+deu	slv	Sprechen Sie spanisch?	Govorite špansko?
+deu	slv	Sprechen Sie suaheli?	Govorite svahili?
+deu	slv	Sprechen Sie thai?	Govorite tajsko?
+deu	slv	Sprechen Sie thailändisch?	Ali govorite tajsko?
+deu	slv	Sprechen Sie thailändisch?	Govorite tajsko?
+deu	slv	Sprechen Sie tschechisch?	Govorite češko?
+deu	slv	Sprechen Sie türkisch?	Govorite turško?
+deu	slv	Sprechen Sie ukrainisch?	Govorite ukrajinsko?
+deu	slv	Sprechen Sie ungarisch?	Govorite madžarsko?
+deu	slv	Sprechen Sie vietnamesisch?	Ali govorite vietnamsko?
+deu	slv	Sprechen Sie vietnamesisch?	Govorite vietnamsko?
+deu	slv	Sprechen Sie weißrussisch?	Ali govorite belorusko?
+deu	slv	Sprechen Sie Weißrussisch?	Ali govorite belorusko?
+deu	slv	Sprechen Sie weißrussisch?	Govorite beloruško?
+deu	slv	Sprechen Sie Weißrussisch?	Govorite beloruško?
+deu	slv	Sprichst du albanisch?	Govoriš albansko?
+deu	slv	Sprichst du arabisch?	Govoriš arabsko?
+deu	slv	Sprichst du birmanisch?	Ali govoriš burmansko?
+deu	slv	Sprichst du birmanisch?	Govoriš burmansko?
+deu	slv	Sprichst du bosnisch?	Ali govoriš bosansko?
+deu	slv	Sprichst du bosnisch?	Govoriš bosansko?
+deu	slv	Sprichst du burmesisch?	Ali govoriš burmansko?
+deu	slv	Sprichst du burmesisch?	Govoriš burmansko?
+deu	slv	Sprichst du chinesisch?	Govoriš kitajsko?
+deu	slv	Sprichst du dänisch?	Ali govoriš dansko?
+deu	slv	Sprichst du deutsch?	Govoriš nemško?
+deu	slv	Sprichst du estnisch?	Govoriš estonsko?
+deu	slv	Sprichst du Farsi?	Govoriš perzijsko?
+deu	slv	Sprichst du finnisch?	Govoriš finsko?
+deu	slv	Sprichst du französisch?	Govoriš francosko?
+deu	slv	Sprichst du griechisch?	Govoriš grško?
+deu	slv	Sprichst du hebräisch?	Govoriš hebrejsko?
+deu	slv	Sprichst du isländisch?	Govoriš islandsko?
+deu	slv	Sprichst du italienisch?	Govoriš italijansko?
+deu	slv	Sprichst du japanisch?	Govoriš japonsko?
+deu	slv	Sprichst du khmer?	Govoriš kmersko?
+deu	slv	Sprichst du koreanisch?	Govoriš korejsko?
+deu	slv	Sprichst du kroatisch?	Ali govoris hrvaško?
+deu	slv	Sprichst du kroatisch?	Govoriš hrvaško?
+deu	slv	Sprichst du lettisch?	Govoriš latvijsko?
+deu	slv	Sprichst du litauisch?	Govoriš litovsko?
+deu	slv	Sprichst du maltesisch?	Govoriš malteško?
 deu	slv	Sprichst du Marathi?	Hovoríš maráthsky?
 deu	slv	Sprichst du Marathi?	Hovoríš po maráthsky?
+deu	slv	Sprichst du montenegrinisch?	Govoriš črnogorsko?
+deu	slv	Sprichst du niederländisch?	Govoriš nizozemsko?
+deu	slv	Sprichst du norwegisch?	Govoriš norveško?
+deu	slv	Sprichst du persisch?	Govoriš perzijsko?
+deu	slv	Sprichst du polnisch?	Govoriš poljsko?
+deu	slv	Sprichst du rumänisch?	Govoriš romunsko?
+deu	slv	Sprichst du russisch?	Govoriš rusko?
+deu	slv	Sprichst du schwedisch?	Govoriš švedsko?
+deu	slv	Sprichst du slowakisch?	Govoriš slovaško?
+deu	slv	Sprichst du slowenisch?	Govoriš slovensko?
+deu	slv	Sprichst du spanisch?	Govoriš špansko?
+deu	slv	Sprichst du suaheli?	Govoriš svahili?
+deu	slv	Sprichst du thai?	Govoriš tajsko?
+deu	slv	Sprichst du thailändisch?	Ali govoriš tajsko?
+deu	slv	Sprichst du thailändisch?	Govoriš tajsko?
+deu	slv	Sprichst du tschechisch?	Govoriš češko?
+deu	slv	Sprichst du türkisch?	Govoriš turško?
+deu	slv	Sprichst du ukrainisch?	Govoriš ukrajinsko?
+deu	slv	Sprichst du ungarisch?	Govoriš madžarsko?
+deu	slv	Sprichst du vietnamesisch?	Ali govoriš vietnamsko?
+deu	slv	Sprichst du vietnamesisch?	Govoriš vietnamsko?
+deu	slv	Sprichst du weißrussisch?	Ali govoriš belorusko?
+deu	slv	Sprichst du Weißrussisch?	Ali govoriš belorusko?
+deu	slv	Sprichst du weißrussisch?	Govoriš belorusko?
+deu	slv	Sprichst du Weißrussisch?	Govoriš belorusko?
 deu	slv	Steig ein!	Nastúp!
 deu	slv	Sterne sind schön.	Zvezde so lepe.
 deu	slv	Strauße sind die größten Vögel der Welt.	Pštrosy sú najväčšie vtáky na svete.
@@ -404,6 +564,7 @@ deu	slv	Tom und Maria sind nicht mehr hier.	Tom a Mária tu už nie sú.
 deu	slv	Tom und Maria waren verliebt.	Tom a Mária boli zaľúbení.
 deu	slv	Tom und Maria waren verliebt.	Tom a Mária boli zamilovaní.
 deu	slv	Tom war beschäftigt.	Tom bol zaneprázdnený.
+deu	slv	Tom war in Boston.	Tom bol v Bostone.
 deu	slv	Tom war müde.	Tom bol unavený.
 deu	slv	Tom war stolz auf Maria.	Tom bol hrdý na Máriu.
 deu	slv	Tom will ins Kino gehen.	Tom chce ísť do kina.
@@ -435,10 +596,12 @@ deu	slv	Was machst du morgen um diese Zeit?	Čo budeš robiť zajtra o tomto ča
 deu	slv	Was wolltest du sagen?	Čo si chcel povedať?
 deu	slv	Was wollt ihr?	Čo chcete?
 deu	slv	Welche Sorte Mensch bist du?	Aký druh človeka si?
+deu	slv	Wer A sagt, muss auch B sagen!	Kdor reče A, mora reči tudi B!
 deu	slv	Werden wir rechtzeitig ankommen?	Prídeme včas?
 deu	slv	Wer ist an der Reihe?	Kto je na rade?
 deu	slv	Wer ist jetzt bei Tom?	Kto je teraz s Tomom?
 deu	slv	Wer lacht jetzt?	Kto sa teraz smeje?
+deu	slv	Wer mag Spinnen?	Kdo ima rad pajke?
 deu	slv	Wie heißen deine Katzen?	Ako sa volajú tvoje mačky?
 deu	slv	Wie heißen Sie?	Ako sa voláte?
 deu	slv	Wie heißt du?	Ako sa voláš?
@@ -446,12 +609,14 @@ deu	slv	Wie ist das möglich?	Ako je to možné?
 deu	slv	Wie ist das Wasser?	Aká je voda?
 deu	slv	Wie kann ich mein Benutzerkonto auf dieser (Internet-)Seite stillegen.	Ako si môžem deaktivovať svoj účet na tejto stránke?
 deu	slv	Wie lange ist das her?	Ako dávno to bolo?
+deu	slv	Wie spät ist es auf dem Mond?	Koliko je ura na Luni?
 deu	slv	Wie viele Leute hast du im Park gesehen?	Koľko ľudí si videl v parku?
 deu	slv	Wie viele Personen wohnen hier?	Koľko ľudí tu býva?
 deu	slv	Wie viel kostet es?	Koľko to stojí?
 deu	slv	Wie willst du Tom helfen?	Ako chceš Tomovi pomôcť?
 deu	slv	Wie wollt ihr das Problem lösen?	Ako chcete vyriešiť problém?
 deu	slv	Willst du etwas essen?	Chceš niečo jesť?
+deu	slv	Will Tom gehen?	Chce Tom ísť?
 deu	slv	Wir arbeiten in einer Fabrik.	Pracujeme v jednej továrni.
 deu	slv	Wir beide sind aus Deutschland.	Iz Nemčije sva.
 deu	slv	Wir gehen ins Museum.	Ideme do múzea.
@@ -463,6 +628,7 @@ deu	slv	Wir haben viel Regen im Juni und Juli.	V júni a júli máme veľa daž�
 deu	slv	Wir leben im Ausland.	Žijeme v zahraničí.
 deu	slv	Wir leben in Frieden.	Živimo v miru.
 deu	slv	Wir lernen Esperanto sehr schnell.	Zelo hitro se učimo esperanto.
+deu	slv	Wir lieben Musik.	Ljubimo glasbo.
 deu	slv	Wir sehen ihn jeden Tag.	Vidíme ho každý deň.
 deu	slv	Wir sehen uns in Australien!	Uvidíme sa v Austrálii.
 deu	slv	Wir sehen uns in Australien!	Vidíme sa v Austrálii.
@@ -489,4 +655,5 @@ deu	slv	Wo ist mein Regenschirm?	Kje je moj dežnik?
 deu	slv	Wo kann ich ihn finden?	Kde ho môžem nájsť?
 deu	slv	Worüber redest du?	Ty o čom hovoríš?
 deu	slv	Worum geht es?	O čo ide?
+deu	slv	Zeit ist Gold.	Čas je zlato.
 deu	slv	Zieh dich an!	Obleč sa!

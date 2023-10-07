@@ -4,9 +4,9 @@ eus	jpn_Hani	Adeitasunez	敬具
 eus	jpn_Hani	A! Elurra da!	あ、雪だ！
 eus	jpn_Hani	Agudo!	早く！
 eus	jpn_Hani	Alaitu hadi!	元気出しなよ。
-eus	jpn_Hani	Ama, ni ere nahi naiz ezkondu.	母さん、俺も結婚したいよ。
 eus	jpn_Hani	Ama, ni ere nahi naiz ezkondu.	お母さん、僕も結婚したいな。
 eus	jpn_Hani	Ama, ni ere nahi naiz ezkondu.	ママ、あたしも結婚したいわ。
+eus	jpn_Hani	Ama, ni ere nahi naiz ezkondu.	母さん、俺も結婚したいよ。
 eus	jpn_Hani	Arin!	早く！
 eus	jpn_Hani	Arnasa?	呼吸は？
 eus	jpn_Hani	Arnasketa?	呼吸は？
@@ -116,8 +116,8 @@ eus	jpn_Hira	Ez diot inori esango.	誰にも話さないよ。
 eus	jpn_Hira	Ez dut astirik.	時間がありません。
 eus	jpn_Hira	Ez dut horrelakorik esan.	そんなこと言ってないよ。
 eus	jpn_Hira	Ez dut inor nahi lan honetarako.	この仕事は誰でも良いというわけではない。
-eus	jpn_Hira	Ez dut nahi joan sukaldera.	台所には行きたくない。
 eus	jpn_Hira	Ez dut nahi joan sukaldera.	台所には行きたくありません。
+eus	jpn_Hira	Ez dut nahi joan sukaldera.	台所には行きたくない。
 eus	jpn_Hira	Ez nekien honelako lekuan urmaela bazenik.	こんなところに池があるなんて知らなかった。
 eus	jpn_Hira	Ez nuen horrelako asmorik.	そんなつもりではなかった。
 eus	jpn_Hira	Ez ukitu!	触るな！
@@ -185,8 +185,8 @@ eus	jpn_Hira	Nekatuta?	疲れた？
 eus	jpn_Hira	Neska hura autobusez Chicagora joan zen.	彼女はバスでシカゴへ行った。
 eus	jpn_Hira	Ni ezin naiz horrela bizi.	私はそんな風には生きられない。
 eus	jpn_Hira	Nik nahiago etxean irakurtzea liburutegi batean baino, ezezagunen artean.	私の場合、家で読書するほうが図書館で見知らぬ人の隣に座って読書するより好きだ。
-eus	jpn_Hira	Nolatan?	なぜ？
 eus	jpn_Hira	Nolatan dakizu?	なんで知ってるの？
+eus	jpn_Hira	Nolatan?	なぜ？
 eus	jpn_Hira	Non bilduko gara bihar?	明日どこで会おうか？
 eus	jpn_Hira	Nor da hura?	あれ誰？
 eus	jpn_Hira	Oinetako hauek non erosi dituzu?	この靴どこで買ったの？
@@ -215,16 +215,16 @@ eus	jpn_Hira	Zer egiten ari zara?	何やってるの？
 eus	jpn_Hira	Zer erosi duzu?	何買ったの？
 eus	jpn_Hira	Zer esan nahi duzu?	どういうこと？
 eus	jpn_Hira	Zergatia galdetu al dezaket?	理由聞いてもいい？
-eus	jpn_Hira	Zergatik?	なぜ？
 eus	jpn_Hira	Zergatik du hil beharra?	なぜ死ぬ必要があるんですか？
 eus	jpn_Hira	Zergatik ez diozu deitzen?	彼に電話してみたらどうですか。
 eus	jpn_Hira	Zergatik ezin duzu?	なんでできないの？
 eus	jpn_Hira	Zergatik zara horren argia?	なんでそんなに頭いいの？
+eus	jpn_Hira	Zergatik?	なぜ？
 eus	jpn_Hira	Zer ikusten ari zara?	何見てるの？
 eus	jpn_Hira	Zer moduz eskola?	学校はどうですか？
 eus	jpn_Hira	Zer moduz lana?	仕事はどうですか？
-eus	jpn_Hira	Zer nahi duzu hartu?	何を召し上がりますか？
 eus	jpn_Hira	Zer nahi duzu hartu?	何をお飲みになります？
+eus	jpn_Hira	Zer nahi duzu hartu?	何を召し上がりますか？
 eus	jpn_Hira	Zer nahi duzu hartu?	何飲みたい？
 eus	jpn_Hira	Zertan lagun zaitzaket?	御用は何でしょうか。
 eus	jpn_Hira	Zer usain da hau?	これ何の匂い？
@@ -233,5 +233,7 @@ eus	jpn_Hira	Zu gazterik hilko zara.	お前は若くして死ぬであろう。
 eus	jpn_Kana	Bai.	うん。
 eus	jpn_Kana	Estatubatuarra al zara?	君はアメリカ人かい?
 eus	jpn_Kana	Romeo da Julietek maite duen gizona.	ロメオはジュリエットが愛している男だ。
+eus	jpn	Marina dut izena.	私の名前はマリーナです。
+eus	jpn	Marina dut izena.	私の名前は万理夏です。
 eus	jpn	Nor?	誰？
 eus	jpn	Zer?	何？

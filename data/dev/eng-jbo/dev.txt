@@ -80,6 +80,7 @@ eng	jbo_Latn	All of a sudden, the door opened and a man entered the room.	le vro
 eng	jbo_Latn	All of my brothers died in the war.	ro lo mi bruna pu co'a morsi va'o lo nu jamna
 eng	jbo_Latn	All of my friends like soccer.	ro lo mi pendo cu nelci lo boltipterjvi
 eng	jbo_Latn	All sugar is sweet.	ro sakta cu titla
+eng	jbo_Latn	All that lives must die.	ju'o ro jmive ba mrobi'o
 eng	jbo_Latn	All these books are mine.	ro lo vi cukta cu me mi moi
 eng	jbo_Latn	All the stones have been moved.	ro le rokci cu ba'o muvdu
 eng	jbo_Latn	All the workers went home save one.	da'a le gunka pu zdani xruti ri
@@ -370,6 +371,7 @@ eng	jbo_Latn	Carl is the tallest man alive.	la karl cu clarai lo ro jmive nanmu
 eng	jbo_Latn	Carmen is a Spanish name.	la .karmen. cu spano cmene
 eng	jbo_Latn	Carry me.	mi klama fu ko
 eng	jbo_Latn	Cathy stopped picking flowers.	la .katis. xrula katna sisti
+eng	jbo_Latn	Cats are animals.	lo'e mlatu cu danlu
 eng	jbo_Latn	Cats catch mice.	lo mlatu cu kavbu lo smacu
 eng	jbo_Latn	Cats don't eat bananas.	lo'e mlatu na citka lo badna
 eng	jbo_Latn	Cats hate water.	lo mlatu cu xebni loi djacu
@@ -387,6 +389,7 @@ eng	jbo_Latn	Children should obey their parents.	.ei lo verba ku tinbe fi lo vo'
 eng	jbo_Latn	China has Chinese characteristics.	la djunguos cu jungo bo ckaji
 eng	jbo_Latn	China has Chinese characteristics.	lo jugygu'e ku ckaji lo ka jungo
 eng	jbo_Latn	China is bigger than Japan.	lo jungo gugde cu zmadu lo ponjo gugde lo ka barda
+eng	jbo_Latn	Choose colors that go well together.	ko cuxna da noi jai se jalge lo zabna ku'o lo'i zilska
 eng	jbo_Latn	Choose the one you like.	ko cuxna lo se nelci
 eng	jbo_Latn	Christmas is December 25th.	xrisomasa di'i ca de'i li ly pare dy remu
 eng	jbo_Latn	Cicero is Tully.	la kikeron cu du la tulius
@@ -506,6 +509,7 @@ eng	jbo_Latn	Did you write this book?	xu do pu finti ti noi cukta
 eng	jbo_Latn	Die!	le'o ro'e nai catra ko
 eng	jbo_Latn	Disable the alarm.	gau ko lo kajde sinxa na akti
 eng	jbo_Latn	Divide and conquer.	ko fendi gice'o trubasti
+eng	jbo_Latn	Divorce is a human right.	loi'e remna cu zifre le ka ce'u ce'u mo'u speni kei su'o da
 eng	jbo_Latn	Do as you want.	.e'a do zukte lo se kaidji
 eng	jbo_Latn	Do both sentences really say the same thing?	xu le re mintu cu dunli zu'ai lo ka se smuni
 eng	jbo_Latn	Do cats see in the dark?	xu lo mlatu ka'e viska bu'u lo manku
@@ -761,6 +765,7 @@ eng	jbo_Latn	Er, Sir? What's written on the blackboard isn't an exponential func
 eng	jbo_Latn	Eureka!	uacai
 eng	jbo_Latn	Even my mom knows.	ke ji'a lo mamta be mi cu djuno
 eng	jbo_Latn	Even Rome was built in one day.	la .rom. ji'a noi tcadu cu pu se zbasu zi lo djedi be li pa
+eng	jbo_Latn	Even though our birthdays are only one day apart, Tom is one year ahead of me in school.	.i to'e ni'inai lo du'u lo jbedetri be mi'a cu kai'u lo djedi cu temci ce'u ce'u zo'u: la .tam. cu zmadu mi lo ni klani ce'u tu'a lo ckule kei li pa
 eng	jbo_Latn	Eve plucked fruit from the tree of knowledge.	la xavax pu crepu lo grute le tricu pe lo se djuno
 eng	jbo_Latn	Every apple is red.	roda poi ke'a plise cu xunre
 eng	jbo_Latn	Everybody is the architect of their own fortune.	ro da enge lo jai funca be da
@@ -937,6 +942,7 @@ eng	jbo_Latn	Have you ever fixed your car by yourself?	xu do pu'i cikre lo karce
 eng	jbo_Latn	Have you ever killed a lion?	xu do pu'i catra lo cinfo
 eng	jbo_Latn	Have you ever seen a kangaroo?	xu do ca su'o da viska su'o kanguru
 eng	jbo_Latn	Have you ever seen an unidentified flying object?	xu do pu'i viska lo fange ke vofli dacti
+eng	jbo_Latn	Have you ever seen a pink elephant?	xu do su'oparoi ba'o viska lo xunblabi xanto
 eng	jbo_Latn	Have you ever seen snow?	xu do pu'i viska lo snime
 eng	jbo_Latn	Have you finished?	do mulno xu
 eng	jbo_Latn	Have you finished?	mu'opei
@@ -1631,10 +1637,12 @@ eng	jbo_Latn	I arrived in Tokyo yesterday.	mi mulkla la.tokion. ca lo prulamdei
 eng	jbo_Latn	I asked him about the accident.	preti lo snuti mi ra
 eng	jbo_Latn	I asked him if I could read his book.	mi retsku lo jei ka'e tcidu lo ra cusku kei ra
 eng	jbo_Latn	I asked Tom to stay.	mi cpedu fi la .tom. fe lo ka zvasta
+eng	jbo_Latn	I asked you to buy fish, not chicken!	mi pu minde do le nu te vecnu lo finpe .enai lo jipci
 eng	jbo_Latn	I assumed it was free.	mi pu sruma lo nu no da jdima
 eng	jbo_Latn	I ate at the side of my friend.	mi pu citka ne'a lo pendo be mi
 eng	jbo_Latn	I ate.	mi pu citka
 eng	jbo_Latn	I ate noodles for the first time today.	mi pu citka lo nudle pare'u ca lo cabdei
+eng	jbo_Latn	I ate sea urchin gonads as sushi.	mi pu citka lo etkinu ganti tai la .sucis.
 eng	jbo_Latn	I ate too much today.	mi pu citka du'e da co lo cabdei
 eng	jbo_Latn	I attended the meeting yesterday.	mi zvati lo nu ganzu penmi kei ca prulamdei
 eng	jbo_Latn	I became acquainted with beautiful Polish women at the university in Brazil, and I also met there some very friendly people who could speak Polish.	va'o lo balcu'e be bu'u lo razgu'e mi se co'arsau lo melbi ke gugdrpolska ninmu gi'e ji'a penmi lo xe'otce poi se bangrpolska
@@ -1644,6 +1652,7 @@ eng	jbo_Latn	I believe he is going to be rich one day.	mi krici lo du'u ko'a ba 
 eng	jbo_Latn	I believe he is honest.	.iasai stace
 eng	jbo_Latn	I believe in Buddha.	.i mi krici fi la budas.
 eng	jbo_Latn	I believe that he's happy.	ia ra gleki
+eng	jbo_Latn	I believe that it's not factual.	.ia na jetnu
 eng	jbo_Latn	I believe you know what Marcus is doing.	mi krici lo nu do djuno lo nu la markus cu zukte makau
 eng	jbo_Latn	I belong to the drama club.	mi le dracybende cu cmima
 eng	jbo_Latn	I bet Tom is angry.	ju'o la .tom. cu fengu
@@ -1742,6 +1751,7 @@ eng	jbo_Latn	I cry every time I listen to this song.	mi klaku ca lo ro nu sanga 
 eng	jbo_Latn	I'd agree.	da'i .ie
 eng	jbo_Latn	I'd be unhappy, but I wouldn't kill myself.	da'i mi badri gi'e ku'i na sezycatra
 eng	jbo_Latn	I'd do it again.	da'i mi za'u re'u zukte lo mintu
+eng	jbo_Latn	Ideas don't die.	lo'e sidbo na mrobi'o
 eng	jbo_Latn	I decided to learn Esperanto today.	ca lo cabdei mi jdice lo du'u tadni la.esperanton.
 eng	jbo_Latn	I decided to learn Esperanto today.	ca lo cabdei mi jdice lo du'u tadni lo pa'arbau
 eng	jbo_Latn	I decided to learn Esperanto today.	ca lo cabdei mi jdice lo du'u tadni lo spe'ato
@@ -1812,6 +1822,9 @@ eng	jbo_Latn	I don't care what your mother said.	mi toljunri lo nu le do mamta p
 eng	jbo_Latn	I don't disagree.	mi na toltu'i
 eng	jbo_Latn	I don't eat chicken skin.	mi na citka lo jipci skapi
 eng	jbo_Latn	I don't eat meat.	mi na citka lo rectu
+eng	jbo_Latn	I don't enjoy hanging out with her.	mi na nelci lo'e nu jikca ta
+eng	jbo_Latn	I don't enjoy hanging out with her.	mi na nelci lo'e nu jikca ti
+eng	jbo_Latn	I don't enjoy hanging out with her.	mi na nelci lo'e nu jikca tu
 eng	jbo_Latn	I don't envy her.	mi na jilra ko'a
 eng	jbo_Latn	I don't ever want to see you again.	mi djica lo du'u mi ze'e ba no roi viska do
 eng	jbo_Latn	I don't feel like working; what about going to a cinema instead?	.i mi na djica lo nu gunka .i .e'u mi'o ve skina
@@ -2103,6 +2116,8 @@ eng	jbo_Latn	I have gone to the market.	mi klama le zarci
 eng	jbo_Latn	I have just remembered his name, which I couldn't for a long time.	mi zi morji lo cmene be ra noi mi ze'a na ka'e morji
 eng	jbo_Latn	I have just returned.	mi pu zi xruti
 eng	jbo_Latn	I have lived my life on the sea. I have been through many a storm. I know what it is to be within a step of death — ay, nearer than a step.	mi xamsi se mivru'e .i mi so'iroi lifri lo nu lidvilti'a .i mi djuno lo su'u bazi morsi
+eng	jbo_Latn	I have many times eaten bamboo shoots.	mi so'iroi ba'o citka lo bambu cmastani
+eng	jbo_Latn	I have many times eaten sea urchin gonads as sushi.	mi so'iroi ba'o citka lo etkinu ganti tai la .sucis.
 eng	jbo_Latn	I have memorized 2,000 English words.	mo'u mo'icli fi su'o reki'o lo valsi befi lo glico
 eng	jbo_Latn	I have my supper at a quarter past seven.	mi citka lo ctesai ti'u li paso pi'e pamu
 eng	jbo_Latn	I have my supper at a quarter past seven.	mi citka lo ctesai ti'u li paso su'i fi'u vo
@@ -2372,6 +2387,7 @@ eng	jbo_Latn	I'll write to you soon.	mi ba zi ciska mrilu fi do
 eng	jbo_Latn	I lost interest in collecting stamps.	mi pu co'u se cinri lo ka jai gau jmaji lo estampa
 eng	jbo_Latn	I lost.	mi pu to'e jinga
 eng	jbo_Latn	I lost my camera.	mi cirko lo mi kacma
+eng	jbo_Latn	I love all my aunts.	mi prami ro mi fetfamti
 eng	jbo_Latn	I love both cats and dogs.	mi nelci lo mlatu .e lo gerku
 eng	jbo_Latn	I loved you.	mi pu prami do
 eng	jbo_Latn	I love her.	mi prami ra
@@ -2438,6 +2454,7 @@ eng	jbo_Latn	I'm always looking at you.	mi roroi catlu do
 eng	jbo_Latn	I'm a member here.	mi cmima vi
 eng	jbo_Latn	I'm an experienced fogey in tiredness.	mi tolci'o le nu mi tatpi
 eng	jbo_Latn	I'm a nomad for life.	mi cnexa'u ze'e lo mivru'e
+eng	jbo_Latn	I'm a princess.	mi noltruti'u
 eng	jbo_Latn	I'm a real man.	mi jetnu prenu
 eng	jbo_Latn	I'm as free as a bird.	mi simsa lo'e cipni le ka zifre
 eng	jbo_Latn	I'm ashamed of what I did.	.o'anai mi pu gasnu
@@ -2828,6 +2845,7 @@ eng	jbo_Latn	I saw Liz this morning.	mi viska la .liz. ca lo cerni be lo cabdei
 eng	jbo_Latn	I saw Liz this morning.	mi viska la.liz. ca lo zi cerni
 eng	jbo_Latn	I saw my sister there.	mi pu viska lo mi mensi noi zvati ra
 eng	jbo_Latn	I saw my sister there.	mi pu viska lo mi mensi va
+eng	jbo_Latn	I saw pink dolphins, which are in the rivers of the Amazon.	mi pu viska lo xunblabi delfinu noi zvati lo rirxe bu'u la .Amazon. .ua
 eng	jbo_Latn	I saw the man jump.	mi pu viska lo nu lo nanmu ku plipe
 eng	jbo_Latn	I saw Tom kiss Mary.	mi zgana lo nu la .tam. cu cinba la .meris.
 eng	jbo_Latn	I saw you with Tom.	mi pu viska tu'a do joi la .tom.
@@ -2843,6 +2861,7 @@ eng	jbo_Latn	I see the book.	mi viska le cukta
 eng	jbo_Latn	I see the girl is beautiful.	za'a le ninmu cu melbi
 eng	jbo_Latn	I see the owner of what I believe to be a blue house.	mi viska lo fu'e .ia blanu zdani fu'o ponse
 eng	jbo_Latn	I see Tom.	mi viska la .tam.
+eng	jbo_Latn	I see! You speak the same language as me.	.ua do baupli le mi bangu
 eng	jbo_Latn	I see, you were joking.	ki'a nai .i do pu xalbo
 eng	jbo_Latn	I sell this to you.	mi cu vecnu ti do
 eng	jbo_Latn	Is English a difficult language to learn?	xu lo glico bangu cu jai nandu fai lo ka se cilre
@@ -3426,6 +3445,7 @@ eng	jbo_Latn	I will make him go.	mi ba gasnu lo nu ko'a cliva
 eng	jbo_Latn	I will make some tea.	mi ba zbasu lo su'o tcati
 eng	jbo_Latn	I will miss you all.	mi ba caucni ro do
 eng	jbo_Latn	I will miss you.	mi ba cinmo lo ka claxu do
+eng	jbo_Latn	I will never study Esperanto.	mi ba no roi tadni le pa'arbau
 eng	jbo_Latn	I will probably be given a car by my dad and I would feel happy about it if that happened.	la'a ui dai'i mi ba te dunda lo karce lo mi patfu
 eng	jbo_Latn	I will run under the condition that it's not raining.	mi ba bajra te ta'i lo nu na carvi
 eng	jbo_Latn	I will sing while he is resting.	mi ba sanga ca lonu ko'a ca'o surla
@@ -3601,6 +3621,7 @@ eng	jbo_Latn	Live long and prosper.	ko ze'u jmive gi'e se prali
 eng	jbo_Latn	Living isn't easy.	lo ka renvi na frili
 eng	jbo_Latn	Living things are made from cells.	loi jmive cu se zbasu zi'o loi selci
 eng	jbo_Latn	Lock the door without fail.	ko snada lo nu lo vorme cu ganlo
+eng	jbo_Latn	Lojban is cute.	la .lojban. cu ci'omle
 eng	jbo_Latn	Lojbanistan borders Esperantujo.	da korbi la .lojbangug. la .esperantu,ion.
 eng	jbo_Latn	London's climate differs from that of Tokyo.	la london cu frica la tokios lo ka tcima
 eng	jbo_Latn	London's squares are wonderful.	lo dijypanka pe la lyndyn cu banli
@@ -3636,6 +3657,7 @@ eng	jbo_Latn	Many consider seven to be a lucky number.	so'i prenu cu krici lo du
 eng	jbo_Latn	Many friends saw him off.	so'i pendo ko'a pu tolrinsa
 eng	jbo_Latn	Many murders have been committed in the name of patriotism.	so'i nu catra kei se krinu loka naijgi
 eng	jbo_Latn	Many of us were tired.	so'i mi'a pu tatpi
+eng	jbo_Latn	Many people have gone to the city more times than I have.	su'o prenu cu zmadu mi lo ni ce'u xokau roi klama lo tcadu
 eng	jbo_Latn	Many people only speaks one language.	so'i prenu cu se bangu pa da
 eng	jbo_Latn	Maria's hair is long.	loi kerfa be la .marias. cu clani
 eng	jbo_Latn	Mark has my book.	la mark cu ralte lo cukta pe mi
@@ -3740,12 +3762,14 @@ eng	jbo_Latn	My brother is rich.	lo mi bruna cu ricfu
 eng	jbo_Latn	My brother likes music.	lo bruna be mi ku nelci lo zgike
 eng	jbo_Latn	My brother seems to enjoy himself at college.	lo mi bruna cu simlu lo ka se pluka lo ma'urcu'e
 eng	jbo_Latn	My brother speaks very fast.	lo mi bruna cu sutra tavla
+eng	jbo_Latn	My brother will be cooking tortillas.	le mi bruna ba ca'o jukpa lo nanbrtortiia
 eng	jbo_Latn	My brother would often stay up all night reading novels.	lo mi bruna goi ko'a cu pu ta'e cikna ca lo nicte .imu'ibo ko'a tcidu lo brafi'a
 eng	jbo_Latn	My butt hurts.	.i mi cortu lo zargu
 eng	jbo_Latn	My cat died yesterday.	lo mlatu pe mi ca lo prulamdei co'a morsi
 eng	jbo_Latn	My cat is hungry.	lo mlatu pe mi cu xagji
 eng	jbo_Latn	My cat is wet.	lo mi mlatu cu cilmo
 eng	jbo_Latn	My cat killed this mouse.	lo mi mlatu co'i catra lo vi smacu
+eng	jbo_Latn	My cat loves me.	lo mi mlatu cu prami mi
 eng	jbo_Latn	My cellphone has been stolen.	lo mi fonxa cu se zerle'a
 eng	jbo_Latn	My children are in school.	lo me mi verba ku zvati lo ckule
 eng	jbo_Latn	My clock is five minutes fast.	le mi junla cu julbaco lo mentu be li mu
@@ -3778,6 +3802,7 @@ eng	jbo_Latn	My father is very nice.	le patfu be mi cu tcexau
 eng	jbo_Latn	My father listens to classical music.	lo be mi patfu cu tinzga lo klasika zgike
 eng	jbo_Latn	My father lives and works in Tokyo.	lo mi patfu cu xabju gi'e gunka vau bu'u la .tokios.
 eng	jbo_Latn	My father lives and works in Tokyo.	lo patfu be mi cu xabju la.tokion. gi'e gunka bu'u ri
+eng	jbo_Latn	My father was cooking tortillas.	le mi patfu pu ca'o jukpa lo nanbrtortiia
 eng	jbo_Latn	My father won't allow me to keep a dog.	lo mi patfu ku na curmi lo nu mi ralte lo gerku
 eng	jbo_Latn	My feet are always cold.	lo za'u jamfu be mi ro roi lenku
 eng	jbo_Latn	My feet are cold.	lo za'u jamfu be mi cu lenku
@@ -3808,8 +3833,10 @@ eng	jbo_Latn	My life is boring.	lo nu mi renvi cu to'e zdile
 eng	jbo_Latn	My love doesn't cost anything.	lo ka mi prami cu seldi'a no da
 eng	jbo_Latn	My mobile phone is broken.	lo pe mi xance fonxa cu spofu
 eng	jbo_Latn	My money was stolen.	lo pe mi jdini ba'o se zerlebna
+eng	jbo_Latn	My mother cooks fufu.	le mi mamta ca jukpa lo cidjrfufu
 eng	jbo_Latn	My mother cut the cake.	lo mi mamta pu katna lo titnanba
 eng	jbo_Latn	My mother died when I was a kid.	le mamta cu mrobi'o ca lo mu'e mi pu verba
+eng	jbo_Latn	My mother is cooking fufu.	le mi mamta ca ca'o jukpa lo cidjrfufu
 eng	jbo_Latn	My mother is writing a letter now.	lo be mi mamta caca'o ciska lo xatra
 eng	jbo_Latn	My mother made cookies this morning.	lo mi mamta ku jukpa lo titnanba ca lo vi cerni
 eng	jbo_Latn	My name is Ahmad.	mi'e .axmed.
@@ -3844,10 +3871,13 @@ eng	jbo_Latn	My tea is too sweet.	loi mi tcati cu dukse titla
 eng	jbo_Latn	My team is the leading team.	le mi bende cu pamoi lo'i bende
 eng	jbo_Latn	My thanks in advance for not opening the windows.	mi ckire fi lo nu ba na'e kargau lo canko
 eng	jbo_Latn	My toe started bleeding.	lo mi jmadegji co'a blucri
+eng	jbo_Latn	My uncle always cooks nopales.	le mi nakfamti ca roroi jukpa lo cidjrnopale
 eng	jbo_Latn	My uncle gave me a camera.	lo mi famti pu dunda lo kacma mi
 eng	jbo_Latn	My uncle keeps a dog.	lo mi famti cu ralte lo gerku
 eng	jbo_Latn	My uncle never writes letters.	lo famti be mi no roi ciska lo xatra
 eng	jbo_Latn	My uncle told me the story by way of a joke.	lo mi famti pu smusku fi mi fe lo lisri ne tai lo xajmi
+eng	jbo_Latn	My uncle will be cooking nopales.	le mi nakfamti ba ca'o jukpa lo cidjrnopale
+eng	jbo_Latn	My uncle will be cooking tortillas.	le mi nakfamti ba ca'o jukpa lo nanbrtortiia
 eng	jbo_Latn	My vagina is beautiful!	.o'a le vibna be mi cu melbi
 eng	jbo_Latn	My vision is getting worse these days.	.i lo mi viska nilxau zo'u caze'aca jdika
 eng	jbo_Latn	My watch is more accurate than yours.	lo mi junla cu zmadu lo do co'e lo ka satci
@@ -3879,6 +3909,7 @@ eng	jbo_Latn	Nobody called.	no da pu fonjorne
 eng	jbo_Latn	Nobody came.	no da klama
 eng	jbo_Latn	Nobody except the king admires the king.	da'apa da enai le nolraitru naku sinma le nolraitru
 eng	jbo_Latn	Nobody except the king admires the king.	ro na'ebo le nolraitru naku sinma le nolraitru
+eng	jbo_Latn	Nobody gave Tom anything.	naku su'o da dunda de la .tam.
 eng	jbo_Latn	Nobody knows the truth.	no da djuno lo jetnu
 eng	jbo_Latn	Nobody knows what it is that has been bothering him so much.	no da djuno fi lo nu ma kau se patpei be ko'a mutce
 eng	jbo_Latn	Nobody lives with me.	no da xabju ka'ai mi
@@ -3918,6 +3949,7 @@ eng	jbo_Latn	No problem.	vi'o
 eng	jbo_Latn	No smoking!	ko na sigva'u
 eng	jbo_Latn	No state has the right to exist.	no jecta se krali lo ka zasti
 eng	jbo_Latn	No students could answer the question.	no tadni pu ka'e spuda lo preti
+eng	jbo_Latn	No system of cohesion by loyal obedience that plans own enlargement by manipulation also by effortfully staging confrontations aiming at pretending and distracting from communication shall decrease communication of education.	lo nu lo tibgumci'e poi platu lo sezbramaugau sepi'o lo tcica po ji'a sepi'o loi tolsurtavtigni poi fargau lo ke jifkritrazu'e je tolju'i ke'e be lo casnu ku'o ku'o jdika lo sezmenbasna ctuci'e casnu na crutcini
 eng	jbo_Latn	Not all birds can fly.	ro cipni na kakne lo nu vofli
 eng	jbo_Latn	Not all blondes are dumb.	na ku ro blondino cu mentolcre
 eng	jbo_Latn	Not every country belongs to the U.N.	me'iro gugde cu cmima la jonsi'u gugde
@@ -3976,6 +4008,7 @@ eng	jbo_Latn	One, two, three, four, five, six, seven, eight, nine, ten.	pa .i re
 eng	jbo_Latn	One, two, three, four, five, six, seven, eight, nine, ten.	pa .i re .i ci .i vo .i mu .i xa .i ze .i bi .i so .i pano
 eng	jbo_Latn	"One way or round trip?" "One way, please."	lu pamei je'i remei farna li'u co'e .i lu .e'o jenai li'u co'e
 eng	jbo_Latn	"One way or round trip?" "One way, please."	lu pamei je'i remei farna li'u lu .e'o jenai li'u
+eng	jbo_Latn	On Friday I help Mother make challah for Sabbath.	ne'i le mumdei mi sidju le mi mamta lo du'u zbasu la .xalas. ki'u surdei
 eng	jbo_Latn	Only 514 people have been in space.	ke po'o 514 prenu pu'i zvati lo kensa
 eng	jbo_Latn	Only fifteen minutes.	mentu li su'e pamu
 eng	jbo_Latn	Only slackers fail if and only if the only unfair professors are on sabbatical.	ro fliba cu lazni ijo ro mabla ctuca cu na'arde'a
@@ -3996,6 +4029,8 @@ eng	jbo_Latn	Others engage in volunteer work.	lo drata cu nalterlejgu'a
 eng	jbo_Latn	Ouch! My eyes hurt.	.oi mi cortu lo kanla
 eng	jbo_Latn	Ouch!	.oi ro'o
 eng	jbo_Latn	Our father goes to work by car.	lo mi'a patfu ta'e klama lo briju fu lo karce
+eng	jbo_Latn	Our planet is ill.	le ma'a plini cu bilma
+eng	jbo_Latn	Our planet is sick.	le ma'a plini cu bilma
 eng	jbo_Latn	Our teacher said to us, "Don't leave the room."	lo mi'a ctuca cu cusku fi mi'a fe lu ko na cliva lo kumfa li'u
 eng	jbo_Latn	Our work is almost over.	ma'a na ru'e mo'u gunka
 eng	jbo_Latn	Painting was the great love of his life.	lo nu pirlarfi'i cu ralju se nelci ko'a
@@ -4009,8 +4044,11 @@ eng	jbo_Latn	Paul was born in Rome.	la paulus. cu jbena fo la romas.
 eng	jbo_Latn	Pay attention to his advice.	ko jundi lo ko'a se zukti'i
 eng	jbo_Latn	Pay more attention to your work.	ko zmadu jundi lo do se gunka
 eng	jbo_Latn	People are strange.	lo prenu cu cizra
+eng	jbo_Latn	People arrived at a place where they can appreciate her paintings.	lo prenu cu klama lo stuzi se mu'i lo ka ce'u se pluka lo ri'oi ninmu ku pixra cinta
 eng	jbo_Latn	People believe that god exists.	lo prenu ku krici lo du'u lo cevni ku zasti kei ku
+eng	jbo_Latn	People in general have faith in everything newspapers say.	lo'e prenu cu krici lo du'u makau te tcidu lo karni
 eng	jbo_Latn	People in the town came to help him.	lo prenu pe bu'u le tcadu pu klama mu'i lo ka sidju le nakni
+eng	jbo_Latn	People were deprived of their political rights.	lo prenu pu na jai se banzu lo trucu'u be lo ka zifre fi ce'u
 eng	jbo_Latn	Perfect!	ki'ai prane
 eng	jbo_Latn	Perhaps he will never be famous.	su'o ba'oi ze'e na'e misno
 eng	jbo_Latn	Perhaps it's too late.	ju'o cu'i dukse lerci
@@ -4023,6 +4061,7 @@ eng	jbo_Latn	Phew, that was a long sentence!	uo di'u clani jufra
 eng	jbo_Latn	Philip and Tom are related to each other.	la .filip. la .tam. cu ckini soi vo'a
 eng	jbo_Latn	Physician, heal thyself.	doi le mikce ko mikce ko
 eng	jbo_Latn	Physics is Greek to me.	lo termu'eske cu itku'ile ga'a mi
+eng	jbo_Latn	Pink dolphins are in the rivers of the Amazon.	lo xunblabi delfinu cu zvati lo rirxe bu'u la .Amazon.
 eng	jbo_Latn	Pinocchio says: "Now my nose will grow."	la'o gy.Pinocchio.gy. cusku lu lo nazbi be mi ca banro li'u
 eng	jbo_Latn	Pinocchio says: "Now my nose will grow."	la'oi pinocchio cusku lu lo mi nazbi ca banro li'u
 eng	jbo_Latn	Piss off!	le'o ko mabla cliva
@@ -4093,6 +4132,7 @@ eng	jbo_Latn	Portugal is not an exception.	.i lo potygu'e cu na'e jai nafmupli
 eng	jbo_Latn	Potential customers have been listed.	lo cumterve'u cu pu terzba lo liste
 eng	jbo_Latn	Precisely speaking, I need six hours to at least think straight. Additionally, I need seven hours to be happy.	.i sa'e mi nitcu xa le cacra seri'a le nu mi milxe xamgu pensi .iji'a mi nitcu ze le cacra seri'a le nu mi gleki
 eng	jbo_Latn	Privacy is important to us.	le i'inai vajni mi
+eng	jbo_Latn	Protect trans kids.	ko bandu lo'e trangeni verba
 eng	jbo_Latn	Pshaw, is that the best you can do?	.u'e nai xu ta xagrai lo se kakne be do
 eng	jbo_Latn	Put down your name on the list and pass it on to the next person.	ko ciska le do cmene le liste gi'e dunda ly. lo lamji be do
 eng	jbo_Latn	Put your hands down!	gau ko lo do xance cu dizlo
@@ -4149,6 +4189,7 @@ eng	jbo_Latn	Send in something to eat or I'll kill a hostage.	le'o go ko mrilu l
 eng	jbo_Latn	Sentences can teach us a lot. And a lot more than just words.	lo jufra ka'e ctuca mutce .i zmadu tu'a lo valsi
 eng	jbo_Latn	Seriously, I postulate that I am, right after my ex-girlfriend leaves my house, going to talk to myself in Lojban.	zo'o cu'i ru'a mi ca lo nu lo ba'o pampe'o cu cliva lo zdani be mi cu tavla vo'a fo la lojban
 eng	jbo_Latn	Settlers were forced off their land.	pu livbai le xa'urbi'o le ri tutra
+eng	jbo_Latn	Several buildings were destroyed.	so'o dinju cu se daspo
 eng	jbo_Latn	Shall we play?	pei mi'ai kelci
 eng	jbo_Latn	Shall we wait for you here?	.aupei mi'a vi denpa tu'a do
 eng	jbo_Latn	Sharks can sense blood.	lo kircaiu ka'e ganse lo ciblu
@@ -4299,6 +4340,7 @@ eng	jbo_Latn	She put her hands on his shoulders.	ko'a pu punji lo xance be ko'a 
 eng	jbo_Latn	She's a bad liar.	le fetsi cu to'e certu lo ka smusku lo jitfa
 eng	jbo_Latn	She's a devout Catholic.	mutce la'orxi'o
 eng	jbo_Latn	She's a good liar.	le fetsi cu certu lo ka smusku lo jitfa
+eng	jbo_Latn	She said to the man,"Your flower looks beautiful!"	tu cusku lu le do xrula cu melbi li'u le nanmu
 eng	jbo_Latn	She's a nerd.	malcrexalbo
 eng	jbo_Latn	She's asking how that's possible.	le fetsi ca'o retsku lo se du'u seja'e makau cumki
 eng	jbo_Latn	She's a sweet girl.	ko'a pukclite
@@ -4403,6 +4445,11 @@ eng	jbo_Latn	Some bread and butter.	so'o lo nanba je lo matne
 eng	jbo_Latn	Someday I'll beat you.	ca su'o balvi mi jinga fi do
 eng	jbo_Latn	Someday I'll beat you.	ca su'o balvi mi ze'a darxi do
 eng	jbo_Latn	Some humans believe that there exists a god who is omniscient, omnipotent and omnipresent.	su'o remna cu krici lo du'u su'o da cevni gi'e .omni lo ka djuno je lo ka kakne je lo ka zvati
+eng	jbo_Latn	Some mass of children are eating tortillas.	loi verba ca ca'o citka lo cidjrtortiia
+eng	jbo_Latn	Some mass of children will be eating the set of tortillas.	loi verba ba ca'o citka le'i cidjrtortiia
+eng	jbo_Latn	Some mass of children will eat some mass of tortillas.	loi verba ba citka loi cidjrtortiia
+eng	jbo_Latn	Some mass of children will eat the mass of tortillas.	loi verba ba citka lei cidjrtortiia
+eng	jbo_Latn	Some mass of children will eat the set of tortillas.	loi verba ba citka le'i cidjrtortiia
 eng	jbo_Latn	Some of the girls laughed.	so'o lo nixli pu cmila
 eng	jbo_Latn	Some of the students like to play the guitar.	so'o le tadni cu nelci lozu'o pilno lo jgita
 eng	jbo_Latn	Someone among them wants to hug you.	pa me da'ai cu djica lo ka pamjai do
@@ -4419,6 +4466,7 @@ eng	jbo_Latn	Some people evolved from apes, and some did not yet.	lo su'o remna 
 eng	jbo_Latn	Some professors don't understand this problem.	su'o ctuca naku jimpe fi le nabmi
 eng	jbo_Latn	Some runners drink water as they are running.	so'o bajra cu pinxe lo djacu ca'o lonu bajra
 eng	jbo_Latn	Some scientists believe that our first contact with extra-terrestrial life will occur in the next decade or so.	su'o skepre cu krici lo du'u lo pa moi be lo nu ma'a penmi su'o nalterdi jmive ba fasnu ca lo bavla'i nanca be li ji'i pano
+eng	jbo_Latn	Some set of children are eating tortillas.	lo'i verba ca ca'o citka lo cidjrtortiia
 eng	jbo_Latn	Something has happened to this clock.	lo vi junla ba'o lifri da
 eng	jbo_Latn	Something has to be done to stop the bleeding.	ja'o lo nu sisti lo nu blucri cu seltcu selgau
 eng	jbo_Latn	Something's coming.	da ca'o klama ti
@@ -4638,6 +4686,11 @@ eng	jbo_Latn	The arrow hit the target.	le strelka pu darxi le farna
 eng	jbo_Latn	The art teacher paints at night.	lo larcu ctuca cu cintypu'i ca lo nicte
 eng	jbo_Latn	The ATM has swallowed my debit card.	lo lejykardymi'i cu tulcti pe'a lo mi baxydinkarda
 eng	jbo_Latn	The atomic number for iron is 26.	lo tirse cu ratni li re xa
+eng	jbo_Latn	The Australian Aborigines eat witchetty grubs in the desert.	le sralo liryraixa'u cu citka lo cinkyre'u be la .uitcetis. bu'u le cantu'a
+eng	jbo_Latn	The Australian Aborigines eat witchetty grubs.	le sralo liryraixa'u cu citka lo cinkyre'u be la .uitcetis.
+eng	jbo_Latn	The Australian Aborigines were eating witchetty grubs.	le sralo liryraixa'u pu ca'o citka lo cinkyre'u be la .uitcetis.
+eng	jbo_Latn	The Australian Aborigine throws the boomerang.	le sralo liryraixa'u cu renro la .BUmeran.
+eng	jbo_Latn	The Australians eat witchetty grubs.	le sralo prenu cu citka lo cinkyre'u be la .uitcetis.
 eng	jbo_Latn	The author's name is familiar to us.	lo cmene be lo finti cu slabu mi
 eng	jbo_Latn	The autumn sky is clear and serene.	le critu tsani cu klina secau lo dilnu
 eng	jbo_Latn	The baby needs his mother.	le cifnu cu nitcu tu'a lo mamta be vo'a
@@ -4688,6 +4741,7 @@ eng	jbo_Latn	The cat is playing with the ball.	le mlatu cu kelci le bolci
 eng	jbo_Latn	The cat likes mice; I don’t like them.	le pa mlatu cu nelci lo smacu i mi na'e nelci ri
 eng	jbo_Latn	The cat likes to sleep beside me.	le mlatu cu nelci lo nu sipna ne'a mi
 eng	jbo_Latn	The cat meowed.	lo mlatu cu latcmo
+eng	jbo_Latn	The cat scratched me.	lo mlatu cu sraku zo'ei mi
 eng	jbo_Latn	The cat sleeps next to the couch.	le mlatu ca sipna re'o le sfofa
 eng	jbo_Latn	The cat sleeps on the table.	lo mlatu cu sipna bu'u lo jubme
 eng	jbo_Latn	The cause of the fire is yet unknown.	lo rinka be lo fagri nu'o jai se djuno
@@ -4698,17 +4752,32 @@ eng	jbo_Latn	The CEO of IBM is the spouse of someone present.	lo kagytrujalju be
 eng	jbo_Latn	The CEO of IBM is the spouse of someone present.	lo kagytrujalju be la'o gy.IBM.gy. cu speni lo zvati
 eng	jbo_Latn	The chair is of a non-red color.	lo stizu cu na'e xunre be ci'u lo ka skari
 eng	jbo_Latn	The channel has low signal-to-noise ratio.	i le xe benji cu poi'i cmalu fa lo parbi be lo ni sinxa je pagbu be ke'a bei lo ni savru je pagbu be ke'a
+eng	jbo_Latn	The child always eats fufu.	le verba roroi citka lo cidjrfufu
+eng	jbo_Latn	The child drinks bandung.	le verba cu pinxe lo cidjrbandungo
+eng	jbo_Latn	The child drinks lassi.	le verba cu pinxe lo cidjrlasi
+eng	jbo_Latn	The child eats chapatis.	le verba cu citka la .tcapatis.
+eng	jbo_Latn	The child has drunk bandung.	le verba ba'o pinxe lo cidjrbandungo
+eng	jbo_Latn	The child is about to drink bandung.	le verba pu'o pinxe lo cidjrbandungo
+eng	jbo_Latn	The child is beginning to drink bandung.	le verba co'a pinxe lo cidjrbandungo
 eng	jbo_Latn	The child is writing a book.	le verba ca ca'o ciska lo se cukta
+eng	jbo_Latn	The children always eat fufu.	le verba roroi citka lo cidjrfufu
 eng	jbo_Latn	The children love listening to fairy tales.	lo verba cu se pluka lo ka tinzu'e tu'a lo ranmi
 eng	jbo_Latn	The children love listening to stories.	lo verba cu se pluka lo ka tinzu'e tu'a lo lisri
 eng	jbo_Latn	The child's ball fell into the creek.	lo bolci pe lo verba cu pu farlu ne'i lo cmari'e
+eng	jbo_Latn	The child stopped drinking bandung.	le verba pu co'u pinxe lo cidjrbandungo
+eng	jbo_Latn	The child stopped eating chapatis.	le verba co'u citka la .tcapatis.
 eng	jbo_Latn	The child was almost drowned.	.i lo verba na ru'e jaurvasmro
+eng	jbo_Latn	The child was drinking bandung when the mother entered.	le verba pu co'inai pinxe lo cidjrbandungo ca lo nu le mamta co'i nerkla
+eng	jbo_Latn	The child was eating injera.	le verba pu ca'o citka lo nanbrnjera
+eng	jbo_Latn	The child will be eating chapatis.	le verba ba ca'o citka la .tcapatis.
+eng	jbo_Latn	The child will eat chapatis.	le verba ba citka la .tcapatis.
 eng	jbo_Latn	The choice is yours.	e'a do cuxna
 eng	jbo_Latn	The church was built in the fifteenth century.	lo malsi pu se zbasu ca lo pamumoi ctona'a
 eng	jbo_Latn	The city in which they live has a large Spanish-speaking community.	lo tcadu poi se xabju ra cu se xabju pa barda cecmu poi se bangu lo spano
 eng	jbo_Latn	The clouds hid the sun.	lo dilnu pu mipri lo solri
 eng	jbo_Latn	The coach doesn't know who the tallest student is.	le ctuca be le lankyboi selkei bende cu sisku lo clarai tadni
 eng	jbo_Latn	The coach is looking for a certain student, and the speaker describes that student as "the tallest student". The coach may not even know that that student is the tallest.	le ctuca be le lankyboi selkei bende cu sisku le clarai tadni
+eng	jbo_Latn	The coconut is a symbol representing Lojban. It seems tasty, but inside it is empty.	lo'e kokso cu sinxa le jbobau i simlu lo ka kukte i je ku'i le nenri cu kunti
 eng	jbo_Latn	The coin is made out of gold.	lo sicni cu solji
 eng	jbo_Latn	The committee has ten members.	le kamni cu pa no mei
 eng	jbo_Latn	The company invested a lot of money in this project.	le kagni cu zivle loi mutce jdini le gungunma
@@ -4753,9 +4822,11 @@ eng	jbo_Latn	The eye is the mirror of the soul.	lo kanla cu ekra lo pruxi
 eng	jbo_Latn	The eye is the mirror of the soul.	lo kanla cu minra pe'a lo ruxse'i
 eng	jbo_Latn	The fact is I do not love her.	sei fatci mi na prami ta poi fetsi
 eng	jbo_Latn	The fact that I said farewell to someone in the past doesn't necessarily mean I won't greet them in the future.	lo nu mi pu tolrinsa da na naka'enai rinka lo nu mi na ba rinsa da
+eng	jbo_Latn	The family is cooking tacos.	le lanzu ca ca'o jukpa lo cidjrtako
 eng	jbo_Latn	The famous building, the Taj Mahal, is in India.	le misno dinju no'u la taj,ma'al. cu selstu la .indias.
 eng	jbo_Latn	The feeling's mutual.	simxu lo ka ce'u cinmo fi tu'a ce'u
 eng	jbo_Latn	The fellow is here.	lo nanmu vi zvati
+eng	jbo_Latn	The figure of the queen was designed one-dimensionally during most of the time in history. Only at the very end did it get some depth.	lo tarmi be lo noltruni'u be'o goi ko'a cu se platu fi lo nu ckaji lo ka cimdylai li pa keikei ca lo so'e se fasnu pe su'o citri .i ko'a pu'oco'a jarco lo su'o ka cimdylai li ci
 eng	jbo_Latn	The file is weighing 7 megabytes.	.i le sfaile cu pi'ai megdo skamrbaiti li 7
 eng	jbo_Latn	The film lasted 2 hours.	lo skina cu se ditcu lo cacra be li re
 eng	jbo_Latn	The first time I had Sushi was fantastic.	le nu mi pamoi citka loi cidjrsuci cu mutce pluka
@@ -4827,6 +4898,7 @@ eng	jbo_Latn	The man is eating. The woman is eating. The child is eating.	.i lo 
 eng	jbo_Latn	The "man" that you saw is actually a woman.	le ju'acu'i nanmu poi do pu viska ke'a cu je'u ninmu
 eng	jbo_Latn	The man who lives next door to me is a doctor.	lo nanmu poi xabju lamji mi cu mikce
 eng	jbo_Latn	The man you met at the station is my father.	le nanmu poi se penmi do le tcana cu patfu mi
+eng	jbo_Latn	The mass of children are eating fufu.	lei verba ca ca'o citka lo cidjrfufu
 eng	jbo_Latn	The mathematics class is good.	lo mekso ve ctuca ku xamgu
 eng	jbo_Latn	The meat is expensive.	lo rectu cu kargu
 eng	jbo_Latn	The medicine cured him of his illness.	le micyxu'i cu galfi ko'a lo ka kanro
@@ -4834,7 +4906,13 @@ eng	jbo_Latn	The meeting, in short, was a waste of time.	to'u le nunpenmi pu ka 
 eng	jbo_Latn	The men are eating lunch.	loi nanmu ca citka lo dormijysai
 eng	jbo_Latn	The meter per second is the SI unit for velocity. Its symbol is m/s.	lo pi'ai mitre fei'u snidu cu gradu le sornairauci'e lo ni muvysutra .i le go'i cu se sinxa me'o my fi'ubu sy
 eng	jbo_Latn	The method is wicked.	le tadji cu palci
+eng	jbo_Latn	The Mexican family is eating coconut with seafood.	le mexno lanzu ca ca'o citka lo rutrkoko joi xasycidja
+eng	jbo_Latn	The Mexican family kept eating coconut with seafood after the beach party was over.	le mexno lanzu pu za'o citka lo rutrkoko joi xasycidja ba lo nu mo'u xaskoi tersla
+eng	jbo_Latn	The Mexican family kept eating coconut with seafood with chocolate after the beach party was over.	le mexno lanzu pu za'o citka lo rutrkoko joi xasycidja joi cakla ba lo nu mo'u xaskoi tersla
+eng	jbo_Latn	The Mexican man is preparing coconut with seafood.	le mexno nanmu ca ca'o jukpa lo rutrkoko joi xasycidja
+eng	jbo_Latn	The Mexican men kept eating coconut with seafood with chocolate after the beach party was over.	le mexno nanmu pu za'o citka lo rutrkoko joi xasycidja joi cakla ba lo nu mo'u xaskoi tersla
 eng	jbo_Latn	The moon is distant from the earth.	lo lunra cu darno lo terdi
+eng	jbo_Latn	The more a state aims at creating a culture of distracting diversion from a justification lack of own existential fundament, the more it supports creation of and access to superficially spectacularly lavishly presented fictional narrations.	le ka lo jecta cu fargau lo sezyzatcmurincautolju'i kulnu zbasu kei selku'e panra le ka ra sarji lo tolsurseltigfacycaumaczdilisfriti zbasu je jonse kei selku'e
 eng	jbo_Latn	The more I get, the more I want. The more I want, the less I get. The less I get, the less I want. The less I want, the more I get.	lonu mi zenba cpacu kei selja'e lonu mi zenba djica .i lonu mi zenba djica kei selja'e lonu mi jdika cpacu .i lonu mi jdika cpacu kei selja'e lonu mi jdika djica .i lonu mi jdika djica kei selja'e lonu mi zenba cpacu
 eng	jbo_Latn	The mother greatly missed her daughter, who was away at college.	lo mamta cu mutce caucni lo ri tixnu noi zvati lo ma'urcu'e
 eng	jbo_Latn	The mother of a friend of mine is able to frequently go to the lake.	lo mamta be lo pendo be mi cu kakne lo ka lo nu ce'u klama lo lalxu cu cafne
@@ -4919,8 +4997,10 @@ eng	jbo_Latn	There are no houses around here.	no zdani cu va zvati
 eng	jbo_Latn	There are no more than two villains in Gotham.	su'e re da pacpre bu'u la gotam
 eng	jbo_Latn	There are only 80 Uyghurs in Switzerland.	lo mo'a bino me la .uigur. cu zvati la .xelvetik.
 eng	jbo_Latn	There are only two primes between 10 and 14.	re namcrprimu cu jbini li pano bi'i li pavo
+eng	jbo_Latn	There are people who have gone to the city more times than I have.	su'o prenu cu zmadu mi lo ni ce'u xokau roi klama lo tcadu
 eng	jbo_Latn	There are plenty of fish in this river.	rau finpe cu nenri lo vi rirxe
 eng	jbo_Latn	There are sixty seconds in a minute.	lo mentu cu du lo snidu be li xano
+eng	jbo_Latn	There are so many onomatopoeias in Japanese, but I cannot find the one describing short people, or even tall people.	lo .onmatopo'eia bu'u le ponbau cu so'imei .i ku'i mi na facki fi .obu poi me lo tordu prenu gi'a me lo rajycla prenu
 eng	jbo_Latn	There are things I have to know about.	fe da mi djuno e'i
 eng	jbo_Latn	There came a complete silence. You could hear a pin drop.	mulno smaji .i tirna lo nu lo pijne cu farlu
 eng	jbo_Latn	There has been an accident.	pu snuti
@@ -4975,6 +5055,7 @@ eng	jbo_Latn	There's no problem.	no da nabmi
 eng	jbo_Latn	There's no rest for the wicked.	.i no da nu surla fa lo palci
 eng	jbo_Latn	There's no salt.	no da silna
 eng	jbo_Latn	There's nothing inside.	no da nenri
+eng	jbo_Latn	There's only one thing left for us to do.	da po'o stali zi'o gi'e poi'i mi'ai ba zukte ke'a
 eng	jbo_Latn	There's our bus.	va me lo aftobuso pe mi'ai
 eng	jbo_Latn	There's quite a lot of things to do; do you want some help?	.i so'ida selzu'e .ei .i xu do seldjudji
 eng	jbo_Latn	There's someone here.	da ca zvati ti
@@ -5001,6 +5082,7 @@ eng	jbo_Latn	There were two careless mistakes on his paper.	ra pu srera re tu'a 
 eng	jbo_Latn	There will be consequences.	ba jalge
 eng	jbo_Latn	The rich are getting richer.	lo'e ricfu ru'i zenba lo ka ricfu
 eng	jbo_Latn	The riot police arrived on the scene.	lo kaspulji pu tsuku lo jai vi fasnu
+eng	jbo_Latn	The Roman Empire uses the story Star Wars for lifting up its practice of crucifixion by smuggling into Jedi knights determined to get crucified a loyal Anakin Skywalker who provokes not to get accepted into their council which Anakin can take as trigger for staging sabotage whose impression of severity is designed to become narcotized and distracted by the story. This loyality is also promoted by the Super Mario narrative in which a King Koopa ensures it also by biotechnical manipulation.	le latmo nolraitrugu'e pilno la zo starvars lisri lo cnilafti be lei ra kruca la'a sepi'o lo tcica be fi le nu la zo .anakin prenu goi ko'a ku 1. poi ji'a selcme lo valsi be lo tsani cadzu zi'e 2. poi ckaji lo tinbe poi ji'a selsra la zoi dy super mario dy lisri poi selne'i le nu la zoi dy koopa dy nolraitru cu lacri lo dalba'o gingafmi'i ku'o ku ku zi'e 3. poi revpe'i mo'ine'i lai zoi dy jedi dy sonci goi ko'e ku poi le kruca la'a be ke'a cu selbai cu xlura ko'e le natfe be le nu .i'a ko'a nolcmima ko'e be'o poi cumxlu ko'a loi spogau po lo xlura be fo le ke'a jursa be'o poi se platu fi le nu ke'a cpacu le ka le lisri cu tolfragau je tolju'i
 eng	jbo_Latn	These are beautiful horses.	ti melbi xirma
 eng	jbo_Latn	These are birds.	ti cipni
 eng	jbo_Latn	These are fresh.	lo za'u ti vifne
@@ -5020,6 +5102,7 @@ eng	jbo_Latn	These paintings are different sizes.	lo za'u vi pixra cu simxu fric
 eng	jbo_Latn	These pictures are beautiful.	lo vi za'u pixra cu melbi
 eng	jbo_Latn	The servants worked like ants.	lo selfu prenu cu gunka tai lo manti
 eng	jbo_Latn	These shoes are hers.	ti poi cutci cu se ralte ra
+eng	jbo_Latn	The set of children will be eating tortillas.	le'i verba ba ca'o citka lo cidjrtortiia
 eng	jbo_Latn	These windows look to the south.	loi vi canko cu se bancu lo snanu
 eng	jbo_Latn	The ship wasn't ready for battle.	le bloti na bredi lo nunda'a
 eng	jbo_Latn	The situation seemed hopeless.	le tcini pu simlu lo ka se pacna be fi li no
@@ -5044,6 +5127,7 @@ eng	jbo_Latn	The stars shone in the sky.	za'u tarci pu gusni carmi bu'u lo tsani
 eng	jbo_Latn	The station is two meters away.	.i lo mitre be li re zo'u lutnilcla fi lo tcana
 eng	jbo_Latn	The streetlight over there is broken.	ta poi lajdictergu'i cu spofu
 eng	jbo_Latn	The string is very weak.	lo cinlysko cu mutce ruble
+eng	jbo_Latn	The strongest natural generator of almost psychedelic as dream symbolism interpretable sense appearances is the amygdala so that every asking for psychedelic substances also always has to be perceived as indirect complaint against a lack of and indication for inspection of its functioning.	.i le selsnesnisnuka'a rarmengafjbigastolcanczbaca'a cu tsaselrai le .amgidala goi ko'a .iseri'a ro cpedu be lo gasgafxu'i cu ji'a roroi gasnu poi sarcganse lo ke rubseljufra pante be lo de'e jdika ke'e je ctani'i be le ko'a te rango
 eng	jbo_Latn	The sugar is sweet.	lo sakta cu titla
 eng	jbo_Latn	The suggestion seems logical.	lo se stidi cu simlu lo ka racli
 eng	jbo_Latn	The sum of 5 and 3 is 8.	li bi sumji li mu li ci
@@ -5072,8 +5156,15 @@ eng	jbo_Latn	The train was going 500 miles per hour.	le trene cu muvdu xoi pi'ai
 eng	jbo_Latn	The tsar was the ruler of Russia.	la .tsar. pu me lo jatna be la .rosi,ias.
 eng	jbo_Latn	The two brothers are very much alike.	lo re bruna cu mutce lo ka simsysi'u
 eng	jbo_Latn	The two brothers have died.	lo re bruna ba'o mrobi'o
+eng	jbo_Latn	The typical child will eat the typical tortillas.	lo'e verba ba citka lo'e cidjrtortiia
+eng	jbo_Latn	The typical child will eat tortillas.	lo'e verba ba citka lo cidjrtortiia
 eng	jbo_Latn	The typical Japanese person doesn't speak English.	lo'e ponjo na se bangu lo glico
 eng	jbo_Latn	The typical Japanese person doesn't speak English.	lo'e prenu poi se gugdejupu na se bangu lo bangenugu
+eng	jbo_Latn	The uncle is cooking a mass of chapatis.	le nakfamti ca ca'o jukpa loi nanbrtcapati
+eng	jbo_Latn	The uncle is eating chapati.	le nakfamti ca ca'o citka lo nanbrtcapati
+eng	jbo_Latn	The uncle was drinking lassi.	le nakfamti pu ca'o pinxe lo cidjrlasi
+eng	jbo_Latn	The uncle will be cooking tacos.	le nakfamti ba ca'o jukpa lo cidjrtako
+eng	jbo_Latn	The uncle will be drinking mango lassi.	le nakfamti ba ca'o pinxe lo mango cidjrlasi
 eng	jbo_Latn	The United States is next to Canada.	lo gugde'usu cu lamji lo gugdecu'a
 eng	jbo_Latn	The USA is very big.	.ubu sy. poi landa cu mutce barda
 eng	jbo_Latn	The users of Tatoeba are kind.	le'e cmima be la tatoebas cu xendo
@@ -5104,9 +5195,11 @@ eng	jbo_Latn	The world is not enough.	le munje na banzu
 eng	jbo_Latn	They all listened.	ro ko'a pu tirna jundi
 eng	jbo_Latn	They all stood.	ro ko'a pu sanli
 eng	jbo_Latn	They all watched.	ro ko'a pu zgana
+eng	jbo_Latn	They always cry.	roroi klaku
 eng	jbo_Latn	They are good people.	vrude prenu
 eng	jbo_Latn	They are happy about the result.	ko'a gleki lo jalge
 eng	jbo_Latn	They aren't alone.	za'u ra na nonkansa
+eng	jbo_Latn	They are people.	za'u ko'a prenu
 eng	jbo_Latn	They are singers.	ra sa'acre
 eng	jbo_Latn	They are talking about what they will sing.	da casnu lo ba selsa'a be da
 eng	jbo_Latn	They asked Mrs. Lincoln where she wanted her husband buried.	lo za'u ra pu retsku fi la misis linkoln fe lo se du'u ri djica lo nu lo speni be ri cu se derni'agau bu'u makau
@@ -5170,6 +5263,8 @@ eng	jbo_Latn	They were not sure whether they could come or not.	le za'umei pu na
 eng	jbo_Latn	They won't stop.	za'u ko'a na ba sisti
 eng	jbo_Latn	They won't talk.	za'u ko'a na ba tavla
 eng	jbo_Latn	They worked like bees.	.i gunka fi'o pe'a simsa lo bifce
+eng	jbo_Latn	Things like that only happen in the movies.	lo smimlu be la'e di'u cu zvati lo skina
+eng	jbo_Latn	Things will get better soon.	lo nunco'e ba co'a xamgu
 eng	jbo_Latn	Thinking is hard.	lo ka peisku ku cu nandu
 eng	jbo_Latn	Thirty minutes after your bedtime, I was still walking.	ba nu'i lo do nunsipna la'u lo mentu be li cino zo'u mi za'o cadzu
 eng	jbo_Latn	This all sounds great.	ro la'e do'i simlu lo ka banli
@@ -5420,6 +5515,7 @@ eng	jbo_Latn	Tom begged Mary to stay.	la tom pu pikci la maris lo ka stali
 eng	jbo_Latn	Tom broke into our conversation.	la tom pu zunti lo mi'ai se casnu
 eng	jbo_Latn	Tom brought this.	la tom pu klagau ti
 eng	jbo_Latn	Tom called.	la .tam. pu fonjorne
+eng	jbo_Latn	Tom can do a lot of things.	la .tom. ka'e zukte so'e da
 eng	jbo_Latn	Tom can fix this.	la .tom. cu kakne lo ka cikre
 eng	jbo_Latn	Tom can neither read nor write.	la .tom. cu kakne ge nai lo ka tcidu gi nai lo ka ciska
 eng	jbo_Latn	Tom can run fast.	la.tam. ka'e sutra bajra
@@ -5453,12 +5549,14 @@ eng	jbo_Latn	Tom drank in silence.	la tom pu pinxe fau lo nu smaji
 eng	jbo_Latn	Tom drives a black car, doesn't he?	la tom. xu sazri lo xekri karce
 eng	jbo_Latn	Tom drove the car.	la .tam. pu lumci le karce
 eng	jbo_Latn	Tom drove to work.	i la tom pu ku sazri lo karce gi'e se ta'i bo klama lo stuzi be lo nu jibri vo'a
+eng	jbo_Latn	Tom farted.	la .tam. pu gaxykafke
 eng	jbo_Latn	Tom fed the dog.	la tom pu ctigau le gerku
 eng	jbo_Latn	Tom fell in love with Linda.	la tom. cu bixpa'i la lindas.
 eng	jbo_Latn	Tom felt much happier.	la tom pu mutce zenba lo ni gleki
 eng	jbo_Latn	Tom flirted with the waitress.	la tom pu firca la djabeini'u
 eng	jbo_Latn	Tom followed me here.	la tom pu jersi mi vi
 eng	jbo_Latn	Tom followed us here.	la tom pu jersi mi'a vi
+eng	jbo_Latn	Tom found something amazing.	la .tam. pu co'a facki tu'a lo zabna
 eng	jbo_Latn	Tom frequently wears a hat.	la .tam. piso'eroi se sedyta'u
 eng	jbo_Latn	Tom gave me several books.	la .tom. pu dunda so'o cukta mi
 eng	jbo_Latn	Tom gave up the idea of going to Boston.	la .tam. pu radycru lo si'o klama la .bastyn.
@@ -6000,11 +6098,12 @@ eng	jbo_Latn	We were all present at the party.	.i ro lu'a mi'a zvati lo nunsla
 eng	jbo_Latn	We were just talking.	mi'a pu tavla sa'u zu'ai
 eng	jbo_Latn	We were not afraid.	mi'ai pu na terpa
 eng	jbo_Latn	We weren't told where he came from.	mi'a na te cusku lo du'u ko'a klama fi makau
-eng	jbo_Latn	We were sorry.	mi'a uu
 eng	jbo_Latn	We were sorry.	mi'a u'u
+eng	jbo_Latn	We were sorry.	mi'a uu
 eng	jbo_Latn	We were truly surprised.	mi'a pu je'a se spaji
 eng	jbo_Latn	We will arrange travel expenses for trips for research purposes, so go to whatever country you want to.	ai va'o lo saske cipra terzu'e mi pleji fo zo'ei lo nunli'u i ja'o e'a ko lo jai se djica be do ku poi gugde cu klama
 eng	jbo_Latn	We will become happy in the long run.	ma'a za gleki binxo
+eng	jbo_Latn	We will be seeing pink dolphins, which are in the rivers of the Amazon.	mi'o ba ca'o viska lo xunblabi delfinu noi zvati lo rirxe bu'u la .Amazon. .ua
 eng	jbo_Latn	We wonder why.	mi'a kucli lo du'u ma kau krinu
 eng	jbo_Latn	We won't forgive you.	mi na ba fraxu do
 eng	jbo_Latn	We would often discuss our future.	mi'a pu simta'a le mi'a bavycu'i
@@ -6045,6 +6144,7 @@ eng	jbo_Latn	What did you just say?	fe ma do pu zi cusku
 eng	jbo_Latn	What did you say? I didn't hear.	ke'o do'u mi na pu tirna
 eng	jbo_Latn	What did you see?	fe ma do pu viska
 eng	jbo_Latn	What do all have in common?	roda ckaji ma
+eng	jbo_Latn	What does homemade laundry detergent taste like?	lo'e jisygau poi se snada poi'a na se vecnu cu jai se vrusi ma
 eng	jbo_Latn	What does it feel like?	cinmo ma
 eng	jbo_Latn	What does it feel like?	ganse ma
 eng	jbo_Latn	What doesn't kill us makes us stronger.	lo na catra be mi'ai cu jai rinka lo nu mi'ai tsali zenba
@@ -6110,6 +6210,7 @@ eng	jbo_Latn	What he said was far from true.	le se cusku ku nalje'u mutce
 eng	jbo_Latn	What horrible events took place? Where are you parents? What happened to your husband?	jenca mo .i ma zvati lo do rirni .i lo do nakspe cu mo
 eng	jbo_Latn	What I am commanding you to do?	ko mo
 eng	jbo_Latn	What if I fail?	mo va'o lo nu mi fliba
+eng	jbo_Latn	What if they're alive?	ru'a lo du'u tu jmive cu jetnu xu
 eng	jbo_Latn	What is a UFO?	ma du VFD
 eng	jbo_Latn	What is done out of love always takes place beyond good and evil.	lo se mukti be lo nu prami cu bancu lo vrude jo'u lo palci
 eng	jbo_Latn	What is happening?	ma ca'o fasnu
@@ -6582,6 +6683,7 @@ eng	jbo_Latn	Would you still love me if I wasn't a werewolf?	xu lo nu do prami m
 eng	jbo_Latn	Wow, that dog is really talented!	.u'e lo va gerku cu mutce stati
 eng	jbo_Latn	Wow!	.ua
 eng	jbo_Latn	Wow!	.ue
+eng	jbo_Latn	Wow! You speak my language!	.ua do baupli le mi bangu
 eng	jbo_Latn	Write down your name with a pencil, please.	.i .e'o ko ciska lo cmene be do fo lo pinsi
 eng	jbo_Latn	Write with your left hand.	ko ciska se pi'o lo zunle xance be do
 eng	jbo_Latn	Write your address, please.	e'o ciska lo do judri
@@ -6595,6 +6697,8 @@ eng	jbo_Latn	Yay! We're gonna win!	.i'i mi ba jinga
 eng	jbo_Latn	Yeah, I just stepped on your foot. What are you going to do about it?	.u'u nai mi pu zi stapa lo do jamfu i do ba zukte ma
 eng	jbo_Latn	Yeah, I’ll go.	.ie mi cu klama
 eng	jbo_Latn	Yeah. I think so, too.	.ie .i pe'i ji'a go'i
+eng	jbo_Latn	Yellow and blue go well together.	lo nu mixre lo pelxu zilska ku joi lo blanu zilska cu jai se jalge lo zabna
+eng	jbo_Latn	Yellow and blue go well together.	lo pelxu zilska ku joi lo blanu zilska cu jai se jalge lo zabna
 eng	jbo_Latn	Yerevan is the capital of Armenia.	la .ierevAn. cu raltca la .arminiys.
 eng	jbo_Latn	Yes, a little bit.	je'uru'e go'i
 eng	jbo_Latn	Yes, Bob helped me.	.ie la bob. pu sidju mi
@@ -6725,6 +6829,7 @@ eng	jbo_Latn	You guessed right.	do smadi lo jetnu
 eng	jbo_Latn	You had better go to the infirmary.	do bilga lo nu klama lo spita
 eng	jbo_Latn	You had better not drive a car.	.e'u nai sai do sazri lo karce
 eng	jbo_Latn	You had better take an umbrella with you.	xagmau fa lo nu da'i do pu jmina do su'o santa
+eng	jbo_Latn	You had grabbed branches.	do pu ca'o jgari lo jimca
 eng	jbo_Latn	You had read.	do pu tcidu
 eng	jbo_Latn	You had to study English.	do pu bilga lo nu tadni lo glibau
 eng	jbo_Latn	You have a beautiful name.	.i melbi cmene do
@@ -6755,6 +6860,7 @@ eng	jbo_Latn	You'll find one.	do ba tolcri pa da
 eng	jbo_Latn	You'll need it.	do ba nitcu
 eng	jbo_Latn	You'll need it.	do ba nitcu lo co'e
 eng	jbo_Latn	You'll need it.	do ba nitcu ti
+eng	jbo_Latn	You look concerned.	do simlu lo ka ce'u xanka
 eng	jbo_Latn	You look nice.	do simlu lo ka se pluka
 eng	jbo_Latn	You look pale. You had better lie down in bed at once.	za'a do pilda .i .ei do vreta lo ckana ca ba'e ti co'a
 eng	jbo_Latn	You look ridiculous.	do simlu lo ka se skacu
@@ -6883,6 +6989,8 @@ eng	jbo_Latn	Your parents loved us.	lo rirni be do pu prami mi'a
 eng	jbo_Latn	Your plan failed.	ledo selpla cu fliba
 eng	jbo_Latn	Your room is a mess.	lo kumfa pe do cu kalsa
 eng	jbo_Latn	Your speech will be recorded in history.	lo se cusku be do ba pagbu lo citri vreji
+eng	jbo_Latn	Your uncle is harvesting a mass of berries from the bushes.	le do nakfamti ca ca'o crepu loi jbari ra'i lo dzitricu
+eng	jbo_Latn	Your uncle was harvesting jabuticaba fruits.	le do nakfamti pu ca'o crepu lo rutrjabutcikaba
 eng	jbo_Latn	You run.	do bajra
 eng	jbo_Latn	Your wish is my command.	vi'osai
 eng	jbo_Latn	You saved my life.	do pu nurxru mi
@@ -6915,6 +7023,7 @@ eng	jbo_Latn	You sit here.	ca'e do zutse va
 eng	jbo_Latn	You sowed the grain a little while ago; when else do you sow it?	do puzi je cu'e sombo lo gurni
 eng	jbo_Latn	You talk too much.	do cusku du'e da
 eng	jbo_Latn	You talk too much.	do dukse tavla
+eng	jbo_Latn	You think those languages don't promote your religion.	pe'idai le'i vu bangu na misygautoi le do lijda
 eng	jbo_Latn	You told me to do that.	do pu cpedu lo nu mi zukte ra
 eng	jbo_Latn	You too, Brutus?	xu do ji'a doi brutus
 eng	jbo_Latn	You've already forgotten.	do ba'o morji
@@ -6934,6 +7043,7 @@ eng	jbo_Latn	You will soon cease to think of her.	.i do ba zi sisti lo ka pensi 
 eng	jbo_Latn	You won't be allowed to leave.	do jai na ba se curmi fai lo nu cliva
 eng	jbo_Latn	You won't be alone.	do na ba nonkansa
 eng	jbo_Latn	You won't have that problem.	do lo mintu na ba se nabmi
+eng	jbo_Latn	You would make a great father.	lo ka do zabna co patfu ce'u cu cumki
 eng	jbo_Latn	Yum yum!	kukte
 eng	jbo_Latn	Zhang looks confusedly.	la jan. se cfipu catlu
 eng	jbo_Latn	π equals approximately 3.14159.	li pai du li ci pi pa vo pa mu so ji'i

@@ -95,6 +95,7 @@ deu	ron	Das Restaurant ist im Erdgeschoss.	Restaurantul este la parter.
 deu	ron	Das Restaurant ist voll.	Restaurantul este plin.
 deu	ron	Das scheint mir interessant!	Îmi pare interesant!
 deu	ron	Das Schiff hat gestern den Äquator überquert.	Vaporul a trecut de Ecuator ieri.
+deu	ron	Das sieht wirklich gut aus.	Arată chiar bine.
 deu	ron	Das sind meine Kommilitonen.	Ei sunt colegii mei.
 deu	ron	Das tut mir weh!	Mă doare!
 deu	ron	Das wäre zu cool, wenn ich zehn Sprachen sprechen könnte!	Ar fi grozav dacă aș putea vorbi zece limbi!
@@ -108,6 +109,10 @@ deu	ron	Dein Name ist nicht Tom, oder?	Numele tău nu este Tom, așa-i?
 deu	ron	Dein Name steht ganz oben auf der Liste.	Numele tău se află în capul listei.
 deu	ron	Denkst du, dass ich hässlich bin?	Crezi că-s urât?
 deu	ron	Denkst du, ich bin hässlich?	Crezi că-s urâtă?
+deu	ron	Denkst du noch oft an ihn, Maria?	Te gândești încă adesea la el, Maria?
+deu	ron	Denkst du noch oft an ihn?	Te gândești încă adesea la el?
+deu	ron	Denkst du noch oft an sie?	Te gândești încă adesea la ea?
+deu	ron	Denkst du oft an sie?	Te gândești adesea la ea?
 deu	ron	Der Äquator teilt die Erdkugel in zwei Hemisphären.	Ecuatorul împarte globul Pământesc în două emisfere.
 deu	ron	Der Autor hat das Buch seiner Schwester gewidmet.	Autorul a dedicat cartea surorii sale.
 deu	ron	Der Bezirk ist reich an Bodenschätzen.	Districtul este abundent în resursele naturale.
@@ -116,8 +121,10 @@ deu	ron	Der Burj Khalifa ist derzeit der höchste Wolkenkratzer der Welt.	Burj K
 deu	ron	Der Computer ist neu.	Calculatorul este nou.
 deu	ron	Der Flughafen war auf Grund des Nebels gesperrt.	Aeroportul a fost închis din cauza ceţei.
 deu	ron	Der Hund sieht krank aus.	Câinele pare bolnav.
+deu	ron	Der König wohnt im Schloss.	Regele locuiește în castel.
 deu	ron	Der letzte Schimmer Hoffnung war aus ihrem Herzen entschwunden.	Ultima speranță a dispărut din mintea ei.
 deu	ron	Der rechte Arm der Freiheitsstatue ist 42 Fuß lang.	Brațul drept al Statuii Libertății are o lungime de 42 de picioare.
+deu	ron	Der Schmetterling schlägt mit den Flügeln.	Fluturele bate din aripi.
 deu	ron	Der Spielwarenladen ist geschlossen.	Magazinul de jucării s-a închis.
 deu	ron	Der Türgriff ist abgebrochen.	Mânerul ușii este rupt.
 deu	ron	Der Typ ist total bescheuert!	Acel tip e dus cu pluta!
@@ -145,6 +152,7 @@ deu	ron	Die Katzen ruhen sich in der Sonne aus.	Pisicile se relaxează la soare.
 deu	ron	Die Katze trinkt deine Milch.	Pisica vă bea laptele.
 deu	ron	Die Kinder sind schon in die Schule gegangen.	Copiii au plecat deja la școală.
 deu	ron	Die Leute hielten sie für tot.	Oamenii credeau că era moartă.
+deu	ron	Die Macht dem Volk.	Puterea la popor.
 deu	ron	Die Mehrheit nahm den Antrag nicht an.	Majoritatea nu au acceptat oferta.
 deu	ron	Die meisten Amerikaner lieben Hamburger.	Majoritatea americanilor iubesc hamburgerii.
 deu	ron	Die Möbel in diesem Büro sind sehr modern.	Mobilierul din acest birou este foarte modern.
@@ -173,12 +181,16 @@ deu	ron	Dieses Schiff fährt nach Vancouver.	Această nava se duce la Vancouver.
 deu	ron	Dieses Tor erlaubt einen Zugang zum Garten.	Această ușă permite accesul către grădină.
 deu	ron	Diese Straße führt nach Hongkong.	Acest drum duce la Hong Kong.
 deu	ron	Diese Woche habe ich viel gearbeitet.	Am muncit mult săptămâna asta.
+deu	ron	Dies ist ein blaues Haus.	Aceasta este o casă albastră.
 deu	ron	Dies ist ein seltsamer Satz.	Asta e o propoziție ciudată.
 deu	ron	Dies ist mein Computer.	Acesta este computerul meu.
 deu	ron	Die Suppe ist kalt.	Supa este rece.
 deu	ron	Die Suppe ist noch heiß.	Supa este încă fierbinte.
 deu	ron	Die Taube symbolisiert Frieden.	Porumbelul simbolizează pacea.
 deu	ron	Die Toiletten sind im Erdgeschoss.	Grupurile sanitare sunt la parter.
+deu	ron	Die Welt ist eine Nation.	Lumea este o națiune.
+deu	ron	Die Welt spricht Englisch.	Lumea vorbește engleza.
+deu	ron	Die Welt spricht Englisch.	Lumea vorbește engleză.
 deu	ron	Die Winter waren bitterkalt.	Iernile au fost foarte friguroase.
 deu	ron	Die Winter waren bitterkalt.	Iernile erau foarte friguroase.
 deu	ron	Die Wirtschaft Japans ist immer noch stabil.	Economia Japoniei este încă stabilă.
@@ -236,6 +248,7 @@ deu	ron	Ein Hund biss ihr ins Bein.	Un câine a mușcat-o de picior.
 deu	ron	Einige Deutsche arbeiten für einen Euro in der Stunde.	Unii germani muncesc pentru numai un euro pe ora.
 deu	ron	Ein Japaner würde so etwas nie tun.	Un japonez nu ar face niciodată așa ceva.
 deu	ron	Ein langes Leben allen, die den Namen einer Blume tragen!	La mulți ani tuturor celor ce poartă nume de floare!
+deu	ron	Ein wahrer Freund würde mich nie vergessen.	Un prieten adevărat nu m-ar uita niciodată.
 deu	ron	Elefanten sind die größten derzeitig lebenden Landtiere.	Elefanţii sunt cele mai mari animale terestre în viaţa astăzi.
 deu	ron	Emilie schrieb einen Brief.	Emily a scris o scrisoare.
 deu	ron	Endlich ist es Freitag.	În sfârşit e vineri.
@@ -252,6 +265,8 @@ deu	ron	Er hat drei Brüder.	El are trei frați.
 deu	ron	Er hat einen Sohn und zwei Töchter.	El are un fiu și două fiice.
 deu	ron	Er hat eine Schraube locker.	Acel tip e dus cu pluta!
 deu	ron	Er hat ein schwaches Herz.	El are o inimă slăbită.
+deu	ron	Er hat es repariert.	El a reparat-o.
+deu	ron	Er hat es repariert.	El l-a reparat.
 deu	ron	Er hat Geld.	Are bani.
 deu	ron	Er hat Geld.	E în bani.
 deu	ron	Er ist der beste Spieler in unserer Mannschaft.	E cel mai bun jucător din echipa noastră.
@@ -260,11 +275,13 @@ deu	ron	Er ist glücklich.	El este fericit.
 deu	ron	Er ist Maler.	El este un pictor.
 deu	ron	Er ist mein Nachbar, aber ich kenne ihn nicht gut.	El este vecinul meu, dar nu-l cunosc bine.
 deu	ron	Er ist sehr krank.	Este foarte bolnav.
+deu	ron	Er ist sehr weise.	Este foarte înțelept.
 deu	ron	Er ist stark.	El este puternic.
 deu	ron	Er ist Taxifahrer.	El este un șofer de taxi.
 deu	ron	Er kaufte Brot, ein Stück Butter und zwei Dosen Ölsardinen.	El a cumpărat pâine, o bucată de unt și două conserve de sardine în ulei.
 deu	ron	Er ließ seine Sekretärin den Bericht tippen.	El a pus-o pe secretară să tasteze raportul.
 deu	ron	Er pflückte Blumen für sie.	El a strâns flori pentru ea.
+deu	ron	Er respektiert mich sehr.	Mă respectă foarte mult.
 deu	ron	Er scheint reich zu sein.	Pare să fie bogat.
 deu	ron	Er schlug mit dem Zirkel einen Kreis.	El a desenat cu compasul un cerc.
 deu	ron	Er sieht jung aus.	Pare tânăr.
@@ -285,7 +302,9 @@ deu	ron	Er wurde von der Polizei gefoltert.	A fost torturat de polițiști.
 deu	ron	Erzähle mir einen Witz!	Spune-mi o gluma!
 deu	ron	Es freut mich Sie kennenzulernen.	Mă bucur să vă cunosc.
 deu	ron	Es freut mich, Sie kennenzulernen!	Mă bucur să vă cunosc.
+deu	ron	Es funktioniert wieder.	Funcționează din nou.
 deu	ron	Es gefällt mir sehr gut.	Îmi place foarte mult.
+deu	ron	Es geht ihm nicht so gut.	Nu se simte prea bine.
 deu	ron	Es geht mir auf die Nerven, wenn du dein amerikanisches Englisch sprichst, ohne den Mund zu öffnen.	Mă enervează, dacă vorbeşti engleza ta americană, fără să deschizi gura.
 deu	ron	Es geht mir auf die Nerven, wenn du unseren Jahrestag vergisst.	Mă enervează, dacă uiţi jubileul nostru.
 deu	ron	Es geht mir gut. Danke der Nachfrage!	Sunt bine, mersi că întrebi.
@@ -305,6 +324,7 @@ deu	ron	Es ist hier nicht so kalt wie in Alaska.	Aici nu este așa de frig ca î
 deu	ron	Es ist kalt.	E frig.
 deu	ron	Es ist lächerlich!	E ridicol!
 deu	ron	Es ist nicht klar, wer diesen Brief geschrieben hat.	Nu e clar cine a scris această scrisoare.
+deu	ron	Es ist nicht leicht, aufzuhören, blöd zu sein.	Nu este ușor să te oprești să fii prost.
 deu	ron	Es ist nicht leicht für ihn, Englisch zu lernen.	Nu îi e ușor să învețe engleza.
 deu	ron	Es ist nicht leicht, Hunde abzurichten.	Nu este ușor să dresezi câinii.
 deu	ron	Es ist nicht meine Schuld!	Nu e vina mea!
@@ -325,6 +345,8 @@ deu	ron	Es lohnt sich nicht, dieses alte Gebäude zu renovieren. Es sollte liebe
 deu	ron	Es macht Tom nichts aus, Mary ab und zu zu helfen.	Pe Tom nu-l deranjează să o ajute ocazional pe Mary.
 deu	ron	Es regnet wie aus Eimern.	Plouă cu găleata.
 deu	ron	Es regnet wieder.	Iarăși plouă.
+deu	ron	Es schien so billig.	Părea atât de ieftin.
+deu	ron	Es schien so billig.	Părea atât de ieftină.
 deu	ron	Es schneit dort.	Ninge acolo.
 deu	ron	Es schneit draußen.	Ninge afară.
 deu	ron	Es schneite in Osaka.	A nins în Osaka.
@@ -337,6 +359,7 @@ deu	ron	Es tut mir sehr leid.	Îmi pare foarte rău.
 deu	ron	Es war eine Maus.	A fost un șoarece.
 deu	ron	Es war niemand zu Hause.	Nu era nimeni acasă.
 deu	ron	Fantastisch!	Beton!
+deu	ron	Filipinos sind nicht wie Schweizer.	Filipinezii nu sunt ca elvețieni.
 deu	ron	Fische leben im Meer.	Peștii trăiesc în mare.
 deu	ron	Flüchtlinge versteckten sich unter der Brücke.	Refugiații s-au ascuns sub pod.
 deu	ron	Frauen zuerst!	Domnișoarele primele!
@@ -345,11 +368,13 @@ deu	ron	Fröhliche Ostern!	Paște fericit!
 deu	ron	Früher gab es in der Nähe der Schule ein Kaffeehaus.	Era o cafenea în apropierea școlii.
 deu	ron	Füg mich, wenn du möchtest, bei Facebook hinzu. Ich heiße da Ryck Vernaut.	Adaugă-mă pe Facebook dacă vrei. Numele meu este Ryck Vernaut.
 deu	ron	Für mich ist es kein Problem.	Pentru mine, nu e o problemă.
+deu	ron	Gefällt dir der Film?	Îți place filmul?
 deu	ron	Gefällt dir diese Blume?	Îţi place floarea aceasta?
 deu	ron	Gehen wir ein bisschen spazieren?	Mergem la o mică plimbare ?
 deu	ron	Gehen wir!	Să mergem.
 deu	ron	Geht es Maria gut?	E Mary bine?
 deu	ron	Gern geschehen.	Cu plăcere.
+deu	ron	Gestern habe ich ein neues Spiel gelernt.	Ieri am învățat un joc nou.
 deu	ron	Gib mir dein Geld.	Dă-mi banii tăi.
 deu	ron	Gibt es sonst noch etwas zu essen?	Mai este și altceva de mâncare?
 deu	ron	Glückliches neues Jahr!	Un An Nou fericit!
@@ -376,6 +401,7 @@ deu	ron	Hallo, Welt!	Salut, lume!
 deu	ron	Hallo! Wie geht es dir?	Salut, ce faci?
 deu	ron	Halte dich an mir fest.	Ține-te de mine.
 deu	ron	Hast du Angst vor dem Tod?	Ți-e frică de moarte?
+deu	ron	Hast du deine Taschenlampe?	Ai lanterna la tine?
 deu	ron	Hast du einen festen Freund?	Ai un iubit?
 deu	ron	Hast du einen Freund?	Ai un iubit?
 deu	ron	Hast du einen Regenschirm mitgebracht?	Ai adus o umbrelă cu tine?
@@ -389,7 +415,9 @@ deu	ron	Hast du meinen Brief bekommen?	Ai primit scrisoarea mea?
 deu	ron	Hast du Pläne?	Ai planuri?
 deu	ron	Hast du zu tun?	Eşti ocupat?
 deu	ron	Hast du zu tun?	Eşti ocupată?
+deu	ron	Hat Tom ein Klavier?	Tom are un pian?
 deu	ron	Herr Tanaka ist momentan nicht an seinem Arbeitsplatz.	Domnul Tanaka nu este momentan în biroul său.
+deu	ron	Herzlichen Glückwunsch zu euer Hochzeit.	Felicitări pentru căsătorie!
 deu	ron	Heute ist das Wetter schön.	Astăzi vremea e frumoasă.
 deu	ron	Heute ist ein schönes Wetter.	Astăzi vremea e frumoasă.
 deu	ron	Heute ist es sehr heiß.	Astăzi este foarte cald.
@@ -418,12 +446,16 @@ deu	ron	Ich bin ein Tennisspieler.	Sunt jucător de tenis.
 deu	ron	Ich bin ein Zombie!	Eu sunt zombi!
 deu	ron	Ich bin es nicht gewohnt, so früh aufzustehen.	Nu sunt obişnuit să mă scol atât de devreme.
 deu	ron	Ich bin frei.	Eu sunt liber.
+deu	ron	Ich bin früh aufgewacht, bis acht Uhr aber nicht aufgestanden.	M-am trezit devreme, dar nu m-am ridicat din pat până la ora opt.
 deu	ron	Ich bin ganz sicher, dass ich dich nicht heiraten will.	Sunt destul de sigură că nu vreau să mă căsătoresc cu tine.
+deu	ron	Ich bin gerne vorbereitet.	Îmi place să fiu pregătit.
 deu	ron	Ich bin hier.	Sunt aici.
 deu	ron	Ich bin in Eile.	Mă grăbesc.
 deu	ron	Ich bin kein Frühaufsteher.	Nu sunt o persoană matinală.
 deu	ron	Ich bin kein Künstler. Ich hatte niemals das Zeug dazu.	Nu sunt artist. N-am avut niciodată talent pentru asta.
+deu	ron	Ich bin lange gelaufen und bin müde.	Am alergat mult și sunt obosită.
 deu	ron	Ich bin müde!	Am obosit!
+deu	ron	Ich bin nicht dick. Ich bin nur ein bisschen übergewichtig.	Nu sunt gras. Sunt doar un pic supraponderal.
 deu	ron	Ich bin Ricardo.	Eu sunt Ricardo.
 deu	ron	Ich bin schrecklich hungrig.	Mi-e o foame de lup.
 deu	ron	Ich bin sehr müde.	Sunt foarte obosit.
@@ -494,6 +526,7 @@ deu	ron	Ich habe einen Wolfshunger.	Mi-e o foame de lup.
 deu	ron	Ich habe ein Facebook-Profil.	Am un cont de Facebook.
 deu	ron	Ich habe es eilig.	Mă grăbesc.
 deu	ron	Ich habe es wohl ein bisschen übertrieben.	Cred c-am exagerat puțin.
+deu	ron	Ich habe gestern keine Nachrichten erhalten.	Nu am primit niciun mesaj ieri.
 deu	ron	Ich habe Halsweh und eine laufende Nase.	Mă doare în gât şi îmi curge nasul.
 deu	ron	Ich habe heute einen Kater.	Am o mahmureală azi.
 deu	ron	Ich habe heute viel gearbeitet.	Am muncit mult azi.
@@ -507,12 +540,14 @@ deu	ron	Ich habe letzte Woche begonnen, Chinesisch zu lernen.	Săptămâna trecu
 deu	ron	Ich habe meine PIN vergessen!	Mi-am pierdut codul pin!
 deu	ron	Ich habe mir am Ellbogen wehgetan.	M-am lovit la cot.
 deu	ron	Ich habe nicht den Mut, meinen Chef zu fragen, ob er mir sein Auto borgen würde.	Nu am curajul să-i cer şefului meu să-mi împrumute maşina lui.
+deu	ron	Ich habe nicht gekauft, was ich brauchte.	Nu am cumpărat ceea ce aveam nevoie.
 deu	ron	Ich habe nichts Besseres zu tun.	N-am nimic mai bun de făcut.
 deu	ron	Ich habe nichts zu verlieren.	Nu am nimic de pierdut.
 deu	ron	Ich habe nicht viele Brüder.	Nu am mulți frați.
 deu	ron	Ich habe nie so einen schönen Sonnenuntergang gesehen.	Nu am văzut niciodată un apus de soare atât de frumos.
 deu	ron	Ich habe vorgestern deinen Brief bekommen.	Am primit scrisoarea ta alaltăieri.
 deu	ron	Ich habe zwei Katzen.	Am două pisici.
+deu	ron	Ich habe zwei Söhne, die im Abstand von zwei Jahren am selben Tag im Ferbuar geboren wurden.	Am doi băieți născuți la patru ani distanță, în aceeași zi din februarie.
 deu	ron	Ich hab keine Ahnung, was der Kerl sich denkt.	N-am idee ce gândeşte acel tip.
 deu	ron	Ich halte meine Versprechen immer.	Mă țin întotdeauna de promisiune.
 deu	ron	Ich hasse es, wenn viele Leute da sind.	Urăsc când e multă lume.
@@ -520,6 +555,7 @@ deu	ron	Ich hasse Menschen, die das sagen.	Urăsc oamenii care spun asta.
 deu	ron	Ich hätte beinahe meinen Schirm im Zug liegenlassen.	A fost cât pe ce să-mi uit umbrela în tren.
 deu	ron	Ich hatte ein langes Gespräch mit ihr.	Am avut o conversație lungă cu ea.
 deu	ron	Ich hatte ein langes Gespräch mit ihr.	Am avut o vorbire lungă cu ea.
+deu	ron	Ich hätte nicht gedacht, dass Tom so dick sein würde.	N-am crezut că Tom va fi atât de gras.
 deu	ron	Ich heiße Ricardo.	Mă numesc Ricardo.
 deu	ron	Ich heiße Ricardo. Und Sie?	Numele meu este Ricardo, al tău?
 deu	ron	Ich hörte jemanden pfeifen.	Am auzit pe cineva fluierând.
@@ -540,6 +576,7 @@ deu	ron	Ich laufe jeden Tag zehn Kilometer.	Alerg zece kilometri zilnic.
 deu	ron	Ich laufe täglich zehn Kilometer.	Alerg zece kilometri zilnic.
 deu	ron	Ich lerne gerne Fremdsprachen.	Îmi place să studiez limbi străine.
 deu	ron	Ich lese gerne.	Îmi place să citesc.
+deu	ron	Ich lese zeitgenössische griechische Literatur.	Citesc literatură greacă contemporană.
 deu	ron	Ich liebe dich nicht.	Nu te iubesc.
 deu	ron	Ich liebe dich sehr.	Te iubesc foarte mult.
 deu	ron	Ich liebe Lasagne.	Iubesc lasagna.
@@ -549,6 +586,7 @@ deu	ron	Ich lief in Richtung der Sonne.	Am fugit în direcția soarelui.
 deu	ron	Ich mache Fortschritte.	Fac progrese.
 deu	ron	Ich mag das Klavierspielen.	Îmi place să cânt la pian.
 deu	ron	Ich mag dein Auto.	Iubesc mașina ta.
+deu	ron	Ich mag die griechische Küche.	Îmi place bucătăria grecească.
 deu	ron	Ich mag die okzitanische Sprache.	Îmi place limba occitană.
 deu	ron	Ich mag diese Armbanduhr nicht.	Nu îmi place acest ceas.
 deu	ron	Ich mag gerne Kerzenlicht.	Îmi place lumina lumânărilor.
@@ -594,6 +632,7 @@ deu	ron	Ich trinke Milch.	Beau lapte.
 deu	ron	Ich überquere die Bahnschienen jeden Morgen.	Traversez calea ferată în fiecare dimineață.
 deu	ron	Ich vermisse dich.	Mi-e dor de tine.
 deu	ron	Ich vermisse dich schrecklich.	Mi-e dor de tine mult.
+deu	ron	Ich verspreche nichts.	Nu promit nimic.
 deu	ron	Ich verstehe.	Înțeleg.
 deu	ron	Ich verstehe kein Deutsch.	Nu înțeleg germana.
 deu	ron	Ich versuche, glücklich zu sein.	Încerc să fiu fericit.
@@ -610,6 +649,7 @@ deu	ron	Ich weiß nicht, ob ich Zeit dazu habe.	Nu știu dacă am timpul necesar
 deu	ron	Ich weiß nicht, ob ich Zeit habe.	Nu știu dacă am timpul necesar.
 deu	ron	Ich weiß nicht, wer diese Bild gemalt hat.	Nu știu cine a pictat acest tablou.
 deu	ron	Ich weiß nicht, wie ich es beweisen soll, so selbstverständlich wie es ist!	Nu știu cum s-o demonstrez pentru că e prea evident!
+deu	ron	Ich weiß nicht, wo ich auf Tom warten soll.	Nu știu unde să-l aștept pe Tom.
 deu	ron	Ich werde nicht sterben.	Nu voi muri.
 deu	ron	Ich will auch eins.	Vreau unul și eu.
 deu	ron	Ich will da nicht hin.	Nu vreau să merg acolo.
@@ -623,6 +663,7 @@ deu	ron	Ich wollte Philosoph werden.	Voiam să devin filozof.
 deu	ron	Ich wünsche mir ein Boot, das mich weit weg von hier bringt.	Vreau o barcă care să mă ducă departe de aici.
 deu	ron	Ich wünschte, ich hätte sie geheiratet.	Mi-ar fi plăcut să mă fi căsătorit cu ea.
 deu	ron	Ich würde gerne einen Kaffee trinken.	Aș vrea să beau o cafea.
+deu	ron	Ich wurde im Januar geboren und er im August desselben Jahres.	Eu m-am născut în ianuarie, iar el în luna august a aceluiași an.
 deu	ron	Ich würde sie gerne treffen.	Mi-ar plăcea să mă întâlnesc cu ea.
 deu	ron	Ihr Ehemann kam bei einem tragischen Autounfall ums Leben.	Soțul ei a murit într-un accident de mașina tragic.
 deu	ron	Ihre Kreditkarte, bitte.	Cartea dumneavoastră de credit, vă rog.
@@ -649,21 +690,26 @@ deu	ron	Ist das eine neue Krawatte?	Asta e o cravată nouă?
 deu	ron	Ist das ein Hengst oder eine Stute?	E asta armasar sau iapa?
 deu	ron	Ist das nicht ein bisschen extrem?	Nu e puţin cam extrem?
 deu	ron	Ist das wahr?	Este adevărat?
+deu	ron	Ist er Naturfotograf?	E fotograf de natură?
 deu	ron	Ist es schlimm?	E rău?
 deu	ron	Ist jemand da?	E cineva acolo?
+deu	ron	Ist sie Naturfotografin?	E fotografă de natură?
 deu	ron	Ja.	Da.
 deu	ron	Ja, es passiert von Zeit zu Zeit.	Da, se întâmplă din când în când.
 deu	ron	Ja, ich bin verheiratet.	Da, sunt căsătorit.
+deu	ron	Ja, ich hab's getan.	Da, eu am făcut-o.
 deu	ron	Ja, ich verstehe. Danke schön.	Da, înțeleg. Mulțumesc.
 deu	ron	"Ja, Orangensaft bitte", sagt Mike.	- Da, suc de portocale, vă rog, spune Mike.
 deu	ron	Jede Minute zählt.	Orice minut contează.
 deu	ron	Jeder kannte das Lied.	Toți știau cântecul.
 deu	ron	Je früher desto besser.	Cu cât mai repede cu atât mai bine.
+deu	ron	Jesus war kein Christ.	Isus nu era creștin.
 deu	ron	Jetzt oder nie!	Acum sau niciodată.
 deu	ron	Jetzt schneit es.	Ninge acum.
 deu	ron	Jimmy ist um zwei Jahre jünger als ich.	Jimmy e cu doi ani mai mic ca mine.
 deu	ron	Kann jemand meine Frage beantworten?	Poate cineva răspunde la întrebarea mea?
 deu	ron	Kann man das anders ausdrücken?	Poate fi formulat într-un alt mod?
+deu	ron	Kannst du den Schmerz beschreiben?	Poți descrie durerea?
 deu	ron	Kannst du mir das Fliegen beibringen?	Mă poţi învăţa să zbor?
 deu	ron	Kannst du morgen kommen?	Poți veni mâine?
 deu	ron	Kannst du nicht leiser reden?	Nu poți vorbi mai încet?
@@ -677,10 +723,13 @@ deu	ron	Komm so schnell wie möglich.	Vino cât poți de repede.
 deu	ron	Kommst du nicht zu dem Fest morgen?	Nu vei veni la petrecere mâine?
 deu	ron	Kommst du nicht zu dem Fest morgen?	Nu vii mâine la petrecere?
 deu	ron	Komm und hilf uns.	Vino și ajută-ne.
+deu	ron	Können Sie mir sagen, in welchem Jahr dieses Gebäude errichtet wurde?	Puteți să-mi spuneți în ce an a fost construită această clădire?
+deu	ron	Können Sie mir sagen, in welchem Jahr dieses Gebäude errichtet wurde?	Puteți să-mi spuneți în ce an a fost construit acest imobil?
 deu	ron	Könntest du bitte aufpassen?	Poți fi, te rog, atent?
 deu	ron	Könntest du bitte aufpassen?	Poți fi te rog atentă?
 deu	ron	Könntest du bitte später zurückrufen?	Poți, te rog, să suni din nou mai târziu?
 deu	ron	Könntest du mir einen Stift leihen?	Poți să-mi împrumuți un creion?
+deu	ron	Lass Mary alles kaufen, was sie will.	Las-o pe Mary să cumpere tot ce vrea.
 deu	ron	Lass mich in Ruhe!	Lasă-mă în pace!
 deu	ron	Lass mich in Ruhe!	Lasă-mă în pace.
 deu	ron	Lass mich in Ruhe.	Lasă-mă în pace!
@@ -709,11 +758,16 @@ deu	ron	Maria ist meine Nichte.	Mary este nepoata mea.
 deu	ron	Marilyn Monroe starb vor 33 Jahren.	Marilyn Monroe a murit acum treizeci și trei de ani.
 deu	ron	Marilyn Monroe starb vor 33 Jahren.	Marilyn Monroe a murit cu treizeci și trei de ani în urmă.
 deu	ron	Mars ist der Gott des Krieges.	Marte este zeul războiului.
+deu	ron	Mehr als zweitausend Jahre sind vergangen, und die Iden des März verfolgen uns immer noch.	Au trecut mai bine de două mii de ani și Idele lui martie încă ne bântuie.
+deu	ron	Mehr Menschen als erwartet waren bei dem Konzert.	La concert au fost mai mulți oameni decât era de așteptat.
+deu	ron	Mehr Menschen als erwartet waren bei dem Konzert.	La concert au fost mai mulți oameni decât se așteptau.
 deu	ron	Mein Algorithmus hat eine Erfolgsquote von 99 %.	Algoritmul meu are o rată de succes de 99%.
 deu	ron	Mein Buch ist auf deinem Schreibtisch.	Cartea mea e pe biroul tău.
 deu	ron	Meine Familie ist nicht reich.	Familia mea nu este bogată.
+deu	ron	Meine Familie wohnt in der Stadt.	Familia mea locuiește în oraș.
 deu	ron	Meine Frau hat in der vergangenen Woche ein Kind bekommen.	Soţia mea a născut un copil săptămâna trecută.
 deu	ron	Meine Mutter ist in der Küche.	Mama mea este în bucătărie.
+deu	ron	Meine Oma war eine weise Frau.	Bunica mea era o femeie înțeleaptă.
 deu	ron	Meine Schuhe sind zu klein, ich brauche neue.	Pantofii îmi sunt prea mici. Am nevoie de unii noi.
 deu	ron	Mein Haus befindet sich auf einem Hügel.	Casa mea este sus pe un deal.
 deu	ron	Mein Haus befindet sich in der Nähe des Parks.	Casa mea este aproape de parc.
@@ -721,7 +775,10 @@ deu	ron	Mein Haus befindet sich in der Nähe einer Bushaltestelle.	Casa mea e ap
 deu	ron	Mein Haus ist sehr kalt.	Casa mea e tare rece.
 deu	ron	Mein Hintern tut weh.	Mă doare fundul.
 deu	ron	Mein Kopf tut weh.	Mă doare capul.
+deu	ron	Mein Name ist Duschana.	Numele meu este Dušana.
 deu	ron	Mein Name ist Legion; denn wir sind viele.	Numele meu este Legiune, căci noi suntem mulți.
+deu	ron	Mein Portemonnaie ist braun.	Portofelul meu e maro.
+deu	ron	Mein Portemonnaie ist braun.	Portofelul meu este maro.
 deu	ron	Mein Professor hat mir empfohlen, Shakespeare zu lesen.	Profesorul meu mi-a recomandat să citesc Shakespeare.
 deu	ron	Mein Rücken schmerzt immer noch.	Spatele încă mă mai doare.
 deu	ron	Mein Vater fährt mit dem Rad zur Arbeit.	Tatăl meu merge la muncă cu bicicleta.
@@ -748,6 +805,8 @@ deu	ron	Nächste Woche wird es vielleicht Frost geben.	Ar putea îngheța săpt�
 deu	ron	Nachts singen die Vögel nicht.	Păsările nu cântă noaptea.
 deu	ron	Nein, er ist nicht mein neuer Freund.	Nu, nu e noul meu prieten.
 deu	ron	Nein, ich bin es nicht, du bist es!	Nu, nu sunt; tu ești!
+deu	ron	Nein, ich hab's nicht getan.	Nu, n-am făcut-o.
+deu	ron	Nein, ich hab's nicht getan.	Nu, nu l-am făcut.
 deu	ron	Nennen Sie bitte ein Verwendungsbeispiel.	Vă rog să-mi arătați un exemplu de utilizare.
 deu	ron	Nicht für das Leben, sondern für die Schule lernen wir.	Nu pentru viață, ci pentru școală învățăm.
 deu	ron	Nicht gucken!	Nu te uita!
@@ -762,6 +821,7 @@ deu	ron	Nochmal.	Din nou.
 deu	ron	Nun ist bei mir der Groschen gefallen.	Acum mi-a picat fisa.
 deu	ron	Nun stelle dich selbst mit diesen Sätzen vor!	Acum prezentați-vă folosind aceste fraze!
 deu	ron	Nur, dass es hier nicht so einfach ist.	Numai că aici, nu e atât de simplu.
+deu	ron	Ohne meinen Pinsel kann ich nicht malen.	Fără pensula mea, eu nu pot să pictez.
 deu	ron	Ohne Rauch kein Feuer.	Nu iese fum fără foc.
 deu	ron	Ohne Schweiß kein Preis.	Nu e câștig fără osteneală.
 deu	ron	Paris ist die schönste Stadt der Welt.	Parisul este cel mai frumos oraș din lume.
@@ -772,6 +832,7 @@ deu	ron	Personen unter achtzehn Jahren dürfen nicht heiraten.	Oamenii sub 18 an
 deu	ron	Petja ist mein bester Freund.	Petya este prietenul meu cel mai bun.
 deu	ron	Rosa ist nicht nur für Mädchen.	Roz nu e numai pentru fete.
 deu	ron	Ruf mich, wenn du Hilfe brauchst!	Cheamă-mă dacă ai nevoie de ajutorul meu.
+deu	ron	Sami hatte eine schöne Frau und einen kleinen Jungen.	Sami avea o soție frumoasă și un băiețel.
 deu	ron	Sankt Petersburg ist eine russische Stadt.	Sankt Petersburg este un oraș rusesc.
 deu	ron	Schlaf gut!	Somn uşor!
 deu	ron	Schlaf gut! Träum was Schönes!	Noapte bună. Vise dulci.
@@ -781,18 +842,24 @@ deu	ron	Schlechte Neuigkeiten verbreiten sich schnell.	Veştile rele călătores
 deu	ron	Schneit es?	Ninge?
 deu	ron	Schönes Wochenende.	Un weekend plăcut!
 deu	ron	Sei bitte höflich.	Te rugăm să fii politicos.
+deu	ron	Seid ihr Bulgarinnen?	Sunteți bulgare?
 deu	ron	Seien Sie still, wenn ich spreche.	Taci când vorbesc eu.
 deu	ron	Seine Füße waren eingeschlafen.	Picioarele lui erau amorțite.
+deu	ron	Seine Spielsachen sind blau.	Jucăriile lui sunt albastre.
 deu	ron	Sei nicht traurig.	Nu te întrista.
 deu	ron	Sein neues Buch wird nächsten Monat herauskommen.	Noua lui carte va apărea luna viitoare.
 deu	ron	Sei um neun zuhause.	Să fii acasă la ora nouă.
 deu	ron	Selbst ich kann das nicht glauben.	Nici măcar eu nu pot să cred asta.
 deu	ron	Sie arbeitet Nacht und Tag.	Ea lucrează zi și naopte.
 deu	ron	Sie fragt, wie das möglich ist.	Întreabă cum e asta posibilă.
+deu	ron	Sie haben dieses Buch zuvor gelesen.	Au citit cartea asta înainte.
 deu	ron	Sie hasst Karotten.	Uraşte morcovii.
 deu	ron	Sie hat ihre nassen Haare mit einem Tuch abgetrocknet.	Și-a șters părul ud cu un prosop de baie.
 deu	ron	Sie hat keinen Führerschein.	Ea nu are permis de conducere.
+deu	ron	Sie hat sich in einen bestimmten Prinzen verliebt.	Ea s-a îndrăgostit de un anumit prinț.
+deu	ron	Sie hat Tom gerade gesehen.	Ea abia l-a văzut pe Tom.
 deu	ron	Sie isst gerne Kartoffelsalat.	Ei îi place salata de cartofi.
+deu	ron	Sie ist auf der Flucht.	Ea este pe fugă.
 deu	ron	Sie ist eine sehr seltsame Person.	Ea este o persoană foarte ciudată.
 deu	ron	Sie ist glücklich.	Ea este fericită.
 deu	ron	Sie ist stark.	Ea este puternică.
@@ -801,6 +868,7 @@ deu	ron	Sie ist wütend auf mich.	E furioasă pe mine.
 deu	ron	Sie kann besser Englisch als alle ihre Klassenkameraden.	Vorbește limba engleză cel mai bine din clasă.
 deu	ron	Sie kennt mich.	Ea mă cunoaşte.
 deu	ron	Sie kritisierten einander.	Ei s-au criticat reciproc.
+deu	ron	Sie liest Chinesisch.	Ea citește chineză.
 deu	ron	Sie mag Schnee.	Ei îi place zăpada.
 deu	ron	Sie nahm das Taxi zum Museum.	Ea a luat un taxi până la muzeu.
 deu	ron	Sie nehmen Studenten wie Tom an.	Ei acceptă studenți ca Tom.
@@ -808,6 +876,7 @@ deu	ron	Sie riet ihm, zwischen den Mahlzeiten nichts zu essen.	L-a sfătuit să 
 deu	ron	Sie sagt, dass sie morgen kommen wird.	Ea spune că va veni mâine.
 deu	ron	Sie senkte beschämt das Haupt.	Ea și-a plecat capul de rușine.
 deu	ron	Sie sind nervös.	Sunteți nervos.
+deu	ron	Sie singt wie ein Engel.	Ea cântă ca un înger.
 deu	ron	Sie sprechen Deutsch?	Vorbeşti germana?
 deu	ron	Sie verloren ihren Besitz.	Ei și-au pierdut proprietatea.
 deu	ron	Sie versuchten, den Präsidenten zu ermorden.	Ei au încercat să-l asasineze pe președinte.
@@ -832,18 +901,22 @@ deu	ron	Suizid ist ein Akt der Hoffnungslosigkeit.	Sinuciderea este un act de di
 deu	ron	Tom aß mit Maria zu Mittag.	Tom a luat prânzul cu Mary.
 deu	ron	Tom bäckt einmal die Woche Brot.	Tom coace pâine o dată pe săptămână.
 deu	ron	Tom betrachtet Maria als Heldin.	Tom consideră că Mary e o eroină.
+deu	ron	Tom, bitte hör auf, saublöde Witze zu erzählen!	Tom, te rog, nu mai spune glume proaste.
 deu	ron	Tom drehte dem Huhn den Hals um.	Tom a frânt gâtul găinii.
 deu	ron	Tom erläuterte Maria die Regeln.	Tom a explicat regulile lui Mary.
 deu	ron	Tom erscheint normalerweise pünktlich.	Tom de obicei apare la timp.
 deu	ron	Tom ging nur deswegen zur Party, weil er davon ausging, dass Maria da sein würde.	Singurul motiv pentru care Tom s-a dus la petrecere era că se aștepta ca Mary să fie acolo.
 deu	ron	Tom glaubt Mary ganz und gar nicht.	Tom nu o crede deloc pe Mary.
 deu	ron	Tom goss etwas Wein in ein Glas.	Tom turnă ceva vin într-un pahar.
+deu	ron	Tom hat einen großen Hahn.	Tom are un cocoșel imens.
 deu	ron	Tom hat schlechte Tischmanieren.	Tom are maniere proaste la masă.
 deu	ron	Tom hatte eine gute Meinung von Maria.	Tom avea o opinie bună despre Mary.
+deu	ron	Tom hatte keine andere Wahl, als sich zu ergeben.	Tom nu a avut de ales decât să se predea.
 deu	ron	Tom hat viel Freizeit.	Tom are mult timp liber.
 deu	ron	Tom hört mir nie zu.	Tom nu mă ascultă niciodată.
 deu	ron	Tom ist allein in der Küche.	Tom este singur în bucătărie.
 deu	ron	Tom ist arrogant.	Tom e arogant.
+deu	ron	Tom ist aus der vorderen Windschutzscheibe geflogen.	Tom a zburat prin parbrizul din față.
 deu	ron	Tom ist ein guter Dichter.	Tom este un poet bun.
 deu	ron	Tom ist ein guter Dichter.	Tom e un poet bun.
 deu	ron	Tom ist ein herausragender Baseballspieler.	Tom este un jucător de baseball remarcabil.
@@ -851,9 +924,12 @@ deu	ron	Tom ist interessant.	Tom este interesant.
 deu	ron	Tom ist krankgeschrieben.	Tom este în concediu medical.
 deu	ron	Tom ist noch nie ins Ausland gereist.	Tom nu a călătorit niciodată peste hotare.
 deu	ron	Tom ist sehr müde.	Tom este foarte obosit.
+deu	ron	Tom ist zu stolz, um jemanden um Hilfe zu bitten.	Tom este prea mândru ca să ceară ajutorul cuiva.
+deu	ron	Tom ist zu stolz, um jemanden um Hilfe zu bitten.	Tom este prea mândru pentru a cere ajutorul cuiva.
 deu	ron	Tom kam als Letzter an.	Tom a ajuns ultimul.
 deu	ron	Tom kam um halb drei zu Hause an.	Tom a ajuns acasă la 2:30.
 deu	ron	Tom kann nicht einmal lesen.	Tom nici măcar nu poate citi.
+deu	ron	Tom kennt Leute, die Französisch sprechen.	Tom cunoaște oameni care vorbesc franceza.
 deu	ron	Tom kennt Mary sehr gut.	Tom o știe pe Mary foarte bine.
 deu	ron	Tom lachte bei jedem Witz von Mary.	Tom a râs la toate glumele Mariei.
 deu	ron	Tom macht nie sein Bett.	Tom nu-şi face niciodată patul.
@@ -869,6 +945,7 @@ deu	ron	Tom sollte einen Arzt aufsuchen.	Tom ar trebui sa vadă un doctor.
 deu	ron	Tom spielt mit Mary Karten.	Tom joacă cărți cu Mary.
 deu	ron	Tom und Mary sind ungefähr gleich groß.	Tom și Mary au aproape aceeași înălțime.
 deu	ron	Tom war beeindruckt.	Tom era impresionat.
+deu	ron	Tom warf die Münze.	Tom a aruncat moneda.
 deu	ron	Tom weiß eine ganze Menge über Mary.	Tom știe destul de multe despre Mary.
 deu	ron	Tom weiß ganz schön viel über Maria.	Tom știe destul de multe despre Mary.
 deu	ron	Tom weiß, was Mary sagte.	Tom știe ce a spus Mary.
@@ -879,9 +956,11 @@ deu	ron	Tschüss!	La revedere!
 deu	ron	Tut mir leid, ich habe keine Ahnung.	Îmi pare rău, n-am nici o idee.
 deu	ron	Unachtsamkeit führt oft zu Unfällen.	Neglijența conduce adesea la accidente.
 deu	ron	Und jetzt?	Și acum?
+deu	ron	Ungarn hat eine Mafiaregierung.	Ungaria are un guvern mafiot.
 deu	ron	Unglücklicherweise stimmt es.	Din păcate e adevărat.
 deu	ron	Unsere Straßen werden überschwemmt, wenn es regnet.	Străzile noastre se inundă când plouă.
 deu	ron	Unser Traum ist schließlich wahr geworden!	Visul nostru a devenit, în sfârşit, realitate!
+deu	ron	Unterscheidet sich Literatur von Poesie?	Se deosebește literatura de poezie?
 deu	ron	Vergiss mich nicht!	Nu te uita la mine!
 deu	ron	Verreisen Sie gerne?	Vă place să călătoriți?
 deu	ron	Versprechen heisst nicht heiraten.	O promisiune nu înseamnă o căsătorie.
@@ -891,16 +970,21 @@ deu	ron	Verzeihung, sprechen Sie Englisch?	Mă scuzaţi, vorbiţi engleza?
 deu	ron	Vielen Dank!	Mulțumesc mult!
 deu	ron	Vor dem Bahnhof stehen gewöhnlich Taxis.	De obicei sunt taxiuri în fața gării.
 deu	ron	Vorsicht!	Fii atent!
+deu	ron	Wann heiratet dein Bruder?	Când se căsătorește fratele tău?
 deu	ron	War es gut?	A fost bun?
 deu	ron	Warten Sie bitte fünf Minuten.	Așteptați cinci minute, vă rog.
+deu	ron	War Tom derjenige, der dir gesagt hat, dass du das nicht tun solltest?	Era Tom cel care ți-a spus că n-ar trebui să faci asta?
 deu	ron	Warum besuchst du uns?	De ce ne vizitezi?
 deu	ron	Warum fragst du?	De ce întrebi?
 deu	ron	Warum hast du Blumen gekauft?	De ce ai cumpărat flori?
+deu	ron	Warum hast du mich geschlagen?	De ce m-ai lovit?
+deu	ron	Warum hast du's getan?	De ce ai făcut-o?
 deu	ron	Warum ist der Himmel blau?	De ce este cerul albastru?
 deu	ron	Warum sagt man "Guten Tag!", wenn der Tag nicht gut ist?	De ce cineva spune „Bună ziua!”, atunci când ziua de fapt nu este bună?
 deu	ron	Warum sprechen wir so oft über Tom?	De ce vorbim așa de des despre Tom?
 deu	ron	Warum willst du diese Möbel verkaufen?	De ce vrei să vinzi această mobilă?
 deu	ron	Was die Welt verändert, ist Kommunikation, nicht Information.	Ceea ce schimbă lumea e comunicarea, nu informația.
+deu	ron	Was für Bücher möchtest du lesen?	Ce fel de cărți vrei să citești?
 deu	ron	Was hast du diese Woche getan?	Ce ai făcut săptămâna asta?
 deu	ron	Was hast du dort getan?	Ce făceai acolo?
 deu	ron	Was hast du gefragt?	Ce ai întrebat?
@@ -922,8 +1006,10 @@ deu	ron	Weder raucht, noch trinkt mein Vater.	Tatăl meu nici nu fumează și ni
 deu	ron	Weiß jemand, wie man in Krisenzeiten Geld verdienen kann?	Ştie cineva cum se câștigă bani pe timp de criză?
 deu	ron	Weißt du, wer das Mikroskop erfunden hat?	Știi cine a inventat microscopul?
 deu	ron	Weißt du, wer Tom umgebracht hat?	Știi cine l-a ucis pe Tom?
+deu	ron	Welche ist die größte Insel der Welt?	Care este cea mai mare insulă din lume?
 deu	ron	Wenn ein Dreieck zwei rechte Winkel hat, ist es ein Quadrat mit einer Seite zu wenig.	Dacă un triunghi are două unghiuri drepte, atunci este un pătrat căruia îi lipsește o latură.
 deu	ron	Wenn ich an deiner Stelle wäre, ginge ich ihm zur Hand.	Dacă aş fi in locul tău, i-aş da o mână de ajutor.
+deu	ron	Wenn ich dich bloß lächeln sehe, bin ich einfach nur glücklich.	Când te văd doar râzând sunt pur și simplu fericit.
 deu	ron	Wenn ich mit dir zusammen bin, bin ich glücklich.	Mă simt fericit când sunt cu tine.
 deu	ron	Werfen Sie den Plan in den Müll!	Pune planul la gunoi.
 deu	ron	Wer hat Amerika entdeckt?	Cine a descoperit America?
@@ -932,12 +1018,14 @@ deu	ron	Wer hat diese Gedichte geschrieben?	Cine a scris aceste poezii?
 deu	ron	Wer hat diesen Brief geschrieben?	Cine a scris această scrisoare?
 deu	ron	Wer hat diesen Kuchen gemacht?	Cine a făcut această prăjitură?
 deu	ron	Wer hat dieses Bild gemalt?	Cine a pictat acest tablou?
+deu	ron	Wer hat es erfunden?	Cine a inventat-o?
 deu	ron	Wer hat heute Dienst?	Cine este de serviciu astăzi?
 deu	ron	Wer hilft deiner Mutter?	Cine o ajută pe mama ta?
 deu	ron	Wer kennt dieses Problem nicht?!	Cine nu cunoaște această problemă?!
 deu	ron	Wer klaute den Apfel?	Cine a furat mărul?
 deu	ron	Wer singt dieses Lied?	Cine cântă cântecul ăsta?
 deu	ron	Wer stahl den Apfel?	Cine a furat mărul?
+deu	ron	Wer von vielen gefürchtet wird, muss viele fürchten.	Cel care este temut de mulți, trebuie să se teamă de mulți.
 deu	ron	Wer will heiße Schokolade?	Cine vrea niște ciocolată caldă?
 deu	ron	Wie alt bist du?	Câți ani ai?
 deu	ron	Wie alt schätzt du mich?	Ce vârstă îmi dai?
@@ -946,6 +1034,7 @@ deu	ron	Wie findet man Nahrung im Weltraum?	Cum găsești mâncare în spațiul 
 deu	ron	Wie geht es dir? Hattest du eine gute Reise?	Ce mai faci? Ai avut o călătorie bună?
 deu	ron	Wie gehts dir?	Cum eşti?
 deu	ron	Wie geht's dir? Hattest du eine gute Reise?	Ce mai faci? Ai avut o călătorie bună?
+deu	ron	Wie heißt der berühmteste Kriegsverbrecher?	Cum se numește cel mai faimos criminal de război?
 deu	ron	Wie heißt du mit Nachnamen?	Care este numele tău de familie?
 deu	ron	Wie ist das Klima in deinem Land?	Cum este clima în țara ta?
 deu	ron	Wie kann ich Ihnen heute helfen, mein Herr?	Cu ce vă pot fi de folos astăzi, domnule?
@@ -966,20 +1055,28 @@ deu	ron	Willkommen!	Bine ai venit!
 deu	ron	Willkommen!	Bine ați venit!
 deu	ron	Willst du einen Fruchtsaft?	Vrei suc de fructe?
 deu	ron	Willst du heute Abend ausgehen?	Vrei o ieșire în seara asta?
+deu	ron	Wir alle müssen vorsichtig sein.	Cu toții trebuie să fim atenți.
+deu	ron	Wir alle müssen vorsichtig sein.	Toți trebuie să fim atenți.
 deu	ron	Wir brauchen mehr Bauern.	Avem nevoie de mai mulți fermieri.
 deu	ron	Wir danken Ihnen.	Mulțumim!
 deu	ron	Wirf den Plan in den Papierkorb!	Pune planul la gunoi.
 deu	ron	Wir frühstücken drinnen.	Noi luăm micul dejun înăuntru.
 deu	ron	Wir gehen, wenn sie bereit sind.	Hai să plecăm când eşti pregătit.
+deu	ron	Wir haben draußen gewartet.	Am așteptat afară.
+deu	ron	Wir haben draußen gewartet.	Așteptăm afară.
 deu	ron	Wir haben einen Papst.	Avem papă.
 deu	ron	Wir haben es eilig.	Ne grăbim.
+deu	ron	Wir haben jetzt Februar.	Suntem acum în februarie.
 deu	ron	Wir haben keinen Zucker.	Noi nu avem zahăr.
 deu	ron	Wir hatten nicht nur Hunger, sondern litten auch Durst.	Nu numai că ne era foame, dar sufeream şi de sete.
 deu	ron	Wir hoffen, dass die Wahrheit ans Licht kommt.	Sperăm că adevărul va ieși la lumină.
 deu	ron	Wir korrespondierten miteinander.	Noi am corespondat unul cu altul.
 deu	ron	Wir müssen anfangen.	Trebuie să începem.
 deu	ron	Wir müssen loslegen.	Trebuie să începem.
+deu	ron	Wir sahen Affen im Zoo.	Am văzut maimuțe la grădina zoologică.
+deu	ron	Wir sahen Affen im Zoo.	Noi am văzut maimuțe la grădina zoologică.
 deu	ron	Wir sehen uns morgen.	Ne vedem mâine!
+deu	ron	Wir sehen wenig Schnee hier.	Noi vedem puțină zăpadă aici.
 deu	ron	Wir sind im Krieg.	Suntem în război.
 deu	ron	Wir sind in Paris.	Suntem la Paris.
 deu	ron	Wir sollten aufhören.	Ar trebui să ne oprim.
@@ -997,6 +1094,7 @@ deu	ron	Wo ist der Flughafen?	Unde este aeroportul?
 deu	ron	Wo ist der Speisesaal?	Unde e sala de mese?
 deu	ron	Wo ist die Toilette?	Unde este toaleta?
 deu	ron	Wo ist eure Schule?	Unde e școala ta?
+deu	ron	Wo ist ihr Hund?	Unde este câinele ei?
 deu	ron	Wo ist mein Auto?	Unde e mașina mea?
 deu	ron	Wo ist seine Familie?	Unde este familia lui?
 deu	ron	Wo ist Tom?	Unde este Tom?
@@ -1008,6 +1106,7 @@ deu	ron	Wo warst du?	Unde-ai fost?
 deu	ron	Wo wohnt er?	Unde locuiește?
 deu	ron	Würdest du gerne kommen?	Ai vrea să vii?
 deu	ron	Zack, zack! Schnell, schnell!	Haide, haide! Repede, repede!
+deu	ron	Ziga spricht Schlesisch.	Ziga vorbește sileziană.
 deu	ron	Zucker ist wasserlöslich.	Zahărul este solubil în apă.
 deu	ron	Zuerst möchte ich mich bei Ihnen für die Gastfreundlichkeit bedanken.	În primul rând, vreau să vă mulțumesc pentru ospitalitate.
 deu	ron	Zum Teufel mit dir!	La dracu’ cu tine!

@@ -47,6 +47,7 @@ ind	cmn_Hans	Saya mengetuk pintu, tapi tidak ada orang yang menjawab.	我敲门�
 ind	cmn_Hans	Saya pikir akan sibuk sekali, namun setelah ujian baru ada waktu lagi.	我想我会很忙，而且直到考试后才有时间。
 ind	cmn_Hans	Saya suka berlari waktu hujan.	我喜欢在雨中跑步。
 ind	cmn_Hans	Saya tidak terlalu mengerti apa yang ia(laki-laki) katakan.	我不太明白他说什么。
+ind	cmn_Hans	Sekarang lewat jam delapan.	八点多了。
 ind	cmn_Hans	Semakin tua, maka daya ingat kita akan semakin berkurang.	人越老，记忆力就越差。
 ind	cmn_Hans	Semuanya adalah teman, kelak harus banyak saling memperhatikan.	大家都是朋友，以后多多关照。
 ind	cmn_Hans	Semuanya ingin duduk disampingnya.	大家都想坐在她旁边。
@@ -79,6 +80,7 @@ ind	cmn_Hant	Ayahku tidak merestui pernikahan kami.	我的父親反對我們的�
 ind	cmn_Hant	Ayah saya bisa berbicara bahasa Inggris dengan baik.	我父親能把英語講得很好。
 ind	cmn_Hant	Bahasa Inggris juga dipelajari di Cina.	英語在中國也被學習了。
 ind	cmn_Hant	Berapa lama kamu tinggal di Tokyo?	你會在東京待多久?
+ind	cmn_Hant	Beri tahu mereka aku tidak minum alkohol.	告訴她們我不喝酒。
 ind	cmn_Hant	Bersikap lebih baiklah terhadap anak sendiri!	要對自己的小孩好一點！
 ind	cmn_Hant	Bolehkah saya meminjam itu?	我可以借這個嗎
 ind	cmn_Hant	Boleh minta api?	借個火，好嗎?
@@ -106,6 +108,7 @@ ind	cmn_Hant	Dia tidak bicara sepatah kata pun.	他甚麼也沒說。
 ind	cmn_Hant	Dia tidak sepenuhnya mempercayaiku.	他並不完全信任我。
 ind	cmn_Hant	Dia tinggal di rumah dengan 2 lantai.	她住在一棟兩層樓的房子。
 ind	cmn_Hant	Dia tinggal tepat berhadapan dengan tempat kami.	她就住在我們對面。
+ind	cmn_Hant	Dilarang meludah.	禁止吐痰。
 ind	cmn_Hant	Eh，nampaknya ada masalah. Kamu tunggu sebentar, saya akan cari tahu.	喔，好像是有這麼回事，你稍等，我查一查。
 ind	cmn_Hant	Guru berkata kalau bumi itu bulat.	老師說地球是圓的。
 ind	cmn_Hant	Hai, saya punya janji dengan manajer umum, ini surat pemberitahuan wawancaranya.	您好，我跟總經理有約十點見面，這是我的面試通知。
@@ -191,7 +194,14 @@ ind	cmn_Hant	Tom sakit perut.	湯姆胃痛
 ind	cmn_Hant	Tom sangat membutuhkan bantuan.	湯姆很需要幫忙
 ind	cmn_Hant	Tuliskan nama dan alamat anda pada amplop ini.	把你的姓名和地址寫在這個信封上。
 ind	cmn_Hant	Untuk sampai ke Paris masih ada 50 kilometer lagi.	還有五十公里就到巴黎了。
+ind	yue_Hans	Aku akan kembali ke Malaysia minggu depan.	我下個禮拜返馬来西亞。
 ind	yue_Hans	Apakah anak Anda belajar di universitas?	你個仔係唔係喺大學讀緊書？
+ind	yue_Hans	Kapan kembali ke Malaysia?	你幾時返馬来西亞？
+ind	yue_Hant	100 dolar seharusnya cukup.	一百蚊應該夠。
+ind	yue_Hant	Kenapa kamu tidak pergi ke sekolah?	點解你唔返學？
+ind	yue_Hant	Mengapa Anda belajar bahasa Kanton?	點解你學廣東話？
+ind	yue_Hant	Saya ingin belajar bahasa Indonesia.	我想學印尼話。
+zlm_Latn	cmn_Hant	Katanya, nak datang kat sini.	他說要到我這裡來。
 zsm_Latn	cmn_Hans	Acara ini sudah berakhir.	演出结束了。
 zsm_Latn	cmn_Hans	Ada garpu hilang.	叉子不见了。
 zsm_Latn	cmn_Hans	Adakah baju ini sesuai?	这套西装合适吗？
@@ -229,6 +239,7 @@ zsm_Latn	cmn_Hans	Kedengkian adalah seperti kebusukan tulang.	嫉妒是骨中的
 zsm_Latn	cmn_Hans	Ke depan, untuk kemuliaan!	走向前去，为荣耀！
 zsm_Latn	cmn_Hans	Kelantan adalah sebuah negeri di Semenanjung Malaysia.	吉兰丹是马来西亚半岛的其中一个州。
 zsm_Latn	cmn_Hans	Kerusi plastik ini sangat murah.	这把塑料椅子很便宜。
+zsm_Latn	cmn_Hans	Keselamatan Sosial? Siapa yang mereka katakan? Biar betul.	社会保障吗？他们在说什么笑话？
 zsm_Latn	cmn_Hans	Kita seharusnya menjaga diri sendiri.	我们应该照顾自己。
 zsm_Latn	cmn_Hans	Lantaran itu, kita perlu menjaga kita sendiri.	因此，我们必须自己照顾自己。
 zsm_Latn	cmn_Hans	Mana-mana satu majalah pun boleh.	任何一本杂志都行。
@@ -236,10 +247,12 @@ zsm_Latn	cmn_Hans	Mary mendapat kelulusan di antara 500 pemohon.	玛丽从大约
 zsm_Latn	cmn_Hans	Peluklah kepada ibu bapa kamu sebelum meninggalkan kampung halaman	在你们远离家乡之前请给父母一个拥抱。
 zsm_Latn	cmn_Hans	Perdana Menteri Malaysia yang keenam ialah Dato' Sri Najib Abdul Razak.	马来西亚第六任首相是拿督斯利纳吉。
 zsm_Latn	cmn_Hans	Salah seorang pelajar tidak datang hari ini.	学生们其中的一个今天没来。
+zsm_Latn	cmn_Hans	Saya ada dua setiausaha.	我有两个秘书。
 zsm_Latn	cmn_Hans	Saya mahu pergi, tapi saya terlupa.	我本来想走的，但后来忘了。
 zsm_Latn	cmn_Hans	Saya membayar kereta itu dengan wang tunai.	我用现金买了那部车。
 zsm_Latn	cmn_Hans	Saya sangat gembira.	我很高兴。
 zsm_Latn	cmn_Hans	Saya tak makan kulit ayam.	我吃不下鸡皮。
+zsm_Latn	cmn_Hans	Saya tidak pernah berasa selesa di syarikatnya.	和他在一起我就没觉得舒服过。
 zsm_Latn	cmn_Hans	Semangkuk kayu.	一个木头碗。
 zsm_Latn	cmn_Hans	Tarikh haribulan berapa hari ini?	今天是几号？
 zsm_Latn	cmn_Hans	Telefon Tom boleh mengambil gambar.	汤姆的手机可以拍照。
@@ -250,6 +263,7 @@ zsm_Latn	cmn_Hans	Tiket ini diperbuat daripada kertas.	这张票是纸做的。
 zsm_Latn	cmn_Hans	Tom tidak tahu sama ada Mary akan datang.	汤姆不知道玛丽会不会来。
 zsm_Latn	cmn_Hant	Ada banyak kawasan setinggan di Mexico.	在墨西哥，有很多平民窟。
 zsm_Latn	cmn_Hant	Bagaimana ejaannya 'pretty'?	你怎么拼“pretty”？
+zsm_Latn	cmn_Hant	Berapa kebab yang awak ada?	你想吃几串烤羊肉？
 zsm_Latn	cmn_Hant	Berapa lamakah kamu telah tinggal di Osaka?	你在大阪住了多久？
 zsm_Latn	cmn_Hant	Berhenti!	停止！
 zsm_Latn	cmn_Hant	Bolehkah saya cakap dengan Bill?	我可以跟Bill說話嗎?
@@ -259,6 +273,7 @@ zsm_Latn	cmn_Hant	Dia menulis kepada saya sekali seminggu.	他一週給我寫一
 zsm_Latn	cmn_Hant	Ia stabil kerana semua akar persamaan ini adalah negatif.	它是可靠的, 因為這個方程式所有的根都是負的。
 zsm_Latn	cmn_Hant	Ibu bapa saya tidak tahu.	我父母不知道。
 zsm_Latn	cmn_Hant	Iskandar ialah kawan baik saya.	Iskandar 是我最好的朋友。
+zsm_Latn	cmn_Hant	Kami mahu pergi membeli-belah di jalan pada sebelah petang.	我們想下午到街上去逛。
 zsm_Latn	cmn_Hant	Kami telah menamakan seekor kucing, namanya Mimi.	我們幫小貓取了一個名字，叫做 Mimi。
 zsm_Latn	cmn_Hant	Kamu boleh membelinya di kedai buku.	你可以在書店買到它。
 zsm_Latn	cmn_Hant	Kamu paling tahu bagaimana untuk menggunakan mesin ini.	你最會操作這台機器了。
@@ -271,11 +286,14 @@ zsm_Latn	cmn_Hant	Salam dunia	你好，世界！
 zsm_Latn	cmn_Hant	Sangupkah awak mempelajari bahasa Kadazan?	你願意學習卡達山語嗎？
 zsm_Latn	cmn_Hant	Saya akan jadi enam belas tahun September ini.	九月我將滿十六歲。
 zsm_Latn	cmn_Hant	Saya nak melawat ke Britain sekali lagi.	我好想快點再去英國。
+zsm_Latn	cmn_Hant	Saya pun tidak nampak apapun juga.	我也啥都看不見。
 zsm_Latn	cmn_Hant	Saya sudah berada disini dalam dua jam.	我已經來了兩個小時。
 zsm_Latn	cmn_Hant	Saya sudah kenyang, terima kasih.	我已經吃飽了，謝謝您。
 zsm_Latn	cmn_Hant	Saya terlupa sudah apa ia bilang.	我忘記了這是誰說的。
 zsm_Latn	cmn_Hant	Seksinya awak ini.	你狠性感。
 zsm_Latn	cmn_Hant	Shh! Jangan bising... Kita bermain sorok-sorok sekarang, kalau mahu buat, baik kamu cepat bersembunyi ke tempat lain.	Shh！不要出聲……我們現在捉迷藏，要搞的話快點找一個地方躲藏一邊了。
+zsm_Latn	cmn_Hant	Sungguh pasangan yang menawan!	多討人喜歡的一對兒！
+zsm_Latn	cmn_Hant	Tom kelihatan seperti dia kecewa.	湯姆看起來很沮喪。
 zsm_Latn	cmn_Hant	Tom tidak tahu perbezaan antara arang dan karbon.	Tom不知道碳和煤的差別。
 zsm_Latn	hak	Dia cakap dengan siapa?	佢跟系谁讲话？
 zsm_Latn	yue_Hans	Adakah anak anda belajar di universiti?	你個仔係唔係喺大學讀緊書？
@@ -291,23 +309,32 @@ zsm_Latn	yue_Hans	Bawa saya sehelai kertas, boleh tak?	可唔可以幫我攞張�
 zsm_Latn	yue_Hans	Beritahu saya di mana anda?	講畀我聽你喺邊呀？
 zsm_Latn	yue_Hans	Beritahu saya macam mana nak main permainan ini.	唔該話我知玩嗰個遊戲嘅方法。
 zsm_Latn	yue_Hans	Biarkan saya mendapatkan sesuatu untuk diminum.	我買啲嘢俾你飲吖。
+zsm_Latn	yue_Hans	Bila awak nak balik Malaysia?	你幾時返馬来西亞？
 zsm_Latn	yue_Hans	Cara ini ialah untuk mencarinya.	噉樣做為咗搵佢出嚟。
 zsm_Latn	yue_Hans	Dengan pendekatan Krismas, perniagaan yang bertambah baik agaknya.	聖誕節就快到，生意都好咗啲。
 zsm_Latn	yue_Hans	Dia ada banyak kerja.	佢有好多嘢要做。
+zsm_Latn	yue_Hans	Dia kurang sihat hari ini kerana dia memakai sedikit pakaian kelmarin.	因為佢尋日著咗好少衫，所以佢今日唔舒服。
+zsm_Latn	yue_Hans	Dia telah meninggalkan beberapa buku kepada saya.	佢存放咗幾本書喺我呢處。
 zsm_Latn	yue_Hans	Dia tercedera dalam kemalangan di tempat kerja.	佢返工嗰陣出咗意外，受咗傷。
 zsm_Latn	yue_Hans	Di manakah bas keluar dari bandar?	去市郊嘅巴士喺邊度出發㗎？
 zsm_Latn	yue_Hans	Faedah atas pinjaman yang tinggi pada masa ini.	而家嘅貸款利率好高。
 zsm_Latn	yue_Hans	Hampir kita mati kesejukan.	我哋幾乎凍死。
 zsm_Latn	yue_Hans	Jangan beli sekarang; ia tidak lama lagi akan memotong harga.	而家唔好買住，遲啲啲嘢就會喊冷㗎喇。
+zsm_Latn	yue_Hans	Jika tiada Covid, saya akan mengembara ke seluruh dunia!	如果冇新冠嘅話，我就去咗環遊世界喇！
+zsm_Latn	yue_Hans	Kalau awak jadi saya, apakah warna yang akan awak pilih?	如果你係我，你會揀乜嘢顏色呀？
+zsm_Latn	yue_Hans	Kalau esok hujan, kita tak pergi hiking.	如果聽日落雨嘅話，我哋就唔去爬山喇。
 zsm_Latn	yue_Hans	Kalau kau dapat lihat nafasmu bila kau menghembus nafas, kau tahu ia sejuk.	如果你呼氣嗰陣見到有啲氣噴出嚟，就啫係天氣好凍喇。
 zsm_Latn	yue_Hans	Kalau sesiapa yang mahu datang mencari saya, beritahu dia, saya sudah keluar.	如果有人嚟搵我，就同佢講話我出咗去。
 zsm_Latn	yue_Hans	Kami belum makan.	我哋未食飯。
+zsm_Latn	yue_Hans	Kami bersubahat dan meraikan hari lahirnya bersama Peter tanpa memaklumkannya terlebih dahulu.	我哋夾計，預先冇同佢講就同彼得慶祝生日。
 zsm_Latn	yue_Hans	Kami datang dari ratusan bangsa dan latar belakang serta menuturkan pelbagai bahasa. Namun, kami bersatu padu kerana mempunyai matlamat yang sama. Yang terpenting, kami ingin memuliakan Yehuwa, Tuhan yang disebut dalam Bible dan Pencipta segala sesuatu. Kami berusaha sebaik-baiknya untuk meniru Yesus Kristus dan bangga menjadi orang Kristian. Kami masing-masing selalu meluangkan masa untuk membantu orang belajar tentang Bible dan Kerajaan Tuhan. Oleh sebab kami memberikan kesaksian, atau bercakap tentang Tuhan Yehuwa dan Kerajaan-Nya, kami dikenali sebagai Saksi-Saksi Yehuwa.	​我哋​嚟​自​世界​各​地，有​唔​同​嘅​文化​背景，講​唔​同​嘅​語言。但係，我哋​非常​團結，大家​都​有​同樣​嘅​目標。最​重要​嘅​係，我哋​都​渴望​榮耀​耶和華，耶和華​就係​聖經​所​講​嘅​上帝，佢​係​萬物​嘅​創造主。我哋​盡力​效法​耶穌基督，以​身​為​基督徒​為​榮。我哋​每​個​人​都​經常​付出​時間​幫助​其他人​認識​聖經​同​上帝​嘅​王國。由於​我哋​為​耶和華​上帝​同​佢​嘅​王國​作​見證，傳講​上帝​同​佢​王國​嘅​真理，所以​我哋​稱​為​耶和華見證人。
 zsm_Latn	yue_Hans	Kami ni sepasang suami dan isteri.	我哋係兩公婆。
 zsm_Latn	yue_Hans	Kami sudah makan.	我哋食咗飯。
 zsm_Latn	yue_Hans	Kamu semua mesti membacanya.	你哋全部一定要讀。
 zsm_Latn	yue_Hans	Kamu sepatutnya makan lebih banyak buah-buahan.	你應該食多啲生果。
 zsm_Latn	yue_Hans	Kanak-kanak sedang tidur. Tolong jangan bising.	班小朋友瞓緊覺㗎。唔該你細聲啲啦。
+zsm_Latn	yue_Hans	"Kenapa kamu tidak pergi mendaki hari ini?" "Kami tidak pergi mendaki kerana hari ini hujan."	「點解今日你哋冇去爬山呀？」 「因為今日落雨，所以我哋冇去爬山。」
+zsm_Latn	yue_Hans	Kenapa saya semakin gemuk?	點解我越來越肥嘅？
 zsm_Latn	yue_Hans	Kita akan berjumpa pukul tiga petang.	我哋三點見面。
 zsm_Latn	yue_Hans	Kita kehabisan teh.	我哋冇晒茶喇。
 zsm_Latn	yue_Hans	Kita lama tak jumpa.	我哋好耐無見。
@@ -316,19 +343,27 @@ zsm_Latn	yue_Hans	Kita sentiasa pergi ke sana! Mari kita pergi ke sebuah restora
 zsm_Latn	yue_Hans	Mary terlalu degil untuk meminta maaf.	阿Mary咁硬頸，唔會識道歉架嘞。
 zsm_Latn	yue_Hans	Mary tidak tahu apa yang hendak dikatakan dengan dia.	阿 Mary 唔知同佢講啲咩先好。
 zsm_Latn	yue_Hans	Memberitahu perkara sebenar, saya lebih suka tinggal di rumah daripada keluar.	老實講，我其實想留喺屋企，唔想出街㗎。
+zsm_Latn	yue_Hans	Mengapa awak belajar bahasa Kadazan?	你點解學卡達山文㗎？
+zsm_Latn	yue_Hans	Mengapa awak belajar bahasa Perancis?	你點解學法文嘅？
+zsm_Latn	yue_Hans	Mengapa awak tidak memanggil saya petang semalam?	點解你琴晚冇打電話畀我嘅？
 zsm_Latn	yue_Hans	Mulai dari sekarang, berteruskanlah.	我哋以後要保持聯絡呀。
 zsm_Latn	yue_Hans	Mungkin saya telah tertinggalkan payung saya di dalam bas.	我可能漏咗把遮喺巴士度。
+zsm_Latn	yue_Hans	Pada pandangan pertama, soalan itu kelihatan mudah.	嗰條問題第一眼望落好似好易。
 zsm_Latn	yue_Hans	Penyelesaian masalah itu membawa saya lima minit.	我用一個字就計好咗條數。
 zsm_Latn	yue_Hans	Rasa wain cuaca adalah sangat popular.	葡萄酒嘅味道好受天氣影響。
 zsm_Latn	yue_Hans	Rumah ini perlu dibaiki.	呢間屋要維修吓喇。
+zsm_Latn	yue_Hans	Rumah tu gelap gelita macam aku buta.	屋企咁黑猛猛，我好似盲咗噉睇唔到嘢。
+zsm_Latn	yue_Hans	Saya akan pulang ke Malaysia minggu hadapan.	我下個禮拜返馬来西亞。
 zsm_Latn	yue_Hans	Saya berasa sedikit kecewa.	我有一啲失望。
 zsm_Latn	yue_Hans	Saya berfikir tentang meletakkan rumah saya untuk dijual.	我諗緊好冇賣咗棟樓佢。
+zsm_Latn	yue_Hans	Saya berjalan sehingga kaki saya letih.	我行路行到雙腳好攰。
 zsm_Latn	yue_Hans	Saya dipesankan sushi dan tempura John.	我嗌咗壽司，John就嗌咗天婦羅。
 zsm_Latn	yue_Hans	Saya nak beli kereta, tapi saya miskin.	我想買嗰架車，但係我又無乜錢。
 zsm_Latn	yue_Hans	Saya ternampak dia pergi ke tandas beberapa minit yang lalu.	我幾分鐘之前見到佢走咗入個廁所度。
 zsm_Latn	yue_Hans	Saya ternampak dua buah kereta diletakkan di sini.	我見到兩堂車泊喺度。
 zsm_Latn	yue_Hans	Saya tidak menjawab surat anda, sebab saya sibuk.	我係因為忙得濟，所以先至冇回信俾你㗎咋。
 zsm_Latn	yue_Hans	Semua sedang menunggu awak.	成村人喺度等緊你呀。
+zsm_Latn	yue_Hans	Seorang jejaka Cina dari Kuala Lumpur yang fasih berbahasa Kadazan daripada berbahasa Kantonis sebagai penutur aslinya.	一位嚟吉隆坡仔，佢嘅母語係廣東話，而係卡達山語流利。
 zsm_Latn	yue_Hans	Siapa gadis jelita itu?	嗰個靚女係邊個嚟㗎？
 zsm_Latn	yue_Hans	Siapa yang ditulis puisi ini?	呢首詩係邊個寫㗎？
 zsm_Latn	yue_Hans	Sila singgah ke rumah saya dalam perjalanan pulang.	你返屋企嗰陣順便嚟探吓我吖。
@@ -336,37 +371,50 @@ zsm_Latn	yue_Hans	Sudahkah tulis diari awak hari ini?	你今日寫咗日記未�
 zsm_Latn	yue_Hans	Terima kasih kerana meminjamkan kami buku ini.	多謝你借本書俾我哋喎。
 zsm_Latn	yue_Hans	Tidak ada gunanya berdebat dengannya.	同佢拗嚟都嘥氣。
 zsm_Latn	yue_Hans	Universiti Tufts adalah sekolah yang sangat terkenal di Boston.	塔夫斯大學係波士頓一間好出名嘅大學。
+zsm_Latn	yue_Hant	100 dolar sepatutnya cukup.	一百蚊應該夠。
 zsm_Latn	yue_Hant	Aku memberitahukan awak	我幫你講
 zsm_Latn	yue_Hant	Anak dia berumur lapan tahun.	佢個仔今年八歲。
 zsm_Latn	yue_Hant	Apa Khabar?	你好嗎？
+zsm_Latn	yue_Hant	Awak kena berhati-hati semasa berjalan.	行路要小心。
 zsm_Latn	yue_Hant	Awak tak perlu pergi disitu.	你唔使去。
 zsm_Latn	yue_Hant	Awak tidak seharusnya jadi begitu cerewet pasal makanan.	你唔應該咁揀飲擇食。
 zsm_Latn	yue_Hant	Bandar itu membekalkan mangsa gempa bumi dengan makanan dan selimut.	市政府向地震受災者提供食物同毛氈。
+zsm_Latn	yue_Hant	Berapa lamakah nak berjalan?	行路要幾耐呀?
 zsm_Latn	yue_Hant	Biar saya fikirkan dulu.	俾我諗陣先。
 zsm_Latn	yue_Hant	Bilakah anda akan pernah belajar?	你幾時先肯學精唧？
 zsm_Latn	yue_Hant	Bila kita makan? Saya laparlah!	幾時食飯呀？好鬼肚餓呀！
+zsm_Latn	yue_Hant	Borat berasal dari Kazakhstan; dia bukan orang Amerika.	波拉特係個哈薩克斯坦人；佢唔係美國人呀。
 zsm_Latn	yue_Hant	Dia kelihatan sangat menyenangkan.	佢個人好似幾好。
 zsm_Latn	yue_Hant	Dia sedang makan.	佢食緊飯。
 zsm_Latn	yue_Hant	Dia suka kopi tanpa gula.	佢飲咖啡唔鍾意落糖。
 zsm_Latn	yue_Hant	Dia tak buat apa-apa.	佢無做錯。
 zsm_Latn	yue_Hant	Jangan bercakap tentang perniagaan semasa kita makan.	食飯時間唔好講公事啦。
+zsm_Latn	yue_Hant	Jika awak boleh bertutur bahasa Kadazan, atuk saya akan sangat gembira.	如果你識得講卡達山話，我阿公就會好開心。
+zsm_Latn	yue_Hant	Jika saya mempunyai banyak wang, saya akan membeli kereta.	如果我有好多錢，我就會買車。
 zsm_Latn	yue_Hant	Kamu tak payah risau.	你唔使擔心。
 zsm_Latn	yue_Hant	Kau mahu makankah?	你愛食飯冇?
 zsm_Latn	yue_Hant	Kedai ini tutup pada pukul 9.	呢間舖頭九點閂門。
+zsm_Latn	yue_Hant	Kenapa awak tidak pergi ke sekolah?	點解你唔返學？
+zsm_Latn	yue_Hant	Mengapa anda belajar bahasa Kantonis?	點解你學廣東話？
 zsm_Latn	yue_Hant	Pasaran diadakan setiap Isnin.	市集逢星期一開。
+zsm_Latn	yue_Hant	Pasar raya berada dalam jarak berjalan kaki.	間超市行路去得到。
 zsm_Latn	yue_Hant	Sama ada awak atau dia adalah salah.	一係你錯，一係佢錯。
 zsm_Latn	yue_Hant	Saya ada sedikit masa untuk membaca hari ini.	我呢排無乜時間睇書。
 zsm_Latn	yue_Hant	Saya bercakap Jepun sikit-sikit.	我識講少少日文。
+zsm_Latn	yue_Hant	Saya mahu belajar bahasa Indonesia.	我想學印尼話。
+zsm_Latn	yue_Hant	Saya melakukan kerja ini bukan untuk wang, tetapi untuk kebahagiaan saya.	我做呢份工作唔係為錢而係為自己開心。
 zsm_Latn	yue_Hant	Saya nak keluar makan malam ni.	我今晚想出街食飯。
 zsm_Latn	yue_Hant	Saya nak tempat duduk yang tidak merokok.	我想坐非吸煙區。
 zsm_Latn	yue_Hant	Saya pasti buku ini akan digunakan dengan baik untuk anda.	我肯定呢本書會對你好有用。
 zsm_Latn	yue_Hant	Saya pernah pergi ke Kyoto.	我去過京都。
 zsm_Latn	yue_Hant	Saya suka dengar muzik.	我鐘意聽音樂。
 zsm_Latn	yue_Hant	Saya terpaksa berpindah ke negara ini.	我想搬去鄉下住。
+zsm_Latn	yue_Hant	Saya tidak sedar awak tidak dapat memahami Kadazan.	我唔知你唔識卡達山文。
 zsm_Latn	yue_Hant	Saya tidak tahu pasti.	我唔肯定。
 zsm_Latn	yue_Hant	Semua orang mahukan segalanya!	蘇嗎人要晒！
 zsm_Latn	yue_Hant	Sunudan ku iziau	我幫你講
 zsm_Latn	yue_Hant	Tiada sesiapa yang menyukai saya.	冇人愛我。
 zsm_Latn	yue_Hant	Tidak mudah untuk menyingkirkan tabiat buruk.	壞習慣好難戒。
 zsm_Latn	yue_Hant	Tinggal dua hari saja.	剩低兩日咋。
+zsm_Latn	yue_Hant	Tom kelihatan seperti dia kecewa.	阿Tom睇落好沮喪。
 zsm_Latn	yue_Hant	Yang ini tak mahal.	呢個唔貴。

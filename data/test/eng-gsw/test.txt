@@ -64,6 +64,7 @@ eng	gsw	I am hungry.	Ich ha Hunger.
 eng	gsw	I am single.	Ich bi ledig.
 eng	gsw	I am sorry.	S tuet mir läid.
 eng	gsw	I am thirsty.	Ich ha Durscht.
+eng	gsw	I brought a sandwich for lunch.	I ha äs Iklemmts für dä Zmittag mitgno.
 eng	gsw	I can speak English a little.	Ich red Änglisch.
 eng	gsw	I can swim well.	Ich chan guet schwimme.
 eng	gsw	I can't drink coffee.	Ich chan kei Kaffee trinke.
@@ -74,6 +75,7 @@ eng	gsw	I don't feel well.	Mir gaats nöd so guet.
 eng	gsw	I don't know.	Ich wäiss es nöd.
 eng	gsw	I don't understand.	Ich verschtaa nöd.
 eng	gsw	I don't understand.	Ich verstand nit.
+eng	gsw	If you'd like, I can give you his cell phone number.	Wenn d'wötsch, chani im dini Handynummerä geh.
 eng	gsw	I have a bicycle.	Ich ha es Velo.
 eng	gsw	I have a headache.	Ich han Chopfweh.
 eng	gsw	I have a slight headache.	Ich han es bitzeli Chopfweh.
@@ -82,6 +84,7 @@ eng	gsw	I lost my wallet.	Ich han mis Portmone verloore.
 eng	gsw	I love you.	Ich liib dich.
 eng	gsw	I love you.	I ha Di gärn.
 eng	gsw	I'm cold.	Ich ha chalt.
+eng	gsw	I met him three hours ago.	I hanen vor drüü Stundä troffä.
 eng	gsw	I'm fine, thanks.	Mir gaats guet, danke.
 eng	gsw	I'm not thirsty.	Ich han kei Durst.
 eng	gsw	Is there a hospital nearby?	Häts da es Spitaal i de Nööchi?
@@ -92,6 +95,7 @@ eng	gsw	It's awfully cold today.	Es isch fürchterlich chalt hüt.
 eng	gsw	It's OK.	Es isch OK.
 eng	gsw	I understand.	Ich verstand.
 eng	gsw	I washed the dishes.	Ich han s Gschirr gmacht.
+eng	gsw	John's house is not very confortable.	S Huus vom John isch nid sehr gmüetlich.
 eng	gsw	Leave me alone!	Loh mi in Ruh.
 eng	gsw	Leave me alone!	Löhn Si mi in Ruh.
 eng	gsw	Life is enjoyable.	S Läbe isch aagnehm.
@@ -99,10 +103,12 @@ eng	gsw	Long time, no see.	Mr hänn is schon lang nümme g'seh.
 eng	gsw	My hovercraft is full of eels.	Mis Luftchüssiboot isch volle Aal.
 eng	gsw	My name is Hopkins.	Mi name isch Hopkins.
 eng	gsw	My name is Jack.	Mi name isch Jack.
+eng	gsw	My name is Lucy.	Min Name isch Lucy.
 eng	gsw	My name is Yamada.	Mi name isch Yamada.
 eng	gsw	Nice to meet you.	Froit mi.
 eng	gsw	Nice to meet you too.	Ich au.
 eng	gsw	One language is never enough.	Ai Sprooch isch nie gnueg.
+eng	gsw	Our dog is so funny.	Euse Hund isch so luschtig.
 eng	gsw	Pleased to meet you.	Fröit mi.
 eng	gsw	Please write it down.	Bitte schriib das uf.
 eng	gsw	Please write it down.	Bitte schriibe Sie das uf.
@@ -138,6 +144,8 @@ eng	gsw	The book is red.	S Buech isch root.
 eng	gsw	The book is violet.	S Buech isch violett.
 eng	gsw	The book is white.	S Buech isch wiis.
 eng	gsw	The book is yellow.	S Buech isch gäl.
+eng	gsw	The cat comes from Wallisellen.	D'Chatz chunt vo Walliselle.
+eng	gsw	The cat goes to Wallisellen.	D'Chatz gaht uf Walliselle.
 eng	gsw	The cat is adorable.	S Büsi isch härzig.
 eng	gsw	The cat is black.	S Büsi isch schwarz.
 eng	gsw	The cat is brown.	S Büsi isch bruun.
@@ -155,7 +163,10 @@ eng	gsw	The flower is yellow.	D Blueme isch gäl.
 eng	gsw	The girl is beautiful.	S Mäitli isch schöön.
 eng	gsw	The house is pretty.	S Huus isch schöön.
 eng	gsw	The house is red.	S Huus isch root.
+eng	gsw	The lowest N.C.O.'s are the proudest.	Die niedrigschti U-Off's sind am stolzischte.
+eng	gsw	The main purpose of red blood cells is to transport oxygen.	D'Hauptfunktion vo dä rotä Bluetkörperli isch de Suurstoffstransport.
 eng	gsw	The man you saw in my office yesterday is from Belgium.	De Maa, wo du gester im Büro gseh hesch, chunnt vo Belgie.
+eng	gsw	The new cell phone is pretty handy.	S neue Natel isch zimli gäbig.
 eng	gsw	There is nothing better than zopf.	Es git nüt bessers wie Zopf.
 eng	gsw	There's a secret drawer in the desk.	Es het es Gheimfach im Tisch.
 eng	gsw	The sun is rising.	D Sunne isch am uufgah.
@@ -195,10 +206,12 @@ eng	gsw	Where are you from?	Vo wo bisch?
 eng	gsw	Where are you from?	Vo wo sind Si?
 eng	gsw	Where do you come from?	Vo wo chunnsch?
 eng	gsw	Who planted the tree?	Wer het de Baum pflanzt?
+eng	gsw	Why did you leave the group?	Wieso hesch d Gruppä verla?
 eng	gsw	You come from Sweden.	Ir chommät us Schweden.
 eng	gsw	You come from Sweden.	Si chommät us Schweden.
 eng	gsw	You come from Taipei.	Ir chommät us Taipei.
 eng	gsw	You come from Taipei.	Si chommät us Taipei.
+eng	gsw	You have set yourself a challenge.	Häsch dr öppis vorgnaa.
 eng	gsw	You're cute.	Du bisch härzig.
 eng	gsw	You're welcome.	Bitteschöön.
 eng	gsw	You're welcome.	Gäärn gscheh.

@@ -9,6 +9,7 @@ dtp	cmn_Hans	Au' ko pakalaja' baino?	你今天不在工作吗？
 dtp	cmn_Hans	Au kumaau ihia vatu.	石头不会浮起来。
 dtp	cmn_Hans	Au oku po moginduruk, au osonong oku i.	没吃早饭，我有些不舒服。
 dtp	cmn_Hans	Au zou mangakan do kuhit manuk.	我吃不下鸡皮。
+dtp	cmn_Hans	Au' zou nopiumanan asagkom id komponi dau.	和他在一起我就没觉得舒服过。
 dtp	cmn_Hans	Au zou poduli onu kanu, abazat zou diau!	我不管你说， 我恨你！
 dtp	cmn_Hans	Baasai no tiinu.	以后再讲。
 dtp	cmn_Hans	Basug ko'!	你疯了吗？
@@ -23,9 +24,11 @@ dtp	cmn_Hans	Iti no bilik numbur ko-839.	这是839号房间。
 dtp	cmn_Hans	I zina ku iti.	这是我的妈妈.
 dtp	cmn_Hans	Kavasa ko manakat do sakot om monungu do vusak?	你可不可以帮忙除草浇花？
 dtp	cmn_Hans	Kavasa zou kotutun diau?	我能认识你吗？
+dtp	cmn_Hans	Kiduvo o monunuat ku.	我有两个秘书。
 dtp	cmn_Hans	Kivaa ko nangku do nunu nopo do booson dogo?	您有事想对我说吗？
 dtp	cmn_Hans	Kokito ko' doid sodu?	你能看到远吗？
 dtp	cmn_Hans	Kotutun ko naku isai izioho ti?	你知不知道他们是谁?
+dtp	cmn_Hans	Koumoligan Sosial? Ka diisai dii? Sangkabarasan diyolo ndo?	社会保障吗？他们在说什么笑话？
 dtp	cmn_Hans	Lumintuhun oku mantad do koritapui.	我下了火车。
 dtp	cmn_Hans	Manu ko monginum do tiih toi ko kupi?	你想喝茶还是喝咖啡？
 dtp	cmn_Hans	Mongoi oku daa modop kama.	我该去睡觉了。
@@ -37,12 +40,15 @@ dtp	cmn_Hans	Nokokito zou no diti pilim po.	我已经看过这部电影了。
 dtp	cmn_Hans	Nokotupus ku iziau.	我爱上了你。
 dtp	cmn_Hans	Nokuo tu' ohodong ko?	你为什么生气?
 dtp	cmn_Hans	Nopupusan ku o' pinonginabasan di duvo toun nakatahib.	我是两年前毕业的。
+dtp	cmn_Hans	Nu kanu di?	你说什么？
 dtp	cmn_Hans	Nunu ponguhatan nu?	你有什么问题？
 dtp	cmn_Hans	Osonong sinding diti.	这首歌很好听。
 dtp	cmn_Hans	Otootopot nangku do guminavo tokou do Sabah?	我们真的爱沙巴吗？
 dtp	cmn_Hans	Papadagang zosido do tubat doiho konset.	她在演唱会的场地贩卖毒品。
 dtp	cmn_Hans	Pinsingihaai po haid mamanau do manangkus.	先学走，再学跑。
 dtp	cmn_Hans	Pobooso no 'oo' ka!	请说可以！
+dtp	cmn_Hans	Sada bogia pinokibohizan ku diau di, okonko manuk!	我让你买鱼，不是鸡！
+dtp	cmn_Hans	Sada pinokibolian ku dika bogia ri dii, okonko manuk!	我让你买鱼，不是鸡！
 dtp	cmn_Hans	Songkuo no oubat do au zou nokokito dii.	可惜我没看到这个。
 dtp	cmn_Hans	Songuhun susumikul au umikot do tadau baino.	学生们其中的一个今天没来。
 dtp	cmn_Hans	Suai gia ri kowoowoyoon hilo'd China Salatan.	在中国南边的情况不一样。
@@ -52,6 +58,7 @@ dtp	cmn_Hans	Titiongoi zou no, nga nohiivan ku no.	我本来想走的，但后�
 dtp	cmn_Hans	Tumilombus iyolo mamanau.	他们继续走。
 dtp	cmn_Hant	Aanangan zou do onsokon Sina.	我非常喜歡中國菜。
 dtp	cmn_Hant	Ahansan daa otingkodon iho umasam.	希望雨快點停吧。
+dtp	cmn_Hant	Amatan ku ziau do minggu' tiiso'.	下週我會為你收割。
 dtp	cmn_Hant	Apatut no au tagal mambayar do bill.	你本來不應該付賬的。
 dtp	cmn_Hant	Au atalang i mato dau.	他的視力不好。
 dtp	cmn_Hant	Au koiho di mohoing ku.	我父母不知道。
@@ -59,11 +66,15 @@ dtp	cmn_Hant	Au oihaan i Tom do pisuvazan kol om karbon.	Tom不知道碳和煤�
 dtp	cmn_Hant	Au zioho nagampu.	他們並沒有放棄。
 dtp	cmn_Hant	Au zou kaanu momohiiu diau.	我無法忘記你。
 dtp	cmn_Hant	Au zou noihaan nonggo o kinoizonon disido.	我不知道他住在哪裡。
+dtp	cmn_Hant	Bohizan ku ziau do suvab.	我明天給你買。
 dtp	cmn_Hant	Ginovoon diau di Marta.	Marta愛你。
 dtp	cmn_Hant	Ingkuo o monguntai, 'pretty' ka?	你怎么拼“pretty”？
+dtp	cmn_Hant	Isai iumon nu?	你在找誰？
 dtp	cmn_Hant	I tobpinai kusai ku nopo nga i mongingia'.	我哥哥是一名教師。
+dtp	cmn_Hant	Izou nga' au' kokito konunu nogi.	我也啥都看不見。
 dtp	cmn_Hant	Kapatai ko!	你去死吧!
 dtp	cmn_Hant	Koiho ko moboos do Kadazan?	你會不會說卡達山語？
+dtp	cmn_Hant	Koikot nopo, ka mai dii.	他說要到我這裡來。
 dtp	cmn_Hant	Kuđa nopo nga tazam.	馬是牲畜。
 dtp	cmn_Hant	Maagab-agab zou daa!	我得快點!
 dtp	cmn_Hant	Manangkus ziaho do tosiisikap po.	她盡可能地快跑。
@@ -72,6 +83,7 @@ dtp	cmn_Hant	Miyon oku maya molohing ku.	我和我的父母住在一起。
 dtp	cmn_Hant	Monuat isido dogo do insan sominggu.	他一週給我寫一封信。
 dtp	cmn_Hant	Motibobog koonom no.	快要六點了。
 dtp	cmn_Hant	Nohiivan ku nunu ka dii.	我忘記了這是誰說的。
+dtp	cmn_Hant	Noikot giningo ihia tumbang tinan!	多討人喜歡的一對兒！
 dtp	cmn_Hant	Nokuo tu au ko tumo'od monigup?	你為什麼不戒菸？
 dtp	cmn_Hant	Norikot oku nodi hiti kosodop.	我昨天來到這裏。
 dtp	cmn_Hant	Ogumu popoinkavas id Mexico.	在墨西哥，有很多平民窟。
@@ -83,6 +95,7 @@ dtp	cmn_Hant	Sikapo', minsud tokou daa!	快點, 我們要離開了!
 dtp	cmn_Hant	Sikapo' no! Ahambat tokou mai.	快點！我們要遲到了。
 dtp	cmn_Hant	Sikapo no!	快點!
 dtp	cmn_Hant	Sikapo', tuhungai zou gia.	快點。請幫幫我。
+dtp	cmn_Hant	Songkuo ginumu' iti kebab di duomon nu?	你想吃几串烤羊肉？
 dtp	cmn_Hant	Sumaga ko naku minsingiho boos Kadazan?	你願意學習卡達山語嗎？
 dtp	cmn_Hant	Tititumbuhui zou id Britain do insan po.	我好想快點再去英國。
 dtp	cmn_Hant	Toluai ino bobog koonom bo.	很快就六點鐘了。
@@ -91,18 +104,26 @@ dtp	cmn_Hant	Tosogit no ti kosuvabon di koniab.	昨天早上很冷。
 dtp	yue_Hans	Aanangan zou diti skirt. Pakazo' ku gia.	呢條裙都幾靚喎，可唔可以試著㗎？
 dtp	yue_Hans	Ahangas tomod i Mary do mokiampun.	阿Mary咁硬頸，唔會識道歉架嘞。
 dtp	yue_Hans	Aiso no guno do miuva'-uva' doid dau.	同佢拗嚟都嘥氣。
+dtp	yue_Hans	Au' ohidas o topiumanan dau do baino, tu' minananggaung isido kuudi di koniab.	因為佢尋日著咗好少衫，所以佢今日唔舒服。
+dtp	yue_Hans	Au' ohidas o topiumanan ku, mimang zou soomo' do dokutul. Id nomboo o koupisan do kaagaban?	我覺得唔舒服，想睇醫生，急症室喺邊度呀？
 dtp	yue_Hans	Au oihaan i Mary nunu ih ponongkiboos kumaa dau.	阿 Mary 唔知同佢講啲咩先好。
 dtp	yue_Hans	Au zikoi po dumuom.	我哋未食飯。
 dtp	yue_Hans	Au zou nodi duutia do tadau suvab.	我聽日唔會喺呢度。
 dtp	yue_Hans	Au zou suminimba do suat nu tu tuminangkangau zou.	我係因為忙得濟，所以先至冇回信俾你㗎咋。
+dtp	yue_Hans	Di kougad zou mantad Tambunan, noukab no i sikul.	我離開咗坦布南嗰陣時，書館係開咗放嘅喇。
 dtp	yue_Hans	Doid poinsomok do Krismas, pakalajaan i di dati mongumbasi.	聖誕節就快到，生意都好咗啲。
 dtp	yue_Hans	Doiti zou id hamin.	我喺屋企。
 dtp	yue_Hans	Duutia ko nopo monigup, hobuso' gia no monigup bo!	食煙唔該去出面食吖。
+dtp	yue_Hans	Ginakom isido di pulis.	佢俾警察拉咗去。
 dtp	yue_Hans	Gunoon ko no kama do gear tosiiba songian papapanau kulita doiho'd vazaan id nuhuvon do kisaazo.	呢啲山路係咁𪙛𠸉㗎喇，千祈要用低波行呀
 dtp	yue_Hans	Guntomou o pomusaavan do miampai aiso kivotik toodop kohodongon.	冇色嘅綠色諗法瞓得好嬲。
+dtp	yue_Hans	Humozog ihia sada amas/buhavan id akuarium.	條金魚喺魚缸裏面游嚟游去。
+dtp	yue_Hans	Id kopoguhu i, ouhan i do ponguatan o tokito dii.	嗰條問題第一眼望落好似好易。
 dtp	yue_Hans	Ihia no naku do tingau/izing toi tasu?	嗰隻貓定係狗嚟㗎？
 dtp	yue_Hans	Iisai di sinuat o sisindion diti?	呢首詩係邊個寫㗎？
+dtp	yue_Hans	Isai iumon nu?	你喺揾邊個？
 dtp	yue_Hans	Itia no 3 euro usin dii.	盛惠三歐羅吖。
+dtp	yue_Hans	Iti no potuu vakum, nga' okon gia ko' aiso nuununu, ka.	雖然係真空，但係唔係話乜嘢都冇。
 dtp	yue_Hans	Izikoi no tanakvagu.	我哋係男人。
 dtp	yue_Hans	Izito no savo kusai om tondu.	我哋係兩公婆。
 dtp	yue_Hans	Kada gia kozo kagangau. Maamaso dazanak modop.	班小朋友瞓緊覺㗎。唔該你細聲啲啦。
@@ -117,9 +138,15 @@ dtp	yue_Hans	Mai gia maanu ku ziau do monginum nunu nopo ii.	我買啲嘢俾你�
 dtp	yue_Hans	Mangakan ko daa naku totuvong id daamin dii?	晚飯喺唔喺屋企食呀？
 dtp	yue_Hans	Mantad do baino, mai gia potihombuso no.	我哋以後要保持聯絡呀。
 dtp	yue_Hans	Mantad toombo no huminabus/guminabas dihia baas?	去市郊嘅巴士喺邊度出發㗎？
+dtp	yue_Hans	Mimbalajal naku i tanak nu doiho id unibositi?	你個仔係唔係喺大學讀緊書？
+dtp	yue_Hans	Minimpanau zou gisom oudipan iti takod ku.	我行路行到雙腳好攰。
 dtp	yue_Hans	Mininsud zou dati do pazung ku doid baas.	我可能漏咗把遮喺巴士度。
 dtp	yue_Hans	Minsingiho zikoi boos Sina.	我哋學中文。
+dtp	yue_Hans	Moboos ko do Kantonis om moboos zou do Kadazan, osusa' no o' sopilati-lati dii. Oinggohou tia tuhu!	你嘅廣東話，我嘅卡達山語，真係雞同鴨講，係咁頭赤赤㗎！
+dtp	yue_Hans	Mongupakat om manaandak zikoi do tadau kinohodian dau miampai di Peter do aiso poihoon po dau dii.	我哋夾計，預先冇同佢講就同彼得慶祝生日。
 dtp	yue_Hans	Motimatai o tosogit tokou.	我哋幾乎凍死。
+dtp	yue_Hans	Muhi zou id Malaysia do minggu.	我下個禮拜返馬来西亞。
+dtp	yue_Hans	Muli oku hilo id Malaysia do minggu mikot.	我下個禮拜返馬来西亞。
 dtp	yue_Hans	Naavi no do tiih tokou.	我哋冇晒茶喇。
 dtp	yue_Hans	Nakaakan ko no?	食咗飯未呀？
 dtp	yue_Hans	Nakaakan zikoi.	我哋食咗飯。
@@ -128,6 +155,15 @@ dtp	yue_Hans	Nokito zou disido id jamban do piipio minit nakatahib.	我幾分鐘
 dtp	yue_Hans	Nokito zou do duvo kulita pinoizonon do doiti.	我見到兩堂車泊喺度。
 dtp	yue_Hans	Nokosinduoh zisido id kohigaganan id pakakalaja.	佢返工嗰陣出咗意外，受咗傷。
 dtp	yue_Hans	Nokosuat ko naku do diari nu do baino?	你今日寫咗日記未呀？
+dtp	yue_Hans	"Nokuo tu' au' kou koongoi do baino?" "Maahan zikoi do mugad tu' umasam nopo do baino."	「點解今日你哋冇去爬山呀？」 「因為今日落雨，所以我哋冇去爬山。」
+dtp	yue_Hans	Nokuo tu' gumohombon zou?	點解我越來越肥嘅？
+dtp	yue_Hans	Nokuo tu minsingiho ko do boos do Kadazan?	你點解學卡達山文㗎？
+dtp	yue_Hans	Nokuo tu minsingiho ko do boos Perancis?	你點解學法文嘅？
+dtp	yue_Hans	Nokuro tu amu ko minolipaun doho di kosodop?	點解你琴晚冇打電話畀我嘅？
+dtp	yue_Hans	Nokuro tu mombo-lombon oku no?	點解我越來越肥嘅？
+dtp	yue_Hans	Nookuo tu au ko minolipaun dogo di kosodop?	點解你琴晚冇打電話畀我嘅？
+dtp	yue_Hans	Nung aiso no o Covid, minonompogunan zou doid noombo nopo!	如果冇新冠嘅話，我就去咗環遊世界喇！
+dtp	yue_Hans	Nung dodizan nu dogo, nunu o votik di pihion nu?	如果你係我，你會揀乜嘢顏色呀？
 dtp	yue_Hans	Nung isai-isai nopo do umikot mogium dogo, pobooson nopo isido, guminabas zou.	如果有人嚟搵我，就同佢講話我出咗去。
 dtp	yue_Hans	Nung kokito ko nopo do pinuobo nu dii ontok monuugi ko, oihaan nu do tosogit ino.	如果你呼氣嗰陣見到有啲氣噴出嚟，就啫係天氣好凍喇。
 dtp	yue_Hans	Nunu maan nu kahapas mangakan doungotuvong?	你食完晚飯通常做乜嘢？
@@ -135,27 +171,42 @@ dtp	yue_Hans	Ogumu kuukuamaon dau dii.	佢有好多嘢要做。
 dtp	yue_Hans	Oloso o wain nopo kozuuzuvo do tavan nga noikot ginazo.	葡萄酒嘅味道好受天氣影響。
 dtp	yue_Hans	Onuai zou sasawan kupi.	唔該俾杯咖啡我吖。
 dtp	yue_Hans	Onu ih tinuman nu?	你想飲啲咩呀？
+dtp	yue_Hans	Onu kanu ti?	你講乜嘢呀？
 dtp	yue_Hans	Onu o kotundaan diho?	嗰座係咩嚟㗎？
+dtp	yue_Hans	Onu vagu' iumon nu?	你再要揾乜嘢？
 dtp	yue_Hans	"Oonu gia pomusaavan nu?" "Aiso nuununu...."	「你諗緊啲咩呀？」「冇嘢呀……」
+dtp	yue_Hans	Osogit tokuudi, okon?	有啲凍，咪啩？
 dtp	yue_Hans	Oviton gia zou do songamba kalatas, kio.	可唔可以幫我攞張紙嚟呀？
 dtp	yue_Hans	Pahantazo zou no. Nga sokio au zou kahantoi, pohogoso zou do katama do kuminam.	畀我嬴啦，就算我唔得，都可以畀我試下大膽啲！
 dtp	yue_Hans	Poihoo zou do tinoomboo ko no?	講畀我聽你喺邊呀？
 dtp	yue_Hans	Sasau tokou mugad do doino! Kanou mongoi tokou id pangaangakan do Perancis do topoto ih suusuvai.	我哋次次都係去嗰度食！今次轉吓口味，去食法國嘢啦。
 dtp	yue_Hans	Sinuuvan ku do sushi om tempura i John.	我嗌咗壽司，John就嗌咗天婦羅。
+dtp	yue_Hans	Soira ko muli hilo id Malaysia?	你幾時返馬来西亞？
+dtp	yue_Hans	Songian ko muhi id Malaysia?	你幾時返馬来西亞？
+dtp	yue_Hans	Songkuo ginumu dii?	嗰度有幾多？
+dtp	yue_Hans	Tangambahutku izioho.	佢哋係我朋友。
+dtp	yue_Hans	Tangambalutku iyotilo.	佢哋係我朋友。
 dtp	yue_Hans	Titibohi zou do kulita, nga mosikin zou.	我想買嗰架車，但係我又無乜錢。
 dtp	yue_Hans	Tudukai zou ingkuo o mamain game diti.	唔該話我知玩嗰個遊戲嘅方法。
+dtp	yue_Hans	Umasam nopo do suvab, au' zikoi koongoi hiking.	如果聽日落雨嘅話，我哋就唔去爬山喇。
 dtp	yue_Hans	Univositi Tufts nopo nga do noikot binantug doid Boston.	塔夫斯大學係波士頓一間好出名嘅大學。
 dtp	yue_Hans	Zikoi nopo diti nga mantad mogisusuvai tinau om boos, nga misompuu zikoi maza do iso tuduvan. Hobi poh kopizo, mamantang zikoi di Jehova, Kinoingan i poinsuat id Baibol om minamangun savi-avi id pomogunan. Momit zikoi miaga di Jesus Kristus om ondos zikoi do pungana’an sabaagi tuhun Kristian. Tomoimo zikoi momoguno timpu do monuhung tuhun balajal do Baibol om Kopomolintaan do Kinoingan. Papaabal zikoi kumaa tuhun ngavi i Kinoingan Jehova om kopomolintaan dau, nointutunan zikoi i Sasi-Sasi Jehova.	​我哋​嚟​自​世界​各​地，有​唔​同​嘅​文化​背景，講​唔​同​嘅​語言。但係，我哋​非常​團結，大家​都​有​同樣​嘅​目標。最​重要​嘅​係，我哋​都​渴望​榮耀​耶和華，耶和華​就係​聖經​所​講​嘅​上帝，佢​係​萬物​嘅​創造主。我哋​盡力​效法​耶穌基督，以​身​為​基督徒​為​榮。我哋​每​個​人​都​經常​付出​時間​幫助​其他人​認識​聖經​同​上帝​嘅​王國。由於​我哋​為​耶和華​上帝​同​佢​嘅​王國​作​見證，傳講​上帝​同​佢​王國​嘅​真理，所以​我哋​稱​為​耶和華見證人。
 dtp	yue_Hant	Aanangan zisido do kupi miampai aiso gula.	佢飲咖啡唔鍾意落糖。
 dtp	yue_Hant	Aiso isai do guminavo dogo.	冇人愛我。
 dtp	yue_Hant	Aiso minaan dau konunu.	佢無做錯。
+dtp	yue_Hant	Aiso no pomusaavan ku dino.	我諗都未諗過。
 dtp	yue_Hant	Anta'ua iziau toi izisido nopo nga hasa.	一係你錯，一係佢錯。
+dtp	yue_Hant	Apatut nogonop tia 100 dolar.	一百蚊應該夠。
 dtp	yue_Hant	Atantu zou do gunoon itia buuk do avasi montok diau.	我肯定呢本書會對你好有用。
 dtp	yue_Hant	Au ko apatut boobozo'on kaka takanon dii.	你唔應該咁揀飲擇食。
 dtp	yue_Hant	Au ko tagal mugad do doino.	你唔使去。
+dtp	yue_Hant	Au' ku ziau noihaan do au' kalati do moboos Kadazan diti.	我唔知你唔識卡達山文。
 dtp	yue_Hant	Au zou atantu ka bo.	我唔肯定。
+dtp	yue_Hant	Bobohizan tagazo nopo nga doid sinodu o mintana'.	間超市行路去得到。
 dtp	yue_Hant	Kada ponongkiboos kaka pakalajaan maso dumuom tokou.	食飯時間唔好講公事啦。
 dtp	yue_Hant	Kakadazan diho minanaak sokodung do taakanon om tibung kumaa di noontok do kosusaan mantad do noguzu oh pomogunan.	市政府向地震受災者提供食物同毛氈。
+dtp	yue_Hant	Kanou mongoi id KFC do dumuom kosuvabon kio.	不如去雞記食早餐囉!
+dtp	yue_Hant	Kanou mooi mimbuul.	不如一齊去踢波。
 dtp	yue_Hant	Kiiso do ponjijip nu?	你有冇打火機呀？
 dtp	yue_Hant	Kiombuingoton nu, kiombuingoton ku, nookuo tu mimang ko manapas dogo?	我有壓力，你有壓力，你做咩要挑釁我？
 dtp	yue_Hant	Kitimpu zou tokudi do mambasa tadau diti.	我呢排無乜時間睇書。
@@ -165,19 +216,35 @@ dtp	yue_Hant	Koiho ko moboos Onggilis?	你識唔識講英文？
 dtp	yue_Hant	Koinsanai nopo da saviavi kabo!	蘇嗎人要晒！
 dtp	yue_Hant	Kotohuadan au gigina!	多謝晒！
 dtp	yue_Hant	Mangakan zisido.	佢食緊飯。
+dtp	yue_Hant	Mantad i Borat id pogun do Kazakhstan, okonko tuhun do Amerika.	波拉特係個哈薩克斯坦人；佢唔係美國人呀。
 dtp	yue_Hant	Matai!	死！
+dtp	yue_Hant	Miingat-ingat ko no songian mimpanau.	行路要小心。
+dtp	yue_Hant	Minsingiho zou daa do boos Indonesia.	我想學印尼話。
 dtp	yue_Hant	Moboos zou do Jipun tokuudi.	我識講少少日文。
+dtp	yue_Hant	Mogiamung om mongoi izito kio.	我同埋你一齊去。
+dtp	yue_Hant	Monoodo zou diti pakalaja okon do usin, nga montok kokounsikaan.	我做呢份工作唔係為錢而係為自己開心。
+dtp	yue_Hant	Mooi monguzat tinan i zapa om i zina do tikid kosuvabon.	阿爸阿媽日日都去晨運。
 dtp	yue_Hant	Noikot no vinasi o kokitanan dau.	佢個人好似幾好。
 dtp	yue_Hant	Noimaan po haid kuukuamaon ku do makan doungotuvong.	我食飯之前做哂。
 dtp	yue_Hant	Noinsan zou koongoi id Kyoto.	我去過京都。
+dtp	yue_Hant	Nokuo tu' au' ko koongoi id sikul?	點解你唔返學？
 dtp	yue_Hant	Nokuo tu au ko tumo'od monigup?	你做咩唔戒菸？
+dtp	yue_Hant	Nokuo tu' minsingiho ko boos Kantonis?	點解你學廣東話？
+dtp	yue_Hant	Nokuro tu amu ko sumikul?	點解你唔返學？
+dtp	yue_Hant	Nokuro tu minsingilo ko boos Kantonis?	點解你學廣東話？
+dtp	yue_Hant	Nookuo tu au ko minsingiho boos do Kantonis?	點解你唔學講廣東話？
+dtp	yue_Hant	Nung kivaa o usin togumu, bohizan ku mai do kulita.	如果我有好多錢，我就會買車。
 dtp	yue_Hant	Osonong sinding diti.	呢個歌好好听。
+dtp	yue_Hant	Ounsikou o ginavo di moing ku nung koiho ko moboos do Kadazan.	如果你識得講卡達山話，我阿公就會好開心。
 dtp	yue_Hant	Ponongkibooso ko no kama kumaa di mongingia nu sondii.	你應該自己同老師講。
 dtp	yue_Hant	Popoiho ko dogo do tiinu koni?	你等陣再話畀我知係咪？
 dtp	yue_Hant	Poundahiu zou daa doiti pogun.	我想搬去鄉下住。
+dtp	yue_Hant	Sada pinokibolian ku dika bogia ri dii, okonko manuk!	我畀你買魚，唔係雞！
 dtp	yue_Hant	Songian ko po minsingiho?	你幾時先肯學精唧？
 dtp	yue_Hant	Songian zikoi mangakan? Houson zou!	幾時食飯呀？好鬼肚餓呀！
+dtp	yue_Hant	Songkuo o hinaid i mimpanau?	行路要幾耐呀?
 dtp	yue_Hant	Talanggou ko mantad dogo.	你高過我。
 dtp	yue_Hant	Titiakan kono?	你愛食飯冇?
 dtp	yue_Hant	Titihobus zou daa dumuom do sodop diti.	我今晚想出街食飯。
 dtp	yue_Hant	Titiikau zou daa di aiso monigup.	我想坐非吸煙區。
+dtp	yue_Hant	Toombo o kaanangan nu?	你鐘意邊個啊？

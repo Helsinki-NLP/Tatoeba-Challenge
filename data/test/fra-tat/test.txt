@@ -26,6 +26,7 @@ fra	tat	Bonjour !	Сәлам!
 fra	tat	Bonne nuit !	Тыныч йокы!
 fra	tat	Bonsoir !	Хәерле кич!
 fra	tat	Brossez vos dents.	Тешләрегезне чистартыгыз.
+fra	tat	Car ton bras sait porter l'épée, il sait porter la croix.	Kullarıñ osta tota kılıçnı, tota belerlär xaçnı!
 fra	tat	Casse-toi !	Кит моннан!
 fra	tat	Ça suffit !	Җитте!
 fra	tat	Cela ne va pas faire tomber la dictature, mais c'est une consolation pour ceux qui sont contraints d'y vivre.	Мөгаен, бу гамәл диктатураны бәреп төшерә алмас, ләкин әлеге мохиттә яшәргә мәҗбүр булганнар өчен беркадәр юаныч булыр.
@@ -69,6 +70,7 @@ fra	tat	Dix, onze, douze, treize, quatorze, quinze, seize, dix-sept, dix-huit, d
 fra	tat	Donne pas aux enfants de lait froid !	Балаларга салкын сөт бирмә.
 fra	tat	Elle a été capturée alors qu'elle tentait de voler des bijoux.	Аны кыйммәтле әйберләр урларга маташканда тотканнар.
 fra	tat	Elle arrivera vers midi.	Ул төш җиткәч килер.
+fra	tat	Elle est dans sa chambre.	Ул үз бүлмәсендә.
 fra	tat	Elle est heureuse.	Ул бәхетле.
 fra	tat	Elle est mon amie.	Ул минем дустым.
 fra	tat	Elles ne m'aiment pas.	Алар мине яратмыйлар.
@@ -82,6 +84,7 @@ fra	tat	Est-ce que c'est votre voiture ?	Бу сезнең машинагызм�
 fra	tat	Est-ce que neuf heures te conviendrait ?	Сәгать тугызда булса, ярыймы?
 fra	tat	Est-ce que tu as un chien ?	Синең этең бармы?
 fra	tat	Est-ce votre voiture ?	Бу сезнең машинагызмы?
+fra	tat	Et ta valeur, de foi trempée, protégera nos foyers et nos droits.	Qıyu xolqıñ, nıqlı ruxıñ, – saqlar yortıbıznı, xaqlar xaqnı.
 fra	tat	Étudies-tu chaque jour ?	Һәр көн укыйсыңмы?
 fra	tat	Étudies-tu quotidiennement ?	Һәр көн укыйсыңмы?
 fra	tat	Fasse que le ciel nous vienne en aide !	Күкләр ярдәм итсен безгә!
@@ -90,6 +93,7 @@ fra	tat	Gens du pays, c’est votre tour De vous laisser parler d’amour.	Әй,
 fra	tat	Il a beaucoup d'argent.	Аның акчасы күп.
 fra	tat	Il a déjà le code !	Ул кодка инде ия!
 fra	tat	Il a neigé toute la nuit.	Төне буе кар яуды.
+fra	tat	Il est dans sa chambre.	Ул үз бүлмәсендә.
 fra	tat	Il est difficile de répondre à cette question.	Бу сорауга җавап бирүе кыен.
 fra	tat	Il est heureux.	Ул бәхетле.
 fra	tat	Il est historien.	Ул тарихчы.
@@ -127,8 +131,8 @@ fra	tat	J'ai beaucoup de livres.	Минем китапларым күп.
 fra	tat	J'ai compris.	Аңладым.
 fra	tat	J'aime les roses rouges.	Мин кызыл розалар яратам.
 fra	tat	J'aimerais apprendre le français.	Француз телен өйрәнер идем.
-fra	tat	J'ai quelque chose à te dire.	Сиңа әйтер сүзем бар.
 fra	tat	J'ai quelque chose à te dire.	Сиңа әйтәсе нәрсәләрем бар.
+fra	tat	J'ai quelque chose à te dire.	Сиңа әйтер сүзем бар.
 fra	tat	J'ai un éléphant.	Минем филем бар.
 fra	tat	J'ai une question.	Минем бер соравым бар.
 fra	tat	Janvier est le premier mois de l'année.	Гыйнвар — елның беренче ае.
@@ -231,6 +235,7 @@ fra	tat	Nous eûmes beaucoup de pluie ce mois-là.	Бу айда бездә яң
 fra	tat	Nous ne pouvons pas déchirer une page du livre de notre vie, mais nous pouvons jeter le livre entier au feu.	Тормышыбызның аерым бер битен ертып алып булмый, ләкин без аның бөтен китабын утка ташлый алабыз.
 fra	tat	Nous ne sommes plus vos singes!	Без хәзер сезнең маймылларыгыз түгел инде!
 fra	tat	Nous voulons savoir.	Беләсебез килә.
+fra	tat	O Canada, terre de nos aïeux, ton front est ceint de fleurons glorieux.	Äy, Kanada! Ata-baba cire, dan çäçäkläre bizilär sine!
 fra	tat	On a perdu.	Оттырдык.
 fra	tat	On a perdu.	Оттырдылар.
 fra	tat	On avale bien des couleuvres pour faire de la paix son œuvre.	Ут йотасың, куеп үз көчең, хезмәтеңне таныту өчен.
@@ -289,6 +294,7 @@ fra	tat	Tokyo est une très grande ville.	Токио — бик зур шәһә�
 fra	tat	Tom comprend-il le français ?	Том французча аңлыймы?
 fra	tat	Tom est mon frère aîné.	Том — минем абыем.
 fra	tat	Tom s'est endormi dans le cinéma.	Том кинода йокыга киткән.
+fra	tat	Ton histoire est une épopée des plus brillants exploits.	Sineñ tarixıñ – üze ber dastan, ciñüläreñne qolaçlıy.
 fra	tat	Tout ce que je dis est mensonge. Et ça, c'est la vérité.	Бар сөйләгәнем - ялган. Һәм бу хак сүз.
 fra	tat	Tu as des enfants ?	Синең балаларың бармы?
 fra	tat	Tu as des questions ?	Сорауларың бармы?
@@ -297,6 +303,7 @@ fra	tat	Tu es belle.	Син чибәр.
 fra	tat	Tu es mon amie.	Син минем дустым.
 fra	tat	Tu es mon ami.	Син минем дустым.
 fra	tat	Tu es un bon musicien.	Син яхшы музыкант.
+fra	tat	Tu n'as pas beaucoup d'argent.	Синең акчаң күп түгел.
 fra	tat	Tu n'as pas compris.	Син аңламагансың.
 fra	tat	Un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix.	Бер, ике, өч, дүрт, биш, алты, җиде, сигез, тугыз, ун.
 fra	tat	Voici ma chambre.	Бу минем бүлмәм.

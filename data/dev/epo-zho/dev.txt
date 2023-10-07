@@ -38,6 +38,7 @@ epo	cmn_Hans	Ĉu ie estas telefono?	哪里有电话机？
 epo	cmn_Hans	Ĉu ili ĉiuj estas egalaj?	他们都是一样的吗？
 epo	cmn_Hans	Ĉu iu estis jam en Havajo?	这儿有人去过夏威夷吗？
 epo	cmn_Hans	Ĉu la mono sufiĉis?	钱够吗？
+epo	cmn_Hans	Ĉu majonezo estas muzikilo?	蛋黄酱是一种乐器吗？
 epo	cmn_Hans	Ĉu mi povas parki mian aŭtomobilon tie?	我能把我的车停在这儿吗？
 epo	cmn_Hans	Ĉu mi povas studi ĉi tie?	我能在这里学习吗？
 epo	cmn_Hans	Ĉu mi rajtas iri naĝi, patrino?	妈妈，我能去游泳吗？
@@ -56,6 +57,7 @@ epo	cmn_Hans	Ĉu vi estas kolera?	您生气了吗？
 epo	cmn_Hans	Ĉu vi estas lernanto en privata lernejo?	你在私立学校读书吗？
 epo	cmn_Hans	Ĉu vi havas problemon?	你有什么问题？
 epo	cmn_Hans	Ĉu vi interŝanĝos lokojn kun mi?	您愿意跟我换座位吗？
+epo	cmn_Hans	Ĉu vi kapablas respondi lian demandon?	你能回答他的问题吗？
 epo	cmn_Hans	Ĉu vi koleras?	你生气了吗？
 epo	cmn_Hans	Ĉu vi kredas je dio?	你相信上帝吗？
 epo	cmn_Hans	Ĉu vi kredas min?	你相信我吗？
@@ -70,6 +72,7 @@ epo	cmn_Hans	Ĉu vi ŝatas suŝion?	你喜欢寿司吗？
 epo	cmn_Hans	Ĉu vi scias, kiam la muzikisto venos ĉi tien?	你知道音乐家什么时候来这儿吗？
 epo	cmn_Hans	Ĉu vi scias, kiel atingi nin?	你知道怎样到我们这儿吗？
 epo	cmn_Hans	Ĉu vi scipovas paroli la ŝanhajan?	你会说上海话吗？
+epo	cmn_Hans	Ĉu vi trinkis akvon hodiaŭ?	今天你喝水了吗？
 epo	cmn_Hans	Ĉu vi volas tason da teo?	你想要一杯茶吗？
 epo	cmn_Hans	"Dankon pro via helpo." — "Ne dankinde."	“谢谢你的帮忙。” “不用谢。”
 epo	cmn_Hans	Dankon pro via pacienco.	谢谢你的耐心。
@@ -129,6 +132,7 @@ epo	cmn_Hans	Ili estas mortintaj.	他们死了。
 epo	cmn_Hans	Ili frenezas, tiuj madridanoj.	从马德里来的人都很怪。
 epo	cmn_Hans	Ili havas du filojn kaj unu filinon.	他们有两个儿子和一个女儿。
 epo	cmn_Hans	Ili lavis sin en la rivero.	他们在河中洗澡。
+epo	cmn_Hans	Ili ne estas instruistoj.	他们不是老师。
 epo	cmn_Hans	Ili pli ŝatas teon ol kafon.	比起咖啡，他们更喜欢茶。
 epo	cmn_Hans	Ili plu laboris de mateno ĝis nokto.	他们从早到晚持续地工作。
 epo	cmn_Hans	Ili scias kiel fabriki atoman bombon.	他们知道如何制造原子弹。
@@ -149,8 +153,8 @@ epo	cmn_Hans	Kial homoj iras en kinejon?	为什么人们去电影院？
 epo	cmn_Hans	Kial homoj suicidas?	为什么人们会自杀?
 epo	cmn_Hans	Kial mi faris tion?	为什么我做了这样一件事。
 epo	cmn_Hans	Kial ni ne iras hejmen?	我们何不回家呢？
-epo	cmn_Hans	"Kial vi ne iras?" - "Ĉar mi ne volas"	"你为什么不去？""因为我不想去。"
 epo	cmn_Hans	"Kial vi ne iras?" "Ĉar mi ne volas."	"你为什么不去？""因为我不想去。"
+epo	cmn_Hans	"Kial vi ne iras?" - "Ĉar mi ne volas"	"你为什么不去？""因为我不想去。"
 epo	cmn_Hans	Kial vi ne rigardas miajn okulojn, dum ni interparolas.	我们交谈的时候，为什么你不看着我的眼睛？
 epo	cmn_Hans	Kiam foriros la unua trajno?	第一班火车什么时候出发？
 epo	cmn_Hans	Kiam vi komencis lerni la anglan?	你什么时候开始学英语的？
@@ -205,6 +209,7 @@ epo	cmn_Hans	La esenco de libero estas la matematiko.	自由的本质是数学�
 epo	cmn_Hans	La filmo daŭris du horojn.	电影持续了2个小时。
 epo	cmn_Hans	La filmo ekas.	电影开始了。
 epo	cmn_Hans	La flegistino prizorgis la pacienton.	护士照顾病人。
+epo	cmn_Hans	La franca ne estas la gepatra lingvo de Tomo.	法语不是汤姆的母语。
 epo	cmn_Hans	La granda frato rigardas vin.	老大哥在看着你。
 epo	cmn_Hans	La hundo estis trafita de aŭto.	那条狗被汽车撞到了。
 epo	cmn_Hans	La knabino legas kun la avo.	孙女和她爷爷一起阅读。
@@ -226,6 +231,7 @@ epo	cmn_Hans	La pikniko nuliĝis pro la pluvo.	由于下雨，野餐泡汤了。
 epo	cmn_Hans	La plej rapida maniero vojaĝi estas flugi.	旅行最快的方式是乘飞机。
 epo	cmn_Hans	La ponto estas riparata.	桥处于修理中。
 epo	cmn_Hans	La ponto estis konstruita de la romianoj.	那座桥是罗马人修建的。
+epo	cmn_Hans	La prezidento de Ukrainio estas judo.	烏克蘭總統是猶太人。︀
 epo	cmn_Hans	La profundaj tavoloj de la oceano estas ankoraŭ preskaŭ neesploritaj.	海洋的深层仍然几乎未被探索。
 epo	cmn_Hans	La rektiloj estas praktikaj por desegni rektajn liniojn.	用尺来划直线很方便。
 epo	cmn_Hans	Larmo ruliĝis laŭ lia vango.	眼泪沿着他的脸颊流下来。
@@ -493,6 +499,7 @@ epo	cmn_Hans	Se ŝi edziniĝintus al vi, ŝi feliĉus nun.	如果她和你结婚
 epo	cmn_Hans	Se vi iam foriros, tiam mi tre malgajos.	如果有一天你走了，我会很难过的。
 epo	cmn_Hans	Se vi instruos al mi la japanan, mi instruos al vi la hispanan.	你要是教我日语，我就教你西班牙语。
 epo	cmn_Hans	Ŝia konduto estas vulgara.	她的行为很粗俗。
+epo	cmn_Hans	Ŝia nova libro bone vendiĝas.	她的新书卖得不错。
 epo	cmn_Hans	Ŝia robo ne akordas kun miaj gustoj.	她的衣着不合我的口味。
 epo	cmn_Hans	Ŝia vizaĝo ruĝiĝis.	她脸红了。
 epo	cmn_Hans	Ŝi certe ŝatas bestojn.	她确实喜欢动物。
@@ -538,6 +545,8 @@ epo	cmn_Hans	Sub la kliniĝanta turo de Pizo sidas fabelrakontanto, manĝanta te
 epo	cmn_Hans	Sue kaj John decidis geedziĝi.	Sue 和 John 决定结婚。
 epo	cmn_Hans	Svislando estas bela lando.	瑞士是一个美丽的国家。
 epo	cmn_Hans	Svislando estas neŭtrala lando.	瑞士是一个中立的国家。
+epo	cmn_Hans	Tajvano ne estas Tajlando.	台湾不是泰国。
+epo	cmn_Hans	Tatoeba ne estas vortaro.	Tatoeba不是词典。
 epo	cmn_Hans	Telefonu min morgaŭ.	明天打电话给我。
 epo	cmn_Hans	Teon, mi petas.	请给我一杯茶。
 epo	cmn_Hans	Tian vivon mi ne povas vivi.	我不想过这样的生活。
@@ -692,6 +701,7 @@ epo	cmn_Hant	Jes, mi venas.	是, 我來了。
 epo	cmn_Hant	Kaj vi?	你呢？
 epo	cmn_Hant	Ken ne kuris.	肯沒跑步。
 epo	cmn_Hant	Ken ŝatas tendumi.	肯喜歡露營。
+epo	cmn_Hant	Kial vi ankoraŭ ne geedziĝis?	你怎麼還沒有結婚？
 epo	cmn_Hant	Kiam ĉi tiu trajno alvenos en Jokohama?	火車什麼時候到達橫濱？
 epo	cmn_Hant	Kie estas la ŝuoj?	鞋子在哪儿？
 epo	cmn_Hant	Kiel alte vi kapablas salti?	你能跳多高？
@@ -882,6 +892,7 @@ epo	cmn_Hant	Mi restadas ĉe mia onklo en Tokio.	我待在東京的伯伯家。
 epo	cmn_Hant	Mi ŝatus forlasi ĉi tiun urbon kaj neniam plu reveni.	我希望離開這個村子並且再也不要回來。
 epo	cmn_Hant	Mi ŝatus havi tason da kafo.	我想要一杯咖啡。
 epo	cmn_Hant	Mi ŝatus vidi vian patron.	我想去看你的父親。
+epo	cmn_Hant	Mi scias, ke mi pravas, sed vi havas la rajton pri via opinio.	我知道我是對的，不過你有權有你自己的看法。
 epo	cmn_Hant	Mi scias, ke ŝi dormas.	我知道她在睡覺。
 epo	cmn_Hant	Mi scias kiu estas mia malamiko.	我知道誰是我的敵人。
 epo	cmn_Hant	Mi sopiras vin.	我很想你。
@@ -957,9 +968,11 @@ epo	cmn_Hant	Ŝi estas via amiko.	她是你的朋友。
 epo	cmn_Hant	Ŝi estis promociita.	她晉升了。
 epo	cmn_Hant	Ŝi instruas al mi kiel naĝi.	她教我如何游泳。
 epo	cmn_Hant	Ŝi instruis min naĝi.	她教我如何游泳。
+epo	cmn_Hant	Ŝi konas nek min, nek vin.	她不認識我，也不認識你。
 epo	cmn_Hant	Ŝi manĝas nur legomojn.	她只吃蔬菜。
 epo	cmn_Hant	Ŝi mortis en liaj brakoj.	她死在他的怀里。
 epo	cmn_Hant	Ŝi mortis.	她死了。
+epo	cmn_Hant	Ŝi ne estas vundita.	她沒受傷。
 epo	cmn_Hant	Sinjorino White ekploregis, kiam mi raportis al ŝi la novaĵon.	當我告知她那件消息時，懷特小姐哭了出來。
 epo	cmn_Hant	Ŝi nomas min Kenji.	她叫我賢治。
 epo	cmn_Hant	Ŝi ploris dum ŝi legis la leteron.	她一邊讀這封信一邊哭。
@@ -982,6 +995,7 @@ epo	cmn_Hant	Tio estas trans mia horizonto.	那超出了我的理解。
 epo	cmn_Hant	Tio kondukas al nenio bona.	那是死路一條。
 epo	cmn_Hant	Tio ne estas diskuttemo.	它不是一個適合討論的主題。
 epo	cmn_Hant	Tio ne estas grava.	這個不重要。
+epo	cmn_Hant	Tio ne tiel malfacilas.	這不那麼難。
 epo	cmn_Hant	Tiu ĉi vortaro estas skribita en la angla.	這本字典是用英語寫的。
 epo	cmn_Hant	Tokio estas la plej granda urbo de Japanio.	東京是日本最大的城市。
 epo	cmn_Hant	Tokio estas la plej granda urbo de Japanujo.	東京是日本最大的城市。
@@ -989,6 +1003,7 @@ epo	cmn_Hant	Tokio estas la plej granda urbo en Japanio.	東京是日本最大�
 epo	cmn_Hant	Tokio estas la plej granda urbo en Japanujo.	東京是日本最大的城市。
 epo	cmn_Hant	Tom estas brito.	湯姆是英國人。
 epo	cmn_Hant	Tom ne ŝatas ĉinajn manĝaĵojn.	Tom不喜歡吃中國料理。
+epo	cmn_Hant	Tomo sufiĉe manĝis.	湯姆吃夠了。
 epo	cmn_Hant	Trafi la kernon de l' afero.	一針見血。
 epo	cmn_Hant	Unu el liaj tri aŭtomobiloj estas blua, la aliaj estas blankaj.	她的三台車有一輛是藍色的，其餘兩輛是白色的。
 epo	cmn_Hant	Venu vidi min je la dek-unua horo.	十一點鐘來看我。

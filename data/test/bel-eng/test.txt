@@ -237,8 +237,8 @@ bel	eng	Гэта кніга таксама даступная на партуг�
 bel	eng	Гэта кніга, якую я чытаў учора вечарам.	This is the book which I read last night.
 bel	eng	Гэта крэсла.	It is a chair.
 bel	eng	Гэта крэсла.	This is an armchair.
-bel	eng	Гэта мае штаны.	Those are my pants.
 bel	eng	Гэта маё жыццё.	It's my life.
+bel	eng	Гэта мае штаны.	Those are my pants.
 bel	eng	Гэта малако.	That is milk.
 bel	eng	Гэта мая вольная інтэрпрэтацыя зместу ліста.	This is my free interpretation of the contents of the letter.
 bel	eng	Гэта мой аўтамабіль.	This is my car.
@@ -658,9 +658,9 @@ bel	eng	Калі ты не ўмееш любіць самоту, ты не ўм�
 bel	eng	Калі ты пачала вывучаць французскую?	When did you start learning French?
 bel	eng	Калі ты прыехала ў Кітай?	When did you arrive in China?
 bel	eng	Калі ты прыйшоў у школу?	How did you come to school?
+bel	eng	Калі ў аднаго з сяброў вашай каманды мала адзінак жыцця, не лячыце яго. Наадварот, няхай ёй памрэ, а потым уваскрэсьце яго.	If one of your party members has low HP, don't heal them. Instead, let them die and then resurrect them.
 bel	eng	Калі уйгур сустрэў беларуса, на якой мове яна размаўлялі адзін з адным?	When an Uyghur met a Belarusian, what language did the two speak to each other?
 bel	eng	Калі «у кожнага правіла ёсць хоць адно выключэнне»—гэта правіла, то хаця б у аднаго правіла няма выключэнняў.	If "every rule has at least one exception" is a rule, then at least one rule has no exception.
-bel	eng	Калі ў аднаго з сяброў вашай каманды мала адзінак жыцця, не лячыце яго. Наадварот, няхай ёй памрэ, а потым уваскрэсьце яго.	If one of your party members has low HP, don't heal them. Instead, let them die and then resurrect them.
 bel	eng	Калі ў мяне ўпершыню быў курс Сі, я нічога не разумела з таго, што паяснялі ў класе. Слава богу, у мяне ёсць сяброўка-праграмістка, якая паясніла мне, як усё гэта працуе.	When I first took a C course, I couldn't understand a single thing explained in class. Thank God I got a friend of mine who's a programmer to explain to me how the whole caboodle works.
 bel	eng	Каліфорнія вядомая сваёй садавінай.	California is famous for its fruit.
 bel	eng	Калі чэсна, мне насамрэч усё роўна.	To tell the truth, I don't really care.
@@ -743,15 +743,15 @@ bel	eng	Магу я паглядзець на Ваш пашпарт?	May I look 
 bel	eng	Маджэнта — найлепшы колер у свеце!	Magenta is the best color in the world!
 bel	eng	Мае бацькі знаёмыя з маёй дзяўчынай.	My parents know my girlfriend.
 bel	eng	Мае валасы хвалістыя.	My hair is wavy.
-bel	eng	Мае суседзі ўжо паяснілі мне, хто такая Б'ёрк.	My roommates have already explained to me who Björk is.
-bel	eng	Мае суседі па пакоі ўжо паяснілі мне, хто такая Б'ёрк.	My roommates have already explained to me who Björk is.
-bel	eng	Маеш мабільны?	Do you have a cellphone?
-bel	eng	Мае шнуркі развязаліся, калі я йшоў па вуліцы.	My shoelaces came untied as I was walking down the street.
 bel	eng	Маё жыцце было б зусім пустым без цябе.	My life would be completely empty without you.
 bel	eng	Маёй мовы няма ў спісе!	My language is not on the list!
 bel	eng	Маё прозвішча — Хопкінс.	My name is Hopkins.
+bel	eng	Мае суседзі ўжо паяснілі мне, хто такая Б'ёрк.	My roommates have already explained to me who Björk is.
+bel	eng	Мае суседі па пакоі ўжо паяснілі мне, хто такая Б'ёрк.	My roommates have already explained to me who Björk is.
 bel	eng	Маё сэрца забілася, калі я пачуў, што назвалі маё імя.	My heart beat when I heard my name called.
 bel	eng	Маё цярпенне лопнула.	My patience has come to the breaking point.
+bel	eng	Маеш мабільны?	Do you have a cellphone?
+bel	eng	Мае шнуркі развязаліся, калі я йшоў па вуліцы.	My shoelaces came untied as I was walking down the street.
 bel	eng	Маім бацькам яна падабаецца.	My parents like her.
 bel	eng	Майго сына завуць Том.	My son's name is Tom.
 bel	eng	Майя рабілі сваі мячы з гумы.	The Mayas made their balls out of rubber.
@@ -1274,7 +1274,6 @@ bel	eng	Свет мяняецца ўсё хутчэй і хутчэй.	The world
 bel	eng	Свіння ружовая.	The pig is pink.
 bel	eng	Святло стала зялёным.	The light was green.
 bel	eng	Свяшчэннай кнігай мусульман з’яўляецца Каран.	The holy book of Muslims is the Qur'an.
-bel	eng	Сербская — яе родная мова.	She is a native speaker of Serbian.
 bel	eng	Сёння 4 чэрвеня — дзень, калі кітайскія ўлады забілі сотні людзей на мірнай дэманстрацыі на плошчы Цяньаньмэнь.	Today is the 4th of June — a day when Chinese government killed hundreds of people on a peaceful demonstration on the Tiananmen square.
 bel	eng	Сёння дзень кампліментаў. Заўтра будзе дзень абраз.	Today is a day of compliments. Tomorrow will be a day of insults.
 bel	eng	Сёння добра.	It's nice today.
@@ -1294,6 +1293,7 @@ bel	eng	Сёння цудоўнае надвор'е.	It's lovely weather today.
 bel	eng	Сёння я не знайшоў работы.	I found no job today.
 bel	eng	Сёння я пайшоў да лекара.	Today, I went to the doctor's.
 bel	eng	Сёння я ўстаў позна.	I got up late this morning.
+bel	eng	Сербская — яе родная мова.	She is a native speaker of Serbian.
 bel	eng	Сіанізм не ўваходзіць у іўдаізм.	Zionism isn't part of Judaism.
 bel	eng	Сіні колер табе пасуе.	Blue looks good on you.
 bel	eng	Скажаш мне, як атрымаеш пасылку.	Let me know when you get the package.
@@ -1475,6 +1475,7 @@ bel	eng	Ты дурнаваты!	You're nuts!
 bel	eng	Ты едзеш у школу на аўтобусе?	Do you go to school by bus?
 bel	eng	Ты жартуеш!	You're kidding!
 bel	eng	Ты ж можаш гэта зрабіць, так?	You can do it, can't you?
+bel	eng	Ты зʼела дэсерт?	Did you eat dessert?
 bel	eng	Ты забіла іх.	You killed them.
 bel	eng	Ты забіла яго.	You killed him.
 bel	eng	Ты забіў яе.	You killed her.
@@ -1485,7 +1486,6 @@ bel	eng	Ты заслугоўваеш найлепшага.	You deserve the best
 bel	eng	Ты заслугоўваеш толькі найлепшага.	You deserve nothing but the best.
 bel	eng	Ты заўсёды прыходзіш на працу так рана?	Do you always come to work this early?
 bel	eng	Ты здрадзіў мне. Чаму?	You betrayed me. Why?
-bel	eng	Ты зʼела дэсерт?	Did you eat dessert?
 bel	eng	«Ты злуеш на мяне?» — «Так, крышачку».	"Are you angry with me?" "Yes, a little bit."
 bel	eng	Ты знайшла работу?	Did you find a job?
 bel	eng	Ты з Урумчы?	Are you from Urumqi?
@@ -1559,9 +1559,9 @@ bel	eng	Ты так добра выглядаеш, што я магла б па�
 bel	eng	Ты такі дурань!	You're such an idiot!
 bel	eng	Ты такі нецярплівы са мною.	You're so impatient with me.
 bel	eng	Ты тэлефанаваў?	Did you call?
-bel	eng	Ты уйгур?	Are you an Uighur?
 bel	eng	Ты ўбачыш розніцу.	You will see the difference.
 bel	eng	Ты ўжо спаймала таго Аднарога?	Have you caught that Unicorn yet?
+bel	eng	Ты уйгур?	Are you an Uighur?
 bel	eng	Ты ў лепшай форме, чым я.	You're in better shape than I am.
 bel	eng	Ты ўпэўненая, што хочаш, каб я дапамагла цябе з дамашнім заданнем?	Are you sure you want me to help you with your homework?
 bel	eng	Ты ўсё яшчэ маладая.	You're still young.
@@ -1653,24 +1653,24 @@ bel	eng	У нашым доме два вольныя пакоі.	We have two unu
 bel	eng	У Нідэрландах ёсць звычай, што, калі пры будаўніцтве дома дайшлі да найвышэйшай кропкі, і дах гатовы да кладкі чарапіцы, гаспадар частуе будаўнікоў так званым «чарапічным півам», каб адсвяткаваць гэта. На каньку даху ставіцца сцяг. Калі гаспадар скупы і адмаўляецца пачаставаць работнікаў, ставяць не сцяг, а мятлу.	In the Netherlands, it is the custom that, when during the construction of a house the highest point has been reached and the roof is ready for tiling, the client treats the construction workers to so-called "tile beer" to celebrate this. A flag is then placed on the ridge of the house. If the client is too stingy to treat, not a flag, but a broom is placed.
 bel	eng	У пакоі не было нічога, акрамя старога крэсла.	There was nothing but an old armchair in the room.
 bel	eng	Урэшце рэшт яны купілі свабоду, заплаціўшы крывёю.	At last, they purchased freedom with blood.
-bel	eng	У Савецкай Расіі урок вучыць настаўніка!	In Soviet Russia, lesson teaches teacher!
 bel	eng	У Савецкай Расії сказ піша цябе!	In Soviet Russia, sentence writes you!
+bel	eng	У Савецкай Расіі урок вучыць настаўніка!	In Soviet Russia, lesson teaches teacher!
 bel	eng	У Самі звоніць тэлефон.	Sami's cellphone is ringing.
 bel	eng	У самых прыгожых кветак самыя вострыя шыпы.	The most beautiful flowers have the sharpest thorns.
 bel	eng	Усе былі шчаслівыя.	All were happy.
+bel	eng	Усё ведаюць, што ты багаты.	Everyone knows you're rich.
 bel	eng	Усе гатовыя.	Everyone is ready.
+bel	eng	Усё гэта толькі ліслівасць.	It's nothing but flattery.
 bel	eng	Усе дарослыя калісьці былі дзецьмі.	All grown-ups were once children.
+bel	eng	Усё добра.	It's all right.
 bel	eng	Усе людзі нараджаюцца вольнымі і роўнымі ў сваёй годнасці і правах. Яны надзеленыя розумам і сумленнем і павінны ставіцца адзін да аднаго ў духу братэрства.	All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+bel	eng	Усё магчыма - было б жаданне.	Where there's a will, there's a way.
 bel	eng	Усем добрай раніцы.	Good morning, everybody.
 bel	eng	Усе назоўнікі ў партугальскай належаць да мужчынскага ці жаночага роду.	Every noun in Portuguese is either masculine or feminine.
 bel	eng	Усе намаганні доктара былі марныя, пацыент памёр.	All the doctor's efforts were in vain and the man soon died.
+bel	eng	Усё сваё жыццё яна чакала гэтага моманту.	She has waited her whole life for this very moment.
 bel	eng	Усе свае надзеі беларускі народ ускладае выключна на першага Прэзідэнта Рэспублікі Беларусь Аляксандра Лукашэнка і яго сына Колю.	All the hopes of the Belarusian people are set exclusively on the first President of the Republic of Belarus, Alexander Lukashenko, and his son Kolya.
 bel	eng	Усе хочуць з табой сустрэцца. Ты знакамітасць!	Everyone wants to meet you. You're famous!
-bel	eng	Усё ведаюць, што ты багаты.	Everyone knows you're rich.
-bel	eng	Усё гэта толькі ліслівасць.	It's nothing but flattery.
-bel	eng	Усё добра.	It's all right.
-bel	eng	Усё магчыма - было б жаданне.	Where there's a will, there's a way.
-bel	eng	Усё сваё жыццё яна чакала гэтага моманту.	She has waited her whole life for this very moment.
 bel	eng	Усім добрай раніцы!	Good morning, everyone.
 bel	eng	Усім падабаецца гэта настаўніца.	Everyone likes this teacher.
 bel	eng	Усім прывітанне!	Hello everyone!
@@ -1815,8 +1815,8 @@ bel	eng	Ці ты п'яны?	Are you drunk?
 bel	eng	Ці ты размаўляеш па-нямецку?	Do you speak German?
 bel	eng	Ці ты разумееш?	Do you understand?
 bel	eng	Ці ты са мной, ці ты супраць мяне.	You're either with me or against me.
-bel	eng	Ці ты сур'езна думаеш пра ад'езд?	Are you seriously thinking about going?
 bel	eng	Ці ты сур'ёзна?	Are you serious?
+bel	eng	Ці ты сур'езна думаеш пра ад'езд?	Are you seriously thinking about going?
 bel	eng	Ці ты ў парадку?	Are you OK?
 bel	eng	Ці ты ў сябе?	Are you home?
 bel	eng	Ці ты цяпер заняты?	Are you busy now?
@@ -2334,6 +2334,7 @@ bel	eng	Яны хлусілі?	Were they lying?
 bel	eng	Яны ходзяць у царкву ў нядзелю.	They go to church on Sunday.
 bel	eng	Я ня ведаю, дзе яно.	I don't know where it is.
 bel	eng	Я ня лекар.	I'm not a doctor.
+bel	eng	Я пʼю гарбату.	I'm drinking tea.
 bel	eng	Я павярнуся праз паўгадзіны.	I'll be back in 30 minutes.
 bel	eng	Я паглядзеў у кашалёк яшчэ раз, і ён быў пусты.	I examined the purse again, and found it empty.
 bel	eng	Я паехала ў бальніцу, каб пабачыцца з сваёй жонкай.	I went to the hospital to see my wife.
@@ -2378,7 +2379,6 @@ bel	eng	Я прызнала, што схлусіла.	I admitted I'd lied.
 bel	eng	Я прыйшла ў школу своечасова.	I arrived at school on time.
 bel	eng	Я прыняў яе запрашэнне.	I accepted her invitation.
 bel	eng	Я прыстрэлю яго.	I'm gonna shoot him.
-bel	eng	Я пʼю гарбату.	I'm drinking tea.
 bel	eng	Я п'яны.	I'm drunk.
 bel	eng	Я радая, што ты мне дапамагла.	I am glad that you have helped me.
 bel	eng	Я разлічвала на яго.	I counted on him.

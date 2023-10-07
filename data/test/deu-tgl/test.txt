@@ -18,13 +18,20 @@ deu	tgl_Latn	Das ist das höchste Gebäude, das ich je gesehen habe.	Iyan ang pi
 deu	tgl_Latn	Das ist eine DVD.	Dibidi ito.
 deu	tgl_Latn	Das ist eine Riesenhilfe.	Malaking tulong iyon.
 deu	tgl_Latn	Das ist genug für mich.	Husto na ito para sa akin.
+deu	tgl_Latn	Das ist ihr Auto, glaube ich.	Sasakyan niya yata ito.
 deu	tgl_Latn	Das ist nicht der Rede wert.	Hindi mo ako kailangang pasalamatan.
 deu	tgl_Latn	Das ist nicht der Rede wert.	Walang anuman.
 deu	tgl_Latn	Das ist wirklich spannend.	Talagang masigla.
 deu	tgl_Latn	Das Krankenhaus dieser Marskolonie liegt unter der Erde.	Ang ospital nitong kolonya sa Marte ay nasa ilalim ng lupa.
 deu	tgl_Latn	Das Krankenhaus dieser Marskolonie liegt unterirdisch.	Ang ospital nitong kolonya sa Marte ay nasa ilalim ng lupa.
+deu	tgl_Latn	Das Mädchen geht zur Schule, obwohl sie schlafen möchte.	Pumapasok sa eskwela ang bata kahit na gusto niyang matulog.
 deu	tgl_Latn	Das Mädchen war damit beschäftigt, Tee für ihren Freund zuzubereiten.	Okupado ang dalaga sa paggawa ng tsa para sa kanyang kaibigan.
+deu	tgl_Latn	Das verstehe ich auch nicht.	Hindi ko rin ito naiintindihan.
+deu	tgl_Latn	Das verstehe ich auch nicht.	Hindi ko rin ito nauunawaan.
+deu	tgl_Latn	Das verstehe ich auch nicht.	Hindi ko rin po ito naiintindihan.
+deu	tgl_Latn	Das verstehe ich auch nicht.	Hindi ko rin po ito nauunawaan.
 deu	tgl_Latn	Das wäre genug.	Puwede na iyan.
+deu	tgl_Latn	Das war für mich eine neue Erfahrung.	Isa iyong bagong karanasan para sa akin.
 deu	tgl_Latn	Das Wichtigste im Leben ist die Gesundheit.	Ang kalusugan ang pinakaimportante sa buhay ng tao.
 deu	tgl_Latn	Deine Brille gefällt mir.	Gusto ko ang salamin mo.
 deu	tgl_Latn	Dein Name steht auf der Liste an erster Stelle.	Una ang pangalan mo sa listahan.
@@ -45,6 +52,8 @@ deu	tgl_Latn	Die Blume ist nicht schwarz.	Hindi itim ang bulaklak.
 deu	tgl_Latn	Die Gärten auf dem Mars sind innerhalb von Kuppeln, die vor der Außenwelt geschützt sind.	Ang mga hardin sa Marte ay nasa loob ng mga domo na protektado sa labas.
 deu	tgl_Latn	Die Hälfte der Welt ist zu Buddhisten geworden.	Naging Budista ang kalahati ng mundo.
 deu	tgl_Latn	Die Königin der Hexen ist tot.	Patay na ang reyna ng mga bruha.
+deu	tgl_Latn	Die Leute reden über uns.	Pinag-uusapan kami ng mga tao.
+deu	tgl_Latn	Die Leute reden über uns.	Pinag-uusapan tayo ng mga tao.
 deu	tgl_Latn	Die Morales sind im Wohnzimmer.	Nasa sala ang mga Morales.
 deu	tgl_Latn	Die Sahara ist eine riesengroße Wüste.	Ang Sahara ay malawak na desyerto.
 deu	tgl_Latn	Diese Frucht schmeckt nicht gut.	Hindi masarap ang prutas na ito.
@@ -60,6 +69,7 @@ deu	tgl_Latn	Du hast echt einen Schaden.	Sira ang ulo mo talaga.
 deu	tgl_Latn	Du isst aber wirklich gern.	Gusto mo talagang kumain.
 deu	tgl_Latn	Du kannst den Cocktail mit einer Kirsche oder mit Ananas dekorieren.	Puwede mong idekoreyt ang koktel ng tseri o pinya.
 deu	tgl_Latn	Du kannst ein Lied singen.	Makakanta ka.
+deu	tgl_Latn	Du kennst doch ihre Telefonnummer!	Alam mo nga ang numero ng telepono niya!
 deu	tgl_Latn	Du musst auf diese Frage nicht antworten.	Hindi mo kailangan sumagot sa tanong na ito.
 deu	tgl_Latn	Du musst weiser handeln.	Dapat kumilos ka nang mas paham.
 deu	tgl_Latn	Du studierst Englisch.	Nagaaral ka ng Ingles.
@@ -93,6 +103,7 @@ deu	tgl_Latn	Er würgte, bevor er zu kotzen begann.	Nahilo siya at nagsuka.
 deu	tgl_Latn	Es gab einige Dinge, die mir an dem Film nicht gefallen haben.	Ang dami kong hindi nagustuhan sa pelikulang iyon.
 deu	tgl_Latn	Es gibt beinahe sieben Milliarden Menschen auf der Welt.	Halos pitong bilyon na ang tao sa mundo.
 deu	tgl_Latn	Es gibt im Moment viel zu tun.	Marami siyang trabaho sa sandaling ito.
+deu	tgl_Latn	Es gibt viele Fische im Meer.	Maraming isda sa dagat.
 deu	tgl_Latn	Es ist sehr angenehm, den Ozean per Schiff zu überqueren.	Masayang tawirin ang karagatan sakay ng barko.
 deu	tgl_Latn	Esmeraldas Sapin-sapin schmeckt gut.	Masarap ang sapin-sapin ni Esmeralda.
 deu	tgl_Latn	Esmeraldos Adobo schmeckt gut.	Masarap ang adobo ni Esmeraldo.
@@ -110,20 +121,29 @@ deu	tgl_Latn	Es stimmt wohl.	Totoo nga.
 deu	tgl_Latn	Falsch.	Mali.
 deu	tgl_Latn	Felipe will muskulöser werden.	Si Felipe ay gustong magpalaki ng kanyang katawan.
 deu	tgl_Latn	Fleisch ist ein Sexsymbol.	Ang karne ay simbolo ng sekso.
+deu	tgl_Latn	Gefällt dir mein Ring?	Gusto mo ba ang singsing ko?
+deu	tgl_Latn	Gefällt dir mein Ring?	Nagugustuhan mo ba ang singsing ko?
 deu	tgl_Latn	Geh weiter ohne mich.	Tuloy ka nang wala ako.
+deu	tgl_Latn	Habe ich dich jemals um irgendetwas gebeten?	May hiniling ba ako sa iyo kahit minsan?
+deu	tgl_Latn	Habe ich dich jemals um irgendetwas gebeten?	May hiningi ba ako sa iyo kahit minsan?
+deu	tgl_Latn	Hältst du mich für einen Diktator?	Diktador ba ang tingin mo sa akin?
 deu	tgl_Latn	Hast du das Buch zu Ende gelesen?	Tinapos mo nang basahin itong libro?
 deu	tgl_Latn	Hast du eine Ahnung, wie dies passiert ist?	May ideya ka ba kung paano ito nangyari?
 deu	tgl_Latn	Heute Morgen habe ich ein Glas Milch getrunken.	Isang basong gatas ang ininom ko sa umaga.
 deu	tgl_Latn	Hier ist mein Blog, in dem ich mich vorstellen und von meinem Alltag erzählen werde.	Heto ang aking blog, na magpapakilala sa akin at maghahayag ukol sa aking pang-araw-araw na buhay.
 deu	tgl_Latn	Hier ist mein Geheimnis. Es ist ganz einfach: man sieht nur mit dem Herzen gut. Das Wesentliche ist für die Augen unsichtbar.	Narito ang lihim ko. Napakasimple nito: sa pamamagitan lamang ng puso makakakitang mabuti. Hindi kita ng mata ang pinakapuso ng mga bagay.
 deu	tgl_Latn	Hier sitzt niemand.	Walang nakaupo rito.
+deu	tgl_Latn	Ich arbeite die ganze Woche.	Buong linggo akong nagtatrabaho.
 deu	tgl_Latn	Ich auch!	Ako rin!
 deu	tgl_Latn	Ich bin 1,83 m groß.	Ang taas ko ay 1.83 metro.
 deu	tgl_Latn	Ich bin am glücklichsten, wenn ich in der Schule bin.	Pinakamaligaya ako nang nasa paaralan ako.
 deu	tgl_Latn	Ich bin einen Meter dreiundachtzig groß.	Ang taas ko ay 1.83 metro.
 deu	tgl_Latn	Ich bin ein Freund von Roberts.	Ako ay isang kaibigan ni Roberts.
+deu	tgl_Latn	Ich bin entschlossen, diesen Plan auszuführen.	Desidido akong isagawa ang planong ito.
+deu	tgl_Latn	Ich bin entschlossen, diesen Plan auszuführen.	Determinado akong isagawa ang planong ito.
 deu	tgl_Latn	Ich bin um sechs Uhr morgens aufgestanden.	Gumising ako nang alas 6 ng itong umaga.
 deu	tgl_Latn	Ich brauche Hilfe.	Necesito ayuda.
+deu	tgl_Latn	Ich bringe euch an einen sicheren Ort.	Dadalhin ko kayo sa ligtas na lugar.
 deu	tgl_Latn	Ich freue mich über diese Nachricht.	Maligaya ako sa balitang ito.
 deu	tgl_Latn	Ich gehe lieber schwimmen.	Mas gusto ko ang pumunta't lumangoy.
 deu	tgl_Latn	Ich gehe lieber schwimmen.	Mas gusto kong lumangoy.
@@ -142,6 +162,8 @@ deu	tgl_Latn	Ich habe keine Lebensmittel im Haus.	Wala akong pagkain sa bahay ko
 deu	tgl_Latn	Ich habe mich gefragt, ob Du mich mitnehmen kannst?	Pwede mo ba akong isakay?
 deu	tgl_Latn	Ich habe mich gefreut, als ich die Nachricht hörte.	Natuwa ako nu'ng mabalitaan ko.
 deu	tgl_Latn	Ich habe mir eine Kamera gekauft, sie aber am nächsten Tag schon wieder verloren.	Bumili ako ng camera, pero nawala ko sa sumunod na araw.
+deu	tgl_Latn	Ich habe nur einen Euro gegeben.	Isang euro lang ang ibinigay ko.
+deu	tgl_Latn	Ich habe nur einen Euro gegeben.	Nagbigay lang ako ng isang euro.
 deu	tgl_Latn	Ich habe Tom für Marias Vater gehalten.	Akala ko tatay ni Mary si Tom.
 deu	tgl_Latn	Ich habe Zahnfleischbluten.	Dumudugo ang gilagid ko.
 deu	tgl_Latn	Ich habe zu rauchen aufgehört und fühle mich wie ein neuer Mensch.	Pinigil ko na ang pananagarilyo at parang bagong tao na ako.
@@ -153,6 +175,7 @@ deu	tgl_Latn	Ich kann nicht kochen.	Hindi ako marunong magluto.
 deu	tgl_Latn	Ich komme aus Holland.	Galing ako sa Olanda.
 deu	tgl_Latn	Ich lerne gerne Fremdsprachen.	Gusto kong mag-aral ng mga wikang dayuhan.
 deu	tgl_Latn	Ich mache die Arbeit morgen.	Gagawin ko ang trabaho bukas.
+deu	tgl_Latn	Ich mache gerne Nachtisch.	Mahilig akong gumawa ng panghimagas.
 deu	tgl_Latn	Ich mag es, mit dem Zug zu reisen.	Gusto kong magbiyaheng nakatren.
 deu	tgl_Latn	Ich mag heißen Tee lieber als kalten.	Mas gusto ko ang mainit na tsaa kaysa malamig.
 deu	tgl_Latn	Ich möchte etwas trinken.	Gusto kong uminom.
@@ -168,6 +191,14 @@ deu	tgl_Latn	Ich werde diese Schere benutzen, um das gelbe Papier zu schneiden.	
 deu	tgl_Latn	Ich werde meine Eltern töten!	Papatayin ako ng mga magulang ko!
 deu	tgl_Latn	Ich werde nächsten Sonntag heiraten.	Ako'y ikakasal sa darating na Linggo.
 deu	tgl_Latn	Ich werde wahnsinnig müde, wenn ich mir dieses Lied anhöre.	Nakakatuwang napapatulog ako nang makinig ako sa kantang ito.
+deu	tgl_Latn	Ich will eine berühmte Schauspielerin werden.	Gusto kong maging bantog na aktres.
+deu	tgl_Latn	Ich will eine berühmte Schauspielerin werden.	Gusto kong maging bantog na artista.
+deu	tgl_Latn	Ich will eine berühmte Schauspielerin werden.	Gusto kong maging kilalang aktres.
+deu	tgl_Latn	Ich will eine berühmte Schauspielerin werden.	Gusto kong maging kilalang artista.
+deu	tgl_Latn	Ich will eine berühmte Schauspielerin werden.	Gusto kong maging sikat na aktres.
+deu	tgl_Latn	Ich will eine berühmte Schauspielerin werden.	Gusto kong maging sikat na artista.
+deu	tgl_Latn	Ich will eine berühmte Schauspielerin werden.	Gusto kong maging tanyag na aktres.
+deu	tgl_Latn	Ich will eine berühmte Schauspielerin werden.	Gusto kong maging tanyag na artista.
 deu	tgl_Latn	Ich will mit dem Zug reisen.	Gusto kong magbiyaheng nakatren.
 deu	tgl_Latn	Ich will nicht, dass dies geschieht.	Hindi ko ginustong ito'y mangyari.
 deu	tgl_Latn	Ich will nicht, dass dies passiert.	Hindi ko ginustong ito'y mangyari.
@@ -180,10 +211,20 @@ deu	tgl_Latn	Ihr Tsampurado ist in Ordnung.	Maayos ang tsampurado niya.
 deu	tgl_Latn	Ihr Ube-Kuchen ist in Ordnung.	Maayos ang ube keyk niya.
 deu	tgl_Latn	In den Zeitungen steht, dass der Taifun über Kyushu gezogen ist.	Sabi ng pahayagan, tinamaan daw ng bagyo ang Kyushu.
 deu	tgl_Latn	In dieser Fabrik werden viele komplizierte Maschinen verwendet.	Gumagamit ng maraming komplikadong makina ang pabrika.
+deu	tgl_Latn	Ist die Milch kalt?	Malamig ba ang gatas?
 deu	tgl_Latn	Ist dies dein Haus?	Bahay mo ito?
 deu	tgl_Latn	Ist es deines Erachtens eine gute Idee, dem Hund Reste zu essen zu geben?	Sa tingin mo magandang ideya kung pakainin mo ang aso ng tira-tirang pagkain?
+deu	tgl_Latn	Ist Mayonnaise ein Instrument?	Instrumento ba ang mayonesa?
+deu	tgl_Latn	Ist noch jemand draußen?	May tao pa ba sa labas?
+deu	tgl_Latn	Ist noch jemand draußen?	May tao pa po ba sa labas?
 deu	tgl_Latn	Jedes Volk hat seine eigene Sprache.	Ang lahat ng bansa ay may kani-kanilang wika.
 deu	tgl_Latn	Jongjong mag den Buddhismus lieber als alle anderen Religionen.	Mas gusto ni Jongjong ang Budismo kaysa sa ibang relihiyon.
+deu	tgl_Latn	Kann ich mein eigenes Zimmer haben?	Puwede ba akong magkaroon ng sarili kong kuwarto?
+deu	tgl_Latn	Kann ich mein eigenes Zimmer haben?	Puwede po ba akong magkaroon ng sarili kong kuwarto?
+deu	tgl_Latn	Kannst du auf Portugiesisch ein Bier bestellen?	Kaya mo bang bumili ng alak sa Portuges?
+deu	tgl_Latn	Kannst du auf Portugiesisch ein Bier bestellen?	Kaya mo bang bumili ng serbesa sa Portuges?
+deu	tgl_Latn	Kannst du auf Portugiesisch ein Bier bestellen?	Marunong ka bang bumili ng alak sa Portuges?
+deu	tgl_Latn	Kannst du auf Portugiesisch ein Bier bestellen?	Marunong ka bang bumili ng serbesa sa Portuges?
 deu	tgl_Latn	Kanntest du ihn schon lange?	Matagal mo na ba siyang kilala?
 deu	tgl_Latn	Kay respektiert alles, bis auf sich selbst.	Nirerespeto ni Kay ang lahat kundi ang sarili niya.
 deu	tgl_Latn	Klinge ich wie eine Irre, wenn ich so spreche?	Para ba akong isang loko kung nagsasalita ako nang ganito?
@@ -198,6 +239,9 @@ deu	tgl_Latn	Los!	Halika!
 deu	tgl_Latn	Mach Mais mit Eis für mich.	Gumawa ka ng mais kon yelo para sa akin.
 deu	tgl_Latn	Mach mir Mais mit Eis.	Gumawa ka ng mais kon yelo para sa akin.
 deu	tgl_Latn	Mach, was dir gefällt!	Gawin mo ang gusto mo.
+deu	tgl_Latn	Mama ist zu Hause.	Nasa bahay si inay.
+deu	tgl_Latn	Mama ist zu Hause.	Nasa bahay si mama.
+deu	tgl_Latn	Mama ist zu Hause.	Nasa bahay si nanay.
 deu	tgl_Latn	Manchmal fehlt uns die Geduld mit älteren Menschen.	Kung minsan nawawalan tayo ng pasensiya para sa matatanda.
 deu	tgl_Latn	Man mag ihn, weil er nett ist.	Gusto siya dahil mabait.
 deu	tgl_Latn	Man muss immer tun, was richtig ist.	Dapat palaging gawin ang tama.
@@ -215,11 +259,14 @@ deu	tgl_Latn	Mein jüngerer Bruder schläft noch.	Ang bunso kong kapatid na lala
 deu	tgl_Latn	Mein Löffel ist zu groß!	Napakalaki ang kutsara ko!
 deu	tgl_Latn	Mein Name ist Tom.	Ang pangalan ko ay Tom.
 deu	tgl_Latn	Mein Sohn ist zum Medizinstudium in die USA gegangen.	Nagpuntang Estados Unidos para mag-aral ng medisina ang anak ko.
+deu	tgl_Latn	Melanie liest ihr Lieblingsbuch.	Binabasa ni Melani ang paborito niyang aklat.
+deu	tgl_Latn	Melanie liest ihr Lieblingsbuch.	Binabasa ni Melani ang paborito niyang libro.
 deu	tgl_Latn	Merkur, Venus, Erde und Mars sind die terrestrischen Planeten unseres Sonnensystems.	Ang Merkuryo, Venus, Tiyera, at Marte ay mga planetang terestriyal ng ating Sistemang Pang-Araw.
 deu	tgl_Latn	Mit welchem Zug wird Herr Takase ankommen?	Sa aling tren paparini si Ginoong Takase?
 deu	tgl_Latn	Möchtest Du meine Freundin sein? □ Ja. □ Nein. □ Vielleicht.	Gusto mo bang maging aking kasintahan? □ Oo. □ Hindi. □ Siguro.
 deu	tgl_Latn	Möglicherweise bricht Krieg aus.	May posibilidad ng digmaan.
 deu	tgl_Latn	Morgen ist Feiertag.	Pista bukas.
+deu	tgl_Latn	Nicht einschlafen! Wenn du einschläfst, stirbst du!	Huwag kang matutulog! Kung matutulog ka, mamamatay ka!
 deu	tgl_Latn	Niemand möchte, dass du das tust.	Walang may gustong gawin mo 'yan.
 deu	tgl_Latn	Niemand sagt, dass du nicht fischen gehen kannst.	Wala namang nagsasabing hindi ka pwedeng mangisda.
 deu	tgl_Latn	Niemand vertraut ihm mehr.	Wala nang umaasa sa kanya.
@@ -241,6 +288,9 @@ deu	tgl_Latn	Ruf mich an, bevor du gehst.	Tawagan mo ako bago ka umalis.
 deu	tgl_Latn	Ruf mich, bevor du gehst.	Tawagan mo ako bago ka umalis.
 deu	tgl_Latn	Ruhe!	Tumahimik!
 deu	tgl_Latn	Sadako lächelte ihnen zu.	Ngumiti si Sadako sa kanila.
+deu	tgl_Latn	Schlagen Sie Ihre Kinder nicht.	Huwag mong paluin ang mga anak mo.
+deu	tgl_Latn	Schlagen Sie Ihre Kinder nicht.	Huwag ninyong paluin ang mga anak mo.
+deu	tgl_Latn	Schlagen Sie Ihre Kinder nicht.	Huwag po ninyong paluin ang mga anak mo.
 deu	tgl_Latn	Sein Auto wurde gestern gestohlen.	Nanakaw 'yong kotse niya kahapon.
 deu	tgl_Latn	Seine Limonade ist in Ordnung.	Maayos ang limunada niya.
 deu	tgl_Latn	Seine Schokolade ist in Ordnung.	Maayos ang tsokolate niya.
@@ -249,6 +299,7 @@ deu	tgl_Latn	Sein Käse ist in Ordnung.	Maayos ang keso niya.
 deu	tgl_Latn	Sein Leche Flan ist in Ordnung.	Maayos ang leche flan niya.
 deu	tgl_Latn	Sein Tsampurado ist in Ordnung.	Maayos ang tsampurado niya.
 deu	tgl_Latn	Sein Ube-Kuchen ist in Ordnung.	Maayos ang ube keyk niya.
+deu	tgl_Latn	Setz dich, wenn du isst!	Umupo ka kapag kumakain!
 deu	tgl_Latn	Sie benimmt sich kindisch.	Parang bata siya kung kumilos.
 deu	tgl_Latn	Sie brauchen die Medizin für ihre Psychose.	Kailangan niya ang gamot para sa kanyang sikosis.
 deu	tgl_Latn	Sie haben die ganze Nacht lang getanzt.	Magdamag silang nagsayawan.
@@ -263,10 +314,23 @@ deu	tgl_Latn	Soweit ich weiß, gibt es keine guten Bücher über jene Theorie.	S
 deu	tgl_Latn	Such keine Zuneigung bei anderen Leuten, sondern kauf dir einfach eine Katze.	Huwag kang maghanap ng apeksiyon mula sa ibang tao at bumili ka na lamang ng pusa.
 deu	tgl_Latn	Taros Teller ist voll mit Ube.	Puno ng ube ang plato ni Taro.
 deu	tgl_Latn	Tom erinnert sich nicht an meinen Namen.	Di matandaan ni Tomas ang pangalan ko.
+deu	tgl_Latn	Tom gefällt alles an Maria.	Gusto ni Tom ang lahat tungkol kay Maria.
 deu	tgl_Latn	Tom grillt Fleisch.	Nag-iihaw ng karne si Tomas.
 deu	tgl_Latn	Tom hat Glück.	Masuwerte si Tomas.
 deu	tgl_Latn	Tom hat mich bezahlt.	Binayaran ako ni Tom.
 deu	tgl_Latn	Tom hat Mundgeruch.	Mabaho ang hininga ni Tom.
+deu	tgl_Latn	Tom hat viel dazu beigetragen.	Malaki ang naiambag ni Tom dito.
+deu	tgl_Latn	Tom hat viel dazu beigetragen.	Malaki ang naiambag ni Tom diyan.
+deu	tgl_Latn	Tom hat viel dazu beigetragen.	Malaki ang naiambag ni Tom doon.
+deu	tgl_Latn	Tom hat viel dazu beigetragen.	Malaki ang naitulong ni Tom dito.
+deu	tgl_Latn	Tom hat viel dazu beigetragen.	Malaki ang naitulong ni Tom diyan.
+deu	tgl_Latn	Tom hat viel dazu beigetragen.	Malaki ang naitulong ni Tom doon.
+deu	tgl_Latn	Tom hat viel dazu beigetragen.	Maraming naiambag si Tom dito.
+deu	tgl_Latn	Tom hat viel dazu beigetragen.	Maraming naiambag si Tom diyan.
+deu	tgl_Latn	Tom hat viel dazu beigetragen.	Maraming naiambag si Tom doon.
+deu	tgl_Latn	Tom hat viel dazu beigetragen.	Maraming naitulong si Tom dito.
+deu	tgl_Latn	Tom hat viel dazu beigetragen.	Maraming naitulong si Tom diyan.
+deu	tgl_Latn	Tom hat viel dazu beigetragen.	Maraming naitulong si Tom diyon.
 deu	tgl_Latn	Tom hat zurzeit keine Arbeit.	Si Tom ay walang trabaho ngayon.
 deu	tgl_Latn	Tom ist beglückt.	Masaya si Tom.
 deu	tgl_Latn	Tom ist beglückt.	Si Tom ay masaya.
@@ -283,6 +347,9 @@ deu	tgl_Latn	Unmöglich!	Imposible!
 deu	tgl_Latn	Vhon isst gerade Espasol.	Kumakain si Vhon ng espasol.
 deu	tgl_Latn	Vincente hat den Kindern Espasol geschenkt.	Niregaluhan ni Vincente ng espasol ang mga bata.
 deu	tgl_Latn	Wann fangen wir an?	Saan tayo magsisimula?
+deu	tgl_Latn	„Warum?“ – „Darum!“	"Bakit?" ­– "Dahil dito!"
+deu	tgl_Latn	„Warum?“ – „Darum!“	"Bakit?" ­– "Dahil diyan!"
+deu	tgl_Latn	„Warum?“ – „Darum!“	"Bakit?" ­– "Dahil doon!"
 deu	tgl_Latn	Warum möchtest du das machen?	Bakit gusto mong gawin ito?
 deu	tgl_Latn	Warum sagst du mir das?	Bakit mo sinasabi yan sa akin?
 deu	tgl_Latn	Warum träumen wir?	Bakit tayo nananaginip?
@@ -290,6 +357,10 @@ deu	tgl_Latn	Warum träumen wir?	Bakit tayo nangangarap?
 deu	tgl_Latn	Was für eine Art Sprache ist Esperanto?	Anong klaseng lengguwahe ang Esperanto?
 deu	tgl_Latn	Was für ein leckerer Kuchen!	Kay sarap ng keyk!
 deu	tgl_Latn	Was hast du an?	Ano ang suot mo?
+deu	tgl_Latn	Was hast du in diesen Jahren gemacht?	Ano ang ginawa mo sa mga taong ito?
+deu	tgl_Latn	Was hast du in diesen Jahren gemacht?	Ano ang nagawa mo sa mga taong ito?
+deu	tgl_Latn	Was hast du in diesen Jahren gemacht?	Anu-ano ang mga ginawa mo sa mga taong ito?
+deu	tgl_Latn	Was hast du in diesen Jahren gemacht?	Anu-ano ang mga nagawa mo sa mga taong ito?
 deu	tgl_Latn	Was passiert in deinem Land?	Anong nangyayari sa bansa mo?
 deu	tgl_Latn	Was willst du, dass geschehe?	Anong gusto mong mangyari?
 deu	tgl_Latn	Wegen des schlechten Wetters tut es uns leid.	Nanghihingi kami ng paumanhin dahil sa masamang panahon.

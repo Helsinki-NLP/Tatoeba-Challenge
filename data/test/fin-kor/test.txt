@@ -7,8 +7,8 @@ fin	kor_Hang	Älä muuta lauseita, jotka ovat oikein. Voit sen sijaan lisätä l
 fin	kor_Hang	Älä raapusta kirjaston kirjoihin.	도서관 책에 낙서를 하지 마십시오.
 fin	kor_Hang	Älä töhri kirjaston kirjoja.	도서관 책에 낙서를 하지 마십시오.
 fin	kor_Hang	Älä unohda liimata postimerkkiä kirjeeseen.	편지에 우표 붙이는거 잊지마.
-fin	kor_Hang	Älä valehtele!	거짓말 하지 마.
 fin	kor_Hang	Älä valehtele!	거짓말 하지 마세요.
+fin	kor_Hang	Älä valehtele!	거짓말 하지 마.
 fin	kor_Hang	Anna anteeksi, etten ole kirjoittanut pitkään aikaan.	오랫동안 편지를 못 써서 죄송해요.
 fin	kor_Hang	Ansaitsen sata euroa päivässä.	저는 하루에 100유로를 법니다.
 fin	kor_Hang	Anteeksi että olen myöhässä.	늦게 온 것을 용서해 주세요.
@@ -27,9 +27,9 @@ fin	kor_Hang	En ole lääkäri.	나는 의사가 아닙니다.
 fin	kor_Hang	En ole opiskelija.	저는 학생이 아닙니다.
 fin	kor_Hang	En tahdo mennä kouluun.	난 학교에 가기 싫어.
 fin	kor_Hang	En tiedä milloin menen Ranskaan, mutta aion varmasti mennä.	나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.
-fin	kor_Hang	En tiedä onko minulla aikaa.	시간 있는지 잘 모르겠다.
-fin	kor_Hang	En tiedä onko minulla aikaa.	시간 있는지 잘 모르겠어요.
 fin	kor_Hang	En tiedä onko minulla aikaa.	시간 있는지 잘 모르겠습니다.
+fin	kor_Hang	En tiedä onko minulla aikaa.	시간 있는지 잘 모르겠어요.
+fin	kor_Hang	En tiedä onko minulla aikaa.	시간 있는지 잘 모르겠다.
 fin	kor_Hang	Etsin juuri silmälasejani.	나는 안경을 찾고 있다.
 fin	kor_Hang	Etsin silmälasejani.	나는 안경을 찾고 있다.
 fin	kor_Hang	Haloo?	여보세요?
@@ -53,8 +53,8 @@ fin	kor_Hang	Hän menee bussilla kouluun.	그분은 학교에 버스로 갑니�
 fin	kor_Hang	Hän menee yleensä töihin kello kahdeksan.	그는 보통 8시에 출근한다.
 fin	kor_Hang	Hän menetti työnsä.	그는 자기 일을 잃었다.
 fin	kor_Hang	Hän oli niin utelias, että avasi laatikon.	그녀는 지나친 호기심으로 인해 상자을 열었다.
-fin	kor_Hang	Hän on elänyt vaikean elämän.	그는 힘든 삶을 사랐다.
 fin	kor_Hang	Hän on elänyt vaikean elämän.	그녀는 힘든 삶을 살았다.
+fin	kor_Hang	Hän on elänyt vaikean elämän.	그는 힘든 삶을 사랐다.
 fin	kor_Hang	Hän on hyvä ihminen.	그는 좋은 사람이다.
 fin	kor_Hang	Hän on kiltti.	그는 좋은 사람이다.
 fin	kor_Hang	Hän on kiva.	그는 좋은 사람이다.
@@ -65,12 +65,12 @@ fin	kor_Hang	Hän on opiskellut ranskaa kahdeksan vuoden ajan.	그는 8년동안
 fin	kor_Hang	Hän on saanut ristimänimekseen John.	그는 존이라는 세례명을 받았다.
 fin	kor_Hang	Hän on todella hyvällä tuulella.	그녀는 기분이 아주 좋다.
 fin	kor_Hang	Hän on todella itsepintainen.	그녀는 너무 고집스러웠다.
-fin	kor_Hang	Hän on töissä pankissa.	그는 은행에서 일한다.
 fin	kor_Hang	Hän on töissä pankissa.	그녀는 은행에서 일한다.
+fin	kor_Hang	Hän on töissä pankissa.	그는 은행에서 일한다.
 fin	kor_Hang	Hän punaistui.	그녀는 얼굴이 빨개졌다.
 fin	kor_Hang	Hän tuli tapaamaan minua.	그는 나를 만나서 왔어요.
-fin	kor_Hang	Hän työskentelee pankissa.	그는 은행에서 일한다.
 fin	kor_Hang	Hän työskentelee pankissa.	그녀는 은행에서 일한다.
+fin	kor_Hang	Hän työskentelee pankissa.	그는 은행에서 일한다.
 fin	kor_Hang	Hän uppoutui ajatuksiinsa.	그는 생각에 잠겼다.
 fin	kor_Hang	Hän vietti onnellisen lapsuuden.	그녀는 행복한 유년시절을 보냈다.
 fin	kor_Hang	Hauska tavata.	만나서 반갑습니다.
@@ -85,8 +85,8 @@ fin	kor_Hang	He rakastavat toisiaan todella paljon.	그들은 서로 몹시 사�
 fin	kor_Hang	Herätessäni olin surullinen.	일어났을 때 슬펐어.
 fin	kor_Hang	Hiroshi sanoo: "Tämä vaikuttaa mielenkiintoiselta."	히로시는 이것 재미 있을 것 같다고 말한다.
 fin	kor_Hang	Hukkasin avaimeni.	열쇠를 잃어버렸다.
-fin	kor_Hang	Hyvää joulua!	메리 크리스마스!
 fin	kor_Hang	Hyvää joulua!	즐거운 성탄절!
+fin	kor_Hang	Hyvää joulua!	메리 크리스마스!
 fin	kor_Hang	Ihanko oikeesti?	정말이에요?
 fin	kor_Hang	Ihanko totta?	정말이에요?
 fin	kor_Hang	Ikävöin sinua.	보고 싶어.
@@ -109,9 +109,9 @@ fin	kor_Hang	Kävin katsomassa elokuvan eilen.	저는 어제 영화를 보러 �
 fin	kor_Hang	Käykö, että tulen tämäniltaisiin juhliisi?	나 오늘밤 너의 파티에 가도 돼?
 fin	kor_Hang	Keitetään ja syödään kalat!	물고기를 모두 끓여 먹자!
 fin	kor_Hang	Kenen auto tämä on?	이 자동차는 누구 것이지?
-fin	kor_Hang	Kenen kirja tämä on?	이 책은 누구 것이지?
-fin	kor_Hang	Kenen kirja tämä on?	그 책은 누구의 것입니까?
 fin	kor_Hang	Kenen kirja tämä on?	이것은 누구의 책입니까?
+fin	kor_Hang	Kenen kirja tämä on?	그 책은 누구의 것입니까?
+fin	kor_Hang	Kenen kirja tämä on?	이 책은 누구 것이지?
 fin	kor_Hang	Kenen kitara tämä on?	이 기타는 누구 것이지?
 fin	kor_Hang	Kenenköhän kirja tämä mahtaa olla?	이 책은 누구 것이지?
 fin	kor_Hang	Kenenköhän nämä silmälasit ovat?	이 안경은 누구 것이지?
@@ -170,27 +170,27 @@ fin	kor_Hang	Mihin haluat mennä?	어디에 가고 싶으세요?
 fin	kor_Hang	Mihin matka?	어디에 가요?
 fin	kor_Hang	Mihin menet?	어디에 가요?
 fin	kor_Hang	Mihin olet matkalla?	어디에 가요?
-fin	kor_Hang	Mihin sinä haluat mennä?	어디 가고싶어요?
 fin	kor_Hang	Mihin sinä haluat mennä?	어디에 가고 싶으세요?
+fin	kor_Hang	Mihin sinä haluat mennä?	어디 가고싶어요?
 fin	kor_Hang	Mihin sinä menet?	어디에 가요?
 fin	kor_Hang	Mihin sinä olet menossa?	어디에 가요?
-fin	kor_Hang	Mikä tämä on?	그건 뭐야?
-fin	kor_Hang	Mikä tämä on?	그건 뭐예요?
 fin	kor_Hang	Mikä tämä on?	그것은 무엇입니까?
+fin	kor_Hang	Mikä tämä on?	그건 뭐예요?
+fin	kor_Hang	Mikä tämä on?	그건 뭐야?
 fin	kor_Hang	Mikä tästä teknologiasta syntyvä hyöty on?	이 기술의 이점은 무엇인가요?
 fin	kor_Hang	Miksi unohdan aina täysin sen sanan?	왜 그 단어를 잊어버렸니?
 fin	kor_Hang	Minä aion lukea kirjaa.	나는 책을 읽을 거예요.
-fin	kor_Hang	Minä en tiedä.	모르겠어요.
 fin	kor_Hang	Minä en tiedä.	모르겠습니다.
+fin	kor_Hang	Minä en tiedä.	모르겠어요.
 fin	kor_Hang	Minä haluan mennä vuorille.	나는 산에 가길 원합니다.
 fin	kor_Hang	Minä luen kirjaa.	나는 책을 읽을 거예요.
 fin	kor_Hang	Minä menen.	나는 갈 거에요.
 fin	kor_Hang	Minä odotan sitä innolla.	나 기대하고 있어.
 fin	kor_Hang	Minä olen opiskelija.	저는 학생이에요.
-fin	kor_Hang	Minä opiskelen koreaa.	저는 한국어를 공부해요.
 fin	kor_Hang	Minä opiskelen koreaa.	한국말을 공부합니다.
-fin	kor_Hang	Minä rakastan sinua.	사랑해요.
+fin	kor_Hang	Minä opiskelen koreaa.	저는 한국어를 공부해요.
 fin	kor_Hang	Minä rakastan sinua.	사랑합니다.
+fin	kor_Hang	Minä rakastan sinua.	사랑해요.
 fin	kor_Hang	Minä tykkään korealaisesta ruoasta.	전 한국 요리가 좋아요.
 fin	kor_Hang	Minne olet matkalla?	어디에 가요?
 fin	kor_Hang	Minne olet menossa?	어디에 가요?
@@ -207,32 +207,32 @@ fin	kor_Hang	Minun huuleni rohtuvat joka talvi.	매년 겨울에 내 입술이 �
 fin	kor_Hang	Minun nimeni on Jack.	제 이름은 잭입니다.
 fin	kor_Hang	Minun syntymäpäiväni on maaliskuun kahdeskymmenestoinen päivä.	내 생일은 3월 22일이다.
 fin	kor_Hang	Minun täytyy käydä ostoksilla. Tulen takaisin tunnin sisään.	난 쇼핑 가야되요, 한 시간 안에 돌아올게요.
-fin	kor_Hang	Minun täytyy mennä nukkumaan.	제가 자야 해요.
 fin	kor_Hang	Minun täytyy mennä nukkumaan.	자야 합니다.
+fin	kor_Hang	Minun täytyy mennä nukkumaan.	제가 자야 해요.
 fin	kor_Hang	Minusta tämä kirja on parempi kuin tuo kirja.	난 이 책을 저 책보다 좋아한다.
 fin	kor_Hang	Minusta tuli nainen.	저는 여자가 됐어요.
 fin	kor_Hang	Missä minun silmälasini ovat?	내 안경은 어디 있어요?
 fin	kor_Hang	Mitä haluat tehdä kun olet täällä?	여기에 있는 동안 뭘 하고 싶으세요?
 fin	kor_Hang	Mitä haluat tehdä sinä aikana kun olet täällä?	여기에 있는 동안 뭘 하고 싶으세요?
-fin	kor_Hang	Mitä sä teet?	뭐 해요?
-fin	kor_Hang	Mitä sä teet?	뭐해?
 fin	kor_Hang	Mitä sä teet?	뭐해요?
+fin	kor_Hang	Mitä sä teet?	뭐해?
+fin	kor_Hang	Mitä sä teet?	뭐 해요?
 fin	kor_Hang	Mitä se kirje koskee?	그 편지는 무엇에 관한 것입니까?
 fin	kor_Hang	Mitä se maksaa?	얼마에요?
-fin	kor_Hang	Mitä sinä teet?	뭐 해요?
-fin	kor_Hang	Mitä sinä teet?	뭐해?
-fin	kor_Hang	Mitä sinä teet?	뭐해요?
 fin	kor_Hang	Mitä sinä teet?	뭐합니까?
+fin	kor_Hang	Mitä sinä teet?	뭐해요?
+fin	kor_Hang	Mitä sinä teet?	뭐해?
+fin	kor_Hang	Mitä sinä teet?	뭐 해요?
 fin	kor_Hang	Mitäs puuhaat?	뭐해?
 fin	kor_Hang	Mitä tämä on?	그것은 무엇입니까?
-fin	kor_Hang	Mitä teet?	뭐 해요?
-fin	kor_Hang	Mitä teet?	뭐해?
 fin	kor_Hang	Mitä teet?	뭐해요?
+fin	kor_Hang	Mitä teet?	뭐해?
+fin	kor_Hang	Mitä teet?	뭐 해요?
 fin	kor_Hang	Miten sanotaan "kaisha" englanniksi?	"Kaisha"를 영어로 어떻게 말해요?
 fin	kor_Hang	Miten tämä kamera toimii?	이 카메라가 어떻게 작동하지?
 fin	kor_Hang	Miten tämä toimii?	어떻게 작동하지?
-fin	kor_Hang	Mites töissä?	일은 잘 되니?
 fin	kor_Hang	Mites töissä?	일은 어때?
+fin	kor_Hang	Mites töissä?	일은 잘 되니?
 fin	kor_Hang	Mitkä ovat tämän tekniikan hyvät puolet?	이 기술의 이점은 무엇인가요?
 fin	kor_Hang	Mulla on ikävä sua.	보고 싶어.
 fin	kor_Hang	Mulla on nälkä!	배고파.
@@ -255,8 +255,8 @@ fin	kor_Hang	Olen pannut Billin tapaamaan Annin huomenna.	난 내일 빌이 앤�
 fin	kor_Hang	Olen pettynyt tämän maailman koulutukseen.	이 세상의 교육이 나를 실망시켜요.
 fin	kor_Hang	Olet aivan kuin isäsi.	너는 아빠랑 똑같다.
 fin	kor_Hang	Oletko kunnossa?	괜찮으세요?
-fin	kor_Hang	Oletko varma?	정말이야?
 fin	kor_Hang	Oletko varma?	정말이에요?
+fin	kor_Hang	Oletko varma?	정말이야?
 fin	kor_Hang	Olet kuin ilmetty isäsi.	너는 아빠랑 똑같다.
 fin	kor_Hang	Olet nähnyt Tokyo Towerin, eikö niin?	너 도쿄 타워 본적 없지?
 fin	kor_Hang	Olin vuorilla.	나는 산에 있었어.
@@ -287,9 +287,9 @@ fin	kor_Hang	Ovi menee automaattisesti kiinni.	문은 자동으로 닫힌다.
 fin	kor_Hang	Ovi menee lukkoon automaattisesti.	문은 자동으로 닫힌다.
 fin	kor_Hang	Ovi sulkeutuu automaattisesti.	문은 자동으로 닫힌다.
 fin	kor_Hang	Pakolaiset saavat avustuksia monista kirkon järjestöistä.	난민들은 여러 교회 기구로부터 지원을 받는다.
-fin	kor_Hang	Palaan pian.	곧 돌아올께요.
-fin	kor_Hang	Palaan pian.	빨리 갔다 올게.
 fin	kor_Hang	Palaan pian.	빨리 갔다 올게요.
+fin	kor_Hang	Palaan pian.	빨리 갔다 올게.
+fin	kor_Hang	Palaan pian.	곧 돌아올께요.
 fin	kor_Hang	Pari päivää sitten kadottamani kello oli uusi.	저번에 잃어버린 시계는 새 거였다.
 fin	kor_Hang	Peter halusi tulla lääkäriksi.	피터는 의사가 되고 싶어했어요.
 fin	kor_Hang	Pidän hänestä.	나는 그 사람을 좋아한다.
@@ -366,9 +366,9 @@ fin	kor_Hang	Tom löysi lopultakin työpaikan.	톰은 마침내 일자리를 구
 fin	kor_Hang	Tom on sähköinsinööri.	톰은 전기 기사다.
 fin	kor_Hang	Tom viettää kaiken aikansa ajatellen Maria.	톰은 메리 생각 하느라 시간을 다 보낸다.
 fin	kor_Hang	Torkahdan usein bussissa ja pysäkki, jolla jäisin pois, menee ohi.	나는 자주 버스에서 졸다가 내릴 정류장을 지나쳐간다.
-fin	kor_Hang	Tulen pian takaisin.	곧 돌아올께요.
-fin	kor_Hang	Tulen pian takaisin.	빨리 갔다 올게.
 fin	kor_Hang	Tulen pian takaisin.	빨리 갔다 올게요.
+fin	kor_Hang	Tulen pian takaisin.	빨리 갔다 올게.
+fin	kor_Hang	Tulen pian takaisin.	곧 돌아올께요.
 fin	kor_Hang	Tuo kakku maistuu hyvältä.	저 케익 맛있어요.
 fin	kor_Hang	Tuo kakku on hyvää.	저 케익 맛있어요.
 fin	kor_Hang	Tuolla tyypillä ei ole yhtään käytöstapoja.	그넘은 버릇 없는 넘이야.
@@ -410,12 +410,12 @@ fin	kor_Hang	Ystäväni opiskelee koreaa.	내친구는 한국어를 공부해요
 fin	kor_Hang	Ystäväni opiskelevat koreaa.	내친구는 한국어를 공부해요.
 fin	kor_Hang	Ystävät lohduttivat surevaa naista.	친구들이 슬퍼하는 여자를 위로해 주었다.
 fin	kor_Latn	Hyvää syntymäpäivää, Muiriel!	생일 축하해 Muiriel!
-fin	kor_Latn	Muiriel on nyt 20.	Muiriel은 지금 20살예요.
 fin	kor_Latn	Muiriel on nyt 20.	Muiriel은 지금 20살입니다.
-fin	kor_Latn	Muiriel on nyt kaksikymmentä.	Muiriel은 지금 20살예요.
+fin	kor_Latn	Muiriel on nyt 20.	Muiriel은 지금 20살예요.
 fin	kor_Latn	Muiriel on nyt kaksikymmentä.	Muiriel은 지금 20살입니다.
-fin	kor_Latn	Muiriel on nyt kaksikymmentävuotias.	Muiriel은 지금 20살이야.
+fin	kor_Latn	Muiriel on nyt kaksikymmentä.	Muiriel은 지금 20살예요.
 fin	kor_Latn	Muiriel on nyt kaksikymmentävuotias.	Muiriel은 지금 20살입니다.
+fin	kor_Latn	Muiriel on nyt kaksikymmentävuotias.	Muiriel은 지금 20살이야.
 fin	kor	Minun syntymäpäiväni on marraskuun kymmenes päivä.	내 생일은 11월 10일이다.
 fin	kor	Olen syntynyt kahdeskymmenestoinen marraskuuta vuonna tuhat yhdeksänsataa neljäkymmentäkahdeksan.	나는 1948년 11월 22일에 태어났다.
 fin	kor	Viisi plus kaksi on seitsemän.	5 더하기 2는 7이다.

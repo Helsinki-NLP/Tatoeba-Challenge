@@ -1,25 +1,25 @@
-ain_Kana	eng	ニサッタ ヌプㇽペッ オルン エアㇻパ ヤ？	Are you going to Noboribetsu tomorrow?
-ain_Kana	eng	「エイワンケ ヤ？」 「クイワンケ ワ、 イヤイライケレ。」	"How are you?" "I am fine, thank you."
-ain_Kana	eng	クパケ アㇻカ。	I have a headache.
+ain_Kana	eng	アイヌ ポロンノ オカイ。	There are a lot of people.
 ain_Kana	eng	ウェンダラㇷ゚ ポロンノ クコㇿ。	I have a lot of dreams.
-ain_Kana	eng	ヌマン ウパㇱ アㇱ。	It snowed yesterday.
-ain_Kana	eng	チェㇷ゚ アスパ ワ アエ ロ！	Let's cook and eat the fish!
-ain_Kana	eng	クパケ アㇻカ。	My head hurts.
+ain_Kana	eng	ウパㇱ ル。	Snow melts.
+ain_Kana	eng	「エイワンケ ヤ？」 「クイワンケ ワ、 イヤイライケレ。」	"How are you?" "I am fine, thank you."
+ain_Kana	eng	エチセ ポロ。	Your house is big.
 ain_Kana	eng	クコル マキリ エエン。	My knife is sharp.
 ain_Kana	eng	クチキㇼ アㇻカ。	My leg hurts.
+ain_Kana	eng	クパケ アㇻカ。	I have a headache.
+ain_Kana	eng	クパケ アㇻカ。	My head hurts.
 ain_Kana	eng	クハポ イルㇱカ。	My mother is angry.
 ain_Kana	eng	クホニ シク。	My stomach is full.
-ain_Kana	eng	ウパㇱ ル。	Snow melts.
+ain_Kana	eng	タパンペ クコル カッコ ネ。	This is my school.
+ain_Kana	eng	チェㇷ゚ アスパ ワ アエ ロ！	Let's cook and eat the fish!
+ain_Kana	eng	チセ メアン。	The house is cold.
+ain_Kana	eng	ニサッタ ヌプㇽペッ オルン エアㇻパ ヤ？	Are you going to Noboribetsu tomorrow?
+ain_Kana	eng	ヌマン ウパㇱ アㇱ。	It snowed yesterday.
+ain_Kana	eng	ヌマン ウパㇱ アㇱ。	Yesterday snow fell.
+ain_Kana	eng	ヌマン クアチャポ シタ ホㇰ。	Yesterday my uncle bought a dog.
+ain_Kana	eng	フナㇰ ウン エアㇽパ ヤ？	Where are you going to?
 ain_Kana	eng	ヘカチ シタ ホㇰ。	The boy buys a dog.
 ain_Kana	eng	ヘカチ スマ オテㇾケ。	The boy throws a stone.
-ain_Kana	eng	チセ メアン。	The house is cold.
-ain_Kana	eng	アイヌ ポロンノ オカイ。	There are a lot of people.
-ain_Kana	eng	タパンペ クコル カッコ ネ。	This is my school.
 ain_Kana	eng	ホㇱカヌマン レラ アㇱ。	Two days ago the wind blew.
-ain_Kana	eng	フナㇰ ウン エアㇽパ ヤ？	Where are you going to?
-ain_Kana	eng	ヌマン クアチャポ シタ ホㇰ。	Yesterday my uncle bought a dog.
-ain_Kana	eng	ヌマン ウパㇱ アㇱ。	Yesterday snow fell.
-ain_Kana	eng	エチセ ポロ。	Your house is big.
 ain_Kana	eng	大学生 クネ。	I am a college student.
 ain_Kana	eng	大学生 クネ。	I am a university student.
 ain_Kana	eng	大学生 クネ。	I'm a college student.
@@ -36,6 +36,9 @@ ain_Latn	eng	aynu itak ponno ku-ye easkay.	I can speak Ainu a little.
 ain_Latn	eng	aynu itak ponno ku-ye easkay.	I can speak a little Ainu.
 ain_Latn	eng	aynu itak ponno patek ku-ye easkay.	I can only speak a little Ainu.
 ain_Latn	eng	aynu itak ponno patek ku-ye easkay.	I can speak only a little Ainu.
+ain_Latn	eng	cape anakne seta akkari pon.	Cats are smaller than dogs.
+ain_Latn	eng	Hana katkemat kor=kanpisos ne ya eikka pa.	They stole Mrs. Hana's book.
+ain_Latn	eng	Hana katkemat kor=kanpisos ne ya eikka pa.	They stole the book belonging to Mrs. Hana.
 ain_Latn	eng	iruka en-sinire yan.	Let me rest for a while.
 ain_Latn	eng	iteki cis hani! asirpe eci-hok kus ne.	Don't cry! I'll buy you a new one.
 ain_Latn	eng	iteki hoyuppa yan!	Please don't run.
@@ -44,9 +47,11 @@ ain_Latn	eng	kanpi nukar hi e-eramasu?	Do you like reading?
 ain_Latn	eng	karinpani epuyke sipirasa hi ku-nukar kusu k-arpa rusuy.	I want to go and see cherry trees blooming.
 ain_Latn	eng	ku-kor santoku hunak ta an ruwe?	Where is my wallet?
 ain_Latn	eng	ku-kor santoku ku-isamka sekor ku-yaynu.	I think I've lost my wallet.
+ain_Latn	eng	Ku=kor unarpe omkekar.	My aunt has a cold.
 ain_Latn	eng	Satporo ta e-arpa amkir ya?	Have you ever been to Sapporo?
 ain_Latn	eng	Satporo ta k-arpa amkir.	I've been to Sapporo.
 ain_Latn	eng	Satporo ta k-arpa ka eramiskari.	I've never been to Sapporo.
+ain_Latn	eng	seta akkari cape pon.	Cats are smaller than dogs.
 ain_Latn	eng	somo, Tom sekor ku-rehe ka somo ne. Mari sekor ku-rehe ne.	No, my name isn't Tom. My name is Mary.
 ain_Latn	eng	toan nonno retar.	That flower is white.
 ain_Latn	eng	toanpe nonno ne.	That is a flower.

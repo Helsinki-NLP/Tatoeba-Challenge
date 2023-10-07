@@ -33,6 +33,8 @@ tur	uzb_Latn	Annem patatesi soydu.	Mening onam kartoshkani archdi.
 tur	uzb_Latn	Annen nerede yaşıyor?	Onang qayerda yashaydi?
 tur	uzb_Latn	Bahar geldi.	Bahor keldi.
 tur	uzb_Latn	Bana yardım edebilir misiniz?	Menga yordam bera olasizmi?
+tur	uzb_Latn	Banka sağ tarafta.	Bank o'ng tomonda.
+tur	uzb_Latn	Banka sol tarafta.	Bank chap tomonda.
 tur	uzb_Latn	Bebeğimiz konuşmaya başladı.	Chaqalog'imiz gapira boshladi.
 tur	uzb_Latn	Bebek ağlamayı kesti.	Chaqaloq yig'lashdan to'xtadi.
 tur	uzb_Latn	Ben Aşkabat'a gidiyorum.	Men Ashxobodga boraman.
@@ -45,6 +47,8 @@ tur	uzb_Latn	Ben hep soğuk su içerim.	Men doim sovuq suv ichaman.
 tur	uzb_Latn	Benim bir arabam var.	Mening bir mashinam bor.
 tur	uzb_Latn	Benim gelinime söyle; kürek, balta, testere, tüm araç-gereçleri yığsın.	Mening kelinimga ayt:kurak, bolta, arra, jami asboblarni yig'sin.
 tur	uzb_Latn	Benim odamda bazı dergiler var.	Mening xonamda bir qancha jurnallar bor.
+tur	uzb_Latn	Ben kendi bilgisayarımı kullanıyorum.	Men o‘z kompyuterimdan foydalanyapman.
+tur	uzb_Latn	Ben öleyazdım.	Men o'la yozdim.
 tur	uzb_Latn	Ben onun nerede çalıştığını bilmek istemiyorum.	Men u qayerda ishlashini bilmoqchi emasman.
 tur	uzb_Latn	Ben onun nerede çalıştığını bilmek istiyorum.	Men u qayerda ishlashini bilmoqchiman.
 tur	uzb_Latn	Ben onun sözlerine önem vermedim.	Men uning so'zlariga ahamiyat bermadim.
@@ -52,28 +56,43 @@ tur	uzb_Latn	Ben soğuk su içiyorum.	Men sovuq suv ichyapman.
 tur	uzb_Latn	Ben Tom'un hiçbir dediğine inanmıyorum.	Men Tomning hech qaysi gapiga ishonmayman.
 tur	uzb_Latn	Ben üniversitede öğretmenim.	Men universitetda o'qituvchiman.
 tur	uzb_Latn	Ben yiyorum.	Men yeyapman.
+tur	uzb_Latn	Bilmiyorum, Tom.	Bilmayman, Tom.
 tur	uzb_Latn	Bir bardak kola istiyorum.	Bir stakan kola olmoqchi edim.
 tur	uzb_Latn	Birçok roket Kazakistan'daki Baykonur'dan fırlatılır.	Ko'p raketalar Qozog'istondagi Boyqo'ng'irdan uchiriladi.
 tur	uzb_Latn	Bir sözlüğe ihtiyacım var.	Menga lug'at kerak.
 tur	uzb_Latn	Biz Arabız.	Biz arabmiz.
+tur	uzb_Latn	Bizde kâğıt kalmadı.	Bizda qog'oz qolmagan.
 tur	uzb_Latn	Bizden ne istiyorsunuz?	Bizdan nima istaysiz?
+tur	uzb_Latn	Bizim kâğıdımız yok.	Bizda qog‘oz yo‘q.
 tur	uzb_Latn	Bu bilgisayar bozuk.	Bu kompyuter buzilgan.
 tur	uzb_Latn	Bu cami kimin tarafından inşa edilmiştir?	Bu masjid kim tomonidan qurilgan?
+tur	uzb_Latn	Bu civarda eczane var mı?	Bu atrofda dorixona bormi?
 tur	uzb_Latn	Bu doğru değil.	Bu to'g'ri emas.
 tur	uzb_Latn	Bu dünya benim evim değildir.	Bu dunyo mening uyim emas.
 tur	uzb_Latn	Bu ev değil.	Bu uy emas.
 tur	uzb_Latn	Bu görevi elbette hallederiz.	Bu topshiriqni albatta bajaramiz.
+tur	uzb_Latn	Bugün Tom'un boş günü.	Bugun Tomning dam olish kuni.
+tur	uzb_Latn	Bu kitabı iki yıl önce okumuştum.	Bu kitobni ikki yil oldin o‘qigan edim.
 tur	uzb_Latn	Bu kitabı zaten okudum.	Bu kitobni zotan o'qidim.
 tur	uzb_Latn	Bu köpektir.	Bu it.
 tur	uzb_Latn	Bu lafların benimle alakası yok.	Bu gaplarning menga aloqasi yo'q.
+tur	uzb_Latn	Bunun için ödemem gerekiyor mu?	Buning uchun to'lashim kerakmi?
+tur	uzb_Latn	Bunun için ödeyecek miyim?	Buning uchun to'lashim kerakmi?
+tur	uzb_Latn	Bu odada sıcak su var mı?	Bu xonada issiq suv bormi?
+tur	uzb_Latn	Bu odada sıcak su yok.	Bu xonada issiq suv yo'q.
+tur	uzb_Latn	Bu oda hoşuma gitmedi.	Bu xona menga yoqmadi.
+tur	uzb_Latn	Bu odayı beğenmedim.	Bu xona menga yoqmadi.
 tur	uzb_Latn	Burada hiçbir şey yok.	Bu yerda hech nima yo'q.
 tur	uzb_Latn	Burada soğuk su var mı?	Bu yerda sovuq suv bormi?
 tur	uzb_Latn	Buraya gel!	Buyerga kel!
+tur	uzb_Latn	Bu rengi beğendiniz mi?	Bu rang sizga yoqdimi?
+tur	uzb_Latn	Bu renk hoşunuza gitti mi?	Bu rang sizga yoqdimi?
 tur	uzb_Latn	Bu resim kimin tarafından yapılmıştır?	Bu surat kim tomonidan bo'yalgan?
 tur	uzb_Latn	Bu senin tek şansın.	Bu sening yagona imkoniyating.
 tur	uzb_Latn	Bu senin yegâne imkâniyetin.	Bu sening yagona imkoniyating.
 tur	uzb_Latn	Bu senin yegâne şansın.	Bu sening yagona imkoniyating.
 tur	uzb_Latn	Bu senin yeni romanının bir kısmı mı? Ne zaman kitapçılarda görünecek?	Bu sening yangi romaningning bir qismimi? U kachon kitob magazinlarga chiqadi?
+tur	uzb_Latn	Bu sensin!	Bu sensan!
 tur	uzb_Latn	Bu söz çok dokunaklı.	Bu so'z juda ta'sirli.
 tur	uzb_Latn	Büyüklerle meşguliyet Elmurat'a özel bir zevk verirdi.	Kattalar bilan mashg'ulot Elmurodga alohida zavq berar edi.
 tur	uzb_Latn	Cahil geldiğinde akıl gider.	Jahl kelganda, aql ketadi.
@@ -81,6 +100,7 @@ tur	uzb_Latn	Canlı balık suyun altında yüzer.	Jonli baliq suv ostida suzadi.
 tur	uzb_Latn	Çocuklarım çok yaramaz.	Mening bolalarim juda itoatsiz.
 tur	uzb_Latn	Çoktan çok çıkar.	Ko'pdan ko'p chiqar.
 tur	uzb_Latn	Çöllerde kayboldum.	Cho'llarda yo'qoldim.
+tur	uzb_Latn	Daha ucuzu var mı?	Arzonrog'i bormi?
 tur	uzb_Latn	Doğru çeviriniz.	To'g'ri tarjima qilingiz.
 tur	uzb_Latn	Dün alışveriş merkezine gittim.	Kecha xarid qilish markaziga bordim.
 tur	uzb_Latn	Durum daha iyi olacak.	Vaziyat yaxshiroq bo'ladi.
@@ -91,6 +111,7 @@ tur	uzb_Latn	Erdoğan, Türkiye'nin başkanıdır.	Erdogan Turkiyaning prezident
 tur	uzb_Latn	Evde yemek var mı?	Uyda ovqat bormi?
 tur	uzb_Latn	Eviniz var mı?	Uyingiz bormi?
 tur	uzb_Latn	Ev küçüktür.	Uy kichik.
+tur	uzb_Latn	Fiyatını düşürebilir misiniz?	Narxini tushurolasizmi?
 tur	uzb_Latn	Geçen yılki Noel'de ne yapmıştın?	O'tgan yilgi rojdestvoda nima qilganding?
 tur	uzb_Latn	Geldik.	Biz keldik.
 tur	uzb_Latn	Geldim.	Men keldim.
@@ -98,11 +119,17 @@ tur	uzb_Latn	Geldi.	U keldi.
 tur	uzb_Latn	Gel!	Kel!
 tur	uzb_Latn	Gitmeliyim.	Menga borish kerak.
 tur	uzb_Latn	Gözleriniz nerede?	Ko'zlaringiz qayerda?
+tur	uzb_Latn	Gözlüğümü bulamıyorum. Onu bulmama yardım et!	Ko‘zoynagimni topolmayapman. Uni topishimga yordam ber!
 tur	uzb_Latn	Hadi, çiçekler hakkında konuşalım.	Kelilar gullar haqida gapalshamiz .
+tur	uzb_Latn	Hasta nasıl?	Bemorning ahvoli qanday?
+tur	uzb_Latn	Hasta ne durumda?	Bemorning ahvoli qanday?
+tur	uzb_Latn	Hastanın durumu nasıl?	Bemorning ahvoli qanday?
 tur	uzb_Latn	Her çeşit kadın bana ilham verir.	Hamma turli ayol meni ilhomlantiradi.
+tur	uzb_Latn	Her soykırım nefret söylemiyle başlar.	Har bir genotsid nafrat nutqi bilan boshlanadi.
 tur	uzb_Latn	Hesaplamam doğruydu.	Hisoblashim to'g'ri edi.
 tur	uzb_Latn	Hoş geldiniz!	Hush keldingiz!
 tur	uzb_Latn	Hoş geldin!	Xush kelding!
+tur	uzb_Latn	İngilizce kitabınız var mı?	Inglizcha kitobingiz bormi?
 tur	uzb_Latn	İngilizce öğrenmek istemiyorum.	Ingliz tilini o'rganmoqchi emasman.
 tur	uzb_Latn	İnsan akıl sahibidir.	Inson - aql egasidir.
 tur	uzb_Latn	İşte tren geliyor.	Mana poezd kelyapti.
@@ -112,30 +139,41 @@ tur	uzb_Latn	Kaç kediniz var?	Qancha mushugingiz bor?
 tur	uzb_Latn	Kadının sesini açıkça işittim.	Ayolning ovozini aniq eshitdim.
 tur	uzb_Latn	Kadın pastayı yemiyor.	Ayol tortni yemayapti.
 tur	uzb_Latn	Kadın pastayı yiyor.	Ayol tortni yeyapti.
+tur	uzb_Latn	Kapıyı kim açtı?	Eshikni kim ochdi?
 tur	uzb_Latn	Karanlıkta insan net görünmez.	Qorong'ida odam aniq ko'rinmaydi.
 tur	uzb_Latn	Kazakça öğrenmek istiyorum.	Qozoq tilini o'rganmoqchiman.
 tur	uzb_Latn	Kedi köpeği görmüyor.	Mushuk itni ko'rmayapti.
 tur	uzb_Latn	Kedi köpeği görüyor.	Mushuk itni ko'ryapti.
 tur	uzb_Latn	Kediler ona saldırdı.	Mushuklar unga hujum qildi.
-tur	uzb_Latn	Kısacası, ilişkimiz bozuldu.	Xullas, aloqamiz buzilib qoldi.
-tur	uzb_Latn	Kış bitti.	Qish keldi.
+tur	uzb_Latn	Kendime çeki düzen vermek istiyorum.	O'zimga oro bermoqchiman.
 tur	uzb_Latn	Kitapları bulunuz.	Kitoblarni toping.
 tur	uzb_Latn	Kitapları oradan alınız.	Kitoblarni u yerdan olingiz.
+tur	uzb_Latn	Kitaplar nerede satılıyor?	Kitoblar qayerda sotiladi?
+tur	uzb_Latn	Kısacası, ilişkimiz bozuldu.	Xullas, aloqamiz buzilib qoldi.
+tur	uzb_Latn	Kış bitti.	Qish keldi.
 tur	uzb_Latn	Kızını bana ver.	Qizingni menga ber.
 tur	uzb_Latn	Köpek kediyi görmüyor.	It mushukni ko'rmayapti.
 tur	uzb_Latn	Köpek kediyi görüyor.	It mushukni ko'ryapti.
+tur	uzb_Latn	Koyun eti kaça?	Qo'y go'shti qancha turadi?
+tur	uzb_Latn	Koyun eti ne kadar?	Qo'y go'shti qancha turadi?
 tur	uzb_Latn	Lastiğim değişiyor.	Kalishim almashib qolibdi.
 tur	uzb_Latn	Leanne'nin mavi gözleri var.	Leannening ko'k ko'zlari bor.
+tur	uzb_Latn	Lütfen beni öldürmeyin!	Iltimos meni o'ldirmang!
 tur	uzb_Latn	Lütfen gel.	Iltimos kel.
 tur	uzb_Latn	Marie küvette.	Meri vannada.
 tur	uzb_Latn	Masanın üzerinde bir elma var.	Stol ustida bir olma bor.
 tur	uzb_Latn	Merhaba dünya!	Salom dunyo!
 tur	uzb_Latn	Nar yalnızca güneyde yetişir.	Anor faqat janubda o'sadi.
+tur	uzb_Latn	Neden onu öldürdün?	Nega uni o'ldirding?
+tur	uzb_Latn	Ne içersiniz?	Nima ichasiz?
+tur	uzb_Latn	Ne iş yapıyorsunuz?	Nima ish qilasiz?
+tur	uzb_Latn	Ne kadar para yatırmak istiyorsunuz?	Qancha pul qo'ymoqchisiz?
 tur	uzb_Latn	Nereden geldin?	Qayerdan kelding?
 tur	uzb_Latn	Nereye gidiyorsun?	Qayerga borasan?
 tur	uzb_Latn	Ne yapıyordun?	Nima qilayotgan eding?
 tur	uzb_Latn	Ne yapıyorsun?	Nima qilayapsan?
 tur	uzb_Latn	Ne zaman eve döneceksin?	Qachon uyga qaytasan?
+tur	uzb_Latn	Niye yemiyorsun?	Nega yemayapsan?
 tur	uzb_Latn	O adamın ismini çok iyi hatırlıyorum.	U odamning ismini rosa xotirladim.
 tur	uzb_Latn	O, annesinin ölümünden haberdar değil.	U onasining o'limidan xabardor emas.
 tur	uzb_Latn	O, Aşkabat'a gitti.	U Ashxobodga bordi.
@@ -145,6 +183,8 @@ tur	uzb_Latn	O bir öğrenci değil.	U student emas.
 tur	uzb_Latn	O Buhara'da yaşıyor.	U Buxoroda yashaydi.
 tur	uzb_Latn	O, Buhara'ya gitmek istiyor.	U Buxoroga bormoqchi.
 tur	uzb_Latn	Odamda iki bilgisayar var.	Mening xonamda ikki ta kompyuter bor.
+tur	uzb_Latn	Odamda sıcak su yok.	Xonamda issiq suv yo'q.
+tur	uzb_Latn	O, delirmiş.	U aqldan ozgan.
 tur	uzb_Latn	O, doktor değil.	U doktor emas.
 tur	uzb_Latn	O evli mi?	U uylanganmi?
 tur	uzb_Latn	Öğrenci kitabı okuyor.	O'quvchi kitobni o'qiyapti.
@@ -153,6 +193,7 @@ tur	uzb_Latn	Öğrencinin kitabı nerede?	Oʻquvchining kitobi qayerda?
 tur	uzb_Latn	Öğrenci televizyon izlemiyor.	O'quvchi televizor ko'rmayapti.
 tur	uzb_Latn	Öğrenci televizyon izlemiyor.	Talaba televizor ko'rmayapti.
 tur	uzb_Latn	O, her gün yazmaya söz verdi.	U xar kuni yozishga vada bergan.
+tur	uzb_Latn	O, karıncaya bile zarar vermezdi.	U chumoliga ham ozor bermasdi.
 tur	uzb_Latn	O, koştu.	U yugurdi.
 tur	uzb_Latn	O köyde bir adam vardı.	U qishloqda bir odam bor edi.
 tur	uzb_Latn	O, koyunlarını besliyor.	U qo'ylarini oziqlantiryapti.
@@ -163,13 +204,21 @@ tur	uzb_Latn	Onda işim var.	Unda ishim bor.
 tur	uzb_Latn	Onların durumu çok iyi.	Ularning vaziyati juda yaxshi.
 tur	uzb_Latn	Onu sana söylemeyeceğim.	Uni senga aytmayman.
 tur	uzb_Latn	O, öğretmeni dikkatlice dinliyor.	U o'qituvchini diqqat bilan tinglayapti.
+tur	uzb_Latn	Ormanda çok fazla hayvan var.	O'rmonda juda ko'p hayvonlar bor.
 tur	uzb_Latn	O sadece bir adam.	U faqat bir odam.
 tur	uzb_Latn	O, Semerkand'da yaşıyor.	U Samarqandda yashaydi.
 tur	uzb_Latn	O, şimdi restoranda Özbek pilavı yiyor.	U hozir restoranda o'zbek palovi yeyapti.
 tur	uzb_Latn	O, süpermarkete gidecek mi?	U supermarketga ketadimi?
 tur	uzb_Latn	O, Taşkent'te yaşamıyor.	U Toshkentda yashamaydi.
+tur	uzb_Latn	Özbekçe konuşan doktor var mı?	O'zbekcha gapiradigan doktor bormi?
 tur	uzb_Latn	Özbekistan'a gittim.	O'zbekistonga bordim.
+tur	uzb_Latn	Para bozdurmak istiyordum.	Pul almashtirmoqchi edim.
+tur	uzb_Latn	Para gönderebilir miyim?	Pul jo'natsam bo'ladimi?
+tur	uzb_Latn	Rehber olarak çalışıyorum.	Men gid bo'lib ishlayman.
+tur	uzb_Latn	Restoran ne zaman açılıyor?	Restoran qachon ochiladi?
+tur	uzb_Latn	Roman yazmalısın.	Sen roman yozishing kerak.
 tur	uzb_Latn	Rusya'nın başkenti Moskova değil mi?	Rossiyaning poytaxti Moskva emasmi?
+tur	uzb_Latn	Saat altıyı geçmişti.	Soat oltidan o'tgan edi.
 tur	uzb_Latn	Şaka yapıyorum.	Hazillashyapman.
 tur	uzb_Latn	Sami kanser hastasıydı.	Sami saratonga chalingan bemor edi.
 tur	uzb_Latn	Sanskritçe öğrenmek istiyorum.	Men sanskritchani o'rganmoqchiman.
@@ -182,6 +231,10 @@ tur	uzb_Latn	Sen bunu yiyeceksin.	Sen buni yeysan.
 tur	uzb_Latn	Sen çirkin değilsin.	Sen humuk emassan.
 tur	uzb_Latn	Seyahat etmek için yeterince param yok.	Menda sayohat qilish uchun yetarli pul yo'q.
 tur	uzb_Latn	Şimdi ev ödevlerimi yapıyorum.	Men hozir uy vazifalarimni bajaryapman.
+tur	uzb_Latn	Size ne kadar ödemem gerek?	Sizga qancha to'lashim kerak?
+tur	uzb_Latn	Size telefon defteri lazım mı?	Sizga telefon ma'lumotnomasi kerakmi?
+tur	uzb_Latn	Size telefon defteri mi gerekiyor?	Sizga telefon ma'lumotnomasi kerakmi?
+tur	uzb_Latn	Size telefon defteri mi lazım?	Sizga telefon ma'lumotnomasi kerakmi?
 tur	uzb_Latn	Siz hiç Özbekistan'a gittiniz mi?	Siz hech O'zbekistonga bordingizmi?
 tur	uzb_Latn	Sonunda öleceksin.	Eng oxirida o'lasan.
 tur	uzb_Latn	Sözlüğüm var.	Mening lug'atim bor.
@@ -197,12 +250,16 @@ tur	uzb_Latn	Televizyon izlemek istemiyorum.	Televizor ko'rmoqchi emasman.
 tur	uzb_Latn	Tom genç görünüyordu.	Tom yosh ko'rinayotgan edi.
 tur	uzb_Latn	Tom onu geçerli bir sebepten dolayı yapıyor.	Tom uni asosli sababga ko'ra qiladi.
 tur	uzb_Latn	Tom onu yapmama izin vermeyecek.	Tom o ishni qilishga izin bermaydi.
+tur	uzb_Latn	Tom'un karısı Norveçli.	Tomning xotini norvegiyalik.
 tur	uzb_Latn	Tom'un zengin olduğunu düşündüm.	Tomning boy bo'lganini o'yladim.
 tur	uzb_Latn	Tom ve Meryem'in pek tanışıklığı yok.	Tom va Maryam bir birini yaxshi tanimaydi.
 tur	uzb_Latn	Tutuklandın.	Qamoqqa olinding.
 tur	uzb_Latn	Ülkemiz işgal ediliyor.	Mamlakatimiz ishg'ol qilinyapti.
 tur	uzb_Latn	Urumçi'ye gitmek istiyorum.	Urumchiga bormoqchiman.
+tur	uzb_Latn	Uyandığımda saat altıyı geçmişti.	Uygonganimda soat oltidan o'tgan edi.
 tur	uzb_Latn	Yağmur mevsimi başladı.	Yomg'ir mavsumi boshlandi.
+tur	uzb_Latn	Yarın dolu yağacak.	Ertaga do'l yog'adi.
+tur	uzb_Latn	Yarın için planların nedir?	Ertaga rejalaring qanday?
 tur	uzb_Latn	Yeni bir dosya oluşturdum.	Yangi bir fayl yaratdim.
 tur	uzb_Latn	Yeni yılınız kutlu olsun.	Yangi yilingiz mubоrak bo'lsin.
 tur	uzb_Latn	Yirmi çocuğu var.	Uning yigirma bolasi bor.

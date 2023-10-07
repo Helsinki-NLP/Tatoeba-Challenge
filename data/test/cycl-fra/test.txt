@@ -1,5 +1,5 @@
-cycl_Latn	fra	(behaviorCapable-PerformedBy Madonna Singing-Human)	Madonna peut chanter.
 cycl_Latn	fra	(#$capitalCity #$France #$Paris)	La capitale de la France, c'est Paris.
+cycl_Latn	fra	(behaviorCapable-PerformedBy Madonna Singing-Human)	Madonna peut chanter.
 cycl_Latn	fra	(commonFoodTypeOfCuisine Baguette FrenchCuisine)	La baguette est un aliment courant dans la cuisine française.
 cycl_Latn	fra	(goals Sauron (forAll ?HOB (implies (isa ?HOB Hobbit) (feelsTowardsObjectToDegree ?HOB Sauron Fear highToVeryHighAmountOf))))	Sauron veut que chaque hobbit le craigne.
 cycl_Latn	fra	(implies (isa ?AP (FruitFn AppleTree)) (colorOfObject ?AP RedColor))	Les fruits d'un pommier sont forcément rouges.

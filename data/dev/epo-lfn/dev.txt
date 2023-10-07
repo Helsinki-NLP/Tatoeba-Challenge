@@ -44,6 +44,7 @@ epo	lfn_Cyrl	Palestinanaj vivoj gravas.	Вивес филастини импор
 epo	lfn_Cyrl	Rezulte de la ridindeco de tiuj bultenoj kaj la banaleco de la ceteraj ĉefaj programoj, la valencianoj turnas la dorson al sia televido.	Комо ресулта де ла асурдиа де еста ревистетас е ла куалиа комун де ла отра програмес шеф, ла валенсианес дорси суа телевиса.
 epo	lfn_Cyrl	Saturno havas belegajn ringojn.	Сатурно аве анелос мулте бела.
 epo	lfn_Cyrl	Se oni ne indignas, oni ne atentas.	Си он но ес колер, он но атенде.
+epo	lfn_Cyrl	Ŝia korpo kuŝis sur la tero.	Суа корпо иа ес сур ла тера.
 epo	lfn_Cyrl	Ŝi diris, ke ŝi ne estas freneza.	Ел иа дисе ке ел но ес фол.
 epo	lfn_Cyrl	Ŝi tre interesiĝas pri ŝako.	Ел аве ун интереса гранде а шаке.
 epo	lfn_Cyrl	Stalino estis malbona homo.	Сталин иа ес ун мал персон.
@@ -63,20 +64,42 @@ epo	lfn_Cyrl	Tomo ne estas psikopato.	Том но ес ун псикопатик
 epo	lfn_Cyrl	Tomo ne estas vegano.	Том но ес ун веган.
 epo	lfn_Cyrl	Usono ne estas la sola imperiisma potenco.	СУА но ес ла сола потиоса импералисте.
 epo	lfn_Cyrl	Vi neniam kapitulacis.	Ту иа седе нунка.
+epo	lfn_Latn	Abolu laboron.	Aboli labora.
+epo	lfn_Latn	Abortigo estas homa rajto.	Aborta es un direto umana.
+epo	lfn_Latn	Aĉetu pafilon.	Compra un fusil.
+epo	lfn_Latn	Adamo estas druzo.	Adam es durzi.
 epo	lfn_Latn	Anakino ne ŝatas sablon.	Anakin no gusta arena.
 epo	lfn_Latn	Ankaŭ Samio estas geja.	Ance Sami es ge.
 epo	lfn_Latn	Ankaŭ Samio estas samseksema.	Ance Sami es ge.
 epo	lfn_Latn	Ankaŭ Samio estas samseksemulo.	Ance Sami es ge.
 epo	lfn_Latn	Antaŭsciigu mian patrinon, mi petas.	Fa ce mea madre sabe lo a ante, per favore.
+epo	lfn_Latn	Arboj estas vivantaj organismoj.	Arbores es organismes vivente.
+epo	lfn_Latn	Bananoj estas falusaj.	Bananas es falin.
+epo	lfn_Latn	Birdoj ne estas realaj.	Avias no es real.
 epo	lfn_Latn	Bona stegosaŭro!	Bon stegosauro!
 epo	lfn_Latn	Bonvolu elkonduki min per pli mallonga kaj pli oportuna vojo.	Per favore, gida me sur un curso plu corta e plu pratical.
 epo	lfn_Latn	Bonvolu rapidi: mi bezonas ripozon.	Per favore, freta: me nesesa reposa.
+epo	lfn_Latn	Ĉinio estas kapitalisma lando.	Jonguo es un pais capitaliste.
+epo	lfn_Latn	Ĉio estas unu.	Tota es un.
+epo	lfn_Latn	Ĉio, kion mi diras, estas mensogo.	Tota ce me dise es un menti.
 epo	lfn_Latn	Ĉi tio estas tranĉilo.	Esta es un cotel.
+epo	lfn_Latn	Ĉi tiu aplikaĵo estas senpaga.	Esta ap es sin custa.
+epo	lfn_Latn	Ĉi tiu retejo estas senpaga.	Esta pajeria es sin custa.
+epo	lfn_Latn	Ĉi tiu traduko estas ĝusta, sed ĝi estas tro laŭvorta.	Esta tradui es coreta, ma lo es tro leteral.
 epo	lfn_Latn	Ĉiuj fajfas pri via konscienco.	No person cura sur tua consiensa.
+epo	lfn_Latn	Ĉiuj judoj estas mesianoj, sed neniuj judoj estas kristanoj.	Tota la iudis es maxial, ma no iudis es cristian.
+epo	lfn_Latn	Ĉiuj landoj estas falsaj.	Tota paises es falsa.
 epo	lfn_Latn	Ĉu al vi mankas via hejmo?	Esce tu es triste sin tua casa?
+epo	lfn_Latn	Ĉu benzinprezoj altiĝas?	Esce la custas de gasolina aumenta?
+epo	lfn_Latn	Ĉu ĉiuj birdoj flugas?	Esce tota la avias vola?
+epo	lfn_Latn	Ĉu ĉiuj drakoj havas flugilojn?	Esce tota la dragones ave alas?
 epo	lfn_Latn	Ĉu Karlo Markso estis komunisto?	Esce Karl Marx ia es un comuniste?
 epo	lfn_Latn	Ĉu keĉupo estas likvo?	Esce cetxap es un licuida?
+epo	lfn_Latn	Ĉu la homoj estas en ordo?	Esce umanas es oce?
 epo	lfn_Latn	Ĉu li estas graveda?	Esce el es ensinta?
+epo	lfn_Latn	Ĉu mia pugo plaĉas al vi?	Tu gusta mea culo?
+epo	lfn_Latn	Ĉu mi estas hebreo?	Esce me es iudi?
+epo	lfn_Latn	Ĉu mi estas judo?	Esce me es iudi?
 epo	lfn_Latn	Ĉu ŝi estas graveda?	Esce el es ensinta?
 epo	lfn_Latn	Ĉu ŝi estis francino?	Esce el ia es franses?
 epo	lfn_Latn	Ĉu stegosaŭroj sonĝas?	Esce stegosauros sonia?
@@ -84,90 +107,282 @@ epo	lfn_Latn	Ĉu tiu estas la hundo de Tomo?	Esce acel es la can de Tom?
 epo	lfn_Latn	Ĉu Tomo iam ridas?	Esce Tom rie a cualce ves?
 epo	lfn_Latn	Ĉu vi amas Dion?	Esce vos ama Dio?
 epo	lfn_Latn	"Ĉu vi estas en ordo?" - "Jes."	"Esce tu es oce?" "Si."
+epo	lfn_Latn	"Ĉu vi estas freneza?" - "Jes."	"Esce tu es loca?" "Si."
+epo	lfn_Latn	Ĉu vi estas judo?	Esce tu es iudi?
+epo	lfn_Latn	Ĉu vi estas rumano?	Esce tu es romanian?
+epo	lfn_Latn	Ĉu vi estas rumanoj?	Esce vos es romanian?
 epo	lfn_Latn	Ĉu vi havas lakson?	Esce tu ave diarea?
 epo	lfn_Latn	Ĉu vi uzas mariĥuanon?	Esce tu usa canaba?
+epo	lfn_Latn	Ĉu vi vere estas sorĉisto?	Esce tu es vera un sorsor?
+epo	lfn_Latn	Ĉu vi volas buriton?	Tu vole un burito?
+epo	lfn_Latn	Daktiloj estas la bombonoj de naturo.	Datilos es la confetos de natur.
+epo	lfn_Latn	Dankegon - tio estis perfekta.	Multe grasias; acel ia es perfeta.
 epo	lfn_Latn	De mensogaĵo malproksimiĝu.	Distanti de un cosa mentinte.
+epo	lfn_Latn	Dio frapu la reĝinon.	Ta ce Dio colpa la rea.
+epo	lfn_Latn	Dio frapu la reĝon!	Ta ce Dio colpa la re!
+epo	lfn_Latn	Dio ne estas reala.	Dio no es real.
 epo	lfn_Latn	Donald Trump volas aĉeti Gronlandon.	Trump vole compra Calalitnunat.
+epo	lfn_Latn	Drogoj estas bonaj.	Drogas es bon.
+epo	lfn_Latn	Drogoj estas malbonaj.	Drogas es mal.
+epo	lfn_Latn	Duonigu kvadraton.	Dui un cuadro.
+epo	lfn_Latn	Eksgeedziĝo estas homa rajto.	Divorsa es un direto umana.
+epo	lfn_Latn	Ekzistas diino.	On ave un diva.
 epo	lfn_Latn	El ĉiuj frazoj, kiujn mi provas kontribui al la projekto Tatoeba, nur tiuj verkitaj en la portugala povas havi ian valoron, ĉar la portugala estas mia sola gepatra lingvo.	Entre tota la frases cual me atenta dona a la projeta Tatoeba, sola los cual me ia scrive en portuges pote ave alga valua, car portuges es mea sola lingua prima.
+epo	lfn_Latn	Elefantoj estas inter la plej inteligentaj bestoj.	Elefantes es entre la animales la plu intelijente.
+epo	lfn_Latn	Elon Musk inventis Tviteron.	Elon Musk ia inventa Twitter.
 epo	lfn_Latn	Esperanto pli plaĉas al mi, ol la germana lingvo.	Me gusta plu esperanto ca deutx.
 epo	lfn_Latn	Espero estas pli potenca ol timo.	Espera es plu potiosa ca teme.
+epo	lfn_Latn	Estas drakoj tie.	On ave ala dragones.
+epo	lfn_Latn	Estas multaj lingvoj en la mondo.	On ave multe linguas en la mundo.
 epo	lfn_Latn	Estero estas lesba hebreo.	Esther es un iudi lesbian.
+epo	lfn_Latn	Estis provo.	On ia ave un atenta.
+epo	lfn_Latn	Facebook estas mortinta.	Facebook es mor.
+epo	lfn_Latn	Faŝismo estas malbona.	Faxisme es mal.
+epo	lfn_Latn	Fejsbuko aĉas.	Facebook apesta.
+epo	lfn_Latn	Feto ne estas bebo.	Un feto no es un bebe.
 epo	lfn_Latn	Fine iu konsentas kun mi!	Final, algun acorda con me!
+epo	lfn_Latn	Fungoj estas saĝaj.	Xampiniones es saja.
+epo	lfn_Latn	Gangsteroj mortigas homojn.	Gangsteres mata persones.
+epo	lfn_Latn	Genio estas utila frenezo.	Jenia es dementia usosa.
+epo	lfn_Latn	George Soros travivis la Holokaŭston.	George Soros ia survive la Olocausto.
+epo	lfn_Latn	Ĝi estas farita el alabastro.	Lo es de alabastro.
+epo	lfn_Latn	Ĝi estas tro simpla.	Lo es tro simple.
 epo	lfn_Latn	Grekio estas bela.	Elas es bela.
 epo	lfn_Latn	Helposignoj estas gravaj.	Puntua es importante.
+epo	lfn_Latn	Herbo estas laŭleĝa en Novjorkio.	Canaba es legal en York Nova.
+epo	lfn_Latn	Herbo estas laŭleĝa en Novjorko.	Canaba es legal en New York.
 epo	lfn_Latn	Herooj ne faras tion.	Eroes no fa acel.
 epo	lfn_Latn	Hierarĥio estas socia konstruaĵo.	Ierarcia es un construi sosial.
+epo	lfn_Latn	Hipopotamoj estas danĝeraj bestoj.	Ipopotamos es animales perilosa.
+epo	lfn_Latn	Hipopotamoj estas enormaj.	Ipopotamos es enorme.
+epo	lfn_Latn	Hipopotamoj estas tre pezaj.	Ipopotamos es multe pesosa.
+epo	lfn_Latn	Hipopotamoj vivas en riveroj.	Ipopotamos vive en rios.
+epo	lfn_Latn	Homoj estas la plej malbonaj simioj.	Umanas es la simias la plu mal.
 epo	lfn_Latn	Homoj estas mamuloj.	Umanas es mamales.
+epo	lfn_Latn	Homoj estas ostaj fiŝoj.	Umanas es pexes ososa.
+epo	lfn_Latn	Homoj estas strangaj simioj.	Umanas es simias strana.
+epo	lfn_Latn	Hundoj estas amuzaj.	Canes es divertinte.
+epo	lfn_Latn	Iĝu neregebla.	Deveni nongovernable.
 epo	lfn_Latn	Ili ambaŭ estas gejaj, sed ili ne estas paro.	Ambos es ge, ma los no es un duple.
 epo	lfn_Latn	Ili amikiĝis.	Los ia amini.
+epo	lfn_Latn	Ili estas absurdaj.	Los es asurda.
+epo	lfn_Latn	Ili estas el Finnlando.	Los es de Suomi.
+epo	lfn_Latn	Ili estas ridindaj.	Los es riable.
+epo	lfn_Latn	Imperiismo estas bona, kiam ĝin faras Rusio kaj Ĉinio.	Imperalisme es bon cuando Rusia e Jonguo fa lo.
+epo	lfn_Latn	Irako havas du oficialajn lingvojn.	Irac ave du linguas ofisial.
+epo	lfn_Latn	Irano estas granda lando.	Iran es un pais grande.
 epo	lfn_Latn	Islamo malpermesas teruradon.	Islam proibi la terori.
+epo	lfn_Latn	Israelanoj parolas la hebrean.	Israelis parla ivri.
+epo	lfn_Latn	Iuj infanoj havas du patrojn aŭ du patrinojn.	Alga enfantes ave du papas o du mamas.
 epo	lfn_Latn	Iuj tradicioj estas stultaj.	Alga tradisiones es stupida.
+epo	lfn_Latn	Jerusalemo estas la plej sankta kaj plej grava juda urbo.	Ieruxalim es la site iudi la plu santa e la plu importante.
+epo	lfn_Latn	Jes... ha ha ha... jes!	Si... ha ha ha... si!
+epo	lfn_Latn	Jes, mi faris tion.	Si, me ia fa lo.
 epo	lfn_Latn	Jes, mi loĝas ĉi tie.	Si, me abita asi.
+epo	lfn_Latn	Jesuo ne estis kristano.	Jesus no ia es un cristian.
+epo	lfn_Latn	Judoj estas ankaŭ konataj kiel hebreoj kaj izraelidoj.	Iudis es ance conoseda como ivris.
+epo	lfn_Latn	Jupitero estas enorma.	Jupiter es enorme.
+epo	lfn_Latn	Kanabo estas laŭleĝa en Novjorkio.	Canaba es legal en York Nova.
+epo	lfn_Latn	Kanabo estas laŭleĝa en Novjorko.	Canaba es legal en New York.
 epo	lfn_Latn	Kanabo estas nun permesata en Novjorkio.	Canaba es ora legal en York Nova.
+epo	lfn_Latn	Karlo Markso ne estis marksisto.	Karl Marx no ia es un marxiste.
 epo	lfn_Latn	Katoj estas kompleksaj individuoj.	Gatos es individuas complicada.
 epo	lfn_Latn	Katoj estas magiaj.	Gatos es majia.
 epo	lfn_Latn	Katoj protektas min kontraŭ la ombruloj.	Gatos proteje me contra la persones ombral.
+epo	lfn_Latn	Kial ekzistas io anstataŭ nenio?	Perce on ave alga cosa en loca de no cosa?
 epo	lfn_Latn	Kial vi kredas, ke Tomo dependas de heroino?	Perce tu crede ce Tom es dependente de eroina?
+epo	lfn_Latn	Kial vi malamas liberecon?	Perce tu odia libria?
+epo	lfn_Latn	Kial vi malamas liberecon?	Perce vos odia libria?
+epo	lfn_Latn	Kiam mi estos libera?	Cuando me va es libre?
+epo	lfn_Latn	"Kiam?" "Neniam."	"Cuando?" "Nunca."
 epo	lfn_Latn	Kian situacion, en kiu oni diras tion, vi imagis?	Tu ia imajina ce algun ta dise esta en cual situa?
+epo	lfn_Latn	Kie estas la kanada landlimo?	Do es la borda canadian?
+epo	lfn_Latn	Kie estas mia filino?	Do es mea fia?
+epo	lfn_Latn	Kie estas mia pli juna fratino?	Do es mea soreta?
+epo	lfn_Latn	Kie estas mia pli maljuna fratino?	Do es mea soron?
 epo	lfn_Latn	Kie estas viaj ĉapeloj?	Do es tua xapos?
 epo	lfn_Latn	"Kiel oni legu 12,4 %?" "Dek du komo kvar procentoj."	"Como on debe leje 12,4 %?" "Des-du virgula cuatro prosentos."
+epo	lfn_Latn	Kio estas judismo?	Cual es iudisme?
+epo	lfn_Latn	Kio estas kosma lifto?	Cual es un asendador spasial?
 epo	lfn_Latn	Kiom da domoj vi havas?	Cuanto casas tu ave?
+epo	lfn_Latn	Kiom da katoj estas troaj?	Cuanto gatos es tro multe?
+epo	lfn_Latn	Kiom kostas la universo?	Cuanto la universo custa?
+epo	lfn_Latn	Kion sonĝas sciuroj?	Cual scurales sonia?
+epo	lfn_Latn	Kion vi scias pri la familio de Tomo?	Cual tu sabe sur la familia de Tom?
+epo	lfn_Latn	Kion vi scias pri la familio de Tomo?	Cual vos sabe sur la familia de Tom?
+epo	lfn_Latn	Kio okazas en la mondo?	Cual eveni en la mundo?
 epo	lfn_Latn	Kiu estis Konfuceo?	Ci ia es Kongzi?
 epo	lfn_Latn	Klerulo malofte estas riĉulo.	Un erudita es rara un person rica.
+epo	lfn_Latn	Kolero estas venena.	Coleria es venenosa.
+epo	lfn_Latn	Komunismo estas la celo.	Comunisme es la gol.
+epo	lfn_Latn	Komunismo estas la celo.	Comunisme es la ojeto.
+epo	lfn_Latn	Kuketo estis la plej bona hundo en la mondo.	Biscoto ia es la can la plu bon de mundo.
+epo	lfn_Latn	Kuketo lekis la nazon de Tomo.	Biscoto ia leca la nas de Tom.
+epo	lfn_Latn	Kuketo ŝatas manĝi kuketojn.	Biscoto gusta come biscotos.
+epo	lfn_Latn	Kukumoj estas verdaj.	Concombres es verde.
+epo	lfn_Latn	Kurdio havas longan historion.	Curdistan ave un istoria longa.
+epo	lfn_Latn	Kurdistano havas longan historion.	Curdistan ave un istoria longa.
+epo	lfn_Latn	Kurdujo havas longan historion.	Curdistan ave un istoria longa.
+epo	lfn_Latn	La afiŝo de Tomo disfamiĝis.	La posta de Tom ia sperde virusin.
 epo	lfn_Latn	Laboro estas necesa malbono.	Labora es un mal nesesada.
 epo	lfn_Latn	Laboro estas neevitebla malbono.	Labora es un mal nesesada.
 epo	lfn_Latn	La centmetra ĉampiono estas jamajka.	El campion de sento metres es jamaican.
 epo	lfn_Latn	La demagogo ŝatis inciti la homamason.	La demagogo ia gusta provoca la popla.
+epo	lfn_Latn	La drako estas nevenkebla.	La dragon es nonvinsable.
+epo	lfn_Latn	La egiptoj adoris katojn.	La ejiptianes ia adora gatos.
+epo	lfn_Latn	La egiptoj adoris katojn.	La misris ia adora gatos.
 epo	lfn_Latn	La franca estas bela lingvo.	Franses es un lingua bela.
+epo	lfn_Latn	La gnomoj strikas.	La nanos greve.
+epo	lfn_Latn	La Groto de la Patriarkoj en Hebrono estas la dua plej sankta loko por judismo.	La cava de la patriarcas en Hebron es la loca du la plu santa per iudisme.
 epo	lfn_Latn	La hebrea estis la unua juda lingvo.	Ivri ia es la lingua iudi un.
+epo	lfn_Latn	La hebrea vorto "goj" laŭvorte signifas "nacio".	La parola ivri "goi" sinifia leteral "nasion".
 epo	lfn_Latn	La heliantoj estas belaj floroj.	La eliantos es bela.
+epo	lfn_Latn	La homo estas danĝera besto.	Umanas es animales perilosa.
 epo	lfn_Latn	La jida ne estas la germana.	Ides no es deutx.
+epo	lfn_Latn	La kafo estas nigra.	La cafe es negra.
+epo	lfn_Latn	La katoj de Tomo amas min.	La gatos de Tom ama me.
 epo	lfn_Latn	La kato ronronis.	La gato ia ronrona.
 epo	lfn_Latn	La kato volas, ke oni malfermu la fenestron.	La gato vole ce la fenetra es abrida.
+epo	lfn_Latn	La kosmo estas malvarma.	Spasio es fria.
+epo	lfn_Latn	La kosmo estas tre granda.	Spasio es multe grande.
+epo	lfn_Latn	Lakto estas blanka.	Lete es blanca.
+epo	lfn_Latn	La lasta dio mortis antaŭ milionoj da jaroj.	La dio ultima ia mori a miliones de anios ante aora.
 epo	lfn_Latn	La litova estas bona lingvo.	Lietuvisce es un bon lingua.
 epo	lfn_Latn	La lotusfloroj eligis nepriskribeblan bonodoron.	La flores de nelumbo ia odori nondescribable.
+epo	lfn_Latn	La luno ne estas kava, Tomo.	La luna no es cava, Tom.
 epo	lfn_Latn	La mondo estas bela.	La mundo es bela.
+epo	lfn_Latn	La mondo estas nacio.	La mundo es un nasion.
 epo	lfn_Latn	La morto estas la granda egaliganto.	Mori es la egalinte grande.
+epo	lfn_Latn	La nanoj strikas.	La nanos greve.
+epo	lfn_Latn	La nigra truo voris la stelon.	La buco negra ia devora la stela.
 epo	lfn_Latn	La okcidenta civilizo ne ekzistas.	La sivilia ueste no esiste.
 epo	lfn_Latn	La okcidenta civilizo ne estas reala.	La sivilia ueste no es real.
+epo	lfn_Latn	La plimulto de judoj havas brunajn okulojn.	La plu iudis ave oios brun.
 epo	lfn_Latn	La pomo ne estas ruĝa.	La poma no es roja.
 epo	lfn_Latn	La pomo ne ruĝas.	La poma no es roja.
+epo	lfn_Latn	La televido mensogas.	Televisa menti.
 epo	lfn_Latn	La tero estas bela.	La tera es bela.
+epo	lfn_Latn	La urbon protektas golemo.	La site es protejeda par un golem.
 epo	lfn_Latn	La vivo estas ekzilo.	La vive es un esclui.
+epo	lfn_Latn	La vivo estas trompo.	La vive es un froda.
 epo	lfn_Latn	La vorto "diasporo" originale kreiĝis por la diseliro de hebreoj el la Lando de Izraelo.	La parola "diaspora" ia deveni orijinal creada per la sperde de iudis a estra la Tera de Israel.
+epo	lfn_Latn	La vorto "golemo" devenas de la hebrea.	La parola "golem" veni de ivri.
+epo	lfn_Latn	La vorto "roboto" devenas de la ĉeĥa.	La parola "robot" veni de txesce.
+epo	lfn_Latn	Lavursoj estas tre inteligentaj.	Prosiones es multe astuta.
+epo	lfn_Latn	Lemuroj ne estas simioj.	Lemures no es simias.
+epo	lfn_Latn	Lia familio estas riĉa.	Sua familia es rica.
+epo	lfn_Latn	Liberigu Iranon!	Libri Iran!
 epo	lfn_Latn	Liberigu min, mi petas.	Libri me, per favore.
+epo	lfn_Latn	Li estas inteligenta, bela kaj afabla.	El es astuta, bela e jentil.
+epo	lfn_Latn	Li estas iugrade konservativa.	El es conservaliste a alga grado.
+epo	lfn_Latn	Li estas maldiligenta.	El es pigra.
 epo	lfn_Latn	Li estas nia najbaro.	El es nosa visina.
+epo	lfn_Latn	Li estas sekulara.	El es nonrelijiosa.
+epo	lfn_Latn	Li estas sekulara.	El es secular.
+epo	lfn_Latn	Li estas stinka kato.	El es un gato apestosa.
+epo	lfn_Latn	Li estas surda.	El es sorda.
+epo	lfn_Latn	Li havas pomon.	El ave un poma.
+epo	lfn_Latn	Li havis belan edzinon.	El ia ave un sposa bela.
+epo	lfn_Latn	Li ne estas hebreo.	El no es iudi.
+epo	lfn_Latn	Li ne estas judo.	El no es iudi.
+epo	lfn_Latn	Li neniam dormas.	El dormi nunca.
+epo	lfn_Latn	Li ne plu estas vegano.	El no plu es un vegan.
 epo	lfn_Latn	Li ne plu povas dolorigi vin.	El no plu pote dole tu.
 epo	lfn_Latn	Lingua Franca Nova estas bela kaj facila lingvo.	Lingua Franca Nova es un fasil e bela lingua.
 epo	lfn_Latn	Li ŝategas stegosaŭrojn.	El adora stegosauros.
+epo	lfn_Latn	Li seksatencis min.	El ia viole me.
+epo	lfn_Latn	Li studis la Koranon.	El ia studia la Curan.
+epo	lfn_Latn	Li tre dependas de sia familio.	El es multe dependente de sua familia.
 epo	lfn_Latn	Li trodozis.	El ia supradosa.
+epo	lfn_Latn	Logiko ne estas listo de paralogismoj.	Lojica no es un lista de falasias.
 epo	lfn_Latn	Manjo amas monon.	Maria ama mone.
+epo	lfn_Latn	Manjo estas transgenra virino.	Maria es un fem transjenero.
+epo	lfn_Latn	Manjo estas transseksa virino.	Maria es un fem transjenero.
+epo	lfn_Latn	Mankas al mi volforto.	Me ave no volunta.
+epo	lfn_Latn	Maria estas transgenrulino.	Maria es un fem transjenero.
+epo	lfn_Latn	Maria estas transseksulino.	Maria es un fem transjenero.
+epo	lfn_Latn	Maria estas transulino.	Maria es un fem transjenero.
+epo	lfn_Latn	Memdefendo estas vivnecesa.	Autodefende es esensal.
+epo	lfn_Latn	Memdefendo gravas.	Autodefende es importante.
+epo	lfn_Latn	Memdefendo gravas.	Defende personal es importante.
+epo	lfn_Latn	Meyer Lansky kaj Bugsy Siegel estis famaj hebreaj gangsteroj.	Meyer Lansky e Bugsy Siegel ia es gangsteres iudi famosa.
+epo	lfn_Latn	Meyer Lansky kaj Bugsy Siegel estis famaj judaj gangsteroj.	Meyer Lansky e Bugsy Siegel ia es gangsteres iudi famosa.
+epo	lfn_Latn	Mi admiras vian fervoron.	Me amira tua zelo.
+epo	lfn_Latn	Mi admiras vian fervoron.	Me amira vosa zelo.
+epo	lfn_Latn	Mia edzino ŝatas katojn.	Mea sposa gusta gatos.
+epo	lfn_Latn	Mia fratino lernas Idon.	Mea sore aprende ido.
+epo	lfn_Latn	Mia frato instruas la hebrean.	Mea frate ensenia ivri.
+epo	lfn_Latn	Miaj fontoj estas sekretaj.	Mea fontes es secreta.
 epo	lfn_Latn	Miaj katoj estas miaj infanoj.	Mea gatos es mea enfantes.
 epo	lfn_Latn	Miaj prauloj verkis ĝin.	Mea asendentes ia scrive lo.
 epo	lfn_Latn	Mia kato manĝis olivon.	Mea gato ia come un oliva.
 epo	lfn_Latn	Mia kato ŝategas katarion.	Mea gato ama nepeta.
+epo	lfn_Latn	Mia kontraŭulo malamas hundidojn.	Mea oposor odia canetas.
+epo	lfn_Latn	Mi amas birdojn.	Me ama avias.
+epo	lfn_Latn	Mi amas miajn onklinojn.	Me ama mea tias.
 epo	lfn_Latn	Mi ankoraŭ ne bezonas vin.	Me ancora no nesesa tu.
+epo	lfn_Latn	Mia onklo estas advokato.	Mea tio es un avocato.
+epo	lfn_Latn	Mia patrino estas judo kaj mia patro estas polo.	Mea madre es iudi e mea padre es polsce.
+epo	lfn_Latn	Mia patro estas hebreo kaj mia patrino estas arabino.	Mea padre es iudi e mea madre es arabi.
+epo	lfn_Latn	Mia patro estas judo kaj mia patrino estas arabino.	Mea padre es iudi e mea madre es arabi.
+epo	lfn_Latn	Mia patro estas malsana.	Mea padre es malada.
+epo	lfn_Latn	Mia teamo estas bonega.	Mea ecipo es eselente.
 epo	lfn_Latn	Mia vivo estas eraro.	Mea vive es un era.
+epo	lfn_Latn	Mi ĉiam estis freneza.	Me ia es sempre loco.
+epo	lfn_Latn	Mi difektis homojn.	Me ia nose persones.
 epo	lfn_Latn	Mi diris ion.	Me ia dise alga cosa.
+epo	lfn_Latn	Mi eĉ ne posedas komputilon.	Me an no posese un computador.
 epo	lfn_Latn	Mi estas amorvendisto.	Me es un prostituida.
+epo	lfn_Latn	Mi estas anarkiisto.	Me es un anarciste.
+epo	lfn_Latn	Mi estas atestanto de Jehovo.	Me es un atestor de Iaue.
 epo	lfn_Latn	Mi estas ĉefkuiristo.	Me es un xef de cosina.
+epo	lfn_Latn	Mi estas eksa drogmaniulo.	Me es un drogamanica pasada.
 epo	lfn_Latn	Mi estas fiŝo.	Me es un pex.
 epo	lfn_Latn	Mi estas judo.	Me es iudi.
 epo	lfn_Latn	Mi estas kacomaniulo.	Me es dependente de pixas.
+epo	lfn_Latn	Mi estas kanada civitano.	Me es un sitadan canadian.
 epo	lfn_Latn	Mi estas krokodilo, kiu esperantumas.	Me es un crocodil ci parla esperanto.
+epo	lfn_Latn	Mi estas kvira.	Me es cuer.
 epo	lfn_Latn	Mi estas la edzo de Tomo.	Me es la om de Tom.
+epo	lfn_Latn	Mi estas malgeja viro.	Me es un om eterosesal.
+epo	lfn_Latn	Mi estas mi.	Me es me.
+epo	lfn_Latn	Mi estas politikisto.	Me es un politiciste.
+epo	lfn_Latn	Mi estas princino.	Me es un prinsesa.
 epo	lfn_Latn	Mi estas prostituito.	Me es un prostituida.
+epo	lfn_Latn	Mi estas putino.	Me es un puta.
+epo	lfn_Latn	Mi estas reĝidino.	Me es un prinsesa.
 epo	lfn_Latn	Mi estas seksflua.	Me es de jenero fluente.
 epo	lfn_Latn	Mi estas sengenra.	Me es ajenero.
+epo	lfn_Latn	Mi estas seruristo.	Me es un clavor.
+epo	lfn_Latn	Mi estas sklavino.	Me es un sclavo.
+epo	lfn_Latn	Mi estas sklavo.	Me es un sclavo.
 epo	lfn_Latn	Mi estas transgenra.	Me es transjenero.
 epo	lfn_Latn	Mi estas transseksa.	Me es transjenero.
 epo	lfn_Latn	Mi estis idealisto.	Me ia es un idealiste.
+epo	lfn_Latn	Mi estis krimulino.	Me ia es un criminor.
+epo	lfn_Latn	Mi estis murdita.	Me ia deveni asasinada.
 epo	lfn_Latn	Mi estus memorinta vian rideton.	Me ia ta recorda tua surie.
+epo	lfn_Latn	Mi forlasas ĉi tiun grupon.	Me parti de esta grupo.
+epo	lfn_Latn	Mi fumas kanabon.	Me fumi canaba.
+epo	lfn_Latn	Mi konas vian pasvorton.	Me sabe tua clave.
+epo	lfn_Latn	Mi lernis la germanan.	Me ia aprende deutx.
+epo	lfn_Latn	Mi loĝas en Bagdado.	Me abita en Bagdad.
 epo	lfn_Latn	Mi manĝas tiel, kiel mi manĝas.	Me come como me come.
+epo	lfn_Latn	Mi manĝis psiĥedelajn fungojn.	Me ia consuma psilosibes.
 epo	lfn_Latn	Mi meritas bonajn aferojn.	Me merita bon cosas.
+epo	lfn_Latn	Mi mortigis Tomon.	Me ia mata Tom.
 epo	lfn_Latn	Mi ne ĉarmas!	Me no es dulse!
+epo	lfn_Latn	Mi ne estas senvalora.	Me no es sin valua.
+epo	lfn_Latn	"Mi ne havas ideologion." - "Kaj mi ne havas akĉenton."	"Me no ave un ideolojia." "E me no ave un dialeto fonetical."
+epo	lfn_Latn	Mi ne havas poŝojn.	Me no ave poxes.
+epo	lfn_Latn	Mi neniam studos Esperanton.	Me va studia nunca esperanto.
 epo	lfn_Latn	Mi ne ŝatis ĉi tiun muzeon.	Me no ia gusta esta museo.
+epo	lfn_Latn	Mi ne scias, Tomo.	Me no sabe, Tom.
+epo	lfn_Latn	Mi ne sciis, ke li estas anarkiisto.	Me no ia sabe ce el es un anarciste.
 epo	lfn_Latn	Mi ne volas ilin.	Me no vole los.
+epo	lfn_Latn	Mi ne volas multe.	Me no vole multe.
+epo	lfn_Latn	Mi ne volas multon.	Me no vole multe.
+epo	lfn_Latn	Mi ofte laboras kun Tomo.	Me labora frecuente con Tom.
 epo	lfn_Latn	Mi parolas Idon.	Me parla ido.
 epo	lfn_Latn	Mi pensas, do mi drinkas.	Me pensa, donce me bevi.
 epo	lfn_Latn	Mi ŝatas nomojn.	Me gusta nomes.
@@ -177,21 +392,58 @@ epo	lfn_Latn	Mi ŝatas vortojn.	Me gusta parolas.
 epo	lfn_Latn	Mi ŝategas nomojn.	Me ama nomes.
 epo	lfn_Latn	Mi ŝategas vortojn.	Me ama parolas.
 epo	lfn_Latn	Mi scias, ke Tomo scias, ke mi scias.	Me sabe ce Tom sabe ce me sabe.
+epo	lfn_Latn	Mi scias vian pasvorton.	Me sabe tua clave.
 epo	lfn_Latn	Mi studas la rusan.	Me studia rusce.
+epo	lfn_Latn	Mi studas Tokiponon.	Me studia Toki Pona.
+epo	lfn_Latn	Mi timas fari tion.	Me teme fa acel.
 epo	lfn_Latn	Mi timas, ke Tomo ne havos duan okazon.	Me teme ce Tom no va ave un oportun du.
 epo	lfn_Latn	Mi timas, ke Tomo ne havos duan oportunon.	Me teme ce Tom no va ave un oportun du.
+epo	lfn_Latn	Mi uzu tiun lingvon.	Me ta debe usa acel lingua.
+epo	lfn_Latn	Mi verkas fantaziajn verkojn.	Me scrive fantasia.
+epo	lfn_Latn	Mi vidis geometredan raŭpon.	Me ia vide un eruga de jeometrido.
+epo	lfn_Latn	Mi vidis ŝarkojn.	Me ia vide selacos.
+epo	lfn_Latn	Mi volas doni.	Me vole dona.
 epo	lfn_Latn	Mi volas morti!	Me vole mori!
+epo	lfn_Latn	Mojŝe estas pollanda judo.	Moixe es un iudi polsce.
+epo	lfn_Latn	Moseo estas pollanda judo.	Moixe es un iudi polsce.
+epo	lfn_Latn	Moseo estas sefardo.	Moxe es un sefardi.
+epo	lfn_Latn	Muzikistoj estas amorvekaj.	Musicistes es sesosa.
+epo	lfn_Latn	Naciismo estas cerba malsano.	Nasionalisme es un maladia serebral.
+epo	lfn_Latn	Naciismo estas malsano cerba.	Nasionalisme es un maladia serebral.
+epo	lfn_Latn	Ne ĉiuj elfoj estas kruelaj.	No tota la elfos es basa.
+epo	lfn_Latn	Ne ĉiuj judoj estas religiaj.	No tota iudis es relijiosa.
 epo	lfn_Latn	Neniam ŝanĝu venkantan teamon.	Ta ce on no cambia un ecipo vinsor.
+epo	lfn_Latn	Nenio estas vere originala.	No cosa es vera orijinal.
+epo	lfn_Latn	Neniu havas animon.	No person ave un alma.
+epo	lfn_Latn	Neniu iam ajn mensogis interrete.	No person ia menti en la interede a cualce ves.
+epo	lfn_Latn	Neniu lingvo estas supera ol alia.	No lingua es superior a cualce otra.
 epo	lfn_Latn	Neniu sciis, ke sansistemo povus esti tiel komplika.	No person ia sabe ce aida medical ta pote es tan complicada.
+epo	lfn_Latn	Ne pace oni venkis la naziojn.	On no ia defeta pasosa la nazis.
+epo	lfn_Latn	Neregebliĝu.	Deveni nongovernable.
+epo	lfn_Latn	Ni abolu laboron.	Ta ce nos aboli labora.
 epo	lfn_Latn	Niaj prauloj verkis ĝin.	Nosa asendentes ia scrive lo.
 epo	lfn_Latn	Nia komuna lingvo estas la franca.	Nosa lingua comun es franses.
+epo	lfn_Latn	Ni ĉiuj estas simioj.	Tota nos es simias.
+epo	lfn_Latn	Ni ĉiuj estas teranoj.	Tota nos es teranes.
+epo	lfn_Latn	Ni deziras pacon.	Nos desira pas.
+epo	lfn_Latn	Ni estas fieraj pri vi.	Nos es orgulosa de tu.
+epo	lfn_Latn	Ni estas fieraj pri vi.	Nos es orgulosa de vos.
+epo	lfn_Latn	Ni estas hebreoj.	Nos es iudis.
+epo	lfn_Latn	Ni estas judoj.	Nos es iudis.
 epo	lfn_Latn	Ni estas komunistinoj.	Nos es comunistes.
 epo	lfn_Latn	Ni estas komunistoj.	Nos es comunistes.
+epo	lfn_Latn	Ni estas sendependa nacio.	Nos es un nasion nondependente.
 epo	lfn_Latn	Ni estas tro malfortaj.	Nos es tro debil.
 epo	lfn_Latn	Ni estis herooj.	Nos ia es eroes.
 epo	lfn_Latn	Ni faros tion, kiam Tomo foriros.	Nos va fa lo cuando Tom parti.
 epo	lfn_Latn	Nigrulaj vivoj gravas.	Vives negra importa.
+epo	lfn_Latn	Ni havas la saman nomon.	Nos ave la mesma nom.
 epo	lfn_Latn	Ni kunloĝos.	Nos va coabita.
+epo	lfn_Latn	Ni ne plu povas silenti.	Nos no pote plu silenti.
+epo	lfn_Latn	Ni ne povas fidi la policon.	Nos no pote fida la polisia.
+epo	lfn_Latn	Ni ne volas militon.	Nos no vole un gera.
+epo	lfn_Latn	Ni protektas nin.	Nos proteje nos.
+epo	lfn_Latn	Ni savu la medion!	Ta ce nos salva la ambiente!
 epo	lfn_Latn	Ni vizitos Tomon en la psikiatria departamento de la malsanulejo. Ĉu vi volas iri kun ni?	Nos va visita Tom en la sala psiciatrica. Esce tu vole vade con nos?
 epo	lfn_Latn	Norda Koreio estas feŭda ŝtato.	Txoson es un stato feudal.
 epo	lfn_Latn	Oni diras, ke Tomo estas tre inteligenta.	On dise ce Tom es multe astuta.
@@ -200,41 +452,110 @@ epo	lfn_Latn	Oni ne povis dependi de Tomo.	On no ia pote depende de Tom.
 epo	lfn_Latn	Oro estas mono, ĉio alia estas kredito.	Oro es mone, cada cosa otra es credito.
 epo	lfn_Latn	Palestinanaj vivoj gravas.	Vives filastini importa.
 epo	lfn_Latn	Parizo estas absolute spektinda urbo.	Paris es un site cual, sin duta, merita es videda.
+epo	lfn_Latn	Parolu, Davido.	Parla, David.
 epo	lfn_Latn	Partnerŝanĝantoj kaj svingdancantoj estas malsamaj.	Intercambiores e dansores suing es diferente.
 epo	lfn_Latn	Petegante ŝin, la afliktito kriis: "Vivante, flugante, kiel mi doloras vin? Vi ja doloras min, premante miajn flugilojn. Ho, lasu min! Ankaŭ mi estas filino de Dio!"	Suplicante a el, la doleda ia cria: "Vivente, volante, como me dole tu? Tu dole si me, presante mea alas. Ai, relasa me! Ance me es un fia de Dio!"
+epo	lfn_Latn	Pli bona mondo eblas.	Un mundo plu bon es posible.
 epo	lfn_Latn	Plu fumu.	Fuma plu.
+epo	lfn_Latn	Policistoj mensogas.	Polisiores menti.
+epo	lfn_Latn	Pollando ne povas en kosmon.	Polsca no pote a en spasio.
+epo	lfn_Latn	Porkoj estas inteligentaj bestoj.	Porcos es animales intelijente.
 epo	lfn_Latn	Por la projekto Tatoeba, la frazoj, kiujn mi kontribuas en lingvoj krom la portugala, estas senutilaj, eĉ post korektado de denaskaj parolantoj.	Per la projeta Tatoeba, la frases con cual me contribui en linguas diferente de portuges es nonusable, an si parlores nativa ia coreti los.
+epo	lfn_Latn	Posedo ne estas laboro.	La posese de cosas no es un labora.
+epo	lfn_Latn	Principoj gravas.	Prinsipes importa.
+epo	lfn_Latn	Progreso ne estas neevitebla.	Progresa no es nonevitable.
+epo	lfn_Latn	Protektu transgenrajn infanojn.	Proteje xices transjenero.
+epo	lfn_Latn	Reklamoj fekas en vian kapon.	Anunsias merdi en tua testa.
+epo	lfn_Latn	Religio estas komika afero.	Relijio es un cosa comica.
+epo	lfn_Latn	Religio estas kurioza afero.	Relijio es un cosa strana.
 epo	lfn_Latn	Rezulte de la ridindeco de tiuj bultenoj kaj la banaleco de la ceteraj ĉefaj programoj, la valencianoj turnas la dorson al sia televido.	Como resulta de la asurdia de esta revistetas e la cualia comun de la otra programes xef, la valencianes dorsi sua televisa.
+epo	lfn_Latn	Roger Waters estas imperiisto.	Roger Waters es un imperaliste.
 epo	lfn_Latn	Ŝajnsurprizo estas lia kutimo.	Sua truco es finje ce el es surprendeda.
+epo	lfn_Latn	Samio estis en Egiptio.	Sami ia es en Misre.
 epo	lfn_Latn	Samio fekis.	Sami ia caca.
+epo	lfn_Latn	Samio havas simion.	Sami ave un simia.
 epo	lfn_Latn	Samio kaj Lajla renkontis paron da partnerŝanĝantoj.	Sami e Layla ia encontra un duple de intercambiores.
+epo	lfn_Latn	Samseksemo estas natura.	Omosesalia es natural.
+epo	lfn_Latn	Sekslaboro estas peno.	Labora sesal es asiduia.
+epo	lfn_Latn	Sekslaboro estas streĉa laboro.	Labora sesal es asiduia.
+epo	lfn_Latn	Sekvu vian vojon.	Segue tua via.
+epo	lfn_Latn	Senhejmaj homoj estas niaj najbaroj.	Persones sin casa es nosa visinas.
 epo	lfn_Latn	Se oni atentas pri unu eraro, oni plej ofte pretervidas la aliajn.	Si on atende un era, on multe frecuente no vide la otra eras.
+epo	lfn_Latn	Ŝia korpo kuŝis sur la tero.	Sua corpo ia es sur la tera.
+epo	lfn_Latn	Ŝia patro malamas islamanojn.	Sua padre odia muslimes.
 epo	lfn_Latn	Ŝi estas esperantisto.	El es un esperantiste.
 epo	lfn_Latn	Ŝi estas kun vi.	El es con tu.
+epo	lfn_Latn	Ŝi estas surda.	El es sorda.
 epo	lfn_Latn	Ŝi kaj ŝia edzino venas.	El e sua sposa veni.
 epo	lfn_Latn	Ŝi kaj ŝia edzino venos.	El e sua sposa va veni.
 epo	lfn_Latn	Ŝi povas fari tion.	El pote fa lo.
+epo	lfn_Latn	Snejp mortigas Zomburdon.	Snape mata Dumbledore.
 epo	lfn_Latn	Stalino estis malbona homo.	Stalin ia es un mal person.
+epo	lfn_Latn	Stalino estis monstro.	Stalin ia es un monstro.
 epo	lfn_Latn	Ŝtatoj ne havas rajtojn.	Statos no ave diretos.
+epo	lfn_Latn	Strigo estas birdo.	Un buo es un avia.
+epo	lfn_Latn	Superman povas kurbigi feron.	Superman pote curvi fero.
 epo	lfn_Latn	Tie estas ankaŭ du statuoj de Hadriano, kaj nemalproksime de la statuoj estas traborita ŝtono, al kiu judoj ĉiujare iras, oleas ĝin, ĝeme lamentas, ŝiras siajn vestaĵojn kaj tiel foriras.	On ave ala ance du scultas de Hadriano, e no distante de aceles es un petra perforada a cual iudis vade a cada anio per unje lo, lamenta con jemis, lasera sua vestes e parti tal.
+epo	lfn_Latn	Tio estas tofuo.	Esta es tofu.
 epo	lfn_Latn	Tio ne estas tre bona ekzemplo.	Esta no es un esemplo multe bon.
 epo	lfn_Latn	Tio povus okazi ĉie ajn.	Lo ta pote aveni en cualce loca.
+epo	lfn_Latn	Tio solvas ĉion.	Esta solve tota cosas.
+epo	lfn_Latn	Tiuj aŭtoj estas verdaj.	Acel autos es verde.
 epo	lfn_Latn	Tokio ŝajnas esti ricevinta la mesaĝon de Vaŝingtono.	Lo pare ce Tokyo ia reseta la mesaje de Washington.
 epo	lfn_Latn	Tomo ankoraŭ uzas drogojn.	Tom usa ancora drogas.
+epo	lfn_Latn	Tomo bezonas kison.	Tom nesesa un besa.
 epo	lfn_Latn	Tomo dezajnas robojn.	Tom desinia robas.
 epo	lfn_Latn	Tomo diris, ke li ne dormos sur la planko.	Tom ia dise ce el no va dormi sur la solo.
+epo	lfn_Latn	Tomo estas afabla al bestoj.	Tom es compatiosa a animales.
 epo	lfn_Latn	Tomo estas anarkiisto.	Tom es un anarciste.
 epo	lfn_Latn	Tomo estas ano de mia loĝkooperativo.	Tom es un membro de mea cooperante de abita.
+epo	lfn_Latn	Tomo estas aŭtoritatisto.	Tom es un autoritar.
 epo	lfn_Latn	Tomo estas bona poeto.	Tom es un bon poesiste.
+epo	lfn_Latn	Tomo estas bruto.	Tom es un bruta.
 epo	lfn_Latn	Tomo estas ĉiam obstina.	Tom es sempre mulin.
 epo	lfn_Latn	Tomo estas fundamentisto.	Tom es un fundaliste.
+epo	lfn_Latn	Tomo estas gangstero.	Tom es un gangster.
+epo	lfn_Latn	Tomo estas gnomo.	Tom es un nano.
+epo	lfn_Latn	Tomo estas golemo.	Tom es un golem.
+epo	lfn_Latn	Tomo estas la barbiro de Johano.	Tom es la capelor de John.
+epo	lfn_Latn	Tomo estas la duko de Bostono.	Tom es la duxe de Boston.
+epo	lfn_Latn	Tomo estas la frizisto de Johano.	Tom es la capelor de John.
+epo	lfn_Latn	Tomo estas la korpogardisto de Johano.	Tom es la gardacorpo de John.
+epo	lfn_Latn	Tomo estas lia amanto.	Tom es sua amor.
+epo	lfn_Latn	Tomo estas lingvisto.	Tom es un linguiste.
 epo	lfn_Latn	Tomo estas lupfantomo.	Tom es un om-lupo.
 epo	lfn_Latn	Tomo estas mia geedzo, kaj mi estas ria edzo.	Tom es mea spos e me es sua sposo.
+epo	lfn_Latn	Tomo estas mia plej ŝatata bufedisto.	Tom es mea bariste favoreda.
+epo	lfn_Latn	Tomo estas ogro.	Tom es un ogro.
+epo	lfn_Latn	Tomo estas ortodoksa pastro.	Tom es un pope.
+epo	lfn_Latn	Tomo estas pagana pastro.	Tom es un prete pagan.
+epo	lfn_Latn	Tomo estas retteroristo.	Tom es un teroriste dijital.
+epo	lfn_Latn	Tomo estas ŝia amanto.	Tom es sua amor.
+epo	lfn_Latn	Tomo estas transgenra viro.	Tom es un om transjenero.
+epo	lfn_Latn	Tomo estas transgenruliĉo.	Tom es un om transjenero.
+epo	lfn_Latn	Tomo estas transseksa viro.	Tom es un om transjenero.
+epo	lfn_Latn	Tomo estas transseksuliĉo.	Tom es un om transjenero.
+epo	lfn_Latn	Tomo estas transuliĉo.	Tom es un om transjenero.
+epo	lfn_Latn	Tomo estas zombio.	Tom es un zombi.
 epo	lfn_Latn	Tomo estis golemo.	Tom ia es un golem.
+epo	lfn_Latn	Tomo fumas krakkokainon.	Tom fuma crac.
+epo	lfn_Latn	Tomo furzis.	Tom ia peta.
+epo	lfn_Latn	Tomo havas du nepojn.	Tom ave du netos.
+epo	lfn_Latn	Tomo havas du patrinojn.	Tom ave du madres.
+epo	lfn_Latn	Tomo havas profundan psikan traŭmaton.	Tom es profonda traumada.
+epo	lfn_Latn	Tomo havas profundan traŭmaton.	Tom es profonda traumada.
 epo	lfn_Latn	Tomo instruas la francan al infanoj.	Tom ensenia franses a enfantes.
 epo	lfn_Latn	Tomo instruas la francan al la infanoj.	Tom ensenia franses a la enfantes.
 epo	lfn_Latn	Tomo kaj lia edzino ŝatas ĥemion.	Tom e sua spos gusta cimica.
 epo	lfn_Latn	Tomo kaj lia edzo ŝatas ĥemion.	Tom e sua spos gusta cimica.
+epo	lfn_Latn	Tomo kaj mi ne estas amikoj.	Tom e me no es amis.
+epo	lfn_Latn	Tomo kaj mi ne estas solaj.	Tom e me no es solitar.
+epo	lfn_Latn	Tomo lernas ajkidon.	Tom aprende aicido.
+epo	lfn_Latn	Tomo lernas ĵudon.	Tom aprende judo.
+epo	lfn_Latn	Tomo lernas karateon.	Tom aprende carate.
+epo	lfn_Latn	Tomo lernas kungfuon.	Tom aprende cungfu.
+epo	lfn_Latn	Tomo manĝis bagelon.	Tom ia come un bagel.
+epo	lfn_Latn	Tomo mortigis ogron.	Tom ia mata un ogro.
 epo	lfn_Latn	Tomo ne estas anarkiisto.	Tom no es un anarciste.
 epo	lfn_Latn	Tomo ne estas hebreo.	Tom no es un iudi.
 epo	lfn_Latn	Tomo ne estas kapitalisto.	Tom no es un capitaliste.
@@ -247,15 +568,35 @@ epo	lfn_Latn	Tomo ne estis malpura.	Tom no ia es susia.
 epo	lfn_Latn	Tomo ne manĝis.	Tom no ia come.
 epo	lfn_Latn	Tomo ne tagmanĝas.	Tom no come la come media.
 epo	lfn_Latn	Tomo parolas la rusan.	Tom parla rusce.
+epo	lfn_Latn	Tomo ŝtelis ls botojn de la ogro.	Tom ia fura la botas de la ogro.
 epo	lfn_Latn	Tomo volas, ke ĉiuj ŝatu lin.	Tom vole ce tota de mundo gusta el.
 epo	lfn_Latn	Tomo volas plaĉi al ĉiuj.	Tom vole ce tota de mundo gusta el.
+epo	lfn_Latn	Transgenraj rajtoj estas homaj rajtoj.	Diretos transjenero es diretos umana.
+epo	lfn_Latn	Transgenraj virinoj estas virinoj.	Femes transjenero es femes.
+epo	lfn_Latn	Transgenraj viroj estas viroj.	Omes transjenero es omes.
+epo	lfn_Latn	Transseksaj virinoj estas virinoj.	Femes transjenero es femes.
+epo	lfn_Latn	Transseksaj viroj estas viroj.	Omes transjenero es omes.
 epo	lfn_Latn	Usono ne estas la sola imperiisma potenco.	SUA no es la sola potiosa imperaliste.
+epo	lfn_Latn	Via filo estas gangstero.	Tua fio es un gangster.
+epo	lfn_Latn	Via filo estas gangstero.	Vosa fio es un gangster.
 epo	lfn_Latn	Via magio ne efikos ĉi tie.	Tua majia no va funsiona asi.
+epo	lfn_Latn	Vi amas lin.	Tu ama el.
 epo	lfn_Latn	Via sorĉo ne efikos ĉi tie.	Tua majia no va funsiona asi.
+epo	lfn_Latn	Vi estas amikoj, ĉu ne?	Vos es amis, no?
+epo	lfn_Latn	"Vi estas bela," diris la kakatuo.	"Tu es bela," ia dise la cacatu.
 epo	lfn_Latn	Vi estas heroo, Tomo.	Tu es un eroe, Tom.
+epo	lfn_Latn	Vi estas mia koramiko.	Tu es mea ami de cor.
+epo	lfn_Latn	Vi estas sofisto.	Tu es un sofiste.
 epo	lfn_Latn	Vi estas ŝtelisto, Tomo.	Tu es un furor, Tom.
 epo	lfn_Latn	Vi havas neniom da memestimo.	Tu ave no autorespeta.
 epo	lfn_Latn	Vi havas neniom da memfido.	Tu ave no autofida.
+epo	lfn_Latn	Vi ne estas mia edzino.	Tu no es mea sposa.
+epo	lfn_Latn	Vi ne havas multan monon.	Tu no ave multe mone.
+epo	lfn_Latn	Vi ne konas Tomon.	Tu no conose Tom.
+epo	lfn_Latn	Vi ne konas Tomon.	Vos no conose Tom.
+epo	lfn_Latn	Vi vidas arbon.	Tu vide un arbor.
+epo	lfn_Latn	Vi vidas arbon.	Vos vide un arbor.
+epo	lfn_Latn	Vivu Ukrainio!	Vive Ucraina!
 epo	lfn_Latn	Zamenhof estis aŝkenaza hebreo.	Zamenhof ia es un axcenazi.
 epo	lfn_Latn	Zamenhof estis aŝkenaza hebreo.	Zamenhof ia es un iudi axcenazi.
 epo	lfn_Latn	Zamenhof estis aŝkenaza judo.	Zamenhof ia es un axcenazi.

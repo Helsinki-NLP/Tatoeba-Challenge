@@ -39,6 +39,8 @@ ita	ukr	Abbiamo un collega in Spagna.	У нас є колега в Іспані�
 ita	ukr	Abbiamo un'epidemia.	У нас епідемія.
 ita	ukr	Abbiamo un gatto bianco.	Ми маємо білого кота.
 ita	ukr	Abbiamo un gatto e un cane.	В нас є кішка та собака.
+ita	ukr	Abbiamo un ippopotamo.	У нас є бегемот.
+ita	ukr	Abbiamo un ippopotamo.	У нас є гіпопотам.
 ita	ukr	Abbiamo un problema molto grave.	У нас дуже серйозна проблема.
 ita	ukr	Abbiamo un problema molto serio.	У нас дуже серйозна проблема.
 ita	ukr	Abbiamo visto tutto.	Ми все бачили.
@@ -108,6 +110,8 @@ ita	ukr	A lei piace il suo lavoro?	Вам до вподоби ваша робо�
 ita	ukr	A lei piace leggere libri.	Вона любить читати книжки.
 ita	ukr	Alla donna piace giocare a tennis.	Жінка любить грать в теніс.
 ita	ukr	Alla maggior parte degli americani piacciono gli hamburger.	Більшість американців люблять гамбургери.
+ita	ukr	Alle donne piacciono le rose.	Жінкам подобаються троянди.
+ita	ukr	Alle donne piacciono le rose.	Жінки люблять троянди.
 ita	ukr	Alle donne piace il tè.	Жінки люблять чай.
 ita	ukr	Alleluia!	Алілуя!
 ita	ukr	All'improvviso un orso apparve davanti a noi.	Раптом перед нами з'явився ведмідь.
@@ -473,6 +477,7 @@ ita	ukr	Bevi il tuo tè, Tom.	Пий свій чай, Томе.
 ita	ukr	Bevo caffè dopo cena.	Після вечері я п'ю каву.
 ita	ukr	Bevo caffè.	Я п’ю каву.
 ita	ukr	Bevo del latte.	Я п'ю молоко.
+ita	ukr	Bevo molto caffè.	Я п'ю багато кави.
 ita	ukr	Bevono molta limonata.	Вони п'ють багато лимонаду.
 ita	ukr	Bevo solo acqua.	Я п'ю лише воду.
 ita	ukr	Bevo spesso del tè.	Я часто п'ю чай.
@@ -567,6 +572,7 @@ ita	ukr	C'era una chiesa qui una volta.	Колись тут була церкв�
 ita	ukr	C'era una cosa simile?	Чи буває таке?
 ita	ukr	Cercai una risposta conveniente.	Я намагалася знайти слушну відповідь.
 ita	ukr	Certo, ci sarò.	Звичайно ж, я там буду.
+ita	ukr	Certo, tesoro.	Звісно, любий.
 ita	ukr	Certo!	Звичайно!
 ita	ukr	C'è sempre della speranza.	Надія є завжди.
 ita	ukr	C'è stata un'esplosione.	Був вибух.
@@ -772,6 +778,7 @@ ita	ukr	Ciao, sono Nancy.	Привіт, я Ненсі.
 ita	ukr	Ciao, sono Tom.	Привіт, я Том.
 ita	ukr	Ciao!	Привіт!
 ita	ukr	Ci arresteranno?	Вони збираються нас заарештувати?
+ita	ukr	Ci aspetti, Tom.	Зачекайте на нас, Томе.
 ita	ukr	Ci fidavamo di loro.	Ми їм довіряли.
 ita	ukr	Ci fu un'esplosione.	Був вибух.
 ita	ukr	Ci ha mostrato la foto di sua madre.	Вона показала нам фотографію своєї мами.
@@ -814,6 +821,7 @@ ita	ukr	Ci vediamo giovedì!	Побачимося у четвер!
 ita	ukr	Ci vedremo mercoledì prossimo.	Побачимося наступної середи.
 ita	ukr	Ci vogliono 10 minuti per andare alla stazione.	До вокзалу 10 хвилин пішки.
 ita	ukr	Ci volle mezz'ora.	Це зайняло півгодини.
+ita	ukr	Colazione, pranzo o cena?	Сніданок, обід чи вечеря?
 ita	ukr	Come chiamano questa ragazza?	Як звуть цю дівчину?
 ita	ukr	Come ci ha trovati Tom?	Як Том нас знайшов?
 ita	ukr	Com'è cominciato tutto questo?	Як це все почалося?
@@ -1102,6 +1110,7 @@ ita	ukr	Dio esiste, ma ha scordato la password.	Бог існує, але він
 ita	ukr	Dio ha creato il mondo in sei giorni.	Бог створив світ за шість днів.
 ita	ukr	Dio ha creato il mondo.	Бог створив світ.
 ita	ukr	Dio, odio il mio impiego.	О боже, я ненавиджу свою роботу!
+ita	ukr	Dio vive per sempre.	Бог живе вічно.
 ita	ukr	Di quale libro avete bisogno?	Яка вам потрібна книжка?
 ita	ukr	Di quale libro ha bisogno?	Яка вам потрібна книжка?
 ita	ukr	Di quale libro hai bisogno?	Яка тобі потрібна книжка?
@@ -1144,6 +1153,8 @@ ita	ukr	Dottore, mi fa male lo stomaco.	Лікарю, мені болить жи
 ita	ukr	Dove abita Tom?	Де живе Том?
 ita	ukr	Dove abita Tom?	Де Том живе?
 ita	ukr	Dov'è andato Tom?	Куди подівся Том?
+ita	ukr	Dove e quando?	Де й коли?
+ita	ukr	Dove e quando?	Де та коли?
 ita	ukr	Dove è tuo fratello?	Де є твій брат?
 ita	ukr	Dove fa colazione Tom?	Де Том снідає?
 ita	ukr	Dov'è il bagno?	Де туалет?
@@ -1313,6 +1324,8 @@ ita	ukr	È ancora autunno.	Знову осінь.
 ita	ukr	È ancora in piedi.	Він все ще стоїть.
 ita	ukr	È ancora lì?	Ви ще там?
 ita	ukr	È andata a fare una passeggiata.	Вона пішла прогулятися.
+ita	ukr	È andato alla pizzeria per aiutare suo padre.	Він пішов до піцерії допомогти батькові.
+ita	ukr	È andato alla pizzeria per aiutare suo padre.	Він пішов до піцерії, щоб допомогти батьку.
 ita	ukr	È a Parigi.	Він у Парижі.
 ita	ukr	È appena arrivato qui in taxi.	Він щойно приїхав сюди на таксі.
 ita	ukr	È appena partita.	Вона щойно вийшла.
@@ -1610,6 +1623,7 @@ ita	ukr	È tutto quello che so.	Це все, що я знаю.
 ita	ukr	È una buona domanda.	Це добре запитання.
 ita	ukr	È una buona domanda.	Це добре питання.
 ita	ukr	È una buona scuola.	Це хороша школа.
+ita	ukr	È una canzone famosa.	Це знаменита пісня.
 ita	ukr	È una canzone.	Це пісня.
 ita	ukr	È un'accusa molto grave.	Це дуже серйозне звинувачення.
 ita	ukr	È una chiesa.	Це церква.
@@ -1721,6 +1735,7 @@ ita	ukr	Fatemi vedere la vostra foto.	Покажіть мені вашу фот�
 ita	ukr	Febbraio è il secondo mese dell'anno.	Лютий — другий місяць року.
 ita	ukr	Feci cantare Tom.	Я примусив Тома співати.
 ita	ukr	Felice Natale!	Веселого Різдва!
+ita	ukr	Felice venerdì!	З п'ятницею!
 ita	ukr	Fermiamoci e facciamo una pausa.	Зупинімося та перепочиньмо.
 ita	ukr	Festeggiamo.	Відсвяткуймо.
 ita	ukr	Festeggiamo.	Давайте святкувати.
@@ -1770,6 +1785,7 @@ ita	ukr	Gioco a football americano quasi ogni giorno.	Я граю в амери�
 ita	ukr	Giusto!	Вірно!
 ita	ukr	Gli alberi sono grandi.	Дерева великі.
 ita	ukr	Gli alberi sono verdi.	Дерева зелені.
+ita	ukr	Gli animali hanno una coscienza?	У тварин є свідомість?
 ita	ukr	Gli antichi egizi costruirono una civiltà molto avanzata.	Давні єгиптяни створили дуже розвинену цивілізацію.
 ita	ukr	Gli consigliò di diventare un insegnante.	Вона порадила йому стати вчителем.
 ita	ukr	Gli consigliò di diventare un professore.	Вона порадила йому стати вчителем.
@@ -1793,8 +1809,8 @@ ita	ukr	Gli occhi di Tom si sono aperti.	Очі Тома розплющилис�
 ita	ukr	Gli orecchioni sono una malattia infettiva.	Свинка — інфекційне захворювання.
 ita	ukr	Gli ospedali sono molto costosi.	Лікарні дуже дорогі.
 ita	ukr	Gli ospiti arrivavano a gruppi di due o tre.	Гості прибували по двоє і троє.
-ita	ukr	Gli piacciono le arance?	Він любить апельсини?
 ita	ukr	Gli piacciono le arance.	Він любить апельсини.
+ita	ukr	Gli piacciono le arance?	Він любить апельсини?
 ita	ukr	Gli piace leggere i giornali.	Він любить читати газети.
 ita	ukr	Gli piace lo sport.	Він любить спорт.
 ita	ukr	Gli piace molto mangiare.	Він дуже полюбляє поїсти.
@@ -1963,8 +1979,8 @@ ita	ukr	Hai un piano?	У тебе є план?
 ita	ukr	Hai un po' di gesso?	У тебе є крейда?
 ita	ukr	Hai un telefono?	Маєш телефон?
 ita	ukr	Hai un telefono.	Ти маєш телефон.
-ita	ukr	Hai un telefono?	У тебе є телефон?
 ita	ukr	Hai un telefono.	У тебе є телефон.
+ita	ukr	Hai un telefono?	У тебе є телефон?
 ita	ukr	Hai un violino?	У тебе є скрипка?
 ita	ukr	Hai visto la televisione ieri sera?	Ти вчора ввечері дивився телевізор?
 ita	ukr	Hai visto l'eclisse ieri?	Ти бачив учора затемнення?
@@ -2001,6 +2017,8 @@ ita	ukr	Hanno due figlie.	У них дві дочки.
 ita	ukr	Hanno già letto il giornale di oggi.	Вони вже читали сьогоднішню газету.
 ita	ukr	Hanno insistito perché prendessi parte alla riunione.	Вони наполягали на тому, щоб я був присутній на зборах.
 ita	ukr	Hanno litigato.	Вони посварилися.
+ita	ukr	Hanno mentito riguardo al loro peso.	Вони сбрехали щодо своєї ваги.
+ita	ukr	Hanno mentito sul loro peso.	Вони збрехали про їхню вагу.
 ita	ukr	Hanno perso di nuovo.	Вони знову програли.
 ita	ukr	Hanno preparato degli spaghetti.	Вони зварили спагеті.
 ita	ukr	Hanno rubato la mia idea.	Вони вкрали мою ідею.
@@ -2023,6 +2041,8 @@ ita	ukr	Ha perso Mary.	Він втратив Мері.
 ita	ukr	Ha perso Mary.	Вона втратила Мері.
 ita	ukr	Ha perso.	Ви програли.
 ita	ukr	Ha ragione.	Вона має рацію.
+ita	ukr	Ha ricevuto più di sei milioni di voti.	Він отримав більше шести мільйонів голосів.
+ita	ukr	Ha ricevuto più di sei milioni di voti.	Вона отримала більше шести мільйонів голосів.
 ita	ukr	Ha ringraziato per il regalo.	Вона подякувала за подарунок.
 ita	ukr	Ha risposto ai suoi genitori.	Він відповів батькам.
 ita	ukr	Harry ha solo quarant'anni.	Гаррі лише сорок.
@@ -2062,8 +2082,8 @@ ita	ukr	Ha un libro.	Він має книжку.
 ita	ukr	Ha un libro.	У нього є книжка.
 ita	ukr	Ha un naso lungo.	У нього довгий ніс.
 ita	ukr	Ha un telefono.	Ви маєте телефон.
-ita	ukr	Ha un telefono?	У вас є телефон?
 ita	ukr	Ha un telefono.	У вас є телефон.
+ita	ukr	Ha un telefono?	У вас є телефон?
 ita	ukr	Ha vinto Tom.	Том виграв.
 ita	ukr	Ha vinto Tom.	Том переміг.
 ita	ukr	Ha vinto una medaglia d'argento.	Він виграв срібну медаль.
@@ -2093,6 +2113,7 @@ ita	ukr	Ho avuto un'ottima insegnante!	В мене була пречудова �
 ita	ukr	Ho bevuto il vino.	Я випив вино.
 ita	ukr	Ho bisogno delle chiavi della macchina.	Мені потрібні ключі від машини.
 ita	ukr	Ho bisogno di cinque secondi di pace.	Мені потрібні п'ять секунд спокою.
+ita	ukr	Ho bisogno di insulina.	Мені потрібен інсулін.
 ita	ukr	Ho bisogno di Internet.	Мені потрібен інтернет.
 ita	ukr	Ho bisogno di parlare con Susan.	Мені треба побалакати із Сюзен.
 ita	ukr	Ho bisogno di pesce.	Мені потрібна риба.
@@ -2178,6 +2199,8 @@ ita	ukr	Ho finito con il mio lavoro.	Я закінчив мою роботу.
 ita	ukr	Ho finito di mangiare.	Я доїв.
 ita	ukr	Ho fratelli.	У мене є брати.
 ita	ukr	Ho freddo.	Мені холодно.
+ita	ukr	Ho già aspettato per tre ore.	Я вже три години прочекав.
+ita	ukr	Ho già aspettato per tre ore.	Я вже три години прочекала.
 ita	ukr	Ho già i biglietti.	У мене вже є квитки.
 ita	ukr	Ho già i biglietti.	Я вже маю квитки.
 ita	ukr	Ho già ordinato la pizza.	Я вже замовив піцу.
@@ -2241,6 +2264,7 @@ ita	ukr	Ho perso la mia chiave da qualche parte qui intorno.	Я загубила
 ita	ukr	Ho perso la pazienza.	Я втратила терпіння.
 ita	ukr	Ho perso la speranza.	Я втратив надію.
 ita	ukr	Ho portato del vino.	Я приніс вино.
+ita	ukr	Ho portato il caffè.	Я приніс каву.
 ita	ukr	Ho portato una pizza.	Я приніс піцу.
 ita	ukr	Ho pregato per l'aiuto di Dio.	Я молився богу про поміч.
 ita	ukr	Ho preparato la colazione.	Я приготувала сніданок.
@@ -2261,6 +2285,8 @@ ita	ukr	Ho saltato la colazione.	Я пропустив сніданок.
 ita	ukr	Ho scelto.	Я обрав.
 ita	ukr	Ho scordato il tuo numero di telefono.	Я забув твій номер телефону.
 ita	ukr	Ho scordato.	Я забув.
+ita	ukr	Ho scritto il mio nome sulla sabbia.	Я написав своє ім'я на піску.
+ita	ukr	Ho scritto il mio nome sulla sabbia.	Я написала своє ім'я на піску.
 ita	ukr	Ho scritto una lettera in francese.	Я написав листа французькою.
 ita	ukr	Ho scritto una lettera in francese.	Я написав листа французькою мовою.
 ita	ukr	Ho sentito chiudersi la porta.	Я почув, як зачинилися двері.
@@ -2282,6 +2308,7 @@ ita	ukr	Ho una domanda.	У мене є одне запитання.
 ita	ukr	Ho una fame da lupo.	Я голодний як вовк.
 ita	ukr	Ho una mela.	У мене є яблуко.
 ita	ukr	Ho una nuova amica, e viene dalla Bulgaria.	У мене є нова подруга, і вона з Болгарії.
+ita	ukr	Ho un arco ma non frecce.	У мене є лук, але немає стріл.
 ita	ukr	Ho una spiegazione.	У мене є пояснення.
 ita	ukr	Ho una vicina egiziana.	У мене є сусідка-єгиптянка.
 ita	ukr	Ho una webcam.	У мене є веб-камера.
@@ -2342,6 +2369,7 @@ ita	ukr	Ieri ho parlato con il mio meccanico a proposito del guasto che ho alla 
 ita	ukr	Ieri mia sorella è andata a Kobe.	Моя сестра вчора була в Кобе.
 ita	ukr	I finlandesi parlano il finlandese.	Фіни розмовляють фінською.
 ita	ukr	I fiori sono gialli.	Квіти жовті.
+ita	ukr	I francesi parlano molto velocemente.	Французи дуже швидко розмовляють.
 ita	ukr	I gatti moderni non mangiano i ratti.	Сучасні коти не їдять щурів.
 ita	ukr	I gatti possono vedere al buio.	Коти можуть бачити у темряві.
 ita	ukr	I genitori di Tom sono divorziati.	Батьки Тома розлучені.
@@ -2352,6 +2380,7 @@ ita	ukr	I kiwi costano 3€ al chilo.	Ківі коштують три євро 
 ita	ukr	I kiwi costano 3€ al chilo.	Кілограм ківі коштує три євро.
 ita	ukr	I kiwi costano 3€ al kilo.	Ківі коштують три євро за кілограм.
 ita	ukr	I koala odorano d'eucalipto.	Коали пахнуть евкаліптом.
+ita	ukr	Il 9 maggio si celebra la Giornata dell'Europa in tutti gli Stati membri.	День Європи відзначається 9 травня у всіх країнах-членах.
 ita	ukr	I lamponi sono carissimi.	Малина дуже дорога.
 ita	ukr	Il babbo sarà di ritorno fra pochi giorni.	Тато повернеться за кілька днів.
 ita	ukr	Il bambino sta bene.	З дитиною все гаразд.
@@ -2361,6 +2390,7 @@ ita	ukr	Il caffè è troppo caldo.	Кава загаряча.
 ita	ukr	Il caffè è troppo caldo.	Кава занадто гаряча.
 ita	ukr	Il caffè è troppo forte.	Кава заміцна.
 ita	ukr	Il calcio è lo sport più popolare in Brasile.	Футбол — найпопулярніший вид спорту в Бразилії.
+ita	ukr	Il cambiamento climatico riguarda tutti noi.	Зміна клімату стосується нас усіх.
 ita	ukr	Il campo è coperto di neve.	Поле вкрите снігом.
 ita	ukr	Il Canada ha un clima freddo.	У Канаді холодний клімат.
 ita	ukr	Il cane di Ken è molto grande.	Собака Кена дуже велика.
@@ -2418,6 +2448,8 @@ ita	ukr	Il francese non è la mia lingua madre.	Французька — не м
 ita	ukr	Il fuoco è molto pericoloso.	Вогонь дуже небезпечний.
 ita	ukr	Il gallo canta.	Півень співає.
 ita	ukr	Il gattino stava bevendo del latte sotto il tavolo.	Кошеня пило молоко під столом.
+ita	ukr	Il gatto è sotto la macchina.	Кіт під машиною.
+ita	ukr	Il gatto è sotto la macchina.	Кіт сидить під машиною.
 ita	ukr	Il gatto è sotto la sedia.	Кіт під стільцем.
 ita	ukr	Il gatto insegue lo scoiattolo.	Кіт переслідує білку.
 ita	ukr	Il gatto si stava leccando le zampe.	Кіт лизав свої лапи.
@@ -2509,6 +2541,7 @@ ita	ukr	Il pericolo è passato.	Небезпека минула.
 ita	ukr	Il piano sta funzionando.	План працює.
 ita	ukr	Il pittore morì giovane.	Художник помер молодим.
 ita	ukr	Il poliziotto era ubriaco.	Поліцейський був п'яним.
+ita	ukr	Il popolo unito non sarà mai sconfitto.	Об’єднаний народ ніколи не буде переможений.
 ita	ukr	Il pozzo si è prosciugato.	Колодязь висох.
 ita	ukr	Il pranzo è pronto?	Обід готовий?
 ita	ukr	Il presidente abolì la schiavitù.	Президент скасував рабство.
@@ -2552,10 +2585,13 @@ ita	ukr	Il suo libro è rosso.	Її книжка червона.
 ita	ukr	Il suolo è ricoperto di neve.	Земля вкрита снiгом.
 ita	ukr	Il suo naso è grande.	У нього великий ніс.
 ita	ukr	Il suo nome è molto difficile da ricordare.	Його ім'я дуже складно запам'ятати.
+ita	ukr	Il suo nome è Muhammad.	Його звуть Мухаммед.
+ita	ukr	Il suo nome è Muhammad.	Його ім'я Мухаммед.
 ita	ukr	Il suo valore è triplicato.	Його вартість виросла втричі.
 ita	ukr	Il suo valore è triplicato.	Його вартість потроїлася.
 ita	ukr	Il tavolo è verde.	Стіл зелений.
 ita	ukr	Il taxi ha caricato due passeggeri.	Таксі підібрало двох пасажирів.
+ita	ukr	Il teatro si trova sull'altra sponda del fiume.	Театр розташований на іншому березі річки.
 ita	ukr	Il telefono di Tom è in grado di fare delle fotografie.	Телефон Тома вміє робити фотографії.
 ita	ukr	Il telefono è rosso.	Телефон червоний.
 ita	ukr	Il telefono ora è fuori servizio.	Наразі телефон не працює.
@@ -2577,6 +2613,7 @@ ita	ukr	I maghi usano l'arte dell'illusione.	Фокусники володіют
 ita	ukr	I materiali radioattivi sono pericolosi.	Радіоктивні речовини небезбечні.
 ita	ukr	I miei clienti non si lamentano mai	Мої клієнти ніколи не нарікають.
 ita	ukr	I miei genitori rinnegherebbero mio fratello se scoprissero che è gay.	Батьки відмовилися б від мого брата, якби дізналися, що він ґей.
+ita	ukr	I miei nervi sono al limite.	Мої нерви на межі.
 ita	ukr	I miei occhi non sono grigi.	У мене не сірі очі.
 ita	ukr	I miei pensieri si attaccano alle ragnatele delle strade di Leopoli.	Мої думки липнуть до павутиння львівських вулиць.
 ita	ukr	I miei vestiti sono già asciutti?	Мій одяг вже сухий?
@@ -2721,6 +2758,7 @@ ita	ukr	Io di solito non russo.	Я зазвичай не хроплю.
 ita	ukr	Io disprezzo Tom.	Я презираю Тома.
 ita	ukr	Io dovevo lavorare.	Я мав працювати.
 ita	ukr	Io due giorni fa ho lasciato il mio lavoro.	Два дні тому я звільнився з роботи.
+ita	ukr	Io e i miei figli siamo andati a fare una passeggiata nel bosco.	Ми з дітьми пішли на прогулянку в ліс.
 ita	ukr	Io e lei siamo compagni di classe.	Ми з нею однокласники.
 ita	ukr	Io e lui siamo fratelli.	Ми з ним брати.
 ita	ukr	Io ero aggressiva.	Я була агресивна.
@@ -3016,6 +3054,7 @@ ita	ukr	Io non ne ho la più pallida idea.	Я не маю найменшої у�
 ita	ukr	Io non parlo giapponese.	Я не розмовляю японською.
 ita	ukr	Io non parlo il catalano.	Я не розмовляю каталонською.
 ita	ukr	Io non parlo il lojban.	Я не розмовляю на ложбані.
+ita	ukr	Io non parlo il polacco.	Я не розмовляю польською.
 ita	ukr	Io non parlo inglese.	Я не розмовляю англійською.
 ita	ukr	Io non parlo l'inglese.	Я не розмовляю англійською.
 ita	ukr	Io non parlo lo svedese.	Я не говорю шведською.
@@ -3255,6 +3294,7 @@ ita	ukr	Io sono nato in inverno.	Я народився зимою.
 ita	ukr	Io sono obbediente.	Я слухняний.
 ita	ukr	Io sono onesta.	Я чесна.
 ita	ukr	Io sono onesto.	Я чесний.
+ita	ukr	Io sono ortodossa.	Я православна.
 ita	ukr	Io sono perso.	Я загубився.
 ita	ukr	Io sono più giovane di te.	Я молодша від тебе.
 ita	ukr	Io sono piuttosto ricca.	Я доволі багата.
@@ -3460,6 +3500,7 @@ ita	ukr	Io voterò per Tom.	Я проголосую за Тома.
 ita	ukr	I panda giganti vivono solamente in Cina.	Гігантські панди живуть лише в Китаї.
 ita	ukr	I panda giganti vivono soltanto in Cina.	Гігантські панди живуть лише в Китаї.
 ita	ukr	I pavimenti di marmo sono belli.	Мармурові підлоги гарні.
+ita	ukr	I pirati non bevono mai acqua.	Пірати ніколи не п'ють воду.
 ita	ukr	I poeti scelgono le migliori parole.	Поети обирають найліпші слова.
 ita	ukr	I prezzi possono cambiare.	Ціни можуть змінитися.
 ita	ukr	I prezzi sono scesi.	Ціни впали.
@@ -3470,13 +3511,17 @@ ita	ukr	Islamabad è la capitale del Pakistan.	Ісламабад — столи
 ita	ukr	I soldi non possono comprare la libertà.	Свободи за гроші не купиш.
 ita	ukr	I soldi non sono tutto.	Гроші — це ще не все.
 ita	ukr	I suoi consigli sono sempre molto sensati.	Його поради завжди дуже раціональні.
+ita	ukr	I suoi genitori erano davvero religiosi.	Його батьки були дуже набожні.
+ita	ukr	I suoi genitori erano davvero religiosi.	Його батьки були дуже релігійні.
 ita	ukr	I suoi genitori mi amano.	Його батьки мене обожнюють.
 ita	ukr	I suoi occhi sono scuri.	Вона має темні очі.
 ita	ukr	I terroristi hanno rilasciato gli ostaggi.	Терористи звільнили заручників.
 ita	ukr	I terroristi rilasciarono gli ostaggi.	Терористи відпустили заручників.
 ita	ukr	I terroristi rilasciarono gli ostaggi.	Терористи звільнили заручників.
+ita	ukr	I tifoni sono molto pericolosi.	Тайфуни дуже небезпечні.
 ita	ukr	I treni in Serbia sono terribilmente lenti.	Поїзди в Сербії страшно повільні.
 ita	ukr	"Ivan ha dato l'esame di matematica?" - "Si, l'ha dato e l'ha passato con 10".	«Іван склав іспит з математики?» — «Так, і склав на п’ять».
+ita	ukr	I vulcani sono pericolosi.	Вулкани небезпечні.
 ita	ukr	Jack parla inglese.	Джек розмовляє англійською.
 ita	ukr	Jack parla in inglese.	Джек розмовляє англійською.
 ita	ukr	Jane non è una persona così cattiva.	Джейн не така вже й погана людина.
@@ -3518,17 +3563,21 @@ ita	ukr	La birra è la birra.	Пиво є пиво.
 ita	ukr	La bottiglia è piena d'acqua.	Пляшка наповнена водою.
 ita	ukr	La capitale dei Paesi Bassi è Amsterdam.	Столиця Нідерландів — Амстердам.
 ita	ukr	La capitale dell'Ungheria è Budapest.	Столиця Угорщини — Будапешт.
+ita	ukr	La capitale è al sud.	Столиця розташована на півдні.
 ita	ukr	La casa è in fiamme!	Дім горить!
 ita	ukr	La casa era vuota, tranne che per la presenza di un gatto.	Будинок був пустим, за винятком кота.
 ita	ukr	La casa è rossa.	Будинок червоний.
 ita	ukr	La casa ha un garage?	У будинку є гараж?
 ita	ukr	La casa sta andando a fuoco!	Дім горить!
 ita	ukr	La casa sta bruciando!	Дім горить!
+ita	ukr	La cena è la sera.	Вечеря ввечері.
 ita	ukr	La cena è pronta da mangiare.	Вечеря готова, можна їсти.
 ita	ukr	La cena era molto buona.	Вечеря була дуже добра.
 ita	ukr	La cerimonia era semplice.	Церемонія була простою.
 ita	ukr	La cerimonia è stata semplice.	Церемонія була простою.
 ita	ukr	La cerimonia fu semplice.	Церемонія була простою.
+ita	ukr	La chiesa è là.	Церква там.
+ita	ukr	La chiesa è lì.	Церква там.
 ita	ukr	La chiesa si trova sulla collina sopra la città.	Церква розташована на пагорбі над містом.
 ita	ukr	La Cina è più grande del Giappone.	Китай більший від Японії.
 ita	ukr	La Cina è più grande del Giappone.	Китай більший, ніж Японія.
@@ -3560,6 +3609,7 @@ ita	ukr	La festa era terribile.	Вечірка була жахливою.
 ita	ukr	La festa era veramente noiosa.	Вечірка була насправді нудна.
 ita	ukr	La fine è in vista.	Кінець вже близько.
 ita	ukr	La fine si avvicina.	Кінець вже близько.
+ita	ukr	La fisica non descrive il mondo; descrive ciò che sappiamo del mondo.	Фізика не описує світ, вона описує те, що ми знаємо про світ.
 ita	ukr	La formica era rossa.	Мураха був червоним.
 ita	ukr	La fortuna aiuta gli audaci.	Доля посміхається сміливим.
 ita	ukr	La Francia è in Europa occidentale.	Франція знаходиться в Західній Європі.
@@ -3621,6 +3671,9 @@ ita	ukr	La mia nuova ragazza è cinese.	Моя нова дівчина — ки�
 ita	ukr	La mia penna è nuova.	Моя ручка нова.
 ita	ukr	La mia porta è sempre aperta.	Мої двері завжди відчинені.
 ita	ukr	La mia ragazza è attrice.	Моя дівчина — актриса.
+ita	ukr	La mia ragazza è bella.	Моя дівчина вродлива.
+ita	ukr	La mia ragazza è bella.	Моя дівчина гарна.
+ita	ukr	La mia ragazza è bella.	Моя дівчина красива.
 ita	ukr	La mia ragazza è canadese.	Моя дівчина — канадка.
 ita	ukr	La mia ragazza è un'attrice.	Моя дівчина — актриса.
 ita	ukr	La mia vita è noiosa.	У мене нудне життя.
@@ -3641,7 +3694,9 @@ ita	ukr	La notizia l'ha resa molto triste.	Новина її дуже засму
 ita	ukr	La notte sarà gelida e ventosa.	Ніч буде морозна та вітряна.
 ita	ukr	La patria non si sceglie.	Батьківщину не обирають.
 ita	ukr	La perdita di mia figlia mi ha tolto la voglia di vivere.	Втрата доньки відібрала у мене бажання жити.
+ita	ukr	La pizza è deliziosa.	Піца смачна.
 ita	ukr	La pizza è fredda.	Піца холодна.
+ita	ukr	La pizza è squisita.	Піца смачна.
 ita	ukr	La politica non mi interessa affatto.	Політика мені зовсім не цікава.
 ita	ukr	La polizia le arrestò.	Поліція їх заарештувала.
 ita	ukr	La polizia le ha arrestate.	Поліція їх заарештувала.
@@ -3652,6 +3707,7 @@ ita	ukr	La porta è sempre aperta.	Двері завжди відчинені.
 ita	ukr	La porta sarà aperta.	Двері будуть відчинені.
 ita	ukr	L'apprendimento delle lingue non finisce mai.	Вичення мови ніколи не завершується.
 ita	ukr	La pratica rende perfetti.	Практика - шлях до досконалості.
+ita	ukr	La prigione è piccola.	В'язниця маленька.
 ita	ukr	La prima a venire fu Jane.	Перша прийшла Джейн.
 ita	ukr	La primavera è nell'aria.	Весна в повітрі.
 ita	ukr	La produzione di questa fabbrica è aumentata del 20%.	Виробництво на цій фабриці збільшилося на 20%.
@@ -3673,7 +3729,9 @@ ita	ukr	La rosa è chiamata la regina dei fiori.	Троянду називают
 ita	ukr	La rosa viene chiamata la regina dei fiori.	Троянду називають королевою квітів.
 ita	ukr	Larry Ewing è sposato.	Ларі Евінг одружений.
 ita	ukr	L'articolo era scritto in francese.	Стаття була написана французькою.
+ita	ukr	La Russia è il paese più grande della Terra.	Росія — найбільша країна на Землі.
 ita	ukr	La salute è più importante della ricchezza.	Здоров'я важливіше багатства.
+ita	ukr	La scacchiera è usata anche per la dama.	Шахівниця використовується і для шашок.
 ita	ukr	La scatola è quasi vuota.	Корбка майже порожня.
 ita	ukr	L'ascensore è fuori servizio.	Ліфт не працює.
 ita	ukr	La scorsa estate siamo andati a Disneyland.	Минулого року ми їздили до Діснейленду.
@@ -3727,6 +3785,7 @@ ita	ukr	L'Australia esporta molta lana.	Австралія експортує б
 ita	ukr	L'Australia non è l'Austria.	Австралія не Австрія.
 ita	ukr	L'Australia non è l'Austria.	Австралія — це не Австрія.
 ita	ukr	L'autista chiese dove andare.	Водій запитав, куди їхати.
+ita	ukr	L'autobus ferma vicino alla biblioteca.	Автобус зупиняється біля бібліотеки.
 ita	ukr	L'autobus parte fra cinque minuti	Автобус відправляється за п'ять хвилин.
 ita	ukr	L'autobus parte tra cinque minuti.	Автобус відправляється за п'ять хвилин.
 ita	ukr	L'auto è gialla.	Машина жовта.
@@ -3795,6 +3854,8 @@ ita	ukr	Le due lingue hanno molto in comune.	У цих двох мов є баг
 ita	ukr	Le è piaciuta Mosca?	Вам сподобалася Москва?
 ita	ukr	Le farò vedere.	Я вам покажу.
 ita	ukr	Le fermerò.	Я їх зупиню.
+ita	ukr	Le galassie più piccole hanno "solo" qualche migliaio di stelle. Quelle più grandi ne hanno trilioni.	Менші галактики мають "усього" кілька тисяч зірок. Найбільші - трильйони.
+ita	ukr	Le galassie più piccole hanno "solo" qualche migliaio di stelle. Quelle più grandi ne hanno trilioni.	Менші галактики складаються з "усього" кілька тисяч зірок. Найбільші складаються з трильйонів.
 ita	ukr	Legga!	Читайте!
 ita	ukr	Legge il cinese.	Вона читає китайською.
 ita	ukr	Leggere dei libri è molto interessante.	Читати книжки — це дуже цікаво.
@@ -4030,6 +4091,7 @@ ita	ukr	Le onde sono alte.	Хвилі високі.
 ita	ukr	Le ore del mattino hanno l'oro in bocca.	Хто рано встає, тому бог дає.
 ita	ukr	Le patate bollono.	Картопля кипить.
 ita	ukr	Le persone cambiano.	Люди змінюються.
+ita	ukr	Le piacciono gli scacchi?	Ви любите шахи?
 ita	ukr	Le piacciono le carote?	Ви любите моркву?
 ita	ukr	Le piace danzare?	Ви любите танцювати?
 ita	ukr	Le piace guardare la televisione.	Ви любите дивитися телевізор.
@@ -4523,6 +4585,7 @@ ita	ukr	Mangiai un hamburger.	Я з'їла гамбургер.
 ita	ukr	Mangiamo assieme.	Ми їмо разом.
 ita	ukr	Mangiamo sushi.	Давайте їсти суші.
 ita	ukr	Mangiamo.	Ми їмо.
+ita	ukr	Mangiano e bevono.	Вони їдять і п'ють.
 ita	ukr	Mangiarono assieme.	Вони поїли разом.
 ita	ukr	Mangiarono insieme.	Вони поїли разом.
 ita	ukr	Mangiate lentamente.	Їжте повільно.
@@ -4602,6 +4665,7 @@ ita	ukr	Mi alzo sempre tardi.	Я завжди пізно встаю.
 ita	ukr	Mia madre è a dieta.	Моя мама на дієті.
 ita	ukr	Mia madre è sempre occupata.	Мама завжди зайнята.
 ita	ukr	Mia madre è sempre occupata.	Моя мама завжди зайнята.
+ita	ukr	Mia madre lavora come psicologa in ospedale.	Моя мама працює у лікарні психологом.
 ita	ukr	Mia madre non parla inglese.	Моя мати не говорить англійською.
 ita	ukr	Mia madre segue una dieta.	Моя мама на дієті.
 ita	ukr	Mia madre sta leggendo una rivista.	Мама читає журнал.
@@ -4620,6 +4684,7 @@ ita	ukr	Mia sorella è andata a Kobe ieri.	Моя сестра вчора бул
 ita	ukr	Mia sorella è andata ieri a Kobe.	Моя сестра вчора була в Кобе.
 ita	ukr	Mia sorella è infermiera.	Моя сестра медсестра.
 ita	ukr	Mia sorella è molto intelligente.	Моя сестра дуже розумна.
+ita	ukr	Mia sorella ha cinque anni meno di me.	Моя сестра молодша від мене на п'ять років.
 ita	ukr	Mia sorella non cucina bene, e neanche io.	Моя сестра погано готує, і я теж.
 ita	ukr	Mia zia è più anziana di mia madre.	Моя тітка старша від моєї мами.
 ita	ukr	Mi capisce.	Ти мене розумієш.
@@ -4641,8 +4706,8 @@ ita	ukr	Mi ci vorrebbe una vita per spiegare tutto.	Мені знадобить�
 ita	ukr	Mi completa.	Ви мене доповнюєте.
 ita	ukr	Mi conosce?	Ви мене знаєте?
 ita	ukr	Mi conosce?	Він мене знає?
-ita	ukr	Mi conosce?	Вона мене знає?
 ita	ukr	Mi conosce.	Вона мене знає.
+ita	ukr	Mi conosce?	Вона мене знає?
 ita	ukr	Mi considero un'idiota.	Вважаю, що я ідіотка.
 ita	ukr	Mi dica di cos'ha paura.	Скажіть мені, чого ви боїтеся.
 ita	ukr	Mi diede una mela.	Він мені дав яблуко.
@@ -4653,6 +4718,10 @@ ita	ukr	Mi dispiace sentirlo.	Мені прикро це чути.
 ita	ukr	Mi dispiace, ti amo.	Вибач, я тебе кохаю.
 ita	ukr	Mi è piaciuto quel libro.	Мені сподобалася ця книжка.
 ita	ukr	Mi è piaciuto questo libro.	Мені сподобалася ця книжка.
+ita	ukr	Mi è sempre piaciuto giocare a calcio.	Мені завжди подобалося грати у футбол.
+ita	ukr	Mi è sempre piaciuto giocare a calcio.	Я завжди любив грати у футбол.
+ita	ukr	Mi è sempre piaciuto giocare a calcio.	Я завжди любила грати у футбол.
+ita	ukr	Mi è sempre piaciuto giocare a football.	Мені завжди подобалося грати в американський футбол.
 ita	ukr	Mi è sempre piaciuto Tom.	Том мені завжди подобався.
 ita	ukr	Mi è sempre piaciuto.	Він мені завжди подобався.
 ita	ukr	Mi è stato chiesto di andarmene.	Мене попросили піти.
@@ -4794,6 +4863,7 @@ ita	ukr	Mi sento sola.	Я одинока.
 ita	ukr	Mi sento un'ameba.	Почуваюся амебою.
 ita	ukr	Mi sento vulnerabile.	Я почуваюся вразливим.
 ita	ukr	Mi serve Internet.	Мені потрібен інтернет.
+ita	ukr	Mi serve l'insulina.	Мені потрібен інсулін.
 ita	ukr	Mi serve più tempo.	Мені потрібно більше часу.
 ita	ukr	Mi serve una cravatta?	Мені потрібна краватка?
 ita	ukr	Mi serve un prestito.	Мені потрібен кредит.
@@ -4836,6 +4906,7 @@ ita	ukr	Nancy ha un piano.	У Ненсі є піаніно.
 ita	ukr	Nascondono qualcosa?	Вони щось приховують?
 ita	ukr	Ne ero consapevole.	Я це усвідомлював.
 ita	ukr	Negli Stati Uniti c'è un censimento ogni dieci anni.	У Сполучених Штатах кожні десять років проходить перепис населення.
+ita	ukr	Nei suoi esperimenti lei utilizzava i piccioni.	У своїх експериментах вона використовувала голубів.
 ita	ukr	Nel principio era l'atto.	Спочатку була дія.
 ita	ukr	Ne siamo pronti?	Ми до цього готові?
 ita	ukr	Nessuno abita qui.	Тут ніхто не живе.
@@ -5008,6 +5079,8 @@ ita	ukr	Noi viviamo in un mondo pericoloso.	Ми живемо у небезпе�
 ita	ukr	Noi viviamo sul pianeta Terra.	Ми живемо на планеті Земля.
 ita	ukr	Noi vogliamo parlare con Tom.	Ми хочемо поговорити з Томом.
 ita	ukr	Noi vogliamo un tappeto nuovo.	Ми хочемо новий килим.
+ita	ukr	Non abbiamo carta.	Ми не маємо паперу.
+ita	ukr	Non abbiamo carta.	У нас немає паперу.
 ita	ukr	Non abbiamo piani.	У нас немає плану.
 ita	ukr	Non abbiamo un gatto.	В нас немає кота.
 ita	ukr	Non abbiamo un gatto.	Ми не маємо кота.
@@ -5071,6 +5144,7 @@ ita	ukr	Non conosco nulla del suo passato.	Я нічого не знаю про 
 ita	ukr	Non crede in Dio.	Він не вірить у бога.
 ita	ukr	Non credo che possiamo farlo.	Я не вірю, що ми можемо це зробити.
 ita	ukr	Non credo in Dio.	Я не вірю в бога.
+ita	ukr	Non credo nel vudù.	Я не вірю у вуду.
 ita	ukr	Non cucinerò per lei.	Я не готуватиму для неї.
 ita	ukr	Non deve lavorare.	Їй не потрібно працювати.
 ita	ukr	Non dimostra la sua età.	Він не виглядає на свій вік.
@@ -5288,6 +5362,7 @@ ita	ukr	Non parlate con loro.	Не говоріть із ними.
 ita	ukr	Non parlate con loro.	Не розмовляйте з ними.
 ita	ukr	Non parlo il catalano.	Я не розмовляю каталонською.
 ita	ukr	Non parlo il lojban.	Я не розмовляю на ложбані.
+ita	ukr	Non parlo il polacco.	Я не розмовляю польською.
 ita	ukr	Non parlo il turco.	Я не говорю турецькою.
 ita	ukr	Non parlo inglese.	Я не розмовляю англійською.
 ita	ukr	Non parlo l'inglese.	Я не розмовляю англійською.
@@ -5302,6 +5377,7 @@ ita	ukr	Non penso che possiate farlo.	Я не думаю, що ви можете
 ita	ukr	Non penso che Tom abbia un ombrello.	Не думаю, що Том має парасольку.
 ita	ukr	Non penso che Tom abbia un ombrello.	Не думаю, що у Тома є парасолька.
 ita	ukr	Non penso che Tom lo abbia mai fatto.	Я не думаю, що Том коли-небудь цим займався.
+ita	ukr	Non penso che Tom sia l'assassino.	Не думаю, що вбивця — Том.
 ita	ukr	Non penso che Tom sia preparato.	Не думаю, що Том готовий.
 ita	ukr	Non penso che Tom tornerà.	Не думаю, що Том повернеться.
 ita	ukr	Non pianse al suo funerale.	Він не плакав на її похороні.
@@ -5383,6 +5459,8 @@ ita	ukr	Non so assolutamente nulla.	Я взагалі нічого не знаю
 ita	ukr	Non so che cosa farò.	Я не знаю, що буду робити.
 ita	ukr	Non so cosa farà Tom.	Я не знаю, що робитиме Том.
 ita	ukr	Non so dove andare.	Я не знаю, куди йти.
+ita	ukr	Non so dov'è il mio papà.	Я не знаю, де мій тато.
+ita	ukr	Non so dov'è la mia mamma.	Я не знаю, де моя мама.
 ita	ukr	Non so l'inglese.	Я не знаю англійської.
 ita	ukr	Non so niente di musica.	Я нічого не знаю про музику.
 ita	ukr	Non so niente.	Я нічого не знаю.
@@ -5490,6 +5568,7 @@ ita	ukr	Non vuole uscire con lei.	Вона не хоче йти з нею на �
 ita	ukr	No, papà!	Ні, тату!
 ita	ukr	No, perché?	Ні, а що?
 ita	ukr	No, tu non capisci.	Ні, ти не розумієш.
+ita	ukr	Nove per nove fa ottantuno.	Дев'ять помножити на дев'ять - вісімдесят один.
 ita	ukr	No!	Ні!
 ita	ukr	No?	Ні?
 ita	ukr	Nulla dura per l'eternità.	Ніщо не вічне.
@@ -5609,6 +5688,8 @@ ita	ukr	Parla tedesco.	Вона говорить німецькою.
 ita	ukr	Parlate ebraico?	Ви говорите на івриті?
 ita	ukr	Parlate inglese?	Ви говорите англійською?
 ita	ukr	Parlava con una pipa in bocca.	Він говорив з люлькою в роті.
+ita	ukr	Parleremo dopo la lezione.	Поговоримо після лекції.
+ita	ukr	Parleremo dopo la lezione.	Поговоримо після уроку.
 ita	ukr	Parlerò con lui.	Я з ним побалакаю.
 ita	ukr	Parlerò con lui.	Я з ним поговорю.
 ita	ukr	Parliamo di Paola.	Поговорімо про Паолу.
@@ -5695,6 +5776,7 @@ ita	ukr	Penso di essere sull'autobus sbagliato.	Думаю, я сів не у т
 ita	ukr	Penso di piacere a Mary.	Мені здається, що я подобаюся Мері.
 ita	ukr	Penso solo a te.	Я думаю лише про тебе.
 ita	ukr	Penso spesso a Tom.	Я часто думаю про Тома.
+ita	ukr	Pepe o sale?	Перець чи сіль?
 ita	ukr	Perché avete bisogno di una nuova televisione?	Навіщо вам новий телевізор?
 ita	ukr	Perché ci avete mentito?	Чому ви нам збрехали?
 ita	ukr	Perché ci hai mentito?	Чому ти нам збрехав?
@@ -5849,6 +5931,7 @@ ita	ukr	Potremmo avere una forchetta?	Можна нам виделку?
 ita	ukr	Potresti prestarmi il libro?	Чи міг би ти позичити мені книгу?
 ita	ukr	Preferisce discutere.	Вона надає перевагу обговоренням.
 ita	ukr	Preferisco il caffè.	Я надаю перевагу каві.
+ita	ukr	Preferisco l'inglese.	Я надаю перевагу англійській мові.
 ita	ukr	Preghiamo.	Помолімося.
 ita	ukr	Prego.	Немає за що.
 ita	ukr	Prego.	Прошу.
@@ -5956,6 +6039,8 @@ ita	ukr	Quand'è il suo compleanno?	Коли твій день народжен�
 ita	ukr	Quand'è il vostro compleanno?	Коли твій день народження?
 ita	ukr	Quando arriverà a casa tuo padre?	Коли твій тато прийде додому?
 ita	ukr	Quando avete comprato quell'orologio?	Коли ви купили цей годинник?
+ita	ukr	Quando è nato il bambino?	Коли дитина народилася?
+ita	ukr	Quando è nato il bambino?	Коли народилася дитина?
 ita	ukr	Quando eri in Australia?	Коли ти був у Австралії?
 ita	ukr	Quando è scoppiata la Seconda Guerra Mondiale?	Коли розпочалась Друга світова війна?
 ita	ukr	Quando è stato pubblicato questo romanzo?	Коли було опубліковано цей роман?
@@ -5988,6 +6073,7 @@ ita	ukr	"Quanti anni hai?" "Ho sedici anni."	"Скільки тобі років
 ita	ukr	Quanti anni ha il suo cane?	Скільки років вашому собаці?
 ita	ukr	Quanti anni ha il tuo cane?	Скільки років твоєму собаці?
 ita	ukr	Quanti anni ha il vostro cane?	Скільки років вашому собаці?
+ita	ukr	Quanti anni ha la mamma?	Скільки мамі років?
 ita	ukr	Quanti anni ha tua sorella?	Скільки років твоїй сестрі?
 ita	ukr	Quanti fratelli e sorelle avete?	Скільки у вас братів і сестер?
 ita	ukr	Quanti fratelli e sorelle ha?	Скільки у вас братів і сестер?
@@ -6004,7 +6090,9 @@ ita	ukr	Quanto costa l'espresso?	Скільки коштує проїзд на �
 ita	ukr	Quanto costa questa penna?	Скільки коштує ця ручка?
 ita	ukr	Quanto costa questo fazzoletto?	Скільки коштує ця хустинка?
 ita	ukr	Quanto costa questo sofà?	Скільки коштує цей диван?
+ita	ukr	Quanto costa questo vino?	Скільки коштує це вино?
 ita	ukr	Quanto costa una mela?	Скільки коштує яблуко?
+ita	ukr	Quanto è bella la bandiera dell'Algeria!	Який ж гарний прапор Алжира!
 ita	ukr	Quanto è complicato?	Наскільки це складно?
 ita	ukr	Quanto è grande?	Наскільки великий?
 ita	ukr	Quanto è profonda qui?	Яка тут глибина?
@@ -6086,6 +6174,7 @@ ita	ukr	Questa è la mia birra.	Це моє пиво.
 ita	ukr	Questa è la mia canzone preferita.	Це моя улюблена пісня.
 ita	ukr	Questa è la mia canzone!	Це моя пісня!
 ita	ukr	Questa è la mia cucina.	Це моя кухня.
+ita	ukr	Questa è la mia matrigna.	Це моя мачуха.
 ita	ukr	Questa è la mia scuola.	Це моя школа.
 ita	ukr	Questa è la nostra automobile.	Це наша автівка.
 ita	ukr	Questa è la nostra macchina.	Це наша машина.
@@ -6156,6 +6245,7 @@ ita	ukr	Questi sono dei regali per i miei amici.	Це подарунки для 
 ita	ukr	Questi sono fatti.	Це факти.
 ita	ukr	Questi sono gli appunti di Tom?	Це нотатки Тома?
 ita	ukr	Questi sono i miei CD.	Це мої диски.
+ita	ukr	Questi sono i miei nonni.	Це мої дідусь і бабуся.
 ita	ukr	Questi sono spaghetti.	Це спагеті.
 ita	ukr	Questi sono tuoi, Tom?	Ці твої, Томе?
 ita	ukr	Questi sono uccelli.	Це птахи.
@@ -6181,6 +6271,7 @@ ita	ukr	Questo è il mio computer.	Це мій комп'ютер.
 ita	ukr	Questo è il mio progetto preferito.	Це мій улюблений проект.
 ita	ukr	Questo è il modo migliore.	Це найкращий спосіб.
 ita	ukr	Questo è il modo migliore.	Це найліпший спосіб.
+ita	ukr	Questo è il più grande festival musicale.	Це найбільший музичний фестиваль.
 ita	ukr	Questo è il ponte più lungo del mondo.	Це найдовший міст у світі.
 ita	ukr	Questo è il suo dizionario?	Це ваш словник?
 ita	ukr	Questo è il tuo dizionario?	Це твій словник?
@@ -6561,6 +6652,7 @@ ita	ukr	Siete innamorate di lei?	Ви у неї закохані?
 ita	ukr	Siete insieme?	Ви разом?
 ita	ukr	Siete ostinate.	Ви вперті.
 ita	ukr	Siete ostinati.	Ви вперті.
+ita	ukr	Siete stranieri?	Ви іноземці?
 ita	ukr	Siete tutti in arresto.	Вас усіх заарештовано.
 ita	ukr	Si fida di me.	Він мені довіряє.
 ita	ukr	Signor Gorbatchev, abbatta questo muro!	Пане Горбачов, зламайте цю стіну!
@@ -6779,6 +6871,7 @@ ita	ukr	Sono obbediente.	Я слухняний.
 ita	ukr	Sono occupato.	Я зайнятий.
 ita	ukr	Sono onesto.	Я чесний.
 ita	ukr	Sono ora all'aeroporto.	Я зараз в аеропорту.
+ita	ukr	Sono ortodossa.	Я православна.
 ita	ukr	Sono passati dieci giorni.	Минуло десять днів.
 ita	ukr	Sono pericolose.	Вони небезпечні.
 ita	ukr	Sono pericolosi.	Вони небезпечні.
@@ -6871,6 +6964,7 @@ ita	ukr	Sono un omosessuale.	Я гомосексуаліст.
 ita	ukr	Sono uno studente dall'Italia.	Я студент з Італії.
 ita	ukr	Sono un prete.	Я священик.
 ita	ukr	Sono un ragazzo.	Я хлопець.
+ita	ukr	Sono un testimone di Geova.	Я Свідок Єгови.
 ita	ukr	Sono un traduttore. Traduco dei libri.	Я перекладач. Я перекладаю книжки.
 ita	ukr	Sono un traduttore.	Я - перекладач.
 ita	ukr	Sono un uomo d'affari.	Я бізнесмен.
@@ -6924,6 +7018,10 @@ ita	ukr	Stai bene, Tom?	Томе, ти в порядку?
 ita	ukr	Stai bevendo del tè verde?	Ти п'єш зелений чай?
 ita	ukr	Stai dormendo, Tom?	Томе, ти спиш?
 ita	ukr	Stai dormendo?	Ти спиш?
+ita	ukr	Stai imparando il gallese?	Ти вивчаєш валлійську?
+ita	ukr	Stai imparando il gallese?	Ти вивчаєш валлійську мову?
+ita	ukr	Sta imparando il gallese?	Ви вивчаєте валлійську?
+ita	ukr	Sta imparando il gallese?	Ви вивчаєте валлійську мову?
 ita	ukr	Stai sprecando il mio tempo.	Ти марнуєш мій час.
 ita	ukr	Stai zitto e prendi i miei soldi!	Замовкни й візьми мої гроші!
 ita	ukr	Sta mangiando una mela.	Він їсть яблуко.
@@ -6944,6 +7042,8 @@ ita	ukr	Starnutisco molto.	Я багато чихаю.
 ita	ukr	Sta scrivendo una lettera.	Вона пише листа.
 ita	ukr	Sta succedendo qualcosa?	Щось відбувається?
 ita	ukr	State bene?	Ви в порядку?
+ita	ukr	State imparando il gallese?	Ви вивчаєте валлійську?
+ita	ukr	State imparando il gallese?	Ви вивчаєте валлійську мову?
 ita	ukr	State sprecando il mio tempo.	Ви марнуєте мій час.
 ita	ukr	State sveglie.	Не спіть.
 ita	ukr	State svegli.	Не спіть.
@@ -6972,6 +7072,7 @@ ita	ukr	Sto bene, grazie. E tu?	У мене все гаразд, дякую. Я�
 ita	ukr	Sto bene.	Я в порядку.
 ita	ukr	Sto bevendo del latte.	Я п'ю молоко.
 ita	ukr	Sto bevendo un caffè.	Я п’ю каву.
+ita	ukr	Sto bruciando dalla curiosità.	Я згоряю від цікавости.
 ita	ukr	Sto cantando adesso.	Я зараз співаю.
 ita	ukr	Sto cantando ora.	Я зараз співаю.
 ita	ukr	Sto cercando il portafoglio.	Я шукаю гаманець.
@@ -7047,8 +7148,9 @@ ita	ukr	Ti ho sognata.	Ти мені снилася.
 ita	ukr	Ti ho visto ieri.	Я тебе вчора бачив.
 ita	ukr	Ti insegnerò a guidare una macchina.	Я навчу тебе водити.
 ita	ukr	Tim è un grande fan della commedia satirica.	Тим - великий прихильник сатиричної комедії.
-ita	ukr	Ti piacciono le mele?	Тобі подобаються яблука?
+ita	ukr	Ti piacciono gli scacchi?	Ти любиш шахи?
 ita	ukr	Ti piacciono le mele.	Тобі подобаються яблука.
+ita	ukr	Ti piacciono le mele?	Тобі подобаються яблука?
 ita	ukr	Ti piacciono?	Тобі вони подобаються?
 ita	ukr	Ti piace danzare?	Ти любиш танцювати?
 ita	ukr	Ti piace fare surf?	Тобі подобається серфінг?
@@ -7133,8 +7235,8 @@ ita	ukr	Tom bevette un bicchiere di vino.	Том випив бокал вина.
 ita	ukr	Tom calciò Mary.	Том копнув Мері.
 ita	ukr	Tom canta splendidamente.	Том гарно співає.
 ita	ukr	Tom cantò con Mary.	Том співав разом з Мері.
-ita	ukr	Tom capisce?	Том розуміє?
 ita	ukr	Tom capisce.	Том розуміє.
+ita	ukr	Tom capisce?	Том розуміє?
 ita	ukr	Tom cenò con Mary.	Том повечеряв з Мері.
 ita	ukr	Tom cerca sempre di dare il buon esempio ai suoi figli.	Том завжди намагається подавати добрий приклад своїм дітям.
 ita	ukr	Tom cercò di prendere le chiavi con le dita dei piedi.	Том спробував підняти свої ключі пальцями ніг.
@@ -7152,8 +7254,8 @@ ita	ukr	Tom ci mandò dei regali di Natale.	Том надіслав нам рі�
 ita	ukr	Tom ci permise di aiutare Mary.	Том дозволив нам допомогти Мері.
 ita	ukr	Tom compilò un modulo.	Том заповнив анкету.
 ita	ukr	Tom compilò un modulo.	Том заповнив форму.
-ita	ukr	Tom comprende?	Том розуміє?
 ita	ukr	Tom comprende.	Том розуміє.
+ita	ukr	Tom comprende?	Том розуміє?
 ita	ukr	Tom comprò dei fiori per Mary.	Том купив Мері квіти.
 ita	ukr	Tom comprò molto cibo.	Том купив багато їжі.
 ita	ukr	Tom comprò per Mary una macchina fotografica.	Том купив Мері фотоапарат.
@@ -7493,6 +7595,7 @@ ita	ukr	Tom è un insegnante di francese.	Том — викладач франц
 ita	ukr	Tom è un insegnante di pianoforte.	Том — учитель фортеп'яно.
 ita	ukr	Tom è un maiale!	Том — свиня!
 ita	ukr	Tom è un matematico.	Том — математик.
+ita	ukr	Tom è un miliardario canadese.	Том — канадський мільярдер.
 ita	ukr	Tom è un nano.	Том — карлик.
 ita	ukr	Tom è un neurologo.	Том — невролог.
 ita	ukr	Tom è un notaio.	Том — нотаріус.
@@ -7520,8 +7623,8 @@ ita	ukr	Tom è veloce.	Том швидкий.
 ita	ukr	Tom è venuto a farci visita tre giorni fa.	Том прийшов відвідати нас три дні тому.
 ita	ukr	Tom è veramente paziente, vero?	Том дуже терпеливий, чи не так?
 ita	ukr	Tom è veramente sposato con Mary?	Том насправді одружений із Мері?
-ita	ukr	Tom è vivo?	Том живий?
 ita	ukr	Tom è vivo.	Том живий.
+ita	ukr	Tom è vivo?	Том живий?
 ita	ukr	Tom è vostro amico.	Том - ваш друг.
 ita	ukr	Tom è vostro fratello.	Том ваш брат.
 ita	ukr	Tom è xenofobo.	Том ксенофоб.
@@ -7641,6 +7744,7 @@ ita	ukr	Tom ha nuotato ieri?	Том учора плавав?
 ita	ukr	Tom ha nuotato.	Том плив.
 ita	ukr	Tom ha parlato con Mary.	Том побалакав з Мері.
 ita	ukr	Tom ha parlato con Mary.	Том поговорив з Мері.
+ita	ukr	Tom ha parlato più velocemente del solito.	Том розмовляв швидше, ніж зазвичай.
 ita	ukr	Tom ha paura di Mary, vero?	Том боїться Мері, так?
 ita	ukr	Tom ha paura di Mary.	Том боїться Мері.
 ita	ukr	Tom ha pelato la mela.	Том почистив яблуко.
@@ -7697,8 +7801,8 @@ ita	ukr	Tom ha un accento britannico.	У Тома британська вимо�
 ita	ukr	Tom ha un'altra ragazza.	У Тома інша дівчина.
 ita	ukr	Tom ha un altro impiego.	У Тома є ще одна робота.
 ita	ukr	Tom ha una macchina nera?	У Тома чорна машина?
-ita	ukr	Tom ha una macchina?	У Тома є машина?
 ita	ukr	Tom ha una macchina.	У Тома є машина.
+ita	ukr	Tom ha una macchina?	У Тома є машина?
 ita	ukr	Tom ha una nuova fidanzata.	У Тома нова дівчина.
 ita	ukr	Tom ha una pessima vista.	У Тома поганий зір.
 ita	ukr	Tom ha una scelta?	У Тома є вибір?
@@ -7750,8 +7854,8 @@ ita	ukr	Tom la rispetta.	Том вас поважає.
 ita	ukr	Tom la saprà.	Том буде знати.
 ita	ukr	Tom lascerà decidere a Mary.	Том дозволить Мері прийняти рішення.
 ita	ukr	Tom lasciò pagare il conto a Mary.	Том дозволив Мері заплатити за рахунком.
-ita	ukr	Tom lavora a Boston?	Том працює в Бостоні?
 ita	ukr	Tom lavora a Boston.	Том працює в Бостоні.
+ita	ukr	Tom lavora a Boston?	Том працює в Бостоні?
 ita	ukr	Tom lavora a casa.	Том працює вдома.
 ita	ukr	Tom lavora il turno di notte.	Том працює в нічну зміну.
 ita	ukr	Tom lavora in una banca adesso.	Том зараз працює в банку.
@@ -8233,6 +8337,8 @@ ita	ukr	Tony sta suonando.	Тоні грає.
 ita	ukr	Tony suona.	Тоні грає.
 ita	ukr	Tony vive a Kobe.	Тоні мешкає в Кобе.
 ita	ukr	Tornerò alle 2:30.	Я повернуся о 2:30.
+ita	ukr	Tornerò fra due settimane.	Я повернуся через два тижні.
+ita	ukr	Tornerò tra due settimane.	Я повернуся через два тижні.
 ita	ukr	Torniamo al garage.	Повернімося до гаражу.
 ita	ukr	Torniamo all'autorimessa.	Повернімося до гаражу.
 ita	ukr	Tornò al suo villaggio natale.	Він повернувся до рідного села.
@@ -8509,6 +8615,9 @@ ita	ukr	Verranno.	Вони прийдуть.
 ita	ukr	Verrà?	Вона прийде?
 ita	ukr	Verrò domani.	Я прийду завтра.
 ita	ukr	Verrò prima la prossima volta.	У наступний раз я прийду раніше.
+ita	ukr	Versate un po' di caffè per Tom.	Налийте Тому трохи кави.
+ita	ukr	Versa un po' di caffè per Tom.	Налий Тому трохи кави.
+ita	ukr	Versi un po' di caffè per Tom.	Налийте Тому трохи кави.
 ita	ukr	Vi amo e vi amerò sempre.	Я вас люблю і завжди любитиму.
 ita	ukr	Vi credono.	Вони вам вірять.
 ita	ukr	Vi darò cinque dollari.	Я дам вам п'ять доларів.
@@ -8532,6 +8641,7 @@ ita	ukr	Vinsero la medaglia d'argento.	Вони виграли срібну ме
 ita	ukr	Vinse Tom.	Том виграв.
 ita	ukr	Vinse Tom.	Том переміг.
 ita	ukr	Vinse una medaglia d'argento.	Вона виграла срібну медаль.
+ita	ukr	Vi piacciono gli scacchi?	Ви любите шахи?
 ita	ukr	Vi piacciono le carote?	Ви любите моркву?
 ita	ukr	Vi piace l'appartamento?	Вам подобається ця квартира?
 ita	ukr	Vi piace la vostra automobile?	Вам подобається ваша машина?
@@ -8738,6 +8848,8 @@ ita	ukr	Volevo chiedere un favore a Tom.	Я хотів попросити Том
 ita	ukr	Volevo chiedere un favore a Tom.	Я хотіла попросити Тома про послугу.
 ita	ukr	Volevo cinque ananas.	Я хотіла п'ять ананасів.
 ita	ukr	Volevo essere lei.	Я хотів бути нею.
+ita	ukr	Volevo fare qualcosa per te.	Я хотів щось для тебе зробити.
+ita	ukr	Volevo fare qualcosa per te.	Я хотіла щось для тебе зробити.
 ita	ukr	Volevo impressionare Tom.	Я хотіла вразити Тома.
 ita	ukr	Volevo pagare.	Я хотіла заплатити.
 ita	ukr	Volevo questo.	Я хотіла цього.

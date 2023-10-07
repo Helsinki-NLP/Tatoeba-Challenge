@@ -3,28 +3,28 @@ ara	hun	أثمّن نصيحتَكَ جداً.	Nagyra becsülöm a tanácsodat.
 ara	hun	أذلك كتابك الجديد؟	Ez az új könyved?
 ara	hun	أريدك أن تجرّبَهُ.	Szeretném, ha kipróbálnád.
 ara	hun	أستساعدهم؟	Segít majd nekik?
-ara	hun	اسمعك فقط.	Csak téged hallak.
-ara	hun	اصطدمت سيارته بشجرة.	Autója e gy fának rohant.
 ara	hun	أصلح الأغلاط ، إذا وُجدت.	Javítsd a hibákat, ha találsz.
 ara	hun	أعجبتني الغرفة المطلة على الوادي.	Szeretem a völgyre néző szobát.
 ara	hun	أفترض أنك جائع.	Feltételezem, hogy éhes vagy.
 ara	hun	أُفضل أن أجلس بجوار النافذة.	Az ablaknál szeretnék ülni.
-ara	hun	إقتربت القطة من الفأر بحذر.	A macska lassan közelítette meg az egeret.
 ara	hun	أقدّر نصيحتك جداً.	Nagyra becsülöm a tanácsodat.
-ara	hun	الدنيا جميلة.	A világ szép.
-ara	hun	الرئيس الفرنسي سيزور اليابان في الشهر القادم.	A francia elnök a jövő hónapban ellátogat Japánba.
-ara	hun	القلم مكسور.	Eltörött a toll.
-ara	hun	اليوم الإثنين.	Hétfő van.
 ara	hun	أنا أريد أن تُحبيني.	Azt akarom, hogy szeress!
 ara	hun	أنا أكبر منك قامة بقليل.	Kissé magasabb vagyok, mint te.
 ara	hun	أنا لا أريد أن تشعر بمزيد من الألم.	Nem akarok többé fájdalmat érezni.
 ara	hun	أنا ملحد.	Ateista vagyok.
 ara	hun	أنتم أطفالٌ.	Gyerekek vagytok.
-ara	hun	إن دعوتَه، ربما سيأتي.	Ha meghívod őt, talán eljön.
-ara	hun	انه يقوم بالعناية بامه الكبيرة في السن.	Gondját viseli idős édesanyjának.
-ara	hun	إني شاكر لك من أعماق قلبي.	Teljes szívemből köszönöm neked.
 ara	hun	أين الفودكا ؟	Hol van a vodka?
 ara	hun	أين رأيت نانسي؟	Mit láttál, Nenszi?
+ara	hun	إقتربت القطة من الفأر بحذر.	A macska lassan közelítette meg az egeret.
+ara	hun	إن دعوتَه، ربما سيأتي.	Ha meghívod őt, talán eljön.
+ara	hun	إني شاكر لك من أعماق قلبي.	Teljes szívemből köszönöm neked.
+ara	hun	اسمعك فقط.	Csak téged hallak.
+ara	hun	اصطدمت سيارته بشجرة.	Autója e gy fának rohant.
+ara	hun	الدنيا جميلة.	A világ szép.
+ara	hun	الرئيس الفرنسي سيزور اليابان في الشهر القادم.	A francia elnök a jövő hónapban ellátogat Japánba.
+ara	hun	القلم مكسور.	Eltörött a toll.
+ara	hun	اليوم الإثنين.	Hétfő van.
+ara	hun	انه يقوم بالعناية بامه الكبيرة في السن.	Gondját viseli idős édesanyjának.
 ara	hun	بعض الماء، من فضلك	Egy kis vizet kérek.
 ara	hun	تحققت أحلامك.	Álmaid beteljesültek.
 ara	hun	تعافى عمّي من مرضه كليّاً.	A nagybátyám teljesen felépült a betegségéből.
@@ -56,10 +56,12 @@ ara	hun	فليكن الأمر كذلك!	Legyen így.
 ara	hun	كتبت رسالة لأمي.	Levelet írtam anyámnak.
 ara	hun	كل الخبز وشرب الماء.	Egyél kenyeret és igyál vizet.
 ara	hun	كنت في دور عرض للسينما.	Moziban voltam.
-ara	hun	كيف حالك؟	Hogy vagy?
 ara	hun	كيفَ حالك؟	Hogy vagy?
+ara	hun	كيف حالك؟	Hogy vagy?
 ara	hun	كيفَ حالِك؟	Hogy vagy?
+ara	hun	لا أريد الكثير.	Nem akarok sokat.
 ara	hun	لا أستطيع التنبؤ بالمستقبل.	Nem tudjuk megjósolni a jövőt.
+ara	hun	لا أعلم يا تام.	Nem tudom, Tom.
 ara	hun	لا تتخلى علي.	Ne hagyj elvesznem!
 ara	hun	لا نستطيع الرجوع لهناك.	Nem mehetünk oda vissza.
 ara	hun	لايمكن أن أتصوره.	Nem tudom elképzelni.

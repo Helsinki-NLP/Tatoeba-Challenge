@@ -23,6 +23,7 @@ eng	ota_Arab	Ecuador is a country situated in the northwest part of South Americ
 eng	ota_Arab	Education is human development's best friend.	معارف بشری تكاملك اك اعلى دوستيدر .
 eng	ota_Arab	Everyone knows that Tom has poor people skills.	یومك بشری مناسباتلرنك ضعيف اولدیغی هركسك مغلومی .
 eng	ota_Arab	Everyone knows Tom has poor people skills.	یومك بشری مناسباتلرنك ضعيف اولدیغی هركسك مغلومی .
+eng	ota_Arab	Every system tends to go from order to disorder.	هر نظام كمالدن زواله انتقال ایتمكه ميل ایدر .
 eng	ota_Arab	Fertile soil is indispensable for agriculture.	منبت اراضی زراعت ایجین ضروریدر .
 eng	ota_Arab	Freedom of thought is guaranteed by the constitution.	فکر حریتی قانون اساسیده تأمينات آلتنه آلنمشدر .
 eng	ota_Arab	Genetic diseases are mostly irremediable.	امراض ارثیه‌نك اکثریتله دواءسی یوقدر .
@@ -30,6 +31,7 @@ eng	ota_Arab	Give me fire.	بڭا آتش ویرڭز.
 eng	ota_Arab	God's law curses the bribe-takers.	شریعت الهی مرتشیلری تلعین ایدر .
 eng	ota_Arab	God's law forbids eating blood, because the life of all flesh is the blood.	شریعت الهی قان یمكی حرام قیلمشدر زراع جانلی مخلوقاتك حیاتیتی قان ایله‌در .
 eng	ota_Arab	Good actions are never in vain.	خيرلی عملل​ر قطعيا بيهوده دگلدر .
+eng	ota_Arab	Good morning, your excellence!	صباح شریفلركز خیرلی اولسون حشمت مآب افندیمز .
 eng	ota_Arab	Good morning.	خیرلی صباحلر .
 eng	ota_Arab	Good morning.	صباح شریفلركز خیر اولسون .
 eng	ota_Arab	Good night.	ايی گيجه لر.
@@ -113,9 +115,10 @@ eng	ota_Arab	It is a chair.	او بر صندالیه در.
 eng	ota_Arab	I tore up all the letters that you wrote to me.	بڭا يازديغڭ بوتون مكتوبلري ييرتوب آتدم.
 eng	ota_Arab	It really is amazing.	بو حقيقة موجب حيرت .
 eng	ota_Arab	It's a very tough job.	بو چوق مشقتلی بر مسلک .
+eng	ota_Arab	It's super-duper.	علی الاعلا .
 eng	ota_Arab	It's truly amazing.	بو حقيقة موجب حيرت .
-eng	ota_Arab	It's up to you.	او سڭا قالمش.
 eng	ota_Arab	It's up to you.	او سزه قالمش.
+eng	ota_Arab	It's up to you.	او سڭا قالمش.
 eng	ota_Arab	I understood.	آڭلادم.
 eng	ota_Arab	I understood.	درك ایتدم.
 eng	ota_Arab	I understood.	فهم ایتدم.
@@ -135,8 +138,8 @@ eng	ota_Arab	I wish you a happy birthday.	تولدینك سنهٔ دوریه‌�
 eng	ota_Arab	I wonder how it happened.	بونك ناصل جریان ایتدیگی مراقمه طوقونييور .
 eng	ota_Arab	I wonder how it happened.	بونك ناصل وقوع بولدیغی مراقمه موجب اولویور .
 eng	ota_Arab	I won't be at the opening ceremony.	رسم كشادده حاضر بولونمایاجغم .
-eng	ota_Arab	Japan has many distinctive traits.	یاپونیانك مبذول مقدارده علامت فارقه‌سی واردر .
 eng	ota_Arab	Japan has many distinctive traits.	ژاپونیانك بر خيلی علامت فارقەسی واردر .
+eng	ota_Arab	Japan has many distinctive traits.	یاپونیانك مبذول مقدارده علامت فارقه‌سی واردر .
 eng	ota_Arab	Japan seceded from the League of Nations in 1933.	یاپونیا ، جمعيت اقوامی ۱۹۳۳ ده ترک ایتدی .
 eng	ota_Arab	Jupiter is the largest planet in the Solar System.	مشتری ، منظومه شمسيه‌دكی اڭ بیوك سياره‌در .
 eng	ota_Arab	Kim Kardashian started a campaign against Turkey, so I never like her.	كيم كردشيان توركیه عليه‌داری بر سفر باشلاتدی . بناء عليه اوندن هیچ حظ‌ ایتمم .
@@ -352,6 +355,7 @@ eng	ota_Arab	We congratulated Tom on his success.	موفقيتندن ناشی ت
 eng	ota_Arab	We elected Tom Jackson to be mayor.	شهرامينلگه توم جاكسونی انتخاب ایتدك .
 eng	ota_Arab	We have fruit.	ميوه‌مز وار.
 eng	ota_Arab	We have to stand up for minority rights.	اقليت حقوقینی مدافعه ایتملی‌یز .
+eng	ota_Arab	We're doing God's work here.	بو ایشی فى سبيل اﷲ یاپیورز .
 eng	ota_Arab	We're free!	حرز !
 eng	ota_Arab	We're on the same page again.	تکرار مطابقز .
 eng	ota_Arab	We were lucky today.	بوگون بختیمز یاور گیتدی .
@@ -390,6 +394,7 @@ eng	ota_Latn	Ecuador is a country situated in the northwest part of South Americ
 eng	ota_Latn	Education is human development's best friend.	Maârif beşerî tekâmülün en âlâ dostudur.
 eng	ota_Latn	Everyone knows that Tom has poor people skills.	Tom'un beşerî münâsebetlerinin zayıf olduğu herkesin malûmu.
 eng	ota_Latn	Everyone knows Tom has poor people skills.	Tom'un beşerî münâsebetlerinin zayıf olduğu herkesin malûmu.
+eng	ota_Latn	Every system tends to go from order to disorder.	Her nizâm kemâlden zevâle intikâl etmeğe meyl eder.
 eng	ota_Latn	Fertile soil is indispensable for agriculture.	Münbit arâzî zirâ'at için zarûrîdir.
 eng	ota_Latn	Freedom of thought is guaranteed by the constitution.	Fikir hürriyeti kanun-u esâsîde temînât altına alınmıştır.
 eng	ota_Latn	Genetic diseases are mostly irremediable.	Emrâz-ı irsiyyenin ekseriyyetle devâsı yoktur.
@@ -397,6 +402,7 @@ eng	ota_Latn	God's law curses the bribe-takers.	Şeriat-ı ilâhî mürteşîler
 eng	ota_Latn	God's law forbids eating blood, because the life of all flesh is the blood.	Şeriat-ı ilâhî kan yemeyi haram kılmıştır zîrâ canlı mahlûkatın hayâtiyeti kan iledir.
 eng	ota_Latn	Good actions are never in vain.	Hayırlı ameller kat'iyyen beyhûde değildir.
 eng	ota_Latn	Good morning.	Hayırlı sabâhlar.
+eng	ota_Latn	Good morning, your excellence!	Sabâh-ı şerîfleriniz hayırlı olsun haşmet-meâb efendimiz.
 eng	ota_Latn	Happy birthday!	Tevellüdünün sene-i devriyesi mübârek olsun.
 eng	ota_Latn	Have you ever had a wet dream?	Hiç ihtilâm oldun mu?
 eng	ota_Latn	He abuses his authority.	Salâhiyyetini sû-i isti'mâl ediyor.
@@ -462,6 +468,7 @@ eng	ota_Latn	Is this your dictionary?	Bu lugat senin mi?
 eng	ota_Latn	It expires tomorrow.	Yarın miâdı doluyor.
 eng	ota_Latn	It really is amazing.	Bu hakîkaten mûcib-i hayret.
 eng	ota_Latn	It's a very tough job.	Bu çok meşakkatli bir meslek.
+eng	ota_Latn	It's super-duper.	Aliyy-ül â'lâ.
 eng	ota_Latn	It's truly amazing.	Bu hakîkaten mûcib-i hayret.
 eng	ota_Latn	I've got a big cock!	Kallâvi bir zekerim var.
 eng	ota_Latn	I've got a big dick!	Kallâvi bir zekerim var.
@@ -673,6 +680,7 @@ eng	ota_Latn	We are free!	Hürüz!
 eng	ota_Latn	We congratulated Tom on his success.	Muvaffakiyetinden nâşî Tom'u tebrîk ettik.
 eng	ota_Latn	We elected Tom Jackson to be mayor.	Şehremînliğe Tom Jackson'u intihâb ettik.
 eng	ota_Latn	We have to stand up for minority rights.	Ekalliyet hukukunu müdafaa etmeliyiz.
+eng	ota_Latn	We're doing God's work here.	Bu işi fîsebîlillah yapıyoruz.
 eng	ota_Latn	We're free!	Hürüz!
 eng	ota_Latn	We're on the same page again.	Tekrâr mutabıkız.
 eng	ota_Latn	We were lucky today.	Bugün bahtımız yâver gitti.

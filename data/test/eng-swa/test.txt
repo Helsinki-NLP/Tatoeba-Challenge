@@ -1,3 +1,4 @@
+eng	swc	Has your appetite changed?	Je! Hamu yako ya kukula imebadilika?
 eng	swh	All of these sentences need a full stop.	Sentensi hizi zote zinahitaji kikomo.
 eng	swh	All of us stared at her.	Wote tuliangalia saa yake.
 eng	swh	A monarch had six sons.	Mtawala ali wana wasita.
@@ -38,6 +39,7 @@ eng	swh	Do you want fruit?	Unataka matunda?
 eng	swh	Do you want gruel?	Je, unataka uji?
 eng	swh	"Do you want this orange?" "No, I don't want any orange at all."	"Wataka chungwa hili?" "Hapana, sitaki chungwa lo lote."
 eng	swh	"Do you want to go to church with me, Daudi?" "No, father. I don't want to today. I'll go by myself tomorrow."	"Daudi, unataka twende kanisani?" "Hapana, baba. Sitaki leo. Nitakwenda kesho peke yangu."
+eng	swh	Do you watch the news?	Je, unatazama habari?
 eng	swh	Emily wrote the sentence.	Emily aliandika sentensi.
 eng	swh	Even if I'm going to stay at home by myself, I'm not going any place at all today.	Ijapokuwa nitakaa nyumbani peke yangu, sitakwenda mahali popote siku ya leo.
 eng	swh	"Father, why are you putting on clean clothes?" "Because I'm going to church."	"Baba, kwa nin unavaa nguo safi?" "Kwa sababu ninakwenda kanisani."
@@ -45,6 +47,7 @@ eng	swh	Fight for your right.	Kupigana kwa haki yako.
 eng	swh	Fine. I'd be very happy if you would drop me a line as soon as you get to Mwanza.	Vema. Ningefurahi sana kama ungeniandikia barua mara tu ufikapo Mwanza.
 eng	swh	For how long will you stay?	Utakaa muda ghani?
 eng	swh	Give me fire.	Nipe moto.
+eng	swh	Go ahead, give America all your hard earned money.	Nenda mbele, upe Amerika pesa zako zote zilizopatikana ngumu.
 eng	swh	God created the world.	Mungu aliumba dunia.
 eng	swh	Good bye, and safe trip.	Kwaheri bwana. Safiri salama!
 eng	swh	Good bye, and thanks.	Kwaheri bwana, asante!
@@ -65,15 +68,19 @@ eng	swh	He does not have any friends.	Yeye hana rafiki ye yote.
 eng	swh	He does not have any relatives at all.	Yeye hana jamaa ye yote.
 eng	swh	He doesn't have a gun.	Yeye hana bunduki.
 eng	swh	He is a good student.	Yeye ni mwanafunzi mzuri.
+eng	swh	He is convinced that they will vote in favour of Mr Jones.	Anaamini kuwa watampigia kura Bw Jones.
 eng	swh	He is eating.	Anakula.
 eng	swh	He is inside this house.	Yeye ni ndani ya nyumba hii.
 eng	swh	He is not a child.	Yeye si mtoto.
 eng	swh	He is responsible for it.	Ni kazi yake.
 eng	swh	He is teaching Arabic.	Anafundisha Kiarabu.
+eng	swh	He kicked the ball out of the ground.	Alitupa mpira nje ya uwanja.
 eng	swh	Hello, what's your name?	Jambo, jina lako ni nani?
 eng	swh	He's been drinking beer.	Yeye amekwisha kunywa pombe.
 eng	swh	He's reading.	Anasoma.
+eng	swh	He took offense at what I said and turned on his heels.	Mambo niliyosema yalimkasirisha na akaondoka ghafla.
 eng	swh	Hi!	Jambo!
+eng	swh	His discovery gave rise to a revolution in transport.	Ugunduzi wake ulileta mapinduzi katika uchukuzi.
 eng	swh	His money is in the bank.	Fedha zake ni katika benki.
 eng	swh	How are things?	Habari?
 eng	swh	How are things?	Habari gani?
@@ -100,6 +107,7 @@ eng	swh	I come from Colombia.	Ninatoka Kolombia.
 eng	swh	I come from England.	Natoka Uingereza.
 eng	swh	I come from Japan.	Ninatoka Japani.
 eng	swh	I come from Saitama.	Ninatoka Saitama.
+eng	swh	I'd like to believe only good things about her, but her behaviour is really rude indeed.	Ningependa kuamini mambo mazuri tu juu yake, lakini tabia yake ni mbaya kabisa.
 eng	swh	I'd like to rent a car.	Ningependa kukodi gari.
 eng	swh	I do not want any bananas at all.	Sitaki ndizi zo zote.
 eng	swh	I do not want anybody at all.	Sitaki watu wo wote.
@@ -153,6 +161,7 @@ eng	swh	I'm not listening to music.	Sisikilizi muziki.
 eng	swh	I'm reading my book.	Ninasoma kitabu changu.
 eng	swh	I must hurry to catch the train.	Sina budi nikimbilie gari la moshi.
 eng	swh	I must tell you something.	Yanipasa kukuambia kitu.
+eng	swh	In Japan, people legally become adults at the age of twenty.	Huko Japan, watu hupata hadhi ya utu uzima kihalali, wakifikisha umri wa miaka ishirini.
 eng	swh	In that case, they fall behind.	Kumbe wanachelewa!
 eng	swh	In the first place, the women have more free time than men. In the second place, they have fewer things to worry about than men.	Kwanza, wanawake wana wakati mwingi zaidi kuliko wanaume. Pili, wanawake wanafikiri mambo machache zaidi kuliko wanaume.
 eng	swh	I see that the time is approaching, Yusufu.	Bwana Yusufu, sasa naona wakati unakaribia.
@@ -170,7 +179,9 @@ eng	swh	It's not that simple.	Si rahisi hivyo.
 eng	swh	It's three o'clock.	Ni saa tisa.
 eng	swh	It surprises me.	Ananishangaza.
 eng	swh	It was the truth.	Ulikuwa ukweli.
+eng	swh	It was yesterday morning that I saw Mr Carter.	Ilikuwa jana asubuhi nilimwona Bwana Carter.
 eng	swh	It would have been better if you had not gone there.	Bora usingekwenda hapo.
+eng	swh	I've had enough of your anti-science poverty.	Nimetosha na umaskini wako wa kupinga sayansi.
 eng	swh	I've heard that you don't eat green leafy vegetables. You say that it is food for animals.	Nimesikia kuwa hamli mboga za majani kwenu. Mnasema kuwa ni chakula cha wanyama.
 eng	swh	I've lost my keys.	Nimepoteza funguo zangu.
 eng	swh	I want bread.	Ninataka mkate.
@@ -186,11 +197,14 @@ eng	swh	I wrote a book about China.	Niliandika kitabu kuhusu China.
 eng	swh	Jorge speaks four languages.	Jorge azungumza lugha nne.
 eng	swh	"Juma will help his friends. How about Hamisi?" "No, he will not help them."	"Juma atawasaidia rafiki zake. Na Hamisi je?" "La, yeye hatawasaidia."
 eng	swh	"Juma will pay school fees. How about Hamisi?" "No, he will not pay them."	"Juma atalipa ada ya shule. Na Hamisi je?" "La, yeye hatalipa."
+eng	swh	Ladies and Gentlemen, we have now landed at Tokyo International Airport.	Mabibi na Mabwana, sasa tumewasili kwenye Uwanja wa ndege wa Tokyo.
 eng	swh	Languages have hard words.	Lugha zina maneno magumu.
+eng	swh	Learning a foreign language as a non-native speaker is hard work, but all that effort pays off when you realise you can communicate with someone from a completely different country in their language.	Kujifunza lugha ya kigeni kama mzungumzaji wa asilia ni kazi ngumu, lakini juhudi zote hizo hulipa wakati utagundua unaweza kuwasiliana na mtu kutoka nchi tofauti kabisa kwa lugha yake.
 eng	swh	Listen.	Sikiliza.
 eng	swh	Look at that photo.	Tizama hii picha.
 eng	swh	Love is blind.	Mahaba ni tongo.
 eng	swh	Magdalena and Ania are good friends.	Magdalena na Ania ni marafiki wazuri
+eng	swh	May I take your size, madam?	Naweza chukua kipimo chako, Mama?
 eng	swh	Melanie is not a fortune teller.	Melanie si mpigaramli.
 eng	swh	Melanie likes music.	Melanie anapenda muziki.
 eng	swh	Millie has a book.	Millie ana kitabu.
@@ -215,6 +229,8 @@ eng	swh	Millie loves chocolate.	Millie anapenda chokoleti.
 eng	swh	Millie loves him.	Millie anampenda.
 eng	swh	Millie loves me.	Millie ananipenda.
 eng	swh	Millie will tell us the truth.	Millie atatusema ukweli.
+eng	swh	Mr Smith is accused of breach of contract.	Bwana Smith ameshtakiwa kwa uvunjaji wa mkataba.
+eng	swh	Mr Wood came to the door and spoke to Tony's mother.	Bwana Wood alifika mlangoni na kuzungumza na mama ya Tony.
 eng	swh	My book is here.	Kitabu changu ni hapa.
 eng	swh	My brother has a Twitter account.	Ndugu yangu ana akaunti ya Twitter.
 eng	swh	My children live in New York.	Watoto wangu wanaishi katika New York.
@@ -226,19 +242,26 @@ eng	swh	My friend uses sugar.	Rafiki yangu anatumia sukari.
 eng	swh	My friend wants milk.	Rafiki yangu anataka maziwa.
 eng	swh	My friend wants sugar.	Rafiki yangu anataka sukari.
 eng	swh	My name is John.	Jina langu ni John.
+eng	swh	My papa said no.	Baba yangu alisema hapana.
 eng	swh	My pen is new.	Kalamu changu ni mpya.
 eng	swh	My wife went to the farm.	Mke wangu alikwenda shamba.
 eng	swh	Nobody knows the truth.	Hakuna anayejua ukweli.
+eng	swh	Now, go and have a good time. The work can wait.	Sasa, nenda kapumzike. Kazi inaweza kungoja.
 eng	swh	No worries.	Hakuna matata.
+eng	swh	Ouch! My foot!	Ouch! Mguu wangu!
 eng	swh	Our cat is in the kitchen.	Paka yetu ipo jikoni.
 eng	swh	Please bring me eggs.	Tafadhali, niletee mayai.
 eng	swh	Please bring me fruit.	Tafadhali, niletee matunda.
 eng	swh	Please bring me porridge.	Tafadhali, niletee uji.
+eng	swh	Please return one set to us with your signature.	Tafadhali rudisha seti moja kwetu na saini yako.
 eng	swh	Pua is singing at church.	Pua anaimba kanisani.
 eng	swh	Pua sang at church.	Pua aliimba kanisani.
+eng	swh	Sally called on Mr Taylor.	Sally alimwendea Bwana Taylor.
 eng	swh	See you tomorrow!	Tutaonana kesho!
 eng	swh	She attacked the enemy.	Alishambulia adui.
+eng	swh	She came running with her eyes shining.	Alikuja akikimbia huku macho yaking'aa.
 eng	swh	She comes from California.	Anatoka California.
+eng	swh	She decided to move to Belgium.	Aliamua kuhamia Ubelgiji.
 eng	swh	She didn't like him.	Hakumpenda.
 eng	swh	She has red flowers.	Ana maua mekundu.
 eng	swh	She hated him.	Alimchukia.
@@ -252,10 +275,14 @@ eng	swh	She's a good woman.	Yeye ni mwanamke mzuri.
 eng	swh	She's boiling eggs in the kitchen.	Anachemka mayai jikoni.
 eng	swh	She's cooking.	Anapika.
 eng	swh	She's cooking now.	Anapika sasa.
+eng	swh	She went out of her way to do such a foolish thing.	Alifanya kitendo hiki cha kijinga kimakusudi.
+eng	swh	Shot, huh?	Piga, huh?
 eng	swh	Someone knocked on the door.	Mtu alibisha mlango.
 eng	swh	Sometimes they say, "I can't go to school today. I'll go tomorrow."	Pengine husema, "Mimi leo siwezi kwenda shuleni. Nitakwenda kesho."
 eng	swh	Stay home.	Kaa nyumbani.
 eng	swh	Take a taxi to the hotel.	Kwenda kwa teksi hotelini.
+eng	swh	Take Jennifer for example.	Chukua Jennifer kama mfano.
+eng	swh	Technology has failed to ease the conflict between man and nature.	Teknolojia imeshindwa kupunguza mzozo kati ya mwanadamu na maumbile.
 eng	swh	Tell me all about the trip you've made.	Unieleze habari zote za safari uliyosafiri.
 eng	swh	Tell me how you will take the steamer from Mwanza to Bukoba.	Unieleze jinsi utakavyopanda stima kutoka pale Mwanza mpaka Bukoba.
 eng	swh	That's a tree.	Ule ni mti.
@@ -270,6 +297,10 @@ eng	swh	The boy wants to know the truth.	Mvulana anataka kujua ukweli.
 eng	swh	The car is out of order.	Gari limeharibika.
 eng	swh	The cat is eating.	Paka anakula.
 eng	swh	The children use sugar.	Watoto wanatumia sukari.
+eng	swh	The city was ruined by the brutal force of nature.	Jiji liliharibiwa na nguvu ya kikatili ya asili.
+eng	swh	The country's foreign trade depends entirely on this port.	Biashara ya nje ya nchi inategemea kabisa bandari hii.
+eng	swh	The criminal robbed the landlord of a hundred thousand dollars and ran away.	Mhalifu alimuibia mpangishaji nyumba dola mia elfu kisha akakimbia.
+eng	swh	The fish can swim.	Samaki anaweza kuogelea.
 eng	swh	The fish can swim.	Samaki inaweza kuogelea.
 eng	swh	The girl has a white horse.	Msichana ana farasi nyeupe.
 eng	swh	The girl wants to know the truth.	Msichana anataka kujua ukweli.
@@ -277,6 +308,7 @@ eng	swh	The horse is black.	Farasi ni mweusi.
 eng	swh	The horse is jumping.	Farasi anaruka.
 eng	swh	The horse is not white.	Farasi si mweupe.
 eng	swh	Their car is not good.	Gari yao si jizuri.
+eng	swh	The king was famous for his splendid palace.	Mfalme alikuwa maarufu kwa sababu ya kasri lake kuu.
 eng	swh	The library is to the left.	Maktaba ni upande wa kushoto.
 eng	swh	The library is to the right.	Maktaba ni upande wa kulia.
 eng	swh	The man is eating bread.	Mwanamume anakula mkate.
@@ -285,6 +317,8 @@ eng	swh	The man wants to know the truth.	Mtu anataka kujua ukweli.
 eng	swh	The men are generally tired when they come back from work.	Wanaume huwa wamechoka warudipo kutoka kazini.
 eng	swh	The men go to work.	Wanaume wakakwenda kazini.
 eng	swh	The people there are not so dumb.	Kule watu wanaelewa.
+eng	swh	The performance was received with applause.	Maonyesho yalipokelewa kwa shangwe.
+eng	swh	The prime minister was unable to form a cabinet.	Waziri Mkuu hakuweza kuunda Baraza la Mawaziri.
 eng	swh	There are a lot of big cities in Brazil.	Kuna miji mingi mikubwa katika Brazil.
 eng	swh	There are islands in the sea.	Kuna visiwa katika bahari.
 eng	swh	There are not enough bananas.	Ndizi hazitoshi.
@@ -292,6 +326,7 @@ eng	swh	There are not enough mangoes.	Embe hazitoshi.
 eng	swh	There are not enough mangoes.	Maembe hayatoshi.
 eng	swh	There are not enough oranges.	Machungwa hayatoshi.
 eng	swh	There are students in the library.	Kuna wanafunzi maktabani.
+eng	swh	There go the twelve bars blues.	Inapitia vipigwa kumi na viwili.
 eng	swh	There is fruit.	Kuna matunda.
 eng	swh	There is gruel.	Kuna uji.
 eng	swh	There is not enough bread.	Mkate hautoshi.
@@ -302,13 +337,19 @@ eng	swh	There is not enough gruel.	Uji hautoshi.
 eng	swh	There is not enough meat.	Nyama haitoshi.
 eng	swh	There is not enough milk.	Maziwa hayatoshi.
 eng	swh	There is not enough tea.	Chai haitoshi.
+eng	swh	There's a red rose in the pot.	Kwenye chungu kuna waridi jekundu.
 eng	swh	There's not enough food.	Chakula hakitoshi.
+eng	swh	There you see the gate which Mr Jones built.	Huko unaona lango ambalo Mr Jones aliijenga.
+eng	swh	The rumor became common property.	Uvumi huo ukawa mali ya kawaida.
 eng	swh	The Russian language is a Slavic language spoken natively in Russia, Belarus, Ukraine, Kazakhstan and Kyrgyzstan, and is widely used, although without official imprimatur, in Latvia, Estonia and many other countries that form the constituent republics of the former Soviet Union.	Lugha ya kirusi ni lugha ya kislavoni inayoongelewa kama lugha ya asili huko Urusi, Belarusi, Ukraine, Kazakhstan na Kyrgyzstan, na pia inatumika sana, ijapokuwa si kama lugha rasmi huko Latvia, Estonia na nchi nyingine nyingi zilizokuwa ni jamhuri katika Umoja wa Sovieti wa zamani.
 eng	swh	The stone is heavy.	Jiwe ni zito.
+eng	swh	The students' union runs a bar on campus.	Muungano wa wanafunzi inasimamia baa katika chuo.
+eng	swh	The waves were crashing on the shore; it was a lovely sight.	Mawimbi yalikuwa yakiporomoka ufukweni; ilikuwa inapendeza macho.
 eng	swh	The woman wants to know the truth.	Mwanamke anataka kujua ukweli.
 eng	swh	They are not coming today.	Hawaji leo.
 eng	swh	They come from Sweden.	Wanatoka Uswidi.
 eng	swh	They know what "vitamin" means.	Wanajua maana ya vitamin ni nini.
+eng	swh	They mentioned two famous tourist spots, neither of which we have visited yet.	Walitaja maeneo mawili maarufu ya watalii ambayo hatujawahi kuyatembelea.
 eng	swh	They're bad.	Wao ni mbaya.
 eng	swh	They're children.	Wao ni watoto.
 eng	swh	They're reading a book.	Wanasoma kitabu.
@@ -317,10 +358,13 @@ eng	swh	This horse is not white.	Farasi hii si mweupe.
 eng	swh	This horse is white.	Farasi hii ni mweupe.
 eng	swh	This is my cat.	Hii paka ni yangu.
 eng	swh	This is my third week.	Hii ni wiki yangu ya tatu.
+eng	swh	This new product of ours is a serious blow to our rival company.	Bidhaa hii mpya yetu ni pigo kubwa kwa kampuni yetu pinzani.
 eng	swh	Tláloc likes to travel.	Tlaloc anapenda kusafiri.
 eng	swh	Tláloc likes travelling.	Tlaloc anapenda kusafiri.
+eng	swh	To no one's surprise, loud noise has been proven to affect one's sense of hearing.	Kwa mshangao, kelele kubwa imethibitishwa kuwa inaathiri hisia za kusikia.
 eng	swh	Turn off the light.	Zima taa.
 eng	swh	Turtles don't have teeth.	Kobe hana meno.
+eng	swh	Two can play at that game.	Watu wawili wanaweza kucheza mchezo huo.
 eng	swh	Water is life.	Maji ni uhai.
 eng	swh	We are students.	Sisi ni wanafunzi.
 eng	swh	We did not see any children at all.	Hatukuona watoto wo wote.
@@ -330,6 +374,7 @@ eng	swh	We didn't see any children at all.	Hatukuona watoto wo wote.
 eng	swh	We didn't see a single game.	Hatukuona michezo yo yote.
 eng	swh	We're cooking now.	Tunapika sasa.
 eng	swh	We're writing.	Tunaandika.
+eng	swh	We sang songs in chorus.	Tuliimba nyimbo kwa kwaya.
 eng	swh	What are you doing?	Mnafanya nini?
 eng	swh	What are you doing?	Unafanya nini?
 eng	swh	What can we drink?	Tunaweza kunywa nini?
@@ -362,10 +407,12 @@ eng	swh	"Will Juma go to the market with Hasani?" "No, he will go alone."	"Juma 
 eng	swh	"Will the children stay at home with their mother?" "No, they will stay alone."	"Watoto watakaa nyumbani na mama yao?" "La. Watakaa peke yao."
 eng	swh	"Will the porters come with their master?" "No, they will come alone."	"Wachukuzi watakuja na bwana wao?" "La. Watakuja peke yao."
 eng	swh	"Will you go to the market with Juma?" "No, I shall go alone."	"Utakwenda sokoni na Juma?" "La. Nitakwenda peke yangu."
+eng	swh	Wolves wander in the woods.	Mbwa mwitu hutanga katika msitu.
 eng	swh	Would you like another cup of coffee?	Je, ungependa kikombe kingine cha kahawa?
 eng	swh	Would you like some fruit?	Je, unataka matunda?
 eng	swh	Yes, bring me gruel.	Ndiyo. Niletee uji.
 eng	swh	Yes, there are two important reasons.	Ndiyo, kuna sababu kubwa mbili.
+eng	swh	“Yikes, my battery’s nearly dead.” “You should have charged it overnight while you were sleeping.”	"Yik, betri yangu imekaribia kuisha." "Ungeitia kwenye moto usiku kucha wakati umelala."
 eng	swh	You are a student.	Wewe ni mwanafunzi.
 eng	swh	You are children.	Nyinyi ni watoto.
 eng	swh	You are my friend.	Wewe ni rafiki yangu.

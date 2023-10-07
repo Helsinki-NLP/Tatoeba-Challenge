@@ -1,10 +1,17 @@
 tur	yid	Affedersiniz. Metro nerede?	זײַט מוחל, װוּ איז די אונטערבאַן?
 tur	yid	Almanya büyük bir ülkedir.	דײַטשלאַנד איז אַ גרויס לאַנד.
 tur	yid	Amharca kolay bir dil değildir.	אַמהאַריש איז נישט קיין גרינגע שפּראַך.
+tur	yid	Anarşistim.	כ׳בין אַן אַנאַרכיסט.
 tur	yid	Antisemitistlerin gerçekten inandıkları şey bu.	דאָס איז וואָס גלײַבן די אַנטיסעמיטן טאַקע.
 tur	yid	Antisemitizm aptalların sosyalizmidir.	אַנטיסעמיטיזם איז דער סאָציאַליזם פֿון די נאַראָנים‎.
+tur	yid	Artık Tanrı'ya inanmıyorum.	איך גלייב מער נישט אין גאָט.
+tur	yid	Aşk aşkı sevmeyi sever.	ליבע האָט ליב, ליב צו האָבן ליבע.
+tur	yid	Avrupa yok.	אייראָפּע עקסיסטירט נישט.
+tur	yid	Avrupa yok.	נישטאָ קיין אייראָפּע.
 tur	yid	Avusturya'da koala var.	ס'איז פֿאַראַן קאָאַלעס אין עסטרײַך.
 tur	yid	Babam yerine oraya ben gittim.	איך בין אַהין געגאַנגען אַנשטאַט מײַן טאַטן.
+tur	yid	Başka bir dünya mümkün mü?	אַן אַנדער וועלט איז מעגלעך?
+tur	yid	Başka bir dünya mümkün mü?	צי איז אַן אַנדער וועלט מעגלעך?
 tur	yid	Ben bir iguana değilim.	כ׳בין נישט קיין איגואַנע.
 tur	yid	Ben bir iguana değilim.	כ׳בין נישט קיין לעגוואַן.
 tur	yid	Ben bir kanguru değilim.	כ׳בין נישט קיין קענגורו.
@@ -21,17 +28,29 @@ tur	yid	Benim adım Sami ve senin kuzeninim.	מײַן נאָמען איז סאַ
 tur	yid	Benim adım Sami ve senin kuzeninim.	מײַן נאָמען איז סאַמי און איך בין דײַן שוועסטערקינד.
 tur	yid	Benim üç erkek kardeşim ve dört kız kardeşim var.	איך האָב דרײַ ברידער און פֿיר שוועסטער.
 tur	yid	Ben senim.	איך בין דו.
+tur	yid	Bilmiyorum, Tom.	איך ווייס נישט, טאָם.
+tur	yid	Birisi beni öldürmek istedi.	עמעצער האָט מיך געוואָלט הרגענען.
 tur	yid	Bir toplumda yaşıyoruz.	אונז לעבן אין א געזעלשאפט.
 tur	yid	Bir toplumda yaşıyoruz.	מיר לעבן אין אַ געזעלשאַפֿט.
+tur	yid	Biz Yahudiyiz.	אונז זענען אידן.
+tur	yid	Biz Yahudiyiz.	מיר זענען ייִדן.
 tur	yid	Bu ettir.	דאָס איז פֿלייש.
 tur	yid	Bugünü anlamak için geçmişe bakmak gerekir.	כּדי צו פֿאַרשטיין דעם הווה, מוז מען באַטראַכטן דעם עבֿר.
+tur	yid	Bu nadiren olur.	דאָס פּאַסירט זעלטן.
 tur	yid	Bunu sadece Tom becerebilir.	נאָר טאָם איז מסוגל דערצו.
 tur	yid	Bunu sadece Tom becerebilir.	נאָר טאָם איז פֿעיִק דערצו.
 tur	yid	Çiçekler sarıdır.	די בלומען זענען געל.
+tur	yid	Çok istemiyorum.	איך וויל נישט קיין סך.
+tur	yid	Çok paran yok.	דו האָסט נישט קיין סך געלט.
+tur	yid	Çok teşekkürler.	אַ גרויסן דאַנק.
+tur	yid	Cookie'yi bulduk.	מיר האָבן געפֿונען קיכלן.
 tur	yid	Daha güçlüyüz.	אונז זעמיר שטאַרקער.
 tur	yid	Daha güçlüyüz.	מיר זײַנען שטאַרקער.
 tur	yid	Daha güçlüyüz.	מיר זענען שטאַרקער.
 tur	yid	Daha önce hiç kar görmedim.	כ׳האָב נאָך קיין מאָל נישט געזען שניי.
+tur	yid	Devlet benim.	די מלוכה בין איך.
+tur	yid	Domates yemeyi sevmem.	איך האָב נישט ליב צו עסן טאָמאַטן.
+tur	yid	Domates yemeyi sevmem.	איך האָב נישט ליב צו עסן פּאָמידאָרן.
 tur	yid	Donald Trump bokun adını lekeliyor.	דאָנאַלד טראָמפּ לאָזט אויף דרעק אַ שם־רע.
 tur	yid	Donald Trump iflah olmaz bir yalancı.	דאָנאַלד טראָמפּ איז אַ פּאַטאָלאָגישער ליגנער.
 tur	yid	Donald Trump iflah olmaz bir yalancı.	דאָנאַלד טראָמפּ איז אַ קאָמפּולסיווער ליגנער.
@@ -56,6 +75,7 @@ tur	yid	Hayat bir sürgündür.	דאָס לעבן איז אַ פֿאַרשיקו
 tur	yid	Hayırlı Ramazanlar.	אַ גוטן ראַמאַדאַן.
 tur	yid	Hayırlı Ramazanlar.	ראַמאַדאַן מובאַראַק.
 tur	yid	Hayırlı Ramazanlar.	ראַמאַדאַן קאַרים.
+tur	yid	Her şey birdir.	אַלץ איז איינס.
 tur	yid	Hindistan'da aslanlar var.	ס׳איז דאָ לייבן אין אינדיע.
 tur	yid	Hindistan'da aslanlar var.	פֿאַראַן לייבן אין אינדיע.
 tur	yid	Hintli değilim.	כ'בין ניט קײן אינדער.
@@ -64,6 +84,7 @@ tur	yid	İdealistim.	כ׳בין אַן אידעאַליסט.
 tur	yid	İdealistim.	כ׳בין אַן אידעאַליסטקע.
 tur	yid	İdealisttim.	כ׳בין געווען אַן אידעאַליסט.
 tur	yid	İdealisttim.	כ׳בין געווען אַן אידעאַליסטקע.
+tur	yid	İsa Hristiyan değildi.	יעזוס איז נישט געווען קיין קריסט.
 tur	yid	İyi bir kız olacağım.	כ׳וועל זײַן אַ גוט מיידל.
 tur	yid	İyi geceler, Tatoeba.	אַ גוטע נאַכט, טאַטאָעבאַ.
 tur	yid	İyi geceler, Tatoeba.	אַ גוטע נאַכט, טאַטאָעבע.
@@ -71,6 +92,8 @@ tur	yid	İyi geceler.	גוטע נאַכט.
 tur	yid	Kabil iyi bir kardeş değildi.	קין איז נישט געווען קיין גוט מיטקינד.
 tur	yid	Kabil iyi bir kardeş değildi.	קין איז נישט געווען קיין גוטער ברודער.
 tur	yid	Kaç tane hizmetçiniz var?	וויפֿל משרתים האָט איר?
+tur	yid	Kanadalıyım ama Avustralya'da yaşıyorum.	איך בין אַ קאַנאַדער, אָבער איך וווין אין אויסטראַליע.
+tur	yid	Kanadalıyım ama Avustralya'da yaşıyorum.	איך בין אַ קאַנאַדערין, אָבער איך וווין אין אויסטראַליע.
 tur	yid	Kediceyi akıcı olarak bilmiyorum.	מײַן קעציש איז נישט פֿליסיק.
 tur	yid	Kedilerim beni seviyor.	מײַנע קעץ האָבן מיך ליב.
 tur	yid	Kitabı oku!	לייען דאָס בוך!
@@ -79,6 +102,7 @@ tur	yid	Kürdistanlıyım.	כ׳בין פֿון קורדיסטאַן.
 tur	yid	Kürtçe konuşuyorum.	כ׳רעד קורדיש.
 tur	yid	Leyla bir çevirmen.	לילע איז אַן איבערזעצערין.
 tur	yid	Leyla bir tercüman.	לילע איז אַן איבערזעצערין.
+tur	yid	Marx ve Engels nebi değildi.	מאַרקס און ענגעלס זענען נישט געווען קיין נבֿיאים.
 tur	yid	Mary parayı sever.	מערי האָט ליב געלט.
 tur	yid	Merhaba, benim adım Tom. Seninki ne?	שלום־עליכם, מײַן נאָמען איז טאָם. וואָס איז אײַערער‎?
 tur	yid	Muhtemelen doğru söylüyor.	ער זאָגט מסתּמא דעם אמת.
@@ -86,20 +110,30 @@ tur	yid	Nefret ediyorum ve seviyorum. Neden diye sorarsan bilmiyorum, böyle ge�
 tur	yid	Noel seküler bir tatil değildir.	ניטל איז נישט קיין סעקולערער יום־טובֿ.
 tur	yid	O, Almanca öğreniyor.	זי לערנט זיך דײַטש.
 tur	yid	O, Almanca öğreniyor.	ער לערנט זיך דײַטש.
+tur	yid	O antisemit bir Yahudi.	ער איז אַ ייִד אַן אַנטיסעמיט.
 tur	yid	O bir vejeteryan.	זי איז אַ וועגעטאַריערין.
 tur	yid	O bir vejeteryan.	ער איז אַ וועגעטאַריער.
 tur	yid	Öldüler.	זיי זענען טויט.
 tur	yid	Onlar alkolik.	זיי זײַנען אַלקאָהאָליקער.
 tur	yid	Onlar alkolik.	זיי זענען אַלקאָהאָליקער.
+tur	yid	Onlar balık.	זיי זענען פֿיש.
 tur	yid	Onlar mutlular.	זיי זײַנען פֿריילעך.
 tur	yid	Onlar mutlular.	זיי זענען פֿריילעך.
 tur	yid	Onlar mutlu.	זיי זײַנען פֿריילעך.
 tur	yid	Onlar mutlu.	זיי זענען פֿריילעך.
+tur	yid	Onlar Rumen mi?	צי זענען זיי רומענער?
+tur	yid	Onlar Rumen mi?	צי זענען זיי רומענערין?
 tur	yid	Onlar tembel insanlardır.	זיי זענען פֿוילע מענטשן.
+tur	yid	Ot içiyorum.	איך רייכער גראָז.
+tur	yid	O Yahudi değil.	ער איז נישט קיין ייִד.
 tur	yid	O zamanlar farklıydı.	דעמאָלט איז עס געווען אַנדערש.
 tur	yid	Patlıcan harikaydı.	דער פּאַטלעזשאַן איז געווען אויסגעצייכנט.
+tur	yid	Portakal sever misin?	צי געפֿעלן דיר מאַראַנצן?
 tur	yid	Sadece üç kitabım var.	איך האָב נאָר דרײַ ביכער.
 tur	yid	Sami, Mike Tyson'a benziyor.	סאַמי זעט אויס ווי מײַק טײַסאָן.
+tur	yid	Sana bir sone yazdım.	איך האָב דיר געשריבן אַ סאָנעט.
+tur	yid	Savaş istemiyoruz.	מיר ווילן נישט קיין מלחמה.
+tur	yid	Savaş kötüdür.	די מלחמה איז שלעכט.
 tur	yid	Seks bir ganimet değildir.	דער סעקס איז נישט קיין טראָפֿעע.
 tur	yid	Seks bir ganimet değildir.	דער תּשמיש איז נישט קיין טראָפֿעע.
 tur	yid	Seks bir ganimet değildir.	דער תּשמיש־המיטה איז נישט קיין טראָפֿעע.
@@ -109,6 +143,7 @@ tur	yid	Seni davet etmedim.	כ׳האָב דיך נישט אײַנגעלאַדן.
 tur	yid	Siyonizm karşıtlığı Yahudi düşmanlığı değildir.	אַנטיציוניזם איז ניט אַנטיסעמיטיזם.
 tur	yid	Siyonizm karşıtlığı Yahudi düşmanlığı değildir.	אַנטיציוניזם איז נישט אַנטיסעמיטיזם.
 tur	yid	Stegosaurusumuz var.	מיר האָבן אַ סטעגאָזאַווער.
+tur	yid	Tanrı'dan başka kazanan yoktur.	נישטאָ קיין בעל־⁠נצחון אחוץ גאָט.
 tur	yid	Tarih ve siyasetle ilgili tartışmalı konularda Wikipedia'yı güvenilir bir kaynak olarak görmüyorum.	איך באַטראַכט נישט וויקיפּעדיע ווי קיין אסמכתא וועגן מחלוקתדיקע היסטאָרישע און פּאָליטישע טעמעס.
 tur	yid	Tom akıl hastası değil.	טאָם איז נישט גײַסטיק קראַנק.
 tur	yid	Tom, Avustralya'nın var olduğuna inanmıyor.	טאָם גלייבט נישט, אַז אויסטראַליע עקסיסטירט.
@@ -117,6 +152,7 @@ tur	yid	Tom bir astronot.	טאָם איז אַ קאָסמאָנויט.
 tur	yid	Tom bir çevirmen.	טאָם איז אַן איבערזעצער.
 tur	yid	Tom bir felsefeci.	טאָם איז אַ פֿילאָסאָף.
 tur	yid	Tom bir filozof.	טאָם איז אַ פֿילאָסאָף.
+tur	yid	Tom bir otoriter.	טאָם איז אַן אויטאָריטאַר.
 tur	yid	Tom bir tercüman.	טאָם איז אַן איבערזעצער.
 tur	yid	Tom bunu denedi mi?	האָט טאָם דאָס פּרובירט?
 tur	yid	Tom bunu denedi mi?	צי האָט טאָם דאָס פּרובירט?
@@ -147,12 +183,18 @@ tur	yid	Türk müsünüz?	צי זענט איר אַ טערקישע?
 tur	yid	Türk müsünüz?	צי זענט איר אַ טערקישער?
 tur	yid	Türk ve Kürt kardeştir.	טערק⁠ן און קורדן זענען ברידער.
 tur	yid	Üç erkek, dört de kız kardeşim var.	איך האָב דרײַ ברידער און פֿיר שוועסטער.
+tur	yid	Ukrayna devlet başkanı yahudidir.	דער פּרעזידענט פֿון אוקראַיִנע איז אַ ייִד.
+tur	yid	Ukrayna'ya özgürlük!	באַפֿרײַט אוקראַיִנע!
+tur	yid	Umarım Senpai beni fark eder.	איך האָף, אַז „סענפּײַ״ וועט מיך באַמערקן.
 tur	yid	Uranüs bir gezegendir.	אוראַן איז אַ פּלאַנעט.
 tur	yid	Uranüs gezegendir.	אוראַן איז אַ פּלאַנעט.
+tur	yid	Yahudiyiz.	אונז זענען אידן.
+tur	yid	Yahudiyiz.	מיר זענען ייִדן.
 tur	yid	Yanni sadece emirlere uyuyordu.	יאַני האָט נאָר געפֿאָלגט באַפֿעלן.
 tur	yid	Yanni sadece emirleri yerine getiriyordu.	יאַני האָט נאָר אויסגעפֿירט באַפֿעלן.
 tur	yid	Yaşam bir sürgündür.	דאָס לעבן איז אַ פֿאַרשיקונג.
 tur	yid	Yaşam bir sürgündür.	דאָס לעבן איז גלות.
+tur	yid	Yeni bir roman yazıyor.	ער שרײַבט אַ נײַעם ראָמאַן.
 tur	yid	Yidce konuşalım!	לאָמיר רעדן ייִדיש!
 tur	yid	Yidiş Almanca değil.	ייִדיש איז נישט דײַטש.
 tur	yid	Yidişçe konuşalım!	לאָמיר רעדן ייִדיש!

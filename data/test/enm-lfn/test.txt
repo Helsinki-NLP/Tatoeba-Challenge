@@ -8,8 +8,8 @@ enm_Latn	lfn_Cyrl	Ye stinken.	Ту малодори.
 enm_Latn	lfn_Cyrl	Þou stinkest.	Ту апеста.
 enm_Latn	lfn_Cyrl	Þou stinkest.	Ту малодори.
 enm_Latn	lfn_Latn	Are ye Frensh or English?	Esce tu es franses o engles?
-enm_Latn	lfn_Latn	Are ȝe Frensh or English?	Esce tu es franses o engles?
 enm_Latn	lfn_Latn	Are ye Frensh or English?	Tu es franses o engles?
+enm_Latn	lfn_Latn	Are ȝe Frensh or English?	Esce tu es franses o engles?
 enm_Latn	lfn_Latn	Are ȝe Frensh or English?	Tu es franses o engles?
 enm_Latn	lfn_Latn	Artou Frensh or English?	Esce tu es franses o engles?
 enm_Latn	lfn_Latn	Artou Frensh or English?	Tu es franses o engles?
@@ -22,7 +22,10 @@ enm_Latn	lfn_Latn	Haters shule haten.	Odiores va odia.
 enm_Latn	lfn_Latn	Have nou god night, Thomas.	Bon note, Tom.
 enm_Latn	lfn_Latn	Haveþ nou god night, Tatoeba.	Bon note, Tatoeba.
 enm_Latn	lfn_Latn	Hitler hetide the Jeues.	Hitler ia odia la iudis.
+enm_Latn	lfn_Latn	I drap Thomas.	Me ia mata Tom.
+enm_Latn	lfn_Latn	I love min auntes.	Me ama mea tias.
 enm_Latn	lfn_Latn	I sang.	Me ia canta.
+enm_Latn	lfn_Latn	Love loveth to loven love.	Ama ama ama ama.
 enm_Latn	lfn_Latn	Olifauntes ete gras.	Elefantes come erba.
 enm_Latn	lfn_Latn	Rede another bok.	Leje un otra libro.
 enm_Latn	lfn_Latn	Sami legh.	Sami ia menti.
@@ -33,6 +36,8 @@ enm_Latn	lfn_Latn	Thomas heteth straungers.	Tom odia stranjeres.
 enm_Latn	lfn_Latn	Thou schalt fle a lesyng.	Distanti de un cosa mentinte.
 enm_Latn	lfn_Latn	Thou stinkest.	Tu apesta.
 enm_Latn	lfn_Latn	Thou stinkest.	Tu malodori.
+enm_Latn	lfn_Latn	Tres aren alyve.	Arbores vive.
+enm_Latn	lfn_Latn	Tres been alyve.	Arbores vive.
 enm_Latn	lfn_Latn	We liven in a commune.	Nos vive en un sosia.
 enm_Latn	lfn_Latn	What is a word?	Cual es un parola?
 enm_Latn	lfn_Latn	What is fredom?	Cual es libria?

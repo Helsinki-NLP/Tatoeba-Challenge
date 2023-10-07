@@ -171,6 +171,7 @@ hrv	spa	On je Kinez.	Él es chino.
 hrv	spa	On je moj stariji brat.	Él es mi hermano mayor.
 hrv	spa	On ništa nije rekao.	No dijo nada.
 hrv	spa	On se nasmijao na mojem izgovoru.	Se rió de mi pronunciación.
+hrv	spa	On vas ne razumije.	Él no les entiende a ustedes.
 hrv	spa	Oprostite, što je sati?	Disculpe, ¿qué hora es?
 hrv	spa	Otkrit ću ti jednu tajnu.	Voy a contarte un secreto.
 hrv	spa	Otporan sam na hladnoću.	Soy resistente al frío.
@@ -197,6 +198,7 @@ hrv	spa	Prosječni prostor življenja u Americi je dva puta veći nego u Japanu.
 hrv	spa	Protiv je rasne diskriminacije.	Él se opone a la discriminación racial.
 hrv	spa	Puno se pilo jučer.	Ayer se bebió mucho.
 hrv	spa	Razorili smo raj i pakao.	Hemos destruido el paraíso y el infierno.
+hrv	spa	Rezultati su bili negativni.	Los resultados fueron negativos.
 hrv	spa	Sada nemam puno vremena.	Ahora no tengo mucho tiempo.
 hrv	spa	Sljedeći četvrtak je praznik.	El próximo jueves es feriado.
 hrv	spa	Smijem li te poljubiti?	¿Puedo besarte?
@@ -222,6 +224,7 @@ hrv	spa	Sviđa mi se kako se oblačiš.	Me gusta como te vestís.
 hrv	spa	Sviđa mi se ova glazba.	Me gusta esta música.
 hrv	spa	Sviđa mi se Tom jer je pošten.	Me gusta Tom porque es honesto.
 hrv	spa	Svi su psi vjerni.	Todos los perros son fieles.
+hrv	spa	Svi su se nasmiješili	Todo el mundo sonrió.
 hrv	spa	Ta knjiga nije vrijedna čitanja.	Es inútil leer semejante libro.
 hrv	spa	Tako sam umoran da ne mogu učiti.	Estoy tan cansado que no puedo estudiar.
 hrv	spa	Telefonirao me je u ponoć.	Él me dio un anillo a medianoche.
@@ -240,6 +243,7 @@ hrv	spa	Tom je jako daleko.	Tom está muy lejos.
 hrv	spa	Tom je zaboravio nahraniti Marijina psa.	A Tom se le olvidó dar de comer al perro de María.
 hrv	spa	Tom nije anđeo.	Tom no es ángel.
 hrv	spa	Tom nije anđeo.	Tom no es un ángel.
+hrv	spa	Tom se igra sa svojim psima	Tom está jugando con sus perros.
 hrv	spa	Tom voli čaj više nego kavu.	A Tom le gusta más el té que el café.
 hrv	spa	To nije bitno.	No es esencial.
 hrv	spa	To putovanje će ostati u lijepom sjećanju.	Guardaremos buenos recuerdos de este viaje.
@@ -258,6 +262,7 @@ hrv	spa	Vidimo ono što želimo vidjeti.	Vemos lo que queremos ver.
 hrv	spa	VIdjeli smo da djeca ulaze u autobus.	Vimos cómo los niños se subían al autobús.
 hrv	spa	Više nije mogao izdržati bol.	No podía aguantar más el dolor.
 hrv	spa	Vjerojatno je to napravila jučer.	Ella supuestamente lo hizo ayer.
+hrv	spa	Vlasnik sam jahte.	Tengo un yate.
 hrv	spa	Voda se ledi pri ništici.	El agua se congela a los cero grados centígrados.
 hrv	spa	Volim korejsku hranu.	Me gusta la comida coreana.
 hrv	spa	Volim sunce.	Me encanta el sol.
@@ -276,12 +281,14 @@ hrv	spa	Zapisala sam njegov broj na komadiću papira.	Anoté su número en un tr
 hrv	spa	Zapisao sam njegov broj na komadiću papira.	Anoté su número en un trozo de papel.
 hrv	spa	Zašto je on ovdje?	¿Por qué está aquí?
 hrv	spa	Zašto kažeš to?	¿Por qué dices eso?
+hrv	spa	Zašto neki ljudi imaju rupice na obrazima?	¿Por qué algunas personas tienen hoyuelos?
 hrv	spa	Zašto životinje ne mogu pričati?	¿Por qué no pueden hablar los animales?
 hrv	spa	Zatvorite sva vrata i prozore.	Cierren todas las puertas y ventanas.
 hrv	spa	Želim dečka.	Quiero un novio.
 hrv	spa	Želim ispraviti ovaj članak.	Quiero corregir este artículo.
 hrv	spa	Želim željeti ono što ti želiš.	Quiero querer lo que tú quieres.
 hrv	spa	Žene rade u restoranu.	Las mujeres trabajan en un restaurante.
+hrv	spa	Zimi je vrh planine prekriven snijegom.	La cima de la montaña está cubierta de nieve en el invierno.
 hrv	spa	Živiš li ovdje?	¿Vives aquí?
 hrv	spa	Život je lijep.	La vida es bella.
 hrv	spa	Znam da je ovo čudno.	Sé que esto es extraño.
@@ -309,6 +316,7 @@ srp_Cyrl	spa	Да ли је твоје?	¿Es tuyo?
 srp_Cyrl	spa	Да ли сте вешт кувар?	¿Es usted un cocinero hábil?
 srp_Cyrl	spa	Да ли сте овде учитељ или ученик?	¿Usted aquí es profesor o alumno?
 srp_Cyrl	spa	Данас смо чули причу о издвајању биогаса.	Hoy, oímos una historia acerca de la extracción de biogas.
+srp_Cyrl	spa	Данас ћемо причати о апстрактној уметности.	Hoy hablaremos del arte abstracto.
 srp_Cyrl	spa	Да, то је веома добро. Колико то кошта?	Sí, éste está muy bien. ¿Cuánto vale?
 srp_Cyrl	spa	Добро увек побеђује зло.	El bien gana siempre al mal.
 srp_Cyrl	spa	Довиђења!	Adiós.
@@ -355,6 +363,8 @@ srp_Cyrl	spa	Конференција ће завршити сутра.	La confe
 srp_Cyrl	spa	Ко рано рани, две среће граби.	A quien madruga Dios le ayuda.
 srp_Cyrl	spa	Ко си ти?	¿Quién eres?
 srp_Cyrl	spa	Љубим те.	Te quiero.
+srp_Cyrl	spa	Мала деца нису способна да мисле на апстрактан начин.	Los niños pequeños son incapaces de pensar de manera abstracta.
+srp_Cyrl	spa	Марија има белу мачку.	Maria tiene un gato blanco.
 srp_Cyrl	spa	Ми смо брат и сестра.	Somos hermano y hermana.
 srp_Cyrl	spa	Ми смо стари пријатељи.	Somos viejos amigos.
 srp_Cyrl	spa	Много је гостију у тој соби.	Hay muchos huéspedes en esta habitación.
@@ -362,10 +372,12 @@ srp_Cyrl	spa	Моја кућа је близу школе.	Mi casa está cerca d
 srp_Cyrl	spa	Моја супруга воли своју башту.	A mi esposa le gusta su jardín.
 srp_Cyrl	spa	Мој отац има нов аутомобил.	Mi padre tiene un coche nuevo.
 srp_Cyrl	spa	Молим те,контактирај ме путем имејла.	Por favor, contácteme por correo.
+srp_Cyrl	spa	Мрзим своју комшиницу.	Odio a mi vecina.
 srp_Cyrl	spa	Не губи наду.	No pierdas la esperanza.
 srp_Cyrl	spa	Не знам енглески, још мање шпански.	No puedo hablar en inglés, mucho menos en español.
 srp_Cyrl	spa	Нема на чему.	De nada.
 srp_Cyrl	spa	Не могу.	No puedo.
+srp_Cyrl	spa	Не могу да променим оно што се десило јуче.	No puedo cambiar lo que pasó ayer.
 srp_Cyrl	spa	Не тако брзо!	¡No tan rápido!
 srp_Cyrl	spa	Никада нисам видео тако сјајну звезду као ову.	Nunca vi una estrella tan brillante como esa.
 srp_Cyrl	spa	Нови коронавирус је веома заразан.	El nuevo virus corona es muy infeccioso.
@@ -420,6 +432,7 @@ srp_Cyrl	spa	Хвала!	¡Gracias!
 srp_Cyrl	spa	"Хвала." "Нема на чему."	"Gracias." "De nada."
 srp_Cyrl	spa	Хоћу да се женим.	Me quiero casar.
 srp_Cyrl	spa	Хоћу да се удам.	Me quiero casar.
+srp_Cyrl	spa	Чекај ме овде, молим те.	Espérame por aquí por favor.
 srp_Cyrl	spa	Честитамо!	¡Felicidades!
 srp_Cyrl	spa	Честитке!	¡Felicidades!
 srp_Cyrl	spa	Џон је мој добар друг.	Juan es mi mejor amigo.

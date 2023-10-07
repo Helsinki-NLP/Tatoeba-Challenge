@@ -9,8 +9,8 @@ cor	jpn_Hira	A Bow Frynk yth ov devedhys.	フランスから来ました。
 cor	jpn_Hira	Devedhys ov a Bow Frynk.	フランスから来ました。
 cor	jpn_Hira	Devedhys ov a Frynk.	フランスから来ました。
 cor	jpn_Hira	Duw genes, Sayoko.	さようなら、さよ子。
-cor	jpn_Hira	Eus dhis hwerydh?	女の兄弟がいますか。
 cor	jpn_Hira	Eus dhis hwerydh?	あなたには姉妹がいますか。
+cor	jpn_Hira	Eus dhis hwerydh?	女の兄弟がいますか。
 cor	jpn_Hira	Eus dhis hwerydh?	姉妹がいますか。
 cor	jpn_Hira	Ev a dheuth omma dhe’m gweres.	彼は私を手伝いに来てくれた。
 cor	jpn_Hira	Ev a dheuth omma rag ow gweres.	彼は私を手伝いに来てくれた。
@@ -71,40 +71,41 @@ cor	jpn_Hira	Ow thas yw.	彼は私の父です。
 cor	jpn_Hira	Pandr’a vyn’ta dhe wul?	君は何をするつもりなの。
 cor	jpn_Hira	Pes bloodh os ta?	おいくつですか？
 cor	jpn_Hira	Pes bloodh os ta?	何歳ですか。
-cor	jpn_Hira	Piw a skrifas an lyther ma?	誰がこの手紙を書きましたか。
 cor	jpn_Hira	Piw a skrifas an lyther ma?	誰がこの手紙を書いたのですか。
+cor	jpn_Hira	Piw a skrifas an lyther ma?	誰がこの手紙を書きましたか。
 cor	jpn_Hira	Piw yw agas dyskador?	君たちの先生はだれですか。
 cor	jpn_Hira	Ple feu Tom genys?	トムはどこで生まれましたか。
-cor	jpn_Hira	Ple’ma dha skol?	君の学校はどこにありますか。
 cor	jpn_Hira	Ple’ma dha skol?	あなたの学校はどこですか。
 cor	jpn_Hira	Ple’ma dha skol?	あなたの学校はどこにありますか?
+cor	jpn_Hira	Ple’ma dha skol?	君の学校はどこにありますか。
 cor	jpn_Hira	Ple’ma’gas skol?	あなたがたの学校はどこにありますか。
 cor	jpn_Hira	Ple’ma hy chi?	彼女の家はどこですか。
 cor	jpn_Hira	Ple'ma'n sodhva bost?	郵便局はどこですか。
 cor	jpn_Hira	Ple’ma va?	彼はどこだ？
 cor	jpn_Hira	Ple’mons i?	彼らはどこですか。
-cor	jpn_Hira	Ple’th esos ta?	どこにいるの？
-cor	jpn_Hira	Ple’th esos ta?	どこにいますか？
 cor	jpn_Hira	Ple’th esos ta?	あなたはどこですか。
-cor	jpn_Hira	Ple’th esowgh whi?	どこにいるの？
-cor	jpn_Hira	Ple’th esowgh whi?	どこにいますか？
+cor	jpn_Hira	Ple’th esos ta?	どこにいますか？
+cor	jpn_Hira	Ple’th esos ta?	どこにいるの？
 cor	jpn_Hira	Ple’th esowgh whi?	あなたはどこですか。
+cor	jpn_Hira	Ple’th esowgh whi?	どこにいますか？
+cor	jpn_Hira	Ple’th esowgh whi?	どこにいるの？
 cor	jpn_Hira	Pubonan a wor henna.	それは誰でも知っている。
 cor	jpn_Hira	Pubonan a wor henna.	誰でもみんなそれを知っている。
 cor	jpn_Hira	Pub seythen yth a dhe byskessa.	毎週釣りに行く。
 cor	jpn_Hira	Pur gales yw ragov kewsel Sowsnek.	私にとって、英語で話すのはとても難しいです。
-cor	jpn_Hira	Pur gales yw ragov kewsel Sowsnek.	英語を話す事は私にとってはとても難しいです。
 cor	jpn_Hira	Pur gales yw ragov kewsel Sowsnek.	英語を話すことは私にはとても難しいです。
+cor	jpn_Hira	Pur gales yw ragov kewsel Sowsnek.	英語を話す事は私にとってはとても難しいです。
 cor	jpn_Hira	Pur yeyn yw hi hedhyw.	今日はとても寒い。
-cor	jpn_Hira	Pyth esos ta ow kul?	何してるの？
-cor	jpn_Hira	Pyth esos ta ow kul?	何やってんの？
-cor	jpn_Hira	Pyth esos ta ow kul?	何をしているの。
-cor	jpn_Hira	Pyth esos ta ow kul?	何をしていますか。
 cor	jpn_Hira	Pyth esos ta ow kul?	何しているのですか。
+cor	jpn_Hira	Pyth esos ta ow kul?	何してるの？
+cor	jpn_Hira	Pyth esos ta ow kul?	何やってんだか。
+cor	jpn_Hira	Pyth esos ta ow kul?	何やってんの？
+cor	jpn_Hira	Pyth esos ta ow kul?	何をしていますか。
+cor	jpn_Hira	Pyth esos ta ow kul?	何をしているの。
 cor	jpn_Hira	Pyth yw agas hanow?	あなたのお名前は？
 cor	jpn_Hira	Pyth yw dha hanow?	あなたの名前は？
-cor	jpn_Hira	Pyth yw dha hanow?	お名前は？
 cor	jpn_Hira	Pyth yw dha hanow?	あなたの名前は何ですか。
+cor	jpn_Hira	Pyth yw dha hanow?	お名前は？
 cor	jpn_Hira	Pyth yw dha hanow?	お名前は何ですか。
 cor	jpn_Hira	Pyth yw dha hanow?	名前は何ですか。
 cor	jpn_Hira	Pyth yw y hanow?	彼の名前は何ですか。
@@ -119,8 +120,8 @@ cor	jpn_Hira	Tomm yw.	暑いです。
 cor	jpn_Hira	Toshio, piw yw da genes?	としお君は誰が好きですか。
 cor	jpn_Hira	Ty a wra anwosi.	君はかぜをひくよ。
 cor	jpn_Hira	Usi ev tre?	彼は在宅していますか。
-cor	jpn_Hira	Usi ev tre?	彼は家にいるか。
 cor	jpn_Hira	Usi ev tre?	彼は家にいますか。
+cor	jpn_Hira	Usi ev tre?	彼は家にいるか。
 cor	jpn_Hira	Usi hi tre?	彼女は家にいますか。
 cor	jpn_Hira	Y dhyskadores yw an venyn usi ow kewsel orth an maw na.	あの男に話しかけている婦人は彼の先生です。
 cor	jpn_Hira	Yeyn yw yn chi.	家は寒いです。

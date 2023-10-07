@@ -1,3 +1,12 @@
+fra	kor	Appréciez-vous ce que vous êtes devenus ?	당신이 변해버린 상태에 만족하십니까?
+fra	kor	Avez-vous montré cela à vos parents ?	이거 부모님께도 보여드렸어요?
+fra	kor	Ceci est une prise d’otage.	이건 인질극이다.
+fra	kor	Ce n'est pas facile d'écrire une lettre d'amour en anglais.	영어로 러브레터를 쓰는 것은 쉽지 않다.
+fra	kor	C’est dégueulasse.	지저분해.
+fra	kor	C’est dégueulasse.	구역질 나.
+fra	kor	C’est dégueulasse.	역겨워.
+fra	kor	Est-ce que je la reverrai ?	내가 그녀를 다시 보게 될까?
+fra	kor	Est-ce que je la reverrai ?	내가 그녀를 다시 볼 수 있을까?
 fra	kor_Hang	A ces deux occasions, je ne suis restée qu'un court moment à Paris. C'est pourquoi j'ai beaucoup de regrets.	그 기간동안 나는 오직 빠리에서만 짧게 머물렀기 때문에 그 기간이 매우 아쉬웠다.
 fra	kor_Hang	À chaque fois, je suis restée très peu de temps à Paris. Je le regrette bien.	그 기간동안 나는 오직 빠리에서만 짧게 머물렀기 때문에 그 기간이 매우 아쉬웠다.
 fra	kor_Hang	Aimez-vous le café ?	커피 좋아해요?
@@ -97,8 +106,8 @@ fra	kor_Hang	Il est parti pour Londres début juillet.	그는 7월 초에 런던
 fra	kor_Hang	Il est professeur et moi aussi.	그분도 저도 선생님이예요.
 fra	kor_Hang	Il est soprano.	그는 소프라노로 노래부른다.
 fra	kor_Hang	Il est toujours heureux.	항상 행복하다.
-fra	kor_Hang	Il était de nature passive.	얘는 원래 소극적이야.
 fra	kor_Hang	Il était de nature passive.	그는 태생적으로 소극적이다.
+fra	kor_Hang	Il était de nature passive.	얘는 원래 소극적이야.
 fra	kor_Hang	Il fait beau temps aujourd'hui par rapport à hier.	오늘의 날씨가 어제보다 더 아름답다.
 fra	kor_Hang	Il marmonnait encore quelque chose concernant les hôpitaux à la fin de la fête, quand il a glissé sur un morceau de glace et s'est brisé la jambe gauche.	파티 막바지에 그는 아직도 병원에 대해서 뭔가 중얼거리고 있었는데 얼음 조각에 미끄러 넘어져 왼쪽다리를 부러졌다.
 fra	kor_Hang	Il ne lui manquait qu'un seul défaut pour être parfaite.	한가지만 빼면 그녀는 완벽해요.
@@ -139,8 +148,8 @@ fra	kor_Hang	Je n'aime pas son chapeau.	나는 그의 모자가 싫다.
 fra	kor_Hang	Je ne comprends pas non plus.	저도 모르겠어요.
 fra	kor_Hang	Je ne l'ai jamais entendu dire non.	나는 그녀가 안됀다고 말하는 걸 들어 본적이 없다.
 fra	kor_Hang	Je ne le ferais pas si j'étais à ta place.	네 입장이라면 나는 그 일을 하지 않겠다.
-fra	kor_Hang	Je ne sais pas.	모르겠어요.
 fra	kor_Hang	Je ne sais pas.	모르겠습니다.
+fra	kor_Hang	Je ne sais pas.	모르겠어요.
 fra	kor_Hang	Je ne sais pas ce que ce mot signifie. Je le chercherai dans le dictionnaire.	나는 이 단어의 뜻을 모르겠다. 사전을 찾아봐야 겠어.
 fra	kor_Hang	Je ne sais pas quel âge j'ai.	나는 내가 몇살인지 모르겠다.
 fra	kor_Hang	Je ne sais pas si j'ai le temps.	시간 있는지 잘 모르겠어요.
@@ -163,8 +172,8 @@ fra	kor_Hang	Je suis étudiante.	저는 학생이에요.
 fra	kor_Hang	Je suis occupé maintenant.	지금 바빠요.
 fra	kor_Hang	Je suis toi.	나는 너야.
 fra	kor_Hang	Je suis toujours occupé.	저는 항상 바빠요.
-fra	kor_Hang	Je t'aime !	사랑해요.
 fra	kor_Hang	Je t'aime !	사랑합니다.
+fra	kor_Hang	Je t'aime !	사랑해요.
 fra	kor_Hang	Je t'aime - Moi aussi.	사랑해 - 나도.
 fra	kor_Hang	Je t'aime - Moi non plus.	사랑해 - 나도.
 fra	kor_Hang	J'étais dans les montagnes.	나는 산에 있었어.
@@ -256,13 +265,13 @@ fra	kor_Hang	Pourquoi mentez-vous ?	왜 거짓말을 해요?
 fra	kor_Hang	Pourquoi ne lui demandes-tu pas directement ?	왜 그 사람한테 직접 안 물어봐?
 fra	kor_Hang	Pouvez-vous réduire le volume de la musique, s'il vous plaît ?	음악 소리를 좀 줄이세요.
 fra	kor_Hang	Quand je me suis réveillé j'étais triste.	일어났을 때 슬펐어.
-fra	kor_Hang	Que dites-vous d'une tasse de café ?	커피 한 잔 할래?
-fra	kor_Hang	Que dites-vous d'une tasse de café ?	커피 한 잔 어때요?
-fra	kor_Hang	Que dites-vous d'une tasse de café ?	커피 한 잔 어떠세요?
-fra	kor_Hang	Que dites-vous d'une tasse de café ?	커피 한 잔?
-fra	kor_Hang	Que dites-vous d'une tasse de café ?	커피 어때?
-fra	kor_Hang	Que dites-vous d'une tasse de café ?	커피 마실래?
 fra	kor_Hang	Que dites-vous d'une tasse de café ?	커피 마실래요?
+fra	kor_Hang	Que dites-vous d'une tasse de café ?	커피 마실래?
+fra	kor_Hang	Que dites-vous d'une tasse de café ?	커피 어때?
+fra	kor_Hang	Que dites-vous d'une tasse de café ?	커피 한 잔 어떠세요?
+fra	kor_Hang	Que dites-vous d'une tasse de café ?	커피 한 잔 어때요?
+fra	kor_Hang	Que dites-vous d'une tasse de café ?	커피 한 잔 할래?
+fra	kor_Hang	Que dites-vous d'une tasse de café ?	커피 한 잔?
 fra	kor_Hang	Que font ces gens ?	그사람들이 뭐 해요?
 fra	kor_Hang	Quel âge avez-vous ?	몇 살 이세요?
 fra	kor_Hang	Que le monde est petit!	세상 참 좁네요!
@@ -315,7 +324,34 @@ fra	kor_Hang	Vous avez clairement du talent, c'est vraiment dommage que vous n'a
 fra	kor_Hang	Vous avez entièrement raison.	당신의 생각은 전적으로 옳습니다.
 fra	kor_Hang	Vous avez tout à fait raison.	당신의 생각은 전적으로 옳습니다.
 fra	kor_Hani	J'ai fait d'une pierre deux coups.	일석이조 (一石二鳥).
+fra	kor	Il est coupable de sédition.	그는 반란죄 혐의를 받고 있다.
+fra	kor	J'avais l'intention de faire un tour au village.	나는 마을을 둘러 볼 생각이 있었다.
+fra	kor	Je n'ai pas de télé.	나는 텔레비전이 없다.
+fra	kor	Je n'ai pas de télé à la maison.	나는 집에 텔레비전이 없다.
+fra	kor	Je sais très bien que ce n'est pas facile.	그게 쉽지 않다는 거는 저도 잘 압니다.
+fra	kor	Je suis debout.	나는 서있다.
+fra	kor	La haine n'arrange rien.	증오로 나아지는 것은 아무것도 없다.
 fra	kor_Latn	Joyeux anniversaire Muiriel !	생일 축하해 Muiriel!
 fra	kor_Latn	Muiriel a 20 ans maintenant.	Muiriel은 지금 20살입니다.
+fra	kor	Le bouddhisme vient de l'Inde.	불교는 인도에서 유래됐다.
+fra	kor	Le génome humain est la recette qui spécifie un être humain.	인간 게놈은 인간이라는 존재를 구분하는 비결이다.
+fra	kor	Le perdant paiera.	패자가 결제할 것이다.
+fra	kor	Le perdant paiera.	진 사람이 결제할 것이다.
+fra	kor	Les accidents résultent de négligences.	사고는 부주의에서 벌어지기 마련이다.
+fra	kor	Les singes aiment les bananes.	원숭이는 바나나를 좋아한다.
+fra	kor	Le texte original est truffé d'erreurs du début à la fin.	원문은 처음부터 끝까지 오류가 가득하다.
+fra	kor	Ma brouette est pleine.	내 한발 수레가 가득 찼다.
+fra	kor	Nous désirons arrêter ces négociations.	우리는 이 협상을 그만하고 싶다.
+fra	kor	Nous savions qu'aujourd'hui, c'était son anniversaire.	우리는 오늘이 그녀의 생일인 것을 알고 있었다.
+fra	kor	Nous savions qu'aujourd'hui, c'était son anniversaire.	우리는 오늘이 그의 생일인 것을 알고 있었다.
+fra	kor	Prolétaires de tous les pays, unissez-vous !	만국의 노동자여, 단결하라!
+fra	kor	Qui a parlé de meurtre ?	누가 살인에 대해 말했습니까?
+fra	kor	Qui a traduit ce texte en allemand ?	누가 이 글을 독일어로 번역했습니까?
+fra	kor	Ravi de vous rencontrer !	반갑습니다!
+fra	kor	Ravie de vous rencontrer !	반갑습니다!
 fra	kor	Salut, Tom.	안녕, 톰.
+fra	kor	Tom a cherché un meilleur travail.	톰은 더 괜찮은 직업을 알아봤다.
+fra	kor	Tom montre son appartement à son frère.	톰은 자기 아파트를 남동생에게 보여줬다.
+fra	kor	Tom ne voyait plus Manon depuis deux ans.	톰은 2년 전부터 마농을 더 이상 못 봤다.
 fra	kor	Trois plus cinq font huit.	3 더하기 5는 8이다.
+fra	kor	Une alimentation saine prolonge la vie.	건강한 식품이 수명을 늘린다.

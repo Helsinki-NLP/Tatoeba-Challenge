@@ -1,18 +1,36 @@
+bzt	lad	"Ke dem?" "Nonc."	"Kuando?" "Nunka."
 bzt_Latn	lad	Eo fens, di onc eo su.	פינסו, דונקי איגזיסטו.
+bzt_Latn	lad	Eo for rhen.	No muero.
+bzt_Latn	lad	Eo mhif rhen.	No bevo.
+bzt_Latn	lad	Eo ngwol rhen di mullt.	No kero muncho.
 bzt_Latn	lad	Eo su ill diawl.	סו איל דיאבﬞלו.
 bzt_Latn	lad	Eo su ill diawl.	סו איל שטן.
 bzt_Latn	lad	Eo su tew padr.	ייו סו טו פאדרי.
 bzt_Latn	lad	Eo su yn gath.	סו אונה גאטה.
 bzt_Latn	lad	Eo wol comprar yn gas.	קירו מירקאר אונה קאזה.
+bzt_Latn	lad	Eo wol ddunar-lla a Fair.	Lo le kero dar a Miri.
+bzt_Latn	lad	Eo wol ddunar-llw a Fair.	Lo le kero dar a Miri.
+bzt_Latn	lad	Eo wol yn can.	Kero un perro.
 bzt_Latn	lad	Estuir es lla briwad di Ragel.	אסתר איס לה מוזﬞיר די רחל.
 bzt_Latn	lad	Garmenant llo h-ôn?	לוס אומבריס ייוראן?
 bzt_Latn	lad	Hitler edif llo h-yddew.	היטליר אבוריסייה אה לוס גﬞודﬞייוס.
+bzt_Latn	lad	Ierusalem es lla giwdad saeth di llo h-yddew.	Yerushalayim es la sivdad santa de los djudios.
+bzt_Latn	lad	Ill afur af afar ill afur.	El amor ama amar el amor.
+bzt_Latn	lad	Ill afur af afar ill afur.	איל אמור אמה אמאר איל אמור.
+bzt_Latn	lad	Ill mun es yn nediwn.	El mundo es una nasyon.
+bzt_Latn	lad	Ill mun es yn pobl.	El mundo es un puevlo.
+bzt_Latn	lad	Ill munn es maled.	El mundo esta hazino.
+bzt_Latn	lad	Ill pobl menh.	La djente miente.
 bzt_Latn	lad	Ill puf ci es gwirdd.	איסטה מאנסאנה איס בﬞידרי.
 bzt_Latn	lad	Ill puf es gwirdd.	לה מאנסאנה איס בﬞידרי.
 bzt_Latn	lad	Ill puf es rhys.	לה מאנסאנה איס קולוראדֿה.
 bzt_Latn	lad	Ke gws es lla liferthad?	קי איס לה ליבירטאדﬞ?
 bzt_Latn	lad	Ke gws es yn barol?	קי איס און ביירבﬞו?
 bzt_Latn	lad	Ke gws es yn barol?	קי איס אונה פאלאבﬞרה?
+bzt_Latn	lad	K'lwg es mew ffeil?	Onde esta mi ija?
+bzt_Latn	lad	K'lwg es mew ffeil?	Onde esta mi ijo?
+bzt_Latn	lad	K'lwg es nwstr ffeil?	Onde esta muestra ija?
+bzt_Latn	lad	K'lwg es nwstr ffeil?	Onde esta muestro ijo?
 bzt_Latn	lad_Latn	Almein es yn paes gran.	Almania es un paiz grande.
 bzt_Latn	lad_Latn	Eo ai llo pharol feliwr.	Tengo los mijores biervos.
 bzt_Latn	lad_Latn	Eo fens, di onc eo su.	Penso, dunke egzisto.
@@ -63,10 +81,28 @@ bzt_Latn	lad_Latn	Ys es yn lladrun.	El es un ladron.
 bzt_Latn	lad_Latn	Ys es yn lladrun.	Es un ladron.
 bzt_Latn	lad_Latn	Ys mhassarent rhen!	No pasaran!
 bzt_Latn	lad_Latn	Ys mhensant rhen, di onc ys sunt rhen.	No pensan, dunke no egzisten.
+bzt_Latn	lad	Lla ag es-sa funn?	La agua es limpia?
 bzt_Latn	lad	Lla ffuin yst llein.	לה מוזﬞיר איסטה מילדאנדו.
 bzt_Latn	lad	Lla riant ddef morir.	לה ריינה דיבﬞי די מוריר.
+bzt_Latn	lad	Lla wid es curth.	La vida es kurta.
+bzt_Latn	lad	Llo chath sunt di llo h-enifal.	Los gatos son animales.
+bzt_Latn	lad	Llo h-arfur wiwent.	Los arvoles biven.
+bzt_Latn	lad	Llo h-ugell chanafant.	Los pasharos kantavan.
+bzt_Latn	lad	Llo h-ugell h-eddiffigant di llo nidd.	Los pasharos konstruyen nidos.
+bzt_Latn	lad	Llo h-ugell wolant.	Los pasharos bolan.
+bzt_Latn	lad	Llo phaes thud sunt ffithig.	Todos los paizes son falsos.
+bzt_Latn	lad	Mew blant abit i Rhufein.	Mis kriaturas moran en Roma.
+bzt_Latn	lad	Nonc.	Nunka.
 bzt_Latn	lad	Nu wiwen in yn sociedad.	ביבﬞימוס אין אונה סוסיידﬞאד.
+bzt_Latn	lad	Nw sun ply ffeirth.	Somos mas fuertes.
+bzt_Latn	lad	Pab intraf.	Todos entraron.
+bzt_Latn	lad	Sa es di llo h-ysl i lla for.	Ay adas en la mar.
+bzt_Latn	lad	Sa es di llo h-ysl i lla for.	Ay izlas en la mar.
+bzt_Latn	lad	Sa wiwant i mheg.	Biven en pas.
+bzt_Latn	lad	Tomos digiddef phlanner yn arfur.	Tom se desido de plantar un arvol.
 bzt_Latn	lad	Tomos es yn of e-dd eo su yn ffuin.	טום איס און אומברי אי ייו סו אונה מוזﬞיר.
 bzt_Latn	lad	Ty es yn lladrun, Tomos.	סוס לאדﬞרון, טום.
 bzt_Latn	lad	Yn ffuin yst llein.	אונה מוזﬞיר איסטה מילדאנדו.
 bzt_Latn	lad	Yn llinghedig es nonc asseth.	אונה לינגואה נונקה איס סופﬞיסיינטי.
+bzt_Latn	lad	Yst es sew gas.	Esta es sus kaza.
+bzt_Latn	lad	Ys wiwant i mheg.	Biven en pas.

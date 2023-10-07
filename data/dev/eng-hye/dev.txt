@@ -5,6 +5,7 @@ eng	hye	After you.	Քեզանից հետո:
 eng	hye	Alice smiled.	Ալիսան ժպտաց:
 eng	hye	All the students study English.	Բոլոր ուսանողները անգլերեն են սովորում :
 eng	hye	All Tom wanted was to find a woman who would accept all the love he had to give.	Թոմը ընդամենը ուզում էր գտնել մի կին, որը կընդուներ այն ամբողջ սերը, որը Թոմը կարող էր առաջարկել:
+eng	hye	And how are things in Washington?	Ո՞նց են գործերը Վաշինգտոնում։
 eng	hye	Anybody here?	Այստեղ որևէ մեկը կա՞:
 eng	hye	Anybody here?	Մարդ կա՞ այստեղ:
 eng	hye	Anyone hurt?	Որևէ մեկը վիրավորվե՞ց:
@@ -136,6 +137,7 @@ eng	hye	Do you have a more detailed map?	Ավելի մանրամասն քարտ�
 eng	hye	Do you have any objection to this plan?	Դու այս պլանին որևէ առարկություն ունե՞ս:
 eng	hye	Do you have plans tonight?	Երեկոյի համար պլաներ ունե՞ք:
 eng	hye	Do you have someone in mind for the job?	Այս գործի համար որևէ մեկը մտքովդ անցնու՞մ է:
+eng	hye	Do you have time for breakfast?	Նախաճաշելու ժամանակ ունե՞ս։
 eng	hye	Do you know Tom's last name?	Դու Թոմի ազգանունը գիտե՞ս:
 eng	hye	Do you know Tom's last name?	Թոմի ազգանունը գիտե՞ս:
 eng	hye	Do you want to see what I just made?	Դու ուզու՞մ ես տեսնել, ինչ հենց նոր սարքել:
@@ -150,6 +152,7 @@ eng	hye	Eat everything.	Լրի՛վ կեր:
 eng	hye	Eat everything.	Լրի՛վ կերեք:
 eng	hye	Eat everything.	Կե՛ր ամբողջը:
 eng	hye	Eat everything.	Կերե՛ք ամբողջը:
+eng	hye	Elon Musk invented Twitter.	Իլոն Մասկը հորինել է Թվիթերը։
 eng	hye	Enjoy yourself!	Զվարճացեք:
 eng	hye	Even the smallest child knows that kind a thing.	Նույնիսկ ամենափոքր երեխաները այդպիսի բաներ գիտեն:
 eng	hye	Everybody applauded.	Բոլորը ծափահարեցին:
@@ -189,6 +192,7 @@ eng	hye	Forget it!	Մոռացե՛ք դա:
 eng	hye	Forget it!	Մոռացի՛ դա:
 eng	hye	Forget Tom.	Մոռացեք Թոմին:
 eng	hye	Forgive me.	Ներեք ինձ:
+eng	hye	Gasoline is very expensive.	Բենզինը շատ թանկ է։
 eng	hye	Get away!	Գնա՛:
 eng	hye	Get down!	Իջե՛ք:
 eng	hye	Get down!	Իջի՛:
@@ -243,6 +247,7 @@ eng	hye	Help yourself.	Բարի ախորժակ:
 eng	hye	He ran.	Նա վազեց:
 eng	hye	He runs.	Նա վազում է:
 eng	hye	He's a man you can rely on.	Նա մի մարդ է, ում վրա դու կարող ես ապավինել:
+eng	hye	He's a well-known author of crime novels.	Նա հայտնի քրեական վեպի հեղինակ է։
 eng	hye	He shaves four times a week.	Նա շաբաթական չորս անգամ է սափրվում:
 eng	hye	He should be back any minute.	Նա ցանկացած պահի կարող է վերադառնալ:
 eng	hye	He's not my boyfriend.	Նա իմ ընկերը չէ:
@@ -278,6 +283,7 @@ eng	hye	Hug me.	Գրկիր ինձ:
 eng	hye	Humor me.	Ծիծաղեցրու ինձ:
 eng	hye	Hurry home.	Շտապիր տուն:
 eng	hye	I abhor violence.	Ես զզվում եմ բռնությունից:
+eng	hye	I always write very simple sentences.	Ես միշտ շատ պարզ նախադասություններ եմ գրում։
 eng	hye	I am a vegetarian.	Ես բուսակեր եմ:
 eng	hye	I am glad that you have succeeded.	Ես ուրախ եմ, որ ձեզ մոտ ստացվեց:
 eng	hye	I am glad that you have succeeded.	Ես ուրախ եմ, որ քեզ մոտ ստացվեց:
@@ -334,10 +340,12 @@ eng	hye	I have two cats.	Ես երկու կատուներ ունեմ:
 eng	hye	I hope you enjoyed the long weekend.	Հույս ունեմ, ձեզ դուր եկավ երկար հանգիստը:
 eng	hye	I hope you enjoyed the long weekend.	Հույս ունեմ, քեզ դուր եկավ երկար հանգիստը:
 eng	hye	I just want to be able to visit my children whenever I want to.	Ես պարզապես ուզում եմ ի վիճակի լինել այցելել իմ երեխաներին, երբ ուզեմ:
+eng	hye	I know that the sun is very hot.	Ես գիտեմ, որ արևը շատ տաք է։
 eng	hye	I know what's wrong with me.	Ես գիտեմ, ինչն ինձ հետ այնպես չէ:
 eng	hye	I know who that is.	Ես գիտեմ, ով է դա:
 eng	hye	I know.	Ես գիտեմ:
 eng	hye	I laughed.	Ես ծիծաղեցի:
+eng	hye	I'll do it immediately.	Ես իսկույն կանեմ դա։
 eng	hye	I'll give you five minutes to work out this problem.	Ես ձեզ այս խնդիրը լուծելու համար հինգ րոպե եմ տալիս:
 eng	hye	I'll give you five minutes to work out this problem.	Ես ձեզ այս խնդիրը լուծելու համար հինգ րոպե կտամ:
 eng	hye	I'll give you five minutes to work out this problem.	Ես քեզ այս խնդիրը լուծելու համար հինգ րոպե եմ տալիս:
@@ -356,6 +364,8 @@ eng	hye	I need to end this now.	Ես պետք է հենց հիմա սրա վեր
 eng	hye	I need to know how this happened.	Ես կուզեի իմանալ, թե սա ինչպես պատահեց:
 eng	hye	I never saw you.	Ես ձեզ երբեք չեմ տեսել:
 eng	hye	I never saw you.	Ես քեզ երբեք չեմ տեսել:
+eng	hye	I never tried playing the piano.	Ես երբեք չեմ փորձել դաշնամուր նվագել։
+eng	hye	In the east of the city, there is a big store.	Քաղաքի արևելյան մասում մի մեծ խանութ կա։
 eng	hye	I overslept.	Ես չափից ավել քնեցի:
 eng	hye	I promise.	Ես խոսք եմ տալիս:
 eng	hye	I quit.	Ես գործից դուրս եմ գալիս:
@@ -366,13 +376,16 @@ eng	hye	I rescheduled.	Ես այլ ժամկետ նշանակեցի:
 eng	hye	I resign.	Ես գործից դուրս եմ գալիս:
 eng	hye	I said some things I didn't mean.	Ես ասացի որոշ բաներ, որոնք ի նկատի չունեի:
 eng	hye	I see.	Հասկացա:
+eng	hye	Is he reading a book?	Նա գի՞րք է կարդում։
 eng	hye	I should've gone after Tom.	Պետք է Թոմի ետևից գնացած լինեի:
 eng	hye	I should've gone after Tom.	Պետք է Թոմից հետո գնացած լինեի:
 eng	hye	I sing.	Ես երգում եմ:
+eng	hye	I spoke to the minister himself.	Ես խոսեցի անձամբ նախարարի հետ։
 eng	hye	I started thinking about Tom.	Ես սկսեցի մտածել Թոմի մասին:
 eng	hye	I stayed.	Ես մնացի:
 eng	hye	Is that a real diamond?	Դա իսկակա՞ն ադամանդ է:
 eng	hye	Is there a man in your life?	Քո կյանքում ինչ-որ մեկը կա՞:
+eng	hye	Is there a school on your street?	Ձեր փողոցի վրա դպրոց կա՞։
 eng	hye	I still believe you cheated me.	Ես միևնույն է կարծում եմ, որ դու ինձ խաբել ես:
 eng	hye	I still believe you cheated me.	Ես միևնույն է կարծում եմ, որ դուք ինձ խաբել եք:
 eng	hye	I still need to talk to Tom.	Ես դեռ պետք է խոսեմ Թոմի հետ:
@@ -398,10 +411,12 @@ eng	hye	I've decided to say yes.	Ես որոշել եմ «այո» ասել:
 eng	hye	I've got a few minutes left.	Ինձ մոտ դեռ մի քանի րոպե մնացել է:
 eng	hye	I've got a few minutes left.	Ինձ մոտ մի քանի րոպե է մնացել:
 eng	hye	I volunteered.	Ես ցանկություն հայտնեցի:
+eng	hye	I voted "remain".	Քվեարկեցի մնալու օգտին։
 eng	hye	I want to start over.	Ես ուզում եմ նորից սկսել:
 eng	hye	I wasn't conscious of anyone watching me.	Ես չէի գիտակցում, որ ինձ հետևում էին:
 eng	hye	I will never forget this day.	Ես երբեք չեմ մոռանա այդ օրը:
 eng	hye	I won!	Ե՛ս հաղթեցի:
+eng	hye	I work like a slave!	Ստրուկի պես աշխատում եմ։
 eng	hye	Just relax.	Ուղղակի հանգստացեք:
 eng	hye	Just relax.	Ուղղակի հանգստացիր:
 eng	hye	Just tell me why you're really here.	Ուղղակի ասա ինձ՝ իրականում ինչու ես այստեղ:
@@ -442,6 +457,7 @@ eng	hye	Keep talking.	Շարունակեք խոսել:
 eng	hye	Keep that.	Պահեք դա:
 eng	hye	Keep this.	Պահիր սա:
 eng	hye	Keep working.	Շարունակեք աշխատել:
+eng	hye	Klava forgives her husband.	Կլավան ներում է իր ամուսնուն։
 eng	hye	Leave everything.	Թող ամեն ինչ:
 eng	hye	Leave it.	Թող դա:
 eng	hye	Leave me.	Թողեք ինձ:
@@ -457,6 +473,7 @@ eng	hye	Let's get a little closer.	Արի մի քիչ էլ մոտենանք:
 eng	hye	Let's go drink a cup of coffee at that coffee shop over there.	Եկեք գնանք այն սրճարանում մի բաժակ սուրճ խմենք:
 eng	hye	Let's talk about how this is going to work.	Եկեք պարզենք, թե ինչպես դա կօգնի:
 eng	hye	Lie still.	Հանգիստ պառկիր:
+eng	hye	Life is a mirror!	Կյանքը հայելի է։
 eng	hye	Lighten up.	Քիթդ մի կախիր:
 eng	hye	Listen carefully.	Ուշադիր լսե՛ք:
 eng	hye	Look again.	Նորից նայիր:
@@ -479,6 +496,8 @@ eng	hye	Mama cried.	Մայրիկը լացեց:
 eng	hye	Marry me.	Ամուսնացիր ինձ հետ:
 eng	hye	Mary always wants Tom to talk about his feelings.	Մերին միշտ ցանկանում է, որ Թոմը խոսի իր զգացմունքների մասին:
 eng	hye	Mary's the laziest of her schoolmates.	Մերին իր դպրոցական ընկերներից ամենածույլն է:
+eng	hye	Mary was my first love.	Մարիան իմ առաջին սերն էր։
+eng	hye	Masha prefers coffee without caffeine.	Մաշան նախընտրում է առանց կոֆեինի սուրճ։
 eng	hye	Melanie is eating an apple.	Մելանին ուտում է խնձորը:
 eng	hye	Memorize it.	Անգիր արա դա:
 eng	hye	Memorize it.	Հիշիր դա:
@@ -492,6 +511,7 @@ eng	hye	My aim is to learn enough English so I don't need to carry a dictionary 
 eng	hye	My hovercraft is full of eels.	Իմ օդաթիռը լի է օձաձկերով
 eng	hye	My knife is sharp.	Դանակս սուր է:
 eng	hye	My mother is beautiful.	Իմ մայրիկը գեղեցիկ է:
+eng	hye	My watch loses two minutes a day.	Իմ ժամացույցը օրական երկու րոպե հետ է մնում։
 eng	hye	Never mind!	Ոչինչ:
 eng	hye	New York is the biggest city in the world.	Նյու Յորքը աշխարհի ամենամեծ քաղաքն է:
 eng	hye	Nice timing.	Իսկը ժամանակին:
@@ -509,8 +529,8 @@ eng	hye	Nothing happened.	Ոչինչ չպատահեց:
 eng	hye	Now, what else can I do for you?	Դե, է՞լ ինչ կարող եմ ես անել ձեզ համար:
 eng	hye	Now, what else can I do for you?	Դե, է՞լ ինչ կարող եմ ես անել քեզ համար:
 eng	hye	Of course!	Անշու՛շտ:
-eng	hye	Of course.	Իհարկե:
 eng	hye	Of course!	Իհա՛րկե:
+eng	hye	Of course.	Իհարկե:
 eng	hye	Oh no!	Վայ, չէ՛:
 eng	hye	One day, you will understand.	Մի օր կհասկանաք:
 eng	hye	Open up.	Բա՛ց:
@@ -571,6 +591,8 @@ eng	hye	She should have followed Mary's advice.	Նա պետք է հետևեր Մ
 eng	hye	She smiled.	Նա ժպտաց:
 eng	hye	She smiled.	Նա ժպտում էր:
 eng	hye	She's two years younger than him.	Նա նրանից երկու տարի երիտասարդ է:
+eng	hye	She's writing an article for the school newspaper.	Նա հոդված է գրում դպրոցական թերթի համար։
+eng	hye	She travelled the whole world.	Նա ճանապարհորդել է ամբողջ աշխարհով։
 eng	hye	She tried.	Նա փորձում էր:
 eng	hye	She wants to drink some warm milk.	Նա ցանկանում է տաք կաթ խմել:
 eng	hye	She was ready to help him with washing the car.	Նա պատրաստ էր օգնել նրան մեքենա լվալու հարցում:
@@ -705,8 +727,12 @@ eng	hye	That will change nothing.	Դա ոչինչ չի փոխի:
 eng	hye	That worked.	Այն աշխատեց:
 eng	hye	That works.	Այն աշխատում է:
 eng	hye	That works.	Աշխատում է:
+eng	hye	The author is my friend.	Հեղինակը իմ ընկերն է։
+eng	hye	The author is my friend.	Հեղինակը իմ ընկերուհին է։
 eng	hye	The baby cried herself to sleep.	Երեխան լացեց մինչև քնելը:
 eng	hye	The book is on the table.	Գիրքը սեղանի վրա է։
+eng	hye	The brother wrote a letter to the sister.	Եղբայրը նամակ գրեց քրոջը։
+eng	hye	The businessmen like this city.	Գործարարները հավանում են այս քաղաքը։
 eng	hye	The cake I made was not eaten by you, it was eaten by your sister.	Իմ թխած տորթը դու ոչ դե դու ես կերել, այլ քո քույրը:
 eng	hye	The chairs are under the tree.	Աթոռները ծառի տակ են:
 eng	hye	The damage is done.	Արածը չես վերադարձնի:
@@ -716,8 +742,11 @@ eng	hye	The fastest runner can't run 100 meters in 9 seconds.	Ամենաարագ
 eng	hye	The glass is clean.	Բաժակը մաքուր է:
 eng	hye	The home team won.	Դաշտի տերերը հաղթեցին:
 eng	hye	The map is on the wall.	Քարտեզը պատի վրա է:
+eng	hye	The method was crude but effective.	Մեթոդը կոպիտ էր, բայց արդյունավետ։
 eng	hye	The new subway enables me to get to school in 20 minutes.	Նոր մետրոն ինձ հնարավորություն է տալիս դպրոց հասնել 20 րոպեում:
+eng	hye	There are a lot of flowers in this garden.	Այս պարտեզում շատ ծաղիկներ կան։
 eng	hye	There are birds singing in the cage, aren't there?	Վանդակնում երգող թռչուններ կան, այդպես չէ՞:
+eng	hye	There are forty people in the group.	Խմբում քառասուն հոգի է։
 eng	hye	There are islands in the sea.	Ծովում կան կղզիներ:
 eng	hye	There are many people in Asia.	Ասիայում շատ մարդիկ կան:
 eng	hye	The reason why many language learners never become fluent is that they talk the walk more than they walk the talk.	Շատ օտար լեզու սովորողները չեն հասնում սահուն խոսելուն այն պատճառով, որ ավելի շատ խոսում են լեզու սովորելու մաին, քան խոսում են այդ լեզվով:
@@ -767,6 +796,7 @@ eng	hye	This drawing is less than great. He needs to do something with the line 
 eng	hye	This is going to hurt a bit.	Դա մի փոքր ցավոտ կլինի:
 eng	hye	This is my bicycle.	Սա իմ հեծանիվն է:
 eng	hye	This is the biggest car in the world.	Սա աշխարհի ամենամեծ մեքենան է:
+eng	hye	This is unforgettable.	Սա անմոռանալի է։
 eng	hye	This will be easy.	Դա հեշտ կլինի:
 eng	hye	Ticket, please.	Ձեր տոմսը, խնդրեմ:
 eng	hye	Tom accepted the proposal without reservation.	Թոմը ընդունեց առաջարկը առանց վերապահումների:
@@ -953,12 +983,15 @@ eng	hye	What's your number?	Ինչպե՞ս է քո համարը:
 eng	hye	When did you tell me?	Ե՞րբ եք դուք ինձ ասել:
 eng	hye	When did you tell me?	Ե՞րբ եք ինձ ասել:
 eng	hye	When I was a child, my mother made me eat green vegetables every day.	Երբ ես երեխա էի, մայրս ինձ ստիպում էր ամեն օր կանաչեղեն ուտել:
+eng	hye	When I was five years old I could not read.	Երբ ես հինգ տարեկան էի, կարդալ չգիտեի։
 eng	hye	Where are the books?	Գրքերը ո՞րտեղ են։
 eng	hye	Who did you send roses to?	Ու՞մ ես դու ուղարկել վարդերը:
 eng	hye	Who did you send roses to?	Ու՞մ եք դուք ուղարկել վարդերը:
 eng	hye	Who did you send roses to?	Ու՞մ եք ուղարկել վարդերը:
 eng	hye	Who died?	Ո՞վ է մահացել:
 eng	hye	Who quit?	Ո՞վ դուրս եկավ:
+eng	hye	Who was your first love?	Ո՞վ էր քո առաջին սերը։
+eng	hye	Who won and who lost?	Ո՞վ հաղթեց և ո՞վ պարտվեց։
 eng	hye	Who won?	Ո՞վ հաղթեց:
 eng	hye	Why didn't you write me?	Ինչու՞ ինձ չգրեցիր:
 eng	hye	Why did you stop me?	Ինչու՞ կանգնեցրիր ինձ:
@@ -975,6 +1008,8 @@ eng	hye	Wow!	Պահո՜:
 eng	hye	Write me.	Գրիր ինձ:
 eng	hye	Yes, she's our manager.	Այո, նա մեր մենեջերն է։
 eng	hye	You are absolutely right.	Դուք միանգամայն ճիշտ եք:
+eng	hye	You are as many people as you know languages.	Ինչքան լեզու գիտես, այնքան մարդ ես։
+eng	hye	You are as many people as you know languages.	Քանի լեզու գիտես, այնքան մարդ ես։
 eng	hye	You are taller than she is.	Դու նրանից հասակով ես:
 eng	hye	You are taller than she is.	Դուք նրանից հասակով եք:
 eng	hye	You can't do that. It's illegal.	Դու չես կարող անել դա: Դա ապօրինի է:
@@ -998,3 +1033,4 @@ eng	hye	You tried.	Դու փորձ կատարեցիր:
 eng	hye	You tried.	Դուք փորձեցիք:
 eng	hye	You wouldn't be lying to me, would you?	Դու ինձ չես ստի, այդպե՞ս չէ:
 eng	hye	You wouldn't be lying to me, would you?	Դուք ինձ չեք ստի, այդպե՞ս չէ:
+eng	hye	Ziri built an empire.	Զիրին կայսրություն կառուցեց։

@@ -1,11 +1,16 @@
 deu	kor	Acht plus zwei ist zehn.	8 더하기 2는 10이다.
 deu	kor	Die Karte hat einen Maßstab von 1 : 300000.	이 지도는 1:300,000의 척도로 제작되었다.
+deu	kor	Dieser Bleistift ist stumpf. Hast du einen Anspitzer?	이 연필 끝이 뭉툭해졌어. 연필깎이 있어?
 deu	kor	Drei mal drei ist neun.	3 곱하기 3은 9이다.
 deu	kor	Drei mal fünf ist fünfzehn.	3 곱하기 5는 15이다.
 deu	kor	Drei mal vier ist zwölf.	3 곱하기 4는 12이다.
 deu	kor	Drei plus fünf ist acht.	3 더하기 5는 8이다.
+deu	kor	Du solltest einige Tage hierbleiben.	며칠 동안은 여기서 지내야 해.
 deu	kor	Eins plus zwei ist gleich drei.	1 더하기 2는 3이다.
 deu	kor	Er ist am 28. Juli 1888 geboren.	그는 1888년 7월 28일에 태어났다.
+deu	kor	Er ist jetzt drei.	그 애는 이제 세 살이야.
+deu	kor	Er kommt bald.	그 사람 곧 올 거예요.
+deu	kor	Es ist ein warmer Tag.	날이 따뜻하다.
 deu	kor	Fünf mal sieben ist fünfunddreißig.	5 곱하기 7은 35이다.
 deu	kor	Fünf mal zwanzig ist hundert.	5 곱하기 20은 100이다.
 deu	kor	Fünf plus drei ist acht.	5 더하기 3는 8이다.
@@ -180,8 +185,8 @@ deu	kor_Hang	Die Schwester hat mein Fieber gemessen.	간호사가 열을 쟀다.
 deu	kor_Hang	Diese Art Arbeit verlangt viel Geduld.	이 일은 인내를 많이 요구한다.
 deu	kor_Hang	Diese Blumen brauchen Wasser. Die Blätter sind schon verwelkt.	이 꽃들은 물이 필요하다. 잎들이 벌써 시들었다.
 deu	kor_Hang	Diese Erscheinung ist sehr einfach zu erklären.	이 현상에 관해서는 간단한 설명이 있다.
-deu	kor_Hang	Diese Fernsehsendung ist nicht mehr so gut wie früher.	이 텔레비전 프로는 더 이상 예전만큼 좋지 않아.
 deu	kor_Hang	Diese Fernsehsendung ist nicht mehr so gut wie früher.	이 텔레비전 프로는 예전만큼 좋지 않아.
+deu	kor_Hang	Diese Fernsehsendung ist nicht mehr so gut wie früher.	이 텔레비전 프로는 더 이상 예전만큼 좋지 않아.
 deu	kor_Hang	Diese Frau ist wunderschön.	이 여자 엄청 예쁘다.
 deu	kor_Hang	Diese Information ist uns sehr wichtig.	이 정보는 우리한테 있어서 정말 중요해요.
 deu	kor_Hang	Diese Katze ist braun.	저 고양이가 갈색입니다.
@@ -198,8 +203,8 @@ deu	kor_Hang	Diese Suppe ist versalzen.	이 국 너무 짜요.
 deu	kor_Hang	Dieses Verbrechen konnte nie aufgeklärt werden.	이 범죄사건은 영원히 해결될 수 없었다.
 deu	kor_Hang	Dieses warme Wetter ist für den Februar ungewöhnlich.	2월에 이런 따뜻한 날씨는 비정상이야.
 deu	kor_Hang	Dieses Zimmer ist zu groß.	이 방은 너무 커요.
-deu	kor_Hang	Diese Uhr ist kaputt.	이 시계가 고장났다.
 deu	kor_Hang	Diese Uhr ist kaputt.	이 시계가 고장났어요.
+deu	kor_Hang	Diese Uhr ist kaputt.	이 시계가 고장났다.
 deu	kor_Hang	Dies ist ein chinesischer Fächer.	이것은 중국의 부채입니다.
 deu	kor_Hang	Dies ist eine der wichtigsten Aufgaben des 21. Jahrhunderts.	그것은 21세기의 가장 중요한 과제들 중의 하나이다.
 deu	kor_Hang	Die Sonne geht im Osten auf und im Westen unter.	해는 동쪽에서 떠서 서쪽으로 진다.
@@ -242,8 +247,8 @@ deu	kor_Hang	Ein bisschen Spaß muss sein.	재미도 있어야지.
 deu	kor_Hang	Ein Dollar sind 100 Cent.	1달러는 100센트이다.
 deu	kor_Hang	Eine Legislaturperiode dauert in der Regel vier Jahre.	입법부의 회기는 보통 4년이다.
 deu	kor_Hang	Einer von uns wird ausgewählt.	우리 중 하나가 선택될꺼야.
-deu	kor_Hang	Eine Schwalbe macht noch keinen Sommer.	제비 한 마리를 보고 봄이 왔다고 말할 수 없다.
 deu	kor_Hang	Eine Schwalbe macht noch keinen Sommer.	제비 한 마리가 여름을 만들지는 못한다.
+deu	kor_Hang	Eine Schwalbe macht noch keinen Sommer.	제비 한 마리를 보고 봄이 왔다고 말할 수 없다.
 deu	kor_Hang	Eines Tages verirrte sich Pablo in Guatemalas Dschungel.	어느날 빠블로는 과테말라의 정글 속에서 길을 잃었다.
 deu	kor_Hang	Ein nächstes Mal gibt es nicht.	다음은 없어.
 deu	kor_Hang	Ein Pyeong sind circa 3,3 Quadratmeter.	한 평은 약 3.3평방미터이다.
@@ -252,8 +257,8 @@ deu	kor_Hang	Ende gut, alles gut.	결과가 좋으면 모든 것이 좋다.
 deu	kor_Hang	Entnehmen Sie der Anzeigetafel, ob ein Zug nach London fährt.	런던행 열차를 시간표 확인하세요.
 deu	kor_Hang	Entnehmen Sie der Anzeigetafel, wann der Zug nach London abfährt.	런던행 열차를 시간표 확인하세요.
 deu	kor_Hang	Entschuldigen Sie bitte, könnten Sie mir den Weg zur Post zeigen?	실례합니다만, 우체국을 찾고 있습니다.
-deu	kor_Hang	Entschuldigen Sie die Verspätung.	늦게 온 것을 용서해 주세요.
 deu	kor_Hang	Entschuldigen Sie die Verspätung.	늦어서 죄송합니다.
+deu	kor_Hang	Entschuldigen Sie die Verspätung.	늦게 온 것을 용서해 주세요.
 deu	kor_Hang	Entschuldigung, ich bin zu spät.	늦어서 미안합니다.
 deu	kor_Hang	Entschuldigung, sprechen Sie Englisch?	실례지만 영어 할 줄 아세요?
 deu	kor_Hang	Entschuldigung, wie spät ist es?	실례지만, 몇 시죠?
@@ -308,8 +313,8 @@ deu	kor_Hang	Er wiegt über 80 Kilo.	그는 80 키로 이상 나간다.
 deu	kor_Hang	Er wird sicher kommen.	그는 분명히 올 것이다.
 deu	kor_Hang	Es bringt nichts, mir "Hallo, wie geht's?" zu sagen, wenn du sonst nichts zu sagen hast.	다른 할 말이 없으면, 나한테 인사할 필요가 없어.
 deu	kor_Hang	Es gibt keine andere Möglichkeit.	다른 가능성이 없다.
-deu	kor_Hang	Es hatte keinen Sinn, mit Tom zu streiten.	톰과 싸우는 건 무의미했어.
 deu	kor_Hang	Es hatte keinen Sinn, mit Tom zu streiten.	톰과 싸우는 것은 무의미했다.
+deu	kor_Hang	Es hatte keinen Sinn, mit Tom zu streiten.	톰과 싸우는 건 무의미했어.
 deu	kor_Hang	Es hörte auf zu regnen.	비가 그쳤다.
 deu	kor_Hang	Es ist eine Kunst, etwas auf später aufzuschieben.	미루는 것은 일종의 예술이다.
 deu	kor_Hang	Es ist eine schwierige Aufgabe, dem ausländischen Leser die Geschichte der Parteienkämpfe während der Chosun-Dynastie auch in kultureller Hinsicht verständlich zu machen.	조선왕조의 당쟁사가 문화적으로 외국 독자에게 이해되게 하기는 어려운 과제이다.
@@ -322,8 +327,8 @@ deu	kor_Hang	Es ist unvermeidbar, dass ich eines Tages nach Frankreich gehe, ich
 deu	kor_Hang	Es sah billig aus.	싼 것 같았습니다.
 deu	kor_Hang	Es tut mir leid, dass ich dich so lange habe warten lassen.	당신을 너무 오래 기다리게 해서 죄송합니다.
 deu	kor_Hang	Es tut mir leid, dass ich so früh anrufe.	너무 이른 아침에 전화를 해서 죄송합니다.
-deu	kor_Hang	Es tut mir so leid, was ich tat. Ich wünschte, ich könnte einfach in ein Loch kriechen und sterben.	너무 창피해서 구멍으로 들어가서 죽어버리고 싶어.
 deu	kor_Hang	Es tut mir so leid, was ich tat. Ich wünschte, ich könnte einfach in ein Loch kriechen und sterben.	너무너무 미안해서 구멍으로 들어가서 죽어버리고 싶어.
+deu	kor_Hang	Es tut mir so leid, was ich tat. Ich wünschte, ich könnte einfach in ein Loch kriechen und sterben.	너무 창피해서 구멍으로 들어가서 죽어버리고 싶어.
 deu	kor_Hang	Es war eine kalte Nacht.	그날 밤은 추웠어.
 deu	kor_Hang	Es wäre schön, wenn ich nach Japan reisen könnte.	일본에 갈 수 있었으면 좋겠어요.
 deu	kor_Hang	Es war Liebe auf den ersten Blick.	우린 서로 첫눈에 반했어요.
@@ -354,8 +359,8 @@ deu	kor_Hang	Für eine Japanerin ist Miyu außergewöhnlich direkt.	일본 여�
 deu	kor_Hang	Gab es Anrufe für mich?	내게 온 전화가 있었습니까?
 deu	kor_Hang	Geben Sie ihm die Nachricht bitte, wenn er zurückkommt.	그가 돌아오면 메모를 전해주세요.
 deu	kor_Hang	„Gehören diese Autos Ihnen?“ – „Ja, das sind meine.“	"이 차량들 소유자분이십니까?" "네. 전부 제 차예요."
-deu	kor_Hang	Geht deine Uhr richtig?	네 시계 맞니?
 deu	kor_Hang	Geht deine Uhr richtig?	네 시계 정확하니?
+deu	kor_Hang	Geht deine Uhr richtig?	네 시계 맞니?
 deu	kor_Hang	Gestern habe ich ein Buch gekauft.	어제 저는 책을 샀어요.
 deu	kor_Hang	Gestern war ein Erdbeben.	어제 지진이 있었어요.
 deu	kor_Hang	Gestern war ich zu Hause.	어제 나는 집에 있었어.
@@ -368,8 +373,8 @@ deu	kor_Hang	Gott erschuf die Welt.	신이 세상을 창조하였다.
 deu	kor_Hang	Gott schuf die Welt.	신이 세상을 창조하였다.
 deu	kor_Hang	Gott schütze Sie!	신께서 당신을 지켜주시길.
 deu	kor_Hang	Gott weiß, was wir benötigen.	우리에게 필요한 것이 무엇인지 하나님께서는 아신다.
-deu	kor_Hang	Guten Morgen!	좋은 아침 !
 deu	kor_Hang	Guten Morgen!	안녕하세요.
+deu	kor_Hang	Guten Morgen!	좋은 아침 !
 deu	kor_Hang	Guten Tag!	안녕하세요.
 deu	kor_Hang	Habe einen guten Tag.	좋은하루 되세요.
 deu	kor_Hang	Haben Sie Angestellte, die Japanisch sprechen?	일본어를 하는 직원들이 있나요?
@@ -380,9 +385,9 @@ deu	kor_Hang	Hallo, ich bin Nancy.	안녕하세요. 난시입니다.
 deu	kor_Hang	„Hallo, Mama! Vertragt ihr euch wieder?“ – „Papa will sich von mir scheiden lassen.“	"있지, 엄마! 엄마 아빠 다시 화해할 거지?" – "아빠가 이혼하고 싶어한단다."
 deu	kor_Hang	Haltet den Dieb!	도둑 잡아라!
 deu	kor_Hang	Hast du das gewaschen?	너는 그것을 씻었어?
-deu	kor_Hang	Hast du das selbst gemacht?	직접 하신 건가요?
-deu	kor_Hang	Hast du das selbst gemacht?	직접 만드신 거예요?
 deu	kor_Hang	Hast du das selbst gemacht?	스스로 한거예요?
+deu	kor_Hang	Hast du das selbst gemacht?	직접 만드신 거예요?
+deu	kor_Hang	Hast du das selbst gemacht?	직접 하신 건가요?
 deu	kor_Hang	Hast du mal Feuer?	불 좀 있어요?
 deu	kor_Hang	Hast du mir nicht etwas zu sagen?	뭔가 하고 싶은 얘기 없어?
 deu	kor_Hang	He! Niemand übersetzt meine Sätze!	흥! 아무도 내가 만드는 문장을 번역 안하고 있어!
@@ -413,8 +418,8 @@ deu	kor_Hang	Ich bin auch eben erst angekommen.	저도 이제서야 도착했어
 deu	kor_Hang	Ich bin aus geschäftlichen Gründen gekommen.	일 때문에 왔어요.
 deu	kor_Hang	Ich bin bald wieder da.	곧 돌아올께요.
 deu	kor_Hang	Ich bin dort einmal gewesen.	거기에 한번 있었던 적이 있어.
-deu	kor_Hang	Ich bin eine Frau geworden.	나는 여자가 됐어.
 deu	kor_Hang	Ich bin eine Frau geworden.	저는 여자가 됐어요.
+deu	kor_Hang	Ich bin eine Frau geworden.	나는 여자가 됐어.
 deu	kor_Hang	Ich bin ein Knabe.	나는 사나이다.
 deu	kor_Hang	Ich bin entführt worden.	나 유괴 당한 적 있어.
 deu	kor_Hang	Ich bin erschüttert.	충격이야.
@@ -503,8 +508,8 @@ deu	kor_Hang	Ich lerne Französisch ganz alleine.	저는 프랑스어를 혼자�
 deu	kor_Hang	Ich lerne gern Sprachen.	언어 공부하는 것을 좋아합니다.
 deu	kor_Hang	Ich lerne Koreanisch.	나는 한국말을 공부해요.
 deu	kor_Hang	Ich lese jede Woche mehrere Bücher.	난 일주일에 책을 여러 권 읽어.
-deu	kor_Hang	Ich liebe dich!	사랑해요.
 deu	kor_Hang	Ich liebe dich!	사랑합니다.
+deu	kor_Hang	Ich liebe dich!	사랑해요.
 deu	kor_Hang	Ich liebe dich. - Ich dich auch.	사랑해 - 나도.
 deu	kor_Hang	Ich liebe dich mehr, als du mich liebst.	네가 나를 사랑하는 것 보다 내가 너를 더 사랑해.
 deu	kor_Hang	Ich mag ihn sehr.	나는 그 사람을 좋아한다.
@@ -603,8 +608,8 @@ deu	kor_Hang	In meinem Kurs sind dreißig Schüler.	내 수업에는 서른 명�
 deu	kor_Hang	In meinem Kurs sind dreißig Studenten.	내 수업에는 서른 명의 학생이 있어.
 deu	kor_Hang	In meinem Seminar sind dreißig Studenten.	내 수업에는 서른 명의 학생이 있어.
 deu	kor_Hang	In meinem Zimmer steht ein Telefon.	내 방에서 전화가 있어.
-deu	kor_Hang	In meiner Klasse sind dreißig Schüler.	내 학급에는 서른 명의 학생이 있어.
 deu	kor_Hang	In meiner Klasse sind dreißig Schüler.	내 학급에는 학생이 서른 명 있어.
+deu	kor_Hang	In meiner Klasse sind dreißig Schüler.	내 학급에는 서른 명의 학생이 있어.
 deu	kor_Hang	In New York habe ich mich verlaufen.	나는 뉴욕에서 길을 잃었다.
 deu	kor_Hang	In Österreich muss man für die Benutzung der Autobahn eine Maut entrichten.	오스트리아에서는 고속도로 사용을 위해서 통행료를 지불해야 한다.
 deu	kor_Hang	Insgesamt gesehen hat er großes Glück gehabt.	전체적으로 볼 때 운이 매우 좋았다.
@@ -706,8 +711,8 @@ deu	kor_Hang	„Maria ist schon runter in den Laden gegangen.“ – „Wann öf
 deu	kor_Hang	Maria sagte, ihr gefalle Regen.	메리는 비가 오는 것을 좋아한다고 말했어요.
 deu	kor_Hang	Maria schläft in einem bequemen Bett, während Tom, in Decken gehüllt, bei −10 °C in Hauseingängen oder unter Brücken nächtigt.	메리가 편안한 침대에서 자고 있는 동안 톰은 담요로 둘둘 둘러싼 채로 −10 °C의 기온에 집 대문 앞이나 다리 밑에서 노숙하고 있어.
 deu	kor_Hang	Maries Augen waren gefüllt mit Tränen.	매리의 눈에 눈물이 고였다.
-deu	kor_Hang	Mein Bruder ist Professor.	내 형은 교수야.
 deu	kor_Hang	Mein Bruder ist Professor.	내 동생은 교수야.
+deu	kor_Hang	Mein Bruder ist Professor.	내 형은 교수야.
 deu	kor_Hang	Mein Computer ist abgestürzt.	컴퓨터가 다운되었다.
 deu	kor_Hang	Mein Computer ist abgestürzt und alle Daten sind weg.	커퓨터가 다운되었다. 모든 데이터를 잃어버렸다.
 deu	kor_Hang	Meine Cousine ist Journalistin.	제 사촌은 기자예요.
@@ -799,8 +804,8 @@ deu	kor_Hang	Sie ist ein angenehmer und gebildeter Mensch.	그녀는 편안하�
 deu	kor_Hang	Sie ist ganz lieb.	걔는 참 친절하다.
 deu	kor_Hang	Sie ist im achten Monat schwanger.	그녀는 임신 8개월 째이다.
 deu	kor_Hang	Sie ist schöner als jede andere.	그녀는 누구보다도 아름다워요.
-deu	kor_Hang	Sie ist seit acht Monaten schwanger.	그녀는 임신 8개월 째이다.
 deu	kor_Hang	Sie ist seit acht Monaten schwanger.	그녀는 임신 8개월이다.
+deu	kor_Hang	Sie ist seit acht Monaten schwanger.	그녀는 임신 8개월 째이다.
 deu	kor_Hang	Sie ist total gut gelaunt.	그녀는 기분이 아주 좋다.
 deu	kor_Hang	Sie ist vor zwei Tagen verstorben.	그녀는 이틀전에 돌아가셨다.
 deu	kor_Hang	Sie können die Fahrkarte auch am Fahrkartenautomaten lösen.	차표는 자동판매기에서도 구할 수 있습니다.
@@ -839,8 +844,8 @@ deu	kor_Hang	Stimmt, ja. Die Luftfeuchtigkeit ist ziemlich hoch.	네, 그래요.
 deu	kor_Hang	Suche nicht nach Fehlern, suche nach Lösungen.	실수를 찾으려 하지 말고 답을 찾으려 해.
 deu	kor_Hang	Suni spielt gerade.	순이가 놀아요.
 deu	kor_Hang	Tatoeba ist kein soziales Netzwerk.	타토에바는 SNS가 아닙니다.
-deu	kor_Hang	Thalia ist meine Lieblingssängerin.	내가 좋아하는 가수는 탈리아야.
 deu	kor_Hang	Thalia ist meine Lieblingssängerin.	내가 좋아하는 가수는 탈리아입니다.
+deu	kor_Hang	Thalia ist meine Lieblingssängerin.	내가 좋아하는 가수는 탈리아야.
 deu	kor_Hang	Thomas schaut einen Film.	토마스가 영화를 보고 있어요
 deu	kor_Hang	Tom arbeitet jetzt bei einer Bank.	톰은 현재 은행에서 일해.
 deu	kor_Hang	Tom, da bist du ja endlich! Gerade habe ich überlegt, ob ich mich umbringe oder ob ich einfach ins Bett gehe.	톰, 네가 이제서야 오다니! 난 막 자살할까 그냥 자러갈까 고민하던 참이었었는데.
@@ -882,9 +887,9 @@ deu	kor_Hang	Tom sieht zufrieden aus.	톰은 만족해 하는 것처럼 보인�
 deu	kor_Hang	Tom trägt eine schwarze Brille.	톰은 검은 안경을 쓰고 있다.
 deu	kor_Hang	Tom treibt nicht gerne Sport.	톰은 운동하는 걸 싫어한다.
 deu	kor_Hang	Tom trinkt jeden Tag Bier.	톰은 매일 맥주를 마신다.
-deu	kor_Hang	Tom und Maria wohnen in einem „schlauen Haus“.	톰과 메리는 스마트 홈에 살고 있어.
-deu	kor_Hang	Tom und Maria wohnen in einem „schlauen Haus“.	톰과 메리는 스마트 홈에 살고 있어요.
 deu	kor_Hang	Tom und Maria wohnen in einem „schlauen Haus“.	톰과 메리는 스마트 홈에서 거주하고 있어요.
+deu	kor_Hang	Tom und Maria wohnen in einem „schlauen Haus“.	톰과 메리는 스마트 홈에 살고 있어요.
+deu	kor_Hang	Tom und Maria wohnen in einem „schlauen Haus“.	톰과 메리는 스마트 홈에 살고 있어.
 deu	kor_Hang	Tom war zu alt.	톰은 너무 늙었어.
 deu	kor_Hang	Tom weinte immer, wenn seine Schwester ihm sein Spielzeug wegnahm, und aus ebendiesem Grunde tat sie das sehr gern.	톰은 누나가 자기 장난감을 빼앗아 갔을 때마다 울음을 터뜨렸고, 누나는 바로 그런 이유로 그런 짓을 곧잘 해댔다.
 deu	kor_Hang	Tom will keinen Ärger.	톰은 말썽에 휘말리고 싶어하지 않았지.
@@ -895,8 +900,8 @@ deu	kor_Hang	Tom wusste nicht, dass Maria einen Bruder hat.	톰은 메리한테 
 deu	kor_Hang	Träum süß!	좋은 꿈 꿔.
 deu	kor_Hang	Treffen wir uns um fünf.	5시에 만나자.
 deu	kor_Hang	Trinken Sie gerne Kaffee?	커피 좋아해요?
-deu	kor_Hang	Tut mir leid wegen gestern.	어제 일은 미안해.
 deu	kor_Hang	Tut mir leid wegen gestern.	어젯밤 일은 미안해.
+deu	kor_Hang	Tut mir leid wegen gestern.	어제 일은 미안해.
 deu	kor_Hang	Tut mir schrecklich leid!	정말 미안해요.
 deu	kor_Hang	Übernimm dich nicht!	너무 무리하지는 마.
 deu	kor_Hang	Überrascht sein, sich wundern, heißt anfangen, zu verstehen.	놀라워 하고, 궁금해 하는 것이 이해의 시작이다.
@@ -925,11 +930,11 @@ deu	kor_Hang	Versuch mich zu fangen!	나를 잡아봐!
 deu	kor_Hang	Verzeih, dass ich Zweifel hatte.	의심해서 미안.
 deu	kor_Hang	Verzeihung.	실례합니다.
 deu	kor_Hang	Vielen Dank für die schnelle Antwort.	빠른 답변 감사합니다.
-deu	kor_Hang	Vielleicht haben Sie Erfolg.	아마 당신은 성공할 거예요.
 deu	kor_Hang	Vielleicht haben Sie Erfolg.	당신은 아마 성공할 거예요.
+deu	kor_Hang	Vielleicht haben Sie Erfolg.	아마 당신은 성공할 거예요.
 deu	kor_Hang	Vielleicht habt ihr Erfolg.	너희들은 아마 성공할 거야.
-deu	kor_Hang	Vielleicht werden Sie es schaffen.	아마 당신은 해낼 거예요.
 deu	kor_Hang	Vielleicht werden Sie es schaffen.	당신은 아마 해낼 거예요.
+deu	kor_Hang	Vielleicht werden Sie es schaffen.	아마 당신은 해낼 거예요.
 deu	kor_Hang	Viel Vergnügen!	즐거운 시간 보내라!
 deu	kor_Hang	Von vorne sieht dieses Haus groß aus, aber nicht von der Seite.	그 건물은 앞에서 보면 커 보이지만 옆에서 보면 그렇지 않다.
 deu	kor_Hang	Vor dem Rathaus ist ein großer Parkplatz.	시청 앞에는 큰 주차장이 있다.
@@ -992,16 +997,16 @@ deu	kor_Hang	Wer hat meinen Föhn geklaut?	누가 내 헤어드라이어를 훔�
 deu	kor_Hang	Wer ist als nächster an der Reihe?	이제 누구 차례지?
 deu	kor_Hang	Wer ist in unserer Firma der beste Sänger?	우리 회사에서 최고의 가수는 누구입니까?
 deu	kor_Hang	Wer kümmert sich um Ihre Hunde?	누가 당신의 개를 돌봅니까?
-deu	kor_Hang	Wer nicht wagt, der nicht gewinnt.	전혀 위험을 감수하지 않으면, 아무 것도 얻을 수 없다.
-deu	kor_Hang	Wer nicht wagt, der nicht gewinnt.	시작이 반이다.
 deu	kor_Hang	Wer nicht wagt, der nicht gewinnt.	도전하지 않으면 얻는 것도 없다.
+deu	kor_Hang	Wer nicht wagt, der nicht gewinnt.	시작이 반이다.
+deu	kor_Hang	Wer nicht wagt, der nicht gewinnt.	전혀 위험을 감수하지 않으면, 아무 것도 얻을 수 없다.
 deu	kor_Hang	Wer zu wählerisch ist, geht leer aus.	너무 까다롭게 고르면 아무것도 못 받는다.
 deu	kor_Hang	Wessen Buch ist das?	그 책은 누구의 것입니까?
 deu	kor_Hang	„Wie alt ist Tom?“ – „Wenn ich das nur wüsste!“	"톰은 몇 살입니까?" "저도 알았으면 좋겠네요."
 deu	kor_Hang	Wie alt sind Sie?	연세가 어떻게 되셨습니까?
 deu	kor_Hang	„Wie geht es Tom? Ist sein Geist klar? Hat er Schmerzen?“ – „Er weiß Schmerzen klaglos hinzunehmen, wie Ihnen sicher bekannt ist.“	" 톰은 좀 어때? 마음을 좀 진정시킨거 같아? 어디 아프지는 않아?" -" 당신도 알다 싶이.. 그는 자신의 고통을 불평 없이 참는 법을 알고 있죠."
-deu	kor_Hang	Wie hast du davon erfahren?	너 어떻게 알게 됐어?
 deu	kor_Hang	Wie hast du davon erfahren?	너 어떻게 그것을 알게 되었니?
+deu	kor_Hang	Wie hast du davon erfahren?	너 어떻게 알게 됐어?
 deu	kor_Hang	Wie heißt die Hauptstadt von Haiti?	아이티의 수도는 이름이 무엇입니까?
 deu	kor_Hang	Wie kann die Liebe die Liebe lieben?	사랑이 사랑을 어떻게 사랑할 수 있니?
 deu	kor_Hang	Wie kann ich dieses Problem lösen?	이 문제를 어떻게 해결할 수 있을까?
@@ -1082,22 +1087,40 @@ deu	kor_Hang	Zum Wohl!	건배!
 deu	kor_Hang	Zur Vollkommenheit fehlte ihr nur ein Fehler.	한가지만 빼면 그녀는 완벽해요.
 deu	kor_Hang	Zu welchem Zweck sind Sie nach Korea gekommen?	한국에는 무슨 일로 오셨습니까?
 deu	kor_Hang	Zwei Fliegen mit einer Klappe schlagen.	일석이조
+deu	kor	Hast du den Mut dazu?	그럴 용기는 있어?
+deu	kor	Ich aß viel Fleisch.	나는 고기를 많이 먹었다.
 deu	kor	Ich bin am 14. Februar 1960 geboren.	나는 1960년 2월 14일에 태어났다.
+deu	kor	Ich bin morgen nicht zu Hause.	나 내일 집에 없어.
+deu	kor	Ich glaube nicht, dass er vom Geld nichts weiß.	난 걔가 돈에 대해 아무것도 모른다고 생각하지 않아.
+deu	kor	Ich kann das nicht mehr.	난 더 이상 못하겠어.
+deu	kor	Ich will auf das Konzert gehen.	나는 그 콘서트에 가고 싶다.
+deu	kor	Ich will nichts verlieren.	나는 아무것도 잃고 싶지 않다.
 deu	kor	Ich wurde am 10. Oktober 1972 geboren.	나는 1972년 10월 10일에 태어났다.
 deu	kor	Ich wurde am 4. Juni 1974 geboren.	나는 1974년 6월 4일에 태어났다.
+deu	kor	In der Zeit kann ich nichts tun.	그 시간 동안 나는 아무것도 할 수 없어.
 deu	kor_Latn	Diese CD kostet 10 Dollar.	이 CD 는 10 달러 입니다.
 deu	kor_Latn	Herzlichen Glückwunsch zum Geburtstag, Muiriel!	생일 축하해 Muiriel!
 deu	kor_Latn	Muiriel ist jetzt 20.	Muiriel은 지금 20살입니다.
+deu	kor	Meine Mutter würde dich gerne treffen.	우리 엄마가 널 만나고 싶어해.
+deu	kor	Mein Kind braucht einen Arzt.	우리 아이한테 의사가 필요해.
 deu	kor	Oh, es ist zum Weinen.	아, 울 것 같아.
 deu	kor	Rufen Sie uns gebührenfrei unter der Nummer 1-800-446-2581 an.	수신자부담전화 1-800-446-2581을 이용해주세요.
 deu	kor	Sechs mal drei ist achtzehn.	6 곱하기 3은 18이다.
+deu	kor	Sie ist zu.	닫혀 있어.
+deu	kor	Sie kennen mein Geheimnis.	제 비밀을 알고 계시네요.
 deu	kor	„Sind das deine Autos?“ – „Ja, das sind meine.“	"이 자동차들 다 네 거야?" "응, 다 내 거야."
+deu	kor	Unmöglich ist es nicht.	불가능하지 않다.
 deu	kor	Vier mal vier ist sechzehn.	4 곱하기 4는 16이다.
 deu	kor	Vier plus drei ist sieben.	4 더하기 3은 7이다.
+deu	kor	Warum er das Dorf verließ, wusste keiner.	그가 왜 마을을 떠나는지 아는 사람이 없었다.
+deu	kor	Warum tun wir nichts?	왜 우린 아무것도 안하고 있지?
 deu	kor	„Was ist los?“ „Der Schlüssel ist weg.“ „Welcher Schlüssel?“ „Der Fahrradschlüssel.“	"무슨 일이야?" "열쇠가 없어." "무슨 열쇠?" "자전거 열쇠."
 deu	kor	Wenn man von zehn zwei abzieht, macht das acht.	10에서 2를 빼면 8을 얻는다.
-deu	kor	Zehn minus zwei ist acht.	10 빼기 2는 8이다.
+deu	kor	Wie viel Uhr ist es, bitte?	몇시예요?
+deu	kor	„Wir“? Es gibt kein „Wir“. Ich will nicht mit.	'우리'라고? '우리'란 건 없어. 난 빠질 거니까.
+deu	kor	Wissen Sie, warum?	왜인지 아시나요?
 deu	kor	Zehn minus zwei ist acht.	10과 2의 차이는 8이다.
+deu	kor	Zehn minus zwei ist acht.	10 빼기 2는 8이다.
 deu	kor	Zwei mal dreizehn ist sechsundzwanzig.	2 곱하기 13은 26이다.
 deu	kor	Zwei mal zwei ist vier.	2 곱하기 2는 4이다.
 deu	kor	Zwei plus zwei ist vier.	2 더하기 2는 4이다.

@@ -29,6 +29,7 @@ isl	jpn_Hani	Mér finnst leiðinlegt að læra.	私は勉強が嫌いだ。
 isl	jpn_Hani	Rafmangsvírar leiða rafmagn.	電線は電気を流す。
 isl	jpn_Hani	Tókýó er stór borg.	東京は大都市です。
 isl	jpn_Hani	Við köllum þessa borg „Litlu Kíótó“.	我々はこの町を小京都と呼ぶ。
+isl	jpn	Hann hefur engan til að tala við.	彼には相談する人がいない。
 isl	jpn_Hira	Ætlarðu að fara eitthvert í sumar?	この夏どこかへ出かけますか。
 isl	jpn_Hira	Af hverju féllstu á inntökuprófinu?	どうして入試に失敗したのですか。
 isl	jpn_Hira	Af litlum neista verður oft mikið bál.	小さな火花はしばしば大きな炎を起こす。
@@ -51,10 +52,10 @@ isl	jpn_Hira	Ég bý í Hjógó.	私は兵庫県にすんでいる。
 isl	jpn_Hira	Ég drekk kaffi á morgnanna.	朝コーヒーを飲む。
 isl	jpn_Hira	Ég er ekki svo góð í tennis.	僕はあまりテニスが上手ではない。
 isl	jpn_Hira	Ég er forvitin.	私は好奇心が強いです。
-isl	jpn_Hira	Ég er þreitt.	疲れました。
 isl	jpn_Hira	Ég er þreitt.	疲れているんだ。
-isl	jpn_Hira	Ég er þyrst.	喉が渇いた。
+isl	jpn_Hira	Ég er þreitt.	疲れました。
 isl	jpn_Hira	Ég er þyrst.	のどが渇きました。
+isl	jpn_Hira	Ég er þyrst.	喉が渇いた。
 isl	jpn_Hira	Ég gerði mistök.	私が間違っていました。
 isl	jpn_Hira	Ég get það.	私はそれができる。
 isl	jpn_Hira	Ég hafði rangt fyrir mér.	私が間違っていました。
@@ -75,6 +76,7 @@ isl	jpn_Hira	Ég veit það ekki.	分からない。
 isl	jpn_Hira	Ég veit það ekki.	分からないよ。
 isl	jpn_Hira	Ég veit það ekki.	知らない。
 isl	jpn_Hira	Ég veit það ekki.	知らないわ。
+isl	jpn_Hira	Ég veit það ekki.	知りません。
 isl	jpn_Hira	Ég veit það ekki.	私は知りません。
 isl	jpn_Hira	Ég verð að fara að sofa.	私は眠らなければなりません。
 isl	jpn_Hira	Ég þarf kort.	地図が要ります。
@@ -119,10 +121,10 @@ isl	jpn_Hira	Hjólið mitt var horfið þegar ég snéri aftur.	帰ってきた�
 isl	jpn_Hira	Hún bjó í Híróshíma þar til hún var tíu.	彼女は１０歳の時まで広島に住んでいた。
 isl	jpn_Hira	Hún er á skrifstofunni sinni.	彼は事務所にいます。
 isl	jpn_Hira	Hún lagðist í rúmið.	彼女はベッドに横になった。
-isl	jpn_Hira	Hvað ertu að gera?	何してるの？
-isl	jpn_Hira	Hvað ertu að gera?	何をしているの。
-isl	jpn_Hira	Hvað ertu að gera?	何をしていますか。
 isl	jpn_Hira	Hvað ertu að gera?	何しているのですか。
+isl	jpn_Hira	Hvað ertu að gera?	何してるの？
+isl	jpn_Hira	Hvað ertu að gera?	何をしていますか。
+isl	jpn_Hira	Hvað ertu að gera?	何をしているの。
 isl	jpn_Hira	Hvað ertu að gera?	君はどうするの。
 isl	jpn_Hira	Hvað finnst þér um hann?	彼をどう思いますか。
 isl	jpn_Hira	Hvað finnst þér um tillöguna hans?	彼の提案をどう思いますか。
@@ -151,8 +153,8 @@ isl	jpn_Hira	Hver sem er getur gert það svo lengi sem hann reynir.	誰でも�
 isl	jpn_Hira	Hvers er þessi stílabók?	あのノートは誰のですか？
 isl	jpn_Hira	Hversu marga bíla áttu?	車を何台お持ちですか。
 isl	jpn_Hira	Hversu mikið er það í dag?	今日はおいくらですか。
-isl	jpn_Hira	Hvert fór hann?	彼は何処に行ったのですか。
 isl	jpn_Hira	Hvert fór hann?	彼はどこへ行った。
+isl	jpn_Hira	Hvert fór hann?	彼は何処に行ったのですか。
 isl	jpn_Hira	Hvert í Boston ertu að fara?	ボストンのどこに行くのですか。
 isl	jpn_Hira	Hvor þykja þér betri: epli eða bananar?	りんごとバナナとどちらがお好きですか？
 isl	jpn_Hira	Já, ég er með góða hugmynd.	うん、いい考えがある。
@@ -170,8 +172,8 @@ isl	jpn_Hira	Leifðu henni ekki að fara út eftir að það er orðið dimmt.	�
 isl	jpn_Hira	Lífið er fallegt.	人生は美しい。
 isl	jpn_Hira	Loksins leysti hann vandamálið.	ついに彼はその問題を解いた。
 isl	jpn_Hira	Maðurinn blés reyk í andlitið á henni.	その男は彼女の顔に煙をぷっと吹きかけた。
-isl	jpn_Hira	Maðurinn burstar tennurnar.	男の人は歯を磨く。
 isl	jpn_Hira	Maðurinn burstar tennurnar.	男の人は歯を磨きます。
+isl	jpn_Hira	Maðurinn burstar tennurnar.	男の人は歯を磨く。
 isl	jpn_Hira	Maðurinn burstar tennurnar.	男の人は歯を磨くんです。
 isl	jpn_Hira	Má ég fara með þér.	付いて行ってもいいですか。
 isl	jpn_Hira	Með hverjum ætlarðu að fara?	誰と行くの。
@@ -194,8 +196,8 @@ isl	jpn_Hira	Slíkir embættismenn eru ekki á hverju strái.	こういうタイ
 isl	jpn_Hira	Strákurinn sem er að lesa bókina heitir John.	本を読んでいる少年はジョンです。
 isl	jpn_Hira	Strákurinn sem rær bátnum er vinur minn.	ボートをこいでいる少年は私の友人です。
 isl	jpn_Hira	Takk fyrir matinn.	ご馳走様でした。
-isl	jpn_Hira	„Takk fyrir.“ „Verði þér að góðu.“	「ありがとう。」「どういたしまして。」
 isl	jpn_Hira	„Takk fyrir.“ „Verði þér að góðu.“	「ありがとうご座います」「どう致しまして」
+isl	jpn_Hira	„Takk fyrir.“ „Verði þér að góðu.“	「ありがとう。」「どういたしまして。」
 isl	jpn_Hira	Taro, gætirðu rétt mér hjálparhönd?	太郎、手伝ってくれる？
 isl	jpn_Hira	Til hamingju með afmælið, Muiriel!	お誕生日おめでとうムーリエル！
 isl	jpn_Hira	Tókýó er sögð vera mjög örugg borg.	東京はとても安全な都市であると言われています。
@@ -249,3 +251,4 @@ isl	jpn_Kana	Leyniorðið er „Muiriel“.	パスワードは「Muiriel」で�
 isl	jpn_Kana	Velkomin á heimasíðu Tatoeba verkefnisins.	タトエバ・プロジェクトのウェブサイトへようこそ。
 isl	jpn_Kana	Velkominn á heimasíðu Tatoeba verkefnisins.	タトエバ・プロジェクトのウェブサイトへようこそ。
 isl	jpn_Kana	Við völdum John til að vera fyrirliðann okkar.	私たちはジョンをキャプテンに選んだ。
+isl	jpn	Það er gaman að læra japönsku.	日本語の勉強は楽しいです。

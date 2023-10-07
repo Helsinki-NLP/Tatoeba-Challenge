@@ -68,6 +68,7 @@ dan	tur	Det er mere end rigeligt.	Bu, yeterli miktardan daha fazla.
 dan	tur	Det er under stolen.	O, sandalyenin altında.
 dan	tur	Det er vores job.	O bizim işimiz.
 dan	tur	Det gør ondt her.	Burası ağrıyor.
+dan	tur	Det her er den bedste guitar i butikken.	Bu; mağazadaki en iyi gitar.
 dan	tur	Det lykkedes mig at nå det sidste tog.	Son treni yakalamayı başardım.
 dan	tur	De troede på Tom.	Onlar Tom'a inandılar.
 dan	tur	De tror på det.	Onlar ona inanıyorlar.
@@ -97,6 +98,7 @@ dan	tur	Du er ikke mindre flot end hende.	Ondan daha az güzel değilsin.
 dan	tur	Du er nødt til at spørge en anden.	Başka birine sormak zorunda kalacaksın.
 dan	tur	Du er skarp.	Sen dolandırıcısın.
 dan	tur	Du har en smuk hest.	Atın güzel.
+dan	tur	Du har mistet alt.	Her şeyi kaybettin.
 dan	tur	Du har vand.	Senin suyun var.
 dan	tur	Du havde ikke behøvet at komme så tidligt.	O kadar erken gelmek zorunda değildin.
 dan	tur	Du ignorerer mig.	Beni görmezden geliyorsun.
@@ -138,6 +140,7 @@ dan	tur	Er jeg smuk eller ej?	Yakışıklı mıyım yoksa değil miyim?
 dan	tur	Er mit svar korrekt?	Benim cevabım doğru mu?
 dan	tur	Er morgenmaden klar?	Kahvaltı hazır mı?
 dan	tur	Er vinen rød?	Şarap kırmızı mı?
+dan	tur	Europa eksisterer ikke.	Avrupa yok.
 dan	tur	Fangede du noget sidst du tog ud for at fiske?	Son kez balık tutmaya gittiğinde bir şey yakaladın mı?
 dan	tur	Faren er ovre.	Tehlike bitti.
 dan	tur	Fart på.	Acele et.
@@ -240,6 +243,7 @@ dan	tur	Hun tog et andet sted hen for at shoppe.	O, başka bir yere alışveriş
 dan	tur	Hun var nødt til selv at gå.	Kendi gitmek zorunda kaldı.
 dan	tur	Hun viste mig sin nye bil.	O, bana yeni arabasını gösterdi.
 dan	tur	Hurtigt er det modsatte af langsomt.	Hızlı, yavaşın zıddıdır.
+dan	tur	Hvad baserer du det udsagn på?	O açıklamayı neye dayandırıyorsun?
 dan	tur	Hvad blev der serveret til festen?	Partide ne servis edildi?
 dan	tur	Hvad er klokken på dit ur?	Saatinde saat kaç?
 dan	tur	Hvad er meningen med livet?	Hayatın anlamı nedir?
@@ -256,6 +260,7 @@ dan	tur	Hvad skete der i bussen?	Otobüste ne oldu?
 dan	tur	Hvad svarede du?	Ne cevap verdin?
 dan	tur	Hvad tid står du normalt op om morgenen?	Her sabah genellikle saat kaçta kalkarsın?
 dan	tur	Hvem elsker du?	Kimi seviyorsun?
+dan	tur	Hvem er den berømteste krigsforbryder?	En meşhur savaş suçlusu kimdir?
 dan	tur	Hvem har skrevet "Fyrsten"?	"Prens"i kim yazdı?
 dan	tur	Hvem køber?	Kim satın alıyor?
 dan	tur	Hvem købte det?	Onu kim aldı?
@@ -271,6 +276,7 @@ dan	tur	Hvis du sagde: "Jeg elsker dig", så ville jeg også sige det samme til 
 dan	tur	Hvis jeg var dig så ville jeg straks gå hjem.	Yerinde olsam derhal eve giderim.
 dan	tur	Hvis jeg var en fugl, ville jeg flyve hen til dig.	Bir kuş olsam, sana uçarım.
 dan	tur	Hvor afgår det fra?	O nereden kalkıyor?
+dan	tur	Hvordan gjorde du det uden hjælp?	Onu yardım olmadan nasıl yaptın?
 dan	tur	Hvordan var frokosten?	Öğle yemeği nasıldı?
 dan	tur	Hvor er din jakke?	Ceketin nerede?
 dan	tur	Hvor fejlede vi?	Nerede hata yaptık?
@@ -278,6 +284,7 @@ dan	tur	Hvorfor er sne hvidt?	Kar niçin beyazdır?
 dan	tur	Hvorfor ikke?	Neden olmasın?
 dan	tur	Hvorfor kom han ikke?	Neden gelmedi?
 dan	tur	Hvorfor mig?	Neden ben?
+dan	tur	Hvorfor spiser du ikke?	Niye yemiyorsun?
 dan	tur	Hvor gik den mand hen?	Bu adam nereye gitti?
 dan	tur	Hvor længe har du ventet?	Ne kadar bekledin?
 dan	tur	Hvor langt er du henne i graviditeten?	Ne zamandır hamilesin?
@@ -381,6 +388,7 @@ dan	tur	Jeg kan lide hunden.	Köpeği seviyorum.
 dan	tur	Jeg kan lide kinesisk mad.	Çin yemeğini severim.
 dan	tur	Jeg kan sælge dette.	Bunu satabilirim.
 dan	tur	Jeg kan tale Esperanto som en indfødt.	Esperanto'yu ana dilim gibi konuşabiliyorum.
+dan	tur	Jeg kan virkelig godt lide dette hus.	Bu evi bayağı beğeniyorum.
 dan	tur	Jeg kender en vej.	Bir yol biliyorum.
 dan	tur	Jeg køber denne.	Bunu alacağım.
 dan	tur	Jeg køber.	Satın alıyorum.
@@ -435,6 +443,7 @@ dan	tur	Jeg tror du har ret.	Sanırım sen haklısın.
 dan	tur	Jeg tror han gjorde det.	Onun onu yaptığını düşünüyorum.
 dan	tur	Jeg tror han tager fejl.	Onun yanlış olduğunu düşünüyorum..
 dan	tur	Jeg tror hun er syg.	Onun hasta olduğunu düşünüyorum.
+dan	tur	Jeg tror ikke, du kan stole på dataene i registret.	Kayıtlardaki verilere güven duyabileceğini sanmıyorum.
 dan	tur	Jeg tror jeg forstår.	Anladığımı düşünüyorum.
 dan	tur	Jeg tror jeg kan.	Sanırım yapabilirim.
 dan	tur	Jeg tror på at kærlighed eksisterer.	Aşkın var olduğuna inanıyorum.
@@ -456,6 +465,7 @@ dan	tur	Jeg vil gøre det, hvis de betaler mig.	Onlar bana ödeme yaparsa, onu y
 dan	tur	Jeg vil ikke have at mit land bliver medlem af den Europæiske Union.	Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.
 dan	tur	Jeg vil ikke vente.	Beklemek istemiyorum.
 dan	tur	Jeg vil lave mine lektier lige efter aftensmaden.	Akşam yemeğinden hemen sonra ev ödevimi yapacağım.
+dan	tur	Jeg vil omformulere mit spørgsmål.	Sorumu başka bir şekilde ifade etmek istiyorum.
 dan	tur	Jeg vil tage afsted til fods.	Ben yaya gideceğim.
 dan	tur	Jeg viste Tom vejen.	Tom'a yolu gösterdim
 dan	tur	Jeres hus er stort.	Eviniz büyük.
@@ -571,6 +581,7 @@ dan	tur	Ret ryggen.	Sırtınızı dik tutun.
 dan	tur	Ringede du?	Sen aradın mı?
 dan	tur	Ring efter hjælp.	Yardım için ara.
 dan	tur	Rygning dræber.	Sigara içmek öldürür.
+dan	tur	Sami ryger også cannabis.	Sami de ot içiyor.
 dan	tur	Send børnene i seng.	Çocukları yatağa gönder.
 dan	tur	Send dem til mig.	Onları bana gönder.
 dan	tur	Send ham ind.	Onu içeri gönderin.
@@ -668,6 +679,7 @@ dan	tur	Tom kommer herhen.	Tom buraya geliyor.
 dan	tur	Tom kommer i dag.	Tom bugün geliyor.
 dan	tur	Tom kom nærmere.	Tom yakınlaştı.
 dan	tur	Tom lavede morgenmad.	Tom kahvaltı yaptı.
+dan	tur	Tom ønsker ikke at tale om det mere.	Tom bununla ilgili daha fazla konuşmak istemiyor.
 dan	tur	Tom ønsker mere kaffe.	Tom daha fazla kahve istiyor.
 dan	tur	Tom ønsker svar.	Tom cevapları ister.
 dan	tur	Tom opfordrede hans søn til at lære fransk.	Tom oğlunu Fransızca öğrenmesi için yüreklendirdi.

@@ -61,6 +61,7 @@ eus	rus	Bosniar hizkuntza hitz egiten dut.	Я говорю на боснийск
 eus	rus	Boston ikusi nahi dut.	Я хочу увидеть Бостон.
 eus	rus	Buruko mina dugu.	У нас болит голова.
 eus	rus	Caoimhe txakur handia dauka.	У Кивы есть большая собака.
+eus	rus	Carlos dut izena eta brasildarra naiz.	Меня зовут Карлос, я бразилец.
 eus	rus	Dantzatu!	Танцуй!
 eus	rus	David gaixorik dago, ezta?	Давид болеет, не так ли?
 eus	rus	Denbora ibai bat bezalakoa da.	Время похоже на реку.
@@ -264,6 +265,7 @@ eus	rus	Lasai.	Не парься.
 eus	rus	Lasaña maite dut.	Я люблю лазанью.
 eus	rus	Laster arte.	До скорой встречи.
 eus	rus	Laurie neska da.	Лори - девочка.
+eus	rus	Laurogeita bederatzi urte ditut.	Мне восемьдесят девять лет.
 eus	rus	Laylak bost urte ditu orain.	Сейчас Лейле пять лет.
 eus	rus	Laylak ez zuen inoiz lan egin.	Лейла нигде не работала.
 eus	rus	Laylak Kairoko natiboa da.	Лейла - уроженка Каира.
@@ -317,6 +319,7 @@ eus	rus	Ni Ekuadorrekoa naiz?	Я из Эквадора?
 eus	rus	Ni gazteagoa naiz.	Я моложе.
 eus	rus	Ni gizon naiz.	Я мужчина.
 eus	rus	Nik bi ahizpa dauzkat.	У меня две сестры.
+eus	rus	Nik ere hogeita hamar urte ditut.	Мне тоже тридцать лет.
 eus	rus	Nik ere maite zaitut.	Я тоже тебя люблю.
 eus	rus	Nik hizkuntza asko dakizkit.	Я знаю много языков.
 eus	rus	Ni Kolombiatik nator.	Я приехал из Колумбии.
@@ -355,8 +358,8 @@ eus	rus	Norekin hitz egiten ari da?	С кем он говорит?
 eus	rus	Nork gehiago dago taldean?	Кто ещё в команде?
 eus	rus	Noski ezetz!	Конечно, нет!
 eus	rus	Ondo dago, ezta?	Хорошо, правда?
-eus	rus	Ondo nago.	У меня всё хорошо.
 eus	rus	Ondo nago	У меня всё хорошо.
+eus	rus	Ondo nago.	У меня всё хорошо.
 eus	rus	Ondo.	Хорошо.
 eus	rus	Orduan zergatik saldu duzu?	Тогда зачем ты его продал?
 eus	rus	Osasuna eta umore ona!	Желаю здоровья и хорошего настроения!
@@ -446,8 +449,8 @@ eus	rus	Zelan zaude? ondo edo txarto?	Как дела? Хорошо или пл�
 eus	rus	Zenbat arreba dituzte.?	Сколько у них сестёр?
 eus	rus	Zenbat arreba dituzu? Zenbat anai dituzu?	Сколько у тебя сестёр? Сколько у тебя братьев?
 eus	rus	Zenbat balio du garagardoak?	Сколько стоит пиво?
-eus	rus	Zenbat balio du?	Сколько стоит?
 eus	rus	Zenbat balio du	Сколько стоит?
+eus	rus	Zenbat balio du?	Сколько стоит?
 eus	rus	Zenbat begi zituen ziklopeak?	Сколько глаз было у циклопов?
 eus	rus	Zenbat buru, hainbat aburu.	Сколько людей, столько и мнений.
 eus	rus	Zenbat denbora?	Который час?

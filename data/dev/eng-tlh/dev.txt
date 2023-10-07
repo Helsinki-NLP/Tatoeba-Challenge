@@ -55,6 +55,7 @@ eng	tlh_Latn	Allah is great!	Dun Qun'a'!
 eng	tlh_Latn	All at once it began to rain heavily.	pay' SISqu'choH.
 eng	tlh_Latn	All belongs to all.	Hochmey ghajjaj Hochpu'.
 eng	tlh_Latn	All belongs to all.	Hochpu'vaD bIH Hoch'e'.
+eng	tlh_Latn	All countries are fake.	ngeb Hoch Sepmey.
 eng	tlh_Latn	All countries have their embassies in the capital.	monDaq bIHtaH Hoch Sep rIvSo''e'.
 eng	tlh_Latn	All he said was true.	teH Hoch jatlhta'bogh.
 eng	tlh_Latn	All human beings are mortal.	jubbe' Hoch Humanpu'.
@@ -63,12 +64,15 @@ eng	tlh_Latn	All life support systems have been severely damaged.	rIQqu' Hoch yI
 eng	tlh_Latn	All of a sudden they stopped talking.	pay' ja'chuq 'e' lumev.
 eng	tlh_Latn	All of our blood goes through our kidneys about sixty times a day.	Hoch jaj javmaHlogh rajma'Du'maj vegh Hoch 'Iwmaj.
 eng	tlh_Latn	All of you speak French, right?	vIraS Hol bojatlh Hoch, qar'a'?
+eng	tlh_Latn	All people are different.	pIm Hoch ghot.
 eng	tlh_Latn	All right. I'm leaving.	lu'. jImej.
 eng	tlh_Latn	All right, listen carefully.	toH, yI'Ijchu'!
 eng	tlh_Latn	All right.	luq.
 eng	tlh_Latn	All she does is gossip.	reH joS neH.
+eng	tlh_Latn	All the bears are eating.	SoptaH mIl'oDmey Hoch.
 eng	tlh_Latn	All the hostages were released unharmed.	Hoch vubpu' lutlhabqa'moHlu' 'ej rIQ pagh.
 eng	tlh_Latn	All the other boys laughed at him.	ghaHmo' HaghtaH Hoch latlh loDHompu'.
+eng	tlh_Latn	All the past was better.	nIv pa'logh Hoch.
 eng	tlh_Latn	All the rooms are taken.	Hoch pa'mey luDablu'.
 eng	tlh_Latn	All the students of the university have access to the university library.	'ampaS paqghom lunaw'laH 'ampaS Hoch HaDwI'pu'.
 eng	tlh_Latn	All the villagers know him.	ghaH Sov Hoch vengHom ngan.
@@ -86,6 +90,7 @@ eng	tlh_Latn	A lot of wild animals died because there wasn't any food.	Hegh tlha
 eng	tlh_Latn	A loud noise made him jump.	ghaH SupmoH wab chuS.
 eng	tlh_Latn	A loved one is always smelled.	reH bang larghlu'.
 eng	tlh_Latn	Although he's young, he's an outstanding doctor.	Qup 'ach Qel pov ghaH.
+eng	tlh_Latn	Although he was born in England, he speaks English very badly.	'InglanDaq boghpu', 'ach qabqu' DIvI' Hol jatlhbogh.
 eng	tlh_Latn	Always have your dictionary near at hand.	reH SumDaq mu'ghomlIj yIpol!
 eng	tlh_Latn	Always tell the truth.	reH yIvIt!
 eng	tlh_Latn	A majority of students dislike history.	qun muS HaDwI'pu' 'ay''a'.
@@ -114,6 +119,7 @@ eng	tlh_Latn	And then what happened?	'ej ghIq qaS nuq?
 eng	tlh_Latn	An electric current can generate magnetism.	peQ chenmoHlaH 'ul.
 eng	tlh_Latn	A new student came into the class.	ghom muvchoH ghojwI' chu'.
 eng	tlh_Latn	Angels watch from above as men fight amongst themselves.	HeytaHvIS ghotpu', Dungvo' bejtaH qa'pu'.
+eng	tlh_Latn	Anger is poisonous.	tar 'oH QeH'e'.
 eng	tlh_Latn	An hour has sixty minutes.	javmaH tup ghaj rep.
 eng	tlh_Latn	Animals act according to their instincts.	Dujchajmo' vang Ha'DIbaHmey.
 eng	tlh_Latn	Animals have sharp teeth.	Ho'Du' jej ghaj Ha'DIbaHmey.
@@ -146,7 +152,15 @@ eng	tlh_Latn	Are there any bears around here?	naDev mIl'oD tu'lu''a'?
 eng	tlh_Latn	Are these bananas ripe?	DeH'a' banan naHmeyvam?
 eng	tlh_Latn	Are they coming at six or at seven?	javvatlh rep paw chaH pagh Sochvatlh rep paw?
 eng	tlh_Latn	Are they happy?	Quch'a'?
+eng	tlh_Latn	Are they horny?	Huy'a'?
+eng	tlh_Latn	Are they horny?	Huy'a' chaH?
+eng	tlh_Latn	Are they hot?	Huy'a'?
+eng	tlh_Latn	Are they hot?	Huy'a' bIH?
+eng	tlh_Latn	Are they hot?	tuj'a' bIH?
 eng	tlh_Latn	Are they new?	chu''a' bIH?
+eng	tlh_Latn	Are they spicy?	Huy'a'?
+eng	tlh_Latn	Are they spicy?	Huy'a' bIH?
+eng	tlh_Latn	Are those your horses?	SarghmeylIj bIH'a' Sarghvetlh'e'?
 eng	tlh_Latn	Are we allowed to take pictures here?	naDev mIlloghmey DIqon net chaw''a'?
 eng	tlh_Latn	Are you about done?	tlhoS Data''a'?
 eng	tlh_Latn	Are you afraid of death?	bIHeghvIp'a'?
@@ -205,6 +219,7 @@ eng	tlh_Latn	Are you sure this is a good idea?	QaQ qechvam 'e' DaSovbej'a'?
 eng	tlh_Latn	Are you sure we can't repair this camera?	mIllogh qonwI'vam wItI'laHbe' 'e' DaSovchu''a'?
 eng	tlh_Latn	Are you sure you don't want me to come with you?	qatlhej DaneHbe'bej'a'?
 eng	tlh_Latn	Are you sure you don't want me to help you do the laundry?	Sut DaSay'moHmeH qaboQ 'e' DaneHbe'bej'a'?
+eng	tlh_Latn	Are you sure you want to exit?	bIqIlbej'a'?
 eng	tlh_Latn	Are you surprised?	Dumer'a'?
 eng	tlh_Latn	Are you surprised?	lImer'a'?
 eng	tlh_Latn	Are you Swedish?	Suverya'ngan SoH'a'?
@@ -220,6 +235,7 @@ eng	tlh_Latn	As a boy, I always used to get up early.	loDHom jIHtaHvIS reH jIHu'
 eng	tlh_Latn	As a rule, I go to school before eight o'clock.	reH chorghlogh Qoylu'pa' DuSaQ vIghoS.
 eng	tlh_Latn	As for that soup, it was so hot I really couldn't drink it.	chatlh'e' tlhoy tujtaHmo' vISoplaHbe'.
 eng	tlh_Latn	A sharp knife is nothing without a sharp eye.	leghlaHchu'be'chugh mIn lo'laHbe' taj jej.
+eng	tlh_Latn	As he was in a hurry, he took a taxi.	moDnISmo' ra'wI' lupwI' tIj.
 eng	tlh_Latn	Ask her how much soup she wants.	chatlh 'ar neH ghaH? yIghel!
 eng	tlh_Latn	Ask her to give us some money.	maHvaD Huch nob ghaH 'e' yItlhob!
 eng	tlh_Latn	Ask the waitress for the menu.	jabwI'vo' HIDjolev yItlhob!
@@ -236,6 +252,7 @@ eng	tlh_Latn	At first, I thought he was sick.	rop bI'reS 'e' vIHar.
 eng	tlh_Latn	A thief believes everybody steals.	nIH Hoch 'e' Har nIHwI'.
 eng	tlh_Latn	At last, they met face to face.	tagha' ghom cha' qabDu'.
 eng	tlh_Latn	At last, we reached our destination.	tagha' ghochmaj wIpaw.
+eng	tlh_Latn	At present, building materials are very expensive.	DaH waghqu' mutlhmeH Hap.
 eng	tlh_Latn	At present, the cause of the disease is unknown.	DaH rop meq Sovlu'be'.
 eng	tlh_Latn	Attention!	Su'!
 eng	tlh_Latn	Attention!	yIqIm!
@@ -304,6 +321,7 @@ eng	tlh_Latn	Bill, give me a call tonight.	bIl, DaHjaj ram HIrI'!
 eng	tlh_Latn	Bill has many friends.	juppu' law' ghaj bIl.
 eng	tlh_Latn	Bill is always honest.	reH yuDHa' bIl.
 eng	tlh_Latn	Bill lives near the sea.	bIQDaq Sum bIl juH.
+eng	tlh_Latn	Bill went in and checked.	'elpu' bIl ghIq tob.
 eng	tlh_Latn	Bill wrote the letter.	QIn ghItlhta' bIl.
 eng	tlh_Latn	Biologists released some turtles into the sea.	bIQ'a'Daq la'SIvmey puS tlhabmoHta' porghQeD tejpu'.
 eng	tlh_Latn	Birds always return to their nests.	rut juHDaj chegh Hoch bo'Degh.
@@ -324,6 +342,7 @@ eng	tlh_Latn	Boil the milk.	nIm yIpubmoH.
 eng	tlh_Latn	Boil the soup down until it becomes thick.	chatlh DajeDmoHmeH yIpub.
 eng	tlh_Latn	Both men drew maps and pictures of what they saw.	Dochmey leghtaHbogh pu'jIn mIllogh je DIj cha' loDpu'.
 eng	tlh_Latn	Both the parents are still living.	wej Heghpu' SoSDaj vavDaj je.
+eng	tlh_Latn	Both Tom and Mary will be here tomorrow.	wa'leS naDev chaHtaH tam'e' me'rIy'e' je.
 eng	tlh_Latn	Boys are stupid.	chaH vuv SuS luneH loDHom.
 eng	tlh_Latn	Boys are stupid.	QIp loDHompu'.
 eng	tlh_Latn	Boys, as a rule, are taller than girls.	roD loDHom woch law' be'Hom woch puS.
@@ -389,6 +408,7 @@ eng	tlh_Latn	Can you buy one for me as well?	jIHvaD wa' Daje'laH'a' je?
 eng	tlh_Latn	Can you buy something to eat inside?	qoDDaq Soj je'laH'a' vay'?
 eng	tlh_Latn	Can you deliver this?	Dochvam DaHIjlaH'a'?
 eng	tlh_Latn	Can you do some shopping for me?	jIHvaD Dochmey Daje'laH'a'?
+eng	tlh_Latn	Can you draw a trapezoid for me?	jIHvaD qarpal DaDIjlaH'a'?
 eng	tlh_Latn	Can you eat these?	Dochmeyvetlh DaSoplaH'a'?
 eng	tlh_Latn	Can you explain why you dislike him?	ghaH Dapar. meq DaQIjlaH'a'?
 eng	tlh_Latn	Can you forget your native language?	Hol wa'DIch lIjlaH'a' vay'?
@@ -398,6 +418,7 @@ eng	tlh_Latn	Can you guess her age?	nenDaj rav DaloylaH'a'?
 eng	tlh_Latn	Can you hear anything?	vay' DaQoylaH'a'?
 eng	tlh_Latn	Can you keep a secret?	bIpeghlaH'a'?
 eng	tlh_Latn	Can you obtain this rare book for me?	jIHvaD paqvam qub boSuqlaH'a'?
+eng	tlh_Latn	"Can you pass me the salt, please?" "Where is it? I can't see here." "It's behind the bottle." "Oh, yes. I've found it."	«jIHvaD qut na' yInob!» «nuqDaq 'oHtaH? vIleghlaHbe'.» «bal 'emDaq 'oHtaH.» «toH, bIlugh. vItu'.»
 eng	tlh_Latn	Can you please stop singing?	bIbom 'e' DamevlaH'a'?
 eng	tlh_Latn	Can you reach it?	DaSIchlaH'a'?
 eng	tlh_Latn	Can you really swim?	bIQalbej'a'?
@@ -415,10 +436,12 @@ eng	tlh_Latn	Can you teach me how to play the bagpipes?	DIron qebmeH mIw choghoj
 eng	tlh_Latn	Can you tell me how you get to the American Embassy?	jIHvaD 'amerI'qa' SepjIjQa' rIvSo' Daq HIja'!
 eng	tlh_Latn	Can you tell where this is?	Daqvam Dangu'laH'a'?
 eng	tlh_Latn	Can you watch the kids for a few hours?	qaStaHvIS 'op rep puqpu' Datu'taHlaH'a'?
+eng	tlh_Latn	Captain, there's an unidentified alien ship approaching.	HoD, ghoStaH nov Duj wIghovbe'bogh.
 eng	tlh_Latn	Carrots are cheap!	qutlh qe'rot 'oQqar!
 eng	tlh_Latn	Catch him.	yIjon.
 eng	tlh_Latn	Catch Tom.	tam yIjon.
 eng	tlh_Latn	Cat eats bread.	tIr ngogh Sop vIghro'.
+eng	tlh_Latn	Cats are animals.	Ha'DIbaH bIH vIghro''e'.
 eng	tlh_Latn	Cats are not human.	Human bIHbe' vIghro''e'.
 eng	tlh_Latn	Cats are smart.	val vIghro'mey.
 eng	tlh_Latn	Cats are very clean animals.	Ha'DIbaH Say'qu' bIH vIghro''e'.
@@ -436,6 +459,7 @@ eng	tlh_Latn	Celebrate! Tomorrow we may die!	yIlop! wa'leS chaq maHegh!
 eng	tlh_Latn	Celebrities are just people.	ghot neH chaH ghot noy''e'.
 eng	tlh_Latn	Cells can replicate independently.	nIteb chen'eghqa'moHlaH HanDI'mey.
 eng	tlh_Latn	Certainly not, I don't agree with you.	ghobe', wa' DoS wIqIpbe'bej.
+eng	tlh_Latn	Charming.	wejpuH.
 eng	tlh_Latn	Charming, you are, my dear.	wejpuH SoH, bang.
 eng	tlh_Latn	Cheap meat doesn't make good soup.	chatlh QaQmoHbe' Ha'DIbaH qutlh.
 eng	tlh_Latn	Check it again.	yInuDqa'!
@@ -445,10 +469,13 @@ eng	tlh_Latn	Cheers!	'IwlIj jachjaj!
 eng	tlh_Latn	Chew your food well.	SojlIj yIyIvchu'.
 eng	tlh_Latn	Children are innocent.	chun puqpu'.
 eng	tlh_Latn	Children are not admitted.	lu'el puqpu' 'e' chaw'be'lu'.
+eng	tlh_Latn	Children depend on their parents.	qaytu'pu'chaj wuv puqpu'.
 eng	tlh_Latn	Children should drink milk every day.	Hoch jaj nIm lutlhutlhnIS puqpu'.
 eng	tlh_Latn	Children usually have faith in their parents.	motlh vavDaj SoSDaj je voq puqpu'.
 eng	tlh_Latn	Children who are thirsty should drink water.	bIQ lutlhutlhnIS puqpu' 'oj.
 eng	tlh_Latn	China is bigger than Japan.	jungwoq tIn law' nIpon tIn puS.
+eng	tlh_Latn	Chlorophyll is green.	SuD namchIl.
+eng	tlh_Latn	Chlorophyll was discovered in 1817.	tera' DIS 1817 namchIl tu'lu'.
 eng	tlh_Latn	Choose books carefully.	paqmey DawIvtaHvIS yIyep!
 eng	tlh_Latn	Choose whichever you want.	wa' DaneHbogh yIwIv.
 eng	tlh_Latn	Chris can't work tomorrow.	wa'leS vumlaHbe' QIS.
@@ -485,6 +512,7 @@ eng	tlh_Latn	Concentrate on our mission!	Qu'maj yIbuS!
 eng	tlh_Latn	Congratulations!	qaHoy'.
 eng	tlh_Latn	Consider yourself somewhat fortunate.	loQ bIDo' 'e' yIqel.
 eng	tlh_Latn	Cook for me.	jIHvaD yIvut!
+eng	tlh_Latn	Cookie is a pretty cat.	vIghro' 'IH 'oH qu'qIy'e'.
 eng	tlh_Latn	Cookie is under the table.	raS bIngDaq 'oHtaH qu'qIy'e'.
 eng	tlh_Latn	Cook the rice.	ray' tIr tIvut.
 eng	tlh_Latn	Cool story, bro.	vIl lut, jupwI'.
@@ -502,9 +530,11 @@ eng	tlh_Latn	Could you shut the door?	lojmIt yISoQmoH.
 eng	tlh_Latn	Courage, my friends!	peyoH'eghmoH jupwI'pu'!
 eng	tlh_Latn	Cover up the injured man with this blanket.	rIQtaHbogh loD velmeH tlhImvam yIlo'!
 eng	tlh_Latn	Cover your mouth when you cough, sneeze, or yawn.	bItuStaHvIS, bIchuytaHvIS pagh bIHobtaHvIS nujlIj yISo'!
+eng	tlh_Latn	Cowards die many times before their deaths.	Heghchu'pa' nuch 'oplogh Hegh.
 eng	tlh_Latn	Crime does not pay.	lo'laHbe' HeS.
 eng	tlh_Latn	Criminals should be punished.	HeSwI' lubIjnISlu'.
 eng	tlh_Latn	Cross the street.	taw yIvegh!
+eng	tlh_Latn	Cut the camera off.	HaSta ta qonwI' yIchu'Ha'!
 eng	tlh_Latn	Cut the talking and listen.	Suja'chuq pemev 'ej peQoy!
 eng	tlh_Latn	Daddy, i love you!	vavoy qamuSHa'!
 eng	tlh_Latn	Damn, it's chilly out.	HurDaq bIrtaH jay'!
@@ -541,6 +571,7 @@ eng	tlh_Latn	Did somebody hear something?	vay' Qoypu''a' vay'?
 eng	tlh_Latn	Did they have cars?	puH Dujmey ghaj'a'?
 eng	tlh_Latn	Did Tom come back?	chegh'a' tam?
 eng	tlh_Latn	Did Tom eat?	Sop'a' tam?
+eng	tlh_Latn	Did we travel back in time?	mavIbHa''a'?
 eng	tlh_Latn	Did you buy her a dog?	ghaHvaD Ha'DIbaH Daje'ta''a'?
 eng	tlh_Latn	Did you buy potatoes, too?	patat 'oQqarmey Daje''a' je?
 eng	tlh_Latn	Did you call?	bIrI'pu''a'?
@@ -583,6 +614,7 @@ eng	tlh_Latn	Does anybody know where Tom is?	nuqDaq ghaHtaH tam'e'? Sov'a' vay'?
 eng	tlh_Latn	Does anybody know where Tom is?	tam Daq Sov'a' vay'?
 eng	tlh_Latn	Does anyone here speak Japanese?	naDev nIpon Hol jatlh'a' vay'?
 eng	tlh_Latn	Does anyone speak English?	naDev DIvI' Hol jatlh'a' vay'?
+eng	tlh_Latn	Does he have green eyes?	SuD'a' mInDu'Daj?
 eng	tlh_Latn	Does he intend to become a doctor?	Qel moj Hech'a'?
 eng	tlh_Latn	Does he know what you did?	ta'lIj Sov'a' ghaH?
 eng	tlh_Latn	Does he often call his parents at home?	pIj juHDaq chaHtaHvIS vavDaj SoSDaj je rI''a'?
@@ -722,6 +754,7 @@ eng	tlh_Latn	Do we represent you?	pI'oS'a'?
 eng	tlh_Latn	Do we represent you?	re'oS'a'?
 eng	tlh_Latn	Do whatever he tells you.	ra'DI' yIlob!
 eng	tlh_Latn	Down came a shower of rain.	SISqu'choH.
+eng	tlh_Latn	Down on the ground, now!	yavDaq Qot! tugh!
 eng	tlh_Latn	Do you also know how to use a computer?	De'wI' Dalo'laH'a' je?
 eng	tlh_Latn	Do you cry often?	pIj bISaQ'a'?
 eng	tlh_Latn	Do you drink black coffee?	qa'vIn qIj Datlhutlh'a'?
@@ -782,6 +815,7 @@ eng	tlh_Latn	Do you play chess?	tlhInja DaQuj'a'?
 eng	tlh_Latn	Do you play the guitar?	leSpal Dayach'a'?
 eng	tlh_Latn	Do you prefer the apple or the pear?	'epIl naH'e' per naH'e' je DaqelDI', nuq DamaS?
 eng	tlh_Latn	Do you really want to be immortal?	bIjub DaneHbej'a'?
+eng	tlh_Latn	Do you remember how to get to my house?	juHwIj ghoSmeH He Daqaw'a'?
 eng	tlh_Latn	Do you remember me?	choqaw'a'?
 eng	tlh_Latn	Do you remember me?	tuqaw'a'?
 eng	tlh_Latn	Do you remember my name?	pongwIj Daqaw'a'?
@@ -802,6 +836,7 @@ eng	tlh_Latn	Do you think he made that mistake on purpose?	chIch Qaghpu' ghaH 'e
 eng	tlh_Latn	Do you think I'm joking?	jIqID 'e' DaQub'a'?
 eng	tlh_Latn	Do you think that he is equal to the task?	Qu' ta'laH ghaH 'e' DaHar'a'?
 eng	tlh_Latn	Do you think that you need to destroy my things?	DochmeywIj DaQaw'nIS 'e' DaQub'a'?
+eng	tlh_Latn	Do you think they're related?	rarchuq 'e' DaQub'a'?
 eng	tlh_Latn	Do you think this is a game?	Quj 'oH Dochvam'e' 'e' DaQub'a'?
 eng	tlh_Latn	Do you think this is a game?	Quj 'oHlaw''a' Dochvam'e'?
 eng	tlh_Latn	Do you think Tom is dead?	Hegh tam 'e' vIHar'a'?
@@ -812,6 +847,7 @@ eng	tlh_Latn	Do you understand French?	vIraS Hol Dayaj'a'?
 eng	tlh_Latn	Do you want a glass? There is one on the table.	HIvje' DaneH'a'? raSDaq wa' tu'lu'.
 eng	tlh_Latn	Do you want breakfast?	nIQ DaneH'a'?
 eng	tlh_Latn	Do you want me to help you?	qaQaH DaneH'a'?
+eng	tlh_Latn	Do you want me to kiss you, or would you rather kiss me?	qachop DaneH'a'? SetqIn chochop 'e' DamaS'a'?
 eng	tlh_Latn	Do you want me to try it?	jInID DaneH'a'?
 eng	tlh_Latn	Do you want me to turn off the light?	wovmoHwI' vIchu'Ha' DaneH'a'?
 eng	tlh_Latn	Do you want my advice?	qeSwIj DaneH'a'?
@@ -829,6 +865,8 @@ eng	tlh_Latn	Do you want to watch a movie?	HaSta much Dalegh DaneH'a'?
 eng	tlh_Latn	Draw me a sketch of the first floor.	rav wa'DIch pu'jInHom HIghItlh!
 eng	tlh_Latn	Drink everything up, so that nothing remains inside.	Hoch yItlhutlhchu', qoDDaq ratlhmeH pagh!
 eng	tlh_Latn	Drink the medicine.	Herghvam yItlhutlh.
+eng	tlh_Latn	Drugs are bad.	qab 'enteDmey.
+eng	tlh_Latn	Drugs are good.	QaQ 'enteDmey.
 eng	tlh_Latn	Ducks were swimming about on the pond.	ngengHomDaq QaltaH Da'nalmey.
 eng	tlh_Latn	During the US presidential election of 2004, the candidate John Kerry had to hide that he spoke French.	tera' DIS cha'-pagh-pagh-loS 'amerI'qa' SepjIjQa' Qang wIvlu'taHtaHvIS vIraS Hol jatlhlaH 'e' peghnIS jan qerI'.
 eng	tlh_Latn	Each building has a name.	pong ghaj Hoch qach.
@@ -851,6 +889,7 @@ eng	tlh_Latn	Eat!	peSop!
 eng	tlh_Latn	Eat slowly.	QIt yISop!
 eng	tlh_Latn	Eat something.	vay' yISop.
 eng	tlh_Latn	Eat the fruit!	naH yISop!
+eng	tlh_Latn	Eat your cake.	chablIj yISop!
 eng	tlh_Latn	Eat your soup while it is hot.	tujHa'choHpa' chatlhlIj yI'ep!
 eng	tlh_Latn	Egypt is beautiful.	'IH maSIr.
 eng	tlh_Latn	Either he is to blame, or I am.	pIch ghaj ghaH pagh vIghaj jIH.
@@ -871,6 +910,7 @@ eng	tlh_Latn	Esther is Rachel's wife.	raHel be'nal ghaH 'eSter'e'.
 eng	tlh_Latn	Europe has a common currency; let's give it a common language: Esperanto.	Huch bonbogh ghaj 'ewrop. 'oHvaD Hol bonbogh wInobjaj: eSperanto.
 eng	tlh_Latn	Even I can't believe that.	vIHarlaHbe' jIH je.
 eng	tlh_Latn	Even I don't understand.	jIyajbe' jIH je.
+eng	tlh_Latn	Evening came.	tagh choS.
 eng	tlh_Latn	Even though I don't have any money, I bought a book again.	Huch vIghajbe', 'ach paq vIje'qa'pu'.
 eng	tlh_Latn	Every apple is red.	Doqqu' Hoch 'epIl naH.
 eng	tlh_Latn	Everybody has weaknesses.	pujmey ghaj Hoch.
@@ -883,6 +923,7 @@ eng	tlh_Latn	Everybody seeks happiness.	Quch neH Hoch.
 eng	tlh_Latn	Everybody wants to be happy.	Quch neH Hoch.
 eng	tlh_Latn	Every boy here has a girlfriend.	naDev parmaqqay ghaj Hoch loDHom.
 eng	tlh_Latn	Every country is different.	pIm Hoch Sep.
+eng	tlh_Latn	Every man desires to live long, but no man wishes to be old.	poH nI' SIQ neH Hoch, 'ach qan neH pagh.
 eng	tlh_Latn	Everyone agrees.	Qochbe' Hoch.
 eng	tlh_Latn	Everyone but Tom was there.	pa' ghaHbe'taH tam'e' 'ach pa' chaHtaH Hoch latlh'e'.
 eng	tlh_Latn	Everyone can feed the database to illustrate new vocabulary.	mu'mey chu' QIjmeH qawHaq je'laH Hoch.
@@ -917,8 +958,10 @@ eng	tlh_Latn	Everything was new.	chu' Hoch.
 eng	tlh_Latn	Everything will work out.	Qapbej Hoch.
 eng	tlh_Latn	Every time I see it, I remember him.	'oH vIleghDI', Hochlogh ghaH vIqaw.
 eng	tlh_Latn	Every time Uncle George visited our house, he always brought us a gift.	juHmaj SuchDI' jo'rIj tennuS, Hochlogh nob nuqem.
+eng	tlh_Latn	Every trapezoid consists of two parallel sides.	cha' Dopmey Don yugh Hoch qarpal.
 eng	tlh_Latn	Evidently, he's made a mistake.	Qaghba'pu'.
 eng	tlh_Latn	Evidently, it's going to rain tomorrow.	wa'leS SISbej.
+eng	tlh_Latn	Excessive alcohol consumption must be prohibited.	HIq 'Iqqu' tlhutlhlu' net tuchnIS.
 eng	tlh_Latn	Excuse me, but may I use your telephone?	'eH, ghogh HablI'lIj vIlo'laH'a'?
 eng	tlh_Latn	Excuse me. I believe that is my seat.	HIqIm! quSwIj 'oHlaw' quSvam'e'.
 eng	tlh_Latn	Excuse me. What's your name?	ponglIj nuqneS?
@@ -991,6 +1034,8 @@ eng	tlh_Latn	Fucking damn it!	ghuy'cha'!
 eng	tlh_Latn	Fuckin' slow-ass computer. Fuck this! I ain't doin' shit anymore.	QIt Qap De'wI' jay'. ghuy'cha'! chatlhvam vIta'Qo' jay'!
 eng	tlh_Latn	Fuck your old mother!	SoSlI' qan yIngagh jay'!
 eng	tlh_Latn	Garlic enhances the flavor of meals.	nay'mey wejwa' Dub gharlIq 'oQqar.
+eng	tlh_Latn	Garlic is not a fruit.	Sor naH 'oHbe' gharlIq 'oqQar'e'.
+eng	tlh_Latn	"Gee, a war. We have not done that for a while!"	«toH, noH! qaStaHvIS poH law' maghobbe'pu'!»
 eng	tlh_Latn	George accompanied me home.	juH vIjaH 'ej mutlhej jo'rIj.
 eng	tlh_Latn	George felt the train begin to move.	vIHchoH lupwI' mIr 'e' tu' jo'rIj.
 eng	tlh_Latn	George has lived there for six weeks.	qaStaHvIS jav Hogh pa' Dab jo'rIj.
@@ -1008,6 +1053,7 @@ eng	tlh_Latn	George was always my favorite.	reH jo'rIj vImaS.
 eng	tlh_Latn	George was so tired that his doctor advised him to take better care of himself.	Doy'qu' jo'rIj, vaj Qorgh'eghchu'meH qeS QelDaj.
 eng	tlh_Latn	George was tricked into buying the land.	tojlu'mo' yer je'pu' jo'rIj.
 eng	tlh_Latn	George will come for sure.	nughoSbej jo'rIj.
+eng	tlh_Latn	Gerda disappeared!	ngab gherDa'!
 eng	tlh_Latn	Germany is a big country.	Sep tIn 'oH DoyIchlan'e'.
 eng	tlh_Latn	Germany of today is not what it was ten years ago.	nIbbe' jajvam DoyIchlan wa'maH ben DoyIchlan je.
 eng	tlh_Latn	Get away from here.	naDev yIDoH!
@@ -1095,7 +1141,9 @@ eng	tlh_Latn	Have courage.	yIyoH!
 eng	tlh_Latn	Have I made myself clear?	vIQIjchu''a'?
 eng	tlh_Latn	Haven't you decided yet?	wej bIwuqpu''a'?
 eng	tlh_Latn	Haven't you seen the doctor?	Qel vISamta'be''a'?
+eng	tlh_Latn	Have you already sent out the invitations?	wejHa' ruSvepmey Dalabpu''a'?
 eng	tlh_Latn	Have you called him yet?	DarI'pu''a'?
+eng	tlh_Latn	Have you closed the gate already?	wejHa' lojmIt'a' DaSoQmoHpu''a'?
 eng	tlh_Latn	Have you ever been to Japan?	nIponDaq DajaHta''a'?
 eng	tlh_Latn	Have you ever given money to a beggar?	qoy'wI'vaD Huch Danobta''a'?
 eng	tlh_Latn	Have you ever spoken to them?	chaHvaD bIjatlhpu''a'?
@@ -1130,6 +1178,7 @@ eng	tlh_Latn	Hear, O Israel. The Lord is our God. The Lord is One.	peQoy, yISra'
 eng	tlh_Latn	He arrested me.	muqop.
 eng	tlh_Latn	He asked her why she was crying.	SaQmeH meqDaj ngu' be' 'e' tlhobta' loD.
 eng	tlh_Latn	He asked me for my phone number.	ghogh HablI'wIj mI' tlhobpu'.
+eng	tlh_Latn	He ate bananas and apples.	banan naHmey 'epIl naHmey je Sop.
 eng	tlh_Latn	He avenged his dead father.	Heghpu'bogh vavDajvaD noDpu'.
 eng	tlh_Latn	He avenged his father.	vavDajvaD noDta'.
 eng	tlh_Latn	He became world-famous for his discovery.	Dochmeymo' tu'pu'bogh qo' naQDaq noychoH.
@@ -1179,10 +1228,13 @@ eng	tlh_Latn	He changed a few words.	'op mu' choHta'.
 eng	tlh_Latn	He chatters at the rate of two hundred words a minute.	jawDI' qaStaHvIS wa' tup cha'vatlh mu'mey jatlh.
 eng	tlh_Latn	He chipped the edge of the tea cup.	Dargh HIvje' HeH ghorpu'.
 eng	tlh_Latn	He chucked me the apple.	jIHDaq 'epIl naH vo'.
+eng	tlh_Latn	He claims he speaks an extraterrestrial language.	tera' Hur Hol jatlh 'e' jatlh.
+eng	tlh_Latn	He claims to speak an extraterrestrial language.	tera' Hur Hol jatlh 'e' jatlh.
 eng	tlh_Latn	He closed his eyes.	mInDu'Daj SoQmoHpu'.
 eng	tlh_Latn	He comes here twice a week.	qaStaHvIS wa' Hogh cha'logh naDev ghoS.
 eng	tlh_Latn	He committed a serious crime.	HeSqu'.
 eng	tlh_Latn	He complained that the room was too small.	bep, jatlh; tlhoy mach pa'.
+eng	tlh_Latn	He could be telling the truth.	chaq vIttaH.
 eng	tlh_Latn	He could not come because of his illness.	ropDajmo' ghoSlaHbe'.
 eng	tlh_Latn	He cried out, "Help me."	jach, jatlh, HIQaH!
 eng	tlh_Latn	He cried out in pain.	'oy'mo' jachpu'.
@@ -1255,6 +1307,7 @@ eng	tlh_Latn	He enjoys exploring remote areas.	Daqmey HopDaq leng 'e' tIv.
 eng	tlh_Latn	He entered my room.	pa'wIj 'elta'.
 eng	tlh_Latn	He enters my house.	juHwIj 'el.
 eng	tlh_Latn	He fascinated me.	muvuQ ghaH.
+eng	tlh_Latn	He fears death.	HeghvIp.
 eng	tlh_Latn	He fell asleep right away.	SIbI' QongchoHpu'.
 eng	tlh_Latn	He fell off the horse.	Sarghvo' pumpu'.
 eng	tlh_Latn	He felt tired.	Doy'.
@@ -1297,6 +1350,7 @@ eng	tlh_Latn	He has a car.	puH Duj ghaj.
 eng	tlh_Latn	He has a cat.	vIghro' ghaj.
 eng	tlh_Latn	He has a cat.	vIghro' ghaj ghaH.
 eng	tlh_Latn	He has a good brain.	yab QaQ ghaj.
+eng	tlh_Latn	He has an apple.	'epIl naH ghaj.
 eng	tlh_Latn	He has a new car and an old car.	puH Duj chu' puH Duj ngo' je ghaj.
 eng	tlh_Latn	He has an incurable disease.	ropDaj vorlaH pagh.
 eng	tlh_Latn	He has a sky-blue pullover.	SuD 'ej chal rur wepDaj.
@@ -1380,6 +1434,7 @@ eng	tlh_Latn	He is not stupid.	QIpbe'.
 eng	tlh_Latn	He is not your friend or my friend.	juplI' ghaHbe' 'ej jupwI' ghaHbe'.
 eng	tlh_Latn	He is now working in France.	DaH vIraSDaq vumtaH.
 eng	tlh_Latn	He isn't here now.	DaH naDev ghaHbe'taH.
+eng	tlh_Latn	He isn't very horny.	Huyqu'be'.
 eng	tlh_Latn	He is old.	qan.
 eng	tlh_Latn	He is old.	qan ghaH.
 eng	tlh_Latn	He is our neighbour.	jIlma' ghaH.
@@ -1447,6 +1502,7 @@ eng	tlh_Latn	Hell awaits you.	DuloS ghe'tor.
 eng	tlh_Latn	He'll come at noon.	DungluQ nughoS.
 eng	tlh_Latn	He'll definitely hear me.	muQoybej.
 eng	tlh_Latn	He'll hear me.	muQoybej.
+eng	tlh_Latn	"Hello." "Coffee."	"nuqneH?" "qa'vIn."
 eng	tlh_Latn	Hello!	nuqneH?
 eng	tlh_Latn	He'll return at six.	rep jav chegh.
 eng	tlh_Latn	He looks suspicious.	pIHlaw'.
@@ -1484,6 +1540,7 @@ eng	tlh_Latn	He ordered three dinners.	wej 'uQ poQ.
 eng	tlh_Latn	He owed a lot to her.	welqu'.
 eng	tlh_Latn	He paid with a credit card.	DIlmeH Huch chaw' lo'.
 eng	tlh_Latn	He painted the picture which is on the wall.	pa' reDDaq HuStaHbogh nagh beQ chenmoHta'.
+eng	tlh_Latn	He passed out at school.	DuSaQDaq vulchoHpu'.
 eng	tlh_Latn	He pays with a credit card.	DIlmeH Huch chaw' lo'.
 eng	tlh_Latn	He plays very well.	reHchu'.
 eng	tlh_Latn	He pretended to be an Englishman, but his foreign accent gave him away.	tuqjIjQa'ngan ghaH 'e' ghet 'ach QIchDaj novmo' tojHa'.
@@ -1501,6 +1558,7 @@ eng	tlh_Latn	He put a knife to my throat.	HughwIjDaq taj lan.
 eng	tlh_Latn	He ran.	qetta'.
 eng	tlh_Latn	Her carpet is completely white.	chISchu' tlhImDaj.
 eng	tlh_Latn	Her cheeks were red.	DoqchoHpu' qevpobDaj.
+eng	tlh_Latn	Her clothes are worn out.	Qop SutmeyDaj.
 eng	tlh_Latn	Her cooking is amazing.	pe'vIl vutchu' ghaH.
 eng	tlh_Latn	Her daughter is a nurse.	rachwI' ghaH puqbe'Daj'e'.
 eng	tlh_Latn	He readily agreed to it.	SIbI' Qochbe'.
@@ -1515,6 +1573,7 @@ eng	tlh_Latn	He repeated the same mistake.	jaSHa' Qaghqa'pu'.
 eng	tlh_Latn	He rescued the child from the fire.	qulvo' puq toDta'.
 eng	tlh_Latn	He resembles his grandfather.	vavnI'Daj rur.
 eng	tlh_Latn	Here's my room.	pa'wIj 'oH.
+eng	tlh_Latn	Here's the house that Tom used to live in.	naDev juH qach'e' Dabpu'bogh tam tu'lu'.
 eng	tlh_Latn	Here's where they usually have dinner.	motlh naDev 'uQ luSop.
 eng	tlh_Latn	Here they are!	naDev chaHtaH!
 eng	tlh_Latn	Here we are at the station.	naDev tengchaHDaq maHtaH.
@@ -1526,12 +1585,15 @@ eng	tlh_Latn	Her husband is an excellent cook.	vutwI'na' pov ghaH loDnalDaj'e'.
 eng	tlh_Latn	Her idea is better than yours.	qechDaj QaQ law' qechlIj QaQ puS.
 eng	tlh_Latn	Her idea is very similar to mine.	qechwIj rurqu' qechDaj.
 eng	tlh_Latn	Her jokes made us all laugh.	nuHaghmoH qIDmeyDaj.
+eng	tlh_Latn	Her new book is amazing.	Dun paq chu'Daj.
+eng	tlh_Latn	Her new book is wonderful.	Dun paq chu'Daj.
 eng	tlh_Latn	He robbed an old lady.	be' qan Hejta'.
 eng	tlh_Latn	He robbed me of every penny I had.	jIHvo' Hoch DarSeq vIghajpu'bogh Hej.
 eng	tlh_Latn	Her silence surprised me.	tammo' mumer.
 eng	tlh_Latn	Her skin is pure white.	chISchu' DIrDaj.
 eng	tlh_Latn	Her son will succeed for sure.	Qapbej puqloDDaj.
 eng	tlh_Latn	Her story brings back memories of my parents.	jIHvaD vavwI' SoSwI' je qawmoH lutDaj.
+eng	tlh_Latn	He runs without shoes.	qettaHvIS waq tuQbe'taH.
 eng	tlh_Latn	Her voice echoed in the hallway.	chobDaq 'et ghoghDaj.
 eng	tlh_Latn	Her words made me mad.	muQeHmoH mu'meyDaj.
 eng	tlh_Latn	He's a bank officer.	beylI' yaS ghaH.
@@ -1559,6 +1621,7 @@ eng	tlh_Latn	He's as strong as a horse.	HoS; 'Iw rur.
 eng	tlh_Latn	He's as strong as a horse.	HoS; Sargh rur.
 eng	tlh_Latn	He's as tall as his father.	ghaH woch law' vavDaj woch rap.
 eng	tlh_Latn	He's as tall as his father.	woch; vavDaj rur.
+eng	tlh_Latn	He's a stinky cat.	He'So'bogh vIghro' 'oH.
 eng	tlh_Latn	He's as wise as his father.	chul ghaH, nIb vavDaj.
 eng	tlh_Latn	He sat down on the bed.	QongDaqDaq ba'choHpu'.
 eng	tlh_Latn	He's a teetotaler.	HIq tlhutlhQo'wI' ghaH.
@@ -1595,6 +1658,7 @@ eng	tlh_Latn	He's greedy and ruthless.	qur 'ej wIH.
 eng	tlh_Latn	He shall be punished.	bIjlu'.
 eng	tlh_Latn	He shall be punished.	ghaH bIjlu'.
 eng	tlh_Latn	He shaved his mustache off.	lochDaj teqta'.
+eng	tlh_Latn	He showed him some magic tricks.	ghaHvaD 'op gho''ong 'angpu'.
 eng	tlh_Latn	He's innocent.	chun.
 eng	tlh_Latn	He's jealous.	ghal ghaH.
 eng	tlh_Latn	He's just a fraud who pretends to be a doctor.	tojwI' ghaH. Qel ghaH 'e' ghet neH.
@@ -1723,7 +1787,9 @@ eng	tlh_Latn	He was weak from the loss of blood.	'Iw law' Hutlhmo' puj.
 eng	tlh_Latn	He went away from his father.	vavDajvo' ghoS.
 eng	tlh_Latn	He went hunting in the woods.	ngemDaq wammeH mejta'.
 eng	tlh_Latn	He went on doing it.	ta'lI'.
+eng	tlh_Latn	He went out a few minutes ago.	'op tup ret mej.
 eng	tlh_Latn	He went out in spite of the storm.	jevtaH muD, 'ach juHvo' tlheD.
+eng	tlh_Latn	He went to Paris, where he lived for five years.	parIy jaHpu' ghIq pa' Dab qaStaHvIS vagh DIS.
 eng	tlh_Latn	He whipped out his sword.	'etlhDaj yanta'.
 eng	tlh_Latn	He whistled as he walked.	yIttaHvIS 'uqtaH.
 eng	tlh_Latn	He who is born in Sweden is Swedish.	Suverya'Daq boghpu'chugh vay', Suverya'ngan ghaH.
@@ -1783,6 +1849,7 @@ eng	tlh_Latn	His speech got awfully boring.	Dalqu'choH SoQDaj.
 eng	tlh_Latn	His story sounds true.	teHlaw' lutDaj.
 eng	tlh_Latn	His success encouraged me very much.	mutungHa'qu'pu' Qapla'Daj.
 eng	tlh_Latn	His thirst is fierce.	qu' 'ojtaHghachDaj.
+eng	tlh_Latn	History and archaeology are related subjects.	rarchuqbogh meqmey bIH qunQeD'e' roSqa'QeD'e' je.
 eng	tlh_Latn	His uncle appeared rich.	mIplaw' 'IrneHnalDaj.
 eng	tlh_Latn	His uncle appeared rich.	mIplaw' tennuSDaj.
 eng	tlh_Latn	His uncle appeared rich.	mIplaw' tennuSnalDaj.
@@ -1791,8 +1858,10 @@ eng	tlh_Latn	His words don't line up with his actions.	rurchuqbe' mu'Daj ta'Daj 
 eng	tlh_Latn	His words surprised me.	mumerpu' mu'meyDaj.
 eng	tlh_Latn	Honor has not to be won; it must only not be lost.	batlh QapnISbe'lu'; lojbe'nISlu' neH.
 eng	tlh_Latn	Horses are animals.	Ha'DIbaHmey bIH tera' Sarghmey'e'.
+eng	tlh_Latn	How can I get this thing to work?	chay' Dochvam vIQapmoHlaH?
 eng	tlh_Latn	How can I pay for it?	chay' vIDIllaH?
 eng	tlh_Latn	How can I pick out fresh fish?	chay' ghotI' ghoQ vIngu'laH?
+eng	tlh_Latn	How could I have lived if I had been denied the company of a dictionary?	mutlhejlaHbe'taH mu'ghom net jalchugh, chay' jItaH?
 eng	tlh_Latn	How could it be?	chay' DuH?
 eng	tlh_Latn	How could you resist them?	chay' boqaDta'?
 eng	tlh_Latn	How could you resist them?	chay' Da'omta'?
@@ -1829,6 +1898,7 @@ eng	tlh_Latn	How long has George studied Portuguese?	qaStaHvIS poH 'ar portughal
 eng	tlh_Latn	How long was I unconscious?	jIvultaHvIS qaS 'ar poH?
 eng	tlh_Latn	How many books did you read?	paq 'ar DalaDta'?
 eng	tlh_Latn	How many cars are there in the United States?	'amerI'qa' SepjIjQa'Daq puH Duj 'ar tu'lu'?
+eng	tlh_Latn	How many cats is too many?	'Iq vIghro' 'ar?
 eng	tlh_Latn	How many days until my birthday?	leS 'ar qaS qoSwIj?
 eng	tlh_Latn	How many doors are there in this house?	qachvamDaq lojmIt 'ar tu'lu'?
 eng	tlh_Latn	How many eggs do you eat per day?	qaStaHvIS wa' jaj QIm 'ar DaSop?
@@ -1845,6 +1915,7 @@ eng	tlh_Latn	How many people came to the zoo yesterday?	wa'Hu' Hu luSuchpu' 'ar?
 eng	tlh_Latn	How many people?	ghot 'ar?
 eng	tlh_Latn	How many people?	nuv 'ar?
 eng	tlh_Latn	How many people will be living on Earth in one century?	wa'vatlh ben tera' Dab ghot 'ar?
+eng	tlh_Latn	How many pictures are you planning to take?	mIllogh 'ar Daqon 'e' DaHech?
 eng	tlh_Latn	How many players are there?	QujwI' 'ar tu'lu'?
 eng	tlh_Latn	How many plums are there?	pIlam naH 'ar tu'lu'?
 eng	tlh_Latn	How many sentences can you translate per day?	qaStaHvIS wa' jaj mu'tlhegh 'ar DamughlaH?
@@ -1858,6 +1929,7 @@ eng	tlh_Latn	How much blood has the injured lost?	'Iw 'ar reghpu' rIQwI'?
 eng	tlh_Latn	How much did this bicycle cost you?	qam Do Dujvam DaDIlmeH Huch 'ar Danobta'?
 eng	tlh_Latn	How much does a beer cost?	HIq DIlmeH Huch 'ar DaneH?
 eng	tlh_Latn	How much does that cost?	Dochvetlh DIlmeH Huch 'ar DaneH?
+eng	tlh_Latn	How much do you need to pay for this trip?	lengvam vIDIlmeH 'ar DanobnIS?
 eng	tlh_Latn	How much is an apple?	wa' 'epIl naH vIDIlmeH Huch 'ar DaneH?
 eng	tlh_Latn	How much money does a plumber make?	Huch 'ar baj 'och mutlhwI'?
 eng	tlh_Latn	How much money do plumbers make?	Hur mycket tjänar rörmokare?
@@ -1914,6 +1986,7 @@ eng	tlh_Latn	I am afraid of offending you.	qamawvIp.
 eng	tlh_Latn	I am afraid that neither from them nor from books have I learnt much that greatly profited me.	chaHvo' paqvo' joq muboQlaHbogh Doch law' vIghojbe'vIppu'.
 eng	tlh_Latn	I am a girl.	be'Hom jIH.
 eng	tlh_Latn	I am a human being.	Human jIH.
+eng	tlh_Latn	I am all ears.	jIQoyrup.
 eng	tlh_Latn	I am an electrician.	'ul pat mutlhwI' jIH.
 eng	tlh_Latn	I am an omnivore.	Hoch vISop.
 eng	tlh_Latn	I am a robot.	qoq jIH.
@@ -1936,6 +2009,7 @@ eng	tlh_Latn	I am eating dinner with my husband.	nItebHa' 'uQ wISoplI' jIH loDna
 eng	tlh_Latn	I am Egyptian.	maSIrngan jIH.
 eng	tlh_Latn	I am eighty-five years old.	chorghmaH vagh ben jIboghpu'.
 eng	tlh_Latn	I am English.	tuqjIjQa'ngan jIH.
+eng	tlh_Latn	I am envied.	vIghallu'.
 eng	tlh_Latn	I am familiar with your name.	ponglIj vIghov.
 eng	tlh_Latn	I am Finnish, but I speak also Swedish.	SuwomIyngan jIH 'ach Suverya' Hol vIjatlh je.
 eng	tlh_Latn	I am fond of Australian food.	'aSralya' Soj vIparHa'.
@@ -2000,6 +2074,7 @@ eng	tlh_Latn	I am very smart.	jIvalqu'.
 eng	tlh_Latn	I am very tired, but well.	jIDoy'qu' 'ach jIpIv.
 eng	tlh_Latn	I am very tired.	jIDoy'qu'.
 eng	tlh_Latn	I am waiting for my driver.	chIjwI'wI' vIloSlI'.
+eng	tlh_Latn	I am willing to be responsible.	jIngoy'qang.
 eng	tlh_Latn	I am willing to help you with your work.	Qu'lIj Data'meH qaboQqang.
 eng	tlh_Latn	I am writing a letter.	QIn vIghItlhlI'.
 eng	tlh_Latn	I am young.	jIQup.
@@ -2025,6 +2100,7 @@ eng	tlh_Latn	I believe he'll be with us today.	DaHjaj nutlhej 'e' vIHar.
 eng	tlh_Latn	I believe I can trust you.	qavoqlaH 'e' vIHar.
 eng	tlh_Latn	I believe it my duty to protect these children.	puqpu'vam vIQannIS; Qu'wIj 'oH 'e' vIHar.
 eng	tlh_Latn	I believe it's a myth.	wIch 'oH 'e' vIHar.
+eng	tlh_Latn	I believe that book is in the library.	puq nojwI' qachDaq 'oHtaH paqvetlh'e'.
 eng	tlh_Latn	I believe that we do not need to limit these suffixes now.	DaH mojaqmeyvam DIvuSnISbe' 'e' vIHar.
 eng	tlh_Latn	I believe you.	qaHar.
 eng	tlh_Latn	I believe you.	SaHar.
@@ -2033,6 +2109,7 @@ eng	tlh_Latn	I bet he arrives late - he always does.	paSbej — reH paS.
 eng	tlh_Latn	I bit my lip.	wuSwIj vIchoppu'.
 eng	tlh_Latn	I blush for your mistake.	QaghlIjmo' Doqqu'choH qabwIj.
 eng	tlh_Latn	I bought a book.	paq vIje'ta'.
+eng	tlh_Latn	I bought a Christmas tree.	QISmaS Sor vIje'ta'.
 eng	tlh_Latn	I bought a dozen pencils today.	DaHjaj wa'maH cha' ghojmeH ghItlhwI'mey vIje'ta'.
 eng	tlh_Latn	I bought a dozen spoons and two dozen forks.	wa'maH cha' baghneQmey cha'maH loS puq chonnaQmey je vIje'.
 eng	tlh_Latn	I bought a lot of books.	paqmey law' vIje'ta'.
@@ -2042,6 +2119,7 @@ eng	tlh_Latn	I bought nine flowers.	Hut 'InSong vIje'.
 eng	tlh_Latn	I bought only one book which I gave to a student.	ghojwI'vaD vInobbogh wa' paq'e' neH vIje'pu'.
 eng	tlh_Latn	I bought two bottles of milk.	cha' nIm bal vIje'.
 eng	tlh_Latn	I bounced the ball.	moQ vI'etmoH.
+eng	tlh_Latn	I broke into the storage buildings of a renaissance fair and stole a shawm. I was unable to play it and the bacteria on it made me vomit.	HejwI' vIrur; yoghan yupma' polmeH qachmey vI'elpu' 'ej Sam vInIHpu'. vIrIllaHbe' 'ej mu'emmoH lerupDaj.
 eng	tlh_Latn	I brought a book.	paq vItlhap.
 eng	tlh_Latn	I called at his house yesterday.	wa'Hu' juHDaj vIrI'.
 eng	tlh_Latn	I called him.	vIrI'ta'.
@@ -2085,8 +2163,10 @@ eng	tlh_Latn	I can't find the keys to my house.	juH qachwIj ngaQHa'moHwI'mey vIt
 eng	tlh_Latn	I can't find the newspaper.	De' chu' ghItlh vISamlaHbe'.
 eng	tlh_Latn	I can't for the life of me remember her phone number.	ghogh HablI'Daj vIqawbe'chu'taH jay'.
 eng	tlh_Latn	I can't go alone.	nIteb vIghoSlaHbe'.
+eng	tlh_Latn	I can't go. I'm ill.	jIghoSlaHbe'. jIrop.
 eng	tlh_Latn	I can't go on.	jItaHlaHbe'.
 eng	tlh_Latn	I can't hear it.	vIQoylaHbe'.
+eng	tlh_Latn	I can't hear!	jIQoylaHbe'!
 eng	tlh_Latn	I can't hear you.	qaQoylaHbe'.
 eng	tlh_Latn	I can't hide the fact from you.	SoHvo' ngoD vISo'Qo'.
 eng	tlh_Latn	I can't just leave. I have to tell the boss I'm leaving.	SIbI' jImejlaHbe'. jImej vIneHchugh, pIn vIja'nIS.
@@ -2138,16 +2218,19 @@ eng	tlh_Latn	I could not speak to him.	ghaHvaD jIjatlhlaHbe'.
 eng	tlh_Latn	"I couldn't eat it", she said apologetically.	«'oH vISoplaHbe'» jatlh tlhIjmeH.
 eng	tlh_Latn	I couldn't recognize him at first.	wa'DIch vIghovlaHbe'pu'.
 eng	tlh_Latn	I couldn't sleep at all.	jIQonglaHbe'chu'.
+eng	tlh_Latn	I could tell from his accent that he was an American.	'amerI'qa' SepjIjQa'ngan ghaH 'e' vIghov QIch wab Ho'DoS SarDajmo'.
 eng	tlh_Latn	I could try.	jInIDlaH.
 eng	tlh_Latn	I count myself lucky in having good health.	jIpIvmo' jIDo' 'e' vInoH.
 eng	tlh_Latn	I'd be unhappy, but I wouldn't kill myself.	vaj jIQuchHa' 'ach jIHoH'eghbe'.
 eng	tlh_Latn	I'd be willing to pay you.	SoHvaD jIDIlqang.
 eng	tlh_Latn	I'd do any damn thing for you.	SoHvaD vay' vIta'qang jay'!
+eng	tlh_Latn	Ideas don't die.	Heghbe' qechmey.
 eng	tlh_Latn	Identify yourselves!	pengu''egh!
 eng	tlh_Latn	I deserve good things.	Dochmey QaQ vIqotlh.
 eng	tlh_Latn	I desperately need a car.	puH Duj vIpuQqu'chu'.
 eng	tlh_Latn	I'd forgotten that you'd forgotten.	bIlIjpu' 'e' vIlIjpu'.
 eng	tlh_Latn	I did nothing during the holidays.	qaStaHvIS yupma' pagh vIta'.
+eng	tlh_Latn	I didn't add enough milk.	nIm yap vIchelbe'pu'.
 eng	tlh_Latn	I didn't ask her to go there.	pa' jaH 'e' vItlhobpu'be'.
 eng	tlh_Latn	I didn't confront him.	ghaH vIqaDbe'.
 eng	tlh_Latn	I didn't do anything for Tom.	tamvaD pagh vIta'pu'.
@@ -2161,6 +2244,7 @@ eng	tlh_Latn	I didn't know the city, and what's more, I couldn't speak a word of
 eng	tlh_Latn	I didn't know where to hide.	jISo'meH Daq vISovbe'.
 eng	tlh_Latn	I didn't know you had a cat.	vIghro' Daghaj 'e' vISovbe'.
 eng	tlh_Latn	I didn't know you were unhappy.	bIQuchHa' 'e' vISovbe'.
+eng	tlh_Latn	I didn't like the music in the store, so I left without buying anything.	ngevwI' qachDaq QoQ vIpar, vaj pagh vIje' 'ej jImej.
 eng	tlh_Latn	I didn't mean to hit him.	ghaH vIqIp 'e' vIHechbe'.
 eng	tlh_Latn	I didn't meet anyone there.	pa' vay' vIghombe'.
 eng	tlh_Latn	I didn't pay attention.	jIqImbe'.
@@ -2252,10 +2336,12 @@ eng	tlh_Latn	I don't know both of the sisters.	cha' be'nI'pu'vam vISovbe'.
 eng	tlh_Latn	I don't know her.	ghaH vISovbe'.
 eng	tlh_Latn	I don't know. It depends on the price.	jISovbe'. qav'ap wuv.
 eng	tlh_Latn	I don't know.	jISovbe'.
+eng	tlh_Latn	I don't know that man.	loDvetlh vISovbe'.
 eng	tlh_Latn	I don't know what the truth is.	vIt vISovbe'.
 eng	tlh_Latn	I don't know where I should go.	ghochwIj vISovbe'.
 eng	tlh_Latn	I don't know whether I've got the chutzpah to try it.	jInIDmeH yap butlhwIj 'e' vISovbe'.
 eng	tlh_Latn	I don't know who that man is.	loDvam vIngu'laHbe'.
+eng	tlh_Latn	I don't know why I want to learn French. I just know that I do.	vIraS Hol vIghojmeH meq vISovbe'. 'a vIghoj vIneHchu' 'e' vISovbej.
 eng	tlh_Latn	I don't know why my friend wants us to wait.	maloS neH jupwI'. meq vISovbe'.
 eng	tlh_Latn	I don't know yet.	wej vISov.
 eng	tlh_Latn	I don't like any of them.	pagh vIparHa'.
@@ -2294,6 +2380,7 @@ eng	tlh_Latn	I don't sing to them.	chaHvaD vIbombe'.
 eng	tlh_Latn	I don't smoke.	tlhIch vIpurbe'.
 eng	tlh_Latn	I don't speak fast.	nom jIjatlhbe'.
 eng	tlh_Latn	I don't speak Japanese.	nIpon Hol vIjatlhbe'.
+eng	tlh_Latn	I don't speak Klingon.	tlhIngan Hol vIjatlhbe'.
 eng	tlh_Latn	I don't steal.	jInIHbe'.
 eng	tlh_Latn	I don't think he is fit for the job.	Qu'vam ta'meH 'um 'e' vIQubbe'.
 eng	tlh_Latn	I don't think I'm going to make it.	jItaH 'e' vIQubbe'.
@@ -2306,6 +2393,7 @@ eng	tlh_Latn	I don't trust you anymore.	DaH qavoqbe'.
 eng	tlh_Latn	I don't understand either.	jIyajbe' je.
 eng	tlh_Latn	I don't understand German.	DoyIchlan Hol vIyajbe'.
 eng	tlh_Latn	I don't understand.	jIyajbe'.
+eng	tlh_Latn	I don't understand what I'm saying.	mu'mey vIjatlhbogh vIyajbe'.
 eng	tlh_Latn	I don't understand why all of these are necessary.	Hoch Dochmeyvam 'utmoHbogh meq vIyajbe'.
 eng	tlh_Latn	I don't want her to see me.	mulegh vIneHbe'.
 eng	tlh_Latn	I don't want him to see me.	mulegh vIneHbe'.
@@ -2348,6 +2436,7 @@ eng	tlh_Latn	I feel depressed often.	pIj jI'It.
 eng	tlh_Latn	I feel dizzy.	jIvertaH.
 eng	tlh_Latn	I feel like an idiot for believing you.	qaHarpu'mo' qoH jIHlaw'.
 eng	tlh_Latn	I feel like he is just using me.	mulo'law' neH.
+eng	tlh_Latn	I feel really dizzy.	jIverqu'.
 eng	tlh_Latn	I feel so happy today.	DaHjaj jIQuchqu'.
 eng	tlh_Latn	I feel sorry.	qavup.
 eng	tlh_Latn	I feel sorry.	Savup.
@@ -2398,6 +2487,7 @@ eng	tlh_Latn	If the mushroom is red he doesn’t eat it.	Doqchugh tera' yav 'atl
 eng	tlh_Latn	If there's something you don't like about another person, it's very likely you have it too.	DI'on Daparbogh ghajchugh latlh ghot, ghaytan DI'onvam Daghaj je SoH.
 eng	tlh_Latn	If there was no sun, we would not be able to live.	jul wIghajbe'chugh mayInlaHbe'.
 eng	tlh_Latn	If the sun were to stop shining, all living things would die.	wov 'e' mevchugh jul, Hegh yIntaHbogh Hoch.
+eng	tlh_Latn	If we don't leave soon, we won't get there in time.	tugh matlheDbe'chugh pa' wIpawbe' pumDI'.
 eng	tlh_Latn	If we had wings, could we fly to the moon?	telDu' DIghajchugh maSDaq mapuvlaH'a'?
 eng	tlh_Latn	If you add lemon, it will become sour.	tera' na'ran wIb Dachelchugh, wIbchoH.
 eng	tlh_Latn	If you add one thousand to ten thousand, you get eleven thousand.	wa'netlh boq wa'SaD; chen wa'netlh wa'SaD.
@@ -2453,6 +2543,7 @@ eng	tlh_Latn	I grew up in the country.	HatlhDaq jInenchoH.
 eng	tlh_Latn	I guess it's only natural.	le'be'law'.
 eng	tlh_Latn	I guess the battery is flat.	Qoplaw'taH 'ul 'aplo'.
 eng	tlh_Latn	I had a meal prepared for you.	SoHvaD Soj vIvutta'.
+eng	tlh_Latn	I had come to return the book to you, but I did not find you at home.	SoHvaD paq vInobHa'meH qaghoSpu', 'a juHDaq SoHtaHbe' 'e' vItu'.
 eng	tlh_Latn	I had looked for a weapon.	nuH vInejpu'.
 eng	tlh_Latn	I had my brother put this room in order.	pa'Daj ghIHHa'moHta' loDnI'wI' 'e' vIraD.
 eng	tlh_Latn	I had never been there before.	not pa' jIHpu'.
@@ -2470,6 +2561,7 @@ eng	tlh_Latn	I hate and I love. Why would I do this, maybe you're asking? I don'
 eng	tlh_Latn	I hate and love.	jImuS 'ej jImuSHa'.
 eng	tlh_Latn	I hate beans.	qurgh vImuS.
 eng	tlh_Latn	I hate being stupid.	jIQIp 'e' vImuS.
+eng	tlh_Latn	I hate bureaucracy.	reD'eS vImuS.
 eng	tlh_Latn	I hate charlatans.	QaqwI'pu' vImuS.
 eng	tlh_Latn	I hate computers.	De'wI'mey vImuS.
 eng	tlh_Latn	I hated studying Hungarian.	maDyar Hol vIghoj 'e' vImuS.
@@ -2560,6 +2652,7 @@ eng	tlh_Latn	I have to clean up my apartment.	pa'meywIj vIlamHa'nISchoHmoH.
 eng	tlh_Latn	I have to feed my cat.	vIghro'wIj vIje'nIS.
 eng	tlh_Latn	I have to get some money.	'op Huch vItlhapnIS.
 eng	tlh_Latn	I have to go and buy a newspaper.	De' chu' ghItlh vIje'meH vItlheDnIS.
+eng	tlh_Latn	I have to go back into the cave to rescue my dog.	qovIjwIj vItoDmoH DIS qoD vIcheghnIS.
 eng	tlh_Latn	I have to go back.	jIcheghnIS.
 eng	tlh_Latn	I have to go back to work.	yaHwIj vIcheghnIS.
 eng	tlh_Latn	I have to go to bed.	jIQongchoHnIS.
@@ -2601,6 +2694,8 @@ eng	tlh_Latn	I hope to go to Canada next year.	DIS veb qa'naDa' vIjaH 'e' vItul.
 eng	tlh_Latn	I hope to meet up with you this afternoon.	DaHjaj pov Saghom 'e' vItul.
 eng	tlh_Latn	I hope we're not too late.	tlhoy mapaSbe' 'e' vItul.
 eng	tlh_Latn	I hope you all liked it and that you all come back soon.	boparHa' Hoch 'ej tugh Suchegh 'e' vItul.
+eng	tlh_Latn	I hope you will be very happy, sir.	bIQuchqu' 'e' vItulneS.
+eng	tlh_Latn	I hope you will be very happy, sir.	bIQuchqu' 'e' vItul, qaH.
 eng	tlh_Latn	I hung the laundry out to dry last night and by morning it had frozen hard as a rock.	wa'Hu' ram HurDaq Sut vIHuSpu' 'ej po taDchoHchu'pu'; Separmey rur.
 eng	tlh_Latn	I hurried and managed to catch the bus.	jImoDta' 'ej lupwI' vItIjta' tlheDpa'.
 eng	tlh_Latn	I hurt my foot getting in the automobile.	puH Duj vI'elDI' qamwIj vI'oy'moH.
@@ -2636,6 +2731,7 @@ eng	tlh_Latn	I just think it's wrong.	muj 'e' vIQub neH.
 eng	tlh_Latn	I just think that this is happening too soon.	tlhoy nom qaS Dochvam 'e' vIQub neH.
 eng	tlh_Latn	I just want to be safe.	jIQobbe' vIneH neH.
 eng	tlh_Latn	I just want to get out of here.	naDevvo' jInargh vIneH neH.
+eng	tlh_Latn	I just want to have a normal life.	yIn motlh vISIQ neH vIneH.
 eng	tlh_Latn	I just want to hear you sing one more time.	wa'logh bIbomqa'DI' qaQoy vIneH neH.
 eng	tlh_Latn	I just want to know.	jISov neH vIneH.
 eng	tlh_Latn	I just wish I knew how to speak French.	vIraS Hol vIjatlhlaH neH vIneH.
@@ -2690,8 +2786,11 @@ eng	tlh_Latn	I know you've got a gun.	HIch Daghaj 'e' vISov.
 eng	tlh_Latn	I laughed.	jIHagh.
 eng	tlh_Latn	I laughed so hard I almost cried.	jIHaghqu'mo' tlhoS jISaQchoH.
 eng	tlh_Latn	I learned a lot about Tom.	tam bopbogh De' law''e' vIghoj.
+eng	tlh_Latn	I learned French.	vIraS Hol vIghoj.
+eng	tlh_Latn	I learned German.	DoyIchlan Hol vIghoj.
 eng	tlh_Latn	I learned how to drive when I was fifteen years old.	qaStaHvIS DISwIj wa'maH vaghDIch jIchIjmeH mIw vIghoj.
 eng	tlh_Latn	I learned it in school.	DuSaQDaq vIghoj.
+eng	tlh_Latn	I learn something new every day.	Hoch jaj De' chu' vIghoj.
 eng	tlh_Latn	I leave in three days.	wejleS jItlheD.
 eng	tlh_Latn	I leave this afternoon.	DaHjaj pov jImej.
 eng	tlh_Latn	I led that mission.	Qu'vetlhvaD DevwI' jIH.
@@ -2707,6 +2806,7 @@ eng	tlh_Latn	I like apples.	'epIl naHmey vIparHa'.
 eng	tlh_Latn	I like bananas more than apples.	banan naH vImaS; 'epIl naH vImaSbe'.
 eng	tlh_Latn	I like being on my own.	jImobtaH 'e' vItIv.
 eng	tlh_Latn	I like children. That's why I became a teacher.	puqpu' vIparHa'. vaj ghojmoHwI' vImojta'.
+eng	tlh_Latn	I like Chinese food, especially dumplings and rice.	jungwoq Soj vIparHa'. tIq Hom'e' ray' tIr'e' je vIparHa'qu'.
 eng	tlh_Latn	I like chocolate milk.	yuch nIm vItIv.
 eng	tlh_Latn	I like chocolate.	yuch vIparHa'.
 eng	tlh_Latn	I like clothes.	Sut vIparHa'.
@@ -2767,6 +2867,7 @@ eng	tlh_Latn	I like your outfit.	SutlIj vIparHa'.
 eng	tlh_Latn	I like your tie.	mong Ha'qujlIj vIparHa'.
 eng	tlh_Latn	I listened to his story.	lutDaj vIQoy.
 eng	tlh_Latn	I live here now.	DaH naDev vIDab.
+eng	tlh_Latn	I live in Rio de Janeiro, Brazil.	HIwjane'ru, bIraSIw, vIDab.
 eng	tlh_Latn	I live in this hotel.	mebpa'meyvam vIDab.
 eng	tlh_Latn	I live in this house by myself.	nIteb juH qachvam vIDab.
 eng	tlh_Latn	I live there by myself.	nIteb pa' vIDab.
@@ -2829,6 +2930,7 @@ eng	tlh_Latn	I'll remember you!	qaqaw!
 eng	tlh_Latn	I'll return at 6:30.	630 rep jIchegh.
 eng	tlh_Latn	I'll ring back at midday.	pemjep jIrI'qa'.
 eng	tlh_Latn	I'll rip your fucking balls off if you ever as much as look her way.	vabDot lurghDaj Daleghchugh neblIj vIlel jay'!
+eng	tlh_Latn	I'll run away.	jIHaw'.
 eng	tlh_Latn	I'll send it back.	vIngeHqa'.
 eng	tlh_Latn	I'll show you everything.	Hoch qa'angrup.
 eng	tlh_Latn	I'll show you the city.	veng qa'ang.
@@ -2937,6 +3039,7 @@ eng	tlh_Latn	I'm already hungry.	jIghungchoHpu'.
 eng	tlh_Latn	I'm a man.	loD jIH.
 eng	tlh_Latn	I'm a married man.	jISawpu'.
 eng	tlh_Latn	I'm a married woman.	jInaypu'.
+eng	tlh_Latn	I'm a Martian.	marIS ngan jIH.
 eng	tlh_Latn	I managed to repair my car by myself.	nIteb puH DujwIj vItI' vIneH.
 eng	tlh_Latn	I'm an honest person.	jIyuDHa'.
 eng	tlh_Latn	I'm a prisoner.	qama' jIHtaH.
@@ -2944,13 +3047,16 @@ eng	tlh_Latn	I married young.	jInayDI' jIQup.
 eng	tlh_Latn	I married young.	jISawDI' jIQup.
 eng	tlh_Latn	I married young.	jItlhoghDI' jIQup.
 eng	tlh_Latn	I'm as free as a bird.	jItlhab; bo'Degh vIrur.
+eng	tlh_Latn	I'm a slave.	toy'wI''a' jIH.
 eng	tlh_Latn	I'm as strong as a bear.	jIHoS; 'Iw vIrur.
 eng	tlh_Latn	I'm as strong as an ox.	jIHoS; 'Iw vIrur.
 eng	tlh_Latn	I'm as tall as my father.	woch vavwI', jIrap.
 eng	tlh_Latn	I'm as tall as Tom.	jIH woch law' tam woch law'.
 eng	tlh_Latn	I'm a surgeon.	HaqwI' jIH.
 eng	tlh_Latn	I'm a translator.	mughwI' jIH.
+eng	tlh_Latn	I'm at uni at the moment.	DaH DuSaQ'a'Daq jIHtaH.
 eng	tlh_Latn	I may give up soon and just take a nap.	chaq tugh jIjegh 'ej jIDum neH.
+eng	tlh_Latn	I may look like an adult, but I'm not.	chaq nenwI' jIrur, 'ach jInenbe'.
 eng	tlh_Latn	I'm back online.	'Internet vIcheghpu'.
 eng	tlh_Latn	I'm beginning to think you're not serious.	bISaHbe'taH 'e' vIHarchoH.
 eng	tlh_Latn	I'm behind him.	ghaH 'emDaq jIHtaH.
@@ -2995,6 +3101,7 @@ eng	tlh_Latn	I'm glad I'm not a woman.	Do' be' jIHbe'.
 eng	tlh_Latn	I'm glad that you're glad.	bIQuchmo' jIQuch.
 eng	tlh_Latn	I'm glad that you understand.	bIyajmo' jIQuch.
 eng	tlh_Latn	I'm glad to be back.	jIcheghpu'mo' jIQuch.
+eng	tlh_Latn	I'm glad to finally be home.	tagha' juH vIpawta'mo' jIQuch.
 eng	tlh_Latn	I'm going for a run. Do you want to come?	jIqetrup. mutlhej DaneH'a'?
 eng	tlh_Latn	I'm going to be looking for a weapon.	nuH vInejtaH.
 eng	tlh_Latn	I'm going to be right here.	naDev jIHbej.
@@ -3008,7 +3115,9 @@ eng	tlh_Latn	I'm gonna shoot him.	ghaHvaD jIbach.
 eng	tlh_Latn	I'm here, aren't I?	naDev jIHtaH, qar'a'?
 eng	tlh_Latn	I'm here.	naDev jIHtaH.
 eng	tlh_Latn	I'm here to have fun.	jItIv'eghmeH naDev jIHtaH.
+eng	tlh_Latn	I'm here, Tom.	naDev jIHtaH, tam.
 eng	tlh_Latn	I'm hot.	jItuj.
+eng	tlh_Latn	I'm hunting.	jIwamtaH.
 eng	tlh_Latn	I might not be able to help.	chaq jIQaHlaHbe'.
 eng	tlh_Latn	I might vote for you.	chaq qawIv.
 eng	tlh_Latn	I'm impatient.	jIboH.
@@ -3031,6 +3140,7 @@ eng	tlh_Latn	I'm learning music.	QoQ vIghoj.
 eng	tlh_Latn	I'm learning Swedish.	Suverya' Hol vIghojlI'.
 eng	tlh_Latn	I'm learning the Burmese language.	bama Hol vIghojlI'.
 eng	tlh_Latn	I'm learning Turkish.	turIqya' Hol vIghojlI'.
+eng	tlh_Latn	I'm leaving this group.	ghomvam vImej.
 eng	tlh_Latn	I'm listening.	jI'IjtaH.
 eng	tlh_Latn	I'm listening to the radio.	Se' HablI' jI'IjtaH.
 eng	tlh_Latn	I'm lonely without you.	chotlhejbe'DI' mu'IQmoH mobtaHghach.
@@ -3052,6 +3162,7 @@ eng	tlh_Latn	I'm not afraid.	jIHajbe'.
 eng	tlh_Latn	I'm not a lawyer.	chut qeSwI' jIHbe'.
 eng	tlh_Latn	I'm not alone.	jImobbe'.
 eng	tlh_Latn	I'm not apologizing.	jItlhIjtaHbe'.
+eng	tlh_Latn	I'm not a refugee.	Haw'wI' jIHbe'.
 eng	tlh_Latn	I'm not ashamed of my father being poor.	mutuHmoHbe' vavwI' mIpHa'ghach.
 eng	tlh_Latn	I'm not a teacher.	ghojmoHwI' jIHbe'.
 eng	tlh_Latn	I'm not bothered.	munuQbe'.
@@ -3103,12 +3214,14 @@ eng	tlh_Latn	I'm sorry, I've forgotten your name.	jIQoS, ponglIj vIlIjpu'.
 eng	tlh_Latn	I'm sorry.	jIQoS.
 eng	tlh_Latn	I'm so unimportant and insignificant.	jIram 'ej jIpotlhHa'.
 eng	tlh_Latn	I'm speaking Spanish to my cat.	vIghro'wIjvaD 'eSpanya' Hol vIjatlhtaH.
+eng	tlh_Latn	I'm staying in bed today because I'm ill.	DaHjaj QongDaqDaq jIratlhtaH jIropmo'.
 eng	tlh_Latn	I'm still not panicking.	wej jIlIm.
 eng	tlh_Latn	I'm still studying French.	vIraS Hol vIHaDtaH.
 eng	tlh_Latn	I'm studying English because I plan to go to the United States.	'amerI'qa' SepjIjQa' vIjaH 'e' vIHechmo' DIvI' Hol vIHaDtaH.
 eng	tlh_Latn	I'm sure about his name.	pongDaj vISovbej.
 eng	tlh_Latn	I'm sure she has other skills.	latlh laHmey ghajbej.
 eng	tlh_Latn	I'm sure she is going to sing at church tomorrow.	wa'leS chIrghDaq bom ghaH 'e' vIHonbe'.
+eng	tlh_Latn	I'm sure Tom agrees with this.	Qochbe'bej tam.
 eng	tlh_Latn	I'm testing my new camera.	mIllogh qonwI'wIj chu' vIwaH.
 eng	tlh_Latn	I'm the best.	jInIvqu'.
 eng	tlh_Latn	I'm the killer.	chotwI' jIH.
@@ -3116,8 +3229,11 @@ eng	tlh_Latn	I'm the one who has to do that if I can't convince someone else to 
 eng	tlh_Latn	I'm the type who gets nervous in front of people, so I'm bad at speech making.	qabDu' law' tlhopDaq jIHtaHvIS jIbItchoHbogh nuv jIH, vaj SoQ vIjatlhDI' jIqab.
 eng	tlh_Latn	I'm thirty-four.	wejmaH loS ben jIboghpu'.
 eng	tlh_Latn	I'm thirty.	wejmaH ben jIboghpu'.
+eng	tlh_Latn	I'm thirty years old, too.	wejmaH ben jIboghpu' je jIH.
 eng	tlh_Latn	I'm tired.	jIDoy'.
+eng	tlh_Latn	I'm tired of the work.	Qu'wIjmo' jIDoy'.
 eng	tlh_Latn	I'm too short.	tlhoy jIrun.
+eng	tlh_Latn	I'm training hard at the moment.	DaH pe'vIl jIqeqtaH.
 eng	tlh_Latn	I'm trying to learn English.	DIvI' Hol vIghoj 'e' vInID.
 eng	tlh_Latn	I'm trying to understand you.	qayaj 'e' vInIDtaH.
 eng	tlh_Latn	I'm Turkish.	turqIya'ngan jIH.
@@ -3150,6 +3266,8 @@ eng	tlh_Latn	I'm wearing a sweater because I'm cold.	jIbIrmo' wep vItuQtaH.
 eng	tlh_Latn	I'm wheezing.	jIjevtaH.
 eng	tlh_Latn	I'm wheezing.	jItlhovtaH.
 eng	tlh_Latn	I'm willing to help him.	ghaH vIQaHjaj.
+eng	tlh_Latn	I'm writing.	jIghItlhtaH.
+eng	tlh_Latn	I'm writing.	jIqontaH.
 eng	tlh_Latn	I'm young, but I'm not that young.	jIQup, 'ach jIQupqu'be'.
 eng	tlh_Latn	I'm your new lawyer.	chut qeSwI'ra' chu' jIH.
 eng	tlh_Latn	I myself did it.	ta' jIH'e'.
@@ -3220,6 +3338,7 @@ eng	tlh_Latn	In the German language there are many long words.	law' nI'bogh mu'm
 eng	tlh_Latn	In the morning I always wake up around seven o'clock.	po jIvemDI' reH Sochlogh Qoylu'pu'.
 eng	tlh_Latn	In the summer it's very hot in southern Spain.	qImroq tuj tujqu' 'eSpanya' tIng chan tIng.
 eng	tlh_Latn	In this show, the accent is on robots.	qoq buS muchvam.
+eng	tlh_Latn	I often read books.	pIj paqmey vIlaD.
 eng	tlh_Latn	I often think about my deceased mother.	pIj Heghpu'bogh SoSwI' vIqel.
 eng	tlh_Latn	I often use SSH to access my computers remotely.	chuqvo' De'wI'meywIj vInaw'meH pIj SSH vIlo'.
 eng	tlh_Latn	I only got three hours of sleep last night.	ram Qav qaStaHvIS wej rep neH jIQongpu'.
@@ -3282,6 +3401,7 @@ eng	tlh_Latn	I received your message.	QInlIj vIHev.
 eng	tlh_Latn	I recently had surgery.	qen vIHaqlu'.
 eng	tlh_Latn	I recognized Tom's voice.	tam ghogh vIghov.
 eng	tlh_Latn	I refuse to believe that we can't do anything about the situation.	ghu' wISIghlaHbe' 'e' vIHarQo'.
+eng	tlh_Latn	I refuse to speak English.	DIvI' Hol vIjatlhQo'.
 eng	tlh_Latn	I regret having spoken the truth.	jIvItpu' 'e' vIpay.
 eng	tlh_Latn	I regret that decision.	wuqvetlh vIpay.
 eng	tlh_Latn	I remembered your birthday this year, didn't I?	DISvam qoSlIj vIqaw qar'a'?
@@ -3294,6 +3414,7 @@ eng	tlh_Latn	I remember this music.	QoQvam vIqaw.
 eng	tlh_Latn	I remember this story.	lutvam vIqaw.
 eng	tlh_Latn	I remember those days.	jajmeyvetlh vIqaw.
 eng	tlh_Latn	I remember those days.	poHvetlh vIqaw.
+eng	tlh_Latn	I remember Tom's son.	tam puqloD vIqaw.
 eng	tlh_Latn	I rescued the cat.	vIghro' vItoD.
 eng	tlh_Latn	I respected Tom.	tam vIvuv.
 eng	tlh_Latn	I respect Tom.	tam vIvuv.
@@ -3303,6 +3424,7 @@ eng	tlh_Latn	I run a small business.	malja'Hom vIDev.
 eng	tlh_Latn	I run every day.	Hoch jaj jIqet.
 eng	tlh_Latn	I said I wouldn't tell him.	ghaH vIjatlhQo' vIjatlh.
 eng	tlh_Latn	I said something.	vay' vIjatlh.
+eng	tlh_Latn	Is anyone hungry?	ghung'a' vay'?
 eng	tlh_Latn	I saw a man with a red hat.	mIv Doq tuQtaHbogh loD'e' vIleghpu'.
 eng	tlh_Latn	I saw a white bird on my way home.	juH vIcheghtaHvIS bo'Degh chIS vIlegh.
 eng	tlh_Latn	I saw her at the party.	lopDaq ghaH vIlegh.
@@ -3328,9 +3450,12 @@ eng	tlh_Latn	I sell new umbrellas.	SIS yoDmey chu' vIngev.
 eng	tlh_Latn	I sell shoes.	waqmey vIngev.
 eng	tlh_Latn	Is everyone happy?	Quch'a' Huch?
 eng	tlh_Latn	I shared a room with him.	wa' pa' wIDabpu' jIH ghaH je.
+eng	tlh_Latn	Is he accusing us?	nupum'a'?
 eng	tlh_Latn	Is he afraid of death?	Hegh Haj'a'?
 eng	tlh_Latn	Is he a real doctor? He talks so normally.	Qelna' ghaH'a'? jatlhtaHvIS le'be'law'.
 eng	tlh_Latn	Is he dead?	Heghpu''a'?
+eng	tlh_Latn	Is he horny?	Huy'a'?
+eng	tlh_Latn	Is he horny?	Huy'a' ghaH?
 eng	tlh_Latn	Is he right?	lugh'a'?
 eng	tlh_Latn	Is he the owner of that car?	puH Dujvetlh ghaj'a' ghaH'e'?
 eng	tlh_Latn	I should be done in an hour.	ghaytan wa' rep pIq jIrIn.
@@ -3380,6 +3505,8 @@ eng	tlh_Latn	Israel is my ancestor, not my country.	'emrIghwI' ghaH yISra'el'e'.
 eng	tlh_Latn	Is she dead?	Heghpu''a'?
 eng	tlh_Latn	Is she happy?	Quch'a'?
 eng	tlh_Latn	Is she healthy?	pIv'a'?
+eng	tlh_Latn	Is she horny?	Huy'a'?
+eng	tlh_Latn	Is she horny?	Huy'a' ghaH?
 eng	tlh_Latn	Is she your sister?	be'nI'lI' ghaH'a'?
 eng	tlh_Latn	I started learning Russian recently.	qen raSya' Hol vIghojchoH.
 eng	tlh_Latn	I started to make stew.	tlhIq vIvutchoH.
@@ -3421,6 +3548,7 @@ eng	tlh_Latn	Is this legal?	mub'a' 'oH?
 eng	tlh_Latn	Is this made in Switzerland?	Switzerland-Daq Dochvam chenmoHlu'pu''a'?
 eng	tlh_Latn	Is this new?	chu''a' 'oH?
 eng	tlh_Latn	Is this pear green?	SuDqu''a' per naHvam?
+eng	tlh_Latn	Is this the last group?	ghom Qav 'oH'a'?
 eng	tlh_Latn	Is this the place in which your mother works?	DaqvamDaq vumtaH'a' SoSlI'?
 eng	tlh_Latn	Is this your bicycle?	qam Do DujlIj 'oH'a' Dochvam'e'?
 eng	tlh_Latn	Is this your book?	paqlIj 'oH'a' paqvam'e'?
@@ -3442,7 +3570,9 @@ eng	tlh_Latn	Is Tom being punished?	tam bIjlu'taH'a'?
 eng	tlh_Latn	Is Tom drunk?	chech'a' tam?
 eng	tlh_Latn	Is Tom here?	naDev ghaHtaH'a' tam'e'?
 eng	tlh_Latn	Is Tom injured?	rIQ'a' tam?
+eng	tlh_Latn	Is Tom on the spectrum?	ngur'a' tam?
 eng	tlh_Latn	Is Tom stupid?	QIp'a' tam?
+eng	tlh_Latn	Is Tom working now?	DaH vumtaH'a' tam?
 eng	tlh_Latn	Is Tom young?	Qup'a' tam?
 eng	tlh_Latn	I study English.	DIvI' Hol vIHaD.
 eng	tlh_Latn	I study.	jIHaD.
@@ -3491,6 +3621,8 @@ eng	tlh_Latn	It happened suddenly.	pay' qaS.
 eng	tlh_Latn	It happened twice.	cha'logh qaS.
 eng	tlh_Latn	It hardly ever rains here.	tlhoS not naDev SIS.
 eng	tlh_Latn	It has a great many words borrowed from foreign languages.	Holmey novvo' mu'mey law'qu' lungIplu'bogh ghaj.
+eng	tlh_Latn	It has a lot of hair.	law' pobDaj.
+eng	tlh_Latn	It has a lot of hair.	pob law' ghaj.
 eng	tlh_Latn	It has twenty children.	cha'maH puq ghaj.
 eng	tlh_Latn	It has twenty children.	cha'maH puq ghaj 'oH.
 eng	tlh_Latn	I think everyone wants to do that.	Dochvam ta' neH Hoch 'e' vIQub.
@@ -3554,6 +3686,7 @@ eng	tlh_Latn	I think you should look at this once more.	wa'logh Daleghqa'nIS 'e'
 eng	tlh_Latn	I thought her very clever.	valqu' 'e' vIQub.
 eng	tlh_Latn	I thought the enemy had killed Tom.	tam HoHta' jagh 'e' vIHar.
 eng	tlh_Latn	I thought Tom and Mary were crazy.	maw' tam me'rIy' je 'e' vIQub.
+eng	tlh_Latn	I thought Tom was allistic.	ngurbe' tam 'e' vIHar.
 eng	tlh_Latn	I thought you could speak French.	vIraS Hol DajatlhlaH 'e' vIQub.
 eng	tlh_Latn	I thought you hated Tom.	tam DamuS 'e' vIQub.
 eng	tlh_Latn	I thought you loved me.	chomuSHa' 'e' vIQub.
@@ -3563,6 +3696,7 @@ eng	tlh_Latn	I thought you wouldn't be able to do that.	Dochvetlh Data'laHbe' 'e
 eng	tlh_Latn	I threw a stone at the bird.	bo'DeghDaq nagh vIjaDta'.
 eng	tlh_Latn	I threw up my food.	jI'empu'.
 eng	tlh_Latn	It hurts here.	naDev 'oy'.
+eng	tlh_Latn	It hurts me!	mu'oy'moH!
 eng	tlh_Latn	It is a black hole.	luSpet 'oH.
 eng	tlh_Latn	It is a book.	paq 'oH.
 eng	tlh_Latn	It is an act of treason to sell military secrets to your country's enemies.	SepDaj jaghvaD QI' peghmey ngevchugh vay', 'ur.
@@ -3657,14 +3791,18 @@ eng	tlh_Latn	It's an exciting proposition.	SeymoHbogh qeS 'oH.
 eng	tlh_Latn	It's a perfect day.	pup jajvam.
 eng	tlh_Latn	It's a pity that I'm late.	Do'Ha' jIpaS.
 eng	tlh_Latn	It's a poem.	ghuQ 'oH.
+eng	tlh_Latn	It's a robot.	qoq 'oH.
 eng	tlh_Latn	It's as cold as ice.	bIr; chuch rur.
 eng	tlh_Latn	It's a secret; don't give it away to anyone.	pegh 'oH. paghvaD yIja'!
 eng	tlh_Latn	It's astonishing how fluently Bill spoke Japanese.	nIpon Hol jatlhchu'qu'mo' bIl mumer.
+eng	tlh_Latn	It's a strange hobby, but I enjoy it.	bel Qu' jum 'oH, 'ach vItIv.
 eng	tlh_Latn	It's a trap!	nuvonlI'!
+eng	tlh_Latn	It's a very old picture.	mIllogh ngo'qu' 'oH.
 eng	tlh_Latn	It's a war crime.	veS HeS 'oH.
 eng	tlh_Latn	It's awfully bitter.	pe'vIl wIb.
 eng	tlh_Latn	It's become dark. Would you turn on the light?	HurghchoHpu'. wovmoHwI' yIchu'!
 eng	tlh_Latn	It's been raining again.	SISqa'pu'.
+eng	tlh_Latn	It's been raining hard all morning.	qaStaHvIS po naQ SISqu'taH.
 eng	tlh_Latn	It's beginning to rain. Please share my umbrella.	SISchoH. SIS yoDwIj bIng yIghoSneS!
 eng	tlh_Latn	It's cheap.	qutlh.
 eng	tlh_Latn	It's cold.	bIr.
@@ -3687,6 +3825,7 @@ eng	tlh_Latn	It seems that I'm not lucky today.	DaHjaj jIDo'be'law'.
 eng	tlh_Latn	It seems that they took the wrong train.	lupwI' mIr lutIjHa'law'.
 eng	tlh_Latn	It's evil.	mIgh.
 eng	tlh_Latn	It's far too dangerous.	tlhoy Qobqu'.
+eng	tlh_Latn	It's Friday at last.	tagha' qaS buqjaj.
 eng	tlh_Latn	It's going to be a long trip.	leng nI' 'oHbej.
 eng	tlh_Latn	It's going to rain.	tugh SIS.
 eng	tlh_Latn	It's great having you back.	jucheghpu'mo' maQuchqu'.
@@ -3695,6 +3834,7 @@ eng	tlh_Latn	It's hot.	tuj.
 eng	tlh_Latn	It's impossible.	qItbe'.
 eng	tlh_Latn	It's interesting.	Daj.
 eng	tlh_Latn	It's kind of late.	loQ paS.
+eng	tlh_Latn	It's likely to be very cold tomorrow.	wa'leS ghaytan bIrqu'.
 eng	tlh_Latn	It's made of glass.	'al'on yugh.
 eng	tlh_Latn	It's my CD, isn't it?	De' jengva'wIj 'oH qar'a'?
 eng	tlh_Latn	It's necessary for us to sleep well.	QongtaHghach QaQ wIpoQqu'.
@@ -3705,6 +3845,7 @@ eng	tlh_Latn	It's not a competition.	qaD 'oHbe'.
 eng	tlh_Latn	It's not all your fault.	nIteb pIch Daghajbe'.
 eng	tlh_Latn	It's not a smoking device.	tlhIch purmeH jan 'oHbe'.
 eng	tlh_Latn	It's not a wife that I want, but a sex friend.	be'nal'e' vIneHbe', 'ach jup vIneH ngaghmeH.
+eng	tlh_Latn	It's not dry at all.	QaDbe'chu'.
 eng	tlh_Latn	It's not far from here.	Hopbe'.
 eng	tlh_Latn	It's not going to be cheap.	qutlhbe'.
 eng	tlh_Latn	It's not hard to find.	Qatlhbe' SammeH Qu'.
@@ -3736,6 +3877,7 @@ eng	tlh_Latn	It's started to snow.	peDchoH.
 eng	tlh_Latn	It's still rising.	ghurtaH.
 eng	tlh_Latn	It's stupid.	QIp.
 eng	tlh_Latn	It's Sunday today.	jaj wa' 'oH jajvam.
+eng	tlh_Latn	It's terrorism.	vIrveq 'oH.
 eng	tlh_Latn	It's the funniest dog in the world.	qo'Daq Ha'DIbaHvam tlhaQ law' Hoch Ha'DIbaH tlhaQ puS.
 eng	tlh_Latn	It stings.	'aw'.
 eng	tlh_Latn	It stinks.	He'So'.
@@ -3770,6 +3912,7 @@ eng	tlh_Latn	It was a vase that my son broke last night.	wa'Hu' ram 'InSong bal'
 eng	tlh_Latn	It was a very big room.	pa' tInqu' 'oH.
 eng	tlh_Latn	It was cloudy.	Daghan man kadto to og panganod.
 eng	tlh_Latn	It was cold yesterday, but it's even colder today.	wa'Hu' bIr 'ach DaHjaj bIrqu'.
+eng	tlh_Latn	It was drizzling this morning.	DaHjaj po loQ SIS.
 eng	tlh_Latn	It was George that I met in the street this morning.	jo'rIj ghaH DaHjaj po tawDaq nuv'e' vIghombogh.
 eng	tlh_Latn	It was inevitable that they would meet.	qIHchuq net junlaHbe'.
 eng	tlh_Latn	It was just a joke.	qID neH 'oH.
@@ -3843,6 +3986,7 @@ eng	tlh_Latn	I've shut all six windows.	Hoch jav Qorwaghmey vISoQmoHta'.
 eng	tlh_Latn	I've visited my father's grave.	vavwI' mol vISuchta'.
 eng	tlh_Latn	I visited many parts of England.	tuqjIjQa' yoSmey law'Daq jIlengpu'.
 eng	tlh_Latn	I visit him often.	pIj vISuch.
+eng	tlh_Latn	Ivy is growing in the back of the house.	juH qach 'emDaq rIb 'arDeH.
 eng	tlh_Latn	I waited for an hour, but he didn't appear.	qaStaHvIS wa' rep jIloS, 'ach narghbe'.
 eng	tlh_Latn	I wake up to the sound of music.	jIvemDI' QoQ vIQoytaH.
 eng	tlh_Latn	I walked alone.	nIteb jIyIt.
@@ -3873,6 +4017,7 @@ eng	tlh_Latn	I want to be you.	SoH jIH vIneH.
 eng	tlh_Latn	I want to buy a new bed linen.	QongDaq tlhIm chu' vIje' vIneH.
 eng	tlh_Latn	I want to buy bananas.	banan naHmey vIje' vIneH.
 eng	tlh_Latn	I want to buy this dictionary.	mu'ghomvam vIje' vIneH.
+eng	tlh_Latn	I want to buy you something, but I don't have any money.	SoHvaD vay' vIje' vIneH, 'ach Huch vIHutlh.
 eng	tlh_Latn	I want to change that.	Dochvam vIchoH vIneH.
 eng	tlh_Latn	I want to commit suicide.	jIHoH'egh vIneH.
 eng	tlh_Latn	I want to die!	jIHegh vIneH!
@@ -3899,6 +4044,7 @@ eng	tlh_Latn	I want to speak to her alone.	nIteb ghaHvaD vIjatlh vIneH.
 eng	tlh_Latn	I want to study Dutch.	ne'Derlan Hol vIHaD vIneH.
 eng	tlh_Latn	I want to study German.	DoyIchlan Hol vIHaD vIneH.
 eng	tlh_Latn	I want to take a look inside.	qoD vInuD vIneH.
+eng	tlh_Latn	I want to take part.	jIjeS vIneH.
 eng	tlh_Latn	I want to talk to you.	SoHvaD jIjatlh vIneH.
 eng	tlh_Latn	I want to thank you all for this opportunity.	'ebvammo' Satlho' vIneH.
 eng	tlh_Latn	I want you to analyze this.	'oH bopoj vIneH.
@@ -3922,6 +4068,7 @@ eng	tlh_Latn	I was born on June 4, 1974.	tera' jar jav, jaj loSDIch, DIS 1974 jI
 eng	tlh_Latn	I was bullied.	vI'Irghlu'.
 eng	tlh_Latn	I was deceived by him.	jIH mutojta'.
 eng	tlh_Latn	I was dizzy.	jIvertaH.
+eng	tlh_Latn	I was enjoying myself.	jItIv'eghtaH.
 eng	tlh_Latn	I was forced to abandon the plan.	nab vIlon 'e' vIraDlu'pu'.
 eng	tlh_Latn	I was frightened by the sight.	vIleghDI' vIHaj.
 eng	tlh_Latn	I was given a computer game by my father.	jIHvaD De'wI' Quj nobta' vavwI'.
@@ -3977,6 +4124,7 @@ eng	tlh_Latn	I will live in a room with four beds.	loS QongDaqmey ngaSbogh pa''e
 eng	tlh_Latn	I will make a friend of him.	ghaHvaD jupwI' vImojmoHbej.
 eng	tlh_Latn	I will never have a son.	not puqloD vIghajbej.
 eng	tlh_Latn	I will never know the reason why he lied to me.	munepmeH meqDaj'e' not vISov.
+eng	tlh_Latn	I will never study Esperanto.	not 'eSperanto Hol vIHaD.
 eng	tlh_Latn	I will never tell this to anyone.	not vay'vaD 'oH vIja'qang.
 eng	tlh_Latn	I will not add sentences in Russian.	raSya' Hol mu'tlheghmey vIchelbe'.
 eng	tlh_Latn	I will not live in Kobe next year.	wa' nem *Kobe vIDabbe'.
@@ -4063,6 +4211,7 @@ eng	tlh_Latn	Just pretend you don't know me.	choSovbe' 'e' yIghet.
 eng	tlh_Latn	Just shut up and listen.	bIjatlh 'e' yImev 'ej yI'Ij neH.
 eng	tlh_Latn	Just shut up and listen.	yItamchoH 'ej yI'Ij!
 eng	tlh_Latn	Just tell the truth.	pevIt neH!
+eng	tlh_Latn	Just water.	bIQ neH.
 eng	tlh_Latn	Kate is smarter than any other student in our class.	DuSaQ ghommaj'e' qet val law' Hoch val puS.
 eng	tlh_Latn	Keep quiet!	yItamtaH!
 eng	tlh_Latn	Keep the door closed.	lojmIt yIpoSmoHQo'!
@@ -4093,6 +4242,9 @@ eng	tlh_Latn	Layla flew to Egypt.	maSIr leng ley'la.
 eng	tlh_Latn	Layla robbed a bank.	beylI' Hej ley'la'.
 eng	tlh_Latn	Layla was robbing banks.	beylI'mey HejtaH ley'la'.
 eng	tlh_Latn	Layla was Sami's ex-wife.	Sa'mIy be'nal Deq ghaH layla''e'.
+eng	tlh_Latn	Learning Russian is hard.	Qatlh raSya' ghojmeH Qu'.
+eng	tlh_Latn	Learn your language.	HollIj yIghoj.
+eng	tlh_Latn	Learn your language.	Holraj yIghoj.
 eng	tlh_Latn	Leave this country.	Sepvam yImej.
 eng	tlh_Latn	Lemon is sour.	wIb tera' na'ran wIb.
 eng	tlh_Latn	Lemon tea without sugar, please.	Su'ghar qutmey Hutlhbogh tera' na'ran wIb Dargh'e' vItlhob.
@@ -4122,6 +4274,7 @@ eng	tlh_Latn	Let's go get drunk at the tavern.	Ha', tachDaq machechchoHjaj.
 eng	tlh_Latn	Let's go get drunk.	Ha', machechchoHjaj.
 eng	tlh_Latn	Let's go!	Ha'!
 eng	tlh_Latn	Let's go home.	juH wIcheghjaj!
+eng	tlh_Latn	Let's go make dinner.	Ha'! 'uQ wIvut!
 eng	tlh_Latn	Let's go out and eat dinner together from time to time.	rut nItebHa' Qe'Daq 'uQ wISopjaj.
 eng	tlh_Latn	Let's have some coffee.	qa'vIn wItlhutlhjaj.
 eng	tlh_Latn	Let's hope that's enough.	yap 'e' wItuljaj.
@@ -4151,6 +4304,7 @@ eng	tlh_Latn	Life is expensive.	wagh yIn.
 eng	tlh_Latn	Life is too short.	tlhoy ngaj yIn.
 eng	tlh_Latn	Life is very short.	ngajqu' yIn.
 eng	tlh_Latn	Light attracts bugs.	ghewmey ngel tamghay.
+eng	tlh_Latn	Light behaves either as a wave, or as a beam of particles.	yu'egh Da tamghay pagh pay'an tIH Da.
 eng	tlh_Latn	Light the candle.	weQ yImeQmoH!
 eng	tlh_Latn	Listen, alien.	HI'Ij, nov.
 eng	tlh_Latn	Listen, alien.	yI'Ij, nov.
@@ -4176,6 +4330,7 @@ eng	tlh_Latn	Lots of people have tried.	lunIDpu' ghot law'.
 eng	tlh_Latn	Love if you want to be loved.	DamuSHa'lu' DaneHchugh, yImuSHa'!
 eng	tlh_Latn	Love will survive.	taHbej parmaq.
 eng	tlh_Latn	Machines that his company produces are superior to ours.	mIqta''e' chenmoHbogh malja'vam QaQ law' mIqta'maj QaQ puS.
+eng	tlh_Latn	Mach stands for the speed of sound.	wab Do 'oS wabDo.
 eng	tlh_Latn	Make a good translation of the sentence that you are translating. Don't let translations into other languages influence you.	mu'tlhegh DamughlI'bogh yImughchu'! DuSIghbe'nIS latlh Hol mu'tlhegh.
 eng	tlh_Latn	Make haste slowly.	QIt pemoD.
 eng	tlh_Latn	Make haste slowly.	QIt yImoD.
@@ -4210,6 +4365,7 @@ eng	tlh_Latn	Mary is a mother.	SoS ghaH me'rIy''e'.
 eng	tlh_Latn	Mary is a powerful warrior.	SuvwI' HoSghaj ghaH me'rIy'e'.
 eng	tlh_Latn	Mary is a very beautiful girl.	be'Hom 'IHqu' ghaH me'rIy''e'.
 eng	tlh_Latn	Mary is beautiful, isn't she?	'IH me'rIy' qar'a'?
+eng	tlh_Latn	Mary is hunting.	wamtaH me'rIy.
 eng	tlh_Latn	Mary is innocent.	chun me'rIy.
 eng	tlh_Latn	Mary isn't really sick. She's faking it.	ropbe' me'rIy' 'ach ghet.
 eng	tlh_Latn	Mary isn't really sick. She's just pretending to be sick.	ropbe' me'rIy'. rop 'e' ghet neH.
@@ -4226,6 +4382,7 @@ eng	tlh_Latn	Masako usually walks to school.	roD DuSaQ ghoSDI' yIt maSaqo'.
 eng	tlh_Latn	Mathematics is the part of science you could continue to do if you woke up tomorrow and discovered the universe was gone.	wa'leS vemlu'pu'DI' ngabpu' 'u' 'e' tu'lu'chugh, vaj QeD 'ay' HaDqa'laHbogh 'oH mI' QeD'e'.
 eng	tlh_Latn	Math is a bitch.	petaQ 'oH mI'QeD'e'.
 eng	tlh_Latn	Matter, you see, disappears, only the spirit remains.	toH, ngab Hap, taH qa' neH.
+eng	tlh_Latn	Maybe he's telling the truth.	chaq vIttaH.
 eng	tlh_Latn	Maybe he won't become famous.	chaq noychoHbe'.
 eng	tlh_Latn	Maybe I'm wrong.	chaq jIlughbe'.
 eng	tlh_Latn	Maybe I need a lawyer.	chaq chut qeSwI' vIpoQ.
@@ -4249,6 +4406,7 @@ eng	tlh_Latn	Maybe we should fight.	chaq maSuvnIS.
 eng	tlh_Latn	Maybe we should stop.	chaq mamevnIS.
 eng	tlh_Latn	Maybe you can help.	chaq bIQaHlaH.
 eng	tlh_Latn	Maybe you control it.	ghaytan DaSeH.
+eng	tlh_Latn	Maybe you guys are right.	chaq Sulugh.
 eng	tlh_Latn	Maybe you just didn't care.	chaq bISaHbe' neH.
 eng	tlh_Latn	Maybe you'll have to defend yourselves.	chaq SuHub'eghnIS.
 eng	tlh_Latn	Maybe you ought to talk to them.	chaq chaHvaD bIjatlhnIS.
@@ -4273,6 +4431,7 @@ eng	tlh_Latn	May the force be with you.	Dutlhejjaj HoS.
 eng	tlh_Latn	May the Force be with you!	Dutlhejjaj HoS.
 eng	tlh_Latn	May the Force be with you.	Dutlhejjaj HoS.
 eng	tlh_Latn	May you succeed!	bIQapjaj!
+eng	tlh_Latn	Me and Tom had sex.	manga'chuq tam, jIH je.
 eng	tlh_Latn	Meat is expensive.	wagh Ha'DIbaH.
 eng	tlh_Latn	Meet me at the lobby of the Imperial Hotel at 6:30 p.m.	rep wa'maH chorgh wejmaH wo' mebpa'mey vaSDaq HIghom!
 eng	tlh_Latn	Me, I prefer coffee to tea.	Dargh qa'vIn je vIqelDI', qa'vIn vImaS jIH'e'.
@@ -4307,7 +4466,10 @@ eng	tlh_Latn	Most people think that people shouldn't eat people.	nuv Sopbe'nIS n
 eng	tlh_Latn	Mother bought my brother a yellow umbrella.	loDnI'wI'vaD SISyoD SuD 'ej wov je'ta' SoS.
 eng	tlh_Latn	Mother prepared us lunch.	maHvaD megh vutta' SoS.
 eng	tlh_Latn	Mother removed mud from his shoes.	waqDajvo' lam teqpu' SoS.
+eng	tlh_Latn	Mum, Dad, I've got something to tell you.	SoSoy, vavoy, tlhIHvaD vay' vIjatlhnIS.
+eng	tlh_Latn	Mushrooms are wise.	chul tera' yav 'atlhqam.
 eng	tlh_Latn	Must the woman always play the secondary role?	reH cha'DIch ghaHnIS'a' be'?
+eng	tlh_Latn	My alarm clock doesn't work anymore.	Qapbe'choHpu' vemmoHmeH tlhaqwIj.
 eng	tlh_Latn	My arm still hurts.	'oy'taH DeSwIj.
 eng	tlh_Latn	My aunt brought me flowers.	jIHvaD 'InSongmey qem 'e'mamnalwI'.
 eng	tlh_Latn	My aunt brought me flowers.	jIHvaD 'InSongmey qem 'e'mamwI'.
@@ -4348,11 +4510,13 @@ eng	tlh_Latn	My cat fought with another cat.	latlh vIghro' ghob vIghro'wIj.
 eng	tlh_Latn	My cat had a fight with another cat.	latlh vIghro' ghobpu' vIghro'wIj.
 eng	tlh_Latn	My cat is big.	tIn vIghro'wIj.
 eng	tlh_Latn	My cat is hungry.	ghung vIghro'wIj.
+eng	tlh_Latn	My cat loves me.	mumuSHa' vIghro'wIj.
 eng	tlh_Latn	My cat needs surgery.	vIghro'wIj HaqnISlu'.
 eng	tlh_Latn	My cats love me.	mumuSHa' vIghro'meywIj.
 eng	tlh_Latn	My children are at school.	DuSaQDaq chaHtaH puqpu'wI''e'.
 eng	tlh_Latn	My children can't speak Hebrew.	yISra'el Hol lujatlhlaHbe' puqwI'.
 eng	tlh_Latn	My clock needs to be fixed.	tlhaqwIj tI'lu' 'e' vIpoQ.
+eng	tlh_Latn	My coat has pockets.	puqmey ngaS cheSvelwIj.
 eng	tlh_Latn	My daughter held on to my coat sleeve and would not let me go.	wepwIj tlhay 'uchtaH puqbe'wI' 'ej 'uchHa'Qo'.
 eng	tlh_Latn	My daughter is buying milk from the store.	ngevwI' qachvo' nIm je'lI' puqbe'wI'.
 eng	tlh_Latn	My dog ate my homework.	ghIghwIj Soppu' Ha'DIbaHwIj.
@@ -4428,6 +4592,7 @@ eng	tlh_Latn	"My lady is in her chamber," said the servant.	«pa'Daq ghaH joHwI'
 eng	tlh_Latn	My language is not on the list!	HolwIj Hutlh tetlh.
 eng	tlh_Latn	My language is not on the list!	HolwIj ngaSbe' tetlh.
 eng	tlh_Latn	My language is not on the list!	tetlhDaq HolwIj tu'lu'be'.
+eng	tlh_Latn	My legs are paining.	'oy'taH 'uSDu'wIj.
 eng	tlh_Latn	My life has changed since I met him.	ghaH vIqIHDI' choH'egh yInwIj.
 eng	tlh_Latn	My life is a mistake.	Qagh 'oH yInwIj'e'.
 eng	tlh_Latn	My lips are sealed.	jIjatlhpa' jatlh Hovmey.
@@ -4450,6 +4615,7 @@ eng	tlh_Latn	My mother will attend to the baby while I go to the dance.	jImI'rup
 eng	tlh_Latn	My mum likes tea very much.	Dargh parHa'qu' SoSoy.
 eng	tlh_Latn	My muscles have got soft.	tunchoHpu' SomrawDu'wIj.
 eng	tlh_Latn	My name is Dilshad.	DIlSaD 'oH pongwIj'e'.
+eng	tlh_Latn	My name is Mary.	me'rIy 'oH pongwIj'e'.
 eng	tlh_Latn	My name is Omid.	'omID 'oH pongwIj'e'.
 eng	tlh_Latn	My name links me with my ancestors.	jIH no'wI' je rar pongwIj.
 eng	tlh_Latn	My neck still hurts.	'oy'taH mongwIj.
@@ -4615,9 +4781,11 @@ eng	tlh_Latn	Older carpets are more valuable than newer carpets.	tlhIm ngo' lo'l
 eng	tlh_Latn	Old people walk slowly.	QIt yIt ghotpu' qan.
 eng	tlh_Latn	Once gone, you will never get it back.	DachDI', not Datlhapqa'laH.
 eng	tlh_Latn	One day he helped a weak turtle.	wa' jaj la'SIv puj QaH.
+eng	tlh_Latn	One day, Mary revealed to Tom that she was an extraterrestrial shapeshifter who had come to Earth several hundred years ago to study humanity.	wa' jaj tamvaD DISpu' tam; jatlh: varghwI' nov jIH 'ej Human pu' vIHaDmeH 'op vatlh ben tera' vISuchta'.
 eng	tlh_Latn	One gives away apples and pears, and not gold and green forests.	per naHmey, 'epIl naHmey je lunoblu' 'a qol'om, ngemmey SuD je lunobbe'lu'.
 eng	tlh_Latn	One is Japanese and the other is Italian.	nIponngan ghaH wa''e' 'ej 'Italya'ngan ghaH latlh'e'.
 eng	tlh_Latn	One language will never be enough.	not yap wa' Hol.
+eng	tlh_Latn	One lives but once in the world.	qo'Daq wa'logh neH yInlu'.
 eng	tlh_Latn	One milliard adults are illiterate.	laDlaHbe' wa'SanID 'uy' nenwI'pu'.
 eng	tlh_Latn	One must love one's neighbor.	jIlDaj parHa'nISlu'.
 eng	tlh_Latn	One of my friend's dogs is fat.	pI' jupwI' wa' Ha'DIbaH.
@@ -4646,11 +4814,13 @@ eng	tlh_Latn	Our hero claims a warrior's heart.	vaj tIq maq Subma'.
 eng	tlh_Latn	Our house is burning and we look elsewhere.	meQtaH juHmaj 'ej latlh lurgh wIbej.
 eng	tlh_Latn	Our house, our rules.	chutmaj ghaj tuqmaj.
 eng	tlh_Latn	Our house started to shake.	jelchoH juH qachmaj.
+eng	tlh_Latn	Our planet is sick.	rop yuQmaj.
 eng	tlh_Latn	Our problem is the opposite.	Dop Dochmaj qay'.
 eng	tlh_Latn	Our restaurant is better than that restaurant.	Qe'maj QaQ law' Qe'vetlh QaQ puS.
 eng	tlh_Latn	Our school is larger than theirs.	DuSaQmaj tIn law' DuSaQchaj tIn puS.
 eng	tlh_Latn	Our school library has many books.	DuSaQmaj paqghomDaq paqmey law' tu'lu'.
 eng	tlh_Latn	Our ship wasn't damaged in the battle.	qaStaHvIS may' Dujmaj QIHlu'be'.
+eng	tlh_Latn	Our teacher is tired.	Doy' ghojmoHwI'ma'.
 eng	tlh_Latn	Our team lost.	luj ghommaj.
 eng	tlh_Latn	Our train leaves at eight-thirty.	rep chorgh wejmaH tlheD lupwI' mIrmaj.
 eng	tlh_Latn	Our troops engaged with the enemy.	jagh HIvta' QaSmaj.
@@ -4673,6 +4843,7 @@ eng	tlh_Latn	Perhaps we could find a substitute.	chaq lIw wItu'laH.
 eng	tlh_Latn	Peter is a merry fellow.	loD Quch ghaH pIter'e'.
 eng	tlh_Latn	Pick up the pencil from the floor.	ravvo' ghojmeH ghItlhwI' yIwoH!
 eng	tlh_Latn	Planets orbit the sun.	jul lubav yuQmey.
+eng	tlh_Latn	Plants use chlorophyll to produce energy.	HoS luchenmoHmeH namchIl lulo' San'emDermey.
 eng	tlh_Latn	Please allow me to carry your bag.	buqlIj vIqeng 'e' yIchaw'neS!
 eng	tlh_Latn	Please be sure to close the windows before you go out.	bImejpa' Qorwaghmey yISoQmoHchu'neS!
 eng	tlh_Latn	Please bring me a glass of water.	bIQ HIvje' HIqemneS.
@@ -4753,6 +4924,7 @@ eng	tlh_Latn	Prices have gone down.	qutlhchoH qav'ap.
 eng	tlh_Latn	Princesses don't poop.	qeQ lughImbe' ta' puqbe'.
 eng	tlh_Latn	Princesses don't poop.	qeQ luvujbe' ta' puqbe'.
 eng	tlh_Latn	Probably not.	ghaytan 'oHbe'.
+eng	tlh_Latn	Progress is not inevitable.	qaSbejbe' Ser.
 eng	tlh_Latn	Promise me you won't get mad if I tell you.	qaja'chugh bIQeHchoHbe' 'e' yIlay'!
 eng	tlh_Latn	Proverbs are an ornamentation of speech.	QIch lu'IHmoH vIttlheghmey.
 eng	tlh_Latn	Proverbs are still very popular in America.	wej 'amerI'qa' SepjIjQa'Daq QatHa'choHpu' vIttlheghmey.
@@ -4774,6 +4946,7 @@ eng	tlh_Latn	Put your hand over your mouth when you cough, sneeze or yawn.	bItuS
 eng	tlh_Latn	Put your hat on.	mIwlIj yItuQmoH.
 eng	tlh_Latn	Put your pants on.	yopwaHlIj yItuQmoH.
 eng	tlh_Latn	Qo'noS is the home planet of the Klingons.	tlhInganpu' juHqo' 'oH Qo'noS'e'.
+eng	tlh_Latn	Quit acting like an idiot.	qoH DaDa 'e' yImev!
 eng	tlh_Latn	Rage yields weapons.	nuHmey chenmoH QeH.
 eng	tlh_Latn	Rain is likely to start.	ghaytan SISchoH.
 eng	tlh_Latn	Raise your hand.	ghoplIj yIpep!
@@ -4782,6 +4955,7 @@ eng	tlh_Latn	Really?	teH'a'?
 eng	tlh_Latn	Regarding humankind...	Humanpu' bopchugh...
 eng	tlh_Latn	Remind me later.	ghIq HIqawmoH!
 eng	tlh_Latn	Remove your coat and empty your pockets.	weplIj yItuQHa'moH 'ej buqmeylIj yIchImmoH!
+eng	tlh_Latn	Removing this ivy could take some time.	chaq 'arDeHvam teqmeH 'ut poH nI'.
 eng	tlh_Latn	Respect your elders.	quppu'lI' tIvuv!
 eng	tlh_Latn	Respect yourself and you will be respected.	bIvuv'eghchugh Davuvlu'bej.
 eng	tlh_Latn	Revenge is a dish best served cold.	bortaS bIr jablu'DI' reH QaQqu' nay'.
@@ -4797,6 +4971,7 @@ eng	tlh_Latn	Run fast!	nom yIqet!
 eng	tlh_Latn	Run!	peqet!
 eng	tlh_Latn	Run!	yIqet!
 eng	tlh_Latn	Russia will be controlled by motorcyclists!	raSya''e' luche'bej nguSDI' qam Do Duj chIjwI'pu'.
+eng	tlh_Latn	Russia will be free!	tlhab raSya'!
 eng	tlh_Latn	Sadly, many Japanese people died.	Do'Ha' Hegh nIpon nganpu' law'.
 eng	tlh_Latn	Sami and Layla have never been to that restaurant.	not Qe'vetlh lujaHpu' Sa'mIy, leyla je.
 eng	tlh_Latn	Sami and Layla went to a restaurant.	Qe' lujaH Sa'mIy, leyla je.
@@ -4949,6 +5124,7 @@ eng	tlh_Latn	She heated up the cold soup for supper.	'uQ vutmeH chatlh bIr ghunq
 eng	tlh_Latn	She ignored him until he became rich.	mIpchoHpa' ghaH buSHa'pu'.
 eng	tlh_Latn	She intends to participate in a beauty contest.	'IH qaD jeS 'e' Hech ghaH.
 eng	tlh_Latn	She introduced the lady to me.	jIHvaD joH lIHpu'.
+eng	tlh_Latn	She is a coward.	nuch ghaH.
 eng	tlh_Latn	She is afraid of cats.	lughIj vIghro'mey.
 eng	tlh_Latn	She is aggressive.	vaQ.
 eng	tlh_Latn	She is a girl.	be'Hom ghaH.
@@ -4996,7 +5172,9 @@ eng	tlh_Latn	She is not up yet.	wej Hu'.
 eng	tlh_Latn	She is now eighty-one years old.	DaH chorghmaH wa' ben boghpu'.
 eng	tlh_Latn	She isn't lonely now.	DaH mobbe'.
 eng	tlh_Latn	She isn't married.	wej nay.
+eng	tlh_Latn	She isn't very horny.	Huyqu'be'.
 eng	tlh_Latn	She isn't young.	Qupbe'.
+eng	tlh_Latn	She is sad.	'IQ.
 eng	tlh_Latn	She is still in the kitchen.	wej vutpa' mejpu'.
 eng	tlh_Latn	She is still under age.	wej nen.
 eng	tlh_Latn	She is taller than you.	ghaH woch law' SoH woch puS.
@@ -5043,6 +5221,7 @@ eng	tlh_Latn	She looks like her mother.	SoSDaj rur.
 eng	tlh_Latn	She looks very young.	Qupqu'law'.
 eng	tlh_Latn	She loves bone marrow.	melchoQ parHa'qu'.
 eng	tlh_Latn	She loves coffee.	qa'vIn muSHa'.
+eng	tlh_Latn	She loves fish.	ghotI' muSHa'.
 eng	tlh_Latn	She loves him all the more because he has faults.	pIchmey ghajmo' muSHa'qu'.
 eng	tlh_Latn	She made a great discovery while yet a young student.	ghojwI' Qup ghaHtaHvIS vay' Dun tu'pu'.
 eng	tlh_Latn	She married him.	ghaH nayta'.
@@ -5070,6 +5249,7 @@ eng	tlh_Latn	She remembers her long journey.	lengDaj nI' qaw.
 eng	tlh_Latn	She repeated her name slowly.	QIt pongDaj jatlhqa'.
 eng	tlh_Latn	She resembles her aunt.	'e'mamDaj rur.
 eng	tlh_Latn	She resembles her aunt.	me'Daj rur.
+eng	tlh_Latn	She's a coward.	nuch ghaH.
 eng	tlh_Latn	She's a girl.	be'Hom ghaH.
 eng	tlh_Latn	She said I am the one, but the kid is not my son.	ghaH'e' jIH 'e' maqta', 'ach puqloDwI' ghaHbe' puqvetlh'e'.
 eng	tlh_Latn	She said something to him.	ghaHvaD vay' jatlh.
@@ -5086,6 +5266,7 @@ eng	tlh_Latn	She's caused me a lot of trouble.	jIHvaD Sengqu'pu'.
 eng	tlh_Latn	She's cooking.	vutlI'.
 eng	tlh_Latn	She's destroying her clothes.	SutDaj chenHa'moHlI'.
 eng	tlh_Latn	She's dishonest.	yuD.
+eng	tlh_Latn	She's drinking a glass of white wine.	ghIrep naH HIq chIS HIvje' tlhutlhtaH.
 eng	tlh_Latn	She searched her pockets for the key.	yopwaH buqmeyDajDaq ngaQHa'moHwI' nejtaH.
 eng	tlh_Latn	She seems to be unhappy.	QuchHa'law'.
 eng	tlh_Latn	She's eleven years old.	wa'maH wa' ben boghpu'.
@@ -5093,6 +5274,7 @@ eng	tlh_Latn	She sells shoes.	waqmey ngev.
 eng	tlh_Latn	She's giving each child two apples.	Hoch puqvaD cha' 'epIl naH noblI'.
 eng	tlh_Latn	She's giving each child two apples.	Hoch puqvaD cha' 'epIl naH noblI' ghaH.
 eng	tlh_Latn	She's going too far in her demands.	tlhoy qap.
+eng	tlh_Latn	She's going to the hotel now.	DaH mebpa'mey jaHlI'.
 eng	tlh_Latn	She's got a cat. The cat's white.	wa' vIghro' ghaj. chIS vIghro'vam.
 eng	tlh_Latn	She's heating the water.	bIQ tujmoHtaH.
 eng	tlh_Latn	She showed him the photo.	ghaHvaD mIllogh cha'.
@@ -5119,6 +5301,7 @@ eng	tlh_Latn	She's online; what do I do?	'InternetDaq ghaHtaH. nuq vIta'nIS'a'?
 eng	tlh_Latn	She's only interested in fish and cockroaches.	ghaHvaD Daj ghotI' ghew je neH.
 eng	tlh_Latn	She's our neighbor.	jIlma' ghaH.
 eng	tlh_Latn	She speaks Hungarian.	maDyar Hol jatlh ghaH.
+eng	tlh_Latn	She speaks Japanese.	nIpon Hol jatlh.
 eng	tlh_Latn	She speaks Portuguese.	portughal Hol jatlh ghaH.
 eng	tlh_Latn	She speaks quickly.	nom jatlh.
 eng	tlh_Latn	She speaks Spanish.	'eSpanya' Hol jatlh.
@@ -5140,6 +5323,7 @@ eng	tlh_Latn	She's trusted by everyone, isn't she?	ghaH voq Hoch qar'a'?
 eng	tlh_Latn	She studies English.	DIvI' Hol HaD.
 eng	tlh_Latn	She's two years older than I am.	jIboghDI' cha' ben boghpu'.
 eng	tlh_Latn	She succeeded in getting him to tell the truth.	ghaH vItmoHchu'ta'.
+eng	tlh_Latn	She suffers because of me.	jIHmo' bech.
 eng	tlh_Latn	She's wearing red.	Doqqu' Sut tuQtaHbogh.
 eng	tlh_Latn	She's wearing sunglasses.	mIn QanwI' nguv tuQtaH.
 eng	tlh_Latn	She's well known as a singer.	bomwI' noy ghaH.
@@ -5171,6 +5355,7 @@ eng	tlh_Latn	She wanted to be alone.	mob neH.
 eng	tlh_Latn	She wanted to meet you.	Dughomta' neH ghaH.
 eng	tlh_Latn	She wants a new dress badly.	HIp chu' neHqu'.
 eng	tlh_Latn	She wants a new dress badly.	paH chu' neHqu'taH.
+eng	tlh_Latn	She wants water.	bIQ neH.
 eng	tlh_Latn	She was always quarreling with her brothers.	reH Sol ghaH loDnI'pu'Daj je.
 eng	tlh_Latn	She was beautiful in her time.	be' Qup ghaHtaHvIS 'IH.
 eng	tlh_Latn	She was being carried to the hospital.	ropyaH qachDaq ghaH qenglu'lI'.
@@ -5200,6 +5385,7 @@ eng	tlh_Latn	She went to Italy to study music.	QoQ HaDmeH 'Italya' jaH.
 eng	tlh_Latn	She went to Italy to study music.	QoQ HaDmeH 'Italya' jaHta'.
 eng	tlh_Latn	She will be famous in the future.	'opleS noybej ghaH.
 eng	tlh_Latn	She will be seventeen next year.	wa'nem wa'maH Soch ben boghpu'.
+eng	tlh_Latn	She will eat it.	'oH Sopbej.
 eng	tlh_Latn	She will leave the hospital soon.	tugh ropyaH qach mej.
 eng	tlh_Latn	She woke up.	vempu'.
 eng	tlh_Latn	She wore a plain blue dress.	SuDbogh paH nap tuQ.
@@ -5214,6 +5400,7 @@ eng	tlh_Latn	Shoes are required.	waq lutuQnISlu'.
 eng	tlh_Latn	Should I tell them the truth?	chaHvaD jIvItnIS'a'?
 eng	tlh_Latn	Shouldn't we turn the heaters off?	tujmoHwI'mey DIchu'Ha'nISbe''a'?
 eng	tlh_Latn	Should we intervene?	mamun'a'?
+eng	tlh_Latn	Shove it up your butt.	Sa'HutlIjDaq yIvev!
 eng	tlh_Latn	Show it to me on the map.	pu'jInDaq 'oH HI'ang!
 eng	tlh_Latn	Show me the picture.	mIllogh HIcha'.
 eng	tlh_Latn	Show me the way, will you?	He HI'ang, DuH'a'?
@@ -5264,6 +5451,7 @@ eng	tlh_Latn	Some people say they can predict the future.	pIq luQIjlaHchu' 'op n
 eng	tlh_Latn	Some people seem to have forgotten what it was like before the war.	noH nungbogh ghu''e' lIjlaw'pu' 'op.
 eng	tlh_Latn	Some people think of reading as a waste of time.	laDlu'chugh poH lo'Ha' 'e' luQub 'op nuv.
 eng	tlh_Latn	Some people think you cannot overpraise a child.	tlhoy puq naDlaHbe' vay' 'e' luQub 'op nuv.
+eng	tlh_Latn	Some students walk to school, and others ride their bicycles.	DuSaQ ghoSmeH yIt 'op ghojwI'pu' 'ej qam Do Dujchaj lo' latlh.
 eng	tlh_Latn	Something made them angry.	luQeHmoHlu'pu'.
 eng	tlh_Latn	Something on that machine must be broken.	QapHa'law' janvam.
 eng	tlh_Latn	Something's not right.	Qapchu'be' vay'.
@@ -5330,6 +5518,7 @@ eng	tlh_Latn	Suddenly, it rained.	pay' SIS.
 eng	tlh_Latn	Suddenly, something unexpected happened.	pay' qaS wanI' pIHlu'be'bogh.
 eng	tlh_Latn	Sue picked up a pencil off the floor.	ravvo' ghojmeH ghItlhwI' woHta' Su.
 eng	tlh_Latn	Sunglasses protect our eyes from the sun.	mInDu'maj rIQmoHbe'meH jul, Qan mIn QanwI' nguv.
+eng	tlh_Latn	Superman can bend iron.	'uSqan SIHmoHlaH Su'perman.
 eng	tlh_Latn	Surgery was required.	HaqnISlu'.
 eng	tlh_Latn	Surrender or die!	bIjeghbe'chugh vaj bIHegh!
 eng	tlh_Latn	Sweet dreams!	bInajtaHvIs qeylIS Daghomjaj!
@@ -5469,6 +5658,7 @@ eng	tlh_Latn	That's my car!	puH DujwIj 'oH!
 eng	tlh_Latn	That's my cat.	vIghro'wIj 'oH.
 eng	tlh_Latn	That's not a bear anymore. That's bear goo.	mIl'oD mojHa'pu'. DaH mIl'oD chatlh 'oH.
 eng	tlh_Latn	That's not a bear anymore. That's bear goo.	mIl'oD mojHa'pu'. DaH mIl'oD HuH 'oH.
+eng	tlh_Latn	That's not a journal.	QonoS 'oHbe'.
 eng	tlh_Latn	That's not cheap.	qutlhbe' 'oH.
 eng	tlh_Latn	That's not cool!	chongbe'!
 eng	tlh_Latn	That's not difficult.	Qatlhbe'.
@@ -5545,6 +5735,7 @@ eng	tlh_Latn	The beautiful girl is in bed.	QongDaqDaq ghaHtaH be'Hom 'IH'e'.
 eng	tlh_Latn	The belt is brown.	Qaj wuS rur qogh.
 eng	tlh_Latn	The bird flapped its wings.	telDu'Daj laqmoH bo'Degh.
 eng	tlh_Latn	The bird is in the sky.	chalDaq 'oHtaH bo'Degh'e'.
+eng	tlh_Latn	The black hole devoured the star.	Hov Soppu' luSpet.
 eng	tlh_Latn	The blood of heroes flows in my veins.	Subpu' 'Iw ngaS 'aDDu'wIj.
 eng	tlh_Latn	The book isn't new.	chu'be' paq.
 eng	tlh_Latn	The book is old.	ngo' paq.
@@ -5620,6 +5811,7 @@ eng	tlh_Latn	The chambermaid will bring you some soap.	SoHvaD Say'moHwI' tlhagh 
 eng	tlh_Latn	The child got angry and struck at his mother.	QeHchoH puq 'ej SoSDaj qIp.
 eng	tlh_Latn	The child is dirty.	lamtaH puq.
 eng	tlh_Latn	The child pretended that it was asleep.	QongtaH 'e' ghet puq.
+eng	tlh_Latn	The children learned how to knit.	nIqmeH mIw lughoj puqpu'.
 eng	tlh_Latn	The children take care of that dog.	qovIjvetlh luQorgh puqpu'.
 eng	tlh_Latn	The children washed their feet.	qamDu'chaj Say'moH puqpu'.
 eng	tlh_Latn	The children were playing in the backyard.	'em yotlhDaq reHtaH puqpu'.
@@ -5641,14 +5833,17 @@ eng	tlh_Latn	The coach's advice saved us.	nutoDpu' qeqmoHwI' qeS.
 eng	tlh_Latn	The cold air revived her.	ghanchoHmoH rewve' bIr.
 eng	tlh_Latn	The cold wind is blowing from the sea.	bIQ'a'vo' ghoStaH SuS bIr.
 eng	tlh_Latn	The company abandoned that project.	jInmolvetlh lonpu' DIvI'.
+eng	tlh_Latn	The competition begins at 7 pm.	Sochvatlh rep tagh qaD.
 eng	tlh_Latn	The computer is new.	chu' De'wI'.
 eng	tlh_Latn	The concept doesn’t make sense.	Dap 'oH qechvam'e'.
 eng	tlh_Latn	The country was gearing up for war.	noH ghuHchoHlI' Sep.
 eng	tlh_Latn	The court found him guilty.	DIv ghaH 'e' wuq bo'DIj.
 eng	tlh_Latn	The coward is the first to raise his fist.	ro'Daj pepbogh wa'DIch'e' ghaH nuch'e'.
+eng	tlh_Latn	The creature looked like a gnome.	SIqnaSwaq rur Depvetlh.
 eng	tlh_Latn	The crew abandoned the ship.	Duj lonpu' beq.
 eng	tlh_Latn	The crew is now opening the hatch.	DaH lojmIt poSmoHlI' beq.
 eng	tlh_Latn	The criminal confessed to theft.	nIHpu' 'e' chID HeSwI'.
+eng	tlh_Latn	The cucumber is green.	SuDqu' tera' peb'ot.
 eng	tlh_Latn	The customer is always right.	reH lugh je'wI'.
 eng	tlh_Latn	The dagger penetrated his heart.	tIqDaj DuQ taj.
 eng	tlh_Latn	The damage will cost us a lot of money.	QIH wIDIlqu'nIS.
@@ -5679,10 +5874,12 @@ eng	tlh_Latn	The door is closing.	SoQchoHlI' lojmIt.
 eng	tlh_Latn	The door is opening now.	DaH poSchoHlI' lojmIt.
 eng	tlh_Latn	The door is open now.	DaH poStaH lojmIt.
 eng	tlh_Latn	The door is open.	poS lojmIt.
+eng	tlh_Latn	The door is red.	Doq lojmIt.
 eng	tlh_Latn	The door was closed.	SoQtaH lojmIt.
 eng	tlh_Latn	The door will not open; the lock must be out of order.	poSchoHlaHbe' lojmIt. ghaytan QapHa' ngaQmeH jan.
 eng	tlh_Latn	The dragon is an imaginary creature.	Dep ngeb 'oH lung'e'.
 eng	tlh_Latn	The driver overtook the car.	puH Duj juS chIjwI'.
+eng	tlh_Latn	The earth is sick.	rop tera'.
 eng	tlh_Latn	The earth travels in an orbit around the sun.	tera' jul bav tera'.
 eng	tlh_Latn	The east was brightened by the rising sun.	chan wovmoHtaH jenchoHtaHbogh jul.
 eng	tlh_Latn	The emperor has no clothes.	pagh tuQtaH ta'.
@@ -5706,12 +5903,14 @@ eng	tlh_Latn	The framework of the new building is progressively appearing.	DaH c
 eng	tlh_Latn	The fridge is completely empty.	chImchu' DeSwar bIr.
 eng	tlh_Latn	The fridge was completely empty.	chImchu' DeSwar bIr.
 eng	tlh_Latn	The frog came out of the water.	bIQvo' tlheDpu' lungHom.
+eng	tlh_Latn	The fruits of the strawberry tree are very sweet.	na'ran lururqu' Sutra'ber Sor naHmey.
 eng	tlh_Latn	The girl is jumping.	SuptaH be'Hom.
 eng	tlh_Latn	The girl released the birds from the cage.	mo'vo' bo'Deghmey tlhabmoH be'Hom.
 eng	tlh_Latn	The girl talked to trees.	SormeyvaD jatlhtaH be'.
 eng	tlh_Latn	The girl was aware of the danger.	Qobvetlh Sov be'Hom.
 eng	tlh_Latn	The girl wearing the blue coat is my daughter.	puqbe'wI' ghaH wep SuD tuQbogh be'Hom'e'.
 eng	tlh_Latn	The glass got broken.	HIvje' ghorlu'.
+eng	tlh_Latn	The goddess exists.	Qun be' tu'lu'.
 eng	tlh_Latn	The goggles protect your eyes from dust.	mInDu'lIj Qan neqratlhvetlh, Say'qIS botmo'.
 eng	tlh_Latn	The grapes are getting mature.	DaH DeHchoHlI' ghIrep naHmey.
 eng	tlh_Latn	The grapes are sour.	wIb ghIrep naHmeyvam.
@@ -5763,6 +5962,7 @@ eng	tlh_Latn	The lemon has a flavor all of its own.	tera' na'ran wIb wejwa' ghaj
 eng	tlh_Latn	The lemon is a sour fruit.	naH wIb 'oH tera' na'ran wIb.
 eng	tlh_Latn	The length of this ship is 30 meters.	wa'maH 'uj'a' 'aD Dujvam.
 eng	tlh_Latn	The letter has just arrived.	DaH paw nav QIn.
+eng	tlh_Latn	The light disappeared.	ngab tamghay.
 eng	tlh_Latn	The little girl doesn't like to wear shoes.	waq tuQ 'e' par be'Hom Qup.
 eng	tlh_Latn	The living are more valuable than the dead.	yInwI' lo'laH law' lom lo'laH puS.
 eng	tlh_Latn	The Lord gave and the Lord has taken.	nobpu' Qun'a' 'ej nge'pu' Qun'a'.
@@ -5779,6 +5979,7 @@ eng	tlh_Latn	The man put the gun against his forehead and squeezed the trigger.	
 eng	tlh_Latn	The man wanted water again, but there was just a little bit.	bIQ neHqa' loD, 'ach puS neH.
 eng	tlh_Latn	The man was eating bread.	tIr ngogh SoptaH loD.
 eng	tlh_Latn	The man wore a gun on his hip.	'IvtIHDajDaq HIch tuQ loD.
+eng	tlh_Latn	The maximum cruising speed of this airplane is Mach 3.	wabDo wej 'oH muD Dujvam 'aqroS qughDo'e'.
 eng	tlh_Latn	The meat is frozen.	taD Ha'DIbaH.
 eng	tlh_Latn	The meat will spoil quickly in such hot weather.	muD Dotlhvam tujmo' nom nonchoH Ha'DIbaH.
 eng	tlh_Latn	The meeting ended at three in the afternoon.	rep wa'maH vagh qep vanlu'.
@@ -5794,6 +5995,7 @@ eng	tlh_Latn	The moment she heard the news of her son's death, she burst into te
 eng	tlh_Latn	The moon came out from behind the cloud.	'eng 'emvo' ghoSpu' maS.
 eng	tlh_Latn	The moon goes round the earth once a month.	ngIq tera' jar wa'logh tera' bavchu' tera' maS.
 eng	tlh_Latn	The moon is lighting the room.	pa' wovmoHtaH maS.
+eng	tlh_Latn	The moon isn't hollow, Tom.	woDbe' maS, tam.
 eng	tlh_Latn	The moon is shining bright.	wovqu'moHtaH maS.
 eng	tlh_Latn	The moon rose above the hill.	HuDHom DungDaq Sal maS.
 eng	tlh_Latn	The more danger, the more honor.	ghurDI' Qob, ghur quv.
@@ -5838,6 +6040,7 @@ eng	tlh_Latn	The petals are floating on the water.	bIQDaq 'aytaH 'uma'mey.
 eng	tlh_Latn	The photographs are the same.	rap mIlloghmey.
 eng	tlh_Latn	The picture that you hung up yesterday afternoon fell down this morning.	DaHjaj po pum wa'Hu' pov mIllogh DaHuSta'bogh.
 eng	tlh_Latn	The pies are still cooking.	chabmey luvutlu'lI'; wej rIn.
+eng	tlh_Latn	The pith of an orange is rather bitter.	loQHa' wIb tera' na'ran naH SuqSIv.
 eng	tlh_Latn	The plane turned eastward.	chan ghoSchoHpu' puH Duj.
 eng	tlh_Latn	The plane was approaching London.	tuqjIjQa' mon ghoSlI' muD Duj.
 eng	tlh_Latn	The plane will arrive at three.	pawDI' muD Duj wejlogh Qoylu'pu'.
@@ -5868,6 +6071,7 @@ eng	tlh_Latn	There are almost no books.	tlhoS paqmey tu'lu'be'.
 eng	tlh_Latn	There are a lot of books in the library.	paq nojwI' qachDaq law' paqmey.
 eng	tlh_Latn	There are a lot of persons who try to buy a house.	qach je' 'e' lunIDbogh qabDu' law' tu'lu'.
 eng	tlh_Latn	There are a lot of rats.	law' chuSwI'.
+eng	tlh_Latn	There are books and a notebook on the desk.	ghItlh raSDaq paqmey gho paq je lutu'lu'.
 eng	tlh_Latn	There are books and books on the subject.	'oH bopbogh paqmey law', paqmey law' je tu'lu'.
 eng	tlh_Latn	There are fifty states in America.	'amerI'qa' SepjIjQa'Daq vaghmaH Sep tu'lu'.
 eng	tlh_Latn	There are four lights!	loS wovmoHwI' tu'lu'!
@@ -5888,6 +6092,7 @@ eng	tlh_Latn	The ref is going to end the game in two minutes.	qaSDI' cha' tup Qu
 eng	tlh_Latn	The region has never been inhabited by people.	paghlogh Sepvam luDab nuvpu'.
 eng	tlh_Latn	There is a basket under the table.	raS bIngDaq 'unwat tu'lu'.
 eng	tlh_Latn	There is a castle in my town.	vengwIjDaq ta'qach tu'lu'.
+eng	tlh_Latn	There is a goddess.	Qun be' tu'lu'.
 eng	tlh_Latn	There is a hole in his sock.	paSloghDajDaq QemjIq tu'lu'.
 eng	tlh_Latn	There is a house on the hill.	HuDDaq qach tu'lu'.
 eng	tlh_Latn	There is a little water in the bottle.	balDaq bIQ puS tu'lu'.
@@ -5919,9 +6124,11 @@ eng	tlh_Latn	There's a dog by the door.	lojmItDaq Ha'DIbaH tu'lu'.
 eng	tlh_Latn	There's a great variety of creatures living in the sea.	bIQ'a' luDabbogh mut Seghmey law' tu'lu'.
 eng	tlh_Latn	There's a large carpet on the floor.	rav veltaH tlhIm tIn'e'.
 eng	tlh_Latn	There's a little bit of water in the glass.	loQ HIvje'Daq bIQ tu'lu'.
+eng	tlh_Latn	There's a man selling food over there.	pa' Soj ngevbogh loD'e' tu'lu'.
 eng	tlh_Latn	There's another one in my bag.	buqwIjDaq latlh vIghajtaH.
 eng	tlh_Latn	There's a traitor among us.	maH muv maghwI'.
 eng	tlh_Latn	There's no film in this camera.	mIllogh qonwI'vamDaq qoSta' tu'lu'be'.
+eng	tlh_Latn	There's no need for her to go there herself.	pa' jaHnISqu'be' ghaH'e'.
 eng	tlh_Latn	There's no rush.	pavbe'.
 eng	tlh_Latn	There's no secret plan.	nab pegh tu'lu'be'.
 eng	tlh_Latn	There's no shortage of work.	nom tlhoy puS Qu'.
@@ -6002,6 +6209,7 @@ eng	tlh_Latn	The sickness has weakened your organism.	porghlIj pujmoHpu' rop.
 eng	tlh_Latn	The sky is blue.	SuD chal.
 eng	tlh_Latn	The sky is clear and the sun is bright.	Huv chal 'ej wov jul.
 eng	tlh_Latn	The sky was grey.	qIjtaH chal 'ach wovtaH.
+eng	tlh_Latn	The sky will remain overcast during the morning.	qaStaHvIS po chal lutlhoDchu'taH 'engmey.
 eng	tlh_Latn	The small boys rang the door bell and ran away.	lojmIt 'In lutlhaw'pu' loDHompu' Qup 'ej Haw'pu'.
 eng	tlh_Latn	The smell of dirty socks makes me want to throw up.	mu'emmoH paSlogh lam He'So'.
 eng	tlh_Latn	The snow compelled us to put off our departure.	matlheDpa' malumnIS peDtaHmo'.
@@ -6032,6 +6240,7 @@ eng	tlh_Latn	The suffix "da" is added to the noun "araba" to give the meaning of
 eng	tlh_Latn	The sun gives us heat and light every day.	Huch jaj tuj 'otlh je nunob jul.
 eng	tlh_Latn	The sun gives us light and heat.	nuwovmoH 'ej nutujmoH jul.
 eng	tlh_Latn	The sun goes down, the stars come out.	ngab jul, nargh Hov.
+eng	tlh_Latn	The sun has come out again.	narghqa' jul.
 eng	tlh_Latn	The sun having risen, I turned off the light.	narghpu'mo' jul, wovmoHwI' vIchu'Ha'.
 eng	tlh_Latn	The sun shines during the day; the moon during the night.	pem wovmoH jul; ram wovmoH maS.
 eng	tlh_Latn	The sun was covered up by a cloud blanket.	jul vel 'eng tlhIm.
@@ -6065,6 +6274,7 @@ eng	tlh_Latn	The tree is high.	woch Sorvam.
 eng	tlh_Latn	The trees are putting forth leaves.	pormey lIngtaH Sormey.
 eng	tlh_Latn	The trees here were all cut down by people.	naDev Hoch Sormey'e' chIpchu'ta' nuvpu'.
 eng	tlh_Latn	The turtle died.	Hegh la'SIv.
+eng	tlh_Latn	The TV isn't working well.	Qapqu'be' HaSta jIH.
 eng	tlh_Latn	The TV's stopped working.	QapHa'choHpu' HaSta jIH.
 eng	tlh_Latn	The two countries do not have diplomatic relations.	gharbe' cha' Sepvetlh.
 eng	tlh_Latn	The two daughters are different from each other.	rurbe'chuq cha' puqbe'pu'.
@@ -6101,6 +6311,7 @@ eng	tlh_Latn	The work is done.	Qu' ta'lu'ta'.
 eng	tlh_Latn	The world has changed.	choHpu' qo'.
 eng	tlh_Latn	The world is beautiful.	'IH qo'.
 eng	tlh_Latn	The world is full of gossipers and liars.	joSwI'pu' 'Iq nepwI'pu' 'Iq je ngaS qo'.
+eng	tlh_Latn	The world is sick.	rop qo'.
 eng	tlh_Latn	The world rests on the back of a great turtle.	la'SIv tIn DubDaq 'oHtaH qo''e'.
 eng	tlh_Latn	The world still has not found peace.	wej roj tu' qo'.
 eng	tlh_Latn	The wounded man writhed.	nogh loD rIQ.
@@ -6118,6 +6329,7 @@ eng	tlh_Latn	They are always short of money.	reH Huch luHutlh.
 eng	tlh_Latn	They are cousins, if I remember rightly.	vInpu' chaH 'e' vIHar.
 eng	tlh_Latn	They are dead.	Heghpu'.
 eng	tlh_Latn	They are generous with their money.	Huchchaj'e' qurHa'qu' chaH.
+eng	tlh_Latn	They are human.	Human chaH.
 eng	tlh_Latn	They are impatient.	boH.
 eng	tlh_Latn	They are in the teachers' room.	ghojmoHwI' pa'Daq chaHtaH.
 eng	tlh_Latn	They are my brothers.	loDnI'pu'wI' chaH.
@@ -6125,6 +6337,7 @@ eng	tlh_Latn	They are not at all interested.	SaHHa'qu' chaH.
 eng	tlh_Latn	They are not talking.	ja'chuqtaHbe' chaH.
 eng	tlh_Latn	They are not tired.	Doy'be' chaH.
 eng	tlh_Latn	They aren't rich.	mIpbe'.
+eng	tlh_Latn	They are people.	nuv chaH.
 eng	tlh_Latn	They are very old.	ngo'.
 eng	tlh_Latn	They are very old.	ngo' bIH.
 eng	tlh_Latn	They are very old.	qan chaH.
@@ -6156,6 +6369,7 @@ eng	tlh_Latn	They cried out together.	nItebHa' jach chaH.
 eng	tlh_Latn	They definitely heard me.	muQoybej.
 eng	tlh_Latn	They did not enter.	lu'elbe'.
 eng	tlh_Latn	They did not listen.	'Ijbe' chaH.
+eng	tlh_Latn	They didn't have a cat.	vIghro' lughajbe'.
 eng	tlh_Latn	They didn't have real coffee, so they drank ersatz.	qa'vInna' lughajbe'mo', lIw lutlhutlh.
 eng	tlh_Latn	They did win.	Qapta' chaH.
 eng	tlh_Latn	They died one after another.	ngIq Hegh.
@@ -6217,6 +6431,8 @@ eng	tlh_Latn	They'll kill you!	nIHoH!
 eng	tlh_Latn	They'll understand.	yajbej.
 eng	tlh_Latn	They'll want Tom.	tam luneH.
 eng	tlh_Latn	They looked at each other.	bejchuq.
+eng	tlh_Latn	They loved them.	bIH muSHa' chaH.
+eng	tlh_Latn	They loved them.	chaH muSHa' chaH.
 eng	tlh_Latn	They made love to each other.	ngaghchuq.
 eng	tlh_Latn	They made their way toward the town.	veng lughoSlI'.
 eng	tlh_Latn	They may come.	chaq nughoS.
@@ -6232,6 +6448,7 @@ eng	tlh_Latn	They passed out.	vulchoHpu' chaH.
 eng	tlh_Latn	They pretend to be man and wife.	loDnal be'nal je chaH 'e' lughet.
 eng	tlh_Latn	They probably know.	ghaytan luSov.
 eng	tlh_Latn	They probably know.	ghaytan Sov.
+eng	tlh_Latn	They ran into Mary on the way to school.	DuSaQ lujaHtaHvIS, bong me'rIy lughom.
 eng	tlh_Latn	They're animals.	Ha'DIbaH bIH.
 eng	tlh_Latn	They're animals.	Ha'DIbaH chaH.
 eng	tlh_Latn	They're cleaning the beach.	bIQ'a' HeH lulamHa'choHmoHtaH.
@@ -6239,6 +6456,7 @@ eng	tlh_Latn	They're clearly not happy to be here.	naDev chaHtaH 'e' luparba'.
 eng	tlh_Latn	They're coming.	nughoSlI'.
 eng	tlh_Latn	They're drunk.	chech chaH.
 eng	tlh_Latn	They're evil.	mIgh.
+eng	tlh_Latn	They're fish.	ghotI' bIH.
 eng	tlh_Latn	They're foreigners.	novpu' chaH.
 eng	tlh_Latn	They're friends.	jup chaH.
 eng	tlh_Latn	They're here because they're my friends.	juppu'wI' chaHmo' naDev chaHtaH.
@@ -6265,6 +6483,7 @@ eng	tlh_Latn	They're probably together.	ghaytan tay'.
 eng	tlh_Latn	They're related to each other.	tuqnIghpu' chaH.
 eng	tlh_Latn	They're rich.	mIp.
 eng	tlh_Latn	They're rich.	mIp chaH.
+eng	tlh_Latn	They're sad.	'IQ.
 eng	tlh_Latn	They respect him.	luvuv.
 eng	tlh_Latn	They're staring at each other.	bejqu'chuqtaH.
 eng	tlh_Latn	They're stupid.	QIp.
@@ -6318,6 +6537,8 @@ eng	tlh_Latn	They were injured.	rIQ chaH.
 eng	tlh_Latn	They were not in class yesterday.	wa'Hu' paQDI'norgh lujeSbe'.
 eng	tlh_Latn	They were not speaking Spanish.	'eSpanya' Hol lujatlhtaHbe'.
 eng	tlh_Latn	They were ready for action.	ruchrup chaH.
+eng	tlh_Latn	They were really drunk.	chechqu'taH.
+eng	tlh_Latn	They were really drunk.	chechqu'taH chaH.
 eng	tlh_Latn	They were robbed of all their money.	Hoch HuchDaj Hejlu'ta'.
 eng	tlh_Latn	They were soldiers.	mangpu' chaH.
 eng	tlh_Latn	They were sure he would always fail.	reH luj ghaH 'e' luSovbej.
@@ -6329,6 +6550,7 @@ eng	tlh_Latn	They will fall in love with each other.	muSHa'chuqchoH chaH.
 eng	tlh_Latn	They will not pass!	luveghbe'bej!
 eng	tlh_Latn	They will protect you.	nIQan.
 eng	tlh_Latn	They would not surrender.	jeghbe'bej chaH.
+eng	tlh_Latn	Things got better slowly.	QIt Dub'eghtaH ghu'.
 eng	tlh_Latn	Think about it.	'e' yIqel.
 eng	tlh_Latn	Think, then speak.	peQub, ghIq pejatlh.
 eng	tlh_Latn	Think, then speak.	yIQub, ghIq yIjatlh.
@@ -6419,6 +6641,7 @@ eng	tlh_Latn	This is a medical emergency.	porghQeD chach 'oH.
 eng	tlh_Latn	This is an easy way.	ngeD mIwvam.
 eng	tlh_Latn	This is an emergency.	chach 'oH.
 eng	tlh_Latn	This is a picture that I drew.	mIllogh vIghItlhta'bogh 'oH.
+eng	tlh_Latn	This is artificial.	pargh Dochvam.
 eng	tlh_Latn	This is a sorcerer.	'IDnar pIn'a' ghaH nuvvam'e'.
 eng	tlh_Latn	This is a tree.	Sor 'oH Dochvam'e'.
 eng	tlh_Latn	This is a Turkish tradition.	turIqya' lurDech 'oH Dochvam'e'.
@@ -6433,6 +6656,7 @@ eng	tlh_Latn	This is gold.	qol'om 'oH Dochvam'e'.
 eng	tlh_Latn	This is her house.	juH qachDaj 'oH.
 eng	tlh_Latn	This is how he earned so much money.	vaj Huch law'qu' chavta'.
 eng	tlh_Latn	This is interesting.	Daj Dochvam.
+eng	tlh_Latn	This is interesting to me.	jIHvaD Daj Dochvam.
 eng	tlh_Latn	This is just pure evil.	mIghchu' neH 'oH.
 eng	tlh_Latn	This is most unfortunate.	Do'Ha'qu'.
 eng	tlh_Latn	This is my car.	puH DujwIj 'oH.
@@ -6477,11 +6701,13 @@ eng	tlh_Latn	This is why I hate him.	meqvammo' vImuS.
 eng	tlh_Latn	This is why I quit the job.	meqvammo' yaHwIjvo' jIbup.
 eng	tlh_Latn	This is, without a doubt, an embarrassing situation for me.	mutuHmoHbej ghu'vam.
 eng	tlh_Latn	This is your first assignment.	Qu'lIj wa'DIch 'oH Qu'vam'e'.
+eng	tlh_Latn	This is your guys' house.	juH qachraj 'oH.
 eng	tlh_Latn	This is your only chance.	'ebvam neH Daghaj.
 eng	tlh_Latn	This knife is very sharp.	jejqu' tajvam.
 eng	tlh_Latn	This knife was very useful to me.	jIHvaD lI'qu'pu' tajvam.
 eng	tlh_Latn	This land is your land.	SeplIj 'oH Sepvam'e'.
 eng	tlh_Latn	This little girl is my sister's friend.	be'nI'wI' jup ghaH be'Homvetlh run'e'.
+eng	tlh_Latn	This little trapezoid represents the ground.	puH 'oS qarpalvam mach.
 eng	tlh_Latn	This loaf of bread is big.	tIn tIr ngoghvam.
 eng	tlh_Latn	This man is a spy; he must die.	ghoqwI' ghaH loDvam'e'. Hegh 'e' vIpoQ.
 eng	tlh_Latn	This man is very, very old.	qan loDvam; QI'tu' rur.
@@ -6511,6 +6737,7 @@ eng	tlh_Latn	This room smells of gas.	pa'vamDaq SIp rur pIw.
 eng	tlh_Latn	This school was founded in 1970.	DIS wa'-Hut-Soch-pagh DuSaQvam cherlu'ta'.
 eng	tlh_Latn	This sentence contains an error.	Qagh ngaS mu'tlheghvam.
 eng	tlh_Latn	This sentence has to be deleted.	mu'tlheghvam ghItlhHa'nISlu'.
+eng	tlh_Latn	This sentence includes several errors.	'op Qagh ngaS mu'tlheghvam.
 eng	tlh_Latn	This sentence needs to be checked.	mu'tlheghvam nuDnISlu'.
 eng	tlh_Latn	This shouldn't be allowed.	Dochvam chaw'be'lu'jaj.
 eng	tlh_Latn	This singer is very popular with young people.	QupwI'pu'vaD Qatqu' bomwI'vam.
@@ -6533,6 +6760,7 @@ eng	tlh_Latn	This wasn't your fault.	pIch Daghajbe'.
 eng	tlh_Latn	This was quite cheap.	qutlhqu' 'oH.
 eng	tlh_Latn	This water is not cold.	bIrbe' bIQvam.
 eng	tlh_Latn	This water isn't cold.	bIrbe' bIQvam.
+eng	tlh_Latn	This will take a long time.	poH nI' poQbej Qu'vam.
 eng	tlh_Latn	This wine tastes corked!	HIqvam 'eyHa'moHlaw'pu' qorghwI'!
 eng	tlh_Latn	This wine tastes good.	'ey HIqvam.
 eng	tlh_Latn	This work must be finished by Monday.	qaSpa' DaSjaj Qu'vam ta'nISlu'pu'.
@@ -6562,8 +6790,8 @@ eng	tlh_Latn	Tie your shoes.	waqmeylIj tIbagh!
 eng	tlh_Latn	Time is the best medicine.	Hergh nIvqu' 'oH poH'e'.
 eng	tlh_Latn	Time: That which man is always trying to kill, but which ends in killing him.	poH: reH 'oH HoH 'e' nID Human, 'ach tagha' ghaH HoH 'oH.
 eng	tlh_Latn	To begin with, you must know yourself.	bI'reS bISov'eghnIS.
-eng	tlh_Latn	To be or not to be?	taH pagh taHbe'?
 eng	tlh_Latn	To be or not to be.	taH pagh taHbe'.
+eng	tlh_Latn	To be or not to be?	taH pagh taHbe'?
 eng	tlh_Latn	Today, I do not want to go to school.	DaHjaj DuSaQ vIjaH vIneHbe'.
 eng	tlh_Latn	Today is a good day to die.	Heghlu'meH QaQ jajvam.
 eng	tlh_Latn	Today is a hot day.	jaj tuj 'oH jajvam'e'.
@@ -6584,6 +6812,7 @@ eng	tlh_Latn	Tom almost cried.	tlhoS SaQ tam.
 eng	tlh_Latn	Tom almost fainted.	tlhoS vulchoH tam.
 eng	tlh_Latn	Tom almost laughed.	tlhoS Hagh tam.
 eng	tlh_Latn	Tom almost smiled.	tlhoS mon tam.
+eng	tlh_Latn	Tom and I have remained good friends.	juppu'na' maHtaH tam'e' jIH'e' je.
 eng	tlh_Latn	Tom and Mary are planning on getting a divorce.	tlhoghchaj luvaj 'e' lunab tam me'rIy' je.
 eng	tlh_Latn	Tom and Mary both have ponytails.	DaQ ghaj tam me'rIy' je.
 eng	tlh_Latn	Tom and Mary detest each other.	muSchuq tam me'rIy' je.
@@ -6610,6 +6839,7 @@ eng	tlh_Latn	Tom bounced the ball.	moQ 'etmoH tam.
 eng	tlh_Latn	Tom breaks everything.	Hoch ghor tam.
 eng	tlh_Latn	Tom broke everything.	Hoch ghor tam.
 eng	tlh_Latn	Tom brought plenty of food.	Soj law' qemta' tam.
+eng	tlh_Latn	Tom can ride a bike.	qam Do Duj lo'laH tam.
 eng	tlh_Latn	Tom can speak German as well as English.	DoyIchlan Hol DIvI' Hol je jatlhlaH tam.
 eng	tlh_Latn	Tom can't even ride a bicycle.	vabDot qam Do Duj chIjlaHbe' tam.
 eng	tlh_Latn	Tom can't get his ring off his finger.	nItlhDajvo' QebDaj tuQmoHHa'laHbe' tam.
@@ -6661,6 +6891,7 @@ eng	tlh_Latn	To me, he is like a king.	jIHvaD ta' rur.
 eng	tlh_Latn	Tom enjoys taking pictures.	mIlloghmey qon 'e' tIv tam.
 eng	tlh_Latn	Tom fell asleep on the train.	lupwI' mIrDaq QongchoH tam.
 eng	tlh_Latn	Tom felt a little dizzy.	loQ vertaH tam.
+eng	tlh_Latn	Tom filled Mary's glass again.	me'rIy HIvje' tebqa' tam.
 eng	tlh_Latn	Tom finished reading the book and returned it to Mary.	paq laDta' Tom 'ej MaryvaD nobHa'.
 eng	tlh_Latn	Tom found Mary.	me'rIy' Sam tam.
 eng	tlh_Latn	Tom found Mary.	me'rIy' tu' tam.
@@ -6689,6 +6920,7 @@ eng	tlh_Latn	Tom has put a cover on the pot.	'unDaq yuvtlhe' lanta' tam.
 eng	tlh_Latn	Tom has three cousins.	wej vInpu' ghaj tam.
 eng	tlh_Latn	Tom has three ex-wives.	wej be'nal Deq ghaj tam.
 eng	tlh_Latn	Tom has tied Mary's limbs with tape.	me'rIy ghamDu' baghmeH qoSta' lo'pu' tam.
+eng	tlh_Latn	Tom has two mothers.	cha' SoS ghaj tam.
 eng	tlh_Latn	Tom hated his mother.	SoSDaj muS tam.
 eng	tlh_Latn	Tom hated his own name.	pongDaj tlhIn muS tam.
 eng	tlh_Latn	Tom hated Mary.	me'rIy muS tam.
@@ -6725,8 +6957,10 @@ eng	tlh_Latn	Tom hit me twice.	cha'logh muqIp tam.
 eng	tlh_Latn	Tom is a cat.	vIghro' 'oH tam'e'.
 eng	tlh_Latn	Tom is afraid to tell the truth.	vItvIp tam.
 eng	tlh_Latn	Tom is a good boss.	pIn QaQ ghaH tam'e'.
+eng	tlh_Latn	Tom is always hunting.	reH wamtaH tam.
 eng	tlh_Latn	Tom is a man, and I'm a woman.	loD ghaH tam'e' 'ej be' jIH.
 eng	tlh_Latn	Tom is a man of absolute sincerity.	'Ilchu'bogh loD ghaH tam'e'.
+eng	tlh_Latn	Tom is an agricultural worker.	Satlh vumwI' ghaH tam'e'.
 eng	tlh_Latn	Tom is an arrogant piece of shit.	petaQ nguq ghaH tam'e'.
 eng	tlh_Latn	Tom is an arrogant prick.	petaQ nguq ghaH tam'e'.
 eng	tlh_Latn	Tom is an evil person.	nuv mIgh ghaH tam'e'.
@@ -6795,6 +7029,7 @@ eng	tlh_Latn	Tom isn't afraid to speak his mind.	Doch'e' Qubbogh jatlhvIpbe' tam
 eng	tlh_Latn	Tom isn't a lawyer.	chut qeSwI' ghaHbe' tam'e'.
 eng	tlh_Latn	Tom isn't a programmer.	ghunwI' ghaHbe' tam'e'.
 eng	tlh_Latn	Tom isn't charismatic.	loy'be' tam.
+eng	tlh_Latn	Tom isn't here. I wonder where he went.	naDev ghaHtaHbe' tam'e'. nuqDaq jaHpu' 'e' vISIv.
 eng	tlh_Latn	Tom isn't innocent.	chunbe' tam.
 eng	tlh_Latn	Tom isn't ready to tell the truth.	vItrupbe' tam.
 eng	tlh_Latn	Tom isn't real.	rorgh tam.
@@ -6851,6 +7086,7 @@ eng	tlh_Latn	Tom knows Mary.	me'rIy' Sov tam.
 eng	tlh_Latn	Tom knows Mary's husband.	me'rIy' loDnal Sov tam.
 eng	tlh_Latn	Tom lacks courage.	toDuj ghajbe' tam.
 eng	tlh_Latn	Tom lacks motivation to finish the job.	pIlbe'mo' tam, Qu' rInmoHlaHbe'.
+eng	tlh_Latn	Tom liked the food.	Soj parHa' tam.
 eng	tlh_Latn	Tom likes cheese.	nIm wIb ngogh parHa' tam.
 eng	tlh_Latn	Tom likes tea better than coffee.	Dargh maS tam; qa'vIn maSbe'.
 eng	tlh_Latn	Tom likes to eat turtles.	la'SIvmey Sop 'e' tIv tam.
@@ -6865,6 +7101,7 @@ eng	tlh_Latn	Tom looks old.	qanlaw' tam.
 eng	tlh_Latn	Tom looks serious.	Saghlaw' tam.
 eng	tlh_Latn	Tom looks young.	Quplaw' tam.
 eng	tlh_Latn	Tom loved bananas.	banan naHmey parHa'qu' tam.
+eng	tlh_Latn	Tom loves red wine.	ghIrep HIq Doq muSHa' tam.
 eng	tlh_Latn	Tom may be innocent.	chaq chun tam.
 eng	tlh_Latn	Tom may be sincere.	chaq 'Il tam.
 eng	tlh_Latn	Tom might be innocent.	chaq chun tam.
@@ -6872,6 +7109,7 @@ eng	tlh_Latn	Tom must be Mary's brother.	me'rIy' loDnI' ghaHba' tam'e'.
 eng	tlh_Latn	Tom must be rich.	mIpbej tam.
 eng	tlh_Latn	Tom needed surgery.	tam HaqnISlu'.
 eng	tlh_Latn	Tom needs a good lawyer.	chut qeSwI' po' poQ tam.
+eng	tlh_Latn	Tom needs to say no.	ghobe' jatlhnIS tam.
 eng	tlh_Latn	Tom never cheats.	not ngor tam.
 eng	tlh_Latn	Tom never confessed.	not DIS tam.
 eng	tlh_Latn	Tom never fails.	not QapHa' tam.
@@ -6906,6 +7144,7 @@ eng	tlh_Latn	Tom sat down.	ba'choH tam.
 eng	tlh_Latn	Tom sat down beside Mary.	me'rIy' retlhDaq ba'choH tam.
 eng	tlh_Latn	Tom's a vampire.	'Iw remwI' ghaH tam'e'.
 eng	tlh_Latn	Tom says he can't sleep.	jatlh tam jIQonglaHbe'.
+eng	tlh_Latn	Tom's cats love me.	mumuSHa' tam vIghro'mey.
 eng	tlh_Latn	Tom's coffee is good.	QaQ tam qa'vIn.
 eng	tlh_Latn	Tom's coffee mug is next to Mary's.	me'rIy' qa'vIn HIvje' retlhDaq 'oHtaH tam qa'vIn HIvje''e'.
 eng	tlh_Latn	Tom's eavesdropping.	DaqtaH tam.
@@ -6996,6 +7235,7 @@ eng	tlh_Latn	Tom was hot.	tuj tam.
 eng	tlh_Latn	Tom was injured.	rIQ tam.
 eng	tlh_Latn	Tom was innocent.	chun tam.
 eng	tlh_Latn	Tom was in the shower.	bIQ ghaywI' pa'Daq ghaHtaH tam.
+eng	tlh_Latn	Tom was killed by a stroke of lightning.	tam HoHpu' pe'bIl.
 eng	tlh_Latn	Tom was murdered by Mary.	tam chot me'rIy''e'.
 eng	tlh_Latn	Tom was nerdy.	ven tam.
 eng	tlh_Latn	Tom wasn't killed in Boston.	baStanDaq tam HoHlu'be'.
@@ -7037,6 +7277,7 @@ eng	tlh_Latn	Toss your gun on the ground.	yavDaq HIchlIj yIwoD!
 eng	tlh_Latn	To tell the truth, she is my niece.	lorbe'wI' ghaH; jIvIt.
 eng	tlh_Latn	Tracy lost her glasses.	neqratlhDaj chIlpu' tIrey'SIy.
 eng	tlh_Latn	Translate me! Translate me!	HImugh! HImugh!
+eng	tlh_Latn	Trees are living organisms.	yInbogh yaghmey bIH Sormey'e'.
 eng	tlh_Latn	Troops inside the walls were well protected.	QaDchu' yergho qoDDaq chaHbogh QaS'e'.
 eng	tlh_Latn	Trump looks like a fool.	qoH rur trump.
 eng	tlh_Latn	Trust your instincts.	DujlIj yIvoq.
@@ -7066,6 +7307,8 @@ eng	tlh_Latn	Two times two is four.	cha'logh boq'egh cha'; chen loS.
 eng	tlh_Latn	Two years ago, I studied English in England.	cha' ben tuqjIjQa'Daq DIvI' Hol vIghojtaH.
 eng	tlh_Latn	Unable to bear her miseries, she ran away from her husband.	SengmeyDaj SIQQo'mo', loDnalDajvo' narghta'.
 eng	tlh_Latn	Uncle asked: "What is three plus four?"	tlhob 'IrneH; «loS boq wej; chen 'ar?»
+eng	tlh_Latn	Uncle asked, "What is three plus four?"	tlhob 'IrneH; «loS boq wej; chen 'ar?» jatlh.
+eng	tlh_Latn	Understand your situation.	ghu'lIj yIyaj!
 eng	tlh_Latn	Unfortunately, I don't remember anything.	Do'Ha' pagh vIqaw.
 eng	tlh_Latn	Unfortunately, it's true.	Do'Ha' teH.
 eng	tlh_Latn	Unfortunately, she lives abroad.	Do'Ha' Daq nov Dab.
@@ -7073,8 +7316,10 @@ eng	tlh_Latn	Unfortunately, there was no one around.	Do'Ha' Sum pagh.
 eng	tlh_Latn	Upon a pear tree grows a pear.	per SorDaq DeHchoH per naH.
 eng	tlh_Latn	Use a scalpel, not a hatchet.	Haqtaj yIlo'! 'obmaQ yIlo'Qo'!
 eng	tlh_Latn	Use your feet.	qamDu'lIj tIlo'!
+eng	tlh_Latn	Use your phone.	ghogh HablI'lIj yIlo'!
 eng	tlh_Latn	Use your self-confidence, but never show it off!	yIjeQ, 'a yImIyQo'!
 eng	tlh_Latn	Vanity of vanities; all is vanity.	qeychu'! qey Hoch!
+eng	tlh_Latn	Vegetation is green because of the chlorophyll.	namchIlmo' SuD tI.
 eng	tlh_Latn	Very beautiful. Thank you very much!	'IHqu'. qatlho'qu'!
 eng	tlh_Latn	Very good job! Congratulations!	majQa'! Qapla'!
 eng	tlh_Latn	Vulcans have pointed ears.	QIn rur vulqangan qoghDu'.
@@ -7097,6 +7342,7 @@ eng	tlh_Latn	Watch us.	ghobej!
 eng	tlh_Latn	Water cannot be separated by hitting it with a stick.	bIQ qIplu'DI' naQ lo'lu'chugh chevbe'lu'.
 eng	tlh_Latn	Water changes into steam.	SeS moj bIQ.
 eng	tlh_Latn	Water consists of hydrogen and oxygen.	bIQSIp yInSIp je yugh bIQ.
+eng	tlh_Latn	Watering your ivy with cold water could shock its roots.	'arDeHDaq bIQ bIr lIchlu'chugh, chaq 'oQqarDaj yay'moH.
 eng	tlh_Latn	Water is made up of hydrogen and oxygen.	bIQ'e' luchenmoH bIQSIp yInSIp je.
 eng	tlh_Latn	Water turns into steam when it is boiled.	SeS moj bIQ pubDI'.
 eng	tlh_Latn	We abandoned the project because of a lack of funds.	Huch wIHutlhtaHmo' jInmol wIghangpu'.
@@ -7108,6 +7354,7 @@ eng	tlh_Latn	We all know that dogs like to gnaw on bones.	HomDu' choptaH 'e' lut
 eng	tlh_Latn	We all live under the same sky, but we don't all have the same horizon.	wa' chal bIngDaq mayIn, 'ach nIbbe' ghangwI'maj.
 eng	tlh_Latn	We also went to the temple.	chIrgh wIjaH je.
 eng	tlh_Latn	We appreciate his talent.	laHDaj wInaD.
+eng	tlh_Latn	We are Americans.	'amerI'qa' SepjIjQa' ngan maH.
 eng	tlh_Latn	We are capable of reason.	mameqlaH.
 eng	tlh_Latn	We are forty kilometers away from the capital city.	cha'maH qelI'qam 'aD mon maH je joj'e'.
 eng	tlh_Latn	We are God's wheat.	joH'a' tIr maH.
@@ -7152,6 +7399,7 @@ eng	tlh_Latn	We can't all be like Tom.	tam luDalaHbe' Hoch.
 eng	tlh_Latn	We can't get a break.	mayevlaHbe'.
 eng	tlh_Latn	We can't stand apart. We ought to do something.	retlhDaq maQambe'nIS maH. mavangnIS.
 eng	tlh_Latn	We can't start today.	DaHjaj mataghlaHbe'.
+eng	tlh_Latn	We can't trust the police.	ghan'Iq wIvoqlaHbe'.
 eng	tlh_Latn	We can win this war.	noHvam wIQaplaH.
 eng	tlh_Latn	We captured her.	wIjon.
 eng	tlh_Latn	We captured them.	DIjon.
@@ -7168,6 +7416,7 @@ eng	tlh_Latn	We dance together.	nItebHa' mamI'.
 eng	tlh_Latn	We deep-fried the turkey.	'uSgheb wImIQta'.
 eng	tlh_Latn	We demand actions, not words.	ta'mey DIpoQ; mu'mey DIpoQbe'.
 eng	tlh_Latn	We didn't agree to anything!	vay' wIchaw'be'pu'!
+eng	tlh_Latn	We didn't catch any fish today.	DaHjaj pagh ghotI' wIwampu'.
 eng	tlh_Latn	We didn't do a thing.	pagh wIta'.
 eng	tlh_Latn	We didn't expect guests.	mebpu' DIpIHbe'.
 eng	tlh_Latn	We didn't have TV in those days.	ngugh HaSta jIH wIghajbe'.
@@ -7204,12 +7453,14 @@ eng	tlh_Latn	We esteemed ourselves happy to have survived.	maHeghpu'be'mo' maDo'
 eng	tlh_Latn	We expect him to come back soon.	tugh chegh 'e' wIpIH.
 eng	tlh_Latn	We face you.	pIqaD.
 eng	tlh_Latn	We face you.	reqaD.
+eng	tlh_Latn	We fucked.	manga'chuq.
 eng	tlh_Latn	We gave them food.	bIHvaD Soj wInob.
 eng	tlh_Latn	We gave them food.	chaHvaD Soj wInob.
 eng	tlh_Latn	We give him an apple.	ghaHvaD 'epIl naH wInob.
 eng	tlh_Latn	We had a cat.	vIghro' wIghaj.
 eng	tlh_Latn	We had a good time at the beach yesterday.	wa'Hu' bIQ HeHDaq matIv'egh.
 eng	tlh_Latn	We had a little argument.	loQ wIjoppu' 'ej wIway'pu'.
+eng	tlh_Latn	We had sex.	manga'chuq.
 eng	tlh_Latn	We had to abandon our plan.	nabmaj wIlonnISpu'.
 eng	tlh_Latn	We had to cooperate with each other.	mayeqchuqnIS.
 eng	tlh_Latn	We had to take him by force.	pe'vIl wIjonnIS.
@@ -7224,6 +7475,7 @@ eng	tlh_Latn	We haven't yet begun to fight.	maSuv wej 'e' wItaghpu'.
 eng	tlh_Latn	We have reached our destination.	DaH ghochmaj wIpawta'.
 eng	tlh_Latn	We have something special for you, sir.	SoHvaD le'wI' wIghaj, qaH.
 eng	tlh_Latn	We have the opposite problem.	Dop Dochmaj qay'.
+eng	tlh_Latn	We have the same name.	pong rap wIghaj.
 eng	tlh_Latn	We have three airplanes.	wej muD Dujmey DIghaj.
 eng	tlh_Latn	We have to get him out of here.	naDevvo' ghaH wIlupnIS.
 eng	tlh_Latn	We have to save Tom.	tam wItoDnIS.
@@ -7302,6 +7554,7 @@ eng	tlh_Latn	We must warn him.	wIghuHnISmoH.
 eng	tlh_Latn	We must work hard to complete the project.	jInmol wInaQmoH pe'vIl mavumnIS.
 eng	tlh_Latn	We named my son after my grandfather.	puqloDwI'vaD wIpongmeH vavwI' pong wIlo'.
 eng	tlh_Latn	We need an intervention.	munnISlu'.
+eng	tlh_Latn	We need food, clothes and a home in order to live.	mayInmeH Soj, Sut, juH je DIghajnIS.
 eng	tlh_Latn	We need food, clothes and a home in order to live.	mayInmeH Soj, Sut juH je DIghojnIS.
 eng	tlh_Latn	We need medical supplies.	Hergh luch wIpoQ.
 eng	tlh_Latn	We need money.	Huch wIneH.
@@ -7345,6 +7598,7 @@ eng	tlh_Latn	We're heroes.	Sub maH.
 eng	tlh_Latn	We're hot.	matuj.
 eng	tlh_Latn	We're innocent.	machun.
 eng	tlh_Latn	We're jealous.	maghal.
+eng	tlh_Latn	We're Jews.	yISra'el nortlham maH.
 eng	tlh_Latn	We're leaving.	mamej.
 eng	tlh_Latn	We're leaving the day after tomorrow.	cha'leS matlheD.
 eng	tlh_Latn	We're looking for him now.	DaH wInejlI'.
@@ -7360,6 +7614,7 @@ eng	tlh_Latn	We're proud.	maHem.
 eng	tlh_Latn	We're responsible.	mangoy' maH.
 eng	tlh_Latn	We're rich.	mamIp.
 eng	tlh_Latn	We're ruthless.	mawIH.
+eng	tlh_Latn	We're saying "Thank you" to the great King.	voDleH DunvaD «pItlho'neS» majatlh.
 eng	tlh_Latn	We're selfish.	mamut.
 eng	tlh_Latn	We're sincere.	ma'Il.
 eng	tlh_Latn	We resist you.	pIqaD.
@@ -7400,9 +7655,11 @@ eng	tlh_Latn	We shipped the following to you last week.	wa' Hogh ret SoHvaD tepv
 eng	tlh_Latn	We should always act in obedience to the law.	Hochlogh mavangDI' chut wIlobnIS.
 eng	tlh_Latn	We should ask him.	ghaH wItlhobnIS.
 eng	tlh_Latn	We should definitely meet again soon.	tugh maghomnISqa'bej.
+eng	tlh_Latn	We should get going now.	DaH majaHnISchoH.
 eng	tlh_Latn	We should get ready for work.	mavumrupchoHnIS.
 eng	tlh_Latn	We should respect our parents.	SoSpu'ma' vavpu'ma' je DIvuvjaj.
 eng	tlh_Latn	We should worship our ancestors.	no'ma' wIquvmoHnIS.
+eng	tlh_Latn	We smashed.	manga'chuq.
 eng	tlh_Latn	We smiled at them.	bIHvaD mamon.
 eng	tlh_Latn	We smiled at them.	chaHvaD mamon.
 eng	tlh_Latn	We speak Turkish.	turIqya' Hol wIjatlh.
@@ -7483,6 +7740,7 @@ eng	tlh_Latn	What a cool car!	vIlqu' puH Dujvetlh!
 eng	tlh_Latn	What a good shot!	pupqu' bach!
 eng	tlh_Latn	What a haughty fellow he is!	'eDjenna' ghaH!
 eng	tlh_Latn	What alleviates the pain?	'oy'Ha'moH nuq?
+eng	tlh_Latn	What a nice butterfly!	'IHqu' Su'wan ghewvam!
 eng	tlh_Latn	What are they for?	ngoQchaj yIngu'!
 eng	tlh_Latn	What are you cross about?	qatlh bIberghtaH?
 eng	tlh_Latn	What are you doing?	nuq bota'taH.
@@ -7494,6 +7752,7 @@ eng	tlh_Latn	What are you learning?	nuq DaghojlI'?
 eng	tlh_Latn	What are you planning?	nuq DanablI'?
 eng	tlh_Latn	What are you reading?	nuq DaleghtaH?
 eng	tlh_Latn	What are you two doing?	nuq bota' cha'?
+eng	tlh_Latn	What beast dost thou think thou art? Art thou a hound or a rat?	Ha'DIbaH DaDalaw'bogh yIngu'! ngavyaw' SoH'a'? qorvIt SoH'a'?
 eng	tlh_Latn	What bicycle do you like more?	qam Do Duj DamaSqu'bogh yIngu'!
 eng	tlh_Latn	What book did you buy?	paq Daje'ta'bogh yIngu'!
 eng	tlh_Latn	What changes the world is communication, not information.	qo' choH Qum'e', choHbe' De''e'.
@@ -7515,6 +7774,7 @@ eng	tlh_Latn	What did you tell Tom?	tamvaD nuq Daja'ta'?
 eng	tlh_Latn	What did you think I was going to do?	nuq vIta' 'e' bopIH?
 eng	tlh_Latn	What does "Tatoeba" mean?	nuq 'oS «Tatoeba»?
 eng	tlh_Latn	What do I need to do now?	DaH nuq vIta'nIS?
+eng	tlh_Latn	What do they hope for?	nuq lutul?
 eng	tlh_Latn	What do we draw?	nuq wIDIj?
 eng	tlh_Latn	What do we need to do?	nuq wIta'nIS?
 eng	tlh_Latn	What do you call this animal in French?	vIraS Hol jatlhDI' Ha'DIbaHvamvaD nuq ponglu'?
@@ -7529,6 +7789,7 @@ eng	tlh_Latn	What do you think Tom is going to do?	nuq ta' tam 'e' DapIH?
 eng	tlh_Latn	What do you think Tom will be doing this time tomorrow afternoon?	wa'leS pov nuq ta'taH tam 'e' DaHar?
 eng	tlh_Latn	What do you usually have for breakfast?	roD nuq DaSop nIQ DaSopDI'?
 eng	tlh_Latn	What do you want, cat?	nuqneH, vIghro'?
+eng	tlh_Latn	"What do you want?" "Coffee."	"nuqneH?" "qa'vIn."
 eng	tlh_Latn	What do you want now?	DaH nuqneH?
 eng	tlh_Latn	What do you want?	nuqneH?
 eng	tlh_Latn	Whatever others think of me, I don't mind at all.	mubopbogh latlh nuvpu' vuDmey'e' vISaHbe'chu'.
@@ -7540,6 +7801,7 @@ eng	tlh_Latn	What happens then?	ghIq qaS nuq?
 eng	tlh_Latn	What have I just written?	DaH nuq vIqonta'?
 eng	tlh_Latn	What have we done?	nuq wIta'ta'?
 eng	tlh_Latn	What have you done now?	DaH nuq Data'pu'?
+eng	tlh_Latn	What he says is true in a sense.	loQ teH mu'meyDaj.
 eng	tlh_Latn	What he says is true.	vIt.
 eng	tlh_Latn	What I'm saying is quite true.	teHbej mu'mey vIjatlhbogh.
 eng	tlh_Latn	What is 6 subtracted from 10?	wa'maH boqHa' jav; chen nuq?
@@ -7561,6 +7823,7 @@ eng	tlh_Latn	What is this shit?	nuq 'oH Dochvam'e' jay'?
 eng	tlh_Latn	What is Tom trying to say?	nuq jatlh 'e' nIDtaH tam?
 eng	tlh_Latn	What is your favorite bird?	bo'Degh DamaSqu'bogh yIngu'!
 eng	tlh_Latn	What is your number?	nuq mI'lIj?
+eng	tlh_Latn	What kind of movie are you watching?	HaSta muchvam DabejtaHbogh Segh yIngu'!
 eng	tlh_Latn	What kind of wine do you recommend?	HIq Segh vIchupbogh yIngu'!
 eng	tlh_Latn	What languages do you speak?	Holmey Dajatlhbogh tIper!
 eng	tlh_Latn	What?	nuq?
@@ -7573,9 +7836,11 @@ eng	tlh_Latn	What's going on?	qaS nuq?
 eng	tlh_Latn	What's going on?	qaStaH nuq?
 eng	tlh_Latn	What's happening here?	naDev qaStaH nuq?
 eng	tlh_Latn	What's her teacher's name?	ghojmoHwI'Daj pong nuq?
+eng	tlh_Latn	What's his face?	nuq 'oH pongDaj'e'?
 eng	tlh_Latn	What should I do to stop hiccoughs?	jIbur 'e' jImevmeH chay' jIvanglaH?
 eng	tlh_Latn	What should I tell him?	ghaHvaD nuq vIjatlh?
 eng	tlh_Latn	What's in this bag?	buqvamDaq nuq tu'lu'?
+eng	tlh_Latn	What's in your larder?	nuq ngaS Soj polmeH pa'lIj?
 eng	tlh_Latn	What size helmet do you need?	'ar juchnIS mIv DapoQbogh?
 eng	tlh_Latn	What's the capital of Egypt?	nuq 'oH maSIr mon'e'?
 eng	tlh_Latn	What's the capital of Japan?	nuq 'oH nIpon mon'e'?
@@ -7598,6 +7863,7 @@ eng	tlh_Latn	What's your plan?	nablIj yIper!
 eng	tlh_Latn	What tea do you drink? Is lemon tea okay?	Dargh'e' nuq DaneH? tera' na'ran wIb Dargh Datlhutlhqang'a'?
 eng	tlh_Latn	What the bloody fuck is that?	Dochvam nuq jay'?
 eng	tlh_Latn	What the hell are you doing?	chay' bIvangtaH jay'?
+eng	tlh_Latn	What the hell is a trapezoid?	nuq 'oH qarpal'e' jay'?
 eng	tlh_Latn	What the hell is that?	nuq 'oH Dochvetlh'e' jay'?
 eng	tlh_Latn	What time does your plane depart?	tlheDDI' muD DujlIj 'arlogh Qoylu'pu'?
 eng	tlh_Latn	What time do we leave tomorrow?	wa'leS mamejDI' 'arlogh Qoylu'pu'?
@@ -7645,12 +7911,14 @@ eng	tlh_Latn	When I came home, he was watching TV.	juH vIcheghDI', HaSta jIH bej
 eng	tlh_Latn	When I got there, the house was on fire.	pa' jIpawDI' meQtaH juH qach.
 eng	tlh_Latn	When I got up, it was snowing outside.	jIHu'DI', HurDaq peDtaH.
 eng	tlh_Latn	When I hear this song, I cry.	bomvam vIQoyDI' jISaQ.
+eng	tlh_Latn	When I hear this song, I think of him.	bomvam vIQoyDI' ghaH vIqawchoH.
 eng	tlh_Latn	When in doubt, tell the truth.	bIHonDI' yIvIt!
 eng	tlh_Latn	When I regained my senses, it seemed that fur had grown on my fingers and knees. When it became slightly brighter, I looked at my reflection in a mountain stream, and I realized that I had become a tiger.	vulHa'choHDI' nItlhDu'wIjDaq qIvDu'wIjDaq je narghlaw'pu' veD'e'. loQ wovDI' pem, HuD bIQtIqDaq 'oHtaHbogh tonSaw'wIj'e' vIbej 'ej vItlhojta': tlhIghaq vImojpu'.
 eng	tlh_Latn	When I saw the picture, I remembered the story.	mIllogh vIleghDI' lut vIqaw.
 eng	tlh_Latn	When I think about those students, it gives me a headache.	ghojwI'pu'vam vIqelDI' jIwuQchoH.
 eng	tlh_Latn	When I visited Ken, he was studying.	qen vISuchDI' HaDtaH.
 eng	tlh_Latn	When I was feeding my dog, I noticed that the gate had been left open.	targhwIj vIje'taHvIS, poStaH lojmIt 'e' vItu'.
+eng	tlh_Latn	"When?" "Never."	"ghorgh?" "not."
 eng	tlh_Latn	When shall I come for you?	ghorgh qaDorchoH DaneH?
 eng	tlh_Latn	When shall I return the book?	ghorgh paq vInobHa'ta' net poQ?
 eng	tlh_Latn	When shall we eat?	nuq wISop?
@@ -7692,7 +7960,9 @@ eng	tlh_Latn	Where does this book go?	nuqDaq paqvam vIlannIS?
 eng	tlh_Latn	Where does your grandpa live?	Daq'e' Dabbogh vavnI'lI''e' yIngu'.
 eng	tlh_Latn	Where do I go after I pick up my baggage?	leng buqmeywIj vISuqta'DI', nuqDaq vIjaH?
 eng	tlh_Latn	Where is he?	nuqDaq ghaHtaH?
+eng	tlh_Latn	Where is it possible for you to see me?	nuqDaq choghomlaH?
 eng	tlh_Latn	Where is my book?	nuqDaq paqwIj tu'lu'?
+eng	tlh_Latn	Where is my daughter?	nuqDaq ghaHtaH puqbe'wI''e'?
 eng	tlh_Latn	Where is my umbrella?	nuqDaq 'oH SIS yoDwIj'e'?
 eng	tlh_Latn	Where is Paris?	nuqDaq 'oH vIraS mon'e'?
 eng	tlh_Latn	Where is she?	nuqDaq ghaHtaH?
@@ -7728,7 +7998,12 @@ eng	tlh_Latn	Where is your school?	nuqDaq 'oH DuSaQraj'e'?
 eng	tlh_Latn	Where shall we eat tonight?	DaHjaj ram nuqDaq maSop?
 eng	tlh_Latn	"Where's Laurie?" "She's in the kitchen."	«nuqDaq ghaHtaH lo'rIy''e'?» «vutpa'Daq ghaHtaH.»
 eng	tlh_Latn	Where's my car?	nuqDaq 'oHtaH puH DujwIj'e'?
+eng	tlh_Latn	Where's my kid?	nuqDaq ghaHtaH puqwI''e'?
 eng	tlh_Latn	Where's my mommy?	nuqDaq ghaHtaH SoSoywI''e'?
+eng	tlh_Latn	Where's our baby?	nuqDaq ghaHtaH ghuma''e'?
+eng	tlh_Latn	Where's our daughter?	nuqDaq ghaHtaH puqbe'ma''e'?
+eng	tlh_Latn	Where's our kid?	nuqDaq ghaHtaH puqma''e'?
+eng	tlh_Latn	Where's our son?	nuqDaq ghaHtaH puqloDma''e'?
 eng	tlh_Latn	Where's the Australian embassy?	nuqDaq 'oH 'aSralya' rIvSo''e'?
 eng	tlh_Latn	Where's the emergency exit?	nuqDaq 'oH chach lojmIt'e'?
 eng	tlh_Latn	Where's the hospital?	nuqDaq 'oH ropyaH qach'e'?
@@ -7756,6 +8031,7 @@ eng	tlh_Latn	While my wife was shopping in town, I tidied up in the kitchen.	ven
 eng	tlh_Latn	While sleeping, he snored loudly.	QongtaH ghaH pe'vIl wuD.
 eng	tlh_Latn	While you drive, you should focus on the road.	puH Duj DachIjtaHvIS taw DaqImnIS.
 eng	tlh_Latn	While you're busy looking for the perfect person, you may have missed the imperfect person who could make you perfectly happy.	nuv pup DanejtaHvIS, chaq DuQuchmoHlaHchu'bogh nuv pupbe''e' DabuSHa'.
+eng	tlh_Latn	Whither?	nuqDaq?
 eng	tlh_Latn	Who am I speaking to?	'IvvaD jIjatlhtaH?
 eng	tlh_Latn	Who are they exactly?	tIngu'chu'!
 eng	tlh_Latn	Who are you?	SoH 'Iv?
@@ -7797,6 +8073,7 @@ eng	tlh_Latn	Who're you talking to, fool?	'IvvaD bIjatlhtaH qoH?
 eng	tlh_Latn	Who's coming with us?	nutlhej 'Ivpu'?
 eng	tlh_Latn	Whose book is this on the desk?	'Iv paq 'oH raSDaq 'oHtaHbogh paqvam'e'?
 eng	tlh_Latn	Whose books are those?	'Iv paqmey bIH paqmeyvetlh'e'?
+eng	tlh_Latn	Whose compass is this?	SInanvam ghajwI' 'Iv?
 eng	tlh_Latn	Who sells this?	Dochvam ngev 'Iv?
 eng	tlh_Latn	Who sent them?	bIH ngeHpu' 'Iv?
 eng	tlh_Latn	Who sent them?	chaH ngeHpu' 'Iv?
@@ -7819,6 +8096,7 @@ eng	tlh_Latn	Who will take care of the baby?	ghu Qorgh 'Iv?
 eng	tlh_Latn	Who won?	Qapta' 'Iv?
 eng	tlh_Latn	Who would oppose this plan?	nabvam qaD 'Iv?
 eng	tlh_Latn	Who wrote a letter?	QIn gherta' 'Iv?
+eng	tlh_Latn	Who wrote all these letters?	nav QInmeyvetlh law' qonpu' 'Iv?
 eng	tlh_Latn	Why am I here?	qatlh naDev jIHtaH?
 eng	tlh_Latn	Why are kittens soft?	qatlh tun vIghro'Hom?
 eng	tlh_Latn	"Why aren't you going?" "Because I don't want to."	«qatlh bIjeSbe'?» «jIjeS vIneHbe'.»
@@ -7837,6 +8115,7 @@ eng	tlh_Latn	Why didn't it work?	qatlh Qapbe'?
 eng	tlh_Latn	Why didn't you accept?	qatlh bIlajbe'?
 eng	tlh_Latn	Why didn't you believe me?	qatlh choHarbe'pu'?
 eng	tlh_Latn	Why didn't you call us?	qatlh jurI'be'?
+eng	tlh_Latn	Why didn't you say so straight away?	qatlh SIbI' bIja'be'?
 eng	tlh_Latn	Why did she break off her speech?	SoQDaj jatlhtaH ghaH qatlh 'e' mevta'?
 eng	tlh_Latn	Why did Tom want it?	qatlh neH tam?
 eng	tlh_Latn	Why did you come here today?	qatlh DaHjaj jughoSta'?
@@ -7906,6 +8185,7 @@ eng	tlh_Latn	"Will you show me your ticket?" "Yes, of course."	«chaw'raj tu'ang
 eng	tlh_Latn	Will you warm up the soup?	chatlh DaghunmoH'a'?
 eng	tlh_Latn	Will you write a small text about that?	'oH bopbogh ghItlhHom'e' Daqonqang'a'?
 eng	tlh_Latn	Winds from the sea are humid.	yIQ bIQ'a'vo' ghoStaHbogh SuSmey'e'.
+eng	tlh_Latn	Winter had come.	taghpu' qImroq bIrqu'.
 eng	tlh_Latn	Winter is coming.	tugh tagh poH bIr.
 eng	tlh_Latn	Witches don't cry.	SaQbe' reSbogh be'pu'.
 eng	tlh_Latn	Witches don't exist.	reSbogh be'pu' tu'lu'be'.
@@ -7971,6 +8251,7 @@ eng	tlh_Latn	You almost died.	tlhoS bIHegh.
 eng	tlh_Latn	You alone can help me.	choQaHlaH SoH neH.
 eng	tlh_Latn	You and I are both adults.	manen SoH jIH je.
 eng	tlh_Latn	You annoy me.	chonuQ.
+eng	tlh_Latn	You are afraid of death.	bIHeghvIp.
 eng	tlh_Latn	You are a good cook.	vutwI' po' SoH.
 eng	tlh_Latn	You are a liar.	nepwI' SoH.
 eng	tlh_Latn	You are always complaining about your husband.	reH loDnallI'mo' bIbeptaH.
@@ -8038,6 +8319,7 @@ eng	tlh_Latn	You can hear the water dripping from the pipe.	'ochvo' chaghtaH bIQ
 eng	tlh_Latn	You can just sit there and relax a bit if you like.	bIneHchugh pa' bIba'laH 'ej loQ bIleSlaH.
 eng	tlh_Latn	You can know a man by his friends.	nuv Sovlu'chu' juppu'Daj luSovlu'DI'.
 eng	tlh_Latn	You cannot burn anything without oxygen.	DachDI' yInSIp vay' meQlaH pagh.
+eng	tlh_Latn	You cannot climb up that mountain.	HuDvetlh DatoS net chaw'be'.
 eng	tlh_Latn	You can see many animals in this forest.	ngemvamDaq Ha'DIbaH law' DaleghlaH.
 eng	tlh_Latn	You can speak English.	DIvI' Hol bojatlhlaH.
 eng	tlh_Latn	You can speak English.	DIvI' Hol DajatlhlaH.
@@ -8088,11 +8370,13 @@ eng	tlh_Latn	You forgot your umbrellas.	SIS yoDmeyraj bolIj.
 eng	tlh_Latn	You fraud!	bIQaq!
 eng	tlh_Latn	You guys aren't young.	SuQupbe'.
 eng	tlh_Latn	You guys are worthless.	Sulo'laHbe'.
+eng	tlh_Latn	You guys were really drunk.	Suchechqu'taH.
 eng	tlh_Latn	You had better do it at once.	SIbI' Data' net maS.
 eng	tlh_Latn	You hate Tom.	tam DamuS.
 eng	tlh_Latn	You have a great smile.	bImonDI' bI'IHqu'.
 eng	tlh_Latn	You have a habit of exaggerating everything.	roD Hoch Dalach.
 eng	tlh_Latn	You have a passport, don't you?	leng chaw' Daghaj, qar'a'?
+eng	tlh_Latn	You have dirty hands.	lam ghopDu'lIj.
 eng	tlh_Latn	You have eaten lunch, haven't you?	megh boSopta' qar'a'?
 eng	tlh_Latn	You have eaten lunch, haven't you?	megh DaSopta' qar'a'?
 eng	tlh_Latn	You have everything.	Hoch vIghaj.
@@ -8110,6 +8394,7 @@ eng	tlh_Latn	You have to control yourself.	bISeH'eghnIS.
 eng	tlh_Latn	You have to eat regularly.	roD bISopnIS.
 eng	tlh_Latn	You have to eat regularly.	roD SuSopnIS.
 eng	tlh_Latn	You have too much to do.	'Iq ta'mey vIta'nISbogh.
+eng	tlh_Latn	You have to spend another fortnight in hospital.	qaSqa'taHvIS cha' Hogh ropyaH qachDaq bIratlhnIStaH.
 eng	tlh_Latn	You have to stop him.	DamevnIS.
 eng	tlh_Latn	You have to talk to him.	ghaHvaD bIjatlhnIS.
 eng	tlh_Latn	You have to trust your instincts.	Dujraj bovoqnIS.
@@ -8187,12 +8472,14 @@ eng	tlh_Latn	You need to pay extra for the batteries.	nIteb 'ul 'aplo'mey DaDIln
 eng	tlh_Latn	You need to reboot your computer.	De'wI'lIj Dachu'nISqa'.
 eng	tlh_Latn	You need to see a doctor.	Qel DaghomnIS.
 eng	tlh_Latn	You need to trust your instincts.	Dujraj bovoqnIS.
+eng	tlh_Latn	You need to understand the modern world.	jajvam qo' DayajnIS.
 eng	tlh_Latn	You need to wake up.	bIvemnIS.
 eng	tlh_Latn	You never cease to surprise me.	Hochlogh chomer.
 eng	tlh_Latn	You only need to concentrate.	bIqImnIS neH.
 eng	tlh_Latn	You opened the wrong box.	'aplo' muj DapoSmoHpu'.
 eng	tlh_Latn	You open the door.	lojmIt DapoSmoH.
 eng	tlh_Latn	You owe me an apology.	chotlhIjnIS.
+eng	tlh_Latn	You ran away?	bIHaw'pu''a'?
 eng	tlh_Latn	Your assistance is indispensable for us.	boQlIj wIHutlhlaHbe'.
 eng	tlh_Latn	Your car is more expensive than mine.	puH DujlIj wagh law' puH DujwIj wagh puS.
 eng	tlh_Latn	Your carpet is completely white.	chISchu' tlhImlIj.
@@ -8202,6 +8489,7 @@ eng	tlh_Latn	Your death is my life.	yInwIj 'oH HeghlIj'e'.
 eng	tlh_Latn	You're a beautiful woman.	be' 'IH SoH.
 eng	tlh_Latn	You're a bread.	tIr ngogh SoH.
 eng	tlh_Latn	You're a clever kid.	puq val SoH.
+eng	tlh_Latn	You're afraid to die.	bIHeghvIp.
 eng	tlh_Latn	You're a fucking moron.	bIQIp jay'.
 eng	tlh_Latn	You're a funny guy.	tlhaQwI' SoH.
 eng	tlh_Latn	You're a gentleman.	'utlh SoH.
@@ -8231,6 +8519,7 @@ eng	tlh_Latn	You're a soldier, Tom.	mang bIH, tam.
 eng	tlh_Latn	You're a sorcerer, Tom.	'IDnar pIn'a' bIH, tam.
 eng	tlh_Latn	You're a thief, Tom.	nIHwI' bIH, tam.
 eng	tlh_Latn	You're a very clumsy guy.	loD Soy'qu' SoH.
+eng	tlh_Latn	You're a very special lady.	be' le'qu' SoH.
 eng	tlh_Latn	You're a warlock, Tom.	'IDnar pIn'a' bIH, tam.
 eng	tlh_Latn	You're a warrior, Tom.	mang bIH, tam.
 eng	tlh_Latn	You're a warrior, Tom.	SuvwI' bIH, tam.
@@ -8293,6 +8582,7 @@ eng	tlh_Latn	You're respected by everybody.	tlhIH'e' lIvuv Hoch.
 eng	tlh_Latn	You're responsible.	bIngoy'.
 eng	tlh_Latn	You're responsible.	bIngoy' SoH.
 eng	tlh_Latn	You're rich.	bImIp.
+eng	tlh_Latn	You're right, but it isn't my fault.	bIlugh, 'ach pIch vIghajbe'.
 eng	tlh_Latn	You're sick. You have to rest.	bIrop. bIleSnIS.
 eng	tlh_Latn	You're so close.	bISumqu'.
 eng	tlh_Latn	You're so evil!	bImIghqu'!
@@ -8304,6 +8594,8 @@ eng	tlh_Latn	You're special to me.	jIHvaD bIle'.
 eng	tlh_Latn	You're still young.	wej bIqan.
 eng	tlh_Latn	You're stupid.	bIQIp.
 eng	tlh_Latn	You're stupid.	Duvuv SuS DaneH.
+eng	tlh_Latn	You're such a show off.	bImIyqu'bej jay'.
+eng	tlh_Latn	You're the cutest girl in here.	be'Hompu''e'; naDev SoH 'IH law' Hoch 'IH puS.
 eng	tlh_Latn	You're the one who picked the fight.	bISuvchoHpu' SoH'e'.
 eng	tlh_Latn	You're the only one I trust.	SoH neH qavoq.
 eng	tlh_Latn	You're the owner.	ghajwI' SoH.
@@ -8332,6 +8624,8 @@ eng	tlh_Latn	Your lips are blue. You should get out of the water.	SuD wuSDu'lIj.
 eng	tlh_Latn	Your little girl was born and is doing well.	boghpu' puqbe'lI' 'ej pIv.
 eng	tlh_Latn	Your magic won't work here.	naDev Qapbe'bej 'IDnarlIj.
 eng	tlh_Latn	Your magic won't work here.	naDev Qapbe'bej 'IDnarraj.
+eng	tlh_Latn	Your mother has a smooth forehead!	Hab SoSlI' Quch!
+eng	tlh_Latn	Your mother's forehead is smooth!	Hab SoSlI' Quch!
 eng	tlh_Latn	Your name sounds familiar to me.	ponglIj vIghovlaw'.
 eng	tlh_Latn	Your name was deleted from the list.	tetlhvo' ponglIj teqlu'.
 eng	tlh_Latn	Your O's look like A's.	'atmey rur 'otmeylIj.
@@ -8355,6 +8649,8 @@ eng	tlh_Latn	You said it was too easy.	bIjatlh, tlhoy ngeD.
 eng	tlh_Latn	You said you'd help her.	bIjatlh DaQaHrup.
 eng	tlh_Latn	You scared Tom.	tam DaghIj.
 eng	tlh_Latn	You scared us.	cheghIjpu'.
+eng	tlh_Latn	You see a tree.	Sor bolegh.
+eng	tlh_Latn	You see a tree.	Sor Dalegh.
 eng	tlh_Latn	You seem to be a misogynist.	be'pu' DamuSlaw'.
 eng	tlh_Latn	You seem to know me, but I don't know you.	choSovlaw' 'ach qaSovbe'.
 eng	tlh_Latn	You seem to remember everything that happened.	qaSpu'bogh Hoch Daqawlaw'.
@@ -8418,3 +8714,4 @@ eng	tlh_Latn	You won.	bIQap.
 eng	tlh_Latn	You worked a lot this week.	Hoghvam bIvumqu'.
 eng	tlh_Latn	You would look stupid wearing your mother's dress.	SoSlI' paH DatuQchugh qoH Darur.
 eng	tlh_Latn	You wouldn't have a cell phone, would you?	ghogh HablI' Daghajbe' qar'a'?
+eng	tlh_Latn	Ziri is about to leave.	mejrup SIyrIy.

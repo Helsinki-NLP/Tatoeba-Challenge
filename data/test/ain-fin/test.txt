@@ -12,6 +12,7 @@ ain_Latn	fin	apto somo as.	Ei sada vettä.
 ain_Latn	fin	apunno oka yan!	Pysyhän turvassa!
 ain_Latn	fin	apunno paye yan!	Menehän turvallisesti!
 ain_Latn	fin	asinru hunak ta an ruwe an?	Missä on miesten WC?
+ain_Latn	fin	asir amip e-hok ranke ruwe?	Ostatko usein uusia vaatteita?
 ain_Latn	fin	atuinne earkinne sapaha pirka cikoykip ne ruwe ne.	Mustekala on todella älykäs eläin.
 ain_Latn	fin	aynu itak e-ye easkay?	Osaatko puhua ainua?
 ain_Latn	fin	aynu itak ku-ye easkay.	Osaan puhua ainua.
@@ -26,26 +27,54 @@ ain_Latn	fin	aynu itak ponno patek ku-ye easkay.	Osaan puhua ainua vain vähän.
 ain_Latn	fin	aynupata!	Käypä kateeksi!
 ain_Latn	fin	aynupata!	Minäkin haluan!
 ain_Latn	fin	aynupata!	Olisipa minullakin!
+ain_Latn	fin	cape anakne seta akkari pon.	Kissa on pienempi kuin koira.
+ain_Latn	fin	cape anakne seta akkari pon.	Kissat ovat koiria pienempiä.
 ain_Latn	fin	cape hene seta hene, cikoykip k-eramasu.	Tykkään eläimistä, esimerkiksi kissoista ja koirista.
 ain_Latn	fin	cape poronno k-eramasu.	Pidän kissoista kovasti.
 ain_Latn	fin	cape poronno k-eramasu.	Tykkään tosi paljon kissoista.
 ain_Latn	fin	cikoykip opitta k-eramasu.	Tykkään kaikista eläimistä.
 ain_Latn	fin	eci-opitta eci-paye rusuy ya?	Haluatteko te kaikki lähteä?
 ain_Latn	fin	eci-opitta eci-paye rusuy ya?	Haluatteko te kaikki mennä?
+ain_Latn	fin	"e-hokuhu e-tura wa eci-arki siri?" "ku-hokuhu ku-tura wa arki-as siri un."	”Tulitko yhdessä aviomiehesi kanssa?” ”Tulin yhdessä aviomieheni kanssa.”
 ain_Latn	fin	"e-iwanke wa e-an ya?" "ku-iwanke wa k-an wa. eani he?" "kani ka ku-iwanke wa k-an wa."	”Mitä kuuluu?” ”Minulle kuuluu hyvää. Entä sinulle?” ”Minullekin kuuluu hyvää.”
 ain_Latn	fin	"e-iwanke wa e-an ya?" "ku-iwanke wa k-an wa. eani he?" "kani ka ku-iwanke wa k-an wa."	”Miten menee?” ”Menee ihan hyvin. Entä sinulla?” ”Minullakin menee hyvin.”
+ain_Latn	fin	"e-iwanke ya?" "ku-iwanke wa. eani he?" "kani ka ku-iwanke wa."	”Mitä kuuluu?” ”Kiitos hyvää. Entä sinulle?” ”Minullekin kuuluu hyvää.”
+ain_Latn	fin	e-kor mici e-kor totto akkari kiyanne ruwe ne.	Isi on äitiä vanhempi.
+ain_Latn	fin	e-kor mici e-kor totto akkari kiyanne ruwe ne.	Iskä on äiskää vanhempi.
 ain_Latn	fin	e-kunneywaipe nisa ruwe an?	Oletko syönyt aamiaisen loppuun?
 ain_Latn	fin	e-mipi tane sat wa an?	Ovatko vaatteesi kuivat?
 ain_Latn	fin	e-nu ya?	Halojata halloo?
 ain_Latn	fin	"e-sapa na arka ya?" "somo, tane pirka wa."	”Onko sinulla vielä pää kipeä?” ”Ei ole, se parantui jo.”
+ain_Latn	fin	e-sinki noyne e-nanu an.	Naamasi näyttää siltä, että olet väsynyt.
+ain_Latn	fin	e-sinki noyne e-nanu an.	Näytät siltä, että olet väsynyt.
+ain_Latn	fin	esoyne mean kusu hetak ahup-an ro.	Ulkona on kylmä, joten mennäänpä siis sisään.
 ain_Latn	fin	e, Tom sekor ku-rehe ne.	Kyllä, nimeni on Tom.
+ain_Latn	fin	eytasa ku-moyre kusu ku-hosipi.	Olen pahasti myöhässä, joten lähden nyt kotiin.
+ain_Latn	fin	eytasa ku-moyre kusu tane ku-hosipi.	Olen pahasti myöhässä, joten lähden nyt kotiin.
+ain_Latn	fin	hekaci suma osura.	Poika heitti kiven.
 ain_Latn	fin	hemanta kusu isacise or un e-arpa?	Miksi sinä menet sairaalaan?
 ain_Latn	fin	hemanta kusu seta mik kor an ruwe an?	Miksi koira haukkuu?
+ain_Latn	fin	hemanta kusu toanpe toanta an?	Miksi se on siellä?
+ain_Latn	fin	"hempara eci-arki?" "tanto kunneywa arki-as."	”Milloin te tulitte?” ”Tulimme tänä aamuna.”
+ain_Latn	fin	"hempara eci-paye?" "oyasim paye-as."	”Milloin te menette?” ”Me menemme ylihuomenna.”
+ain_Latn	fin	hetak, iku-an ro.	No niin, juodaanpa sitten!
+ain_Latn	fin	hetak, iku-an ro.	No niin, kippis!
+ain_Latn	fin	"hunak un e-arpa?" "ihokusi or un k-arpa"	”Mihin sinä menet?” ”Menen kauppaan.”
+ain_Latn	fin	"hunna e-kikkik hawe an?" "toan okkayo en-kikkik hawe un."	”Kenen sanoit lyöneen sinua?” ”Sanoin, että tuo mies löi minua.”
+ain_Latn	fin	"hunna e-kikkik hawe an?" "toan okkayo en-kikkik hawe un."	”Kuka sinua löi?” ”Tuo mies löi minua.”
 ain_Latn	fin	icasnure hi ku-kowen.	Inhoan siivoamista.
 ain_Latn	fin	icasnure ku-kowen.	Inhoan siivoamista.
 ain_Latn	fin	icen isam ruwe he an?	Ei sinulla olisi rahaa?
+ain_Latn	fin	inanike e-eramasu?	Kummasta sinä pidät?
+ain_Latn	fin	inanike e-eramasu?	Kummasta sinä tykkäät?
+ain_Latn	fin	inanike e-eramasu?	Mistä näistä sinä pidät?
+ain_Latn	fin	inanike e-eramasu?	Mistä näistä sinä tykkäät?
 ain_Latn	fin	inanike e-e rusuy?	Minkä näistä haluat syödä?
 ain_Latn	fin	inanike e-e rusuy?	Mitä näistä haluat syödä?
+ain_Latn	fin	inan kanpisos e-eramasu?	Kummasta kirjasta sinä tykkäät?
+ain_Latn	fin	inan kanpisos e-eramasu?	Mistä näistä kirjoista sinä pidät?
+ain_Latn	fin	inanpe e-eramasu?	Kummasta sinä tykkäät?
+ain_Latn	fin	inanpe e-eramasu?	Mistä näistä sinä tykkäät?
 ain_Latn	fin	ipepasuy an ruwe?	Onko sinulla syömäpuikkoja?
 ain_Latn	fin	ipepasuy an ruwe?	Onko täällä syömäpuikkoja?
 ain_Latn	fin	iruka en-sinire yan.	Anna kun lepään vähän.
@@ -78,6 +107,7 @@ ain_Latn	fin	kam k-e ka etoranne.	Olen kyllästynyt lihan syömiseen.
 ain_Latn	fin	kam k-e ka etoranne.	Olen saanut tarpeekseni lihan syömisestä.
 ain_Latn	fin	kam k-e rusuy.	Haluan syödä lihaa.
 ain_Latn	fin	kani ka ene an seta ku-kor rusuy!	Minäkin haluan tällaisen koiran!
+ain_Latn	fin	kani ka en-tura wa en-kore yan!	Ota minutkin mukaan!
 ain_Latn	fin	kani ka k-arpa kusu ne.	Minäkin menen.
 ain_Latn	fin	kani ka k-arpa kusu ne.	Minäkin olen aikeissa mennä.
 ain_Latn	fin	kani ka k-arpa kusu ne.	Myös minä aion mennä.
@@ -86,11 +116,21 @@ ain_Latn	fin	kannasuy ye.	Sano se uudestaan.
 ain_Latn	fin	kannasuy ye.	Sano se vielä kerran.
 ain_Latn	fin	kanpi nukar hi e-eramasu?	Tykkäätkö lukea?
 ain_Latn	fin	kanpi nukar hi e-eramasu?	Tykkäätkö lukemisesta?
+ain_Latn	fin	kanpisos anakne somo ku-nukar hawe ne.	Minä siis en lue kirjoja.
+ain_Latn	fin	kanpisos anakne somo ku-nukar hawe ne.	Sanoin siis, että en lue kirjoja.
+ain_Latn	fin	kanpisos anakne somo ku-nukar ruwe ne.	Minä siis en lue kirjoja.
+ain_Latn	fin	kanpisos poronno ku-hok a.	Olen ostanut paljon kirjoja.
+ain_Latn	fin	kanpisos poronno ku-hok ruwe ne.	Ostin monta kirjaa.
+ain_Latn	fin	kanpisos poronno ku-hok ruwe ne.	Ostin paljon kirjoja.
 ain_Latn	fin	k-aptokar kusu tane ku-mipihi teyne wa an.	Kastuin sateessa ja vaatteeni ovat nyt märät.
 ain_Latn	fin	karinpani epuyke sipirasa hi ku-nukar kusu k-arpa rusuy.	Haluan mennä katsomaan kukkivia kirsikkapuita.
+ain_Latn	fin	k-arpa kusu ne.	Aion mennä.
 ain_Latn	fin	k-easkay yakun nisatta k-ek wa.	Tulen ehkä huomenna.
 ain_Latn	fin	k-easkay yakun nisatta k-ek wa.	Tulen huomenna, jos pystyn.
 ain_Latn	fin	k-erampewtek.	En tajunnut.
+ain_Latn	fin	ku-honi arka humi.	Minua sattuu mahaan.
+ain_Latn	fin	ku-honi arka humi.	Minulla on maha kipeä.
+ain_Latn	fin	ku-ipe rusuy kusu hetak ipe-an ro.	Minulla on nälkä, joten syödäänpä sitten.
 ain_Latn	fin	ku-iperusuy wa nep ka k-e rusuy humi! aep en-kore yan.	Minulla on nälkä ja haluan syödä jotain! Antaisitko minulle ruokaa.
 ain_Latn	fin	ku-iwanke wa.	Voin hyvin.
 ain_Latn	fin	ku-kor santoku hunak ta an ruwe?	Missä minun lompakkoni on?
@@ -100,6 +140,16 @@ ain_Latn	fin	ku-mipi teyne wa an.	Vaatteeni ovat märät.
 ain_Latn	fin	kunneywano onuman pakno ku-monrayke wa patek k-an.	Minä en muuta tee kuin töitä aamusta iltaan.
 ain_Latn	fin	kunneywano onuman pakno ku-monrayke wa patek k-an.	Minä vain raadan aamusta iltaan.
 ain_Latn	fin	ku-sikihi arka kusu isacise or un k-arpa.	Menen sairaalaan, koska minulla on silmä kipeä.
+ain_Latn	fin	makanak an kanpisos e-eramasu?	Millaisista kirjoista sinä pidät?
+ain_Latn	fin	makanak an kanpisos e-eramasu?	Millaisista kirjoista sinä tykkäät?
+ain_Latn	fin	Mari yayhonokka kor patek an ruwe ne.	Mari ei muuta tee kuin opiskelee.
+ain_Latn	fin	Mari yayhonokka kor patek an ruwe ne.	Mari ei tee muuta kuin opiskelee.
+ain_Latn	fin	Mari yaypakasnu kor patek an hawe ne.	Mari ei muuta tee kuin opiskelee.
+ain_Latn	fin	Mari yaypakasnu kor patek an hawe ne.	Mari ei tee muuta kuin opiskelee.
+ain_Latn	fin	Mari yaypakasnu kor patek an siri ne.	Mari ei muuta tee kuin opiskelee.
+ain_Latn	fin	Mari yaypakasnu kor patek an siri ne.	Mari ei näytä tekevän muuta kuin vain opiskelee.
+ain_Latn	fin	Mari yaypakasnu kor patek an siri ne.	Mari ei tee muuta kuin opiskelee.
+ain_Latn	fin	Mari yaypakasnu kor patek an siri ne.	Näyttää siltä, että Mari ei muuta tee kuin vain opiskelee.
 ain_Latn	fin	mata an kor mean.	Talvella on kylmä.
 ain_Latn	fin	menokoru hunak ta an ruwe an?	Missä on naisten WC?
 ain_Latn	fin	moyre yakka nisatta pakno k-ek kus ne na.	Tulen viimeistään huomiseen mennessä.
@@ -107,6 +157,7 @@ ain_Latn	fin	moyre yakka nisatta pakno ki yan.	Voisitko tehdä sen viimeistään
 ain_Latn	fin	moyre yakka nisatta pakno ki yan.	Voisitteko tehdä sen viimeistään huomiseen mennessä?
 ain_Latn	fin	na arsuyne ye.	Sano se uudestaan.
 ain_Latn	fin	na arsuyne ye.	Sano se vielä kerran.
+ain_Latn	fin	nani apto as siri ne nankor.	Näyttää siltä, että pian taitaa sataa.
 ain_Latn	fin	nep ka ku-kar rusuy ka somo ki.	En halua tehdä mitään.
 ain_Latn	fin	nep ka somo k-eisramne.	En tarvitse mitään.
 ain_Latn	fin	Niptay ta k-an.	Olen Nibutanissa.
@@ -116,43 +167,66 @@ ain_Latn	fin	nisatta apto as hawe?	Sanoitko, että huomenna sataa?
 ain_Latn	fin	nisatta apto as nankor na.	Sataakohan huomenna vettä?
 ain_Latn	fin	nisatta ka suy apto as ya?	Sataakohan taas huomennakin?
 ain_Latn	fin	nisatta kunneywa tunasno en-mososo.	Herätä minut aikaisin huomenna aamulla.
+ain_Latn	fin	nitay tum ta aynu kotan ku-nukar.	Näin ainukylän metsässä.
 ain_Latn	fin	noka kar hi k-eramasu.	Tykkään piirtää.
 ain_Latn	fin	noka kar hi k-eramasu.	Tykkään piirtämisestä.
 ain_Latn	fin	numan hunak un e-ek wa e-arpa hawe?	Missä sinä sanoit käyneesi eilen?
 ain_Latn	fin	numan rera isam wa sirsesek.	Eilen ei tuullut ja oli kuuma.
 ain_Latn	fin	numan rera ruy wa apto as.	Eilen tuuli kovasti ja satoi vettä.
 ain_Latn	fin	numan sirpirka a p tanto sirwen.	Eilen oli hyvä ilma, mutta tänään on huono sää.
+ain_Latn	fin	okamkir en-kik.	Hän löi minua tahallaan.
+ain_Latn	fin	okamkir en-kik.	Sinä löit minua tahallasi.
+ain_Latn	fin	okamkir somo en-kik.	Hän ei lyönyt minua tahallaan.
+ain_Latn	fin	okamkir somo en-kik.	Sinä et lyönyt minua tahallaan.
+ain_Latn	fin	okamkir somo en-kik.	Sinä et lyönyt minua tahallasi.
+ain_Latn	fin	oro wa sinep en-kore.	Anna minulle yksi niistä.
 ain_Latn	fin	pirka hawe ne.	Hieno homma.
 ain_Latn	fin	pirka hawe ne.	Hyvä juttu.
 ain_Latn	fin	pirka hawe ne.	Kuulostaa hyvältä.
+ain_Latn	fin	pirka siri!	Hyvältä näyttää!
+ain_Latn	fin	pirka siri!	Näyttääpä hyvältä!
 ain_Latn	fin	ponno apto as yakka pirka kuni ku-ramu.	Olen sitä mieltä, että olisi hyvä, jos sataisi vähän.
 ain_Latn	fin	ponno en-tere hani!	Odotapas nyt vähän!
 ain_Latn	fin	ponno en-tere!	Odota minua vähän!
 ain_Latn	fin	ponno en-tere yan!	Voisitko odottaa minua vähän?
 ain_Latn	fin	ponno en-tere yan!	Voisitteko odottaa minua vähän?
+ain_Latn	fin	poronno an kusu iwanpe eci-kore.	Näitä on paljon, joten annan sinulle kuusi.
 ain_Latn	fin	poronno icen ku-kor rusuy, korka tane icen ku-sak.	Haluan paljon rahaa, mutta nyt minulla ei ole yhtään.
 ain_Latn	fin	rera ruy korka somo mean.	Tuulee kovasti, mutta ei ole kylmä.
 ain_Latn	fin	rera ruy kor mean.	Kun tuulee kovasti, on kylmä.
 ain_Latn	fin	Satporo ta e-arpa amkir ya?	Oletko käynyt Sapporossa?
 ain_Latn	fin	Satporo ta e-arpa amkir ya?	Oletko koskaan käynyt Sapporossa?
+ain_Latn	fin	Satporo ta e-arpa ka eramiskari ya?	Etkö ole käynyt Sapporossa?
+ain_Latn	fin	Satporo ta e-arpa ka eramiskari ya?	Etkö ole koskaan käynyt Sapporossa?
 ain_Latn	fin	Satporo ta k-an.	Olen Sapporossa.
 ain_Latn	fin	Satporo ta k-arpa amkir.	Olen käynyt Sapporossa.
 ain_Latn	fin	Satporo ta k-arpa ka eramiskari.	En ole käynyt Sapporossa.
 ain_Latn	fin	Satporo ta k-arpa ka eramiskari.	En ole koskaan käynyt Sapporossa.
+ain_Latn	fin	seta akkari cape pon.	Kissa on pienempi kuin koira.
+ain_Latn	fin	seta akkari cape pon.	Kissat ovat koiria pienempiä.
+ain_Latn	fin	sinen ku-ne wa ku-ki easkay wa.	Pystyn tehdä sen yksin.
+ain_Latn	fin	sinep en-kore.	Anna minulle yksi.
+ain_Latn	fin	somo koyra no kunneywa en-mososo yan.	Älä unohda herättää minua aamulla.
 ain_Latn	fin	somo, Tom sekor ku-rehe ka somo ne.	Ei, nimeni ei ole Tom.
 ain_Latn	fin	somo, Tom sekor ku-rehe ka somo ne. Mari sekor ku-rehe ne.	Ei, nimeni ei ole Tom. Nimeni on Mari.
+ain_Latn	fin	"taan okkayo e-akihi ne ruwe?" "k-akihi ka somo ne."	”Onko tämä mies pikkuveljesi?” ”Ei, hän ei ole pikkuveljeni.”
 ain_Latn	fin	tan amip ku-kohayta.	Nämä vaatteet eivät sovi minulle.
 ain_Latn	fin	tan cinumkekanpi toan cinumkekanpi inanpe pirka ya k-ukosama wa ku-inkar.	Yritän vertailla kumpi sanakirja on parempi, tämä vai tuo.
 ain_Latn	fin	tane kam k-e rusuy ka somo ki.	En halua nyt syödä lihaa.
 ain_Latn	fin	tane kam k-e rusuy ka somo ki.	En tahdo syödä lihaa nyt.
+ain_Latn	fin	tane nepki kor an wa sonno yaymonniska kusu okake ta kanna suy ek wa en-kore.	Hänellä on nyt töitä ja hän on tosi kiireinen, joten tulisitko myöhemmin uudestaan.
 ain_Latn	fin	tane Satporo ta k-an korka nisatta Niptay un k-arpa kus ne.	Olen nyt Sapporossa, mutta menen huomenna Nibutaniin.
 ain_Latn	fin	tane Satporo ta k-an.	Olen nyt Sapporossa.
+ain_Latn	fin	tane Tom ek siri ne na.	Näyttää siltä, että Tomi tulee nyt.
+ain_Latn	fin	tan kanpisos sonno kapar ruwe ne.	Tämä kirja on tosi ohut.
 ain_Latn	fin	tan kanpisos toan kanpisos akkari ironne.	Tämä kirja on paksumpi kuin tuo kirja.
 ain_Latn	fin	Tan kotan moyo kotan ne.	Tämä kylä on vähäväkinen.
 ain_Latn	fin	Tan kotan moyo kotan ne.	Tämän kylän väkiluku on pieni.
 ain_Latn	fin	Tan kotan moyo kotan ne.	Tässä kylässä on vähän ihmisiä.
 ain_Latn	fin	tanpa eytasa sirsesek.	Tänä vuonna on hirveän kuuma.
+ain_Latn	fin	tanpaku e-ku kaspa wa. tanpaku e-ku hi e-ponre yak pirka.	Sinä poltat liikaa. Sinun pitäisi vähentää polttamista.
 ain_Latn	fin	tanpe e-kor seta ne siri ne. ku-korpe hunak ta an?	Tämä on sinun koirasi. Missä minun on?
+ain_Latn	fin	"tanpe hemanta an?" "toanpe kanpisos ne ruwe un."	”Mikä tämä on?” ”Se on kirja.”
 ain_Latn	fin	tanpe hunak un e-kor wa e-arpa?	Mihin sinä viet tämän?
 ain_Latn	fin	tanpe hunak wa e-kor wa e-ek?	Mistä sinä toit tämän?
 ain_Latn	fin	tanpe k-etun yakka pirka ya? nisatta ku-hosipire kus ne na.	Voinko lainata tätä? Palautan sen huomenna.
@@ -161,6 +235,7 @@ ain_Latn	fin	tanpe k-etun yakka pirka ya?	Voinko ottaa tämän lainaksi?
 ain_Latn	fin	tanpe ku-eywanke yakka pirka ya?	Voinko käyttää tätä?
 ain_Latn	fin	tanpe ku-kor seta ne.	Tämä on minun koirani.
 ain_Latn	fin	tanpe nonno ka somo ne, tanpe cikuni ne.	Tämä ei ole kukka, tämä on puu.
+ain_Latn	fin	tanpe nonno ne ruwe?	Onko tämä kukka?
 ain_Latn	fin	tanpe nonno ne.	Tämä on kukka.
 ain_Latn	fin	tanpe pirka hawe?	Sanoitko, että tämä on hyvä?
 ain_Latn	fin	tanpe pirka humi?	Kuulostaako tämä hyvältä?
@@ -169,6 +244,8 @@ ain_Latn	fin	tanpe pirka humi?	Vaikuttaako tämä hyvältä?
 ain_Latn	fin	tanpe pirka?	Onko tää hyvä?
 ain_Latn	fin	tanpe pirka ruwe?	Onko tämä hyvä?
 ain_Latn	fin	tanpe pirka siri?	Näyttääkö tämä hyvältä?
+ain_Latn	fin	tan ruyka iteki ika yan.	Ethän mene tämän sillan ylitse.
+ain_Latn	fin	tan ruyka iteki ika yan.	Ethän ylitä tätä siltaa.
 ain_Latn	fin	tansak eytasa mean.	Tänä kesänä on hirveän kylmä.
 ain_Latn	fin	tansak eytasa sirsesek.	Tänä kesänä on hirveän kuuma.
 ain_Latn	fin	tanto apto as.	Tänään sataa vettä.
@@ -189,18 +266,42 @@ ain_Latn	fin	tanto upas as ya?	Sataako tänään lunta?
 ain_Latn	fin	tap tane ku-kar nisa.	Lopetin sen tekemisen justiinsa äsken.
 ain_Latn	fin	tap tane ku-kar nisa.	Tein sen juuri valmiiksi.
 ain_Latn	fin	tap toan kanpisos ku-nukar nisa.	Luin juuri äsken tuon kirjan loppuun.
+ain_Latn	fin	te pakno e-hok amip oro ta inanike iyotta ataye ruy pe ne ruwe an?	Mikä on kaikista kallein vaate, jonka olet tähän mennessä ostanut?
+ain_Latn	fin	te pakno e-hok amip oro ta inanike iyotta ataye ruy pe ne ruwe an?	Mikä on tähän mennessä ostamistasi vaatteista kallein?
 ain_Latn	fin	teta inne utar oka siri ne.	Täällä näyttää olevan paljon ihmisiä.
 ain_Latn	fin	te ta iteki tanpaku ku yan!	Ethän tupakoi täällä!
 ain_Latn	fin	teta moyo utar oka siri ne.	Täällä näyttää olevan vähän ihmisiä.
+ain_Latn	fin	"toan huci e-kor huci ne ruwe?" "ku-kor huci ka somo ne. mosma kur kor huci ne."	”Onko tuo mummo sinun mummosi?” ”Hän ei ole minun mummoni. Hän on jonkun toisen mummo.”
+ain_Latn	fin	toan kur keweri korka toyakkari yupihi keweri.	Hän on pitkä, mutta hänen isoveljensä on paljon pidempi.
+ain_Latn	fin	toan kur keweri korka toyakkari yupihi keweri.	Hän on pitkä, mutta hänen isoveljensä on vieläkin pidempi.
+ain_Latn	fin	"toan matkaci e-matnepoho ne ruwe?" "ku-matnepoho ne ruwe un."	”Onko tuo tyttö sinun tyttäresi?” ”Kyllä, hän on tyttäreni.”
 ain_Latn	fin	toan nonno retar.	Tuo kukka on valkoinen.
 ain_Latn	fin	toanpe isepo ne.	Tuo on jänis.
+ain_Latn	fin	toanpe kimunkamuy ne ruwe?	Onks toi karhu?
 ain_Latn	fin	toanpe nonno ne.	Tuo on kukka.
+ain_Latn	fin	toanpe sonno takne.	Se on todella lyhyt.
+ain_Latn	fin	toanpe sonno takne.	Se on tosi lyhyt.
+ain_Latn	fin	toanpe sonno takne siri ne.	Se on todella lyhyt.
+ain_Latn	fin	toanpe sonno takne siri ne.	Se on tosi lyhyt.
+ain_Latn	fin	toanpe takne kaspa.	Se on liian lyhyt.
+ain_Latn	fin	toanpe takne kaspa siri ne.	Se on liian lyhyt.
+ain_Latn	fin	toan pon menoko tane akkari wan pa etoko ta mimus wa.	Hän oli lihavampi kymmenen vuotta sitten kuin nyt.
+ain_Latn	fin	toan pon menoko tane akkari wan pa etoko ta mimus wa.	Tuo nuori nainen oli lihavampi kymmenen vuotta sitten kuin nyt.
+ain_Latn	fin	toanta sinot kor an poyson e-kopisi wa e-inu kor pirka wa.	Voit kokeilla kysyä tuolla leikkivältä lapselta.
+ain_Latn	fin	toanta sinot kor oka hekattar e-kopisi wa e-inu kor pirka wa.	Voit kysyä noilta lapsilta, jotka leikkivät tuolla.
 ain_Latn	fin	Tokiyo inne maciya ne.	Tokio on väkiluvultaan suuri kaupunki.
 ain_Latn	fin	Tokiyo inne maciya ne.	Tokio on väkirikas kaupunki.
+ain_Latn	fin	Tom e-erusa kanpisos pirka ya?	Oliko se kirja, jonka sait lainaksi Tomilta, hyvä?
+ain_Latn	fin	Tom e-erusa kanpisos pirka ya?	Oliko Tomilta lainaksi saamasi kirja hyvä?
 ain_Latn	fin	Tom ek humi ne.	Kuulostaa siltä, että Tom tuli.
 ain_Latn	fin	Tom ek humi ne.	Vaikuttaa siltä, että Tom tuli.
 ain_Latn	fin	Tom ek siri ne.	Näyttää siltä, että Tom tuli.
+ain_Latn	fin	Tom ponko iku.	Tomi juo aika paljon.
+ain_Latn	fin	Tom ponko iku.	Tomi juo melkoisen paljon.
 ain_Latn	fin	Tom sekor e-rehe ka somo ne?	Eikö sinun nimesi ole Tom?
+ain_Latn	fin	Tom tan kanpisos en-kore a.	Tom antoi minulle tämän kirjan.
 ain_Latn	fin	tunasno arpa!	Mene nopeasti!
+ain_Latn	fin	tun ci-ne wa iku-as.	Me juomme alkoholia kahdestaan.
+ain_Latn	fin	"ukuran pirkano e-mokor ruwe?" "ruyanpe as wa rera humi ruy wa kusu pirkano ku-mokor niwkes."	”Nukuitko hyvin viime yönä?” ”Oli myrsky ja tuuli äänekkäästi ja siksi en pystynyt nukkumaan.”
 ain_Latn	fin	"Yaunmosir ta iyotta inne maciya hemanta an ruwe an?" "Satporo ne ruwe un."	”Mikä on Hokkaidon väkiluvultaan suurin kaupunki?” ”Sapporo.”
 ain_Latn	fin	Yaunmosir ta oka-an ruwe?	Asutko Hokkaidolla?

@@ -7,6 +7,9 @@ ind	rus	Apa kabar?	Как дела?
 ind	rus	Apakah yang dipelajari Sovietolog?	Что изучает советолог?
 ind	rus	Apa kalian semua sudah siap?	Вы все готовы?
 ind	rus	Apa kamu cukup tidur?	Ты высыпаешься?
+ind	rus	Apa yang kalian beri tahukan kepadanya?	Что вы ей говорите?
+ind	rus	Apa yang kalian katakan padanya?	Что вы ей говорите?
+ind	rus	Apa yang kalian katakan padanya?	Что вы ему говорите?
 ind	rus	Apa yang kau pikir?	Как ты думаешь?
 ind	rus	Awas!	Осторожно!
 ind	rus	Ayahnya makan di sana dua kali seminggu.	Его отец ест там два раза в неделю.
@@ -14,27 +17,39 @@ ind	rus	Bahasa Rusia itu sulit, namun indah.	Русский язык краси�
 ind	rus	Berapa umurnya?	Сколько тебе лет?
 ind	rus	Bill membawakan saya buku ini.	Билл принес мне эту книгу.
 ind	rus	Buddhisme bermula dari India.	Буддизм возник в Индии.
+ind	rus	Bus ini tidak pergi ke sana.	Этот автобус туда не идёт.
 ind	rus	Cepat, Tom.	Поторопись, Том.
 ind	rus	Dapatkah Anda membantu saya mencarikan rumah dengan sebuah taman kecil?	Могли бы Вы найти мне дом с небольшим садом?
 ind	rus	Dengan naik pesawat, ke London bisa hanya 1 hari.	Самолётом мы можем долететь до Лондона за день.
 ind	rus	Dengarkan aku!	Послушайте меня!
+ind	rus	Dia ingin buah.	Он хочет фруктов.
 ind	rus	Dia menutup pintu.	Он закрыл дверь.
+ind	rus	Dia orang Hungaria?	Он венгр?
 ind	rus	Dia sepertinya dalam masalah.	Кажется, что у него проблемы.
 ind	rus	Dick telah mengalami kecelakaan lalu-lintas.	Дик попал в ДТП.
 ind	rus	Di dekat rumahku ada taman indah.	Рядом с моими домом есть прекрасный парк.
 ind	rus	Di depan rumahku ada taman umum.	Перед моим домом есть парк.
+ind	rus	Foto ini diambil di Australia.	Эта фотография была сделана в Австралии.
 ind	rus	Ia ingin menyanyi sebagai karirnya.	Он хотел сделать карьеру певца.
 ind	rus	Ibukota Ukraina adalah Kiev.	Столица Украины - Киев.
 ind	rus	Ini adalah kali ke-2 naik pesawat.	Второй раз в жизни я лечу на самолёте.
+ind	rus	Ini hanyalah provokasi dari pihaknya.	Это лишь провокация от него.
+ind	rus	Ini hanyalah provokasi dari pihaknya.	Это лишь провокация от неё.
 ind	rus	Ini sekolah kami.	Это наша школа.
 ind	rus	Istri dia meninggal dalam kecelakaan.	Его жена погибла в аварии.
 ind	rus	Istriku seorang vegetarian.	Моя жена — вегетарианка.
+ind	rus	Jembatan ini tidak besar.	Этот мост небольшой.
 ind	rus	Kalian punya tiga orang anak.	У вас трое детей.
+ind	rus	Kami akan menjadi salah satu dari banyak orang Rusia yang pindah ke Serbia tahun ini.	Мы будем одними из многих русских, которые переехали в Сербию в этом году.
 ind	rus	Kami melakukan apa yang seharusnya dilakukan untuk bertahan.	Мы делали то, что должны были, чтобы выжить.
+ind	rus	Kami sering pergi ke bioskop.	Мы часто ходим в кино.
+ind	rus	Kamu bukan istriku.	Ты не моя жена.
 ind	rus	Kamulah pahlawan saya.	Ты мой герой.
 ind	rus	Kamu punya tiga orang anak.	У тебя трое детей.
 ind	rus	Karena itulah dia tidak pergi belajar ke luar negeri.	Вот почему он не поехал учиться за границу.
 ind	rus	Kedutaan besar menolak suaka politik untuk pengungsi asing.	Посольство не предоставляет убежище политическим беженцам.
+ind	rus	Keluargaku tinggal di kota.	Моя семья живёт в городе.
+ind	rus	Kopi ini dingin.	Этот кофе холодный.
 ind	rus	Mary tidak punya teman bicara, tapi dia tidak merasa kesepian.	Мэри не с кем поговорить, но ей не одиноко.
 ind	rus	Mobil tersebut rusak.	Машина сломалась.
 ind	rus	Mutlak bahwa kamu dibutuhkan dalam rapat ini.	Это абсолютно необходимо, чтобы ты был на встрече.
@@ -44,9 +59,11 @@ ind	rus	Pemasukannya berkurang setengah setelah pensiun.	После выхода
 ind	rus	Penemuan ini akan tercatat dalam sejarah.	Это открытие войдет в историю.
 ind	rus	Peraturan seharusnya dipatuhi.	Правила должны соблюдаться.
 ind	rus	Perjodohan adalah suatu bentuk pelanggaran terhadap hak asasi manusia.	Брак является одной из форм нарушения прав человека.
+ind	rus	"Permisi, apakah kucing birunya masih ada?" "Kucing birunya tidak ada, tinggal tersisa yang merah saja."	"Скажите, пожалуйста, синие кошки ещё остались?" – "Синих кошек нет. Остались одни красные".
 ind	rus	Permisi, sekarang jam berapa?	Простите, Вы знаете, который час?
 ind	rus	Pesawat itu sudah tak tampak.	Самолет летел вне нашего поля зрения.
 ind	rus	Pria ini benar-benar sangat tua.	Этот человек очень-очень стар.
+ind	rus	Saat itu Tom tidak bisa berbahasa Prancis.	Том тогда не говорил по-французски.
 ind	rus	Saya gaptek.	Я с техникой не дружу.
 ind	rus	Saya harus ingat untuk membeli buku itu esok hari.	Мне надо не забыть завтра купить ту книгу.
 ind	rus	Saya heran kenapa tak seorang pun memberi tahu saya.	Интересно, как получилось, что мне никто не сказал.
@@ -63,10 +80,16 @@ ind	rus	Setelah nonton TV, saya pergi tidur.	Посмотрев телевизо
 ind	rus	Siapa yang bersama Tom?	Кто с Томом?
 ind	rus	Si gadis mendengarkan musik, si pemuda membaca buku.	Девочка слушала музыку, мальчик читал книгу.
 ind	rus	Tak terpikir bisa berjumpa denganmu.	Не ожидал вас увидеть.
+ind	rus	Tanpa larangan total di Internet, Anda tidak akan bisa membatasi akses ke apapun yang ada di dalamnya.	Без полного запрета интернета у тебя не получится ограничить доступ хоть к чему-либо в нём.
+ind	rus	Terima kasih atas sarannya!	Спасибо за рекомендацию!
+ind	rus	Tidak ada yang tahu berapa banyak waktu yang dibutuhkan untuk ini.	Никто не знает, сколько времени потребуется на это.
 ind	rus	Tom adalah yang pertama	Том был первым.
 ind	rus	Tom bukan pahlawan	Том не герой.
+ind	rus	Tom membelikan anaknya bola sepak.	Том купил сыну футбольный мяч.
 ind	rus	Tom memperoleh peringkat kedua	Том был вторым.
 ind	rus	Tom - pemain terbaik dalam tim.	Том — лучший игрок в команде.
+ind	rus	Tom tidak terlalu suka kucing.	Том не очень любит кошек.
+ind	rus	Tradisi adalah tradisi.	Традиция есть традиция.
 zsm_Latn	rus	Abang saya pergi ke kolej di Kobe.	Мой брат посещает университет в Кобе.
 zsm_Latn	rus	Apabila ia hujan perlahan seperti itu, saya ingin berjalan-jalan di taman.	Когда так моросит, я хочу гулять в парке.
 zsm_Latn	rus	Apa yang kamu cakapkan ini?	О чём ты говоришь?
@@ -82,16 +105,20 @@ zsm_Latn	rus	Kenapakah Tom tidak berada di mesyuarat itu?	Почему Тома 
 zsm_Latn	rus	Kita dapat memahami semua yang dia berkata.	Мы можем понять всё, что она говорит.
 zsm_Latn	rus	Kita perlukan seorang peguam.	Нам нужен адвокат.
 zsm_Latn	rus	Maaf, sekarang pukul berapa?	Простите, Вы знаете, который час?
+zsm_Latn	rus	Mengapa tidak tanya si Thierry?	Почему бы не спросить у Тьерри?
 zsm_Latn	rus	Mereka dimarahi oleh guru.	Их отчитал учитель.
 zsm_Latn	rus	Pekerja baru jatuh cinta dengan pengarah dan mencuri dokumen penting.	Новый сотрудник втёрся в доверие к директору и выкрал важные документы.
 zsm_Latn	rus	Perkara tidak seburuk yang dikatakan oleh Tom.	Всё не так плохо, как утверждает Том.
 zsm_Latn	rus	Saya akan buat minum teh sekarang.	Я сейчас тебе чаю заварю.
 zsm_Latn	rus	Saya akan jadi enam belas tahun September ini.	В сентябре мне будет шестнадцать.
 zsm_Latn	rus	Saya akan jadi enam belas tahun September ini.	Мне исполнится шестнадцать в сентябре.
+zsm_Latn	rus	Saya bertanya kepadanya berkali-kali.	Я много раз её спрашивал.
 zsm_Latn	rus	Saya boleh dapat datang besok.	Я могу прийти завтра.
 zsm_Latn	rus	Saya menunjukkan Tom gitar baru saya.	Я показал Тому свою новую гитару.
+zsm_Latn	rus	Saya tahu saya pernah berjumpa dengan awak sebelum ini, tetapi saya tidak ingat di mana.	Я знаю, что мы с тобой уже встречались, но не могу вспомнить где.
 zsm_Latn	rus	Saya telah membeli sebuah buku tentang binatang-binatang.	Я купил книгу о животных.
 zsm_Latn	rus	Semua manusia dilahirkan bebas dan samarata dari segi kemuliaan dan hak-hak. Mereka mempunyai pemikiran dan perasaan hati dan hendaklah bertindak di antara satu sama lain dengan semangat persaudaraan.	Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.
+zsm_Latn	rus	Tanpa larangan sepenuhnya pada Internet, anda tidak akan dapat menyekat akses kepada apa-apa di dalamnya.	Без полного запрета интернета у тебя не получится ограничить доступ хоть к чему-либо в нём.
 zsm_Latn	rus	The sixth Prime Minister of Malaysia is Dato' Seri Najib Abdul Razak.	Шестой премьер-министр Малайзии - Дато Сери Наджиб Абдул Разак.
 zsm_Latn	rus	Tiada yang lebih penting daripada persahabatan.	Нет ничего важнее, чем дружба.
 zsm_Latn	rus	Tom dan kawan-kawannya duduk di di sekeliling unggun api dan menyanyikan lagu.	Том с друзьями сидели вокруг костра и пели песни.

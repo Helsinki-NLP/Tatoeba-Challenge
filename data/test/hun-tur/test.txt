@@ -1,8 +1,10 @@
 hun	tur	A babának szüksége van az édesanyjára.	Bebeğin annesine ihtiyacı vardır.
+hun	tur	A bábokat mindenki szereti.	Kuklaları herkes sever.
 hun	tur	A bankba megyek.	Ben bankaya gidiyorum.
 hun	tur	A barátom meghalt tüdőrákban.	Amcam, akciğer kanserinden öldü.
 hun	tur	A barátom tüdőrákban halt meg.	Amcam, akciğer kanserinden öldü.
 hun	tur	A bárban ült és egymás után öntögette magába a viszkiket.	O, peşpeşe viski içerek barda oturdu.
+hun	tur	A beteg nehezen tudott mozogni.	Hasta güçlükle hareket edebiliyordu.
 hun	tur	A Collin McRae 2-n tanultam meg vezetni.	Araba kullanmayı Collin McRae Rally 2'den öğrendim.
 hun	tur	A családom nem túl nagy.	Ailem çok büyük değildir.
 hun	tur	A diákok a tanteremben vannak.	Öğrenciler sınıfta.
@@ -12,6 +14,7 @@ hun	tur	Adni fogok neked egy biciklit a születésnapodra.	Doğum günün için 
 hun	tur	A feleségem és én fölkészülünk nyugdíjas éveinkre.	Karım ve ben emekli olmak için hazırlanıyoruz.
 hun	tur	A futball egy sport.	Futbol bir spordur.
 hun	tur	A gyerekek játékokkal játszanak.	Çocuklar oyuncakları ile oynuyor.
+hun	tur	A gyerekek szeretnek a földön játszani.	Çocuklar toprakta oynamayı sever.
 hun	tur	A gyerekem vagy.	Sen benim çocuğumsun.
 hun	tur	A gyerek fél a sötétben.	Çocuk karanlıktan korktu.
 hun	tur	A hal nem finom.	Balık lezzetli değil.
@@ -29,6 +32,7 @@ hun	tur	A karjai között halt meg.	Kollarının arasında öldü.
 hun	tur	Akarom a könyvet.	Kitabı istiyorum.
 hun	tur	Akartál valamit mondani nekem?	Bana söyleyecek bir şeyin var mı?
 hun	tur	A kávé forró.	Bu kahve sıcak.
+hun	tur	A királyt én öltem meg.	Kralı ben öldürdüm.
 hun	tur	Akkor holnap a könyvtárban.	Yarın kütüphanede görüşürüz.
 hun	tur	A könyv piros.	Kitap kırmızıdır.
 hun	tur	A kulcs a polcon van.	Anahtar masanın üstünde.
@@ -40,12 +44,15 @@ hun	tur	Almát eszem.	Elma yiyorum.
 hun	tur	Almát eszik.	O bir elma yiyor.
 hun	tur	Általában kilenctől ötig szoktam dolgozni, de ma tízig dolgoztam.	Ben genelde dokuzdan beşe kadar çalışırım ama bugün ona kadar çalıştım.
 hun	tur	Általában tíz előtt lefekszem.	Genellikle saat on'dan önce yatmaya giderim.
+hun	tur	A maradék pénzéből nyolcvan tevét vásárolt.	Kalan parasıyla seksen deve aldı.
 hun	tur	Amerikai vagy?	Amerikalı mısınız?
 hun	tur	A mi cégünknek nagyon hosszú története van.	Firmamızın uzun, uzun bir geçmişi var.
 hun	tur	A mi gyárunk látja el tejjel az egész várost.	Fabrikamız bütün şehre süt tedarik etmektedir.
 hun	tur	Amit keres, azt félre teszi.	O kazandığını biriktirir.
+hun	tur	A neve Mohamed.	Onun adı Muhammad.
 hun	tur	A nevem Tom.	Adım Tom.
 hun	tur	A nevem Tom.	Benim adım Tom.
+hun	tur	Angolul beszéltél?	İngilizce mi konuşuyordun?
 hun	tur	Angolul válaszolj!	İngilizce cevap ver.
 hun	tur	Annak ellenére, hogy jegyesek vagyunk, nem akarta megengedni, hogy megcsókoljam.	Nişanlı olsak da, o beni öpmek istemiyordu.
 hun	tur	A nő az irodában dolgozik.	Kadın ofiste çalaşıyor.
@@ -61,11 +68,13 @@ hun	tur	Anyám soha nem kel korán.	Annem asla erken kalkmaz.
 hun	tur	Anyám vett a testvéremnek egy sárga esernyőt.	Annem erkek kardeşime sarı bir şemsiye aldı.
 hun	tur	A nyugati kultúrában Attilát "az Isten ostora"-ként ismerik.	Batı kültüründe Attila "Tanrı'nın kırbacı" ismiyle bilinir.
 hun	tur	A nyugati kultúrában Attilát Isten ostoraként ismerik.	Batı kültüründe Attila "Tanrı'nın kırbacı" ismiyle bilinir.
+hun	tur	— Apa, tudsz adni egy kis pénzt? — Hozzad a nadrágomat.	"Baba bana biraz parar verir misin?" "Pantolonumu getir."
 hun	tur	A prostitúció legális Németországban.	Almanya'da fahişelik yasaldır.
 hun	tur	Apukám a pizzát nagyon szereti.	Babam pizayı çok sever.
 hun	tur	Árva gyerek vagyok.	Ben bir yetimim.
 hun	tur	A sajt sárga.	Peynir sarı.
 hun	tur	A suli kilenckor kezdődik.	Okul dokuzda başlar.
+hun	tur	A szlovén szép nyelv.	Slovence güzel bir dildir.
 hun	tur	A szülővárosom a tenger mellett van.	Benim ülkemin okyanusa kıyısı vardır.
 hun	tur	A tea és a kávé segítenek elkezdeni a napot.	Çay ve kahve, güne başlamaya yardımcı olur.
 hun	tur	A te cipőd itt van. Az enyém hol van?	Sizin ayakkabılarınız burada. Benimkiler nerede?
@@ -81,11 +90,14 @@ hun	tur	A városba látogatók száma évről évre növekszik.	Kasabayı ziyare
 hun	tur	A város Londontól keletre fekszik.	Şehir Londra'nın batısında kurulu.
 hun	tur	A város szép.	Şehir güzel.
 hun	tur	A vihar még hevesebbé vált.	Fırtına daha da şiddetlendi.
+hun	tur	A vonat késve indul.	Tren gecikmeli ayrılacak.
 hun	tur	Az adóssága 100000 jenre rúg.	Onun borçları 100,000 yene ulaştı.
 hun	tur	Az a hölgy a szomszédunk.	O bayan bizim komşumuz.
 hun	tur	Az ajtó lassan kinyílt.	Kapı yavaşça açıldı.
+hun	tur	Az alkoholizmus tönkretette az életemet.	Alkolizm hayatımı mahvetti.
 hun	tur	Az állatok az ösztöneiket követik.	Hayvanlar içgüdülerini takip eder.
 hun	tur	Az alma piros?	Elma kırmızı mı?
+hun	tur	Az álmom, hogy kurdul tanuljak Diyarbakırban.	Hayalim Diyarbakır'da Kürtçe okumak.
 hun	tur	Az amerikaiak sok húst esznek.	Amerikalılar çok et yer.
 hun	tur	Az angol nem könnyű, de érdekes.	İngilizce kolay değil ama ilginç.
 hun	tur	Az antiszemitizmus a hülyék szocializmusa.	Antisemitizm aptalların sosyalizmidir.
@@ -115,6 +127,7 @@ hun	tur	Azt akarom, hogy Tom hazamenjen.	Tom'un eve gitmesini istiyorum.
 hun	tur	Azt hiszem, terápiára van szükségem.	Ben terapiye ihtiyacım olduğunu düşünüyorum.
 hun	tur	Azt hiszem, Tomi többet tud, mint amennyit elárul.	Sanırım Tom itiraf ettiğinden daha çok şey biliyor.
 hun	tur	Azt mondtad, boldog vagy.	Mutlu olduğunu söylemiştin.
+hun	tur	Azt mondták, egyedül akarnak lenni.	Yalnız kalmak istediklerini söylediler.
 hun	tur	Azt tervezem, hogy elmegyek a koktélpartijára.	Ben onun kokteyl partisine gitmeyi planlıyorum.
 hun	tur	Az Uránusz bolygó.	Uranüs bir gezegendir.
 hun	tur	Az Uránusz bolygó.	Uranüs gezegendir.
@@ -126,6 +139,7 @@ hun	tur	Azzal töltöttem az időt a szabadságom alatt, hogy nem csináltam sem
 hun	tur	Barátom vagy.	Benim arkadaşımsın.
 hun	tur	Basszusgitáron játszik.	O, bas gitar çalar.
 hun	tur	Basszusgitározik.	O, bas gitar çalar.
+hun	tur	Bent vagyok most az épületben.	Şimdi binadayım.
 hun	tur	Beszállt az autóba és elhajtott onnan.	O, arabaya bindi ve uzaklaştı.
 hun	tur	Beszélek franciául.	Fransızca konuşuyorum.
 hun	tur	Beszélgetni kezdtünk.	Konuşmaya başladık.
@@ -184,6 +198,7 @@ hun	tur	Elnézést, hol van a könyvtár?	Affedersiniz, ama kütüphane nerede?
 hun	tur	Először eldöntjük, mit kell eldönteni, aztán két csapatra oszlunk.	Öncelikle karar verilmesi gereken şey üzerinde karar veririz sonra iki takıma ayrılırız.
 hun	tur	Elsőnek Mari ment, és Tom utána jött.	Önce Mary yürüdü, ve Tom arkada geldi.
 hun	tur	Eltévedt a városban.	O şehirde kayboldu.
+hun	tur	Elvesztettem a kedvenc ceruzámat.	En sevdiğim kalemi kaybettim.
 hun	tur	Élveztük a zenehallgatást.	Müzik dinlemekten keyif aldık.
 hun	tur	Emília föltett nekem egy kérdést.	Emily bana bir soru sordu.
 hun	tur	Emlékszel erre a játékra?	Bu oyunu hatırlıyor musun?
@@ -214,6 +229,7 @@ hun	tur	Étkezel.	Yemek yiyorsun.
 hun	tur	Étkeznek.	Yemek yiyorlar.
 hun	tur	Étkeztek.	Yemek yiyorsunuz.
 hun	tur	Ettem kaviárt.	Ben havyar yedim.
+hun	tur	Európa nincs.	Avrupa yok.
 hun	tur	Ez a cipő túl drága.	Bu ayakkabılar çok pahalı.
 hun	tur	Ez a férfi jól néz ki.	Bu adam yakışıklı.
 hun	tur	Ez a film bűzlik.	O film berbat!
@@ -223,6 +239,8 @@ hun	tur	Ez a házunk.	Bu bizim ev.
 hun	tur	Ez a házunk.	O bizim ev.
 hun	tur	Ez a kék valami nem citromsárga.	Bu mavi şey sarı değil.
 hun	tur	Ez a kocsid.	Şu sizin arabanız.
+hun	tur	Ez a könyv első kiadása.	Bu, kitabın ilk baskısı.
+hun	tur	Ez a könyv első kiadása?	Bu, kitabın ilk baskısı mı?
 hun	tur	Ez a legmélyebb tó Japánban.	Japonya'da bu göl en derin göldür.
 hun	tur	Ez a park engem az ifjúságomra emlékeztet.	Bu park bana çocukluğumu hatırlatıyor.
 hun	tur	Ez a szék nem kényelmes.	Bu sandalye rahat değil.
@@ -277,12 +295,14 @@ hun	tur	Ezt én nem akarom megtenni.	Onu yapmayacağım.
 hun	tur	Ez te vagy?	Bu sen misin?
 hun	tur	Ez te vagy?	O sen misin?
 hun	tur	Ezt ki csinálta?	Onu kim yaptı?
+hun	tur	Ezt meg akarom venni.	Bunu satın almak istiyorum.
 hun	tur	Ezt minden könyvesboltban meg tudod venni.	Onu herhangi bir kitapçıda alabilirsin.
 hun	tur	Ezt mindennap használom.	Onu her gün kullanırım.
 hun	tur	Ezt ne mondd!	Onu söyleme.
 hun	tur	Ez Tom táskája?	Bu Tom'un çantası mı?
 hun	tur	Ezüst nyakláncot szeretnék venni.	Gümüş bir kolye almak istiyorum.
 hun	tur	Ez volt a hibád.	Bu senin hatandı.
+hun	tur	Ez volt az utolsó vonat.	Bu son trendi.
 hun	tur	Ezzel neked is szembe kell nézni.	Bir de bununla bakmalısın.
 hun	tur	Fagyizok.	Dondurma yiyorum.
 hun	tur	Fagylaltozom.	Dondurma yiyorum.
@@ -290,6 +310,7 @@ hun	tur	Fáradt vagyok és le akarok feküdni.	Yorgunum, ve yatmak istiyorum.
 hun	tur	Fáradt vagyok.	Yorgunum.
 hun	tur	Feküdj vissza az ágyadba.	Yatağına geri git.
 hun	tur	Félek a repülőgépektől.	Uçaklardan korkuyorum.
+hun	tur	Feloldották a szigorításokat.	Kısıtlamalar kaldırıldı.
 hun	tur	Feltételezem, haza akarsz menni.	Sanırım eve gitmek istiyorsun.
 hun	tur	Feltételezem, hogy Tomi megváltoztatta a véleményét.	Sanırım Tom fikrini değiştirdi.
 hun	tur	Feltételezem, hogy valahol van valaki, aki bírja Tomit.	Sanırım Tom'u seven biri bir yerde vardır.
@@ -386,6 +407,7 @@ hun	tur	Jakab nagyon szigorú a gyermekeivel.	Jack çocuklarına çok serttir.
 hun	tur	Jane Ausztráliából jött.	Jane, Avustralyalı.
 hun	tur	Janinak két fia van.	John'ın iki oğlu vardır.
 hun	tur	Japán Kelet-Ázsiában van.	Japonya Doğu Asya'dadır.
+hun	tur	Jézus nem volt keresztény.	İsa Hristiyan değildi.
 hun	tur	Jó éjszakát, anya!	İyi geceler, anne.
 hun	tur	Jó éjszakát!	İyi geceler!
 hun	tur	Jó éjszakát!	İyi geceler.
@@ -395,6 +417,7 @@ hun	tur	Jó éjszakát, Timmy.	İyi geceler, Timmy.
 hun	tur	Jó éjt, anya!	İyi geceler, anne.
 hun	tur	Jó lenne, ha elállna az eső.	Keşke yağmur yağışı dursa.
 hun	tur	Jól érezted magad tegnap?	Dün eğlendin mi?
+hun	tur	Jól ismerem a szerzői jogi törvényeket.	Telif hakları yasasını iyi biliyorum.
 hun	tur	Jól ismer minket.	O bizi iyi tanır
 hun	tur	Jó napot!	İyi günler.
 hun	tur	Jó napot, jó emberek!	Merhaba, iyi insanlar!
@@ -424,6 +447,7 @@ hun	tur	Kérem, térjünk vissza a tizedik oldalra.	Lütfen onuncu sayfaya bakı
 hun	tur	Kéretik itt nem dohányozni.	Burada sigara içmeyin, lütfen.
 hun	tur	Kérlek, adj egy pohár tejet.	Lütfen bana bir fincan süt verin.
 hun	tur	Kérlek a jövő szombat délutánt hagyd szabadon.	Lütfen gelecek Cumartesi öğleden sonrayı boş bırak.
+hun	tur	Kérlek kattints ide.	Lütfen buraya tıklayınız.
 hun	tur	Kérlek, válaszolj nekem erre a kérdésre.	Lütfen bu soruyu benim için cevapla.
 hun	tur	Késő este is tudok dolgozni.	Geç saatlere kadar çalışabilirim.
 hun	tur	Késsel, villával egyél!	Bıçak ve çatalla ye.
@@ -433,19 +457,25 @@ hun	tur	Két éven át éltem Bostonban.	Üç yıl Boston'da yaşadım.
 hun	tur	Két éve tanulok franciául.	Ben iki yıldır Fransızca öğreniyorum.
 hun	tur	Két éve tanulok franciául.	İki yıldır Fransızca öğreniyorum.
 hun	tur	Két évvel ezelőtt jött Japánba.	O, iki yıl önce Japonya'ya geldi.
+hun	tur	Két évvel ezelőtt olvastam ezt a könyvet.	Bu kitabı iki yıl önce okumuştum.
 hun	tur	Két évvel idősebb mint én.	O, benden iki yaş daha büyüktür.
 hun	tur	Két gyerek apja.	İki çocuk babasıdır.
 hun	tur	Két kezem és két lábam van.	İki elim ve iki bacağım var.
+hun	tur	Két lányom és egy fiam van.	İki kızım ve bir oğlum var.
+hun	tur	Két lányom van és egy fiam.	İki kızım ve bir oğlum var.
 hun	tur	Két napig sem élhetünk víz nélkül.	Susuz bir gün daha yaşayamayız.
 hun	tur	Két órába telt eljutni Jokohámába.	Yokohama'ya varmak iki saatimi aldı.
 hun	tur	Kétszer hét az tizennégy.	İki kere yedi on dörttür.
 hun	tur	Kevés bútor van a házamban.	Evimde az mobilya var.
+hun	tur	Kevés fráncia nyelvű könyv van a könyvtáramban.	Benim kütüphanemde Fransızca kitap az.
 hun	tur	Ki a kedvenc professzorod?	Gözde profesörün kimdir?
 hun	tur	Ki az ügyvéded?	Avukatın kimdir?
 hun	tur	Kié ez a táska?	Bu çanta kimin?
 hun	tur	Kié ez a táska?	Bu kimin çantası?
 hun	tur	Kigyulladt a fény.	Işık yandı.
 hun	tur	Ki kell javítanunk a hibát.	Hasarı onarmalıyız.
+hun	tur	Kinyitotta irodájának ajtaját.	Ofisinin kapısını açtı.
+hun	tur	Kit öltél meg?	Kimi öldürdün?
 hun	tur	Ki tud angolul?	Kim İngilizce konuşabilir?
 hun	tur	Ki vagy te?	Sen kimsin?
 hun	tur	Ki van a konyhában?	Kim var mutfakta?
@@ -473,6 +503,7 @@ hun	tur	Kutya vagy.	Sen bir köpeksin.
 hun	tur	Kutya vagy.	Sen köpeksin.
 hun	tur	Láthatnám a borlapot?	Şarap listesini görebilir miyim?
 hun	tur	Látni akarlak.	Seni görmek istiyorum.
+hun	tur	Látok valamit, de nem tudom, mit.	Bir şey görüyorum, ancak ne olduğunu bilmiyorum.
 hun	tur	Leesett a fáról az alma.	Elma ağaçtan düştü.
 hun	tur	Lefekvőben voltam, amikor fölhívott.	O beni aradığında yatmak üzereydim.
 hun	tur	Lefényképeztem a családomat.	Ailemin bir fotoğrafını çektim.
@@ -501,8 +532,10 @@ hun	tur	Megbuktam.	Ben testlerde başarısız oldum.
 hun	tur	Még fiatalok.	Onlar hâlâ genç.
 hun	tur	Még fiatal vagy.	Hâlâ gençsin.
 hun	tur	Meg fognak találni bennünket.	Onlar bizi bulacaklar.
+hun	tur	Még használom.	Hâlâ kullanıyorum.
 hun	tur	Megkísérelte megölni magát.	Kendini öldürmeye çalıştı.
 hun	tur	Még mindig nem értem a nőket.	Kadınları hâlâ anlamıyorum.
+hun	tur	Megöltem a királyt.	Kralı öldürdüm.
 hun	tur	Megtaláltam a nyakláncod hiányzó darabját.	Kolyenin kayıp parçasını buldum.
 hun	tur	Megtehetik, ha akarják.	Eğer isterlerse yapabilirler.
 hun	tur	Megtudhatnám a nevét?	İsminizi alabilir miyim?
@@ -533,6 +566,7 @@ hun	tur	Miért tettél úgy, mintha nem ismernél engem?	Niçin beni tanımıyor
 hun	tur	Miért van otthon Tom?	Tom niçin evde?
 hun	tur	Mi ez a tányéron?	Tabaktaki ne?
 hun	tur	Mihez?	Ne için?
+hun	tur	Mik a terveid holnapra?	Yarın için planların nedir?
 hun	tur	Mikor érkeztél Kiotóba?	Kyoto'ya ne zaman vardın.
 hun	tur	Mikor kezdődik?	Ne zaman başlar?
 hun	tur	Mikor kezdődik?	O saat kaçta başlar?
@@ -569,6 +603,7 @@ hun	tur	Mit mond a nő?	Kadın ne söylüyor?
 hun	tur	Mit olvasol most?	Ne okuyorsun?
 hun	tur	Mi történik?	Ne oluyor?
 hun	tur	Mit tesz most Ken?	Ken şimdi ne yapıyor?
+hun	tur	Mondani akartam.	Söylemek istedim.
 hun	tur	Mondott neked valamit erről?	O, onun hakkında sana bir şey söyledi mi?
 hun	tur	Most el kell mennem.	Artık gitmeliyim.
 hun	tur	Most ne teniszezzünk.	Tenis oynamayalım.
@@ -588,16 +623,21 @@ hun	tur	Nálam nincs.	Bende yok.
 hun	tur	Nála vannak a könyvek.	Kitaplar onda.
 hun	tur	Ne bánkódj.	Üzülmeyin.
 hun	tur	Ne felejtsd el a telefonodat.	Telefonunu unutma.
+hun	tur	Négy évig maradtam Diyarbakırban.	Diyarbakır'da dört sene kaldım.
 hun	tur	Nehéz kecskét fejni?	Keçi sağmak zor mudur?
 hun	tur	Nekem jobban szükségem van rá, mint neked.	Buna senden daha çok ihtiyacım var.
 hun	tur	Ne késsünk el.	Geç kalmamalıyız.
 hun	tur	Neki egy nagyon drága órája van.	Onun çok pahalı bir saati var.
 hun	tur	Ne légy szomorú.	Üzülmeyin.
+hun	tur	Nem akarok melléd ülni.	Seninle oturmak istemiyorum.
+hun	tur	Nem akarok sokat.	Çok istemiyorum.
 hun	tur	Nem akarom, hogy az országom az Európai Unió tagjává váljon.	Ülkemin Avrupa Birliği üyesi olmasını istemiyorum.
 hun	tur	Nem akarta beismerni hibáit.	Hatasını kabul etmedi.
 hun	tur	Nem a pénzről volt szó.	O, parayla ilgili değildi.
+hun	tur	Nem beszélgetünk sokat.	Çok konuşmuyorum.
 hun	tur	Nem beteg.	O, hasta değil.
 hun	tur	Nem emlékszem, hogy valaha is találkoztam volna Tommal.	Tom'la karşılaştığımı hiç hatırlamıyorum.
+hun	tur	Nem én beszélek franciául.	Fransızcayı ben konuşmuyorum.
 hun	tur	Nem engedi, hogy Kati bort igyon.	Kate'nin şarap içmesine izin vermez.
 hun	tur	Nem érzem ma jól magam.	Bugün kendimi iyi hissetmiyorum.
 hun	tur	Németországban legális a prostitúció.	Almanya'da fahişelik yasaldır.
@@ -605,6 +645,8 @@ hun	tur	Nem, fáradt vagyok.	Hiçbir, yoruldum.
 hun	tur	Nem félünk!	Biz korkmuyoruz.
 hun	tur	Nem hagyom abba.	Bunu yapmaktan vazgeçmeyeceğim!
 hun	tur	Nem.	Hayır.
+hun	tur	Nem iszom kávét, de egy csésze tea igazán jól esne.	Kahve içmem, ama bir fincan çay harika olur.
+hun	tur	Nem iszom kávét, de egy csésze tea remekül jönne.	Kahve içmem, ama bir fincan çay harika olur.
 hun	tur	Nem jelölteti magát a következő választásra.	O, gelecek seçime katılmıyor.
 hun	tur	Nem könnyű a választás.	Bunu seçmek zor.
 hun	tur	Nem könnyű az élet.	Hayat kolay değil.
@@ -623,6 +665,7 @@ hun	tur	Nem tagadhatjuk, hogy becsületes.	Onun dürüst olduğu gerçeğini ink
 hun	tur	Nem találok ebben semmi érdekeset.	Bunlardan herhangi birini ilginç bulmuyorum.
 hun	tur	Nem tanár vagyok.	Ben bir öğretmen değilim.
 hun	tur	Nem tanult a hibáiból.	Kendi hatasını fark etmedi.
+hun	tur	Nem tehetek semmit.	Hiçbir şey yapamam.
 hun	tur	Nem tehetsz mindig mindenkit boldoggá.	Her zaman herkesi mutlu yapamazsın.
 hun	tur	Nem telefonáltam.	Ben aramadım.
 hun	tur	Nem tetszik Boston.	Boston'u sevmiyorum.
@@ -631,6 +674,7 @@ hun	tur	Nem tudok elmenni innen.	Burayı bırakamam.
 hun	tur	Nem tudom ezt megerősíteni.	Onu teyit edemem.
 hun	tur	Nem tudom, hogy csináltam.	Onu nasıl yaptığımı bilmiyorum.
 hun	tur	Nem tudom, miért sírsz.	Onun neden ağladığını bilmiyorum.
+hun	tur	Nem tudom, Tom.	Bilmiyorum, Tom.
 hun	tur	Nem vagy egyedül.	Yalnız değilsin.
 hun	tur	Nem vagyok az apád.	Ben senin baban değilim.
 hun	tur	Nem vagyok az apád.	Senin baban değilim.
@@ -643,6 +687,7 @@ hun	tur	Nem vagyok perfekt.	Mükemmel değilim.
 hun	tur	Nem vagyunk veszélyben most.	Şu anda herhangi bir tehlike değiliz.
 hun	tur	Nem vétkes a gyilkosságban.	O, cinayetten suçlu değildir.
 hun	tur	Nem volt megfelelő fölszerelésük.	Onların iyi bir ekipmanı yoktu.
+hun	tur	Nem zsidó.	O Yahudi değil.
 hun	tur	Népszerű vagy.	Sen popülersin.
 hun	tur	Nincs elég pénzem utazni.	Seyahat etmek için yeterince param yok.
 hun	tur	Nincsenek mozgásban.	Onlar taşınmıyorlar.
@@ -654,6 +699,7 @@ hun	tur	Nincs nálam.	Bende yok.
 hun	tur	Nincs olyan messze.	O kadar uzak değil.
 hun	tur	Nincs otthon senki.	Evde kimse yok.
 hun	tur	Nincs semmi mondanivalóm.	Söyleyecek bir şeyim yoktu.
+hun	tur	Nincs sok pénzed.	Çok paran yok.
 hun	tur	Nincs sok pénze.	Onun çok fazla parası yok.
 hun	tur	Nincs szükségem orvosra.	Bana doktor lazım değil.
 hun	tur	Nincs szükségem orvosra.	Doktora ihtiyacım yok.
@@ -692,6 +738,7 @@ hun	tur	Ő miért mérges?	O niçin öfkeli?
 hun	tur	Ő mindig boldognak látszik.	O her zaman mutlu görünüyordu.
 hun	tur	Ő most szabadságon van.	O şimdi tatilde.
 hun	tur	Ön az én apám?	Siz benim babam mısınız?
+hun	tur	Ő nehezen tud beszélni.	O güçlükle konuşabiliyor.
 hun	tur	Ő nem akar menni ma iskolába.	Dikkat çekiciydi.
 hun	tur	Ő nem dohányzik.	O sigara içmiyor.
 hun	tur	Ön szerint melyik a helyes?	Sizce hangisi doğru?
@@ -707,6 +754,7 @@ hun	tur	Ott van egy fiú.	Bir oğlan var.
 hun	tur	Őt várta.	Onu bekledi.
 hun	tur	Ő veszi meg a számítógépet.	O, bilgisayarı satın alıyor.
 hun	tur	Padlizsán, sárgarépa, paradicsom.	Patlıcan, havuç, domates.
+hun	tur	Papámnak Ferenc József-szakálla van.	Büyükbabamın Franz Joseph sakalı var.
 hun	tur	Pénteken vagyok a legkevésbé elfoglalt.	En az meşgul olduğum gün cumadır.
 hun	tur	Pénzt akarok.	Ben para istiyorum.
 hun	tur	Pénzt akarok.	Para istiyorum.
@@ -730,6 +778,7 @@ hun	tur	Semennyi kávé sincs itthon.	Evde hiç kahve yok.
 hun	tur	Senki nem ment velem.	Hiç kimse benimle gitmedi.
 hun	tur	Senki sem hibátlan.	Hiç kimse hatasız değildir.
 hun	tur	Senki sem tudja.	Hiç kimse bilmiyor.
+hun	tur	Senki sem tudja, mi történt akkor.	O zaman ne olduğunu kimse bilmiyor.
 hun	tur	Sietek, hogy behozzam az elvesztegetett időt.	Kayıp zamanı telafi etmek için acele ettim.
 hun	tur	Sietek, hogy behozzam az időveszteséget.	Kayıp zamanı telafi etmek için acele ettim.
 hun	tur	Sietve ment a repülőtérre.	Aceleyle havaalanına gitti.
@@ -755,6 +804,7 @@ hun	tur	Szeretek ezzel a fogkrémmel fogat mosni.	Dişlerimi bu diş macunuyla f
 hun	tur	Szeretem a csirkét.	Tavuk severim.
 hun	tur	Szeretem a jó zenét.	İyi müziği takdir ederim.
 hun	tur	Szeretem a rockot.	Ben rock seviyorum.
+hun	tur	Szeretem a teniszt és a golfot.	Tenis ve golfü severim.
 hun	tur	Szeretem a történelmet.	Ben tarihi severim.
 hun	tur	Szeretem a történelmet.	Tarihi severim.
 hun	tur	Szereti a kalandot.	O macera sever.
@@ -778,6 +828,7 @@ hun	tur	Szokásom, hogy este sokáig fönn maradok.	Ben gece geç saatlere kadar
 hun	tur	Szőke haja van.	Onun sarı saçı var.
 hun	tur	Szükségem van egy beszélgetőtársra.	Sadece konuşacak birini istiyorum.
 hun	tur	Szükségem van egy kis szabadságra.	Bir tatile ihtiyacım var.
+hun	tur	Szükségem van ügyvédre.	Avukata ihtiyacım var.
 hun	tur	Találkoztam egy amerikai nővel.	Bir Amerikan kızıyla tanıştım.
 hun	tur	Talán beteg volt.	O hasta olmuş olabilir.
 hun	tur	Tamás anyja ebben a faluban él.	Tom'un annesi bu köyde yaşıyor.
@@ -797,6 +848,7 @@ hun	tur	Taxisofőr?	O bir taksi şoförü mü?
 hun	tur	Teát iszol.	Sen çay içersin.
 hun	tur	Tedd félre a telefonodat és figyelj rám.	Telefonunu kaldır ve beni dinle.
 hun	tur	Te egy álom vagy.	Sen bir rüyasın.
+hun	tur	Téged várnak ők?	Onlar seni mi bekliyor?
 hun	tur	Tegnap hideg volt.	Dün hava soğuktu.
 hun	tur	Tegnap jól szórakoztál?	Dün eğlendin mi?
 hun	tur	Tegnap meleg volt.	Dün hava sıcaktı.
@@ -836,6 +888,7 @@ hun	tur	Tom egy jelentőségteljes pillantást vetett Marira.	Tom Mary'ye anlaml
 hun	tur	Tom elég sokat keres.	Tom oldukça çok para yapar.
 hun	tur	Tom elhatározta, hogy Bostonba megy.	Tom Boston'a gitmeye karar verdi.
 hun	tur	Tom elhatározta, hogy használni fogja Mari számítógépét, habár ő azt mondta neki, hogy azt ne tegye.	Ona kullanmamasını söylemesine rağmen, Tom Mary'nin bilgisayarını kullanmaya karar verdi.
+hun	tur	Tom elment Batmanba.	Tom Batman'a gitti.
 hun	tur	Tom érti, amit te nem.	Senin anlamadığını Tom anlar.
 hun	tur	Tom eszik egy almát.	Tom bir elma yiyor.
 hun	tur	Tom eszik.	Tom yemek yiyor.
@@ -948,6 +1001,7 @@ hun	tur	Tud visszaadni egy dollárból?	Bir dolar bozar mısın?
 hun	tur	Tulajdonképpen Tomnak nincs biztosítása.	Aslında, Tom'un sigortası yok.
 hun	tur	Túl forró a leves.	Çorba çok sıcak.
 hun	tur	Tv-n néztem a meccset.	Televizyondaki maçı gördüm.
+hun	tur	Tyúkjaink és kecskéink vannak.	Tavuklarımız ve keçilerimiz var.
 hun	tur	Üdvözöllek az életemben!	Hayatıma hoş geldiniz.
 hun	tur	Úgy gondolom, hogy ezt magam is el tudom intézni.	Sanırım kendim bununla baş edebilirim.
 hun	tur	Úgy gondolom, hogy Tom ötlete jó.	Sanırım Tom'un fikri iyi bir fikir.
@@ -967,10 +1021,12 @@ hun	tur	Válaszolnod kellett volna a levelére.	Onun mektubuna cevap vermeliydin
 hun	tur	Választottak egy új képviselőtestületet.	Onlar yeni bir hükümet seçtiler.
 hun	tur	Valóóban börtönben szeretnéd tölteni életed hátra levő részét?	Hayatının geri kalan kısmını hapishanede geçirmeyi gerçekten istiyor musun?
 hun	tur	Van egy macskája és két kutyája.	Onun bir kedisi ve iki köpeği var.
+hun	tur	Van egy macskám meg egy papagájom.	Bir kedim ve bir papağanım var.
 hun	tur	Van egy sztegoszauruszunk.	Stegosaurusumuz var.
 hun	tur	Van élet a Marson?	Mars'ta yaşam var mı?
 hun	tur	Van fényképezőgéped?	Bir kameran var mı?
 hun	tur	Van kamerád?	Bir kameran var mı?
+hun	tur	Van két lányom meg egy fiam.	İki kızım ve bir oğlum var.
 hun	tur	Van még idő.	Hâlâ zaman var.
 hun	tur	Van még kérdésed?	Başka sorunuz var mı?
 hun	tur	Van naptárad?	Bir takvimin var mı?
@@ -989,6 +1045,7 @@ hun	tur	Vigyáznod kell magadra.	Kendine bakmalısın.
 hun	tur	Vigyázz magadra!	Kendine iyi bak!
 hun	tur	Vigyázz magadra!	Kendine iyi bak.
 hun	tur	Vigyen a bolthoz.	Beni mağazaya götür.
+hun	tur	Virágot vettem neked.	Sana çiçek aldım.
 hun	tur	Vissza kell mennem az irodába.	Ofise geri gitmem gerekiyor.
 hun	tur	Viszonya volt a főnökével.	Onun patronuyla bir ilişkisi vardı.
 hun	tur	Vizet iszik.	O su içer.

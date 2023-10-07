@@ -1,3 +1,8 @@
+dan	jpn	Den 20. oktober er det Toms fødselsdag.	10月20日はトムの誕生日です。
+dan	jpn	Den 20. oktober er det Toms fødselsdag.	10月20日はトムの誕生日よ。
+dan	jpn	Du har corona.	コロナですね。
+dan	jpn	En af mine døtre går på den samme skole som Tom.	娘の１人がトムと同じ学校に通ってるよ。
+dan	jpn	Er det en satinkjole?	それがサテンのドレス？
 dan	jpn_Hani	1, 3 og 5 er ulige tal.	１、３、５は奇数である。
 dan	jpn_Hani	Af de fire årstider kan jeg bedst lide sommeren.	私は四季の中で夏が一番好きだ。
 dan	jpn_Hani	Børn burde drikke mælk hver dag.	子供は毎日牛乳を飲むべきだ。
@@ -144,8 +149,8 @@ dan	jpn_Hani	Vi gik helt hen til parken.	我々は公園まで歩いた。
 dan	jpn_Hani	Vi løb 10 kilometer.	私達は１０キロ走った。
 dan	jpn_Hani	Voila! Sagen er løst!	一件落着！
 dan	jpn_Hani	Vold i skolen er et stort problem.	校内暴力は大問題である。
-dan	jpn_Hira	Åbn dine øjne.	目を開けて。
 dan	jpn_Hira	Åbn dine øjne.	目を開きなさい。
+dan	jpn_Hira	Åbn dine øjne.	目を開けて。
 dan	jpn_Hira	A kommer før B i alfabetet.	アルファベットではＡはＢの前にくる。
 dan	jpn_Hira	Alle er enige med dig.	みんな君に賛成だ。
 dan	jpn_Hira	Alle veje fører til Rom.	すべての道はローマに通ず。
@@ -204,10 +209,10 @@ dan	jpn_Hira	Der er mange gamle templer i Kyoto.	京都には古いお寺がた�
 dan	jpn_Hira	Der plejede at være en stor park her.	以前はここに大きな公園があった。
 dan	jpn_Hira	Der står en bil foran bygningen.	ビルの前に車があります。
 dan	jpn_Hira	Der var to kager.	ケーキが２つあった。
-dan	jpn_Hira	De sad i sofaen i vores stue.	彼らは私たちの居間のソファーに座っていた。
 dan	jpn_Hira	De sad i sofaen i vores stue.	彼らは私たちのリビングのソファに座っていた。
-dan	jpn_Hira	De sad i sofaen i vor stue.	彼らは私たちの居間のソファーに座っていた。
+dan	jpn_Hira	De sad i sofaen i vores stue.	彼らは私たちの居間のソファーに座っていた。
 dan	jpn_Hira	De sad i sofaen i vor stue.	彼らは私たちのリビングのソファに座っていた。
+dan	jpn_Hira	De sad i sofaen i vor stue.	彼らは私たちの居間のソファーに座っていた。
 dan	jpn_Hira	De så en kat der klatrede op i træet.	彼らは猫が木に登っているのを見た。
 dan	jpn_Hira	De sendte straks den syge person til et sygehus.	彼らはただちに病人を病院に送った。
 dan	jpn_Hira	De smilte til hinanden.	彼らは互いに微笑みあった。
@@ -280,8 +285,8 @@ dan	jpn_Hira	En tomat er en lækker madvare, hvad enten den er rå, kogt eller g
 dan	jpn_Hira	En udlænding spurgte mig hvor stationen lå.	ある外国人が私に駅がどこにあるかと聞いた。
 dan	jpn_Hira	Er der et eller andet at drikke i køleskabet?	冷蔵庫に何か飲み物がありますか。
 dan	jpn_Hira	Er der nogen, der kan udtale dette ord?	誰かこの単語を発音できる人はいますか。
-dan	jpn_Hira	Er det en kat?	あれはネコですか。
 dan	jpn_Hira	Er det en kat eller en hund?	あれは猫ですか犬ですか。
+dan	jpn_Hira	Er det en kat?	あれはネコですか。
 dan	jpn_Hira	Er dette din cykel?	これは君の自転車ですか。
 dan	jpn_Hira	Er drikke gratis?	飲み物は無料ですか。
 dan	jpn_Hira	Er du berømt?	あなたは有名ですか？
@@ -297,8 +302,8 @@ dan	jpn_Hira	Foråret er kommet.	春になった。
 dan	jpn_Hira	For at beregne rumfanget, skal du gange længden og bredden og dybden med hinanden.	容積を計算するためには縦と横と深さをかければよい。
 dan	jpn_Hira	Forestil dig at vi kan flyve som fugle.	私たちが鳥のように飛べると想像してごらん。
 dan	jpn_Hira	For mange penge?	金が多すぎる？
-dan	jpn_Hira	Forresten, spiller du violin?	ところで、君はバイオリンを弾きますか。
 dan	jpn_Hira	Forresten, spiller du violin?	ところで、バイオリンは弾きますか。
+dan	jpn_Hira	Forresten, spiller du violin?	ところで、君はバイオリンを弾きますか。
 dan	jpn_Hira	Fransk er vanskeligt at lære.	フランス語を学ぶのはむずかしい。
 dan	jpn_Hira	Fugle bygger reder i træer.	鳥は木に巣を作る。
 dan	jpn_Hira	Fugle har vinger.	鳥には翼がある。
@@ -326,8 +331,8 @@ dan	jpn_Hira	Han er DJ.	彼はＤＪです。
 dan	jpn_Hira	Han er en ulv i fåreklæder.	あいつは羊の皮をかぶったおおかみだ。
 dan	jpn_Hira	Han er ikke fra Hokkaido.	彼は北海道出身ではありません。
 dan	jpn_Hira	Han er ikke længere en dreng.	彼はもう少年ではない。
-dan	jpn_Hira	Han er italiensk af fødsel.	彼は生まれはイタリア人です。
 dan	jpn_Hira	Han er italiensk af fødsel.	彼の生まれはイタリア人である。
+dan	jpn_Hira	Han er italiensk af fødsel.	彼は生まれはイタリア人です。
 dan	jpn_Hira	Han er min bror.	彼は私の兄です。
 dan	jpn_Hira	Han er min bror.	彼は私の弟です。
 dan	jpn_Hira	Han er min gamle ven.	彼は私の古い友人です。
@@ -362,14 +367,15 @@ dan	jpn_Hira	Han lærte mig at skrive.	彼は私に書き方を教えてくれ�
 dan	jpn_Hira	Han læser en bog på sit værelse.	彼は自分の部屋で本を読んでいます。
 dan	jpn_Hira	Han leder efter et job.	彼は仕事を探している。
 dan	jpn_Hira	Han leder efter et job.	彼は職を探している。
+dan	jpn_Hira	Han løb.	彼が走った。
 dan	jpn_Hira	Han løb.	彼は走った。
 dan	jpn_Hira	Han lovede mig at komme tidligt.	彼は早く来ると私に約束した。
 dan	jpn_Hira	Han omfavnede hende.	彼は彼女を抱きしめた。
 dan	jpn_Hira	Han puttede dokumenterne i makulatoren.	彼はその書類を細断機に掛けた。
 dan	jpn_Hira	Han sagde godnat til sine forældre.	彼は両親に「おやすみなさい」と言った。
 dan	jpn_Hira	Han sagde ikke noget.	彼は何も言わなかった。
-dan	jpn_Hira	Han sendte mig et fødselsdagskort.	彼が誕生日カードを送ってくれた。
 dan	jpn_Hira	Han sendte mig et fødselsdagskort.	彼がバースデーカードを送ってくれた。
+dan	jpn_Hira	Han sendte mig et fødselsdagskort.	彼が誕生日カードを送ってくれた。
 dan	jpn_Hira	Hans held vil slippe op før eller senere.	遅かれ早かれ彼の運は尽きるだろう。
 dan	jpn_Hira	Han skød genvej.	彼は近道をした。
 dan	jpn_Hira	Hans kone blev dræbt i ulykken.	彼の妻はその事故で死亡した。
@@ -384,9 +390,9 @@ dan	jpn_Hira	Han tog et billede.	彼は写真を撮った。
 dan	jpn_Hira	Han var en nær ven af mig.	彼は私の親しい友人だった。
 dan	jpn_Hira	Han var meget træt.	彼はとても疲れていた。
 dan	jpn_Hira	Han vil blive en god ægtemand.	彼はよい夫になるだろう。
-dan	jpn_Hira	Har du en pen?	君はペンを持ってるかい。
 dan	jpn_Hira	Har du en pen?	あなたはペンを持っていますか。
 dan	jpn_Hira	Har du en pen?	ペン持っていますか。
+dan	jpn_Hira	Har du en pen?	君はペンを持ってるかい。
 dan	jpn_Hira	Har du noget varmt at drikke?	何か温かい飲み物はありますか。
 dan	jpn_Hira	Har du noget varmt at drikke?	何か熱い飲み物がありますか。
 dan	jpn_Hira	Har I en reservation?	予約はなさっていますか。
@@ -440,10 +446,10 @@ dan	jpn_Hira	Hvad er klokken?	何時ですか。
 dan	jpn_Hira	Hvad er lykke?	幸せって何だ？
 dan	jpn_Hira	Hvad er lykke?	幸せって何だろう？
 dan	jpn_Hira	Hvad er lykke?	幸せは何ですか。
-dan	jpn_Hira	Hvad gør du?	何してるの？
-dan	jpn_Hira	Hvad gør du?	何をしているの。
-dan	jpn_Hira	Hvad gør du?	何をしていますか。
 dan	jpn_Hira	Hvad gør du?	何しているのですか。
+dan	jpn_Hira	Hvad gør du?	何してるの？
+dan	jpn_Hira	Hvad gør du?	何をしていますか。
+dan	jpn_Hira	Hvad gør du?	何をしているの。
 dan	jpn_Hira	Hvad kaldes denne fisk på engelsk?	この魚は英語でなんといいますか。
 dan	jpn_Hira	Hvad koster det slips?	このネクタイはいくらですか。
 dan	jpn_Hira	Hvad koster jordbærrene?	その苺いくらするの？
@@ -460,12 +466,12 @@ dan	jpn_Hira	Hvem er det der spiller guitar?	ギターを弾いているのは�
 dan	jpn_Hira	Hvem er du?	あなたは誰ですか。
 dan	jpn_Hira	Hvem er han?	彼はだれですか。
 dan	jpn_Hira	Hvem er han?	彼は誰ですか。
-dan	jpn_Hira	Hvem har skrevet dette brev?	誰がこの手紙を書きましたか。
 dan	jpn_Hira	Hvem har skrevet dette brev?	誰がこの手紙を書いたのですか。
+dan	jpn_Hira	Hvem har skrevet dette brev?	誰がこの手紙を書きましたか。
 dan	jpn_Hira	Hvem skrev Hamlet?	ハムレットは誰が書いたのですか。
+dan	jpn_Hira	Hvem venter du på?	誰を待っていますか？
 dan	jpn_Hira	Hvem venter du på?	誰を待っている？
 dan	jpn_Hira	Hvem venter du på?	誰を待っているの？
-dan	jpn_Hira	Hvem venter du på?	誰を待っていますか？
 dan	jpn_Hira	Hvis ikke han var afgået ved døden så tidlig, ville han være blevet en stor videnskabsmand.	彼はあんなに若くして死ななかったら、偉い学者になっていただろうに。
 dan	jpn_Hira	Hvis jeg var dig så ville jeg straks gå hjem.	もし私が君だったらすぐ帰宅するだろう。
 dan	jpn_Hira	Hvis jeg var en fugl, ville jeg flyve hen til dig.	もし、私が鳥だったら、あなたのもとに飛んでいきたい。
@@ -479,20 +485,20 @@ dan	jpn_Hira	Hvordan udtaler man det ord?	その単語はどう発音されま�
 dan	jpn_Hira	Hvordan udtaler man "pronounce"?	"pronounce"ってどうやって発音するの？
 dan	jpn_Hira	Hvor er det en trist historie.	なんと悲しい話でしょう。
 dan	jpn_Hira	Hvor er det smukkeste sted i verden?	世界で最も美しい場所はどこですか。
-dan	jpn_Hira	Hvor er din skole?	君の学校はどこにありますか。
 dan	jpn_Hira	Hvor er din skole?	あなたの学校はどこですか。
 dan	jpn_Hira	Hvor er din skole?	あなたの学校はどこにありますか?
-dan	jpn_Hira	Hvor er du?	どこにいますか？
+dan	jpn_Hira	Hvor er din skole?	君の学校はどこにありますか。
 dan	jpn_Hira	"Hvor er du?" "Jeg er her."	「どこにいるの？」「ここだよ」
+dan	jpn_Hira	Hvor er du?	どこにいますか？
 dan	jpn_Hira	Hvor er han?	彼はどこだ？
 dan	jpn_Hira	Hvor er jeres skole?	あなたがたの学校はどこにありますか。
 dan	jpn_Hira	Hvor er mælke-teen?	ミルクティーはどこにあるの。
 dan	jpn_Hira	Hvor er min bil?	私の車はどこにありますか。
 dan	jpn_Hira	Hvor er mit ur?	僕の時計はどこだ。
 dan	jpn_Hira	Hvorfor græder babyen?	赤ちゃんはなぜ泣いているのですか。
-dan	jpn_Hira	Hvorfor græder du?	なぜあなたは泣いているのですか。
 dan	jpn_Hira	Hvorfor græder du?	どうして泣いているの？
 dan	jpn_Hira	Hvorfor græder du?	どうして泣いているのですか。
+dan	jpn_Hira	Hvorfor græder du?	なぜあなたは泣いているのですか。
 dan	jpn_Hira	Hvorfor græder du?	なぜ泣いているのですか。
 dan	jpn_Hira	Hvor gammel er din far?	あなたのお父さんは何歳ですか。
 dan	jpn_Hira	Hvor kan jeg parkere?	どこに駐車できますか。
@@ -532,13 +538,13 @@ dan	jpn_Hira	Jeg drak øl i går aftes.	昨晩私はビールを飲んだ。
 dan	jpn_Hira	Jeg drikker ikke meget øl.	ビールはあまりたくさん飲みません。
 dan	jpn_Hira	Jeg drikker ikke, og jeg ryger heller ikke.	ぼくは酒も煙草もやらない。
 dan	jpn_Hira	Jeg drømte om dig.	わたしはあなたの夢を見ました。
-dan	jpn_Hira	Jeg elsker dig.	君が好きだ。
 dan	jpn_Hira	Jeg elsker dig.	あなたが好きです。
+dan	jpn_Hira	Jeg elsker dig.	君が好きだ。
 dan	jpn_Hira	Jeg elsker dig.	愛してる。
 dan	jpn_Hira	Jeg er enig med dig.	君と同意してる。
 dan	jpn_Hira	Jeg er enig med dig.	私はあなたと同意見です。
-dan	jpn_Hira	Jeg er enig med dig.	私は君に同意する。
 dan	jpn_Hira	Jeg er enig med dig.	私はあなたに賛成だ。
+dan	jpn_Hira	Jeg er enig med dig.	私は君に同意する。
 dan	jpn_Hira	Jeg er enig med ham.	私は彼に賛成です。
 dan	jpn_Hira	Jeg er en kat.	私は猫です。
 dan	jpn_Hira	Jeg er en kvinde.	私は女性です。
@@ -551,8 +557,8 @@ dan	jpn_Hira	Jeg er japaner, men du er amerikaner.	私は日本人ですが、�
 dan	jpn_Hira	Jeg er ligeglad.	私は構いませんよ。
 dan	jpn_Hira	Jeg er så misundelig på dem, der har skålformede bryster.	おっぱいがお椀型で羨ましいなあ。
 dan	jpn_Hira	Jeg er stolt over at jeg kan deltage på dette projekt.	私はこのプロジェクトに参加できることを誇りに思います。
-dan	jpn_Hira	Jeg er tørstig.	喉が渇いた。
 dan	jpn_Hira	Jeg er tørstig.	のどが渇きました。
+dan	jpn_Hira	Jeg er tørstig.	喉が渇いた。
 dan	jpn_Hira	Jeg er tyrker.	私はトルコ人です。
 dan	jpn_Hira	Jeg faldt i søvn førend min far kom hjem.	僕はお父さんが帰ってくる前に眠ってしまった。
 dan	jpn_Hira	Jeg foretrækker at gå til fods frem for at vente på den næste bus.	私は次ぎのバスを待つよりむしろ歩きたい。
@@ -577,8 +583,8 @@ dan	jpn_Hira	Jeg har en hund og to katte.	私は犬を１匹と猫を２匹飼�
 dan	jpn_Hira	Jeg har en kat og en hund.	わたしは犬と猫を飼っています。
 dan	jpn_Hira	Jeg har givet penge til alle.	お金をみんなにあげました。
 dan	jpn_Hira	Jeg har hørt det i radioen.	私はラジオでそれを聞いた。
-dan	jpn_Hira	Jeg har hovedpine.	頭痛がする。
 dan	jpn_Hira	Jeg har hovedpine.	頭痛がします。
+dan	jpn_Hira	Jeg har hovedpine.	頭痛がする。
 dan	jpn_Hira	Jeg har i går læst bogen indtil side 80.	昨日はその本を８０ページまで読んだ。
 dan	jpn_Hira	Jeg har ikke feber.	熱はありません。
 dan	jpn_Hira	Jeg har ikke mange penge.	私はあまりお金を持っていません。
@@ -670,8 +676,8 @@ dan	jpn_Hira	Jeg vil være der i morgen.	私は明日そこにいます。
 dan	jpn_Hira	John er i lufthavnen.	ジョーンは空港にいます。
 dan	jpn_Hira	Jorden er ikke en perfekt kugle.	地球は完全な球体ではない。
 dan	jpn_Hira	Kabylsk er mit modersmål.	カビル語は僕の母語だよ。
-dan	jpn_Hira	Kan du ikke lide æbler?	君はりんごは好きでないのか。
 dan	jpn_Hira	Kan du ikke lide æbler?	リンゴが好きではないのですか。
+dan	jpn_Hira	Kan du ikke lide æbler?	君はりんごは好きでないのか。
 dan	jpn_Hira	Kan du lide det?	気に入る？
 dan	jpn_Hira	Kan hun lide appelsiner?	彼女はオレンジが好きですか。
 dan	jpn_Hira	Kan jeg bruge denne ordbog?	この辞書を使っても良いですか。
@@ -681,8 +687,8 @@ dan	jpn_Hira	Kate tog med til festen for at møde sine venner.	ケイトは友�
 dan	jpn_Hira	Katten fangede en mus.	猫はネズミを捕まえました。
 dan	jpn_Hira	Katten sover på stolen.	猫は椅子の上で寝ている。
 dan	jpn_Hira	Kender du hende?	彼女を知っていますか。
-dan	jpn_Hira	Kender hun dig?	彼女は君を知っていますか。
 dan	jpn_Hira	Kender hun dig?	彼女はあなたを知ってるの？
+dan	jpn_Hira	Kender hun dig?	彼女は君を知っていますか。
 dan	jpn_Hira	Ken er ældre end Seiko.	ケンは、聖子より年上です。
 dan	jpn_Hira	Kina er større end Japan.	中国は日本より大きいです。
 dan	jpn_Hira	Klubben har flere end 50 medlemmer.	そのクラブには５０人以上の会員がいる。
@@ -695,8 +701,8 @@ dan	jpn_Hira	Kunne du veje det her?	この重さを計ってもらえません�
 dan	jpn_Hira	Kvinder og børn først!	女と子どもが先だ。
 dan	jpn_Hira	Lad mig høre det.	それを聞かせてくれ。
 dan	jpn_Hira	Lad mig tænke.	考えさせてください。
-dan	jpn_Hira	Løb ikke så hurtigt.	そんなに速く走るな。
 dan	jpn_Hira	Løb ikke så hurtigt.	そんなに速く走らないでよ。
+dan	jpn_Hira	Løb ikke så hurtigt.	そんなに速く走るな。
 dan	jpn_Hira	Lod du vinduet stå åbent?	君は、窓を開けたままにしておきましたか。
 dan	jpn_Hira	Luft er usynlig.	空気は目に見えない。
 dan	jpn_Hira	Luk dine øjne.	目を閉じて。
@@ -704,8 +710,8 @@ dan	jpn_Hira	Luk dine øjne.	目を閉じなさい。
 dan	jpn_Hira	Luk vinduet.	窓を閉めて。
 dan	jpn_Hira	Må jeg bruge denne ordbog?	この辞書を使っても良いですか。
 dan	jpn_Hira	"Må jeg komme ind?" "Ja, værsgo."	「入ってよろしいですか」「はい、どうぞ」
-dan	jpn_Hira	Må jeg låne din ordbog?	君の辞書を借りていいですか。
 dan	jpn_Hira	Må jeg låne din ordbog?	あなたの辞書を借りてもよいですか。
+dan	jpn_Hira	Må jeg låne din ordbog?	君の辞書を借りていいですか。
 dan	jpn_Hira	Må jeg spise dette?	これを食べていいですか。
 dan	jpn_Hira	Må jeg spise dette?	これ食べてもいいですか？
 dan	jpn_Hira	Manden, der var ved at drukne, råbte efter hjælp, men forgæves.	溺れている人は、助けを求めたが無駄だった。
@@ -738,8 +744,8 @@ dan	jpn_Hira	Min hund lader ofte som om den sover.	私の犬はよく寝た振�
 dan	jpn_Hira	Min mor er altid optaget.	母はいつも忙しい。
 dan	jpn_Hira	Min mor er altid optaget.	私の母はいつも忙しい。
 dan	jpn_Hira	Min mor er smuk.	私のお母さんは美しいです。
-dan	jpn_Hira	Min onkel gav mig en gave.	叔父は私にプレゼントをくれた。
 dan	jpn_Hira	Min onkel gav mig en gave.	おじは私にプレゼントをくれた。
+dan	jpn_Hira	Min onkel gav mig en gave.	叔父は私にプレゼントをくれた。
 dan	jpn_Hira	Min søster er ældre end min bror.	私の姉は兄より年上です。
 dan	jpn_Hira	Min søster spiller hver dag på klaver.	私の姉は毎日ピアノを弾きます。
 dan	jpn_Hira	Mit hus står på en bakke.	家は丘の上にある。
@@ -766,8 +772,8 @@ dan	jpn_Hira	Omstændighederne har tvunget os til at fortælle sandheden.	事情
 dan	jpn_Hira	Omstændighederne tvang os til at fortælle sandheden.	事情があって、私達は止むなく真実を言わざるを得なかった。
 dan	jpn_Hira	Op med humøret!	元気を出せよ。
 dan	jpn_Hira	Pablo og María var her.	パブロとマリアはここに居ました。
-dan	jpn_Hira	Penge bringer ikke altid lykke.	かねが幸福をもたらすとは限らない。
 dan	jpn_Hira	Penge bringer ikke altid lykke.	お金が幸福をもたらすとは限らない。
+dan	jpn_Hira	Penge bringer ikke altid lykke.	かねが幸福をもたらすとは限らない。
 dan	jpn_Hira	Pigen han taler til er Nancy.	彼が話しかけている少女はナンシーです。
 dan	jpn_Hira	Ræk hånden op.	手を上げなさい。
 dan	jpn_Hira	Rør ikke ved knappen.	ボタンに触れるな。
@@ -804,10 +810,11 @@ dan	jpn_Hira	Tænk på i morgen.	明日のことを考えなさい。
 dan	jpn_Hira	Tag dine sko af.	靴を脱ぎなさい。
 dan	jpn_Hira	Tag skoene af.	靴を脱ぎなさい。
 dan	jpn_Hira	Tag venligst dine sokker af.	靴下を脱いでください。
-dan	jpn_Hira	Tak!	ありがとう！
 dan	jpn_Hira	Tak for dit svar.	お返事ありがとう。
 dan	jpn_Hira	"Tak for hjælpen." "Ingen årsag."	「手伝ってくれてありがとう。」 「どういたしまして。」
 dan	jpn_Hira	Tak for i dag.	今日はどうもありがとう。
+dan	jpn_Hira	Tak!	ありがとう！
+dan	jpn_Hira	Taler du japansk?	日本語が話せますか。
 dan	jpn_Hira	Taler du japansk?	日本語は話せますか。
 dan	jpn_Hira	Tal venligst højt.	大きな声で話して下さい。
 dan	jpn_Hira	Tårnet hældte lidt mod vest.	塔はわずかに西へ傾いていた。
@@ -838,8 +845,8 @@ dan	jpn_Hira	Tyve person omkom i branden.	火災で２０人が亡くなった�
 dan	jpn_Hira	Uheldigvis regnede det.	あいにく雨が降った。
 dan	jpn_Hira	Ulykkesårsagen står endnu ikke klar.	事故原因はまだはっきりしていない。
 dan	jpn_Hira	Varme er en form for energi.	熱はエネルギーの一種である。
-dan	jpn_Hira	Velkommen!	ようこそ！
 dan	jpn_Hira	Velkommen hjem.	お帰りなさい。
+dan	jpn_Hira	Velkommen!	ようこそ！
 dan	jpn_Hira	Vent venligst et øjeblik.	ちょっと待って下さい。
 dan	jpn_Hira	Vent venligst her indtil han kommer.	彼が来るまでここで待っていてください。
 dan	jpn_Hira	Vi bør adlyde færdselsreglerne.	交通規制に従わなければならない。
@@ -860,6 +867,10 @@ dan	jpn_Hira	Vi svømmede i søen.	私たちはその湖で泳いだ。
 dan	jpn_Hira	Vi trøstede hinanden.	私たちは互いに慰め合った。
 dan	jpn_Hira	Yokohama er en smuk havneby.	横浜は美しい港町です。
 dan	jpn_Hira	Yumi er en af mine venner.	由美は、私の友達のひとりです。
+dan	jpn	Hun er tre år ældre end ham.	彼女は彼より三歳年上です。
+dan	jpn	"Hvor er katten?" "Den er under sofaen."	「猫ちゃんはどこ？」「ソファーの下だよ」
+dan	jpn	Jeg har omskrevet denne sætning.	この文を書き直したんだ。
+dan	jpn	Jeg har omskrevet denne sætning.	この文章を書き直しました。
 dan	jpn_Kana	Allessia kan ikke tale engelsk.	アレッシアは英語を話せない。
 dan	jpn_Kana	Alle veje fører til Helsingør.	全ての道はヘルシンゲルに通ず。
 dan	jpn_Kana	Alperne ligger i centrum af Europa.	アルプス山脈はヨーロッパの中央にある。
@@ -879,6 +890,7 @@ dan	jpn_Kana	Hun hældte mælk i koppen.	彼女はカップにミルクを注い
 dan	jpn_Kana	Hvor mange bogstaver er der i alfabetet?	アルファベットは何文字ですか。
 dan	jpn_Kana	I alfabetet kommer B efter A.	アルファベットでＢはＡの後にくる。
 dan	jpn_Kana	Island hørte til Danmark.	アイスランドはデンマークに属していた。
+dan	jpn_Kana	Ja.	うん。
 dan	jpn_Kana	Ja.	はい 。
 dan	jpn_Kana	Ja.	はい。
 dan	jpn_Kana	Jeg bruger kontaktlinser.	私はコンタクトレンズを使っています。
@@ -888,9 +900,9 @@ dan	jpn_Kana	Jeg købte dette kamera for 35000 yen.	このカメラを３５、�
 dan	jpn_Kana	Jeg taler interlingua.	私はインターリングアを話します。
 dan	jpn_Kana	Jesus blev født af Maria.	イエスはマリアから生まれた。
 dan	jpn_Kana	John bor i New York.	ジョンはニューヨークに住んでいる。
-dan	jpn_Kana	John er en amerikansk dreng.	ジョンはアメリカ人の男の子です。
 dan	jpn_Kana	John er en amerikansk dreng.	ジョンはアメリカの少年です。
 dan	jpn_Kana	John er en amerikansk dreng.	ジョンはアメリカの男の子です。
+dan	jpn_Kana	John er en amerikansk dreng.	ジョンはアメリカ人の男の子です。
 dan	jpn_Kana	Mary har en farverig kimono på.	メアリーはカラフルな着物を着ている。
 dan	jpn_Kana	Mary kan godt lide at spise sur-sød hindbærtærte.	メアリーは、甘酸っぱいラズベリータルトが大好きです。
 dan	jpn_Kana	Mike og Ken er venner.	マイクとケンは友達です。
@@ -900,5 +912,16 @@ dan	jpn_Kana	Skriv alfabetet med store bogstaver.	アルファベットを大文
 dan	jpn_Kana	Tom er Marys svoger.	トムはメアリーの義理の兄弟です。
 dan	jpn_Kana	Tom og John er gode venner.	トムとジョンは仲良しです。
 dan	jpn_Kana	Tom tog fra Boston til Chicago.	トムはボストンからシカゴへ向かった。
+dan	jpn	Katte er mindre end hunde.	猫は犬より小さい。
 dan	jpn_Latn	Mit navn er Farshad.	私の名前はFarshadです。
+dan	jpn	Marys kat er sød.	メアリーの猫、可愛いわね。
+dan	jpn	Mit navn er Marina.	私の名前は万理夏です。
+dan	jpn	Selv intelligente studerende havde det svært.	賢い学生たちも大変だったよ。
+dan	jpn	Tom cykler hver dag på arbejde på sin elcykel.	トムは毎日、電動自転車で通勤してるんだよ。
+dan	jpn	Tom cykler hver dag på arbejde.	トムは毎日、自転車で通勤してます。
+dan	jpn	Tom forsøgte at lukke døren.	トムはドアを閉めようとしました。
+dan	jpn	Toms nye bil kan køre 140 kilometer i timen.	トムの新車は時速140キロ出るんだよ。
+dan	jpn	Toms nye bil klarer 140 kilometer i timen.	トムの新車は時速140キロ出るんだよ。
+dan	jpn	Vand koger ved hundrede grader celsius.	水はセ氏100度で沸騰する。
+dan	jpn	Vand koger ved hundrede grader celsius.	水は摂氏100度で沸騰する。
 dan	jpn_Yiii	Ja.	ええ。

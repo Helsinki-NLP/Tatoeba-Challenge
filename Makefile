@@ -116,7 +116,6 @@ SCRIPTDIR      = scripts
 TOKENIZER      = ${SCRIPTDIR}/moses/tokenizer
 ISO639         = iso639
 GET_ISO_CODE   = ${ISO639} -m
-# GET_ISO_CODE = ${ISO639} -m -k
 
 
 ## set additional argument options for opus_read (if it is used)
@@ -125,21 +124,44 @@ GET_ISO_CODE   = ${ISO639} -m
 ##       (disadvantage: much slower!)
 OPUSREAD_ARGS =
 
+
+## settings for sort (parsort is part of GNU parallel)
+
 THREADS ?= 4
-SORT = sort -T ${TMPDIR} -S50M --parallel=${THREADS}
+ifneq (${shell which parsort 2>/dev/null},)
+  SORT = LC_ALL=C parsort -T ${TMPDIR} -S100M
+else
+  SORT = LC_ALL=C sort -T ${TMPDIR} -S100M --parallel=${THREADS}
+endif
+
+
+## tool for shuffling data (terashuf or sort)
+
 SHUFFLE = ${shell which terashuf 2>/dev/null}
 ifeq (${SHUFFLE},)
   SHUFFLE = ${SORT} --random-sort
 endif
+
+
+## use pigz if available
+
 GZIP := ${shell which pigz 2>/dev/null}
 GZIP ?= gzip
 ZCAT := ${GZIP} -cd
 
-PARALLEL_ARGS := --pipe --keep-order -q -L10000 --max-procs 25%
-PARALLEL := ${shell if [ `which parallel 2>/dev/null | wc -l` -gt 0 ]; then echo 'parallel ${PARALLEL_ARGS}'; fi }
+## check whether GNU parallel is available
+
+ifneq (${shell which parallel 2>/dev/null},)
+  PARALLEL_ARGS := --pipe --keep-order -q -L10000 --max-procs 25%
+  PARALLEL := parallel ${PARALLEL_ARGS}
+endif
 
 
 ## basic training data filtering pipeline
+## TODO: remove lines 2 and 3 (they do too much, also remove emojis)
+## TODO: get rid of recode?
+## TODO: use GNU parallel?
+## TODO: add exclude-identical.pl?
 
 BASIC_FILTERS = | perl -CS -pe 'tr[\x{9}\x{A}\x{D}\x{20}-\x{D7FF}\x{E000}-\x{FFFD}\x{10000}-\x{10FFFF}][]cd;' \
 		| perl -CS -pe 's/\&\s*\#\s*160\s*\;/ /g' \
@@ -217,7 +239,7 @@ DEV_RELEASE_TSV := ${patsubst ${RELEASEDIR}/%/dev.id,${DEVRELEASEDIR}/tatoeba-de
 
 ## language pairs that we can release
 
-RELEASE_DATA := $(shell find ${RELEASEDIR} -maxdepth 1 -mindepth 1 -type d)
+RELEASE_DATA := $(shell find ${RELEASEDIR} -maxdepth 1 -mindepth 1 -type d -name '*-*')
 
 
 ## this is for regular updates of testdata with new Tatoeba releases in OPUS
@@ -360,6 +382,14 @@ release-tag:
 	git commit -am 'updated dev and test data (${VERSION})'
 	git tag -a ${VERSION} -m "release version ${VERSION}"
 
+release-tag-missing:
+	git add ${DATADIR}/*-${VERSION}.md ${DATADIR}/subsets/*.md ${DATADIR}/subsets/${VERSION}/*.md
+	git add README-${VERSION}.md
+	git add ${DATA_COUNT_FILES}
+	git commit -am 'updated dev and test data (${VERSION})'
+	git tag -a ${VERSION} -m "release version ${VERSION}"
+
+
 release-push:
 	git push origin master
 	git push origin ${VERSION}
@@ -445,6 +475,11 @@ traindata: ${TRAIN_DATA}
 testdata: ${TEST_DATA}
 devdata: ${DEV_DATA}
 
+MISSING_TRAIN_DATA = $(patsubst %,%.missing,${TRAIN_DATA})
+print-missing-traindata: ${MISSING_TRAIN_DATA}
+
+${MISSING_TRAIN_DATA}:
+	@if [ ! -e $(@:.missing=) ]; then echo "$(@:.missing=)"; fi
 
 
 ## divide into several jobs for creating training data
@@ -507,7 +542,6 @@ upload-devtest: ${DEVTESTDIR}.done
 upload-test: ${TESTDATADIR}-${VERSION}.done ${RELEASEHOME}/test.done
 upload-dev: ${DEVDATADIR}-${VERSION}.done ${RELEASEHOME}/dev.done
 upload-train: ${patsubst %,%.done,${RELEASE_DATA}}
-# upload-train: ${patsubst %,${RELEASEDIR}/%.done,${TATOEBA_PAIRS3}}
 upload-mono: ${patsubst %,${RELEASEDIR}/%.done,${WIKI_LANGS3}} # ${RELEASEDIR}/wiki.langs.done
 upload-wikishuffled: ${patsubst wiki-shuffled/%,${RELEASEDIR}/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
 upload-wikidoc: ${patsubst wiki-doc/%,${RELEASEDIR}/wiki-doc-%.done,${wildcard wiki-doc/???}}
@@ -830,7 +864,6 @@ test-create-train: ${RELEASEDIR}/nld-uzb/train.id.gz
 
 OPUS_API := https://opus.nlpl.eu/opusapi/
 OPUS_API_MOSES := ${OPUS_API}?preprocessing=moses&version=latest
-UNICODE_CLEANUP := perl -CS -pe 'tr[\x{9}\x{A}\x{D}\x{20}-\x{D7FF}\x{E000}-\x{FFFD}\x{10000}-\x{10FFFF}][]cd;s/\&\s*\#\s*160\s*\;/ /g;'
 
 ${RELEASEDIR}/%/train.id.gz:
 	@echo "make train data for ${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}"
@@ -859,7 +892,8 @@ ${RELEASEDIR}/%/train.id.gz:
 		    if [ -e $@.tmp2 ]; then \
 		      cut -f1 $@.tmp2 | ${PARALLEL} langscript -3 -l $$e -r -D ${FIXLANGIDS} > $@.tmp2srcid; \
 		      cut -f2 $@.tmp2 | ${PARALLEL} langscript -3 -l $$f -r -D ${FIXLANGIDS} > $@.tmp2trgid; \
-		      paste $@.tmp2srcid $@.tmp2trgid $@.tmp2 | sed "s/^/$$c-$$v	/"  >> $@.tmp1; \
+		      paste $@.tmp2srcid $@.tmp2trgid $@.tmp2 | sed "s/^/$$c-$$v	/"  \
+		      | scripts/exclude-identical.pl >> $@.tmp1; \
 		      rm -f $@.tmp2 $@.tmp2srcid $@.tmp2trgid; \
 		    fi \
 		  else \
@@ -886,7 +920,8 @@ ifdef PREVIOUS_VERSION
 	  if [ -e $@.tmp2 ]; then \
 	    cut -f1 $@.tmp2 | ${PARALLEL} langscript -3 -l $$s -r -D  ${FIXLANGIDS} > $@.tmp2srcid; \
 	    cut -f2 $@.tmp2 | ${PARALLEL} langscript -3 -l $$t -r -D  ${FIXLANGIDS} > $@.tmp2trgid; \
-	    paste $@.tmp2corpus $@.tmp2srcid $@.tmp2trgid $@.tmp2 >> $@.tmp1; \
+	    paste $@.tmp2corpus $@.tmp2srcid $@.tmp2trgid $@.tmp2 \
+	    | scripts/exclude-identical.pl >> $@.tmp1; \
 	    rm -f $@.tmp2 $@.tmp2srcid $@.tmp2trgid $@.tmp2corpus; \
 	  fi \
 	fi
@@ -894,11 +929,10 @@ ifdef PREVIOUS_VERSION
 endif
 
 ## sort, de-duplicate and shuffle the collected data
+
 	@if [ -s $@.tmp1 ]; then \
-	  cat $@.tmp1 \
-	  | ${UNICODE_CLEANUP} \
-	  | scripts/exclude-identical.pl \
-	  | ${SORT} -t '	' -k4,5 -u | ${SHUFFLE} \
+	  ${SORT} -t '	' -k4,5 -u < $@.tmp1 \
+	  | ${SHUFFLE} \
 	  | scripts/exclude-devtest.pl -a -l \
 		${dir $@}test.src ${dir $@}test.trg \
 		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp2 2>$(@:.id.gz=.log); \
@@ -908,7 +942,41 @@ endif
 	fi
 	rm -f $@.tmp1 $@.tmp2
 	rmdir ${dir $@}train.d
-	touch $(@:.id.gz=.corrected)
+#	touch $(@:.id.gz=.corrected)
+
+
+
+ifdef CHECK_PREVIOUS_VERSION
+ifdef PREVIOUS_VERSION
+
+TESTDATA_THIS_RELEASE := $(patsubst ${RELEASEDIR}/%,%,$(dir $(wildcard ${RELEASEDIR}/*/test.id)))
+TRAINDATA_THIS_RELEASE := $(patsubst ${RELEASEDIR}/%,%,$(dir $(wildcard ${RELEASEDIR}/*/train.id.gz)))
+TRAINDATA_PREVIOUS_RELEASE := $(patsubst ${PREVIOUS_RELEASEDIR}/%,%,$(dir $(wildcard ${PREVIOUS_RELEASEDIR}/*/train.id.gz)))
+
+## get all training data from the previous release that are missing from the current release
+## for which we also have test data in the current release
+
+TRAINDATA_MISSING = $(filter ${TESTDATA_THIS_RELEASE},$(filter-out ${TRAINDATA_THIS_RELEASE},${TRAINDATA_PREVIOUS_RELEASE}))
+
+print-missing-from-previous:
+	@echo "${TRAINDATA_MISSING}" | sort | tr ' ' "\n"
+
+endif
+endif
+
+
+
+${RELEASEDIR}/%/train.sorted.id.gz:
+	${SORT} -t '	' -k4,5 -u < $(@:.sorted.id.gz=.id.gz).tmp1 \
+	| scripts/exclude-identical.pl \
+	| ${SHUFFLE} \
+	| scripts/exclude-devtest.pl -a -l \
+		${dir $@}test.src ${dir $@}test.trg \
+		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp2 2>$@.log
+	cut -f4 $@.tmp2 | ${GZIP} -c > $@.src.gz
+	cut -f5 $@.tmp2 | ${GZIP} -c > $@.trg.gz
+	cut -f1,2,3 $@.tmp2 | ${GZIP} -c > $@
+	rm -f $@.tmp2
 
 
 
@@ -919,7 +987,7 @@ endif
 # TO_BE_CORRECTED = $(patsubst %.id.gz,%.corrected,\
 # 	$(wildcard ${RELEASEDIR}/ara-*/train.id.gz) $(wildcard ${RELEASEDIR}/afr-*/train.id.gz))
 
-TO_BE_CORRECTED = $(patsubst %.id.gz,%.corrected,$(wildcard ${RELEASEDIR}/*/train.id.gz))
+# TO_BE_CORRECTED = $(patsubst %.id.gz,%.corrected,$(wildcard ${RELEASEDIR}/*/train.id.gz))
 
 %-missing-traindata:
 	${MAKE} ${RELEASEDIR}/$(@:-missing-traindata=)/train.id.gz
@@ -941,7 +1009,6 @@ ${RELEASEDIR}/%/train.corrected:
 	paste 	<(gzip -cd ${dir $@}train.id.gz) \
 		<(gzip -cd ${dir $@}train.src.gz) \
 		<(gzip -cd ${dir $@}train.trg.gz) \
-	| ${UNICODE_CLEANUP} \
 	| scripts/exclude-identical.pl \
 	| ${SORT} -t '	' -k4,5 -u | ${SHUFFLE} \
 	| scripts/exclude-devtest.pl -a -l \
@@ -1470,9 +1537,54 @@ ${RELEASEDIR}/released-bitexts-zero-shot.txt: ${RELEASEDIR}/released-bitexts.txt
 	grep -v '^#' $< | awk -F "\t" '$$4 >= 200' | awk -F "\t" '$$10 < 1' > $@
 
 
-#	for l in ${TATOEBA_PAIRS3}; do \
+
+
+## getting all counts of all bitexts
+## --> several count files to make it possible to run in parallel
 
 ${RELEASEDIR}/released-bitexts.txt:
+	${MAKE} temporary-data-counts
+	echo "# langpair	source-lang	target-lang	test-size	test-source	test-target	dev-size	dev-source	dev-target	train-size	train-source	train-target" > $@
+	find ${RELEASEDIR} -maxdepth 1 -mindepth 1 -type f -name '*.counts' | sort | xargs cat >> $@
+	find ${RELEASEDIR} -maxdepth 1 -mindepth 1 -type f -name '*.counts' -delete
+
+
+TEMPORARY_DATA_COUNT_FILES := $(patsubst %,%.counts,$(RELEASE_DATA))
+
+INTERMEDIATE: ${TEMPORARY_DATA_COUNT_FILES}
+
+.PHONY: temporary-data-counts
+temporary-data-counts: ${TEMPORARY_DATA_COUNT_FILES}
+
+${RELEASEDIR}/%.counts: ${RELEASEDIR}/%
+	echo -n "$(notdir $<)	" > $@
+	@echo "$(notdir $<)" | tr '-' ' '  | xargs iso639 | sed 's/" "/\t/;s/"//g' | tr "\n" "\t" >> $@
+	@if [ -s $</test.id ]; then \
+	    cat $</test.src | wc -lw | sed 's/^ *//;s/  */\t/g' | tr "\n" "\t" >> $@; \
+	    cat $</test.trg | wc -w | sed 's/^ *//;s/  */\t/g'  | tr "\n" "\t" >> $@; \
+	else \
+	    echo -n "			" >> $@; \
+	fi
+	@if [ -s $</dev.id ]; then \
+	    cat $</dev.src | wc -lw | sed 's/^ *//;s/  */\t/g' | tr "\n" "\t" >> $@; \
+	    cat $</dev.trg | wc -w | sed 's/^ *//;s/  */\t/g'  | tr "\n" "\t" >> $@; \
+	else \
+	    echo -n "			" >> $@; \
+	fi
+	@if [ -e $</train.id.gz ]; then \
+	    ${GZIP} -cd < $</train.src.gz | wc -lw | sed 's/^ *//;s/  */\t/g' | tr "\n" "\t" >> $@; \
+	    ${GZIP} -cd < $</train.trg.gz | wc -w | sed 's/^ *//;s/  */\t/g'  | tr "\n" "\t">> $@; \
+	else \
+	    echo -n "		" >> $@; \
+	fi
+	@echo "" >> $@
+
+
+
+## old way of getting all counts with a for loop
+## --> this is slow!
+
+${RELEASEDIR}/released-bitexts-old.txt:
 	echo "# langpair	source-lang	target-lang	test-size	test-source	test-target	dev-size	dev-source	dev-target	train-size	train-source	train-target" > $@
 	for l in `find ${RELEASEDIR} -maxdepth 1 -mindepth 1 -type d -name '*-*' -printf "%f\n" | sort`; do \
 	  echo "count size of bitext $$l"; \

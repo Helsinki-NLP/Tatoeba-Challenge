@@ -75,8 +75,8 @@ run	spa	Bite uyu munsi?	¿Cómo estás hoy?
 run	spa	Bitware hirya.	Llévate eso.
 run	spa	Bitwarire nyoko.	Llevale esto a tu madre.
 run	spa	Bobo ni abana.	Son niños.
-run	spa	Capfuye?	¿Está roto?
 run	spa	Capfuye.	Está roto.
+run	spa	Capfuye?	¿Está roto?
 run	spa	Data ari imuhira.	Mi padre está en casa.
 run	spa	Data ntari i muhira.	Papá no está en casa.
 run	spa	Data wanje ntari imuhira.	Mi padre no está en casa.
@@ -440,8 +440,8 @@ run	spa	Ni binini birenze?	¿Es demasiado grande?
 run	spa	Ni birebire birenze?	¿Es demasiado grande?
 run	spa	Ni birebire birenze urugero.	Esto es demasiado largo.
 run	spa	Ni bitoya birenze?	¿Es demasiado pequeña?
-run	spa	Ni bitoya birenze?	¿Es demasiado pequeño?
 run	spa	Ni bitoya birenze.	Es demasiado pequeño.
+run	spa	Ni bitoya birenze?	¿Es demasiado pequeño?
 run	spa	Ni bitoya birenze urugero.	Es demasiado pequeño.
 run	spa	Nico ndiko ndondera.	Eso es lo que estoy buscando.
 run	spa	Nico nshaka kumenya.	Es lo que yo quiero saber.
@@ -825,8 +825,8 @@ run	spa	Urakunda kwiga?	¿Te gusta estudiar?
 run	spa	Urambabarira ko ndabivuze.	Siento que haya dicho eso.
 run	spa	Uramundamukiriza ni mwahurira mu giteramo.	Por favor, salúdala de mi parte si la ves en la fiesta.
 run	spa	Uramuzi?	¿La conoces?
-run	spa	Uramuzi?	¿Le conoces?
 run	spa	Uramuzi.	Le conoces.
+run	spa	Uramuzi?	¿Le conoces?
 run	spa	Uramuzi.	Tú la conoces.
 run	spa	Urandondera?	¿Me estás buscando?
 run	spa	Uranezerewe?	¿Estás feliz?

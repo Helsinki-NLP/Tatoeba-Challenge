@@ -17,6 +17,8 @@ chv	tur	Асатте ирӗрех тӑрать.	Büyük babam erken kalkar.
 chv	tur	Ачаллӑ пӳрт -пасар, ачасӑр пӳрт - масар.	Çocuklu ev - bazar, çocuksuz ev - mezarlık.
 chv	tur	Ача пӳлӗмре макӑратччӗ.	Çocuk odada ağlıyordu.
 chv	tur	Ачӑрсем пур-и?	Çocuğunuz var mı?
+chv	tur	Аш ҫиместӗп.	Et yemiyorum.
+chv	tur	Вӑл аш ҫимест.	O, et yemiyor.
 chv	tur	Вӑл вунӑ ҫул каялла кунта пурӑнатччӗ.	O, on yıl önce burada yaşadı.
 chv	tur	Вӑл ӗҫ укҫине уйӑрса хурать	O kazandığını biriktirir.
 chv	tur	Вӑл кам пулнине пӗлетӗп.	Onun kim olduğunu biliyorum.
@@ -120,12 +122,14 @@ chv	tur	Кунра тӗлӗш пур-и?	Bu mantıklı mı?
 chv	tur	Кунра тулӑк пур-и?	Bu mantıklı mı?
 chv	tur	Кунсерен ҫуршар сехет акӑлчанла вӗренетӗп.	Her gün yarım saat İngilizce çalışırım.
 chv	tur	Кунта ӑҫта та пулин пуштӑ пур-и?	Bu civarda bir postane var mıdır?
+chv	tur	Кунта кам пур?	Burada kim var?
 chv	tur	Кунта лар.	Buraya otur.
 chv	tur	Кунта ларӑр.	Buraya oturunuz.
 chv	tur	Кунта никам та пулман.	Burada kimse olmadı.
 chv	tur	Кунта никам та ҫукччӗ.	Burada kimse yoktu.
 chv	tur	Кунта пӗрри пур.	Burada birisi var.
 chv	tur	Ку пукан.	Bu bir sandalye.
+chv	tur	Ку пӳлӗмри телевизор юсавлӑ мар.	Bu odadaki televizyon çalışmıyor.
 chv	tur	Ку пӳрт мар.	Bu ev değil.
 chv	tur	Курмастӑп.	Görmem.
 chv	tur	Куҫлӑхсӑр вулама пултаратӑп.	Ben gözlüksüz okuyabilirim.
@@ -193,6 +197,7 @@ chv	tur	Паян тунтикун.	Bugün Pazartesi.
 chv	tur	Паянхи каҫа планӑмсем пур.	Bu gece planlarım var.
 chv	tur	Паянхи каҫ мӗн тӑватӑн?	Bu gece ne yapacaksın?
 chv	tur	Паянхи хаҫатра пӗр пӗр уйӑрса тӑракан хыпар пур и?	Bugünkü gazetede herhangi bir özel haber var mı?
+chv	tur	Паян шкула кайӑн-и?	Bugün okula gidecek misin?
 chv	tur	Пӗлелетпӗр.	Biliyoruz.
 chv	tur	Пӗр пакетра интернетпа пӗр телефон ил.	Tek bir pakette hem bir telefon hem de bir internet erişimi alın!
 chv	tur	Пӗр панулми ҫирӗ.	Bir elma yedi.
@@ -202,6 +207,7 @@ chv	tur	Пӗр япала та вӑл вӗреннине вӑрахӑнлатм�
 chv	tur	Пӗтӗм кунсене Томпа ирттертӗм.	Bütün günü Tom'la geçirdim.
 chv	tur	Пӗччен хӑвӑртрах ӗҫлетӗп.	Yalnız daha hızlı çalışırım.
 chv	tur	Пирӗн виҫӗ кушак пур.	Bizim üç kedimiz var.
+chv	tur	Пирӗн хут юлмарӗ.	Bizde kâğıt kalmadı.
 chv	tur	Полицисем йӑнӑш ҫынна тытрӗҫ.	Polis yanlış adamı tutukladı.
 chv	tur	Польша пысӑк ҫӗршыв.	Polonya büyük bir ülkedir.
 chv	tur	Проксима Цӗнтаврӑ ҫӑлтӑрӗ Хӗвел системине чи ҫывӑххи	Güneş sistemimize en yakın yıldız Proxima Centauri'dir.
@@ -215,6 +221,7 @@ chv	tur	Пулӑшӑвуна кӗтетӗп.	Yardımını bekliyorum.
 chv	tur	Пулӑшу килет.	Yardım geliyor.
 chv	tur	Пулӑшуҫӑ пулма путлтаратӑп.	Yardımcı olabilirim.
 chv	tur	Пӳлӗмӗн хакӗ мӗн чухлӗ?	Odanın fiyatı nedir?
+chv	tur	Пӳлӗмри ҫын кам?	Odadaki adam kim?
 chv	tur	Пӳлӗм хакӗ мӗн чухлӗ?	Oda fiyatı kaç para?
 chv	tur	Пурнӑҫ - парне.	Hayat hediyedir.
 chv	tur	Пурнӑҫ - тивлет.	Hayat bir lütuf.
@@ -231,12 +238,34 @@ chv	tur	Пушмак тӑхӑнмашкӑн тӑчӗ.	O, ayakkabılarını giyme
 chv	tur	Пысӑк йывӑҫ симӗс мар.	Büyük ağaç yeşil değildir.
 chv	tur	Раҫҫей Прутонран пысӑкрах.	Rusya Plüton'dan büyüktür.
 chv	tur	Римра лайӑх вӑхӑт ирттернӗ пек курӑнаҫҫӗ.	Onlar Roma'da iyi zaman geçirmiş gibi görünüyorlar.
+chv	tur	Савсан пӑрахмастчӗ.	Onlar hiç kimseyi görmediklerini söylediler.
+chv	tur	Саккун иккӗлӗннулӳхсемпе тулли.	Kanun belirsizlikler ile dolu.
+chv	tur	Сана килмелли вӑхӑта каларӗ и?	Sana ne zaman geleceğin söylenildi mi?
+chv	tur	Санӑн кунта килме кирлӗ мар.	Buraya gelmene gerek yok.
+chv	tur	Санӑн кунта килмелле мар.	Buraya gelmene gerek yok.
+chv	tur	Санӑн Французла калаҫакан ҫынсем пур и?	Hiç Fransızca konuşan personeliniz var mı?
+chv	tur	Санӑн хӑш CDне итлес килеть.	Hangi CD'yi dinlemek istersin?
+chv	tur	Санӑн хӑш CDне итлесшӗн.	Hangi CD'yi dinlemek istersin?
+chv	tur	Санӑн шанс пур тесе шутлатӑп.	Şanslı olduğunu düşünüyorum.
+chv	tur	Санӑн шырани мӗнле пырать?	Araştırman nasıl gidiyor?
+chv	tur	Сана тавтапуҫ каласшӑн пулнӑччӗ.	Sana teşekkür etmek istemiştim.
+chv	tur	Сана хӑҫан килмеллине каларӗ и?	Sana ne zaman geleceğin söylenildi mi?
+chv	tur	Сана хӑш вӑхӑтра килмеллине каларӗ и?	Sana ne zaman geleceğin söylenildi mi?
+chv	tur	Сана юратмастӑп текех.	Artık seni sevmiyorum.
+chv	tur	Саншӑн чи пысӑк хӑрав мӗн?	Senin en büyük korkun nedir?
+chv	tur	Сан шухӑшупа, мана иккӗленнеҫҫӗ и?	Sence benden şüpheleniyorlar mı?
+chv	tur	Сӗтӗл ҫинче пӗр панулми пур.	Masanın üstünde bir elma var.
+chv	tur	Сехетсерен ӗҫлесе ывӑнтӑм.	Saatlerce çalışmaktan yoruldum.
+chv	tur	Сивӗ шыв ӗҫместӗп.	Soğuk su içmiyorum.
+chv	tur	Сикес умӗн пӑх.	Atlamadan önce bak.
+chv	tur	Сикиччен пӑх.	Atlamadan önce bak.
+chv	tur	Сире пулӑшу параятӑп и?	Size yardım edebilir miyiz?
+chv	tur	Сире юратнӑ.	Sizi sevdi.
+chv	tur	Сире юратнӑччӗ.	Sizi seviyordu.
 chv	tur	Ҫӑваруна уҫӑр, чӗлхӳне кӑларӑр.	Ağzını aç, dilini çıkar.
 chv	tur	Ҫав ӗҫлет и?	O çalışıyor mu?
-chv	tur	Савсан пӑрахмастчӗ.	Onlar hiç kimseyi görmediklerini söylediler.
 chv	tur	Ҫав тӗксӗм пӗлӗтсем ҫумӑр илсе килеҫҫӗ пулмалла.	Şu kara bulutlar muhtemelen yağmur getirecek.
 chv	tur	Ҫак каҫхи вӑхӑтра урамра мӗн тӑватӑн.	Bu kadar geç vakitte dışarıda ne yapıyorsun?
-chv	tur	Саккун иккӗлӗннулӳхсемпе тулли.	Kanun belirsizlikler ile dolu.
 chv	tur	Ҫак кунсенче долларпа нуммай илейместӗн.	Bu günlerde bir dolarla çok şey alınmaz.
 chv	tur	Ҫакна ӑнланатӑн и?	Bunu anlıyor musun?
 chv	tur	Ҫакна урӑх тумастӑп.	Bunu tekrar yapmayacağım.
@@ -252,33 +281,14 @@ chv	tur	Ҫак хӑлхаллӑх ӗҫлеместь.	Bu kulaklıklar çalışm�
 chv	tur	Ҫак ыйтура пӗр иккеленӳ ҫук.	Bu konuda hiç şüphe yok.
 chv	tur	Ҫамрӑк арҫынсем выляҫҫӗ, ватӑ арҫынсемпӑхаҫҫӗ.	Genç erkekler oynar ve yaşlı erkekler izler.
 chv	tur	Ҫамрӑксем пахчара ҫиеҫҫӗ.	Gençler bahçede yerler.
-chv	tur	Сана килмелли вӑхӑта каларӗ и?	Sana ne zaman geleceğin söylenildi mi?
-chv	tur	Санӑн Французла калаҫакан ҫынсем пур и?	Hiç Fransızca konuşan personeliniz var mı?
-chv	tur	Санӑн хӑш CDне итлес килеть.	Hangi CD'yi dinlemek istersin?
-chv	tur	Санӑн хӑш CDне итлесшӗн.	Hangi CD'yi dinlemek istersin?
-chv	tur	Санӑн шанс пур тесе шутлатӑп.	Şanslı olduğunu düşünüyorum.
-chv	tur	Санӑн шырани мӗнле пырать?	Araştırman nasıl gidiyor?
-chv	tur	Сана тавтапуҫ каласшӑн пулнӑччӗ.	Sana teşekkür etmek istemiştim.
-chv	tur	Сана хӑҫан килмеллине каларӗ и?	Sana ne zaman geleceğin söylenildi mi?
-chv	tur	Сана хӑш вӑхӑтра килмеллине каларӗ и?	Sana ne zaman geleceğin söylenildi mi?
-chv	tur	Сана юратмастӑп текех.	Artık seni sevmiyorum.
 chv	tur	Ҫанталӑк сивӗччӗ, ҫавна пула кӑвайт ҫутрӑмӑр.	Hava soğuktu, bu yüzden ateş yaktık.
 chv	tur	Ҫанталӑк ҫумӑрлӑ.	Hava yağmurlu.
-chv	tur	Саншӑн чи пысӑк хӑрав мӗн?	Senin en büyük korkun nedir?
-chv	tur	Сан шухӑшупа, мана иккӗленнеҫҫӗ и?	Sence benden şüpheleniyorlar mı?
 chv	tur	Ҫапла, пӗлетӗп.	Evet, biliyorum.
 chv	tur	Ҫемье пирки питӗ тунсӑхларӗ.	Ailesini çok özledi.
 chv	tur	Ҫӗнӗ Ҫул телейлӗ пултӑр.	Yeni yılınız kutlu olsun!
 chv	tur	Ҫӗр каҫ уна курнӑ и?	Dün gece onu gördün mü?
 chv	tur	Ҫӗрле чӗрнемсене нихӑҫан та касмастӑп.	Gece tırnaklarımı asla kesmem.
 chv	tur	Ҫӗртмеренпе Томран хыпар илтмен.	Temmuzdan beri Tom'dan haber almadım.
-chv	tur	Сӗтӗл ҫинче пӗр панулми пур.	Masanın üstünde bir elma var.
-chv	tur	Сехетсерен ӗҫлесе ывӑнтӑм.	Saatlerce çalışmaktan yoruldum.
-chv	tur	Сикес умӗн пӑх.	Atlamadan önce bak.
-chv	tur	Сикиччен пӑх.	Atlamadan önce bak.
-chv	tur	Сире пулӑшу параятӑп и?	Size yardım edebilir miyiz?
-chv	tur	Сире юратнӑ.	Sizi sevdi.
-chv	tur	Сире юратнӑччӗ.	Sizi seviyordu.
 chv	tur	Ҫитес эрне вӗҫӗнче Том пирӗнпеле йӗлтӗрпе кайать тесе шутлатӑн и?	Önümüzdeki hafta sonu Tom'un bizimle kayak yapmaya gideceğini düşünüyor musun?
 chv	tur	Ҫичӗ хут виҫ, пӗр хут кас.	Yedi kere ölç bir kere kes.
 chv	tur	Ҫӳлӗкрен кӗнеке ӳкрӗ.	Raftan bir kitap düştü.
@@ -346,12 +356,12 @@ chv	tur	Том пӳлӗме пушатма ыйтрӗ.	Tom odayı terk etmemi is
 chv	tur	Том пулмасассӑн пурӑнаймастӑп.	Tom olmadan yaşayamam.
 chv	tur	Том, пунӑҫу хӑрушлӑхра.	Tom, hayatın tehlikede.
 chv	tur	Том пушӑ пулма пултарать, анчах Машук пушӑ мар.	Tom meşgul olmayabilir ama Mary meşgul.
+chv	tur	Том сухала хырниччен лайӑхрах курӑннӑ тесе шутлатӑп.	Tom'un sakal tıraşı olmadan önce daha iyi göründüğünü düşünüyorum.
 chv	tur	Том ҫавӑнта леш йывӑҫ айӗнче пӗччен ларать.	Tom orada o ağacın altında yalnız oturuyor.
 chv	tur	Том ҫав каҫ унтаччӗ.	Tom o gece oradaydı.
 chv	tur	Том ҫавна турӗ.	Tom onu yaptı.
 chv	tur	Том ҫак пулнине кӗтет.	Tom bunun olmasını bekliyor.
 chv	tur	Том ҫӑмӑллӑн пуҫ ҫаврӑннине туйрӗ.	Tom küçük bir sersemlik hissetti.
-chv	tur	Том сухала хырниччен лайӑхрах курӑннӑ тесе шутлатӑп.	Tom'un sakal tıraşı olmadan önce daha iyi göründüğünü düşünüyorum.
 chv	tur	Том ташланине пӑхма юрататӑп.	Tom'un dans etmesini izlemeyi seviyorum.
 chv	tur	Том тепӗр хут шӑнкӑравларӗ.	Tom tekrar aradı.
 chv	tur	Том тепӗр хут шырарӗ.	Tom tekrar aradı.
@@ -403,6 +413,7 @@ chv	tur	Урамра нуммай ҫын пулнӑччӗ.	Sokakta çok insan va
 chv	tur	Урамра нуммай ҫынччӗ.	Sokakta çok insan vardı.
 chv	tur	Урапан хӑвӑртлӑхӗнчен тӗлӗнтӗм.	Arabanın hızına şaşırdım.
 chv	tur	Урӑх ҫакӑмпек пӗр япала та тумастӑп.	Asla böyle bir şey yapmam.
+chv	tur	Фотографири хӗр кам?	Fotoğraftaki kız kim?
 chv	tur	Хӑвӑн плану пирки мана пӗтӗмпех ӑнлантарса пар.	Planın hakkında bana her şeyi anlat.
 chv	tur	Хӑвӑн плану пирки мана пӗтӗмпех каласа пар.	Planın hakkında bana her şeyi anlat.
 chv	tur	Хӑвах пул!	Kendin ol!
@@ -456,12 +467,17 @@ chv	tur	Ыран ирхине мӗн пулассине пӗлетӗп.	Yarın s
 chv	tur	Элӗк вӗҫмексем пулман.	Evvel zaman içinde uçaklar olmadı.
 chv	tur	Эпӗ Америккӑра пурӑнасшӑн.	Amerika'da yaşamak istiyorum.
 chv	tur	Эпӗ ӑҫта йӑнӑшнине калатӑн и мана?	Nerede hatalı olduğumu söyler misin bana?
+chv	tur	Эпӗ аш ҫиместӗп.	Et yemiyorum.
 chv	tur	Эпӗ ӗненнӗ япалисен пахалӑхӗ юлчӗ и?	İnandığım şeylerin kıymeti kaldı mı?
+chv	tur	Эпӗ заводра ӗҫлетӗп.	Fabrikada çalışıyorum.
 chv	tur	Эпӗ кайӑк пекех ирӗклӗ.	Kuş gibi özgürüm.
+chv	tur	Эпӗ кӗҫӗр килетӗп.	Bu akşam geliyorum.
+chv	tur	Эпӗ мӗн ӗҫмеллине пӗлместӗп.	Ne içeceğimi bilmiyorum.
 chv	tur	Эпӗ паян каҫхине пушӑ.	Bu gece boşum.
 chv	tur	Эпӗ пӗрех кая юлтӑм.	Ben zaten geciktim.
 chv	tur	Эпӗ пӗр йӑнӑш турӑм пулмалла.	Belki bir hata yaptım.
 chv	tur	Эпӗ пуҫлатӑп.	Ben başlıyorum.
+chv	tur	Эпӗ сана панӑ укҫапа мӗн турӑн?	Sana verdiğim parayla ne yaptın?
 chv	tur	Эпӗ санран хӑвӑртрах.	Ben senden daha hızlıyım.
 chv	tur	Эпӗ те 16 ҫултаччӗ. Том хӗрӗ те.	Ben de 16 yaşındaydım, Tom'un kızı da.
 chv	tur	Эпӗ уна пӗлместӗп те.	Ben bile onu tanımıyorum.
@@ -482,15 +498,16 @@ chv	tur	Эсӗ кланипе килӗшместӗп.	Söylediğini onaylamıyor
 chv	tur	Эсӗ кнопкине пуссан, е хӑтӑлса юлӑн, е вилӗн.	Eğer bir düğmeye basarsan, ya yaşayacak ya da öleceksin.
 chv	tur	Эсӗ манӑн анне мар.	Benim annem değilsin.
 chv	tur	Эсӗ манӑн пата ыран пыма пултаратӑн.	Beni yarın ziyaret edebilirsin.
+chv	tur	Эсӗ суши ҫирӗн-и?	Suşi yedin mi?
 chv	tur	Эсӗ ҫапла шутламастӑн и?	Öyle düşünmüyor musun?
 chv	tur	Эсӗ ҫӗнтернӗ и?	Kazandın mı?
-chv	tur	Эсӗ суши ҫирӗн-и?	Suşi yedin mi?
 chv	tur	Эсӗ те питӗ хитре.	Sen de gerçekten güzelsin.
 chv	tur	Эсӗ хӑранӑччӗ и?	Korkuyor muydun?
 chv	tur	Эсӗ хӑраса кайнӑччӗ и?	Korkuyor muydun?
 chv	tur	Эсир ӑҫта кайатӑр?	Nereye gidiyorsunuz?
 chv	tur	Эсир ӑҫта пыратӑр?	Nereye gidiyorsunuz?
 chv	tur	Эсир вӑртӑнлӑх тытаймарӑр.	Onlar hiç kimseyi görmediklerini söylediler.
+chv	tur	Эсир кунта килмӗр-и?	Buraya gelmeyecek misiniz?
 chv	tur	Эсир сӑр тытаймарӑр.	Onlar hiç kimseyi görmediklerini söylediler.
 chv	tur	Эсир те пирӗнпе килесшӗн мар ши?	Siz de bizimle gelmek istemez misiniz?
 chv	tur	Эсир тимлӗ.	Siz dikkatlisiniz.

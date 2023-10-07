@@ -2,6 +2,8 @@ pol	ron	Ann jest małą dziewczynką.	Anna este o fetiță.
 pol	ron	Bardzo dziękuję!	Mulțumesc foarte mult!
 pol	ron	Bardzo dziękuję.	Mulțumesc frumos.
 pol	ron	Białe zaczynają i wygrywają.	Albul mută şi câştigă.
+pol	ron	Bilet kosztuje dwadzieścia dolarów.	Biletul costă douăzeci de dolari.
+pol	ron	Byłbym wdzięczny za wszelką pomoc, której moglibyście mi udzielić.	Aș aprecia orice ajutor pe care mi l-ați putea oferi.
 pol	ron	Chcę mieszkać we Włoszech.	Vreau să trăiesc în Italia.
 pol	ron	Co?	Ce?
 pol	ron	Co gotujesz?	Ce gătiți?
@@ -10,6 +12,7 @@ pol	ron	Cześć, jak się masz?	Bună, ce faci?
 pol	ron	Cześć.	Salut!
 pol	ron	Cześć, Tom.	Salut, Tom.
 pol	ron	Czy jutro jest sobota?	Mâine e sâmbătă?
+pol	ron	Czy mogę z tobą pobiegać?	Pot să alerg cu tine?
 pol	ron	Czy mówi pan po francusku?	Vorbești franceză?
 pol	ron	Czy mówi pan po japońsku?	Vorbiți japoneză?
 pol	ron	Czy mówi pan po niemiecku?	Vorbeşti germana?
@@ -74,6 +77,7 @@ pol	ron	Kurwa!	Pula mea!
 pol	ron	Ładna dziś pogoda.	Astăzi vremea e frumoasă.
 pol	ron	Lubię czytać.	Îmi place să citesc.
 pol	ron	Lubię jazz.	Îmi place jazzul.
+pol	ron	Lubię kuchnię grecką.	Îmi place bucătăria grecească.
 pol	ron	Lubię matematykę.	Îmi place matematica.
 pol	ron	Lubię mówić po walijsku.	Îmi place să vorbesc limba velșă.
 pol	ron	Lubię oksytański język.	Îmi place limba occitană.
@@ -81,22 +85,28 @@ pol	ron	Lubię spać.	Îmi place să dorm.
 pol	ron	Lubię tenis.	Îmi place tenisul.
 pol	ron	Mam 25 lat.	Am 25 de ani.
 pol	ron	Mam dziś kaca.	Am o mahmureală azi.
+pol	ron	Mam na imię Dušana.	Numele meu este Dušana.
 pol	ron	Mam słownik.	Am un dicționar.
 pol	ron	Mamy papieża.	Avem papă.
+pol	ron	Ma na sobie liście.	Are frunze pe el.
 pol	ron	Melanie pije mleko.	Melanie bea lapte.
 pol	ron	Moja mama jest bardzo dobrą kucharką.	Mama mea e o foarte bună bucătăreasă.
 pol	ron	Moja matka jest w kuchni.	Mama mea este în bucătărie.
 pol	ron	Moja siostra jest piękna.	Sora mea e drăguță.
 pol	ron	Mój zegarek jest zepsuty.	Ceasul meu s-a stricat.
 pol	ron	Mówi pan po angielsku?	Vorbiți engleză?
+pol	ron	Musisz zapamiętać to zdanie.	Trebuie să-ți amintești această propoziție.
+pol	ron	My nie mamy nawet młotka.	Noi nu avem nici măcar un ciocan.
 pol	ron	Na początku Bóg stworzył niebiosa i ziemię.	La început a făcut Dumnezeu cerul şi pământul.
 pol	ron	Na początku stworzył Bóg niebo i ziemię.	La început a făcut Dumnezeu cerul şi pământul.
 pol	ron	Naprawdę?	Este adevărat?
 pol	ron	Na zdrowie!	Noroc bun!
+pol	ron	Nic nie wiesz.	Nu știi nimic.
 pol	ron	Nic nowego pod słońcem.	Nimic nou sub soare.
 pol	ron	Nic specjalnego.	Nimic special.
 pol	ron	Nie bądź smutny.	Nu te întrista.
 pol	ron	Niebo jest niebieskie.	Cerul este albastru.
+pol	ron	Nie było zawsze łatwo.	Nu a fost întotdeauna ușor.
 pol	ron	Niech żyje chaos!	Trăiască haosul!
 pol	ron	Nie kocham cię.	Nu te iubesc.
 pol	ron	Nie lubię filmów.	Nu-mi plac filmele.
@@ -115,6 +125,7 @@ pol	ron	Nie wiem, czy mam czas.	Nu știu dacă am timpul necesar.
 pol	ron	Nie wiem.	Eu nu știu.
 pol	ron	Nie wiem.	Nu știu!
 pol	ron	Od 1950 r. Europejska Wspólnota Węgla i Stali jednoczy gospodarczo i politycznie państwa Europy, by tym samym zapewnić długotrwały pokój.	Începând cu anul 1950, ţările europene încep să se unească, din punct de vedere economic şi politic, în cadrul Comunităţii Europene a Cărbunelui şi Oţelului, propunându-şi să asigure o pace durabilă.
+pol	ron	Oferujemy pomoc dla tych, którzy nie mówią po śląsku.	Oferim ajutor pentru cei care nu vorbesc sileziană.
 pol	ron	Ona jest szczęśliwa.	Ea este fericită.
 pol	ron	„Ona lubi muzykę.” „I ja też.”	- Îi place muzica. - Și mie.
 pol	ron	Ona ma na sobie tę samą suknię co wczoraj.	Ea poartă aceeași rochie pe care a avut-o și ieri.
@@ -128,12 +139,15 @@ pol	ron	On jest szczęśliwy.	El este fericit.
 pol	ron	On nie jest głodny.	El nu este flămând.
 pol	ron	Pakistan jest krajem muzułmańskim.	Pakistan este o țară musulmană.
 pol	ron	Piję wodę w kuchni.	Beau apă în bucătărie.
+pol	ron	Podzielmy się tymi pieniędzmi.	Să împărțim acești bani.
 pol	ron	Pokój mojego ojca jest bardzo duży.	Camera tatălui meu e foarte mare.
 pol	ron	Posłuchaj mnie!	Ascultă-mă!
 pol	ron	Proszę bardzo, nie ma za co.	Cu plăcere.
 pol	ron	Proszę.	Vă rog.
+pol	ron	Przewrócił się na łóżku.	El s-a învârtit în pat.
 pol	ron	Przykro mi, nie mam pojęcia.	Îmi pare rău, n-am nici o idee.
 pol	ron	Radio jest zepsute.	Radioul este stricat.
+pol	ron	Rok 2020 dał nam lekcję życia, przypominając nam, że nie jesteśmy panami świata.	Anul 2020 ne-a dat o lecție de viață, reamintindu-ne că nu suntem mai presus decât orice.
 pol	ron	Rozumiem.	Înțeleg.
 pol	ron	Rozumiesz?	Ai înțeles?
 pol	ron	Rumuni z Siedmiogrodu mówią bardzo powoli.	Românii din Transilvania vorbesc foarte rar.
@@ -154,16 +168,24 @@ pol	ron	Ten słownik na biurku jest mój.	Dicţionarul de pe birou este al meu.
 pol	ron	To jest mój komputer.	Acesta este computerul meu.
 pol	ron	To jest problem, którego nie widzisz.	E o problemă acolo pe care nu o vezi.
 pol	ron	To książka.	Aceasta este o carte.
+pol	ron	Toma tutaj nie ma.	Tom nu este aici.
+pol	ron	Tom i Mary byli oboje zmęczeni.	Tom și cu Mary erau amândoi obosiți.
+pol	ron	Tom jest bardzo ciekawy.	Tom este foarte curios.
 pol	ron	Tom lubi śnieg.	Lui Tom îi place zăpada.
+pol	ron	Tom nie odprowadzi dzieci do szkoły.	Tom nu va însoți copiii la școală.
+pol	ron	Tom oraz Mary oboje byli zmęczeni.	Tom și cu Mary erau amândoi obosiți.
 pol	ron	Tom wie kim jest Mary.	Tom știe cine e Mary.
 pol	ron	To niebezpieczne!	Este periculos!
+pol	ron	To nie była twoja decyzja.	Asta nu era decizia ta.
 pol	ron	To nie moja wina!	Nu e vina mea!
 pol	ron	To piwo ma 5% alkoholu.	Această bere conţine 5 % alcool.
 pol	ron	To piwo ma 5% alkoholu.	Această bere conține 5% alcool.
 pol	ron	Trochę mówi po angielsku.	Vorbeşte puţin engleza.
 pol	ron	Twój kot jest czarny.	Pisica ta este neagră.
 pol	ron	Twój płaszcz jest bardzo ładny.	Paltonul tău este foarte frumos.
+pol	ron	Udało mi się!	Am reușit!
 pol	ron	Unię Europejską utworzono po to, aby położyć kres krwawym wojnom, wybuchającym często pomiędzy sąsiadującymi krajami, z których najstraszliwszą była II Wojna Światowa.	Uniunea Europeană a fost creată cu scopul de a se pune capăt numărului mare de războaie sângeroase duse de ţări vecine, care au culminat cu cel de-al Doilea Război Mondial.
+pol	ron	Uwaga na głowę! Sufit jest niski.	Atenție la cap! Tavanul este scund.
 pol	ron	W Belfaście jest ulica o nazwie Madrid Street, którą przecina ściana niczym mur berliński. Jest zbudowana częściowo z cegły, częściowo z żelaza, a częściowo ze stali. Ma 7 metrów wysokości i jest naszpikowana drutami i szpikulcami.	În Belfast există o stradă care se numeşte Madrid şi care se termină brusc în zidul Berlinului. Peretele constă într-o parte de cărămidă, alta de fier şi alta de oţel. Măsoară peste şapte metri înălţime şi se termină cu piroane şi sârmă ghimpată.
 pol	ron	W Brazylii jest wiele dużych miast.	Sunt multe orașe mari în Brazilia.
 pol	ron	Wczoraj był czwartek.	Ieri a fost joi.
@@ -171,7 +193,9 @@ pol	ron	Widzę dom.	Eu văd casa.
 pol	ron	Wiesz, kto to zrobił?	Știi cine l-a făcut?
 pol	ron	Witamy!	Bine ai venit!
 pol	ron	Witamy!	Bine ați venit!
+pol	ron	W mieście jest wiele domów.	Sunt multe case în oraș.
 pol	ron	Wszystkie istoty ludzkie rodzą się wolne i równe w godności i prawach. Są one obdarzone rozumem i sumieniem oraz powinny postępować w stosunku do siebie wzajemnie w duchu braterstwa.	Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.
 pol	ron	W wazonie są piękne róże.	Sunt câțiva trandafiri frumoși în vază.
+pol	ron	Ziga mówi po śląsku.	Ziga vorbește sileziană.
 pol	ron	Znam go.	Îl cunosc.
 pol	ron	Znasz mnie?	Mă cunoști?

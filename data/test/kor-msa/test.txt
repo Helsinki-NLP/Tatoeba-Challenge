@@ -11,11 +11,11 @@ kor_Hang	zsm_Latn	물은 투명하다.	Air itu jernih.
 kor_Hang	zsm_Latn	돈이 더 많으면 좋겠다.	Alangkah baiknya kalau ada lebih banyak duit.
 kor_Hang	zsm_Latn	무슨 일이야?	Apa hal?
 kor_Hang	zsm_Latn	무슨 일이야?	Apa hal ini?
-kor_Hang	zsm_Latn	그건 뭐야?	Apa itu?
 kor_Hang	zsm_Latn	그건 뭐예요?	Apa itu?
-kor_Hang	zsm_Latn	그건 뭐야?	Apakah benda itu?
-kor_Hang	zsm_Latn	그건 뭐예요?	Apakah benda itu?
+kor_Hang	zsm_Latn	그건 뭐야?	Apa itu?
 kor_Hang	zsm_Latn	그게뭐야?	Apakah benda itu?
+kor_Hang	zsm_Latn	그건 뭐예요?	Apakah benda itu?
+kor_Hang	zsm_Latn	그건 뭐야?	Apakah benda itu?
 kor_Hang	zsm_Latn	사랑이 뭐야?	Apakah itu cinta?
 kor_Hang	zsm_Latn	그 말의 이름이 뭐야?	Apakah nama kuda itu?
 kor_Hang	zsm_Latn	무슨 일이야?	Apa masalah ini?
@@ -47,9 +47,9 @@ kor_Hang	zsm_Latn	언제 돌아와요?	Bilakah awak akan pulang?
 kor_Hang	zsm_Latn	언제 돌아와요?	Bilakah awak kembali?
 kor_Hang	zsm_Latn	언제 돌아와요?	Bilakah awak pulang?
 kor_Hang	zsm_Latn	카드 돼요?	Bolehkah saya bayar dengan kad kredit?
-kor_Hang	zsm_Latn	뭐 해요?	Buat apa?
-kor_Hang	zsm_Latn	뭐해?	Buat apa?
 kor_Hang	zsm_Latn	뭐해요?	Buat apa?
+kor_Hang	zsm_Latn	뭐해?	Buat apa?
+kor_Hang	zsm_Latn	뭐 해요?	Buat apa?
 kor_Hang	zsm_Latn	사랑이 뭐야?	Cinta itu apa?
 kor_Hang	zsm_Latn	다시 한번 해봐.	Cuba buat sekali lagi.
 kor_Hang	zsm_Latn	다시 한번 해봐.	cuba lakukan sekali lagi.
@@ -135,8 +135,8 @@ kor_Hang	zsm_Latn	가고 싶어.	Saya nak pergi.
 kor_Hang	zsm_Latn	한국에 가고 싶어요.	Saya nak pergi ke Korea.
 kor_Hang	zsm_Latn	사랑해 - 나도.	Sayang awak - Saya juga.
 kor_Hang	zsm_Latn	난 공원에 가요.	Saya pergi ke taman.
-kor_Hang	zsm_Latn	보고 싶어.	Saya rindukan awak.
 kor_Hang	zsm_Latn	보고 싶어요.	Saya rindukan awak.
+kor_Hang	zsm_Latn	보고 싶어.	Saya rindukan awak.
 kor_Hang	zsm_Latn	나 머리 아파.	Saya sakit kepala.
 kor_Hang	zsm_Latn	사랑해요.	Saya sayang awak.
 kor_Hang	zsm_Latn	나는 휴가중이었어.	Saya sedang bercuti.
@@ -175,11 +175,23 @@ kor_Hang	zsm_Latn	아냐.	Tidak.
 kor_Hang	zsm_Latn	없다.	Tidak ada.
 kor_Hang	zsm_Latn	못 믿어.	Tidak boleh percaya.
 kor_Hang	zsm_Latn	중요하지 않다.	Tidak penting.
-kor_Hang	zsm_Latn	몰라.	Tidak tahu.
 kor_Hang	zsm_Latn	몰라요	Tidak tahu.
+kor_Hang	zsm_Latn	몰라.	Tidak tahu.
 kor_Hang	zsm_Latn	군인 세명이 부상을 당했다.	Tiga anggota tentera cedera.
 kor_Hang	zsm_Latn	탐은 내 비디오 카메라를 쓰고 싶으면 쓸 수 있다.	Tom boleh menggunakan kamera video saya kalau dia nak.
 kor_Hang	zsm_Latn	톰은 전기 기사다.	Tom ialah seorang jurutera elektrik.
 kor_Hang	zsm_Latn	우리에게 필요한 것이 무엇인지 하나님께서는 아신다.	Tuhan tahu apa yang kita memerlukan.
 kor_Hang	zsm_Latn	몇 살 이세요?	Umur berapa?
+kor	zsm_Latn	이거 부모님께도 보여드렸어요?	Adakah anda menunjukkan ini kepada ibu bapa anda juga?
+kor	zsm_Latn	불교는 인도에서 유래됐다.	Agama Buddha berasal dari India.
+kor	zsm_Latn	당신은 톰보다 심하네요.	Awak lebih teruk daripada Tom.
+kor	zsm_Latn	내가 말 하게 좀 놔두세요.	Biar saya bercakap.
+kor	zsm_Latn	우리가 너를 도와줄게.	Kami akan membantu anda.
+kor	zsm_Latn	나는 우리 언니가 싫다.	Saya benci adik saya.
+kor	zsm_Latn	나는 수업에 집중했다.	Saya menumpukan perhatian saya pada kuliah.
+kor	zsm_Latn	저는 항상 자전거로 학교에 가요.	Saya selalu menunggang basikal ke sekolah.
+kor	zsm_Latn	아침에 늦잠을 자서 하마터면 지각할 뻔했어.	Saya tertidur tadi pagi, saya hampir lewat.
+kor	zsm_Latn	나는 더 이상 멀리 갈 수 없다.	Saya tidak boleh pergi lebih jauh.
+kor	zsm_Latn	나는 맥주를 절대 마시지 않는다.	Saya tidak pernah menyentuh bir.
+kor	zsm_Latn	이거는 누구 스키예요?	Ski siapa ini?
 kor	zsm_Latn	네.	Ya.

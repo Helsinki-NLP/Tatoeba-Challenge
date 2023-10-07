@@ -129,19 +129,8 @@ cho	fra	Keyu sʋ yimmi.	Je ne crois pas.
 cho	fra	Keyu sʋ yimmi.	Je pense que non.
 cho	fra	Kucha yʋt omba.	Il pleut.
 cho	fra	Kucha yʋt omba.	Il pleut dehors.
-cho	fra	Ʋlla lawa yʋt shokʋtti ya̱ katiohmi hosh hokli?	Comment font tous les enfants pour attraper des grenouilles?
-cho	fra	Ʋllatek himitta yʋt taloa.	La jeune fille chante.
-cho	fra	Ʋllatek himitta yʋt taloa.	La jeune fille est en train de chanter.
-cho	fra	Ʋm achukmahoke.	Ça va.
-cho	fra	Ʋm achukmahoke.	Je vais bien.
-cho	fra	Ʋm achukmahoke.	Tout va bien.
 cho	fra	Miⁿko yʋt si anumpoli.	Le chef me parle.
 cho	fra	Miⁿko yʋt si anumpoli.	Le chef s'adresse à moi.
-cho	fra	Ʋm ʋlhtaha.	Je suis prêt.
-cho	fra	Ʋm ʋlhtaha tuk.	J'étais prêt.
-cho	fra	Ʋm ʋlhtaha tuk.	J'étais prête.
-cho	fra	Ʋmmona ka̱ Chitokaka yʋt ʋba, micha yakni aiena ka̱ ikbi tok.	Au commencement, Dieu créa le ciel et la terre.
-cho	fra	Ʋmmona ka̱ Chitokaka yʋt ʋba, micha yakni aiena ka̱ ikbi tok.	Au commencement, Dieu créa les cieux et la terre.
 cho	fra	Nanta ish Êpa chi?	Que veux-tu manger ?
 cho	fra	Nanta ish Êpa?	Que manges-tu ?
 cho	fra	Nanta ish Êpa tuk?	Qu'as-tu mangé ?
@@ -162,9 +151,9 @@ cho	fra	Sapokni micha amafo yʋt nʋni ya̱ katiohmi hosh hoponi?	Comment grand-
 cho	fra	Sapokni ʋt shukbo katimampo achefa tuk?	Quelle couverture grand-mère a-t-elle lavée ?
 cho	fra	Sappokchi ʋt binili.	Mon beau-père est assis.
 cho	fra	Sappoktek ʋt satikchi hʋklo.	Ma petite-fille écoute ma femme.
-cho	fra	Sʋ hochowa.	J'ai froid.
 cho	fra	Shukbo katimampo hosh liteha?	Quelle couverture est sale?
 cho	fra	Shukbo okchʋko ya̱ katiohmi hosh ish achefa?	Comment laves-tu la couverture bleue ?
+cho	fra	Sʋ hochowa.	J'ai froid.
 cho	fra	Sʋ nakoa fehna tuk.	J'étais si furieux.
 cho	fra	Sʋ nakoa fehna tuk.	J'étais tellement en colère.
 cho	fra	Sʋ nayukpa tuk.	J'étais heureuse.
@@ -174,5 +163,16 @@ cho	fra	Takkon ʋpa li.	Je mange une pomme.
 cho	fra	Tobi atampa ʋpa li tuk atukon himo ʋm anshakʋt taloʋt issahe kiyo.	J'ai mangé trop de haricots et maintenant j'ai arrière-train qui n'arrête pas de siffler.
 cho	fra	Tom ʋt taloa.	Tom chante.
 cho	fra	Tom ʋt taloa.	Tom est en train de chanter.
+cho	fra	Ʋlla lawa yʋt shokʋtti ya̱ katiohmi hosh hokli?	Comment font tous les enfants pour attraper des grenouilles?
+cho	fra	Ʋllatek himitta yʋt taloa.	La jeune fille chante.
+cho	fra	Ʋllatek himitta yʋt taloa.	La jeune fille est en train de chanter.
+cho	fra	Ʋm achukmahoke.	Ça va.
+cho	fra	Ʋm achukmahoke.	Je vais bien.
+cho	fra	Ʋm achukmahoke.	Tout va bien.
+cho	fra	Ʋmmona ka̱ Chitokaka yʋt ʋba, micha yakni aiena ka̱ ikbi tok.	Au commencement, Dieu créa le ciel et la terre.
+cho	fra	Ʋmmona ka̱ Chitokaka yʋt ʋba, micha yakni aiena ka̱ ikbi tok.	Au commencement, Dieu créa les cieux et la terre.
+cho	fra	Ʋm ʋlhtaha.	Je suis prêt.
+cho	fra	Ʋm ʋlhtaha tuk.	J'étais prêt.
+cho	fra	Ʋm ʋlhtaha tuk.	J'étais prête.
 cho	fra	Yakoke!	Merci !
 cho	fra	Yʋmma̱ binili.	Assieds-toi là.

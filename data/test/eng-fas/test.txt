@@ -67,8 +67,8 @@ eng	pes	A good many people have told me to take a holiday.	خیلی ها به م
 eng	pes	A good surgeon has an eagle's eye, a lion's heart, and a lady's hand.	یک جراح خوب دارای چشمی همانند عقاب، دلی مثل شیر و دستی زنانه است.
 eng	pes	A grand jury found him not guilty of any crime.	هیئت منصفه‌ی عالی او را از هر جرمی بی‌گناه دانست.
 eng	pes	A grasshopper and many ants lived in a field.	یک ملخ و مورچه‌های زیادی در یک مزرعه زندگی می‌کردند.
-eng	pes	A guilty conscience needs no accuser.	یک وجدان گناه‌کار به سرزنش دیگران محتاج نیست.
 eng	pes	A guilty conscience needs no accuser.	همه‌کاره و هیچ‌کاره.
+eng	pes	A guilty conscience needs no accuser.	یک وجدان گناه‌کار به سرزنش دیگران محتاج نیست.
 eng	pes	A half-doctor kills you and a half-religious scholar kills your belief.	نیم‌طبیب خطر جان، نیم‌فقیه خطر ایمان.
 eng	pes	Ah, I thank you, my dear.	آه، تشکر می کنم از شما، عزیز من.
 eng	pes	A house built of wood is more easily burnt than a house of stone.	خانهٔ چوبی آسان‌تر از خانهٔ سنگی آتش می‌گیرد.
@@ -148,10 +148,10 @@ eng	pes	An ignorant person is one who doesn't know what you have just found out.
 eng	pes	Answer the question.	به این سؤال پاسخ بده.
 eng	pes	Answer the question.	سوال را جواب بدهید.
 eng	pes	An unjust peace is better than a just war.	صلح غیرمنصفانه بهتر از جنگ منصفانه است.
-eng	pes	Any milk or sugar?	شیر یا شکری بود؟
-eng	pes	Any milk or sugar?	شیر یا شکر دارید؟
-eng	pes	Any milk or sugar?	شیر یا شکری هست؟
 eng	pes	Any milk or sugar?	شیر؟ شکر؟
+eng	pes	Any milk or sugar?	شیر یا شکر دارید؟
+eng	pes	Any milk or sugar?	شیر یا شکری بود؟
+eng	pes	Any milk or sugar?	شیر یا شکری هست؟
 eng	pes	Anyone may use this dictionary.	هرکسی می تواند از این دیکشنری استفاده کند.
 eng	pes	Anyone who says so is a liar.	هر کسی این را بگوید، یک دروغگوست.
 eng	pes	Any political party is conservative in itself.	هر حزب سیاسی به تنهایی محافظه‌کار است.
@@ -764,8 +764,8 @@ eng	pes	He pushed his nose against the window.	او بینی‌اش را روی 
 eng	pes	Her birthday party will be tomorrow evening.	جشن تولدش فردا عصر برگزار میشه
 eng	pes	Her daughter is sick.	دختر (آن) خانم بیمار است
 eng	pes	He reached his goal.	او به هدفش رسید.
-eng	pes	He readily agreed to it.	او بی درنگ با آن موافقت کرد.
 eng	pes	He readily agreed to it.	او به آسانی با آن موافقت کرد.
+eng	pes	He readily agreed to it.	او بی درنگ با آن موافقت کرد.
 eng	pes	He read the article over and over again.	او مقاله را بارها مطالعه کرد.
 eng	pes	He refused to say more about it.	او قبول نکرد بیشتر در آن مورد بگوید.
 eng	pes	He refused to say more about that.	او قبول نکرد بیشتر در آن مورد بگوید.
@@ -936,8 +936,8 @@ eng	pes	How long will Tom stay with us?	تام چقدر پیش ما خواهد �
 eng	pes	How many animals do you think are in this zoo?	فکر می کنی چند حیوان در این باغ وحش هست؟
 eng	pes	How many CDs do you have?	چند سی دی دارید؟
 eng	pes	How many days are there in a leap year?	یک سال کبیسه چند روز دارد؟
-eng	pes	How many episodes of One Piece have you watched?	چندی قسمت از ون پیس تماشا کردی؟
 eng	pes	How many episodes of One Piece have you watched?	چند قسمت از ون پیس دیدی؟
+eng	pes	How many episodes of One Piece have you watched?	چندی قسمت از ون پیس تماشا کردی؟
 eng	pes	How many hours will the trip take?	این مسیر جند ساعت طول میکشه.
 eng	pes	How many times a minute does the average person blink?	به طور میانگین هر شخص در دقیقه چند بار پلک میزند؟
 eng	pes	How much is the dollar now?	دلار الان چقدر میشه؟
@@ -1594,9 +1594,9 @@ eng	pes	It cannot be denied that crime is on the increase.	اینکه جنایت
 eng	pes	It depends on the context.	بستگی به شرایط دارد.
 eng	pes	It did more harm than good.	بیشتر ضرر رسوند تا منفعت.
 eng	pes	It doesn't look like we'll get paid this week.	به نظر نمی رسه این هفته حقوق بگیریم
-eng	pes	It doesn't matter when you come.	مهم نیست کِی می‌آیی.
 eng	pes	It doesn't matter when you come.	مهم نیست که کِی می‌آیی.
 eng	pes	It doesn't matter when you come.	مهم نیست که کِی می‌آیید.
+eng	pes	It doesn't matter when you come.	مهم نیست کِی می‌آیی.
 eng	pes	I telephoned her at once.	من بی درنگ به او تلفن کردم.
 eng	pes	It fills it up way too fast!	خیلی سریع پرش می کنه.
 eng	pes	It had to come from somewhere.	بالاخره باید از یک جایی می آمد.
@@ -1774,8 +1774,8 @@ eng	pes	I've told you a million times not to exaggerate.	من به شما یک �
 eng	pes	I've told you over and over again not to do that.	بارها و بارها بهت گقتم این کار رو نکن.
 eng	pes	I visited Paris a long time ago.	من خیلی وقت پیش پاریس بودم.
 eng	pes	I walk my dog in the park every morning.	من هر روز صبح سگم را برای قدم زدن به پارک میبرم.
-eng	pes	I want a new dog.	یک سگ جدید می‌خواهم.
 eng	pes	I want a new dog.	من سگی جدید می خواهم.
+eng	pes	I want a new dog.	یک سگ جدید می‌خواهم.
 eng	pes	I want coffee.	قهوه را می‌خواهم.
 eng	pes	I wanted some salt, but there was none in the jar.	من نمک می خواستم، ولی در بطری شیشه ای هیچ نبود.
 eng	pes	I wanted to work this summer.	من می خواهم این تابستان کار کنم.

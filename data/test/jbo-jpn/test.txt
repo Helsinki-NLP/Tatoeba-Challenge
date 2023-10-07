@@ -75,8 +75,8 @@ jbo_Latn	jpn_Hira	.aupei mi'a vi denpa tu'a do	ここであなたを待ちまし
 jbo_Latn	jpn_Hira	ba'a do snada	あなたは成功するでしょう。
 jbo_Latn	jpn_Hira	ba'o klama fi la .tokion. poi ponjo	日本の東京からきました。
 jbo_Latn	jpn_Hira	barda u'e	わぁ、すごい大きい。
-jbo_Latn	jpn_Hira	bazi vensa	もう少し先も春だ。
 jbo_Latn	jpn_Hira	bazi vensa	もうすぐ春だ。
+jbo_Latn	jpn_Hira	bazi vensa	もう少し先も春だ。
 jbo_Latn	jpn_Hira	bisybo'o vi'a lo dargu	道路に霜が降りています。
 jbo_Latn	jpn_Hira	.bi'u le ninpre cu mutce melbi .ui	おい、今度の新人かわいいらしいぜ。
 jbo_Latn	jpn_Hira	bi'u puki mi ca ze'e pu li cipa	実のところ、当時私は３１歳であった。
@@ -97,7 +97,6 @@ jbo_Latn	jpn_Hira	ca'o carvi	雨が降っている。
 jbo_Latn	jpn_Hira	ci da tixnu ra	３人は彼の娘です。
 jbo_Latn	jpn_Hira	ci da tixnu ra	彼には3人の娘がいます。
 jbo_Latn	jpn_Hira	cilre fi la .esperanton. ta'i ma	どうやってエスペラント語を習うの？
-jbo_Latn	jpn_Hira	coi	こんにちは。
 jbo_Latn	jpn_Hira	coi .i djica lo nu klama ma	まいど! どこ行く？
 jbo_Latn	jpn_Hira	coi mi'e maik	やぁ、私はマイクです。
 jbo_Latn	jpn_Hira	coi mi'e .nansis.	こんにちは、ナンシーです。
@@ -107,6 +106,7 @@ jbo_Latn	jpn_Hira	coi mi'e omid	こんにちは、オミッドです。
 jbo_Latn	jpn_Hira	coi mi'e sepide	こんにちは。私はスピデです。
 jbo_Latn	jpn_Hira	coi ro do	みなさん、こんにちは。
 jbo_Latn	jpn_Hira	coi tam	こんにちは、トム。
+jbo_Latn	jpn_Hira	coi	こんにちは。
 jbo_Latn	jpn_Hira	co'o	さようなら。
 jbo_Latn	jpn_Hira	cusku lu la'a au citka lo titla bisli li'u	「かきごおりを食べたいんだろうね」と言った。
 jbo_Latn	jpn_Hira	da'a da drata de	甲を除いて乙ではない。
@@ -232,8 +232,8 @@ jbo_Latn	jpn_Hira	ko'a nerkla fo lo canko	彼は窓を通って来た。
 jbo_Latn	jpn_Hira	ko'a nitcu tu'a do	彼は君が必要なんだ。
 jbo_Latn	jpn_Hira	ko'a puba'o djica lo nu ba binxo lo ctuca	彼女は教師になりたかった。
 jbo_Latn	jpn_Hira	ko'a pu bazi co'a krefu speni	彼女はすぐに再婚した。
-jbo_Latn	jpn_Hira	ko'a pu ca'o klaku	彼女は泣いていた。
 jbo_Latn	jpn_Hira	ko'a pu ca'o klaku	彼は泣いていた。
+jbo_Latn	jpn_Hira	ko'a pu ca'o klaku	彼女は泣いていた。
 jbo_Latn	jpn_Hira	ko'a pu clira ckakla	彼は早く寝た。
 jbo_Latn	jpn_Hira	ko'a pu co'u dasni lo creka	彼は上着を脱いだ。
 jbo_Latn	jpn_Hira	ko'a pu cuxna le ci melbi plise	彼女は３個の奇麗なりんごを選んだ。
@@ -268,8 +268,8 @@ jbo_Latn	jpn_Hira	ko na catra	汝殺すなかれ。
 jbo_Latn	jpn_Hira	ko na citka	食べてはいけません。
 jbo_Latn	jpn_Hira	ko na klama	行くんじゃない。
 jbo_Latn	jpn_Hira	ko na kruca le klaji	通りを渡るな
-jbo_Latn	jpn_Hira	ko na muvdu fi ti	ここでじっとしていろ。
 jbo_Latn	jpn_Hira	ko na muvdu fi ti	ここから動くな。
+jbo_Latn	jpn_Hira	ko na muvdu fi ti	ここでじっとしていろ。
 jbo_Latn	jpn_Hira	ko na pencu mi	私に触らないで。
 jbo_Latn	jpn_Hira	ko na punji lo verba lo dakli	子供を鞄に入れるな。
 jbo_Latn	jpn_Hira	ko na tolmo'i tu'a lo do jdini	お金を忘れないでください。
@@ -348,8 +348,8 @@ jbo_Latn	jpn_Hira	le nanla terpa lo manku	その子は暗闇が恐いんだ。
 jbo_Latn	jpn_Hira	le nanmu cu ninmu	その男性は女性です。
 jbo_Latn	jpn_Hira	le nanmu ku nelci le ninmu	その男性はその女性が好きです。
 jbo_Latn	jpn_Hira	le nanmu na mikce	その男性は医者ではありません。
-jbo_Latn	jpn_Hira	le ninmu cu melbi	女の人は奇麗です。
 jbo_Latn	jpn_Hira	le ninmu cu melbi	その女性は美しい。
+jbo_Latn	jpn_Hira	le ninmu cu melbi	女の人は奇麗です。
 jbo_Latn	jpn_Hira	le nixli cu xrula pe'a bu'u lo mi ckule	あの娘は学校の花です。
 jbo_Latn	jpn_Hira	lenu cikybi'o cu du lenu to'e sipybi'o	目覚める事は寝る事の反対です。
 jbo_Latn	jpn_Hira	le patfu be ra cu ponpre	彼のお父さんは日本人です。
@@ -471,8 +471,8 @@ jbo_Latn	jpn_Hira	lo va cukta cu cmalu	あの本は小さい。
 jbo_Latn	jpn_Hira	lo va karce cu selpo'e ra	あの自動車は彼のものです。
 jbo_Latn	jpn_Hira	lo vi cukta na srana mi	この本は私のものではありません。
 jbo_Latn	jpn_Hira	lo vi mlatu cu selpo'e mi	これは私の猫です。
-jbo_Latn	jpn_Hira	lo vi nanmu cu morsi	この男性は死亡しています。
 jbo_Latn	jpn_Hira	lo vi nanmu cu morsi	この男は死んでいる。
+jbo_Latn	jpn_Hira	lo vi nanmu cu morsi	この男性は死亡しています。
 jbo_Latn	jpn_Hira	lo vi ninmu cu famti mi	この女性は私の叔母です。
 jbo_Latn	jpn_Hira	lo vi nixli cu xabju lo razgu'e	この少女はブラジルに住んでいる。
 jbo_Latn	jpn_Hira	lo vi pinsi zo'u ma ponse	この鉛筆は誰のですか？
@@ -514,8 +514,8 @@ jbo_Latn	jpn_Hira	ma stuzi lo do ckule	あなたの学校はどこにありま�
 jbo_Latn	jpn_Hira	ma tadji lo nu do facki	あなたが発見した方法とはどういったものですか？
 jbo_Latn	jpn_Hira	ma zbasu ti	誰がそれを造ったのですか？
 jbo_Latn	jpn_Hira	melbi ninmu	美人だなあ。
-jbo_Latn	jpn_Hira	mi'a djica tu'a lo mulno jufra	我々は文を完成させたいです。
 jbo_Latn	jpn_Hira	mi'a djica tu'a lo mulno jufra	この文章を完成させてください。
+jbo_Latn	jpn_Hira	mi'a djica tu'a lo mulno jufra	我々は文を完成させたいです。
 jbo_Latn	jpn_Hira	mi'a do vitke ca lo bavlamdei	私たちは明日、あなたのところを訪問します。
 jbo_Latn	jpn_Hira	mi'a rirni re verba	私たちには二人の子どもがいます。
 jbo_Latn	jpn_Hira	mi ba klama	あとで行くね。
@@ -665,9 +665,9 @@ jbo_Latn	jpn_Hira	mi xanka so'i roi	私は何度も心配しています。
 jbo_Latn	jpn_Hira	mi xebni la .tom. ki'u zo'e	私はトムが嫌いだ。
 jbo_Latn	jpn_Hira	mi ze'e pu xebni lo vi stuzi	私はこの場所がいつも嫌いだった。
 jbo_Latn	jpn_Hira	mi zvati ma	僕はどこにいるの？
-jbo_Latn	jpn_Hira	mo	どうした？
 jbo_Latn	jpn_Hira	mo doi maik	どうしたんだい、マイク。
 jbo_Latn	jpn_Hira	mo'u mo ca lo cabdei	今日は何したの?
+jbo_Latn	jpn_Hira	mo	どうした？
 jbo_Latn	jpn_Hira	mu'a ra se bangu lo dotco e lo fraso e lo glico	例えば、 彼は ドイツ語とフランス語と英語を話します。
 jbo_Latn	jpn_Hira	mu'a ti penbi	例えば、これはペンです。
 jbo_Latn	jpn_Hira	mu'i lo nu lenku kei mi'a zbasu lo fagri	寒かったので、私たちは火を焚きました。
@@ -744,8 +744,8 @@ jbo_Latn	jpn_Hira	ra nelci lo ka limna	彼は水泳が好きです。
 jbo_Latn	jpn_Hira	ra nelci lo nu bajra	彼は走るのが好きだ。
 jbo_Latn	jpn_Hira	ra nelci lo nu jukpa	彼は調理が好きです。
 jbo_Latn	jpn_Hira	ra nelci lo nu tcidu fi lo cukta	彼は読書が好きです。
-jbo_Latn	jpn_Hira	ra nelci lo nu xabju la.tokion.	彼は東京に住むことが好きです。
 jbo_Latn	jpn_Hira	ra nelci lo nu xabju la.tokion.	あれは東京に生息するのが好きです。
+jbo_Latn	jpn_Hira	ra nelci lo nu xabju la.tokion.	彼は東京に住むことが好きです。
 jbo_Latn	jpn_Hira	ra pacna lo nu va'o ro da snada	彼はなんとしても成功したいと願っている。
 jbo_Latn	jpn_Hira	ra puca'o kixmi'a	彼は大笑いしていた。
 jbo_Latn	jpn_Hira	ra pu lifri lo nandu nunji'e	彼女はつらい生活を経験しました。
@@ -901,8 +901,8 @@ jbo_Latn	jpn_Kana	lo korvo cu xekri	カラスは黒い。
 jbo_Latn	jpn_Kana	lo minji ca na akti	その機械はアイドリング中です。
 jbo_Latn	jpn_Kana	lo xriso cu jegvo	キリスト教はアブラハムの宗教の一つです。
 jbo_Latn	jpn_Kana	mi djica lo nu lojbo bacru	ロジバンで話したい。
-jbo_Latn	jpn_Kana	mi muspre	私はムスリムです。
 jbo_Latn	jpn_Kana	mi muspre	私はイスラム教徒です。
+jbo_Latn	jpn_Kana	mi muspre	私はムスリムです。
 jbo_Latn	jpn_Kana	mi mutce nelci lo biskruji	アイスクリームが大好きです。
 jbo_Latn	jpn_Kana	mi se bangu lo banginu'a	私はインターリングアを話します。
 jbo_Latn	jpn_Kana	mi se gugdefu'i gi'e ku'i se bangu lo bansuve'e	私はフィンランド人なのに、スウェーデン語も話せる。

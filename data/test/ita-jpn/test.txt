@@ -292,8 +292,8 @@ ita	jpn_Hira	1° passo. Scaldate l'olio vegetale (0,5 L) (qualsiasi grasso o una
 ita	jpn_Hira	Aaah!! Il mio computer è rotto!	あ～！！パソコンが壊れた！
 ita	jpn_Hira	Abbiamo bisogno di più manodopera.	もっと人手が必要だ。
 ita	jpn_Hira	Abbiamo camminato su e giù per le strade di Kyoto.	私たちは京都の町をぶらぶら歩いた。
-ita	jpn_Hira	Abbiamo degli stivali verdi, azzurri e gialli.	私たちは、緑、青、黄色のブーツを持っている。
 ita	jpn_Hira	Abbiamo degli stivali verdi, azzurri e gialli.	ブーツは緑、青、黄色をご用意しております。
+ita	jpn_Hira	Abbiamo degli stivali verdi, azzurri e gialli.	私たちは、緑、青、黄色のブーツを持っている。
 ita	jpn_Hira	Abbiamo evitato l'incidente per poco.	われわれはかろうじて事故を免れた。
 ita	jpn_Hira	Abbiamo già fatto il nostro lavoro.	私たちはすでに仕事をしてしまった。
 ita	jpn_Hira	Abbiamo intenzione di scalare quella montagna.	私たちはあの山に登るつもりです。
@@ -493,8 +493,8 @@ ita	jpn_Hira	Chi non semina non raccoglie.	種をまくように刈り入れる�
 ita	jpn_Hira	Chi nulla ha, nulla perde.	持たざる者失せず。
 ita	jpn_Hira	Chi ti piace di più, Sachiko o Akiko?	あなたは佐知子さんとアキ子さんとではどちらが好きですか。
 ita	jpn_Hira	Chiuda la porta, per piacere.	ドアをしめてください。
-ita	jpn_Hira	Chiuda la porta, per piacere.	どうぞドアをしめてください。
 ita	jpn_Hira	Chiuda la porta, per piacere.	ドアを閉めて下さい。
+ita	jpn_Hira	Chiuda la porta, per piacere.	どうぞドアをしめてください。
 ita	jpn_Hira	Chiuda la porta uscendo.	出る時にドアをお閉めください。
 ita	jpn_Hira	Chiudi la porta e apri la finestra.	ドアを閉めて窓を開けなさい。
 ita	jpn_Hira	Chiunque venga, digli che non ci sono.	誰がきても、留守だといってくれ。
@@ -534,8 +534,8 @@ ita	jpn_Hira	Comincerò presentandomi.	まず私の自己紹介から始めま�
 ita	jpn_Hira	Compirò sedici anni il prossimo mese.	私は来月16歳になります。
 ita	jpn_Hira	Con chi parlo?	私は誰と話しているの？
 ita	jpn_Hira	Concordo con la proposta.	僕はその提案に同意した。
-ita	jpn_Hira	Congratulazioni!	おめでとうございます。
 ita	jpn_Hira	Congratulazioni per la promozione.	ご栄転おめでとうございます。
+ita	jpn_Hira	Congratulazioni!	おめでとうございます。
 ita	jpn_Hira	Con lo sviluppo della scienza, la vita diventa più confortevole.	科学の発達にともなって、生活が便利になる。
 ita	jpn_Hira	Conosci la mia età?	私の年がわかりますか。
 ita	jpn_Hira	Conosci quella bella ragazza?	あのきれいな女の子を知っていますか。
@@ -696,8 +696,8 @@ ita	jpn_Hira	Egli l'accusa di essere una bugiarda.	彼は嘘をついたと彼�
 ita	jpn_Hira	Egli passò il colloquio per quel lavoro, ma non lo ottenne.	彼はその就職の面接を受けたが就職できなかった。
 ita	jpn_Hira	È gradita una risposta al più presto possibile.	なるべく早くご返事いただければ幸いです。
 ita	jpn_Hira	Eh sì, Cathrine è una bella ragazza.	やっぱりカトリンは美少女なんですね。
-ita	jpn_Hira	È impossibile.	まさか！
 ita	jpn_Hira	È impossibile accostarsi a parlargli quando è arrabbiato!	怒っているときに彼に話し掛けるのは無理だ。
+ita	jpn_Hira	È impossibile.	まさか！
 ita	jpn_Hira	È interessante leggere libri.	本を読むことは面白い。
 ita	jpn_Hira	È inutile dirtelo, ma la ricerca è finita in un nulla di fatto.	言うまでもないことだが捜索は徒労に終わった。
 ita	jpn_Hira	È la prima volta che pesco un pesce così grande!	こんな大きな魚釣ったの初めてだよ。
@@ -759,10 +759,10 @@ ita	jpn_Hira	È stato visto entrare nella stanza.	彼は部屋に入るのを見
 ita	jpn_Hira	È successo qualcosa al suo orologio.	この時計はどうかしたようだ。
 ita	jpn_Hira	È terribilmente caldo oggi.	今日はいやに暑い。
 ita	jpn_Hira	È tornato a casa senza un saluto.	彼は何のあいさつもなしに帰ってしまった。
-ita	jpn_Hira	È troppo caro!	値段が高すぎる！
-ita	jpn_Hira	È troppo caro.	値段が高すぎる！
 ita	jpn_Hira	È troppo caro.	それは高すぎます。
 ita	jpn_Hira	È troppo caro.	それは高過ぎる。
+ita	jpn_Hira	È troppo caro!	値段が高すぎる！
+ita	jpn_Hira	È troppo caro.	値段が高すぎる！
 ita	jpn_Hira	È tutt'altro che perfetto.	彼は完全だなんてとんでもない。
 ita	jpn_Hira	È tutto quello che desidero.	それだけがわたしの望み。
 ita	jpn_Hira	È una bella giornata, vero? Che ne dici di fare una passeggiata?	よい天気ですね。散歩でもしたらどうですか。
@@ -905,8 +905,8 @@ ita	jpn_Hira	Ha perso la speranza.	彼は望みを捨てた。
 ita	jpn_Hira	Ha piovuto molto l'anno scorso.	去年は雨が多かった。
 ita	jpn_Hira	Ha più soldi di quanti gliene servano.	彼は必要以上もお金を持っている。
 ita	jpn_Hira	Ha preso due settimane di congedo ed è partita per la Cina.	彼女は２週間の休暇をとって中国に出かけた。
-ita	jpn_Hira	Ha proposto qualche soluzione?	彼は何らかの解決策を提案しましたか。
 ita	jpn_Hira	Ha proposto qualche soluzione?	彼は何か解決策を提案しましたか。
+ita	jpn_Hira	Ha proposto qualche soluzione?	彼は何らかの解決策を提案しましたか。
 ita	jpn_Hira	Ha raggiunto risultati positivi.	彼は良い行いを積極的にしている。
 ita	jpn_Hira	Ha risposto a tutte le domande in 10 minuti.	彼は１０分で全部の問いの答えを出した。
 ita	jpn_Hira	Ha sopportato fino all'ultimo.	彼女は最後まで耐えた。
@@ -1158,6 +1158,7 @@ ita	jpn_Hira	Io ho solo un desiderio.	私はただ１つの願いがある。
 ita	jpn_Hira	Io ho un po' di denaro.	お金を少し持っている。
 ita	jpn_Hira	Io ho un po' di soldi.	お金を少し持っている。
 ita	jpn_Hira	Io la amo.	彼女のことが好きだ。
+ita	jpn_Hira	Io la utilizzo.	私がそれを使います。
 ita	jpn_Hira	Io la utilizzo.	私はそれを使います。
 ita	jpn_Hira	Io mi diverto sempre quando vado a Boston.	ボストンに行くとき、いつも楽しいです。
 ita	jpn_Hira	Io mi sveglio alle 6.	僕は６時に起きるんだよ。
@@ -1381,7 +1382,9 @@ ita	jpn_Hira	Lei si è cucita la bocca.	彼女は口を堅く結んだ。
 ita	jpn_Hira	Lei sta arrossendo.	彼女は赤くなる。
 ita	jpn_Hira	Le loro idee ci sembrano del tutto estranee.	彼らの考えは私たちには全く異質のものであるように感じられる。
 ita	jpn_Hira	Le mele sono vendute a dozzine.	りんごは１ダース単位で売られている。
+ita	jpn_Hira	Le mie gambe sono deboli.	私の足が弱い。
 ita	jpn_Hira	Le mie gambe sono deboli.	私の足は弱い。
+ita	jpn_Hira	Le mie gambe sono deboli.	私は足が弱い。
 ita	jpn_Hira	Le mie scarpe nuove sono di cuoio.	私の新しい靴は革製です。
 ita	jpn_Hira	Le mie scarpe sono troppo piccole, ne ho bisogno di nuove.	靴が小さすぎるから新しいのを買う必要があるな。
 ita	jpn_Hira	Le nostre opinioni convergono.	意見が一致している。
@@ -1429,8 +1432,8 @@ ita	jpn_Hira	Lo scherzo è bello quando dura poco.	悪ふざけはほどほど�
 ita	jpn_Hira	Lo scorso anno ha piovuto molto.	去年は雨がたくさん降った。
 ita	jpn_Hira	Lo stadio era affollato.	スタジアムには大勢の人がいた。
 ita	jpn_Hira	Lo svedese è facile.	スウェーデン語なんて、楽勝！
-ita	jpn_Hira	Lo vedo raramente.	私はめったにそれを見ません。
 ita	jpn_Hira	Lo vedo raramente.	あまり見えない。
+ita	jpn_Hira	Lo vedo raramente.	私はめったにそれを見ません。
 ita	jpn_Hira	Lo vidi per caso in città.	たまたま私は町で彼と出会った。
 ita	jpn_Hira	Lui abita dall'altra parte del fiume.	彼は川の向こう側に住んでいる。
 ita	jpn_Hira	Lui chiedeva aiuto mentre correva.	彼は走りながら助けを呼んでいた。
@@ -1459,8 +1462,8 @@ ita	jpn_Hira	Lui ha le gambe lunghe.	彼の足は長い。
 ita	jpn_Hira	Lui ha messo un libro sul tavolo.	彼は本を机に置いていった。
 ita	jpn_Hira	Lui ha poggiato delicatamente una mano sulla sua spalla.	彼は彼女の肩にそっと手を置いた。
 ita	jpn_Hira	Lui ha prestato poca attenzione nel maneggiare la pistola.	彼はピストルの扱いに注意を欠いた。
-ita	jpn_Hira	Lui ha proposto qualche soluzione?	彼は何らかの解決策を提案しましたか。
 ita	jpn_Hira	Lui ha proposto qualche soluzione?	彼は何か解決策を提案しましたか。
+ita	jpn_Hira	Lui ha proposto qualche soluzione?	彼は何らかの解決策を提案しましたか。
 ita	jpn_Hira	Lui ha sprezzato il pericolo.	彼は危険を侮った。
 ita	jpn_Hira	Lui indossa dei guanti.	彼は手袋をはめている。
 ita	jpn_Hira	Lui, in questa città, è più ricco di chiunque altro.	彼はこの町では他の誰よりも金持ちだ。
@@ -1501,8 +1504,8 @@ ita	jpn_Hira	Ma sono pericolose per la salute queste cose?	それは健康に危
 ita	jpn_Hira	Mastica bene quando mangi.	もっとよく噛んで食べなさい。
 ita	jpn_Hira	Ma tu, non te la starai facendo sotto proprio adesso?	お前、まさか今さらびびってるんじゃないだろうな。
 ita	jpn_Hira	Meglio sarebbe stato se tu fossi venuto prima.	もっと早く来てくれたらよかったのに。
-ita	jpn_Hira	Me l'aspettavo!	待ってました！
 ita	jpn_Hira	Me l'aspettavo!	これを期待していたんだ！
+ita	jpn_Hira	Me l'aspettavo!	待ってました！
 ita	jpn_Hira	Mentre quel'auto andava dove io stavo andando, capii che stavamo andando esattamente nella stessa direzione.	その車は私が行こうとしているのとまさしく同じ方向に行くことがわかった。
 ita	jpn_Hira	Mentre sfogliava un manga rideva sotto i baffi.	彼は漫画を見てくすくす笑った。
 ita	jpn_Hira	Metta il bagaglio sulla bilancia per favore.	荷物をはかりの上にのせてください。
@@ -1605,8 +1608,8 @@ ita	jpn_Hira	Mi potresti ritelefonare più tardi, per favore?	また後でかけ
 ita	jpn_Hira	Mi puoi ritirare il bucato?	洗濯物畳んでくれる？
 ita	jpn_Hira	Mi rendo garante della sua sincerità.	彼が誠実なことは私が責任を持ちます。
 ita	jpn_Hira	Mi ricorderesti di impostare queste lettere?	これらの手紙を投函することを忘れていたら注意してくれませんか。
-ita	jpn_Hira	Mi riesce a chiamare un taxi?	タクシーを呼んでもらえませんか。
 ita	jpn_Hira	Mi riesce a chiamare un taxi?	タクシーを呼んでいただけませんか？
+ita	jpn_Hira	Mi riesce a chiamare un taxi?	タクシーを呼んでもらえませんか。
 ita	jpn_Hira	Mi scusi. Mi permetta di segnalare tre errori nel suddetto articolo.	失礼だが、上記の記事にある３つの誤りを指摘しておきたい。
 ita	jpn_Hira	Mi scusi, potrebbe indicarmi la strada per la stazione?	すみません、駅への道を教えていただけませんか？
 ita	jpn_Hira	Mi scusi se la interrompo.	お話中失礼します。
@@ -1764,6 +1767,7 @@ ita	jpn_Hira	Non ne posso più di questo tempo umido.	この雨天にはうん�
 ita	jpn_Hira	No, non mi chiamo Maria, mi chiamo Teresa.	いいえ。私の名前はマリアではなく、テレサです。
 ita	jpn_Hira	No, non sono adatto.	いや、私は相応しくありません。
 ita	jpn_Hira	No, non sono andata a Torino.	いいえ、私はトリノに行きませんでした。
+ita	jpn_Hira	No, non sono andata a Torino.	いいえ、私はトリノへ行きませんでした。
 ita	jpn_Hira	No, non voglio andare.	いえ、私は行きたくありません。
 ita	jpn_Hira	Nonostante Trang continui a dire di amarlo, Spenser non può fare a meno di aver paura che lei smetta di volergli bene.	トラングは愛していると言っているのにスペンサーは彼女 に愛されなくなるのではないかと心配で仕方がありません。
 ita	jpn_Hira	Non parla la mia lingua.	彼は私の言葉をしゃべらないのです。
@@ -1844,9 +1848,9 @@ ita	jpn_Hira	Non voglio andare se tu non vieni con me.	もし君が私と一緒�
 ita	jpn_Hira	Non voglio studiare oggi.	今日は勉強したくない。
 ita	jpn_Hira	Non vorresti provare dei raffinati momenti di assoluto benessere in un salone di bellezza?	エステサロンで優雅な至福のひとときを過ごしてみませんか？
 ita	jpn_Hira	Non vuol dire che il pericolo sia passato.	危険が去ったと言うことではない。
+ita	jpn_Hira	No problem.	お安い御用です。
 ita	jpn_Hira	No problem.	問題ないよ。
 ita	jpn_Hira	No problem.	大丈夫ですよ。
-ita	jpn_Hira	No problem.	お安い御用です。
 ita	jpn_Hira	Nulla è più importante dell'educazione.	教育ほど重要なものはない。
 ita	jpn_Hira	Nuotavo spesso in questo fiume quando ero giovane.	若い頃、よくこの川で泳いだものだった。
 ita	jpn_Hira	Odi lui?	彼のこと嫌いなの？
@@ -1965,8 +1969,8 @@ ita	jpn_Hira	Posso avere un po' d'acqua, per piacere?	お水をください。
 ita	jpn_Hira	"Posso essere in classe in tempo", pensò lui.	「時間通りに、教室にうまく行き着くことができる」と彼は思った。
 ita	jpn_Hira	Posso fare una domanda?	質問があるのですが。
 ita	jpn_Hira	Posso far qualcosa?	私にできる事が何かありますか？
-ita	jpn_Hira	Posso farti una domanda?	あなたに質問してもいい。
 ita	jpn_Hira	Posso farti una domanda?	１つ質問してもいいですか。
+ita	jpn_Hira	Posso farti una domanda?	あなたに質問してもいい。
 ita	jpn_Hira	Posso farti una domanda?	質問していい？
 ita	jpn_Hira	Posso incontrarti oggi?	今君に会いに行ってもいいですか。
 ita	jpn_Hira	Posso mangiarlo?	これを食べていいですか。
@@ -1988,9 +1992,9 @@ ita	jpn_Hira	Potresti stendere il bucato?	洗濯物干してくれる？
 ita	jpn_Hira	Potresti venire a prendermi in stazione?	駅に迎えに来てくれませんか。
 ita	jpn_Hira	Preferirei andarci in bicicletta piuttosto che a piedi.	私はむしろ歩くより、自転車に乗りたい。
 ita	jpn_Hira	Preferisci il caffè o il tè nero?	コーヒーと紅茶、どちらがいいですか。
-ita	jpn_Hira	Preferisco il caffè al tè.	私は紅茶よりコーヒーがいい。
-ita	jpn_Hira	Preferisco il caffè al tè.	私はお茶よりもコーヒーの方が好きだ。
 ita	jpn_Hira	Preferisco il caffè al tè.	お茶よりコーヒーが好きです。
+ita	jpn_Hira	Preferisco il caffè al tè.	私はお茶よりもコーヒーの方が好きだ。
+ita	jpn_Hira	Preferisco il caffè al tè.	私は紅茶よりコーヒーがいい。
 ita	jpn_Hira	Prego, si sieda.	お座りください。
 ita	jpn_Hira	Prendi l'ombrello, si prevede pioggia.	傘を持って行きなさい、予報は雨だから。
 ita	jpn_Hira	Prendi nota dei punti principali del discorso.	話の要点を書き留めなさい。
@@ -2233,8 +2237,8 @@ ita	jpn_Hira	Sei andato direttamente a casa dopo la scuola ieri?	あなたはき
 ita	jpn_Hira	Sei andato in gita scolastica vero? Com'è andata?	修学旅行行ったんだよね？どうだった？
 ita	jpn_Hira	Sei arrivata proprio quando uscivo.	あなたは私がいなくなったときに到着した。
 ita	jpn_Hira	Sei cambiato molto.	あなたはすっかり変わりましたね。
-ita	jpn_Hira	Sei davvero fastidiosa.	君は本当にうざいなあ。
 ita	jpn_Hira	Sei davvero fastidiosa.	あんたは本当にうるさいなあ。
+ita	jpn_Hira	Sei davvero fastidiosa.	君は本当にうざいなあ。
 ita	jpn_Hira	Sei davvero fastidioso.	君は本当にうざいなあ。
 ita	jpn_Hira	Sei debole.	君は弱。
 ita	jpn_Hira	Sei il mio tipo.	あなたは私の好みのタイプです。
@@ -2393,6 +2397,7 @@ ita	jpn_Hira	Sto andando a letto!	寝るぞ！
 ita	jpn_Hira	Sto aspettando nel posto sbagliato?	待ち合わせの場所間違えたかしら？
 ita	jpn_Hira	Sto aumentando di peso.	体重が増えています。
 ita	jpn_Hira	Sto bene, grazie. E tu?	元気です。ありがとう。あなたはどうですか。
+ita	jpn_Hira	Sto bene, grazie.	ありがとう。元気です。
 ita	jpn_Hira	Sto bene, grazie.	おかげさまで元気です。
 ita	jpn_Hira	Sto cercando dei libri per bambini.	子供向けの本を探しています。
 ita	jpn_Hira	Sto cercando un paio di jeans della mia taglia.	私に合うサイズのジーンズはありますか。
@@ -2561,8 +2566,8 @@ ita	jpn_Hira	Vedrò se sarà possibile fare qualche cosa per soddisfare i sui de
 ita	jpn_Hira	Venezia è sempre traboccante di turisti.	ヴェネツィアには観光客がいつも大勢ですね。
 ita	jpn_Hira	Venga ad aiutarmi.	助けに来てください。
 ita	jpn_Hira	Vengo dall'Italia e parlo italiano.	私はイタリア出身で、イタリア語を話します。
-ita	jpn_Hira	Venite con me?	一緒に来るの？
 ita	jpn_Hira	Venite con me?	一緒に来ますか？
+ita	jpn_Hira	Venite con me?	一緒に来るの？
 ita	jpn_Hira	Verrà di sicuro.	彼はきっと来る。
 ita	jpn_Hira	Verrai alla festa domani?	明日、パーティーに来ない？
 ita	jpn_Hira	Verrà in un momento.	彼はすぐ来ます。
@@ -2573,8 +2578,8 @@ ita	jpn_Hira	Vi devo confessare che russo.	いびきをかくことは認める�
 ita	jpn_Hira	Vidi una casa dal tetto rosso.	赤い屋根の家が見えました。
 ita	jpn_Hira	Viene dalla Francia.	彼はフランス人です。
 ita	jpn_Hira	Vieni alla festa?	パーティーに来ますか。
-ita	jpn_Hira	Vieni con me?	一緒に来るの？
 ita	jpn_Hira	Vieni con me?	一緒に来ますか？
+ita	jpn_Hira	Vieni con me?	一緒に来るの？
 ita	jpn_Hira	Vieni insieme a me.	私と一緒に来なさい。
 ita	jpn_Hira	Vieni quando ti pare.	いつでも好きなときにいらっしゃい。
 ita	jpn_Hira	Vincerà di sicuro.	彼はきっと勝つ。

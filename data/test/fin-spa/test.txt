@@ -81,6 +81,7 @@ fin	spa	Asuuko sisaresi siellä?	¿Tu hermana vive ahí?
 fin	spa	Asuvatko pingviinit arktisella alueella?	¿Viven pingüinos en el Ártico?
 fin	spa	Aura-auto ajoi äsken ohi kadulla.	La barredora acaba de pasar por la calle.
 fin	spa	Aurinko antaa valoa ja lämpöä.	El sol entrega luz y calor.
+fin	spa	Aurinko on tappava laser.	El sol es un láser mortal.
 fin	spa	Aurinko painui horisontin alle ja taivas hämärtyi.	El sol se hundió bajo el horizonte y se puso oscuro.
 fin	spa	Aurinko paistoi.	El sol brillaba.
 fin	spa	Autan sinua ilomielin.	Te ayudo con gusto.
@@ -117,6 +118,7 @@ fin	spa	Ei se minun syytäni ole!	¡No es culpa mía!
 fin	spa	Ei se ole viiniä vaan rypälemehua.	Eso no es vino, sino zumo de uva.
 fin	spa	Ei tule olemaan yhtään enempää oppitunteja.	No habrá más clases.
 fin	spa	Eksyimme sumussa.	Nos perdimos en la niebla.
+fin	spa	Eläköön Ukraina!	¡Viva Ucrania!
 fin	spa	Elämä on hassu juttu.	La vida es una cosa graciosa.
 fin	spa	Elämme kovia aikoja.	Son tiempos duros.
 fin	spa	Emme halua aiheuttaa hankaluuksia.	No queremos dar problemas.
@@ -265,6 +267,8 @@ fin	spa	Et voi elää vain rakkaudesta.	No puedes vivir solo de amor.
 fin	spa	Et voi kuvitella kuinka nöyryyttävää tämä on.	No te puedes imaginar lo humillante que es esto.
 fin	spa	Et voi sanoa "ei".	No puedes decir "no".
 fin	spa	Euroopan korkein vuori on Elbrus.	El monte más alto de Europa es el Elbrus.
+fin	spa	Eurooppaa ei ole.	Europa no existe.
+fin	spa	Eurooppaa ei ole olemassa.	Europa no existe.
 fin	spa	Festivaali onnistui hyvin.	El festival fue un gran éxito.
 fin	spa	Firenze on Italian kaunein kaupunki.	Florencia es la ciudad más bonita de Italia.
 fin	spa	Haava parantui.	La herida se curó.
@@ -309,6 +313,7 @@ fin	spa	Haluatko, että selvitän tätä asiaa?	¿Quieres que resuelva este asun
 fin	spa	Haluatko, että vakoilen Tomia puolestasi?	¿Quieres que espíe a Tom por ti?
 fin	spa	Haluatko jutella?	¿Quieres hablar?
 fin	spa	Haluatko kertoa minulle keitä he olivat?	¿Quieres decirme quiénes son ellos?
+fin	spa	Haluatko leikkii minun luottokortilla?	¿Quieres jugar con mi tarjeta de crédito?
 fin	spa	Haluatko todella kupin kahvia näin myöhään illalla?	¿De verdad quieres una taza de café tan tarde por la noche?
 fin	spa	Haluatko tosiaan lähettää Marille kukkia?	¿Realmente quieres enviarle flores a María?
 fin	spa	Haluatko tulla käymään kylässä töiden jälkeen?	¿Quieres pasar por acá después del trabajo?
@@ -524,6 +529,7 @@ fin	spa	Hän työskentelee joka päivä, paitsi sunnuntaisin.	Él trabaja todos 
 fin	spa	Hän vaikuttaa hyvältä ihmiseltä.	Parece buena persona.
 fin	spa	Hän valehtelee!	¡Está mintiendo!
 fin	spa	Hän valokuvaa mielellään.	Le gusta sacar fotos.
+fin	spa	Hän voi mennä kanssani.	Se puede ir conmigo.
 fin	spa	Hän yrittää tehdä itsemurhaa.	Está intentando suicidarse.
 fin	spa	Hän yritti.	Lo intentó.
 fin	spa	Hän yritti olla itkemättä.	Ella trató de no llorar.
@@ -732,6 +738,7 @@ fin	spa	Kello on varttia yli yhdeksän.	Son las nueve y cuarto.
 fin	spa	Kello on viisitoista yli yhdeksän.	Son las nueve y cuarto.
 fin	spa	Kemiallinen merkki H tarkoittaa vetyä.	El símbolo químico H designa al hidrógeno.
 fin	spa	Kenelle sinä puhuit?	¿Con quién hablabas?
+fin	spa	Kenenkään ei tule lähteä.	Que nadie se vaya.
 fin	spa	Kenen kanssa sinä puhuit?	¿Con quién estabas hablando?
 fin	spa	Kenen kanssa Tomi juttelee?	¿Con quién está hablando Tom?
 fin	spa	Kenen kirjoja nämä ovat?	¿De quién son estos libros?
@@ -839,6 +846,7 @@ fin	spa	Kun on tylsää, niin aika kuluu hitaasti.	Cuando te aburres, el tiempo 
 fin	spa	Kunpa minulla olisi paljon rahaa.	Ojalá tuviera mucho dinero.
 fin	spa	Kunpa olisin pidempi.	Ojalá fuera más alto.
 fin	spa	Kun Tom katsoi omenaa, jota oli syömässä, hän huomasi että oli syönyt puolen matoa.	Cuando Tom miró la manzana que se estaba comiendo se dio cuenta que se había comido medio gusano.
+fin	spa	Kuolema ei ole ratkaisu.	La muerte no es la solución.
 fin	spa	Kutsuitko hänet?	¿Le has invitado?
 fin	spa	Kuukausi on liian vähän aikaa.	Un mes es muy poco tiempo.
 fin	spa	Kuulimme kaukaisia laukauksia.	Escuchamos disparos a lo lejos.
@@ -877,6 +885,7 @@ fin	spa	Laiva on vielä näkyvissä.	El barco todavía se puede ver.
 fin	spa	Lakkaa välttelemästä minua.	Deja de evitarme.
 fin	spa	Lammas määkii.	El borrego bala.
 fin	spa	Lämpötila on kuusi astetta pakkasen puolella.	Hace seis grados bajo cero.
+fin	spa	Lapset haluaisivat tappaa kaikki muurahaiset!	¡A los niños les gustaría matar a todas las hormigas!
 fin	spa	Lapset pitävät puussa kiipeilystä.	A los niños les gusta trepar a los árboles.
 fin	spa	Lasku, kiitos.	La cuenta, por favor.
 fin	spa	Laulan.	Canto.
@@ -901,6 +910,7 @@ fin	spa	Lopetetaan tämä tähän.	Terminemos esto.
 fin	spa	Lopulta hän huomasi virheensä.	Por fin se dio cuenta de su error.
 fin	spa	Löysin lakkisi.	Encontré tu gorra.
 fin	spa	Luen raamattua ensimmäistä kertaa.	Estoy leyendo la Biblia por primera vez.
+fin	spa	Luen sanomalehden joka päivä.	Leo el periódico todos los días.
 fin	spa	Luen vitsejä melkein joka päivä.	Leo chistes todos los días.
 fin	spa	Lue se artikkeli!	¡Lea el artículo!
 fin	spa	Lukitsin itseni huoneeseeni.	Me encerré en mi cuarto.
@@ -921,6 +931,7 @@ fin	spa	Luuletko, että hän teki tuon virheen tahallaan?	¿Crees que cometió e
 fin	spa	Luulin sen olevan pilaa.	Pensé que era una broma.
 fin	spa	Lyhyet hiukset sopivat todella hänelle.	El cabello corto le viene muy bien.
 fin	spa	Maailmankaikkeuden laajeneminen kiihtyy.	La expansión del universo se está acelerando.
+fin	spa	Maailma on sairas.	El mundo está enfermo.
 fin	spa	Mää lasken kymppiin.	Contaré hasta diez.
 fin	spa	Maanjäristys voi sattua milloin tahansa.	Puede haber un terremoto en cualquier momento.
 fin	spa	Maanviljelyssä käytetään monia työkaluja.	En la labranza se utilizan múltiples aperos.
@@ -1173,6 +1184,7 @@ fin	spa	Minun isäni asuu ja tekee töitä Tokiossa.	Mi padre vive y trabaja en 
 fin	spa	Minun isäni kuoli keuhkosyöpään.	Mi padre murió de cáncer de pulmón.
 fin	spa	Minun isäni on terve.	Mi padre está sano.
 fin	spa	Minun keittiössäni on tulipalo.	Hay un incendio en mi cocina.
+fin	spa	Minun koirani on vihreä ja koko ajan puhuu filosofiasta.	Mi perro es verde y habla todo el rato de filosofía.
 fin	spa	Minun kotini lähellä on koulu.	Hay una escuela cerca de mi casa.
 fin	spa	Minun olisi pitänyt mennä eiliseen kokoukseen.	Debería haber ido a la reunión de ayer.
 fin	spa	Minun olisi pitänyt nukkua enemmän.	Debería haber dormido más.
@@ -1289,6 +1301,7 @@ fin	spa	Mun kurkku on kipee.	Me duele la garganta.
 fin	spa	Mun pitää näyttää sulle yks juttu.	Tengo que enseñaros algo.
 fin	spa	Mun tyttöystävä on näyttelijä.	Mi novia es actriz.
 fin	spa	Mun vaimo on kasvissyöjä.	Mi mujer es vegetariana.
+fin	spa	Muovia poltettaessa voi muodostua myrkyllisiä kaasuja.	Al quemar plástico, se pueden generar gases tóxicos.
 fin	spa	Murha on rikos ihmisyyttä kohtaan.	El asesinato es un crimen contra la humanidad.
 fin	spa	Museo ei ole auki sunnuntaisin.	El museo no abre los domingos.
 fin	spa	Museo on nyt kiinni.	Ahora el museo está cerrado.
@@ -1335,6 +1348,7 @@ fin	spa	Ne nussi koko yön.	Follaron toda la noche.
 fin	spa	Ne ovat huonoja uutisia.	Son malas noticias.
 fin	spa	Niin lyön kaksi kärpästä yhdellä iskulla.	Así mato dos pájaros de un tiro.
 fin	spa	Noin ei sanota enää.	Ya no se dice eso.
+fin	spa	No, kyllä, mutta itse asiassa ei.	Pues sí, pero en realidad no.
 fin	spa	"Nopea" on "hitaan" vastakohta.	"Rápido" es el contrario de "lento".
 fin	spa	Nouse ratsaille.	Súbete al caballo.
 fin	spa	Nousin sängystä, kun oli vielä pimeää.	Me levanté cuando todavía era de noche.
@@ -1514,6 +1528,7 @@ fin	spa	Onko jotakin mitä haluat sanoa?	¿Hay algo que quieras decir?
 fin	spa	Onko kellään teistä kynää?	¿Alguien tiene un lápiz?
 fin	spa	Onko laatikossa jotakin?	¿Hay algo en la caja?
 fin	spa	Onko lähettyvillä vessaa?	¿Hay un baño cerca?
+fin	spa	Onko majoneesi soitin?	¿La mayonesa es un instrumento?
 fin	spa	Onko minulle viestejä?	¿Hay mensajes para mí?
 fin	spa	Onko puutarhassa paljon kukkia?	¿Hay muchas flores en el jardín?
 fin	spa	Onko ranskan ääntäminen vaikeaa?	¿Es difícil la pronunciación del francés?
@@ -1541,6 +1556,7 @@ fin	spa	Onko teillä pöytää terassilla?	¿Tienen una mesa en el patio?
 fin	spa	Onko Tomi kuuluisa?	¿Tom es famoso?
 fin	spa	Onko Tomilla kissaa?	¿Tom tiene un gato?
 fin	spa	Onko turvallista uida tässä joessa?	¿Es seguro nadar en este río?
+fin	spa	Onko vielä jotain mitä haluaisit lisätä tähän asiaan?	¿Hay algo más que quieras añadir sobre este caso?
 fin	spa	On lähes mahdotonta tehdä näin.	Es casi imposible hacer eso.
 fin	spa	On laitonta kopioida kirjoista ilman kirjailijan lupaa.	Es ilegal copiar libros sin permiso del autor.
 fin	spa	On mahdollista että uhri on haavoittunut päähän.	Es posible que la víctima esté herida en la cabeza.
@@ -1584,6 +1600,7 @@ fin	spa	Osaisinpa puhua ranskaa.	Ojalá supiera hablar francés.
 fin	spa	Osaisinpa uida.	Ojalá pudiera nadar.
 fin	spa	Osaisinpa uida.	Ojalá supiera nadar.
 fin	spa	Osaisivatko kissat lentää jos niillä olisi siivet?	¿Sabrían los gatos cómo volar si tuvieran alas?
+fin	spa	Osta minulle kissa.	Cómprame un gato.
 fin	spa	Ostan sinulle uuden.	Yo te compro una nueva.
 fin	spa	Osta tai kuole!	¡Compra o muere!
 fin	spa	Ostin lipun.	Compré un boleto.
@@ -1621,6 +1638,7 @@ fin	spa	Pesäpallo lensi ikkunan läpi.	Una pelota de béisbol voló por la vent
 fin	spa	Pese kätesi vessassa käynnin jälkeen, kiitos.	Lávate las manos después de ir al baño, por favor.
 fin	spa	Pesethän kätesi WC:ssä käynnin jälkeen.	Lávate las manos después de ir al baño, por favor.
 fin	spa	Pesin ikkunat.	Lavé las ventanas.
+fin	spa	Peukalosta lähtien, sormet ovat nimeltään peukalo, etusormi, keskisormi, nimetön ja pikkurilli.	Comenzando por el pulgar, los dedos se llaman pulgar, índice, corazón, anular y meñique.
 fin	spa	Piano ja kitara ovat tavallisia säestysinstrumentteja.	El piano y la guitarra comúnmente son instrumentos de acompañamiento.
 fin	spa	Piano on kallis.	Un piano es caro.
 fin	spa	Pidä aina käsillä sangollinen vettä palon varalta.	Siempre mantén un balde de agua a mano, en caso de un incendio.
@@ -1653,6 +1671,7 @@ fin	spa	Pitele sitä molemmin käsin.	Sostenlo con ambas manos.
 fin	spa	Pitivätkö molemmat kypärää?	¿Ambos llevaban casco?
 fin	spa	Pitkä sota päättyi vuonna 1920.	La larga guerra terminó en el año 1920.
 fin	spa	Pitkät hameet ovat muodissa.	Las polleras largas están de moda.
+fin	spa	Planeettamme on sairas.	Nuestro planeta está enfermo.
 fin	spa	Pohjoisnavalla ei ole pingviinejä.	No hay pingüinos en el Polo Norte.
 fin	spa	Poikani osaa nyt laskea sataan.	Mi hijo puede contar hasta cien ahora.
 fin	spa	Poika oli niin väsynyt, ettei jaksanut ottaa enää askeltakaan.	El muchacho estaba tan cansado, que no podía dar un paso más.
@@ -1803,6 +1822,7 @@ fin	spa	Se on helppo nakki.	Está chupado.
 fin	spa	Se on kahdeksannessa kerroksessa.	Está en el octavo piso.
 fin	spa	Se on kaikkea muuta kuin mahdotonta.	Es todo menos imposible.
 fin	spa	Se on kala.	Es un pescado.
+fin	spa	Se on kirjoitettu pienillä kirjaimilla.	Está escrito en minúsculas.
 fin	spa	Se on laitonta!	¡Es ilegal!
 fin	spa	Se on lempituolini.	Esa es mi silla preferida.
 fin	spa	Se on liian kallis!	¡Es demasiado caro!
@@ -1997,6 +2017,7 @@ fin	spa	Taro kuoli kaksi vuotta sitten.	Taro murió dos años atrás.
 fin	spa	Tarviik sä viel mun apuu?	¿Todavía necesitas mi ayuda?
 fin	spa	Tarvitsemme lisää työntekijöitä.	Necesitamos más empleados.
 fin	spa	Tarvitsemme sinua.	Te necesitamos.
+fin	spa	Tarvitsen jonkin parannuskeinon särkyyn.	Me hace falta algún remedio para el dolor.
 fin	spa	Tarvitsen kartan.	Necesito un mapa.
 fin	spa	Tarvitsen monta kirjaa.	Necesito muchos libros.
 fin	spa	Tarvitsen neuvoja.	Yo necesito consejos.
@@ -2138,6 +2159,7 @@ fin	spa	Tomi halasi minua.	Tom me abrazó.
 fin	spa	Tomi halusi mennä Marin kanssa naimisiin.	Tom quería casarse con Mary.
 fin	spa	Tomi joi itsensä humalaan viime yönä.	Tom se emborrachó anoche.
 fin	spa	Tomi joi liikaa.	Tom bebió demasiado.
+fin	spa	Tomikaan ei puhu ranskaa.	Tom tampoco habla francés.
 fin	spa	Tomi käyttää usein mustaa hattua.	Tom lleva con frecuencia un sombrero negro.
 fin	spa	Tomi käyttäytyy vähän oudosti.	Tom se comporta un poco raro.
 fin	spa	Tomilla ei ole autoa.	Tom no tiene un auto.
@@ -2173,6 +2195,7 @@ fin	spa	Tomin lounas sisältää voileivän ja omenan.	El almuerzo de Tom incluy
 fin	spa	Tomin matkapuhelin soi.	Sonó el móvil de Tom.
 fin	spa	Tomin on vielä maksettava lasku.	Tom todavía tiene que pagar la cuenta.
 fin	spa	Tomin on yhä maalattava aita loppuun.	Tom aún debe terminar de pintar la cerca.
+fin	spa	Tomi nousi pyöränsä selkään.	Tom se montó en su bicicleta.
 fin	spa	Tomin pojan nimi on Joni.	El hijo de Tom se llama John.
 fin	spa	Tomin ruokavaliosta puuttuu proteiineja.	La dieta de Tom es escasa en proteínas.
 fin	spa	Tomin selitys oli liian monimutkainen.	La explicación de Tom era demasiado compleja.
@@ -2194,6 +2217,7 @@ fin	spa	Tomi on kristitty.	Tom es cristiano.
 fin	spa	Tomi on Marin takana.	Tom está detrás de Mary.
 fin	spa	Tomi on naimisissa.	Tom está casado.
 fin	spa	Tomi on nuori.	Tom es joven.
+fin	spa	Tomi on poikani ystävä.	Tom es el amigo de mi hijo.
 fin	spa	Tomi on sinun ystäväsi, eikö niin?	Tom es amigo tuyo, ¿verdad?
 fin	spa	Tomi on todella rikas.	Tom es muy rico.
 fin	spa	Tomi on vähän Maria pidempi.	Tom es un poco más alto que Mary.
@@ -2244,6 +2268,7 @@ fin	spa	Tom kunnioitti paljon Maryä.	Tom respetaba mucho a María.
 fin	spa	Tom kysyi minulta mitä minä luulin, että tapahtuu.	Tom me preguntó qué pensaba que iba a suceder.
 fin	spa	Tom laittoi TV:n päälle.	Tom encendió el televisor.
 fin	spa	Tom laittoi valot päälle.	Tom encendió la luz.
+fin	spa	Tommi ei pitänyt heistä.	A Tom no le gustaban.
 fin	spa	Tom näyttää sairaalta.	Tom parece enfermo.
 fin	spa	Tom näyttää siltä, että hän haluaa puhua kanssasi.	Parece que Tom quiere hablar contigo.
 fin	spa	Tom nukahtaa silloin tällöin tunnilla.	Tom a veces se queda dormido en clases.
@@ -2390,6 +2415,8 @@ fin	spa	Uiminen on terveellistä.	Nadar es saludable.
 fin	spa	Uin joessa.	Nadé en el río.
 fin	spa	Ulkona alkaa pimetä vähitellen.	Se está oscureciendo de poco a poco afuera.
 fin	spa	Ulos kaikki!	¡Todos afuera!
+fin	spa	Unissani minä olen vapaa.	En mis sueños, soy libre.
+fin	spa	Unissani osaan lentää.	Puedo volar en mis sueños.
 fin	spa	Unohda hänet!	Olvídalo.
 fin	spa	Unohdan aina ihmisten nimet.	Siempre me olvido del nombre de la gente.
 fin	spa	Unohdit jakaa X:llä tässä.	Olvidaste dividir por X aquí.

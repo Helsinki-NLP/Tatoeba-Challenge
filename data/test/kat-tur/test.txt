@@ -1,4 +1,5 @@
 kat	tur	აი ჩემი შანსი.	İşte benim şansım.
+kat	tur	ამ კონვერტზე მისამართი არ არის.	Bu zarfta adres yok.
 kat	tur	ამ ოთახში ვიღაც არის.	Bu odada birisi var.
 kat	tur	ამ წიგნმა ძალიან დამაინტერესა.	Bu kitabı çok ilginç buldum.
 kat	tur	არაფრის.	Bir şey değil.
@@ -7,21 +8,30 @@ kat	tur	არ ვიცოდი.	Bilmiyordum.
 kat	tur	ახლა თეატრში წასვლას ვაპირებ.	Şimdi tiyatroya gideceğim.
 kat	tur	ახლა მას არ ჭირდება ფული.	Şimdi ona para gerekmiyor.
 kat	tur	ახლა ძილს ვაპირებ.	Şimdi uyuyacağım.
+kat	tur	ბეისბოლის მატჩის საყურებლად წავედი.	Beyzbol maçı izlemeye gittim.
+kat	tur	გათხოვილებს უნდათ სახლი.	Evlenenler bir ev ister.
+kat	tur	გზა ყინულით იფარება.	Yol buzla kaplı.
 kat	tur	გიყვარდი?	Beni seviyor muydun?
 kat	tur	გუშინ იყო კვირა, შაბათი კი არა.	Dün cumartesi değil, pazardı.
+kat	tur	გწყურიათ.	Susayacaksınız.
 kat	tur	დღეში $500 ვხარჯავ.	Bir günde 500 dolar harcadım.
 kat	tur	ერდოღანი თურქეთის პრეზიდენტია.	Erdoğan, Türkiye'nin başkanıdır.
 kat	tur	ეს ადგილი ცნობილია თავისი ჩანჩქერებით.	Burası şelaleleriyle ünlüdür.
 kat	tur	ეს არ არის ჩემი გაზეთი.	Bu benim gazetem değil.
 kat	tur	ეს კომპიუტერი იაპონურია.	Bu bilgisayar Japon malı.
+kat	tur	ეს საჩივარია?	Bu bir şikayet midir?
 kat	tur	ეს ყველამ იცის.	Hiç kimse bilmiyor.
 kat	tur	ეს ჩემი გაზეთი არაა.	Bu benim gazetem değil.
+kat	tur	ექიმმა მითხრა, რომ მეტი ბოჭკოვანი ვჭამო.	Doktor bana daha fazla lif yememi söyledi.
 kat	tur	ეჭვი მეპარება.	Şüpheleniyorum.
 kat	tur	ვაშლი შევჭამე.	Bir elma yedim.
+kat	tur	ვენა ავსტრიის აღმოსავლეთშია.	Viyana, Avusturya'nın doğusundadır.
 kat	tur	ვეღარ ვცხოვრობ.	Artık yaşayamam.
 kat	tur	ვინ არის თქვენი საყვარელი თურქი მომღერალი?	En sevdiğiniz Türk şarkıcı kim?
 kat	tur	ვინმა გაარემონტებინა კომპიუტერი?	Bilgisayarı kim tamir ettirdi?
 kat	tur	ვკვდები.	Ölüyorum.
+kat	tur	ვფიქრობ არასწორ კითხვას სვამ.	Bence yanlış soruyu soruyorsun.
+kat	tur	ვფიქრობდი თომი ჩემი მეგობარია.	Tom'un arkadaşım olduğunu sanıyordum.
 kat	tur	ვწერ წერილს.	Mektup yazıyorum.
 kat	tur	ზურგი მტკივა.	Sırtım ağrıyor.
 kat	tur	ზღვაში ბევრი თევზია.	Denizde bir sürü balık var.
@@ -38,6 +48,7 @@ kat	tur	კახა სად იყო?	Kaha neredeydi?
 kat	tur	კეთილი იყოს შენი შინ დაბრუნება.	Eve hoş geldin.
 kat	tur	კენი თამაშობს ტენისს?	Ken tenis oynuyor mu?
 kat	tur	კოვზების მეშინია.	Kaşıktan korkarım.
+kat	tur	მათ თაგვი დაინახეს.	Onlar fare gördüler.
 kat	tur	მათ უარყეს ჩვენი მოწვევა.	O davetimizi reddetti.
 kat	tur	მან წერილი დაწერა.	O, mektubu yazdı.
 kat	tur	მას ძალიან უყვარს თავისი სკოლა.	O okulunu samimiyetle seviyor.
@@ -48,6 +59,8 @@ kat	tur	მე ვფიქრობ, რომ მე ვარ მთვრა
 kat	tur	მე ვწერ წერილს.	Mektup yazıyorum.
 kat	tur	მე ლაზი ვარ.	Ben Lazım.
 kat	tur	მე მიყვარს ისტორიის სწავლა.	Tarih çalışmayı severim.
+kat	tur	მე მიყვარს ჩემი ენა.	Dilimi seviyorum.
+kat	tur	მე მჭირდება ადვოკატი.	Avukata ihtiyacım var.
 kat	tur	მერიმ(Mary) უკვე დაიწყო.	Mary zaten başladı.
 kat	tur	მე სად ვარ?	Neredeyim?
 kat	tur	მეც ვარ მასწავლებელი.	Ben de öğretmenim.
@@ -59,12 +72,15 @@ kat	tur	მე წავალ თეატრში.	Tiyatroya gideceğim.
 kat	tur	მე წერილს ვწერ.	Mektup yazıyorum.
 kat	tur	მოვკვდები.	Öleceğim.
 kat	tur	მოწევა ბევრ ზიანს აყენებს.	Sigara içmek size çok fazla zarar verecektir.
+kat	tur	მსუბუქი ფაღარათადა ვარ.	Hafif ishalim var.
 kat	tur	მტრები ვართ.	Biz düşmanız.
 kat	tur	მცივა. შეიძლება ფანჯარა დავხურო?	Üşüdüm. Pencereyi kapatabilir miyim?
 kat	tur	ნამდვილად გიყვარდი?	Beni gerçekten seviyor muydun?
 kat	tur	ნება მიბოძეთ წარმოგიდგინოთ ჩემი თავი.	Kendimi tanıtabilir miyim?
 kat	tur	პლაჟში მზის აბაზანას ვიღებ.	Plajda güneşleniyorum.
+kat	tur	რაა ამ წინადადების წყარო?	Bu cümlenin kaynağı nedir?
 kat	tur	რა არასოდეს იცვლება?	Ne asla değişmez?
+kat	tur	რა არის ამ წინადადების წყარო?	Bu cümlenin kaynağı nedir?
 kat	tur	რა არის სიყვარული?	Aşk nedir?
 kat	tur	რა გინდა?	Ne istiyorsun?
 kat	tur	რა გინდა შენ?	Ne istiyorsun?
@@ -72,10 +88,13 @@ kat	tur	რა გინდოდა?	Ne istiyordun?
 kat	tur	რას აკეთებდი?	Ne yapıyordun?
 kat	tur	რას წერდი?	Ne yazıyordun?
 kat	tur	რას წერდით?	Ne yazıyordunuz?
+kat	tur	რატომ არ მპასუხობს?	Neden bana cevap vermiyor?
+kat	tur	რატომ არ ჭამ?	Niye yemiyorsun?
 kat	tur	რატომ გაიქცა?	Niye o uzağa koştu?
 kat	tur	რა უნდა გააკეთო?	Ne yapman gerekiyor?
 kat	tur	რა უნდა გააკეთოთ?	Ne yapmanız gerekiyor?
 kat	tur	რა ფერის იყო ჰენრი IV თეთრი ცხენი?	4. Henri'nin beyaz atı ne renkti?
+kat	tur	როგორ დავუჯერო?	Nasıl inanayım?
 kat	tur	სადაა პლაჟი?	Plaj nerede?
 kat	tur	სადაა სკოლა?	Okul nerede?
 kat	tur	სად არის პლაჟი?	Plaj nerede?
@@ -83,34 +102,45 @@ kat	tur	სად არის სკოლა?	Okul nerede?
 kat	tur	სად ვარ?	Neredeyim?
 kat	tur	სად წახვალ?	Nereye gideceksin?
 kat	tur	სად წახვალ შენ?	Nereye gideceksin?
+kat	tur	სამი სტუდენტია.	Sami üniversite öğrencisidir.
 kat	tur	სამი წლის წინ ვნახე.	Onu üç yıl önce gördüm.
 kat	tur	სერიალს ვუყურებდი.	Dizi izliyordum.
 kat	tur	სიკვდილს ვაპირებ.	Öleceğim.
 kat	tur	სოფელში ხუთი ძროხაა.	Köyde beş inek var.
+kat	tur	ტომმა თავშესაფარი მოითხოვა.	Tom iltica talebinde bulundu.
 kat	tur	ტომს მკურნალობდა საავადმყოფოში.	Tom hastanede tedavi edildi.
 kat	tur	ტუალეტი არის სუფთა.	Tuvalet temiz.
 kat	tur	ტყეში ბევრი ცხოველია.	Ormanda birçok hayvan var.
+kat	tur	ფაღარათადა ვარ.	İshalim.
 kat	tur	ფეხმძიმედ ვარ.	Ben hamileyim.
 kat	tur	ქართულად ლაპარაკობ?	Gürcüce konuşuyor musun?
 kat	tur	ქართული იცი?	Gürcüce biliyor musun?
+kat	tur	ქაღალდი არ გვაქვს.	Bizim kâğıdımız yok.
 kat	tur	ყველა ადამიანი ჰაერს სუნთქავს.	Bütün insanlar havayı solur.
 kat	tur	ყველა ადამიანი ჰაერს სუნთქავს.	Tüm insanlar havayı solur.
 kat	tur	ყველი მიყვარს.	Peyniri seviyorum.
 kat	tur	ყურძენი გაქვთ.	Senin bir üzümün var.
 kat	tur	ყურძენი გაქვს.	Senin bir üzümün var.
+kat	tur	შანა ბავშვს საჭმელს უმზადებს.	Şana çocuğa yemek hazırlıyor.
+kat	tur	შევასრულეთ ყველაფერი, რაც გვინდოდა.	İstediğimiz her şeyi başardık.
+kat	tur	შემიძლია შევხედო თქვენი კალათა?	Sepetinizin içine bakabilir miyim?
 kat	tur	შენ თურქი ხარ?	Sen Türk müsün?
 kat	tur	შენ რა გინდა?	Ne istiyorsun?
 kat	tur	შენ ყოველთვის მღერი.	Her zaman şarkı söylüyorsun.
 kat	tur	ჩაი და ყავა გეხმარება დღის დაწყებაში.	Çay ve kahve, güne başlamaya yardımcı olur.
 kat	tur	ჩემი პროფილის სურათი ლამაზია?	Profil resmim güzel mi?
+kat	tur	ჩემი სახელია დუშანა.	Benim ismim Dušana.
+kat	tur	ჩვენ კუკი ვიპოვეთ.	Cookie'yi bulduk.
 kat	tur	ჩურჩხელა ძალიან მიყვარს.	Cevizli sucuğu çok severim.
 kat	tur	ჩქარა მოვალ.	Hemen geleceğim.
 kat	tur	ცუდად ვგრძნობდი.	Kendimi kötü hissettim.
 kat	tur	ძალიან მიყვარდა.	Onu çok seviyordum.
+kat	tur	ძალიან მიყვარხარ.	seni çok seviyorum
 kat	tur	ძეხვი გემრიელია.	Sucuk lezzetlidir.
 kat	tur	ძირითადად ბიჭებს უყვართ კომპიუტერული(Computer) თამაშები.	Çoğu erkek çocuğu bilgisayar oyunlarını sever.
 kat	tur	წერილს ვწერ.	Mektup yazıyorum.
 kat	tur	წერილს ვწერდი.	Mektup yazıyordum.
 kat	tur	წერილს წერდი?	Mektup mu yazıyordun?
 kat	tur	წერილს წერს.	Mektup yazıyor.
+kat	tur	ხახვის ჭამა არ მიყვარს.	Soğan yemeyi sevmem.
 kat	tur	ხვალ ვერ მოვალ სკოლაში.	Yarın okula gelemeyeceğim.

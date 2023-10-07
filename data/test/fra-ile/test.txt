@@ -109,6 +109,7 @@ fra	ile_Latn	Il devait sauver la princesse.	Il devet salvar li princessa.
 fra	ile_Latn	Il est évident qu'elle n'aime pas son mari.	It es evident que ella ne ama su marito.
 fra	ile_Latn	Il est fort.	Il es fort.
 fra	ile_Latn	Il est fou.	Il es alienat.
+fra	ile_Latn	Il est laïc.	Il es seculari.
 fra	ile_Latn	Il est minuit.	It es minocte.
 fra	ile_Latn	Il est permis de fumer.	Fumar es permisset.
 fra	ile_Latn	Il fait froid aujourd'hui.	It es frigid hodie!
@@ -147,6 +148,7 @@ fra	ile_Latn	J'ai rencontré ton ami.	Yo ha incontrat tui amico.
 fra	ile_Latn	J'ai très soif.	Yo es tre setosi.
 fra	ile_Latn	J'attendrai pendant une semaine.	Yo va atender un semane.
 fra	ile_Latn	Jean voyage moins qu'Alice.	Jean viagea min quam Alice.
+fra	ile_Latn	Je chante mal.	Yo canta mal.
 fra	ile_Latn	Je cherche mon téléphone.	Yo sercha mi telefon.
 fra	ile_Latn	Je commençais à pleurer.	Yo comensat plorar.
 fra	ile_Latn	Je connais les deux filles.	Yo conosse ambi du puellas.
@@ -177,6 +179,7 @@ fra	ile_Latn	Je ne les comprends pas.	Yo ne comprende les.
 fra	ile_Latn	Je ne m'appelle pas Tom.	Mi nómine ne es Tom.
 fra	ile_Latn	Je ne me hais point.	Yo ne odia me self.
 fra	ile_Latn	Je ne mens pas.	Yo ne menti.
+fra	ile_Latn	Je n'en veux pas beaucoup.	Yo ne vole mult.
 fra	ile_Latn	Je ne peux pas l'expliquer.	Yo ne posse explicar it.
 fra	ile_Latn	Je ne rirai pas.	Yo ne va rider.
 fra	ile_Latn	Je ne sais pas quand.	Yo ne save quande.
@@ -235,6 +238,7 @@ fra	ile_Latn	Le garçon embrassa la fille.	Li garson besat li puella.
 fra	ile_Latn	Le livre est sur la table.	Li libre es sur li table.
 fra	ile_Latn	Le pays cessa d'exister.	Li land cessat exister.
 fra	ile_Latn	Le plastique c'est solide.	Plasto estas firma.
+fra	ile_Latn	Le poivre est noir et le sel est blanc.	Li pipre es nigri e li sale es blanc.
 fra	ile_Latn	Le printemps est fini et l'été commence.	Li verne ha passat e li estive comensa.
 fra	ile_Latn	Le printemps vient après l'hiver.	Li verne veni pos li hiverne.
 fra	ile_Latn	Les éléphants mangent de l'herbe.	Li elefantes manja herbe.
@@ -246,8 +250,10 @@ fra	ile_Latn	Les règles sont très claires.	Li regules es tre clar.
 fra	ile_Latn	L'Estonie a son propre hymne.	Estonia have su propri himne.
 fra	ile_Latn	Les yeux sont la langue du cœur.	Li ocules es li lingue del cordie.
 fra	ile_Latn	L'été est la saison la plus chaude.	Li estive es li max calid seson.
+fra	ile_Latn	Libérez Hawaï !	Libera Hawaii!
 fra	ile_Latn	Libérez la Bolivie !	Libera Bolivia!
 fra	ile_Latn	Libérez la Palestine !	Libera Palestina!
+fra	ile_Latn	Libérez l'Écosse !	Libera Scotia!
 fra	ile_Latn	Lincoln était triste de ne pas avoir gagné.	Lincoln esset trist que il ne hat ganiat.
 fra	ile_Latn	L’Irlande est réputée pour sa dentelle.	Irland es famosi por su dentelle.
 fra	ile_Latn	L'Italie est une péninsule.	Italia es un peninsul.
@@ -378,6 +384,7 @@ fra	ile_Latn	Tu peux faire ça.	Tu posse far to.
 fra	ile_Latn	Tu sens terriblement mauvais.	Tu odora terribil.
 fra	ile_Latn	Tu vis à Modène.	Tu habita in Modena.
 fra	ile_Latn	Un accident est arrivé.	Un accidente ha evenit.
+fra	ile_Latn	Un autre monde est-il possible ?	Esque un altri munde es possibil?
 fra	ile_Latn	Un beau costume.	Un bell costume.
 fra	ile_Latn	Un enfant n'est pas un homme mûr.	Un infante ne es un matur hom.
 fra	ile_Latn	Un garçon est un enfant masculin.	Un púer es un masculin infante.

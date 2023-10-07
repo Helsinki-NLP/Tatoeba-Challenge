@@ -43,8 +43,10 @@ pol	ukr	Biegasz codziennie?	Ти бігаєш щодня?
 pol	ukr	Biegnie.	Він біжить.
 pol	ukr	Biegnie.	Вона біжить.
 pol	ukr	Biegnij tak szybko jak możesz.	Біжи якомога швидше.
+pol	ukr	Bilet, który kupiłaś, nie może być wykorzystany w godzinach szczytu.	Квиток, який ти купила, не може бути використаний в годину пік.
 pol	ukr	Bill był w Japonii.	Біл був у Японії.
 pol	ukr	Bill Gates jest założycielem Microsoftu.	Білл Гейтс - засновник Майкрософт.
+pol	ukr	Biorę te leki od wielu lat.	Я приймаю ці ліки багато років.
 pol	ukr	Biorę witaminy.	Я приймаю вітаміни.
 pol	ukr	Błyskawica poprzedza grom.	Блискавка передує грому.
 pol	ukr	Bob był bardzo szczęśliwy.	Боб був дуже щасливий.
@@ -53,8 +55,12 @@ pol	ukr	Bob z przyjemnością obserwuje owady.	Боб отримує задов�
 pol	ukr	Bóg stworzył świat w sześć dni.	Бог створив світ за шість днів.
 pol	ukr	Boję się trzęsień ziemi.	Я боюся землетрусів.
 pol	ukr	Boli cię głowa?	У тебе болить голова?
+pol	ukr	Boli, kiedy dotykam.	Болить, коли торкаюся.
 pol	ukr	Boli mnie brzuch.	У мене болить шлунок.
+pol	ukr	Boli mnie serce.	У мене болить серце.
+pol	ukr	Boli mnie tutaj.	Мені боляче тут.
 pol	ukr	Boli mnie ząb.	У мене болить зуб.
+pol	ukr	Ból przychodzi i odchodzi.	Біль приходить і уходить.
 pol	ukr	Boże chroń Ukrainę!	Боже, храни Україну!
 pol	ukr	Boże, usłysz mnie!	Боже, почуй мене!
 pol	ukr	Być albo nie być, oto jest pytanie.	Бути чи не бути — ось в чому питання.
@@ -84,6 +90,7 @@ pol	ukr	Chcę być niezależna.	Я хочу бути незалежною.
 pol	ukr	Chcę być niezależny.	Я хочу бути незалежним.
 pol	ukr	Chcę coś zjeść.	Я хочу щось з'ïсти.
 pol	ukr	Chcę dobry słownik.	Я хочу хороший словник.
+pol	ukr	Chcemy dotrzeć do granicy.	Ми хочемо дістатися до кордону.
 pol	ukr	Chcesz, abym z Tobą poszedł?	Хочеш я піду з тобою?
 pol	ukr	Chcesz być znowu w mojej drużynie?	Хочеш бути знову в моїй команді?
 pol	ukr	Chcesz coś do picia?	Хочеш щось випити?
@@ -94,7 +101,9 @@ pol	ukr	Chcesz, żebym ci pomógł?	Хочеш, щоб я тобі допомі�
 pol	ukr	Chcę tu być, kiedy Tom się obudzi.	Я хочу бути тут, коли Том прокинеться.
 pol	ukr	Chcę wiedzieć, co dokładnie zrobiłeś.	Я хочу знати, що саме ти зробив.
 pol	ukr	Chcę żyć.	Хочу жити.
+pol	ukr	Chciałabym, by zbadała mnie kobieta.	Я б хотіла, щоб мене оглянула жінка.
 pol	ukr	Chciałbym być młodszy.	Хотів би я бути молодшим.
+pol	ukr	Chciałbym, by zbadał mnie mężczyzna.	Я б хотів, щоб мене оглянув чоловік.
 pol	ukr	Chciałbym ci przedstawić pana Browna.	Я хотів би представити тобі пана Брауна.
 pol	ukr	Chciałbym dołączyć do waszej grupy.	Я б хотів долучитися до вашої групи.
 pol	ukr	Chciałbym filiżankę kawy.	Я би хотів чашечку кави.
@@ -120,6 +129,7 @@ pol	ukr	Chodźmy!	Ходімо!
 pol	ukr	Cholera! Nie jest źle!	Чорт забирай! Це непогано!
 pol	ukr	Ciągle bolą mnie plecy.	У мене все ще болить спина.
 pol	ukr	Ciekawe co się stało.	Цікаво, що сталося.
+pol	ukr	Cierpisz na choroby, które wymagają podawania leków?	Ти страждаєш захворюваннями, що вимагають прийому ліків?
 pol	ukr	Cieszę się, że ci się podoba.	Я радий, що тобі це сподобалося.
 pol	ukr	Cieszę się, że właśnie tak to się skończyło.	Я радий, що все скінчилося саме так.
 pol	ukr	Ciężarówka ostro skręciła w lewo.	Вантажівка різко повернула наліво.
@@ -232,6 +242,9 @@ pol	ukr	Czyj to jest zegarek?	Чий це годинник?
 pol	ukr	Czy już skończyłeś śniadanie?	Ти вже доїв сніданок?
 pol	ukr	Czy już skończyłeś?	Ти вже скінчив?
 pol	ukr	Czy już zdecydowałeś, kogo zaprosisz na imprezę?	Ти вже вирішив, кого запросити на вечірку?
+pol	ukr	Czy koronawirus jest niebezpieczny dla dzieci?	Короновірус є небезпечним для дітей?
+pol	ukr	Czy koronawirus jest niebezpieczny dla dzieci?	Короновірус небезпечний для дітей?
+pol	ukr	Czy koronawirus jest niebezpieczny dla dzieci?	Чи небезпечний коронавірус для дітей?
 pol	ukr	Czy ktoś wie, dlaczego Toma tutaj nie ma?	Хтось знає, чому Тому тут немає?
 pol	ukr	Czy ktoś zna nazwisko zmarłego?	Хто-небудь знає ім'я покійного?
 pol	ukr	Czy ktoś z was był na Hawajach?	Хтось з вас був на Гаваях?
@@ -248,7 +261,10 @@ pol	ukr	Czy masz dużo piór?	У тебе багато ручок?
 pol	ukr	Czy masz gorączkę?	У тебе температура?
 pol	ukr	Czy masz jakieś plany?	Щось плануєш?
 pol	ukr	Czy masz jeszcze jakieś pytania?	Ще маєш якісь питання?
+pol	ukr	Czy masz rodzinę lub przyjaciół, u których mógłbyś zostać?	У тебе є родина чи друзі, у яких ти міг би зупинитися?
+pol	ukr	Czy masz rodzinę lub przyjaciół, u których mógłbyś zostać?	У тебе є сім'я чи друзі, у яких ти міг би зупинитися?
 pol	ukr	Czy mogę pożyczyć twoje nożyczki?	Можна позичити твої ножиці?
+pol	ukr	Czy mogę prosić o maskę?	Можна мені маску, будь ласка?
 pol	ukr	Czy mogę rozmawiać z Billem?	Можна поговорити з Білом?
 pol	ukr	Czy mogę rozmawiać z panią Brown?	Чи я можу поговорити з пані Браун?
 pol	ukr	Czy mogę to przymierzyć?	Можна мені це поміряти?
@@ -276,8 +292,10 @@ pol	ukr	Czy Pan Nakamura jest w domu?	Чи пан Накамура вдома?
 pol	ukr	Czy pokój ma klimatyzację?	У кімнаті є кондиціонер?
 pol	ukr	Czy potrafisz kierować autem?	Ти вмієш водити машину?
 pol	ukr	Czy regularnie czytasz biblię?	Ти регулярно читаєш Біблію?
+pol	ukr	Czy rodzina lub znajomi przyjadą cię odebrać?	Чи сім'я або знайомі приїдуть тебе забрати?
 pol	ukr	Czytałam.	Я читала.
 pol	ukr	Czy to czyste złoto?	Це чисте золото?
+pol	ukr	Czy to jedzenie jest halal?	Чи ця їжа халяльна?
 pol	ukr	Czy to jego parasolka?	Це його парасолька?
 pol	ukr	Czy to jest bolesne?	Це болісно?
 pol	ukr	Czy to jest bolesne?	Це боляче?
@@ -323,6 +341,7 @@ pol	ukr	Dlaczego czekać na Święta?	Навіщо чекати Різдва?
 pol	ukr	Dlaczego ja?	Чому я?
 pol	ukr	Dlaczego jej nie powiedziałeś?	Чому ти не сказав їй?
 pol	ukr	Dlaczego jest Miss Włoch, a nie ma Mistera Włoch?	Чому є Міс Італія, і немає Містера Італія?
+pol	ukr	Dlaczego nie jesz?	Чому ти не їси?
 pol	ukr	Dlaczego nie powiedzieliście mi tego wcześniej?	Чому ви не сказали мені цього раніше?
 pol	ukr	Dlaczego nie wziąłeś mapy, jak wychodziłeś?	Чому не взяв карти, як виходив?
 pol	ukr	Dlaczego nie?	Чому б і ні?
@@ -344,6 +363,7 @@ pol	ukr	Dobra.	Гаразд.
 pol	ukr	Dobry wieczór, co słychać u pana?	Доброго вечора, як ваші справи?
 pol	ukr	Dobrze mówię po japońsku.	Я добре говорю японською.
 pol	ukr	Dobrze powiedziane!	Добре сказано!
+pol	ukr	Dobrze się bawiliśmy.	Ми добре побавилися.
 pol	ukr	Dobrze się pan czuje?	Ви добре себе почуваєте?
 pol	ukr	Dobrze, że jesteś.	Добре, що ти існуєш.
 pol	ukr	Dodaję zdania.	Я додаю речення.
@@ -371,6 +391,7 @@ pol	ukr	Dwie kobiety śpiewają.	Дві жінки співають.
 pol	ukr	Dwutlenek węgla sam w sobie nie jest trujący.	Двуокис вуглецю сам по собі не є отрутою.
 pol	ukr	Dyrektor naszej szkoły jest bardzo stary.	Директор нашої школи дуже старий.
 pol	ukr	Dzieci bawiły się w grupie.	Діти гралися гуртом.
+pol	ukr	Dzieci mają pierwszeństwo.	Діти мають пріоритет.
 pol	ukr	Dzieci wyglądają na zmęczone pływaniem.	Здається, діти втомилися від плавання.
 pol	ukr	Dziecko zostało nazwane John, po swym wujku.	Дитину назвали Джоном на честь його дядька.
 pol	ukr	Dzięki Bogu.	Слава богу.
@@ -392,9 +413,11 @@ pol	ukr	Dzisiaj jest specjalny dzień.	Сьогодні особливий де�
 pol	ukr	Dzisiaj mamy poniedziałek.	Сьогодні понеділок.
 pol	ukr	Dzisiaj - nie, a jutro - tak.	Сьогодні ні, а завтра - так.
 pol	ukr	Dzisiaj nie idę do szkoły.	Сьогодні я не йду до школи.
+pol	ukr	Dzisiaj nie ma chleba.	Сьогодні немає хліба.
 pol	ukr	Dzisiaj pada śnieg.	Сьогодні іде сніг.
 pol	ukr	Dzisiaj pada śnieg.	Сьогодні йде сніг.
 pol	ukr	Dziś idziemy tańczyć.	Сьогодні ми підемо танцювати.
+pol	ukr	Dziś jest najlepszy dzień w moim życiu.	Сьогодні найкращий день мого життя.
 pol	ukr	Dziś jest sobota.	Сьогодні субота.
 pol	ukr	Dziś mam dobry apetyt.	Сьогодні я маю добрий апетит.
 pol	ukr	Dziś są wybory w Polsce.	Сьогодні в Польщі вибори.
@@ -403,6 +426,7 @@ pol	ukr	Efekt nocebo jest przeciwieństwem efektu placebo.	Ефект ноцеб
 pol	ukr	Eksplozja zniszczyła wszystko.	Вибух знищив усе.
 pol	ukr	Film zaczął się o drugiej.	Фільм розпочався о другій.
 pol	ukr	Francuski nie jest moim ojczystym językiem.	Французька — не моя рідна мова.
+pol	ukr	Francuzi mówią bardzo szybko.	Французи дуже швидко розмовляють.
 pol	ukr	Fred zawsze kłamie.	Фред завжди говорить неправду.
 pol	ukr	Gardło mnie boli.	В мене болить горло.
 pol	ukr	Gdybym miał pieniądze, pojechałbym w podróż dookoła świata.	Якби я мав гроші, то поїхав би в навколосвітню подорож.
@@ -432,9 +456,12 @@ pol	ukr	Gdzie jest najbliższy kościół?	Де знаходиться найб�
 pol	ukr	Gdzie jest Polska?	Де Польша?
 pol	ukr	Gdzie jest stacja?	Де знаходиться станція?
 pol	ukr	Gdzie jest toaleta?	Де знаходиться туалет?
+pol	ukr	Gdzie jest wasza córka?	Де ваша донька?
 pol	ukr	Gdzie jest wejście do muzeum?	Де вхід до музею?
 pol	ukr	Gdzie kupiłaś kwiaty?	Де ти купила квіти?
 pol	ukr	Gdzie mieszka twoja babcia?	Де живе твоя бабуся?
+pol	ukr	Gdzie mogę się pomodlić?	Де я можу помолитися?
+pol	ukr	Gdzie mogę umyć ręce?	Де мені можна помити руки?
 pol	ukr	Gdzie o nas słyszałeś?	Де ти про нас почув?
 pol	ukr	Gdzie pan mieszka?	Де ви мешкаєте?
 pol	ukr	Gdzie są dziewczyny ?	Де дівчата?
@@ -442,6 +469,8 @@ pol	ukr	Gdzie się kierujesz?	Куди ти направляєшся?
 pol	ukr	Gdzie się urodziłeś?	Де ти народився?
 pol	ukr	Gdzie to się zdarzyło?	Де це трапилося?
 pol	ukr	Gdzie twój pies?	Де твій пес?
+pol	ukr	Geralt jest wiedźminem.	Ґеральт — відьмак.
+pol	ukr	Geralt to wiedźmin.	Ґеральт — відьмак.
 pol	ukr	Gol!	Гол!
 pol	ukr	Grałem w piłkę nożną.	Я грав в футбол.
 pol	ukr	Grałeś kiedyś w bejsbola?	Ти колись грав у бейсбол?
@@ -500,6 +529,8 @@ pol	ukr	Jak było?	Як це було?
 pol	ukr	Jak daleko jest do lotniska?	Як далеко до аеропорту?
 pol	ukr	Jak daleko jest na lotnisko?	Як далеко до аеропорту?
 pol	ukr	Jak daleko stąd do muzeum?	Як далеко звідси до музею?
+pol	ukr	Jak długo musimy tu czekać?	Скільки ми тут мусимо чекати?
+pol	ukr	Jak długo musimy tu czekać?	Як довго ми тут мусимо чекати?
 pol	ukr	Jak dużo monet mi dałeś?	Скільки монет ти мені дав?
 pol	ukr	Jak dziwnie!	Як дивно!
 pol	ukr	Jaki dziś jest dzień?	Який сьогодні день?
@@ -508,6 +539,8 @@ pol	ukr	Jakiego koloru jest ten kot?	Якого кольору цей кіт?
 pol	ukr	Jakie interesujące!	Як цікаво!
 pol	ukr	Jakie jest hasło do WIFI?	Який пароль до Wi-Fi?
 pol	ukr	Jakie jest twoje ulubione słowo?	Яке твоє улюблене слово?
+pol	ukr	Jakiej jesteś wiary?	Яка твоя релігія?
+pol	ukr	Jakiej jesteś wiary?	Якої ти дотримуєшся релігії?
 pol	ukr	Jakiej muzyki słucha Tom?	Яку музику слухає Том?
 pol	ukr	Jakieś pytania?	Які-небудь питання?
 pol	ukr	Jakie to szczęście, że pogoda jest tak piękna.	Як пощастило, що погода така гарна.
@@ -519,6 +552,7 @@ pol	ukr	Jakimi językami mówi się w Belgii?	Якими мовами розмо
 pol	ukr	Jaki rząd jest najlepszy? Ten, który uczy nas rządzić samym sobą.	Який уряд найкращий? Той, що вчить нас управляти самими собою.
 pol	ukr	Jak jest 'kot' po hiszpańsku?	Як сказати "кішка" іспанською?
 pol	ukr	Jak leci?	Як твої справи?
+pol	ukr	Jak ma na imię twoje dziecko?	Як звуть твою дитину?
 pol	ukr	Jak mi pan radzi, co mam powiedzieć?	Порадьте мені, що я маю сказати.
 pol	ukr	Jak mogłaś tego nie zauważyć?	Як ти могла цього не зауважити?
 pol	ukr	Jak mogłeś nie wiedzieć?	Як ти міг не знати?
@@ -526,6 +560,7 @@ pol	ukr	Jak nazywa się ta ryba po angielsku?	Як називається ця �
 pol	ukr	Jak nazywa się ta ryba po angielsku?	Як ця риба називається англіською?
 pol	ukr	Jak okropnie!	Як жахливо!
 pol	ukr	Jak poważny jest problem?	Наскільки проблема серйозна?
+pol	ukr	Jak przekonałeś Toma, by Ci pomógł?	Як ти переконав Тома, щоб він тобі допоміг?
 pol	ukr	Jak się czujesz?	Як почуваєшся?
 pol	ukr	Jak się masz?	Як справи?
 pol	ukr	Jak się miewa Mary?	Як Мері?
@@ -551,6 +586,7 @@ pol	ukr	Jeden język nigdy nie wystarcza.	Однієї мови ніколи н�
 pol	ukr	Jeden, trzy i pięć to liczby nieparzyste.	Один, три і п’ять — це непарні числа.
 pol	ukr	Jeden za wszystkich, wszyscy za jednego - oto gra zespołowa.	Один за всіх, всі за одного — ось це і є командна гра.
 pol	ukr	Jedno z nas się myli.	Один з нас помилятися.
+pol	ukr	Jedzą i piją.	Вони їдять і п'ють.
 pol	ukr	Jedz i pij.	Їж та пий.
 pol	ukr	Jego córka wyrosła na piękną kobietę.	З його дочки виросла вродлива жінка.
 pol	ukr	Jego dom jest w pobliżu metra.	Його будинок знаходиться поруч із метро.
@@ -558,6 +594,7 @@ pol	ukr	Jego nowy film rozczarowuje.	Його новий фільм виклик
 pol	ukr	Jego ojciec je tam dwa razy w tygodniu.	Його батько їсть там двічі на тиждень.
 pol	ukr	Jego pomysły są zawsze praktyczne.	Його ідеї завжди практичні.
 pol	ukr	Jego samochód ma dwa lata.	Його машині два роки.
+pol	ukr	Jego słowa były puste.	Його слова були пусті.
 pol	ukr	Jego stara baba siedzi na progu, a przed babą — rozbite koryto.	Його стара баба сидить на порозі, а перед бабою - розбите корито.
 pol	ukr	Jego wpływ nadal jest silny.	Його вплив ще сильний.
 pol	ukr	Jego wykłady są potwornie nudne.	Його лекції надзвичайно нудні.
@@ -569,10 +606,14 @@ pol	ukr	Jem jabłka.	Я їм яблуко.
 pol	ukr	Jem śniadanie codziennie o siódmej.	Я снідаю кожного ранку о сьомій годині.
 pol	ukr	Jemy jabłka.	Ми їмо яблука.
 pol	ukr	Jesienią liście opadają.	Листя обпадає осінню.
+pol	ukr	Jeśli jesteś w niebezpieczeństwie, krzycz "POMOCY!".	Якщо ти в небезпеці, кричи "POMOCY!" ("ПОМОЦИ!", перекладається "допоможіть").
+pol	ukr	Jeśli ktoś jest natarczywy, wołaj o pomoc!	Якщо хтось настирливий, клич на допомогу!
+pol	ukr	Jeśli nie masz więcej pytań, idź tam.	Якщо в тебе більше немає питань, іди туди.
 pol	ukr	Jeśli nie rozumiesz znaczenia tego słowa, sprawdź w słowniku.	Якщо ти не розумієш значення цього слова, то подивися у словнику.
 pol	ukr	Jeśli rozumiesz, zrób to porządnie.	Якщо ти розумієш, зроби це належним чином.
 pol	ukr	Jeśli tak jest, to co robimy?	У такому випадку що ми повинні зробити?
 pol	ukr	Jest bardzo wysoki.	Він дуже високий.
+pol	ukr	Jest biedny jak mysz kościelna.	Він бідний як церковна миша.
 pol	ukr	Jest ci zimno?	Тобі холодно?
 pol	ukr	Jestem Anglikiem.	Я англійка.
 pol	ukr	Jestem bardzo głodny.	Я дуже голодний.
@@ -581,6 +622,7 @@ pol	ukr	Jestem bardzo zmęczona.	Я дуже втомилася.
 pol	ukr	Jestem Chińczykiem.	Я китаєць.
 pol	ukr	Jestem chłopakiem.	Я хлопець.
 pol	ukr	Jestem chory.	Я хворий.
+pol	ukr	Jestem chrześcijaninem.	Я християнин.
 pol	ukr	Jestem dobry w piłce nożnej.	Я добре граю в футбол.
 pol	ukr	Jestem dwa razy starszy od Toma.	Я вдвічі старший від Тома.
 pol	ukr	Jestem dziś zajęty.	Сьогодні я зайнятий.
@@ -607,6 +649,7 @@ pol	ukr	Jestem pewny, że ona niedługo wróci.	Я певен, що вона с�
 pol	ukr	Jestem pracownikiem socjalnym.	Я соціальний працівник.
 pol	ukr	Jestem prawie gotowy.	Я майже готовий.
 pol	ukr	Jestem praworęczny.	Я правша.
+pol	ukr	Jestem prawosławny.	Я православний.
 pol	ukr	Jestem równie wysoki jak Tom.	Я такий саме високий, як Том.
 pol	ukr	Jestem ślimakiem, a ślimaki nigdy się nie spieszą.	Я равлик, а равлики ніколи не поспішають.
 pol	ukr	Jestem słynnym aktorem.	Я відомий актор.
@@ -616,6 +659,7 @@ pol	ukr	Jestem stary.	Я старий.
 pol	ukr	Jestem szczęśliwa!	Я щаслива!
 pol	ukr	Jestem tu sam.	Я тут сам.
 pol	ukr	Jestem uczulona na kukurydzę.	В мене алергія на кукурудзу.
+pol	ukr	Jestem uczulony na orzechy.	У мене алергія на горіхи.
 pol	ukr	Jestem wyczerpany.	Я виснажений.
 pol	ukr	Jestem wyższy od niego.	Я вищий від нього.
 pol	ukr	Jestem zajęta.	Я зайнята.
@@ -628,23 +672,26 @@ pol	ukr	Jestem z Norwegii.	Я з Норвегії.
 pol	ukr	Jestem żonaty.	Я жонатий.
 pol	ukr	Jesteś bardzo piękna.	Ти дуже гарна.
 pol	ukr	Jesteś brzydka.	Ти потворна.
+pol	ukr	Jesteś chrześcijaninem?	Ти християнин?
 pol	ukr	Jesteś czarodziejem?	Ти чародій?
 pol	ukr	Jesteś dla mnie wszystkim.	Ти для мене - все.
 pol	ukr	Jesteś dobrą matką.	Ти добра мати.
 pol	ukr	Jesteś dziwny.	Ти дивний.
 pol	ukr	Jesteś geniuszem.	Ти геній.
 pol	ukr	Jesteś idiotą!	Ти ідіот.
+pol	ukr	Jesteś idiotką!	Ти ідіотка!
 pol	ukr	Jesteś jeszcze zielony.	Ти ще зелений.
 pol	ukr	Jesteś moim najlepszym przyjacielem.	Ти мій найкращий друг.
 pol	ukr	Jesteś moim natchnieniem.	Ти моє натхнення.
 pol	ukr	Jesteś moją przyjaciółką.	Ти моя подруга.
 pol	ukr	Jesteś mój.	Ти мій.
 pol	ukr	Jesteś molem książkowym.	Ти книжковий хробак.
+pol	ukr	Jesteś muzułmaninem?	Ти мусульманин?
 pol	ukr	Jesteśmy arabami.	Ми араби.
 pol	ukr	Jesteśmy bezpieczni?	Ми в безпеці?
 pol	ukr	Jesteśmy chłopakami.	Ми хлопчики.
-pol	ukr	Jesteśmy gotowi?	Ми готові?
 pol	ukr	Jesteśmy gotowi.	Ми готові.
+pol	ukr	Jesteśmy gotowi?	Ми готові?
 pol	ukr	Jesteśmy jego synami.	Ми його сини.
 pol	ukr	Jesteśmy mężczyznami.	Ми чоловіки.
 pol	ukr	Jesteśmy młodzi.	Ми юні.
@@ -673,6 +720,7 @@ pol	ukr	Jesteś wielką miłością mego życia.	Ти велика любов м
 pol	ukr	Jesteś zbyt młody na miłość.	Ти замолодий для кохання.
 pol	ukr	Jesteś ze mną, no nie?	Ти зі мною, так?
 pol	ukr	Jesteś zwolniony.	Тебе звільнено.
+pol	ukr	Jesteś żydem?	Ти єврей?
 pol	ukr	Jest młoda i zdrowa.	Вона молода та здорова.
 pol	ukr	Jest moim sąsiadem.	Він - мій сусід.
 pol	ukr	Jest najstarszym synem.	Він найстарший син.
@@ -692,6 +740,7 @@ pol	ukr	Jeźli kto nie chce robić, niechajże też nie je.	Якщо хто не
 pol	ukr	Językiem ojczystym Toma jest angielski.	Рідна мова Тома — англійська.
 pol	ukr	Je.	Вона їсть.
 pol	ukr	Jill to jedyna dziewczyna w naszym klubie.	Джил - єдина дівчина в нашому клубі.
+pol	ukr	Joe Biden to wiceprezydent Stanów Zjednoczonych.	Джо Байден — віцепрезидент Сполучених Штатів.
 pol	ukr	John jest mądrzejszy od Billa.	Джон розумніший, ніж Білл.
 pol	ukr	John nie wie co dalej robić.	Джон не знає, що робити далі.
 pol	ukr	Judy go lubi.	Він подобається Джуді.
@@ -709,6 +758,7 @@ pol	ukr	Już prawie trzecia.	Вже майже третя.
 pol	ukr	Już się nie boję.	Я більше не боюсь.
 pol	ukr	Już się zaczęło.	Вже почалося.
 pol	ukr	Kalifornia słynie ze swych owoców.	Каліфонія відома своїми фруктами.
+pol	ukr	Kaplica jest tam.	Каплиця там.
 pol	ukr	Karaluchy są insektami.	Таргани — комахи.
 pol	ukr	Kate zrobiła jabłecznik.	Кейт зробила яблучний пиріг.
 pol	ukr	Kawa i papierosy.	Кава та сигарети.
@@ -727,6 +777,8 @@ pol	ukr	Kiedy się obudziłem, padał śnieg.	Коли я прокинувся, 
 pol	ukr	Kiedy się zaczęło?	Коли це почалося?
 pol	ukr	Kiedy to się skończy?	Коли це закінчиться?
 pol	ukr	Kiedy umrę, na wysokiej Schowajcie mogile Mnie, wśrуd stepu szerokiego W Ukrainie miłej.	Як умру, то поховайте Мене на могилі, Серед степу широкого, На Вкраїні милій.
+pol	ukr	Kiedy urodziło się dziecko?	Коли дитина народилася?
+pol	ukr	Kiedy urodziło się dziecko?	Коли народилася дитина?
 pol	ukr	Kiedy zaczęło padać?	Коли почався дощ?
 pol	ukr	Kierowcy autobusów dziś strajkują.	Сьогодні страйкують водії автобусів.
 pol	ukr	Kim jest ta dziewczyna?	Хто ця дівчина?
@@ -754,9 +806,11 @@ pol	ukr	Kolekcjonuję komiksy.	Я збираю комікси.
 pol	ukr	Koło mojego domu jest park.	Біля мого дому є парк.
 pol	ukr	Komputer jest często porównywany do ludzkiego mózgu.	Комп'ютер часто порівнють з людським мозком.
 pol	ukr	Komputer się zepsuł.	Комп'ютер зламався.
+pol	ukr	Komunikacja miejska w Warszawie jest bezpłatna dla uciekających przed wojną obywateli Ukrainy, którzy przybyli do Polski 24 lutego 2022 roku lub później.	Міський транспорт у Варшаві безкоштовний для жителів України, що втікли від войни, які прибули до Польщі 24 лютого 2022 року, або пізніше.
 pol	ukr	Koń Napoleona był biały.	Кінь Наполена був білим.
 pol	ukr	Kop dalej.	Продовжуй копати.
 pol	ukr	Korporacja Toyota ogłosiła, że usunie 1000 pozycji tego roku.	Корпорація "Тойота" оголосила, що цього року скоротить1000 робочих місць.
+pol	ukr	Kościół jest tam.	Церква там.
 pol	ukr	Kot lubi ze mną spać.	Кіт любить зі мною спати.
 pol	ukr	Kot śpi na kanapie.	Кіт спить на дивані.
 pol	ukr	Kot to nie człowiek.	Кіт — не людина.
@@ -805,6 +859,7 @@ pol	ukr	Kurwa!	Курва!
 pol	ukr	Kwiaty są żółte.	Квіти жовті.
 pol	ukr	Ładnie pachnie.	Пахне добре.
 pol	ukr	Lato się skończyło.	Літо скінчилося.
+pol	ukr	Lekarz jest tam.	Лікар там.
 pol	ukr	Lepiej trzymać się od niego z daleka.	Ліпше триматися від нього подалі.
 pol	ukr	Lepiej zostań ze mną.	Краще залишся зі мною.
 pol	ukr	Lepszy wróbel w garści niż gołąb na dachu.	Краще синиця в жмені, ніж журавель в небі.
@@ -824,6 +879,7 @@ pol	ukr	Lubię pracować.	Я люблю працювати.
 pol	ukr	Lubię psy, a moja siostra koty.	Я люблю собак, моя сестра - котів.
 pol	ukr	Lubię robić zdjęcia.	Я люблю фотографувати.
 pol	ukr	Lubię się śmiać.	Мені подобається сміятися.
+pol	ukr	Lubię te jabłka.	Мені подобаються ці яблука.
 pol	ukr	Lubię tenisa i golfa.	Мені подобається теніс та гольф.
 pol	ukr	Lubimy czytać książki.	Нам подобається читати книжки.
 pol	ukr	Lubi polować.	Він любить полювати.
@@ -837,9 +893,13 @@ pol	ukr	Ludzie doceniają klarowność.	Люди цінують ясність.
 pol	ukr	Ma 30 metrów długości.	Є 30 метрів завдовжки.
 pol	ukr	Macie słonie afrykańskie?	У вас є африканські слони?
 pol	ukr	Ma dobry gust.	У неї добрий смак.
+pol	ukr	Małpy lubią banany.	Мавпи люблять банани.
 pol	ukr	Mama jest starsza od taty.	Мама старша за тата.
 pol	ukr	Mama kupiła żółty parasol mojemu młodszemu bratu.	Мама купила жовту парасольку моєму молодшему брату.
 pol	ukr	Mama piecze ciasto.	Мама пече пиріг.
+pol	ukr	Mam astmę.	У мене астма.
+pol	ukr	Mam białaczkę.	У мене лейкемія.
+pol	ukr	Mam białaczkę.	У мене лейкоз.
 pol	ukr	Mam biegunkę.	У мене діарея.
 pol	ukr	Mam coś dla ciebie.	Я маю дещо для тебе.
 pol	ukr	Mam coś dla ciebie.	Я щось для тебе маю.
@@ -850,12 +910,15 @@ pol	ukr	Mam dwie bratanice.	У мене дві племінниці.
 pol	ukr	Mam dwie czerwone rybki.	У мене є дві червоні рибки.
 pol	ukr	Mam dwie siostrzenice.	У мене дві племінниці.
 pol	ukr	Mam dziś kaca.	У мене сьогодні похмілля.
+pol	ukr	Mam gruźlicę.	В мене туберкульоз.
+pol	ukr	Mam HIV.	У мене ВІЛ.
 pol	ukr	Mam iść z tobą?	Я маю йти з тобою?
 pol	ukr	Mam kaszel.	У мене кашель.
 pol	ukr	Mam kasztanowe włosy.	У мене каштанове волосся.
 pol	ukr	Mam katar sienny.	У мене сінна гарячка.
 pol	ukr	Mam konia.	У мене є кінь.
 pol	ukr	Mam lepszy pomysł.	У мене є краща ідея.
+pol	ukr	Mam łuk, ale nie mam strzał.	У мене є лук, але немає стріл.
 pol	ukr	Mam mało pieniędzy przy sobie.	У мене з собою мало грошей.
 pol	ukr	Mam mało pieniędzy.	В мене небагато грошей.
 pol	ukr	Mam marzenie.	У мене є мрія.
@@ -863,6 +926,7 @@ pol	ukr	Mam nadzieję, że jesteś bezpieczna.	Сподіваюся, ти в б�
 pol	ukr	Mam nadzieję, że mogę liczyć na twoją dyskrecję.	Сподіваюся, що можу розраховувати на твою розсудливість.
 pol	ukr	Mam nadzieję, że się nie martwisz.	Сподіваюся, ти не боїшся.
 pol	ukr	Mam nadzieję, że się nie martwisz.	Сподіваюся, тобі не страшно.
+pol	ukr	Mam na imię Dušana.	Мене звати Душана.
 pol	ukr	Mam na imię Farszad.	Моє ім'я Фаршад.
 pol	ukr	Mam na imię Roberto.	Мене звуть Роберто.
 pol	ukr	Mam nowy samochód.	У мене є нова машина.
@@ -870,9 +934,11 @@ pol	ukr	Mamo, jestem głodny.	Мамо, я голодний.
 pol	ukr	Mam osiemnaście lat.	Мені вісімнадцять.
 pol	ukr	Mam osiemnaście lat.	Мені вісімнадцять років.
 pol	ukr	Mam ośmiu braci.	У мене вісім братів.
+pol	ukr	Mam padaczkę.	У мене епілепсія.
 pol	ukr	Mam pamięć złotej rybki.	У мене пам'ять, як у золотої рибки.
 pol	ukr	Mam pomysł.	У мене ідея.
 pol	ukr	Mam samochód.	У мене є машина.
+pol	ukr	Mam schizofrenię.	У мене шизофренія.
 pol	ukr	Mam sraczkę.	У мене пронос.
 pol	ukr	Mam trudności finansowe.	У мене фінансові ускладнення.
 pol	ukr	Mam trzy aparaty fotograficzne.	У мене є три фотоапарати.
@@ -894,6 +960,9 @@ pol	ukr	Mamy trzy godziny.	У нас три години.
 pol	ukr	Mamy wino.	Ми маємо вино.
 pol	ukr	Mam zielony samochód.	У мене зелена машина.
 pol	ukr	Ma pan ołówek?	Маєте олівець?
+pol	ukr	Ma pan trzy godziny.	Ви маєте три години.
+pol	ukr	Ma pan trzy godziny.	Маєте три години.
+pol	ukr	Ma pan trzy godziny.	У вас три години.
 pol	ukr	Ma psa.	У нього є собака.
 pol	ukr	Maria była wtedy dziewczyną Toma.	Мері тоді була дівчиною Тома.
 pol	ukr	Maria nam jutro pomoże.	Мері нам завтра допоможе.
@@ -917,20 +986,28 @@ pol	ukr	Masz oczy czerwone od płaczu.	Твої очі червоні від с�
 pol	ukr	Masz pecha.	Тобі не щастить.
 pol	ukr	Masz piękne włosy.	Маєш гарне волосся.
 pol	ukr	Masz rację.	Маєш рацію.
+pol	ukr	Masz rodzinę lub znajomych w Polsce?	Ти маєш родину або знайомих у Польщі?
 pol	ukr	Masz słownik angielski?	Маєш англійський словник?
 pol	ukr	Masz swój własny pokój?	В тебе є власна кімната?
+pol	ukr	Masz trzy godziny.	Маєш три години.
+pol	ukr	Masz trzy godziny.	Ти маєш три години.
+pol	ukr	Masz trzy godziny.	У тебе три години.
 pol	ukr	Masz trzy wiadomości.	У тебе три повідомлення.
 pol	ukr	Masz ubezpieczenie medyczne?	Ти маєш медичну страховку?
 pol	ukr	Masz wielu przyjaciół?	Маєш багато друзів?
 pol	ukr	Masz wszystko?	Чи ти маєш усе?
 pol	ukr	Ma zielone oczy.	В неї зелені очі.
+pol	ukr	Meczet jest tam.	Мечеть там.
 pol	ukr	Mężczyzna się zaśmiał.	Чоловік засміявся.
 pol	ukr	Miałem krew w moczu.	У мене в сечі була кров.
 pol	ukr	Miałem wątpliwości.	У мене були сумніви.
 pol	ukr	Miałem wątpliwości.	Я мав сумніви.
+pol	ukr	Miałem zawał serca.	У мене був інфаркт.
 pol	ukr	Miałeś sporo czasu.	В тебе було багато часу.
 pol	ukr	Miał przy sobie broń.	Він мав із собою зброю.
 pol	ukr	Miasto położone jest na zachód od Londynu.	Місто знаходиться західніше Лондона.
+pol	ukr	Miejscowa rodzina zaoferowała wam nocleg.	Місцева родина запропонувала вам нічліг.
+pol	ukr	Miejscowa rodzina zaoferowała wam nocleg.	Місцева сім'я запропонувала вам нічліг.
 pol	ukr	Mięli kilkoro dzieci.	Вони мали кількох дітей.
 pol	ukr	Mięso czy ryba?	М'ясо чи риба?
 pol	ukr	Mieszkałem w Bydgoszczy.	Я жив у Бидгощі.
@@ -954,6 +1031,7 @@ pol	ukr	Milego poranka!	Доброго ранку!
 pol	ukr	Miło mi cię poznać.	Приємно познайомитися.
 pol	ukr	Minęło pięć lat, a ja nadal to pamiętam.	Минуло вже п'ять років, а я все ще це пам'ятаю.
 pol	ukr	Mogę mówić wyłącznie za siebie.	Я можу говорити лише за себе.
+pol	ukr	Mogę pożyczyć na chwilę twój telefon?	Я можу позичити на хвильку твій телефон?
 pol	ukr	Mogę skorzystać z tego telefonu?	Можна я скористаюся цим телефоном?
 pol	ukr	Mogę tego dowieść.	Я можу це довести.
 pol	ukr	Mogę zadać pytanie?	Можу я поставити питання?
@@ -970,11 +1048,15 @@ pol	ukr	Moja siostra jest podobna do babci.	Моя сестра схожа на 
 pol	ukr	Moja siostra zrobi śniadanie.	Моя сестра приготує сніданок.
 pol	ukr	Moją ulubioną porą roku jest jesień.	Моя улюблена пора року — це осінь.
 pol	ukr	Moja żona jest wegetarianką.	Моя дружина - вегетаріанка.
+pol	ukr	Moja żona śpiewa w żeńskim chórze.	Моя дружина співає в жіночому хорі.
 pol	ukr	Mój brat mówi bardzo szybko.	Мій брат дуже швидко розмовляє.
 pol	ukr	Mój dziadek mówi bardzo wolno.	Мій дідусь дуже повільно розмовляє.
 pol	ukr	Mój dziadek mówi bardzo wolno.	Мій дідусь розмовляє дуже повільно.
 pol	ukr	Moje dochody są dwukrotnie wyższe od twoich.	Мої доходи вдвічі більші ніж твої.
 pol	ukr	Moje dzieci naprawdę lubią zwierzęta.	Мої діти дуже люблять тварин.
+pol	ukr	Moje dziecko jest głodne.	Моя дитина голодна.
+pol	ukr	Moje dziecko potrzebuje lekarza.	Моїй дитині потрібний лікар.
+pol	ukr	Moje dziecko się zgubiło.	Моя дитина загубилася.
 pol	ukr	Moje hobby to zbieranie starych zabawek.	Моє хоббі — колекціонування старих іграшок.
 pol	ukr	Moje mieszkanie jest niedaleko.	Моя квартира недалеко.
 pol	ukr	Moje mieszkanie ma duży salon.	У моїй квартирі велика вітальня.
@@ -1013,6 +1095,7 @@ pol	ukr	Mówiłem z entuzjazmem o naszym języku.	Я говорив з енту�
 pol	ukr	Mówiłeś coś?	Ти щось сказав?
 pol	ukr	Mówiłeś po niemiecku?	Ти розмовляв німецькою?
 pol	ukr	Mówi po angielsku bardzo głośno.	Він дуже гучно говорить англійською.
+pol	ukr	Mówisz po ukraińsku, czy po rosyjsku?	Ти розмовляєш українською чи російською?
 pol	ukr	Mówisz po włosku?	Ти говориш італійською?
 pol	ukr	Mów wyraźnie, aby każdy cię słyszał.	Говори чітко, щоб кожен чув.
 pol	ukr	Może mi pan podać sól?	Можете мені передати сіль?
@@ -1024,18 +1107,24 @@ pol	ukr	Możemy spróbować.	Ми можемо спробувати.
 pol	ukr	Może później.	Можливо, пізніше.
 pol	ukr	Może przypadkiem wiesz, gdzie ona mieszka?	Може ти знаєш, де вона живе?
 pol	ukr	Możesz iść albo zostać - jak wolisz.	Можеш іти або лишатися - як хочеш.
+pol	ukr	Możesz mi to zapisać?	Можеш мені це записати?
 pol	ukr	Możesz na mnie liczyć.	Ти можеш на мене розраховувати.
 pol	ukr	Możesz przestać.	Ти можеш припинити.
+pol	ukr	Możesz sprawdzić, czy można im zaufać?	Можеш дізнатися, чи можна їм довіряти?
 pol	ukr	Możesz to udowodnić?	Можеш це довести?
 pol	ukr	Może zmienić zdanie.	Він може змінити свою думку.
 pol	ukr	Możliwe.	Можливо.
+pol	ukr	Można zaufać tym ludziom?	Цим людям можна довіряти?
 pol	ukr	Można zobaczyć pański bilet?	Можна подивитися ваш квиток?
 pol	ukr	Musiałem iść do domu piechotą.	Я мусив йти додому пішки.
 pol	ukr	Musiałem popełnić błąd.	Я, мабуть, помилився.
 pol	ukr	Musiał opuścić wioskę.	Він мусив поїхати з села.
 pol	ukr	Musimy być ostrożni.	Ми повинні бути обережними.
 pol	ukr	Musimy porozmawiać.	Нам потрібно поговорити.
+pol	ukr	Musisz chwilę zaczekać.	Ти мусиш трошки зачекати.
+pol	ukr	Musisz poczekać.	Ти мусиш почекати.
 pol	ukr	Musisz więcej pracować.	Мусиш працювати більше.
+pol	ukr	Musisz zaczekać.	Мусиш зачекати.
 pol	ukr	Muszę chodzić do szkoły piechotą.	Я мушу ходити до школи пішки.
 pol	ukr	Muszę ci zadać głupie pytanie.	Мені потрібно поставити тобі дурне питання.
 pol	ukr	Muszę iść do toalety !	Мені треба в туалет!
@@ -1079,6 +1168,7 @@ pol	ukr	Najgorsze minęło.	Найгірше вже позаду.
 pol	ukr	Najgorsze za nami.	Найгірше вже позаду.
 pol	ukr	Najlepszą obroną jest atak.	Найкращий захист - напад.
 pol	ukr	Najlepszym sposobem, żeby zrealizować swoje sny jest obudzenie się.	Кращий спосіб реалізувати свої мрії - це прокинутися.
+pol	ukr	Najważniejsze informacje i numery telefonów znajdziesz na stronie www.ua.gov.pl.	Найважливішу інформацію та телефонні номери ти можеш знайти на сторінці www.ua.gov.pl.
 pol	ukr	Najwyraźniej Tom nie chciał iść na wesele Johna i Mary.	Том, очевидно, не хотів йти на весілля Мері та Джона.
 pol	ukr	Na kogo ty czekasz?	На кого ти чекаєш?
 pol	ukr	Nancy boi się psów.	Ненсі боїться собак.
@@ -1130,6 +1220,7 @@ pol	ukr	Nie chcę wyjść za mąż.	Я не хочу виходити заміж
 pol	ukr	Nie chciałem, by tak się stało.	Я не хотів, щоб так сталось.
 pol	ukr	Niedaleko pada jabłko od jabłoni.	Яблучко від яблуньки недалеко падає.
 pol	ukr	Niedaleko pada jabłko od jabłoni.	Яка яблунька, такі й яблучка.
+pol	ukr	Nie dawaj nikomu pieniędzy.	Не давай нікому грошей.
 pol	ukr	Niedawidzę cię.	Я тебе ненавиджу.
 pol	ukr	Niedługo wrócę.	Скоро повернуся.
 pol	ukr	Nie działa nasza lodówka.	Наш холодильник не працює.
@@ -1138,6 +1229,7 @@ pol	ukr	Nie hałasuj!	Не галасуй.
 pol	ukr	Nie interesuje mnie twoje zdanie.	Мене не цікавить твоя думка.
 pol	ukr	Nie interesuje się zbytnio bejsbolem.	Його не дуже цікавить бейсбол.
 pol	ukr	Nie jadłem obiadu.	Я не обідав.
+pol	ukr	Nie jem wieprzowiny.	Я не їм свинини.
 pol	ukr	Nie jestem bogaty i nie chcę takim być.	Я не багатий, і не хочу бути багатим.
 pol	ukr	Nie jestem dziś w formie.	Я сьогодні не в формі.
 pol	ukr	Nie jestem ekspertem.	Я не фахівець.
@@ -1145,6 +1237,7 @@ pol	ukr	Nie jestem głodny.	Я не голодний.
 pol	ukr	Nie jestem już dzieckiem.	Я вже не дитина.
 pol	ukr	Nie jestem nauczycielem.	Я не вчитель.
 pol	ukr	Nie jestem tak wysoki jak mój brat, ale wyższy od ojca.	Я не такий високий як мій брат, але вищий від мого батька.
+pol	ukr	Nie jestem uchodźcą.	Я не біженець.
 pol	ukr	Nie jestem uczniem.	Я не учень.
 pol	ukr	Nie jestem w ciąży.	Я не вагітна.
 pol	ukr	Nie jestem wiewiórką.	Я не білка.
@@ -1189,12 +1282,15 @@ pol	ukr	Nie mam samochodu.	Я не маю машини.
 pol	ukr	Nie mam siostry.	Я не маю сестри.
 pol	ukr	Nie mamy córki.	У нас немає доньки.
 pol	ukr	Nie mamy owiec.	Ми не маємо овець.
+pol	ukr	Nie mamy papieru.	Ми не маємо паперу.
+pol	ukr	Nie mamy papieru.	У нас немає паперу.
 pol	ukr	Nie ma na to czasu.	На це немає часу.
 pol	ukr	Nie ma nikogo w domu?	Нікого нема вдома?
 pol	ukr	Nie marnuj czasu Tom'a.	Не марнуй часу Тома.
 pol	ukr	Nie ma sensu winić się nawzajem, musimy znaleźć rozwiązanie.	Немає сенсу звинувачувати один одного, ми повинні знайти рішення.
 pol	ukr	Nie masz pojęcia, jak bardzo cię kocham.	Ти не уявляєш, як сильно я тебе кохаю.
 pol	ukr	Nie ma usprawiedliwienia dla jego zachowania.	Його поведінці немає виправдання.
+pol	ukr	Nie miałem szczepienia przypominającego przeciwko COVID.	Мені не зробили бустерного щеплення проти COVID.
 pol	ukr	Niemiecki przemysł samochodowy produkuje doskonałe pojazdy.	Німецька автомобільна промисловість виробляє відмінні машини.
 pol	ukr	Nie mieszka w mojej okolicy.	Він не живе в моєму районі.
 pol	ukr	Nie mogę ci nic dać.	Я не можу тобі нічого дати.
@@ -1205,6 +1301,8 @@ pol	ukr	Nie mogę sobie przypomnieć jego nazwiska.	Не можу згадати
 pol	ukr	Nie mogę!	Не можу!
 pol	ukr	Nie mój cyrk, nie moje małpy.	Це не моя проблема.
 pol	ukr	Nie mówię po francusku.	Я не вмію говорити французькою.
+pol	ukr	Nie mówię po polsku.	Я не розмовляю польською.
+pol	ukr	Nie mówię w twoim języku, odpowiadaj na pytania tylko „tak” lub „nie”.	Я не знаю твоєї мови, відповідай на питання лише «тай» або «ні».
 pol	ukr	Nie mówisz prawdy.	Ти не кажеш правди.
 pol	ukr	Nie możemy ich winić.	Ми не можемо їх звинувачувати.
 pol	ukr	Nie możemy spać z powodu hałasu.	Ми не можемо спати через галас.
@@ -1222,6 +1320,7 @@ pol	ukr	Nienawidzę tego koloru.	Я ненавиджу цей колір.
 pol	ukr	Nienawidzę wesel.	Ненавиджу весілля.
 pol	ukr	Nienawiść rodzi nienawiść.	Ненависть породжує ненависть.
 pol	ukr	Nie, nie śpiewam.	Ні, я не співаю.
+pol	ukr	Nie oddalajcie się od siebie.	Не відходьте один від одного.
 pol	ukr	Nie oglądam telewizji.	Я не дивлюся телевізор.
 pol	ukr	Nie. On nie lubi wody!	Ні. Йому не подобається вода!
 pol	ukr	Nie otwieraj okna.	Не відчиняй вікно.
@@ -1230,6 +1329,8 @@ pol	ukr	Nie piję dużo piwa.	Я не п'ю багато пива.
 pol	ukr	Nie piję kawy.	Я не п’ю кави.
 pol	ukr	Nie piję kawy.	Я не п'ю каву.
 pol	ukr	Nie piję wódki!	Я не п'ю горілку!
+pol	ukr	Nie pije w ogóle.	Він взагалі не п'є.
+pol	ukr	Nie pije w ogóle.	Вона взагалі не п'є.
 pol	ukr	Nie płacz, proszę.	Не плач, будь ласка.
 pol	ukr	Nie płacz, wszystko będzie dobrze.	Не плач, все буде добре.
 pol	ukr	Nie poddawaj się.	Не здавайся.
@@ -1247,6 +1348,8 @@ pol	ukr	Nie rozśmieszaj mnie.	Не сміши мене.
 pol	ukr	Nie rozumiem cię.	Я тебе не розумію.
 pol	ukr	Nie rozumiem, co masz na myśli.	Не розумію, що ти маєш на увазі.
 pol	ukr	Nie rozumiem, co mówisz.	Я не розумію, що ти кажеш.
+pol	ukr	Nie rozumiem po polsku.	Я не розумію польською.
+pol	ukr	Nie rozumiem po polsku.	Я не розумію польську.
 pol	ukr	Nie rozumiem.	Не розумію.
 pol	ukr	Nie sądzę, by Tom i Mary kiedykolwiek zostali przyjaciółmi.	Я не думаю, що Том і Мері коли-небудь стануть друзями.
 pol	ukr	Nie sądzę, że Tom i Mary kiedykolwiek zostaną przyjaciółmi.	Я не думаю, що Том і Мері коли-небудь стануть друзями.
@@ -1257,6 +1360,7 @@ pol	ukr	Nie słyszałaś, że cię wołałam?	Чи ти чув що я клич�
 pol	ukr	Nie spodziewałam się, że wrócisz tak szybko.	Я не сподівалася, що ти так швидко повернешся.
 pol	ukr	Nie sprzedam swojej duszy.	Я не продам свою душу.
 pol	ukr	Nie starcza mi pieniędzy.	Мені не висточає грошей.
+pol	ukr	Niestety nie mam doświadczenia.	На жаль, у мене немає досвіду.
 pol	ukr	Niestety, nie mam dziś czasu.	На жаль, не маю сьогодні часу.
 pol	ukr	Nie, Tom! To okropne.	Не треба, Томе! Це жахливо.
 pol	ukr	Nietoperze nie są ptakami lecz ssakami.	Кажани не птахи, а ссавці.
@@ -1269,6 +1373,8 @@ pol	ukr	Nie wiem, co zrobimy.	Я не знаю, що ми зробимо.
 pol	ukr	Nie wiem, czy nadal to mam.	Я не знаю, чи я все ще це маю.
 pol	ukr	Nie wiem czy się śmiać, czy płakać.	Я не знаю, мені сміятися чи плакати.
 pol	ukr	Nie wiem dokładnie kiedy będę z powrotem.	Я точно не знаю, коли повернуся.
+pol	ukr	Nie wiem, gdzie jest moja mama.	Я не знаю, де моя мама.
+pol	ukr	Nie wiem, gdzie jest mój tata.	Я не знаю, де мій тато.
 pol	ukr	Nie wiem, gdzie oni są.	Я не знаю, де вони.
 pol	ukr	Nie wiem jeszcze dokładnie.	Я ще точно не знаю.
 pol	ukr	Nie wiem jeszcze.	Я ще не знаю.
@@ -1278,9 +1384,11 @@ pol	ukr	Nie wierzę w Boga.	Я не вірю в бога.
 pol	ukr	Nie wierzę.	Не вірю.
 pol	ukr	Nie wiesz jak bardzo cię kocham.	Ти не знаєш, як сильно я тебе кохаю.
 pol	ukr	Nie wolno mu palić.	Йому не можна палити.
+pol	ukr	Nie wsiadaj do samochodu z nieznajomymi!	Не сідай до машини з незнайомцями!
 pol	ukr	Nie wstawaj.	Не вставай.
 pol	ukr	Nie wychodź na dwór po zmierzchu.	Не ходи надвір після заходу сонця.
 pol	ukr	Nie wydaje mi się, że on przyjdzie.	Я не думаю, що він прийде.
+pol	ukr	Nie wyjeżdżaj z Polski bez powiadamiania ambasady kraju, do którego się kierujesz.	Не виїжджай із Польщі, не повідомивши про це посольство країни, до якої ти прямуєш.
 pol	ukr	Nie wyrzucaj tego magazynu.	Не викидай цей журнал.
 pol	ukr	Nie zamknę się.	Я не замовкну.
 pol	ukr	Nie zapomnij o nas!	Не забувай про нас.
@@ -1313,6 +1421,7 @@ pol	ukr	Nikomu już nie ufam.	Я більше нікому не вірю.
 pol	ukr	Nikt mnie nie widział.	Мене ніхто не бачив.
 pol	ukr	Nikt nie chce być w pobliżu Toma.	Ніхто не хоче бути поблизу Тома.
 pol	ukr	Nikt nie jest idealny.	Ніхто не досконалий.
+pol	ukr	Nikt nie może uciec.	Ніхто не може втекти.
 pol	ukr	Nikt nie przyszedł mi pomóc.	Ніхто не прийшов мені на допомогу.
 pol	ukr	Nikt nie przyszedł mi z pomocą.	Ніхто не прийшов мені на допомогу.
 pol	ukr	Nikt nie przyszedł mi z pomocą.	Ніхто не прийшов, щоб мені допомогти.
@@ -1320,7 +1429,10 @@ pol	ukr	Nikt nie wie dlaczego.	Ніхто не знає чому.
 pol	ukr	No dawaj, powiedz mi.	Ну ж бо, розповідай мені.
 pol	ukr	Nosi okuary.	Він носить окуляри.
 pol	ukr	Nudzę się.	Мені нудно.
+pol	ukr	Numer Ambasady Ukrainy w Polsce to +48 (22) 629-34-46 lub (+48) 22 622 47 97.	Телефон посольства України в Польщі: +48 (22) 629-34-46 або (+48) 22 622 47 97.
+pol	ukr	Numer infolinii dla osób przekraczających granicę to +48 47 721 75 75.	Телефон інфолінії для осіб, що перетинають кордон: +48 47 721 75 75.
 pol	ukr	Numer mojego telefonu to 789.	Мій номер телефону — сімсот вісімдесят дев'ять.
+pol	ukr	Obawiam się, że pański plan nie zadziała.	Боюся, ваш план не спрацює.
 pol	ukr	Obie się mylicie.	Ви обидві помиляєтесь.
 pol	ukr	Obie wymowy są poprawne.	Обидві вимови правильні.
 pol	ukr	Objaśni mi pan drogę na stację metra?	Поясніть, будь ласка, як дійти до станції метро.
@@ -1337,6 +1449,8 @@ pol	ukr	Od rana przeczytałem trzy książki.	Я зранку прочитав �
 pol	ukr	Od razu rozpoznałem Twój głos.	Я відразу впізнав твій голос.
 pol	ukr	Odrobił swoją pracę domową.	Він зробив домашню роботу.
 pol	ukr	Odwiedzam moją babcię w szpitalu.	Я відвідую бабусю в лікарні.
+pol	ukr	Od wypadku nie lubię patrzeć w lustro.	Після аварії я не люблю дивитися у дзеркало.
+pol	ukr	Ojciec chce pisać.	Батько хоче писати.
 pol	ukr	Ojciec pojechał na ryby.	Батько поїхав на риболовлю.
 pol	ukr	Ojciec właśnie robi kolację w kuchni.	Тато готує вечерю на кухнi.
 pol	ukr	Ojciec wyszedł po pocztówki.	Мій батько вийшов, щоб придбати листівку.
@@ -1396,6 +1510,7 @@ pol	ukr	Ona otwiera okno.	Вона відкриває вікно.
 pol	ukr	Ona otwiera okno.	Вона відчиняє вікно.
 pol	ukr	Ona pierze sweter.	Вона пере светр.
 pol	ukr	Ona powiesiła kalendarz na ścianie.	Вона повісила календар на стіну.
+pol	ukr	Ona próbuje sprzedać swój stary samochód	Вона намагається продати свою стару машину.
 pol	ukr	Ona rozwiodła się ze swoim mężem.	Вона розлучилася з чоловіком.
 pol	ukr	Ona rysuje obraz.	Вона малює малюнок.
 pol	ukr	Ona rzadko wychodzi na dwór.	Вона рідко виходить надвір.
@@ -1433,6 +1548,7 @@ pol	ukr	Oni nas nie znają.	Вони не знають нас.
 pol	ukr	Oni nie wiedzą, że jestem Japończykiem.	Вони не знають, що я японець.
 pol	ukr	Oni nie wiedzą, że jestem Japonką.	Вони не знають, що я японка.
 pol	ukr	Oni są moimi kolegami z klasy.	Вони мої однокласники.
+pol	ukr	Oni są w muzeum.	Вони в музеї.
 pol	ukr	Oni są ze Szwecji.	Вони зі Швеції.
 pol	ukr	Oni sprzedają cukierki.	Вони продають цукерки.
 pol	ukr	Oni to przewidzieli.	Вони передбачили це.
@@ -1458,8 +1574,8 @@ pol	ukr	On jest tenisistą.	Він тенісист.
 pol	ukr	On jest trochę nieśmiały.	Він трохи несміливий.
 pol	ukr	On jest w Tokio.	Він у Токіо.
 pol	ukr	On jest wysoki i silny.	Він високий та сильний.
-pol	ukr	On jest zajęty?	Він зайнятий?
 pol	ukr	On jest zajęty.	Він зайнятий.
+pol	ukr	On jest zajęty?	Він зайнятий?
 pol	ukr	On jest zły na ciebie.	Він на тебе сердитий.
 pol	ukr	On jeździ bardzo szybko.	Він їздить дуже швидко.
 pol	ukr	On kocha jeździć na wycieczki.	Він обожнює подорожувати.
@@ -1560,11 +1676,13 @@ pol	ukr	Państwo są lekarzami.	Ви лікарі.
 pol	ukr	Pan wie, kim oni są?	Ви знаєте, хто вони?
 pol	ukr	Papier jest biały.	Папір білий.
 pol	ukr	Paryż jest stolicą Francji.	Париж - столиця Франції.
+pol	ukr	Patrz, co kot przywlókł!	Подивись, що приволік кіт!
 pol	ukr	Patrz jak ja to robię.	Дивись, як я це роблю.
 pol	ukr	Patrzył przez okno.	Він дивився з вікна.
 pol	ukr	Piątka!	Дай п'ять!
 pol	ukr	Pić mi się chce.	Я хочу пити.
 pol	ukr	Pieniądze to nie wszystko.	Гроші — це ще не все.
+pol	ukr	Pieprz czy sól?	Перець чи сіль?
 pol	ukr	Pierdol się.	Пішов в сраку!
 pol	ukr	Pies jest biały.	Пес білий.
 pol	ukr	Pies jest w domu.	Собака в будинку.
@@ -1579,6 +1697,7 @@ pol	ukr	Piłka nożna to mój ulubiony sport.	Футбол — мій улюбл
 pol	ukr	Piłka nożna to nie sport dla dziewczyn.	Футбол — спорт не для дівчат!
 pol	ukr	Piorę bluzę.	Я перу блузку.
 pol	ukr	Piotr interesuje się połką nożną.	Петро цікавиться футболом.
+pol	ukr	Piraci nigdy nie piją wody.	Пірати ніколи не п'ють воду.
 pol	ukr	Pisze do mnie czasem listy.	Він часом пише мені листи.
 pol	ukr	Piwo zawiera chmiel.	Пиво містить хміль.
 pol	ukr	Plan Toma podoba mi się bardziej niż Mary.	План Тома мені подобається більше, ніж план Мері.
@@ -1594,11 +1713,15 @@ pol	ukr	Pociąg nadjechał.	Потяг прибув.
 pol	ukr	Pociąg przyjechał punktualnie.	Потяг прибув за розкладом.
 pol	ukr	Po co mu dwa rowery?	Навіщо йому два велосипеди?
 pol	ukr	Poczekaj chwileczkę.	Почекай хвилинку.
+pol	ukr	Poczekaj tutaj. Przyniosę ci coś do jedzenia.	Почекай тут. Я тобі принесу щось поїсти.
+pol	ukr	Poczekaj w kolejce, proszę.	Почекай у черзі, будь ласка.
 pol	ukr	Poczekam kolejne pięć minut.	Я почекаю ще п'ять хвилин.
+pol	ukr	Poczekam tutaj z tobą, nie martw się.	Я почекаю тут з тобою, не хвилюйся.
 pol	ukr	Poczekam.	Я почекаю.
 pol	ukr	Poczułem nagły ból głowy.	Я відчув раптовий біль у голові.
 pol	ukr	Podasz mi sól?	Передаси мені сіль?
 pol	ukr	Podkręć muzykę głośniej!	Зроби музику гучніше!
+pol	ukr	Podobają mi się te jabłka.	Мені подобаються ці яблука.
 pol	ukr	Podoba mi się światło świeczek.	Мені подобається світло свічок.
 pol	ukr	Podoba mi się żółty kolor.	Мені подобається жовтий колір.
 pol	ukr	Po drodze ze szkoły złapał nas deszcz.	По дорозі зі школи нас захопив дощ.
@@ -1608,6 +1731,8 @@ pol	ukr	Pogrzeb jest jutro.	Похорон буде завтра.
 pol	ukr	Pójdziesz ze mną?	Підеш зі мною?
 pol	ukr	Pojecaliśmy do szkoły autobusem.	Ми поїхали до школи на автобусі.
 pol	ukr	Pojechała do Niemiec studiować medycynę.	Він поїхав до Німеччини, щоб вивчати медицину.
+pol	ukr	Pojedźcie z nimi.	Поїдьте з ними.
+pol	ukr	Pojedź z nimi.	Поїдь із ними.
 pol	ukr	Pokażę ci miasto.	Я покажу тобі місто.
 pol	ukr	Pokażesz mi, co kupiłeś?	Покажеш мені, що ти купив?
 pol	ukr	Pokaż mi, co masz w torbie.	Покажи мені, що у тебе в сумці.
@@ -1618,11 +1743,14 @@ pol	ukr	Policjant był pijany.	Поліцейський був п'яним.
 pol	ukr	Policjant przeszukał mu kieszenie, ale nic nie znalazł.	Поліцейський обшукав його кишені, але нічого не знайшов.
 pol	ukr	Polityka go nie interesuje.	Політика його не цікавить.
 pol	ukr	Pomagamy sobie wzajemnie.	Ми допомогаємо одне одному.
+pol	ukr	Pomagamy za darmo. Jeśli ktoś będzie chciał od ciebie pieniądze, jest oszustem.	Ми допомогаємо безкоштовно; якщо хтось хотітеме від тебе грошей, це шахрай.
 pol	ukr	Pomalował dom.	Він пофарбував будинок.
 pol	ukr	Pomidor jest owocem czy warzywem?	Помідор — це фрукт чи овоч?
 pol	ukr	Pomogłem wczoraj ojcu.	Вчора я допоміг своєму батькові.
 pol	ukr	Pomogłem wczoraj ojcu.	Я вчора допоміг батьку.
 pol	ukr	Pomogli nam.	Вони нам допомогли.
+pol	ukr	Pomożemy ci za darmo.	Ми вам допоможемо безкоштовно.
+pol	ukr	Pomożesz mi znaleźć moje dziecko?	Допоможеш мені знайти мою дитину?
 pol	ukr	Pomożesz mi z tym stołem?	Допоможеш мені з цим столом?
 pol	ukr	Pomożesz mi z tym stołem?	Можеш допомогти мені з цим столом?
 pol	ukr	Pomóż mi!	Допоможи мені!
@@ -1632,6 +1760,8 @@ pol	ukr	Popatrz na te wszystkie pieniądze.	Подивись на всі ці г
 pol	ukr	Popełniam zbyt wiele błędów.	Я роблю забагато помилок.
 pol	ukr	Po pierwsze, nie mamy teraz pieniędzy.	По-перше, ми не маємо зараз грошей.
 pol	ukr	Poprosiłem, by zamiótł podłogę.	Я попросив його підмести підлогу.
+pol	ukr	Poproszę bilet do Warszawy.	Квиток до Варшави, будь ласка.
+pol	ukr	Poproszę bilet do Warszawy.	Попрошу квиток до Варшави.
 pol	ukr	Poproszę mój klucz do pokoju.	Мій ключ від кімнати, будь ласка.
 pol	ukr	Poproszę szklankę wody gazowanej.	Склянку газованої води, будь ласка.
 pol	ukr	Poproszę zimną wodę.	Холодної води, будь ласка.
@@ -1652,15 +1782,21 @@ pol	ukr	Poszedłem do szpitala zobaczyć żonę.	Я пішов до лікарн
 pol	ukr	Po szkole już się nie uczę.	Після школи я не вчуся.
 pol	ukr	Poszła wczoraj do szpitala.	Вона вчора пішла до лікарні.
 pol	ukr	Potrzeba jest matką wynalazku.	Необхідність - мати винаходу.
+pol	ukr	Potrzebny jest jakikolwiek dokument potwierdzający tożsamość np. dowód osobisty, paszport, prawo jazdy czy akt urodzenia.	Потрібний будь-який документ, що підтверджує особистість, наприклад ай-ді картка, паспорт, водійські права або свідоцтво про народження.
+pol	ukr	Potrzebujecie samochodu.	Вам потрібна машина.
 pol	ukr	Potrzebuję dobrej rady.	Мені потрібна добра порада.
+pol	ukr	Potrzebuję insuliny.	Мені потрібен інсулін.
 pol	ukr	Potrzebujemy Ciebie.	Ти нам потрібна.
 pol	ukr	Potrzebujemy cię.	Ти нам потрібен.
 pol	ukr	Potrzebuję nowego komputera.	Мені потрібний новий комп'ютер.
 pol	ukr	Potrzebuję nowych butów.	Мені потрібні нові чоботи.
 pol	ukr	Potrzebuję nowych rękawiczek.	Мені потрібні нові рукавички.
+pol	ukr	Potrzebuje pan samochodu.	Вам потрібна машина.
+pol	ukr	Potrzebuję pieluch dla dziecka.	Мені потрібні пелюшки для дитини.
 pol	ukr	Potrzebuję pomocy.	Мені потрібна допомога.
 pol	ukr	Potrzebuję przyjaciół.	Мені потрібні друзі.
 pol	ukr	Potrzebujesz jedzenia?	Тобі потрібна їжа?
+pol	ukr	Potrzebujesz samochodu.	Тобі потрібна машина.
 pol	ukr	Potrzebuję wakacji!	Мені потрібна відпустка.
 pol	ukr	Potrzebuję więcej czasu.	Мені потрібно більше часу.
 pol	ukr	Powiedziała szefowi, o czym myśli.	Вона сказала начальнику те, про що думала.
@@ -1673,6 +1809,7 @@ pol	ukr	Powinniśmy byli przyjść wcześniej.	Ми мали би прийти �
 pol	ukr	Powody są nie jasne.	Причини неясні.
 pol	ukr	Powodzenia	Нехай щастить.
 pol	ukr	Po wyjściu z toalety myjmy ręce!	Миймо руки після туалету!
+pol	ukr	Pozdrów pająka.	Привітайся з павуком.
 pol	ukr	Pozmywałeś naczynia.	Ти мив посуд.
 pol	ukr	Poznałem ją we Francji.	Я познайомився з нею у Франції.
 pol	ukr	Późno już.	Вже пізно.
@@ -1690,6 +1827,7 @@ pol	ukr	Prawdopodobnie się mylisz.	Ти, мабуть, помиляєшся.
 pol	ukr	Prawie go nie rozumiałem.	Я його майже не розумів.
 pol	ukr	Prawie nikt jej nie uwierzył.	Майже ніхто їй не повірив.
 pol	ukr	Prawie nikt mu nie wierzył.	Майже ніхто йому не вірив.
+pol	ukr	Prawie umarłem.	Я мало не помер.
 pol	ukr	Prawo jest po mojej stronie.	Закон на моєму боці.
 pol	ukr	Precz!	Геть!
 pol	ukr	Próbuję zatrzymać się.	Я намагаюся зупинити себе.
@@ -1733,18 +1871,22 @@ pol	ukr	Przetłumaczyłaś wszystkie zdania.	Ти переклала всі ре
 pol	ukr	Przetłumaczysz mi to sprawozdanie na włoski?	Ти перекладеш мені цей звіт італійською?
 pol	ukr	Przeziębiłem się.	Я простудився.
 pol	ukr	Przygotowuję się na najgorsze.	Готуюся до найгіршого.
+pol	ukr	Przygotuj dowód tożsamości.	Приготуй посвідчення особи.
 pol	ukr	Przygotuj się.	Приготуйся.
 pol	ukr	Przyjdź szybko!	Йди швидко!
 pol	ukr	Przyjechał autobusem czy pociągiem?	Ти приїхав поїздом чи автобусом?
 pol	ukr	Przyjechał autobusem.	Він приїхав на автобусі.
 pol	ukr	Przyjechałem do Tokio dwa miesiące temu.	Я приїхав у Токіо два місяці тому.
 pol	ukr	Przyjmijmy, że był to komplement.	Будемо вважати це компліментом.
+pol	ukr	Przyjmuję tę propozycję.	Я приймаю цю пропозицію.
 pol	ukr	Przykro mi, że tak uważasz.	Мені прикро, що ти так вважаєш.
 pol	ukr	Przykro nam.	Нам шкода.
 pol	ukr	Przynieś mi dzisiejszą gazetę.	Принеси мені сьогоднішню газету.
 pol	ukr	Przyniosła mi filiżankę herbaty.	Вона принесла мені чашку чаю.
 pol	ukr	Przyśnij mi się dzisiaj w nocy.	Наснися мені цієї ночі.
 pol	ukr	Przytul mnie.	Обійми мене.
+pol	ukr	Przyznaję, że popełniłam błąd.	Визнаю, що зробила помилку.
+pol	ukr	Przyznaję, że popełniłam błąd.	Я визнаю, що помилилася.
 pol	ukr	Pszczoły robią miód.	Бджоли роблять мед.
 pol	ukr	Ptaki latają po niebie.	Птахи літають в небі.
 pol	ukr	Ptaki są naturalnymi wrogami owadów.	Птахи - природні вороги комах.
@@ -1760,8 +1902,10 @@ pol	ukr	Rośliny potrzebują światła słonecznego i wody.	Рослини по�
 pol	ukr	Rozmawiają przez telefon.	Вони говорять по телефону.
 pol	ukr	Rozmawiałem z przyjaciółmi.	Я розмовляв з друзями.
 pol	ukr	Rozumiem jak rozwiązać ten problem.	Я розумію, як вирішити цю проблему.
+pol	ukr	Rozumiem po polsku.	Я розумію польську.
 pol	ukr	Rozumiem twój język.	Я розумію твою мову.
 pol	ukr	Rozumiemy.	Ми розуміємо.
+pol	ukr	Rozumiesz po polsku?	Ти розумієш польську?
 pol	ukr	Rozwiodła się z mężem.	Вона розлучилася з чоловіком.
 pol	ukr	Rzucił kamień w jezioro.	Він кинув камінь в озеро.
 pol	ukr	Są dobrą parą.	Вони - гарна пара.
@@ -1771,6 +1915,7 @@ pol	ukr	Są naprawdę utalentowani.	Вони справді талановиті
 pol	ukr	Satelita jest na orbicie wokół Księżyca.	Супутник знаходиться на навколомісячній орбіті.
 pol	ukr	Sekretarka jest zmęczona pisaniem.	Секретарка втомилася друкувати.
 pol	ukr	Serdecznie witamy w projekcie Tatoeba!	Ласкаво просимо на проект Tatoeba!
+pol	ukr	Ser jest żółty.	Сир жовтий.
 pol	ukr	Serwus!	Привіт.
 pol	ukr	Siadaj!	Сідай.
 pol	ukr	Siedziała pod drzewem.	Вона сиділа під деревом.
@@ -1785,6 +1930,7 @@ pol	ukr	Smacznego!	Смачного.
 pol	ukr	Smacznego.	Смачного!
 pol	ukr	Śmiali się.	Вони сміялися.
 pol	ukr	Smith jest znakomitym skrzypkiem.	Сміт — видатний скрипаль.
+pol	ukr	Śniadanie, obiad czy kolacja?	Сніданок, обід чи вечеря?
 pol	ukr	Śnieg dzisiaj pada.	Сьогодні іде сніг.
 pol	ukr	Śnieg padał cztery dni.	Сніг йшов чотири дні.
 pol	ukr	Spadaj!	Іди геть!
@@ -1810,6 +1956,7 @@ pol	ukr	Sprzedaje owoce.	Він продає фрукти.
 pol	ukr	Sprzedaję samochody.	Я продаю машини.
 pol	ukr	Sprzedaję ubrania przez internet.	Я продаю одяг в Інтернеті.
 pol	ukr	Sprzedaję ubrania przez internet.	Я продаю одяг онлайн.
+pol	ukr	Stań w kolejce.	Стань у чергу.
 pol	ukr	Stan zdrowia Toma jest naprawdę dobry.	Стан здоров'я Тома наспраді добрий.
 pol	ukr	Staruszek lubi przesadzać.	Старий любить перебільшувати.
 pol	ukr	Stoję pod drzewem.	Я стою під деревом.
@@ -1822,6 +1969,7 @@ pol	ukr	Strusie nie umieją latać.	Страуси не вміють літат�
 pol	ukr	Świat jest niebezpieczny.	Світ небезпечний.
 pol	ukr	Świat jest pełen głupców.	У світі повно дурнів.
 pol	ukr	Światło samo zgasło.	Світло само погасло.
+pol	ukr	Synagoga jest tam.	Синагога там.
 pol	ukr	Szantażował mnie.	Він шантажував мене.
 pol	ukr	Szczęśliwego Międzynarodowego Dnia Kobiet.	З Міжнародним жіночим днем!
 pol	ukr	Szczęśliwej drogi.	Щасливої дороги.
@@ -1834,6 +1982,7 @@ pol	ukr	Szukasz czegoś?	Ти щось шукаєш?
 pol	ukr	Szwecja ma swój własny język.	Швеція має власну мову.
 pol	ukr	Ta droga prowadzi na lotnisko.	Ця дорога веде до аеропорту.
 pol	ukr	Ta encyklopedia należy do mojej żony.	Ця енциклопедія належить моїй жінці.
+pol	ukr	Tajfuny są bardzo niebezpieczne.	Тайфуни дуже небезпечні.
 pol	ukr	Tak, chętnie.	Так, охоче.
 pol	ukr	Tak, idę.	Так, іду.
 pol	ukr	Tak nie myślę.	Я так не думаю.
@@ -1843,7 +1992,14 @@ pol	ukr	Ta książka dobrze się sprzedawała w Japonii.	Ця книжка до�
 pol	ukr	Ta książka ma dużo obrazków.	Ця книжка має багато малюнків.
 pol	ukr	Ta książka ma dużo obrazków.	Ця книжка містить багато малюнків.
 pol	ukr	Tak, to mój słownik.	Так, це мій словник.
+pol	ukr	Tam dostaniesz ciepły posiłek.	Там три отримаєш гарячу їжу.
+pol	ukr	Tam jest kącik dla dzieci.	Там є куточок для дітей.
+pol	ukr	Tam jest sala, w której bawią się dzieci. Możesz zaprowadzić tam swoje dziecko.	Там є кімната, в якій граються діти. Можеш відвести свою дитину туди.
+pol	ukr	Tam możesz naładować telefon.	Там ти зможеш зарядити телефон.
+pol	ukr	Tam możesz się pomodlić.	Там ти можеш помолитися.
+pol	ukr	Tam są ciepłe ubrania.	Там є теплий одяг.
 pol	ukr	Tańczyli.	Вони танцювали.
+pol	ukr	Ta osoba ci pomoże.	Ця людина тобі допоможе.
 pol	ukr	Ta piękna dziewczyna to moja siostra.	Ця гарна дівчина — моя сестра.
 pol	ukr	Ta piosenka jest mi znana.	Ця пісня мені знайома.
 pol	ukr	Ta plaża to raj dla surferów.	Цей пляж — рай для серферів.
@@ -1851,6 +2007,7 @@ pol	ukr	Ta rzeka ma 500 mil długości.	Ця ріка 500 миль завдов�
 pol	ukr	Tata mnie zabije.	Тато мене вб'є.
 pol	ukr	Te fakty poznali wszyscy.	Про ці факти дізналися всі.
 pol	ukr	Tego lata udaje się do Ameryki.	Цього літа я їду до Америки.
+pol	ukr	Te jabłka mi się podobają.	Мені подобаються ці яблука.
 pol	ukr	Telefon nie działa.	Телефон не працює.
 pol	ukr	Telewizor się zepsuł.	Телевізор зіпсувався.
 pol	ukr	Ten człowiek sprzedał duszę diabłu.	Ця людина продала душу дияволу.
@@ -1880,6 +2037,7 @@ pol	ukr	Te słuchawki nie działają.	Ці навушники не працюю�
 pol	ukr	Te walizki są naprawdę ciężkie.	Ці валізи насправді важкі.
 pol	ukr	Też jestem nauczycielem.	Я теж учитель.
 pol	ukr	Też tak myślałam.	Я теж так думала.
+pol	ukr	Toaleta jest tam.	Туалет там.
 pol	ukr	To aparat fotograficzny mojej siostry.	Це фотоапарат моєї сестри.
 pol	ukr	To bardzo duże jabłka.	Це дуже великі яблука.
 pol	ukr	To bardzo prosty pomysł.	Це дуже проста ідея.
@@ -1921,6 +2079,8 @@ pol	ukr	To jest interesujące opowiadanie.	Це цікаве оповіданн�
 pol	ukr	To jest kłamstwo.	Це неправда.
 pol	ukr	To jest łatwe.	Це легко.
 pol	ukr	To jest mięso.	Це м'ясо.
+pol	ukr	To jest moja ciocia.	Це моя тітка.
+pol	ukr	To jest moja macocha.	Це моя мачуха.
 pol	ukr	To jest moje ulubione danie.	Це моя улюблена страва.
 pol	ukr	To jest mój rower.	Це мій велосипед.
 pol	ukr	To jest nasz dom.	Це наш будинок.
@@ -1961,6 +2121,7 @@ pol	ukr	Tom był w domu.	Том був удома.
 pol	ukr	Tom był żonaty z Mary.	Том був одружений на Мері.
 pol	ukr	Tom chce całusa.	Том хоче поцілунок.
 pol	ukr	Tom chętnie się zgodził.	Том з радістю погодився.
+pol	ukr	Tom, co się stało?	Томе, що сталося?
 pol	ukr	Tom czeka na ciebie.	Том чекає на тебе.
 pol	ukr	Tom, czemu cię tu nie ma?	Томе, чому тебе тут нема?
 pol	ukr	Tom często gubi klucze.	Том часто губить ключі.
@@ -2034,6 +2195,7 @@ pol	ukr	Tom miał wielu wrogów.	Том мав багато ворогів.
 pol	ukr	Tom miesza mąkę z cukrem.	Том змішує борошно з цукром.
 pol	ukr	Tom mieszka po sąsiedzku.	Том мешкає по сусідству.
 pol	ukr	Tom mieszka w Rzymie.	Том мешкає в Римі.
+pol	ukr	Tom mi nie pomoże.	Том мені не допоможе.
 pol	ukr	Tom mnie przekonał.	Том переконав мене.
 pol	ukr	Tom mówił przez cały czas.	Том увесь час розмовляв.
 pol	ukr	Tom mówił.	Том говорив.
@@ -2069,9 +2231,11 @@ pol	ukr	Tom obiera ziemniaki.	Том чистить картоплю.
 pol	ukr	Tom odbił piłkę smashem z forhendu.	Том повернув м'яч сильним ударом справа.
 pol	ukr	Tom odniósł sukces.	Том досяг успіху.
 pol	ukr	Tom odwiezie cię na lotnisko.	Том відвезе тебе до аеропорту.
+pol	ukr	To moja matka.	Це моя мати.
 pol	ukr	To moja ostateczna oferta.	Це моя остаточна пропозиція.
 pol	ukr	To moja ostateczna propozycja.	Це моя остаточна пропозиція.
 pol	ukr	To moja szkoła.	Це моя школа.
+pol	ukr	To mój dziadek.	Це мій дідусь.
 pol	ukr	To moje spodnie.	Це мої штани.
 pol	ukr	To moje ulubione krzesło.	Це мій улюблений стілець.
 pol	ukr	To mój pomysł.	Це моя ідея.
@@ -2117,8 +2281,10 @@ pol	ukr	Tom wyrzucił śmieci.	Том викинув сміття.
 pol	ukr	Tom wysłuchał.	Том вислухав.
 pol	ukr	Tom wzdrygnął się.	Том здригнувся.
 pol	ukr	Tom zadał kilka pytań.	Том поставив кілька запитань.
+pol	ukr	Tom zainwestował swoje pieniądze w akcje.	Том вклав свої гроші в акції.
 pol	ukr	Tom zakochał się w Mary.	Том закохався у Мері.
 pol	ukr	Tom zapuszcza brodę.	Том відпускає бороду.
+pol	ukr	Tom zawsze tak robi.	Том завжди так робить.
 pol	ukr	Tom zbyt dużo je.	Том занадто багато їсть.
 pol	ukr	Tom zbyt dużo pracuje.	Том забагато працює.
 pol	ukr	Tom zdaje się jeść przez cały czas.	Том, здається, весь час їсть.
@@ -2153,8 +2319,12 @@ pol	ukr	To niestety prawda.	На жаль, це правда.
 pol	ukr	To niewyobrażalne!	Це неймовірно!
 pol	ukr	Tony mieszka w Kobe.	Тоні мешкає в Кобе.
 pol	ukr	To Polacy.	Вони поляки.
+pol	ukr	To powolny proces.	Це повільний процес.
 pol	ukr	To pudełko jest puste. Nic w nim nie ma.	Ця коробка пуста. В ній нічого немає.
+pol	ukr	To rozmówki, pomogą ci się porozumieć.	Це розмовник, він допоможе тобі в спілкуванні.
+pol	ukr	To są leki, których używam.	Це ліки, які я використовую.
 pol	ukr	To są melony.	Це дині.
+pol	ukr	To są moi dziadkowie.	Це мої дідусь і бабуся.
 pol	ukr	To są moje książki.	Це мої книжки.
 pol	ukr	To są moje ołówki.	Це мої олівці.
 pol	ukr	To są moje spodnie.	Це мої штани.
@@ -2178,11 +2348,13 @@ pol	ukr	Trudno jest z nim rozmawiać.	З ним важко розмовляти.
 pol	ukr	Trudno przekonać Jacka.	Джека важко переконати.
 pol	ukr	Trzeba było nie podlewać kwiatów. Kiedy tylko skończyłem, zaczęło padać.	Мені не треба було поливати квіти. Як раз коли я закінчив, почався дощ.
 pol	ukr	Trzeba szanować starszych.	Треба шанувати старших.
+pol	ukr	Trzymajcie się całą rodziną, ponieważ łatwo się zgubić.	Тримайтеся всією сім'єю, бо легко загубитися.
 pol	ukr	Trzymaj psa na smyczy.	Тримай собаку на прив'язі.
 pol	ukr	Trzymaj się z dala ode mnie.	Тримайся від мене подалі.
 pol	ukr	Tu jest moje serce.	Тут моє серце.
 pol	ukr	Tu Mike. Jest Hiroshi?	Це Майк. А Хіросі є?
 pol	ukr	Tu się ucz.	Навчайся тут.
+pol	ukr	Tutaj będziesz dzisiaj spać.	Тут ти будеш сьогодні спати.
 pol	ukr	Tutaj mieszkamy.	Ось тут ми живемо.
 pol	ukr	Tutaj mieszkamy.	Ось тут ми і мешкаємо.
 pol	ukr	Tutaj nic nie ma.	Тут нічого немає.
@@ -2252,6 +2424,8 @@ pol	ukr	Wczoraj skradziono mi rower.	У мене вчора вкрали вел�
 pol	ukr	W domu jest za dużo mebli.	В будинку забагато меблів.
 pol	ukr	Wesołych świąt.	Веселих свят.
 pol	ukr	W Europie, szkoła zaczyna się we wrześniu.	У Європі зайняття у школі розпочинаються у вересні.
+pol	ukr	Wezmę następny pociąg.	Я поїду наступним поїздом.
+pol	ukr	Wezmę następny pociąg.	Я поїду наступним потягом.
 pol	ukr	Weźmiemy ślub w październiku.	Ми одружимося в жовтні.
 pol	ukr	Weźmy taksówkę.	Давайте візьмемо таксі.
 pol	ukr	Weź to.	Візьми це.
@@ -2359,6 +2533,7 @@ pol	ukr	Wszystkie androidy to roboty.	Всі андроїди - роботи.
 pol	ukr	Wszystkie drogi prowadzą do Rzymu.	Усі шляхи ведуть до Риму.
 pol	ukr	Wszystkiego najlepszego z okazji urodzin!	З днем народження!
 pol	ukr	Wszystkie istoty ludzkie rodzą się wolne i równe w godności i prawach. Są one obdarzone rozumem i sumieniem oraz powinny postępować w stosunku do siebie wzajemnie w duchu braterstwa.	Усі люди народжуються вільними і рівними у своїй гідності та правах. Вони наділені розумом і совістю і повинні діяти у відношенні один до одного в дусі братерства.
+pol	ukr	Wszystkie pociągi w kraju są dla ciebie darmowe.	Всі потяги в країні для тебе безкоштовні.
 pol	ukr	Wszystkie psy żyją.	Всі собаки живі.
 pol	ukr	Wszystko będzie dobrze.	Все буде в порядку.
 pol	ukr	Wszystko będzie dobrze.	Все буде добре.
@@ -2375,8 +2550,10 @@ pol	ukr	W tym klubie jest więcej niż 50 członków.	У тому клубі б�
 pol	ukr	W tym lesie nie ma borsuków.	У цьому лісі немає борсуків.
 pol	ukr	W tym sklepie sprzedają cukier i sól.	В цьому магазині продається цукор та сіль.
 pol	ukr	W tym tygodniu mam urlop.	Маю відпустку на цьому тижні.
+pol	ukr	Wulkany są niebezpieczne.	Вулкани небезпечні.
 pol	ukr	Wybacz mi, proszę!	Пробач мене, будь ласка!
 pol	ukr	Wybacz spóźnienie.	Вибач за запізнення.
+pol	ukr	Wybierz literę alfabetu.	Виберіть букву алфавіту.
 pol	ukr	Wybraliśmy go na przewodniczącego.	Ми вибрали його головою.
 pol	ukr	Wydałem 3 tys. jenów na nową płytę.	Я витратив 3 тис. йен на новий компакт-диск.
 pol	ukr	Wyglądał na chorego.	Мав хворий вигляд.
@@ -2387,11 +2564,13 @@ pol	ukr	Wyłączyłem radio.	Я вимкнув радіо.
 pol	ukr	Wyłączyłeś kuchenkę?	Ти вимкнув плиту?
 pol	ukr	Wysiadłem z pociągu.	Я зійшов з поїзду.
 pol	ukr	Wysiadłem z taksówki.	Я вийшов із таксі.
+pol	ukr	Wyślij znajomym zdjęcie tablicy rejestracyjnej samochodu, do którego wsiadasz.	Надішли знайомим фотографію реєстраційного номера автомобілю, о якого ти сідаєш.
 pol	ukr	Wystarczy już!	Досить вже!
 pol	ukr	Wysyłam ją do Kalifornii.	Я відсилаю її до Каліфорнії.
 pol	ukr	Wyszedł bez pożegnania.	Він пішов, не попрощавшись.
 pol	ukr	W zeszłym roku zmarł na raka.	Він помер від раку минулого року.
 pol	ukr	W zeszłym tygodniu moja waga wzrosła o kolejne 5 funtów.	Минулого тижня я набрав майже п'ять фунтів.
+pol	ukr	Yanni zatrzymał się.	Янні зупинився.
 pol	ukr	Za 10 minut samolot startuje.	Літак злітає за десять хвилин.
 pol	ukr	Zachowuje się, jakby był królem.	Він поводиться так, неначе він король.
 pol	ukr	Zaciąłem się przy goleniu.	Я порізався, коли голився.
@@ -2418,10 +2597,13 @@ pol	ukr	Zamknij oczy.	Заплющ очі.
 pol	ukr	Zamówiłem pizzę.	Я замовив піцу.
 pol	ukr	Zapasowe koło jest w bagażniku.	Запаска в багажнику.
 pol	ukr	Zapasowe koło jest w bagażniku.	Запасне колесо — в багажнику.
+pol	ukr	Zapisz na tej kartce leki, których potrzebujesz.	Запиши на цій картці ліки, які тобі потрібні.
 pol	ukr	Zapomniał nakarmić psa.	Він забув погодувати собаку.
 pol	ukr	Zaprosiłeś Toma na obiad i nie powiedziałeś mi o tym?	Ти запросив Тома на вечерю, не сказавши мені про це?
 pol	ukr	Zaprzestałem pić piwo.	Я кинув пити пиво.
 pol	ukr	Zapytaj eksperta.	Запитай експерта.
+pol	ukr	Zaraz do ciebie wrócę.	Я зараз до тебе повернуся.
+pol	ukr	Zaraz ktoś po was przyjedzie.	За вами скоро хтось приїде.
 pol	ukr	Zaraz tam będę.	Я зараз там буду.
 pol	ukr	Zaraz wracam.	Зараз повернуся.
 pol	ukr	Żartowałam.	Я шуткувала.
@@ -2433,6 +2615,8 @@ pol	ukr	Zastanawiam się, czy Tom zna Mary.	Мені цікаво, чи Том �
 pol	ukr	Zastrzelę go.	Я його застрелю.
 pol	ukr	Zaszła w ciążę.	Вона завагітніла.
 pol	ukr	Zauważyłeś podobieństwo w wymowie po polsku i po portugalsku?	Ти помітив подібність у вимові між польською та португальською мовами?
+pol	ukr	Zawiozę cię w bezpieczne miejsce.	Я відвезу тебе у безпечне місце.
+pol	ukr	Zawiozę was w bezpieczne miejsce.	Я відвезу вас у безпечне місце.
 pol	ukr	Zawsze będę o tobie pamiętał.	Завжди буду пам'ятати тебе.
 pol	ukr	Zawsze chciałem grać na puzonie.	Я завжди хотів грати на тромбоні.
 pol	ukr	Zawsze gramy w tenisa w sobotnie poranki.	В суботу вранці ми завжди граємо в теніс.
@@ -2464,6 +2648,7 @@ pol	ukr	Zgubiłem klucz.	Я загубив ключ.
 pol	ukr	Zgubiłem mój klucz.	Я загубив свій ключ.
 pol	ukr	Zgubiłem mój parasol.	Я загубив парасольку.
 pol	ukr	Zgubiłem portfel po drodze do szkoły.	Я загубив гаманець по дорозі до школи.
+pol	ukr	Zgwałcono mnie.	Мене згвалтували.
 pol	ukr	Ziemia jest mniejsza od Słońca.	Земля менша від Сонця.
 pol	ukr	Ziemia ma kształt pomarańczy.	Земля має форму апельсина.
 pol	ukr	Ziemia, Mars i Jowisz to planety.	Земля, Марс та Юпітер — планети.
@@ -2477,6 +2662,7 @@ pol	ukr	Źle się to skończyło.	Це погано скінчилося.
 pol	ukr	Złoto jest cięższe od żelaza.	Золото важче за залізо.
 pol	ukr	Złoto jest znacznie cięższe od wody.	Золото набагато важче за воду.
 pol	ukr	Zmarł na raka płuc.	Він помер від раку легень.
+pol	ukr	Zmiany klimatu dotyczą nas wszystkich.	Зміна клімату стосується нас усіх.
 pol	ukr	Zmienił tablice rejestracyjne swojego samochodu.	Він змінив номерний знак свого автомобіля.
 pol	ukr	Zmusił mnie.	Він змусив мене.
 pol	ukr	Znalazłam!	Знайшла!
@@ -2492,6 +2678,7 @@ pol	ukr	Znam Toma.	Я знаю Тома.
 pol	ukr	Znam twojego ojca.	Я знаю твого батька.
 pol	ukr	Znamy go.	Ми знаємо його.
 pol	ukr	Znamy tę piosenkę.	Ми знаємо цю пісню.
+pol	ukr	Znasz numer telefonu do swoich krewnych?	Ти знаєш номер телефону своїх родичів?
 pol	ukr	Znasz Toma?	Ти знаєш Тома?
 pol	ukr	Znowu pada.	Знову йде дощ.
 pol	ukr	Znowu przegraliśmy.	Ми знову програли.

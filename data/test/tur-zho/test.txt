@@ -101,8 +101,8 @@ tur	cmn_Hans	Bu bir köpek.	这是一条狗。
 tur	cmn_Hans	Bu çok tuhaf.	这是很奇怪的。
 tur	cmn_Hans	Bu doğru.	这是对的。
 tur	cmn_Hans	Bu evde kimin yaşadığını biliyorum.	我知道谁住在这房子里。
-tur	cmn_Hans	Bugün dışarıda uyumamız gerekiyor.	今天我们必须在户外睡觉。
 tur	cmn_Hans	Bugün dişçiye gittim.	今天我去看了牙医。
+tur	cmn_Hans	Bugün dışarıda uyumamız gerekiyor.	今天我们必须在户外睡觉。
 tur	cmn_Hans	Bugün dünkü kadar soğuk değil.	今天没昨天冷。
 tur	cmn_Hans	Bugünün küçük restoranı, yarın büyük bir otel olabilir.	今天的小饭馆明天就可以变成大饭店了。
 tur	cmn_Hans	Bu güzel bir çiçek.	这是一朵美丽的花。
@@ -455,19 +455,19 @@ tur	cmn_Hans	Seni sevmiyorum.	我不爱你。
 tur	cmn_Hans	Sen kimin oğlusun?	你是谁的儿子？
 tur	cmn_Hans	Sen kimsin?	你是谁？
 tur	cmn_Hans	Sen Tom musun?	你是汤姆吗？
-tur	cmn_Hans	Sıcaktan öldüm!	热死了！
 tur	cmn_Hans	Sigara içilmeyen bölümde oturmak istiyorum.	我想坐在无烟区。
-tur	cmn_Hans	Sık sık yurtdışına çıkar mısın?	你经常去国外旅行吗？
 tur	cmn_Hans	Şimdi bir mola verelim.	现在，让我们休息一会儿吧。
 tur	cmn_Hans	Şimdi gerçekten yaşlı bir adamım.	现在我真是个老人。
 tur	cmn_Hans	Şimdi Pekin'de oturuyoruz.	我现在居住在北京。
 tur	cmn_Hans	Şimdi yemek yiyorum.	我正在吃东西。
 tur	cmn_Hans	Şimdi zamanım yok.	我现在没有时间
-tur	cmn_Hans	Sınıfta kimse yok.	教室里没有人。
-tur	cmn_Hans	Şırıngayı görene kadar sakindim.	直到看见注射器我才平静下来。
 tur	cmn_Hans	Şirketimize katılmanızı istiyoruz.	我们希望你能加入我们的公司。
 tur	cmn_Hans	Siz arkadaşlar aynı okula mı gidiyorsunuz?	你们俩在同一所学校？
 tur	cmn_Hans	Siz burada bir öğretmen misiniz yoksa bir öğrenci misiniz?	在这儿您是老师还是学生?
+tur	cmn_Hans	Sıcaktan öldüm!	热死了！
+tur	cmn_Hans	Sık sık yurtdışına çıkar mısın?	你经常去国外旅行吗？
+tur	cmn_Hans	Sınıfta kimse yok.	教室里没有人。
+tur	cmn_Hans	Şırıngayı görene kadar sakindim.	直到看见注射器我才平静下来。
 tur	cmn_Hans	Sonbahar en sevdiğim mevsimdir.	秋天是我最喜爱的季节。
 tur	cmn_Hans	Sonbaharı severim.	我爱秋天。
 tur	cmn_Hans	Sonbahar uzun ve ılımandı.	秋天是漫长且温和的。
@@ -639,7 +639,6 @@ tur	cmn_Hant	Ben sağ bacağımı kırdım.	我摔斷了右腿。
 tur	cmn_Hant	Ben senden daha kısayım.	我比你矮。
 tur	cmn_Hant	Ben şimdi meşgul değilim.	我現在不忙。
 tur	cmn_Hant	Ben üçünün en uzunuyum.	我是三個人之中最高的。
-tur	cmn_Hant	Bıçağım kırıldı.	我的刀坏了。
 tur	cmn_Hant	Bilet gişesi nerede?	售票窗口在哪裡？
 tur	cmn_Hant	Bilgisayar modern bir alettir.	電腦是一種現代工具。
 tur	cmn_Hant	Bilgisayar modern bir araçtır.	電腦是一種現代工具。
@@ -661,6 +660,7 @@ tur	cmn_Hant	Biz düşmanı yendik.	我們戰勝了敵人。
 tur	cmn_Hant	Biz karı-kocayız.	我們是夫婦。
 tur	cmn_Hant	Biz kimiz?	我們是誰？
 tur	cmn_Hant	Biz mutluyuz.	我們很快樂。
+tur	cmn_Hant	Bıçağım kırıldı.	我的刀坏了。
 tur	cmn_Hant	Bob benim arkadaşım.	Bob是我朋友。
 tur	cmn_Hant	Boşlukları uygun sözcüklerle doldurun.	請在空格上填上適當的字詞。
 tur	cmn_Hant	Boston'dan ayrılmak istiyorum.	我想離開波士頓

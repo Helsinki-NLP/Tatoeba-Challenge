@@ -75,14 +75,17 @@ fra	nds	C'est un grand honneur de vous rencontrer.	Dat is en grott Ihr, Se kenne
 fra	nds	C'est un lance-flammes. Il lance des flammes.	Dat is en Flammensmieter. He smitt Flammen.
 fra	nds	C'est un poète.	He is en Dichter.
 fra	nds	C'est vraiment une très bonne fille.	Se is worraftig en gode Deern.
+fra	nds	C'était mon erreur.	Dat is mien Fähler wäsen.
 fra	nds	C'était pas moi, commissaire !	Ik weer dat nich, Kommissar!
 fra	nds	Cet étang n'est pas assez profond pour nager.	Disse Diek is nich deep noog to ’n Swemmen.
 fra	nds	Cette phrase japonaise est intraduisible.	Düsse japaansche Satz is unöversettbor.
+fra	nds	Cette pièce ne reçoit pas assez la lumière du soleil.	Düsse Stuuv kriggt nich noog Sünnlicht.
 fra	nds	Cette robe rouge lui va très bien.	Dat rode Kleed lett good an ehr.
 fra	nds	Cette rose est belle.	Disse Roos is moi.
 fra	nds	Cette rose est jolie.	Disse Roos is moi.
 fra	nds	Cette terre est ma propriété.	Dit Land is mien Egendom.
 fra	nds	Cette théorie est scientifiquement controversée.	Disse Theorie is in ’e Wetenschop ümstreden.
+fra	nds	« Ceux qui cherchent trouvent » a dit le sage.	„’keen söcht, de schall finnen“, sä de Wiese.
 fra	nds	Chacun de ses enfants a sa propre chambre.	Elk von sien Kinner hett en egen Kamer.
 fra	nds	Chauffage manquant dans l'étable, glace au lait servie à table.	Fallt in ’n Stall de Aven ut, kummt de Melk in Stücken rut.
 fra	nds	Cherchez ce mot dans le dictionnaire.	Kiek dat Woord in ’t Wöörbook na.
@@ -122,6 +125,7 @@ fra	nds	Elle a de gros nichons.	Se hett en groot Tittwark.
 fra	nds	Elle a de gros nichons.	Se hett grote Titten.
 fra	nds	Elle aime les jupes courtes.	Se mag korte Röck.
 fra	nds	Elle a les cheveux très courts.	Se hett temlich kort Hoor.
+fra	nds	Elle a oublié ce qu'elle voulait dire.	Se hett vergäten, war se seggen wull.
 fra	nds	Elle a peur de perdre de l'argent.	Se is bang, Geld to verleren.
 fra	nds	Elle a peur des chiens.	Se is bang vör Hunnen.
 fra	nds	Elle a refusé le poste.	Se hett de Steed aflehnt.
@@ -241,6 +245,7 @@ fra	nds	Il me frappa au visage.	He hett mi in’t Gesicht slaan.
 fra	nds	Il m'est venu à l'esprit une bonne idée.	Mi keem en gode Idee in ’n Sinn.
 fra	nds	Il n'a pas d'animaux domestiques.	He hett keen Huusdeerten.
 fra	nds	Il ne fume pas.	He smöökt nich.
+fra	nds	Il ne l'a même pas aidée.	He hett ehr nich mol holpen.
 fra	nds	Il n'est pas aussi bête qu'il en a l'air.	He is nich sau dum, äs he uutsüt.
 fra	nds	Il n'est pas facile d'apprendre une langue étrangère.	Dat is nich licht, en frömme Spraak to lehren.
 fra	nds	Il n'est vraiment pas fou.	He is echt nich dusselig.
@@ -252,6 +257,7 @@ fra	nds	Il perdit l'équilibre et tomba.	He keem in’t Wanken un füll hen.
 fra	nds	Il pèse soixante-dix kilos.	He wiggt söventig Kilo.
 fra	nds	Il possède de nombreux tableaux de valeur.	He besitt veel düre Schilleraatsen.
 fra	nds	Il sait nager.	He kann swemmen.
+fra	nds	Ils connaissent le kabyle.	De künnt Kabylsch.
 fra	nds	Il se fiche de ce qu'il mange.	Em is dat egaal, wat he itt.
 fra	nds	Il semble qu'il connaisse la vérité.	Lett, as wenn he de Wohrheid weet.
 fra	nds	Il sera revenu avant 5 heures.	He schall woll vör Klock fiev trügg wesen.
@@ -295,6 +301,7 @@ fra	nds	J'ai commencé à apprendre l'espéranto.	Ik heff jüst anfungen, Espera
 fra	nds	J’ai corrigé la traduction.	Ik heff de Översetten verbätert.
 fra	nds	J'ai déjà écrit à Tom.	Ik heff Tom al schreven.
 fra	nds	J'ai demandé à Tom s'il la connaissait bien.	Ik heff Tom froogt, of he se goot kenn.
+fra	nds	J'ai demandé parce que je pensais que tu savais.	Ik heff froogt, wiel ik dacht heff, dat du dat weeßt.
 fra	nds	J'ai des frères.	Ik heff Bröder.
 fra	nds	J'ai deux filles et deux fils.	Ik heff twee Döchter un twee Söhns.
 fra	nds	J'ai deux frères et une sœur.	Ik heff twee Bröder un een Süster.
@@ -318,11 +325,13 @@ fra	nds	J'aimerais quelques pommes de terre.	Ik will en poor Kartuffeln.
 fra	nds	J'ai oublié de le lui demander.	Ik heff vergeten, em dorna to fragen.
 fra	nds	J'ai oublié son adresse.	Ik heff ehr Adreß vergeten.
 fra	nds	J'ai oublié son adresse.	Ik heff sien Adreß vergeten.
+fra	nds	J'ai pas compris ce mot.	Ik heff düt Woort nich verstohn.
 fra	nds	J'ai passé l'été chez mon oncle.	Ik heff den Sommer bi mien Unkel verbröcht.
 fra	nds	J'ai passé un coup de fil à Tom.	Ik heff Tom anropen.
 fra	nds	J'ai presque tout compris !	Ik heff meist allens verstahn.
 fra	nds	J'ai pris le bus 61.	Ik heff Bus 61 nahmen.
 fra	nds	J'ai reçu sa lettre la semaine dernière.	Ik heff ehren Breev vergangen Week kregen.
+fra	nds	J'ai réécrit cette phrase.	Ik heff düssen Satz ümschreven.
 fra	nds	J'ai rencontré Marie ici hier.	Ik heff Ria gistern hier dropen.
 fra	nds	J'ai rencontré un ami.	Ik heff en Fründ drapen.
 fra	nds	J'ai si faim que je pourrais manger un cheval.	Ik bün so hungerig, dat ik en Peerd eten kunn.
@@ -359,6 +368,7 @@ fra	nds	Je crois qu'il a raison.	Ik glööv, he hett recht.
 fra	nds	Je devrai travailler dimanche.	Ik mutt an’n Sünndag arbeiden.
 fra	nds	Je dois me faire beau.	Ik mutt mi opfleen.
 fra	nds	Je dois travailler.	Ik mutt arbeiden.
+fra	nds	Je fais allusion à autre chose.	Ik speel up wat anners an.
 fra	nds	Je joue du Chopin.	Ik speel Chopin.
 fra	nds	Je l'ai acheté pour douze dollars.	Ik heff dat för twölv Dollar köfft.
 fra	nds	Je l'aime beaucoup.	Ik mag ehr temlich geern.
@@ -366,6 +376,9 @@ fra	nds	Je l'ai prévenu du danger.	Ik heff em vör de Gefohr wohrschaut.
 fra	nds	Je le connais.	Ik kenn em.
 fra	nds	Je lui ai écrit une longue lettre.	Ik heff ehr en langen Breev schreven.
 fra	nds	Je lui ai écrit une longue lettre.	Ik heff em en langen Breef schreven.
+fra	nds	Je lui ai envoyé de l'argent.	Ik heff em Geld schickt.
+fra	nds	Je lui ai envoyé une lettre.	Ik heff ehr en Breef schickt.
+fra	nds	Je lui ai envoyé une lettre.	Ik heff em en Breef schickt.
 fra	nds	Je lui ai parlé hier.	Ik heff gistern mit ehr snackt.
 fra	nds	Je lui ai parlé hier.	Ik heff gistern mit em snackt.
 fra	nds	Je lui dois 50,000 yens.	Ik bün em 50.000 Yen schüllig.
@@ -384,6 +397,7 @@ fra	nds	Je n'ai jamais été en Nouvelle-Zélande.	Ik weer noch nie in Neeseelan
 fra	nds	Je n'aime pas le sushi.	Ik mag keen Sushi.
 fra	nds	Je n'aime pas trop le café.	Ik mag Kaffe nich allto geern.
 fra	nds	Je n'ai pas besoin de voiture.	Ik bruuk keen Auto.
+fra	nds	Je n'ai pas compris ce mot.	Ik heff düt Woort nich verstohn.
 fra	nds	Je n'ai pas d'appétit.	Ik heff keen Aptiet.
 fra	nds	Je n'ai pas d'argent.	Ik heff keen Geld.
 fra	nds	Je n'ai pas de famille.	Ik heff keen Familie.
@@ -392,6 +406,7 @@ fra	nds	Je n'ai pas faim maintenant.	Ik heff nu keen Hunger.
 fra	nds	Je n'ai pas vu le panneau.	Ik heff dat Schild nich sehn.
 fra	nds	Je n’ai personne avec qui pratiquer le norvégien.	Ik heff nüms, wo ik Norweegsch mit euven kann.
 fra	nds	Je n'ai plus mal à la tête.	Mien Kopp deit nich mehr weh.
+fra	nds	Je n'ai trouvé ce mot nulle part.	Ik heff düt Woort nargens funnen.
 fra	nds	Je n'ai tué personne.	Ik heff keeneen ümbröcht!
 fra	nds	Je n'arrive pas à trouver l'épuisette.	Ik kann den Ketscher nich finnen.
 fra	nds	Je n'attends rien de ta part.	Ik verwacht nix von di.
@@ -411,6 +426,7 @@ fra	nds	Je ne peux pas vivre sans télé.	Ik kann ahn Feernsehn nich leven.
 fra	nds	Je ne pouvais me souvenir de son nom.	Ik weet sien Naam nich mehr.
 fra	nds	Je ne sais pas ce que c'est.	Ik weet nich, wat dat is.
 fra	nds	Je ne sais pas ce que c’est.	Ik weet nich, wat dat is.
+fra	nds	Je ne sais pas quand je rentrerai.	Ik weet nich, wannehr ik weer tohuus bün.
 fra	nds	Je ne sais pas quoi dire.	Ik weet nich, wat ik seggen schall.
 fra	nds	Je ne sais plus quoi faire.	Ik weet nich mäer, wat ik doon schall.
 fra	nds	Je ne sais plus son nom.	Ik weet sien Naam nich mehr.
@@ -452,6 +468,7 @@ fra	nds	Je suis hongrois.	Ik bün Ungaar.
 fra	nds	Je suis lesbienne.	Ik bün lesbisch.
 fra	nds	Je suis maintenant à l'aéroport.	Ik bün opstunns op ’n Flegerhaven.
 fra	nds	Je suis malade.	Ik bün krank.
+fra	nds	Je suis marié à Marie depuis quatre ans.	Ik bün al veer Johr mit Ria verheirodt.
 fra	nds	Je suis médecin.	Ik bün Dokter.
 fra	nds	Je suis musulman.	Ik bün Moslem.
 fra	nds	Je suis musulman.	Ik bün Muslim.
@@ -510,6 +527,7 @@ fra	nds	La licorne est un monstre fabuleux.	Dat Eenhoorn is en Fabelwesen.
 fra	nds	L'Allemagne est une république parlementaire.	Düütschland is en parlamentaarsche Demokratie.
 fra	nds	L'Allemagne est un grand pays.	Diutschland is en grôt Land.
 fra	nds	La maison est petite, mais c'est assez pour nous.	Dat Huus is man lütt, aver för uns reckt dat.
+fra	nds	La mer est froide.	Dat Meer is koolt.
 fra	nds	L'Amérique est un pays d'immigrants.	Amerika is en Inwannererland.
 fra	nds	L'amour est en France une comédie, en Angleterre une tragédie, en Italie un opéra et en Allemagne un mélodrame.	De Leevd is in Frankriek en Kemmedie, in England en Tragödie, in Italien en Oper un in Düütschland en Melodram.
 fra	nds	La nuit dernière j'ai écrit une lettre.	Vörige Nacht heff ik en Breev schreven.
@@ -551,6 +569,7 @@ fra	nds	Le réveil avance de dix minutes.	De Wecker geiht teihn Minuten vör.
 fra	nds	Le riz pousse dans des pays chauds.	Ries wasst in warme Länner.
 fra	nds	Le sable sec absorbe l'eau.	Drögen Sand nimmt Water op.
 fra	nds	Le sable sec absorbe l'eau.	Dröög Sand nimmt Water op.
+fra	nds	Les Allemands aiment boire de la bière.	De Diutschen drinken giern Bier.
 fra	nds	Les araignées ne sont pas des insectes.	Spinnen sünd keen Insekten.
 fra	nds	Les chiens sont dans le jardin.	De Hunnen sünd in ’n Goorn.
 fra	nds	Les enfants ont besoin d'amour.	Kinner bruukt Leevd.
@@ -585,6 +604,7 @@ fra	nds	Mangez et buvez.	Ät un drinkt.
 fra	nds	« Maou », fit le chat en me regardant.	„Mau“, seed de Katt un keek mi an.
 fra	nds	Maria a des cheveux très longs.	Ria hett teemlich lange Hoor.
 fra	nds	Maria a les yeux bleus.	Maria hett blaue Ogen.
+fra	nds	Maria ne parle pas allemand.	Maria sprickt keen Diutsch.
 fra	nds	Marie a deux amis étrangers.	Ria hett twee butenlandsche Frünn.
 fra	nds	Marie a peur des chiens.	Ria hett en Bammel vör Hunnen.
 fra	nds	Marie apprenait le russe à ses enfants.	Ria hett ehr Kinner Russ’sch bibröcht.
@@ -602,6 +622,7 @@ fra	nds	Ma sœur est mariée.	Mien Süster is verheiraadt.
 fra	nds	Ma tante a trois enfants.	Mien Tante hett dree Kinner.
 fra	nds	Ma tante se rend chaque semaine sur la tombe de mon oncle.	Miene Tante geiht elk Week an dat Graff von mien Unkel.
 fra	nds	Ma tête ne fait plus mal.	Mien Kopp deit nich mehr weh.
+fra	nds	M’a-t-il regardée ?	Hett he mi ansähn?
 fra	nds	Ma voiture n'a pas assez de chevaux.	Mien Auto hett nich noog PS.
 fra	nds	Mère nous a préparé le déjeuner.	Mudder hett dat Middageten för uns trechmaakt.
 fra	nds	Mes cheveux sont de plus en plus longs.	Mien Hoor warrt jümmer länger.
@@ -744,6 +765,7 @@ fra	nds	Quelle maladie ai-je ?	Wat för en Krankheid heff ik?
 fra	nds	Quelque chose cloche.	Dor stimmt wat nich.
 fra	nds	Quelqu'un a commis une erreur.	Een hett en Fähler mookt.
 fra	nds	Quelqu'un m'a volé mon sac.	Een hett mien Tasch stahlen.
+fra	nds	Que me veut-elle ?	Wat will dat vun mi?
 fra	nds	Que penses-tu de lui ?	Wat denkst du von em?
 fra	nds	Que peut-elle lui dire ?	Wat kann se em seggen?
 fra	nds	Que signifie ce signe ?	Wat bedüüdt dit Schild?
@@ -779,6 +801,7 @@ fra	nds	Ta femme connaît-elle un peu d'allemand ?	Kann dien Fro en beten Düüt
 fra	nds	Taro est mort il y a deux ans.	Taro is vör twee Johr doodbleven.
 fra	nds	Tatoeba : des phrases, des phrases, et encore des phrases.	Tatoeba: Sätz, Sätz un noch mehr Sätz.
 fra	nds	Tatoeba est addictif.	Tatoeba maakt süchtig.
+fra	nds	Tatoeba n'est pas un dictionnaire.	Tatoeba is keen Wöörbook.
 fra	nds	Tes parents sont là en ce moment ?	Sünd diene Öllern nu tohuus?
 fra	nds	Tom a attrapé un poisson.	Tom hett en Fisch fungen.
 fra	nds	Tom a deux enfants.	Tom hett twee Kinner.

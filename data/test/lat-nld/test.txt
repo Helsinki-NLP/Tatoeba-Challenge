@@ -13,6 +13,12 @@ lat_Latn	nld	Amicus certus in re incerta cernitur.	In nood leert men zijn vriend
 lat_Latn	nld	Amicus Mariae sum.	Ik ben een vriend van Maria.
 lat_Latn	nld	Anima immortalis est.	De ziel is onsterfelijk.
 lat_Latn	nld	Aquam non bibo.	Ik drink geen water.
+lat_Latn	nld	Arborem vides.	Je ziet een boom.
+lat_Latn	nld	Arborem vides.	Jij ziet een boom.
+lat_Latn	nld	Arborem vides.	U ziet een boom.
+lat_Latn	nld	Arborem videtis.	Je ziet een boom.
+lat_Latn	nld	Arborem videtis.	Jullie zien een boom.
+lat_Latn	nld	Arborem videtis.	U ziet een boom.
 lat_Latn	nld	Ars gratia artis.	Kunst om de kunst.
 lat_Latn	nld	Ars longa, vita brevis.	De kunst is lang, het leven is kort.
 lat_Latn	nld	Ars longa, vita brevis.	De wetenschap is lang, het leven is kort.
@@ -24,6 +30,7 @@ lat_Latn	nld	Aves alas habent.	Vogels hebben vleugels.
 lat_Latn	nld	Barba non facit philosophum.	Een baard maakt je nog geen filosoof.
 lat_Latn	nld	Beati pauperes spiritu.	Zalig de armen van geest.
 lat_Latn	nld	Beati pauperes spiritu.	Zalig zijn de armen van geest.
+lat_Latn	nld	Bellum nolumus.	We willen geen oorlog.
 lat_Latn	nld	Bengalice loquitur.	Ze spreekt Bengaals.
 lat_Latn	nld	Bengalice loquor.	Ik spreek Bengaals.
 lat_Latn	nld	Berolinum caput Germaniae est.	Berlijn is de hoofdstad van Duitsland.
@@ -47,6 +54,8 @@ lat_Latn	nld	Cruentatus es!	Je zit vol bloed!
 lat_Latn	nld	Cuius filius es?	Wiens zoon ben jij?
 lat_Latn	nld	Cur ad me venis?	Waarom kom je naar mij toe?
 lat_Latn	nld	Cur hoc mihi est faciendum?	Waarom moet ik dit doen?
+lat_Latn	nld	Cur libertatem odisti?	Waarom haat je vrijheid?
+lat_Latn	nld	Cur libertatem odisti?	Waarom haat u vrijheid?
 lat_Latn	nld	Cur nix alba est?	Waarom is sneeuw wit?
 lat_Latn	nld	Da mihi librum, quaeso.	Geef mij het boek, alsjeblieft.
 lat_Latn	nld	Da mihi quinque dies.	Geef me vijf dagen.
@@ -105,6 +114,7 @@ lat_Latn	nld	Fur est.	Hij is een dief.
 lat_Latn	nld	Furor arma ministrat.	Woede levert wapens.
 lat_Latn	nld	Gladium non habeo.	Ik heb geen zwaard.
 lat_Latn	nld	Gratias multas tibi ob cibum ago.	Hartelijk bedankt voor het eten.
+lat_Latn	nld	Habent omnes volucres nidos inceptos nisi ego et tu. Quid exspectamus nunc?	Alle vogels hebben nesten begonnen, behalve ik en jij. Waar wachten wij nu op?
 lat_Latn	nld	Habeo canem.	Ik heb een hond.
 lat_Latn	nld	Habesne fratrem, Petre?	Heb je een broer, Pedro?
 lat_Latn	nld	Heri te vidi.	Ik heb jou gisteren gezien.
@@ -130,6 +140,7 @@ lat_Latn	nld	Illa est mensa.	Dat is een tafel.
 lat_Latn	nld	Ille poeta est.	Hij is dichter.
 lat_Latn	nld	Illud culter non est. HOC culter est.	Dat is geen mes. Dít is een mes.
 lat_Latn	nld	Incendium tres domos delevit.	Het vuur verwoestte drie huizen.
+lat_Latn	nld	INDVS NERONIS CLAVDI CAESARIS AVG CORPOR CUSTOS DEC SECVNDI NATIONE BATAVVS VIX ANN XXXVI H S E POSVIT EVMENES FRATER ET HERES EIVS EX COLLEGIO GERMANORVM	Indus, lijfwacht van Nero Claudius Caesar Augustus, van de decurie van Secundus, van de bataafse natie, leefde 36 jaar. Hier ligt hij begraven. Eumenes, Zijn broer en erfgenaam, heeft hem uit de samenleving van Germanen hier gelegd.
 lat_Latn	nld	Infans ambulare potest.	De baby kan lopen.
 lat_Latn	nld	Inimicus tuus non sum.	Ik ben niet je vijand.
 lat_Latn	nld	In pace vivimus.	We leven in vrede.
@@ -155,6 +166,7 @@ lat_Latn	nld	Leopolin ire volo...	Ik wil naar Lviv...
 lat_Latn	nld	Liberate Boliviam!	Bevrijd Bolivia!
 lat_Latn	nld	Liberate Palaestinam!	Bevrijd Palestina!
 lat_Latn	nld	Liber magnus est.	Het boek is groot.
+lat_Latn	nld	Liber novus eius est mirabilis.	Haar nieuwe boek is geweldig.
 lat_Latn	nld	Licetne mihi domum ire?	Mag ik naar huis gaan?
 lat_Latn	nld	Lingua Esperantica et Russica loquor.	Ik spreek Esperanto en Russisch.
 lat_Latn	nld	Lingua est mundus in quo habitant homines.	Taal is de wereld waarin mensen leven.
@@ -192,11 +204,15 @@ lat_Latn	nld	Mons nive tegitur.	De berg is bedekt met sneeuw.
 lat_Latn	nld	Morituri te salutant.	Zij die zullen sterven, groeten u.
 lat_Latn	nld	Mortua non sum.	Ik ben niet dood.
 lat_Latn	nld	Mortuus non sum.	Ik ben niet dood.
+lat_Latn	nld	Multae linguae sunt in mundo.	Er zijn veel talen in de wereld.
 lat_Latn	nld	Multas stellas in caelo videre potes.	Je kan veel sterren aan de hemel zien.
 lat_Latn	nld	Multi libri in bibliotheca sunt.	Er zijn veel boeken in de bibliotheek.
 lat_Latn	nld	Multi pisces in flumine natant.	Veel vissen zwemmen in de rivier.
 lat_Latn	nld	Multos libros habes.	U heeft veel boeken.
+lat_Latn	nld	Mundus natio est.	De wereld is een natie.
 lat_Latn	nld	Natare potest.	Hij kan zwemmen.
+lat_Latn	nld	Negat sē id fēcisse.	Hij ontkent dat hij heeft het gedaan.
+lat_Latn	nld	Negat sē id fēcisse.	Zij ontkent dat ze heeft het gedaan.
 lat_Latn	nld	Nemo est perfectus.	Niemand is perfect.
 lat_Latn	nld	Nemo omnia scire potest.	Niemand kan alles weten.
 lat_Latn	nld	Nemo potest omnia scire.	Niemand kan alles weten.
@@ -212,6 +228,7 @@ lat_Latn	nld	Noli sententiam mutare.	Verander niet van gedachten.
 lat_Latn	nld	Nomēn mihi est Jack.	Ik heet Jack.
 lat_Latn	nld	Non habes cor.	Je hebt geen hart.
 lat_Latn	nld	Nonne me cognovisti?	Heb je mij niet herkend?
+lat_Latn	nld	Non omnis moriar.	Ik zal niet helemaal sterven.
 lat_Latn	nld	Non surdus sum.	Ik ben niet doof.
 lat_Latn	nld	Non videntur laeti.	Zij lijken niet blij.
 lat_Latn	nld	Non vitae, sed scholae discimus.	We leren niet voor het leven, maar voor school.
@@ -219,6 +236,7 @@ lat_Latn	nld	Nosce te ipsum.	Ken jezelf.
 lat_Latn	nld	Nos duo valde esuriebamus.	Wij beiden waren zeer hongerig.
 lat_Latn	nld	Nos duo valde somniculosi eramus.	Wij beiden waren zeer slaperig.
 lat_Latn	nld	Nos volumus abire.	Wij willen weggaan.
+lat_Latn	nld	Num timēs?	Ben je bang nou?
 lat_Latn	nld	Nunc dormiendum est mihi.	Nu moet ik slapen.
 lat_Latn	nld	Nunc librum scribit.	Ze schrijft nu een boek.
 lat_Latn	nld	Nunc possum multum melius dormire.	Nu kan ik veel beter slapen.
@@ -229,7 +247,9 @@ lat_Latn	nld	Oculōs viridēs habet.	Ze heeft groene ogen.
 lat_Latn	nld	Omnes errare possunt.	Iedereen kan fouten maken.
 lat_Latn	nld	Omnes homines aequales sunt.	Alle mensen zijn gelijk.
 lat_Latn	nld	Omnes homines dignitate et iure liberi et pares nascuntur, rationis et conscientiae participes sunt, quibus inter se concordiae studio est agendum.	Alle mensen worden vrij en gelijk in waardigheid en rechten geboren. Zij zijn begiftigd met verstand en geweten, en behoren zich jegens elkander in een geest van broederschap te gedragen.
+lat_Latn	nld	Omnes patrem et matrem habent.	Iedereen heeft een vader en een moeder.
 lat_Latn	nld	Omnes puerum laudant.	Iedereen looft de jongen.
+lat_Latn	nld	Omnis cellula e cellula.	Elke cel komt uit een cel.
 lat_Latn	nld	Pacta sunt servanda.	Afspraken moeten gerespecteerd worden.
 lat_Latn	nld	Parentes mei ruri habitant.	Mijn ouders wonen op het platteland.
 lat_Latn	nld	Parvus codex est.	Dit is een klein boek.
@@ -245,7 +265,9 @@ lat_Latn	nld	Pecunia non olet.	Geld stinkt niet.
 lat_Latn	nld	Piscēs in aquā vīvunt.	Vissen leven in het water.
 lat_Latn	nld	Piscis non est.	Het is geen vis.
 lat_Latn	nld	Plantam matri dare volo.	Ik wil een plant aan mama geven.
+lat_Latn	nld	Plus pecuniae volo quam tu.	Ik wil meer geld van jou.
 lat_Latn	nld	Poscor aliquid.	Er wordt iets van me gevraagd.
+lat_Latn	nld	Possumus altior ire?	Kunnen we nog veel hoger?
 lat_Latn	nld	Primus mensis anni est Ianuarius.	De eerste maand van het jaar is januari.
 lat_Latn	nld	Pro libertate pugnant.	Ze vechten voor vrijheid.
 lat_Latn	nld	Prope stationem sum.	Ik ben in de buurt van het station.
@@ -276,12 +298,17 @@ lat_Latn	nld	Quis tuum consilium est?	Wat is je plan?
 lat_Latn	nld	Qui tacet, consentire videtur.	Wie zwijgt, stemt toe.
 lat_Latn	nld	Quod erat demonstrandum.	Wat moest worden bewezen.
 lat_Latn	nld	Quod licet Jovi, non licet bovi.	Wat Jupiter is toegestaan, is het rund nog niet toegestaan.
+lat_Latn	nld	Quod senior loquitur omnes consilium putant.	Wat de oude man zegt, vindt iedereen verstandig.
+lat_Latn	nld	Quōmodo hoc faciēs?	Hoe maak je dit?
 lat_Latn	nld	"Quota hora est?" "Triginta minuta post decimam horam sunt."	"Hoe laat is het?" "Het is half elf."
 lat_Latn	nld	Quot amici cari tibi sunt?	Hoeveel lieve vrienden heb jij?
 lat_Latn	nld	Quot annos habes?	Hoe oud bent u?
+lat_Latn	nld	Quot ecclesiae sunt in hac urbe?	Hoeveel kerken zijn in deze stad?
 lat_Latn	nld	Quot homines in Europa sunt?	Hoeveel mensen zijn er in Europa?
+lat_Latn	nld	Quot mihi datūrus es?	Hoeveel ga je me geven?
 lat_Latn	nld	Raedam habeo.	Ik heb een auto.
 lat_Latn	nld	Raedam meam lavabo.	Ik ga mijn auto wassen.
+lat_Latn	nld	Renascentia litterarum in Italia incepit.	De Renaissance begon in Italië.
 lat_Latn	nld	Requiescat in pace.	Hij ruste in vrede.
 lat_Latn	nld	Responsum egimus.	Wij hebben een antwoord nodig.
 lat_Latn	nld	Roma caput mundi est.	Rome is de hoofdstad van de wereld.
@@ -293,6 +320,7 @@ lat_Latn	nld	Saturni dies hebdomadis ultimus est.	Zaterdag is de laatste dag van
 lat_Latn	nld	Scio Thoman mendacem pathologicum esse.	Ik weet dat Tom een pathologische leugenaar is.
 lat_Latn	nld	Scio ubi habites.	Ik weet waar je woont.
 lat_Latn	nld	Scribere Thomae placet.	Thomas houdt van schrijven.
+lat_Latn	nld	Sedit et librum legit.	Hij zat en las een boek.
 lat_Latn	nld	Sed nunc Tokii habito.	Ik leef nu in Tokio.
 lat_Latn	nld	Sed pecuniam non habeo.	Maar ik heb geen geld.
 lat_Latn	nld	Senex sum.	Ik ben een oude man.
@@ -308,14 +336,18 @@ lat_Latn	nld	Soror mea pulchra est.	Mijn zus is mooi.
 lat_Latn	nld	Suntne multi flores in horto?	Zijn er veel bloemen in de tuin?
 lat_Latn	nld	Suntne tibi liberi?	Heeft u kinderen?
 lat_Latn	nld	Sunt puellae cum pene, pueri cum vulva et transphobi sine dentibus.	Er zijn meisjes met penissen, jongens met vulva's en transfoben zonder tanden.
+lat_Latn	nld	Superhomo potest ferum flectere.	Superman kan ijzer buigen.
+lat_Latn	nld	Superman potest ferum flectere.	Superman kan ijzer buigen.
 lat_Latn	nld	Suum cuique.	Ieder zijn ding.
 lat_Latn	nld	Suum cuique.	Ieder zijn eigen ding.
+lat_Latn	nld	Televisio mentitur.	De televisie liegt.
 lat_Latn	nld	Tempora anni sunt quattuor: ver, aestas, autumnus, hiems.	Er zijn vier seizoenen: lente, zomer, herfst, winter.
 lat_Latn	nld	Tempora mutantur et nos mutamur in illis.	De tijden veranderen en wij veranderen met hen.
 lat_Latn	nld	Tempus fugit.	De tijd vliegt.
 lat_Latn	nld	Te noscere gaudeo, domina Jones.	Aangenaam kennis met u te maken, mevrouw Jones.
 lat_Latn	nld	Terra minor quam sol est.	De aarde is kleiner dan de zon.
 lat_Latn	nld	Te visitabimus.	Wij zullen je bezoeken.
+lat_Latn	nld	Te volo pedicare.	Ik wil je in je kont neuken.
 lat_Latn	nld	Thoman mendacem pathologicum esse scio.	Ik weet dat Tom een pathologische leugenaar is.
 lat_Latn	nld	Thomas acetariam Mariae ēdit.	Tom heeft Maria's salade opgegeten.
 lat_Latn	nld	Thomas amat scribere.	Thomas houdt van schrijven.
@@ -337,8 +369,12 @@ lat_Latn	nld	Totum librum uno die legi.	Ik heb het hele boek in een dag gelezen.
 lat_Latn	nld	Tredecim feles habeo.	Ik heb dertien katten.
 lat_Latn	nld	Tres costas fregi.	Ik heb drie ribben gebroken.
 lat_Latn	nld	Tres filias habeo.	Ik heb drie dochters.
+lat_Latn	nld	Tristia iura necis nulla medela fugat.	Geen remedie verjaagt de trieste wetten van de dood.
 lat_Latn	nld	Tu superbior es pavone!	Je bent trotser dan een pauw.
 lat_Latn	nld	Ubi dubium, ibi libertas.	Waar twijfel is, daar is vrijheid.
+lat_Latn	nld	Ubi es et quando eris in Graecia?	Waar ben je en waneer ga je naar Griekenland?
+lat_Latn	nld	Ubi est filia mea?	Waar is mijn dochter?
+lat_Latn	nld	Ubi es, Thōmā? Omnēs tē quaerunt!	Waar ben je, Tom. Iedereen zoekt naar jou.
 lat_Latn	nld	Ubi est latrina?	Waar is het toilet?
 lat_Latn	nld	Ubi mala sunt?	Waar zijn de appels?
 lat_Latn	nld	Ubi ostium est?	Waar is de ingang?
@@ -361,6 +397,7 @@ lat_Latn	nld	Video hominem inter arbores.	Ik zie een mens tussen de bomen.
 lat_Latn	nld	Video leonem.	Ik zie een leeuw.
 lat_Latn	nld	Viginti liberos habet.	Hij heeft twintig kinderen.
 lat_Latn	nld	Viginti liberos habet.	Zij heeft twintig kinderen.
+lat_Latn	nld	Vir et femina filium habent.	De man en de vrouw hebben een zoon.
 lat_Latn	nld	Vir et femina theam bibunt.	De man en de vrouw drinken thee.
 lat_Latn	nld	Vita brevis est.	Het leven is kort.
 lat_Latn	nld	Volo ballare.	Ik wil dansen.

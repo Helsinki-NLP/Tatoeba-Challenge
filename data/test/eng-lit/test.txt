@@ -86,11 +86,13 @@ eng	lit	Be friendly.	Būkite draugiškas.
 eng	lit	Believe those who seek truth, beware those who find it.	Tikėk tais kurie ieško tiesos, saugokis tų kurie ją randa.
 eng	lit	Betty always managed to get what she wanted.	Betei visada pavykdavo gauti tai, ko ji norėjo.
 eng	lit	Bill doesn't like the fact that his father smokes a lot.	Bilas nemėgsta kad jo tėvas taip daug rūko.
+eng	lit	Billionaires shouldn't exist.	Milijardierių neturėtų egzistuoti.
 eng	lit	Bill, open the door.	Bilai, atidaryk duris.
 eng	lit	Bob was washing the dishes at that time.	Bobas tuo metu plovė indus.
 eng	lit	Both of us want to see the movie.	Mes abudu norime pamatyti tą filmą.
 eng	lit	Bring her a plate of salad.	Atnešk jai lėkštę salotų.
 eng	lit	Bring me a dry towel.	Atnešk man sausą rankšluostį.
+eng	lit	Bring me the kettle.	Atnešk man virdulį.
 eng	lit	Bring your brother with you.	Asivesk savo brolį su savim.
 eng	lit	But he knew he had no choice.	Bet jis žinojo kad jis neturėjo jokio pasirinkimo.
 eng	lit	But he knew it couldn't last.	Bet jis žinojo kad tai negalėjo tęstis.
@@ -116,12 +118,14 @@ eng	lit	Can you go with us?	Ar gali eiti su mumis?
 eng	lit	Can you pass me the salt?	Ar gali paduoti druską?
 eng	lit	Can you see that small house?	Ar matai tą mažą namą?
 eng	lit	Can you talk louder? I didn't hear you.	Ar gali kalbėti garsiau? Aš tavęs neišgirdau.
+eng	lit	Cardiff is the capital of Wales.	Kardifas yra Velso sostinė.
 eng	lit	Cats are complex individuals.	Katės yra sudėtingi individai.
 eng	lit	Cats can't learn to speak.	Katės negali išmokti kalbėti.
 eng	lit	Champagne, please.	Prašau šampano.
 eng	lit	Change the flag, please.	Prašom pakeisti vėliavą.
 eng	lit	Cheese is made from milk.	Sūrį gamina iš pieno.
 eng	lit	China is bigger than Japan.	Kinija didesnė, nei Japonija.
+eng	lit	Chocolate cake is my favourite dessert.	Šokoladinis tortas yra mano mėgstamiausias desertas.
 eng	lit	Close the window.	Uždaryk langą.
 eng	lit	Colorless green ideas sleep furiously.	Bespalvės žalios mintys pasiutiškai miega.
 eng	lit	Come and I'll show you who I am.	Ateik ir aš tau parodysiu kas aš esu.
@@ -247,6 +251,7 @@ eng	lit	Do you know Tom's address?	Ar žinai Tomo adresą?
 eng	lit	Do you know what Tom was wearing?	Ar jūs žinote, ką vilkėjo Tomas?
 eng	lit	Do you know where he lives?	Ar tu žinai kur jis gyvena?
 eng	lit	Do you like Italian?	Ar jums patinka italų kalba?
+eng	lit	Do you like mashed potato?	Ar tau patinka bulvių košė?
 eng	lit	Do you like this color?	Ar tau patinka ši spalva?
 eng	lit	Do you love your mother?	Ar jūs mylite savo mamą?
 eng	lit	Do you love your mother?	Ar tu myli savo motiną?
@@ -359,6 +364,7 @@ eng	lit	Have a nice flight.	Gero skrydžio!
 eng	lit	Have a nice weekend.	Gero savaitgalio.
 eng	lit	Have you already done your homework?	Ar jau atlikai namų darbus?
 eng	lit	Have you been abroad?	Ar kada nors buvai užsienyje?
+eng	lit	Have you eaten breakfast today?	Ar šiandien valgei pusryčius?
 eng	lit	Have you ever seen Tokyo Tower?	Ar kada nors matėte Tokijo bokštą?
 eng	lit	Have you ever sewed on a button?	Ar tu kada nors prisiūvai sagą?
 eng	lit	Have you seen my wife?	Ar matėte mano žmoną?
@@ -378,6 +384,7 @@ eng	lit	He came from a tiny mountain town.	Jis atvyko iš mažo miestelio kalnuo
 eng	lit	He came here before school was over.	Jis čia atėjo prieš baigiantis pamokoms.
 eng	lit	He can read thoughts.	Jis moka skaityti mintis.
 eng	lit	He can speak.	Jis gali kalbėti.
+eng	lit	He can't see out of his left eye.	Jis kaire akimi nemato.
 eng	lit	He cleaned his room on Sunday.	Jis sutvarkė savo kambarį sekmadienį.
 eng	lit	He comes to see my son now and then.	Jis kartais ateina aplankyti mano sūnų.
 eng	lit	He denied having written to me.	Jis paneigė, kad man rašė.
@@ -486,6 +493,7 @@ eng	lit	Her family loved me.	Jos šeima mane mylėjo.
 eng	lit	Her hat looked funny.	Jos skrybelė atrodė juokingai.
 eng	lit	Her hat looked very funny.	Jos kepurė atrodė labai juokingai.
 eng	lit	Her hat looked very funny.	Jos skrybelė atrodė labai juokingai.
+eng	lit	Her phone is turned off, so I can't reach her.	Jos telefonas išjungtas, tai negaliu susiekti su ja.
 eng	lit	Her room has red walls.	Jos kambario sienos yra raudonos.
 eng	lit	Her students study too much.	Jos mokiniai per daug mokosi.
 eng	lit	Her sweater is purple.	Jos megztinis yra violetinis.
@@ -572,8 +580,10 @@ eng	lit	How do you explain it?	Kaip tu tai paaiškintum?
 eng	lit	How do you like this town?	Ar tau patinka šis miestas?
 eng	lit	How do you say this word?	Kaip šis žodis tariamas?
 eng	lit	However badly you want it, it will never happen.	Kad ir kaip tu šito norėtum, tai niekada neatsitiks.
+eng	lit	However, my shoulder hurts.	Tačiau man skauda petį.
 eng	lit	How long ago did you start learning Esperanto?	Kaip seniai pradėjai mokytis esperantų kalbos?
 eng	lit	How long did you live there?	Kiek laiko ten gyvenai?
+eng	lit	How long is the surgery?	Kiek laiko trunka operacija?
 eng	lit	How long will it take?	Kaip ilgai tai užtruks?
 eng	lit	How many hours a week do you work?	Kiek valandų per savaitę dirbate?
 eng	lit	How many times a month do you write letters?	Kiek kartų per mėnėsį tu rašai laiškus?
@@ -606,6 +616,7 @@ eng	lit	I am learning two foreign languages.	Aš mokausi du užsienio kalbas.
 eng	lit	I am listening to the radio.	Klausausi radijo.
 eng	lit	I am more beautiful than you.	Esu gražesnė už tave.
 eng	lit	I am no longer tired.	Nebesu pavargusi.
+eng	lit	I am not authorized to negotiate.	Aš neįgaliotas vesti derybas.
 eng	lit	I am not nice, I am merciful.	Aš nesu gera, aš esu gailėstinga.
 eng	lit	I am not studying now.	Aš dabar nestudijuoju.
 eng	lit	I am ready to die.	Aš pasirengusi mirti.
@@ -661,6 +672,7 @@ eng	lit	I can't remember where I put the good sewing machine.	Aš negaliu prisim
 eng	lit	I can't see anything from here.	Aš iš čia nieko nematau.
 eng	lit	I can't tell who will arrive first.	Aš negaliu pasakyti kas atvyks pirmas.
 eng	lit	I can't tell you everything.	Aš negaliu tau visko pasakyti.
+eng	lit	I can't trust you any more.	Aš nebegaliu tavimi pasitikėti.
 eng	lit	I can't understand anything that foreigner says.	Aš nieko negaliu suprasti iš to, ką sako užsienietis.
 eng	lit	I can't understand why he did that.	Aš negaliu suprasti kodėl jis tą padarė.
 eng	lit	I can't work with you standing there.	Aš negaliu dirbti kai tu ten stovi.
@@ -672,6 +684,8 @@ eng	lit	I count to ten.	Aš skaičiuoju iki dešimties.
 eng	lit	I'd be very grateful if you could help me.	Būčiau labai dėkingas jei tu galėtum man padėti.
 eng	lit	I decided to be happy because it's good for my health.	Nusprendžiau būti laiminga, nes tai gerai mano sveikatai.
 eng	lit	I deny everything.	Aš neigiu viską.
+eng	lit	I did not vote.	Aš nebalsavau.
+eng	lit	I didn't find your book.	Aš jūsų knygos neradau.
 eng	lit	I didn't know what to say.	Aš nežinojau ką pasakyti.
 eng	lit	I didn't need to paint the fence.	Man nereikėjo dažyti tvoros.
 eng	lit	I didn't say anything wrong.	Aš nieko blogo nepasakiau.
@@ -706,11 +720,14 @@ eng	lit	I don't have your address.	Aš neturiu jūsų adreso.
 eng	lit	I don't know anything about that.	Aš nieko nežinau apie tai.
 eng	lit	I don't know English.	Aš nemoku anglų kalbos.
 eng	lit	I don't know everything about the event.	Aš nežinau visko apie tą įvykį.
+eng	lit	I don't know my neighbours.	Aš nežinau savo kaimynų.
 eng	lit	I don't know the way home.	Aš nežinau kelio namo.
+eng	lit	I don't know, Tom.	Aš nežinau, Tomai.
 eng	lit	I don't know where I should look.	Aš nežinau kur man reikia žiūrėti.
 eng	lit	I don't know where to go.	Aš nežinau kur eiti.
 eng	lit	I don't know whether to turn left or right.	Aš nežinau ar pasukti į kairę ar į dešinę.
 eng	lit	I don't like any of these paintings.	Man nepatinka nė vienas iš šių paveikslų.
+eng	lit	I don't like eating tomatoes.	Aš nemėgstu valgyti pomidorų.
 eng	lit	I don't like people who get angry easily.	Man nepatinka žmonės kurie lengvai įpyksta.
 eng	lit	I don't like people who get angry easily.	Man nepatinka žmonės kurie lengvai supyksta.
 eng	lit	I don't like school.	Nemėgstu mokyklos.
@@ -837,6 +854,7 @@ eng	lit	I haven't told him anything.	Aš jam nieko nesakiau.
 eng	lit	I have one brother.	Aš turiu vieną brolį.
 eng	lit	I have printed 100 pages.	Aš išspausdinau šimtą puslapių.
 eng	lit	I have several good friends.	Aš turiu keletą gerų draugų.
+eng	lit	I have so many books, but I haven't read a single one.	Aš turiu tiek daug knygų, bet dar nei vienos neperskaičiau.
 eng	lit	I have the same dictionary as your brother has.	Aš turiu tokį patį žodyną, kaip tavo brolis.
 eng	lit	I have time, so I'll do it.	Aš turiu laiko, taigi aš tą padarysiu.
 eng	lit	I have to answer his letter.	Aš turiu atsakyti į šį laišką.
@@ -891,6 +909,9 @@ eng	lit	I like this music.	Man patinka ši muzika.
 eng	lit	I like this scene in particular.	Man ypač patinka ši scena.
 eng	lit	I like your cat, but she doesn't like me.	Aš mėgstu tavo katę, bet ji nemėgsta manęs.
 eng	lit	I live in Athens.	Aš gyvenu Atėnuose.
+eng	lit	I live in Cardiff.	Aš gyvenu Kardife.
+eng	lit	I live in England.	Aš gyvenu Anglijoje.
+eng	lit	I live in Newport.	Aš gyvenu Niuporte.
 eng	lit	I live with my parents.	Aš gyvenu kartu su tėvais.
 eng	lit	I'll assist you.	Aš padėsiu tau.
 eng	lit	I'll be back.	Aš sugrįšiu.
@@ -973,6 +994,7 @@ eng	lit	I'm not absolutely sure.	Nesu visiškai tikra.
 eng	lit	I'm not afraid at all.	Aš visiškai nebijau.
 eng	lit	I'm not a liar.	Aš ne melagė.
 eng	lit	I'm not a liar.	Aš ne melagis.
+eng	lit	I'm not a machine.	Aš ne mašina.
 eng	lit	I'm not a squirrel.	Aš ne voverė.
 eng	lit	I'm not at all hungry.	Aš visai ne alkana.
 eng	lit	I'm not blind.	Aš ne akla.
@@ -1017,6 +1039,7 @@ eng	lit	In case anything happens, call me immediately.	Jei kas nors atsitiks, sk
 eng	lit	In case of fire, break the glass and push the red button.	Gaisro atveju, išdaužkite stiklą ir nuspauskite raudoną mygtuką.
 eng	lit	I need a room.	Man reikia kambario.
 eng	lit	I need a stamp.	Man reikia pašto ženklelio.
+eng	lit	I need to buy a new backpack.	Man reikia nusipirkti naują kuprinę.
 eng	lit	I need to get something out of the car.	Aš turiu kai ką pasiimti iš automobilio.
 eng	lit	I never expected to meet her in a place like that.	Aš niekada nesitikėjau sutikti ją tokioje vietoje.
 eng	lit	I never had the courage to open it.	Aš niekada neturėjau drąsos tai atidaryti.
@@ -1038,7 +1061,9 @@ eng	lit	I ordered new furniture.	Užsisakiau naujus baldus.
 eng	lit	I own one cat.	Aš turiu vieną katę.
 eng	lit	I pretended not to understand what he was saying.	Aš apsimečiau nesuprantanti ką jis sakė.
 eng	lit	I ran to my mother.	Aš nubėgau pas savo motiną.
+eng	lit	Iraq has two official languages.	Irake yra dvi oficialios kalbos.
 eng	lit	I read four new books.	Aš perskaičiau keturias naujas knygas.
+eng	lit	I really like this answer.	Man labai patinka šis atsakymas.
 eng	lit	I received the hospitality of the family.	Šeima man buvo labai svetinga.
 eng	lit	I recommend it strongly.	Aš stipriai tą rekomenduoju.
 eng	lit	I refuse to answer.	Aš atsisakau atsakyti.
@@ -1059,6 +1084,7 @@ eng	lit	Is Borneo an island or a continent?	Ar Borneo yra sala ar žemynas?
 eng	lit	Is eating fish good for you?	Ar yra sveika valgti žuvis?
 eng	lit	I see and hear.	Aš matau ir girdžiu.
 eng	lit	I should have come earlier.	Man reikėjo ateiti anksčiau.
+eng	lit	Is it colder in Boston than in Chicago?	Ar Bostone šalčiau negu Čikagoje?
 eng	lit	Is it similar to what he did yesterday?	Ar tai panašu į tą ką jis padarė vakar?
 eng	lit	I slipped and fell down the stairs.	Aš paslydau ir nukritau nuo laiptų.
 eng	lit	Is Miss Smith an English teacher?	Ar panelė Smif yra anglų kalbos mokytoja?
@@ -1107,6 +1133,7 @@ eng	lit	I think Tom is going to try to kill Mary.	Aš manau kad Tomas ketina nu�
 eng	lit	I think Tom is going to want to sit down.	Aš manau kad Tomas norės atsisėsti.
 eng	lit	I think we should call Tom.	Aš manau, kad turime paskambinti Tomui.
 eng	lit	I think you should visit him.	Aš manau kad tu turėtum jį aplankyti.
+eng	lit	I thought both sentences were correct.	Aš maniau, kad abu sakiniai teisingi.
 eng	lit	I thought she was 30 at most.	Galvojau, kad jai daugiausiai trisdešimt metų.
 eng	lit	I thought there was nobody in the kitchen.	Aš maniau kad virtuvėje nieko nebuvo.
 eng	lit	I thought we were going to go somewhere.	Aš maniau kad mes ketinome kažkur eiti.
@@ -1157,6 +1184,7 @@ eng	lit	It's clear from his actions that he loves her.	Iš jo veiksmų yra aišk
 eng	lit	It's clear that he doesn't want to talk to me.	Yra aišku kad jis nenori su manimi kalbėti.
 eng	lit	It's clear that he's rich.	Yra aišku kad jis yra turtingas.
 eng	lit	It's clear that you're wrong.	Aišku kad tu esi neteisus.
+eng	lit	It's complicated, right?	Tai sudėtinga, tiesa?
 eng	lit	It seems to me that the train is late.	Man atrodo kad traukinys vėluoja.
 eng	lit	It's exactly half-past eight.	Lygiai pusė devynių.
 eng	lit	It's great out here.	Čia puiku.
@@ -1206,6 +1234,7 @@ eng	lit	I've made the same mistakes as I made last time.	Aš padariau tas pačia
 eng	lit	I've never believed that.	Aš niekuomet netikėjau tuo.
 eng	lit	I've never even had a girlfriend.	Aš niekada neturėjau merginos.
 eng	lit	I've never seen a house without a door.	Aš niekada nemačiau namo be durų.
+eng	lit	I voted "remain".	Aš balsavau už pasilikimą.
 eng	lit	I waited for him at the station for an hour, but he didn't show up.	Laukiau jo stotyje valandą laiko, bet jis nepasirodė.
 eng	lit	I want a dog.	Aš noriu šuns.
 eng	lit	I want a guitar.	Noriu gitaros.
@@ -1243,6 +1272,7 @@ eng	lit	I was very tired.	Buvau labai pavargusi.
 eng	lit	I was wrong.	Aš buvau neteisi.
 eng	lit	I went to sleep during the lesson.	Aš užmigau per pamoką.
 eng	lit	I will be gone by the time she comes back.	Kai ji grįš, manęs jau čia nebus.
+eng	lit	I will buy a new car.	Aš nusipirksiu naują mašiną.
 eng	lit	I will get up early tomorrow.	Rytoj aš kelsiuosi anksti.
 eng	lit	I will go to France on holiday.	Aš važiuosiu į Prancūziją atostogauti.
 eng	lit	I will go to France on holiday.	Važiuosiu į Prancūziją atostogauti.
@@ -1286,6 +1316,7 @@ eng	lit	Left to himself, the child would feel very lonely.	Paliktas vienas, vaik
 eng	lit	Less is more.	Mažiau yra daugiau.
 eng	lit	Less words, more action.	Mažiau kalbų, daugiau darbų.
 eng	lit	Let me do this.	Leisk man tą padaryti.
+eng	lit	Let me explain the situation to them.	Leisk man jiems paaiškinti situaciją.
 eng	lit	Let me speak to her.	Leiskite man su ja pasikalbėti.
 eng	lit	Let people live peacefully!	Leiskite žmonėms ramiai gyventi!
 eng	lit	Let's all just calm down.	Visi tesiog nusiraminkime.
@@ -1346,6 +1377,7 @@ eng	lit	Mike can't play baseball well.	Maikas nemoka gerai žaisti beisbolo.
 eng	lit	Mike has a couple of friends in Florida.	Maikas turi kelis draugus Floridoje.
 eng	lit	Millie is eating an apple.	Milė valgo obuolį.
 eng	lit	Millie isn't eating an apple.	Milė nevalgo obuolio.
+eng	lit	Millie's got blue eyes.	Milė turi mėlynas akis.
 eng	lit	Miss Red taught me Japanese.	Panelė Red mokė manęs japonų kalbos.
 eng	lit	Monday comes after Sunday.	Pirmadienis ateina po sekmadienio.
 eng	lit	Money talks.	Pinigai šneka.
@@ -1384,6 +1416,7 @@ eng	lit	My friend is here.	Mano draugas čia yra.
 eng	lit	My friend is seventeen.	Mano draugei septyniolika metų.
 eng	lit	My friend is seventeen.	Mano draugui septyniolika metų.
 eng	lit	My friends are amazing.	Mano draugai yra nuostabūs.
+eng	lit	My friends like to play piano.	Mano draugams patinka groti pianinu.
 eng	lit	My glass is empty.	Mano stiklinė tuščia.
 eng	lit	My God, help me!	Dieve, padėk man!
 eng	lit	My grandfather raises ducks.	Mano senelis augina antis.
@@ -1398,6 +1431,7 @@ eng	lit	My mother is dead too.	Mano motina irgi yra mirusi.
 eng	lit	My mother left me a message.	Mano motina paliko man žinutę.
 eng	lit	My mum doesn't know him at all.	Mano mama visai jo nepažįsta.
 eng	lit	My mum has three dogs.	Mano mama turi tris šunis.
+eng	lit	My name is Marina.	Mano vardas Marina.
 eng	lit	My name is Sally.	Mano vardas yra Sally.
 eng	lit	My name's Ricardo.	Mano vardas Ricardo.
 eng	lit	My sister likes sweets.	Mano sesuo mėgsta saldumynus.
@@ -1486,6 +1520,7 @@ eng	lit	Please bring me a glass of water.	Prašyčiau atnešti man stiklinę van
 eng	lit	Please come.	Prašau ateiti.
 eng	lit	Please continue.	Prašau tęsti.
 eng	lit	Please drive carefully.	Prašau vairuok atsargiai.
+eng	lit	Please forgive me for my poor handwriting.	Prašau atleisti už mano prastą rašyseną.
 eng	lit	Please get in touch with me as soon as you arrive in Boston.	Prašau susisiekti su manimi, kuomet atvyksite į Bostoną.
 eng	lit	Please get in touch with me as soon as you arrive in Boston.	Prašau susisiekti su manimi, kuomet jūs atvyksite į Bostoną.
 eng	lit	Please help me. I'm dying.	Prašau, padėk man! Aš mirštu!
@@ -1500,6 +1535,7 @@ eng	lit	Please wait five minutes.	Prašau palauk penkias minutes.
 eng	lit	Please wait until I come back.	Prašau palauk kol aš grįšiu.
 eng	lit	Pollution causes damage to the economy.	Tarša daro žalą ekonomikai.
 eng	lit	Poor cat.	Vargšė katė.
+eng	lit	Portugal is a country.	Portugalija yra šalis.
 eng	lit	Probably not.	Turbūt ne.
 eng	lit	Put on your shoes. Let's go out for dinner.	Apsiauk batus. Eikime pietauti.
 eng	lit	Put the book back on the shelf.	Padėk tą knygą atgal ant lentynos.
@@ -1531,6 +1567,7 @@ eng	lit	She can speak.	Ji gali kalbėti.
 eng	lit	She continued her talk.	Ji tęsė savo kalbą.
 eng	lit	She cursed him for forgetting his promise.	Ji keikė jį už tai kad jis pamiršo pažadą.
 eng	lit	She cursed loudly.	Ji garsiai keikėsi.
+eng	lit	She decided to move to Belgium.	Ji nusprendė persikelti į Belgiją.
 eng	lit	She didn't like city life.	Ji nemėgo gyvenimo mieste.
 eng	lit	She died of shock.	Ji mirė nuo šoko.
 eng	lit	She disappeared.	Ji pradingo.
@@ -1657,6 +1694,7 @@ eng	lit	Something tells me that you're hiding something.	Kažkas man sako kad tu
 eng	lit	Sometimes I say "yes," even though I want to say "no."	Kartais aš pasakau "taip", nors ir noriu pasakyti "ne".
 eng	lit	Sooner or later, we all are going to die.	Anksčiau ar vėliau mes visi mirsime.
 eng	lit	Sorry, I don't think I'm gonna be able to.	Atsiprašau, nemanau kad aš galėsiu.
+eng	lit	Stalinism is racism.	Stalinizmas yra rasizmas.
 eng	lit	Start writing.	Pradėk rašyti.
 eng	lit	Stay away from that place.	Laikykis atokiai nuo tos vietos.
 eng	lit	Stay here with us.	Pasilik čia su mumis.
@@ -1669,6 +1707,8 @@ eng	lit	Stop!	Stok!
 eng	lit	Stop them.	Sustabdykite juos.
 eng	lit	Stop wasting time and get back to work.	Nusutok švaistyti laiką ir grįžk prie darbo.
 eng	lit	Students study in school.	Mokiniai mokosi mokykloje.
+eng	lit	Superman can bend iron.	Antžmogis gali lankstyti geležį.
+eng	lit	Superman can bend iron.	Antžmogis gali lenkti geležį.
 eng	lit	Sure. Do you know a good place?	Žinoma. Ar žinai gerą vietelę?
 eng	lit	Sweet dreams!	Saldžių sapnų!
 eng	lit	Switch on the light. I can't see anything.	Įjunk šviesą. Nieko nematau.
@@ -1734,6 +1774,7 @@ eng	lit	The brown hat is old.	Ta ruda kepurė yra sena.
 eng	lit	The cake is tasty.	Šis tortas yra skanus.
 eng	lit	The calculator is a wonderful invention.	Kalkuliatorius yra puikus išradimas.
 eng	lit	The candles made the room bright.	Žvakės apšvietė kambarį.
+eng	lit	The capital of Latvia is Riga.	Latvijos sostinė yra Ryga.
 eng	lit	The capital of Mexico is the largest city in Latin America.	Meksikos sostinė yra didžiausias miestas Lotynų Amerikoje.
 eng	lit	The capital of Sweden is Stockholm.	Švedijos sostinė yra Stokholmas.
 eng	lit	The car is blue.	Automobilis yra mėlynas.
@@ -1798,7 +1839,9 @@ eng	lit	The picture is in this book.	Nuotrauka yra šioje knygoje.
 eng	lit	The policeman demanded their names and addresses.	Policininkas pareikalavo jų vardų ir adresų.
 eng	lit	The pot calls the kettle black.	Juokiasi puodas, kad katilas juodas.
 eng	lit	The President died unexpectedly.	Prezidentas mirė netikėtai.
+eng	lit	The president likes to travel.	Prezidentei patinka keliauti.
 eng	lit	The price is right.	Teisinga kaina.
+eng	lit	The problem is that I don't have time for that.	Problema ta, kad aš neturiu tam laiko.
 eng	lit	The professor calmly washed his hands.	Profesorius ramiai išsiplovė savo rankas.
 eng	lit	The pupil was punished for smoking.	Mokinys buvo nubaustas už rūkymą.
 eng	lit	The queen stood beside the king.	Karalienė stovėjo prie karaliaus.
@@ -1888,6 +1931,7 @@ eng	lit	The woman reads English.	Ta moteris skaito angliškai.
 eng	lit	The woman wants to know the truth.	Moteris nori žinoti tiesą.
 eng	lit	The world is full of dumb people.	Pasaulis yra pilnas kvailų žmonių.
 eng	lit	They already have three cats, they don't need another one.	Jie jau turi tris kates, jiems dar viena nėra reikalinga.
+eng	lit	They are always right.	Jie yra visada teisūs.
 eng	lit	They are going shopping.	Jie eina apsipirkti.
 eng	lit	They are much taller than us.	Jie už mus kur kas aukštesni.
 eng	lit	They are not little children.	Jie ne maži vaikai.
@@ -1902,6 +1946,7 @@ eng	lit	They do nothing but complain.	Jie daugiau nieko nedaro tik skundžiasi.
 eng	lit	They don't have any sugar any more.	Jie jau nebeturi cukraus.
 eng	lit	They don't help.	Jie nepadeda.
 eng	lit	The years pass by quickly.	Metai praeina greitai.
+eng	lit	They eat and drink.	Jie valgo ir geria.
 eng	lit	They had trouble finding the place.	Jiem nesisekė rasti tos vietos.
 eng	lit	They have to be awake by 5:00 a.m. tomorrow.	Jie turi būti atsikėlę rytoj 5 ryto.
 eng	lit	They missed a good chance.	Jie praleido puikią progą.
@@ -2024,6 +2069,7 @@ eng	lit	Tom does not love cheese.	Tomas nemėgsta sūrio.
 eng	lit	Tom doesn't drink coffee, but he smokes cigarettes.	Tomas negeria kavos, bet jis rūko cigaretes.
 eng	lit	Tom doesn't eat much meat.	Tomas nevalgo daug mėsos.
 eng	lit	Tom doesn't know if Mary will go camping with us or not.	Tomas nežino, ar Merė stovyklaus kartu su mumis ar ne.
+eng	lit	Tom doesn't know that I am here.	Tomas nežino, kad aš čia esu.
 eng	lit	Tom doesn't know the difference between a star and a planet.	Tomas nežino skirtumo tarp žvaigždės ir planetos.
 eng	lit	Tom doesn't know what Mary's shoe size is.	Tomas nežino Merės batų dydžio.
 eng	lit	Tom doesn't know whether to turn left or right.	Tomas nežino ar pasukti į kairę ar į dešinę.
@@ -2070,6 +2116,7 @@ eng	lit	Tom is the captain of our team.	Tomas yra mūsų komandos kapitonas.
 eng	lit	Tom is thinking of selling his house.	Tomas galvoja parduoti namą.
 eng	lit	Tom is very rich.	Tomas labai turtingas.
 eng	lit	Tom is your heir.	Tomas yra tavo įpėdinis.
+eng	lit	Tom knows nothing about politics.	Tomas politikoje nieko neišmano.
 eng	lit	Tom knows that I don't like him.	Tomas žino, kad aš jo nemėgstu.
 eng	lit	Tom knows that Mary likes him.	Tomas žino, kad patinka Merei.
 eng	lit	Tom knows too much.	Tomas per daug žino.
@@ -2080,6 +2127,7 @@ eng	lit	Tom likes lacrosse.	Tomas mėgsta lakrosą.
 eng	lit	Tom likes to knit.	Tomui patinka megzti.
 eng	lit	Tom likes you.	Jūs patinkate Tomui.
 eng	lit	Tom likes you.	Tu patinki Tomui.
+eng	lit	Tom lives in England.	Tomas gyvena Anglijoje.
 eng	lit	Tom'll pay.	Tomas sumokės.
 eng	lit	Tom looks ill.	Tomas atrodo ligotas.
 eng	lit	Tom looks sick.	Tomas atrodo ligotas.
@@ -2103,6 +2151,7 @@ eng	lit	Tom still doesn't look too interested.	Tomas vis dar neatrodo susidomėj
 eng	lit	Tom sure can play tennis.	Tomas tikrai gali žaisti tenisą.
 eng	lit	Tom's wife left him in 2013.	Tomo žmona jį paliko 2013.
 eng	lit	Tom took his family to the zoo.	Jis nusivedė šeimą į zoologijos sodą.
+eng	lit	Tom tried to catch the children's attention.	Tomas mėgino patraukti vaikų dėmesį.
 eng	lit	Tom usually only reads the headlines.	Paprastai Tomas skaito tik antraštes.
 eng	lit	Tom was alone most of the time.	Tomas dažniausiai buvo vienas.
 eng	lit	Tom was harsh.	Tomas buvo grubus.
@@ -2157,6 +2206,7 @@ eng	lit	We arranged the books according to size.	Mes suorganizavome knygas pagal
 eng	lit	We asked Tom about the list.	Mes paklausėme Tomo apie sąrašą.
 eng	lit	We ate a whole load of apples.	Mes suvalgėme labai daug obuolių.
 eng	lit	We believe in God.	Mes tikime Dievu.
+eng	lit	We can't find the virus in your blood.	Negalime rasti viruso jūsų kraujyje.
 eng	lit	We can't trust what she says.	Mes negalime pasitikėti tuo ką ji sako.
 eng	lit	We carry the responsibility for the losses.	Mes esame atsakingi už nuostolius.
 eng	lit	We could not find out her address.	Mes negalėjome sužinoti jos adreso.
@@ -2166,6 +2216,7 @@ eng	lit	We don't have sugar.	Mes neturime cukraus.
 eng	lit	We eat fish raw.	Mes valgome žalią žuvį.
 eng	lit	We had a good opinion of your son.	Mes turime gerą nuomonę apie tavo sūnų.
 eng	lit	We had a wonderful time.	Mes puikiai praleidome laiką.
+eng	lit	We have a white puppy.	Mes turime baltą šuniuką.
 eng	lit	We have enough water.	Mes turime pakankamai vandens.
 eng	lit	We have experienced many changes over the last decade.	Paskutinį dešimtmetį mes patyrėme daug permainų.
 eng	lit	We have to get the hell out of here.	Mes turime iš čia varyti.
@@ -2184,6 +2235,7 @@ eng	lit	We made an attempt to climb up a tree.	Mes pabandėme užlipti ant medž
 eng	lit	We made some squirrel-shaped cookies.	Mes pagaminom voverių formos sausainių.
 eng	lit	We make milk into cheese and butter.	Iš pieno mes gaminame sūrį ir sviestą.
 eng	lit	We may as well all go.	We may as well all go
+eng	lit	We need a surgeon.	Mums reikia chirurgo.
 eng	lit	We need more sugar.	Mums reikia dar daugiau cukraus.
 eng	lit	We persuaded him to change his mind.	Mes įkalbėjome jį pakeisti savo nuomonę.
 eng	lit	We played basketball yesterday.	Mes vakar žaidėme krepšinį.
@@ -2224,11 +2276,13 @@ eng	lit	What are you two doing?	Ką judu veikiate?
 eng	lit	What a wonderful family.	Kokia puiki šeima.
 eng	lit	What a wonderful night!	Kokia puiki naktis!
 eng	lit	What colour are her eyes?	Kokios spalvos jos akys?
+eng	lit	What colour are Tom's eyes?	Kokios spalvos yra Tomo akys?
 eng	lit	What colour is the car which she bought for herself?	Kokios spalvos automobilį ji sau nusipirko?
 eng	lit	What did he do to my meat?	Ką jis padarė su mano mėsa?
 eng	lit	What did I do to deserve this?	Ką tu padarei kad šito nusipelnytum?
 eng	lit	What did you buy for your boyfriend?	Ką tu nupirkai savo vaikinui?
 eng	lit	What did you do that for?	Kodėl tu tą padarei?
+eng	lit	What did you say? Could you repeat it?	Ką tu pasakei? Gali pakartoti?
 eng	lit	What does he say in his letter?	Ką jis rašo laiške?
 eng	lit	What does it mean?	Ką tai reiškia?
 eng	lit	What does it remind you of?	Ką jums tai primena?
@@ -2250,6 +2304,7 @@ eng	lit	What happened?	Kas nutiko?
 eng	lit	What have you come here for?	Kam čia atėjai?
 eng	lit	What is he after?	Ko jam reikia?
 eng	lit	What is the capital of Greece?	Kokia yra graikijos sostinė?
+eng	lit	What is the color of the cheese?	Kokia to sūrio spalva?
 eng	lit	What is the strangest thing you've ever eaten?	Koks yra keisčiausias dalykas, kurį tau kada nors yra tekę valgyti?
 eng	lit	What is this animal called in Japanese?	Kaip šis gyvūnas vadinasi Japoniškai?
 eng	lit	What?	Kas?
@@ -2289,6 +2344,7 @@ eng	lit	When I came to the school, there was nobody there anymore.	Kai aš atėj
 eng	lit	When I look of this photo I remember my family.	Kai aš žiūriu į šitą nuotrauką, aš prisimenu savo šeimą.
 eng	lit	When is the ship due to arrive?	Kada turėtų atplaukti laivas?
 eng	lit	When spring comes, the days get longer day by day.	Kai ateina pavasaris, dienos tampa ilgesnės diena po dienos.
+eng	lit	When the police entered the room, Tom was holding a bloody knife in his hand.	Kai policininkai įėjo į kambarį, Tomas rankoje laikė kruviną peilį.
 eng	lit	When was the last time you saw Tom?	Kada buvo paskutinis kartas kai tu matei Tomą?
 eng	lit	When we go to bed, we say "good night".	Kai einame miegoti, sakome "labanakt".
 eng	lit	When will the snow melt?	Kada ištirps sniegas?
@@ -2364,6 +2420,7 @@ eng	lit	Why do you need a new umbrella?	Kam tau reikalingas naujas skėtis?
 eng	lit	Why do you want to die?	Kodėl tu nori mirti?
 eng	lit	Why do you want to know what I'm thinking?	Kodėl tu nori žinoti ką aš galvoju?
 eng	lit	Why isn't Tom in the car?	Kodėl Tomo nėra mašinoje?
+eng	lit	Why is the soap on the table?	Kodėl muilas ant stalo?
 eng	lit	Why is your cat so big?	Kodėl tavo katinas yra toks didelis?
 eng	lit	Why me?	Kodėl aš?
 eng	lit	Why won't he listen to me?	Kodėl jis manęs neklausys?

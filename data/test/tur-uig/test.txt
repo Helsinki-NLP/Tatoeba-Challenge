@@ -207,8 +207,6 @@ tur	uig_Arab	Bill matematikte iyidir.	بىل ماتېماتىكىدا يامان
 tur	uig_Arab	Bilmem.	بىلمەيمەن.
 tur	uig_Arab	Bilmiyorum.	بىلمەيمەن.
 tur	uig_Arab	Binlerce kişi oradaydı.	مىڭلارچە كىشى ئۇ يەردە ئىدى.
-tur	uig_Arab	Bırak gitsin!	كەتكىلى قوي.
-tur	uig_Arab	Bırak öleyim.	مەن ئۆلەي.
 tur	uig_Arab	Biraz daha kahve alabilir miyim?	يەنە بىراز قەھۋە سورىسام بولامدۇ؟
 tur	uig_Arab	Biraz egzersiz yapmalısın.	بىرئاز چېنىقىشىڭ كېرەك.
 tur	uig_Arab	Biraz ihtiyacın varsa sana biraz ödünç para verebilirim.	ئەگەر ئىھتىياجىڭ بولسا ساڭا ئازراق پۇل ئۆتنە بېرەلەيمەن.
@@ -252,6 +250,8 @@ tur	uig_Arab	Biz talebi karşılamak zorundayız.	ئىھتىياجنى قاند�
 tur	uig_Arab	Biz uçakla Meksika'ya gittik.	بىز ئايروپىلاندا مىكسىكىغا باردۇق.
 tur	uig_Arab	Biz uzun süredir arkadaşız.	بىز ئۇزۇن يىللىق دوست.
 tur	uig_Arab	Biz zor bir durumdayız.	بىز قېيىنچىلىقتا تۇرىۋاتىمىز.
+tur	uig_Arab	Bırak gitsin!	كەتكىلى قوي.
+tur	uig_Arab	Bırak öleyim.	مەن ئۆلەي.
 tur	uig_Arab	Boş yeriniz var mı?	بوش يېرىڭىز بارمۇ؟
 tur	uig_Arab	Böyleymiş, işte.	شۇنداق ئىكەن-دە.
 tur	uig_Arab	Bu adam dostunuz mudur?	بۇ ئادەم دوستىڭىزمىدۇ؟
@@ -414,8 +414,8 @@ tur	uig_Arab	Deniz mahsullerini yemekten çok hoşlanırım.	دېڭىز مەھس
 tur	uig_Arab	Derhal istifa etmeyi düşünüyorum.	دەرھال ئىستىپا بېرىشنى ئويلايمەن.
 tur	uig_Arab	Derhal kalk, yoksa okula geç kalacaksın.	دەرھال تۇر،بولمىسا مەكتەپكە كەچ قالىسەن.
 tur	uig_Arab	Derhal Tom'u arayın.	دەرھال تومغا تېلېفۇن قىل.
-tur	uig_Arab	Dışarı çıkmak yerine evde kaldım.	سىرتقا چىقىشنىڭ ئورنىغا ئۆيدە قالدىم.
 tur	uig_Arab	Diyetimden sonra yeni elbiseler aldım.	ئورۇقلىغاندىن كېيىن يېڭى كىيىملەر ئالدىم.
+tur	uig_Arab	Dışarı çıkmak yerine evde kaldım.	سىرتقا چىقىشنىڭ ئورنىغا ئۆيدە قالدىم.
 tur	uig_Arab	Doğru mudur?	راستمۇ؟
 tur	uig_Arab	Dolkun da gelmiş, işte.	دولقۇنمۇ كەپتۇ-دە!
 tur	uig_Arab	Dolu yağıyor.	مۆلدۈر يېغىۋاتىدۇ.
@@ -568,8 +568,8 @@ tur	uig_Arab	İngilizce dersimizi izlemek ister misin?	ئىنگلىزچە دەر
 tur	uig_Arab	İngilizce zordur, değil mi?	ئىنگىلىزچە تەس شۇنداقمۇ؟
 tur	uig_Arab	İnsanlar Mısır'da ne yerler?	مىسىردا ئادەملەر نېمە يەيدۇ؟
 tur	uig_Arab	İşe geri git.	ئىشىڭغا قايىت.
-tur	uig_Arab	Işığı açık bırakmamı ister misiniz?	چىراقنى يېنىق پېتى قويامدىم.
 tur	uig_Arab	İşinden ayrılmaya karar verdiğinden dolayı mutlu görünüyorsun.	خىزمىتىڭىدىن ئىستىپا بېرىشنى قارارقىلغىنىڭدىن خۇشال كۆرۈنىسەن.
+tur	uig_Arab	Işığı açık bırakmamı ister misiniz?	چىراقنى يېنىق پېتى قويامدىم.
 tur	uig_Arab	İşte böyle imiş!	شۇنداق ئىكەن-دە!
 tur	uig_Arab	İstediğin herhangi bir şeyi al.	خالىغىنىڭنى ئال.
 tur	uig_Arab	İstediğin kadar şeftali al.	شاپتۇلنى خالىغىنىڭچە ئال.
@@ -618,11 +618,11 @@ tur	uig_Arab	Kim golf oynar?	كىم گولف ئوينايدۇ؟
 tur	uig_Arab	Kim gülüyor?	كىم كۈلىۋاتىدۇ؟
 tur	uig_Arab	Kiminle gideceksin?	كىم بىلەن كېتىسەن؟
 tur	uig_Arab	Kimin ne çaldığını bile bilmiyorum.	كىمنىڭ نېمە ئوغۇرلىغىنىنى بىلمەيمەن.
-tur	uig_Arab	Kısa etek modadan kalktı.	قىسقا يوپكا مودادىن قالدى.
-tur	uig_Arab	Kış boyunca kayak yapmaya gitti.	ئۇ قىش بويى قار تىيىلغىلى باردى.
 tur	uig_Arab	Kişisel bilgisayarlar çok kullanışlıdır.	شەخىسلەر كومپىيۇتېرى بەك ئەسقاتىدۇ.
 tur	uig_Arab	Kitabı Fransızcadan İngilizceye çevirdi.	ئۇ كىتابنى فرانسۇزچىدىن ئىنگلىزچىگە ئۆرىدى.
 tur	uig_Arab	Kitapları indirmeyi severim.	كىتاب چۈشۈرۈشنى ياقتۇرىمەن.
+tur	uig_Arab	Kısa etek modadan kalktı.	قىسقا يوپكا مودادىن قالدى.
+tur	uig_Arab	Kış boyunca kayak yapmaya gitti.	ئۇ قىش بويى قار تىيىلغىلى باردى.
 tur	uig_Arab	Kıyafet almayı severim.	كىيىم سېتىۋېلىشنى ياقتۇرىمەن.
 tur	uig_Arab	Kıyafetlerimi değiştirmeyi severim.	كىيىملىرىمنى يەڭگۈشلەشنى ياقتۇرىمەن.
 tur	uig_Arab	Kızımı seviyorum.	قىزىمنى سۆيىمەن.
@@ -870,10 +870,10 @@ tur	uig_Arab	Onlara yardım etmeyi düşünüyor musunuz?	ئۇلارغا يار�
 tur	uig_Arab	Onlar aynı sınıfta okuyacaklardı.	ئۇلار بىر سىنىپتا ئوقۇيتتى.
 tur	uig_Arab	Onlar daha çok istiyor.	ئۇلارغا تېخىمۇ كۆپ كېرەك.
 tur	uig_Arab	Onlar dinlemedi.	ئۇلار ئاڭلىمىدى.
-tur	uig_Arab	Onları bana ver.	ئۇلارنى ماڭا بەر.
 tur	uig_Arab	Onlar için yapabileceğimiz hiçbir şey yoktu.	بىز ئۇلار ئۈچۈن قىلىپ بېرىدىغان ھېچبىر ئىش يوقتى.
-tur	uig_Arab	Onların arabası hangisi?	ئۇلارنىڭ ماشىنىسى قايسىسى؟
 tur	uig_Arab	Onlar İngilizceyi seviyorlar.	ئۇلار ئىنگىلىزچىنى ياقتۇرىدۇ.
+tur	uig_Arab	Onları bana ver.	ئۇلارنى ماڭا بەر.
+tur	uig_Arab	Onların arabası hangisi?	ئۇلارنىڭ ماشىنىسى قايسىسى؟
 tur	uig_Arab	Onların hepsine sahibim.	مەندە ئۇلارنىڭ ھەممىسى بار.
 tur	uig_Arab	Onların hiçbirinden hoşlanmıyorum.	ئۇلارنىڭ ھېچبىرىنى ياقتۇرمايمەن.
 tur	uig_Arab	Onları uyarmalıyız.	ئۇلارنى ئاگاھلاندۇرىشىمىز كېرەك.
@@ -926,8 +926,8 @@ tur	uig_Arab	Onun iki kedisi var.	ئۇنىڭ ئىككى مۈشۈكى بار.
 tur	uig_Arab	Onun iyi bir kamerası var.	ئۇنىڭ ياخشى بىر رەسىم ئاپپاراتى بار.
 tur	uig_Arab	Onun kalbinin kırık olmaması için, ona bir dondurma alıp verdim.	ئۇنىڭ كۆڭلى يېرىم بولماسلىقى ئۈچۈن، ئۇنىڭغا بىر ماروژنى ئېلىپ بەردىم.
 tur	uig_Arab	Onunki değildi.	ئۇنىڭكى ئەمەستى.
-tur	uig_Arab	Onun kırmızı gülleri var.	ئۇنىڭ قىزىل گۈللىرى بار.
 tur	uig_Arab	Onun kitabından bir sayfa al.	ئۇنىڭ كىتابىدىن بىر سەھىپە ئال.
+tur	uig_Arab	Onun kırmızı gülleri var.	ئۇنىڭ قىزىل گۈللىرى بار.
 tur	uig_Arab	Onun kızıl gülleri var.	ئۇنىڭ قىزىل گۈللىرى بار.
 tur	uig_Arab	Onun kız kardeşi iyi bir aşçı gibi görünüyor.	ئۇنىڭ ئاچىسى(سىڭلىسى) ياخشى بىر ئاشپەزدەك قىلىدۇ.
 tur	uig_Arab	Onun kız kardeşine ne olduğunu merak ediyorum.	ئۇنىڭ ھەمشىرىسىگە نېمە بولغىنىنى بىلگۈم بار.
@@ -993,8 +993,8 @@ tur	uig_Arab	O, şafakta geldi.	ئۇ قاش قارايغاندا كەلدى.
 tur	uig_Arab	O sana kalmış.	ئۇ ساڭا مۇناسىۋەتلىك.
 tur	uig_Arab	O, seksenin üzerinde olmalı.	ئۇ چوقۇم 80نىڭ ئۈستۈندە.
 tur	uig_Arab	O, sen gittikten hemen sonra seni görmeye geldi.	سەن كېتىپلا ئۇ سېنى كۆرگىلى كەلدى.
-tur	uig_Arab	O sık sık gitar çalar.	ئۇ دائىم گىتار چالىدۇ.
 tur	uig_Arab	O şimdi bir mektup yazıyor.	ئۇ بىر پارچە سالام خەت يېزىۋاتىدۇ.
+tur	uig_Arab	O sık sık gitar çalar.	ئۇ دائىم گىتار چالىدۇ.
 tur	uig_Arab	O, sınıftaki herhangi bir diğer çocuk kadar akıllıdır.	ئۇ سىنىپتىكى ھەرقانداق بىر ئوقۇغۇچىدەك ئەقىللىق.
 tur	uig_Arab	O, soğuğa aşırı duyarlıdır.	ئۇ سوغۇققا بەك سەزگۈر.
 tur	uig_Arab	O, şoktan çıktı.	ئۇ ھۇشىغا كەلدى.
@@ -1103,14 +1103,11 @@ tur	uig_Arab	Seyahat de bir tür tatil.	ساياھەتمۇ بىر خىل دەم 
 tur	uig_Arab	Sigara içmek sizin için kötü.	تاماكا چېكىش سىز ئۈچۈن ياخشى ئەمەس.
 tur	uig_Arab	Sigara içmemek şartıyla.	تاماكا چەكمەسلىكىڭىز شەرت.
 tur	uig_Arab	Sigara içmemesi için onu uyardım.	ئۇنى سىگارت چەكمەسلىككە ئاگاھلاندۇردۇم.
-tur	uig_Arab	Sık sık dışarıda yer misin?	دائىم سىرتتا تاماق يەمسەن؟
 tur	uig_Arab	Şimdi bundan bahsetmek hala çok erken.	ھازىر بۇ ئىشنى سۆزلەشنىڭ ۋاقتى سائىتى تېخى كەلمىگەن.
 tur	uig_Arab	Şimdi ne oluyor?	ئەمدى نېمە بولىدۇ؟
 tur	uig_Arab	Şimdi, Ocak ayı geldi. Kar elbette yağar, ya.	ھازىر بىرىنچى ئاي بولدى، قار ئەلۋەتتە ياغىدۇ-دە.
-tur	uig_Arab	Sınıf haftada bir kez toplanır.	سىنىپ (تىكى ساۋاقداشلار)ھەپتىدە بىر قېتىم يىغىلىدۇ.
 tur	uig_Arab	Sinirimi bozmayın.	ئاچچىقمنى كەلتۈرمە.
 tur	uig_Arab	Sinirlenip durduğunuzu biliyorum.	خاپا بولۇپ كەتكىنىڭىزنى بىلىمەن.
-tur	uig_Arab	Sırada bir elma var.	جوزىدا بىر ئالما بار.
 tur	uig_Arab	Şirket ağabeyim tarafından yönetilir.	شىركەتنى ئاكام باشقۇرىدۇ.
 tur	uig_Arab	Siyah beyaz bir köpeğim var.	قارا ۋە ئاق ئىتىم بار.
 tur	uig_Arab	Siyah bir şapka takıyordu.	قارا بىر شەپكە كىيەتتى.
@@ -1126,6 +1123,9 @@ tur	uig_Arab	Siz Kaşgar'a tam vaktinde geldiniz, gerçekten.	سىز قەشقە�
 tur	uig_Arab	Siz Uygurcayı çok iyi konuşuyorsunuz gerçekten!	سىز ئۇيغۇرچە بەك ياخشى سۆزلەيدىكەنسىز جۇمۇ!
 tur	uig_Arab	Siz uyurken bir kadın bizi ziyaret etti.	سىز ئۇخلاۋاتقاندا بىرئايال كېلىپ كەتتى.
 tur	uig_Arab	Siz, yeni gelen öğretmen olmalısınız.	ئۆزىڭىز يېڭى كەلگەن ئوقۇتقۇچى بولسىڭىز كېرەك.
+tur	uig_Arab	Sık sık dışarıda yer misin?	دائىم سىرتتا تاماق يەمسەن؟
+tur	uig_Arab	Sınıf haftada bir kez toplanır.	سىنىپ (تىكى ساۋاقداشلار)ھەپتىدە بىر قېتىم يىغىلىدۇ.
+tur	uig_Arab	Sırada bir elma var.	جوزىدا بىر ئالما بار.
 tur	uig_Arab	Soğumadan önce çorbanı ye.	شورپىنى سوۋۇپ قېلىشتىن بۇرۇن ئىچ.
 tur	uig_Arab	Sola dönersen, beyaz bir bina görürsün.	سولغا بۇرۇلساڭ بىر ئاق بىنا كۆرىسەن.
 tur	uig_Arab	Sola dönersen, otobüs durağını bulursun.	سولغا بۇرۇلساڭ ئاپتوبۇس بېكىتىنى تاپىسەن.
@@ -1383,9 +1383,9 @@ tur	uig_Arab	Yenilenebilir enerji kaynaklarımızı geliştirmeliyiz.	يېڭىل
 tur	uig_Arab	Yerinde olsam derhal eve giderim.	سېنىڭ ئورنىڭدا مەن بولغان بولسا دەرھال ئۆيگە قايتاتتىم.
 tur	uig_Arab	Yeterince dinledim.	يېتەرلىك ئاڭلىدىم.
 tur	uig_Arab	Yeterince yaşlıyım.	يەتكىچە قېرىدىم.
+tur	uig_Arab	Yirmi çocuğu var.	ئۇنىڭ يىگرىمە بالىسى بار.
 tur	uig_Arab	Yıkandım ve çok daha iyi hissettim.	يۇيۇندۇم ۋە بەك ياخشى ھېس قىلدىم.
 tur	uig_Arab	Yılanlar soğukkanlı yaratıklardır.	يېلانلار سوغۇق قانلىق مەخلۇقلاردۇر.
-tur	uig_Arab	Yirmi çocuğu var.	ئۇنىڭ يىگرىمە بالىسى بار.
 tur	uig_Arab	Yolculuğuna hazırlanmakla meşguldü.	ئۇ سەپەر تەييارلىقى بىلەن ئالدىراش.
 tur	uig_Arab	Yoldayız.	بىز يولدا.
 tur	uig_Arab	Yüksekokula girdikten sonra bana bilgisayar gerekecek.	ئالىي مەكتەپكە كىرگەندىن كېيىن، ماڭا كومپيۇتېر كېرەك بولىدۇ.

@@ -1,44 +1,68 @@
 bzt_Latn	tlh	Ill mun es bel.	'IH qo'.
 bzt_Latn	tlh_Latn	Almein es yn paes gran.	Sep tIn 'oH DoyIchlan'e'.
+bzt_Latn	tlh_Latn	Credde'gw i lla ddewindad?	'IDnar tu'lu' net DaHar'a'?
+bzt_Latn	tlh_Latn	Credd-ty i lla ddewindad?	'IDnar tu'lu' net DaHar'a'?
+bzt_Latn	tlh_Latn	Eo af mew h-efed.	'emampu'wI', 'e'mamnalpu'wI', me'pu'wI', me'nalpu'wI' je vImuSHa'.
 bzt_Latn	tlh_Latn	Eo ai llo pharol feliwr.	mu'mey QaQqu' vIghaj.
 bzt_Latn	tlh_Latn	Eo ai trui ffradr e cathr sur.	wej loDnI', loS be'nI' vIghaj.
 bzt_Latn	tlh_Latn	Eo dy wol asculltar.	bI'Ij vIneH.
+bzt_Latn	tlh_Latn	Eo fefeirarai nonc Esperanto.	not 'eSperanto Hol vIHaD.
 bzt_Latn	tlh_Latn	Eo goninewef barolar.	jIjatlhtaH.
 bzt_Latn	tlh_Latn	Eo grêdd gwstr pharol.	mu'meyraj vIHar.
 bzt_Latn	tlh_Latn	Eo ngwol rhen di garn.	Ha'DIbaH vISop vIneHbe'.
+bzt_Latn	tlh_Latn	Eo su yn mengyb.	toy'wI''a' jIH.
 bzt_Latn	tlh_Latn	Eo wol comprar yn gas.	qach vIje' vIneH.
+bzt_Latn	tlh_Latn	Eo wol ddunar-lla a Fair.	me'rIyvaD vInob vIneH.
+bzt_Latn	tlh_Latn	Eo wol ddunar-llw a Fair.	me'rIyvaD vInob vIneH.
 bzt_Latn	tlh_Latn	Eo wolef di lla goenosceint.	De' vIneH.
 bzt_Latn	tlh_Latn	Eo yst compran yn ros.	ro'Sa' vIje'lI'.
 bzt_Latn	tlh_Latn	Es-sa ffelig?	Quch'a'?
 bzt_Latn	tlh_Latn	Estuir es lla briwad di Ragel.	raHel be'nal ghaH 'eSter'e'.
 bzt_Latn	tlh_Latn	Es-ys ffelig?	Quch'a'?
 bzt_Latn	tlh_Latn	Greid, eo lw ed.	wejpuH, vImuS.
+bzt_Latn	tlh_Latn	Ill afur af afar ill afur.	parmaq muSHa' 'e' muSHa' parmaq.
 bzt_Latn	tlh_Latn	Ill bethisad es yn segruid.	poymar 'oH 'u''e'.
 bzt_Latn	tlh_Latn	Ill cath es gran.	tIn vIghro'.
 bzt_Latn	tlh_Latn	Ill diawl es morth.	Heghpu' veqlargh.
 bzt_Latn	tlh_Latn	Ill Dôn dunaf e-dd ill Dôn a tolled.	nob Qun'a' 'ej nge' Qun'a'.
+bzt_Latn	tlh_Latn	Ill munn es maled.	rop qo'.
 bzt_Latn	tlh_Latn	Ill puf ci es gwirdd.	SuDqu' 'epIl naHvam.
 bzt_Latn	tlh_Latn	Ill puf es gwirdd.	SuD 'epIl naH.
 bzt_Latn	tlh_Latn	Ke gws es yn barol?	mu' nuq?
 bzt_Latn	tlh_Latn	Ke gws es yn gath?	nuq 'oH vIghro''e'?
+bzt_Latn	tlh_Latn	K'lwg es mew blentin?	nuqDaq ghaHtaH puqwI''e'?
+bzt_Latn	tlh_Latn	K'lwg es mew ffeil?	nuqDaq ghaHtaH puqbe'wI''e'?
+bzt_Latn	tlh_Latn	K'lwg es nwstr blentin?	nuqDaq ghaHtaH puqma''e'?
+bzt_Latn	tlh_Latn	K'lwg es nwstr ffeil?	nuqDaq ghaHtaH puqbe'ma''e'?
+bzt_Latn	tlh_Latn	K'lwg es nwstr ffeil?	nuqDaq ghaHtaH puqloDma''e'?
+bzt_Latn	tlh_Latn	K'lwg es nwstr ffeil?	nuqDaq ghaHtaH puqma''e'?
+bzt_Latn	tlh_Latn	K'lwg es nwstr ffuid?	nuqDaq ghaHtaH ghuma''e'?
 bzt_Latn	tlh_Latn	Lla briwad di Fair es yn feddig.	Qel ghaH me'rIy be'nal'e'.
 bzt_Latn	tlh_Latn	Lla ffuin yst llein.	laDtaH be'.
 bzt_Latn	tlh_Latn	Lla gath ci es gran.	tIn vIghro'vam.
 bzt_Latn	tlh_Latn	Lla gath es gran.	tIn vIghro'.
+bzt_Latn	tlh_Latn	Llo chath sunt di llo h-enifal.	Ha'DIbaH bIH vIghro''e'.
+bzt_Latn	tlh_Latn	Llo h-arfur wiwent.	yIn Sormey.
 bzt_Latn	tlh_Latn	Llo h-eliffan fanugant erf.	magh luSop 'e'levan.
 bzt_Latn	tlh_Latn	Llo h-ôn sunt lassad.	Doy' loDpu'.
 bzt_Latn	tlh_Latn	Llo h-yddew sunt lassad.	Doy' yISra'el nortlhampu'.
+bzt_Latn	tlh_Latn	Llo phaes thud sunt ffithig.	ngeb Hoch Sepmey.
 bzt_Latn	tlh_Latn	Mair es rhen di faled.	ropbe' me'rIy.
 bzt_Latn	tlh_Latn	Mew nôn es Omid.	'omID 'oH pongwIj'e'.
+bzt_Latn	tlh_Latn	Mew padr es maled.	rop vavwI'.
 bzt_Latn	tlh_Latn	Negyn mi lic.	mupar Hoch.
 bzt_Latn	tlh_Latn	No, ill cath es rhen di fuin.	ghobe'. machbe' vIghro'.
+bzt_Latn	tlh_Latn	Nonc.	not.
 bzt_Latn	tlh_Latn	Nu fif ag.	bIQ wItlhutlh.
 bzt_Latn	tlh_Latn	Nu mharolan rhen di Ffrencig.	vIraS Hol wIjatlhbe'.
 bzt_Latn	tlh_Latn	Nu wiwen in yn sociedad.	nughDaq mayIn.
 bzt_Latn	tlh_Latn	Perch ed-gw llo ffuin?	qatlh be'pu' DamuS'a'?
 bzt_Latn	tlh_Latn	Perch ed-ty llo ffuin?	qatlh be'pu' DamuS'a'?
+bzt_Latn	tlh_Latn	Sa es yn ddew.	Qun be' tu'lu'.
 bzt_Latn	tlh_Latn	Sa es yn ffuin.	be' ghaH.
 bzt_Latn	tlh_Latn	Sa gantaf e-dd ys dansaf.	bomtaH be' 'ej mI'taH loD.
+bzt_Latn	tlh_Latn	Sew llifr new es mirefilus.	Dun paq chu'Daj.
+bzt_Latn	tlh_Latn	Si, eo abit ci.	HIja', naDev vIDab.
 bzt_Latn	tlh_Latn	Sunt-sa ffelig?	Quch'a'?
 bzt_Latn	tlh_Latn	Sunt-sa ffelig?	Quch'a' chaH?
 bzt_Latn	tlh_Latn	Sunt-ys ffelig?	Quch'a'?
@@ -50,5 +74,7 @@ bzt_Latn	tlh_Latn	Tomos edif Boston.	baStan muS tam.
 bzt_Latn	tlh_Latn	Tomos es edid.	tam muSlu'.
 bzt_Latn	tlh_Latn	Tomos es yn of e-dd eo su yn ffuin.	loD ghaH tam'e' 'ej be' jIH.
 bzt_Latn	tlh_Latn	Ty es yn lladrun, Tomos.	nIHwI' bIH, tam.
+bzt_Latn	tlh_Latn	Yn dewin llw ffagef.	ta' 'IDnar pIn'a'.
 bzt_Latn	tlh_Latn	Yn ffuin yst llein.	laDtaH be'.
 bzt_Latn	tlh_Latn	Yst es granisaf.	tInqu' Dochvam.
+bzt	tlh_Latn	"Ke dem?" "Nonc."	"ghorgh?" "not."
