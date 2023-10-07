@@ -21,7 +21,8 @@ my $kept = 0;
 while (<>){
     $count++;
     chomp;
-    my ($corpus,$lang1,$lang2,$src,$trg) = split(/\t/);
+    # my ($corpus,$lang1,$lang2,$src,$trg) = split(/\t/);
+    my ($src,$trg) = split(/\t/);
 
     $src=~s/\P{IsAlpha}//gs if ($AlphaOnly);
     $src = lc($src) if ($LowerCase);

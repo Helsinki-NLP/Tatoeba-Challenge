@@ -158,17 +158,19 @@ endif
 
 
 ## basic training data filtering pipeline
-## TODO: remove lines 2 and 3 (they do too much, also remove emojis)
 ## TODO: get rid of recode?
 ## TODO: use GNU parallel?
-## TODO: add exclude-identical.pl?
 
 BASIC_FILTERS = | perl -CS -pe 'tr[\x{9}\x{A}\x{D}\x{20}-\x{D7FF}\x{E000}-\x{FFFD}\x{10000}-\x{10FFFF}][]cd;' \
-		| perl -CS -pe 's/\&\s*\#\s*160\s*\;/ /g' \
-		| perl -pe 's/[\p{C}-[\n\t]]/ /g;' \
 		| recode -f utf8..utf16 | recode -f utf16..utf8 \
 		| $(TOKENIZER)/deescape-special-chars.perl \
 		| sed 's/(Translated with Google Translate)//g'
+
+
+## DONE: remove lines 2 and 3 (they do too much, also remove emojis)
+##
+#		| perl -CS -pe 's/\&\s*\#\s*160\s*\;/ /g' \
+#		| perl -pe 's/[\p{C}-[\n\t]]/ /g;' \
 
 
 ## available OPUS languages (IDs in the way they appear in the corpus)
@@ -381,14 +383,6 @@ release-tag:
 	git add ${DATA_COUNT_FILES}
 	git commit -am 'updated dev and test data (${VERSION})'
 	git tag -a ${VERSION} -m "release version ${VERSION}"
-
-release-tag-missing:
-	git add ${DATADIR}/*-${VERSION}.md ${DATADIR}/subsets/*.md ${DATADIR}/subsets/${VERSION}/*.md
-	git add README-${VERSION}.md
-	git add ${DATA_COUNT_FILES}
-	git commit -am 'updated dev and test data (${VERSION})'
-	git tag -a ${VERSION} -m "release version ${VERSION}"
-
 
 release-push:
 	git push origin master
@@ -886,14 +880,14 @@ ${RELEASEDIR}/%/train.id.gz:
 		    wget -q -O ${dir $@}train.d/moses.zip $$z; \
 		    unzip -qq -n -d ${dir $@}train.d ${dir $@}train.d/moses.zip; \
 		    rm -f ${dir $@}train.d/moses.zip; \
-		    paste ${dir $@}train.d/*.$$a ${dir $@}train.d/*.$$b ${BASIC_FILTERS} |\
-		    ${SCRIPTDIR}/bitext-match-lang.py -s $$e -t $$f   > $@.tmp2; \
+		    paste ${dir $@}train.d/*.$$a ${dir $@}train.d/*.$$b ${BASIC_FILTERS} \
+		    | ${SCRIPTDIR}/exclude-identical.pl \
+		    | ${SCRIPTDIR}/bitext-match-lang.py -s $$e -t $$f   > $@.tmp2; \
 		    rm -f ${dir $@}train.d/*; \
 		    if [ -e $@.tmp2 ]; then \
 		      cut -f1 $@.tmp2 | ${PARALLEL} langscript -3 -l $$e -r -D ${FIXLANGIDS} > $@.tmp2srcid; \
 		      cut -f2 $@.tmp2 | ${PARALLEL} langscript -3 -l $$f -r -D ${FIXLANGIDS} > $@.tmp2trgid; \
-		      paste $@.tmp2srcid $@.tmp2trgid $@.tmp2 | sed "s/^/$$c-$$v	/"  \
-		      | scripts/exclude-identical.pl >> $@.tmp1; \
+		      paste $@.tmp2srcid $@.tmp2trgid $@.tmp2 | sed "s/^/$$c-$$v	/"  >> $@.tmp1; \
 		      rm -f $@.tmp2 $@.tmp2srcid $@.tmp2trgid; \
 		    fi \
 		  else \
@@ -915,13 +909,13 @@ ifdef PREVIOUS_VERSION
 	  s=${firstword ${subst -, ,${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}}}; \
 	  t=${lastword ${subst -, ,${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}}}; \
 	  paste <(gzip -cd $(patsubst ${RELEASEDIR}/%.id.gz,${PREVIOUS_RELEASEDIR}/%.src.gz,$@)) \
-		<(gzip -cd $(patsubst ${RELEASEDIR}/%.id.gz,${PREVIOUS_RELEASEDIR}/%.trg.gz,$@)) > $@.tmp2; \
+		<(gzip -cd $(patsubst ${RELEASEDIR}/%.id.gz,${PREVIOUS_RELEASEDIR}/%.trg.gz,$@)) \
+	  | ${SCRIPTDIR}/exclude-identical.pl > $@.tmp2; \
 	  ${GZIP} -cd $(patsubst ${RELEASEDIR}/%,${PREVIOUS_RELEASEDIR}/%,$@) | cut -f1 > $@.tmp2corpus; \
 	  if [ -e $@.tmp2 ]; then \
 	    cut -f1 $@.tmp2 | ${PARALLEL} langscript -3 -l $$s -r -D  ${FIXLANGIDS} > $@.tmp2srcid; \
 	    cut -f2 $@.tmp2 | ${PARALLEL} langscript -3 -l $$t -r -D  ${FIXLANGIDS} > $@.tmp2trgid; \
-	    paste $@.tmp2corpus $@.tmp2srcid $@.tmp2trgid $@.tmp2 \
-	    | scripts/exclude-identical.pl >> $@.tmp1; \
+	    paste $@.tmp2corpus $@.tmp2srcid $@.tmp2trgid $@.tmp2 >> $@.tmp1; \
 	    rm -f $@.tmp2 $@.tmp2srcid $@.tmp2trgid $@.tmp2corpus; \
 	  fi \
 	fi
@@ -942,7 +936,23 @@ endif
 	fi
 	rm -f $@.tmp1 $@.tmp2
 	rmdir ${dir $@}train.d
-#	touch $(@:.id.gz=.corrected)
+
+
+
+## download the previous release
+
+ifdef PREVIOUS_VERSION
+
+PREVIOUS_DOWNLOAD_BASE_URL  := https://object.pouta.csc.fi/Tatoeba-Challenge-${PREVIOUS_VERSION}
+
+${PREVIOUS_RELEASEDIR}/%/train.id.gz:
+	@wget -q $(patsubst ${PREVIOUS_RELEASEDIR}/%/train.id.gz,${PREVIOUS_DOWNLOAD_BASE_URL}/%.tar,$@)
+	@if [ -e $(patsubst ${PREVIOUS_RELEASEDIR}/%/train.id.gz,%.tar,$@) ]; then \
+	  tar -xf $(patsubst ${PREVIOUS_RELEASEDIR}/%/train.id.gz,%.tar,$@); \
+	  rm -f $(patsubst ${PREVIOUS_RELEASEDIR}/%/train.id.gz,%.tar,$@); \
+	fi
+
+endif
 
 
 
@@ -965,89 +975,10 @@ endif
 endif
 
 
-
-${RELEASEDIR}/%/train.sorted.id.gz:
-	${SORT} -t '	' -k4,5 -u < $(@:.sorted.id.gz=.id.gz).tmp1 \
-	| scripts/exclude-identical.pl \
-	| ${SHUFFLE} \
-	| scripts/exclude-devtest.pl -a -l \
-		${dir $@}test.src ${dir $@}test.trg \
-		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp2 2>$@.log
-	cut -f4 $@.tmp2 | ${GZIP} -c > $@.src.gz
-	cut -f5 $@.tmp2 | ${GZIP} -c > $@.trg.gz
-	cut -f1,2,3 $@.tmp2 | ${GZIP} -c > $@
-	rm -f $@.tmp2
-
-
-
-
-## re-run the filter of excluding dev and test data
-## (in case this was not correctly done before, e.g. because the files were not there yet)
-
-# TO_BE_CORRECTED = $(patsubst %.id.gz,%.corrected,\
-# 	$(wildcard ${RELEASEDIR}/ara-*/train.id.gz) $(wildcard ${RELEASEDIR}/afr-*/train.id.gz))
-
-# TO_BE_CORRECTED = $(patsubst %.id.gz,%.corrected,$(wildcard ${RELEASEDIR}/*/train.id.gz))
-
 %-missing-traindata:
 	${MAKE} ${RELEASEDIR}/$(@:-missing-traindata=)/train.id.gz
 
-correct-files:
-	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=1-00 THREADS=8 fra-ita-missing-traindata.submit
-	${MAKE} HPC_MEM=64g HPC_CORES=16 HPC_DISK=1000 HPC_TIME=1-12 THREADS=8 correct-train-files.submit
-	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=1-00 THREADS=8 fra-rus-missing-traindata.submit
-	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 deu-est-missing-traindata.submit
-	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 eng-est-missing-traindata.submit
-	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 est-fin-missing-traindata.submit
-	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 est-fra-missing-traindata.submit
-	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 est-rus-missing-traindata.submit
-	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 est-swe-missing-traindata.submit
 
-correct-train-files: ${TO_BE_CORRECTED}
-
-${RELEASEDIR}/%/train.corrected:
-	paste 	<(gzip -cd ${dir $@}train.id.gz) \
-		<(gzip -cd ${dir $@}train.src.gz) \
-		<(gzip -cd ${dir $@}train.trg.gz) \
-	| scripts/exclude-identical.pl \
-	| ${SORT} -t '	' -k4,5 -u | ${SHUFFLE} \
-	| scripts/exclude-devtest.pl -a -l \
-		${dir $@}test.src ${dir $@}test.trg \
-		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp2
-	cut -f4 $@.tmp2 | ${GZIP} -c > $@.src.gz
-	cut -f5 $@.tmp2 | ${GZIP} -c > $@.trg.gz
-	cut -f1,2,3 $@.tmp2 | ${GZIP} -c > $@.id.gz
-	rm -f $@.tmp2
-	if [ `zcat $@.id.gz | wc -l` -eq `zcat ${dir $@}train.id.gz | wc -l` ]; then \
-	  echo "no change! delete corrected files!"; \
-	  rm -f $@.src.gz $@.trg.gz $@.id.gz; \
-	else \
-	  mv ${dir $@}train.id.gz ${dir $@}train.backup.id.gz; \
-	  mv ${dir $@}train.src.gz ${dir $@}train.backup.src.gz; \
-	  mv ${dir $@}train.trg.gz ${dir $@}train.backup.trg.gz; \
-	  mv $@.id.gz ${dir $@}train.id.gz; \
-	  mv $@.src.gz ${dir $@}train.src.gz; \
-	  mv $@.trg.gz ${dir $@}train.trg.gz; \
-	fi
-	touch $@
-
-
-
-
-## download the previous release
-
-ifdef PREVIOUS_VERSION
-
-PREVIOUS_DOWNLOAD_BASE_URL  := https://object.pouta.csc.fi/Tatoeba-Challenge-${PREVIOUS_VERSION}
-
-${PREVIOUS_RELEASEDIR}/%/train.id.gz:
-	@wget -q $(patsubst ${PREVIOUS_RELEASEDIR}/%/train.id.gz,${PREVIOUS_DOWNLOAD_BASE_URL}/%.tar,$@)
-	@if [ -e $(patsubst ${PREVIOUS_RELEASEDIR}/%/train.id.gz,%.tar,$@) ]; then \
-	  tar -xf $(patsubst ${PREVIOUS_RELEASEDIR}/%/train.id.gz,%.tar,$@); \
-	  rm -f $(patsubst ${PREVIOUS_RELEASEDIR}/%/train.id.gz,%.tar,$@); \
-	fi
-
-endif
 
 
 
