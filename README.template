@@ -2,14 +2,13 @@
 
 # The Tatoeba Translation Challenge (%%RELEASE%%)
 
-This is a challenge set for machine translation that contains %%TRAIN_SIZE%% translation units in %%NR_BITEXTS%% bitexts covering %%NR_LANGS%% languages. The package includes a release of %%NR_TEST_LANGPAIRS%% test sets derived from [Tatoeba.org](https://tatoeba.org) that cover %%NR_TEST_LANGS%% languages.
+This is a challenge set for machine translation that contains %%TRAIN_SIZE%% translation units in %%NR_BITEXTS%% bitexts. The whole data set covers %%NR_LANGS%% languages linked to each other in %%NR_LANGPAIRS%% language pairs. The package includes a release of %%NR_TEST_LANGPAIRS%% test sets derived from [Tatoeba.org](https://tatoeba.org) that cover %%NR_TEST_LANGS%% languages. Training data is compiled from various sources collected within the [OPUS project](https://opus.nlpl.eu).
 
-* Benchmark for realistic low-resource scenarios
+* Benchmark for realistic low-resource scenarios ([Release history](data/Releases.md))
 * [Training](data/README.md), [development](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/dev.tar) and [test data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/test.tar) 
-* [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-all.md) ([training procedures](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md))
-* [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
-* New: [The OPUS-MT leaderboard](https://opus.nlpl.eu/dashboard/)
-* New: [The status of available NMT models on a map](https://opus.nlpl.eu/NMT-map/Tatoeba/all/src2trg/) (for release v2020-07-28)
+* [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-sorted-langpair.md) ([training procedures](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md))
+* [The OPUS-MT leaderboard](https://opus.nlpl.eu/dashboard/)
+* [The status of available NMT models on a map](https://opus.nlpl.eu/NMT-map/Tatoeba/all/src2trg/) (for release v2020-07-28)
 
 [![NMT map](images/NMT-map-small.png)](https://opus.nlpl.eu/NMT-map/Tatoeba-all/src2trg/)
 
@@ -29,9 +28,8 @@ This is a challenge set for machine translation that contains %%TRAIN_SIZE%% tra
 * [Extra bilingual training data](data/subsets/NoTestData-%%EXTRATRAINSET_RELEASE%%.md), language-pair specific downloads
 * [Monolingual data sets](data/MonolingualData.md), [with document boundaries](data/Wiki.md), [de-duplicated and shuffled](data/Wiki.md)
 * [Incrementally updated development and test data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/devtest.tar), ([here for individual language pairs](data/devtest))
-* [Release history](data/Releases.md)
-* NEW: [Automatically translated monolingual data](data/Backtranslations.md)
-* NEW: [Pre-trained sentence piece models](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/tatoeba/SentencePieceModels.md)
+* [Automatically translated monolingual data](data/Backtranslations.md)
+* [Pre-trained sentence piece models](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/tatoeba/SentencePieceModels.md)
 
 The latest release also includes some parallel data sets in the same language in order to test paraphrase models. Note, however, that the support for paraphrasing is really limited in our data sets.
 

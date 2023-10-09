@@ -372,7 +372,7 @@ release-tag:
 	@echo "* [Test data](${TATOEBA_DATAURL}-devtest/test-${VERSION}.tar) (${VERSION})" >> ${DATADIR}/Releases.md
 	@echo "* [Development data](${TATOEBA_DATAURL}-devtest/dev-${VERSION}.tar) (${VERSION})" >> ${DATADIR}/Releases.md
 	@echo "* [Bilingual training data](README-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> ${DATADIR}/Releases.md
-	@echo "* [Extra bilingual training data](data/subsets/NoTestData-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> ${DATADIR}/Releases.md
+	@echo "* [Extra bilingual training data](subsets/NoTestData-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> ${DATADIR}/Releases.md
 	@echo ""                             >> ${DATADIR}/Releases.md
 	git add ${TESTDATADIR}/*/*.txt
 	git add ${DEVDATADIR}/*/*.txt
@@ -411,14 +411,15 @@ README.md: README.template ${TESTDATADIR}-${VERSION} ${DEVDATADIR}-${VERSION}
 		-e 's/%%TRAINSET_RELEASE%%/${TRAINSET_VERSION}/g' \
 		-e 's/%%EXTRATRAINSET_RELEASE%%/${EXTRATRAINSET_VERSION}/g' \
 		-e 's/%%MONO_RELEASE%%/${MONO_VERSION}/g' \
-		-e 's/%%NR_BITEXTS%%/${shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt | wc -l | numfmt --grouping}/' \
+		-e 's/%%NR_BITEXTS%%/${shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt | cut -f10 | grep . | wc -l | numfmt --grouping}/' \
+		-e 's/%%NR_LANGPAIRS%%/${shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt | wc -l | numfmt --grouping}/' \
 		-e 's/%%NR_LANGS%%/${shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt | cut -f1 | tr '-' ' ' | tr ' ' "\n" | sort -u | wc -l}/' \
 		-e 's/%%NR_TEST_LANGPAIRS%%/${shell cat ${RELEASEDIR}/released-bitexts-min200.txt | wc -l}/' \
 		-e 's/%%NR_TEST_LANGS%%/${shell cut -f1 ${RELEASEDIR}/released-bitexts-min200.txt  | tr '-' ' ' | tr ' ' "\n" | sort -u | wc -l}/' \
 		-e 's/%%TRAIN_SIZE%%/${shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt  | awk "{SUM+=\$$10}END{print SUM}" | numfmt --to=si}/' \
 	< $< > $@
 	tail -n +2 ${RELEASEDIR}/released-bitexts.txt  | awk "{SUM+=\$$10}END{print SUM}" | numfmt --to=si
-
+	cp $@ README-${VERSION}.md
 
 
 

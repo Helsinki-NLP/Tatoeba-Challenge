@@ -2,14 +2,13 @@
 
 # The Tatoeba Translation Challenge (v2023-09-26)
 
-This is a challenge set for machine translation that contains 32G translation units in 4,024 bitexts covering 487 languages. The package includes a release of 657 test sets derived from [Tatoeba.org](https://tatoeba.org) that cover 138 languages.
+This is a challenge set for machine translation that contains 32G translation units in 2,539 bitexts. The whole data set covers 487 languages linked to each other in 4,024 language pairs. The package includes a release of 657 test sets derived from [Tatoeba.org](https://tatoeba.org) that cover 138 languages. Training data is compiled from various sources collected within the [OPUS project](https://opus.nlpl.eu).
 
-* Benchmark for realistic low-resource scenarios
+* Benchmark for realistic low-resource scenarios ([Release history](data/Releases.md))
 * [Training](data/README.md), [development](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/dev.tar) and [test data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/test.tar) 
-* [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-all.md) ([training procedures](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md))
-* [Ideal for multilingual models and transfer learning](results/tatoeba-results-langgroup.md)
-* New: [The OPUS-MT leaderboard](https://opus.nlpl.eu/dashboard/)
-* New: [The status of available NMT models on a map](https://opus.nlpl.eu/NMT-map/Tatoeba/all/src2trg/) (for release v2020-07-28)
+* [Baseline models](results/tatoeba-models-all.md) and [results](results/tatoeba-results-sorted-langpair.md) ([training procedures](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/doc/TatoebaChallenge.md))
+* [The OPUS-MT leaderboard](https://opus.nlpl.eu/dashboard/)
+* [The status of available NMT models on a map](https://opus.nlpl.eu/NMT-map/Tatoeba/all/src2trg/) (for release v2020-07-28)
 
 [![NMT map](images/NMT-map-small.png)](https://opus.nlpl.eu/NMT-map/Tatoeba-all/src2trg/)
 
@@ -29,9 +28,8 @@ This is a challenge set for machine translation that contains 32G translation un
 * [Extra bilingual training data](data/subsets/NoTestData-v2023-09-26.md), language-pair specific downloads
 * [Monolingual data sets](data/MonolingualData.md), [with document boundaries](data/Wiki.md), [de-duplicated and shuffled](data/Wiki.md)
 * [Incrementally updated development and test data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/devtest.tar), ([here for individual language pairs](data/devtest))
-* [Release history](data/Releases.md)
-* NEW: [Automatically translated monolingual data](data/Backtranslations.md)
-* NEW: [Pre-trained sentence piece models](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/tatoeba/SentencePieceModels.md)
+* [Automatically translated monolingual data](data/Backtranslations.md)
+* [Pre-trained sentence piece models](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/tatoeba/SentencePieceModels.md)
 
 The latest release also includes some parallel data sets in the same language in order to test paraphrase models. Note, however, that the support for paraphrasing is really limited in our data sets.
 
@@ -62,7 +60,7 @@ Please, cite the following paper if you use data and models from this distributi
 
 ## Data releases
 
-The current release includes data for 4,024 language pairs covering 487 languages.
+The current release includes data for 2,539 language pairs covering 487 languages.
 The data sets are released per language pair with the following structure (using deu-eng as an example):
 
 ```
