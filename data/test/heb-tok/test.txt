@@ -1,23 +1,108 @@
-heb	xxx_Latn	אנחנו בני אדם ואנחנו מכדור הארץ.	mi mute li jan, li tan ma.
-heb	xxx_Latn	אני יודע שאתה מורה.	mi sona e ni: sina jan pi pana sona.
-heb	xxx_Latn	אני יודעת שאתה מורה.	mi sona e ni: sina jan pi pana sona.
-heb	xxx_Latn	אני לא יודע, תום.	mi sona ala, jan Tan o.
-heb	xxx_Latn	אני לא יודעת, תום.	mi sona ala, jan Tan o.
-heb	xxx_Latn	"את בסדר?" "כן."	"sina pona ala pona?" "pona."
-heb	xxx_Latn	"אתה בסדר?" "כן."	"sina pona ala pona?" "pona."
-heb	xxx_Latn	אתה פה.	sina lon ni.
-heb	xxx_Latn	האהבה אוהבת לאהוב את האהבה.	olin li olin e olin olin.
-heb	xxx_Latn	הטראומה היא גנבת.	tenpo pakala li kama jo ike.
-heb	xxx_Latn	הטראומה היא גנבת.	tenpo pakala li lanpan.
-heb	xxx_Latn	המיים נקיים?	telo li jaki ala jaki?
-heb	xxx_Latn	המיים נקיים?	telo li pona moku anu seme?
-heb	xxx_Latn	הרבה יוונים גרים בגרמניה.	jan mute pi ma Elena li awen lon ma Tosi.
-heb	xxx_Latn	כולנו קופים.	mi ale li soweli jan.
-heb	xxx_Latn	כן, אתה צודק.	lon, sina toki lon.
-heb	xxx_Latn	מה אני?	mi seme?
-heb	xxx_Latn	סנייפ הורג את דמבלדור.	jan Nep li moli e jan Tanpato.
-heb	xxx_Latn	פטריות הן חכמות.	soko li sona.
-heb	xxx_Latn	תגנו על ילדים טרנסג'נדרים.	o awen e jan lili tonsi.
-heb	xxx_Latn	תום פס.	jan Ton li anpa unpa.
-heb	xxx_Latn	תום פסיבי.	jan Ton li anpa unpa.
-heb	xxx_Latn	תקשיבי לי.	o kute e mi.
+heb	tok_Latn	אין לה חברה.	ona li jo ala e kulupu pi jan pona.
+heb	tok_Latn	אינני גמד, אני בעל שיעור קומה נמוך.	mi jan lili ala. mi jo e sijelo lili.
+heb	tok_Latn	אל תפתח אותו.	o open ala e ona!
+heb	tok_Latn	אני אוהב ערבית.	toki Alapi li pona tawa mi.
+heb	tok_Latn	אני גדולה וחזקה.	mi suli li wawa.
+heb	tok_Latn	אני גדול וחזק.	mi suli li wawa.
+heb	tok_Latn	אני גר בבית הזה לבדי.	mi wan taso lon tomo ni.
+heb	tok_Latn	אני חושב שהעולם יתאחד אם אהיה המנהיג של ארצות הברית.	mi pilin e ni: mi kama lawa e ma Mewika la ma ali li kama wan.
+heb	tok_Latn	אני לא לוקח אחריות בכלל.	mi lawa e ala.
+heb	tok_Latn	אני לא לוקח אחריות בכלל.	mi tan pi pakala ala.
+heb	tok_Latn	אני לומד אידו.	mi kama sona e toki Ito.
+heb	tok_Latn	אני לומדת אידו.	mi kama sona e toki Ito.
+heb	tok_Latn	אני מאמין בשמש גם כשהיא לא זורחת. אני מאמין באהבה גם כשאיני מרגיש אותה. אני מאמין באלוהים גם כשהוא שותק.	tenpo pimeja kin la mi sona e ni: suno li lon. mi olin ala la kin la mi sona e ni: olin li lon. jan sewi li toki ala kin la mi sona e ni: ona li lon.
+heb	tok_Latn	אני מאמינה בשמש גם כשהיא לא זורחת. אני מאמינה באהבה גם כשאיני מרגישה אותה. אני מאמין באלוהים גם כשהוא שותק.	tenpo pimeja kin la mi sona e ni: suno li lon. mi olin ala la kin la mi sona e ni: olin li lon. jan sewi li toki ala kin la mi sona e ni: ona li lon.
+heb	tok_Latn	אני רוצה כלב.	mi wile e soweli tomo.
+heb	tok_Latn	אני רוצה לקנות בית.	mi wile kama jo esun e tomo.
+heb	tok_Latn	אני רוצה לשמוע את הקול שלך.	mi wile kute e kalama sina.
+heb	tok_Latn	אנשים מספר חסרי ממון.	jan mute li jo ala e mani.
+heb	tok_Latn	בוא!	o kama!
+heb	tok_Latn	בסדר.	pona.
+heb	tok_Latn	בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ.	tenpo wan la jan sewi li pali e ma sewi e ma.
+heb	tok_Latn	בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ.	tenpo wan la jan sewi li pali e ma sewi e ma.
+heb	tok_Latn	בראשית ברא תום את בוסטון ואת אוסטרליה.	open la jan Ton li lon e ma tomo Pasen e ma Oselija.
+heb	tok_Latn	דבר, דוד.	jan Tawi o toki!
+heb	tok_Latn	דונלד טראמפ הוא שקרן כפייתי.	tenpo ali la jan Tona Tun li toki e lon ala tan ni: lawa ona li ike.
+heb	tok_Latn	דּוֹר הֹלֵךְ וְדוֹר בָּא, וְהָאָרֶץ לְעוֹלָם עֹמָדֶת.	jan mute pi tenpo sama li kama. jan mute pi tenpo sama li tawa. taso tenpo ali la ma li awen.
+heb	tok_Latn	דּוֹר הֹלֵךְ וְדוֹר בָּא, וְהָאָרֶץ לְעוֹלָם עֹמָדֶת.	jan mute pi tenpo sama li kama. jan mute pi tenpo sama li tawa. taso tenpo ali la ma li awen.
+heb	tok_Latn	האנטישמיות היא הסוציאליזם של הטפשים.	jan nasa li pilin e ni: jan Juta li pakala e kulupu jan. jan sona li sona e ni: nasin mani li pakala e kulupu jan.
+heb	tok_Latn	הֲבֵל הֲבָלִים אָמַר קֹהֶלֶת הֲבֵל הֲבָלִים הַכֹּל הָבֶל.	jan Kohelet li toki e ni: "ala ala! ala ala! ali li ala."
+heb	tok_Latn	הֲבֵל הֲבָלִים אָמַר קֹהֶלֶת הֲבֵל הֲבָלִים הַכֹּל הָבֶל.	jan Kohelet li toki e ni: "ala ala! ala ala! ali li ala."
+heb	tok_Latn	הוא כבר לא יכול לפגוע בך.	ona li pini ken pakala e sina.
+heb	tok_Latn	הוֹלֵךְ, אֶל-דָּרוֹם, וְסוֹבֵב, אֶל-צָפוֹן; סוֹבֵב סֹבֵב הוֹלֵךְ הָרוּחַ, וְעַל-סְבִיבֹתָיו שָׁב הָרוּחַ.	kon tawa pini wan. kon tawa pini sin. kon tawa tan ni sama sike.
+heb	tok_Latn	הוֹלֵךְ, אֶל-דָּרוֹם, וְסוֹבֵב, אֶל-צָפוֹן; סוֹבֵב סֹבֵב הוֹלֵךְ הָרוּחַ, וְעַל-סְבִיבֹתָיו שָׁב הָרוּחַ.	kon tawa pini wan. kon tawa pini sin. kon tawa tan ni sama sike.
+heb	tok_Latn	הוֹלֵךְ, אֶל-דָּרוֹם, וְסוֹבֵב, אֶל-צָפוֹן; סוֹבֵב סֹבֵב הוֹלֵךְ הָרוּחַ, וְעַל-סְבִיבֹתָיו שָׁב הָרוּחַ.	tenpo ali la kon li tawa lon sewi ma.
+heb	tok_Latn	היא כבר לא יכולה לפגוע בך.	ona li pini ken pakala e sina.
+heb	tok_Latn	היהודים האמיתיים הם היהודים.	jan Juta lon li jan Juta.
+heb	tok_Latn	המים האלה לא קרים.	telo ni li lete ala.
+heb	tok_Latn	ה׳ נתן וה׳ לקח.	jan sewi li pana e ona li weka e ona.
+heb	tok_Latn	השונאים ישנאו.	tenpo ali la jan li ike tawa jan ike.
+heb	tok_Latn	השלום חשוב מאוד.	utala ala li suli mute.
+heb	tok_Latn	וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחשֶׁךְ עַל פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל פְּנֵי הַמָּיִם.	ma li jo e ala. ala li lon ma. pimeja li lon sinpin pi telo suli. kon pi jan sewi li tawa lon sewi pi sinpin telo.
+heb	tok_Latn	וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחשֶׁךְ עַל פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל פְּנֵי הַמָּיִם.	ma li jo e ala. ala li lon ma. pimeja li lon sinpin pi telo suli. kon pi jan sewi li tawa lon sewi pi sinpin telo.
+heb	tok_Latn	וְזָרַח הַשֶּׁמֶשׁ, וּבָא הַשָּׁמֶשׁ; וְאֶל-מְקוֹמוֹ--שׁוֹאֵף זוֹרֵחַ הוּא, שָׁם.	suno li kama sewi. suno li kama anpa. ni li tawa wawa e tan ni.
+heb	tok_Latn	וְזָרַח הַשֶּׁמֶשׁ, וּבָא הַשָּׁמֶשׁ; וְאֶל-מְקוֹמוֹ — שׁוֹאֵף זוֹרֵחַ הוּא, שָׁם.	suno li kama sewi. suno li kama anpa. ni li tawa wawa e tan ni.
+heb	tok_Latn	וַיֹּאמֶר אֱלֹהִים, יְהִי אוֹר; וַיְהִי-אוֹר.	jan sewi li toki e ni: suno o lon! suno li lon.
+heb	tok_Latn	וַיֹּאמֶר אֱלֹהִים, יְהִי אוֹר; וַיְהִי-אוֹר.	jan sewi li toki e ni: suno o lon! suno li lon.
+heb	tok_Latn	וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם וְלַחשֶׁךְ קָרָא לָיְלָה וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם אֶחָד.	jan sewi li nimi e suno tawa tenpo suno e pimeja tawa tenpo pimeja. tenpo pimeja en tenpo pi pini lape li kama la tenpo suno wan.
+heb	tok_Latn	וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם וְלַחשֶׁךְ קָרָא לָיְלָה וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם אֶחָד.	jan sewi li nimi e suno tawa tenpo suno e pimeja tawa tenpo pimeja. tenpo pimeja en tenpo pi pini lape li kama la tenpo suno wan.
+heb	tok_Latn	וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם וְלַחשֶׁךְ קָרָא לָיְלָה וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם אֶחָד.	sewi li pana e nimi "tenpo suno" tawa suno li pana e nimi "tenpo pimeja" tawa pimeja. tenpo pimeja en tenpo suno li kama. tenpo suno nanpa wan.
+heb	tok_Latn	וַיַּרְא אֱלֹהִים אֶת הָאוֹר כִּי טוֹב וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחשֶׁךְ.	jan sewi li lukin e ni: suno li pona. jan sewi li tu e suno e pimeja.
+heb	tok_Latn	וַיַּרְא אֱלֹהִים אֶת הָאוֹר כִּי טוֹב וַיַּבְדֵּל אֱלֹהִים בֵּין הָאוֹר וּבֵין הַחשֶׁךְ.	jan sewi li lukin e ni: suno li pona. jan sewi li tu e suno e pimeja.
+heb	tok_Latn	זה כלב גדול.	ona li soweli tomo suli.
+heb	tok_Latn	טראמפ הוא נרקיסיסט.	jan Tona Tun li olin nasa e ona sama.
+heb	tok_Latn	יֵשׁ דָּבָר שֶׁיֹּאמַר רְאֵה-זֶה, חָדָשׁ הוּא: כְּבָר הָיָה לְעֹלָמִים, אֲשֶׁר הָיָה מִלְּפָנֵנוּ.	jan li wile toki e: "o lukin! a ni li sin!" taso tenpo pini la ona li lon.
+heb	tok_Latn	יֵשׁ דָּבָר שֶׁיֹּאמַר רְאֵה-זֶה, חָדָשׁ הוּא: כְּבָר הָיָה לְעֹלָמִים, אֲשֶׁר הָיָה מִלְּפָנֵנוּ.	jan li wile toki e: "o lukin! a ni li sin!" taso tenpo pini la ona li lon.
+heb	tok_Latn	יש לו כלב.	mije li jo e soweli Kane.
+heb	tok_Latn	יש לו כלב.	ona li jo e soweli Kane.
+heb	tok_Latn	יש לי את המילים הטובות ביותר.	nimi mute mi li pona mute. nimi mute pi jan ante ali li pona lili.
+heb	tok_Latn	יש מנהגי שטות.	nasin mama mute li nasa.
+heb	tok_Latn	יש מסורות מטופשות.	nasin mama mute li nasa.
+heb	tok_Latn	כולנו אמהות.	mi ali li mama meli.
+heb	tok_Latn	כָּל-הַדְּבָרִים יְגֵעִים, לֹא-יוּכַל אִישׁ לְדַבֵּר; לֹא-תִשְׂבַּע עַיִן לִרְאוֹת, וְלֹא-תִמָּלֵא אֹזֶן מִשְּׁמֹעַ.	jan li ken ala toki e ni: ijo ale li pana e lape mute. tenpo ala la oko li jo e lukin ale. tenpo ala la nena kute li jo e kute ale.
+heb	tok_Latn	כָּל-הַדְּבָרִים יְגֵעִים, לֹא-יוּכַל אִישׁ לְדַבֵּר; לֹא-תִשְׂבַּע עַיִן לִרְאוֹת, וְלֹא-תִמָּלֵא אֹזֶן מִשְּׁמֹעַ.	jan li ken ala toki e ni: ijo ale li pana e lape mute. tenpo ala la oko li jo e lukin ale. tenpo ala la nena kute li jo e kute ale.
+heb	tok_Latn	כָּל-הַנְּחָלִים הֹלְכִים אֶל-הַיָּם, וְהַיָּם אֵינֶנּוּ מָלֵא; אֶל-מְקוֹם, שֶׁהַנְּחָלִים הֹלְכִים--שָׁם הֵם שָׁבִים, לָלָכֶת.	nasin telo ale li tawa telo suli. taso telo suli li kama ala ale. tenpo ale la nasin telo tawa tan ni.
+heb	tok_Latn	כָּל-הַנְּחָלִים הֹלְכִים אֶל-הַיָּם, וְהַיָּם אֵינֶנּוּ מָלֵא; אֶל-מְקוֹם, שֶׁהַנְּחָלִים הֹלְכִים--שָׁם הֵם שָׁבִים, לָלָכֶת.	nasin telo ale li tawa telo suli. taso telo suli li kama ala ale. tenpo ale la nasin telo tawa tan ni.
+heb	tok_Latn	לילה טוב, טטואבה.	kulupu jan pi ilo Tatowepa o, mi tawa lape.
+heb	tok_Latn	מַה-יִּתְרוֹן לָאָדָם בְּכָל עֲמָלוֹ שֶׁיַּעֲמֹל תַּחַת הַשָּׁמֶשׁ.	seme li tawa jan tan ni: ona li pali e pali ali ona lon anpa suno?
+heb	tok_Latn	מַה-יִּתְרוֹן לָאָדָם בְּכָל עֲמָלוֹ שֶׁיַּעֲמֹל תַּחַת הַשָּׁמֶשׁ.	seme li tawa jan tan ni: ona li pali e pali ali ona lon anpa suno?
+heb	tok_Latn	מַה-שֶּׁהָיָה, הוּא שֶׁיִּהְיֶה, וּמַה-שֶּׁנַּעֲשָׂה, הוּא שֶׁיֵּעָשֶׂה; וְאֵין כָּל-חָדָשׁ, תַּחַת הַשָּׁמֶשׁ.	tenpo pini la ijo li kama. tenpo kama la ni sama li kama sin. tenpo pini la jan li pali e ijo. tenpo kama la jan li pali sin e ijo sama. ala li sin lon anpa suno.
+heb	tok_Latn	מַה-שֶּׁהָיָה, הוּא שֶׁיִּהְיֶה, וּמַה-שֶּׁנַּעֲשָׂה, הוּא שֶׁיֵּעָשֶׂה; וְאֵין כָּל-חָדָשׁ, תַּחַת הַשָּׁמֶשׁ.	tenpo pini la ijo li kama. tenpo kama la ni sama li kama sin. tenpo pini la jan li pali e ijo. tenpo kama la jan li pali sin e ijo sama. ala li sin lon anpa suno.
+heb	tok_Latn	משפחה היא משפחה.	kulupu mama li kulupu mama.
+heb	tok_Latn	עולם אחר הוא אפשרי.	kulupu pi jan ali li ken kama ante.
+heb	tok_Latn	על מה אתה מסתכל?	sina lukin e seme?
+heb	tok_Latn	על מה אתם מסתכלים?	sina lukin e seme?
+heb	tok_Latn	על מה אתם מסתכלים?	sina mute li lukin e seme?
+heb	tok_Latn	על מה את מסתכלת?	sina lukin e seme?
+heb	tok_Latn	ערבית שפה יפה.	toki Alapi li toki pi kute pona.
+heb	tok_Latn	פשיסט טוב זה פשיסט מת.	jan li sewi e ma sama li wile e jan lawa wawa li pakala e jan pi wawa ala li moli la ni li pona. jan ni li moli ala la ni li ike.
+heb	tok_Latn	רד מהעץ!	o tawa anpa tan kasi!
+heb	tok_Latn	רק האמת יפה.	lon taso li pona.
+heb	tok_Latn	שאלתי אותו.	mi toki e wile sona tawa ona.
+heb	tok_Latn	שבתי וראה תחת השמש כי לא לקלים המרוץ ולא לגבורים המלחמה וגם לא לחכמים לחם וגם לא לנבנים עשר וגם לא לידעים חן כי עת ופגע יקרה את כלם.	mi pona e mi lon poka ante. mi lukin e ni lon anpa suno: jan pi tawa wawa en jan pi nasin pona li kama ala nanpa wan lon utala. jan sona li kama ala jo e pan e mani e pona tan sewi tan ni: tenpo en sewi li lawa e ona ale.
+heb	tok_Latn	שחררו את פלסטין!	o weka tan ma Pilisin!
+heb	tok_Latn	תום התחתן עם אשה מבוגרת יותר.	jan Ton li kama jo e meli pi sike mute.
+heb	tok_Latn	תום מאמין באלוהים.	jan Ton li pilin e ni: sewi li lon.
+heb	tok_Latn	אנחנו בני אדם ואנחנו מכדור הארץ.	mi mute li jan, li tan ma.
+heb	tok_Latn	אני יודע שאתה מורה.	mi sona e ni: sina jan pi pana sona.
+heb	tok_Latn	אני יודעת שאתה מורה.	mi sona e ni: sina jan pi pana sona.
+heb	tok_Latn	אני לא יודע, תום.	mi sona ala, jan Tan o.
+heb	tok_Latn	אני לא יודעת, תום.	mi sona ala, jan Tan o.
+heb	tok_Latn	"את בסדר?" "כן."	"sina pona ala pona?" "pona."
+heb	tok_Latn	"אתה בסדר?" "כן."	"sina pona ala pona?" "pona."
+heb	tok_Latn	אתה פה.	sina lon ni.
+heb	tok_Latn	האהבה אוהבת לאהוב את האהבה.	olin li olin e olin olin.
+heb	tok_Latn	הטראומה היא גנבת.	tenpo pakala li kama jo ike.
+heb	tok_Latn	הטראומה היא גנבת.	tenpo pakala li lanpan.
+heb	tok_Latn	המיים נקיים?	telo li jaki ala jaki?
+heb	tok_Latn	המיים נקיים?	telo li pona moku anu seme?
+heb	tok_Latn	הרבה יוונים גרים בגרמניה.	jan mute pi ma Elena li awen lon ma Tosi.
+heb	tok_Latn	כולנו קופים.	mi ale li soweli jan.
+heb	tok_Latn	כן, אתה צודק.	lon, sina toki lon.
+heb	tok_Latn	מה אני?	mi seme?
+heb	tok_Latn	סנייפ הורג את דמבלדור.	jan Nep li moli e jan Tanpato.
+heb	tok_Latn	פטריות הן חכמות.	soko li sona.
+heb	tok_Latn	תגנו על ילדים טרנסג'נדרים.	o awen e jan lili tonsi.
+heb	tok_Latn	תום פס.	jan Ton li anpa unpa.
+heb	tok_Latn	תום פסיבי.	jan Ton li anpa unpa.
+heb	tok_Latn	תקשיבי לי.	o kute e mi.

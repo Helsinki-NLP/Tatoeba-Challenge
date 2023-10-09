@@ -1,5 +1,5 @@
-eng	jbo	Excuse me.	.u'u
-eng	jbo	How wonderful this is!	.u'e
+eng	jbo_Latn	Excuse me.	.u'u
+eng	jbo_Latn	How wonderful this is!	.u'e
 eng	jbo_Latn	17 is a real number.	li pa ze mrena'u
 eng	jbo_Latn	1 is the natural logarithm of e.	li pa te'o zei dugri li te'o
 eng	jbo_Latn	2539 is a prime number.	li remuciso mulna'usle
@@ -7047,4 +7047,4 @@ eng	jbo_Latn	You would make a great father.	lo ka do zabna co patfu ce'u cu cumk
 eng	jbo_Latn	Yum yum!	kukte
 eng	jbo_Latn	Zhang looks confusedly.	la jan. se cfipu catlu
 eng	jbo_Latn	π equals approximately 3.14159.	li pai du li ci pi pa vo pa mu so ji'i
-eng	jbo	Sorry!	.u'u
+eng	jbo_Latn	Sorry!	.u'u

@@ -1,3 +1,4 @@
+lad_Latn	spa	Afilu los peores egzemplos de "la kultura de la kanselasion" no se aserkan a una fraksion de los males de la Inkisizion.	Ni siquiera los peores ejemplos de "la cultura de la cancelación" se acercan a una fracción de los males de la Inquisición.
 lad_Latn	spa	Aki Yerushalayim es una revista kulturala eskrita en ladino.	Aki Yerushalayim es una revista cultural escrita en judeoespañol.
 lad_Latn	spa	Ambezamos muzika.	Nosotros estudiamos música.
 lad_Latn	spa	A mi mama le gustava muncho kontar anekdotas.	A mi mamá le gustaba mucho contar anécdotas.
@@ -11,6 +12,8 @@ lad_Latn	spa	Avlo japanez, inglez i fransez.	Hablo japonés, inglés y francés.
 lad_Latn	spa	Ayde!	¡Vamos!
 lad_Latn	spa	Ayer fue djueves.	Ayer fue jueves.
 lad_Latn	spa	Ayer fue djugeves.	Ayer fue jueves.
+lad_Latn	spa	Ay munchas linguas en el mundo.	Hay muchas lenguas en el mundo.
+lad_Latn	spa	Ay munchas linguas en el mundo.	Hay muchos idiomas en el mundo.
 lad_Latn	spa	Bivo en Turkiya.	Vivo en Turquía.
 lad_Latn	spa	Bivo en Turkiya.	Yo vivo en Turquía.
 lad_Latn	spa	Buenas tadres!	¡Buenas tardes!
@@ -19,7 +22,12 @@ lad_Latn	spa	Dainda no tengo nada.	Aún no tengo nada.
 lad_Latn	spa	Deke estas viniendo?	¿Por qué vienes?
 lad_Latn	spa	Deke kavzar un problem?	¿Por qué causar un problema?
 lad_Latn	spa	Deke le ambezates el kastilyano al perro?	¿Por qué le enseñaste español al perro?
+lad_Latn	spa	Deke, Tom?	¿Por qué, Tom?
 lad_Latn	spa	Devo trokar la foto del perfil.	Debo cambiar la foto del perfil.
+lad_Latn	spa	Dingun estado no tiene el derecho a egzistir.	Ningún estado tiene el derecho de existir.
+lad_Latn	spa	Dingunos no tienen una alma.	Nadie tiene alma.
+lad_Latn	spa	Dingunos no tienen una neshama.	Nadie tiene alma.
+lad_Latn	spa	Dingun ser umano no es ilegal.	Ningún ser humano es ilegal.
 lad_Latn	spa	Donald Trump es un mentirozo patolojiko.	Donald Trump es un mentiroso patológico.
 lad_Latn	spa	Donald Trump es un mintirozo patolojiko.	Donald Trump es un mentiroso patológico.
 lad_Latn	spa	Donde sos?	¿De dónde eres?
@@ -31,10 +39,14 @@ lad_Latn	spa	El Dio lo izo.	Dios lo hizo.
 lad_Latn	spa	El es mi marido.	Él es mi marido.
 lad_Latn	spa	El espanyol i el italiano son muy similares.	El español y el italiano son muy similares.
 lad_Latn	spa	Él es uertolano.	Él es jardinero.
+lad_Latn	spa	El gato tiene ambre.	El gato tiene hambre.
 lad_Latn	spa	El kastilyano i el italiano son muy similares.	El español y el italiano son muy similares.
 lad_Latn	spa	El kavayo es un animal.	El caballo es un animal.
+lad_Latn	spa	El kave es preto.	El café es negro.
 lad_Latn	spa	El konjelador esta en el garaj.	El congelador está en el garaje.
 lad_Latn	spa	El kree en el Dio.	Él cree en Dios.
+lad_Latn	spa	El mundo esta hazino.	El mundo está enfermo.
+lad_Latn	spa	El mundo es una nasyon.	El mundo es una nación.
 lad_Latn	spa	El mushteri esta de akodro.	El cliente está de acuerdo.
 lad_Latn	spa	El mushteri esta de akordo.	El cliente está de acuerdo.
 lad_Latn	spa	El mushteri no vino.	El cliente no vino.
@@ -51,11 +63,14 @@ lad_Latn	spa	Epstein no se mato.	Epstein no se suicidó.
 lad_Latn	spa	Epstein no se suisido.	Epstein no se mató.
 lad_Latn	spa	Epstein no se suisido.	Epstein no se suicidó.
 lad_Latn	spa	Es fasil.	Es fácil.
+lad_Latn	spa	Es frekuente.	Es frecuente.
 lad_Latn	spa	Es kolay.	Es fácil.
 lad_Latn	spa	Eskucha a tu madre!	¡Escucha a tu madre!
 lad_Latn	spa	Es la mansana de John.	Es la manzana de John.
 lad_Latn	spa	Esta mansana es kolorada.	Esta manzana es roja.
 lad_Latn	spa	Estásh livres?	¿Estáis libres?
+lad_Latn	spa	Estas son demandas frekuentes.	Estas son preguntas frecuentes.
+lad_Latn	spa	Esto akorruto deprimido.	A menudo estoy deprimido.
 lad_Latn	spa	Esto de akodro.	Estoy de acuerdo.
 lad_Latn	spa	Esto de akordo.	Estoy de acuerdo.
 lad_Latn	spa	Estó en el otel.	Estoy en el hotel.
@@ -67,6 +82,7 @@ lad_Latn	spa	Estó lavorando kon ti.	Estoy trabajando contigo.
 lad_Latn	spa	Esto merkando.	Estoy comprando.
 lad_Latn	spa	Esto saliendo.	Me voy.
 lad_Latn	spa	Es un portokal.	Es una naranja.
+lad_Latn	spa	Evropa no egziste.	Europa no existe.
 lad_Latn	spa	Eya es muy yakishikliya.	Ella es muy buena moza.
 lad_Latn	spa	Eya es una mujer dobra.	Ella es una buena mujer.
 lad_Latn	spa	Eya mato a su marido.	Ella mató a su marido.
@@ -104,21 +120,36 @@ lad_Latn	spa	Komprando!	¡Compren!
 lad_Latn	spa	Kon plazer.	Con gusto.
 lad_Latn	spa	Kualo es la kapital de Iowa?	¿Cuál es la capital de Iowa?
 lad_Latn	spa	Kualo es la kapital de Madagaskar?	¿Cuál es la capital de Madagascar?
+lad_Latn	spa	"Kuando?" "Nunka."	"¿Cuándo?" "Nunca."
+lad_Latn	spa	Kuantos gatos son demaziados?	¿Cuántos gatos son demasiados?
+lad_Latn	spa	La alma es diferente del kuerpo.	El alma es diferente del cuerpo.
+lad_Latn	spa	La djente miente en el Internet.	La gente miente en internet.
+lad_Latn	spa	La djente miente.	La gente miente.
+lad_Latn	spa	La gerra es mala.	La guerra es mala.
 lad_Latn	spa	La lingua ofisiala de Israel es el ivrit moderno.	La lengua oficial de Israel es el hebreo moderno.
 lad_Latn	spa	La mansana es kolorada i amariya.	La manzana es roja y amarilla.
 lad_Latn	spa	La mansana es kolorada.	La manzana es roja.
 lad_Latn	spa	La mansana es kolorada?	¿La manzana es roja?
+lad_Latn	spa	La mansana no es kolorada.	La manzana no es roja.
 lad_Latn	spa	La mujer kome un portokal.	La mujer come una naranja.
 lad_Latn	spa	La mujer solo save kuzinar el arroz.	La mujer sólo sabe cocinar el arroz.
 lad_Latn	spa	La natura es fasinante.	La naturaleza es fascinante.
+lad_Latn	spa	La neshama es diferente del puerpo.	El alma es diferente del cuerpo.
 lad_Latn	spa	La provedad no deve egzistir.	La pobreza no debería existir.
 lad_Latn	spa	La reyna deve de murir.	La reina debe morir.
 lad_Latn	spa	Las dos estan okupadas.	Ambas están ocupadas.
 lad_Latn	spa	Las dos estan okupadas.	Las dos están ocupadas.
 lad_Latn	spa	La sivdad kapitala de Fransya es Paris.	La capital de Francia es París.
+lad_Latn	spa	Las palavras son emportantes.	Las palabras importan.
 lad_Latn	spa	Lavoro kon ti.	Trabajo contigo.
+lad_Latn	spa	Los arvoles son organizmos bivos.	Los árboles son organismos vivos.
+lad_Latn	spa	Los byervos son emportantes.	Las palabras importan.
 lad_Latn	spa	Los dos estan okupados.	Ambos están ocupados.
 lad_Latn	spa	Los dos estan okupados.	Los dos están ocupados.
+lad_Latn	spa	Los israelianos avlan ebreo.	Los israelíes hablan hebreo.
+lad_Latn	spa	Los israelis avlan ivrit.	Los israelíes hablan hebreo.
+lad_Latn	spa	Los pasharos no son reales.	Los pájaros no son reales.
+lad_Latn	spa	Mati a Tom.	Maté a Tom.
 lad_Latn	spa	Me azes reir muncho.	Me haces reír mucho.
 lad_Latn	spa	Me esto ambezando a meldar yidish.	Estoy aprendiendo a leer yidis.
 lad_Latn	spa	Me gusta la sus kaza.	Me gusta su casa.
@@ -138,9 +169,12 @@ lad_Latn	spa	Merkando!	¡Compren!
 lad_Latn	spa	Metiya el revolver al lado de la kavesa.	Puso el revolver en su cabeza.
 lad_Latn	spa	Me yamo Ichiro Tanaka.	Me llamo Ichiro Tanaka.
 lad_Latn	spa	Me yamo Wang.	Me llamo Wang.
+lad_Latn	spa	Mi ermana se esta ambezando Ido.	Mi hermana está aprendiendo ido.
 lad_Latn	spa	Mi ermano bivia en Mueva York.	Mi hermano vivía en Nueva York.
 lad_Latn	spa	Mi ermano es moendiz.	Mi hermano es ingeniero.
 lad_Latn	spa	Mi ermano morava en Mueva York.	Mi hermano vivía en Nueva York.
+lad_Latn	spa	Mi padre es djudio i mi madre es araba.	Mi padre es judío y mi madre es árabe.
+lad_Latn	spa	Mi pais tiene plajes maraviyozas.	Mi país tiene playas maravillosas.
 lad_Latn	spa	Mirava en el syelo i en la estreyeriya.	Él miró al cielo y a las estrellas.
 lad_Latn	spa	Miriam es antisemita.	Mary es antisemita.
 lad_Latn	spa	Miriam es fashista.	Mary es fascista.
@@ -160,10 +194,13 @@ lad_Latn	spa	Muncho plazer.	Mucho gusto.
 lad_Latn	spa	Munchos kantes relijiozos en Ladino son traduksiones del Ivrit.	Muchas canciones religiosas en judeoespañol son traducciones del hebreo.
 lad_Latn	spa	Nadar es fasil.	Nadar es fácil.
 lad_Latn	spa	Nadar es kolay.	Nadar es fácil.
+lad_Latn	spa	Nevruz alegre!	¡Feliz Nouruz!
 lad_Latn	spa	Ninguno no vino.	Nadie vino.
 lad_Latn	spa	Ninguno no vino.	No vino nadie.
 lad_Latn	spa	No aboltaremos a la normalidad porke la normalidad era el problem.	No volveremos a la normalidad porque la normalidad era el problema.
 lad_Latn	spa	No ay renares aki.	No hay zorros aquí.
+lad_Latn	spa	No devemos de avlar de Tom.	No tenemos que hablar de Tom.
+lad_Latn	spa	No es djudio.	No es judío.
 lad_Latn	spa	No es intelijente.	No es inteligente.
 lad_Latn	spa	No kero ke lavores ayi.	No quiero que trabajes allí.
 lad_Latn	spa	No kero ke lavoresh ayi.	No quiero que trabajéis allí.
@@ -175,13 +212,19 @@ lad_Latn	spa	No kero ke vozotros lavoresh ayi.	No quiero que ustedes trabajen al
 lad_Latn	spa	No me akodro lo ke komi anoche.	No recuerdo lo que comí anoche.
 lad_Latn	spa	No me plaze Putin.	No me gusta Putin.
 lad_Latn	spa	No, no me yamo María. Me yamo Teresa.	No, no me llamo María. Me llamo Teresa.
+lad_Latn	spa	No puedo komer kezo.	No puedo comer queso.
 lad_Latn	spa	No se ke pasa ayi.	No sé qué pasa allí.
 lad_Latn	spa	No se.	No sé.
 lad_Latn	spa	No so Mark.	No soy Mark.
 lad_Latn	spa	No so un gato.	No soy un gato.
 lad_Latn	spa	No so un pirata.	No soy un pirata.
+lad_Latn	spa	No tienes munchas paras.	No tienes mucho dinero.
+lad_Latn	spa	No todos los djudios avlan ivrit.	No todos los judíos hablan hebreo.
+lad_Latn	spa	No todos los djudios son relijiozos.	No todos los judíos son religiosos.
 lad_Latn	spa	Onde esta Kabilia?	¿Dónde está Cabilia?
+lad_Latn	spa	Onde esta mi ija?	¿Dónde está mi hija?
 lad_Latn	spa	Onde esta mi marido?	¿Dónde está mi marido?
+lad_Latn	spa	Otro mundo es posivle?	¿Es posible otro mundo?
 lad_Latn	spa	Oy es alhad.	Hoy es domingo.
 lad_Latn	spa	Oy es djueves.	Hoy es jueves.
 lad_Latn	spa	Oy es djugeves.	Hoy es jueves.
@@ -193,15 +236,21 @@ lad_Latn	spa	Sami tiene problemes.	Sami tiene problemas.
 lad_Latn	spa	Sami tuvo problemes.	Sami tuvo problemas.
 lad_Latn	spa	Se ke las paras no son todo.	Sé que el dinero no es todo.
 lad_Latn	spa	Se ke Tom es loko.	Sé que Tom está loco.
+lad_Latn	spa	Si, lo ize.	Sí, lo he hecho.
+lad_Latn	spa	Si, lo ize.	Sí, lo hice.
 lad_Latn	spa	Si, me yamo Karen Smith.	Sí, me llamo Karen Smith.
 lad_Latn	spa	Si, moro aki.	Sí, vivo aquí.
+lad_Latn	spa	So anarkista.	Soy anarquista.
+lad_Latn	spa	So anarkisto.	Soy anarquista.
 lad_Latn	spa	So djudia.	Soy judía.
 lad_Latn	spa	So djudio.	Soy judío.
 lad_Latn	spa	So grande i fuerte.	Soy grande y fuerte.
 lad_Latn	spa	So inosente.	Soy inocente.
 lad_Latn	spa	So moendiz.	Soy ingeniero.
+lad_Latn	spa	Somos una nasion independente.	Somos una nación independiente.
 lad_Latn	spa	So sivdadano kabil.	Soy ciudadano cabilio.
 lad_Latn	spa	Sos komo tu ermana.	Eres como tu hermana.
+lad_Latn	spa	Sos mi ermano, Tom.	Eres mi hermano, Tom.
 lad_Latn	spa	Sos muy mazalóza.	Tienes muy buena suerte.
 lad_Latn	spa	Sos muy mazalózo.	Tienes muy buena suerte.
 lad_Latn	spa	Sos un buen perro.	Eres un buen perro.
@@ -213,14 +262,21 @@ lad_Latn	spa	Tatoeba es una komunita.	Tatoeba es una comunidad.
 lad_Latn	spa	Te gusta el beisbol?	¿Te gusta el béisbol?
 lad_Latn	spa	Te puedes fiar en eyos.	Puedes confiar en ellos.
 lad_Latn	spa	¿Tienes un shekel?	¿Tienes un shekel?
+lad_Latn	spa	Tiene una mansana.	Tiene una manzana.
+lad_Latn	spa	Todo lo ke digo es una mintira.	Todo lo que digo es una mentira.
+lad_Latn	spa	Todos entraron.	Todos entraron.
 lad_Latn	spa	Tom es mi bohor.	Tom es mi hijo mayor.
 lad_Latn	spa	Tom es mi marido.	Tomás es mi esposo.
 lad_Latn	spa	Tom es mi marido.	Tomás es mi marido.
 lad_Latn	spa	Tom esta komprando.	Tom está comprando.
 lad_Latn	spa	Tom esta merkando.	Tom está comprando.
+lad_Latn	spa	Tom es un djenio muy estavle.	Tom es un genio muy estable.
 lad_Latn	spa	Tom es un ombre i yo so una mujer.	Tom es un hombre y yo soy una mujer.
 lad_Latn	spa	Tom keria ver Gales.	Tom quería ver Gales.
 lad_Latn	spa	Tom me rovo los kalsados.	Tom me robó los zapatos.
+lad_Latn	spa	Tom se esta ambezando djudo.	Tom está aprendiendo judo.
+lad_Latn	spa	Tom se esta ambezando karate.	Tom está aprendiendo karate.
+lad_Latn	spa	Tom se esta ambezando Krav Maga.	Tom está aprendiendo krav magá.
 lad_Latn	spa	Tom tiene amigos en Almania.	Tom tiene amigos en Alemania.
 lad_Latn	spa	Tom tiene problemes.	Tom tiene problemas.
 lad_Latn	spa	Tom tyene ojos mavis.	Tom tiene los ojos azules.
@@ -229,6 +285,7 @@ lad_Latn	spa	Una lingua es un dialekto kon una armada i una flota.	Una lengua es
 lad_Latn	spa	Una lingua es un dialekto kon una armada i una flota.	Un idioma es un dialecto con armada y flota.
 lad_Latn	spa	Una lingua es un dialekto kon una armada i una flota.	Un idioma es un dialecto con ejercito y marina.
 lad_Latn	spa	Uno, dos, tres, kuatro, sinko, sesh, siete, ocho, mueve, dies.	Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.
+lad_Latn	spa	Vendo arabas.	Vendo coches.
 lad_Latn	spa	¡Venidos buenos!	¡Bienvenidos!
 lad_Latn	spa	Ya no te puede ferir.	Ya no te puede lastimar.
 lad_Latn	spa	Yo esto de akodro.	Yo estoy de acuerdo.
@@ -237,63 +294,6 @@ lad_Latn	spa	Yo esto komprando.	Estoy comprando.
 lad_Latn	spa	Yo komo pan sin azete.	Yo como pan sin aceite.
 lad_Latn	spa	Yo no se.	Yo no sé.
 lad_Latn	spa	Yo so un robot.	Yo soy un robot.
-lad	spa	Afilu los peores egzemplos de "la kultura de la kanselasion" no se aserkan a una fraksion de los males de la Inkisizion.	Ni siquiera los peores ejemplos de "la cultura de la cancelación" se acercan a una fracción de los males de la Inquisición.
-lad	spa	Ay munchas linguas en el mundo.	Hay muchas lenguas en el mundo.
-lad	spa	Ay munchas linguas en el mundo.	Hay muchos idiomas en el mundo.
-lad	spa	Deke, Tom?	¿Por qué, Tom?
-lad	spa	Dingun estado no tiene el derecho a egzistir.	Ningún estado tiene el derecho de existir.
-lad	spa	Dingunos no tienen una alma.	Nadie tiene alma.
-lad	spa	Dingunos no tienen una neshama.	Nadie tiene alma.
-lad	spa	Dingun ser umano no es ilegal.	Ningún ser humano es ilegal.
-lad	spa	El gato tiene ambre.	El gato tiene hambre.
-lad	spa	El kave es preto.	El café es negro.
-lad	spa	El mundo esta hazino.	El mundo está enfermo.
-lad	spa	El mundo es una nasyon.	El mundo es una nación.
-lad	spa	Es frekuente.	Es frecuente.
-lad	spa	Estas son demandas frekuentes.	Estas son preguntas frecuentes.
-lad	spa	Esto akorruto deprimido.	A menudo estoy deprimido.
-lad	spa	Evropa no egziste.	Europa no existe.
-lad	spa	"Kuando?" "Nunka."	"¿Cuándo?" "Nunca."
-lad	spa	Kuantos gatos son demaziados?	¿Cuántos gatos son demasiados?
-lad	spa	La alma es diferente del kuerpo.	El alma es diferente del cuerpo.
-lad	spa	La djente miente en el Internet.	La gente miente en internet.
-lad	spa	La djente miente.	La gente miente.
-lad	spa	La gerra es mala.	La guerra es mala.
-lad	spa	La mansana no es kolorada.	La manzana no es roja.
-lad	spa	La neshama es diferente del puerpo.	El alma es diferente del cuerpo.
-lad	spa	Las palavras son emportantes.	Las palabras importan.
-lad	spa	Los arvoles son organizmos bivos.	Los árboles son organismos vivos.
-lad	spa	Los byervos son emportantes.	Las palabras importan.
-lad	spa	Los israelianos avlan ebreo.	Los israelíes hablan hebreo.
-lad	spa	Los israelis avlan ivrit.	Los israelíes hablan hebreo.
-lad	spa	Los pasharos no son reales.	Los pájaros no son reales.
-lad	spa	Mati a Tom.	Maté a Tom.
-lad	spa	Mi ermana se esta ambezando Ido.	Mi hermana está aprendiendo ido.
-lad	spa	Mi padre es djudio i mi madre es araba.	Mi padre es judío y mi madre es árabe.
-lad	spa	Mi pais tiene plajes maraviyozas.	Mi país tiene playas maravillosas.
-lad	spa	Nevruz alegre!	¡Feliz Nouruz!
-lad	spa	No devemos de avlar de Tom.	No tenemos que hablar de Tom.
-lad	spa	No es djudio.	No es judío.
-lad	spa	No puedo komer kezo.	No puedo comer queso.
-lad	spa	No tienes munchas paras.	No tienes mucho dinero.
-lad	spa	No todos los djudios avlan ivrit.	No todos los judíos hablan hebreo.
-lad	spa	No todos los djudios son relijiozos.	No todos los judíos son religiosos.
-lad	spa	Onde esta mi ija?	¿Dónde está mi hija?
-lad	spa	Otro mundo es posivle?	¿Es posible otro mundo?
-lad	spa	Si, lo ize.	Sí, lo he hecho.
-lad	spa	Si, lo ize.	Sí, lo hice.
-lad	spa	So anarkista.	Soy anarquista.
-lad	spa	So anarkisto.	Soy anarquista.
-lad	spa	Somos una nasion independente.	Somos una nación independiente.
-lad	spa	Sos mi ermano, Tom.	Eres mi hermano, Tom.
-lad	spa	Tiene una mansana.	Tiene una manzana.
-lad	spa	Todo lo ke digo es una mintira.	Todo lo que digo es una mentira.
-lad	spa	Todos entraron.	Todos entraron.
-lad	spa	Tom es un djenio muy estavle.	Tom es un genio muy estable.
-lad	spa	Tom se esta ambezando djudo.	Tom está aprendiendo judo.
-lad	spa	Tom se esta ambezando karate.	Tom está aprendiendo karate.
-lad	spa	Tom se esta ambezando Krav Maga.	Tom está aprendiendo krav magá.
-lad	spa	Vendo arabas.	Vendo coches.
 lad	spa	אונדי איסטה קאבילייה?	¿Dónde está Cabilia?
 lad	spa	איל איספאנייול אי איל איטאלייאנו סון מויי סימילאריס.	El español y el italiano son muy similares.
 lad	spa	איל אראבו איס אסימיזﬞאנטי אל איבﬞריאו.	El árabe es semejante al hebreo.

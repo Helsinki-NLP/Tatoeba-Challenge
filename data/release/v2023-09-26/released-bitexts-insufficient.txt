@@ -37,7 +37,6 @@ afr-nor	Afrikaans	Norwegian	14	114	105				2874364	45687856	43492023
 afr-pol	Afrikaans	Polish	22	125	111				1615233	27245093	21570093	
 afr-por	Afrikaans	Portuguese	94	494	458				1795565	29995875	29395984	
 afr-ron	Afrikaans	Romanian	2	7	8				1482972	25593970	25787300	
-afr-swa	Afrikaans	Swahili (macrolanguage)	2	31	20				3088033	42678272	39661844	
 afr-swe	Afrikaans	Swedish	5	30	28				3114165	47990831	44501557	
 afr-tsn	Afrikaans	Tswana	13	90	92				1143756	16183495	21406115	
 afr-tur	Afrikaans	Turkish	59	358	242				3727739	42566845	32789513	
@@ -108,7 +107,7 @@ ang-spa	Old English (ca. 450-1100)	Spanish	20	153	150				699	1647	2262
 ang-swe	Old English (ca. 450-1100)	Swedish	2	3	5				676	1447	1625	
 ang-tlh	Old English (ca. 450-1100)	Klingon	15	63	43	1	4	2			
 ang-tmr	Old English (ca. 450-1100)	Jewish Babylonian Aramaic (ca. 200-1200 CE)	3	10	6						
-ang-tok	Old English (ca. 450-1100)	unknown	2	4	10						
+ang-tok	Old English (ca. 450-1100)	Toki Pona	2	4	10						
 ang-tur	Old English (ca. 450-1100)	Turkish	5	22	17				662	1378	1490	
 ang-tzl	Old English (ca. 450-1100)	Talossan	4	15	14						
 ang-ukr	Old English (ca. 450-1100)	Ukrainian	2	8	8				434	1070	1189	
@@ -182,8 +181,7 @@ ara-swe	Arabic	Swedish	4	17	20				20592124	197994071	207288970
 ara-tat	Arabic	Tatar	4	31	26				1949398	20141028	18038098	
 ara-tlh	Arabic	Klingon	34	91	97	6	32	25	153	1882	1392	
 ara-tmr	Arabic	Jewish Babylonian Aramaic (ca. 200-1200 CE)	18	56	59						
-ara-tok	Arabic	unknown	12	32	54						
-ara-toki	Arabic	Toki Pona	15	52	120	2	12	33			
+ara-tok	Arabic	Toki Pona	24	77	159	2	12	33			
 ara-tuk	Arabic	Turkmen	2	14	11				38826	862992	874624	
 ara-tzl	Arabic	Talossan	29	92	138	4	10	18			
 ara-uig	Arabic	Uighur	16	65	57				20512	547459	401570	
@@ -262,7 +260,7 @@ avk-slv	Kotava	Slovenian	2	7	6
 avk-swa	Kotava	Swahili (macrolanguage)	77	348	292						
 avk-swe	Kotava	Swedish	1	3	4						
 avk-tlh	Kotava	Klingon	8	29	16						
-avk-toki	Kotava	Toki Pona	2	7	10						
+avk-tok	Kotava	Toki Pona	2	7	10						
 avk-tur	Kotava	Turkish	46	165	169						
 avk-tzl	Kotava	Talossan	9	31	28	2	8	10			
 avk-ukr	Kotava	Ukrainian	5	23	18						
@@ -304,7 +302,7 @@ aze-rus	Azerbaijani	Russian	10	45	48	2	18	19	22010308	211874602	244628566
 aze-sah	Azerbaijani	Yakut	1	3	3						
 aze-tat	Azerbaijani	Tatar	1	4	4				401076	4334516	4361906	
 aze-tlh	Azerbaijani	Klingon	1	3	2				14	22	16	
-aze-toki	Azerbaijani	Toki Pona	1	3	4						
+aze-tok	Azerbaijani	Toki Pona	1	3	4						
 aze-tuk	Azerbaijani	Turkmen	1	2	2				1755	6527	6145	
 aze-ukr	Azerbaijani	Ukrainian	1	3	3				550811	6068783	6195734	
 aze-yid	Azerbaijani	Yiddish	6	16	31				6882	15068	96646	
@@ -387,7 +385,7 @@ bel-ron	Belarusian	Romanian	1	5	5				901980	15938313	13393615
 bel-slv	Belarusian	Slovenian	12	53	59				1030381	11459074	12152516	
 bel-swa	Belarusian	Swahili (macrolanguage)	1	25	19				355468	4749119	5129728	
 bel-tat	Belarusian	Tatar	1	5	4				8560	20807	23638	
-bel-toki	Belarusian	Toki Pona	1	4	7						
+bel-tok	Belarusian	Toki Pona	1	4	7						
 bel-tuk	Belarusian	Turkmen	1	5	4				3448	11603	11038	
 bel-tur	Belarusian	Turkish	140	684	582	17	61	51	2585472	33546652	30596105	
 bel-tzl	Belarusian	Talossan	1	5	6						
@@ -447,7 +445,7 @@ ber-shi	Berber languages	Tachelhit	1	4	5
 ber-shy	Berber languages	Tachawit	10	33	33						
 ber-swe	Berber languages	Swedish	4	15	20				4	10	20	
 ber-tlh	Berber languages	Klingon	2	8	6						
-ber-toki	Berber languages	Toki Pona	5	23	61						
+ber-tok	Berber languages	Toki Pona	5	23	61						
 ber-tur	Berber languages	Turkish	25	127	99				6	12	29	
 ber-ukr	Berber languages	Ukrainian	1	5	4				3	7	15	
 ber-yid	Berber languages	Yiddish	8	34	34	1	4	5			
@@ -571,8 +569,7 @@ bzt-swe	Brithenig	Swedish	3	19	17
 bzt-swg	Brithenig	Swabian	1	5	3						
 bzt-tlh	Brithenig	Klingon	80	341	219	12	55	37			
 bzt-tmr	Brithenig	Jewish Babylonian Aramaic (ca. 200-1200 CE)	15	69	37	3	13	9			
-bzt-tok	Brithenig	unknown	21	81	128						
-bzt-toki	Brithenig	Toki Pona	13	87	129	2	9	7			
+bzt-tok	Brithenig	Toki Pona	34	168	257	2	9	7			
 bzt-tur	Brithenig	Turkish	20	92	67	2	8	6			
 bzt-tzl	Brithenig	Talossan	42	198	179	2	8	7			
 bzt-ukr	Brithenig	Ukrainian	9	35	19						
@@ -604,7 +601,7 @@ cat-ron	Catalan	Romanian	1	3	3				7260431	78467347	75891458
 cat-rus	Catalan	Russian	185	1122	967	1	4	4	1991389	25123466	20676592	
 cat-sme	Catalan	Northern Sami	1	6	4				15731	91725	60158	
 cat-swe	Catalan	Swedish	2	12	11				1407116	18151455	15739508	
-cat-toki	Catalan	Toki Pona	2	10	12						
+cat-tok	Catalan	Toki Pona	2	10	12						
 cat-tur	Catalan	Turkish	20	104	72	1	4	4	1822445	21845110	16682459	
 cat-yid	Catalan	Yiddish	6	29	30				22271	100674	369911	
 cat-zho	Catalan	Chinese	122	786	123	1	4	1	1001859	8336844	2260195	
@@ -622,8 +619,7 @@ cbk-por	Chavacano	Portuguese	55	316	294
 cbk-rus	Chavacano	Russian	1	3	5						
 cbk-spa	Chavacano	Spanish	98	576	510	4	13	16			
 cbk-tgl	Chavacano	Tagalog	1	3	4						
-cbk-tok	Chavacano	unknown	1	3	12						
-cbk-toki	Chavacano	Toki Pona	1	3	10						
+cbk-tok	Chavacano	Toki Pona	2	6	22						
 cbk-zho	Chavacano	Chinese	1	3	1						
 ceb-epo	Cebuano	Esperanto	39	210	198				50373	892860	700974	
 ceb-fra	Cebuano	French	13	89	115				892388	16495593	15878273	
@@ -687,8 +683,7 @@ ces-swg	Czech	Swabian	1	5	7
 ces-tgl	Czech	Tagalog	5	19	30				1784887	22019198	29141880	
 ces-tlh	Czech	Klingon	12	42	39				125	1833	1385	
 ces-tmr	Czech	Jewish Babylonian Aramaic (ca. 200-1200 CE)	1	7	5						
-ces-tok	Czech	unknown	1	1	3						
-ces-toki	Czech	Toki Pona	2	11	32						
+ces-tok	Czech	Toki Pona	3	12	35						
 ces-tur	Czech	Turkish	89	381	339	1	3	3	44787172	320399375	285025873	
 ces-tzl	Czech	Talossan	12	49	63	1	3	5			
 ces-uig	Czech	Uighur	4	10	7				18598	287826	323184	
@@ -869,8 +864,7 @@ dan-swg	Danish	Swabian	1	14	13
 dan-tat	Danish	Tatar	1	9	9				226675	3845775	2616369	
 dan-tlh	Danish	Klingon	25	98	78				28	186	120	
 dan-tmr	Danish	Jewish Babylonian Aramaic (ca. 200-1200 CE)	4	15	10						
-dan-tok	Danish	unknown	5	24	30						
-dan-toki	Danish	Toki Pona	8	54	76						
+dan-tok	Danish	Toki Pona	13	78	106						
 dan-tzl	Danish	Talossan	13	55	57						
 dan-ukr	Danish	Ukrainian	30	143	122	1	4	3	6801180	95532880	84064796	
 dan-urd	Danish	Urdu	3	10	12				628184	11106365	14144388	
@@ -997,7 +991,7 @@ drt-stq	Drents	Saterfriesisch	4	29	29
 drt-swe	Drents	Swedish	2	13	12						
 drt-tlh	Drents	Klingon	1	9	6						
 drt-tmr	Drents	Jewish Babylonian Aramaic (ca. 200-1200 CE)	1	9	5						
-drt-toki	Drents	Toki Pona	1	9	6						
+drt-tok	Drents	Toki Pona	1	9	6						
 drt-tzl	Drents	Talossan	3	21	21						
 drt-vol	Drents	Volapük	3	21	17						
 drt-yid	Drents	Yiddish	3	21	22						
@@ -1047,7 +1041,7 @@ dtp-shi	Kadazan Dusun	Tachelhit	1	4	6
 dtp-spa	Kadazan Dusun	Spanish	5	42	41						
 dtp-tgl	Kadazan Dusun	Tagalog	6	35	31						
 dtp-tha	Kadazan Dusun	Thai	3	20	3						
-dtp-toki	Kadazan Dusun	Toki Pona	1	8	15						
+dtp-tok	Kadazan Dusun	Toki Pona	1	8	15						
 dtp-tur	Kadazan Dusun	Turkish	1	6	3						
 dtp-ukr	Kadazan Dusun	Ukrainian	3	23	18						
 dtp-xmf	Kadazan Dusun	Mingrelian	2	11	8						
@@ -1093,14 +1087,12 @@ ell-mkd	Modern Greek (1453-)	Macedonian	1	3	6				3367096	31359167	30562780
 ell-mlt	Modern Greek (1453-)	Maltese	60	148	127				4777813	102718178	84160531	
 ell-msa	Modern Greek (1453-)	Malay (macrolanguage)	9	18	23				19247897	184503055	168849488	
 ell-nds	Modern Greek (1453-)	Low German	28	88	119				90360	560153	533181	
-ell-nor	Modern Greek (1453-)	Norwegian	14	55	55				21533118	277175339	260836253	
 ell-pap	Modern Greek (1453-)	Papiamento	5	7	17				282576	4798290	5571838	
 ell-pol	Modern Greek (1453-)	Polish	121	509	470				51613014	614478092	526733844	
 ell-ron	Modern Greek (1453-)	Romanian	2	11	11				46264336	518046247	529145266	
 ell-tgl	Modern Greek (1453-)	Tagalog	11	67	68				510697	5479143	6072147	
 ell-tlh	Modern Greek (1453-)	Klingon	1	5	2				112	2008	1239	
-ell-tok	Modern Greek (1453-)	unknown	15	67	120						
-ell-toki	Modern Greek (1453-)	Toki Pona	2	10	8						
+ell-tok	Modern Greek (1453-)	Toki Pona	17	77	128						
 ell-ukr	Modern Greek (1453-)	Ukrainian	41	171	165	1	5	3	6827143	92183500	77141105	
 ell-vol	Modern Greek (1453-)	Volapük	1	2	2						
 ell-xal	Modern Greek (1453-)	Kalmyk	1	1	3				26	49	42	
@@ -1417,8 +1409,7 @@ enm-spa	Middle English (1100-1500)	Spanish	10	54	58
 enm-stq	Middle English (1100-1500)	Saterfriesisch	2	6	6						
 enm-tlh	Middle English (1100-1500)	Klingon	20	80	57	3	11	9			
 enm-tmr	Middle English (1100-1500)	Jewish Babylonian Aramaic (ca. 200-1200 CE)	16	132	70	2	6	4			
-enm-tok	Middle English (1100-1500)	unknown	4	14	27						
-enm-toki	Middle English (1100-1500)	Toki Pona	4	62	58						
+enm-tok	Middle English (1100-1500)	Toki Pona	8	76	85						
 enm-tur	Middle English (1100-1500)	Turkish	9	41	33	2	8	7			
 enm-tzl	Middle English (1100-1500)	Talossan	16	67	65	2	7	7			
 enm-ukr	Middle English (1100-1500)	Ukrainian	11	51	43						
@@ -1518,7 +1509,7 @@ est-slv	Estonian	Slovenian	2	7	8				27307773	344239889	405283935
 est-spa	Estonian	Spanish	42	180	204				40555996	476817674	694075657	
 est-swe	Estonian	Swedish	1	6	6				27710090	348898447	423798315	
 est-tat	Estonian	Tatar	4	17	16				233113	2859676	2676667	
-est-tok	Estonian	unknown	1	4	5						
+est-tok	Estonian	Toki Pona	1	4	5						
 est-tur	Estonian	Turkish	27	117	94	1	4	4	14566160	107349505	102147111	
 est-ukr	Estonian	Ukrainian	17	73	75				5176833	54094049	59256530	
 est-urd	Estonian	Urdu	1	3	4				494985	5152066	7921414	
@@ -1591,8 +1582,7 @@ fas-swe	Persian	Swedish	1	7	5				8048049	92864644	78319033
 fas-tat	Persian	Tatar	1	11	9				151414	5433322	3690839	
 fas-tlh	Persian	Klingon	11	37	29				92	2354	1050	
 fas-tmr	Persian	Jewish Babylonian Aramaic (ca. 200-1200 CE)	2	6	4						
-fas-tok	Persian	unknown	3	13	12						
-fas-toki	Persian	Toki Pona	2	6	10						
+fas-tok	Persian	Toki Pona	5	19	22						
 fas-tur	Persian	Turkish	58	267	205				12269362	146665380	101362751	
 fas-tzl	Persian	Talossan	1	4	5						
 fas-ukr	Persian	Ukrainian	116	715	617				2651592	40007220	29471071	
@@ -1638,8 +1628,7 @@ fin-tat	Finnish	Tatar	8	70	62				245585	2809245	2830004
 fin-tgl	Finnish	Tagalog	24	94	155				799895	7418911	11257775	
 fin-tha	Finnish	Thai	1	4	1				4229726	38887085	15742082	
 fin-tlh	Finnish	Klingon	2	6	4				119	1560	1325	
-fin-tok	Finnish	unknown	3	10	15						
-fin-toki	Finnish	Toki Pona	5	17	43						
+fin-tok	Finnish	Toki Pona	8	27	58						
 fin-tzl	Finnish	Talossan	5	19	24						
 fin-ukr	Finnish	Ukrainian	33	143	165				6831237	67033983	77474304	
 fin-vep	Finnish	Veps	1	23	21						
@@ -1759,7 +1748,6 @@ fra-tha	French	Thai	47	324	61				6875629	102697078	31297622
 fra-tly	French	Talysh	3	14	11						
 fra-tmh	French	Tamashek	51	133	98				1921	43256	38175	
 fra-tmr	French	Jewish Babylonian Aramaic (ca. 200-1200 CE)	10	85	51	1	5	3			
-fra-tok	French	unknown	79	578	749						
 fra-ton	French	Tonga (Tonga Islands)	2	5	5				304967	5491987	6511684	
 fra-tpi	French	Tok Pisin	6	19	23				364845	6378832	7969511	
 fra-tpw	French	Tupí	7	27	24						
@@ -1820,7 +1808,7 @@ fry-swe	Western Frisian	Swedish	3	16	16				88468	442439	409847
 fry-szl	Western Frisian	Silesian	1	3	4				289	951	866	
 fry-tlh	Western Frisian	Klingon	3	16	12				14	23	16	
 fry-tmr	Western Frisian	Jewish Babylonian Aramaic (ca. 200-1200 CE)	1	9	5						
-fry-toki	Western Frisian	Toki Pona	1	9	6						
+fry-tok	Western Frisian	Toki Pona	1	9	6						
 fry-tur	Western Frisian	Turkish	38	231	152				79859	284114	230108	
 fry-tzl	Western Frisian	Talossan	6	32	36						
 fry-ukr	Western Frisian	Ukrainian	29	174	147				79271	311575	271779	
@@ -1898,7 +1886,7 @@ glg-nor	Galician	Norwegian	5	25	29				429883	3122153	2771558
 glg-osp	Galician	Old Spanish	1	10	10						
 glg-pol	Galician	Polish	7	36	28				555030	3951360	3264962	
 glg-rus	Galician	Russian	38	192	178				502702	3880528	3286896	
-glg-toki	Galician	Toki Pona	1	5	3						
+glg-tok	Galician	Toki Pona	1	5	3						
 glg-tur	Galician	Turkish	1	4	4				4732305	37613985	30133506	
 glg-yid	Galician	Yiddish	4	16	17				24914	104647	378213	
 glg-zho	Galician	Chinese	9	37	9				497008	3180634	1031838	
@@ -1942,7 +1930,7 @@ gos-sux	Gronings	Sumerian	3	12	25
 gos-swe	Gronings	Swedish	5	30	29						
 gos-tlh	Gronings	Klingon	4	19	15						
 gos-tmr	Gronings	Jewish Babylonian Aramaic (ca. 200-1200 CE)	1	9	5						
-gos-toki	Gronings	Toki Pona	2	14	18						
+gos-tok	Gronings	Toki Pona	2	14	18						
 gos-tuk	Gronings	Turkmen	1	5	3						
 gos-tur	Gronings	Turkish	1	5	3						
 gos-tzl	Gronings	Talossan	5	27	31						
@@ -2019,7 +2007,7 @@ hat-ron	Haitian	Romanian	1	4	3				293057	4776426	4690047
 hat-sjn	Haitian	Sindarin	1	3	2						
 hat-slv	Haitian	Slovenian	1	3	3				183601	3182938	2711579	
 hat-spa	Haitian	Spanish	54	265	243				508947	8784002	8480013	
-hat-tok	Haitian	unknown	1	3	2						
+hat-tok	Haitian	Toki Pona	1	3	2						
 hat-tur	Haitian	Turkish	1	5	3				335182	5257690	4225847	
 hat-tzl	Haitian	Talossan	1	3	4						
 hat-yid	Haitian	Yiddish	10	43	47				3573	7769	9345	
@@ -2046,8 +2034,7 @@ hbo-spa	Ancient Hebrew	Spanish	5	48	84
 hbo-swe	Ancient Hebrew	Swedish	1	1	1						
 hbo-tlh	Ancient Hebrew	Klingon	8	15	23						
 hbo-tmr	Ancient Hebrew	Jewish Babylonian Aramaic (ca. 200-1200 CE)	4	32	41						
-hbo-tok	Ancient Hebrew	unknown	3	8	14						
-hbo-toki	Ancient Hebrew	Toki Pona	3	9	25						
+hbo-tok	Ancient Hebrew	Toki Pona	6	17	39						
 hbo-vol	Ancient Hebrew	Volapük	1	2	3						
 hbo-yid	Ancient Hebrew	Yiddish	28	116	246						
 hbs-hbs	Serbo-Croatian	Serbo-Croatian	43	214	217				58666518	540320930	539573022	
@@ -2067,9 +2054,8 @@ hbs-ron	Serbo-Croatian	Romanian	1	7	7				68549042	586505598	678253781
 hbs-rue	Serbo-Croatian	Rusyn	1	42	36						
 hbs-slv	Serbo-Croatian	Slovenian	39	130	111				45209193	446989984	435127760	
 hbs-sme	Serbo-Croatian	Northern Sami	4	19	16				24240	106302	89984	
-hbs-swe	Serbo-Croatian	Swedish	2	5	7				37131475	367479337	379539645	
 hbs-tat	Serbo-Croatian	Tatar	2	25	25				271021	3748551	3073533	
-hbs-tok	Serbo-Croatian	unknown	3	9	24						
+hbs-tok	Serbo-Croatian	Toki Pona	3	9	24						
 hbs-urd	Serbo-Croatian	Urdu	1	2	3				1334624	19111410	25967830	
 hbs-vol	Serbo-Croatian	Volapük	2	7	6						
 heb-hrx	Hebrew	Hunsrik	1	3	3						
@@ -2100,14 +2086,12 @@ heb-ron	Hebrew	Romanian	8	35	56				26577504	185777184	228634691
 heb-sjn	Hebrew	Sindarin	10	27	29	3	8	8			
 heb-slv	Hebrew	Slovenian	4	15	16				15004636	109948372	111620424	
 heb-stq	Hebrew	Saterfriesisch	2	4	6						
-heb-swe	Hebrew	Swedish	6	22	28				20435696	148417014	166917221	
 heb-swg	Hebrew	Swabian	1	2	3						
 heb-syc	Hebrew	Classical Syriac	1	5	5						
 heb-tgl	Hebrew	Tagalog	15	64	76				1410815	16832485	21685474	
 heb-tlh	Hebrew	Klingon	80	262	231	16	61	59	136	1432	1429	
 heb-tmr	Hebrew	Jewish Babylonian Aramaic (ca. 200-1200 CE)	22	95	96	7	21	21			
-heb-tok	Hebrew	unknown	23	73	128						
-heb-toki	Hebrew	Toki Pona	85	568	1131	17	107	214			
+heb-tok	Hebrew	Toki Pona	108	641	1259	17	107	214			
 heb-tzl	Hebrew	Talossan	40	130	176	8	25	39			
 heb-vie	Hebrew	Vietnamese	1	1	2				10023072	78327539	123625598	
 heb-vol	Hebrew	Volapük	51	168	185	7	27	30			
@@ -2187,8 +2171,7 @@ hun-tat	Hungarian	Tatar	1	7	9				231782	3023636	2711077
 hun-tgl	Hungarian	Tagalog	5	17	18				815820	7875976	10456830	
 hun-tlh	Hungarian	Klingon	32	108	112	4	12	11	123	1829	1329	
 hun-tmr	Hungarian	Jewish Babylonian Aramaic (ca. 200-1200 CE)	9	24	23	1	3	3			
-hun-tok	Hungarian	unknown	5	15	26						
-hun-toki	Hungarian	Toki Pona	11	42	82						
+hun-tok	Hungarian	Toki Pona	16	57	108						
 hun-tuk	Hungarian	Turkmen	1	6	6				2710	12232	11292	
 hun-tzl	Hungarian	Talossan	24	78	109	6	17	29			
 hun-urd	Hungarian	Urdu	2	5	8				712258	9779360	14298162	
@@ -2244,8 +2227,7 @@ ido-tat	Ido	Tatar	2	11	8				1645	3161	3117
 ido-tgl	Ido	Tagalog	10	24	27				3458	6783	5597	
 ido-tlh	Ido	Klingon	127	503	328	16	74	54	5	7	5	
 ido-tmr	Ido	Jewish Babylonian Aramaic (ca. 200-1200 CE)	16	80	61	3	11	9			
-ido-tok	Ido	unknown	19	72	121						
-ido-toki	Ido	Toki Pona	66	270	438	8	33	60			
+ido-tok	Ido	Toki Pona	85	342	559	8	33	60			
 ido-tuk	Ido	Turkmen	1	3	2				481	1346	1314	
 ido-tur	Ido	Turkish	53	198	157	6	25	18	6103	13935	11560	
 ido-tzl	Ido	Talossan	59	235	272	9	32	39			
@@ -2286,8 +2268,7 @@ ile-swe	Interlingue	Swedish	2	13	12				82	228	350
 ile-swg	Interlingue	Swabian	1	3	3						
 ile-tlh	Interlingue	Klingon	76	331	176	14	61	43			
 ile-tmr	Interlingue	Jewish Babylonian Aramaic (ca. 200-1200 CE)	10	44	29	3	12	8			
-ile-tok	Interlingue	unknown	5	18	32						
-ile-toki	Interlingue	Toki Pona	14	58	109	4	21	31			
+ile-tok	Interlingue	Toki Pona	19	76	141	4	21	31			
 ile-tur	Interlingue	Turkish	17	84	61	2	9	7	117	283	625	
 ile-tzl	Interlingue	Talossan	31	142	121	8	36	36			
 ile-ukr	Interlingue	Ukrainian	8	38	30						
@@ -2328,8 +2309,7 @@ ina-swe	Interlingua (International Auxiliary Language Association)	Swedish	8	37	
 ina-swg	Interlingua (International Auxiliary Language Association)	Swabian	5	24	24						
 ina-tgl	Interlingua (International Auxiliary Language Association)	Tagalog	25	183	194				6454	43900	46914	
 ina-tmr	Interlingua (International Auxiliary Language Association)	Jewish Babylonian Aramaic (ca. 200-1200 CE)	20	117	75	4	17	11			
-ina-tok	Interlingua (International Auxiliary Language Association)	unknown	58	234	348						
-ina-toki	Interlingua (International Auxiliary Language Association)	Toki Pona	82	408	638	14	72	109			
+ina-tok	Interlingua (International Auxiliary Language Association)	Toki Pona	140	642	986	14	72	109			
 ina-tuk	Interlingua (International Auxiliary Language Association)	Turkmen	1	3	2				370	875	746	
 ina-tzl	Interlingua (International Auxiliary Language Association)	Talossan	89	394	367	16	67	65			
 ina-ukr	Interlingua (International Auxiliary Language Association)	Ukrainian	47	187	150	4	17	12	20778	178684	149548	
@@ -2351,7 +2331,7 @@ isl-por	Icelandic	Portuguese	64	324	330				5372426	60299575	65867365
 isl-ron	Icelandic	Romanian	2	8	8				2972680	33109876	36753238	
 isl-stq	Icelandic	Saterfriesisch	1	3	3						
 isl-swe	Icelandic	Swedish	1	8	10				5701699	69700296	68710698	
-isl-tok	Icelandic	unknown	1	3	8						
+isl-tok	Icelandic	Toki Pona	1	3	8						
 isl-tur	Icelandic	Turkish	1	5	4				2066527	17166908	14379920	
 isl-tzl	Icelandic	Talossan	1	3	3						
 isl-zho	Icelandic	Chinese	12	68	12				1275416	9001203	3094523	
@@ -2382,11 +2362,9 @@ ita-slv	Italian	Slovenian	79	377	332				31782491	477512726	408315845
 ita-sqi	Italian	Albanian	56	304	316	18	117	115	8619608	110171133	116437811	
 ita-swa	Italian	Swahili (macrolanguage)	22	99	66	1	3	2	2767434	41546024	38207835	
 ita-tat	Italian	Tatar	52	347	366				256744	4029605	2977928	
-ita-tgl	Italian	Tagalog	93	477	498				2182798	31541584	34950122	
 ita-tha	Italian	Thai	15	68	22				6487036	91646302	29356807	
 ita-tlh	Italian	Klingon	140	620	416	5	20	15	127	2395	1341	
 ita-tmr	Italian	Jewish Babylonian Aramaic (ca. 200-1200 CE)	5	18	13						
-ita-tok	Italian	unknown	15	89	119						
 ita-tuk	Italian	Turkmen	1	2	2				2700	15434	11547	
 ita-tzl	Italian	Talossan	22	92	94	3	14	14			
 ita-uig	Italian	Uighur	82	339	294				12086	169395	178766	
@@ -2423,8 +2401,7 @@ jbo-swg	Lojban	Swabian	2	4	6
 jbo-tgl	Lojban	Tagalog	35	317	258				33	145	112	
 jbo-tlh	Lojban	Klingon	30	154	93	2	11	7	10	22	11	
 jbo-tmr	Lojban	Jewish Babylonian Aramaic (ca. 200-1200 CE)	8	38	21						
-jbo-tok	Lojban	unknown	11	70	70						
-jbo-toki	Lojban	Toki Pona	8	38	56						
+jbo-tok	Lojban	Toki Pona	19	108	126						
 jbo-tuk	Lojban	Turkmen	1	4	2				42	57	45	
 jbo-tur	Lojban	Turkish	6	36	17				353	954	702	
 jbo-tzl	Lojban	Talossan	9	43	34	1	8	4			
@@ -2437,7 +2414,7 @@ jpa-lfn	Jewish Palestinian Aramaic	Lingua Franca Nova	1	2	4
 jpa-nor	Jewish Palestinian Aramaic	Norwegian	1	2	4						
 jpa-tlh	Jewish Palestinian Aramaic	Klingon	1	2	2						
 jpa-tmr	Jewish Palestinian Aramaic	Jewish Babylonian Aramaic (ca. 200-1200 CE)	2	5	5						
-jpa-toki	Jewish Palestinian Aramaic	Toki Pona	1	2	3						
+jpa-tok	Jewish Palestinian Aramaic	Toki Pona	1	2	3						
 jpa-yid	Jewish Palestinian Aramaic	Yiddish	1	2	4						
 jpn-kab	Japanese	Kabyle	30	30	169				20906	38087	154659	
 jpn-kat	Japanese	Georgian	56	56	232				693046	1747927	11785605	
@@ -2484,7 +2461,6 @@ jpn-tat	Japanese	Tatar	81	89	352				112240	235129	2554394
 jpn-tgk	Japanese	Tajik	3	3	19				192118	464579	2707822	
 jpn-tgl	Japanese	Tagalog	136	136	710				1429308	3064549	28899147	
 jpn-tha	Japanese	Thai	52	52	68				4231011	10482503	19169730	
-jpn-tok	Japanese	unknown	119	119	1186						
 jpn-tuk	Japanese	Turkmen	2	2	5				44251	99386	1068513	
 jpn-tzl	Japanese	Talossan	2	2	10						
 jpn-uig	Japanese	Uighur	66	66	300	7	7	26	9838	13752	171236	
@@ -2524,8 +2500,7 @@ kab-tgl	Kabyle	Tagalog	1	6	6				5762	115857	134766
 kab-tlh	Kabyle	Klingon	4	9	11				9	15	10	
 kab-tmh	Kabyle	Tamashek	2	6	5				506	9639	9668	
 kab-tmr	Kabyle	Jewish Babylonian Aramaic (ca. 200-1200 CE)	1	1	1						
-kab-tok	Kabyle	unknown	4	16	35						
-kab-toki	Kabyle	Toki Pona	6	33	50						
+kab-tok	Kabyle	Toki Pona	10	49	85						
 kab-tur	Kabyle	Turkish	5	20	15	1	2	2	32056	301529	236432	
 kab-vie	Kabyle	Vietnamese	2	6	11				36280	414832	551431	
 kab-vol	Kabyle	Volapük	5	17	20						
@@ -2551,7 +2526,7 @@ kat-pol	Georgian	Polish	13	56	59				900429	13678300	14113213
 kat-por	Georgian	Portuguese	4	21	26				643752	7674079	9308624	
 kat-spa	Georgian	Spanish	2	5	6				701522	7940802	9990558	
 kat-tgl	Georgian	Tagalog	2	2	4				459353	9418705	13740407	
-kat-tok	Georgian	unknown	1	3	5						
+kat-tok	Georgian	Toki Pona	1	3	5						
 kat-tur	Georgian	Turkish	146	446	439	12	43	40	1019066	14472508	12744368	
 kat-ukr	Georgian	Ukrainian	5	14	22				714625	12740481	12999870	
 kat-vie	Georgian	Vietnamese	1	1	3				793638	13342762	19886104	
@@ -2573,7 +2548,7 @@ kaz-spa	Kazakh	Spanish	80	292	384				365663	3351992	4566123
 kaz-swe	Kazakh	Swedish	1	3	3				258721	2651175	3110880	
 kaz-tat	Kazakh	Tatar	5	22	21				74175	411298	414776	
 kaz-tlh	Kazakh	Klingon	1	3	2				15	22	17	
-kaz-toki	Kazakh	Toki Pona	1	3	4						
+kaz-tok	Kazakh	Toki Pona	1	3	4						
 kaz-tuk	Kazakh	Turkmen	4	20	20				2411	7268	6918	
 kaz-tur	Kazakh	Turkish	121	474	432	1	4	5	607552	4656182	4678200	
 kaz-tyv	Kazakh	Tuvinian	7	25	34						
@@ -2625,7 +2600,7 @@ kor-swg	Korean	Swabian	1	1	1
 kor-tat	Korean	Tatar	2	10	8				95576	3021225	2510372	
 kor-tgl	Korean	Tagalog	1	2	3				495065	4459603	6414997	
 kor-tlh	Korean	Klingon	2	3	3				134	1440	1369	
-kor-toki	Korean	Toki Pona	2	5	6						
+kor-tok	Korean	Toki Pona	2	5	6						
 kor-tur	Korean	Turkish	180	760	749				10127118	93699370	98418431	
 kor-uig	Korean	Uighur	13	38	35				9699	126256	171553	
 kor-ukr	Korean	Ukrainian	28	92	113				2903908	34229949	36132945	
@@ -2670,8 +2645,7 @@ kur-tat	Kurdish	Tatar	1	2	2				7689	196683	148106
 kur-tlh	Kurdish	Klingon	5	19	14				95	880	657	
 kur-tmr	Kurdish	Jewish Babylonian Aramaic (ca. 200-1200 CE)	5	20	12						
 kur-toi	Kurdish	Tonga (Zambia)	1	4	3				13715	207374	165296	
-kur-tok	Kurdish	unknown	1	2	5						
-kur-toki	Kurdish	Toki Pona	2	7	10						
+kur-tok	Kurdish	Toki Pona	3	9	15						
 kur-tuk	Kurdish	Turkmen	1	4	4				12829	182331	134787	
 kur-tzl	Kurdish	Talossan	10	33	43						
 kur-uzb	Kurdish	Uzbek	1	4	3				16941	265868	168371	
@@ -2706,8 +2680,7 @@ lad-swg	Ladino	Swabian	2	4	6
 lad-tat	Ladino	Tatar	1	3	2						
 lad-tlh	Ladino	Klingon	153	593	432	21	77	55			
 lad-tmr	Ladino	Jewish Babylonian Aramaic (ca. 200-1200 CE)	38	158	95	11	43	28			
-lad-tok	Ladino	unknown	43	182	309						
-lad-toki	Ladino	Toki Pona	43	246	404	4	14	17			
+lad-tok	Ladino	Toki Pona	85	401	675	4	14	17			
 lad-tur	Ladino	Turkish	81	344	264	13	56	36			
 lad-tzl	Ladino	Talossan	92	407	405	10	39	44			
 lad-ukr	Ladino	Ukrainian	31	127	109	3	9	8			
@@ -2739,8 +2712,6 @@ lat-swg	Latin	Swabian	1	2	3
 lat-tat	Latin	Tatar	1	3	2				5259	9157	10029	
 lat-tgl	Latin	Tagalog	2	13	18				67214	587490	855409	
 lat-tmr	Latin	Jewish Babylonian Aramaic (ca. 200-1200 CE)	27	143	116	6	21	19			
-lat-tok	Latin	unknown	185	1335	2634						
-lat-toki	Latin	Toki Pona	69	307	593	8	25	43			
 lat-tuk	Latin	Turkmen	1	3	2				50	197	222	
 lat-tur	Latin	Turkish	137	552	532	12	35	38	210894	1449730	1271160	
 lat-tzl	Latin	Talossan	59	176	234	13	49	67			
@@ -2781,8 +2752,7 @@ ldn-rus	Láadan	Russian	2	8	4
 ldn-sjn	Láadan	Sindarin	3	14	7						
 ldn-tlh	Láadan	Klingon	13	60	35						
 ldn-tmr	Láadan	Jewish Babylonian Aramaic (ca. 200-1200 CE)	2	7	4						
-ldn-tok	Láadan	unknown	4	16	16						
-ldn-toki	Láadan	Toki Pona	3	11	13						
+ldn-tok	Láadan	Toki Pona	7	27	29						
 ldn-tur	Láadan	Turkish	3	12	6						
 ldn-tzl	Láadan	Talossan	4	21	18						
 ldn-vep	Láadan	Veps	1	10	10						
@@ -2812,8 +2782,7 @@ lfn-swe	Lingua Franca Nova	Swedish	6	33	27
 lfn-swg	Lingua Franca Nova	Swabian	1	3	3						
 lfn-tgl	Lingua Franca Nova	Tagalog	1	1	1						
 lfn-tmr	Lingua Franca Nova	Jewish Babylonian Aramaic (ca. 200-1200 CE)	30	152	93	6	28	17			
-lfn-tok	Lingua Franca Nova	unknown	42	164	238						
-lfn-toki	Lingua Franca Nova	Toki Pona	135	929	1248	21	245	290			
+lfn-tok	Lingua Franca Nova	Toki Pona	177	1093	1486	21	245	290			
 lfn-tuk	Lingua Franca Nova	Turkmen	2	10	6						
 lfn-tzl	Lingua Franca Nova	Talossan	113	530	459	19	87	83			
 lfn-ukr	Lingua Franca Nova	Ukrainian	53	244	186	9	41	30			
@@ -2846,8 +2815,7 @@ lit-slv	Lithuanian	Slovenian	14	61	54				22638941	346114512	382205685
 lit-swe	Lithuanian	Swedish	2	8	8				24668001	365788703	413653795	
 lit-tat	Lithuanian	Tatar	2	9	8				226625	2717583	2597378	
 lit-tha	Lithuanian	Thai	3	4	3				1970789	26228954	10280989	
-lit-tok	Lithuanian	unknown	2	7	17						
-lit-toki	Lithuanian	Toki Pona	4	16	20	1	4	3			
+lit-tok	Lithuanian	Toki Pona	6	23	37	1	4	3			
 lit-tuk	Lithuanian	Turkmen	1	4	4				116652	1449611	1360557	
 lit-tzl	Lithuanian	Talossan	2	6	10						
 lit-ukr	Lithuanian	Ukrainian	7	27	31				6542042	72325869	76800616	
@@ -2879,7 +2847,7 @@ ltz-swe	Luxembourgish	Swedish	10	48	47				69200	339727	230006
 ltz-szl	Luxembourgish	Silesian	1	3	4				191	576	563	
 ltz-tlh	Luxembourgish	Klingon	3	18	12				18	30	24	
 ltz-tmr	Luxembourgish	Jewish Babylonian Aramaic (ca. 200-1200 CE)	1	10	5						
-ltz-toki	Luxembourgish	Toki Pona	1	10	6						
+ltz-tok	Luxembourgish	Toki Pona	1	10	6						
 ltz-tzl	Luxembourgish	Talossan	7	41	40						
 ltz-ukr	Luxembourgish	Ukrainian	1	6	6				58275	217366	98327	
 ltz-vol	Luxembourgish	Volapük	4	28	20						
@@ -2908,7 +2876,7 @@ mkd-rus	Macedonian	Russian	3	12	10	1	13	8	7155503	81356523	72304307
 mkd-slv	Macedonian	Slovenian	115	464	382				4343906	47138338	43209706	
 mkd-swe	Macedonian	Swedish	1	4	3				4494708	48634570	47429282	
 mkd-tat	Macedonian	Tatar	1	4	4				212067	3275984	2661956	
-mkd-toki	Macedonian	Toki Pona	2	18	30						
+mkd-tok	Macedonian	Toki Pona	2	18	30						
 mkd-tur	Macedonian	Turkish	11	54	37				3360131	29065290	24158460	
 mkd-ukr	Macedonian	Ukrainian	5	17	18				2621318	34333326	29506469	
 mkd-vol	Macedonian	Volapük	1	5	6						
@@ -2946,8 +2914,7 @@ msa-shi	Malay (macrolanguage)	Tachelhit	1	4	6				4907	136252	64375
 msa-slv	Malay (macrolanguage)	Slovenian	6	27	20				1825900	18006187	16763130	
 msa-tgl	Malay (macrolanguage)	Tagalog	2	74	87				3400095	40482361	48500267	
 msa-tha	Malay (macrolanguage)	Thai	2	10	2				2034499	30160243	10235887	
-msa-tok	Malay (macrolanguage)	unknown	7	31	43						
-msa-toki	Malay (macrolanguage)	Toki Pona	1	5	15						
+msa-tok	Malay (macrolanguage)	Toki Pona	8	36	58						
 msa-tur	Malay (macrolanguage)	Turkish	64	365	295				25353485	257120555	219219349	
 msa-ukr	Malay (macrolanguage)	Ukrainian	13	94	88				5717893	70505027	66226697	
 msa-urd	Malay (macrolanguage)	Urdu	1	2	3				3563183	49433616	60536840	
@@ -2970,7 +2937,7 @@ nds-stq	Low German	Saterfriesisch	1	8	8
 nds-swe	Low German	Swedish	1	5	5				111584	719700	677095	
 nds-swg	Low German	Swabian	14	223	182						
 nds-tlh	Low German	Klingon	4	20	16				12	21	14	
-nds-toki	Low German	Toki Pona	3	18	26						
+nds-tok	Low German	Toki Pona	3	18	26						
 nds-tur	Low German	Turkish	7	40	28				92545	478493	407338	
 nds-ukr	Low German	Ukrainian	79	408	328	2	8	7	110017	674058	645566	
 nds-vol	Low German	Volapük	2	10	9						
@@ -2998,7 +2965,6 @@ nld-tgl	Dutch	Tagalog	19	77	75				964261	11137626	12588468
 nld-tkl	Dutch	Tokelau	1	6	6						
 nld-tlh	Dutch	Klingon	181	977	557	8	41	27	121	2390	1339	
 nld-tmr	Dutch	Jewish Babylonian Aramaic (ca. 200-1200 CE)	6	27	17						
-nld-tok	Dutch	unknown	79	488	644						
 nld-tuk	Dutch	Turkmen	1	6	3				115981	1899855	1353236	
 nld-tzl	Dutch	Talossan	29	118	137	3	12	15			
 nld-uzb	Dutch	Uzbek	1	6	3				75888	775190	679264	
@@ -3010,7 +2976,7 @@ nog-rus	Nogai	Russian	4	16	17
 nog-sah	Nogai	Yakut	1	3	3						
 nog-tat	Nogai	Tatar	1	4	5						
 nog-tlh	Nogai	Klingon	1	3	2						
-nog-toki	Nogai	Toki Pona	1	3	4						
+nog-tok	Nogai	Toki Pona	1	3	4						
 nog-tur	Nogai	Turkish	13	39	35						
 nog-ukr	Nogai	Ukrainian	1	3	3						
 nog-yid	Nogai	Yiddish	1	3	5						
@@ -3027,8 +2993,7 @@ nor-tat	Norwegian	Tatar	5	80	44				250446	4133307	2908482
 nor-tgl	Norwegian	Tagalog	1	5	7				1800243	27818783	30970808	
 nor-tlh	Norwegian	Klingon	12	50	33				149	2370	1520	
 nor-tmr	Norwegian	Jewish Babylonian Aramaic (ca. 200-1200 CE)	1	4	2						
-nor-tok	Norwegian	unknown	10	55	61						
-nor-toki	Norwegian	Toki Pona	12	76	75						
+nor-tok	Norwegian	Toki Pona	14	83	89						
 nor-tur	Norwegian	Turkish	92	500	369	1	6	5	15026779	154547776	127903619	
 nor-tzl	Norwegian	Talossan	3	12	16						
 nor-vep	Norwegian	Veps	4	63	55						
@@ -3047,8 +3012,7 @@ nov-stq	Novial	Saterfriesisch	3	13	15
 nov-swe	Novial	Swedish	3	14	17						
 nov-tlh	Novial	Klingon	26	114	93	2	9	9			
 nov-tmr	Novial	Jewish Babylonian Aramaic (ca. 200-1200 CE)	10	42	29						
-nov-tok	Novial	unknown	3	11	17						
-nov-toki	Novial	Toki Pona	7	28	55						
+nov-tok	Novial	Toki Pona	10	39	72						
 nov-tur	Novial	Turkish	6	23	19						
 nov-tzl	Novial	Talossan	21	91	103	2	8	9			
 nov-ukr	Novial	Ukrainian	1	5	4						
@@ -3105,7 +3069,7 @@ phn-phn	Phoenician	Phoenician	1	2	2
 phn-slv	Phoenician	Slovenian	1	2	3						
 phn-tlh	Phoenician	Klingon	4	8	10						
 phn-tmr	Phoenician	Jewish Babylonian Aramaic (ca. 200-1200 CE)	6	14	12						
-phn-toki	Phoenician	Toki Pona	1	3	5						
+phn-tok	Phoenician	Toki Pona	1	3	5						
 phn-tzl	Phoenician	Talossan	1	2	2						
 phn-ukr	Phoenician	Ukrainian	2	4	4						
 phn-yid	Phoenician	Yiddish	4	18	28						
@@ -3123,8 +3087,6 @@ pol-szl	Polish	Silesian	12	70	70				588	3934	3759
 pol-tat	Polish	Tatar	159	589	578				258408	3131691	3023015	
 pol-tgl	Polish	Tagalog	25	99	134				1896287	21648175	29306772	
 pol-tlh	Polish	Klingon	13	52	41				125	1837	1385	
-pol-tok	Polish	unknown	192	1382	2496						
-pol-toki	Polish	Toki Pona	36	180	310						
 pol-tuk	Polish	Turkmen	2	4	3				118208	1465618	1370306	
 pol-tzl	Polish	Talossan	1	4	4						
 pol-uig	Polish	Uighur	23	86	87				12471	161495	182932	
@@ -3158,7 +3120,7 @@ qya-sjn	Quenya	Sindarin	10	26	22	1	3	3
 qya-spa	Quenya	Spanish	7	72	86						
 qya-tlh	Quenya	Klingon	10	26	22						
 qya-tmr	Quenya	Jewish Babylonian Aramaic (ca. 200-1200 CE)	6	14	13						
-qya-toki	Quenya	Toki Pona	2	5	10						
+qya-tok	Quenya	Toki Pona	2	5	10						
 qya-tur	Quenya	Turkish	4	11	13						
 qya-tzl	Quenya	Talossan	12	29	43						
 qya-ukr	Quenya	Ukrainian	1	4	4						
@@ -3203,7 +3165,6 @@ rus-swg	Russian	Swabian	1	2	3
 rus-tah	Russian	Tahitian	1	2	3				430466	5938877	11519049	
 rus-tgl	Russian	Tagalog	60	280	341				2435802	27052458	35886122	
 rus-tmr	Russian	Jewish Babylonian Aramaic (ca. 200-1200 CE)	4	14	13						
-rus-tok	Russian	unknown	81	381	712						
 rus-tuk	Russian	Turkmen	9	38	33				116565	1476500	1340658	
 rus-tyv	Russian	Tuvinian	11	51	53				7044	128910	103078	
 rus-tzl	Russian	Talossan	24	79	111	2	6	10			
@@ -3240,8 +3201,7 @@ sjn-swe	Sindarin	Swedish	2	8	13
 sjn-swg	Sindarin	Swabian	1	2	3						
 sjn-tlh	Sindarin	Klingon	15	42	39	2	5	4			
 sjn-tmr	Sindarin	Jewish Babylonian Aramaic (ca. 200-1200 CE)	8	21	22	1	2	3			
-sjn-tok	Sindarin	unknown	1	2	3						
-sjn-toki	Sindarin	Toki Pona	4	14	31						
+sjn-tok	Sindarin	Toki Pona	5	16	34						
 sjn-tur	Sindarin	Turkish	3	7	9						
 sjn-tzl	Sindarin	Talossan	17	45	77	2	5	8			
 sjn-ukr	Sindarin	Ukrainian	4	8	11						
@@ -3253,7 +3213,7 @@ slv-swe	Slovenian	Swedish	2	5	7				32898690	462118986	478273556
 slv-tat	Slovenian	Tatar	2	12	8				217386	3365022	2512080	
 slv-tgl	Slovenian	Tagalog	4	25	32				509506	6523407	8310461	
 slv-tlh	Slovenian	Klingon	1	3	2				84	1037	735	
-slv-toki	Slovenian	Toki Pona	1	3	4						
+slv-tok	Slovenian	Toki Pona	1	3	4						
 slv-tur	Slovenian	Turkish	25	106	85	1	3	3	20078392	157230312	143672964	
 slv-tzl	Slovenian	Talossan	2	6	6						
 slv-vie	Slovenian	Vietnamese	144	610	944				7346895	81375685	122311054	
@@ -3261,7 +3221,7 @@ slv-vol	Slovenian	Volapük	1	3	3
 slv-yid	Slovenian	Yiddish	11	29	44				19302	81994	369536	
 sme-spa	Northern Sami	Spanish	15	52	59				15524	60432	84367	
 sme-swe	Northern Sami	Swedish	5	22	25				15260	59454	70100	
-sme-tok	Northern Sami	unknown	1	3	8						
+sme-tok	Northern Sami	Toki Pona	1	3	8						
 som-tur	Somali	Turkish	8	34	26				223757	3210766	2672935	
 spa-sqi	Spanish	Albanian	6	36	35				13748516	170589842	173491762	
 spa-stq	Spanish	Saterfriesisch	4	22	23						
@@ -3291,7 +3251,7 @@ stq-sux	Saterfriesisch	Sumerian	2	8	16
 stq-swe	Saterfriesisch	Swedish	1	9	9						
 stq-tlh	Saterfriesisch	Klingon	2	12	9						
 stq-tmr	Saterfriesisch	Jewish Babylonian Aramaic (ca. 200-1200 CE)	1	9	5						
-stq-toki	Saterfriesisch	Toki Pona	1	9	6						
+stq-tok	Saterfriesisch	Toki Pona	1	9	6						
 stq-tzl	Saterfriesisch	Talossan	3	21	21						
 stq-vol	Saterfriesisch	Volapük	2	18	14						
 stq-yid	Saterfriesisch	Yiddish	8	37	39						
@@ -3300,8 +3260,7 @@ swa-swa	Swahili (macrolanguage)	Swahili (macrolanguage)	9	10	13
 swa-swe	Swahili (macrolanguage)	Swedish	4	8	12				2368932	32186962	33370218	
 swa-tat	Swahili (macrolanguage)	Tatar	1	7	5				16498	132781	177101	
 swa-tgl	Swahili (macrolanguage)	Tagalog	1	1	2				434840	5631293	6831710	
-swa-tok	Swahili (macrolanguage)	unknown	1	1	4						
-swa-toki	Swahili (macrolanguage)	Toki Pona	2	2	7						
+swa-tok	Swahili (macrolanguage)	Toki Pona	3	3	11						
 swa-tur	Swahili (macrolanguage)	Turkish	17	36	40				4670150	52261035	42603866	
 swa-ukr	Swahili (macrolanguage)	Ukrainian	1	19	27				1675995	22958912	19750258	
 swa-uzb	Swahili (macrolanguage)	Uzbek	1	3	3				11688	122745	156998	
@@ -3310,15 +3269,14 @@ swe-tgl	Swedish	Tagalog	6	42	40				791511	9410636	11471329
 swe-tha	Swedish	Thai	1	5	1				3139908	34502833	12128976	
 swe-tlh	Swedish	Klingon	3	16	11				131	2227	1432	
 swe-tmr	Swedish	Jewish Babylonian Aramaic (ca. 200-1200 CE)	1	9	5						
-swe-tok	Swedish	unknown	1	2	5						
-swe-toki	Swedish	Toki Pona	3	17	22						
+swe-tok	Swedish	Toki Pona	4	19	27						
 swe-tzl	Swedish	Talossan	3	22	22						
 swe-ukr	Swedish	Ukrainian	10	40	40				7767107	101317989	91899269	
 swe-vep	Swedish	Veps	1	24	21						
 swe-vol	Swedish	Volapük	4	25	19						
 swe-yid	Swedish	Yiddish	37	163	185	1	4	4	23035	82986	369250	
 swg-tlh	Swabian	Klingon	1	3	2						
-swg-toki	Swabian	Toki Pona	26	162	266						
+swg-tok	Swabian	Toki Pona	26	162	266						
 swg-tur	Swabian	Turkish	1	5	4						
 swg-ukr	Swabian	Ukrainian	1	3	2						
 swg-yid	Swabian	Yiddish	10	63	65	1	3	3			
@@ -3335,8 +3293,7 @@ tat-zho	Tatar	Chinese	65	218	65				33698	347751	47104
 tgk-tur	Tajik	Turkish	1	2	2				256712	3115427	2759214	
 tgk-zho	Tajik	Chinese	1	3	1				134296	966834	327476	
 tgl-tgl	Tagalog	Tagalog	46	268	253				76	1120	1135	
-tgl-tok	Tagalog	unknown	10	53	64						
-tgl-toki	Tagalog	Toki Pona	2	7	13						
+tgl-tok	Tagalog	Toki Pona	12	60	77						
 tgl-tur	Tagalog	Turkish	45	280	184				2784376	37164972	27038258	
 tgl-war	Tagalog	Waray (Philippines)	59	308	299						
 tgl-zho	Tagalog	Chinese	52	206	52				936328	8386686	2293607	
@@ -3347,33 +3304,25 @@ tha-vie	Thai	Vietnamese	1	1	2				4466599	25137646	92327148
 tha-zho	Thai	Chinese	82	93	82				3131419	9154579	7864554	
 tlh-tlh	Klingon	Klingon	4	12	12						
 tlh-tmr	Klingon	Jewish Babylonian Aramaic (ca. 200-1200 CE)	14	44	42	2	4	4			
-tlh-tok	Klingon	unknown	21	54	110						
-tlh-toki	Klingon	Toki Pona	31	94	217	5	16	34			
+tlh-tok	Klingon	Toki Pona	52	148	327	5	16	34			
 tlh-tuk	Klingon	Turkmen	1	2	2						
 tlh-tur	Klingon	Turkish	32	100	108	4	13	15	114	1296	1445	
 tlh-tzl	Klingon	Talossan	45	127	186	5	12	16			
 tlh-ukr	Klingon	Ukrainian	21	76	79	1	2	4	136	1345	2007	
 tlh-vol	Klingon	Volapük	74	181	222	9	31	32			
 tmr-tmr	Jewish Babylonian Aramaic (ca. 200-1200 CE)	Jewish Babylonian Aramaic (ca. 200-1200 CE)	2	6	5						
-tmr-tok	Jewish Babylonian Aramaic (ca. 200-1200 CE)	unknown	1	3	5						
-tmr-toki	Jewish Babylonian Aramaic (ca. 200-1200 CE)	Toki Pona	4	11	20						
+tmr-tok	Jewish Babylonian Aramaic (ca. 200-1200 CE)	Toki Pona	5	14	25						
 tmr-tur	Jewish Babylonian Aramaic (ca. 200-1200 CE)	Turkish	6	16	18	1	2	2			
 tmr-tzl	Jewish Babylonian Aramaic (ca. 200-1200 CE)	Talossan	15	40	64	1	4	4			
 tmr-vol	Jewish Babylonian Aramaic (ca. 200-1200 CE)	Volapük	12	35	43	1	4	4			
 tmr-yid	Jewish Babylonian Aramaic (ca. 200-1200 CE)	Yiddish	44	165	270	9	28	44			
 tmr-zho	Jewish Babylonian Aramaic (ca. 200-1200 CE)	Chinese	1	4	1						
-toki-toki	Toki Pona	Toki Pona	42	463	437						
-toki-tur	Toki Pona	Turkish	99	784	341	8	56	25			
-toki-tzl	Toki Pona	Talossan	13	81	66						
-toki-ukr	Toki Pona	Ukrainian	12	129	58	1	6	5			
-toki-vie	Toki Pona	Vietnamese	2	41	26						
-toki-vol	Toki Pona	Volapük	25	171	90	3	32	13			
-toki-yid	Toki Pona	Yiddish	171	1263	861	17	151	133			
-toki-zho	Toki Pona	Chinese	38	201	38						
-tok-tur	unknown	Turkish	7	49	23						
-tok-vol	unknown	Volapük	9	69	32						
-tok-yid	unknown	Yiddish	187	1279	850						
-tok-zho	unknown	Chinese	4	40	4						
+tok-tur	Toki Pona	Turkish	106	833	364	8	56	25			
+tok-tzl	Toki Pona	Talossan	13	81	66						
+tok-ukr	Toki Pona	Ukrainian	12	129	58	1	6	5			
+tok-vie	Toki Pona	Vietnamese	2	41	26						
+tok-vol	Toki Pona	Volapük	34	240	122	3	32	13			
+tok-zho	Toki Pona	Chinese	42	241	42						
 tsn-xho	Tswana	Xhosa	9	57	33				991913	21072631	10479156	
 tuk-tur	Turkmen	Turkish	55	209	196				121639	1392167	1454009	
 tuk-uig	Turkmen	Uighur	2	6	6				3858	14121	12208	

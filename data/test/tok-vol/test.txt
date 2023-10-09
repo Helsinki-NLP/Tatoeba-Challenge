@@ -1,9 +1,34 @@
-xxx_Latn	vol_Latn	mi ale li soweli jan.	Obs valik binobs leps.
-xxx_Latn	vol_Latn	mi moli e jan Ton.	Ädeidob eli Tom.
-xxx_Latn	vol_Latn	mi wile e ni: sina sona e ni: mi olin e sina.	Vilob, dat nololöd, das löfob oli.
-xxx_Latn	vol_Latn	olin li olin e olin olin.	Löf löfon löfön löfi.
-xxx_Latn	vol_Latn	ona li sona ala sona e toki Inli?	Kanof-li spikön Linglänapüki?
-xxx_Latn	vol_Latn	ona li sona ala sona e toki Inli?	Kanon-li spikön Linglänapüki?
-xxx_Latn	vol_Latn	ona li sona e toki Inli anu seme?	Kanof-li spikön Linglänapüki?
-xxx_Latn	vol_Latn	ona li sona e toki Inli anu seme?	Kanon-li spikön Linglänapüki?
-xxx_Latn	vol_Latn	tenpo ala la mi kama sona e toki Epelanto.	Neai ostudob Sperantapüki.
+tok_Latn	vol_Latn	jan Juta lon li jan Juta.	Yudans jenöfik binons yudans.
+tok_Latn	vol_Latn	jan Ton li jan pi pona mute.	Tom binom men vemo gudik.
+tok_Latn	vol_Latn	jan Ton li mije. mi meli.	Tom binom himen ed ob binob jimen.
+tok_Latn	vol_Latn	jan Ton li mije. mi meli.	Tom binom man ed ob binob vom.
+tok_Latn	vol_Latn	jan Ton o lape pona.	Neiti gudik, o Tom!
+tok_Latn	vol_Latn	kulupu jan pi ilo Tatowepa o, mi tawa lape.	Neiti gudik, o Tatoeba!
+tok_Latn	vol_Latn	kulupu pi jan ali li ken ala ken kama ante?	Vol difik mögon-li?
+tok_Latn	vol_Latn	mi kama sona e toki Ito.	Lärnob eli Ido.
+tok_Latn	vol_Latn	mi soweli ala.	No binob dog.
+tok_Latn	vol_Latn	mi soweli ala.	No binob kangur.
+tok_Latn	vol_Latn	mi wile kama jo esun e tomo.	Vilob remön domi.
+tok_Latn	vol_Latn	nasin sewi Juta li pona.	Yud binon jönik.
+tok_Latn	vol_Latn	ni li laso ala anu seme?	Atos no binon-li blövik?
+tok_Latn	vol_Latn	ni li suwi mute.	Atos binon vemo svidik.
+tok_Latn	vol_Latn	nimi mute mi li pona mute. nimi mute pi jan ante ali li pona lili.	Labob vödis gudikün.
+tok_Latn	vol_Latn	ona li jan pi toki Epelanto.	Binom Sperantapükan.
+tok_Latn	vol_Latn	ona li jo e mije sama pi tu wan.	Labom blodis kil.
+tok_Latn	vol_Latn	ona li mije ala li meli ala.	Binon ni man ni vom.
+tok_Latn	vol_Latn	ona li pini ken pakala e sina.	No plu kanof viodön oli.
+tok_Latn	vol_Latn	ona li pini ken pakala e sina.	No plu kanom viodön oli.
+tok_Latn	vol_Latn	pona. ni li ike mute tawa mi.	Danö, hetob oni.
+tok_Latn	vol_Latn	sina pana e sona.	Tidol.
+tok_Latn	vol_Latn	tenpo ali la jan li ike tawa jan ike.	Hetans ohetons.
+tok_Latn	vol_Latn	tenpo pini la jan Ton li pini e ona.	Tom efärmükom oni.
+tok_Latn	vol_Latn	tenpo pini la ona meli li kama moli.	Ädeadof.
+tok_Latn	vol_Latn	mi ale li soweli jan.	Obs valik binobs leps.
+tok_Latn	vol_Latn	mi moli e jan Ton.	Ädeidob eli Tom.
+tok_Latn	vol_Latn	mi wile e ni: sina sona e ni: mi olin e sina.	Vilob, dat nololöd, das löfob oli.
+tok_Latn	vol_Latn	olin li olin e olin olin.	Löf löfon löfön löfi.
+tok_Latn	vol_Latn	ona li sona ala sona e toki Inli?	Kanof-li spikön Linglänapüki?
+tok_Latn	vol_Latn	ona li sona ala sona e toki Inli?	Kanon-li spikön Linglänapüki?
+tok_Latn	vol_Latn	ona li sona e toki Inli anu seme?	Kanof-li spikön Linglänapüki?
+tok_Latn	vol_Latn	ona li sona e toki Inli anu seme?	Kanon-li spikön Linglänapüki?
+tok_Latn	vol_Latn	tenpo ala la mi kama sona e toki Epelanto.	Neai ostudob Sperantapüki.

@@ -6,8 +6,7 @@ deu-hrx	German	Hunsrik	482	2316	2240
 deu-lad	German	Ladino	276	1186	1146	28	116	131			
 deu-lfn	German	Lingua Franca Nova	582	3929	4459	54	340	389			
 deu-swg	German	Swabian	1523	13079	12897	184	1437	1418			
-deu-tok	German	unknown	348	2211	3355						
-deu-toki	German	Toki Pona	10143	63783	97107	13817	85800	130753			
+deu-tok	German	Toki Pona	10488	65964	100433	13817	85800	130753			
 dtp-eng	Kadazan Dusun	English	1927	11430	11485	1300	9298	9084			
 dtp-jpn	Kadazan Dusun	Japanese	301	1674	301						
 dtp-msa	Kadazan Dusun	Malay (macrolanguage)	884	7561	6702	7	49	45			
@@ -21,16 +20,14 @@ eng-nst	English	Tase Naga	805	3823	4871
 eng-orv	English	Old Russian	322	1713	1364						
 eng-ota	English	Ottoman Turkish (1500-1928)	696	3704	3433	12	81	72			
 eng-prg	English	Prussian	219	1444	1277						
-eng-tok	English	unknown	1000	6999	10235	1614	11331	16475			
-eng-toki	English	Toki Pona	4990	27998	42218	8900	51565	76610			
+eng-tok	English	Toki Pona	7715	47198	70255	8702	50178	74589			
 eng-tzl	English	Talossan	206	703	635	20	80	95			
-epo-tok	Esperanto	unknown	266	1490	2165						
-epo-toki	Esperanto	Toki Pona	2733	15238	24821	1362	7739	12063			
+epo-tok	Esperanto	Toki Pona	2733	15238	24821	1623	9194	14183			
 epo-vol	Esperanto	Volapük	885	4389	3377	37	174	140			
 fin-fkv	Finnish	Kven Finnish	506	2085	2150	68	277	271			
 fra-gcf	French	Guadeloupean Creole French	1164	5281	5092						
 fra-lfn	French	Lingua Franca Nova	661	4944	5007	121	1180	1221			
-fra-toki	French	Toki Pona	578	3576	4831	26	252	347			
+fra-tok	French	Toki Pona	655	4137	5557	26	252	347			
 gcf-gcf	Guadeloupean Creole French	Guadeloupean Creole French	233	990	1004						
 gos-nld	Gronings	Dutch	1852	7493	7848	435	2028	2130			
 heb-lad	Hebrew	Ladino	266	1039	1305	41	135	164			
@@ -39,27 +36,28 @@ hoc-sat	Ho	Santali	208	248	397
 ido-lfn	Ido	Lingua Franca Nova	431	1817	2108	55	231	261			
 ina-lad	Interlingua (International Auxiliary Language Association)	Ladino	433	2010	1901	46	215	186			
 ina-lfn	Interlingua (International Auxiliary Language Association)	Lingua Franca Nova	997	4793	4992	238	1136	1151			
-ita-toki	Italian	Toki Pona	200	1107	1780	16	179	230			
+ita-tok	Italian	Toki Pona	215	1196	1899	16	179	230			
 jav-jav	Javanese	Javanese	299	1367	327						
-jpn-toki	Japanese	Toki Pona	251	259	1798	2	2	13			
+jpn-tok	Japanese	Toki Pona	368	376	2972	2	2	13			
 kab-kab	Kabyle	Kabyle	993	6076	6201	1329	6927	7022			
 lad-lat	Ladino	Latin	259	1075	861	33	133	110			
 lad-lfn	Ladino	Lingua Franca Nova	452	1886	2004	68	283	295			
 lad-yid	Ladino	Yiddish	803	3414	3708	84	390	387			
 lat-lat	Latin	Latin	251	1245	1247						
 lat-lfn	Latin	Lingua Franca Nova	447	1480	2058	71	255	353			
+lat-tok	Latin	Toki Pona	253	1639	3224	8	25	43			
 lfn-por	Lingua Franca Nova	Portuguese	1945	22959	21512	1226	13009	11848			
 lfn-rus	Lingua Franca Nova	Russian	274	1792	1297	26	212	164			
 lfn-tlh	Lingua Franca Nova	Klingon	253	1132	740	44	197	134			
 lfn-tur	Lingua Franca Nova	Turkish	209	999	670	23	118	84			
 lfn-yid	Lingua Franca Nova	Yiddish	993	4924	4898	753	3653	3615			
-nld-toki	Dutch	Toki Pona	684	3091	4433	5	25	46			
+nld-tok	Dutch	Toki Pona	763	3579	5077	5	25	46			
 orv-ukr	Old Russian	Ukrainian	973	3992	4224						
 ota-tur	Ottoman Turkish (1500-1928)	Turkish	372	2119	1872	24	134	117			
-por-tok	Portuguese	unknown	471	3972	6063						
-por-toki	Portuguese	Toki Pona	1719	11414	16030	552	4641	6895			
-rus-toki	Russian	Toki Pona	914	4285	6729	20	135	215			
-spa-tok	Spanish	unknown	222	1497	2228						
-spa-toki	Spanish	Toki Pona	650	3011	4558	31	307	386			
-tok-tok	unknown	unknown	227	2134	2077						
+pol-tok	Polish	Toki Pona	214	1478	2664						
+por-tok	Portuguese	Toki Pona	1719	11414	16030	1023	8613	12958			
+rus-tok	Russian	Toki Pona	994	4662	7430	20	135	215			
+spa-tok	Spanish	Toki Pona	870	4499	6773	31	307	386			
+tok-tok	Toki Pona	Toki Pona	234	2211	2149						
+tok-yid	Toki Pona	Yiddish	358	2542	1711	17	151	133			
 yid-yid	Yiddish	Yiddish	376	1924	1936						

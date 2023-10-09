@@ -1,43 +1,48 @@
-lad	xxx_Latn	La agua es limpia? 	telo li pona moku anu seme? 
-lad	xxx_Latn	Damos paz! 	o weka e utala tan mi! 
-lad	xxx_Latn	Lo le kero dar a Miri. 	mi wile pana e ona tawa jan Mewi. 
-lad	xxx_Latn	Deke, Tom? 	jan Ton o, tan seme? 
-lad	xxx_Latn	Kreyo en el sol, afilu si el no briye. Kreyo en el amor, afilu si no lo senta. Kreyo en el Dio, afilu si El se kaye. 	tenpo pimeja kin la mi sona e ni: suno li lon. mi olin ala la kin la mi sona e ni: olin li lon. jan sewi li toki ala kin la mi sona e ni: ona li lon. 
-lad	xxx_Latn	La agua es limpia? 	telo li jaki ala jaki? 
-lad	xxx_Latn	Sosh emportante. 	sina suli. 
-lad	xxx_Latn	Somos djudios. 	mi mute li jan Juta. 
-lad	xxx_Latn	La vida es kurta. 	tenpo lili la jan li lon. 
-lad	xxx_Latn	Todos somos maymonas. 	mi ale li soweli jan. 
-lad	xxx_Latn	Mi pais tiene plajes maraviyozas. 	ma mi li jo e poka pi telo suli mute. ona li pona lukin a! 
-lad	xxx_Latn	Las arabas son karas. 	tomo tawa li ijo pi mani mute. 
-lad	xxx_Latn	No aze frio. 	kon li lete ala. 
-lad	xxx_Latn	מי פאאיס טייני פלאז׳יס מאראב׳ייוזאס. 	ma mi li jo e poka pi telo suli mute. ona li pona lukin a! 
-lad	xxx_Latn	Las maymonas son intelijentes. 	soweli pi selo jan li jo e lawa wawa. 
-lad	xxx_Latn	Nunka. 	lon tenpo ala. 
-lad	xxx_Latn	Onde esta mi ijo? 	jan lili mi li lon seme? 
-lad	xxx_Latn	Mi padre esta aki. 	mama mije mi li lon ni. 
-lad	xxx_Latn	Dales paras. 	o pana e mani tawa ona. 
-lad	xxx_Latn	Es frekuente. 	ona li lon tenpo mute. 
-lad	xxx_Latn	Dingunos no tienen una alma. 	jan ala li jo e kon. 
-lad	xxx_Latn	La alma es diferente del kuerpo. 	kon en sijelo li sama ala. 
-lad	xxx_Latn	Son personas. 	ona mute li jan. 
-lad	xxx_Latn	La neshama es diferente del puerpo. 	kon en sijelo li sama ala. 
-lad	xxx_Latn	Dingunos no saven todo. 	jan ala li sona e ali. 
-lad	xxx_Latn	Mi padre esta aki. 	mama mi li lon ni. 
-lad	xxx_Latn	Mati a Tom. 	mi moli e jan Ton. 
-lad	xxx_Latn	Los pasharos no son reales. 	waso li lon ala. 
-lad	xxx_Latn	Evropa no egziste. 	ma Elopa li lon ala. 
-lad	xxx_Latn	Deke, Tom? 	tan seme, jan Ton o? 
-lad	xxx_Latn	Tom es un djenio muy estavle. 	jan Ton li jan sona li nasa ala. 
-lad	xxx_Latn	Komesh komida. 	sina moku e moku. 
-lad	xxx_Latn	"Kuando?" "Nunka." 	"lon tenpo seme?" "lon tenpo ala." 
-lad	xxx_Latn	Los pasharos bolan. 	waso li tawa lon kon. 
-lad	xxx_Latn	No puedo komer kezo. 	mi ken ala moku e ko tan telo soweli. 
-lad	xxx_Latn	Es una feminista? 	ona li jan pi ken ali meli anu seme? 
-lad	xxx_Latn	El antisemitizmo es el sosializmo de los bovos. 	jan nasa li pilin e ni: jan Juta li pakala e kulupu jan. jan sona li sona e ni: nasin mani li pakala e kulupu jan. 
-lad	xxx_Latn	Vos avlash djudeo-espanyol? 	sina toki ala toki Lasino? 
-lad	xxx_Latn	So un pishkado. 	mi kala. 
-lad	xxx_Latn	El amor ama amar el amor. 	olin li olin e olin olin. 
-lad	xxx_Latn	Dingunos no tienen una neshama. 	jan ala li jo e kon. 
-lad	xxx_Latn	Kualo es el Djudaizmo? 	seme li nasin sewi Juta? 
-lad	xxx_Latn	Mersi a todos. 	sina ale o, pona! 
+lad_Latn	tok_Latn	Los pasharos no son reales. 	waso li lon ala. 
+lad_Latn	tok_Latn	Mati a Tom. 	mi moli e jan Ton. 
+lad_Latn	tok_Latn	La alma es diferente del kuerpo. 	kon en sijelo li sama ala. 
+lad_Latn	tok_Latn	Damos paz! 	o weka e utala tan mi! 
+lad_Latn	tok_Latn	Es frekuente. 	ona li lon tenpo mute. 
+lad_Latn	tok_Latn	La agua es limpia? 	telo li pona moku anu seme? 
+lad_Latn	tok_Latn	Mi padre esta aki. 	mama mije mi li lon ni. 
+lad_Latn	toki_Latn	So anarkisto. 	mi wile ala e jan lawa. 
+lad_Latn	tok_Latn	Komesh komida. 	sina moku e moku. 
+lad_Latn	tok_Latn	Dingunos no tienen una alma. 	jan ala li jo e kon. 
+lad_Latn	tok_Latn	Lo le kero dar a Miri. 	mi wile pana e ona tawa jan Mewi. 
+lad_Latn	tok_Latn	Dingunos no tienen una neshama. 	jan ala li jo e kon. 
+lad_Latn	tok_Latn	El amor ama amar el amor. 	olin li olin e olin olin. 
+lad_Latn	tok_Latn	El antisemitizmo es el sosializmo de los bovos. 	jan nasa li pilin e ni: jan Juta li pakala e kulupu jan. jan sona li sona e ni: nasin mani li pakala e kulupu jan. 
+lad_Latn	tok_Latn	Vos avlash djudeo-espanyol? 	sina toki ala toki Lasino? 
+lad_Latn	tok_Latn	Deke, Tom? 	tan seme, jan Ton o? 
+lad_Latn	tok_Latn	Dingunos no saven todo. 	jan ala li sona e ali. 
+lad_Latn	tok_Latn	Onde esta mi ijo? 	jan lili mi li lon seme? 
+lad_Latn	tok_Latn	No aze frio. 	kon li lete ala. 
+lad_Latn	tok_Latn	La neshama es diferente del puerpo. 	kon en sijelo li sama ala. 
+lad_Latn	toki_Latn	Keremos la pas. 	mi mute li wile ala utala. 
+lad_Latn	tok_Latn	Las arabas son karas. 	tomo tawa li ijo pi mani mute. 
+lad_Latn	toki_Latn	So anarkista. 	mi wile ala e jan lawa. 
+lad_Latn	tok_Latn	Nunka. 	lon tenpo ala. 
+lad_Latn	toki_Latn	Otro mundo es posivle? 	kulupu pi jan ali li ken ala ken kama ante? 
+lad_Latn	tok_Latn	Deke, Tom? 	jan Ton o, tan seme? 
+lad_Latn	tok_Latn	Tom es un djenio muy estavle. 	jan Ton li jan sona li nasa ala. 
+lad_Latn	tok_Latn	Evropa no egziste. 	ma Elopa li lon ala. 
+lad_Latn	tok_Latn	Sosh emportante. 	sina suli. 
+lad_Latn	tok_Latn	Somos djudios. 	mi mute li jan Juta. 
+lad_Latn	tok_Latn	Las maymonas son intelijentes. 	soweli pi selo jan li jo e lawa wawa. 
+lad_Latn	tok_Latn	Es una feminista? 	ona li jan pi ken ali meli anu seme? 
+lad_Latn	tok_Latn	Mi padre esta aki. 	mama mi li lon ni. 
+lad_Latn	tok_Latn	"Kuando?" "Nunka." 	"lon tenpo seme?" "lon tenpo ala." 
+lad_Latn	tok_Latn	Mersi a todos. 	sina ale o, pona! 
+lad_Latn	toki_Latn	Dinguno no save todo. 	jan ala li sona e ali. 
+lad_Latn	tok_Latn	Kualo es el Djudaizmo? 	seme li nasin sewi Juta? 
+lad_Latn	tok_Latn	Mi pais tiene plajes maraviyozas. 	ma mi li jo e poka pi telo suli mute. ona li pona lukin a! 
+lad_Latn	tok_Latn	La vida es kurta. 	tenpo lili la jan li lon. 
+lad_Latn	tok_Latn	So un pishkado. 	mi kala. 
+lad_Latn	tok_Latn	Todos somos maymonas. 	mi ale li soweli jan. 
+lad_Latn	tok_Latn	No puedo komer kezo. 	mi ken ala moku e ko tan telo soweli. 
+lad_Latn	tok_Latn	Son personas. 	ona mute li jan. 
+lad_Latn	tok_Latn	Dales paras. 	o pana e mani tawa ona. 
+lad_Latn	tok_Latn	Los pasharos bolan. 	waso li tawa lon kon. 
+lad_Latn	tok_Latn	La agua es limpia? 	telo li jaki ala jaki? 
+lad_Latn	toki_Latn	Kero un perro. 	mi wile e soweli tomo. 
+lad	tok_Latn	מי פאאיס טייני פלאז׳יס מאראב׳ייוזאס. 	ma mi li jo e poka pi telo suli mute. ona li pona lukin a! 

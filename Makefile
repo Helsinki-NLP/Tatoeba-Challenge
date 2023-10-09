@@ -51,6 +51,8 @@
 ## make update-git ............. update the git repository
 ##
 
+
+
 SHELL := bash
 CPU_MODULES := parallel
 
@@ -981,6 +983,42 @@ endif
 
 
 
+fix-ladino-and-kurdisch:
+	make $(patsubst %.id.gz,%.srcid-backup.gz,\
+		$(wildcard ${RELEASEDIR}/kur-*/train.id.gz) \
+		$(wildcard ${RELEASEDIR}/lad-*/train.id.gz))
+	make $(patsubst %.id.gz,%.trgid-backup.gz,\
+		$(wildcard ${RELEASEDIR}/*-kur/train.id.gz) \
+		$(wildcard ${RELEASEDIR}/*-lad/train.id.gz))
+
+## fix langids that are incorrect on the source side of the training data
+
+${RELEASEDIR}/%/train.srcid-backup.gz:
+	mv ${@:srcid-backup.gz=id.gz} $@
+	${GZIP} -cd < ${@:srcid-backup.gz=src.gz} \
+	| langscript -3 -r -D -l $(firstword $(subst -, ,$(patsubst ${RELEASEDIR}/%/train.srcid-backup.gz,%,$@))) \
+	${FIXLANGIDS} > $@.srcid
+	${GZIP} -cd $@ | cut -f1 > $@.corpus
+	${GZIP} -cd $@ | cut -f3 > $@.trgid
+	paste $@.corpus $@.srcid $@.trgid | ${GZIP} -c > ${@:srcid-backup.gz=id.gz}
+	rm -f $@.corpus $@.srcid $@.trgid
+	touch $@
+
+## fix langids that are incorrect on the target side of the training data
+
+${RELEASEDIR}/%/train.trgid-backup.gz:
+	mv ${@:trgid-backup.gz=id.gz} $@
+	${GZIP} -cd < ${@:trgid-backup.gz=trg.gz} \
+	| langscript -3 -r -D -l $(lastword $(subst -, ,$(patsubst ${RELEASEDIR}/%/train.trgid-backup.gz,%,$@))) \
+	${FIXLANGIDS} > $@.trgid
+	${GZIP} -cd $@ | cut -f1,2 > $@.corpus
+	paste $@.corpus $@.trgid | ${GZIP} -c > ${@:trgid-backup.gz=id.gz}
+	rm -f $@.corpus $@.trgid
+	touch $@
+
+
+
+
 
 DEPRECATED/${RELEASEDIR}/%/train.id.gz:
 	@echo "make train data for ${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}"
@@ -1105,10 +1143,17 @@ ${RELEASEDIR}/%/test.id:
 	mkdir -p ${dir $@}
 	cat ${patsubst ${RELEASEDIR}/%/test.id,${DEVTESTDIR}/%,$@}/test-*.txt |\
 	sed "s/ *\t/\t/g;s/ *$$//" | sort -u > $@.merged
-	cut -f1,2 $@.merged > $@
+	cut -f3 $@.merged | langscript -3 -r -D \
+		-l $(firstword $(subst -, , $(patsubst ${RELEASEDIR}/%/test.id,%,$@))) \
+		${FIXLANGIDS} > $@.srcid
+	cut -f4 $@.merged | langscript -3 -r -D \
+		-l $(lastword $(subst -, , $(patsubst ${RELEASEDIR}/%/test.id,%,$@))) \
+		${FIXLANGIDS} > $@.trgid
+	paste $@.srcid $@.trgid  > $@
+#	cut -f1,2 $@.merged > $@
 	cut -f3 $@.merged > ${dir $@}test.src
 	cut -f4 $@.merged > ${dir $@}test.trg
-	rm -f $@.merged
+	rm -f $@.merged $@.srcid $@.trgid
 
 ## dev data in the release: merge all cumulated dev data in data/devtest
 
@@ -1118,11 +1163,17 @@ ${RELEASEDIR}/%/dev.id:
 	-cat ${patsubst ${RELEASEDIR}/%/dev.id,${DEVTESTDIR}/%,$@}/dev-*.txt |\
 	sed "s/ *\t/\t/g;s/ *$$//" | sort -u > $@.merged
 	if [ -s $@.merged ]; then \
-	  cut -f1,2 $@.merged > $@; \
+	  cut -f3 $@.merged | langscript -3 -r -D \
+		-l $(firstword $(subst -, , $(patsubst ${RELEASEDIR}/%/dev.id,%,$@))) \
+		${FIXLANGIDS} > $@.srcid; \
+	  cut -f4 $@.merged | langscript -3 -r -D \
+		-l $(lastword $(subst -, , $(patsubst ${RELEASEDIR}/%/dev.id,%,$@))) \
+		${FIXLANGIDS} > $@.trgid; \
+	  paste $@.srcid $@.trgid  > $@; \
 	  cut -f3 $@.merged > ${dir $@}dev.src; \
 	  cut -f4 $@.merged > ${dir $@}dev.trg; \
 	fi
-	rm -f $@.merged
+	rm -f $@.merged $@.srcid $@.trgid
 
 
 ## add test and dev data from the Tatoeba release

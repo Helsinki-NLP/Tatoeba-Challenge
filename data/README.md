@@ -110,7 +110,7 @@
 |  Old English (ca. 450-1100) - Swedish  [ang-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ang-swe.tar)  |          2|            |        676|
 |  Old English (ca. 450-1100) - Klingon  [ang-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ang-tlh.tar)  |         15|          1|            |
 |  Old English (ca. 450-1100) - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [ang-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ang-tmr.tar)  |          3|            |            |
-|  Old English (ca. 450-1100) - unknown  [ang-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ang-tok.tar)  |          2|            |            |
+|  Old English (ca. 450-1100) - Toki Pona  [ang-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ang-tok.tar)  |          2|            |            |
 |  Old English (ca. 450-1100) - Turkish  [ang-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ang-tur.tar)  |          5|            |        662|
 |  Old English (ca. 450-1100) - Talossan  [ang-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ang-tzl.tar)  |          4|            |            |
 |  Old English (ca. 450-1100) - Ukrainian  [ang-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ang-ukr.tar)  |          2|            |        434|
@@ -196,8 +196,7 @@
 |                Arabic - Tatar  [ara-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ara-tat.tar)  |          4|            |    1949398|
 |              Arabic - Klingon  [ara-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ara-tlh.tar)  |         34|          6|        153|
 |  Arabic - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [ara-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ara-tmr.tar)  |         18|            |            |
-|              Arabic - unknown  [ara-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ara-tok.tar)  |         12|            |            |
-|            Arabic - Toki Pona  [ara-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ara-toki.tar)  |         15|          2|            |
+|            Arabic - Toki Pona  [ara-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ara-tok.tar)  |         24|          2|            |
 |              Arabic - Turkmen  [ara-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ara-tuk.tar)  |          2|            |      38826|
 |              Arabic - Turkish  [ara-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ara-tur.tar)  |       1263|        127|   35974396|
 |             Arabic - Talossan  [ara-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ara-tzl.tar)  |         29|          4|            |
@@ -276,7 +275,7 @@
 |  Kotava - Swahili (macrolanguage)  [avk-swa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/avk-swa.tar)  |         77|            |            |
 |              Kotava - Swedish  [avk-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/avk-swe.tar)  |          1|            |            |
 |              Kotava - Klingon  [avk-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/avk-tlh.tar)  |          8|            |            |
-|            Kotava - Toki Pona  [avk-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/avk-toki.tar)  |          2|            |            |
+|            Kotava - Toki Pona  [avk-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/avk-tok.tar)  |          2|            |            |
 |              Kotava - Turkish  [avk-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/avk-tur.tar)  |         46|            |            |
 |             Kotava - Talossan  [avk-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/avk-tzl.tar)  |          9|          2|            |
 |            Kotava - Ukrainian  [avk-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/avk-ukr.tar)  |          5|            |            |
@@ -320,7 +319,7 @@
 |         Azerbaijani - Spanish  [aze-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/aze-spa.tar)  |        210|          1|     643204|
 |           Azerbaijani - Tatar  [aze-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/aze-tat.tar)  |          1|            |     401076|
 |         Azerbaijani - Klingon  [aze-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/aze-tlh.tar)  |          1|            |         14|
-|       Azerbaijani - Toki Pona  [aze-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/aze-toki.tar)  |          1|            |            |
+|       Azerbaijani - Toki Pona  [aze-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/aze-tok.tar)  |          1|            |            |
 |         Azerbaijani - Turkmen  [aze-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/aze-tuk.tar)  |          1|            |       1755|
 |         Azerbaijani - Turkish  [aze-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/aze-tur.tar)  |       1150|         52|    2547741|
 |       Azerbaijani - Ukrainian  [aze-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/aze-ukr.tar)  |          1|            |     550811|
@@ -411,7 +410,7 @@
 |          Belarusian - Spanish  [bel-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bel-spa.tar)  |        205|            |     671862|
 |  Belarusian - Swahili (macrolanguage)  [bel-swa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bel-swa.tar)  |          1|            |     355468|
 |            Belarusian - Tatar  [bel-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bel-tat.tar)  |          1|            |       8560|
-|        Belarusian - Toki Pona  [bel-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bel-toki.tar)  |          1|            |            |
+|        Belarusian - Toki Pona  [bel-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bel-tok.tar)  |          1|            |            |
 |          Belarusian - Turkmen  [bel-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bel-tuk.tar)  |          1|            |       3448|
 |          Belarusian - Turkish  [bel-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bel-tur.tar)  |        140|         17|    2585472|
 |         Belarusian - Talossan  [bel-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bel-tzl.tar)  |          1|            |            |
@@ -478,7 +477,7 @@
 |    Berber languages - Spanish  [ber-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ber-spa.tar)  |      10339|      14044|          5|
 |    Berber languages - Swedish  [ber-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ber-swe.tar)  |          4|            |          4|
 |    Berber languages - Klingon  [ber-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ber-tlh.tar)  |          2|            |            |
-|  Berber languages - Toki Pona  [ber-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ber-toki.tar)  |          5|            |            |
+|  Berber languages - Toki Pona  [ber-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ber-tok.tar)  |          5|            |            |
 |    Berber languages - Turkish  [ber-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ber-tur.tar)  |         25|            |          6|
 |  Berber languages - Ukrainian  [ber-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ber-ukr.tar)  |          1|            |          3|
 |    Berber languages - Yiddish  [ber-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ber-yid.tar)  |          8|          1|            |
@@ -610,8 +609,7 @@
 |           Brithenig - Swabian  [bzt-swg](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bzt-swg.tar)  |          1|            |            |
 |           Brithenig - Klingon  [bzt-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bzt-tlh.tar)  |         80|         12|            |
 |  Brithenig - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [bzt-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bzt-tmr.tar)  |         15|          3|            |
-|           Brithenig - unknown  [bzt-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bzt-tok.tar)  |         21|            |            |
-|         Brithenig - Toki Pona  [bzt-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bzt-toki.tar)  |         13|          2|            |
+|         Brithenig - Toki Pona  [bzt-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bzt-tok.tar)  |         34|          2|            |
 |           Brithenig - Turkish  [bzt-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bzt-tur.tar)  |         20|          2|            |
 |          Brithenig - Talossan  [bzt-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bzt-tzl.tar)  |         42|          2|            |
 |         Brithenig - Ukrainian  [bzt-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/bzt-ukr.tar)  |          9|            |            |
@@ -650,7 +648,7 @@
 |       Catalan - Northern Sami  [cat-sme](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cat-sme.tar)  |          1|            |      15731|
 |             Catalan - Spanish  [cat-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cat-spa.tar)  |       1534|       1320|  122927301|
 |             Catalan - Swedish  [cat-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cat-swe.tar)  |          2|            |    1407116|
-|           Catalan - Toki Pona  [cat-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cat-toki.tar)  |          2|            |            |
+|           Catalan - Toki Pona  [cat-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cat-tok.tar)  |          2|            |            |
 |             Catalan - Turkish  [cat-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cat-tur.tar)  |         20|          1|    1822445|
 |           Catalan - Ukrainian  [cat-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cat-ukr.tar)  |        459|            |    2202310|
 |             Catalan - Yiddish  [cat-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cat-yid.tar)  |          6|            |      22271|
@@ -670,8 +668,7 @@
 |           Chavacano - Russian  [cbk-rus](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cbk-rus.tar)  |          1|            |            |
 |           Chavacano - Spanish  [cbk-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cbk-spa.tar)  |         98|          4|            |
 |           Chavacano - Tagalog  [cbk-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cbk-tgl.tar)  |          1|            |            |
-|           Chavacano - unknown  [cbk-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cbk-tok.tar)  |          1|            |            |
-|         Chavacano - Toki Pona  [cbk-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cbk-toki.tar)  |          1|            |            |
+|         Chavacano - Toki Pona  [cbk-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cbk-tok.tar)  |          2|            |            |
 |           Chavacano - Chinese  [cbk-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/cbk-zho.tar)  |          1|            |            |
 |              Cebuano - German  [ceb-deu](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ceb-deu.tar)  |        903|            |    1236155|
 |             Cebuano - English  [ceb-eng](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ceb-eng.tar)  |        424|            |   12929308|
@@ -748,8 +745,7 @@
 |               Czech - Tagalog  [ces-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ces-tgl.tar)  |          5|            |    1784887|
 |               Czech - Klingon  [ces-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ces-tlh.tar)  |         12|            |        125|
 |  Czech - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [ces-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ces-tmr.tar)  |          1|            |            |
-|               Czech - unknown  [ces-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ces-tok.tar)  |          1|            |            |
-|             Czech - Toki Pona  [ces-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ces-toki.tar)  |          2|            |            |
+|             Czech - Toki Pona  [ces-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ces-tok.tar)  |          3|            |            |
 |               Czech - Turkish  [ces-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ces-tur.tar)  |         89|          1|   44787172|
 |              Czech - Talossan  [ces-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ces-tzl.tar)  |         12|          1|            |
 |                Czech - Uighur  [ces-uig](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ces-uig.tar)  |          4|            |      18598|
@@ -949,8 +945,7 @@
 |                Danish - Tatar  [dan-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dan-tat.tar)  |          1|            |     226675|
 |              Danish - Klingon  [dan-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dan-tlh.tar)  |         25|            |         28|
 |  Danish - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [dan-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dan-tmr.tar)  |          4|            |            |
-|              Danish - unknown  [dan-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dan-tok.tar)  |          5|            |            |
-|            Danish - Toki Pona  [dan-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dan-toki.tar)  |          8|            |            |
+|            Danish - Toki Pona  [dan-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dan-tok.tar)  |         13|            |            |
 |              Danish - Turkish  [dan-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dan-tur.tar)  |        770|          4|   19482641|
 |             Danish - Talossan  [dan-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dan-tzl.tar)  |         13|            |            |
 |            Danish - Ukrainian  [dan-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dan-ukr.tar)  |         30|          1|    6801180|
@@ -1075,8 +1070,7 @@
 |                 German - Thai  [deu-tha](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/deu-tha.tar)  |         61|            |    6051869|
 |              German - Klingon  [deu-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/deu-tlh.tar)  |       1099|       1081|        113|
 |  German - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [deu-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/deu-tmr.tar)  |         12|            |            |
-|              German - unknown  [deu-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/deu-tok.tar)  |        348|            |            |
-|            German - Toki Pona  [deu-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/deu-toki.tar)  |      10143|      13817|            |
+|            German - Toki Pona  [deu-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/deu-tok.tar)  |      10488|      13817|            |
 |            German - Tok Pisin  [deu-tpi](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/deu-tpi.tar)  |         30|            |     371923|
 |               German - Tswana  [deu-tsn](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/deu-tsn.tar)  |          9|            |     736237|
 |              German - Turkmen  [deu-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/deu-tuk.tar)  |         11|            |     115515|
@@ -1133,7 +1127,7 @@
 |              Drents - Swedish  [drt-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/drt-swe.tar)  |          2|            |            |
 |              Drents - Klingon  [drt-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/drt-tlh.tar)  |          1|            |            |
 |  Drents - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [drt-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/drt-tmr.tar)  |          1|            |            |
-|            Drents - Toki Pona  [drt-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/drt-toki.tar)  |          1|            |            |
+|            Drents - Toki Pona  [drt-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/drt-tok.tar)  |          1|            |            |
 |             Drents - Talossan  [drt-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/drt-tzl.tar)  |          3|            |            |
 |              Drents - Volapük  [drt-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/drt-vol.tar)  |          3|            |            |
 |              Drents - Yiddish  [drt-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/drt-yid.tar)  |          3|            |            |
@@ -1188,7 +1182,7 @@
 |       Kadazan Dusun - Spanish  [dtp-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dtp-spa.tar)  |          5|            |            |
 |       Kadazan Dusun - Tagalog  [dtp-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dtp-tgl.tar)  |          6|            |            |
 |          Kadazan Dusun - Thai  [dtp-tha](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dtp-tha.tar)  |          3|            |            |
-|     Kadazan Dusun - Toki Pona  [dtp-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dtp-toki.tar)  |          1|            |            |
+|     Kadazan Dusun - Toki Pona  [dtp-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dtp-tok.tar)  |          1|            |            |
 |       Kadazan Dusun - Turkish  [dtp-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dtp-tur.tar)  |          1|            |            |
 |     Kadazan Dusun - Ukrainian  [dtp-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dtp-ukr.tar)  |          3|            |            |
 |    Kadazan Dusun - Mingrelian  [dtp-xmf](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/dtp-xmf.tar)  |          2|            |            |
@@ -1249,8 +1243,7 @@
 |  Modern Greek (1453-) - Swedish  [ell-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ell-swe.tar)  |        253|            |   45936499|
 |  Modern Greek (1453-) - Tagalog  [ell-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ell-tgl.tar)  |         11|            |     510697|
 |  Modern Greek (1453-) - Klingon  [ell-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ell-tlh.tar)  |          1|            |        112|
-|  Modern Greek (1453-) - unknown  [ell-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ell-tok.tar)  |         15|            |            |
-|  Modern Greek (1453-) - Toki Pona  [ell-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ell-toki.tar)  |          2|            |            |
+|  Modern Greek (1453-) - Toki Pona  [ell-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ell-tok.tar)  |         17|            |            |
 |  Modern Greek (1453-) - Turkish  [ell-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ell-tur.tar)  |       1469|        200|   40043669|
 |  Modern Greek (1453-) - Ukrainian  [ell-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ell-ukr.tar)  |         41|          1|    6827143|
 |  Modern Greek (1453-) - Volapük  [ell-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ell-vol.tar)  |          1|            |            |
@@ -1493,8 +1486,7 @@
 |              English - Talysh  [eng-tly](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/eng-tly.tar)  |         46|            |            |
 |  English - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [eng-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/eng-tmr.tar)  |         44|          5|            |
 |      English - Tonga (Zambia)  [eng-toi](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/eng-toi.tar)  |          2|            |     290538|
-|             English - unknown  [eng-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/eng-tok.tar)  |       1000|       1614|            |
-|           English - Toki Pona  [eng-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/eng-toki.tar)  |       4990|       8900|            |
+|           English - Toki Pona  [eng-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/eng-tok.tar)  |       7715|       8702|            |
 |  English - Tonga (Tonga Islands)  [eng-ton](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/eng-ton.tar)  |         20|            |     324472|
 |           English - Tok Pisin  [eng-tpi](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/eng-tpi.tar)  |         49|            |    2010859|
 |                English - Tupí  [eng-tpw](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/eng-tpw.tar)  |         93|            |            |
@@ -1574,8 +1566,7 @@
 |  Middle English (1100-1500) - Saterfriesisch  [enm-stq](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/enm-stq.tar)  |          2|            |            |
 |  Middle English (1100-1500) - Klingon  [enm-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/enm-tlh.tar)  |         20|          3|            |
 |  Middle English (1100-1500) - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [enm-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/enm-tmr.tar)  |         16|          2|            |
-|  Middle English (1100-1500) - unknown  [enm-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/enm-tok.tar)  |          4|            |            |
-|  Middle English (1100-1500) - Toki Pona  [enm-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/enm-toki.tar)  |          4|            |            |
+|  Middle English (1100-1500) - Toki Pona  [enm-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/enm-tok.tar)  |          8|            |            |
 |  Middle English (1100-1500) - Turkish  [enm-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/enm-tur.tar)  |          9|          2|            |
 |  Middle English (1100-1500) - Talossan  [enm-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/enm-tzl.tar)  |         16|          2|            |
 |  Middle English (1100-1500) - Ukrainian  [enm-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/enm-ukr.tar)  |         11|            |            |
@@ -1674,8 +1665,7 @@
 |              Esperanto - Thai  [epo-tha](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/epo-tha.tar)  |         55|            |     179786|
 |           Esperanto - Klingon  [epo-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/epo-tlh.tar)  |       1930|        247|        136|
 |  Esperanto - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [epo-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/epo-tmr.tar)  |         33|          6|            |
-|           Esperanto - unknown  [epo-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/epo-tok.tar)  |        266|            |            |
-|         Esperanto - Toki Pona  [epo-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/epo-toki.tar)  |       2733|       1362|            |
+|         Esperanto - Toki Pona  [epo-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/epo-tok.tar)  |       2733|       1623|            |
 |         Esperanto - Tok Pisin  [epo-tpi](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/epo-tpi.tar)  |         19|            |            |
 |           Esperanto - Turkmen  [epo-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/epo-tuk.tar)  |          2|            |       2193|
 |           Esperanto - Turkish  [epo-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/epo-tur.tar)  |       5000|       7757|     413229|
@@ -1718,7 +1708,7 @@
 |            Estonian - Spanish  [est-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/est-spa.tar)  |         42|            |   40555996|
 |            Estonian - Swedish  [est-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/est-swe.tar)  |          1|            |   27710090|
 |              Estonian - Tatar  [est-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/est-tat.tar)  |          4|            |     233113|
-|            Estonian - unknown  [est-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/est-tok.tar)  |          1|            |            |
+|          Estonian - Toki Pona  [est-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/est-tok.tar)  |          1|            |            |
 |            Estonian - Turkish  [est-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/est-tur.tar)  |         27|          1|   14566160|
 |          Estonian - Ukrainian  [est-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/est-ukr.tar)  |         17|            |    5176833|
 |               Estonian - Urdu  [est-urd](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/est-urd.tar)  |          1|            |     494985|
@@ -1795,8 +1785,7 @@
 |               Persian - Tatar  [fas-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fas-tat.tar)  |          1|            |     151414|
 |             Persian - Klingon  [fas-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fas-tlh.tar)  |         11|            |         92|
 |  Persian - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [fas-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fas-tmr.tar)  |          2|            |            |
-|             Persian - unknown  [fas-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fas-tok.tar)  |          3|            |            |
-|           Persian - Toki Pona  [fas-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fas-toki.tar)  |          2|            |            |
+|           Persian - Toki Pona  [fas-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fas-tok.tar)  |          5|            |            |
 |             Persian - Turkish  [fas-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fas-tur.tar)  |         58|            |   12269362|
 |            Persian - Talossan  [fas-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fas-tzl.tar)  |          1|            |            |
 |           Persian - Ukrainian  [fas-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fas-ukr.tar)  |        116|            |    2651592|
@@ -1859,8 +1848,7 @@
 |             Finnish - Tagalog  [fin-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fin-tgl.tar)  |         24|            |     799895|
 |                Finnish - Thai  [fin-tha](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fin-tha.tar)  |          1|            |    4229726|
 |             Finnish - Klingon  [fin-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fin-tlh.tar)  |          2|            |        119|
-|             Finnish - unknown  [fin-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fin-tok.tar)  |          3|            |            |
-|           Finnish - Toki Pona  [fin-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fin-toki.tar)  |          5|            |            |
+|           Finnish - Toki Pona  [fin-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fin-tok.tar)  |          8|            |            |
 |             Finnish - Turkish  [fin-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fin-tur.tar)  |       1796|          6|   28117234|
 |            Finnish - Talossan  [fin-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fin-tzl.tar)  |          5|            |            |
 |           Finnish - Ukrainian  [fin-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fin-ukr.tar)  |         33|            |    6831237|
@@ -2014,8 +2002,7 @@
 |               French - Talysh  [fra-tly](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fra-tly.tar)  |          3|            |            |
 |             French - Tamashek  [fra-tmh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fra-tmh.tar)  |         51|            |       1921|
 |  French - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [fra-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fra-tmr.tar)  |         10|          1|            |
-|              French - unknown  [fra-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fra-tok.tar)  |         79|            |            |
-|            French - Toki Pona  [fra-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fra-toki.tar)  |        578|         26|            |
+|            French - Toki Pona  [fra-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fra-tok.tar)  |        655|         26|            |
 |  French - Tonga (Tonga Islands)  [fra-ton](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fra-ton.tar)  |          2|            |     304967|
 |            French - Tok Pisin  [fra-tpi](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fra-tpi.tar)  |          6|            |     364845|
 |                 French - Tupí  [fra-tpw](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fra-tpw.tar)  |          7|            |            |
@@ -2083,7 +2070,7 @@
 |    Western Frisian - Silesian  [fry-szl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fry-szl.tar)  |          1|            |        289|
 |     Western Frisian - Klingon  [fry-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fry-tlh.tar)  |          3|            |         14|
 |  Western Frisian - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [fry-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fry-tmr.tar)  |          1|            |            |
-|   Western Frisian - Toki Pona  [fry-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fry-toki.tar)  |          1|            |            |
+|   Western Frisian - Toki Pona  [fry-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fry-tok.tar)  |          1|            |            |
 |     Western Frisian - Turkish  [fry-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fry-tur.tar)  |         38|            |      79859|
 |    Western Frisian - Talossan  [fry-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fry-tzl.tar)  |          6|            |            |
 |   Western Frisian - Ukrainian  [fry-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/fry-ukr.tar)  |         29|            |      79271|
@@ -2165,7 +2152,7 @@
 |         Galician - Portuguese  [glg-por](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/glg-por.tar)  |        434|          3|   77641252|
 |            Galician - Russian  [glg-rus](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/glg-rus.tar)  |         38|            |     502702|
 |            Galician - Spanish  [glg-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/glg-spa.tar)  |       2121|       1013|   41706134|
-|          Galician - Toki Pona  [glg-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/glg-toki.tar)  |          1|            |            |
+|          Galician - Toki Pona  [glg-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/glg-tok.tar)  |          1|            |            |
 |            Galician - Turkish  [glg-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/glg-tur.tar)  |          1|            |    4732305|
 |            Galician - Yiddish  [glg-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/glg-yid.tar)  |          4|            |      24914|
 |            Galician - Chinese  [glg-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/glg-zho.tar)  |          9|            |     497008|
@@ -2210,7 +2197,7 @@
 |            Gronings - Swedish  [gos-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/gos-swe.tar)  |          5|            |            |
 |            Gronings - Klingon  [gos-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/gos-tlh.tar)  |          4|            |            |
 |  Gronings - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [gos-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/gos-tmr.tar)  |          1|            |            |
-|          Gronings - Toki Pona  [gos-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/gos-toki.tar)  |          2|            |            |
+|          Gronings - Toki Pona  [gos-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/gos-tok.tar)  |          2|            |            |
 |            Gronings - Turkmen  [gos-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/gos-tuk.tar)  |          1|            |            |
 |            Gronings - Turkish  [gos-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/gos-tur.tar)  |          1|            |            |
 |           Gronings - Talossan  [gos-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/gos-tzl.tar)  |          5|            |            |
@@ -2289,7 +2276,7 @@
 |            Haitian - Sindarin  [hat-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hat-sjn.tar)  |          1|            |            |
 |           Haitian - Slovenian  [hat-slv](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hat-slv.tar)  |          1|            |     183601|
 |             Haitian - Spanish  [hat-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hat-spa.tar)  |         54|            |     508947|
-|             Haitian - unknown  [hat-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hat-tok.tar)  |          1|            |            |
+|           Haitian - Toki Pona  [hat-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hat-tok.tar)  |          1|            |            |
 |             Haitian - Turkish  [hat-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hat-tur.tar)  |          1|            |     335182|
 |            Haitian - Talossan  [hat-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hat-tzl.tar)  |          1|            |            |
 |             Haitian - Yiddish  [hat-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hat-yid.tar)  |         10|            |       3573|
@@ -2316,8 +2303,7 @@
 |      Ancient Hebrew - Swedish  [hbo-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbo-swe.tar)  |          1|            |            |
 |      Ancient Hebrew - Klingon  [hbo-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbo-tlh.tar)  |          8|            |            |
 |  Ancient Hebrew - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [hbo-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbo-tmr.tar)  |          4|            |            |
-|      Ancient Hebrew - unknown  [hbo-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbo-tok.tar)  |          3|            |            |
-|    Ancient Hebrew - Toki Pona  [hbo-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbo-toki.tar)  |          3|            |            |
+|    Ancient Hebrew - Toki Pona  [hbo-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbo-tok.tar)  |          6|            |            |
 |      Ancient Hebrew - Volapük  [hbo-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbo-vol.tar)  |          1|            |            |
 |      Ancient Hebrew - Yiddish  [hbo-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbo-yid.tar)  |         28|            |            |
 |  Serbo-Croatian - Serbo-Croatian  [hbs-hbs](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbs-hbs.tar)  |         43|            |   58666518|
@@ -2345,7 +2331,7 @@
 |      Serbo-Croatian - Spanish  [hbs-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbs-spa.tar)  |        620|          2|   79678925|
 |      Serbo-Croatian - Swedish  [hbs-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbs-swe.tar)  |          2|            |   37131475|
 |        Serbo-Croatian - Tatar  [hbs-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbs-tat.tar)  |          2|            |     271021|
-|      Serbo-Croatian - unknown  [hbs-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbs-tok.tar)  |          3|            |            |
+|    Serbo-Croatian - Toki Pona  [hbs-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbs-tok.tar)  |          3|            |            |
 |      Serbo-Croatian - Turkish  [hbs-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbs-tur.tar)  |        203|            |   56072748|
 |    Serbo-Croatian - Ukrainian  [hbs-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbs-ukr.tar)  |        945|          7|   11329784|
 |         Serbo-Croatian - Urdu  [hbs-urd](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hbs-urd.tar)  |          1|            |    1334624|
@@ -2398,8 +2384,7 @@
 |              Hebrew - Tagalog  [heb-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/heb-tgl.tar)  |         15|            |    1410815|
 |              Hebrew - Klingon  [heb-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/heb-tlh.tar)  |         80|         16|        136|
 |  Hebrew - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [heb-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/heb-tmr.tar)  |         22|          7|            |
-|              Hebrew - unknown  [heb-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/heb-tok.tar)  |         23|            |            |
-|            Hebrew - Toki Pona  [heb-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/heb-toki.tar)  |         85|         17|            |
+|            Hebrew - Toki Pona  [heb-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/heb-tok.tar)  |        108|         17|            |
 |              Hebrew - Turkish  [heb-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/heb-tur.tar)  |       1377|         44|   30677034|
 |             Hebrew - Talossan  [heb-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/heb-tzl.tar)  |         40|          8|            |
 |            Hebrew - Ukrainian  [heb-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/heb-ukr.tar)  |        969|         10|    3423678|
@@ -2500,8 +2485,7 @@
 |           Hungarian - Tagalog  [hun-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hun-tgl.tar)  |          5|            |     815820|
 |           Hungarian - Klingon  [hun-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hun-tlh.tar)  |         32|          4|        123|
 |  Hungarian - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [hun-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hun-tmr.tar)  |          9|          1|            |
-|           Hungarian - unknown  [hun-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hun-tok.tar)  |          5|            |            |
-|         Hungarian - Toki Pona  [hun-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hun-toki.tar)  |         11|            |            |
+|         Hungarian - Toki Pona  [hun-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hun-tok.tar)  |         16|            |            |
 |           Hungarian - Turkmen  [hun-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hun-tuk.tar)  |          1|            |       2710|
 |           Hungarian - Turkish  [hun-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hun-tur.tar)  |       1059|         10|   37074809|
 |          Hungarian - Talossan  [hun-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/hun-tzl.tar)  |         24|          6|            |
@@ -2566,8 +2550,7 @@
 |                 Ido - Tagalog  [ido-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ido-tgl.tar)  |         10|            |       3458|
 |                 Ido - Klingon  [ido-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ido-tlh.tar)  |        127|         16|          5|
 |  Ido - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [ido-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ido-tmr.tar)  |         16|          3|            |
-|                 Ido - unknown  [ido-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ido-tok.tar)  |         19|            |            |
-|               Ido - Toki Pona  [ido-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ido-toki.tar)  |         66|          8|            |
+|               Ido - Toki Pona  [ido-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ido-tok.tar)  |         85|          8|            |
 |                 Ido - Turkmen  [ido-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ido-tuk.tar)  |          1|            |        481|
 |                 Ido - Turkish  [ido-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ido-tur.tar)  |         53|          6|       6103|
 |                Ido - Talossan  [ido-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ido-tzl.tar)  |         59|          9|            |
@@ -2609,8 +2592,7 @@
 |         Interlingue - Swabian  [ile-swg](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ile-swg.tar)  |          1|            |            |
 |         Interlingue - Klingon  [ile-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ile-tlh.tar)  |         76|         14|            |
 |  Interlingue - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [ile-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ile-tmr.tar)  |         10|          3|            |
-|         Interlingue - unknown  [ile-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ile-tok.tar)  |          5|            |            |
-|       Interlingue - Toki Pona  [ile-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ile-toki.tar)  |         14|          4|            |
+|       Interlingue - Toki Pona  [ile-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ile-tok.tar)  |         19|          4|            |
 |         Interlingue - Turkish  [ile-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ile-tur.tar)  |         17|          2|        117|
 |        Interlingue - Talossan  [ile-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ile-tzl.tar)  |         31|          8|            |
 |       Interlingue - Ukrainian  [ile-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ile-ukr.tar)  |          8|            |            |
@@ -2660,8 +2642,7 @@
 |  Interlingua (International Auxiliary Language Association) - Tagalog  [ina-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ina-tgl.tar)  |         25|            |       6454|
 |  Interlingua (International Auxiliary Language Association) - Klingon  [ina-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ina-tlh.tar)  |        284|         34|          5|
 |  Interlingua (International Auxiliary Language Association) - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [ina-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ina-tmr.tar)  |         20|          4|            |
-|  Interlingua (International Auxiliary Language Association) - unknown  [ina-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ina-tok.tar)  |         58|            |            |
-|  Interlingua (International Auxiliary Language Association) - Toki Pona  [ina-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ina-toki.tar)  |         82|         14|            |
+|  Interlingua (International Auxiliary Language Association) - Toki Pona  [ina-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ina-tok.tar)  |        140|         14|            |
 |  Interlingua (International Auxiliary Language Association) - Turkmen  [ina-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ina-tuk.tar)  |          1|            |        370|
 |  Interlingua (International Auxiliary Language Association) - Turkish  [ina-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ina-tur.tar)  |        330|         13|      19925|
 |  Interlingua (International Auxiliary Language Association) - Talossan  [ina-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ina-tzl.tar)  |         89|         16|            |
@@ -2689,7 +2670,7 @@
 |           Icelandic - Spanish  [isl-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/isl-spa.tar)  |        241|            |    5513480|
 |    Icelandic - Saterfriesisch  [isl-stq](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/isl-stq.tar)  |          1|            |            |
 |           Icelandic - Swedish  [isl-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/isl-swe.tar)  |          1|            |    5701699|
-|           Icelandic - unknown  [isl-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/isl-tok.tar)  |          1|            |            |
+|         Icelandic - Toki Pona  [isl-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/isl-tok.tar)  |          1|            |            |
 |           Icelandic - Turkish  [isl-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/isl-tur.tar)  |          1|            |    2066527|
 |          Icelandic - Talossan  [isl-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/isl-tzl.tar)  |          1|            |            |
 |           Icelandic - Chinese  [isl-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/isl-zho.tar)  |         12|            |    1275416|
@@ -2740,8 +2721,7 @@
 |                Italian - Thai  [ita-tha](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ita-tha.tar)  |         15|            |    6487036|
 |             Italian - Klingon  [ita-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ita-tlh.tar)  |        140|          5|        127|
 |  Italian - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [ita-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ita-tmr.tar)  |          5|            |            |
-|             Italian - unknown  [ita-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ita-tok.tar)  |         15|            |            |
-|           Italian - Toki Pona  [ita-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ita-toki.tar)  |        200|         16|            |
+|           Italian - Toki Pona  [ita-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ita-tok.tar)  |        215|         16|            |
 |             Italian - Turkmen  [ita-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ita-tuk.tar)  |          1|            |       2700|
 |             Italian - Turkish  [ita-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ita-tur.tar)  |      10000|       5727|   39157018|
 |            Italian - Talossan  [ita-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ita-tzl.tar)  |         22|          3|            |
@@ -2789,8 +2769,7 @@
 |              Lojban - Tagalog  [jbo-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jbo-tgl.tar)  |         35|            |         33|
 |              Lojban - Klingon  [jbo-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jbo-tlh.tar)  |         30|          2|         10|
 |  Lojban - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [jbo-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jbo-tmr.tar)  |          8|            |            |
-|              Lojban - unknown  [jbo-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jbo-tok.tar)  |         11|            |            |
-|            Lojban - Toki Pona  [jbo-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jbo-toki.tar)  |          8|            |            |
+|            Lojban - Toki Pona  [jbo-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jbo-tok.tar)  |         19|            |            |
 |              Lojban - Turkmen  [jbo-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jbo-tuk.tar)  |          1|            |         42|
 |              Lojban - Turkish  [jbo-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jbo-tur.tar)  |          6|            |        353|
 |             Lojban - Talossan  [jbo-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jbo-tzl.tar)  |          9|          1|            |
@@ -2804,7 +2783,7 @@
 |  Jewish Palestinian Aramaic - Norwegian  [jpa-nor](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpa-nor.tar)  |          1|            |            |
 |  Jewish Palestinian Aramaic - Klingon  [jpa-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpa-tlh.tar)  |          1|            |            |
 |  Jewish Palestinian Aramaic - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [jpa-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpa-tmr.tar)  |          2|            |            |
-|  Jewish Palestinian Aramaic - Toki Pona  [jpa-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpa-toki.tar)  |          1|            |            |
+|  Jewish Palestinian Aramaic - Toki Pona  [jpa-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpa-tok.tar)  |          1|            |            |
 |  Jewish Palestinian Aramaic - Yiddish  [jpa-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpa-yid.tar)  |          1|            |            |
 |           Japanese - Japanese  [jpn-jpn](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpn-jpn.tar)  |        616|            |      18246|
 |             Japanese - Kabyle  [jpn-kab](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpn-kab.tar)  |         30|            |      20906|
@@ -2865,8 +2844,7 @@
 |            Japanese - Tagalog  [jpn-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpn-tgl.tar)  |        136|            |    1429308|
 |               Japanese - Thai  [jpn-tha](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpn-tha.tar)  |         52|            |    4231011|
 |            Japanese - Klingon  [jpn-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpn-tlh.tar)  |        676|            |        131|
-|            Japanese - unknown  [jpn-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpn-tok.tar)  |        119|            |            |
-|          Japanese - Toki Pona  [jpn-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpn-toki.tar)  |        251|          2|            |
+|          Japanese - Toki Pona  [jpn-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpn-tok.tar)  |        368|          2|            |
 |            Japanese - Turkmen  [jpn-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpn-tuk.tar)  |          2|            |      44251|
 |            Japanese - Turkish  [jpn-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpn-tur.tar)  |        829|          4|   18669222|
 |           Japanese - Talossan  [jpn-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/jpn-tzl.tar)  |          2|            |            |
@@ -2913,8 +2891,7 @@
 |              Kabyle - Klingon  [kab-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kab-tlh.tar)  |          4|            |          9|
 |             Kabyle - Tamashek  [kab-tmh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kab-tmh.tar)  |          2|            |        506|
 |  Kabyle - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [kab-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kab-tmr.tar)  |          1|            |            |
-|              Kabyle - unknown  [kab-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kab-tok.tar)  |          4|            |            |
-|            Kabyle - Toki Pona  [kab-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kab-toki.tar)  |          6|            |            |
+|            Kabyle - Toki Pona  [kab-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kab-tok.tar)  |         10|            |            |
 |              Kabyle - Turkish  [kab-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kab-tur.tar)  |          5|          1|      32056|
 |           Kabyle - Vietnamese  [kab-vie](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kab-vie.tar)  |          2|            |      36280|
 |              Kabyle - Volapük  [kab-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kab-vol.tar)  |          5|            |            |
@@ -2941,7 +2918,7 @@
 |            Georgian - Russian  [kat-rus](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kat-rus.tar)  |        660|          6|    3847285|
 |            Georgian - Spanish  [kat-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kat-spa.tar)  |          2|            |     701522|
 |            Georgian - Tagalog  [kat-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kat-tgl.tar)  |          2|            |     459353|
-|            Georgian - unknown  [kat-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kat-tok.tar)  |          1|            |            |
+|          Georgian - Toki Pona  [kat-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kat-tok.tar)  |          1|            |            |
 |            Georgian - Turkish  [kat-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kat-tur.tar)  |        146|         12|    1019066|
 |          Georgian - Ukrainian  [kat-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kat-ukr.tar)  |          5|            |     714625|
 |         Georgian - Vietnamese  [kat-vie](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kat-vie.tar)  |          1|            |     793638|
@@ -2964,7 +2941,7 @@
 |              Kazakh - Swedish  [kaz-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kaz-swe.tar)  |          1|            |     258721|
 |                Kazakh - Tatar  [kaz-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kaz-tat.tar)  |          5|            |      74175|
 |              Kazakh - Klingon  [kaz-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kaz-tlh.tar)  |          1|            |         15|
-|            Kazakh - Toki Pona  [kaz-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kaz-toki.tar)  |          1|            |            |
+|            Kazakh - Toki Pona  [kaz-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kaz-tok.tar)  |          1|            |            |
 |              Kazakh - Turkmen  [kaz-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kaz-tuk.tar)  |          4|            |       2411|
 |              Kazakh - Turkish  [kaz-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kaz-tur.tar)  |        121|          1|     607552|
 |             Kazakh - Tuvinian  [kaz-tyv](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kaz-tyv.tar)  |          7|            |            |
@@ -3019,7 +2996,7 @@
 |                Korean - Tatar  [kor-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kor-tat.tar)  |          2|            |      95576|
 |              Korean - Tagalog  [kor-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kor-tgl.tar)  |          1|            |     495065|
 |              Korean - Klingon  [kor-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kor-tlh.tar)  |          2|            |        134|
-|            Korean - Toki Pona  [kor-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kor-toki.tar)  |          2|            |            |
+|            Korean - Toki Pona  [kor-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kor-tok.tar)  |          2|            |            |
 |              Korean - Turkish  [kor-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kor-tur.tar)  |        180|            |   10127118|
 |               Korean - Uighur  [kor-uig](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kor-uig.tar)  |         13|            |       9699|
 |            Korean - Ukrainian  [kor-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kor-ukr.tar)  |         28|            |    2903908|
@@ -3066,8 +3043,7 @@
 |             Kurdish - Klingon  [kur-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kur-tlh.tar)  |          5|            |         95|
 |  Kurdish - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [kur-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kur-tmr.tar)  |          5|            |            |
 |      Kurdish - Tonga (Zambia)  [kur-toi](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kur-toi.tar)  |          1|            |      13715|
-|             Kurdish - unknown  [kur-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kur-tok.tar)  |          1|            |            |
-|           Kurdish - Toki Pona  [kur-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kur-toki.tar)  |          2|            |            |
+|           Kurdish - Toki Pona  [kur-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kur-tok.tar)  |          3|            |            |
 |             Kurdish - Turkmen  [kur-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kur-tuk.tar)  |          1|            |      12829|
 |             Kurdish - Turkish  [kur-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kur-tur.tar)  |        322|         13|     162981|
 |            Kurdish - Talossan  [kur-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/kur-tzl.tar)  |         10|            |            |
@@ -3106,8 +3082,7 @@
 |                Ladino - Tatar  [lad-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lad-tat.tar)  |          1|            |            |
 |              Ladino - Klingon  [lad-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lad-tlh.tar)  |        153|         21|            |
 |  Ladino - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [lad-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lad-tmr.tar)  |         38|         11|            |
-|              Ladino - unknown  [lad-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lad-tok.tar)  |         43|            |            |
-|            Ladino - Toki Pona  [lad-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lad-toki.tar)  |         43|          4|            |
+|            Ladino - Toki Pona  [lad-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lad-tok.tar)  |         85|          4|            |
 |              Ladino - Turkish  [lad-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lad-tur.tar)  |         81|         13|            |
 |             Ladino - Talossan  [lad-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lad-tzl.tar)  |         92|         10|            |
 |            Ladino - Ukrainian  [lad-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lad-ukr.tar)  |         31|          3|            |
@@ -3149,8 +3124,7 @@
 |               Latin - Tagalog  [lat-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lat-tgl.tar)  |          2|            |      67214|
 |               Latin - Klingon  [lat-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lat-tlh.tar)  |        268|         30|         15|
 |  Latin - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [lat-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lat-tmr.tar)  |         27|          6|            |
-|               Latin - unknown  [lat-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lat-tok.tar)  |        185|            |            |
-|             Latin - Toki Pona  [lat-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lat-toki.tar)  |         69|          8|            |
+|             Latin - Toki Pona  [lat-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lat-tok.tar)  |        253|          8|            |
 |               Latin - Turkmen  [lat-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lat-tuk.tar)  |          1|            |         50|
 |               Latin - Turkish  [lat-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lat-tur.tar)  |        137|         12|     210894|
 |              Latin - Talossan  [lat-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lat-tzl.tar)  |         59|         13|            |
@@ -3194,8 +3168,7 @@
 |             Láadan - Sindarin  [ldn-sjn](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ldn-sjn.tar)  |          3|            |            |
 |              Láadan - Klingon  [ldn-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ldn-tlh.tar)  |         13|            |            |
 |  Láadan - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [ldn-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ldn-tmr.tar)  |          2|            |            |
-|              Láadan - unknown  [ldn-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ldn-tok.tar)  |          4|            |            |
-|            Láadan - Toki Pona  [ldn-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ldn-toki.tar)  |          3|            |            |
+|            Láadan - Toki Pona  [ldn-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ldn-tok.tar)  |          7|            |            |
 |              Láadan - Turkish  [ldn-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ldn-tur.tar)  |          3|            |            |
 |             Láadan - Talossan  [ldn-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ldn-tzl.tar)  |          4|            |            |
 |                 Láadan - Veps  [ldn-vep](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ldn-vep.tar)  |          1|            |            |
@@ -3229,8 +3202,7 @@
 |  Lingua Franca Nova - Tagalog  [lfn-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lfn-tgl.tar)  |          1|            |            |
 |  Lingua Franca Nova - Klingon  [lfn-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lfn-tlh.tar)  |        253|         44|            |
 |  Lingua Franca Nova - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [lfn-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lfn-tmr.tar)  |         30|          6|            |
-|  Lingua Franca Nova - unknown  [lfn-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lfn-tok.tar)  |         42|            |            |
-|  Lingua Franca Nova - Toki Pona  [lfn-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lfn-toki.tar)  |        135|         21|            |
+|  Lingua Franca Nova - Toki Pona  [lfn-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lfn-tok.tar)  |        177|         21|            |
 |  Lingua Franca Nova - Turkmen  [lfn-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lfn-tuk.tar)  |          2|            |            |
 |  Lingua Franca Nova - Turkish  [lfn-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lfn-tur.tar)  |        209|         23|            |
 |  Lingua Franca Nova - Talossan  [lfn-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lfn-tzl.tar)  |        113|         19|            |
@@ -3268,8 +3240,7 @@
 |          Lithuanian - Swedish  [lit-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lit-swe.tar)  |          2|            |   24668001|
 |            Lithuanian - Tatar  [lit-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lit-tat.tar)  |          2|            |     226625|
 |             Lithuanian - Thai  [lit-tha](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lit-tha.tar)  |          3|            |    1970789|
-|          Lithuanian - unknown  [lit-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lit-tok.tar)  |          2|            |            |
-|        Lithuanian - Toki Pona  [lit-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lit-toki.tar)  |          4|          1|            |
+|        Lithuanian - Toki Pona  [lit-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lit-tok.tar)  |          6|          1|            |
 |          Lithuanian - Turkmen  [lit-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lit-tuk.tar)  |          1|            |     116652|
 |          Lithuanian - Turkish  [lit-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lit-tur.tar)  |       1472|          6|   10996374|
 |         Lithuanian - Talossan  [lit-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/lit-tzl.tar)  |          2|            |            |
@@ -3303,7 +3274,7 @@
 |      Luxembourgish - Silesian  [ltz-szl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ltz-szl.tar)  |          1|            |        191|
 |       Luxembourgish - Klingon  [ltz-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ltz-tlh.tar)  |          3|            |         18|
 |  Luxembourgish - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [ltz-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ltz-tmr.tar)  |          1|            |            |
-|     Luxembourgish - Toki Pona  [ltz-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ltz-toki.tar)  |          1|            |            |
+|     Luxembourgish - Toki Pona  [ltz-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ltz-tok.tar)  |          1|            |            |
 |      Luxembourgish - Talossan  [ltz-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ltz-tzl.tar)  |          7|            |            |
 |     Luxembourgish - Ukrainian  [ltz-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ltz-ukr.tar)  |          1|            |      58275|
 |       Luxembourgish - Volapük  [ltz-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/ltz-vol.tar)  |          4|            |            |
@@ -3333,7 +3304,7 @@
 |          Macedonian - Spanish  [mkd-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/mkd-spa.tar)  |        217|          3|    8901426|
 |          Macedonian - Swedish  [mkd-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/mkd-swe.tar)  |          1|            |    4494708|
 |            Macedonian - Tatar  [mkd-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/mkd-tat.tar)  |          1|            |     212067|
-|        Macedonian - Toki Pona  [mkd-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/mkd-toki.tar)  |          2|            |            |
+|        Macedonian - Toki Pona  [mkd-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/mkd-tok.tar)  |          2|            |            |
 |          Macedonian - Turkish  [mkd-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/mkd-tur.tar)  |         11|            |    3360131|
 |        Macedonian - Ukrainian  [mkd-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/mkd-ukr.tar)  |          5|            |    2621318|
 |          Macedonian - Volapük  [mkd-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/mkd-vol.tar)  |          1|            |            |
@@ -3373,8 +3344,7 @@
 |  Malay (macrolanguage) - Spanish  [msa-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/msa-spa.tar)  |        254|            |   55129975|
 |  Malay (macrolanguage) - Tagalog  [msa-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/msa-tgl.tar)  |          2|            |    3400095|
 |  Malay (macrolanguage) - Thai  [msa-tha](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/msa-tha.tar)  |          2|            |    2034499|
-|  Malay (macrolanguage) - unknown  [msa-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/msa-tok.tar)  |          7|            |            |
-|  Malay (macrolanguage) - Toki Pona  [msa-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/msa-toki.tar)  |          1|            |            |
+|  Malay (macrolanguage) - Toki Pona  [msa-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/msa-tok.tar)  |          8|            |            |
 |  Malay (macrolanguage) - Turkish  [msa-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/msa-tur.tar)  |         64|            |   25353485|
 |  Malay (macrolanguage) - Ukrainian  [msa-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/msa-ukr.tar)  |         13|            |    5717893|
 |  Malay (macrolanguage) - Urdu  [msa-urd](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/msa-urd.tar)  |          1|            |    3563183|
@@ -3402,7 +3372,7 @@
 |          Low German - Swedish  [nds-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nds-swe.tar)  |          1|            |     111584|
 |          Low German - Swabian  [nds-swg](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nds-swg.tar)  |         14|            |            |
 |          Low German - Klingon  [nds-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nds-tlh.tar)  |          4|            |         12|
-|        Low German - Toki Pona  [nds-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nds-toki.tar)  |          3|            |            |
+|        Low German - Toki Pona  [nds-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nds-tok.tar)  |          3|            |            |
 |          Low German - Turkish  [nds-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nds-tur.tar)  |          7|            |      92545|
 |        Low German - Ukrainian  [nds-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nds-ukr.tar)  |         79|          2|     110017|
 |          Low German - Volapük  [nds-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nds-vol.tar)  |          2|            |            |
@@ -3437,8 +3407,7 @@
 |               Dutch - Tokelau  [nld-tkl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nld-tkl.tar)  |          1|            |            |
 |               Dutch - Klingon  [nld-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nld-tlh.tar)  |        181|          8|        121|
 |  Dutch - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [nld-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nld-tmr.tar)  |          6|            |            |
-|               Dutch - unknown  [nld-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nld-tok.tar)  |         79|            |            |
-|             Dutch - Toki Pona  [nld-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nld-toki.tar)  |        684|          5|            |
+|             Dutch - Toki Pona  [nld-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nld-tok.tar)  |        763|          5|            |
 |               Dutch - Turkmen  [nld-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nld-tuk.tar)  |          1|            |     115981|
 |               Dutch - Turkish  [nld-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nld-tur.tar)  |       2500|       3898|   48164735|
 |              Dutch - Talossan  [nld-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nld-tzl.tar)  |         29|          3|            |
@@ -3454,7 +3423,7 @@
 |                 Nogai - Yakut  [nog-sah](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nog-sah.tar)  |          1|            |            |
 |                 Nogai - Tatar  [nog-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nog-tat.tar)  |          1|            |            |
 |               Nogai - Klingon  [nog-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nog-tlh.tar)  |          1|            |            |
-|             Nogai - Toki Pona  [nog-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nog-toki.tar)  |          1|            |            |
+|             Nogai - Toki Pona  [nog-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nog-tok.tar)  |          1|            |            |
 |               Nogai - Turkish  [nog-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nog-tur.tar)  |         13|            |            |
 |             Nogai - Ukrainian  [nog-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nog-ukr.tar)  |          1|            |            |
 |               Nogai - Yiddish  [nog-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nog-yid.tar)  |          1|            |            |
@@ -3477,8 +3446,7 @@
 |           Norwegian - Tagalog  [nor-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nor-tgl.tar)  |          1|            |    1800243|
 |           Norwegian - Klingon  [nor-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nor-tlh.tar)  |         12|            |        149|
 |  Norwegian - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [nor-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nor-tmr.tar)  |          1|            |            |
-|           Norwegian - unknown  [nor-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nor-tok.tar)  |         10|            |            |
-|         Norwegian - Toki Pona  [nor-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nor-toki.tar)  |         12|            |            |
+|         Norwegian - Toki Pona  [nor-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nor-tok.tar)  |         14|            |            |
 |           Norwegian - Turkish  [nor-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nor-tur.tar)  |         92|          1|   15026779|
 |          Norwegian - Talossan  [nor-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nor-tzl.tar)  |          3|            |            |
 |         Norwegian - Ukrainian  [nor-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nor-ukr.tar)  |        674|            |    6189378|
@@ -3499,8 +3467,7 @@
 |              Novial - Swedish  [nov-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nov-swe.tar)  |          3|            |            |
 |              Novial - Klingon  [nov-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nov-tlh.tar)  |         26|          2|            |
 |  Novial - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [nov-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nov-tmr.tar)  |         10|            |            |
-|              Novial - unknown  [nov-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nov-tok.tar)  |          3|            |            |
-|            Novial - Toki Pona  [nov-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nov-toki.tar)  |          7|            |            |
+|            Novial - Toki Pona  [nov-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nov-tok.tar)  |         10|            |            |
 |              Novial - Turkish  [nov-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nov-tur.tar)  |          6|            |            |
 |             Novial - Talossan  [nov-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nov-tzl.tar)  |         21|          2|            |
 |            Novial - Ukrainian  [nov-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/nov-ukr.tar)  |          1|            |            |
@@ -3560,7 +3527,7 @@
 |        Phoenician - Slovenian  [phn-slv](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/phn-slv.tar)  |          1|            |            |
 |          Phoenician - Klingon  [phn-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/phn-tlh.tar)  |          4|            |            |
 |  Phoenician - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [phn-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/phn-tmr.tar)  |          6|            |            |
-|        Phoenician - Toki Pona  [phn-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/phn-toki.tar)  |          1|            |            |
+|        Phoenician - Toki Pona  [phn-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/phn-tok.tar)  |          1|            |            |
 |         Phoenician - Talossan  [phn-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/phn-tzl.tar)  |          1|            |            |
 |        Phoenician - Ukrainian  [phn-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/phn-ukr.tar)  |          2|            |            |
 |          Phoenician - Yiddish  [phn-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/phn-yid.tar)  |          4|            |            |
@@ -3584,8 +3551,7 @@
 |                Polish - Tatar  [pol-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/pol-tat.tar)  |        159|            |     258408|
 |              Polish - Tagalog  [pol-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/pol-tgl.tar)  |         25|            |    1896287|
 |              Polish - Klingon  [pol-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/pol-tlh.tar)  |         13|            |        125|
-|              Polish - unknown  [pol-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/pol-tok.tar)  |        192|            |            |
-|            Polish - Toki Pona  [pol-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/pol-toki.tar)  |         36|            |            |
+|            Polish - Toki Pona  [pol-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/pol-tok.tar)  |        214|            |            |
 |              Polish - Turkmen  [pol-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/pol-tuk.tar)  |          2|            |     118208|
 |              Polish - Turkish  [pol-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/pol-tur.tar)  |        913|            |   51040052|
 |             Polish - Talossan  [pol-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/pol-tzl.tar)  |          1|            |            |
@@ -3614,8 +3580,7 @@
 |          Portuguese - Tagalog  [por-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/por-tgl.tar)  |       1777|          3|    2296650|
 |          Portuguese - Klingon  [por-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/por-tlh.tar)  |         34|          3|        177|
 |  Portuguese - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [por-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/por-tmr.tar)  |          5|          1|            |
-|          Portuguese - unknown  [por-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/por-tok.tar)  |        471|            |            |
-|        Portuguese - Toki Pona  [por-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/por-toki.tar)  |       1719|        552|            |
+|        Portuguese - Toki Pona  [por-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/por-tok.tar)  |       1719|       1023|            |
 |          Portuguese - Turkish  [por-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/por-tur.tar)  |       1794|         76|   79208095|
 |         Portuguese - Talossan  [por-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/por-tzl.tar)  |         24|          1|            |
 |           Portuguese - Uighur  [por-uig](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/por-uig.tar)  |          1|            |      16346|
@@ -3634,7 +3599,7 @@
 |              Quenya - Spanish  [qya-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/qya-spa.tar)  |          7|            |            |
 |              Quenya - Klingon  [qya-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/qya-tlh.tar)  |         10|            |            |
 |  Quenya - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [qya-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/qya-tmr.tar)  |          6|            |            |
-|            Quenya - Toki Pona  [qya-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/qya-toki.tar)  |          2|            |            |
+|            Quenya - Toki Pona  [qya-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/qya-tok.tar)  |          2|            |            |
 |              Quenya - Turkish  [qya-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/qya-tur.tar)  |          4|            |            |
 |             Quenya - Talossan  [qya-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/qya-tzl.tar)  |         12|            |            |
 |            Quenya - Ukrainian  [qya-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/qya-ukr.tar)  |          1|            |            |
@@ -3691,8 +3656,7 @@
 |             Russian - Tagalog  [rus-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/rus-tgl.tar)  |         60|            |    2435802|
 |             Russian - Klingon  [rus-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/rus-tlh.tar)  |        262|          6|        133|
 |  Russian - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [rus-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/rus-tmr.tar)  |          4|            |            |
-|             Russian - unknown  [rus-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/rus-tok.tar)  |         81|            |            |
-|           Russian - Toki Pona  [rus-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/rus-toki.tar)  |        914|         20|            |
+|           Russian - Toki Pona  [rus-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/rus-tok.tar)  |        994|         20|            |
 |             Russian - Turkmen  [rus-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/rus-tuk.tar)  |          9|            |     116565|
 |             Russian - Turkish  [rus-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/rus-tur.tar)  |       5000|       6439|   35352052|
 |            Russian - Tuvinian  [rus-tyv](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/rus-tyv.tar)  |         11|            |       7044|
@@ -3736,8 +3700,7 @@
 |            Sindarin - Swabian  [sjn-swg](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/sjn-swg.tar)  |          1|            |            |
 |            Sindarin - Klingon  [sjn-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/sjn-tlh.tar)  |         15|          2|            |
 |  Sindarin - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [sjn-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/sjn-tmr.tar)  |          8|          1|            |
-|            Sindarin - unknown  [sjn-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/sjn-tok.tar)  |          1|            |            |
-|          Sindarin - Toki Pona  [sjn-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/sjn-toki.tar)  |          4|            |            |
+|          Sindarin - Toki Pona  [sjn-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/sjn-tok.tar)  |          5|            |            |
 |            Sindarin - Turkish  [sjn-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/sjn-tur.tar)  |          3|            |            |
 |           Sindarin - Talossan  [sjn-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/sjn-tzl.tar)  |         17|          2|            |
 |          Sindarin - Ukrainian  [sjn-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/sjn-ukr.tar)  |          4|            |            |
@@ -3749,7 +3712,7 @@
 |             Slovenian - Tatar  [slv-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/slv-tat.tar)  |          2|            |     217386|
 |           Slovenian - Tagalog  [slv-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/slv-tgl.tar)  |          4|            |     509506|
 |           Slovenian - Klingon  [slv-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/slv-tlh.tar)  |          1|            |         84|
-|         Slovenian - Toki Pona  [slv-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/slv-toki.tar)  |          1|            |            |
+|         Slovenian - Toki Pona  [slv-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/slv-tok.tar)  |          1|            |            |
 |           Slovenian - Turkish  [slv-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/slv-tur.tar)  |         25|          1|   20078392|
 |          Slovenian - Talossan  [slv-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/slv-tzl.tar)  |          2|            |            |
 |         Slovenian - Ukrainian  [slv-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/slv-ukr.tar)  |        926|         49|    7719805|
@@ -3759,7 +3722,7 @@
 |           Slovenian - Chinese  [slv-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/slv-zho.tar)  |        826|            |   10956062|
 |       Northern Sami - Spanish  [sme-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/sme-spa.tar)  |         15|            |      15524|
 |       Northern Sami - Swedish  [sme-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/sme-swe.tar)  |          5|            |      15260|
-|       Northern Sami - unknown  [sme-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/sme-tok.tar)  |          1|            |            |
+|     Northern Sami - Toki Pona  [sme-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/sme-tok.tar)  |          1|            |            |
 |              Somali - Turkish  [som-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/som-tur.tar)  |          8|            |     223757|
 |             Spanish - Spanish  [spa-spa](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/spa-spa.tar)  |       2500|       3069|    4835216|
 |            Spanish - Albanian  [spa-sqi](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/spa-sqi.tar)  |          6|            |   13748516|
@@ -3775,8 +3738,7 @@
 |                Spanish - Thai  [spa-tha](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/spa-tha.tar)  |         80|            |    7502694|
 |             Spanish - Klingon  [spa-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/spa-tlh.tar)  |        348|         10|        145|
 |  Spanish - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [spa-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/spa-tmr.tar)  |         11|            |            |
-|             Spanish - unknown  [spa-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/spa-tok.tar)  |        222|            |            |
-|           Spanish - Toki Pona  [spa-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/spa-toki.tar)  |        650|         31|            |
+|           Spanish - Toki Pona  [spa-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/spa-tok.tar)  |        870|         31|            |
 |  Spanish - Tonga (Tonga Islands)  [spa-ton](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/spa-ton.tar)  |          3|            |     304850|
 |                Spanish - Tupí  [spa-tpw](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/spa-tpw.tar)  |          7|            |            |
 |             Spanish - Turkmen  [spa-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/spa-tuk.tar)  |          2|            |       2090|
@@ -3801,7 +3763,7 @@
 |      Saterfriesisch - Swedish  [stq-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/stq-swe.tar)  |          1|            |            |
 |      Saterfriesisch - Klingon  [stq-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/stq-tlh.tar)  |          2|            |            |
 |  Saterfriesisch - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [stq-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/stq-tmr.tar)  |          1|            |            |
-|    Saterfriesisch - Toki Pona  [stq-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/stq-toki.tar)  |          1|            |            |
+|    Saterfriesisch - Toki Pona  [stq-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/stq-tok.tar)  |          1|            |            |
 |     Saterfriesisch - Talossan  [stq-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/stq-tzl.tar)  |          3|            |            |
 |      Saterfriesisch - Volapük  [stq-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/stq-vol.tar)  |          2|            |            |
 |      Saterfriesisch - Yiddish  [stq-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/stq-yid.tar)  |          8|            |            |
@@ -3810,8 +3772,7 @@
 |  Swahili (macrolanguage) - Swedish  [swa-swe](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swa-swe.tar)  |          4|            |    2368932|
 |  Swahili (macrolanguage) - Tatar  [swa-tat](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swa-tat.tar)  |          1|            |      16498|
 |  Swahili (macrolanguage) - Tagalog  [swa-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swa-tgl.tar)  |          1|            |     434840|
-|  Swahili (macrolanguage) - unknown  [swa-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swa-tok.tar)  |          1|            |            |
-|  Swahili (macrolanguage) - Toki Pona  [swa-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swa-toki.tar)  |          2|            |            |
+|  Swahili (macrolanguage) - Toki Pona  [swa-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swa-tok.tar)  |          3|            |            |
 |  Swahili (macrolanguage) - Turkish  [swa-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swa-tur.tar)  |         17|            |    4670150|
 |  Swahili (macrolanguage) - Ukrainian  [swa-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swa-ukr.tar)  |          1|            |    1675995|
 |  Swahili (macrolanguage) - Uzbek  [swa-uzb](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swa-uzb.tar)  |          1|            |      11688|
@@ -3821,8 +3782,7 @@
 |                Swedish - Thai  [swe-tha](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swe-tha.tar)  |          1|            |    3139908|
 |             Swedish - Klingon  [swe-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swe-tlh.tar)  |          3|            |        131|
 |  Swedish - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [swe-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swe-tmr.tar)  |          1|            |            |
-|             Swedish - unknown  [swe-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swe-tok.tar)  |          1|            |            |
-|           Swedish - Toki Pona  [swe-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swe-toki.tar)  |          3|            |            |
+|           Swedish - Toki Pona  [swe-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swe-tok.tar)  |          4|            |            |
 |             Swedish - Turkish  [swe-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swe-tur.tar)  |        233|          6|   34050629|
 |            Swedish - Talossan  [swe-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swe-tzl.tar)  |          3|            |            |
 |           Swedish - Ukrainian  [swe-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swe-ukr.tar)  |         10|            |    7767107|
@@ -3831,7 +3791,7 @@
 |             Swedish - Yiddish  [swe-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swe-yid.tar)  |         37|          1|      23035|
 |             Swedish - Chinese  [swe-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swe-zho.tar)  |       1066|          2|   15809901|
 |             Swabian - Klingon  [swg-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swg-tlh.tar)  |          1|            |            |
-|           Swabian - Toki Pona  [swg-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swg-toki.tar)  |         26|            |            |
+|           Swabian - Toki Pona  [swg-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swg-tok.tar)  |         26|            |            |
 |             Swabian - Turkish  [swg-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swg-tur.tar)  |          1|            |            |
 |           Swabian - Ukrainian  [swg-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swg-ukr.tar)  |          1|            |            |
 |             Swabian - Yiddish  [swg-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/swg-yid.tar)  |         10|          1|            |
@@ -3850,8 +3810,7 @@
 |               Tajik - Turkish  [tgk-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tgk-tur.tar)  |          1|            |     256712|
 |               Tajik - Chinese  [tgk-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tgk-zho.tar)  |          1|            |     134296|
 |             Tagalog - Tagalog  [tgl-tgl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tgl-tgl.tar)  |         46|            |         76|
-|             Tagalog - unknown  [tgl-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tgl-tok.tar)  |         10|            |            |
-|           Tagalog - Toki Pona  [tgl-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tgl-toki.tar)  |          2|            |            |
+|           Tagalog - Toki Pona  [tgl-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tgl-tok.tar)  |         12|            |            |
 |             Tagalog - Turkish  [tgl-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tgl-tur.tar)  |         45|            |    2784376|
 |  Tagalog - Waray (Philippines)  [tgl-war](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tgl-war.tar)  |         59|            |            |
 |             Tagalog - Chinese  [tgl-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tgl-zho.tar)  |         52|            |     936328|
@@ -3862,8 +3821,7 @@
 |                Thai - Chinese  [tha-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tha-zho.tar)  |         82|            |    3131419|
 |             Klingon - Klingon  [tlh-tlh](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tlh-tlh.tar)  |          4|            |            |
 |  Klingon - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [tlh-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tlh-tmr.tar)  |         14|          2|            |
-|             Klingon - unknown  [tlh-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tlh-tok.tar)  |         21|            |            |
-|           Klingon - Toki Pona  [tlh-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tlh-toki.tar)  |         31|          5|            |
+|           Klingon - Toki Pona  [tlh-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tlh-tok.tar)  |         52|          5|            |
 |             Klingon - Turkmen  [tlh-tuk](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tlh-tuk.tar)  |          1|            |            |
 |             Klingon - Turkish  [tlh-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tlh-tur.tar)  |         32|          4|        114|
 |            Klingon - Talossan  [tlh-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tlh-tzl.tar)  |         45|          5|            |
@@ -3872,26 +3830,20 @@
 |             Klingon - Yiddish  [tlh-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tlh-yid.tar)  |        408|         49|          3|
 |             Klingon - Chinese  [tlh-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tlh-zho.tar)  |        448|          1|        119|
 |  Jewish Babylonian Aramaic (ca. 200-1200 CE) - Jewish Babylonian Aramaic (ca. 200-1200 CE)  [tmr-tmr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tmr-tmr.tar)  |          2|            |            |
-|  Jewish Babylonian Aramaic (ca. 200-1200 CE) - unknown  [tmr-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tmr-tok.tar)  |          1|            |            |
-|  Jewish Babylonian Aramaic (ca. 200-1200 CE) - Toki Pona  [tmr-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tmr-toki.tar)  |          4|            |            |
+|  Jewish Babylonian Aramaic (ca. 200-1200 CE) - Toki Pona  [tmr-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tmr-tok.tar)  |          5|            |            |
 |  Jewish Babylonian Aramaic (ca. 200-1200 CE) - Turkish  [tmr-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tmr-tur.tar)  |          6|          1|            |
 |  Jewish Babylonian Aramaic (ca. 200-1200 CE) - Talossan  [tmr-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tmr-tzl.tar)  |         15|          1|            |
 |  Jewish Babylonian Aramaic (ca. 200-1200 CE) - Volapük  [tmr-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tmr-vol.tar)  |         12|          1|            |
 |  Jewish Babylonian Aramaic (ca. 200-1200 CE) - Yiddish  [tmr-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tmr-yid.tar)  |         44|          9|            |
 |  Jewish Babylonian Aramaic (ca. 200-1200 CE) - Chinese  [tmr-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tmr-zho.tar)  |          1|            |            |
-|             unknown - unknown  [tok-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tok-tok.tar)  |        227|            |            |
-|             unknown - Turkish  [tok-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tok-tur.tar)  |          7|            |            |
-|             unknown - Volapük  [tok-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tok-vol.tar)  |          9|            |            |
-|             unknown - Yiddish  [tok-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tok-yid.tar)  |        187|            |            |
-|             unknown - Chinese  [tok-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tok-zho.tar)  |          4|            |            |
-|         Toki Pona - Toki Pona  [toki-toki](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/toki-toki.tar)  |         42|            |            |
-|           Toki Pona - Turkish  [toki-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/toki-tur.tar)  |         99|          8|            |
-|          Toki Pona - Talossan  [toki-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/toki-tzl.tar)  |         13|            |            |
-|         Toki Pona - Ukrainian  [toki-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/toki-ukr.tar)  |         12|          1|            |
-|        Toki Pona - Vietnamese  [toki-vie](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/toki-vie.tar)  |          2|            |            |
-|           Toki Pona - Volapük  [toki-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/toki-vol.tar)  |         25|          3|            |
-|           Toki Pona - Yiddish  [toki-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/toki-yid.tar)  |        171|         17|            |
-|           Toki Pona - Chinese  [toki-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/toki-zho.tar)  |         38|            |            |
+|         Toki Pona - Toki Pona  [tok-tok](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tok-tok.tar)  |        234|            |            |
+|           Toki Pona - Turkish  [tok-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tok-tur.tar)  |        106|          8|            |
+|          Toki Pona - Talossan  [tok-tzl](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tok-tzl.tar)  |         13|            |            |
+|         Toki Pona - Ukrainian  [tok-ukr](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tok-ukr.tar)  |         12|          1|            |
+|        Toki Pona - Vietnamese  [tok-vie](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tok-vie.tar)  |          2|            |            |
+|           Toki Pona - Volapük  [tok-vol](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tok-vol.tar)  |         34|          3|            |
+|           Toki Pona - Yiddish  [tok-yid](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tok-yid.tar)  |        358|         17|            |
+|           Toki Pona - Chinese  [tok-zho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tok-zho.tar)  |         42|            |            |
 |                Tswana - Xhosa  [tsn-xho](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tsn-xho.tar)  |          9|            |     991913|
 |             Turkmen - Turkish  [tuk-tur](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tuk-tur.tar)  |         55|            |     121639|
 |              Turkmen - Uighur  [tuk-uig](https://object.pouta.csc.fi/Tatoeba-Challenge-v2023-09-26/tuk-uig.tar)  |          2|            |       3858|

@@ -1,24 +1,24 @@
-jpn_Hang	kab	零、一、二、三、四、五、六、七、八、九、十。	Ilem, yiwen, sin, tlata, ṛebɛa, xemsa, setta, sebɛa, tmanya, tesɛa, ɛecṛa.
-jpn_Hani	kab	カビル語は僕の母語だよ。	Taqbaylit d tutlayt-iw tayemmat.
-jpn_Hani	kab	カビル語は私の母国語なの。	Taqbaylit d tutlayt-iw tayemmat.
-jpn_Hani	kab	彼は先週学校を辞めた。	Iǧǧa aɣerbaz ddurt iεeddan.
-jpn_Hani	kab	彼女は僕と同い年だ。	Nettat d nekk d yiwen n waddar.
-jpn_Hira	kab	ジョージと言います。	Nekk d Jorge.
-jpn_Hira	kab	ちょっと一服しませんか？	I lufan ad neg yiwet n tsegunfut?
-jpn_Hira	kab	よいお年をお迎えください。	Ssarameɣ-ak aseggas amaynu anamar.
-jpn_Hira	kab	値段は全部同じなんですか？	Sɛan akk yiwet n ssuma?
-jpn_Hira	kab	値段は全部同じなんですか？	Sɛant akk yiwet n ssuma?
-jpn_Hira	kab	値段は全部同じなんですか？	Yiwet n ssuma i sɛan?
-jpn_Hira	kab	値段は全部同じなんですか？	Yiwet n ssuma i sɛant?
-jpn_Hira	kab	安い辞書を買いたいんです。	Bɣiɣ ad aɣeɣ asegzawal ur neɣlay ara.
-jpn_Hira	kab	彼が話すのを聞いたら、彼のことを女の子と思うかもしれません。	Mi ara as-isel yiwen, inewwu d taqcict.
-jpn_Hira	kab	彼は奥さんと子供と友達がいない。	Ur yesɛi ara tameṭṭut, arraw neɣ imeddukal.
-jpn_Hira	kab	彼は早く起きない。	Ur d-yettenkar ara zik.
-jpn_Hira	kab	彼女とは会っていない。	Ur tt-id-mlaleɣ ara.
-jpn_Hira	kab	望むようにではなく、できるようにしか生きられない。	Ur nettidir ara akken nebɣa maca akken nufa.
-jpn_Hira	kab	私の足はあなたと比べて小さい。	D iḍarren-iw i imeẓẓiyen ɣef wid-ik.
-jpn_Hira	kab	私の足はあなたと比べて小さい。	D iḍarren-iw i imeẓẓiyen ɣef wid-im.
-jpn_Hira	kab	私はその仕事を１時間足らずで終えた。	Ur tewwiḍ ara ssaεa fukkeɣ cceɣl-a.
+jpn	kab	零、一、二、三、四、五、六、七、八、九、十。	Ilem, yiwen, sin, tlata, ṛebɛa, xemsa, setta, sebɛa, tmanya, tesɛa, ɛecṛa.
+jpn	kab	カビル語は僕の母語だよ。	Taqbaylit d tutlayt-iw tayemmat.
+jpn	kab	カビル語は私の母国語なの。	Taqbaylit d tutlayt-iw tayemmat.
+jpn	kab	彼は先週学校を辞めた。	Iǧǧa aɣerbaz ddurt iεeddan.
+jpn	kab	彼女は僕と同い年だ。	Nettat d nekk d yiwen n waddar.
+jpn	kab	ジョージと言います。	Nekk d Jorge.
+jpn	kab	ちょっと一服しませんか？	I lufan ad neg yiwet n tsegunfut?
+jpn	kab	よいお年をお迎えください。	Ssarameɣ-ak aseggas amaynu anamar.
+jpn	kab	値段は全部同じなんですか？	Sɛan akk yiwet n ssuma?
+jpn	kab	値段は全部同じなんですか？	Sɛant akk yiwet n ssuma?
+jpn	kab	値段は全部同じなんですか？	Yiwet n ssuma i sɛan?
+jpn	kab	値段は全部同じなんですか？	Yiwet n ssuma i sɛant?
+jpn	kab	安い辞書を買いたいんです。	Bɣiɣ ad aɣeɣ asegzawal ur neɣlay ara.
+jpn	kab	彼が話すのを聞いたら、彼のことを女の子と思うかもしれません。	Mi ara as-isel yiwen, inewwu d taqcict.
+jpn	kab	彼は奥さんと子供と友達がいない。	Ur yesɛi ara tameṭṭut, arraw neɣ imeddukal.
+jpn	kab	彼は早く起きない。	Ur d-yettenkar ara zik.
+jpn	kab	彼女とは会っていない。	Ur tt-id-mlaleɣ ara.
+jpn	kab	望むようにではなく、できるようにしか生きられない。	Ur nettidir ara akken nebɣa maca akken nufa.
+jpn	kab	私の足はあなたと比べて小さい。	D iḍarren-iw i imeẓẓiyen ɣef wid-ik.
+jpn	kab	私の足はあなたと比べて小さい。	D iḍarren-iw i imeẓẓiyen ɣef wid-im.
+jpn	kab	私はその仕事を１時間足らずで終えた。	Ur tewwiḍ ara ssaεa fukkeɣ cceɣl-a.
 jpn	kab	他の二つの訳も合っていません。	Snat-nni n tsuqilin nniḍen daɣen ur wulment ara.
 jpn	kab	他の二つの訳も合ってないんだけど。	Snat-nni n tsuqilin nniḍen daɣen ur wulment ara.
 jpn	kab	他の二つの訳も違います。	Snat-nni n tsuqilin nniḍen daɣen ur wulment ara.

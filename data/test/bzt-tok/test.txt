@@ -1,21 +1,34 @@
-bzt_Latn	xxx_Latn	Eo for rhen.	mi moli ala.
-bzt_Latn	xxx_Latn	Eo wol ddunar-lla a Fair.	mi wile pana e ona tawa jan Mewi.
-bzt_Latn	xxx_Latn	Eo wol ddunar-llw a Fair.	mi wile pana e ona tawa jan Mewi.
-bzt_Latn	xxx_Latn	Ill afur af afar ill afur.	olin li olin e olin olin.
-bzt_Latn	xxx_Latn	K'lwg es mew blentin?	jan lili mi li lon seme?
-bzt_Latn	xxx_Latn	K'lwg es mew ffeil?	jan lili mi li lon seme?
-bzt_Latn	xxx_Latn	K'lwg es nwstr blentin?	jan lili mi li lon seme?
-bzt_Latn	xxx_Latn	K'lwg es nwstr blentin?	jan lili pi mi mute li lon seme?
-bzt_Latn	xxx_Latn	K'lwg es nwstr ffeil?	jan lili mi li lon seme?
-bzt_Latn	xxx_Latn	K'lwg es nwstr ffeil?	jan lili pi mi mute li lon seme?
-bzt_Latn	xxx_Latn	Lla ag es-sa funn?	telo li jaki ala jaki?
-bzt_Latn	xxx_Latn	Lla ag es-sa funn?	telo li pona moku anu seme?
-bzt_Latn	xxx_Latn	Nonc.	lon tenpo ala.
-bzt_Latn	xxx_Latn	Nw h-amblafan.	mi mute li tawa.
-bzt_Latn	xxx_Latn	Nw h-amblafan.	mi mute li tawa kepeken noka.
-bzt_Latn	xxx_Latn	Tomos es sew afant.	jan Ton li jan olin ona.
-bzt_Latn	xxx_Latn	Tomos es sew afant.	jan Ton li jan olin pi ona meli.
-bzt_Latn	xxx_Latn	Tomos es sew afant.	jan Ton li jan olin pi ona mije.
-bzt_Latn	xxx_Latn	Yno mhod rhen manugar ill arient.	jan li ken ala moku e mani.
-bzt_Latn	xxx_Latn	Yst es sew gas.	ni li tomo ona.
-bzt	xxx_Latn	"Ke dem?" "Nonc."	"lon tenpo seme?" "lon tenpo ala."
+bzt_Latn	tok_Latn	Bon noeth, Tatoeba.	kulupu jan pi ilo Tatowepa o, mi tawa lape.
+bzt_Latn	tok_Latn	Bon noeth, Tomos.	jan Ton o lape pona.
+bzt_Latn	tok_Latn	Eo ai llo pharol feliwr.	nimi mute mi li pona mute. nimi mute pi jan ante ali li pona lili.
+bzt_Latn	tok_Latn	Eo grêdd in ill sul anc gan ys yst llygen rhen. Eo grêdd in ill afur anc gan eo llw senh rhen. Eo grêdd in ill Dew anc gan ys yst tosen.	tenpo pimeja kin la mi sona e ni: suno li lon. mi olin ala la kin la mi sona e ni: olin li lon. jan sewi li toki ala kin la mi sona e ni: ona li lon.
+bzt_Latn	tok_Latn	Eo su yn lew.	mi soweli meli.
+bzt_Latn	tok_Latn	Eo su yn lew.	mi soweli wawa.
+bzt_Latn	tok_Latn	Eo wol comprar yn gas.	mi wile kama jo esun e tomo.
+bzt_Latn	tok_Latn	Eo wol yn can.	mi wile e soweli tomo.
+bzt_Latn	tok_Latn	Greid, eo lw ed.	pona. ni li ike mute tawa mi.
+bzt_Latn	tok_Latn	Ill Dôn dunaf e-dd ill Dôn a tolled.	jan sewi li pana e ona li weka e ona.
+bzt_Latn	tok_Latn	Tomos ed Boston.	ma tomo Pasen li ike mute tawa jan Ton.
+bzt_Latn	tok_Latn	Tomos edif Boston.	tenpo pini la ma tomo Pasen li ike mute tawa jan Ton.
+bzt_Latn	tok_Latn	Tomos es yn of e-dd eo su yn ffuin.	jan Ton li mije. mi meli.
+bzt_Latn	tok_Latn	Eo for rhen.	mi moli ala.
+bzt_Latn	tok_Latn	Eo wol ddunar-lla a Fair.	mi wile pana e ona tawa jan Mewi.
+bzt_Latn	tok_Latn	Eo wol ddunar-llw a Fair.	mi wile pana e ona tawa jan Mewi.
+bzt_Latn	tok_Latn	Ill afur af afar ill afur.	olin li olin e olin olin.
+bzt_Latn	tok_Latn	"Ke dem?" "Nonc."	"lon tenpo seme?" "lon tenpo ala."
+bzt_Latn	tok_Latn	K'lwg es mew blentin?	jan lili mi li lon seme?
+bzt_Latn	tok_Latn	K'lwg es mew ffeil?	jan lili mi li lon seme?
+bzt_Latn	tok_Latn	K'lwg es nwstr blentin?	jan lili mi li lon seme?
+bzt_Latn	tok_Latn	K'lwg es nwstr blentin?	jan lili pi mi mute li lon seme?
+bzt_Latn	tok_Latn	K'lwg es nwstr ffeil?	jan lili mi li lon seme?
+bzt_Latn	tok_Latn	K'lwg es nwstr ffeil?	jan lili pi mi mute li lon seme?
+bzt_Latn	tok_Latn	Lla ag es-sa funn?	telo li jaki ala jaki?
+bzt_Latn	tok_Latn	Lla ag es-sa funn?	telo li pona moku anu seme?
+bzt_Latn	tok_Latn	Nonc.	lon tenpo ala.
+bzt_Latn	tok_Latn	Nw h-amblafan.	mi mute li tawa.
+bzt_Latn	tok_Latn	Nw h-amblafan.	mi mute li tawa kepeken noka.
+bzt_Latn	tok_Latn	Tomos es sew afant.	jan Ton li jan olin ona.
+bzt_Latn	tok_Latn	Tomos es sew afant.	jan Ton li jan olin pi ona meli.
+bzt_Latn	tok_Latn	Tomos es sew afant.	jan Ton li jan olin pi ona mije.
+bzt_Latn	tok_Latn	Yno mhod rhen manugar ill arient.	jan li ken ala moku e mani.
+bzt_Latn	tok_Latn	Yst es sew gas.	ni li tomo ona.
