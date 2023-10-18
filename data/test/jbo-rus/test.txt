@@ -711,8 +711,8 @@ jbo_Latn	rus	mi do ba mutce ckire lo nu da'i do zasydu'a lo jdini mi	Если в
 jbo_Latn	rus	mi dukse lo ka se cuntu kei lo nu sidju ko'a	Я слишком занят, чтобы помочь ей.
 jbo_Latn	rus	mi dukse lo ka se cuntu kei lo nu sidju ko'a	Я слишком занят, чтобы помочь ему.
 jbo_Latn	rus	mi dunda lo cukta do	Дарю тебе книгу.
-jbo_Latn	rus	mi'e la'oi Саша	Меня зовут Саша.
-jbo_Latn	rus	mi'e la'o ry.Саша.ry.	Меня зовут Саша.
+jbo_Cyrl	rus	mi'e la'oi Саша	Меня зовут Саша.
+jbo_Cyrl	rus	mi'e la'o ry.Саша.ry.	Меня зовут Саша.
 jbo_Latn	rus	mi'e rikardos .i ma do cmene	Моё имя — Рикардо. А Ваше?
 jbo_Latn	rus	mi'e .sacas.	Меня зовут Саша.
 jbo_Latn	rus	mi fengu ca ro nu do selzgi sepi'o lo pipno	Я сержусь всякий раз, как ты играешь на пианино.
@@ -1112,7 +1112,7 @@ jbo_Latn	rus	.ui viska do	Рад тебя видеть.
 jbo_Latn	rus	.u'u mi co'a klama le mi zdani	Извините, я ухожу домой.
 jbo_Latn	rus	.u'unai	Я умываю руки.
 jbo_Latn	rus	u'u pu lecycikna ri'a lo nu lecysipna	Я переспал, потому что встал поздно.
-jbo_Latn	rus	.u'u	Прости!
+jbo	rus	.u'u	Прости!
 jbo_Latn	rus	va'i bilga lo nu senpi lo kaurselju'o	Другими словами, ты должен усомниться в здравом смысле.
 jbo_Latn	rus	.va'i do bebna	Другими словами, ты дурак.
 jbo_Latn	rus	va'o lo nu do na nelci ko'a kei ko na citka ko'a	Не нравится - не ешь.

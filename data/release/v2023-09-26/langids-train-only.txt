@@ -1,9 +1,7 @@
 aeb
 ang
 ara_Syrc
-arq
 ary
-arz
 azb
 azb_Arab
 azb_Cyrl
@@ -14,7 +12,6 @@ bam
 bjn
 bos
 bos_Cyrl
-bos_Latn
 bxr
 cdo
 cdo_Hans
@@ -22,12 +19,10 @@ cdo_Hant
 cnr
 cnr_Latn
 csb
-diq
 dty
 ful_Adlm
 fuv
 gan
-gcf
 gom
 got
 hak
@@ -37,7 +32,6 @@ hbs
 hif
 hif_Deva
 hin_Mahj
-hrv
 ido
 ido_Adlm
 ido_Arab
@@ -73,13 +67,10 @@ msa
 nah
 nan
 ngu
-nno
-nob
 ojb
 oji
 pan
 pan_Arab
-pes
 plt
 pnb
 prs
@@ -91,10 +82,8 @@ san
 sat_Deva
 shi
 shi_Tfng
-skr
 snd
 srp
-srp_Cyrl
 srp_Latn
 tgk
 tgk_Arab
@@ -140,11 +129,7 @@ tur_Arab
 udm_Latn
 uzb
 uzb_Arab
-vro
-wuu
 yue
-yue_Hans
-yue_Hant
 zho_Bopo_CN
 zho_Bopo_TW
 zho_CN

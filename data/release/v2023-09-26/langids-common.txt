@@ -6,6 +6,8 @@ amh
 ang_Latn
 ara
 arg
+arq
+arz
 asm
 ast
 ava
@@ -25,6 +27,7 @@ ber
 ber_Latn
 bho
 bod
+bos_Latn
 bre
 brx
 bua
@@ -47,6 +50,7 @@ csb_Latn
 cym
 dan
 deu
+diq
 div
 dsb
 ell
@@ -67,6 +71,7 @@ fry
 ful
 fur
 gag
+gcf
 gcf_Latn
 gil
 gla
@@ -89,6 +94,7 @@ hil
 hin
 hin_Latn
 hmn
+hrv
 hsb
 hun
 hye
@@ -177,6 +183,8 @@ nep
 ngu_Latn
 niu
 nld
+nno
+nob
 nor
 nov_Latn
 nus
@@ -190,6 +198,7 @@ pan_Guru
 pap
 pcd
 pdc
+pes
 pli
 pms
 pol
@@ -216,6 +225,7 @@ sgs
 shi_Latn
 shs_Latn
 sin
+skr
 slv
 sme
 smo
@@ -226,6 +236,7 @@ spa
 sqi
 srd
 srn
+srp_Cyrl
 stq
 sun
 swa
@@ -268,14 +279,18 @@ uzb_Latn
 vec
 vie
 vol_Latn
+vro
 war
 wln
 wol
+wuu
 xal
 xho
 xmf
 yid
 yor
+yue_Hans
+yue_Hant
 zea
 zgh
 zho

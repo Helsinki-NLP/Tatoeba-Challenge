@@ -40,7 +40,7 @@ ckb	ckb	هەمیشە گەژبین بە!	هەمیشە خۆشحاڵم.
 ckb	ckb	هیچ فێر نابم.	من فێری هیچ نابم.
 ckb	ckb	ھێشتا ناسنامەی بکوژەکە نەزانراوە.	ناسنامەی بکوژ هێشتا نادیارە.
 ckb	ckb	یان کوردستان یان نەمان.	ئان کوردستان ئان نەمان.
-ckb	ckb	من فێری هیچ نابم.	فێری هیچ نابم.
+ckb	kmr_Arab	من فێری هیچ نابم.	فێری هیچ نابم.
 ckb	kmr	بوومەلەرزە بوو؟	Erdhej bû?
 ckb	kmr	غەسالەتان هەیە لە ماڵەوە؟	Makîna shushtinê hey e li mal?
 ckb	kmr	ئاردەکە لەگەڵ دوو هێلکە تێکەڵ بکەن.	Ard bi du hêkan re tevlihev bikin.
@@ -508,13 +508,13 @@ ckb	kmr	وێنەیەکی ژنەکەی تۆمم لایە.	Wêneyekî jina Tomî l
 ckb	kmr	یارمەتیم دەدەیت ئەم تۆوانە بچێنم؟	Tu dikarî alîkarîya min bikî ku van tovan biçînim?
 ckb	kmr	یارمەتیی ئەوم پێویست دەبێت.	Dê pêdivîya min bi alîkarîya wê hebe.
 ckb	kmr	یەکشەممەی ڕابردوو چووم بۆ پارکەکە.	Yekşema borî ez çûm parkê.
-ckb	ckb	باشی؟	خاسی؟
-ckb	ckb	تۆ ناوت چییە؟	تو ناوت چەس؟
-ckb	ckb	خەڵکی کوێی؟	خەڵک کوورەی؟
-ckb	ckb	سڵام	ڕووژ خوەش
-ckb	ckb	سڵام	سڵام
-ckb	ckb	کەی دەتەوێ سەرمان لێ بدەی؟	کەی توای سەر وەلیمان بییەی؟
-ckb	ckb	ماڵمان لە ئیلامە.	ماڵمان ھا لە ئیلام.
+ckb	sdh	باشی؟	خاسی؟
+ckb	sdh	تۆ ناوت چییە؟	تو ناوت چەس؟
+ckb	sdh	خەڵکی کوێی؟	خەڵک کوورەی؟
+ckb	sdh	سڵام	ڕووژ خوەش
+ckb	sdh	سڵام	سڵام
+ckb	sdh	کەی دەتەوێ سەرمان لێ بدەی؟	کەی توای سەر وەلیمان بییەی؟
+ckb	sdh	ماڵمان لە ئیلامە.	ماڵمان ھا لە ئیلام.
 kmr	ckb	Amade be!	ئامادە بە!
 kmr	ckb	Amade ye.	ئامادەیە.
 kmr	ckb	Ard bi du hêkan re tevlihev bikin.	ئاردەکە لەگەڵ دوو هێلکە تێکەڵ بکەن.
@@ -974,23 +974,23 @@ kmr	kmr	Na, sipas.	Na, spas.
 kmr	kmr	Tika dikim.	Spas xweş.
 kmr	kmr	Xewn a min e bibim mamoste.	Avatm avaya bbm ba mamosta.
 kmr	kmr	Zarokan milkêşek çêkirine.	Çocuklar dikdörtgen yapmışlar.
-kmr	ckb	Di oda min da têlêfonek heye.	لە ئوتاقەگەی مە تلفۆنێگ هەس
-kmr	ckb	Ez ji kûçika hezdikim.	خوەشمه گەماڵ تێ
-kmr	ckb	Hûn kengê dixwazin serdana me bikin?	کەی توای سەر وەلیمان بییەی؟
-kmr	ckb	Mala me li Îlamê ye.	ماڵمان ھا لە ئیلام.
-kmr	ckb	Nebat çi reng e?	نەوات چ ڕەنگییه ؟
-kmr	ckb	Tu kengî dixwazî me ziyaret bikî?	کەی توای سەر وەلیمان بییەی؟
-kmr	kmr	Kitêb li ser masê ye.	Pirtûk li ser masê ye.
-ckb	ckb	تو ناوت چەس؟	تۆ ناوت چییە؟
-ckb	ckb	خاسی؟	باشی؟
-ckb	ckb	خەڵک کوورەی؟	خەڵکی کوێی؟
-ckb	ckb	ڕووژ خوەش	سڵام
-ckb	ckb	کەی توای سەر وەلیمان بییەی؟	کەی دەتەوێ سەرمان لێ بدەی؟
-ckb	ckb	ماڵمان ھا لە ئیلام.	ماڵمان لە ئیلامە.
-ckb	kmr	خوەشمه گەماڵ تێ	Ez ji kûçika hezdikim.
-ckb	kmr	کەی توای سەر وەلیمان بییەی؟	Hûn kengê dixwazin serdana me bikin?
-ckb	kmr	کەی توای سەر وەلیمان بییەی؟	Tu kengî dixwazî me ziyaret bikî?
-ckb	kmr	لە ئوتاقەگەی مە تلفۆنێگ هەس	Di oda min da têlêfonek heye.
-ckb	kmr	ماڵمان ھا لە ئیلام.	Mala me li Îlamê ye.
-ckb	kmr	نەوات چ ڕەنگییه ؟	Nebat çi reng e?
-ckb	ckb	هۊچ کەسێگ لە دیم نەیۊ	هۊچکە لە ناو ئوتاق نەۊ
+kmr	sdh	Di oda min da têlêfonek heye.	لە ئوتاقەگەی مە تلفۆنێگ هەس
+kmr	sdh	Ez ji kûçika hezdikim.	خوەشمه گەماڵ تێ
+kmr	sdh	Hûn kengê dixwazin serdana me bikin?	کەی توای سەر وەلیمان بییەی؟
+kmr	sdh	Mala me li Îlamê ye.	ماڵمان ھا لە ئیلام.
+kmr	sdh	Nebat çi reng e?	نەوات چ ڕەنگییه ؟
+kmr	sdh	Tu kengî dixwazî me ziyaret bikî?	کەی توای سەر وەلیمان بییەی؟
+kur_Latn	kur_Latn	Kitêb li ser masê ye.	Pirtûk li ser masê ye.
+sdh	ckb	تو ناوت چەس؟	تۆ ناوت چییە؟
+sdh	ckb	خاسی؟	باشی؟
+sdh	ckb	خەڵک کوورەی؟	خەڵکی کوێی؟
+sdh	ckb	ڕووژ خوەش	سڵام
+sdh	ckb	کەی توای سەر وەلیمان بییەی؟	کەی دەتەوێ سەرمان لێ بدەی؟
+sdh	ckb	ماڵمان ھا لە ئیلام.	ماڵمان لە ئیلامە.
+sdh	kmr	خوەشمه گەماڵ تێ	Ez ji kûçika hezdikim.
+sdh	kmr	کەی توای سەر وەلیمان بییەی؟	Hûn kengê dixwazin serdana me bikin?
+sdh	kmr	کەی توای سەر وەلیمان بییەی؟	Tu kengî dixwazî me ziyaret bikî?
+sdh	kmr	لە ئوتاقەگەی مە تلفۆنێگ هەس	Di oda min da têlêfonek heye.
+sdh	kmr	ماڵمان ھا لە ئیلام.	Mala me li Îlamê ye.
+sdh	kmr	نەوات چ ڕەنگییه ؟	Nebat çi reng e?
+sdh	sdh	هۊچ کەسێگ لە دیم نەیۊ	هۊچکە لە ناو ئوتاق نەۊ

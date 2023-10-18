@@ -1,10 +1,10 @@
-ara	lat_Latn	إيش إسمك؟	Quid tibi nomen est?
-ara	lat_Latn	بدي أشتري بيت.	Domum emere volo.
-ara	lat_Latn	شو كلمه؟	Quid est verbum?
-ara	lat_Latn	شو كلمه؟	Quid est vocabulum?
-ara	lat_Latn	شو كلمه؟	Verbum quid est?
-ara	lat_Latn	شو كلمه؟	Vocabulum quid est?
-ara	lat_Latn	هيدي‎ تفاحة جون.	Malum Iohannis est.
+ajp	lat_Latn	إيش إسمك؟	Quid tibi nomen est?
+apc	lat_Latn	بدي أشتري بيت.	Domum emere volo.
+apc	lat_Latn	شو كلمه؟	Quid est verbum?
+apc	lat_Latn	شو كلمه؟	Quid est vocabulum?
+apc	lat_Latn	شو كلمه؟	Verbum quid est?
+apc	lat_Latn	شو كلمه؟	Vocabulum quid est?
+apc	lat_Latn	هيدي‎ تفاحة جون.	Malum Iohannis est.
 ara	lat_Latn	أُحب اللغات الرومانيقية.	Linguae Romanicae me delectant.
 ara	lat_Latn	أُحب اللغات السامية.	Linguae Semiticae me delectant.
 ara	lat_Latn	أريد أن أشتري منزلا.	Domum emere volo.
@@ -51,17 +51,17 @@ ara	lat_Latn	هتلر كره اليهود.	Hitler Iudaeos oderat.
 ara	lat_Latn	ومن كلام الباطل فابعد.	Mendacium fugies.
 ara	lat_Latn	يا تام!	Thoma!
 ara	lat_Latn	يعقوب يهودي لائكي.	Iacobus Iudaeus saecularis est.
-ara	lat_Latn	الماريكان دايرة كي شكوپي.	America sordet.
-ara	lat_Latn	الماريكان دايرة كي شكوپي.	Civitates Foederatae sordent.
-ara	lat_Latn	kul aghrum acherab elma.	Es panem et bibe aquam.
-ara	lat_Latn	اليونان جميلة.	Graecia formosa est.
-ara	lat_Latn	اليونان جميلة.	Graecia pulchra est.
-ara	lat_Latn	توم مش مترجم.	Thomas interpres non est.
-ara	lat_Latn	دي‎ تفاحة جون.	Malum Iohannis est.
-ara	lat_Latn	دي مشكلة كبيرة	Istud problema grave est.
-ara	lat_Latn	كلمة ايه؟	Quid est verbum?
-ara	lat_Latn	كلمة ايه؟	Quid est vocabulum?
-ara	lat_Latn	كلمة ايه؟	Verbum quid est?
-ara	lat_Latn	كلمة ايه؟	Vocabulum quid est?
-ara	lat_Latn	نط.	Sali.
-ara	lat_Latn	هيتلر كره اليهود.	Hitler Iudaeos oderat.
+arq	lat_Latn	الماريكان دايرة كي شكوپي.	America sordet.
+arq	lat_Latn	الماريكان دايرة كي شكوپي.	Civitates Foederatae sordent.
+arq	lat_Latn	kul aghrum acherab elma.	Es panem et bibe aquam.
+arz	lat_Latn	اليونان جميلة.	Graecia formosa est.
+arz	lat_Latn	اليونان جميلة.	Graecia pulchra est.
+arz	lat_Latn	توم مش مترجم.	Thomas interpres non est.
+arz	lat_Latn	دي‎ تفاحة جون.	Malum Iohannis est.
+arz	lat_Latn	دي مشكلة كبيرة	Istud problema grave est.
+arz	lat_Latn	كلمة ايه؟	Quid est verbum?
+arz	lat_Latn	كلمة ايه؟	Quid est vocabulum?
+arz	lat_Latn	كلمة ايه؟	Verbum quid est?
+arz	lat_Latn	كلمة ايه؟	Vocabulum quid est?
+arz	lat_Latn	نط.	Sali.
+arz	lat_Latn	هيتلر كره اليهود.	Hitler Iudaeos oderat.

@@ -254,7 +254,7 @@ eng	tlh_Latn	At last, they met face to face.	tagha' ghom cha' qabDu'.
 eng	tlh_Latn	At last, we reached our destination.	tagha' ghochmaj wIpaw.
 eng	tlh_Latn	At present, building materials are very expensive.	DaH waghqu' mutlhmeH Hap.
 eng	tlh_Latn	At present, the cause of the disease is unknown.	DaH rop meq Sovlu'be'.
-eng	tlh_Latn	Attention!	Su'!
+eng	tlh	Attention!	Su'!
 eng	tlh_Latn	Attention!	yIqIm!
 eng	tlh_Latn	At that time, I was still awake.	ngugh wej jIQong.
 eng	tlh_Latn	At the end of the speech she repeated the word.	SoQ vanDI' mu'vetlh jatlhqa'.
@@ -552,7 +552,7 @@ eng	tlh_Latn	Death is certain, but its time is not.	Heghlu'bej, poH Sovlu'be'.
 eng	tlh_Latn	Death seeks its prey.	gheDDaj nej Hegh.
 eng	tlh_Latn	Defend yourselves!	peHub'egh!
 eng	tlh_Latn	Definitely!	bej!
-eng	tlh_Latn	Definitely!	na'!
+eng	tlh	Definitely!	na'!
 eng	tlh_Latn	Destroy the fortress.	jem'IH yIQaw'.
 eng	tlh_Latn	Did he fail again?	lujqa''a'?
 eng	tlh_Latn	"Did he kiss you?" "No, I kissed him!"	«Duchop'a'?» «ghobe'. vIchop.»
@@ -1197,7 +1197,7 @@ eng	tlh_Latn	He bought a newspaper.	De' chu' ghItlh je'.
 eng	tlh_Latn	He bought eggs and milk from a farmer.	wIjwI'vo' QImmey nIm je je'ta'.
 eng	tlh_Latn	He bought flowers.	'InSongmey je'.
 eng	tlh_Latn	He bought it.	je' ghaH.
-eng	tlh_Latn	He bought it.	'oH je'.
+eng	tlh	He bought it.	'oH je'.
 eng	tlh_Latn	He bought it.	'oH je' ghaH.
 eng	tlh_Latn	He bought me a nice camera.	jIHvaD mIllogh qonwI' QaQ je'ta'.
 eng	tlh_Latn	He bought the land for the purpose of building a house on it.	pa' juH qach chenmoH neHmo', yer je'.
@@ -1551,7 +1551,7 @@ eng	tlh_Latn	He pretends to know everything.	Hoch Sov 'e' ghet ghaH.
 eng	tlh_Latn	He probably knows.	ghaytan Sov.
 eng	tlh_Latn	He promised me that he would come at four.	rep loS mughoS 'e' lay'pu'.
 eng	tlh_Latn	He promised me to come early.	'eq 'e' mulay'.
-eng	tlh_Latn	He promised not to tell.	ja'Qo' 'e' lay'.
+eng	tlh	He promised not to tell.	ja'Qo' 'e' lay'.
 eng	tlh_Latn	He promised to marry her.	ghaH Saw 'e' lay'.
 eng	tlh_Latn	He provided food and clothes for his family.	qorDu'DajvaD Sut Soj je ghaqta'.
 eng	tlh_Latn	He put a knife to my throat.	HughwIjDaq taj lan.
@@ -3471,7 +3471,7 @@ eng	tlh_Latn	Is it broken?	ghorlu'pu''a'?
 eng	tlh_Latn	Is it cheap?	qutlh'a'?
 eng	tlh_Latn	Is it dangerous?	Qob'a'?
 eng	tlh_Latn	Is it necessary to live in a French-speaking country to become fluent in French?	vIraS Hol ghojchu'meH vay', vIraS Hol jatlhwI' Sep DabnIS'a'?
-eng	tlh_Latn	Is it new?	chu''a'?
+eng	tlh	Is it new?	chu''a'?
 eng	tlh_Latn	Is it not black?	qIjbe''a'?
 eng	tlh_Latn	Is it red?	Doqqu''a'?
 eng	tlh_Latn	Is it still raining?	SIStaH qar'a'?
@@ -3543,10 +3543,10 @@ eng	tlh_Latn	Is there water?	pa' bIQ tu'lu''a'?
 eng	tlh_Latn	Is there water there?	pa' bIQ tu'lu''a'?
 eng	tlh_Latn	Is this absolutely necessary?	'utchu''a'?
 eng	tlh_Latn	Is this a flower?	chal 'oH'a' Dochvam'e'?
-eng	tlh_Latn	Is this crucial?	'ut'a'?
+eng	tlh	Is this crucial?	'ut'a'?
 eng	tlh_Latn	Is this legal?	mub'a' 'oH?
 eng	tlh_Latn	Is this made in Switzerland?	Switzerland-Daq Dochvam chenmoHlu'pu''a'?
-eng	tlh_Latn	Is this new?	chu''a' 'oH?
+eng	tlh	Is this new?	chu''a' 'oH?
 eng	tlh_Latn	Is this pear green?	SuDqu''a' per naHvam?
 eng	tlh_Latn	Is this the last group?	ghom Qav 'oH'a'?
 eng	tlh_Latn	Is this the place in which your mother works?	DaqvamDaq vumtaH'a' SoSlI'?
@@ -3726,8 +3726,8 @@ eng	tlh_Latn	It is too warm for me.	tlhoy jIHvaD ghun.
 eng	tlh_Latn	It is under the chair.	quS bIngDaq 'oHtaH.
 eng	tlh_Latn	It is used by a great many people.	lulo' nuvpu' law'qu'.
 eng	tlh_Latn	It is warm.	ghun.
-eng	tlh_Latn	It is what it is.	'oH 'oH.
-eng	tlh_Latn	It is what it is.	'oH 'oH 'oH'e'.
+eng	tlh	It is what it is.	'oH 'oH.
+eng	tlh	It is what it is.	'oH 'oH 'oH'e'.
 eng	tlh_Latn	It is young.	Qup 'oH.
 eng	tlh_Latn	It kept snowing all day.	pem naQ peD.
 eng	tlh_Latn	It'll get warm soon.	tugh tujchoH.
@@ -3810,7 +3810,7 @@ eng	tlh_Latn	It's cold. It was foolish of you not to bring your coat.	bIrtaH. we
 eng	tlh_Latn	It's cold so you should wear a coat.	bIr. vaj weplIj yItuQmoH.
 eng	tlh_Latn	It's completely illogical.	meq Hutlhchu'.
 eng	tlh_Latn	It's complicated as hell.	Qatlh jay'!
-eng	tlh_Latn	It's complicated.	wa' wa' wa'.
+eng	tlh	It's complicated.	wa' wa' wa'.
 eng	tlh_Latn	It's cool this morning, isn't it?	bIr jajvam po, qar'a'?
 eng	tlh_Latn	It's dangerous!	Qob!
 eng	tlh_Latn	It's difficult to learn a foreign language.	Hol nov ghojlu'taHvIS Qatlh.
@@ -3879,7 +3879,7 @@ eng	tlh_Latn	It's stupid.	QIp.
 eng	tlh_Latn	It's Sunday today.	jaj wa' 'oH jajvam.
 eng	tlh_Latn	It's terrorism.	vIrveq 'oH.
 eng	tlh_Latn	It's the funniest dog in the world.	qo'Daq Ha'DIbaHvam tlhaQ law' Hoch Ha'DIbaH tlhaQ puS.
-eng	tlh_Latn	It stings.	'aw'.
+eng	tlh	It stings.	'aw'.
 eng	tlh_Latn	It stinks.	He'So'.
 eng	tlh_Latn	It's too late for me, but you could go.	tlhoy jIHvaD paS, 'ach bIghoSlaH.
 eng	tlh_Latn	It's too quiet.	tlhoy tam.
@@ -4267,12 +4267,12 @@ eng	tlh_Latn	Let's fuck.	Ha', manga'chuq!
 eng	tlh_Latn	Let's get back to the party.	'uQ'a' wIcheghjaj!
 eng	tlh_Latn	Let's get dancing.	mamI'choHjaj!
 eng	tlh_Latn	Let's get drunk today!	DaHjaj machechchoHjaj!
-eng	tlh_Latn	Let's get going.	Ha'!
+eng	tlh	Let's get going.	Ha'!
 eng	tlh_Latn	Let's get some coffee.	qa'vIn wItlhutlhjaj.
 eng	tlh_Latn	Let's go and get them.	Ha', DIjonjaj!
 eng	tlh_Latn	Let's go get drunk at the tavern.	Ha', tachDaq machechchoHjaj.
 eng	tlh_Latn	Let's go get drunk.	Ha', machechchoHjaj.
-eng	tlh_Latn	Let's go!	Ha'!
+eng	tlh	Let's go!	Ha'!
 eng	tlh_Latn	Let's go home.	juH wIcheghjaj!
 eng	tlh_Latn	Let's go make dinner.	Ha'! 'uQ wIvut!
 eng	tlh_Latn	Let's go out and eat dinner together from time to time.	rut nItebHa' Qe'Daq 'uQ wISopjaj.
@@ -4720,8 +4720,8 @@ eng	tlh_Latn	No one was late.	paS pagh.
 eng	tlh_Latn	No one will know.	Sov pagh.
 eng	tlh_Latn	No one will stop me.	mubot pagh.
 eng	tlh_Latn	No problem.	qay'be'.
-eng	tlh_Latn	No!	Qo'!
-eng	tlh_Latn	No.	Qo'.
+eng	tlh	No!	Qo'!
+eng	tlh	No.	Qo'.
 eng	tlh_Latn	Nor am I ashamed to confess my ignorance.	jISovbe' 'e' vIchIDDI' jItuHbe'.
 eng	tlh_Latn	Norway is my new homeland.	juH SepwIj chu' 'oH noregh'e'.
 eng	tlh_Latn	Norwegian is similar to Swedish and Danish.	Suverya' Hol, Denmargh Hol je rur noregh Hol.
@@ -5019,7 +5019,7 @@ eng	tlh_Latn	She abandoned her children.	puqpu'Daj lonpu'.
 eng	tlh_Latn	She acted like a real baby.	ghuna' Da.
 eng	tlh_Latn	She acted like she didn't know anything.	pagh Sovbogh nuv'e' Da.
 eng	tlh_Latn	She acted like she didn't know anything.	pagh Sov 'e' ghet.
-eng	tlh_Latn	She admired him.	Ho'.
+eng	tlh	She admired him.	Ho'.
 eng	tlh_Latn	She advised him to stop working so much.	tlhoy vum 'e' mevnIS 'e' qeS.
 eng	tlh_Latn	She almost fainted.	tlhoS vulchoH.
 eng	tlh_Latn	She almost said "I don't know".	tlhoS jatlh «jISovbe'».
@@ -5038,7 +5038,7 @@ eng	tlh_Latn	She blushed with shame.	tuHmo' DoqchoH qabDaj.
 eng	tlh_Latn	She bore the pain bravely.	'oy' SIQtaHvIS yoH.
 eng	tlh_Latn	She bought a new car.	puH Duj chu' je'ta'.
 eng	tlh_Latn	She bought it.	je' ghaH.
-eng	tlh_Latn	She bought it.	'oH je'.
+eng	tlh	She bought it.	'oH je'.
 eng	tlh_Latn	She bought it.	'oH je' ghaH.
 eng	tlh_Latn	She breaks something every time she cleans the room.	pa' lamHa'choHmoHtaHvIS Hochlogh vay' ghor.
 eng	tlh_Latn	She burst into laughter.	Haghqu'choH.
@@ -5174,7 +5174,7 @@ eng	tlh_Latn	She isn't lonely now.	DaH mobbe'.
 eng	tlh_Latn	She isn't married.	wej nay.
 eng	tlh_Latn	She isn't very horny.	Huyqu'be'.
 eng	tlh_Latn	She isn't young.	Qupbe'.
-eng	tlh_Latn	She is sad.	'IQ.
+eng	tlh	She is sad.	'IQ.
 eng	tlh_Latn	She is still in the kitchen.	wej vutpa' mejpu'.
 eng	tlh_Latn	She is still under age.	wej nen.
 eng	tlh_Latn	She is taller than you.	ghaH woch law' SoH woch puS.
@@ -5604,8 +5604,8 @@ eng	tlh_Latn	That girl playing the piano is my little sister.	be'nI'HomwI' ghaH 
 eng	tlh_Latn	That guy once intentionally hurt a puppy. You don't want to mess with him.	chIch qovIj ghu 'oy'moHta' loDvetlh. yInuQQo'!
 eng	tlh_Latn	That happens sometimes.	rut qaS.
 eng	tlh_Latn	That hotel was very near the lake.	ngengDaq Sumqu' mebpa'mey.
-eng	tlh_Latn	That hurts.	'oy'.
-eng	tlh_Latn	That is essential.	'ut.
+eng	tlh	That hurts.	'oy'.
+eng	tlh	That is essential.	'ut.
 eng	tlh_Latn	That is how she learns English.	DIvI' Hol ghojmeH mIwDaj 'oH.
 eng	tlh_Latn	That is indispensable.	potlhqu'.
 eng	tlh_Latn	That is mine. I don't know where his is.	DochwIj 'oH Dochvetlh'e'. DochDaj Daq vISovbe'.
@@ -5646,9 +5646,9 @@ eng	tlh_Latn	That's a tower.	chalqach 'oH.
 eng	tlh_Latn	That's a tree.	Sor 'oH.
 eng	tlh_Latn	That's complete and utter nonsense!	Dap'a'na' 'oH!
 eng	tlh_Latn	That's dead easy.	ngeDchu'.
-eng	tlh_Latn	That's disgusting.	'up 'oH.
+eng	tlh	That's disgusting.	'up 'oH.
 eng	tlh_Latn	That's enough! Open your eyes and wake up now!	yap! DaH mInDu'lIj tIpoSmoH 'ej yIvemchoH!
-eng	tlh_Latn	That's fortunate.	Do'.
+eng	tlh	That's fortunate.	Do'.
 eng	tlh_Latn	That ship has sailed.	narghpu' 'eb.
 eng	tlh_Latn	That shirt doesn't go with the pants.	yopwaHvam 'IHbe'choHmoH yIvbeHvetlh.
 eng	tlh_Latn	That's huge.	tInqu'.
@@ -6309,7 +6309,7 @@ eng	tlh_Latn	The woman who wore the white clothes was out to a party.	lopno'Daq 
 eng	tlh_Latn	The work has already begun.	vumchoHlu'ta'.
 eng	tlh_Latn	The work is done.	Qu' ta'lu'ta'.
 eng	tlh_Latn	The world has changed.	choHpu' qo'.
-eng	tlh_Latn	The world is beautiful.	'IH qo'.
+eng	tlh	The world is beautiful.	'IH qo'.
 eng	tlh_Latn	The world is full of gossipers and liars.	joSwI'pu' 'Iq nepwI'pu' 'Iq je ngaS qo'.
 eng	tlh_Latn	The world is sick.	rop qo'.
 eng	tlh_Latn	The world rests on the back of a great turtle.	la'SIv tIn DubDaq 'oHtaH qo''e'.
@@ -6483,7 +6483,7 @@ eng	tlh_Latn	They're probably together.	ghaytan tay'.
 eng	tlh_Latn	They're related to each other.	tuqnIghpu' chaH.
 eng	tlh_Latn	They're rich.	mIp.
 eng	tlh_Latn	They're rich.	mIp chaH.
-eng	tlh_Latn	They're sad.	'IQ.
+eng	tlh	They're sad.	'IQ.
 eng	tlh_Latn	They respect him.	luvuv.
 eng	tlh_Latn	They're staring at each other.	bejqu'chuqtaH.
 eng	tlh_Latn	They're stupid.	QIp.
@@ -6650,7 +6650,7 @@ eng	tlh_Latn	This is a wood table.	Sor Hap raS 'oH.
 eng	tlh_Latn	This is cold.	bIr 'oH.
 eng	tlh_Latn	This is correct.	qar.
 eng	tlh_Latn	This is definitely the best way.	mIw nIv 'oHbej.
-eng	tlh_Latn	This is disgusting.	'up.
+eng	tlh	This is disgusting.	'up.
 eng	tlh_Latn	This is for her.	ghaHvaD 'oH Dochvam'e'.
 eng	tlh_Latn	This is gold.	qol'om 'oH Dochvam'e'.
 eng	tlh_Latn	This is her house.	juH qachDaj 'oH.
@@ -8038,8 +8038,8 @@ eng	tlh_Latn	Who are you?	SoH 'Iv?
 eng	tlh_Latn	Who are you staring at?	'Iv Dabejchu'taH?
 eng	tlh_Latn	Who are you working for?	'IvvaD bIvum?
 eng	tlh_Latn	Who bought a book at the shop?	ngevwI'vamvo' paq je'ta' 'Iv?
-eng	tlh_Latn	Who bought that?	'oH je' 'Iv?
-eng	tlh_Latn	Who bought this?	'oH je' 'Iv?
+eng	tlh	Who bought that?	'oH je' 'Iv?
+eng	tlh	Who bought this?	'oH je' 'Iv?
 eng	tlh_Latn	Who broke this window?	Qorwaghvam ghorpu' 'Iv?
 eng	tlh_Latn	Who built this?	Dochvam chenmoHta' 'Iv?
 eng	tlh_Latn	Who can I sell it to?	'IvvaD 'oH vIje'laH?
@@ -8197,7 +8197,7 @@ eng	tlh_Latn	Women hate Tom.	tam lumuS be'.
 eng	tlh_Latn	Women hate Tom.	tam lumuS be'pu'.
 eng	tlh_Latn	Women like to talk.	jatlh 'e' lutIv be'pu'.
 eng	tlh_Latn	Women worked at home.	juHDaq vumpu' be'pu'.
-eng	tlh_Latn	Wonderful!	qu'!
+eng	tlh	Wonderful!	qu'!
 eng	tlh_Latn	Wood floats, but iron sinks.	'ay Sor Hap 'ach 'oq 'uSqan.
 eng	tlh_Latn	Work slowly.	QIt pevum.
 eng	tlh_Latn	Would it be OK if I took a vacation next week?	Hogh veb bIghIQ net chaw''a'?
@@ -8235,7 +8235,7 @@ eng	tlh_Latn	Yes, I am crying.	HIja', jISaQtaH.
 eng	tlh_Latn	Yes, I am very scared of it.	HISlaH. mughIjqu'.
 eng	tlh_Latn	Yes, I have a daughter.	HISlaH. puqbe' vIghaj.
 eng	tlh_Latn	Yes, I speak Spanish.	HIja', 'eSpanya' Hol vIjatlh.
-eng	tlh_Latn	Yes.	lu'.
+eng	tlh	Yes.	lu'.
 eng	tlh_Latn	Yes. No. Maybe. I don't know.	HIja'. ghobe'. chaq. jISovbe'.
 eng	tlh_Latn	Yesterday he couldn't go to school, but today he can.	wa'Hu' DuSaQ ghoSlaHbe' 'ach DaHjaj ghoSlaH.
 eng	tlh_Latn	Yesterday I read a book that was unfortunately very boring.	wa'Hu' paq vIlaD. Do'Ha' Dalqu' paqvam.

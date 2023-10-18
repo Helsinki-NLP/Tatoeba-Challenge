@@ -3,6 +3,7 @@ afr
 amh
 ang_Latn
 ara
+arz
 asm
 avk_Latn
 aze_Latn
@@ -128,6 +129,8 @@ tlh
 tlh_Latn
 tmr_Hebr
 tok
+toki
+toki_Latn
 tok_Latn
 tuk_Latn
 tur
@@ -147,5 +150,6 @@ zho
 zho_Bopo
 zho_Hans
 zho_Hant
+zsm_Latn
 zul
 zza

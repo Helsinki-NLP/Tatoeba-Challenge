@@ -1,2 +1,2 @@
-cycl_Latn	zho_Hant	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	我叫Jack。
-cycl_Latn	zho_Hant	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	我叫傑克。
+cycl_Latn	cmn_Hant	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	我叫Jack。
+cycl_Latn	cmn_Hant	(nameString (PronounFn FirstPerson-NLAttr Singular-NLAttr Ungendered-NLAttr SubjectPronoun) "Jack")	我叫傑克。

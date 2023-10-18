@@ -334,10 +334,16 @@ all: opus-langpairs3.txt
 	${MAKE} released-remove-empty
 	${MAKE} dev-tsv test-tsv test-release dev-release
 	${MAKE} ${DATADIR}/README.md
-	${MAKE} subsets
+	${MAKE} langids subsets
 	${MAKE} extra-statistics
 	${MAKE} released-data-counts
 	${MAKE} release-tag
+
+fix-release-2023:
+	${MAKE} dev-tsv test-tsv test-release dev-release
+	${MAKE} ${DATADIR}/README.md
+	${MAKE} langids subsets
+
 
 
 ## TODO: there is some kind of memory-leak somewhere that causes jobs to crahs
@@ -1144,12 +1150,8 @@ ${RELEASEDIR}/%/test.id:
 	mkdir -p ${dir $@}
 	cat ${patsubst ${RELEASEDIR}/%/test.id,${DEVTESTDIR}/%,$@}/test-*.txt |\
 	sed "s/ *\t/\t/g;s/ *$$//" | sort -u > $@.merged
-	cut -f3 $@.merged | langscript -3 -r -D \
-		-l $(firstword $(subst -, , $(patsubst ${RELEASEDIR}/%/test.id,%,$@))) \
-		${FIXLANGIDS} > $@.srcid
-	cut -f4 $@.merged | langscript -3 -r -D \
-		-l $(lastword $(subst -, , $(patsubst ${RELEASEDIR}/%/test.id,%,$@))) \
-		${FIXLANGIDS} > $@.trgid
+	cut -f1,3 $@.merged | langscript -3 -r -D -L ${FIXLANGIDS} > $@.srcid
+	cut -f2,4 $@.merged | langscript -3 -r -D -L ${FIXLANGIDS} > $@.trgid
 	paste $@.srcid $@.trgid  > $@
 #	cut -f1,2 $@.merged > $@
 	cut -f3 $@.merged > ${dir $@}test.src
@@ -1164,12 +1166,8 @@ ${RELEASEDIR}/%/dev.id:
 	-cat ${patsubst ${RELEASEDIR}/%/dev.id,${DEVTESTDIR}/%,$@}/dev-*.txt |\
 	sed "s/ *\t/\t/g;s/ *$$//" | sort -u > $@.merged
 	if [ -s $@.merged ]; then \
-	  cut -f3 $@.merged | langscript -3 -r -D \
-		-l $(firstword $(subst -, , $(patsubst ${RELEASEDIR}/%/dev.id,%,$@))) \
-		${FIXLANGIDS} > $@.srcid; \
-	  cut -f4 $@.merged | langscript -3 -r -D \
-		-l $(lastword $(subst -, , $(patsubst ${RELEASEDIR}/%/dev.id,%,$@))) \
-		${FIXLANGIDS} > $@.trgid; \
+	  cut -f1,3 $@.merged | langscript -3 -r -D -L ${FIXLANGIDS} > $@.srcid; \
+	  cut -f2,4 $@.merged | langscript -3 -r -D -L ${FIXLANGIDS} > $@.trgid; \
 	  paste $@.srcid $@.trgid  > $@; \
 	  cut -f3 $@.merged > ${dir $@}dev.src; \
 	  cut -f4 $@.merged > ${dir $@}dev.trg; \
