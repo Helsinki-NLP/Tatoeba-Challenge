@@ -127,21 +127,22 @@ GET_ISO_CODE   = ${ISO639} -m
 OPUSREAD_ARGS =
 
 
-## settings for sort (parsort is part of GNU parallel)
+## settings for sort
 
 THREADS ?= 4
-ifneq (${shell which parsort 2>/dev/null},)
-  SORT = LC_ALL=C parsort -T ${TMPDIR} -S100M
-else
-  SORT = LC_ALL=C sort -T ${TMPDIR} -S100M --parallel=${THREADS}
-endif
-
+SORT    := LC_ALL=C sort -T ${TMPDIR} -S100M --parallel=${THREADS}
 
 ## tool for shuffling data (terashuf or sort)
 
 SHUFFLE = ${shell which terashuf 2>/dev/null}
 ifeq (${SHUFFLE},)
   SHUFFLE = ${SORT} --random-sort
+endif
+
+## check whether parsort is available
+
+ifneq (${shell which parsort 2>/dev/null},)
+  SORT := LC_ALL=C parsort -T ${TMPDIR} -S100M
 endif
 
 
@@ -162,11 +163,17 @@ endif
 ## basic training data filtering pipeline
 ## TODO: get rid of recode?
 ## TODO: use GNU parallel?
+## NEW: use ftfy library for basic unicode fixing
 
-BASIC_FILTERS = | perl -CS -pe 'tr[\x{9}\x{A}\x{D}\x{20}-\x{D7FF}\x{E000}-\x{FFFD}\x{10000}-\x{10FFFF}][]cd;' \
-		| recode -f utf8..utf16 | recode -f utf16..utf8 \
+BASIC_FILTERS = | ftfy \
 		| $(TOKENIZER)/deescape-special-chars.perl \
 		| sed 's/(Translated with Google Translate)//g'
+
+
+#BASIC_FILTERS = | perl -CS -pe 'tr[\x{9}\x{A}\x{D}\x{20}-\x{D7FF}\x{E000}-\x{FFFD}\x{10000}-\x{10FFFF}][]cd;' \
+#		| recode -f utf8..utf16 | recode -f utf16..utf8 \
+#		| $(TOKENIZER)/deescape-special-chars.perl \
+#		| sed 's/(Translated with Google Translate)//g'
 
 
 ## DONE: remove lines 2 and 3 (they do too much, also remove emojis)
@@ -338,11 +345,6 @@ all: opus-langpairs3.txt
 	${MAKE} extra-statistics
 	${MAKE} released-data-counts
 	${MAKE} release-tag
-
-fix-release-2023:
-	${MAKE} dev-tsv test-tsv test-release dev-release
-	${MAKE} ${DATADIR}/README.md
-	${MAKE} langids subsets
 
 
 

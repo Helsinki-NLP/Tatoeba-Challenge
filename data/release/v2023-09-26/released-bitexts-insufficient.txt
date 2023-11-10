@@ -37,6 +37,7 @@ afr-nor	Afrikaans	Norwegian	14	114	105				2874364	45687856	43492023
 afr-pol	Afrikaans	Polish	22	125	111				1615233	27245093	21570093	
 afr-por	Afrikaans	Portuguese	94	494	458				1795565	29995875	29395984	
 afr-ron	Afrikaans	Romanian	2	7	8				1482972	25593970	25787300	
+afr-swa	Afrikaans	Swahili (macrolanguage)	2	31	20				3088033	42678272	39661844	
 afr-swe	Afrikaans	Swedish	5	30	28				3114165	47990831	44501557	
 afr-tsn	Afrikaans	Tswana	13	90	92				1143756	16183495	21406115	
 afr-tur	Afrikaans	Turkish	59	358	242				3727739	42566845	32789513	
@@ -78,7 +79,7 @@ ang-deu	Old English (ca. 450-1100)	German	74	506	531				739	1567	1803
 ang-eng	Old English (ca. 450-1100)	English	199	1633	1731	4	26	24	1418	2776	3272	
 ang-enm	Old English (ca. 450-1100)	Middle English (1100-1500)	28	89	100	1	3	3			
 ang-epo	Old English (ca. 450-1100)	Esperanto	59	335	333	1	3	3	632	1547	1725	
-ang-fao	Old English (ca. 450-1100)	Faroese	1	4	3						
+ang-fao	Old English (ca. 450-1100)	Faroese	1	4	3				1	0	0	
 ang-fin	Old English (ca. 450-1100)	Finnish	60	165	157	8	18	14	724	1543	1547	
 ang-fra	Old English (ca. 450-1100)	French	42	288	316				712	1491	2017	
 ang-gos	Old English (ca. 450-1100)	Gronings	1	4	3						
@@ -92,7 +93,7 @@ ang-ita	Old English (ca. 450-1100)	Italian	10	57	54				680	1451	1745
 ang-jbo	Old English (ca. 450-1100)	Lojban	6	18	23						
 ang-kur	Old English (ca. 450-1100)	Kurdish	4	15	14				537	978	1105	
 ang-lad	Old English (ca. 450-1100)	Ladino	19	65	78						
-ang-lat	Old English (ca. 450-1100)	Latin	27	106	83	1	3	2			
+ang-lat	Old English (ca. 450-1100)	Latin	27	106	83	1	3	2	1	0	0	
 ang-lfn	Old English (ca. 450-1100)	Lingua Franca Nova	6	22	28						
 ang-lij	Old English (ca. 450-1100)	Ligurian	1	2	4						
 ang-ltz	Old English (ca. 450-1100)	Luxembourgish	1	3	3						
@@ -427,9 +428,9 @@ ber-ita	Berber languages	Italian	181	789	910				5	11	25
 ber-jpn	Berber languages	Japanese	29	131	31				5	10	13	
 ber-kab	Berber languages	Kabyle	139	784	770						
 ber-kat	Berber languages	Georgian	1	2	4				1	3	6	
-ber-kur	Berber languages	Kurdish	3	8	13						
+ber-kur	Berber languages	Kurdish	3	8	13				1	0	0	
 ber-lad	Berber languages	Ladino	2	10	11						
-ber-lat	Berber languages	Latin	4	16	15						
+ber-lat	Berber languages	Latin	4	16	15				1	0	0	
 ber-lfn	Berber languages	Lingua Franca Nova	4	12	13						
 ber-lit	Berber languages	Lithuanian	1	5	3				6	12	35	
 ber-mkd	Berber languages	Macedonian	1	5	5				4	9	20	
@@ -647,7 +648,7 @@ ces-fas	Czech	Persian	2	4	5				9415035	80281380	102082697
 ces-fin	Czech	Finnish	88	298	293	1	3	4	50360339	600430383	487171745	
 ces-fry	Czech	Western Frisian	5	37	52				90423	356103	397944	
 ces-gos	Czech	Gronings	2	11	14						
-ces-grc	Czech	Ancient Greek (to 1453)	22	67	65						
+ces-grc	Czech	Ancient Greek (to 1453)	22	67	65				1	0	0	
 ces-hbs	Czech	Serbo-Croatian	29	108	119				65112873	560891097	569928466	
 ces-heb	Czech	Hebrew	37	162	178	3	11	8	26238574	194010865	183266018	
 ces-hsb	Czech	Upper Sorbian	170	573	590				38013	260132	261570	
@@ -869,7 +870,7 @@ dan-tzl	Danish	Talossan	13	55	57
 dan-ukr	Danish	Ukrainian	30	143	122	1	4	3	6801180	95532880	84064796	
 dan-urd	Danish	Urdu	3	10	12				628184	11106365	14144388	
 dan-vep	Danish	Veps	1	25	21						
-dan-vol	Danish	Volapük	13	45	44	2	11	10			
+dan-vol	Danish	Volapük	13	45	44	2	11	10	1	0	0	
 dan-xmf	Danish	Mingrelian	1	5	3						
 deu-div	German	Dhivehi	1	6	5				24827	603408	548485	
 deu-dng	German	Dungan	2	9	6						
@@ -1087,6 +1088,7 @@ ell-mkd	Modern Greek (1453-)	Macedonian	1	3	6				3367096	31359167	30562780
 ell-mlt	Modern Greek (1453-)	Maltese	60	148	127				4777813	102718178	84160531	
 ell-msa	Modern Greek (1453-)	Malay (macrolanguage)	9	18	23				19247897	184503055	168849488	
 ell-nds	Modern Greek (1453-)	Low German	28	88	119				90360	560153	533181	
+ell-nor	Modern Greek (1453-)	Norwegian	14	55	55				21533118	277175339	260836253	
 ell-pap	Modern Greek (1453-)	Papiamento	5	7	17				282576	4798290	5571838	
 ell-pol	Modern Greek (1453-)	Polish	121	509	470				51613014	614478092	526733844	
 ell-ron	Modern Greek (1453-)	Romanian	2	11	11				46264336	518046247	529145266	
@@ -2054,6 +2056,7 @@ hbs-ron	Serbo-Croatian	Romanian	1	7	7				68549042	586505598	678253781
 hbs-rue	Serbo-Croatian	Rusyn	1	42	36						
 hbs-slv	Serbo-Croatian	Slovenian	39	130	111				45209193	446989984	435127760	
 hbs-sme	Serbo-Croatian	Northern Sami	4	19	16				24240	106302	89984	
+hbs-swe	Serbo-Croatian	Swedish	2	5	7				37131475	367479337	379539645	
 hbs-tat	Serbo-Croatian	Tatar	2	25	25				271021	3748551	3073533	
 hbs-tok	Serbo-Croatian	Toki Pona	3	9	24						
 hbs-urd	Serbo-Croatian	Urdu	1	2	3				1334624	19111410	25967830	
@@ -2086,6 +2089,7 @@ heb-ron	Hebrew	Romanian	8	35	56				26577504	185777184	228634691
 heb-sjn	Hebrew	Sindarin	10	27	29	3	8	8			
 heb-slv	Hebrew	Slovenian	4	15	16				15004636	109948372	111620424	
 heb-stq	Hebrew	Saterfriesisch	2	4	6						
+heb-swe	Hebrew	Swedish	6	22	28				20435696	148417014	166917221	
 heb-swg	Hebrew	Swabian	1	2	3						
 heb-syc	Hebrew	Classical Syriac	1	5	5						
 heb-tgl	Hebrew	Tagalog	15	64	76				1410815	16832485	21685474	
@@ -2362,6 +2366,7 @@ ita-slv	Italian	Slovenian	79	377	332				31782491	477512726	408315845
 ita-sqi	Italian	Albanian	56	304	316	18	117	115	8619608	110171133	116437811	
 ita-swa	Italian	Swahili (macrolanguage)	22	99	66	1	3	2	2767434	41546024	38207835	
 ita-tat	Italian	Tatar	52	347	366				256744	4029605	2977928	
+ita-tgl	Italian	Tagalog	93	477	498				2182798	31541584	34950122	
 ita-tha	Italian	Thai	15	68	22				6487036	91646302	29356807	
 ita-tlh	Italian	Klingon	140	620	416	5	20	15	127	2395	1341	
 ita-tmr	Italian	Jewish Babylonian Aramaic (ca. 200-1200 CE)	5	18	13						
