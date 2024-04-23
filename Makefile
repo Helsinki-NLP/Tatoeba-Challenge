@@ -213,6 +213,8 @@ TESTRELEASEDIR = ${RELEASEHOME}/test/${VERSION}
 DEVRELEASEDIR  = ${RELEASEHOME}/dev/${VERSION}
 INFODIR        = ${RELEASEDIR}
 
+BICLEANERDIR   = ${RELEASEHOME}/bicleaner/${VERSION}
+
 
 PREVIOUS_RELEASEDIR = ${RELEASEHOME}/${PREVIOUS_VERSION}
 
@@ -401,6 +403,22 @@ release-push:
 
 .PHONY: released-data-counts
 released-data-counts: 	${DATA_COUNT_FILES}
+
+.PHONY: release-bicleaner-scores
+release-bicleaner-scores: $(patsubst %.gz,%.done,$(wildcard ${BICLEANERDIR}/*.gz))
+	echo ${BICLEANERDIR}
+
+BicleanerScores.md:
+	@echo "# Bicleaner AI scores" > $@
+	@echo "" >> $@
+	@echo "Here are [bicleaner AI](https://github.com/bitextor/bicleaner-ai) scores for selected bitexts from release ${VERSION}." >> $@
+	@echo "The scores correspond to lines in the training data. The scores apply models from Bicleaner AI v2.3.2." >> $@
+	@echo "" >> $@
+	@for f in $(sort $(notdir $(wildcard ${BICLEANERDIR}/*.gz))); do \
+	  echo "* [$$f](${TATOEBA_DATAURL}-${VERSION}/$$f)" >> $@; \
+	done
+
+
 
 
 ## generate readme file
@@ -2057,6 +2075,11 @@ APUT_FLAGS  = -p ${CSC_PROJECT} --override --nc --skip-filelist
 ${RELEASEHOME}/test.done ${RELEASEHOME}/dev.done: %.done: %
 	a-put ${APUT_FLAGS} -b ${DEVTEST_CONTAINER} $<
 	touch $@
+
+${BICLEANERDIR}/%.done: ${BICLEANERDIR}/%.gz
+	a-put ${APUT_FLAGS} -b ${RELEASE_CONTAINER} $<
+	touch $@
+
 
 ## released train/dev/test data
 ${RELEASEDIR}/%.done: ${RELEASEDIR}/% 

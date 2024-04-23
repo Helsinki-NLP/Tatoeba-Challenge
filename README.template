@@ -30,6 +30,7 @@ This is a challenge set for machine translation that contains %%TRAIN_SIZE%% tra
 * [Incrementally updated development and test data](https://object.pouta.csc.fi/Tatoeba-Challenge-devtest/devtest.tar), ([here for individual language pairs](data/devtest))
 * [Automatically translated monolingual data](data/Backtranslations.md)
 * [Pre-trained sentence piece models](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/tatoeba/SentencePieceModels.md)
+* **NEW** [Bicleaner AI scores](BicleanerScores.md)
 
 The latest release also includes some parallel data sets in the same language in order to test paraphrase models. Note, however, that the support for paraphrasing is really limited in our data sets.
 
