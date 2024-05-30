@@ -199,6 +199,7 @@ eng	uzb_Latn	Greetings, old friend!	Salam, eski do'stim!
 eng	uzb_Latn	He avoided danger.	U xavfdan qutildi.
 eng	uzb_Latn	He began singing.	U qo'shiq aytishga boshladi.
 eng	uzb_Latn	He had a firm belief in his God.	U o'z Xudosiga qattiq iymoni bor
+eng	uzb_Latn	He is about thirty years old.	U taxminan o'ttiz yoshda.
 eng	uzb_Latn	He is accountable to me.	U mening oldimda hisobot beradi.
 eng	uzb_Latn	He is accustomed to getting up early.	U erta turishga odatlangan.
 eng	uzb_Latn	He is a master of ability.	U mohir usta.
@@ -232,6 +233,7 @@ eng	uzb_Latn	I bit my tongue.	Tilimni tishladim.
 eng	uzb_Latn	I can only speak French.	Men faqat frantsuzcha gapiraman.
 eng	uzb_Latn	I changed the baby's nappy.	Chaqaloqning tagligini o'zgartirdim.
 eng	uzb_Latn	I come for you!	Sen uchun kelaman!
+eng	uzb_Latn	I couldn't get into the store because all the doors were locked.	Barcha eshiklar qulflanganidan do‘konga kirolmadim.
 eng	uzb_Latn	I decided to be a doctor.	Shifokor bo'lishga qaror qildim.
 eng	uzb_Latn	I did not read.	O'qimadim.
 eng	uzb_Latn	I do not accept your excuse.	Kechirimingizni qabul qilmayman.
@@ -246,6 +248,7 @@ eng	uzb_Latn	I don't want to learn your language.	Sizning tilingizni o'rganmoqch
 eng	uzb_Latn	I dreamt a strange dream.	G'ayritabiiy tush ko'rdim.
 eng	uzb_Latn	I drink water.	Suv ichaman.
 eng	uzb_Latn	I fell ill last year.	Men bultur kasal bo'ldim.
+eng	uzb_Latn	If it rains, the picnic will be canceled.	Agar yomg‘ir yog‘sa, piknik bekor qilinadi.
 eng	uzb_Latn	I hate maths.	Matematikani yomon ko'raman.
 eng	uzb_Latn	I have a friend.	Mening bir do'stim bor.
 eng	uzb_Latn	I have money.	Menda pul bor.
@@ -276,6 +279,7 @@ eng	uzb_Latn	I'm ready.	Tayyorman.
 eng	uzb_Latn	I need a spoon, a fork, and a knife. Thank you.	Menga qoshiq, vilka va pichoq kerak. Rahmat.
 eng	uzb_Latn	I only have two hands.	Menda faqat ikki qo'l bor.
 eng	uzb_Latn	I read a letter.	Bir xatni o'qidim.
+eng	uzb_Latn	I refuse to use public restrooms, as they are very unhygienic.	Juda antigigiyenik bo‘lganidan jamoat hojatxonalaridan foydalanishni rad etaman.
 eng	uzb_Latn	I saw a rabbit in the forest.	O'rmonda bir quyon ko'rdim.
 eng	uzb_Latn	I shall not be able to come tomorrow.	Men ertaga kelmayman.
 eng	uzb_Latn	Isn't it enough for you?	U siz uchun yetarli emasmi?
@@ -296,6 +300,7 @@ eng	uzb_Latn	I've seen her before.	Oldin uni ko'rgan edim.
 eng	uzb_Latn	I want to be a teacher.	O'qituvchi bo'lmoq istayman.
 eng	uzb_Latn	I want to die with Getter Jaani.	Getter Jaani ila o'lmaq istayiram.
 eng	uzb_Latn	I want to learn Kazakh.	Qozoq tilini o'rganmoqchiman.
+eng	uzb_Latn	I want to rent a bicycle.	Velosiped ijaraga olmoqchiman.
 eng	uzb_Latn	I want to see your picture.	Rasmingizni ko'rmoqchiman.
 eng	uzb_Latn	I want to see your picture.	Rasmingni ko'rmoqchiman.
 eng	uzb_Latn	I want to write a book.	Bir kitob yozmoqchiman.
@@ -341,12 +346,14 @@ eng	uzb_Latn	Open your books.	Kitoblaringizni oching.
 eng	uzb_Latn	Please come!	Iltimos kel.
 eng	uzb_Latn	She can speak.	U gapira oladi.
 eng	uzb_Latn	She closes the door.	U eshikni yopadi.
+eng	uzb_Latn	She decided to move to Belgium.	U Belgiyaga ko‘chib o‘tishga qaror qildi.
 eng	uzb_Latn	She has red flowers.	Uning qizil gullari bor.
 eng	uzb_Latn	She is here.	U bu yerda.
 eng	uzb_Latn	She kissed him.	U uni o'pdi.
 eng	uzb_Latn	She kissed me, not him.	U meni o'pdi, uni emas.
 eng	uzb_Latn	She knelt beside him.	U uning yonida tiz cho'kdi.
 eng	uzb_Latn	Since when did you become so high and mighty?	Qachondar beri bunday katta va kuchli bo'lib ketding?
+eng	uzb_Latn	Social media waste your time.	Ijtimoiy tarmoqlar vaqtingizni yo‘qotadi.
 eng	uzb_Latn	Spring came.	Bahor keldi.
 eng	uzb_Latn	Stay home.	Uyda qoling.
 eng	uzb_Latn	Thanks!	Rahmat!
@@ -364,9 +371,11 @@ eng	uzb_Latn	The bird is in the sky.	Qush osmonda.
 eng	uzb_Latn	The coffee is cold.	Kofe sovuq.
 eng	uzb_Latn	The customer did not come.	Xaridor kelmadi.
 eng	uzb_Latn	The day is beautiful.	Ro'z go'zal.
+eng	uzb_Latn	The king lives in the castle.	Qirol qal’ada yashaydi.
 eng	uzb_Latn	The mountains are beautiful.	Tog'lar go'zal.
 eng	uzb_Latn	The parrot is dead.	To'ti o'lgan.
 eng	uzb_Latn	The post office is the brown building.	Pochta qo'ng'ir bino.
+eng	uzb_Latn	The president likes to travel.	Prezident sayohat qilishni yaxshi ko‘radi.
 eng	uzb_Latn	The problem isn't ours.	Muammo bizning emas.
 eng	uzb_Latn	There are no roses without thorns.	Go‘l tikansiz bo‘lmaydi.
 eng	uzb_Latn	There are some magazines in my room.	Mening xonamda bir qancha jurnallar bor.
@@ -377,19 +386,26 @@ eng	uzb_Latn	The tea is hot.	Choy issiq.
 eng	uzb_Latn	The temperature was above zero last week.	O'tgan hafta harorat noldan yuqori edi.
 eng	uzb_Latn	The water was hot.	Suv issiq edi.
 eng	uzb_Latn	The women's basketball team has a male coach.	Ayollarning basketbol komandasining erkak murabbiyi bor.
+eng	uzb_Latn	They are at the museum.	Ular muzeyda.
+eng	uzb_Latn	They didn't have a cat.	Ularning mushuki yo‘q edi.
 eng	uzb_Latn	They haven't found Tom.	Ular Tomni topmadilar.
 eng	uzb_Latn	They must abandon the idea.	Ular bu g'oyadan bosh tortishlari kerak.
 eng	uzb_Latn	This game is not bad.	Bu o'yin yomon emas.
 eng	uzb_Latn	This is beautiful.	Bu go'zal.
 eng	uzb_Latn	This is my book.	Bu mening kitobim.
+eng	uzb_Latn	This is my passport.	Bu mening pasportim.
 eng	uzb_Latn	This is not a cat. This is a dog.	Bu mushuk emas. Bu it.
 eng	uzb_Latn	This is not a dog.	Bu it emas.
 eng	uzb_Latn	This is not his handwriting.	Bu uning yozuvi emas.
 eng	uzb_Latn	This is your only chance.	Bu sening yagona imkoniyating.
 eng	uzb_Latn	This newspaper costs a dollar.	Bu gazetaning narxi bir dollar turadi.
 eng	uzb_Latn	This text requires no abridgement.	Bu maqolani qisqartirish shart emas.
+eng	uzb_Latn	Today, I want to cook pilaf.	Bugun, men osh pishirishni hohlayman.
 eng	uzb_Latn	Tom explained it to me.	Tom menga uni aytdi.
+eng	uzb_Latn	Tom isn't Mary's father. He's her uncle.	Tom Mariyaning otasi emas. U, uning amakisi.
+eng	uzb_Latn	Tom tried to catch the children's attention.	Tom bolalarning e’tiborini jalb qilishga harakat qildi.
 eng	uzb_Latn	Turtles don't have teeth.	Toshbaqalarning tishlari yo'q.
+eng	uzb_Latn	We all thought that Tom might kill himself.	Biz hammamiz Tom o'zini o'ldirishi mumkin deb o'ylagandik.
 eng	uzb_Latn	We are coming.	Biz kelyapmiz.
 eng	uzb_Latn	We are eating.	Biz yeyapmiz.
 eng	uzb_Latn	We eat.	Biz yeyapmiz.
@@ -409,6 +425,7 @@ eng	uzb_Latn	What is your surname?	Familiyangiz nima?
 eng	uzb_Latn	What's the matter?	Nima bo'ldi?
 eng	uzb_Latn	What's this?	Bu narsa nima?
 eng	uzb_Latn	When do you study?	Qachon o'qiysan?
+eng	uzb_Latn	When is Tom going shopping?	Tom qachon bozorlashadi?
 eng	uzb_Latn	Where are my clocks?	Mening soatlarim qani?
 eng	uzb_Latn	Where are my clocks?	Soatlarim qani?
 eng	uzb_Latn	Where are my watches?	Mening soatlarim qani?
@@ -420,6 +437,8 @@ eng	uzb_Latn	Where does your mother live?	Onang qayerda yashaydi?
 eng	uzb_Latn	Where is Laurie?	Laurie qayerda?
 eng	uzb_Latn	Where is the duty-free shop?	Boj olinmaydigan savdo do'koni qayerda?
 eng	uzb_Latn	Where is the hotel?	Mehmonxona qayerda?
+eng	uzb_Latn	Where's our daughter?	Qizimiz qayerda?
+eng	uzb_Latn	Where's our son?	O‘g‘limiz qayerda?
 eng	uzb_Latn	Who do you want to speak to?	Kim bilan gaplashishni xohlaysan?
 eng	uzb_Latn	Who do you want to speak to?	Kim bilan gaplashishni xohlaysiz?
 eng	uzb_Latn	Who do you want to speak to?	Kim bilan gaplashmoqchisan?
@@ -438,6 +457,8 @@ eng	uzb_Latn	You are eating.	Siz yeyapsiz.
 eng	uzb_Latn	You are my mother.	Sen mening volidamsin.
 eng	uzb_Latn	You are ugly.	Hunuksan.
 eng	uzb_Latn	You are ugly.	Hunuksiz.
+eng	uzb_Latn	You can't eat money.	Pul yeyilmas.
+eng	uzb_Latn	You can't eat money.	Pul yeyolmaysan.
 eng	uzb_Latn	You could kill someone.	Siz biron kishini o'ldirib qo'yishingiz mumkin.
 eng	uzb_Latn	You eat.	Sen yeyapsan.
 eng	uzb_Latn	You eat.	Siz yeyapsiz.
@@ -456,3 +477,4 @@ eng	uzb_Latn	You will listen.	Tinglaysan.
 eng	uzb_Latn	You will listen.	Tinglaysiz.
 eng	uzb_Latn	You will see.	Ko'rasan.
 eng	uzb_Latn	You will see.	Ko'rasiz.
+eng	uzb_Latn	Ziri gave a talk about the Berber language.	Ziri berber tili haqida nutq so‘zladi.

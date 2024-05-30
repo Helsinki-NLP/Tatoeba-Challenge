@@ -5,6 +5,7 @@ ina_Latn	nld	A iste libro manca duo paginas.	Er ontbreken twee bladzijdes uit di
 ina_Latn	nld	Alcun personas ha pavor de phantomas.	Sommige mensen zijn bang voor spoken.
 ina_Latn	nld	Alcun regiones in Canada es quasi deserte.	Enkele gebieden in Canada zijn bijna onbewoond.
 ina_Latn	nld	Al fin, tote le familia se reuniva.	Uiteindelijk is het hele gezin samengekomen.
+ina_Latn	nld	Alienata!	Gekkin!
 ina_Latn	nld	Ama vos le oranges?	Houdt u van sinaasappels?
 ina_Latn	nld	A mesura que le tempore passa, le dolor dispare poco a poco.	Naarmate de tijd verstrijkt, verdwijnt de pijn beetje bij beetje.
 ina_Latn	nld	Anglaterra se ha pronunciate pro le adoption del systema metric.	Engeland heeft zich uitgesproken voor de invoering van het metrieke stelsel.
@@ -16,6 +17,7 @@ ina_Latn	nld	Apr. es un abbreviation de april.	Apr. is een afkorting voor april.
 ina_Latn	nld	Aqua pur non ha gusto.	Zuiver water heeft geen smaak.
 ina_Latn	nld	A qui lo dava tu?	Aan wie heb je het gegeven?
 ina_Latn	nld	A qui parlava tu?	Tegen wie had je het?
+ina_Latn	nld	Arbores son organismos vivente.	Bomen zijn levende organismen.
 ina_Latn	nld	A revider.	Tot nog eens.
 ina_Latn	nld	Ascolta! Non sia si insolente!	Luister! Doe niet zo brutaal!
 ina_Latn	nld	Assi es le vita.	Zo is het leven nu eenmaal.
@@ -58,6 +60,8 @@ ina_Latn	nld	Divide iste pomos inter tres personas.	Verdeel die appels over drie
 ina_Latn	nld	Divina lo que me ha passate.	Raad eens wat ik meegemaakt heb.
 ina_Latn	nld	Divina qui me ha scribite.	Raad eens wie me heeft geschreven.
 ina_Latn	nld	Dormir es le melior meditation.	Slaap is de beste meditatie.
+ina_Latn	nld	Drogas son bon.	Drugs zijn goed.
+ina_Latn	nld	Drogas son mal.	Drugs zijn slecht.
 ina_Latn	nld	Dunque io pote dormir cinque minutas de plus.	Dus kan ik nog vijf minuten langer slapen.
 ina_Latn	nld	Duo plus duo es quatro.	Twee plus twee is vier.
 ina_Latn	nld	Duo plus duo face quatro.	Twee plus twee is vier.
@@ -113,8 +117,10 @@ ina_Latn	nld	Heri esseva jovedi.	Gisteren was het donderdag.
 ina_Latn	nld	Heri io comprava un libro.	Gisteren kocht ik een boek.
 ina_Latn	nld	Hic le tempore es semper imprevisibile.	Het weer is hier altijd onvoorspelbaar.
 ina_Latn	nld	Hic nos discute aggressivemente.	We discussieren hier op het scherp van de snede
+ina_Latn	nld	Hippopotamos son multo pesante.	Nijlpaarden zijn erg zwaar.
 ina_Latn	nld	Hodie existe diverse medios de trovar un amico per correspondentia.	Er bestaan vandaag verschillende middelen om een pennevriend te vinden.
 ina_Latn	nld	Hodie il face frigido.	Vandaag is het koud.
+ina_Latn	nld	Hodie nos mangia lactuca brasate con salmon.	Vandaag eten we stoofsla met zalm.
 ina_Latn	nld	Hokkaido es situate in le nord de Japon.	Hokkaido ligt in het noorden van Japan.
 ina_Latn	nld	Ideas verde incolor dormi furiosemente.	Kleurloze groene ideeën slapen woedend.
 ina_Latn	nld	Ila ha allactate su infante plus de sex menses.	Zij heeft haar kind meer dan een half jaar de borst gegeven.
@@ -134,6 +140,7 @@ ina_Latn	nld	Il face un frigido atroce.	Het is bitter koud.
 ina_Latn	nld	Il ha alsi un altere ration.	Er is ook een andere reden.
 ina_Latn	nld	Il habeva multe vento.	Er was veel wind.
 ina_Latn	nld	Il habeva multe vento.	Het was heel winderig.
+ina_Latn	nld	Il ha multe linguas in le mundo.	Er zijn veel talen in de wereld.
 ina_Latn	nld	Il ha nemo de nos qui non respecta su honestate.	Er is niemand van ons die zijn eerlijkheid niet respecteert.
 ina_Latn	nld	Il ha nihil de mal con ille.	Er is niets mis met hem.
 ina_Latn	nld	Il ha pueras con penis, pueros con vulva e transphobos sin dentes.	Er zijn meisjes met penissen, jongens met vulva's en transfoben zonder tanden.
@@ -265,6 +272,7 @@ ina_Latn	nld	Ille vole ir a America.	Hij wil naar Amerika.
 ina_Latn	nld	Illo ha quatro patas, es de ligno e sta in le cocina.	Het heeft vier poten, is van hout en staat in de keuken.
 ina_Latn	nld	Illo ha unicamente un valor practic.	Het heeft louter praktische waarde.
 ina_Latn	nld	Illo non es un virus.	Het is geen virus.
+ina_Latn	nld	Illos es cave.	Ze zijn hol.
 ina_Latn	nld	Il me pare que io ha jam essite hic.	Ik heb het idee dat ik hier al eens geweest ben.
 ina_Latn	nld	Il non es assi.	Zo is het niet.
 ina_Latn	nld	Il non ha focar como le proprie.	Oost, west, thuis best.
@@ -325,10 +333,13 @@ ina_Latn	nld	Io es in cerca de mi fratre.	Ik ben mijn broer aan het zoeken.
 ina_Latn	nld	Io es in cerca de mi fratre.	Ik ben op zoek naar mijn broer.
 ina_Latn	nld	Io es in recerca de mi fratre.	Ik ben mijn broer aan het zoeken.
 ina_Latn	nld	Io es in recerca de mi fratre.	Ik ben op zoek naar mijn broer.
+ina_Latn	nld	Io es io.	Ik ben ik.
 ina_Latn	nld	Io es jornalista polonese.	Ik ben een Poolse journalist.
 ina_Latn	nld	Io es le plus vetule del tres.	Ik ben de oudste van de drie.
+ina_Latn	nld	Io es philippin.	Ik ben Filipino.
 ina_Latn	nld	Io es Ricardo.	Ik ben Ricardo.
 ina_Latn	nld	Io es sempre fer de mi familia.	Ik ben altijd trots op mijn familie.
+ina_Latn	nld	Io esseva assassinate.	Ik was vermoord.
 ina_Latn	nld	Io esseva le homine le plus felice del mundo.	Ik was de gelukkigste mens van de wereld.
 ina_Latn	nld	Io esseva malade e debeva restar in casa.	Ik was ziek, en moest in huis blijven.
 ina_Latn	nld	Io esseva simplemente polite.	Ik was gewoon beleefd.
@@ -392,6 +403,7 @@ ina_Latn	nld	Io non ha hancas large.	Ik heb geen brede heupen.
 ina_Latn	nld	Io non ha infantes.	Ik heb geen kinderen.
 ina_Latn	nld	Io non la cognosce multo ben.	Ik ken haar niet zo goed.
 ina_Latn	nld	Io non pote excluder isto.	Dat kan ik niet uitsluiten.
+ina_Latn	nld	Io non pote mangiar caseo.	Ik kan geen kaas eten.
 ina_Latn	nld	Io non pote reguardar iste photo sin devenir tristissime.	Ik kan deze foto niet bekijken zonder heel erg droef te worden.
 ina_Latn	nld	Io non pote supportar infantes ruitose.	Ik kan luidruchtige kinderen niet verdragen.
 ina_Latn	nld	Io non poteva notar le numero del auto.	Ik heb de nummerplaat van de auto niet kunnen noteren.
@@ -414,6 +426,7 @@ ina_Latn	nld	Io prefere seder legente in le bibliotheca a ir a casa.	Ik zit liev
 ina_Latn	nld	Io prende duo dies de congedo.	Ik neem twee dagen verlof.
 ina_Latn	nld	Io presentava mi billet al porta.	Ik liet mijn kaartje bij de deur zien.
 ina_Latn	nld	Io require urgentemente tu adjuta.	Ik heb jouw hulp hard nodig.
+ina_Latn	nld	Io sape tu contrasigno.	Ik weet je wachtwoord.
 ina_Latn	nld	Io sojorna presso mi oncle in Tokio.	Ik verblijf bij mijn oom in Tokio.
 ina_Latn	nld	Io sta ben, gratias.	Met mij gaat het goed, dank u.
 ina_Latn	nld	Io sta ben.	Ik ben in orde.
@@ -613,6 +626,7 @@ ina_Latn	nld	Le miseria abassa le homine.	De ellende verlaagt de mens.
 ina_Latn	nld	Le moneta non cresce in le arbores, sape tu.	Het geld groeit me niet op de rug, weet je.
 ina_Latn	nld	Le moneta se deprecia.	Het geld wordt minder waard.
 ina_Latn	nld	Le mores se deprava.	De zeden raken in verval.
+ina_Latn	nld	Le mundo es un nation.	De wereld is een natie.
 ina_Latn	nld	Le nave displacia 1000 tonnas.	Het schip heeft een waterverplaatsing van 1000 ton.
 ina_Latn	nld	Le nave esseva plen de algas e conchas adherite.	Het schip zat vol aangroei.
 ina_Latn	nld	Le nave va al nord.	Het schip vaart naar het noorden.
@@ -666,6 +680,7 @@ ina_Latn	nld	Le serpente se occulta inter le flores.	Er schuilt een addertje ond
 ina_Latn	nld	Le serpentes muta de pelle cata anno.	Slangen werpen jaarlijks hun huid af.
 ina_Latn	nld	Le silentio de illa le confundeva mesmo plus.	Haar zwijgen verwarde hem zelfs nog meer.
 ina_Latn	nld	Le simplicitate es un virtute.	Eenvoud is een deugd.
+ina_Latn	nld	Le soldatos se poneva le uniformes de combatto.	De soldaten deden hun ge­vechts­te­nue om.
 ina_Latn	nld	Le sol maniera sur terra de multiplicar le felicitate es divider lo.	De enige manier om op aarde het geluk te vermenigvuldigen is het te verdelen.
 ina_Latn	nld	Le spectaculo ha durate duo horas.	De voorstelling heeft twee uur geduurd.
 ina_Latn	nld	Le spongia absorbe le aqua.	De spons zuigt het water op.
@@ -707,6 +722,7 @@ ina_Latn	nld	Ma que es isto?	Wat krijgen we nou?
 ina_Latn	nld	Ma que es isto?	Wat moet dat voorstellen?
 ina_Latn	nld	Ma que es isto?	Wat moet dit voorstellen?
 ina_Latn	nld	Ma que es isto?	Wat zullen we nou krijgen?
+ina_Latn	nld	Maria es un femina intelligente.	Marije is een intelligente vrouw.
 ina_Latn	nld	Me dole le pectore.	Ik heb pijn in de borst.
 ina_Latn	nld	Me dole le pectore.	Mijn borst doet pijn.
 ina_Latn	nld	Me place leger ante de ir a lecto.	Ik lees graag alvorens ik naar bed ga.
@@ -765,6 +781,7 @@ ina_Latn	nld	Non importa lo que tu dice, tu la facera plorar.	Wat ge ook zegt, g
 ina_Latn	nld	Non mitte sucro in le caffe.	Doe geen suiker in de koffie.
 ina_Latn	nld	Non solmente tu ma etiam io esseva culpabile.	Niet alleen jij maar ook ik had schuld.
 ina_Latn	nld	Non tote iste ovos es fresc.	Niet al deze eieren zijn vers.
+ina_Latn	nld	Non tote le judeos son religiose.	Niet alle joden zijn religieus.
 ina_Latn	nld	Non toto pote esser explicate.	Niet alles kan worden verklaard.
 ina_Latn	nld	Non trova tu estranie que ille non es presente?	Vind je het niet vreemd dat hij er niet is?
 ina_Latn	nld	Non usar le ascensor in caso de incendio.	Gebruik niet de lift in geval van brand.
@@ -784,6 +801,7 @@ ina_Latn	nld	Nos non deberea haber nos hastate.	We hadden ons niet moeten haaste
 ina_Latn	nld	Nos non ha un televisor.	Wij hebben geen televisie.
 ina_Latn	nld	Nos non pote distinguer vos de vostre soror junior.	We kunnen u niet onderscheiden van uw jongere zus.
 ina_Latn	nld	Nos non pote remover vostre informationes de nostre banca de datos perque vos ha ancora un debita a nostre association.	Wij kunnen uw gegevens niet uit onze databank verwijderen omdat u nog een schuld aan onze vereniging heeft.
+ina_Latn	nld	Nos non vole un guerra.	We willen geen oorlog.
 ina_Latn	nld	Nos plantava un abiete in le parco.	Wij plantten een spar in het park.
 ina_Latn	nld	Nos plantava un picea in le parco.	Wij plantten een spar in het park.
 ina_Latn	nld	Nos pote registrar le passato e le presente.	We kunnen het verleden en het heden registreren.
@@ -797,6 +815,7 @@ ina_Latn	nld	Nos vole remaner lo que nos es.	We willen blijven wat we zijn.
 ina_Latn	nld	Nulle loco es belle como le casa mie.	Oost, west, thuis best.
 ina_Latn	nld	Obviemente io non voleva basiar te, io voleva solmente vider como tu reagerea.	Natuurlijk wou ik je niet kussen, ik wou enkel zien hoe je zou reageren.
 ina_Latn	nld	Obviemente non essera sempre tanto facile.	Het is natuurlijk ook niet altijd even makkelijk.
+ina_Latn	nld	O.K., isto es epic.	Oké, dit is episch.
 ina_Latn	nld	On deplora multe victimas.	Er zijn veel slachtoffers te betreuren.
 ina_Latn	nld	On dice sovente que le mundo es sempre plus parve.	Men zegt vaak dat de wereld steeds kleiner is.
 ina_Latn	nld	On ha admittite sex candidatos.	Zes kandidaten werden toegelaten.
@@ -818,7 +837,11 @@ ina_Latn	nld	Pakistan es un pais islamic.	Pakistan is een islamitisch land.
 ina_Latn	nld	Papiro, carton, vitro e residuos de jardin se collige separatemente.	Papier, karton, glas en tuinafval worden gescheiden opgehaald.
 ina_Latn	nld	Parla clarmente.	Spreek duidelijk.
 ina_Latn	nld	Parla ille anglese?	Spreekt hij Engels?
+ina_Latn	nld	Parla tu estoniano?	Spreek je Estlands?
+ina_Latn	nld	Parla tu estoniano?	Spreek je Ests?
 ina_Latn	nld	Parla tu hebreo?	Spreek je Hebreeuws?
+ina_Latn	nld	Parla vos estoniano?	Spreekt u Estlands?
+ina_Latn	nld	Parla vos estoniano?	Spreekt u Ests?
 ina_Latn	nld	Passa tu supra illo o sub illo?	Ga je eroverheen of eronderdoor?
 ina_Latn	nld	Per favor, attende foras del casa.	Wacht alstublieft buiten het huis.
 ina_Latn	nld	Per favor informa me de omne cambiamento in le situation.	Gelieve mij te informeren over elke wijziging in de situatie.
@@ -890,6 +913,7 @@ ina_Latn	nld	Que te inspira le plus?	Wat inspireert je meest?
 ina_Latn	nld	Que vole tu biber?	Wat wilt ge drinken?
 ina_Latn	nld	Que vos inspira le plus?	Wat inspireert u meest?
 ina_Latn	nld	Quicunque se abassara, essera elevate.	Wie zich vernedert, zal verheven worden.
+ina_Latn	nld	Qui es le rege de Espania?	Wie is de koning van Spanje?
 ina_Latn	nld	Qui es tu star de television favorite?	Wie is je favoriete tv-ster?
 ina_Latn	nld	Qui ha errate, paga!	Wie fout zit, betaalt!
 ina_Latn	nld	Qui mangia apes?	Wie eet bijen?
@@ -943,23 +967,28 @@ ina_Latn	nld	Su lumine se extingueva.	Zijn licht is uitgegaan.
 ina_Latn	nld	Su multiple activitates le absorbe integremente.	Zijn vele bezigheden nemen hem geheel in beslag.
 ina_Latn	nld	Su naso aquilin deveniva si tenue como papiro.	Zijn haviksneus werd zo dun als papier.
 ina_Latn	nld	Su nomine aperi le lista.	Zijn naam staat bovenaan de lijst.
+ina_Latn	nld	Superman pote curvar ferro.	Superman kan ijzer buigen.
+ina_Latn	nld	Superman pote plicar ferro.	Superman kan ijzer buigen.
 ina_Latn	nld	Su responsas esseva equivoc.	Zijn antwoorden waren dubbelzinnig.
 ina_Latn	nld	Sur le luna io pesarea solmente dece-cinque kilos.	Op de maan zou ik maar vijftien kilo wegen.
 ina_Latn	nld	Su soror senior se maritava le mense passate.	Haar oudere zus is afgelopen maand getrouwd.
 ina_Latn	nld	Su vita pende a un filo.	Zijn leven hangt aan een zijden draadje.
 ina_Latn	nld	Taro, pote tu adjutar me?	Taro, kun je mij helpen?
 ina_Latn	nld	Tatoeba: Proque le linguage es plus que un summa de parolas.	Tatoeba: Omdat taal meer is dan een som van woorden.
+ina_Latn	nld	Television menti.	De televisie liegt.
 ina_Latn	nld	Tene lo con ambe manos.	Hou het vast met beide handen.
 ina_Latn	nld	Tokio es un grande citate.	Tokio is een grote stad.
 ina_Latn	nld	Tom bibe caffe.	Tom drinkt koffie.
 ina_Latn	nld	Tom cognosce le regulas.	Tom kent de regels.
 ina_Latn	nld	Tom crede que Deo existe.	Tom gelooft dat God bestaat.
 ina_Latn	nld	Tom deberea facer le mesme cosa que io.	Tom zou hetzelfde als ik moeten doen.
+ina_Latn	nld	Tom e Maria ha le mesme gruppo sanguinari.	Tom en Marietje hebben dezelfde bloedgroep.
 ina_Latn	nld	Tom es absente.	Tom is weg.
 ina_Latn	nld	Tom es un imperialista.	Tom is een imperialist.
 ina_Latn	nld	Tom es un reactionario.	Tom is een reactionair.
 ina_Latn	nld	Tom es un sophista.	Tom is een sofist.
 ina_Latn	nld	Tom es un viro e io es un femina.	Tom is een man en ik ben een vrouw.
+ina_Latn	nld	Tom es un zombi.	Tom is een zombie.
 ina_Latn	nld	Tom es via.	Tom is weg.
 ina_Latn	nld	Tom evidentemente non es de accordo.	Tom is het er duidelijk niet mee eens.
 ina_Latn	nld	Tom habita in un altere pais.	Tom woont in een ander land.
@@ -973,6 +1002,7 @@ ina_Latn	nld	Tosto in le matino io faceva un promenada.	Vroeg in de morgen heb i
 ina_Latn	nld	Tote le americanos educate visitara Europa tosto o tarde.	Alle ontwikkelde Amerikanen zullen vroeg of laat Europa bezoeken.
 ina_Latn	nld	Tote le esseres human nasce libere e equal in dignitate e in derectos. Illes es dotate de ration e de conscientia e debe ager le unes verso le alteres in un spirito de fraternitate.	Alle mensen worden vrij en gelijk in waardigheid en rechten geboren. Zij zijn begiftigd met verstand en geweten, en behoren zich jegens elkander in een geest van broederschap te gedragen.
 ina_Latn	nld	Tote le flores in le jardin ha marcite per manco de aqua.	Alle bloemen in de tuin zijn verslensd door gebrek aan water.
+ina_Latn	nld	Tote le paises son fraudulente.	Alle landen zijn nep.
 ina_Latn	nld	Tote lo que es necessari es bon caseo e un potto de confectura de ceresias nigre.	Al wat je nodig hebt, is lekkere kaas en een pot zwarte kersenjam.
 ina_Latn	nld	Tote nostre effortios esseva in van.	Al onze inspanningen zijn voor niets geweest.
 ina_Latn	nld	Totes hic es cannibales, excepte io, io es solmente mangiate.	Het zijn allemaal kannibalen hier, behalve ik, ik word alleen maar opgegeten.
@@ -998,6 +1028,8 @@ ina_Latn	nld	Tu pote haber iste libro gratuitemente.	Je mag dit boek gratis hebb
 ina_Latn	nld	Tu pote restar hic si tu essera silente.	Je mag hier blijven als je stil zult zijn.
 ina_Latn	nld	Tu realmente non sape natar?	Kan je echt niet zwemmen?
 ina_Latn	nld	Tu te ha vestite ben.	Je hebt je mooi aangekleed.
+ina_Latn	nld	Tu vide un arbore.	Je ziet een boom.
+ina_Latn	nld	Tu vide un arbore.	Jij ziet een boom.
 ina_Latn	nld	Ubi es le button del lumine?	Waar zit het knopje van het licht?
 ina_Latn	nld	Ubi es le vodka?	Waar is de wodka?
 ina_Latn	nld	Ubi es mi diario?	Waar is mijn dagboek?
@@ -1030,4 +1062,7 @@ ina_Latn	nld	Vos facerea melio de partir.	U kunt maar beter weggaan.
 ina_Latn	nld	Vostre informationes essera removite de tote nostre bancas de datos in circa un septimana.	Uw gegevens zullen ongeveer binnen een week uit al onze databanken verwijderd worden.
 ina_Latn	nld	Vostre nomine non appare in le lista.	Uw naam komt niet op de lijst voor.
 ina_Latn	nld	Vostre sposa es irate contra vos.	Uw vrouw is kwaad op u.
+ina_Latn	nld	Vos vide un arbore.	Je ziet een boom.
+ina_Latn	nld	Vos vide un arbore.	Jullie zien een boom.
+ina_Latn	nld	Vos vide un arbore.	U ziet een boom.
 ina_Latn	nld	Vos vos rememora le numero de vostre passaporto?	Herinnert ge u uw paspoortnummer?

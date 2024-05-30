@@ -9,6 +9,8 @@ fra	fra	Ai-je cuisiné pour rien ?	Ai-je cuisiné en vain ?
 fra	fra	Aime-moi un petit peu, aime-moi durablement.	Aime-moi peu, aime-moi longtemps.
 fra	fra	Aimerais-tu visiter les États-Unis ?	Aimerais-tu visiter les États-Unis d'Amérique ?
 fra	fra	Aimez-vous ce chemisier ?	Aimes-tu ce chemisier ?
+fra	fra	Aline fait des manières.	Aline fait des façons.
+fra	fra	Aline fait des manières.	Aline fait des simagrées.
 fra	fra	Allez faire la queue s'il vous plaît et attendez comme les autres !	S'il vous plaît faites la queue et attendez comme les autres !
 fra	fra	Allez, il faut que vous vous leviez.	Allez, il faut vous lever.
 fra	fra	Allez, il faut vous lever, il est déjà sept heures et demie.	Allez, vous devez vous lever, il est déjà sept heures et demie.
@@ -61,8 +63,10 @@ fra	fra	Arrête de me frapper !	Arrête de me battre !
 fra	fra	Arrête la voiture !	Arrêtez la voiture !
 fra	fra	Arrête, sinon tu vas la faire mousser.	Arrête, sinon tu vas l'énerver.
 fra	fra	Asseyez-vous !	Prenez place !
+fra	fra	Asseyons-nous là pour casser la graine !	Asseyons-nous là pour manger !
 fra	fra	Assez !	Assez !
 fra	fra	As-tu assez dormi ?	As-tu assez dormi ?
+fra	fra	As-tu assez regardé ?	As-tu suffisamment regardé ?
 fra	fra	As-tu besoin de quelque chose ?	Est-ce que tu as besoin de quelque chose ?
 fra	fra	As-tu bien dormi ?	As-tu bien dormi ?
 fra	fra	As-tu déjà déjeuné ?	As-tu déjà déjeuné ?
@@ -71,11 +75,13 @@ fra	fra	As-tu déjà terminé le travail ?	Avez-vous déjà fini le travail ?
 fra	fra	As-tu des plans pour ce soir ?	As-tu quelque chose à faire ce soir ?
 fra	fra	As-tu des projets pour ce soir ?	As-tu des plans pour ce soir ?
 fra	fra	As-tu fini de lire ce livre maintenant ?	As-tu déjà fini de lire ce livre ?
+fra	fra	As-tu mis un caleçon ?	Est-ce que tu portes un caleçon ?
 fra	fra	As-tu payé ce livre ?	As-tu payé pour le livre ?
 fra	fra	As-tu petit-déjeuné ?	As-tu déjeuné ?
 fra	fra	As-tu pris un petit-déjeuner ce matin ?	As-tu petit-déjeuné ce matin ?
 fra	fra	As-tu quelque chose à manger ?	As-tu quelque chose à manger ?
 fra	fra	As-tu quelque chose de prévu pour ce soir ?	As-tu des plans pour ce soir ?
+fra	fra	As-tu reçu mon courriel ?	As-tu reçu mon courrier électronique ?
 fra	fra	As-tu une meilleure idée ?	As-tu une meilleure idée ?
 fra	fra	As-tu un peu de temps ?	Aurais-tu un peu de temps ?
 fra	fra	À supposer qu'il en soit ainsi, je n'agirais pas différemment.	Quand bien même il en serait ainsi, je n'agirais pas différemment.
@@ -84,6 +90,7 @@ fra	fra	À ta place, je ne parlerais plus avec lui.	Si j'étais toi, je ne lui p
 fra	fra	A-t-il neigé hier ?	Est-ce qu'il a neigé hier ?
 fra	fra	A-t-il une bicyclette ?	A-t-il un vélo ?
 fra	fra	A-t-il utilisé une capote ?	A-t-il utilisé un préservatif ?
+fra	fra	Attends que le maton soit passé !	Attends que le matuche soit passé !
 fra	fra	Attention ! Ne marchez pas sur les cultures fraîchement plantées !	Attention ! Ne piétinez pas les cultures fraîchement plantées !
 fra	fra	Au commencement, Dieu créa les cieux et la terre.	Au commencement, Dieu créa le ciel et la terre.
 fra	fra	Aucun autre homme ne pourrait faire mon travail.	Personne d'autre ne pourrait faire mon travail.
@@ -102,11 +109,13 @@ fra	fra	Au réveil, j'ai toujours soif.	Quand je me réveille, j'ai toujours soi
 fra	fra	Avec le temps, on saura lequel des deux a raison.	Avec le temps, on saura qui a raison.
 fra	fra	Avec plaisir.	De rien !
 fra	fra	Avec quoi as-tu été frappé ?	Avec quoi as-tu été frappée ?
+fra	fra	Avez-vous assez regardé ?	Avez-vous suffisamment regardé ?
 fra	fra	Avez-vous d'autres questions ?	Avez-vous encore des questions ?
 fra	fra	Avez-vous encore des questions ?	Avez-vous à nouveau des questions ?
 fra	fra	Avez-vous entendu ça ?	L'avez-vous entendu ?
 fra	fra	Avez-vous la moindre idée de qui ferait une telle chose ?	Avez-vous la moindre idée de qui ferait une chose pareille ?
 fra	fra	Avez-vous passé un bon week-end ?	Avez-vous passé une bonne fin de semaine ?
+fra	fra	Avez-vous reçu mon courriel ?	Avez-vous reçu mon courrier électronique ?
 fra	fra	Avez-vous un bout de papier sur lequel je peux écrire?	Disposez-vous d'un morceau de papier sur lequel je puisse écrire ?
 fra	fra	Avez-vous un problème ?	Vous avez un problème ?
 fra	fra	Avez-vous un stylo ?	Vous avez un stylo ?
@@ -120,6 +129,7 @@ fra	fra	Avons-nous réservé ?	Vous avez réservé ?
 fra	fra	À votre place, je ne l'aurais pas fait.	À votre place, je n'aurais pas fait ça.
 fra	fra	Ayen iɛeddan iɛedda, xemmem ɣef uzekka.	Ce qui est passé est passé, pense à l'avenir.
 fra	fra	Baisse ta fenêtre !	Abaisse ta fenêtre !
+fra	fra	Beaucoup ne croient pas qu'il y a eu un alunissage.	Beaucoup ne croient pas qu'il y a eu un alunage.
 fra	fra	Ben non, j'pense pas.	Eh bien non, je ne pense pas.
 fra	fra	Ben non, tu parles.	Eh bien non, je n'y crois pas du tout.
 fra	fra	Berka leɛyaḍ!	Cesse de crier!
@@ -137,6 +147,7 @@ fra	fra	Bonté divine !	Bon sang !
 fra	fra	Bon voyage !	Je te souhaite un bon voyage.
 fra	fra	Bon voyage !	Je vous souhaite un bon voyage.
 fra	fra	Bon week-end.	Bonne fin de semaine.
+fra	fra	Brillante idée !	Merveilleuse idée !
 fra	fra	Buvez-vous encore un petit verre ?	En buvez-vous encore un petit ?
 fra	fra	Ça ce n'est pas totalement faux.	Ça ce n'est pas entièrement faux.
 fra	fra	Ça, c'est plus pour moi.	Ça, ça n'est plus pour moi.
@@ -149,6 +160,7 @@ fra	fra	Ça m'a fait beaucoup réfléchir.	Ça m'a beaucoup fait réfléchir.
 fra	fra	Ça m’aura bien fait chier, cette histoire.	Ça m’aura bien contrarié, cette histoire.
 fra	fra	Ça m’aura bien fait chier, cette histoire.	Ça m’aura bien enquiquiné, cette histoire.
 fra	fra	Ça me barbe.	Ça m'ennuie.
+fra	fra	Ça me donne la chair de poule.	J’en ai la chair de poule.
 fra	fra	Ça me paraît mal barré.	Ça me semble mal barré.
 fra	fra	Ça me rend dingue.	Ça me rend chèvre.
 fra	fra	Ça ne marche pas !	Tu es fou !
@@ -161,7 +173,9 @@ fra	fra	Ça ne s'oublie pas si facilement.	Cela ne s'oublie pas si facilement.
 fra	fra	Ça n'est pas son affaire.	Ce ne sont pas ses oignons.
 fra	fra	Ça n'était pas ma faute.	Ce n'était pas ma faute.
 fra	fra	Ça ne va jamais finir.	Ça n'en finira jamais.
+fra	fra	Ça nous met dans l'ambiance directement.	Ça nous met directement dans l'ambiance.
 fra	fra	Ça passe beaucoup à la radio.	Ça passe beaucoup en radio.
+fra	fra	Caroline change sans arrêt de sujet.	Caroline saute d'un sujet à l'autre.
 fra	fra	Ça se joue à quelques millimètres.	C'est l'affaire de quelques millimètres.
 fra	fra	Ça s'est mis comme ça.	C'est comme ça que ça s'est goupillé.
 fra	fra	Casse-toi !	Casse-toi !
@@ -173,6 +187,7 @@ fra	fra	Ça te va de manger du poiscaille ce midi ?	Ça te va de manger du poiss
 fra	fra	Ç'avait l'air bizarre.	Ça avait l'air bizarre.
 fra	fra	Ça va, merci.	Je vais bien, merci.
 fra	fra	Ça vaut trois francs six sous.	Ça vaut trois fois rien.
+fra	fra	Ce chanteur français est vraiment formidable.	Ce chanteur français est vraiment admirable.
 fra	fra	Ce couteau coupe bien, parce qu'il est aiguisé.	Ce couteau coupe bien parce qu'il est affuté.
 fra	fra	Ce dictionnaire vous sera très utile.	Ce dictionnaire vous sera grandement utile.
 fra	fra	Ce doit être un homme honnête.	Il doit être un honnête homme.
@@ -182,6 +197,9 @@ fra	fra	Ce fut un plaisir de parler avec vous.	Ça a été un plaisir de parler 
 fra	fra	Ce gosse ne croit pas aux fantômes.	Ce petit ne croit pas aux fantômes.
 fra	fra	Ce gosse ne croit pas aux fantômes.	Ce pitchoun ne croit pas aux fantômes.
 fra	fra	Ce heaume pèse plusieurs kilogrammes.	Ce heaume pèse plusieurs kilos.
+fra	fra	Ce lait est aigre.	Ce lait a tourné.
+fra	fra	Cela me convient.	Ça fait mon affaire.
+fra	fra	Cela ne m'étonne pas, puisqu'il était déjà un islamiste avéré.	Cela ne m'étonne pas, puisqu'il était déjà islamiste avéré.
 fra	fra	Cela paraît impossible, mais c'est vrai.	Quoique cela paraisse impossible, c'est pourtant vrai.
 fra	fra	Cela peut arriver à n'importe qui.	Ça peut arriver à tout le monde.
 fra	fra	Cela ressemble à un œuf.	Ça ressemble à un œuf.
@@ -203,6 +221,8 @@ fra	fra	Ce n'est qu'un salaud.	Ce n'est qu'un connard.
 fra	fra	Ce n'est qu'un salaud.	Ce n'est qu'un enfoiré.
 fra	fra	Ce n'est vraiment pas de chance !	C'est vraiment pas de chance!
 fra	fra	Ce paquet contient neuf mouchoirs.	Ce paquet contient 9 mouchoirs.
+fra	fra	Ce picrate est imbuvable !	Ce pinard est imbuvable !
+fra	fra	Ce picrate est imbuvable !	Ce vin est imbuvable !
 fra	fra	Ce pourrait n'être que votre imagination.	Ce pourrait simplement être votre imagination.
 fra	fra	Ce prix inclut-il la taxe sur la valeur ajoutée ?	Ce prix inclut-il la TVA ?
 fra	fra	Ce qu'écrivirent les journalistes déplut au maire.	Ce qu'écrivirent les journalistes déplut au bourgmestre.
@@ -228,6 +248,7 @@ fra	fra	C'est bonnet blanc et blanc bonnet.	C'est blanc bonnet et bonnet blanc.
 fra	fra	C'est ce que vous faites toujours.	C'est ce que tu fais toujours.
 fra	fra	C'est cousu de fil blanc.	C'est déjà écrit.
 fra	fra	C'est dans la poche.	Emballez, c'est pesé.
+fra	fra	C’est de la chatte.	C’est de la chance.
 fra	fra	C'est de la merde !	C'est de la daube !
 fra	fra	C'est encore trop tôt pour parler de ça.	Il est encore trop tôt pour en parler.
 fra	fra	C'est entendu.	C'est d'accord.
@@ -237,11 +258,16 @@ fra	fra	C'est impossible !	Ça ne se peut pas !
 fra	fra	C'est inéluctable: nous avons oublié nos légendes; nous les vivons en direct.	Tout ce qui ne nous tue pas nous rend plus forts.
 fra	fra	C'est kif-kif.	C'est pareil.
 fra	fra	C'est la dernière chose que je veuille faire.	C'est la dernière chose que je veux faire.
+fra	fra	C'est la leçon à retenir.	Telle est la leçon à retenir.
+fra	fra	C’est la teuf.	C’est la fête.
 fra	fra	C'est le début d'une nouvelle ère.	C'est le début d'une ère nouvelle.
+fra	fra	C'est le jour de repos de Tom.	Aujourd'hui, Tom est de repos.
 fra	fra	C'est le moindre de mes soucis.	C'est le cadet de mes soucis.
 fra	fra	C'est l'ordinateur sur lequel il écrit son article.	C'est l'ordinateur avec lequel il écrit ses articles.
 fra	fra	C'est l'un de ces instants.	C'est l'un de ces moments.
+fra	fra	C’est moi le patron.	C’est moi le boss.
 fra	fra	C'est moi qui animerai toute la conversation.	Je ferai la parlote.
+fra	fra	C'est mon parc préféré.	Ce parc-ci, c'est celui que je préfère.
 fra	fra	C'est ni l'un ni l'autre.	Cela n'a rien à voir.
 fra	fra	C'est ni l'un ni l'autre.	Il ne s'agit pas là du fond de la question.
 fra	fra	C'est pas bien dramatique.	Ce n'est pas bien dramatique.
@@ -251,12 +277,15 @@ fra	fra	C'est pire que je ne le pensais.	C'est pire que je pensais.
 fra	fra	C'est pire que je ne pensais.	C'est pire que je pensais.
 fra	fra	C'est possible que j'aie oublié mes clefs.	C'est possible que j'aie oublié mes clés.
 fra	fra	C'est pour ça que Tom a démissionné.	C'est pour ça que Tom a arrêté.
+fra	fra	C'est pour quoi faire ?	C'est dans quel but ?
 fra	fra	C'est quoi ça?	C'est quoi ça ?
 fra	fra	C'est quoi le plan ?	Quel est le plan ?
 fra	fra	C'est simple comme bonjour.	C'est enfantin.
 fra	fra	C'est tiré par les cheveux.	C'est capillotracté.
 fra	fra	C'est Tom qui nous a aidés à trouver Marie.	C'est Tom qui nous a aidés à trouver Mary.
 fra	fra	C'est ton pénis ?	D argal- innek ?
+fra	fra	Ç'est tout à fait possible.	Cela est bien possible.
+fra	fra	C'est tout ce qu'on peut demander.	C'est tout ce qu'on peut réclamer.
 fra	fra	C'est tout un art d'accommoder les restes.	Accommoder les restes, c'est tout un art !
 fra	fra	C'est très banal.	Ça n'a rien de remarquable.
 fra	fra	C'est très gentil à vous.	C'est très amical de votre part.
@@ -272,29 +301,50 @@ fra	fra	C'est une espèce en voie de disparition.	C'est une espèce en voie d'ex
 fra	fra	C'est une femme autodidacte.	C'est une autodidacte.
 fra	fra	C'est une œuvre d'art remarquable.	C'est un chef-d’œuvre remarquable.
 fra	fra	C'est une peluche que j'ai gagnée au tir-à-pipes.	C'est une peluche que j'ai gagnée au casse-pipes.
+fra	fra	C'est une personne correcte.	C'est quelqu’un de droit.
+fra	fra	C'est une pratique courante.	C'est monnaie courante.
+fra	fra	C’est une pute.	C’est une putain.
 fra	fra	C'est une vieille jeune fille.	Elle est vieille fille.
 fra	fra	C'est un fondu de musique.	C'est un passionné de musique.
+fra	fra	C’est un guet-apens !	Un guet-apens !
+fra	fra	C’est un homicide.	C’est un meurtre.
 fra	fra	C'est un petit bourge.	C'est un petit bourgeois.
 fra	fra	C'est un Polytechnicien.	C'est un Xien.
+fra	fra	C’est un quiproquo.	C’est un malentendu.
 fra	fra	C'est un raisonnement suranné.	C'est un raisonnement dépassé.
+fra	fra	C'est un vrai défi.	Il s'agit d'un véritable défi.
+fra	fra	C'était flagrant.	C'était incontestable.
+fra	fra	C'était flagrant.	C'était indiscutable.
+fra	fra	C'était pas foufou non plus, j'ai pas envie de recommencer.	Ce n'était pas foufou non plus, je n'ai pas envie de recommencer.
+fra	fra	C’était pis que la mer à boire.	C'était pire que la mer à boire.
 fra	fra	C'était une entreprise incroyable.	C'était un exercice de haute voltige.
 fra	fra	C'était un vrai poivrot.	C'était un vrai ivrogne.
 fra	fra	C'était un vrai poivrot.	C'était un vrai soiffard.
+fra	fra	C'était vraiment drôle.	C'était vraiment marrant.
 fra	fra	Cet animal a de nombreuses épines.	Cet animal a beaucoup d'épines.
 fra	fra	Cet arbre a quel âge ?	Quel âge a cet arbre ?
 fra	fra	Cet élève a séché le cours trois fois de suite.	Cet élève a brossé le cours trois fois de suite.
 fra	fra	Cet enfant est glou.	Cet enfant est difficile en ce qui concerne la nourriture.
 fra	fra	Cet enfant m'a tiré la langue.	Ce gamin m'a tiré la langue.
+fra	fra	Cet événement est gravé dans ma mémoire.	Cet évènement est gravé dans ma mémoire.
 fra	fra	Cet homme de grande taille est Monsieur Smith.	Ce grand type est Monsieur Smith.
 fra	fra	Cette affaire est-elle réglée ?	Est-ce que cette affaire est réglée ?
 fra	fra	Cette affaire ne presse pas.	Cette affaire n'est pas urgente.
 fra	fra	Cette corde à diabolo, c'est de la cacaille.	Cette corde à diabolo, c'est de la daube.
 fra	fra	Cette église date du 13e siècle.	Cette église date du XIIIe siècle.
 fra	fra	Cette enseigne propose des actions différentes dans chaque magasin.	Cette enseigne propose des promotions différentes dans chaque magasin.
+fra	fra	Cette fois, Tom est à l'heure.	Pour le coup, Tom est ponctuel.
 fra	fra	Cette histoire n'est pas croyable.	Cette histoire est incroyable.
 fra	fra	Cette maison va à vau-l'eau.	Cette maison est en désespérance.
+fra	fra	Cette photo me parle.	Cette photo me dit quelque chose.
+fra	fra	Cette phrase n’est grammaticalement pas correcte.	Cette phrase est grammaticalement incorrecte.
 fra	fra	Cette vidéo est trouble.	Cette vidéo est floue.
 fra	fra	Ce type est toursiveux, il vaut mieux s'en méfier.	Ce type est roué, il vaut mieux s'en méfier.
+fra	fra	Ce vélo appartient à mon père.	C'est le vélo de mon père.
+fra	fra	Ce vélo appartient à mon père.	Ce vélo est à mon père.
+fra	fra	Ce vélo appartient à mon père.	Ce vélo est celui de mon père.
+fra	fra	Ce vin chenu est excellent.	Ce millésime est excellent.
+fra	fra	Ce vin chenu est excellent.	Ce vin millésimé est excellent.
 fra	fra	Chacun sa part.	À chacun sa part.
 fra	fra	Chacun souhaite le bonheur.	Tout le monde aspire au bonheur
 fra	fra	Chanmé !	Truc de ouf !
@@ -303,19 +353,26 @@ fra	fra	Chapeau à lui!	Chapeau!
 fra	fra	Chaque fois que je trouve quelque chose que j'aime, c'est trop cher.	À chaque fois que je trouve quelque chose qui me plait, c'est trop cher.
 fra	fra	Chaque fois qu'ils parlent, ils se disputent.	À chaque fois qu'ils discutent, ils se disputent.
 fra	fra	Chaque patron a son employé ou employée préféré.	Chaque patron a son employé ou employée préférée.
+fra	fra	Chez moi, c’est quinze euros la pipe.	Chez moi, c’est 15 euros la pipe.
+fra	fra	Chez quel éditeur, ce livre a-t-il été publié ?	Dans quelle maison d'édition, ce livre a-t-il été publié ?
 fra	fra	Chien qui aboie ne mord pas.	Les chiens qui aboient ne mordent pas.
 fra	fra	Chut !	Chut !
+fra	fra	Combien a-t-elle de points ?	Combien de points a-t-elle ?
 fra	fra	Combien coûte ce parapluie ?	Quel est le prix de ce parapluie ?
 fra	fra	Combien coûte ce sofa ?	Combien coûte ce sofa ?
 fra	fra	Combien de fois me faudra-t-il te dire que Tatoeba n'est pas un être humain ?	Combien de fois faudra-t-il que je te répète que Tatoeba n'est pas une personne ?
 fra	fra	Combien de jours compte une année bissextile ?	Combien une année bissextile a-t-elle de jours ?
 fra	fra	Combien de langues y a-t-il au monde?	Combien de langues y a-t-il dans le monde ?
 fra	fra	Combien de livres possède-t-il ?	Combien de livres a-t-il ?
+fra	fra	Combien de points a-t-il ?	Combien a-t-il de points ?
 fra	fra	Combien de temps faut-il pour réparer?	Combien de temps faudra-t-il pour réparer?
+fra	fra	Combien gagnez-vous par semaine ?	Vous gagnez combien par semaine ?
+fra	fra	Combien tu suces pour dix euros ?	Combien tu suces pour 10 euros ?
 fra	fra	Combien y a-t-il de langues dans le monde ?	Combien de langues y a-t-il au monde?
 fra	fra	« Combien y a-t-il de phrases, maintenant ? » « Un million et quelques. »	« Combien y a-t-il de phrases, maintenant ? » « Un million et des brouettes. »
 fra	fra	Comme à son habitude, il arriva un quart d'heure en retard.	Comme à son habitude, il est arrivé un quart d'heure en retard.
 fra	fra	Comme ceci est important, j'aimerais que vous vous en occupiez vous-même.	Comme ceci est important, j'aimerais que vous vous en occupiez vous-mêmes.
+fra	fra	Comme c'est bien que tu sois venu.	C'est heureux que tu sois venu.
 fra	fra	Comme c'est souvent le cas pour les jeunes gens, il ne fait pas beaucoup attention à sa santé.	Comme c'est souvent le cas pour les jeunes gens, il ne fait pas beaucoup cas de sa santé.
 fra	fra	Comme dessert, je prends une banane.	En dessert, je prends une banane.
 fra	fra	Comme il fait un temps de cochon, nous restons à la maison.	Comme il fait un temps à ne pas mettre un chien dehors, nous restons à la maison.
@@ -323,6 +380,8 @@ fra	fra	Comment allez-vous ?	Ça va ?
 fra	fra	Comment allez-vous ?	Comment ça va ?
 fra	fra	Comment ça déchire !	Chanmé !
 fra	fra	Comment calcule-t-on le rayon à partir de la circonférence ?	Comment calcule-t-on le rayon en connaissant la circonférence ?
+fra	fra	Comment combattre la désinformation ?	Comment lutter contre la désinformation ?
+fra	fra	Comment continuerais-tu cette phrase ?	Comment compléterais-tu cette phrase ?
 fra	fra	Comment devenir riche ?	Comment devient-on riche ?
 fra	fra	Comment est-ce arrivé là ?	Comment cela a-t-il atterri là ?
 fra	fra	Comment est-ce que je prends contact avec vous ?	Comment est-ce que je prends contact avec toi ?
@@ -338,25 +397,34 @@ fra	fra	Comment vas-tu ?	Comment allons-nous ?
 fra	fra	Comment vas-tu ?	Comment il va ?
 fra	fra	Comment vous appelez-vous ?	Vous vous appelez comment ?
 fra	fra	Comme on fait son lit, on se couche.	Comme on fait son lit, on se couche !
+fra	fra	Connaissez-vous un autre moyen ?	Connaissez-vous une autre façon de faire ?
+fra	fra	Connaissez-vous un autre moyen ?	Vous connaissez une autre façon de faire ?
 fra	fra	Connais-tu un bon dentiste ?	Connais-tu un bon dentiste ?
 fra	fra	Connaît-elle ton numéro de téléphone ?	Est-ce qu'elle connait ton numéro de téléphone ?
 fra	fra	Courage !	Courage !
 fra	fra	Crache ta Valda !	Accouche !
 fra	fra	Crache ta Valda !	Passe au vert !
+fra	fra	Creuse ici !	Creuse là !
+fra	fra	Creusez ici !	Creusez là !
 fra	fra	Crève !	Crève !
 fra	fra	Crois-tu aux fantômes ?	Tu crois aux fantômes ?
 fra	fra	Crois-tu aux OVNIs ?	Crois-tu aux OVNIs ?
 fra	fra	Crois-tu que ce soit possible ?	Penses-tu que c'est possible ?
 fra	fra	Croyez-vous aux fantômes ?	Est-ce que vous croyez aux fantômes ?
 fra	fra	« Croyez-vous que Tom peut le faire ? » « Absolument ! »	« Croyez-vous que Tom peut le faire ? » « Mais bien sûr ! »
+fra	fra	D'accord, je viendrai.	C'est convenu, je viendrai.
+fra	fra	D'accord, je viendrai.	Entendu, je viendrai.
 fra	fra	Dans quelle direction se dirigeait-il ?	Où se dirigeait-il ?
 fra	fra	Dans un trou au sol, vivait un hobbit.	Dans un trou vivait un hobbit.
 fra	fra	Débarrassez la table !	Remettez la table !
+fra	fra	Débrouille-toi pour arriver à l'heure !	Assure-toi d'arriver à l'heure !
+fra	fra	Débrouille-toi pour arriver à l'heure !	Veille à arriver à l'heure !
 fra	fra	Deg tegrest ttiɣzifen wuḍan, ttiwzilen wussan.	En hiver les nuits s’étirent et les jours raccourcissent.
 fra	fra	« De la sorte, il passa un an et dix mois, après quoi, sur les conseils des médecins, on commença à le sortir et une belle charrette à bœufs fut construite grâce à l'ingéniosité de Jean Denyau. »	« En ceſt eſtat paſſa iuſques à vn an & dix moys : onquel temps par le conſeil des medecins on commença le porter : & fut faicte vne belle charrette à bœufs par l’inuention de Iehan Denyau. »
 fra	fra	De nombreuses personnes s’inquiètent pour l’Europe.	De nombreuses personnes se font du souci pour l'Europe.
 fra	fra	De nos jours, l’Amérique et nous, avons vraiment tout en commun, à l’exception de la langue, bien entendu.	Nous avons réellement, de nos jours, tout en commun avec l'Amérique, hormis, bien entendu, la langue.
 fra	fra	Dépêche-toi !	Dépêche-toi.
+fra	fra	Depuis longtemps, Rima s'habille en bikini à la plage.	Depuis longtemps, Rima porte un bikini à la plage.
 fra	fra	Depuis que Tom se promène tous les jours en vélo, il a beaucoup maigri.	Depuis que Tom fait du vélo tous les jours, il est devenu beaucoup plus mince.
 fra	fra	Depuis que tu es là, je vais mieux.	Depuis que tu es là, je me sens mieux.
 fra	fra	De quand date ton premier pop ?	De quand date ton premier baiser sur la bouche ?
@@ -368,6 +436,7 @@ fra	fra	Des clous !	Penses-tu!
 fra	fra	Désirez-vous autre chose ?	Voulez-vous quelque chose d'autre ?
 fra	fra	Désirez-vous quelque chose à boire ?	Aimeriez-vous boire quelque chose ?
 fra	fra	Des promesses...toujours des promesses !	Des promesses, toujours des promesses !
+fra	fra	Dès que Tom s'est endormi, il a commencé à ronfler.	À peine endormi, Tom s'est mis à ronfler.
 fra	fra	De toutes façons il n'y a pas de cotes là-dessus !	De toutes façons, ça n'est pas noté !
 fra	fra	Deux cafés au lait, je vous prie.	Deux cafés au lait, s'il vous plaît.
 fra	fra	Deux torts ne sauraient être un bien.	Deux torts ne sauraient être admissibles.
@@ -375,6 +444,7 @@ fra	fra	Devine ce que je tiens dans la main !	Devinez ce que je tiens dans la ma
 fra	fra	Devine ce que je tiens dans ma main !	Devinez ce que je tiens dans ma main !
 fra	fra	Devine qui vient dîner !	Devine qui vient souper !
 fra	fra	Diantre !	Fichtre !
+fra	fra	Dieu est son âme.	Que Dieu est son âme.
 fra	fra	Dimanche prochain, nous randonnerons.	Dimanche prochain, nous irons randonner.
 fra	fra	Dis bonjour à ta femme de ma part, s'il te plaît.	Salue ton épouse de ma part, s'il te plait.
 fra	fra	Dis ce que tu as fait !	Avwé sa ou fè !
@@ -385,12 +455,14 @@ fra	fra	Dix, vingt, trente, quarante, cinquante, soixante, soixante-dix, quatre-
 fra	fra	Dois-je changer de train pour Paris ?	Est-ce que je dois changer de train pour Paris ?
 fra	fra	Donc tout ce dont tu as besoin est de bon fromage et d'un pot de confiture de cerises noires.	Donc tout ce qu'il te faut est du bon fromage et un pot de confiture de cerises noires.
 fra	fra	Donne-nous aujourd'hui notre pain de ce jour.	Donnez-nous aujourd'hui notre pain quotidien.
+fra	fra	Donnez-lui le bonjour de ma part.	Saluez-le de ma part.
 fra	fra	Dort-il ?	Il dort ?
 fra	fra	« D'où connais-tu Tom ? » « Ah ! C'est une longue histoire. »	« Comment as-tu connu Tom ? » « Ah ! C'est une longue histoire. »
 fra	fra	D'où le sais-tu ?	Comment le sais-tu ?
 fra	fra	« D'où sort ce blaireau ? » « Trifouillis-les-Oies, sans doute...»	« D'où sort ce blaireau ? » « Houtsiplou, sans doute...»
 fra	fra	DSK est incarcéré dans la prison de l'île de Rikers.	Dominique Strauss-Kahn est incarcéré dans la prison de l'île de Rikers.
 fra	fra	D tafugt i ttafgen wussan.	Les journées passent très vite.
+fra	fra	Du 26 au 28 septembre 2015, neuf personnes de cinq pays se sont réunies à Brno (République tchèque) pour s'amuser ensemble en apprenant et en utilisant la langue Toki Pona. Dans cette vidéo, ils sont dans un jardin botanique universitaire et parlent de ce qu'ils voient.	Du 26 au 28 septembre 2015, neuf personnes de cinq pays se sont réunies à Brno (République tchèque) pour s'amuser ensemble en apprenant à utiliser la langue toki pona. Dans cette vidéo, ils se trouvent dans un jardin botanique universitaire et parlent de ce qu'ils voient.
 fra	fra	D'un petit gland sourd naît un grand chêne.	D'un petit gland naît un grand chêne.
 fra	fra	Durant la dynastie Han, des récipients en verre romains étaient importés, et au cinquième siècle commença la production de récipients en verre dans la dynastie Wei du Nord.	Durant la dynastie Han, des récipients romains en verre furent importés, et au cinquième siècle commença la production de récipients en verre dans la dynastie Wei du nord.
 fra	fra	Ecoute ! Ne sois pas si insolent !	Ecoute ! Ne sois pas si effronté !
@@ -414,6 +486,7 @@ fra	fra	Elle découvrit un nouveau monde multicolore.	Elle découvrit un nouveau
 fra	fra	Elle découvrit un nouveau monde polychrome.	Elle découvrit un nouveau monde de toutes les couleurs.
 fra	fra	Elle est pacifiste.	C'est une pacifiste.
 fra	fra	Elle est pas de la gueule, celle-là !	Elle est gonflée, celle-là !
+fra	fra	Elle est sans le sou.	C'est une sans-le-sou.
 fra	fra	Elle est trop lourde, je n'arrive pas à la soulever.	Elle est trop lourde, je ne parviens pas à la soulever.
 fra	fra	Elle fut enterrée vivante.	Elle a été enterrée vivante.
 fra	fra	Elle ira bientôt mieux.	Elle ira bien bientôt.
@@ -461,24 +534,33 @@ fra	fra	Elle suggéra que je l'emmène au zoo.	Elle a suggéré que je l'emmène
 fra	fra	Elle t'a lâché.	Elle t'a relâché.
 fra	fra	Elle va revenir de Pontoise.	Elle ne va pas en revenir.
 fra	fra	Elle vient de France.	Elle est de France.
+fra	fra	Elle vient juste de naître.	Elle vient juste de naitre.
 fra	fra	Elle vomissait.	Elle rendait.
 fra	fra	Elle vous a lâchées.	Elle vous a relâchées.
 fra	fra	Elle voyage à bicyclette.	Elle voyage à vélo.
 fra	fra	Emballez, c'est pesé.	L'affaire est dans le sac.
 fra	fra	En 1497, Jean Cabot a exploré le Canada.	En 1497, Jean Cabot explora le Canada.
+fra	fra	En bref, je ne suis pas d’accord avec vous.	En bref, je ne suis pas de votre avis.
 fra	fra	En cas d'incendie, veuillez utiliser les escaliers.	En cas d'incendie, utilisez les escaliers.
 fra	fra	En ce moment, je lis un roman d'aventures.	En ce moment, je lis un roman d'aventure.
+fra	fra	En ce moment, mon frère est à Paris.	Mon frère est actuellement à Paris.
 fra	fra	Enchanté !	Enchanté !
+fra	fra	En cours de route, Tom a rencontré des amis.	Chemin faisant, Tom a rencontré des amis.
 fra	fra	En d'autres termes, dans le temps, être gros signifiait être sain et résistant.	En d'autres termes, par le passé, être gros signifiait être sain et résistant.
 fra	fra	En es-tu fier ?	Tu en es fier ?
 fra	fra	En été, les gens se rendent au bord de la mer.	En été, les gens se rendent en bord de mer.
 fra	fra	Enfant, j'allais chaque été sur la côte.	Enfant, je me rendais chaque été sur la côte.
 fra	fra	Enfin tu es là !	Enfin tu arrives !
 fra	fra	Enlève tes chaussures.	Retire tes chaussures.
+fra	fra	En maths, Tom est nul.	Tom est nul en maths.
+fra	fra	En quoi dis-tu que c'est un artiste ?	Qu'est-ce qui te fait dire que c'est un artiste ?
 fra	fra	En résumé : je l'ignore.	Pour faire court : je l'ignore.
+fra	fra	Entendu, Mme Robert, je vous mets en relation avec le Dr Sarrazin.	Entendu, Mme Robert, je vous mets en contact avec le Dr Sarrazin.
 fra	fra	En tout cas, je ne suis pas de ton opinion.	En tout cas, je ne suis pas d'accord avec toi.
+fra	fra	En tout cas, Tom s'est excusé.	N'empêche que Tom s'est excusé.
 fra	fra	Entre les deux, il y a une énorme différence.	Il y a une différence marquée entre ces deux-là.
 fra	fra	Environ combien de mots anglais connais-tu ?	Combien de mots anglais connais-tu à peu près ?
+fra	fra	Épargne-moi tes conseils, s'il te plaît.	Dispense-moi de tes conseils, s'il te plaît !
 fra	fra	Espèce de fana !	Espèce de fanatique !
 fra	fra	Espèce de nerd !	Espèce d'intello !
 fra	fra	Essaie de nouveau.	Essaie à nouveau.
@@ -489,6 +571,7 @@ fra	fra	Essaie de te contrôler.	Essaye de te contrôler.
 fra	fra	Essaye encore.	Essaie de nouveau.
 fra	fra	Est-ce de votre faute ou de la nôtre ?	Est-ce de votre faute ou de la nôtre ?
 fra	fra	Est-ce la clé que tu cherches ?	Est-ce là, la clef que tu cherches ?
+fra	fra	Est-ce possible en langage familier ?	Est-ce possible en langage courant ?
 fra	fra	Est-ce que ça en valait réellement la peine ?	Le jeu en valait-il la chandelle ?
 fra	fra	Est-ce que cela t'a plu aussi ?	L'as-tu aimé aussi ?
 fra	fra	Est-ce que ce prix inclut la soupe et la salade ?	Le prix comprend-il la soupe et la salade ?
@@ -496,6 +579,7 @@ fra	fra	Est-ce que c'est Marie qui t'a dit ça ?	Est-ce Marie qui t'a dit ça ?
 fra	fra	Est-ce que c'est Marie qui t'a dit ça ?	Est-ce que Marie t'a dit ça ?
 fra	fra	Est-ce que je peux t'aider ?	Est-ce que je peux t'aider ?
 fra	fra	Est-ce que le restaurant est cher ?	Le restaurant est-il cher ?
+fra	fra	Est-ce que les copies sont corrigées ?	Les copies, sont-elles corrigées ?
 fra	fra	Est-ce que quelqu'un a un indice ?	Est-ce que quelqu'un a un tuyau ?
 fra	fra	Est-ce que six heures vous conviendrait ?	Six heures vous conviendrait-il ?
 fra	fra	Est-ce que ta mère sait conduire ?	Ta mère sait-elle conduire ?
@@ -506,9 +590,13 @@ fra	fra	Est-ce que tu aimes la musique ?	Tu aimes la musique ?
 fra	fra	Est-ce que tu crois aux fantômes ?	Tu crois aux fantômes ?
 fra	fra	Est-ce que tu m'aimes ?	Est-ce que tu m'aimes ?
 fra	fra	Est-ce que tu parles italien ?	Parles-tu italien ?
+fra	fra	Est-ce que tu viens seul ?	Tu viens seul ?
 fra	fra	Est-ce que votre bébé dort ?	Votre bébé dort-il ?
 fra	fra	Est-ce que vous avez embauché Tom ?	Avez-vous embauché Tom ?
 fra	fra	Est-ce qu'il reste du jambon ?	Reste-t-il du jambon ?
+fra	fra	Est-ce qu’il y a un téléphone dans leur maison ?	Y a-t-il un téléphone dans leur maison ?
+fra	fra	Est-ce qu'on peut manger ?	Peut-on manger ?
+fra	fra	Est-ce qu'on peut y toucher ?	Peut-on y toucher ?
 fra	fra	Est-ce un écrivain ?	Est-ce que c'est un écrivain ?
 fra	fra	Est-ce un écrivain ?	Est-il écrivain ?
 fra	fra	Est-ce votre vélo ?	Est-ce votre bicyclette ?
@@ -524,6 +612,7 @@ fra	fra	Es-tu devenu fou ?	As-tu perdu l'esprit ?
 fra	fra	Es-tu impressionnée ?	Es-tu impressionné ?
 fra	fra	Es-tu pour ou contre l'avortement ?	Es-tu pour ou contre l'avortement ?
 fra	fra	Était-ce toi qui as laissé la porte ouverte la nuit dernière ?	Est-ce toi qui as laissé la porte ouverte la nuit dernière ?
+fra	fra	Étant enfant, Tom zézayait.	Quand Tom était enfant, il zézayait.
 fra	fra	Et d'abord, qu'en sais-tu ?	Et pour commencer, qu'en sais-tu ?
 fra	fra	Et d'abord, qu'en savez-vous ?	Et pour commencer, qu'en savez-vous ?
 fra	fra	Êtes-vous libre ce week-end ?	Êtes-vous libre cette fin de semaine?
@@ -547,6 +636,7 @@ fra	fra	Évidemment, il a raison.	Bien sûr qu'il a raison.
 fra	fra	Exactement !	Exact !
 fra	fra	Excuse moi.	Je vous prie de m'excuser.
 fra	fra	Excusez-moi, quel est le nom de cet endroit ?	Pardonnez-moi, comment se nomme cet endroit?
+fra	fra	Existe-t-il une traduction française ?	Y a-t-il une traduction française ?
 fra	fra	Expliquez la chose suivante.	Commentez.
 fra	fra	Fais ce que tu aimes !	Fais ce qu'il te plait !
 fra	fra	Faisons faire aujourd'hui la vaisselle à celui qui perd à pierre-papier-ciseaux !	Faisons faire aujourd'hui la vaisselle à celui qui perd à chifoumi !
@@ -562,6 +652,7 @@ fra	fra	Femme au volant, danger constant.	Femme au volant, mort au tournant.
 fra	fra	Femme au volant, danger permanent.	Femme au volant, mort au tournant.
 fra	fra	Fermerais-tu la fenêtre, s'il te plait ?	Veux-tu bien fermer la fenêtre ?
 fra	fra	Ferme ton livre.	Ferme ton livre !
+fra	fra	Feu à volonté !	Feu à volonté.
 fra	fra	Feu !	Feu!
 fra	fra	Foutaises.	Balivernes.
 fra	fra	Frères humains qui après nous vivez, N'ayez pas les cœurs contre nous endurcis.	Frères humains qui après nous vivez, N'avez les cuers contre nous endurcis.
@@ -579,7 +670,13 @@ fra	fra	Hourra !	Youpi !
 fra	fra	Huile et eau ne se mélangent pas.	Huile et eau sont immiscibles.
 fra	fra	Ici, le temps se refroidit à cette époque de l'année.	Ici, le temps se refroidit à cette période de l'année.
 fra	fra	Il a arrêté de fumer.	Il s'est arrêté de fumer.
+fra	fra	Il a cent points.	Il a 100 points.
 fra	fra	Il a de longues jambes.	Il est doté de longues jambes.
+fra	fra	Il a deux cent quatre-vingt-treize points.	Il a 293 points.
+fra	fra	Il a deux cents points.	Il a 200 points.
+fra	fra	Il a deux cent vingt points.	Il a 220 points.
+fra	fra	Il a du cul.	Il a de la chance.
+fra	fra	Il a du cul.	Il a du bol.
 fra	fra	Il a échoué à l'éthylotest.	Il a échoué à l'alcootest.
 fra	fra	Il a engagé un chasseur de prime pour l'éliminer.	Il a engagé un chasseur de prime pour le supprimer.
 fra	fra	Il a engagé un chasseur de prime pour l'éliminer.	Il a engagé un chasseur de prime pour le tuer.
@@ -590,13 +687,17 @@ fra	fra	Il a eu un accident et s’est cassé la jambe.	Il a eu un accident et s
 fra	fra	Il a fait cela pour l'argent.	Il l'a fait pour l'argent.
 fra	fra	Il a fait cela pour l'argent.	Il l'a fait pour le fric.
 fra	fra	Il a lâché la proie pour l'ombre.	Il a échangé une fève contre sa cosse
+fra	fra	Il a le melon.	Il a la grosse tête.
 fra	fra	Il a le tour.	Il sait s'y prendre.
 fra	fra	Il a le tour.	Il sait y faire.
 fra	fra	Il allait la voir journellement.	Il allait la voir quotidiennement.
+fra	fra	Il allume la télévision.	Il allume la télé.
 fra	fra	Il a loupé son vol.	Il a raté son vol.
 fra	fra	Il a mis sa voiture en l'air.	Il a abîmé sa voiture.
 fra	fra	Il a passé une vie heureuse.	Il passa une vie heureuse.
+fra	fra	Il a perdu la boule.	Il a perdu la tête.
 fra	fra	Il apprécie mes blagues.	Il apprécie mes plaisanteries.
+fra	fra	Il a pris la poudre d’escampette.	Il s’est enfui.
 fra	fra	Il a pris le melon.	Il a pris la grosse tête.
 fra	fra	Il a reçu un coup dans le carafon.	Il a reçu un coup dans la tête.
 fra	fra	Il a toujours une pièce à mettre au trou.	Il a réponse à tout.
@@ -625,6 +726,7 @@ fra	fra	Il dut s'y résigner, malgré qu'il en ait.	Il dut s'y résigner à cont
 fra	fra	Il est à blâmer pour ça.	Il est à blâmer pour cela.
 fra	fra	Il est à qui, ce vélo ?	C’est à qui, ce vélo ?
 fra	fra	Il est arrivé tout mouillé à cause de la pluie.	Il est arrivé trempé à cause de la pluie.
+fra	fra	Il est aux soins intensifs.	Il est aux soins continues.
 fra	fra	Il est barjot.	Il est barge.
 fra	fra	Il est barjot.	Il est chtarbé.
 fra	fra	Il est barjot.	Il est cintré.
@@ -634,6 +736,7 @@ fra	fra	Il est barjot.	Il est timbré.
 fra	fra	Il est barjot.	Il est zinzin.
 fra	fra	Il est capable de nager comme un poisson.	Il sait nager comme un poisson.
 fra	fra	Il est difficile de s’habituer aux us et coutumes d’un autre pays.	Il est difficile de s’habituer aux usages et coutumes d’un autre pays.
+fra	fra	Il est fier comme un pou.	Il est très orgueilleux.
 fra	fra	Il est mort sans avoir fait de testament.	Il mourut sans avoir fait de testament.
 fra	fra	Il est pas de la gueule, celui-là !	Il a du culot, celui-là !
 fra	fra	Il est pas de la gueule, celui-là !	Il est gonflé, celui-là !
@@ -651,9 +754,13 @@ fra	fra	Il était malade, mais il s'est rendu à l'école.	Il était malade, mai
 fra	fra	Il était plus ou moins saoul.	Il était quelque peu soûl.
 fra	fra	Il était tard, donc je suis rentré chez moi.	Il était tard, donc je suis rentrée chez moi.
 fra	fra	Il était une fois un pauvre homme et une femme riche.	Il était une fois un pauvre homme et une riche femme.
+fra	fra	Il fait toujours aussi chaud ici ?	Est-ce qu'il fait toujours aussi chaud ici ?
 fra	fra	Il fait très froid aujourd'hui.	Aujourd'hui il fait très froid.
 fra	fra	Il faudrait me faire tout ça dare-dare.	Il faudrait me faire tout ça dare dare.
 fra	fra	Il faut ajouter de la vie aux jours, lorsqu'on ne peut plus ajouter de jours à la vie.	Ajouter de la vie aux jours lorsqu'on ne peut plus ajouter de jours à la vie.
+fra	fra	Il faut la roder durant mille kilomètres.	Il faut la roder durant 1000 kilomètres.
+fra	fra	Il faut lire beaucoup, mais pas n'importe quoi.	Il faut lire beaucoup, et bien choisir ce que l'on lit.
+fra	fra	Il faut que je le rejoigne en pas tardant !	Il faut que je le rejoigne sans tarder !
 fra	fra	Il faut que je parte, mon frère m'attend.	Je dois y aller, mon frère m'attend.
 fra	fra	Il faut que tu te décides pour l'un des deux !	Tu dois en choisir un !
 fra	fra	Il faut remettre les perroquets sur les bonnes épaules.	Il faut mettre les responsabilités sur le dos des bonnes personnes.
@@ -670,6 +777,8 @@ fra	fra	Il l'a menacé de rétorsion s'il refusait d'obtempérer.	Il l'a menacé
 fra	fra	Il les a lâchés.	Il les a relâchés.
 fra	fra	Il lit un livre.	Il est en train de lire un livre.
 fra	fra	Il lui est à peine possible de ne commettre aucune faute.	Il lui est quasiment impossible de ne pas faire de faute.
+fra	fra	Il m'a à peine vu.	C'est à peine s'il ma vu.
+fra	fra	Il m'a choisi ?	M'a-t-il choisi ?
 fra	fra	Il m'a lâchée.	Il m'a relâchée.
 fra	fra	Il m'a lâché.	Il m'a relâché.
 fra	fra	Il m'a menacé, mais je n'ai pas eu peur.	Il m'a menacée, mais je n'ai pas eu peur.
@@ -692,18 +801,22 @@ fra	fra	Il ne porte pas de chapeau.	Il n'est pas coiffé.
 fra	fra	Il ne sait ni lire ni écrire.	Il ne sait lire ni écrire.
 fra	fra	Il n'est jamais trop tard pour apprendre.	On est jamais trop vieux pour apprendre.
 fra	fra	Il n'est jamais trop tard pour apprendre.	Personne n'est trop vieux pour apprendre.
+fra	fra	Il n'est pas bien de montrer du doigt l'arc-en-ciel.	Ce n'est pas bien de montrer du doigt l'arc-en-ciel.
 fra	fra	Il n'est pas contraire.	Il est avenant.
 fra	fra	Il n'est pas encore venu. Il a certainement manqué le bus.	Il n'est pas encore venu. Il aura certainement manqué le bus.
 fra	fra	Il n'est pas quelqu'un de communicatif.	Ce n'est pas quelqu'un de communicatif.
 fra	fra	Il n'est pas tout juste.	Il est handicapé.
 fra	fra	Il nous faut porter un toast.	Portons un toast !
 fra	fra	Il n'y a aucun moyen d'atteindre l'île autre que le bateau.	Il n'y a pas de moyen d'atteindre l'île autrement qu'en bateau.
+fra	fra	Il n'y a des rayures que sur les manches.	Il y a des rayures seulement sur les manches.
 fra	fra	Il n'y a pas d'autre moyen d'atteindre l'île qu'en bateau.	Il n'y a aucun moyen d'atteindre l'île autre que le bateau.
 fra	fra	Il n'y a pas d'autre moyen d'atteindre l'île qu'en bateau.	Il n'y a pas de moyen d'atteindre l'île autrement qu'en bateau.
+fra	fra	Il n'y a pas de cuillère.	Il n'y a pas de cuiller.
 fra	fra	Il n'y a pas de quoi pavoiser.	Il n'y a pas de quoi faire cocorico.
 fra	fra	Il n'y a pas de raison de crier.	Il n'y a pas besoin de crier.
 fra	fra	Il n'y a pas de raison de s'énerver.	Il n'y a aucune raison de s'énerver.
 fra	fra	Il n'y a qu'à le faire.	Il faut qu'on le fasse.
+fra	fra	Il n'y est pas allé avec le dos de la cuiller avec lui.	Il n'y est pas allé de main morte avec lui.
 fra	fra	Il paraît qu'il a une grosse kette.	Il paraît qu'il a une grosse bite.
 fra	fra	Il parle anglais couramment.	Il parle couramment anglais.
 fra	fra	Il parle et il mange.	Il parle quand il mange.
@@ -729,6 +842,8 @@ fra	fra	Il s'est calté sur le champ.	Il s'est enfui illico presto.
 fra	fra	Il s'est enseigné le français.	Il a appris le français en autodidacte.
 fra	fra	Il s'est fait croquer.	Il s'est fait punir.
 fra	fra	Il s'est fait marave.	Il s'est fait niquer.
+fra	fra	Il s’est fait rouler dans la farine.	Il a été trompé.
+fra	fra	Il s’est fait rouler dans la farine.	Il s’est fait berner.
 fra	fra	Il s'est mis à faire froid. Fais attention à ne pas prendre froid.	Il s'est mis à faire froid. Fais attention à ne pas attraper un rhume.
 fra	fra	Il s'est mis à faire froid. Faites attention à ne pas prendre froid.	Il s'est mis à faire froid. Faites attention à ne pas attraper un rhume.
 fra	fra	Il s'est refusé à prendre le pot-de-vin.	Il a refusé de prendre le bakchich.
@@ -746,16 +861,20 @@ fra	fra	Ils ne parlent pas anglais chez eux.	Ils ne parlent pas anglais à la ma
 fra	fra	Ils n'ont rien à se mettre sous la dent.	Elles n'ont rien à se mettre sous la dent.
 fra	fra	Ils nous ont bernés.	Ils nous ont bernées.
 fra	fra	Ils nous ont fabriqué un mouton à cinq pattes.	Ils nous ont fabriqué une usine à gaz.
+fra	fra	Ils ont diné.	Ils ont pris leur diné.
 fra	fra	Ils ont fait l'amour la nuit dernière.	Ils ont baisé la nuit dernière.
 fra	fra	Ils parlèrent plus de trois heures.	Ils ont parlé pendant plus de trois heures.
 fra	fra	Ils s'entretinrent de la vie future.	Ils conversèrent au sujet de la vie future.
 fra	fra	Ils seront en sécurité avec elle.	Elles seront en sécurité avec elle.
+fra	fra	Ils se sont échangé des horions.	Ils se sont échangé des coups.
 fra	fra	Ils se sourirent l'un à l'autre.	Ils se sourirent mutuellement.
 fra	fra	Ils sont en danger.	Elles sont en danger.
 fra	fra	Ils sont la quatrième génération à être reçus à Polytechnique.	Ils sont la quatrième génération à être reçus à l'X.
+fra	fra	Ils sont plein aux as.	Ils sont pétés de thunes.
 fra	fra	Ils t'ont lâché.	Ils t'ont relâché.
 fra	fra	Il suffit !	Assez !
 fra	fra	Il suffit !	Veuillez cesser !
+fra	fra	Ils vont aux WC.	Ils vont aux toilettes.
 fra	fra	Il t'a lâchée.	Il t'a relâchée.
 fra	fra	Il t'a lâché.	Il t'a relâché.
 fra	fra	Il te faut être davantage organisé.	Il faut que tu sois davantage organisé.
@@ -764,6 +883,8 @@ fra	fra	Il tombe de Charybde en Scylla.	Il va de mal en pis.
 fra	fra	Il va dracher.	Il va pleuvoir.
 fra	fra	Il va sans dire que fumer est mauvais pour la santé.	Il va sans dire que fumer est mauvais pour votre santé.
 fra	fra	Il va venir demain.	Il vient demain.
+fra	fra	Il veut faire la course avec moi car il est sûr de gagner.	Il veut faire la course avec moi car il est certain de gagner.
+fra	fra	Il vient juste de naître.	Il vient juste de naitre.
 fra	fra	Il vous a lâchés.	Il vous a relâchés.
 fra	fra	Il vous faut être davantage organisée.	Faut que vous soyez plus organisée !
 fra	fra	Il vous faut être davantage patients.	Il faut que vous soyez davantage patients.
@@ -774,6 +895,7 @@ fra	fra	Il vous faut être davantage patients.	Il vous faut être plus patients.
 fra	fra	Il vous faut me le dire.	Vous devez me le dire.
 fra	fra	Il vous faut passer à autre chose.	Il te faut passer à autre chose.
 fra	fra	Il y a beaucoup de parcs dans Boston.	Il y a beaucoup de parcs à Boston.
+fra	fra	Il y a du vrai dans tout cela.	Il y a quelque chose de vrai là-dedans.
 fra	fra	Il y a eu quelques passagers dans le train qui ont été blessés.	Il y a eu quelques passagers dans le train qui ont été blessés dans l'accident.
 fra	fra	Il y a là quelque chose de louche !	Il y a là quelque chose qui cloche !
 fra	fra	Il y a plusieurs hypothèses quant à l'apparition de cette maladie, mais il n'existe pas encore de théorie généralement admise.	Il y a plusieurs hypothèses quant à l'origine de cette maladie, mais il n'existe pas encore de théorie communément admise.
@@ -808,9 +930,13 @@ fra	fra	Il y a une église près de ma maison.	Il y a une église à côté de c
 fra	fra	Il y a une manière.	Il y a un moyen.
 fra	fra	Il y a une page manquante.	Il manque une page.
 fra	fra	Il y a une possibilité de faire mieux.	Il existe un moyen de faire mieux.
+fra	fra	Il y a un godemichet caché sous son lit.	Il y a un gode caché sous son lit.
+fra	fra	Il y a un godemichet caché sous son lit.	Il y a un godemiché caché sous son lit.
 fra	fra	Il y a un intrus dans l'assemblée.	Il y a un intrus dans l'assistance.
 fra	fra	Il y a un passage secret à gauche.	Il y a un passage secret sur la gauche.
 fra	fra	Il y avait beaucoup de meubles dans cette pièce.	Il y avait beaucoup de meubles dans cette chambre.
+fra	fra	Il y en a une autre juste là.	Il y en a une autre juste ici.
+fra	fra	Il y en a une autre là.	Il y en a une autre ici.
 fra	fra	Il y en a une bouteille dans le réfrigérateur.	Il y en a une bouteille au frigo.
 fra	fra	Il y en a une bouteille dans le réfrigérateur.	Il y en a une bouteille au réfrigérateur.
 fra	fra	Il y en a une bouteille dans le réfrigérateur.	Il y en a une bouteille dans le frigidaire.
@@ -833,15 +959,20 @@ fra	fra	J'ai bon.	J'ai la bonne réponse.
 fra	fra	J'ai changé l'agencement de mon site web.	J'ai changé l"apparence de mon site.
 fra	fra	J'ai cherché après toute la matinée.	Je l'ai cherchée toute la matinée.
 fra	fra	J'ai cherché après toute la matinée.	Je l'ai cherché toute la matinée.
+fra	fra	J'ai cherché de la cave au grenier.	J’ai cherché partout.
+fra	fra	J’ai chié ça en cinq minutes.	J’ai chié ça en 5 minutes.
 fra	fra	J'ai couru à l'étage.	Je courus à l'étage.
 fra	fra	J'ai couru pour être à l'heure.	Afin d'être à l'heure, je courus.
 fra	fra	J'ai couru pour être à l'heure.	Je courus, afin d'être à l'heure.
 fra	fra	J'ai décidé de lui dire que je l'aimais.	J'ai décidé de lui raconter que je l'aimais.
 fra	fra	J'ai déjà bu trois bières ; ça suffit !	J'ai déjà bu trois bières ; c'est assez !
 fra	fra	J'ai déjà lu ce livre avant.	J'ai lu ce livre auparavant.
+fra	fra	J'ai déjà utilisé toutes mes vacances.	J'ai déjà pris toutes mes vacances.
 fra	fra	J'ai déjà visité l'Amérique.	J'ai déjà visité les États-Unis.
 fra	fra	J'ai deux chiens. L'un est blanc, l'autre est noir.	J'ai deux chiens. L'un blanc, l'autre noir.
 fra	fra	J'ai deux chiens. L'un est blanc, l'autre est noir.	J'ai deux chiens. L'un est blanc, l'autre noir.
+fra	fra	J’ai dormi comme un ange.	J’ai très bien dormi.
+fra	fra	J'ai du porc.	J'ai du cochon.
 fra	fra	J'ai entendu des explosions.	J'ai entendu des détonations.
 fra	fra	J'ai envie de vomir.	J'ai envie de rendre.
 fra	fra	J'ai essayé de regarder le film en VOSTFr.	J'ai essayé de regarder le film en version originale sous-titrée en français.
@@ -855,6 +986,7 @@ fra	fra	J'ai eu des super points !	J'ai eu de superbes notes !
 fra	fra	J'ai eu la porte de bois.	J'ai trouvé porte close.
 fra	fra	J'ai eu un accident au travail.	J'ai eu un accident du travail.
 fra	fra	J'ai eu un rêve étrange la nuit dernière.	La nuit dernière, j'ai fait un rêve bizarre.
+fra	fra	J’ai fait de la taule.	J’ai fait de la prison.
 fra	fra	J'ai fait la java toute la nuit dernière, alors aujourd'hui, je suis un peu carpette.	J'ai fait la nouba toute la nuit dernière, alors aujourd'hui, je suis un peu carpette.
 fra	fra	J'ai fait un rêve étrange, la nuit dernière.	La nuit dernière, j'ai fait un rêve bizarre.
 fra	fra	J'ai fini mes devoirs avec difficulté.	J'ai eu du mal à finir mes devoirs de maison.
@@ -864,18 +996,23 @@ fra	fra	J'ai joué mon va-tout.	J'ai joué le tout pour le tout.
 fra	fra	J'ai juste commencé.	Je viens juste de commencer.
 fra	fra	J'ai juste signalé un drapeau erroné.	Je n'ai fait que signaler un drapeau erroné.
 fra	fra	J'ai la dalle.	J'ai les crocs.
+fra	fra	J'ai la flemme de faire à manger.	Je n'ai pas le courage de faire à manger.
 fra	fra	J'ai la mafia après moi.	J'ai la maffia au cul.
 fra	fra	J'ai la mafia après moi.	J'ai la maffia au train.
 fra	fra	J'ai les dents du fond qui baignent...	Le dîner vient de me remonter faire coucou.
+fra	fra	J’ai les jetons.	J’ai peur.
 fra	fra	J'ai le sortant.	J'ai envie de sortir.
 fra	fra	J'ai le sortant.	Sortir me démange.
+fra	fra	J’ai l'estomac dans les talons.	J’ai très faim.
 fra	fra	J'ai le tour avec ta mère.	Je sais y faire avec ta mère.
+fra	fra	J'ai l'impression de faire du sur-place.	J'ai la sensation de faire du surplace.
 fra	fra	J'ai lu un livre captivant.	J'ai lu un livre passionnant.
 fra	fra	J'aime apprendre des langues anciennes.	J’aime apprendre des langues anciennes.
 fra	fra	J'aime bien discuter avec toi.	J'aime bien m'entretenir avec toi.
 fra	fra	J'aime bien discuter avec toi.	J'aime bien parler avec toi.
 fra	fra	J’aime chanter.	J'aime chanter.
 fra	fra	J'aime jouer au basket-ball.	J'aime bien jouer au basket.
+fra	fra	J'aime les chats tigrés.	J'aime les chats tabbies.
 fra	fra	J’aime les tortues.	J'aime les tortues.
 fra	fra	J'aimerais avoir le temps pour une petite amie.	J'aimerais avoir le temps pour une petite copine.
 fra	fra	J'aimerais désormais aller quelque part ailleurs.	J'aimerais désormais me rendre quelque part ailleurs.
@@ -890,6 +1027,7 @@ fra	fra	J'ai mis les cadeaux dans le grenier.	J'ai mis les cadeaux dans la pièc
 fra	fra	J'ai missionné un tordu, il a ramené son alter ego.	J'ai demandé à un escobar d'aller me chercher quelque chose, il m'a ramené son alter ego.
 fra	fra	J'ai mon voyage.	Je n'en reviens pas.
 fra	fra	J'ai oublié mon adresse de courrier électronique.	J'ai oublié mon adresse électronique.
+fra	fra	J'ai pas envie de jouer aux cartes.	Je n'ai pas envie de jouer aux cartes.
 fra	fra	J’ai passé douze heures dans le train.	J'étais dans le train pendant douze heures.
 fra	fra	J'ai perdu ma clé.	J'ai perdu ma clef.
 fra	fra	J'ai perdu ma montre.	J’ai perdu ma montre.
@@ -917,10 +1055,13 @@ fra	fra	J'aurais dû le faire moi-même.	J'aurais dû le faire toute seule.
 fra	fra	J'avais le même âge que toi.	J'avais ton âge.
 fra	fra	J'avais l'habitude de lire des romans au hasard.	Je lisais des romans au hasard.
 fra	fra	J'avais ton âge.	J'ai eu ton âge.
+fra	fra	Jean aura bientôt les pieds dans le dos s'il continue comme ça.	Jean aura bientôt la police à ses trousses s'il continue comme ça.
 fra	fra	Jean est décédé l'an dernier.	Jean est décédé l'année dernière.
+fra	fra	Jean est le suspect numéro un.	Jean est le suspect n°1.
 fra	fra	Jean et Jeanne regardaient vos poules.	Jean et Jeanne regardèrent vos poules.
 fra	fra	Jeanne a copié tes phrases.	Jeanne copiait vos phrases.
 fra	fra	Jeanne mangera tes kiwis.	Jeanne mangera vos kiwis.
+fra	fra	Jean-Paul Belmondo est décédé.	Jean-Paul Belmondo est mort.
 fra	fra	Je cherche à comprendre.	J'essaie de comprendre.
 fra	fra	Je cherche un nouveau travail.	Je cherche un nouvel emploi.
 fra	fra	Je connais Tom depuis à peu près trois ans.	Je connais Tom depuis environ trois ans.
@@ -937,10 +1078,19 @@ fra	fra	Je dois faire une leçon par jour.	Il faut que je fasse une leçon par j
 fra	fra	Je dois rafraîchir mon français avant d'aller étudier à Paris.	Avant de me rendre à Paris pour travailler, je dois rafraîchir mon français.
 fra	fra	Je dois y aller, même s'il pleut.	Il faut que j'y aille, quand bien même il pleuvrait.
 fra	fra	Je faisais semblant de dormir.	Je faisais semblant d'être en train de dormir.
+fra	fra	Je fais caca.	Je fais popo.
 fra	fra	Je fais ça moi-même.	Je le fais moi-même.
+fra	fra	Je fais le plein à la station-service.	Je fais le plein à la pompe à essence.
+fra	fra	Je fais le plein à la station-service.	Je fais le plein à la station à essence.
+fra	fra	Je fais le plein à la station-service.	Je fais le plein à la station essence.
+fra	fra	Je fais le plein à la station-service.	Je fais le plein à l’essencerie.
+fra	fra	Je fais mon mea-culpa.	Je fais mon mea culpa.
+fra	fra	Je fume de l’herbe.	Je fume de la beuh.
+fra	fra	Je fume du cannabis.	Je fume du shit.
 fra	fra	Je laboure le sol.	Je laboure la terre.
 fra	fra	Je l'ai appris par le chat.	Je l'ai appris du chat.
 fra	fra	Je l'ai appris par le chat.	Je l'ai appris par l'intermédiaire du chat.
+fra	fra	Je l'aime toujours.	Je l'aime encore.
 fra	fra	Je l'ai payé cent euros. C'est la tapée.	Je l'ai payé cent euros. C'est la moyenne.
 fra	fra	Je l'ai vu le week-end dernier.	Je l'ai vu la fin de semaine dernière.
 fra	fra	Je l'ai vu souvent ces derniers temps.	Je l'ai souvent vu récemment.
@@ -956,9 +1106,14 @@ fra	fra	Je m'abonne au Wi-Fi.	Je m'abonne à la Wi-Fi.
 fra	fra	Je mangeais ta banane.	Je mangeai votre banane.
 fra	fra	Je mangeais une bonne cerise.	Je mangeai une bonne cerise.
 fra	fra	Je mange le soir entre sept heures et huit heures.	Je mange le soir entre sept et huit.
+fra	fra	Je mange une chocolatine.	Je mange un pain au chocolat.
 fra	fra	Je manque de pratique.	Je suis rouillé.
 fra	fra	Je manque de pratique.	Je suis rouillée.
 fra	fra	Je m'appelle Jack.	Tinon an mwen sé Djak.
+fra	fra	Je m’arrête à la station-service.	Je m’arrête à la pompe à essence.
+fra	fra	Je m’arrête à la station-service.	Je m’arrête à la station à essence.
+fra	fra	Je m’arrête à la station-service.	Je m’arrête à la station essence.
+fra	fra	Je m’arrête à la station-service.	Je m’arrête à l’essencerie.
 fra	fra	Je me brosse les dents.	Je brosse mes dents.
 fra	fra	Je me cachais toujours ici quand j'étais enfant.	Je me suis toujours caché ici lorsque j'étais enfant.
 fra	fra	Je me demande qui est venu.	Je veux savoir qui est venu.
@@ -979,6 +1134,7 @@ fra	fra	Je me rends chez le Docteur Dupont pour qu'il me renouvelle mon ordonnan
 fra	fra	Je me sens soudain tout faible.	Je me sens soudainement très faible.
 fra	fra	Je me sentis trahie.	Je me sentis trompée.
 fra	fra	Je me souviens de ça.	Je me souviens de cela.
+fra	fra	Je me suis cogné contre le mur.	Je me suis cognée contre le mur.
 fra	fra	Je me suis croqué le dos.	Je me suis fait mal au dos.
 fra	fra	Je me suis endormi.	Je m'endors.
 fra	fra	Je me suis fait buser à l'examen.	J'ai eu une pète à l'examen.
@@ -1014,7 +1170,9 @@ fra	fra	Je n'ai pas su quoi lui dire.	Je n'ai pas su que lui dire.
 fra	fra	Je n'ai pas triché.	Je n'ai pas pompé.
 fra	fra	J'en ai plein le cul !	J'en ai assez !
 fra	fra	Je n'arrive pas à casser ce code.	Je n'arrive pas à déchiffrer ce code.
+fra	fra	Je n'arrive pas à sortir du lit le matin.	Je n'arrive pas à sortir du pageot le matin.
 fra	fra	Je n'arrive pas à voir.	Je ne parviens pas à voir.
+fra	fra	Je n'aurais jamais pensé à ça !	Je n'y aurais jamais pensé !
 fra	fra	Je n'avais pas idée que ce bracelet fut volé.	Je n'avais pas idée que ce bracelet avait été volé.
 fra	fra	Je ne connais pas les mœurs locales.	Je ne connais pas les usages locaux.
 fra	fra	Je ne connaissais absolument pas cette femme.	Je ne connaissais pas du tout cette femme.
@@ -1048,10 +1206,16 @@ fra	fra	Je ne peux pas m'empêcher de me sentir quelque peu soulagé.	Je ne peux
 fra	fra	Je ne peux pas m'empêcher de me sentir un peu soulagé.	Je ne peux m'empêcher de me sentir quelque peu soulagée.
 fra	fra	Je ne peux pas me permettre de dépenser 40 dollars pour un livre !	Je n'ai pas les moyens d'acheter un seul livre pour 40 dollars !
 fra	fra	Je ne peux pas remuer mon bras.	Je ne peux pas bouger mon bras.
+fra	fra	Je ne pourrai la porter seul.	Je ne pourrai pas la porter seul.
+fra	fra	Je ne pourrai la soulever seul.	Je ne pourrai pas la soulever seul.
+fra	fra	Je ne pourrai le porter seul.	Je ne pourrai pas le porter seul.
+fra	fra	Je ne pourrai le soulever seul.	Je ne pourrai pas le soulever seul.
 fra	fra	Je ne sais ce que je vais faire avec toi.	Je ne sais ce que je vais faire de toi.
 fra	fra	Je ne sais ce que je vais faire avec toi.	Je ne sais pas ce que je vais faire avec toi.
 fra	fra	Je ne sais ce que je vais faire avec toi.	Je ne sais pas ce que je vais faire de toi.
+fra	fra	Je ne sais pas ce que je ferais à sa place.	Je ne sais pas ce que je ferais si j’étais à sa place.
 fra	fra	Je ne sais pas ce qui m'arrive.	J'ignore ce qui m'arrive.
+fra	fra	Je ne sais pas comment marche ce truc.	Je ne sais pas comment fonctionne ce truc.
 fra	fra	Je ne sais pas du tout parler français.	Je ne parle pas du tout français.
 fra	fra	Je ne sais pas.	Je ne le sais pas.
 fra	fra	Je ne sais pas l'anglais.	Je ne connais pas l'anglais.
@@ -1060,40 +1224,56 @@ fra	fra	Je ne sais pas trop à quelle heure il va venir.	Je ne sais pas avec cer
 fra	fra	Je ne sais pas trop à quelle heure il va venir.	Je ne suis pas sûr de quand il vient.
 fra	fra	Je ne sais plus, il faut que je réfléchisse.	Je ne m'en souviens plus, je dois réfléchir.
 fra	fra	Je ne savais pas.	Je n'étais pas au courant.
+fra	fra	Je ne suis jamais allé chez le docteur.	Je ne suis jamais allé chez le médecin.
 fra	fra	Je ne suis pas responsable.	Ce n'est pas de ma faute.
 fra	fra	Je ne suis pas votre ami.	Je ne compte pas au nombre de vos amis.
+fra	fra	Je ne te crois plus, tu as trahi ma confiance !	Je ne te crois plus, t'as trahi ma confiance !
 fra	fra	Je ne te hais pas.	Je ne te hais point.
 fra	fra	Je ne te voyais pas comme ça !	Je ne te pensais pas comme ça !
 fra	fra	Je ne trouve pas ça si difficile.	Je ne trouve pas ça tellement difficile.
 fra	fra	Je ne trouve pas ta vie pathétique.	Je ne pense pas que ta vie soit pathétique.
 fra	fra	Je ne veux pas m'attirer d'ennuis.	Je ne veux pas avoir de problèmes.
+fra	fra	Je ne veux pas naître.	Je ne veux pas naitre.
 fra	fra	Je ne veux pas que vous touchiez à mes affaires.	Je ne veux pas que vous touchiez à mes trucs.
 fra	fra	Je ne vous permets pas de me tutoyer.	Je ne vous autorise pas à me tutoyer.
 fra	fra	Je ne vous voyais pas comme ça !	Je ne vous pensais pas comme ça !
 fra	fra	J'en fais mon affaire.	Je m'en charge.
 fra	fra	J'enseigne.	J’enseigne.
+fra	fra	J'entrepose du bois pour l'hiver.	Je stocke du bois pour l'hiver.
 fra	fra	Je n'y peux rien.	Je n'en peux rien.
 fra	fra	Je pars la semaine prochaine.	Je m'en vais la semaine prochaine.
 fra	fra	Je pense que la boîte est vide.	Je crois que la boîte est vide.
+fra	fra	Je pense que tu as pris une mauvaise décision.	Je pense que vous avez pris une mauvaise décision.
+fra	fra	Je pense que tu n'as pas pris la bonne décision.	Je pense que vous avez pris une mauvaise décision.
+fra	fra	Je pense que vous n'avez pas pris la bonne décision.	Je pense que vous avez pris une mauvaise décision.
 fra	fra	Je pèse cinquante-neuf et une chiquelette.	Je pèse cinquante-neuf et des brouettes.
 fra	fra	Je pèse cinquante-neuf et une chiquelette.	Je pèse cinquante-neuf et des poussières.
 fra	fra	Je peux aller à l'école à pied en 10 minutes.	Je peux aller à l'école à pied en dix minutes.
 fra	fra	Je peux commencer sans Tom.	Je peux débuter sans Tom.
 fra	fra	Je peux compter sur toi ?	Est-ce que je peux compter sur toi ?
 fra	fra	Je peux éplucher une pomme.	Je sais éplucher une pomme.
+fra	fra	Je peux être là où ça me convient.	Je peux être là où bon me semble.
+fra	fra	Je peux les essayer ?	Puis-je les essayer ?
+fra	fra	Je peux me passer de vin si nécessaire, mais pas de café.	À la rigueur, je peux me passer de vin, mais pas de café.
 fra	fra	Je peux te déranger un moment ?	Puis-je te déranger un moment ?
 fra	fra	«Je peux te poser une question ?» «Envoie.»	«Je peux vous poser une question ?» «Allez-y.»
+fra	fra	Je peux te ramener chez toi ?	Est-ce que je peux te ramener chez toi ?
+fra	fra	Je peux très bien me mettre à votre place.	Je peux fort bien comprendre votre situation.
+fra	fra	Je peux très bien me mettre à votre place.	Je peux très bien comprendre votre situation.
 fra	fra	Je peux vous amener ?	Puis-je vous amener ?
 fra	fra	Je porte un complet, mais pas de cravate.	Je porte un costume, mais pas de cravate.
 fra	fra	Je possède des terres agricoles.	Je possède des terres arables.
 fra	fra	Je préférerais mourir que le marier.	Je préférerais plutôt mourir que de l'épouser.
+fra	fra	Je prends en charge les frais de port.	Les frais de port seront à ma charge.
 fra	fra	Je prends toujours mon essence ici.	Je fais toujours mon plein d'essence ici.
+fra	fra	Je prends tout sur moi.	J'assume tout.
 fra	fra	Je regardai à travers la fenêtre.	J'ai regardé à travers la fenêtre.
 fra	fra	Je sais tout simplement que je ne veux pas être marié avec vous.	Je sais que je ne veux pas être marié avec vous, un point c'est tout.
 fra	fra	Je serai au bureau à partir de dix heures.	Je serai dans mon bureau à dix heures.
 fra	fra	Je serai là aussitôt.	Je serai là sans tarder.
 fra	fra	Je serai là aussitôt.	Je serai là tout de suite.
 fra	fra	J'espère avoir un jour l'heur de vous rencontrer.	J'espère avoir un jour la chance de vous rencontrer.
+fra	fra	J'espère que j'ai bien compris.	J'espère avoir bien compris.
 fra	fra	J'espère que je me suis bien fait comprendre !	J'espère que c'était assez clair !
 fra	fra	J'espère que votre frère est mieux.	J'espère que votre frère se porte mieux.
 fra	fra	J'espère que votre frère est mieux.	J'espère que votre frère se sent mieux.
@@ -1104,6 +1284,7 @@ fra	fra	Je suis allé en vain à la boulangerie, car les petits pains étaient d
 fra	fra	Je suis allé en vain à la boulangerie, car les petits pains étaient déjà épuisés.	Je suis allé pour rien à la boulangerie, car les petits pains étaient déjà tous vendus.
 fra	fra	Je suis chaud boulette.	Je suis remonté comme une pendule.
 fra	fra	Je suis contraint à le faire.	Je suis contraint de le faire.
+fra	fra	Je suis crevé !	Je n'ai plus de jus.
 fra	fra	Je suis d'accord avec la majeure partie de ce qu'il dit.	Je suis en accord avec l'essentiel de ce qu'il dit.
 fra	fra	Je suis d'accord avec lui.	Je suis d’accord avec lui.
 fra	fra	Je suis dans le goût.	J'en ai encore le goût en bouche.
@@ -1118,20 +1299,29 @@ fra	fra	Je suis en train de pisser.	Je suis en train d'uriner.
 fra	fra	Je suis étranger ici.	Je suis un étranger ici.
 fra	fra	Je suis étudiant à l'université Paris IX Dauphine.	Je suis étudiant à Dauphine.
 fra	fra	Je suis étudiant à l'université Paris IX Dauphine.	Je suis étudiant à Paris IX.
+fra	fra	Je suis heureux car je peux les aider.	Je suis heureux, car je peux les aider.
 fra	fra	Je suis hypertendu.	J'ai de l'hypertension.
 fra	fra	Je suis indifférent à l'opinion des autres.	Peu me chaut l'opinion des autres.
+fra	fra	Je suis l’homme le plus intelligent du monde.	Je suis l’homme le plus intelligent au monde.
 fra	fra	Je suis maintenant à l'aéroport.	Je me trouve actuellement à l'aéroport.
 fra	fra	Je suis malade.	Je me sens mal.
 fra	fra	Je suis malade.	Je suis malade !
 fra	fra	Je suis malheureusement contraint de quitter cette maison.	Je suis malheureusement obligé de quitter cette maison.
+fra	fra	Je suis membre du PCF.	Je suis membre du Parti communiste français.
 fra	fra	Je suis né le 22 mars 1962.	Je suis né le vingt-deux mars mille neuf cent soixante-deux.
+fra	fra	Je suis obligé de réussir.	Je suis contraint à réussir.
 fra	fra	Je suis si fatigué que je ne peux pas étudier.	Je ne peux pas étudier tant je suis fatigué.
 fra	fra	Je suis si fatigué que je ne peux pas étudier.	Je suis tellement fatigué que je ne peux pas étudier.
 fra	fra	Je suis sincèrement désolé.	Je suis franchement désolé.
 fra	fra	Je suis squettée.	Je suis fourbue.
 fra	fra	Je suis sûre qu'il m'a confondue avec ma sœur.	Je suis sûr qu'il m'a confondu avec ma sœur.
 fra	fra	Je suis sûr.	Je suis certain.
+fra	fra	Je suis sûr que tu peux te débrouiller toute seule.	Je suis sûr que tu peux te débrouiller seule.
+fra	fra	Je suis sûr que vous pouvez vous débrouiller tous seuls.	Je suis sûr que tous, vous pouvez vous débrouiller seuls.
+fra	fra	Je suis sûr que vous pouvez vous débrouiller toutes seules.	Je suis sûr que toutes, vous pouvez vous débrouiller seules.
+fra	fra	Je suis sûr que vous pouvez vous débrouiller tout seul.	Je suis sûr que vous pouvez vous débrouiller seul.
 fra	fra	Je suis totalement en désaccord.	Je suis d'un tout autre avis.
+fra	fra	Je suis trans.	Je suis transsexuel.
 fra	fra	Je suis très content que l'école soit finie.	Je suis très contente que l'école soit finie.
 fra	fra	Je suis une nouvelle étudiante.	Je suis une nouvelle élève.
 fra	fra	Je suis une vraie bille en anglais.	Je suis complètement nul en anglais.
@@ -1161,6 +1351,8 @@ fra	fra	Je vais au poste de police.	Je vais au commissariat.
 fra	fra	Je vais commencer avec une bière.	Je vais commencer par une bière.
 fra	fra	Je vais faire les courses tous les matins.	Tous les matins je vais faire des courses.
 fra	fra	Je vais le faire.	Je le ferai.
+fra	fra	Je vais lui demander.	Je vais lui poser la question.
+fra	fra	Je vais me jeter un godet, tu viens ?	Je vais me jeter un godet, viens-tu ?
 fra	fra	Je vais repasser un coup de wassingue.	Je vais repasser un coup de serpillère.
 fra	fra	Je vais sur Paris ce weekend.	Je monte à Paris ce week-end.
 fra	fra	Je veux en garder un.	Je veux en garder une.
@@ -1172,6 +1364,7 @@ fra	fra	Je veux que vous laissiez ma famille tranquille.	Je veux que vous foutie
 fra	fra	Je veux savoir quand commence la réunion.	Je vueil sçavoir quant s'en va le conseil commencer.
 fra	fra	Je veux vous poser des questions.	Je veux vous poser quelques questions.
 fra	fra	Je viens d'arriver à la gare.	Je viens d’arriver à la gare.
+fra	fra	Je viens d’avoir cinq ans.	Je viens d’avoir 5 ans.
 fra	fra	Je viens de comprendre.	Mon franc est tombé.
 fra	fra	Je viens de piger.	Mon franc est tombé.
 fra	fra	Je vis une mouche au plafond.	J'ai vu une mouche sur le plafond.
@@ -1182,10 +1375,12 @@ fra	fra	Je voulais juste vérifier mon courrier électronique.	Je voulais juste 
 fra	fra	Je vous ai lâchés.	Je vous ai relâchés.
 fra	fra	Je vous aime plus que je ne peux dire.	Je vous aime davantage que je ne pourrais dire.
 fra	fra	Je vous aime plus que je ne peux dire.	Je vous aime plus que je ne pourrais dire.
+fra	fra	Je vous ai vue entrer dans l'appartement.	Je vous ai vu entrer dans l'appartement.
 fra	fra	Je vous comprends, si vous ne parlez pas trop vite.	Je vous comprends, pourvu que vous ne parliez pas trop vite.
 fra	fra	Je vous en demande cinq euros.	Je vous en demande 5 euros.
 fra	fra	Je vous laisse en pause quinze minutes.	Je vous laisse en pause un quart d'heure.
 fra	fra	Je vous prie de me le donner.	Donnez-moi cela, je vous prie.
+fra	fra	Je vous reçois cinq sur cinq.	Je vous reçois 5 sur 5.
 fra	fra	Je voyage souvent.	Je voyage fréquemment.
 fra	fra	J'ignore ce que je vais faire avec toi.	Je ne sais ce que je vais faire avec toi.
 fra	fra	J'ignore ce que je vais faire de toi.	Je ne sais ce que je vais faire avec toi.
@@ -1194,10 +1389,13 @@ fra	fra	Jim n'est pas encore venu.	Jim n'est pas encore arrivé.
 fra	fra	J'irai à Izu pendant le week-end.	Je vais à Izu cette fin de semaine.
 fra	fra	John et Ann s'aiment.	John et Ann se plaisent.
 fra	fra	Joignez-vous.	Joignez-vous à nous.
+fra	fra	J'ose ne pas être d'accord.	J'ose être en désaccord.
+fra	fra	Joshua a perdu les clés de sa maison.	Joshua a perdu les clefs de sa maison.
 fra	fra	Jouer au Go est ma seule distraction.	Jouer au Go est mon unique distraction.
 fra	fra	J'ouvris la fenêtre.	J'ai ouvert la fenêtre.
 fra	fra	Julie donne un bec à sa fille.	Julie embrasse sa fille.
 fra	fra	J'y arriverai !	Je vais y arriver !
+fra	fra	J'y comprends rien.	J'y comprends que dalle.
 fra	fra	J'y vais au pif.	J'y vais à pouf.
 fra	fra	La bague a une grande valeur.	La bague a una grande valeur.
 fra	fra	La barrière des Röstis sépare la Suisse allemande de la Suisse romande.	Le Röstigraben sépare la Suisse allemande de la Romandie.
@@ -1221,29 +1419,37 @@ fra	fra	La guerre s'est déclenchée en 1939.	La guerre éclata en 1939.
 fra	fra	Laisse-moi tranquille !	Fiche-moi la paix !
 fra	fra	Laisse-moi tranquille !	Lâche-moi les baskets !
 fra	fra	Laissez-moi finir.	Laissez-moi terminer.
+fra	fra	La lettre est timbrée de Berlin.	La lettre porte le cachet de Berlin.
+fra	fra	La levure fait lever la pâte.	La levure fait monter la pâte.
 fra	fra	L'Algérie a besoin d'agriculture.	d'agriculture
+fra	fra	La lumière est allumée chez les voisins.	Il y a de la lumière chez les voisins.
 fra	fra	La lumière lunaire est faible.	La lumière de la lune est faible.
 fra	fra	La lune est visible.	La lune est là.
 fra	fra	La lune se trouve derrière les nuages.	La lune est derrière les nuages.
 fra	fra	La mairie n'est pas loin d'ici.	L'hôtel de ville n'est pas loin d'ici.
 fra	fra	L'Amérique a du pétrole en abondance.	L'Amérique est riche en pétrole.
 fra	fra	L'amour fait des miracles.	L'amour, ça fait des miracles.
+fra	fra	L'anglais est la langue du Ku Klux Klan.	L'anglais est la langue du KKK.
 fra	fra	La note, s'il vous plaît.	J'aimerais la note, je vous prie.
 fra	fra	La notice, pour moi, c'est du chinois !	La notice, pour moi, c'est du javanais !
 fra	fra	La notice, pour moi, c'est du chinois !	La notice, pour moi, c'est du russe !
 fra	fra	La nouvelle affaire dévorait sa fortune.	Ce nouveau projet épuisait sa fortune.
 fra	fra	La nuit dernière, il a vu une soucoupe volante dans le ciel.	La nuit dernière, il a vu un OVNI dans le ciel.
 fra	fra	La parole est d’argent et le silence est d’or.	La parole est d'argent, mais le silence est d'or.
+fra	fra	La plaie guérit progressivement.	Peu à peu, la plaie se cicatrise.
 fra	fra	La plupart du temps, je suis seul.	Le plus souvent, je suis seul.
 fra	fra	La porte resta fermée.	La porte resta close.
 fra	fra	La prochaine fois, je gagnerai la partie.	La prochaine fois je gagnerai la partie.
 fra	fra	La qualité importe plus que la quantité.	La qualité est plus importante que la quantité.
 fra	fra	La récente pénurie de café a donné lieu à un grand nombre de problèmes.	La récente pénurie de café a occasionné un grand nombre de problèmes.
+fra	fra	La réussite n'est pas possible sans un travail assidu.	La réussite est impossible sans un travail assidu.
+fra	fra	La rue est longue de mille mètres.	La rue a une longueur de mille mètres.
 fra	fra	La rumeur se révéla vraie.	La rumeur s'est vérifiée.
 fra	fra	La rumeur s'est avérée vraie.	La rumeur s'est vérifiée.
 fra	fra	La seule alternative à la reddition est de combattre.	La seule alternative à la reddition est de lutter.
 fra	fra	La seule alternative à la reddition est de combattre.	La seule alternative à la reddition est de se battre.
 fra	fra	La société cessa son activité après plusieurs années de baisse de profits.	L'entreprise cessa son activité après plusieurs années de baisse de profits.
+fra	fra	La sœur de ma femme vit chez nous.	La sœur de ma femme habite avec nous.
 fra	fra	La soupe goûte l’ail.	La soupe a le goût de l'ail.
 fra	fra	La température baisse.	La température tombe.
 fra	fra	La thermos de thé a été remplie jusqu'à ras bord.	Le thermos de thé a été rempli jusqu'à ras bord.
@@ -1258,6 +1464,7 @@ fra	fra	L'autre jour, tu avais l'air d'avoir la tête dans le cul.	L'autre jour,
 fra	fra	L'autre jour, tu n'avais pas l'air bien réveillé.	L'autre jour, tu avais l'air d'être dans le cirage.
 fra	fra	L'autre jour, tu n'avais pas l'air bien réveillé.	L'autre jour, tu avais l'air d'être dans le coaltar.
 fra	fra	L'autre jour, tu n'avais pas vraiment les yeux en face des trous.	L'autre jour, tu n'avais pas l'air bien réveillé.
+fra	fra	L'Autriche est un pays de langue allemande.	L'Autriche est un pays germanophone.
 fra	fra	La vache est sortie du pré.	La vache est sortie de la prairie.
 fra	fra	La vache fait "meuh", le coq fait "cocorico", le cochon fait "groin, groin", le canard fait "coin, coin" et le chat fait "miaou".	La vache meugle, le coq chante, le cochon grouine, le canard cancane, et le chat miaule.
 fra	fra	La vache meugle.	La vache beugle.
@@ -1282,11 +1489,13 @@ fra	fra	Le chat se mord la queue.	Ça tourne en rond.
 fra	fra	Le chat s'est fait la malle.	Le chat s'est barré.
 fra	fra	Le chat s'est fait la malle.	Le chat s'est tiré.
 fra	fra	Le chauffage ne fonctionne pas.	Le chauffage ne marche pas.
+fra	fra	Le chien est assis près de la gamelle.	Le chien est assis près de l'écuelle.
 fra	fra	Le chien m'a mordu violemment.	Le chien m'a violemment mordu.
 fra	fra	Le climat n'est plus comme autrefois.	Le climat n'est plus ce qu'il était.
 fra	fra	Le cochon de terre est un animal de taille moyenne.	L'oryctérope est un animal de taille moyenne.
 fra	fra	L'école commence en septembre en Europe.	Les cours commencent en septembre en Europe.
 fra	fra	Le concert fut un succès.	Le concert a été un succès.
+fra	fra	Le concours est presque fini.	Le concours tire à sa fin.
 fra	fra	Le criminel a été envoyé en exil.	Le criminel a été exilé.
 fra	fra	Le dimanche, les magasins sont fermés.	Le dimanche les magasins sont fermés.
 fra	fra	Le dîner est prêt.	Le souper est prêt.
@@ -1299,11 +1508,13 @@ fra	fra	Le jour suivant, Tom est arrivé.	Le lendemain, Tom est arrivé.
 fra	fra	L'elefen est une langue facile et belle.	La lingua franca nova est une langue facile et belle.
 fra	fra	Le lièvre saigne de l'oreille.	Le lièvre saigne à l'oreille.
 fra	fra	Le livre est sur la table.	Le livre se trouve sur la table.
+fra	fra	Le loyer est à payer un mois à l'avance.	Le loyer est à régler avec un mois d'avance.
 fra	fra	Le malheureux a été détroussé.	Le malheureux a été dépouillé.
 fra	fra	Le malheur ne vient jamais seul.	Un malheur n'arrive jamais seul.
 fra	fra	Le manque de transparence est un problème.	Le manque de transparence est problématique.
 fra	fra	Le mari de Marie est rouquin.	Le mari de Marie a les cheveux roux.
 fra	fra	Lemdeɣ iman-iw tira n teqbaylit.	J'ai appris tout seul à écrire le kabyle.
+fra	fra	Le médecin met sa main sur le front de l'enfant malade.	Le médecin pose sa main sur le front de l'enfant malade.
 fra	fra	Le mensonge tue l'amour. Mais la sincérité le tue davantage encore.	Le mensonge tue l'amour. Mais la sincérité le tue encore plus.
 fra	fra	Le mien n'est pas aussi bien que le tien.	Le mien n'est pas aussi bon que le tien.
 fra	fra	Le monde est à nous.	Le monde nous appartient.
@@ -1313,6 +1524,7 @@ fra	fra	L'enfant ne dit mot.	L'enfant ne dit pas un mot.
 fra	fra	Le numéro atomique du fer est le 26.	Le numéro atomique du fer est 26.
 fra	fra	Le panier était plein de pommes.	Le panier était rempli de pommes.
 fra	fra	Le pardon ça se passe entre eux et Dieu, moi je me charge de faire les présentations.	Le pardon ça se passe entre eux et Dieu, moi je me charge de organiser le rendez-vous.
+fra	fra	Le PDG vient de démissionner.	Le président-directeur général vient de démissionner.
 fra	fra	Le petit frigo est crade.	Le petit réfrigérateur est sale.
 fra	fra	Le petit vandale a encore pourri les statistiques.	Le petit vandale a encore perverti les statistiques.
 fra	fra	Le petit vandale a encore pourri les statistiques.	Le petit vandale a encore saboté les statistiques.
@@ -1320,6 +1532,7 @@ fra	fra	Le pétrole se vendait à perte.	Le pétrole se mévendait.
 fra	fra	Le pont est à un mille en amont.	Le pont est à 1852 mètres en amont.
 fra	fra	Le pont fut construit en deux ans.	Le pont prit deux ans à construire.
 fra	fra	Le premier instrument du génie d'un peuple, c'est sa langue.	Bei der Wesensart eines Volkes spielt die Sprache die erste Geige.
+fra	fra	Le président est entouré de tous ses gorilles, impossible de s'en approcher.	Le président est entouré de tous ses gardes du corps, impossible de s'en approcher.
 fra	fra	Le principe du spam consiste à envoyer des messages à tire-larigot.	Le principe du spam consiste à envoyer des messages à tirelarigot.
 fra	fra	Le prix est bas mais la qualité n'est pas très bonne.	Le prix est bas mais la qualité est médiocre.
 fra	fra	Le problème n'en a été que plus compliqué.	Ça n'a fait que compliquer le problème.
@@ -1334,14 +1547,20 @@ fra	fra	Les articles pour messieurs sont vendus au premier étage.	Les articles 
 fra	fra	Les chats errants représentent une menace majeure pour la faune sauvage.	Les chats harets représentent une menace majeure pour la faune sauvage.
 fra	fra	Les chats peuvent voir dans l'obscurité.	Les chats sont nyctalopes.
 fra	fra	Les chiens et les chats se disputent avec plaisir.	Les chiens et les chats se chamaillent avec plaisir.
+fra	fra	Les clignotants ne marchent plus.	Les clignotants ne fonctionnent plus.
+fra	fra	Les clignotants ne marchent plus.	Les feux clignotants ne fonctionnent plus.
+fra	fra	Les clignotants ne marchent plus.	Les feux clignotants ne marche plus.
 fra	fra	Les cours débutent le matin à huit heures trente.	La classe commence le matin à huit heures et demie.
 fra	fra	Les dés sont jetés.	Les dés sont sur le tapis.
 fra	fra	Les deux frères sont encore en vie.	Les deux frères sont toujours vivants.
 fra	fra	Les églises les plus belles sont les églises baroques.	Les églises baroques sont les plus belles.
+fra	fra	Le sel de cuisine est constitué d'atomes de sodium et de chlore.	Le sel alimentaire est constitué d'atomes de sodium et de chlore.
+fra	fra	Le sel de table est constitué d'atomes de sodium et de chlore.	Le sel de cuisine est constitué d'atomes de sodium et de chlore.
 fra	fra	Les enfants les plus âgés aidaient les plus jeunes.	Les aînés aidaient leurs cadets.
 fra	fra	Les enfants s'amusent en jouant à loup touche-touche.	Les enfants s'amusent en jouant au loup glacé.
 fra	fra	Les exercices sont bons pour la santé.	Faire des exercices est bon pour la santé.
 fra	fra	Les faux billets ont inondé le marché pendant le week-end.	Les faux billets ont inondé le marché pendant la fin de semaine.
+fra	fra	Les fenêtres donnent sur la rue.	Les fenêtres font face à la rue.
 fra	fra	Les fortes pluies m'ont empêché de sortir.	Les fortes pluies m'ont empêchée de sortir.
 fra	fra	Les fruits tentent violemment les enfans, il n'est pas de gestes qu'ils n'employent pour faire connaître leur goût: il faut leur faire perdre cette habitude.	Les fruits tentent violemment les enfants, il n'est pas de gestes qu'ils n’emploient pour faire connaître leur goût: il faut leur faire perdre cette habitude.
 fra	fra	Les gras trans sont mauvais pour la santé.	Les acides gras trans sont mauvais pour la santé.
@@ -1349,6 +1568,8 @@ fra	fra	Les grenouilles sautent d'un nénufar à l'autre.	Les grenouilles sauten
 fra	fra	Les idées vertes incolores dorment furieusement.	Des idées vertes incolores dorment furieusement.
 fra	fra	Les jeunes claquent du bec.	Les jeunes meurent de faim.
 fra	fra	Les jours d'abondance sont terminés.	Les jours d'abondance sont finis.
+fra	fra	Les Juifs sont avides.	Les Juifs sont cupides.
+fra	fra	Les marchands de lacets sont postés au coin de la rue, préviens les autres !	Les gendarmes sont postés au coin de la rue, préviens les autres !
 fra	fra	Les mathématiques sont ma matière préférée.	Les mathématiques sont ma matière favorite.
 fra	fra	Les oiseaux ont becqueté nos fruits.	Les oiseaux ont becté nos fruits.
 fra	fra	Le soleil est sur le point de se coucher.	Le soleil va bientôt se coucher.
@@ -1359,7 +1580,10 @@ fra	fra	L'espagnol est sa langue maternelle.	L'espagnol est sa langue autochtone
 fra	fra	L'esperluette symbolise la ligature de la conjonction.	La perluette symbolise la ligature de la conjonction.
 fra	fra	L'esperluette symbolise la ligature de la conjonction.	L'esperluète symbolise la ligature de la conjonction.
 fra	fra	Les premières dents de mon frère sont sorties.	Les premières dents de mon frère ont percé.
+fra	fra	Les prix ont presque doublé en seulement quelques mois.	Les prix ont presque doublé en quelques mois seulement.
 fra	fra	Les rameaux qui en donnent le plus sont ceux qui pendent le plus vers le bas.	Les ramures les plus abondantes sont celles qui pendent le plus vers le bas.
+fra	fra	Les rivières se sont arrêtées de couler.	Les rivières ont cessé de couler.
+fra	fra	Les surnoms que vous créiez n'étaient pas polis.	Les surnoms que vous créiez étaient impolis.
 fra	fra	Les tables avaient trois mètres de longueur.	Les tables faisaient trois mètres de long.
 fra	fra	Les Tigres ont perdu le match, ce qui fut pour nous une surprise.	Les Tigres ont perdu le match, à notre grande surprise.
 fra	fra	Le stylo à bille est sur la table.	Le bic est sur la table.
@@ -1367,6 +1591,8 @@ fra	fra	Le stylo est sur la table.	Le stylo à plume est sur la table.
 fra	fra	Le stylo est sur la table.	Le stylo-plume est sur la table.
 fra	fra	Les voyais-tu ?	Tu les voyais ?
 fra	fra	Le système entrera bientôt en vigueur.	Le système sera bientôt en vigueur.
+fra	fra	Le talent est là !	Tu t'en sors pas mal !
+fra	fra	Le talent est là !	Vous vous en sortez très bien !
 fra	fra	Le temps me manque.	Il me manque du temps.
 fra	fra	Le titre du récit en dévoile le dénouement.	Le titre du récit dévoile la chute.
 fra	fra	Le traducteur est un traître.	La traduction est une trahison.
@@ -1379,6 +1605,7 @@ fra	fra	L'histoire objective existe-t-elle ?	L'objectivité est-elle possible en
 fra	fra	L'homme est le chasseur, la femme son gibier.	L'homme est le chasseur, la femme est son gibier.
 fra	fra	L'incendie a débuté dans la chambre de Tom.	L'incendie a commencé dans la chambre de Tom.
 fra	fra	Lire a ses règles.	La lecture a ses règles.
+fra	fra	Lisez de la ligne dix à la ligne vingt !	Lisez de la ligne dix jusqu'à la ligne vingt !
 fra	fra	L'offre est trop intéressante pour être rejetée.	L'offre est trop intéressante pour qu'on la rejette.
 fra	fra	Louise Labé est une poétesse.	Louise Labé est une femme poète.
 fra	fra	L'oxygène et l'hydrogène forment l'eau.	L'eau est composée d'oxygène et d'hydrogène.
@@ -1393,11 +1620,13 @@ fra	fra	Maintenant, je te présenterai mes parents.	Je vais à présent te prés
 fra	fra	Maintenant tu lis mes pensées.	Maintenant vous lisez mes pensées.
 fra	fra	Ma jauge à essence est à zéro.	Ma jauge à essence se trouve sur zéro.
 fra	fra	Malgré le mauvais temps, nous sommes sortis quand même.	En dépit du mauvais temps, nous sommes sortis tout de même.
+fra	fra	Malgré sa pauvreté, Tom n'a pas l'air d'être mécontent de la vie.	Malgré sa pauvreté, Tom ne semble pas insatisfait de la vie.
 fra	fra	Ma mère m'a appris le savoir-vivre.	Ma mère m'a appris les bonnes manières.
 fra	fra	Ma mère m'a appris le savoir-vivre.	Ma mère m'a enseigné les bonnes manières.
 fra	fra	Ma pile bouton a coulé.	Ma pile bouton s'est corrodée.
 fra	fra	Marie a connu son petit ami à Paris.	Marie a fait connaissance de son petit ami à Paris.
 fra	fra	Marie a la nationalité française et la nationalité allemande.	Marie a la nationalité française et allemande.
+fra	fra	Marie a tellement de choses à faire.	Marie a tant à faire.
 fra	fra	Marie donne le sein à son bébé.	Marie allaite son bébé.
 fra	fra	Marie enseigne le yoga.	Mary enseigne le yoga.
 fra	fra	Marie est complètement folle.	Marie est totalement disjonctée.
@@ -1407,19 +1636,26 @@ fra	fra	Marie jure avoir vu le diable en personne.	Marie jure qu'elle aurait vu 
 fra	fra	Marie ne l'a plus supporté.	Marie ne pouvait plus le supporter.
 fra	fra	Marie ne pouvait s'empêcher de le trouver mignon.	Marie ne pouvait pas s'empêcher de le trouver mignon.
 fra	fra	Marie se lève tôt de son plein gré.	Marie se lève tôt volontairement.
+fra	fra	Marie se met à écrire les invitations.	Marie commence à écrire les invitations.
 fra	fra	Ma traduction colle-t-elle ?	Ma traduction correspond-elle ?
 fra	fra	Ma voiture a été volée. Elle n'est pas où je l'ai stationnée.	Ma voiture a été volée. Elle n'est pas où je l'ai garée.
 fra	fra	Ma voiture n'a pas assez de puissance.	Ma voiture n'a pas assez de chevaux.
+fra	fra	Méfie-toi de Jean, c'est un ancien taulard !	Méfie-toi de Jean, c'est un ancien prisonnier !
+fra	fra	Méfie-toi de Jean, c'est un ancien taulard !	Méfie-toi de Jean, c'est un ancien ratier !
 fra	fra	Même si les voyoux tourmentent constamment ma fille strabique, elle sait qu'elle est la plus intelligente de toutes.	Même si les baveux agacent tout le temps ma fille aux yeux croches, à sait qu'est la plus smatte de toutes.
+fra	fra	Merci de m'avoir aidé à rédiger mon CV.	Merci pour m'avoir aidée à rédiger mon curriculum vitæ.
 fra	fra	Merci de nous indiquer rapidement, si ce rendez-vous vous convient ou si vous en préférez un autre.	Merci de nous indiquer rapidement, si cette date vous convient ou si vous en préférez une autre.
 fra	fra	« Merci ! » « De rien ! »	« Merci ! » « De rien ! »
 fra	fra	« Merci. » « De rien. »	« Merci ! » « De rien ! »
+fra	fra	Merci pour les conseils !	Merci pour vos conseils !
+fra	fra	Merci pour les conseils !	Merci pour vos explications !
 fra	fra	Merci pour tes retours.	Merci de tes retours.
 fra	fra	Merci pour vos retours.	Merci de vos retours.
 fra	fra	Merde !	Fais chier !
 fra	fra	Mère nous a préparé le déjeuner.	Mère nous prépara à déjeuner.
 fra	fra	Mes jours s'en sont allés errant.	Mes jours s'en sont allez errant.
 fra	fra	Mes parents m'ont contraint d'y aller.	Mes parents m'ont forcée à y aller.
+fra	fra	Mes parents ne vivent pas avec nous.	Mes parents n'habitent pas avec nous.
 fra	fra	Mets à place ton beau dessin avant que ton petit frère ne griffonne dessus !	Mets ton beau dessin en sécurité avant que ton petit frère ne griffonne dessus !
 fra	fra	Mets la poêle sur le poêle.	Pose le pot sur le poêle.
 fra	fra	Mets-toi là !	Mets-toi ici !
@@ -1453,7 +1689,11 @@ fra	fra	Montre-moi une autre montre.	Fais-moi voir une autre montre.
 fra	fra	Muiriel est une Indienne.	Muiriel est indienne.
 fra	fra	Ne confondons pas l'Amérique et les États-Unis, les Américains avec les Étasuniens.	Ne confondons pas l'Amérique avec les États-Unis, ni les Américains avec les habitants des États-Unis d'Amérique du Nord.
 fra	fra	Ne fais rien que tu ne veuilles pas qu'on te voie faire en mourant.	Ne fais rien que tu ne veuilles pas qu'on te chope en train de faire en mourant.
+fra	fra	Ne la laisse pas conduire !	Ne la laisse pas prendre le volant !
+fra	fra	Ne la laissez pas conduire !	Ne la laissez pas prendre le volant !
 fra	fra	Ne le fais pas encore une fois !	Ne refais pas ça !
+fra	fra	Ne le laisse pas conduire !	Ne le laisse pas prendre le volant !
+fra	fra	Ne le laissez pas conduire !	Ne le laissez pas prendre le volant !
 fra	fra	Ne me dites pas de me détendre !	Ne me dis pas de me détendre !
 fra	fra	Ne mets pas tes doigts dans ta bouche, ils sont tout dégoûtants.	Ne mets pas tes doigts en bouche, ils sont tout dégoûtants.
 fra	fra	Ne mets pas tes doigts dans ta bouche, ils sont tout dégoûtants.	Ne porte pas tes doigts à ta bouche, ils sont tout dégoûtants.
@@ -1482,6 +1722,7 @@ fra	fra	Non !	Non !
 fra	fra	Non, rien qu'une.	Non, une seulement.
 fra	fra	Notre maison est sur le bord de la route.	Notre maison se trouve au bord de la route.
 fra	fra	N'oublie pas tes affaires.	N'oublie pas tes gaules.
+fra	fra	N’oubliez pas vos clés.	N’oubliez pas vos clefs.
 fra	fra	Nous aidions les pauvres.	Nous avons aidé les pauvres.
 fra	fra	Nous attendons votre réponse depuis déjà plus d'une semaine.	Nous attendons depuis déjà plus d'une semaine votre réponse.
 fra	fra	Nous avons choisi le chauffage central au bois.	Nous avons opté pour le chauffage central au bois.
@@ -1497,6 +1738,7 @@ fra	fra	Nous essayerons.	Nous tenterons.
 fra	fra	Nous étions deux, mais n'avions qu'un cœur.	Deux estions et n’avions qu'ung cuer.
 fra	fra	Nous ferions mieux de le dire aux autres.	Nous ferions mieux d'en faire part aux autres.
 fra	fra	Nous fûmes coincées dans la circulation.	Nous avons été coincées dans la circulation.
+fra	fra	Nous grandissons les autres, à tel point que certains d'entre eux nous méprisent.	Nous grandissons les autres, à tel point que certains d'entre eux nous snobent.
 fra	fra	Nous jouions aux échecs tous les matins.	On jouait aux échecs tous les matins.
 fra	fra	Nous mangeons ici.	Pour ici, s'il vous plaît.
 fra	fra	Nous n'avons rien à becter.	Nous n'avons rien à becqueter.
@@ -1507,15 +1749,20 @@ fra	fra	Nous pique-niquâmes ensemble.	Nous avons pique-niqué ensemble.
 fra	fra	Nous pouvons voyager à travers le temps. Et nous le faisons à une vitesse remarquable d'une seconde par seconde.	Nous pouvons voyager dans le temps. Et nous le faisons à la vitesse incroyable d’une seconde par seconde.
 fra	fra	Nous prîmes langue.	Nous prîmes contact.
 fra	fra	Nous réfléchirons à cela lorsque le moment arrivera.	Nous réfléchirons à cela lorsque le moment viendra.
+fra	fra	Nous sommes à cent cinquante quatre mètres d'altitude.	Nous sommes à 154 mètres d'altitude.
 fra	fra	Nous sommes à jamais responsables de ceux que nous avons apprivoisés.	Tu deviens responsable pour toujours de ce que tu as apprivoisé.
+fra	fra	Nous sommes à trois kilomètres de la côte.	Nous sommes à 3 kilomètres de la côte.
 fra	fra	Nous sommes en l'an deux mille vingt.	Nous sommes en l'an 2020.
 fra	fra	Nous sommes le combien ?	Le quantième sommes-nous ?
 fra	fra	Nous sommes parvenus à garder l'église au milieu du village.	Nous avons réussi à ménager la chèvre et le chou.
 fra	fra	Nous sommes tous les trois étudiants.	Nous sommes tous trois étudiants.
 fra	fra	Nous vomissions.	Nous rendions.
+fra	fra	Nous voulons le changer car ils ne l'aiment pas.	Nous voulons le changer, car ils ne l'aiment pas.
+fra	fra	Nul vent fait pour celui qui n'a point de port destiné.	Aucun vent n'est favorable à celui qui ne sait vers quel lieu naviguer.
 fra	fra	Ohé, il y a quelqu'un ici ?	Ohé, est-ce qu'il y a quelqu'un ici ?
 fra	fra	Oh peuchère !	Oh sacrebleu !
 fra	fra	Oh, qu'il est mignon ! Puis-je le caresser ?	Oh, qu'il est mignon ! Ai-je le droit de le caresser ?
+fra	fra	Oh, toi aussi, t'es là ?	Oh, toi aussi, tu es là ?
 fra	fra	Oliver trouve agréable de jouer aux legos.	Oliver aime jouer aux legos.
 fra	fra	On a appelé mon numéro le dernier.	Mon numéro a été appelé en dernier.
 fra	fra	On a douillé.	Ça nous a coûté cher.
@@ -1524,6 +1771,7 @@ fra	fra	On a passé la journée à baiser.	On a passé la journée à s'envoyer 
 fra	fra	On apprend à tout âge.	Tu n'es pas trop vieux pour apprendre.
 fra	fra	On attrapa le voleur la main dans le sac.	On attrapa le voleur sur le fait.
 fra	fra	On a une heure de fourche après le cours de maths.	On a une heure de battement après le cours de maths.
+fra	fra	On devrait faire casquer les riches.	On devrait faire payer les riches.
 fra	fra	On est jamais trop vieux pour apprendre.	Tu n'es pas trop vieux pour apprendre.
 fra	fra	On ferait mieux de sortir d'ici !	Nous ferions mieux de sortir d'ici !
 fra	fra	On la connait depuis des années.	Nous la connaissons depuis des années.
@@ -1545,13 +1793,16 @@ fra	fra	On peut le dire de deux façons.	On peut le dire de deux manières.
 fra	fra	On peut sûrement trouver un taxi à la gare.	Chiche qu'il y aura des taxis à la gare.
 fra	fra	On s'arrache.	On met les bouts.
 fra	fra	On s'en fout !	On s'en tape !
+fra	fra	On s'en tirera.	On va s'en tirer.
 fra	fra	On s'est encore chopé une belle drache hier !	On s'est encore pris une belle drache hier !
 fra	fra	On utilise cet insecticide depuis deux ans.	Ça fait deux ans qu'on utilise cet insecticide.
 fra	fra	On utilise seulement dix pour cent de son cerveau.	On n'utilise que dix pour cent de son cerveau.
+fra	fra	On va se jeter un godet, tu nous rejoins ?	On va se jeter un godet, nous rejoins-tu ?
 fra	fra	Où ai-je mis ma clé ?	Qu'est-ce que j'ai fait de ma clé ?
 fra	fra	Où avez-vous caché mon carnet de notes ?	Où avez-vous caché mon agenda ?
 fra	fra	Où ce train va-t-il ?	Où va ce train ?
 fra	fra	Où est le pont?	Où se trouve le pont ?
+fra	fra	Où est leur voiture rouge ?	Où est leur auto rouge ?
 fra	fra	Où est ma montre ?	Où est ma montre ?
 fra	fra	Où est sa famille ?	Où est sa famille ?
 fra	fra	Où es-tu né ?	Tu es né où ?
@@ -1560,6 +1811,8 @@ fra	fra	Où petit-déjeunerons-nous aujourd'hui ?	Où prenons-nous le petit-déj
 fra	fra	Où prendrons-nous notre petit-déjeuner aujourd'hui ?	Où petit-déjeunerons-nous aujourd'hui ?
 fra	fra	Où se trouve le magasin le plus proche ?	Où se trouve le magasin le plus proche ?
 fra	fra	Où se trouve ton école ?	Où est ton école ?
+fra	fra	Où sont mes clés ?	Où sont mes clefs ?
+fra	fra	Où sont placés les adjectifs la plupart du temps ?	Où se trouvent généralement les adjectifs ?
 fra	fra	Où sont tes clés ?	Où sont tes clefs ?
 fra	fra	Où suis-je ?	Où suis-je ?
 fra	fra	Où Tom a-t-il mis son vélo ?	Où Tom a-t-il mis sa bicyclette ?
@@ -1600,20 +1853,24 @@ fra	fra	Peut-être n'y voyez-vous pas très bien ?	Peut-être ne voyez-vous pas 
 fra	fra	Peut-être qu'il ne sera jamais célèbre.	Il ne sera peut-être jamais célèbre.
 fra	fra	Peut-être qu'il ne sera jamais célèbre.	Peut-être ne sera-t-il jamais célèbre.
 fra	fra	Peux-tu les obtenir ?	Pouvez-vous les obtenir ?
+fra	fra	Peux-tu me montrer comment ça fonctionne ?	Peux-tu me montrer comment ça marche ?
 fra	fra	Peux-tu me prêter cinquante euros ?	Peux-tu me prêter 50 euros ?
 fra	fra	Peux-tu m'organiser une rencontre avec elle ?	Peux-tu m’arranger un rendez-vous avec elle ?
 fra	fra	Plus qu'une fois dormir.	Plus qu'un dodo.
 fra	fra	Plus tu étudies, plus tu as envie d'étudier.	Plus tu apprends, plus tu as envie d'apprendre.
 fra	fra	Pour arranger les choses, sa femme est tombée malade.	Pour ne pas arranger les choses, sa femme est tombée malade.
+fra	fra	Pour l'instant, c'est simple.	Pour l'instant, c'est facile.
 fra	fra	Pour maîtriser une langue, il faut énormément de pratique.	La maîtrise d'une langue étrangère vient de la parler souvent.
 fra	fra	Pour ma part, je ne pourrai pas assister à la réunion d'aujourd'hui.	Quant à moi, je ne pourrai pas assister à la réunion d'aujourd'hui.
 fra	fra	Pour quelle raison es-tu ici ?	Pour quelle raison es-tu là ?
 fra	fra	Pour qui travailles-tu ?	Pour qui travailles-tu ?
+fra	fra	Pour qui tu te prends ?	Pour qui te prends-tu ?
 fra	fra	Pourquoi as-tu menti ?	Pourquoi as-tu menti ?
 fra	fra	Pourquoi es-tu ici ?	Pour quelle raison es-tu ici ?
 fra	fra	Pourquoi es-tu ici ?	Pourquoi es-tu là ?
 fra	fra	Pourquoi es-tu si triste ?	Pourquoi es-tu si triste ?
 fra	fra	« Pourquoi êtes-vous en colère ? » «Je ne suis pas en colère ! »	« Pourquoi êtes-vous fâché ? » «Je ne suis pas fâché ! »
+fra	fra	Pourquoi ils t'appellent comme ça ?	Pourquoi ils vous appellent comme ça ?
 fra	fra	Pourquoi ne me faites-vous pas confiance ?	Pourquoi n'avez-vous pas confiance en moi ?
 fra	fra	Pourquoi ne me préviens-tu pas ?	Pourquoi ne m'avertis-tu pas ?
 fra	fra	Pourquoi ne peux-tu venir ?	Pourquoi ne peux-tu pas venir ?
@@ -1621,9 +1878,11 @@ fra	fra	Pourquoi ne poses-tu pas ta candidature pour le poste de charcutier ?	Po
 fra	fra	Pourquoi riez-vous ?	Pourquoi rigolez-vous ?
 fra	fra	Pourquoi s'en est-elle allée si tôt ?	Pourquoi est-elle partie si tôt ?
 fra	fra	Pourquoi tant de haine ?	Pourquoi tant de haine ?
+fra	fra	Pourquoi t'assieds-tu là ?	Pourquoi t'assieds-tu ici ?
 fra	fra	Pourquoi ton chat est-il si gros ?	Pourquoi ton chat est-il si grand ?
 fra	fra	Pourquoi tu petit-déjeunes en pyjama ?	Pourquoi tu prends ton petit-déjeuner en pyjama ?
 fra	fra	Pourquoi tu souris ?	Pourquoi souris-tu ?
+fra	fra	Pourquoi vous asseyez-vous là ?	Pourquoi vous asseyez-vous ici ?
 fra	fra	Pourrais-tu fermer la fenêtre s'il te plaît ?	Veux-tu bien fermer la fenêtre ?
 fra	fra	Pourriez-vous me prêter de l'argent jusqu'au week-end prochain ?	Pourriez-vous me prêter de l'argent jusqu'à la fin de semaine prochaine ?
 fra	fra	Pourriez-vous venir nous voir ?	Pourriez-vous nous rendre visite ?
@@ -1631,6 +1890,9 @@ fra	fra	Pour une fois dans ma vie je fais un bon geste... Et ça ne sert à rien
 fra	fra	« Pouvez-vous m'aider, s'il vous plait ? » « Bien sûr. »	« Pouvez-vous m'aider, s'il vous plait ? » « Bien entendu. »
 fra	fra	Préchauffez le four à 180°C.	Préchauffez le four à cent quatre-vingts degrés Celsius.
 fra	fra	Prends tes gaules, on se casse.	Prends tes affaires, on se casse.
+fra	fra	Prenez de quoi casser la croûte !	Prenez de quoi casser la graine !
+fra	fra	Prenez de quoi casser la croûte !	Prenez de quoi manger !
+fra	fra	Puis-je aller au cinéma demain ?	Je peux aller au cinéma demain ?
 fra	fra	Puis-je jeter un coup d'œil au menu ?	Pourrais-je regarder le menu ?
 fra	fra	Puis-je manger ce gâteau ?	Puis-je manger ce gâteau ?
 fra	fra	Puis-je ouvrir une boîte ?	Est-ce que je peux ouvrir une boîte ?
@@ -1644,8 +1906,11 @@ fra	fra	Quand j'étais enfant on me donnait la fessée si je faisais une bêtise
 fra	fra	Quand pars-tu ?	Quand pars-tu ?
 fra	fra	Quand rencontres-tu tes clients ?	Quand rencontrez-vous vos clients ?
 fra	fra	Quand seras-tu libre ?	Quand seras-tu libre ?
+fra	fra	Quand Tom m'a vu, il s'est tu.	Lorsque Tom m'a vu, il a cessé de parler.
+fra	fra	Quand Tom m'a vu, il s'est tu.	Quand Tom m'a vu, il est devenu muet.
 fra	fra	Quand voulez-vous partir ?	Quand voulez-vous y aller ?
 fra	fra	Qu'as-tu fait cette semaine ?	Qu'as-tu fait cette semaine ?
+fra	fra	Qu'a volé ce voleur ?	Ce voleur a volé quoi ?
 fra	fra	Que fais-tu sur la voiture ? Descends tout de suite !	Que fais-tu sur la voiture ? Descends de là immédiatement !
 fra	fra	Que feraient-ils sans nous ?	Que feraient-ils sans nous ?
 fra	fra	Quel âge a l'univers ?	Quel est l'âge de l'univers ?
@@ -1661,7 +1926,9 @@ fra	fra	Quelle affreuse chaleur, n'est-ce pas ?	Quelle épouvantable chaleur, n'
 fra	fra	Quelle balance !	Poucave !
 fra	fra	Quelle belle journée !	Quelle belle journée !
 fra	fra	Quelle chance tu as !	Quelle chance tu as !
+fra	fra	Quelle enflure !	Quel enfoiré !
 fra	fra	Quelle est la date aujourd'hui ?	Le quantième sommes-nous ?
+fra	fra	Quelle est la différence entre elles ?	Qu'est-ce qui les différencie ?
 fra	fra	Quelle est la montagne la plus haute au monde ?	Quelle est la montagne la plus haute du monde ?
 fra	fra	Qu'elle est minouche, cette gamine !	Comme cette gamine est mignonne !
 fra	fra	Quelle est sa pointure ?	Quelle est sa pointure?
@@ -1673,6 +1940,7 @@ fra	fra	Quelle mouche t'a piqué ?	Quelle mouche t'as piqué ?
 fra	fra	Quelles langues parle-t-on en Corée ?	Quelles langues parlent-ils en Corée ?
 fra	fra	Quelles sont tes réflexions à ce sujet ?	Quelles sont vos réflexions à ce sujet ?
 fra	fra	Quelle voiture as-tu ?	Quel genre de voiture as-tu ?
+fra	fra	Quel noceur !	Quel fêtard !
 fra	fra	Quel pisse-froid celui-là !	Quel rabat-joie celui-là !
 fra	fra	Quelqu'un a pété dans l'ascenseur.	Quelqu'un a lâché une caisse dans l'ascenseur.
 fra	fra	Quelqu'un a-t-il un tire-bouchon ?	Quelqu'un ici a-t-il un tire-bouchon ?
@@ -1688,6 +1956,7 @@ fra	fra	Qu'en pensez-vous ? Ce serait chouette !	Qu'en pensez-vous ? Ce serait g
 fra	fra	Qu'en pensez-vous ?	Qu'en pensez-vous ?
 fra	fra	Que pensez-vous de notre succès ?	Que dites-vous de notre succès ?
 fra	fra	Que s'est-il passé ensuite ?	Que s'est-il produit ensuite ?
+fra	fra	Qu'est-ce que cela signifie ?	Qu'est-ce que cela signifie ?
 fra	fra	Qu'est-ce que c'est mauvais !	Qu'est-ce que c'est nul !
 fra	fra	Qu'est-ce que c'est que ça ?	Quésaco ?
 fra	fra	Qu'est-ce que c'est que ce bricolage à la noix ?	Qu'est-ce que c'est que ce bricolage à la mords-moi-le-nœud ?
@@ -1698,8 +1967,11 @@ fra	fra	Qu'est-ce qu'elle voit ?	Que voit-elle ?
 fra	fra	Qu'est-ce ?	Quésaco ?
 fra	fra	Qu'est-ce que tu deviens ?	Que deviens-tu ?
 fra	fra	Qu'est ce que tu en penses ?	Qu’est-ce que tu en penses ?
+fra	fra	Qu'est-ce que tu fais demain soir ?	Que fais-tu demain soir ?
+fra	fra	Qu'est-ce que tu fais demain soir ?	Tu fais quoi demain soir ?
 fra	fra	Qu'est ce que tu fais maintenant ?	Qu'est ce que tu fais maintenant ?
 fra	fra	Qu'est-ce que tu fais ?	Tu fais quoi ?
+fra	fra	Qu'est-ce que tu veux dire exactement ?	Qu'est-ce que tu cherches à dire exactement ?
 fra	fra	Qu'est-ce qui est écrit sur la pierre ?	Qu'y a-t-il d'écrit sur la pierre ?
 fra	fra	Qu'est-ce qu'il s'est passé ici ?	Que s'est-il passé ici ?
 fra	fra	Qu'est-ce qu'ils sont étroits ces escaliers!	Que ces escaliers sont étroits !
@@ -1707,7 +1979,9 @@ fra	fra	Qu'est-ce qu'il y a ?	Qu'est-ce qu'il se passe ?
 fra	fra	Qu'est-il advenu de tout cet argent ?	Qu'est-il advenu de tout cet argent ?
 fra	fra	Qu'es-tu en train de faire ?	Qu'es-tu en train de faire ?
 fra	fra	Que Tom ne soit pas un travailleur assidu, c'est un secret de Polichinelle.	C'est un secret pour personne que Tom n'est pas un travailleur assidu.
+fra	fra	Que ton discours atteigne les oreilles de Dieu !	Que Dieu t'entende !
 fra	fra	Que veux-tu manger ?	Que veux-tu manger ?
+fra	fra	Que voulait faire Thomas ?	Qu'est-ce que Thomas voulait faire ?
 fra	fra	Que voulez-vous manger ?	Qu'aimeriez-vous manger ?
 fra	fra	Qui a écrit ça ?	Qui a écrit cela ?
 fra	fra	Qui a inventé cela ?	Qui a inventé ça ?
@@ -1724,9 +1998,15 @@ fra	fra	Qui ne risque rien n'a rien.	À vaincre sans péril, on triomphe sans gl
 fra	fra	Qui que ce soit vous a-t-il vu ?	Quiconque vous a-t-il vu ?
 fra	fra	Qui voudrait lire un aussi gros livre?	Qui voudrait lire un livre aussi épais ?
 fra	fra	Qui vous a appris l'allemand ?	Qui vous a enseigné l'allemand ?
+fra	fra	Qui vous a dit ça ?	Qui vous a dit cela ?
 fra	fra	Qu'y a-t-il à manger aujourd'hui ?	Qu'est-ce qu'on mange aujourd'hui ?
 fra	fra	Qu'y a-t-il à voir ici ?	Que peut-on voir ici ?
+fra	fra	Radine tout de suite !	Arrive tout de suite !
+fra	fra	Radine tout de suite !	Viens tout de suite !
 fra	fra	Range-ça, sinon on va croire que c'est un copion.	Range-ça, sinon on va croire que c'est une anti-sèche.
+fra	fra	Range-les avant qu'on ne glisse dessus !	Range-les avant qu'on glisse dessus !
+fra	fra	Rangez-les avant qu'on glisse dessus !	Rangez-les avant qu'on ne glisse dessus !
+fra	fra	Refais-le, s'il te plaît !	Recommence, s'il te plaît!
 fra	fra	Réfléchis !	Réfléchis!
 fra	fra	Regarde cette fille aller flirter avec cet homme.	Regarde la fille aller chafouiner avec ce type.
 fra	fra	Regarde cette montagne.	Qqim deg udrar
@@ -1740,10 +2020,14 @@ fra	fra	Ressaisis-toi !	Reprends-toi !
 fra	fra	Restez à distance du feu.	Restez loin du feu.
 fra	fra	Restez tranquilles pendant que je parle.	Tais-toi pendant que je parle.
 fra	fra	Rien n'est plus facile !	Rien de plus facile que ça !
+fra	fra	Rima s'habille depuis longtemps en bikini à la plage.	Rima porte depuis longtemps un bikini à la plage
 fra	fra	Sacrément bien sapée, cette gonzesse !	Sacrément bien sapée, cette nana !
 fra	fra	Sacré ordinateur !	Maudit ordinateur !
 fra	fra	Sais-tu ce qu'il veut manger ce soir ?	Est-ce que tu sais ce qu'il veut manger ce soir ?
 fra	fra	Sais-tu où se trouve la gare ?	Sais-tu où est la gare ?
+fra	fra	Sait-elle mentir à bon escient ?	Sait-elle mentir avec discernement ?
+fra	fra	Sale feuj.	Sale juif.
+fra	fra	Sale pute.	Sale tepu.
 fra	fra	Sa mère s'inquiète à son sujet.	Sa mère se fait du souci à son sujet.
 fra	fra	Sam est plus jeune que Tom de deux ans.	Sam a deux ans de moins que Tom.
 fra	fra	Sami fit la plus grande erreur de sa vie.	Sami fit la plus grosse erreur de sa vie.
@@ -1762,6 +2046,8 @@ fra	fra	Ses parents sont très beaux, mais elle, elle n'a rien de spécial.	Ses 
 fra	fra	Ses romans et ses nouvelles sont célèbres.	Ses romans et ses nouvelles sont fameux.
 fra	fra	Ses vêtements sont démodés.	Ses vêtements sont passés de mode.
 fra	fra	Shakespeare est le plus grand poète qu'ait jamais engendré l'Angleterre.	Shakespeare est le plus grand poète que l'Angleterre ait jamais vu naître.
+fra	fra	Si ça continue comme ça, je vais péter un câble !	Si ça continue comme ça, je vais fondre un fusible !
+fra	fra	Si ça continue comme ça, je vais péter un câble !	Si ça continue comme ça, je vais péter une durite !
 fra	fra	Si c'est possible, je veux maintenant rentrer à la maison.	Maintenant je veux rentrer à la maison, si possible.
 fra	fra	Si j'ai bien compté tu as mangé trois sandwiches au jambon.	Si j'ai compté correctement tu as mangé trois sandwiches au jambon.
 fra	fra	Si, j'aime les légumes.	Si, je préfère les légumes.
@@ -1776,6 +2062,7 @@ fra	fra	Si je suis en retard, ne m'attendez pas.	Si je suis en retard, ne m'atte
 fra	fra	Si j'étais plus jeune et plus riche, tu m'aurais épousé.	Eussé-je été plus jeune et plus riche, tu m'aurais épousé.
 fra	fra	Si j'étais plus jeune et que j'avais un emploi, tu m'aurais épousé.	Si j'étais plus jeune et si j'avais un emploi, tu m'aurais épousé.
 fra	fra	Si j'étais toi, je ne le ferais pas.	Si j’étais toi, je le ferais pas.
+fra	fra	Si j'étais toi, je serais plus prudente.	À ta place, je serais plus prudente.
 fra	fra	Si j'étais venu et que tu aies été en retard, je serais resté planté devant la porte.	Si j'étais venu et si tu avais été en retard, je serais resté planté devant la porte.
 fra	fra	Si j'étais venu et que tu aies été en retard, je serais resté planté devant la porte.	Supposons que je sois venu et que tu aies été en retard, je serais resté planté devant la porte.
 fra	fra	Si j'étais venu et si tu avais été en retard, je serais resté planté devant la porte.	Si j'étais venu et que tu avais été en retard, je serais resté planté devant la porte.
@@ -1794,6 +2081,7 @@ fra	fra	Skier est très amusant.	Skier, c'est super amusant.
 fra	fra	«Sois indulgent, elle est novice.» «Oui, eh bien justement, je n'ai pas envie d'essuyer les plâtres.»	«Sois indulgent, elle est novice.» «Oui, eh bien justement, je n'ai pas envie d'en faire les frais.»
 fra	fra	Sois préparé !	Soyez préparées !
 fra	fra	Soit T une topologie différente de la topologie triviale.	Soit T une topologie différente de la topologie grossière.
+fra	fra	Son beau château de sable s'écroula tout d’un coup.	Son beau château de sable s'écroula en un seul coup.
 fra	fra	Son bureau est au huitième étage.	Son bureau se situe au huitième étage.
 fra	fra	Son franc vient de tomber.	Il vient de réaliser.
 fra	fra	Son franc vient de tomber.	Il vient de tilter.
@@ -1816,9 +2104,11 @@ fra	fra	Taqbaylit appartient à la famille des langues berbères.	Le kabyle appa
 fra	fra	Taratata !	Baratin !
 fra	fra	Taratata !	Billevesées !
 fra	fra	Taratata !	Jamais de la vie !
+fra	fra	Tartempion !	Duchmolle !
 fra	fra	T'as bien raison.	Tu as bien raison.
 fra	fra	T'as cané.	Chie dessus.
 fra	fra	T'as des yeux de chambre à coucher.	T'as des petits yeux.
+fra	fra	T’as du cul.	T’as de la chance.
 fra	fra	T'as le dansant, toi !	Tu es d'humeur à danser, toi !
 fra	fra	T'as lu le papier ?	As-tu lu le papier ?
 fra	fra	T'as pas idée !	T'as pas idée !
@@ -1834,6 +2124,7 @@ fra	fra	Tatoeba était par terre, hier.	Tatoeba était hors service, hier.
 fra	fra	Tatoeba: Là où les citations se meurent.	Tatoeba: Là où les citations s'en vont mourir.
 fra	fra	Tel père, tel fils.	Tel père, tel fils !
 fra	fra	T'es à la ramasse.	Tu es à la ramasse.
+fra	fra	T'es en taule depuis combien de temps ?	Depuis combien de temps es-tu en taule ?
 fra	fra	T'es le quantième ?	Quelle position as-tu ?
 fra	fra	T’es pas cap.	Tu n'es pas capable de le faire.
 fra	fra	T'es viré !	T'es virée !
@@ -1846,6 +2137,7 @@ fra	fra	Tom a abandonné l'anglais pour l'allemand.	Tom est passé de l'anglais 
 fra	fra	Tom a acheté un appareil photo pour moi.	Tom m'a acheté un appareil photo.
 fra	fra	Tom a amené sa femme allemande.	Tom a amené son épouse allemande.
 fra	fra	Tom a crié aussi fort que possible.	Tom cria à plein poumons.
+fra	fra	Tom a déposé une demande de clémence.	Tom a formé un recours en grâce.
 fra	fra	Tom a discuté de politique toute la nuit avec ses amis.	Tom a parlé politique toute la nuit avec ses amis.
 fra	fra	Tom a dit qu'il avait besoin de faire une sieste.	Tom a dit qu'il avait besoin de faire la sieste.
 fra	fra	Tom a dit qu'il avait besoin de faire une sieste.	Tom a dit qu'il avait besoin de faire un somme.
@@ -1855,18 +2147,22 @@ fra	fra	Tom a dû devenir fou !	Tom doit être devenu fou !
 fra	fra	Tom a été cambriolé hier pendant la nuit.	Tom a été cambriolé la nuit dernière.
 fra	fra	Tom a été choisi parmi trois cents candidats.	Tom a été choisi parmi 300 candidats.
 fra	fra	Tom a été congédié.	Tom a été débauché.
+fra	fra	Tom a été emmené par la police à l'aube.	Tom a été emmené par la police de grand matin.
 fra	fra	Tom a été le dindon de la farce.	Tom s'est fait duper.
 fra	fra	Tom à l'air nerveux.	Tom paraît être nerveux.
 fra	fra	Tom a l'air très heureux.	Tom a l'air très content.
 fra	fra	Tom a longtemps réfléchi à ce problème.	Tom réfléchit à ce problème depuis longtemps.
+fra	fra	Tom a mis au clou sa montre en or.	Tom a mis sa montre en or en gage.
 fra	fra	Tom a nettoyé le sol de la cuisine avec une serpillère.	Tom a nettoyé le sol de la cuisine avec une serpillière.
 fra	fra	Tom a perdu la raison.	Tom a perdu l'esprit.
+fra	fra	Tom a proposé de les aider.	Tom leur a proposé son aide.
 fra	fra	Tom a raté son coup.	Tom a fait chou blanc.
 fra	fra	Tom a raté son coup.	Tom n'a pas réussi son coup.
 fra	fra	Tom a repris du poil de la bête.	Tom a repris du courage.
 fra	fra	Tom a repris du poil de la bête.	Tom va mieux après avoir été très malade.
 fra	fra	Tom attend beaucoup d'invités ce soir.	Tom attend de nombreux invités ce soir.
 fra	fra	Tom a une petite amie ?	Tom a une copine ?
+fra	fra	Tom a volontairement accepté.	Tom a accepté de son plein gré.
 fra	fra	Tom ! Ce n'est pas croyable ! Que fais-tu ici ?	Tom ! C'est incroyable ! Que fais-tu ici ?
 fra	fra	Tom change sans arrêt de sujet.	Tom saute d'un sujet à l'autre.
 fra	fra	Tom cria à plein poumons.	Tom cria de tout son corps.
@@ -1889,8 +2185,11 @@ fra	fra	Tom est fort.	Tom est solide.
 fra	fra	Tom est fort.	Tom est vigoureux.
 fra	fra	Tom est grossier.	Tom est malpoli.
 fra	fra	Tom est injuste.	Tom est inéquitable.
+fra	fra	Tom est inquiet au sujet de l'examen à venir.	Tom est inquiet pour le prochain examen.
+fra	fra	Tom est le seul garçon que j'aie jamais embrassé.	Tom est le seul gars que j'aie jamais embrassé.
 fra	fra	Tom est malpoli.	Tom est impoli.
 fra	fra	Tom est mat de peau.	Tom a la peau mate.
+fra	fra	Tom est parti sans rien.	Tom est parti sans bagages.
 fra	fra	Tom est plus âgé que sa sœur.	Tom est plus vieux que sa sœur.
 fra	fra	Tom est presque tombé dans les pommes.	Tom était sur le point de s'évanouir.
 fra	fra	Tom est prétentieux.	Tom est présomptueux.
@@ -1905,7 +2204,9 @@ fra	fra	Tom est un individu grossier.	Tom est un individu mal élevé.
 fra	fra	Tom et Ken sont copains comme cochons.	Tom et Ken s’entendent comme larrons en foire.
 fra	fra	Tom et Ken sont copains comme cochons.	Tom et Ken sont comme cul et chemise.
 fra	fra	Tom et Marie ont puisé dans leurs économies pour acheter une maison.	Tom et Marie avaient puisé dans leurs économies pour acheter une maison.
+fra	fra	Tom et Marie sont-ils de la même famille ?	Tom et Marie sont-ils apparentés ?
 fra	fra	Tom et Marie sont réputés pour leur hospitalité.	Tom et Maria sont connus pour leur hospitalité.
+fra	fra	Tom et Marie vivent en union libre.	Tom et Marie vivent en concubinage.
 fra	fra	Tom et Mary ont dit se sentir impuissants.	Tom et Mary ont dit se sentir faibles.
 fra	fra	Tom explore l'univers.	Tom scrute l'univers.
 fra	fra	Tom fait comme s'il était le roi.	Tom prétend être le roi.
@@ -1916,13 +2217,18 @@ fra	fra	Tom habite à 16 km de la frontière canadienne.	Tom habite à seize kil
 fra	fra	Tom m'amène tous les matins au bureau.	Tom m'amène au bureau tous les matins.
 fra	fra	Tom mange énormément.	Tom est un très gros mangeur.
 fra	fra	Tom mène une vie de patachon.	Tom mène une vie de débauche.
+fra	fra	Tom ment comme il respire !	Tom ment comme un arracheur de dents !
 fra	fra	Tom monta vite l'escalier.	Tom monta rapidement les escaliers.
 fra	fra	Tommy n'a pas su répondre à la dernière question.	Tommy ne savait pas répondre à la dernière question.
 fra	fra	Tom n'arrive pas à chanter en mangeant.	Quand il mange, Tom ne peut pas chanter.
 fra	fra	Tom ne comprend pas le sanscrit.	Tom ne comprend pas le sanskrit.
 fra	fra	Tom ne fait confiance à personne, encore moins à lui-même.	Tom ne fait confiance à personne, surtout pas à lui-même.
 fra	fra	Tom ne fait confiance à personne sauf à lui-même.	Tom ne fait confiance à personne d'autre qu'à lui-même.
+fra	fra	Tom n'en fait toujours qu'à sa tête.	Tom agit toujours comme bon lui semble.
+fra	fra	Tom n'en fait toujours qu'à sa tête.	Tom agit toujours comme il l'entend.
 fra	fra	Tom ne sait pas la différence entre une mule et un âne.	Tom ne fait pas la différence entre une mule et un âne.
+fra	fra	Tom ne s'intéresse à rien.	Tom n'est intéressé par rien.
+fra	fra	Tom ne s'intéresse à rien.	Tom n'est pas intéressé par quoi que ce soit.
 fra	fra	Tom n'est pas le patron de la société.	Tom n'est pas le patron de l'entreprise.
 fra	fra	Tom nous livre le secret.	Tom nous dit le secret.
 fra	fra	Tom offre une place à la dame.	Tom propose une place à la dame.
@@ -1932,12 +2238,14 @@ fra	fra	Tom pâlit.	Tom blêmit.
 fra	fra	Tom paraît être triste.	Tom à l'air triste.
 fra	fra	Tom paraît être triste.	Tom semble être triste.
 fra	fra	Tom part après-demain au soleil à Cuba.	Tom s'envole après-demain au soleil à Cuba.
+fra	fra	Tom passe te chercher.	Tom vient te chercher.
 fra	fra	Tom regarde la télévision en permanence.	Tom regarde toujours la télévision.
 fra	fra	Tom regarde tout le temps la télévision.	Tom regarde la télévision en permanence.
 fra	fra	Tom regarde trop la télévision.	Tom regarde trop la télé.
 fra	fra	Tom retourne chez lui demain.	Tom rentre à la maison demain.
 fra	fra	Tom se laisse avoir.	Tom est crédule.
 fra	fra	Tom se prend pour l'homme le plus intelligent sur terre.	Tom se considère comme la personne la plus intelligente de la terre.
+fra	fra	Tom se prend pour Louis Quatorze.	Tom se prend pour Louis XIV.
 fra	fra	Tom s'est caché sous la table.	Tom se cacha en dessous de la table.
 fra	fra	Tom s'est fait enguirlander.	Tom s'est fait appeler Arthur.
 fra	fra	Tom s'est fait enguirlander.	Tom s'est fait réprimander.
@@ -1948,8 +2256,11 @@ fra	fra	Ton visage est rouge.	Tu as le visage rouge.
 fra	fra	Tournez à droite s'il vous plait.	Veuillez tourner à droite.
 fra	fra	Tous les hommes sont égaux devant la loi.	Tous les hommes sont égaux au regard de la loi.
 fra	fra	Tous les week-ends, Tom va chez ses parents.	Tom se rend chez ses parents chaque week-end.
+fra	fra	Tout à coup, son beau château de sable s'écroula.	Soudain, son beau château de sable s'écroula.
 fra	fra	Toute la vie est un songe, et les songes sont des songes.	Oui, toute la vie est un songe; et les songes eux-mêmes, que sont-ils? Songe!
 fra	fra	Toutes les fleurs du jardin se sont défraîchies.	Toutes les fleurs du jardin ont fané.
+fra	fra	Tout est rare.	Tout se raréfie.
+fra	fra	Tout le monde est au courant.	Tout le monde sait.
 fra	fra	Tout le monde peut se tromper.	N'importe qui peut commettre des erreurs.
 fra	fra	Tout se passe très bien.	Tout se déroule très bien.
 fra	fra	Trois bières et une tequila s'il vous plaît !	Trois bières et une téquila s'il vous plaît !
@@ -1959,22 +2270,28 @@ fra	fra	Tu as besoin de combien ?	Il t'en faut combien ?
 fra	fra	Tu as des petits seins.	Tu as de petits seins.
 fra	fra	Tu as des plans pour ce soir ?	As-tu des plans pour ce soir ?
 fra	fra	Tu as dit à quelqu'un, où est notre cachette?	Tu as dit à quelqu'un où est notre cachette ?
+fra	fra	Tu as du pain sur la planche.	Tu as beaucoup de travail en perspective.
 fra	fra	Tu as fait brûler les frites.	Tu as fait cramer les frites.
 fra	fra	Tu as fait ce travail ?	As-tu fait ce travail ?
 fra	fra	Tu as lu le mail que je t'ai envoyé avant-hier ?	Tu as lu le SMS que je t'ai envoyé avant-hier ?
 fra	fra	Tu as mauvaise mine !	Tu as l'air malade !
 fra	fra	Tu as oublié de me saluer ?	Vous avez oublié de me saluer ?
+fra	fra	Tu as perdu ton sac à main ?	T'as perdu ton sac à main ?
+fra	fra	Tu as tes règles ?	Tu as tes ragnagnas ?
 fra	fra	Tu as un problème ?	T'as un problème ?
 fra	fra	Tu as un problème ?	Tu as un problème ?
+fra	fra	Tu as vraiment vu un ovni ?	As-tu vraiment vu un objet volant non identifié ?
 fra	fra	Tu auras une période difficile.	Tu auras un moment difficile.
 fra	fra	Tu crois aux fantômes ?	Croyez-vous aux fantômes ?
 fra	fra	Tu devrais arrêter de fumer et de boire.	Tu devrais cesser de fumer et de boire.
 fra	fra	Tu devrais te présenter comme président.	Tu devrais te présenter en tant que président.
 fra	fra	Tu devrais te présenter en tant que président.	Vous devriez vous présenter en tant que président.
+fra	fra	Tu dois défausser une carte.	Tu dois te défausser d'une carte.
 fra	fra	Tu dois être hardi !	Vous devez être hardi !
 fra	fra	Tu dois être hardi !	Vous devez être hardie !
 fra	fra	Tu dois être hardi !	Vous devez être hardies !
 fra	fra	Tu dois être hardi !	Vous devez être hardis !
+fra	fra	Tu es assigné à résidence à partir de maintenant !	À partir de maintenant, tu es assigné à résidence.
 fra	fra	Tu es dépourvu de pouvoir.	Tu es dépourvue de pouvoir.
 fra	fra	Tu es dérangé.	Tu as une araignée au plafond.
 fra	fra	Tu es fier d'avoir donné ?	Es-tu fier d'avoir donné ?
@@ -1984,6 +2301,7 @@ fra	fra	Tu es un bon à rien.	Tu n'es qu'un bon à rien.
 fra	fra	Tu es un bon orateur.	Tu es un bon pitcher.
 fra	fra	Tu es viré !	T'es virée !
 fra	fra	Tu étais heureux.	Tu étais heureuse.
+fra	fra	Tu fais pitié.	Tu fais tiep.
 fra	fra	Tu laisses toujours la fenêtre ouverte quand tu dors.	Tu laisses toujours la fenêtre ouverte lorsque tu dors.
 fra	fra	Tu l'as lâchée.	Tu l'as relâchée.
 fra	fra	Tu l'as rencontrée ?	L'as-tu rencontrée ?
@@ -1998,13 +2316,16 @@ fra	fra	Tu me prends pour un idiot ?	Vous me prenez pour un idiot ?
 fra	fra	Tu me prends pour un imbécile ?	Vous me prenez pour un idiot ?
 fra	fra	Tu n'affamais pas les chiens.	Tu n'as pas affamé les chiens.
 fra	fra	Tu n'affamais pas les chiens.	Vous n'affamiez pas les chiens.
+fra	fra	Tu n'as pas été chez le dermatologue.	Tu n'es pas allé chez le dermatologue.
 fra	fra	Tu ne croiras pas ce qui vient d'arriver !	Tu ne croiras pas ce qui vient de se produire !
 fra	fra	Tu ne dois pas travailler les dimanches.	Tu n'as pas à travailler le dimanche.
 fra	fra	Tu ne fais pas de cauchemars.	Tu non fai incubi.
 fra	fra	Tu ne parles pas français ?	Vous ne parlez pas français ?
+fra	fra	Tu ne peux y accéder sans clef.	Tu ne peux pas y accéder sans clef.
 fra	fra	Tu n'es pas content, si ?	Vous n'êtes pas satisfait, si ?
 fra	fra	Tu n'es pas forcé d'y croire, mais c'est néanmoins la vérité.	Tu n'y crois peut-être pas, mais malgré tout c'est un fait.
 fra	fra	Tu n'es pas forcé d'y croire, mais c'est néanmoins la vérité.	Tu peux ne pas y croire, mais c'est tout de même un fait.
+fra	fra	Tu n'es pas seul dans ta tête !	Tu es timbré.
 fra	fra	Tu n'étais pas dans ton état normal ce jour-là.	Vous n'étiez pas dans votre état normal ce jour-là.
 fra	fra	Tu ne trouves pas que c'est malpoli de répondre aussi sèchement aux gens ?	Tu ne trouves pas que c'est impoli de répondre aussi sèchement aux gens ?
 fra	fra	Tu ne vas pas le croire.	Tu ne le croiras pas.
@@ -2013,15 +2334,18 @@ fra	fra	Tu n'y crois peut-être pas, mais malgré tout c'est un fait.	Tu peux ne
 fra	fra	Tu n'y vas pas de main morte.	Tu y vas franchement.
 fra	fra	Tu parles d'un con !	Mais quel con !
 fra	fra	Tu pars pour quelle heure ?	Pour quelle heure pars-tu ?
+fra	fra	Tu payes ton coup ?	Tu paies ton coup ?
 fra	fra	Tu pesas soixante-dix kilogrammes.	Vous avez pesé soixante-dix kilogrammes.
 fra	fra	Tu peux aller où bon te semble.	Tu peux aller où ça te chante.
 fra	fra	Tu pointes sur quelle base ?	À quelle base es-tu connectée ?
 fra	fra	Tu pointes sur quelle base ?	Sur quelle base pointes-tu ?
+fra	fra	Tu prêches un converti.	Vous prêchez un converti.
 fra	fra	Tu prends un bain combien de fois par semaine ?	À quelle fréquence hebdomadaire prends-tu un bain ?
 fra	fra	Tu prends un bain combien de fois par semaine ?	Combien de bains prends-tu par semaine ?
 fra	fra	Tu regardes une belle image.	Vous regardez une belle image.
 fra	fra	Tu rêvais à quoi ?	À quoi rêvais-tu ?
 fra	fra	Tu t'es remplumé.	Tu t'es arrondie.
+fra	fra	Tu t’es trompé de route.	Tu as pris la mauvaise route.
 fra	fra	Tu vas attraper la pécole !	Tu vas choper la crève !
 fra	fra	Tu verras, nous commencerons la nouvelle année en pleine forme !	Du wirst sehen, wir werden in Top-Form ins neue Jahr rutschen!
 fra	fra	Tu veux passer par le souterrain ?	Veux-tu passer par le souterrain ?
@@ -2031,14 +2355,17 @@ fra	fra	Tu vomissais.	Tu rendais.
 fra	fra	Un accident a arrêté tout le trafic.	Un accident a stoppé tout le trafic.
 fra	fra	Un adolescent attardé attaque de nouveau les statistiques.	Un adolescent attardé attaque à nouveau les statistiques.
 fra	fra	Un ange passe.	Il y a comme un malaise.
+fra	fra	Un bon film western serait le bienvenu.	Un bon western serait le bienvenu.
 fra	fra	Un chaisard ne saurait pas passer.	Une personne en chaise roulante ne pourrait pas passer.
 fra	fra	Un chat, ce n'est pas une personne.	Un chat n'est pas une personne.
 fra	fra	Un chat noir mange une souris blanche.	Un chat noir est en train de manger une souris blanche.
 fra	fra	Un chemin vers le bonheur n'existe pas. Le bonheur est le chemin.	Il n'existe pas de chemin vers le bonheur. Le bonheur est le chemin.
 fra	fra	Un coup de cidre, s’il vous plait !	Une bolée de cidre, s’il vous plait !
 fra	fra	Une des lampes ne marche pas. Penses-tu pouvoir venir regarder ?	Une des lampes ne fonctionne pas. Penses-tu pouvoir venir regarder ?
+fra	fra	Une embuscade !	C’est une embuscade !
 fra	fra	Une fois la lettre écrite, il l'a envoyée.	Dès qu'il a eu écrit la lettre, il l'a envoyée.
 fra	fra	Une partie de l’argent a été volée.	Une partie de l'argent a été volée.
+fra	fra	Une place a déjà été prise.	Une place est déjà occupée.
 fra	fra	Un instant !	Un instant.
 fra	fra	Un jour compte vingt-quatre heures.	Il y a vingt-quatre heures dans une journée.
 fra	fra	Un sot savant est sot plus qu'un sot ignorant.	Un sot savant est sot, plus qu'un sot ignorant.
@@ -2046,6 +2373,7 @@ fra	fra	Un tien vaut mieux que deux tu l'auras.	One yours is worth more than two
 fra	fra	Un train peut en cacher un autre.	Un train peut en masquer un autre.
 fra	fra	Un verre d'eau froide est très rafraîchissant lorsqu'il fait chaud.	Lorsque j'ai chaud, un verre d'eau fraîche me rafraîchit vraiment.
 fra	fra	Un voyage de noces doit être inoubliable !	Une lune de miel doit être inoubliable !
+fra	fra	Utoya, ça te dit quelque chose ?	Utøya, ça te dit quelque chose ?
 fra	fra	Va donc voir au dictionnaire !	Va donc voir dans le dictionnaire !
 fra	fra	Va rajouter, toi, une clochette à un mouton craintif.	On ne met pas une clochette à un mouton craintif.
 fra	fra	Ventre affamé n'a point d'oreilles.	Ventre affamé n'a pas d'oreilles.
@@ -2076,18 +2404,26 @@ fra	fra	Voulez-vous faire une promenade ?	Voulez-vous effectuer une promenade ?
 fra	fra	Voulez-vous quelque chose à manger ?	Voulez-vous manger quelque chose ?
 fra	fra	Vouloir, c'est pouvoir.	Quand on veut, on peut.
 fra	fra	Vous allez en refaire ?	Allez-vous en refaire ?
+fra	fra	Vous apportez à boire ?	Apportez-vous à boire ?
 fra	fra	Vous a-t-on déjà prié de quitter la salle ?	Avez-vous déjà été invité à quitter la salle ?
 fra	fra	Vous a-t-on dit quand vous êtes attendues ici ?	Vous a-t-on indiqué quand vous êtes attendues ici ?
 fra	fra	Vous avez bien vérifié ?	Avez-vous bien vérifié ?
+fra	fra	Vous avez carte blanche.	Vous avez le champ libre.
 fra	fra	Vous avez de la chance, il en reste une !	Ou chanslé, ka rété yonn !
 fra	fra	Vous avez droit à une pause de trente minutes.	Vous avez droit à une pause de 30 minutes.
 fra	fra	Vous avez droit à une pause de trente minutes.	Vous avez droit à une pause d'une demi-heure.
+fra	fra	Vous avez du pain sur la planche.	Vous avez beaucoup de travail en attente.
 fra	fra	Vous avez l'air perdus.	Vous avez l'air perdus, les mecs.
 fra	fra	Vous avez la possibilité de régler votre séjour en plusieurs fois.	Vous avez la possibilité de régler votre séjour à tempérament.
 fra	fra	Vous avez un problème ?	Avez-vous un problème ?
+fra	fra	Vous connaissez un autre moyen ?	Connaissez-vous un autre moyen ?
+fra	fra	Vous connaissez un autre moyen ?	Vous connaissez une autre façon de faire ?
 fra	fra	Vous devez employer des outils.	Vous devez utiliser des outils.
 fra	fra	Vous devez respecter les anciens.	Vous devez respecter les personnes âgées.
 fra	fra	Vous êtes aux États-Unis, la terre de la liberté : la police est libre de faire ce qu’elle veut.	T’es aux États-Unis, la terre de la liberté : la police est libre de faire ce qu’elle veut.
+fra	fra	Vous êtes bien Alexandre ?	Vous devez être Alexandre ?
+fra	fra	Vous êtes déjà servi ?	On s'occupe de vous ?
+fra	fra	Vous êtes en manque d'idées ?	Vous êtes en panne d'idées ?
 fra	fra	Vous êtes soucieux, n'est-ce pas ?	Vous êtes inquiets, n'est-ce pas ?
 fra	fra	Vous êtes tous prêts ?	Vous êtes tous prêts ?
 fra	fra	Vous êtes trempés.	Vous êtes trempées.
@@ -2101,6 +2437,7 @@ fra	fra	Vous m'avez lâché.	Vous m'avez relâché.
 fra	fra	Vous me prenez pour un idiot ?	Penses-tu que je sois idiot ?
 fra	fra	Vous me prenez pour un idiot ?	Pensez-vous que je sois un idiot ?
 fra	fra	Vous ne croirez pas ce qui vient d'arriver !	Vous ne croirez pas ce qui vient de se produire !
+fra	fra	Vous ne pouvez y accéder sans clef.	Vous ne pouvez pas y accéder sans clef.
 fra	fra	Vous n'êtes pas obligé de changer de train de Lyon à Paris.	Vous n'êtes pas obligé de changer de train sur le trajet Lyon - Paris.
 fra	fra	Vous ne voulez pas venir avec moi et me montrer un peu Lyon ?	Vous ne voulez pas venir avec moi pour me faire découvrir un peu Lyon ?
 fra	fra	Vous pensez que nous n'avons rien pigé ?	Vous pensez que nous n'avons rien compris ?
@@ -2115,4 +2452,5 @@ fra	fra	Vue de loin, cette pierre ressemble à un visage humain.	À distance, ce
 fra	fra	Walaɣ asaru-nni "Tawrirt yettwattun".	J'ai vu le film "La colline oubliée".
 fra	fra	Y'a blindé de trucs à voir à Paris.	Il y a beaucoup de choses à voir à Paris.
 fra	fra	Yemla-aɣ-d abrid yelhan.	Il nous a indiqué le bon chemin.
+fra	fra	Ziri a habillé Rima d'une bourka.	Clair-de-lune a habillé Gazelle-blanche d'une burqa.
 fra	fra	Zut !	Flûte !

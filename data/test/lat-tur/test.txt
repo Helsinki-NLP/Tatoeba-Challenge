@@ -3,11 +3,15 @@ lat_Latn	tur	Adveni in officinam. Paulum pluebat.	Ofise geldim. Biraz yağmur ya
 lat_Latn	tur	Aegrotat.	O, hastadır.
 lat_Latn	tur	Agricola frumentum in horreum comportavit.	Çiftçi buğdayı ahıra götürdü.
 lat_Latn	tur	Aliqui pueri in flumine natant.	Bazı çocuklar nehirde yüzüyor.
+lat_Latn	tur	Amor amorem amare amat.	Aşk aşkı sevmeyi sever.
 lat_Latn	tur	Anguis non sum.	Ben bir yılan değilim.
 lat_Latn	tur	Antisemitismus est socialismus stultorum.	Antisemitizm aptalların sosyalizmidir.
 lat_Latn	tur	Apud sororem meam.	Kız kardeşimle
 lat_Latn	tur	Aquae deiectus fractus est.	Duş bozuk.
+lat_Latn	tur	Bellum nolumus.	Savaş istemiyoruz.
 lat_Latn	tur	Calamus fractus est.	Kalem kırık.
+lat_Latn	tur	Carnem non edit.	O, et yemiyor.
+lat_Latn	tur	Carnem non edo.	Et yemiyorum.
 lat_Latn	tur	Coitus tropaeum non est.	Seks bir ganimet değildir.
 lat_Latn	tur	Coqui cibum faciunt.	Aşçılar yemek yapar.
 lat_Latn	tur	Cor eius aegrotat.	Onun kalbi hasta.
@@ -35,6 +39,7 @@ lat_Latn	tur	Es panem et bibe aquam.	Ekmek ye ve su iç.
 lat_Latn	tur	Es panem et bibe aquam.	Ekmek yiyip su iç.
 lat_Latn	tur	Estne haec statio?	Bu tren istasyonu mu?
 lat_Latn	tur	Et nunc?	Ve şimdi?
+lat_Latn	tur	Europa non est.	Avrupa yok.
 lat_Latn	tur	Fēlem habet.	Onun bir kedisi var.
 lat_Latn	tur	Filio magnam hereditatem tradidit.	O oğluna büyük bir miras bırakıyor.
 lat_Latn	tur	Habemus papam.	Bir papamız var.
@@ -46,17 +51,23 @@ lat_Latn	tur	Homo, sacra res homini.	İnsanın Kâbe'si insandır.
 lat_Latn	tur	Homo sum ; humani nihil a me alienum puto.	Ben insanım, insana dair hiçbir şey bana yabancı olamaz.
 lat_Latn	tur	Homo ubi est?	Adam nerededir?
 lat_Latn	tur	Iesus Bethlehemae in Iudaea natus est.	İsa, Judea'da Beytüllahim'de doğdu.
+lat_Latn	tur	Iēsus Christiānus non erat.	İsa Hristiyan değildi.
 lat_Latn	tur	Iesus ibat in castella.	İsa kaleye gidiyordu.
 lat_Latn	tur	Iesus mihi laetitiam dat.	İsa bana mutluluk verir.
 lat_Latn	tur	Iesus tempore regis Herodis natus est.	İsa, Kral Herod'un zamanında doğdu.
 lat_Latn	tur	In Aethiopiā habito.	Etiyopya'da yaşıyorum.
 lat_Latn	tur	In Africa unus fluvius magnus est: Nilus; ceteri fluvii Africae parvi sunt.	Afrika'da bir tane büyük nehir vardır. Onun adıda Nil dir. Diğerleri ise Afrika'nın küçük nehirleridir.
+lat_Latn	tur	In Deum iam non credo.	Artık Tanrı'ya inanmıyorum.
+lat_Latn	tur	In girum imus nocte et consumimur igni.	Gecenin içinde dönüp duruyoruz, ateş bizi yutuyor.
 lat_Latn	tur	Inter urinas et faeces nascimur.	İdrar ve dışkının arasından doğarız.
 lat_Latn	tur	In thermopolio prandium sumit.	O kafeteryada öğle yemeği yiyor.
 lat_Latn	tur	In vino veritas.	Hakikat şaraptadır.
 lat_Latn	tur	Ioco vir verum fert aliquando.	Adam bazen şakayla gerçeği anlatır.
 lat_Latn	tur	Ioco vir verum fert aliquando.	İnsan bazen şakayla gerçeği anlatır.
 lat_Latn	tur	İs quiete risit.	O sessizce güldü.
+lat_Latn	tur	Iudaei sumus.	Biz Yahudiyiz.
+lat_Latn	tur	Iudaei sumus.	Yahudiyiz.
+lat_Latn	tur	Iudaeus non est.	O Yahudi değil.
 lat_Latn	tur	Iulia oculos et nasum terget, rosam sumit, e cubiculo exit.	Julia gözlerini ve burnunu ovalar, gülü alır, odadan çıkar.
 lat_Latn	tur	Iulia speculum sumit et ante oculos tenet.	Julia bir ayna alır ve gözlerinin önüne tutar.
 lat_Latn	tur	Iulius malum e sacco sumit et se vertit ad Marcum: "Ecce malum tuum, Marce."	Julius çantadan bir elma çıkarır, Marcus'a döner: "İşte senin elman, Marcus"
@@ -66,6 +77,7 @@ lat_Latn	tur	Maria uxor mea est.	Meri benim karım.
 lat_Latn	tur	Mihi quaternas litteras scripsit.	Bana dört mektup yazdı.
 lat_Latn	tur	Mortuae sunt.	Öldüler.
 lat_Latn	tur	Musam edo.	Muz yiyorum.
+lat_Latn	tur	Nescio, Thoma.	Bilmiyorum, Tom.
 lat_Latn	tur	Noli turbare.	Kusura bakma.
 lat_Latn	tur	Non edo.	Yemiyorum.
 lat_Latn	tur	Nunc adultus es.	Artık büyüdün.
@@ -75,9 +87,11 @@ lat_Latn	tur	Paniculum fartum edo.	Sandviç yiyorum.
 lat_Latn	tur	Patria est, ubicumque est bene.	Nerede huzurluysan, orayı vatanın belle.
 lat_Latn	tur	Piscem velim.	Balık istiyorum.
 lat_Latn	tur	Plumbum perīculōsum est.	Kurşun tehlikelidir.
+lat_Latn	tur	Potestne alius mundus esse?	Başka bir dünya mümkün mü?
 lat_Latn	tur	Puella est.	O bir kız.
 lat_Latn	tur	Puella potionem Sinensem bibit.	Kız çay içiyor.
 lat_Latn	tur	Puella proba ero.	İyi bir kız olacağım.
+lat_Latn	tur	Quae nocent, saepe docent.	İnsanın canını yakan şeyler çoğu zaman bir şeyler de öğretir.
 lat_Latn	tur	Quando profecturus es?	Ne zaman gideceksin?
 lat_Latn	tur	"Quid dixisti?" "Tibi dixi nihil."	"Ne dedin?" "Sana değil."
 lat_Latn	tur	Quid edo?	Ben ne yiyorum?
@@ -88,6 +102,7 @@ lat_Latn	tur	Quid vendis?	Kim satıyor?
 lat_Latn	tur	Qui sunt judices?	Hakimler kimler?
 lat_Latn	tur	Quod licet Jovi, non licet bovi.	Jüpiter'e serbest olanın öküze de serbest olması gerekmez.
 lat_Latn	tur	Quotiens bibis alcohol?	Ne sıklıkta alkol alıyorsunuz?
+lat_Latn	tur	Raro carnem edo.	Nadiren et yerim.
 lat_Latn	tur	Repetitio mater memoriae.	Tekrarlaman, bir şeyi hatırlamana yardımcı olur.
 lat_Latn	tur	Scio Thoman in Australia non esse.	Tom'un Avustralya'da olmadığını biliyorum.
 lat_Latn	tur	Socolata mihi placet.	Çikolatayı severim.

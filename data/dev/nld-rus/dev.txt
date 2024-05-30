@@ -2544,8 +2544,8 @@ nld	rus	Ik ben verdwaald in het bos.	Я заблудился в лесу.
 nld	rus	Ik ben vergeten een paraplu mee te nemen.	Я забыл взять зонтик.
 nld	rus	Ik ben vergeten m'n paraplu mee te nemen.	Я забыл взять с собой свой зонт.
 nld	rus	Ik ben verliefd op jou.	Я влюблён в тебя.
-nld	rus	Ik ben verliefd op jou.	Я в тебя влюблена.
 nld	rus	Ik ben verliefd op jou.	Я в тебя влюблён.
+nld	rus	Ik ben verliefd op jou.	Я в тебя влюблена.
 nld	rus	Ik ben vertaler.	Я переводчик.
 nld	rus	Ik ben vijftien. Waarom vraag je dat?	Мне пятнадцать лет. А почему ты спрашиваешь?
 nld	rus	Ik ben vrij!	Я свободен!
@@ -4114,7 +4114,7 @@ nld	rus	Laten we tv kijken.	Давай посмотрим телевизор.
 nld	rus	Laten we voetbal spelen.	Давайте поиграем в футбол.
 nld	rus	Later, in zijn hotelkamer, dacht hij aan haar, aan dat ze hem morgen waarschijnlijk zou ontmoeten.	Потом у себя в номере он думал о ней, о том что завтра она, наверное, встретится с ним.
 nld	rus	Latijn is de taal van de toekomst!	Латинский — язык будущего!
-nld	rus_Latn	Welke is beter: Windows XP, Windows Vista, Windows 8 of Windows 10?	Что лучше: Windows XP, Windows Vista, Windows 8 или Windows 10?
+nld	rus	Welke is beter: Windows XP, Windows Vista, Windows 8 of Windows 10?	Что лучше: Windows XP, Windows Vista, Windows 8 или Windows 10?
 nld	rus	Leef en leer.	Живи и учись.
 nld	rus	Leeft hij nog?	Он ещё жив?
 nld	rus	Leerlingen in het algemeen waarderen een leraar die hun problemen verstaat.	Студенты, как правило ценят учителя, который понимает их проблемы.
@@ -4515,8 +4515,8 @@ nld	rus	Niemand heeft het aan hem uitgelegd.	Никто ему это не ра�
 nld	rus	Niemand heeft het probleem opgelost.	Никто не решил задачу.
 nld	rus	Niemand houdt ervan te verliezen.	Никто не любит проигрывать.
 nld	rus	Niemand is perfect.	Никто не совершенен.
-nld	rus	Niemand kan alles weten.	Никто не может знать всего.
 nld	rus	Niemand kan alles weten.	Никто не может знать всё.
+nld	rus	Niemand kan alles weten.	Никто не может знать всего.
 nld	rus	Niemand kan daar naar binnen.	Никто не может туда войти.
 nld	rus	Niemand kan denken, maar iedereen heeft zijn mening klaar.	Никто не умеет думать, но каждый имеет готовое мнение.
 nld	rus	Niemand kan dit probleem oplossen.	Никто не может решить эту проблему.

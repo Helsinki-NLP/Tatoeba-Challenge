@@ -30,6 +30,7 @@ hun	ita	A barátaim közül íme néhány.	Loro sono dei miei amici.
 hun	ita	A barátaimmal jöttem.	Io sono venuta con i miei amici.
 hun	ita	A barátaimmal vidékre megyek.	Sto andando in campagna con i miei amici.
 hun	ita	A barátaim ugyanabban a házban laknak, ahol én.	I miei amici abitano nella mia stessa casa.
+hun	ita	A barátja akar lenni.	Vuole essere sua amica.
 hun	ita	A barátnőd hogy érzi magát?	La tua amica come sta?
 hun	ita	A barátnőd hogy van?	La tua amica come sta?
 hun	ita	A barátnője vagy?	Sei sua amica?
@@ -82,6 +83,7 @@ hun	ita	Add vissza!	Ridalla!
 hun	ita	Add vissza!	Ridallo!
 hun	ita	A demokrácia egy más dolog.	La democrazia è un'altra cosa.
 hun	ita	Adja a tudtomra, ha tehetek valamit.	Mi faccia sapere se c'è qualcosa che posso fare.
+hun	ita	Adjatok valamilyen cerkát!	Datemi una matita qualunque.
 hun	ita	Adj egy szeletet a tortából!	Dammi un pezzo di torta!
 hun	ita	Adj nekem egy csésze kávét!	Dammi una tazza di caffè.
 hun	ita	Adj nekem egy pontos választ!	Dammi una risposta precisa.
@@ -98,6 +100,7 @@ hun	ita	A dohányzás öngyilkosság.	Fumare è un suicidio.
 hun	ita	A dolgozók magasabb bérekért sztrájkolnak.	I lavoratori scioperano per un salario più alto.
 hun	ita	A dombon lévő ház nagyon régi.	La casa sulla collina è molto vecchia.
 hun	ita	A dombot hó borította.	La collina era ricoperta di neve.
+hun	ita	A dóm mellett szobor áll.	Accanto al duomo c'è una statua.
 hun	ita	A fal három méter hosszú volt.	Il muro era lungo tre metri.
 hun	ita	A fal három méter magas.	Il muro è alto tre metri.
 hun	ita	A falnak is füle van.	I muri hanno le orecchie.
@@ -123,11 +126,14 @@ hun	ita	A feleséged tud róla?	Tua moglie lo sa?
 hun	ita	A felesége francia.	Sua moglie è francese.
 hun	ita	A felesége kórházban van, megsérült egy autóbalesetben.	Sua moglie è all'ospedale, è stata ferita in un incidente d'auto.
 hun	ita	A feleségem édesapja az apósom.	Il padre di mia moglie è il mio suocero.
+hun	ita	A feleségem nem tudott eljönni.	Mia moglie non ha potuto venire.
+hun	ita	A feleségem orvos; gyermekkórházban dolgozik.	Mia moglie è dottoressa, lei lavora in una clinica per bambini.
 hun	ita	A felhő szürke.	La nuvola è grigia.
 hun	ita	A férfiak és a nők ezt eltérően csinálják.	Uomini e donne lo fanno in maniera diversa.
 hun	ita	A férfiak és a nők sok tekintetben különböznek.	In molti aspetti gli uomini e le donne sono completamente diversi.
 hun	ita	A férfi, akit láttál tegnap, a nagybátyám.	L'uomo che hai visto ieri è mio zio.
 hun	ita	A férfi, akit láttál tegnap, a nagybátyám.	L'uomo che hai visto ieri era mio zio.
+hun	ita	A férfi jövője a nő.	La donna è il futuro dell'uomo.
 hun	ita	A férfi megölte feleségét és annak szeretőjét.	L'uomo ha ucciso la moglie e il suo amante.
 hun	ita	A férfi meztelen.	L'uomo è nudo.
 hun	ita	A férfi neve Francisco Pizzaro volt.	Il nome dell'uomo era Francisco Pizzaro.
@@ -166,6 +172,7 @@ hun	ita	A folyó itt mély.	Il fiume è profondo qui.
 hun	ita	A fordítás: ferdítés.	Tradurre è tradire.
 hun	ita	A forgalom az utcán tényleg rettenetes volt.	Il traffico nella via era davvero terribile.
 hun	ita	A francba!	Cacchio!
+hun	ita	A franciában nincs szó erre.	Il francese non ha una parola per quello.
 hun	ita	A francia nyelv és az olasz nyelv hasonlítanak egymásra.	La lingua francese e la lingua italiana si assomigliano.
 hun	ita	A francia zászló kék, fehér és piros.	La bandiera francese è blu, bianca e rossa.
 hun	ita	A futball a kedvenc játékom.	Il calcio è il mio sport preferito.
@@ -296,6 +303,7 @@ hun	ita	A kutya az ember legjobb barátja.	Il cane è il migliore amico dell'uom
 hun	ita	A kutya fehér.	Il cane è bianco.
 hun	ita	A kutya fekete.	Il cane è nero.
 hun	ita	A kutya halott volt.	Il cane era morto.
+hun	ita	A kutyájával jött.	È venuta con il suo cane.
 hun	ita	A kutyák hűsėgesek.	I cani sono fedeli.
 hun	ita	A kutyák tudnak úszni.	I cani possono nuotare.
 hun	ita	A kutyám eszi a szőlőt.	Il mio cane mangia l'uva.
@@ -308,12 +316,15 @@ hun	ita	A lakásom abban az épületben van.	Il mio appartamento è in quell'edi
 hun	ita	A lakásom a negyedik emeleten van.	Il mio appartamento è al quarto piano.
 hun	ita	A lakásom itt van a közelben.	Il mio appartamento è qui vicino.
 hun	ita	A lakásom közel van.	Il mio appartamento è vicino.
+hun	ita	A lámpa piros volt, de a sorompó nyitva volt.	Il semaforo era rosso ma la barriera era aperta.
 hun	ita	A lámpa szürke.	La lampada è grigia.
 hun	ita	A lány, aki Tommal beszél, Mary.	La ragazza che sta parlando con Tom è Mary.
 hun	ita	A lányára büszke volt.	Era orgoglioso di sua figlia.
+hun	ita	A lány az nem volt ott.	La ragazza non era là.
 hun	ita	A lány bement a szobába.	La ragazza entrò nella stanza.
 hun	ita	A lány elszaladt otthonról, mert a szülei megverték.	La bambina è scappata di casa perché i genitori la picchiavano.
 hun	ita	A lány nagyon hasonlít az anyjára.	La ragazza assomiglia molto a sua madre.
+hun	ita	A lány nem volt ott.	La ragazza non era là.
 hun	ita	A lányok nem féltek, de a fiúk igen.	Le ragazze non avevano paura, ma i ragazzi sì.
 hun	ita	A lányok nyertek.	Le ragazze hanno vinto.
 hun	ita	A lánytestvéremnek van egy szép zongorája.	Mia sorella ha un bel piano.
@@ -441,6 +452,7 @@ hun	ita	A nevem Hase.	Il mio nome è Hase.
 hun	ita	A nevem Ichiro Tanaka.	Il mio nome è Ichiro Tanaka.
 hun	ita	A nevem Jack.	Il mio nome è Jack.
 hun	ita	A nevem Luis.	Il mio nome è Luis.
+hun	ita	A neve Mohamed.	Il suo nome è Muhammad.
 hun	ita	A nevem Ricardo.	Il mio nome è Ricardo.
 hun	ita	A nevem Ricardo.	Io mi chiamo Ricardo.
 hun	ita	A nevem Roberto.	Il mio nome è Roberto.
@@ -455,6 +467,7 @@ hun	ita	Ann nagyon szereti a csokoládét.	Ad Ann piace molto il cioccolato.
 hun	ita	Annyira féltékeny vagyok!	Sono così gelosa!
 hun	ita	Annyira féltékeny vagyok!	Sono così geloso!
 hun	ita	Annyira összetett.	È così complicato.
+hun	ita	A nő a férfi jövője.	La donna è il futuro dell'uomo.
 hun	ita	A nő az arcát mossa.	La donna si lava la faccia.
 hun	ita	A nők jogai emberi jogok.	I diritti delle donne sono dei diritti umani.
 hun	ita	A nők szeretik a bajuszos férfiakat.	Alle donne piacciono gli uomini coi baffi.
@@ -477,6 +490,7 @@ hun	ita	Apám abbahagyta az ivást.	Mio padre smise di bere.
 hun	ita	Apám autója új.	L'auto di mio padre è nuova.
 hun	ita	Apám autója új.	L'automobile di mio padre è nuova.
 hun	ita	Apám doktor.	Mio padre è un dottore.
+hun	ita	Apa, melyik az én bal kezem?	Papà, qual è la mia mano sinistra?
 hun	ita	Apám heti 10 dollár zsebpénzt ad nekem.	Mio padre mi da una paghetta di 10 $ alla settimana.
 hun	ita	Apám jó egészségben van.	Mio padre è in buona salute.
 hun	ita	Apám Kínába megy.	Mio padre sta andando in Cina.
@@ -506,6 +520,7 @@ hun	ita	A porszívó hibája, hogy a szoba tiszta poros?	È colpa dell'aspirapol
 hun	ita	Április bolondjai!	Pesce d'aprile!
 hun	ita	A probléma az, hogy nincs elég pénzünk.	Il problema è che non abbiamo abbastanza soldi.
 hun	ita	Apukám a kertben van.	Mio padre è in giardino.
+hun	ita	Apu, melyik nekem a bal kezem?	Papà, qual è la mia mano sinistra?
 hun	ita	A rádió nem működik.	La radio non funziona.
 hun	ita	A reggeli reggel 7-től 10-ig van.	La colazione è dalle 7 alle 10 del mattino.
 hun	ita	A reggelit együtt készítjük el?	Facciamo colazione insieme?
@@ -547,6 +562,8 @@ hun	ita	A szerelem fontos dolog.	L'amore è una cosa importante.
 hun	ita	A szerelmesek csókolóztak.	Gli amanti si baciarono.
 hun	ita	A szerencse forgandó.	La fortuna gira.
 hun	ita	A szívinfarktus úgy jön gyakran, mint derült égből a villámcsapás.	Spesso un attacco cardiaco arriva come un fulmine a ciel sereno.
+hun	ita	A szlovén ábécé 25 betűből áll: a, b, c, č, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, š, t, u, v, z, ž.	L'alfabeto sloveno si compone di 25 lettere: a, b, c, č, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, š, t, u, v, z, ž.
+hun	ita	A szlovén ábécének 25 betűje van.	L'alfabeto sloveno ha 25 lettere.
 hun	ita	A szobában szinte semmi nem volt.	In camera non c'era quasi niente.
 hun	ita	A szobájában játszik.	Sta giocando nella sua stanza.
 hun	ita	A szoba kezd felmelegedni.	La stanza si sta scaldando.
@@ -564,6 +581,8 @@ hun	ita	A szüleim meghaltak.	I miei genitori sono morti.
 hun	ita	A szüleim mindketten orvosok.	I miei genitori sono entrambi dottori.
 hun	ita	A szüleim nem tudják, hol vagyok.	I miei genitori non sanno dove sono.
 hun	ita	A szüleim orvosok.	I miei genitori sono entrambi dottori.
+hun	ita	A szüleivel jött.	È venuto con i suoi genitori.
+hun	ita	A szüleivel ment.	È venuto con i suoi genitori.
 hun	ita	A születésnapom vasárnapra esik.	Il mio compleanno cade di domenica.
 hun	ita	A szülővárosom nagyon szép.	La mia città natale è molto bella.
 hun	ita	A szving zene a dzsessz új formája volt.	La musica swing era una nuova forma di jazz.
@@ -581,6 +600,7 @@ hun	ita	A tél a leghidegebb évszak.	L'inverno è la stagione più fredda dell'
 hun	ita	A televízió nem működik.	Il televisore non funziona.
 hun	ita	A te módszered és az én módszerem különböző.	Il tuo metodo è diverso dal mio.
 hun	ita	A te módszered különbözik az enyémtől.	Il tuo metodo è diverso dal mio.
+hun	ita	A templom ott van.	La chiesa è là.
 hun	ita	A tengerben vannak szigetek.	Ci sono isole nel mare.
 hun	ita	A tengerparttól öt kilométerre található a sziget.	L'isola è situata a cinque kilometri dalla costa.
 hun	ita	A te órád drágább, mint az enyém.	Il tuo orologio è più costoso del mio.
@@ -598,6 +618,7 @@ hun	ita	Átmentem az utcán.	Attraversai la strada.
 hun	ita	Átmentem az utcán.	Ho attraversato la strada.
 hun	ita	Átmentem az utcán.	Io attraversai la strada.
 hun	ita	A tolvaj kikapta a táskát a kezéből.	Il ladro prese la borsa dalla sua mano.
+hun	ita	A Tom egy hárombetűs név.	Tom è un nome di tre lettere.
 hun	ita	A tó nagy és szép.	Il lago è grande e bello.
 hun	ita	A török nyelvben számos perzsa szó van.	Nella lingua turca ci sono molte parole persiane.
 hun	ita	A történet igaz.	La storia è vera.
@@ -711,6 +732,7 @@ hun	ita	Az egyik könyvesboltban vett egy angolkönyvet.	Lui ha comprato un libr
 hun	ita	Az egyik könyvesboltban vett egy angolkönyvet.	Lui ha comprato un libro in inglese in una libreria.
 hun	ita	Az Elbrusz Európa legmagasabb hegye.	L'Elbrus è la montagna più alta d'Europa.
 hun	ita	Az elefánt a ma élő legnagyobb szárazföldi állat.	Gli elefanti sono i più grandi animali terrestri viventi attualmente.
+hun	ita	Az elefánt nagy.	L'elefante è grande.
 hun	ita	Az elefántoknak két fülük van.	Gli elefanti hanno due orecchie.
 hun	ita	Az élet egy ajándék.	La vita è un regalo.
 hun	ita	Az élet túl rövid.	La vita è troppo breve.
@@ -722,6 +744,7 @@ hun	ita	Az ember az egyetlen állat, amely használja a tüzet.	L'uomo è il sol
 hun	ita	Az ember az egyetlen beszélő állat.	L'uomo è l'unico animale che può parlare.
 hun	ita	Az emberek félnek a háborútól.	La gente ha paura della guerra.
 hun	ita	Az emberek szeretnek beszélni.	La gente ama parlare.
+hun	ita	Az ember embernek farkasa.	L'uomo è un lupo per l'uomo.
 hun	ita	Az ember nem élhet örökké.	L'uomo non può vivere per sempre.
 hun	ita	Az én édesapám fiatal.	Mio padre è giovane.
 hun	ita	Az én hibám!	Errore mio.
@@ -785,6 +808,7 @@ hun	ita	Azonosította a Titanic roncsait.	Lui identificò il relitto del Titanic
 hun	ita	Azon töprengek, hogy szakítsak-e a barátnőmmel.	Sto pensando di lasciare la mia fidanzata.
 hun	ita	Az optimizmus egyszerűen az információk hiánya.	L'ottimismo è semplicemente una mancanza di informazioni.
 hun	ita	Az órámat tegnap elvesztettem.	Ho perso il mio orologio ieri.
+hun	ita	Az ördög a részletekben rejlik.	Il diavolo è nei dettagli.
 hun	ita	Az oroszlán az állatok királya.	Il leone è il re degli animali.
 hun	ita	Az orosz nyelvet nagyon nehéz megtanulni.	Il russo è molto difficile da imparare.
 hun	ita	Az orvos azt tanácsolta neki, hogy hagyja abba a dohányzást.	Il suo dottore gli consigliò di smettere di fumare.
@@ -810,8 +834,10 @@ hun	ita	Azt hiszem, talán tudok segíteni Tomnak.	Penso che forse posso aiutare
 hun	ita	Azt hiszem, talán tudok segíteni Tomnak.	Penso che forse riesco ad aiutare Tom.
 hun	ita	Azt hiszem, valaki ellopta a bőröndömet.	Penso che la mia valigia sia stata rubata.
 hun	ita	Azt már megtettem.	Io l'ho già fatto.
+hun	ita	Azt mondja, egyetért ezzel.	Dice che acconsentirà a farlo.
 hun	ita	Azt mondja, hogy sürgős.	Lui dice che è urgente.
 hun	ita	Azt mondják, a szerelem vak.	Dicono che l'amore è cieco.
+hun	ita	Azt mondják, hogy Herkules, Alkména fia, volt a legerősebb az emberek között.	Si dice che Ercole, figlio di Alcmena, fosse il più forte di tutti gli uomini.
 hun	ita	Azt mondod, el akarsz engem hagyni?	Mi stai dicendo che vuoi lasciarmi?
 hun	ita	Azt mondta, hogy azelőtt már volt Hawaiin.	Disse di essere stato alle Hawaii prima.
 hun	ita	Azt mondta, hogy azelőtt már volt Hawaiin.	Lui disse di essere stato alle Hawaii prima.
@@ -819,7 +845,9 @@ hun	ita	Azt mondta, hogy azelőtt már volt Hawaiin.	Lui ha detto di essere già
 hun	ita	Azt mondta, hogy azelőtt már volt Hawaiin.	Lui ha detto di essere stato alle Hawaii prima.
 hun	ita	Azt mondta, hogy nem tudott erről.	Ha detto che non sapeva questo.
 hun	ita	Azt mondta, hogy nem tudta ezt.	Ha detto che non sapeva questo.
+hun	ita	Azt mondták, készen vannak.	Dissero che erano pronti.
 hun	ita	Azt mondták nekem, hogy diétáznom kell.	Mi è stato detto che dovrei mettermi a dieta.
+hun	ita	Azt mondták, ott lesznek.	Hanno detto che saranno lì.
 hun	ita	Azt mondta nekem, hogy ne hazudjak.	Mi ha detto di non dire bugie.
 hun	ita	Azt suttogják, hogy a miniszterelnök súlyosan beteg.	Gira voce che il primo ministro sia gravemente ammalato.
 hun	ita	Azt válaszolta, hogy jól tud úszni.	Rispose di saper nuotare bene.
@@ -896,6 +924,7 @@ hun	ita	Beszélj lassabban!	Parli più lentamente.
 hun	ita	Beszéljünk angolul!	Parliamo in inglese!
 hun	ita	Beszéljünk erről.	Parliamone.
 hun	ita	Beszélnem kell veled egy személyes ügyről.	Ho bisogno di parlarti di una cosa personale.
+hun	ita	Beszélni akarok apáddal.	Voglio parlare con tuo padre.
 hun	ita	Beszélni ezüst, hallgatni arany.	Il silenzio è d'oro, la parola d'argento.
 hun	ita	Beszélni ezüst, hallgatni arany.	La parola è d'argento ma il silenzio è d'oro.
 hun	ita	Beszélnünk kell vele.	Dobbiamo parlare con lei.
@@ -969,6 +998,7 @@ hun	ita	Boldog voltam.	Ero felice.
 hun	ita	Boldog voltam.	Io ero felice.
 hun	ita	Bolond.	È pazzo.
 hun	ita	Bolond.	Lui è pazzo.
+hun	ita	Bonyolult volt.	Era complicata.
 hun	ita	Borneó sziget vagy földrész?	Il Borneo è un'isola o un continente?
 hun	ita	Borzasztóan drága.	È terribilmente costoso.
 hun	ita	Bostonba ment autóval.	È andato a Boston in macchina.
@@ -1006,6 +1036,7 @@ hun	ita	Carol éppen spanyolul tanul.	Carol sta studiando spagnolo.
 hun	ita	Chopint játszom.	Suono Chopin.
 hun	ita	Chrisnek nem volt autója.	Chris non aveva una macchina.
 hun	ita	Chrisnek nem volt autója.	Chris non aveva un'automobile.
+hun	ita	Cikket ír az iskolaújságba.	Sta scrivendo un articolo per il giornale della scuola.
 hun	ita	Csak a fekete hajam miatt szeretsz?	Mi ami solo perché ho i capelli neri?
 hun	ita	Csak a félelem és a szerelem az az érzelem, amitől gyorsabban kezd el verni a szívünk.	La paura e l'amore sono le uniche emozioni che accelerano i battiti del nostro cuore.
 hun	ita	Csak a legjobbat akarja.	Lui vuole solo il meglio.
@@ -1059,6 +1090,7 @@ hun	ita	Csütörtökön az uszodába mentünk.	Giovedì siamo andati in piscina.
 hun	ita	Cukros vagyok.	Io sono diabetica.
 hun	ita	Cukros vagyok.	Sono diabetica.
 hun	ita	Dalokat énekeltünk kórusban.	Abbiamo cantato delle canzoni in coro.
+hun	ita	Dan hat hónap alatt megtanult magyarul.	Dan imparò l'ungherese in sei mesi.
 hun	ita	Dannek sok barátja van ezen a weboldalon.	Dan ha molti amici su questo sito.
 hun	ita	D'Annunzio munkássága válasz Marinettinek.	Le opere di D'Annunzio sono una risposta a Marinetti.
 hun	ita	Darwin megváltoztatott mindent.	Darwin ha cambiato tutto.
@@ -1077,6 +1109,7 @@ hun	ita	Díler.	È uno spacciatore.
 hun	ita	Divatjamúlt a frizurája.	Il suo taglio di capelli è fuori moda.
 hun	ita	Dobd ki Tomit!	Butti fuori Tom.
 hun	ita	Dohányoztok?	Voi fumate dei sigari?
+hun	ita	Dolgom volt a héten.	Ero occupata durante la settimana.
 hun	ita	Dolgozni mentünk.	Noi siamo andate al lavoro.
 hun	ita	Dolgozol?	Lavori?
 hun	ita	Dolgozol ma?	Lavori oggi?
@@ -1131,8 +1164,10 @@ hun	ita	Édesapja rendőr.	Suo padre è poliziotto.
 hun	ita	Eduardo fiatalabb, mint Roberto.	Eduardo è più giovane di Roberto.
 hun	ita	Ég az erdő.	La foresta sta bruciando.
 hun	ita	Egész délután azt csináltam.	Ho passato tutto il pomeriggio a far quello.
+hun	ita	Egész éjjel dolgoztunk.	Abbiamo lavorato tutta la notte.
 hun	ita	Egész éjszaka esett a hó.	Ha nevicato per tutta la notte ieri.
 hun	ita	Egész éjszaka esett a hó.	Ha nevicato tutta la notte.
+hun	ita	Egész nap ezt fogod csinálni?!	Lo farai per tutto il giorno?
 hun	ita	Egész nap otthon maradtam.	Io sono restata a casa tutto il giorno.
 hun	ita	Egész nap otthon maradtam.	Io sono rimasta a casa tutto il giorno.
 hun	ita	Egész nap otthon maradtam.	Io sono rimasto a casa tutto il giorno.
@@ -1167,6 +1202,7 @@ hun	ita	Egyedül él.	Lui vive da solo.
 hun	ita	Egyedül élsz?	Tu vivi da solo?
 hun	ita	Egyedül élt az erdőben.	Ha vissuto solo nella foresta.
 hun	ita	Egyedül leszek.	Sarò da solo.
+hun	ita	Egyedül vagyok itthon.	Sono a casa da sola.
 hun	ita	Egyedül vagyok itt?	Io sono da sola qui?
 hun	ita	Egyedül vagyok itt?	Io sono da solo qui?
 hun	ita	Egyedül vagyok itt?	Sono da sola qui?
@@ -1211,6 +1247,7 @@ hun	ita	Egy kis ízelítőt adtunk az eszperantó nyelvtanából.	Abbiamo dato u
 hun	ita	Egy kis vizet, légy szíves!	Un po' d'acqua, per favore.
 hun	ita	Egy kivételével minden munkás hazament.	Tutti gli operai andarono a casa, eccetto uno.
 hun	ita	Egy könyvet adott neki.	Le ha dato un libro.
+hun	ita	Egykor ebédelek.	Pranzo all'una.
 hun	ita	Egykor mentem aludni.	Andai a letto all'una.
 hun	ita	Egykor mentem aludni.	Io andai a letto all'una.
 hun	ita	Egykor mentem aludni.	Io sono andato a letto all'una.
@@ -1246,6 +1283,7 @@ hun	ita	Egy óriási házban lakik.	Lui abita in una casa enorme.
 hun	ita	Egy oroszlánról beszélek.	Parlo di un leone.
 hun	ita	Egy pár fülbevaló az szép ajándék neki.	Un paio di orecchini è un bel regalo per lei.
 hun	ita	Egy pár fülbevaló az szép ajándék neki.	Un paio di orecchini è un regalo carino per lei.
+hun	ita	Egy pohár hideg vizet szeretne.	Vuole un bicchiere d'acqua fredda.
 hun	ita	Egy pohár vörösbort, kérem!	Un bicchiere di vino rosso, per favore.
 hun	ita	Egy ponttal több van a mondat végén.	C'è un punto in più alla fine della frase.
 hun	ita	Egy régi barát vagyok.	Io sono un vecchio amico.
@@ -1272,6 +1310,7 @@ hun	ita	Éhes vagyok.	Ho fame!
 hun	ita	Éhes voltam.	Ero affamato.
 hun	ita	Éjszaka volt.	Era notte.
 hun	ita	Eladó a háza.	La sua casa è in vendita.
+hun	ita	Eladta nekem az öreg járgányát.	Mi ha venduto la sua vecchia automobile.
 hun	ita	El akar menni Amerikába.	Vuole andare in America.
 hun	ita	El akarok utazni a holdra.	Io voglio viaggiare sulla luna.
 hun	ita	El akarom adni, de senki nem veszi meg.	Voglio venderla, ma nessuno la compra.
@@ -1317,6 +1356,7 @@ hun	ita	Elfogadtam a meghívását.	Io ho accettato il suo invito.
 hun	ita	Elfogadtuk a meghívását.	Noi accettammo il suo invito.
 hun	ita	El fog jönni, még ha fáradt is.	Verrà anche se è stanca.
 hun	ita	Elfoglaltnak látszol.	Sembri impegnato.
+hun	ita	Elfoglalt voltam a héten.	Ero occupata durante la settimana.
 hun	ita	El fogok késni az iskolából!	Sarò in ritardo a scuola!
 hun	ita	El fogom olvasni a könyvet.	Leggerò il libro.
 hun	ita	Elhagynád a feleséged értem?	Lasceresti tua moglie per me?
@@ -1372,6 +1412,7 @@ hun	ita	Ellopták a zsebszámológépemet.	Mi hanno rubato la calcolatrice tasca
 hun	ita	Elmagyarázta nekem a szabályt.	Mi spiegò la regola.
 hun	ita	Elmegyek kenyeret venni.	Io vado a comprare del pane.
 hun	ita	Elmegyek veletek.	Andrò con voi.
+hun	ita	Elmegyünk ma úszni?	Andremo a nuotare oggi?
 hun	ita	Elment a józan esze.	Lei ha perso la ragione.
 hun	ita	Elment Bostonba autóval.	È andato a Boston in macchina.
 hun	ita	Elment dolgozni.	È andato al lavoro.
@@ -1393,6 +1434,7 @@ hun	ita	Elmentünk dolgozni.	Noi siamo andati al lavoro.
 hun	ita	Elmesélt nekem egy szomorú történetet.	Mi raccontò una storia triste.
 hun	ita	Elmondott nekünk egy érdekes történetet.	Lei ci raccontò una storia interessante.
 hun	ita	Elmondta késése okát.	Spiegò il motivo del suo ritardo.
+hun	ita	Elmondta mindenkinek, hogy nem is félt.	Disse a tutti che non aveva paura.
 hun	ita	Elmúlt a fájdalom.	Il dolore è sparito.
 hun	ita	Elnevezték a kutyájukat Rexnek.	Hanno chiamato il loro cane Rex.
 hun	ita	Elnevezték a kutyájukat Rexnek.	Loro hanno chiamato il loro cane Rex.
@@ -1535,6 +1577,7 @@ hun	ita	Én nem félek.	Io non ho paura.
 hun	ita	Én nem fogadtam el az ajándékokat.	Io non accettavo i regali.
 hun	ita	Én nem fogadtam el az ajándékokat.	Io non ho accettato i regali.
 hun	ita	Én nem hiszek a csodákban.	Io non credo nei miracoli.
+hun	ita	Én nem hiszek ebben az elméletben.	Non credo in questa teoria.
 hun	ita	Én nem iszom dél előtt.	Io non bevo prima di mezzogiorno.
 hun	ita	Én nem iszom dél előtt.	Non bevo prima di mezzogiorno.
 hun	ita	Én nem iszom vizet.	Io non bevo acqua.
@@ -1612,6 +1655,7 @@ hun	ita	Érted?	Capite?
 hun	ita	Értek törökül.	Capisco il turco.
 hun	ita	Értek törökül.	Io capisco il turco.
 hun	ita	Értem.	Capisco.
+hun	ita	Érte megteheti.	Lo può fare per lui.
 hun	ita	Értem.	Io capisco.
 hun	ita	Értetted a szavait.	Hai capito le sue parole.
 hun	ita	Érti azt, amit mond?	Capisce quello che sta dicendo?
@@ -1746,8 +1790,8 @@ hun	ita	Ez a szoba hideg.	Questa camera è fredda.
 hun	ita	Ez a szoba hideg.	Questa stanza è fredda.
 hun	ita	Ez a szobám.	Ecco la mia camera.
 hun	ita	Ez a szobám.	Ecco la mia stanza.
-hun	ita	Ez a szoknya magenta színű?	Questa gonna è di colore magenta?
 hun	ita	Ez a szoknya magenta színű.	Questa gonna è di colore magenta.
+hun	ita	Ez a szoknya magenta színű?	Questa gonna è di colore magenta?
 hun	ita	Ez a szó nem található a listán.	Questa parola non si trova nella lista.
 hun	ita	Ez a szó nincs benne a szótáramban.	Questa parola non è sul mio dizionario.
 hun	ita	Ez a szótár nem az enyém.	Questo dizionario non mi appartiene.
@@ -1803,6 +1847,7 @@ hun	ita	Ez az év 1990.	Questo è l'anno 1990.
 hun	ita	Ez az ing tíz dollárba kerül.	Questa camicia costa dieci dollari.
 hun	ita	Ez az olasz író alig ismert Japánban.	Quell'autore italiano è poco conosciuto in Giappone.
 hun	ita	Ez az olasz író alig ismert Japánban.	Questo scrittore italiano è poco conosciuto in Giappone.
+hun	ita	Ez az ön számára igen nehéz lesz.	Sarà molto difficile per lei.
 hun	ita	Ez az ország ötször nagyobb Japánnál.	Quel paese è cinque volte più grande del Giappone.
 hun	ita	Ez az ötlet nem tetszik nekem.	Questa idea non mi piace.
 hun	ita	Ez az utolsó ajánlatom.	Questa è la mia ultima offerta.
@@ -1856,8 +1901,8 @@ hun	ita	Ezek a hölgyek a nagynénéim.	Quelle signore sono le mie zie.
 hun	ita	Ezek a kutyák nagyok.	Questi cani sono grandi.
 hun	ita	Ezek a mi könyveink.	Questi libri sono nostri.
 hun	ita	Ezek a mi könyveink.	Questi sono i nostri libri.
-hun	ita	Ezek a mondatok?	Queste sono le frasi?
 hun	ita	Ezek a mondatok.	Queste sono le frasi.
+hun	ita	Ezek a mondatok?	Queste sono le frasi?
 hun	ita	Ezek a problémák fontosak nekem.	Questi problemi sono importanti per me.
 hun	ita	Ezek a színek jól illenek egymáshoz.	Quei colori stanno bene assieme.
 hun	ita	Ezek a versek egy kicsit mindig megríkatnak.	A me queste poesie fanno sempre un po' piangere.
@@ -1898,6 +1943,7 @@ hun	ita	Ez már a harmadik alkalom, hogy a földrengésre ébredek fel.	È già 
 hun	ita	Ez már a múlté.	È una cosa del passato.
 hun	ita	Ez más.	Questo è differente.
 hun	ita	Ez még azelőtt volt, hogy John börtönbe került.	Questo era prima che John venisse messo in galera.
+hun	ita	Ez mind a mi pénzünk.	È tutto il nostro denaro.
 hun	ita	Ez mind az én könyvem.	Tutti quei libri sono miei.
 hun	ita	Ez minden, amit meg akartam tudni.	Questo è tutto ciò che volevo sapere.
 hun	ita	Ez minden, amit szerettem volna megtudni.	Questo è tutto ciò che volevo sapere.
@@ -2069,6 +2115,7 @@ hun	ita	Félsz a haláltól?	Hai paura della morte?
 hun	ita	Felszálltak a repülőgépre.	Salirono sull'aeroplano.
 hun	ita	Fel szeretném próbálni a csíkos, kék szoknyát.	Vorrei provare la gonna blu a righe.
 hun	ita	Félt.	Aveva paura.
+hun	ita	Feltehetek egy másik kérdést?	Posso fare un'altra domanda?
 hun	ita	Feltehetek néhány kérdést?	Posso fare qualche domanda?
 hun	ita	Féltékeny vagyok.	Io sono gelosa.
 hun	ita	Féltékeny vagyok.	Io sono geloso.
@@ -2077,6 +2124,7 @@ hun	ita	Féltékeny voltál.	Tu eri geloso.
 hun	ita	Féltékeny voltam.	Ero gelosa.
 hun	ita	Féltékeny voltam.	Io ero gelosa.
 hun	ita	Féltékeny volt.	Era geloso.
+hun	ita	Féltek valakitől?	Avete paura di qualcuno?
 hun	ita	Féltem új dolgokat kipróbálni.	Avevo paura di provare delle cose nuove.
 hun	ita	Félünk a mozgólépcsőtől.	Abbiamo paura delle scale mobili.
 hun	ita	Félünk.	Noi abbiamo paura.
@@ -2097,6 +2145,7 @@ hun	ita	Fiatal volt.	Era giovane.
 hun	ita	Fiatal volt.	Lei era giovane.
 hun	ita	Finn vagyok.	Io sono finlandese.
 hun	ita	Finn vagyok.	Sono finlandese.
+hun	ita	Fix állása van.	Ha un posto fisso.
 hun	ita	Fizetni akartam.	Ho voluto pagare.
 hun	ita	Focisták vagyunk.	Siamo calciatori.
 hun	ita	Fogalmam sem volt, hogy Tom orvos.	Io non avevo idea che Tom fosse un dottore.
@@ -2197,6 +2246,7 @@ hun	ita	Gyerekek vagytok.	Voi siete bambini.
 hun	ita	Gyerekkorom óta nem voltam beteg.	Io non mi sono mai ammalato da quand'ero bambino.
 hun	ita	Gyerekkorom óta nem voltam beteg.	Non mi sono mai ammalata da quand'ero bambina.
 hun	ita	Gyere olyan gyorsan, ahogy csak tudsz.	Vieni il più velocemente possibile.
+hun	ita	Gyere velem Budapestre!	Vieni con me a Budapest!
 hun	ita	Gyere vissza Chilébe!	Ritorni in Cile!
 hun	ita	Gyermekkorunk óta ismerjük egymást.	Ci conosciamo dall'infanzia.
 hun	ita	Gyerünk, Jiro.	Dai, Jiro.
@@ -2219,6 +2269,7 @@ hun	ita	Ha a világ idegesít, énekelj egy dalt.	Se il mondo ti fa arrabbiare, 
 hun	ita	Ha az idegeidre megy a világ, énekelj!	Se il mondo ti fa arrabbiare, canta una canzone.
 hun	ita	Ha az üzlet ma zárva van, majd holnap újra megpróbálom.	Se il negozio è chiuso oggi, proverò di nuovo domani.
 hun	ita	Háborúba mennek.	Vanno in guerra.
+hun	ita	Hadd beszéljek én.	Lascia che sia io a parlare.
 hun	ita	Hadd döntsön ő!	Lasciamo decidere a lui.
 hun	ita	Hadd próbáljam meg!	Me la faccia provare.
 hun	ita	Hadd üljek le.	Lasciami sedere.
@@ -2261,11 +2312,13 @@ hun	ita	Hallani akarom, mit gondol Tom.	Io voglio sentire cosa pensa Tom.
 hun	ita	Hallani akarom, mit gondol Tom.	Voglio sentire cosa pensa Tom.
 hun	ita	Hallasz valamit?	Senti qualcosa?
 hun	ita	Hallgasd meg!	Ascoltala!
+hun	ita	Hallgattad a podcastet?	Hai ascoltato il podcast?
 hun	ita	Hallo, a nevem Ken Saitou.	Salve, il mio nome è Ken Saitou.
 hun	ita	Hallo, a nevem Ken Saitou.	Salve, mi chiamo è Ken Saitou.
 hun	ita	Hallod?	Senti?
 hun	ita	Hallod?	Tu senti?
 hun	ita	Halló!	Pronto!
+hun	ita	Hallottad a podcastot?	Hai ascoltato il podcast?
 hun	ita	Hallottad, hogy meghalt?	Hai sentito che è morto?
 hun	ita	Hallottad, hogy meghalt Wade?	Hai sentito che è morto Wade?
 hun	ita	Hallottál a tegnapi tűzvészről?	Avete sentito dell'incendio di ieri?
@@ -2372,6 +2425,7 @@ hun	ita	Hatalmas sárga csizmát viselt.	Indossava degli enormi stivali gialli.
 hun	ita	Határozatlan idejű a szerződésem.	Ho un contratto a tempo indeterminato.
 hun	ita	Hat ember volt ott a koncerten múlt héten.	C'erano sei persone al concerto la scorsa settimana.
 hun	ita	Hatig ott maradok.	Io starò là fino alle sei.
+hun	ita	Hátizsák volt rajta.	Aveva uno zaino sulle spalle.
 hun	ita	Hat óráig fogok ottmaradni.	Io resterò là fino alle sei.
 hun	ita	Hat óráig fogok ottmaradni.	Io rimarrò là fino alle sei.
 hun	ita	Hat óráig fogok ottmaradni.	Io starò là fino alle sei.
@@ -2386,6 +2440,7 @@ hun	ita	Ha tudnám a címét, írnék neki.	Se conoscessi il suo indirizzo gli s
 hun	ita	Ha tudnám a címét!	Se solo conoscessi il suo indirizzo.
 hun	ita	Ha tudtam volna, hogy így végződik, sose egyeztem volna bele.	Se avessi saputo che andava a finire così, non avrei mai acconsentito.
 hun	ita	Ha ügyesek lesztek, veszek nektek fagyit.	Se fate i bravi, vi prendo il gelato.
+hun	ita	Ha valaki boldog, akkor repül az idő.	Quando una persona è felice, il tempo vola.
 hun	ita	Ha van még egy esernyőd, kölcsönkérhetném?	Se hai un ombrello extra, posso prendertelo in prestito?
 hun	ita	Ha van pénz a zsebedben, szép vagy, intelligens, és jól is dalolsz.	Se hai soldi in tasca, sei bello, intelligente e canti anche bene.
 hun	ita	Havazik még.	Nevica ancora.
@@ -2417,6 +2472,7 @@ hun	ita	Helyeslem a tervét.	Approvo il suo piano.
 hun	ita	Hét dollárt kérek.	Sette dollari, prego.
 hun	ita	Hetente három órát tanulunk angolul.	Impariamo l'inglese tre ore la settimana.
 hun	ita	Hetente három órát tanulunk angolul.	Noi impariamo l'inglese tre ore la settimana.
+hun	ita	Heten vagytok?	Siete in sette?
 hun	ita	Hét fia van.	Ha sette figli.
 hun	ita	Hét fia van.	Lui ha sette figli.
 hun	ita	Hétfő a vasárnap után jön.	Lunedì viene dopo domenica.
@@ -2441,6 +2497,7 @@ hun	ita	Hideg van.	C'è freddo.
 hun	ita	Hideg van?	Fa freddo?
 hun	ita	Hideg van itt bent.	Fa freddo qua dentro.
 hun	ita	Hideg volt?	Era fredda?
+hun	ita	Hideg volt kint.	Fuori c'era freddo.
 hun	ita	Hideg volt tegnap?	Faceva freddo ieri?
 hun	ita	Higgadj le, és mondd el a teljes igazságot.	Calmati e dimmi tutta la verità.
 hun	ita	Hihetetlen, hogy te még nem vagy börtönben!	È incredibile che ancora non sia in prigione!
@@ -2458,6 +2515,7 @@ hun	ita	Hívd Tomot!	Chiami Tom.
 hun	ita	Hívhatsz Bobnak.	Mi puoi chiamare Bob.
 hun	ita	Hívhatsz Bobnak.	Puoi chiamarmi Bob.
 hun	ita	Hívjál fel!	Chiamami!
+hun	ita	Hívni akarták az ügyvédeiket.	Volevano chiamare i loro avvocati.
 hun	ita	Hívom a zsarukat.	Io sto chiamando i poliziotti.
 hun	ita	Hogyan jöttél ide?	Come sei venuto qui?
 hun	ita	Hogyan kell olvasni az utolsó szót a harmadik sorban?	Come si legge l'ultima parola nella terza riga?
@@ -2490,8 +2548,10 @@ hun	ita	Hogy van a családod?	Come sta la tua famiglia?
 hun	ita	Hogy van a vállad?	Come sta la spalla?
 hun	ita	Hogy van édesanyád?	Come sta tua madre?
 hun	ita	Hogy vannak a gyerekek?	Come stanno le bambine?
+hun	ita	Hol a hagymám?	Dov'è la mia cipolla?
 hun	ita	Hol a kutyád?	Dov'è il tuo cane?
 hun	ita	Hol aludtál múlt éjjel?	Dove hai dormito la scorsa notte?
+hun	ita	— Hol a macska? — A tetőn.	"Dov'è il gatto?" - "Sul tetto".
 hun	ita	Hol a pizza?	Dov'è la pizza?
 hun	ita	Hol a probléma?	Dov'è il problema?
 hun	ita	Hol a szakáll ?	Dov'è la barba?
@@ -2586,6 +2646,7 @@ hun	ita	Hol van a legközelebbi bank?	Dov'è la banca più vicina?
 hun	ita	Hol van a legközelebbi patika?	Dov'è la farmacia più vicina?
 hun	ita	Hol van a legközelebbi patika?	Dove si trova la farmacia più vicina?
 hun	ita	Hol van a legközelebbi rendőrség?	Dov'è la stazione di polizia più vicina?
+hun	ita	— Hol van a macska? — A tetőn.	"Dov'è il gatto?" - "Sul tetto".
 hun	ita	Hol van a másik fiútestvéred?	Dov'è l'altro tuo fratello?
 hun	ita	Hol van a másik fivéred?	Dov'è l'altro tuo fratello?
 hun	ita	Hol van a mosdó?	Dov'è il gabinetto?
@@ -2599,6 +2660,7 @@ hun	ita	Hol van a postaláda?	Dov'è la buca delle lettere?
 hun	ita	Hol van a repülőtér?	Dov'è l'aeroporto?
 hun	ita	Hol van a repülőtér?	Dove si trova l'aeroporto?
 hun	ita	- Hol van a szemüvegem? - A konyhaasztalon hagytad.	"Dove sono i miei occhiali?" "Li hai lasciati sul tavolo della cucina."
+hun	ita	Hol van a szivacs?	Dov'è la spugna?
 hun	ita	Hol van a szobád?	Dov'è la tua camera?
 hun	ita	Hol van a tejes tea?	Dov'è il tè con il latte?
 hun	ita	Hol van a telefonkönyv?	Dov'è l'elenco telefonico?
@@ -2717,6 +2779,7 @@ hun	ita	Ikerfiúk.	Sono gemelli.
 hun	ita	Ikerlányok.	Sono gemelle.
 hun	ita	Ikertestvérek vagyunk.	Noi siamo gemelli.
 hun	ita	Illik hozzád a piros.	Ti sta bene il rosso.
+hun	ita	Ilyen táskát boltban nem lehet kapni.	Una borsa così non la trovi in negozio.
 hun	ita	Ime a sör.	Ecco la birra.
 hun	ita	Íme az ember!	Ecco l'uomo.
 hun	ita	Ime egy levél neked.	Ecco una lettera per te.
@@ -2732,6 +2795,8 @@ hun	ita	Inkább otthon maradnék.	Preferirei rimanere a casa.
 hun	ita	Inkább otthon maradnék.	Preferirei stare a casa.
 hun	ita	Inkább sétálnék, mint filmet néznék.	Io preferirei fare una passeggiata che vedere il film.
 hun	ita	Inkább tennék egy sétát, mint nézném a filmet.	Io preferirei fare una passeggiata che vedere il film.
+hun	ita	Iparkodj kicsit!	Sbrigati un po'!
+hun	ita	Írástudatlan vagyok.	Sono analfabeto.
 hun	ita	Iratkozzatok fel!	Arruolatevi!
 hun	ita	Írjál nekem!	Scrivimi.
 hun	ita	Írok egy levelet.	Io sto scrivendo una lettera.
@@ -2778,6 +2843,7 @@ hun	ita	Isten a világot hat nap alatt teremtette.	Dio creò il mondo in sei gio
 hun	ita	Isten hozott minálunk.	Siete le benvenute qui.
 hun	ita	Isten hozta éttermünkbe!	Benvenuti nel nostro ristorante!
 hun	ita	Isten létezik.	Dio esiste.
+hun	ita	Isten nem hazudik.	Dio non mente.
 hun	ita	Isten veled!	Addio!
 hun	ita	Iszol alkoholt?	Bevi alcolici?
 hun	ita	Iszol bort?	Tu bevi del vino?
@@ -2823,9 +2889,11 @@ hun	ita	Itt vagyok.	Sono qua.
 hun	ita	Itt vagyok.	Sono qui.
 hun	ita	Itt van a kutyád.	Il tuo cane è qua.
 hun	ita	Itt van a lányod?	Tua figlia è qui?
+hun	ita	Itt vannak a cuccai.	Ecco le sue cose.
 hun	ita	Itt vannak.	Essi sono qui
 hun	ita	Itt vannak.	Loro sono qui.
 hun	ita	Itt van Tom?	È qui Tom?
+hun	ita	Izgalmasnak tűnik.	Sembra eccitante.
 hun	ita	Izgatottan várom a Karácsonyt.	Aspetto Natale con impazienza.
 hun	ita	Izraeli vagyok.	Io vengo da Israele.
 hun	ita	Jack beszél angolul.	Jack parla l'inglese.
@@ -2854,6 +2922,7 @@ hun	ita	Javaslom az idézőjeleket itt elhagyni.	Propongo di omettere le virgole
 hun	ita	Javítom a mosógépet.	Sto riparando la lavatrice.
 hun	ita	Jegyesek.	Sono fidanzati.
 hun	ita	Jelenleg eszperantóul tanulok.	Sto attualmente imparando l'esperanto.
+hun	ita	Jim még nem jött.	Jim non è ancora venuto.
 hun	ita	Jimmy mindent tud az autókról.	Jimmy conosce tutto sulle macchine.
 hun	ita	Jiro csinált egy vázlatot a Fudzsi-hegyről.	Jiro fece uno schizzo del Monte Fuji.
 hun	ita	Jiro csinált egy vázlatot a Fudzsi-hegyről.	Jiro ha fatto uno schizzo del Monte Fuji.
@@ -2983,8 +3052,11 @@ hun	ita	Kellene nekem még mondatokat küldeni neked?	Dovrei mandarti più frasi
 hun	ita	Kell még neked mondatot küldenem?	Dovrei mandarti più frasi?
 hun	ita	Kell neked egy király?	Hai bisogno di un re?
 hun	ita	Kell nekem egy bélyeg.	Ho bisogno di un francobollo.
+hun	ita	Kell nekem egy söprű.	Ho bisogno di una scopa.
+hun	ita	Kell nekem egy söprű.	Mi serve una scopa.
 hun	ita	Kell találnom egy új munkát.	Io devo trovare un nuovo lavoro.
 hun	ita	Keményen dolgoztál.	Hai lavorato duramente.
+hun	ita	Kényszerítettek, hogy aláírjam a szerződést.	Fui forzata a firmare il documento.
 hun	ita	Kérdezhetek tőled valamit?	Posso farti una domanda?
 hun	ita	Kérdezzük meg a tanítót.	Chiediamo al professore.
 hun	ita	Kérem, foglaljon helyet!	Sedetevi, per favore.
@@ -3024,8 +3096,10 @@ hun	ita	Késésben vagyok az eső miatt.	Sono in ritardo a causa della pioggia.
 hun	ita	Késésben vagyok, igaz?	Sono in ritardo, vero?
 hun	ita	Késésben vagyunk.	Siamo in ritardo.
 hun	ita	Késésben voltam.	Io ero in ritardo.
+hun	ita	Később megrendelem majd.	Lo ordinerò più tardi.
 hun	ita	Későn feküdtél le?	Ti sei alzato tardi?
 hun	ita	Késsel könnyen lehet vágni sajtot.	Si può facilmente tagliare del formaggio con un coltello.
+hun	ita	Kész a kávé?	Il caffè è pronto?
 hun	ita	Kész a vacsora!	La cena è pronta!
 hun	ita	Kész az ebéd.	Il pranzo è pronto.
 hun	ita	Kész az útleveled?	È pronto il tuo passaporto?
@@ -3118,17 +3192,20 @@ hun	ita	Ki a kedvenc szerződ?	Chi è il tuo scrittore preferito?
 hun	ita	Ki a következő?	Chi è la prossima?
 hun	ita	Ki a legjobb barátnője?	Chi è la sua migliore amica?
 hun	ita	Kialkudott egy alacsonyabb árat az ingatlanügynöktől.	Ha negoziato un prezzo inferiore con l'agente immobiliare.
+hun	ita	Ki a spanyol király?	Chi è il re di Spagna?
 hun	ita	Ki a tanárod?	Chi è il tuo insegnante?
 hun	ita	Ki a tanárod?	Chi è il tuo professore?
 hun	ita	Ki az a három nő?	Chi sono quelle tre donne?
 hun	ita	Ki az, aki közülünk nem hibázik?	Chi di noi non si sbaglia?
 hun	ita	Ki az, aki rajtad kívül tud még erről?	Chi altro, a parte te, ne è a conoscenza?
 hun	ita	Ki az, aki segít neki?	Chi è che l'aiuta?
+hun	ita	Ki az ördög vagy?	Tu chi diavolo sei?
 hun	ita	Ki az ügyvéded?	Chi è il tuo avvocato?
 hun	ita	Ki beszélt neked rólam?	Chi ti ha parlato di me?
 hun	ita	Ki?	Chi?
 hun	ita	Kicsi a világ.	È un piccolo mondo.
 hun	ita	Kicsi a világ.	Il mondo è piccolo.
+hun	ita	Kicsit azért szedd a lábad!	Sbrigati un po'!
 hun	ita	Kicsit fáradt vagyok.	Sono un po' stanco.
 hun	ita	Kicsit korán van az italozáshoz, nemde?	È un po' presto per bere, vero?
 hun	ita	Kicsivel több mint harminc éves.	Ha un po' più di trent'anni.
@@ -3176,6 +3253,8 @@ hun	ita	Ki másnak van erről tudomása rajtad kívül?	Chi altro, a parte te, n
 hun	ita	Kína hússzor nagyobb Japánnál.	La Cina è venti volte più grande del Giappone.
 hun	ita	Kínai?	È cinese?
 hun	ita	Kínai vagy?	Sei cinese?
+hun	ita	Kinek jó ez a háború?	A chi conviene questa guerra?
+hun	ita	Kinevette.	Rise di lui.
 hun	ita	Kint hideg van.	Fa freddo fuori.
 hun	ita	Kint már sötét van.	Fuori è già buio.
 hun	ita	Kint teljesen sötét van.	C'è completamente buio fuori.
@@ -3250,6 +3329,7 @@ hun	ita	Kövér vagy?	Sei grassa?
 hun	ita	Kövér vagy?	Sei grasso?
 hun	ita	Kövér voltam.	Ero grassa.
 hun	ita	Közeleg a születésnapom.	Presto sarà il mio compleanno.
+hun	ita	Közelről nézte őt.	Lo osservò da vicino.
 hun	ita	Közel vagyok a hídhoz.	Io sono vicina al ponte.
 hun	ita	Közel vagyok a hídhoz.	Io sono vicino al ponte.
 hun	ita	Közel vagyok az állomáshoz.	Io sono vicino alla stazione.
@@ -3301,6 +3381,7 @@ hun	ita	Láttam őt bemenni a házba.	L'ho visto entrare in casa.
 hun	ita	Láttam öt repülőgépet elszállni, mintha madarak lettek volna.	Ho visto cinque aeroplani volare via come altrettanti uccelli.
 hun	ita	Láttátok a kutyámat?	Avete visto il mio cane?
 hun	ita	Láttátok a mai újságot?	Avete visto il giornale di oggi?
+hun	ita	Láttátok őt, srácok?	Voi ragazzi la avete vista?
 hun	ita	Láttuk Tamást.	Abbiamo visto Tom.
 hun	ita	Láttuk Tamást.	Noi abbiamo visto Tom.
 hun	ita	Láttunk valamit.	Noi abbiamo visto qualcosa.
@@ -3308,6 +3389,8 @@ hun	ita	Laurie jól úszik.	Laurie nuota bene.
 hun	ita	Laurie jól úszik.	Lorry nuota bene.
 hun	ita	Lázas vagyok és fáj a fejem. Azt hiszem, beteg leszek.	Ho la febbre e il mal di testa. Penso che mi sto ammalando.
 hun	ita	Lázas vagyok és fáj a fejem. Azt hiszem, beteg leszek.	Io ho la febbre e il mal di testa. Penso che mi sto ammalando.
+hun	ita	Le akart csüccsenni mellé.	Voleva sedersi di fianco a lei.
+hun	ita	Lecsendesedett a tenger.	Il mare si è calmato.
 hun	ita	Leégettek.	Sono stato discreditato.
 hun	ita	Lefestette az ajtót pirosra.	Lei ha dipinto la porta di rosso.
 hun	ita	Lefordítottuk a jelentést angolról afrikaans nyelvre.	Abbiamo tradotto il rapporto dall'inglese all'afrikaans.
@@ -3315,6 +3398,7 @@ hun	ita	Legalább öt dollárba fog kerülni.	Costerà almeno cinque dollari.
 hun	ita	Legalább tíz könyvem van.	Ho almeno dieci libri.
 hun	ita	Legkevesebb öt dollárba fog kerülni.	Costerà almeno cinque dollari.
 hun	ita	Légy barátságos mindenkivel.	Sii gentile con tutti.
+hun	ita	Legyen már egy kis hited!	Abbi un po' di fede.
 hun	ita	Légy kedves mindenkihez.	Sii gentile con tutti.
 hun	ita	Légy szíves, nyisd ki ezt a dobozt.	Per favore, apra questa scatola.
 hun	ita	Légy szíves, nyisd ki ezt a dobozt.	Per piacere, apri questa scatola.
@@ -3370,6 +3454,7 @@ hun	ita	Ma este le fog hűlni.	Farà freddo stanotte.
 hun	ita	Ma este Tom főzött vacsorát.	Tom deve cucinare la cena stasera.
 hun	ita	Ma fáradt vagyok.	Oggi sono stanca.
 hun	ita	Ma gondolok majd rátok.	Vi penserò oggi.
+hun	ita	Maguk külföldiek?	Voi siete stranieri?
 hun	ita	Magyar.	È ungherese.
 hun	ita	Magyarok vagyunk.	Siamo ungheresi.
 hun	ita	Magyarországon magyarul beszélnek.	In Ungheria si parla l'ungherese.
@@ -3430,6 +3515,7 @@ hun	ita	Ma reggel olvastam egy érdekes cikket.	Ho letto un articolo interessant
 hun	ita	Már elfeledtem a nagymamám arcát.	Ho già dimenticato il viso di mia nonna.
 hun	ita	Már el vagyok jegyezve.	Sono già fidanzata.
 hun	ita	Már el vagyok jegyezve.	Sono già fidanzato.
+hun	ita	Mária a barátnőm.	Maria è la mia ragazza.
 hun	ita	Mária a nagybátyjával fog maradni Kiotóban.	Marie resterà con suo zio a Kyoto.
 hun	ita	Mária énekel egy kórusban.	Mary canta in un coro.
 hun	ita	Mária éppen most jött haza.	Mary è appena tornata a casa.
@@ -3508,7 +3594,10 @@ hun	ita	Még azelőtt elvitték őt, mielőtt én odaértem a házához.	Quando 
 hun	ita	Megbízhatóak vagyunk.	Siamo affidabili.
 hun	ita	Megbuktam a vizsgán.	Io sono stata bocciata all'esame.
 hun	ita	Megbuktam a vizsgán.	Sono stato bocciato all'esame.
+hun	ita	Megcsinálja, ha meg kell.	Lo farà se deve.
+hun	ita	Megcsinálja majd, ha kell.	Lo farà se deve.
 hun	ita	Megcsodálta az új autómat.	Ha ammirato la mia nuova macchina.
+hun	ita	Megcsókolhatod a menyasszonyt.	Puoi baciare la sposa!
 hun	ita	Megcsókoltad, igaz?	L'hai baciata, vero?
 hun	ita	Még egy gyerek is meg tudja érteni.	Persino un bambino riesce a capirlo.
 hun	ita	Még egy karácsonyi képeslapot sem kaptam.	Non ho ricevuto neanche una cartolina di Natale.
@@ -3626,6 +3715,7 @@ hun	ita	Még nem végeztünk.	Non abbiamo ancora finito.
 hun	ita	Még nem volt alkalmam használni.	Non ho mai avuto l'opportunità di utilizzarlo.
 hun	ita	Megnézte magát a tükörben.	Si guardò allo specchio.
 hun	ita	Még nincs elég pénzem.	Non ho ancora abbastanza soldi.
+hun	ita	Még nincs férjnél.	Non è ancora sposata.
 hun	ita	Még nincs itt.	Lei non è ancora qui.
 hun	ita	Még nincs itt.	Non è ancora qui.
 hun	ita	Megőrjítesz.	Mi fai impazzire.
@@ -3668,6 +3758,7 @@ hun	ita	Megtaláltam.	L'ho trovato.
 hun	ita	Megtalálta Tomit.	Lei ha trovato Tom.
 hun	ita	Meg talált egy négylevelű lóherét.	Meg ha trovato un quadrifoglio.
 hun	ita	Megtaláltuk Tomit.	Noi abbiamo trovato Tom.
+hun	ita	Megtanítottad ezt a fiadnak?	Hai insegnato quello a tuo figlio?
 hun	ita	Megtanultam élni nélküle.	Ho imparato a vivere senza di lei.
 hun	ita	Megtanult úszni.	Ha imparato a nuotare.
 hun	ita	Megtarthatod a könyvet.	Puoi tenere il libro.
@@ -3690,17 +3781,20 @@ hun	ita	Megvakult.	Lui divenne cieco.
 hun	ita	Megvakult.	Lui è diventato cieco.
 hun	ita	Megválasztottak minket.	Siamo eletti.
 hun	ita	Megveszem.	Lo comprerò.
+hun	ita	Megvette neki.	L'ha comprato per lui.
 hun	ita	Megvitatom az ügyet az apámmal.	Discuterò della questione con mio padre.
 hun	ita	Megy a hajó Genovába?	È la nave per Genova?
 hun	ita	Megyek aludni.	Vado a dormire.
 hun	ita	Megyek a strandra.	Vado in spiaggia.
 hun	ita	Megyek megnézem, hogy Tom jól van-e.	Andrò a vedere se Tom sta bene.
 hun	ita	Megyek templomba vasárnap.	Vado in chiesa la domenica.
+hun	ita	Megyünk ma úszni?	Andremo a nuotare oggi?
 hun	ita	Megyünk Tripoliba?	Andiamo a Tripoli?
 hun	ita	Mehetünk?	Possiamo andare?
 hun	ita	Meleg?	È caldo?
 hun	ita	Meleg van?	Fa caldo?
 hun	ita	Meleg van ma.	Fa caldo oggi.
+hun	ita	Mellé akart ülni.	Voleva sedersi di fianco a lei.
 hun	ita	Melyik adást nézted tegnap?	Che programma hai visto ieri?
 hun	ita	Melyik a jobb?	Qual è meglio?
 hun	ita	Melyik a kedvenc évszakod?	Quale è la tua stagione preferita?
@@ -3798,6 +3892,7 @@ hun	ita	Mi a jobb a barátságnál?	Che cos'è meglio dell'amicizia?
 hun	ita	Mi akarjuk, hogy Tom maradjon segíteni.	Noi vogliamo che Tom rimanga ad aiutare.
 hun	ita	Mi a kedvenc desszertje?	Qual è il suo dessert preferito?
 hun	ita	Mi a kedvenc háborús filmed?	Qual è il tuo film di guerra preferito?
+hun	ita	Mi a különbség egy asztal és egy szék között?	Qual è la differenza tra un tavolo e una sedia?
 hun	ita	Mialatt vártam az autóbuszt, láttam egy balesetet.	Mentre stavo aspettando l'autobus ho visto un incidente.
 hun	ita	Mi a neve a legjobb barátodnak?	Qual è il nome del tuo migliore amico?
 hun	ita	Mi a neve a lónak?	Qual è il nome del cavallo?
@@ -3809,9 +3904,11 @@ hun	ita	Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön
 hun	ita	Mi a vacsora?	Che c'è per cena?
 hun	ita	Mi a véleményed a cégről?	Quali sono le tue opinioni sull'azienda?
 hun	ita	Mi a véleményed a japán oktatási rendszerről?	Cosa ne pensi del sistema scolastico giapponese?
+hun	ita	Mi az alapvető üzenete ennek a könyvnek?	Qual è il messaggio principale di questo libro?
 hun	ita	Mi az állampolgárságod?	Qual è la tua nazionalità?
 hun	ita	Mi az, aminek ilyen jó illata van?	Cos'è che ha un odore così buono?
 hun	ita	Mi az ördögöt csinálsz itt?	Cosa diavolo stai facendo qua?
+hun	ita	Mi az ország fővárosa?	Qual è la capitale del paese?
 hun	ita	Mi az otthoni címed?	Qual è il tuo indirizzo di casa?
 hun	ita	Mi az új címed?	Qual è il tuo nuovo indirizzo?
 hun	ita	Michael Jackson meghalt.	Michael Jackson morì.
@@ -4038,6 +4135,7 @@ hun	ita	Mindened megvan.	Hai tutto.
 hun	ita	Minden embernek vannak jogai és kötelességei.	Ogni uomo ha diritti e doveri.
 hun	ita	Minden este fürdök.	Faccio un bagno ogni notte.
 hun	ita	Minden este fürdök.	Faccio un bagno ogni sera.
+hun	ita	Minden ideológia, beleértve a vallásokat is, manipulatívok.	Tutte le ideologie, comprese le religioni, sono manipolatrici.
 hun	ita	Minden készen áll.	Tutto è pronto.
 hun	ita	Minden kész.	Tutto è pronto.
 hun	ita	Minden kezdet nehéz.	Tutti gli inizi sono difficili.
@@ -4098,6 +4196,7 @@ hun	ita	Mindent tőle tanultam.	Ho imparato tutto da lui.
 hun	ita	Mindent tudnak.	Sanno tutto.
 hun	ita	Mindent tudok, amit tudnom kell.	So tutto quel che devo sapere.
 hun	ita	Mindent tudok Tomról.	Io so tutto di Tom.
+hun	ita	Mindent vagy semmit!	O tutto o niente!
 hun	ita	Minden utast leszállíttattak a repülőgépről.	Tutti i passeggeri furono evacuati dall'aereo.
 hun	ita	Mindezt könnyű és egyszerű megérteni.	Tutto ciò è semplice e facile da capire.
 hun	ita	Mindig a legszebb vagy.	Sei sempre il più bello.
@@ -4166,6 +4265,7 @@ hun	ita	Mit csinál?	Lei che cosa fa?
 hun	ita	Mit csinálnának nélkülünk?	Cosa farebbero senza di noi?
 hun	ita	Mit csinálna Tom nélkülem?	Che cosa farebbe Tom senza di me?
 hun	ita	Mit csinálna Tom nélkülem?	Che farebbe Tom senza di me?
+hun	ita	Mit csinál öcséd?	Cosa sta facendo tuo fratello?
 hun	ita	Mit csinálsz általában vacsora után?	Cosa fai solitamente dopo cena?
 hun	ita	Mit csinálsz a szabadidődben?	Che cosa fai nel tempo libero?
 hun	ita	Mit csinálsz?	Che cosa fai?
@@ -4196,6 +4296,7 @@ hun	ita	Mit gondolsz a filmekről, amelyeket tegnap láttunk?	Che cosa pensi dei
 hun	ita	Mit gondolsz a filmekről, amit tegnap láttunk?	Che cosa pensi dei film che abbiamo visto ieri?
 hun	ita	Mit gondolsz a filmről, amit tegnap láttunk?	Che cosa pensi del film che abbiamo visto ieri?
 hun	ita	Mit gondolsz a filmről?	Cosa ne pensi del film?
+hun	ita	Mit gondolsz a nőkről?	Cosa pensi delle donne?
 hun	ita	Mit gondolsz az új filmről?	Cosa ne pensi del nuovo film?
 hun	ita	Mit gondolsz az új tanárról?	Che cosa ne pensa del nuovo insegnante?
 hun	ita	Mit gondolsz erről?	Che cosa ne pensi?
@@ -4294,6 +4395,7 @@ hun	ita	Mondjátok meg Tomnak, hogy ne keressen.	Dite a Tom di non cercarmi.
 hun	ita	Mondj el mindent magadról!	Raccontami tutto di te.
 hun	ita	Mondj el nekem mindent, amit tudsz!	Raccontami tutto ciò che sai.
 hun	ita	Mondj el nekem mindent!	Raccontami tutto!
+hun	ita	Mondta neki, hogy menjen vissza a szobájába.	Le ha detto di tornare nella sua stanza.
 hun	ita	Mosd meg az arcod!	Si lavi la faccia.
 hun	ita	Mossátok meg evés előtt a kezeteket!	Lavati le mani prima di mangiare.
 hun	ita	Most 11 óra van.	Adesso sono le undici.
@@ -4410,6 +4512,7 @@ hun	ita	Nagyon megváltoztál.	Sei cambiata molto.
 hun	ita	Nagyon meleg van itt.	Fa molto caldo qui.
 hun	ita	Nagyon nagy a szobád.	La tua camera è molto grande.
 hun	ita	Nagyon nehéz volt.	Era molto difficile.
+hun	ita	Nagyon nem tudom, mi ütött belé.	Non so proprio che cosa le sia preso.
 hun	ita	Nagyon örülök, hogy mind itt vagytok.	Mi fa piacere che siate tutte qui.
 hun	ita	Nagyon rosszul érzem magam.	Mi sento molto male.
 hun	ita	Nagyon rövid haja van.	Ha i capelli molto corti.
@@ -4453,6 +4556,7 @@ hun	ita	Ne dobd el ezt az újságot! Én még nem olvastam.	Non buttate via ques
 hun	ita	Ne érintsd meg azt!	Non toccarlo.
 hun	ita	Ne felejts el válaszolni a levelére.	Non dimentichi di rispondere alla sua lettera.
 hun	ita	Ne felejtsétek el elolvasni a megjegyzéseket!	Non dimenticate di leggere i commenti.
+hun	ita	Ne félj elmondani azt, amit gondolsz.	Non aver paura di dire quello che pensi.
 hun	ita	Negyed tíz van.	Sono le nove e un quarto.
 hun	ita	Négy levelet írt nekem.	Lei mi ha scritto quattro lettere.
 hun	ita	Négy levelet írt nekem.	Lei mi scrisse quattro lettere.
@@ -4481,8 +4585,8 @@ hun	ita	Nehéz egy idegen nyelven írt verset lefordítani.	È difficile tradurr
 hun	ita	Nehéz franciául beszélni.	Parlare francese è difficile.
 hun	ita	Nehéz lefordítani egy idegen nyelven írt verset.	È difficile tradurre una poesia scritta in una lingua straniera.
 hun	ita	Nehéz lesz ellenállni a kísértésnek.	Sarà impegnativo resistere alla tentazione.
-hun	ita	Nehéz lesz?	Sarà difficile?
 hun	ita	Nehéz lesz.	Sarà difficile.
+hun	ita	Nehéz lesz?	Sarà difficile?
 hun	ita	Nehéz megtanulni eszperantóul?	L'esperanto è difficile da imparare?
 hun	ita	Nehéz mindenkit kielégíteni.	È difficile soddisfare tutti.
 hun	ita	Nehéz munkát találni.	È difficile trovare lavoro.
@@ -4531,6 +4635,7 @@ hun	ita	Neki nem muszáj iskolába menni.	Lui non deve andare a scuola.
 hun	ita	Neki tetszik a munkája.	A lei piace il suo lavoro.
 hun	ita	Neki van a legszebb feneke, amelyet valaha láttam.	Ha il più bel culo che io abbia mai visto.
 hun	ita	Neki van kulcsa a problémáidra.	Lui ha la chiave dei tuoi problemi.
+hun	ita	Neki vette.	L'ha comprato per lui.
 hun	ita	Nekünk van elég pénzünk.	Noi abbiamo abbastanza soldi.
 hun	ita	Ne légy olyan kritikus!	Non essere così critico.
 hun	ita	Nélküled egyedül érzem magam.	Mi sento solo senza di te.
@@ -4538,6 +4643,7 @@ hun	ita	Nélküled elveszettnek érezzük magunkat.	Ci sentiremo persi senza di 
 hun	ita	Nélküled rosszul érezzünk magunkat.	Staremo male senza di te.
 hun	ita	Nem adtam enni a kutyának.	Io non ho dato da mangiare al cane.
 hun	ita	Nem adta vissza a pénzem.	Non mi ha ridato i miei soldi.
+hun	ita	Nem adunk neked semmit.	Non vi daremo nulla.
 hun	ita	Nem akarok a bankba menni.	Io non voglio andare in banca.
 hun	ita	Nem akarok a bankba menni.	Non voglio andare in banca.
 hun	ita	Nem akarok állást Bostonban.	Non voglio un lavoro a Boston.
@@ -4571,7 +4677,9 @@ hun	ita	Nem akarom megvenni ezt a fajta kanapét.	Non voglio comprare questo tip
 hun	ita	Nem akarom megvenni.	Io non voglio comprarla.
 hun	ita	Nem akarom megvenni.	Non voglio comprarla.
 hun	ita	Nem akarom.	Non la voglio.
+hun	ita	Nem akarták eladni a házukat.	Non volevano vendere la loro casa.
 hun	ita	Nem akartalak zavarba hozni.	Non avevo intenzione di metterti in imbarazzo.
+hun	ita	Nem akart neki dolgozni.	Non voleva lavorare per lui.
 hun	ita	Nem akartok börtönbe kerülni, igaz?	Non volete andare in prigione, vero?
 hun	ita	Nem akarunk tovább várni.	Noi non vogliamo più aspettare.
 hun	ita	Nem alternatíva.	Non è un'alternativa.
@@ -4608,6 +4716,7 @@ hun	ita	Nem ebben a városban élek.	Io non vivo in questa città.
 hun	ita	Nem egy könnyű feladat.	Non è un compito facile.
 hun	ita	Nem élek ebben a városban.	Io non vivo in questa città.
 hun	ita	Nem élek Finnországban.	Io non vivo in Finlandia.
+hun	ita	Nem először megy be a tengerbe meztelenül fürdőzni.	Non è la prima volta che fa il bagno in mare nuda.
 hun	ita	Nem emlékszem, hogy bezártam-e az ajtót vagy sem.	Non ricordo se ho chiuso a chiave la porta o no.
 hun	ita	Nem emlékszem, hogy hívják.	Non ricordo come si chiama.
 hun	ita	Nem emlékszem, hogy kulcsra zártam-e az ajtót vagy sem.	Non ricordo se ho chiuso a chiave la porta o no.
@@ -4648,6 +4757,7 @@ hun	ita	Nem értem, miért beszélek a kutyáimhoz ír akcentussal.	Chissà perc
 hun	ita	Nem értem, miért beszélek a kutyáimhoz ír kiejtéssel.	Chissà perché io parlo ai miei cani con l'accento irlandese.
 hun	ita	Nem értem.	Non capisco.
 hun	ita	Nem értem őket.	Io non la capisco.
+hun	ita	Nem értem rá a héten.	Ero occupata durante la settimana.
 hun	ita	Nem értettem, amit kínaiul mondtak.	Io non capivo quello che dicevano in cinese.
 hun	ita	Nem értette meg a kérdést.	Lei non ha capito la domanda.
 hun	ita	Nem értette meg a kérdést.	Non ha capito la domanda.
@@ -4661,12 +4771,15 @@ hun	ita	Nem eszem disznóhúst.	Non mangio carne di maiale.
 hun	ita	Nem eszem minden nap az iskolai menzán.	Non mangio alla mensa scolastica ogni giorno.
 hun	ita	Nem eszik és nem iszik.	Non mangia e non beve.
 hun	ita	Nem eszik sem húst, sem halat.	Non mangia né carne né pesce.
+hun	ita	Nem eszik s nem iszik.	Non mangia o beve.
 hun	ita	Németországba repülök majd.	Volerò in Germania.
 hun	ita	Németország egyike Európa legszebb országainak.	La Germania è uno dei paesi più belli d'Europa.
 hun	ita	Németország közel van Olaszországhoz?	La Germania è vicina all'Italia?
+hun	ita	Nem ettek semmit.	Non hanno mangiato nulla.
 hun	ita	Németül fogunk írni egy mondatot.	Scriveremo una frase in tedesco.
 hun	ita	Nem, ez nem Rio de Janeiro.	No, questa non è Rio de Janeiro.
 hun	ita	Nem ezt mondtam neki.	Non è quello che le ho detto.
+hun	ita	Nem ezt vártam.	Questo non è ciò che ho richiesto.
 hun	ita	Nem fél a haláltól.	Lui non ha paura della morte.
 hun	ita	Nem felejtette el a pénzét.	Lei non ha dimenticato i suoi soldi.
 hun	ita	Nem felejtette el a pénzét.	Lui non ha dimenticato i suoi soldi.
@@ -4689,9 +4802,11 @@ hun	ita	Nem fog tetszeni, amit mondani fogok.	Non ti piacerà quello che sto per
 hun	ita	Nem fontos.	Non è importante.
 hun	ita	Nem főztem semmit.	Non stavo cucinando nulla.
 hun	ita	Nem futok olyan gyorsan, mint Jim.	Non corro tanto veloce quanto Jim.
+hun	ita	Nem garantált.	Non è garantita.
 hun	ita	Nem gondolhatok mindenre.	Non posso pensare a tutto.
 hun	ita	Nem gondolnak a szegény, éhségtől haldokló gyerekekre.	Non pensano ai poveri bambini che muoiono di fame.
 hun	ita	Nem gondolom, hogy megérted.	Non penso che capireste.
+hun	ita	Nem gyanúsítják már, vagy igen?	Non è più un sospetto, vero?
 hun	ita	Nem gyújthatok rá. Beteg vagyok.	Io non posso fumare. Sono ammalato.
 hun	ita	Nem gyújthatok rá. Beteg vagyok.	Io non posso fumare. Sono malata.
 hun	ita	Nem gyújthatok rá. Beteg vagyok.	Non posso fumare. Sono ammalato.
@@ -4705,6 +4820,7 @@ hun	ita	Nem harapok. Nincs fogam.	Non posso mordere. Non ho denti.
 hun	ita	Nem használnak se széket, se asztalt.	Non usano tavole né sedie.
 hun	ita	Nem használnak székeket vagy asztalokat.	Loro non usano sedie o tavoli.
 hun	ita	Nem hatékony.	Questo è inefficiente.
+hun	ita	Nem házas még.	Non è ancora sposata.
 hun	ita	Nem házas?	Non è sposato?
 hun	ita	Nem hiba.	Non è un errore.
 hun	ita	Nem hiszek a csodákban.	Non credo nei miracoli.
@@ -4726,11 +4842,13 @@ hun	ita	Nem iszok délelőtt.	Non bevo prima di mezzogiorno.
 hun	ita	Nem iszom kávét.	Io non bevo caffè.
 hun	ita	Nem iszom kávét.	Non bevo caffè.
 hun	ita	Nem jöttek be.	Non sono entrati.
+hun	ita	Nem kaptunk jegyet.	Non abbiamo ottenuto alcun biglietto.
 hun	ita	Nem kellene aggódnom.	Non dovrei preoccuparmi.
 hun	ita	Nem kell ezt megtennünk.	Noi non dobbiamo fare ciò.
 hun	ita	Nem kell hívni orvost.	Non c'è bisogno di chiamare il dottore.
 hun	ita	Nem kevésbé szép, mint a lánytestvére.	Non è meno bella di sua sorella.
 hun	ita	Nem könnyű egy szerelmeslevelet angolul megírni.	Non è facile scrivere una lettera d'amore in inglese.
+hun	ita	Nem könnyű elhinni.	Non è facile da credere.
 hun	ita	Nem könnyű.	Non è facile.
 hun	ita	Nem körülötted forog a világ.	Il mondo non gira intorno a te.
 hun	ita	Nem, köszönöm, nem iszom sört.	No, grazie, non bevo birra.
@@ -4756,6 +4874,7 @@ hun	ita	Nem leszek itt holnap.	Non sarò qui domani.
 hun	ita	Nem lett volna szabad a "jelszó" szót használnom jelszóként.	Non avrei dovuto usare la parola "password" come password.
 hun	ita	Nem lett volna szabad a "jelszó" szót használnom jelszóként.	Non avrei dovuto utilizzare la parola "password" come password.
 hun	ita	Nem maradtunk otthon tegnap.	Non siamo restate a casa ieri.
+hun	ita	Nem megyek börtönbe!	Non andrò in galera!
 hun	ita	Nem megyek iskolába szombaton.	Io non vado a scuola il sabato.
 hun	ita	Nem megyek iskolába szombaton.	Non vado a scuola il sabato.
 hun	ita	Nem megyünk szabadságra.	Noi non andiamo in vacanza.
@@ -4780,6 +4899,7 @@ hun	ita	Nem, nem, jól van.	No, no, va bene.
 hun	ita	Nem, nem tudom.	No, non lo so.
 hun	ita	Nem?	No?
 hun	ita	Nem olvasok könyveket.	Non leggo libri.
+hun	ita	Nem olyan fiatal, mint amennyinek kinéz.	Non è giovane come sembra.
 hun	ita	Nem ön az egyetlen, aki elfoglalt.	Lei non è l'unica ad essere impegnata.
 hun	ita	Ne mondd nekem, hogy nem félsz.	Non dirmi che non hai paura.
 hun	ita	Nem sebesültem meg.	Non sono ferito.
@@ -4809,6 +4929,7 @@ hun	ita	Nem szeretem Tom hangját.	Non mi piace la voce di Tom.
 hun	ita	Nem szereti a futballt.	A lei non piace il calcio.
 hun	ita	Nem szereti a kávét.	A lui non piace il caffè.
 hun	ita	Nem szereti a kávét.	Non gli piace il caffè.
+hun	ita	Nem szereti a kutyáját?	Non ama il suo cane?
 hun	ita	Nem szereti a macskákat.	Non gli piacciono i gatti.
 hun	ita	Nem szereti azt az ételt, amit Bríd készít.	Non le piace il cibo che fa Bríd.
 hun	ita	Nem szeretlek többé.	Non ti amo più.
@@ -4822,6 +4943,7 @@ hun	ita	Nem szívesen megyek ki, ha esik.	Non mi piace uscire quando piove.
 hun	ita	Nem szocialista Tom.	Tom non è un socialista.
 hun	ita	Nem szoktam korán felkelni.	Non sono abituata a svegliarmi presto.
 hun	ita	Nem szükséges, hogy orvost hívjunk.	Non c'è bisogno di chiamare il dottore.
+hun	ita	Nem találja a kesztyűket.	Non può trovare quei guanti.
 hun	ita	Nem találok szavakat!	Io non trovo le parole.
 hun	ita	Nem találok szavakat!	Non trovo le parole.
 hun	ita	Nem találom a cipőmet.	Io non riesco a trovare le mie scarpe.
@@ -4842,13 +4964,14 @@ hun	ita	Nem Torinóban lakom.	Non abito a Torino.
 hun	ita	Nem történt semmi.	Non fa niente!
 hun	ita	Nem tud angolul, a franciáról már nem is szólva.	Lui non parla inglese, per non parlare del francese.
 hun	ita	Nem tud autót vezetni.	Non può guidare.
-hun	ita	Nem tudja még?	Non lo sa ancora?
 hun	ita	Nem tudja még.	Non lo sa ancora.
+hun	ita	Nem tudja még?	Non lo sa ancora?
 hun	ita	Nem tudjuk a szöveget.	Non sappiamo il testo.
 hun	ita	Nem tudjuk, hogy mi folyik itt.	Non sappiamo cosa sta succedendo.
 hun	ita	Nem tudjuk, hogy mi történik.	Non sappiamo cosa sta succedendo.
 hun	ita	Nem tudlak követni.	Non riesco a seguirti.
 hun	ita	Nem tudod, apám még mindig az irodában van?	Sai se mio padre è ancora nell'ufficio?
+hun	ita	Nem tudod még?	Ancora non lo sai?
 hun	ita	Nem tudok harapni. Nincs fogam.	Non posso mordere. Non ho denti.
 hun	ita	Nem tudok jönni, sem ma, sem holnap.	Non posso venire né oggi né domani.
 hun	ita	Nem tudok már így élni.	Io non posso più vivere così.
@@ -4882,6 +5005,7 @@ hun	ita	Nem tudom, mit fogunk tenni.	Non so cosa faremo.
 hun	ita	Nem tudom, mit tegyek.	Io non so che cosa fare.
 hun	ita	Nem tudom, mit tegyek.	Io non so cosa fare.
 hun	ita	Nem tudom, mit tegyek.	Non so che cosa fare.
+hun	ita	Nem tudott rá felügyelni.	Non era in grado di prendersi cura di lui.
 hun	ita	Nem tudsz dönteni?	Non riesce a decidere?
 hun	ita	Nem tudsz olvasni?	Non sai leggere?
 hun	ita	Nem tudsz segíteni most. Túl késő van.	Non puoi aiutare ora. È troppo tardi.
@@ -4953,15 +5077,18 @@ hun	ita	Nem vagyunk angyalok.	Non siamo angeli.
 hun	ita	Nem vagyunk barátok.	Non siamo amici.
 hun	ita	Nem vagyunk bolondok.	Non siamo stupide.
 hun	ita	Nem valami izgatottak.	Non sono emozionate.
+hun	ita	Nem vették be a gyógyszereiket.	Non presero la loro medicina.
 hun	ita	Nem vettem meg a könyvet.	Non comprai il libro.
 hun	ita	Nem voltak titkai.	Lei non aveva segreti.
 hun	ita	Nem voltak titkai.	Lui non aveva segreti.
 hun	ita	Nem voltál egyedül.	Non eri solo.
 hun	ita	Nem voltam benne biztos.	Non ero sicuro.
 hun	ita	Nem voltam otthon július óta.	Non sono a casa da luglio.
+hun	ita	Nem voltam soha ilyan boldog életemben.	Non sono mai stata così felice in vita mia.
 hun	ita	Nem volt fontos.	Non era importante.
 hun	ita	Nem volt időm.	Non avevo il tempo.
 hun	ita	Nem volt intelligens dolog a részedről eldobni a jegyzetet.	Non è stato molto intelligente da parte tua buttare via quella nota.
+hun	ita	Nem volt ott a lány.	La ragazza non era là.
 hun	ita	Nem volt senki a házban.	Non c'era nessuno in casa.
 hun	ita	Nem volt senki a szobában.	Non c'era nessuno nella stanza.
 hun	ita	Nem voltunk féltékenyek.	Noi non siamo stati gelosi.
@@ -5005,10 +5132,13 @@ hun	ita	Nincsenek titkaink.	Noi non abbiamo segreti.
 hun	ita	Nincsenek titkaink.	Non abbiamo segreti.
 hun	ita	Nincs energiám.	Non ho energie.
 hun	ita	Nincs esélyünk arra, hogy megtaláljuk.	Non abbiamo possibilità di trovarlo.
+hun	ita	Nincs garantálva.	Non è garantita.
 hun	ita	Nincs harmadik lehetőség.	Una terza possibilità non è concessa.
+hun	ita	Nincs idő gondolkozni.	Non c'è tempo per pensare!
 hun	ita	Nincs időm, hogy írjak neki.	Non ho tempo per scriverle.
 hun	ita	Nincs időm.	Non ho tempo.
 hun	ita	Nincs időm rátok.	Non ho tempo per voi.
+hun	ita	Nincs időm semmire.	Non ho tempo per niente.
 hun	ita	Nincs idő.	Non c'è tempo.
 hun	ita	Nincs jól, Tom.	Non va bene, Tom.
 hun	ita	Nincs kedvem felkelni.	Non ho voglia di alzarmi.
@@ -5054,6 +5184,7 @@ hun	ita	Nincs sok fiútestvérem.	Non ho molti fratelli.
 hun	ita	Nincs sok időnk.	Non abbiamo molto tempo.
 hun	ita	Nincs szükséged a segítségemre.	Non hai bisogno del mio aiuto.
 hun	ita	Nincs szükségem az engedélyedre.	Io non ho bisogno del tuo permesso.
+hun	ita	Nincs szükségem segítőkre.	Non ho bisogno di assistenti.
 hun	ita	Nincs szükségem semmire.	Non ho bisogno di niente.
 hun	ita	Nincs szükségem semmire.	Non ho bisogno di nulla.
 hun	ita	Nincs szükségük pénzre.	Non hanno bisogno di soldi.
@@ -5064,6 +5195,7 @@ hun	ita	Nincs vezetékes telefonom.	Io non ho un telefono fisso.
 hun	ita	Nincs vezetékes telefonom.	Non ho un telefono fisso.
 hun	ita	Nincs vodkám.	Non ho vodka.
 hun	ita	Nő a fiatalkori bűnözés.	La delinquenza giovanile è in crescita.
+hun	ita	Normális életre vágyom.	Desidero una vita normale.
 hun	ita	Nős vagy?	Ti sei sposato?
 hun	ita	Nővér akarok lenni.	Io voglio essere un infermiere.
 hun	ita	Nővér akarok lenni.	Voglio essere un infermiere.
@@ -5093,6 +5225,7 @@ hun	ita	Ő a feleségem, Edita.	Questa è mia moglie Edita.
 hun	ita	Ő a könyvtárban van.	Lui è in biblioteca.
 hun	ita	Ő aláírta a csekket.	Ha firmato l'assegno.
 hun	ita	Ő a leánya.	Lei è sua figlia.
+hun	ita	Ő a legfiatalabb a családjában.	È la più giovane nella sua famiglia.
 hun	ita	Ő a legjobb barátom.	Lui è il mio migliore amico.
 hun	ita	Ő a nagybátyám.	Lui è mio zio.
 hun	ita	Ő a nővérem.	Lei è la mia sorella maggiore.
@@ -5164,6 +5297,7 @@ hun	ita	Ők ismerik a helyzetet.	Loro conoscono la situazione.
 hun	ita	Ők kannibálok.	Sono cannibali.
 hun	ita	Ők külföldiek.	Loro sono straniere.
 hun	ita	Ők külföldiek.	Loro sono stranieri.
+hun	ita	Ők moziba mennek.	Loro vanno al cinema.
 hun	ita	Ők nem beszéltek spanyolul.	Loro non stavano parlando in spagnolo.
 hun	ita	Ők nem értették meg a kérdést.	Loro non capivano la domanda.
 hun	ita	Ők nem táncolnak szívesen.	Loro non danzano volentieri.
@@ -5201,11 +5335,12 @@ hun	ita	Olyan fáradt vagyok!	Come sono stanco!
 hun	ita	Olyan fáradt vagyok!	Sono così stanca!
 hun	ita	Olyan nagyon hiányoznak a szüleim.	A me mancano così tanto i miei genitori.
 hun	ita	Olyan nagyon hiányzik nekem!	Mi manca così tanto.
-hun	ita	Olyan nehéz megérteni?	È tanto difficile da capire?
 hun	ita	Olyan nehéz megérteni.	È tanto difficile da capire.
+hun	ita	Olyan nehéz megérteni?	È tanto difficile da capire?
 hun	ita	Olyan óvatos voltam!	Ero così prudente.
 hun	ita	Olyan savanyú ez a bor, mint az ecet.	Questo vino è aspro come aceto.
 hun	ita	Olyan szép nap volt, hogy mindenki boldog volt és vidám.	E 'stata una giornata così bella che tutti erano felici e allegri.
+hun	ita	Olyan volt nekem, mint egy testvér.	Era come un fratello per me.
 hun	ita	Ő már hazament.	Lui è già andato a casa.
 hun	ita	Ő más festőket utánoz.	Imita altri pittori.
 hun	ita	Ő még itt van?	Lui è ancora qui?
@@ -5263,6 +5398,7 @@ hun	ita	Örülök, hogy itt vagytok mindnyájan.	Mi fa piacere che voi siate tut
 hun	ita	Örülök, hogy megismerhetlek.	Piacere di conoscervi.
 hun	ita	Örülök, hogy sikered volt.	Mi fa piacere che tu abbia avuto successo.
 hun	ita	Őrülten odavagyok a futballért.	Vado pazza per il football.
+hun	ita	Orvos az apád?	Tuo padre è medico?
 hun	ita	Orvostanhallgató volt.	Era una studentessa di medicina.
 hun	ita	Oslóban élek.	Vivo ad Oslo.
 hun	ita	Oslo Norvégia fővárosa.	Oslo è la capitale della Norvegia.
@@ -5279,6 +5415,7 @@ hun	ita	Ősz voltam.	Io avevo i capelli grigi.
 hun	ita	Ő találta meg a kerékpáromat.	Lui ha trovato la mia bici.
 hun	ita	Ő találta meg a kerékpáromat.	Lui ha trovato la mia bicicletta.
 hun	ita	Ő találta meg a kerékpáromat.	Lui trovò la mia bicicletta.
+hun	ita	Ő téged néz. Ismered?	Ti sta guardando. Lo conosci?
 hun	ita	Ő teljesen csupasz.	È nudo come un verme.
 hun	ita	Öten hiányoztak.	Mancavano cinque persone.
 hun	ita	Öt évig tanultam angolul.	Io ho studiato inglese per cinque anni.
@@ -5342,6 +5479,7 @@ hun	ita	Pihenek egy kicsit.	Mi riposo un po'.
 hun	ita	Pincér, három kávét, legyen szíves!	Cameriere, tre caffè, per piacere.
 hun	ita	Piros színű a számítógép.	Il colore del computer è il rosso.
 hun	ita	Piros színűre festette az ajtót.	Lei ha dipinto la porta di rosso.
+hun	ita	Pixeles a videó.	Il video è granuloso.
 hun	ita	Platinaszőke haja van.	Ha i capelli biondo platino.
 hun	ita	Platinaszőke haja van.	Lei ha i capelli biondo platino.
 hun	ita	Pletykafészek vagy.	Sei una pettegola.
@@ -5372,6 +5510,7 @@ hun	ita	Ragyogó munkát végeztetek.	Voi avete fatto un lavoro splendido.
 hun	ita	Rajongója az olasz operáknak.	Lei è una fan dell'opera italiana.
 hun	ita	Rajzolj egy kört!	Disegni un cerchio.
 hun	ita	Rajzolnál nekem egy térképet?	Mi disegneresti una mappa?
+hun	ita	Rakjad a kanapéra azokat a párnákat!	Metti quei cuscini sul divano.
 hun	ita	Realista vagyok.	Sono realista!
 hun	ita	Régen nem láttuk egymást.	Era tanto che non ci vedevamo.
 hun	ita	Reggel dolgozik.	Lui lavora la mattina.
@@ -5383,6 +5522,7 @@ hun	ita	Remélem, hogy igazad van.	Spero che tu abbia ragione.
 hun	ita	Remélem, hogy neked tetszenek a csokoládé torták.	Spero che ti piacciano le torte al cioccolato.
 hun	ita	Reméljük a legjobbakat.	Speriamo bene.
 hun	ita	Reméltem, hogy ezt a mondatot lefordítod.	Speravo volessi tradurre questa frase.
+hun	ita	Rendbe kellene tenni a dolgaidat.	Dovresti mettere in ordine i tuoi affari.
 hun	ita	Rendben, akkor hétfőn találkozunk?	Bene, ci vediamo lunedì?
 hun	ita	Rendben?	D'accordo?
 hun	ita	Rendben, megcsinálom újra.	D'accordo, lo farò di nuovo.
@@ -5463,6 +5603,7 @@ hun	ita	Semmi nem tudta megállítani őt.	Niente riusciva a fermarla.
 hun	ita	Semmi nem tudta megállítani őt.	Nulla riusciva a fermarla.
 hun	ita	Semmi.	Nulla.
 hun	ita	Semmire sem volt jó.	Era buona a nulla.
+hun	ita	Semmire sincs időm.	Non ho tempo per niente.
 hun	ita	Semmi sem fontosabb, mint a barátok.	Non c'è nulla di più importante degli amici.
 hun	ita	Semmi sem hiányzik.	Non manca nulla.
 hun	ita	Semmi sem könnyebb, mint beszélni.	Niente è più facile che parlare.
@@ -5482,6 +5623,7 @@ hun	ita	Semmit sem tudok ígérni neked.	Non posso prometterti nulla.
 hun	ita	Semmit sem tudok ígérni neked.	Non ti posso promettere niente.
 hun	ita	Semmit sem tudtam.	Non ho saputo nulla.
 hun	ita	Semmit sem tudtam.	Non sapevo niente.
+hun	ita	Senkinek sincs semmije.	Nessuno ha niente.
 hun	ita	Senki nem fog bántani.	Nessuno ti farà del male.
 hun	ita	Senki nem hívott, amíg elvoltam?	Mi ha chiamato nessuno mentre ero fuori?
 hun	ita	Senki nem hívott, amíg kint voltam?	Mi ha chiamato nessuno mentre ero fuori?
@@ -5504,6 +5646,9 @@ hun	ita	Sétálni kezdtünk.	Abbiamo iniziato a camminare.
 hun	ita	Sétált kézenfogva az apjával.	Camminava a braccetto con suo padre.
 hun	ita	Síelni mentünk a hegyekbe.	Siamo andate in montagna a sciare.
 hun	ita	Síelni mentünk a hegyekbe.	Siamo andati in montagna per sciare.
+hun	ita	Siess egy kicsit!	Sbrigati un po'!
+hun	ita	Siessetek, még benne vagytok az időben!	Sbrigatevi, siete ancora in tempo!
+hun	ita	Siessetek, még időben vagytok!	Sbrigatevi, siete ancora in tempo!
 hun	ita	Sietsz?	Hai fretta?
 hun	ita	Siettem, hogy még elérjem a vonatot.	Mi sono affrettato per non perdere il treno.
 hun	ita	Sikerül befejezned a munkát időben?	Riesci a finire in tempo il lavoro?
@@ -5517,6 +5662,7 @@ hun	ita	Sírunk.	Piangiamo.
 hun	ita	Smith úr jött.	Il signor Smith è venuto.
 hun	ita	Soha nem fogja beismerni, hogy tévedett.	Non ammetterà mai che ha torto.
 hun	ita	Soha nem fogja elfelejteni.	Non lo scorderà mai.
+hun	ita	Soha nem mondta nekem, hogy házas.	Non mi disse mai che era sposata.
 hun	ita	Soha nem tettem ígéretet senkinek.	Io non ho mai fatto una promessa a nessuno.
 hun	ita	Soha nem válaszolok azoknak az e-mailjeire, akiket nem ismerek.	Non rispondo mai alle e-mail di persone che non conosco.
 hun	ita	Soha ne változtass semmit.	Non cambia mai nulla.
@@ -5578,8 +5724,8 @@ hun	ita	Sok könyvet írt Kínáról.	Lui ha scritto molti libri sulla Cina.
 hun	ita	Sok könyvet írt Kínáról.	Scrisse molti libri sulla Cina.
 hun	ita	Sok könyve van.	Ha molti libri.
 hun	ita	Sok könyve van.	Lei ha molti libri.
-hun	ita	Sok könyve van?	Lui ha molti libri?
 hun	ita	Sok könyve van.	Lui ha molti libri.
+hun	ita	Sok könyve van?	Lui ha molti libri?
 hun	ita	Sok könyv van a szobámban.	Ci sono molti libri nella mia camera.
 hun	ita	Sok mondat szerepel fordítások nélkül.	Ci sono molte frasi senza traduzione.
 hun	ita	Sok ország van Európában, amit szeretnék meglátogatni.	Ci sono molti paesi in Europa che vorrei visitare.
@@ -5594,6 +5740,8 @@ hun	ita	Sok szerencsét, Tom!	Buona fortuna, Tom.
 hun	ita	Sok szó van, amit nem értek.	Ci sono molte parole che non capisco.
 hun	ita	Sok tanító felkészületlennek érzi magát ahhoz, hogy olvasást és számolást oktasson.	Molti insegnanti si sentono impreparati per insegnare a leggere e a fare i conti.
 hun	ita	Sok tetoválás van a testén.	Ci sono molti tatuaggi sul suo corpo.
+hun	ita	Sok víz kell nekik.	Hanno bisogno di molta acqua.
+hun	ita	Sok vízre van szükségük.	Hanno bisogno di molta acqua.
 hun	ita	Sok vízum van az útlevelemben, mert a munkám kapcsán sokat utazom.	Ho molti visti nel passaporto, perché viaggio spesso per lavoro.
 hun	ita	Sonka nélkül a szendvics nem szendvics.	Un sandwich senza prosciutto non è un sandwich.
 hun	ita	Sose golfoztam még.	Non ho mai giocato a golf.
@@ -5849,6 +5997,7 @@ hun	ita	Szeretsz utazni?	Ti piacciono i viaggi?
 hun	ita	Szeretsz utazni?	Ti piace viaggiare?
 hun	ita	Szeretted Tomot?	Amavi Tom?
 hun	ita	Szeretted Tomot?	Tu amavi Tom?
+hun	ita	Szerinted értik?	Tu pensi che capiscano?
 hun	ita	Szerinted hol van Marie?	Dov'è Marie secondo te?
 hun	ita	Szerintem ez egy átverés.	Secondo me è una bufala.
 hun	ita	Szerintem igazatok van.	Avete ragione, penso.
@@ -5871,6 +6020,8 @@ hun	ita	Színházba megyek.	Vado a teatro.
 hun	ita	Szinte egészen biztos vagyok benne, hogy Tomit láttam.	Sono quasi certo di aver visto Tom.
 hun	ita	Szinte minden nap beszélek franciául.	Parlo in francese quasi ogni giorno.
 hun	ita	Szinte mindig egyedül csinálom.	Lo faccio quasi sempre da solo.
+hun	ita	Szinte soha nem vagyunk otthon.	Non siamo quasi mai a casa.
+hun	ita	Szinte sosincs otthon.	Non è quasi mai a casa.
 hun	ita	Szívből köszönöm mindannyiotoknak!	Grazie di cuore a tutti voi!
 hun	ita	Szívből köszönöm mindnyájatoknak!	Grazie di cuore a tutti voi!
 hun	ita	Szívesen beszélgetek vele.	Mi piace parlare con lui.
@@ -5888,7 +6039,9 @@ hun	ita	Szívesen. Mennyi?	Volentieri. Quanti?
 hun	ita	Szociális munkás vagyok.	Io sono una lavoratrice sociale.
 hun	ita	Szociális munkás vagyok.	Sono una lavoratrice sociale.
 hun	ita	Szőke haja van.	Ha i capelli biondi.
+hun	ita	Szoknyát vesz anyám.	Mia madre sta comprando una gonna.
 hun	ita	Szólt a telefon.	Il telefono suonava.
+hun	ita	Szólt, hogy ne kövessem.	Mi disse di non seguirlo.
 hun	ita	Szombat este volt.	Era sabato sera.
 hun	ita	Szomorúnak látszott.	Lui sembrava triste.
 hun	ita	Szomorúnak tűnt.	Sembrava triste.
@@ -6067,6 +6220,7 @@ hun	ita	Teljes szívemből köszönöm.	Grazie con tutto il mio cuore.
 hun	ita	Te ma mész iskolába?	Tu vai a scuola oggi?
 hun	ita	Te már voltál Párizsban?	Tu sei mai stata a Parigi?
 hun	ita	Te megértesz.	Tu mi capisci.
+hun	ita	Te miért nem eszel?	Perché non mangi?
 hun	ita	Te milyen gyakran nézel tévét?	Tu quanto spesso guardi la TV?
 hun	ita	Te mit csinálsz ezen a nyáron?	Tu cosa fai quest'estate?
 hun	ita	Templomba mennek vasárnap.	Vanno in chiesa alla domenica.
@@ -6094,9 +6248,13 @@ hun	ita	Teszek némi sót a levesbe.	Metterò un po' di sale nella zuppa.
 hun	ita	Tetszenek neked a fekete cicák?	Ti piacciono i gatti neri?
 hun	ita	Tetszeni fog neki ez a játék.	Le piacerà questo gioco.
 hun	ita	Tetszett a film, amit tegnap láttunk?	Ti è piaciuto il film che abbiamo visto ieri?
+hun	ita	Tetszik a lovad.	Mi piace il tuo cavallo.
 hun	ita	Tetszik a szoknyád színe.	Mi piace il colore della tua gonna.
 hun	ita	Tetszik az a szoknya.	Mi piace quella gonna.
 hun	ita	Tetszik ez a fotó, mert mutatja a férfiasságom.	Questa foto mi piace perché mostra la mia virilità.
+hun	ita	Tetszik ez a mondat, de sajnos nem tudom adoptálni.	Mi piace questa frase, ma sfortunatamente non posso adottarla.
+hun	ita	Tetszik ez a mondat, de sajnos nem tudom átvenni.	Mi piace questa frase, ma sfortunatamente non posso adottarla.
+hun	ita	Tetszik ez a mondat, de sajnos nem tudom örökbe fogadni.	Mi piace questa frase, ma sfortunatamente non posso adottarla.
 hun	ita	Tetszik ez a rajz?	Ti piace questo disegno?
 hun	ita	Tetszik neked a munkád?	Ti piace il tuo lavoro?
 hun	ita	Tetszik neked a szigetem?	Ti piace la mia isola?
@@ -6108,8 +6266,8 @@ hun	ita	Tetszik nekem, amikor az ablak nyitva van, és a függönyök táncolnak
 hun	ita	Tetszik nekem a szoknyád színe.	Mi piace il colore della tua gonna.
 hun	ita	Tetszik nekem ez a szoknya. Felpróbálhatom?	Mi piace questa gonna. Posso provarla?
 hun	ita	Tetszik nekem ez a szoknya. Felpróbálhatom?	Mi piace questa gonna, posso provarmela?
-hun	ita	Tetszik neki a munkája?	Le piace il suo lavoro?
 hun	ita	Tetszik neki a munkája.	Le piace il suo lavoro.
+hun	ita	Tetszik neki a munkája?	Le piace il suo lavoro?
 hun	ita	Te tudod, hogy működik ez?	Tu sai come funziona questo?
 hun	ita	Te tudod, hogy szeretem Tomot, igaz?	Tu sai che amo Tom, vero?
 hun	ita	Te tudod, ki vagyok.	Tu sai chi sono.
@@ -6143,7 +6301,10 @@ hun	ita	Tizenegy éves.	Ha undici anni.
 hun	ita	Tizenegy éves.	Lei ha undici anni.
 hun	ita	Tizenegy éves.	Lui ha undici anni.
 hun	ita	Tizenkét órát töltöttem a vonaton.	Ho passato dodici ore in treno.
+hun	ita	Tíz év elteltével láttam őt.	L'ho visto dieci anni dopo.
 hun	ita	Tíz év sok idő.	Dieci anni sono molto tempo.
+hun	ita	Tíz évvel később láttam őt.	L'ho visto dieci anni dopo.
+hun	ita	Tíz éz múlva láttam őt.	L'ho visto dieci anni dopo.
 hun	ita	Tíz, húsz, harminc, negyven, ötven, hatvan, hetven, nyolcvan, kilencven, száz.	Dieci, venti, trenta, quaranta, cinquanta, sessanta, settanta, ottanta, novanta, cento.
 hun	ita	Tízig elszámolok.	Conto fino a dieci.
 hun	ita	Tízig itt maradok.	Resterò qui fino alle dieci.
@@ -6233,6 +6394,7 @@ hun	ita	Tom egy bottal a homokba írta a nevét.	Tom ha scritto il suo nome nell
 hun	ita	Tom egy csónakban lakik.	Tom abita su una barca.
 hun	ita	Tom egyedül evett.	Tom ha mangiato da solo.
 hun	ita	Tom egyetemi hallgató.	Tom è uno studente universitario.
+hun	ita	Tom egy kanadai milliárdos.	Tom è un miliardario canadese.
 hun	ita	Tom egy kedves barátom.	Tom è un mio caro amico.
 hun	ita	Tom egy kicsi lakásban lakik.	Tom abita in un mini appartamento.
 hun	ita	Tom egy kicsit különc.	Tom è un po' eccentrico.
@@ -6459,6 +6621,7 @@ hun	ita	Tomnak nincsenek igazi barátai.	Tom non ha veri amici.
 hun	ita	Tomnak nincs igaza.	Tom non ha ragione.
 hun	ita	Tomnak nincs mit enni.	Tom non ha niente da mangiare.
 hun	ita	Tomnak nincs mit enni.	Tom non ha nulla da mangiare.
+hun	ita	Tomnak orosz barátnője van.	Tom ha una ragazza russa.
 hun	ita	Tomnak sárga sportautója van.	Tom possiede un'automobile sportiva gialla.
 hun	ita	Tomnak sincs alibije.	Nemmeno Tom ha un alibi.
 hun	ita	Tomnak sincs alibije.	Neppure Tom ha un alibi.
@@ -6707,6 +6870,7 @@ hun	ita	Tudom, hogy miért van itt Tomi.	Io lo so perché Tom è qui.
 hun	ita	Tudom, hogy mi történt.	Io so cos'è successo.
 hun	ita	Tudom, hogy mi történt.	Lo so cos'è successo.
 hun	ita	Tudom, hogy mi történt.	So cos'è successo.
+hun	ita	Tudom, hogy nem alszol.	So che non stai dormendo.
 hun	ita	Tudom, hogy nem ismered Tomit.	Lo so che non conosci Tom.
 hun	ita	Tudom, hogy nem tudok semmit.	Io so di non sapere nulla.
 hun	ita	Tudom, hogy szereted a kávét.	Lo so che ti piace il caffè.
@@ -6880,6 +7044,7 @@ hun	ita	Van a szobában légkondicionáló?	La stanza ha l'aria condizionata?
 hun	ita	Van autód?	Hai una macchina?
 hun	ita	Van autód?	Tu hai una macchina?
 hun	ita	Van az iskolában könyvtár?	La scuola ha una biblioteca?
+hun	ita	Van családja, vannak barátai Lengyelországban?	Ha famiglia o amici in Polonia?
 hun	ita	Van családod?	Hai una famiglia?
 hun	ita	Van cukor?	C'è dello zucchero?
 hun	ita	Van egy álmom.	Ho un sogno.
@@ -6932,6 +7097,7 @@ hun	ita	Van egy osztálytársam, aki azt mondja, hogy folyékonyan tud franciáu
 hun	ita	Van egy tervem.	Ho un piano.
 hun	ita	Van egy új piros autóm.	Ho una nuova auto rossa.
 hun	ita	Van egy új piros autóm.	Ho una nuova macchina rossa.
+hun	ita	Van egy vízilovunk.	Abbiamo un ippopotamo.
 hun	ita	Van elég időnk.	Abbiamo abbastanza tempo.
 hun	ita	Van elég pénzem.	Ho abbastanza denaro.
 hun	ita	Van elég pénzem.	Io ho abbastanza denaro.
@@ -6976,6 +7142,7 @@ hun	ita	Van néhány barátom Bostonban.	Ho qualche amico a Boston.
 hun	ita	Van néhány barátom.	Ho qualche amico.
 hun	ita	Van néhány fiú a parkban.	Ci sono alcuni ragazzi nel parco.
 hun	ita	Van néhány könyve.	Lei ha alcuni libri.
+hun	ita	Van neked kék autód?	Hai una macchina blu?
 hun	ita	Van olyan módszer, amelyik mindig működik?	È un metodo che funziona sempre?
 hun	ita	Van orvos a repülőgépen?	C'è un medico sull'aereo?
 hun	ita	Van pénzed?	Hai del denaro?
@@ -7004,6 +7171,9 @@ hun	ita	Van WhatsApp alkalmazásod?	Hai WhatsApp?
 hun	ita	Van WhatsApp alkalmazásod?	Tu hai WhatsApp?
 hun	ita	Van zongorája?	Ha un piano?
 hun	ita	Varázsló vagy?	Sei un mago?
+hun	ita	Várjatok! Szól a telefon.	Aspettate. Sta suonando il telefono.
+hun	ita	Várj! Csöng a telefon.	Aspetti. Sta suonando il telefono.
+hun	ita	Várj! Csörög a telefon.	Aspetti. Sta suonando il telefono.
 hun	ita	Várj ennek a háznak a bejáratánál.	Aspetti all'ingresso di questo edificio.
 hun	ita	Várjon itt, legyen szíves!	Aspetta qui, per piacere.
 hun	ita	Várjunk itt, amíg visszajön.	Aspettiamo qui finché lui ritorna.

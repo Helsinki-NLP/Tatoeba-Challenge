@@ -1,5 +1,6 @@
 eng	qya	A star shines on the hour of our meeting.	   
 eng	qya_Latn	A leaf is falling.	Lassë lantëa.
+eng	qya_Latn	Anger is poisonous.	Aha hloirëa.
 eng	qya_Latn	A Noldo is beneath the tree.	Noldo nu i alda ná.
 eng	qya_Latn	Are you seeing a man?	Ma cénatyë nér?
 eng	qya_Latn	A star shines on the hour of our meeting.	Elen síla lúmenn' omentielvo.
@@ -53,6 +54,7 @@ eng	qya_Latn	I greet you.	Suilanyel.
 eng	qya_Latn	I hate you.	Tevenyel.
 eng	qya_Latn	I'm able to speak.	Pólan quetë.
 eng	qya_Latn	I'm a cat.	NanyÃ« yaulÃ«.
+eng	qya_Latn	I'm a slave.	Ní mól.
 eng	qya_Latn	I'm drowning!	Quorëan!
 eng	qya_Latn	I'm falling.	Lantëanyë.
 eng	qya_Latn	I need to go.	Mauya nin avánië
@@ -88,6 +90,7 @@ eng	qya_Latn	The king is coming.	I aran túla.
 eng	qya_Latn	The leaf and the tree are falling.	Lassë ar alda lanteat.
 eng	qya_Latn	The pair of them is coming.	Túlattë.
 eng	qya_Latn	The two of you are watching.	Tírastë.
+eng	qya_Latn	The world is sick.	I mar laiwa.
 eng	qya_Latn	They are going.	Lelyeat.
 eng	qya_Latn	They are watching.	Tíraltë.
 eng	qya_Latn	They haven't done anything.	Uar acárië ma.

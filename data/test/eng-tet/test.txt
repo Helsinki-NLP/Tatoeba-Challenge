@@ -9,6 +9,7 @@ eng	tet	Good morning!	Bondia!
 eng	tet	Good morning.	Bondia.
 eng	tet	He buys cigarettes.	Nia sosa sigaru.
 eng	tet	How are you?	Di'ak ka lae?
+eng	tet	I am a person.	Ha'u ema
 eng	tet	I ate rice.	Ha'u han tiha etu.
 eng	tet	I didn't eat rice anymore.	Ha'u la han etu tiha ona.
 eng	tet	I didn't eat rice.	Ha'u ladauk han etu.
@@ -37,11 +38,13 @@ eng	tet	No.	Lae
 eng	tet	One, two, three, four, five, six, seven, eight, nine, ten.	Ida, rua, tolu, hat, lima, nen, hitu, ualu, sia, sanulu.
 eng	tet	Read the letter.	Lee surat ba.
 eng	tet	She buys cigarettes.	Nia sosa sigaru.
+eng	tet	She is a person.	Nia ema
 eng	tet	Thank you!	Obrigada!
 eng	tet	Thank you.	Obrigada.
 eng	tet	Thank you!	Obrigadu!
 eng	tet	Thank you.	Obrigadu.
 eng	tet	The Timorese are not Indonesians.	Timor-oan sira la'ós Indonézia-oan.
+eng	tet	They are persons	Sira ema
 eng	tet	They're still working.	Sira serbisu hela.
 eng	tet	They're working.	Sira serbisu hela.
 eng	tet	They see Dan.	Sira raree Dan.
@@ -51,3 +54,5 @@ eng	tet	We see.	Ami haree.
 eng	tet	When did you arrive?	Senhora mai hori bain-hira?
 eng	tet	Where are you?	Ó iha nebee?
 eng	tet	Yesterday I ate rice.	Horisehik ha'u han etu.
+eng	tet	You are a person.	Ó ema
+eng	tet	You (respectful) are a person	Itaboot ema

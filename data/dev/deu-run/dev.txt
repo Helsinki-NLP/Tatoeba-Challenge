@@ -212,8 +212,8 @@ deu	run	Du kannst irgendeine Farbe auswählen, die du magst.	Urashobora gutora i
 deu	run	Du kannst mein Auto benutzen.	Ushobora gukoresha umuduga wanje.
 deu	run	Du kannst mein Auto jederzeit benutzen.	Ushobora gukoresha umuduga wanje mu gihe cose.
 deu	run	Du kennst mich nicht.	Ntunzi.
-deu	run	Du kennst sie?	Uramuzi?
 deu	run	Du kennst sie.	Uramuzi.
+deu	run	Du kennst sie?	Uramuzi?
 deu	run	Du musst hier bleiben.	Ubwirizwa kuguma ngaha.
 deu	run	Du musst losgehen.	Ubwirizwa kugenda.
 deu	run	Du musst mit dem Trinken aufhören.	Ubwirizwa guheba inzoga.
@@ -232,6 +232,7 @@ deu	run	Du weißt ja, wie das ist.	Urazi nawe ingene ibintu vyifashe.
 deu	run	Du weißt viel zu viel über mich.	Urazi vyinshi birenze kuri jewe.
 deu	run	Du wirst das sehen wollen.	Ushaka kuzobibona.
 deu	run	Du wirst es schaffen.	Urabishobora.
+deu	run	Du würdest für mich das Gleiche tun.	Wongirira co kimwe.
 deu	run	Eine Hand hat fünf Finger: den Daumen, den Zeigefinger, den Mittelfinger, den Ringfinger und den kleinen Finger.	Ikiganza gifise intoki zitanu: urukumu, inkombarukoko, msumba zose, igihugunibenga, agahererezi.
 deu	run	Eine Uhr hängt an der Wand.	Isaha imanitse ku ruhome.
 deu	run	Ein Student möchte dich sehen.	Umunyeshuri arashaka kukubona.

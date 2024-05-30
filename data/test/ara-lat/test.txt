@@ -1,25 +1,29 @@
-ajp	lat_Latn	إيش إسمك؟	Quid tibi nomen est?
-apc	lat_Latn	بدي أشتري بيت.	Domum emere volo.
-apc	lat_Latn	شو كلمه؟	Quid est verbum?
-apc	lat_Latn	شو كلمه؟	Quid est vocabulum?
-apc	lat_Latn	شو كلمه؟	Verbum quid est?
-apc	lat_Latn	شو كلمه؟	Vocabulum quid est?
-apc	lat_Latn	هيدي‎ تفاحة جون.	Malum Iohannis est.
+ara	lat_Latn	إيش إسمك؟	Quid tibi nomen est?
+ara	lat_Latn	بدي أشتري بيت.	Domum emere volo.
+ara	lat_Latn	شو كلمه؟	Quid est verbum?
+ara	lat_Latn	شو كلمه؟	Quid est vocabulum?
+ara	lat_Latn	شو كلمه؟	Verbum quid est?
+ara	lat_Latn	شو كلمه؟	Vocabulum quid est?
+ara	lat_Latn	هيدي‎ تفاحة جون.	Malum Iohannis est.
 ara	lat_Latn	أُحب اللغات الرومانيقية.	Linguae Romanicae me delectant.
 ara	lat_Latn	أُحب اللغات السامية.	Linguae Semiticae me delectant.
 ara	lat_Latn	أريد أن أشتري منزلا.	Domum emere volo.
-ara	lat_Latn	الإمبراطور أقسم أن سيسحق الانفصاليين نهائيا.	Imperator separatistas pervincere iuravit.
+ara	lat_Latn	أريد جروا.	Catulum volo.
+ara	lat_Latn	أهذا كلب توم ؟	Estne ille canis Thomae?
+ara	lat_Latn	إنها تفاحة جون.	Malum Iohannis est.
 ara	lat_Latn	الأمة تطلب العدالة الاجتماعية.	Populus iustitiam socialem postulat.
+ara	lat_Latn	الإمبراطور أقسم أن سيسحق الانفصاليين نهائيا.	Imperator separatistas pervincere iuravit.
 ara	lat_Latn	الجزائر كبيرة.	Algerium magnum est.
+ara	lat_Latn	الحرّيّة لإسكتلندا!	Liberate Scotiam!
 ara	lat_Latn	الحرّيّة لكتالونيا !	Liberate Catalauniam!
+ara	lat_Latn	الحرّيّة للتبت!	Liberate Tibetum!
 ara	lat_Latn	الخنازير أذكى من الكلاب والقطط.	Sues intellegentiores sunt quam canes felesque.
 ara	lat_Latn	الدنيا جميلة.	Mundus pulcher est.
 ara	lat_Latn	العبرية والفينيقية لغات كنعانية.	Lingua Hebraica et lingua Phoenicia sunt linguae Chananaeae.
 ara	lat_Latn	العربية تشبه العبرية.	Lingua Arabica Hebraicae similis est.
 ara	lat_Latn	الله واحد.	Deus unus est.
 ara	lat_Latn	الماء جميل.	Aqua pulchra est.
-ara	lat_Latn	إنها تفاحة جون.	Malum Iohannis est.
-ara	lat_Latn	أهذا كلب توم ؟	Estne ille canis Thomae?
+ara	lat_Latn	تريد ماء.	Aquam vult.
 ara	lat_Latn	توم ليس اشتراكي.	Thomas socialista non est.
 ara	lat_Latn	توم ليس ترامب.	Didymus non est Trump.
 ara	lat_Latn	توم ليس ترامب.	Thomas non est Trump.
@@ -29,29 +33,35 @@ ara	lat_Latn	جايكوب يهودي علماني.	Iacobus Iudaeus saecularis es
 ara	lat_Latn	جايكوب يهودي لائكي.	Iacobus Iudaeus saecularis est.
 ara	lat_Latn	دونالد ترامب كذاب مرضي.	Donaldus Trump mendax pathologicus est.
 ara	lat_Latn	زوجة ماري دكتورة.	Uxor Mariae medica est.
+ara	lat_Latn	طيور ليست حقيقية	Aves non sunt verae.
 ara	lat_Latn	عندنا ستيغوصور.	Stegosaurum habemus.
 ara	lat_Latn	كان سامي كذاب مرضي.	Samius mendax pathologicus fuit.
 ara	lat_Latn	كل الخبز وشرب الماء.	Es panem et bibe aquam.
+ara	lat_Latn	لا أعلم يا تام.	Nescio, Thoma.
 ara	lat_Latn	لا ترفع أمة على أمة سيفا ولا يتعلمون الحرب فيما بعد.	Non levabit gens contra gentem gladium, nec exercebuntur ultra ad praelium.
 ara	lat_Latn	لا تشتم الاصم وقدام الاعمى لا تجعل معثرة. بل اخش الهك. انا الرب.	Non maledices surdo nec coram caeco pones offendiculum; sed timebis Deum tuum. Ego Dominus.
 ara	lat_Latn	لا تشتم الاصم وقدام الاعمى لا تجعل معثرة. بل اخش الهك. انا الرب.	Non maledices surdo, nec coram caeco pones offendiculum: sed timebis Dominum Deum tuum, quia ego sum Dominus.
+ara	lat_Latn	لدى العراق لغتان رسميتين.	Iraca duas linguas publicas habet.
 ara	lat_Latn	ماذا الحرية؟	Quid est libertas?
 ara	lat_Latn	مبارك انت, يا رب, إلهنا, ملك العالم، الذي جعلني كما أراد.	Benedictus es, Domine, Deus noster, Rex Universi, Qui me secundum voluntatem Suam creavit.
 ara	lat_Latn	معاداة السامية هي اشتراكية الحمقى.	Antisemitismus est socialismus stultorum.
+ara	lat_Latn	نحن لا نريد حربا.	Bellum nolumus.
+ara	lat_Latn	نحن يهود.	Iudaei sumus.
 ara	lat_Latn	هتلر كره اليهود.	Hitler Iudaeos oderat.
 ara	lat_Latn	ومن كلام الباطل فابعد.	Mendacium fugies.
+ara	lat_Latn	يا تام!	Thoma!
 ara	lat_Latn	يعقوب يهودي لائكي.	Iacobus Iudaeus saecularis est.
-arq	lat_Latn	الماريكان دايرة كي شكوپي.	America sordet.
-arq	lat_Latn	الماريكان دايرة كي شكوپي.	Civitates Foederatae sordent.
-arq_Latn	lat_Latn	kul aghrum acherab elma.	Es panem et bibe aquam.
-arz	lat_Latn	اليونان جميلة.	Graecia formosa est.
-arz	lat_Latn	اليونان جميلة.	Graecia pulchra est.
-arz	lat_Latn	توم مش مترجم.	Thomas interpres non est.
-arz	lat_Latn	دي‎ تفاحة جون.	Malum Iohannis est.
-arz	lat_Latn	دي مشكلة كبيرة	Istud problema grave est.
-arz	lat_Latn	كلمة ايه؟	Quid est verbum?
-arz	lat_Latn	كلمة ايه؟	Quid est vocabulum?
-arz	lat_Latn	كلمة ايه؟	Verbum quid est?
-arz	lat_Latn	كلمة ايه؟	Vocabulum quid est?
-arz	lat_Latn	نط.	Sali.
-arz	lat_Latn	هيتلر كره اليهود.	Hitler Iudaeos oderat.
+ara	lat_Latn	الماريكان دايرة كي شكوپي.	America sordet.
+ara	lat_Latn	الماريكان دايرة كي شكوپي.	Civitates Foederatae sordent.
+ara	lat_Latn	kul aghrum acherab elma.	Es panem et bibe aquam.
+ara	lat_Latn	اليونان جميلة.	Graecia formosa est.
+ara	lat_Latn	اليونان جميلة.	Graecia pulchra est.
+ara	lat_Latn	توم مش مترجم.	Thomas interpres non est.
+ara	lat_Latn	دي‎ تفاحة جون.	Malum Iohannis est.
+ara	lat_Latn	دي مشكلة كبيرة	Istud problema grave est.
+ara	lat_Latn	كلمة ايه؟	Quid est verbum?
+ara	lat_Latn	كلمة ايه؟	Quid est vocabulum?
+ara	lat_Latn	كلمة ايه؟	Verbum quid est?
+ara	lat_Latn	كلمة ايه؟	Vocabulum quid est?
+ara	lat_Latn	نط.	Sali.
+ara	lat_Latn	هيتلر كره اليهود.	Hitler Iudaeos oderat.

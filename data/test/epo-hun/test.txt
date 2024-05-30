@@ -1,5 +1,6 @@
 epo	hun	7 dolarojn, mi petas.	Hét dollárt kérek.
 epo	hun	Abelojn oni konsideras diligentaj bestoj.	A méheket szorgalmas állatnak tartják.
+epo	hun	Abortigo estas homa rajto.	Emberi jog a terhességmegszakítás.
 epo	hun	Aĉeti medikamentojn? Per kio?	Orvosságot venni? Miből?
 epo	hun	Acido atakas metalon.	A sav hat a fémekre.
 epo	hun	Adiaŭ por ĉiam!	Agyő, mindörökre!
@@ -8,6 +9,7 @@ epo	hun	Aero konsistas precipe el nitrogeno kaj oksigeno.	A levegő főként nit
 epo	hun	Afable permesu al mi diri tion!	Engedje meg nekem, hogy ezt mondjam.
 epo	hun	Afablu al pliaĝuloj.	Légy kedves az idősebbekhez.
 epo	hun	Afriko eksportas bovan viandon al Eŭropo.	Afrika marhahúst exportál Európába.
+epo	hun	Afriko estas al afrikanoj.	Afrika az afrikaiaké.
 epo	hun	Aĝo maljuna ne estas oportuna.	A túl érett kor nem élvezetes.
 epo	hun	Agordu la radioaparaton iomete pli mallaŭte.	Halkítsd le egy kicsit a rádiót.
 epo	hun	Aĝo tro matura ne estas plezura.	A túlságosan érett kor nem gyönyörködtet.
@@ -47,6 +49,7 @@ epo	hun	Alia urbo, alia moro.	Ahány ország, annyi törvény.
 epo	hun	Alia urbo, alia moro.	Ahány város, annyi szokás.
 epo	hun	Alia urbo, alia moro.	Más város, más szokás.
 epo	hun	Alice estas mia patrino.	Alice az édesanyám.
+epo	hun	Alico havas floron en siaj haroj.	Alice-nak van egy virág a hajában.
 epo	hun	Al kio servas tiu stranga ĉerpkulero kun longa tenilo?	Mire szolgál az a hosszú nyelű furcsa merőkanál?
 epo	hun	Al kiu ni ŝuldas monon?	Kinek tartozunk pénzzel?
 epo	hun	Al kiu vi volas plendi la ofendon?	Kinek akarod elpanaszolni a sértést?
@@ -121,6 +124,7 @@ epo	hun	Ankaŭ mi mem iros tien.	Magam is odamegyek.
 epo	hun	Ankaŭ mi ne estas pli alta ol li.	Nála sem vagyok magasabb.
 epo	hun	Ankaŭ mi ne estas pli alta ol li.	Nem vagyok én sem magasabb nála.
 epo	hun	Ankaŭ mi ne konas panaceon kontraŭ ĉiuj ĉi problemoj.	Én sem ismerek csodaszert ezekre a problémákra.
+epo	hun	Ankaŭ mi ne povis dormi.	Én sem tudtam aludni.
 epo	hun	Ankaŭ mi nomiĝas Tomo.	Engem is Tamásnak hívnak.
 epo	hun	Ankaŭ mi volis scii.	Én is tudni akartam.
 epo	hun	Ankaŭ mi volus esti studento eksterlande dum unu jaro.	Nekem is az a vágyam, hogy egy évig külföldön tanulhassak.
@@ -238,6 +242,7 @@ epo	hun	Baldaŭ mi revenos.	Nemsokára visszajövök.
 epo	hun	Baldaŭ vi scipovos paroli la anglan.	Nemsokára tudni fogsz beszélni angolul.
 epo	hun	Baleno estas speco de mambesto.	A bálna az emlősökhöz tartozik.
 epo	hun	Bananarbo estas planto kun grandaj folioj.	a banánfa egy nagy levelű növény.
+epo	hun	Bananoj estas falusaj.	A banán fallikus.
 epo	hun	Barakti kiel fiŝo ekster la akvo.	Vergődik, mint a partra vetett hal.
 epo	hun	Batis la horo de lia morto.	Ütött halála órája.
 epo	hun	Beboj ofte renversiĝas.	A kisgyerekek gyakran elesnek.
@@ -694,6 +699,9 @@ epo	hun	Ĉu Maria estas en la ĝardeno?	Mária a kertben van?
 epo	hun	Ĉu mia klarigo estas klara?	Világos a magyarázatom?
 epo	hun	Ĉu mi atendigis vin longe?	Sokáig várakoztattalak?
 epo	hun	Ĉu mi devas esti severa aŭ indulga?	Szigorú legyek, vagy megbocsátó?
+epo	hun	Ĉu mi devus diri ĝin dane aŭ angle?	Dánul mondjam vagy angolul?
+epo	hun	Ĉu mi estas hebreo?	Zsidó vagyok?
+epo	hun	Ĉu mi estas judo?	Zsidó vagyok?
 epo	hun	Ĉu mi faras multajn erarojn?	Sok hibát csinálok?
 epo	hun	Ĉu mi iru kun vi?	Veled menjek?
 epo	hun	Ĉu mi iru?	Menjek?
@@ -706,11 +714,13 @@ epo	hun	Ĉu mi nun devas tion fari?	Meg kell most ezt tennem?
 epo	hun	Ĉu mi pagu al vi?	Én fizessek neked?
 epo	hun	Ĉu mi povas demandi ion al vi?	Kérdezhetek valamit tőled?
 epo	hun	Ĉu mi povas elekti?	Van választásom?
+epo	hun	Ĉu mi povas havi buŝtukon, mi petas?	Kaphatnék egy szalvétát?
 epo	hun	Ĉu mi povas helpi vin, sinjorino?	Segíthetek valamiben, asszonyom?
 epo	hun	Ĉu mi povas iri de Venecio al Milano ne ŝanĝante trajnon?	El tudok menni vonattal, átszállás nélkül Velencéből Milánóba?
 epo	hun	Ĉu mi povas lasi mesaĝon?	Hagyhatnék egy üzenetet?
 epo	hun	Ĉu mi povas pagi per ĉeko?	Fizethetek csekkel?
 epo	hun	Ĉu mi povas pagi per ĉeko?	Tudok csekkel fizetni?
+epo	hun	Ĉu mi povas porti al vi trinkaĵon?	Hozhatok önöknek valamit inni?
 epo	hun	Ĉu mi povas ŝanĝi tiun flagon?	Kicserélhetem ezt a zászlót?
 epo	hun	Ĉu mi povas supren levi al vi la pakaĵon?	Feltehetem a csomagját?
 epo	hun	Ĉu mi povas vidi tion?	Láthatom azt?
@@ -811,6 +821,7 @@ epo	hun	Ĉu via deziro estis plenumita?	Teljesült a kívánságod?
 epo	hun	Ĉu via fratino studas tie?	A nővéred itt tanul?
 epo	hun	Ĉu via hundo mordas?	Harap a kutyád?
 epo	hun	Ĉu via hundo mordemas?	Harap a kutyád?
+epo	hun	Ĉu viaj gepatroj nenion instruis al vi?	Szüleid semmire nem tanítottak meg?
 epo	hun	Ĉu viaj infanoj havas siajn proprajn ĉambrojn?	A gyerekeidnek van saját szobájuk?
 epo	hun	Ĉu viaj pli fruaj naskoj pasis senkomplike?	Előző szülései komplikációk nélkül folytak-e le?
 epo	hun	Ĉu via kolo dum la lasta jaro plidikiĝis?	A nyaka az utóbbi évben vastagodott meg?
@@ -829,6 +840,7 @@ epo	hun	Ĉu vi aŭdacas peti lin pri tio?	Meg merészeled kérdezni őt erről?
 epo	hun	Ĉu vi aŭdis pri tio, kio okazis al John?	Hallottál arról, hogy mi történt Johnnal?
 epo	hun	Ĉu vi aŭdis violonludon de mia filo?	Hallottad hegedülni a fiamat?
 epo	hun	Ĉu via uskleca klavo paneis?	Meghibásodott a kis- és nagybetűváltó billentyűd?
+epo	hun	Ĉu vi bezonas laborpermeson?	Szüksége van munkavállalási engedélyre?
 epo	hun	Ĉu vi bone parolas la francan?	Jól beszéled a francia nyelvet?
 epo	hun	Ĉu vi bonvolas doni al mi iom da akvo?	Lenne szíves adni nekem valamennyi vizet?
 epo	hun	Ĉu vi bonvolas doni al mi panpecon?	Tudsz adni egy szelet kenyeret?
@@ -837,6 +849,7 @@ epo	hun	Ĉu vi bonvolas ordigi vian ĉambron?	Hajlandó volnál rendbe rakni a s
 epo	hun	Ĉu vi bonvolas skribi por mi vorton en la finna?	Leírnál nekem finnül egy szót?
 epo	hun	Ĉu vi bonvolas skribi por mi vorton en la finna?	Le tudnál nekem írni finnül egy szót?
 epo	hun	Ĉu vi bonvolas traduki por mi tiun frazon?	Lefordítanád nekem ezt a mondatot.
+epo	hun	Ĉu vi bonvole alportus al mi puran tranĉilon?	Hozna nekem egy tiszta kést?
 epo	hun	Ĉu vi bonvolus helpi min?	Szíveskednél segíteni nekem?
 epo	hun	Ĉu vi bonvolus klarigi al mi la regulojn?	Lennél olyan kedves, hogy elmagyaráznád nekem a szabályokat?
 epo	hun	Ĉu vi bonvolus konduki min al la kradpordo?	Szíveskedne engem elvezetni a kapuhoz?
@@ -846,6 +859,7 @@ epo	hun	Ĉu vi ĉesis fumi definitive?	Végérvényesen abbahagytad a dohányzá
 epo	hun	Ĉu vi ĉiutage piediras al la lernejo?	Minden nap gyalog mész az iskolába?
 epo	hun	Ĉu vi deziras aŭton?	Szeretnél egy autót?
 epo	hun	Ĉu vi deziras, ke mi venu al Japanio por vidi vin?	Szeretnéd, ha Japánba jönnék, hogy lássalak?
+epo	hun	Ĉu vi deziras limonadon kun aŭ sen gaso?	Szódavízzel kéred a limonádét?
 epo	hun	Ĉu vi deziras saŭcon al la viando?	Kérsz szószt a húshoz?
 epo	hun	Ĉu vi dezirus demisii?	Fel kívánnál mondani?
 epo	hun	Ĉu vi donas al mi la ŝlosilon?	Ideadod nekem a kulcsot?
@@ -866,6 +880,8 @@ epo	hun	Ĉu vi estas en Bangladeŝo?	Bangladesben vagy?
 epo	hun	Ĉu vi estas en Berlino?	Berlinben vagytok?
 epo	hun	Ĉu vi estas en Napolo?	Nápolyban vagy?
 epo	hun	Ĉu vi estas fama?	Te híres vagy?
+epo	hun	"Ĉu vi estas freneza?" - "Jes."	— Bolond vagy? — Igen.
+epo	hun	"Ĉu vi estas freneza?" - "Jes."	— Megőrültél? — Igen.
 epo	hun	Ĉu vi estas jam delonge en Osako?	Már régóta vagy Oszakában?
 epo	hun	Ĉu vi estas kolera al mi, ĉar mia jupo estas tiom mallonga?	Haragszol rám, mert a szoknyám ennyire rövid?
 epo	hun	Ĉu vi estas kun mi aŭ kontraŭ mi?	Velem, vagy ellenem vagy?
@@ -964,6 +980,7 @@ epo	hun	Ĉu vi konas bonan restoracion por tagmanĝi?	Ismersz egy jó éttermet,
 epo	hun	Ĉu vi konas bonan restoracion por tagmanĝi?	Tudsz egy jó éttermet, ahol ebédelni lehet?
 epo	hun	Ĉu vi konas iun, kiu zumas dumlabore?	Ismersz valakit, aki zümmög munka közben?
 epo	hun	Ĉu vi konas la diferencon inter mikroskopo kaj teleskopo?	Tudod, hogy mi a különbség mikroszkóp és teleszkóp között?
+epo	hun	Ĉu vi konas la historion pri la vulpo, la korvo kaj la fromaĝo?	Ismered a róka, a holló és a sajt történetét?
 epo	hun	Ĉu vi konas la knabinon starantan ĉe la fenestro?	Ismered azt a lányt, aki az ablak mellett áll?
 epo	hun	Ĉu vi konas la viron tie, kiu rigardas vin?	Ismered ott azt a férfit, aki téged néz?
 epo	hun	Ĉu vi konas vian sangogrupon?	Ismered-e a vércsoportodat?
@@ -1150,6 +1167,7 @@ epo	hun	Ĉu vi volas vinon?	Akarsz bort?
 epo	hun	Ĉu vi volus, ke mi ripetu la demandon?	Szeretné, hogy megismételjem a kérdést?
 epo	hun	Ĉu vi vomis?	Hányt-e?
 epo	hun	Ĉu viziti universitaton valoras la penon?	Az egyetemlátogatás megéri az erőfeszítést?
+epo	hun	Ĉu William Shatner parolas Esperanton?	Beszél William Shatner eszperantóul?
 epo	hun	Damne! Kien li malaperis?	A fenébe! Hová tűnt?
 epo	hun	Dancado estas ne krimo.	A tánc nem bűn.
 epo	hun	Dank´al Dio, li komplete resaniĝis.	Hála Istennek, teljesen meggyógyult.
@@ -1233,6 +1251,7 @@ epo	hun	Diru al la laboristoj, ke mi donos al ili po tri tagoj da ripozo.	Mondd 
 epo	hun	Diru al li, ke li revenu ĉi tien tuj.	Mondd meg neki, hogy azonnal jöjjön ide vissza.
 epo	hun	Diru al mi ĉion, kion vi scias.	Mondj el nekem mindent, amit tudsz!
 epo	hun	Diru al mi la veron.	Mondd el nekem az igazat.
+epo	hun	Diru al mi vian telefonnumeron, kaj mi revokos vin.	Mondja meg a telefonszámát és vissza fogom hívni.
 epo	hun	Diru al ŝi, ke vi ŝatas ŝin. Ne estu timema. Ŝi ne mordos vin.	Mondd meg neki, hogy szereted. Ne félj, nem fog megharapni.
 epo	hun	Diru al ŝi, kiun trajnon ŝi prenu.	Mondd meg neki, melyik vonatra üljön.
 epo	hun	Diru ĉi tion angle.	Mondja el ezt angolul.
@@ -1269,6 +1288,7 @@ epo	hun	D-ro Hideo Noguchi mortis en Afriko dum 1928.	Dr. Hideo Noguchi 1928-ban
 epo	hun	Du bierojn, mi petas.	Két sört kérek!
 epo	hun	Dubindas, ĉu tiu metodo efikos.	Kétséges, hogy ez a módszer hatni fog.
 epo	hun	Dubindas, ke lia kanto populariĝos.	Kétséges, hogy a dala népszerű lesz.
+epo	hun	Dublino estas irlanda urbo.	Dublin ír város.
 epo	hun	Du etaj kunikloj, blanka kuniklo kaj nigra kuniklo, vivis en granda arbaro.	Két kis nyuszi, egy fehér nyuszi meg egy fekete élt egy nagy erdőben.
 epo	hun	Du familioj loĝas en tiu domo.	Abban a házban két család lakik.
 epo	hun	Dufoje mi iris al Usono.	Kétszer mentem az USA-ba.
@@ -1447,6 +1467,7 @@ epo	hun	En Esperanto la akuzativo estas signata per la finaĵo –n.	Az eszperan
 epo	hun	En Eŭropo ekzistas multe da vidindaĵoj.	Európában sok látnivaló van.
 epo	hun	En Eŭropo Elbruso estas la plej alta monto.	Európában Elbrusz a legmagasabb hegy.
 epo	hun	En fremda okulo spliton ni vidas, en nia propra okulo eĉ trabon ni ne rimarkas.	Más szemében a szálkát is meglátjuk, a magunkéban a gerendát sem vesszük észre.
+epo	hun	En germana arbaro oni ne povas esti sola.	Egy német erdőben nem tudsz te egyedül lenni.
 epo	hun	En hotelo kontrolu, kie estas la savelirejo, antaŭ enlitiĝo.	Egy szállodában mielőtt lefekszel nézd meg, hol van a vészkijárat.
 epo	hun	En Hungario la oficiala lingvo estas la hungara.	Magyarországon a hivatalos nyelv a magyar.
 epo	hun	En Hungarujo ne troviĝas akacioj, sed robinioj.	Magyarországon nincsenek akáciák, hanem akácok vannak.
@@ -1509,8 +1530,10 @@ epo	hun	En la sekvanta monato mi lernos pli diligente.	A jövő hónapban szorga
 epo	hun	En la strato dumtage estas granda trafiko.	Az utcán egész nap nagy a forgalom.
 epo	hun	En la studenthejmo ĉiu studento havas sian apartan ĉambron.	A diákotthonban minden diáknak külön szobája van.
 epo	hun	En la sudaj regionoj la vendoj krekis je 47 elcentoj.	A déli régiókban az eladások 47 százalékkal növekedtek.
+epo	hun	En la supo estas viando.	A levesben van hús.
 epo	hun	En la tablotuko ŝi tajlis aĵurojn.	Azsúrt vágott az abroszba.
 epo	hun	En la trajno ŝi devis stari.	A vonatban állnia kellett.
+epo	hun	En la urbo estas pli ol unu templo.	A városban több templom is található.
 epo	hun	En la valo frue aperis la violoj.	A völgyben korán megjelentek az ibolyák.
 epo	hun	En la vespera silento ni ĝuis la kanton de belsona najtingalo.	Az esti csendben élveztük a szépen szóló csalogány dalát.
 epo	hun	En la veturilo estas videblaj virino kaj du hundoj.	A járműben egy nő és két kutya látszik.
@@ -1827,6 +1850,7 @@ epo	hun	Fumi ne estas permesite en tiu ĉambro.	Ebben a helyiségben tilos a doh
 epo	hun	Fumi ne estas permesite en tiu ĉambro.	Ebben a teremben tilos a dohányzás.
 epo	hun	Fundamentaj taskoj de nacisekurecaj servoj estas la defendo de sendependeco kaj leĝa ordo de Hungario, la validigo de ĝiaj nacisekurecaj interesoj.	A nemzetbiztonsági szolgálatok alapvető feladata Magyarország függetlenségének és törvényes rendjének védelme, nemzetbiztonsági érdekeinek érvényesítése.
 epo	hun	Funebre vestitaj virinoj staris ĉirkaŭ la mortinto.	Gyászba öltözött asszonyok álltak a halott körül.
+epo	hun	Fungoj estas saĝaj.	Bölcsek a gombák.
 epo	hun	Gabriela Mistral estis la sola virino de Suda Ameriko, kiu ricevis la Nobel-premion pri literaturo.	Gabriela Mistral volt az egyetlen dél-amerikai nő, aki irodalmi Nobel-díjat kapott.
 epo	hun	Gardu kandelon por nokto.	Tartsd meg a gyertyát éjszakára.
 epo	hun	Gardu la klarecon de la moralo.	Vigyázz az erkölcs tisztaságára.
@@ -1848,6 +1872,7 @@ epo	hun	Generaloj asertas, ke la atombombo estas deadmona armilo.	Generálisok �
 epo	hun	George ne pezas malpli ol 70 kilogramojn.	George súlya nem kevesebb 70 kilónál.
 epo	hun	Gepatroj respondecas pri la edukado de siaj infanoj.	A szülők felelősek gyermekeik taníttatásáért.
 epo	hun	Ĝia ĉefa efikanto estas cinamaldehido.	Fő hatóanyaga a fahéjaldehid.
+epo	hun	Ĝi aspektas multe pli malbona ol ĝi fakte estas.	Rosszabbnak tűnik, mint amilyen valójában.
 epo	hun	Ĝi aspektas ridinda.	Nevetségesen néz ki.
 epo	hun	Ĝibulo ĝis sia morto restas ĝibulo.	A púpos haláláig púpos marad.
 epo	hun	Ĝi estas ankoraŭ pasero en la aero.	Ez még veréb a levegőben.
@@ -1937,6 +1962,8 @@ epo	hun	Helen estas ludanta en la korto.	Helen az udvaron játszik.
 epo	hun	Helen Keller estis blinda, surda kaj muta.	Helen Keller vak, süket és néma volt.
 epo	hun	Helpi niajn najbarojn estas bona ago.	Szomszédaink segítése egy jó tett.
 epo	hun	Helpu min!	Segíts!
+epo	hun	Helpu viajn amikojn.	Segíts a barátaidnak!
+epo	hun	Helpu viajn amikojn.	Segítsd a barátaidat!
 epo	hun	Hemmingen estas komunumo en Germanujo.	Hemmingen egy közösség Németországban.
 epo	hun	Herkulo havis fortajn muskolojn.	Herkulesnek erős izmai voltak.
 epo	hun	Hermafrodito estas la filo de Hermeso kaj Afrodito.	Hermész és Aphrodité fia egy hermafrodita.
@@ -2078,6 +2105,7 @@ epo	hun	Ili estas kontentaj pri via laboro.	Elégedettek vltak a munkáddal.
 epo	hun	Ili estas kuracistoj.	Ők doktorok.
 epo	hun	Ili estas kuracistoj.	Ők orvosok.
 epo	hun	Ili estas perfekta duo.	Ők egy tökéletes pár.
+epo	hun	Ili estas ridindaj.	Nevetségesek.
 epo	hun	Ili estas rusoj.	Ők oroszok.
 epo	hun	Ili estas sur la hejmvojo.	Már úton vannak hazafelé.
 epo	hun	Ili estas tre grandaj.	Ők nagyon nagyok.
@@ -2104,6 +2132,7 @@ epo	hun	Ili komprenis.	Megértették.
 epo	hun	Ili konas Tomon.	Ők ismerik Tomot.
 epo	hun	Ili konfidas al sia gvidanto tuteplene.	Teljesen megbíznak vezetőjükben.
 epo	hun	Ili konstruas domon.	Építenek egy házat.
+epo	hun	Ili kuiras multe pli bone ol mi.	Sokkal jobban főznek, mint én.
 epo	hun	Ili kulpigis min pri manko de antaŭvido.	Engem tettek felelőssé, mivel nem voltam előrelátó.
 epo	hun	Ili laboras nokte.	Éjszaka dolgoznak.
 epo	hun	Ili lamis.	Lesántultak.
@@ -2176,6 +2205,7 @@ epo	hun	Instruituloj ofte estas ankaŭ stultuloj.	A tanult emberek gyakran butá
 epo	hun	Inter Danubo kaj Tibisko oni produktas bongustan abrikoton.	A Duna-Tisza között finom barack terem.
 epo	hun	Inter ili profunda abismo faŭkas.	Mély szakadék tátong közöttük.
 epo	hun	Inter la herboj glitis nedanĝera kolubro.	A fű közt veszélytelen sikló csúszott.
+epo	hun	Inter la invititoj certe estos ankaŭ nia serĉata viro.	A meghívottak között biztosan ott lesz a keresett emberünk is.
 epo	hun	Inter la maizoj produktiĝas ankaŭ kukurbo.	A kukoricák közt a tök is megterem.
 epo	hun	Interŝanĝu la malnovan pneŭaron kun iu nova.	Cseréld ki az öreg gumikat valami újjal.
 epo	hun	Io al mi tute nekomprenebla okazas tie ĉi.	Valami számomra teljesen érthetetlen történik itt.
@@ -2294,6 +2324,7 @@ epo	hun	Jes, Roberto helpis al mi.	Igen, Roberto segített nekem.
 epo	hun	Jes, sed vi ne devas resti ĝis la fino.	Igen, de nem kell végig maradnod.
 epo	hun	Jesuo Kristo reviviĝis el sia morto.	Jézus Krisztus feltámadt halottaiból.
 epo	hun	Jesuo lavis al almozulo la piedon.	Jézus megmosta a koldus lábát.
+epo	hun	Jesuo ne estis kristano.	Jézus nem volt keresztény.
 epo	hun	Je tiu tago malvarmis kaj ekpluvis krome.	Azonkívül, hogy nagyon hideg egy nap volt, még esett is.
 epo	hun	Jim havas blankan ĉapelon sur sia kapo.	Jimnek fehér kalap van a fején.
 epo	hun	Johanino multe progresis en la japana.	Johanna sokat fejlődött a japánban.
@@ -2321,6 +2352,7 @@ epo	hun	Kafo estas la vivo.	Kávén élek.
 epo	hun	Kafon, mi petas.	Egy kávét kérek.
 epo	hun	Kaino ne estis bona frato.	Káin nem volt jó testvér.
 epo	hun	Kaj kial ne?	És miért nem?
+epo	hun	Kaj kiel fartas Tomo?	És hogy van Tom?
 epo	hun	Kaj miaj manoj tremis.	És a kezeim remegtek.
 epo	hun	Kaj ne enkonduku nin en tenton.	És ne vígy minket a kísértésbe.
 epo	hun	Kaj nun, infanoj, aŭskultu!	És most, gyerekek, hallgassatok ide!
@@ -2340,6 +2372,9 @@ epo	hun	Katenanta spektaklo aperis antaŭ niaj okuloj.	Lebilincselő látvány j
 epo	hun	Kate simpatiis kun li.	Kati szimpatizált vele.
 epo	hun	Kate venis hejmen aŭtobuse.	Kati autóbusszal jött haza.
 epo	hun	Kato havas du orelojn.	A macskának két füle van.
+epo	hun	Katoj estas pli malgrandaj ol hundoj.	A macska kisebb, mint a kutya.
+epo	hun	Katoj estas pli malgrandaj ol hundoj.	A macskák kisebbek a kutyáknál.
+epo	hun	Katoj estas pli malgrandaj ol hundoj.	Egy macska kisebb, mint egy kutya.
 epo	hun	Katoj ne manĝas bananojn.	A macskák nem esznek banánt.
 epo	hun	Kato manĝinta kanarion tamen ne kapablas kanti.	A macska megette a kanárit, mégsem tud énekelni.
 epo	hun	Kaŭze de la sukcesoj, li pleniĝis per fiereco.	Büszkeség töltötte el a sikerek okán.
@@ -2495,6 +2530,7 @@ epo	hun	Kiam venos la atendota printempo?	Mikor jön meg a várva-várt tavasz?
 epo	hun	Kiam vi ekzameniĝis?	Mikor vizsgáztál?
 epo	hun	Kiam vi ekzercos pianludi?	Zongorázni mikor gyakorolsz?
 epo	hun	Kiam vi ellitiĝis ĉimatene?	Mikor keltél fel ma reggel?
+epo	hun	Kiam vi estas ĉe mi, mi ne timas.	Ha velem vagy, nem félek.
 epo	hun	Kiam vi estos libera?	Mikor leszel szabad?
 epo	hun	Kiam vi intencas ĉesi fumi?	Mikor akarsz leszokni a dohányzásról?
 epo	hun	Kiam vi iris al Londono?	Mikor mentél Londonba?
@@ -2534,6 +2570,7 @@ epo	hun	Kie estas la poŝtoficejo?	Hol van a posta?
 epo	hun	Kie estas la savelirejo?	Hol van a vészkijárat?
 epo	hun	Kie estas la sveda ambasado?	Hol van a svéd követség?
 epo	hun	Kie estas la teleroj?	Hol vannak a tányérok?
+epo	hun	Kie estas la vestoŝanĝejo?	Hol van a próbafülke?
 epo	hun	Kie estas mia aŭto?	Hol van az autóm?
 epo	hun	Kie estas mia gazeto?	Hol van az újságom?
 epo	hun	Kie estas miaj okulvitroj?	Hol van a szemüvegem?
@@ -2619,6 +2656,7 @@ epo	hun	Kie ni renkontiĝu?	Hol találkozzunk?
 epo	hun	Kien mi forĵetu tiun malplenan tason?	Hová dobjam ezt az üres poharat?
 epo	hun	Kien ŝi iris?	Hová ment?
 epo	hun	Kien vi iras, freneza vojaĝanto?	Hová mész, őrült vándor?
+epo	hun	Kien vi iros venontan dimanĉon?	Hova mentek jövő vasárnap?
 epo	hun	Kien vi volas iri?	Hova akartok menni?
 epo	hun	Kie povas oni ĉi tie aĉeti galanterion?	Hol lehet itt díszműárut vásárolni?
 epo	hun	Kie regas la forto, tie rajto silentas.	Ahol az erő uralkodik, ott a jognak nincs szava.
@@ -2647,6 +2685,7 @@ epo	hun	Kio estas bona por vi, tio estas bona ankaŭ por mi.	Ami jó neked, az n
 epo	hun	Kio estas ĉi tiu brila stelo?	Mi az a fényes csillag?
 epo	hun	Kio estas la celo de via vizito?	Mi célja látogatásának?
 epo	hun	Kio estas la diferenco inter biblioteko en malgranda setlejo kaj en granda urbo?	Mi különbség van egy kistelepülés és egy nagyváros könyvesboltja között?
+epo	hun	Kio estas la diferenco inter tablo kaj seĝo?	Mi a különbség egy asztal és egy szék között?
 epo	hun	Kio estas la feliĉo?	Mi a boldogság?
 epo	hun	Kio estas la vera kaŭzo de ŝia riproĉo?	Mi az igazi oka a szidalmának?
 epo	hun	Kio estas libero?	Mi a szabadság?
@@ -2772,6 +2811,7 @@ epo	hun	Kion ni bezonas nun, tio estas bonvola stultulo, kiu transprenas la malp
 epo	hun	Kion ni faros hodiaŭ?	Mit csinálunk ma?
 epo	hun	Kion ni ne scias, tion ni ne envias.	Amiről nem tudunk, nem is irigyeljük.
 epo	hun	Kion ni volas kaj kion ni ne volas?	Mit akarunk és mit nem akarunk?
+epo	hun	Kion oni matenmanĝas en Rusujo?	Mit esznek reggelire Oroszországban?
 epo	hun	Kio nova, ĉu bono aŭ malbono?	Mi újság van, jó-e, vagy rossz?
 epo	hun	Kio nova?	Mi újság?
 epo	hun	Kion precize tio signifas?	Mit jelent ez pontosan?
@@ -3045,6 +3085,7 @@ epo	hun	Kuru ĝis tie, kie tiu standardo estas fiksita.	Fuss addig, ahol az a z�
 epo	hun	Kutime mi ellitiĝas je la oka.	Általában nyolckor kelek.
 epo	hun	Kutimiĝi al nova posteno ĉiam postulas multe da tempo.	Az új álláshoz való hozzászokás időbe kerül.
 epo	hun	Kvadrato havas kvar angulojn kaj kvar laterojn.	A négyzetnek négy oldala és négy csúcsa van
+epo	hun	Kvankam Anno laboras plentempe, ofte la mono ne sufiĉas.	Noha főállásban dolgozik Anna, sokszor nem elég a pénz.
 epo	hun	Kvankam galero estas supre, tamen regas la akvo.	Habár fölül a gálya, azért a víz az úr.
 epo	hun	Kvankam inteligenta homo, li lasis sin superruzi.	Értelmes ember létére hagyta, hogy túl-járjanak az eszén.
 epo	hun	Kvankam mia televidilo aĝas preskaŭ 15 jarojn, tamen ĝi ankoraŭ funkcias bonege.	Bár a tévékészülékem már mintegy 15 éves, mégis remekül működik.
@@ -3142,6 +3183,7 @@ epo	hun	La avino de John forpasis post longa malsano.	John nagyanyja hosszú bet
 epo	hun	La avino de Tom aspektas sana.	Tom nagymamája egészségesnek látszik.
 epo	hun	La avino de Tom aspektas sana.	Tom nagymamája egészségesnek tűnik.
 epo	hun	La avo ne memoras kien li metis sian kurban bastonon.	A nagyapó nem emlékszik, hova tette a görbebotját.
+epo	hun	La azia parto de Rusio estas pli granda ol Ĉinio.	Oroszország ázsiai része nagyobb, mint Kína.
 epo	hun	La bakisto knedis la paston kun kuspitaj manikoj.	A pék feltűrt ingujjal gyúrta a tésztát.
 epo	hun	La banĉambra fenestro estas malfermita.	Nyitva van a fürdőszoba ablaka.
 epo	hun	La banĉambro estas ĝis la plafono kovrita per kaheloj.	A fürdőszoba plafonig csempével van burkolva.
@@ -3350,6 +3392,7 @@ epo	hun	La fantomo prenis sur sin la formon de belega feino.	A kísértet felvet
 epo	hun	La februarfina vento akre blovis.	A februárvégi szél élesen fújt.
 epo	hun	La feino ŝanĝiĝis en floron.	A tündér virággá változott.
 epo	hun	La feliĉo ne eniras tra fermitaj pordoj.	A szerencse csukott ajtón nem jön be.
+epo	hun	La feliĉo trovis min.	Megtalált a szerencse.
 epo	hun	La fenestroj estis malfermitaj.	Az ablakok nyitva voltak.
 epo	hun	La fenestro longe estis nefermita; mi ĝin fermis, sed mia frato tuj ĝin denove malfermis.	Az ablak sokáig nem volt becsukva; én bezártam, de a fivérem rögtön, újra kinyitotta.
 epo	hun	La fenicianoj lerte komercis.	A főniciaiak ügyesen kereskedtek.
@@ -3531,6 +3574,7 @@ epo	hun	La junulo silentis.	A fiatalember hallgatott.
 epo	hun	La junulo trafis al amo reciprokata.	Az ifjú viszontszerelemre talált.
 epo	hun	La ĵurnalisto volis paroli kun la inĝeniero.	Az újságíró beszélni akart a mérnökkel.
 epo	hun	La ĵusnaskito pezas kvar kilogramojn.	Az újszülött súlya négy kiló volt.
+epo	hun	La kafo estas nigra.	A kávé fekete.
 epo	hun	La kafo estas varmega.	A kávé forró.
 epo	hun	La kajero kostis du forintojn.	A füzet két forintba került.
 epo	hun	La kalendaron ŝi pendigis al la muro.	A falra akasztotta a kalendáriumot.
@@ -3556,6 +3600,7 @@ epo	hun	La kemia formulo de akvo estas H₂O.	A víz kémiai képlete: H₂O.
 epo	hun	La kemiisto serĉis firmajn pecojn en la solvaĵo.	A vegyész szilárd darabokat keresett az oldatban.
 epo	hun	La kimraj bardoj laŭvice venis antaŭ reĝon Eduardo.	A velszi bárdok egymás után sorban járultak Eduárd király elé.
 epo	hun	La klaso tro grandis, tiam ni disigis nin en du pli etajn grupojn.	Túl nagy lett az osztály, ezért két kisebb csoportra oszlottunk.
+epo	hun	La kmera estas la oficiala lingvo de Kamboĝo.	A khmer Kambodzsa hivatalos nyelve.
 epo	hun	La knabeto karesis la kateton.	A kislány megsimogatta a kiscicát.
 epo	hun	La knabeto ne lasis demeti la novan, drapan veŝton.	A fiúcska nem hagyta levetni az új posztómellényt.
 epo	hun	La knabineto havis riĉan fantazion.	A kislány gazdag fantáziával bírt.
@@ -3752,6 +3797,7 @@ epo	hun	La modelo estas konforma al la oriĝinalo nur pli malgranda.	A modell me
 epo	hun	La modo estas tre kaprica.	A világ nagyon szeszélyes.
 epo	hun	La mondo ankoraŭ ne trovis pacon.	A világban még nincs béke.
 epo	hun	La mondo bezonas pli da tenereco.	A világnak több gyengédségre van szüksége.
+epo	hun	La mondo estas unu popolo.	A világ egy nép.
 epo	hun	La mondo malheliĝas antaŭ mi.	A világ elsötétül előttem.
 epo	hun	La mondo ne turniĝas ĉirkaŭ vi.	Nem körülötted forog a világ.
 epo	hun	La moneroj estas metalaj.	Az érmék fémből vannak.
@@ -3913,6 +3959,7 @@ epo	hun	La pordo de la ĉambro de Tomo estis fermita.	Tom szobaajtaja be volt z�
 epo	hun	La pordo de la ĉambro de Tomo estis fermita.	Tom szobájának ajtaja be volt csukva.
 epo	hun	La pordo de la ĉambro de Tomo estis fermita.	Tom szobájának ajtaja zárva volt.
 epo	hun	La pordo de la ĉambro de Tomo estis ŝlosita.	Tom szobaajtaja be volt zárva.
+epo	hun	La pordoj de la domo estis ruĝaj.	A ház ajtajai pirosak voltak.
 epo	hun	La pordoj estis fermitaj.	A kapuk zárva voltak.
 epo	hun	La pordo ne estis ŝlosita.	Az ajtó nem volt bezárva.
 epo	hun	La posttagmezan programon proponis Adamo.	A délutáni programot Ádám javasolta.
@@ -3972,6 +4019,7 @@ epo	hun	La reĝino nepre mortu.	A királynőnek meg kell halnia.
 epo	hun	La Registaro decidas pri trupmovoj ligitaj kun limtranspaŝo de la Hungara Patrujdefenda Armeo kaj eksterlandaj armitaj fortoj.	A Kormány dönt a Magyar Honvédség és a külföldi fegyveres erők határátlépéssel járó csapatmozgásairól.
 epo	hun	La Registaro estas devigata prezenti al la Parlamento la leĝoprojektojn necesajn por plenumi la Fundamentan Leĝon.	A Kormány köteles az Alaptörvény végrehajtásához szükséges törvényjavaslatokat az Országgyűlés elé terjeszteni.
 epo	hun	La Registaro estas la plejsupra organo de la administracio, ĝi rajtas establi ŝtatadministraciajn organojn laŭ difinitoj en leĝo.	A Kormány a közigazgatás legfőbb szerve, törvényben meghatározottak szerint államigazgatási szerveket hozhat létre.
+epo	hun	La registaro estas nur mafio, kiu laŭleĝigas sin.	A kormány nem más mint maffia, mely önmagát legalizálja.
 epo	hun	La Registaro formiĝas per nomumo de la ministroj.	A Kormány a miniszterek kinevezésével alakul meg.
 epo	hun	La registaroj devos iam elekti unu lingvon kiel internacian.	A kormányoknak egyszer majd egy nyelvet kell nemzetközi nyelvvé választaniuk.
 epo	hun	La Registaro pere de la ĉefurba kaj departementa registaraj oficejoj certigas leĝecan inspekton de la lokaj sinadministracioj.	A Kormány a fővárosi és megyei kormányhivatal útján biztosítja a helyi önkormányzatok törvényességi felügyeletét.
@@ -4268,6 +4316,7 @@ epo	hun	La unua leciono estas matematiko.	Első óra mennyiségtan.
 epo	hun	La unua letero alvenis antaŭ du semajnoj.	Az első levél két héttel ezelőtt érkezett meg.
 epo	hun	La unua mondmilito komenciĝis en 1914.	Az első világháború 1914-ben kezdődött.
 epo	hun	La unua paŝo estas tre malfacila.	Minden kezdet nehéz.
+epo	hun	La unuigita popolo neniam estos venkita.	Az egyesült nép soha nem lesz legyőzve.
 epo	hun	La urba biblioteko nun estas fermata pro inventaro.	A városi könyvtár most leltár miatt zárva van.
 epo	hun	La urba orkestro hieraŭ donis koncerton.	A városi zenekar adott koncertet tegnap.
 epo	hun	La urbestro direktiĝis al la loĝantaro.	A polgármester a lakossághoz fordult.
@@ -4359,6 +4408,7 @@ epo	hun	La viro, kiun arestis la polico, estas denove liberigita.	A férfi, akit
 epo	hun	La viro, kiun vi vidis hieraŭ, estas mia onklo.	A férfi, akit láttál tegnap, a nagybátyám.
 epo	hun	La viro komforte sidiĝis en la fotelon.	A férfi kényelmesen beleült a fotelba.
 epo	hun	La viro sola ĝuas tabuloveladon.	A férfi egyedül élvezi a hullámlovaglást.
+epo	hun	La vivo ĉi tie ĉirkaŭas iri al la laborejo kaj la magazenoj.	Itt az élet a munkába járásról és a bevásárlásról szól.
 epo	hun	La vivo de tiu malsanulo endanĝeras.	Ennek a betegnek az élete veszélyben van.
 epo	hun	La vivo estas donaco.	Az élet egy ajándék.
 epo	hun	La vivo estas tre kara al mi.	Nagyra értékelem az életet.
@@ -4959,6 +5009,9 @@ epo	hun	Li ne ekflamigos kandelojn en sia ĉambro.	Nem gyújtja meg a gyertyáka
 epo	hun	Li ne elmetos tion en sian fenestron.	Nem teszi ki az ablakába.
 epo	hun	Li ne estas ĉi tie.	Ő nincs itt.
 epo	hun	Li ne estas feliĉa, alivorte li estas malgaja.	Ő nem boldog, más szóval szomorú.
+epo	hun	Li ne estas hebreo.	Nem zsidó.
+epo	hun	Li ne estas judo.	Nem zsidó.
+epo	hun	Li ne estas kiel vi.	Ő nem olyan, mit te.
 epo	hun	Li ne estas kuracisto.	Ő nem orvos.
 epo	hun	Li ne estas malbona persono.	Ő nem rossz ember.
 epo	hun	Li ne estas malsata.	Nem éhes.
@@ -4973,6 +5026,7 @@ epo	hun	Li ne havas eĉ minuton perdeblan.	Nincs egy pillanat vesztegetni való 
 epo	hun	Li ne havas eĉ vorton de plendo.	Egy zokszót sem ejt.
 epo	hun	Li ne havas kvieton.	Nincs nyugta.
 epo	hun	Li ne havas multajn amikojn.	Nincsen sok barátja.
+epo	hun	Li ne havas skipon.	Nincs személyzete.
 epo	hun	Li ne havas sufiĉe da mono por aĉeti aŭton.	Nincs elég pénze, hogy autót vegyen.
 epo	hun	Li ne havis sekretojn.	Nem voltak titkai.
 epo	hun	Li ne intencas esti kruela. Tio estas nur lia naturo.	Nem szándékosan durva. Csak ilyen a természete.
@@ -5031,6 +5085,7 @@ epo	hun	Li ofte telefonas al mi.	Gyakran felhív.
 epo	hun	Li ofte vizitas min.	Gyakran meglátogat.
 epo	hun	Li ofte vizitis nin, kiam mi estis infano.	Gyakran meglátogatott minket, amikor gyerek voltam.
 epo	hun	Li okupiĝas nur pri sia propra persono.	Csak magával van elfoglalva.
+epo	hun	Li opinias sin grava.	Azt hiszi magáról, hogy fontos.
 epo	hun	Li ordonis, ke oni detruu la dokumentojn.	Azt parancsolta, hogy semmisítsék meg a dokumentumokat.
 epo	hun	Li ornamas sin per fremdaj plumoj.	Idegen tollakkal páváskodik.
 epo	hun	Li parkerigis tiun poemon kiam li estis kvinjara.	Megtanulta ezt a verset, mikor még csak öt éves volt.
@@ -5134,6 +5189,7 @@ epo	hun	Li ŝatas naĝi.	Szeret úszni.
 epo	hun	Li ŝatus veni kun ni.	Szeretett volna velünk jönni.
 epo	hun	Li scias, de kie blovas la vento.	Tudja, honnan fúj a szél.
 epo	hun	Li scias, kiel flugigi helikopteron.	Ő tud helikoptert vezetni.
+epo	hun	Li scias la hispanan.	Tud spanyolul.
 epo	hun	Li scias multe da pri sovaĝaj bestoj.	Sokat tud a vadállatokról.
 epo	hun	Li scias multon pri bestoj.	Sokat tud az állatokról.
 epo	hun	Li scias preskaŭ nenion pri tiu besto.	Jóformán semmit sem tud erről az állatról.
@@ -5493,6 +5549,7 @@ epo	hun	Miaj parencoj prilaboras la freŝan, krudan lakton en familia uzino.	Rok
 epo	hun	Miaj simptomoj venas kun la aĝo.	Tüneteim a korral járnak.
 epo	hun	Miaj tagoj malaperas kiel ombro.	Napjaink eltűnnek, mint az árnyék.
 epo	hun	Mia kato estas blanka.	A cicám fehér.
+epo	hun	Mia kato loĝas kun vulpa terhundo.	A macskám együtt él a foxival.
 epo	hun	Mia kato mortigis sciuron.	A macskám megölt egy mókust.
 epo	hun	Mia kato multe miaŭas.	A macskám sokat nyávog.
 epo	hun	Mi akceptas, sed nur ĉe unu kondiĉo.	Elfogadom, de csak egy feltétellel.
@@ -5691,6 +5748,7 @@ epo	hun	Mi certas ke Tom estos malsata kiam li alvenos hejmen.	Biztos vagyok ben
 epo	hun	Mi certas, ke vi estas okupita.	Biztos vagyok benne, hogy foglalt vagy.
 epo	hun	Mi certe scias ĝin.	Biztosan tudom.
 epo	hun	Mi certe scias, ke li morgaŭ venos.	Biztosan tudom, hogy holnap eljön.
+epo	hun	Mi certe scias, ke Tomo ne volus fari tion.	Biztos vagyok benne, hogy Tom nem akarná ezt tenni.
 epo	hun	Michelangelo premis sian karakterstampon sur sian epokon.	Michelangelo rányomta korára a bélyegét.
 epo	hun	Mi ĉiam aĉetas produkton plej kvalitan, eĉ se ĝi estas iomete pli multekosta.	Mindig a legjobb minőségű terméket veszem meg, még akkor is, ha kissé drágább.
 epo	hun	Mi ĉiam dubas pri la ligvokaloj.	A kötőhangban mindig kételkedem.
@@ -5902,7 +5960,9 @@ epo	hun	Mi estas leganta libron.	Olvasok egy könyvet.
 epo	hun	Mi estas leganta libron pri lingvoj.	Éppen olvasok egy könyvet a nyelvekről.
 epo	hun	Mi estas libera homo.	Szabad ember vagyok.
 epo	hun	Mi estas malalta.	Alacsony vagyok.
+epo	hun	Mi estas malantaŭ la arbo.	A fa mögött vagyok.
 epo	hun	Mi estas malantaŭ la kuirejo.	A konyha mögött vagyok.
+epo	hun	Mi estas mi.	Én én vagyok.
 epo	hun	Mi estas multe pli aĝa ol vi.	Én sokkal idősebb vagyok nálad.
 epo	hun	Mi estas neniulo.	Én egy senki vagyok.
 epo	hun	Mi estas ne tiel granda kiel mia frato, sed pli granda ol mia patro.	Nem vagyok olyan nagy, mint a testvérem, de nagyobb vagyok, mint az apám.
@@ -5917,6 +5977,7 @@ epo	hun	Mi estas parenco de li.	A rokona vagyok.
 epo	hun	Mi estas plenkreska.	Felnőtt vagyok.
 epo	hun	Mi estas pli aĝa ol vi.	Idősebb vagyok nálad.
 epo	hun	Mi estas policisto.	Én rendőr vagyok.
+epo	hun	Mi estas politikisto.	Politikus vagyok.
 epo	hun	Mi estas preskaŭ kvardekjara kaj ankoraŭ ne edziĝis.	Közel negyven éves vagyok, és még mindig nem házasodtam meg.
 epo	hun	Mi estas profesoro.	Tanár vagyok.
 epo	hun	Mi estas riĉa.	Gazdag vagyok.
@@ -5940,6 +6001,7 @@ epo	hun	Mi estas via absoluta amiko.	Feltétlen barátod vagyok.
 epo	hun	Mi estas via najbaro.	A te szomszédod vagyok.
 epo	hun	Mi estas via patro.	Az apád vagyok.
 epo	hun	Mi estas via plej bona amiko.	Én vagyok a legjobb barátod.
+epo	hun	Mi estas vi el la estonteco.	Én te vagyok a jövőből.
 epo	hun	Mi estas vi.	Én vagyok te.
 epo	hun	Mi estas vilaĝano.	Falusi vagyok.
 epo	hun	Mi estis agrable surprizita.	Kellemesen meglepődtem.
@@ -5981,6 +6043,7 @@ epo	hun	Mi faras tro multajn erarojn.	Túl sok hibát vétek.
 epo	hun	Mi farbis la barilon.	Lefestettem a kerítést.
 epo	hun	Mi fariĝis ŝarĝo eĉ ankaŭ por mi mem.	Még a magam számára is teher lettem.
 epo	hun	Mi faris, kion ŝi petis de mi.	Megtettem, amit tőlem kért.
+epo	hun	Mi faris, kion vi rekomendis al mi.	Azt tettem, amit javasoltál.
 epo	hun	Mi faris por mi sandviĉon.	Csináltam magamnak szendvicset.
 epo	hun	Mi faros al li oferton, kiun li ne povos rifuzi.	Olyan ajánlatot küldök majd neki, amelyet képtelen lesz visszautasítani.
 epo	hun	Mi fartas bone, dankon.	Jól vagyok, köszönöm.
@@ -6011,6 +6074,7 @@ epo	hun	Mi gastis hieraŭ ĉe amiko.	Tegnap egy barátomnál tartózkodtam.
 epo	hun	Mi gastos du noktojn.	Két éjszakára fogok vendégeskedni.
 epo	hun	Mi geedziĝis kaj havas du infanojn.	Házas vagyok, és két gyerekem van.
 epo	hun	Mi ĝis nun memoras vian bonodoran, sed diskretan parfumon.	Még most is emlékszem jó illatú, de diszkrét parfümödre.
+epo	hun	Mi gitaras, sed ne kantas.	Gitározok, de nem éneklek.
 epo	hun	Mi ĝojas aŭdi tiujn novaĵojn.	Örömmel hallom ezeket a híreket.
 epo	hun	Mi ĝojas, ĉar hodiaŭ estas bela tago.	Örülök, mert ma szép idő van.
 epo	hun	Mi ĝojas, ke mi havas la eblecon labori kun vi.	Örülök, hogy lehetőségem van veled dolgozni.
@@ -6113,6 +6177,7 @@ epo	hun	Mi hodiaŭ ricevis leteron de ŝi.	Kaptam ma egy levelet tőle.
 epo	hun	Mi hodiaŭ ricevis leteron de ŝi.	Ma kaptam egy levelet tőle.
 epo	hun	Mi hontas pri mi mem.	Szégyellem magam.
 epo	hun	Mi iam sukcesis sidigi sep homojn en mian aŭton.	Nekem már egyszer sikerült hét embert beültetnem az autómba.
+epo	hun	Mi iĝas ju pli aĝa, des pli forgesema.	Minél öregebb vagyok, annál feledékenyebb.
 epo	hun	Mi insistas, ke vi ĉeestu.	Zavar a jelenléted.
 epo	hun	Mi instruos al vi la ŝakludon.	Megtanítalak sakkozni.
 epo	hun	Mi intencas iri al Francio la venontan jaron.	Jövőre Franciaországba szándékozom menni.
@@ -6522,6 +6587,7 @@ epo	hun	Mi ne povis kompreni ion ajn el tio, kion li diris.	Egy szót sem értet
 epo	hun	Mi ne povis kompreni ion ajn el tio, kion li diris.	Semmit nem értettem a mondandójából.
 epo	hun	Mi ne povis min lavi.	Nem tudtam megmosakodni.
 epo	hun	Mi ne povis trovi lian domon.	Nem tudtam megtalálni a házát.
+epo	hun	Mi nepre devas diri ion al vi.	Muszáj valamit elmondanom.
 epo	hun	Mi nepre helpu lin.	Feltétlenül segítsek neki.
 epo	hun	Mi nepre parolos kun li, krom se li forvojaĝis.	Okvetlenül beszélek vele, hacsak el nem utazott.
 epo	hun	Mi ne rajtis forlasi mian loĝejon.	Nem hagyhattam el a lakásomat.
@@ -6554,6 +6620,7 @@ epo	hun	Mi ne scias, ĉu ŝi plaĉas al vi aŭ ne.	Nem tudom, hogy tetszik neked
 epo	hun	Mi ne scias, ĉu Tomo estas frenezulo aŭ geniulo.	Nem tudom, hogy Tamás egy őrült, vagy egy zseni.
 epo	hun	Mi ne scias kial ili estas tiel koleraj pri ni.	Nem tudom, miért haragszanak ránk annyira.
 epo	hun	Mi ne scias, kial vi ne ŝatas lin.	Nem tudom, miért nem szereted őt.
+epo	hun	Mi ne scias, kiam li mensogas.	Nem tudom, mikor hazudik.
 epo	hun	Mi ne scias, kiam li revenos.	Nem tudom, hogy mikor jön vissza.
 epo	hun	Mi ne scias, kian aŭton havas Tomo.	Nem tudom, hogy milyen kocsija van Tominak.
 epo	hun	Mi ne scias, kie ĝi estas.	Nem tudom, hogy hol van.
@@ -6573,6 +6640,7 @@ epo	hun	Mi ne scias la veron.	Nem tudom az igazságot.
 epo	hun	Mi ne scias precize kiam mi revenos.	Nem tudom pontosan, hogy mikor jövök vissza.
 epo	hun	Mi ne scias precize kiam mi revenos.	Nem tudom pontosan, mikor jövök vissza.
 epo	hun	Mi ne scias ŝian veran nomon.	Nem tudom a rendes nevét.
+epo	hun	Mi ne scias, Tomo.	Nem tudom, Tom.
 epo	hun	Mi ne sciis, ke li estas japano.	Nem tudtam, hogy ő japán.
 epo	hun	Mi ne sciis, ke Tomo estas via amiko.	Én nem tudtam, hogy Tom a te barátod.
 epo	hun	Mi ne sciis, ke vi serĉas min.	Nem tudtam, hogy keresel.
@@ -6629,6 +6697,8 @@ epo	hun	Mi ne volas kvereli pri tio.	Nem akarok erről vitázni.
 epo	hun	Mi ne volas ludi kun ŝi.	Nem akarok vele játszani.
 epo	hun	Mi ne volas ludi tiun ludon.	Ezt a játékot nem akarom játszani!
 epo	hun	Mi ne volas lukti plu.	Nem akarok tovább küzdeni.
+epo	hun	Mi ne volas multe.	Nem akarok sokat.
+epo	hun	Mi ne volas multon.	Nem akarok sokat.
 epo	hun	Mi ne volas.	Nem akarom.
 epo	hun	Mi ne volas respekti viron, kia li estas.	Nem akarok respektálni egy olyan férfit, amilyen ő.
 epo	hun	Mi ne volas rompi la surprizon.	Nem akarom elrontani a meglepetést.
@@ -6642,6 +6712,7 @@ epo	hun	Mi ne vundas ilin.	Nem bántom őket.
 epo	hun	Min ĝojigas, ke mi konatiĝos kun vi, Keno.	Örülök, hogy megismerkedtem veled, Ken.
 epo	hun	Min ne interesas la opinio de aliaj homoj pri miaj vestaĵoj.	Engem nem érdekel mások véleménye az öltözködésemről.
 epo	hun	Mi nomiĝas Jack.	A nevem Jack.
+epo	hun	Mi nomiĝas Marina.	A nevem Marina.
 epo	hun	Min tre ĝojigas, ke mi povis helpi al vi.	Nagyon örülök, hogy segíthettem neked.
 epo	hun	Min trompaĉis la vendisto.	Csúnyán becsapott egy árus.
 epo	hun	Mi nun demandos lin, kiel okazis la akcidento.	Most majd megkérdezem tőle, hogyan történt a baleset.
@@ -6684,6 +6755,7 @@ epo	hun	Mi palpe serĉas solvon por eliri el mia nuna situacio.	Tapogatózva ker
 epo	hun	Mi parolas la anglan.	Beszélek angolul.
 epo	hun	Mi parolas la francan ĉiutage.	Minden nap beszélek franciául.
 epo	hun	Mi parolas la svedan.	Beszélek svédül.
+epo	hun	Mi parolas pri la nuntempo.	A jelenről beszélek.
 epo	hun	Mi parolis kun li anstataŭ lia fratino.	Én beszéltem vele nővére helyett.
 epo	hun	Mi pasigis la semajnfinon kun miaj geamikoj.	A hétvégét a barátaimmal töltöttem.
 epo	hun	Mi pensas, do mi drinkas.	Gondolkodom, tehát iszom.
@@ -6717,6 +6789,7 @@ epo	hun	Mi pensis, ke tio ĉi finiĝis.	Azt gondoltam, hogy annak vége.
 epo	hun	Mi pensis, ke tiu donaco povus veni de vi.	Gondolom, ez az ajándék tőled jöhetett.
 epo	hun	Mi perdis ĉion.	Elvesztettem mindent.
 epo	hun	Mi perdis la ŝlosilon de mia aŭto.	Elvesztettem az autóm kulcsát.
+epo	hun	Mi perdis mian inhalilon kontraŭ astmo.	Elhagytam az inhalátorom.
 epo	hun	Mi perdis mian krajonon.	Elvesztettem a ceruzámat.
 epo	hun	Mi pereas pro malsato.	Meghalok az éhségtől.
 epo	hun	Mi perlaboras 100 eŭrojn tage.	100 eurót keresek naponta.
@@ -7008,6 +7081,7 @@ epo	hun	Mi tre ŝatas vojaĝi.	Nagyon szeretek utazni.
 epo	hun	Mi tre volonte akceptos vian inviton.	Nagyon szívesen elfogadom a meghívásodat.
 epo	hun	Mi trinkas je via sano.	Iszom az egészségetekre.
 epo	hun	Mi trinkas kafon nur sen sukero.	Csak cukor nélkül iszom kávét.
+epo	hun	Mi trinkas teon ĉiutage.	Minden nap iszom teát.
 epo	hun	Mi trovas, ke via vizaĝo estas poemo.	Arcod költeménynek találom.
 epo	hun	Mi trovis bonan meksikan restoracion.	Egy jó mexikói éttermet találtam.
 epo	hun	Mi trovis ĝin.	Megtaláltam!
@@ -7051,6 +7125,7 @@ epo	hun	Mi vetas, ke Tom estos bona instruisto.	Fogadok, hogy Tomból jó tanít
 epo	hun	Mi veturas al la lernejo ne per buso.	Nem busszal megyek az iskolába.
 epo	hun	Mi veturis de Germanujo al Italujo.	Németországból Olaszországba utaztam.
 epo	hun	Mi veturis taksie de la stacidomo.	Taxival mentem az állomásra.
+epo	hun	Mi vidas ion, sed ne scias, kio ĝi estas.	Látok valamit, de nem tudom, mit.
 epo	hun	Mi vidas la plumon de mia frato.	Látom a fivérem tollát.
 epo	hun	Mi vidas nek rozon nek libron.	Nem látok se rózsát, se könyvet.
 epo	hun	Mi vidas viron inter la arboj.	Én látok egy férfit a fák között.
@@ -7469,6 +7544,7 @@ epo	hun	Nevo estas la filo de gefrato.	Unokaöcs a testvér fia.
 epo	hun	Nevole elglitis io el lia buŝo.	Akaratlanul kicsúszott valami a száján.
 epo	hun	Nevole elglitis io el lia buŝo.	Önkéntelenül kicsúszott a száján valami.
 epo	hun	Ne zorgu! Mi diris nenion al Manjo.	Ne aggódj! Semmit sem mondtam Mancinak.
+epo	hun	Nia amikino perdis sian panjon.	A barátunk elvesztette az anyukáját.
 epo	hun	Nia amiko perdis sian panjon.	A barátom elvesztette az anyukáját.
 epo	hun	Nia aŭto antaŭeniris sur ŝoseo borderita de agroj.	Autónk szántóföldekkel szegélyezett úton haladt.
 epo	hun	Nia aŭto estas ekipita per klimatizilo.	Az autónk el van látva klímaberendezéssel.
@@ -7513,6 +7589,7 @@ epo	hun	Nian karakteron influas la ĉirkaŭaĵo.	A jellemünket befolyásolja a 
 epo	hun	Ni ankoraŭ havas sufiĉe da tempo.	Van még elég időnk.
 epo	hun	Ni ankoraŭ havis lastan ŝancon.	Még van egy utolsó esélyünk.
 epo	hun	Ni ankoraŭ ne estas vere malsataj.	Még nem laktunk jól igazán.
+epo	hun	Ni ankoraŭ ne havas sufiĉe da mono.	Még nincs elég pénzünk.
 epo	hun	Nia patrino donus eĉ sian animon por ni.	Anyánk a lelkét is kitenné értünk.
 epo	hun	Nia patrino foriris butikumi.	Anya elment butikolni.
 epo	hun	Ni apenaŭ povis spiri.	Alig tudtunk lélegezni.
@@ -7598,6 +7675,7 @@ epo	hun	Ni estas gestudentoj.	Egyetemi hallgatók vagyunk.
 epo	hun	Ni estas grekoj.	Görögök vagyunk.
 epo	hun	Ni estas hungaroj.	Magyarok vagyunk.
 epo	hun	Ni estas la popolo.	Mi vagyunk a nép.
+epo	hun	Ni estas la unuaj.	Mi vagyunk az elsők.
 epo	hun	Ni estas nur amikoj.	Csak barátok vagyunk.
 epo	hun	Ni estas rilataj je sango.	Vérségi kötelék van köztünk.
 epo	hun	Ni estas rusoj. Kio estas vi?	Mi oroszok vagyunk, kik vagytok ti?
@@ -7628,6 +7706,7 @@ epo	hun	Ni gustumis diversajn vinspecojn.	Különböző borfajtákat kóstoltunk
 epo	hun	Ni havas du infanojn.	Két gyermekünk van.
 epo	hun	Ni havas du katojn; unu estas blanka, la alia estas nigra.	Két macskánk van, az egyik fehér, a másik fekete.
 epo	hun	Ni havas du katojn; unu estas blanka, la alia estas nigra.	Két macskánk van; az egyik fehér, a másik fekete.
+epo	hun	Ni havas hipopotamon.	Van egy vízilovunk.
 epo	hun	Ni havas ion komune.	Van valami közös bennünk.
 epo	hun	Ni havas kanuon.	Van kenunk.
 epo	hun	Ni havas kuniklon.	Van egy nyuszink.
@@ -7699,6 +7778,7 @@ epo	hun	Ni ne estas partio!	Nem vagyunk párt!
 epo	hun	Ni ne havas la monon por aĉeti ĉion deziratan.	Nincs annyi pénzünk, hogy mindent megvehetnénk, amit szeretnénk.
 epo	hun	Ni ne havas la tempon por prilabori la tutan donitaĵaron.	Nincs időnk a teljes adatmennyiség földolgozására.
 epo	hun	Ni ne havas sufiĉe da loko.	Nincs elég helyünk.
+epo	hun	Ni ne konas la naturon de l’ infanaĝo: ju pli ni sekvas niajn malverajn nociojn pri ĝi, des pli ni devagas en iluzion.	Nem ismerik a gyermekéletet: mennél messzebbre megyünk róla szóló hamis fogalmaink után, annál jobban eltévelyedünk.
 epo	hun	Ni ne konas lin.	Nem ismerjük őt.
 epo	hun	Ni nenion povas fari, krom atendi.	Semmi egyebet nem tehetünk, minthogy várunk.
 epo	hun	Ni ne planis la renkontiĝon - ĝi estis hazarda.	Nem terveztük a találkozást - véletlen volt.
@@ -7706,6 +7786,7 @@ epo	hun	Ni ne plu eltenas la politikan koruptecon.	Elegünk van a politikai korr
 epo	hun	Ni ne povas ekzisti sen aero kaj akvo.	Víz és levegő nélkül nem tudunk létezni.
 epo	hun	Ni ne povas halti nun.	Most nem tudunk megállni.
 epo	hun	Ni ne povas trovi Tomason.	Nem tudjuk megtalálni Tomot.
+epo	hun	Ni ne povas vivi unu sen la alia.	Nem tudunk egymás nélkül élni.
 epo	hun	Ni ne povis aĉeti biletojn, do ni ne iris al la koncerto.	Nem tudtunk jegyet vásárolni, így nem mentünk el a hangversenyre.
 epo	hun	Ni ne povis ne ridi pri lia rakonto.	Ahogy hallgattuk a történetét, nem bírtuk ki nevetés nélkül.
 epo	hun	Ni ne restis hejme hieraŭ.	Nem maradtunk otthon tegnap.
@@ -7846,6 +7927,7 @@ epo	hun	Nun diru!	Most mondd!
 epo	hun	Nun ja estas nek mono, nek varo.	Most aztán se pénz, se áru.
 epo	hun	Nun mi ankoraŭ havas nur unu eblecon.	Most még csak egy lehetőségem van.
 epo	hun	Nun mi estas okupita, ĉar mi devas ordigi mian loĝejon.	Most elfoglalt vagyok, mert rendbe kell szednem a lakásomat.
+epo	hun	Nun mi estas tro laca por tio.	Fáradt vagyok én most ehhez.
 epo	hun	Nun mi memoras.	Már emlékszem.
 epo	hun	Nun mi memoras.	Most emlékszem.
 epo	hun	Nun mi prezentos miajn gepatrojn al vi.	Most bemutatom neked a szüleimet.
@@ -7966,11 +8048,13 @@ epo	hun	Oni ŝtelis mian pasporton.	Ellopták az útlevelem.
 epo	hun	Oni subpremis la ribelon.	Elnyomták a felkelést.
 epo	hun	Oni supozis, ke li estos tie je la oka, sed li ne aperis ĝis la deka.	Feltételezték, hogy ott lesz nyolckor, de még tízkor sem jelent meg.
 epo	hun	Oni unue zorgu pri si mem.	Először saját magáról gondoskodjon az ember.
+epo	hun	Oni vidas klare nur per la koro. La esenca estas nevidebla por la okuloj.	Jól csak a szívével lát az ember. Ami igazán lényeges, az a szemnek láthatatlan.
 epo	hun	Oni vidos.	Meglátjuk.
 epo	hun	Opinioj ne estas faktoj.	A vélemények nem tények.
 epo	hun	Oranĝsukon, mi petas.	Narancslét kérek.
 epo	hun	Ordonita kiso havas amaran guston.	Erőszakolt csóknak keserű az íze.
 epo	hun	Pacienco estas malofta virto nuntempe.	A türelem ritka erény manapság.
+epo	hun	"Paĉjo, mi estas malsata." "Saluton, Malsata! Mi estas Paĉjo!"	— Apu, éhes vagyok. — Szia, Éhes! Én meg apu vagyok.
 epo	hun	Pacon al homoj de bona volo!	Békesség a jóakaratú embereknek!
 epo	hun	Pagos lupo por la ŝafo.	Megfizet a farkas a bárányért.
 epo	hun	Pajloflam' sin alten svingas, sed baldaŭ sin estingas.	A szalmaláng fellobban, de hamar ki is alszik.
@@ -8065,6 +8149,7 @@ epo	hun	Petro havas feliĉan naturon.	Péter szerencsés természetű.
 epo	hun	Petro iris por vizito.	Péter látogatóba ment.
 epo	hun	Petro kaj lia amiko promenis en la parko.	Péter és barátja sétált a parkban.
 epo	hun	Petro kaj Maria duope promenis.	Péter és Mária kettesben sétáltak.
+epo	hun	„Petro kaj Olivero jam donis sian konsenton.” – „Ĉe tiu okazo nun ĉio dependas de tio, kion diros Anno.”	— Péter és Olivér már rábolintottak. — Most már csak minden attól függ, mit mond Anna.
 epo	hun	Petro ofendis Paŭlon kaj ĉi tiu batis lin.	Péter megsértette Pált, és ez megütötte őt.
 epo	hun	Petro okupiĝas pri la gramatiko nur por amuziĝi.	Péter csak szórakozásból foglalkozik a nyelvtannal.
 epo	hun	Petro ŝajnas jam ne juna.	Péter már nem tűnik fiatalnak.
@@ -8291,6 +8376,7 @@ epo	hun	Rekta vojo estas pli mallonga, ol kurba.	Az egyenes út rövidebb, mint 
 epo	hun	Relegu tion ankoraŭfoje.	Olvasd el még egyszer!
 epo	hun	Renoviĝo de ĉio.	Mindennek megújulása.
 epo	hun	Respondu en la angla.	Angolul válaszolj!
+epo	hun	Restadu ĉi tie tiom longe, kiom vi volas.	Maradj itt, ameddig csak akarsz.
 epo	hun	Restas neniom da salo.	Nem maradt semmi só.
 epo	hun	Restis al mi nur peti oficialan ateston pri tiu deklaro por esti plenuminta mian mision.	Számomra nem maradt más hátra, mint hogy kérjek egy hivatalos igazolást arról a nyilatkozatról ahhoz, hogy a küldetésem teljesítést nyerjen.
 epo	hun	Restis ankoraŭ radieto de espero.	Maradt még egy kis reménysugár.
@@ -8488,6 +8574,7 @@ epo	hun	Se vi vizitos nin, ni tre ĝojos.	Ha meglátogatsz bennünket, nagyon fo
 epo	hun	Se vi volas.	Ha akarod.
 epo	hun	Se vi volas la filinon, flatu la patrinon.	Ha a lányt akarod, a mamának udvarolj.
 epo	hun	Se vi volas plori, ploru.	Ha akarsz sírni, sírjál!
+epo	hun	Se vi volas riĉiĝi, multe ŝtelu.	Ha meg akarsz gazdagodni, lopjál sokat.
 epo	hun	Se vi volas, vi povas iri.	Ha akarsz, mehetsz.
 epo	hun	Se vi volus maldikiĝi, vi devus ĉesi manĝeti inter la manĝoj.	Ha fogyni akarsz, nem kellene főétkezések közt enned.
 epo	hun	Se vizitas mizero, ĝi venas tra pordo kaj fenestroj.	A baj mindig csőstül jön.
@@ -8778,6 +8865,7 @@ epo	hun	Ŝi mezuris min per rigardo de kapo ĝis la plando.	Tetőtől talpig vé
 epo	hun	Ŝi montris al li mian bildon.	Megmutatta neki a képemet.
 epo	hun	Ŝi mortis kvin jaroj antaŭe.	Meghalt öt éve.
 epo	hun	Simpla horloĝo havas nur du nadlojn.	Az egyszerű órának csak két mutatója van.
+epo	hun	Simple pripensu tion: se ne ekzistus ortografiaj ŝanĝoj, ne havus laboron tiuj malfaciligantaj nian vivon.	Gondolj csak bele: ha nem lennének változások a helyesírási szabályokban, nem lenne munkájuk azoknak, akik az életünket megkeserítik.
 epo	hun	Ŝi multe laboris kiel volontulo por la Ruĝa Kruco.	Sokat dolgozott önkéntesként a Vöröskeresztnek.
 epo	hun	Ŝi multe vojaĝis tere kaj mare.	Sokat utazott szárazon és vízen.
 epo	hun	Ŝi naĝas.	Úszik.
@@ -8787,12 +8875,14 @@ epo	hun	Ŝi ne aŭskultas siajn gepatrojn.	Nem hallgat a szüleire.
 epo	hun	Ŝi ne cedis al la delogo.	Nem engedett a csábításnak.
 epo	hun	Ŝi ne donis respondon al mia letero.	A levelemre nem válaszolt.
 epo	hun	Ŝi ne eldiris sian aĝon.	Nem árulta el a korát.
+epo	hun	Ŝi ne estas kiel vi.	Ő nem olyan, mit te.
 epo	hun	Ŝi ne estas mia patrino sed mia plej aĝa fratino.	Ő nem az édesanyám, hanem a nővérem.
 epo	hun	Ŝi ne estas stulta.	Nem buta.
 epo	hun	Ŝi ne estas tiel aĝa kiel Mary.	Ő nem olyan idős mint Mary.
 epo	hun	Ŝi ne estas tiel pacienca kiel vi.	Nem annyira türelmes, mint te.
 epo	hun	Ŝi ne estas tiom timida, kiom antaŭe.	Már nem olyan félénk, mint azelőtt.
 epo	hun	Ŝi ne havas fratojn.	Nincs fiútestvére.
+epo	hun	Ŝi ne havas skipon.	Nincs személyzete.
 epo	hun	Ŝi ne kapablis agordi sian voĉon al la tonoj de almozpetado.	Képtelen volt a hangját a koldulás hangszínéhez igazítani.
 epo	hun	Ŝi neniam mortos.	Sosem fog meghalni.
 epo	hun	Ŝi ne petis helpon de li, ĉar ŝi estis tro fiera.	Nem kért segítséget tőle, mert túl büszke volt.
@@ -8955,6 +9045,7 @@ epo	hun	Skribu al mi, se vi havas problemojn.	Írjál nekem, ha problémáid van
 epo	hun	Skribu tradukindajn frazojn, kaj mi tradukos ilin.	Írj olyan mondatokat, melyeket érdemes lefordítani, és én lefordítom.
 epo	hun	Somere mi aĉetos novan, tolan kompleton.	Nyáron veszek egy új vászonöltönyt.
 epo	hun	Somere mi ĉiam dormas kun la fenestro malfermita.	Nyáron mindig nyitott ablaknál alszom.
+epo	hun	Somere mi pasigis multan tempon ĉe la naĝejo.	Nyáron sok időt töltöttem a medence közelében.
 epo	hun	Somere ni ĉiutage banis nin en la lago.	Nyáron minden nap fürödtünk a tóban.
 epo	hun	Somere ni naĝos en la maro.	Nyáron a tengerben fogunk fürödni.
 epo	hun	Somere oni povas rikolti la maturan sinapon.	Nyáron le lehet aratni az érett mustárt.
@@ -8970,6 +9061,7 @@ epo	hun	Sprito estas inteligenteco en la frako.	A szellem intelligencia frakkban
 epo	hun	S-ro Hunt estas nia lernejestro.	Hunt úr a mi iskolaigazgatónk.
 epo	hun	S-ro Sato bone parolas la anglan.	Sato úr jól beszél angolul.
 epo	hun	S-ro White instruas la anglan al ni.	White úr tanítja nekünk az angolt.
+epo	hun	Stalinismo estas rasismo.	A sztálinizmus rasszizmus.
 epo	hun	Starante ekstere, li povis vidi nur la eksteran flankon de nia domo.	Kintről csak a házunk külső oldalát láthatta.
 epo	hun	Staru en rektan vicon.	Álljatok egyenes sorba.
 epo	hun	Ŝtelĉasado ne estas laŭleĝa.	A rapsickodás nem törvényes.
@@ -9038,6 +9130,7 @@ epo	hun	Telefono estas unu el la multaj elpensaĵoj de Bell.	A telefon az egyik,
 epo	hun	Telefonu al mi morgaŭ matene en la buroo.	Telefonálj nekem holnap reggel az irodába.
 epo	hun	Telefonu al mi tiam, kiam vi alvenos.	Telefonálj nekem akkor, amikor megérkeztél.
 epo	hun	Televido portas la tutan mondon en onian hejmon.	A televízió az egész világot otthonunkba hozza.
+epo	hun	Temas ne nur pri mono, sed pri ĝi ankaŭ.	Itt nem csak a pénzről van szó, de arról is.
 epo	hun	Temas pri mia edzo, sinjoro kuracisto; li malbone dormas.	A férjemről van szó, doktor úr; rosszul alszik.
 epo	hun	Tempo al tempo ni vizitas ankaŭ bibliotekon.	Időről időre a könyvtárba is ellátogatunk.
 epo	hun	Tempo estas valoro simila al oro.	Az idő aranyat ér.
@@ -9415,6 +9508,7 @@ epo	hun	Tomaso diris al ni, ke lia kapo doloras.	Tamás mondta nekünk, hogy fá
 epo	hun	Tomaso elkreskis en Bostono.	Tamás Bostonban nőtt föl.
 epo	hun	Tomaso jam forgesis la plejmulton de la hungaraj vortoj, kiujn li lernis antaŭ iom da tempo.	Tom már elfelejtette a nemrég tanult magyar szavak nagy részét.
 epo	hun	Tomaso manĝas.	Tom eszik.
+epo	hun	Tomaso naĝis kun balenŝarko.	Tom egy cetcápával úszott.
 epo	hun	Tomaso povis esti danĝera.	Tamás veszélyes tudott lenni.
 epo	hun	Tomaso timas mian hundon.	Tamás fél a kutyámtól.
 epo	hun	Tomato, ajlo kaj olivoleo mirinde akordas.	A paradicsom, a fokhagyma és az olivaolaj csodálatos összhangban van.
@@ -9558,8 +9652,10 @@ epo	hun	Tomo estas monarkisto kaj rojalisto.	Tom monarchista és királypárti.
 epo	hun	Tomo estas ne tiel rapida, kiel mi.	Tom nem olyan gyors, mint én.
 epo	hun	Tomo estas nia plej bona ludanto.	Tom a legjobb játékosunk.
 epo	hun	Tomo estas politikisto.	Tom politikus.
+epo	hun	Tomo estas riĉega.	Tom dúsgazdag.
 epo	hun	Tomo estas senlabora.	Tom állás nélkül van.
 epo	hun	Tomo estas terure bela.	Tom rémületbe ejtően szép.
+epo	hun	Tomo estas tre infaneca.	Tom nagyon gyerekes.
 epo	hun	Tomo estas tro maljuna por mi.	Tom túl öreg hozzám.
 epo	hun	Tomo estis en la malsanulejo.	Tom kórházban volt.
 epo	hun	Tomo estis ne malproksime de mi.	Tom nem volt messze tőlem.
@@ -9571,6 +9667,7 @@ epo	hun	Tomo gajnu tempon.	Tomnak időt kell nyernie.
 epo	hun	Tomo havas aŭtomobilon.	Tomnak van autója.
 epo	hun	Tomo havas bluaĵon sub la okulo.	Tomnak kék folt van a szeme alatt.
 epo	hun	Tomo havas bluan aŭton.	Tomnak van egy kék autója.
+epo	hun	Tomo havas du patrinojn.	Tomnak két anyja van.
 epo	hun	Tomo havas nur unu kruron.	Tomnak csak egy lába van.
 epo	hun	Tomo helpis.	Tom segített.
 epo	hun	Tomo iris sen mi.	Tom nélkülem ment.
@@ -9632,6 +9729,7 @@ epo	hun	Tomo timis.	Tomi félt.
 epo	hun	Tomo tre ŝatas sian laboron.	Tomi nagyon szereti a munkáját.
 epo	hun	Tomo tri fojojn edziĝis.	Tomi háromszor házasodott.
 epo	hun	Tomo vojaĝas preskaŭ la tutan jaron. Pri lia domo dum lia foresto zorgas lia fratino Manjo.	Tom szinte egész évben utazik. A házára távollétében testvére, Mária vigyáz.
+epo	hun	Tomo volis ludi ŝakon kun Sinjoro Joĉjido, sed tiu, ja lia kato, ekdormis apud la ŝaktabulo.	Megpróbált Tomi Jackson úrral sakkozni, de az, a macskája, elaludt a sakktábla mellett.
 epo	hun	Tomo volis veni kun ni.	Tom akart jönni velünk.
 epo	hun	Tomo vundiĝis en strata batalo.	Tomi megsérült az utcai csetepatéban.
 epo	hun	Tom pagis la bileton.	Tom fizette a jegyet.
@@ -9673,6 +9771,7 @@ epo	hun	Tom subskribis la leteron.	A levelet Tom írta alá.
 epo	hun	Tom trovis viajn ŝlosilojn.	Tomi megtalálta a kulcsodat.
 epo	hun	Tom vekiĝis en stranga ĉambro.	Tom egy különös szobában ébredt.
 epo	hun	Tom vidis nin.	Tom látott minket.
+epo	hun	Tom, vi estas bona homo.	Tom, te jó ember vagy.
 epo	hun	Tom volas esti kun Maria.	Tom Máriával akar lenni.
 epo	hun	Tom volas farbi siajn harojn.	Tom be akarja festeni a haját.
 epo	hun	Tom volas paroli kun vi.	Tom akar veled beszélni.
@@ -9691,6 +9790,10 @@ epo	hun	Trajnoŝanĝu en Chicago al New York.	Csikágóban szállj át New York 
 epo	hun	Tra la nefermita kajo blovis malvarma vento.	A nyitott peronon hideg szél fújt keresztül.
 epo	hun	Tra la truo elfuĝis la aero.	A lyukon át elszállt a levegő.
 epo	hun	Transdonu al mi salon kaj pipron, mi petas.	Add ide a sót meg a borsot, kérlek.
+epo	hun	Transgenraj virinoj estas virinoj.	A transz nők nők.
+epo	hun	Transgenraj viroj estas viroj.	A transz férfiak férfiak.
+epo	hun	Transseksaj virinoj estas virinoj.	A transz nők nők.
+epo	hun	Transseksaj viroj estas viroj.	A transz férfiak férfiak.
 epo	hun	Tra ventego la voĉo ne aŭdiĝas.	A viharon át nem hallatszik a szó.
 epo	hun	Tremado trakuras lian korpon.	A testét remegés járta át.
 epo	hun	Tre plaĉas al mi ĉi tia malvarma vetero.	Tetszik nekem az ilyen meleg idő.

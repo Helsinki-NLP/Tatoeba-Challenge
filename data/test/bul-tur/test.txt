@@ -1,4 +1,4 @@
-bul_Latn	tur	Това е Copacabana!	Burası Copacabana!
+bul	tur	Това е Copacabana!	Burası Copacabana!
 bul	tur	Kъде е въжето?	İp nerede?
 bul	tur	"Tatoeba" на японски означава "например".	"Tatoeba" Japoncada "mesela" demektir.
 bul	tur	Аз Ви препоръчвам автентичните ястия на този ресторант.	Ben size bu lokantanın otantik yemeklerini tavsiye ederim
@@ -23,6 +23,7 @@ bul	tur	Ако си посещавал Рим, трябва да си видял
 bul	tur	Ако трябва да сме честни, той е човек, на когото не можеш да се довериш.	Açıkça konuşmak gerekirse, o güvenilmez biri.
 bul	tur	Ако трябва да съм честен, не ми харесва облеклото ти.	Gerçeği söylemek gerekirse, giydiğini sevmiyorum.
 bul	tur	Ако ядеш много, ще напълнееш.	Çok fazla yersen şişmanlarsın.
+bul	tur	Алжир е любимата ми страна.	Benim favori ülkem Cezayir.
 bul	tur	Алпинистът беше гладен колкото вълк.	Dağcı bir kurt kadar açtı.
 bul	tur	А сега е мой ред!	Ve şimdi, sıra bende!
 bul	tur	Баща ми ми каза да не чета книга в леглото.	Babam bana yatakta kitap okumamamı söyledi.
@@ -75,6 +76,7 @@ bul	tur	Внимавай!	Dikkat et!
 bul	tur	В рамките на 3 месеца ще мога да чета, пиша и говоря.	Üç ay içinde, okuyabileceğim, yazabileceğim ve konuşabileceğim.
 bul	tur	Времето се заоблачава.	Hava bulutlanıyor.
 bul	tur	Връщайки се към вкъщи, хванах дъжда.	Eve dönerken yağmura yakalanmıştım.
+bul	tur	Всеки геноцид започва с реч на омразата.	Her soykırım nefret söylemiyle başlar.
 bul	tur	Всеки ден е празник.	Her gün bayram.
 bul	tur	Вселената е безкрайна.	Evren sonsuzdur.
 bul	tur	Все още мисля за гатанката.	Bilmece hakkında hâlâ düşünüyorum.
@@ -161,11 +163,13 @@ bul	tur	Зает е с подготовката за пътуването.	Seyah
 bul	tur	Заключвал ли си някога вратата на стаята през вечерта?	Sen hiç gece odanın kapısını kilitledin mi?
 bul	tur	За мен изглежда сякаш грешиш.	Bana öyle görünüyor ki sen hatalısın.
 bul	tur	Започвам да разбирам защо не искаше да дойде тук.	Neden buraya gelmek istemediğini anlamaya başlıyorum.
+bul	tur	Затвори прозореца!	Pencereyi kapat!
 bul	tur	Затова ми кажи какво направи.	Bu yüzden bana ne yaptığını söyle.
 bul	tur	За Том ли ги взе?	Bunları Tom için mi aldın?
 bul	tur	Защо избяга?	Neden kaçtı?
 bul	tur	Защо не помагаме на Том?	Neden Tom'a yardım etmiyoruz?
 bul	tur	Защо не помогнахме на Том?	Neden Tom'a yardım etmedik?
+bul	tur	Защо не ядеш?	Niye yemiyorsun?
 bul	tur	Защо Том мрази Мери?	Tom neden Mary'den nefret ediyor?
 bul	tur	Защо традиционните езикови курсове са толкова скучни?	Neden geleneksel dil dersleri bu kadar sıkıcı?
 bul	tur	Звучи много вълнуващо.	Çok heyecan verici geliyor.
@@ -192,6 +196,7 @@ bul	tur	Изглеждаш удивително.	Müthiş görünüyorsun.
 bul	tur	Изгубих много време в казината.	Kumarhanelerde çok zaman harcadım.
 bul	tur	Изкопавал ли си някога толкова дълбока дупка?	Sen hiç bunun kadar derin bir çukur kazdın mı?
 bul	tur	Изненадах се, когато ви видях да се целувате.	Sizleri öpüşürken görünce şaşırdım.
+bul	tur	Изпитът не беше труден.	Sınav zor değildi.
 bul	tur	Има друго място, на което трябва да бъда.	Olmam gereken başka bir yer var.
 bul	tur	Има ли достатъчно столове, за да седнат 12 човека?	On iki kişinin oturması için yeterince sandalye var mı?
 bul	tur	Имал ли си някога симптомите, описани преди малко?	Sen hiç az önce tanımlanan belirtileri yaşadın mı?
@@ -199,10 +204,12 @@ bul	tur	Имам други неща, които трябва да правя.	Y
 bul	tur	Имаме нужда от един морков, едно цвекло и броколи. Те трябва да са сурови, а не сготвени.	Bir havuç, bir pancar ve bir brokoliye ihtiyacımız var. Onlar çiğ olmalı, pişirilmiş değil.
 bul	tur	Има много неща, които няма да могат да бъдат свършени до утре, а е нужно.	Yarına kadar yapılması gereken yapılamayan bir sürü şey var.
 bul	tur	Имам няколко сребърни монети.	Birkaç gümüş param var.
+bul	tur	Имам приятелка.	Kız arkadaşım var.
 bul	tur	Имаше тъмно кестенява коса.	Koyu kahverengi saçları vardı.
 bul	tur	Имаш ли огънче?	Ateşin var mı?
 bul	tur	Името ми е Андреа.	Benim adım Andrea.
 bul	tur	И приятелят ми работи в супермаркет.	Arkadaşım süpermarkette çalışıyor da..
+bul	tur	Ирландец ли си?	İrlandalı mısın?
 bul	tur	Искам да и посветя(на нея) тази песен.	Bu şarkıyı ona adamak istiyorum.
 bul	tur	Искам да мога да казвам истинското си име на хората.	Gerçek adımı insanlara söyleyebilmek istiyorum.
 bul	tur	Искам да обясня.	Açıklamak istiyorum.
@@ -253,6 +260,7 @@ bul	tur	Какво беше нужно да направиш?	Ne yapman gerekiyo
 bul	tur	Какво бихме направили вместо това?	Onun yerine ne yapardık?
 bul	tur	Какво желаете да чуете?	Ne duymak istiyorsunuz?
 bul	tur	Какво са им казали на Том и Мери?	Tom ve Mary'ye ne söylendi?
+bul	tur	Какво се случва в тази страна?	Bu ülkede neler oluyor?
 bul	tur	Какво те кара да мислиш, че няма да мога да направя това?	Bunu yapamayacağımı sana ne düşündürüyor?
 bul	tur	Каквото и да направите, краят ще е същият.	Ne yaparsanız yapın, sonuç aynı.
 bul	tur	Какво трябва да направя до осем часа?	Saat sekize kadar ne yapmalıyım?
@@ -274,6 +282,7 @@ bul	tur	Когато видях Том за последен път, той ку
 bul	tur	Когато дойдох тук тази сутрин, Том все още беше по пижама и хавлия.	Bu sabah buraya geldiğimde Tom hâlâ pijamasının ve bornozunun içindeydi.
 bul	tur	Кое ли е това момиче?	Şu kız kim acaba.
 bul	tur	Кой е този човек?	Bu kişi kim?
+bul	tur	Кой построи тази стена?	Bu duvarı kim inşa etti?
 bul	tur	Количеството дим, излизащо през електронна цигара, изобщо не е зле.	Elektronik sigaradan çıkan duman miktarı hiç fena değil.
 bul	tur	Колко нощи ще останете?	Kaç gece kalacaksınız?
 bul	tur	Колко стаи имате?	Kaç tane odan var?
@@ -282,6 +291,7 @@ bul	tur	Колко човека живеят в този град?	Bu şehirde k
 bul	tur	Компютърът е в библиотеката.	Bilgisayar kütüphanededir.
 bul	tur	Компютърът е развален.	Bilgisayar bozuk.
 bul	tur	Котката избяга.	Kedi kaçtı.
+bul	tur	Котките виждат птиците.	Kediler kuşları görüyor.
 bul	tur	Коя е тази жена?	O kadın kim?
 bul	tur	Купих го за 10 долара.	Onu on dolara aldım.
 bul	tur	Къде възнамерявате да прекарате почивката си?	Tatilinizi nerede geçirmek niyetindesiniz?
@@ -298,6 +308,7 @@ bul	tur	Мария харчи много пари за дрехи.	Maria giysile
 bul	tur	Мери иска да изчака Том, докато не дойде тук,	Mary buraya gelene kadar Tom beklemek istiyor.
 bul	tur	Мери протегна ръката си, за да покаже на всички годежния си пръстен.	Mary herkese nişan yüzüğünü göstermek için elini uzattı.
 bul	tur	Мечтата ми е да бъда много силен играч на Махджонг.	Hayalim çok güçlü bir Mahjong oyuncusu olmak.
+bul	tur	Мики Маус е мишка.	Micky Mouse bir faredir.
 bul	tur	Минаха няколко години откакто бях на къмпинг.	Kamp yaptığımdan beri birkaç yıl oldu.
 bul	tur	Мислех да те посетя и да ти пожелая късмет.	Ziyaret etmeyi ve sana şans dilemeyi düşündüm.
 bul	tur	Мисля.	Düşünüyorum.
@@ -308,6 +319,7 @@ bul	tur	Мисля, че знам защо е тук.	Neden burada olduğunu bil
 bul	tur	Мисля, че и на двамата ни се иска да бяхме на друго място.	Sanırım ikimiz de başka bir yerde olmayı diliyoruz.
 bul	tur	Мисля, че няма да мога да настигна Том.	Tom'a yetişemeyeceğimi düşünüyorum.
 bul	tur	Мисля, че Том може сам да направи това.	Sanırım Tom bunu kendisi yapabilmeli.
+bul	tur	Мисля, че Том не е разбрал какво си искал да кажеш.	Sanırım Tom ne demek istediğini anlamamış.
 bul	tur	Мисля, че Том трябва да може да направи онова без никаква помощ.	Sanırım Tom hiç bir yardım almadan onu yapabilmeli.
 bul	tur	Мисля, че ще мога да свикна да живея тук.	Burada yaşamaya alışabildiğimi düşünüyorum.
 bul	tur	Много е вкусно.	Çok lezzetli.
@@ -352,10 +364,13 @@ bul	tur	Направих това съвсем сам.	Onu tamamen tek başıma 
 bul	tur	Напълно естествено.	Tamamen doğal.
 bul	tur	Настинката е заболяване.	Nezle bir hastalıktır.
 bul	tur	Насърчавал ли си някога децата си да спазват диета?	Sen hiç diyete gitmeleri için çocuklarını teşvik ettin mi?
+bul	tur	На този плик няма адрес.	Bu zarfta adres yok.
 bul	tur	Не.	Yok.
 bul	tur	Не беше необходимо Том да е тук.	Tom'un burada olması gerekmiyordu.
 bul	tur	Не...всъщност да.	Hayır... yani evet.
+bul	tur	Не вярвай на никого!	Kimseye inanma!
 bul	tur	Неговата арогантност няма граници.	Onun kibrinin sınırı yok.
+bul	tur	Не говоря много.	Çok konuşmuyorum.
 bul	tur	Не е нужно да се разделям с това място.	Burayı terk etmem gerekmiyor.
 bul	tur	Не е нужно да си артист, за да изживяваш красотата на всеки ден.	Her gün güzelliği yaşamak için sanatçı olmana gerek yok.
 bul	tur	Не знам.	Bilmiyorum.
@@ -378,6 +393,7 @@ bul	tur	Не мога да говоря японски.	Japonca konuşamıyorum.
 bul	tur	Не мога да остана тук завинаги.	Sonsuza dek burada kalamam.
 bul	tur	Не мога да пея толкова добре, колкото Том, но мога да пея.	Tom kadar iyi şarkı söyleyemeyebilirim fakat şarkı söyleyebilirim.
 bul	tur	Не мога да се изправя лице в лице отново с Том.	Tom'la tekrar yüz yüze gelemeyeceğim.
+bul	tur	Не мога да спя, ако вратата е затворена.	Eğer kapı kapalıysa uyuyamıyorum.
 bul	tur	Не мога да ти кажа какво направих.	Ne yaptığımı sana söyleyemem.
 bul	tur	Не мога да ям сирене.	Peynir yiyemem.
 bul	tur	Не може да се справи с трудни ситуации.	Zor durumlarla başa çıkamıyor.
@@ -391,6 +407,7 @@ bul	tur	Не планирах да остана тук много дълго.	Bu
 bul	tur	Не се карайте!	Kavga etmeyin.
 bul	tur	Не се прибрах вкъщи до 2.30.	2.30'a kadar eve gelmedim.
 bul	tur	Не се разстройвайте, всичко ще се оправи.	Üzülmeyin, her şey düzelecek.
+bul	tur	Не си готов за това.	Buna hazır değilsin.
 bul	tur	Не си длъжен да обясняваш.	Açıklamak zorunda değilsin.
 bul	tur	Не си толкова стар.	O kadar da yaşlı değilsin.
 bul	tur	Не си толкова стара.	O kadar da yaşlı değilsin.
@@ -399,8 +416,10 @@ bul	tur	Не съм аз виновен.	O, benim hatam değil.
 bul	tur	Не съм аз виновен.	O, benim hatam değildi.
 bul	tur	Не участваш ли в клуба?	Kulübe katılmaz mısın?
 bul	tur	Нещо ставаше.	Bir şey oluyordu.
+bul	tur	Ние играем игра.	Biz oyun oynuyoruz.
 bul	tur	Никога не съм чел тази книга.	O kitabı hiç okumadım.
 bul	tur	Никога няма да знаеш,освен ако не опиташ.	Denemedikçe asla bilemeyeceksin.
+bul	tur	Никога повече няма да закъснея.	Bir daha kimse gecikmeyecek.
 bul	tur	Никой не иска да чуе моите идеи.	Kimse benim fikirlerimi dinlemek istemiyor.
 bul	tur	Никой не слушаше.	Hiç kimse dinlemiyordu.
 bul	tur	Никой няма да знае.	Kimse bilmeyecek.
@@ -418,6 +437,7 @@ bul	tur	Няма да мога да направя това.	Bunu asla yapamayac
 bul	tur	Няма да можем да направим това.	Bunu yapamayacağız.
 bul	tur	Няма да можем да направим това без помощта ти.	Yardımın olmadan onu yapamayacağız.
 bul	tur	Нямам време да направя нещата, които е нужно да бъдат направени.	Yapılması gereken her şeyi yapmak için zamanım yok.
+bul	tur	Нямам приятел.	Erkek arkadaşım yok.
 bul	tur	Няма полза от споренето.	Tartışmanın faydası yok.
 bul	tur	Няма шанс това да се осъществи.	Bunun gerçekleşme ihtimali yok.
 bul	tur	Нямаше друг избор, освен да подаде оставка.	İstifa etmekten başka seçeneği yoktu.
@@ -536,10 +556,12 @@ bul	tur	Тази сабя ще е по-тежка, отколкото си ми�
 bul	tur	Тази сутрин видях Том.	Bu sabah Tom'u gördüm.
 bul	tur	Тази сутрин, когато излизах от вкъщи, Том все още спеше.	Bu sabah evi terk ettiğimde Tom hâlâ uyuyordu.
 bul	tur	Тази сутрин Том ми се извини.	Tom bu sabah bana özür diledi.
+bul	tur	Такъв е животът.	Hayat böyle.
 bul	tur	Там във водата има лебед.	Orada suda bir kuğu var.
 bul	tur	Там, където отивам, няма да ми е нужно палто.	Gittiğim yerde paltoya ihtiyacım olmayacak.
 bul	tur	Те бяха добри съседи досега.	Şimdiye kadar, onlar iyi komşulardı.
 bul	tur	Те дойдоха, въпреки че валеше дъжд.	Onlar yağmur yağmasına rağmen geldiler.
+bul	tur	Тези книги са нови, а онези са стари.	Bu kitaplar yeni, ötekiler ise eski.
 bul	tur	Тези, които искат да се включат в клуба, моля да напишат имената си тук.	Kulübe katılmak isteyenler lütfen buraya isimlerini yazsın.
 bul	tur	Тези се продават навсякъде.	Bunlar her yerde satılıyor.
 bul	tur	Те ни казаха да изчакаме до 2.30.	Onlar bize 2.30'a kadar beklememizi söyledi.
@@ -590,6 +612,7 @@ bul	tur	Този лебед е черен.	Bu kuğu siyahtır.
 bul	tur	Този мост не може да носи повече от 10 тона.	Bu köprü on tondan fazlasını taşıyamaz.
 bul	tur	Този ресторант предлага автентични френски ястия.	Bu restoran otantik Fransız yemeklerini servis ediyor.
 bul	tur	Този филм ми хареса.	Bu filmi sevdim.
+bul	tur	Той беше един от най-добрите ми приятели.	O benim en iyi arkadaşlarımdan biriydi.
 bul	tur	Той е добър плувец.	O iyi bir yüzücüdür.
 bul	tur	Той живя дълго.	O uzun bir hayat yaşadı.
 bul	tur	Той закъснява. Нека да почакаме до 5.30/	O geç kaldı. 5.30'a kadar bekleyelim.
@@ -650,6 +673,7 @@ bul	tur	Том изми колата.	Tom arabayı yıkadı.
 bul	tur	Том има достатъчно пари, за да направи това, което иска.	Tom'un istediği bir şeyi yapması için yeterli parası var.
 bul	tur	Том има много хубава работа.	Tom'un çok iyi bir işi var.
 bul	tur	Том има нужда от тези пари.	Tom'un o paraya ihtiyacı var.
+bul	tur	Том и Мариа са у дома днес.	Tom ve Maria bugün evdeler.
 bul	tur	Том имаше нужда от пари.	Tom'un paraya ihtiyacı vardı.
 bul	tur	Том и Мери вечерят заедно почти всяка вечер.	Tom ve Mary neredeyse her akşam birlikte akşam yemeği yerler.
 bul	tur	Том и Мери прекараха нощта, говорейки с Алис и Джон.	Tom ve Mary geceyi John ve Alice ile konuşarak geçirdi.
@@ -772,6 +796,7 @@ bul	tur	Трябваше да спра.	Durdurmak zorunda kaldım.
 bul	tur	Тукашните пътища са натоварени.	Buradaki yollar sıkışık.
 bul	tur	Тук беше добре.	Burada iyidi.
 bul	tur	Тук има ли човек, който познава Том?	Burada Tom'u tanıyan biri var mı?
+bul	tur	Тук няма книги на руски, да отидем в друг магазин в центъра на града.	Burada Rusça kitap yok, şehirde merkezindeki başka bir dükkana gidelim.
 bul	tur	Тук няма никого.	Burada kimse yok.
 bul	tur	Тук съм, защото съм принуден да съм тук.	Burada olmak zorunda olduğum için buradayım.
 bul	tur	Търся Том. Не си го виждал, нали?	Tom'u arıyorum. Onu görmedin, değil mi?
@@ -812,6 +837,7 @@ bul	tur	Ще ви хареса да работите за мен.	Benim için ç
 bul	tur	Ще дойдеш ли с нас?	Bizimle gidecek misin?
 bul	tur	Ще звънна на Том и ще му кажа, че ние няма да идваме.	Tom'u arayacağım ve ona gelmeyeceğimizi söyleyeceğim.
 bul	tur	Ще изчакаме, докато времето се стъмни.	Hava kararıncaya kadar bekleyeceğiz.
+bul	tur	Ще имам речник.	Sözlüğüm olacak.
 bul	tur	Ще кажеш ли на Том, че се връщам?	Geri döndüğümü Tom'a söyler misin?
 bul	tur	Ще ми кажеш ли кое копче да натисна, моля.	Hangi düğmeye basacağımı söyler misin lütfen?
 bul	tur	Ще му отнеме два дена да свърши работата.	Bu işi bitirmek onun iki gününü alacaktır.

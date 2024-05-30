@@ -1,24 +1,34 @@
 fin	krl	Hän tietää, mistä puhuu.	Häi tiedäy, midä pagizou.
 fin	krl	Inflaatio oli 0,6 prosenttia.	Infl’acii oli 0,6 prosentua.
 fin	krl	Joukkue voitti kilpailun.	Joukkoveh voitti kilvan.
+fin	krl	Juhla on peruttu.	Pruazniekku on perävytetty.
 fin	krl	Kaikki opetus on keskeytetty.	Kai opastus on keskevytetty.
 fin	krl	Kanta-arvion mukaan kesällä oli 32 ilvestä.	Kanduarvivon mugah kezäl oli 32 ilvesty.
+fin	krl	Kanta-arvio on pienentynyt.	Kanduarvivo on pienennyh.
 fin	krl	Karjalan tasavalta on Venäjällä.	Karjalan tazavaldu on Ven'al.
 fin	krl	Kettunen on syntynyt vuonna 1937.	Kettunen on roinnuhes vuvvennu 1937.
 fin	krl	Kilpailun voitti Paltamo.	Kilvan voitti Paltamo.
 fin	krl	Kilvan voitti Paltamo.	Kilvan voitti Paltamo.
+fin	krl	Koulut avattiin.	Školat avavuttih.
 fin	krl	Kuinka monta vuotta vanha sinä olet, Tom?	Äijygo vuottu sinul on, Tom?
 fin	krl	Kuinka vanha sää oot?	Äijygo vuottu sinul on?
 fin	krl	Kuinka vanha sinä olet, Tom?	Äijygo vuottu sinul on, Tom?
 fin	krl	Kuka kuoli 16. helmikuuta?	Ken kuoli 16. tuhukuudu?
 fin	krl	Kuka syntyi 25. toukokuuta?	Ken rodihes 25. oraskuudu?
 fin	krl	Kylä on Karjalan tasavallassa.	Kylä on Karjalan tazavallas.
+fin	krl	Lapset oppivat pyöräilemään.	Lapset opastutah pyöräilemäh.
 fin	krl	Lapsi on määrätty karanteeniin.	Lapsi on miärätty karantiinah.
 fin	krl	Lintu on tavattu Suomessa.	Lindu on tavattu Suomes.
+fin	krl	Lukumäärä ei ole tarkka.	Miäry ei ole tarku.
+fin	krl	Määrä ei ole tarkka.	Miäry ei ole tarku.
+fin	krl	Metsokanta on kasvanut jo neljättä vuotta peräkkäin.	Mečoin kannat ollah kazvettu jo nellätty vuottu peräkkäi.
 fin	krl	Miten ”ikkuna” sanotaan karjalaksi?	Kui sanuo "ikkuna" karjalakse?
 fin	krl	Murteen alkuperä ei ole selkeä.	Murdehen alguperä ei ole selgei.
 fin	krl	Murteen alkuperä ei ole selvä.	Murdehen alguperä ei ole selgei.
+fin	krl	Muutto oli varsin komea.	Muutto oli ylen čoma.
+fin	krl	Muutto oli ylen komea.	Muutto oli ylen čoma.
 fin	krl	Niistä tuotetaan sähköä.	Niilöis tuotetah sähkyö.
+fin	krl	Pakomatkat kestivät monia päiviä.	Pagomatkat kestettih mondu päiviä.
 fin	krl	Pelastuslaitos sammutti tulipalon.	Pellastuslaitos sammutti tulipalon.
 fin	krl	Pietari on metropoli.	Piiteri on metropol’u.
 fin	krl	Pietari on suurkaupunki.	Piiteri on metropol’u.
@@ -41,6 +51,7 @@ fin	krl	Tasavallan presidentti on Sauli Niinistö.	Tazavallan prezidentu on Saul
 fin	krl	Tekoäly on harjoitellut värittämään kuvia.	Tegoäly on harjaitelluh värittämäh kuvii.
 fin	krl	Tiainen on lintu.	Tijaine on lindu.
 fin	krl	Toipumiseen liittyy epävarmuutta.	Toibumizeh liittyy ebävarmuttu.
+fin	krl	Uskon.	Uskon.
 fin	krl	Valtameri on valtion rajana.	Valdivo rajoittuu valdumerenke.
 fin	krl	Valtameri toimii valtion rajana.	Valdivo rajoittuu valdumerenke.
 fin	krl	Valtion pinta-ala on 2472,7 km².	Valdivon pinduala on 2472,7 km².

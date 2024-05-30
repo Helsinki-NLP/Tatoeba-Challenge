@@ -128,6 +128,7 @@ deu	isl	Die meisten gehen mit sechzig in Rente.	Flestir fara á eftirlaun við s
 deu	isl	Die meisten Unfälle im Zusammenhang mit dem Gebrauch von E-Scootern waren bislang geringfügig.	Flest slys sem tengjast notkun rafmagnsskúta hafa hingað til verið minniháttar.
 deu	isl	Die Motorräder sind sehr günstig.	Mótorhjólin eru mjög ódýr.
 deu	isl	Die Olympischen Spiele werden alle vier Jahre ausgetragen.	Ólympíuleikarnir eru haldnir fjórða hvert ár.
+deu	isl	Die Politik ist die Kunst des Lügens.	Stjórnmál eru list lyga.
 deu	isl	Die Rechnung bitte.	Reikninginn, takk.
 deu	isl	Die Rechnung muss heute bezahlt werden.	Það verður að borga reikninginn í dag.
 deu	isl	Die Schweiz ist nicht Schweden.	Sviss er ekki Svíþjóð.
@@ -270,6 +271,7 @@ deu	isl	Er wohnt nicht mehr hier.	Hann býr hér ekki lengur.
 deu	isl	Er zeigte keine Reue für seine Straftat.	Hann sýndi enga iðrun yfir glæp sínum.
 deu	isl	Es geht mir nicht gut.	Mér líður ekki vel.
 deu	isl	Es gibt keinen Grund zur Eile.	Það er engin þörf á að flýta sér.
+deu	isl	Es gibt nichts, was ich mehr hasse als Technik.	Það er ekkert sem ég hata meira en tækni.
 deu	isl	Es hat vier Tage lang geschneit.	Það er búið að snjóa í fjóra daga.
 deu	isl	Es ist am besten, wenn jeder von uns in seine Muttersprache übersetzt.	Það væri best ef hver okkar þýðir á sitt móðurmál.
 deu	isl	Es ist am besten, wenn jeder von uns in seine Muttersprache übersetzt.	Það væri best ef hvert okkar þýðir á sitt móðurmál.
@@ -287,6 +289,7 @@ deu	isl	Es ist nie zu spät zum Lernen.	Enginn er of gamall til að læra.
 deu	isl	Es ist nie zu spät zum Lernen.	Það er aldrei of seint að læra.
 deu	isl	Es ist noch kein Meister vom Himmel gefallen.	Enginn verður óbarinn biskup.
 deu	isl	Es ist praktisch, einen Laptop zu haben.	Það er hagnýtt að hafa ferðatölvu.
+deu	isl	Es ist praktisch, so nahe am Bahnhof zu wohnen.	Það er þægilegt að búa svo nálægt stöðinni.
 deu	isl	Es ist schade, dass du nicht mit uns reisen kannst.	Það er synd að þú getur ekki ferðast með okkur.
 deu	isl	Es ist spät. Ich muss gehen.	Það er seint. Ég þarf að fara.
 deu	isl	Es ist unter dem Stuhl.	Það er undir stólnum.
@@ -554,6 +557,7 @@ deu	isl	In dieser Nacht fröstelte sie im Zelt.	Þá um nóttina skalf hún úr 
 deu	isl	In dieser Region werden Äpfel angebaut.	Epli eru ræktuð í þessu héraði.
 deu	isl	In Paris schneit es.	Það er snjókoma í París.
 deu	isl	Iran ist nicht Irak.	Íran er ekki Írak
+deu	isl	Isländisch ist meine Lieblingssprache.	Íslenska er uppáhalds tungumálið mitt.
 deu	isl	Isländisch ist meine Muttersprache.	Íslenska er móðurmálið mitt.
 deu	isl	Ist das alles?	Er það allt?
 deu	isl	Ist das dein Buch, Mike?	Er þetta bókin þín, Mike?
@@ -710,6 +714,7 @@ deu	isl	Sie geht in eine Gehörlosenschule.	Hún gengur í skóla fyrir heyrnarl
 deu	isl	Sie geht in eine Schule für Gehörlose.	Hún gengur í skóla fyrir heyrnarlausa.
 deu	isl	Sie glaubten mir nicht.	Þau trúðu mér ekki.
 deu	isl	Sie glaubt mir immer.	Hún trúir mér alltaf.
+deu	isl	Sie hat die Bücher geschenkt bekommen.	Hún fékk bækurnar sem gjafir.
 deu	isl	Sie hat gestern Gemüse gekauft.	Hún keypti grænmeti í gær.
 deu	isl	Sie hat grüne Augen.	Hún er með græn augu.
 deu	isl	Sie hat kurze Haare.	Hún er með stutt hár.
@@ -726,6 +731,7 @@ deu	isl	Sie ist gleich alt wie du.	Hún er jafngömul þér.
 deu	isl	Sie ist immer am Lächeln.	Hún brosir alltaf.
 deu	isl	Sie ist in beiden Beinen gelähmt.	Hún er lömuð á báðum leggjum.
 deu	isl	Sie ist ins Ausland gegangen.	Hún er farin til útlanda.
+deu	isl	Sie ist Isländerin.	Hún er íslensk.
 deu	isl	Sie ist reich, jung und hübsch.	Hún er rík, ung, og falleg.
 deu	isl	Sie ist unter dem Stuhl.	Hún er undir stólnum.
 deu	isl	Sie kauft den Computer.	Hún er að kaupa tölvuna.
@@ -895,6 +901,8 @@ deu	isl	Wie oft in der Woche machst du etwas Schönes mit deinen Kindern?	Hversu
 deu	isl	Wie oft in der Woche machst du etwas Schönes mit deinen Kindern?	Hversu oft á viku gerirðu eitthvað skemmtilegt með krökkunum þínum.
 deu	isl	Wie sehr er während seines Auslandaufenthalts auch beschäftigt war, so hat er es doch nie versäumt, mindestens einmal pro Woche seinen Eltern daheim einen Brief zu senden.	Sama hversu upptekinn hann var meðan hann bjó í útlöndum, misfórst honum það aldrei að skrifa heim til foreldra sinna að minnsta kosti einu sinni í viku.
 deu	isl	Wie spricht man "pronounce" aus ?	Hvernig berðu „pronounce“ fram?
+deu	isl	Wie viele Wochen hat ein Jahr?	Hversu margar vikur eru á ári?
+deu	isl	Wie viele Wochen hat ein Jahr?	Hversu margar vikur eru í ári?
 deu	isl	„Wie viel Uhr ist es?“ „Es ist zwanzig Minuten nach drei.“	„Hvað er klukkan?“ „Hún er tuttugu mínútur yfir þrjú.“
 deu	isl	Wie war der Tanz?	Hvernig var dansinn?
 deu	isl	Wie wäre es mit dreiviertel eins?	Hvað með 12:45?

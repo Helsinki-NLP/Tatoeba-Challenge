@@ -42,6 +42,7 @@ deu	vol_Latn	Die Gute kocht eine Suppe.	Jigudikan kvisinof supi.
 deu	vol_Latn	Die Juden sind müde.	Yudans binons fenik.
 deu	vol_Latn	Die Katze hat die Maus verfolgt.	Kat epöjuton mugi.
 deu	vol_Latn	Die Königin muss sterben.	Jireg mutof deadön.
+deu	vol_Latn	Die Liebe liebt es, die Liebe zu lieben.	Löf löfon löfön löfi.
 deu	vol_Latn	Diesen Satz nicht lesen!	No reidolöd ati seti.
 deu	vol_Latn	Diesen Satz nicht lesen!	No reidolsöd ati seti.
 deu	vol_Latn	Diesen Satz nicht lesen!	No reidoröd ati seti.
@@ -49,6 +50,7 @@ deu	vol_Latn	Diesen Satz nicht lesen!	No reidorsöd ati seti.
 deu	vol_Latn	Dieser Apfel ist grün.	Pod at binon grünik.
 deu	vol_Latn	Dieser Apfel ist grün.	Pod at grünon.
 deu	vol_Latn	Dieser Hund gehört dir.	Dog at binom olik.
+deu	vol_Latn	Die Welt ist krank.	Vol binon malädik.
 deu	vol_Latn	Donald Trump ist ein krankhafter Lügner.	Donald Trump binom lugan malädavik.
 deu	vol_Latn	Donald Trump ist ein pathologischer Lügner.	Donald Trump binom lugan malädavik.
 deu	vol_Latn	Du hast schöne Haut.	Labol skini jönik.
@@ -94,10 +96,12 @@ deu	vol_Latn	Ich bin keine Katze.	No binob jikat.
 deu	vol_Latn	Ich bin keine Katze.	No binob kat.
 deu	vol_Latn	Ich denke, also bin ich.	Tikob, so binob.
 deu	vol_Latn	Ich denke, es ist gut, dass Bücher noch existieren, aber sie machen mich schläfrig.	Tikob, binos gudik, das buks dabinons nog, ab ons slipöfikükons obi.
+deu	vol_Latn	Ich glaube nicht mehr an Gott.	No plu kredob mö God.
 deu	vol_Latn	Ich habe Dan besucht.	Ävisitob hieli Dan.
 deu	vol_Latn	Ich habe eine Frage.	Labob säki.
 deu	vol_Latn	Ich habe ein Haus.	Labob domi.
 deu	vol_Latn	Ich habe ihn gestern getroffen.	Äkolkömob omi ädelo.
+deu	vol_Latn	Ich habe Tom getötet.	Ädeidob eli Tom.
 deu	vol_Latn	Ich höre, dass du nicht gesund bist.	Lilob, das no binol saunik.
 deu	vol_Latn	Ich kann es nicht beschreiben.	No kanob bepenön oni.
 deu	vol_Latn	Ich kann mich nicht erinnern, wo ich es gekauft habe.	No kanob memön, kö äremob oni.
@@ -128,8 +132,10 @@ deu	vol_Latn	Ihr unterrichtet Arabisch.	Tidols Larabänapüki.
 deu	vol_Latn	In Australien spricht man Englisch.	In Laustralän spikoy Linglänapuki.
 deu	vol_Latn	In der Bibel steht, man soll seinen Nächsten lieben.	Bib sagon obse, das sötobs löfön nilikünanis obik.
 deu	vol_Latn	Ist dieser Hund männlich oder weiblich?	Binon-li et dog manik u vomik?
+deu	vol_Latn	Ist eine andere Welt möglich?	Vol difik mögon-li?
 deu	vol_Latn	Ist es wichtig?	Binon-li veütik?
 deu	vol_Latn	Ist Gott schwul?	God binon-li otgeniälik?
+deu	vol_Latn	Ist Maria deine Schwester?	Maria binof-li jiblod ola?
 deu	vol_Latn	Kann er Englisch sprechen?	Кanom-li spikön Linglänapüki?
 deu	vol_Latn	Kann er Englisch sprechen?	Кanon-li spikön Linglänapüki?
 deu	vol_Latn	Kann er Englisch?	Кanom-li spikön Linglänapüki?
@@ -190,6 +196,7 @@ deu	vol_Latn	Warum will Tom dort wohnen?	Kikod Tomas vilom lödön us?
 deu	vol_Latn	Was ist ein Wort?	Kis binon vöd?
 deu	vol_Latn	Was ist Freiheit?	Kin binon-li lib?
 deu	vol_Latn	Was weißt du?	Kisi nolols-li?
+deu	vol_Latn	Wem hat Tom sein Haus verkauft?	Kime Tomas eselom domi okik?
 deu	vol_Latn	Wer versteckt sich hinter dem Vorhang?	Kin klänedon oki po körten?
 deu	vol_Latn	Wie viel Uhr ist es?	Düp kinid binos-li?
 deu	vol_Latn	„Wird es regnen?“ „Ich hoffe nicht!“	“Oreinos-li?” — “Spelob, das no.”
@@ -197,6 +204,7 @@ deu	vol_Latn	Wir haben die Tiefe des Flusses gemessen.	Ämafobs dibi flumeda.
 deu	vol_Latn	Wir haben keinen Fernseher.	No labobs televidömi.
 deu	vol_Latn	Wir haben zehn Paare auf die Feier eingeladen.	Ävüdobs päris deg lü zälül.
 deu	vol_Latn	Wir kennen ihn nicht.	No sevobs omi.
+deu	vol_Latn	Wir sind alle Affen.	Obs valik binobs leps.
 deu	vol_Latn	Wir sprechen die Weltsprache Ido.	Spikobs volapüki eli Ido.
 deu	vol_Latn	Wir vertrauen ihm nicht.	No konfidobs ome.
 deu	vol_Latn	Wo bist du?	Kiöpo binol-li?

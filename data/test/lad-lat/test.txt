@@ -78,14 +78,21 @@ lad_Latn	lat_Latn	A Tom no le agrada el kave kayente.	Thomae non placet cafea ca
 lad_Latn	lat_Latn	A Tom no le plaze el kave kayente.	Thomae non placet cafea calda.
 lad_Latn	lat_Latn	Avlo kon mi en kastilyano.	Mecum hispanice locuta est.
 lad_Latn	lat_Latn	Avlo kon mi en kastilyano.	Mecum hispanice locutus est.
+lad_Latn	lat_Latn	Ay munchas linguas en el mundo.	Multae linguae sunt in mundo.
 lad_Latn	lat_Latn	Bevi kuanto kije.	Bibi quantum volui.
+lad_Latn	lat_Latn	Biven en pas.	In pace vivunt.
 lad_Latn	lat_Latn	Dario es un komunisto.	Darius communista est.
+lad_Latn	lat_Latn	Deke aborresesh la libertad?	Cur libertatem odisti?
+lad_Latn	lat_Latn	Deke aborreses la libertad?	Cur libertatem odisti?
 lad_Latn	lat_Latn	Deke estamos aki?	Cur hic sumus?
 lad_Latn	lat_Latn	Deke estas viniendo?	Cur venis?
 lad_Latn	lat_Latn	Dinguno estado tiene el derecho a egzistir.	Nulla civitas habet ius exsistendi.
 lad_Latn	lat_Latn	Dinguno no kreia ke una tala koza podria afitar.	Nemo eventum tale possibile esse credebat.
+lad_Latn	lat_Latn	Dingunos no tienen una alma.	Nemo animam habet.
+lad_Latn	lat_Latn	Dingunos no tienen una neshama.	Nemo animam habet.
 lad_Latn	lat_Latn	Donald Trump es un mentirozo patolojiko.	Donaldus Trump mendax pathologicus est.
 lad_Latn	lat_Latn	Donald Trump es un mintirozo patolojiko.	Donaldus Trump mendax pathologicus est.
+lad_Latn	lat_Latn	El amor ama amar el amor.	Amor amorem amare amat.
 lad_Latn	lat_Latn	El antisemitizmo es el sosializmo de bovos.	Antisemitismus est socialismus stultorum.
 lad_Latn	lat_Latn	El arabo es asemejante al ebreo.	Lingua Arabica Hebraicae similis est.
 lad_Latn	lat_Latn	El buto fue akumplido.	Ad metam perventum est.
@@ -95,7 +102,10 @@ lad_Latn	lat_Latn	El djudaizmo es ermozo.	Iudaismus pulcher est.
 lad_Latn	lat_Latn	El ebreo i el fenisio son linguas kananitas.	Lingua Hebraica et lingua Phoenicia sunt linguae Chananaeae.
 lad_Latn	lat_Latn	El esta kon ti.	Tecum est.
 lad_Latn	lat_Latn	El gato es grande.	Cattus magnus est.
+lad_Latn	lat_Latn	El gato tiene ambre.	Feles esurit.
 lad_Latn	lat_Latn	El kree en el Dio.	Credit in Deum.
+lad_Latn	lat_Latn	El mundo esta hazino.	Mundus aegrotat.
+lad_Latn	lat_Latn	El mundo es una nasyon.	Mundus natio est.
 lad_Latn	lat_Latn	El objektivo fue akumplido.	Ad metam perventum est.
 lad_Latn	lat_Latn	El peor virus es el kapitalizmo.	Virus pessimum est capitalismus.
 lad_Latn	lat_Latn	El prezidente Trump es muy impopular.	Praesidens Trump valde invisus est.
@@ -103,6 +113,7 @@ lad_Latn	lat_Latn	El uniko fashisto bueno es el fashisto muerto.	Solus fascista 
 lad_Latn	lat_Latn	El Universo es un misterio.	Universum mysterium est.
 lad_Latn	lat_Latn	Epstein no se mato.	Epstein sibi mortem non conscii.
 lad_Latn	lat_Latn	Epstein no se suisido.	Epstein sibi mortem non conscii.
+lad_Latn	lat_Latn	Es difisil de pensar.	Difficile est cogitare.
 lad_Latn	lat_Latn	Esta agua no esta fria.	Haec aqua non friget.
 lad_Latn	lat_Latn	Esta mansana es amariya.	Hoc malum flavum est.
 lad_Latn	lat_Latn	Esta mansana es kolorada.	Hoc malum rubrum est.
@@ -110,11 +121,13 @@ lad_Latn	lat_Latn	Esta mansana es vedre.	Hoc malum viride est.
 lad_Latn	lat_Latn	Estava kantando.	Cantabam.
 lad_Latn	lat_Latn	Estava kantando.	Cantābam.
 lad_Latn	lat_Latn	Ester es la mujer de Rahel.	Esther uxor Rachel est.
+lad_Latn	lat_Latn	Ester nasio en un kibuts.	Esther in kibbutz nata est.
 lad_Latn	lat_Latn	Esto es un kuchiyo.	Hic culter est.
 lad_Latn	lat_Latn	Esto meldando el Koran.	Alcoranum lego.
 lad_Latn	lat_Latn	Esto merkando una roza.	Rosam emo.
 lad_Latn	lat_Latn	Es una fashista.	Fascista est.
 lad_Latn	lat_Latn	Es un fashisto.	Fascista est.
+lad_Latn	lat_Latn	Evropa no egziste.	Europa non est.
 lad_Latn	lat_Latn	Eya esta kon ti.	Tecum est.
 lad_Latn	lat_Latn	Eyas estan kon mi.	Eae mecum sunt.
 lad_Latn	lat_Latn	Eyos estan kon mi.	Ei mecum sunt.
@@ -139,60 +152,91 @@ lad_Latn	lat_Latn	Ke es un biervo?	Vocabulum quid est?
 lad_Latn	lat_Latn	Ken era Konfusio?	Quis fuit Confucius?
 lad_Latn	lat_Latn	Ke puedo azer?	Quid facere possum?
 lad_Latn	lat_Latn	Ke puedo fazer?	Quid facere possum?
+lad_Latn	lat_Latn	Kere agua.	Aquam vult.
 lad_Latn	lat_Latn	Kero merkar una kaza.	Domum emere volo.
+lad_Latn	lat_Latn	Kero un perriko.	Catulum volo.
 lad_Latn	lat_Latn	Komo komo komo.	Edo ut edo.
 lad_Latn	lat_Latn	Komo pan sin azete.	Panem edo sine oleo.
 lad_Latn	lat_Latn	Komo pan sin azete.	Panem sine oleo edo.
 lad_Latn	lat_Latn	Kree en el Dio.	Credit in Deum.
 lad_Latn	lat_Latn	Kreyo en el sol, afilu si el no briye. Kreyo en el amor, afilu si no lo senta. Kreyo en el Dio, afilu si El se kaye.	In solem credo etsi non luceat. In amorem credo etsi eum non sentiam. In Deum credo etsi taceat.
+lad_Latn	lat_Latn	Kualo es el Djudaizmo?	Quid est Iudaeismus?
+lad_Latn	lat_Latn	"Kuando?" "Nunka."	"Quando?" "Numquam."
+lad_Latn	lat_Latn	La agua es limpia?	Estne aqua munda?
+lad_Latn	lat_Latn	La kolora es venenoza.	Ira venenifera est.
 lad_Latn	lat_Latn	La mansana es vedre.	Malum viride est.
+lad_Latn	lat_Latn	La mishpaha es emportante.	Familia magni momenti est.
 lad_Latn	lat_Latn	La proprieta es ladronisyo.	Peculium est furtum.
 lad_Latn	lat_Latn	La realidad es ermoza.	Realitas est bella.
 lad_Latn	lat_Latn	La realita es ermoza.	Realitas est bella.
 lad_Latn	lat_Latn	La reyna deve de murir.	Regina debet mori.
+lad_Latn	lat_Latn	La shara es vedre.	Silva viridis est.
+lad_Latn	lat_Latn	Lo le kero dar a Miri.	Mariae id volo dare.
+lad_Latn	lat_Latn	Los arvoles biven.	Arbores vivunt.
 lad_Latn	lat_Latn	Los djudios veros son los djudios.	Iudaei veri sunt Iudaei.
 lad_Latn	lat_Latn	Los ombres yoran?	Flentne viri?
 lad_Latn	lat_Latn	Los palestinianos son seres umanos.	Palaestini humani sunt.
 lad_Latn	lat_Latn	Los puerkos son mas intelijentes ke los perros i los gatos.	Sues intellegentiores sunt quam canes felesque.
 lad_Latn	lat_Latn	Los sovrebiviremos.	Eis supererimus.
 lad_Latn	lat_Latn	Los sovrebiviremos.	Eis supervivemus.
+lad_Latn	lat_Latn	Mati a Tom.	Thoman interfeci.
+lad_Latn	lat_Latn	Me amavas.	Amabas me.
 lad_Latn	lat_Latn	Meldi el Koran.	Alcoranum legi.
 lad_Latn	lat_Latn	Mi nombre es Dilshad.	Nomen mihi Dilshad est.
 lad_Latn	lat_Latn	Mi nombre es Omid.	Nomen mihi Omid est.
 lad_Latn	lat_Latn	Moramos en Serbia.	In Serbiā habitamus.
 lad_Latn	lat_Latn	Moro en Etiopia.	In Aethiopiā habito.
 lad_Latn	lat_Latn	Mozotros los sovrebiviremos.	Nos eis supererimus.
+lad_Latn	lat_Latn	No aze frio.	Frigidum non est.
+lad_Latn	lat_Latn	No keremos una gerra.	Bellum nolumus.
+lad_Latn	lat_Latn	No konosesh a Tom.	Thoman non cognoscitis.
+lad_Latn	lat_Latn	No kreyo mas en el Dio.	In Deum iam non credo.
 lad_Latn	lat_Latn	No pasaran!	Non praeteribunt!
+lad_Latn	lat_Latn	No puedo komer kezo.	Cāseum ēsse nōn possum.
 lad_Latn	lat_Latn	No so Mark.	Marcus non sum.
 lad_Latn	lat_Latn	No so una gata.	Catta non sum.
 lad_Latn	lat_Latn	No so un gato.	Cattus non sum.
 lad_Latn	lat_Latn	No so un pirata.	Pirata non sum.
+lad_Latn	lat_Latn	Nunka.	Numquam.
 lad_Latn	lat_Latn	Onde esta Australia?	Australia ubi est?
 lad_Latn	lat_Latn	Onde esta Australia?	Ubi est Australia?
 lad_Latn	lat_Latn	Onde esta Beirut?	Berytus ubi est?
 lad_Latn	lat_Latn	Onde esta Beirut?	Ubi est Berytus?
 lad_Latn	lat_Latn	Onde esta Boston?	Bostonia ubi est?
 lad_Latn	lat_Latn	Onde esta Boston?	Ubi est Bostonia?
+lad_Latn	lat_Latn	Onde esta la esnoga?	Ubi est synagoga?
 lad_Latn	lat_Latn	Onde esta Levanon?	Libanus ubi est?
 lad_Latn	lat_Latn	Onde esta Levanon?	Ubi est Libanus?
+lad_Latn	lat_Latn	Onde esta mi ija?	Ubi est filia mea?
+lad_Latn	lat_Latn	Onde esta mi ijo?	Ubi est filius meus?
 lad_Latn	lat_Latn	Otro mundo es posivle.	Alius mundus esse potest.
+lad_Latn	lat_Latn	Otro mundo es posivle?	Potestne alius mundus esse?
 lad_Latn	lat_Latn	Penso, dunke bevo.	Cogito ergo bibo.
+lad_Latn	lat_Latn	Podemos ayudar a Tom.	Thomae adiuvare possumus.
 lad_Latn	lat_Latn	Podes bivir kon mi.	Potes mecum vivere.
 lad_Latn	lat_Latn	Puedes bivir kon mi.	Potes mecum vivere.
 lad_Latn	lat_Latn	Sami mora en Yerushalayim.	Samius Hierosolymis habitat.
+lad_Latn	lat_Latn	Se aborese a si mizmo.	Se ipsum odit.
+lad_Latn	lat_Latn	So djudia?	Sumne Iudaea?
+lad_Latn	lat_Latn	So djudio?	Sumne Iudaeus?
 lad_Latn	lat_Latn	So el diavlo.	Diabolus sum.
 lad_Latn	lat_Latn	So el satan.	Diabolus sum.
 lad_Latn	lat_Latn	So grande i fuerte.	Magna sum et fortis.
 lad_Latn	lat_Latn	So grande i fuerte.	Magnus sum et fortis.
+lad_Latn	lat_Latn	Somos djudios.	Iudaei sumus.
 lad_Latn	lat_Latn	Somos gregos.	Graeci sumus.
 lad_Latn	lat_Latn	Somos komunistos.	Communistae sumus.
 lad_Latn	lat_Latn	Sosh feliches?	Estisne laeti?
 lad_Latn	lat_Latn	Sos ladron, Tom.	Fur es, Thoma.
+lad_Latn	lat_Latn	Sos mi ermano, Tom.	Frater meus es, Thoma.
+lad_Latn	lat_Latn	Su padre aborrese a los musulmanes.	Pater eius muslimanos odit.
 lad_Latn	lat_Latn	Tenemos un gato.	Felem habemus.
 lad_Latn	lat_Latn	Tengo kuatro kriaturas.	Quattuor liberos habeo.
 lad_Latn	lat_Latn	Tengo los mijores biervos.	Verba optima habeo.
 lad_Latn	lat_Latn	Teniamos un gato.	Felem habebamus.
+lad_Latn	lat_Latn	Tiene una mansana.	Malum habet.
 lad_Latn	lat_Latn	Todo es politiko.	Omnia sunt politica.
+lad_Latn	lat_Latn	Todos somos maymonas.	Simiae sumus omnes.
 lad_Latn	lat_Latn	Tom esta pronto a dezir la vedra.	Didymus paratus ad verum dicendum est.
 lad_Latn	lat_Latn	Tom esta pronto a dezir la vedra.	Thomas paratus ad verum dicendum est.
 lad_Latn	lat_Latn	Tom es un filozofo.	Thomas philosophus est.
@@ -204,6 +248,7 @@ lad_Latn	lat_Latn	Veo el leon blanko.	Leonem album video.
 lad_Latn	lat_Latn	Veo un leon blanko.	Leonem album video.
 lad_Latn	lat_Latn	Ya no te puede ferir.	Tibi nocere non iam potest.
 lad_Latn	lat_Latn	Yeshu es fastidiozo.	Iesus molestus est.
+lad_Latn	lat_Latn	Yeshu te aborrese.	Iesus te odit.
 lad_Latn	lat_Latn	Yo kantava.	Cantabam.
 lad_Latn	lat_Latn	Yo kantava.	Cantābam.
 lad_Latn	lat_Latn	Yo komo pan sin azete.	Panem edo sine oleo.

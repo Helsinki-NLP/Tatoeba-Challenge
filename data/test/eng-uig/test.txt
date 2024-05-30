@@ -8,8 +8,8 @@ eng	uig_Arab	A comment expects a comment.	گەپ قىلماقنىڭ گەپ قى�
 eng	uig_Arab	Actually, I've seen this movie before.	مەن بۇرۇن بۇ كىنونى كۆرۈپتىكەنمەن.
 eng	uig_Arab	Adil is very good at studying, but when it comes to athletics, he's a bit lousy.	ئادىل ئوقۇشتا بەك ياخشى، تەنتەربىيىدىزە ناچارراق.
 eng	uig_Arab	A friend in need is a friend indeed.	قىيىنچىلىقدىكى دوست ھەقىقىي دوستدۇر.
-eng	uig_Arab	After a bit of thought, she gave me an answer.	ئۇ بىرپەستە ئويلىنىپ ماڭا جاۋاب بەردى.
 eng	uig_Arab	After a bit of thought, she gave me an answer.	ئۇ بىرپەس ئويلىنىپ ماڭا جاۋاب بەردى.
+eng	uig_Arab	After a bit of thought, she gave me an answer.	ئۇ بىرپەستە ئويلىنىپ ماڭا جاۋاب بەردى.
 eng	uig_Arab	After exclaiming about how lazy I was, my mother hit me.	ئانام مېنى نېمىدېگەن ھۇرۇن-ھە دەپ ئۇردى.
 eng	uig_Arab	A girl from America is in our class.	سىنىپىمىزدا بىر ئامېرىكىدىن كەلگەن قىزى بار.
 eng	uig_Arab	A good word may split open a rock, but a bad word - a head.	ياخشى سۆز تاشنى يارار، يامان سۆز باشنى.
@@ -21,11 +21,11 @@ eng	uig_Arab	A lazy man is a burden even to the ground.	ھۇرۇن ئادەم ي
 eng	uig_Arab	Albert is engaged in foreign trade and often goes abroad.	ئالبېرت چەتئەل سودىسى بىلەن ئالدىراش،شۇڭا دائىم چەتكە چىقىدۇ.
 eng	uig_Arab	Ali is my brother.	ئەلى مېنىڭ قېرىندىشىم.
 eng	uig_Arab	A little quieter, please.	تىنچراق، مەر ھەمەت.
-eng	uig_Arab	Allah is great!	ئاللاھ بۈيۈكتۇر!
 eng	uig_Arab	Allah is great!	ئاللاھ ئۇلۇغدۇر!
-eng	uig_Arab	Allah is the greatest.	ئاللاھ ھەممىدىن بۈيۈك.
+eng	uig_Arab	Allah is great!	ئاللاھ بۈيۈكتۇر!
 eng	uig_Arab	Allah is the greatest!	ئاللاھ ھەممىدىن ئۇلۇغ!
 eng	uig_Arab	Allah is the greatest!	ئاللاھ ھەممىدىن ئۇلۇغدۇر!
+eng	uig_Arab	Allah is the greatest.	ئاللاھ ھەممىدىن بۈيۈك.
 eng	uig_Arab	All he would do is sit around and wait for winter vacation to come.	ئۇ پەقەت قىشلىق تەتىل ۋاقتىنى ساقلاپلا ئولتۇراتتى.
 eng	uig_Arab	All models are wrong, but some are useful.	مودېللەرنىڭ ھەممىسىدە خاتالىق بار، ئەمما ئۇلارنىڭ بەزىسى كېرەكلىك.
 eng	uig_Arab	All of them are from Iceland.	ئۇلارنىڭ ھەممىسى ئىسلاندىيىدىن كەلگەن.
@@ -52,9 +52,9 @@ eng	uig_Arab	Are you alone?	سەن يالغۇزمۇ؟
 eng	uig_Arab	Are you alone?	سىز يالغۇزمۇ؟
 eng	uig_Arab	Are you alone?	سىلەر يالغۇزمۇ؟
 eng	uig_Arab	Are you also from Kashgar?	سىزمۇ قەشقەرلىكمۇ؟
-eng	uig_Arab	Are you an Uighur?	سىز ئۇيغۇرمۇ؟
 eng	uig_Arab	Are you an Uighur?	ئۇيغۇرمۇسەن؟
 eng	uig_Arab	Are you an Uighur?	ئۇيغۇرمۇسىز؟
+eng	uig_Arab	Are you an Uighur?	سىز ئۇيغۇرمۇ؟
 eng	uig_Arab	Are you a strong believer in Maoism?	ماۋ زېدۇڭ ئىدىيىسىدە چىڭ تۇرامسىز؟
 eng	uig_Arab	Are you a student?	سەن ئوقۇغۇچىمۇ؟
 eng	uig_Arab	Are you a student?	سىز ئوقۇغۇچىمۇ؟
@@ -66,8 +66,8 @@ eng	uig_Arab	Are you busy tomorrow afternoon?	ئەتە چۈشتىن كېيىن �
 eng	uig_Arab	Are you busy tomorrow afternoon?	ئەتە چۈشتىن كېيىن سىلەر ئالدىراشمۇ؟
 eng	uig_Arab	Are you free tomorrow afternoon?	ئەتە چۈشتىن كېيىن ۋاقتىڭ بارمۇ؟
 eng	uig_Arab	Are you free tomorrow afternoon?	ئەتە چۈشتىن كېيىن ۋاقتىڭلار بارمۇ؟
-eng	uig_Arab	Are you free tomorrow afternoon?	ئەتە چۈشتىن كېيىن ۋاقتىلىرى بارمۇ؟
 eng	uig_Arab	Are you free tomorrow afternoon?	ئەتە چۈشتىن كېيىن ۋاقتىڭىز بارمۇ؟
+eng	uig_Arab	Are you free tomorrow afternoon?	ئەتە چۈشتىن كېيىن ۋاقتىلىرى بارمۇ؟
 eng	uig_Arab	Are you free tonight?	كەچتە ۋاقتىڭىز بارمۇ؟
 eng	uig_Arab	Are you from Kashgar as well?	سىزمۇ قەشقەرلىكمۇ؟
 eng	uig_Arab	Are you from Urumqi?	سىز ئۈرۈمچىلىكمۇ؟
@@ -87,12 +87,12 @@ eng	uig_Arab	Are you making her a sandwich?	ئۇنىڭغا بىر ساندىۋى
 eng	uig_Arab	Are you married?	سىز ئۆيلەندىڭىزمۇ؟
 eng	uig_Arab	Are you new?	سەن يېڭى كەلگەنمۇ؟
 eng	uig_Arab	Are you new?	سىلەر يېڭى كەلگەنمۇ؟
-eng	uig_Arab	Are you studying?	سەن ئۆگىنىۋاتامسەن؟
-eng	uig_Arab	Are you studying?	سىز ئۆگىنىۋاتامسىز؟
-eng	uig_Arab	Are you studying?	سىلەر ئۆگىنىۋاتامسىلەر؟
 eng	uig_Arab	Are you studying?	ئۆگىنىۋاتامسەن؟
 eng	uig_Arab	Are you studying?	ئۆگىنىۋاتامسىز؟
 eng	uig_Arab	Are you studying?	ئۆگىنىۋاتامسىلەر؟
+eng	uig_Arab	Are you studying?	سەن ئۆگىنىۋاتامسەن؟
+eng	uig_Arab	Are you studying?	سىز ئۆگىنىۋاتامسىز؟
+eng	uig_Arab	Are you studying?	سىلەر ئۆگىنىۋاتامسىلەر؟
 eng	uig_Arab	Are you subscribed to the newspaper?	گېزىتكە مۇشتەرى بولامسىز؟
 eng	uig_Arab	Are you ten years old?	سەن ئون ياشقا كىردىڭمۇ؟
 eng	uig_Arab	Are you two hungry?	ئىككىڭلارنىڭ قورسىقى ئاچتىمۇ؟
@@ -101,8 +101,8 @@ eng	uig_Arab	As a result of pollution, the lake is without any form of life.	ب�
 eng	uig_Arab	As far as he goes, he's not a good doctor.	ئۇچۇ، ياخشى دوختۇرلاردىن ئەمەس.
 eng	uig_Arab	As for me, I won't be able to attend today's meeting.	مەنچۇ، بۈگۈنكى يىغىنغا قاتناشالمايمەن.
 eng	uig_Arab	A ship is moored at the pier.	بىر كېمە پىرىستاندا توختۇتۇلغان.
-eng	uig_Arab	As if you actually wrote this book!	بۇ كىتابنى سىززە يېزىپسىزە!
 eng	uig_Arab	As if you actually wrote this book!	بۇ كىتابنى سىززە يېزىپسىزدە!
+eng	uig_Arab	As if you actually wrote this book!	بۇ كىتابنى سىززە يېزىپسىزە!
 eng	uig_Arab	As it was past 8 p.m. we called it a day.	سائەت سەككىزدىن كېيىن بولغاچقا بولدى قىلدۇق.
 eng	uig_Arab	Ask a six-year-old, not a sixty-year-old.	ئاتمىش ياشلىقتىن سورىما، ئالتە ياشلىقتىن سورا.
 eng	uig_Arab	A square has four sides.	كۋادراتتا تۆت تەرەپ بار.
@@ -119,8 +119,8 @@ eng	uig_Arab	Beauty is in the eye of the beholder.	چىرايلىق چىرايل
 eng	uig_Arab	Because he couldn't kill me, I killed him.	ئۇ مېنى ئۆلتۈرەلمىگەچكە، مەن ئۇنى ئۆلتۈردۈم.
 eng	uig_Arab	Because he's studying in the Language Department right now, Tursun brags about himself being a "linguist".	تۇرسۇن ھازىر تىل فاكۇلتېتتا ئوقۇۋاتقانلىقى ئۈچۈن، ئۆزىنى تىلشۇناس دەپ ماختايدۇ.
 eng	uig_Arab	Because of the convenience of public transportation, I can go anywhere.	قاتناش قولايلىق بولغاچقا، ھەر قانداق جايغا بارالايمەن.
-eng	uig_Arab	Before that I played with my sister in the park.	ئۇنىڭدىن بۇرۇن سىڭلىم بىلەن باغچىدا ئوينىدىم.
 eng	uig_Arab	Before that I played with my sister in the park.	ئۇنىڭدىن بۇرۇن ئاچام بىلەن باغچىدا ئوينىدىم.
+eng	uig_Arab	Before that I played with my sister in the park.	ئۇنىڭدىن بۇرۇن سىڭلىم بىلەن باغچىدا ئوينىدىم.
 eng	uig_Arab	Being good at basketball, he was recently chosen to be on the national team.	ئۇ ۋاسكېتبولنى ياخشى ئوينايدىغانلىقى سەۋەبىدىن، يېقىندا دۆلەتلىك كوماندىغا تاللاندى.
 eng	uig_Arab	Better late than never.	قوي يوقالغاندىن كېيىن قوتاننىڭ تۆشۈكىنى ئەتمەك.
 eng	uig_Arab	Betty is a pretty girl, isn't she?	بەتتى بىر چىرايلىق قىز ئىكەن، شۇنداق ئەمەسمۇ؟
@@ -200,9 +200,9 @@ eng	uig_Arab	Did you buy the pomegranate juice?	ئانار شەربىتىنى ئ
 eng	uig_Arab	Did you buy the pomegranate juice?	ئانار شەربىتىنى ئالدىڭمۇ؟
 eng	uig_Arab	Did you buy the pomegranate juice?	ئانار شەربىتىنى ئالدىڭىزمۇ؟
 eng	uig_Arab	"Did you call me today?" "Yes, I called once in the morning."	-- سىز بۈگۈن ماڭا تېلېفون قىلدىڭىزمۇ؟ -- ھەئە، ئەتىگەندە بىر قېتىم قىلدىم.
-eng	uig_Arab	Did you call me up last night?	ئاخشام ماڭا تېلېفون بەردىلىمۇ؟
 eng	uig_Arab	Did you call me up last night?	ئاخشام ماڭا تېلېفون بەردىڭما؟
 eng	uig_Arab	Did you call me up last night?	ئاخشام ماڭا تېلېفون بەردىڭىزما؟
+eng	uig_Arab	Did you call me up last night?	ئاخشام ماڭا تېلېفون بەردىلىمۇ؟
 eng	uig_Arab	Did you come here alone?	بۇ يەرگە يالغۇز كەلدىڭمۇ؟
 eng	uig_Arab	Did you find the book interesting?	ئاۋۇ كىتاب سىزگە قىزىق بولغانمۇ؟
 eng	uig_Arab	Did you finish the job?	ۋەزىپىنى ئورۇندىدىڭلارمۇ؟
@@ -345,8 +345,8 @@ eng	uig_Arab	Every little bit counts.	قۇشقاچ بولسىمۇ گۆش.
 eng	uig_Arab	Everyone has strengths and weaknesses.	ھەركىمنىڭ ئارتۇقچىلىقىمۇ، ئاجىزلىقىمۇ بار.
 eng	uig_Arab	Everyone knows that this chemical is harmful to man.	بۇ خىمىيىلىك ئاگېنتنىڭ ئىنسانغا زىيانلىق ئىكەنلىكى ھەممىگە مەلۇمدۇر.
 eng	uig_Arab	Everyone respects Erkin.	ئەركىننى ھەممە ئادەم ھۆرمەتلەيدۇ.
-eng	uig_Arab	Every Sunday afternoon, I go to the bazaar.	ھەر يەكشەنبە چۈشتىن كېيىن بازارغا بارىمەن.
 eng	uig_Arab	Every Sunday afternoon, I go to the bazaar.	مەن ھەر يەكشەنبە چۈشتىن كېيىن بازارغا بارىمەن.
+eng	uig_Arab	Every Sunday afternoon, I go to the bazaar.	ھەر يەكشەنبە چۈشتىن كېيىن بازارغا بارىمەن.
 eng	uig_Arab	Evidently, it's going to rain tomorrow.	ئەتە يامغۇر ياغىدىكەن.
 eng	uig_Arab	Except for big parties, I never drink alcohol.	چوڭ پائالىيەت ۋاقتىدىن باشقا، مەن پەقەت ھاراق ئىچمەيمەن.
 eng	uig_Arab	Excuse me, I'm lost.	كەچۈرۈڭ، مەن يولدىن ئېزىپ قالدىم.
@@ -367,8 +367,8 @@ eng	uig_Arab	First we'll eat, and then we'll go.	ئالدى بىلەن تاما�
 eng	uig_Arab	First, you must protect yourself.	ئالدى بىلەن ئۆزۈڭلارنى قوغدىشىڭلار لازىم.
 eng	uig_Arab	First, you must protect yourself.	ئالدى بىلەن ئۆزۈڭنى قوغدىشىڭ لازىم.
 eng	uig_Arab	First, you must protect yourself.	ئالدى بىلەن ئۆزىڭىزنى قوغدىشىڭىز لازىم.
-eng	uig_Arab	First you say you'll go there, and then you say you'll come here.	سىز بىردەم ئۇ يەرگە بارىمەن دەيسىز، بىردەم بۇ يەرگە بارىمەن دەيسىز.
 eng	uig_Arab	First you say you'll go there, and then you say you'll come here.	سىز بىر ئۇ يەرگە بارىمەن دەيسىز، بىر بۇ يەرگە بارىمەن دەيسىز.
+eng	uig_Arab	First you say you'll go there, and then you say you'll come here.	سىز بىردەم ئۇ يەرگە بارىمەن دەيسىز، بىردەم بۇ يەرگە بارىمەن دەيسىز.
 eng	uig_Arab	Flights on this route have been suspended due to the weather.	بۇ لىنىيەدە ھاۋا رايى سەۋەبلىك ئۈچۈش توختىلىپ قالدى.
 eng	uig_Arab	Follow me into the room.	كەينىمگە كىرىپ ياتاققا كىر.
 eng	uig_Arab	Follow me into the room.	كەينىمگە كىرىپ ياتاققا كىرىڭ.
@@ -416,8 +416,8 @@ eng	uig_Arab	Go directly to the airport. Otherwise, you'll be late.	ئايرود
 eng	uig_Arab	God willing...	خۇدا بۇيرۇسا...
 eng	uig_Arab	Good-bye!	خوش.
 eng	uig_Arab	Good evening.	خەيرلىك كەچ.
-eng	uig_Arab	Good morning.	خەيىرلىك ئەتىگەن.
 eng	uig_Arab	Good morning.	ئەسسىلامۇ ئەلەيكۇم.
+eng	uig_Arab	Good morning.	خەيىرلىك ئەتىگەن.
 eng	uig_Arab	Got it?	بىلدىڭلارمۇ؟
 eng	uig_Arab	Got it?	بىلدىڭمۇ؟
 eng	uig_Arab	Got it?	بىلدىڭىزمۇ؟
@@ -429,14 +429,14 @@ eng	uig_Arab	Green suits you.	يېشىل سىزگە يارىشىدۇ.
 eng	uig_Arab	"Happy Qurban!" "You as well, thank you."	-- قۇربان ھېيتىڭىزغا مۇبارەك بولسۇن! -- ئۆزىڭىزدىن بولسۇن، رەھمەت.
 eng	uig_Arab	Has anybody here been to Hawaii?	گاۋايغا بارغانلار بارمۇ؟
 eng	uig_Arab	Has she come or what?	ئۇ كەلگەندۇ؟
-eng	uig_Arab	Haven't you got a cheaper edition?	سېنىڭدە ئەرزانراق نەشىر يوقمۇ؟
 eng	uig_Arab	Haven't you got a cheaper edition?	سىلەردە ئەرزانراق نەشىر يوقمۇ؟
+eng	uig_Arab	Haven't you got a cheaper edition?	سېنىڭدە ئەرزانراق نەشىر يوقمۇ؟
 eng	uig_Arab	Have there been a lot of sick people lately?	يېقىندىن بېرى كېسەل بولغانلار كۆپمۇ؟
 eng	uig_Arab	Have you been well?	ياخشى تۇردىڭىزمۇ؟
 eng	uig_Arab	Have you got a beard already?	سېنىڭ ئاللىبۇرۇن ساقىلىڭ بارمۇ؟
-eng	uig_Arab	Have you got a red pencil?	سېنىڭدە بىر قىزىل قېرىنداش بارمۇ؟
 eng	uig_Arab	Have you got a red pencil?	سىزدە بىر قىزىل قېرىنداش بارمۇ؟
 eng	uig_Arab	Have you got a red pencil?	سىلەردە بىر قىزىل قېرىنداش بارمۇ؟
+eng	uig_Arab	Have you got a red pencil?	سېنىڭدە بىر قىزىل قېرىنداش بارمۇ؟
 eng	uig_Arab	Have you told Tom what he needs to know?	سىز تومغا بىلمىسە بولمايدىغانلىقىنى دەپ بەرگەنمۇ؟
 eng	uig_Arab	Having finished eating this one thing, he didn't eat any of the others.	ئۇ بۇ نەرسىنىلا يەپ بولۇپ، باشقا نەرسىلەرنى يېمىدى.
 eng	uig_Arab	He admitted his mistakes.	ئۇ خاتالىقىنى ئېتىراپ قىلدى.
@@ -603,8 +603,8 @@ eng	uig_Arab	He's planning to travel the entire country.	ئۇ پۈتۈن مەم�
 eng	uig_Arab	He's really honest. It's all right if I trust him.	ئۇ بەك سەمىمىي. ئۇنىڭغا ئىشەنسەم بولىدۇ.
 eng	uig_Arab	He's smarter than her.	ئۇ ئۇنىڭدىن ئەقىللىق.
 eng	uig_Arab	He's someone who keeps his promises.	ئۇ ۋەدىدە تۇرىدىغان ئادەم.
-eng	uig_Arab	He's tall.	بويى ئېگىز.
 eng	uig_Arab	He's tall.	ئۇنىڭ بويى ئېگىز.
+eng	uig_Arab	He's tall.	بويى ئېگىز.
 eng	uig_Arab	He's Taro's younger brother.	ئۇ تارونىڭ ئۇكىسى.
 eng	uig_Arab	He studied English history.	ئۇ ئەنگلىيىنىڭ تارىخىنى ئۆگەندى.
 eng	uig_Arab	He suddenly fell ill.	ئۇ ئاغرىپ قالدى.
@@ -631,14 +631,14 @@ eng	uig_Arab	He was scared green.	ئۇ يېشىلدىن قورۇققان.
 eng	uig_Arab	He was sent on a special mission to Europe.	ئۇ ئالاھىدە ۋەزىپە بىلەن ياۋرۇپاغا ئەۋەتىلدى.
 eng	uig_Arab	He was standing at the side of the road.	ئۇ يولنىڭ ياقىسىدا تۇراتتى.
 eng	uig_Arab	He went and got all of us bus tickets.	ئۇ بىراقلا ھەممىمىزگە ئاپتوبۇس بىلېتى ئېلىۋەتتى.
-eng	uig_Arab	He went away from his father.	دادىسىدىن كەتتى.
-eng	uig_Arab	He went away from his father.	ئۇ دادىسىدىن كەتتى.
 eng	uig_Arab	He went away from his father.	ئۇ ئاتىسىدىن كەتتى.
+eng	uig_Arab	He went away from his father.	ئۇ دادىسىدىن كەتتى.
+eng	uig_Arab	He went away from his father.	دادىسىدىن كەتتى.
 eng	uig_Arab	He went from Tokyo to Osaka by plane.	ئۇ توكيودا ئايروپىلان چىقىپ ئوساكىغا بارغان.
 eng	uig_Arab	He went into the bazaar. I don't know what's keeping him there.	ئۇ بازارغا كىرىپ كەتكەن، چىقمايدىغۇ-تاڭ.
 eng	uig_Arab	He went out to eat.	ئۇ تاماق يېگىلى كەتتى.
-eng	uig_Arab	He went together with her.	ئۇ بىلەن بارغانىدى.
 eng	uig_Arab	He went together with her.	ئۇ ئۇ بىلەن بارغان.
+eng	uig_Arab	He went together with her.	ئۇ بىلەن بارغانىدى.
 eng	uig_Arab	He went to London in 1970.	ئۇ 1970 يىلدا لوندونغا بارغان ئىدى.
 eng	uig_Arab	He went to the bus stop, and the bus took off.	ئاپتوبۇس بېكىتىگە بېرىۋىدى، ئاپتۇبۇس ماڭدى.
 eng	uig_Arab	He went to the bus stop, and the bus took off.	ئۇ ئاپتوبۇس بېكىتىگە بېرىۋىدى، ئاپتۇبۇس ماڭدى.
@@ -646,8 +646,8 @@ eng	uig_Arab	He went to the shop.	ئۇ دۇكانغا باردى.
 eng	uig_Arab	He went to Urumqi on Monday and came back here the next day.	ئۇ دۈشەنبە كۈنى ئۈرۈمچىگە بېرىپ، ئەتىسى بۇ ياققا قايتىپ كەلدى.
 eng	uig_Arab	He will be busy tomorrow.	ئۇ ئەتە ئالدىراش.
 eng	uig_Arab	He works at a bank.	ئۇ بانكىدا ئىشلەيدۇ.
-eng	uig_Arab	He works in a factory.	بىر زاۋۇتتا ئىشلەيدۇ.
 eng	uig_Arab	He works in a factory.	ئۇ ىىر زاۋۇتتا ئىشلەيدۇ.
+eng	uig_Arab	He works in a factory.	بىر زاۋۇتتا ئىشلەيدۇ.
 eng	uig_Arab	He works really hard, and his co-workers respect him for it.	ئۇ بەك تىرىشىپ ئىشلەيدۇ، شۇڭا خىزمەتداشلىرىمۇ ئۇنى ھۆرمەتلەيدۇ.
 eng	uig_Arab	He would be glad to hear that.	ئۇ ئۇنى ئاڭلىسا خۇش بولىدۇ.
 eng	uig_Arab	Hey, listen!	ئاڭلا-ھە!
@@ -756,8 +756,8 @@ eng	uig_Arab	I am going to see him today.	مەن بۈگۈن ئۇنى كۆرىم�
 eng	uig_Arab	I am Hungarian.	مەن ۋىنگىرىيەلىك.
 eng	uig_Arab	I am listening to the radio.	رادىئو ئاڭلاۋاتىمەن.
 eng	uig_Arab	I am more beautiful than you.	مەن سەندىن چىرايلىق.
-eng	uig_Arab	I am more beautiful than you.	مەن سېنىڭدىن چىرايلىق.
 eng	uig_Arab	I am more beautiful than you.	مەن سىزدىن چىرايلىق.
+eng	uig_Arab	I am more beautiful than you.	مەن سېنىڭدىن چىرايلىق.
 eng	uig_Arab	I am not any more foolish than you are.	مەن ئەمدى سەندەك ئەخمەق ئەمەس.
 eng	uig_Arab	I am not writing a letter.	مەن خەت يازمايمەن.
 eng	uig_Arab	I am of the opinion that he is right.	مېنىڭچە، ئۇ توغرا دېگەن.
@@ -784,8 +784,8 @@ eng	uig_Arab	I begin my discourse with the Name of God ,Creator , Nourisher , Pa
 eng	uig_Arab	I beg you, give me a visa.	مەر ھەمەت، ۋىزىنى ماڭا بېرىڭ.
 eng	uig_Arab	I believe in Allah.	مەن ئاللاھقا ئېدقاد قىلىمەن
 eng	uig_Arab	I believe that you'll definitely be able to get first place.	مەن ئىشىنىمەنكى، سىز چوقۇم بىرىنچىلىككە ئېرىشەلەيسىز.
-eng	uig_Arab	I bike to work.	ۋېلىسىپىت بىلەن ئىشقا بارىمەن.
 eng	uig_Arab	I bike to work.	مەن ۋېلىسىپىت بىلەن ئىشقا بارىمەن.
+eng	uig_Arab	I bike to work.	ۋېلىسىپىت بىلەن ئىشقا بارىمەن.
 eng	uig_Arab	I bought a new television.	بىر يېڭى تېلېۋىزور ئالدىم.
 eng	uig_Arab	I bought a pen like yours yesterday.	تۈتۈگۈن سېنىڭ قەلىمىڭدەك بىر قەلەم ئالدىم.
 eng	uig_Arab	I bought one other book in addition to this one.	مەن مۇشۇ كىتابدىن سىرت يەنە بىر باشقا كىتابنى ئالدىم.
@@ -847,12 +847,12 @@ eng	uig_Arab	I don't know any more than you do.	سىزدىن ئارتۇق بىل
 eng	uig_Arab	I don't know him at all.	مەن ئۇنى قىلچە تونۇمايمەن.
 eng	uig_Arab	I don't know him.	ئۇنى تونۇمايمەن.
 eng	uig_Arab	I don't know the details.	تەپسىلاتلارنى بىلمەيمەن.
-eng	uig_Arab	I don't know the details.	مەن تەپسىلاتلارنى بىلمەيمەن.
 eng	uig_Arab	I don't know the details.	مەن ئىكىر_چىكىرنى بىلەمەيمەن.
+eng	uig_Arab	I don't know the details.	مەن تەپسىلاتلارنى بىلمەيمەن.
 eng	uig_Arab	I don't know why I'm so happy today.	بۈگۈن نېمە بولدىكىن، شۇنداق خۇشالمەن.
 eng	uig_Arab	I don't like apples. All of them seem tasteless to me.	مەن ئالمىنى ياخشى كۆرمەيمەن، ھېچقاندىقىنىڭ ماڭا نىسبەتەن تەمى يوق.
-eng	uig_Arab	I don't like apples.	مەن ئالما ياخشى كۆرمەيمەن.
 eng	uig_Arab	I don't like apples.	ئالما ياخشى كۆرمەيمەن.
+eng	uig_Arab	I don't like apples.	مەن ئالما ياخشى كۆرمەيمەن.
 eng	uig_Arab	I don't like coffee.	قەھۋەنى ياخشى كۆرمەيمەن.
 eng	uig_Arab	I don't like spicy food.	. ئاچچىق يېمەكلىكىنى ياقتۇرمايمەن
 eng	uig_Arab	I don't like this one.	ماۋۇنى ياخشى كۆرمەيمەن.
@@ -901,8 +901,8 @@ eng	uig_Arab	If I were you, I would go home at once.	سېنىڭ ئورنىڭدا
 eng	uig_Arab	If I were you, I would trust her.	مەن سىز بولسام، ئۇنىڭغا ئىشەنەتتىم.
 eng	uig_Arab	I forgot his name.	ئۇنىڭ ئىسمىنى ئۇنتۇدۇم.
 eng	uig_Arab	If someone comes looking for me, would you please tell them that I'm not in?	بىر كىم مېنى ئىزدەپ كەلسە، يوق دېگىن.
-eng	uig_Arab	If someone says "Get lost!" to you, what will you do?	بىرسى ساڭا «يوقال!» دېسە، قانداق قىلارسەن؟
 eng	uig_Arab	If someone says "Get lost!" to you, what will you do?	بىر ئادەم ساڭا «يوقال!» دېسە، قانداق قىلارسەن؟
+eng	uig_Arab	If someone says "Get lost!" to you, what will you do?	بىرسى ساڭا «يوقال!» دېسە، قانداق قىلارسەن؟
 eng	uig_Arab	If someone says "Get lost!" to you, what will you do?	بىرى ساڭا «يوقال!» دېسە، قانداق قىلارسەن؟
 eng	uig_Arab	If the times go against you, then go with the times.	زامان ساڭا باقمىسا، سەن زامانغا باق.
 eng	uig_Arab	If you came, that would be great.	ئەگەر كەلسەڭ، بەك ياخشى بولاتتى.
@@ -926,8 +926,8 @@ eng	uig_Arab	If you just write a zero in this number's ones' place, it'll be cor
 eng	uig_Arab	If you only associate with your own kind, your ideas will never expand.	ئەگەر پەقەت ئۆز خىلىڭىز بىلەن ئارىلاشسىڭىز، خىيالىڭىز ھەرگىز كېڭەيمەيدۇ.
 eng	uig_Arab	If you only drink this juice for a few days, you'll get better.	بۇ شەربەتنى بىر نەچچە كۈن ئىچسەڭلا ساقىيىپ كېتىسەن.
 eng	uig_Arab	If you oversleep, you'll end up hungry.	ئارتۇق ئۇخلىساڭ ئاچ قالىسەن.
-eng	uig_Arab	If you're hungry, then eat.	قورسىقىڭلار ئاچسا، ئاش يېيىڭلار.
 eng	uig_Arab	If you're hungry, then eat.	قورسىقىڭ ئاچسا، ئاش يەي.
+eng	uig_Arab	If you're hungry, then eat.	قورسىقىڭلار ئاچسا، ئاش يېيىڭلار.
 eng	uig_Arab	If you're hungry, then eat.	قورسىقىڭىز ئاچسا، ئاش يېيىڭ.
 eng	uig_Arab	If you want to go, then go. If you don't want to, then forget about it.	خالىسىڭىز بېرىڭ، خالىمىسىڭىز مەيلى.
 eng	uig_Arab	If you want to go, then go. If you don't want to, then it's no big deal.	خالىسىڭىز بېرىڭ، خالىمىسىڭىز مەيلى.
@@ -1006,8 +1006,8 @@ eng	uig_Arab	I just got up.	مەن ئەمدى ئورنۇمدىن تۇردۇم.
 eng	uig_Arab	I just remembered something.	تېخى بىر ئىش يادىمغا كېلىپ قالدى.
 eng	uig_Arab	I just said that.	مەن دەل شۇنداق دېدىم.
 eng	uig_Arab	I just saw something moving.	مەن ھېلىلا بىر نەرسىنىڭ مېدىرلىغىنىنى كۆردۈم.
-eng	uig_Arab	I know that boy who is running.	مەن ئۇ يۈگۈرۈۋاتقان بالىسىنى تونۇيمەن.
 eng	uig_Arab	I know that boy who is running.	ئۇ يۈگۈرۈۋاتقان بالىسىنى تونۇيمەن.
+eng	uig_Arab	I know that boy who is running.	مەن ئۇ يۈگۈرۈۋاتقان بالىسىنى تونۇيمەن.
 eng	uig_Arab	I know that he can draw.	مەن ئۇنىڭ سىزىدىغانلىقىنى بىلىمەن.
 eng	uig_Arab	I know that Nancy likes music.	نېنسىنىڭ مۇزىكىنى ياخشى كۆرىدىغانلىقىنى بىلىمەن.
 eng	uig_Arab	I know that she has been busy.	ئۇنىڭ ئالدىراش بولغانلىقىنى بىلىمەن.
@@ -1035,8 +1035,8 @@ eng	uig_Arab	I live in Kyoto now.	ھازىر كىيوتودا تۇرىمەن.
 eng	uig_Arab	I live in Milan.	مەن مىلاندا تۇرىمەن.
 eng	uig_Arab	I live in Tokyo.	توكىيودا تۇرىمەن.
 eng	uig_Arab	I live with my mother, brother and my grandparents.	ئانام، ئاكام ۋە جوڭ ئاتا_ئانام بىلەن تۇرىمەن.
-eng	uig_Arab	I'll be back shortly.	مەن ھازىرلا قايتىپ كېلىمەن.
 eng	uig_Arab	I'll be back shortly.	مەن تېزلا قايتىپ كېلىمەن.
+eng	uig_Arab	I'll be back shortly.	مەن ھازىرلا قايتىپ كېلىمەن.
 eng	uig_Arab	I'll be seventeen next year.	كېلەر يىل ئون يەتتە ياشقا كىرىمەن.
 eng	uig_Arab	I'll buy you a beer.	ساڭا پىۋا ئالىمەن.
 eng	uig_Arab	I'll call you around five o'clock.	سائەت بەشلەردە ساڭا تېلېڧون بېرىمەن.
@@ -1066,8 +1066,8 @@ eng	uig_Arab	I'm 1.9 meters tall.	مەن بىر مېتىر توقسان سان �
 eng	uig_Arab	I majored in chemistry at the university.	داشۆدە خىمىيىنى قىلىپ ئوقۇغانىدىم.
 eng	uig_Arab	I major in economics.	مېنىڭ كەسپىم ئىقتىساد.
 eng	uig_Arab	I make €100 a day.	بىر كۈندە 100 ياۋرو تاپىمەن.
-eng	uig_Arab	I'm a little taller than you.	مەن سېنىڭدىن ئېگىزرەك.
 eng	uig_Arab	I'm a little taller than you.	مەن سىزدىن ئېگىزرەك.
+eng	uig_Arab	I'm a little taller than you.	مەن سېنىڭدىن ئېگىزرەك.
 eng	uig_Arab	I'm an atheist.	مەن دىنسىز.
 eng	uig_Arab	I'm angry with her.	مەن ئۇنىڭدىن خاپا.
 eng	uig_Arab	I'm a nomad for life.	ئۆمۈر بويى بىر كۆچمەن ئادەم بولىمەن.
@@ -1077,8 +1077,8 @@ eng	uig_Arab	I'm busy by now.	ھازىر ئالدىراشمەن.
 eng	uig_Arab	I'm busy now.	ھازىر مەن ئالدىراش.
 eng	uig_Arab	I'm coming.	مەن كېلىۋاتىمەن.
 eng	uig_Arab	I'm doing it for Tom.	بۇنى توم ئۈچۈن قىلىۋاتىمەن.
-eng	uig_Arab	I'm doing it for you.	سىزنى دەپ قىلىۋاتمەن؟
 eng	uig_Arab	I'm doing it for you.	سىز ئۈچۈن قىلىۋاتىمەن.
+eng	uig_Arab	I'm doing it for you.	سىزنى دەپ قىلىۋاتمەن؟
 eng	uig_Arab	I meet her once a week.	مەن بىلەن ئۇ بىر ھەپتە بىر قېتىم كۆرۈشىمىز.
 eng	uig_Arab	I met Teacher Dolkun through Alexander.	مەن ئىسكەندەر ئارقىلىق دولقۇن مۇئەللىم بىلەن تونۇشقان.
 eng	uig_Arab	I met them during my descent from the peak.	مەن چوققىدىن چۈشۈۋاتقاندا ئۇلار بىلەن كۆرۈشتۈم.
@@ -1114,8 +1114,8 @@ eng	uig_Arab	I'm short.	بويۇم پاكار.
 eng	uig_Arab	I'm sorry, but he is out now.	كەچۈرۈڭ، ئۇ ھازىر يوق.
 eng	uig_Arab	I'm sorry. I came late.	كەۋۈرۈڭ، مەن كېچىكىپ قالدىم.
 eng	uig_Arab	I'm sorry, I have to see off the guests now.	كەچۈر، ھازىر مېھمان ئۇزىتىشىم لازىم.
-eng	uig_Arab	I'm sorry, I have to see off the guests now.	كەچۈرۈڭ، ھازىر مېھمان ئۇزىتىشىم لازىم.
 eng	uig_Arab	I'm sorry, I have to see off the guests now.	كەچۈرۈڭلار، ھازىر مېھمان ئۇزىتىشىم لازىم.
+eng	uig_Arab	I'm sorry, I have to see off the guests now.	كەچۈرۈڭ، ھازىر مېھمان ئۇزىتىشىم لازىم.
 eng	uig_Arab	I'm sorry, I'm busy right now.	كەچۈرۈڭ، ھازىر مەن بەك ئالدىراش.
 eng	uig_Arab	I'm sorry, my boss is sleeping right now. Please come back tomorrow.	كەچۈرۈڭ، باشلىقىم ئۇخلاۋاتىدۇ. ئەتە كېلىڭ.
 eng	uig_Arab	I'm sorry, my boss is sleeping right now. Please come back tomorrow.	كەچۈرۈڭلار، باشلىقىم ئۇخلاۋاتىدۇ. ئەتە كېلىڭلار.
@@ -1143,10 +1143,10 @@ eng	uig_Arab	I must study well.	ياخشى ئوقۇشۇم زۆرۈر.
 eng	uig_Arab	I'm writing a book.	مەن كىتاب يېزىۋاتىمەن.
 eng	uig_Arab	I'm young.	يېشىم كىچىك.
 eng	uig_Arab	In any case, he's your big brother.	ئىشقىلىپ، ئۇ سېنىڭ ئاكاڭ.
-eng	uig_Arab	In any case, it's not like I brought harm to anyone.	قانداق بولمىسۇن، مەن ھېچكىمگە زىيان يەتكۈزمىدىم.
 eng	uig_Arab	In any case, it's not like I brought harm to anyone.	ئىشقىلىپ، مەن ھېچكىمگە زىيان يەتكۈزمىدىم.
-eng	uig_Arab	In any case, I've finished writing the article.	قانداق بولمىسۇن، ماقالىنى يېزىپ بولدۇم.
+eng	uig_Arab	In any case, it's not like I brought harm to anyone.	قانداق بولمىسۇن، مەن ھېچكىمگە زىيان يەتكۈزمىدىم.
 eng	uig_Arab	In any case, I've finished writing the article.	ئىشقىلىپ، ماقالىنى يېزىپ بولدۇم.
+eng	uig_Arab	In any case, I've finished writing the article.	قانداق بولمىسۇن، ماقالىنى يېزىپ بولدۇم.
 eng	uig_Arab	In case I can't come, I'll give you a call beforehand.	ناۋادا كېلەلمەيدىغان بولۇپ قالسام، بالدۇر ساڭا تېلېڧون بېرىمەن.
 eng	uig_Arab	In case I can't come, I'll give you a call beforehand.	ناۋادا كېلەلمەيدىغان بولۇپ قالسام، بالدۇر سىزگە تېلېڧون بېرىمەن.
 eng	uig_Arab	In case you sleep, set the alarm.	ئۇخلىساڭ، سائەتنى توغرىلاپ قوي.
@@ -1195,10 +1195,10 @@ eng	uig_Arab	I really do miss my parents a lot.	مەن ئاتا-ئانامغا �
 eng	uig_Arab	I received your letter the day before yesterday.	خېتىڭلارنى ئالدىنقى كۈنى ئالغانىدىم.
 eng	uig_Arab	I received your letter the day before yesterday.	خېتىڭنى ئالدىنقى كۈنى ئالغانىدىم.
 eng	uig_Arab	I received your letter the day before yesterday.	خېتىڭىزنى ئالدىنقى كۈنى ئالغانىدىم.
-eng	uig_Arab	I relied on him.	مەن ئۇنىڭغا تاياندىم.
 eng	uig_Arab	I relied on him.	ئۇنىڭغا تاياندىم.
-eng	uig_Arab	I respect his selflessness.	مەن ئۇنىڭ خالىسانىلىكىنى ھۆرمەتلەيمەن.
+eng	uig_Arab	I relied on him.	مەن ئۇنىڭغا تاياندىم.
 eng	uig_Arab	I respect his selflessness.	ئۇنىڭ خالىسانىلىكىنى ھۆرمەتلەيمەن.
+eng	uig_Arab	I respect his selflessness.	مەن ئۇنىڭ خالىسانىلىكىنى ھۆرمەتلەيمەن.
 eng	uig_Arab	I returned home by train.	پويىز بىلەن ئۆيگە قايتتىم.
 eng	uig_Arab	I returned home by train.	مەن پويىز بىلەن ئۆيگە قايتتىم.
 eng	uig_Arab	I said "Stop!"	توختا دەيمەن!
@@ -1246,17 +1246,17 @@ eng	uig_Arab	Is there a vacant seat?	بوش ئورۇن بارمۇ؟
 eng	uig_Arab	Is this 223-1374?	بۇ 322-4731مۇ؟
 eng	uig_Arab	"Is this Arabic?" "No, it's Uyghur - a language that's spoken in northwestern China."	"بۇ ئەرەبچىمۇ؟" "ياق،بۇ ئۇيغۇر تىلى- بۇ جۇڭگونىڭ غەربىي شىمالىدا سۆزلىنىدىغان تىل"
 eng	uig_Arab	Is this Arabic ? - No, this is Uighuric, a language spoken in North-West China.	بۇ ئەرەبچىمۇ؟ - ياق، بۇ ئۇيغۇر تىلى، بۇ جۇڭگونىڭ غەربىي شىمالىدا سۆزلىنىدىغان تىل.
-eng	uig_Arab	Is this bag yours or his?	بۇ سومكا سېنىڭكى ياكى ئۇنىڭكى؟
 eng	uig_Arab	Is this bag yours or his?	بۇ سومكا سىلەرنىڭكى ياكى ئۇنىڭكى؟
+eng	uig_Arab	Is this bag yours or his?	بۇ سومكا سېنىڭكى ياكى ئۇنىڭكى؟
 eng	uig_Arab	Is this jasmine tea?	بۇ ياسمىن چېيىمۇ؟
 eng	uig_Arab	Is this man your friend?	بۇ ئادەم دوستىڭىزمۇ؟
 eng	uig_Arab	Is this my life?	بۇ ھاياتىممۇ؟
 eng	uig_Arab	Is this place far from the bank?	بۇ جاي بانكىدىن يىراقمۇ؟
 eng	uig_Arab	Is this seat taken?	بۇ ئورۇندۇق بوشىدىمۇ؟
 eng	uig_Arab	Is this your bicycle?	بۇ سېنىڭ ۋېلىسىپىتىڭ؟
-eng	uig_Arab	Is this your bike?	بۇ سېنىڭ ۋېلىسىپىتىڭمۇ؟
 eng	uig_Arab	Is this your bike?	بۇ سىزنىڭ ۋېلىسىپىتىڭىزمۇ؟
 eng	uig_Arab	Is this your bike?	بۇ سىلەرنىڭ ۋېلىسىپىتىڭلارمۇ؟
+eng	uig_Arab	Is this your bike?	بۇ سېنىڭ ۋېلىسىپىتىڭمۇ؟
 eng	uig_Arab	Is this your phone?	بۇ سىزنىڭ تېلېفونىڭىزمۇ؟
 eng	uig_Arab	I stole your bag because I ran out of money.	پۇلۇم تۈگەپ كەتكەنلىكى ئۈچۈن سومكاڭنى ئوغرىلىدىم.
 eng	uig_Arab	I stopped coughing after two days.	ئىككى كۈندىن كېيىن، يۆتىلىم توختىدى.
@@ -1308,8 +1308,8 @@ eng	uig_Arab	It looks like there are now over two thousand Uyghur sentences on T
 eng	uig_Arab	It looks like you're pretty clever.	ماڭا قارىغاندا، سىز بەك ئەقىللىق ئىكەنسىز.
 eng	uig_Arab	It may be a sparrow, but it's still meat.	قۇشقاچ بولسىمۇ گۆش.
 eng	uig_Arab	It only costs $10.00!	بۇنىڭ باھاسى ئونلا دوللار ئىكەن!
-eng	uig_Arab	I took the bus back.	مەن ئاپتوبۇس بىلەن قايتىپ كەلدىم.
 eng	uig_Arab	I took the bus back.	ئاپتوبۇس بىلەن قايتىپ كەلدىم.
+eng	uig_Arab	I took the bus back.	مەن ئاپتوبۇس بىلەن قايتىپ كەلدىم.
 eng	uig_Arab	It rained a lot last year.	بۇلتۇر يامغۇر كۆپ ياغدى.
 eng	uig_Arab	It rains a lot in June in Japan.	ياپونىيىدە ئالتىنچى ئايدا كۆپ ياغىدۇ.
 eng	uig_Arab	It rains a lot in June.	ئالتىنچى ئايدا يامغۇر كۆپ ياغىدۇ.
@@ -1327,8 +1327,8 @@ eng	uig_Arab	It seems that he is happy with his new job.	قارىغاندا ئۇ
 eng	uig_Arab	It seems we've come at the same time.	بىز بىر ۋاقىتتا كېلىپتىمىز.
 eng	uig_Arab	It's five and you're still not in bed! You just came back from the bar, didn't you?	سائەت بەشتە تېخى ئۇخلىماپتىسەن! ئەمدى مەيخانىدىن قايتىپ كەلگەنىدىڭ، شۇنداقمۇ؟
 eng	uig_Arab	It's Friday, and so we have to perform our prayers.	بۈگۈن جۈمە، شۇڭا ناماز ئوقۇشىمىز لازىم.
-eng	uig_Arab	It's hot today.	بۈگۈننىڭ ھاۋاسى ئىسسىق.
 eng	uig_Arab	It's hot today.	بۈگۈن ئىسسىق بولىدۇ.
+eng	uig_Arab	It's hot today.	بۈگۈننىڭ ھاۋاسى ئىسسىق.
 eng	uig_Arab	It's January now. Naturally, it snows.	ھازىر بىرىنچى ئاي بولدى، قار ياغىدۇ-دە.
 eng	uig_Arab	It's just me who lives with my kids in Urumqi.	پەقەت مەنلا بالا-چاقىلىرىم بىلەن ئۈرۈمچىدە تۇرىمەن.
 eng	uig_Arab	It smells good!	مەززىلىك پۇرىۋاتىدۇ!
@@ -1345,8 +1345,8 @@ eng	uig_Arab	It's no use thinking about one's lost youth.	كەتكەن ياشل�
 eng	uig_Arab	It snowed in the morning, didn't it?	ئەتىگەندە قار ياغقاندۇ؟
 eng	uig_Arab	It's okay if you go in there and take a seat.	سەن ئۇ يەرگە كىرىپ ئولتۇرسەڭ بولاتتى.
 eng	uig_Arab	It's okay if you go in there and take a seat.	سىلەر ئۇ يەرگە كىرىپ ئولتۇرساڭلار بولاتتى.
-eng	uig_Arab	It sounds like he is going to Kashgar.	قەشقەرگە بارغۇدەك.
 eng	uig_Arab	It sounds like he is going to Kashgar.	ئۇ قەشقەرگە بارغۇدەك.
+eng	uig_Arab	It sounds like he is going to Kashgar.	قەشقەرگە بارغۇدەك.
 eng	uig_Arab	It sounds like he's going to Kashgar.	ئۇ قەشقەرگە بارغۇدەك.
 eng	uig_Arab	It sounds like I'm going to school today.	بۈگۈن مەكتەپكە بارغۇدەكمەن.
 eng	uig_Arab	It sounds like she is going to Kashgar.	قەشقەرگە بارغۇدەك.
@@ -1365,8 +1365,8 @@ eng	uig_Arab	It sounds like you won't be working today.	بۈگۈن ئەمگەك 
 eng	uig_Arab	It sounds like you won't be working today.	بۈگۈن ئەمگەك قىلمىغۇدەكسىز.
 eng	uig_Arab	It sounds like you won't be working today.	بۈگۈن ئەمگەك قىلمىغۇدەكسىلەر.
 eng	uig_Arab	It sounds like you won't be working today.	سىلەر بۈگۈن ئەمگەك قىلمىغۇدەكسىلەر.
-eng	uig_Arab	It's possible that you don't know this.	ھەرقاچان سىز بۇ ئىشنى بىلمەيسىز.
 eng	uig_Arab	It's possible that you don't know this.	ئېھتىمال سىز بۇ ئىشنى بىلمەيسىز.
+eng	uig_Arab	It's possible that you don't know this.	ھەرقاچان سىز بۇ ئىشنى بىلمەيسىز.
 eng	uig_Arab	It's quarter to eight now.	ھازىر سائەت سەككىزگە چارەك قالدى.
 eng	uig_Arab	It's quiet in the suburbs...	شەھەر ئەتراپىدا تىنچ ئىكەن...
 eng	uig_Arab	It's really windy.	شامال كۆپ چىقىدۇ.
@@ -1406,8 +1406,8 @@ eng	uig_Arab	I usually get up at eight o'clock.	مەن ئادەتتە سائەت
 eng	uig_Arab	I usually get up at six.	ئادەتتە سائەت ئالتىدە ئورنۇمدىن تۇرىمەن.
 eng	uig_Arab	I usually go home at four.	مەن ئادەتتە سائەت تۆتتە ئۆيگە قايتىپ بارىمەن.
 eng	uig_Arab	I usually walk to school.	ئادەتتە مەكتەپكە پىيادە ماڭىمەن.
-eng	uig_Arab	I've already come here before.	مەن ئاللىبۇرۇن بۇ يەرگە كەلگەن.
 eng	uig_Arab	I've already come here before.	ئاللىبۇرۇن بۇ يەرگە كەلگەنىدىم.
+eng	uig_Arab	I've already come here before.	مەن ئاللىبۇرۇن بۇ يەرگە كەلگەن.
 eng	uig_Arab	I've a yen for adventures.	سەرگۈزەشتكە تەشنا بولىمەن.
 eng	uig_Arab	I've been interested in art ever since I was just a kid.	كىچىكىمدىنلا سەنئەتكە قىزىقاتتىم.
 eng	uig_Arab	I've been studying Uighur for two years now.	مەن ئۇيغۇرچىنى ئۆگەنگىلى ئىككى يىل بولدى.
@@ -1434,13 +1434,13 @@ eng	uig_Arab	I want to do it myself.	بۇ ئىشنى ئۆز ئالدىغا قى�
 eng	uig_Arab	I want to eat a Dapanji!	مېنىڭ ئاچچىق_چۈچۈك توخۇ قوردىقى يېگۈم بار!
 eng	uig_Arab	I want to go to Lviv...	مەن لۋوۋغا بارغۇم بار.
 eng	uig_Arab	I want to go to see a movie.	مەن كىنو كۆرگىلى بارماقچى.
-eng	uig_Arab	I want to sleep.	مېنىڭ ئۇخلىغۇم بار.
 eng	uig_Arab	I want to sleep.	ئۇخلىغۇم بار.
+eng	uig_Arab	I want to sleep.	مېنىڭ ئۇخلىغۇم بار.
 eng	uig_Arab	I want to spend all my time with you.	بارلىق ۋاقتىمنى سەن بىلەن ئۆتكۈزمەكچىمەن.
 eng	uig_Arab	I was able to find the book I was looking for.	كېرەكلىك كىتابنى تاپالدىم.
 eng	uig_Arab	I was an honest man until 1985.	مەن 1985_يىلغىچە بىر سەمىمىي ئادەم ئىدىم.
-eng	uig_Arab	I was a student at that time.	مەن ئۇ چاغدا ئوقۇغۇچى ئىدىم.
 eng	uig_Arab	I was a student at that time.	ئۇ چاغدا ئوقۇغۇچى ئىدىم.
+eng	uig_Arab	I was a student at that time.	مەن ئۇ چاغدا ئوقۇغۇچى ئىدىم.
 eng	uig_Arab	I was a teacher.	مەن ئوقۇتقۇچى ئىدىم.
 eng	uig_Arab	I was born in 1979.	بىر مىڭ توققۇز يۈز يەتمىش توققۇزىنچى يىلىدا تۇغۇلغانىدىم.
 eng	uig_Arab	I was born in 1979.	مەن 1979_يىلىدا تۇغۇلغان.
@@ -1473,10 +1473,10 @@ eng	uig_Arab	I will go at 10.	سائەت ئوندا بارماقچىمەن.
 eng	uig_Arab	I will help you, of course.	ئەلۋەتتە ساڭا ياردەم بېرىمەن.
 eng	uig_Arab	I will help you, of course.	ئەلۋەتتە سىلەرگە ياردەم بېرىمەن.
 eng	uig_Arab	I will never tell a lie from now on.	ئەمدى ھەرگىز يالغان گەپ قىلمايمەن.
-eng	uig_Arab	I will protect you from danger.	مەن سېنى خەتەردىن قوغدايمەن.
 eng	uig_Arab	I will protect you from danger.	مەن سىزنى خەتەردىن قوغدايمەن.
 eng	uig_Arab	I will protect you from danger.	مەن سىلەرنى خەتەردىن قوغدايمەن.
 eng	uig_Arab	I will protect you from danger.	مەن سىلىنى خەتەردىن قوغدايمەن.
+eng	uig_Arab	I will protect you from danger.	مەن سېنى خەتەردىن قوغدايمەن.
 eng	uig_Arab	I will read the book.	كىتابنى ئوقۇيمەن.
 eng	uig_Arab	I will study English hard from now on.	ئەمدى ئىنگلىزچە تىرىشىپ ئۆگىنىمەن.
 eng	uig_Arab	I wish you success in your work.	خىزمىتىڭلارگە ئۇتۇق تىلەيمەن.
@@ -1498,8 +1498,8 @@ eng	uig_Arab	I work in a hospital.	دوختۇرخانىدا ئىشلەيمەن.
 eng	uig_Arab	I work in a hospital.	مەن بالنىستتا ئىشلەيمەن.
 eng	uig_Arab	I work in a hospital.	مەن دوختۇرخانىدا ئىشلەيمەن.
 eng	uig_Arab	I would go to the mountains when young.	ياشلىقىمدا مەن تاغلاردا ئايلىناتتىم.
-eng	uig_Arab	I would keep coming late to work.	مەن ئىشقا كېچىكىپ قالاتتىم.
 eng	uig_Arab	I would keep coming late to work.	ئىشقا كېچىكىپ قالاتتىم.
+eng	uig_Arab	I would keep coming late to work.	مەن ئىشقا كېچىكىپ قالاتتىم.
 eng	uig_Arab	I would like something to drink.	بىر نەرسە ئىچكۈم كېلىۋاتىدۇ.
 eng	uig_Arab	I would like to have a cup of coffee.	بىر ئىستاكان قەھۋە ئىچكۈم بار.
 eng	uig_Arab	I would still like to hear Tom's opinion before coming to a conclusion.	خۇلاسە چىقىرىشتىن بۇرۇن، تېخى تومنىڭ پىكرىنى ئاڭلىغۇم بار.
@@ -1631,19 +1631,19 @@ eng	uig_Arab	My family's well. And how about all of yours?	ئۆيدىكىلىر�
 eng	uig_Arab	My father has been to Australia twice.	دادام ئاۋسترالىيىگە ئىككى قېتىم بارغان.
 eng	uig_Arab	My father has never been abroad.	ئاتام ئەزەلدىن چەت ئەلگە بېرىپ باقمىغان.
 eng	uig_Arab	My father is a bank clerk.	دادام بانكا خادىمى.
-eng	uig_Arab	My father is a doctor.	دادام دوختۇر.
 eng	uig_Arab	My father is a doctor.	ئاتام دوختۇر.
-eng	uig_Arab	My father is a hard-working, straightforward, and modest person.	دادام تىرىشچان، تۈز كۆڭۈل، كەمتەر ئادەم.
+eng	uig_Arab	My father is a doctor.	دادام دوختۇر.
 eng	uig_Arab	My father is a hard-working, straightforward, and modest person.	ئاتام تىرىشچان، تۈز كۆڭۈل، كەمتەر ئادەم.
+eng	uig_Arab	My father is a hard-working, straightforward, and modest person.	دادام تىرىشچان، تۈز كۆڭۈل، كەمتەر ئادەم.
 eng	uig_Arab	My father is fifty years old.	دادام ئەللىك ياشقا كىردى.
 eng	uig_Arab	My father is going to retire soon.	ئاتام پېنسىيىگە چىقىش ئالدىدا تۇرىدۇ.
-eng	uig_Arab	My father is only fifteen years old.	دادام ئون بەشلا ياشقا كىردى.
 eng	uig_Arab	My father is only fifteen years old.	ئاتام ئون بەشلا ياشقا كىردى.
+eng	uig_Arab	My father is only fifteen years old.	دادام ئون بەشلا ياشقا كىردى.
 eng	uig_Arab	My father is tall.	دادام ئېگىز.
 eng	uig_Arab	My father's a farmer. His family doesn't have money, and his life is very difficult.	دادام دېھقان. ئائىلىسىدە پۇل يوق بولۇپ، تورمۇشى بەك قىيىن.
 eng	uig_Arab	My father used to say that time is money.	مېنىڭ دادام ۋاقىت پۇلدۇر دەيتتى.
-eng	uig_Arab	My father was busy.	دادام ئالدىراش ئىدى.
 eng	uig_Arab	My father was busy.	ئاتام ئالدىراش ئىدى.
+eng	uig_Arab	My father was busy.	دادام ئالدىراش ئىدى.
 eng	uig_Arab	My food is cheap.	تامىقىم ئەرزان.
 eng	uig_Arab	My French is crappy.	ڧرانسۇزچەم بەك ناچار.
 eng	uig_Arab	My French is shitty.	ڧرانسۇزچەم بەك ناچار.
@@ -1670,9 +1670,9 @@ eng	uig_Arab	My right hand is Uighur, and my left is Han.	ئوڭ قولۇم ئۇ
 eng	uig_Arab	My room is really good, though a little bit chilly.	ياتىقىم بەك ياخشى، ناھايىتى بىرئاز سوغۇق.
 eng	uig_Arab	My school has Uighur, Han, Kazakh, Hui, Mongol, Kirghiz, Xibo, Tajik, and Uzbek ethnicities, among others.	مەكتىپىمدە ئۇيغۇر، خەنزۇ، قازاق، خۇيزۇ، موڭغۇل، قىرغىز، شىبە، تاجىك، ئۆزبەك قاتارلىق مىللەت بار.
 eng	uig_Arab	My sister has a job.	سىڭلىمنىڭ خىزمەتى بار.
+eng	uig_Arab	My sister is pretty.	ئاچام گۈزەل.
 eng	uig_Arab	My sister is pretty.	سىڭلىم چىرايلىق.
 eng	uig_Arab	My sister is pretty.	سىڭلىم گۈزەل.
-eng	uig_Arab	My sister is pretty.	ئاچام گۈزەل.
 eng	uig_Arab	My sister likes sweets.	ئاچام قەنت_گېزەك ياخشى كۆرىدۇ.
 eng	uig_Arab	My soul is in the sky.	قەلبىم ئاسماندا.
 eng	uig_Arab	My study conditions aren't that great.	ئۆگىنىش شارائىتىم ئانچە ياخشى ئەمەس.
@@ -1681,8 +1681,8 @@ eng	uig_Arab	My uncle lives near the school.	تاغىمنىڭ ئۆيى مەكت�
 eng	uig_Arab	My watch is broken.	سائىتىم كاردىن چىقتى.
 eng	uig_Arab	My wife is cooking right now.	ئايالىم تاماق ئېتىۋاتىدۇ.
 eng	uig_Arab	Nancy likes music.	نانسى مۇزىكا ياخشى كۆرىدۇ.
-eng	uig_Arab	Nancy looks like my sister.	نانسى سىڭلىمغا ئوخشايدۇ.
 eng	uig_Arab	Nancy looks like my sister.	نانسى ئاچامغا ئوخشايدۇ.
+eng	uig_Arab	Nancy looks like my sister.	نانسى سىڭلىمغا ئوخشايدۇ.
 eng	uig_Arab	Need he go right now?	ئۇنىڭ ھازىر كېتىشى كېرەكمۇ؟
 eng	uig_Arab	Never mind.	ھېچ گەپ يوق.
 eng	uig_Arab	Never rub the eyes when the hands are dirty.	قوللار كىر بولسا، ھېچقاچان كۆزنى ئۇۋۇلىماسلىق كېرەك.
@@ -1755,8 +1755,8 @@ eng	uig_Arab	Pay attention!	دىققەت قىلىڭ!
 eng	uig_Arab	Pay attention!	دىققەت قىلىڭلار!
 eng	uig_Arab	People from Madrid are weird.	مادرىدلىقلار غەلىتە.
 eng	uig_Arab	Perhaps he will come.	ئېھتىمال ئۇ كېلەر.
-eng	uig_Arab	Perhaps she does not know you.	ھەرقاچان ئۇ سېنى تونۇمايدۇ.
 eng	uig_Arab	Perhaps she does not know you.	ئېھتىمال ئۇ سېنى تونۇمايدۇ.
+eng	uig_Arab	Perhaps she does not know you.	ھەرقاچان ئۇ سېنى تونۇمايدۇ.
 eng	uig_Arab	Personal hygiene is very important.	شەخسىي تازىلىق ئىنتايىن مۇھىم.
 eng	uig_Arab	Planting forests is good for the environment.	ئورمان بىنا قىلىش مۇھىتقا پايدىلىق.
 eng	uig_Arab	Play us a tune.	بىزگە بىر پەدە چېلىپ بېرىڭ.
@@ -1790,8 +1790,8 @@ eng	uig_Arab	Please stop asking so many questions.	ئۇنداق كۆپ سۇئا�
 eng	uig_Arab	Please wait a bit.	بىردەم ساقلا.
 eng	uig_Arab	Please wait a bit.	بىردەم ساقلاڭ.
 eng	uig_Arab	Please wait a bit.	بىردەم ساقلاڭلار.
-eng	uig_Arab	Please wait for thirty minutes.	يېرىم سائەت ساقلا، مەر ھەمەت.
 eng	uig_Arab	Please wait for thirty minutes.	يېرىم سائەت ساقلاڭ، مەر ھەمەت.
+eng	uig_Arab	Please wait for thirty minutes.	يېرىم سائەت ساقلا، مەر ھەمەت.
 eng	uig_Arab	Please water the flowers.	گۈل سۇغىرىڭ.
 eng	uig_Arab	Please wrap it up.	بۇنى يۆگىۋەتسىڭىز.
 eng	uig_Arab	Please write with a pencil.	قېرىنداش بىلەن يېزىڭ.
@@ -1806,8 +1806,8 @@ eng	uig_Arab	Put the carrots in the pot.	سەۋزىنى قازانغا سېلى�
 eng	uig_Arab	Put the egg into boiling water.	توخۇمنى قايناۋاتقان سۇغا سال.
 eng	uig_Arab	Put the egg into boiling water.	توخۇمنى قايناۋاتقان سۇغا سېلىڭ.
 eng	uig_Arab	Rather than live a hundred years as a rabbit, live one day as a tiger.	توشقاندەك يۈز يىل ياشىغۇچە يولۋاستەك بىر كۈن ياشا.
-eng	uig_Arab	Reading your letter made me happy.	سېنىڭ يازغان خېتىڭنى كۆرۈپ خۇشال بولدۇم.
 eng	uig_Arab	Reading your letter made me happy.	سىزنىڭ يازغان خېتىڭىزنى كۆرۈپ خۇشال بولدۇم.
+eng	uig_Arab	Reading your letter made me happy.	سېنىڭ يازغان خېتىڭنى كۆرۈپ خۇشال بولدۇم.
 eng	uig_Arab	Regardless how you look at it, he's your big brother.	قانداق بولمىسۇن، ئۇ سېنىڭ ئاكاڭ.
 eng	uig_Arab	Regardless of which of these products it is, they're all expensive.	بۇ ماللارنىڭ قايسىسىلا بولمىسۇن، ھەممىسى قىممەت.
 eng	uig_Arab	Regardless whether it's a lie or the truth, I won't believe you.	يالغان ياكى راست گەپ ھەرقايسى بولسىمۇ، مەن سېنى ئىشەنمەيمەن.
@@ -1850,8 +1850,8 @@ eng	uig_Arab	She has four daughters, and all four are pretty.	ئۇنىڭ تۆت 
 eng	uig_Arab	She has many admirers regardless where she goes.	ئۇ نەگىلا بارمىسۇن، ئۇنى ياخشى كۆرىدىغانلار بەك كۆپ.
 eng	uig_Arab	She has very few close friends.	ئۇنىڭ يېقىن دوستلىرى ئاز.
 eng	uig_Arab	She is eight.	ئۇ سەككىز ياشقا كىرگەن.
-eng	uig_Arab	She is going to wash the bike this afternoon.	بۈگۈن چۈشتىن كېيىن ۋېلىسىپىتنى يۇيىدۇ.
 eng	uig_Arab	She is going to wash the bike this afternoon.	ئۇ بۈگۈن چۈشتىن كېيىن ۋېلىسىپىتنى يۇيىدۇ.
+eng	uig_Arab	She is going to wash the bike this afternoon.	بۈگۈن چۈشتىن كېيىن ۋېلىسىپىتنى يۇيىدۇ.
 eng	uig_Arab	She is good-natured.	ئۇنىڭ مىجەزى ياخشى.
 eng	uig_Arab	She is my girlfriend.	ئۇ مېنىڭ قىز دوستۇم.
 eng	uig_Arab	She is obstinate.	ئۇ جاھىل.
@@ -1997,8 +1997,8 @@ eng	uig_Arab	That guy's really lazy. Every time that I go into his office, he's 
 eng	uig_Arab	That has always been so.	ئۇ ئەزەلدىن شۇنداق.
 eng	uig_Arab	That is a pencil.	ئۇ قېرىنداش.
 eng	uig_Arab	That is his car.	ئۇ ئۇنىڭ ماشىنىسى.
-eng	uig_Arab	That person must be a computer programmer.	ھەرقاچان ئۇ ئادەم پروگراممىست بولسا كېرەك.
 eng	uig_Arab	That person must be a computer programmer.	ئېھتىمال ئۇ ئادەم پروگراممىست بولسا كېرەك.
+eng	uig_Arab	That person must be a computer programmer.	ھەرقاچان ئۇ ئادەم پروگراممىست بولسا كېرەك.
 eng	uig_Arab	That person's so stingy that he won't even let the mouse have the chaff.	ئۇ ئادەم بەك پىخسىق، چاشقانغىمۇ كېپەك ئالدۇرمايدۇ.
 eng	uig_Arab	That's impossible.	ئىمكان يوق.
 eng	uig_Arab	That's my affair.	ئۇ مېنىڭ ئىشىم.
@@ -2013,9 +2013,9 @@ eng	uig_Arab	That's really great!	ئۇ بەك ياخشى ئىش ئىكەن!
 eng	uig_Arab	That's unusual.	مۇنداق ئەھۋال دائىم ئۇچرىمايدۇ.
 eng	uig_Arab	That's your car.	ئۇ سىزنىڭ ماشىنىڭىز.
 eng	uig_Arab	That's your car.	ئۇ ماشىنىڭىز.
-eng	uig_Arab	That's your responsibility.	ئۇ سېنىڭ بۇرچۇڭ.
 eng	uig_Arab	That's your responsibility.	ئۇ سىزنىڭ بۇرچىڭىز.
 eng	uig_Arab	That's your responsibility.	ئۇ سىلەرنىڭ بۇرچۇڭلار.
+eng	uig_Arab	That's your responsibility.	ئۇ سېنىڭ بۇرچۇڭ.
 eng	uig_Arab	That was a lie.	ئۇ يالغان گەپ ئىدى.
 eng	uig_Arab	That won't have an effect.	ئۇ پايدا قىلمايدۇ.
 eng	uig_Arab	The accident happened the day before yesterday.	ھادىسە ئۈلۈشكۈن يۈز بەردى.
@@ -2038,10 +2038,10 @@ eng	uig_Arab	The boy was full.	ئوغۇل بالىنىڭ قورسىقى تويد
 eng	uig_Arab	The boy was taken away from school by his parents.	ئاتا-ئانىسى ئوغۇل بالىسىنى مەكتەپتىن ئەكەتتى.
 eng	uig_Arab	The building is one hundred meters high.	بۇ بىنانىڭ ئېگىزلىكى 100مېتر.
 eng	uig_Arab	The building on the right side is a school.	ئوڭ تەرەپتىكى بىنا مەكتەپ بولىدۇ.
-eng	uig_Arab	The bus will arrive shortly. Please wait a bit.	ئاپتوبۇس ھازىرلا كېلىدۇ، بىرئاز ساقلاپ تۇرۇڭ.
 eng	uig_Arab	The bus will arrive shortly. Please wait a bit.	ئاپتوبۇس تېزلا كېلىدۇ، بىرئاز ساقلاپ تۇرۇڭ.
-eng	uig_Arab	The bus will be here shortly. Please wait a bit.	ئاپتوبۇس ھازىرلا كېلىدۇ، بىرئاز ساقلاپ تۇرۇڭ.
+eng	uig_Arab	The bus will arrive shortly. Please wait a bit.	ئاپتوبۇس ھازىرلا كېلىدۇ، بىرئاز ساقلاپ تۇرۇڭ.
 eng	uig_Arab	The bus will be here shortly. Please wait a bit.	ئاپتوبۇس تېزلا كېلىدۇ، بىرئاز ساقلاپ تۇرۇڭ.
+eng	uig_Arab	The bus will be here shortly. Please wait a bit.	ئاپتوبۇس ھازىرلا كېلىدۇ، بىرئاز ساقلاپ تۇرۇڭ.
 eng	uig_Arab	The cadres inspected our school.	كادىرلار مەكتىپىمىزنى كۆزدىن كەچۈردى.
 eng	uig_Arab	The car broke after only a year's time.	پىكاپ بىر يىلدىلا كاردىن چىقتى.
 eng	uig_Arab	The car was full of Tatars.	ماشىنا تاتارغا توشتى.
@@ -2049,8 +2049,8 @@ eng	uig_Arab	The cat is in the well.	مۈشۈك قۇدۇقتا.
 eng	uig_Arab	The causative voice in Uighur isn't simple.	ئۇيغۇرچىدىكى مەجبۇرىي دەرىجىسى ئاسان ئەمەس.
 eng	uig_Arab	The chance is gone.	پەيتنى قولدىن بەردۇق.
 eng	uig_Arab	The chance is gone.	پەيتنى قولدىن بەردىڭلار.
-eng	uig_Arab	The chance is gone.	پەيتنى قولدىن بەردىم.
 eng	uig_Arab	The chance is gone.	پەيتنى قولدىن بەردىڭىز.
+eng	uig_Arab	The chance is gone.	پەيتنى قولدىن بەردىم.
 eng	uig_Arab	The computer is new.	بۇ يېڭى كومپيۇتېر.
 eng	uig_Arab	The conference will end tomorrow.	يىغىن ئەتە تۈگەيدۇ.
 eng	uig_Arab	The doctor gave her a thorough check-up.	دوختۇر ئۇنى ئەستايىدىل تەكشۈردى.
@@ -2174,8 +2174,8 @@ eng	uig_Arab	There's only two days left.	ئىككى كۈنلا قالدى.
 eng	uig_Arab	There's water in Ashland, too.	ئەشلەنددە سۇمۇ بار.
 eng	uig_Arab	There turned out to be sooooo many people at the office!	ئىشخانىدا ئادەم شۇنداق كۆپ ئىكەن!
 eng	uig_Arab	There was an accident.	ۋەقە يۈز بەرگەن ئىدى.
-eng	uig_Arab	There was a time when he and I were really good friends.	بىر ۋاقىتلاردا مەن ئۇنىڭ بىلەن ناھايىتى ياخشى دوست ئىدىم.
 eng	uig_Arab	There was a time when he and I were really good friends.	بىر چاغلاردا مەن ئۇنىڭ بىلەن ناھايىتى ياخشى دوست ئىدىم.
+eng	uig_Arab	There was a time when he and I were really good friends.	بىر ۋاقىتلاردا مەن ئۇنىڭ بىلەن ناھايىتى ياخشى دوست ئىدىم.
 eng	uig_Arab	There wasn't any book on the desk.	جوزىدا ھېچقانداق كىتابى يوق ئىدى.
 eng	uig_Arab	There were many children in the room.	ئۆيدە نۇرغۇن بالىلار بار.
 eng	uig_Arab	There will be a Force 3 wind tomorrow.	ئەتە ئۈچ بال شامال چىقىدۇ.
@@ -2407,8 +2407,8 @@ eng	uig_Arab	True, he was a very good teacher.	دەرۋەقە، ئۇ ناھاي�
 eng	uig_Arab	Try this apple and tell me how it tastes.	بۇ ئالمىنى يەپ بېقىڭ، تەمى قانداقكىن.
 eng	uig_Arab	Tufts is the most dangerous university in the world.	تاڧتس دۇنيانىڭ ئەڭ خەتەرلىك ئۇنىۋېرسىتېتى.
 eng	uig_Arab	Tufts University is a very famous school in Boston.	تاڧتس ئۇنىۋېرسىتېت بوستوندىكى بىر بەك داڭلىق مەكتەپ بولىدۇ.
-eng	uig_Arab	Turpan grapes are famous worldwide.	تۇرپاننىڭ ئۈزۈمى دۇنياغا داڭلىق.
 eng	uig_Arab	Turpan grapes are famous worldwide.	تۇرپان ئۈزۈمى دۇنياغا داڭلىق.
+eng	uig_Arab	Turpan grapes are famous worldwide.	تۇرپاننىڭ ئۈزۈمى دۇنياغا داڭلىق.
 eng	uig_Arab	Tursun said something about going to France.	تۇرسۇن فرانسىيەگە بارىمەن دېدىغۇ.
 eng	uig_Arab	Tursun took a carrot or something of the sort from the fridge.	تۇرسۇن توڭلاتقۇدىن سەۋزىمۇ بىر نەرسىنى ئالدى.
 eng	uig_Arab	Twelve is an even number.	ئون ئىككى جۇپ سان.
@@ -2453,8 +2453,8 @@ eng	uig_Arab	We don't know exactly.	ئېنىق بىلمەيمىز.
 eng	uig_Arab	We drink our tea with sugar.	چاينى قەنت بىلەن ئىچىمىز.
 eng	uig_Arab	We had a lecture on environmental pollution.	بىز مۇھىت بۇلغىنىشى توغۇرلۇق بىر لىكسىيە سۆزلىدۇق.
 eng	uig_Arab	We had thought that he was a hero, but he turned out to be a traitor.	بىز ئۇنى قەھرىمانمىكىن دەپتىمىز، ئەسلىدە ئۇ بىر سېتىلمىخور ئىكەن.
-eng	uig_Arab	We have a lot of relatives.	بىزنىڭ ئۇرۇق-تۇغقانلىرىمىز ناھايىتى كۆپ.
 eng	uig_Arab	We have a lot of relatives.	ئۇرۇق-تۇغقانلىرىمىز ناھايىتى كۆپ.
+eng	uig_Arab	We have a lot of relatives.	بىزنىڭ ئۇرۇق-تۇغقانلىرىمىز ناھايىتى كۆپ.
 eng	uig_Arab	We have five kinds of kebab.	بىزدە بەش خىل كاۋاپ بار.
 eng	uig_Arab	We have no sugar.	بىزدە شېكەر يوق.
 eng	uig_Arab	We have pilaf, lo mein, and kebabs in our restaurant.	ئاشخانىمىزدا پولۇمۇ، لەغمەنمۇ، كاۋاپمۇ بار.
@@ -2501,8 +2501,8 @@ eng	uig_Arab	We're not afraid of any difficulties.	بىز ھېچقانداق ق�
 eng	uig_Arab	Were you able to find the book?	كىتابنى تاپالىدىڭلارمۇ؟
 eng	uig_Arab	Were you able to find the book?	كىتابنى تاپالىدىڭمۇ؟
 eng	uig_Arab	Were you able to find the book?	كىتابنى تاپالىدىڭىزمۇ؟
-eng	uig_Arab	We sat in the front.	بىز ئالدىدا ئولتۇردۇق.
 eng	uig_Arab	We sat in the front.	ئالدىدا ئولتۇردۇق.
+eng	uig_Arab	We sat in the front.	بىز ئالدىدا ئولتۇردۇق.
 eng	uig_Arab	We saw what looked like an oasis in the desert.	چۆلدە بىر بوستانغا ئوخشايدىغان ئورۇننى كۆردۇق.
 eng	uig_Arab	We should do our best.	بىز تىرىشچانلىق كۆرسىتشىمىز كېرەك.
 eng	uig_Arab	We should do that.	بىز ئۇنداق قىلىشىمىز كېرەك.
@@ -2539,8 +2539,8 @@ eng	uig_Arab	What a bad girl!	نېمىدېگەن يامان قىز!
 eng	uig_Arab	What a beautiful city San Francisco is!	سان فرانسىسكو نېمىدېگەن چىرايلىق شەھەر!
 eng	uig_Arab	What a friend you are!	سىز قانداق دوست!
 eng	uig_Arab	What a hot day it is!	بۇگۈنكى ھاۋاسى نېمىدېگەن ئىسسىق_ھە!
-eng	uig_Arab	What a pity!	بەكمۇ ئەپسۇسلىنارلىق!
 eng	uig_Arab	What a pity!	ئېسىت.
+eng	uig_Arab	What a pity!	بەكمۇ ئەپسۇسلىنارلىق!
 eng	uig_Arab	What are you doing at school this afternoon?	بۇ چۈشتىن كېيىن مەكتەپتە نېمە قىلىسىلەر؟
 eng	uig_Arab	What are you doing up this late?	بۇنچە كەچتە نېمە ئىش قىلىۋاتىسىز؟
 eng	uig_Arab	What are you interested in?	سەن نېمىگە قىزىقىسەن؟
@@ -2616,8 +2616,8 @@ eng	uig_Arab	What's this street called?	بۇ يولىنىڭ ئىسمى نېمە�
 eng	uig_Arab	What's this?	بۇ نەرسە نېمە؟
 eng	uig_Arab	What's this?	بۇ نېمە؟
 eng	uig_Arab	What's this?	نېمە بۇ؟
-eng	uig_Arab	What's your Bosnian name?	سېنىڭ بوسنىيەچە ئىسمىڭ نېمە؟
 eng	uig_Arab	What's your Bosnian name?	سىزنىڭ بوسنىيەچە ئىسمىڭىز نېمە؟
+eng	uig_Arab	What's your Bosnian name?	سېنىڭ بوسنىيەچە ئىسمىڭ نېمە؟
 eng	uig_Arab	What's your favourite TV programme?	سىزنىڭ ياختۇرىدىغان تېلىۋېزىيە پروگراممىسى قايسى؟
 eng	uig_Arab	What's your friend's name?	دوستۇڭنىڭ ئىسمى نېمە؟
 eng	uig_Arab	What's your friend's name?	دوستىڭىزنىڭ ئىسمى نېمە؟
@@ -2656,11 +2656,11 @@ eng	uig_Arab	When will the circumcision party be held?	خەتنە توي قاچ�
 eng	uig_Arab	When will you be back?	قاچان قايتىپ كېلىسەن؟
 eng	uig_Arab	When will you be back?	قاچان قايتىپ كېلىسىز؟
 eng	uig_Arab	When will you be back?	قاچان قايتىپ كېلىسىلەر؟
-eng	uig_Arab	When will you be free?	قاچان ۋاقتىڭ بار؟
 eng	uig_Arab	When will you be free?	قاچان بىكار بولىسەن؟
 eng	uig_Arab	When will you be free?	قاچان بىكار بولىسىز؟
 eng	uig_Arab	When will you be free?	قاچان بىكار بولىسىلەر؟
 eng	uig_Arab	When will you be free?	قاچان بىكار بولىلا؟
+eng	uig_Arab	When will you be free?	قاچان ۋاقتىڭ بار؟
 eng	uig_Arab	When will you finish your assignment?	ۋەزىپەڭلارنى قاچان تۈگىتىسىلەر؟
 eng	uig_Arab	When will you go out?	سائەت نەچچىدە سىرتقا چىقىسەن؟
 eng	uig_Arab	When will you go out?	سائەت نەچچىدە سىرتقا چىقىسىز؟
@@ -2704,18 +2704,18 @@ eng	uig_Arab	Which car is theirs?	ئۇلارنىڭ ماشىنىسى قايسىس
 eng	uig_Arab	Which is your bag?	قايسى سومكا ساڭا تەئەللۇق؟
 eng	uig_Arab	Which is your bag?	قايسى سومكا سىزگە تەئەللۇق؟
 eng	uig_Arab	Which is your bag?	قايسى سومكا سىلەرگە تەئەللۇق؟
-eng	uig_Arab	Which is your book?	قايسى كىتاب سېنىڭ؟
 eng	uig_Arab	Which is your book?	قايسى كىتاب سىزنىڭ؟
 eng	uig_Arab	Which is your book?	قايسى كىتاب سىلەرنىڭ؟
+eng	uig_Arab	Which is your book?	قايسى كىتاب سېنىڭ؟
 eng	uig_Arab	Which tooth hurts?	قايسى چىش ئاغرىدۇ؟
 eng	uig_Arab	Who am I?	مەن كىم ؟
 eng	uig_Arab	"Who are the Uyghurs?" "I don't know."	«ئۇيغۇرلار كىملەر؟» »بىلمەيمەن.»
 eng	uig_Arab	Who are we?	بىز كىم؟
 eng	uig_Arab	Who are you talking about?	كىمنى دەۋاتىسىز؟
 eng	uig_Arab	Who are you waiting for?	كىمنى كۈتۈۋاتىسەن؟
+eng	uig_Arab	Who are you?	ئۆزىڭىز كىم بولىسىز؟
 eng	uig_Arab	Who are you?	سىز كىم؟
 eng	uig_Arab	Who are you?	كىم سىز؟
-eng	uig_Arab	Who are you?	ئۆزىڭىز كىم بولىسىز؟
 eng	uig_Arab	Who built the snowman?	قار بوۋاينى كىم ياسقان؟
 eng	uig_Arab	Who cut your hair?	چېچىڭنى كىم ياسىدى؟
 eng	uig_Arab	Who cut your hair?	چېچىڭىزنى كىم ياسىدى؟
@@ -2798,8 +2798,8 @@ eng	uig_Arab	Wondering if she came, I looked out the window.	ئۇ كەلدىمى
 eng	uig_Arab	Wondering if that restaurant had plov, I went inside.	ئۇ ئاشخانىدا پولۇ بارمىكىن دەپ كىرىپتىمەن.
 eng	uig_Arab	Won't you go out to lunch with us?	بىز بىلەن چۈشلۈك تاماق يېمەمسەن؟
 eng	uig_Arab	Won't you have some more tea?	چاينى كۆپرەك ئىچمەمسىز؟
-eng	uig_Arab	Wouldn't you like to eat?	تاماق يېگىڭلار يوقمۇ؟
 eng	uig_Arab	Wouldn't you like to eat?	تاماق يېگۈڭ يوقمۇ؟
+eng	uig_Arab	Wouldn't you like to eat?	تاماق يېگىڭلار يوقمۇ؟
 eng	uig_Arab	Wouldn't you like to eat?	تاماق يېگىڭىز يوقمۇ؟
 eng	uig_Arab	Would you care for another cup of tea?	يەنە بىر ئىستاكان چاي ئىچەمسىز؟
 eng	uig_Arab	Would you like to go to the zoo this afternoon?	چۈشتىن كېيىن ھايۋانات باغچىسىغا بارغۇڭ بارمۇ؟
@@ -2860,8 +2860,8 @@ eng	uig_Arab	You'd better call the doctor.	سىز ئەڭ ياخشىسى دوخت
 eng	uig_Arab	You'd better not argue with Tom.	سىز ياخشىسى توم بىلەن تاكاللاشماڭ.
 eng	uig_Arab	You'd better not go there - it'll bring nothing but harm, I tell you.	سىز ئۇ يەرگە بارماڭ، ھېلى بىكار زىيان تارتىسىز.
 eng	uig_Arab	You didn't eat this morning. Of course you're hungry.	سىز ئەتىگەندە تاماق يېمىدىڭىز، قورسىقىڭىز ئاچتى-دە.
-eng	uig_Arab	You didn't need to do that.	سىزنىڭ ئۇنداق قىلىشىڭىزنىڭ ھاجىتى يوق ئىدى.
 eng	uig_Arab	You didn't need to do that.	سىزنىڭ ئۇنداق قىلىشىڭىزنىڭ لازىمى يوق ئىدى.
+eng	uig_Arab	You didn't need to do that.	سىزنىڭ ئۇنداق قىلىشىڭىزنىڭ ھاجىتى يوق ئىدى.
 eng	uig_Arab	You didn't see anything.	ھېچنېمىنى كۆرمىدىڭ.
 eng	uig_Arab	You didn't see anything.	ھېچنېمىنى كۆرمىدىڭلار.
 eng	uig_Arab	You didn't see nothing.	ھېچنېمىنى كۆرمىدىڭ.
@@ -2883,9 +2883,9 @@ eng	uig_Arab	You had better not walk around in such a place.	سەن ئەڭ يا�
 eng	uig_Arab	You had better not walk around in such a place.	سىز ئەڭ ياخشىسى بۇنداق جايىدا ئايلانماڭ.
 eng	uig_Arab	You had better not walk around in such a place.	سىلەر ئەڭ ياخشىسى بۇنداق جايىدا ئايلانماڭلار.
 eng	uig_Arab	You have a good memory.	ئېسىڭلار ياخشى.
-eng	uig_Arab	You have many books.	سېنىڭدە كىتابلار كۆپ.
 eng	uig_Arab	You have many books.	سىزدە كىتابلار كۆپ.
 eng	uig_Arab	You have many books.	سىلەردە كىتابلار كۆپ.
+eng	uig_Arab	You have many books.	سېنىڭدە كىتابلار كۆپ.
 eng	uig_Arab	You have many caring friends.	سېنىڭدە سەمىمىي دوستلىرىڭ كۆپ.
 eng	uig_Arab	You have to wait in line.	قاتارغا تۇرۇشۇڭلار لازىم.
 eng	uig_Arab	You have two brothers.	سېنىڭ ئىككى ئاكىسى بار.

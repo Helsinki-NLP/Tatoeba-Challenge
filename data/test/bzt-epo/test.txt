@@ -1,3 +1,4 @@
+bzt_Latn	epo	"Ke dem?" "Nonc."	"Kiam?" "Neniam."
 bzt_Latn	epo	Afa'gw Ddew?	Ĉu vi amas Dion?
 bzt_Latn	epo	Af-ty Ddew?	Ĉu vi amas Dion?
 bzt_Latn	epo	Â-g es yn ben.	Tio estas plumo.
@@ -6,19 +7,36 @@ bzt_Latn	epo	A's manugad?	Ĉu li jam manĝis?
 bzt_Latn	epo	Berlusconi cach.	Berlusconi aĉas.
 bzt_Latn	epo	Bon noeth, Tatoeba.	Bonan nokton, Tatoeba.
 bzt_Latn	epo	Bon noeth, Tomos.	Bonan nokton, Tomo.
+bzt_Latn	epo	Ceosath cu noethfent.	Elektu saĝe.
+bzt_Latn	epo	Ceos cu noethfent.	Elektu saĝe.
 bzt_Latn	epo	Coenosce'gw lla barol gi?	Ĉu vi konas tiun vorton?
+bzt_Latn	epo	Credde'gw i lla ddewindad?	Ĉu vi kredas je sorĉo?
+bzt_Latn	epo	Credd-ty i lla ddewindad?	Ĉu vi kredas je sorĉo?
 bzt_Latn	epo	Dew a'n plan per twy.	Dio havas planon por vi.
+bzt_Latn	epo	Eo af mew efed.	Mi amas mian onklinon.
+bzt_Latn	epo	Eo af mew h-efed.	Mi amas miajn onklinojn.
 bzt_Latn	epo	Eo ai llo pharol feliwr.	Mi havas la plej bonajn vortojn.
 bzt_Latn	epo	Eo awenhif ffeidus.	Mi alvenis elĉerpita.
+bzt_Latn	epo	Eo dif min can eo su cungwsc.	Mi malpli timas, kiam mi estas kun vi.
+bzt_Latn	epo	Eo dif min can eo su cunheg.	Mi malpli timas, kiam mi estas kun vi.
 bzt_Latn	epo	Eo dy wol asculltar.	Mi volas, ke vi aŭskultu.
+bzt_Latn	epo	Eo for rhen.	Mi ne mortas.
 bzt_Latn	epo	Eo goninewef barolar.	Mi daŭre parolis.
+bzt_Latn	epo	Eo mhif rhen.	Mi ne trinkas.
+bzt_Latn	epo	Eo ngwol rhen di mullt.	Mi ne volas multe.
+bzt_Latn	epo	Eo ngwol rhen di mullt.	Mi ne volas multon.
 bzt_Latn	epo	Eo serai yn fon ferch.	Mi estos bona knabino.
 bzt_Latn	epo	Eo su basterig.	Mi estas nederlandano.
 bzt_Latn	epo	Eo su fasterig.	Mi estas nederlandano.
+bzt_Latn	epo	Eo su gwstr fengib.	Mi estas via sklavino.
 bzt_Latn	epo	Eo su rhen di gath.	Mi ne estas katino.
 bzt_Latn	epo	Eo su yn lew.	Mi estas leonino.
+bzt_Latn	epo	Eo su yn mengyb.	Mi estas sklavo.
+bzt_Latn	epo	Eo su yn testfein di Iehofa.	Mi estas atestanto de Jehovo.
+bzt_Latn	epo	Eo wen.	Mi ĉasas.
 bzt_Latn	epo	Eo wol comprar yn gas.	Mi volas aĉeti domon.
 bzt_Latn	epo	Eo wolef di lla goenosceint.	Mi volis informon.
+bzt_Latn	epo	Eo wol whisky.	Mi volas viskion.
 bzt_Latn	epo	Eo yst compran yn ros.	Mi aĉetas rozon.
 bzt_Latn	epo	Es'gw ddigas?	Ĉu vi estas senhejmaj?
 bzt_Latn	epo	Es-sa ffelig?	Ĉu ŝi estas feliĉa?
@@ -29,50 +47,77 @@ bzt_Latn	epo	Es-ys ffelig?	Ĉu li estas feliĉa?
 bzt_Latn	epo	Greg' es bel.	Grekio estas bela.
 bzt_Latn	epo	Greid, eo lw ed.	Dankon, mi malamas tion.
 bzt_Latn	epo	Gwan aydar-llw!	Ni helpu lin!
+bzt_Latn	epo	Iesu er rhen cristian.	Jesuo ne estis kristano.
 bzt_Latn	epo	Ill bethisad es yn segruid.	La universo estas mistero.
 bzt_Latn	epo	Ill cath es gran.	La kato grandas.
 bzt_Latn	epo	Ill diawl es morth.	La diablo estas mortinta.
 bzt_Latn	epo	Ill llifr ci es rhys.	Ĉi tiu libro ruĝas.
 bzt_Latn	epo	Ill mefeiradur yst affrênen.	La studento lernas.
 bzt_Latn	epo	Ill mun es yn lan.	La mondo estas vilaĝo.
+bzt_Latn	epo	Ill mun es yn nediwn.	La mondo estas nacio.
+bzt_Latn	epo	Ill mun es yn pobl.	La mondo estas unu popolo.
+bzt_Latn	epo	Ill munn es maled.	La mondo estas malsana.
 bzt_Latn	epo	Ill puf ci es gwirdd.	Ĉi tiu pomo estas verda.
 bzt_Latn	epo	Ill puf ci es gwirdd.	Ĉi tiu pomo verdas.
 bzt_Latn	epo	Ill te es tan di ffreidd.	La teo tro malvarmas.
 bzt_Latn	epo	Ill temp es yn segruid.	Tempo estas misterio.
 bzt_Latn	epo	Ke gws es lla liferthad?	Kio estas libero?
 bzt_Latn	epo	Ke gws es yn barol?	Kio estas vorto?
+bzt_Latn	epo	Ke gws yst awenin in ill munn?	Kio okazas en la mondo?
+bzt_Latn	epo	K'lwg es mew blentin?	Kie estas mia infano?
+bzt_Latn	epo	K'lwg es mew ffeil?	Kie estas mia filino?
+bzt_Latn	epo	K'lwg es nwstr blentin?	Kie estas nia infano?
+bzt_Latn	epo	K'lwg es nwstr ffeil?	Kie estas nia filino?
+bzt_Latn	epo	K'lwg es nwstr ffeil?	Kie estas nia filo?
+bzt_Latn	epo	K'lwg es nwstr ffeil?	Kie estas nia infano?
+bzt_Latn	epo	K'lwg es nwstr ffuid?	Kie estas nia bebo?
+bzt_Latn	epo	Lla ag es-sa funn?	Ĉu la akvo estas pura?
 bzt_Latn	epo	Lla briwad di Fair es yn feddig.	La edzino de Manjo estas kuracisto.
 bzt_Latn	epo	Lla der es bel.	La tero estas bela.
 bzt_Latn	epo	Lla gath ci es gran.	Ĉi tiu kato estas granda.
 bzt_Latn	epo	Lla gath es gran.	La kato grandas.
+bzt_Latn	epo	Lla homosesaldad es nadyral.	Samseksemo estas natura.
 bzt_Latn	epo	Lla riant ddef morir.	La reĝino nepre mortu.
+bzt_Latn	epo	Lla wid es yn cad.	La vivo estas lukto.
 bzt_Latn	epo	Lle yn llifr alltr.	Legu alian libron.
 bzt_Latn	epo	Llo cherfel sunt h-ystran.	Cerboj estas strangaj.
 bzt_Latn	epo	Llo h-eliffan fanugant erf.	Elefantoj manĝas herbon.
 bzt_Latn	epo	Llo h-ôn sunt lassad.	La viroj lacas.
 bzt_Latn	epo	Llo h-yddew sunt lassad.	La judoj lacas.
 bzt_Latn	epo	Llo llug sônig di keithar lla gath.	La muso revas kapti la katon.
+bzt_Latn	epo	Llo phaes thud sunt ffithig.	Ĉiuj landoj estas falsaj.
+bzt_Latn	epo	Llo phorch sunt di llo h-enifal thebent.	Porkoj estas inteligentaj bestoj.
 bzt_Latn	epo	Mair es rhen di faled.	Manjo ne malsanas.
+bzt_Latn	epo	Mew blant abit i Rhufein.	Miaj gefiloj loĝas en Romo.
 bzt_Latn	epo	Mew nôn es Omid.	Mia nomo estas Omid.
 bzt_Latn	epo	Mew nôn es Omid.	Mia nomo estas Omido.
+bzt_Latn	epo	Mew padr es maled.	Mia patro estas malsana.
+bzt_Latn	epo	Mullt nghongwenent rhen.	Multaj malkonsentas.
 bzt_Latn	epo	No, ill cath es rhen di fuin.	Ne, la kato ne estas malgranda.
 bzt_Latn	epo	No, ill cath es rhen di fuin.	Ne, la kato ne malgrandas.
+bzt_Latn	epo	Nw rentan.	Ni luprenas nian loĝejon.
+bzt_Latn	epo	Nw wolen wiwer ci i mheg.	Ni volas vivi ĉi tie en paco.
 bzt_Latn	epo	Perch ed-gw llo ffuin?	Kial vi malamas virinojn?
 bzt_Latn	epo	Perch ed-ty llo ffuin?	Kial vi malamas virinojn?
 bzt_Latn	epo	Sa bod gwenir eidd.	Ŝi povas veni hodiaŭ.
+bzt_Latn	epo	Sa es di llo ddragun lla.	Estas drakoj tie.
 bzt_Latn	epo	Sa es rhen di fryd.	Ŝi ne malbelas.
 bzt_Latn	epo	Sa es yn inelleith.	Ŝi estas geniulo.
+bzt_Latn	epo	Sew llifr new es mirefilus.	Ŝia nova libro estas mirinda.
 bzt_Latn	epo	Sunt-sa ffelig?	Ĉu ili estas feliĉaj?
 bzt_Latn	epo	Sunt-ys ffelig?	Ĉu ili estas feliĉaj?
 bzt_Latn	epo	Tew ddewindad obrara rhen ci.	Via sorĉo ne efikos ĉi tie.
 bzt_Latn	epo	Tomos ed Boston.	Tomo malamas Bostonon.
 bzt_Latn	epo	Tomos ed lafurar.	Tomo malamas labori.
 bzt_Latn	epo	Tomos es mar.	Tomo gravas.
+bzt_Latn	epo	Tomos es sew afant.	Tomo estas lia amanto.
+bzt_Latn	epo	Tomos es sew afant.	Tomo estas ŝia amanto.
 bzt_Latn	epo	Tomos es yn of e-dd eo su yn ffuin.	Tomo estas viro kaj mi estas virino.
 bzt_Latn	epo	Tomos manugaf rhen.	Tomo ne manĝis.
 bzt_Latn	epo	Tomos yst in ill ceff agur.	Tomo nun estas en la ĝardeno.
 bzt_Latn	epo	Ty es yn mab.	Vi estas knabo.
 bzt_Latn	epo	Yn ffuin yst llein.	Virino legas.
+bzt_Latn	epo	Yno mhod rhen manugar ill arient.	Oni ne povas manĝi monon.
 bzt_Latn	epo	Ys es mew rhui.	Li estas mia reĝo.
 bzt_Latn	epo	Ys es rhen di fryd.	Li ne estas malbela.
 bzt_Latn	epo	Ys es rhen di fryd.	Li ne malbelas.

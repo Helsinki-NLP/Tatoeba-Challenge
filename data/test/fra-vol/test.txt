@@ -35,6 +35,8 @@ fra	vol_Latn	J'ai une question.	Labob säki.
 fra	vol_Latn	Je buvais du lait.	Ädrinob miligi.
 fra	vol_Latn	J'écris une lettre.	Penob penedi.
 fra	vol_Latn	Je lis un livre.	Reidob buki.
+fra	vol_Latn	Je ne crois plus en Dieu.	No plu kredob mö God.
+fra	vol_Latn	Je parle d'eux.	Pükob dö oms.
 fra	vol_Latn	Je pense donc je suis.	Tikob, so binob.
 fra	vol_Latn	Je pense, donc je suis.	Tikob, so binob.
 fra	vol_Latn	Je pense, donc j'existe.	Tikob, so binob.
@@ -45,6 +47,7 @@ fra	vol_Latn	Je suis un chat.	Binob kat.
 fra	vol_Latn	Je t'aime !	Löfob oli.
 fra	vol_Latn	Je veux acheter une maison.	Vilob remön domi.
 fra	vol_Latn	Je vois un livre.	Logob buki.
+fra	vol_Latn	L'amour aime aimer l'amour.	Löf löfon löfön löfi.
 fra	vol_Latn	La propriété, c'est le vol.	Dalab binon tif.
 fra	vol_Latn	La reine doit mourir.	Jireg mutof deadön.
 fra	vol_Latn	La vérité est amère.	Verat binon biedik.
@@ -52,11 +55,13 @@ fra	vol_Latn	Le chat a poursuivi la souris.	Kat epöjuton mugi.
 fra	vol_Latn	Le chien veut jouer.	Dog vilom pledön.
 fra	vol_Latn	Le cours d'allemand commence le 5 octobre.	Deutänapükatidodem primon tü del lulid tobula.
 fra	vol_Latn	Le livre est petit.	Buk binon smalik.
+fra	vol_Latn	Les Allemands aiment boire de la bière.	Deutels löfoms dlinön bili.
 fra	vol_Latn	Les Bédouins vivent dans le désert.	Beduins lifons in däsärt.
 fra	vol_Latn	Les chats n'aiment pas les chiens.	Kats no löfilons dogis.
 fra	vol_Latn	Les chiens aboient.	Dogs vaulons.
 fra	vol_Latn	Les éléphants mangent de l'herbe.	Leefads fidons yebi.
 fra	vol_Latn	Les haïsseurs vont haïr.	Hetans ohetons.
+fra	vol_Latn	Libérez Hawaï !	Libükolsöd Havayuänis!
 fra	vol_Latn	Libérez la Palestine !	Libükolsöd eli Palestina!
 fra	vol_Latn	L'Univers est un mystère.	Lespad binon müster.
 fra	vol_Latn	Marie salait la viande.	Maria äsalof miti.
@@ -64,6 +69,7 @@ fra	vol_Latn	Ma sœur ne travaille pas à Paris.	Sör obik no vobof in Paris.
 fra	vol_Latn	Mon chien veut jouer.	Dog obik vilom pledön.
 fra	vol_Latn	Mon père est jeune.	Fat obik binom yunik.
 fra	vol_Latn	Notre Père, qui es aux cieux, Que ton nom soit sanctifié, Que ton règne vienne, Que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain de ce jour. Pardonne-nous nos offenses Comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal.	O Fat obas, kel binol in süls, paisaludomöz nem ola! Kömomöd monargän ola! Jenomöz vil olik, äs in sül, i su tal! Bodi obsik vädeliki givolös obes adelo! E pardolös obes debis obsik, äs id obs aipardobs debeles obas. E no obis nindukolös in tentadi; sod aidalivolös obis de bad. Jenosöd!
+fra	vol_Latn	Nous sommes tous des singes.	Obs valik binobs leps.
 fra	vol_Latn	Où est la vodka ?	Kitopo binon-li vatil?
 fra	vol_Latn	Où es-tu ?	Kiöpo binol-li?
 fra	vol_Latn	Pour dire la vérité, je ne suis pas ton père.	Ad sagön verati, no binob fat olik.
@@ -76,5 +82,7 @@ fra	vol_Latn	Tatoeba est un exemple d'entraide.	El Tatoeba binon sam yufa kobäd
 fra	vol_Latn	Tom est très célèbre.	Hiel Tom binom vemo famik.
 fra	vol_Latn	Tom n'est pas un chat.	El Tom no binom kat.
 fra	vol_Latn	Tu criais.	Äluvokädol.
+fra	vol_Latn	Tu dors.	Slipol.
+fra	vol_Latn	Un autre monde est-il possible ?	Vol difik mögon-li?
 fra	vol_Latn	Un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix.	Bal, tel, kil, fol, lul, mäl, vel, jöl, zül, deg.
 fra	vol_Latn	Vous avez été adoptés.	Pedaoptols.

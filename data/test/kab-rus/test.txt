@@ -57,6 +57,7 @@ kab	rus	Aqjun-im d abubul.	Твоя собака очень толстая.
 kab	rus	Aqjun-im d azuran.	Твоя собака очень толстая.
 kab	rus	Aqlaɣ nhegga i wurar.	Мы готовы играть.
 kab	rus	Aql-iyi deg tɣimit gar tmanya alamma d tnac dujember.	Я бастую с 8 по 12 декабря.
+kab	rus	Arrac-nni d tullas-nni ttazzalen akken.	Мальчики и девочки бегают вместе.
 kab	rus	Aru-iyi-tid di tefyirt.	Напиши мне это в предложении.
 kab	rus	Aṭas i iru Tom.	Том много плакал.
 kab	rus	Aṭas i walaɣ seg wasmi i lliɣ...	Я многое повидал на своём веку.
@@ -96,10 +97,11 @@ kab	rus	D acu yella yettwali Tom?	На что Том уставился?
 kab	rus	D acu yettwali Tom?	На что Том уставился?
 kab	rus	Dagi ur mwataɣ ara yid-k.	Тут я с вами не согласен.
 kab	rus	Da i tt-walaɣ.	Вот здесь я её видел.
-kab	rus	D akud ara ɣ-d-iseknen kullec.	Время покажет.
 kab	rus	D akud ara d-iseknen.	Время покажет.
+kab	rus	D akud ara ɣ-d-iseknen kullec.	Время покажет.
 kab	rus	D ayen i sriɣ beddat.	Именно это мне и нужно.
 kab	rus	Ddem-it!	Возьми!
+kab	rus	Deg Japun, tetten kraḍ tikkal deg wass.	В Японии едят три раза в день.
 kab	rus	Deg wakken ɛyiɣ deg yiɣeblan-iw, ur ttḥebbireɣ ara ɣef wiyaḍ.	У меня достаточно своих проблем, чтобы ещё о ваших беспокоиться.
 kab	rus	Di Berlin, llan ddeqs n yemḍiqen icebḥen.	В Берлине много красивых мест.
 kab	rus	D imdanen i yelhan i tellam merra.	Вы все очень приятные люди.
@@ -111,10 +113,6 @@ kab	rus	D nekk i yesṭebṭben ɣef tewwurt.	Это я стучал в двер
 kab	rus	D tidet i tella.	Это была правда.
 kab	rus	D tucbiḥt armi d ulamek!	Она действительно очень красивая!
 kab	rus	Ečč-itt.	Съешь это.
-kab	rus	Ɣef lǧal-ik i la lemmdeɣ.	Я учусь ради тебя.
-kab	rus	Ɣef lǧal-im i la lemmdeɣ.	Я учусь ради тебя.
-kab	rus	Ɣef lǧal-nkent i la lemmdeɣ.	Я учусь ради вас.
-kab	rus	Ɣef lǧal-nwen i la lemmdeɣ.	Я учусь ради вас.
 kab	rus	Eǧǧ-iyi ad ssiwleɣ i ubugaṭu-inu.	Дайте мне позвонить своему адвокату.
 kab	rus	Ekcem!	Войдите!
 kab	rus	Fehmeɣ iḥulfan-ik.	Я понимаю твои чувства.
@@ -122,6 +120,15 @@ kab	rus	Ǧǧan-ak-t id.	Они его тебе оставили.
 kab	rus	Ǧǧant-ak-t id.	Они его тебе оставили.
 kab	rus	Ǧǧant-ak-t id.	Они это тебе оставили.
 kab	rus	Ǧǧant-ak-tt id.	Они её тебе оставили.
+kab	rus	Ɣef lǧal-ik i la lemmdeɣ.	Я учусь ради тебя.
+kab	rus	Ɣef lǧal-im i la lemmdeɣ.	Я учусь ради тебя.
+kab	rus	Ɣef lǧal-nkent i la lemmdeɣ.	Я учусь ради вас.
+kab	rus	Ɣef lǧal-nwen i la lemmdeɣ.	Я учусь ради вас.
+kab	rus	Ɣur-s amḍan ameqqran n yidlisen.	У неё огромное количество книг.
+kab	rus	Ɣur-sen kraḍ n warraw: snat n teqcicin akked uqcic.	У них трое детей: две девочки и мальчик.
+kab	rus	Ɣuṛwat, tura ad medlent tebbura!	Осторожно, двери закрываются!
+kab	rus	Ɣuṛwat, tura ad medlent teppura!	Осторожно, двери закрываются!
+kab	rus	Ɣuṛwat, tura ad medlent tewwura!	Осторожно, двери закрываются!
 kab	rus	Ḥemmleɣ ad sseččeɣ itbiren.	Мне нравится кормить голубей.
 kab	rus	Ḥemmleɣ izaduɣen iqburen.	Я люблю старинные здания.
 kab	rus	Ḥemmleɣ taɣlalt deg umrij.	Мне нравится хоккей на траве.
@@ -147,10 +154,10 @@ kab	rus	Init-asen ad ṛuḥen.	Скажи им, пусть уйдут.
 kab	rus	Init-asent ad ṛuḥent.	Скажи им, пусть уйдут.
 kab	rus	Ini-yid acu s-tenniḍ.	Скажи ему то, что сказал мне.
 kab	rus	Inna-yid belli tesεiḍ lḥeq.	Он сказал мне, что ты был прав.
+kab	rus	Inna-yid dakken ɣuṛ-k lḥeq.	Он сказал мне, что ты был прав.
 kab	rus	Inna-yid dakken lliɣ hedṛeɣ s laεqel.	Он сказал мне, чтобы я говорил медленнее.
 kab	rus	Inna-yid dakken tuḍen.	Он сказал мне, что она болеет.
 kab	rus	Inna-yid dakken tuɣ tesεiḍ lḥeq.	Он сказал мне, что вы были правы.
-kab	rus	Inna-yid dakken ɣuṛ-k lḥeq.	Он сказал мне, что ты был прав.
 kab	rus	Inna-yid ira ad yečč.	Он сказал мне, что хочет есть.
 kab	rus	Inna-yid yebɣa ad yečč.	Он сказал мне, что хочет есть.
 kab	rus	Iru aṭas Tom.	Том много плакал.
@@ -165,6 +172,7 @@ kab	rus	Kečč d war ttṛebga s tidet.	Ты очень грубый челов�
 kab	rus	Kečč s timmad-ik ur teẓriḍ ara anda i tegreḍ iman-ik.	Вы сами не понимаете, во что ввязываетесь.
 kab	rus	Kem ur tettuṛebbaḍ ara akk.	Ты очень грубый человек.
 kab	rus	Keyfeɣ aṭas zik, ma d tura ḥebseɣ-t.	Раньше я много курил, но теперь бросил.
+kab	rus	Kifkif-iten!	Они все одинаковые!
 kab	rus	Kksem aɣilif, d nekk ara t-ixedmen.	Можете не беспокоиться. Я сам это сделаю.
 kab	rus	Kra yekka wass berzeɣ taxxamt iw.	Я провёл весь день вычищая комнату.
 kab	rus	Kra yekka yiḍ, yekkat udfel.	Снег шёл всю прошлую ночь.
@@ -200,13 +208,13 @@ kab	rus	Meqqṛeɣ ɣef gma-tkent.	Я старше вашего брата.
 kab	rus	Meqqṛeɣ ɣef gma-twen.	Я старше вашего брата.
 kab	rus	Mmi ur iyi yettaɣ ara awal.	Мой сын меня не слушается.
 kab	rus	Mmlaleɣ-t-id din.	Я с ним там познакомился.
-kab	rus	Nɛeṭṭel kra bac ad naweḍ.	Мы приехали с небольшим опозданием.
-kab	rus	Nɛeṭṭel kra i wakken ad naweḍ.	Мы приехали с небольшим опозданием.
 kab	rus	Negren Idinuẓuṛen acḥal ay-a.	Динозавры - это давно вымершие животные.
 kab	rus	Negren Idinuẓuṛen aṭas-aya.	Динозавры - это давно вымершие животные.
 kab	rus	Nekk akked yemma nella deg tebḥirt.	Моя мать и я были в саду.
 kab	rus	Nezmer ad naru adlis.	Мы могли бы написать книгу.
 kab	rus	Neẓra d kečč i yerẓan asfaylu.	Мы знаем, что это вы разбили окно.
+kab	rus	Nɛeṭṭel kra bac ad naweḍ.	Мы приехали с небольшим опозданием.
+kab	rus	Nɛeṭṭel kra i wakken ad naweḍ.	Мы приехали с небольшим опозданием.
 kab	rus	Nhegga i wurar.	Мы готовы играть.
 kab	rus	Nniɣ-as ayen i txedmeḍ.	Я сказал ей о том, что ты сделал.
 kab	rus	Nniɣ-asen d akken ur k-d-qqaṛen ara.	Я говорил им, чтобы они тебе не рассказывали.
@@ -226,8 +234,8 @@ kab	rus	Ṛḍel-iyi takeṛṛust-ik ttxilek.	Пожалуйста, одолж�
 kab	rus	Ṛḍel-iyi takeṛṛust-im ttxilem.	Пожалуйста, одолжите мне вашу машину.
 kab	rus	Ṛeḍlemt-iyi takeṛṛust-nkent ttxilwemt.	Пожалуйста, одолжите мне вашу машину.
 kab	rus	Ṛeḍlet-iyi takeṛṛust-nwen ttxilwet.	Пожалуйста, одолжите мне вашу машину.
-kab	rus	Ruḥem ɣur-s tinim-as aya.	Пойдите скажите ему это.
 kab	rus	Ruɣ s tɣuri n udlis a.	Я плакал, читая эту книгу.
+kab	rus	Ruḥem ɣur-s tinim-as aya.	Пойдите скажите ему это.
 kab	rus	Seg wasmi i d-kkreɣ nekk ḥemmleɣ-k.	Ты мне всегда нравился.
 kab	rus	Send kullec, ugadaɣ ad ttuɣ awalen.	Больше всего я боялся забыть слова.
 kab	rus	Sewwayeɣ-d popcorn. Tebɣiḍ cwiṭ?	Я делаю попкорн. Хочешь?
@@ -237,9 +245,11 @@ kab	rus	Sḥassfeɣ imi ur iyi-d-tennim ara aya.	Жаль, что вы мне э
 kab	rus	Sḥissifeɣ imi ur iyi-d-tenniḍ ara zik.	Жаль, что ты мне раньше не сказал.
 kab	rus	Sḥissifeɣ imi ur iyi-d-tennim ara zik.	Жаль, что вы мне раньше не сказали.
 kab	rus	Sliɣ i walbaɛḍ yeldi-d tawwurt.	Я слышал, как кто-то открывает дверь.
+kab	rus	Snat-nni n tsuqilin nniḍen daɣen ur wulment ara.	Два других перевода тоже не подходят.
 kab	rus	Ssarameɣ tḥemmleḍ axeddim-nni.	Надеюсь, вам нравится эта работа.
 kab	rus	Ssneɣ-k akken i iwata akken ad k-amneɣ.	Я тебя слишком хорошо знаю, чтобы в это поверить.
 kab	rus	Sεiɣ kuẓ iselkimen, maca sin seg-sen qdimen armi uɣaleɣ ur ten-ssedaceɣ ara maḍi.	У меня четыре компьютера, но два из них такие старые, что я ими уже не пользуюсь.
+kab	rus	Tafriqt meqqret mliḥ ɣef wakken nenwa.	Африка гораздо больше, чем думают.
 kab	rus	Tamsirt tis snat fessuset.	Урок № 2 простой.
 kab	rus	Tanemmirt annect!	Спасибо большое!
 kab	rus	Tanemmirt s tusda!	Спасибо большое!
@@ -247,13 +257,6 @@ kab	rus	Taqbaylit d tutlayt-iw tayemmat.	Кабильский - мой родн�
 kab	rus	Taqcict mm ukebbuḍ azegzaw d yelli.	Девушка в синем пальто - моя дочь.
 kab	rus	Taqcict tura kra neɣ kra ɣef usebter n udlis.	Девушка что-то написала на странице книги.
 kab	rus	Tebɣiḍ ad taɣeḍ yiwen?	Вы бы такой купили?
-kab	rus	Tɛeṭṭel kra bac tewweḍ-d.	Она приехала с небольшим опозданием.
-kab	rus	Tɛeṭṭel kra i wakken tewweḍ-d.	Она приехала с небольшим опозданием.
-kab	rus	Tɛeṭṭel kra Marie i wakken ad d-taweḍ.	Мэри приехала с небольшим опозданием.
-kab	rus	Tɛeṭṭlḍ kra i wakken tewwḍeḍ-d.	Ты приехала с небольшим опозданием.
-kab	rus	Tɛeṭṭleḍ kra bac tewwḍeḍ-d.	Ты приехала с небольшим опозданием.
-kab	rus	Tɛeṭṭlem kra i wakken ad d-tawḍem.	Вы приехали с небольшим опозданием.
-kab	rus	Tɛeṭṭlemt kra i wakken ad d-tawḍemt.	Вы приехали с небольшим опозданием.
 kab	rus	Tella d tidet.	Это была правда.
 kab	rus	Tenna-d ar tufat.	Она попрощалась.
 kab	rus	Tenna-d Mary d akken tessen ilugan.	Мэри сказала, что знает правила.
@@ -264,10 +267,19 @@ kab	rus	Tenniḍ-iyid yakan tideţ?	Вы когда-нибудь говорил�
 kab	rus	Tesɛam Facebook?	У тебя есть Фейсбук?
 kab	rus	Tesɛamt Facebook?	У тебя есть Фейсбук?
 kab	rus	Tesɛiḍ Facebook?	У тебя есть Фейсбук?
+kab	rus	Tesɛiḍ lḥeqq. D kečč i d aRusi. Ma d nekk, ciṭ-a n trusit, d ayen lemmdeɣ asmi qqimeɣ deg Moskva d Novomoskovsk di 1977. U yerna weḥd-i deg ubrid, kan akka.	Ну конечно; естественно, ты прав. Вы русскоговорящий. Что до меня, то это останки, которые я сохранил после пребывания в Москве и Новомоскоске в 1977 году. И все-таки узнал об этом на улице.
 kab	rus	Teshel tamsirt tis snat.	Урок № 2 простой.
 kab	rus	Tessegdel fell-i awal.	Она запретила мне с Вами разговаривать.
 kab	rus	Teẓṛiḍ ḍakken ḥemmleɣ-k?	Знаешь, что я тебя люблю?
+kab	rus	Tɛeṭṭel kra bac tewweḍ-d.	Она приехала с небольшим опозданием.
+kab	rus	Tɛeṭṭel kra i wakken tewweḍ-d.	Она приехала с небольшим опозданием.
+kab	rus	Tɛeṭṭel kra Marie i wakken ad d-taweḍ.	Мэри приехала с небольшим опозданием.
+kab	rus	Tɛeṭṭlḍ kra i wakken tewwḍeḍ-d.	Ты приехала с небольшим опозданием.
+kab	rus	Tɛeṭṭleḍ kra bac tewwḍeḍ-d.	Ты приехала с небольшим опозданием.
+kab	rus	Tɛeṭṭlem kra i wakken ad d-tawḍem.	Вы приехали с небольшим опозданием.
+kab	rus	Tɛeṭṭlemt kra i wakken ad d-tawḍemt.	Вы приехали с небольшим опозданием.
 kab	rus	Tḥeqqeɣ d akken zemreɣ ad ɛiwneɣ.	Я уверен, что смогу помочь.
+kab	rus	Tibṣelt, ur ţ-gziɣ maḍi.	Я абсолютно ничего не понял.
 kab	rus	Tiriza d isem apurtugi.	Тереза - португальское имя.
 kab	rus	Tisellet n Tom texser.	Репутация Тома испорчена.
 kab	rus	Tom, ala netta i yeẓran.	Том был единственным, кто это знал.
@@ -276,6 +288,7 @@ kab	rus	Tom d Mary ur ttaggaden ara tillas.	Том и Мэри не боятся
 kab	rus	Tom la yeqqaṛ, ɣuṛ-s aṭas n yedrimen.	Том сказал, что у него много денег.
 kab	rus	Tom mačči d argaz n Mary.	Том не муж Мэри.
 kab	rus	Tom ur yeẓri ara maḍi d acu ara yexdem.	Том уже не знает, что делать.
+kab	rus	Tom yebɣa ad iddu s anda nniḍen.	Том хочет поехать куда-нибудь ещё.
 kab	rus	Tom yella yebda yesxeṛxuṛ.	Том начал храпеть.
 kab	rus	Tom yesnuzuy irkasen.	Том продаёт обувь.
 kab	rus	Tom yessaweḍ ad yessexsi timest s yiman-is.	Тому удалось самостоятельно потушить огонь.
@@ -288,6 +301,8 @@ kab	rus	Ttnnameɣ-tt.	Я к ней даже как-то привык.
 kab	rus	Ttwaliɣ adlis.	Я вижу книгу.
 kab	rus	Ttwaliɣ Tom.	Я вижу Тома.
 kab	rus	Ttxil-k, ḍfer-iyi-d.	Следуйте за мной, пожалуйста.
+kab	rus	Ttxil-k, ssiwel tidett yid-i.	Будь со мной честен, пожалуйста.
+kab	rus	Ttxil-m, ssiwel tidett yid-i.	Будь со мной честен, пожалуйста.
 kab	rus	Tura kullec ad ifezzeɛ!	Сейчас всё взлетит на воздух!
 kab	rus	Tzemereḍ ad tmedleḍ asfaylu, ma ulac aɣilif?	Простите, Вы не могли бы закрыть окно?
 kab	rus	Tzuxx aṭas s mmi-s.	Она очень гордится своим сыном.
@@ -305,6 +320,7 @@ kab	rus	Uranus d amtiweg.	Уран - это планета.
 kab	rus	Ur bɣiɣ ara ad ayigezemen awal	Я не хочу, чтобы меня прерывали.
 kab	rus	Ur bɣiɣ ara ad ččeɣ yiwet n tyita.	Я не хотел, чтобы со мной произошло то же самое.
 kab	rus	Ur bɣiɣ ara ad iyi-iɛiwen Tom deg waɣanen-iw.	Я не хотел, чтобы Том помогал мне с домашним заданием.
+kab	rus	Ur bɣiɣ ara ad mxallafeɣ.	Я не хочу быть другой.
 kab	rus	Ur bɣiɣ ara ad waliɣ tiliẓri deg iḍ-a.	Мне не хочется сегодня вечером смотреть телевизор.
 kab	rus	Ur bɣiɣ ara ad yeddu Tom yid-i ɣer Boston.	Я не хотел, чтобы Том ехал со мной в Бостон.
 kab	rus	Ur cfiɣ ara amek i t-giɣ.	Я не помню, как я это сделал.
@@ -325,9 +341,8 @@ kab	rus	Ur ḥsiɣ ara ad zemreɣ ad t-xedmeɣ.	Я не уверен, что с�
 kab	rus	Ur ḥsiɣ ara d akken Tom yessen ddeqs ɣef Mary.	Не думаю, что Том очень много знает о Мэри.
 kab	rus	Ur ḥsiɣ ara yestahel Tom ad cnun fell-as.	Не думаю, что Тому стоит петь.
 kab	rus	Ur iɛemmed ara ad yini ayen n diri.	Он не имел в виду ничего плохого.
+kab	rus	Uriɣ tafyirt ɣef tfelwit.	Я написал на доске предложение.
 kab	rus	Ur lliɣ ara cetkayeɣ ɣef ayen.	Я на это не жаловался.
-kab	rus	Ɣur-s amḍan ameqqran n yidlisen.	У неё огромное количество книг.
-kab	rus	Ɣur-sen kraḍ n warraw: snat n teqcicin akked uqcic.	У них трое детей: две девочки и мальчик.
 kab	rus	Ur ssutreɣ ara deg Meryem ad iyi-d-tini d waniwa ara teddu ɣer Boston.	Я не спросил Мэри, с кем она планирует поехать в Бостон.
 kab	rus	Ur tecbiḥ ara am uletma-s tamenzut.	Она не такая красивая, как её старшая сестра.
 kab	rus	Ur ten-tufim ara?	Вы их не нашли?
@@ -344,9 +359,6 @@ kab	rus	Ur tzeɛɛefay ara.	Не зли его.
 kab	rus	Ur tzeɛɛefayem ara.	Не зли его.
 kab	rus	Ur tzeɛɛefayemt ara.	Не зли его.
 kab	rus	Ur walaɣ ara anda ara rreɣ aglaway-inu.	Я не знаю, куда я положил свой мобильный.
-kab	rus	Ɣuṛwat, tura ad medlent tebbura!	Осторожно, двери закрываются!
-kab	rus	Ɣuṛwat, tura ad medlent teppura!	Осторожно, двери закрываются!
-kab	rus	Ɣuṛwat, tura ad medlent tewwura!	Осторожно, двери закрываются!
 kab	rus	Ur yeḥsi ara Tom s wayen i ttḥulfuɣ.	Том не знал, что я чувствую.
 kab	rus	Ur yelli ara Kyiban Rus, yella kyeb deg Lukran	Не было никакой Киевской Руси, а была Киевская Украина.
 kab	rus	Ur yezmir ara Tom ad isellek Mary.	Том не смог спасти Мэри.
@@ -365,9 +377,11 @@ kab	rus	Wissen ddunit ma tedderwec?	Мир сошёл с ума?
 kab	rus	Wissen ma tḍeɛfeḍ cwiṭ?	Вы немного похудели, что ли?
 kab	rus	Yal wa d acu ar ak-d-yecnu!	Каждый играет свою песню!
 kab	rus	Yanna-d Tom ur yebɣi ara ad t-ɛiwneɣ.	Том сказал, что не хочет, чтобы я ему помогал.
+kab	rus	Yasuɛ ur yelli ara d amasiḥi.	Иисус не был христианином.
 kab	rus	Yebna axxam anect ilat.	Он построил большой дом.
 kab	rus	Yefka-d udem n diri.	Он производит плохое впечатление.
 kab	rus	Yefka-d yir udem.	Он производит плохое впечатление.
+kab	rus	Yeḥma lḥal dduṛt ikmel.	Всю неделю было тепло.
 kab	rus	Yejreḥ tagecrirt-is mi yeɣli.	Он повредил себе колено, когда упал.
 kab	rus	Yekna Tom yuɣal yejmeɛ yiwen n udɣaɣ.	Том наклонился и поднял камень.
 kab	rus	Yeldi Tom tawwurt yekcem.	Том отпер дверь и вошёл внутрь.
@@ -378,6 +392,7 @@ kab	rus	Yella wass ideg iyi-d-tenniḍ tideţ?	Ты хоть раз говори
 kab	rus	Yella wass melmi iyi-d-tennam tideţ?	Вы когда-нибудь говорили мне правду?
 kab	rus	Yella win tḥemmleḍ akka tura?	Ты сейчас в кого-нибудь влюблён?
 kab	rus	Yemma, Baba yenna-yid ad kem-ɛiwneɣ.	Мам, папа сказал мне, чтобы я тебе помог.
+kab	rus	Yemmut Facebook.	Фэйсбук мёртв.
 kab	rus	Yemmut urgaz mi llan ttrajun tamenḍayt.	Мужчина умер, дожидаясь приезда скорой помощи.
 kab	rus	Yenna-d Tom d akken yelluẓ.	Том говорит, что голоден.
 kab	rus	Yenna-d Tom ur yebɣi ara ad yehder yid-i.	Том сказал, что не хочет со мной разговаривать.
@@ -419,5 +434,5 @@ kab	rus	Zemreɣ ad kent-ḍemneɣ.	Я могу вас уверять.
 kab	rus	Ẓeṛṛeɣ Tom.	Я вижу Тома.
 kab	rus	Zik, yal iḍ yessawal-iyi-d Tom.	Раньше Том звонил мне каждый вечер.
 kab	rus	Ẓriɣ belli ur yemmut ara.	Я знал, что он не умер.
-kab	rus	Ẓṛiɣ dakken tideţ si tama-w.	Я знаю, что правда на моей стороне.
 kab	rus	Ẓṛiɣ dakken ɣuṛ-i lḥeɣ.	Я знаю, что правда на моей стороне.
+kab	rus	Ẓṛiɣ dakken tideţ si tama-w.	Я знаю, что правда на моей стороне.

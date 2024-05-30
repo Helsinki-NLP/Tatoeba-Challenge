@@ -1,3 +1,4 @@
+ita	tur	500 Gb?	Beş yüz gigabayt mı?
 ita	tur	Abbiamo appena finito.	Az önce bitirdik.
 ita	tur	Abbiamo bisogno di un tavolo quadrato, non di uno rotondo.	Bizim ihtiyacımız kare masa, yuvarlak değil.
 ita	tur	Abbiamo comprato tutto quello che ci serviva.	İhtiyacımız olan her şeyi aldık.
@@ -167,6 +168,7 @@ ita	tur	Annota sempre tutto quello che dice l'insegnante.	O her zaman öğretmen
 ita	tur	A presto!	Yakında görüşürüz!
 ita	tur	Aprì la bocca come per parlare ma non disse niente.	Konuşacakmış gibi ağzını açtı ama hiçbir şey söylemedi.
 ita	tur	A questo punto dovresti saperlo.	Bunu şimdiden bilmelisin.
+ita	tur	Arrivederci a tutti!	Herkese güle güle!
 ita	tur	Ascoltami attentamente.	Beni dikkatlice dinle.
 ita	tur	Aspettavo una lettera da lui.	Ondan bir mektup bekliyordum.
 ita	tur	A Tom non piacciono i gatti.	Tom kedileri sevmez.
@@ -279,6 +281,7 @@ ita	tur	Che romantica!	Ne kadar romantik!
 ita	tur	Che storia interessante!	Ne ilginç bir hikaye!
 ita	tur	Che ti piace fare?	Ne yapmayı seversin?
 ita	tur	Che vergogna!	Ne ayıp!
+ita	tur	Che vuole questa donna?	Bu kadın ne istiyor?
 ita	tur	Chiamami appena arrivi in albergo.	Otele varır varmaz beni ara.
 ita	tur	Chi aveva ragione?	Kim haklıydı?
 ita	tur	Chi dorme con i cani si sveglia con le pulci.	Köpeklerle uyuyan, pireyle uyanır.
@@ -3291,6 +3294,7 @@ ita	tur	Di solito che lingua utilizzi quando parli con Tom?	Tom'la konuşurken g
 ita	tur	Di solito mi alzo alle 6:30 circa.	Genellikle yaklaşık saat 6:30 da kalkarım.
 ita	tur	Di solito mio padre è a casa la domenica.	Babam Pazar günleri genellikle evdedir.
 ita	tur	Di solito vado al cinema con i miei amici.	Genellikle arkadaşlarımla sinemaya giderim.
+ita	tur	Disse che era veramente ricca.	O, gerçekten zengin olduğunu söyledi.
 ita	tur	Diventare asociale non può essere il mio destino.	Asosyal olmak benim kaderim olamaz.
 ita	tur	Dobbiamo correre.	Koşmalıyız.
 ita	tur	Dobbiamo fermarlo.	Bunu durdurmalıyız.
@@ -3397,6 +3401,7 @@ ita	tur	È stato condannato a morte.	İdama mahkum oldu.
 ita	tur	È stato diverse volte alle Hawaii.	Birkaç kez Hawaii'ye gitti.
 ita	tur	È stato tutto un malinteso.	Bunun hepsi bir yanlış anlamaydı.
 ita	tur	È stato tutto un malinteso.	Bu tamamen bir yanlış anlaşılmaydı.
+ita	tur	Esto me pone un poco triste.	Bu beni biraz üzüyor.
 ita	tur	È successo tre anni fa.	Bu üç yıl önce oldu.
 ita	tur	È suonata la campanella?	Zil çaldı mı?
 ita	tur	È tanto che non ti vedo.	Seni uzun bir zamandır görmedim.
@@ -3609,6 +3614,7 @@ ita	tur	Ho comprato due penne nuove per disegnare.	Çizim için iki yeni kalem a
 ita	tur	Ho controllato insieme a Tom.	Tom'la birlikte kontrol ettim.
 ita	tur	Ho così tante cose da dirti.	Sana söyleyecek çok şeyim var.
 ita	tur	Ho dato la mia parola di leggere attentamente il rapporto.	Raporu dikkatle okumak için söz veriyorum.
+ita	tur	Ho dell'interesse per l'inglese.	İngilizceye ilgim var.
 ita	tur	Ho detto a Tom di farlo per te.	Tom'un onu senin için yapmasını söyledim.
 ita	tur	Ho detto non adesso.	Şimdi değil dedim.
 ita	tur	Ho dimenticato di dargli il messaggio.	Ona mesajı vermeyi unuttum.
@@ -3618,8 +3624,10 @@ ita	tur	Ho due gatti.	İki kedim var.
 ita	tur	Ho due libri.	Benim iki kitabım var.
 ita	tur	Ho fatto come se non sospettassi niente.	Hiçbir şeyden şüphelenmemiş gibi davrandım.
 ita	tur	Ho fatto sport per tutta la mia vita.	Hayatım boyunca spor yaptım.
+ita	tur	Ho firmato tutti i documenti.	Tüm belgeleri imzaladım.
 ita	tur	Ho i miei buoni motivi per essere nervoso.	Sinirlenecek iyi nedenlerim var.
 ita	tur	Ho le labbra screpolate.	Benim dudaklarım çatlamış.
+ita	tur	Ho letto tutti i tuoi libri.	Senin tüm kitaplarını okudum.
 ita	tur	Ho messo nel congelatore la carne che abbiamo preso poco fa.	Az önce aldığımız eti dondurucuya koydum.
 ita	tur	Ho paura che stasera pioverà.	Korkarım ki bu akşam yağmur yağacak.
 ita	tur	Ho paura delle iniezioni.	İğnelerden korkarım.
@@ -3638,6 +3646,7 @@ ita	tur	Ho trovato il libro molto interessante.	Kitabı çok enteresan buldum.
 ita	tur	Ho tutto ciò di cui ho bisogno.	İhtiyacım olan her şeye sahibim.
 ita	tur	Ho una casa.	Benim bir evim var.
 ita	tur	Ho un altro compito per te.	Senin için başka bir görevim var.
+ita	tur	Ho un'amica che vive in Spagna.	İspanya'da yaşayan bir arkadaşım var.
 ita	tur	Ho un'auto.	Benim bir arabam var.
 ita	tur	Ho un cane bianco e nero.	Siyah beyaz bir köpeğim var.
 ita	tur	Ho un dizionario.	Benim bir sözlüğüm var.
@@ -3645,6 +3654,7 @@ ita	tur	Ho un sacco di cose da dirti.	Sana söyleyecek çok şeyim var.
 ita	tur	Ho viaggiato per due giorni e una notte.	İki gün ve bir gece seyahat ettim.
 ita	tur	I bambini autistici non si annoiano mai.	Otistik çocuklar asla sıkılmazlar.
 ita	tur	I bar sono tutti chiusi?	Bütün barlar kapalı mı?
+ita	tur	I draghi sono reali.	Ejderhalar gerçektir.
 ita	tur	Ieri faceva freddo.	Dün hava soğuktu.
 ita	tur	Ieri ha piovuto tutto il giorno.	Dün bütün gün yağmur yağdı.
 ita	tur	Ieri ho letto la tua lettera.	Mektubunu dün okudum.
@@ -3783,6 +3793,7 @@ ita	tur	La gente lo ha lodato per il suo coraggio.	İnsanlar onu cesaretinden do
 ita	tur	La incontrerai?	Onunla buluşacak mısın?
 ita	tur	La lavatrice è rotta.	Çamaşır makinesi bozuldu.
 ita	tur	La lettera era scritta di suo pugno dalla regina.	Mektup, kraliçe'nin kendi eliyle yazılmış.
+ita	tur	L'Algeria investe ancora miliardi nello sviluppo urbano.	Cezayir hâlen kent kalkınmasına milyarlar harcıyor.
 ita	tur	La luce del fulmine precede il rumore del tuono.	Şimşeğin ışığı gök gürültüsünün sesinden önce gelir.
 ita	tur	La luce viva ferisce gli occhi.	Parlak ışık gözleri bozar.
 ita	tur	L'alunno alzò la mano per fare una domanda.	Öğrenci bir soru sormak için elini kaldırdı.
@@ -3790,6 +3801,7 @@ ita	tur	La madre di Valentina lavorava in una fabbrica tessile.	Valentina'nın a
 ita	tur	La mia amica fu arrestata per eccesso di velocità.	Arkadaşım aşırı hız yapmaktan tutuklandı.
 ita	tur	La mia casa è qui.	Evim burada.
 ita	tur	La mia lingua madre è il giapponese.	Benim ana dilim Japonca'dır.
+ita	tur	La mia macchina è più vecchia di te.	Benim arabam senden daha eski.
 ita	tur	L'amore esiste?	Aşk var mıdır?
 ita	tur	L'amore, un sentimento meraviglioso, arriva per tutti a un certo punto della vita.	Aşk, harika bir duygu, herkese hayatında günün birinde gelir.
 ita	tur	La musica è finita ma loro stanno ancora ballando.	Müzik bitti ama onlar hala dans ediyor.
@@ -3808,6 +3820,7 @@ ita	tur	Lascia che te ne compri uno nuovo.	Sana yeni bir tane alayım.
 ita	tur	Lascia che ti dia qualcosa per ricordarti di me.	Sana beni hatırlatacak bir şey vereyim.
 ita	tur	Lascia in pace la mia famiglia!	Ailemi rahat bırak!
 ita	tur	Lasciala dove l'hai trovata.	Onu bulduğun yere bırak.
+ita	tur	Lasciamola a Tom!	Bunu Tom'a bırakalım!
 ita	tur	La scienza comincia quando ci si domanda come e perché.	Niçin ve nasıl olduğunu sorduğunda bilim başlar.
 ita	tur	La scienza non risolverà tutti i nostri problemi.	Bilim sorunların hepsini çözmeyecek.
 ita	tur	La settimana scorsa era malato.	O, geçen hafta hastaydı.
@@ -3824,6 +3837,7 @@ ita	tur	L'autunno fu lungo e mite.	Sonbahar uzun ve ılımandı.
 ita	tur	Lavati i denti!	Dişlerini fırçala!
 ita	tur	La verità è che l'ho fatto.	Gerçek şu ki, onu ben yaptım.
 ita	tur	Laviamo la testa?	Saçınızı yıkamamızı ister misiniz?
+ita	tur	Lavora in un ristorante in Giappone.	Japonya'da bir lokantada çalışıyor.
 ita	tur	Lavora qui ma il suo ufficio in realtà è al secondo piano.	O burada çalışır ama aslında bürosu ikinci katta.
 ita	tur	Lavoriamo insieme per fare il meglio che possiamo.	Elimizden gelenin en iyisini yapmak için birlikte çalışalım.
 ita	tur	Lavoro per te.	Senin için çalışıyorum.
@@ -4023,6 +4037,7 @@ ita	tur	Noi nuotiamo nel mare.	Biz denizde yüzdük.
 ita	tur	Noi siamo buoni amici.	Biz iyi arkadaşlarız.
 ita	tur	Noi vogliamo contribuire.	Biz katkı sağlamak istiyoruz.
 ita	tur	Non abbiamo ancora preso una decisione.	Biz hâlâ karar vermedik.
+ita	tur	Non abbiamo carta.	Bizim kâğıdımız yok.
 ita	tur	Non abbiamo visitato il Belgio.	Belçika'yı ziyaret etmedik.
 ita	tur	Non abbiamo visitato il Canada.	Kanada'yı ziyaret etmedik.
 ita	tur	Non abbiamo visitato il Galles.	Galler'i ziyaret etmedik.
@@ -4770,8 +4785,10 @@ ita	tur	Perché non entri in acqua?	Neden suya girmiyorsun?
 ita	tur	Perché non è venuto nessuno?	Neden kimse gelmedi?
 ita	tur	Perché non hai fatto i compiti?	Neden ev ödevini yapmadın?
 ita	tur	Perché non inviti Tom a casa a vedere un film insieme a noi?	Bizimle bir video izlemesi için niçin Tom'u eve davet etmiyorsun?
+ita	tur	Perché non mangi?	Niye yemiyorsun?
 ita	tur	Perché non mi hai detto che Tom era pronto?	Tom'un hazır olduğunu neden bana söylemedin?
 ita	tur	Perché non mi hai lasciato prendere in prestito la tua bicicletta?	Neden bisikletini ödünç almama izin vermedin?
+ita	tur	Perché non potete pescare qui?	Burada neden balık tutamazsınız?
 ita	tur	Perché non sei andato a casa?	Neden eve gitmedin?
 ita	tur	Perché non sei in ufficio?	Neden ofisinde değilsin?
 ita	tur	Perché non te ne sei andato?	Neden ayrılmadın?
@@ -4884,6 +4901,7 @@ ita	tur	Quando entrò, stavo leggendo un libro.	O, içeri girdiğinde, ben bir k
 ita	tur	Quando ero bambino andavamo spesso a campeggiare.	Ben çocukken kamp yapmaya giderdik.
 ita	tur	Quando ero uno studente tenevo un diario in francese.	Bir öğrenciyken Fransızca bir günlük tuttum.
 ita	tur	Quando è stato costruito il castello?	Kale ne zaman inşa edildi?
+ita	tur	Quando ho sentito la notizia mi è venuto da piangere.	Haberi duyduğumda ağlayasım geldi.
 ita	tur	Quando perse l'orologio, non sembrò preoccuparsene.	O, saatini kaybettiğinde umursamış gibi görünmüyordu.
 ita	tur	Quando potrò rivederti la prossima volta?	Gelecek defa sizi ne zaman görebilirim?
 ita	tur	Quando sono tornato a casa le mie sorelle stavano cucinando.	Eve geldiğimde kız kardeşlerim yemek pişiriyordu.
@@ -4891,6 +4909,7 @@ ita	tur	Quando suona il pianoforte è al colmo della felicità.	Piyano çalarken
 ita	tur	Quando torna Tom?	Tom ne zaman dönecek?
 ita	tur	Quando volete ingannare il mondo dite la verità.	Dünyayı kandırmak istediğinizde doğruyu söyleyin.
 ita	tur	Quante persone sei riuscito a contare?	Kaç kişi sayabildin?
+ita	tur	"Quanti figli hai?" "Ho due figli e una figlia".	"Kaç çocuğun var?" "İki oğlum ve bir kızım var."
 ita	tur	Quanto pensi che ti ci vorrà per finire i compiti?	Ev ödevini bitirmenin ne kadar süreceğini düşünüyorsun?
 ita	tur	Quanto sono stato stupido!	Ne kadar aptaldım!
 ita	tur	Quasi nessuno gli credette.	Neredeyse kimse ona inanmıyordu.
@@ -4972,6 +4991,7 @@ ita	tur	Riesci a crederci? Siamo in Cina!	Buna inanabilir misin? Biz Çin'deyiz!
 ita	tur	Riesci a vedere qualcosa?	Bir şey görebiliyor musun?
 ita	tur	Rimangono solo tre giorni.	Kalan sadece üç gün var.
 ita	tur	Rimani sulla destra.	Sağ tarafta kal.
+ita	tur	Rimani ubriaca.	Sarhoş kal.
 ita	tur	Roma non è stata costruita in un giorno.	Roma bir gün içinde kurulmamıştır.
 ita	tur	Sai che non posso farlo.	Onu yapamayacağımı biliyorsun.
 ita	tur	Sai che non sono in grado di farlo.	Onu yapamayacağımı biliyorsun.
@@ -5084,6 +5104,7 @@ ita	tur	Siete vecchi amici, non è vero?	Siz eski arkadaşsınız, değil mi?
 ita	tur	Si fece strada in mezzo alla folla.	Kalabalığın arasında yolunu açtı.
 ita	tur	Signori, lasciate che vi offra un drink.	Siz beylere bir içki ısmarlayayım.
 ita	tur	Si lamenta sempre.	Her zaman şikâyet eder.
+ita	tur	Sì, probabilmente sarò a casa.	Evet, muhtemelen evde olacağım.
 ita	tur	Sì, questo è il mio vocabolario.	Evet, bu benim sözlüğüm.
 ita	tur	Si scusò con il padre per essere rientrato a casa tardi.	Eve geç geldiği için babasından özür diledi.
 ita	tur	Si sono lasciati dopo sette anni di matrimonio.	7 yıllık evlilikten sonra ayrıldılar.
@@ -5159,6 +5180,7 @@ ita	tur	Sono le otto e un quarto.	Saat sekizi çeyrek geçiyor.
 ita	tur	Sono libero!	Ben özgürüm!
 ita	tur	Sono qui da più tempo di te.	Senden daha uzun süredir buradayım.
 ita	tur	Sono riuscito a raggiungere la vetta della montagna.	Dağın tepesine ulaşmayı başardım.
+ita	tur	Sono seduta nel giardino.	Bahçede oturuyorum.
 ita	tur	Sono sicuro che troverò un modo.	Ben bir yolunu bulacağıma eminim.
 ita	tur	Sono stato costretto a mentire.	Ben yalan söylemeye mecbur kaldım.
 ita	tur	Sono stato derubato sul treno.	Ben trende soyuldum.
@@ -5453,6 +5475,7 @@ ita	tur	Tom vide una crepa nel muro.	Tom duvarda bir çatlak gördü.
 ita	tur	Tom viene qui un giorno ogni tre.	Tom her üç günde bir buraya gelir.
 ita	tur	Tom vive a Boston.	Tom Boston'da yaşıyor.
 ita	tur	Tom voleva aprire il suo ristorante.	Tom kendi restoranını açmak istedi.
+ita	tur	Tom voleva dire di no.	Tom hayır demek istiyordu.
 ita	tur	Tom vorrà sapere a che ora pensi di tornare a casa.	Tom saat kaçta eve gelmeyi planladığını bilmek isteyecek.
 ita	tur	Tom vuole andare a Boston.	Tom Boston'a gitmek istiyor.
 ita	tur	Tom vuole dare la sua vecchia auto a Mary.	Tom eski arabasını Mary'ye vermek istiyor.
@@ -5484,6 +5507,7 @@ ita	tur	Tutti vogliono credere che i sogni possano avverarsi.	Herkes rüyâları
 ita	tur	Tutto ciò che possiamo fare è aspettarlo.	Bütün yapabileceğimiz onu beklemektir.
 ita	tur	Tutto ciò che possiedo è un libro.	Bütün sahip olduğum bir kitaptır.
 ita	tur	Tutto è nelle mani dell'uomo. Per questo motivo, lavale spesso.	Her şey insanın ellerinde. Bu yüzden onları sık sık yıka.
+ita	tur	Tutto è uno.	Hepsi bir.
 ita	tur	Tutto il paese fu coperto dalla neve.	Tüm bölge karla kaplandı
 ita	tur	Tutto quel che voglio è che tu sia felice.	Tüm istediğim senin mutlu olman.
 ita	tur	Ucciderò te al suo posto.	Onun yerine seni öldüreceğim.

@@ -96,6 +96,7 @@ ita	spa	Adesso non basta?	¿No basta ya?
 ita	spa	Adesso stavo cercando lavoro.	Ahora estaba buscando trabajo.
 ita	spa	Adesso sto suonando il pianoforte.	Ahora estoy tocando el piano.
 ita	spa	Adesso tutto è in ordine.	Ahora todo está en orden.
+ita	spa	Adesso vivono con la loro mamma.	Ahora viven con su mamá.
 ita	spa	A dire il vero, ho guidato la macchina di mio padre senza il suo permesso.	A decir verdad, conduje el carro de mi padre sin su permiso.
 ita	spa	A dire il vero, ho guidato la macchina di mio padre senza il suo permesso.	A decir verdad, conduje el coche de mi padre sin su permiso.
 ita	spa	A dire il vero, ho guidato la macchina di mio padre senza il suo permesso.	A decir verdad, manejé el carro de mi padre sin su permiso.
@@ -126,6 +127,8 @@ ita	spa	Agitare prima dell'uso.	Agitar antes de usar.
 ita	spa	Agito il salvadanaio per sentire il tintinnio.	Agito la hucha para oír su tintineo.
 ita	spa	Aiuta.	Eso ayuda.
 ita	spa	Aiutami Dio, la mia suocera è venuta.	Ayúdame Dios, mi suegra ha venido.
+ita	spa	Aiuta te stesso e Dio ti aiuterà!	¡Ayúdate a ti mismo y Dios te ayudará!
+ita	spa	Aiuta te stesso e Dio ti aiuterà.	Ayúdate a ti mismo y Dios te ayudará.
 ita	spa	Aiuto! Mi vogliono pugnalare!	¡Ayuda! Me quieren apuñalar.
 ita	spa	A Jim piace suonare la batteria.	A Jim le gusta tocar la batería.
 ita	spa	Al calar della sera, quando gli ultimi raggi del sole tingono di rosso il cielo della prateria, risuonano sulle colline gli ululati dei coyote.	Al caer la noche, cuando los últimos rayos de sol tiñen de rojo el cielo de la pradera, resuenan en las colinas los aullidos de los coyotes.
@@ -182,6 +185,7 @@ ita	spa	A lui piace il jazz, anche a me.	A él le gusta el jazz y a mí también
 ita	spa	Alza un po' il volume della radio.	Ponga la radio un poco más alta.
 ita	spa	Alzò la mano.	Levantó la mano.
 ita	spa	Amarsi è un atto egoistico?	¿Amar es un acto egoísta?
+ita	spa	Amava sua madre.	Amaba a su madre.
 ita	spa	Amavo leggere quand'ero bambina.	Cuando era pequeña, me encantaba leer.
 ita	spa	A me non piacciono i bambini viziati.	No me gustan los niños malcriados.
 ita	spa	A me non piace il colore di questa casa.	No me gusta el color de esta casa.
@@ -231,6 +235,7 @@ ita	spa	"Amo viaggiare." "Anch'io."	«Me gusta viajar.» «A mí también.»
 ita	spa	Amo viaggiare.	Me encanta viajar.
 ita	spa	Anche a me piacciono i dolci.	A mí también me gustan los dulces.
 ita	spa	Anche gli idioti riescono a dare buoni consigli.	Hasta los idiotas te pueden dar buenos consejos.
+ita	spa	Anche il giocatore è prigioniero (la sentenza appartiene a Omar) di un'altra scacchiera delle notti nere e dei giorni bianchi.	También el jugador es prisionero (La sentencia es de Omar) de otro tablero De negras noches y de blancos días.
 ita	spa	Anche io mi sono divertito.	Yo también me divertí.
 ita	spa	Anche io voglio andare a Taipei.	Yo también quiero ir a Taipei.
 ita	spa	Anche i paranoici hanno dei nemici.	Incluso los paranoicos tienen enemigos.
@@ -239,12 +244,15 @@ ita	spa	Anche i tedeschi hanno il senso dell'umorismo.	También los alemanes tie
 ita	spa	Anche i tedeschi hanno un senso dell'umorismo.	También los alemanes tienen sentido del humor.
 ita	spa	Anche se ho corso per le scale, non sono riuscito a prendere il treno.	A pesar de que corrió por las escaleras, no alcanzó a tomar el tren.
 ita	spa	Anche se in quel ristorante cucinassero benissimo, non ci andrei a mangiare.	Aunque la comida que hacen en aquel restaurante fuera buenísima, no iría a comer.
+ita	spa	Anche Tom ha fame.	También Tom tiene hambre.
 ita	spa	Anche tu non sei riuscito a farlo.	Tú tampoco eres capaz de hacerlo.
 ita	spa	Anche voi avete un nome?	¿Usted también tiene un nombre?
 ita	spa	Ancora non ci credo!	¡Aún no lo creo!
 ita	spa	Ancora non ho letto tutti questi libri.	Todavía no he leído todos estos libros.
 ita	spa	Ancora non posso andarmene. Devo ancora fare delle cose.	No puedo irme todavía. Aún tengo cosas que hacer.
 ita	spa	Ancora una settimana e sarà capace di alzarsi e camminare.	Una semana más y será capaz de levantarse y caminar.
+ita	spa	Ancora una volta grazie per l'attenzione.	Una vez más, gracias por la atención prestada.
+ita	spa	Ancora una volta grazie per l'attenzione.	Una vez más, gracias por su atención.
 ita	spa	Ancora una volta laverò i piatti.	Una vez más lavaré los platos.
 ita	spa	Ancora un piccolo sforzo e siamo arrivati!	¡Un pequeño esfuerzo más y hemos llegado!
 ita	spa	Andammo a Boston.	Fuimos a Boston.
@@ -295,8 +303,8 @@ ita	spa	Aoi balla molto bene.	Aoi baila muy bien.
 ita	spa	Aoi danza.	Aoi baila.
 ita	spa	Aoi danza molto bene.	Aoi baila muy bien.
 ita	spa	A Parigi ho mangiato coreano in un ristorante nel quartiere latino.	En París, comí comida coreana en el barrio latino.
-ita	spa	Apparecchio?	¿Pongo la mesa?
 ita	spa	Apparecchio.	Pongo la mesa.
+ita	spa	Apparecchio?	¿Pongo la mesa?
 ita	spa	Apparecchio?	¿Preparo la mesa?
 ita	spa	Appena cambia il tempo io mi ammalo.	Apenas cambia el clima yo me enfermo.
 ita	spa	Appena ho un minuto lo faccio !	¡En cuanto tenga un minuto lo hago!
@@ -306,6 +314,8 @@ ita	spa	Appena ritorna ce ne andiamo.	Vayámonos tan pronto como él vuelva.
 ita	spa	Appena sono uscito, ho tirato una pedata contro al muro.	En cuanto salí, le di una patada al muro.
 ita	spa	Apprezzo il tuo aiuto.	Yo aprecio tu ayuda.
 ita	spa	Appunto!	Exactamente.
+ita	spa	Aprendo la porta, ho rotto la serratura	Abriendo la puerta, he roto la cerradura.
+ita	spa	Aprendo la porta, ho rotto la serratura	Cuando estaba abriendo la puerta, rompí la cerradura.
 ita	spa	A presto!	¡Hasta luego!
 ita	spa	Apriamolo.	Abrámoslo.
 ita	spa	Apri la bocca.	¡Abre la boca!
@@ -346,6 +356,7 @@ ita	spa	Assomiglia molto al suo papà.	Se parece mucho a su papá.
 ita	spa	A Susan piacciono i gatti.	A Susan le gustan los gatos.
 ita	spa	A te ci penso io!	¡De ti me encargo yo!
 ita	spa	A te piacciono gli elefanti.	A ti te gustan los elefantes.
+ita	spa	A te piace lo zenzero?	¿Te gusta el jengibre?
 ita	spa	A te piace praticare gli sport?	¿Te gusta practicar deporte?
 ita	spa	A Tom non piace parlare in pubblico.	A Tom no le gusta hablar en público.
 ita	spa	A Tom non piacerebbe questo film.	A Tom no le gustaría esta película.
@@ -368,7 +379,9 @@ ita	spa	Auguroni, collega!	Felicidades, compañero.
 ita	spa	Auguroni, ragazzi!	Felicidades, chicos.
 ita	spa	Avanzarono lentamente.	Avanzaron lentamente.
 ita	spa	Avete bevuto troppo.	Tomaron demasiado.
+ita	spa	Avete bisogno di aiuto in cucina?	¿Necesitáis ayuda en la cocina?
 ita	spa	Avete concesso la libertà ai vostri schiavi.	Habéis concedido la libertad a vuestros esclavos.
+ita	spa	Avete corretto tutto?	¿Lo habéis corregido todo?
 ita	spa	Avete difficoltà a capire quello che dicono le donne o i bambini piccoli?	¿Tenéis dificultades para comprender lo que os dicen mujeres o niños pequeños?
 ita	spa	Avete distrutto i vostri nemici.	Habéis destruido a vuestros enemigos.
 ita	spa	Avete due opzioni.	Tenéis dos opciones.
@@ -380,9 +393,12 @@ ita	spa	Avete mai salutato Pfirsichbäumchen in tedesco?	¿Has saludado a Pfirsi
 ita	spa	Avete molte amiche.	Tenéis muchas amigas.
 ita	spa	Avete molti amici.	Tenéis muchos amigos.
 ita	spa	Avete perso i vostri ombrelli.	Se les perdieron sus paraguas.
+ita	spa	Avete perso la vostra chiave?	¿Habéis perdido vuestra llave?
+ita	spa	Avete portato il latte?	¿Habéis traído la leche?
 ita	spa	Avete preso degli appunti durante la lezione?	¿Habéis cogido apuntes durante la clase?
 ita	spa	Avete qualche piano per il fine settimana?	¿Tenéis algún plan para el fin de semana?
 ita	spa	Avete qualche piano per il weekend?	¿Tenéis algún plan para el finde?
+ita	spa	Avete raccolto le cose?	¿Habéis recogido las cosas?
 ita	spa	Avete una matita?	¿Tiene un lápiz?
 ita	spa	Avete un'assicurazione medica?	¿Tienen seguro médico?
 ita	spa	Avete un cavatappi che potrei prendere in prestito?	¿Me podríais prestar un sacacorchos?
@@ -391,6 +407,7 @@ ita	spa	Avete un'esperienza professionale?	¿Tienen experiencia profesional?
 ita	spa	Aveva cinquanta dollari.	Él tenía 50 dólares.
 ita	spa	Aveva cominciato a piovere.	Había empezado a llover.
 ita	spa	Aveva degli amici in tutto il mondo.	Él tenía amigos por todo el mundo.
+ita	spa	Aveva delle bruciature su tutto il corpo.	Tenía quemaduras por todo el cuerpo.
 ita	spa	Aveva l'abitudine di bere birra.	Solía beber cerveza.
 ita	spa	Avevamo un po' d'acqua.	Teníamos un poco de agua.
 ita	spa	Avevano inviato un ambasciatore a Roma per richiedere loro amicizia e alleanza.	Habían enviado a Roma un embajador a socilitar su amistad y alianza.
@@ -405,6 +422,7 @@ ita	spa	Avevo una farfallina in camera.	Había una mariposita en la habitación.
 ita	spa	A volte, la noia può essere più opprimente del dolore.	A veces, el aburrimiento puede ser más oprimente que el dolor.
 ita	spa	A volte lo vedo al club.	A veces le veo en el club.
 ita	spa	A volte mi sembra di non conoscerti.	A veces no creo que te conozca.
+ita	spa	A volte non dico quello che penso, ma il contrario.	A veces no digo lo que pienso, sino lo contrario.
 ita	spa	A volte sento mio padre cantare in bagno.	A veces oigo a mi padre cantar en el baño.
 ita	spa	A volte sono senza soldi.	A veces estoy sin dinero.
 ita	spa	A volte Tom appare in TV.	Tom aparece a veces en la televisión.
@@ -454,6 +472,7 @@ ita	spa	Bevendo il caffè, Marco si accorge che non è stato zuccherato.	Bebiend
 ita	spa	Bevete caffè?	¿Bebéis café?
 ita	spa	Bevete del tè.	Beben té.
 ita	spa	Bevete la medicina.	Bébete la medicina.
+ita	spa	Bevete troppo!	¡Bebéis demasiado!
 ita	spa	Bevi del tè.	Bebes té.
 ita	spa	Bilal è più alto di Karam.	Bilal es más alto que Karam.
 ita	spa	Bill accese la televisione.	Bill prendió la televisión.
@@ -473,6 +492,7 @@ ita	spa	Bisogna pulire il pollaio.	Tenemos que limpiar el gallinero.
 ita	spa	Bob diventò un pastore.	Bob se volvió pastor.
 ita	spa	Bob è popolare a scuola.	Bob es popular en la escuela.
 ita	spa	Boston è un buon posto per vivere.	Boston es un buen lugar para vivir.
+ita	spa	"Bratislav, perché gli alieni dovrebbero nascondersi da noi?" "Beh, a volte non si nascondono." "Si stanno nascondendo da noi, perché l'umanità e la biosfera terrestre sono probabilmente un grande esperimento!"	"Bratislav, ¿por qué los extraterrestres se esconderían de nosotros?" "Bueno, a veces no se esconden." "¡Se están escondiendo de nosotros, porque la humanidad y la biosfera de la Tierra son probablemente un gran experimento!"
 ita	spa	Buenos Aires è la capitale dell'Argentina.	Buenos Aires es la capital de la Argentina.
 ita	spa	Buona fortuna, Tom.	Buena suerte, Tom.
 ita	spa	Buon anno!	¡Feliz año!
@@ -501,6 +521,7 @@ ita	spa	Cammina il più veloce possibile.	Caminá lo más rápido posible.
 ita	spa	Cammina lentamente.	Camina lentamente.
 ita	spa	Cammino sempre.	Siempre camino.
 ita	spa	Cantiamo una canzone.	Cantemos una canción.
+ita	spa	Capisci quello che è scritto?	¿Comprendes lo que está escrito?
 ita	spa	Capisco.	Lo entiendo.
 ita	spa	Cari fratelli e sorelle!	¡Queridísimos hermanos y hermanas!
 ita	spa	Carlos è intelligente e creativo.	Carlos es inteligente y creativo.
@@ -528,6 +549,7 @@ ita	spa	C'è pochissima acqua nel tuo caffè.	Tu café tiene muy poca agua.
 ita	spa	C'è qualcosa che non capisco.	Hay algo que no entiendo.
 ita	spa	C'è qualcosa nel carattere di Tom che non mi piace.	Hay algo en el carácter de Tom que no me gusta.
 ita	spa	C'è qualcun altro che vuole mangiare?	¿Alguien más quiere comer?
+ita	spa	C'era molta gente alla festa?	¿Había mucha gente en la fiesta?
 ita	spa	C'erano bicchieri sul tavolo?	¿Había vasos sobre la mesa?
 ita	spa	C'erano dei bei quadri su quel muro.	Había bellos cuadros en aquella pared.
 ita	spa	C'erano molti soldi sul tavolo.	Sobre la mesa había mucho dinero.
@@ -537,6 +559,10 @@ ita	spa	C'era una volta una bella principessa.	Érase una vez una bella princesa
 ita	spa	C'era una volta una donna che desiderava molto avere una bambina, ma non sapeva come ottenerla.	Érase una mujer que anhelaba tener un niño, pero no sabía dónde irlo a buscar.
 ita	spa	C'era un forte predominio della Chiesa durante il periodo illuminista.	Hubo un fuerte predominio de la Iglesia durante el período de la Ilustración.
 ita	spa	C'era un solo cinema in città.	Había solo un cine en la ciudad.
+ita	spa	Cerca di non addormentarti.	Intenta no dormirte.
+ita	spa	Cerca di non addormentarti.	Intenta no quedarte dormido.
+ita	spa	Cerca di non addormentarti.	Procura no dormirte.
+ita	spa	Cerca di non addormentarti.	Procura no quedarte dormido.
 ita	spa	Cercavo la chiave.	Yo buscaba la llave.
 ita	spa	Cercherò di risolvere il problema ad ogni costo.	Intentaré resolver el problema cueste lo que cueste.
 ita	spa	Cerchiamolo su eBay.	Busquémoslo en eBay.
@@ -567,6 +593,7 @@ ita	spa	C'è un cane sotto il tavolo.	Hay un perro debajo de la mesa.
 ita	spa	C'è un elenco telefonico qui?	¿Hay aquí un listín telefónico?
 ita	spa	C'è un elenco telefonico qui?	¿Hay una guía telefónica por aquí?
 ita	spa	C'è un errore in questa frase.	Hay un error en esta frase.
+ita	spa	C'è un gatto davanti al cancello.	Hay un gato enfrente del portón.
 ita	spa	C'è un gatto in cucina.	Hay un gato en la cocina.
 ita	spa	C'è un gatto sulla sedia.	Hay un gato sobre la silla.
 ita	spa	C'è un McDonald's qua vicino?	¿Hay un McDonald's cerca de aquí?
@@ -599,6 +626,7 @@ ita	spa	Che cosa hai detto?	¿Qué dijiste?
 ita	spa	Che cosa ne sarà di me?	¿Qué será de mí?
 ita	spa	Che cosa non ti piace?	¿Qué no te gusta?
 ita	spa	Che cosa stava facendo Tom qui dentro?	¿Qué estaba haciendo Tom aquí dentro?
+ita	spa	Che cosa ti dà fastidio di lui?	¿Qué te molesta de él?
 ita	spa	Che cosa ti ho fatto che mi odi così tanto?	¿Qué te hice para que me odies tanto?
 ita	spa	Che cosa vuoi sapere?	¿Qué quieres saber?
 ita	spa	Che cos'è l'amore?	¿Qué es el amor?
@@ -648,6 +676,7 @@ ita	spa	Che vuoi?	¿Qué quieres?
 ita	spa	Che zucca enorme!	¡Qué calabaza más grande!
 ita	spa	Chi abita in questa casa?	¿Quién vive en esta casa?
 ita	spa	Chi altro c'è su quella lista?	¿Quién más está en aquella lista?
+ita	spa	Chiamami alle otto.	Llámame a las ocho.
 ita	spa	Chiamami!	¡Llámame!
 ita	spa	Chiamate la polizia!	¡Llama a la policía!
 ita	spa	Chiamatemi!	¡Llamadme!
@@ -657,6 +686,7 @@ ita	spa	Chi cade in povertà, perde ogni amico.	Quien cae en la pobreza pierde t
 ita	spa	Chi cerca?	¿Qué buscás?
 ita	spa	Chi cerca trova.	Quien busca, encuentra.
 ita	spa	Chi cerca, trova.	Quien busca, encuentra.
+ita	spa	Chi dei due scrive questa poesia di un io plurale e di un'ombra unica?	¿Cuál de los dos escribe este poema de un yo plural y de una sola sombra?
 ita	spa	Chi di voi due verrà con me?	¿Quién de ustedes dos vendrá conmigo?
 ita	spa	Chi dorme con i cani si sveglia con le pulci.	El que duerme con perros se levanta con pulgas.
 ita	spa	Chi dovrei informare?	¿A quién debería informar?
@@ -680,6 +710,8 @@ ita	spa	Chi è quella donna?	¿Quién es aquella mujer?
 ita	spa	Chi è quell'uomo baffuto?	¿Quién es ese hombre bigotudo?
 ita	spa	Chi è?	¿Quién es?
 ita	spa	Chi ha aperto la finestra?	¿Quién abrió la ventana?
+ita	spa	Chi ha bevuto tutto il vino?	¿Quién se ha bebido todo el vino?
+ita	spa	Chi ha dato gli ordini?	¿Quién ha dado las órdenes?
 ita	spa	Chi ha dipinto questo quadro?	¿Quién ha pintado este cuadro?
 ita	spa	Chi ha eliminato il file?	¿Quién ha eliminado el archivo?
 ita	spa	Chi ha il pane non ha i denti e chi ha i denti non ha il pane.	Quién tiene pan no tiene dientes y quién no tiene dientes tiene pan.
@@ -738,6 +770,7 @@ ita	spa	Chiudi la porta.	Cierra la puerta.
 ita	spa	Chiudi la porta del bagno.	Cierra la puerta del baño.
 ita	spa	Chiudo la finestra perché fa freddo.	Cierro la ventana porque hace frío.
 ita	spa	Chiunque abbia fatto questa stupidaggine è un perfetto idiota.	Cualquiera que haya hecho esta estupidez es un perfecto idiota.
+ita	spa	Chiusi la porta.	Cerré la puerta.
 ita	spa	Chi va a Roma perde la poltrona.	Quien fue a Sevilla perdió su silla.
 ita	spa	"Chi va là? Fermi o sparo!", urlò la sentinella.	"¿Quién anda ahí? ¡pare o disparo!", gritó el centinela.
 ita	spa	Chi verrà con noi?	¿Quién vendrá con nosotros?
@@ -799,6 +832,7 @@ ita	spa	Ci sono delle frasi che tutti conoscono.	Hay frases que todo el mundo co
 ita	spa	Ci sono dieci persone in questa stanza.	Hay diez personas en esta habitación.
 ita	spa	Ci sono molte cose che non sai sulla mia personalità.	Hay muchas cosas que no sabes sobre mi personalidad.
 ita	spa	Ci sono molte galassie nell'universo.	En el universo hay muchas galaxias.
+ita	spa	Ci sono molte lingue nel mondo.	Hay muchas lenguas en el mundo.
 ita	spa	Ci sono molte parole che non capisco.	Hay muchas palabras que no entiendo.
 ita	spa	Ci sono molte persone qui.	Hay muchas personas aquí.
 ita	spa	Ci sono molte uova in quella scatola.	Hay muchos huevos en esa caja.
@@ -912,6 +946,10 @@ ita	spa	Cominciò una nuova vita.	Él comenzó una nueva vida.
 ita	spa	Comincio.	Yo empiezo.
 ita	spa	Completa il modulo seguente per sapere cosa potresti essere stato nella tua vita precedente.	Completa el siguiente formulario para saber quién pudiste haber sido en tu anterior vida.
 ita	spa	Comprarono una scatola di biscotti.	Ellas compraron una caja de galletas.
+ita	spa	Comunque non ti lascerò in pace	De todas formas no te dejaré en paz.
+ita	spa	Comunque non ti lascerò in pace	En cualquier caso no te dejaré en paz.
+ita	spa	Comunque non vi lascerò in pace.	De todas formas no os dejaré en paz.
+ita	spa	Comunque non vi lascerò in pace.	En cualquier caso no os dejaré en paz.
 ita	spa	Con amici come Tom, non c'è bisogno di nessun nemico.	Con amigos como Tom no hay necesidad de enemigos.
 ita	spa	Con chi avete pranzato?	¿Con quién habéis comido?
 ita	spa	Con chi avete pranzato?	¿Con quién habéis tomado el almuerzo?
@@ -948,6 +986,7 @@ ita	spa	Conosco alcuni studenti in quella scuola.	Conozco algunos estudiantes en
 ita	spa	Conosco la ragazza.	Conozco a la chica.
 ita	spa	Conosco la sensazione.	Conozco la sensación.
 ita	spa	Conosco la sorella di Tom.	Conozco a la hermana de Tom.
+ita	spa	Conosco questa tradizione.	Conozco esa tradición.
 ita	spa	Conosco questo signore.	Conozco a este señor.
 ita	spa	Conosco una persona che parla bene il francese.	Conozco a alguien que habla bien francés.
 ita	spa	Conosco una persona che parla bene il russo.	Conozco a alguien que habla bien ruso.
@@ -1023,6 +1062,7 @@ ita	spa	Cosa posso fare a riguardo?	¿Qué puedo hacer al respecto?
 ita	spa	Cosa puoi fare?	¿Qué puedes hacer?
 ita	spa	Cosa?	¿Qué?
 ita	spa	Cosa sarebbe il mondo senza le donne?	¿Qué sería del mundo sin las mujeres?
+ita	spa	Cosa scoprirono?	¿Qué descubrieron?
 ita	spa	Cosa significa questa vittoria?	¿Qué significa esta victoria?
 ita	spa	Cosa significa URSS?	¿Qué significa URSS?
 ita	spa	Cosa si ottiene incrociando un'anguilla con un cetriolo?	¿Qué cosa se obtiene cruzando una anguila con un pepino?
@@ -1030,6 +1070,7 @@ ita	spa	Cosa si può dire?	¿Qué se puede decir?
 ita	spa	Cosa si può mangiare qui?	¿Qué se puede comer acá?
 ita	spa	Cosa sono queste pastiglie?	¿Qué son estas pastillas?
 ita	spa	Cosa sta facendo sua sorella adesso?	¿Qué hace tu hermana ahora?
+ita	spa	Cosa sta facendo tuo fratello?	¿Qué está haciendo tu hermano?
 ita	spa	Cosa stai aspettando?	¿Qué estás esperando?
 ita	spa	Cosa stai facendo?	¿Qué estás haciendo?
 ita	spa	Cosa sta mangiando Ken?	¿Qué está comiendo Ken?
@@ -1061,6 +1102,7 @@ ita	spa	Cos'è una presentazione?	¿Qué es una presentación?
 ita	spa	Cos'ha detto il dottore?	¿Qué ha dicho el médico?
 ita	spa	Cos'hai imparato a scuola oggi?	¿Qué aprendiste en la escuela hoy?
 ita	spa	Cos'ha imparato a scuola oggi?	¿Qué aprendió en la escuela hoy?
+ita	spa	Cos'hanno scoperto?	¿Qué han descubierto?
 ita	spa	Cos'ha scritto Shakespeare?	¿Qué escribió Shakespeare?
 ita	spa	Così è come ho conosciuto tua madre.	Así es como conocí a tu madre.
 ita	spa	Così fan tutte.	Así hacen todas.
@@ -1121,8 +1163,13 @@ ita	spa	Dammi il libro.	Dame el libro.
 ita	spa	Dammi un'altra tazza di tè.	Dame otra taza de té.
 ita	spa	Dammi una possibilità.	Dame una oportunidad.
 ita	spa	Dammi una sigaretta.	Dame un cigarrillo.
+ita	spa	Dan arrivò per primo.	Dan llegó antes que nadie.
+ita	spa	Dan arrivò per primo.	Dan llegó antes que ninguno.
+ita	spa	Dan arrivò per primo.	Dan llegó el primero.
+ita	spa	Dan arrivò per primo.	Dan llegó en primer lugar.
 ita	spa	Dan cenò?	¿Dan cenó?
 ita	spa	Daniella è una donna molto pericolosa.	Daniella és una mujer my peligrosa.
+ita	spa	Da noi la neve si vede poco.	Vemos poca nieve aquí.
 ita	spa	Danzerò con Tom.	Bailaré con Tom.
 ita	spa	Da ospedale e cimitero si esce sempre più sincero.	Del hospital y cementerio se sale siempre más sincero.
 ita	spa	"Da quando lo sai?" "Da sempre."	"¿Desde cuándo lo sabés?" "Desde siempre."
@@ -1142,6 +1189,8 @@ ita	spa	David è a casa.	David está en casa.
 ita	spa	David è molto attivo.	David es muy activo.
 ita	spa	Davvero non ti piaccio?	¿De veras que no te gusto?
 ita	spa	Davvero? Perché?	¿De verdad? ¿Por qué?
+ita	spa	Davvero? Quando se n'è andato?	¿De verdad?, ¿cuándo se ha ido?
+ita	spa	Decisamente i bambini crescono molto in fretta.	Definitivamente, los niños crecen muy deprisa.
 ita	spa	Decisero di chiudere la fabbrica.	Ellos decidieron cerrar la fábrica.
 ita	spa	Decisi di comprare un nuovo ombrello.	Decidí comprar un nuevo paraguas.
 ita	spa	Dedico questo libro a mia figlia.	Le dedico este libro a mi hija.
@@ -1161,6 +1210,7 @@ ita	spa	Deve andare lì.	Ella debe ir allí.
 ita	spa	Deve aver perso il suo treno abituale.	Él debe haber perdido su tren habitual.
 ita	spa	Deve prendere l'autobus numero 5.	Debe tomar el autobús número 5.
 ita	spa	Deve solo stare là senza fare niente.	Solo debe quedarse ahí sin hacer nada.
+ita	spa	Deve spiegargli tutto.	Debe explicarle todo.
 ita	spa	Dev'essere una torta di compleanno!	¡Debe ser una torta de cumpleaños!
 ita	spa	Devi aspettare.	Debes esperar.
 ita	spa	Devi cominciare immediatamente.	Tienes que empezar inmediatamente.
@@ -1179,6 +1229,7 @@ ita	spa	Devi tenere pulita la tua camera.	Debes mantener limpia tu pieza.
 ita	spa	Devi toglierti le scarpe prima di entrare nella stanza.	Tienes que quitarte los zapatos antes de entrar al cuarto.
 ita	spa	Devi vivere secondo i tuoi principi.	Debes vivir según tus principios.
 ita	spa	Devi voler molto bene a tua madre.	Debes amar a tu madre.
+ita	spa	Devo aggiungere il sale?	¿Debo añadir sal?
 ita	spa	Devo andare a dormire.	Tengo que irme a dormir.
 ita	spa	Devo andare a far compere.	Tengo que ir a comprar.
 ita	spa	Devo andare a fare un'ecografia.	Tengo que ir a hacerme una ecografía.
@@ -1208,8 +1259,8 @@ ita	spa	Devo rispondere in inglese?	¿Debo contestar en inglés?
 ita	spa	Devo rispondere in inglese?	¿Tengo que responder en inglés?
 ita	spa	Devo sapere da dove vengono queste citazioni.	Debo saber de donde provienen estas citas.
 ita	spa	Devo sbrigarmi!	¡Tengo que apurarme!
-ita	spa	Devo scrivere una lettera?	¿Tengo que escribir una carta?
 ita	spa	Devo scrivere una lettera.	Tengo que escribir una carta.
+ita	spa	Devo scrivere una lettera?	¿Tengo que escribir una carta?
 ita	spa	Devo segnarmi il suo indirizzo prima che me lo scordi.	Tengo que apuntar la dirección de él antes de que se me olvide.
 ita	spa	Devo studiare per l'esame.	Tengo que estudiar para el examen.
 ita	spa	Dicci la storia dall'inizio alla fine.	Cuéntanos la historia de principio a fin.
@@ -1222,6 +1273,7 @@ ita	spa	Dicembre è l'ultimo mese dell'anno.	Diciembre es el último mes del añ
 ita	spa	Dicembre ha trentuno giorni.	Diciembre tiene treinta y un días.
 ita	spa	Diceva di sì con la testa, ma non ascoltava.	Decía que sí con la cabeza, pero no escuchaba.
 ita	spa	Di che colore è?	¿De qué color es?
+ita	spa	Di che colori sono i tuoi pigiami?	¿De qué color son tus pijamas?
 ita	spa	Di che cosa è fatto il burro?	¿De qué se hace la mantequilla?
 ita	spa	Di che cosa parliamo quando parliamo di fedeltà?	¿De qué hablamos cuando hablamos de lealtad?
 ita	spa	"Di che nazionalità erano le tue vicine?" "Portoghese."	"¿De qué nacionalidad eran tus vecinos?" "Portugueses."
@@ -1236,9 +1288,11 @@ ita	spa	Di codardi è pieno il mondo.	De cobardes está el mundo lleno.
 ita	spa	Dicono che finché c'è vita c'è speranza.	Dicen que mientras haya vida hay esperanza.
 ita	spa	Dicono che gli animali non sono capaci di odiare.	Se dice que los animales no pueden odiar.
 ita	spa	Dicono che lei è nata in Germania.	Dicen que ella nació en Alemania.
+ita	spa	Dicono che non hanno pianto.	Dicen que no han llorado.
 ita	spa	Dicono che se te lo sgrulli più di tre volte stai facendo un'altra cosa.	Dicen que si te lo sacudes más de tres veces estás haciendo otra cosa.
 ita	spa	Dicono che sia milionario.	Dicen que él es multimillonario.
 ita	spa	Dicono che sia molto ricco.	Dicen que es muy rico.
+ita	spa	Dicono di non avere pianto.	Dicen que no han llorado.
 ita	spa	Di cosa sono fatti i deliziosi orsetti gommosi?	¿Dé qué están hechos los deliciosos ositos de gominola?
 ita	spa	Di cosa ti ha parlato Tom?	¿De qué te habló Tom?
 ita	spa	Di dov'è questa bandiera?	¿De dónde es esta bandera?
@@ -1247,11 +1301,14 @@ ita	spa	Diecimila yen sono sufficienti?	¿Es suficiente con 10 mil yenes?
 ita	spa	Dieci, venti, trenta, quaranta, cinquanta, sessanta, settanta, ottanta, novanta, cento.	Diez, veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa, cien.
 ita	spa	Diffondi l'esperanto!	¡Difunde el esperanto!
 ita	spa	Di già?!	¡¿Ya?!
+ita	spa	Dimentico spesso come si chiama lei.	A menudo olvido cómo se llama ella.
+ita	spa	Dimentico spesso come si chiama lei.	A menudo se me olvida cómo se llama ella.
 ita	spa	Dimmi cosa succede.	Dime qué pasa.
 ita	spa	Dimmi cos'è successo.	Dime qué ha sucedido.
 ita	spa	Dimmi perché sta piangendo.	Decime por qué ella está llorando.
 ita	spa	Dimmi qual è l'obiettivo del tuo piano.	Dime el objetivo de tu plan.
 ita	spa	Di notte tutti i gatti sono grigi.	De noche todos los gatos son pardos.
+ita	spa	Di nuovo, mille scuse.	De nuevo, mil disculpas.
 ita	spa	Dio creò il mondo.	Dios creó el mundo.
 ita	spa	Dio creò il mondo in sei giorni.	Dios creó el mundo en seis días.
 ita	spa	Dio creò l'uomo a sua immagine e somiglianza.	Dios creó al hombre a su imagen.
@@ -1260,6 +1317,8 @@ ita	spa	Dio esiste.	Dios existe.
 ita	spa	Dio esiste, ma ha dimenticato la password.	Dios existe pero olvidó la contraseña.
 ita	spa	Dio è un cerchio la cui circonferenza è una linea retta.	Dios es un círculo cuya circunferencia es una línea recta.
 ita	spa	Dio ha creato la razza umana.	Dios ha creado la humanidad.
+ita	spa	Dio muove il giocatore, e il giocatore il pezzo.	Dios mueve al jugador, y éste, la pieza.
+ita	spa	Dio vive per sempre.	Dios vive para siempre.
 ita	spa	Dipende.	Depende.
 ita	spa	Dipende tutto dal tempo.	Todo depende del tiempo que haga.
 ita	spa	Dipingerò la mia casa di grigio e azzurro.	Pintaré mi casa de gris y azul.
@@ -1303,6 +1362,8 @@ ita	spa	Dobbiamo spostare questa statua con molta attenzione.	Debemos mover esta
 ita	spa	Dobbiamo svolgere il lavoro al meglio.	Tenemos que hacer el trabajo lo mejor que podamos.
 ita	spa	Dobbiamo tagliare le spese per risparmiare.	Debemos recortar nuestros gastos para ahorrar dinero.
 ita	spa	Dobbiamo trovare un nuovo mercato per questi prodotti.	Tenemos que encontrar un nuevo mercado para estos productos.
+ita	spa	Dobbiamo uscire di qui in qualche modo.	Debemos salir de aquí como sea.
+ita	spa	Dobbiamo uscire di qui in qualche modo.	Debemos salir de aquí de cualquier manera.
 ita	spa	Do da mangiare al mio gatto tutte le mattine e tutte le sere.	Todas las mañanas y todas las noches le doy de comer a mi gato.
 ita	spa	Dodici è un numero pari.	Doce es un número par.
 ita	spa	Domani andrò a vederla.	Mañana voy a ir a verla.
@@ -1385,6 +1446,7 @@ ita	spa	Dov'è la scuola?	¿Dónde está la escuela?
 ita	spa	Dov'è la stazione dei treni più vicina?	¿Dónde está la estación de tren más cercana?
 ita	spa	Dov'è la sua cravatta?	¿Dónde está su corbata?
 ita	spa	Dov'è la sua famiglia?	¿Dónde está su familia?
+ita	spa	Dov'è la tua bicicletta?	¿Dónde está tu bicicleta?
 ita	spa	Dov'è la tua camera?	¿Dónde está tu cuarto?
 ita	spa	Dov'è la tua camera?	¿Dónde está tu habitación?
 ita	spa	Dov'è la tua cravatta?	¿Dónde está tu corbata?
@@ -1423,6 +1485,7 @@ ita	spa	Dove si trova l'ascensore?	¿Dónde está el elevador?
 ita	spa	Dove si trova vostro padre?	¿Dónde está vuestro padre?
 ita	spa	Dove sono?	¿Dónde estoy?
 ita	spa	Dove sono finiti questi soldi?	¿Dónde han acabado estos dineros?
+ita	spa	Dove sono gli ascensori?	¿Dónde están los ascensores?
 ita	spa	Dove sono i bagni?	¿Dónde están los baños?
 ita	spa	Dove sono i lupi?	¿Dónde están los lobos?
 ita	spa	Dove sono i miei libri?	¿Dónde están mis libros?
@@ -1473,6 +1536,7 @@ ita	spa	Due gelati alla vaniglia, per piacere.	Dos helados de vainilla, por favo
 ita	spa	Duemilacinquecentotrentanove è un numero primo.	Dos mil quinientos treinta y nueve es un número primo.
 ita	spa	Due più due fa quattro.	Dos y dos son cuatro.
 ita	spa	Due uomini si sono incontrati faccia a faccia.	Dos hombres se encontraron cara a cara.
+ita	spa	Dura la vita del banchiere.	Es difícil la vida del banquero.
 ita	spa	Durante il primo mese che seguì l'incidente, lei potè bere solo liquidi usando una cannuccia.	Durante el primer mes después del accidente ella sólo podía tomar líquidos con pajita.
 ita	spa	Durante i suoi ultimi anni Hokusai combinò molti stili, illustrando romanzi storici e trattando i temi classici tradizionali giapponesi e cinesi.	En sus últimos años Hokusai combinó muchos estilos, ilustrando novelas históricas y tratando temas clásicos tradicionales japoneses y chinos.
 ita	spa	Durante la Seconda Guerra Mondiale l'Europa era dominata dal regime hitleriano.	Durante la Segunda Guerra Mundial, Europa era dominada por el régimen hitleriano.
@@ -1500,8 +1564,8 @@ ita	spa	È andato al negozio.	Ha ido a la tienda.
 ita	spa	È andato in America a studiare medicina.	Él fue a América a estudiar medicina.
 ita	spa	È appena passato un topolino.	Acaba de pasar un ratoncito.
 ita	spa	È arrabbiato?	¿Estás enfadado?
-ita	spa	È arrivato tardi?	¿Ha llegado tarde?
 ita	spa	È arrivato tardi.	Ha llegado tarde.
+ita	spa	È arrivato tardi?	¿Ha llegado tarde?
 ita	spa	È assurdo provare a persuaderlo.	Es absurdo intentar persuadirlo.
 ita	spa	È a Tokyo.	Él está en Tokio.
 ita	spa	È bastato un attimo della mia vita per riuscire a conoscerti e amarti, ma non basterebbe tutta la mia vita per riuscire a dimenticarti.	Bastó sólo un momento de mi vida para llegar a conocerte y amarte, pero no bastará toda mi vida para llegar a olvidarte.
@@ -1513,6 +1577,7 @@ ita	spa	È bello sognare.	Es bonito soñar.
 ita	spa	È bianco come la neve.	Es blanco como la nieve.
 ita	spa	È bravo a cucinare.	Él es bueno para cocinar.
 ita	spa	È caduta molta neve.	Cayó mucha nieve.
+ita	spa	È caduto in una buca e ha schiacciato una gomma.	Cayó en un bache y pinchó una rueda.
 ita	spa	È capitato pure a me.	También me sucedió a mí.
 ita	spa	È carne di ratto.	Es carne de rata.
 ita	spa	È carne di scimmia.	Es carne de mono.
@@ -1542,6 +1607,7 @@ ita	spa	È crudele.	Es cruel.
 ita	spa	È da anni che lo dico!	¡Llevo años diciéndolo!
 ita	spa	È da anni che lo dico!	¡Vengo diciéndolo desde hace años!
 ita	spa	È da ieri che non smette di piovere.	No para de llover desde ayer.
+ita	spa	È da tanto che Tom ha perso la speranza.	Hace mucho tiempo que Tom perdió la esperanza.
 ita	spa	È davvero intelligente, vero?	Es realmente inteligente, ¿verdad?
 ita	spa	È davvero orribile.	Es realmente horrible.
 ita	spa	È davvero unico nel suo genere.	Es realmente único en su género.
@@ -1558,6 +1624,8 @@ ita	spa	È difficile trovare una traduzione adeguata.	Es difícil encontrar una 
 ita	spa	Edimburgo, ci incontriamo di nuovo!	Edimburgo, ¡nos encontramos de nuevo!
 ita	spa	È di mio fratello.	Es de mi hermano.
 ita	spa	È di mio padre.	Es de mi padre.
+ita	spa	È di nuovo affamata, vero?	Está hambrienta nuevamente, ¿verdad?
+ita	spa	È di nuovo affamata, vero?	Tiene hambre de nuevo, ¿verdad?
 ita	spa	È di seconda mano.	Es de segunda mano.
 ita	spa	È dotata di bellezza.	Está dotada de belleza.
 ita	spa	È due anni più giovane di me.	Él es dos años menor que yo.
@@ -1567,9 +1635,11 @@ ita	spa	È facile e redditizio?	¿Es fácil y rentable?
 ita	spa	È facile.	Esto es fácil.
 ita	spa	È facile, forse è anche fattibile.	Es fácil, quizás es incluso factible.
 ita	spa	È facile per me leggere questo libro.	Me resulta fácil leer este libro.
+ita	spa	È facilmente distratto.	Se distrae fácilmente.
 ita	spa	È famoso come pianista.	Él es famoso como pianista.
 ita	spa	È felice.	Ella es feliz.
 ita	spa	È francese.	Él es francés.
+ita	spa	È frequente.	Es frecuente.
 ita	spa	È generalmente difficile adattarsi a vivere in una cultura straniera.	Generalmente es difícil adaptarse a vivir en una cultura extranjera.
 ita	spa	È gentile.	Él es gentil.
 ita	spa	È già aperto?	¿Está abierto ya?
@@ -1623,6 +1693,7 @@ ita	spa	È in Giappone da tre anni.	Está en Japón hace tres años.
 ita	spa	È in gioco la legittimità dei regimi democratici.	Está en juego la legitimidad de los regímenes democráticos.
 ita	spa	È intelligente come suo fratello.	Es inteligente como su hermano.
 ita	spa	È intelligente.	Él es inteligente.
+ita	spa	È interessato alla matematica.	Está interesado en las matemáticas.
 ita	spa	È inutile parlare di libertà a uno schiavo che pensa di essere un uomo libero.	Es inútil hablar de libertad con un esclavo que cree que es un hombre libre.
 ita	spa	È iperattiva.	Ella es hiperactiva.
 ita	spa	È italiano di nascita.	Es italiano de nacimiento.
@@ -1638,7 +1709,9 @@ ita	spa	È la ragazza dei miei sogni.	Ella es la chica de mis sueños.
 ita	spa	È la ragazza dei miei sogni.	Ella es la niña de mis sueños.
 ita	spa	È la settimana nazionale del libro.	Es la semana nacional del libro.
 ita	spa	È la sorella maggiore di Tom.	Ella es la hermana mayor de Tom.
+ita	spa	È la tua morosa, vero?	Ella es tu novia, ¿verdad?
 ita	spa	È la tua prima volta a San Pablo?	¿Es tu primera vez en San Pablo?
+ita	spa	È la tua ragazza, vero?	Ella es tu novia, ¿verdad?
 ita	spa	È libertà di espressione.	Es libertad de expresión.
 ita	spa	Ella si vergognava dei suoi genitori.	Ella se avergonzaba de sus padres.
 ita	spa	È lontana da qui?	¿Está lejos de aquí?
@@ -1647,12 +1720,14 @@ ita	spa	È l'unica spiegazione.	Es la única explicación.
 ita	spa	È magia.	Es magia.
 ita	spa	È malese?	¿Es él malayo?
 ita	spa	È meglio che niente.	Es mejor que nada.
+ita	spa	È meglio non parlarne.	De eso mejor no hablamos.
 ita	spa	È meglio tornare in macchina.	Es mejor volver al coche.
 ita	spa	Emergono sempre sfide nella vita, alcuni le chiamano problemi, gli altri opportunità di crescita.	En nuestra vida siempre aparecen desafíos. Algunos los llaman problemas y otros oportunidades de crecimiento.
 ita	spa	Emily mangiò una mela.	Emily se comió una manzana.
 ita	spa	Emily sta scrivendo una lettera.	Emily está escribiendo una carta.
 ita	spa	È mio figlio, sangue del mio sangue.	Es mi hijo, sangre de mi sangre.
 ita	spa	È mio fratello.	Es mi hermano.
+ita	spa	È molto arrabbiata ora, vero?	Está muy enfadada ahora, ¿verdad?
 ita	spa	È molto arrabbiato con te.	Está muy enfadado contigo.
 ita	spa	È molto arrabbiato.	Está muy enojado.
 ita	spa	È molto complicato.	Es muy complicado.
@@ -1674,6 +1749,7 @@ ita	spa	È morto ieri sera.	Murió ayer por la noche.
 ita	spa	È morto per mancanza d'aria.	Murió por falta de aire.
 ita	spa	È nato a Osaka.	Nació en Osaka.
 ita	spa	È necessario che vada lei stessa.	Es necesario que vaya ella misma.
+ita	spa	È necessario scongelare la carne.	Hay que descongelar la carne.
 ita	spa	È nella tasca della mia giacca.	Está en el bolsillo de mi chaqueta.
 ita	spa	È normale che tu ti senta triste per la notizia.	Es normal que tú te sientas triste por la noticia.
 ita	spa	È normale fare errori.	Es normal cometer errores.
@@ -1702,6 +1778,7 @@ ita	spa	È pericoloso saltare da un treno in movimento.	Es peligroso saltar de u
 ita	spa	È per turisti.	Es para turistas.
 ita	spa	È più di un anno che non lo vedo.	Hace más de un año que no lo veo.
 ita	spa	È più facile morire che amare.	Es más fácil morir que amar.
+ita	spa	È più famosa di lui.	Es más famosa que él.
 ita	spa	È più forte di te.	Él es más fuerte que tú.
 ita	spa	È più grasso di quando l'ho visto per l'ultima volta.	Está más gordo de cuando lo vi por última vez.
 ita	spa	È popolare tra gli alunni.	Él es popular entre los alumnos.
@@ -1725,12 +1802,14 @@ ita	spa	È questa la chiave che cerca tuo zio?	¿Es ésta la llave que busca tu 
 ita	spa	È questione di tempo.	Es cuestión de tiempo.
 ita	spa	È questo amore?	¿Esto es amor?
 ita	spa	È questo il futuro.	Es esto el futuro.
+ita	spa	Era annoiata.	Estaba aburrida.
 ita	spa	Era assente da scuola a causa di un raffreddore.	Como estaba acatarrada, faltó a clase.
 ita	spa	Era assetato.	Él tenía sed.
 ita	spa	Era davvero tanto tempo che non ci vedevamo.	Sí que hacía tiempo que no nos veíamos.
 ita	spa	Era davvero un dinosauro!	¡Era de veras un dinosaurio!
 ita	spa	Era difficile da credere.	Era difícil de creer.
 ita	spa	Era difficile.	Era difícil.
+ita	spa	Era difficile per la madre parlare di suo figlio.	A la madre le era difícil hablar sobre su hijo.
 ita	spa	Era difficilissimo.	Era dificilísimo.
 ita	spa	Era divertente?	¿Era divertido?
 ita	spa	Era già stata in Inghilterra una volta.	Ella ya había estado en Inglaterra una vez.
@@ -1746,6 +1825,7 @@ ita	spa	Era occupata col lavoro domestico.	Ella estaba ocupada con las tareas de
 ita	spa	Era retorico.	Era retórico.
 ita	spa	Era sabato sera.	Era sábado por la noche.
 ita	spa	Era seduto a leggere un libro.	Estaba sentado leyendo un libro.
+ita	spa	Era solo acqua.	Solo era agua.
 ita	spa	Era sorprendentemente bella.	Era asombrosamente hermosa.
 ita	spa	Era stanca ma continuò a lavorare.	Estaba cansada, pero siguió trabajando.
 ita	spa	Era sua abitudine alzarsi presto.	Levantarse temprano era su costumbre.
@@ -1851,6 +1931,7 @@ ita	spa	È umiliante.	Es humillante.
 ita	spa	È una bambola.	Es una muñeca.
 ita	spa	È una bella città di mare.	Es un pueblo costero bonito.
 ita	spa	È una bella giornata.	Es un día hermoso.
+ita	spa	È una buona applicazione per cominciare a fare sport.	Es una buena aplicación para comenzar a hacer deporte.
 ita	spa	È una buona iniziativa.	Es una buena iniciativa.
 ita	spa	È una chef eccellente.	Es una chef excelente.
 ita	spa	È una città o un paese?	¿Es una ciudad o un país?
@@ -1890,6 +1971,7 @@ ita	spa	È un gran bugiardo.	Es un gran mentiroso.
 ita	spa	È un grande codardo.	Él es un gran cobarde.
 ita	spa	È un grande onore poterla conoscere.	Es un gran honor poder conocerlo.
 ita	spa	È un insegnante fuori dal comune.	Es un maestro fuera de lo común.
+ita	spa	È un libro che raccomanderei a tutti di leggere.	Es un libro que recomendaría leer a todos.
 ita	spa	È un libro spagnolo.	Es un libro español.
 ita	spa	È un lupo quello?	¿Acaso es un lobo?
 ita	spa	È un malinteso.	Es un malentendido.
@@ -1948,6 +2030,7 @@ ita	spa	Faceva come se nulla fosse.	Hacía como si no fuera nada.
 ita	spa	Faceva come se nulla fosse.	Hacía como si no fuese nada.
 ita	spa	Facevate come se nulla fosse.	Hacíais como si no fuera nada.
 ita	spa	Facevate come se nulla fosse.	Hacían como si no fuese nada.
+ita	spa	Fa ciò che gli viene detto.	Hace lo que se le dice.
 ita	spa	Fa freddo.	Hace frío.
 ita	spa	Fagli gli occhietti dolci!	¡Échale una miradita dulce!
 ita	spa	Fai attenzione attraversando la strada.	Cuidado al cruzar la calle.
@@ -1958,6 +2041,8 @@ ita	spa	Fa' il meglio che puoi!	¡Haz lo mejor que puedas!
 ita	spa	Fammi il favore di stare zitto.	Haceme el favor de callarte.
 ita	spa	Fammi vedere la bambola che hai comprato ieri.	Muéstrame la muñeca que compraste ayer.
 ita	spa	Fa molto caldo oggi, no?	Hace mucho calor hoy, ¿no?
+ita	spa	Fanculo la polizia.	A la mierda con la policía.
+ita	spa	Fanculo la polizia.	Chinga la policía.
 ita	spa	Fanno bene!	¡Hacen bien!
 ita	spa	Farà mica paura?	¿Dará algo de miedo?
 ita	spa	Farebbe la stessa cosa se fosse in me.	Haría lo mismo si fuera yo.
@@ -1978,10 +2063,13 @@ ita	spa	Fate spesso questo?	¿Hace usted esto con frecuencia?
 ita	spa	Fate tre copie di questa pagina, per piacere.	Por favor, hacé tres copias de esta página.
 ita	spa	Fatevi valere.	Que se sepa lo que valéis.
 ita	spa	Fa troppo caldo e sono troppo stanco.	Hace demasiado calor y estoy muy cansado.
+ita	spa	Fa tutto ciò che le dico di fare.	Hace todo lo que le digo que haga.
+ita	spa	Fa tutto quello che le dico di fare.	Hace todo lo que le digo que haga.
 ita	spa	Fa una gran differenza.	Hace una gran diferencia.
 ita	spa	Fa un caldo boia.	¡Hace un calor de la hostia!
 ita	spa	Fa un po' freddo.	Hace un poco de frío.
 ita	spa	Felice anno nuovo!	¡Feliz Año Nuevo!
+ita	spa	Felice Nowruz!	¡Feliz Nouruz!
 ita	spa	Fermatevi!	¡Parad!
 ita	spa	Fermati!	¡Párate!
 ita	spa	Fermiamoci!	¡Detengámonos!
@@ -2023,8 +2111,10 @@ ita	spa	Fuoco!	¡Fuego!
 ita	spa	Fuori piove.	Fuera está lloviendo.
 ita	spa	Fu scoperto un passeggero clandestino sull'aereo.	Un pasajero clandestino fue descubierto en el avión.
 ita	spa	Fu stupido da parte mia commettere un errore simile.	Fue estúpido de mi parte cometer un error así.
+ita	spa	Gal Costa è morta ieri, 09.11.22, all'età di 77 anni.	Gal Costa falleció ayer, 09.11.22, a la edad de 77 años.
 ita	spa	Generalmente chi visita di più i propri genitori, i figli o le figlie?	¿Generalmente quién visita más a sus padres, los hijos o las hijas?
 ita	spa	Generalmente, gli uomini sono più alti delle donne.	En general, los hombres son más altos que las mujeres.
+ita	spa	Gennaio è il mio mese.	Enero es mi mes.
 ita	spa	Gennaio è il primo mese dell'anno, aprile è il quarto, novembre è l'undicesimo, dicembre è il dodicesimo.	Enero es el primer mes del año, abril es el cuarto, noviembre es el undécimo y diciembre es el duodécimo.
 ita	spa	George ha due cugini; uno vive in Germania e l'altro in Svizzera.	George tiene dos primos, uno vive en Alemania y el otro en Suiza.
 ita	spa	George ha sposato mia sorella.	George se ha casado con mi hermana.
@@ -2061,6 +2151,7 @@ ita	spa	Gli avvocati devono mantenere il segreto professionale.	Los abogados deb
 ita	spa	Gli chiederà di non farlo.	Le pedirá no hacerlo.
 ita	spa	Gli chiederò domani.	Le preguntaré mañana.
 ita	spa	Gli ci son voluti tre mesi per imparare ad andare in bici.	Necesitó tres meses para aprender como ir en bicicleta.
+ita	spa	Gli deve spiegare tutto.	Le debe explicar todo.
 ita	spa	Gli devo 50.000 yen.	Le debo 50.000 yenes.
 ita	spa	Gli devo la mia vita.	A él le debo mi vida.
 ita	spa	Gli diede cibo e soldi.	Les dio comida y dinero.
@@ -2101,6 +2192,7 @@ ita	spa	Gli piace cucinare per la sua famiglia.	A él le gusta cocinar para su f
 ita	spa	Gli piace il pane col burro.	A él le gusta el pan con mantequilla.
 ita	spa	Gli piace il tè.	Le gusta el té.
 ita	spa	Gli piace questo genere di musica.	Le gusta esta clase de música.
+ita	spa	Gli romani erano degli teppisti.	Los romanos eran matones.
 ita	spa	Gli sanguina il naso.	Le sangra la nariz.
 ita	spa	Gli scantinati sono allagati.	Los sótanos están anegados.
 ita	spa	Gli Smiths sono nostri cugini.	Los Smiths son nuestros primos.
@@ -2156,6 +2248,7 @@ ita	spa	Guarda la televisione?	¿Mira la televisión?
 ita	spa	Guardami negli occhi.	Mírame a los ojos.
 ita	spa	Guarda quell'eclissi totale!	¡Mira ese eclipse total!
 ita	spa	Guarda quelle nuvole.	Mira esas nubes.
+ita	spa	Guardate la TV ogni sera?	¿Veis la tele cada noche?
 ita	spa	Guardate le ragazze.	Mirad a las chicas.
 ita	spa	Guarda un po' cosa ho trovato sulla spiaggia!	Mira lo que me he encontrado en la playa.
 ita	spa	Guardi!	¡Mira!
@@ -2182,6 +2275,7 @@ ita	spa	Ha cominciato a urlare forte.	Él empezó a llorar a viva voz.
 ita	spa	Ha commesso un crimine.	Ha cometido un crimen.
 ita	spa	Ha comprato della verdura ieri.	Ella ha comprado algunas verduras ayer.
 ita	spa	Ha continuato a camminare sotto la pioggia.	Él continuó caminando bajo la lluvia.
+ita	spa	Ha corretto tutto?	¿Lo ha corregido todo?
 ita	spa	Ha dato una mela a Tom.	Le dio una manzana a Tom.
 ita	spa	Ha deciso che lo farà.	Ha decidido que lo hará.
 ita	spa	Ha dei preservativi?	¿Tienes preservativos?
@@ -2217,8 +2311,10 @@ ita	spa	"Hai bisogno di una T-shirt?" "Sì, di una rossa."	"¿Necesitas una cami
 ita	spa	Hai bisogno di un avvocato.	Necesitas un abogado.
 ita	spa	Hai capito?	¿Entendiste?
 ita	spa	Hai cominciato a studiare l'inglese?	¿Has comenzado a estudiar inglés?
+ita	spa	Hai commesso un crimine federale.	Cometiste un delito federal.
 ita	spa	Hai comprato il corpetto?	¿Compraste el corsee?
 ita	spa	Hai comprato un imbuto molto piccolo.	Has comprado un embudo muy pequeño.
+ita	spa	Hai corretto tutto?	¿Lo has corregido todo?
 ita	spa	Hai dato da mangiare al cane?	¿Le diste de comer al perro?
 ita	spa	Hai dato una copia del disco a qualcuno?	¿Le diste una copia del disco a alguien?
 ita	spa	Hai dei fratelli?	¿Tenés hermanos?
@@ -2256,14 +2352,18 @@ ita	spa	Hai molti amici.	Tienes muchos amigos.
 ita	spa	Hai molti amici.	Tienes un montón de amigos.
 ita	spa	Hai molti libri.	Tienes muchos libros.
 ita	spa	Ha imparato il francese quando era giovane.	Aprendió francés cuando era joven.
+ita	spa	Ha insistito che andassi.	Ha insistido en que fuese.
 ita	spa	Hai paura di me?	¿Me tienes miedo?
 ita	spa	Hai perso la testa?	¿Has perdido la cabeza?
 ita	spa	Hai perso la testa?	¿Se te ha ido la olla?
+ita	spa	Hai perso la tua chiave?	¿Has perdido tu llave?
 ita	spa	Hai perso peso?	¿Has perdido peso?
+ita	spa	Hai portato il latte?	¿Has traído la leche?
 ita	spa	Hai portato il libro?	¿Has traído el libro?
 ita	spa	Hai provato a misurare la pressione?	¿Ha tratado de medir la presión?
 ita	spa	Hai qualche obiezione per questo piano?	¿Tienes alguna objeción a este plan?
 ita	spa	Hai qualche piano per il weekend?	¿Tienes algún plan para el finde?
+ita	spa	Hai raccolto le cose?	¿Has recogido las cosas?
 ita	spa	Hai sete, vuoi dell'acqua?	Tienes sed, ¿quieres agua?
 ita	spa	Hai spento la luce del salone?	¿Has apagado la luz del salón?
 ita	spa	Hai una caccola nel naso.	Tenés un moco en la nariz.
@@ -2311,15 +2411,19 @@ ita	spa	Hanno costruito un ponte.	Ellos han construido un puente.
 ita	spa	Hanno detto che si sentivano escluse.	Han dicho que se sentían excluidas.
 ita	spa	Hanno detto che si sentivano esclusi.	Han dicho que se sentían excluidos.
 ita	spa	Hanno eretto un monumento in suo onore.	Han erigido un monumento en su honor.
+ita	spa	Hanno già annunciato l'atterraggio?	¿Ya han anunciado el aterrizaje?
+ita	spa	Hanno paura di loro.	Tienen miedo de ellos.
 ita	spa	Hanno perso la battaglia.	Perdieron la batalla.
 ita	spa	Hanno scarabocchiato il mio quaderno.	Garabatearon mi cuaderno.
 ita	spa	Hanno sparato fuochi artificiali.	Lanzaron fuegos artificiales.
 ita	spa	Hanno tradotto il testo.	Tradujeron el texto.
 ita	spa	Ha paura di fare errori.	Él tiene miedo de cometer errores.
+ita	spa	Ha paura di noi.	Tiene miedo de nosotros.
 ita	spa	Ha paura di perdere influenza e attenzione.	Ella teme perder influencia y atención.
 ita	spa	Ha perso il treno delle otto e mezza.	Ha perdido el tren de las ocho y media.
 ita	spa	Ha perso la pazienza e ha colpito il ragazzo.	Él perdió la paciencia y pegó al niño.
 ita	spa	Ha perso la ragione quando ha visto la sua casa distrutta dal fuoco.	Él perdió la razón cuando vio su casa destruída por el fuego.
+ita	spa	Ha perso la sua chiave?	¿Ha perdido su llave?
 ita	spa	Ha perso suo figlio nella guerra.	Ha perdido a su hijo en la guerra.
 ita	spa	Ha pitturato la sua bicicletta di rosso.	Él pintó su bicicleta de rojo.
 ita	spa	Ha più energia di me.	Tiene más energía que yo.
@@ -2420,6 +2524,7 @@ ita	spa	Ho bisogno di caffè.	Necesito café.
 ita	spa	Ho bisogno di comprare dei francobolli.	Necesito comprar estampillas.
 ita	spa	Ho bisogno di denaro per comprare un regalo a Tom.	Necesito dinero para comprarle un regalo a Tom.
 ita	spa	Ho bisogno di fare una doccia.	Necesito ducharme.
+ita	spa	Ho bisogno di mangiare per poter correre	Necesito comer para poder correr.
 ita	spa	Ho bisogno di molti libri.	Necesito muchos libros.
 ita	spa	Ho bisogno di muovermi e riscaldarmi.	Tengo que moverme y calentarme.
 ita	spa	Ho bisogno di più tempo.	Necesito más tiempo.
@@ -2437,6 +2542,7 @@ ita	spa	Ho cambiato idea riguardo a uscire e sono rimasta a casa.	Cambié de ide
 ita	spa	Ho cambiato idea riguardo a uscire e sono rimasto a casa.	Cambié de idea sobre lo de salir, y me quedé en casa.
 ita	spa	Ho capito quasi tutto!	¡Entendí casi todo!
 ita	spa	Ho comprato due bottiglie di latte.	Compré dos botellas de leche.
+ita	spa	Ho comprato un asse da stiro più grande del precedente.	He comprado una tabla de planchar más grande que la anterior.
 ita	spa	Ho comprato un libro.	Compré un libro.
 ita	spa	Ho comprato un orologio.	He comprado un reloj.
 ita	spa	Ho comprato un orologio per Tom.	He comprado un reloj por Tom
@@ -2490,12 +2596,14 @@ ita	spa	Ho imparato molto da Tom.	He aprendido mucho de Tom.
 ita	spa	Ho incontrato delle persone simpatiche.	Conocí gente buena.
 ita	spa	Ho incontrato delle persone simpatiche.	He conocido gente simpática.
 ita	spa	Ho incontrato i miei amici al bar.	Encontré a mis amigos en el café.
+ita	spa	Ho incontrato Sherie nel vicolo il 23 di settembre di 2021 sull'isola di Lulu. Ha sangue di amerindi cri e francesi. Ha zanne di vampira artificiali perché è gotica. Sto scherzando sul fatto che la sua stagione di Halloween preferita sta arrivando. Siamo d'accordo che oggi Halloween è triste per i bambini a causa della pandemia.	Me encontré a Sherie en el callejón el 23 de septiembre de 2021 en la isla Lulu. Tiene sangre de amerindios cri y franceses. Tiene colmillos de vampira artificiales porque es gótica. Le estoy bromeando con que se acerca su temporada favorita de Halloween. Estamos de acuerdo en que Halloween es triste para los niños de hoy debido a la pandemia.
 ita	spa	Ho incontrato un amico che non vedevo da tre anni.	Me encontré a un amigo a quien no había visto en tres años.
 ita	spa	Ho incontrato una ragazza americana.	Me encontré con una chica norteamericana.
 ita	spa	Ho incontrato un controllore sul treno.	Encontré un revisor de billetes en el tren.
 ita	spa	Ho incontrato un vecchio amico per caso a Kyoto.	Me encontré con un viejo amigo por casualidad en Tokio.
 ita	spa	Ho iniziato una nuova dieta.	Empecé una nueva dieta.
 ita	spa	Ho intenzione di andarmene in Europa la settimana prossima.	Tengo la intención de irme a Europa la próxima semana.
+ita	spa	Ho intenzione di starmene a casa tutto il giorno.	Tengo la intención de quedarme en casa todo el día.
 ita	spa	Ho la chiave.	Tengo la llave.
 ita	spa	Ho la forfora.	Tengo caspa.
 ita	spa	Ho lasciato la porta aperta.	Dejé la puerta abierta.
@@ -2553,6 +2661,9 @@ ita	spa	Ho perso la mia macchina fotografica.	Perdí mi cámara.
 ita	spa	Ho perso la partita.	Perdí la partida.
 ita	spa	Ho perso mia moglie l'anno scorso.	Perdí a mi esposa el año pasado.
 ita	spa	Ho perso un orecchino.	He perdido un arete.
+ita	spa	Ho pianto anch'io!	¡Yo también lloré!
+ita	spa	Ho poca dimestichezza con la matematica.	Tengo poca familiaridad con las matemáticas.
+ita	spa	Ho poca dimestichezza con le lingue straniere.	Tengo poca familiaridad con las lenguas extranjeras.
 ita	spa	Ho prenotato la sala per giovedì.	Reservé la habitación para el jueves.
 ita	spa	Ho preso in prestito due libri.	He pedido prestado dos libros.
 ita	spa	Ho preso un nuovo paio di scarpe.	Compré un nuevo par de zapatos.
@@ -2574,6 +2685,7 @@ ita	spa	Ho scritto tutti i numeri fino al trentuno.	He escrito todos los número
 ita	spa	Ho scritto una lettera in inglese.	Escribí una carta en inglés.
 ita	spa	Ho scritto un programma in Java.	Escribí un programa en Java.
 ita	spa	Ho scritto un programma in Java.	He escrito un programa en Java.
+ita	spa	Ho sempre desiderato avere un cane, ma i miei genitori non vogliono animali in casa.	Siempre he deseado tener un perro, pero mis padres no quieren animales en casa.
 ita	spa	Ho sempre fame.	Siempre tengo hambre.
 ita	spa	Ho sempre voluto essere un cantante.	Siempre he querido ser cantante.
 ita	spa	Ho sentito parlare di lui, però non lo conosco personalmente.	He oído hablar de él, pero no le conozco personalmente.
@@ -2593,6 +2705,7 @@ ita	spa	Ho tre cani.	Tengo tres perros.
 ita	spa	Ho tre cugini.	Tengo tres primos.
 ita	spa	Ho tre fratelli.	Tengo tres hermanos.
 ita	spa	Ho tre fratelli; uno vive in Giappone e gli altri all'estero.	Tengo tres hermanos, uno vive en Japón y los otros en el exterior.
+ita	spa	Ho troppe cose da dire, e non so da dove cominciare.	Tengo demasiadas cosas que decir, y no sé por dónde comenzar.
 ita	spa	Ho troppe cose per la testa in questi giorni.	Tengo demasiadas cosas en la cabeza estos días.
 ita	spa	Ho trovato il libro molto interessante.	El libro me pareció muy interesante.
 ita	spa	Ho trovato la chiave.	He encontrado la llave.
@@ -2635,6 +2748,9 @@ ita	spa	Ho un visto turistico.	Tengo una visa de turista.
 ita	spa	Ho urlato di dolore.	Grité del dolor.
 ita	spa	Ho vari amici interessati ma nessuno sa niente!	Tengo varios amigos interesados, ¡pero ninguno sabe nada!
 ita	spa	Ho venduto i miei libri per pochi soldi.	Vendí mis libros por poco dinero.
+ita	spa	Ho venduto una TV.	He vendido una tele.
+ita	spa	Ho venduto una TV.	He vendido una televisión.
+ita	spa	Ho venduto una TV.	He vendido un televisor.
 ita	spa	Ho visitato il villaggio in cui è nato.	Visité el pueblo en el que nació.
 ita	spa	Ho visto Bob questa mattina.	Esta mañana he visto a Bob.
 ita	spa	Ho visto Bob stamattina.	Esta mañana he visto a Bob.
@@ -2642,8 +2758,10 @@ ita	spa	Ho visto Liz stamattina.	Vi a Liz esta mañana.
 ita	spa	Ho visto qualcosa di interessante.	He visto algo interesante.
 ita	spa	Ho visto qualcosa di interessante.	Vi algo interesante.
 ita	spa	Ho visto tante cose.	He visto muchas cosas.
+ita	spa	Ho visto Tom mentre nuotava.	He visto a Tom mientras nadaba.
 ita	spa	Ho visto Tom oggi.	Hoy he visto a Tom.
 ita	spa	Ho visto tuo padre.	He visto a tu padre.
+ita	spa	Ho visto una balena viva.	He visto una ballena viva.
 ita	spa	Ho visto una casa il tetto della quale era rosso.	Vi una casa cuyo techo era rojo.
 ita	spa	Ho visto una ragazza con i capelli lunghi.	He visto a una chica con el pelo largo.
 ita	spa	Ho visto un gatto correre dietro a un cane.	Vi a un gato corriendo tras el perro.
@@ -2655,8 +2773,12 @@ ita	spa	I bambini comprendono tutto.	Los niños entienden todo.
 ita	spa	I bambini entrarono nella stanza correndo.	Los niños entraron corriendo en la habitación.
 ita	spa	I bambini giocano nel parco tutti i giorni.	Los niños juegan en el parque todos los días.
 ita	spa	I bambini hanno risolto il problema da soli.	Los niños resolvieron el problema ellos mismos
+ita	spa	I bambini piangono di nuovo.	Los niños lloran otra vez.
+ita	spa	I bambini piangono di nuovo.	Los niños vuelven a llorar.
 ita	spa	I bambini si sono scambiati i regali alla festa di Natale.	Los niños se intercambiaron regalos en la fiesta de Navidad.
 ita	spa	I bambini sono già stanchi.	Los niños ya están cansados.
+ita	spa	I biglietti sono costosi.	Los tickets son caros.
+ita	spa	I biglietti sono costosi.	Los tickets son costosos.
 ita	spa	I bombardieri americani attaccarono le città più grandi del Giappone con il napalm.	Los bombarderos americanos atacaron las ciudades más grandes del Japón con el napalm.
 ita	spa	I Brown sono una famiglia elegante e felice.	Los Brown son una familia elegante y feliz.
 ita	spa	I calzini puzzano.	Los calcetines huelen mal.
@@ -2674,6 +2796,7 @@ ita	spa	I computer sono molto utili.	Las computadoras son de gran utilidad.
 ita	spa	I conigli hanno orecchie grandi.	Los conejos tienen orejas grandes.
 ita	spa	I contadini coltivano la terra.	Los granjeros cultivan la tierra.
 ita	spa	I contributi coreani quest'anno sono stati appropriati per l'economia nazionale.	Las contribuciones coreanas este año fueron oportunas para la economía nacional.
+ita	spa	I corvi sono animali molto intelligenti.	Los cuervos son animales muy inteligentes.
 ita	spa	I delfini sono molto intelligenti.	Los delfines son muy inteligentes.
 ita	spa	I denti umani hanno quattro zanne, due in ogni mandibola.	La dentadura humana tiene cuatro colmillos, dos en cada mandíbula.
 ita	spa	I diamanti sono eterni.	Los diamantes son eternos.
@@ -2708,6 +2831,7 @@ ita	spa	I gatti neri portano sfortuna.	Los gatos negros traen mala suerte.
 ita	spa	I gatti non mangiano le banane.	Los gatos no comen bananas.
 ita	spa	I gatti non mangiano le banane.	Los gatos no comen plátanos.
 ita	spa	I gatti sono animali sociali.	Los gatos son animales sociales.
+ita	spa	I genitori non dovrebbero lasciare che i ragazzi siano crudeli con gli animali.	Los padres no deberían dejar que los niños sean crueles con los animales.
 ita	spa	I genitori sono responsabili dell'educazione dei propri figli.	Los padres son los responsables de la educación de sus hijos.
 ita	spa	I giapponesi attaccarono Pearl Harbor il 7 dicembre 1941.	Los japoneses atacaron Pearl Harbor el 7 de diciembre de 1941.
 ita	spa	I giapponesi hanno gli occhi scuri.	Los japoneses tienen ojos oscuros.
@@ -2720,6 +2844,7 @@ ita	spa	I lavoratori erano orgogliosi del proprio lavoro.	Los trabajadores estab
 ita	spa	Il bambino entrò nella stanza correndo.	El niño entró corriendo a la habitación.
 ita	spa	Il bambino ha pianto tutta la notte.	El bebé estuvo llorando toda la noche.
 ita	spa	Il bambino ha pianto tutta la notte.	El bebé lloró toda la noche.
+ita	spa	Il bambino ha un palloncino blu.	El niño tiene una pelotita azul.
 ita	spa	Il bambino lanciò una pietra al cane.	El niño le lanzó una piedra al perro.
 ita	spa	Il bambino sta ancora dormendo.	El niño todavía está durmiendo.
 ita	spa	Il bambino sta mangiando del pane.	El chico está comiendo pan.
@@ -2821,6 +2946,8 @@ ita	spa	Il denaro rappresenta il valore delle cose possedute.	El dinero simboliz
 ita	spa	Il denaro ti permette di comprare qualsiasi cosa.	El dinero te permite comprar cualquier cosa.
 ita	spa	Il destino mi ha sorriso.	El destino me sonrió.
 ita	spa	Il diamante fu scoperto da un bambino nel 1873.	El diamante fue descubierto por un niño en 1873.
+ita	spa	Il diavolo è morto.	El diablo está muerto.
+ita	spa	Il diavolo si nasconde dietro la croce.	Detrás de la cruz está el diablo.
 ita	spa	Il dinosauro non era grande come aveva immaginato la notte precedente, però era verde, con squame rosse e gialle e un muso molto amichevole.	El dinosaurio no era grande como había imaginado la noche anterior, pero era verde, con escamas rojas y amarillas y un rostro muy amable.
 ita	spa	Il diossido di carbonio non è velenoso di per sé.	El dióxido de carbono no es tóxico en sí mismo.
 ita	spa	Il direttore non può firmare queste lettere senza consultarci.	El director no puede firmar estas cartas sin consultarnos.
@@ -2841,6 +2968,11 @@ ita	spa	Il fiume più lungo d'Italia è il Po.	El río más largo de Italia es e
 ita	spa	Il fluido è più pesante del gas.	Un fluido es más pesado que un gas.
 ita	spa	Il forte deve aiutare il debole.	El fuerte debe ayudar al débil.
 ita	spa	Il francese di Tom è piuttosto buono.	El francés de Tom es bastante bueno.
+ita	spa	Il frigorifero sta scoppiando di cibo.	El frigorífico está abarrotado de comida.
+ita	spa	Il frigorifero sta scoppiando di cibo.	El frigorífico está a reventar de comida.
+ita	spa	Il frigorifero sta scoppiando di cibo.	El frigorífico está hasta los topes de comida.
+ita	spa	Il frigorifero sta scoppiando di cibo.	El frigorífico está llenísimo de comida.
+ita	spa	Il frigorifero sta scoppiando di cibo.	La nevera está abarrotada de comida.
 ita	spa	Il fumo delle sigarette riempiva la stanza, rendendo l'aria irrespirabile.	El humo de los cigarrillos llenaba la habitación, haciendo el aire irrespirable.
 ita	spa	Il fumo è una cattiva abitudine.	Fumar es un mal hábito.
 ita	spa	Il furetto potpotta.	El hurón doquea.
@@ -2860,6 +2992,7 @@ ita	spa	Il gatto sta miagolando.	El gato está maullando.
 ita	spa	Il gatto stava giocando con un topo vivo.	El gato estaba jugando con un ratón vivo.
 ita	spa	Il gazebo, o pergolato, è uno spazio, di solito rotondo, che solitamente si trova nei giardini, circondato da piante o alberi e panchine.	Glorieta o cenador es un espacio, generalmente redondo, que suele haber en los jardines, cercado por plantas o árboles y con bancos.
 ita	spa	Il ghiaccio è molto spesso.	El hielo es muy espeso.
+ita	spa	Il ghiaccio è più leggero dell'acqua.	El hielo es más ligero que el agua.
 ita	spa	Il Giappone è a est della Cina.	Japón está al este de China.
 ita	spa	Il Giappone è pieno di belle città, Kyoto e Nara, ad esempio.	Japón está lleno de ciudades hermosas. Kioto y Nara, por ejemplo.
 ita	spa	Il Giappone è qui!	¡Japón está aquí!
@@ -2898,6 +3031,7 @@ ita	spa	Il leone ruggisce.	El león ruge.
 ita	spa	Il libro è facile.	El libro es fácil.
 ita	spa	Il libro è grande.	El libro es grande.
 ita	spa	Il libro è per me; i fiori sono per noi.	El libro es para mí; las flores son para nosotros.
+ita	spa	Il libro è spesso.	El libro es grueso.
 ita	spa	Il libro è stato scritto da Giannis.	El libro fue escrito por Giannis.
 ita	spa	Il libro è sul tavolo.	El libro está en la mesa.
 ita	spa	Il loro arsenale militare è potente.	Ellos tienen un poderoso arsenal militar.
@@ -2915,7 +3049,11 @@ ita	spa	Il mare era pieno di barche.	El mar estaba lleno de barcos.
 ita	spa	Il marito ammette di avere una relazione.	El esposo admite que tiene una relación.
 ita	spa	Il marito di Mary è ricco.	El esposo de Mary es rico.
 ita	spa	Il matrimonio di Tom e Mary aveva cominciato a cadersi a pezzi.	El matrimonio de Tom y Mary había comenzado a desmoronarse.
+ita	spa	Il mercurio è conosciuto anche come argento vivo.	El mercurio es también conocido como azogue.
 ita	spa	Il merlo fischia.	El mirlo silba.
+ita	spa	Il mese scorso ha fatto dipingere la sua casa di bianco.	El mes pasado mandó blanquear su casa.
+ita	spa	Il mese scorso ha fatto dipingere la sua casa di bianco.	El mes pasado mandó pintar su casa de blanco.
+ita	spa	Il microfono è spento.	El micrófono está apagado.
 ita	spa	Il microfono, per qualche motivo, fino a quel momento non aveva funzionato.	Por alguna razón, el micrófono no había funcionado hasta entonces.
 ita	spa	Il miglior modo di predire il futuro è inventarlo.	La mejor forma de predecir el futuro es inventándolo.
 ita	spa	Il mio amico è calabrese.	Mi amigo es calabrés.
@@ -2969,6 +3107,8 @@ ita	spa	Il mio passaporto era nella borsa.	Mi pasaporte estaba en la bolsa.
 ita	spa	Il mio passatempo preferito è localizzare luoghi sul mappamondo.	Mi pasatiempo favorito es localizar sitios en el mapamundi.
 ita	spa	Il mio programma non è compatibile con Windows.	Mi programa no es compatible con Windows.
 ita	spa	Il mio sogno è diventare un insegnante.	Mi sueño es ser profesor.
+ita	spa	Il mio sogno è irrealizzabile.	Mi sueño es inalcanzable.
+ita	spa	Il mio sogno è irrealizzabile.	Mi sueño es irrealizable.
 ita	spa	Il mio sogno è vivere una vita tranquilla in campagna.	Mi sueño es vivir una vida tranquila en el campo.
 ita	spa	Il modello di tuta che ha visto Silvia è a righe verdi e bianche.	El modelo de chándal que Silvia ha visto tiene rayas verdes y blancas.
 ita	spa	Il modo migliore di conoscere davvero una persona è vedere come si comporta quando è assolutamente libera di scegliere.	La mejor manera de realmente conocer a una persona es ver cómo se comporta cuando es absolutamente libre de elegir.
@@ -3010,6 +3150,7 @@ ita	spa	Il numero di vittime di quell'incidente fu di 5 morti e 100 feriti.	El n
 ita	spa	Il nuovo paese sarà una repubblica.	El nuevo país se constituirá como república.
 ita	spa	Il nuovo tablet costa un occhio della testa.	La nueva tablet cuesta un ojo de la cara.
 ita	spa	Il padre di Roger Miller morì quando aveva solamente un anno e sua madre si ammalò appena dopo, quindi venne mandato a vivere con suo zio a Erick, Oklahoma.	El padre de Roger Miller murió cuando él tenía apenas un año y su madre enfermó justo después, así que fue enviado a vivir con su tío en Erick, Oklahoma.
+ita	spa	Il paesaggio è davvero straordinario.	El paisaje es verdaderamente extraordinario.
 ita	spa	Il paese si dirige nella giusta direzione.	El país va en la dirección correcta.
 ita	spa	Il Pakistan è un paese musulmano.	Pakistán es un país musulmán.
 ita	spa	Il panda gigante vive solo in Cina.	Los pandas gigantes sólo viven en China.
@@ -3041,6 +3182,7 @@ ita	spa	Il polpo è nel mare.	El pulpo está en el mar.
 ita	spa	Il polpo Paul aveva ragione.	El pulpo Paul tenía razón.
 ita	spa	Il popolo americano ha eletto il sig. Clinton presidente.	El pueblo americano eligió al Sr. Clinton presidente.
 ita	spa	Il popolo si ribellò contro il re.	El pueblo se rebeló contra el rey.
+ita	spa	Il popolo unito non sarà mai sconfitto.	El pueblo unido jamás será vencido.
 ita	spa	Il Portogallo ha depenalizzato il possesso personale di droghe.	Portugal ha despenalizado la posesión personal de drogas.
 ita	spa	Il potere illimitato corrompe la mente di coloro che lo posseggono.	El poder ilimitado corrompe la mente de aquellos que lo poseen.
 ita	spa	Il prezzo della benzina sta aumentando.	El precio de la gasolina sube.
@@ -3084,6 +3226,7 @@ ita	spa	Il re, convinto, disse ai sarti di preparare un abito, ma neanche lui ve
 ita	spa	Il re di Francia è calvo.	El rey de Francia es calvo.
 ita	spa	Il registratore ha registrato la sua voce.	La grabadora ha grabado su voz.
 ita	spa	Il re governò il paese.	El rey gobernó el país.
+ita	spa	Il re vive nel castello.	El rey vive en el castillo.
 ita	spa	Il ricavato andrà in beneficenza a due orfanotrofi in Sud America.	La recaudación se destinará para obras de caridad a dos orfanatos de Sudamérica.
 ita	spa	Il Rinascimento è alla base delle culture europee moderne.	El Renacimiento es la base de la cultura europea moderna.
 ita	spa	Il riscaldamento climatico globale non si è fermato.	El calentamiento global no se ha detenido.
@@ -3195,6 +3338,7 @@ ita	spa	Imprecare allevia il dolore.	Decir groserías alivia el dolor.
 ita	spa	Imprecare allevia il dolore.	Decir tacos alivia el dolor.
 ita	spa	Improvvisamente la strinse tra le braccia.	De repente la estrechó entre sus brazos.
 ita	spa	I muri hanno orecchie.	Las paredes oyen.
+ita	spa	I musulmani credono in Gesù.	Los musulmanes creen en Jesús.
 ita	spa	In agosto non ci sono lezioni.	En agosto no hay clases.
 ita	spa	In alcuni casi, gli omosessuali potevano essere condannati al carcere a vita in Uganda.	En determinados casos, los homosexuales pueden ser condenados a cadena perpetua en Uganda.
 ita	spa	In altre parole, non mi piace lavorare con lui.	En otras palabras, no me gusta trabajar con él.
@@ -3267,7 +3411,9 @@ ita	spa	Insegnare le lingue non è considerato un lavoro facile.	Enseñar idioma
 ita	spa	Insegni lo spagnolo?	¿Enseñas español?
 ita	spa	Insegno cinese.	Enseño chino.
 ita	spa	Insieme tutto è possibile!	¡Juntos, todo es posible!
+ita	spa	Insisté che andassi.	Insistió en que fuese.
 ita	spa	Insistere è testardaggine. Perseverare è determinazione.	Insistir es terquedad. Perseverar es determinación.
+ita	spa	Insistette che andassi.	Insistió en que fuese.
 ita	spa	In spagnolo sei non ha accento, però sedici sì.	En español seis no lleva acento, pero dieciséis sí.
 ita	spa	In tempi di abbondanza ricorda la carestia.	En tiempo de abundancia, recuerda la carestía.
 ita	spa	Interessante.	Interesante...
@@ -3311,6 +3457,8 @@ ita	spa	Io devo studiare l'italiano.	Debo estudiar italiano.
 ita	spa	Io dirò sempre la verità.	Siempre digo la verdad.
 ita	spa	Io di solito lo incontro al bar.	Normalmente me encuentro con él en la cafetería.
 ita	spa	Io e Bill siamo buoni amici.	Bill y yo somos buenos amigos.
+ita	spa	Io e lei siamo amiche.	Ella y yo somos amigas.
+ita	spa	Io e lei siamo amici.	Ella y yo somos amigos.
 ita	spa	Io ero arrivato in Italia senza difficoltà.	Había llegado a Italia sin problemas.
 ita	spa	Io ero arrivato in Italia senza difficoltà.	Había venido a Italia sin problemas.
 ita	spa	Io ero molto arrabbiata all'epoca.	Estaba muy molesta entonces.
@@ -3318,6 +3466,7 @@ ita	spa	Io ero molto nervoso all'epoca.	Yo estaba muy nervioso en esa época.
 ita	spa	Io ero uno degli studenti migliori della classe.	Yo era uno de los mejores alumnos de la clase.
 ita	spa	Io esco tra dieci minuti.	Salgo en diez minutos.
 ita	spa	Io esisto?	¿Yo existo?
+ita	spa	Io e Tom ci divertimmo alla festa.	Tom y yo nos divertimos en la fiesta.
 ita	spa	Io fumo sigarette.	Yo fumo cigarrillos.
 ita	spa	Io ho affermato che era innocente.	Yo he afirmado que era inocente.
 ita	spa	Io ho affermato che lui era innocente.	Yo he afirmado que él era inocente.
@@ -3489,6 +3638,7 @@ ita	spa	Io parlo l'esperanto.	Hablo esperanto.
 ita	spa	Io parlo lituano.	Hablo lituano.
 ita	spa	Io passerò più tardi.	Yo pasaré más tarde.
 ita	spa	Io pensavo che Tom l'avrebbe detto.	Yo pensaba que Tom lo habría dicho.
+ita	spa	Io penso a te.	Yo pienso en ti.
 ita	spa	Io penso che lei sia l'unica a cui importa.	Yo creo que usted es la única a la que le importa.
 ita	spa	Io penso che lei sia l'unico a cui importa.	Yo creo que usted es el único al que le importa.
 ita	spa	Io penso che non sia colpa di nessuno.	Pienso que nadie tiene la culpa.
@@ -3727,14 +3877,18 @@ ita	spa	Kobe è la città che preferisco.	Kobe es la ciudad que prefiero.
 ita	spa	"Kyoto" è un anagramma di "Tokyo".	"Kioto" es un anagrama de "Tokio".
 ita	spa	La balena canta.	La ballena canta.
 ita	spa	La bambina ha paura del buio.	La niña tiene miedo a la oscuridad.
+ita	spa	La bambina ha un palloncino blu.	La niña tiene una pelotita azul.
 ita	spa	La bambina sta leggendo felice.	La pibita está leyendo feliz.
 ita	spa	La banana è dolce.	El plátano es dulce.
+ita	spa	La bandiera è blu.	La bandera es azul.
 ita	spa	La barba non fa il filosofo.	La barba no hace al filósofo.
 ita	spa	La barra spaziatrice è un tasto di una tastiera alfanumerica.	La barra espaciadora es una tecla en un teclado alfanumérico.
 ita	spa	La battaglia di Waterloo è diventata famosa.	La batalla de Waterloo se hizo famosa.
 ita	spa	L'abbandono di minore è un reato.	El abandono de menores es un delito.
 ita	spa	La bellezza è opinabile, sulla bruttezza sono tutti d'accordo.	La belleza es un tema opinable, sobre la fealdad todos estamos de acuerdo.
 ita	spa	La bibita è davvero deliziosa.	El refresco es muy delicioso.
+ita	spa	La bicicletta deve essere riparata.	Hay que reparar la bicicleta.
+ita	spa	La bicicletta deve essere riparata.	La bicicleta debe ser reparada.
 ita	spa	La bionda ha davvero un bel davanzale.	La rubia tiene muy buena pechuga.
 ita	spa	La bomba atomica ha completamente distrutto la città di Hiroshima.	La bomba atómica destruyó por completo la ciudad de Hiroshima.
 ita	spa	La calcolatrice mostrò la risposta corretta.	La calcula mostró la respuesta correcta.
@@ -3793,6 +3947,7 @@ ita	spa	La costa dell'Inghilterra ha molte baie.	La costa de Inglaterra tiene mu
 ita	spa	La costruzione ha dodici piani.	El edificio tiene doce pisos.
 ita	spa	L'acqua aiuta loro a sopravvivere?	¿El agua les ayuda a sobrevivir?
 ita	spa	L'acqua è composta di ossigeno e idrogeno.	El agua está formada por oxígeno e hidrógeno.
+ita	spa	L'acqua e il ghiaccio hanno creato delle buche su quella strada.	El agua y el hielo han hecho baches en ese camino.
 ita	spa	L'acqua e i sali minerali sono sostanze inorganiche.	El agua y las sales minerales son substancias inorgánicas.
 ita	spa	L'acqua è pura.	El agua es pura.
 ita	spa	L'acqua è verde.	El agua es verde.
@@ -3824,10 +3979,13 @@ ita	spa	La donna sta leggendo.	La mujer está leyendo.
 ita	spa	La elessero Presidente.	A ella la eligieron Presidenta.
 ita	spa	L'aereo atterrò precisamente alle 6.	El avión aterrizó exactamente a las seis horas.
 ita	spa	L'aereo sta per decollare.	El avión está por despegar.
+ita	spa	L'aereo sta volando.	El avión está volando.
+ita	spa	L'aereo vola.	El avión vuela.
 ita	spa	L'aeroporto era chiuso a causa della nebbia.	El aeropuerto está cerrado a causa de la niebla.
 ita	spa	La famiglia di Tom vive a Boston.	La familia de Tom vive en Boston.
 ita	spa	La famiglia è troppo povera per ripagare i debiti.	La familia es demasiado pobre para pagar las deudas.
 ita	spa	La farfalla si è posata sulla mano.	La mariposa se posó sobre la mano.
+ita	spa	La farfalla stava volando.	La mariposa estaba volando.
 ita	spa	La fede cieca nell'autorità è il peggior nemico della verità.	La fe ciega hacia la autoridad es el peor enemigo de la verdad.
 ita	spa	La felicità non è un'applicazione che puoi scaricare sul tuo telefono.	La felicidad no es una aplicación que puedas descargar en tu teléfono.
 ita	spa	La felicità non può essere comprata.	La felicidad no puede ser comprada.
@@ -3842,6 +4000,7 @@ ita	spa	La forma dell'edificio assomiglia a un fiore.	La forma del edificio se a
 ita	spa	La fortuna è cieca.	La fortuna es ciega.
 ita	spa	La foto è la prima cosa che si nota.	La foto es lo primero que se nota.
 ita	spa	La fragola cresce selvatica nei boschi.	La frutilla crece salvaje en los bosques.
+ita	spa	La frase non è completa.	La frase no está completa.
 ita	spa	L'Africa del Nord adotta il monofisismo in segno di protesta.	África del Norte adopta el monofisismo en señal de protesta.
 ita	spa	L'Africa è un continente.	África es un continente.
 ita	spa	L'Africa non è un paese.	África no es un país.
@@ -3859,16 +4018,20 @@ ita	spa	La gente qui è molto accogliente.	La gente de aquí es muy acogedora.
 ita	spa	La gente razzista è ignorante.	La gente racista es ignorante.
 ita	spa	La gente si è alzata.	La gente se levantó.
 ita	spa	La gente sta fuori.	La gente está afuera.
+ita	spa	La gente va e viene.	La gente va y viene.
+ita	spa	La gente va e viene.	La gente viene y va.
 ita	spa	La gente vede, sente e parla, purtroppo però vede male, sente poco e parla troppo.	La gente ve, escucha y habla, pero por desgracia ve mal, oye poco y habla demasiado.
 ita	spa	La giornata non è ancora conclusa.	El día no se ha acabado aún.
 ita	spa	La giornata non è ancora conclusa.	La jornada no ha concluido todavía.
 ita	spa	La gioventù scompare presto.	La juventud pronto se esfuma.
+ita	spa	La giraffa sopravvisse all'attacco del leone.	La jirafa sobrevivió al ataque del león.
 ita	spa	La giuria era stata imparziale.	El jurado fue imparcial.
 ita	spa	L´agnosia è una malattia che impedisce di riconoscere i parenti.	La agnosia es una enfermedad que impide reconocer a los familiares.
 ita	spa	La grande flessibilità di questa lingua mi affascina.	La gran flexibilidad de esa lengua me fascina.
 ita	spa	La grande flessibilità di questo linguaggio mi affascina.	La gran flexibilidad de esa lengua me fascina.
 ita	spa	La guerra continua.	La guerra continúa.
 ita	spa	La guerra durò due anni.	La guerra duró dos años.
+ita	spa	La guerra esisterà sempre, finché l'uomo non conoscerà finalmente se stesso.	La guerra siempre existirá, hasta que el hombre finalmente se conozca a sí mismo.
 ita	spa	La Guerra Fredda continuava.	La Guerra Fría proseguía.
 ita	spa	La guerra non è inevitabile.	La guerra no es inevitable.
 ita	spa	Là ho comprato libri, riviste e giornali.	Allí he comprado libros, revistas y periódicos.
@@ -3881,6 +4044,7 @@ ita	spa	La legalizzazione di qualcosa non è sempre un fatto positivo.	La legali
 ita	spa	La legge è la legge.	La ley es la ley.
 ita	spa	La lettera B deriva dal pittogramma egizio per "casa", che si dice "bayit" in semitico, da cui "beta".	La letra B proviene de la pictografía egipcia para "casa", que se dice, "Bait" en semítico, por tanto, "beta".
 ita	spa	L'Algeria è il paese più grande dell'Africa.	Argelia es el país más grande de África.
+ita	spa	L'Algeria investe ancora miliardi nello sviluppo urbano.	Argelia todavía invierte miles de millones en desarrollo urbano.
 ita	spa	La libertà non è gratuita.	La libertad no es gratis.
 ita	spa	L'allocco bubola.	El cárabo ulula.
 ita	spa	L'allodola canta.	La alondra canta.
@@ -3889,6 +4053,7 @@ ita	spa	La logica e il buon senso suggeriscono che la Russia, l'Unione Europea e
 ita	spa	La luce delle candele crea una piacevole atmosfera per una notte d'inverno.	La luz de las velas crea una agradable atmósfera para una noche de invierno.
 ita	spa	La luce viaggia più veloce del suono.	La luz viaja más rápido que el sonido.
 ita	spa	La Luna gira intorno alla Terra.	La Luna gira alrededor de la Tierra.
+ita	spa	La luna non è vuota, Tom.	La luna no es hueca, Tom.
 ita	spa	La luna si trova dietro le nuvole.	La luna está detrás de las nubes.
 ita	spa	La macchina corre veloce.	El automóvil corre rápido.
 ita	spa	La macchina di mio zio è più veloce della mia.	El coche de mi tío es más rápido que el mío.
@@ -3908,6 +4073,7 @@ ita	spa	La mancanza di trasparenza è problematica.	La falta de transparencia es
 ita	spa	La mancanza di trasparenza è un problema.	La falta de transparencia es un problema.
 ita	spa	La mano destra non sa quello che fa la sinistra.	La mano derecha no sabe lo que hace la izquierda.
 ita	spa	La mano ha cinque dita.	La mano tiene cinco dedos.
+ita	spa	La mantide femmina divora il maschio dopo la copula.	La mantis hembra devora al macho tras la cópula.
 ita	spa	La marmotta è immortale.	La marmota es inmortal.
 ita	spa	La matematica è il suo punto debole.	Las matemáticas son su punto débil.
 ita	spa	La matematica è la base di tutte le scienze.	Las matemáticas son la base de todas las ciencias.
@@ -3943,6 +4109,7 @@ ita	spa	La mia lingua madre è il giapponese.	Mi lengua materna es el japonés.
 ita	spa	La mia lingua madre è il portoghese.	Mi lengua materna es el portugués.
 ita	spa	La mia lingua madre è l'ungherese.	Mi lengua materna es el húngaro.
 ita	spa	La mia lingua non si trova nella lista!	¡Mi idioma no se encuentra en la lista!
+ita	spa	La mia macchina è più vecchia di te.	Mi coche es más viejo que tú.
 ita	spa	La mia mente è combattuta.	Estoy indeciso.
 ita	spa	La mia migliore amica è islandese.	Mi mejor amiga es islandesa.
 ita	spa	La mia migliore amica si chiama Domenica.	Mi mejor amiga se llama Dominga.
@@ -3961,6 +4128,7 @@ ita	spa	La Mongolia si chiama "Mongol Uls" in mongolo.	Mongolia se llama "Mongol
 ita	spa	L'amore è per gli adolescenti.	El amor es para adolescentes.
 ita	spa	L'amore eterno non esiste.	El amor eterno no existe.
 ita	spa	L'amore è un'altra cosa!	¡El amor es otra cosa!
+ita	spa	L´amore è una strana forza che ti arriva al cuore e ti esplode nell´anima.	El amor es una extraña fuerza que te llega al corazón y te explota en el alma.
 ita	spa	L'amore non perdona.	El amor no perdona.
 ita	spa	L'amore non si costruisce in un giorno.	El amor no se construye en un día.
 ita	spa	L'amore per il denaro è comune a tutti gli uomini.	El amor por el dinero es común a todos los hombres.
@@ -3988,6 +4156,7 @@ ita	spa	La nebbia gli impediva di vedere molto lontano.	La niebla no le dejaba v
 ita	spa	La necessità è la madre dell'invenzione.	La necesidad es la madre de la invención.
 ita	spa	La necessità non conosce legge.	La necesidad no conoce leyes.
 ita	spa	La neve cominciò a sciogliersi.	La nieve empezó a derretirse.
+ita	spa	L'anima è diversa dal corpo.	El alma es diferente del cuerpo.
 ita	spa	L'anno scorso ho letto più di cinquanta libri.	El año pasado leí más de cincuenta libros.
 ita	spa	L'anno scorso Tom ha letto 30 libri.	El año pasado, Tom leyó treinta libros.
 ita	spa	La nostra biblioteca è al terzo piano.	Nuestra biblioteca está en el tercer piso.
@@ -3998,9 +4167,11 @@ ita	spa	La nostra squadra portava delle magliette rosse.	Nuestro equipo llevaba 
 ita	spa	La notizia dice che c'è stato un forte terremoto in Grecia.	La noticia dice que hubo un fuerte terremoto en Grecia.
 ita	spa	La notte siberiana è molto lunga.	La noche siberiana es muy larga.
 ita	spa	L'anziano ha provato a nuotare per cinque chilometri.	El anciano intentó nadar cinco kilómetros.
+ita	spa	La pace si ottiene solo con la guerra?	¿La paz sólo se consigue con la guerra?
 ita	spa	La pace si ristabilì dopo tre anni di guerra.	Ha vuelto la paz después de tres años de guerra.
 ita	spa	La parola d'accesso è "Muiriel".	La contraseña es "Muiriel".
 ita	spa	La parola è d'argento ma il silenzio è d'oro.	La palabra es plata y el silencio oro.
+ita	spa	La parola giapponese "namida", che significa lacrime, fa rima con la parola "Amida", che è il Buddha della Terra Pura, dove i seguaci possono raggiungere più facilmente l'illuminazione.	La palabra japonesa "namida", que significa lágrimas, rima con la palabra "Amida", quien es el Buda de la Tierra Pura, donde los seguidores pueden alcanzar la iluminación más fácilmente.
 ita	spa	La parola "tomorrow" ha l'accento nella seconda sillaba.	La palabra "tomorrow" lleva el acento en la segunda sílaba.
 ita	spa	La parola "vangelo" significa "buon messaggio."	La palabra evangelio significa buena nueva.
 ita	spa	La partita di domenica sarà decisiva.	El partido del domingo será decisivo.
@@ -4038,6 +4209,7 @@ ita	spa	La povertà non è un disonore.	La pobreza no es una deshonra.
 ita	spa	L'appetito vien mangiando.	Comiendo se abre el apetito.
 ita	spa	La pratica è più importante della teoria.	La práctica es más importante que la teoría.
 ita	spa	La prego di farmi sapere la sua opinione su questo articolo.	Le ruego me dé su opinión sobre este artículo.
+ita	spa	La prima tariffa è di venti euro.	La primera tarifa es de veinte euros.
 ita	spa	La produzione della carta fu per molto tempo un segreto di stato.	La fabricación de papel fue durante mucho tiempo, un secreto de Estado.
 ita	spa	La produzione di questa fabbrica è aumentata del 20%.	La producción de esta fábrica ha aumentado un 20%.
 ita	spa	La proprietà viene tripartita.	La propiedad viene dividida en tres.
@@ -4119,6 +4291,7 @@ ita	spa	La scuola non finisce oggi.	El curso no termina hoy.
 ita	spa	La scuola non ha tutto.	La escuela no tiene todo.
 ita	spa	La Seconda Guerra Mondiale cominciò nel 1939.	La Segunda Guerra Mundial comenzó en 1939.
 ita	spa	La sedia di plastica è economica.	La silla de plástico es barata.
+ita	spa	La sedia è molto piccola.	La silla es muy pequeña.
 ita	spa	La segretaria introdusse la lettere nella busta.	La secretaria introdujo la carta en el sobre.
 ita	spa	La semplicità è la chiave.	La simplicidad es la clave.
 ita	spa	La sera precedente, Miguel aveva visto alcune ombre entrare dalla finestra e danzare sulla parete della sua camera, proprio di fronte al suo letto.	La noche anterior, Miguel había visto algunas sombras entrar por la ventana y bailar en la pared de su habitación, justo enfrente de su cama.
@@ -4130,6 +4303,7 @@ ita	spa	L'asino raglia.	El asno rebuzna.
 ita	spa	L'asino raglia.	El burro rebuzna.
 ita	spa	La situazione è molto complicata.	La situación es muy complicada.
 ita	spa	La situazione sociale e politica è gravissima.	La situación social y política es muy grave.
+ita	spa	La smetta di seguirmi!	¡Deje de seguirme!
 ita	spa	La sorella di Joao si chiama Joana.	La hermana de Joao se llama Joana.
 ita	spa	La sorella di Tom, Mary, ora è a Boston.	Mary, la hermana de Tom, está ahora en Boston.
 ita	spa	La Spagna era uno dei paesi più forti al mondo.	España fue una de las naciones más poderosas del mundo.
@@ -4172,6 +4346,7 @@ ita	spa	La sua storia è strana, ma credibile.	Su historia es extraña, pero cre
 ita	spa	La sua storia è strana, ma è credibile.	Su historia es extraña, pero es creíble.
 ita	spa	La sua storia è vera?	¿Es cierta su historia?
 ita	spa	La sua storia è vera.	Su historia es verdadera.
+ita	spa	La sua tastiera è sporca.	Su teclado está sucio.
 ita	spa	La sua teoria è difficile da comprendere.	Su teoría es difícil de entender.
 ita	spa	La sua voce era appena percettibile a causa del rumore.	Su voz apenas era audible debido al ruido.
 ita	spa	La Svezia ha la sua propria lingua.	Suecia tiene su propia lengua.
@@ -4204,6 +4379,7 @@ ita	spa	La tua opinione è molto distante dalla mia.	Tu opinión es muy distante
 ita	spa	La tua pronuncia è eccellente.	Tu pronunciación es excelente.
 ita	spa	La tua risposta è corretta.	Tu respuesta es correcta.
 ita	spa	La tua risposta è giusta.	Tu respuesta es correcta.
+ita	spa	La tua tastiera è sporca.	Tu teclado está sucio.
 ita	spa	La tua torta è deliziosa.	Tu tarta está deliciosa.
 ita	spa	La Turchia era più forte della Grecia.	Turquía fue más fuerte que Grecia.
 ita	spa	La tuta da ginnastica mi è diventata piccola.	Se me quedó pequeño el chándal.
@@ -4213,6 +4389,7 @@ ita	spa	L'aumento della delinquenza giovanile è un problema grave.	El increment
 ita	spa	Laura sta seguendo il telegiornale.	Laura está viendo el telediario.
 ita	spa	Laurie è una ragazza.	Laurie es una niña.
 ita	spa	L'aurora, con le rosee sue dita, carezza di fiori lo stuolo.	El amanecer, con sus dedos rosados, acaricia a la multitud con flores.
+ita	spa	L'autobus non c'era.	El autobús no estaba.
 ita	spa	L'auto di Fabio è posteggiata di fronte alla casa di Elena.	El coche de Fabio está aparcado enfrente de la casa de Elena.
 ita	spa	L'auto di mia sorella è rosa.	El coche de mi hermana es rosa.
 ita	spa	L'auto è molto veloce.	El auto es muy rápido.
@@ -4266,6 +4443,7 @@ ita	spa	Lavora dalle nove alle cinque e mezza.	Trabaja desde las nueve hasta las
 ita	spa	Lavorando come postino riesco a mandare avanti una famiglia.	Trabajando como cartero logro sacar adelante a una familia.
 ita	spa	Lavora notte e giorno.	Trabaja noche y día.
 ita	spa	Lavora per una grande società.	Trabaja en una empresa grande.
+ita	spa	Lavoravo in un ristorante.	Yo trabajaba en un restaurante.
 ita	spa	Lavori a Milano.	Trabajas en Milán.
 ita	spa	Lavoro come operaio in un'officina.	Trabajo como obrero en un taller.
 ita	spa	Lavoro come una schiava 10 ore al giorno.	Trabajo como esclava diez horas al día.
@@ -4281,6 +4459,7 @@ ita	spa	Lavoro per una impresa marittima.	Trabajo para una empresa marítima.
 ita	spa	Lavoro qui.	Trabajo aquí.
 ita	spa	Lavoro tre ore ogni domenica mattina.	Trabajo tres horas cada domingo por la mañana.
 ita	spa	La vostra pronuncia è eccellente.	Vuestra pronunciación es excelente.
+ita	spa	La vostra tastiera è sporca.	Vuestro teclado está sucio.
 ita	spa	L'avvocato lo stava aspettando.	El abogado estaba esperándolo.
 ita	spa	L'avvocato lo stava aspettando.	El abogado le esperaba.
 ita	spa	L'avvocato può vedermi venerdì?	¿Puede el abogado verme el viernes?
@@ -4299,6 +4478,8 @@ ita	spa	Le bugie hanno le gambe corte.	La mentira tiene patas cortas.
 ita	spa	Le cantine sono allagate.	Los sótanos están anegados.
 ita	spa	Le carote costano tre dollari.	Las zanahorias cuestan tres dólares.
 ita	spa	Le chiese di sposarlo, ma lei non accettò.	Le pidió que se casara con él, pero ella no aceptó.
+ita	spa	Le città sono i crogioli della civiltà.	Las ciudades son los crisoles de la civilización.
+ita	spa	Le condizioni di Tom sono gravi.	El estado de Tom es grave.
 ita	spa	Le cose belle della vita durano sempre troppo poco.	Las cosas buenas de la vida siempre duran poco.
 ita	spa	L'edificio bianco fu distrutto dal terremoto.	El edificio blanco fue destruido por el terremoto.
 ita	spa	L'edificio è blu.	El edificio es azul.
@@ -4314,6 +4495,7 @@ ita	spa	Le foglie volteggiavano nel patio.	Las hojas se arremolinaban en el pati
 ita	spa	Leggere mi rende felice.	Leer me hace feliz
 ita	spa	Leggere molti libri è una buona cosa.	Es bueno leer muchos libros.
 ita	spa	Leggi fra le righe.	Lee entre las líneas.
+ita	spa	Leggo un libro spagnolo.	Leo un libro español.
 ita	spa	Le giornate stanno diventando più lunghe.	Los días se alargan.
 ita	spa	Le giornate stanno diventando più lunghe.	Los días se están haciendo más largos.
 ita	spa	Le giornate stanno diventando più lunghe.	Los días se hacen mas largos.
@@ -4327,6 +4509,7 @@ ita	spa	Lei adora i gatti.	Ella adora a los gatos.
 ita	spa	Lei adora i gatti.	Ella adora los gatos.
 ita	spa	Lei ama Tom.	Ella quiere a Tom.
 ita	spa	Lei arò il campo.	Ella aró el campo.
+ita	spa	Lei aveva un bambino.	Ella tenía un niño.
 ita	spa	Lei beve del tè.	Usted bebe té.
 ita	spa	Lei cantava una canzone di cui non so il nome.	Ella cantaba una canción cuyo nombre no lo sé.
 ita	spa	Lei coltiva pomodori nel suo giardino.	Ella cultiva tomates en su jardín.
@@ -4350,6 +4533,7 @@ ita	spa	Lei è iperattiva.	Ella es hiperactiva.
 ita	spa	Lei è la maggiore delle due sorelle.	Ella es la mayor de las dos hermanas.
 ita	spa	Lei è la mia madrina.	Ella es mi madrina.
 ita	spa	Lei è la mia migliore amica.	Ella es mi mejor amiga.
+ita	spa	Lei è la mia protettrice.	Ella es mi protectora.
 ita	spa	Lei è la mia unica fonte di ispirazione.	Ella es mi única fuente de inspiración.
 ita	spa	Lei è la moglie di Alain.	Ella es la esposa de Alain.
 ita	spa	Lei è la nostra vicina.	Es nuestra vecina.
@@ -4379,6 +4563,7 @@ ita	spa	Lei farebbe la stessa cosa se fosse in me.	Ella haría lo mismo si fuera
 ita	spa	Lei fuma moltissimo.	Ella fuma como un carretero.
 ita	spa	Lei ha accettato la sfida, ora affronti le conseguenze.	Usted aceptó el desafío, ahora encare las consecuencias.
 ita	spa	Lei ha alcuni libri.	Ella tiene algunos libros.
+ita	spa	Lei ha avuto una buona idea.	Ella tuvo una buena idea.
 ita	spa	Lei ha bevuto troppo.	Usted tomó demasiado.
 ita	spa	Lei ha bisogno del nostro aiuto.	Ella necesita de nuestra ayuda.
 ita	spa	Lei ha circa quarant'anni.	Ella tiene más o menos cuarenta años.
@@ -4443,6 +4628,7 @@ ita	spa	Lei portò le tovaglie in lavanderia.	Ella llevó las toallas a la lavan
 ita	spa	Lei preferisce la musica calma, barocca, ad esempio.	Ella prefiere música tranquila; barroca, por ejemplo.
 ita	spa	Lei prese la mia mano.	Ella me agarró la mano.
 ita	spa	Lei quante e-mail scrive ogni giorno?	¿Usted cuántos correos escribe cada día?
+ita	spa	Lei raccolse i giochi.	Ella recogió los juguetes.
 ita	spa	Lei risponde alle domande?	¿Ella responde a las preguntas?
 ita	spa	Lei sa pattinare.	Ella sabe patinar.
 ita	spa	Lei sa tutto.	Usted sabe todo.
@@ -4501,9 +4687,12 @@ ita	spa	Le opinioni variano da persona a persona.	Las opiniones varían de una p
 ita	spa	Le ore del mattino hanno l'oro in bocca.	A quien madruga Dios le ayuda.
 ita	spa	Le parole fanno più male dei pugni!	¡Las palabras hacen más daño que los puños!
 ita	spa	Le persone che abitano qui sono nostri amici.	Los que viven ahí son amigos nuestros.
+ita	spa	Le persone più belle non sono perfette, sono speciali.	Las personas más bellas no son perfectas, son especiales.
 ita	spa	Le persone sorde sono in grado di leggere bene il labiale.	Las personas sordas pueden leer bien los labios.
 ita	spa	Le persone sotto i 18 anni non si sposano.	Las personas menores de 18 años no se casan.
 ita	spa	Le persone stavano gridando.	Las personas estaban gritando.
+ita	spa	Le persone vanno e vengono.	Las personas van y vienen.
+ita	spa	Le persone vanno e vengono.	Las personas vienen y van.
 ita	spa	Le piacciono i giochi di parole.	A ella le gustan los juegos de palabras.
 ita	spa	Le piacciono la pioggia e la neve.	Le gusta la lluvia y la nieve.
 ita	spa	Le piacciono le mele?	¿Te gustan las manzanas?
@@ -4526,6 +4715,7 @@ ita	spa	L'errore è stato corretto.	El error ha sido corregido.
 ita	spa	L’errore si verifica regolarmente o sporadicamente? L’errore è riproducibile?	¿El error aparece de forma regular o esporádica? ¿El error es reproducible?
 ita	spa	L'esame che ha fatto la settimana scorsa era molto difficile.	El examen que hizo la semana pasada era muy difícil.
 ita	spa	Le scimmie sono intelligenti.	Los simios son inteligentes.
+ita	spa	L'esercito è pronto a rispondere alla minaccia.	El ejército está preparado para responder a la amenaza.
 ita	spa	L'esercizio fisico è di vitale importanza per un cane.	El ejercicio físico es de vital importancia para un perro.
 ita	spa	L’esito della battaglia fu ancora una volta disastroso per le nostre truppe.	El resultado de la batalla, una vez más fue desastroso para nuestras tropas.
 ita	spa	Le soddisfazioni si ottengono con impegno e dedizione, ma senza un team così accanito non sarebbe stato possibile credere tanto in me stessa!	¡Las satisfacciones se logran con empeño y dedicación, pero sin un equipo tan entregado no hubiera podido creer tanto en mí misma!
@@ -4586,6 +4776,7 @@ ita	spa	L'ho visto correre.	Lo vi correr.
 ita	spa	L'ho visto e ti ho pensato.	Lo he visto y he pensado en ti.
 ita	spa	L'ho visto uscire dall'albergo.	Lo vi saliendo del hotel.
 ita	spa	Libera la tua mente da tutti i pensieri inutili.	Libera tu mente de todos los pensamientos inútiles.
+ita	spa	Liberate la Cabilia!	¡Liberen a Cabilia!
 ita	spa	L'idiozia umana non ha limite.	La idiotez humana no tiene límites.
 ita	spa	Li ho visti giocare a baseball.	Les vi jugar al béisbol.
 ita	spa	L'immaginazione è più importante della conoscenza, perché la conoscenza è limitata.	La imaginación es más importante que el conocimiento, porque el conocimiento es limitado.
@@ -4640,6 +4831,7 @@ ita	spa	Lo conosco solo di nome.	Yo a él sólo lo conozco de nombre.
 ita	spa	Lo consiglio fortemente.	Lo recomiendo enfáticamente.
 ita	spa	Lo devo dire a qualcuno.	Se lo tengo que decir a alguien.
 ita	spa	L'odore della spazzatura arriva fino al cielo.	La basura huele bien gacho.
+ita	spa	Lo faccio perché mi piace farlo.	Lo hago porque me gusta hacerlo.
 ita	spa	Lo faccio subito.	Lo hago enseguida.
 ita	spa	Lo fa quando è triste.	Lo hace cuando está triste.
 ita	spa	Lo farà in 24 ore.	Lo hará en 24 horas.
@@ -4672,6 +4864,9 @@ ita	spa	Loro hanno le stesse abitudini.	Tienen los mismos hábitos.
 ita	spa	Loro hanno perso molto.	Ellos han perdido mucho.
 ita	spa	Loro hanno un hobby comune.	Ellos tienen un hobby en común.
 ita	spa	Loro lo chiamano Jim.	Ellos lo llaman Jim.
+ita	spa	L'orologio di Tom è stato rubato.	A Tom le han robado el reloj.
+ita	spa	L'orologio di Tom è stato rubato.	El reloj de Tom ha sido robado.
+ita	spa	L'orologio di Tom è stato rubato.	Han robado el reloj de Tom.
 ita	spa	L'orologio non funziona.	El reloj no funciona.
 ita	spa	L'orologio si è rotto.	El reloj se rompió.
 ita	spa	L'orologio stava ticchettando.	El reloj estaba haciendo tictac.
@@ -4699,6 +4894,7 @@ ita	spa	Loro stanno parlando di musica.	Están hablando de música.
 ita	spa	Loro studiano matematica.	Estudian matemáticas.
 ita	spa	Loro vanno a lavorare a Osaka l'anno prossimo.	Ellos van a trabajar a Osaka el año próximo.
 ita	spa	Loro vinsero la lotteria.	Ellos se ganaron la lotería.
+ita	spa	Loro vivono abbastanza in isolamento.	Viven bastante aislados.
 ita	spa	Loro vivono in una casa affittata.	Viven en una casa alquilada.
 ita	spa	Lo sai che sei bella?	¿Sabes que eres hermosa?
 ita	spa	Lo sanno tutti, però non mi importa.	Todos lo saben, pero no me importa.
@@ -4745,6 +4941,7 @@ ita	spa	Lui canta molto bene.	Él canta muy bien.
 ita	spa	Lui cerca un impiego.	Él está buscando empleo.
 ita	spa	Lui ci portò allo zoo.	Él nos llevó al zoológico.
 ita	spa	Lui come si chiama?	¿Cómo se llama?
+ita	spa	Lui conduce uno stile di vita solitario.	Él lleva un estilo de vida solitario.
 ita	spa	Lui continuava a lavorare.	Él continuaba trabajando.
 ita	spa	Lui deve parlare inglese.	Él tiene que hablar inglés.
 ita	spa	Lui dormiva come un sasso.	Él dormía como una piedra.
@@ -4770,6 +4967,7 @@ ita	spa	Lui e io siamo cugini.	Él y yo somos primos.
 ita	spa	Lui è italiano.	Él es italiano.
 ita	spa	Lui è l'autore dell'articolo.	Él es el autor del artículo.
 ita	spa	Lui è Li Ying.	Él es Li Ying.
+ita	spa	Lui è l'orgoglio della famiglia.	Él es el orgullo de la familia.
 ita	spa	Lui è l'unico bambino che hanno.	Él es el único hijo que tienen.
 ita	spa	Lui è mio marito.	Él es mi marido.
 ita	spa	Lui è molto coraggioso.	Él es muy valiente.
@@ -4788,6 +4986,7 @@ ita	spa	Lui è precisamente l'uomo che cerchiamo.	Precisamente él es el hombre 
 ita	spa	Lui è puntuale.	Él es puntual.
 ita	spa	Lui è quello che noi chiamiamo un genio della musica.	Él es lo que llamamos un genio de la música.
 ita	spa	Lui era la persona più suscettibile che io abbia avuto la sfortuna di conoscere!	¡Él era la persona más enojona que tuve la mala suerte de conocer!
+ita	spa	Lui era presente alla festa.	Él estaba presente en la fiesta.
 ita	spa	Lui era seduto lì.	Él estaba sentado allí.
 ita	spa	Lui era un musicista cattivo.	Él era un músico malo.
 ita	spa	Lui era un musicista povero.	Él era un músico pobre.
@@ -4849,6 +5048,7 @@ ita	spa	Lui ha una grande famiglia.	Él tiene una familia grande.
 ita	spa	Lui ha una macchina giapponese.	Él tiene un auto japonés.
 ita	spa	Lui ha una macchina giapponese.	Tiene un auto japonés.
 ita	spa	Lui ha una memoria degna di nota.	Él tiene una memoria notable.
+ita	spa	Lui ha una passione per la pesca.	Él tiene pasión por la pesca.
 ita	spa	Lui ha una racchetta.	Él tiene una raqueta.
 ita	spa	Lui ha un cane.	Él tiene un perro.
 ita	spa	Lui ha un complesso di superiorità.	Él tiene complejo de superioridad.
@@ -4859,6 +5059,7 @@ ita	spa	Lui lavora in una fabbrica.	Trabaja en una fábrica.
 ita	spa	Lui lavorò senza pausa dalla mattina alla sera.	Él trabajó sin pausa desde la mañana hasta la noche.
 ita	spa	Lui le dà tutto quello che chiede.	Él le da todo lo que pide.
 ita	spa	Lui le doveva molto.	Él le debía mucho.
+ita	spa	Lui le spediva dei soldi.	Él le daba el sueldo.
 ita	spa	Lui l'ha provato con un amico.	Lo intentó con un amigo.
 ita	spa	Lui lo spiegò in dettaglio.	Se lo explicó con detalle.
 ita	spa	Lui mi ama. Ma io non amo lui.	Él me ama. Pero yo no lo amo a él.
@@ -4891,6 +5092,7 @@ ita	spa	Lui non l'ha comprato.	Él no la compró.
 ita	spa	Lui non lo sa ancora, ma è già morto.	Él todavía no lo sabe, pero ya está muerto.
 ita	spa	Lui non mi ascolta.	No me escucha.
 ita	spa	Lui non mi conosce.	Él no me conoce.
+ita	spa	Lui non rivedrà mai più la sua patria.	Nunca más volverá para ver su tierra natal.
 ita	spa	Lui non sa cosa fare.	Él no sabe qué hacer.
 ita	spa	Lui non sopravviverà più di un giorno.	Él no va a sobrevivir más de un día.
 ita	spa	Lui non vide nessuno.	No vio a nadie.
@@ -4902,6 +5104,7 @@ ita	spa	Lui parla portoghese.	Él habla portugués.
 ita	spa	Lui perde tempo.	Él pierde tiempo.
 ita	spa	Lui porta gli occhiali.	Él lleva gafas.
 ita	spa	Lui prende in prestito l'automobile dal suo vicino.	Él toma prestado el auto de su vecino.
+ita	spa	Lui prende uno stipendio a sei cifre.	Él cobra un sueldo de seis cifras.
 ita	spa	Lui riconosce colori e forme.	Reconoce colores y formas.
 ita	spa	Lui scrive una lettera.	Él escribe una carta.
 ita	spa	Lui sentì un suono, si spaventò e si bloccò.	Él escuchó un ruido, se asustó y se quedó paralizado.
@@ -4910,11 +5113,14 @@ ita	spa	Lui si è laureato ad Harvard.	Él se ha graduado de Harvard.
 ita	spa	Lui si è seduto lì.	Él se ha sentado allí.
 ita	spa	Lui si laureò ad Harvard.	Él se graduó de Harvard.
 ita	spa	Lui si sedette vicino a lei.	Él se sentó junto a ella.
+ita	spa	Lui si stava avvicinando.	Él se estaba acercando.
 ita	spa	Lui spera di visitare Parigi.	Él espera visitar París.
 ita	spa	Lui sposò una ragazza molto giovane.	Él se casó con una muchacha muy joven.
+ita	spa	Lui sta andando a scuola con uno zaino sulle spalle.	Él está yendo a la escuela con una mochila en la espalda.
 ita	spa	Lui sta bene.	A él le va bien.
 ita	spa	Lui sta insegnando l'arabo.	Él está enseñando árabe.
 ita	spa	Lui sta nascondendo qualcosa.	Él está escondiendo algo.
+ita	spa	Lui stava volando.	Él estaba volando.
 ita	spa	Lui studia inglese, però studia anche tedesco.	Él estudia inglés, pero también estudia alemán.
 ita	spa	Lui urlò: "Aiuto!"	Él gritó: "¡Ayuda!"
 ita	spa	Lui usa una matita con la punta fine.	Él usa un lápiz de punta fina.
@@ -4935,6 +5141,7 @@ ita	spa	Luke, sono tuo figlio.	Luke, soy tu hijo.
 ita	spa	Luke, sono tuo padre.	Luke, yo soy tu padre.
 ita	spa	L'ultima cifra del suo numero è il nove.	El último dígito de su número es nueve.
 ita	spa	L'ultima volta che aveva ricevuto dei fiori era poco più che una ragazzina.	La última vez que había recibido flores era poco más que una niña.
+ita	spa	L'ultimo dio è morto milioni di anni fa.	El último dios murió hace millones de años.
 ita	spa	L’umidità ha arrugginito il cancello di ferro.	La humedad arruinó el portón de hierro.
 ita	spa	Lunedì la sua condizione è leggermente migliorata.	El lunes su condición mejoro un poco.
 ita	spa	Lunedì mattina sono stata morsa da un cane.	El lunes por la mañana fui mordido por un perro.
@@ -5009,6 +5216,7 @@ ita	spa	Mangiò la mela.	Comió la manzana.
 ita	spa	Mangio topi vivi.	Yo como ratones vivos.
 ita	spa	Mangio una banana.	Como un plátano.
 ita	spa	Mangio una mela.	Como una manzana.
+ita	spa	Mangio un sandwich.	Como un sándwich.
 ita	spa	Ma non dovevi uscire?	¿Pero no debías salir?
 ita	spa	Ma non si può!	¡Pero no se puede!
 ita	spa	Ma non voglio.	Pero no quiero.
@@ -5026,6 +5234,7 @@ ita	spa	Marco si pente del suo errore.	Marcos se arrepiente de su error.
 ita	spa	Marco venderà la macchina.	Marco venderá el coche.
 ita	spa	Maria annuì.	María asintió con la cabeza.
 ita	spa	Maria capisce il cinese.	Maria entiende chino.
+ita	spa	Maria è una donna intelligente.	María es una mujer inteligente.
 ita	spa	Maria è una spagnola di 19 anni.	María es una española de 19 años.
 ita	spa	Maria ha bisogno di un consiglio.	Maria necesita un consejo.
 ita	spa	Maria parla entrambe le lingue correntemente.	María habla ambos idiomas con fluidez.
@@ -5086,6 +5295,8 @@ ita	spa	Ma tu cosa ne pensi di questo nuovo album?	¿Pero qué piensas sobre est
 ita	spa	Ma tutto ciò cos'ha a che fare con Tatoeba?	¿Pero qué tiene que ver todo esto con Tatoeba?
 ita	spa	Ma uno dei soldati con una lancia lo colpi nel costato.	Pero uno de los soldados con una lanza le golpeó en su costado.
 ita	spa	Ma voi non lo conoscevate nemmeno!	¡Pero ni siquiera lo conocías!
+ita	spa	Mayuko era da sola nella camera.	Mayuko estaba sola en la habitación.
+ita	spa	Mayuko era da sola nella stanza.	Mayuko estaba sola en la habitación.
 ita	spa	Mayuko era da solo nella camera.	Mayuko estaba solo en la habitación.
 ita	spa	Meg era contenta di incontrare di nuovo Tom.	Meg estaba contenta de volver a ver a Tom.
 ita	spa	Meglio essere un ubriaco famoso che un alcolista anonimo.	Es mejor ser un borracho famoso que un alcohólico anónimo.
@@ -5097,6 +5308,8 @@ ita	spa	Me lo hanno suggerito.	Me lo han sugerido.
 ita	spa	Me lo porterò come scorta.	Me lo llevaré de repuesto.
 ita	spa	Me lo ricordo bene.	Lo recuerdo bien.
 ita	spa	Me lo sapete dire?	¿Me lo sabéis decir?
+ita	spa	Me ne hanno parlato e l'ho dimenticato; l'ho visto e l'ho capito; l'ho fatto e l'ho imparato.	Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí.
+ita	spa	Me ne occuperò domani.	Me ocuparé de ello mañana.
 ita	spa	Me ne vado a bere una birra.	Me voy a tomar una cerveza.
 ita	spa	Meno male che c'è qualcuno che apprezza le mie fatiche.	Menos mal que hay alguien que aprecia mi esfuerzo.
 ita	spa	Mentre discuteva col marito s'innervosì talmente che scoppiò a piangere.	Cuando discutía con su marido se puso tan nerviosa que rompió a llorar.
@@ -5141,6 +5354,7 @@ ita	spa	Mia madre non può venire.	Mi madre no puede venir.
 ita	spa	Mia madre non si alza mai presto.	Mi madre nunca se levanta temprano.
 ita	spa	Mia madre parla lentamente.	Mi madre habla despacio.
 ita	spa	Mia madre si è fatta male, devo farle da badante.	Mi madre se hizo daño, tengo que hacerle de cuidador.
+ita	spa	Mia madre sta comprando una gonna.	Mi madre está comprando una falda.
 ita	spa	Mia madre vive da sola.	Mi madre vive sola.
 ita	spa	Mi ami?	¿Me quieres?
 ita	spa	Mia moglie mi picchia.	Mi mujer me pega.
@@ -5157,6 +5371,7 @@ ita	spa	Mia sorella era una donna molto bella.	Mi hermana fue una mujer muy guap
 ita	spa	Mia sorella è sposata.	Mi hermana está casada.
 ita	spa	Mia sorella ha deciso di diventare insegnante.	Mi hermana decidió ser docente.
 ita	spa	Mia sorella ha finito la scuola, guadagna un sacco di soldi e può comprare quello che vuole.	Mi hermana ha terminado la escuela, gana un montón de dinero y puede comprar lo que quiere.
+ita	spa	Mia sorella ha tre figlie.	Mi hermana tiene tres hijas.
 ita	spa	Mia sorella mi ha aperto la porta.	Mi hermana me abrió la puerta.
 ita	spa	Mia sorella non lavora a Parigi.	Mi hermana no trabaja en París.
 ita	spa	Mi aspetto un rapporto dettagliato.	Me espero un informe detallado.
@@ -5171,10 +5386,12 @@ ita	spa	Mi chiamo Edgar Degas.	Me llamo Edgar Degas.
 ita	spa	Mi chiamo Henry.	Me llamo Henri.
 ita	spa	Mi chiamo Jack.	Me llamo Jack.
 ita	spa	Mi chiamo Ludwig.	Me llamo Ludwig.
+ita	spa	Mi chiamo Marina.	Me llamo Marina.
 ita	spa	Mi chiamo Sasha.	Me llamo Sasha.
 ita	spa	Mi chiamo Wang.	Me llamo Wang.
 ita	spa	Mi chiedo chi sia.	Me pregunto quién es.
 ita	spa	Mi chiedo chi sia venuto.	Me pregunto quien llegó.
+ita	spa	Mi chiedo se le formiche siano collegate per telepatia. È strano che quando una di loro trova del cibo, molte altre appaiono nello stesso posto.	Me pregunto si las hormigas estarán conectadas por telepatía... Es extraño que cuando una encuentra comida aparezcan después montones de ellas en el mismo lugar.
 ita	spa	Mi chiese di aiutarla con il lavoro.	Ella me pidió que la ayudara con el trabajo.
 ita	spa	Mi chiesero se fossi disponibile.	Me preguntaron si estaba disponible.
 ita	spa	Mi chiese se potevo fargli un favore.	Él me preguntó si acaso le podía hacer un favor.
@@ -5186,6 +5403,8 @@ ita	spa	Mi disegneresti una mappa?	¿Me diseñarías un mapa?
 ita	spa	Mi dispiace di chiamare così tardi.	Lo siento por llamarte tan tarde.
 ita	spa	Mi dispiace, ma è impossibile.	Lo siento, pero es imposible.
 ita	spa	Mi dispiace, non ho capito; Lei parla troppo veloce.	Siento no haberle comprendido; usted habla demasiado de prisa.
+ita	spa	Mi dispiace, non so come fare.	Lo siento, no sé cómo.
+ita	spa	Mi disse che non era assicurato.	Me dijo que no estaba asegurado.
 ita	spa	Mi disse che suo padre era un dottore.	Me dijo que su padre era doctor.
 ita	spa	Mi disse che suo padre era un insegnante.	Me dijo que su padre era profesor.
 ita	spa	Mi disse di lasciare la finestra aperta.	Él me dijo que deje la ventana abierta.
@@ -5313,6 +5532,7 @@ ita	spa	Mio zio abita vicino alla scuola.	Mi tío vive cerca de la escuela.
 ita	spa	Mio zio è arrabbiato.	Mi tío está enojado.
 ita	spa	Mio zio è diventato ricco grazie alla sua cartoleria.	Mi tío se convirtió en rico gracias a su papelera.
 ita	spa	Mio zio è morto di cancro.	Mi tío murió de cáncer.
+ita	spa	Mio zio è un avvocato.	Mi tío es abogado.
 ita	spa	Mio zio ha tre figli.	Mi tío tiene tres hijos.
 ita	spa	Mio zio ha una casa in Italia.	Mi tío tiene una casa en Italia.
 ita	spa	Mio zio ha un grande interesse per l'arte.	Mi tío tiene un gran interés por el arte.
@@ -5434,8 +5654,11 @@ ita	spa	Mi sono alzata presto.	Me levanté temprano.
 ita	spa	Mi sono alzato tardi stamattina.	Esta mañana me levanté tarde.
 ita	spa	Mi sono astenuto dal voto.	Me abstuve de votar.
 ita	spa	Mi sono fatto male correndo.	Me he hecho daño corriendo.
+ita	spa	Mi sono presentata in francese.	He hecho mi presentación en francés.
+ita	spa	Mi sono presentata in francese.	Me he presentado en francés.
 ita	spa	Mi sono rotto un'unghia.	Se me rompió una uña.
 ita	spa	Mi sono sbagliato.	Estaba equivocado.
+ita	spa	Mi sono sentito uno sciocco.	Me he sentido como un tonto.
 ita	spa	Mi sono stancato ad avere lavorato delle ore.	Estoy cansado de haber trabajado por horas.
 ita	spa	Mi sono tagliato mentre mi rasavo.	Me corté mientras me afeitaba.
 ita	spa	Mi sono tranquillizzato scoprendo che l'operazione aveva avuto successo.	Me tranquilicé al averiguar que la operación había sido exitosa.
@@ -5455,6 +5678,7 @@ ita	spa	Molte persone anziane vengono uccise in incidenti stradali ogni giorno.	
 ita	spa	Molte persone che finora se la sono spassata spargendo soldi a destra e a manca ora devono fare maggiore attenzione al proprio denaro.	Muchas personas que hasta ahora se han pasado gastando dinero en pasar un buen rato ahora deben ser más cuidadosas con su dinero.
 ita	spa	Molti cittadini si sono uniti all'esercito.	Muchos ciudadanos se unieron al ejército.
 ita	spa	Molti criminali in America sono dipendenti da droghe.	Muchos criminales en los Estados Unidos son adictos a las drogas.
+ita	spa	Molti genitori sono morti.	Muchos padres murieron.
 ita	spa	Molti giovani sono senza lavoro in quel paese.	Mucha gente joven en ese país no tiene trabajo.
 ita	spa	Molti illustri filosofi e poeti vengono da Atene.	Muchos ilustres filósofos y poetas vienen de Atenas.
 ita	spa	Molti percorsi portano a Roma.	Muchos caminos conducen a Roma.
@@ -5466,6 +5690,7 @@ ita	spa	Molto romantico!	¡Muy romántico!
 ita	spa	Monica non studia molto.	Mónica no estudia mucho.
 ita	spa	Monta sul gatto.	Móntate en el gato.
 ita	spa	Morì abbastanza giovane, aveva solo cinquantanove anni.	Murió bastante joven, tenía solo cincuenta y nueve años.
+ita	spa	Morte all'invasore!	¡Muerte al invasor!
 ita	spa	Mosca è una città russa.	Moscú es una ciudad rusa.
 ita	spa	Mostrami la bambola che hai comprato ieri.	Muéstrame la muñeca que compraste ayer.
 ita	spa	Mostrami qualche dato tangibile.	Muéstrame datos tangibles.
@@ -5493,6 +5718,7 @@ ita	spa	Negli Stati Uniti ci sono da sempre gravi problemi sociali.	En los Estad
 ita	spa	Negli ultimi mesi i media hanno discusso un solo argomento: la crisi economica.	En los últimos meses los medios de comunicación han discutido un sólo argumento: la crisis económica.
 ita	spa	Negli zoo di Marte ci sono animali della Terra.	En los jardines zoológicos de Marte, hay animales de la Tierra.
 ita	spa	Nego tutto.	Niego todo.
+ita	spa	Ne hai parlato con un avvocato?	¿Has hablado de ello con un abogado?
 ita	spa	Ne ho appena parlato con loro.	Acabo de hablar con ellos de eso.
 ita	spa	Ne ho bisogno prima di domani.	Lo necesito antes de mañana.
 ita	spa	Ne ho preso uno anche io.	Yo también he comprado uno.
@@ -5523,6 +5749,7 @@ ita	spa	Nessuna delle automobili è la mia.	Ninguno de los coches es mío.
 ita	spa	Nessuna delle due risposte è corretta.	Ninguna de las dos respuestas es correcta.
 ita	spa	Nessun altro uomo potrebbe fare il mio lavoro.	Ningún otro hombre podría hacer mi trabajo.
 ita	spa	Nessuna nuova, buona nuova.	Si no hay noticias, son buenas noticias.
+ita	spa	Nessuna sua parola è degna di attenzione.	Ninguna palabra suya es digna de atención.
 ita	spa	Nessuno ama la guerra.	A nadie le gusta la guerra.
 ita	spa	Nessuno conosce la verità.	Nadie sabe la verdad.
 ita	spa	Nessuno dei bambini è seduto.	Ninguno de los niños está sentado.
@@ -5552,6 +5779,8 @@ ita	spa	Nessuno si può lavare le mani dinanzi a un dramma di queste proporzioni
 ita	spa	Nessuno vede le mie lacrime.	Nadie ve mis lágrimas.
 ita	spa	Nessun problema da segnalare.	Ningún problema que reportar.
 ita	spa	Nevica in inverno.	Nieva en el invierno.
+ita	spa	Niente di ciò che sta dicendo merita attenzione.	Nada de lo que está diciendo merece atención.
+ita	spa	Niente di ciò che va dicendo è degno di attenzione.	Nada de lo que va diciendo es digno de atención.
 ita	spa	Nikko è situata a circa settantacinque miglia a nord di Tokyo.	Nikko queda a unos ciento veinte kilómetros al norte de Tokio.
 ita	spa	No, amore mio.	No, amor mío.
 ita	spa	No credo che Tom perderà.	No creo que Tom vaya a perder.
@@ -5712,6 +5941,7 @@ ita	spa	Non creda a quello che dice.	No te creas lo que dice.
 ita	spa	Non credergli mai, è un bugiardo.	Nunca le creas, es un mentiroso.
 ita	spa	Non credo a Naomi; io credo che lei menta.	No le creo a Naomi. Creo que ella está mintiendo.
 ita	spa	Non credo che Dio esista.	No creo que Dios exista.
+ita	spa	Non credo che pioverà, ma prenderò un ombrello per sicurezza.	No creo que llueva pero cogeré un paraguas por si acaso.
 ita	spa	Non dare attenzione a quello che dice tuo padre.	No hagas ningún caso a lo que dice tu padre.
 ita	spa	Non desiderare è lo stesso che avere.	No desear es lo mismo que poseer.
 ita	spa	Non devi entrare in contatto con lui.	No debe ponerse en contacto con él.
@@ -5723,6 +5953,7 @@ ita	spa	Non dimenticare il biglietto.	No olvides la entrada.
 ita	spa	Non dimenticarti di noi!	¡No te olvides de nosotros!
 ita	spa	Non dirgli la risposta.	No le digas la respuesta.
 ita	spa	Non dirlo a me, dillo alla tua fidanzata!	¡No me lo digas a mí, díselo a tu novia!
+ita	spa	Non dirmi che non hai mai sentito parlare di Tom Jackson.	No me digas que no has oído hablar nunca de Tom Jackson.
 ita	spa	Non disdegnare le tue origini.	No desprecies tus orígenes.
 ita	spa	Non disdegnare le tue origini.	No desprecie sus orígenes.
 ita	spa	Non distinguo il rosa dal fucsia.	No diferencio entre el rosa y el fucsia.
@@ -5733,6 +5964,9 @@ ita	spa	Non dovevate mentire.	Ustedes no tenían que mentir.
 ita	spa	Non dovresti mangiare qui.	No deberías comer aquí.
 ita	spa	Non è affare suo.	Esto no es asunto suyo.
 ita	spa	Non è ancora finita la giornata.	Aún no ha acabado la jornada.
+ita	spa	Non è arrabbiata con voi.	No está enfadada con vosotros.
+ita	spa	Non è arrabbiata con voi.	No está enojada con vosotros.
+ita	spa	Non è arrabbiata con voi.	No está mosqueada con vosotros.
 ita	spa	Non è che avresti un temperino che devo fare la punta alla matita?	¿No tendrías un sacapunta? que tengo que sacarle punta al lápiz.
 ita	spa	Non è che non mi piace divertirmi, ma non ho il tempo di divertirmi.	No es que no me guste divertirme, sino que no tengo tiempo para divertirme.
 ita	spa	Non è che sei molto giovane per fare questo?	¿No eres un poco joven para estar haciendo esto?
@@ -5753,6 +5987,7 @@ ita	spa	Non è legale che i giovani bevano.	No es legal que los jóvenes beban.
 ita	spa	Non è lontano da Parigi.	No está lejos de París.
 ita	spa	Non è lo stesso.	No es lo mismo.
 ita	spa	Non è mai troppo tardi per imparare.	Nunca se es demasiado viejo para aprender.
+ita	spa	Non è male a disegnare.	No era malo dibujando.
 ita	spa	Non è martedì?	¿No es martes?
 ita	spa	Non è mio cugino.	No es mi primo.
 ita	spa	Non è morto invano.	Él no murió en vano.
@@ -5774,6 +6009,7 @@ ita	spa	Non era molto gentile con lei.	No era muy amable con ella.
 ita	spa	Non era molto gentile con lei.	No era muy amable con usted.
 ita	spa	Non era tuo fratello.	Él no era tu hermano.
 ita	spa	Non è responsabile per quello che ha fatto Tom.	No es responsable por lo que hizo Tom.
+ita	spa	Non è ricca come dice di essere.	No es rica como dice ser.
 ita	spa	Non ero infelice.	Yo no era infeliz.
 ita	spa	Non ero occupata.	No estaba ocupada.
 ita	spa	Non ero occupato.	No estaba ocupado.
@@ -5808,6 +6044,11 @@ ita	spa	Non fatemi attendere!	¡No me hagáis esperar!
 ita	spa	Non fatemi questo!	¡No me hagáis eso!
 ita	spa	Non feci i compiti.	No hice los deberes.
 ita	spa	Non finisci mai di conoscere le persone.	Nunca se termina de conocer a la gente.
+ita	spa	Non firmate niente!	¡No firméis nada!
+ita	spa	Non firmate nulla!	¡No firméis nada!
+ita	spa	Non firmi niente!	¡No estampe su firma!
+ita	spa	Non firmi niente!	¡No firme nada!
+ita	spa	Non firmi nulla!	¡No firme nada!
 ita	spa	Non frenare all'improvviso.	No frenes de golpe.
 ita	spa	Non fuma.	Ella no fuma.
 ita	spa	Non fuma.	No fuma.
@@ -5843,6 +6084,7 @@ ita	spa	Non ha molto senso per me che io debba pagare più tasse di te anche se 
 ita	spa	Non hanno orecchio per la musica.	No tengo oído para la música.
 ita	spa	Non ha paura.	No tiene miedo.
 ita	spa	Non ha una bicicletta.	Él no tiene una bicicleta.
+ita	spa	Non ho affatto toccato le tue cose.	En absoluto he tocado tus cosas.
 ita	spa	Non ho ancora detto di sì.	Aún no he dicho que sí.
 ita	spa	Non ho ancora fatto colazione.	Todavía no desayuné.
 ita	spa	Non ho avuto il tempo di fare colazione.	No tuve tiempo para desayunar.
@@ -5882,6 +6124,7 @@ ita	spa	Non ho più tempo per parlare con te.	No tengo más tiempo para hablar c
 ita	spa	Non ho più una macchina.	Ya no tengo auto.
 ita	spa	Non ho potuto controllare le mie lacrime.	No pude controlar mis lágrimas.
 ita	spa	Non ho potuto trovare la sua casa.	No pude encontrar su casa.
+ita	spa	Non ho promesso di farlo.	No he prometido hacerlo.
 ita	spa	Non ho quattro sorelle.	No tengo cuatro hermanas.
 ita	spa	Non ho soldi, ma ho sogni.	No tengo dinero, pero tengo sueños.
 ita	spa	Non ho sonno.	No tengo sueño.
@@ -5907,6 +6150,7 @@ ita	spa	Non lasciare che il nemico si avvicini.	No permitas que el enemigo se ac
 ita	spa	Non lasciare le cose in giro.	No dejes todo por ahí.
 ita	spa	Non lasciarmi solo.	No me dejes solo.
 ita	spa	Non lasci estinguere il fuoco.	No dejes que se extinga el fuego.
+ita	spa	Non la voglio nemmeno gratis.	No la quiero ni regalada.
 ita	spa	Non lavoro né il sabato né la domenica.	No trabajo sábados ni domingos.
 ita	spa	Non lavoro.	No trabajo.
 ita	spa	Non lavoro.	Yo no trabajo.
@@ -5938,6 +6182,14 @@ ita	spa	Non lo vedo.	No lo veo.
 ita	spa	Non lo vedrò mai più in vita mia.	No lo volveré a ver mientras viva.
 ita	spa	Non lo venderei a nessun prezzo.	No lo vendería a ningún precio.
 ita	spa	Non mangiarti le unghie.	No te comas las uñas.
+ita	spa	Non me la cavo bene con le lingue straniere.	Las lenguas extranjeras no son lo mío.
+ita	spa	Non me la cavo bene con le lingue straniere.	No estoy hecho para las lenguas extranjeras.
+ita	spa	Non me la cavo bene con le lingue straniere.	No me las apaño bien con las lenguas extranjeras.
+ita	spa	Non me la cavo bene con le lingue straniere.	No se me dan bien las lenguas extranjeras.
+ita	spa	Non me la cavo bene con le lingue straniere.	No tengo habilidad para las lenguas extranjeras.
+ita	spa	Non me la cavo con la matematica.	No estoy hecho para las matemáticas.
+ita	spa	Non me la cavo con la matematica.	No me las apaño bien con las matemáticas.
+ita	spa	Non me la cavo con la matematica.	No tengo habilidad para las matemáticas.
 ita	spa	Non mettere zucchero nel mio caffè.	No pongas azúcar en mi café.
 ita	spa	Non metterlo sotto la pioggia.	No lo expongas a la lluvia.
 ita	spa	Non mi annoia leggere.	No me aburre leer.
@@ -5946,6 +6198,7 @@ ita	spa	Non mi aspetto che tu sia d'accordo con me.	No espero que estés de acue
 ita	spa	Non mi aspetto niente da te.	No espero nada de ti.
 ita	spa	Non mi avete dato ciò che ho chiesto.	No me ha dado lo que le he pedido.
 ita	spa	Non mi conosce.	Él no me conoce.
+ita	spa	Non mi costò molto.	No me costó mucho.
 ita	spa	Non mi devi spiegazione.	No me debes una explicación.
 ita	spa	Non mi disturbare quando sto studiando.	No me molestes cuando estoy estudiando.
 ita	spa	Non mi è mai piaciuta la biologia.	Nunca me gustó la biología.
@@ -5957,6 +6210,7 @@ ita	spa	Non mi interessa la spesa.	No me interesan los gastos.
 ita	spa	Non mi lascia vivere!	¡No me deja vivir!
 ita	spa	Non mi pento delle mie azioni.	No me arrepiento de mis actos.
 ita	spa	Non mi pento di nulla nella mia vita, eccetto di quello che non ho fatto.	No me arrepiento de nada en mi vida, excepto por lo que no hice.
+ita	spa	Non mi perdonerebbe mai un'infedeltà.	Ella nunca me perdonaría una infidelidad.
 ita	spa	Non mi piacciono gli uomini come lui.	No me gustan los hombres como él.
 ita	spa	Non mi piacciono i cani incrociati.	No me gustan los chuchos.
 ita	spa	Non mi piacciono i libri con più di cinquecento pagine.	No me gustan los libros con más de quinientas páginas.
@@ -5998,6 +6252,7 @@ ita	spa	No, non riesco a credere a quello che hai detto.	No, no puedo creerme lo
 ita	spa	No, non sto cantando.	No, no estoy cantando.
 ita	spa	No, non troppo.	No, no demasiado.
 ita	spa	Nonostante il fatto che sia esausto, non riesco ad addormentarmi.	A pesar de que estoy extenuado, no logro dormirme.
+ita	spa	Nonostante lo parli tutti i giorni, l'inglese continua ad essere una lingua straniera per me	El inglés sigue siendo un idioma extranjero para mí, aunque lo hable todos los días.
 ita	spa	Nonostante sia giovane è molto attento.	A pesar de su juventud, es muy atento.
 ita	spa	Non parlare con la bocca piena!	¡No hables con la boca llena!
 ita	spa	Non parlare con la bocca piena.	No hables con la boca llena.
@@ -6010,6 +6265,7 @@ ita	spa	Non parlo il tedesco.	No hablo alemán.
 ita	spa	Non parlo irlandese.	No hablo irlandés.
 ita	spa	Non parlo lo svedese.	No hablo sueco.
 ita	spa	Non pensare che la giornata sia finita, c'è ancora molto da fare.	No pienses que la jornada se ha acabado, todavía hay mucho que hacer.
+ita	spa	Non penso che lui abbia ucciso queste persone.	No creo que él haya matado a esas personas.
 ita	spa	Non penso che sia felice.	No creo que ella esté feliz.
 ita	spa	Non penso che sia una buona idea.	No creo que sea una buena idea.
 ita	spa	Non perde mai la speranza.	Nunca pierde la esperanza.
@@ -6022,6 +6278,7 @@ ita	spa	Non possiamo aiutare Tom.	No podemos ayudar a Tom.
 ita	spa	Non possiamo aiutarlo ora.	No lo podemos ayudar ahora.
 ita	spa	Non possiamo chiamare Tom come testimone.	No podemos llamar a Tom como testigo.
 ita	spa	Non possiamo decidere se studiare o no all'università.	No podemos decidir si estudiar o no en la universidad.
+ita	spa	Non possiamo giocare fuori perché piove.	No podemos jugar afuera porque está lloviendo.
 ita	spa	Non possiamo perdere questa occasione, è troppo importante!	No podemos perder esta ocasión, es demasiado importante.
 ita	spa	Non possiamo vivere neanche un giorno senz'acqua.	No podemos vivir ni siquiera un día sin agua.
 ita	spa	Non possiamo vivere senza aria.	No podemos vivir sin el aire.
@@ -6059,6 +6316,7 @@ ita	spa	Non posso vederlo.	No lo puedo ver.
 ita	spa	Non posso venire, sto preparando delle lezioni per questa settimana.	No puedo ir, estoy preparando las clases para esta semana.
 ita	spa	Non posso venire, sto preparando una lezione.	No puedo ir, estoy preparando una clase.
 ita	spa	Non posso vivere così.	No puedo vivir así.
+ita	spa	Non posso vivere senza cioccolato.	Yo no puedo vivir sin chocolate.
 ita	spa	Non posso vivere senza di te.	No puedo vivir sin ti.
 ita	spa	Non posso vivere senza di te.	No puedo vivir sin vos.
 ita	spa	Non posso vivere senza Tom.	No puedo vivir sin Tom.
@@ -6103,6 +6361,7 @@ ita	spa	Non sai come?	¿No sabes cómo?
 ita	spa	Non sai cosa vuol dire essere poveri.	Tú no sabes lo que es ser pobre.
 ita	spa	Non sanno nemmeno il perché.	Ni siquiera saben por qué.
 ita	spa	Non sapete chi sono io.	No sabéis quién soy.
+ita	spa	Non sapeva come ringraziarla.	No sabía cómo darle las gracias.
 ita	spa	Non sapevano che fare con lui.	No sabían qué hacer con él.
 ita	spa	Non sapevo che avevi un serpente.	No sabía que tenías una serpiente.
 ita	spa	Non sapevo che fossi un così bravo cuoco.	No sabía que fueses tan buen cocinero.
@@ -6142,12 +6401,13 @@ ita	spa	Non si può cantare e portare croce.	No se puede estar en misa y repican
 ita	spa	Non si può cominciare la casa dal tetto.	No hay que empezar la casa por el tejado.
 ita	spa	Non si può fare.	No se puede hacer.
 ita	spa	Non si può!	¡No se puede!
-ita	spa	Non si può parlare?	¿No se puede hablar?
 ita	spa	Non si può parlare.	No se puede hablar.
+ita	spa	Non si può parlare?	¿No se puede hablar?
 ita	spa	Non si sa ancora il motivo per cui non funziona.	Aún no se sabe la razón del porqué no va.
 ita	spa	Non si sa che cosa succederà in futuro.	No se sabe qué sucederá en el futuro.
 ita	spa	Non si studia nei giorni festivi?	¿Los días festivos no se estudia?
 ita	spa	Non si vedono dal divorzio.	Ellos no se ven desde el divorcio.
+ita	spa	Non so chi dei due scrive questa pagina.	No sé cuál de los dos escribe esta página.
 ita	spa	Non so cosa fare ora.	Ahora no sé qué hacer.
 ita	spa	Non solo siamo andati a Parigi, ma abbiamo anche visitato Roma.	No sólo fuimos a París, sino que también visitamos Roma.
 ita	spa	Non so niente di donne.	No sé nada de las mujeres.
@@ -6159,6 +6419,7 @@ ita	spa	Non sono andata al mercato.	No he ido al mercado.
 ita	spa	Non sono andato al mercato.	No he ido al mercado.
 ita	spa	Non sono buono.	Yo no soy bueno.
 ita	spa	Non sono canadese.	No soy canadiense.
+ita	spa	Non sono capace di disegnare un uccello.	No soy capaz de dibujar un pájaro.
 ita	spa	Non sono colpevole.	No soy culpable.
 ita	spa	Non sono contento del mio lavoro.	No estoy contento con mi trabajo.
 ita	spa	Non sono d'accordo.	No estoy de acuerdo.
@@ -6175,9 +6436,12 @@ ita	spa	Non sono mai stato negli Stati Uniti.	No he estado nunca en los Estados 
 ita	spa	Non sono neanche in grado di posizionare la Germania in una cartina! Che vergogna!	¡No soy capaz ni siquiera de ubicar Alemania en un mapa! ¡Me da vergüenza!
 ita	spa	Non sono perfetta.	No soy perfecta.
 ita	spa	Non sono più vegetariano.	Ya no soy vegetariano.
+ita	spa	Non sono rancoroso.	No soy rencoroso.
 ita	spa	Non sono razzista.	No soy racista.
 ita	spa	Non sono riuscito a fargli riconoscere il suo errore.	No he conseguido que reconozca su error.
 ita	spa	Non so.	No sé.
+ita	spa	Non sono sempre in ritardo.	No siempre llego tarde.
+ita	spa	Non sono sicuro si possa parcheggiare lì	No estoy seguro de que se pueda aparcar ahí.
 ita	spa	Non sono sorda.	No soy sorda.
 ita	spa	Non sono un artista. Non ho mai avuto lo spirito per queste cose.	No soy un artista. Nunca tuve mente para ello.
 ita	spa	Non sono un insegnante.	No soy maestro.
@@ -6226,8 +6490,8 @@ ita	spa	Non ti ha seguito nessuno?	¿Nadie te siguió?
 ita	spa	Non ti ho buttato giù il telefono.	Que no te he tirado yo el teléfono.
 ita	spa	Non ti ho vista.	No te vi.
 ita	spa	Non ti odiano.	No te odian.
-ita	spa	Non ti offro un caffè?	¿No te invito a un café?
 ita	spa	Non ti offro un caffè.	No te invito a un café.
+ita	spa	Non ti offro un caffè?	¿No te invito a un café?
 ita	spa	Non ti piacciono i gatti?	¿No te gustan los gatos?
 ita	spa	Non ti piacciono le mele?	¿No te gustan las manzanas?
 ita	spa	Non ti piacciono le storie d'amore.	No te gustan las historias de amor.
@@ -6264,6 +6528,7 @@ ita	spa	Non vedi la connessione?	¿No ves la conexión?
 ita	spa	Non vedo niente.	No veo nada.
 ita	spa	Non vedo nulla di speciale.	No veo nada especial.
 ita	spa	Non vedo nulla, perché il sole mi abbaglia.	No puedo ver nada, porque me deslumbra el sol.
+ita	spa	Non venga prima delle sei.	No venga antes de las seis.
 ita	spa	Non vi autorizzo a darmi del tu.	No le autorizo a tutearme.
 ita	spa	Non vi autorizzo a darmi del tu.	No le permito que me tutee.
 ita	spa	Non vide nessuno.	No ha visto a nadie.
@@ -6274,6 +6539,7 @@ ita	spa	Non vi preoccupate per me.	No os preocupéis por mí.
 ita	spa	Non vi sono parole per descriverlo.	No hay palabras para describirlo.
 ita	spa	Non vivo per mangiare, ma mangio per vivere.	No vivo para comer, como para vivir.
 ita	spa	Non viziare tuo figlio.	No malcríes a tu hijo.
+ita	spa	Non vogliamo parlare di questo.	De eso mejor no hablamos.
 ita	spa	Non voglio andare in Italia.	No quiero ir a Italia.
 ita	spa	Non voglio che tu glielo racconti.	No quiero que se lo cuentes a ella.
 ita	spa	Non voglio chiedere la tua mano!	¡No quiero pedir tu mano!
@@ -6302,6 +6568,7 @@ ita	spa	Non vuoi perderlo.	No quieres perderlo.
 ita	spa	Non vuole parlare per paura di sbagliare.	No quiere hablar por miedo a equivocarse.
 ita	spa	No problem.	¡No hay problema!
 ita	spa	Normalmente pago con carta di credito piuttosto che in contanti.	Normalmente pago con tarjeta de crédito en lugar de efectivo.
+ita	spa	Normalmente sono puntuale.	Normalmente soy puntual.
 ita	spa	Nulla di nuovo sotto il sole.	Nada nuevo bajo el sol.
 ita	spa	Nulla è facile.	Fácil no es nada.
 ita	spa	Numerose stelle erano visibili nel cielo.	Numerosas estrellas eran visibles en el cielo.
@@ -6387,6 +6654,7 @@ ita	spa	Ognuno di noi ha un difetto.	Cada uno de nosotros tiene un defecto.
 ita	spa	Ognuno è responsabile delle proprie azioni.	Cada uno es responsable de sus propias acciones.
 ita	spa	Ognuno esprima la sua opinione.	Cada uno exprese su opinión.
 ita	spa	Ognuno è una luna, e ha un lato oscuro che non mostra mai a nessuno.	Toda persona es una luna, y tiene un lado oscuro que nunca se lo muestra a nadie.
+ita	spa	Ognuno ha la propria bellezza, ma non tutti la vedono.	Cada uno tiene su propia belleza, pero no todos la ven.
 ita	spa	Ognuno ha un punto di vista, non ti aspettare che il mio sia uguale al tuo.	Cada uno tiene un punto de vista, no esperes que el mío sea igual que el tuyo.
 ita	spa	Oh, i miei pantaloni bianchi! Erano nuovi.	¡Oh, mis pantalones blancos! Eran nuevos.
 ita	spa	Oh, là c'è una farfalla!	¡Ah, allí hay una mariposa!
@@ -6400,11 +6668,13 @@ ita	spa	Ora è tutto chiaro?	¿Ya está todo claro?
 ita	spa	Ora lavora in Francia.	Ahora trabaja en Francia.
 ita	spa	Ora ricordo.	Ahora me acuerdo.
 ita	spa	Ora ricordo.	Ahora recuerdo.
+ita	spa	Ora vivono con la loro mamma.	Ahora viven con su mamá.
 ita	spa	Ormai è ridicolo.	Ya es ridículo.
 ita	spa	Ormai vengo a casa.	Ya me voy a casa.
 ita	spa	Ormai vengo a casa.	Ya voy a casa.
 ita	spa	Ospito mio zio Luigi a casa mia.	Aposento a mi tío Luis en mi casa.
 ita	spa	Ottawa è la capitale del Canada.	Ottawa es la capital de Canadá.
+ita	spa	O tutto o niente!	¡O todo o nada!
 ita	spa	Ovviamente, la storia non finisce qui.	Evidentemente la historia no termina aquí.
 ita	spa	Ovvio che li usano per scavare!	¡Obviamente, los utilizan para cavar!
 ita	spa	Paco disegna panorami di città.	Paco dibuja panoramas de ciudades.
@@ -6443,6 +6713,7 @@ ita	spa	Parlare di temi religiosi è una faccenda delicata.	Hablar de temas reli
 ita	spa	Parlare inglese è utile.	Hablar inglés es útil.
 ita	spa	Parlare inglese non è facile, ma è divertente.	Hablar inglés no es fácil, pero es divertido.
 ita	spa	Parla spesso con il suo fidanzato.	Habla seguido con su prometido.
+ita	spa	Parla spesso con lui.	Habla a menudo con él.
 ita	spa	Parlate cinese?	¿Habla usted chino?
 ita	spa	Parlate con chiarezza.	Habla claramente.
 ita	spa	Parlate con chiarezza.	Hablad claramente.
@@ -6504,6 +6775,7 @@ ita	spa	Pensi che fare colazione tutti i giorni sia importante?	¿Tú crees que 
 ita	spa	Penso che dopo un paio di capitoli letti, il cervello si abitui automaticamente ad assimilare certi libri scritti con i piedi, giudicandoli in seguito dei capolavori.	Pienso que, después de leer un par de capítulos, el cerebro se acostumbra a asimilar libros escritos con los pies, juzgándolos luego como obras maestras.
 ita	spa	Penso che dovremmo comprare a Tom un iPad.	Creo que deberíamos comprarle un iPad a Tom.
 ita	spa	Penso che dovremmo davvero considerare la proposta di Tom.	Creo que deveríamos tomar en serio la propuesta de Tom.
+ita	spa	Penso che dovresti dire ai tuoi genitori che siamo sposati.	Creo que deberías decirles a tus padres que estamos casados.
 ita	spa	Penso che era ora che cominciaste.	Pienso que era hora de que comenzarais.
 ita	spa	Penso che guardare la televisione sia una perdita di tempo.	Pienso que mirar televisión es una pérdida de tiempo.
 ita	spa	Penso che la coppia si trovi di fronte a una prova da superare insieme.	Creo que la pareja se enfrenta a una prueba que tienen que superar juntos.
@@ -6512,6 +6784,8 @@ ita	spa	Penso che lui sia omosessuale.	Creo que él es homosexual.
 ita	spa	Penso che quella macchina ci stia seguendo lentamente.	Creo que ese coche nos está siguiendo lentamente.
 ita	spa	Penso che questa sia la parte migliore del film.	Creo que esta es la mejor parte de la película.
 ita	spa	Penso che sia arrabbiato.	Creo que él está enojado.
+ita	spa	Penso che sia impossibile per noi battere Tom.	Pienso que es imposible que derrotemos a Tom.
+ita	spa	Penso che sia impossibile per noi sconfiggere Tom.	Pienso que es imposible para nosotros vencer a Tom.
 ita	spa	Penso che siate andati troppo lontano.	Pienso que os hayáis ido demasiado lejos.
 ita	spa	Penso che ti piacerà questo film.	Creo que te gustará esta película.
 ita	spa	Penso che Tom potrebbe avere finalmente una buona idea.	Creo que Tom podría tener una buena idea finalmente.
@@ -6536,9 +6810,13 @@ ita	spa	Perché farsi tanti problemi?	¿Por qué darse tanto problema?
 ita	spa	Perché hai bisogno di un ombrello nuovo?	¿Por qué necesita un paraguas nuevo?
 ita	spa	Perché hai dipinto la panchina di rosso?	¿Por qué pintaste la banca de rojo?
 ita	spa	Perché hai paura?	¿Por qué tienes miedo?
+ita	spa	Perché il sapone è sul tavolo?	¿Por qué está el jabón sobre la mesa?
 ita	spa	Perché la neve è bianca?	¿Por qué es blanca la nieve?
 ita	spa	Perché l'autunno si chiama "fall" negli Stati Uniti?	¿Por qué al otoño lo llaman "fall" en Estados Unidos?
 ita	spa	Perché le ha detto di farla?	¿Por qué le ha dicho que la hiciera?
+ita	spa	Perché le scimmie non possono parlare?	¿Por qué las simias no pueden hablar?
+ita	spa	Perché le scimmie non riescono a parlare?	¿Por qué las simias no logran hablar?
+ita	spa	Perché le scimmie non sanno parlare?	¿Por qué las simias no saben hablar?
 ita	spa	Perché lo odiano tutti?	¿Por qué lo odian todos?
 ita	spa	Perché mi si addormentano i piedi?	¿Por qué se me duermen los pies?
 ita	spa	Perché nessuno aiuta Tom?	¿Por qué no ayuda nadie a Tom?
@@ -6546,6 +6824,7 @@ ita	spa	Perché non ce l'hai detto prima?	¿Por qué no nos lo dijiste antes?
 ita	spa	Perché non chiedi a Tom di controllarti questo testo?	¿Por qué no le pides a Tom que te revise este texto?
 ita	spa	Perché non ci lasci andare?	¿Por qué no nos dejas ir?
 ita	spa	Perché non domani?	¿Por qué no mañana?
+ita	spa	Perché non esce a giocare?	¿Por qué no sale a jugar?
 ita	spa	Perché non la smetti di rompermi i maroni?	¿Por qué no te dejás de romperme las pelotas?
 ita	spa	Perché non mi ascolti?	¿Por qué no me escuchas?
 ita	spa	Perché non può venire?	¿Por qué él no puede venir?
@@ -6567,6 +6846,7 @@ ita	spa	Perché studi?	¿Por qué estudias?
 ita	spa	Perché volevi parlare con me?	¿Por qué querías hablar conmigo?
 ita	spa	Perché vuoi comprare questo libro?	¿Por qué quieres comprar este libro?
 ita	spa	Perché vuoi fare l'infermiera?	¿Por qué querés ser enfermera?
+ita	spa	Perciò mandò due serpenti molto feroci, che arrivarono nel cuore della notte nella stanza di Alcmena, dove dormivano Ercole e suo fratello.	Por ello, envió dos serpientes muy feroces, que llegaron en plena noche a la habitación de Alcmena, donde dormían Hércules y su hermano.
 ita	spa	Per diventare un buon conversatore è necessario leggere molto.	Para llegar a ser un buen conversador hay que haber leído mucho.
 ita	spa	Perdonami per quello che devo fare.	Perdóname por lo que debo hacer.
 ita	spa	Per esempio, Osaka è una città gemellata con San Francisco.	Por ejemplo, Osaka es una ciudad hermana de San Francisco.
@@ -6624,8 +6904,10 @@ ita	spa	Piove.	Llueve.
 ita	spa	Pioverà oggi?	¿Lloverá hoy?
 ita	spa	Pioverà questa notte.	Esta noche lloverá.
 ita	spa	Pioveva forte quando mi sono alzato stamattina.	Llovía con fuerza cuando me he levantado esta mañana.
+ita	spa	Piovevano benedizioni.	Llovían bendiciones.
 ita	spa	Piovigginava.	Lloviznaba.
 ita	spa	Piovve dopo diverse settimane di bel tempo.	Llueve después de varias semanas de buen tiempo.
+ita	spa	Piton uccide Silente.	Snape mata a Dumbledore.
 ita	spa	Più impariamo, più sappiamo.	Cuanto más aprendemos, más sabemos.
 ita	spa	Più passano gli anni e più mi accorgo che Capodanno è un giorno come un altro!	¡Más años pasan y más me doy cuenta que la víspera de Año Nuevo es un día como cualquier otro!
 ita	spa	Piuttosto mi taglio le vene!	¡Mejor me corto las venas!
@@ -6650,6 +6932,7 @@ ita	spa	Possiamo aiutarti.	Podemos ayudarte.
 ita	spa	Possiamo solo insegnare.	Solo podemos enseñar.
 ita	spa	Possiamo usare i nostri appunti?	¿Podemos usar nuestros apuntes?
 ita	spa	Possibile che questo sia così difficile da ricordare?	¿Es posible que esto sea tan difícil de recordar?
+ita	spa	Posso accarezzarlo?	¿Lo puedo acariciar?
 ita	spa	Posso aiutare a tradurre il sito web in altre lingue?	¿Puedo ayudar a traducir la página web a otras lenguas?
 ita	spa	Posso aiutarti in qualche modo?	¿Puedo ayudarte de algún modo?
 ita	spa	Posso aiutarti?	¿Te puedo ayudar?
@@ -6769,6 +7052,7 @@ ita	spa	Puoi darmi la ricetta?	¿Me podés dar la receta?
 ita	spa	Puoi descriverli?	¿Puedes describirlos?
 ita	spa	Puoi dimostrarlo?	¿Puedes demostrarlo?
 ita	spa	Puoi dirlo ancora?	¿Puedes repetirlo?
+ita	spa	Puoi dirmi dove sono?	¿Puedes decirme dónde estoy?
 ita	spa	Puoi farci un esempio?	¿Puede darnos un ejemplo?
 ita	spa	Puoi fare qualcosa per aiutarmi?	¿Puedes hacer algo para ayudarme?
 ita	spa	Puoi insegnarmi a rubare?	¿Puedes enseñarme a robar?
@@ -6835,6 +7119,7 @@ ita	spa	Qual è la data di oggi?	¿Qué día es hoy?
 ita	spa	Qual è la data di oggi?	¿Qué fecha es hoy?
 ita	spa	Qual è la differenza?	¿Cuál es la diferencia?
 ita	spa	Qual è la differenza fra questo e quello?	¿Cuál es la diferencia entre esto y aquello?
+ita	spa	Qual è la differenza tra un mago e uno stregone?	Cuál es la diferencia entre un mago y un hechicero?
 ita	spa	Qual è la differenza tra un pianoforte e un pesce?	¿Cuál es la diferencia entre un piano y un pez?
 ita	spa	Qual è la loro storia?	¿Cuál es su historia?
 ita	spa	Qual è la marca del tuo cellulare?	¿Cuál es la marca de tu móvil?
@@ -6846,6 +7131,7 @@ ita	spa	Qual è la tua preferita?	¿Cuál es tu preferida?
 ita	spa	Qual è la tua squadra preferita?	¿Cuál es su equipo favorito?
 ita	spa	Qual è la vostra preferita?	¿Cuál es vuestra preferida?
 ita	spa	Qual è la vostra valigia?	¿Cuál es su maleta?
+ita	spa	Qual è l'essere supremo?	¿Qué es el ser supremo?
 ita	spa	Qual è l'obiettivo principale di questo progetto?	¿Cuál es el objetivo principal de este proyecto?
 ita	spa	Qual è l’ultima lettera dell’alfabeto?	¿Cuál es la última letra del abecedario?
 ita	spa	Qual è l’ultima lettera dell’alfabeto?	¿Cuál es la última letra del alfabeto?
@@ -6875,6 +7161,7 @@ ita	spa	Quando ebbe sentito la notizia, impallidì.	Cuando ella escuchó la noti
 ita	spa	Quando è il tuo compleanno?	¿Cuándo es tu cumpleaños?
 ita	spa	Quando è la mia operazione?	¿Cuándo es mi operación?
 ita	spa	Quando è nata?	¿Cuándo nació ella?
+ita	spa	Quando era qui, nuotava al mattino.	Cuando estaba aquí, nadaba por la mañana.
 ita	spa	Quando era ricercatrice scoprì una nuova cura.	Cuando estaba de investigadora, ella descubrió una nueva cura.
 ita	spa	Quando ero bambino credevo a Babbo Natale.	Cuando yo era niño creía en Papá Noel.
 ita	spa	Quando finì di parlare, tutti rimasero in silenzio.	Cuando él terminó de hablar, todo el mundo estaba callado.
@@ -6890,6 +7177,7 @@ ita	spa	Quando la vita ti dà limoni, fai limonate.	Cuando la vida te da limones
 ita	spa	Quando lei entrò, avevamo finito di cenare.	Cuando ella entró, habíamos terminado de cenar.
 ita	spa	Quando l'hai incontrata per la prima volta?	¿Cuándo la encontraste por primera vez?
 ita	spa	Quando lo vedo, penso a mio nonno.	Cuando le veo, pienso en mi abuelo.
+ita	spa	"Quando?" "Mai."	"¿Cuándo?" "Nunca."
 ita	spa	Quando mi sono svegliato stava nevicando.	Cuando me desperté estaba nevando.
 ita	spa	Quando parli con gli altri, lo fai con le braccia incrociate.	Cuando hablas con los demás, lo haces con los brazos cruzados.
 ita	spa	Quando parte l'ultimo treno?	¿Cuándo sale el último tren?
@@ -6909,6 +7197,7 @@ ita	spa	Quando tornerai da Boston?	¿Cuándo regresarás de Boston?
 ita	spa	Quando tornerai in ufficio?	¿Cuándo volverás a la oficina?
 ita	spa	Quando visitai il loro appartamento, la coppia era nel pieno di una litigata.	Cuando visité su departamento, la pareja estaba justo en medio de una pelea.
 ita	spa	Quando volete ingannare il mondo dite la verità.	Cuando quiera engañar al mundo, diga la verdad.
+ita	spa	Quanta gente c´è, che cercando fortuna, ha trovato la miseria più nera!	¡Cuánta gente hay, que buscando fortuna, ha encontrado la peor de las miserias!
 ita	spa	Quante dita ha la mano?	¿Cuántos dedos tiene la mano?
 ita	spa	Quante e-mail scrive ogni giorno?	¿Cuántos correos escribe cada día?
 ita	spa	Quante e-mail scrivete ogni giorno?	¿Cuántos correos electrónicos escribes diariamente?
@@ -6920,6 +7209,7 @@ ita	spa	Quante sorelle hai?	¿Cuántas hermanas tienes?
 ita	spa	Quante stanze ha?	¿Cuántas habitaciones tiene?
 ita	spa	Quante uova ci sono in cucina?	¿Cuántos huevos hay en la cocina?
 ita	spa	Quante volte te lo devo ripetere?	¿Cuántas veces te lo tengo que repetir?
+ita	spa	Quante volte ti devo dire di non lasciare aperta la porta d'ingresso? È scappato il gatto!	¿Cuántas veces debo decirte que no dejes abierta la puerta de la entrada? ¡Se ha escapado el gato!
 ita	spa	Quanti anni avrai l'anno prossimo?	¿Cuántos años tendrás el próximo año?
 ita	spa	Quanti anni ha?	¿Cuántos años tiene?
 ita	spa	Quanti anni ha?	¿Cuántos años tiene él?
@@ -6935,6 +7225,7 @@ ita	spa	Quanti libri hai letto l'anno scorso?	¿Cuántos libros leíste el año 
 ita	spa	Quanti piani ha questo edificio?	¿Cuántos pisos tiene este edificio?
 ita	spa	Quanti ragazzi ci sono in classe tua?	¿Cuántos chicos hay en tu clase?
 ita	spa	Quanti soldi deve prendere in prestito Tom?	¿Cuánto dinero debe pedir prestado Tom?
+ita	spa	Quanti soldi hai speso ieri?	¿Cuánto dinero has gastado hoy?
 ita	spa	Quanto costa?	¿Cuánto cuesta?
 ita	spa	Quanto costa la sedia di legno?	¿Cuánto cuesta la silla de madera?
 ita	spa	Quanto costano questi pantaloni?	¿Cuánto cuestan estos pantalones?
@@ -6954,6 +7245,7 @@ ita	spa	Quanto mi piacerebbe stare con te!	¡Cómo me gustaría estar contigo!
 ita	spa	Quanto paghi al mese di gas?	¿Cuánto paga de gas por mes?
 ita	spa	Quanto per mezzo chilo?	¿Cuánto cuesta medio kilo?
 ita	spa	Quanto pesa tua figlia?	¿Cuánto pesa tu hija?
+ita	spa	Quanto sei bella stamattina!	¡Qué bella estás esta mañana!
 ita	spa	Quanto tempo ci vuole da qui a Boston?	¿Cuánto tiempo toma de aquí a Boston?
 ita	spa	Quanto tempo hai aspettato?	¿Cuánto tiempo has estado esperando?
 ita	spa	Quanto tempo hai vissuto lì?	¿Cuánto tiempo viviste ahí?
@@ -7021,6 +7313,7 @@ ita	spa	Quel tavolo è sporco?	¿Está sucia aquella mesa?
 ita	spa	Quel tavolo non è sporco?	¿No está sucia aquella mesa?
 ita	spa	Quel terreno è ricco di humus.	Este terreno es rico en humus.
 ita	spa	Questa bandiera è molto carina.	Esta bandera es muy bonita.
+ita	spa	Questa biro non scrive più. L'inchiostro deve essersi seccato.	Este bolígrafo no escribe. La tinta debe haberse secado.
 ita	spa	Questa birra contiene il 5% di alcol.	Esta cerveza contiene un 5% de alcohol.
 ita	spa	Questa camera non è grande.	Esta habitación no es grande.
 ita	spa	Questa camicia costa dieci dollari.	Esta camisa cuesta diez dólares.
@@ -7063,11 +7356,14 @@ ita	spa	Questa è una foto di mia nonna.	Ésta es una foto de mi abuela.
 ita	spa	Questa è una lettera molto strana.	Ésta es una carta muy extraña.
 ita	spa	Questa è una statua a dimensioni reali.	Ésta es una estatua a tamaño real.
 ita	spa	Questa è una storia piena di intrighi, amori, inganni e segreti.	Esta es una historia llena de intrigas, amores, traiciones y secretos.
+ita	spa	Questa è una torta deliziosa.	Esta tarta es deliciosa.
 ita	spa	Questa è un'auto.	Esto es un coche.
 ita	spa	Questa è un'automobile e quello è un autobus.	Esto es un coche y eso es un autobús.
 ita	spa	Questa è una vongola verace.	Esta es una verdadera almeja.
 ita	spa	Questa è un'eccezione alla regola.	Esta es una excepción a la regla.
 ita	spa	Questa fabbrica produce pezzi per automobili.	Esta fábrica produce piezas para automóviles.
+ita	spa	Questa frase contiene cinque parole.	Esta frase contiene cinco palabras.
+ita	spa	Questa frase contiene esattamente sei parole.	Esta frase contiene exactamente seis palabras.
 ita	spa	Questa frase è sbagliata.	Esta frase está incorrecta.
 ita	spa	Questa frase non ha autori.	Esta frase no tiene autor.
 ita	spa	Questa frase non ha senso.	Esta frase no tiene sentido.
@@ -7108,11 +7404,13 @@ ita	spa	Quest'auto ha una linea moderna.	Este coche tiene una línea moderna.
 ita	spa	Quest'autunno, stranamente sto vedendo molte telenovelas.	Este otoño, extrañamente estoy viendo muchas telenovelas.
 ita	spa	Questa volta qualcosa è cambiato.	Esta vez algo cambió.
 ita	spa	Questa zuppa è troppo salata.	Esta sopa está demasiado salada.
+ita	spa	Queste case sono tutte uguali.	Estas casas son todas iguales.
 ita	spa	Queste leggi contro l'uso eccessivo dei telefoni ci proteggono un po', ma resta centrale una politica di buone maniere, ed educare i giovani a stare con altre persone e comunicare direttamente senza alcuno strumento.	Estas leyes contra el uso exagerado de los móviles nos protegen un poco, pero sigue siendo fundamental impulsar una política de buenas maneras, y educar a los jóvenes para que estén con otras personas y se comuniquen directamente sin ningún instrumento.
 ita	spa	Queste non sono delle parole.	Estas no son palabras.
 ita	spa	Queste non sono le mie cose!	¡Estas cosas no son mías!
 ita	spa	Queste scarpe mi stanno uccidendo.	Estos zapatos me están matando.
 ita	spa	Queste scarpe sono durate un anno.	Estos zapatos han durado un año.
+ita	spa	Queste sono facili da vendere.	Éstas son fáciles de vender.
 ita	spa	Queste sono le ultime lacrime.	Estas son las últimas lágrimas.
 ita	spa	Queste sono notizie interessanti.	Esas son noticias interesantes.
 ita	spa	Queste sono reali.	Estas son auténticas.
@@ -7127,10 +7425,11 @@ ita	spa	Questi insetti pungono?	¿Estos insectos pican?
 ita	spa	Questi insulti gratuiti a una delle più belle donne del mondo dello spettacolo sono assurdi.	Estos insultos gratuitos a las mujeres más bellas del mundo del espectáculo resultan absurdos.
 ita	spa	Questi insulti gratuiti a una delle più belle donne del mondo dello spettacolo sono assurdi.	Estos insultos gratuitos a las mujeres más bellas del mundo del espectáculo son absurdos.
 ita	spa	Questi parassiti si riproducono nel sangue.	Esos parásitos se reproducen en la sangre.
+ita	spa	Questi sono facili da vendere.	Éstos son fáciles de vender.
 ita	spa	Questi sono i suoi libri.	Estos son sus libros.
 ita	spa	Questi sono regali.	Estos son regalos.
-ita	spa	Questi topolini sono destinati alla ricerca scientifica?	¿Estos ratoncitos están destinados a la investigación científica?
 ita	spa	Questi topolini sono destinati alla ricerca scientifica.	Estos ratoncitos están destinados a la investigación científica.
+ita	spa	Questi topolini sono destinati alla ricerca scientifica?	¿Estos ratoncitos están destinados a la investigación científica?
 ita	spa	Questi topolini sono destinati alla ricerca scientifica?	¿Estos ratoncitos son para la investigación científica?
 ita	spa	Questi topolini sono tanto carini!	¡Qué lindos son estos ratoncitos!
 ita	spa	Questo albergo è privo di ristorante.	Este hotel no tiene restaurante.
@@ -7138,6 +7437,7 @@ ita	spa	Questo animale è molto intelligente.	Este animal es muy inteligente.
 ita	spa	Questo animale è più grande di quello.	Este animal es más grande que aquél.
 ita	spa	Questo articolo contiene alcune idee del tutto nuove.	Este artículo contiene algunas ideas totalmente nuevas.
 ita	spa	Questo assegno è pagabile al portatore.	Este cheque es al portador.
+ita	spa	Questo bambino ha un gatto.	Este niño tiene un gato.
 ita	spa	Questo biglietto è valido per due persone.	Este boleto admite dos personas.
 ita	spa	Questo biglietto è valido per tre giorni.	Esta entrada vale para tres días.
 ita	spa	Questo borgo è abitato prevalentemente da boscaioli e da cacciatori.	Esta aldea es habitada principalmente por leñadores y cazadores.
@@ -7175,6 +7475,8 @@ ita	spa	Questo enunciato non è una frase.	Este enunciado no es una frase.
 ita	spa	Questo è quello che voglio.	Esto es lo que quiero.
 ita	spa	Questo è quello che volevo chiedere.	Eso es lo que quería preguntar.
 ita	spa	Questo era il quinto libro di Rodica.	Éste era el quinto libro de Rodica.
+ita	spa	Questo era troppo grande.	Esto fue demasiado grande.
+ita	spa	Questo è sacro.	Esto es sagrado.
 ita	spa	Questo è simile a quello.	Éste es parecido a aquel.
 ita	spa	Questo è troppo.	Eso pasa de la raya.
 ita	spa	Questo è tutto ciò che posso dire fino ad adesso.	En este momento, es lo único que puedo decir.
@@ -7207,6 +7509,7 @@ ita	spa	Questo è vero?	¿Eso es verdad?
 ita	spa	Questo fatto prova la sua innocenza.	Este hecho prueba su inocencia.
 ita	spa	Questo fenomeno è molto semplice di spiegare.	Este fenómeno es muy fácil de explicar.
 ita	spa	Questo film è troppo pauroso per me.	Esta película es demasiado terrorífica por mí.
+ita	spa	Questo fiore è giallo e tutti gli altri fiori sono blu.	Esta flor es amarilla y todas las demás flores son azules.
 ita	spa	Questo fiore emana un odore molto forte, lo puoi sentire?	Esta flor tiene un fuerte olor, ¿puedes olerla?
 ita	spa	Questo gesto vale più di mille parole.	Este gesto vale más que mil palabras.
 ita	spa	Questo giustifica una strage?	¿Eso justifica una desgracia?
@@ -7223,9 +7526,16 @@ ita	spa	Questo libro è scritto in francese.	Este libro está escrito en francé
 ita	spa	Questo libro è scritto in inglese.	Este libro está escrito en inglés.
 ita	spa	Questo libro è suo.	Este libro es suyo.
 ita	spa	Questo libro è troppo difficile da leggere in una settimana.	Este libro es demasiado complicado para leerlo en una semana.
+ita	spa	Questo libro ha diverse autrici.	Este libro tiene diferentes autoras.
+ita	spa	Questo libro ha diverse autrici.	Este libro tiene distintas autoras.
+ita	spa	Questo libro ha diverse autrici.	Este libro tiene diversas autoras.
+ita	spa	Questo libro ha diversi autori.	Este libro tiene diferentes autores.
+ita	spa	Questo libro ha diversi autori.	Este libro tiene distintos autores.
+ita	spa	Questo libro ha diversi autori.	Este libro tiene diversos autores.
 ita	spa	Questo libro non è mio.	Este libro no es mío.
 ita	spa	Questo libro non serve a niente.	Este libro no sirve para nada.
 ita	spa	Questo libro sembra interessante.	Este libro parece interesante.
+ita	spa	Questo livello è intermedio. Non è difficile.	Este nivel es intermedio. No es difícil.
 ita	spa	Questo maglione costa più di cinquanta dollari.	Este jersey cuesta más de cincuenta dólares.
 ita	spa	Questo medicinale non è efficace contro l'influenza.	Este medicamento no es eficaz contra la gripe.
 ita	spa	Questo medicinale non è efficace contro l'influenza.	Este medicamento no protege contra la gripe.
@@ -7250,6 +7560,8 @@ ita	spa	Questo parco mi fa tornare in mente la mia infanzia.	Este parque me recu
 ita	spa	Questo pittore mostrò una vocazione per il disegno e la pittura fin da piccolo.	Este pintor mostró una vocación por el dibujo y la pintura desde pequeño.
 ita	spa	Questo ponte è di ferro.	Este puente es de hierro.
 ita	spa	Questo posto è accessibile a tutti.	Este lugar es accesible para todos.
+ita	spa	Questo può farlo chiaramente chiunque.	Esto puede hacerlo claramente cualquiera.
+ita	spa	Questo può farlo praticamente ogni bambino che abbia più di due anni.	Esto puede hacerlo prácticamente cada niño que tenga más de dos años.
 ita	spa	Questo ragazzo ha detto che non ruberà di nuovo, che si comporterà bene e che cercherà un lavoro onesto.	Este chico dijo que no volvería a robar, que se portaría bien y que buscaría un trabajo honrado.
 ita	spa	Questo riguarda tutta la gente che vive qui.	Eso concierne a toda la gente que aquí vive.
 ita	spa	Quest'orologio è costoso.	Este reloj es caro.
@@ -7285,6 +7597,8 @@ ita	spa	Quindi è cominciata la schiavitù legale?	¿Entonces comenzó la esclav
 ita	spa	Quindi, lo comprerai o no?	Entonces, ¿lo comprarás o no?
 ita	spa	Quindi sono trasgressive?	¿Entonces son trasgresoras?
 ita	spa	Quindi tutto era diverso.	Luego todo era distinto.
+ita	spa	Qui non c'è alcun libro che io leggerei.	Aquí no hay ningún libro que yo leyese.
+ita	spa	Qui non c'è alcun libro che mi piacerebbe leggere.	Aquí no hay ningún libro que me plazca leer.
 ita	spa	Qui non c'è più nessuno.	Aquí no hay nadie.
 ita	spa	Qui non c'è più nessuno.	Aquí no hay nadie más.
 ita	spa	Qui sembro un pazzo fuggito da un manicomio.	Aquí parezco un loco que se escapó de un manicomio.
@@ -7316,6 +7630,7 @@ ita	spa	Rifiutò di prendere la tangente.	Él se rehusó a recibir el soborno.
 ita	spa	Rilassati!	¡Relajate!
 ita	spa	Rimane ancora molto da fare.	Todavía queda mucho por hacer.
 ita	spa	Rimanete ai vostri posti con le cinture allacciate.	Permanezcan en sus asientos con sus cinturones de seguridad abrochados.
+ita	spa	Rimanga con lui in questa stanza.	Permanezca con él en esta habitación.
 ita	spa	Rimaniamo sposate.	Continuemos casados.
 ita	spa	Rimaniamo sposate.	Sigamos casados.
 ita	spa	Rimase intrappolato nel traffico.	Quedé atascado en el tráfico.
@@ -7370,6 +7685,10 @@ ita	spa	Sai tutto.	Sabes todo.
 ita	spa	Saltatela.	Sáltatela.
 ita	spa	Salve, vorrei un'aranciata fresca.	Hola, quisiera un jugo de naranja fresco.
 ita	spa	Salvo che qui non è così semplice.	Salvo que aquí no es tan simple.
+ita	spa	Sami e Layla non si sono baciati.	Sami y Layla no se han besado.
+ita	spa	Sami ha tradito la sua fede	Sami traicionó su fe.
+ita	spa	Sami lavora con Layla.	Sami trabaja con Layla.
+ita	spa	Sami sarà il protagonista della storia.	Sami será el protagonista de la historia.
 ita	spa	Sam, no!	¡Sam, no!
 ita	spa	Sante parole!	¡Palabras de oro!
 ita	spa	Sa nuotare.	Él sabe nadar.
@@ -7385,6 +7704,7 @@ ita	spa	Sarà stato un sogno premonitore?	¿Habrá sido un sueño premonitorio?
 ita	spa	Sarà ucciso dal suo capo.	Él será asesinado por su jefe.
 ita	spa	Sarà una notte da ricordare!	¡Será una noche para recordar!
 ita	spa	Sarebbero 7 notti dal 14 fino al 21 luglio.	Serían 7 noches, del día 14 de julio hasta el 21 de julio.
+ita	spa	Sarebbe troppo.	Sería demasiado.
 ita	spa	Sarei andato al cinema se avessi avuto tempo.	Si hubiera tenido tiempo, habría ido al cine.
 ita	spa	Sarei uscita.	Iba a salir.
 ita	spa	Sarò a casa in tempo per la cena.	Estaré en casa a tiempo para la cena.
@@ -7428,6 +7748,7 @@ ita	spa	Se deve essere così, sia così.	Si así debe ser, que así sea.
 ita	spa	Se domani piove, non andremo.	Si llueve mañana, no iremos.
 ita	spa	S'è fatto un taglio sull'indice.	Se ha hecho un corte en el dedo índice.
 ita	spa	Se fossi in te andrei a casa e mi riposerei per bene.	Si yo fuera tú, me iría a mi casa y descansaría bastante.
+ita	spa	Se fossi in te, comincerei immediatamente.	Si yo fuera tú, empezaría inmediatamente.
 ita	spa	Se fossi in te riuscirei ad avere successo.	Si fuera tú, trataría de tener éxito.
 ita	spa	Se fossi stato un uccello, avrei potuto volare fino a te.	Si hubiera sido un pájaro, podría haber volado hasta ti.
 ita	spa	Se fossi un animale, sarei un gatto.	Si fuera un animal, sería un gato.
@@ -7607,6 +7928,7 @@ ita	spa	Siamo solo noi tre?	¿Somos solo nosotras tres?
 ita	spa	Siamo solo noi tre?	¿Somos solo nosotros tres?
 ita	spa	Siamo stati a Londra per due settimane.	Estuvimos en Londres dos semanas.
 ita	spa	Siamo stati a Parigi.	Estuvimos en París.
+ita	spa	Siamo stati bloccati nell'ascensore per un'ora.	Nos hemos quedado atascados en un ascensor durante una hora.
 ita	spa	Siamo studenti.	Somos alumnos.
 ita	spa	Siamo una coppia sposata.	Somos una pareja de casados.
 ita	spa	Siamo un paese povero di materie prime.	Somos un país pobre en materias primas.
@@ -7620,6 +7942,7 @@ ita	spa	Sì, Bob mi ha aiutato.	Sí, Bob me ha ayudado.
 ita	spa	Si chiama Irina.	Se llama Irina.
 ita	spa	Si chiama Mary, è la mia segretaria.	Ella se llama Mari, es mi secretaria.
 ita	spa	Si comporta come se fosse pazzo.	Él se comporta como si estuviera loco.
+ita	spa	Si comprò un paio di stivali.	Se compró un par de botas.
 ita	spa	Si consiglia di venir presto!	¡Se aconseja venir temprano!
 ita	spa	Si copriva la schiena con un mantello blu.	Se cubría la espalda con un manto azul.
 ita	spa	Si depila quattro volte la settimana.	Se depila cuatro veces a la semana.
@@ -7639,6 +7962,7 @@ ita	spa	Si è rotta una gamba del tavolino.	Se ha roto una pata del escritorio.
 ita	spa	Si è rotto il computer.	Se rompió la computadora.
 ita	spa	Si è sposata l'anno scorso.	Se casó el año pasado.
 ita	spa	Si è svegliata.	Ella se despertó.
+ita	spa	Si è svegliata prima di lui.	Ella se ha despertado antes que él.
 ita	spa	Siete bambini.	Sois niños.
 ita	spa	Siete incredibilmente di talento.	Son increíblemente talentosas.
 ita	spa	Siete incredibilmente di talento.	Son increíblemente talentosos.
@@ -7685,9 +8009,10 @@ ita	spa	Si sono divertiti a giocare ai videogiochi.	Se divirtieron jugando a vid
 ita	spa	Si sono incontrate all'aeroporto.	Se encontraron en el aeropuerto.
 ita	spa	Si sono sposati quando erano ancora giovani.	Se casaron cuando aún eran jóvenes.
 ita	spa	Si sposano domani.	Se casan mañana.
-ita	spa	Si stanno preparando?	¿Se están preparando?
 ita	spa	Si stanno preparando.	Se están preparando.
+ita	spa	Si stanno preparando?	¿Se están preparando?
 ita	spa	Si sta rigirando nella tomba.	Está revolviéndose en su tumba.
+ita	spa	Si svegliò prima di lui.	Se despertó antes que él.
 ita	spa	Si trasferì a Parigi nel 1966.	Ella se trasladó a París en 1966.
 ita	spa	Si tratta di una esperienza universalmente umana, ripetuta all'infinito.	Se trata de una experiencia universalmente humana, repetida al infinito.
 ita	spa	Si unì ai partigiani molto giovane.	Él se unió a los partisanos muy joven.
@@ -7698,6 +8023,7 @@ ita	spa	Smetterò.	Pararé.
 ita	spa	Smettetela di scoreggiare.	Dejad de peeros.
 ita	spa	Smettetela di scoreggiare.	Dejad de tiraros pedos.
 ita	spa	Smettetela di scoreggiare.	Parad de peeros.
+ita	spa	Smettetela di seguirmi!	¡Dejad de seguirme!
 ita	spa	Smettila di farfugliare in pubblico.	Dejá de vociferar en público.
 ita	spa	Smettila di scoreggiare.	Para de peerte.
 ita	spa	Smettila di scoreggiare.	Para de tirarte pedos.
@@ -7723,6 +8049,7 @@ ita	spa	So come risolvere il problema.	Sé cómo resolver el problema.
 ita	spa	So contare fino a cento.	Sé contar hasta cien.
 ita	spa	So cosa l'ha uccisa.	Sé qué la ha matado.
 ita	spa	So cosa può succedere qui.	Sé lo que puede pasar aquí.
+ita	spa	Socrate era l'insegnante di Platone.	Sócrates era el maestro de Platón.
 ita	spa	So di non sapere nulla.	Todo lo que sé, es que no sé nada.
 ita	spa	So di saperlo, ma non riesco a ricordarlo.	Sé que lo sé, pero no logro acordármelo.
 ita	spa	So dove abita.	Sé dónde vive.
@@ -7751,8 +8078,8 @@ ita	spa	Sono alla stazione di Tokyo adesso.	Estoy en la estación de Tokyo ahora
 ita	spa	Sono allergica al glutine.	Soy alérgica al gluten.
 ita	spa	Sono allergica al polline.	Soy alérgica al polvo.
 ita	spa	Sono allergico al polline.	Soy alérgico al polvo.
-ita	spa	Sono a Londra?	¿Estoy en Londres?
 ita	spa	Sono a Londra.	Estoy en Londres.
+ita	spa	Sono a Londra?	¿Estoy en Londres?
 ita	spa	Sono alto.	Soy alto.
 ita	spa	Sono ambiziosa.	Soy ambiciosa.
 ita	spa	Sono americani?	¿Son americanos?
@@ -7789,23 +8116,28 @@ ita	spa	Sono buono con te questa mattina.	Estoy siendo bueno contigo esta mañan
 ita	spa	Sono buono con te stamattina.	Estoy siendo bueno contigo esta mañana.
 ita	spa	Sono buono con voi questa mattina.	Estoy siendo bueno con ustedes esta mañana.
 ita	spa	Sono buono con voi stamattina.	Estoy siendo bueno con ustedes esta mañana.
+ita	spa	Sono caduta in una trappola.	He caído en una trampa.
 ita	spa	Sono caduto a terra quando mi hai fatto lo sgambetto.	Me caí al suelo cuando me pusiste la zancadilla.
+ita	spa	Sono caduto in una trappola.	He caído en una trampa.
 ita	spa	Sono casalinga.	Soy ama de casa.
 ita	spa	Sono Charlie.	Soy Charlie.
 ita	spa	Sono compleamente d'accordo con tutti voi.	Estoy completamente de acuerdo con todos ustedes.
 ita	spa	Sono contento, che qui si possono trovare molte frasi, che sono meravigliosamente belli in forma e contenuto.	Me alegro que aquí se puedan encontrar muchas frases maravillosas en forma y contenido.
+ita	spa	Sono contento che sia andato tutto bene.	Estoy contento de que todo haya salido bien.
 ita	spa	Sono contrario a ogni tipo di abuso.	Me opongo a cualquier tipo de abuso.
 ita	spa	Sono contro la guerra.	Estoy en contra de la guerra.
 ita	spa	Sono convinto che mio figlio è innocente.	Estoy convencido de que mi hijo es inocente.
 ita	spa	Sono coreano.	Soy coreano.
 ita	spa	Sono così grasso.	Estoy tan gordo.
 ita	spa	Sono così stanco che non posso continuare.	Estoy tan cansado que no puedo continuar.
+ita	spa	Sono così stufa di guidare.	Estoy harta de conducir.
 ita	spa	Sono cresciuto guardando i Pokémon.	Crecí viendo Pokémon.
 ita	spa	Sono curioso.	Tengo curiosidad.
 ita	spa	Sono d'accordo con te.	Estoy de acuerdo contigo.
 ita	spa	Sono d'accordo.	Estoy de acuerdo.
 ita	spa	Sono d'accordo.	Yo estoy de acuerdo.
 ita	spa	Sono daltonico.	Soy daltónico.
+ita	spa	Sono davvero poveri	Son realmente pobres.
 ita	spa	Sono di Shikoku.	Yo soy de Shikoku.
 ita	spa	Sono di Singapore.	Soy de Singapur.
 ita	spa	Sono di Tokyo.	Soy de Tokio.
@@ -7824,6 +8156,8 @@ ita	spa	Sono già in ferie.	Ya estoy de vacaciones.
 ita	spa	Sono già le undici.	Ya son las once.
 ita	spa	Sono giovane.	Soy joven.
 ita	spa	Sono giù di morale.	Tengo la moral caída.
+ita	spa	Sono identiche?	¿Son idénticas?
+ita	spa	Sono identici?	¿Son idénticos?
 ita	spa	Sono i denti falsi di mia nonna.	Son los dientes postizos de mi abuela.
 ita	spa	Sono immune alle malattie.	Soy inmune a las enfermedades.
 ita	spa	Sono impaziente di vedere la nuova versione di Tatoeba.	Estoy impaciente por ver la nueva versión de Tatoeba.
@@ -7868,6 +8202,7 @@ ita	spa	Sono molto triste.	Estoy muy triste.
 ita	spa	Sono nata nel 1982.	Nací en 1982.
 ita	spa	Sono nato così!	¡Nací así!
 ita	spa	Sono nato e cresciuto a Tokyo.	Nací y crecí en Tokio.
+ita	spa	Sono nato in Finlandia.	He nacido en Finlandia.
 ita	spa	Sono nato nel 1960.	Nací en 1960.
 ita	spa	Sono nato venti anni fa.	Nací hace 20 años.
 ita	spa	Sono nell'esercito.	Estoy en el ejército.
@@ -7888,6 +8223,7 @@ ita	spa	Sono più basso di te.	Soy más bajo que tú.
 ita	spa	Sono più veloce di te.	Soy más rápido que tú.
 ita	spa	Sono povero.	Soy pobre.
 ita	spa	Sono preoccupata per la salute di mia madre.	Estoy preocupada por la salud de mi madre.
+ita	spa	Sono pronta per l'avventura.	Estoy preparada para la aventura.
 ita	spa	Sono pronto per votare.	Estoy preparado para votar.
 ita	spa	Sono quattro anni più giovane di lui.	Soy cuatro años menor que él.
 ita	spa	Sono qui da già due anni.	Ya hace dos años que estoy aquí.
@@ -7904,6 +8240,9 @@ ita	spa	Sono sicura di avere visto quel tipo da qualche parte prima.	Estoy segur
 ita	spa	Sono sicuro che loro stanno parlando di noi.	Estoy seguro de que ellos están hablando de nosotros.
 ita	spa	Sono sicuro che riuscirà.	Estoy seguro de que triunfará.
 ita	spa	Sono sicuro che sei molto impegnato.	Estoy seguro de que estás muy ocupado.
+ita	spa	Sono simili, però non sono identiche.	Son parecidos, pero no son idénticos.
+ita	spa	Sono simili, però non sono identiche.	Son similares, pero no idénticos.
+ita	spa	Sono simili, però non sono identiche.	Son similares, pero no son idénticos.
 ita	spa	Sono solo un messaggero.	Solo soy un mensajero.
 ita	spa	Sono sorelle?	¿Son hermanas?
 ita	spa	Sono.	Soy.
@@ -7929,6 +8268,7 @@ ita	spa	Sono stato nel treno per dodici ore.	Estuve en el tren por 12 horas.
 ita	spa	Sono stato ricoverato all'ospedale.	Estaba internado en el hospital.
 ita	spa	Sono stato sveglio fino alle 03:00 aspettandoti!	Estuve levantado hasta las 3 a.m. esperándote.
 ita	spa	Sono stato un paio di notti senza dormire.	Estuve un par de noches sin dormir.
+ita	spa	Sono straniera.	Soy extranjera.
 ita	spa	Sono timido.	Soy tímido.
 ita	spa	Sono Tom Hunter.	Soy Tom Hunter.
 ita	spa	Sono tornato una seconda volta in Italia nel 1980.	Volví una segunda vez a Italia en 1980.
@@ -7971,14 +8311,17 @@ ita	spa	Sono un programmatore di videogiochi.	Soy un programador de video juegos
 ita	spa	Sono un ragazzo timido.	Soy un chico tímido.
 ita	spa	Sono un tennista.	Soy un tenista.
 ita	spa	Sono un terrapiattista.	Soy un terraplanista.
+ita	spa	Sono un testimone di Geova.	Soy Testigo de Jehová.
 ita	spa	Sono un tipo fortunato.	Soy un tipo afortunado.
 ita	spa	Sono un uomo prudente.	Soy un hombre cuidadoso.
 ita	spa	Sono un uomo realista.	Soy un hombre realista.
 ita	spa	Sono un uomo.	Yo soy hombre.
+ita	spa	Sono un vincitore nato.	Soy un vencedor nato.
 ita	spa	Sono vegetariana.	Soy vegetariana.
 ita	spa	Sono vegetariano.	Soy vegetariano.
 ita	spa	Sono venuto a piedi.	Vine a pie.
 ita	spa	Sono venuto con i miei amici.	Vine con mis amigos.
+ita	spa	Sono venuto in Australia per imparare il francese, fino a quando mi sono resa conto che qui quasi nessuno parla francese. Però ho incontrato un canadese, Tom, che mi ha detto mi avrebbe aiutato. Allora ci siamo riuniti, e ciò che è cominciato come un paio di studenti di lingue che si aiutano l'un l'altro, si è trasformato in amicizia.	Me vine a Australia para aprender francés, hasta que me di cuenta de que casi nadie aquí habla francés. Pero sí encontré un canadiense, Tom, que dijo que me ayudaría. Entonces nos reunimos, y lo que comenzó como un par de estudiantes de idiomas ayudándose el uno al otro, se convirtió en una amistad.
 ita	spa	Sono venuto per parlare con Tom.	Vine a hablar con Tom.
 ita	spa	Sono xenofoba.	Soy xenófoba.
 ita	spa	Sono xenofobo.	Soy xenófobo.
@@ -7989,6 +8332,10 @@ ita	spa	So suonare la chitarra.	Sé tocar la guitarra.
 ita	spa	Sparisci per sempre!	¡Desaparece para siempre!
 ita	spa	Sparisci per sempre!	¡Piérdete para siempre!
 ita	spa	Spegni la radio.	Apaga la radio.
+ita	spa	Spera che la sua squadra vinca.	Espera que gane su equipo.
+ita	spa	Spera che la sua squadra vinca.	Espera que su equipo gane.
+ita	spa	Spera che la sua squadra vinca.	Espera que su equipo venza.
+ita	spa	Spera che la sua squadra vinca.	Espera que venza su equipo.
 ita	spa	Spero che possiate guarire presto.	Espero que os pongáis buenos pronto.
 ita	spa	Spero che tu abbia ricevuto i fiori che ti ho mandato ieri.	Espero que recibieras las flores que te envié ayer.
 ita	spa	Spero che tu sappia questo.	Espero que lo sepas.
@@ -8026,6 +8373,7 @@ ita	spa	Stai interferendo.	Estás interfiriendo.
 ita	spa	Sta interferendo.	Está interfiriendo.
 ita	spa	Stai pensando di cambiare PC?	¿Estás pensando en cambiar la PC?
 ita	spa	Sta lavando la macchina.	Él está lavando el coche.
+ita	spa	Sta lavando la sua automobile in questo momento.	Está lavando su automóvil en este momento.
 ita	spa	"Sta leggendo un libro?" "Sì."	"¿Está ella leyendo un libro?" "Sí."
 ita	spa	Sta mangiando.	Está comiendo.
 ita	spa	Stamattina sono arrivato in ritardo a scuola.	Esta mañana llegué tarde a la escuela.
@@ -8056,6 +8404,8 @@ ita	spa	State interferendo.	Están interfiriendo.
 ita	spa	Stava bruciando dalla febbre.	Ella estaba ardiendo de fiebre.
 ita	spa	Stava diluviando.	Estaba diluviando.
 ita	spa	Stava dormendo sotto l'albero.	Estaba durmiendo bajo el árbol.
+ita	spa	Stava fingendo di essere addormentato.	Fingía estar dormido.
+ita	spa	Stava fingendo di essere addormentato.	Fingía estar durmiendo.
 ita	spa	Stavano bevendo.	Estaban bebiendo.
 ita	spa	Stavano ripassando la lezione di storia.	Estaban repasando la lección de historia.
 ita	spa	Stava sanguinando copiosamente.	Estaba sangrando abundantemente.
@@ -8073,6 +8423,7 @@ ita	spa	Stavo scrivendo una lettera quando arrivò.	Yo estaba escribiendo una ca
 ita	spa	Sta' zitto e ascolta!	¡Calla y escucha!
 ita	spa	Stiamo cercando qualcuno che sappia usare un computer.	Estamos buscando a alguien que sepa usar una computadora.
 ita	spa	Stiamo mangiando mele.	Estamos comiendo manzanas.
+ita	spa	Stiamo prendendo gli stivali.	Estamos cogiendo las botas.
 ita	spa	Stiamo vincendo.	Estamos ganando.
 ita	spa	Sto ascoltando questa band.	Estoy escuchando a esta banda.
 ita	spa	Sto aspettando Godot.	Estoy esperando a Godot.
@@ -8099,6 +8450,7 @@ ita	spa	Sto lavorando.	Estoy trabajando.
 ita	spa	Sto leggendo il giornale.	Estoy leyendo el periódico.
 ita	spa	Sto leggendo il New York Times.	Estoy leyendo el New York Times.
 ita	spa	Sto leggendo una lettera.	Estoy leyendo una carta.
+ita	spa	Sto leggendo un libro molto lentamente.	Estoy leyendo un libro muy lentamente.
 ita	spa	Sto mangiando frutta.	Estoy comiendo fruta.
 ita	spa	Sto mangiando una mela.	Estoy comiendo una manzana.
 ita	spa	Sto mangiando un pompelmo.	Estoy comiendo un pomelo.
@@ -8177,10 +8529,12 @@ ita	spa	Taro ha comprato un'automobile usata la settimana scorsa.	Taro compró u
 ita	spa	Tatoeba è arrivato a ottocentomila frasi!	¡Tatoeba ha llegado a ochocientas mil oraciones!
 ita	spa	Tatoeba è un esempio di mutuo soccorso.	Tatoeba es un ejemplo de ayuda mutua.
 ita	spa	"Tatoeba" in giapponese significa "per esempio".	"Tatoeba" significa "por ejemplo" en japonés.
+ita	spa	Tatoeba non è un dizionario.	Tatoeba no es un diccionario.
 ita	spa	"Tatoeba" significa "per esempio" in giapponese.	"Tatoeba" significa "por ejemplo" en japonés.
 ita	spa	Te l'avevo detto io che Marco è un bugiardo.	Ya te lo había dicho yo, que Marco es un mentiroso.
 ita	spa	Tel Aviv è una bella città.	Tel Aviv es una ciudad hermosa.
 ita	spa	Te l'ho detto molte volte.	Te lo he dicho muchas veces.
+ita	spa	Te l'ho mai detto che sei la cosa più dolce del mondo?	¿Alguna vez te he dicho que eres lo más dulce que hay en el mundo?
 ita	spa	Te lo rubo.	Te lo robo.
 ita	spa	Temeva di essere preso in giro.	Temía que le tomaran el pelo.
 ita	spa	Temo che noi siamo bloccate qui.	Temo que nosotras estamos atrapadas aquí.
@@ -8196,6 +8550,8 @@ ita	spa	Tenetevi stretti.	Sujétense bien.
 ita	spa	Teoria e pratica non vanno necessariamente assieme.	Teoría y práctica no van necesariamente juntas.
 ita	spa	Terra! Terra!	¡Tierra a la vista!
 ita	spa	Terra! Terra!	¡Tierra! ¡Tierra!
+ita	spa	Ti abbraccio?	¿Te abrazo?
+ita	spa	Ti abbraccio?	¿Te doy un abrazo?
 ita	spa	Ti abbraccio.	Yo te abrazo.
 ita	spa	Ti amerò sempre.	Siempre te querré.
 ita	spa	Ti amo tanto anche oggi.	Te quiero mucho incluso hoy.
@@ -8227,6 +8583,7 @@ ita	spa	Tieni pulita la tua stanza.	Mantené tu cuarto limpio.
 ita	spa	Ti è piaciuta la bicicletta?	¿Te gustó la bicicleta?
 ita	spa	Ti è piaciuto il film che abbiamo visto ieri?	¿Te gustó la película que vimos ayer?
 ita	spa	Ti è solo sembrato.	Sólo te ha parecido.
+ita	spa	Ti fa bene.	Te hace bien.
 ita	spa	Ti farai male.	Te vas a lastimar.
 ita	spa	Ti ho dato la casa.	Te he dado la casa.
 ita	spa	Ti ho dato tutto quello che hai chiesto.	Te he dado todo lo que pediste.
@@ -8311,6 +8668,7 @@ ita	spa	Tom cadde.	Tom se cayó.
 ita	spa	Tom chiese a John quale fosse il cognome di Mary.	Tom le preguntó a John cuál era el apellido de Mary.
 ita	spa	Tom chiese a Mary di rispondere al telefono.	Tom le pidió a Mary que cogiera el teléfono.
 ita	spa	Tom chiese a suo padre se potava andare al cinema.	Tom le preguntó a su padre si podía ir al cine.
+ita	spa	Tom chiese un succo d'arancia.	Tom pidió un zumo de naranja.
 ita	spa	Tom cominciò a dire qualcosa.	Tom comenzó a decir algo.
 ita	spa	Tom confessò che aveva mangiato tutti i biscotti.	Tom confesó que él había comido todas las galletitas.
 ita	spa	Tom crede che Mary sia innocente.	Tom cree que Mary es inocente.
@@ -8325,11 +8683,13 @@ ita	spa	Tom dipende da Mary.	Tom depende de Mary.
 ita	spa	Tom dipende troppo da Mary.	Tom depende demasiado de Mary.
 ita	spa	Tom dirà la verità.	Tom dirá la verdad.
 ita	spa	Tom di solito si taglia i capelli solo due o tre volte l'anno.	Tom habitualmente se corta el cabello solo dos o tres veces al año.
+ita	spa	Tom disse a Mary che non pensava che John fosse scortese.	Tom le dijo a Mary que no creía que John fuera maleducado.
 ita	spa	Tom disse a Mary di parlare con John.	Tom le dijo a Mary que hablara con John.
 ita	spa	Tom dovrebbe andarsene adesso.	Tom debería irse ahora.
 ita	spa	Tom dovrebbe essere nel suo ufficio.	Tom debería estar en su oficina.
 ita	spa	Tom dovrebbe partire adesso.	Tom debería irse ahora.
 ita	spa	Tom dovrebbe partire ora.	Tom debería irse ahora.
+ita	spa	Tom è a casa perché è malato.	Tom está en casa porque está enfermo.
 ita	spa	Tom è a casa?	¿Tom está en casa?
 ita	spa	Tom è aggressivo.	Tom es agresivo.
 ita	spa	Tom è al di sopra dell'altezza media.	Tom sobrepasa la altura media.
@@ -8398,6 +8758,7 @@ ita	spa	Tom era famoso.	Tom era famoso.
 ita	spa	Tom era il nostro capitano.	Tom era nuestro capitán.
 ita	spa	Tom era importante.	Tom era importante.
 ita	spa	Tom era in TV ieri sera.	Tom estuvo en la TV anoche.
+ita	spa	Tom era l'autista designato.	Tom era el chófer designado.
 ita	spa	Tom era lo sceriffo.	Tom era el sheriff.
 ita	spa	Tom era troppo sorpreso per reagire.	Tom estaba demasiado sorprendido para reaccionar.
 ita	spa	Tom era un amico della famiglia.	Tom era un amigo de la familia.
@@ -8407,6 +8768,8 @@ ita	spa	Tom è robusto.	Tom es robusto.
 ita	spa	Tom è sdraiato.	Tom está acostado.
 ita	spa	Tom è sempre a letto.	Tom siempre está en la cama.
 ita	spa	Tom è sempre molto ben vestito.	Tom va siempre muy bien vestido.
+ita	spa	Tom è single o sposato?	¿Tom está soltero o casado?
+ita	spa	Tom è stanco di non fare niente.	Tom está cansado de no hacer nada.
 ita	spa	Tom è troppo giovane.	Tom es demasiado joven.
 ita	spa	Tom è un adulto.	Tom es un adulto.
 ita	spa	Tom è una persona meravigliosa.	Tom es una persona maravillosa.
@@ -8483,6 +8846,7 @@ ita	spa	Tom ha una barba completa.	Tom tiene una barba cerrada.
 ita	spa	Tom ha una fidanzata?	¿Tom tiene novia?
 ita	spa	Tom ha un amico che vive a Boston.	Tom tiene un amigo que vive en Boston.
 ita	spa	Tom ha un ammiratore segreto.	Tom tiene un admirador secreto.
+ita	spa	Tom ha una nuova casa?	¿Tom tiene una casa nueva?
 ita	spa	Tom ha un biglietto.	Tom tiene un boleto.
 ita	spa	Tom ha un cavallo.	Tom tiene un caballo.
 ita	spa	Tom ha un cuore grande.	Tom tiene un gran corazón.
@@ -8515,11 +8879,13 @@ ita	spa	Tom morì mentre era a Boston.	Tom murió mientras estaba en Boston.
 ita	spa	Tom non andrà da solo.	Tom no va a ir solo.
 ita	spa	Tom non ascolta i suoi genitori.	Tom no escucha a sus padres.
 ita	spa	Tom non aveva idea che Mary fosse infelice.	Tom no tenía ni idea de que Mary fuese infeliz.
+ita	spa	Tom non aveva posto da vivere.	Tom no tenía un lugar donde vivir.
 ita	spa	Tom non canta mai in pubblico.	Tom nunca canta en público.
 ita	spa	Tom non conosce i suoi vicini.	Tom no conoce a sus vecinos.
 ita	spa	Tom non conosce la differenza tra Iraq e Iran.	Tom no sabe la diferencia entre Irak e Irán.
 ita	spa	Tom non è andato a scuola ieri perché non voleva.	Tom no fue a la escuela ayer porque no quería.
 ita	spa	Tom non è finlandese.	Tom no es finés.
+ita	spa	Tom non è il capo.	Tom no es el jefe.
 ita	spa	Tom non è in grado di farlo.	Tom es incapaz de hacerlo.
 ita	spa	Tom non è mai soddisfatto.	Tom nunca está satisfecho.
 ita	spa	Tom non è nella sua camera da letto.	Tom no está en su recámara.
@@ -8539,6 +8905,7 @@ ita	spa	Tom non ha abbastanza denaro.	Tom no tiene suficiente dinero.
 ita	spa	Tom non ha abbastanza soldi.	Tom no tiene suficiente dinero.
 ita	spa	Tom non ha ancora chiamato Mary.	Tom aún no ha llamado a Mary.
 ita	spa	Tom non ha le braccia pelose.	Tom no tiene brazos velludos.
+ita	spa	Tom non ha lezione il mercoledì.	Tom no tiene clases el miércoles.
 ita	spa	Tom non ha mai pensato al futuro.	Tom nunca pensó en el futuro.
 ita	spa	Tom non ha mai ricevuto un riconoscimento.	Tom nunca obtuvo un premio.
 ita	spa	Tom non ha mai sentito Mary parlare francese.	Tom nunca ha oído a Mary hablar francés.
@@ -8546,12 +8913,14 @@ ita	spa	Tom non ha nulla da nascondere.	Tom no tiene nada que esconder.
 ita	spa	Tom non ha senso dell'umorismo.	Tom no tiene sentido del humor.
 ita	spa	Tom non ha una macchina.	Tom no tiene coche.
 ita	spa	Tom non ha una macchina.	Tom no tiene un auto.
+ita	spa	Tom non interrompermi, per favore.	Tom, no me interrumpas, por favor.
 ita	spa	Tom non lavora qui.	Tom no trabaja aquí.
 ita	spa	Tom non l'ha visto.	Tom no lo ha visto.
 ita	spa	Tom non mette zucchero nel suo caffè.	Tom no le echa azúcar a su café.
 ita	spa	Tom non mi disse nulla.	Tom no me dijo nada.
 ita	spa	Tom non parlerà con Mary.	Tom no hablará con Mary.
 ita	spa	Tom non partirà se non vuoi che lo faccia.	Tom no se irá si no quieres que lo haga.
+ita	spa	Tom non può avere un punteggio così alto.	Tom no puede tener una puntuación tan alta.
 ita	spa	Tom non può rispondere alla tua domanda.	Tom no puede responder tu pregunta.
 ita	spa	Tom non rispetta le regole.	Tom no respeta las reglas.
 ita	spa	Tom non riusciva a dire altro.	Tom no conseguía decir nada más.
@@ -8763,6 +9132,7 @@ ita	spa	Tu stai mentendo.	Estás mintiendo.
 ita	spa	Tutta la città è al corrente.	Toda la ciudad está al corriente.
 ita	spa	Tutte le case devono essere abitate.	Todas las casas tienen que estar afumadas.
 ita	spa	Tutte le porte della casa sono chiuse.	Todas las puertas de la casa están cerradas.
+ita	spa	Tutti ammirarono il suo coraggio.	Todos admiraron su coraje.
 ita	spa	Tutti dovrebbero portare il proprio pranzo.	Todos deberían de traer su propio almuerzo.
 ita	spa	Tutti erano invitati, tranne me.	Todos fueron invitados, menos yo.
 ita	spa	Tutti gli occhi erano puntati su di lei.	Todos los ojos fueron puestos en ella.
@@ -8771,6 +9141,7 @@ ita	spa	Tutti gli studenti del nostro corso devono superare l'esame.	Todos los e
 ita	spa	Tutti hanno diritto alla propria opinione. Tuttavia, a volte è meglio non dire a nessuno qual è quest'opinione.	Todos tienen derecho a su opinión propia. Sin embargo, a veces es mejor no decirle a nadie cuál es esa opinión.
 ita	spa	Tutti hanno il diritto alla vita, alla libertà ed alla sicurezza personale.	Todos tienen el derecho a la vida, a la libertad y a la seguridad personal.
 ita	spa	Tutti hanno lodato il suo eroismo.	Todos elogiaban su heroísmo.
+ita	spa	Tutti hanno un padre e una madre.	Cada uno tiene un padre y una madre.
 ita	spa	Tutti i dizionari contengono errori.	Todos los diccionarios contienen errores.
 ita	spa	Tutti i fiori nel giardino sono gialli.	Todas las flores del jardín son amarillas.
 ita	spa	Tutti i giornalisti italiani sono ipocriti?	¿Son todos los periodistas italianos hipócritas?
@@ -8784,6 +9155,7 @@ ita	spa	Tutti i poliziotti sono bastardi.	Todos los policías son malditos.
 ita	spa	Tutti i ragazzi stavano danzando.	Todos los muchachos estaban bailando.
 ita	spa	Tutti i sistemi di scrittura hanno vantaggi e svantaggi.	Todos los sistemas de escritura tienen ventajas y desventajas.
 ita	spa	Tutti i suoi libri sono scritti in italiano.	Todos sus libros están escritos en italiano.
+ita	spa	Tutti loro hanno figli.	Todos ellos tienen hijos.
 ita	spa	Tutti lo sanno.	Todo el mundo lo sabe.
 ita	spa	Tutti meritano una seconda possibilità.	Todo el mundo se merece una segunda oportunidad.
 ita	spa	Tutti mi guardano male.	Todos me miran mal.
@@ -8816,6 +9188,7 @@ ita	spa	Ucciderò il re con il veleno, se mi darai una ricompensa.	Si me das una
 ita	spa	Ucciderò quella canaglia con le mie stesse mani!	¡Mataré a ese canalla con mis propias manos!
 ita	spa	Udite!	¡Atención!
 ita	spa	Ultimamente piove sempre.	Últimamente llueve todo el tiempo.
+ita	spa	Una balalaika ha tre corde, un basso ne ha quattro e una chitarra normale ne ha sei o sette.	Una balalaica tiene tres cuerdas, un bajo cuatro y una guitarra normal tiene seis o siete.
 ita	spa	Una birra oggi o una laurea domani?	¿Una cerveza hoy o un título mañana?
 ita	spa	Una buona disposizione ad affrontare la crisi è un fattore chiave di successo.	La disposición a hacer frente a una crisis es un factor clave de éxito.
 ita	spa	Una coca, per piacere.	Una Coca-Cola por favor.
@@ -8825,6 +9198,7 @@ ita	spa	Una costellazione brilla.	Una constelación brilla.
 ita	spa	Una diceria non sempre prova un fatto.	Un rumor no siempre prueba un hecho.
 ita	spa	Una foto non può spiegare le ragioni.	Una foto no puede explicar las razones.
 ita	spa	Una frase è una frase.	Una frase es una frase.
+ita	spa	Una lingua è molto più della somma delle sue parole.	Una lengua es mucho más que la suma de sus palabras.
 ita	spa	Una lingua è un dialetto con un esercito e una marina.	Un idioma es un dialecto con ejercito y marina.
 ita	spa	Un'altra birra, per favore!	¡Otra cerveza, por favor!
 ita	spa	Un altro bicchiere di birra, per favore.	Otro vaso de cerveza, por favor.
@@ -8877,6 +9251,7 @@ ita	spa	Un insetto ti ha punto?	¿Te ha picado un insecto?
 ita	spa	Un lupo non può essere addomesticato.	Un lobo no puede ser domesticado.
 ita	spa	Un marinaio passa la maggior parte del suo tempo in mare.	Un marinero pasa la mayor parte de su tiempo en el mar.
 ita	spa	Un milione di persone ha perso la vita durante la guerra.	Un millón de personas perdieron la vida en la guerra.
+ita	spa	Un museo è un luogo o un edificio dove sono raccolte opere d'arte per mostrarle al pubblico ed eventualmente conservarle per il futuro.	Un museo es un lugar o un edificio donde se reúnen obras de arte para mostrarlas al público y, posiblemente, conservar para el futuro.
 ita	spa	Un neurone ha dendriti e assoni con sinapsi	Una neurona tiene dendritas y axones con sinapsis
 ita	spa	Un'oca è un uccello acquatico.	Un ganso es un ave acuática.
 ita	spa	Uno dei grandi segreti della felicità è moderare i desideri e amare ciò che già si possiede.	Uno de los grandes secretos de la felicidad es moderar los deseos y amar lo que ya se posee.
@@ -8904,6 +9279,7 @@ ita	spa	Un terzo del territorio svizzero è coperto da foreste.	Un tercio del te
 ita	spa	Un test del DNA ha mostrato che era innocente.	Una prueba de ADN mostró que era inocente.
 ita	spa	Un tè verde, per favore.	Un té verde, por favor.
 ita	spa	Un uomo come me ha bisogno di un cappello.	Un hombre como yo necesita un sombrero.
+ita	spa	Un uomo deve avere un sogno.	Un hombre debe tener un sueño.
 ita	spa	Un urlo ruppe il silenzio.	Un grito rompió el silencio.
 ita	spa	Un vento fresco soffia nel bosco di castagni.	Un viento fresco sopla en el bosque de castaños.
 ita	spa	Un vestito così, io non lo comprerei mai.	Un vestido así, yo no lo compraría jamás.
@@ -8956,6 +9332,7 @@ ita	spa	Vale la pena leggere almeno una volta questi libri.	Vale la pena leer es
 ita	spa	Vanno a costruire biblioteche in Cina.	Van a construir bibliotecas en China.
 ita	spa	Vanno in due e cade quello in mezzo.	Van dos y se cae el de en medio.
 ita	spa	Va, pensiero, sull'ali dorate; // va, ti posa sui clivi, sui colli, // ove olezzano tepide e molli // l'aure dolci del suolo natal!	¡Ve, pensamiento, con alas doradas, // pósate en las praderas y en las cimas // donde exhala su suave fragancia // el dulce aire de la tierra natal!
+ita	spa	Vattene da qui. Non voglio vederti.	Vete de aquí. No te quiero ver.
 ita	spa	Vattene.	¡Lárgate!
 ita	spa	Vede il cielo?	¿Ve el cielo?
 ita	spa	Vedere l'aragosta fresca mi mise appetito.	Ver la langosta fresca me dio apetito.
@@ -8978,6 +9355,7 @@ ita	spa	Vedo un leone.	Veo un león.
 ita	spa	Veloce!	¡Rápido!
 ita	spa	Vende conchiglie sulla costa.	Vende conchas en la costa.
 ita	spa	Vendere macchine è il mio lavoro.	Vender coches es mi trabajo.
+ita	spa	Vendetti una TV.	Vendí una televisión.
 ita	spa	Vende un cappello d'epoca.	Ella vende un sombrero antiguo.
 ita	spa	Vendo un'auto nuova.	Vendo un coche nuevo.
 ita	spa	Venerdì mattina riusciresti a spiegarmi degli esercizi di cinese se hai tempo e voglia?	¿El viernes por la mañana me podrías explicar los ejercicios de chino si tenés tiempo y ganas?
@@ -9034,6 +9412,7 @@ ita	spa	Viva l'Imperatore!	¡Viva el Emperador!
 ita	spa	Viva l'Unione Sovietica!	¡Viva la Unión Soviética!
 ita	spa	Vive a Tokyo.	Él vive en Tokio.
 ita	spa	Vive completamente da solo nei boschi.	Él vive en el bosque solo.
+ita	spa	Vive in una stanzetta che condivide con un altro studente.	Vive en una pequeña habitación que comparte con otro estudiante.
 ita	spa	Vivendo impari.	Viviendo se aprende.
 ita	spa	Vivere è di tutti, viver bene è di pochi.	La vida es para todos, vivir bien es de unos pocos.
 ita	spa	Vi verremo a trovare domani.	Nos vamos a encontrar mañana.
@@ -9068,6 +9447,7 @@ ita	spa	Voglio andare là ancora una volta.	Quiero ir ahí una vez más.
 ita	spa	Voglio avere una cucina ultramoderna.	Quiero tener una cocina ultramoderna.
 ita	spa	Voglio ballare.	Quiero bailar.
 ita	spa	Voglio cantare una canzone.	Quiero cantar una canción.
+ita	spa	Voglio che lo trovi per me.	Quiero que lo encuentres por mí.
 ita	spa	Voglio che questo lavoro sia finito per le cinque.	Quiero que el trabajo esté terminado para las cinco.
 ita	spa	Voglio che sembri una rapina.	Quiero que parezca un robo.
 ita	spa	Voglio che sia fatta giustizia.	Quiero que se haga justicia.
@@ -9082,6 +9462,7 @@ ita	spa	Voglio comprare questo dizionario.	Quiero comprar este diccionario.
 ita	spa	Voglio darti un piccolo consiglio.	Quiero darte un pequeño consejo.
 ita	spa	Voglio della pizza!	¡Quiero pizza!
 ita	spa	Voglio dormire.	Quiero dormir.
+ita	spa	Voglio essere come lui.	Quiero ser como él.
 ita	spa	Voglio essere come Picasso.	Quiero ser como Picasso.
 ita	spa	Voglio essere una lumaca.	Quiero ser una babosa.
 ita	spa	Voglio essere una persona migliore.	Quiero ser una mejor persona.
@@ -9097,6 +9478,7 @@ ita	spa	Voglio la tua opinione.	Quiero tu opinión.
 ita	spa	Voglio mangiare il formaggio.	Me quiero comer el queso.
 ita	spa	Voglio mangiare un mandarancio.	Quiero comer una clementina.
 ita	spa	Voglio morire con Getter Jaani.	Quiero morir con Getter Jaani.
+ita	spa	Vogliono che pensiamo che sono felici.	Quieren que pensemos que son felices.
 ita	spa	Vogliono tornare.	Quieren irse.
 ita	spa	Vogliono tornare.	Quieren volver.
 ita	spa	Voglio pagare con una carta di credito.	Quiero pagar con una tarjeta de crédito.
@@ -9223,6 +9605,7 @@ ita	spa	Vuoi che ti dipinga?	¿Querés que te retrate?
 ita	spa	Vuoi che vediamo insieme la partita?	¿Querés que vayamos juntos a ver el partido?
 ita	spa	Vuoi della zuppa?	¿Querés sopa?
 ita	spa	Vuoi fare una dichiarazione?	¿Querés hacer una declaración?
+ita	spa	Vuoi fumare una canna?	¿Quieres fumar un canuto?
 ita	spa	Vuoi giocare a calcio con noi?	¿Quieres jugar con nosotros al fútbol?
 ita	spa	Vuoi incontrare Tom?	¿Quieres encontrarte con Tom?
 ita	spa	Vuoi insegnare l'esperanto ai tuoi bambini?	¿Querés enseñarles esperanto a tus niños?
@@ -9241,6 +9624,10 @@ ita	spa	Vuole una nuova macchina.	Él quiere un coche nuevo.
 ita	spa	Vuole una tazza di caffè?	¿Quiere una taza de café?
 ita	spa	Vuole un biscottino?	¿Quiere una galletita?
 ita	spa	Wang Lao Ji non è una birra. È un tè.	Wang Lao Ji no es una cerveza, es té.
+ita	spa	Yanni aiutò.	Yanni ayudó.
+ita	spa	Yanni era molto orgoglioso della sua collezione di auto.	Yanni estaba muy orgulloso de su colección de coches.
+ita	spa	Yanni e Skura sono amici su Facebook.	Yanni y Skura son amigos en Facebook.
+ita	spa	Yanni non cambierà idea.	Yanni no cambiará de idea.
 ita	spa	Yuriko Himekusa si è uccisa.	Yuriko Himekusa se suicidó.
 ita	spa	Zamenhof è il creatore dell'esperanto.	Zamenhof es el creador del esperanto.
 ita	spa	Zamenhof era un uomo molto saggio.	Zamenhof era un hombre muy sabio.

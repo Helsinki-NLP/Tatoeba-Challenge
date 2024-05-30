@@ -10,11 +10,12 @@ epo	khm	Ĉu mi rajtas iri al la necesejo rapidete?	ខ្ញុំសុំទ�
 epo	khm	Ĉu vi bonguste manĝis?	តើញ៉ាំឆ្ងាញ់ទេ ?
 epo	khm	Ĉu vi certas?	តើប្រាកដ ?
 epo	khm	Ĉu vi certas?	តើអ្នកច្បាស់ហេ៎ ?
+epo	khm	Ĉu vi certas?	តើអ្នកប្រាកដហេ៎ ?
 epo	khm	Ĉu vi elĉerpiĝis?	តើអ្នកអស់កម្លាំង ?
-epo	khm	Ĉu vi feliĉas?	សប្បាយអត់ ?
 epo	khm	Ĉu vi feliĉas?	តើសប្បាយទេ ?
-epo	khm	Ĉu vi lacas?	ហត់អត់ ?
+epo	khm	Ĉu vi feliĉas?	សប្បាយអត់ ?
 epo	khm	Ĉu vi lacas?	តើអ្នកហត់ឬទេ ?
+epo	khm	Ĉu vi lacas?	ហត់អត់ ?
 epo	khm	Ĉu vi volas manĝi ion?	ចង់ញ៉ាំអីអត់ ?
 epo	khm	Dek, dek unu, dek du, dek tri, dek kvar, dek kvin, dek ses, dek sep, dek ok, dek naŭ, dudek.	ដប់ ដប់មួយ ដប់ពីរ ដប់បី ដប់បួន ដប់ប្រាំ ដប់ប្រាំមួយ ដប់ប្រាំពីរ ដប់ប្រាំបី ដប់ប្រាំបួន ម្ភៃ ។
 epo	khm	Eliru!	ចេញទៅ !
@@ -25,21 +26,22 @@ epo	khm	Ĝis morgaŭ!	ស្អែកជួបគ្នា !
 epo	khm	Ĝis tre baldaŭ!	ជួបគ្នាឆាប់ៗនេះ !
 epo	khm	Ili haltigis siajn motorciklojn survoje.	ពួកគេ ឈប់ម៉ូតូតាមផ្លូវ ។
 epo	khm	Jes.	ចាស ។
-epo	khm	Kia estas la gusto?	រសជាតិយ៉ាងម៉េចដែរ ?
+epo	khm	Jes.	បាទ ។
 epo	khm	Kia estas la gusto?	តើរស់ជាតិយ៉ាងម៉េចដែរ?
+epo	khm	Kia estas la gusto?	រសជាតិយ៉ាងម៉េចដែរ ?
 epo	khm	Kie estas la gasta domo?	ផ្ទះសំណាក់នៅណា?
 epo	khm	Kie ĝi estas?	តើនៅកន្លែងណា ?
+epo	khm	Kiel vi fartas?	អ្នកសុខសប្បាយទេ?
 epo	khm	Kiel vi?	សុខ​សប្បាយ​?
 epo	khm	Kiel vi?	សុខសប្បាយអត់ ?
 epo	khm	Kiel vi?	អ្នកសុខសប្បាយទេ?
-epo	khm	Kiel vi fartas?	អ្នកសុខសប្បាយទេ?
 epo	khm	Kie vi estas?	តើនៅកន្លែងណា ?
 epo	khm	Kie vi laboras?	តើធ្វើការនៅណា​?
 epo	khm	Kioma horo estas?	តើវាម៉ោងប៉ុន្មានហើយ ?
 epo	khm	Kion vi volas aĉeti?	ចង់ទិញអី?
 epo	khm	Kio odoras bonguste?	តើឈ្ងុយអីគេហ្នឹង ?
-epo	khm	Kio okazas?	ថី ?
 epo	khm	Kio okazas?	កើតអី ?
+epo	khm	Kio okazas?	ថី ?
 epo	khm	Kiu estas la virino?	ស្រី្តគឺជាអ្នកណា?
 epo	khm	La dento doloras al mi.	ខ្ញុំឈឺធ្មេញ ។
 epo	khm	La hundo mordis la viron.	ឆ្កែ​ខាំ​បុរស​។
@@ -53,6 +55,7 @@ epo	khm	Li vivas en Novjorko.	គាត់រស់នៅក្រុងញូ�
 epo	khm	Maljen problemo.	​អត់បញ្ហា។
 epo	khm	Manĝu!	ញ៉ាំ !
 epo	khm	Mia haŭto molas.	ស្បែកខ្ញុំទន់ ។
+epo	khm	Mi amas vin!	បងស្រលាញ់អូន !
 epo	khm	Mi amas vin!	អូនស្រលាញ់បង !
 epo	khm	Mia stomako doloregas.	ខ្ញុំចុកពោះណាស់ ។
 epo	khm	Mi bonfartas.	ខ្ញុំសុខសប្បាយ ។
@@ -69,10 +72,11 @@ epo	khm	Min pikis moskito.	មូសខាំខ្ញុំ ។
 epo	khm	Mi scias, ke vi mensogas.	ខ្ញុំដឹងថាអ្នកកហុក ។
 epo	khm	Mi sentas min bone.	ខ្ញុំសុខសប្បាយ ។
 epo	khm	Mi soifas.	ខ្ញុំឃ្លានទឹក ។
+epo	khm	Mi soifas.	ខ្ញុំស្រេកទឺក ។
 epo	khm	Mi statas bone.	ខ្ញុំសុខសប្បាយ ។
 epo	khm	Mi urinas.	ខ្ញុំបត់ជើងតូច ។
-epo	khm	Mi urinis.	ខ្ញុំបត់ជើងតូច ។
 epo	khm	Mi urinis en mia pantalono.	ខ្ញុំរាគនោមដាក់ខោ ។
+epo	khm	Mi urinis.	ខ្ញុំបត់ជើងតូច ។
 epo	khm	Mi urinos.	ខ្ញុំបត់ជើងតូច ។
 epo	khm	Moskito pikis min.	មូសខាំខ្ញុំ ។
 epo	khm	Ne estas problemo.	​អត់បញ្ហា។

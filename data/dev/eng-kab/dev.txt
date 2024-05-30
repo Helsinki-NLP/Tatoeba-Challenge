@@ -1,3 +1,4 @@
+eng	kab	"々" means the previous kanji is repeated.	"々" anamek-is d-akken Kenji yezwar u yettales-d.
 eng	kab	2013 was a difficult year.	2013 d aseggas iweɛren.
 eng	kab	A beer, please.	Tabyirt, ma ulac aɣilif.
 eng	kab	A big thank you to Mary for spearheading this initiative!	Tanemmirt tameqqrant i Mary i yellan d uzzal n uneccab n ticetlin agi.
@@ -699,12 +700,12 @@ eng	kab	Be brief.	Ssgezlemt.
 eng	kab	Be brief.	Ssgezlet.
 eng	kab	Be calm.	Sres iman-ik!
 eng	kab	Be calm.	Thedden!
+eng	kab	Be careful.	Ɣuṛ-k!
+eng	kab	Be careful.	Ɣuṛ-m!
 eng	kab	Be careful, there's a car!	Ɣur-kent takeṛṛust!
 eng	kab	Be careful, there's a car!	Ɣur-k takeṛṛust!
 eng	kab	Be careful, there's a car!	Ɣur-m takeṛṛust!
 eng	kab	Be careful, Tom.	Ɣuṛ-k a Tom.
-eng	kab	Be careful.	Ɣuṛ-k!
-eng	kab	Be careful.	Ɣuṛ-m!
 eng	kab	Because he is there.	Acku da i yella.
 eng	kab	Because he is there.	Axaṭeṛ atan da.
 eng	kab	Because he is there.	Axaṭeṛ da i yella.
@@ -847,8 +848,8 @@ eng	kab	Call the cops.	Siwlemt i temsulta.
 eng	kab	Call them.	Siwel-asent.
 eng	kab	Call them.	Siwlemt-asent.
 eng	kab	Call them.	Siwlet-asent.
-eng	kab	Call us.	Laɛim-aɣ-d.
 eng	kab	Call us.	Ɣṛem-aɣ-d.
+eng	kab	Call us.	Laɛim-aɣ-d.
 eng	kab	Call us.	Siwel-aɣ-d.
 eng	kab	Call us.	Siwlem-aɣ-d.
 eng	kab	Call your brother.	Siwel i gma-k.
@@ -1034,8 +1035,8 @@ eng	kab	Close it.	Ɣelqet-t.
 eng	kab	Close it.	Ɣleq-it.
 eng	kab	Close the door, please.	Mdel tawwurt, ma ulac aɣilif.
 eng	kab	Close the door, please.	Medlet tawwurt, ma ulac aɣilif.
-eng	kab	Close the window.	Derrɛemt ṭṭaq-nni!
 eng	kab	Close the window.	Derreɛ ṭṭaq!
+eng	kab	Close the window.	Derrɛemt ṭṭaq-nni!
 eng	kab	Close the window.	Mdel ṭṭaq-nni.
 eng	kab	Close the window.	Sekkeṛ ṭṭaq-nni!
 eng	kab	Close the window.	Sekkṛem ṭṭaq-nni!
@@ -1281,16 +1282,16 @@ eng	kab	Did someone contact you?	Yella ḥedd i ak-d-isawlen?
 eng	kab	Did someone contact you?	Yella ḥedd i akent-id-isawlen?
 eng	kab	Did someone contact you?	Yella ḥedd i m-d-isawlen?
 eng	kab	Did someone contact you?	Yella ḥedd i wen-d-isawlen?
-eng	kab	Did someone contact you?	Yella walebɛaḍ i ak-d-iluɛan?
 eng	kab	Did someone contact you?	Yella walebɛaḍ i ak-d-iɣṛan?
+eng	kab	Did someone contact you?	Yella walebɛaḍ i ak-d-iluɛan?
 eng	kab	Did someone contact you?	Yella walebɛaḍ i ak-d-isawlen?
 eng	kab	Did someone contact you?	Yella walebɛaḍ i akent-id-iɣṛan?
 eng	kab	Did someone contact you?	Yella walebɛaḍ i akent-id-isawlen?
 eng	kab	Did someone contact you?	Yella walebɛaḍ i m-d-iɣṛan?
 eng	kab	Did someone contact you?	Yella walebɛaḍ i m-d-isawlen?
 eng	kab	Did someone contact you?	Yella win i ak-d-isawlen?
-eng	kab	Did someone contact you?	Yella win i m-d-iluɛan?
 eng	kab	Did someone contact you?	Yella win i m-d-iɣṛan?
+eng	kab	Did someone contact you?	Yella win i m-d-iluɛan?
 eng	kab	Did someone contact you?	Yella win i m-d-isawlen?
 eng	kab	Did someone contact you?	Yella win i wen-d-isawlen?
 eng	kab	Did someone die?	Tella kra n yiwet i yemmuten?
@@ -2024,8 +2025,8 @@ eng	kab	Eat me!	Ečč-iyi!
 eng	kab	Eat me.	Ečč-iyi.
 eng	kab	Eat, otherwise you'll be hungry!	Ečč, muɣef ad tellaẓeḍ!
 eng	kab	Eat shit — millions of flies cannot be wrong.	Ečč iẓẓan - D imelyunen n yizan i ten-itetten.
-eng	kab	Eat slowly.	Ečč s lɣarḍ-ik.
 eng	kab	Eat slowly.	Ečč s leɛqel.
+eng	kab	Eat slowly.	Ečč s lɣarḍ-ik.
 eng	kab	Eat slowly.	Ečč s ttawil.
 eng	kab	Eat snow.	Ečč adfel.
 eng	kab	Eat up.	Ččet.
@@ -2074,9 +2075,9 @@ eng	kab	Everybody blames you.	Sḍelmen-kent akk medden.
 eng	kab	Everybody cheered.	Ceqqṛen meṛṛa.
 eng	kab	Everybody cheered.	Wwten akk afus.
 eng	kab	Everybody cheered.	Wwten meṛṛa afus.
+eng	kab	Everybody hates Tom.	Ɣuccen meṛṛa Tom.
 eng	kab	Everybody hates Tom.	Keṛhen akk Tom.
 eng	kab	Everybody hates Tom.	Medden meṛṛa keṛhen Tom.
-eng	kab	Everybody hates Tom.	Ɣuccen meṛṛa Tom.
 eng	kab	Everybody here knows you don't eat pork.	Medden akk dagi ẓran belli ur ttetteḍ ara aḥelluf.
 eng	kab	Everybody is afraid.	I meṛṛa-nsen ugaden.
 eng	kab	Everybody is afraid.	Tekcem-iten tegdi akken ma llan.
@@ -2600,8 +2601,8 @@ eng	kab	Happy holidays.	Sarameɣ-ak usan n usteɛfu yelhan.
 eng	kab	Happy holidays.	Sarameɣ-am ussan n usteɛfu yelhan.
 eng	kab	Has anything changed?	Yella kra i ibeddlen?
 eng	kab	Has he eaten?	Yečča?
-eng	kab	Has she a piano?	Tesɛa apyanu?
 eng	kab	Has she a piano?	Ɣur-s apyanu?
+eng	kab	Has she a piano?	Tesɛa apyanu?
 eng	kab	Has someone died?	Tella tin i yemmuten?
 eng	kab	Has someone died?	Yella ḥedd i yemmuten?
 eng	kab	Has someone died?	Yella kra n yiwen i yemmuten?
@@ -2953,10 +2954,10 @@ eng	kab	Hello!	Azul.
 eng	kab	Hello?	Azul?
 eng	kab	Hello, Chicago!	Azul a Chicago!
 eng	kab	Hello. Could I speak to Tom Jackson?	Alu. Zemreɣ ad mmeslayeɣ i Tom Jackson?
-eng	kab	Hello!	Ɛelxiṛ!
 eng	kab	Hello everybody!	Azul meṛṛa fell-akent!
 eng	kab	Hello everybody!	Azul meṛṛa fell-awen!
 eng	kab	Hello everyone!	Azul fell-awen meṛṛa!
+eng	kab	Hello!	Ɛelxiṛ!
 eng	kab	Hello, girls.	Azul a lxalat.
 eng	kab	Hello, Grandfather.	Azul a jeddi.
 eng	kab	Hello, I am Nancy.	Azul, isem-iw Nancy.
@@ -3347,9 +3348,9 @@ eng	kab	How many do you have?	Acḥal i tesɛam?
 eng	kab	How many do you have?	Acḥal i tesɛamt?
 eng	kab	How many eggs do you eat a week?	Acḥal n tmellalin i ttetteḍ i ddurt?
 eng	kab	How many eggs do you usually eat for breakfast?	Acḥal n tmellalin i tennumeḍ ttetteḍ ṣṣbeḥ?
-eng	kab	How many guitars do you have?	Acḥal tesεiḍ igiṭaren?
 eng	kab	How many guitars do you have?	Acḥal ɣur-k igiṭaren?
 eng	kab	How many guitars do you have?	Acḥal ɣur-m igiṭaren?
+eng	kab	How many guitars do you have?	Acḥal tesεiḍ igiṭaren?
 eng	kab	How many monkeys did you see?	Acḥal teẓriḍ iḥullam?
 eng	kab	How many monkeys did you see?	Acḥal teẓriḍ n yibkan?
 eng	kab	How many monkeys did you see?	Acḥal teẓriḍ n yiddwen?
@@ -3997,8 +3998,8 @@ eng	kab	I feel terrible.	Ḥusseɣ iman-iw cwiya kan.
 eng	kab	I feel tired.	Ttḥussuɣ-as ɛyiɣ.
 eng	kab	I feel tired.	Ttḥussuɣ iman-iw ɛyiɣ.
 eng	kab	I feel very lonely these days.	Ḥusseɣ-as ggriɣ-d d awḥid ussan-a.
-eng	kab	I fell in love with a girl from Boston.	Ԑecqeɣ deg yiwet n teqcict n Boston.
 eng	kab	I fell.	Ɣliɣ.
+eng	kab	I fell in love with a girl from Boston.	Ԑecqeɣ deg yiwet n teqcict n Boston.
 eng	kab	I felt as if I were in a dream.	Ḥulfaɣ amzun lliɣ di targit.
 eng	kab	I felt really embarrassed.	Ḥulfeɣ ulint-iyi-d lḥecmat.
 eng	kab	I felt very peaceful.	Ḥulfeɣ s waṭas n talwit.
@@ -4161,8 +4162,8 @@ eng	kab	I hate fighting.	Keṛheɣ amdebbez.
 eng	kab	I hate French.	Kerheɣ tafṛansist
 eng	kab	I hate horror films.	Kerheɣ isura n lxelεa.
 eng	kab	I hate losing.	Ur ḥemmleɣ ara ad xeṣṛeɣ.
-eng	kab	I hate politics.	Keṛheɣ tasertit.
 eng	kab	I hate politics.	Ɣucceɣ tasertit.
+eng	kab	I hate politics.	Keṛheɣ tasertit.
 eng	kab	I hate the Algerian authority.	Ɣucceɣ adabu azzayri.
 eng	kab	I hate this kind of place.	Keṛheɣ amkan am wagi.
 eng	kab	I hate Tom.	Keṛheɣ Tom.
@@ -4170,8 +4171,8 @@ eng	kab	I hate waiting.	Ur ḥemmleɣ ara ad rǧuɣ.
 eng	kab	I hate you all as you are.	Kerheɣ-ken yakk akken ma tellam.
 eng	kab	I have a better idea.	Sɛiɣ tikti i tt-yifen.
 eng	kab	I have a big family.	Meqqret twacult-iw.
-eng	kab	I have a brother who's the same age as you.	Sɛiɣ gma ad yemmezg yid-k deg leɛmeṛ.
 eng	kab	I have a brother who's the same age as you.	Ɣur-i gma ad yemmezg yid-k deg leɛmeṛ.
+eng	kab	I have a brother who's the same age as you.	Sɛiɣ gma ad yemmezg yid-k deg leɛmeṛ.
 eng	kab	I have a computer.	Sɛiɣ aselkim.
 eng	kab	I have a couple of Canadian friends.	Ɣur-i sin n yimdukal d ikanadiyen.
 eng	kab	I have a couple of friends who used to live in Australia.	Ɣuṛ-i imdukkal llan ttidiren deg Lustṛali.
@@ -5031,8 +5032,8 @@ eng	kab	I'm quite hungry.	Lluẓeɣ mliḥ.
 eng	kab	I'm quite tired.	Ɛyiɣ mliḥ.
 eng	kab	I'm quite up.	Ad d-iniɣ beddeɣ.
 eng	kab	I'm reading her books.	La qqaṛeɣ idlisen-agi.
-eng	kab	I'm reading his books.	Qqaṛeɣ idlisen-agi.
 eng	kab	I'm reading his books.	Ɣṛiɣ idlisen-agi.
+eng	kab	I'm reading his books.	Qqaṛeɣ idlisen-agi.
 eng	kab	I'm reading.	La qqaṛeɣ.
 eng	kab	I'm reading my book.	La qqaṛeɣ adlis-iw.
 eng	kab	I'm really going to miss Australia.	Ad neǧmeɣ s tidett Lustṛali.
@@ -5501,8 +5502,8 @@ eng	kab	Is this your book?	D adlis-im wa?
 eng	kab	I still don't agree with Tom.	Mazal-iyi ur wufqeɣ ara Tom.
 eng	kab	I still don't believe it.	Mazal ur umineɣ ara.
 eng	kab	I still don't know how to swim.	Mazal-iyi ur ssineɣ ara ad εummeɣ.
-eng	kab	I still have a house on Park Street.	Sɛiɣ ar tura axxam deg Park Street.
 eng	kab	I still have a house on Park Street.	Ɣuṛ-i ar tura axxam deg Park Street.
+eng	kab	I still have a house on Park Street.	Sɛiɣ ar tura axxam deg Park Street.
 eng	kab	I still have such a long way to go!	Ay gar-ak ad awḍeɣ!
 eng	kab	I still have the hat I used to wear when I was thirteen.	Ɣur-i ar tura tacapunt-nni i ttluseɣ asmi i sɛiɣ mraw d kraḍ n yiseggasen.
 eng	kab	I still love Tom.	Mazal ḥemmleɣ Tom.
@@ -5565,8 +5566,8 @@ eng	kab	It did not come off.	Ur telli ara d rrbaḥa.
 eng	kab	It did not come off.	Ur telli ara d tarennawt.
 eng	kab	It did not remain attached neither to the skin nor to the carcass	Ur yeqqim d uglim, ur yeddi d uksum.
 eng	kab	It doesn't matter to me what Tom said.	Ayen yebɣu yenna-d Tom.
-eng	kab	I teach English.	Sɣaṛayeɣ tagnizit.
 eng	kab	I teach English.	Selmadeɣ tagnizit.
+eng	kab	I teach English.	Sɣaṛayeɣ tagnizit.
 eng	kab	I teach French.	Selmadeɣ Tafṛansist.
 eng	kab	I teach.	Sselmadeɣ.
 eng	kab	I tell Tom everything.	Ad iniɣ i Tom akk ayen yellan.
@@ -6311,9 +6312,9 @@ eng	kab	I wrote a book about China.	Uriɣ adlis ɣef Ccinwa.
 eng	kab	I wrote a lot of sentences.	Uriɣ aṭas n tefyar.
 eng	kab	I yawned.	Faɣ.
 eng	kab	Jaffer betrays his people.	Ǧaɛfeṛ d axabit.
+eng	kab	Jaffer betrays his people.	Ǧaɛfeṛ iɣuṛṛ agdud-is.
 eng	kab	Jaffer betrays his people.	Ǧaɛfeṛ iḥerkel ɣef atmaten-is.
 eng	kab	Jaffer betrays his people.	Ǧaɛfeṛ imeḥḥeq akal i t-id-yefkan.
-eng	kab	Jaffer betrays his people.	Ǧaɛfeṛ iɣuṛṛ agdud-is.
 eng	kab	Jaffer betrays his people.	Ǧaɛfeṛ ixdeɛ idammen-is.
 eng	kab	Jaffer betrays his people.	Ǧaɛfeṛ yekka-d mgal watmaten-is.
 eng	kab	Jaffer betrays his people.	Ǧaɛfeṛ yenkeṛ tanaṣlit-is.
@@ -6833,7 +6834,6 @@ eng	kab	May I take a rest?	Zemreɣ ad steɛfuɣ?
 eng	kab	May I take your order?	Zemreɣ ad ẓreɣ ayen i d-tsutreḍ?
 eng	kab	May the devil take me!	Mebla qessam-iw!
 eng	kab	Mayuko was dead tired.	Mayuko yemmut si ɛeggu.
-eng	kab	"々" means the previous kanji is repeated.	"々" anamek-is d-akken Kenji yezwar u yettales-d.
 eng	kab	Meet me downstairs.	Mmager-iyid deg yisunan.
 eng	kab	Meet me tonight.	Mmager-iyid deg yiḍ-a.
 eng	kab	Mehenni founded the Movement for the Autonomy of Kabylia and has served as president of the Provisional Government of Kabylia from exile in France since Kabylia’s Black Spring period in 2001, during which the Kabylian people challenged the Algerian government’s ban on their culture and language.	Mehenni yesbedd Amussu i Timanit n tmurt n Yiqbayliyen anida yuɣal d aselway n Unabaḍ Aqbayli Uɛḍil di lɣerba deg Fṛansa seg tallit n tefsut taberkant n tmurt n yiqbayliyen deg 2001, anida aɣref aqbayli yella yettqabal aseḥreṣ n Unabaḍ Azzayri mgal idles-is d tutlayt-is.
@@ -7387,8 +7387,8 @@ eng	kab	Please fix it.	Di leɛnaya-k ṛeqqeɛ-it.
 eng	kab	Please fix it.	Di leɛnaya-m qwem-it.
 eng	kab	Please get in.	Di leɛnaya-k kcem-d!
 eng	kab	Please give me a hamburger.	Ma ulac aɣilif awi-yi-d ahamburger.
-eng	kab	Please give me a hand with my job.	Ttxil-k ɛiwen-iyi deg ccɣel-iw.
 eng	kab	Please give me a hand with my job.	Ttxil-kent ɛiwnemt-iyi deg ccɣel-iw.
+eng	kab	Please give me a hand with my job.	Ttxil-k ɛiwen-iyi deg ccɣel-iw.
 eng	kab	Please give me a hand with my job.	Ttxil-m ɛiwen-iyi deg ccɣel-iw.
 eng	kab	Please give me a ring this evening.	Ttxil-m siwel-iyi-d deg iḍ-agi.
 eng	kab	Please give me a ring this evening.	Ttxil-wet siwlet-iyi-d deg iḍ-agi.
@@ -7546,10 +7546,10 @@ eng	kab	Put your room in order.	Qewmem taxxamt-nwen.
 eng	kab	Put your room in order.	Qewmemt taxxamt-nkent.
 eng	kab	Put your room in order.	Qwem taxxamt-im!
 eng	kab	Put your room in order.	Ṛeqqɛemt taxxamt-nkent.
-eng	kab	Put your room in order.	Sɛedel taxxamt-im.
-eng	kab	Put your room in order.	Sɛedlet taxxamt-nwen.
 eng	kab	Put your room in order.	Ṣeggem taxxamt-ik!
 eng	kab	Put your room in order.	Ṣeggem taxxamt-im!
+eng	kab	Put your room in order.	Sɛedel taxxamt-im.
+eng	kab	Put your room in order.	Sɛedlet taxxamt-nwen.
 eng	kab	Quiet down, please.	Serkdemt iman-nkent, ttxil-kent.
 eng	kab	Quiet down, please.	Serkdet iman-nwen, ttxil-wet.
 eng	kab	Quiet down, please.	Serked iman-im, ttxil-m.
@@ -7569,32 +7569,32 @@ eng	kab	Racism includes hatred directed at someone because of his language.	Ma�
 eng	kab	Racism is more than just words, beliefs and actions.	Maḥyaf mačči kan d awalen, axemmem neɣ tigawin.
 eng	kab	Raining hard.	Ad tekkat lehwa mliḥ.
 eng	kab	Rasputin was born a peasant in the small village of Pokrovskoye in Russia.	Rasputin ilul-d d afellaḥ deg taddart meẓẓiyen n Pokrovskoye deg Rrus.
-eng	kab	Read!	Ɣeṛ!
 eng	kab	Read for me the first paragraph of the texte.	Ɣer-iyi-d taseddart tamezwarut seg uḍris.
+eng	kab	Read!	Ɣeṛ!
+eng	kab	Read!	Ɣremt!
+eng	kab	Read.	Ɣṛemt.
+eng	kab	Read!	Ɣṛet!
+eng	kab	Read.	Ɣṛet.
 eng	kab	Reading develops the mind.	Taɣuṛi tesnernay tigzi.
 eng	kab	Read it again.	Ɣeṛ-it-id i tikkelt nniḍen.
-eng	kab	Read it again, please.	Ttxil-m ɣeṛ-it-id i tikkelt nniḍen.
 eng	kab	Read it again.	Ɣṛemt-it-id i tikkelt nniḍen.
 eng	kab	Read it again.	Ɣṛet-it-id i tikkelt nniḍen.
+eng	kab	Read it again, please.	Ttxil-m ɣeṛ-it-id i tikkelt nniḍen.
 eng	kab	Read it again.	Rnumt-yas taɣuṛi.
 eng	kab	Read it again.	Rnut ɣṛet-t-id.
 eng	kab	Read it again.	Rnut-yas taɣuṛi.
 eng	kab	Read it again.	Rnu-yas taɣuṛi.
 eng	kab	Read it.	Ɣeṛ-it-id.
-eng	kab	Read it once more.	Ɣeṛ-it-id daɣen i tikkelt nniḍen.
-eng	kab	Read it once more.	Ɣṛemt-t-id daɣen i tikkelt nniḍen.
-eng	kab	Read it once more.	Ɣṛet-t-id daɣen i tikkelt nniḍen.
 eng	kab	Read it.	Ɣṛemt-t-id.
 eng	kab	Read it.	Ɣṛemt-tt-id.
 eng	kab	Read it.	Ɣṛet-t-id.
 eng	kab	Read it.	Ɣṛet-tt-id.
+eng	kab	Read it once more.	Ɣeṛ-it-id daɣen i tikkelt nniḍen.
+eng	kab	Read it once more.	Ɣṛemt-t-id daɣen i tikkelt nniḍen.
+eng	kab	Read it once more.	Ɣṛet-t-id daɣen i tikkelt nniḍen.
 eng	kab	Read on.	Kemmel ɣeṛ-d.
 eng	kab	Read on.	Kemmlemt ɣṛemt-d.
 eng	kab	Read on.	Kemmlet ɣṛet-d.
-eng	kab	Read!	Ɣremt!
-eng	kab	Read.	Ɣṛemt.
-eng	kab	Read!	Ɣṛet!
-eng	kab	Read.	Ɣṛet.
 eng	kab	Read the book aloud.	Ɣeṛ-d adlis-a s lqedd n taɣect-im.
 eng	kab	Read the message once more.	Ɣeṛ izen-nni tikkelt nniḍen.
 eng	kab	Read these instructions.	Ɣeṛ iwellihen-aki.
@@ -7602,11 +7602,11 @@ eng	kab	Read this book.	Ɣeṛ adlis-a.
 eng	kab	Read this book.	Ɣremt adlis-a.
 eng	kab	Read this book.	Ɣṛemt adlis-a.
 eng	kab	Read this book.	Ɣret adlis-a.
+eng	kab	Read this.	Ɣṛet-d aya!
 eng	kab	Read this now.	Ɣeṛ tura aya.
 eng	kab	Read this now.	Ɣṛemt tura aya.
 eng	kab	Read this now.	Ɣṛemt wayi tura.
 eng	kab	Read this now.	Ɣṛet tura aya.
-eng	kab	Read this.	Ɣṛet-d aya!
 eng	kab	Read this right away.	Ɣeṛ-d aya tura kan.
 eng	kab	Read this right away.	Ɣṛem-d aya tura kan.
 eng	kab	Read this right away.	Ɣṛemt-d aya tura kan.
@@ -8127,8 +8127,8 @@ eng	kab	She's Alain's wife.	D tameṭṭut n Alain.
 eng	kab	She's Alain's wife.	Nettat d tameṭṭut n Alain.
 eng	kab	She sang her country.	Tecna ɣef tmurt-is.
 eng	kab	She sang pretty well.	Tella tcennu akken iwata.
-eng	kab	She sang pretty well.	Tella tcennu ɣaya.
 eng	kab	She sang pretty well.	Tella tcennu d leɛǧeb.
+eng	kab	She sang pretty well.	Tella tcennu ɣaya.
 eng	kab	She's awesome.	Telha mliḥ.
 eng	kab	She's a yoga teacher.	D taselmadt n yoga.
 eng	kab	She's dead.	Temmut.
@@ -8387,10 +8387,10 @@ eng	kab	Somebody is eating.	Tella yiwen i itetten.
 eng	kab	Somebody is eating.	Yella yiwen i itetten.
 eng	kab	Somebody is following us.	Tella tin i d-iteddun deffir-nneɣ.
 eng	kab	Somebody is following us.	Tella tin i ɣ-d-iṭṭafaṛen.
-eng	kab	Somebody is following us.	Yella ḥedd i ɣ-d-itabaɛen.
 eng	kab	Somebody is following us.	Yella ḥedd i d-iteddun deffir-nneɣ.
-eng	kab	Somebody is following us.	Yella walebɛaḍ i ɣ-d-itabaɛen.
+eng	kab	Somebody is following us.	Yella ḥedd i ɣ-d-itabaɛen.
 eng	kab	Somebody is following us.	Yella walebɛaḍ i d-iteddun deffir-nneɣ.
+eng	kab	Somebody is following us.	Yella walebɛaḍ i ɣ-d-itabaɛen.
 eng	kab	Somebody is following us.	Yella win i ɣ-d-iṭṭafaṛen.
 eng	kab	Somebody is lying here.	Tella kra n yiwet i yegnen daki.
 eng	kab	Somebody is lying here.	Yella kra n ḥedd i yegnen daki.
@@ -8817,9 +8817,9 @@ eng	kab	Speaking English is not easy.	Ameslay s teglizit ur yeshil ara.
 eng	kab	Speak Italian!	Mmeslayemt taṭalyanit!
 eng	kab	Speak Italian!	Mmeslayet taṭalyanit!
 eng	kab	Speak Italian!	Mmeslay taṭalyanit!
-eng	kab	Speak louder, please.	Ɣas ad tsaɛliḍ i ṣṣut-ik?
 eng	kab	Speak louder, please.	Ɛeyyeḍ-d kra di leɛnaya-k.
 eng	kab	Speak louder, please.	Ɛeyyeḍ kra ma ulac aɣilif.
+eng	kab	Speak louder, please.	Ɣas ad tsaɛliḍ i ṣṣut-ik?
 eng	kab	Speak louder, please.	Saɛli ṣṣut-ik di leɛnaya-k.
 eng	kab	Speak louder, please.	Saɛli ṣṣut-im di leɛnaya-m.
 eng	kab	Speak louder, please.	Saɛli ṣṣut-im ma ulac aɣilif.
@@ -8840,8 +8840,8 @@ eng	kab	Speed kills.	Lemɣawla tneqq.
 eng	kab	Sport is health.	Addal d lsas n tezmert.
 eng	kab	Stand aside.	Jbed iman-im!
 eng	kab	Stand back!	Uɣalem ar deffir!
-eng	kab	Stand back!	Uɣal ɣer deffir !
 eng	kab	Stand back!	Uɣalet ɣer deffir !
+eng	kab	Stand back!	Uɣal ɣer deffir !
 eng	kab	Stand back!	Wexxeṛet!
 eng	kab	Stand by.	Qqimemt yid-nneɣ.
 eng	kab	Standing on the porch, he looked out with great interest, seeking out his dog.	Mi yella ibed ar wemnaṛ, yessikid s telqay akken ad inadi af weqjun-is.
@@ -9086,14 +9086,14 @@ eng	kab	Swimming is easy.	Yeshel ucucef.
 eng	kab	Swimming is good for your health.	Ilha uɛummu i ṣṣeḥḥa-inem.
 eng	kab	Take a bath and then go to bed.	Cucef sakin ruḥ ad tegneḍ.
 eng	kab	Take an umbrella with you in case it should rain.	Awi yid-k ssiwan ammar ad d-twet lehwa.
+eng	kab	Take care!	Ɣuṛ-k.
+eng	kab	Take care!	Ɣuṛ-m.
 eng	kab	Take care!	Ḥader !
 eng	kab	Take care!	Ḥader.
 eng	kab	Take care.	Ḥader.
 eng	kab	Take care of the kids.	Ḥader ɣef warrac.
 eng	kab	Take care of the kids.	Ḥadret ɣef warrac.
 eng	kab	Take care of Tom.	Ttḥadar Tom.
-eng	kab	Take care!	Ɣuṛ-k.
-eng	kab	Take care!	Ɣuṛ-m.
 eng	kab	Take care!	Γur-em !
 eng	kab	Take care!	Γur-k !
 eng	kab	Take cover!	Ddari!
@@ -9334,8 +9334,8 @@ eng	kab	That was amazing.	Igerrez mliḥ akya.
 eng	kab	That was amazing.	Iwenneɛ mliḥ akya.
 eng	kab	That was destroyed.	Yeṛṛeẓ.
 eng	kab	That was fabulous.	Ass-nni axeṣṣaṛ.
-eng	kab	That was fabulous.	Ass-nni ɣaya-t.
 eng	kab	That was fabulous.	Ass-nni d asdegdeg.
+eng	kab	That was fabulous.	Ass-nni ɣaya-t.
 eng	kab	That was hard to believe.	Yuɛeṛ bac ad tamneḍ ayaki.
 eng	kab	That was hard to believe.	Yuɛeṛ bac ad yamen yiwen annect-aki.
 eng	kab	That was really ugly.	Icmet wayenni mliḥ.
@@ -12311,8 +12311,8 @@ eng	kab	We slept.	Neṭṭes.
 eng	kab	We slept.	Ngen.
 eng	kab	We speak Kabyle at home.	Deg uxxam nettmeslay taqbaylit.
 eng	kab	We still have such a long way to go to reach our goal in this world!	Ay gar-ak akken ad teddu ddunit-a ar yiswi i nessaram!
-eng	kab	We studied French for three years.	Nelmed tafṛansist tlata n yiseggasen.
 eng	kab	We studied French for three years.	Neɣra tafṛansist tlata n yiseggasen.
+eng	kab	We studied French for three years.	Nelmed tafṛansist tlata n yiseggasen.
 eng	kab	We study French.	Nelmed tafṛansist.
 eng	kab	We succeeded.	Nerbeḥ.
 eng	kab	We suspected him of lying.	Ncukk-it yeskiddib.
@@ -12510,8 +12510,8 @@ eng	kab	What is missing?	Dacu i ixuṣṣen?
 eng	kab	What is over there?	D acu i yḍṛan dihin?
 eng	kab	What is over there?	D acu i yellan dihin?
 eng	kab	What is philosophy's point?	Iwacu i tettwaxdem tfelseft?
-eng	kab	"What is that weakling that you put on the picture" replied Ssinistri?"	"Dacu-t ubeɛṭeẓẓiw-agi n tewlaft i as-d-terriḍ?" i as-d-yerra dɣa Ssinistri?
 eng	kab	"What is that weakling that you put on the picture" replied Ssinistri?	"Dacu-t ubeɛṭeẓẓiw-agi n tewlaft i as-d-terriḍ?" i as-d-yerra dɣa Ssinistri?
+eng	kab	"What is that weakling that you put on the picture" replied Ssinistri?"	"Dacu-t ubeɛṭeẓẓiw-agi n tewlaft i as-d-terriḍ?" i as-d-yerra dɣa Ssinistri?
 eng	kab	What is the dish of the day?	Acu d tiremt n wassa?
 eng	kab	What is the purpose of education?	D acu i d-iswi n ussegmi?
 eng	kab	What is the use of being born!	Lal-d tura ad tidireḍ!
@@ -13100,8 +13100,8 @@ eng	kab	Why are you smiling?	Acuɣeṛ i tettezmumugeḍ?
 eng	kab	Why are you telling me this nonsense.	Iwacu i iyi-d-teqqareḍ ayen akka ur nesεi lmeεna?
 eng	kab	Why are you washing your hands?	Acuɣeṛ i tessirideḍ ifassen-im?
 eng	kab	Why are you washing your hands?	Acuɣeṛ i tessiridemt ifassen-nkent?
-eng	kab	Why?	Ayɣef?
 eng	kab	Why?	Ayen?
+eng	kab	Why?	Ayɣef?
 eng	kab	Why can't we eat now?	Acimi ur nezmir ara ad nečč tura?
 eng	kab	Why can't we swim here?	Acimi ur nezmir ara ad nεumm dagi?
 eng	kab	Why couldn't you do that?	Ayɣer ur texdimeḍ ara aya?
@@ -13634,15 +13634,15 @@ eng	kab	You are writing.	La tettarumt.
 eng	kab	You are wrong.	Tɣelṭem.
 eng	kab	You are wrong.	Tɣelṭemt.
 eng	kab	You befooled me.	Teḥciḍ-iyi-tt.
+eng	kab	You befooled me.	Tɣuṛṛeḍ-iyi.
+eng	kab	You befooled me.	Tɣuṛṛem-iyi.
+eng	kab	You befooled me.	Tɣuṛṛemt-iyi.
 eng	kab	You befooled me.	Tkellxeḍ fell-i.
 eng	kab	You befooled me.	Tkellxeḍ-iyi.
 eng	kab	You befooled me.	Tkellxem fell-i.
 eng	kab	You befooled me.	Tkellxem-iyi.
 eng	kab	You befooled me.	Tkellxemt fell-i.
 eng	kab	You befooled me.	Tkellxemt-iyi.
-eng	kab	You befooled me.	Tɣuṛṛeḍ-iyi.
-eng	kab	You befooled me.	Tɣuṛṛem-iyi.
-eng	kab	You befooled me.	Tɣuṛṛemt-iyi.
 eng	kab	You befooled me.	Txedɛem-iyi.
 eng	kab	You befooled me.	Tzerrgeḍ-iyi.
 eng	kab	You befooled me.	Tzerrgem-iyi.
@@ -14110,8 +14110,8 @@ eng	kab	You're a very good student.	Kem d tanelmadt iḥercen.
 eng	kab	You're a very good student.	Kem d tanelmadt tuḥrict.
 eng	kab	You're coming to Montreal this weekend?	Ad d-taseḍ ɣer Montreal tagara n dduṛt-a?
 eng	kab	You're coming to Montreal this weekend?	Ad d-tasemt ɣer Montreal tagara n dduṛt-a?
-eng	kab	You're free to go out.	Tzemmreḍ ad teffɣeḍ.
 eng	kab	You're free to go out.	Ɣur-ek tilleli ad teffɣeḍ.
+eng	kab	You're free to go out.	Tzemmreḍ ad teffɣeḍ.
 eng	kab	You're free to use this room.	Tzemreḍ ad tessxedmeḍ taxxamt-a.
 eng	kab	You're from Australia, right?	Kečč si Ustṛalya, neɣ?
 eng	kab	You refused to pay.	Teggummam ad txellṣem.
@@ -14344,10 +14344,10 @@ eng	kab	You speak my language.	Theddṛemt tutlayt-iw.
 eng	kab	You speak my language.	Theddṛem tutlayt-iw.
 eng	kab	You speak.	Theddṛeḍ.
 eng	kab	You speak.	Theddṛem.
+eng	kab	You speak tremendously fast.	Tettmeslayeḍ s zzerb.
 eng	kab	You speak tremendously fast.	Tɣettbeḍ deg umeslay.
 eng	kab	You speak tremendously fast.	Tɣettbem deg umeslay.
 eng	kab	You speak tremendously fast.	Tɣettbemt deg umeslay.
-eng	kab	You speak tremendously fast.	Tettmeslayeḍ s zzerb.
 eng	kab	You speak tremendously fast.	Theddṛeḍ s tazzla.
 eng	kab	You speak tremendously fast.	Theddṛem s lemɣawla.
 eng	kab	You speak tremendously fast.	Theddṛem s tazzla.
@@ -14431,8 +14431,8 @@ eng	kab	You will speak Swedish.	Ad temmeslayemt taswidit.
 eng	kab	You will tell me a story.	Ad iyi-d-temleḍ tamacahut.
 eng	kab	You win!	Trebḥem!
 eng	kab	You win!	Trebḥemt!
-eng	kab	You won?	Trebḥem?
 eng	kab	You won.	Trebḥem.
+eng	kab	You won?	Trebḥem?
 eng	kab	You won.	Trebḥemt.
 eng	kab	You work hard.	Tenneɛtabeḍ deg uxeddim.
 eng	kab	You, you just want to piss me off!	Kečč ad d-iniɣ, tebɣiḍ kan ad iyi-d-teččaṛeḍ tagaẓuẓt!

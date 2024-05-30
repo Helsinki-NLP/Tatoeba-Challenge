@@ -24,6 +24,12 @@ fra	heb	Anna connaît par cœur les mille premières décimales de π.	אנה י
 fra	heb	A partir de maintenant, je ne contribuerai qu'en turc.	החל מעכשיו אתרום אך ורק בטורקית.
 fra	heb	Appelez ça comme vous voulez !	תקרא לזה איך שאתה רוצה.
 fra	heb	Apportez-moi mes lunettes.	תביא לי את המשקפיים שלי.
+fra	heb	Apprends ta langue.	למד את שפתך.
+fra	heb	Apprends ta langue.	למדי את שפתך.
+fra	heb	Apprenez votre langue.	למדו את שפתכם.
+fra	heb	Apprenez votre langue.	תלמד את שפתך.
+fra	heb	Apprenez votre langue.	תלמדו את שפתכם.
+fra	heb	Apprenez votre langue.	תלמדי את שפתך.
 fra	heb	Après le dîner, j'ai toujours envie de dormir.	אחרי ארוחת הערב תמיד מתחשק לי לישון.
 fra	heb	Après les immigrés, ce sera ton tour ! Seule réponse au cannibalisme social: notre solidarité !	תחילה המהגרים, אחר כך אתה. הסולידריות שלנו היא התשובה לקניבליזם הסוציאלי.
 fra	heb	À quelle fréquence changes-tu tes lames de rasoir ?	באיזו תדירות אתה מחליף את סכין הגילוח?
@@ -71,6 +77,7 @@ fra	heb	Ce mot vient du grec.	המילה הזאת היא מיוונית.
 fra	heb	Ce n'est pas bon signe.	זה לא מבשר טובות.
 fra	heb	Ce n'est pas cher, pas vrai ?	זה לא יקר, לא כן?
 fra	heb	Ce n'est pas le cas.	זה לא המקרה.
+fra	heb	Ce n'est pas moi qui ai besoin de perdre du poids.	אני לא זה שצריך לרדת במשקל.
 fra	heb	Ce n'est pas votre affaire.	זה לא עניינכם.
 fra	heb	Ce pain est petit.	הלחם הזה קטן.
 fra	heb	Ce pain sent vraiment bon.	לחם זה מריח טוב.
@@ -83,6 +90,7 @@ fra	heb	Ce soir encore, je suis Charlie, je suis flic.	הערב אני צ'ארל
 fra	heb	Ce sont des livres très vieux.	אלו ספרים מאוד ישנים.
 fra	heb	C'est déjà démodé.	זה כבר לא אופנתי.
 fra	heb	C'est encore loin ?	זה עוד רחוק?
+fra	heb	C'est étroit.	זה צר.
 fra	heb	C'est ici que l'accident a eu lieu.	כאן קרתה התאונה.
 fra	heb	C'est la maison où j'habitais quand j'étais jeune.	זה הבית שבו התגוררתי בצעירותי.
 fra	heb	C'est la voix d'une vieille dame.	זה קול של גברת זקנה.
@@ -111,6 +119,7 @@ fra	heb	Cet après-midi elle nettoiera la bicyclette.	היום אחרי הצהר
 fra	heb	Cet arbre a quel âge ?	בן כמה העץ הזה?
 fra	heb	Cette boîte est trop petite pour tout contenir.	הקופסה הזאת קטנה מדי מכדי שתכיל את הכול.
 fra	heb	Cette femme est nue.	האישה הזאת ערומה.
+fra	heb	Cette langue tue les fascistes.	השפה הזו הורגת פשיסטים.
 fra	heb	Cette lettre porte un timbre étranger.	על מכתב זה יש בול דואר זר.
 fra	heb	Cette montre est vraiment une bonne affaire.	השעון הזה הוא באמת מציאה.
 fra	heb	Cette montre m'a coûté dix mille yen.	השעון הזה עלה לי עשרת אלפים ין.
@@ -157,6 +166,7 @@ fra	heb	D'accord.	טוב.
 fra	heb	De la Lune, la Terre ressemble à un ballon.	מהירח נראה כדור הארץ כבלון.
 fra	heb	De l'insuccès naît le succès.	כישלון הוא אבי ההצלחה.
 fra	heb	Demande-lui où il a garé sa voiture.	שאל אותו איפה הוא החנה את מכוניתו.
+fra	heb	De nombreux Grecs vivent en Allemagne.	הרבה יוונים גרים בגרמניה.
 fra	heb	Dépêche-toi, ou tu vas rater ton train.	תזדרז, או שתאחר לרכבת.
 fra	heb	Dépose ton argent à la banque.	הפקידי את כספך בבנק.
 fra	heb	Des douzaines de lettres vous attendent.	מחכים לך עשרות מכתבים.
@@ -176,6 +186,7 @@ fra	heb	Donnez-moi un morceau de craie.	תני לי גיר.
 fra	heb	Du corned-beef, du pain perdu et un chocolat liégeois, je vous prie.	כריך בשר משומר בלחם קלוי ושוקולד ליאז' בבקשה.
 fra	heb	Durant des siècles, Cracovie fut la capitale de la Pologne.	במשך מאות שנים הייתה קראקוב בירת פולין.
 fra	heb	Durant l'été, je vais tous les jours à la piscine.	בקיץ אני הולכת כל יום לבריכה.
+fra	heb	Écoutez-moi.	תקשיבי לי.
 fra	heb	Elle a accepté mon idée.	היא קיבלה את הרעיון שלי.
 fra	heb	Elle a autant de timbres que moi.	יש לה אותה כמות בולים כמו לי.
 fra	heb	Elle a beaucoup de mouchoirs.	יש לה הרבה מטפחות.
@@ -287,9 +298,11 @@ fra	heb	Il est allé en France pour rafraîchir son français parlé.	הוא נ�
 fra	heb	Il est allé travailler bien qu'il soit malade.	הוא הלך לעבודה אף על פי שהוא חולה.
 fra	heb	Il est aux toilettes.	הוא נמצא בשירותים.
 fra	heb	Il est déjà 7 heures.	השעה כבר 7.
+fra	heb	Il est étroit.	זה צר.
 fra	heb	Il est habitué au travail pénible.	הוא רגיל לעבודה קשה.
 fra	heb	Il est huit heures.	השעה שמונה.
 fra	heb	Il est joueur de tennis.	הוא שחקן טניס.
+fra	heb	Il est mon fils.	הוא הבן שלי.
 fra	heb	Il est mort pour que nous puissions vivre.	הוא מת כדי שאנו נוכל לחיות.
 fra	heb	Il est rare que je sois invité à des fêtes.	לעתים רחוקות אני מוזמן למסיבות.
 fra	heb	Il était un bon ami.	הוא היה חבר טוב.
@@ -318,6 +331,7 @@ fra	heb	Il ne peut plus vous faire de mal.	הוא כבר לא יכול לפגו�
 fra	heb	Il ne sait même pas écrire son propre nom.	הוא אפילו לא יודע לכתוב את שמו.
 fra	heb	Il n'est pas à l'appartement.	הוא לא נמצא בדירה.
 fra	heb	Il n'est pas doué en tant qu'avocat.	הוא לא מוכשר כעורך דין.
+fra	heb	Il n'est pas Juif.	הוא לא יהודי.
 fra	heb	Il nous accorda une entrevue.	הוא הסכים לראיין אותנו.
 fra	heb	Il nous a déconseillé de le faire.	הוא ייעץ לנו לא לעשות זאת.
 fra	heb	Il n'y a donc plus de différence entre les Juifs et les non-Juifs, entre les esclaves et les hommes libres, entre les hommes et les femmes. Unis à Jésus-Christ, vous êtes tous un.	אין יותר הבדל בין יהודים לגויים, בין עבדים לבני-חורין, בין גברים ונשים. מאוחדים תחת ישו הנוצרי, אתם כולכם אחד.
@@ -450,6 +464,10 @@ fra	heb	Je me fiche de ce que tu penses.	אני מצפצפת על מה שאתה 
 fra	heb	Je me fiche de ce qui se passe.	אכפת לי מה קורה.
 fra	heb	Je me lavais les mains.	רחצתי ידיים.
 fra	heb	Je me lève habituellement vers 8 heures.	אני קם בדרך כלל לקראת השעה שמונה.
+fra	heb	Je me suis converti à l'islam il y a un an.	התאסלמתי לפני שנה.
+fra	heb	Je me suis converti à l'islam voilà un an.	התאסלמתי לפני שנה.
+fra	heb	Je me suis convertie à l'islam il y a un an.	התאסלמתי לפני שנה.
+fra	heb	Je me suis convertie à l'islam voilà un an.	התאסלמתי לפני שנה.
 fra	heb	Je me suis levé tard ce matin.	הבוקר קמתי מאוחר.
 fra	heb	Je me suis sali les mains.	לכלכתי את ידיי.
 fra	heb	Je me suis trompé d'adresse sur l'enveloppe.	טעיתי בכתובת על המעטפה.
@@ -475,6 +493,8 @@ fra	heb	Je ne connais pas son nom.	אני לא יודעת מה שמו.
 fra	heb	Je ne corrige pas leurs exercices.	אינני מתקן את התרגילים שלהם.
 fra	heb	Je ne corrige pas vos exercices.	אינני מתקן את התרגילים שלך.
 fra	heb	Je ne crois pas.	אני לא מאמינה.
+fra	heb	Je ne crois plus en Dieu.	אני כבר לא מאמין באלוהים.
+fra	heb	Je ne crois plus en Dieu.	אני כבר לא מאמינה באלוהים.
 fra	heb	Je ne dors pas vraiment, je sommeille.	אני לא ממש ישן, אני מנמנם.
 fra	heb	Je ne dors pas vraiment, je sommeille.	אני לא ממש ישנה, אני מנמנמת.
 fra	heb	Je ne ferai pas ça à moins que vous ne veuillez que je le fasse.	אני לא אעשה את זה אלא אם תרצי.
@@ -499,6 +519,8 @@ fra	heb	Je ne sais pas parler allemand.	אני לא מדבר גרמנית.
 fra	heb	Je ne sais pas quand il viendra ici.	אינני יודע מתי הוא יבוא לכאן.
 fra	heb	Je ne sais pas quand le mari a appelé.	אינני יודעת מתי צלצל הבעל.
 fra	heb	Je ne sais pas quoi dire pour te consoler.	אני לא יודעת מה לומר כדי לנחם אותך.
+fra	heb	Je ne sais pas, Tom.	אני לא יודע, תום.
+fra	heb	Je ne sais pas, Tom.	אני לא יודעת, תום.
 fra	heb	Je ne suis pas entré dans les détails.	לא נכנסתי לפרטים.
 fra	heb	Je ne suis pas familiarisé avec le garçon.	אני לא מכיר טוב את הילד הזה.
 fra	heb	Je ne suis pas fatigué en ce moment.	אני לא עייף כרגע.
@@ -577,6 +599,9 @@ fra	heb	Je vais vous accompagner.	אני אצטרף אליך.
 fra	heb	Je veux attraper celui de minuit moins le quart.	אני רוצה להספיק לזה של רבע לחצות.
 fra	heb	Je veux parler de mon amour.	אני רוצה לדבר על אהובי.
 fra	heb	Je veux parler de mon amour.	אני רוצה לדבר על אהובתי.
+fra	heb	Je veux un chien.	אני רוצה כלב.
+fra	heb	Je vis à Rio de Janeiro.	אני חי בריו דה ז'ניירו.
+fra	heb	Je vis à Rio de Janeiro.	אני חיה בריו דה ז'ניירו.
 fra	heb	Je vois que tu es prêt.	אני רואה שאתה מוכן.
 fra	heb	Je voudrais que vous mettiez de côté les magazines, brochures et autres.	אני מבקש שתניח בצד את המגזינים, החוברות וכל היתר.
 fra	heb	Je voudrais une camomille.	אני מבקש בבונג.
@@ -588,6 +613,7 @@ fra	heb	J'habite cette maison seul.	אני גר בבית הזה לבדי.
 fra	heb	John emploie 200 travailleurs.	ג'ון מעסיק 200 עובדים.
 fra	heb	Joli spectacle !	הצגה יפה!
 fra	heb	Joyeux anniversaire, Karl Marx !	יום הולדת שמח, קרל מרקס!
+fra	heb	Joyeux Norouz !	נורוז שמח!
 fra	heb	Jusqu'à aujourd'hui, ils ont été de bons voisins.	הם היו שכנים טובים עד היום.
 fra	heb	Jusqu'à aujourd'hui, ils ont été de bons voisins.	עד היום הם היו שכנים טובים.
 fra	heb	Jusqu'à aujourd'hui, ils ont été de bons voisins.	עד עתה הם היו שכנים טובים.
@@ -610,6 +636,7 @@ fra	heb	La lettre la rendit triste.	המכתב העציב אותה.
 fra	heb	La maison de mon voisin a figuré dans la dernière édition du Architectural Digest.	הבית של השכן שלי הוצג בגיליון האחרון של "ארכיטקצ'ורל דייג'סט".
 fra	heb	La maison de mon voisin a figuré dans la dernière édition du Architectural Digest.	הבית של השכן שלי כיכב בגיליון האחרון של Architectural Digest.
 fra	heb	La monnaie du Vietnam c'est le dong. Son symbole c'est le "₫".	דונְג הוא המטבע של וייטנאם. סימול המטבע - "₫".
+fra	heb	L'amour aime aimer l'amour.	האהבה אוהבת לאהוב את האהבה.
 fra	heb	La négociation a échoué.	המו"מ נכשל.
 fra	heb	L'anglais n'est pas ma langue natale.	אנגלית אינה שפת האם שלי.
 fra	heb	L'anglais n'est pas ma langue natale.	אנגלית איננה שפת האם שלי.
@@ -617,6 +644,7 @@ fra	heb	L'Angleterre est fière de ses poètes.	אנגליה גאה במשורר
 fra	heb	Là où il y a du pain, il ne manque pas de miettes.	היכן שתמצא לחם לא יחסרו פירורים.
 fra	heb	La paix est très importante.	השלום חשוב מאוד.
 fra	heb	La pluie battait sur la fenêtre.	הגשם היכה בחלון.
+fra	heb	La plupart des Juifs ont les yeux marron.	לרוב היהודים יש עיניים חומות.
 fra	heb	La porte était fermée et nous n'avons pas pu rentrer.	הדלת הייתה נעולה, ולא הייתה לנו אפשרות להיכנס.
 fra	heb	La reine doit mourir.	המלכה חייבת למות.
 fra	heb	L'art amène le pain.	אומנות מביאה לחם.
@@ -624,6 +652,7 @@ fra	heb	La secrétaire de Dr. Georges est japonaise.	מזכירתו של ד"ר �
 fra	heb	La semaine dernière 5 élèves ont été absents de cours.	בשבוע שעבר נעדרו מהלימודים חמישה תלמידים.
 fra	heb	La semaine dernière 5 élèves ont été absents de cours.	בשבוע שעבר נעדרו מהקורסים חמישה תלמידים.
 fra	heb	La situation empirait de minute en minute.	המצב מחמיר מרגע לרגע.
+fra	heb	La terre est malade.	כדור הארץ חולה.
 fra	heb	La tienne est ici.	שלך שם.
 fra	heb	La traduction est une trahison.	המתרגמים - בוגדים.
 fra	heb	Là tu as totalement tort !	כאן אתה טועה לחלוטין!
@@ -636,6 +665,7 @@ fra	heb	La vie est éphémère.	החיים הם בני חלוף.
 fra	heb	La vue lui coupa le souffle.	המראה עצר את נשמתה.
 fra	heb	La vue lui coupa le souffle.	המראה עצר את נשמתו.
 fra	heb	La vue lui coupa le souffle.	הנוף עצר את נשמתה.
+fra	heb	L'eau est-elle propre ?	המיים נקיים?
 fra	heb	Le bébé me sourit.	התינוק חייך אליי.
 fra	heb	Le bébé me sourit.	התינוק מחייך אליי.
 fra	heb	Le blasphème est un crime sans victime.	חילול הקודש זה פשע ללא קורבן.
@@ -659,6 +689,7 @@ fra	heb	Le matin, Sandra mange une tranche de pain grillé et boit une tasse de 
 fra	heb	Le moment est venu de travailler ensemble.	הגיע הרגע לעבוד יחד.
 fra	heb	Le monde est beau.	העולם יפה.
 fra	heb	Le monde est plein d’idiots.	העולם מלא אידיוטים.
+fra	heb	Le monde est une nation.	העולם זה עם.
 fra	heb	Le monde est un village.	העולם כפר.
 fra	heb	L'enfant a peur de l'obscurité.	הילד מפחד מהחושך.
 fra	heb	L'enfant, à tout âge, doit honneur et respect à ses parents.	ילד, בכל גיל, חייב להעניק כבוד והוקרה להוריו.
@@ -683,6 +714,7 @@ fra	heb	Les filles, vous avez été super. Vous avez vraiment emporté cette vic
 fra	heb	Les fruits et les légumes frais sont bons pour votre santé.	פירות וירקות טריים טובים לבריאותך.
 fra	heb	Les fruits sont dans le panier.	הפירות נמצאים בסל.
 fra	heb	Les haïsseurs vont haïr.	השונאים ישנאו.
+fra	heb	Les humains sont mignons.	בני-האדם הם חמודים.
 fra	heb	Les jours deviennent de plus en plus longs.	הימים מתארכים יותר ויותר.
 fra	heb	Les lecteurs ne peuvent pas êtres sûrs que les nouvelles soient vraies ou non.	הקוראים אינם יכולים להיות בטוחים באמיתותן של הידיעות.
 fra	heb	Les lecteurs ne peuvent pas êtres sûrs que les nouvelles soient vraies ou non.	הקוראים לא יכולים להיות בטוחים באמיתותן של הידיעות.
@@ -697,9 +729,11 @@ fra	heb	Le stylo n'a plus d'encre.	אין יותר דיו בעט.
 fra	heb	Le stylo n'a plus d'encre.	הדיו נגמר בעט.
 fra	heb	Les vies noires sont importantes.	חיי שחורים חשובים.
 fra	heb	Le symbole '&' signifie 'et'.	הסימול "&" משמעו ו' החיבור.
+fra	heb	L’État français autorise l’utilisation du cannabis à des fins médicales.	‎ממשלת צרפת אישרה שימוש בקנאביס למטרות רפואיות.
 fra	heb	Le temps guérit tous les cœurs brisés.	הזמן מרפא כל לב שבור.
 fra	heb	Le traducteur est un traître.	המתרגמים - בוגדים.
 fra	heb	Le train était en retard en raison de la neige.	הרכבת איחרה בגלל השלג.
+fra	heb	Leurs yeux brillent de joie.	העיניים שלהם מאירות משמחה.
 fra	heb	Le vent souffle violemment.	הרוח נושבת בחוזקה.
 fra	heb	L'expression « portable » est ambigu car on ne sait pas s'il s'agit d'un téléphone, d'un ordinateur ou un autre appareil portable.	הביטוי "נייד" הוא דו-משמעי, משום שלא יודעים אם מדובר בטלפון, במחשב, או במכשיר נייד אחר.
 fra	heb	L'hébreu est une langue difficile.	עברית היא שפה קשה.
@@ -708,6 +742,8 @@ fra	heb	L'histoire objective existe-t-elle ?	האם קיימת היסטוריה 
 fra	heb	L'homme a marché sur la Lune.	האדם צעד על הירח.
 fra	heb	L'homme est en train de manger du pain.	הבחור אוכל לחם.
 fra	heb	L'honnêteté est la meilleure des stratégies.	הכנות היא האסטרטגיה הטובה ביותר.
+fra	heb	Libérez la Kabylie !	שחררו את קביליה!
+fra	heb	Libérez l'Écosse !	שחררו את סקוטלנד!
 fra	heb	L’important, c’est de participer.	העיקר הוא ההשתתפות.
 fra	heb	L'oiseau est dans son nid.	הציפור נמצאת בקן שלה.
 fra	heb	L'orateur s'éloigna du sujet principal.	הדובר התרחק מהנושא העיקרי.
@@ -716,6 +752,7 @@ fra	heb	Lorsque j'essaie d'écouter de la musique avec media player, il y a une 
 fra	heb	Lui et moi sommes tous les deux lycéens.	שנינו הוא ואני תלמידי תיכון.
 fra	heb	L'une des réponses est correcte.	אחת מהתשובות נכונה.
 fra	heb	L'Univers est un mystère.	היקום תעלומה.
+fra	heb	Ma famille habite en ville.	המשפחה שלי גרה בעיר.
 fra	heb	Maintenant, bouge.	עכשיו זוז.
 fra	heb	Malgré tout son succès, il n'est pas heureux.	למרות כל הצלחתו, הוא לא מאושר.
 fra	heb	Malheur à moi! Qu'as-tu fait?	אוי לי, מה עשית?
@@ -732,6 +769,7 @@ fra	heb	Même en regardant bien on ne voit rien.	גם אם מתבוננים הי
 fra	heb	Même les enfants savent cela.	אפילו ילדים יודעים את זה.
 fra	heb	Même si j'étais malade, j'ai fait de mon mieux.	למרות היותי חולה, עשיתי כמיטב יכולתי.
 fra	heb	Merci à tous ceux qui ont fait partie de ma vie, ici, au Royaume-Uni.	תודה לכל מי שהיו חלק מחיי כאן, בבריטניה.
+fra	heb	Merci beaucoup ; c'était parfait.	תודה רבה, זה היה מושלם.
 fra	heb	Merci beaucoup ! Je ne sais pas ce que nous ferions sans toi.	תודה רבה! אני לא יודע מה היינו עושים בלעדיך.
 fra	heb	Merci beaucoup ! Je ne sais pas ce que nous ferions sans toi.	תודה רבה! אני לא יודעת מה היינו עושים בלעדיך.
 fra	heb	Merci de débarrasser la table dès que tu as fini ton repas.	תפני בבקשה את השולחן לאחר שתסיימי לאכול.
@@ -744,6 +782,7 @@ fra	heb	Mes enfants usent rapidement leurs chaussures.	הילדים שלי שׁ�
 fra	heb	Mieux vaut tard que jamais.	מוטב מאוחר מאשר אף פעם.
 fra	heb	Mon amie a dit qu'elle a acheté une nouvelle montre.	חברתי אמרה שהיא קנתה שעון חדש.
 fra	heb	Mon avis diverge.	דעתי שונה.
+fra	heb	Mon cœur est à l'est, et je suis au bout de l'ouest.	לבי במזרח ואנוכי בסוף מערב.
 fra	heb	Mon fils peut compter jusqu'à cent maintenant.	בני יודע עכשיו לספור עד מאה.
 fra	heb	Mon logiciel de gravure affiche un message d'erreur.	תוכנת הצריבה שלי מציגה הודעת שגיאה.
 fra	heb	Mon oncle vient nous voir demain.	הדוד שלי מגיע לראות אותנו מחר.
@@ -767,11 +806,13 @@ fra	heb	Ne songe même pas à manger mon chocolat !	אל תחשוב אפילו �
 fra	heb	Ne te fais aucun souci là-dessus ; ce n'est qu'un mauvais souvenir qui se dissipera aux premiers rayons du soleil.	אל תדאג בכלל בעניין הזה; זהו לא יותר מאשר זיכרון רע, שייעלם לו עם קרני השמש הראשונות.
 fra	heb	Ne te trompe pas.	אל תִטעה.
 fra	heb	Ne touchez pas ma voiture.	אל תיגע ברכב שלי.
+fra	heb	Nique la police.	זין על המשטרה.
 fra	heb	Noël approche.	חג המולד מתקרב.
 fra	heb	N'omettez pas d'adjoindre votre photo au formulaire de candidature.	אל תשכח לצרף את התמונה שלך לטופס הגשת המועמדות.
 fra	heb	Non pas «c'est mon fils» mais «je suis son père».	לא "הוא בני" אלא "אני אביו".
 fra	heb	Nos gènes déterminent en partie ce que nous sommes.	הגנים שלנו מכתיבים חלקית את מי שאנחנו.
 fra	heb	Notre langue maternelle est le japonais.	שפת האם שלנו היא יפנית.
+fra	heb	Notre planète est malade.	כוכב הלכת שלנו חולה.
 fra	heb	Notre professeur nous a dit : "Bien sûr que vous pouvez."	המורה שלנו אמר לנו: "כמובן שאתם יכולים."
 fra	heb	Notre professeur nous donne beaucoup de devoirs.	המורה שלנו נותן לנו הרבה שיעורי בית.
 fra	heb	N'oublie pas de poster la lettre.	אל תשכחי לשלוח את המכתב.
@@ -800,8 +841,10 @@ fra	heb	Nous sommes arabes.	אנחנו ערבים.
 fra	heb	Nous sommes des héros.	אנחנו גיבורים.
 fra	heb	Nous sommes les 99%.	אנחנו ה99%.
 fra	heb	Nous sommes les quatre-vingt-dix-neuf pour cent.	אנחנו התשעים ותשעה אחוז.
+fra	heb	Nous sommes tous des singes.	כולנו קופים.
 fra	heb	Nous sommes tous trois étudiants.	שלושתנו סטודנטים.
 fra	heb	Nous sommes toutes des mères.	כולנו אמהות.
+fra	heb	Nous sommes une nation indépendante.	אנחנו אומה עצמאית.
 fra	heb	Nous transformons le lait en fromage et en beurre.	אנחנו עושים מחלב גבינה וחמאה.
 fra	heb	Nous voulons une solution pacifique.	אנחנו רוצים פתרון של שלום.
 fra	heb	N'utilisez pas cette table à coté de la fenêtre.	אל תשתמש בשולחן שלצד החלון.
@@ -825,8 +868,10 @@ fra	heb	Où habites-tu ?	איפה אתה גר?
 fra	heb	Oui.	נכון.
 fra	heb	Ou vous êtes avec nous, ou vous êtes contre nous.	אתה איתנו, או שאתה נגדנו.
 fra	heb	Pardon, mais je n'ai pas reçu de lait chez moi aujourd'hui.	סליחה, אבל היום לא הגיע אליי חלב הביתה.
+fra	heb	Parle, David.	דבר, דוד.
 fra	heb	Parles-tu chinois ?	אתה מדבר סינית?
 fra	heb	Parles-tu slovaque ?	אתה מדבר סלובקית?
+fra	heb	Parlez, David.	דבר, דוד.
 fra	heb	Parlez-vous anglais ?	האם אתה מדבר אנגלית?
 fra	heb	Parlez-vous chinois ?	אתן מדברות סינית?
 fra	heb	Parlons-nous du même Tom ?	האם אנחנו מדברים על אותו טום?
@@ -868,6 +913,7 @@ fra	heb	Prends ton temps. Il n'y a pas d'urgence.	קח את הזמן שלך. ז�
 fra	heb	Presque toujours, nous nous parlons l'un à l'autre en français.	כמעט תמיד אנחנו מדברים אחד עם השני בצרפתית.
 fra	heb	Prête toute ton attention à ce que tu es en train de faire.	הקדש תשומת לב מלאה למה שאתה עושה.
 fra	heb	Prolonger la discussion ne nous amènera nulle part.	הארכת הדיון לא תביא אותנו לשום מקום.
+fra	heb	Protégez les enfants transgenres.	תגנו על ילדים טרנסג'נדרים.
 fra	heb	Puis-je prendre mon petit déjeuner ici ?	אוכל לקבל כאן את ארוחת הבוקר שלי?
 fra	heb	Puis-je te rendre visite à ton domicile, demain matin ?	אפשר לבקר אצלך מחר בבוקר?
 fra	heb	Puis-je vous aider ?	אני יכול לעזור לך?
@@ -921,6 +967,7 @@ fra	heb	Reviens à la maison avant que la nuit tombe.	חזור הביתה לפנ
 fra	heb	Révise encore une fois ton Histoire, pour te préparer à l'examen.	תחזרי שוב על החומר בהיסטוריה כדי להתכונן לבחינה.
 fra	heb	Rien ne peut être pire que ça.	דבר לא יכול להיות גרוע יותר מזה.
 fra	heb	Rien n'est beau que le vrai.	רק האמת יפה.
+fra	heb	Rogue tue Dumbledore.	סנייפ הורג את דמבלדור.
 fra	heb	Rokio a une adorable petite frimousse.	לריוקו יש פרצוף קטן וחמוד.
 fra	heb	Sa colère est compréhensible.	אפשר להבין את הכעס שלו.
 fra	heb	Sa colère est compréhensible.	אפשר להבין את כעסה.
@@ -975,8 +1022,11 @@ fra	heb	Tom est le chef des antifa.	תום הוא המנהיג של אנטיפה
 fra	heb	Tom est le chef des antifa.	תום הוא מנהיג אנטיפה.
 fra	heb	Tom est le seul à comprendre cela.	תום היחידי שמבין את זה.
 fra	heb	Tom est retourné à la maison ?	תום חזר הביתה?
+fra	heb	Tom est un passif.	תום פס.
+fra	heb	Tom est un passif.	תום פסיבי.
 fra	heb	Tom est un rabbin.	טום הוא רבי.
 fra	heb	Tom était naïf.	תום היה נאיבי.
+fra	heb	Tom et moi ne sommes pas seuls.	טום ואני לא לבד.
 fra	heb	Tom n'a pas rencontré Mary.	טום לא פגש את מרי.
 fra	heb	Tom n'est pas biochimiste.	תום לא ביוכימאי.
 fra	heb	Tom n'est pas interprète.	תום לא מתורגמן.
@@ -988,11 +1038,13 @@ fra	heb	Ton nom a été mentionné.	שמך הוזכר.
 fra	heb	Ton sac est là.	התיק שלך נמצא שם.
 fra	heb	Tous ces livres sont les miens.	כל הספרים האלה הם שלי.
 fra	heb	Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.	כל בני האדם נולדו בני חורין ושווים בערכם ובזכויותיהם. כולם חוננו בתבונה ובמצפון, לפיכך חובה עליהם לנהוג איש ברעהו ברוח של אחווה.
+fra	heb	Tous les juifs ne sont pas religieux.	לא כל היהודים דתיים.
 fra	heb	Tous les pays ont leur drapeau national.	לכל מדינה יש דגל לאומי.
 fra	heb	Tous nos catalogues sont gratuits à la demande.	כל הקטלוגים שלנו ניתנים חינם לכל דורש.
 fra	heb	Tout ce que tu peux faire, c'est attendre.	כל מה שאת יכולה לעשות זה לחכות.
 fra	heb	Tout ce que tu peux faire, c'est attendre.	כל שביכולתך לעשות הוא לחכות.
 fra	heb	Tout ce que vous dites est parfaitement correct.	כל מה שאתם אומרים נכון לגמרי.
+fra	heb	Tout ce qui est mauvais n'est pas génocide.	לא כל דבר רע הוא רצח עם.
 fra	heb	Tout coûte cher ici.	הכול יקר כאן.
 fra	heb	Tout le monde est d'accord avec vous.	כולם מסכימים אתכם.
 fra	heb	Tout le monde est égal devant la loi.	כולם שווים בפני החוק.
@@ -1009,7 +1061,9 @@ fra	heb	Tu dois toujours garder les mains propres.	עליך לשמור על יד
 fra	heb	« Tu es l'enseignant d'Israël », dit Jésus.	"אתה המורה של ישראל", אמר ישו.
 fra	heb	Tu ferais un bon diplomate.	תהיה דיפלומט טוב.
 fra	heb	Tu le rapportes par ouï-dire, n'est-ce pas ?	אתה מספר לי את זה מפי השמועה, נכון?
+fra	heb	Tu m'aimais.	אהבת אותי.
 fra	heb	Tu mets ma patience à bout !	אתה מותח את הסבלנות שלי עד הקצה!
+fra	heb	Tu n'as pas beaucoup d'argent.	אין לך הרבה כסף.
 fra	heb	Tu ne comprends pas.	אתה לא מבין.
 fra	heb	Tu ne devrais pas lire de livres dans une pièce si peu éclairée.	אל תקרא ספרים בחדר שהתאורה בו חלשה כל כך.
 fra	heb	Tu ne dois pas le toucher car c'est très fragile.	אסור לך לגעת בזה כי זה שביר מאוד.
@@ -1023,6 +1077,7 @@ fra	heb	Un changement climatique global pourrait avoir été responsable de l'ex
 fra	heb	Une belle journée, n'est-ce pas ? Pourquoi ne pas sortir faire une balade ?	יום יפה היום, לא כך? למה לא לצאת החוצה לטיול רגלי?
 fra	heb	Une femme dont le mari est mort s'appelle une veuve.	אישה שבעלה מת נקראת "אלמנה".
 fra	heb	Une fois qu'elle commence à parler, il est dur de l'arrêter.	מרגע שהיא מתחילה לדבר, קשה לעצור אותה.
+fra	heb	Une légende est plus puissante que la vérité.	אגדה חזקה יותר מהאמת.
 fra	heb	Une telle affaire n'existe pas.	אין דבר כזה.
 fra	heb	Une voiture a un volant.	למכונית יש הגה.
 fra	heb	Un imbécile comme Dan n'a pas de place dans cette équipe.	לאידיוט כמו דן אין מקום בקבוצה הזאת.
@@ -1055,6 +1110,7 @@ fra	heb	Vous devriez vous excuser.	אתם חייבים להתנצל.
 fra	heb	Vous êtes belles.	אתן יפות.
 fra	heb	Vous feriez mieux de partir.	עדיף היה שתעזוב.
 fra	heb	Vous l'avez mise dans la boîte.	אתם הכנסתם את זה לקופסה.
+fra	heb	Vous m'aimiez.	אהבת אותי.
 fra	heb	Vous n'arrivez jamais à l'heure.	אתם אף פעם לא מגיעים בזמן.
 fra	heb	Vous ne le regretterez pas.	אתה לא תתחרט על זה.
 fra	heb	Vous savez très bien comment c'est arrivé.	אתה יודע היטב איך זה קרה.

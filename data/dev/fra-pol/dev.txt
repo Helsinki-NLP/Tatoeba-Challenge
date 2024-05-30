@@ -1,6 +1,8 @@
 fra	pol	Abstiens-toi de fumer ici, je te prie.	Powstrzymaj się od palenia tutaj, proszę cię
 fra	pol	À cause de toi, j'ai envie de pleurer.	Przez ciebie chce mi się płakać.
 fra	pol	Ah, maintenant, je m'en souviens. J'avais mis un préservatif ; ce que je fais rarement, voire pratiquement jamais.	Ach tak, teraz sobie przypominam: miałem prezerwatywę. Zdarza mi sie to rzadko, praktycznie nigdy.
+fra	pol	Aimes-tu les enfants ?	Lubi pan dzieci?
+fra	pol	Aimez-vous les enfants ?	Lubi pan dzieci?
 fra	pol	Aimez-vous le vin blanc ?	Czy lubicie białe wino?
 fra	pol	Aimez-vous le vin blanc ?	Czy lubi Pan białe wino?
 fra	pol	Ajoutez ensuite 80 g de sucre et le Grand Marnier.	Dodaj 80 g cukru i Grand Marnier.
@@ -30,7 +32,9 @@ fra	pol	Aujourd'hui je suis allé voir le dentiste.	Poszedłem dziś do dentysty
 fra	pol	Aujourd'hui on est mercredi.	Dzisiaj jest środa.
 fra	pol	Au pied de la colline il y a un beau lac.	U stóp wzgórza jest piękne jezioro.
 fra	pol	Aussitôt gagné, aussitôt dépensé.	Łatwo przyszło, łatwo poszło.
+fra	pol	Avec de l’argent on peut tout acheter.	Z pieniędzmi można kupić wszystko.
 fra	pol	Avez-vous déjà lu le journal d'aujourd'hui ?	Czy pani już czytała dzisiejszą gazetę?
+fra	pol	Avez-vous de la famille ou des amis chez qui vous pourriez séjourner ?	Czy masz rodzinę lub przyjaciół, u których mógłbyś zostać?
 fra	pol	Avez-vous de la température ?	Masz gorączkę?
 fra	pol	Avons-nous heurté quelque chose ?	Walnęliśmy w coś?
 fra	pol	Beau costume.	Ładny strój.
@@ -93,6 +97,7 @@ fra	pol	C'est tout ce que j'ai pour toi.	To jest wszystko, co mam dla ciebie.
 fra	pol	C'est tout ce que je peux vous offrir.	To jest wszystko, co mogę Państwu zaproponować.
 fra	pol	C’est triste.	To smutne.
 fra	pol	C'est trop facile.	To jest zbyt łatwe.
+fra	pol	C'est un escargot.	To jest ślimak.
 fra	pol	C'est un garçon japonais.	Jest młodym Japończykiem.
 fra	pol	C'est un homme dont le cœur est plein d'espoir.	To człowiek, którego serce przepełnia nadzieja.
 fra	pol	C'est un meilleur avocat que ce que je pensais.	To zdolniejszy adwokat niż sądziłem.
@@ -125,6 +130,7 @@ fra	pol	Cinq personnes sont mortes.	Pięć osób nie żyje.
 fra	pol	Cloner, c'est créer un nouvel organisme qui partage avec un autre organisme préexistant les mêmes données génétiques.	Klonowanie to tworzenie nowego organizmu, który ma takie same dane genetyczne jak organizm istniejący.
 fra	pol	Combien de fois par semaine vas-tu faire tes courses au supermarché ?	Ile razy w tygodniu jeździsz po zakupy do supermarketu?
 fra	pol	Combien de fois t'ai-je expliqué que ton explication est peu convaincante ?	Ile razy ci tłumaczyłem, że twoje wytłumaczenie jest mało przekonywujące?
+fra	pol	Combien de temps devons-nous attendre ici ?	Jak długo musimy tu czekać?
 fra	pol	Comme il mange !	Ależ on je!
 fra	pol	Comme il nage vite !	Jak ona szybko pływa!
 fra	pol	Comme il n'a pas répondu au téléphone, je lui ai envoyé un courriel.	Nie odebrał telefonu więc wysłałem mu maila.
@@ -190,12 +196,14 @@ fra	pol	Elle est moins belle que sa mère.	Ona jest mniej ładna od swojej matki
 fra	pol	Elle est si jolie mais elle regarde si vilainement.	Ona jest bardzo ładna, ale gotuje podle.
 fra	pol	Elle est toujours souriante.	Ona jest zawsze uśmiechnięta.
 fra	pol	Elle est une féministe.	Ona jest feministką.
+fra	pol	Elle est venue en personne.	Przyszła osobiście.
 fra	pol	Elle lit le chinois.	Ona czyta chiński.
 fra	pol	Elle lui donna un chandail.	Ona dała mu sweter.
 fra	pol	Elle lui recommanda de ne pas emprunter d'argent à ses amis.	Doradziła mu, by nie pożyczał pieniędzy od przyjaciół.
 fra	pol	Elle m'a appelé très tard la nuit dernière.	Zadzwoniła do mnie bardzo późno ostatniej nocy.
 fra	pol	Elle me donna des conseils ainsi que des renseignements.	Dała mi tyle rad co informacji.
 fra	pol	Elle n'a pas encore nettoyé sa chambre.	Jeszcze nie posprzątała swojego pokoju.
+fra	pol	Elle ne connait personne.	Ona nikogo nie znała.
 fra	pol	Elle n'est pas photogénique.	Jest niefotogeniczna.
 fra	pol	Elle parle non seulement l'anglais mais aussi couramment le français.	Mówi nie tylko po angielsku, ale również biegle po francusku.
 fra	pol	Elle pourrait bien refuser de te parler car elle est de très mauvaise humeur.	Na pewno nie będzie chciała z tobą gadać, bo jest podłym humorze.
@@ -241,6 +249,7 @@ fra	pol	Êtes-vous à Osaka depuis longtemps ?	Od dawna jest pan w Osace?
 fra	pol	Êtes-vous occupée demain après-midi ?	Czy jesteś zajęta jutro po południu?
 fra	pol	Êtes-vous prêts à prendre la route, tous les deux ?	Czy obaj jesteście gotowi do drogi?
 fra	pol	Étiez-vous occupé la semaine dernière ?	Czyli oni byli zajęci w zeszłym tygodniu?
+fra	pol	Et seras-tu prêt pour juillet ?	A będziesz na lipiec gotowy?
 fra	pol	Exactement !	Dokładnie!
 fra	pol	Excepté pour la prononciation, tout le monde peut correctement parler le français.	Pomijając wymowę, każdy może poprawnie mówić po francusku.
 fra	pol	Fais ce que tu aimes.	Rób co chcesz.
@@ -271,6 +280,7 @@ fra	pol	Il a trouvé un appareil photo cassé.	Znalazł zepsuty aparat fotografi
 fra	pol	Il attrapa la corde.	Złapał za sznurek.
 fra	pol	Il a une famille à entretenir.	On ma rodzinę na utrzymaniu.
 fra	pol	Il a violé la loi.	On złamał prawo.
+fra	pol	Il boit de l’alcool tous les jours.	Codziennie pije alkohol.
 fra	pol	Il commença à pleuvoir, je me suis donc abrité sous le parapluie de mon ami.	Zaczęło padać, więc schowałem się pod parasolem mojego przyjaciela.
 fra	pol	Il connaît bien M. Davidson.	On dobrze zna pana Davidsona.
 fra	pol	Il continua à lire son livre comme s'il ne s'était rien passé.	Czytał sobie książkę, jakby nic się nie stało.
@@ -357,12 +367,14 @@ fra	pol	Il y arrivera s'il y met de la volonté.	Da radę, jeśli się postara.
 fra	pol	Il y a un arrêt de bus à proximité de notre école.	W pobliżu naszej szkoły jest przystanek autobusowy.
 fra	pol	Il y a une différence marquée entre ces deux-là.	Między nimi istnieje wyraźna różnica.
 fra	pol	Il y a une radio dans ma chambre.	W moim pokoju jest radio.
+fra	pol	Il y a une salle où les enfants jouent. Vous pouvez y emmener votre enfant.	Tam jest sala, w której bawią się dzieci. Możesz zaprowadzić tam swoje dziecko.
 fra	pol	Il y avait seulement six personnes à la réunion.	Na spotkaniu było tylko sześć osób.
 fra	pol	Il y eut un changement subit de situation.	Zaszła nagła zmiana sytuacji.
 fra	pol	J'accroche le calendrier au mur.	Wieszam kalendarz na ścianie.
 fra	pol	Jack a décidé d'annuler sa réservation.	Jack postanowił odwołać rezerwację.
 fra	pol	J'adore la musique celte.	Uwielbiam muzykę celtycką.
 fra	pol	J'adore la musique irlandaise.	Kocham muzykę irlandzką.
+fra	pol	J'adore le jus de pomme.	Uwielbiam sok pomarańczowy.
 fra	pol	J'ai acheté ce disque-là dans ce magasin.	Kupiłem tę płytę w tym sklepie.
 fra	pol	J'ai acheté un chapeau dans ce magasin.	Kupiłem czapkę w tym sklepie.
 fra	pol	J'ai acheté une vieille voiture.	Kupiłem stary samochód.
@@ -382,6 +394,7 @@ fra	pol	J'ai essayé de m'échapper.	Próbowałem uciec.
 fra	pol	J'ai essayé de résoudre le problème.	Spróbowałem rozwiązać problem.
 fra	pol	J'ai été agréablement surpris.	Byłem mile zaskoczony.
 fra	pol	J'ai été en Italie plusieurs fois.	Wielokrotnie byłam we Włoszech.
+fra	pol	J'ai été violée.	Zgwałcono mnie.
 fra	pol	J’ai étudié l'anglais pendant cinq ans.	Uczyłem się angielskiego pięć lat.
 fra	pol	J'ai faim après une longue randonnée.	Po długiej wędrówce czuję się głodna.
 fra	pol	J'ai faim après une longue randonnée.	Po długiej wędrówce czuję się głodny.
@@ -648,12 +661,14 @@ fra	pol	Le plus tôt, le mieux.	Im wcześniej, tym lepiej.
 fra	pol	Le président a été gentil, et a répondu à ma lettre.	Prezydent był uprzejmy i odpowiedział na mój list.
 fra	pol	Le printemps est la meilleure saison pour visiter Kyoto.	Wiosna to najlepsza pora na odwiedzenie Kioto.
 fra	pol	Le prix du pétrole augmente.	Cena ropy rośnie.
+fra	pol	Le problème, c'est que j'ai une raison de faire plus confiance à un ordinateur qu'à moi-même.	Sęk w tym, że mam powód, aby ufać komputerowi bardziej niż samej sobie.
 fra	pol	Le professeur lui a donné plus d'informations sur l'université.	Nauczyciel udostępnił jej mnóstwo informacji o uniwersytecie.
 fra	pol	Le public interrompit l'orateur.	Publiczność przerwała mówcy.
 fra	pol	Lequel est ancien ?	Który jest stary?
 fra	pol	Lequel est plus grand, le soleil ou la terre ?	Co jest większe: Słońce czy Ziemia?
 fra	pol	Lequel est ton chien ?	Który pies jest twój?
 fra	pol	Le réveil me réveille à sept heures.	Budzik budzi mnie o siódmej.
+fra	pol	Le roi est mort, vive le roi !	Umarł król, niech żyje król!
 fra	pol	Le rugby est un jeu de plein air.	W rugby gra się na świeżym powietrzu.
 fra	pol	Les Chinois forment un peuple très travailleur.	Chińczycy są pracowitym narodem.
 fra	pol	Les connaissez-vous ?	Znasz ich?
@@ -679,6 +694,7 @@ fra	pol	Les yeux sont les miroirs de l'âme.	Oko jest zwierciadłem duszy.
 fra	pol	Le temps est passé très rapidement.	Czas upłynął bardzo szybko.
 fra	pol	Le tissu musculaire se compose d'une quantité innombrable de cellules.	Tkanka mięśniowa składa się z niezliczonej ilości komórek.
 fra	pol	Le train arriva à l'heure.	Pociąg przyjechał punktualnie.
+fra	pol	Le train quitte la gare.	Pociąg odjeżdża z dworca.
 fra	pol	L'étranger va à travers la ville.	Przez miasto idzie cudzoziemiec.
 fra	pol	Le vase tomba à terre et se brisa.	Wazon spadł na ziemię i się rozbił.
 fra	pol	Le verbe aimer est difficile à conjuguer : son passé n'est pas simple, son présent n'est qu'indicatif, et son futur est toujours conditionnel.	Czasownik „kochać” bardzo trudno się odmienia: czas przeszły nigdy nie jest prosty, teraźniejszy jest wyłącznie oznajmujący, a przyszły jest zawsze warunkowy.
@@ -721,6 +737,7 @@ fra	pol	Moi aussi, j'adore la musique.	Ja też kocham muzykę.
 fra	pol	Moi non plus je ne le connaissais pas.	Ja również go nie znałem.
 fra	pol	Mon ami fut blessé par balle.	Mój przyjaciel został postrzelony.
 fra	pol	Mon ami Marcello apprend le Tupi.	Mój przyjaciel Marcelo uczy się języka tupi.
+fra	pol	Mon enfant a besoin d'un médecin.	Moje dziecko potrzebuje lekarza.
 fra	pol	Mon fils a dix ans.	Mój syn ma dziesięć lat.
 fra	pol	Mon fils peut compter jusqu'à 100 maintenant.	Mój synek umie już liczyć do stu.
 fra	pol	Mon oncle a vécu heureux.	Mój wujek żył szczęśliwie.
@@ -825,6 +842,7 @@ fra	pol	Pourquoi es-tu venue ici ?	Dlaczego tu przyszedłeś?
 fra	pol	Pourquoi m'as-tu quitté ?	Dlaczego mnie zostawiłaś?
 fra	pol	Pourquoi n'es-tu gentil qu'avec moi ?	Dlaczego jesteś miły tylko dla mnie?
 fra	pol	Pourquoi veux-tu acheter ce livre ?	Dlaczego chcesz kupić tę książkę?
+fra	pol	Pourriez-vous me dire comment le faire ?	Moglibyście mi powiedzieć jak to zrobić?
 fra	pol	Pour une raison quelconque, leurs vacances en France ne les ont pas satisfaits.	Z jakiegoś powodu, ich wakacje we Francji nie były satysfakcjonujące.
 fra	pol	Pouvez-vous me dire où je dois changer ?	Czy może mi pan powiedzieć, gdzie mam się przesiąść?
 fra	pol	Pouvons-nous louer une voiture ?	Możemy wynająć samochód?
@@ -844,6 +862,7 @@ fra	pol	Quelle est la superficie de cette maison ?	Jaka jest powierzchnia tego d
 fra	pol	Quelle est ton adresse électronique ?	Jaki jest twój adres e-mail?
 fra	pol	Quelle est ton adresse e-mail?	Jaki jest twój adres e-mail?
 fra	pol	Quelle est ton application préférée sur iPhone ?	Jaka jest twoja ulubiona aplikacja na iPhone'a?
+fra	pol	Quel livre es-tu en train de lire ?	Jaką książkę czytasz?
 fra	pol	Quel plaisir de te voir !	Miło cię widzieć.
 fra	pol	Quel plaisir d'être à Hawaii à nouveau.	Jak przyjemnie być znów na Hawajach.
 fra	pol	Quelque chose de nouveau aujourd'hui ?	Co dziś nowego?
@@ -858,6 +877,7 @@ fra	pol	Que veut-il faire ?	Co on chce zrobić?
 fra	pol	Qui a écrit cette lettre ?	Kto napisał ten list?
 fra	pol	Qui est ton écrivain favori ?	Jaki jest twój ulubiony pisarz?
 fra	pol	Qui ne tente rien n'a rien.	Kto nie ryzykuje, nic nie zyskuje.
+fra	pol	« Qui nous protège ? » « Nous nous protégeons nous-mêmes ! »	"Kto nas chroni?" "My sami się chronimy!"
 fra	pol	Qui sait cela ?	Kto to wie?
 fra	pol	Quoi de neuf ?	Co jest?
 fra	pol	Quoiqu'il arrive, nous devons être prêts.	Cokolwiek się zdarzy, musimy być przygotowani.
@@ -903,6 +923,7 @@ fra	pol	Souris.	Uśmiechnij się.
 fra	pol	Soyez aimable avec autrui !	Bądź uprzejmy dla innych.
 fra	pol	Ta belle voix était très agréable à mes oreilles.	Twój uroczy głos był bardzo miły dla moich uszu.
 fra	pol	Ta chemise a besoin d'un lavage.	Twoja koszula domaga się prania.
+fra	pol	Ta naïveté te perdra.	Twoja naiwność Cię zgubi.
 fra	pol	Tatoeba a atteint huit cent mille phrases !	Tatoeba osiągnął osiemset tysięcy zdań.
 fra	pol	Te sens-tu coupable ?	Czy czujesz się winny?
 fra	pol	Tes mots ont provoqué sa colère.	Twoje słowa spowodowały jego złość.
@@ -917,6 +938,7 @@ fra	pol	Tom a trois frères.	Tom ma trzech braci.
 fra	pol	Tom connaît un raccourci.	Tom zna skrót.
 fra	pol	Tom est malade, mais rien de grave.	Tom jest chory, ale to nic poważnego.
 fra	pol	Tom est occupé à préparer des sandwichs dans la cuisine.	Tom jest zajęty robieniem kanapek w kuchni.
+fra	pol	Tom et Marie ne font que ce qu'ils veulent.	Tom i Mary robią tylko to, co chcą.
 fra	pol	Tom m'a dit que tu aimais la cuisine piquante.	Tom powiedział mi, że lubisz ostre jedzenie.
 fra	pol	Tom n’aime pas le fromage.	Tom nie lubi sera.
 fra	pol	Tom n'aime pas les mathématiques.	Tomek nie lubi matematyki.
@@ -928,6 +950,7 @@ fra	pol	Tom s'est exprimé de manière claire.	Tom zrozumiale wyraził się.
 fra	pol	Tom t'attend.	Tom czeka na ciebie.
 fra	pol	Tom veut du popcorn.	Tom chce popcorn.
 fra	pol	Tom veut emprunter ta voiture.	Tom chce pożyczyć twój samochód.
+fra	pol	Ton couteau est rouillé.	Twój nóż jest zardzewiały.
 fra	pol	Tournez ici à droite, s'il vous plaît.	Proszę tu skręcić w prawo.
 fra	pol	Tout ce que tu as à faire est de travailler plus dur.	Jedyne, co musisz zrobić, to ciężej pracować.
 fra	pol	Tout ce que tu dis est absolument correct.	Wszystko, co mówisz, jest zupełnie poprawne.
@@ -950,6 +973,7 @@ fra	pol	Tu dois travailler.	Musisz pracować.
 fra	pol	Tu dois y aller.	Musisz iść.
 fra	pol	Tu es encore vert.	Jesteś jeszcze zielony.
 fra	pol	Tu es occupé demain après-midi ?	Czy jesteś zajęta jutro po południu?
+fra	pol	Tu es trop naïf, mon frère.	Jesteś bardzo naiwny, mój przyjacielu.
 fra	pol	Tu exagères vraiment de rentrer à cette heure.	To już przesada - wracać o tej porze!
 fra	pol	Tu ferais mieux d'y aller à pied.	Lepiej będzie, jak pójdziesz pieszo.
 fra	pol	Tu mets la table.	Nakrywasz stół.

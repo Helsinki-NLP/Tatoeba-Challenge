@@ -9,9 +9,14 @@ lat_Latn	tlh_Latn	Aliquis cantavit.	bom vay'.
 lat_Latn	tlh_Latn	Amici facti sunt.	juppu' moj.
 lat_Latn	tlh_Latn	Amicus noster non es.	jupma' SoHbe'.
 lat_Latn	tlh_Latn	Amitam meam amo.	'e'mamwI' vImuSHa'.
+lat_Latn	tlh_Latn	Amor amorem amare amat.	parmaq muSHa' 'e' muSHa' parmaq.
 lat_Latn	tlh_Latn	Anarchia ordo est.	Qur 'oH che'be'lu'ghach'e'.
 lat_Latn	tlh_Latn	Anarchia ordo sine potestate est.	Qur raDnISbe'lu'bogh 'oH che'be'lu'ghach'e'.
+lat_Latn	tlh_Latn	Aquam vult.	bIQ neH.
 lat_Latn	tlh_Latn	Aqua non friget.	bIrbe' bIQ.
+lat_Latn	tlh_Latn	Arborem vides.	Sor Dalegh.
+lat_Latn	tlh_Latn	Arborem videtis.	Sor bolegh.
+lat_Latn	tlh_Latn	Arbores vivunt.	yIn Sormey.
 lat_Latn	tlh_Latn	Australia ubi est?	nuqDaq 'oH 'aSralya''e'?
 lat_Latn	tlh_Latn	Avunculus eius dives videtur.	mIplaw' 'IrneHDaj.
 lat_Latn	tlh_Latn	Avunculus eius dives videtur.	mIplaw' 'IrneHnalDaj.
@@ -30,6 +35,7 @@ lat_Latn	tlh_Latn	Cubile in quo dormio valde parvum est.	machqu' QongDaqwIj.
 lat_Latn	tlh_Latn	Cur canis male olet?	qatlh He'So' Ha'DIbaH?
 lat_Latn	tlh_Latn	Cur hic sumus?	qatlh naDev maHtaH?
 lat_Latn	tlh_Latn	Daemon mortuus est.	Heghpu' veqlargh.
+lat_Latn	tlh_Latn	Dea est.	Qun be' tu'lu'.
 lat_Latn	tlh_Latn	Decem linguas dicere potest illa femina.	wa'maH Holmey jatlhlaH be'vetlh.
 lat_Latn	tlh_Latn	Deum agnoscimus ex operibus ejus.	ta'Dajmo' Qun'a' wIghov.
 lat_Latn	tlh_Latn	Deus mundum creavit sex diebus.	qaStaHvIS jav jaj tera' chenmoHta' Qun'a'.
@@ -74,8 +80,10 @@ lat_Latn	tlh_Latn	Felem habebamus.	vIghro' wIghaj.
 lat_Latn	tlh_Latn	Felem habemus.	vIghro' wIghaj.
 lat_Latn	tlh_Latn	Fēlem habet.	vIghro' ghaj.
 lat_Latn	tlh_Latn	Feles duas aures habent.	cha' qoghDu' ghaj vIghro'.
+lat_Latn	tlh_Latn	Feles esurit.	ghung vIghro'.
 lat_Latn	tlh_Latn	Feles mea est magna.	tIn vIghro'wIj.
 lat_Latn	tlh_Latn	Feles mea humida est.	yIQ vIghro'wIj.
+lat_Latn	tlh_Latn	Feles mea me amat.	mumuSHa' vIghro'wIj.
 lat_Latn	tlh_Latn	Feminae laborant.	vumtaH be'pu'.
 lat_Latn	tlh_Latn	Feminae opus faciunt.	vumtaH be'pu'.
 lat_Latn	tlh_Latn	Fur es, Didyme.	nIHwI' bIH, tam.
@@ -89,6 +97,8 @@ lat_Latn	tlh_Latn	Hoc dictionarium melius est quam illud.	mu'ghomvam QaQ law' mu
 lat_Latn	tlh_Latn	Hoc dictionarium melius illo est.	mu'ghomvam QaQ law' mu'ghomvetlh QaQ puS.
 lat_Latn	tlh_Latn	Hoc dictionarium melius quam illud est.	mu'ghomvam QaQ law' mu'ghomvetlh QaQ puS.
 lat_Latn	tlh_Latn	Hoc malum viride est.	SuDqu' 'epIl naHvam.
+lat_Latn	tlh_Latn	Homines e Tellure oriundi sumus.	Human maH 'ej tera' 'oH mungmaj'e'.
+lat_Latn	tlh_Latn	Homines e Terrā oriundi sumus.	Human maH 'ej tera' 'oH mungmaj'e'.
 lat_Latn	tlh_Latn	Homo es.	Human SoH.
 lat_Latn	tlh_Latn	Homo sum ; humani nihil a me alienum puto.	Human jIH. jIHvaD nov Human pagh.
 lat_Latn	tlh_Latn	Horologium non est.	tlhaq 'oHbe'.
@@ -98,13 +108,18 @@ lat_Latn	tlh_Latn	In magno lecto dormio.	QongDaq tInDaq jIQong.
 lat_Latn	tlh_Latn	In mari natavimus.	bIQ'a'Daq maQalpu'.
 lat_Latn	tlh_Latn	Inter arma enim silent leges.	qaStaHvIS noH tam chutmey.
 lat_Latn	tlh_Latn	Iohannes malum Mariae dedit.	me'rIyvaD 'epIl naH nob jan.
+lat_Latn	tlh_Latn	Ita, hic habito.	HIja', naDev vIDab.
+lat_Latn	tlh_Latn	Iudaei sumus.	yISra'el nortlham maH.
 lat_Latn	tlh_Latn	Iudaismus pulcher est.	'IH yISra'el lalDan.
 lat_Latn	tlh_Latn	Iudaismus religio tribalis est.	tuq lalDan 'oH yISra'el lalDan'e'.
 lat_Latn	tlh_Latn	Larva mortua est.	Heghpu' veqlargh.
 lat_Latn	tlh_Latn	Legite librum alium.	paq pIm yIlaD.
 lat_Latn	tlh_Latn	Liber albus est.	chIS paq.
+lat_Latn	tlh_Latn	Liber novus eius est mirabilis.	Dun paq chu'Daj.
 lat_Latn	tlh_Latn	Liber sum.	jItlhab.
 lat_Latn	tlh_Latn	Libros libenter legit.	paq laD neH.
+lat_Latn	tlh_Latn	Linguam Esperanticam numquam discam.	not 'eSperanto Hol vIHaD.
+lat_Latn	tlh_Latn	Linguam francogallicam didici.	vIraS Hol vIghoj.
 lat_Latn	tlh_Latn	Linguam Lusitanicam non intellego.	portughal Hol vIyajbe'.
 lat_Latn	tlh_Latn	Lingua mundos aperit.	qo'mey poSmoH Hol.
 lat_Latn	tlh_Latn	Linguas amo.	Holmey vImuSHa'.
@@ -113,6 +128,7 @@ lat_Latn	tlh_Latn	Magister sum, discipulus non sum.	ghojmoHwI' jIH, ghojwI' jIHb
 lat_Latn	tlh_Latn	Magna sum et fortis.	jItIn 'ej jIHoS.
 lat_Latn	tlh_Latn	Magnus sum et fortis.	jItIn 'ej jIHoS.
 lat_Latn	tlh_Latn	Malum flavum est.	SuD 'epIl naH.
+lat_Latn	tlh_Latn	Malum habet.	'epIl naH ghaj.
 lat_Latn	tlh_Latn	Malum viride est.	SuD 'epIl naH.
 lat_Latn	tlh_Latn	Malum viride est.	SuDqu' 'epIl naH.
 lat_Latn	tlh_Latn	Maria non aegrotat.	ropbe' me'rIy.
@@ -121,15 +137,18 @@ lat_Latn	tlh_Latn	Mensa viridis est.	SuDqu' raS.
 lat_Latn	tlh_Latn	Mens sana in corpore sano.	porgh pIv Dab yab pIv.
 lat_Latn	tlh_Latn	Minime, non ivi.	ghobe', jIjaHbe'.
 lat_Latn	tlh_Latn	Multi conati sunt.	lunIDpu' ghot law'.
+lat_Latn	tlh_Latn	Mundus aegrotat.	rop qo'.
 lat_Latn	tlh_Latn	Mundus pulcher est.	'IH qo'.
 lat_Latn	tlh_Latn	Natare possum.	jIQallaH.
 lat_Latn	tlh_Latn	Natare possum, sed in flumine libenter non nato.	jIQallaH, 'ach bIQtIqDaq jIQal vIneHbe'.
 lat_Latn	tlh_Latn	Navis in mari est.	bIQ'a'Daq 'oHtaH Duj'e'.
+lat_Latn	tlh_Latn	Nemo animam habet.	qa' ghaj pagh.
 lat_Latn	tlh_Latn	Nemo omnia scit.	Hoch Sov pagh.
 lat_Latn	tlh_Latn	Nihil est, quod deus efficere non possit.	vay''e' ta'laHbe'bogh Qun'a' tu'lu'be'.
 lat_Latn	tlh_Latn	Nihil scripsi.	pagh vIghItlhpu'.
 lat_Latn	tlh_Latn	Noli cattam expergere.	vIghro' yIvemmoHQo'.
 lat_Latn	tlh_Latn	Noli cattum expergere.	vIghro' yIvemmoHQo'.
+lat_Latn	tlh_Latn	Nomen idem nobis est.	pong rap wIghaj.
 lat_Latn	tlh_Latn	Nomen mihi Dilshad est.	DIlSaD 'oH pongwIj'e'.
 lat_Latn	tlh_Latn	Nomen mihi est Julius.	yulyuS 'oH pongwIj'e'.
 lat_Latn	tlh_Latn	Nomen mihi Omid est.	'omID 'oH pongwIj'e'.
@@ -137,6 +156,7 @@ lat_Latn	tlh_Latn	Non procul a schola habito.	juHwIjDaq Hopbe' DuSaQ.
 lat_Latn	tlh_Latn	Non scholae, sed gaudio discimus.	DuSaQvaD maghojbe' 'ach belvaD maghoj.
 lat_Latn	tlh_Latn	Nos eis supererimus.	mataH maH HeghDI'.
 lat_Latn	tlh_Latn	Nulla vita sine musica.	QoQ Hutlhbogh yIn'e' tu'lu'be'.
+lat_Latn	tlh_Latn	Numquam.	not.
 lat_Latn	tlh_Latn	Occidistine eam?	DaHoH'a'?
 lat_Latn	tlh_Latn	Occidistine eos?	DaHoH'a'?
 lat_Latn	tlh_Latn	Odi et amo. Quare id faciam, fortasse requiris. Nescio, sed fieri sentio et excrucior.	jImuS 'ej jImuSHa'. chaq choghel qatlh? jISovbe' 'ach qaS 'e' vIHot 'ej vIjoy'lu'.
@@ -145,6 +165,7 @@ lat_Latn	tlh_Latn	Omnia odi.	Hoch vImuS.
 lat_Latn	tlh_Latn	Paene omnes laeti erant.	tlhoS Quch Hoch.
 lat_Latn	tlh_Latn	Panem et circenses.	tIr ngogh Qujmey je.
 lat_Latn	tlh_Latn	Pater et filius eius valde similes sunt.	rurchuqqu' vav puqloDDaj je.
+lat_Latn	tlh_Latn	Pater meus aegrotat.	rop vavwI'.
 lat_Latn	tlh_Latn	Patruus eius dives videtur.	mIplaw' tennuSDaj.
 lat_Latn	tlh_Latn	Patruus meus dives est.	mIp tennuSwI'.
 lat_Latn	tlh_Latn	Peccavi.	jIyempu'.
@@ -157,6 +178,8 @@ lat_Latn	tlh_Latn	Pirata non sum.	Duj nIHwI' jIHbe'.
 lat_Latn	tlh_Latn	Piscis male olet.	He'So' ghotI'.
 lat_Latn	tlh_Latn	Placentne tibi fraga?	Sutra'ber naHmey DaparHa''a'?
 lat_Latn	tlh_Latn	Pluit et umbellam non habeo.	SIS 'ej SIS yoD vIghajbe'.
+lat_Latn	tlh_Latn	Politica sum.	rubyo' jIH.
+lat_Latn	tlh_Latn	Politicus sum.	rubyo' jIH.
 lat_Latn	tlh_Latn	Potesne comprehendere Thoman?	tam DayajlaH'a'?
 lat_Latn	tlh_Latn	Potesne intellegere Thoman?	tam DayajlaH'a'?
 lat_Latn	tlh_Latn	Primum non nocere.	wa'DIch: yIHoHQo'!
@@ -164,9 +187,11 @@ lat_Latn	tlh_Latn	Puella est.	be'Hom ghaH.
 lat_Latn	tlh_Latn	Puer operatur.	vumtaH loDHom.
 lat_Latn	tlh_Latn	Puerum video.	loDHom vIlegh.
 lat_Latn	tlh_Latn	Quando incipiet?	ghorgh tagh?
+lat_Latn	tlh_Latn	"Quando?" "Numquam."	"ghorgh?" "not."
 lat_Latn	tlh_Latn	Quicumque veniet, me videbit.	ghoSruplu'chugh muleghrup ghaH.
 lat_Latn	tlh_Latn	"Quid dixisti?" "Tibi dixi nihil."	"nuqjatlh?" "SoHvaD pagh vIjatlh."
 lat_Latn	tlh_Latn	Quid est caput Aegypti?	nuq 'oH maSIr mon'e'?
+lat_Latn	tlh_Latn	Quid est Iudaeismus?	nuq 'oH yISra'el lalDan'e'?
 lat_Latn	tlh_Latn	Quid est verbum?	mu' nuq?
 lat_Latn	tlh_Latn	Quid est vocabulum?	mu' nuq?
 lat_Latn	tlh_Latn	Quid expectas?	nuq DaloSlI'?
@@ -175,6 +200,7 @@ lat_Latn	tlh_Latn	Quid facere vis?	nuq Data' DaneH?
 lat_Latn	tlh_Latn	Quid Thomas aperire recusabat?	nuq posmoHtaHQo' tam?
 lat_Latn	tlh_Latn	Quocum cenam sumis?	'uQ DaSoptaHvIS Dutlhej 'Iv?
 lat_Latn	tlh_Latn	Quomodo ceciderunt fortes, et perierunt arma bellica!	Heghpu' Sub 'ej veS nuH luweSlu'pu'!
+lat_Latn	tlh_Latn	Quo?	nuqDaq?
 lat_Latn	tlh_Latn	Raeda ante aedificium est.	qach tlhopDaq puH Duj tu'lu'.
 lat_Latn	tlh_Latn	Realitas est bella.	'IH DI'ruj.
 lat_Latn	tlh_Latn	Reginam video.	ta'be' vIlugh.
@@ -186,13 +212,21 @@ lat_Latn	tlh_Latn	Samius pecuniam habet.	Huch ghaj Sa'mIy.
 lat_Latn	tlh_Latn	Scio te eum videre non posse.	DaleghlaHbe' 'e' vISov.
 lat_Latn	tlh_Latn	Scio te Thoman videre non posse.	tam DaleghlaHbe' 'e' vISov.
 lat_Latn	tlh_Latn	Sella mea prope ianuam est.	lojmItDaq Sum quSwIj.
+lat_Latn	tlh_Latn	Serva sum.	toy'wI''a' jIH.
+lat_Latn	tlh_Latn	Servus sum.	toy'wI''a' jIH.
+lat_Latn	tlh_Latn	Silva viridis est.	SuDqu' ngem.
 lat_Latn	tlh_Latn	Speculator non sum.	ghoqwI' jIHbe'.
 lat_Latn	tlh_Latn	Studeo.	jIHaD.
+lat_Latn	tlh_Latn	Sumne Iudaea?	yISra'el northlam jIH'a'?
+lat_Latn	tlh_Latn	Sumne Iudaeus?	yISra'el northlam jIH'a'?
 lat_Latn	tlh_Latn	Suntne laetae?	Quch'a'?
 lat_Latn	tlh_Latn	Suntne laetae?	Quch'a' chaH?
 lat_Latn	tlh_Latn	Suntne laeti?	Quch'a'?
 lat_Latn	tlh_Latn	Suntne laeti?	Quch'a' chaH?
+lat_Latn	tlh_Latn	Superhomo potest ferum flectere.	'uSqan SIHmoHlaH Su'perman.
+lat_Latn	tlh_Latn	Superman potest ferum flectere.	'uSqan SIHmoHlaH Su'perman.
 lat_Latn	tlh_Latn	Thomae non placet cafea calda.	qa'vIn tuj par tam.
+lat_Latn	tlh_Latn	Thoman interfeci.	tam vIHoH.
 lat_Latn	tlh_Latn	Thomas Bostoniam modo revenit.	DaH neH boSton cheghpu' tam.
 lat_Latn	tlh_Latn	Thomas Bostoniam oderat.	baStan muS tam.
 lat_Latn	tlh_Latn	Thomas Bostoniam odit.	baStan muS tam.
@@ -208,6 +242,7 @@ lat_Latn	tlh_Latn	Tu homo es.	Human SoH.
 lat_Latn	tlh_Latn	Tunica munda egeo.	yIvbeH Say' vIpoQ.
 lat_Latn	tlh_Latn	Ubi est Australia?	nuqDaq 'oH 'aSralya''e'?
 lat_Latn	tlh_Latn	Ubi est Bostonia?	nuqDaq 'oH baStan'e'?
+lat_Latn	tlh_Latn	Ubi est filia mea?	nuqDaq ghaHtaH puqbe'wI''e'?
 lat_Latn	tlh_Latn	Ubi est saccus meus?	nuqDaq 'oHtaH buqwIj'e'?
 lat_Latn	tlh_Latn	Ubi puellae sunt?	nuqDaq chaHtaH be'Hompu''e'?
 lat_Latn	tlh_Latn	Undeviginti annos natus sum.	wa'maH Hut ben jIboghpu'.

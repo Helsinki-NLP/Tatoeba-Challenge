@@ -179,6 +179,7 @@ ron	tur	Care echipă va câștiga?	Hangi takım kazanacak?
 ron	tur	Care este calificarea ta?	Niteliğin nedir?
 ron	tur	Care este dimensiunea tortului de care aveți nevoie?	Ne boyutta pastaya ihtiyacın var?
 ron	tur	Care este obiectivul principal al acestui proiect?	Bu projenin temel amacı nedir?
+ron	tur	Care este programul tău TV preferat?	Önerdiğin TV programı hangisi?
 ron	tur	Care parte a câștigat?	Hangi taraf kazandı?
 ron	tur	Care parte este greșită?	Hangi kısım yanlış?
 ron	tur	Care sunt tarifele în acest hotel?	Bu otelde ücretler nedir?
@@ -221,6 +222,7 @@ ron	tur	Chiar şi Tom poate vorbi franceza.	Tom bile Fransızca konuşabilir.
 ron	tur	Chiar și Tom știe asta.	Tom bile onu biliyor.
 ron	tur	Ciclul meu menstrual meu este foarte regulat.	Benim âdet dönemlerim çok düzenlidir.
 ron	tur	Cine este acasă?	Kim evde?
+ron	tur	Cine este cel mai bun judoka din lume?	Dünyanın en iyi judokası kimdir?
 ron	tur	Cine este politicianul tău preferat?	Gözde politikacın kimdir?
 ron	tur	Cine se orientează spre violență, să o facă. Noi vom lua măsuri.	Şiddete kim yönelirse yönelsin tedbiri alırız.
 ron	tur	Cine ţi-a cumpărat această casă?	Bu evi kim sana aldı?
@@ -273,6 +275,7 @@ ron	tur	Datoria națională este în creștere.	Ulusal borç büyüyor.
 ron	tur	Datorită căsătoriei el este înrudit cu ea.	Evlilikten dolayı onunla akrabadır.
 ron	tur	De atunci, el este implicat în activități religioase.	O zamandan beri dini etkinliklerle uğraşıyor.
 ron	tur	De ce a fost publicată această știre?	Bu haber neden yayımlandı?
+ron	tur	De ce arată Tom așa trist?	Neden Tom oldukça üzgün görünüyor?
 ron	tur	De ce maşina lui Tom este parcată pe locul nostru de parcare?	Niçin Tom'un arabası bizim özel araba yolumuza park ediliyor?
 ron	tur	De ce?	Niçin?
 ron	tur	De ce nu l-a oprit cineva pe Tom?	Niçin birisi Tom'u durdurmadı?
@@ -315,6 +318,8 @@ ron	tur	Documentul a fost distribuit tuturor șefilor de departamente.	Belge tü
 ron	tur	Documentul nu este nici autentic, nici falsificat.	Belge ne gerçek ne de sahte.
 ron	tur	Doi dintre ei s-au înecat.	Onlardan ikisi boğuldu.
 ron	tur	Drumul a fost închis din cauza accidentului.	Yol kaza nedeniyle kapandı.
+ron	tur	Dublin este orașul meu favorit.	Dublin benim en sevdiğim şehir.
+ron	tur	Dublin este orașul meu favorit.	Dublin benim favori şehrim.
 ron	tur	După acel incident nefericit, nu am mai fost aici.	Ben o talihsiz olaydan sonra burada tekrar bulunmadım.
 ron	tur	După ploaia puternică râul era plin de noroi.	Şiddetli yağmurdan sonra nehir çamurluydu.
 ron	tur	După toate aparenţele, e un om învăţat.	Görünüşe göre bilgili bir insan.
@@ -439,6 +444,7 @@ ron	tur	Îi admir pe amândoi.	Onların her ikisine de hayranım.
 ron	tur	Îi iubesc pe amândoi.	Ben ikisini de seviyorum.
 ron	tur	Îi iubesc pe ambii mei fii.	Oğullarımın her ikisini de seviyorum.
 ron	tur	Îi pasă cuiva?	Birisinin umurunda mı?
+ron	tur	Îi plac animalele ciudate, cum ar fi șerpii, de exemplu.	Acayip hayvanları sever, mesela yılanlar gibi.
 ron	tur	Îi place să citească articolele științifice.	Bilimsel makaleleri okumaktan zevk alır.
 ron	tur	Îi știu pe ambii tăi frați.	Erkek kardeşlerinin ikisini de tanıyorum.
 ron	tur	Îmi este foame.	Açım!
@@ -448,6 +454,7 @@ ron	tur	Îmi pare rău, dar sunt împotriva acestui proiect.	Üzgünüm, ama bu 
 ron	tur	Îmi pare rău de ceva ce am făcut.	Yapmaktan pişman olduğum bir şey yaptım.
 ron	tur	Îmi pare rău pentru ceea ce am făcut.	Yaptıklarımdan dolayı özür dilerim.
 ron	tur	Îmi plac bomboanele.	Şeker severim.
+ron	tur	Îmi place foarte mult casa această.	Bu evi bayağı beğeniyorum.
 ron	tur	Îmi place să citesc.	Okumaktan zevk alırım.
 ron	tur	Îmi place să fac o plimbare după mese.	Yemeklerden sonra yürüyüş yapmaktan hoşlanırım.
 ron	tur	Îmi place să fac pianul să sune.	Piyano çalmak hoşuma gider.
@@ -579,6 +586,7 @@ ron	tur	Nici măcar nu încerci.	Sen bile denemiyorsun.
 ron	tur	Nici măcar nu ne-am sărutat.	Biz bile öpmedik.
 ron	tur	Nici măcar nu știam că îţi place baschetul.	Basketbolu sevdiğini bilmiyordum bile.
 ron	tur	Nici măcar nu știam că mașina mea a fost furată.	Arabamın çalındığını bile bilmiyordum.
+ron	tur	Nigeria are cea mai mare populație musulmană din Africa sub-sahariană.	Nijerya, Sahra Altı Afrika'daki en büyük Müslüman nüfusa sahiptir.
 ron	tur	Nimeni nu e mulţumit.	Kimse memnuniyet içinde değil.
 ron	tur	Nimeni nu știe motivul.	Kimse sebebini bilmiyor.
 ron	tur	Nimic nu este posibil fără a depune efort.	Çaba sarf etmeden hiçbir şey mümkün değildir.
@@ -654,6 +662,7 @@ ron	tur	Nu-mi pasă ce spun ei.	Ne dedikleri umrumda değil.
 ron	tur	Nu-mi place să amestec afacerile cu plăcerea.	İşi eğlenceyle karıştırmaktan hoşlanmıyorum.
 ron	tur	Nu-mi place să fiu vorbit.	Ben konuşulmaktan hoşlanmam.
 ron	tur	Nu-mi place să mă amestec printre oameni.	İnsanların arasına karışmaktan hoşlanmıyorum.
+ron	tur	Nu-mi place să merg pe motocicletă.	Motosikletle gitmeyi sevmem.
 ron	tur	Nu-mi place să socializez.	İnsanların arasına karışmaktan hoşlanmıyorum.
 ron	tur	Nu muncesc.	Çalışmıyorum.
 ron	tur	Nu ne este frică de nicio dificultate.	Biz herhangi bir zorluktan korkmuyoruz.
@@ -685,6 +694,7 @@ ron	tur	Nu te supăra.	Kızma.
 ron	tur	Nu-ți face griji. Totul este sub control.	Endişelenme. Her şey kontrol altında.
 ron	tur	Nu trebuie să îți fie rușine.	Utanmana gerek yok.
 ron	tur	Nu trebuie să îţi fie teamă să faci greșeli.	Hata yapmaktan korkmana gerek yok.
+ron	tur	Nu trebuie să îți fie teamă să faci greșeli.	Hata yapmaktan korkmana gerek yok.
 ron	tur	Nu trebuie să mănânci.	Yemek zorunda değilsiniz.
 ron	tur	Nu trebuie să ne luptăm unii cu alții.	Birbirimizle dövüşmemeliyiz.
 ron	tur	Nu trebuie să spun nimănui despre ceea ce s-a întâmplat.	Ne olduğu hakkında hiç kimseye anlatmamam lazım.
@@ -783,14 +793,17 @@ ron	tur	Pune-ţi portofelul deoparte.	Cüzdanını ortadan kaldır.
 ron	tur	Războiul a durat doi ani.	Savaş iki sene sürdü.
 ron	tur	Regele nici măcar nu a citit mesajul.	Kral mesajı bile okumadı.
 ron	tur	Regiunea este relativ bogată în resurse minerale.	Bölge maden kaynakları açısından oldukça zengindir.
+ron	tur	Regret că nu am putut merge cu Tom.	Tom'la birlikte gidemediğim için üzgünüm.
 ron	tur	Regret ceea ce am făcut.	Yapmaktan pişman olduğum bir şey yaptım.
 ron	tur	Respectivul grup a fost fondat de către Dick.	O grup Dick tarafından kuruldu.
 ron	tur	Resursele lumii sunt limitate.	Dünyanın kaynakları sınırlıdır.
 ron	tur	Revoluția a dus la o nouă eră.	Devrim yeni bir çağ getirdi.
+ron	tur	Rezultatul a depășit așteptările mele.	Sonuç beklentilerimi aştı.
 ron	tur	Rezultatul a fost dezamăgitor.	Sonuç hayal kırıklığı oldu.
 ron	tur	Robert este mulțumit de funcţia lui curentă.	Robert şimdiki görevinden memnun.
 ron	tur	S-a întâmplat ceva?	Herhangi bir şey yanlış mı?
 ron	tur	S-a înțeles?	O anlaşıldı mı?
+ron	tur	Sami a pus moneda în buzunar.	Sami bozukluğu cebe koydu.
 ron	tur	Să ne gândim la ce poate fi mai rău.	Düşünelim daha kötü ne olabilir.
 ron	tur	Săptămâna asta trebuie să-mi fac bine somnul.	Bu hafta iyice uykumu almalıyım.
 ron	tur	S-a schimbat clima?	Ortam farklılaştı mı?

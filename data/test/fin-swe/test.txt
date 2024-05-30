@@ -27,6 +27,7 @@ fin	swe	Ajatko partasi joka aamu?	Rakar du dig varje morgon?
 fin	swe	Ajattelen sinua jatkuvasti.	Jag tänker på dig hela tiden.
 fin	swe	Ajattelen vain sinua.	Jag tänker bara på dig.
 fin	swe	Ajattele positiivisesti.	Tänk positivt.
+fin	swe	Ajatteletko minua?	Tänker du på mig?
 fin	swe	Ajattelin häntä.	Jag tänkte på honom.
 fin	swe	Ajattelin sinua.	Jag tänkte på dig.
 fin	swe	Ajattelitko sinä tehdä sen huomenna?	Tänker du göra det i morgon?
@@ -79,6 +80,8 @@ fin	swe	Aloitamme kokouksen kun Bob tulee.	Vi börjar mötet när Bob kommer.
 fin	swe	Aluksi en ymmärtänyt miksi.	Till en början förstod jag inte varför.
 fin	swe	Alunperin sana löyly tarkoitti sielua.	Ursprungligen betydde ordet ”löyly” själ.
 fin	swe	Amy, sinun pitäisi mennä naimisiin hänen kanssaan.	Amy, du borde gifta dig med honom.
+fin	swe	Ananas sopii täydellisesti pitsaan, eteenkin sinihomejuuston kera.	Ananas passar perfekt till pizza, särskilt ihop med blåmögelost.
+fin	swe	Ankara on Turkin pääkaupunki.	Ankara är Turkiets huvudstad.
 fin	swe	Annan sinulle sanani.	Jag ger dig mitt ord.
 fin	swe	Annapa kun katson.	Låt mig se.
 fin	swe	Anna vähän vettä ja nopsaan.	Ge mig lite vatten, och det snabbt.
@@ -91,6 +94,7 @@ fin	swe	Anteeksi, mutta kuinka paljon kello on?	Ursäkta, vad är klockan?
 fin	swe	Apina kurotti alas puunoksalta ja nappasi Tomilta jäätelön kädestä.	Apan sträckte sig ner från trädgrenen och knyckte Toms glass ur handen på honom.
 fin	swe	Asentakaa Linux!	Installera Linux!
 fin	swe	Asiakas on aina oikeassa, vaikka olisi väärässä.	Kunden har alltid rätt, även om den skulle ha fel.
+fin	swe	Asiasta puheen ollen, olen syönyt pelkkää pastaa eilisestä lähtien.	På tal om det, så har jag inte ätit något annat än pasta sedan i går.
 fin	swe	Asuin Tokiossa muutama vuosi sitten mutta nyt asun Kiotossa.	Jag bodde i Tokyo för något år sedan, men nu bor jag i Kyoto.
 fin	swe	Asuin Tokiossa muutama vuosi sitten, mutta nyt minä asun Kiotossa.	Jag bodde i Tokyo för något år sedan, men nu bor jag i Kyoto.
 fin	swe	Asumme Puistokadulla.	Vi bor på Parkgatan.
@@ -102,6 +106,7 @@ fin	swe	Auta häntä ranskassa.	Hjälp honom med franska.
 fin	swe	Auta!	Hjälp!
 fin	swe	Automme on kolme vuotta vanhempi kuin teidän.	Vår bil är tre år äldre än er.
 fin	swe	Autoni on saksalainen.	Min bil är tysk.
+fin	swe	Autotallissa on omenoita.	Det finns äpplen i garaget.
 fin	swe	Auttaisitteko te lapset minua pöydän kattamisessa?	Skulle ni barn kunna hjälpa mig att duka av bordet?
 fin	swe	Avaan laatikon.	Jag öppnar en låda.
 fin	swe	Avaa pullo.	Öppna flaskan.
@@ -115,6 +120,8 @@ fin	swe	Bill puhuu hieman japania.	Bill talar lite japanska.
 fin	swe	Bob myöhästynee.	Tom torde bli försenad.
 fin	swe	Bratislava on Slovakian pääkaupunki.	Bratislava är Slovakiens huvudstad.
 fin	swe	Dan oli vielä elossa.	Dan levde fortfarande.
+fin	swe	Diktaattori sorti kansaa.	Diktatorn förtryckte folket.
+fin	swe	Diktaattori sorti kansaa.	Diktatorn undertryckte folket.
 fin	swe	Edellinen vuokralainen hoiti huoneistoa erinomaisesti.	Den förra hyresgästen skötte lägenheten utmärkt.
 fin	swe	Ehdotin hänelle, että hänet olisi kutsuttava juhliin.	Jag föreslog honom att hon skulle bli inbjuden till festen.
 fin	swe	Ehkäpä sinä eräänä päivä huomaat, että kaipaat minua.	Kanske märker du en dag att du saknar mig.
@@ -157,6 +164,7 @@ fin	swe	Emme saaneet koskaan mitään selvää selitystä mysteeriin.	Vi fick al
 fin	swe	Emme tule toimeen keskenämme.	Vi kommer aldrig överens.
 fin	swe	Emme tykkää sateesta.	Vi tycker inte om regn.
 fin	swe	Emme tykkää siitä sateesta.	Vi tycker inte om regnet.
+fin	swe	Emme voineet saada lapsia.	Vi kunde inte få barn.
 fin	swe	Emme voineet seurata hänen järjenjuoksuaan.	Vi kunde inte följa hans logik.
 fin	swe	En aio maksaa niin paljoa.	Jag tänker inte betala så mycket.
 fin	swe	En aivan ymmärrä, mitä tarkoitat.	Jag förstår inte riktigt vad du menar.
@@ -188,6 +196,9 @@ fin	swe	En muista sanoja.	Jag kommer inte ihåg texten.
 fin	swe	En nähnyt hymynhäivääkään.	Jag såg inte en tillstymmelse till ett leende.
 fin	swe	Ennen uskottiin, että vain ihmiset pystyvät käyttämään kieltä.	Förr trodde man att bara människor kunde använda språk.
 fin	swe	En nyt ihan tajunnut asiaasi.	Jag uppfattade inte riktigt ditt ärende.
+fin	swe	En odota mitään.	Jag förväntar mig ingenting.
+fin	swe	En odota mitään.	Jag väntar inte på någonting.
+fin	swe	En odota mitään.	Jag väntar mig ingenting.
 fin	swe	En ole hiukkaakaan väsynyt.	Jag är inte ett dugg trött.
 fin	swe	En ole koskaan kuullut että hän sanoisi ei.	Jag har aldrig hört henne säga nej.
 fin	swe	En ole koskaan nähnyt niitä missään.	Jag har inte sett de någonstans.
@@ -207,6 +218,7 @@ fin	swe	En pidä ihmisten edessä puhumisesta.	Jag tycker inte om att tala infö
 fin	swe	En pidä kahvista.	Jag tycker inte om kaffe.
 fin	swe	En pidä yksin olemisesta.	Jag ogillar att vara ensam.
 fin	swe	En puhu saksaa.	Jag talar inte tyska.
+fin	swe	En puhu ukrainaa.	Jag talar inte ukrainska.
 fin	swe	En saanut koskaan tietää miksi.	Jag fick aldrig veta varför.
 fin	swe	En saa Tomiin yhteyttä.	Jag får inte kontakt med Tom.
 fin	swe	En sanonut, että syöminen ei ole ok.	Jag sa inte att det inte var okej att äta.
@@ -221,6 +233,7 @@ fin	swe	En tiedä mitä hänelle on sattunut.	Jag vet inte vad han har råkat ut
 fin	swe	En tiedä mitä kello on.	Jag vet inte vad klockan är.
 fin	swe	En tiedä mitä muuta voisin tehdä auttaakseni.	Jag vet inte vad mer jag kan göra för att hjälpa till.
 fin	swe	En tiedä, mitä muuta voisin tehdä auttaakseni.	Jag vet inte vad mer jag kan göra för att hjälpa till.
+fin	swe	En tiedä onko hän mies vai nainen.	Jag vet inte om det är en man eller en kvinna.
 fin	swe	En tiedä onko hän tohtori.	Jag vet inte om han är en doktor.
 fin	swe	En tilannut riisiä.	Jag beställde inte ris.
 fin	swe	En tule häviämään.	Jag kommer inte att förlora.
@@ -369,6 +382,9 @@ fin	swe	Hänellä ei ole hattua päässään.	Han har inte en hatt på sig.
 fin	swe	Hänellä oli kolme poikaa joista tuli asianajajia.	Han hade tre söner som blev advokater.
 fin	swe	Hänellä oli päässään hattu.	Hon hade hatt på sig.
 fin	swe	Hänellä oli paha tapa juoda liikaa viiniä.	Han har en dålig vana att dricka för mycket vin.
+fin	swe	Hänellä oli pitkät päällä.	Han hade helljusen tända.
+fin	swe	Hänellä oli pitkät päällä.	Hon gick utan behå.
+fin	swe	Hänellä oli pitkät päällä.	Hon körde med helljuset på.
 fin	swe	Hänellä on aatelisarvo.	Han är adlad.
 fin	swe	Hänellä on hengitysvaikeuksia.	Han har andningsbesvär.
 fin	swe	Hänellä on huono maine oppilaidensa parissa.	Han har ett dåligt rykte bland sina studenter.
@@ -464,6 +480,9 @@ fin	swe	Hän jos joku on poliitikko.	Om någon är politiker är det han.
 fin	swe	Hän joutui maksamaan 1000 kruunun sakot.	Han fick betala 1000 kronor i böter.
 fin	swe	Hän joutui nurkkaan häpeämään.	Han fick stå i skamvrån.
 fin	swe	Hän juhlii liikaa.	Han festar för mycket.
+fin	swe	Hän juo.	Han dricker.
+fin	swe	Hän juo.	Hen dricker.
+fin	swe	Hän juo.	Hon dricker.
 fin	swe	Hän juoksi niin lujaa kuin pystyi.	Han sprang så fort som han förmådde.
 fin	swe	Hän juoksi niin lujaa kuin pystyi.	Hon sprang så fort som hon förmådde.
 fin	swe	Hän juoksi niin nopeasti kuin pystyi.	Han sprang så fort han kunde.
@@ -498,6 +517,8 @@ fin	swe	Hän lahjoitti anonyymisti suuren summan rahaa Punaiselle Ristille.	Hon 
 fin	swe	Hän lähti yhtäkkiä huoneesta.	Han lämnade plötsligt rummet.
 fin	swe	Hän lähti yhtäkkiä huoneesta.	Hon lämnade plötsligt rummet.
 fin	swe	Hän levittää perättömiä huhuja.	Hon sprider osanna rykten.
+fin	swe	Hän lienee sairas. Hänellä on kuumetta.	Han torde vara sjuk. Han har feber.
+fin	swe	Hän lienee sairas. Hänellä on kuumetta.	Hon är troligen sjuk. Hon har feber.
 fin	swe	Hän lukee kaiken.	Han läser allt.
 fin	swe	Hän luki hänen kirjettään yhä uudestaan.	Hon läste hans brev om och om igen.
 fin	swe	Hän makasi silmät kiinni sohvalla.	Han låg med slutna ögon på soffan.
@@ -551,6 +572,8 @@ fin	swe	Hän on britti.	Han är britt.
 fin	swe	Hän on britti.	Hon är britt.
 fin	swe	Hän on Englannista, mutta on valtavan huono englannissa.	Han är från England, men är väldigt dålig på engelska.
 fin	swe	Hän on epäiltynä varkaudesta.	Han är misstänkt för stöld.
+fin	swe	Hän on hai.	Han är en haj.
+fin	swe	Hän on hai.	Hon är en haj.
 fin	swe	Hän on hänen ystävänsä.	Han är hennes vän.
 fin	swe	Hän on hiljainen.	Hon är tyst.
 fin	swe	Hän on hyvä mies.	Han är en bra man.
@@ -589,6 +612,8 @@ fin	swe	Hän on sveitsiläinen.	Han är schweizisk.
 fin	swe	Hän on syöppö.	Han är en storätare.
 fin	swe	Hän on syöppö.	Hon är en storätare.
 fin	swe	Hän on tietoinen vaarasta.	Han är medveten om faran.
+fin	swe	Hän on todella viisas äiti.	Hon är en mycket klok mamma.
+fin	swe	Hän on todella viisas äiti.	Hon är en mycket klok mor.
 fin	swe	Hän on toimistossa.	Hon är på kontoret.
 fin	swe	Hän on turvassa täällä.	Han är säker här.
 fin	swe	Hän on turvassa täällä.	Hon är säker här.
@@ -691,9 +716,13 @@ fin	swe	Hän vaati palkankorotusta.	Han krävde en lönehöjning.
 fin	swe	Hän välttelee minua.	Hon undviker mig.
 fin	swe	Hän varasti rahat kassakaapistani.	Han stal pengarna i mitt kassaskåp.
 fin	swe	Hän varoi rikkomasta laseja.	Hon var försiktig med att inte slå sönder glasen.
+fin	swe	Hän vastasi.	Han svarade.
+fin	swe	Hän vastasi.	Hen svarade.
+fin	swe	Hän vastasi.	Hon svarade.
 fin	swe	Hän vihaa hämähäkkejä.	Han hatar spindlar.
 fin	swe	Hän voi pahoin.	Han mår dåligt.
 fin	swe	Harjaa hampaasi.	Borsta tänderna.
+fin	swe	Harjoitelkaa auton talliin peruuttamista.	Öva på att backa in bilen i garaget.
 fin	swe	Hassan meni kouluun.	Hassan gick till skolan.
 fin	swe	Hattuni putosi.	Min hatt trillade av.
 fin	swe	Havaan on muodostunut märkää.	Var har bildats i såret.
@@ -709,6 +738,7 @@ fin	swe	Hei, hyvää iltaa. Kuinka voin olla avuksi?	Hej, god kväll. Hur kan ja
 fin	swe	Hei, hyvää iltaa. Miten voin auttaa teitä?	Hej, god kväll. Hur kan jag hjälpa er?
 fin	swe	Hei, hyvää iltaa. Miten voin olla avuksi?	Hej, god kväll. Hur kan jag hjälpa er?
 fin	swe	Heillä ei ole vaihtoehtoja.	De har inget val.
+fin	swe	Heillä on leipää.	De har bröd.
 fin	swe	Heillä tulee olemaan oikein kivaa.	De kommer att ha jättekul.
 fin	swe	He ilmoittivat olevansa syyttömiä.	De förklarade sig oskyldiga.
 fin	swe	Hei Mimi! Mitä kuuluu?	Hej Mimi! Hur mår du?
@@ -734,6 +764,7 @@ fin	swe	Henkilö ei yleensä itsekään tiedä millaista hiljaista tietoa hänel
 fin	swe	He nousivat lentokoneeseen.	De steg ombord på flygplanet.
 fin	swe	He nukahtivat elokuvan jälkeen.	Efter filmen somnade de.
 fin	swe	He ovat hyvissä väleissä naapuriensa kanssa.	De är på god fot med sina grannar.
+fin	swe	He ovat pilotteja.	De är piloter.
 fin	swe	He ovat poliiseja.	De är poliser.
 fin	swe	He ovat yläkerrassa työskentelemässä.	De är på övre våningen och jobbar.
 fin	swe	He pelaavat tikkupeliä.	De spelar plockepinn.
@@ -782,6 +813,7 @@ fin	swe	Hyökkää!	Attackera!
 fin	swe	Hyvää huomenta, Tomi.	God morgon, Tom.
 fin	swe	Hyvää joulua Tatoeba!	God jul, Tatoeba!
 fin	swe	Hyvää kansainvälistä naistenpäivää!	Glad internationell kvinnodag.
+fin	swe	Hyvää Lucian päivää! Lucian päivä ei ole virallinen juhlapäivä Suomessa, mutta monet juhlivat sitä silti.	Glad lucia! Luciadagen är ingen officiell helgdag i Finland, men många firar den ändå.
 fin	swe	Hyvää päivää!	God dag!
 fin	swe	Hyvää päivää ja tervetuloa Tatoeba Airlinesin lennolle Ouluun lähtöportilta 26. Pyydämme ensin Priority-matkustajia siirtymään lähtöportille.	God dag och välkomna till Tatoeba Airlines flyg till Uleåborg från gate 26. Vi ber först Priority-resenärerna att gå till gaten.
 fin	swe	Hyvää vappua!	Trevlig valborgsmässoafton!
@@ -806,7 +838,9 @@ fin	swe	Ira soitti vaimollensa.	Ira ringde till sin fru.
 fin	swe	Irrota hänestä.	Släpp henne.
 fin	swe	Irrota hänestä!	Släpp honom!
 fin	swe	Irrottakaa hänestä.	Släpp henne.
+fin	swe	Isäni ei vihaa sinua.	Min pappa hatar dig inte.
 fin	swe	Isäni käy kävelyllä päivittäin.	Min pappa promenerar varje dag.
+fin	swe	Isäni kuoli Vietnamissa.	Min far dog i Vietnam.
 fin	swe	Isäni kuuntelee klassista musiikkia.	Min far lyssnar på klassisk musik.
 fin	swe	Isäni nimittää sadevesiränniä joskus "taivaanvedenpoistoputkeksi".	Min pappa kallar ibland stuprännor för ”himlavattenavlägsningsrör”.
 fin	swe	Isäni on työnarkomaani joka ajattelee vain työtään kellon ympäri.	Min far är en arbetsnarkoman som inte tänker på något annat än sitt arbete dygnet runt.
@@ -868,7 +902,10 @@ fin	swe	Jos tuut Rioon, nii älä unohda soittaa nii voin tulla sun oppaaks!	Om 
 fin	swe	Jos veljeni olisi täällä, hän tietäisi mitä tehdä.	Om min bror vore här, skulle han veta hur man gör.
 fin	swe	Jumalan tähden.	För Guds skull.
 fin	swe	Juodaanko kuppi teetä?	Vad sägs om en kopp te?
+fin	swe	Juo enemmän maitoa.	Drick mer mjölk.
+fin	swe	Juokaa enemmän maitoa.	Drick mer mjölk.
 fin	swe	Juo lääkkeesi.	Drick din medicin.
+fin	swe	Juon.	Jag dricker.
 fin	swe	Juon kahvini yönmustana.	Jag dricker mitt kaffe svart som natten.
 fin	swe	Juotko kahvia?	Dricker du kaffe?
 fin	swe	Käännyimme väärään suuntaan.	Vi svängde av åt fel håll.
@@ -894,6 +931,7 @@ fin	swe	Kaksi ynnä kaksi on neljä.	Två plus två är fyra.
 fin	swe	Kalaa, kiitos.	Fisk, tack.
 fin	swe	Kala oli ainakin näin iso.	Fisken var i alla fall så här stor.
 fin	swe	Kallimpaa ravintolaa saa hakea.	En dyrare restaurang får man söka efter.
+fin	swe	Kampasi on kaunis.	Din kam är vacker.
 fin	swe	Kansainvälinen sopimus ei kieltänyt maanalaisia ydinkokeita.	Det internationella fördraget förbjöd inte underjordiska kärnvapenprov.
 fin	swe	Kansalaisilla on hyvinvointiyhteiskunnassa sekä positiivisia että negatiivisia oikeuksia.	Medborgarna i ett välfärdssamhälle har både positiva och negativa rättigheter.
 fin	swe	Kantoivatko molemmat kypärää?	Bar båda hjälmar?
@@ -915,6 +953,7 @@ fin	swe	Katso punakattoista taloa.	Se på huset med det röda taket.
 fin	swe	Katso.	Se.
 fin	swe	Katso tätä.	Titta på det här.
 fin	swe	Kauan aikaa sitten tässä oli silta.	För en lång tid sedan fanns här en bro.
+fin	swe	Kauan eläköön Ukraina!	Länge leve Ukraina!
 fin	swe	Kauan kauan sitten eli pienellä saarella vanha kuningas.	För länge, länge sedan levde det på en liten ö en gammal kung.
 fin	swe	Kävelen työhön joka päivä.	Jag går till arbetet varje dag.
 fin	swe	Kävelkää hitaammin.	Gå långsammare.
@@ -942,7 +981,9 @@ fin	swe	Kenen kanssa menit?	Vem gick du med?
 fin	swe	Kenen kanssa minä puhun?	Vem pratar jag med?
 fin	swe	Kenen kanssa puhun?	Vem pratar jag med?
 fin	swe	Kenen kirjoja nämä ovat?	Vems böcker är de här?
+fin	swe	Kenen lapsi?	Vems barn?
 fin	swe	Kenen pyörä tuo on?	Vems cykel är det där?
+fin	swe	Kenen tämä lapsi on?	Vems barn är det här?
 fin	swe	Kenestä hän puhuu?	Vem pratar hon om?
 fin	swe	Kenia oli aikoinaan Britannian siirtokunta.	Kenya var en gång en brittisk koloni.
 fin	swe	Ken löi minut shakissa.	Ken slog mig på schack.
@@ -966,6 +1007,8 @@ fin	swe	Keskity.	Fokusera.
 fin	swe	Keskustellaan siitä ongelmasta heidän kanssaan.	Låt oss diskutera problemet med dem.
 fin	swe	Ketkä lopettivat?	Vem slutade?
 fin	swe	Ketkä lukevat?	Vem läser?
+fin	swe	Kettu piiloutui onttoon puuhun.	Räven gömde sig i det ihåliga trädet.
+fin	swe	Kettu piiloutui onttoon puuhun.	Räven gömde sig i ett ihåligt träd.
 fin	swe	Kevätaurinko heijastui jääkiteistä.	Vårsolen spelade i iskristallerna.
 fin	swe	Kevät on tullut.	Våren är kommen.
 fin	swe	Kiirunassa lumi sataa aiemmin kuin Tukholmassa.	I Kiruna kommer snön tidigare än i Stockholm.
@@ -1003,6 +1046,7 @@ fin	swe	Koira seurasi minua.	Hunden följde mig.
 fin	swe	Koira vuotaa verta.	Hunden blöder.
 fin	swe	Kokeilu onnistui.	Experimentet var lyckat.
 fin	swe	Koko päivän isäni oli huonolla tuulella kadotettuaan lompakkonsa.	Hela dagen var min pappa på dåligt humör för att han tappat bort sin plånbok.
+fin	swe	Koko pöytä hiljeni, kun Tomi päästi sammakon suustaan.	Hela bordet tystnade när det hoppade en groda ur munnen på Tom.
 fin	swe	Kolme opiskelijaa. Tässä opiskelijakorttini.	Tre studenter. Här är min studentlegitimation.
 fin	swe	Kolmesta koirasta yksi on uros ja kaksi muuta narttuja.	Av tre hundar är en en hane och två honor.
 fin	swe	Korona saa monet eurooppalaiset maat sulkeutumaan osittain.	Corona får flera europeiska länder att delvis stänga ner.
@@ -1039,6 +1083,8 @@ fin	swe	Kukaan ei tiennyt sitä.	Ingen visste det.
 fin	swe	Kukaan ei usko siihen, mitä minä sanoin.	Ingen tror på vad jag sa.
 fin	swe	Kukaan ei usko siihen mitä minä sanon.	Ingen tror på vad jag säger.
 fin	swe	Kukaan ei ymmärrä minua.	Ingen förstår mig.
+fin	swe	Kuka heistä on sulhanen?	Vem av dem är brudgummen?
+fin	swe	Kuka heistä on sulhanen?	Vem av dem är fästmannen?
 fin	swe	Kuka kirjoitti tämän runon?	Vem skrev den här dikten?
 fin	swe	Kuka lukee?	Vem läser?
 fin	swe	Kuka maksaa vuokran?	Vem betalar hyran?
@@ -1087,6 +1133,8 @@ fin	swe	Kysyitkö Tomilta?	Frågade du Tom?
 fin	swe	Kysymyksesi ei kuulu asiaan.	Din fråga hör inte till ämnet.
 fin	swe	Kysyt väärältä henkilöltä.	Du frågar fel person.
 fin	swe	Lääke oli hänen viimeinen mahdollisuutensa.	Medicinen var hennes sista utväg.
+fin	swe	Laatikossa on appelsiineja.	Det finns apelsiner i lådan.
+fin	swe	Laatikossa on appelsiineja.	I lådan finns det apelsiner.
 fin	swe	Laatikossa on kissa.	Det är en katt i lådan.
 fin	swe	Lähden kauppaan.	Jag åker till butiken.
 fin	swe	Lähden kauppaan.	Jag går till affären.
@@ -1101,6 +1149,9 @@ fin	swe	Laita ovi kiinni.	Stäng dörren.
 fin	swe	Laiva on vielä näkyvissä.	Skeppet syns fortfarande.
 fin	swe	Laivassa on 48 merimiestä.	Det är fyrtioåtta sjömän på skeppet.
 fin	swe	Laiva uppoaa.	Skeppet sjunker.
+fin	swe	Lammen poikki ui kyy.	Det sam en huggorm över dammen.
+fin	swe	Lammen poikki ui kyy.	Det simmade en huggorm över dammen.
+fin	swe	Lammen poikki ui kyy.	Det simmar en huggorm över dammen.
 fin	swe	Lammessa on tänään paljon vettä.	Det är mycket vatten i dammen i dag.
 fin	swe	Lämpömittari näyttää 10 astetta.	Termometern visar 10 grader.
 fin	swe	Langat ovat hyvin hauraita.	Tråden är mycket skör.
@@ -1192,6 +1243,7 @@ fin	swe	Me elonjääneet saimme olla onnellisia.	Vi skattade oss lyckliga som ö
 fin	swe	Me emme oli kyttiä.	Vi är inte snutar.
 fin	swe	Me emme pidä sateesta.	Vi tycker inte om regn.
 fin	swe	Me emme tykkää siitä sateesta.	Vi tycker inte om regnet.
+fin	swe	Me emme voineet saada lapsia.	Vi kunde inte få barn.
 fin	swe	Me emme voi olettaa, että nämä rahat ovat Tomin.	Vi kan inte anta att dessa pengar är Toms.
 fin	swe	Me emme voi sivuuttaa tätä ongelmaa.	Vi kan inte lämna det här problemet därhän.
 fin	swe	Me emme voi sivuuttaa tätä ongelmaa.	Vi kan inte negligera det här problemet.
@@ -1201,6 +1253,7 @@ fin	swe	Meidän on löydettävä hänet.	Vi måste hitta henne.
 fin	swe	Meidän pikkutyttö osaa jo kävellä!	Vår lilla flicka kan redan gå!
 fin	swe	Meidän pitää löytää se.	Vi måste hitta den.
 fin	swe	Meidän pitää löytää se.	Vi måste hitta det.
+fin	swe	Meidän pitäisi olla hänen kanssaan.	Vi borde vara med henne.
 fin	swe	Meidän pitäsi syödä.	Vi borde äta.
 fin	swe	Meidän suunnitelmassamme on paljon hyviä puolia.	Vår plan har många fördelar.
 fin	swe	Meidän täytyy käydä käsiksi tähän ongelmaan.	Vi måste ta itu med det här problemet.
@@ -1212,6 +1265,9 @@ fin	swe	Meidän täytyy tutkia asiaa ennakolta.	Vi måste undersöka denna fråg
 fin	swe	Meillä oli pitkään hyvät säät.	Vi hade en lång period av fint väder.
 fin	swe	Meillä oli valtavan hauskaa.	Vi hade väldigt kul.
 fin	swe	Meillä on leuto talvi viime vuonna.	Vi hade en mild vinter i fjol.
+fin	swe	Meillä on munat.	Vi har äggen.
+fin	swe	Meillä on munat.	Vi har ballar.
+fin	swe	Meillä on munat.	Vi har stake.
 fin	swe	Meillä on toimittaja paikan päällä Gazassa.	Vi har en reporter på plats i Gaza.
 fin	swe	Meillä on vieraita.	Vi har främmande.
 fin	swe	Meinaatko sinä tehdä sen huomenna?	Tänker du göra det i morgon?
@@ -1226,11 +1282,13 @@ fin	swe	Menet kouluun huomenna.	Du går till skolan i morgon.
 fin	swe	Menin asemalle.	Jag gick till stationen.
 fin	swe	Menin Ruotsiin.	Jag for till Sverige.
 fin	swe	Menin sairaalaan.	Jag åkte till sjukhuset.
+fin	swe	Menin tien ylitse.	Jag korsade vägen.
 fin	swe	Menin usein isän kanssa elokuviin.	Jag gick ofta på bio med pappa.
 fin	swe	Mennäänkö elokuviin?	Ska vi på bio?
 fin	swe	Mennäänkö leffaan?	Ska vi på bio?
 fin	swe	Mennäänpä vähän kävelemään merenrantaan.	Låt oss spatsera litet på stranden.
 fin	swe	Mentäisiinkö elokuviin?	Ska vi på bio?
+fin	swe	Me odotimme Tomia pitkän aikaa.	Vi väntade länge på Tom.
 fin	swe	Me olemme jo kiinni.	Vi har redan stängt.
 fin	swe	Me olemme jo sulkeneet tältä päivältä.	Vi har redan stängt för i dag.
 fin	swe	Me puhuimme hiljaa, ettemme herättäisi vauvaa.	Vi pratade tyst, för att inte väcka babyn.
@@ -1297,6 +1355,7 @@ fin	swe	Miksi haluat myydä sen?	Varför vill du sälja det?
 fin	swe	Miksi hän on niin onneton?	Varför är hon så olycklig?
 fin	swe	Miksi hän teki niin?	Varför gjorde han så?
 fin	swe	Miksi kissojen silmät kiiluvat pimeässä?	Varför lyser kattögon i mörker?
+fin	swe	Miksi meemit ovat niin suosittuja?	Varför är memes så populära?
 fin	swe	Miksi olet niin arrogantti?	Varför är du så arrogant?
 fin	swe	Miksi sinä lopetit?	Varför slutade du?
 fin	swe	Miksi sinä niin sanot?	Vad sa du så för?
@@ -1346,6 +1405,7 @@ fin	swe	Minä haluan opiskella ulkomailla.	Jag vill plugga utomlands.
 fin	swe	Minä haluan tanssia.	Jag vill dansa.
 fin	swe	Minä haluan tehdä sen itse.	Jag vill göra det själv.
 fin	swe	Minähän sanoin!	Jag sa ju det!
+fin	swe	Minä juon.	Jag dricker.
 fin	swe	Minä kävelen töihin joka päivä.	Jag promenerar till jobbet varje dag.
 fin	swe	Minä kerron Tomille kaiken.	Jag berättar allt för Tom.
 fin	swe	Minäkin puhun ranskaa.	Jag pratar också franska.
@@ -1365,6 +1425,7 @@ fin	swe	Minä olen Kuolema.	Jag är Döden.
 fin	swe	Minä olen nyt pomosi.	Jag är din chef nu.
 fin	swe	Minä olen paras.	Jag är bäst.
 fin	swe	Minä olen pitkänäköinen.	Jag är långsynt.
+fin	swe	Minä olen rehellinen ihminen.	Jag är en ärlig person.
 fin	swe	Minä olen Tom.	Jag heter Tom.
 fin	swe	Minä olen työtön.	Jag är arbetslös.
 fin	swe	Minä opetan.	Jag undervisar.
@@ -1396,6 +1457,9 @@ fin	swe	Minä tiedän Tuomon syntyneen Australiassa.	Jag vet att Tom föddes i A
 fin	swe	Minä tiskaan.	Jag diskar.
 fin	swe	Minä tykkään auringosta.	Jag gillar solen.
 fin	swe	Minä tykkään auringosta.	Jag tycker om solen.
+fin	swe	Minä uskon, että hän on sairas. Hänellä on kuumetta.	Jag tror hon är sjuk. Hon har feber.
+fin	swe	Minä uskon hänen olevan sairas. Hänellä on kuumetta.	Jag tror hon är sjuk. Hon har feber.
+fin	swe	Minä valitsen sinut.	Jag väljer dig.
 fin	swe	Minä voin ajaa.	Jag kan köra.
 fin	swe	Minä ymmärrän.	Jag förstår.
 fin	swe	Minihameista on tullut epämuodikkaita.	Kortkorta kjolar har blivit omoderna.
@@ -1424,6 +1488,9 @@ fin	swe	Minulla oli hänen nimensä kieleni päällä, mutta en saanut sitä mie
 fin	swe	Minulla on aina mukanani pullo mineraalivettä.	Jag har alltid en flaska mineralvatten med mig.
 fin	swe	Minulla on erittäin kiire.	Jag är fruktansvärt upptagen.
 fin	swe	Minulla on hirvittävä hammassärky.	Jag har en fruktansvärd tandvärk.
+fin	swe	Minulla on kaksi käsivartta.	Jag har två armar.
+fin	swe	Minulla on kaksi kättä.	Jag har två armar.
+fin	swe	Minulla on kaksi kättä.	Jag har två händer.
 fin	swe	Minulla on kaksi veljeä ja yksi sisko.	Jag har två bröder och en syster.
 fin	swe	Minulla on kaksosveli.	Jag har en tvillingbror.
 fin	swe	Minulla on kauhea päänsärky!	Jag har en hemsk huvudvärk.
@@ -1435,6 +1502,7 @@ fin	swe	Minulla on kissa ja koira. Kissa on musta ja koira valkoinen.	Jag har en
 fin	swe	Minulla on kolme koiraa, joista yksi on uros ja kaksi muuta narttuja.	Jag har tre hundar, varav den ena är hane och och de två andra tikar.
 fin	swe	Minulla on kolme kysymystä sinulle.	Jag har tre frågor till dig.
 fin	swe	Minulla on mustat silmät.	Jag har svarta ögon.
+fin	swe	Minulla on neljä kissaa.	Jag har fyra katter.
 fin	swe	Minulla on paljon kameroita.	Jag har massor av kameror.
 fin	swe	Minulla on paljon tekemistä tänään.	Jag har mycket att göra i dag.
 fin	swe	Minulla on paskahätä.	Jag måste skita.
@@ -1678,8 +1746,10 @@ fin	swe	Nyt se on virallinen.	Nu är det officiellt.
 fin	swe	Odotan sinua. Koska olet valmis?	Jag väntar på dig. När är du klar?
 fin	swe	Odotapa hetki.	Vänta en stund.
 fin	swe	Odotapa nyt, pilailetko? Miksi minä haluaisin mennä sellaiseen tylsään paikkaan?	Vänta, skojar du? Varför skulle vi vilja åka till en sådan avlägsen plats?
+fin	swe	Odota siinä.	Vänta där.
 fin	swe	Odotat häneltä liian paljon.	Du förväntar dig för mycket av henne.
 fin	swe	Odota!	Vänta!
+fin	swe	Odotimme Tomia kauan.	Vi väntade länge på Tom.
 fin	swe	Odotin kymmenen minuuttia.	Jag väntade i tio minuter.
 fin	swe	Oikeastaan ei.	Egentligen inte.
 fin	swe	Oikeesti?	Seriöst?
@@ -1708,12 +1778,15 @@ fin	swe	Olen britti.	Jag är britt.
 fin	swe	Olen egyptiläinen.	Jag är egyptier.
 fin	swe	Olen eri mieltä.	Jag håller inte med.
 fin	swe	Olen erittäin iloinen, että saan tutustua teihin.	Jag är mycket glad att lära känna er.
+fin	swe	Olen espanjalainen.	Jag är spanjor.
 fin	swe	Olen hirveän lihava.	Jag är jättetjock.
 fin	swe	Olen homoseksuaali, onko se syntiä?	Om jag är homosexuell, är det en synd?
 fin	swe	Olen huolissani hänestä.	Jag är orolig för honom.
 fin	swe	Olen hyvin herkkä kylmälle. Saisinko vielä yhden peiton?	Jag är väldigt känslig emot kyla. Skulle jag kunna få ett till täcke?
 fin	swe	Olen hyvin huolestunut tulevaisuudestasi.	Jag är riktigt oroad över din framtid.
 fin	swe	Olen hyvin iloinen, kun saan oppia tuntemaan teidät.	Jag är mycket glad att lära känna er.
+fin	swe	Olen hyvin pahoillani.	Jag är mycket ledsen.
+fin	swe	Olen hyvin pahoillani.	Jag är väldigt ledsen.
 fin	swe	Olen iloinen siitä, että löysimme teidät.	Jag är glad att vi hittade er.
 fin	swe	Olen.	Jag är.
 fin	swe	Olen jo sanonut sen sinulle.	Jag har redan sagt det till dig.
@@ -1723,6 +1796,7 @@ fin	swe	Olenko minä älykäs sinun mielestäsi?	Tycker du att jag är smart?
 fin	swe	Olenko minä oikeassa?	Har jag rätt?
 fin	swe	Olen liikuttunut.	Jag är rörd.
 fin	swe	Olen Lontoossa.	Jag är i London.
+fin	swe	Olen lukenut tämän kirjan: Se on mielenkiintoinen.	Jag har läst den här boken: Den är intressant.
 fin	swe	Olen ollut kiireinen koko päivän.	Jag har varit upptagen hela dagen.
 fin	swe	Olen ollut täällä kello viidestä lähtien.	Jag har varit här sedan klockan fem.
 fin	swe	Olen onnellinen.	Jag är glad.
@@ -1735,6 +1809,7 @@ fin	swe	Olen peeaa.	Ja ä pank.
 fin	swe	Olen pettynyt sinuun.	Du gör mig besviken.
 fin	swe	Olen raivoissani.	Jag är ursinnig.
 fin	swe	Olen realistinen ihminen.	Jag är en realistisk person.
+fin	swe	Olen rehellinen ihminen.	Jag är en ärlig person.
 fin	swe	Olen Ricardo.	Jag är Ricardo.
 fin	swe	Olen riippuvainen teestä.	Jag är beroende av te.
 fin	swe	Olen saanut kirjeesi.	Jag har fått ditt brev.
@@ -1767,6 +1842,7 @@ fin	swe	Olet juonut kolme kuppia kahvia.	Du har druckit tre koppar kaffe.
 fin	swe	Olet kaikki mitä heillä on.	Du är allt de har.
 fin	swe	Olet kaikki mitä heillä on.	Du är allt som de har.
 fin	swe	Olet kirjoittanut minun nimeni väärin.	Du har stavat mitt namn fel.
+fin	swe	Olet kiusanhenki.	Du är en plågoande.
 fin	swe	Oletko buddhalainen?	Är du buddhist?
 fin	swe	Oletko ihan tosissasi?	Är du allvarlig?
 fin	swe	Oletko Japanin kansalainen?	Är du japansk medborgare?
@@ -1776,6 +1852,7 @@ fin	swe	Oletko kirjastossa?	Är du på biblioteket?
 fin	swe	Oletko koskaan kuorsannut?	Har du någonsin snarkat?
 fin	swe	Oletko koskaan ollut TV:ssä?	Har du någonsin varit på TV?
 fin	swe	Oletko koskaan syönyt hyönteisiä?	Har du någonsin ätit insekter?
+fin	swe	Oletko koskaan tehnyt ÄO-testiä?	Har du någonsin gjort ett IQ-test?
 fin	swe	Oletko kunnossa?	Är allt okej?
 fin	swe	Oletko nälkäinen ylipäätänsä?	Är du hungrig över huvud taget?
 fin	swe	Oletko olemassa?	Finns du?
@@ -1875,6 +1952,7 @@ fin	swe	Onpa se hieno! Ihan itsekö teit?	Vad fin det är! Gjorde du den helt sj
 fin	swe	On pilvistä.	Det är molnigt.
 fin	swe	On satanut lunta.	Det har snöat.
 fin	swe	On sinun vuorosi tiskata, minä tein sen eilen.	Det är din tur att diska. Jag gjorde det i går.
+fin	swe	On syksy.	Det är höst.
 fin	swe	On täysi syy epäillä, että se pitää paikkansa.	Det finns all anledning att betvivla att det är sant.
 fin	swe	On teloituksesi aika. Onko sinulla viimeisiä sanoja?	Då är det dags för din halshuggning. Har du inga sista ord?
 fin	swe	On tiettyjä haittapuolia.	Det finns vissa nackdelar.
@@ -1901,6 +1979,8 @@ fin	swe	Osaatko laskea ranskaksi?	Kan du räkna på franska?
 fin	swe	Osaatko puhua kiinaa?	Kan du prata kinesiska?
 fin	swe	Osallistuin seminaariin.	Jag deltog i seminariet.
 fin	swe	Osallistutko juhlaan?	Kommer du att delta i festen?
+fin	swe	Osta minulle kissa.	Köp en katt åt mig.
+fin	swe	Osta minulle kissa.	Köp en katt till mig.
 fin	swe	Ostan sinulle jotain.	Jag köper något till dig.
 fin	swe	Osta silmälasit, saat toiset lasit kaupan päälle!	Jag ett par glasögon och få det andra paret på köpet!
 fin	swe	Ostin siltä työmatkalta työkavereilleni tuliaisiksi suklaarasian.	Jag köpte en chokladask på arbetsresan som present åt mina kollegor.
@@ -1935,6 +2015,7 @@ fin	swe	Paljonko maksaa olut?	Vad kostar en öl?
 fin	swe	Paljonko olut maksaa?	Vad kostar en öl?
 fin	swe	Paljonko siitä tulee?	Hur mycket blir det?
 fin	swe	Paljonko tämä auto kuluttaa bensaa?	Hur mycket förbrukar den här bilen?
+fin	swe	Pallo osui Tomia munille.	Bollen träffade Tom mitt i skrevet.
 fin	swe	Palvelijatar oli jo siivoamassa huonetta, kun Carol tuli sisään.	Tjänarinnan höll redan på att städa rummet när Carol kom in.
 fin	swe	Pane kirjasi kiinni.	Stäng din bok.
 fin	swe	Paperi on valkoista.	Papper är vitt.
@@ -1949,11 +2030,13 @@ fin	swe	Pelasimme baseballia.	Vi spelade baseboll.
 fin	swe	Pelasin tennistä koko päivän.	Jag spelade tennis hela dagen.
 fin	swe	Pelasin tennistä veljeni kanssa.	Jag spelade tennis med min bror.
 fin	swe	Pelasin usein jalkapalloa kun olin nuori.	Jag spelade ofta fotboll när jag var ung.
+fin	swe	Pelkään puolestasi.	Jag är rädd för din skull.
 fin	swe	Pelkäätkö kauhuelokuvia?	Är du rädd för skräckfilmer?
 fin	swe	Pelkäätkö sinä minua?	Är du rädd för mig?
 fin	swe	Perheeni ei ole kovin iso.	Min familj är inte så stor.
 fin	swe	Perunalastut eivät ole hyväksi terveydellesi.	Chips är inte bra för din hälsa.
 fin	swe	Perussuomalaiset tuskin pystyvät pitämään vaalilupauksiaan.	Sannfinländarna kommer troligtvis inte kunna hålla sina vallöften.
+fin	swe	Petaatko sänkysi joka päivä?	Bäddar du sängen varje dag?
 fin	swe	Peukutetaan!	Tummis på det!
 fin	swe	Piano ja kitara ovat tavallisia säestysinstrumentteja.	Piano och gitarr är vanliga ackompanjemangsinstrument.
 fin	swe	Piano ja kitara ovat yleisiä säestyssoittimia.	Piano och gitarr är vanliga ackompanjemangsinstrument.
@@ -2000,12 +2083,14 @@ fin	swe	Puhelin soi.	Telefonen ringde.
 fin	swe	Puhu hitaammin.	Prata långsammare.
 fin	swe	Puhuin ainoastaan saksaa.	Jag talade bara tyska.
 fin	swe	Puhuin Tomin kanssa.	Jag pratade med Tom.
+fin	swe	Puhu kovemmalla äänellä, jotta kaikki kuulevat.	Tala högre så att alla kan höra.
 fin	swe	Puhun japania, englantia ja ranskaa.	Jag pratar japanska, engelska och franska.
 fin	swe	Puhun japania, englantia ja ranskaa.	Jag talar japanska, engelska och franska.
 fin	swe	Puhun Tomin kanssa.	Jag pratar med Tom.
 fin	swe	Puhu selvästi.	Tala tydligt!
 fin	swe	Puhu sinä vain, minä teen niin kuin haluan.	Prata du på, jag gör som jag vill.
 fin	swe	Puhutko koirallesi?	Pratar du med din hund?
+fin	swe	Puhutko ukrainaa?	Talar du ukrainska?
 fin	swe	Puhut liian paljon.	Du pratar för mycket.
 fin	swe	Puhutteko esperantoa?	Kan ni tala esperanto?
 fin	swe	Puu palaa.	Trädet brinner.
@@ -2023,6 +2108,7 @@ fin	swe	Pyysin häneltä neuvoa.	Jag bad honom om råd.
 fin	swe	Rakastakko sää mua?	Älskaru mej?
 fin	swe	Rakastan arabian kieltä.	Jag älskar arabiska.
 fin	swe	Rakastan aurinkoa.	Jag älskar solen.
+fin	swe	Rakastan eläimiä, esimerkiksi kissoja ja koiria.	Jag älskar djur, till exempel katter och hundar.
 fin	swe	Rakastan hevosia.	Jag älskar hästar.
 fin	swe	Rakastan sinua!	Jag älskar dig.
 fin	swe	”Rakastan sinua.” ”Todellako?” ”Kyllä.” ”Minäkin rakastan sinua.”	”Jag älskar dig.” ”Verkligen?” ”Ja.” ”Jag älskar dig också.”
@@ -2044,9 +2130,12 @@ fin	swe	Riittikö piirakkaa kaikille vai käynkö hakemassa lisää?	Räckte det
 fin	swe	Royn ei tarvinnut kiiruhtaa lentokentälle vanhempiaan vastaan.	Roy behövde inte skynda sig till flygplatsen för att möta hans föräldrar.
 fin	swe	Rukoile Pariisin puolesta.	Be för Paris.
 fin	swe	Ruokaa!	Mat!
+fin	swe	Ruotsi ei ole entisensä.	Sverige är inte sitt gamla jag.
+fin	swe	Ruotsi ei ole entisensä.	Sverige är inte vad det en gång var.
 fin	swe	Ruotsin pääkaupunki on Tukholma.	Sveriges huvudstad är Stockholm.
 fin	swe	Ruotsi on Skandinavian suurin maa.	Sverige är det största landet i Skandinavien.
 fin	swe	Ruotsissa jouluaattoa juhlitaan enemmän kuin joulupäivää.	I Sverige firas julafton mer än juldagen.
+fin	swe	Ruusu on kaunis kukka.	En ros är en vacker blomma.
 fin	swe	Saa etsiä pitkään ennen kuin ylipäänsä on tilaisuus löytää niin epäuskoinen mies kuin setäsi.	Man får nog leta både länge och noga om man överhuvudtaget ska ha en chans att hitta en mer klentrogen man än din farbror.
 fin	swe	Saako täällä kuvata?	Får man filma här?
 fin	swe	Saako tuossa talossa valokuvata?	Får man fotografera i detta huset?
@@ -2132,6 +2221,7 @@ fin	swe	Se on ihan samanlainen.	Den är identiskt lik.
 fin	swe	Se on kännissä.	Han ä full.
 fin	swe	Se on kännissä.	Hon ä full.
 fin	swe	Se on kohteliaisuus.	Det är en komplimang.
+fin	swe	Se on kovaa.	Det är hårt.
 fin	swe	Se on kovin abstrakti käsite.	Det är ett mycket abstrakt begrepp.
 fin	swe	Se on lapsille.	Det är till barnen.
 fin	swe	Se on minun CD-levyni.	Det är min cd.
@@ -2139,6 +2229,7 @@ fin	swe	Se on minun CD:ni.	Det är min cd-skiva.
 fin	swe	Se on minun.	Det är mitt.
 fin	swe	Se on paras, mikä meillä on.	Den är den bästa vi har.
 fin	swe	Se on paras, mikä meillä on.	Den är det bästa vi har.
+fin	swe	Se on robotti.	Det är en robot.
 fin	swe	Se on samanlainen.	Den är liknande.
 fin	swe	Se on syvälle syöpynyt perinne.	Det är en djupt inrotad tradition.
 fin	swe	Se on tyhmintä, mitä olen koskaan sanonut.	Det är det dummaste som jag någonsin sagt.
@@ -2149,6 +2240,7 @@ fin	swe	Se on vanha vitsi.	Det där är ett gammalt skämt.
 fin	swe	Se on varsin abstrakti käsite.	Det är ett mycket abstrakt begrepp.
 fin	swe	Se on vastoin periaatteitani.	Det är emot mina principer.
 fin	swe	Se osoittautui todeksi.	Det visade sig vara sant.
+fin	swe	Se otti yli viisi vuotta, mutta en kanna enää kaunaa.	Det tog över fem år, men jag hyser inte längre något agg.
 fin	swe	Se siitä.	Det var det.
 fin	swe	Se teki minut äärimmäisen iloiseksi.	Det gjorde mig ytterst glad.
 fin	swe	Se tyttö hyppää.	Flickan hoppar.
@@ -2157,6 +2249,7 @@ fin	swe	Seuraavalla kerralla vien kukkia.	Nästa gång jag kommer på besök tar
 fin	swe	Seuraava pysäys: Tukholma.	Nästa anhalt: Stockholm.
 fin	swe	Seuratkaa sääntöjä!	Följ reglerna.
 fin	swe	Seuratkaa tuota autoa.	Följ den bilen.
+fin	swe	Siinä laatikossa on appelsiineja.	I lådan finns det apelsiner.
 fin	swe	Siitä ei ole epäilystäkään.	Det råder ingen tvivel om det.
 fin	swe	Siitä voidaan olla eri mieltä.	Det kan man tycka annorlunda om.
 fin	swe	Siivoa huone.	Städa rummet.
@@ -2171,6 +2264,7 @@ fin	swe	Sinä haiset.	Du luktar.
 fin	swe	Sinähän kyselet paljon, Tom.	Du frågar mycket, Tom.
 fin	swe	Sinähän ymmärrät ranskaa, vai kuinka?	Du förstår väl franska, eller hur?
 fin	swe	Sinä höpiset.	Du babblar.
+fin	swe	Sinäkinkö rakastat minua?	Älskar du också mig?
 fin	swe	Sinä menet huomenna kouluun.	Du går till skolan i morgon.
 fin	swe	Sinä menet kouluun huomenna.	Du går till skolan i morgon.
 fin	swe	Sinä olet hyvä ihminen.	Du är en bra människa.
@@ -2182,6 +2276,7 @@ fin	swe	Sinä olet juonut kolme kuppia kahvia.	Du har druckit tre koppar kaffe.
 fin	swe	Sinä olet kirjoittanut väärin minun nimeni.	Du har felstavat mitt namn.
 fin	swe	Sinä olet kirjoittanut väärin minun nimeni.	Du har stavat fel på mitt namn.
 fin	swe	Sinä olet kirjoittanut väärin nimeni.	Du har stavat fel på mitt namn.
+fin	swe	Sinä olet kiusanhenki.	Du är en plågoande.
 fin	swe	Sinä puhut hyvää ranskaa!	Du talar bra franska!
 fin	swe	Sinä sanoit, että se oli liian helppoa.	Du sa att det var för lätt.
 fin	swe	Sinä sanoit, että se oli liian helppoa.	Du sade att det var för enkelt.
@@ -2205,6 +2300,7 @@ fin	swe	Sinun ei todellakaan pitäisi juoda niin paljon kahvia.	Du borde verklig
 fin	swe	Sinun käsialasi on epäselvää.	Din handstil är otydlig.
 fin	swe	Sinun olisi parempi olla hiljaa.	Det är nog bäst att du är tyst.
 fin	swe	Sinun olisi pitänyt käydä Kyotossa.	Du borde ha besökt Kyoto.
+fin	swe	Sinun on aika maistaa omaa lääkettäsi.	Det är dags för dig att smaka på din egen medicin.
 fin	swe	Sinun on parasta mennä kotiin niin pian kuin mahdollista.	Det är bäst att du åker hem så snart som möjligt.
 fin	swe	Sinun pitää keskittyä tiehen kun ajat.	Du borde koncentrera dig på vägen när du kör.
 fin	swe	Sinun pitää odottaa seuraavaa bussia.	Du måste vänta på nästa buss.
@@ -2230,6 +2326,7 @@ fin	swe	Sitä ei tule koskaan tapahtumaan.	Det kommer aldrig att hända.
 fin	swe	Sitä en koskaan olisi uskonut sinusta.	Det skulle jag aldrig ha trott om dig.
 fin	swe	Sitä en ymmärrä.	Det förstår jag inte.
 fin	swe	Sitä et voi sanoa.	Det kan du inte säga.
+fin	swe	Soita heti, jos jotain tapahtuu.	Ring mig omedelbart om något händer.
 fin	swe	Soita minulle huomenna.	Ring mig i morgon.
 fin	swe	Soita minulle myöhemmin.	Ring mig senare.
 fin	swe	Soitan hänelle illalla.	Jag ringer honom ikväll.
@@ -2282,6 +2379,7 @@ fin	swe	Täällä kaikki paitsi minä ovat kannibaaleja. Minä olen vain syötä
 fin	swe	Täällä on puhelin.	Det finns en telefon här.
 fin	swe	Täällä on todellakin mahdollisuus valita ja hylätä.	Här finns det verkligen att välja och vraka bland.
 fin	swe	Taasko?	Igen?
+fin	swe	Tähän oikeuteen ei voida vedota, kun on kysymys tosi epäpoliittisista rikoksista johtuvista syytteistä tai teoista, jotka ovat vastoin Yhdistyneiden kansakuntien periaatteita ja päämääriä.	Denna rätt må icke åberopas vid laga åtgärder, reellt grundade på icke-politiska brott eller på handlingar, som strida mot Förenta nationernas ändamål och grundsatser.
 fin	swe	Tähän oikeuteen ei voida vedota, kun on kysymys tosi epäpoliittisista rikoksista johtuvista syytteistä tai teoista, jotka ovat vastoin Yhdistyneiden Kansakuntien periaatteita ja päämääriä.	Denna rätt må icke åberopas vid laga åtgärder, reellt grundade på icke-politiska brott eller på handlingar, som strida mot Förenta Nationernas ändamål och grundsatser.
 fin	swe	Tähän saliin mahtuu 2000 henkeä.	Denna salen tar 2000 personer.
 fin	swe	Tahdon olla itsenäisempi.	Jag vill vara mera självständig.
@@ -2333,6 +2431,8 @@ fin	swe	Tämä on korkein rakennus, jonka olen koskaan nähnyt.	Det här är den
 fin	swe	Tämä on kunkin yksityisasia.	Detta är vars och ens ensak.
 fin	swe	Tämä on kylmin talvi kolmeenkymmeneen vuoteen.	Det här är den kallaste vintern som vi har haft på trettio år.
 fin	swe	Tämä on kynä.	Det här är en penna.
+fin	swe	Tämä on mätä omena.	Det här är ett ruttet äpple.
+fin	swe	Tämä on mätä omena.	Detta är ett ruttet äpple.
 fin	swe	Tämä on minun autoni.	Det här är min bil.
 fin	swe	Tämä on minun kissani.	Det här är min katt.
 fin	swe	Tämä on minun sohvani.	Det här är min soffa.
@@ -2356,6 +2456,7 @@ fin	swe	Tämä silta on kaksi kertaa tuon sillan pituinen.	Den här bron är tv�
 fin	swe	Tämä taiteilija kuoli nuorena.	Den här konstnären dog ung.
 fin	swe	Tämä tuote on valmistettu Italiassa.	Den här produkten är tillverkad i Italien.
 fin	swe	Tämä tuote on valmistettu Italiassa.	Denna produkt är tillverkad i Italien.
+fin	swe	Tämä vaatekaappi johtaa Narniaan.	Den här garderoben leder till Narnia.
 fin	swe	Tämä vanha auto menee rikki jatkuvasti.	Den här gamla bilen går sönder hela tiden.
 fin	swe	Tämä vanha kala maistuu kummalliselta.	Den här gamla fisken smakar konstigt
 fin	swe	Tämä vanha pöytä on edelleen käytössä.	Det här gamla bordet används fortfarande.
@@ -2405,6 +2506,8 @@ fin	swe	Täytyykö minun maksaa sinulle?	Måste jag betala dig?
 fin	swe	Täytyykö minun maksaa teille?	Behöver jag betala er?
 fin	swe	Teatteri on ikävää.	Teater är tråkigt.
 fin	swe	Tee mitä haluat.	Gör vad du vill.
+fin	swe	Teen hänelle tarjouksen, josta hän ei voi kieltäytyä.	Jag ska ge honom ett erbjudande han inte kan tacka nej till.
+fin	swe	Teen hänelle tarjouksen, jota hän ei voi vastustaa.	Jag ska ge honom ett erbjudande han inte kan motstå.
 fin	swe	Teeni on liian makeaa.	Mitt te är för sött.
 fin	swe	Teen ruumiillista työtä.	Jag arbetar med kroppen.
 fin	swe	Teen sen jos he maksavat minulle.	Jag gör det om de betalar mig.
@@ -2431,6 +2534,9 @@ fin	swe	Terveellinen ruoka on toisinaan vähän kalliimpaa kuin epäterveellinen
 fin	swe	Terveisiä Brasiliasta!	Hälsningar från Brasilien!
 fin	swe	Tervetuloa Helsinkiin, Suomen pääkapunkiin!	Välkommen till Helsingfors, Finlands huvudstad!
 fin	swe	Tervetuloa!	Välkommen!
+fin	swe	Terveys on kultaakin kalliinpaa.	Hälsa är ännu mer värt än guld.
+fin	swe	Terveys on kultaakin kalliinpaa.	Hälsa är ännu värdefullare än guld.
+fin	swe	Terveys on tärkein.	Hälsan är viktigast.
 fin	swe	Te selvisitte.	Ni överlevde.
 fin	swe	Te ymmärrätte minua.	Ni förstår mig.
 fin	swe	Thomas katsoo elokuvaa.	Thomas tittar på film.
@@ -2546,6 +2652,10 @@ fin	swe	Tomi opiskeli suomen kieltä yötä päivää kunnes flippas.	Tom studer
 fin	swe	Tomi palkkasi yksityisetsivän.	Tom anlitade en privatdetektiv.
 fin	swe	Tomi pidätettiin rattijuopumuksesta.	Tom blev arresterad för rattfylleri.
 fin	swe	Tomi selvisi kolarista säikähdyksellä.	Tomi överlevde krocken med blotta förskräckelsen.
+fin	swe	Tomi syö rautaa ja paskantaa kettinkiä.	Tom äter järn och skiter kätting.
+fin	swe	Tomi tekee pyttipannua.	Tom håller på och lagar pytt.
+fin	swe	Tomi tekee pyttipannua.	Tom lagar pyttipanna.
+fin	swe	Tomi tekee pyttipannua.	Tom står och lagar pytt i panna.
 fin	swe	Tom itkee.	Tom gråter.
 fin	swe	Tomi tulee huomenna.	Tom kommer i morgon.
 fin	swe	Tomi tykkää kalastaa.	Tom gillar att fiska.
@@ -2632,6 +2742,7 @@ fin	swe	Tom pysyi ulkona.	Tom blev kvar ute.
 fin	swe	Tom pysyi ulkona.	Tom stannade ute.
 fin	swe	Tom pyysi Mariaa avaamaan ikkunan.	Tom bad Maria att öppna fönstret.
 fin	swe	Tom pyysi suurta summaa rahaa.	Tom bad om en stor summa pengar.
+fin	swe	Tom rakastaa perunasalaattia.	Tom älskar potatissallad.
 fin	swe	Tom sanoin luulleensa Maryn asuneen edelleen vanhempiensa luona.	Tom sa att han trodde att Mary fortfarande bodde hos sina föräldrar.
 fin	swe	Tom söi mahansa pullolleen.	Tom åt sig mätt.
 fin	swe	Tom söi niin paljon kuin jaksoi.	Tom åt så mycket han orkade.
@@ -2701,6 +2812,7 @@ fin	swe	Tuo on pitkälti tahdon asia.	Det där är i hög grad en viljesak.
 fin	swe	Tuo on se kirja, jonka haluan lukea.	Det där är boken som jag vill läsa.
 fin	swe	Tuo on uskomatonta.	Det är otroligt.
 fin	swe	Tuo on varsin abstrakti käsite.	Det är ett mycket abstrakt begrepp.
+fin	swe	Tuo suomalainen karkki maistuu kuulemma tervalta.	Det där finska godiset lär ska smaka som tjära.
 fin	swe	Tuota minä en ymmärrä.	Det förstår jag inte.
 fin	swe	Tupakointi on erittäin haitallista terveydelle.	Rökning är mycket dåligt för din hälsa.
 fin	swe	Tupakointi on vaarallista terveydelle.	Rökning är hälsovådligt.
@@ -2734,8 +2846,12 @@ fin	swe	Usko itseesi.	Tro på dig själv.
 fin	swe	Uskokaa minua!	Tro mig!
 fin	swe	Usko mitä haluat.	Tro vad du vill.
 fin	swe	Uskon että hän on rehellinen nainen.	Jag tycker att hon är en ärlig kvinna.
+fin	swe	Uskon, että hän on sairas. Hänellä on kuumetta.	Jag tror att hon är sjuk. Hon har feber.
+fin	swe	Uskon, että hän on sairas. Hänellä on kuumetta.	Jag tror hon är sjuk. Hon har feber.
 fin	swe	Uskon, että minulla on vesirokko.	Jag tror jag har vattkoppor.
 fin	swe	Uskon että tämä lääke voi auttaa sairauteesi.	Jag tror att den här medicinen kan hjälpa mot din sjukdom.
+fin	swe	Uskon hänen olevan sairas. Hänellä on kuumetta.	Jag tror att hon är sjuk. Hon har feber.
+fin	swe	Uskon hänen olevan sairas. Hänellä on kuumetta.	Jag tror hon är sjuk. Hon har feber.
 fin	swe	Uskon sinun olevan oikeassa.	Jag tror att du har rätt.
 fin	swe	Uskotko että löydämme koskaan hänen taloaan?	Tror du att vi kommer att hitta hennes hus?
 fin	swe	Uskotko minua?	Tror du på mig nu?
@@ -2756,6 +2872,7 @@ fin	swe	Vakuutan sinulle, että teen kaiken mahdollisen auttaakseni sinua.	Jag k
 fin	swe	Valehtelet!	Du ljuger!
 fin	swe	Valitettavasti panssarivaunut eivät ole syötäviä.	Tyvärr är pansarvagnar inte ätbara.
 fin	swe	Valitettavasti Tom ei voi osallistua juhliisi.	Tyvärr kan Tom inte komma på din fest.
+fin	swe	Valitsen sinut.	Jag väljer dig.
 fin	swe	Valitse salasana, joka on helppo muistaa, mutta vaikea arvata.	Välj ett lösenord som är lätt att komma ihåg, men svårt att gissa sig till.
 fin	swe	Valitsin kahden vaihtoehdon välillä.	Jag valde mellan två alternativ.
 fin	swe	Vanhempani eivät sallineet minun menevän ulos poikien kanssa.	Mina föräldrar tillät inte att jag gick ut med killar.
@@ -2813,6 +2930,7 @@ fin	swe	Voitko järjestää tämän puolestani?	Kan du fixa den här åt mig?
 fin	swe	Voitko nähdä tuon?	Kan du se det där?
 fin	swe	Voitko tarkistaa onko puhelin rikki?	Kan du kolla om telefonen är trasig?
 fin	swe	Voitko tulla tänne vähäksi aikaa?	Kan du komma hit ett tag?
+fin	swe	Voitteko auttaa minua?	Kan ni hjälpa mig?
 fin	swe	Voitteko nähdä heidät?	Kan ni se dem?
 fin	swe	Voit valita minkä tahansa haluat.	Du kan välja vilken du vill.
 fin	swe	Vuodessa on kaksitoista kuukautta.	Ett år har tolv månader.

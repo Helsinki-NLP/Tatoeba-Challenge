@@ -16,6 +16,7 @@ eng	mkd	After lunch today, our plan is to take a walk in the park.	Донес п
 eng	mkd	After the fire, only ash was left.	По пожарот, остана само пепел.
 eng	mkd	After the storm, the ocean was calm.	По бурата, океанот беше мирен.
 eng	mkd	A gentleman would never do something like that.	Кавалер никогаш не би направил нешто такво.
+eng	mkd	A great deal of water is used in the production of paper.	Многу вода се користи при изработката на хартија.
 eng	mkd	Ah, I have been here before!	Ах, сум бил тука и претходно!
 eng	mkd	A humid climate is characteristic of the peninsula.	Влажни климатски услови не се својствени за полустровот.
 eng	mkd	A hypochondriac imagines maladies where none exist.	Хипохондрикот измислува болести каде што ги нема.
@@ -122,6 +123,7 @@ eng	mkd	Are you helping him?	Му помагаш ли?
 eng	mkd	Are you her pimp?	Подведувач ли си ѝ ти?
 eng	mkd	Are you in a bad mood?	Дали си лошо расположен?
 eng	mkd	Are you leaving Boston?	Дали си одиш од Бостон?
+eng	mkd	Are you liberal?	Ти си либерален?
 eng	mkd	Are you mocking me?	Дали ме исмеваш?
 eng	mkd	Are you open tonight?	Отворени ли ќе бидете вечерва?
 eng	mkd	Are you people crazy?	Луди ли сте, луѓе?
@@ -969,6 +971,7 @@ eng	mkd	Fortunately this shed is stable, or else it'd have surely fallen down du
 eng	mkd	For what reason are you learning English?	Од која причина учиш англиски?
 eng	mkd	Frankly, Tom didn't try hard enough.	Искрено, Том не се трудеше доволно.
 eng	mkd	Freedom of speech is restricted in some countries.	Слободата на говор е ограничена во извесни земји.
+eng	mkd	Free speech doesn't mean you're allowed to yell "Fire!" in a crowded theatre.	Слобода на говор не значи дека смее да се вика „Оган!“ во полно кино.
 eng	mkd	Freeze!	Стој!
 eng	mkd	French is difficult.	Францускиот е тежок.
 eng	mkd	Friendship is magic.	Пријателствата се волшебни.
@@ -4286,6 +4289,7 @@ eng	mkd	I've won the lottery.	Добив на лотарија.
 eng	mkd	I've won.	Победив.
 eng	mkd	I voted for him last year.	Гласав за него лани.
 eng	mkd	I voted for you.	Гласав за тебе.
+eng	mkd	I voted "remain".	Гласав за останување.
 eng	mkd	I waited outside for her.	Ја чекав надвор.
 eng	mkd	I waited outside for you.	Те чекав надвор.
 eng	mkd	I walked into a wall.	Се акнав од ѕид.
@@ -4522,8 +4526,8 @@ eng	mkd	I wouldn't want to mess with Tom.	Не би сакал да се зак�
 eng	mkd	I wouldn't want to show you up.	Не сакам да те засенам.
 eng	mkd	I would rather die than submit.	Попрво би умрел отколку да се покорам.
 eng	mkd	I would sell this dog if it was taller.	Ќе го продадев кучево да беше повисоко.
-eng	mkd	I would've said no.	Јас одречно ќе одговорев.
 eng	mkd	I would've said no.	Јас ќе кажев „не“.
+eng	mkd	I would've said no.	Јас одречно ќе одговорев.
 eng	mkd	I wrote that for them.	Јас им го напишав тоа.
 eng	mkd	Japan has many different characteristics.	Јапонија како земја има многу различни одлики.
 eng	mkd	Jasmine and lavender are my favorite scents.	Мирисите на јасмин и на лаванда ми се омилени.
@@ -5281,6 +5285,7 @@ eng	mkd	She bought it at the butcher's.	Таа го купи тоа во мес�
 eng	mkd	She called the psychiatrist.	Таа му се јави на психијатарот.
 eng	mkd	She came.	Таа дојде.
 eng	mkd	She cut the apple in two.	Го преполови јаболкото.
+eng	mkd	She decided to move to Belgium.	Таа одлучи да се пресели во Белгија.
 eng	mkd	She didn't accept the invitation.	Таа не ја прифати поканата.
 eng	mkd	She died a few years ago.	Почина пред неколку години.
 eng	mkd	She doesn't know how to read or write.	Таа не умее ниту да чита ниту да пишува.
@@ -9541,8 +9546,8 @@ eng	mkd	You can easily identify Tom because he is very tall.	Лесно може
 eng	mkd	You can eat as much as you want.	Можеш да јадеш колку ти душа сака.
 eng	mkd	You can go now, sir.	Сега смеете да си одите, господине.
 eng	mkd	You can go or stay, as you wish.	Можеш и да заминеш и да останеш - како сакаш.
-eng	mkd	You can handle it.	Можеш да излезеш на крај.
 eng	mkd	You can handle it.	Ќе се снајдеш.
+eng	mkd	You can handle it.	Можеш да излезеш на крај.
 eng	mkd	You can handle this.	Можеш да се справиш со ова.
 eng	mkd	You can have mine.	Можеш да го земеш моето.
 eng	mkd	You can identify children's voices without any problem.	Ти умееш да распознаваш детски гласови без проблеми.
@@ -10008,3 +10013,5 @@ eng	mkd	You won't win.	Нема да победиш.
 eng	mkd	You worry too much about him.	Премногу се секираш за него.
 eng	mkd	You wouldn't want to be late.	Не би сакал да задоцниш.
 eng	mkd	Yup, I am angry.	Да, лут сум.
+eng	mkd	Ziri could see a hyena in the distance.	На Зири му се виде хиена од далеку.
+eng	mkd	Ziri doesn't have to whisper.	Не мора да шепоти Зири.

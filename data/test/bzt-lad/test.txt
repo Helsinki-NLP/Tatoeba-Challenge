@@ -7,6 +7,7 @@ bzt_Latn	lad	Eo wol comprar yn gas.	קירו מירקאר אונה קאזה.
 bzt_Latn	lad	Estuir es lla briwad di Ragel.	אסתר איס לה מוזﬞיר די רחל.
 bzt_Latn	lad	Garmenant llo h-ôn?	לוס אומבריס ייוראן?
 bzt_Latn	lad	Hitler edif llo h-yddew.	היטליר אבוריסייה אה לוס גﬞודﬞייוס.
+bzt_Latn	lad	Ill afur af afar ill afur.	איל אמור אמה אמאר איל אמור.
 bzt_Latn	lad	Ill puf ci es gwirdd.	איסטה מאנסאנה איס בﬞידרי.
 bzt_Latn	lad	Ill puf es gwirdd.	לה מאנסאנה איס בﬞידרי.
 bzt_Latn	lad	Ill puf es rhys.	לה מאנסאנה איס קולוראדֿה.
@@ -16,44 +17,77 @@ bzt_Latn	lad	Ke gws es yn barol?	קי איס אונה פאלאבﬞרה?
 bzt_Latn	lad_Latn	Almein es yn paes gran.	Almania es un paiz grande.
 bzt_Latn	lad_Latn	Eo ai llo pharol feliwr.	Tengo los mijores biervos.
 bzt_Latn	lad_Latn	Eo fens, di onc eo su.	Penso, dunke egzisto.
+bzt_Latn	lad_Latn	Eo for rhen.	No muero.
 bzt_Latn	lad_Latn	Eo grêdd in ill sul anc gan ys yst llygen rhen. Eo grêdd in ill afur anc gan eo llw senh rhen. Eo grêdd in ill Dew anc gan ys yst tosen.	Kreyo en el sol, afilu si el no briye. Kreyo en el amor, afilu si no lo senta. Kreyo en el Dio, afilu si El se kaye.
 bzt_Latn	lad_Latn	Eo grêdd in ill sul anc gan ys yst llygen rhen. Eo grêdd in ill afur anc gan eo llw senh rhen. Eo grêdd in ill Dew anc gan ys yst tosen.	Yo kreyo en el sol, afilu si el no briye. Yo kreyo en el amor, afilu si no lo senta. Yo kreyo en el Dio, afilu si El se kaye.
+bzt_Latn	lad_Latn	Eo mhif rhen.	No bevo.
+bzt_Latn	lad_Latn	Eo ngwol rhen di mullt.	No kero muncho.
 bzt_Latn	lad_Latn	Eo su ill diawl.	So el satan.
 bzt_Latn	lad_Latn	Eo su rhen di gath.	No so una gata.
 bzt_Latn	lad_Latn	Eo su rhen di gath.	No so un gato.
 bzt_Latn	lad_Latn	Eo su tew padr.	Yo so tu padre.
 bzt_Latn	lad_Latn	Eo su yn gath.	So una gata.
 bzt_Latn	lad_Latn	Eo wol comprar yn gas.	Kero merkar una kaza.
+bzt_Latn	lad_Latn	Eo wol ddunar-lla a Fair.	Lo le kero dar a Miri.
+bzt_Latn	lad_Latn	Eo wol ddunar-llw a Fair.	Lo le kero dar a Miri.
+bzt_Latn	lad_Latn	Eo wol yn can.	Kero un perro.
 bzt_Latn	lad_Latn	Eo yst compran yn ros.	Esto merkando una roza.
 bzt_Latn	lad_Latn	Estuir es lla briwad di Ragel.	Ester es la mujer de Rahel.
 bzt_Latn	lad_Latn	Garmenant llo h-ôn?	Los ombres yoran?
 bzt_Latn	lad_Latn	Greg' es bel.	Gresia es ermoza.
 bzt_Latn	lad_Latn	Greg' es bel.	Gresia es linda.
 bzt_Latn	lad_Latn	Hitler edif llo h-yddew.	Hitler aborresia a los djudios.
+bzt_Latn	lad_Latn	Ierusalem es lla giwdad saeth di llo h-yddew.	Yerushalayim es la sivdad santa de los djudios.
+bzt_Latn	lad_Latn	Ill afur af afar ill afur.	El amor ama amar el amor.
 bzt_Latn	lad_Latn	Ill bethisad es yn segruid.	El Universo es un misterio.
 bzt_Latn	lad_Latn	Ill cath es gran.	El gato es grande.
 bzt_Latn	lad_Latn	Ill llafur llifr.	El lavoro libera.
+bzt_Latn	lad_Latn	Ill mun es yn nediwn.	El mundo es una nasyon.
+bzt_Latn	lad_Latn	Ill mun es yn pobl.	El mundo es un puevlo.
+bzt_Latn	lad_Latn	Ill munn es maled.	El mundo esta hazino.
+bzt_Latn	lad_Latn	Ill pobl menh.	La djente miente.
 bzt_Latn	lad_Latn	Ill puf ci es gwirdd.	Esta mansana es vedre.
 bzt_Latn	lad_Latn	Ill puf ci es rhys.	Esta mansana es kolorada.
 bzt_Latn	lad_Latn	Ill puf es gwirdd.	La mansana es vedre.
+bzt_Latn	lad_Latn	"Ke dem?" "Nonc."	"Kuando?" "Nunka."
 bzt_Latn	lad_Latn	Ke gws es lla liferthad?	Ke es la libertad?
 bzt_Latn	lad_Latn	Ke gws es yn barol?	Ke es una palavra?
 bzt_Latn	lad_Latn	Ke gws es yn barol?	Ke es un biervo?
+bzt_Latn	lad_Latn	K'lwg es mew ffeil?	Onde esta mi ija?
+bzt_Latn	lad_Latn	K'lwg es mew ffeil?	Onde esta mi ijo?
+bzt_Latn	lad_Latn	K'lwg es nwstr ffeil?	Onde esta muestra ija?
+bzt_Latn	lad_Latn	K'lwg es nwstr ffeil?	Onde esta muestro ijo?
+bzt_Latn	lad_Latn	Lla ag es-sa funn?	La agua es limpia?
 bzt_Latn	lad_Latn	Lla ffuin yst llein.	La mujer esta meldando.
 bzt_Latn	lad_Latn	Lla riant ddef morir.	La reyna deve de murir.
+bzt_Latn	lad_Latn	Lla wid es curth.	La vida es kurta.
+bzt_Latn	lad_Latn	Llo chath sunt di llo h-enifal.	Los gatos son animales.
+bzt_Latn	lad_Latn	Llo h-arfur wiwent.	Los arvoles biven.
 bzt_Latn	lad_Latn	Llo h-ôn sunt lassad.	Los ombres estan fatigados.
 bzt_Latn	lad_Latn	Llo h-ôn sunt lassad.	Los ombres estan kansados.
+bzt_Latn	lad_Latn	Llo h-ugell chanafant.	Los pasharos kantavan.
+bzt_Latn	lad_Latn	Llo h-ugell h-eddiffigant di llo nidd.	Los pasharos konstruyen nidos.
+bzt_Latn	lad_Latn	Llo h-ugell wolant.	Los pasharos bolan.
 bzt_Latn	lad_Latn	Llo h-yddew sunt lassad.	Los djudios estan fatigados.
 bzt_Latn	lad_Latn	Llo h-yddew sunt lassad.	Los djudios estan kansados.
+bzt_Latn	lad_Latn	Llo phaes thud sunt ffithig.	Todos los paizes son falsos.
 bzt_Latn	lad_Latn	Llo wid nîr chalent.	Las vidas de las personas pretas son emportantes.
+bzt_Latn	lad_Latn	Mew blant abit i Rhufein.	Mis kriaturas moran en Roma.
 bzt_Latn	lad_Latn	Mew nôn es Omid.	Mi nombre es Omid.
 bzt_Latn	lad_Latn	Mew nôn es Tomos.	Mi nombre es Tom.
 bzt_Latn	lad_Latn	No, ill cath es rhen di fuin.	No, el gato no es chiko.
+bzt_Latn	lad_Latn	Nonc.	Nunka.
 bzt_Latn	lad_Latn	Nu fefeirafan Saesonig.	Mos ambezavamos inglez.
 bzt_Latn	lad_Latn	Nu sun di llo pherson.	Somos personas.
 bzt_Latn	lad_Latn	Nw affrênefan Saesonig.	Ambezimos inglez.
+bzt_Latn	lad_Latn	Nw sun ply ffeirth.	Somos mas fuertes.
+bzt_Latn	lad_Latn	Pab intraf.	Todos entraron.
+bzt_Latn	lad_Latn	Sa es di llo h-ysl i lla for.	Ay adas en la mar.
+bzt_Latn	lad_Latn	Sa es di llo h-ysl i lla for.	Ay izlas en la mar.
 bzt_Latn	lad_Latn	Sa es yn ffuin.	Eya es una mujer.
+bzt_Latn	lad_Latn	Sa wiwant i mheg.	Biven en pas.
 bzt_Latn	lad_Latn	Tom es yscrifen rhen.	Tom no esta eskriviendo.
+bzt_Latn	lad_Latn	Tomos digiddef phlanner yn arfur.	Tom se desido de plantar un arvol.
 bzt_Latn	lad_Latn	Tomos ed lafurar.	Tom aborrese lavorar.
 bzt_Latn	lad_Latn	Tomos es edid.	Tom es aborresido.
 bzt_Latn	lad_Latn	Tomos es yn of e-dd eo su yn ffuin.	Tom es un ombre i yo so una mujer.
@@ -63,6 +97,8 @@ bzt_Latn	lad_Latn	Ys es yn lladrun.	El es un ladron.
 bzt_Latn	lad_Latn	Ys es yn lladrun.	Es un ladron.
 bzt_Latn	lad_Latn	Ys mhassarent rhen!	No pasaran!
 bzt_Latn	lad_Latn	Ys mhensant rhen, di onc ys sunt rhen.	No pensan, dunke no egzisten.
+bzt_Latn	lad_Latn	Yst es sew gas.	Esta es sus kaza.
+bzt_Latn	lad_Latn	Ys wiwant i mheg.	Biven en pas.
 bzt_Latn	lad	Lla ffuin yst llein.	לה מוזﬞיר איסטה מילדאנדו.
 bzt_Latn	lad	Lla riant ddef morir.	לה ריינה דיבﬞי די מוריר.
 bzt_Latn	lad	Nu wiwen in yn sociedad.	ביבﬞימוס אין אונה סוסיידﬞאד.

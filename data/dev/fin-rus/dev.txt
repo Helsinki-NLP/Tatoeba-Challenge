@@ -45,6 +45,7 @@ fin	rus	Ei ole sopivaa muistella menneitä.	Неприлично ворошит�
 fin	rus	Ei ollut melkein mitään.	Не было почти ничего.
 fin	rus	Ei sanota äidille, että näimme isän.	Давай не скажем маме, что мы видели отца.
 fin	rus	Ei se ole niin yksinkertaista!	Это не так просто!
+fin	rus	Ei talvikunnossapitoa.	Зимой в порядке не содержится.
 fin	rus	Ei tule olemaan helppoa suostutella Maria lähtemään.	Будет нелегко уговорить Мэри пойти.
 fin	rus	Ei yksi pääsky kesää tee.	Одна ласточка весны не делает.
 fin	rus	Eksyimme sumussa.	Мы заблудились в тумане.
@@ -198,6 +199,7 @@ fin	rus	Ihme, että Tomi on vielä hengissä.	Чудо, что Том до си�
 fin	rus	Ihminen on itsensä pahin vihollinen.	Человек сам себе худший враг.
 fin	rus	Ilman kieltä ei ole kansaa.	Нет языка - нет народа.
 fin	rus	Ilmeisesti Tomi pettää vaimoaan.	Похоже, Том своей жене изменяет.
+fin	rus	Irlanti sijaitsee Länsi-Euroopassa.	Ирландия находится в Западной Европе.
 fin	rus	Isäni oli laivastossa.	Мой отец служил во флоте.
 fin	rus	Itkitkö?	Ты плакал?
 fin	rus	Japanissa uusi lukuvuosi alkaa huhtikuussa.	В Японии новый учебный год начинается в апреле.
@@ -307,6 +309,7 @@ fin	rus	Kyse on siitä, että me jo sovimme tapaamisesta eikä sitä voi perua.	
 fin	rus	Lähden tapaamiseen.	Я пойду на встречу.
 fin	rus	Lähetän sinulle linkin.	Я пришлю тебе ссылку.
 fin	rus	Lämpömittari näyttää 10 astetta.	Градусник показывает 10°C.
+fin	rus	Lapset haluaisivat tappaa kaikki muurahaiset!	Ребятам хочется всех муравьев перебить!
 fin	rus	Lapsi ei lakannut itkemästä ennen kuin hänet ruokittiin.	Ребёнок не переставал плакать, пока его не покормили.
 fin	rus	Lapsilla on kotitehtäviä.	У детей есть домашнее задание.
 fin	rus	La Rinconada on Perussa sijaitseva kaupunki, jota pidetään kaikkein korkeimpana asuttuna paikkana maailmassa. Se sijaitsee 5100 metrin korkeudessa merenpinnan yläpuolella.	Ла-Ринконада — город в Перу, который считается самым высоким населённым пунктом на Земле. Он расположен на высоте в 5100 метров над уровнем моря.
@@ -336,6 +339,7 @@ fin	rus	Luulen, ettei meidän oikeastaan tarvitse tehdä tätä.	Я считаю
 fin	rus	Luulin, että olet Tomi.	Я думал, ты Том.
 fin	rus	Lyhenne USA tarkoittaa Yhdysvaltoja.	Сокращение «США» означает «Соединённые Штаты Америки».
 fin	rus	Maailma muuttuu koko ajan.	Мир сильно меняется.
+fin	rus	Maailma on sairas.	Мир болен.
 fin	rus	Maa peittyi valkoiseen huurteeseen.	Земля покрылась белым инеем.
 fin	rus	Mä en oo kotona.	Я не дома.
 fin	rus	Mä heräsin ja näin varkaan mun huoneessa.	Я проснулся и обнаружил в комнате вора.
@@ -508,6 +512,7 @@ fin	rus	Miten meni matka?	Как прошло путешествие?
 fin	rus	Miten pitkä olette ja paljonko painatte?	Какой у вас рост и сколько вы весите?
 fin	rus	Miten tyttärenne voi?	Как ваша дочь?
 fin	rus	Molemmat nauroivat.	Оба посмеялись.
+fin	rus	Moneltako minun lento lähtee?	Во сколько вылетает мой рейс?
 fin	rus	Montako ikkunaa tässä luokassa on?	Сколько окон в этом классе?
 fin	rus	Montako kerrosta hänen talossaan on?	Сколько этажей в его доме?
 fin	rus	Moro!	Привет!
@@ -534,6 +539,7 @@ fin	rus	Neuvostoliiton kansa arvostaa suuresti urotekoasi.	Советский н
 fin	rus	Nielaisin ylpeyteni.	Я проглотил свою гордость.
 fin	rus	Niin paljon kysymyksiä ja niin vähän vastauksia.	Так много вопросов и так мало ответов.
 fin	rus	No, kerro!	Ну скажи!
+fin	rus	No, kyllä, mutta itse asiassa ei.	Ну да, но вообще-то нет.
 fin	rus	No niin, Tomi. Odotan.	Ну, Том. Я жду.
 fin	rus	Nousen sängystä aina kello 6:30.	Я всегда встаю в полседьмого.
 fin	rus	Nyt kuuntelette minua tarkkaan!	А теперь слушайте меня внимательно!
@@ -604,6 +610,7 @@ fin	rus	Oli pimeää.	Было темно.
 fin	rus	On ihmisiä, jotka haluavat muuttaa perustuslakia.	Есть люди, которые хотят изменить Конституцию.
 fin	rus	Onko hotellissa kukkakauppa?	В гостинице есть цветочный магазин?
 fin	rus	Onko koe tänään?	Экзамен будет сегодня?
+fin	rus	Onko majoneesi soitin?	А майонез - это инструмент?
 fin	rus	Onko tämä paikka turvallinen?	Это место безопасное?
 fin	rus	Onko teillä perhettä?	У вас есть семья?
 fin	rus	Onko teillä työkokemusta?	У Вас есть опыт работы?
@@ -654,6 +661,7 @@ fin	rus	Pitääkö Tomi työstään?	Тому нравится его работ
 fin	rus	Pitäkää kengät jalassa.	Не снимайте ботинки.
 fin	rus	Pitäkää silmällä matkatavaroitanne.	Следите за своим багажом.
 fin	rus	Pitele sitä molemmin käsin.	Удерживай его двумя руками.
+fin	rus	Planeettamme on sairas.	Наша планета больна.
 fin	rus	Poikani ei osaa vielä laskea.	Мой сын еще не умеет считать.
 fin	rus	Pojalla on sanomalehti.	У мальчика газета.
 fin	rus	Pötyä!	Ерунда!
@@ -670,6 +678,7 @@ fin	rus	Pyysin Marya treffeille.	Я пригласил Мэри на свида�
 fin	rus	Radio ei toimi.	Радиоприёмник не работает.
 fin	rus	Raha on hyvä renki, mutta huono isäntä.	Деньги - хорошие слуги, но плохие хозяева.
 fin	rus	Rakastan partaasi.	Я обожаю твою бороду.
+fin	rus	Ranska ei ole ainoa kieli, jota Tom puhuu, vaan ainoa kieli, josta hän puhuu.	Французский — не единственный язык, на котором Том говорит, но единственный, о котором он говорит.
 fin	rus	Ranska on vaikea kieli.	Французский сложен.
 fin	rus	Rikoitte sääntöjä.	Вы нарушили правила.
 fin	rus	Rikollinen antautui.	Преступник сдался.
@@ -970,6 +979,7 @@ fin	rus	Vanhempani ovat eronneet.	Мои родители в разводе.
 fin	rus	Vastauksena tiedusteluunne tarjoamme teille viiden prosentin alennusta tästä tuotteesta.	В ответ на ваш запрос мы предлагаем вам пятипроцентную скидку на этот товар.
 fin	rus	Veljet!	Братья!
 fin	rus	Venäjällä on kaksi vitsausta - tiet ja tomppelit.	В России две беды — дороги и дураки.
+fin	rus	Venäläinen sotalaiva, painu vittuun!	Русский военный корабль, иди нахуй.
 fin	rus	Vesi muuttui jääksi.	Вода замерзла.
 fin	rus	Vesi muuttui jääksi.	Вода превратилась в лед.
 fin	rus	Vietin kolme kuukautta Australiassa.	Я провёл в Австралии три месяца.

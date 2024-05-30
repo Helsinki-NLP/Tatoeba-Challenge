@@ -19,10 +19,10 @@ eng	tat	And why would I do that?	Һәм никләремә мин моны эш�
 eng	tat	Angels have two wings; the Devil has a tail.	Фәрештә - пар канатлы, шайтан - бер койрыклы.
 eng	tat	Answer the question.	Сорауга җавап бир.
 eng	tat	Any day would be alright with me.	Минем өчен теләсә кайсы көн күңелле.
-eng	tat_Arab	God willing...	...الله بیرسه
-eng	tat_Arab	God willing...	...تڭری قوشسه
-eng	tat_Arab	I want you.	.سنی ایستی
-eng	tat_Arab	I want you.	.سِنی اۊنیم
+eng	tat	God willing...	...الله بیرسه
+eng	tat	God willing...	...تڭری قوشسه
+eng	tat	I want you.	.سِنی اۊنیم
+eng	tat	I want you.	.سنی ایستی
 eng	tat	A red rose means love.	Кызыл роза – сөю билгесе.
 eng	tat	Are these flowers real?	Бу чәчәкләр чынмы?
 eng	tat	Are you able to swim?	Йөзә беләсеңме?
@@ -602,8 +602,8 @@ eng	tat	I want to move to Russia, the very Russia that is shown on TV ...	Мин
 eng	tat	I want to write a book.	Китап язарга җыенам.
 eng	tat	I want you.	Сине өним.
 eng	tat	I was afraid of looking stupid.	Юләрсыман булып күренүдән курыктым.
-eng	tat	I was happy there.	Бу юлы миңа бәхет елмайды.
 eng	tat	I was happy there.	Бу юлы мин бәхеткә тарыдым.
+eng	tat	I was happy there.	Бу юлы миңа бәхет елмайды.
 eng	tat	I wasn't alone.	Берүзем генә түгел идем.
 eng	tat	I wasn't alone.	Ялгыз түгел идем.
 eng	tat	I wish I was in Boston.	Бостонда булсам иде дип хыялландым.
@@ -621,186 +621,186 @@ eng	tat	Just relax and have fun.	Йомшарып китеп ләззәтлән�
 eng	tat	Ken has two cats.	Кенның ике мәчесе бар.
 eng	tat	Kerry: "Crimea in exchange for Siberia!"	Керри: "Кырым - сезнеке, Себер - безнеке!"
 eng	tat	Kim and I are the same age.	Без Ким белән яшьтəшләр.
-eng	tat_Latn	A big ship needs a big sea.	Olı qorabqa — zur diñgez.
-eng	tat_Latn	A calm sea does not make a skilled sailor.	Tın diñgezdä diñgezçe ostarıp kitä almıy.
-eng	tat_Latn	A god that can be understood is not a god.	Añlayışlı alla alla tügel inde ul.
-eng	tat_Latn	All in a fog.	İke ut arasında.
-eng	tat_Latn	A lot of water has flowed under the bridges since.	Küpme sular aqtı, küpme ğömer uzdı.
-eng	tat_Latn	A man was knocked down by a car when crossing the street, and had to be taken to the hospital.	Keşene uram arqılı çıqqanda maşina bärderde, anı xastaxanägä iltergä tieşlär ide.
-eng	tat_Latn	And now, looking back on the experience, I really learned a lot.	Läkin xäzer, älege täcribäne iskä alğanda, üzemneñ küp närsälärgä öyrängänemne añlıym.
-eng	tat_Latn	And the rocket’s red glare, the bomb’s bursting in air, gave proof through the night that our flag was still there.	Bombalar şartladı, raketalar yandı, – ä bayraq tön buyı bezneñ safta qaldı.
-eng	tat_Latn	Any day would be alright with me.	Minem öçen teläsä qaysı kön küñelle.
-eng	tat_Latn	Are you busy?	Eşegez küpme?
-eng	tat_Latn	Are you fucking serious?	Döres dip lığırdıysıñmı monı?
-eng	tat_Latn	Are you happy?	Sin bäxetleme?
-eng	tat_Latn	A storm in a tea-cup.	Ber qäsä suda dawıl qubaru.
-eng	tat_Latn	Australians all let us rejoice for we are young and free; we’ve golden soil and wealth for toil, our home is girt by sea; our land abounds in nature’s gifts, of beauty rich and rare; in history’s page let every stage, advance Australia Fair! In joyful strains then let us sing: “Advance Australia Fair!”	Ausraliälelär bäxetle, bez yäş häm irekle, tırış xezmät belän ilne ittek bez kürekle; cir-sularıñ – zatlı büläk, tabiğäteñ – şifa; atla, tarixıñnı äydäp, Ausraliä, alğa! Bezdän siña izge teläk: “Ausraliä, alğa!”
-eng	tat_Latn	Both French and Spanish are mother tongues of Conchita.	Frantsuz häm ispan löğätläre ikese dä — Konçitanıñ ana telläre.
-eng	tat_Latn	But his youngest daughter was so beautiful the sun itself was astonished whenever it shone on her face.	Läkin anıñ keçe qızı şulqädär güzäl bulğan: xätta qoyaş ta, anıñ yöze balqığanda, tañ qala torğan bulğan, di.
-eng	tat_Latn	By the by, that would be fine.	Süz uñayınnan, bik äybät bulır ide bu.
-eng	tat_Latn	Can you get me with you?	Mine dä alıp barasıñmı?
-eng	tat_Latn	Cold as stone.	Bozlanğan yöräk.
-eng	tat_Latn	Conchita have spoken a variety of languages from a young age.	Konçita balaçaqtan uq törle tellärdä söyläşep üste.
-eng	tat_Latn	Could you help me exchange some money?	Aqça almaştırırğa yärdäm itmässezme?
-eng	tat_Latn	Democracy is the worst form of government, except all the others that have been tried.	Demokratiä, sınap qaralğan başqa idarä alımnarın sanamasañ, iñ naçarı.
-eng	tat_Latn	Did I catch you at a bad time?	Uñaysızraq waqıtqa turı kildemme?
-eng	tat_Latn	Does it suit you?	Bu Sezneñ öçen qulaymı?
-eng	tat_Latn	Don't call it a day just because the road's blocked.	Yullarda tığınlıq dip, hiç tuqtama.
-eng	tat_Latn	Don't throw it away just because it's broken.	Watıq dıep, bernärsäne taşlama.
-eng	tat_Latn	Do you want to meet tomorrow?	İrtägä küreşäse kilerseñme?
-eng	tat_Latn	Esperanto is the language of love.	Esperanto - mäxäbbät tele.
-eng	tat_Latn	Fair does!	Bertigez bulsın!
-eng	tat_Latn	Forgive me!	Mine kiçer!
-eng	tat_Latn	For göbädiä you need dry red-cottage cheese (qort), rice, raisins, eggs and butter.	Göbädiägä qızıl eremçek (qort), döge, yözem, yomırqa häm atlanmay kiräk.
-eng	tat_Latn	Gimme a look-see.	Kürsät äle.
-eng	tat_Latn	Give my best regards to your family.	Barça cämäğätegezgä minnän säläm äytegez.
-eng	tat_Latn	Göbädiä, çäkçäk, qıstıbıy and öçpoçmaq are magnificent Tatar dishes.	Göbädiä, çäkçäk, qıstıbıy häm öçpoçmaq — iñ tämle tatar milli rizıqları.
-eng	tat_Latn	God willing...	Allah birsä...
-eng	tat_Latn	God willing...	Täñre quşsa...
-eng	tat_Latn	Happy International Women's Day!	Xalıqara xatın-qızlar köne qotlı bulsın!
-eng	tat_Latn	Have a face like thunder.	Yöze qap-qara kiselde.
-eng	tat_Latn	Having been raised in multilingual and multicultural environments, languages are definitely her thing.	Küptelle häm küpmädäniätle moxittä üskängä kürä, tellärne öyränü anıñ iñ yaratqan şöğele.
-eng	tat_Latn	He can be no companion to any human being!	Ul bit berkemneñ dä berektäşe bula almıy!
-eng	tat_Latn	He has his head in the clouds.	Başında cil uynıy.
-eng	tat_Latn	Help me!	Kümäk it!
-eng	tat_Latn	Help me!	Yardäm it!
-eng	tat_Latn	He spoke highly of you.	Ul sine maqtadı.
-eng	tat_Latn	He wants to get a new dictionary.	Ul yaña süzlek satıp alırğa teli.
-eng	tat_Latn	How can someone so rich be unhappy?	Şundıy bay keşe niçek bäxetsez bula ala ikän?
-eng	tat_Latn	How can someone so rich be unhappy?	Şundıy bay keşe niçek bäxetsez bula alsın di?
-eng	tat_Latn	How do you like Kazan-city?	Sezgä Qazan oşadımı?
-eng	tat_Latn	I can't hear you properly, please speak more slowly.	Hiç añlap bulmıy, äkrenräk söyläsägez ide.
-eng	tat_Latn	I do not know what my weight is in kilograms. I only know it in pounds.	Awırlığımnıñ niçä kilogramm ikänen belmim. Min anı barı tik funtlarda ğına beläm.
-eng	tat_Latn	I don't know much about politics. I'm not interested in it.	Min säyäsätne añlap betermim. Miña ul qızıq ta tügel.
-eng	tat_Latn	I don't mind either way.	Başqaça bulsa da, min qarşı tügel.
-eng	tat_Latn	I don't mind either way.	Niçek kenä bulsa da, min qarşı tügel.
-eng	tat_Latn	If the tail were smarter, it would wag the dog.	Aqıllıraq bulğan bulsa, qoyrıq üze ma'maynı bolğap torır ide.
-eng	tat_Latn	If you lie down with dogs, you will get up with fleas.	Etlär belän yoqlasañ, betlär belän uyanırsıñ.
-eng	tat_Latn	I gonna button my lips so the truth don't slip.	Artığın söylämäs öçen, awızımnı yomıp totam.
-eng	tat_Latn	I gotta beep out what I really wanna shout.	Sörän salıp äytäsemne pışıldap qına söylim.
-eng	tat_Latn	I hear the service there is good and the food is delicious.	Min, biredä yaxşı xezmät kürsätälär häm rizıqları da tämle, dip işetkän idem.
-eng	tat_Latn	I'm a student.	Min uquçımın.
-eng	tat_Latn	I'm glad we've settled our business understanding.	Barısın da söyläşep kileştek, bik äybät buldı.
-eng	tat_Latn	I'm glad you could come.	Kilä aluığızğa bik şatmın.
-eng	tat_Latn	I'm not sure about the date.	Waqıtın tögälräk bilgelise ide.
-eng	tat_Latn	Indian summer.	Äbilär çuağı.
-eng	tat_Latn	In olden times when wishing still worked, there lived a king whose daughters were all beautiful.	Borın-borın zamanda, xıyallar äle tormışqa aşqanda, yäşägän, di, bulğan, di, ber patşa. Anıñ qızları barısı da bik güzäl bulğan, di.
-eng	tat_Latn	I really appreciate it.	Bu minem öçen bik qäderle.
-eng	tat_Latn	I really appreciate it.	Monıñ öçen bik räxmätlemen.
-eng	tat_Latn	I speak and understand a little English.	İnglizçä beraz añlıym häm söyläşäm dä.
-eng	tat_Latn	Is that okay with you?	Barısı da äybätme?
-eng	tat_Latn	Is that pure gold?	Bu saf altınmı?
-eng	tat_Latn	Is there a good time to chat?	Aralaşu öçen uñaylı waqıtmı?
-eng	tat_Latn	Is this a bad time to chat?	Aralaşu öçen uñaysızraq waqıtmı?
-eng	tat_Latn	Is this pure gold?	Bu saf altınmı?
-eng	tat_Latn	Is this supposed to be a car? This is a pile of junk!	Monı automobil disezme? Bu bit timer-tomır watığı ğına!
-eng	tat_Latn	Is Tom one of the finalists?	Tom finalğa çıqqannarnıñ berseme?
-eng	tat_Latn	It doesn't make sense.	Bu - mäğnäsezlek.
-eng	tat_Latn	It doesn't make sense.	Mäğnäsez närsä bu.
-eng	tat_Latn	It isn't death that I fear, but dying.	Ülemnän qurıqmıym, läkin üläm.
-eng	tat_Latn	It isn't worth the money they're asking for.	Alar sorağan aqçağa da tormıy bu.
-eng	tat_Latn	It is raining pitchforks.	Çiläkläp yañğır yawa.
-eng	tat_Latn	It most definitely doesn't mean that our men are kept primarily for breeding stock and procreation.	Bu, hiçşiksez, bezdä irlärne nigezdä ürçü häm näsel däwam itü öçen genä totalar digän süz tügel.
-eng	tat_Latn	It reminded me of you.	Miña sine iskä töşerde.
-eng	tat_Latn	It seems I'm falling ill.	Awırıp kitärmen, axrı.
-eng	tat_Latn	It seems I'm falling ill.	Çirläp kitärmen şikelle.
-eng	tat_Latn	It seems that Tom and Miriam's relationship is having trouble, but we really hope they work it out.	Tom belän Märyam bik ük yaxşı mönäsäbättä tügel, küräseñ, läkin bez alar tatulanışırlar äle dip ömetlänäbez.
-eng	tat_Latn	It sounds more natural.	Täbiğiyeräk yañğırıy.
-eng	tat_Latn	It was a bright cold day in April, and the clocks were striking thirteen.	Ayaz häm salqın aprel köne, säğät köndezge berne suğa ide.
-eng	tat_Latn	It was nice seeing you.	Sezneñ belän küreşüemä bik qänäğätmen.
-eng	tat_Latn	It was very enjoyable.	Bik küñelle buldı.
-eng	tat_Latn	It was very interesting talking to you.	Sezneñ belän söyläşü bik qızıqlı buldı.
-eng	tat_Latn	I understood.	Añladım.
-eng	tat_Latn	I understood.	Fähemlädem.
-eng	tat_Latn	I wanna have your babies.	Sinnän bala tabasım kilä.
-eng	tat_Latn	I want to invite you to dinner.	Töşke aşqa çaqırırğa röxsät itegez.
-eng	tat_Latn	I was afraid of looking stupid.	Yülärsıman bulıp kürenüdän qurıqtım.
-eng	tat_Latn	I went home.	Min öygä kittem.
-eng	tat_Latn	Just another moment!	Sabır itegez!
-eng	tat_Latn	Just another moment!	Xäzer, xäzer!
-eng	tat_Latn	Lenin was sent into Russia by the Germans in the same way that you might send a phial containing a culture of typhoid or cholera to be poured into the water supply of a great city, and it worked with amazing accuracy.	Almannar Leninnı Rusiägä tif yäki waba kul’turasın şeşägä salıp cibärgän kebek ozatqannar, häm sez monı eşläsägez, näticäse näq şundıy uq bulır ide.
-eng	tat_Latn	Like a bolt from the blue.	Ayaz könne yäşen suqtı.
-eng	tat_Latn	Like lightning.	Yäşen tizlege belän.
-eng	tat_Latn	Live in the moment, live in eternity!	Ber mizgeldä dä, mäñgelektä dä yäşä!
-eng	tat_Latn	Many peoples are using Russian swears in their speech.	Küp keşe söyläm telendä urıs sügenü süzlären qullana.
-eng	tat_Latn	May I ask your first and last names?	İsem-familiägezne äytegezçe.
-eng	tat_Latn	May I thank you and say good-bye.	Räxmät äytep, Sezneñ belän xuşlaşırğa röxsät itegez.
-eng	tat_Latn	Modern music boxes accept even USB flash drives now.	Zamança muzıyka uynatqıçlarga USB tuplağıçların da totaştırıp bula.
-eng	tat_Latn	Mountains like frozen wrinkles on a sea.	Tawlar — güyä diñgez östendäge cıyırçıqlar.
-eng	tat_Latn	My first job was at a travel agency, and I didn't like it much.	Berençe eşem turistlıq şirkätendä ide, häm ul miña bik oşap betmäde.
-eng	tat_Latn	Odessa and Sebastopol are seaports on the Black Sea.	Odessa häm Sevastopol' — Qara diñgez buyındağı portlar.
-eng	tat_Latn	Oh, say, can you see, the dawn’s early light what so proudly we hailed at the twilight’s last gleaming?	Äyt äle, kürämseñ anı tañ atqanda, – bez anı danladıq kiç qoyaş batqanda?
-eng	tat_Latn	Oh, say, does that Star-spangled Banner yet wave o’er the land of the free and the home of the brave?	Äyt äle, balqıymı ul bayraq bügen dä – qıyular cirendä, azatlar ilendä?
-eng	tat_Latn	On cloud seven.	Cidençe qat kükkä aşqan.
-eng	tat_Latn	One, two, three, four, five, six, seven, eight, nine, ten.	Ber, ike, öç, dürt, biş, altı, cide, sigez, tuğız, un.
-eng	tat_Latn	On the whole human beings want to be good, but not too good and not quite all the time.	Ğomumän alğanda, keşelär yaxşı bulırğa tırışa, läkin artıq yaxşı häm härwaqıtta da tügel.
-eng	tat_Latn	Passion is destructive; if it does not destroy, it dies.	Därt cimerüçän; cimermi torğan bulsa, ul yuqqa çığa.
-eng	tat_Latn	Philosophers are accustomed to speak of the will as if it were the best-known thing in the world.	Fälsäfäçelär ixtıyar köçe turında dönyada iñ yaxşı tanıp belenä torğan närsä sıman fiker yörtergä künekkännär.
-eng	tat_Latn	Please forgive me.	Lotfän mine kiçer.
-eng	tat_Latn	Please help yourself, enjoy your meal!	Aş-sıyığız tämle bulsın, räxätlänep aşağiz!
-eng	tat_Latn	Please help yourself, enjoy your meal!	Citeşegez, tämläp aşağız!
-eng	tat_Latn	Put a smile on your face, and you'll certainly get lots of smiles back.	Yılmay, häm küp kenä cawap yılmayularına layıq bulırsıñ.
-eng	tat_Latn	Several men got angry with Tom in the bar and Tom told them he wasn't afraid to take them on.	Berniçä keşe barda Tom belän ızğışıp kitkännär ide dä, Tom alarğa, min sezdän qurıqmıym, dide.
-eng	tat_Latn	She breaks out in hives if she eats shellfish.	Äkäm-tökäm aşağanda anıñ yöze timgellänep kitä.
-eng	tat_Latn	She hates herself.	Ul üz-üzennän näfrät itä.
-eng	tat_Latn	Sitting in the sleigh of a boozer, you'll sing along his drunken songs.	Kem çanasına utırsañ, şunıñ cırın cırlarsıñ.
-eng	tat_Latn	Sitting in the sleigh of a boozer, you'll sing along his drunken songs.	Särxüş çanasına utırsañ, anıñ iserek cırın cırlarsıñ.
-eng	tat_Latn	St. Crispin is the patron saint of shoemakers because he is said to have worked as one.	İzge Krispin itekçelärneñ yaqlawçısı dip sanala: ul üze dä şul hönär iäse bulğan, di.
-eng	tat_Latn	Tatoeba: Because you can't meet enough frenchies.	Tatoeba: frantsuzlar citärlek bulmağanğa kürä.
-eng	tat_Latn	Thanks!	Räxmät!
-eng	tat_Latn	Thank you sincerely for the luxurious present.	Zatlı bülägegez öçen ixlas küñeldän räxmät.
-eng	tat_Latn	That experience guides my conviction that partnership between America and Islam must be based on what Islam is, not what it isn't. And I consider it part of my responsibility as President of the United States to fight against negative stereotypes of Islam wherever they appear.	Bu täcribä mine şuña inandırdı: İslam belän Amerika arasındağı xezmättäşlek, İslamniñ asılında bulmağannarğa tügel, İslam täşkilätendä bulğannarğa nigezlänergä tieş. Häm min, İslam turında tiskäre stereоtiplar qayda ğına barlıqqa kilsä dä, alar belän köräşüne üzemneñ Quşma Ştatlar Prezidentı bularaq cawaplılığımniñ ber öleşe dip sanıym.
-eng	tat_Latn	That's O.K. with me.	Bu minem öçen qulay.
-eng	tat_Latn	That sounds good to me.	Monı işetüe miña bik küñelle.
-eng	tat_Latn	The enemy is the gramophone mind, whether or not one agrees with the record that is being played at the moment.	Doşman — xäzerge waqıtta uynalğan närsä belän kileşügä yäki kileşmäwgä bäysez bulğan grammofon aqılı ul.
-eng	tat_Latn	The light of autumn afternoons colours the landscape in hues of yellow, orange, red, gold and brown.	Köz köne töştän soñğı yaktılıq tabiğätne sarı, äflisun, qızıl, altın häm qoñğırt töslärgä kertä.
-eng	tat_Latn	The Lone Ranger got on his horse and rode off into the sunset.	Yalğızaq ranger atqa atlandı da, könbatışqa taba kitep bardı.
-eng	tat_Latn	The Milky Way galaxy is bound in a cluster of about thirty five galaxies.	Kiek qaz yulı utız bişkä yaqın başqa galaktika belän ber yoldızlıq bulıp tora.
-eng	tat_Latn	The Mosuo men in China practice tisese which misleadingly translates as walking marriage.	Qıtaydağı moso keşeläre tisese yolasın tota, bu süzne yalğış “qunaqlıq nikaxı” dip tärcemä itälär.
-eng	tat_Latn	The ocean swells like an undulating mirror of the bowl of heaven.	Okean kük yözeneñ dulqınlanıp torğan közgese kebek qabarınqı.
-eng	tat_Latn	The party's over.	Eş bette.
-eng	tat_Latn	The party's over.	Mäcles tämam.
-eng	tat_Latn	The practice of tisese allows Mosuo women to avoid the double standard that regulates women's sexuality in other cultures.	Tisese yolası moso xatın-qızlarına başqa qul’turalarda xatın-qıznıñ censi tormışın cayğa sala torğan ikelätä standartlardan çitläşü mömkinlegen birä.
-eng	tat_Latn	The present perfect is not used with something that happened long ago.	Tämamlanğan ütkän zaman küptän ütkännärgä qarata qullanılmıy.
-eng	tat_Latn	There's no food right now.	Xäzer aşarğa berni yuq.
-eng	tat_Latn	The sky is blue.	Kük zäñgär.
-eng	tat_Latn	The Soviet Union collapsed 25 years ago.	Sovetlar Berlege yegerme biş yıl elek tarqaldı.
-eng	tat_Latn	The Soviet Union was dissolved on December 26, 1991.	Sovetlar Berlege meñ tuğız yöz tuqsan berençe yılnıñ yegerme altınçı dekabrendä yuqqa çığarıldı.
-eng	tat_Latn	The space capsule made a splashdown in the ocean.	Kapsula ğälämnän okeanğa su çäçrätep kilep töşte.
-eng	tat_Latn	They took it out into the street, and Tom let them have it. Tom put them down one by one, and the spectacle really drew a crowd.	Alar uramğa çıqtı, häm Tom anda barısınıñ da imanın uqıttı. Ul alarnı ber-ber artlı tuqmap taşladı. Älbättä, bu tamaşanı qararğa ber törkem xalıq cıyıldı.
-eng	tat_Latn	This castle is very nice.	Bu zamok bik matur.
-eng	tat_Latn	This watch is of great value.	Bu säğät bik qıymmätle.
-eng	tat_Latn	Tom and Mary have been standing in front of the mirror for an hour already.	Tom belän Mariä ber säğät inde közge qarşında basıp toralar.
-eng	tat_Latn	Tom loves to walk by the river in Whatstandwell.	Tom Whatstandwell'dağı yılğa buyında yörergä yarata.
-eng	tat_Latn	Tom surprised us all when he got up to sing.	Cırlap cibärep, Tom bezne şaqqatırdı.
-eng	tat_Latn	We all just want to be loved.	Bötenebez söyälmäk telibez.
-eng	tat_Latn	We have been accounted as sheep for slaughtering.	Bezne suyılası sarıqlarğa tiñlilär.
-eng	tat_Latn	What do you prefer?	Närsäne kübräk oşatasıñ?
-eng	tat_Latn	What do you think the weather looks like?	Sezneñçä, hawa torışı yaxşı bulırmı?
-eng	tat_Latn	What is wrong now?	Närsäse döres tügel soñ?
-eng	tat_Latn	What is wrong now?	Tağın närsäse döres tügel?
-eng	tat_Latn	What is your height in centimeters?	Sezneñ buyığız niçä santimetr?
-eng	tat_Latn	What is your height in centimeters?	Sineñ buyıñ niçä santimetr?
-eng	tat_Latn	What led to the fall of the Roman Empire?	Rum mämläkäteneñ cimerelüenä ni säbäp bulğan?
-eng	tat_Latn	What time are we meeting?	Qayçan oçraşabiz?
-eng	tat_Latn	What was his childhood nickname?	Balaçaqta anıñ quşamatı nindi ide?
-eng	tat_Latn	When are you going to pay me back the money I lent you?	Burıçqa birgän aqçalarımnı qayçan qaytarırğa cıyınasıñ?
-eng	tat_Latn	When hell freezes over.	Qızıl qar yawğaç.
-eng	tat_Latn	When Sarah decided to move to India and start a new life, she gave away all of her belongings.	Hindstanğa küçep kitep yaña tormış başlar aldınnan, Sara böten äyberlären keşegä öläşep beterde.
-eng	tat_Latn	When talking with the police, you shouldn't make up stories or lie.	Politsiä belän söyläşkändä närsäder uylap çığarmawıñ häm, ğomumän, yalğanlamawıñ xäyerleräk.
-eng	tat_Latn	When you cause problems with the wrong people, those problems will come pay you back, or come back to haunt you.	Kemgä dä bulsa yalğışıp zıyan kitergän bulsağız, şul uq zıyan, üzegezgä kire qaytıp, sezne ezärlekläyäçäk.
-eng	tat_Latn	Where are we meeting?	Qayda oçraşabız?
-eng	tat_Latn	Whose broad stripes and bright stars, thro’ the perilous fight, o’er the ramparts we watched were so gallantly streaming.	Zäñgär kük, yoldızlar – aq-qızıl iñendä, – ul bayraq cilferdime kirmän türendä?
-eng	tat_Latn	Why did Rome fall?	Rum ni säbäple tarqalğan?
-eng	tat_Latn	Yes?	Äyeme?
-eng	tat_Latn	Yes, of course, you are right.	Älbättä, Sez xaqlı.
-eng	tat_Latn	You are missing the point.	Sez noqtanı töşerep qaldırğansız.
-eng	tat_Latn	You didn't see nothing.	Bernärsä dä kürmädegez.
-eng	tat_Latn	You didn't see nothing.	Bernärsä dä kürmädeñ.
-eng	tat_Latn	You'll have to be patient a little longer.	Sez tağın beraz sabır itärgä tieşsez.
-eng	tat_Latn	You'll have to be patient a little longer.	Sin tağın beraz sabır itärgä tieşseñ.
-eng	tat_Latn	You may write in any language you want. On Tatoeba, all languages are equal.	Teläsä qaysı teldä yaza alasız. Tatoebada böten tellär bertigez.
-eng	tat_Latn	Your rage weighs heavily on me.	Sineñ yarsuıñ mine tämam izä.
+eng	tat	A big ship needs a big sea.	Olı qorabqa — zur diñgez.
+eng	tat	A calm sea does not make a skilled sailor.	Tın diñgezdä diñgezçe ostarıp kitä almıy.
+eng	tat	A god that can be understood is not a god.	Añlayışlı alla alla tügel inde ul.
+eng	tat	All in a fog.	İke ut arasında.
+eng	tat	A lot of water has flowed under the bridges since.	Küpme sular aqtı, küpme ğömer uzdı.
+eng	tat	A man was knocked down by a car when crossing the street, and had to be taken to the hospital.	Keşene uram arqılı çıqqanda maşina bärderde, anı xastaxanägä iltergä tieşlär ide.
+eng	tat	And now, looking back on the experience, I really learned a lot.	Läkin xäzer, älege täcribäne iskä alğanda, üzemneñ küp närsälärgä öyrängänemne añlıym.
+eng	tat	And the rocket’s red glare, the bomb’s bursting in air, gave proof through the night that our flag was still there.	Bombalar şartladı, raketalar yandı, – ä bayraq tön buyı bezneñ safta qaldı.
+eng	tat	Any day would be alright with me.	Minem öçen teläsä qaysı kön küñelle.
+eng	tat	Are you busy?	Eşegez küpme?
+eng	tat	Are you fucking serious?	Döres dip lığırdıysıñmı monı?
+eng	tat	Are you happy?	Sin bäxetleme?
+eng	tat	A storm in a tea-cup.	Ber qäsä suda dawıl qubaru.
+eng	tat	Australians all let us rejoice for we are young and free; we’ve golden soil and wealth for toil, our home is girt by sea; our land abounds in nature’s gifts, of beauty rich and rare; in history’s page let every stage, advance Australia Fair! In joyful strains then let us sing: “Advance Australia Fair!”	Ausraliälelär bäxetle, bez yäş häm irekle, tırış xezmät belän ilne ittek bez kürekle; cir-sularıñ – zatlı büläk, tabiğäteñ – şifa; atla, tarixıñnı äydäp, Ausraliä, alğa! Bezdän siña izge teläk: “Ausraliä, alğa!”
+eng	tat	Both French and Spanish are mother tongues of Conchita.	Frantsuz häm ispan löğätläre ikese dä — Konçitanıñ ana telläre.
+eng	tat	But his youngest daughter was so beautiful the sun itself was astonished whenever it shone on her face.	Läkin anıñ keçe qızı şulqädär güzäl bulğan: xätta qoyaş ta, anıñ yöze balqığanda, tañ qala torğan bulğan, di.
+eng	tat	By the by, that would be fine.	Süz uñayınnan, bik äybät bulır ide bu.
+eng	tat	Can you get me with you?	Mine dä alıp barasıñmı?
+eng	tat	Cold as stone.	Bozlanğan yöräk.
+eng	tat	Conchita have spoken a variety of languages from a young age.	Konçita balaçaqtan uq törle tellärdä söyläşep üste.
+eng	tat	Could you help me exchange some money?	Aqça almaştırırğa yärdäm itmässezme?
+eng	tat	Democracy is the worst form of government, except all the others that have been tried.	Demokratiä, sınap qaralğan başqa idarä alımnarın sanamasañ, iñ naçarı.
+eng	tat	Did I catch you at a bad time?	Uñaysızraq waqıtqa turı kildemme?
+eng	tat	Does it suit you?	Bu Sezneñ öçen qulaymı?
+eng	tat	Don't call it a day just because the road's blocked.	Yullarda tığınlıq dip, hiç tuqtama.
+eng	tat	Don't throw it away just because it's broken.	Watıq dıep, bernärsäne taşlama.
+eng	tat	Do you want to meet tomorrow?	İrtägä küreşäse kilerseñme?
+eng	tat	Esperanto is the language of love.	Esperanto - mäxäbbät tele.
+eng	tat	Fair does!	Bertigez bulsın!
+eng	tat	Forgive me!	Mine kiçer!
+eng	tat	For göbädiä you need dry red-cottage cheese (qort), rice, raisins, eggs and butter.	Göbädiägä qızıl eremçek (qort), döge, yözem, yomırqa häm atlanmay kiräk.
+eng	tat	Gimme a look-see.	Kürsät äle.
+eng	tat	Give my best regards to your family.	Barça cämäğätegezgä minnän säläm äytegez.
+eng	tat	Göbädiä, çäkçäk, qıstıbıy and öçpoçmaq are magnificent Tatar dishes.	Göbädiä, çäkçäk, qıstıbıy häm öçpoçmaq — iñ tämle tatar milli rizıqları.
+eng	tat	God willing...	Allah birsä...
+eng	tat	God willing...	Täñre quşsa...
+eng	tat	Happy International Women's Day!	Xalıqara xatın-qızlar köne qotlı bulsın!
+eng	tat	Have a face like thunder.	Yöze qap-qara kiselde.
+eng	tat	Having been raised in multilingual and multicultural environments, languages are definitely her thing.	Küptelle häm küpmädäniätle moxittä üskängä kürä, tellärne öyränü anıñ iñ yaratqan şöğele.
+eng	tat	He can be no companion to any human being!	Ul bit berkemneñ dä berektäşe bula almıy!
+eng	tat	He has his head in the clouds.	Başında cil uynıy.
+eng	tat	Help me!	Kümäk it!
+eng	tat	Help me!	Yardäm it!
+eng	tat	He spoke highly of you.	Ul sine maqtadı.
+eng	tat	He wants to get a new dictionary.	Ul yaña süzlek satıp alırğa teli.
+eng	tat	How can someone so rich be unhappy?	Şundıy bay keşe niçek bäxetsez bula ala ikän?
+eng	tat	How can someone so rich be unhappy?	Şundıy bay keşe niçek bäxetsez bula alsın di?
+eng	tat	How do you like Kazan-city?	Sezgä Qazan oşadımı?
+eng	tat	I can't hear you properly, please speak more slowly.	Hiç añlap bulmıy, äkrenräk söyläsägez ide.
+eng	tat	I do not know what my weight is in kilograms. I only know it in pounds.	Awırlığımnıñ niçä kilogramm ikänen belmim. Min anı barı tik funtlarda ğına beläm.
+eng	tat	I don't know much about politics. I'm not interested in it.	Min säyäsätne añlap betermim. Miña ul qızıq ta tügel.
+eng	tat	I don't mind either way.	Başqaça bulsa da, min qarşı tügel.
+eng	tat	I don't mind either way.	Niçek kenä bulsa da, min qarşı tügel.
+eng	tat	If the tail were smarter, it would wag the dog.	Aqıllıraq bulğan bulsa, qoyrıq üze ma'maynı bolğap torır ide.
+eng	tat	If you lie down with dogs, you will get up with fleas.	Etlär belän yoqlasañ, betlär belän uyanırsıñ.
+eng	tat	I gonna button my lips so the truth don't slip.	Artığın söylämäs öçen, awızımnı yomıp totam.
+eng	tat	I gotta beep out what I really wanna shout.	Sörän salıp äytäsemne pışıldap qına söylim.
+eng	tat	I hear the service there is good and the food is delicious.	Min, biredä yaxşı xezmät kürsätälär häm rizıqları da tämle, dip işetkän idem.
+eng	tat	I'm a student.	Min uquçımın.
+eng	tat	I'm glad we've settled our business understanding.	Barısın da söyläşep kileştek, bik äybät buldı.
+eng	tat	I'm glad you could come.	Kilä aluığızğa bik şatmın.
+eng	tat	I'm not sure about the date.	Waqıtın tögälräk bilgelise ide.
+eng	tat	Indian summer.	Äbilär çuağı.
+eng	tat	In olden times when wishing still worked, there lived a king whose daughters were all beautiful.	Borın-borın zamanda, xıyallar äle tormışqa aşqanda, yäşägän, di, bulğan, di, ber patşa. Anıñ qızları barısı da bik güzäl bulğan, di.
+eng	tat	I really appreciate it.	Bu minem öçen bik qäderle.
+eng	tat	I really appreciate it.	Monıñ öçen bik räxmätlemen.
+eng	tat	I speak and understand a little English.	İnglizçä beraz añlıym häm söyläşäm dä.
+eng	tat	Is that okay with you?	Barısı da äybätme?
+eng	tat	Is that pure gold?	Bu saf altınmı?
+eng	tat	Is there a good time to chat?	Aralaşu öçen uñaylı waqıtmı?
+eng	tat	Is this a bad time to chat?	Aralaşu öçen uñaysızraq waqıtmı?
+eng	tat	Is this pure gold?	Bu saf altınmı?
+eng	tat	Is this supposed to be a car? This is a pile of junk!	Monı automobil disezme? Bu bit timer-tomır watığı ğına!
+eng	tat	Is Tom one of the finalists?	Tom finalğa çıqqannarnıñ berseme?
+eng	tat	It doesn't make sense.	Bu - mäğnäsezlek.
+eng	tat	It doesn't make sense.	Mäğnäsez närsä bu.
+eng	tat	It isn't death that I fear, but dying.	Ülemnän qurıqmıym, läkin üläm.
+eng	tat	It isn't worth the money they're asking for.	Alar sorağan aqçağa da tormıy bu.
+eng	tat	It is raining pitchforks.	Çiläkläp yañğır yawa.
+eng	tat	It most definitely doesn't mean that our men are kept primarily for breeding stock and procreation.	Bu, hiçşiksez, bezdä irlärne nigezdä ürçü häm näsel däwam itü öçen genä totalar digän süz tügel.
+eng	tat	It reminded me of you.	Miña sine iskä töşerde.
+eng	tat	It seems I'm falling ill.	Awırıp kitärmen, axrı.
+eng	tat	It seems I'm falling ill.	Çirläp kitärmen şikelle.
+eng	tat	It seems that Tom and Miriam's relationship is having trouble, but we really hope they work it out.	Tom belän Märyam bik ük yaxşı mönäsäbättä tügel, küräseñ, läkin bez alar tatulanışırlar äle dip ömetlänäbez.
+eng	tat	It sounds more natural.	Täbiğiyeräk yañğırıy.
+eng	tat	It was a bright cold day in April, and the clocks were striking thirteen.	Ayaz häm salqın aprel köne, säğät köndezge berne suğa ide.
+eng	tat	It was nice seeing you.	Sezneñ belän küreşüemä bik qänäğätmen.
+eng	tat	It was very enjoyable.	Bik küñelle buldı.
+eng	tat	It was very interesting talking to you.	Sezneñ belän söyläşü bik qızıqlı buldı.
+eng	tat	I understood.	Añladım.
+eng	tat	I understood.	Fähemlädem.
+eng	tat	I wanna have your babies.	Sinnän bala tabasım kilä.
+eng	tat	I want to invite you to dinner.	Töşke aşqa çaqırırğa röxsät itegez.
+eng	tat	I was afraid of looking stupid.	Yülärsıman bulıp kürenüdän qurıqtım.
+eng	tat	I went home.	Min öygä kittem.
+eng	tat	Just another moment!	Sabır itegez!
+eng	tat	Just another moment!	Xäzer, xäzer!
+eng	tat	Lenin was sent into Russia by the Germans in the same way that you might send a phial containing a culture of typhoid or cholera to be poured into the water supply of a great city, and it worked with amazing accuracy.	Almannar Leninnı Rusiägä tif yäki waba kul’turasın şeşägä salıp cibärgän kebek ozatqannar, häm sez monı eşläsägez, näticäse näq şundıy uq bulır ide.
+eng	tat	Like a bolt from the blue.	Ayaz könne yäşen suqtı.
+eng	tat	Like lightning.	Yäşen tizlege belän.
+eng	tat	Live in the moment, live in eternity!	Ber mizgeldä dä, mäñgelektä dä yäşä!
+eng	tat	Many peoples are using Russian swears in their speech.	Küp keşe söyläm telendä urıs sügenü süzlären qullana.
+eng	tat	May I ask your first and last names?	İsem-familiägezne äytegezçe.
+eng	tat	May I thank you and say good-bye.	Räxmät äytep, Sezneñ belän xuşlaşırğa röxsät itegez.
+eng	tat	Modern music boxes accept even USB flash drives now.	Zamança muzıyka uynatqıçlarga USB tuplağıçların da totaştırıp bula.
+eng	tat	Mountains like frozen wrinkles on a sea.	Tawlar — güyä diñgez östendäge cıyırçıqlar.
+eng	tat	My first job was at a travel agency, and I didn't like it much.	Berençe eşem turistlıq şirkätendä ide, häm ul miña bik oşap betmäde.
+eng	tat	Odessa and Sebastopol are seaports on the Black Sea.	Odessa häm Sevastopol' — Qara diñgez buyındağı portlar.
+eng	tat	Oh, say, can you see, the dawn’s early light what so proudly we hailed at the twilight’s last gleaming?	Äyt äle, kürämseñ anı tañ atqanda, – bez anı danladıq kiç qoyaş batqanda?
+eng	tat	Oh, say, does that Star-spangled Banner yet wave o’er the land of the free and the home of the brave?	Äyt äle, balqıymı ul bayraq bügen dä – qıyular cirendä, azatlar ilendä?
+eng	tat	On cloud seven.	Cidençe qat kükkä aşqan.
+eng	tat	One, two, three, four, five, six, seven, eight, nine, ten.	Ber, ike, öç, dürt, biş, altı, cide, sigez, tuğız, un.
+eng	tat	On the whole human beings want to be good, but not too good and not quite all the time.	Ğomumän alğanda, keşelär yaxşı bulırğa tırışa, läkin artıq yaxşı häm härwaqıtta da tügel.
+eng	tat	Passion is destructive; if it does not destroy, it dies.	Därt cimerüçän; cimermi torğan bulsa, ul yuqqa çığa.
+eng	tat	Philosophers are accustomed to speak of the will as if it were the best-known thing in the world.	Fälsäfäçelär ixtıyar köçe turında dönyada iñ yaxşı tanıp belenä torğan närsä sıman fiker yörtergä künekkännär.
+eng	tat	Please forgive me.	Lotfän mine kiçer.
+eng	tat	Please help yourself, enjoy your meal!	Aş-sıyığız tämle bulsın, räxätlänep aşağiz!
+eng	tat	Please help yourself, enjoy your meal!	Citeşegez, tämläp aşağız!
+eng	tat	Put a smile on your face, and you'll certainly get lots of smiles back.	Yılmay, häm küp kenä cawap yılmayularına layıq bulırsıñ.
+eng	tat	Several men got angry with Tom in the bar and Tom told them he wasn't afraid to take them on.	Berniçä keşe barda Tom belän ızğışıp kitkännär ide dä, Tom alarğa, min sezdän qurıqmıym, dide.
+eng	tat	She breaks out in hives if she eats shellfish.	Äkäm-tökäm aşağanda anıñ yöze timgellänep kitä.
+eng	tat	She hates herself.	Ul üz-üzennän näfrät itä.
+eng	tat	Sitting in the sleigh of a boozer, you'll sing along his drunken songs.	Kem çanasına utırsañ, şunıñ cırın cırlarsıñ.
+eng	tat	Sitting in the sleigh of a boozer, you'll sing along his drunken songs.	Särxüş çanasına utırsañ, anıñ iserek cırın cırlarsıñ.
+eng	tat	St. Crispin is the patron saint of shoemakers because he is said to have worked as one.	İzge Krispin itekçelärneñ yaqlawçısı dip sanala: ul üze dä şul hönär iäse bulğan, di.
+eng	tat	Tatoeba: Because you can't meet enough frenchies.	Tatoeba: frantsuzlar citärlek bulmağanğa kürä.
+eng	tat	Thanks!	Räxmät!
+eng	tat	Thank you sincerely for the luxurious present.	Zatlı bülägegez öçen ixlas küñeldän räxmät.
+eng	tat	That experience guides my conviction that partnership between America and Islam must be based on what Islam is, not what it isn't. And I consider it part of my responsibility as President of the United States to fight against negative stereotypes of Islam wherever they appear.	Bu täcribä mine şuña inandırdı: İslam belän Amerika arasındağı xezmättäşlek, İslamniñ asılında bulmağannarğa tügel, İslam täşkilätendä bulğannarğa nigezlänergä tieş. Häm min, İslam turında tiskäre stereоtiplar qayda ğına barlıqqa kilsä dä, alar belän köräşüne üzemneñ Quşma Ştatlar Prezidentı bularaq cawaplılığımniñ ber öleşe dip sanıym.
+eng	tat	That's O.K. with me.	Bu minem öçen qulay.
+eng	tat	That sounds good to me.	Monı işetüe miña bik küñelle.
+eng	tat	The enemy is the gramophone mind, whether or not one agrees with the record that is being played at the moment.	Doşman — xäzerge waqıtta uynalğan närsä belän kileşügä yäki kileşmäwgä bäysez bulğan grammofon aqılı ul.
+eng	tat	The light of autumn afternoons colours the landscape in hues of yellow, orange, red, gold and brown.	Köz köne töştän soñğı yaktılıq tabiğätne sarı, äflisun, qızıl, altın häm qoñğırt töslärgä kertä.
+eng	tat	The Lone Ranger got on his horse and rode off into the sunset.	Yalğızaq ranger atqa atlandı da, könbatışqa taba kitep bardı.
+eng	tat	The Milky Way galaxy is bound in a cluster of about thirty five galaxies.	Kiek qaz yulı utız bişkä yaqın başqa galaktika belän ber yoldızlıq bulıp tora.
+eng	tat	The Mosuo men in China practice tisese which misleadingly translates as walking marriage.	Qıtaydağı moso keşeläre tisese yolasın tota, bu süzne yalğış “qunaqlıq nikaxı” dip tärcemä itälär.
+eng	tat	The ocean swells like an undulating mirror of the bowl of heaven.	Okean kük yözeneñ dulqınlanıp torğan közgese kebek qabarınqı.
+eng	tat	The party's over.	Eş bette.
+eng	tat	The party's over.	Mäcles tämam.
+eng	tat	The practice of tisese allows Mosuo women to avoid the double standard that regulates women's sexuality in other cultures.	Tisese yolası moso xatın-qızlarına başqa qul’turalarda xatın-qıznıñ censi tormışın cayğa sala torğan ikelätä standartlardan çitläşü mömkinlegen birä.
+eng	tat	The present perfect is not used with something that happened long ago.	Tämamlanğan ütkän zaman küptän ütkännärgä qarata qullanılmıy.
+eng	tat	There's no food right now.	Xäzer aşarğa berni yuq.
+eng	tat	The sky is blue.	Kük zäñgär.
+eng	tat	The Soviet Union collapsed 25 years ago.	Sovetlar Berlege yegerme biş yıl elek tarqaldı.
+eng	tat	The Soviet Union was dissolved on December 26, 1991.	Sovetlar Berlege meñ tuğız yöz tuqsan berençe yılnıñ yegerme altınçı dekabrendä yuqqa çığarıldı.
+eng	tat	The space capsule made a splashdown in the ocean.	Kapsula ğälämnän okeanğa su çäçrätep kilep töşte.
+eng	tat	They took it out into the street, and Tom let them have it. Tom put them down one by one, and the spectacle really drew a crowd.	Alar uramğa çıqtı, häm Tom anda barısınıñ da imanın uqıttı. Ul alarnı ber-ber artlı tuqmap taşladı. Älbättä, bu tamaşanı qararğa ber törkem xalıq cıyıldı.
+eng	tat	This castle is very nice.	Bu zamok bik matur.
+eng	tat	This watch is of great value.	Bu säğät bik qıymmätle.
+eng	tat	Tom and Mary have been standing in front of the mirror for an hour already.	Tom belän Mariä ber säğät inde közge qarşında basıp toralar.
+eng	tat	Tom loves to walk by the river in Whatstandwell.	Tom Whatstandwell'dağı yılğa buyında yörergä yarata.
+eng	tat	Tom surprised us all when he got up to sing.	Cırlap cibärep, Tom bezne şaqqatırdı.
+eng	tat	We all just want to be loved.	Bötenebez söyälmäk telibez.
+eng	tat	We have been accounted as sheep for slaughtering.	Bezne suyılası sarıqlarğa tiñlilär.
+eng	tat	What do you prefer?	Närsäne kübräk oşatasıñ?
+eng	tat	What do you think the weather looks like?	Sezneñçä, hawa torışı yaxşı bulırmı?
+eng	tat	What is wrong now?	Närsäse döres tügel soñ?
+eng	tat	What is wrong now?	Tağın närsäse döres tügel?
+eng	tat	What is your height in centimeters?	Sezneñ buyığız niçä santimetr?
+eng	tat	What is your height in centimeters?	Sineñ buyıñ niçä santimetr?
+eng	tat	What led to the fall of the Roman Empire?	Rum mämläkäteneñ cimerelüenä ni säbäp bulğan?
+eng	tat	What time are we meeting?	Qayçan oçraşabiz?
+eng	tat	What was his childhood nickname?	Balaçaqta anıñ quşamatı nindi ide?
+eng	tat	When are you going to pay me back the money I lent you?	Burıçqa birgän aqçalarımnı qayçan qaytarırğa cıyınasıñ?
+eng	tat	When hell freezes over.	Qızıl qar yawğaç.
+eng	tat	When Sarah decided to move to India and start a new life, she gave away all of her belongings.	Hindstanğa küçep kitep yaña tormış başlar aldınnan, Sara böten äyberlären keşegä öläşep beterde.
+eng	tat	When talking with the police, you shouldn't make up stories or lie.	Politsiä belän söyläşkändä närsäder uylap çığarmawıñ häm, ğomumän, yalğanlamawıñ xäyerleräk.
+eng	tat	When you cause problems with the wrong people, those problems will come pay you back, or come back to haunt you.	Kemgä dä bulsa yalğışıp zıyan kitergän bulsağız, şul uq zıyan, üzegezgä kire qaytıp, sezne ezärlekläyäçäk.
+eng	tat	Where are we meeting?	Qayda oçraşabız?
+eng	tat	Whose broad stripes and bright stars, thro’ the perilous fight, o’er the ramparts we watched were so gallantly streaming.	Zäñgär kük, yoldızlar – aq-qızıl iñendä, – ul bayraq cilferdime kirmän türendä?
+eng	tat	Why did Rome fall?	Rum ni säbäple tarqalğan?
+eng	tat	Yes?	Äyeme?
+eng	tat	Yes, of course, you are right.	Älbättä, Sez xaqlı.
+eng	tat	You are missing the point.	Sez noqtanı töşerep qaldırğansız.
+eng	tat	You didn't see nothing.	Bernärsä dä kürmädegez.
+eng	tat	You didn't see nothing.	Bernärsä dä kürmädeñ.
+eng	tat	You'll have to be patient a little longer.	Sez tağın beraz sabır itärgä tieşsez.
+eng	tat	You'll have to be patient a little longer.	Sin tağın beraz sabır itärgä tieşseñ.
+eng	tat	You may write in any language you want. On Tatoeba, all languages are equal.	Teläsä qaysı teldä yaza alasız. Tatoebada böten tellär bertigez.
+eng	tat	Your rage weighs heavily on me.	Sineñ yarsuıñ mine tämam izä.
 eng	tat	Lenin was sent into Russia by the Germans in the same way that you might send a phial containing a culture of typhoid or cholera to be poured into the water supply of a great city, and it worked with amazing accuracy.	Алманнар Ленинны Русиягә тиф яки ваба культурасын шешәгә салып җибәргән кебек озатканнар, һәм сез моны эшләсәгез, нәтиҗәсе нәкъ шундый ук булыр иде.
 eng	tat	Let me direct that question to Dr. Tom.	Бу сорауны доктор Томга юлларга рөхсәт итегез.
 eng	tat	Let me open this discussion.	Фикер алышуларны башлап җибәрергә рөхсәт итегез.
@@ -1254,8 +1254,8 @@ eng	tat	We have two kids.	Безнең ике балабыз бар.
 eng	tat	We knew that the teacher wouldn't be late.	Без укытучының соңга калмаячагын белдек.
 eng	tat	Welcome.	Рәхим ит!
 eng	tat	Welcome.	Рәхим итегез!
-eng	tat	Welcome.	Хуш килдегез!
 eng	tat	Welcome.	Хуш киләсез!
+eng	tat	Welcome.	Хуш килдегез!
 eng	tat	We must get rid of this foul garbage right away.	Без хәзер үк бу пычрак чүп-чарны ташларга тиешбез.
 eng	tat	We often play chess.	Без еш кына шахмат уйныйбыз.
 eng	tat	We ran all the way to the station.	Станциягә кадәр юл буе чаба-чаба бардык.

@@ -67,10 +67,13 @@ tur	uig_Arab	Bana iftira etmeyin.	ماڭا تۆھمەت قىلما.
 tur	uig_Arab	Bana kim olduğumu sordu.	مېنىڭ كىم ئىكەنلگىمنى سورىدى.
 tur	uig_Arab	Bana kitabı gönderme zahmetinde bulundu.	ئۇ ماڭا كىتاب ئەۋەتىپ بېرىپ ئاۋارىچىلىققا قالدى
 tur	uig_Arab	Bana onu vermeyin.	ماڭا ئۇنى بەرمەڭ.
+tur	uig_Arab	Bana para lazım.	ماڭا پۇل كېرەك.
+tur	uig_Arab	Bana para lazım.	ماڭا پۇل لازىم.
 tur	uig_Arab	Bana silahı ver.	ماڭا قورالنى بەر.
 tur	uig_Arab	Bana sorarsan, o biraz tuhaf.	مەندىن سورىساڭ ئۇ بىرئاز غەلىتە.
 tur	uig_Arab	Bana teşekkürün gereği yok.	ماڭا رەھمەتنىڭ زۆرۈرىتى يوق.
 tur	uig_Arab	Bana yeni bir katalog gönder.	ماڭا يېڭى بىر كاتولوگ ئەۋەت .
+tur	uig_Arab	Banka sağ tarafta.	بانكا ئوڭ تەرەپتە.
 tur	uig_Arab	Bardak süt doludur.	ئىستاكاندا سۈت لىق.
 tur	uig_Arab	Başarınızdan memnunum.	مۇۋەپپىقىيىتىڭىزدىن مەمنۇنمەن.
 tur	uig_Arab	Başın büyük belada.	بېشىڭدا چوڭ بىر بالا بار.
@@ -84,6 +87,7 @@ tur	uig_Arab	Bazen sinemaya giderim.	بەزىدە تىياتېرخانىغا ب�
 tur	uig_Arab	Bazı insanlar ay'ı bile ziyaret ettiler.	بەزى ئىنسانلار ئاينى زېيارەت قىلدى.
 tur	uig_Arab	Bazı yerlerde, insanlar açlıktan öldü.	بەزى يەرلەردە ئىنسانلار ئاچلىقتىن ئۆلدى.
 tur	uig_Arab	Beklediğim budur.	كۈتكىنىم بۇدۇر.
+tur	uig_Arab	Belçika'ya göçmeye karar kıldı.	ئۇ بېلگىيەگە كۆچۈشنى قارار قىلدى.
 tur	uig_Arab	Belki bana yardımcı olabilirsiniz?	ماڭا ياردەم قىلالىشىڭىز مۇمكىنمۇ؟
 tur	uig_Arab	Ben besleyici bir kahvaltı yedim.	مەن قۇۋۋەتلىك بىر ناشتىلىق قىلدىم.
 tur	uig_Arab	Ben bir aptalım.	مەن مۇشۇنداق دۆت.
@@ -92,6 +96,7 @@ tur	uig_Arab	Ben bir öğrenciydim.	مەن بىر ئوقۇغۇچى ئىدىم.
 tur	uig_Arab	Ben bir şey duydum.	مەن بىرنەرسىنى ئاڭلىدىم.
 tur	uig_Arab	Ben bu bilgisayarı düzeltebilir miyim?	مەنزە بۇ كوپميۇتېرنى رېمونت قىلالايمەنمۇ؟
 tur	uig_Arab	Bence bu Çinli adam Müslümana benziyor. O Kur'an dinliyor.	مېنىڭچە بۇ جۇڭگۇلۇق ئاداش مۇسۇلمان ئوخشايدۇ. ئۇ قۇرئان تىڭشاۋاتىدۇ.
+tur	uig_Arab	Bence bugünkü maçı kazanırız.	مىنىڭچە بۈگۈنكى مۇسابىقىدە بىز ئۇتۇپ چىقىمىز.
 tur	uig_Arab	Bence o gelmeyecek.	مېنىڭچە ئۇ كەلمەيدۇ.
 tur	uig_Arab	Bence o haklı.	مېنىڭچە ئۇ توغرا.
 tur	uig_Arab	Bence, o hatasızdır.	مەنچە ئۇ خاتاسىز.
@@ -114,6 +119,7 @@ tur	uig_Arab	Benimle gelin.	مېنىڭ بىلەن كېلىڭ.
 tur	uig_Arab	Benim sahip olduğumun üç katı kadar kitabı var.	ئۇنىڭ مېنىڭدىن ئۈچ ھەسسە كۆپ كىتابى بار.
 tur	uig_Arab	Benim sol kulağımda yabancı bir cisim var.	سول قۇلىقىمدا بىر غەيرى نەرسە بار.
 tur	uig_Arab	Ben İskender sayesinde Dolkun Hocayla tanıştım.	مەن ئىسكەندەر ئارقىلىق دولقۇن مۇئەللىم بىلەن تونۇشقان.
+tur	uig_Arab	Ben kendi bilgisayarımı kullanıyorum.	مەن ئۆزۈمنىڭ كومپيۇتېرىنى ئىشلىتىۋاتىمەن.
 tur	uig_Arab	Ben koşunun iyi bir egzersiz olduğunu düşünüyorum.	مەن يۈگۈرۈشنى ياخشى بىر تەنھەرىكەت دەپ ئويلايمەن.
 tur	uig_Arab	Ben meşgulüm.	مەن ئالدىراش.
 tur	uig_Arab	Ben ne yaptım?	مەن نېمە قىپتىمەن؟
@@ -185,6 +191,7 @@ tur	uig_Arab	Bob Anne ile konuşmaya çalıştı, ama yapamadı.	بوب ئانن
 tur	uig_Arab	Brian Kate'in ellerini tutuyor.	برايىن كەيتىنىڭ قوللىرىنى تۇتىۋاتىدۇ.
 tur	uig_Arab	Bu acayip.	بۇ ئاجايىپ.
 tur	uig_Arab	Bu adam dilci, o elbette bilir, tabii.	بۇ ئادەم تىلشۇناس، ئۇ ئەلۋەتتە بىلىدۇ-دە.
+tur	uig_Arab	Bu akşam geliyorum.	بۈگۈن ئاخشام كېلىمەن.
 tur	uig_Arab	Bu Arapça mı? Hayır, o Uygurca. O Çin'in kuzeybatısında konuşulur.	بۇ ئەرەبچىمۇ؟ - ياق، بۇ ئۇيغۇر تىلى، بۇ جۇڭگونىڭ غەربىي شىمالىدا سۆزلىنىدىغان تىل.
 tur	uig_Arab	Bu, babayı memnun etmeyecek.	بۇ دادامنى مەمنۇن قىلمايدۇ.
 tur	uig_Arab	Bu bardakta su var.	بۇ ئىستاكاندا سۇ بار.
@@ -202,6 +209,7 @@ tur	uig_Arab	Bu geceye ne dersin?	بۇ كېچە بولامدۇ؟
 tur	uig_Arab	Bu geçici bir heves.	بۇ ۋاقىتلىق ھەۋەس.
 tur	uig_Arab	Bugün evde kalmalısın.	بۈگۈن ئۆيدە قېلىشىڭ كېرەك.
 tur	uig_Arab	Bugün sıcak bir gün.	بۈگۈن ئىسسىق بىر كۈن.
+tur	uig_Arab	Bugün Tom'un boş günü.	بۈگۈن تومنىڭ دەم ئېلىش كۈنى.
 tur	uig_Arab	Bugünün sert gerçeklerine adapte olmalıyız.	بۈگۈنكى ئاچچىق رىئاللىقنى قوبۇل قىلىشىمىز كېرەك.
 tur	uig_Arab	Bu güzergahta hava durumu dolayısıyla uçuş durduruldu.	بۇ لىنىيەدە ھاۋا رايى سەۋەبلىك ئۈچۈش توختىلىپ قالدى.
 tur	uig_Arab	Bu hikaye gerçeklere dayanmaktadır.	بۇ ھېكايە پاكتلارغا ئاساسلانغان.
@@ -213,6 +221,7 @@ tur	uig_Arab	Bu kahverengi kravatı alacaktım.	بۇ قەھۋە رەڭلىك گ�
 tur	uig_Arab	Bu kanepe pek rahatmış, oturan kişinin kalkası gelmiyor.	بۇ سافا بەك راھەتلىك، ئولتۇرغانلا ئادەمنىڭ قوپقۇسى كەلمەيدۇ.
 tur	uig_Arab	Bu kazağı deneyebilir miyim?	بۇ مايكىنى كىيىپ باقسام بولامدۇ؟
 tur	uig_Arab	Bu kitabı ben yazdım.	بۇ كىتابنى مەن يازدىم.
+tur	uig_Arab	Bu kitabı iki yıl önce okumuştum.	بۇ كىتابنى ئىككى يىل بۇرۇن ئوقۇغان ئىدىم.
 tur	uig_Arab	Bu kitabı tercüme etmek için ne kadar süreye ihtiyacı var?	بۇ كىتابنى تەرجىمە قىلىشقا قانچىلىك ۋاقت كېتىدۇ؟
 tur	uig_Arab	Bu kitap çok güzel fotoğraflara sahip.	بۇ كىتابتا نۇرغۇن گۈزەل رەسىملەر بار.
 tur	uig_Arab	Bu kitaplar benim en iyi arkadaşlarım.	بۇ كىتابلار مېنىڭ ئەڭ ياخشى دوستلىرىم.
@@ -241,10 +250,11 @@ tur	uig_Arab	Bu sağduyu.	بۇ ئادەتتىكى ساۋات.
 tur	uig_Arab	Bu sahtedir.	بۇ ساختادۇر.
 tur	uig_Arab	Bu şapka kahverengi elbise ile uyar.	بۇ شەپكە قەھۋە رەڭگى كىيمگە ماس كېلىدۇ.
 tur	uig_Arab	Bu sefer benden kurtulamazsın.	بۇ سەپەر مەندىن قۇتۇلالمايسەن.
+tur	uig_Arab	Bu sensin!	بۇ سەن!
 tur	uig_Arab	Bu şeyi içemem.	بۇ نەرسىنى ئىچمەيمەن.
-tur	uig_Arab	Bu sığır eti yumuşak.	بۇ كالا گۆشى يۇمشاق.
 tur	uig_Arab	Bu sihirdir.	بۇ سېھىر.
 tur	uig_Arab	Bu şimdiye kadar gördüğüm en büyük kedi.	بۇ مەن ھازىرغىچە كۆرگەن ئەڭ چوڭ مۈشۈك.
+tur	uig_Arab	Bu sığır eti yumuşak.	بۇ كالا گۆشى يۇمشاق.
 tur	uig_Arab	Bu soruya cevap vermenize gerek yok.	بۇ سۇئالغا جاۋاب بېرىشىڭىزنىڭ ھاجىتى يوق.
 tur	uig_Arab	Bu tarakla saçlarımı fırçalamayı severim.	بۇ تارغاقتا چاچلىرىمنى تاراشنى ياقتۇرىمەن.
 tur	uig_Arab	Bütün gökyüzü aydınlandı ve bir patlama vardı.	پۈتكۈل ئاسمان يورۇدى ۋە بىر پارتىلاش يۈز بەردى.
@@ -304,6 +314,7 @@ tur	uig_Arab	Derse vaktinde gelmek şartıyla.	دەرسكە ۋاقتىدا كې�
 tur	uig_Arab	Derse vaktinde gelmek zorunludur.	دەرسكە ۋاقتىدا كېلىش زۆرۈر.
 tur	uig_Arab	Devam et!	داۋام قىل!
 tur	uig_Arab	Dikensiz gül olmaz.	تىكەنسىز گۈل بولماس.
+tur	uig_Arab	Dikkat edin.	دېققەت قىلىڭ
 tur	uig_Arab	Dinledim fakat hiçbir şey duymadım.	ئاڭلىدىم لىكىن ھېچبىر نەرسىنى تۇيمىدىم.
 tur	uig_Arab	Doğrudan eve geleceğini düşündüm.	سېنى ئۇدۇل ئۆيگە كېلىدۇ دەپ ئويلاپتىمەن.
 tur	uig_Arab	Doğum gününde ona bir hediye vereceğiz.	تۇغۇلغان كۈنىدە ئۇنىڭغا بىر ھەدىيە بېرىمىز.
@@ -343,10 +354,10 @@ tur	uig_Arab	Evimin önünde bir kitabevi var.	ئۆيۈمنىڭ ئالدىدا �
 tur	uig_Arab	Eviniz nerede?	ئۆيىڭىز نەدە؟
 tur	uig_Arab	Evlenelim.	ئۆيلىنەيلى.
 tur	uig_Arab	Facebook hesabımı kontrol etmeyi severim.	فايىسبۇك ھېسابىمنى يوقلاشنى ياقتۇرىمەن.
+tur	uig_Arab	Fiyat düşündüğümden daha da fazla düştü.	باھاسى ئويلىغىنىمدىنمۇ بەكراق چۈشتى.
 tur	uig_Arab	Fırsatların geçip gitmesine izin vermeyin.	پۇرسەتلەرنىڭ قېچىپ كېتىشىگە ئىزنى بەرمەيمەن..
 tur	uig_Arab	Fırtına bir elektrik kesintisine neden oldu.	بوران-چاپقۇن بىرتوك توختاشنى پەيدا قىلدى.
 tur	uig_Arab	Fırtınadan dolayı elektriğimiz kesildi.	بوران-چاپقۇن سەۋەبلىك توكىمىز كېسىلدى.
-tur	uig_Arab	Fiyat düşündüğümden daha da fazla düştü.	باھاسى ئويلىغىنىمدىنمۇ بەكراق چۈشتى.
 tur	uig_Arab	Franklin Roosevelt 1933'te başkan oldu.	فرانكىلىن روزۋېلىت 1933-يىلى پىرىزدېنت بولغان.
 tur	uig_Arab	Fransa'nın toplam nüfusu nedir?	فرانسىيەنىڭ ئومۇمىي نوپۇسى قانچىلىك؟
 tur	uig_Arab	Fransızca bize kolay değil.	فىرانسۇزچە بىزگە ئاسان ئەمەس.
@@ -431,8 +442,8 @@ tur	uig_Arab	İngiliz değilim.	مەن ئىنگىلىز ئەمەس.
 tur	uig_Arab	İnsanlar çocuğa güldü.	كىشىلەر بالىغا قاراپ كۈلدى.
 tur	uig_Arab	İnsan, sözünden dönmemeli.	ئىنسان سۆزىدىن قايتماس.
 tur	uig_Arab	İş için bu firmaya başvuruda bulunacağım.	بۇ شىركەتكە ئىشقا ئورۇنلىشىش ئىلتىماسى سۇنىمەن.
-tur	uig_Arab	Işığın sesten daha hızlı olduğunu nereden biliyorsun?	نۇرنىڭ ئاۋازدىن تېز بولىدىغنىنى قانداق بىلىسەن؟
 tur	uig_Arab	İşi yapmanıza yardım edeyim.	ئىشنى قىلىشىڭىزغا ياردەملىشەي.
+tur	uig_Arab	Işığın sesten daha hızlı olduğunu nereden biliyorsun?	نۇرنىڭ ئاۋازدىن تېز بولىدىغنىنى قانداق بىلىسەن؟
 tur	uig_Arab	İş mi şimdi bu yaptığın?	ھازىر بۇ قىلغىنىڭ ئىشمۇ؟
 tur	uig_Arab	İşte değişim.	بۇ ئاشقان پۇل.
 tur	uig_Arab	İstediğin kadar konuşabilirsin.	خالىغىنىڭدەك سۆزلىشەلەيسەن.
@@ -456,6 +467,7 @@ tur	uig_Arab	Kaç elma?	قانچە ئالما؟
 tur	uig_Arab	Kaç elma?	نەچچە ئالما؟
 tur	uig_Arab	Kaçın!	قېچىڭ !
 tur	uig_Arab	Kadınlar fiziksel olarak erkeklerden daha güçsüzdür.	ئاياللار فىزىكىلىق جەھەتتە ئەرلەردىن ئاجىز.
+tur	uig_Arab	Kapıyı kim açtı?	ئىشىكنى كىم ئاچتى؟
 tur	uig_Arab	Kapıyı maviye boyadı.	ئىشىكنى كۆك سىرلىدى.
 tur	uig_Arab	Karda kayboldum.	مەن قاردا ئېزىپ قالدىم.
 tur	uig_Arab	Karısını sevindirmek umuduyla, Tom ona güzel elmas bir gerdanlık aldı.	ئايلىنى خۇش قىلىش ئۈچۈن توم ئۇنىڭغا بىر ئالماس زەنجىر سېتىۋالدى.
@@ -473,10 +485,10 @@ tur	uig_Arab	Ken, birçok Japon şarkılarını ezbere öğrendi.	كېن بىر 
 tur	uig_Arab	Kendi başımızayız.	ھەممىمىز ئۆز ئالدىمىزغا.
 tur	uig_Arab	Ken ile Tom'un arasında, kim kimden hızlı koşuyor?	كەن بىلەن تونىنىڭ ئارىسىدا كىم كىمدىن ئىتتىك يۈگۈرىدۇ؟
 tur	uig_Arab	Kimi diyorsunuz?	كىمنى دەۋاتىسىز؟
-tur	uig_Arab	Kıskancın tekisin.	ھەسەتخور بولساڭ يالغۇز قالىسەن.
 tur	uig_Arab	Kitabı okumak için zaman bulamıyorum.	كىتابنى ئوقۇش ئۈچۈن ۋاقىت چىقىرالمايمەن.
 tur	uig_Arab	Kitabı okumayı bitirdin mi?	كىتابنى ئوقۇپ تۈگەتتىڭمۇ؟
 tur	uig_Arab	Kitap okumayı gerçekten çok severim.	كىتاب ئوقۇشقا بەك ئامراقمەن.
+tur	uig_Arab	Kıskancın tekisin.	ھەسەتخور بولساڭ يالغۇز قالىسەن.
 tur	uig_Arab	Kız kardeşim oyuncak bir bebekle oynuyor.	قىز قېرىندىشىم بىر قورچاق ئويناۋاتىدۇ.
 tur	uig_Arab	Klasik müzik dinlemek ile öğrenmek birbirini tamamlar.	كلاسسىك مۇزىكا ئاڭلاش بىلەن ئۆگىنىش بىر-بىرىنى تولۇقلايدۇ.
 tur	uig_Arab	Kocasını yasal olarak boşadı.	ئۇ ئېرىدىن قانۇنلۇق ئاجىراشتى.
@@ -535,6 +547,7 @@ tur	uig_Arab	Ne aldın?	نېمە ئالدىڭ؟
 tur	uig_Arab	Ne biliyorsun?	نېمە بىلسەن؟
 tur	uig_Arab	Neden Fransızca çalışıyorsun?	نېمىشقا فرانسۇزچە ئۆگىنىسەن؟
 tur	uig_Arab	Ne gördün?	نېمىنى كۆردۈڭ؟
+tur	uig_Arab	Ne iş yapıyorsunuz?	نېمە ئىش قىلىسىز؟
 tur	uig_Arab	Ne kadar uzağa gidiyoruz?	قانچىلىك يىراقلىققا كېتىۋاتىمىز؟
 tur	uig_Arab	Ne olursa olsun, ben hiç kimseye zarar vermedim.	ئىشقىلىپ، مەن ھېچكىمگە زىيان يەتكۈزمىدىم.
 tur	uig_Arab	Neredeyse her ailede televizyon var.	ھەممە ئائىلىنىڭ دېگۈدەك تېلېۋىزورى بار.
@@ -631,6 +644,7 @@ tur	uig_Arab	Okulu sevmiyorum.	مەكتەپنى ياقتۇرمايمەن.
 tur	uig_Arab	Okumadım.	ئوقۇمىدىم.
 tur	uig_Arab	O Kur'an'ın İbranice çevirisini bir haftadan daha az sürede okudu.	ئۇ قۇرئاننىڭ ئىبرايچە تەرجىمىسىنى بىر ھەپتىن ئازراق ئوقۇدى.
 tur	uig_Arab	Öldürülme.	ئۆلتۈرۈلمە.
+tur	uig_Arab	Ölemezsin.	سەن ئۆلسەڭ بولمايدۇ.
 tur	uig_Arab	Olur, bugün hizmeti şuraya kadar yapayım.	بولدىلا، بۈگۈن خىزمەتنى مۇشۇ يەرگىچە قىلاي.
 tur	uig_Arab	O meşgul.	ئۇ ئالدىراش.
 tur	uig_Arab	O, muhteşem görünümlü bir şapka takıyor.	ئۇ كۆرۈنىشى ئېسىل بىر شەپكە كىيىدۇ.
@@ -658,9 +672,9 @@ tur	uig_Arab	Onlar burada mükemmel yemekler sunmaktadırlar.	ئۇلار بۇي�
 tur	uig_Arab	Onlar hareket edemezler.	ئۇلار ھەرىكەت قىلالمايدۇ.
 tur	uig_Arab	Onlar havalı olmadan önce de onları beğeniyordum.	ئۇلار مودا بولغاندىن بۇرۇنمۇ ئۇلارنى ياخشى كۆرەتتىم.
 tur	uig_Arab	Onlar horozun ötmesiyle yola çıktı.	ئۇلار توخۇ چىللىغاندىلا يولغا چىقتى.
+tur	uig_Arab	Onlar işlerini bitirdiler.	ئۇلار ئىشلىرىنى پۈتتۈردى.
 tur	uig_Arab	Onların ana dili Fransızca.	ئۇلارنىڭ ئانا تىلى فرانسۇزچە.
 tur	uig_Arab	Onların ekmeği var.	ئۇلاردا نان بار.
-tur	uig_Arab	Onlar işlerini bitirdiler.	ئۇلار ئىشلىرىنى پۈتتۈردى.
 tur	uig_Arab	Onlar kendilerinin boşanması hakkındaki iftiraların tamamen yalan olduğunu beyan ettiler. Fakat rüzgar esmezse ağaç devrilmez, değil mi?	ئۇلار ئۆزلىرىنىڭ نىكاھدىن ئاجرىشىشى توغرىسىدىكى ئىغۋا تامامەن يالغان دەپ بايانات ئېلان قىلدى. بىراق، شامال چىقمىسا، دەرەخ لىڭشىمايدۇ ئەمەسمۇ؟
 tur	uig_Arab	Onlar nasıl öğrenirdi?	ئۇلار قانداق ئۆگەنەردى؟
 tur	uig_Arab	Onlar nerede?	ئۇلار نەدە؟
@@ -706,6 +720,7 @@ tur	uig_Arab	Onun yardımını reddetmekle hata yaptın.	ئۇنىڭ ياردىم
 tur	uig_Arab	Onu sadece adıyla biliyorum.	ئۇنىڭ ئېتىنىلا بىلىمەن.
 tur	uig_Arab	Onu tanımıyoruz.	تونۇمايمىز.
 tur	uig_Arab	Onu tanıyor muyum?	ئۇنى تونۇيمەنمۇ ؟
+tur	uig_Arab	O, ölümden korkar mı?	ئۇ ئۆلۈمدىن قورقامدۇ؟
 tur	uig_Arab	O, ona mutlu olup olmadığını sordu.	ئۇ ئۇنىڭىدىن خۇشال بولغان بولمىغانلىقىنى سورىدى.
 tur	uig_Arab	O, onu daha çok çalışması için teşvik etti.	ئۇ ئۇنى تېخىمۇ تىرىشىقا دەۋەت قىلدى.
 tur	uig_Arab	O, onu derhal tanıdı.	ئۇ ئۇنى دەرھال تونىدى.
@@ -727,9 +742,9 @@ tur	uig_Arab	Orman, üç gündür alevler içindeydi.	ئورمان ئۈچ كۈن
 tur	uig_Arab	O sana herhangi bir zarar vermez.	ئۇ ساڭا ھېچقانداق زەرەر يەتكۈزمەيدۇ.
 tur	uig_Arab	O, sana kitabını ödünç verecek.	ئۇ ساڭا كىتابنى ئارىيەت بېرىدۇ.
 tur	uig_Arab	O şarkı söyleyemez.	ئۇ ناخشا ئېيتالمايدۇ.
-tur	uig_Arab	O sık sık okula yürür.	ئۇ دائىم مەكتەپكە پىيادە بارىدۇ.
 tur	uig_Arab	O, şimdi ev ödevini yapıyor.	ئۇ ئەمدى ئائىلە تاپشۇرۇقى ئىشلەۋاتىدۇ.
 tur	uig_Arab	O şimdi gelecek yıl yurt dışında eğitim yapmayı planlıyor.	ئۇ ئەمدى كېلەر يىل چەتئەلدە ئوقۇشنى پىلانلاۋاتىدۇ.
+tur	uig_Arab	O sık sık okula yürür.	ئۇ دائىم مەكتەپكە پىيادە بارىدۇ.
 tur	uig_Arab	O, sırrı bildiğini itiraf ediyor.	ئۇ سىرنى بىلىدىغانلىقىنى ئىتىراپ قىلدى.
 tur	uig_Arab	O tamamen başka bir hikaye.	ئۇ تامامەن باشقا بىر ھېكايە.
 tur	uig_Arab	O tek başına seyahat etmeyi sever.	ئۇ يالغۇز ساياھەت قىلىشنى ياخشى كۆرۈدۇ.
@@ -746,6 +761,7 @@ tur	uig_Arab	O yüksek sıçrayabilir.	ئۇ ئېگىزگە سەكىرىيەلە�
 tur	uig_Arab	O zamandan önce Avrupayı sık sık ziyaret etti.	ئۇ ۋاقتتىن بۇرۇن ئۇ ياۋرۇپانى داۋاملىق زىيارەت قىلدى.
 tur	uig_Arab	Panik yapmayın!	ساراڭ بولماڭ!
 tur	uig_Arab	Paranı boşa harcama.	پۇلنى ئىسراپ قىلما.
+tur	uig_Arab	Paran kendinde kalsın, benim alasım yok.	پۇلۇڭنى ئۆزۈڭدە قالسۇن، مىنىڭ ئالغۇم يوق.
 tur	uig_Arab	Paris'e çalışmaya gitmeden önce Fransızcamı tazelemeliyim.	پارىژغا بېرىپ ئىشلەشتىن بۇرۇن فرانسۇزچامنى ياخشىلىشىم كېرەك.
 tur	uig_Arab	Paris'i bir kez ziyaret ettim.	پارىژنى بىر قېتىم زېيارەت قىلدىم.
 tur	uig_Arab	Paris'te asla bulunmadın, değil mi?	ئەسلا پارىژدا بولۇپ باقمىدىڭ ،توغرىمۇ؟
@@ -767,6 +783,7 @@ tur	uig_Arab	Plâjdayım.	مەن ساھىلدا.
 tur	uig_Arab	Problemi çözmek on dakikasını aldı.	مەسلىنى ھەل قىلىش ئۇنىڭ 10مېنۇت ۋاقتىنى ئالدى.
 tur	uig_Arab	Radyo dinlemiyordum.	رادىيو ئاڭلاۋاتمايتتىم.
 tur	uig_Arab	Resmini nerede çektirdin?	رەسىمگە قەيەردە چۈشتۈڭ؟
+tur	uig_Arab	Restoran ne zaman açılıyor?	ئاشخانا قاچان ئېچىلىدۇ؟
 tur	uig_Arab	Rusya çok büyük bir ülkedir.	رۇسىيە چوڭ بىر دۆلەت.
 tur	uig_Arab	Rüzgar güçlendi.	شامال كۈچەيدى.
 tur	uig_Arab	Rüzgar sert esiyor.	شامال كۈچلۈك چىقىۋاتىدۇ.
@@ -792,8 +809,10 @@ tur	uig_Arab	Şans değildi.	تەلەي ئەمەستى.
 tur	uig_Arab	Saygın bir insan bulmak bir piyango kazanmaktan daha zor.	ياخشى بىر ئادەمنى تاپماق خۇددى لاتارىيەدە مۇكاپاتقا ئېرىشكەندىنمۇ تەس.
 tur	uig_Arab	Seçkin bilim adamları arasında huzursuz hissetti.	داڭلىق ئالىملار ئارىسىدا ئۇ ئۆزىنى ئوڭايسىز ھېس قىلدى.
 tur	uig_Arab	Şekspir'in hakkında az şey bilirim.	شېكىسپىر ھەققىدە ئاز نەرسە بىلىمەن.
+tur	uig_Arab	Selam verin.	سالام بىرىڭ
 tur	uig_Arab	Sen beni beğenip bakmadın ya.	سەن مېنى ياخشى كۆرۈپ باقماپسەن-دە.
 tur	uig_Arab	Sen benim en iyi arkadaşımsın.	سەن مېنىڭ ئەڭ ياخشى دوستۇمسەن.
+tur	uig_Arab	Sen beni sevsen de, sevmesen de ben seni seviyorum.	سەن مېنى سۆيسەڭمۇ سۆيمىسەڭمۇ مەن سېنى سۆيىمەن.
 tur	uig_Arab	Sen bir insansın.	سەن بىر ئادەمسەن.
 tur	uig_Arab	Sen en iyisi yat.	سەن ئەڭ ياخشىسى ھازىر ئوخلا.
 tur	uig_Arab	Seni nasıl görebilirim?	سېنى قانداق كۆرەلەيمەن؟
@@ -803,12 +822,10 @@ tur	uig_Arab	Senin şimdi buraya gelmene karar verdiren nedir?	نېمە سېنى
 tur	uig_Arab	Seni yakaladım.	سېنى تۇتتۇم.
 tur	uig_Arab	Sen onu son gördüğünde o daha minik bir bebekti.	سەن ئۇنى ئاخىرقى قېتىم كۆرگىنىڭدە ئۇ كىچىك بىر بوۋاق ئىدى .
 tur	uig_Arab	Sert ama adilsin.	سەن قوپال ئەمما ئادىل.
-tur	uig_Arab	Sıcaklığı umursamıyorum.	قىزىققا پەرۋا قىلمايمەن.
 tur	uig_Arab	Sigorta buradaki her şeyi kapsar.	سۇغۇرتا بۇ يەردىكى ھەممەنەرسىنى ئۆز ئىچىگە ئالىدۇ.
-tur	uig_Arab	Sık sık gider misiniz?	دائىم بارامسىز؟
 tur	uig_Arab	Şimdi mecalim yok da, sizinkine gitmem mümkün değil.	ھازىر مىجەزىم يوق-تە، سىزنىڭكىگە بارالىشىم مۇمكىن ئەمەس.
 tur	uig_Arab	Şimdi ne var?	ئەمدى نېمە بار؟
-tur	uig_Arab	Sırbistan'daki trenler aşırı yavaş.	سەربىيەنىڭكى پويىزلار بەكلا ئاستا.
+tur	uig_Arab	Şimdi Tokyo da yaşıyorum	ھازىر توكيودا تۇرىمەن.
 tur	uig_Arab	Siz benim kuşumu görmediniz mi?	سىز مېنىڭ قۇشۇمنى كۆرمىدىڭىزمۇ؟
 tur	uig_Arab	"Siz bir öğretmen misiniz?" "Evet, ben bir öğretmenim."	سىز ئوقۇتقۇچىمۇ ؟ ھەئە،مەن ئوقۇتقۇچى.
 tur	uig_Arab	Siz, biz yerken yemek yemediniz. Karnınız açtır, elbette.	سىز ئەتىگەندە تاماق يېمىدىڭىز، قورسىقىڭىز ئەلۋەتتە ئاچتى-دە.
@@ -818,11 +835,15 @@ tur	uig_Arab	Siz bugün telefon ettiniz mi?", "Evet, ama toplam bir kere."	-- س
 tur	uig_Arab	Size ne içirebilirim?	سىز نېمە ئىچىسىز؟
 tur	uig_Arab	Sizi arayacağız.	سىزنى چاقىرىمىز.
 tur	uig_Arab	Sizin için bu çantayı alırım.	سىزگە بۇ سومكىنى ئالىمەن.
+tur	uig_Arab	Sizin işiniz ne?	سىزنىڭ كەسپىڭىز نېمە؟
 tur	uig_Arab	Sizin tehlikede olmadığınızı öğrenmek maksadıyla telefon açtı.	سىزنىڭ بىخەتەر بولغانلىقىڭىزنى ئۇقۇش مەقسىتىدە تېلېفون ئۇرۇپ قالدىدە.
 tur	uig_Arab	Siz lise öğrencisi misiniz?	سىز تولۇق ئوتتۇرىنىڭ ئوقۇغۇچىسىمۇ؟
 tur	uig_Arab	Siz malları gelip alsanız da olur, biz size ulaştırıp versek de olur.	سىز ماللارنى كېلىپ ئالسىڭىزمۇ بولىدۇ، بىز سىزنىڭكىگە يەتكۈزۈپ بەرسەكمۇ بولىدۇ.
 tur	uig_Arab	Siz nerelisiniz?	سىز قەيەرلىك؟
 tur	uig_Arab	Siz oldukça iyi biliyorsunuz ki, onların sözünüzü dinleyesi gelmiyor ve de sözünüzü dinlemiyorlar. Duymayan kulağa tavsiye vermenin ne faydası var?	سىز ئوبدان بىلىسىزغۇ، ئۇلارنىڭ گېپىڭىزنى ئاڭلىغۇسى بولمىغاچقا گېپىڭىزنى ئاڭلىمايدۇ. كالىنىڭ قۇلىقىغا ساتار چېلىشنىڭ نېمە پايدىسى؟
+tur	uig_Arab	Sıcaklığı umursamıyorum.	قىزىققا پەرۋا قىلمايمەن.
+tur	uig_Arab	Sık sık gider misiniz?	دائىم بارامسىز؟
+tur	uig_Arab	Sırbistan'daki trenler aşırı yavaş.	سەربىيەنىڭكى پويىزلار بەكلا ئاستا.
 tur	uig_Arab	Soldaki figür resmin bütünlüğünü bozuyor.	سولدىكى تەسۋىر رەسىمنىڭ پۈتۈنلىگىنى بۇزىدۇ.
 tur	uig_Arab	Sol elinde ne varsa bana göster.	سول قولۇڭدا نېمە بولسا ماڭا كۆرسەت.
 tur	uig_Arab	Sol tarafına uzan.	سول تەرىپىڭنى بېسىپ يات.
@@ -895,6 +916,7 @@ tur	uig_Arab	Tom, Mary'nin John'la birlikte çıkması fikrini sevmedi.	توم �
 tur	uig_Arab	Tom Mary'nin ona davranma tarzını sevmiyor.	توم مارىينىڭ ئۇنىڭغا قىلغان مۇئامىلىسىنى ياقتۇرمايدۇ.
 tur	uig_Arab	Tom Mary'ye araba sürmeyi öğretmede hatalı bir şey görmüyor.	توم مارىيغا ماشىنا ھەيدەشنى ئۆگەتكەندە ھېچ خاتالىقنى كۆرمىدى.
 tur	uig_Arab	Tom Mary'ye üç yüz dolar borçlu.	توم مارىيغا 300دوللار قەرز.
+tur	uig_Arab	Tom müsabakada galip geldi.	توم مۇسابىقىدە غەلىبە قىلدى.
 tur	uig_Arab	Tom ne kadar hızlı çalışıyor!	توم نەقەدەر تېز ئىشلەيدۇ!
 tur	uig_Arab	Tom neredeyse vazgeçti.	توم ھەممىدىن ۋاز كەچتى.
 tur	uig_Arab	Tom neyin yanlış gittiğini bilmiyor.	توم نېمىنىڭ خاتا بولغىنىنى بىلمەيدۇ.
@@ -981,6 +1003,7 @@ tur	uig_Arab	Yaralı adam yardım için bağırdı.	يارىدار ئادەم ي
 tur	uig_Arab	Yardım değildi.	ياردەم ئەمەستى.
 tur	uig_Arab	Yarın ben burada olacağım.	ئەتە بۇ يەردە بولىمەن.
 tur	uig_Arab	Yarın bütün gün evde kalmayı planlıyorum.	ئەتە پۈتۈن كۈن ئۆيدە قېلىشنى پىلانلاۋاتىمەن.
+tur	uig_Arab	Yarın için planların nedir?	ئەتە قانداق پىلانلىرىڭ بار؟
 tur	uig_Arab	Yarın Kyoto'ya varacak.	ئۇ ئەتە كىيوتوغا بارىدۇ.
 tur	uig_Arab	Yarın okulumuz yok.	ئەتە مەكتەپكە بارمايمىز.
 tur	uig_Arab	Yarın pikniğe gidiyorum.	ئەتە دالا تامىقىغا چىقىمەن.
@@ -998,9 +1021,9 @@ tur	uig_Arab	Yeni dükkânınızı ne zaman açtınız?	يېڭى دۇكىنىڭ�
 tur	uig_Arab	Yeni evin satışa çıkarılmasına çok para gitti.	يېڭى ئۆي سېلىشقا نۇرغۇنلىغان پۇل كەتتى.
 tur	uig_Arab	Yeni plan hakkında onunla konuşmalıyım.	يېڭى پىلان ھەققىدە ئۇنىڭ بىلەن سۆزلىشىشىم كېرەك.
 tur	uig_Arab	Yerinde olsam, ona evlenme teklif ederim.	سېنىڭ ئورنىڭدا بولغان بولسام ئۇنىڭغا توي تەكلىپى قوياردىم.
+tur	uig_Arab	Yine de dışarı çıkmak istedi.	ئۇ يەنىلا تېشىغا چىقىشنى ئىستىدى.
 tur	uig_Arab	Yıl boyunca çok yağmur var.	يىل بويى كۆپ يامغۇر ياغىدۇ.
 tur	uig_Arab	Yılda kaç kez kayak yapmaya gidersin?	يىلدا قانچە قېتىم قار تىيىلغىلى بارىسەن؟
-tur	uig_Arab	Yine de dışarı çıkmak istedi.	ئۇ يەنىلا تېشىغا چىقىشنى ئىستىدى.
 tur	uig_Arab	Yöbing, Çin'in abur cuburlarından biri.	يۆبىڭ جوڭگونىڭ ئۇششاق يېمەكلىكلىرىنىڭ بىرى.
 tur	uig_Arab	Yoko, şimdi Londra'da. O İngilizce eğitimi görüyor.	يوكو ھازىر لوندوندا .ئۇ ئىنگلىزچە ئۆگۈنۈۋاتىدۇ.
 tur	uig_Arab	Yolun ortasında bir kamyon duruyordu.	يولنىڭ ئوتتۇرسىدا بىر يۈك ماشىنىسى تۇراتتى.

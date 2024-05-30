@@ -90,7 +90,7 @@ eng	tlh_Latn	Are the train tickets expensive?	wagh'a' lupwI' mIr chaw'mey?
 eng	tlh_Latn	Are they happy?	Quch'a' chaH?
 eng	tlh_Latn	Are they Japanese or Chinese?	nIpongan chaH'a'? pagh jungwoqngan chaH'a'?
 eng	tlh_Latn	Are they looking at us?	nubejtaH'a'?
-eng	tlh_Latn	Are they new?	chu''a'?
+eng	tlh	Are they new?	chu''a'?
 eng	tlh_Latn	Are they not Englishmen?	tuqjIjQa'nganpu' chaHbe''a'?
 eng	tlh_Latn	Are they speaking English?	DIvI' Hol lujatlhtaH'a'?
 eng	tlh_Latn	Are those guys your friends?	juppu'lI' chaH'a' loDpu'vetlh'e'?
@@ -112,7 +112,7 @@ eng	tlh_Latn	Are you going to wear that dress to the party?	qaStaHvIS 'uQ'a' paH
 eng	tlh_Latn	Are you home?	juHDaq SoHtaH'a'?
 eng	tlh_Latn	Are you hungry?	bIghung'a'?
 eng	tlh_Latn	Are you injured?	bIrIQ'a'?
-eng	tlh_Latn	Are you in pain?	bI'oy''a'?
+eng	tlh	Are you in pain?	bI'oy''a'?
 eng	tlh_Latn	Are you married?	bInaypu''a'?
 eng	tlh_Latn	Are you married?	bISawpu''a'?
 eng	tlh_Latn	Are you new?	bIchu''a'?
@@ -285,7 +285,7 @@ eng	tlh_Latn	Close the door after you.	SoH 'emDaq lojmIt yISoQmoH!
 eng	tlh_Latn	Cold water, please.	bIQ bIr HInob.
 eng	tlh_Latn	Come and help us.	ghoghoS 'ej ghoQaH!
 eng	tlh_Latn	Come and take a look.	Ha'! yInuD!
-eng	tlh_Latn	Come!	Ha'!
+eng	tlh	Come!	Ha'!
 eng	tlh_Latn	Come here and help me.	HIghoS! ghIq HIboQ!
 eng	tlh_Latn	Come on, baby, fight my liar!	Ha', ghu, nepwI'wI' yISuv!
 eng	tlh_Latn	Come on in!	yI'el!
@@ -336,7 +336,7 @@ eng	tlh_Latn	Did you see her face?	qabDaj Daleghpu''a'?
 eng	tlh_Latn	Did you take the clothes out of the washing machine?	Say'moHmeH janvo' Sut Dalelta''a'?
 eng	tlh_Latn	Did you talk to your wife?	be'nallI'vaD Dajatlhta''a'?
 eng	tlh_Latn	Did you try to listen to her?	ghaH DaQoy 'e' DanIDpu''a'?
-eng	tlh_Latn	Disgusting!	'up!
+eng	tlh	Disgusting!	'up!
 eng	tlh_Latn	Disregarding the "No Entry" sign, she pushed open the door and walked inside.	«yI'elQo'» jatlhbogh 'echlet'e' buSHa'mo' lojmIt poSmoH 'ej qoD 'el.
 eng	tlh_Latn	Does anyone know the name of the deceased?	nuv Heghpu'bogh pong Sov'a' vay'?
 eng	tlh_Latn	Does he have a passport?	leng chaw' ghaj'a'?
@@ -689,7 +689,7 @@ eng	tlh_Latn	He bent over the girl and kissed her.	be'Hom DungDaq SIH'eghta' 'ej
 eng	tlh_Latn	He bought an expensive birthday present for his wife.	be'nalDajvaD qoS nob wagh je'ta'.
 eng	tlh_Latn	He bought flowers.	'InSongmey je' ghaH.
 eng	tlh_Latn	He bought his daughter a dress.	puqbe'DajvaD paH je'ta'.
-eng	tlh_Latn	He bought it.	je'.
+eng	tlh	He bought it.	je'.
 eng	tlh_Latn	He broke the window.	Qorwagh ghorpu'.
 eng	tlh_Latn	He broke the window.	Qorwagh ghorta'.
 eng	tlh_Latn	He brushes his teeth.	Ho'Du'Daj lamHa'choHmoH.
@@ -2049,7 +2049,7 @@ eng	tlh_Latn	I stepped on one.	wa' vIgho'.
 eng	tlh_Latn	Is that a crime?	HeS 'oH'a'?
 eng	tlh_Latn	Is that cat grey?	qIj'a' vIghro'vetlh 'ej wov'a'?
 eng	tlh_Latn	Is that machine still usable?	janvetlh lo'laHtaH'a' vay'?
-eng	tlh_Latn	Is that new?	chu''a' 'oH?
+eng	tlh	Is that new?	chu''a' 'oH?
 eng	tlh_Latn	Is that still happening?	qaStaH'a'?
 eng	tlh_Latn	Is that your ex-wife?	be'nallI' Deq ghaH'a'?
 eng	tlh_Latn	Is the apple red?	Doq'a' 'epIl naH?
@@ -2943,10 +2943,10 @@ eng	tlh_Latn	She assembles computers.	De'wI'mey mutlh ghaH.
 eng	tlh_Latn	She attacked him.	HIvta'.
 eng	tlh_Latn	She attempted to kill herself.	HoH'egh 'e' nIDpu'.
 eng	tlh_Latn	She blushed red.	DoqchoH qabDaj.
-eng	tlh_Latn	She boasts of her beauty.	'IH 'e' mIy.
+eng	tlh	She boasts of her beauty.	'IH 'e' mIy.
 eng	tlh_Latn	She bought a pair of boots.	DaS chang'eng je'ta'.
 eng	tlh_Latn	She bought a shirt for him.	ghaHvaD yIvbeH je'.
-eng	tlh_Latn	She bought it.	je'.
+eng	tlh	She bought it.	je'.
 eng	tlh_Latn	She bought me a nice coat.	wep QaQ muje'ta'.
 eng	tlh_Latn	She called me many times.	law'logh murI'.
 eng	tlh_Latn	She came damn late.	paS ghaH jay'.
@@ -3278,7 +3278,7 @@ eng	tlh_Latn	That coffee smells good.	QaQ qa'vInvetlh pIw.
 eng	tlh_Latn	That day shall come.	qaSlaw' jajvetlh.
 eng	tlh_Latn	That guy annoys me.	munuQ loDvetlh.
 eng	tlh_Latn	That he passed the exam is surprising to us.	qaD tobta'mo' ghaH; numer 'oH.
-eng	tlh_Latn	That is a useful piece of information.	De' lI' 'oH.
+eng	tlh	That is a useful piece of information.	De' lI' 'oH.
 eng	tlh_Latn	That is old news.	ngo' De'vetlh.
 eng	tlh_Latn	That is wet.	yIQ Dochvam.
 eng	tlh_Latn	That little girl is my sister's friend.	be'nI'wI' jup ghaH be'Homvetlh run'e'.
@@ -3507,7 +3507,7 @@ eng	tlh_Latn	The moon was above the horizon.	ghangwI' DungDaq maS leghlu'.
 eng	tlh_Latn	The moon was completely hidden by a big black cloud.	maS So'chu' 'eng qIj.
 eng	tlh_Latn	The mother cat went out hunting birds.	bo'Deghmey wammeH tlheD vIghro' SoS.
 eng	tlh_Latn	The mountaineer was as hungry as a wolf.	ghung toSwI'; qagh rur.
-eng	tlh_Latn	The new bridge will be as long as 1.5 km.	480 'uj'a' 'aD meH chu'.
+eng	tlh	The new bridge will be as long as 1.5 km.	480 'uj'a' 'aD meH chu'.
 eng	tlh_Latn	The new restaurant opened last week.	qaStaHvIS Hogh vorgh Qe' chu' cherlu'ta'.
 eng	tlh_Latn	The newspaper is by your side.	SoH retlhDaq 'oHtaH De' chu' ghItlh'e'.
 eng	tlh_Latn	"Then I don't want it," I reply.	jIjang; «vaj vIneHbe'».
@@ -3745,7 +3745,7 @@ eng	tlh_Latn	They must be punished.	lubIjnISlu'.
 eng	tlh_Latn	They needed the money.	Huchvetlh luwuv.
 eng	tlh_Latn	They played on the jungle gym.	toSwI' qal'aqDaq reH chaH.
 eng	tlh_Latn	They're all grinning at her.	ghaHvaD montaH Hoch chaH.
-eng	tlh_Latn	They're beautiful.	'IH.
+eng	tlh	They're beautiful.	'IH.
 eng	tlh_Latn	They're drunk.	chech.
 eng	tlh_Latn	They're eating apples.	'epIl naHmey SoptaH chaH.
 eng	tlh_Latn	They're expensive.	wagh.
@@ -3850,7 +3850,7 @@ eng	tlh_Latn	This is a picture of my mother.	SoSwI' mIllogh 'oH.
 eng	tlh_Latn	This is a wonderful resource.	Sup Dun 'oH Dochvam'e'.
 eng	tlh_Latn	This is cheap.	qutlh 'oH.
 eng	tlh_Latn	This is difficult to do.	Qatlh Qu'vam.
-eng	tlh_Latn	This is disgusting.	'up 'oH.
+eng	tlh	This is disgusting.	'up 'oH.
 eng	tlh_Latn	This is hardly the time to start a new enterprise.	jInmol chu' taghlu'meH QaQbe'bej poHvam.
 eng	tlh_Latn	This is his house.	juH qachDaj 'oH.
 eng	tlh_Latn	This is irrefutable proof that Mary is innocent.	chun me'rIy' 'e' tobchu'.

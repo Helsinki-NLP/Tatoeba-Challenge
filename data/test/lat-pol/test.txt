@@ -56,6 +56,7 @@ lat_Latn	pol	Anna socolatam libenter edit.	Anna lubi jeść czekoladę.
 lat_Latn	pol	Annuntio vobis gaudium magnum: habemus Papam!	Oznajmiam wam radość wielką: mamy Papieża!
 lat_Latn	pol	A parentibus amor.	Jestem kochany przez rodziców.
 lat_Latn	pol	Aquam non bibo.	Nie pijam wody.
+lat_Latn	pol	Aqua pura est.	Woda jest czysta.
 lat_Latn	pol	Aquila regina avium est.	Orzeł jest królem ptaków.
 lat_Latn	pol	Arabice scribit.	Pisze po arabsku.
 lat_Latn	pol	Ars gratia artis.	Sztuka dla sztuki.
@@ -616,6 +617,7 @@ lat_Latn	pol	Non laboro.	Nie pracuję.
 lat_Latn	pol	Non loquor de te, Thoma.	Nie mówię o tobie, Tom.
 lat_Latn	pol	Nonne Catholica es?	Nie jesteś katoliczką?
 lat_Latn	pol	Nonne Catholicus es?	Nie jesteś katolikiem?
+lat_Latn	pol	Non omnis moriar.	Nie umrę całkowicie.
 lat_Latn	pol	Non scholae, sed vitae discimus.	Uczymy się dla siebie, nie dla szkoły.
 lat_Latn	pol	Non soror, sed uxor mea est.	To nie jest moja siostra, lecz żona.
 lat_Latn	pol	Non ut edam vivo, sed ut vivam edo.	Nie po to żyję, by jeść, lecz po to jem, aby żyć.
@@ -635,6 +637,7 @@ lat_Latn	pol	Octo fratres et sorores habeo.	Mam ośmioro rodzeństwa.
 lat_Latn	pol	Oculos nigros habeo.	Mam czarne oczy.
 lat_Latn	pol	Omnes homines aequales sunt.	Wszyscy ludzie są równi.
 lat_Latn	pol	Omnes viae Romam ducunt!	Wszystkie drogi prowadzą do Rzymu.
+lat_Latn	pol	Omnis cellula e cellula.	Każda komórka pochodzi z komórki.
 lat_Latn	pol	Opulentus non sum.	Nie jestem bogaty.
 lat_Latn	pol	Ora et labora.	Módl się i pracuj.
 lat_Latn	pol	Ora pro nobis Deum.	Módl się za nami do Boga.
@@ -746,6 +749,7 @@ lat_Latn	pol	Quod cibus est aliis, aliis est venenum.	Co dla jednych jest potraw
 lat_Latn	pol	Quod licet Iovi, non licet bovi.	Co wolno Jowiszowi, to nie wołu.
 lat_Latn	pol	Quod licet Iovi, non licet bovi.	Co wolno wojewodzie, to nie tobie, smrodzie.
 lat_Latn	pol	Quod licet Jovi, non licet bovi.	Co wolno wojewodzie, to nie tobie, mały smrodzie.
+lat_Latn	pol	Quod senior loquitur omnes consilium putant.	To, co mówi starzec, wszyscy uważają za rozsądne.
 lat_Latn	pol	Quo is, domine?	Dokąd idziesz, panie?
 lat_Latn	pol	Quo is, domine?	Dokąd pan idzie?
 lat_Latn	pol	Quomodo "te amo" lingua tua dicere possum?	Jak można powiedzieć "Kocham cię" w twoim języku?
@@ -840,6 +844,7 @@ lat_Latn	pol	Tibi dormiendum est.	Czas, żebyś poszedł spać.
 lat_Latn	pol	Tibi licet natare.	Możesz popływać.
 lat_Latn	pol	Tom minus pecuniae habet quam frater eius.	Tomasz ma mniej pieniędzy niż jego brat.
 lat_Latn	pol	Tres fratres habet.	On ma trzech braci.
+lat_Latn	pol	Tristia iura necis nulla medela fugat.	Żadne lekarstwo nie przegania smutnych praw śmierci.
 lat_Latn	pol	Tunicae puellarum albae sunt.	Tuniki dziewcząt są białe.
 lat_Latn	pol	Tunica mea nova iam sordida est.	Moja nowa tunika już jest brudna.
 lat_Latn	pol	Tu quoque mi fili.	Ty także, mój synu.

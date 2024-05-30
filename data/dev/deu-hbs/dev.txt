@@ -1,9 +1,708 @@
-deu	srp_Cyrl	Führt Tom ein Tagebuch?	Да ли Том води дневник?
-deu	srp_Cyrl	Ich esse jeden Tag Fleisch.	Једем месо сваки дан.
-deu	srp_Cyrl	Ich glaube, ich will Toms Bericht gar nicht lesen. Je weniger ich weiß, desto besser.	Мислим да је желим да прочитам Ромов извештај. Што мање знам, то боље.
-deu	srp_Latn	Der Elternverband lädt die Bürger Montenegros ein, eine Online-Petition zu unterzeichnen.	Udruženje Roditelji poziva građane Crne Gore da potpišu online peticiju.
-deu	srp_Latn	Ich unterschreibe einen Vertrag.	Potpišem ugovor.
-deu	srp_Latn	Treffen wir uns heute Nacht?	Nalazimo li se večeras?
-deu	srp_Latn	Wo befinde ich mich?	Gde se nalazim?
-deu	srp_Latn	Wo befinden sich der Modellname und die Seriennummer?	Gde se nalaze naziv modela i serijski broj?
-deu	srp_Latn	Zeiten ändern sich.	Vremena se menjaju.
+deu	hbs_Latn	Ab dem ersten Treffen fing Mary an, mir zu gefallen.	Mary mi se počela sviđati od prvog susreta.
+deu	hbs_Latn	Aber manche Leute leben gerne weit weg von der Stadt.	Ali neki ljudi vole stanovati daleko od grada.
+deu	hbs_Latn	Aber wie kann ich das machen?	Ali kako ja to mogu napraviti?
+deu	hbs_Latn	Aber wie kann ich das tun?	Ali kako ja to mogu napraviti?
+deu	hbs_Latn	Ab jetzt werde ich häufiger nach Bosnien kommen.	Od sada ću češće dolaziti u Bosnu.
+deu	hbs_Latn	Achtundvierzig Stunden sind vergangen.	Četrdeset osam sati je prošlo.
+deu	hbs_Latn	Alle drei starben.	Sva trojica su umrla.
+deu	hbs_Latn	Alle Lebewesen haben ein Gehirn, außer Tom.	Sva živa bića imaju mozak, osim Toma.
+deu	hbs_Latn	Alle Schüler der Klasse sind anwesend.	Prisutni su svi učenici u razredu.
+deu	hbs_Latn	Alle Schüler in der Klasse sind anwesend.	Prisutni su svi učenici u razredu.
+deu	hbs_Latn	Alles hängt vom Marketing ab.	Sve zavisi od marketinga.
+deu	hbs_Latn	Am Anfang des Monats gehe ich ins Kino.	Početkom mjeseca idem u bioskop.
+deu	hbs_Latn	Amira geht nach Hause.	Amira ide kući.
+deu	hbs_Latn	Am Montag bin ich am meisten beschäftigt.	U ponedjeljak sam najviše zauzet.
+deu	hbs_Latn	Auf dem Tisch steht eine kleine Tasse Tee und ein Ei.	Na stolu je šalica čaja i jaje.
+deu	hbs_Latn	Auf dem Tisch steht eine Tasse Tee und ein Ei.	Na stolu je šalica čaja i jaje.
+deu	hbs_Latn	Auf Wiedersehen, Herr Kovač.	Doviđenja, gospodine Kovaču.
+deu	hbs_Latn	Belma lebt in Russland.	Belma živi u Rusiji.
+deu	hbs_Latn	Biegen Sie bei der zweiten Strasse ab.	Skrenite u drugu ulicu.
+deu	hbs_Latn	Biegt bei der zweiten Strasse ab.	Skrenite u drugu ulicu.
+deu	hbs_Latn	Bist du ein Mann oder eine Frau?	Da li si ti muškarac ili žena?
+deu	hbs_Latn	Bitte lassen Sie hier keine Wertsachen.	Molimo vas, ne ostavljajte ovdje vrijedne stvari.
+deu	hbs_Latn	Bitte lassen Sie hier keine Wertsachen rumliegen.	Molimo vas, ne ostavljajte ovdje vrijedne stvari.
+deu	hbs_Latn	Bitter für die Zunge, aber belebend für das Blut.	Gorko za jezik, ali okrijepljujuće za krv.
+deu	hbs_Latn	Bitte sprechen Sie etwas langsamer.	Molim vas, govorite malo sporije.
+deu	hbs_Latn	Bitte wiederholen Sie das!	Molim, ponovite!
+deu	hbs_Latn	Bitte wiederholt es!	Molim, ponovite!
+deu	hbs_Latn	Bitte, wo sind die Seifen und Shampoos? – Dort links.	Molim vas, gdje su sapuni i šamponi? – Tamo lijevo.
+deu	hbs_Latn	Bitte zeigen Sie mir eine andere Kamera.	Molim te pokaži mi drugu kameru.
+deu	hbs_Latn	Bleib bei mir, solange ich nicht aufgehört habe zu husten.	Ostani sa mnom dok nisam prestao kašljati.
+deu	hbs_Latn	Bosnien heisst "Bosna" auf Bosnisch.	Bosna se zove "Bosna" na bosanskom jeziku.
+deu	hbs_Latn	"Bošnjanin" ist ein archaisches Wort, das "Bosnier" bedeutet.	"Bošnjanin" je arhaička riječ koja znači "Bosanac".
+deu	hbs_Latn	Dan ist ein Linguist.	Dan je lingvist.
+deu	hbs_Latn	Das Gebäude ist auf dem Platz.	Zgrada je na trgu.
+deu	hbs_Latn	Das habe ich gesucht.	To sam tražio.
+deu	hbs_Latn	Das habe ich nie behauptet.	To nikada nisam tvrdio.
+deu	hbs_Latn	Das ist das Bier von Marko.	Ovo je Markovo pivo.
+deu	hbs_Latn	Das ist deine Handtasche.	Ovo je tvoja torbica.
+deu	hbs_Latn	Das ist der Anfang einer neuen Ära.	Ovo je početak nove ere.
+deu	hbs_Latn	Das ist der Brief, in dem die Bedingungen beschrieben sind.	To je pismo u kojem su napisani uvjeti.
+deu	hbs_Latn	Das ist der Mann, dem ich das Geld gegeben habe.	To je čovjek kome sam dao novac.
+deu	hbs_Latn	Das ist der Mann, den ich gestern gesehen habe.	To je čovjek koga sam juče vidio.
+deu	hbs_Latn	Das ist die falsche Telefonnummer.	Ovo je krivi telefonski broj.
+deu	hbs_Latn	Das ist die Mutter von Marko.	Ovo je Markova majka.
+deu	hbs_Latn	Das ist eine schöne Gegend der Stadt.	Ovo je lijep kraj grada.
+deu	hbs_Latn	Das ist ein schöner Bezirk der Stadt.	Ovo je lijep kraj grada.
+deu	hbs_Latn	Das ist ein schöner Pullover.	To je lijep džemper.
+deu	hbs_Latn	Das ist ein sehr merkwürdiger Brief.	To je vrlo čudno pismo.
+deu	hbs_Latn	Das ist Markos Bier.	Ovo je Markovo pivo.
+deu	hbs_Latn	Das ist Markos Mutter.	Ovo je Markova majka.
+deu	hbs_Latn	Das ist nicht dein Problem.	To nije tvoj problem.
+deu	hbs_Latn	Das kann ich auch selber!	Mogu to i sama!
+deu	hbs_Latn	Das Kleid ist aus Seide hergestellt.	Haljina je izrađena od svile.
+deu	hbs_Latn	Das kleine Mädchen umarmte ihre Puppe.	Djevojčica je zagrlila svoju lutku.
+deu	hbs_Latn	Das Leben eines Mannes ist nicht einfach.	Život čovjeka nije lak.
+deu	hbs_Latn	Das Leben eines Menschen ist nicht einfach.	Život čovjeka nije lak.
+deu	hbs_Latn	Das Lernen einer Sprache ist nicht einfach.	Učenje jezika nije lak.
+deu	hbs_Latn	Das Meer ist stürmisch.	More je uzburkano.
+deu	hbs_Latn	Das, obwohl ich es gut wusste, habe ich vergessen.	To, iako sam dobro znao, zaboravio sam.
+deu	hbs_Latn	Das Risiko ist gross.	Rizik je velik.
+deu	hbs_Latn	Das sind gute Nachrichten.	To su dobre novine.
+deu	hbs_Latn	Das Theater ist nicht weit. Sie gehen geradeaus, und es ist auf der rechten Seite.	Kazalište nije daleko. Idete ravno, a ono je na desno.
+deu	hbs_Latn	Das Unternehmen hat vor, nach China zu expandieren.	Tvrtka se namjerava proširiti u Kinu.
+deu	hbs_Latn	Das wäre es wert.	To bi se isplatilo.
+deu	hbs_Latn	Das war ein Mordversuch, ich werde ihnen nicht vergeben!	Ovo je bio pokušaj ubistva, neću im halaliti!
+deu	hbs_Latn	Das war kein Scherz.	Ovo nije bilo šala.
+deu	hbs_Latn	Das würde sich auszahlen.	To bi se isplatilo.
+deu	hbs_Latn	Deine Witze sind nicht witzig.	Tvoje šale nisu smiješne.
+deu	hbs_Latn	Denk an dich.	Misli na sebe.
+deu	hbs_Latn	Der Arzt untersuchte an diesem Tag mehr als 50 Patienten.	Liječnik je pregledao više od 50 pacijenata toga dana.
+deu	hbs_Latn	Der Dezember ist der schönste Monat des Jahres: Dann kommt die ganze Familie zu Weihnachten nach Hause.	Decembar je najljepši mjesec u godini: tada cijela obitelj dolazi za Božić kući.
+deu	hbs_Latn	Der Flug nach Sarajevo kostet zweihundert Euro.	Let prema Sarajevu će koštati dvjestopedeset evra.
+deu	hbs_Latn	Der Flug nach Sarajevo wird zweihundert Euro kosten.	Let prema Sarajevu će koštati dvjestopedeset evra.
+deu	hbs_Latn	Der Katze gefällt meine Tastatur.	Mojoj mački se sviđa moja tipkovnica.
+deu	hbs_Latn	Der kleine Niko ist müde, deshalb weint er.	Mali Niko je umoran, zato plače.
+deu	hbs_Latn	Der Manga „One Piece“ ist in Malaysia sehr beliebt.	Manga "One Piece" je vrlo popularna u Maleziji.
+deu	hbs_Latn	Der Präsident will morgen eine Erklärung abgeben.	Predsjednik planira sutra dati izjavu.
+deu	hbs_Latn	Der Schultag hört um vier Uhr auf.	Školski dan se završava u četri.
+deu	hbs_Latn	Der Tag hätte nicht besser anfangen können!	Dan nije mogao početi bolje!
+deu	hbs_Latn	Der Vogel kann fliegen.	Ptica može letjeti.
+deu	hbs_Latn	Der Weg ruft mich, ich muss los.	Put me zove, moram poći.
+deu	hbs_Latn	Die Berge sind schön, wenn die Sonne scheint.	Planine su lijepe kad sunce sija.
+deu	hbs_Latn	Die bosnische Sprache ist ein Zweig der serbokroatischen Sprache.	Bosanski jezik je ogranak srpskohrvatskog jezika.
+deu	hbs_Latn	Die Famlie ist wichtig.	Obitelj je važna.
+deu	hbs_Latn	Die Frau: Ich bin verheiratet! Der Mann: Ich bin verheiratet!	Žena: Udata sam! Muškarac: Oženjen sam!
+deu	hbs_Latn	Die Gäste sitzen um den Tisch herum.	Gosti sjede oko stola.
+deu	hbs_Latn	Die Kirche ist gleich auf der anderen Straßenseite.	Crkva je samo preko puta.
+deu	hbs_Latn	Die Kirche ist gleich gegenüber.	Crkva je samo preko puta.
+deu	hbs_Latn	Die Korrektheit der Informationen ist zweifelhaft.	Ispravnost informacije je sumnjiva.
+deu	hbs_Latn	Die Lehrerin teilte mir das längste Kapitel zu.	Učiteljica mi je dodijelila najduže poglavlje.
+deu	hbs_Latn	Die neue Arbeitskollegin hat die Aufgabe schnell gelöst.	Nova kolegica je brzo riješila zadatak.
+deu	hbs_Latn	Dienstags trinke ich Bier.	Utorkom pijem pivo.
+deu	hbs_Latn	Die Pause dauert zwanzig Minuten.	Pauza traje dvadeset minuta.
+deu	hbs_Latn	Die Post ist nicht weit vom Platz. Wir können dort später hingehen.	Pošta nije daleko od trga. Možemo tamo otići kasnije.
+deu	hbs_Latn	Die Richtigkeit der Angaben ist zweifelhaft.	Ispravnost informacije je sumnjiva.
+deu	hbs_Latn	Dieser Beweis war gegen ihm.	Ovaj dokaz je bio protiv njega.
+deu	hbs_Latn	Dieser Mann hat meine Handtasche gestohlen!	Onaj čovjek je ukrao moju torbicu!
+deu	hbs_Latn	Dieses Auto ist besser im Vergleich zu diesem.	Ovaj auto je bolji u usporedbi s onim.
+deu	hbs_Latn	Dieses Baby ist sechs Monate alt.	Ova beba ima šest mjeseci.
+deu	hbs_Latn	Dieses Buch habe ich in einem Tag gelesen.	Ovu knjigu sam pročitao za dan.
+deu	hbs_Latn	Dieses Buch ist teurer als dieses.	Ta knjiga je skuplja od ove.
+deu	hbs_Latn	Dieses Heizgerät wird dieses große Zimmer nicht erwärmen.	Taj grijač neće ugrijati tu veliku sobu.
+deu	hbs_Latn	Dieses Hemd ist billiger als dieses.	Ova košulja je jeftinija nego ona.
+deu	hbs_Latn	Dieses Hemd ist das billigste von allen.	Ova košulja je najjeftinija od svih.
+deu	hbs_Latn	Dieses Konzert war großartig.	Taj koncert je bio odličan.
+deu	hbs_Latn	Dieses Problem ist nicht so schwierig, dass man es nicht lösen könnte.	Taj problem nije toliko težak da je nerješiv.
+deu	hbs_Latn	Dieses Shirt ist billiger als dieses.	Ova košulja je jeftinija nego ona.
+deu	hbs_Latn	Dieses Shirt ist das billigste von allen.	Ova košulja je najjeftinija od svih.
+deu	hbs_Latn	Die Tiefe des Flusses ist etwa zehn Meter.	Dubina rijeke je desetak metara.
+deu	hbs_Latn	Die Tür öffnet sich nicht.	Vrata se ne otvaraju.
+deu	hbs_Latn	Die Witwe hatte zwei Töchter.	Udovica je imala dvije kćeri.
+deu	hbs_Latn	Die Woche wird in sieben Tagen aufgeteilt: Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag und Sonntag.	Tjedan je podijeljen na sedam dana: ponedjeljak, utorak, srijeda, četvrtak, petak, subota i nedjelja.
+deu	hbs_Latn	Die Wunde wird nächste Woche verschwinden.	Rana će sljedeće sedmice nestati.
+deu	hbs_Latn	Die Zeit hat kein Ende. Sie ist endlos.	Vrijeme nema kraja. Beskrajno je.
+deu	hbs_Latn	Dino hat nicht angerufen, obwohl er es versprochen hatte.	Dino nije nazvao, iako je bio obećao.
+deu	hbs_Latn	Drei von ihnen kamen.	Njih trojica su došla.
+deu	hbs_Latn	Du bist qualifiziert, um ein Arzt zu werden.	Kvalificiran si da budeš liječnik.
+deu	hbs_Latn	Du bist viel dicker als früher.	Mnogo si deblja nego prije.
+deu	hbs_Latn	Du musst dich nicht beeilen.	Ne moraš se žuriti.
+deu	hbs_Latn	Dunkel ist es in Toms Büro.	Mračno je u Tomovu uredu.
+deu	hbs_Latn	Dutzen wir uns!	Da prijeđemo na ti!
+deu	hbs_Latn	Du wirst nicht ein Staubkorn auf seiner Kleidung finden.	Ni jednu mrvicu prašine nećeš naći na njegovoj odjeći.
+deu	hbs_Latn	Ein Arzt soll so schnell wie möglich kommen!	Neka dođe liječnik što prije.
+deu	hbs_Latn	Eine Frau: Ich bin verheiratet! Ein Mann: Ich bin verheiratet!	Žena: Udata sam! Muškarac: Oženjen sam!
+deu	hbs_Latn	Einen Ananassaft, bitte.	Sok od ananasa, molim.
+deu	hbs_Latn	Einer von euch liegt falsch.	Jedno od vas dvoje je u krivu.
+deu	hbs_Latn	Ein gewisser Herr Itoh möchte dich sehen.	Želi te vidjeti neki gospodin Itoh.
+deu	hbs_Latn	Einige Medikamente schaden uns.	Neki lijekovi nam škode.
+deu	hbs_Latn	Ein solcher Brauch ist charakteristisch für die Briten.	Takav običaj je karakterističan za Britance.
+deu	hbs_Latn	Ein Stein ist nötig.	Potreban je kamen.
+deu	hbs_Latn	Ein vierteljährliches Wachstum von 1,2 % bedeutet ein jährliches Wachstum von 4,8 %.	Tromjesečni rast od 1.2% znači godišnji rast od 4.8%.
+deu	hbs_Latn	Emily ist eine Engländerin.	Emily je Engleskinja.
+deu	hbs_Latn	Endlich habe ich meinen Führerschein bekommen.	Konačno sam dobio vozačku dozvolu.
+deu	hbs_Latn	Englisch und Deutsch sind verwandte Sprachen.	Engleski i njemački su srodni jezici.
+deu	hbs_Latn	Entschuldigen Sie, sind Sie Herr Brkić?	Oprostite, jeste li vi gospodin Brkić?
+deu	hbs_Latn	Entschuldigung, sind Sie Herr Brkić?	Oprostite, jeste li vi gospodin Brkić?
+deu	hbs_Latn	Er besaß viel Land, damals.	On je posjedovao mnogo zemlje, nekad davno.
+deu	hbs_Latn	Er blieb für immer allein.	Ostao je zauvijek sam.
+deu	hbs_Latn	Er erholte sich schnell von dem Schock.	On se ubrzo oporavio od šoka.
+deu	hbs_Latn	Er erzählte mir die Wahrheit.	Rekao mi je istinu.
+deu	hbs_Latn	Er fängt an zu lesen.	On počinje čitati.
+deu	hbs_Latn	Er ging nur wenige Jahre zur Schule.	Išao je u školu samo nekoliko godina.
+deu	hbs_Latn	Er ging trotz ihres Unmuts.	Išao je unatoč njezinom negodovanju.
+deu	hbs_Latn	Er hat den gleichen Fehler zweimal gemacht.	Dvaput je napravio tu istu grešku.
+deu	hbs_Latn	Er hat die ganze Woche überlegt, wie er seine Mutter überraschen kann.	On je razmišljao cijeli tjedan kako da iznenadi mamu.
+deu	hbs_Latn	Er hat einen Brief von seinem Chef erhalten.	Dobio je pismo od svog šefa.
+deu	hbs_Latn	Er hat gehört, wie Semira in die Wohnung hineingeht.	Čuo je kako Semira ulazi u stan.
+deu	hbs_Latn	Er hat nie etwas genommen.	Nikad nije uzeo ništa.
+deu	hbs_Latn	Er hat's wohl eilig.	Valjda je u žurbi.
+deu	hbs_Latn	Er hörte, wie Semira in die Wohnung hineinging.	Čuo je kako Semira ulazi u stan.
+deu	hbs_Latn	Er ist aus dem Zimmer gekommen.	Izašao je iz sobe.
+deu	hbs_Latn	Er ist ein unglücklicher Mann.	On je nesrećan muškarac.
+deu	hbs_Latn	Er ist mit sich zufrieden.	Zadovoljan je sobom.
+deu	hbs_Latn	Er ist wirklich ein schlechter Fahrer.	Ona je vrlo loš vozač.
+deu	hbs_Latn	Er ist wohl in Eile.	Valjda je u žurbi.
+deu	hbs_Latn	Er kommt zu uns, wenn er ein Auto kauft.	Doćiće do nas kada kupi auto.
+deu	hbs_Latn	Er las gestern ein Buch, während sein Bruder Fernseh schaute.	Juče je čitao knjigu, a njegov brat je gledao televiziju.
+deu	hbs_Latn	Er legte ein Kieselstein auf das Papier.	Stavio je šljunak na papir.
+deu	hbs_Latn	Er nimmt seinen Mantel. Sein Mantel ist dort.	On uzima svoj kaput. Njegov kaput je tamo.
+deu	hbs_Latn	Er rennt weg.	On bježi.
+deu	hbs_Latn	Er rief laut: "Helft mir!"	Glasno je viknuo: "Pomozite!"
+deu	hbs_Latn	Er rief laut: "Hilfe!"	Glasno je viknuo: "Pomozite!"
+deu	hbs_Latn	Er scheint zu glauben, dass das, was er gesagt hat, richtig ist.	Izgleda da vjeruje u ispravnost onoga što je rekao.
+deu	hbs_Latn	Er schrieb einen Brief, während er Radio hörte.	Slušajući radio, pisao je pismo.
+deu	hbs_Latn	Er sollte diese Frau und seine Kinder vergessen.	On treba zaboraviti tu ženu i svoju djecu.
+deu	hbs_Latn	Er starb vor drei Jahren.	Umro je prije tri godine.
+deu	hbs_Latn	Er trat durch das Fenster ein.	Ušao je kroz prozor.
+deu	hbs_Latn	Er wird froh sein, wenn er sein Auto verkauft.	Biće sretan ako proda auto.
+deu	hbs_Latn	Erzähl mir darüber.	Govori mi o tome.
+deu	hbs_Latn	Erzähl uns eine Geistergeschichte!	Ispričaj nam priču o duhovima!
+deu	hbs_Latn	Er zog den Pullover verkehrt an.	Obukao je naopako džemper.
+deu	hbs_Latn	Es besteht Sorge um die Gesundheit der Mutter.	Zabrinuto je za majčino zdravlje.
+deu	hbs_Latn	Es braucht einen Stein.	Potreban je kamen.
+deu	hbs_Latn	Es freut mich zu hören, dass die Leute meine Rückkehr möchten.	Drago mi je da to čujem da ljudi žele moj povratak.
+deu	hbs_Latn	Es gibt keine Belgier, sondern nur Wallonen und Flamen.	Ne postoje Belgijanci, već samo Valonci i Flamanci.
+deu	hbs_Latn	Es gibt mehr Mädchen als Jungs in unserer Schule.	Ima više djevojčica nego dječaka u našoj školi.
+deu	hbs_Latn	Es hat keinen Sinn, etwas anderes zu versuchen.	Nema smisla pokušavati bilo što drugo.
+deu	hbs_Latn	Es ist eine Fliege im Kaffee!	Muha je u kahvi!
+deu	hbs_Latn	Es ist eine gute App, um mit dem Sport zu beginnen.	To je dobra aplikacija za početak bavljenja sportom.
+deu	hbs_Latn	Es ist eine ideale Zeit für ein Picknick.	Idealno je vrijeme za piknik.
+deu	hbs_Latn	Es ist gut, Wasser oder Saft zu trinken.	Dobro je piti vodu ili sok.
+deu	hbs_Latn	Es ist heiss!	Vruće je!
+deu	hbs_Latn	Es ist immer noch besser, sein Berufsleben aufzugeben als sein Privatleben.	Još je uvijek bolje odbaciti svoj profesionalni nego svoj privatni život.
+deu	hbs_Latn	Es ist möglich, dass ich falsch liege.	Moguće je da griješim.
+deu	hbs_Latn	Es ist nicht weit vom Marktplatz.	Nije daleko od trga.
+deu	hbs_Latn	Es ist nicht weit vom Platz.	Nije daleko od trga.
+deu	hbs_Latn	Es ist schwer für mich, aber ich weiss, dass es für dich noch schwerer ist.	Meni je teško, ali znam da je tebi teže.
+deu	hbs_Latn	Es ist unsere Schuld.	Krivica je naša.
+deu	hbs_Latn	Es ist Viertel nach drei	Sada je tri i petnaest!
+deu	hbs_Latn	Es ist Zeit, dass er heiratet.	Vrijeme je da se oženi.
+deu	hbs_Latn	Es ist Zeit, dass sie heiratet.	Vrijeme je da se uda.
+deu	hbs_Latn	Es ist zu schön um wahr zu sein.	To je predobro da bi bilo istinito.
+deu	hbs_Latn	Es war notwendig, viele Dinge in Vorbereitung auf die Reise zu tun.	Bilo je nužno učiniti mnoge stvari oko priprema za putovanje.
+deu	hbs_Latn	Es war stürmisch vorgestern.	Bilo je olujno prekjuče.
+deu	hbs_Latn	Es zirpt, zirpt die Zikade auf dem Zweig der schwarzen Pinie.	Cvrči cvrči cvrčak na čvoru crne smrče.
+deu	hbs_Latn	Faruk kommt aus dem alten Theater heraus.	Faruk izlazi iz starog kazališta.
+deu	hbs_Latn	Folgt uns auf den sozialen Medien.	Pratite nas na društvenim mrežama.
+deu	hbs_Latn	Frauen zuerst.	Dame prve.
+deu	hbs_Latn	Frau Klein ist in den Achtzigern, aber immer noch sehr aktiv.	Gospođa Klein je u osamdesetima, ali je još uvijek vrlo aktivna.
+deu	hbs_Latn	Freut mich.	Drago mi je.
+deu	hbs_Latn	Frohe Weihnachten und ein glückliches neues Jahr!	Čestit Božić i sretna nova godina!
+deu	hbs_Latn	Fünf Leute sind gekommen.	Petoro ljudi je došlo.
+deu	hbs_Latn	Fürchten Sie sich?	Bojite li se?
+deu	hbs_Latn	Fürchtest du dich?	Bojiš li se?
+deu	hbs_Latn	Fürchtet ihr euch?	Bojite li se?
+deu	hbs_Latn	Ganz egal, er wird auf jeden Fall kommen.	Svejedno, on će zasigurno doći.
+deu	hbs_Latn	Gefällt euch Fussball und Basketball?	Sviđaju li vam se nogomet i košarka?
+deu	hbs_Latn	Gefällt Ihnen Fussball und Basketball?	Sviđaju li vam se nogomet i košarka?
+deu	hbs_Latn	Gehen wir auf einen Kaffee!	Idemo na kafu!
+deu	hbs_Latn	Gerne einen Ananassaft.	Sok od ananasa, molim.
+deu	hbs_Latn	Gestern traf ich einen Student aus Amerika.	Juče sam susreo studenta iz Amerike.
+deu	hbs_Latn	Gib mir eins.	Daj mi jedan.
+deu	hbs_Latn	Gibt es einen Briefkasten in der Nähe?	Je li blizu poštanski sandučić?
+deu	hbs_Latn	Gib Tom ein Getränk.	Daj Tomu piće.
+deu	hbs_Latn	Glaube wirkt Wunder!	Vjera čini čudesa!
+deu	hbs_Latn	Goran wechselt sein Geld.	Goran mijenja novac.
+deu	hbs_Latn	Griechisch und Latein sind nützliche Sprachen, deshalb lerne ich sie.	Grčki i latinski su korisni jezici, zato ih učim.
+deu	hbs_Latn	Grüsse deine Eltern in meinem Namen!	Pozdravi roditelje u moje ime!
+deu	hbs_Latn	Guten Tag, kann ich einen Buchhalter haben?	Dobar dan, da li mogu dobiti knjigovođu?
+deu	hbs_Latn	Haben Sie das klein/groß/mittel?	Imate li ovo malo/veliko/srednje?
+deu	hbs_Latn	Haris trinkt lieber Bier.	Haris rado pije pivo.
+deu	hbs_Latn	Hast du das Paket erhalten, das ich dir geschickt hatte?	Jesi li primila paket koji sam ti poslala?
+deu	hbs_Latn	Hast du die Nachrichten von heute gelesen?	Jesi li pročitao današnje novine?
+deu	hbs_Latn	Hast du eine Idee, wer Tom hätte töten können?	Imaš li ideju ko je mogao ubiti Toma?
+deu	hbs_Latn	Hast du heute geübt?	Jesi li vježbao danas?
+deu	hbs_Latn	Hast du Zeit morgen zu kommen?	Imaš li vremena doći sutra?
+deu	hbs_Latn	Hat sie einen neuen Computer?	Ima li ona novi kompjuter?
+deu	hbs_Latn	Hat sie Kinder!	Ima li ona djece?
+deu	hbs_Latn	Heute besuchte ich ein Museum.	Danas posjetio sam muzej.
+deu	hbs_Latn	Heute bin ich verkatert.	Danas sam mamuran.
+deu	hbs_Latn	Heute habe ich keine Hausaufgaben.	Danas nemam domaću zadaću.
+deu	hbs_Latn	Heute hat es mehr Wolken als gestern.	Danas ima više oblaka nego juče.
+deu	hbs_Latn	Hey!	Ćao!
+deu	hbs_Latn	Hey, Rost frisst Metall!	Ej, hrđa projeda metal.
+deu	hbs_Latn	Hier sehen wir nicht viel Schnee.	Ovdje ne vidimo puno snijega.
+deu	hbs_Latn	Hör aufmerksam zu.	Pažljivo slušaj.
+deu	hbs_Latn	Ich arbeite als Sekretärin in Sarajewo.	Radim kao sekretarica u Sarajevu.
+deu	hbs_Latn	Ich ass eine grosse Portion Burek auf.	Pojeo sam veliku porciju bureka.
+deu	hbs_Latn	Ich ass eine grosse Portion Burek.	Pojeo sam veliku porciju bureka.
+deu	hbs_Latn	Ich bemühte mich, sie zu trösten, aber sie hörte nicht auf zu weinen.	Nastojao sam ju utješiti, ali nije prestala plakati.
+deu	hbs_Latn	Ich bereue es, dass ich nicht mehr für die Prüfung gelernt habe.	Žalim što nisam više učio za ispit.
+deu	hbs_Latn	Ich bin auf der Post.	Ja sam na pošti.
+deu	hbs_Latn	Ich bin bereit zu reden.	Spreman sam da govorim.
+deu	hbs_Latn	Ich bin bereit zu reden.	Spremna sam da govorim.
+deu	hbs_Latn	Ich bin froh, dass ich dich kennengelernt habe.	Srećan sam što sam te upoznao.
+deu	hbs_Latn	Ich bin immer bereit für das, was als nächstes kommt.	Uvijek sam spreman za ono što slijedi.
+deu	hbs_Latn	Ich bin in der Bank.	Ja sam u banci.
+deu	hbs_Latn	Ich bin kein Chinese.	Nisam Kinez.
+deu	hbs_Latn	Ich bin keine Chinesin.	Nisam Kineskinja.
+deu	hbs_Latn	Ich bin mit dir einig.	Slažem se s tobom.
+deu	hbs_Latn	Ich bin nicht deine Liebe.	Ja nisam tvoja ljubav.
+deu	hbs_Latn	Ich danke dir vom Herzen.	Srdačno ti zahvaljujem.
+deu	hbs_Latn	Ich denke, ich habe mein Bein gebrochen.	Mislim da sam slomio nogu.
+deu	hbs_Latn	Ich denke, ich werde wieder schlafen gehen	Mislim da ću se vratiti na spavanje
+deu	hbs_Latn	Ich denke, Tom könnte es tun.	Ja mislim da bi Tom mogao to obaviti.
+deu	hbs_Latn	Ich erinnere mich an die Wohnung in Mostar.	Sjećam se stana u Mostaru.
+deu	hbs_Latn	Ich fahre jeden Tag in die Innenstadt zur Arbeit.	Vozim se svaki dan u centar grada na posao.
+deu	hbs_Latn	Ich fahre jeden Tag ins Stadtzentrum zur Arbeit.	Vozim se svaki dan u centar grada na posao.
+deu	hbs_Latn	Ich gebe ihm es.	Dajem mu ga.
+deu	hbs_Latn	Ich gehe Brot besorgen.	Idem po kruh.
+deu	hbs_Latn	Ich gehe durch das Haus.	Idem kroz kuću.
+deu	hbs_Latn	Ich gehe durchs Haus.	Idem kroz kuću.
+deu	hbs_Latn	Ich gehe ein Brot kaufen.	Idem po kruh.
+deu	hbs_Latn	Ich gehe lernen.	Idem učiti.
+deu	hbs_Latn	Ich gehe mit dem Bus in die Schule.	Idem u školu autobusom.
+deu	hbs_Latn	Ich gehe zur Arbeit in die Stadt.	Idem u grad na posao.
+deu	hbs_Latn	Ich glaube, du warst sehr unhöflich zu ihr.	Mislim da si bila jako nepristojna prema njoj.
+deu	hbs_Latn	Ich habe alles gemacht, um zu helfen.	Napravila sam sve što mogu da pomognem.
+deu	hbs_Latn	Ich habe alles getan, um dich glücklich zu machen.	Učinila sam sve da te usrećim.
+deu	hbs_Latn	Ich habe das nicht absichtlich gemacht.	Nije to uradio namjerno.
+deu	hbs_Latn	Ich habe den ganzen Tag überhaupt nichts gegessen.	Uopće ništa nisam jeo cijeli dan.
+deu	hbs_Latn	Ich habe diese Zeitschrift vier Jahre lang abonniert.	Pretplaćen sam na taj časopis četiri godine.
+deu	hbs_Latn	Ich habe ein Brot gekauft und es aufgegessen.	Kupio sam kruh i pojeo sam ga.
+deu	hbs_Latn	Ich habe einen Brief von der Gemeinde bekommen.	Dobio sam dopis iz općine.
+deu	hbs_Latn	Ich habe eine Tante, die in Kyoto lebt.	Imam strinu koja živi u Kyotu.
+deu	hbs_Latn	Ich habe es fast vergessen.	Umalo zaboravih.
+deu	hbs_Latn	Ich habe euch gefragt, ob ihr übermorgen ankommen könnt.	Pitala sam vas da li možete stići prekosutra.
+deu	hbs_Latn	Ich habe ihm das Essen gegeben.	Dao sam mu hranu.
+deu	hbs_Latn	Ich habe lieber Wein.	Više volim vino.
+deu	hbs_Latn	Ich habe Lust zu schlafe.	Spava mi se.
+deu	hbs_Latn	Ich habe nie so etwas gesagt.	Ja nikada nisam rekao takvo što.
+deu	hbs_Latn	Ich habe sehr lange auf sie gewartet.	Čekao sam ju jako dugo.
+deu	hbs_Latn	Ich habe Sie gefragt, ob Sie übermorgen ankommen können.	Pitala sam vas da li možete stići prekosutra.
+deu	hbs_Latn	Ich habe sie vorher noch nie gesehen.	Nikad je prije nisam vidjela.
+deu	hbs_Latn	Ich habe von niemandem einen Brief erhalten.	Nisam dobio pismo ni od koga.
+deu	hbs_Latn	Ich hatte mein Portemonnaie nicht bei mir.	Nisam imao novčanik kod sebe.
+deu	hbs_Latn	Ich hatte nie ein Auto.	Nikada nisam imao automobil.
+deu	hbs_Latn	Ich heisse El Muhammed, vom Stamm der alten Azras, die ihr Leben für die Liebe verlieren und sterben, wenn sie lieben.	Ja se zovem El Muhamed, iz plemena starih Azra, što za ljubav život gube, i umiru kad ljube.
+deu	hbs_Latn	Ich heisse Hashimoto.	Zovem se Hašimoto.
+deu	hbs_Latn	Ich höre einen Hund, der im Wald bellt.	Čujem psa koji laje u šumi.
+deu	hbs_Latn	Ich kenne sie seit meiner Kindheit.	Poznajem ju još od djetinjstva.
+deu	hbs_Latn	Ich könnte falsch liegen.	Moguće je da griješim.
+deu	hbs_Latn	Ich lebe in den USA.	Živim u SAD-u.
+deu	hbs_Latn	Ich liege falsch, nicht wahr?	Ja sam u krivu, zar ne?
+deu	hbs_Latn	Ich mache Sport.	Bavim se sportom.
+deu	hbs_Latn	Ich mag diese Antwort.	Sviđa mi se taj odgovor.
+deu	hbs_Latn	Ich möchte ein Doppelzimmer buchen.	Želim rezervisati dvokrevetnu sobu.
+deu	hbs_Latn	Ich möchte ein Doppelzimmer reservieren.	Želim rezervisati dvokrevetnu sobu.
+deu	hbs_Latn	Ich möchte euch einen Freund von mir vorstellen.	Želio bi da vam predstavim svog prijatelja.
+deu	hbs_Latn	Ich möchte heute Abend Hähnchen machen.	Htio bih napraviti piletinu večeras.
+deu	hbs_Latn	Ich möchte Ihnen einen Freund von mir vorstellen.	Želio bi da vam predstavim svog prijatelja.
+deu	hbs_Latn	Ich möchte unabhängiger sein.	Želim biti samostalniji.
+deu	hbs_Latn	Ich muss ein Glas Wasser trinken.	Moram popiti čašu vode.
+deu	hbs_Latn	Ich persönlich habe noch nie ein UFO gesehen.	Ja, osobno, nikada nisam vidio NLO.
+deu	hbs_Latn	Ich sah ihn gehen.	Vidio sam ga kako odlazi.
+deu	hbs_Latn	Ich schätze ihn.	Cijenim ga.
+deu	hbs_Latn	Ich sehe den alten Mann.	Vidim starog čovjeka.
+deu	hbs_Latn	Ich sehe einen alten Mann.	Vidim starog čovjeka.
+deu	hbs_Latn	Ich spreche bosnisch.	Govorim bosanski.
+deu	hbs_Latn	Ich spreche kein bosnisch.	Ne govorim bosanski.
+deu	hbs_Latn	Ich suche die Schlüssel.	Tražim ključeve.
+deu	hbs_Latn	Ich trinke Wasser, wenn ich Durst habe.	Pijem vodu kad sam žedan.
+deu	hbs_Latn	Ich verdanke es meinem Vater, was ich bin.	Dugujem svome ocu ono što sam.
+deu	hbs_Latn	Ich verstehe viel, aber ich spreche nicht gut.	Razumijem dosta, ali slabo govorim.
+deu	hbs_Latn	Ich war eine Lehrerin.	Bila sam učiteljica.
+deu	hbs_Latn	Ich war krank und musste zu Hause bleiben.	Bila sam bolesna i morala sam ostati u kući.
+deu	hbs_Latn	Ich weiß, du hast lange gewartet, aber kannst du noch ein bisschen länger warten?	Znam da si čekao jako dugo, ali možeš li pričekati samo još malo?
+deu	hbs_Latn	Ich weiss nicht, ob diese Sprachen verwandt sind.	Ne znam jesu li ti jezici srodni.
+deu	hbs_Latn	Ich werde dich abholen und dann werden wir darüber sprechen.	Doćiću po tebe pa ćemo razgovarati.
+deu	hbs_Latn	Ich werde diesen nehmen!	Uzeću ovaj!
+deu	hbs_Latn	Ich werde dieses nehmen!	Uzeću ovaj!
+deu	hbs_Latn	Ich werde dir helfen, so gut ich kann.	Ja ću ti pomoći najbolje što mogu.
+deu	hbs_Latn	Ich werde eine schöne Estländerin heiraten.	Oženiću lijepu Estonku.
+deu	hbs_Latn	Ich werde immer an dich denken!	Uvijek ću na tebe misliti!
+deu	hbs_Latn	Ich werde jedes Jahr im September nach Bosnien kommen.	Ja ću svake godine dolaziti u septembru u Bosnu.
+deu	hbs_Latn	Ich werde mager.	Mršavim.
+deu	hbs_Latn	Ich werde Mama jeden Tag schreiben.	Pisaću mami svaki dan.
+deu	hbs_Latn	Ich werde morgen meiner Mama einen Brief schreiben.	Napisaću pismo mami sutra.
+deu	hbs_Latn	Ich werde nie Französisch lernen!	Neću nikada učiti francuski!
+deu	hbs_Latn	Ich werde Tee machen.	Napraviću čaj.
+deu	hbs_Latn	Ich werde Tee machen	Skuhaću čaj
+deu	hbs_Latn	Ich will dich ficken.	Želim te jebati.
+deu	hbs_Latn	Ich will sterben!	Želim umrijeti!
+deu	hbs_Latn	Ich wollte dich etwas fragen.	Nešto sam te htio pitati.
+deu	hbs_Latn	Ich würde dich gerne einmal etwas besser kennenlernen.	Volio bih te jednom upoznati malo bolje.
+deu	hbs_Latn	Ich wusste, dass Antonio gewinnen kann.	Znala sam da Antonio može pobijediti.
+deu	hbs_Latn	Ich wusste, dass Antonio gewinnen könnte.	Znala sam da Antonio može pobijediti.
+deu	hbs_Latn	Ich wusste, dass Antonio gewinnen könnte.	Znao sam da Antonio može pobijediti.
+deu	hbs_Latn	Ihre geistige Entwicklung war langsam.	Njezin mentalni razvoj bio je spor.
+deu	hbs_Latn	Ihr habt das uns beigebracht.	Vi ste nas to naučili.
+deu	hbs_Latn	Ihr habt kein Recht!	Nemate pravo!
+deu	hbs_Latn	Ihr habt nicht recht!	Nemate pravo!
+deu	hbs_Latn	Im Allgemeinen sind die Japaner entgegenkommend.	Općenito su Japanci susretljivi.
+deu	hbs_Latn	Im Allgemeinen sind Japaner entgegenkommend.	Općenito su Japanci susretljivi.
+deu	hbs_Latn	Im Bus wurde mir ein Portemonnaie gestohlen.	U autobusu mi je ukraden novčanik.
+deu	hbs_Latn	Im Bus wurde mir meine Brieftasche gestohlen.	U autobusu mi je ukraden novčanik.
+deu	hbs_Latn	Im Hotel angekommen, nahm Mahir den Zimmerschlüssel.	Došavši u hotel, Mahir je uzeo ključ od sobe.
+deu	hbs_Latn	Im Sommer scheint die Sonne fast jeden Tag.	Ljeti sunce sija skoro svaki dan.
+deu	hbs_Latn	Im Winter gehe ich Ski fahren.	Zimi idem na skikanje.
+deu	hbs_Latn	In europäischen Städten sieht man heute Straßenbahnen und Busse auf den Straßen.	U gradovima u Evropi čovjek danas vidi tramvaje i autobuse na ulicama.
+deu	hbs_Latn	In Toms Büro ist es dunkel.	Mračno je u Tomovu uredu.
+deu	hbs_Latn	In Zagreb gibt es schöne Pärke.	U Zagrebu ima lijepih parkova.
+deu	hbs_Latn	In Zemun wird ein Treppenrennen stattfinden.	U Zemunu će biti održana trka uz stepenice.
+deu	hbs_Latn	Ist dieser Sitz besetzt?	Je li ovo sjedalo zauzeto?
+deu	hbs_Latn	Ist er mit Bus oder Zug gekommen?	Je li došao autobusom, ili vozom?
+deu	hbs_Latn	Ist es dir klar?	Je li ti jasno?
+deu	hbs_Latn	Ist es klar für dich?	Je li ti jasno?
+deu	hbs_Latn	Ist mir doch scheißegal.	Boli me kurac.
+deu	hbs_Latn	Italiener trinken immer Wein.	Talijani uvijek piju vino.
+deu	hbs_Latn	Ivana liest selten Frauenzeitschriften.	Ivana rijetko čita ženske časopise.
+deu	hbs_Latn	Ja gern!	Kako da ne!
+deu	hbs_Latn	Jasna singt schön, aber Emina singt noch schöner.	Jasna lijepo pjeva, ali Emina pjeva još ljepše.
+deu	hbs_Latn	Ja, was immer du sagst, Bruder!	Da, kako god ti kažeš, brate!
+deu	hbs_Latn	Jeden Montag und jeden Samstag esse ich Brot.	Svakog ponedjeljka i svake subote jedem kruh.
+deu	hbs_Latn	Jeden Samstag spiele ich Tennis.	Igram tenis subotom.
+deu	hbs_Latn	Jeder von uns ist wie der Mond: Wir alle haben eine dunkle Seite, die wir nie zeigen.	Svako od nas je poput mjeseca: svi imamo mračnu stranu, koju nikada ne pokazujemo.
+deu	hbs_Latn	Jemand muss es ihr wohl gesagt haben, aber ich war das nicht.	Neko joj je vjerojatno rekao, ali to nisam bio ja.
+deu	hbs_Latn	Jenes ist mein Schiff.	Ono je moj brod.
+deu	hbs_Latn	Je schwieriger, desto besser.	Što teže, to bolje.
+deu	hbs_Latn	Jetzt gehen wir direkt ins Stadtzentrum.	Sada idemo ravno u centar grada.
+deu	hbs_Latn	Jetzt ist der beste Zeitpunkt, um das Blühen der Kirschbäume zu sehen.	Sada je najbolje vrijeme gledati cvjetanje trešanja.
+deu	hbs_Latn	Jetzt ist ein Uhr.	Sada je jedan sat.
+deu	hbs_Latn	Jetzt lobe ich dich für das, was du sagst und tust.	Sada te hvalim zbog onoga što govoriš i činiš.
+deu	hbs_Latn	Jetzt sitzt er unter einem Baum.	Sada ona sjedi pod stablom.
+deu	hbs_Latn	Jetzt sitzt sie unter einem Baum.	Sada ona sjedi pod stablom.
+deu	hbs_Latn	Kann ich auch mit Euro bezahlen?	Mogu li i evrima platiti?
+deu	hbs_Latn	Kann ich dein Telefon haben?	Mogu li dobiti tvoj telefon?
+deu	hbs_Latn	Kann ich ein Glas Wasser haben?	Mogu li dobiti čašu vode?
+deu	hbs_Latn	Kann ich hineinkommen?	Ima li bujruma?
+deu	hbs_Latn	Kann ich Ihr Autogramm haben?	Mogu li dobiti Vaš autogram?
+deu	hbs_Latn	Kann ich Sie fotografieren?	Mogu li Vas fotografirati?
+deu	hbs_Latn	Katzen werden nicht gerne feucht mit Wasser.	Mačke se ne vole močiti vodom.
+deu	hbs_Latn	Kellner, bitte zwei Gläser Wasser.	Molim vas, konobaru, dvije čaše vode.
+deu	hbs_Latn	Komm nach mir!	Idi za mnom!
+deu	hbs_Latn	Komm schon, es war sowieso deine Idee!	Hajde, to je ionako bila tvoja ideja!
+deu	hbs_Latn	Kommt morgen wieder!	Dođite ponovo sutra!
+deu	hbs_Latn	Können Sie das aufschreiben?	Možete li to napisati?
+deu	hbs_Latn	Können Sie mir das auf einer Karte zeigen?	Možete mi to pokazati na karti?
+deu	hbs_Latn	Können Sie mir sagen, ob Frau Kapetanović zu Hause ist?	Možete li mi reći da li je gospođa Kapetanović kod kuće?
+deu	hbs_Latn	Können Sie mir sagen, ob Frau Kapetanović zu Hause wäre?	Možete li mi reći da li je gospođa Kapetanović kod kuće?
+deu	hbs_Latn	Können Sie mir sagen, wo sich die nächste Kirche befindet?	Možete mi reći gdje se nalazi najbliža crkva?
+deu	hbs_Latn	Könnt ihr das aufschreiben?	Možete li to napisati?
+deu	hbs_Latn	Könnt ihr das mir auf einer Karte zeigen?	Možete mi to pokazati na karti?
+deu	hbs_Latn	Könnt ihr mir sagen, wo die nächste Kirche ist?	Možete mi reći gdje se nalazi najbliža crkva?
+deu	hbs_Latn	Korrekt!	Tačno!
+deu	hbs_Latn	Kroatien heisst "Hrvatska" auf Kroatisch.	Hrvatska se zove "Hrvatska" na hrvatskom jeziku.
+deu	hbs_Latn	Langsam, es ist nicht nur die Temperatur.	Polako, nije samo temperatura.
+deu	hbs_Latn	Lassen Sie mich Ihren Mann anschauen.	Da vidim vašeg muža.
+deu	hbs_Latn	Lassen Sie mich Ihren Mann ansehen.	Da vidim vašeg muža.
+deu	hbs_Latn	Lasst mich euch vorstellen, das ist meine Freundin.	Da vas upoznam, ovo je moja prijateljica.
+deu	hbs_Latn	Lasst uns dutzen!	Da prijeđemo na ti!
+deu	hbs_Latn	Lasst uns einen Kafee trinken gehen!	Idemo na kafu!
+deu	hbs_Latn	Lasst uns im Gras sitzen.	Sjednimo na travu.
+deu	hbs_Latn	Lass uns mit allen Baseball spielen gehen.	Idemo igrati bejzbol sa svima.
+deu	hbs_Latn	Lass uns nicht mehr darüber sprechen.	Ne pričajmo više o tome.
+deu	hbs_Latn	Lass uns noch einen trinken!	Popijmo još jedno!
+deu	hbs_Latn	Layla gab der Polizei ein Bild von Sami.	Lejla je dala policiji slike Samija.
+deu	hbs_Latn	Layla hatte einen gesunden Jungen.	Lejla je imala zdravog dječaka.
+deu	hbs_Latn	Layla war nicht bereit, nach Hause zu gehen.	Lejla nije bila spremna ići kući.
+deu	hbs_Latn	Leider geht es mir schlecht.	Nažalost, nisam dobro.
+deu	hbs_Latn	Liebst du Musik?	Voliš li glazbu?
+deu	hbs_Latn	"Magst du Schlangen?" - "Natürlich nicht."	"Voliš li zmije?'" - "Naravno da ne."
+deu	hbs_Latn	Malka ist eine gute Sängerin.	Malka je dobra pjevačica.
+deu	hbs_Latn	Man kann nicht zwei Sachen gleichzeitig machen.	Ne mogu se raditi dvije stvari istovremeno.
+deu	hbs_Latn	Man sagt, dass sein Gebäude für westliche Verhältnisse zu klein wäre.	Govori se da je njegova zgrada premala za zapadne standarde.
+deu	hbs_Latn	Marko ist dort unter dem Baum.	Marko je tamo ispod drveta.
+deu	hbs_Latn	Mary ist Toms einzige Tochter.	Mary je Tomova kći jedinica.
+deu	hbs_Latn	Mein Bruder kaufte eine elektrische Gitarre.	Moj brat je kupio električnu gitaru.
+deu	hbs_Latn	Meine Brieftasche wurde im Bus gestohlen.	U autobusu mi je ukraden novčanik.
+deu	hbs_Latn	Meine Grossmutter nimmt diese Medizin täglich ein.	Moja nana uzima dnevno ovaj lijek.
+deu	hbs_Latn	Meine Haare sind hellbraun.	Moja kosa je svjetlosmeđa.
+deu	hbs_Latn	Meine neuen Schuhe sind aus Leder.	Moje nove cipele su napravljene od kože.
+deu	hbs_Latn	Meine Schultern tun mir weh.	Bole me ramena.
+deu	hbs_Latn	Meine Schwester ist älter als ich.	Moja sestra je starija nego ja.
+deu	hbs_Latn	Meine Vermutung ist, dass Tom das nicht will.	Moja pretpostavka je da Tom to neće htjeti.
+deu	hbs_Latn	Mein Nihad ist immer noch Single.	Moj Nihad je još uvijek samac.
+deu	hbs_Latn	Mein Portemonnaie wurde im Bus gestohlen.	U autobusu mi je ukraden novčanik.
+deu	hbs_Latn	Mein Vater ist jetzt auf einer Mission.	Moj otac je sada na misiji.
+deu	hbs_Latn	Mein Zahn tut mir weh.	Boli me zub.
+deu	hbs_Latn	Menschen haben ein kurzes Gedächtnis.	Ljudi imaju kratko pamćenje.
+deu	hbs_Latn	Menschen sind komplizierte Organismen.	Ljudi su komplicirani organizmi.
+deu	hbs_Latn	Millie isst keinen Apfel.	Millie ne jede jabuku.
+deu	hbs_Latn	Mir gefallen diese Bücher.	Sviđaju mi se te knjige.
+deu	hbs_Latn	Mir gefällt das Schwimmen.	Sviđa mi se plivanje.
+deu	hbs_Latn	Mir gefällt diese Antwort.	Sviđa mi se taj odgovor.
+deu	hbs_Latn	Mir gefällt schwimmen.	Sviđa mi se plivanje.
+deu	hbs_Latn	Mir geht es leider schlecht.	Nažalost, nisam dobro.
+deu	hbs_Latn	Möge so schnell wie möglich ein Arzt kommen!	Neka dođe liječnik što prije.
+deu	hbs_Latn	Musik ist seine Leidenschaft.	Muzika je njegova strast.
+deu	hbs_Latn	Nach Caesars Tod leuchtete der Komet sieben Tage lang.	Nakon Cezarove smrti, komet je sjajio sedam dana.
+deu	hbs_Latn	Nachdem er im Hotel angekommen war, nahm Mahir den Zimmerschlüsse.	Došavši u hotel, Mahir je uzeo ključ od sobe.
+deu	hbs_Latn	Nachdem er wieder zu Hause war, schrieb er seinem Bruder einen Brief.	Kad se vratio kući, napisao je bratu pismo.
+deu	hbs_Latn	Nachdem ich die Nachrichten durchgelesen hatte, fing ich an das Abendessen vorzubereiten.	Pročitavši novine, počeo sam spremati večeru.
+deu	hbs_Latn	Nächstes Jahr werde ich anfangen, zu studieren.	Sljedeće godine ću početi studirati.
+deu	hbs_Latn	Nach unserer Meinung, bist du im Recht.	Po našem mišljenju, ti si u pravu.
+deu	hbs_Latn	Nach unserer Meinung, hast du recht.	Po našem mišljenju, ti si u pravu.
+deu	hbs_Latn	Naoko lebt in einem weissen Haus.	Naoko živi u bijeloj kući.
+deu	hbs_Latn	Natürlich ist es nicht immer einfach, sich in der Stadt fortzubewegen.	Naravno, nije uvijek lako putovati po gradu.
+deu	hbs_Latn	Natürlich würden wir dir helfen!	Naravno da bismo ti pomogli!
+deu	hbs_Latn	Nein, danke, ich kann nicht mehr.	Ne, hvala, ne mogu više.
+deu	hbs_Latn	Nein, ich bin nicht aus den USA.	Ne, ja nisam iz SAD-a.
+deu	hbs_Latn	Nein, ich komme nicht von der USA.	Ne, ja nisam iz SAD-a.
+deu	hbs_Latn	Nicht in allen Kioske verkaufen sie Postkarten.	U svim kioscima ne prodaju razglednice.
+deu	hbs_Latn	Nicht mehr, danke. Ich bin satt.	Ne više, hvala. Sit sam.
+deu	hbs_Latn	Nie bist du zufrieden.	Nikad nisi zadovoljan.
+deu	hbs_Latn	Niemand will mein Land hassen.	Niko ne želi mrziti moju državu.
+deu	hbs_Latn	Optische Radare arbeiten mit Licht anstelle von Funkwellen wie bei herkömmlichen Radaren.	Optički radari funkcioniraju koristeći svjetlo umjesto radiovalova kao kod običnih radara.
+deu	hbs_Latn	Papa, würdest du mir dein Auto ausleihen?	Baba, bi li mi posudio svoje auto?
+deu	hbs_Latn	Pass bitte auf meinen Koffer auf.	Molim te pripazi na moj kofer.
+deu	hbs_Latn	Piotr hat schwarze Haare, aber Lech hat blonde Haare.	Piotr ima crnu, a Lech plavu kosu.
+deu	hbs_Latn	Plötzlich ging mein Laptop kaputt.	Odjednom mi se pokvario laptop.
+deu	hbs_Latn	Quebec Französisch wird von mehr als sieben Millionen Menschen gesprochen.	Kebečki francuski govori više od sedam milijuna ljudi.
+deu	hbs_Latn	Sag ihnen, dass sie warten sollen.	Reci im da pričekaju.
+deu	hbs_Latn	Sag mir, Junge, woher kommst du? Aus welchem ​​Stamm bist du?	Kazuj momče, odakle si? Iz plemena kojega si?
+deu	hbs_Latn	Sami erzählte ihr alles.	Sami joj je sve rekao.
+deu	hbs_Latn	Sami und Layla kommunizierten über Facebook.	Sami i Lejla su komunicirali preko Fejsbuka
+deu	hbs_Latn	Samstags spiele ich Tennis.	Igram tenis subotom.
+deu	hbs_Latn	Schau mal! Sie kommt!	Gledaj! Ona dolazi!
+deu	hbs_Latn	Schreibt!	Pišite!
+deu	hbs_Latn	Schrei mich nicht an.	Ne deri se na mene.
+deu	hbs_Latn	Sehen Sie diesen Mann?	Vidite li tog čovjeka?
+deu	hbs_Latn	Seht ihr diesen Mann?	Vidite li tog čovjeka?
+deu	hbs_Latn	Seine Art zu reden geht mir auf die Nerven.	Njegov način govorenja mi dosađuje.
+deu	hbs_Latn	Seine Frau ist Japanerin.	Njegova žena je Japanka.
+deu	hbs_Latn	Seine grosse Liebe hat ihn verlassen.	Napustila ga je njegova velika ljubav.
+deu	hbs_Latn	Sein Gebäude soll für westliche Verhältnisse zu klein sein.	Govori se da je njegova zgrada premala za zapadne standarde.
+deu	hbs_Latn	Sein Wunsch war es, einzuschlafen und nicht aufzuwachen.	Želja mu je bila da zaspi i ne probudi se.
+deu	hbs_Latn	Senad erzählt Mark von seiner Familie.	Senad govori Marku o svojoj obitelji.
+deu	hbs_Latn	Setzen wir uns ins Gras.	Sjednimo na travu.
+deu	hbs_Latn	Sie bewahrte das Juwel in der Schatulle auf.	Držala je dragulj u kutiji.
+deu	hbs_Latn	Sie fängt an zu lesen.	On počinje čitati.
+deu	hbs_Latn	Sie feiert ihren dreißigsten Geburtstag.	Ona slavi svoj trideseti rođendan.
+deu	hbs_Latn	Sie haben das Auto angehalten.	Zaustavili su auto.
+deu	hbs_Latn	Sie haben kein Recht!	Nemate pravo!
+deu	hbs_Latn	Sie haben mich zum Präsidenten ernannt.	Postavili su me za predsjednika.
+deu	hbs_Latn	Sie haben nicht recht!	Nemate pravo!
+deu	hbs_Latn	Sie haben uns das beigebracht.	Vi ste nas to naučili.
+deu	hbs_Latn	Sie hat ein gebrochenes Herz.	Ima slomljeno srce.
+deu	hbs_Latn	Sie hat mir ein Geheimnis verraten.	Otkrila mi je tajnu.
+deu	hbs_Latn	Sie hat sich verlaufen.	Izgubila je svoj put.
+deu	hbs_Latn	Sie hat so wunderschöne Augen.	U nje su tako prekrasne oči.
+deu	hbs_Latn	Sie hielten vor der Bank an.	Zaustavili su se ispred banke.
+deu	hbs_Latn	Sie ist eine blauäugige chinesische Muslimin.	Ona je plavooka kineska muslimanka.
+deu	hbs_Latn	Sie ist eine wunderschöne Ehefrau und Mutter.	Ona je prekrasna žena i majka.
+deu	hbs_Latn	Sie ist eine wunderschöne Frau und Mutter.	Ona je prekrasna žena i majka.
+deu	hbs_Latn	Sie ist mit niemanden gekommen.	Nije došla ni s kim.
+deu	hbs_Latn	Sie ist mit sich zufrieden.	Zadovoljan je sobom.
+deu	hbs_Latn	Sie kam vom Krankenhaus zurück.	Vratila se iz bolnice.
+deu	hbs_Latn	Sie lernt seit langem Klavier spielen.	Ona već duže vrijeme uči svirati glasovir.
+deu	hbs_Latn	Sie macht sich große Sorgen um seine Gesundheit.	Ona se jako brine o njegovom zdravlju.
+deu	hbs_Latn	Sie mag Erdbeermarmelade.	Ona voli džem od jagoda.
+deu	hbs_Latn	Sie müssen einen Befehl erteilen, Ihre Majestät.	Morate izdati zapovijed, Vaše Veličanstvo.
+deu	hbs_Latn	Sie sagten, sie seien zu müde zum Tanzen.	Rekli su da su preumorni za ples.
+deu	hbs_Latn	Sie sagten, sie seien zu müde zum Tanzen.	Rekli su da su preumorni za plesanje.
+deu	hbs_Latn	Sie setzte sich unter einen Baum.	Sjela je pod stablo.
+deu	hbs_Latn	Sie sind mit dem Flugzeug von Berlin nach Istanbul geflogen.	Išli su avionom od Berlina do Stambola.
+deu	hbs_Latn	Sie sind unser tausendster Kunde!	Vi ste naš hiljaditi kupac!
+deu	hbs_Latn	Sie spielte Klavier.	Svirala je klavir.
+deu	hbs_Latn	Sie sprach mit mir freundlich.	Govorila je sa mnom prijateljski.
+deu	hbs_Latn	Sie sprechen über die Schule.	Govore o školi.
+deu	hbs_Latn	Sie trank jeden Tag Milch, aber heute hat sie einen Saft getrunken.	Pila je mlijeko svaki dan, ali je danas popila sok.
+deu	hbs_Latn	Sie überquerten den Atlantik.	Prešli su Atlantik.
+deu	hbs_Latn	Sie war so gut, mich zu beraten.	Bila je tako dobra što mi je dala savjet.
+deu	hbs_Latn	Sind Sie sicher, dass dies der richtige Ort ist?	Da li si sigurna da je ovdje pravo mjesto?
+deu	hbs_Latn	Sitz nicht einfach nur da rum!	Nemoj samo tako sjediti tamo!
+deu	hbs_Latn	Sitz nicht nur da!	Nemoj samo tako sjediti tamo!
+deu	hbs_Latn	So eine gute Idee!	Baš dobra ideja!
+deu	hbs_Latn	Soweit ich weiß, gibt es keine.	Koliko mi je poznato, nema.
+deu	hbs_Latn	Steigen Sie an der achten Haltestelle aus.	Siđite na osmoj stanici.
+deu	hbs_Latn	Stört dich das etwa nicht?	Zar ti ne smeta?
+deu	hbs_Latn	Stuart gab mir einen Zettel mit einer Adresse darauf.	Stuart mi je dao komadić papira s adresom.
+deu	hbs_Latn	Tatoeba: Sätze, Sätze und nochmals Sätze.	Tatoeba: rečenice, rečenica i još rečenica.
+deu	hbs_Latn	Tirana ist die Hauptstadt von Albanien.	Tirana je glavni grad Albanije.
+deu	hbs_Latn	Tom denkt, ich weiß nicht, was er gesagt hat.	Tom misli da ne znam šta je rekao.
+deu	hbs_Latn	Tom ging Brot kaufen.	Tom je otišao kupiti kruh.
+deu	hbs_Latn	Tom ging raus, um Brot zu kaufen.	Tom je otišao kupiti kruh.
+deu	hbs_Latn	Tom hat gefragt, ob du dort sein wirst.	Tom je pitao ako ćeš biti tamo.
+deu	hbs_Latn	Tom hat sich entschieden, das Auto zu verkaufen.	Tom je odlučio prodati auto.
+deu	hbs_Latn	Tom hat sich entschieden, sein Auto zu verkaufen.	Tom je odlučio prodati automobil.
+deu	hbs_Latn	Tom ist sehr begabt und talentiert.	Tom je vrlo nadaren i talentiran.
+deu	hbs_Latn	Tom kam zu Marys Geburtstagsfeier.	Tom je došao na Marynu rođendansku zabavu.
+deu	hbs_Latn	Tom läuft wie ein Zombi.	Tom hoda kao zombi.
+deu	hbs_Latn	Tom und Maria waren beste Freunde.	Tom i Mary su bili najbolji prijatelji.
+deu	hbs_Latn	Tom vertraut niemandem.	Tom nikome ne vjeruje.
+deu	hbs_Latn	Tom war einer unserer Arbeiter.	Tom je bio jedan od naših radnika.
+deu	hbs_Latn	Tom war offensichtlich heute früh hier.	Tom je očito bio ovdje rano jutros.
+deu	hbs_Latn	Tom wird wahrscheinlich immer noch sauer sein.	Tom će vjerovatno još uvijek biti ljut.
+deu	hbs_Latn	Tragen Sie eine Maske, bitte.	Molim vas nosite masku.
+deu	hbs_Latn	Trinken wir noch einen!	Popijmo još jedno!
+deu	hbs_Latn	Um die Wahrheit zu sagen, ich liebte sie wie verrückt.	Istina, ludo sam ju volio.
+deu	hbs_Latn	Um welche Zeit beginnt euer Arbeitstag?	U koliko sati počinje vaš radni dan?
+deu	hbs_Latn	Um welche Zeit beginnt Ihr Arbeitstag?	U koliko sati počinje vaš radni dan?
+deu	hbs_Latn	Um wieviel Uhr öffnen Sie?	U koliko sati otvarate?
+deu	hbs_Latn	Um wie viel Uhr schliessen Sie?	U koliko sati zatvarate?
+deu	hbs_Latn	Unser alter Papa ist im Zimmer.	Naš stari tata je u sobi.
+deu	hbs_Latn	Unsere Schafe werden gebrandmarkt, damit wir sie erkennen können.	Naše ovce su žigosane da ih možemo prepoznati.
+deu	hbs_Latn	Valentina kam fünf Jahre lang pünktlich zur Arbeit, aber heute hat sie sich verspätet.	Valentina je pet godina dolazila na vrijeme na posao, ali danas je zakasnila.
+deu	hbs_Latn	Vergiss nicht, mich anzurufen, wenn du nach Rio kommst, damit ich dir alles zeigen kann!	Ne zaboravi me nazvati kad dođeš u Rio kako bih tebi mogla pokazati sve!
+deu	hbs_Latn	Versuchen wir es!	Probajmo!
+deu	hbs_Latn	Versuch es wenigstens ein wenig mit mir!	Pokušaj bar malo sa mnom!
+deu	hbs_Latn	Vertrau Fremden nicht.	Ne vjeruj strancima.
+deu	hbs_Latn	Vesna spricht mit seiner Mutter.	Vesna govori s njegovom majkom.
+deu	hbs_Latn	Viele Menschen starben an den Folgen des Sturms.	Mnogi su ljudi poginuli od posljedica oluje.
+deu	hbs_Latn	Vielleicht hat Tom es vergessen.	Možda je Tom zaboravio.
+deu	hbs_Latn	Vorgestern war es stürmisch.	Bilo je olujno prekjuče.
+deu	hbs_Latn	Vor welchem Haus haben Sie das Auto parkiert?	Ispred čije kuće ste parkirali auto?
+deu	hbs_Latn	Vor welchem Haus habt ihr das Auto parkiert?	Ispred čije kuće ste parkirali auto?
+deu	hbs_Latn	Wann bist du morgens aufgestanden?	Kada si ujutro ustao?
+deu	hbs_Latn	Wann seid Ihr geboren? Im Jahr Neunzehnhundertsechsundneunzig	Kada ste rođeni? Tisuću/Hiljadu devetsto devedeset šest godine.
+deu	hbs_Latn	Wann seid ihr geboren? Neunzehnhundertsechsundneunzig.	Kada ste rođeni? Tisuću/Hiljadu devetsto devedeset šest godine.
+deu	hbs_Latn	Wann werden wir ankommen?	Kada ćemo stići?
+deu	hbs_Latn	War alles in Ordnung?	Je li sve bilo u redu?
+deu	hbs_Latn	Warst du je in Paris?	Da li si ikada bio u Parizu ?
+deu	hbs_Latn	Wartet, bis ich komme.	Pričekajte dok ne dođem.
+deu	hbs_Latn	Warum bist du plötzlich neugierig?	Zašto si odjednom znatiželjna?
+deu	hbs_Latn	Warum quält dich das?	Zašto te to muči?
+deu	hbs_Latn	Was empfehlen Sie uns?	Što nam preporučujete?
+deu	hbs_Latn	Was empfiehlt Mujo seinem Chef?	Šta preporučuje Mujo svom šefu?
+deu	hbs_Latn	Was gibt's zum Abendessen?	Šta ima za objed?
+deu	hbs_Latn	Was haben wir für Zeit?	Koliko je sada sati?
+deu	hbs_Latn	Was hat dich aufgeweckt?	Šta te je probudilo.
+deu	hbs_Latn	Was können wir sagen?	Šta možemo reći?
+deu	hbs_Latn	Was läuft?	Šta ima?
+deu	hbs_Latn	Was machst du, wenn du nicht bei der Arbeit bist?	Šta radiš kada nisi na poslu?
+deu	hbs_Latn	Was möchten Sie trinken? - Ich hätte gerne ein Bier, danke.	Šta želite popiti? - Ja bih pivo, hvala.
+deu	hbs_Latn	Wegen ihr habe ich Gott, meine alte Liebe und alles, was heilig ist, verraten.	Zbog nje sam izdao Boga i staru ljubav i sve što sveto je.
+deu	hbs_Latn	Weisst du das wirklich?	Da li zaista znaš?
+deu	hbs_Latn	Weisst du, wie diese Maschine funktioniert?	Znaš li kako radi ova mašina?
+deu	hbs_Latn	Welche Frau hat den Schlüssel genommen?	Koja žena je uzela ključ?
+deu	hbs_Latn	Welche Gitarre ist die von Tom?	Koja gitara je Tomova?
+deu	hbs_Latn	Welche ist eure Wohnung?	Koji je vaš stan?
+deu	hbs_Latn	Welche ist Ihre Wohnung?	Koji je vaš stan?
+deu	hbs_Latn	Welche ist Toms Gitarre?	Koja gitara je Tomova?
+deu	hbs_Latn	Welcher Frau hast du den Schlüssel gegeben?	Kojoj ženi si dala ključ?
+deu	hbs_Latn	Welches Buch möchten Sie?	Koju knjigu želite?
+deu	hbs_Latn	Welches Buch möchtet ihr?	Koju knjigu želite?
+deu	hbs_Latn	Wem hat er Geld gegeben?	Kome je dao novac?
+deu	hbs_Latn	Wem nützt das?	Kome koristi?
+deu	hbs_Latn	Wenn du eine Million Yen hättest, was würdest du damit tun?	Kada bi imao milijun jena, što bi učinio s njima?
+deu	hbs_Latn	Wenn es eine Möglichkeit gäbe, würden wir bleiben.	Da postoji mogućnost, ostali bismo.
+deu	hbs_Latn	Wenn es morgen regnen wird, dann gehen wir nicht auf die Berge.	Ako sutra padne kiša, onda ne idemo u planine.
+deu	hbs_Latn	Wenn es regnen wird, werden wir ins Kino gehen.	Ako bude padala kiša, ićićemo u bioskop.
+deu	hbs_Latn	Wenn es warm ist, gehen wir zum Strand.	Ako je toplo, idemo na plažu.
+deu	hbs_Latn	Wenn ich du wäre, würde ich warten.	Da sam ja ti, čekao bih.
+deu	hbs_Latn	Wenn Ihr von Zagreb aus nach Norden reist, erreicht ihr Slowenien.	Ako putujete prema sjeveru od Zagreba stižete do Slovenije.
+deu	hbs_Latn	Wenn sie damit meinen, dass er von einer niedrigen Herkunft ist.	Ako pod tim misliš da je nižeg porijekla.
+deu	hbs_Latn	Wenn Sie von Zagreb aus nach Norden reisen, erreichen Sie Slowenien.	Ako putujete prema sjeveru od Zagreba stižete do Slovenije.
+deu	hbs_Latn	Werdet ihr mich am Flughafen abholen?	Hoćete li doći po mene u zračnu luku?
+deu	hbs_Latn	Widerholen Sie das bitte!	Molim, ponovite!
+deu	hbs_Latn	Wie alt ist dieses Buch?	Koliko je stara ova knjiga?
+deu	hbs_Latn	Wiederhole nach mir: "Nein!"	Ponovi za mnom: „Ne!“
+deu	hbs_Latn	Wiederholen Sie bitte!	Molim, ponovite!
+deu	hbs_Latn	Wiederholt es bitte!	Molim, ponovite!
+deu	hbs_Latn	Wie geht's?	Šta ima?
+deu	hbs_Latn	Wie haben Sie ihn gefunden?	Kako ste ga našli?
+deu	hbs_Latn	Wie habt ihr ihn gefunden?	Kako ste ga našli?
+deu	hbs_Latn	Wie ist das Wetter auf dem Meer?	Kakvo je vrijeme na moru?
+deu	hbs_Latn	Wie ist das Wetter auf See?	Kakvo je vrijeme na moru?
+deu	hbs_Latn	Wie kann ich es loswerden?	Kako ga se mogu riješiti?
+deu	hbs_Latn	Wie lange bleiben wir in Berlin?	Koliko dugo ostajemo u Berlinu?
+deu	hbs_Latn	Wie lange seid ihr verheiratet?	Koliko dugo su u braku?
+deu	hbs_Latn	Wie lange sind sie bereits in Sarajevo?	Koliko dugo su već u Sarajevu?
+deu	hbs_Latn	Wie schön ist es, außerhalb der Stadt in der Natur zu sein!	Kako je dobro biti izvan grada u prirodi!
+deu	hbs_Latn	Wie schreibt man das auf Englisch?	Kako se to piše na engleskom?
+deu	hbs_Latn	Wie spät ist es? Genau fünf Uhr.	Koliko je sati? Tačno pet sati.
+deu	hbs_Latn	Wie viel kostet eine Fahrkarte nach Sarajevo in der ersten Klasse?	Koliko košta karta za prvi razred za Sarajevo?
+deu	hbs_Latn	Wie war es unterwegs?	Kako je bilo na putu?
+deu	hbs_Latn	Wie wird man Schuppen auf natürliche Weise los?	Kako se riješiti prhuti na prirodan način?
+deu	hbs_Latn	Wir alle wissen, dass wir eine Sprache lernen, indem wir sie hören und sprechen.	Svi znamo da jezik učimo slušajući ga i govoreći.
+deu	hbs_Latn	Wir bleiben eine Woche.	Ostajemo jednu sedmicu.
+deu	hbs_Latn	Wir gaben den Schlüssel der Rezeption zurück.	Vratile smo ključ recepciji.
+deu	hbs_Latn	Wir gehen direkt in Richtung des Platzes.	Idemo ravno prema trgu.
+deu	hbs_Latn	Wir gehen direkt zum Platz.	Idemo ravno prema trgu.
+deu	hbs_Latn	Wir gehen in den Urlaub.	Idemo na odmor.
+deu	hbs_Latn	Wir gehen in die Ferien.	Idemo na odmor.
+deu	hbs_Latn	Wir gehen mit allen Baseball spielen.	Idemo igrati bejzbol sa svima.
+deu	hbs_Latn	Wir gehen morgen früh.	Sutra ujutro idemo.
+deu	hbs_Latn	Wir gehen nach Algerien.	Idemo u Alžir.
+deu	hbs_Latn	Wir gehen schlafen.	Idemo spavati.
+deu	hbs_Latn	Wir gehen zum Strand.	Idemo na plažu.
+deu	hbs_Latn	Wir haben den ganzen Nachmittag gelernt.	Učili smo cijelo poslijepodne.
+deu	hbs_Latn	Wir haben den Schlüssel zurück zur Rezeption gebracht.	Vratile smo ključ recepciji.
+deu	hbs_Latn	Wir haben ein interessantes Buch auf Deutsch.	Imamo zanimljivu knjigu na njemačkom.
+deu	hbs_Latn	Wir haben gesehen, wie diese Leute vor dem Hotel redeten.	Gledali smo kako ti ljudi razgovaraju ispred hotela.
+deu	hbs_Latn	Wir haben kein Dach über unsere Köpfe.	Nemamo krov iznad naših glava.
+deu	hbs_Latn	Wir haben stundenlang auf dich gewartet!	Čekali smo te satima!
+deu	hbs_Latn	Wir haben uns für den Chor angemeldet.	Prijavili smo se na zbor.
+deu	hbs_Latn	Wir haben uns in den Ferien kennengelernt.	Upoznali smo se na odmoru.
+deu	hbs_Latn	Wir habne Stunden auf dich gewartet!	Čekali smo te satima!
+deu	hbs_Latn	Wir hatte keine Probleme.	Nismo imali problema.
+deu	hbs_Latn	Wir kamen in Split an, dann kauften wir Tickets für das Boot.	Stigli smo u Split, onda smo kupili karte za brod.
+deu	hbs_Latn	Wir können hier eine kurze Pause machen.	Možemo ovdje napraviti kratku pauzu.
+deu	hbs_Latn	Wir können Kaffee trinken gehen, aber zuerst muss ich zur Post.	Možemo ići na kavu, ali prvo moram ići na poštu
+deu	hbs_Latn	Wir lernten den ganzen Nachmittag.	Učili smo cijelo poslijepodne.
+deu	hbs_Latn	Wir machen dort weiter, wo wir aufgehört haben.	Nastavljamo tamo gdje smo stali.
+deu	hbs_Latn	Wir nutzen das Internet in unserem Unternehmen.	U našoj tvrtki koristimo Internet.
+deu	hbs_Latn	Wir redeten den über den Urlaub.	Govorili smo o odmoru.
+deu	hbs_Latn	Wir reisen morgen früh ab.	Sutra ujutro idemo.
+deu	hbs_Latn	Wir sahen Affen im Zoo.	Vidjeli smo majmune u zoološkom vrtu.
+deu	hbs_Latn	Wir sind auf dem Weg nach Süden.	Mi smo na putu prema jugu.
+deu	hbs_Latn	Wir sind erkältet.	Prehlađeni smo.
+deu	hbs_Latn	Wir sind heute Abend aus gutem Grund hier.	Ovdje smo večeras zbog dobrog razloga.
+deu	hbs_Latn	Wir sind in den Ferien nach Hvar gefahren, als ich noch ein Kind war.	Išli smo na Hvar na odmor, tada sam bio još dijete.
+deu	hbs_Latn	Wir sind von den Ferien zurückgekehrt.	Vratili smo se s odmora.
+deu	hbs_Latn	Wir sitzen in einem alten Theater.	Sjedimo u starom kazalištu.
+deu	hbs_Latn	Wirst du das Licht ausmachen?	Hočeš li ugasiti svjetlo?
+deu	hbs_Latn	Wir werden weiterhin zusammenarbeiten.	Nastavićemo surađivati.
+deu	hbs_Latn	Wo Feuer ist, ist auch Rauch.	Gdje je vatra, tu je i dim.
+deu	hbs_Latn	Wo habt ihr diesen Ananassaft gekauft?	Gdje ste kupili ovaj sok od ananasa?
+deu	hbs_Latn	Wo hast du diesen Ananassaft gekauft?	Gdje si kupila ovaj sok od ananasa?
+deu	hbs_Latn	Wo hast du diesen Ananassaft gekauft?	Gdje si kupio ovaj sok od ananasa?
+deu	hbs_Latn	Woher schickt Mark sein Fax? Von ihrem Hotel in Osijek.	Odakle Mark šalje svoj faks? Iz njihovog osiječkog hotela.
+deu	hbs_Latn	Wohin ich auch gehe, ich gehe zu dir.	Gdje god pođem tebi idem.
+deu	hbs_Latn	Wo kann ich ein Fahrrad ausleihen?	Gdje mogu da unajmim bicikl?
+deu	hbs_Latn	Womit seid ihr zufrieden?	Čime ste zadovoljni?
+deu	hbs_Latn	Womit sind Sie zufrieden?	Čime ste zadovoljni?
+deu	hbs_Latn	Woraus besteht unsere heutige Tagesordnung?	Od čega se sastoji naš današnji dnevni red?
+deu	hbs_Latn	Wo sich Menschen versammeln.	Gdje se ljudi skupljaju.
+deu	hbs_Latn	Wo sind die Gäste?	Gdje su gosti?
+deu	hbs_Latn	Wo sind die Väter?	Gdje su očevi?
+deu	hbs_Latn	Yanni war auf dem Konzert.	Yanni je bio na koncertu.
+deu	hbs_Latn	Zagreb ist die Hauptstadt Kroatiens.	Zagreb je glavni grad Hrvatske.
+deu	hbs_Latn	Zašto te to muči?	Zašto te to muči?
+deu	hbs_Latn	Zehn Sachen, ohne die ich nicht leben kann.	Deset stvari bez kojih ne mogu.
+deu	hbs_Latn	Zeigen Sie mir bitte eine andere Kamera.	Molim te pokaži mi drugu kameru.
+deu	hbs_Latn	Zoran sagt, dass er mich anrufen wird.	Zoran kaže da će me nazvati.
+deu	hbs_Latn	Zu Hause esse ich gewöhnlich etwa um halb acht mit Milorad zu Abend.	Kod kuće obično večeram s Miloradom oko pola osam.
+deu	hbs_Latn	Zu Hause esse ich gewöhnlich gegen halb acht mit Milorad zu Abend.	Kod kuće obično večeram s Miloradom oko pola osam.
+deu	hbs_Latn	Zum ersten Mal in meinem Leben lehne ich Essen ab.	Po prvi put u mom životu odbijam hranu.
+deu	hbs_Latn	Ich habe Deutsch gelernt.	Naučio sam njemački.
+deu	hbs_Cyrl	Die Zeit blieb stehen.	Време стаде.
+deu	hbs_Cyrl	Er will eine Uhr wie deine.	Жели сат као твој.
+deu	hbs_Cyrl	Führt Tom ein Tagebuch?	Да ли Том води дневник?
+deu	hbs_Cyrl	Hast du eine Luftmatratze?	Да ли имаш душек на надувавање?
+deu	hbs_Cyrl	Ich esse jeden Tag Fleisch.	Једем месо сваки дан.
+deu	hbs_Cyrl	Ich glaube, ich will Toms Bericht gar nicht lesen. Je weniger ich weiß, desto besser.	Мислим да је желим да прочитам Ромов извештај. Што мање знам, то боље.
+deu	hbs_Cyrl	Ich weiß, dass du glaubst, ich sei wie die anderen.	Знам да мислиш да сам исти као други.
+deu	hbs_Cyrl	Im nächsten Leben werde ich alles anders machen.	У следећем животу ћу све радити другачије.
+deu	hbs_Cyrl	Mir ist langweilig. Ich weiß nicht, was ich machen soll.	Мени је досадно. Не знам шта да радим.
+deu	hbs_Cyrl	Niemand will vom Tisch aufstehen.	Нико неће да устане са стола.
+deu	hbs_Cyrl	Sie wohnt in der Nähe.	Она живи у близини.
+deu	hbs_Cyrl	Waren in deinem Waggon viele Leute?	Да ли је било много људи у твом вагону?
+deu	hbs_Cyrl	Waren in der Bibliothek viele Leute?	Да ли је било много људи у библиотеци?
+deu	hbs_Cyrl	Waren viele Fahrgäste im Bus?	Да ли је било много путника у аутобусу?
+deu	hbs_Cyrl	Waren viele Leute im Zug?	Да ли је било много људи у возу?
+deu	hbs_Cyrl	Waren viele Passagiere im Zug?	Да ли је било много путника у возу?
+deu	hbs_Cyrl	Wer von uns macht heute Abend Abendessen?	Ко од нас спрема вечеру вечерас?
+deu	hbs_Cyrl	Wie viel ist er älter als du?	Колико је он старији од тебе?
+deu	hbs_Cyrl	Wir sehen wenig Schnee hier.	Овде не видимо много снега.
+deu	hbs_Latn	Der Elternverband lädt die Bürger Montenegros ein, eine Online-Petition zu unterzeichnen.	Udruženje Roditelji poziva građane Crne Gore da potpišu online peticiju.
+deu	hbs_Latn	Ich habe Deutsch gelernt.	Naučio sam nemački.
+deu	hbs_Latn	Ich unterschreibe einen Vertrag.	Potpišem ugovor.
+deu	hbs_Latn	Ich weiß, dass sie zustimmen wird.	Znam da će se ona složiti.
+deu	hbs_Latn	„Nein, ich denke nicht“, erwiderte die Königin.	"Ne, ne mislim tako", uzvratila je kraljica.
+deu	hbs_Latn	Treffen wir uns heute Nacht?	Nalazimo li se večeras?
+deu	hbs_Latn	Wo befinde ich mich?	Gde se nalazim?
+deu	hbs_Latn	Wo befinden sich der Modellname und die Seriennummer?	Gde se nalaze naziv modela i serijski broj?
+deu	hbs_Latn	Zeiten ändern sich.	Vremena se menjaju.

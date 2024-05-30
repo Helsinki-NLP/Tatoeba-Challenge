@@ -35,8 +35,11 @@ pol	slv	Idę do kina.	Idem do kina.
 pol	slv	Idę na plażę.	Grem na plažo.
 pol	slv	Idę na plażę.	Idem na pláž.
 pol	slv	Jak na ironię jego obrazy warte są teraz miliony, choć za życia cierpiał nędzę.	Ironija je v tem, da so njegove slike zdaj vredne milijone, čeprav je za življenja trpel revščino.
+pol	slv	Ja też was kocham.	Aj ja vás ľúbim.
+pol	slv	Ja też was kocham.	Aj ja vás milujem.
 pol	slv	Jestem Juliusz.	Ja som Július.
 pol	slv	Jestem na trzeciej stronie.	Som na tretej strane.
+pol	slv	Jestem pewien, że Tom tego nie chce.	Som si istý, že to Tom nechce.
 pol	slv	Jestem pewien, że znajdziemy rozwiązanie.	Som si istý, že nájdeme riešenie.
 pol	slv	Jestem szczęśliwy.	Ja som šťastný.
 pol	slv	Jestem szczęśliwy.	Jaz sem srečen.
@@ -69,6 +72,8 @@ pol	slv	Lubisz swoich kolegów z klasy?	Milujete svojich spolužiakov z triedy?
 pol	slv	Mam iść z tobą?	Mám ísť s tebou?
 pol	slv	Mam na ten lek receptę.	Mám recept pre tento liek.
 pol	slv	Masz czas we wtorek?	Máš čas v utorok?
+pol	slv	Ma szerokie ramiona.	Má široké plecia.
+pol	slv	Ma szerokie ramiona.	Má široké ramená.
 pol	slv	Mieszkam w Rzymu.	Bývam v Ríme.
 pol	slv	Mogę chwilę poczekać.	Nevadí mi počkať chvíľu.
 pol	slv	Mogę iść z tobą?	Môžem ísť s vami?
@@ -76,12 +81,15 @@ pol	slv	Mogę pomóc, jeśli chcesz.	Ja môžem pomôcť ak chceš.
 pol	slv	Moi bracia są pod drzewem.	Moji bratia sú pod stromom.
 pol	slv	Moja siostra ma ładne pianino.	Moja sestra má pekné piano.
 pol	slv	Moje gratulacje!	Gratulujem!
+pol	slv	Moje włosy są jeszcze mokre.	Mám ešte mokré vlasy.
 pol	slv	Mówisz po albańsku?	Hovoríš po albánsky?
 pol	slv	Możecie mi pomóc?	Môžete mi pomôcť?
 pol	slv	Może macie rację.	Snáď máte pravdu.
 pol	slv	Może mi pani pomóc?	Môžete mi pomôcť?
 pol	slv	Może mi pan pomóc?	Môžete mi pomôcť?
 pol	slv	Musi zapłacić za książkę.	Musí zaplatiť za knihu.
+pol	slv	Napisałam nową książkę.	Napisala sem novo knjigo.
+pol	slv	Napisałem nową książkę.	Napisal sem novo knjigo.
 pol	slv	Nasz pociąg nagle się zatrzymał.	Náš vlak zrazu zastavil.
 pol	slv	Nazywam się Juliusz.	Volám sa Július.
 pol	slv	Nie chcę tak długo czekać.	Ja nechcem tak dlho čakať.
@@ -95,6 +103,7 @@ pol	slv	Nie wiem, gdzie jest Tom.	Ja neviem, kde je Tom.
 pol	slv	Nie zostawiaj włączonych świateł kiedy wychodzisz z pokoju.	Nenechávaj zapnuté svetlá, keď opúšťaš izbu.
 pol	slv	Nigdy nie jest za późno.	Nikdy nie je príliš neskoro.
 pol	slv	Nigdy nie lubiłem biologii.	Nikdy som nemal rád biológiu.
+pol	slv	Obudził nas.	Zobudil nás.
 pol	slv	Oczywiście, że rozumiem.	Samozrejme, že rozumiem.
 pol	slv	Ojciec mówi po angielsku lepiej od mamy.	Otec hovorí po anglicky lepšie ako mama.
 pol	slv	O której zwykle wychodzisz z domu?	O koľkej zvyčajne odchádzaš z domu?
@@ -113,6 +122,7 @@ pol	slv	Pada śnieg w Paryżu	Sneží v Paríži.
 pol	slv	Pamiętacie tę grę?	Pamätáte si túto hru?
 pol	slv	Patrzyła na niego gniewnym wzrokiem.	Pozerala naňho nahnevane.
 pol	slv	Pierdol się!	Pojeb sa!
+pol	slv	Pocałuj go.	Pobozkaj ho.
 pol	slv	Pochowałem swojego psa na zwierzęcym cmentarzu.	Pochoval som svojho psa na zvieracom cintoríne.
 pol	slv	Po co ci ta wykałaczka?	Prečo potrebujete tento špáradlo?
 pol	slv	Poczekaj, aż wrócę.	Počkaj, kým sa nevrátim.
@@ -144,9 +154,13 @@ pol	slv	Ten stół jest czysty.	Tento stôl je čistý.
 pol	slv	Timuçin uczy się polskiego.	Timuçin sa učí po poľsky.
 pol	slv	To brzmi zabawnie.	To znie zábavne.
 pol	slv	To był głupi pomysł.	Bol to hlúpy nápad.
+pol	slv	To jest kawiarnia, w której po raz pierwszy spotkałem moją żonę.	To je kaviareň, v ktorej som po prvýkrát stretol svoju ženu.
 pol	slv	To jest niestety prawda.	Bohužiaľ je to pravda.
 pol	slv	Tom nie jest moim synem.	Tom nie je môj syn.
 pol	slv	Tom nie pije kawy.	Tom nepije kávu.
+pol	slv	To moja siostra.	To je moja sestra.
+pol	slv	To moja żona.	To je moja žena.
+pol	slv	To mój mąż.	To je moj mož.
 pol	slv	Tom pije piwo.	Tom pije pivo.
 pol	slv	Tom pomaga.	Tom pomáha.
 pol	slv	To nie jest drogie.	To nie je drahé.

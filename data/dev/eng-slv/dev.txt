@@ -10,6 +10,7 @@ eng	slv	After winter, spring comes.	Za zimo pride pomlad.
 eng	slv	Agriculture is not humankind's destiny.	Kmetovanje ni človeška usoda.
 eng	slv	'Aha', they will say.	'Aha', povedia.
 eng	slv	Alcohol doesn't solve any problems.	Alkohol nerieši žiadne problémy.
+eng	slv	A leaf is part of a plant.	List je časťou rastliny.
 eng	slv	Algeria's flag has three colors: green, white and red.	Alžírska vlajka má tri farby: zelenú, bielu a červenú.
 eng	slv	All cats are beautiful.	Všetky mačky sú krásne.
 eng	slv	All the supplies ran out.	Všetky zásoby sa minuli.
@@ -39,6 +40,7 @@ eng	slv	Are you from Africa?	Si z Afriky?
 eng	slv	Are you from Africa?	Ste z Afriky?
 eng	slv	Are you from Asia?	Si z Ázie?
 eng	slv	Are you going to come visit me?	Me boš prišel obiskat.
+eng	slv	Are you liberal?	Si liberál?
 eng	slv	Are you married?	Si vydatá?
 eng	slv	Are you married?	Si ženatý?
 eng	slv	Are you married?	Ste ženatý?
@@ -87,6 +89,7 @@ eng	slv	Can I reserve a flight to Osaka?	Možem rezervovať let do Osaky?
 eng	slv	Can you remember this game?	Pamätáte si túto hru?
 eng	slv	Can you search online?	Ali lahko poiščeš na spletu?
 eng	slv	Can you search online?	Lahko poiščeš na spletu?
+eng	slv	Christianity cures hatred.	Kresťanstvo lieči nenávisť.
 eng	slv	Cloudy with occasional rain.	Oblačno s občasným dažďom.
 eng	slv	Clutter on the table, clutter in the head.	Neporiadok na stole, neporiadok v hlave.
 eng	slv	Colorless green ideas sleep furiously.	Bezfarebné zelené nápady spia razantne.
@@ -96,6 +99,7 @@ eng	slv	Conspiracy is becoming reality.	Konšpirácia sa stáva skutočnosťou.
 eng	slv	Could you do it now?	Mohli by ste to teraz urobiť?
 eng	slv	Could you walk the dog?	Lahko ti pelješ psa na sprehod?
 eng	slv	Creationism is bullshit.	Kreacionizem je sranje.
+eng	slv	Crimea is a peninsula.	Krym je poloostrov.
 eng	slv	Dan believes this tie belongs to his wife's lover.	Dan verjame, da ta kravata pripada ljubimcu njegove žene.
 eng	slv	Dan is getting married.	Dan sa žení.
 eng	slv	David went to buy some food.	Dávid šiel kúpiť nejaké jedlo.
@@ -127,6 +131,7 @@ eng	slv	Don't smoke.	Nefajčite!
 eng	slv	Don't tell me you didn't know.	Nehovor mi, že si to nevedel.
 eng	slv	Do we exist?	Existujeme?
 eng	slv	Do we exist?	Jestvujeme?
+eng	slv	Do we need tickets?	Potrebujeme vstupenky?
 eng	slv	Do you accept credit cards?	Ali sprejemate kreditne kartice?
 eng	slv	Do you agree with me?	Súhlasíš so mnou?
 eng	slv	Do you come here often?	Chodíš sem často?
@@ -145,18 +150,66 @@ eng	slv	Do you like this carpet?	Páči sa ti tento koberec?
 eng	slv	Do you love nature?	Máte rád prírodu?
 eng	slv	Do you love your mother?	Miluješ svoju matku?
 eng	slv	"Do you promise?" "Yes, I promise."	„Sľubuješ?“ „Áno, sľubujem.“
+eng	slv	Do you speak Belarusian?	Ali govoriš belorusko?
+eng	slv	Do you speak Belarusian?	Ali govorite belorusko?
+eng	slv	Do you speak Belarusian?	Govoriš belorusko?
+eng	slv	Do you speak Belarusian?	Govorite beloruško?
+eng	slv	Do you speak Bosnian?	Ali govoriš bosansko?
+eng	slv	Do you speak Bosnian?	Ali govorite bosansko?
+eng	slv	Do you speak Bosnian?	Govoriš bosansko?
+eng	slv	Do you speak Bosnian?	Govorite bosansko?
+eng	slv	Do you speak Burmese?	Ali govoriš burmansko?
+eng	slv	Do you speak Burmese?	Ali govorite burmansko?
+eng	slv	Do you speak Burmese?	Govoriš burmansko?
+eng	slv	Do you speak Burmese?	Govorite burmansko?
+eng	slv	Do you speak Croatian?	Ali govoris hrvaško?
+eng	slv	Do you speak Croatian?	Ali govorite hrvaško?
+eng	slv	Do you speak Croatian?	Govoriš hrvaško?
+eng	slv	Do you speak Croatian?	Govorite hrvaško?
 eng	slv	Do you speak English?	Hovoríte po anglicky?
+eng	slv	Do you speak Khmer?	Ali govoriš kmersko?
+eng	slv	Do you speak Khmer?	Ali govorite kmersko?
+eng	slv	Do you speak Khmer?	Govoriš kmersko?
+eng	slv	Do you speak Khmer?	Govorite kmersko?
+eng	slv	Do you speak Montenegrin?	Ali govoriš črnogorsko?
+eng	slv	Do you speak Montenegrin?	Ali govorite črnogorsko?
+eng	slv	Do you speak Montenegrin?	Govoriš črnogorsko?
+eng	slv	Do you speak Montenegrin?	Govorite črnogorsko?
 eng	slv	Do you speak Sinhalese?	Hovoríš sinhalsky?
 eng	slv	Do you speak Swahili?	Hovoríš po svahilsky?
+eng	slv	Do you speak Tibetan?	Ali govoriš tibetansko?
+eng	slv	Do you speak Tibetan?	Ali govorite tibetansko?
+eng	slv	Do you speak Tibetan?	Govoriš tibetansko?
+eng	slv	Do you speak Tibetan?	Govorite tibetansko?
+eng	slv	Do you speak Uighur?	Ali govoriš ujgursko?
+eng	slv	Do you speak Uighur?	Ali govorite ujgursko?
+eng	slv	Do you speak Uighur?	Govoriš ujgursko?
+eng	slv	Do you speak Uighur?	Govorite ujgursko?
+eng	slv	Do you speak Uyghur?	Ali govoriš ujgursko?
+eng	slv	Do you speak Uyghur?	Ali govorite ujgursko?
+eng	slv	Do you speak Uyghur?	Govoriš ujgursko?
+eng	slv	Do you speak Uyghur?	Govorite ujgursko?
+eng	slv	Do you speak Vietnamese?	Ali govoriš vietnamsko?
+eng	slv	Do you speak Vietnamese?	Ali govorite vietnamsko?
+eng	slv	Do you speak Vietnamese?	Govoriš vietnamsko?
+eng	slv	Do you speak Vietnamese?	Govorite vietnamsko?
 eng	slv	Do you think I don't know what is going on?	Myslíš si, že neviem, čo sa deje?
 eng	slv	Do you think that we'll win?	Myslíš, že vyhráme?
+eng	slv	Do you want a coffee?	Želite kavo?
 eng	slv	Do you want me to sing you a lullaby?	Chceš, aby som ti zaspieval uspávanku?
 eng	slv	Do you watch BBC or CNN?	Sleduješ BBC alebo CNN?
+eng	slv	Do you watch the news?	Ali gledaš novice?
+eng	slv	Do you watch the news?	Ali gledate novice?
+eng	slv	Do you watch the news?	Gledaš novice?
+eng	slv	Do you watch the news?	Gledate novice?
 eng	slv	Do you write with a blue or a black pen?	Píšeš modrým alebo čiernym perom?
 eng	slv	Drink tea.	Pi čaj.
 eng	slv	Eat vegetables.	Jedzte zeleninu.
 eng	slv	Eight minus four is four.	Osem mínus štyri je štyri.
 eng	slv	Even if faith were a placebo, I would rather have it than not.	Aj keby viera mala byť len placebom, radšej ju budem mať.
+eng	slv	Even professors can be wrong.	Aj profesori sa môžu mýliť.
+eng	slv	Even professors can make mistakes.	Aj profesori sa môžu mýliť.
+eng	slv	Even though I'm Brazilian, I root for the French national team because my grandpa was born in Paris and I have a French last name, and also because I love France.	Aj keď som Brazílčan, nadržiavam francúzskemu národnému družstvu, pretože môj dedo sa narodil v Paríži, mám francúzske priezvisko, a taktiež preto, lebo milujem Francúzsko.
 eng	slv	Even when I'm lying down, I'm tired.	Dokonca i keď ležím, som unavený.
 eng	slv	Even with his glasses, he doesn't see very well.	Tudi z očali ne vidi dobro.
 eng	slv	Everybody says it.	Všetci to hovoria.
@@ -186,6 +239,7 @@ eng	slv	Goodbye!	Adijo.
 eng	slv	Goodbye!	Dovidenia!
 eng	slv	Goodbye!	Nasvidenje.
 eng	slv	Goodbye, Sayoko.	Dovidenia, Sayoko.
+eng	slv	Good morning, Tom. How are you?	Dobro jutro, Tom. Kako si?
 eng	slv	“Go, she's waiting for you”.	„Choď, čaká ťa.”
 eng	slv	Go to sleep.	Choď spať!
 eng	slv	Hahaha!	Chachacha!
@@ -204,6 +258,8 @@ eng	slv	Have you finished yet?	Ali še nisi končal?
 eng	slv	He always carries a pocketknife.	Vždy so sebou nosí vreckový nožík.
 eng	slv	He asked for a pay raise.	On požiadal o zvýšenie platu.
 eng	slv	He asked her to marry him, and she accepted.	Požiadal ju o ruku a ona súhlasila.
+eng	slv	He built you a house.	Postavil ti dom.
+eng	slv	He built you a house.	Postavil vám dom.
 eng	slv	He can only criticize people behind their backs.	Vie iba kritizovať ľudí poza ich chrbát.
 eng	slv	He can't swim.	On nevie plávať.
 eng	slv	He changed schools last year.	Minulý rok zmenil školu.
@@ -243,6 +299,7 @@ eng	slv	Hello!	Dobrý deň!
 eng	slv	Hello everyone!	Ahoj všetci!
 eng	slv	Hello!	Živijo.
 eng	slv	He loves her; she loves him, too.	Miluje ju; ona jeho tiež.
+eng	slv	Help yourself and God will help you!	Pomogaj si sam in Bog ti bo pomagal!
 eng	slv	He never speaks English without making mistakes.	Nikdy nehovorí anglicky bez toho, aby robil chyby.
 eng	slv	He opened his eyes and looked at me.	Otvoril oči a pozrel na mňa.
 eng	slv	He pays with a credit card.	On platí kreditnou kartou.
@@ -272,6 +329,7 @@ eng	slv	He wants to work in a hospital.	On chce pracovať v nemocnici.
 eng	slv	He was completely tired from walking all day.	Od celodnevne hoje je bil popolnoma utrujen.
 eng	slv	He was going to tell him.	Chystal sa mu to povedať.
 eng	slv	He was very fun.	Bol veľmi zábavný.
+eng	slv	He who says A, must say B.	Kdor reče A, mora reči tudi B.
 eng	slv	He who sleeps with dogs wakes up with fleas.	Kto spáva so psami, zobúdza sa s blchami.
 eng	slv	He will leave for the station an hour before the train leaves.	Pôjde na stanicu hodinu predtým, ako odíde vlak.
 eng	slv	He will see them this evening.	Uvidí ich dnes večer.
@@ -280,6 +338,12 @@ eng	slv	He wrote me a letter.	Napísal mi list.
 eng	slv	Hi, Bill. How are you?	Ahoj, Bill. Ako sa máš?
 eng	slv	Hi! How are you?	Ahoj! Ako sa máš?
 eng	slv	Hi! How are you?	Živijo! Kako si?
+eng	slv	Hi, my name is Mary.	Živijo, ime mi je Marija.
+eng	slv	Hi, my name is Mary.	Živijo, moje ime je Marija.
+eng	slv	Hi, my name is Mohand.	Živijo, ime mi je Mohand.
+eng	slv	Hi, my name is Mohand.	Živijo, moje ime je Mohand.
+eng	slv	Hi, my name's Mary.	Živijo, ime mi je Marija.
+eng	slv	Hi, my name's Mary.	Živijo, moje ime je Marija.
 eng	slv	His father is a firefighter.	Jeho otec je hasič.
 eng	slv	His father is a firefighter.	Jeho otec je požiarnik.
 eng	slv	His hair is wet.	Má mokré vlasy.
@@ -310,15 +374,19 @@ eng	slv	How much did you pay?	Koľko ste platili?
 eng	slv	How much is it going to roughly cost me to get to the airport from here.	Koľko ma to bude zhruba stáť dostať sa odtiaľto na letisko?
 eng	slv	How much money do you have?	Koľko peňazí máš?
 eng	slv	How old is this temple?	Koľko rokov má tento chrám?
+eng	slv	How's her name spelled?	Ako sa hláskuje jej meno?
 eng	slv	How's that going?	Ako to ide?
 eng	slv	Humans are illogical.	Ljudje so nelogični.
 eng	slv	Hurry up.	Pohiti
 eng	slv	Hurry up.	Ponáhľaj sa!
+eng	slv	I also teach Brazilian Portuguese classes.	Učím aj brazílsku portugalčinu.
+eng	slv	I also teach Brazilian Portuguese classes.	Vyučujem aj brazílsku portugalčinu.
 eng	slv	I am a tourist.	Som turista.
 eng	slv	I am eating the apple.	Jem jablko.
 eng	slv	I am going out to buy the newspaper.	Grem po časopis.
 eng	slv	I am in London.	Som v Londýne.
 eng	slv	I am in Russia.	Jaz sem v Rusiji.
+eng	slv	I am learning Uighur.	Govorim ujgursko.
 eng	slv	I am married to a Polish woman.	Moja žena je Poľka.
 eng	slv	I am not a rhinoceros, I am not a tiger, but I am led into this barren wild...	Nisem nosorog, nisem tiger, pa me vodijo v to pusto divjino.
 eng	slv	I am not pleased with what you have done.	Nie som spokojný s tým, čo si spravil.
@@ -344,6 +412,7 @@ eng	slv	I can employ you in my company.	Lahko te zaposlim v svojem podjetju.
 eng	slv	I can't believe Tom did all this.	Nemôžem uveriť, že Tom spravil toto všetko.
 eng	slv	I can't come today or tomorrow either.	Danes ne morem priti, jutri pa tudi ne.
 eng	slv	I can't go.	Nemôžem ísť.
+eng	slv	I can't play this game.	Ne morem igrati te igre.
 eng	slv	I can't stand rats.	Ne prenesem podgan.
 eng	slv	I can't stop eating.	Nemôžem prestať jesť.
 eng	slv	I caught up with the others.	Dohitel sem ostale.
@@ -353,6 +422,8 @@ eng	slv	I couldn't find her.	Nemohol som ju nájsť.
 eng	slv	I couldn't tell what color his shirt was because it was too dark outside.	Nemohol som povedať akej farby bola jeho košeľa, lebo bola vonku priveľká tma.
 eng	slv	I counted on Tom.	Počítal som s Tomom.
 eng	slv	I'd better get home.	Radšej by som mal ísť domov.
+eng	slv	I did it with good reason.	To sem naredila z dobrim razlogom.
+eng	slv	I did it with good reason.	To sem naredil z dobrim razlogom.
 eng	slv	I didn't expect anything.	Neočakával som nič.
 eng	slv	I didn't kiss him. He kissed me.	Nisem ga poljubila jaz. On je poljubil mene.
 eng	slv	I didn't know anything.	Nič som nevedela.
@@ -364,7 +435,11 @@ eng	slv	I'd like to get to know Tom better.	Rada by som Tomáša lepšie spoznal
 eng	slv	I'd like to get to know Tom better.	Rád by som Tomáša lepšie spoznal.
 eng	slv	I'd like to spend more time with my family.	Rad bi preživel več časa s svojo družino.
 eng	slv	I do nothing.	Ne naredim ničesar.
+eng	slv	I do not speak English.	Ne govorim angleško.
+eng	slv	I do not speak Latvian.	Ne govorim latvijsko.
+eng	slv	I do not speak Polish.	Ne govorim poljsko.
 eng	slv	I don't discriminate.	Ja nediskriminujem.
+eng	slv	I don't feel like I'm asking too much of you.	Nemyslím si, že od vás žiadam veľa.
 eng	slv	I don't have a nickname.	Prezývku nemám.
 eng	slv	I don't have any experience.	Nemám žiadne skúsenosti.
 eng	slv	I don't have other things to study.	Nemám ďalšie veci na štúdium.
@@ -394,6 +469,7 @@ eng	slv	I don't want to live with you.	Nechcem žiť s tebou.
 eng	slv	I doubt it.	Dvomim.
 eng	slv	I dreamed I could fly.	Snívalo sa mi, že môžem lietať.
 eng	slv	I earn 100 Euros a day.	Zarábam 100 Euro denne.
+eng	slv	I eat a sandwich.	Jem sendvič.
 eng	slv	I enjoy learning languages.	Rád sa učím jazyky.
 eng	slv	I figured Tom would be here.	Se mi je zdelo, da bo Tom tukaj.
 eng	slv	If I wanted to kill you, I could kill you.	Če bi te želela ubiti, bi te lahko ubila.
@@ -456,6 +532,10 @@ eng	slv	I know I did an awful thing.	Ja viem, že som spravil strašnú vec.
 eng	slv	I know something!	Ja viem niečo!
 eng	slv	I know something's going on.	Ja viem, že niečo sa deje.
 eng	slv	I know you have your hands full.	Viem, že máš plné ruky.
+eng	slv	I learned French.	Naučila sem se francosko.
+eng	slv	I learned French.	Naučil sem se francosko.
+eng	slv	I learned German.	Naučila sem se nemško.
+eng	slv	I learned German.	Naučil sem se nemško.
 eng	slv	I like beans.	Mám rád fazuľu.
 eng	slv	I like chocolate ice cream!	Mám rada čokoládovú zmrzlinu!
 eng	slv	I like cranberries.	Mám rád brusnice.
@@ -467,6 +547,11 @@ eng	slv	I like to eat pears.	Rád jem hrušky.
 eng	slv	I like to travel by train.	Rád cestujem vlakom.
 eng	slv	I like westerns.	Všeč so mi vesterni.
 eng	slv	I like what you did to your hair.	Páči sa mi, čo si urobil s mojimi vlasmi.
+eng	slv	I live a fairly quiet life.	Živim precej mirno življenje.
+eng	slv	I live in Boston with a partner and three cats.	Živim v Bostonu s partnerjem in tremi mačkami.
+eng	slv	I live in Ljubljana.	Živim v Ljubljani.
+eng	slv	I live in Rio de Janeiro.	Žijem v Riu de Janeiro.
+eng	slv	I live on the Balkans.	Živim na Balkanu.
 eng	slv	I live on the tenth floor.	Bývam na desiatom poschodí.
 eng	slv	I'll be playing tennis with Tom this afternoon, but it's not something I'm really looking forward to.	Dnes poobede budem hrať tenis s Tomom, ale nie je to niečo na čo by som sa skutočne tešil.
 eng	slv	I'll be there at five.	O piatej som tam.
@@ -477,8 +562,10 @@ eng	slv	I'll kill you.	Zabijem ťa.
 eng	slv	I'll make it.	Ja to spravím.
 eng	slv	I'll make use of this opportunity.	Využijem túto príležitosť.
 eng	slv	I'll phone them tomorrow when I come home.	Zavolám im zajtra ked´ prídem domov.
+eng	slv	I'll run away.	Utečiem.
 eng	slv	I'll say what I think.	Poviem, čo si myslím.
 eng	slv	I'll see you in Japan.	Vidíme sa v Japonsku.
+eng	slv	I'll stay here and watch.	Zostanem tu a budem sa pozerať.
 eng	slv	I'll take you there.	Zoberiem ťa tam.
 eng	slv	I'll tell you everything that you want to know.	Poviem ti všetko, čo chceš vedieť.
 eng	slv	I lost my passport!	Stratil som svoj pas!
@@ -515,6 +602,8 @@ eng	slv	I might have forgotten my keys.	Možno som si zabudol kľúče.
 eng	slv	I'm in a hurry. Sorry!	Ponáhľam sa. Prepáčte!
 eng	slv	I missed this deadline again!	Spet sem zamudil rok!
 eng	slv	I'm just asking questions.	Ja sa len pýtam otázky.
+eng	slv	I'm learning how to learn.	Učim se učiti.
+eng	slv	I'm learning Uighur.	Govorim ujgursko.
 eng	slv	I'm looking for a job.	Hľadám prácu.
 eng	slv	I'm lost. Can you help me?	Stratil som sa. Môžete mi pomôcť?
 eng	slv	I'm lucky.	Imam srečo.
@@ -537,6 +626,7 @@ eng	slv	I'm the one who spoke with the Polish ambassador.	To ja som hovorila s p
 eng	slv	I'm the one who spoke with the Polish ambassador.	To ja som hovoril s poľským veľvyslancom.
 eng	slv	I'm Tom.	Ja som Tom.
 eng	slv	I'm too old for that shit.	Ja som príliš starý na tieto sračky.
+eng	slv	I'm trying to do more.	Poskušam narediti več.
 eng	slv	I'm ugly.	Ja som škaredý.
 eng	slv	I must admit that it was my fault.	Musím pripustiť, že bola to moja chyba.
 eng	slv	I must finish my work.	Musím skončiť moju prácu.
@@ -548,6 +638,7 @@ eng	slv	I'm wondering what to cook for dinner.	Sprašujem se, kaj skuhati za ve�
 eng	slv	In case of fire, I'd grab my flute and escape.	V prípade požiaru by som schmatol svoju flautu a utiekol.
 eng	slv	In case of fire, I would grab my flute and escape.	V prípade požiaru by som schmatol svoju flautu a utiekol.
 eng	slv	In case you come to Rio, I will be your guide.	V prípade, že prídeš do Ria, budem tvojím sprievodcom.
+eng	slv	In China, people eat with chopsticks.	V Číne ľudia jedia paličkami.
 eng	slv	In China, they celebrate New Year by the lunar calendar.	V Číne oslavujú Nový rok podľa lunárneho kalendára.
 eng	slv	I need a book to read.	Potrebujem knihu na čítanie.
 eng	slv	I need a new car.	Potrebujem nové auto.
@@ -558,6 +649,7 @@ eng	slv	I need three carrots.	Potrebujem tri mrkvy.
 eng	slv	I need you in my life.	Potrebujem ťa v mojom živote.
 eng	slv	I need you.	Potrebujem ťa.
 eng	slv	I need your help.	Potrebujem vašo pomoč.
+eng	slv	I never thought it would end this way between us.	Nikdy som si nemyslel, že to takto medzi nami skončí.
 eng	slv	In my opinion, you are wrong.	Podľa môjho názoru, mýliš sa.
 eng	slv	In my room, there are no clocks.	V mojej izbe nie sú žiadne hodiny.
 eng	slv	In other words, she wants to reject the proposal.	Inými slovami, ponuku chce odmietnuť.
@@ -569,8 +661,13 @@ eng	slv	I only got to the station after the train had left.	Na stanicu som doraz
 eng	slv	I quit smoking.	Prestal som fajčiť.
 eng	slv	I ran all the way to the station.	Bežal som až na stanicu.
 eng	slv	I ran to the bus stop.	Bežal som na autobusovú zastávku.
+eng	slv	I read about that in today's paper.	O tem sem bral v današnjem časopisu.
 eng	slv	I really have no idea what Tom wants to do.	Ozaj netuším, čo chce Tom robiť.
 eng	slv	I really want you to quit.	Naozaj chcem, aby si dal výpoveď.
+eng	slv	I regret what I've done.	Je mi ľúto, čo som urobil.
+eng	slv	I regret what I've done.	Je mi ľúto, čo som urobila.
+eng	slv	I regret what I've done.	Ľutujem, čo som urobil.
+eng	slv	I regret what I've done.	Ľutujem, čo som urobila.
 eng	slv	I saw a dog. The dog held a piece of meat in its mouth.	Videl som psa. Pes držal v papuli kus mäsa.
 eng	slv	I saw her yesterday.	Včeraj sem jo videl.
 eng	slv	I saw something very unusual.	Videl som niečo veľmi nezvyčajné.
@@ -578,6 +675,7 @@ eng	slv	I saw Tom on TV.	Videl som Toma v televízii.
 eng	slv	I see a castle.	Vidím hrad.
 eng	slv	I see a castle.	Vidím zámok.
 eng	slv	I see him quite often in the city. Sometimes we have lunch together.	Vidím ho dosť často v meste. Niekedy obedujeme spolu.
+eng	slv	I see the house.	Vidím dom.
 eng	slv	I see them often.	Často ich vídavam.
 eng	slv	Is he an American?	On je Američan?
 eng	slv	I should clean the room.	Mala by som upratať izbu.
@@ -588,9 +686,29 @@ eng	slv	I smelled bacon.	Vohal sem slanino.
 eng	slv	Isn't that annoying?	Ali ni nadležno?
 eng	slv	Isn't that annoying?	Kaj ni nadležno?
 eng	slv	Isn't that annoying?	Kaj ni zoprno?
+eng	slv	I speak Chinese.	Govorim kitajsko.
+eng	slv	I speak Croatian.	Govorim hrvaško.
+eng	slv	I speak Czech.	Govorim češko.
+eng	slv	I speak English and French.	Govorim angleški in španski jezik.
+eng	slv	I speak English and French.	Govorim angleško in špansko.
+eng	slv	I speak English and French.	Jaz govorim angleški in španski jezik.
+eng	slv	I speak English and French.	Jaz govorim angleško in špansko.
 eng	slv	I speak French every day at work.	Hovorím po francúzsky každý deň v práci.
+eng	slv	I speak Macedonian.	Govorim makedonsko.
+eng	slv	I speak Montenegrin.	Govorim črnogorsko.
+eng	slv	I speak Polish.	Govorim poljsko.
+eng	slv	I speak Serbian.	Govorim srbsko.
+eng	slv	I speak Sinhalese.	Govorim singalsko.
 eng	slv	I speak Slovak.	Hovorím slovensky.
+eng	slv	I speak Slovene.	Govorim slovensko.
 eng	slv	I speak Sorbian.	Hovorím po srbsky.
+eng	slv	I speak Tibetan and Chinese.	Govorim tibetansko in kitajsko.
+eng	slv	I speak Tibetan and Uighur.	Govorim tibetansko in ujgursko.
+eng	slv	I speak Tibetan and Uyghur.	Govorim tibetansko in ujgursko.
+eng	slv	I speak Uighur and Chinese.	Govorim ujgursko in kitajsko.
+eng	slv	I speak Ukrainian.	Govorim ukrajinsko.
+eng	slv	I speak Uyghur and Chinese.	Govorim ujgursko in kitajsko.
+eng	slv	I spend a lot of time on the beach.	Veľa času trávim na pláži.
 eng	slv	I spoke to everyone.	Rozprávala som sa so všetkými.
 eng	slv	I spoke to everyone.	Rozprával som sa so všetkými.
 eng	slv	Is she coming to the celebration?	Príde na oslavu?
@@ -607,11 +725,13 @@ eng	slv	Is Tom drunk?	Je Tom pijan?
 eng	slv	Is Tom eating?	Ali Tom je?
 eng	slv	Is Tom famous?	Je Tom slaven?
 eng	slv	Is Tom fun?	Je Tom zabaven?
+eng	slv	Is Tom really a vegan?	Je Tom naozaj vegán?
 eng	slv	Is Tom still working in Australia?	Tom ešte stále pracuje v Austrálii?
 eng	slv	I suddenly needed a car.	Náhle som potreboval auto.
 eng	slv	Is your mother at home?	Je tvoja mama doma?
 eng	slv	I take vitamins.	Berem vitamíny.
 eng	slv	It cannot be bad.	Nemôže to byť zlé.
+eng	slv	It doesn't cost 300 yen.	To nestojí 300 jenov.
 eng	slv	It doesn't matter if he'll come or not.	Nezáleží na tom, či príde alebo nie.
 eng	slv	It fits on a single floppy disk.	Zmestí sa to na jednu disketu.
 eng	slv	I think everybody should learn another language.	Myslím si, že každý by sa mal naučiť iný jazyk.
@@ -683,6 +803,7 @@ eng	slv	It was impossible for the boy to swim across that river.	Bilo je nemogo�
 eng	slv	It was interesting.	Zanimivo je bilo.
 eng	slv	It was obvious to everyone Tom didn't want to be there.	Každému bolo očividné, že tam Tom nechce byť.
 eng	slv	It won't be long before I come back.	Nebude to trvať dlho, kým sa vrátim.
+eng	slv	It won't cost three hundred yen.	Nebude to stáť tristo jenov.
 eng	slv	It won't take long.	Nebude to trvať dlho.
 eng	slv	It won't take long.	Nepotrvá to dlho.
 eng	slv	It would be better if you take him to the vet.	Radšej ho vezmi k zverolekárovi.
@@ -690,8 +811,11 @@ eng	slv	I understand.	Razumem.
 eng	slv	I've already tested them.	Už som ich otestoval.
 eng	slv	I've dreamt about you nearly every night this week.	Snívalo sa mi o tebe skoro každú noc tento týždeň.
 eng	slv	I've never heard Tom complain.	Nikoli nisem slišal, da bi se Tom pritoževal.
+eng	slv	I've never identified as religious.	Nikoli se nisem identificiral kot religiozen.
 eng	slv	I've read most of these books already.	Väčšinu týchto kníh som už čítala.
 eng	slv	I visit Buddhist temples.	Navštevujem budhistické chrámy.
+eng	slv	I voted "remain".	Glasoval sem za ostanek.
+eng	slv	I voted "remain".	Hlasoval som za zotrvanie.
 eng	slv	I waited for you a long time.	Dlho som na vás čakal.
 eng	slv	I wait here until she comes.	Počkám tu, kým nepríde.
 eng	slv	I walked across the bridge.	Prešiel som cez most.
@@ -726,6 +850,7 @@ eng	slv	I will never leave you.	Nikdy vás neopustím.
 eng	slv	I will not give up, because I have something that is worth fighting for.	Nevzdám sa, pretože mám niečo, za čo sa oplatí bojovať.
 eng	slv	I will provide you all the necessary information.	Poskytnem ti všetky potrebné informácie.
 eng	slv	I wish I could hug you.	Kiež by som ťa mohla objať.
+eng	slv	I wish it never happened.	Kiež by sa to nikdy nestalo.
 eng	slv	I wish that I could hug you.	Kiež by som ťa mohla objať.
 eng	slv	I wonder why he didn't eat the apple that fell on his head.	Sprašujem se, zakaj ni pojedel jabolka, ki mu je padlo na glavo.
 eng	slv	I won't ask you anything else today.	Ničesar drugega te ne bom vprašal danes.
@@ -751,11 +876,14 @@ eng	slv	Let's begin right away.	Hneď začnime.
 eng	slv	Let's do that next Monday.	Urobme to budúci pondelok.
 eng	slv	Let's go back and tell him goodbye.	Vráťme sa a rozlúčme sa s ním.
 eng	slv	Let's go play basketball in the park.	Pojdimo v park igrati košarko.
+eng	slv	Let's not take this personally.	Neberme si to osobne.
 eng	slv	Let's start.	Začnime.
 eng	slv	Let's try!	Poskusimo!
 eng	slv	Let's try something.	Poskusimo nekaj.
 eng	slv	Life in society requires communication.	Življenje v skupnosti zahteva komunikativnost.
 eng	slv	Lightning-fast!	Bleskurýchlo!
+eng	slv	Look at that koala bear over there.	Pozri tam na tú koalu.
+eng	slv	Look at that koala bear over there.	Pozrite tam na tú koalu.
 eng	slv	Look backward!	Pozri sa dozadu!
 eng	slv	Louder.	Hlasnejšie.
 eng	slv	Lunatic!	Šialenec!
@@ -763,6 +891,10 @@ eng	slv	Maja Keuc is a good singer.	Maja Keuc je dobrá speváčka.
 eng	slv	Man is the only animal that laughs.	Človek je jediné zviera, ktoré sa smeje.
 eng	slv	Maria also looked after the animals.	Marija je tudi skrbela za živali.
 eng	slv	Maria and Natalia go shopping. They buy something for themselves.	Maria a Natalia chodia nakupovať. Kupujú si niečo pre seba.
+eng	slv	Maria does not speak German.	Mária nehovorí nemecky.
+eng	slv	Maria does not speak German.	Mária nehovorí po nemecky.
+eng	slv	Maria doesn't speak German.	Mária nehovorí nemecky.
+eng	slv	Maria doesn't speak German.	Mária nehovorí po nemecky.
 eng	slv	Maria has long hair.	Maria ima dolge lase.
 eng	slv	Mary coughed.	Mária kašlala.
 eng	slv	Mary had a bad dream.	Márii sa sníval zlý sen.
@@ -783,14 +915,18 @@ eng	slv	May I tell you a little secret?	Ti lahko povem skrivnost?
 eng	slv	Men can't live without water.	Ľuďom nemožno žiť bez vody.
 eng	slv	Merry Christmas to you as well!	Veselé Vianoce aj vám!
 eng	slv	Merry Christmas!	Veselé Vianoce!
+eng	slv	Millie's got blue eyes.	Millie ima modre oči.
 eng	slv	Mortal enemies are immortal friends.	Smrteľní nepriatelia sú nesmrteľní priatelia.
 eng	slv	Murderer!	Vrah!
 eng	slv	Must I go with you?	Mám ísť s tebou?
 eng	slv	My apartment is near.	Môj byt je blízko.
+eng	slv	My backpack is very heavy.	Môj batoh je veľmi ťažký.
+eng	slv	My balls are dripping wet.	Mám mokré gule.
 eng	slv	My best friend was American.	Moja najlepšia priateľka bola Američanka.
 eng	slv	My best friend was American.	Môj najlepší priateľ bol Američan.
 eng	slv	My brothers are under the tree.	Moji bratia sú pod stromom.
 eng	slv	My cat looks sad.	Moja mačka vyzerá smutno.
+eng	slv	My cat's name isn't Tom.	Môj kocúr sa nevolá Tom.
 eng	slv	My children are in school.	Moje deti sú v škole.
 eng	slv	My daughter wants a piano.	Moja dcéra chce piano.
 eng	slv	My dog is white.	Môj pes je biely.
@@ -798,6 +934,7 @@ eng	slv	My dream is to study Slovak in Bratislava.	Mojím snom je študovať slo
 eng	slv	My dream is to study Slovene in Ljubljana.	Mojím snom je učiť sa slovinsky v Ľubľane.
 eng	slv	My eyes are tired.	Moje oči sú unavené.
 eng	slv	My father has never been outside the country until now.	Môj otec nikdy nebol mimo krajiny až doteraz.
+eng	slv	My girlfriend is five years younger than me.	Moja priateľka je odo mňa o tri roky mladšia.
 eng	slv	My hair grows too slowly.	Moje vlasy rastú príliš pomaly.
 eng	slv	My happiness depends on you.	Moje šťastie záleží od vás.
 eng	slv	My heart's aching.	Bolí ma srdce.
@@ -811,6 +948,7 @@ eng	slv	My name's Ricardo and I'm Brazilian.	Volám sa Ricardo a som Brazílčan
 eng	slv	My name was the last one on the list.	Moje meno bolo posledné na zozname.
 eng	slv	My neighbor's dog won't eat dry dog food.	Pes môjho suseda nebude žrať suché psie krmivo.
 eng	slv	My roommate is learning Chinese.	Môj spolubývajúci sa učí čínštinu.
+eng	slv	My rucksack is very heavy.	Môj batoh je veľmi ťažký.
 eng	slv	My sister is a very beautiful girl.	Moja sestra je veľmi pekné dievča.
 eng	slv	My suit is grey.	Môj oblek je šedý.
 eng	slv	My teachers are very strict.	Moji učitelia sú veľmi prísni.
@@ -853,7 +991,9 @@ eng	slv	Our beds are made.	Naše postele sú postlané.
 eng	slv	Our beds are made.	Naše postele sú ustlané.
 eng	slv	Our beds are made.	Naše postele sú zastlané.
 eng	slv	Our country is going through a difficult time.	Naša krajina prechádza zložitým obdobím.
+eng	slv	Our planet is beautiful.	Naš planet je lep.
 eng	slv	Overconfidence will betray you.	Prílišná sebadôvera ťa prezradí.
+eng	slv	Owls are nocturnal animals.	Sovy sú nočné živočíchy.
 eng	slv	Palestinians have the right to return to Palestine.	Palestínčania majú právo navrátiť sa do Palestíny.
 eng	slv	Palestinians, too, have a right of return to their own land.	Palestínčania tiež majú právo navrátiť sa do svojej vlastnej krajiny.
 eng	slv	Parrots imitate human speech.	Papagáje napodobňujú ľudskú reč.
@@ -871,12 +1011,14 @@ eng	slv	Please sit down.	Posaď sa, prosím.
 eng	slv	Please sit down.	Prosím, sadni si.
 eng	slv	Please stay!	Prosim ostani!
 eng	slv	Please step inside.	Prosim, vstopite.
+eng	slv	Please translate this into English.	Prosím, preložte to do angličtiny.
 eng	slv	Please wake me up at six tomorrow.	Prosím, zajtra ma zobuď o šiestej.
 eng	slv	Please water the flowers.	Prosím, polej kvety.
 eng	slv	Poland was one of the first countries to recognize the Republic of Turkey.	Poľsko bola jedna z prvých krajín, ktorá uznala Tureckú republiku.
 eng	slv	Polish girls didn't want Justin Bieber to come to Poland.	Polky nechcú Justina Biebera v Poľsku.
 eng	slv	Poor tomcat.	Ubogi muc.
 eng	slv	Portugal has only one neighbor and it's Spain.	Portugalsko má len jedného suseda, a to Španielsko.
+eng	slv	Professors can also be wrong.	Aj profesori sa môžu mýliť.
 eng	slv	Prove it!	Dokáž to!
 eng	slv	Quick! We need to hide the cookies before Tom gets home, or else he'll eat them all!	Rýchlo! Musíme schovať sušienky, kým sa Tom vráti domov, lebo inak ich všetky zje!
 eng	slv	Read the rules.	Prečítaj si pravidlá.
@@ -898,10 +1040,12 @@ eng	slv	She baked bread and cakes in the oven.	Piekla v rúre chlieb a koláče.
 eng	slv	She bought him a car.	Kúpila mu auto.
 eng	slv	She closed her eyes.	Zatvorila oči.
 eng	slv	She danced.	Tancovala.
+eng	slv	She decided to move to Belgium.	Rozhodla sa presťahovať do Belgicka.
 eng	slv	She didn't find work.	Nenašla si prácu.
 eng	slv	She finally mustered up the courage to ask him for more money.	Končno je zbrala pogum in ga vprašala za več denarja.
 eng	slv	She gave birth to a baby boy.	Porodila chlapčeka.
 eng	slv	She gave me a ride home.	Odviezla ma domov.
+eng	slv	She got undressed.	Vyzliekla sa.
 eng	slv	She is a nurse.	Ona je zdravotná sestra.
 eng	slv	She is a singer.	Ona je speváčka.
 eng	slv	She is exceedingly sensitive to the cold.	Izjemno občutljiva je na mraz.
@@ -929,7 +1073,9 @@ eng	slv	She's in Boston.	V Bostonu je.
 eng	slv	She spoke Czech.	Hovorila česky.
 eng	slv	She's stupid and ugly.	Neuma je in grda.
 eng	slv	She startled him.	Naľakala ho.
+eng	slv	She's writing an article for the school newspaper.	Piše članek za šolski časopis.
 eng	slv	She told him she wanted a divorce.	Ona mu povedala, že chce rozvod.
+eng	slv	She undressed.	Vyzliekla sa.
 eng	slv	She walked past him without even noticing him.	Prešla okolo neho bez toho, aby si ho vôbec všimla.
 eng	slv	She was writing to me while drinking her tea.	Písala mi, pijúc čaj.
 eng	slv	She went to the movies alone.	Šla je sama v kino.
@@ -937,6 +1083,7 @@ eng	slv	Shit.	Do riti.
 eng	slv	Sicily is hot in summer.	Na Sicílii je v lete horúco.
 eng	slv	Sit here and wait.	Sadni si tu a čakaj.
 eng	slv	Sleep.	Spi.
+eng	slv	Slovenian is a beautiful language.	Slovenščina je lep jezik.
 eng	slv	Slowly his eyes adjusted to the darkness.	Pomaly si zvykol na tmu.
 eng	slv	Smokers die young.	Fajčiari umierajú mladí.
 eng	slv	Snow is falling.	Padá sneh.
@@ -986,6 +1133,7 @@ eng	slv	That makes you tear out your hair.	Zaradi tega si puliš lase.
 eng	slv	That's a church.	To je kostol.
 eng	slv	That's a lie!	To je laž!
 eng	slv	That shape could be a horse, for example.	Toho tvaru by napríklad mohol byť kôň.
+eng	slv	That's his problem.	To je jeho problém.
 eng	slv	That's much better.	Je to oveľa lepšie.
 eng	slv	That's not a horse. It's a donkey.	To nie je kôň. Je to osol.
 eng	slv	That's not the only thing that Tom found.	To nie je jediná vec, ktorú Tom našiel.
@@ -993,6 +1141,7 @@ eng	slv	That's not Tom's only secret.	To nie je Tomovo jediné tajomstvo.
 eng	slv	That's not true.	To nie je pravda.
 eng	slv	That's not what I'm asking you about.	Na to sa ťa nepýtam.
 eng	slv	That's not what I'm asking you about.	Na to sa vás nepýtam.
+eng	slv	That's not what we agreed.	Na tom sme sa nedohodli.
 eng	slv	That sounds fun.	To znie zábavne.
 eng	slv	That's secondary.	To je druhotné.
 eng	slv	That's the first sentence I added.	To je prvá veta, ktorú som pridala.
@@ -1024,15 +1173,21 @@ eng	slv	The bread is fresh.	Chlieb je čerstvý.
 eng	slv	The bread is not fresh.	Kruh ni svež.
 eng	slv	The buzzing of insects is driving me crazy!	Brenčanje mrčesa me spravlja ob živce!
 eng	slv	The cafe isn't open yet.	Kaviareň ešte nie je otvorená.
+eng	slv	The canvas was torn in three places.	Plátno bolo roztrhané na troch miestach.
 eng	slv	The capital of Poland is Warsaw.	Hlavné mesto Poľska je Varšava.
 eng	slv	The cathedral is half a millennium old.	Táto katedrála má pol tisícročia.
 eng	slv	The cat is in the tree.	Mačka je na strome.
 eng	slv	The cat is sleeping on the couch.	Mačka spí na pohovke.
+eng	slv	The chair is very small.	Stolička je veľmi malá.
+eng	slv	The chair is very small.	Stolička je veľmi maličká.
+eng	slv	The chair is very small.	Stolička je veľmi malinká.
+eng	slv	The chicken eats a butterfly.	Piščanec poje metulja.
 eng	slv	The city covers a small area.	Mesto pokriva majhno območje.
 eng	slv	The collection is open to the public.	Kolekcia je prístupná verejnosti.
 eng	slv	The common denominator of all her troubles is her lies.	Spoločným menovateľom všetkých jej ťažkostí sú jej lži.
 eng	slv	The computer is on.	Počítač je zapnutý.
 eng	slv	The Crayon Etching technique is like revealing a rainbow from a gloom.	Vyškrabávacia technika je ako odhaľovanie dúhy z temnoty.
+eng	slv	The day came and went.	Deň prišiel a odišiel.
 eng	slv	The death of his father filled him with sorrow.	Smrt njegovega očeta ga je napolnila z žalostjo.
 eng	slv	The door won't close.	Vrata se ne zaprejo.
 eng	slv	The emperor doesn't have any clothes on.	Cisár nemá šaty!
@@ -1042,6 +1197,7 @@ eng	slv	The exports increased by 30 billion dollars.	Vývoz stúpol o tridsať m
 eng	slv	The farmer has sown barley.	Gazda zasial jačmeň.
 eng	slv	The farmer sowed barley.	Gazda zasial jačmeň.
 eng	slv	The game was postponed until next Monday.	Hra bola odložená na budúci pondelok.
+eng	slv	The girl ran away.	Dievča utieklo.
 eng	slv	The girl said that she had never heard of such a person.	Dievča povedalo, že nikdy nepočulo o takej osobe.
 eng	slv	The girl talking to Tom is Mary.	Dievča, rozprávajúce sa s Tomom, je Mária.
 eng	slv	The goldfinch is a very interesting bird.	Lišček je zelo zanimiva ptica.
@@ -1058,11 +1214,14 @@ eng	slv	Their honesty is questionable.	Njihova iskrenost je vprašljiva.
 eng	slv	Their job is to fry the potatoes.	Ich prácou je smažiť zemiaky.
 eng	slv	Their son is sick.	Ich syn je chorý.
 eng	slv	The island is covered with ice and snow during the winter.	Počas zimy je ostrov pokrytý ľadom a snehom.
+eng	slv	The king lives in the castle.	Král býva na hrade.
+eng	slv	The king lives in the castle.	Kralj živi v gradu.
 eng	slv	The last word will be mine.	Posledné slovo bude moje.
 eng	slv	The lion is the king of the jungle.	Lev je kráľ džungle.
 eng	slv	The lion is the king of the jungle.	Lev je kralj džungle.
 eng	slv	The Lord God took the man, and put him into the garden of Eden to cultivate and keep it.	I vzal Pán, Boh, človeka a umiestnil ho v raji Edenu, aby ho obrábal a strážil.
 eng	slv	The map is on the wall.	Mapa je na stene.
+eng	slv	The milk is fresh.	Mleko je sveže.
 eng	slv	The most beautiful girls are from Lithuania.	Najkrajšie dievčatá sú z Litvy.
 eng	slv	The natives are restless.	Domačini so nemirni.
 eng	slv	The password is "Muiriel".	Heslo je "Muiriel".
@@ -1084,6 +1243,8 @@ eng	slv	There's something I've got to tell you.	Musím ti niečo povedať.
 eng	slv	There's so much blood here.	Je tu toľko krvi.
 eng	slv	There's still a café on the third floor.	Na treťom poschodí je ešte jedna kaviareň.
 eng	slv	There weren't any pencils in the drawer.	V zásuvke neboli žiadne ceruzky.
+eng	slv	The river flooded the entire region.	Rieka zaplavila celú oblasť.
+eng	slv	The river flooded the whole region.	Rieka zaplavila celú oblasť.
 eng	slv	The salt ran out.	Došla soľ.
 eng	slv	The same goes for me.	To isté platí pre mňa.
 eng	slv	These apples are for you.	Tieto jablká sú pre teba.
@@ -1146,17 +1307,21 @@ eng	slv	They were abandoned by their mother.	Boli opustení ich matkou.
 eng	slv	They were abandoned by their mother.	Matka ich opustila.
 eng	slv	They were looking for a place at which they could pitch the tent.	Iskali so prostor, kjer bi lahko postavili šotor.
 eng	slv	They were studying.	Študovali.
+eng	slv	This box is bigger than that one.	Táto krabica je väčšia ako hentá.
+eng	slv	This box is bigger than that one.	Táto krabica je väčšia ako tamtá.
 eng	slv	This car is black.	To auto je čierne.
 eng	slv	This coffee is too weak.	Táto káva je príliš slabá.
 eng	slv	This dog bites.	Ta pes grize.
 eng	slv	This is a honeycomb.	Toto je včelí plást.
 eng	slv	This is a pen.	To je pero.
+eng	slv	This is Edward.	To je Edward.
 eng	slv	This is goat cheese.	Toto je kozí syr.
 eng	slv	This is his house.	To je jeho dom.
 eng	slv	This is my car.	To je moj avto.
 eng	slv	This is my story.	Toto je môj príbeh.
 eng	slv	This is not surprising to me at all.	Toto ma vôbec neprekvapuje.
 eng	slv	This is not true.	To ni res.
+eng	slv	This is the best solution.	To je naboljša rešitev.
 eng	slv	This is the best we've played all year.	Toto je to najlepšie, čo sme za celý rok hrali.
 eng	slv	This is the first time.	To je prvý raz.
 eng	slv	This is your dog. Where's mine?	Toto je tvoj pes. Kde je môj?
@@ -1179,6 +1344,7 @@ eng	slv	Those who know don't speak much; those who speak don't know much.	Tí, k
 eng	slv	Throw away the keys.	Odhoďte kľúče.
 eng	slv	Tigers are bigger and stronger than cats.	Tigri so večji in močnejši od mačk.
 eng	slv	Tímea is a Hungarian living in Poland.	Tímea je Maďarka a žije v Polsku.
+eng	slv	Time is gold.	Čas je zlato.
 eng	slv	Timuçin flew from Yozgat to Warszawa with Ryan Air.	Timuçin letel z Yozgatu do Varšavy s Ryan Air-om.
 eng	slv	Timuçin learns Polish.	Timuçin sa učí po poľsky.
 eng	slv	Today is Sunday.	Danes je nedelja.
@@ -1199,6 +1365,7 @@ eng	slv	Tom didn't eat everything on his plate.	Tom nezjedol všetko, čo mal na
 eng	slv	Tom didn't have any family.	Tom nemal žiadnu rodinu.
 eng	slv	Tom didn't have many friends at the time.	Tom vtedy nemal veľa priateľov.
 eng	slv	Tom didn't need that money.	Tom nepotreboval tie peniaze.
+eng	slv	Tom didn't recognize the sound.	Tom ten zvuk nepoznal.
 eng	slv	Tom didn't want to work in Australia.	Tom nechcel pracovať v Austrálii.
 eng	slv	Tom doesn't have time.	Tom nemá čas.
 eng	slv	Tom doesn't like coffee.	Tom nemá rád kávu.
@@ -1217,6 +1384,7 @@ eng	slv	Tom had to empty his apartment in two days.	Tom musí vypratať jeho apa
 eng	slv	Tom has a loud voice.	Tom má silný hlas.
 eng	slv	Tom has been acting weird lately.	V poslednom čase sa Tom správa divne.
 eng	slv	Tom has been to your place before, hasn't he?	Tom je že bil pri tebi doma, mar ne?
+eng	slv	Tom has really changed.	Tom sa veľmi zmenil.
 eng	slv	Tom has threatened me.	Tom sa mi vyhrážal.
 eng	slv	Tom has to be warned.	Tom se musí varovat.
 eng	slv	Tom has two siblings.	Tom má dvoch súrodencov.
@@ -1263,7 +1431,9 @@ eng	slv	Tom made supper.	Tom urobil večeru.
 eng	slv	Tom moved slowly.	Tom se pohyboval pomalu.
 eng	slv	Tom needs us now.	Tom nás teraz potrebuje.
 eng	slv	Tom offered us nothing new.	Tom nám neponúkol nič nového.
+eng	slv	Tom opened the letter.	Tomaž je odprl pismo.
 eng	slv	Tomorrow will take care of itself.	Zajtrajšok sa o seba postará sám.
+eng	slv	Tom plays in a rock and roll band.	Tom igra v rock'n'roll skupini.
 eng	slv	Tom poured milk into the glass and then handed it to Mary.	Tomáš nalial mlieko do pohára a potom ho podal Márii.
 eng	slv	Tom really likes to do that.	Tom to naozaj rád robí.
 eng	slv	Tom remembers his first date with Mary.	Tom se spominja prvega zmenka z Mary.
@@ -1279,7 +1449,9 @@ eng	slv	Tom's parents speak French.	Tomovi rodičia hovoria francúzsky.
 eng	slv	Tom speaks Russian.	Tom hovorí rusky.
 eng	slv	Tom studied philosophy at the university.	Tom študoval filozofiu na univerzite.
 eng	slv	Tom suddenly stopped.	Tom se je nenadoma ustavil.
+eng	slv	Tom's watch was stolen.	Tomažu je bila ukradena ura.
 eng	slv	Tom thinks Mary is really stuck up.	Tom misli, da je Mary res naduta.
+eng	slv	Tom tried his father's suit on.	Tom si vyskúšal otcov oblek.
 eng	slv	Tom tried to never think of Mary.	Tom sa snažil nikdy nemyslieť na Mary.
 eng	slv	Tom visited Mary at her retirement community.	Tomáš navštívil Máriu v domove dôchodcov.
 eng	slv	Tom wants to buy a new car.	Tom si chce kúpiť nové auto.
@@ -1307,6 +1479,7 @@ eng	slv	Tom yelled.	Tom zakričal.
 eng	slv	Tom, you should go.	Tom, mal by si ísť.
 eng	slv	Too good to be true.	Príliš dobré aby to bola pravda.
 eng	slv	To the table!	K stolu!
+eng	slv	Try rewriting this in the third person.	Skús to prepísať v tretej osobe.
 eng	slv	Turn on the computer.	Zapni počítač.
 eng	slv	Under the rule of Gaddafi the residents of Libya lived in prosperity, it was a safe and stable country.	Za vlády Kaddáfiho obyvatelia Líbye žili v blahobyte, bola to bezpečná a stabilná krajina.
 eng	slv	Unfortunately, Tom refused to help us.	Bohužiaľ, Tom nám odmietol pomôcť.
@@ -1356,6 +1529,7 @@ eng	slv	We'll all go there together.	Vsi bomo šli tja skupaj.
 eng	slv	We'll be in touch.	Ostaneme v kontakte.
 eng	slv	We'll be right over.	Takoj pridemo.
 eng	slv	We'll never catch him.	Nikdy ho nechytíme.
+eng	slv	We love music.	Ljubimo glasbo.
 eng	slv	We might have underestimated his ability.	Je možné, že sme podcenili jeho spôsobilosť.
 eng	slv	We need to do it now.	Musíme to urobiť teraz.
 eng	slv	We need to do it right now.	Musíme to urobiť ihneď.
@@ -1372,9 +1546,11 @@ eng	slv	We're eating bread.	Jeme chlieb.
 eng	slv	We're enemies.	Midva sva sovražnika/ Mi smo sovražniki
 eng	slv	We're glad we did that.	Sme radi, že sme to urobili.
 eng	slv	We're going to buy ourselves a car.	Mi si bomo kupili avto
+eng	slv	We're going to need some more water.	Budeme potrebovať viac vody.
 eng	slv	We're having a sale today.	Dnes máme výpredaj.
 eng	slv	We're heroes.	Sme hrdinovia.
 eng	slv	We're patriots.	Sme vlastenci.
+eng	slv	We're united by an eternal bond.	Sme spojení večným putom.
 eng	slv	We're very proud of our son.	Sme veľmi hrdí na nášho syna.
 eng	slv	Were you the one who closed the door?	To vy ste zavreli dvere?
 eng	slv	Were you the one who shut the door?	To ty si zavrel dvere?
@@ -1409,8 +1585,11 @@ eng	slv	What do you think about recycling?	Kaj meniš o recikliranju?
 eng	slv	What do you think?	Čo si myslíš?
 eng	slv	What happened?	Čo sa stalo?
 eng	slv	What happens today?	Čo sa dnes stane?
+eng	slv	What has she told you?	Čo ti povedala?
+eng	slv	What has she told you?	Čo vám povedala?
 eng	slv	What has Tom done?	Čo urobil Tom?
 eng	slv	What is a verb?	Čo je sloveso?
+eng	slv	What is essential is invisible to the eye.	Bistvo je očem nevidno.
 eng	slv	What is the current month?	Aký je teraz mesiac?
 eng	slv	What is this notebook for?	Načo je tento zápisník?
 eng	slv	What is your name?	Ako sa voláte?
@@ -1427,6 +1606,7 @@ eng	slv	What's your favorite color?	Aká je vaša obľúbená farba?
 eng	slv	What's your phone number?	Aké je vaše telefónne číslo?
 eng	slv	What time is it in Buffalo, New York?	Koliko je ura v Buffalo, New York?
 eng	slv	What time is it?	Koľko je hodín?
+eng	slv	What time is it on the Moon?	Koliko je ura na Luni?
 eng	slv	What would the world be like without women?	Aký by bol svet bez žien?
 eng	slv	"When are you coming back?" "That all depends on the weather."	Kedy sa vraciaš? To uplne zaleží na počasí.
 eng	slv	When can you come?	Kedy môžeš prísť?
@@ -1460,6 +1640,7 @@ eng	slv	Where is Lebanon?	Kde je Libanon?
 eng	slv	Where is the bedroom?	Kde je spálňa?
 eng	slv	Where is the book and the pencil?	Kje sta knjiga in svinčnik?
 eng	slv	Where is the car?	Kde je auto?
+eng	slv	Where is the east?	Kde je východ?
 eng	slv	Where is the water drinkable?	Kje je pitna voda?
 eng	slv	Where is Tom?	Kde je Tom?
 eng	slv	Where're the shoes?	Kde sú topánky?
@@ -1480,10 +1661,12 @@ eng	slv	Who drank all the wine?	Kto vypil všetko víno?
 eng	slv	Who drove Tom home?	Kto odviezol Toma domov?
 eng	slv	Who drove Tom home?	Kto zaviezol Toma domov?
 eng	slv	Who hasn't dreamt of having their own personal chef?	Kto nesnil o svojom osobnom kuchárovi?
+eng	slv	Who likes spiders?	Kdo ima rad pajke?
 eng	slv	Whose cat is that?	Čia je to mačka?
 eng	slv	Whose is this textbook?	Čia je táto učebnica?
 eng	slv	Whose is this textbook?	Koho je táto učebnica?
 eng	slv	Who wants to go with me?	Kto chce ísť so mnou?
+eng	slv	Who was at the party besides Jack and Mary?	Kto bol na večierku okrem Jacka a Márie?
 eng	slv	Who will help me?	Kto mi môže pomôcť?
 eng	slv	Who won the match?	Kto vyhral zápas.
 eng	slv	Who wrote a letter?	Kto napísal list?
@@ -1501,6 +1684,7 @@ eng	slv	Why do you follow those perverted rules?	Prečo dodržiavate tieto zvrá
 eng	slv	Why do you want to leave today?	Prečo chceš dnes odísť?
 eng	slv	Why do you work here?	Prečo tu pracuješ?
 eng	slv	Why exactly did you do that?	Zakaj točno si storil to?
+eng	slv	Why is judo the best choice for your child?	Zakaj je judo najboljša izbira za vašega otroka?
 eng	slv	Why is your mouth open?	Prečo máš otvorené ústa?
 eng	slv	Wienczysława is the most beautiful brunette in the workplace.	Wienczysława je najkrajšia brunetka na pracovisku.
 eng	slv	Will it be possible to get there before dark?	Bude možné dostať sa tam pred zotmením?
@@ -1508,6 +1692,7 @@ eng	slv	Will you cheer for me?	Boš navijala zame?
 eng	slv	Will you please let me go now?	Necháš ma prosím teraz ísť?
 eng	slv	Will you still be here when I get back?	Boš še tu ko se vrnem?
 eng	slv	Winter is cold.	Zima je studená.
+eng	slv	With the arrival of spring, the grass comes to life.	S príchodom jari tráva ožíva.
 eng	slv	Women aren't interested in him.	Ženy o neho nemajú záujem.
 eng	slv	Women want to have sex too.	I ženy chcú mať sex.
 eng	slv	Would you be so kind as to shut that window?	Bola by si taká milá a zatvorila to okno?
@@ -1577,6 +1762,7 @@ eng	slv	You must take into account the fact that she was ill.	Musíš brať do �
 eng	slv	You need to break this bad habit.	Musíte sa zbaviť tohto zlozvyku.
 eng	slv	You never forget to send your mother a birthday gift.	Nikoli ne pozabi svoji mami poslati rojstnodnevnega darila.
 eng	slv	You never say you love me.	Nikoli ne rečeš, da me ljubiš.
+eng	slv	You ought to stay where you are.	Mal by si zostať tam, kde si.
 eng	slv	Your daughter's a beautiful girl.	Tvoja dcéra je krásne dievča.
 eng	slv	You're a good cat.	Dobrá mačička.
 eng	slv	You're a good journalist.	Ste dobrý novinár.

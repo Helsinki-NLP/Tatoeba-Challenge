@@ -1,4 +1,6 @@
 ina_Latn	ina_Latn	An le viros plora?	An le homines plora?
+ina_Latn	ina_Latn	Annuncios caca in nostre capites.	Annuncios caca in nostre testas.
+ina_Latn	ina_Latn	Annuncios caca in tu capite.	Annuncios caca in tu testa.
 ina_Latn	ina_Latn	Antonio es le plus bon corbero in le village.	Antonio es le melior corbero in le village.
 ina_Latn	ina_Latn	Antonio es le plus bon piscator in le village.	Antonio es le melior piscator in le village.
 ina_Latn	ina_Latn	Ariel bibe un blau effervescente in le cafe apud le foreste.	Ariel bibe un blau effervescente in le cafe apud le bosco.
@@ -8,6 +10,19 @@ ina_Latn	ina_Latn	Ariel bibe un tassa de blau the in le theeria apud le citate.	
 ina_Latn	ina_Latn	Ariel bibe un tassa de blau the in le theeria apud le foreste.	Ariel bibe un tassa de blau the in le theeria apud le bosco.
 ina_Latn	ina_Latn	Ariel bibe un tassa de blau the in le theeria apud le foreste.	Ariel bibe un tassa de blau the in le theeria apud le silva.
 ina_Latn	ina_Latn	Ariel e Cassandra bibe blau the in le antique theeria apud le parco.	Ariel e Cassandra bibe blau the in le ancian theeria apud le parco.
+ina_Latn	ina_Latn	Autodefensa es importante.	Defensa personal es importante.
+ina_Latn	ina_Latn	Barcas a remos flotta in le fluvio sub le magic e brillante lumine de le grande luna.	Barcas a remos flotta in le fluvio sub le magic e brillante lumine del grande luna.
+ina_Latn	ina_Latn	Barcas a remos flotta in le fluvio sub le magic e brillante lumine de le luna plen.	Barcas a remos flotta in le fluvio sub le magic e brillante lumine del luna plen.
+ina_Latn	ina_Latn	Barcas a remos se move in le fluvio sub le magic e brillante lumine de le grande luna.	Barcas a remos se move in le fluvio sub le magic e brillante lumine de le luna grande.
+ina_Latn	ina_Latn	Barcas a remos se move in le fluvio sub le magic e brillante lumine de le grande luna.	Barcas a remos se move in le fluvio sub le magic e brillante lumine del grande luna.
+ina_Latn	ina_Latn	Barcas a remos se move in le fluvio sub le magic e brillante lumine de le luna grande.	Barcas a remos se move in le fluvio sub le magic e brillante lumine del luna grande.
+ina_Latn	ina_Latn	Barcas a remos se move in le fluvio sub le magic e brillante lumine de le luna plen.	Barcas a remos se move in le fluvio sub le magic e brillante lumine del luna plen.
+ina_Latn	ina_Latn	Barcas a remos se trova in le fluvio sub le magic e brillante lumine de le grande luna.	Barcas a remos se trova in le fluvio sub le magic e brillante lumine de le luna grande.
+ina_Latn	ina_Latn	Barcas a remos se trova in le fluvio sub le magic e brillante lumine de le grande luna.	Barcas a remos se trova in le fluvio sub le magic e brillante lumine del grande luna.
+ina_Latn	ina_Latn	Barcas a remos se trova in le fluvio sub le magic e brillante lumine de le luna plen.	Barcas a remos se trova in le fluvio sub le magic e brillante lumine del luna plen.
+ina_Latn	ina_Latn	Barcas a remos viagia in le fluvio sub le magic e brillante lumine de le grande luna.	Barcas a remos viagia in le fluvio sub le magic e brillante lumine de le luna grande.
+ina_Latn	ina_Latn	Barcas a remos viagia in le fluvio sub le magic e brillante lumine de le grande luna.	Barcas a remos viagia in le fluvio sub le magic e brillante lumine del grande luna.
+ina_Latn	ina_Latn	Barcas a remos viagia in le fluvio sub le magic e brillante lumine de le luna plen.	Barcas a remos viagia in le fluvio sub le magic e brillante lumine del luna plen.
 ina_Latn	ina_Latn	Cattos e canes time Tom.	Cattos e canes ha timor de Tom.
 ina_Latn	ina_Latn	Cerebros son estranie.	Cerebros es estranie.
 ina_Latn	ina_Latn	Con que frequentia bibe vos alcohol?	Con qual frequentia bibe vos alcohol?
@@ -25,8 +40,10 @@ ina_Latn	ina_Latn	Deo mie! Vos es plus interessante!	Mi Deo! Vos es plus interes
 ina_Latn	ina_Latn	Deo mie! Vos es plus magnificente!	Mi Deo! Vos es plus magnificente!
 ina_Latn	ina_Latn	Deo mie! Vos vos affolla!	Mi Deo! Vos vos affolla!
 ina_Latn	ina_Latn	Deo mie! Vos vos affollava!	Mi Deo! Vos vos affollava!
+ina_Latn	ina_Latn	Durante le nocte, illes balla con le extraterrestres.	Durante le nocte, illes dansa con le extraterrestres.
 ina_Latn	ina_Latn	Es illo un aranea?	An illo es un aranea?
 ina_Latn	ina_Latn	Es illo un aranea?	Esque illo es un aranea?
+ina_Latn	ina_Latn	Es nos futuite?	An nos es futuite?
 ina_Latn	ina_Latn	Esque illo es un aranea?	An illo es un aranea?
 ina_Latn	ina_Latn	Iguanas es reptiles.	Iguanas son reptiles.
 ina_Latn	ina_Latn	Il ha blau edificios gigantesc al longe del riviera large.	Il ha blau edificios gigantesc al longe del fluvio large.
@@ -59,14 +76,26 @@ ina_Latn	ina_Latn	Il ha multe blau edificios gigantesc in vostre grande citate.	
 ina_Latn	ina_Latn	Il ha un glauchette tabula foras del theeria.	Il ha un glauchette tabula foras del salon de the.
 ina_Latn	ina_Latn	Il ha verdette sedes de petra apud le arbore apud le salon de the.	Il ha verdette sedes petric apud le arbore apud le theeria.
 ina_Latn	ina_Latn	Ille non comprende.	Ille non intende.
+ina_Latn	ina_Latn	Ille non vole esser un cowboy.	Ille non vole esser un vacchero.
+ina_Latn	ina_Latn	Ille vole apprender le finnese.	Ille vole apprender le finlandese.
+ina_Latn	ina_Latn	Ille vole apprender le hollandese.	Ille vole apprender le nederlandese.
 ina_Latn	ina_Latn	Il non me place Putin.	Putin non me place.
 ina_Latn	ina_Latn	Io era un foreste.	Io era un silva.
 ina_Latn	ina_Latn	Io es ibi.	Io es illac.
 ina_Latn	ina_Latn	Io furara un auto.	Io va furar un auto.
 ina_Latn	ina_Latn	Io place a nemo.	Io place a necuno.
+ina_Latn	ina_Latn	Isto es tofu.	Isto es caseo de soya.
+ina_Latn	ina_Latn	Le agricultores viagia per un barca a remos sub le magic e brillante lumine de le luna.	Le agricultores viagia per un barca a remos sub le magic e brillante lumine del luna.
 ina_Latn	ina_Latn	Le barbacoa besonia bananas a cocer.	Le barbacoa ha besonio de bananas a cocer.
 ina_Latn	ina_Latn	Le barbacoa necessita bananas a cocer.	Le barbacoa besonia bananas a cocer.
 ina_Latn	ina_Latn	Le blau cabanas se trova apud le bosco.	Le blau cabanas se trova apud le silva.
+ina_Latn	ina_Latn	Le cantatores viagia per un barca a remos sub le magic e brillante lumine de le luna.	Le cantatores viagia per un barca a remos sub le magic e brillante lumine del luna.
+ina_Latn	ina_Latn	Le casa ancian se trova in le silva.	Le casa ancian se trova in le bosco.
+ina_Latn	ina_Latn	Le casa ancian se trova in le silva.	Le casa ancian se trova in le foreste.
+ina_Latn	ina_Latn	Le casa ancian se trova in le urbe.	Le casa ancian se trova in le citate.
+ina_Latn	ina_Latn	Le castellos brunette se trova apud le bosco.	Le castellos brunette se trova apud le foreste.
+ina_Latn	ina_Latn	Le citatanos viagia per un barca a remos sub le magic e brillante lumine de le luna.	Le citatanos viagia per un barca a remos sub le magic e brillante lumine del luna.
+ina_Latn	ina_Latn	Lector, io le maritava.	Lector, io le sposava.
 ina_Latn	ina_Latn	Le dessert necessita bananas a cocer.	Le dessert ha besonio de bananas a cocer.
 ina_Latn	ina_Latn	Le estufato ha besonio de bananas a cocer.	Le estufato besonia bananas a cocer.
 ina_Latn	ina_Latn	Le estufato ha besonio de bananas a cocer.	Le estufato necessita bananas a cocer.
@@ -76,6 +105,7 @@ ina_Latn	ina_Latn	Le grande barbacoa besonia bananas a cocer.	Le grande barbacoa
 ina_Latn	ina_Latn	Le platto necessita bananas a cocer.	Le platto ha besonio de bananas a cocer.
 ina_Latn	ina_Latn	Le ragout necessita bananas a cocer.	Le ragout besonia bananas a cocer.
 ina_Latn	ina_Latn	Le ris con lacte place a Ariel.	A Ariel place le ris con lacte.
+ina_Latn	ina_Latn	Libera Parve Britannia!	Libera Britannia Minor!
 ina_Latn	ina_Latn	Maria ama moneta.	Maria ama pecunia.
 ina_Latn	ina_Latn	Mi can miaula.	Mi can face miau.
 ina_Latn	ina_Latn	Mi dentifricio es del sapor de malo.	Mi dentifricio es del sapor de pomo.
@@ -91,8 +121,15 @@ ina_Latn	ina_Latn	Nos era heroes.	Nos esseva heroes.
 ina_Latn	ina_Latn	Nos es communistas.	Nos son communistas.
 ina_Latn	ina_Latn	Nos es le 99%.	Nos es le 99 pro cento.
 ina_Latn	ina_Latn	Nos son heroes.	Nos es heroes.
+ina_Latn	ina_Latn	On apprende un lingua a causa de su valor percipite de prestigio. Si parfumos te place, probabilemente le francese te place. Si le musica rock te place, probabilemente le anglese te place. Le natura salvage me place, assi le linguas indigene de Australia e del Americas me place.	On apprende un lingua a causa de su valor de prestigio percipite. Si le parfumos te place, probabilemente le francese te place. Si le musica rock te place, probabilemente le anglese te place. Le natura salvage me place, assi le linguas indigene de Australia e de America me place.
 ina_Latn	ina_Latn	On dice que in le estate, il face calide hic.	On dice que in le estate, il face calde hic.
+ina_Latn	ina_Latn	Pensar es difficile.	Il es difficile pensar.
 ina_Latn	ina_Latn	Quanto frequentemente bibe vos alcohol?	Con qual frequentia bibe vos alcohol?
 ina_Latn	ina_Latn	Quanto frequentemente bibe vos alcohol?	Con que frequentia bibe vos alcohol?
 ina_Latn	ina_Latn	Tom deveniva un rabbi.	Tom deveniva un rabbin.
+ina_Latn	ina_Latn	Tom es in le spectro de autismo.	Tom es in le spectro autistic.
 ina_Latn	ina_Latn	Tom es plus pigre que Maria.	Tom es plus indolente que Maria.
+ina_Latn	ina_Latn	Tom non joca a basket.	Tom non joca a basketball.
+ina_Latn	ina_Latn	Tom se cessava extender.	Tom cessava extender se.
+ina_Latn	ina_Latn	Totos entrava.	Tote le mundo entrava.
+ina_Latn	ina_Latn	Vamos jocar a football.	Que nos joca a football.

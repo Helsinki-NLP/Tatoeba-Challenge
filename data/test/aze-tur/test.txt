@@ -43,8 +43,8 @@ aze_Latn	tur	Aydındır.	Aydındır.
 aze_Latn	tur	Aydındır.	Net.
 aze_Latn	tur	Bağışla...	Bağışla...
 aze_Latn	tur	Bağışlayın.	Af edersiniz.
-aze_Latn	tur	Bağışlayın...	Bağışlayın...
 aze_Latn	tur	Bağışlayın.	Bağışlayın.
+aze_Latn	tur	Bağışlayın...	Bağışlayın...
 aze_Latn	tur	Bakı Abşeron yarımadasının cənub sahilində yerləşir.	Bakü, Abşeron yarımadasının güney sahilinde bulunuyor.
 aze_Latn	tur	Bakıda üç həftə qalacağam.	Bakü'de üç hafta kalacağım.
 aze_Latn	tur	Bakı Dövlət Universitetində psixologiya oxuyuram.	Bakü Devlet Üniversitesinde psikoloji okuyorum.
@@ -59,11 +59,11 @@ aze_Latn	tur	Başınızı işlədin!	Kafanızı kullanın!
 aze_Latn	tur	Başqaları bayırda oyun oynayır.	Diğerleri dışarıda oyun oynuyorlar.
 aze_Latn	tur	Baxmaq istəmirəm.	Bakmak istemiyorum.
 aze_Latn	tur	Belə bir şey dediyini inkar etdi.	Böyle bir şey söylediğini inkar etti.
+aze_Latn	tur	Beş küftə istəyirəm.	Beş köfte istiyorum.
+aze_Latn	tur	Beş nəfər öldü.	Beş kişi öldü.
 aze_Latn	tur	Bəli, bir dəqiqə içərisində sizinlə birlikdə olacaq.	Evet, bir dakika içerisinde seninle birlikte olacak.
 aze_Latn	tur	Bəli, hərdən.	Evet, bazen.
 aze_Latn	tur	Bəsdir üzr istədin.	Yeterlidir, özür diledin.
-aze_Latn	tur	Beş küftə istəyirəm.	Beş köfte istiyorum.
-aze_Latn	tur	Beş nəfər öldü.	Beş kişi öldü.
 aze_Latn	tur	Bəzən məni görmöyö gəlir.	Arada bir beni görmeye gelir.
 aze_Latn	tur	Bəzilərini sevmərəm.	Bazılarını sevmem.
 aze_Latn	tur	Bəzi qadınlar əbədi yaşamalıdırlar.	Bazı kadınlar ebediyen yaşamalıdırlar.
@@ -102,9 +102,9 @@ aze_Latn	tur	Biz birbirimizə lazımıq.	Biz birbirimize lazımız.
 aze_Latn	tur	Biz danışmağımızı dayandırdıq.	Biz konuşmamızı durdurduk.
 aze_Latn	tur	Biz də qazax dilini öyrənək!	Biz de Kazakça öğrenelim!
 aze_Latn	tur	Biz də qoşulaq!	Biz de katılalım!
-aze_Latn	tur	Bizə qoşul!	Bize katıl!
 aze_Latn	tur	Biz evə piyada qayıtdıq.	Biz eve yaya döndük.
 aze_Latn	tur	Biz, evli olduğunuzu fikirləşmişdik.	Biz, evli olduğunuzu düşünmüştük.
+aze_Latn	tur	Bizə qoşul!	Bize katıl!
 aze_Latn	tur	Biz hamımız birlikdə öləcəyik.	Biz, hepimiz birlikte öleceğiz.
 aze_Latn	tur	Biz həkim tapmalıyıq.	Biz bir hekim bulmalıyız.
 aze_Latn	tur	Bizi gözləmə.	Bizi bekleme.
@@ -209,9 +209,9 @@ aze_Latn	tur	Buralarda bir aptek yoxdurmu?	Buralarda bir eczane yok mudur?
 aze_Latn	tur	Burda nə olduğunu bilirəm.	Burada ne olduğunu biliyorum.
 aze_Latn	tur	Bu ruçkadır.	Bu bir dolma kalemdir.
 aze_Latn	tur	Bu salat limon dadı verir.	Bu salata limon tadı veriyor.
+aze_Latn	tur	Bu şeyi buradan çıxarın.	Bu şeyi buradan çıkarın.
 aze_Latn	tur	Bu səhər hava açdı.	Bu sabah hava açtı.
 aze_Latn	tur	Bu şərabdı?	Bu şarap mı?
-aze_Latn	tur	Bu şeyi buradan çıxarın.	Bu şeyi buradan çıkarın.
 aze_Latn	tur	Bu sizin otağınızdır?	Bu sizin odanız mı?
 aze_Latn	tur	Bu soyuqdur.	Bu soğuktur.
 aze_Latn	tur	Bu söz artıq köhnəlib.	Bu söz artık eskidi.
@@ -263,21 +263,21 @@ aze_Latn	tur	Danışır.	Danışıyor.
 aze_Latn	tur	Daxil etdiyiniz email ünvanı istifadədədir.	Girmiş olduğunuz e-posta adresi zaten kullanımda.
 aze_Latn	tur	Dayım mənə bu qol saatını verdi.	Dayım bana bu kol saatini verdi.
 aze_Latn	tur	Dediyim kimi et , Etdiyim kimi deyil.	Dediğim gibi yap, yaptığım gibi değil.
+aze_Latn	tur	Demek olar ki,hər həftə sonu evə gəlir.	Neredeyse her hafta sonu eve gelir.
+aze_Latn	tur	Derhal bir həkim göndərin.	Derhal bir doktor getirt.
+aze_Latn	tur	Deyəcək sözlərimə qulaq as!	Diyeceğim sözleri dinle!
 aze_Latn	tur	Dələlər fındıq yeyirlər.	Sincaplar fındık yiyorlar.
 aze_Latn	tur	Dəliləşdiyindən xəbərin varmı?	Delirdiğinin farkında mısın?
-aze_Latn	tur	Demek olar ki,hər həftə sonu evə gəlir.	Neredeyse her hafta sonu eve gelir.
 aze_Latn	tur	Dəmiryolu vağzalı univermağın yaxınlığında yerləşir.	Tren garı mağazanın yakınlarında bulunuyor.
 aze_Latn	tur	Dənizin suyu çox duzlu.	Denizin suyu çok tuzlu.
 aze_Latn	tur	Dəqiq?	Sahi mi?
 aze_Latn	tur	Dərhal bir həkim çağırıldı.	Derhal bir doktor çağırıldı.
 aze_Latn	tur	Dərhal bir həkim çağrıldı.	Derhal bir doktor çağrıldı.
-aze_Latn	tur	Derhal bir həkim göndərin.	Derhal bir doktor getirt.
 aze_Latn	tur	Dərhal çəkmələrimi geyindim.	Derhal ayakkabılarımı giydim.
-aze_Latn	tur	Dərhal evə gəl.	Derhal eve gel.
 aze_Latn	tur	Dərhal eve getsən yaxşı olar.	Derhal eve gitsen iyi olur.
+aze_Latn	tur	Dərhal evə gəl.	Derhal eve gel.
 aze_Latn	tur	Dərhal polislə əlaqəyə yaratmaliyiq.	Derhal polisle temasa geçmeliyiz.
 aze_Latn	tur	Dəri ayaqqabı istehsalı üçün xammaldır.	Deri, ayakkabı imalatı için ham maddedir.
-aze_Latn	tur	Deyəcək sözlərimə qulaq as!	Diyeceğim sözleri dinle!
 aze_Latn	tur	Dəyməz.	Bir şey değil.
 aze_Latn	tur	Diabetim var.	Şekerim var.
 aze_Latn	tur	Dinclik içində yat.	Huzur içinde yat.
@@ -294,35 +294,16 @@ aze_Latn	tur	Dünən gecə çox yedim.	Dün gece çok fazla yedim.
 aze_Latn	tur	Dünən məşğul idim.	Dün meşguldüm.
 aze_Latn	tur	Dünyada 10 tip insan var : ikilik sistemi anlayanlar və anlamayanlar.	Dünya üzerinde 10 çeşit insan vardır: ikilik sistemi anlayanlar ve anlamayanlar.
 aze_Latn	tur	Düz iki ildir, onu görmürəm.	Gerçekten iki yıldır onu görmüyorum.
-aze_Latn	tur	Əbədiyyən dost olacağıq!	İlelebet dost olacağız!
 aze_Latn	tur	Edibdir.	Ediptir.
-aze_Latn	tur	Ədyal hanı?	Battaniye nerede?
-aze_Latn	tur	Əgər bir düyməni bassan, ya sağ qalacaqsan, ya öləcəksən.	Eğer bir düğmeye basarsan, ya yaşayacak ya da öleceksin.
-aze_Latn	tur	Əgər o gəlməzsə, nə edəcəksən?	Eğer o gelmezse, ne yapacaksın?
-aze_Latn	tur	Əgər qayıdanda çörək alsan, minnətdan olaram.	Eğer geri dönerken ekmek alırsan minnettar olurum.
-aze_Latn	tur	Əhəmiyyətli olan nə oxuduğun deyil onu necə oxuduğundur.	Önemli olan ne okuduğun değil onu nasıl okuduğundur.
-aze_Latn	tur	Əhməd tələbədir.	Ahmet öğrencidir.
 aze_Latn	tur	Ehtiyatlı ol!	Tedbirli ol!
 aze_Latn	tur	Ehtiyatlı olun!	Dikkatli olun!
 aze_Latn	tur	Ehtiyatlı olun!	Sakının!
 aze_Latn	tur	Ehtiyatlı olun!	Tedbirli olun!
-aze_Latn	tur	Əla!	Âlâ!
-aze_Latn	tur	Əla!	Mükemmel!
-aze_Latn	tur	Əlbəttə, mən gözləyərəm.	Elbette, ben beklerim.
-aze_Latn	tur	Əlbəttə, mən özümü günhakar hiss edirəm.	Elbette, ben kendimi günahkar hissediyorum.
 aze_Latn	tur	Elə indcə gəl məni gör.	Derhal gel ve beni gör.
-aze_Latn	tur	Əllər yuxarı!	Eller yukarı!
 aze_Latn	tur	Emili hal-hazırda məşğuldur.	Emily halihazırda meşguldür.
 aze_Latn	tur	Emili susayıb.	Emili susayıp.
 aze_Latn	tur	En yaxin xəstəxana haradadır?	En yakın hastane nerede?
-aze_Latn	tur	Ərdoğan Türkiyənin prezidentidir.	Erdoğan, Türkiye'nin başkanıdır.
-aze_Latn	tur	Əsla fransız dilini danışmam.	Asla Fransızca konuşmam.
-aze_Latn	tur	Əsla heçkəsə inanmayın.	Asla kimseye inanmayın.
-aze_Latn	tur	Əsla heçkəsə söyləməyin.	Asla kimseye söylemeyin.
-aze_Latn	tur	Əsla imtina etməyin.	Asla vazgeçmeyin.
-aze_Latn	tur	Əsla onu deməyin.	Asla onu söylemeyin.
 aze_Latn	tur	Etdiyim şeyi sevirəm.	Yaptığım şeyi seviyorum.
-aze_Latn	tur	Ət təzə deyil.	Et taze değil.
 aze_Latn	tur	Evdə nə baş verdiyini bilirəm.	Evde ne olduğunu biliyorum.
 aze_Latn	tur	Evdə yemək varmı?	Evde yemek var mı?
 aze_Latn	tur	Evə xoş gəldin.	Eve hoş geldin.
@@ -331,6 +312,25 @@ aze_Latn	tur	Evin böyük.	Evin büyük.
 aze_Latn	tur	Evin böyük.	Senin evin büyük.
 aze_Latn	tur	Ev kiçikdir.	Ev küçüktür.
 aze_Latn	tur	Evli deyiləm.	Evli değilim.
+aze_Latn	tur	Əbədiyyən dost olacağıq!	İlelebet dost olacağız!
+aze_Latn	tur	Ədyal hanı?	Battaniye nerede?
+aze_Latn	tur	Əgər bir düyməni bassan, ya sağ qalacaqsan, ya öləcəksən.	Eğer bir düğmeye basarsan, ya yaşayacak ya da öleceksin.
+aze_Latn	tur	Əgər o gəlməzsə, nə edəcəksən?	Eğer o gelmezse, ne yapacaksın?
+aze_Latn	tur	Əgər qayıdanda çörək alsan, minnətdan olaram.	Eğer geri dönerken ekmek alırsan minnettar olurum.
+aze_Latn	tur	Əhəmiyyətli olan nə oxuduğun deyil onu necə oxuduğundur.	Önemli olan ne okuduğun değil onu nasıl okuduğundur.
+aze_Latn	tur	Əhməd tələbədir.	Ahmet öğrencidir.
+aze_Latn	tur	Əla!	Âlâ!
+aze_Latn	tur	Əla!	Mükemmel!
+aze_Latn	tur	Əlbəttə, mən gözləyərəm.	Elbette, ben beklerim.
+aze_Latn	tur	Əlbəttə, mən özümü günhakar hiss edirəm.	Elbette, ben kendimi günahkar hissediyorum.
+aze_Latn	tur	Əllər yuxarı!	Eller yukarı!
+aze_Latn	tur	Ərdoğan Türkiyənin prezidentidir.	Erdoğan, Türkiye'nin başkanıdır.
+aze_Latn	tur	Əsla fransız dilini danışmam.	Asla Fransızca konuşmam.
+aze_Latn	tur	Əsla heçkəsə inanmayın.	Asla kimseye inanmayın.
+aze_Latn	tur	Əsla heçkəsə söyləməyin.	Asla kimseye söylemeyin.
+aze_Latn	tur	Əsla imtina etməyin.	Asla vazgeçmeyin.
+aze_Latn	tur	Əsla onu deməyin.	Asla onu söylemeyin.
+aze_Latn	tur	Ət təzə deyil.	Et taze değil.
 aze_Latn	tur	Əvvəl mən başlayıram.	Önce ben başlıyorum.
 aze_Latn	tur	Fotoqraf şəkil çəkir.	Fotoğraf çekiyor.
 aze_Latn	tur	Fransızca bildiyini cavabladi.	Fransızca bilmediğini yanıtladı.
@@ -341,16 +341,16 @@ aze_Latn	tur	Gecə oldu.	Gece oldu.
 aze_Latn	tur	Gecikdiyi üçün bizdən üzr istədi.	Geç kaldığı için bizden özür diledi.
 aze_Latn	tur	Gecikmə.	Gecikme.
 aze_Latn	tur	Gecikmə.	Geç kalma.
+aze_Latn	tur	Gerçək bir yoldaşlıq puldan daha qiymətlidir.	Gerçek bir arkadaşlık paradan daha değerlidir.
+aze_Latn	tur	Getmək məcburiyyətində qaldıq.	Yürümek zorunda kaldık.
+aze_Latn	tur	Getməməli idin.	Gitmemeliydin.
 aze_Latn	tur	Gəl, avtobus çağıraq.	Haydi otobüse binelim.
 aze_Latn	tur	Gəl çarpayının altına baxaq.	Yatağın altına bakalım.
 aze_Latn	tur	Gələ bilərsən.	Gelebilirsin.
 aze_Latn	tur	Gəlin uzun-uzadı danışmadan birbaşa mətləbə keçək.	Gelin, çok konuşmadan hemen dövüşe geçelim.
 aze_Latn	tur	Gəl problem axtarmayaq.	Gel de problem aramayalım.
 aze_Latn	tur	Gənc adamın mənə baxdığını sezdim.	Genç adamın bana baktığını fark ettim.
-aze_Latn	tur	Gerçək bir yoldaşlıq puldan daha qiymətlidir.	Gerçek bir arkadaşlık paradan daha değerlidir.
 aze_Latn	tur	Gərginəm.	Gerginim.
-aze_Latn	tur	Getmək məcburiyyətində qaldıq.	Yürümek zorunda kaldık.
-aze_Latn	tur	Getməməli idin.	Gitmemeliydin.
 aze_Latn	tur	Girə bilərəmmi?	Girebilir miyim.
 aze_Latn	tur	Gitaraçı mənim qardaşımdır.	Gitar çalan benim erkek kardeşim.
 aze_Latn	tur	Google Translate, Ubuntu Tərcümələri üçün yetərli deyil. Bundan başqa da, o, Ubuntu Tərcümələrinin nizamnaməsinə ziddir.	Google Çeviri, Ubuntu Çevirileri için yeterli değil. Ayrıca bu, Ubuntu Çevirilerinin tüzüğüne aykırıdır.
@@ -370,10 +370,10 @@ aze_Latn	tur	Hamamdayam.	Hamamdayım.
 aze_Latn	tur	Hamının dosta ehtiyacı var.	Herkesin dosta ihtiyacı var.
 aze_Latn	tur	Hamınızın nə fikirləşdiyini bilirəm.	Hepinizin ne düşündüğünü biliyorum.
 aze_Latn	tur	Hamınızın nə istədiyini bilirəm.	Hepinizin ne istediğini biliyorum.
-aze_Latn	tur	Hamısı durğun idi.	Hepsi durgundu.
-aze_Latn	tur	Hamısı ona baxmaq üçün döndü.	Herkes ona bakmak için döndü.
 aze_Latn	tur	Hamı sizi gözləyir.	Herkes sizi bekliyor.
 aze_Latn	tur	Hamı sizinlə razıdır.	Herkes sizinle aynı fikirde.
+aze_Latn	tur	Hamısı durğun idi.	Hepsi durgundu.
+aze_Latn	tur	Hamısı ona baxmaq üçün döndü.	Herkes ona bakmak için döndü.
 aze_Latn	tur	Hanı sizin uşaqlar?	Hani sizin çocuklar?
 aze_Latn	tur	Hansı yaxşıdır?	Hangisi yakşıdır?
 aze_Latn	tur	Hansıyla başlayım?	Hangisi ile başlayayım?
@@ -387,13 +387,15 @@ aze_Latn	tur	Haralısınız?	Nerelisiniz?
 aze_Latn	tur	Hava mülayim idi.	Hava yumuşaktı.
 aze_Latn	tur	Hava soyuqdur.	Hava soğuk.
 aze_Latn	tur	Hawaii məşhur bir turizm diyarıdır.	Hawaii popüler bir turizm beldesidir.
-aze_Latn	tur	Hə,bir dəqiqəyə səninle birlikdə olacaq.	Evet, bir dakika içerisinde seninle birlikte olacak.
 aze_Latn	tur	Heç kəs cavab vermədi.	Kimse cevaplamadı.
 aze_Latn	tur	Heç ne eşitməmişəm.	Hiçbir şey duymadım.
 aze_Latn	tur	Heç vaxt onu ağlınıza derd etməyin.	Asla onu umursamayın.
+aze_Latn	tur	Hekayənin həqiqət olduğuna inanır.	Hikayenin gerçek olduğuna inanıyor.
+aze_Latn	tur	Hesaba bir az pul qoymaq istəyirəm.	Hesaba biraz para koymak istiyorum.
+aze_Latn	tur	Hesablamam doğru idi.	Hesaplamam doğruydu.
+aze_Latn	tur	Hə,bir dəqiqəyə səninle birlikdə olacaq.	Evet, bir dakika içerisinde seninle birlikte olacak.
 aze_Latn	tur	Hə.	He.
 aze_Latn	tur	Hə, hərdən.	Evet, ara sıra.
-aze_Latn	tur	Hekayənin həqiqət olduğuna inanır.	Hikayenin gerçek olduğuna inanıyor.
 aze_Latn	tur	Həkim nə edir?	Doktor ne yapıyor?
 aze_Latn	tur	Hələ çox tezdi.	Halen çok erken.
 aze_Latn	tur	Həmişə onu deyirsən.	Her zaman onu söylüyorsun.
@@ -411,8 +413,6 @@ aze_Latn	tur	Hər şey tərs getdi.	Her şey ters gitti.
 aze_Latn	tur	Hər şey üçün sağ ol.	Her şey için teşekkürler.
 aze_Latn	tur	Hər yerdə yağış yağır.	Her yerde yağmur yağıyor.
 aze_Latn	tur	Hər zaman ciddi musiqiyə qulaq asır.	Her zaman ciddi müzik dinler.
-aze_Latn	tur	Hesaba bir az pul qoymaq istəyirəm.	Hesaba biraz para koymak istiyorum.
-aze_Latn	tur	Hesablamam doğru idi.	Hesaplamam doğruydu.
 aze_Latn	tur	Həyat, alman dilini öyrənmək üçün çox qısadır.	Hayat, Almancayı öğrenmek için çok kısadır.
 aze_Latn	tur	Həyat davam edir.	Hayat devam ediyor.
 aze_Latn	tur	Həyatını şirkətinə həsr etdi.	Hayatını şirketine adadı.
@@ -504,16 +504,19 @@ aze_Latn	tur	Mariyanın qara uzun saçları və qəhvəyi gözləri var.	Maria'n
 aze_Latn	tur	Mariya otaqda tək qaldı.	Maria odada tek kaldı.
 aze_Latn	tur	Marsda da pişiklər var.	Mars'ta da kediler var.
 aze_Latn	tur	Maşınını işə saldı.	Arabasını çalıştırdı.
+aze_Latn	tur	Mehmanxanada mənim üçün bir otaq ayırtdı.	Handa benim için bir oda ayırttı.
+aze_Latn	tur	Mektəbinizə getdim.	Okulunuza gittim.
+aze_Latn	tur	Mene kömek ede bilersiniz?	Bana yardım edebilir misin?
+aze_Latn	tur	Meri Aydaho dağlarında skunsları öyrənir.	Mary, Idaho dağlarında kokarcaları inceliyor.
+aze_Latn	tur	Meri Tomun əkiz bacısıdır.	Meri, Tom'un ikiz bacısıdır.
 aze_Latn	tur	Mədəm bulanır.	Midem bulanıyor.
 aze_Latn	tur	Məğlub olursan.	Kaybediyorsun.
-aze_Latn	tur	Mehmanxanada mənim üçün bir otaq ayırtdı.	Handa benim için bir oda ayırttı.
 aze_Latn	tur	Məktəb aprelin 8-i başlayır.	Okul, nisanın 8'inde başlıyor.
 aze_Latn	tur	Məktəbə avtobus ya da qatarla gəlir.	Okula otobüsle ya da trenle gelir.
 aze_Latn	tur	Məktəbə gecikmə.	Okula geç kalma.
 aze_Latn	tur	Məktəbə getmək istəmirəm.	Okula gitmek istemiyorum.
 aze_Latn	tur	Məktəbə getmişdi.	Okula gitmişti.
 aze_Latn	tur	Məktəbinə getdim.	Okuluna gittim.
-aze_Latn	tur	Mektəbinizə getdim.	Okulunuza gittim.
 aze_Latn	tur	Mən ağıllı idim.	Ben akıllıydım.
 aze_Latn	tur	Mən ağzıpərtöv deyiləm.	Ben küfürbaz değilim.
 aze_Latn	tur	Mən almanca danışıram.	Ben Almanca konuşuyorum.
@@ -558,7 +561,6 @@ aze_Latn	tur	Mənə bir neçə dənəsini ver.	Bana birkaç tane ver.
 aze_Latn	tur	Mənə bir portağal ver.	Bana bir portakal ver.
 aze_Latn	tur	Mənə bu kitabı yazmaq üçün 3 il lazım oldu.	Bana bu kitabı yazmak için 3 yıl lazım oldu.
 aze_Latn	tur	Mənə İnternet lazım.	İnternet lazım.
-aze_Latn	tur	Mene kömek ede bilersiniz?	Bana yardım edebilir misin?
 aze_Latn	tur	Mən əlimdən gələni edəcəm.	Elimden geleni yapacağım.
 aze_Latn	tur	Mənə lüğət lazımdır.	Bana sözlük gerek.
 aze_Latn	tur	Mənə lüğət lazımdır.	Bir sözlüğe ihtiyacım var.
@@ -607,8 +609,8 @@ aze_Latn	tur	Məni vurdu.	Bana vurdu.
 aze_Latn	tur	Mən kitab yeyirəm.	Ben kitap yerim
 aze_Latn	tur	Mən kofe içirəm.	Ben kahve içiyorum.
 aze_Latn	tur	Mən kofe istəyirəm.	Ben kahve istiyorum.
-aze_Latn	tur	Mən məktəbə səhər saat səkkizdə gedirəm.	Ben okula sabah saat sekizde gidiyorum.
 aze_Latn	tur	Mən Merinin xoşuna gəlirəm.	Ben, Mary'nin hoşuna gidiyorum.
+aze_Latn	tur	Mən məktəbə səhər saat səkkizdə gedirəm.	Ben okula sabah saat sekizde gidiyorum.
 aze_Latn	tur	Mən müəllimə idim.	Ben muallime idim.
 aze_Latn	tur	Mən mühəndisəm.	Ben bir mühendisim.
 aze_Latn	tur	Mən Niderlanddanam.	Ben Hollandalıyım.
@@ -627,15 +629,13 @@ aze_Latn	tur	Mən sizin köynəyinizi qurudacağam.	Tişörtünü kurutacağım.
 aze_Latn	tur	Mən sizin məsləhətlərinizi həmişə xatırlayacam.	Ben sizin nasihatlerinizi daima hatırlayacağım.
 aze_Latn	tur	Mən skripka çalıram.	Ben keman çalarım.
 aze_Latn	tur	Mən tamamilə ciddiyəm.	Ben tamamen ciddiyim.
-aze_Latn	tur	Mən təhlükəliyəm.	Ben tehlikeliyim.
 aze_Latn	tur	Mən televizora baxmıram.	Ben televizyon izlemiyorum.
+aze_Latn	tur	Mən təhlükəliyəm.	Ben tehlikeliyim.
 aze_Latn	tur	Mən Türkçe danışa bilmirəm.	Türkçe konuşamıyorum.
 aze_Latn	tur	Mən uzun həftə sonlarını xoşlayıram.	Ben uzun hafta sonlarından hoşlanıyorum.
 aze_Latn	tur	Mən yavaş danışdım ki onlar məni başa düşə bilsinlər.	Ben yavaş konuştum ki onlar beni anlayabilsinler.
 aze_Latn	tur	Mən yazıram.	Ben yazıyorum.
 aze_Latn	tur	Mərhəmət üçün hakimə yalvardı.	Merhamet için hakime yalvardı.
-aze_Latn	tur	Meri Aydaho dağlarında skunsları öyrənir.	Mary, Idaho dağlarında kokarcaları inceliyor.
-aze_Latn	tur	Meri Tomun əkiz bacısıdır.	Meri, Tom'un ikiz bacısıdır.
 aze_Latn	tur	Məşğulsan?	Meşgul müsün?
 aze_Latn	tur	Mətn nə haqqındadır?	Metin ne hakkında?
 aze_Latn	tur	Minlərlə adam orda idi.	Binlerce kişi oradaydı.
@@ -648,16 +648,16 @@ aze_Latn	tur	Musiqisiz həyat yoxdur.	Müziksiz hayat yoktur.
 aze_Latn	tur	Muzey haradadır?	Müze nerede?
 aze_Latn	tur	Namaz neçə dəfə qılınmalıdır?	Namaz kaç defa kılınmalıdır?
 aze_Latn	tur	Nauru nauru dilində "Naoero" adlanır.	Nauru, Naurucada "Naoero" şeklinde adlandırılıyor.
-aze_Latn	tur	Nə baş verdiyini bilirəm.	Ne olduğunu biliyorum.
 aze_Latn	tur	Necə görünürəm.	Nasıl görünüyorum?
 aze_Latn	tur	Necəsən?	Nasılsın?
 aze_Latn	tur	Neçəyədir?	Kaçadır?
+aze_Latn	tur	Ne etməyimi istəyəcəklərini bilirəm.	Ne yapmamı isteyeceklerini biliyorum.
+aze_Latn	tur	Nə baş verdiyini bilirəm.	Ne olduğunu biliyorum.
 aze_Latn	tur	Nə cürətlə belə danışırsan?	Ne cüretle böyle konuşursun?
 aze_Latn	tur	Nə deyəcəyimi bilirəm.	Ne söyleyeceğimi biliyorum.
 aze_Latn	tur	NƏ düşündüyünü bilirəm.	Ne düşündüğünü biliyorum.
 aze_Latn	tur	Nə edəcəklərini bilirəm.	Ne yapacaklarını biliyorum.
 aze_Latn	tur	Nə etdiyini bilirəm.	Ne yaptığını biliyorum.
-aze_Latn	tur	Ne etməyimi istəyəcəklərini bilirəm.	Ne yapmamı isteyeceklerini biliyorum.
 aze_Latn	tur	Nənə sənin gözlərin niyə belə yekədi?	Büyükanne senin gözlerin neden bu kadar büyük?
 aze_Latn	tur	Nə olduğunu bilirəm.	Ne olduğunu biliyorum.
 aze_Latn	tur	Nə qədər balıq tutmusunuz?	Ne kadar balık tutmuşsunuz?
@@ -701,14 +701,14 @@ aze_Latn	tur	O, dini musiqi dinləyir.	O, dini müzik dinliyor.
 aze_Latn	tur	O, dini musiqiyə qulaq asır.	O, dini müzik dinliyor.
 aze_Latn	tur	Odun üçün stulu qırdı.	Yakacak odun için sandalyeyi kırdı.
 aze_Latn	tur	O elə dedi.	O, öyle söyledi.
-aze_Latn	tur	O, ən çoxu 50 dollar ödəyəcək.	O, en fazla 50 dolar ödeyecek.
 aze_Latn	tur	O,evdədir.	O, evdedir.
 aze_Latn	tur	O, evə getməyə tələsirdi.	O eve gitmeye acele ediyordu.
 aze_Latn	tur	O eylenceli idi.	O eğlenceliydi.
+aze_Latn	tur	O, ən çoxu 50 dollar ödəyəcək.	O, en fazla 50 dolar ödeyecek.
 aze_Latn	tur	O əyləncəli olmayacaq.	O eğlenceli olmayacak.
+aze_Latn	tur	O geyindi.	O giyindi.
 aze_Latn	tur	O gəlməyəcək, deyil mi?	O gelmeyecek, değil mi?
 aze_Latn	tur	O gəlsin.	O gelsin.
-aze_Latn	tur	O geyindi.	O giyindi.
 aze_Latn	tur	Oğlanın cibində alma var.	Oğlanın cebinde elma var.
 aze_Latn	tur	Oğrular yaxalandı.	Hırsızlar yakalandı.
 aze_Latn	tur	O günə iyirmi siqaret çəkir.	O günde yirmi sigara içiyor.
@@ -730,6 +730,7 @@ aze_Latn	tur	Ölkəndəki minimum maaş nə qədərdir?	Ülkendeki asgari maaş 
 aze_Latn	tur	Öl!	Öl!
 aze_Latn	tur	Ölüb?	Ölüp mü?
 aze_Latn	tur	O maşın sürə bilir?	O araba kullanabiliyor mu?
+aze_Latn	tur	O, meşədə azıb.	O, ormanda kaybolmuş.
 aze_Latn	tur	O məndən bir az gödəkboyludur.	O benden biraz kısadır.
 aze_Latn	tur	O məndən topu geri tullamağımı xahiş etdi.	O benden topu geri fırlatmamı rica etti.
 aze_Latn	tur	O mənə baxdı.	O bana baktı.
@@ -739,7 +740,6 @@ aze_Latn	tur	O, mənə yalan dedi,	O, bana yalan söyledi.
 aze_Latn	tur	O, mənim böyük qardaşımdan üç yaş kiçikdir.	O, benim ağabeyimden üç yaş küçüktür.
 aze_Latn	tur	O, mənim öz uşağım kimidir.	O, benim öz çocuğum gibidir.
 aze_Latn	tur	O məni tərk etdi.	O beni terk etti.
-aze_Latn	tur	O, meşədə azıb.	O, ormanda kaybolmuş.
 aze_Latn	tur	O monopoliya oynayır.	O monopoly oynuyor.
 aze_Latn	tur	O mövcud deyil.	O mevcut değil.
 aze_Latn	tur	O, musiqi dinləyərək, bir məktub yazdı.	O, müzik dinleyerek, bir mektup yazdı.
@@ -755,9 +755,9 @@ aze_Latn	tur	Onlara təşəkkür qeydi yazmağın gərəkdiyini düşünmürsən
 aze_Latn	tur	Onlar balıqları yemlədilər.	Onlar balıklara yem verdiler.
 aze_Latn	tur	Onlar hər ikisi məktəb uşaqlardır.	Onların ikisi de okul öğrencisidir.
 aze_Latn	tur	Onlar içmir.	Onlar içki içmezler.
+aze_Latn	tur	Onlarin hamısı əsəbidir.	Onların hepsi asabi.
 aze_Latn	tur	Onları iti qovan kimi qovmuşuq.	Onları iti kovar gibi kovduk.
 aze_Latn	tur	Onların dəvətini qəbul etmədi.	Onların davetini kabul etmedi.
-aze_Latn	tur	Onlarin hamısı əsəbidir.	Onların hepsi asabi.
 aze_Latn	tur	Onların iki əcnəbi dostları var.	Onların iki ecnebi dostları var.
 aze_Latn	tur	Onların işi emalatxananı açmaqdır.	Onların işi imalathane açmaktır.
 aze_Latn	tur	Onların oğlu var.	Onların oğlu var.
@@ -791,9 +791,9 @@ aze_Latn	tur	Onun ünvanı necədir?	Onun adresi neresidir?
 aze_Latn	tur	Onun vaxtı var.	Onun zamanı var.
 aze_Latn	tur	Onun yaşadığı şəhərdən xoşlanmıram.	Onun yaşadığı şehirden hoşlanmıyorum.
 aze_Latn	tur	Onu pulsuz aldım.	Onu ücretsiz aldım.
-aze_Latn	tur	Onu sədr təyin elədilər.	Onu sadır tayin ettiler.
 aze_Latn	tur	Onu sevə bilərəm.	Onu sevebilirim.
 aze_Latn	tur	Onu sevirsən?	Onu seviyor musun?
+aze_Latn	tur	Onu sədr təyin elədilər.	Onu sadır tayin ettiler.
 aze_Latn	tur	Onu sonsuza qədər itirəcəyinə, dostuna qarşı səbirlə ol.	Onu sonsuza kadar kaybetmek yerine, bir arkadaşına karşı sabırlı ol.
 aze_Latn	tur	Onu ud.	Onu ut.
 aze_Latn	tur	Onu ud.	Onu yut.
@@ -821,10 +821,10 @@ aze_Latn	tur	O şizofreniyalıdır.	O şizofreniktir.
 aze_Latn	tur	O,soldu.	O, soldu.
 aze_Latn	tur	O soyuqdur.	O, soğuktur.
 aze_Latn	tur	O taqətdən düşüb.	Onun takati kalmamış.
-aze_Latn	tur	Ötən gecə lülqənbər idim, çimmədən yatdım.	Geçen gece sarhoştum, yıkanmadan yattım.
-aze_Latn	tur	O, tərləyib.	O, terledi.
 aze_Latn	tur	O, tezdən oyanmağa vərdiş edib.	O, erkenden uyanmayı alışkanlık etmiş.
 aze_Latn	tur	O, tez-tez televizorda görünür.	O, sık sık televizyonda görünür.
+aze_Latn	tur	Ötən gecə lülqənbər idim, çimmədən yatdım.	Geçen gece sarhoştum, yıkanmadan yattım.
+aze_Latn	tur	O, tərləyib.	O, terledi.
 aze_Latn	tur	O, topu bağda tapdı.	O, topu bahçede buldu.
 aze_Latn	tur	O, treyleri maşına taxdı.	O, römorku arabasına taktı.
 aze_Latn	tur	Otuz səkkiz yaşı olmasına baxmayaraq o hələ də valideynlərindən asılıdır.	Otuz sekiz yaşında olmasına rağmen o hala daha ebeveynlerine bağlıdır.
@@ -850,9 +850,9 @@ aze_Latn	tur	O,zərifdir.	O, naziktir.
 aze_Latn	tur	Özünü mənimlə qarışdırma!	Kendini benimle karıştırma!
 aze_Latn	tur	Payız mənim xoşuma gəlir.	Sonbahar benim hoşuma gidiyor.
 aze_Latn	tur	Payız yerini qışa verdi.	Sonbaharın yerini kış aldı.
-aze_Latn	tur	Pəncərəni qırdığını inkar edir.	Pencereyi kırdığını reddediyor.
 aze_Latn	tur	Pendir sarıdır.	Peynir sarıdır.
 aze_Latn	tur	Pet çox boşboğazdır.	Pat çok gevezedir.
+aze_Latn	tur	Pəncərəni qırdığını inkar edir.	Pencereyi kırdığını reddediyor.
 aze_Latn	tur	Pis bir qərar verdim.	Kötü bir karar verdim.
 aze_Latn	tur	Pisdir?	Kötü müdür?
 aze_Latn	tur	Pisdir?	Pis midir?
@@ -882,9 +882,9 @@ aze_Latn	tur	Qəzet haradadır?	Gazete nerede?
 aze_Latn	tur	Qəzetim harada?	Gazetem nerede?
 aze_Latn	tur	Qəzet oxumaqdan başqa bir şey etmədi.	Gazete okumaktan başka bir şey yapmadı.
 aze_Latn	tur	Qida həyat verir, həyat güc verir və güc böyük uğurlar verir.	Yiyecek hayat verir, hayat güç verir ve güç büyük başarılar verir.
+aze_Latn	tur	Qisa müddətdə qayıtmağın şərtiylə gedə bilərsən.	Kısa sürede geri gelmen şartıyla gidebilirsin.
 aze_Latn	tur	Qılınc bədəni qorumaq üçün istifadə oluna bilər.	Kılıç, bedeni korumak için kullanılabilir.
 aze_Latn	tur	Qırmızı bir evim var.	Kırmızı bir evim var.
-aze_Latn	tur	Qisa müddətdə qayıtmağın şərtiylə gedə bilərsən.	Kısa sürede geri gelmen şartıyla gidebilirsin.
 aze_Latn	tur	Qışda burda soyuq olur.	Kışın bura soğuk olur.
 aze_Latn	tur	Qızına yeni bir paltar aldi.	Kızına yeni bir elbise satın aldı.
 aze_Latn	tur	Qızını mənə ver.	Kızını bana ver.
@@ -920,6 +920,9 @@ aze_Latn	tur	Şans Deyildi.	Şans değildi.
 aze_Latn	tur	Şansımı sınayacağam.	Şansımı deneyeceğim.
 aze_Latn	tur	Seçimini et.	Seçimini yap.
 aze_Latn	tur	Seçiminizi edin.	Tercihinizi yapın.
+aze_Latn	tur	Seni tapa bilməyəcəyimiz fikirləşmişdim..	Seni bulmayacağımı düşünmüştüm.
+aze_Latn	tur	Sen vəfalısan.	Sen sadıksın.
+aze_Latn	tur	Sen yararsızsan.	Sen faydasızsın.
 aze_Latn	tur	Şəhərdə yaşayırıq.	Şehirde yaşıyoruz.
 aze_Latn	tur	Səma mavidir.	Gök mavidir.
 aze_Latn	tur	Səncə hədiyyəm onun xoşuna gələcək?	Sence hediyem onun hoşuna gidecek mi?
@@ -937,20 +940,16 @@ aze_Latn	tur	Sənin nə düşündüyünü bilmək istəyirəm.	Senin ne düşün
 aze_Latn	tur	Sənin qanın qırmızıdır.	Kanın kırmızı.
 aze_Latn	tur	Sənin Skaypın var?	Senin Skype'n var mı?
 aze_Latn	tur	Sənin ürəyin xəstədir.	Senin yüreğin hasta.
-aze_Latn	tur	Seni tapa bilməyəcəyimiz fikirləşmişdim..	Seni bulmayacağımı düşünmüştüm.
 aze_Latn	tur	Sən məndən danışırsan?	Sen benim hakkımda mı konuşuyorsun?
 aze_Latn	tur	Sən mənə işarə vurursan?	Sen beni mi kastediyorsun?
 aze_Latn	tur	Sən mənim əsirimsən.	Sen benim esirimsin.
 aze_Latn	tur	Sən məni nəzərdə tutursan?	Sen beni mi kastediyorsun?
 aze_Latn	tur	Sən onu tanıyırsan.	Sen onu tanıyorsun.
 aze_Latn	tur	Sən şirinsənş	Sen şirinsin.
-aze_Latn	tur	Sen vəfalısan.	Sen sadıksın.
-aze_Latn	tur	Sen yararsızsan.	Sen faydasızsın.
 aze_Latn	tur	Şərqi Montana qışda xüsusilə küləkli və soyuq olur.	Doğu Montana özellikle kışın rüzgarlı ve soğuk oluyor.
 aze_Latn	tur	Səssizcə hərəkət et.	Sessizce hareket et.
 aze_Latn	tur	Şimali Dakotada böyük neft yataqları tapılmışdı.	Kuzey Dakota'da büyük petrol yatakları bulunmuştu.
 aze_Latn	tur	Şimali Dakotada turizm yaxşı inkişaf etməyib.	Kuzey Dakota'da turizm iyi gitmiyor.
-aze_Latn	tur	Sınaq nəzəriyyəsini təsdiqlədiş	Deney teorisini doğruladı.
 aze_Latn	tur	Siqaret çəkmək ağciyər xərçənginin ən əhəmiyyətli səbəbidir.	Sigara içmek akciğer kanserinin en önemli nedenidir.
 aze_Latn	tur	Siqareti atmaq çətindir.	Sigaradan kurtulmak zordur.
 aze_Latn	tur	Şir nərildəyir.	Aslan kükrüyor.
@@ -969,6 +968,7 @@ aze_Latn	tur	Siz onu tanıyırsınız.	Siz onu tanıyorsunuz.
 aze_Latn	tur	Siz spagetti xoşlayırsız?	Spagetti sever misiniz?
 aze_Latn	tur	Siz tək deyilsiniz.	Siz tek değilsiniz.
 aze_Latn	tur	Siz Tomu axtarırsınız?	Siz Tom'u mu arıyorsunuz?
+aze_Latn	tur	Sınaq nəzəriyyəsini təsdiqlədiş	Deney teorisini doğruladı.
 aze_Latn	tur	Şokolad Lindanın çox xoşuna gəldi.	Çikolata, Linda'nın hoşuna gitti.
 aze_Latn	tur	Sonra da deyirlər ki Bill Geyts insanlara çip yerləşdirib idarə edəcək. Adam arvadıyla yola gedə bilmir. Qoya bilsə arvada qoyar.	Sonra da diyorlar ki Bill Gates insanlara çip yerleştirip kontrol edecek. Adam daha karısıyla anlaşamıyor. Koyabilse karısına koyar.
 aze_Latn	tur	Sox içivə	Sok içine
@@ -992,13 +992,17 @@ aze_Latn	tur	Talış dilini öyrənirik.	Talışçayı öğreniyoruz.
 aze_Latn	tur	Tamamilə haqlısınız.	Tamamen haklısınız.
 aze_Latn	tur	Tapşırığını etdin mı?	Ödevini yaptın mı?
 aze_Latn	tur	Tatoebaya xoş gəlmişsiniz!	Tatoeba'ya hoş geldiniz!
+aze_Latn	tur	Tenis oynamaq üçün vaxt ayıra bilmərəm.	Tenis oynamak için zaman ayıramam.
+aze_Latn	tur	Tenis raketkamı klubdda qoydum.	Tenis raketimi kulüpte bıraktım.
+aze_Latn	tur	Tezlikle təkcə yaşamağa öyrəşəcəksən.	Yakında kendi başına yaşamaya alışacaksın.
+aze_Latn	tur	Tezliklə iqlim dəyişikliyinə uyğunlaşacaqsan.	Yakında iklim değişikliğine alışacaksın.
+aze_Latn	tur	Tezliklə sənə yazacam.	Yakında sana yazacağım.
+aze_Latn	tur	Tezliklə yataqxanada yaşamağa uyğunlaşacaqsan.	Yakında bir yurtta yaşamaya uyum sağlayacaksın.
 aze_Latn	tur	Təbiəti sevirəm.	Doğayı severim.
 aze_Latn	tur	Təcili Servisə getməyim gərəkdi.	Acil servise gitmem gerekti.
 aze_Latn	tur	Təəssüf ki, o vaxt onu edə bilmərəm.	Maalesef o vakitte onu yapamam.
 aze_Latn	tur	Tələbənin kitabı hardadır?	Öğrencinin kitabı nerede?
 aze_Latn	tur	Tələsməliyəmmi?	Acele etmeli miyim?
-aze_Latn	tur	Tenis oynamaq üçün vaxt ayıra bilmərəm.	Tenis oynamak için zaman ayıramam.
-aze_Latn	tur	Tenis raketkamı klubdda qoydum.	Tenis raketimi kulüpte bıraktım.
 aze_Latn	tur	Tərcümə məsuliyyətli işdir.	Çeviri, sorumluluk isteyen bir iştir.
 aze_Latn	tur	Tərpənmə.	Kımıldama.
 aze_Latn	tur	Tərpənməyin.	Kımıldamayın.
@@ -1006,18 +1010,14 @@ aze_Latn	tur	Təslim olma.	Teslim olma.
 aze_Latn	tur	Tətildəydim.	Tatildeydim.
 aze_Latn	tur	Tətilimi Bakıda keçirəcəyəm.	Tatilimi Bakü'de geçireceğim.
 aze_Latn	tur	Təxminən günortaya qədər görünmədi.	Yaklaşık öğleye kadar görünmedi.
-aze_Latn	tur	Tezliklə iqlim dəyişikliyinə uyğunlaşacaqsan.	Yakında iklim değişikliğine alışacaksın.
-aze_Latn	tur	Tezliklə sənə yazacam.	Yakında sana yazacağım.
-aze_Latn	tur	Tezlikle təkcə yaşamağa öyrəşəcəksən.	Yakında kendi başına yaşamaya alışacaksın.
-aze_Latn	tur	Tezliklə yataqxanada yaşamağa uyğunlaşacaqsan.	Yakında bir yurtta yaşamaya uyum sağlayacaksın.
 aze_Latn	tur	Toma dedim ki, geri qayıtmasın.	Tom'a dedim ki, geri dönmesin.
 aze_Latn	tur	Toma de.	Tom'a söyle.
 aze_Latn	tur	Toma fikir vermə.	Tom'a aldırma.
 aze_Latn	tur	Tom alma ağaclarının toxumlarından yetişdiyini bilmirdi.	Tom elma ağaçlarının tohumlarından yetiştiğini bilmiyordu.
 aze_Latn	tur	Toma nə etdiyini bilirəm.	Tom'a ne yaptığını biliyorum.
 aze_Latn	tur	Tomas mənim qardaşımdır.	Tomas benim erkek kardeşimdir.
-aze_Latn	tur	Tom bıçağını Mary'yə atdı.	Tom bıçağını Mary'ye fırlattı.
 aze_Latn	tur	Tom bizim şəhərə qayıdacaq.	Tom bizim şehre geri dönecek.
+aze_Latn	tur	Tom bıçağını Mary'yə atdı.	Tom bıçağını Mary'ye fırlattı.
 aze_Latn	tur	Tom CD'ni qutusundan çıxardı və onu playerə taxdı.	Tom CD'yi kutusundan çıkardı ve onu çalara taktı.
 aze_Latn	tur	Tom çeçələyərək danışır.	Tom kekeleyerek konuşuyor.
 aze_Latn	tur	Tom çeçələyir.	Tom kekeliyor.
@@ -1030,11 +1030,11 @@ aze_Latn	tur	Tom gəncdir.	Tom gençtir.
 aze_Latn	tur	Tomgildən zəng edirəm.	Tom'un mekanından arıyorum.
 aze_Latn	tur	Tom indi ordadır.	Tom şimdi orada.
 aze_Latn	tur	Tom ingiliscə öyrənir.	Tom İngilizce öğreniyor.
-aze_Latn	tur	Tom mənimlə danışırdı.	Tom benimle konuşuyordu.
 aze_Latn	tur	Tom Merinin sevgilisidir.	Tom, Mary'nin aşığıdır.
 aze_Latn	tur	Tom Merinin sevgilisidir.	Tom, Mary'nin sevgilisidir.
-aze_Latn	tur	Tom nə cür kitab oxuyur?	Tom ne tür bir kitap okuyor?
+aze_Latn	tur	Tom mənimlə danışırdı.	Tom benimle konuşuyordu.
 aze_Latn	tur	Tom nerdivana dırmaşmağa başladı.	Tom merdivene tırmanmaya başladı.
+aze_Latn	tur	Tom nə cür kitab oxuyur?	Tom ne tür bir kitap okuyor?
 aze_Latn	tur	Tom öləndən sonra, Mary valideynlərinin evinə geri döndü.	Tom öldükten sonra, Mary ebeveynlerinin evine geri döndü.
 aze_Latn	tur	Tom oxumağa başladı.	Tom okumaya başladı.
 aze_Latn	tur	Tom pendir xoşlayır.	Tom peynir seviyor.
@@ -1044,8 +1044,8 @@ aze_Latn	tur	Tom sənə gerçəyi söyləyir.	Tom sana gerçeği söylüyor.
 aze_Latn	tur	Tom sənə həqiqəti deyir.	Tom sana gerçeği söylüyor.
 aze_Latn	tur	Tom sifonu çəkdi.	Tom sifonu çekti.
 aze_Latn	tur	Tom şübhəsiz müdir olma qabiliyyətinə sahibdi.	Tom kesinlikle patron olma kabiliyetine sahip.
-aze_Latn	tur	Tom Təqaüd qazandı.	Tom burs kazandı.
 aze_Latn	tur	Tom tez-tez dərsdən qaçır.	Tom sık sık dersten kaçıyor.
+aze_Latn	tur	Tom Təqaüd qazandı.	Tom burs kazandı.
 aze_Latn	tur	Tom udur kimi görünür.	Tom kazanıyor gibi gözüküyor.
 aze_Latn	tur	Tomun başına ne gəldiyini bilirəm.	Tom'a ne olduğunu biliyorum.
 aze_Latn	tur	Tom'un burada olduğumuzu bildiyini zənn etmirəm.	Tom'un burada olduğumuzu bildiğini sanmıyorum.
@@ -1055,12 +1055,12 @@ aze_Latn	tur	Tomun etməyə cəhd gösterdiyini bilirəm.	Tom'un ne yapmaya çal
 aze_Latn	tur	Tomun evinin harda olduğunu bilmirsiniz deyil mi?	Tom'un evinin nerede olduğunu bilmiyorsunuz, değil mi?
 aze_Latn	tur	Tom'un əvvəlki kimi gücü yoxdur.	Tom'un eskisi gibi gücü yok.
 aze_Latn	tur	Tomun insanları ağlatmaq bacarığı var.	Tom'un insanları ağlatma yeteneği var.
+aze_Latn	tur	Tomun ne demək istediyini bilirəm.	Tom'un ne demek istediğini biliyorum.
+aze_Latn	tur	Tomun ne xoşladığını bilirəm.	Tom'un neden hoşlandığını biliyorum.
 aze_Latn	tur	Tomun nə bildiyini bilirəm.	Tom'un ne bildiğini biliyorum.
 aze_Latn	tur	Tomun nə dediyini bilirəm.	Tom'un ne dediğini biliyorum.
-aze_Latn	tur	Tomun ne demək istediyini bilirəm.	Tom'un ne demek istediğini biliyorum.
 aze_Latn	tur	Tomun nədən qorxduğunu bilirəm.	Tom'un neyden korktuğunu biliyorum.
 aze_Latn	tur	Tomun nə gördüyünü bilirəm.	Tom'un ne gördüğünü biliyorum.
-aze_Latn	tur	Tomun ne xoşladığını bilirəm.	Tom'un neden hoşlandığını biliyorum.
 aze_Latn	tur	Tomun nəyə qadir olduğunu bilirəm.	Tom'un neye yetenekli olduğunu biliyorum.
 aze_Latn	tur	Tom'un onu istediyini düşünmürəm.	Tom'un ondan hoşlanacağını sanmıyorum.
 aze_Latn	tur	Tomun onu necə etdiyini başa sala bilmirəm.	Tom'un onu nasıl yaptığını açıklayamam.
@@ -1093,11 +1093,11 @@ aze_Latn	tur	Xahiş edirəm məni qucaqla.	Lütfen bana sarıl.
 aze_Latn	tur	Xahiş edirəm nə zaman gedəcəyini mənə de.	Lütfen ne zaman gideceğimi bana söyle.
 aze_Latn	tur	Xanım Swan bizim İngilis dili müəllimimizdir.	Bayan Swan bizim İngilizce öğretmenimizdir.
 aze_Latn	tur	Xaricə getdim.	Yurt dışına gittim.
+aze_Latn	tur	Xeyli vaxtdır ki, qulançar yemirəm.	Çok zamandır kuşkonmaz yemiyorum.
+aze_Latn	tur	Xeyr, bu o deyildi.	Hayır, bu o değildi.
 aze_Latn	tur	Xəbərlərdə eşitdiyin hər şeyə inanma.	Haberlerde duyduğun her şeye inanma.
 aze_Latn	tur	Xəbər proqramını aparıram.	Haber programını sunuyorum.
 aze_Latn	tur	Xəstəxanadayam.	Hastanedeyim.
-aze_Latn	tur	Xeyli vaxtdır ki, qulançar yemirəm.	Çok zamandır kuşkonmaz yemiyorum.
-aze_Latn	tur	Xeyr, bu o deyildi.	Hayır, bu o değildi.
 aze_Latn	tur	Xidmətdən razısınızmı?	Hizmetten hoşnut musunuz?
 aze_Latn	tur	Xristiyanlar İsa Məsihə inanırlar.	Hristiyanlar İsa Mesih'e inanıyorlar.
 aze_Latn	tur	Xuanitonun dörd bacısı var.	Juanito'nun dört kız kardeşi var.

@@ -1,4 +1,5 @@
 ina_Latn	tur	Al diabolo con le frontieras!	Sınırların canı cehenneme!
+ina_Latn	tur	Amor ama amar amor.	Aşk aşkı sevmeyi sever.
 ina_Latn	tur	An illo es blau?	Mavi mi?
 ina_Latn	tur	An isto es un can?	Bu bir köpek mi?
 ina_Latn	tur	An isto es un moschea?	Bu bir cami mi?
@@ -86,6 +87,7 @@ ina_Latn	tur	Ille ha salvate le princessa.	O, prensesi kurtardı.
 ina_Latn	tur	Ille ha un can.	Onun bir köpeği var.
 ina_Latn	tur	Ille ha un catto.	Onun bir kedisi var.
 ina_Latn	tur	Ille ha volate de London a Paris.	O, Londra'dan Paris'e uçtu.
+ina_Latn	tur	Ille non es judee.	O Yahudi değil.
 ina_Latn	tur	Ille parla le arabe.	O Arapça konuşur.
 ina_Latn	tur	Ille salvava le infante del incendio.	Çocuğu yangından kurtardı.
 ina_Latn	tur	Ille salvava le princessa.	O, prensesi kurtardı.
@@ -104,6 +106,7 @@ ina_Latn	tur	Illo ha salvate a me le vita.	Hayatımı kurtardı.
 ina_Latn	tur	Illo me dava multe placer.	Bu bana çok zevk verdi.
 ina_Latn	tur	Illo me ha date multe placer.	Bu bana çok zevk verdi.
 ina_Latn	tur	Illo salvava mi vita.	Hayatımı kurtardı.
+ina_Latn	tur	Illos es pisces.	Onlar balık.
 ina_Latn	tur	Il non me place le caffe calide.	Kahveyi sıcak sevmem.
 ina_Latn	tur	Il pluveva heri nocte.	Dün gece yağmur yağdı.
 ina_Latn	tur	In le museo il non ha animales vivente.	Müzede hiç canlı hayvan yok.
@@ -122,6 +125,7 @@ ina_Latn	tur	Io essera un bon puera.	İyi bir kız olacağım.
 ina_Latn	tur	Io es si belle.	Çok güzelim.
 ina_Latn	tur	Io es tanto belle.	Çok güzelim.
 ina_Latn	tur	Io es tu.	Ben senim.
+ina_Latn	tur	Io es un anarchista.	Anarşistim.
 ina_Latn	tur	Io es un cursor.	Koşucuyum.
 ina_Latn	tur	Io es un genio multo stabile.	Ben çok dengeli bir dâhiyim.
 ina_Latn	tur	Io es un matre.	Ben bir anneyim.
@@ -146,7 +150,9 @@ ina_Latn	tur	Io non es un fascista.	Ben bir faşist değilim.
 ina_Latn	tur	Io non ha ulle musica classic.	Benim hiç klasik müziğim yok.
 ina_Latn	tur	Io non parla Lojban.	Ben Lojban konuşmuyorum.
 ina_Latn	tur	Io non poteva responder.	Cevap veremedim.
+ina_Latn	tur	Io non sape, Tom.	Bilmiyorum, Tom.
 ina_Latn	tur	Io non va facer illo immediatemente.	Onu hemen yapmayacağım.
+ina_Latn	tur	Io non vole multo.	Çok istemiyorum.
 ina_Latn	tur	Io non vole que Tom sia mi chef.	Tom'un patronum olmasını istemiyorum.
 ina_Latn	tur	Io nunquam porta un jachetta.	Hiç ceket giymem.
 ina_Latn	tur	Io parla interlingua.	İnterlingua konuşuyorum.
@@ -186,6 +192,7 @@ ina_Latn	tur	Le evolution del homine non ha finite.	İnsanın evrimi daha bitmed
 ina_Latn	tur	Le evolution non es un opinion, illo es un facto.	Evrim bir düşünce değil gerçektir.
 ina_Latn	tur	Le familia es importante.	Aile önemlidir.
 ina_Latn	tur	Le francese es su lingua matre.	Fransızca, onun ana dilidir.
+ina_Latn	tur	Le guerra es mal.	Savaş kötüdür.
 ina_Latn	tur	Le infantes son in le camion.	Çocuklar kamyondalar.
 ina_Latn	tur	Le libro es blanc.	Kitap beyaz.
 ina_Latn	tur	Le libro es grande.	Kitap büyük.
@@ -229,6 +236,8 @@ ina_Latn	tur	Nemo vole jocar con ille.	Hiç kimse onunla oynamak istemiyor.
 ina_Latn	tur	Non calca le catto.	Kedinin üstüne basma.
 ina_Latn	tur	Non es characteristic de te dicer un tal cosa a illa.	Ona öyle bir şey söylemen senin karakteristiğin değil.
 ina_Latn	tur	Nos comprava.	Aldık.
+ina_Latn	tur	Nos es judeos.	Biz Yahudiyiz.
+ina_Latn	tur	Nos es judeos.	Yahudiyiz.
 ina_Latn	tur	Nos ha comprate.	Aldık.
 ina_Latn	tur	Nos ha nulle electricitate.	Elektriğimiz yok.
 ina_Latn	tur	Nos ha un stegosauro.	Stegosaurusumuz var.
@@ -239,6 +248,7 @@ ina_Latn	tur	Nos non ha mangiate.	Biz yemedik.
 ina_Latn	tur	Nos non son inimicos.	Biz düşman değiliz.
 ina_Latn	tur	Nos non son le policia.	Biz polis değiliz.
 ina_Latn	tur	Nos non son policieros.	Biz polisler değiliz.
+ina_Latn	tur	Nos non vole un guerra.	Savaş istemiyoruz.
 ina_Latn	tur	Nos studia chinese.	Biz Çince okuyoruz.
 ina_Latn	tur	Nos trovara Tom.	Biz Tom'u bulacağız.
 ina_Latn	tur	Prende le medicamentos.	İlaçları al.
@@ -272,6 +282,7 @@ ina_Latn	tur	Tom es como alicuno del familia.	Tom aile gibi.
 ina_Latn	tur	Tom es immigrante mexican.	Tom Meksika göçmeni.
 ina_Latn	tur	Tom es sympathic, nonne?	Tom sempatik, değil mi?
 ina_Latn	tur	Tom es un astronauta.	Tom bir astronot.
+ina_Latn	tur	Tom es un autoritarista.	Tom bir otoriter.
 ina_Latn	tur	Tom es un bon chef.	Tom iyi bir patron.
 ina_Latn	tur	Tom faceva lo accidentalmente.	Tom onu kazara yaptı.
 ina_Latn	tur	Tom ha amicos in Germania.	Tom'un Almanya'da arkadaşları var.
@@ -297,12 +308,14 @@ ina_Latn	tur	Tom travalia in McDonald's.	Tom McDonald's'ta çalışıyor.
 ina_Latn	tur	Tom vole apprender serbo.	Tom Sırpça öğrenmek istiyor.
 ina_Latn	tur	Tom vole un can.	Tom bir köpek istiyor.
 ina_Latn	tur	Toto es claudite.	Her şey kapalı.
+ina_Latn	tur	Toto es un.	Her şey birdir.
 ina_Latn	tur	Tu comprava.	Aldın.
 ina_Latn	tur	Tu es negligente.	Sen dikkatsizsin.
 ina_Latn	tur	Tu es un infante.	Sen bir çocuksun.
 ina_Latn	tur	Tu ha comprate.	Aldın.
 ina_Latn	tur	Tu ha salvate a me le vita.	Hayatımı kurtardın.
 ina_Latn	tur	Tu ha salvate mi vita.	Hayatımı kurtardın.
+ina_Latn	tur	Tu non ha multe pecunia.	Çok paran yok.
 ina_Latn	tur	Ubi es le judice?	Hakim nerede?
 ina_Latn	tur	Ubi es le vodka?	Votka nerede?
 ina_Latn	tur	Ubi es tu moneta?	Paran nerede?

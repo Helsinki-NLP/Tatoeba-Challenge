@@ -1,12 +1,8 @@
 ara	run	أحبك.	Ndagukunda.
 ara	run	أحبها.	Ndamukunda.
-ara	run	اخرج من غرفتي	Sohoka mu cumba canje!
-ara	run	ارتفعت الأسعار.	Ibiciro vyaraduze.
-ara	run	ارید الذهاب الی المنزل.	Nshaka gutaha.
 ara	run	أريد أن أذهب إلى البيت	Nshaka gutaha.
 ara	run	أريد أن أقرأ هذا الكتاب.	Ndashaka gusoma iki gitabo.
 ara	run	أريدك أن تقرأه	Nshaka ko ubisoma.
-ara	run	استمع إلي	Nyumviriza.
 ara	run	أعتقد أني فهمت.	Ndibaza ko ntegeye.
 ara	run	أعذرني	Mbabarira!
 ara	run	أعرف تلك الفتاة.	Ndazi uyo mukobwa.
@@ -16,16 +12,8 @@ ara	run	أعرِفها.	Ndamuzi.
 ara	run	أعطني الكتاب.	Mpa igitabo.
 ara	run	أعيش هنا.	Mba ngaha.
 ara	run	أفكر فيك.	Ndakwiyumvira.
-ara	run	اقرأ!	Soma!
-ara	run	الأسود لي.	Ivyirabura ni vyanje.
-ara	run	الحب أعمى.	Urukundo rurahuma.
-ara	run	الموز أصفر.	Ibitoke bisa n'umuhondo.
-ara	run	إلى أين نذهب؟	Tuja hehe?
-ara	run	اليوم الإثنين.	Ni ku wambere.
-ara	run	اليوم هو الأحد.	Uyu munsi ni umunsi w'Imana.
-ara	run	اليوم هو الأربعاء	Uyu munsi ni kuwagatatu.
-ara	run	أنا أحبه.	Ndamukunda.
 ara	run	أنا آسف جداً	Mbabarire cane!
+ara	run	أنا أحبه.	Ndamukunda.
 ara	run	أنا أعرف أمك	Ndazi nyoko.
 ara	run	أنا أيضاً.	Nanje.
 ara	run	أنا جائع.	Ndashonje.
@@ -33,26 +21,20 @@ ara	run	أنا جديد هنا	Ndi mushasha aha.
 ara	run	أنا خباز.	Ndi umwotsi w'imikate.
 ara	run	أنا سعيد بذلك	Biranshimishije.
 ara	run	أنا صيني	Ndi umushinwakazi.
-ara	run	انا طباخ.	Ndi umutetsi.
 ara	run	أنا في البيت.	Ndi imuhira.
 ara	run	أنا في البيت.	Ndi iwanje.
 ara	run	أنا في السيارة	Ndi mu muduga.
 ara	run	أنا لست طالباً.	Sindi umunyeshuri.
-ara	run	انا واحد من طلابك	Ndi umwe mu banyeshuri bawe.
 ara	run	أنت تفهمني.	Urantegera.
 ara	run	أنت صديقي.	Uri umugenzi wanje.
 ara	run	أنت طالب جيد.	Uri umunyeshuri mwiza.
 ara	run	أنت طباخ جيد	Uri umutetsi mwiza.
-ara	run	انظر إليه	Murabe.
-ara	run	إنه شخص جيد.	Ni umuntu mwiza.
-ara	run	إنه لا يحبنا.	Ntadukunda.
-ara	run	إني في المنزل.	Ndi imuhira.
 ara	run	أين أخوك؟	Musazawe arihe?
 ara	run	أين أشياءك؟	Ibintu vyawe birihe?
-ara	run	أين الأحذية؟	Ibirato birihe?
-ara	run	أين الكتب؟	Igitabo kirihe?
 ara	run	أين أنا؟	Ndi hehe?
 ara	run	أين أنت؟	Urihe?
+ara	run	أين الأحذية؟	Ibirato birihe?
+ara	run	أين الكتب؟	Igitabo kirihe?
 ara	run	أين تريد أن تعيش؟	Ushaka kuba hehe?
 ara	run	أين توم؟	Tom arihe?
 ara	run	أين ساعتي؟	Isaha yanje irihe?
@@ -60,6 +42,24 @@ ara	run	أين سيارتي؟	Umuduga wanje urihe?
 ara	run	أين نحن؟	Turihe?
 ara	run	أين نحن؟	Turi hehe?
 ara	run	أين والدك؟	So wawe arihe?
+ara	run	إلى أين نذهب؟	Tuja hehe?
+ara	run	إنه شخص جيد.	Ni umuntu mwiza.
+ara	run	إنه لا يحبنا.	Ntadukunda.
+ara	run	إني في المنزل.	Ndi imuhira.
+ara	run	اخرج من غرفتي	Sohoka mu cumba canje!
+ara	run	ارتفعت الأسعار.	Ibiciro vyaraduze.
+ara	run	ارید الذهاب الی المنزل.	Nshaka gutaha.
+ara	run	استمع إلي	Nyumviriza.
+ara	run	اقرأ!	Soma!
+ara	run	الأسود لي.	Ivyirabura ni vyanje.
+ara	run	الحب أعمى.	Urukundo rurahuma.
+ara	run	الموز أصفر.	Ibitoke bisa n'umuhondo.
+ara	run	اليوم الإثنين.	Ni ku wambere.
+ara	run	اليوم هو الأحد.	Uyu munsi ni umunsi w'Imana.
+ara	run	اليوم هو الأربعاء	Uyu munsi ni kuwagatatu.
+ara	run	انا طباخ.	Ndi umutetsi.
+ara	run	انا واحد من طلابك	Ndi umwe mu banyeshuri bawe.
+ara	run	انظر إليه	Murabe.
 ara	run	تعطلت السيارة.	Umuduga wapfuye.
 ara	run	تَكَوّنَ الصديد في الجرح.	Mu ruguma hari amashira.
 ara	run	خذ كتاباً واقرأه!	Akira igitabo usome.

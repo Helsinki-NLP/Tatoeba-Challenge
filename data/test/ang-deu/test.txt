@@ -2,6 +2,7 @@ ang_Latn	deu	Cannst þú Enȝlisc?	Kannst du Englisch?
 ang_Latn	deu	Ðā ƿæs on þā tīd Æþelbeorth cyning hāten on Centrīce, and mihtig.	Es gab zu dieser Zeit einen König namens Æthelberht in Kent, und er war mächtig.
 ang_Latn	deu	Ðū līhst.	Du lügst.
 ang_Latn	deu	Fæder ure þu þe eart on heofonum; Si þin nama gehalgod to becume þin rice gewurþe ðin willa on eorðan swa swa on heofonum. urne gedæghwamlican hlaf syle us todæg and forgyf us ure gyltas swa swa we forgyfað urum gyltendum and ne gelæd þu us on costnunge ac alys us of yfele soþlice.	Vater unser im Himmel, geheiligt werde dein Name; dein Reich komme; dein Wille geschehe, wie im Himmel so auf Erden. Unser tägliches Brot gib uns heute. Und vergib uns unsere Schuld, wie auch wir vergeben unsern Schuldigern; und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen.
+ang_Latn	deu	Frēoġaþ Scotland!	Befreit Schottland!
 ang_Latn	deu	Ġē frugnon mē.	Ihr habt mich gefragt.
 ang_Latn	deu	Ġē frugnon mē.	Sie haben mich gefragt.
 ang_Latn	deu	Hē dranc bēor.	Er trank Bier.
@@ -13,10 +14,10 @@ ang_Latn	deu	Hēo hæfþ grēne ēagan.	Sie hat grüne Augen.
 ang_Latn	deu	Hēo ƿrīt nū bōc.	Sie schreibt jetzt ein Buch.
 ang_Latn	deu	Hē ƿæs gōd cyning.	Er war ein guter König.
 ang_Latn	deu	Hē ƿæs sƿīðe ærm.	Er war sehr arm.
+ang_Latn	deu	Hwæt biþ word?	Was ist ein Wort?
 ang_Latn	deu	"Hƿǣr is his bōc?" "Hēo is on þǣm bēode."	„Wo ist sein Buch?“ – „Es liegt auf dem Tisch.“
 ang_Latn	deu	Hƿǣr ƿǣre þū?	Wo warst du?
 ang_Latn	deu	Hƿǣr ƿǣron ᵹē?	Wo wart ihr?
-ang_Latn	deu	Hwæt biþ word?	Was ist ein Wort?
 ang_Latn	deu	Hƿæt biþ ƿord?	Was ist ein Wort?
 ang_Latn	deu	Hƿæt dēst þū æfter ᵹēar?	Was wirst du nächstes Jahr machen?
 ang_Latn	deu	Hƿæt is þis ƿord?	Was ist das für ein Wort?
@@ -51,6 +52,7 @@ ang_Latn	deu	Se hund is on þǣm stōle.	Der Hund ist auf dem Stuhl.
 ang_Latn	deu	Se leornere cōm of Lundene.	Der Student kam aus London.
 ang_Latn	deu	Sēo cƿēn stōd be þǣm cynlinge.	Die Königin stand neben dem König.
 ang_Latn	deu	Sēo flyhthæfen is be-locen.	Der Flughafen ist geschlossen.
+ang_Latn	deu	Sēo weorold is ādliġ.	Die Welt ist krank.
 ang_Latn	deu	Spricest þú on Russisce?	Sprichst du Russisch?
 ang_Latn	deu	Tō-dæᵹ is Sunnan-dæᵹ.	Heute ist Sonntag.
 ang_Latn	deu	Tom is min freond.	Tom ist mein Freund.
@@ -58,8 +60,8 @@ ang_Latn	deu	Tom ne biþ Trump.	Tom ist nicht Trump.
 ang_Latn	deu	Tom ne hæfde ᵹe-nōgne fēoh.	Tom hatte nicht genügend Geld.
 ang_Latn	deu	Uranus is ān planēta.	Uranus ist ein Planet.
 ang_Latn	deu	Wē cunnon þone bæcere.	Wir kennen den Bäcker.
+ang_Latn	deu	We wuniaþ on ieglande.	Wir leben auf einer Insel.
 ang_Latn	deu	Wilcume be Tatoeba	Willkommen auf Tatoeba.
-ang_Latn	deu	Ƿile ūser land nān-ƿiht būtan friþ.	Unser Land will nichts als Frieden.
 ang_Latn	deu	Þa Darius geseah þæt he overƿunnen beon ƿolde, þa ƿolde he hiene selfne on ðæm gefeohte forspillan.	Als Darius sah, dass er besiegt werden würde, da wollte er sich selbst in dem Gefecht töten.
 ang_Latn	deu	Þǣr is æppel on þǣm bēode.	Auf dem Tisch ist ein Apfel.
 ang_Latn	deu	Þæt is mīn dōhtor.	Das ist meine Tochter.
@@ -69,3 +71,4 @@ ang_Latn	deu	Þæt ƿæs se besta dæᵹ on mīnum līfe.	Das war der schönste 
 ang_Latn	deu	Þes æppel biþ rēad.	Dieser Apfel ist rot.
 ang_Latn	deu	Þū frugne mē.	Du hast mich gefragt.
 ang_Latn	deu	Þū frugne mē.	Sie haben mich gefragt.
+ang_Latn	deu	Ƿile ūser land nān-ƿiht būtan friþ.	Unser Land will nichts als Frieden.

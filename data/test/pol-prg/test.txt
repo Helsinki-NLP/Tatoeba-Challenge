@@ -1,5 +1,6 @@
 pol	prg_Latn	Adwent to czas przed Bożym Narodzeniem, gdy chrześcijanie powinni przygotować swoje dusze na narodziny Jezusa.	Adwēnts ast kerdā pirzdau Kālandans, kaddan kriksţānamans prawerru pagattawintun swajjans dūsins per Īzus gīmsenin.
 pol	prg_Latn	Afrykańskie zwierzęta są naprawdę piękne.	Afrikiskai zwīrei ast perarwi grazzu.
+pol	prg_Latn	Auta jeżdżą coraz szybciej, ale lepsze drogi nie są budowane.	Autō jāt aīnat dīwais, adder walnāi pintei ni ast dabber zēistan.
 pol	prg_Latn	Biegnij powiedzieć admirałowi, że atak się rozpoczął!	Bīgais bilītun admirālu, kāi atakki pagaūwa si!
 pol	prg_Latn	Bill umie jeździć na rowerze.	Bill mūka jadātwei sen welsipēdan.
 pol	prg_Latn	Boję się, bo ostatnio jest coraz więcej trzęsień ziemi.	As bijja, beggi panzdaumai ast aīnat tūls zemmis dribbisnas.
@@ -10,11 +11,17 @@ pol	prg_Latn	Chcę kupić nowe auto.	As kwāi kāuptun nawwan autō.
 pol	prg_Latn	Chcę kupić nowy samochód.	As kwāi kāuptun nawwan autō.
 pol	prg_Latn	Chcę pożytecznie spędzać wolny czas.	As kwāi ēnterpiskan izlaīstun pawīrpingin kērdan.
 pol	prg_Latn	Chciałbym kupić i rower i hulajnogę.	As kwaitīlai kāuptun abbejan welsipēdan be rullarin.
+pol	prg_Latn	Chciałbym skoczyć z dachu, ale boję się, że połamię kości.	As kwāilai izsaktwei iz stāgan, adder as bijja, kāi wīrst lammuns kaūlins.
+pol	prg_Latn	Chcielibyście, bym dał im więcej owoców, ale już ich nie mam.	Jūs kwāilai, kāi tenēimans as dālai tūls wēisins, adder as nijāu turri dins.
 pol	prg_Latn	Chętnie słuchamy śpiewu ptaków.	Mes rēide klausīmai pippelin gremsnan.
+pol	prg_Latn	Choć wielu ludzi uważa to za obrzydliwe, zamierzam dziś zjeść smażoną wątróbkę.	Ikāi tūlin zmūnei laikāi stan per dērgan, as šandēinan skassa īstun swallintan jaknan.
+pol	prg_Latn	Ciało jest domem naszej duszy, dlatego musimy dobrze się odżywiać.	Kērmens ast nūse dūsis buttan, stesse paggan nūmans prawerru maitātun si labbai.
 pol	prg_Latn	Ciepło przyciąga komary.	Tappin preitēnša kussins.
 pol	prg_Latn	Co pan pamięta z pierwszych dni wojny?	Ka pamenna rikīs iz pirmans kereūsnas dēinans?
 pol	prg_Latn	Czarne chmury zapowiadają burzę.	Kīrsnai upjāi praspīt kāukan.
 pol	prg_Latn	Czas nie może zostać zatrzymany.	Kerdā ni mazzi būtwei stalīntan.
+pol	prg_Latn	Czekam na powrót kota.	As gēide ērgi kattas etwartīnsnan.
+pol	prg_Latn	Często trzeba tworzyć nowe słowa, ale najczęściej w prosty sposób przejmuje się je z angielskiego.	Deznai prawerru teikātun nawwans wīrdans, adder ukadeznimais tenēi ast prastai paīmtan iz ēngliskan.
 pol	prg_Latn	Czyj to jest pokój?	Kasse stubba stan ast?
 pol	prg_Latn	Czy mógłbym skorzystać z twojego słownika?	Mazīlai as tērpautun twajjan wirdeīnan?
 pol	prg_Latn	Czy mówisz po kaszubsku?	Bilāi tū kašūbiskai?
@@ -22,6 +29,8 @@ pol	prg_Latn	Czy możesz podać mi ten słownik?	Mazzi tū padātun mi šin wird
 pol	prg_Latn	Dam ci tę książkę.	As wīrst ti dāwuns šin lāiskan.
 pol	prg_Latn	Dlaczego jesteście tacy kłótliwi?	Kasse paggan astei tīt rīkewingi?
 pol	prg_Latn	Dobra robota!	Labbai segītan!
+pol	prg_Latn	Dodaj jeszcze pięć buraków do zupy i poczekaj, aż zawrze.	Preidāis dabber pēnkins burkānans en zuppin be gēideis ērgi bīrgsnan.
+pol	prg_Latn	Dodaj nowe zdanie, by otrzymać nagrodę.	Preidāis nawwan gērbsenin, kāi gaūlai prāizun.
 pol	prg_Latn	Dziesięć lat temu na tej rzece był most.	Pirzdau dessimtin mettan na šan appin bēi tiltan.
 pol	prg_Latn	Dzikie kaczki lepiej karmić ziarnami niż chlebem.	Pāustiskans antins walnai ast maitātun sen zīrnins nikāi sen geītin.
 pol	prg_Latn	Dziś czytałem dziennik i znalazłem w nim bardzo interesujący artykuł.	Šandēinan asma skaitāwuns dēinasawīzin be aupalluns stwen spārtai interessantin artīkelin.
@@ -42,8 +51,11 @@ pol	prg_Latn	Jaka jest pogoda w Nowym Jorku?	Kawīds wins ast en Naujōrku?
 pol	prg_Latn	Japońska admiralicja zdecydowała nie poddawać się tak długo, jak będzie to konieczne.	Japāniska admiralitāti papretta ni dātun si tīt ilgai, kāigi sta wīrst būwus brewīngi.
 pol	prg_Latn	Ja tylko chcę aby ludzie mnie lubili.	As tēr kwāi, kāi as zmūnimans padīnglai.
 pol	prg_Latn	Jedenasty dzień był bardzo przyjemny.	Ainadesimtā deinā bēi spārtai enimmumni.
+pol	prg_Latn	Jej dziadek sprzedał do rzeźni cztery konie.	Tenesses tītis perdāwuns pjawwai ketturins zīrgans.
 pol	prg_Latn	Jej oczy błyszczały z radości jak gwiazdy.	Tenesses akkis blīnginusis kāigi lāuksnas deiwūtiskwas paggan.
 pol	prg_Latn	Jem jabłko.	Īma wūblin.
+pol	prg_Latn	Jeśli chcesz tworzyć elektronikę, musisz się tego nauczyć.	Ik tū kwāilai teikātun elaktrōnikin, prawerru ti mukīntun si stan.
+pol	prg_Latn	Jeśli nie, ona bardzo się zdenerwuje.	Ik ni, tenā wīrst spārtai ernērtiwusi si.
 pol	prg_Latn	Jest dumna ze swojego syna.	Tenā ast labatīngi swāise sūnus paggan.
 pol	prg_Latn	Jesteś brzydki jak listopadowa noc.	Assei tīt klūmbewingi kāigi lapkrūtes nakts.
 pol	prg_Latn	Jesteś zagrożeniem.	Assei trīns.
@@ -53,6 +65,7 @@ pol	prg_Latn	Kiedy oddasz mi pieniądze, które pożyczyłeś ode mnie rok temu?
 pol	prg_Latn	Klimatyzator jest zepsuty.	Winnas kōndiciōneris ast pagadīntan.
 pol	prg_Latn	Kolczaste rośliny znajdują się głównie na pustyniach.	Aīkulai aūgmenei tīnka galwai na pāustrins.
 pol	prg_Latn	Koń ciągnie duży, ciężki wóz.	Zīrgs tēnša debīkan, brendun abazzan.
+pol	prg_Latn	Krajobraz miasta z takiego miejsca jest naprawdę piękny.	Mīstas pawīda iz stawīdan deīktan ast perarwi grazzu.
 pol	prg_Latn	Kronum to nowy sport drużynowy, wymyślony w 2008 roku.	Kronum ast naws wīrijas spōrts teikāts en 2008 mettu.
 pol	prg_Latn	Który wybierzesz?	Kawīdan wīrst tū etrīnkuns?
 pol	prg_Latn	Kupił mi nowy słownik.	Tāns kāupi mi nawwan wirdeīnan.
@@ -60,12 +73,16 @@ pol	prg_Latn	Lata szybko lecą.	Metāi praēit dīwai.
 pol	prg_Latn	Lubimy słuchać śpiewu ptaków.	Mes rēide klausīmai pippelin gremsnan.
 pol	prg_Latn	Ludzie często pomagają sobie wzajemnie.	Zmūnentei deznimai pagalba sebbei abipussi.
 pol	prg_Latn	Ludzie, którzy pochodzą z Afryki nazywają się Afrykanami.	Zmūnentei, kawīdai pertīnka ezze Afrikin ast pabilītan afrikīnai.
+pol	prg_Latn	Maciek nie może przetłumaczyć więcej zdań ode mnie.	Mattis ni mazzi tulkautun tūls gērbsenins nikāi as.
 pol	prg_Latn	Mało kto wie, jak powstaje zorza polarna.	Mazzan kas waīda, kāigi teikāi si pōlariska zarī.
 pol	prg_Latn	"Mały Książę" to bardzo popularna książka przetłumaczona na wiele języków.	"Līkuts Princis" ast spārtai pōpulars lāiskas, pratulkautan en tūlin billins.
 pol	prg_Latn	Ma wiele zainteresowań.	Tāns turri tūlin eninteressinsnans.
 pol	prg_Latn	Moja ciotka wcale nie jest szczęśliwsza przez to, że ma dużo pieniędzy.	Majā mūsa gāncai ni ast deiwūtaisi tūlin penningan paggan.
+pol	prg_Latn	Moja kotka zupełnie nie posiada instynktu samozachowawczego, zawsze przychodzi do obcych ludzi.	Majā katta gāncai ni turri sārgiskwas jusnan, tenā wisaddan perēit prei swettins sunnins.
 pol	prg_Latn	Moja ojczyzna jest tam, gdzie moja dusza.	Majs taweīns ast stwen, kwēi ast majā dūsi.
+pol	prg_Latn	Moja wieś ma piękne łąki i żyzne pola.	Majs kāims turri grazzins wajjans be wēisewingins laūkans.
 pol	prg_Latn	Moje majtki są mokre.	Majs kwardels ast mārks.
+pol	prg_Latn	Moje mieszkanie nie jest za duże, ale większego mi nie trzeba.	Majs buweīns ni ast per debīks, adder mennei mūisesan ni prawerru.
 pol	prg_Latn	Mój kolega z pracy opowiada absurdalne rzeczy.	Majs dīlas kōlagis gērba absurdans pawīstins.
 pol	prg_Latn	Mój kuzyn chce zostać adwokatem.	Majs kuzēns kwāi wīrstwei adwōkats.
 pol	prg_Latn	Mój najlepszy przyjaciel zawsze daje mi dobre rady.	Majs ukawalns ginni dāst mi wisaddan labbans rādans.
@@ -73,19 +90,29 @@ pol	prg_Latn	Mój ojciec wziął udział w konkursie kulinarnym i zajął pierws
 pol	prg_Latn	Mówiłeś coś?	Assei tū bilīwuns ka nika?
 pol	prg_Latn	Możemy to skończyć później.	Mazzimai wangīntun stan wīlais.
 pol	prg_Latn	Musisz dokładnie przeczytać podręcznik.	Tebbei prawerru praskaitātun rankaslāiskan nōdewingi.
+pol	prg_Latn	Muszę posprzątać dom, ale siedzę tu i piszę nowe zdania.	Mennei prawerru teikātun buttan, adder as sīnda stwi be peisāi nawwans gērbsenins.
+pol	prg_Latn	Myślę, że język pruski znów nie umrze.	As mīri, kāi prūsiska bilā ni wīrst etkūmps aulaūwusi.
 pol	prg_Latn	Myślę, że nie możemy zacerować tych skarpet. Dziura jest zbyt duża.	As mīri, kāi ni mazzimai aikātun šans pīdins. Pralī ast per debīkan.
+pol	prg_Latn	Nágorsó tejló zÿcziá je to, co zawdi muszis robziécz rżecÿ, chtórnéch nie lubzis.	Ukawārgaisis gīwatas delīks ast stan, kāi tū wisaddan turri segītun pawīstins, kawīdans ti ni padīnga.
+pol	prg_Latn	Najgorszą częścią życia jest to, że zawsze musisz robić rzeczy, których nie lubisz.	Ukawārgaisis gīwatas delīks ast stan, kāi tū wisaddan turri segītun pawīstins, kawīdans ti ni padīnga.
 pol	prg_Latn	Napisałem list.	As asma peisāwuns pēismen.
 pol	prg_Latn	Na plaży zbieraliśmy bursztyn i muszelki.	Na plūjakrakstin asmai senrīnkušas glīsin be škīwikans.
+pol	prg_Latn	Narysuj mi baranka!	Glaubāis mi īristin!
 pol	prg_Latn	Nasz gość z południa długo oglądał świerk, gdyż takie drzewa nie rosną w jego kraju.	Nūss wāiss iz pussideinans ilgai ebdirēi adlin, beggi stawīdai garēi ni aūga en tenesse tāutai.
 pol	prg_Latn	Nic nie zjadłem.	As nika ni īda.
 pol	prg_Latn	Nie graj na komputerze chociaż w niedzielę.	Ni spīlais kōmputerin mazzais en nadīlai.
+pol	prg_Latn	Nie mam zielonego pojęcia, jak dodawać tagi na Tatoebie.	As gāncei ni waīda, kāigi preidātun tagans en Tatoebai.
 pol	prg_Latn	Nie mogłem znaleźć kluczy.	As ni mazēi aupaltun klaūtalins.
+pol	prg_Latn	Nienawiść to złe uczucie, ale tylko święci nigdy jej nie czują.	Nāids ast nilabs jūsenis, adder tēr swīntai zmūnei nikaddan stan ni jāute.
 pol	prg_Latn	Nie sprzedajemy igieł w naszym sklepie.	Mes ni perdāmai aīkulins en nūsmu kāupabutan.
 pol	prg_Latn	Niestety, nie mogę zrobić tego dla ciebie.	Grāudu, as ni mazzi stan segītun pēr tin.
 pol	prg_Latn	Nie zapomnij napisać do mnie.	Ni izmīrstais peisātun mennei.
+pol	prg_Latn	Nikt nigdy mnie tak nie nazwał.	Niainunts nikaddan min tīt ni pabilīwuns.
 pol	prg_Latn	Obaj chłopcy i obie dziewczynki nie chciały oddać zabawek.	Abbai waiklāi be abbas mērgas ni kwaitēi etdātun spīlispagaptins.
 pol	prg_Latn	Obecni na spotkaniu poparli uchwałę.	Šaisēntai na ebtiksenin etsparāi ensadīnsnan.
 pol	prg_Latn	Obiad jem zwykle tam.	Pussideinan as jāuku īma stwen.
+pol	prg_Latn	Oczywiście, wszyscy chcielibyśmy mieć więcej źródeł, ale trzeba zaakceptować to, co mamy.	Akīwistai, mes wisāi kwāitilimai turītun tūls appuns, adder prawerru akceptītun stan, ka turrimai.
+pol	prg_Latn	Oddaj mi swoje pieniądze, szybko!	Etdāis mi swajjans penningans, dīwai!
 pol	prg_Latn	Ogólnie rzecz biorąc zgadzam się z tobą.	Empīriniskai as prēitara tebbei.
 pol	prg_Latn	Ojciec wyszedł pobiegać po kolacji.	Tāws izgūbi per bigātwei pa bitasīdin.
 pol	prg_Latn	Ona poszła tam wczoraj.	Tenā gūbi stwen bītan.
@@ -93,13 +120,19 @@ pol	prg_Latn	Oni wiecznie narzekają.	Tenēi wisaddan graudinna si.
 pol	prg_Latn	On mieszka sześć domów za mną.	Tāns buwinna uššai butāi pēr min.
 pol	prg_Latn	On obserwuje każdy mój ruch.	Tāns ebdirēi majjan eraīnan skatīsnan.
 pol	prg_Latn	Organizacje dobroczynne próbują pomóc Afgańczykom.	Labasegīwingis organizaciōnis bandāi pagalbtwei afgānamans.
+pol	prg_Latn	Osioł jest tylko trochę podobny do konia.	Assils ast tēr biskin palīgus zīrgu.
 pol	prg_Latn	Osoba z Egiptu mówi po arabsku.	Zmūi iz Egiptan bilāi arābiskai.
 pol	prg_Latn	Ostatnią stronę zostawił pustą.	Panzdauman pāusan tāns palaīdi pāustan.
+pol	prg_Latn	Papierowa torebka jest lepsza dla środowiska niż te z tworzyw sztucznych.	Papīras krepši ast walnan per sirdawiskwan nikāi šāi kunstiskai.
 pol	prg_Latn	Piekarnia jest na ulicy Pino.	Umnudi ast prei Pino gatwin.
 pol	prg_Latn	Pismo nie zostało doręczone, ponieważ ktoś błędnie wpisał adres.	Pēismen ni pastāi endātan, beggi ainunts blāndewingi enpeisāi adressin.
 pol	prg_Latn	Podczas sianokosów śpiewano piosenki.	En kērdai stesse kraīsas pjaūwan grīmi di grīmikans.
 pol	prg_Latn	Po deszczu pozostało wiele kałuż.	Pa sūjin palikka tūlin urīkai.
+pol	prg_Latn	Poduszka śmierdzi potem.	Bālzinis dukka sen prakāitan.
+pol	prg_Latn	Politycy bardzo często kłamią.	Pōlitikerei spārtai deznai mēnti.
+pol	prg_Latn	Pomóż mi, proszę, nie mogę wszystkiego robić sama.	Pagalbjais mi, madli, as ni mazzi segītun wissan subā.
 pol	prg_Latn	Posłuchaj mojej rady i pogadaj z nią.	Enimmais majjan rādan be waiţāis sen tennan.
+pol	prg_Latn	Powietrze jest zanieczyszczone z powodu dymu.	Wins ast niskīstan dūmas paggan.
 pol	prg_Latn	Prędzej czy później wszyscy musimy umrzeć.	Ānkstais adder wīlais wisāi turrimai aulautwei.
 pol	prg_Latn	Pruski jest językiem bałtyjskim.	Prūsiskan ast baltiska bilā.
 pol	prg_Latn	Przedstawię cię.	As wīrst preistatinnuns tin.
@@ -119,18 +152,25 @@ pol	prg_Latn	Ten materiał dobrze chłonie wodę.	Šin materiālin labbai absōr
 pol	prg_Latn	Ten mecz oglądało jedenaście tysięcy kibiców.	Šan spīlin ebridēi aīnadesimt tūsimtai stēnsenikai.
 pol	prg_Latn	To, co mówią politycy to czysty absurd.	Stan, ka bilāi pōlitikerei, ast skistā absurditāti.
 pol	prg_Latn	To łóżko jest ciężkie.	Šin laztan ast brendu.
+pol	prg_Latn	Tóm chce szie z tobó traszicz tak chizo jek to tlo mozne.	Tōms kwāi ebtiktun si sēn tin tīt dīwai, kāigi ast mazīngi.
 pol	prg_Latn	To największy idiotyzm, jaki w życiu widziałem.	Sta ast ukamūises idiōtismus, kawīdan as widāi en gīwatai.
 pol	prg_Latn	To opowiadanie było bardzo interesujące.	Šis gērbsenis bēi spārtai interessanti.
 pol	prg_Latn	To zdanie nie jest po polsku.	Šin gārban ni ast pōliskai.
+pol	prg_Latn	Tych trzech mężczyzn nie mogło podpisać umowy pokojowej, ponieważ ich narody tego nie chciały.	Šāi trīs wīrai ni mazēi papeisātun pakkajas sawaītin, beggi tenesse amzjai ni kwaitīwusis stan.
 pol	prg_Latn	Tydzień temu zepsuł mi się zasilacz, więc nie mogłem używać swojego laptopa.	Pirzdau aīnan sawaītin kraūtli gadinna mi si, tīt as ni mazēi tērpautun majjan laptōpan.
+pol	prg_Latn	Umyj noże i widelce.	Aumūjais pēilins be sakkins.
 pol	prg_Latn	W 2014 roku Szkocja może stać się niepodległym państwem.	En 2014 Šutlandan mazzi wīrstwei en pawīrpingin wālstin.
 pol	prg_Latn	Wąsy odjęły jej uroku.	Wansā etimmi tenesses ebwaidilīsnan.
 pol	prg_Latn	Wczoraj rozpruł się szew na moich spodniach.	Bītan izgraūdi si wids na majjan laknan.
+pol	prg_Latn	W czwartek możecie spodziewać się deszczu.	En ketwirtikan mazzitei gēistwei plūjan.
 pol	prg_Latn	W demokratycznych państwach często organizuje się referenda.	En demōkratiskamans wālstins ōrganizijja di deznimai referēndans.
 pol	prg_Latn	Wiatr jest ciągle silny.	Wītra ast aīnat drūktan.
 pol	prg_Latn	Wiesz co powiedzieli?	Waīda tū, ka tenēi ast bilīwusis?
+pol	prg_Latn	Wojna to straszna rzecz, ale przez głupich ludzi się zdarza.	Kareusnā ast bajjawingi pawīstis, sed glūpas zmūnin wīnas paggan, audāst si.
 pol	prg_Latn	Wojna w Afganistanie nie zakończy się szybko.	Kareūsna en Afgānistanu ni wīrst wanginnusi si dīwai.
+pol	prg_Latn	Wsiądźmy do tego autobusu, kupię bilety przez Internet.	Enēimai ēn šan autōbusan, as wīrst kāupuns bilattins pra tinklin.
 pol	prg_Latn	Wstęp wzbroniony.	Enēisenis drēudintan.
+pol	prg_Latn	Wszystko musi być dobrze posprzątane do czasu, aż przyjedzie moja dziewczyna.	Ērgi majā mergā wīrst perjāwusi, wissan turri būt labbai teikātan.
 pol	prg_Latn	W wielu językach przysłówki można uformować z przymiotników.	En tūlin bilāmans adwerbans ast mazīngi fōrmitun iz adjaktīwans.
 pol	prg_Latn	Wyglądasz ładnie z krótkimi włosami.	Tū perwaidinna grazzu sen īnsans skebbelins.
 pol	prg_Latn	Zadawał mu pytania.	Tāns ast namettuns prasīsenins tenesmu.
@@ -139,6 +179,8 @@ pol	prg_Latn	Zaśpiewaj mi piosenkę o miłości.	Gremmjais mi grīmikan ezze m�
 pol	prg_Latn	Zawsze sądziłem że owoce są zdrowsze niż sok owocowy, przede wszystkim dlatego że nie zawierają dodatku cukru.	As wisaddan mīriwuns, kāi wēišai ast kailūstaisin nikai wēisinsaks, pirzdau wissan stesse paggan, kāi tenēi ni turri ēn sin cukkerin.
 pol	prg_Latn	Zero absolutne jest najniższą możliwą temperaturą.	Abzōluta nulli ast ukazemmaisi mazīngi temperatūri.
 pol	prg_Latn	Zielony śledź wisiał na drzewie i śpiewał.	Zalli silliki kabba na garrin be grīmi.
+pol	prg_Latn	Znam ludzi, którzy przegrywają wszystkie pieniądze w karty.	As zinna zmūnins, kawīdai wissans penningans praspīlai spīlantei sen kārtins.
 pol	prg_Latn	Zostawiłem notatki w pokoju - pójdę po nie zaraz.	As palaīdi nōtisnans en stubbai - izreizan as wīrst gūbuns preipistun tennans.
+pol	prg_Latn	Z powodu mojego ojca cały dom jest zawalony wędkami.	Majse tāwas paggan, pastippan buttan ast dalkin pilnan.
 pol	prg_Latn	Z powodu ulewy cała plantacja agrestu została zalana.	Aglas paggan pastippa agristis plantaciōni pastāi plūstan.
 pol	prg_Latn	Zrobisz to dzisiaj, prawda?	Tū wīrst stan segīwuns šandēinan, perarwi?

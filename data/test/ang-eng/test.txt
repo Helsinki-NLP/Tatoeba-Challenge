@@ -20,6 +20,7 @@ ang_Latn	eng	Ðā ƿæs on þā tīd Æþelbeorth cyning hāten on Centrīce, an
 ang_Latn	eng	Ðū līhst.	You are lying.
 ang_Latn	eng	Ðū līhst.	You lie.
 ang_Latn	eng	Ðū līhst.	You're lying.
+ang_Latn	eng	Eac he geseah hit.	He also saw it.
 ang_Latn	eng	Ēalā gif þū wǣre hund!	If only you were a dog!
 ang_Latn	eng	Ēastermōnaþ is se fēorða monaþ þæs ᵹēares.	April is the fourth month of the year.
 ang_Latn	eng	'Fæder min, ic ascie hwær seo offrung sie; her is wudu and fyr.'	My father, I ask where the offering is; here is the wood and fire.
@@ -53,35 +54,37 @@ ang_Latn	eng	Hēo hæfþ catt. Se catt is hƿīte.	She has a cat. The cat is whi
 ang_Latn	eng	Hēo hæfþ grēne ēagan.	She has green eyes.
 ang_Latn	eng	Hēo wæs mǣġþ, and hē wæs cnapa.	She was a girl, and he was a boy.
 ang_Latn	eng	Hē sealde eall ðæt hē āhte.	He sold all that he owned.
+ang_Latn	eng	Hē wasċode his handa and his fēt.	He washed his hands and his feet.
 ang_Latn	eng	Hē ƿæs æt þǣm geate dēaðes.	He was at the gate of death.
 ang_Latn	eng	Hē ƿæs gōd cyning.	He was a good king.
 ang_Latn	eng	Hē ƿæs sƿīðe ærm.	He was very poor.
-ang_Latn	eng	Hē wasċode his handa and his fēt.	He washed his hands and his feet.
 ang_Latn	eng	Hie comon þa to þære stowe þe him gesweotolode God, and he þær weofod arærde on þa ealdan wisan, and þone wudu gelogode swa swa he hit wolde habban to his suna bærnette siððan he ofslægen wurde.	They came to the place that was revealed to him by God, and he there erected an altar in the ancient manner, and the wood was arranged just as he wanted to have it happen for his son's burning after he slayed him.
 ang_Latn	eng	Hie sindon mine broðor.	They are my brothers.
 ang_Latn	eng	Him andwyrde se fæder, 'God foresceawað, mine sunu, him self þa offrunge.'	His father answered, 'God will provide, my son, the offering for himself.'
 ang_Latn	eng	Hui, hū færst þū?	Hey, how are you?
+ang_Latn	eng	Hwæt biþ word?	What is a word?
+ang_Latn	eng	Hwī wrāt hē þæt?	Why did he write that?
 ang_Latn	eng	"Hƿǣr is his bōc?" "Hēo is on þǣm bēode."	"Where's his book?" "It's on the table."
 ang_Latn	eng	Hƿær is þin broðor?	Where is your brother?
 ang_Latn	eng	Hƿǣr ƿǣre þū?	Where have you been?
 ang_Latn	eng	Hƿǣr ƿǣre þū?	Where were you?
 ang_Latn	eng	Hƿǣr ƿǣron ᵹē?	Where have you been?
 ang_Latn	eng	Hƿǣr ƿǣron ᵹē?	Where were you?
-ang_Latn	eng	Hwæt biþ word?	What is a word?
 ang_Latn	eng	Hƿæt biþ ƿord?	What is a word?
 ang_Latn	eng	Hƿæt dēst þū æfter ᵹēar?	What are you going to do next year?
 ang_Latn	eng	Hƿæt dōþ ᵹit?	What are you two doing?
 ang_Latn	eng	"⁊ hƿæt drincst þu?" "Ealu, ᵹif ic hæbbe, oþþe ƿæter ᵹif ic næbbe ealu." "Ne drincst þu ƿin?"	"And what do you drink?" "Ale if I have it, or water if I don't have ale." "Don't you drink wine?"
 ang_Latn	eng	Hƿæt is þis ƿord?	What word is that?
 ang_Latn	eng	Hƿæt sæᵹde hē?	What did he say?
-ang_Latn	eng	Hwī wrāt hē þæt?	Why did he write that?
 ang_Latn	eng	Hƿonne cumaþ ᵹē hām?	When are you coming home?
 ang_Latn	eng	Hƿonne cymest þū hām?	When are you coming home?
 ang_Latn	eng	Hƿȳ bohtest þū hit?	Why did you buy it?
 ang_Latn	eng	Hƿȳ bohton ᵹē hit?	Why did you buy it?
+ang_Latn	eng	Ic beo ic.	I am me.
 ang_Latn	eng	Ic cƿeðe nu amo "ic lufige", þonne cƿyst ðu quem amas? "Hƿæne lufast ðu?" Ic cƿeþe te amo "þe ic lufige" þonne befylð min lufu on ðe, and ðu miht cƿeðan amor a te “ic eom ᵹelufod fram ðe”; doceo te “ic tæce ðe”, and ðu cƿyst: doceor a te “ic eom ᵹelæred fram ðe”, et cetera.	I say now amo “I love”, then you say quem amas? “Whom do you love?” I say te amo “I love you” then my love falls on you, and you can say amor a te “I am loved by you”; doceo te “I teach you”, and you say: doceor a te “I am taught by you”, et cetera.
-ang_Latn	eng	Ič ᵹe-lȳfe, þæt Elfis ᵹiet on līfe is.	I believe Elvis is still alive.
 ang_Latn	eng	Ič eom þā-ᵹīet on līfe.	I'm still alive.
+ang_Latn	eng	Ic gehiere þa fuglas.	I hear the birds.
+ang_Latn	eng	Ič ᵹe-lȳfe, þæt Elfis ᵹiet on līfe is.	I believe Elvis is still alive.
 ang_Latn	eng	Ic geseah þæt befeallan.	I saw it happen.
 ang_Latn	eng	Ič hæbbe catt and hund. Se catt is blæc and se hund is hƿīte.	I have a cat and a dog. The cat is black and the dog is white.
 ang_Latn	eng	Ič hæbbe catt and hund. Se catt is blæc and se hund is hƿīte.	I have a cat and a dog. The cat's black and the dog's white.
@@ -96,9 +99,9 @@ ang_Latn	eng	Ic nelle to þære scole.	I don't want to go to school.
 ang_Latn	eng	Ič ne undernime.	I don't understand.
 ang_Latn	eng	Ič ne ƿiste, þe hē þǣr ƿæs.	I didn't know that he was there.
 ang_Latn	eng	'Ic swerie þurh me selfne, sægde se Ælmihtiga, nu þu noldest arian þinum ancennedan suna,'	I swear to me himself, said the Almighty, now that you would not spare your only begotten son,
+ang_Latn	eng	Ic þancie þé!	Thank you!
 ang_Latn	eng	Ič ƿille frician.	I want to dance.
 ang_Latn	eng	Ič ƿille sƿeord ᵹe-līč þissum!	I want a sword like this!
-ang_Latn	eng	Ic þancie þé!	Thank you!
 ang_Latn	eng	Iohannes ġeaf Marian ǣnne æppel.	John gave Mary an apple.
 ang_Latn	eng	Iohannes ġeaf Marian þone æppel.	John gave Mary the apple.
 ang_Latn	eng	Isaac þa ascode Abraham his fæder:	Isaac then asked his father Abraham:
@@ -108,6 +111,7 @@ ang_Latn	eng	Man hǣt þā Burge Nīƿes Eoforƿīčes þone Grēatan Æppel.	Ne
 ang_Latn	eng	Man sæᵹeþ þe hē sƿīðe ƿelig ƿæs.	It is said that he was very rich.
 ang_Latn	eng	Mid þam þe he wolde þæt weorc beginnan, þa clipode Godes engel arodlice of heofonum, 'Abraham!' He andwyrde sona.	Just when he was beginning the task, the angel of God called out from the heavens, 'Abraham!' He answered immediately.
 ang_Latn	eng	Mīn brōþor leofaþ on Tokyo.	My brother lives in Tokyo.
+ang_Latn	eng	Min fæder eode meolce brycgian.	My dad went to buy milk.
 ang_Latn	eng	Mīn nama is Ælfred. Hū fǣrst þū?	My name is Alfred. How are you doing?
 ang_Latn	eng	Mīn sweord biþ mīn līf.	My sword is my life.
 ang_Latn	eng	Mīn ƿīf is Polisc.	My wife is Polish.
@@ -131,6 +135,7 @@ ang_Latn	eng	Se catt is dēad.	The tomcat is dead.
 ang_Latn	eng	Se catt is dēad.	The tomcat's dead.
 ang_Latn	eng	Se catt is dēad.	The tom is dead.
 ang_Latn	eng	Se catt is dēad.	The tom's dead.
+ang_Latn	eng	Se catt itt þone fugol.	The cat eats the bird.
 ang_Latn	eng	Se ende is nēah.	The end is nigh.
 ang_Latn	eng	Se engel him cwæð þa to: 'Ne acwele þu þæt cild, ne þine hand ne astrece ofer his sweoran!'	The angel then said to him: 'Do not kill your child, nor should your hand stretch out over his neck!'
 ang_Latn	eng	Se forma monaþ þæs ᵹēares is se æftera Ġēola.	The first month of the year is January.
@@ -145,6 +150,7 @@ ang_Latn	eng	Sēo catte is dēad.	The cat's dead.
 ang_Latn	eng	Sēo cƿēn stōd be þǣm cynlinge.	The queen stood beside the king.
 ang_Latn	eng	Sēo flyhthæfen is be-locen.	The airport is closed.
 ang_Latn	eng	Sēo heorte ǣnlīċe can wel sēon. Þæt weorþlīċe is ēaġum unġesewen.	One sees clearly only with the heart. What is essential is invisible to the eye.
+ang_Latn	eng	Sēo weorold is ādliġ.	The world is sick.
 ang_Latn	eng	Se wulf æt þæt bān.	The wolf ate the bone.
 ang_Latn	eng	Se wulf æt þone cyning	The wolf ate the king.
 ang_Latn	eng	Soðlice on Ledenspræce synd þreo and twentig stafa: a, b, c, d, e, f, g, h, i, k, l, m, o, p, q, r, s, t, u, x, y, z.	Now, in Latin there are twenty-three letters: a, b, c, d, e, f, g, h, i, k, l, m, n, o, p, q, r, s, t, u, x, y, z.
@@ -165,8 +171,6 @@ ang_Latn	eng	Wē cunnon þone bæcere.	We know the baker.
 ang_Latn	eng	Wē ðæt trēow ne hrepodon, ðī lǣs ðe wē swelton.	We should not touch that tree, for fear that it may kill us.
 ang_Latn	eng	Wilcume be Tatoeba	Welcome to Tatoeba!
 ang_Latn	eng	Wilcume be Tatoeba	Welcome to Tatoeba.
-ang_Latn	eng	Ƿilcume on þā Engliscan Ƿikipǣdie.	Welcome to the English Wikipedia.
-ang_Latn	eng	Ƿile ūser land nān-ƿiht būtan friþ.	Our country wants nothing but peace.
 ang_Latn	eng	Wit witon þe ᵹit lēoᵹaþ.	We two know that you two lie.
 ang_Latn	eng	Þa beseah Abraham sona underbæc and geseah þær anne ramm betweox þam bremelum be þam hornum gehæft,and he ahefde þone ramm to þære offrunge and hine þær ofsnað Gode to lace for his sunu Isaac.	Then Abraham looked immediately behind and saw a ram between the brambles, caught by the horns, and he lifted up the ram to the offering, and he slaughtered it there as a sacrifice to God instead of his son Isaac.
 ang_Latn	eng	Þa Darius geseah þæt he overƿunnen beon ƿolde, þa ƿolde he hiene selfne on ðæm gefeohte forspillan.	When Darius saw that he would be overcome, he wanted to commit suicide in that battle.
@@ -191,3 +195,5 @@ ang_Latn	eng	Þū eart on Europan!	You're in Europe!
 ang_Latn	eng	Þū frugne mē.	You asked me.
 ang_Latn	eng	Þū frugne mē.	You've asked me.
 ang_Latn	eng	Þú meaht léogan ǽg-hƿǽm elles, ac þú ne meaht léogan þé sylfum.	You can lie to everyone else, but you can't lie to yourself.
+ang_Latn	eng	Ƿilcume on þā Engliscan Ƿikipǣdie.	Welcome to the English Wikipedia.
+ang_Latn	eng	Ƿile ūser land nān-ƿiht būtan friþ.	Our country wants nothing but peace.

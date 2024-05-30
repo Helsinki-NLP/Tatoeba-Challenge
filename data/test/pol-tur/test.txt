@@ -48,6 +48,7 @@ pol	tur	Chętni do wstąpienia do klubu proszeni są o wpisanie się tutaj.	Kul�
 pol	tur	Chętnie zgodziła się na moją propozycję.	Teklifimi çabucak kabul etti.
 pol	tur	Chłopcy będą szczęśliwi.	Çocuklar mutlu olacaklar.
 pol	tur	Chodźcie, idziemy stąd!	Gidelim hadi buradan!
+pol	tur	Chodziliśmy zawsze tędy do szkoły.	Hep bu yoldan giderdik okula.
 pol	tur	Chodź tu szybko!	Çabuk buraya gel!
 pol	tur	Chodź ze mną na zewnątrz.	Benimle dışarıya gel.
 pol	tur	Ciekawe, jak to jest być bogatym.	Zengin olmak acaba nasıl bir şey?
@@ -83,6 +84,7 @@ pol	tur	Czy jesteście dziś zajęci?	Bugün meşgul müsünüz?
 pol	tur	Czy jesteś dziś zajęty?	Bugün meşgul müsünüz?
 pol	tur	Czy jest tu ktoś kto mówi po angielsku?	Burada İngilizce konuşan biri var mı?
 pol	tur	Czy jest tu lekarz, który mówi po japońsku?	Japonca konuşan herhangi bir doktor tanıyor musun?
+pol	tur	Czy lubisz szachy?	Satranç sever misin?
 pol	tur	Czy mają Państwo ochotę na drugie śniadanie?	Öğle yemeği ister misiniz?
 pol	tur	Czy masz problem ze zrzuceniem wagi ?	Kilo vermekte sorun yaşıyor musun?
 pol	tur	Czy masz zapałkę?	Kibritin var mı?
@@ -107,6 +109,7 @@ pol	tur	Czy tyle wystarczy?	Yeterli mi?
 pol	tur	Czy zgadzasz się na to?	Bunu kabul ediyor musun?
 pol	tur	Daj im odpocząć.	Onlara bir mola ver.
 pol	tur	Daj mi tę książkę.	Bana kitabı ver.
+pol	tur	Dlaczego nie jesz?	Niye yemiyorsun?
 pol	tur	Dlaczego on nie śpi?	Neden uyumuyor?
 pol	tur	Dlaczego przetłumaczyłaś to zdanie?	Neden bu cümleyi çevirdin?
 pol	tur	Dlaczego przetłumaczyłeś to zdanie?	Neden bu cümleyi çevirdin?
@@ -168,6 +171,7 @@ pol	tur	Jego niska pensja przeszkadza mu w zakupie domu.	Onun düşük maaşı o
 pol	tur	Jego życie jest pełne problemów.	Onun hayatı sorun dolu.
 pol	tur	Jej brat Kensaku jest teraz w Brazylii.	Onun erkek kardeşi Kensaku şu an Brezilya'da.
 pol	tur	Jem śniadanie codziennie o siódmej.	Her sabah 7'de kahvaltı yaparım.
+pol	tur	Jeśli chcesz zwolnić, proszę powiedz mi.	Yavaşlamak istersen, lütfen söyle.
 pol	tur	Jeśli ktoś będzie mnie potrzebował, będę tutaj w swoim biurze.	Herhangi birinin bana ihtiyacı olursa burada ofisimde olacağım.
 pol	tur	Jeśli przyjdzie ci coś do głowy, proszę daj nam znać.	Aklınıza bir şey gelirse lütfen bizi bilgilendirin.
 pol	tur	Jeśli przyjdzie ci coś do głowy, proszę poinformuj nas o tym.	Aklınıza bir şey gelirse lütfen bizi bilgilendirin.
@@ -230,6 +234,7 @@ pol	tur	Kiedy ją pan poznał?	Sen, ne zaman onu tanımaya geldin?
 pol	tur	Kiedy Tom poszedł do sklepu?	Tom ne zaman markete gitti?
 pol	tur	Kiedy Tom wrócił z Bostonu?	Tom Boston'dan ne zaman döndü?
 pol	tur	Kiedy wrócisz do domu?	Ne zaman eve döneceksin?
+pol	tur	Kim jest najlepszy judoka na świecie?	Dünyanın en iyi judokası kimdir?
 pol	tur	Kioto jest pięknym miastem.	Kyoto çok güzel bir şehir.
 pol	tur	Kioto to piękne miasto.	Kyoto çok güzel bir şehir.
 pol	tur	Kobiety uwielbiają herbatę.	Kadınlar çayı sever.
@@ -238,7 +243,9 @@ pol	tur	Komitet był podzielony na pięć sekcji.	Komite beş bölüme ayrılmı
 pol	tur	Komputery są lepsze od nas.	Bilgisayarlar bizden daha iyi.
 pol	tur	Krytykował ją za słabość.	Zayıflığından onu azarladı.
 pol	tur	Książki są moją alternatywną rzeczywistością.	Kitaplar benim alternatif gerçekliğimdir.
+pol	tur	Kto jest najlepszym judoką na świecie?	Dünyanın en iyi judokası kimdir?
 pol	tur	Kto mnie widział?	Beni kim gördü.
+pol	tur	Która gitara należy do Toma?	Hangi gitar Tom'un?
 pol	tur	Który chłopiec to Masao?	Hangi çocuk Masao?
 pol	tur	Któryś z nas będzie musiał to zrobić.	Ya sen ya da ben bunu yapmak zorundayız.
 pol	tur	Kucyk to mały koń.	Bir midilli küçük bir attır.
@@ -251,6 +258,7 @@ pol	tur	Lekarz złamał przysięgę Hipokratesa.	Doktor, Hipokrat Yemini'ni çi�
 pol	tur	Los Angeles jest drugim największym miastem w Stanach Zjednoczonych.	Los Angeles Amerika'daki ikinci en büyük kent.
 pol	tur	Łowię ryby nad jeziorem.	Ben gölde bir balığım.
 pol	tur	Lubię uprawiać sport dla zabawy, nie dla współzawodnictwa.	Sporu rekabet için değil zevk için yapıyorum.
+pol	tur	Lubisz szachy?	Satranç sever misin?
 pol	tur	Lublana jest stolicą Słowenii.	Ljubljana, Slovenya'nın başkentidir.
 pol	tur	Mądry człowiek nie postąpiłby w ten sposób.	Akıllı bir adam bu şekilde hareket etmezdi.
 pol	tur	Majorka to piękna wyspa.	Mallorca güzel bir adadır.
@@ -290,10 +298,12 @@ pol	tur	Mógłbyś zostawić mnie samą?	Beni yalnız bırakır mısın?
 pol	tur	Moja córka nie chce mnie słuchać.	Kızım beni dinlemeyecek.
 pol	tur	Moja mama była cudowną kobietą.	Annem harika bir kadındı.
 pol	tur	Mój aparat to Nikon.	Kameram Nikon'dur.
+pol	tur	Moja rodzina mieszka w mieście.	Ailem şehirde yaşıyor.
 pol	tur	Moja siostra ma dwadzieścia jeden lat, jest studentką na uniwersytecie.	Kız kardeşim yirmi bir yaşında bir üniversite öğrencisidir.
 pol	tur	Moje biuro znajduje się na piątym piętrze.	Ofisim beşinci katta bulunuyor.
 pol	tur	Moje dzieci są bardzo niegrzeczne.	Çocuklarım çok yaramaz.
 pol	tur	Mój ojciec niczego nie powiedział.	Babam hiçbir şey söylemedi.
+pol	tur	Mój portfel został skradziony w autobusie.	Otobüste cüzdanım çalındı.
 pol	tur	Mówią że ten owoc jest dobry dla twojego zdrowia.	Onlar bu meyvenin senin sağlığın için iyi olduğunu söylüyorlar.
 pol	tur	Mówię po francusku nie gorzej od niej.	Onun konuşabildiği kadar iyi Fransızca konuşabiliyorum.
 pol	tur	Mówię tylko po angielsku.	Sadece İngilizce konuşabiliyorum.
@@ -302,6 +312,7 @@ pol	tur	Mówi, że była samotna.	O yalnız olduğunu söylüyor.
 pol	tur	Mówi, że był samotny.	O yalnız olduğunu söylüyor.
 pol	tur	Mówi, że jest samotna.	O yalnız olduğunu söylüyor.
 pol	tur	Mówi, że jest samotny.	O yalnız olduğunu söylüyor.
+pol	tur	Możesz jeść wszystko co chcesz.	Her ne istiyorsan yiyebilirsin.
 pol	tur	Możesz to zrobić, prawda?	Bunu yapabilirsin, değil mi?
 pol	tur	Możesz zobaczyć obrazek?	Resmi görebiliyor musun?
 pol	tur	Możliwości naszej szkoły są niewystarczające dla zagranicznych studentów.	Okul olanaklarımız yabancı öğrenciler için yetersizdir.
@@ -361,6 +372,8 @@ pol	tur	Nie czujesz tego?	Onu hissedemiyor musun?
 pol	tur	Nie dogadamy się, ani teraz, ani nigdy.	Anlaşma olmayacak, ne şimdi ne de başka bir zaman.
 pol	tur	Nie dotykaj moich kwiatów.	Çiçeklerime dokunma.
 pol	tur	Nie dotykaj mojego roweru.	Bisikletime dokunma!
+pol	tur	Nie jestem Chińczykiem.	Ben Çinli değilim.
+pol	tur	Nie jestem Chinką.	Ben Çinli değilim.
 pol	tur	Nie jestem niska.	Ben kısa değilim.
 pol	tur	Nie jestem niski.	Ben kısa değilim.
 pol	tur	Nie jestem przyzywczajony do jazdy samochodem w śniegu.	Ben karda araba sürmeye alışkın değilim.
@@ -371,15 +384,19 @@ pol	tur	Nie komentuję ich artykułów.	Onların makalelerine yorum yapmıyorum.
 pol	tur	Niektóre kobiety nie noszą staników.	Bazı kadınlar sutyen giymez.
 pol	tur	Nielegalne jest budowanie w tym miejscu wysokościowców.	Yasa, bu alana herhangi bir gökdelenin inşa edilmesini yasaklıyor.
 pol	tur	Nie lubię być sama.	Yalnız olmayı sevmiyorum.
+pol	tur	Nie lubię jeść pomidorów.	Domates yemeyi sevmem.
+pol	tur	Nie lubię ludzi zarozumiałych.	Ukala insanlardan hoşlanmam.
 pol	tur	Nie mam cierpliwości.	Hiç sabrım yoktur.
 pol	tur	Nie mam czasu na wyjaśnienia.	Açıklama için zamanım yok.
 pol	tur	Nie mam innego wyboru niż słuchać tych rozkazów.	O emirleri dinlemekten başka seçeneğim yok.
 pol	tur	Nie mamy innego wyboru.	Bizim başka bir seçeneğimiz yok.
+pol	tur	Nie mamy papieru.	Bizim kâğıdımız yok.
 pol	tur	Nie mam zamiaru się z wami kłócić.	Sizinle kavga etmeye niyetim yok.
 pol	tur	Nie ma prawdziwych przyjaciół.	Onun gerçek arkadaşları yok.
 pol	tur	Nie martwcie się. Ona wie, co robi.	Merak etmeyin. O ne yaptığını bilir.
 pol	tur	Nie martwcie się. On wie, co robi.	Merak etmeyin. O ne yaptığını bilir.
 pol	tur	Nie ma szans.	Hiç şansın olmayacak.
+pol	tur	Nie masz dużo pieniędzy.	Çok paran yok.
 pol	tur	Nie ma widelca.	Bir çatal kayıp.
 pol	tur	Nie mogę jeść tego jedzenia.	O yemeği yiyemem.
 pol	tur	Nie mogę tego przeczytać.	Bunu okuyamam.
@@ -495,6 +512,8 @@ pol	tur	Podnieś lewą rękę.	Sol elini kaldır.
 pol	tur	Podobało mi się to.	Bunu beğendim.
 pol	tur	Podoba mi się to mieszkanie. Lokalizacja jest dobra, a poza tym czynsz nie jest bardzo wysoki.	Ben bu daireyi seviyorum. Yer iyi ve ayrıca, kira çok yüksek değil.
 pol	tur	"Podobasz mu się?" "Nie, ale jest dobrym kolegą i spędzamy razem czas.	"O senden hoşlanıyor mu?" "Hayır fakat iyi bir arkadaş ve birlikte eğleniriz."
+pol	tur	Podpisałam wszystkie dokumenty.	Tüm belgeleri imzaladım.
+pol	tur	Podpisałem wszystkie dokumenty.	Tüm belgeleri imzaladım.
 pol	tur	Podróżowała za granicę.	O yabancı ülkelerde seyahat etti.
 pol	tur	Podziękował za prezent.	Hediye için teşekkür etti.
 pol	tur	Pogoda bardzo dotkliwie zimna.	Hava çok şiddetli soğuk.
@@ -748,6 +767,7 @@ pol	tur	To nie trwało więcej niż trzy sekundy.	Bu üç dakikadan daha fazla s
 pol	tur	To nie twoja wina.	O senin hatan değil.
 pol	tur	To nie zajmie więcej niż trzy minuty.	Bu üç dakikadan daha fazla sürmeyecek.
 pol	tur	Tony to dobry, silny chłopak.	Tony iyi ve güçlü bir oğlandı.
+pol	tur	To pierwszy list, który napisałem po niemiecku.	Bu, Almanca yazdığım ilk mektup.
 pol	tur	To prawda.	Evet.
 pol	tur	To są moje bardzo stare książki.	Bunlar çok eski kitaplar.
 pol	tur	To są moje książki.	Bunlar benim kitaplarım.
@@ -844,6 +864,7 @@ pol	tur	Wystarczy?	Yeterli mi?
 pol	tur	W zeszłym miesiącu byłem w Londynie.	Geçen ay Londra'daydım.
 pol	tur	Wziąłem prysznic dziś rano.	Bu sabah duş aldım.
 pol	tur	Wzięłam dziś rano prysznic.	Bu sabah duş aldım.
+pol	tur	Yanni był na koncercie.	Yanni konserdeydi.
 pol	tur	Zachodzą zmiany.	Değişiklikler yer alıyor.
 pol	tur	Zajęło mi chwilę, zanim zrozumiałem, co próbowała powiedzieć.	Onun ne söylemeye çalıştığını anlamak bir süremi aldı.
 pol	tur	Zapadł w głęboki sen.	O derin bir uykuya daldı.

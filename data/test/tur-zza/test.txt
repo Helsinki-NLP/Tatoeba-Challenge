@@ -1,34 +1,41 @@
-tur	diq	Ben ekmek pişiriyorum.	Ez nun poceno.
-tur	diq	Hıdır uyudu.	Xıdır ra kewt.
-tur	diq	Kalem çantada.	Qelema çante dı.
-tur	diq	Öğretmen gecikti.	Malim herey kewt.
-tur	diq	Öğretmenler ders verdi.	Malimun dersi day.
-tur	kiu	Ben ekmek pişiriyorum.	Ez non pozenune.
-tur	kiu	Hıdır uyudu.	Xıdır kewt ra.
-tur	kiu	Kalem çantada.	Qelema çante dera.
-tur	kiu	Öğretmen gecikti.	Malim kewt herey.
-tur	kiu	Öğretmenler ders verdi.	Malimu derşi day.
+tur	zza	Ben ekmek pişiriyorum.	Ez nun poceno.
+tur	zza	Hıdır uyudu.	Xıdır ra kewt.
+tur	zza	Kalem çantada.	Qelema çante dı.
+tur	zza	Öğretmen gecikti.	Malim herey kewt.
+tur	zza	Öğretmenler ders verdi.	Malimun dersi day.
+tur	zza	Ben ekmek pişiriyorum.	Ez non pozenune.
+tur	zza	Hıdır uyudu.	Xıdır kewt ra.
+tur	zza	Kalem çantada.	Qelema çante dera.
+tur	zza	Öğretmen gecikti.	Malim kewt herey.
+tur	zza	Öğretmenler ders verdi.	Malimu derşi day.
 tur	zza	Ağaca verdiğin değeri taşa, hayvana verdiğin değeri ağaca, insana verdiğin değeri de hayvana ver.	Qedrê kemere jê dare bızone, yê dare ki jê heywani, yê heywani ki jê isoni bızone.
 tur	zza	Ailemiz Diyarbakır'da.	Keyeyê ma Dîyarbekir de yo.
 tur	zza	Aileniz nerede?	Keyeyê şima kamca de yo?
 tur	zza	Başkaları için ekip başkaları için biçen kişi gün gelir kurttan aç, yılandan çıplak kalır.	Uyo ke sarri rê rameno, sarri rê çineno; rozê yena ke vergi ra vêsan, morri ra vıran maneno!
 tur	zza	Ben peşmergeyim.	Ez pêşmerge ya.
 tur	zza	Bugün başım çok ağrıyor.	Ewro sereyê min zaf dejeno.
+tur	zza	Dilimi seviyorum.	Ez zıwanê xû ra hes kena.
 tur	zza	Gezdi.	A gêraye.
 tur	zza	Gezdi.	A gêrê.
 tur	zza	Gezdi.	O gêra.
 tur	zza	İtalyanca aşkın dilidir.	Îtalyankî ziwanê eşqî yo.
+tur	zza	Karanlık aydınlıktan, yalan doğrudan kaçar.	Tari roşti ra remeno, jür raşti ra.
 tur	zza	Keşke bazılarının gerçek yüzünü emek vermeden önce tanısaydık.	Kaşkena ma riyê tayine hona ke emeg cı nêdo naskerdêne.
 tur	zza	Kitabımız basılmalı.	Ganî kitabê ma bêrê çapkerdene.
 tur	zza	Mutlu yıllar.	Gağanê sıma bımbarek bo.
+tur	zza	Neden bunu söylüyorsun?	Çıra tı ney vanê?
 tur	zza	Ocağı sönük, ailesinden kimse yok, soyu kurumuş.	Uzağkorro! Uzağê xo korro!
 tur	zza	O çok korktu.	A zaf tersê.
 tur	zza	O, ettir.	O goşt o.
 tur	zza	Onların aileleri nerede?	Keyeyê înan kamca de yo?
 tur	zza	Onların ailesi Tunceli'de.	Keyeyê înan Dêrsim de yo.
+tur	zza	PKK bir terör örgütüdür.	PKK organizasyoneko teror o.
 tur	zza	Saat dokuz buçuk.	Saete new û nêm a.
 tur	zza	Sen gidince yalnız kalacağım.	Tı şıré edo tenya bımana.
 tur	zza	Şimdi Bach dinliyorum.	Ez nika goştarîya Bach'î kena.
+tur	zza	Telefonumun camı kırıldı.	Camê telefonê mi şikîya.
+tur	zza	Terör bir hastalıktır.	Teror nêweşiye ya.
+tur	zza	Terörist değilim.	Ez terorist niya.
 tur	zza	Tom kapının önünde.	Tom verê kêberî de yo.
 tur	zza	Tom yoğurt ve ekmek yiyor.	Tom mast u nan weno.
 tur	zza	Uzakta olsun da toprağın altında olmasın.	Va dür bo, bınê hardi de mebo!

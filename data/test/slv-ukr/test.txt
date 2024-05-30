@@ -5,8 +5,8 @@ slv	ukr	A čo?	І що?
 slv	ukr	'Aha', povedia.	Вони скажуть: «Ага!»
 slv	ukr	Ahoj! Ako sa máš?	Вітаю! Як справи?
 slv	ukr	Ahoj, ako sa máš?	Привіт, як справи?
-slv	ukr	Ahoj! Ako sa máš?	Привіт, як справи?
 slv	ukr	Ahoj, ako sa máš?	Привіт! Як справи?
+slv	ukr	Ahoj! Ako sa máš?	Привіт, як справи?
 slv	ukr	Ahoj! Ako sa máš?	Привіт! Як справи?
 slv	ukr	Ahoj, ako sa máš?	Привіт, як ся маєш?
 slv	ukr	Ahoj! Ako sa máš?	Привіт, як ся маєш?
@@ -206,6 +206,8 @@ slv	ukr	Ideme do kostola.	Ми йдемо до церкви.
 slv	ukr	Idem na pláž.	Я йду на пляж.
 slv	ukr	Imam dve mački.	Маю двох кішок.
 slv	ukr	Imam dve mački.	У мене є дві кішки.
+slv	ukr	Ime mi je Dušana.	Мене звати Душана.
+slv	ukr	Irán je veľká krajina.	Іран - велика країна.
 slv	ukr	Išla na koncert minulú nedeľu?	Ти ходила на концерт минулої неділі?
 slv	ukr	Jablko nepadá ďaleko od stromu.	Яблуко від яблуні далеко не падає.
 slv	ukr	Jablko nepadá ďaleko od stromu.	Яблуко від яблуні недалеко падає.
@@ -303,6 +305,7 @@ slv	ukr	Kde si?	Ти де?
 slv	ukr	Kde sme?	Де ми?
 slv	ukr	Kde?	Де?
 slv	ukr	Kdo bo vročo čokolado?	Хто хоче гарячого шоколаду?
+slv	ukr	Kdo ima rad pajke?	Хто любить павуків?
 slv	ukr	Kedy príde?	Коли він прийде?
 slv	ukr	Kedy sa vraciaš? To uplne zaleží na počasí.	Коли ти повертаєшся? Усе залежить від погоди.
 slv	ukr	Kedy si bol v Austrálii?	Коли ти був у Австралії?
@@ -334,6 +337,7 @@ slv	ukr	Kravy dávajú mlieko.	Корови дають молоко.
 slv	ukr	Kresťanstvo a islam sú dve rôzne náboženstvá.	Християнство та іслам — дві різні релігії.
 slv	ukr	Krokodíly majú ostré zuby.	Крокодили мають гострі зуби.
 slv	ukr	Krokodíly majú ostré zuby.	У крокодилів гострі зуби.
+slv	ukr	Krym je poloostrov.	Крим – півострів.
 slv	ukr	Kto je ďalší?	Хто наступний?
 slv	ukr	Kto je ďalší?	Чия черга?
 slv	ukr	Kto mal pravdu?	Хто мав рацію?
@@ -431,6 +435,7 @@ slv	ukr	Milujem ťa!	Я тебе кохаю.
 slv	ukr	Miluješ ma ?	Ти кохаєш мене?
 slv	ukr	Miluješ ma ?	Ти мене кохаєш?
 slv	ukr	Mimochodom, kde je Tom?	До речі, де Том?
+slv	ukr	Mleko je sveže.	Молоко свіже.
 slv	ukr	Moja mačka rozumie fancúzsky, ale tvári sa, že nie.	Моя кішка розуміє французьку, але вдає, що не розуміє.
 slv	ukr	Moja manželka je lekárka.	Моя дружина - лікар.
 slv	ukr	Moja práca je výučba angličtiny.	Моя робота - навчати англійській.
@@ -445,6 +450,8 @@ slv	ukr	Moje ime je Sally.	Мене звати Саллі.
 slv	ukr	Moje ime je Sally.	Моє ім'я — Саллі.
 slv	ukr	Moje mačky už viac nespia pod posteľou.	Мої кішки вже більше не сплять під ліжком.
 slv	ukr	Moje minulé ja je iná osoba.	Я в минулому - це інша людина.
+slv	ukr	Môj kocúr sa nevolá Tom.	Мога кота звуть не Том.
+slv	ukr	Môj kocúr sa nevolá Tom.	Мога кота звуть не Томом.
 slv	ukr	Môj pes je biely.	Мій пес білий.
 slv	ukr	Môj pes je biely.	Мій собака білий.
 slv	ukr	Môj vlak odchádza za desať minút.	Мій поїзд від'їжджає за десять хвилин.
@@ -601,6 +608,7 @@ slv	ukr	Povedz mi viac.	Розкажи мені більше.
 slv	ukr	Požičiam si pero.	Я позичу ручку.
 slv	ukr	Pracujem v továrni.	Я працюю на фабриці.
 slv	ukr	Prečo nejdeme domov?	Чому ми не йдемо додому?
+slv	ukr	Prečo neješ?	Чому ти не їси?
 slv	ukr	Prečo nie?	А чому б ні?
 slv	ukr	Prečo nie?	Чому ні?
 slv	ukr	Prečo nikto neodpovedá?	Чому ніхто не відповідає?
@@ -632,6 +640,7 @@ slv	ukr	Rád to počujem.	Радий це почути.
 slv	ukr	Rastliny rastú.	Рослини ростуть.
 slv	ukr	Razumem.	Розумію.
 slv	ukr	Realita je najzábavnejšia komédia sveta.	Реальність - то найсмішніша комедія в світі.
+slv	ukr	Rozhodla sa presťahovať do Belgicka.	Вона вирішила переїхати до Бельгії.
 slv	ukr	Ruka ruku myje.	Рука руку миє.
 slv	ukr	Rybu, prosím.	Рибу, будь ласка.
 slv	ukr	Schudla som.	Я схудла.
@@ -793,6 +802,7 @@ slv	ukr	Tom nalial Márii pohár vody.	Том налив Мері склянку
 slv	ukr	Tom nebol doma.	Тома не було вдома.
 slv	ukr	Tom nebol v práci.	Тома не було на роботі.
 slv	ukr	Tom nebude spievať.	Том не буде співати.
+slv	ukr	Tom nechcel plakať.	Том не хотів плакати.
 slv	ukr	Tom nemal žiadnu rodinu.	У Тома не було родини.
 slv	ukr	Tom nemôže byť chorý.	Том не може бути хворий.
 slv	ukr	Tom nepozná svojich susedov.	Том не знає своїх сусідів.
@@ -887,6 +897,7 @@ slv	ukr	Zabudol som svoju emailovú adresu.	Я забув свою адресу 
 slv	ukr	Začnime.	Почали.
 slv	ukr	Začnime.	Розпочнімо!
 slv	ukr	Zajtra je Štedrý deň.	Завтра Різдво.
+slv	ukr	Zakaj ne ješ?	Чому ти не їси?
 slv	ukr	Zapnite si pásy.	Пристебніть ремені.
 slv	ukr	Zaprl je vrata.	Він зачинив двері.
 slv	ukr	Zarábam 100 Euro denne.	Я заробляю 100 євро на день.

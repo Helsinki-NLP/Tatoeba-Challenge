@@ -1,3 +1,5 @@
+deu	lit	Aber stimmt das überhaupt?	Bet aplamai ar tai atitinka tiesą?
+deu	lit	Afghanistan ist älter als Deutschland.	Afganistanas yra senesnis už Vokietiją.
 deu	lit	Alle Freundinnen von Maria haben Babys.	Visos Marijos bičiulės turi kūdikius.
 deu	lit	Alle Freundinnen von Maria haben Babys.	Visos Marijos draugės turi kūdikius.
 deu	lit	Alles war perfekt.	Viskas buvo išbaigta.
@@ -6,33 +8,58 @@ deu	lit	Alles war perfekt.	Viskas buvo tobula.
 deu	lit	Ampeln haben drei Farben: Rot, Gelb und Grün.	Šviesoforuose yra trys spalvos: raudona, geltona ir žalia.
 deu	lit	Bei Tom und Maria zu Hause ist es gemütlich.	Tomo ir Marijos namuose jauku.
 deu	lit	Bis Dienstag!	Iki antradienio!
+deu	lit	Bislang hat unser Team alle Spiele gewonnen.	Mūsų komanda ligi šiol laimėjo visas žaidynes.
 deu	lit	„Bist du bereit?“ „Ich glaube schon.“	"Ar tu pasirengęs?" "Manau, kad jau."
 deu	lit	„Bist du bereit?“ „Ich glaube schon.“	"Ar tu pasiruošęs?" "Manau, kad jau."
 deu	lit	Bist du noch Vegetarier?	Ar tu vis dar esi vegetaras?
 deu	lit	Bist du noch Vegetarier?	Tu vis dar vegetaras?
+deu	lit	Bitte friss mich nicht!	Prašau, neėsk manęs!
+deu	lit	Bitte friss mich nicht!	Prašau, negraužk manęs!
 deu	lit	Danke, dass du mir das gesagt hast.	Ačiū, kad man tai pasakei.
 deu	lit	Danke schön!	Labai dėkui!
+deu	lit	Darf ich erklären?	Ar galiu paaiškinti?
+deu	lit	Darf ich erklären?	Galima paaiškinti?
 deu	lit	Das Auto ist weiß.	Automobilis yra baltas.
 deu	lit	Das Coronavirus ist überall.	Koronavirusas yra visose vietose.
 deu	lit	Das Coronavirus ist überall.	Koronavirusas yra visur.
 deu	lit	Das Coronavirus ist überall.	Koronavirusas yra visur kur.
 deu	lit	Das gehört meiner Mutter.	Tai mano motinos.
+deu	lit	Das Huhn frisst das Insekt.	Višta lesa vabzdį.
+deu	lit	Das ist durchaus eine gute Frage.	Tai visai geras klausimas.
 deu	lit	Das ist eine Diktatur.	Tai diktatūra.
+deu	lit	Das ist eine Harfe.	Tai arfa.
 deu	lit	Das ist ein Feuerlöscher.	Tai gesintuvas.
 deu	lit	Das ist ein Fuchs.	Tai lapė.
+deu	lit	Das ist ein richtiger Winter.	Tai tikra žiema.
 deu	lit	Das ist ein sehr süffiges Bier.	Šitas alus yra labai malonus gerti.
 deu	lit	Das ist ein uninteressanter Satz.	Tai neįdomus sakinys.
+deu	lit	Das ist ein Zaubertrank.	Tai magiškas gėrimas.
+deu	lit	Das ist Fenchel.	Tai pankolis.
 deu	lit	Das ist keine Tanne.	Tai ne eglė.
 deu	lit	Das ist Kitsch!	Tai kičas!
+deu	lit	Das ist mein eigenes Flugzeug.	Tai mano nuosavas lėktuvas.
+deu	lit	Das ist mein Werkzeug.	Tai mano įrankis.
 deu	lit	Das ist nicht die beste Antwort.	Tai nėra geriausias atsakymas.
+deu	lit	Das ist nicht mein Koffer.	Tai ne mano lagaminas.
+deu	lit	Das ist nicht sehr schwierig.	Tai nėra labai sunku.
+deu	lit	Das ist nicht so einfach, wie du glaubst.	Tai nėra taip paprasta, kaip tu galvoji.
+deu	lit	Das ist nicht so einfach, wie du glaubst.	Tai nėra taip paprasta, kaip tu manai.
 deu	lit	Das ist nicht ungewöhnlich.	Tai nėra nepaprastas.
 deu	lit	Das ist praktisch unbenutzbar. Schmeiß es weg!	Tai praktiškai nenaudingas. Išmesk jį lauk!
 deu	lit	Das ist praktisch unbenutzbar. Schmeiß es weg!	Tai praktiškai netinkamas. Mesk jį šalin!
 deu	lit	Das ist sagenhaft!	Tai pasakiška!
 deu	lit	Das ist so typisch für dich, Tom!	Tomai, tas taip būdinga tau!
+deu	lit	Das ist typisch Tom.	Tai tipiškas Tomas.
 deu	lit	Das klingt ziemlich schlecht.	Tai gana blogai skamba.
 deu	lit	Das Leben besteht nicht nur aus Arbeit.	Gyvenimas tai ne vien tik darbas.
+deu	lit	Das Leben ist hier und jetzt.	Gyvenimas yra čia ir dabar.
 deu	lit	Das Schuljahr ist zu Ende.	Mokslo metai baigėsi.
+deu	lit	Das war keins der üblichen Scharmützel.	Tai nebuvo įprastas susirėmimas.
+deu	lit	Das war keins der üblichen Scharmützel.	Tai nebuvo įprastas susišaudymas.
+deu	lit	Deine Brille ist ganz beschlagen.	Tavo akiniai visai aprasoję.
+deu	lit	Der Anblick überraschte mich.	Reginys mane nustebino.
+deu	lit	Der asiatische Teil Russlands ist größer als China.	Azijinė Rusijos dalis yra didesnė už Kiniją.
+deu	lit	Der asiatische Teil Russlands ist größer als China.	Rusijos dalis, esanti Azijoje, yra didesnė už Kiniją.
 deu	lit	Der Ball ging ins Netz.	Kamuolys pataikė į tinklą.
 deu	lit	Der Ball ging ins Netz.	Sviedinys pataikė į tinklą.
 deu	lit	Der Brief ist nicht an mich adressiert.	Laiškas ne man adresuotas.
@@ -44,14 +71,23 @@ deu	lit	Der heutige Tag war wunderschön.	Šiandien buvo nuostabiai graži diena
 deu	lit	Der heutige Tag war wunderschön.	Šiandien buvo puiki diena.
 deu	lit	Der Hund jaulte vor Schmerz.	Šuo kaukė iš skausmo.
 deu	lit	Der Hund jaulte vor Schmerz.	Šuo staugė iš skausmo.
+deu	lit	Der Hund schlief bei mir im Bett.	Šuo su manimi miegojo lovoje.
+deu	lit	Der Kaffee war sehr heiß.	Kava buvo labai karšta.
 deu	lit	Der Mensch kann ohne Salz nicht leben.	Žmogus negali be druskos gyventi.
+deu	lit	Der Mond ist heute Nacht besonders hell.	Šiąnakt mėnulis nepaprastai šviesus.
+deu	lit	Der Mond ist heute Nacht besonders hell.	Šiąnakt mėnulis yra ypatingai šviesus.
 deu	lit	Der Mond ist kein Stern.	Mėnulis ne žvaigždė.
 deu	lit	Der Mond schien helle, und die Luft war kalt.	Mėnulis buvo šviesus, o oras šaltas.
 deu	lit	Der Mond schien helle, und die Luft war kalt.	Mėnulis švietė ryškiai, o oras buvo šaltas.
 deu	lit	Der Schlosspark ist sehr groß.	Pilies parkas yra labai didelis.
 deu	lit	Der Schlosspark ist sehr groß.	Rūmų parkas yra labai didelis.
+deu	lit	Der Wind ist jetzt unser Freund.	Vėjas dabar yra mūsų draugas.
+deu	lit	Der Windzug hat die Zimmertür zugeschlagen.	Skersvėjis užtrenkė kambario duris.
 deu	lit	Die Apfelsine ist süß.	Apelsinas yra saldus.
+deu	lit	Die Bäume blühen bald.	Greitai medžiai ims žydėti.
+deu	lit	Die Bäume blühen bald.	Greitai medžiai sužydės.
 deu	lit	Die beiden kleinen Kinder verirrten sich im dunklen Wald.	Du maži vaikai pasiklydo tamsiame miške.
+deu	lit	Die Burgmauern sind sehr dick.	Pilies sienos yra labai storos.
 deu	lit	Die Eltern waren sehr glücklich.	Tėvai buvo labai laimingi.
 deu	lit	Die Eltern waren sehr glücklich.	Tėvai buvo nepaprastai laimingi.
 deu	lit	Die Garage war leer.	Garažas buvo laisvas.
@@ -70,6 +106,7 @@ deu	lit	Diese Gasse ist nicht breit.	Šita gatvelė nėra plati.
 deu	lit	Diese Kinder stellen meine Geduld auf die Probe.	Šitie vaikai bando mano kantrybę.
 deu	lit	Diese Kinder stellen meine Geduld auf die Probe.	Šitie vaikai mėgina mano kantrybę.
 deu	lit	Diese Kinder stellen meine Geduld auf die Probe.	Šitie vaikai tikrina mano kantrybę.
+deu	lit	Diese Milch ist sauer.	Šitas pienas surūgęs.
 deu	lit	Dieser Hahn ist wunderschön.	Šitas gaidys nuostabiai gražus.
 deu	lit	Dieser Hund zittert vor Angst.	Šitas šuo dreba iš baimės.
 deu	lit	Dieser Hund zittert vor Angst.	Šitas šuo virpa iš baimės.
@@ -77,40 +114,62 @@ deu	lit	Diese roten Rosen sind wunderschön.	Šitos raudonos rožės yra nepapra
 deu	lit	Diese roten Rosen sind wunderschön.	Šitos raudonos rožės yra nuostabiai gražios.
 deu	lit	Dieser Rosenstrauß ist wunderschön.	Šita rožių puokštė yra nepaprastai graži.
 deu	lit	Dieser Rosenstrauß ist wunderschön.	Šita rožių puokštė yra nuostabiai graži.
+deu	lit	Dieser Stuhl ist echt bequem.	Šita kėdė yra tikrai patogi.
+deu	lit	Dieses Buch ist großartig.	Šita knyga yra puiki.
 deu	lit	Dieses Gespräch ist beendet. Ich gehe.	Pasikalbėjimas baigėsi. Sudie.
 deu	lit	Dieses Gespräch ist beendet. Ich gehe.	Pašnekėsys baigėsi. Sudie.
+deu	lit	Die Sonne blendete.	Saulė akino.
+deu	lit	Die Sonne blendete.	Saulė spangino.
+deu	lit	Die Straße ist abgesperrt.	Gatvė yra uždaryta.
 deu	lit	Die Universität hat eine Mensa.	Universitete yra studentų valgykla.
 deu	lit	Die Ursache der Krankheit ist unklar.	Ligos priežastis yra neaiški.
 deu	lit	Die Zeit drängt uns.	Mus laikas ragina.
 deu	lit	Die Zeit drängt uns.	Mus laikas skubina.
 deu	lit	Die Zeit drängt uns.	Mus laikas spaudžia.
 deu	lit	Die Zeit drängt uns.	Mus laikas spiria.
+deu	lit	Donnerwetter! Was für ein hübscher Ring!	Po perkūnais! Koks gražus žiedas!
+deu	lit	Drei betrunkene Männer sangen im Park.	Trys girti vyrai dainavo parke.
 deu	lit	Du beleidigst meine Intelligenz.	Tu įžeidi mano intelektą.
 deu	lit	Du beleidigst meine Intelligenz.	Tu įžeidi mano išsilavinimą.
 deu	lit	Du beleidigst meine Intelligenz.	Tu užgauni mano intelektą.
 deu	lit	Du beleidigst meine Intelligenz.	Tu užgauni mano išsilavinimą.
 deu	lit	Du bist der richtige Mensch!	Tu esi tikras vyras!
+deu	lit	Du bist wichtig für mich.	Tu man esi svarbus.
 deu	lit	Du kannst deine Brille auf den Nachttisch legen.	Tu savo akinius gali ant naktinio staliuko pasidėti.
 deu	lit	Du wirst mir immer unsympathischer.	Tu man tampi vis labiau nepatrauklus.
 deu	lit	Egal! Beide gefallen mir.	Viskas! Man abu patinka.
+deu	lit	Eine neue Schule wird auf dem Gelände errichtet.	Teritorijoje bus pastatyta nauja mokykla.
+deu	lit	Einen Kaffee mit Sahne bitte.	Prašau kavos su grietinėle.
 deu	lit	Eines Tages kommt die Wahrheit ans Licht.	Vieną dieną išaiškės teisybė.
 deu	lit	Ein Floh ist auf Tom gesprungen.	Ant Tomo užšoko blusa.
 deu	lit	Ein Hund rennt.	Šuo bėga.
+deu	lit	Ein Kaffee war mein Frühstück.	Kava buvo mano pusryčiai.
+deu	lit	Ein kleines Mädchen steht auf dem Klavier.	Prie fortepijono stovi maža mergaitė.
+deu	lit	Ein kleines Mädchen steht auf dem Klavier.	Prie pianino stovi maža mergaitė.
 deu	lit	Erdoğan ist der Präsident der Türkei.	Erdoganas yra Turkijos prezidentas.
 deu	lit	Er ging angeln.	Ji išėjo žvejoti.
 deu	lit	Er hat graues Haar.	Jo plaukai žili.
 deu	lit	Er ist der Besitzer dieses Hotels.	Jis yra šito viešbučio savininkas.
+deu	lit	Er ist meine rechte Hand.	Jis yra mano dešinioji ranka.
 deu	lit	Er ist nicht ehrlich.	Jis yra nedoras.
 deu	lit	Er ist nicht ehrlich.	Jis yra negarbingas.
 deu	lit	Er ist nicht ehrlich.	Jis yra nesąžiningas.
 deu	lit	Er ist Pfarrer.	Jis yra klebonas.
 deu	lit	Er ist Pfarrer.	Jis yra kunigas.
 deu	lit	Er ist Pfarrer.	Jis yra pastorius.
+deu	lit	Er ist schon zehn Jahre alt.	Jis jau dešimties metų.
+deu	lit	Er ist schon zehn Jahre alt.	Jis jau dešimtmetis.
 deu	lit	Er ist stolz auf seine Arbeit.	Jis savo darbu didžiuojasi.
 deu	lit	Er ist vor zwei Jahren ins Ausland gegangen.	Jis prieš du metus išvyko į užsienį.
+deu	lit	Er kocht besser als du.	Jis gamina geriau už tave.
+deu	lit	Er kocht besser als du.	Jis verda geriau už tave.
+deu	lit	Er saß auf dem Kai.	Jis sėdėjo krantinėje.
+deu	lit	Er spielt Harfe.	Jis skambina arfa.
 deu	lit	Er verlor Maria.	Jis neteko Marijos.
 deu	lit	Er verlor Maria.	Jis prarado Mariją.
+deu	lit	Er wohnt mitten in der Stadt.	Jis gyvena vidury miesto.
 deu	lit	Es gab Schneeregen.	Buvo šlapdriba.
+deu	lit	Es gefällt mir nicht, was hier geschieht.	Man nepatinka tai, kas čia vyksta.
 deu	lit	Es ist bald Sommer.	Greitai vasara.
 deu	lit	Es ist bald Sommer.	Netrukus vasara.
 deu	lit	Es ist ein Henne-Ei-Problem.	Tai vištos ir kiaušinio problema.
@@ -122,11 +181,14 @@ deu	lit	Es scheint, dass Tom Lehrer werden will.	Atrodo, kad Tomas nori būti mo
 deu	lit	Es scheint, dass Tom Lehrer werden will.	Atrodo, kad Tomas nori tapti mokytoju.
 deu	lit	Es sind insgesamt fünf.	Iš viso yra penki.
 deu	lit	Es sind insgesamt fünf.	Viso labo yra penki.
+deu	lit	Esther kam in einem Kibbuz zur Welt.	Estera gimė kibuce.
 deu	lit	Es war einer der heißesten Tage des Jahres.	Tai buvo šilčiausia metų diena.
+deu	lit	Es war im Jahr 1989.	Tai buvo 1989 metais.
 deu	lit	Es war lediglich eine Frage der Zeit.	Tai buvo tik laiko klausimas.
 deu	lit	Es war lediglich eine Frage der Zeit.	Tai buvo vien tik laiko klausimas.
 deu	lit	Es war nicht hübsch.	Tai buvo negražu.
 deu	lit	Es war wirklich langweilig.	Tai buvo tikrai nuobodu.
+deu	lit	Eure Variante gefällt mir besser.	Jūsų variantas man labiau patinka.
 deu	lit	Frischkäse ist weiß.	Šviežias sūris yra baltas.
 deu	lit	Früher war hier eine Schule.	Anksčiau čia buvo mokykla.
 deu	lit	Früher war hier eine Schule.	Seniau čia buvo mokykla.
@@ -134,10 +196,13 @@ deu	lit	Für mich geht Familie über alles.	Man šeima svarbiausia.
 deu	lit	Gedulden Sie sich bitte!	Palaukite, prašau!
 deu	lit	Gedulden Sie sich bitte!	Prašau, turėkite kantrybės!
 deu	lit	Geh jetzt schlafen!	Eik dabar miegoti!
+deu	lit	Gestern habe ich ein Buch gelesen.	Vakar aš skaičiau knygą.
 deu	lit	Gib mir deine andere Hand.	Duok man kitą ranką.
 deu	lit	Gib mir ein, zwei Tage.	Duok man vieną ar dvi dienas.
 deu	lit	Guck mal! Da draußen ist Tom. Was macht der denn hier?	Nagi pažiūrėk! Ten lauke yra Tomas. Ką gi jis čia daro?
 deu	lit	Guck mal! Da draußen ist Tom. Was macht der denn hier?	Nagi pažvelk! Ten lauke yra Tomas. Ką gi jis čia veikia?
+deu	lit	Habe ich alles richtig gemacht?	Ar aš viską darau teisingai?
+deu	lit	Haben Sie Bargeld?	Ar turite grynųjų pinigų?
 deu	lit	Haben Sie einen Vierteldollar?	Gal turite ketvirtį dolerio?
 deu	lit	Hast du am Montag nicht frei?	Ar pirmadienį tu nesi laisvas?
 deu	lit	Hast du ein Beispiel für mich?	Ar tu man turi pavyzdį?
@@ -147,43 +212,77 @@ deu	lit	Heute ist die Hochzeit meiner Schwester.	Šiandien mano sesers vestuvės
 deu	lit	Heutzutage müssen wir Sonnenenergie nutzen.	Dabar turime naudoti saulės energiją.
 deu	lit	Heutzutage müssen wir Sonnenenergie nutzen.	Šiais laikais turime naudoti saulės energiją.
 deu	lit	Heutzutage müssen wir Sonnenenergie nutzen.	Šiuo metu turime naudoti saulės energiją.
+deu	lit	Hier ist das Leben teuer.	Čia gyvenimas brangus.
+deu	lit	Hier ist es immer regnerisch.	Čia visada yra lietinga.
+deu	lit	Hören Sie, wie sie singt?	Jūs girdite, kaip ji dainuoja?
+deu	lit	Hörst du, wie sie singt?	Tu girdi, kaip ji dainuoja?
+deu	lit	Hört ihr, wie sie singt?	Jūs girdite, kaip ji dainuoja?
 deu	lit	Ich bin eine waschechte Japanerin.	Aš esu tikra japonė.
+deu	lit	Ich bin Kellnerin.	Aš esu padavėja.
 deu	lit	Ich bin noch nicht alt.	Aš dar nesenas.
 deu	lit	Ich bin total betrunken.	Aš visai girtas.
 deu	lit	Ich bin total betrunken.	Aš visiškai girtas.
+deu	lit	Ich fahre mit dem Motorrad.	Aš važiuoju motociklu.
 deu	lit	Ich finde nicht, dass Tom recht hat.	Aš nemanau, kad Tomas teisus.
 deu	lit	Ich fuhr über die Brücke.	Aš važiavau per tiltą.
 deu	lit	Ich gehe selten einkaufen.	Aš retai einu apsipirkti.
 deu	lit	Ich gehe selten einkaufen.	Aš retai einu pirkti.
+deu	lit	Ich glaube, das ist ein Fehler.	Aš manau, kad tai yra klaida.
 deu	lit	Ich glaube deinen Worten.	Aš tikiu tavo žodžiu.
 deu	lit	Ich glaube, dieses Buch ist noch nicht ins Französische übersetzt worden.	Aš manau, kad šita knyga dar nebuvo išversta į prancūzų kalbą.
+deu	lit	Ich glaube, ich habe dich missverstanden.	Manau, kad aš tave neteisingai supratau.
 deu	lit	Ich glaube, wir drehen uns im Kreis.	Aš manau, kad mes einame ratu.
 deu	lit	Ich glaube, wir drehen uns im Kreis.	Aš manau, kad mes sukame ratu.
 deu	lit	Ich habe drei ältere Brüder.	Aš turiu tris vyresnius brolius.
+deu	lit	Ich habe einen Satz an die Tafel geschrieben.	Aš ant lentos parašiau sakinį.
 deu	lit	Ich habe große Angst vor Spinnen.	Aš labai bijau vorų.
 deu	lit	Ich habe Hosenträger.	Aš nešioju petnešas.
 deu	lit	Ich habe ihn nicht erwürgt.	Aš jo nesmaugiau.
 deu	lit	Ich habe keine Französisch Bücher.	Aš jokių prancūziškų knygų neturiu.
 deu	lit	Ich habe keinen Bruder, aber eine Schwester.	Aš neturiu nė vieno brolio, bet turiu vieną seserį.
 deu	lit	Ich habe keinen Kaffee getrunken.	Aš negėriau kavos.
+deu	lit	Ich habe kein Haus, wohin ich zurückkehren könnte.	Aš neturiu namų, kur galėčiau sugrįžti.
 deu	lit	Ich habe Kopfschmerzen. Ich werde mich hinlegen.	Man skauda galvą. Aš atsigulsiu.
 deu	lit	Ich habe mein Wort immer gehalten.	Aš visada laikiausi savo žodžio.
 deu	lit	Ich habe mein Wort immer gehalten.	Aš visada savo žodį tesėjau.
 deu	lit	Ich habe viel Freizeit.	Aš turiu daug laisvo laiko.
+deu	lit	Ich heiße Marina.	Mano vardas Marina.
+deu	lit	Ich heule jedesmal.	Aš kiekvieną kartą verkiu.
+deu	lit	Ich klingelte mehrmals.	Aš kelis kartus paskambinau.
+deu	lit	Ich klingelte mehrmals.	Aš kelis kartus skambinau.
+deu	lit	Ich komme aus der Bibliothek.	Aš einu iš bibliotekos.
 deu	lit	Ich könnte dich begleiten.	Aš galėčiau tave palydėti.
+deu	lit	Ich lehre schon seit über 15 Jahren.	Aš dėstau daugiau nei penkiolika metų.
+deu	lit	Ich lehre schon seit über 15 Jahren.	Aš mokau daugiau nei penkiolika metų.
 deu	lit	„Ich lerne Japanisch.“ – „Echt? Na Donnerwetter!“	"Aš studijuoju japonų kalbą." - "Tikrai? Kad tave velniai!"
+deu	lit	Ich lerne Kurdisch.	Aš mokausi kurdų kalbos.
+deu	lit	Ich liebe meine Enkel.	Aš myliu savo anūką.
+deu	lit	Ich mache für niemanden eine Ausnahme.	Aš niekam nedarau išimčių.
 deu	lit	Ich mag Pizzaduft.	Aš mėgstu malonų picos kvapą.
 deu	lit	Ich mag Pizzaduft.	Aš mėgstu picos aromatą.
 deu	lit	Ich mag Pizzaduft.	Man patinka malonus picos kvapas.
 deu	lit	Ich mag Pizzaduft.	Man patinka picos aromatas.
+deu	lit	Ich mag Schweine- und Hühnerfleisch.	Aš mėgstu kiaulieną ir vištieną.
+deu	lit	Ich mag Tiere, außer Katzen.	Aš mėgstu gyvūnus, išskyrus kates.
 deu	lit	Ich möchte Spaghetti essen.	Man norisi spagečių valgyti.
+deu	lit	Ich möchte wissen, wo ich Obst kaufen kann.	Aš noriu sužinoti, kur galima vaisių nusipirkti.
 deu	lit	Ich muss dorthin gehen, wohin Tom mich schickt.	Aš turiu ten eiti, kur mane Tomas siunčia.
 deu	lit	Ich sagte dir, dass ich es nicht tun könne.	Aš tau sakau, kad negaliu to padaryti.
 deu	lit	Ich sammle alles.	Aš viską renku.
+deu	lit	Ich sehe selten Dokumentarfilme.	Aš retai žiūriu dokumentinius filmus.
+deu	lit	Ich spreche mit meinen Kindern Französisch.	Aš su savo vaikais kalbu prancūziškai.
 deu	lit	Ich spreche Sorbisch.	Aš kalbu sorbų kalba.
 deu	lit	Ich vermisse Australien sehr.	Aš labai išsiilgau Australijos.
 deu	lit	Ich vermisse Australien sehr.	Aš labai pasiilgau Australijos.
+deu	lit	Ich verstehe nicht ganz, was sie sagt.	Aš visai nesuprantu, ką ji sako.
 deu	lit	Ich war gestern nicht zu Hause.	Aš vakar nebuvau namuose.
+deu	lit	Ich weiß, dass du das nicht machen kannst.	Aš žinau, kad tu negali to padaryti.
+deu	lit	Ich weiß, dass du das nicht tun kannst.	Aš žinau, kad tu negali to padaryti.
+deu	lit	Ich weiß, dass ihr das nicht machen könnt.	Aš žinau, kad jūs negalite to padaryti.
+deu	lit	Ich weiß, dass ihr das nicht tun könnt.	Aš žinau, kad jūs negalite to padaryti.
+deu	lit	Ich weiß, dass Sie das nicht machen können.	Aš žinau, kad jūs negalite to padaryti.
+deu	lit	Ich weiß, dass Sie das nicht tun können.	Aš žinau, kad jūs negalite to padaryti.
+deu	lit	Ich weiß nicht, ob Tom ein Arzt ist.	Aš nežinau, ar Tomas yra gydytojas.
 deu	lit	Ich weiß nicht, wo dein Regenschirm ist.	Aš nežinau, kur tavo lietsargis.
 deu	lit	Ich weiß nicht, wo dein Regenschirm ist.	Aš nežinau, kur tavo skėtis.
 deu	lit	Ich weiß, was wahr ist und was nicht.	Aš žinau, kas yra tikra, o kas ne.
@@ -196,18 +295,29 @@ deu	lit	Ich wollte ihn überraschen.	Aš norėjau jį netikėtai užtikti.
 deu	lit	Ich wollte ihn überraschen.	Aš norėjau jį nustebinti.
 deu	lit	Ich wollte ihn überraschen.	Aš norėjau jį užklupti.
 deu	lit	Ihm gehört dieses Hotel.	Jam priklauso šitas viešbutis.
+deu	lit	Ihre Theorie basiert auf Fakten.	Jos teorija pagrįsta faktais.
+deu	lit	Ihre Theorie basiert auf Tatsachen.	Jos teorija pagrįsta faktais.
+deu	lit	Ihre Variante gefällt mir besser.	Jūsų variantas man labiau patinka.
 deu	lit	Ihr müsst es wissen.	Jūs turite tai mokėti.
 deu	lit	Ihr müsst es wissen.	Jūs turite tai žinoti.
 deu	lit	Ihr seid Männer.	Jūs esate vyrai.
+deu	lit	Im Sommer ist es warm und sonnig.	Vasarą yra šilta ir saulėta.
+deu	lit	In deinem Alter hatte ich schon eine Familie.	Tavo metų aš jau turėjau šeimą.
 deu	lit	In der Schule hat mir Französisch Spaß gemacht.	Mokykloje aš mėgau prancūzų kalbą.
 deu	lit	In der Schule hat mir Französisch Spaß gemacht.	Mokykloje man patiko prancūzų kalba.
 deu	lit	In dieser Kneipe sind immer viele Studenten.	Šitoje alinėje visada daug studentų.
 deu	lit	In dieser Kneipe sind immer viele Studenten.	Šitoje alinėje visuomet daug studentų.
+deu	lit	In unserer Klasse sind 30 Schüler.	Mūsų klasėje yra trisdešimt mokinių.
+deu	lit	Irgendwann hat alles ein Ende.	Viskas kada nors turi pabaigą.
+deu	lit	Ist das eine Milchkuh?	Ar tai melžiama karvė?
 deu	lit	Ist das Haus versichert?	Ar namas apdraustas?
+deu	lit	Ist es hier immer so heiß?	Ar visada čia taip karšta?
 deu	lit	Ist heute Sonntag?	Ar šiandien sekmadienis?
 deu	lit	Ist heute Zahltag?	Šiandien atlyginimo diena?
 deu	lit	Ist heute Zahltag?	Šiandien atlyginimo mokėjimo diena?
 deu	lit	Ist heute Zahltag?	Šiandien mokėjimo diena?
+deu	lit	Ja, aber das spielt keine Rolle.	Taip, bet tai nesvarbu.
+deu	lit	Ja, aber das spielt keine Rolle.	Taip, bet tai nevaidina jokio vaidmens.
 deu	lit	Jede Generation hat ihre Idole.	Kiekviena karta turi savo dievaitį.
 deu	lit	Jede Generation hat ihre Idole.	Kiekviena karta turi savo stabą.
 deu	lit	Jeder ist seines Schicksals Schmied.	Kiekvienas yra savo likimo kalvis.
@@ -216,15 +326,28 @@ deu	lit	Jeder Mensch hat seinen Charakter, und sein Charakter ist sein Schicksal
 deu	lit	Jeder Mensch hat seinen Charakter, und sein Charakter ist sein Schicksal.	Kiekvienas žmogus turi savo charakterį, o charakteris yra jo likimas.
 deu	lit	Jedes Mal wenn ich kam, lag Tom in seinem Bett.	Kiekvieną kartą, kada aš ateidavau, Tomas gulėdavo savo lovoje.
 deu	lit	Jemand ist vor uns hier gewesen.	Kažkas prieš mus čia buvo.
+deu	lit	Jetzt ist nicht die Zeit für Halbheiten.	Dabar ne laikas neryžtingumui.
 deu	lit	Kann ich es wirklich riskieren?	Ar aš iš tikrųjų galiu rizikuoti?
 deu	lit	Kannst du auch auf Französisch zählen?	Ar tu taip pat gali prancūziškai skaičiuoti?
+deu	lit	Kannst du mir sagen, wo du gerade bist?	Ar gali man pasakyti, kur tu dabar esi?
+deu	lit	Karoline springt von einem Thema zum anderen.	Karolina šokinėja nuo vienos temos prie kitos.
 deu	lit	Katzen haben zwei Augen.	Katės turi dvi akis.
+deu	lit	Kleines Kind, große Schüssel, großer Löffel.	Mažas vaikas, didelis dubenėlis, didelis šaukštas.
 deu	lit	Komm runter zum Essen!	Lipk žemyn valgyti!
 deu	lit	Komm runter zum Essen!	Nusileisk valgyti!
+deu	lit	Korruption und Politik sind Geschwister.	Korupcija ir politika yra broliai.
+deu	lit	Krabben und Garnelen sind Schalentiere.	Krabai ir krevetės yra vėžiagyviai.
 deu	lit	Künstliche Intelligenz verändert die Welt.	Dirbtinis intelektas keičia pasaulį.
 deu	lit	Künstliche Intelligenz verändert die Welt.	Dirbtinis protas keičia pasaulį.
 deu	lit	Lass mich hier nicht alleine!	Nepalik manęs čia vieno!
 deu	lit	Leben in Österreich Pekingenten?	Ar Austrijoje yra pekino ančių?
+deu	lit	Lernst du überhaupt?	Aplamai, ar tu mokaisi?
+deu	lit	Lernst du überhaupt?	Apskritai, ar tu mokaisi?
+deu	lit	Lernst du überhaupt?	Iš viso, ar tu mokaisi?
+deu	lit	„Magst du Schokoladen?“ – „Ich esse keine Süßigkeiten.“	"Ar tu mėgsti šokoladą?" - "Aš nevalgau saldumynų."
+deu	lit	„Magst du Schokoladen?“ – „Ich esse keine Süßigkeiten.“	"Tau patinka šokoladas?" - "Aš nevalgau saldumynų."
+deu	lit	Maria ist ein bescheidenes Mädchen.	Marija yra kukli mergaitė.
+deu	lit	Maria ist ein bescheidenes Mädchen.	Marija yra kukli mergina.
 deu	lit	Maria ist eine weltbekannte Künstlerin.	Marija yra visame pasaulyje žinoma menininkė.
 deu	lit	Maria ist freundlich.	Marija yra meili.
 deu	lit	Maria ist freundlich.	Marija yra miela.
@@ -235,46 +358,84 @@ deu	lit	Maria vermisst ihre Eltern.	Marija ilgisi savo tėvų.
 deu	lit	Maria war offensichtlich sauer.	Marija akivaizdžiai buvo nusiminusi.
 deu	lit	Maria war offensichtlich sauer.	Marija akivaizdžiai buvo prislėgta.
 deu	lit	Maria wäscht jede Woche ihr Auto.	Marija kiekvieną savaitę plauna savo automobilį.
+deu	lit	Maria zögerte nicht lange.	Marija neilgai dvejojo.
+deu	lit	Maria zögerte nicht lange.	Marija neilgai svyravo.
+deu	lit	Mäuse leben nicht sehr lange.	Pelės nelabai ilgai gyvena.
 deu	lit	Mein Computer hat eine französische Tastatur.	Mano kompiuteryje yra prancūziška klaviatūra.
 deu	lit	Mein Deutscher Schäferhund hieß Družok, das bedeutet „Kamerad“.	Mano vokiečių aviganį šunį vadino "Družok", kas reiškia "Draugužis".
 deu	lit	Meine Bettdecke ist mit Daunen gefüllt.	Mano antklodė yra pūkinė.
 deu	lit	Meine Bettdecke ist mit Daunen gefüllt.	Mano apklotas yra pūkinis.
+deu	lit	Meine Eltern sind fromme Katholiken.	Mano tėvai yra dievobaimingi katalikai.
+deu	lit	Meine Eltern sind fromme Katholiken.	Mano tėvai yra pamaldūs katalikai.
 deu	lit	Meine erste Lehrerin hieß Iracema.	Mano pirmoji mokytoja buvo vardu Iracema.
 deu	lit	Meine erste Lehrerin hieß Iracema.	Mano pirmoji mokytoja vadinosi Iracema.
+deu	lit	Meine Frau ist zu Hause.	Mano žmona namie.
+deu	lit	Meine Freunde und ich wollen in Südkorea arbeiten.	Aš ir mano draugai norime dirbti Pietų Korėjoje.
+deu	lit	Meine Großeltern sind tot.	Mano seneliai mirę.
+deu	lit	Meine Wohnung liegt im ersten Stock.	Mano butas yra pirmame aukšte.
 deu	lit	Mein Großvater hat diesen Baum gepflanzt.	Šitą medį pasodino mano senelis.
+deu	lit	Millie trinkt gar kein Wasser.	Milė negeria jokio vandens.
 deu	lit	Mir gefällt alles, was du tust.	Man viskas patinka, ką tu darai.
+deu	lit	Mit oder ohne Butter?	Su sviestu, ar be jo?
+deu	lit	Mögen Sie Schachspielen?	Ar tau patinka žaisti šachmatais?
+deu	lit	Mögen Sie Schachspielen?	Ar tu mėgsti žaisti šachmatais?
+deu	lit	Morgen hat Tom Geburtstag.	Rytoj bus Tomo gimtadienis.
 deu	lit	Nächstesmal mache ich es allein.	Sekantį kartą aš tą padarysiu pats.
 deu	lit	Nächstesmal mache ich es allein.	Sekantį kartą aš tą padarysiu vienas.
+deu	lit	Nebel rollte vom Meer landeinwärts.	Iš jūros rūkas ritosi į šalies gilumą.
 deu	lit	Nicht an den Nägeln kauen!	Nekramtyk nagų!
 deu	lit	Nilpferde sind Pferde, die im Nil leben.	Begemotas, kuris Nile gyvena.
 deu	lit	Nilpferde sind Pferde, die im Nil leben.	Hipopotamas, kuris Nile gyvena.
+deu	lit	Nur die Liebe zählt.	Tik meilė svarbi.
 deu	lit	O wie schön! Die Kirschbäume blühen schon!	Kaip gražu! Jau vyšnios žydi!
+deu	lit	Pilze stehen den Tieren näher als den Pflanzen.	Grybai yra arčiau gyvūnų nei augalų.
+deu	lit	Politiker leben jetzt wie Hochadelige früher.	Kaip seniau aristokratai, taip dabar politikai gyvena.
+deu	lit	Riecht ihr Rauch?	Ar užuodžiate dūmus?
+deu	lit	Robert Schumann war ein deutscher Komponist und Pianist.	Robertas Šumanas buvo vokiečių kompozitorius ir pianistas.
 deu	lit	Sami hat einen Bart.	Sami barzdotas.
 deu	lit	Sami hat einen Bart.	Sami yra su barzda.
+deu	lit	Sami hat ein Riesenkamel.	Sami turi didelį kupranugarį.
 deu	lit	Schwarzen Tee bitte.	Prašau juodos arbatos.
 deu	lit	Sei artig und schlaf weiter!	Būk paklusnus ir miegok toliau!
+deu	lit	Seine Kleidung stinkt nach Zigaretten.	Jo drabužiai dvokia cigaretėmis.
+deu	lit	Seine Theorie basiert auf Tatsachen.	Jo teorija pagrįsta faktais.
 deu	lit	Sein Vorname ist Tom.	Jo vardas Tomas.
+deu	lit	Sie gleicht einem Engel.	Ji panaši į angelą.
 deu	lit	Sie ist Äthiopierin.	Ji etiopė.
 deu	lit	Sie ist erst 20 Jahre alt.	Jai tiktai dvidešimt metų.
+deu	lit	Sie ist mittellos.	Ji neturi lėšų.
+deu	lit	Sie ist mittellos.	Ji yra neturtinga.
 deu	lit	Sie ist unglaublich hübsch.	Ji yra neįtikimai graži.
 deu	lit	Sie ist unglaublich hübsch.	Ji yra nepaprastai graži.
+deu	lit	Sie kocht besser als du.	Ji gamina geriau už tave.
+deu	lit	Sie kocht besser als du.	Ji verda geriau už tave.
 deu	lit	Sie spielt sehr gut Gitarre.	Ji labai gerai skambina gitara.
 deu	lit	Sie waren aufgeregt.	Jie buvo susijaudinę.
 deu	lit	Sprichst du Marathi?	Tu kalbi maratų kalba?
+deu	lit	Sprichst du persisch?	Ar tu kalbi persiškai?
 deu	lit	Stehlen ist böse.	Vogimas yra blogybė.
 deu	lit	Stehlen ist böse.	Vogti yra negerai.
 deu	lit	Stillen Sie Ihr Kind?	Ar tu savo vaiką žindai?
+deu	lit	Superman kann Eisen verbiegen.	Antžmogis gali lankstyti geležį.
+deu	lit	Superman kann Eisen verbiegen.	Antžmogis gali lenkti geležį.
+deu	lit	Thomas gab Maria die Schlüssel zurück.	Tomas raktus atidavė Marijai.
+deu	lit	Thomas hat Maria die Schlüssel zurückgegeben.	Tomas raktus atidavė Marijai.
 deu	lit	Tom begab sich flugs auf sein Zimmer.	Tomas beregint nulėkė į savo kambarį.
 deu	lit	Tom begab sich flugs auf sein Zimmer.	Tomas beregint nuskubėjo į savo kambarį.
 deu	lit	Tom begab sich flugs auf sein Zimmer.	Tomas tuojau nulėkė į savo kambarį.
 deu	lit	Tom begab sich flugs auf sein Zimmer.	Tomas tuojau nuskubėjo į savo kambarį.
 deu	lit	Tom belohnte Maria mit einem Kuss.	Tomas Marijai atsilygino bučiniu.
 deu	lit	Tom betrachtet die unruhige See.	Tomas žiūri į neramią jūrą.
+deu	lit	Tom fütterte das Eichhörnchen.	Tomas pamaitino voverę.
 deu	lit	Tom hat ein altes Auto.	Tomas turi seną automobilį.
 deu	lit	Tom hat ein Messer.	Tomas turi peilį.
 deu	lit	Tom hat mir das letzte Stück Kuchen gegeben.	Tomas man davė paskutinį pyrago gabaliuką.
 deu	lit	Tom hatte gestern Abend Fieber.	Tomas vakar vakare turėjo karščio.
 deu	lit	Tom hatte gestern Abend Fieber.	Vakar vakare Tomas karščiavo.
+deu	lit	Tom ist ein erfolgreicher Hautarzt.	Tomas yra sėkmingas odos ligų gydytojas.
+deu	lit	Tom ist einzigartig.	Tomas yra nepakartojamas.
+deu	lit	Tom ist einzigartig.	Tomas yra vienintelis.
+deu	lit	Tom ist etwa so alt wie ich.	Tomas yra maždaug tokio amžiaus kaip aš.
 deu	lit	Tom ist immer noch der Beste.	Tomas vis dar yra visų geriausias.
 deu	lit	Tom ist kein Außenseiter.	Tomas ne pašalietis.
 deu	lit	Tom ist kein Außenseiter.	Tomas ne pašalinis žmogus.
@@ -293,6 +454,7 @@ deu	lit	Tom ist offen für Maria.	Tomas yra nuoširdus Marijai.
 deu	lit	Tom kennt die Regeln, aber er hält sich nicht dran.	Tomas žino taisykles, bet jų nesilaiko.
 deu	lit	Tom läuft jeden Morgen vor dem Frühstück eine Runde.	Tomas, kiekvieną rytą prieš pusryčius, bėga vieną ratą.
 deu	lit	Tom redet, als wäre er Lehrer.	Tomas kalba, tarsi būtų mokytojas.
+deu	lit	Tom sagte mir, er habe aufgehört, sein Medikament zu nehmen.	Tomas man pasakė, kad nustojo vartoti vaistus.
 deu	lit	Tom schätzt die Wahrheit.	Tomas brangina teisybę.
 deu	lit	Tom schätzt die Wahrheit.	Tomas brangina tiesą.
 deu	lit	Tom schätzt die Wahrheit.	Tomas vertina teisybę.
@@ -302,6 +464,7 @@ deu	lit	Tom schaute nie zurück.	Tomas niekada nesižvalgė atgal.
 deu	lit	Tom schläft nicht wirklich.	Tomas neabejotinai nemiega.
 deu	lit	Tom schläft nicht wirklich.	Tomas tikrai nemiega.
 deu	lit	Tom schreibt selten an seine Großeltern.	Tomas retai rašo savo seneliams.
+deu	lit	Tom sieht aus wie ein Lehrer.	Tomas atrodo kaip mokytojas.
 deu	lit	Tom singt in seinem Zimmer.	Tomas dainuoja savo kambaryje.
 deu	lit	Toms Sohn macht Grimassen.	Tomo sūnus daro grimasas.
 deu	lit	Toms Sohn macht Grimassen.	Tomo sūnus rodo grimasas.
@@ -310,6 +473,7 @@ deu	lit	Tom übernachtete im Haus seiner Urgroßmutter.	Tomas pernakvojo savo pr
 deu	lit	Tom und Maria saßen nebeneinander.	Tomas ir Marija sėdėjo vienas šalia kito.
 deu	lit	Tom war ein guter Schüler.	Tomas buvo geras mokinys.
 deu	lit	Tom war ein guter Schüler.	Tomas buvo geras moksleivis.
+deu	lit	Tom war einmal mein Schwiegersohn.	Kadaise Tomas buvo mano žentas.
 deu	lit	Tom war immer glücklich.	Tomas visada buvo laimingas.
 deu	lit	Tom war immer glücklich.	Tomas visuomet buvo laimingas.
 deu	lit	Tom war kein guter Lehrer.	Tomas nebuvo geras mokytojas.
@@ -318,23 +482,37 @@ deu	lit	Tom war ziemlich gut.	Tomas buvo pakankamai geras.
 deu	lit	Tom will uns helfen.	Tomas nori mums padėti.
 deu	lit	Tom wurde eine gute Arbeit angeboten.	Tomui buvo pasiūlytas geras darbas.
 deu	lit	Traust du meinem Urteil nicht?	Tu nepasitiki mano nuomone?
+deu	lit	Um Mitternacht war es immer noch taghell.	Vidurnaktyje vis dar buvo šviesu kaip dieną.
 deu	lit	Und wer ist die Braut?	O kas yra jaunoji?
 deu	lit	Und wer ist die Braut?	O kas yra nuotaka?
 deu	lit	Unsere Liebe ist platonisch.	Mūsų meilė yra platoniška.
+deu	lit	Uns hilft Thomas fast nie.	Mums Tomas beveik niekada nepadeda.
+deu	lit	Viele Menschen kennen das Geheimnis.	Daug žmonių žino paslaptį.
+deu	lit	Viel Erfolg beim Japanischlernen!	Sėkmės mokantis japonų kalbos!
+deu	lit	Vorgestern war ein Unwetter.	Užvakar buvo audra.
+deu	lit	Vorgestern war ein Unwetter.	Užvakar buvo blogas oras.
 deu	lit	Warum dreht sich die Erde?	Kadėl žemė sukasi?
 deu	lit	Warum ist deine Schwester unsichtbar?	Kodėl tavo sesers nesimato?
 deu	lit	Warum ist deine Schwester unsichtbar?	Kodėl tavo sesuo nesirodo?
 deu	lit	Warum sind Pflanzen grün?	Kodėl augalai žali?
+deu	lit	Warum sitzt du auf dem Tisch?	Kodėl tu sėdi prie stalo?
+deu	lit	„Was ist das?“ – „Das ist ein Buch.“	"Kas tai?" - "Tai knyga."
 deu	lit	Was ist das Universum?	Kas yra visata?
 deu	lit	Was ist ein Blitzableiter?	Kas yra žaibolaidis?
 deu	lit	Was kostet eine Dose Bier?	Kiek kainuoja dėžė alaus?
 deu	lit	Was kostet eine Dose Bier?	Kiek kainuoja skardinė alaus?
+deu	lit	Weißt du, was ich weiß?	Ar tu žinai, ką aš žinau?
+deu	lit	Welche Farbe hat das Schwarze Meer?	Kokios spalvos yra Juodoji jūra?
 deu	lit	„Welche ist deine Tasche?“ – „Die grüne ist meine, die gelbe die meiner Schwester.“	"Kuris tavo krepšelis?" - "Žalias mano, o geltonas mano sesers."
+deu	lit	Welches der Fahrräder gehört Tom?	Kuris dviratis priklauso Tomui?
+deu	lit	Welches der Fahrräder ist Toms?	Kuris Tomo dviratis?
+deu	lit	Welches ist das größte Tier der Erde?	Koks yra didžiausias gyvūnas žemėje?
 deu	lit	Wer ist älter, dein Vater oder deine Mutter?	Kuris vyresnis, tavo tėvas ar tavo motina?
 deu	lit	Wer ist dieses schöne Mädchen?	Kas ta graži mergina?
 deu	lit	Wie alt ist jener Junge?	Kokio amžiaus anas vaikinas?
 deu	lit	Wie alt ist jener Junge?	Kokio amžiaus tas vaikinas?
 deu	lit	Wie arbeitet der neue Mitarbeiter?	Kaip dirba naujas bendradarbis?
+deu	lit	Wie komme ich von hier aus nach Boston?	Kaip iš čia nuvykti į Bostoną?
 deu	lit	Wieso sind Spinnen keine Insekten?	Kodėl vorai nėra vabzdžiai?
 deu	lit	Wieviele Schafe sind in dieser Herde?	Kiek avių yra šitoje bandoje?
 deu	lit	Wie war der Flug?	Kaip praėjo skrydis?
@@ -351,5 +529,13 @@ deu	lit	Wir müssen zurückgehen.	Mes turime atsitraukti.
 deu	lit	Wir paddelten den Fluss hinunter.	Mes baidare irklavome žemyn upe.
 deu	lit	Wir sind auf einer Insel.	Mes esame saloje.
 deu	lit	Wir sind bei Tom geblieben.	Mes likome su Tomu.
+deu	lit	Wir wissen noch nicht.	Mes dar nežinome.
+deu	lit	Wir wussten nicht, was wir sagen sollten.	Mes nežinojome, ką pasakyti.
+deu	lit	Wir wussten nicht, was wir sagen sollten.	Mes nežinojome, ką sakyti.
 deu	lit	„Woher kommst du?“ – „Von zu Hause.“	"Iš kur tu eini?" - "Iš namų."
+deu	lit	Wo ist meine Schubkarre?	Kur mano karutis?
+deu	lit	Woran denkt Christian?	Apie ką Kristianas galvoja?
 deu	lit	Wo versteckst du dich jetzt?	Kur dabar slepiesi?
+deu	lit	Wow! Perfekt.	Oho! Puikiai.
+deu	lit	Wow! Perfekt.	Oho! Tobulai.
+deu	lit	Ziri war ein kleiner Junge.	Ziri buvo mažas berniukas.

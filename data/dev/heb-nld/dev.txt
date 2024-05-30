@@ -15,8 +15,8 @@ heb	nld	אבל מה הקשר בין זה לבין טטואבה?	Maar wat heeft d
 heb	nld	אגיד לו את זה אם לא אשכח.	Ik zal het hem zeggen, als ik het niet vergeet.
 heb	nld	אגנס הביטה בסירות החומות.	Agnès keek naar de bruine boten.
 heb	nld	אדוארדו צעיר מרוברטו.	Eduardo is jonger dan Roberto.
-heb	nld	אדון על כך איתו אם ישוב.	Ik zal dat met hem bespreken als hij nog eens komt.
 heb	nld	אדוני רכש תוכי.	U heeft een ara gekocht.
+heb	nld	אדון על כך איתו אם ישוב.	Ik zal dat met hem bespreken als hij nog eens komt.
 heb	nld	אדם זר פנה אלי באוטובוס.	Een vreemde sprak mij aan op de bus.
 heb	nld	אדם חייב לשמור על חוקי התנועה.	Men moet zich aan de verkeersregels houden.
 heb	nld	אדם לא מוכר פסע הלוך ושוב על המשעול.	Een onbekende man stapte op het voetpad heen en weer.
@@ -49,6 +49,7 @@ heb	nld	אומרים שיש ביער הזה רוחות רפאים.	Men zegt dat 
 heb	nld	אופניה טובים מאופני.	Haar fiets is beter dan de mijne.
 heb	nld	אופני הם המודל החדש ביותר.	Ik heb het nieuwste model fiets.
 heb	nld	אופניים יחלידו אם תשאיר אותם חשופים לגשם.	Een fiets zal roesten als ge hem in de regen laat staan.
+heb	nld	אופניים מהירות יותר ממכונית.	Een fiets is sneller dan een auto.
 heb	nld	אופניך טובים מאופני.	Uw fiets is beter dan de mijne.
 heb	nld	אופני נגנבו.	Mijn fiets is gestolen.
 heb	nld	אוצר המילים של אספרנטו הוא גדול ביותר, למרות שיחסית דרושות מילים ספורות בלבד ללמוד אותן בהשוואה למילים בשפות טבעיות.	De woordenschat van het Esperanto is de grootste, alhoewel er relatief zeer weinig woorddelen moeten vanbuiten geleerd worden in vergelijking met de woorden van de natuurlijke talen.
@@ -130,13 +131,13 @@ heb	nld	איך אתה מעז להגיד את זה.	Hoe durf je dat te zeggen.
 heb	nld	איך אתה מרגיש?	Hoe voel je je?
 heb	nld	איך אתה מרגיש היום?	Hoe voelt ge u vandaag?
 heb	nld	איך המרגש היום אצלך?	Hoe gaat het vandaag met je?
+heb	nld	איכות חשובה יותר מכמות.	Kwaliteit is belangrijker dan kwantiteit.
 heb	nld	איך מאייתים "pretty"?	Hoe schrijf je "pretty"?
 heb	nld	איך מבטאים את שמה של הסמטה שלך?	Hoe wordt de naam van je laan uitgesproken?
 heb	nld	איך נקרא הרחוב הזה?	Hoe heet deze straat?
 heb	nld	איך נתקוף את הבעיה?	Hoe gaan we dat aanpakken?
-heb	nld	איך קוראים לציפור הזאת?	Hoe noem je deze vogel?
-heb	nld	איכות חשובה יותר מכמות.	Kwaliteit is belangrijker dan kwantiteit.
 heb	nld	איכפת לך אם אפתח את הדלת?	Vindt u het goed als ik de deur opendoe?
+heb	nld	איך קוראים לציפור הזאת?	Hoe noem je deze vogel?
 heb	nld	אילו יתרונות וחסרונות יש לנעורים?	Welke voor- en nadelen heeft het jong zijn?
 heb	nld	אילו שפות מדוברות בקוראה?	Welke talen worden in Korea gesproken?
 heb	nld	אילצו אותו להתפטר.	Hij is gedwongen ontslag te nemen.
@@ -152,7 +153,10 @@ heb	nld	אין טעם לבקש ממני כסף.	Het heeft geen zin om me om geld
 heb	nld	אין יותר מה לאכול.	Er is niets meer om te eten.
 heb	nld	אין ילדה יפה יותר מלינדה בכיתתי.	Geen meisje in mijn klas is mooier dan Linda.
 heb	nld	אין ילדה יפה מלינדה בכיתה.	Geen meisje in mijn klas is mooier dan Linda.
+heb	nld	אינך יכול להעלות על דעתך כמה אני מאושר.	Je kunt je niet inbeelden hoe gelukkig ik ben.
+heb	nld	אינך יכול לשים קץ לחייך על ידי עצירת הנשימה.	Ge kunt uzelf niet doden door de adem in te houden.
 heb	nld	אין כמו בבית.	Oost, west, thuis best.
+heb	nld	אינך מיומן.	Je bent niet bekwaam.
 heb	nld	אין לגעת בדבר בלי רשות מוקדמת.	Niets aanraken zonder eerst toestemming te vragen.
 heb	nld	אין לה אויבים.	Zij heeft geen vijanden.
 heb	nld	אין להכחיש שהוא אשם.	Het kan niet ontkend worden dat hij schuldig is.
@@ -173,20 +177,14 @@ heb	nld	אין לי פחות מארבעה אחים.	Ik heb niet minder dan vier 
 heb	nld	אין לך כסף?	Heb je geen geld?
 heb	nld	אין לך מה לפחד.	Je hoeft niet bang te zijn.
 heb	nld	אין לך מושג כמה אני מאושרת.	Je kunt je niet inbeelden hoe gelukkig ik ben.
+heb	nld	אין לכם מה לפחד.	Je hoeft niet bang te zijn.
 heb	nld	אין לך שום כישורים?	Heb je helemaal geen vaardigheden?
 heb	nld	אין לך שמץ של מושג מה הפסדת.	Je hebt er geen idee van wat je gemist hebt.
-heb	nld	אין לכם מה לפחד.	Je hoeft niet bang te zijn.
 heb	nld	אין לנו פנאי.	We hebben geen tijd.
 heb	nld	אין מילים בפי.	Ik heb er geen woorden voor.
 heb	nld	אין מילים בפי להביע את תודתי.	Ik vind niet de juiste woorden om mijn dank uit te drukken.
 heb	nld	אין מי שתיה.	Er is geen drinkbaar water.
 heb	nld	אין ממה להיבהל.	Er is niets om schrik van te hebben.
-heb	nld	אין שום ספק לגבי מי שייבחר.	Er bestaat geen twijfel over wie er gekozen zal worden.
-heb	nld	אין שועל תמים. באותה מידה אין אדם שאינו טועה.	Er bestaat geen naieve vos. Op dezelfde manier bestaat er ook geen mens die zich nooit vergist.
-heb	nld	אין תועלת להגות בדבר שום זמן נוסף.	Het heeft geen zin om nog langer na te denken.
-heb	nld	אינך יכול להעלות על דעתך כמה אני מאושר.	Je kunt je niet inbeelden hoe gelukkig ik ben.
-heb	nld	אינך יכול לשים קץ לחייך על ידי עצירת הנשימה.	Ge kunt uzelf niet doden door de adem in te houden.
-heb	nld	אינך מיומן.	Je bent niet bekwaam.
 heb	nld	איננו יכולים לחיות בלי אוויר.	We kunnen niet leven zonder lucht.
 heb	nld	אינני אוהב להשתמש בשרות התרגום של גוגל.	Ik gebruik Google Translate niet graag.
 heb	nld	אינני אזרח ארצות הברית.	Ik ben geen VS-burger.
@@ -243,6 +241,9 @@ heb	nld	אינני רוצה לעשות זאת כי זה מסוכן וטפשי.	I
 heb	nld	אינני שונאת אותו.	Ik haat hem niet.
 heb	nld	אינני תומך בגישה לפיה אדם נזקק ללטינית כדי להבין אנגלית יותר טוב.	Ik ben geen aanhanger van de theorie dat je Latijn moet leren om Engels beter te begrijpen.
 heb	nld	אינני תמימת דעים עם זה.	Ik ben daar niet mee eens.
+heb	nld	אין שום ספק לגבי מי שייבחר.	Er bestaat geen twijfel over wie er gekozen zal worden.
+heb	nld	אין שועל תמים. באותה מידה אין אדם שאינו טועה.	Er bestaat geen naieve vos. Op dezelfde manier bestaat er ook geen mens die zich nooit vergist.
+heb	nld	אין תועלת להגות בדבר שום זמן נוסף.	Het heeft geen zin om nog langer na te denken.
 heb	nld	איסטנבול היא העיר שהכי מוצאת חן בעיניהם.	Istanboel is de stad die zij het leukste vindt.
 heb	nld	איפה אני יכול לתת את השעון שלי לתיקון?	Waar kan ik mijn horloge laten repareren?
 heb	nld	איפה את?	Waar ben je?
@@ -348,15 +349,18 @@ heb	nld	אל תשקר לעולם.	Lieg nooit!
 heb	nld	אל תתאבל יותר מדי על אובדן אהובתך.	Rouw niet te lang over het verlies van uw geliefde.
 heb	nld	אל תתחוב את אפך בעניינים שאינם נוגעים לך!	Bemoei je met je eigen zaken!
 heb	nld	אל תתן את ידך לאריה.	Geef geen hand aan een leeuw.
-heb	nld	אל תתן לכלב לישון במיטה שלנו.	Laat de hond niet op ons bed slapen.
 heb	nld	אל תתני את זה לאיש.	Geeft u dat aan niemand.
+heb	nld	אל תתן לכלב לישון במיטה שלנו.	Laat de hond niet op ons bed slapen.
 heb	nld	אל תתפרץ לדבריהם של זקנים.	Val geen ouderen in de rede.
+heb	nld	אמא בחרה בווילון הזה.	Mama heeft dit gordijn gekozen.
+heb	nld	אמא חששה שאתלכלך.	Moeder was bang dat ik vies zou worden.
 heb	nld	אם אינך יכול לעשות את מה שאתה חפץ, עשה את מה שאתה יכול.	Als je niet kunt doen wat je wil, dan doe je wat je kan.
 heb	nld	אם אינני טועה, זה בלתי אפשרי.	Als ik mij niet vergis, is dat niet mogelijk.
 heb	nld	אם איש לא מעוניין בעוגיות, אוכל אותן אני.	Als niemand de koekjes wil eten, zal ik ze nemen.
 heb	nld	אם אלך לעולמי, מי ידאג לילדים שלי?	Als ik zou overlijden, wie zou er dan voor mijn kinderen zorgen?
 heb	nld	אם אמצא את הדרכון שלך, אקרא לך.	Als ik je paspoort vind, zal ik je roepen.
 heb	nld	אם אני מבקר במדינה אחרת, אני אוכל שם הכל, אני לומד קצת את השפה, לפחות כמה משפטים. בדרך זו אני מרגיש יותר בבית, ומאושר יותר, בהשוואה למרבית התיירים בני ארצנו.	Als ik een ander land bezoek, eet ik daar alles, ik leer de taal een beetje, minstens enkele zinnen. Op die manier voel ik me er meer thuis, en gelukkiger, in vergelijking met de meerderheid van mijn reizende landgenoten.
+heb	nld	אמא שלי יודעת איך את אופה עוגות.	Mijn moeder weet hoe je taarten maakt.
 heb	nld	אם אתה באמת רוצה לדבר איתי, זה עכשיו או לעולם לא.	Als je echt met me spreken wilt, is het nu of nooit.
 heb	nld	אם אתה זקוק למטריה, תוכל לשאול אחת.	Als ge een paraplu nodig hebt, kunt ge er een lenen.
 heb	nld	אם אתה רוצה להיות סופר טוב, עליך להתאמן בכתיבה.	Als je een goede schrijver wilt worden, moet je het schrijven oefenen.
@@ -371,25 +375,18 @@ heb	nld	אם הייתה לך אמונה בגודל של זרעון חרדל, ש�
 heb	nld	אם הכדור פוגע בכל מקום חוץ מבראשך או ידיך, אתה נפסל.	Als de bal je ergens anders dan op je hoofd of je handen raakt, ben je af.
 heb	nld	אם הלוות למישהו 20 שקל ואחר כך לעולם לא תראה אותו יותר, אז זה היה כדאי.	Als je iemand $20 uitleent en je ziet die persoon daarna nooit meer, dan was het dat waarschijnlijk waard.
 heb	nld	אם הם היו יודעים מה הכתובת שלך, הם היו כותבים לך.	Als ze uw adres kende, zou ze u schrijven.
+heb	nld	אמו נפטרה ארבע שנים מאוחר יותר.	Zijn moeder stierf vier jaar later.
 heb	nld	אם זה כדאי, עשה זאת.	Als het de moeite waard is om te doen, doe het dan goed.
+heb	nld	אמי יפיפיה.	Mijn moeder is mooi.
+heb	nld	אמי לא ראתה את הילד ברחוב.	Mijn moeder heeft de jongen op straat niet gezien.
 heb	nld	אם לא הכרת אותי כך, לא הכרת אותי בכלל.	Als u me zo niet kende, dan kende u me überhaupt niet.
 heb	nld	אם מישהו היה שואל על מה מדובר בסיפור, לא הייתי יודע.	Mocht iemand vragen waar het in het verhaal om gaat, zou ik het echt niet weten.
+heb	nld	אמנם היא צעירה אך היא נבונה.	Het is waar dat ze jong is, maar ze is wijs.
 heb	nld	אם נתקלת במילים חדשות, עיין במילון.	Als je nieuwe woorden tegenkomt, moet je ze opzoeken in het woordenboek.
 heb	nld	אם נתת לזקנך לצמוח במשך ארבע שנים או שבע, תחת תערו של הגלב הוא יכנע באותו זמן.	Of ge uw baard vier of zeven jaar laat groeien, onder het mes van de barbier valt hij in even veel tijd.
 heb	nld	אם עוד פעם אחת יהיה לך פה גדול, לא אספר לך סיפור.	Als je nog één keer zo'n grote mond geeft, lees ik vanavond geen verhaaltje voor.
-heb	nld	אם רק נחדל לנסות לרדוף אחרי האושר, הרי יהיה לנו זמן ליהנות מהרגע.	Als we maar eens ophielden met het proberen om gelukkig te zijn dan zouden we een zeer goed moment kunnen doorbrengen.
-heb	nld	אם תאמר זאת, זה רק בגלל שאתה לא תופס מה קורה פה.	Als je dat zegt, is het omdat je niet in de gaten hebt wat er aan de hand is.
-heb	nld	אם תמצא את הספר שלי, תוכל לשלוח לי אותו?	Als je mijn boek vindt, wil je het dan naar me opsturen?
-heb	nld	אם תראה את תום, תמסור לו ד"ש ממני.	En als je Tom ziet, doe hem dan de groeten van me.
-heb	nld	אם תרצי.	Als ge wilt.
-heb	nld	אמא בחרה בווילון הזה.	Mama heeft dit gordijn gekozen.
-heb	nld	אמא חששה שאתלכלך.	Moeder was bang dat ik vies zou worden.
-heb	nld	אמא שלי יודעת איך את אופה עוגות.	Mijn moeder weet hoe je taarten maakt.
-heb	nld	אמו נפטרה ארבע שנים מאוחר יותר.	Zijn moeder stierf vier jaar later.
-heb	nld	אמי יפיפיה.	Mijn moeder is mooi.
-heb	nld	אמי לא ראתה את הילד ברחוב.	Mijn moeder heeft de jongen op straat niet gezien.
-heb	nld	אמנם היא צעירה אך היא נבונה.	Het is waar dat ze jong is, maar ze is wijs.
 heb	nld	אמרו לי שתום ומרי עומדים להיות מפוטרים.	Ze hebben mij verteld dat Tom en Mary ontslagen gaan worden.
+heb	nld	אם רק נחדל לנסות לרדוף אחרי האושר, הרי יהיה לנו זמן ליהנות מהרגע.	Als we maar eens ophielden met het proberen om gelukkig te zijn dan zouden we een zeer goed moment kunnen doorbrengen.
 heb	nld	אמרתי הכל.	Ik heb alles gezegd.
 heb	nld	אמרת שזה יקרה.	Je zei dat dit zou gebeuren.
 heb	nld	אמרת שזה עלול לקרות.	Je zei dat dit zou gebeuren.
@@ -397,6 +394,10 @@ heb	nld	אמרת שזה עשוי לקרות.	Je zei dat dit zou gebeuren.
 heb	nld	אמרת שקוראים לך תום, האין זאת?	Je zei dat hij Tom heette, toch?
 heb	nld	אמש הם עזבו.	Gisteravond zijn ze vertrokken.
 heb	nld	אמש תום לא אכל ארוחת ערב.	Gisteravond heeft Tom geen avondeten gegeten.
+heb	nld	אם תאמר זאת, זה רק בגלל שאתה לא תופס מה קורה פה.	Als je dat zegt, is het omdat je niet in de gaten hebt wat er aan de hand is.
+heb	nld	אם תמצא את הספר שלי, תוכל לשלוח לי אותו?	Als je mijn boek vindt, wil je het dan naar me opsturen?
+heb	nld	אם תראה את תום, תמסור לו ד"ש ממני.	En als je Tom ziet, doe hem dan de groeten van me.
+heb	nld	אם תרצי.	Als ge wilt.
 heb	nld	אנא, אל תבכי.	Niet huilen alsjeblieft.
 heb	nld	אנא, התואיל לנגן זאת?	Kunt u dit spellen, a.u.b.?
 heb	nld	אנא, לאט לך.	Traag, a.u.b.
@@ -495,7 +496,9 @@ heb	nld	אני גאה בכנותו.	Ik ben trots op zijn eerlijkheid.
 heb	nld	אני גבוהה מאוד.	Ik ben heel lang.
 heb	nld	אני גבוה ממנו.	Ik ben groter dan hij.
 heb	nld	אני גדול ממנו.	Ik ben groter dan hij.
+heb	nld	אני גר בריו דה ז'ניירו.	Ik woon in Rio de Janeiro.
 heb	nld	אני גר בשכירות.	Ik woon als onderhuurder.
+heb	nld	אני גרה בריו דה ז'ניירו.	Ik woon in Rio de Janeiro.
 heb	nld	אני גרה רחוק מדי.	Ik woon te ver weg.
 heb	nld	אני גר על האי פיג'י.	Ik woon op het eiland Fiji.
 heb	nld	אני גר רחוק מדי.	Ik woon te ver weg.
@@ -625,9 +628,9 @@ heb	nld	אני מאוהבת. שמו תום.	Ik ben verliefd. Zijn naam is Tom.
 heb	nld	אני מאושר, כי אני לומד מעט הולנדית.	Ik ben gelukkig, want ik leer wat Nederlands.
 heb	nld	אני מאושר מאוד בגרוזיה.	Ik ben erg blij in Georgië.
 heb	nld	אני מאושר שאני כבר לא בתיכון.	Ik ben heel blij dat ik uit de middelbare school ben.
-heb	nld	אני מאמין שתום זכאי.	Ik geloof dat Tom onschuldig is.
 heb	nld	אני מאמינה שניתן לסמוך עליו.	Ik geloof dat hij te vertrouwen is.
 heb	nld	אני מאמינה שתום חף מפשע.	Ik geloof dat Tom onschuldig is.
+heb	nld	אני מאמין שתום זכאי.	Ik geloof dat Tom onschuldig is.
 heb	nld	אני מארה"ב.	Ik kom uit de Verenigde Staten.
 heb	nld	אני מארה"ב.	Ik kom uit de VS.
 heb	nld	אני מבסוט.	Ik ben tevreden.
@@ -659,16 +662,16 @@ heb	nld	אני מסיר בפניך את כובעי.	Ik zet mijn hoed af.
 heb	nld	אני מספרד.	Ik kom uit Spanje.
 heb	nld	אני מעדיף אנגלית על מוסיקה.	Ik heb liever Engels dan muziek.
 heb	nld	אני מעדיף בשר על דג.	Ik heb liever vlees dan vis.
+heb	nld	אני מעדיפה להיפרד.	Ik zou liever scheiden.
+heb	nld	אני מעדיפה להשאר לשבת.	Ik blijf liever zitten.
+heb	nld	אני מעדיפה להתגרש.	Ik zou liever scheiden.
+heb	nld	אני מעדיפה ללכת לבד לקולנוע מאשר עם בוב.	Ik zou liever alleen naar de bioscoop gaan dan samen met Bob.
 heb	nld	אני מעדיף חורף על קיץ.	Ik heb de winter liever dan de zomer.
 heb	nld	אני מעדיף ללכת ברגל מאשר לנהוג.	Ik wandel liever dan dat ik rijd.
 heb	nld	אני מעדיף ללכת ברגל על נסיעה במכונית בעיר כל כך גדולה כמו טוקיו.	Ik loop liever dan te rijden in een grootstad als Tokio.
 heb	nld	אני מעדיף עוגיות וממתקים על אלכוהול, אבל אני כן שותה.	Ik heb liever koekjes of snoep dan alcohol, maar ik drink wel.
 heb	nld	אני מעדיף שחור.	Ik geef de voorkeur aan de zwarte.
 heb	nld	אני מעדיף תפוחים על תפוזים.	Ik hou meer van appels dan van sinaasappels.
-heb	nld	אני מעדיפה להיפרד.	Ik zou liever scheiden.
-heb	nld	אני מעדיפה להשאר לשבת.	Ik blijf liever zitten.
-heb	nld	אני מעדיפה להתגרש.	Ik zou liever scheiden.
-heb	nld	אני מעדיפה ללכת לבד לקולנוע מאשר עם בוב.	Ik zou liever alleen naar de bioscoop gaan dan samen met Bob.
 heb	nld	אני מעז לומר שהוא צדק.	Ik durf te zeggen dat hij gelijk heeft.
 heb	nld	אני מעריך מאוד את עצתך.	Ik waardeer uw raad ten zeerste.
 heb	nld	אני מפורטוגל.	Ik kom uit Portugal.
@@ -699,6 +702,8 @@ heb	nld	אני משחק הרבה כדורעף.	Ik volleybal veel.
 heb	nld	אני משתמש בגוגל כמעט כל יום.	Ik gebruik Google bijna elke dag.
 heb	nld	אני משתתף בסדנת ריקודים.	Ik volg een danscursus.
 heb	nld	אני משתתף בקבוצת שחיה.	Ik ben lid van een zwemvereniging.
+heb	nld	אני מתגורר בריו דה ז'ניירו.	Ik woon in Rio de Janeiro.
+heb	nld	אני מתגוררת בריו דה ז'ניירו.	Ik woon in Rio de Janeiro.
 heb	nld	אני מתגוררת עם הוריי.	Ik woon bij mijn ouders.
 heb	nld	אני מתחילה בצהרים.	Ik begin 's middags.
 heb	nld	אני מתחיל להיזכר במשהו.	Ik begin me er iets van te herinneren.
@@ -728,11 +733,14 @@ heb	nld	אני עובד בבקרים.	Ik werk 's morgens.
 heb	nld	אני עוד לא יודע מה הכתובת שלי, אגור זמן מה אצל החבר שלי.	Ik weet mijn adres nog niet, ik ga een tijdje bij mijn vriend wonen.
 heb	nld	אני עומד על דעתי!	Ik meen het!
 heb	nld	אני עיוור צבעים כי סבי גם הוא היה.	Ik ben kleurenblind want mijn grootvader was het ook.
-heb	nld	אני עייף ורוצה לעלות למיטה.	Ik ben moe en ik wil naar bed gaan.
 heb	nld	אני עייפה מאוד, אני רוצה ללכת מוקדם למיטה.	Ik ben heel moe, ik wil vroeger naar bed.
+heb	nld	אני עייף ורוצה לעלות למיטה.	Ik ben moe en ik wil naar bed gaan.
 heb	nld	אני עסוק במיוחד.	Ik heb het erg druk.
 heb	nld	אני פשוט לא נותן בתום אמון.	Ik vertrouw Tom gewoon niet.
 heb	nld	אני צריך דוגמא חיה של היצורים האלה.	Ik moet een levend exemplaar hebben van deze wezens.
+heb	nld	אני צריכה ללמוד.	Ik moet studeren.
+heb	nld	אני צריכה לתקן את האופניים שלי.	Ik moet mijn fiets repareren.
+heb	nld	אני צריכה פשוט להיות לבד.	Ik moet gewoon alleen zijn.
 heb	nld	אני צריך לדאוג לחתול ההוא.	Ik moet voor die poes zorgen.
 heb	nld	אני צריך להסביר כמה דברים.	Ik moet een paar dingen uitleggen.
 heb	nld	אני צריך להקשיב לתום.	Ik moet naar Tom luisteren.
@@ -745,9 +753,6 @@ heb	nld	אני צריך לשאוב אבק.	Ik moet stofzuigen.
 heb	nld	אני צריך לשאול אותך שאלה טיפשית.	Ik moet je een domme vraag stellen.
 heb	nld	אני צריך לתקן את זה.	Ik moet het repareren.
 heb	nld	אני צריך מיד לעזוב?	Moet ik op staande voet vertrekken?
-heb	nld	אני צריכה ללמוד.	Ik moet studeren.
-heb	nld	אני צריכה לתקן את האופניים שלי.	Ik moet mijn fiets repareren.
-heb	nld	אני צריכה פשוט להיות לבד.	Ik moet gewoon alleen zijn.
 heb	nld	אני קונה נייר מכתבים, בולים וממחטות נייר.	Ik koop briefpapier, postzegels en papieren zakdoekjes.
 heb	nld	אני קונה רכב חדש.	Ik koop een nieuwe auto.
 heb	nld	אני קורא את הקוראן.	Ik lees de Koran.
@@ -816,7 +821,6 @@ heb	nld	אספרנטו משנה את הבעיה, משום שניתן ללמוד 
 heb	nld	אספרנטו שפה אידאלית לתרגום כל היצירות הערכיות, ובכללן יצירות ספרותיות ומדעיות.	Esperanto is een ideale taal om er alle waardevolle werken in te vertalen, zowel literaire als wetenschappelijke.
 heb	nld	אעשה כדבריך.	Ik zal doen wat je zegt.
 heb	nld	אף ילדה בכיתה שלי לא יפה יותר מלינדה.	Geen meisje in mijn klas is mooier dan Linda.
-heb	nld	אף לא הייתה הכוונה שהבריות יחיו לנצח.	Het was nooit de bedoeling dat mensen eeuwig zouden leven.
 heb	nld	אפילו אם אין זה אמת, זאת המצאה מבריקה.	Als het niet waar is, is het toch goed gevonden.
 heb	nld	אפילו המורה שוגה לפעמים.	Zelfs een leraar maakt al eens een fout.
 heb	nld	אפילו חתול יכול להביט במלך.	Zelfs een kat mag naar de koning kijken.
@@ -825,6 +829,7 @@ heb	nld	אפילו ילד קטן יודע את שמו.	Zelfs een klein kind kent
 heb	nld	אפילו יפנים יכולים לשגות כשהם מדברים יפנית.	Zelfs Japanners kunnen fouten maken wanneer ze Japans spreken.
 heb	nld	אפילו לא בן כיתה אחד שלי גר פה בסביבה.	Niet één van mijn klasgenoten woont hier in de buurt.
 heb	nld	אפילו סרטים קלוקלים צריך לראות, ולו רק על מנת שנוכל לשפוט את הטובים.	Zelfs slechte films moet men bekijken, want zo heeft men een juister oordeel over de goede.
+heb	nld	אף לא הייתה הכוונה שהבריות יחיו לנצח.	Het was nooit de bedoeling dat mensen eeuwig zouden leven.
 heb	nld	אפלטון היה ידידי, אבל האמת שווה לי יותר.	Plato is mijn vriend, maar de waarheid is mij meer waard.
 heb	nld	אפריקה היא יבשה, גרינלנד לא.	Afrika is een continent, Groenland niet.
 heb	nld	אפשר לבקש ממך טובה?	Mag ik u om een gunst vragen?
@@ -1017,9 +1022,6 @@ heb	nld	את לא יכולה להגיד "לא".	Je kan niet "nee" zeggen.
 heb	nld	את לא יכולה לצפות ממני שתמיד אחשוב על הכל!	Je kunt niet van me verwachten dat ik altijd overal aan denk!
 heb	nld	את לא מהירה מספיק.	Je bent niet snel genoeg.
 heb	nld	אתלונן נגדך.	Ik zal u aanklagen.
-heb	nld	אתם לא צריכים לעשות דבר זולת לתת אמון אחד בשני.	Jullie hoeven niets anders te doen, dan op elkaar te vertrouwen.
-heb	nld	אתם מדברים.	Jullie spreken.
-heb	nld	אתם מוכנים?	Zijt ge allemaal klaar?
 heb	nld	את מבוקשת על ידי המשטרה.	Je wordt gezocht door de politie.
 heb	nld	את מבינה?	Begrijpt u?
 heb	nld	את מבינה מה שאני אומר?	Snap je wat ik bedoel?
@@ -1036,6 +1038,9 @@ heb	nld	אתמול שתו כמות גדולה.	Er is veel gedronken gisteren.
 heb	nld	אתמול תוקנו האופניים שלי.	Mijn fiets is gisteren hersteld.
 heb	nld	את מחכה למשהו?	Wacht je ergens op?
 heb	nld	את מכאיבה לי.	Ge doet mij pijn.
+heb	nld	אתם לא צריכים לעשות דבר זולת לתת אמון אחד בשני.	Jullie hoeven niets anders te doen, dan op elkaar te vertrouwen.
+heb	nld	אתם מדברים.	Jullie spreken.
+heb	nld	אתם מוכנים?	Zijt ge allemaal klaar?
 heb	nld	את מתכוונת לומר שבכוונה את מסווה את יופיך?	Bedoel je dat je met opzet je schoonheid verbergt?
 heb	nld	את נהנית מספרי מסתורין?	Geniet je van mysterieromans?
 heb	nld	את נפלת על כל הראש.	Je bent gek.
@@ -1050,8 +1055,8 @@ heb	nld	את שכנה שלי.	U bent mijn buurvrouw.
 heb	nld	את שפת התיכנות אנו בוחרים פחות או יותר באקראי או מתוך הרגל, אבל גישה כזאת אינה מומלצת.	De programmeertaal kiezen we vaak min of meer toevallig of uit gewoonte, maar dergelijke aanpak verdient geen aanbeveling.
 heb	nld	ב-1776 הודפסה לראשונה הברית החדשה בסקוטית-גאלית.	In zeventienhonderdzevenenzestig werd het Nieuwe Testament in het Schots-Gaelisch gedrukt.
 heb	nld	באוטובוס היו חמישים נוסעים.	In de bus waren vijftig passagiers.
-heb	nld	באופן כללי היא לא אוכלת הרבה.	In het algemeen eet ze niet erg veel.
 heb	nld	באופניים הנסיעה זולה יותר.	Per fiets is de reis goedkoper.
+heb	nld	באופן כללי היא לא אוכלת הרבה.	In het algemeen eet ze niet erg veel.
 heb	nld	באיזו שעה מתחילה העלייה למטוס?	Hoe laat begint het instappen?
 heb	nld	באיזשהו מקום אתה צודק שאתה לא רוצה להתקבל למועדון ההוא.	Ergens hebt ge gelijk dat ge niet bij die club wilt aansluiten.
 heb	nld	בא לי לשיר.	Ik heb zin om te zingen.
@@ -1193,12 +1198,12 @@ heb	nld	במקרה זה את טועה.	In dit geval heb je ongelijk.
 heb	nld	במקרה של ספק, הגן על הנאשם.	In geval van twijfel, bescherm de beschuldigde.
 heb	nld	במקרה של שריפה יש לשבור את החלון.	In geval van brand, breek het venster.
 heb	nld	במשך שלושה ימים לא אכלתי דבר.	Ik heb in drie dagen niks meer gegeten.
-heb	nld	בן כמה גן החיות הזה?	Hoe oud is deze dierentuin?
-heb	nld	בן כמה הוא?	Hoe oud is hij?
-heb	nld	בן כמה היה המחבר כשכתב את הרומן?	Op welke leeftijd heeft de schrijver de roman geschreven?
 heb	nld	בנו צעיר מאוד אבל אף על פי כן חכם.	Zijn zoon is heel jong, en toch wijs.
 heb	nld	בנימין, אתה אוהב כדור בסיס?	Hou je van honkbal, Bin?
 heb	nld	בני קטן לגילו.	Mijn zoon is klein voor zijn leeftijd.
+heb	nld	בן כמה גן החיות הזה?	Hoe oud is deze dierentuin?
+heb	nld	בן כמה הוא?	Hoe oud is hij?
+heb	nld	בן כמה היה המחבר כשכתב את הרומן?	Op welke leeftijd heeft de schrijver de roman geschreven?
 heb	nld	בסוף הוא היה שם.	Uiteindelijk was hij daar.
 heb	nld	בסוף השביל עמדה תיבת מכתבים. יום יפה אחד היה בה מכתב מותח המיועד אלי.	Aan het eind van het pad stond een brievenbus. Op een dag lag er een spannende brief in en die was voor mij.
 heb	nld	בסופו של דבר החלטנו להתייעץ עם צוות המורים.	Uiteindelijk hebben we beslist de raad te vragen van onze leerkracht.
@@ -1222,9 +1227,9 @@ heb	nld	בצפון גרמניה יש יותר כרי דשא מאשר בדרומ�
 heb	nld	בקומה הרביעית אין מים חמים, אבל בקומת הקרקע יש.	Op de vierde verdieping is er geen warm water, maar op de begane grond wel.
 heb	nld	בקורס הזה לומדים את הצעדים הראשונים של העזרה הראשונה.	In deze cursus leert men de basisbeginselen van de EHBO.
 heb	nld	בקיץ הזה אשחה הרבה.	Deze zomer zal ik dikwijls zwemmen.
+heb	nld	בקיצור, אינני יודע.	Kortom, ik weet het niet.
 heb	nld	בקיץ זורמים לעיר תיירים בהמוניהם.	In de zomer werd de stad overspoeld door toeristen.
 heb	nld	בקיץ שעבר נסענו להוקאידו.	Vorige zomer gingen we naar Hokkaido.
-heb	nld	בקיצור, אינני יודע.	Kortom, ik weet het niet.
 heb	nld	בקרוב אביב יפציע.	Binnenkort is het lente.
 heb	nld	בקרוב הוא יהיה אבא.	Hij wordt binnenkort vader.
 heb	nld	בקרוב נדע את האמת.	We zullen weldra de waarheid weten.
@@ -1376,6 +1381,8 @@ heb	nld	האם היית פעם בצרפת?	Bent u ooit al in Frankrijk geweest?
 heb	nld	האם הכל כשורה כאן?	Is alles in orde hier?
 heb	nld	האם הם גדולים?	Zijn ze groot?
 heb	nld	האם הם יעשו זאת?	Zouden ze dat doen?
+heb	nld	האמונה היא קץ התבונה.	Geloof is de dood van de intelligentie.
+heb	nld	האמונה של אמי עזרה לה להתמודד עם פטירתו של אבי.	Mijn moeders religie heeft haar geholpen bij het verwerken van de dood van mijn vader.
 heb	nld	האם זאת המטריה שלך?	Is dat uw paraplu?
 heb	nld	האם זה השיר האהוב עליך?	Is dat je lievelingsliedje?
 heb	nld	האם זו נסיעתך הראשונה לחו"ל?	Is dit je eerste reis in het buitenland?
@@ -1388,12 +1395,10 @@ heb	nld	האם מרי שכחה את הממחטה שלה פה בכוונה?	Heeft
 heb	nld	האם נמקה ממחלתה.	De moeder werd verteerd door een ziekte.
 heb	nld	האם ריחפתם פעם בכדור פורח?	Hebben jullie wel eens met een luchtballon gevlogen?
 heb	nld	האם ריחפת פעם בכדור פורח?	Heeft u wel eens met een luchtballon gevlogen?
-heb	nld	האם תרצה להיות חבר באגודה שלנו?	Wil je lid worden van onze club?
-heb	nld	האם תרצי להיות חברה באגודה שלנו?	Wil je lid worden van onze club?
-heb	nld	האמונה היא קץ התבונה.	Geloof is de dood van de intelligentie.
-heb	nld	האמונה של אמי עזרה לה להתמודד עם פטירתו של אבי.	Mijn moeders religie heeft haar geholpen bij het verwerken van de dood van mijn vader.
 heb	nld	האמריקנים עם תוקפני.	De Amerikanen zijn een agressief volk.
 heb	nld	הא, מתי יפגשו שנית?	Ah, wanneer ontmoeten ze elkaar weer?
+heb	nld	האם תרצה להיות חבר באגודה שלנו?	Wil je lid worden van onze club?
+heb	nld	האם תרצי להיות חברה באגודה שלנו?	Wil je lid worden van onze club?
 heb	nld	האנגלית שלי הכל חוץ מטובה.	Mijn Engels is alles behalve goed.
 heb	nld	האנגלית שלך משתפרת.	Je Engels wordt steeds beter.
 heb	nld	האנשים בבוסטון שותים מי ברז?	Drinken de mensen in Boston kraanwater?
@@ -1775,10 +1780,10 @@ heb	nld	הוא רוקח.	Hij is een apotheker.
 heb	nld	הוא רחץ ידיו מכל אשמה.	Hij waste zijn handen in onschuld.
 heb	nld	הוא רכב לשם באופניים.	Hij is daar met de fiets naartoe gereden.
 heb	nld	הוא רץ הכי מהר בעולם.	Hij kon het hardst rennen van de hele wereld.
-heb	nld	הוא רץ מאה מטר באחת עשרה שניות בדיוק.	Hij heeft honderd meter hardgelopen in precies elf seconden.
 heb	nld	הוא רצה לנסוע לים.	Hij wou naar de zee rijden.
 heb	nld	הוא רצה לקנות ספר.	Hij wou een boek kopen.
 heb	nld	הוא רצה שאשתו תעיר אותו מוקדם בבוקר.	Hij wilde vroeg wakker gemaakt worden door zijn vrouw.
+heb	nld	הוא רץ מאה מטר באחת עשרה שניות בדיוק.	Hij heeft honderd meter hardgelopen in precies elf seconden.
 heb	nld	הוא רק מספר שנים מבוגר ממני.	Hij is maar enkele jaren ouder dan ik.
 heb	nld	הוא רשם את זה כדי לא לשכוח.	Hij heeft het genoteerd om het niet te vergeten.
 heb	nld	הוא שוטט עם מקלו בידו.	Hij wandelde met een stok in de hand.
@@ -1824,8 +1829,8 @@ heb	nld	החדשות שלי חשובות במיוחד לאלו המתעניינ�
 heb	nld	החדשות שלי לא חשובות לאנשים שאינם סקרנים.	Mijn nieuws is niet zeer belangrijk voor wie niet nieuwsgierig is.
 heb	nld	החדשות שלי לא חשובות לאנשים שלא מתעניינים בספורט.	Mijn nieuws is niet belangrijk voor diegenen, die zich niet interesseren voor sport.
 heb	nld	החולה עלול למות בכל רגע.	De patiënt kan ieder ogenblik sterven.
-heb	nld	החום ממיר את המים לקיטור.	De warmte verandert water in stoom.
 heb	nld	החומה עוביה שני מטר.	De muur is twee meter dik.
+heb	nld	החום ממיר את המים לקיטור.	De warmte verandert water in stoom.
 heb	nld	החוף של מונה מייצג את האמפרסיוניזם.	De kunst van Monet is representatief voor het impressionisme.
 heb	nld	החוק החדש מבטיח את אותן הזכויות החוקיות והחברתיות לזוגות הומוסקסואליים.	De nieuwe wet garandeert dezelfde wettelijke en sociale rechten aan homoseksuele koppels.
 heb	nld	החורף ממשמש ובא.	De winter is in aantocht.
@@ -2050,6 +2055,7 @@ heb	nld	היו אז רק כבישים מועטים בצפון אמריקה.	Er w
 heb	nld	היו הרבה מאזינים בקונצרט.	Er waren veel toehoorders op het concert.
 heb	nld	היוהרה תעלה ביוקר.	Hoogmoed komt ten val.
 heb	nld	היו לי ארנב וכלב.	Ik had een konijn en een hond.
+heb	nld	היו מאות אנשים בכיכר.	Er waren honderden mensen op het plein.
 heb	nld	היום אחד בספטמבר.	Vandaag is het één september.
 heb	nld	היום אחרי הצהרים, כשאגיע הביתה, בכוונתי לשבת ללמוד.	Deze namiddag, als ik thuis aangekomen ben, ben ik van plan te studeren.
 heb	nld	היום אני אהיה יצרני.	Vandaag ga ik productief zijn.
@@ -2068,7 +2074,6 @@ heb	nld	היום לא אשאל אותך יותר שאלות.	Ik zal je vandaag v
 heb	nld	היום לפנות ערב היא תרחץ את האופניים.	Zij zal de fiets deze namiddag wassen.
 heb	nld	היום עשרים בחודש אורדיבהשט.	Vandaag is het de twintigste van de maand ordibehesht.
 heb	nld	היום שניים בינואר.	Vandaag is het twee januari.
-heb	nld	היו מאות אנשים בכיכר.	Er waren honderden mensen op het plein.
 heb	nld	היות שאפגוש אותו מחר, אוכל למסור לו הודעה אם תרצה.	Gezien ik hem morgen zal zien kan ik hem een boodschap doorgeven, als je dat wilt.
 heb	nld	היות שהוא גר בכפר, יצא לו לבקר בעיר לעיתים נדירות.	Levend op het platteland, zoals hij dat deed, kwam hij zelden in de stad.
 heb	nld	היות שהמטוס אחר, אחרנו גם אנחנו.	Aangezien het vliegtuig vertraging had, waren we te laat.
@@ -2093,8 +2098,8 @@ heb	nld	הייתי מעדיף שלא תעשן כל כך הרבה.	Ik heb het lie
 heb	nld	הייתי מעוניין בחומר על המחשבים החדשים שלכם.	Ik zou wat informatie willen over uw nieuwe computers.
 heb	nld	הייתי נוכרי בבוסטון.	Ik was een vreemdeling in Boston.
 heb	nld	הייתי עוד בבית.	Ik was nog thuis.
-heb	nld	הייתי עייף, וחמור יותר, רציתי לישון.	Ik was moe en, wat nog erger is, ik wilde slapen.
 heb	nld	הייתי עייפה מאוד, לכן הלכתי מוקדם לישון.	Ik was erg moe, daarom ging ik vroeg naar bed.
+heb	nld	הייתי עייף, וחמור יותר, רציתי לישון.	Ik was moe en, wat nog erger is, ik wilde slapen.
 heb	nld	הייתי פעם בקיוטו.	Ik ben een keer in Kioto geweest.
 heb	nld	הייתי רוצה להמיר ין בדולרים.	Ik zou yen willen omwisselen naar dollars.
 heb	nld	הייתי רוצה לצפות בטלוויזיה.	Ik zou graag tv kijken.
@@ -2103,9 +2108,9 @@ heb	nld	הייתי רוצה מאד לדעת איפה הוא היה.	Ik zou graag
 heb	nld	הייתי רוצה שיהיה לי איכפת יותר מהציונים שלי, אבל מסתבר שבשלב מסוים בחיי החלטתי שהם לא עד כדי כך חשובים.	Ik zou willen dat mijn cijfers me meer konden schelen, maar het lijkt erop dat ik op een gegeven moment in mijn leven besloten heb dat die niet zo belangrijk meer zouden zijn.
 heb	nld	הייתי רעב מאוד.	Ik had erge trek.
 heb	nld	הייתכן שהשמועה נכונה?	Zou het kunnen dat dat gerucht waar is?
+heb	nld	היית צריכה לעזור לו בעבודתו.	Je had hem met zijn werk moeten helpen.
 heb	nld	היית צריך ליידע אותי מוקדם יותר.	Je had het me eerder moeten laten weten.
 heb	nld	היית צריך לשעות לאזהרותיה.	Je had naar haar waarschuwing moeten luisteren.
-heb	nld	היית צריכה לעזור לו בעבודתו.	Je had hem met zijn werk moeten helpen.
 heb	nld	היכן הספריה?	Waar is de bibliotheek?
 heb	nld	היכן כובעך?	Waar is je hoed?
 heb	nld	הילד האבוד והשובב הביט סביבו.	Het stoute verdwaalde jongetje keek om zich heen.
@@ -2172,14 +2177,17 @@ heb	nld	הם אויבים בלב ובנפש.	Ze zijn bittere vijanden.
 heb	nld	הם אוכלים כריך.	Zij eten een boterham.
 heb	nld	הם אורזים דגים בקופסאות שימורים.	Zij blikken vis in.
 heb	nld	הם אחיינים אם זכרוני אינו מטעני.	Ze zijn neven, als ik het me goed herinner.
+heb	nld	המאמר הזה שם ללעג ולקלס את הצמחונים.	Dat artikel steekt de draak met vegetariërs.
 heb	nld	הם אספו את שברי הצלחת.	Ze verzamelde de stukken van het gebroken bord.
 heb	nld	הם באים משוודיה.	Zij komen uit Zweden.
 heb	nld	הם בגדו בך.	Ze hebben u verraden.
 heb	nld	הם ביקרו את הוריהם אתמול.	Ze hebben hun ouders bezocht gisteren.
+heb	nld	המבנה רקוב עד היסוד.	Het bouwwerk is door en door rot.
 heb	nld	הם גדולים מאוד.	Ze zijn heel groot.
 heb	nld	הם גנבו את בקבוק היין שלי!	Ze stalen mijn fles wijn!
 heb	nld	הם גרים בבית גדול.	Ze wonen in een groot huis.
 heb	nld	הם גרים שם.	Ze wonen daar.
+heb	nld	המדינה מוקירה את ראש הממשלה.	Het land respecteert de eerste minister.
 heb	nld	הם הבטיחו לפגוש אותו בבית הקפה.	Ze beloofde hem te ontmoeten in een café.
 heb	nld	הם הגיעו למסקנה שהוא שיקר.	Ze kwamen tot de conclusie dat hij gelogen had.
 heb	nld	הם הובסו בקרב.	Ze hebben het gevecht verloren.
@@ -2195,77 +2203,70 @@ heb	nld	הם הפסיקו לדבר.	Ze stopten met praten.
 heb	nld	הם הפריחו בלון.	Zij lieten een ballon op.
 heb	nld	הם התחמשו ברובים.	Ze bewapenden zich met geweren.
 heb	nld	הם התנהגו בטפשות.	Ze gedroeg zich heel dom.
-heb	nld	הם זמרים.	Zij zijn zangers.
-heb	nld	הם חגגו את ההצלחה בפתיחת בקבוק יין.	Ze vierden het succes door een fles wijn te openen.
-heb	nld	הם יודעים לדוג.	Zij kunnen vissen.
-heb	nld	הם יחזרו קרוב לוודאי מיד.	Hij zal waarschijnlijk zo terug zijn.
-heb	nld	הם יכולים לחסום אותך.	Ze kunnen je niet tegenhouden.
-heb	nld	הם יפנים או סינים?	Zijn zij Japans of Chinees?
-heb	nld	הם יצאו לפיקניק.	Ze vertrokken om te picknicken.
-heb	nld	הם לא מבינים את הפסוק הזה, הלא כן?	Zij verstaan deze zin niet, of toch?
-heb	nld	הם לא צייתו להוריהם.	Ze gehoorzaamden hun ouders niet.
-heb	nld	הם לא צייתו להוריהם.	Ze luisterden niet naar hun ouders.
-heb	nld	הם לא רצו להרשות לי לעשות את זה.	Zij wilden mij niet toestaan dat te doen.
-heb	nld	הם מאמצים את הילדה הקטנה.	Ze adopteerden het kleine meisje.
-heb	nld	הם מוצלחים כולם.	Ze hebben allemaal succes.
-heb	nld	הם מכירים אחד את השני לא מספיק.	Ze kennen elkaar niet erg goed.
-heb	nld	הם מפצחים גרעיני חמניה תוך כדי משחק קלפים.	Ze eten zonnebloempitten onder het kaarten.
-heb	nld	הם מקטרים תמיד.	Ze klagen altijd.
-heb	nld	הם מתגוררים שם.	Ze wonen daar.
-heb	nld	הם מתו למען החירות.	Zij stierven voor de vrijheid.
-heb	nld	הם מתנפלים אחד על השני לעיתים קרובות.	Ze vliegen mekaar nogal vaak in de haren.
-heb	nld	הם נגסו כל אחד מהתפוח.	Ze namen van elke appel een hap.
-heb	nld	הם נדמו.	Ze zwegen.
-heb	nld	הם נכנסו לפונדק ושלושתם התיישבו ליד השולחן, אך לאיש מהם לא היה תאבון.	Ze kwamen de herberg binnen en de drie gingen aan tafel zitten maar niemand had trek.
-heb	nld	הם נסעו הביתה.	Zij reden naar huis.
-heb	nld	הם עזבו בלי להיפרד.	Ze ging weg zonder afscheid te nemen.
-heb	nld	הם עמדו לעלות על משכבם כשצלצלתי להם ב-11 בלילה בפעמון.	Ze was al gaan slapen toen ik haar om 11 uur 's avonds opbelde.
-heb	nld	הם קשרו את הגנב לעץ.	Ze bonden de dief vast aan een boom.
-heb	nld	הם רוחצים ידיים.	Zij wassen hun handen.
-heb	nld	הם רצו בגינה כדי להימלט משיני הכלבים צמאי הדם.	Zij liepen in de tuin om aan die bloeddorstige honden te ontsnappen.
-heb	nld	הם שתו קפה.	Zij dronken koffie.
-heb	nld	הם שתו שייק פירות.	Zij dronken smoothies.
-heb	nld	הם תרגמו את הרומן מיפנית לאנגלית.	We vertaalden de roman van het Japans naar het Engels.
-heb	nld	הם תרמו כסף למגן דויד אדום.	Ze schonken geld aan het Rode Kruis.
-heb	nld	המאמר הזה שם ללעג ולקלס את הצמחונים.	Dat artikel steekt de draak met vegetariërs.
-heb	nld	המבנה רקוב עד היסוד.	Het bouwwerk is door en door rot.
-heb	nld	המדינה מוקירה את ראש הממשלה.	Het land respecteert de eerste minister.
 heb	nld	המוסיקה שלו זכתה לפופולריות רבה בחו"ל.	Zijn muziek heeft een grote populariteit bereikt in het buitenland.
 heb	nld	המוסלמים מאמינים רק באללה כאל יחיד ובמוחמד כבנביא האחרון.	De moslims geloven slechts in Allah als de ene god en in Mohammed als de laatste profeet.
 heb	nld	המועדון קיבל אותו כחבר.	De club heeft hem als lid aanvaard.
 heb	nld	המורה הזהיר אותנו שהבחינה עלולה להיות מסובכת.	De leraar waarschuwde ons dat het examen moeilijk kon zijn.
 heb	nld	המורה עומד לפני הכיתה.	De docent staat voor de klas.
 heb	nld	המזל נופל בידי האמיצים.	Het geluk staat de dapperen bij.
+heb	nld	הם זמרים.	Zij zijn zangers.
+heb	nld	הם חגגו את ההצלחה בפתיחת בקבוק יין.	Ze vierden het succes door een fles wijn te openen.
 heb	nld	המחירים כעת מרקיעים שחקים.	De prijzen zijn hoog tegenwoordig.
 heb	nld	המחלה חשוכת טיפול.	Die ziekte is onbehandelbaar.
 heb	nld	המחשבים משתפרים והולכים.	Computers worden steeds verbeterd.
 heb	nld	המטוס עמד להמריא.	Het vliegtuig stond op het punt op te stijgen.
 heb	nld	המטוס שלנו טס מעל לעננים.	Ons vliegtuig vloog boven de wolken.
 heb	nld	המידע אגור בקובץ במחשב שלי.	De informatie staat in een bestand op mijn computer.
+heb	nld	הם יודעים לדוג.	Zij kunnen vissen.
+heb	nld	הם יחזרו קרוב לוודאי מיד.	Hij zal waarschijnlijk zo terug zijn.
+heb	nld	הם יכולים לחסום אותך.	Ze kunnen je niet tegenhouden.
 heb	nld	המילה באספרנטו "אוקזו" פרושה במקור "מקרה" ו-"נסיבה", בדומה למילה הרוסית "סלוצ'אי", בעוד "קאזו" פרושה במקור "יַחסָה". בהשפעה מערבית קיבלה המילה "קאזו" משמעות של "משפט" ומאוחר יותר "אירוע".	Het Esperantowoord "okazo" betekende oorspronkelijk" iets, wat gebeurt" en "bepaalde omstandigheid", net als het Russische woord "случай", terwijl "kazo" alleen "naamval" betekende. Onder westerse invloed kreeg "kazo" ook de betekenis van "rechtszaak" en later "gebeurtenis in het algemeen".
 heb	nld	המילה מקורה ביוונית.	Het woord komt uit het Grieks.
 heb	nld	המילון הזה מכיל לא יותר מ-20,000 ערכים.	Dit woordenboek bevat niet meer dan 20.000 woorden.
 heb	nld	המילון הזה נראה יעיל למתחילים.	Dit woordenboek lijkt mij nuttig voor beginners.
 heb	nld	המילון הזה עדכני.	Dit woordenboek is bij de tijd.
 heb	nld	המילונים מעלים אבק, שלי על כל פנים.	Op de woordenboeken ligt niets dan stof, op de mijne tenminste.
+heb	nld	הם יפנים או סינים?	Zijn zij Japans of Chinees?
+heb	nld	הם יצאו לפיקניק.	Ze vertrokken om te picknicken.
 heb	nld	המכונית הזאת יקרה מאוד.	Deze auto is heel duur.
 heb	nld	המכונית התפרקה לחלוטין, כי הנהג לא שם לב.	De auto zit helemaal in elkaar, want de bestuurder lette niet op.
 heb	nld	המכונית התקלקלה, אז הם הצטרכו ללכת ברגל.	De auto was kapot, dus moesten ze lopen.
 heb	nld	המכונית שלו דומה לשלי.	Zijn auto lijkt op die van mij.
 heb	nld	המכנסיים האלה מתאימים לי.	Deze broek staat mij goed.
+heb	nld	הם לא מבינים את הפסוק הזה, הלא כן?	Zij verstaan deze zin niet, of toch?
+heb	nld	הם לא צייתו להוריהם.	Ze gehoorzaamden hun ouders niet.
+heb	nld	הם לא צייתו להוריהם.	Ze luisterden niet naar hun ouders.
+heb	nld	הם לא רצו להרשות לי לעשות את זה.	Zij wilden mij niet toestaan dat te doen.
 heb	nld	המלון הזה טוב מהאחר.	Dit hotel is beter dan dat andere.
 heb	nld	המלחמה איחדה את העם האמריקאי.	De oorlog heeft het Amerikaanse volk verenigd.
 heb	nld	המלחמה פרצה שלוש שנים מאוחר יותר.	De oorlog begon drie jaar later.
-heb	nld	המלך משרה יראה.	De koning boezemt ontzag in.
 heb	nld	המלכה אליזבת נפטרה בשנת 1603.	Koningin Elizabeth overleed in 1603.
+heb	nld	המלך משרה יראה.	De koning boezemt ontzag in.
+heb	nld	הם מאמצים את הילדה הקטנה.	Ze adopteerden het kleine meisje.
+heb	nld	הם מוצלחים כולם.	Ze hebben allemaal succes.
+heb	nld	הם מכירים אחד את השני לא מספיק.	Ze kennen elkaar niet erg goed.
+heb	nld	הם מפצחים גרעיני חמניה תוך כדי משחק קלפים.	Ze eten zonnebloempitten onder het kaarten.
 heb	nld	הממציא היה גאון אמיתי.	De uitvinder was een echt genie.
+heb	nld	הם מקטרים תמיד.	Ze klagen altijd.
+heb	nld	הם מתגוררים שם.	Ze wonen daar.
+heb	nld	הם מתו למען החירות.	Zij stierven voor de vrijheid.
+heb	nld	הם מתנפלים אחד על השני לעיתים קרובות.	Ze vliegen mekaar nogal vaak in de haren.
+heb	nld	הם נגסו כל אחד מהתפוח.	Ze namen van elke appel een hap.
+heb	nld	הם נדמו.	Ze zwegen.
 heb	nld	המנהיג הרשע של המדינה היה מעוניין בממון בלבד.	De boosaardige leider van het land was alleen geïnteresseerd in geld.
 heb	nld	המנהל נזף בך.	De chef heeft je op het matje geroepen.
+heb	nld	הם נכנסו לפונדק ושלושתם התיישבו ליד השולחן, אך לאיש מהם לא היה תאבון.	Ze kwamen de herberg binnen en de drie gingen aan tafel zitten maar niemand had trek.
+heb	nld	הם נסעו הביתה.	Zij reden naar huis.
 heb	nld	המסורת הזאת מקורה בסין.	Deze traditie is ontstaan in China.
 heb	nld	המסיבה היתה הצלחה רבתי.	Het feest was een groot succes.
+heb	nld	הם עזבו בלי להיפרד.	Ze ging weg zonder afscheid te nemen.
+heb	nld	הם עמדו לעלות על משכבם כשצלצלתי להם ב-11 בלילה בפעמון.	Ze was al gaan slapen toen ik haar om 11 uur 's avonds opbelde.
 heb	nld	המעשנים מצחינים את האוויר.	Rokers doen de lucht stinken.
 heb	nld	המפתחות היו בתיק שלי.	De sleutels zaten in mijn tas.
 heb	nld	המצב מחמיר והולך.	Het wordt erger en erger.
+heb	nld	הם קשרו את הגנב לעץ.	Ze bonden de dief vast aan een boom.
+heb	nld	הם רוחצים ידיים.	Zij wassen hun handen.
+heb	nld	הם רצו בגינה כדי להימלט משיני הכלבים צמאי הדם.	Zij liepen in de tuin om aan die bloeddorstige honden te ontsnappen.
 heb	nld	המרק הזה ממש טעים.	Deze soep is echt lekker.
 heb	nld	המשאית התנגשה במכונית.	De vrachtwagen botste tegen een auto.
 heb	nld	המשאית פנתה פנייה חדה ימינה.	De vrachtwagen draaide scherp af naar rechts.
@@ -2280,10 +2281,15 @@ heb	nld	המשימה הזאת היא סוד כמוס ומסוכנת ביותר.	
 heb	nld	המשימה כל כך קשה שאני לא מסוגל לעמוד בה.	De taak is zo moeilijk dat ik ze niet kan volbrengen.
 heb	nld	המשפחה אכלה ביחד ארוחת ערב.	Het gezin at 's avonds samen.
 heb	nld	המשפחה חיה באוהל מונגולי.	Het gezin woont in een joert.
+heb	nld	המשפחה שלי גרה בעיר.	Mijn familie woont in de stad.
+heb	nld	הם שתו קפה.	Zij dronken koffie.
+heb	nld	הם שתו שייק פירות.	Zij dronken smoothies.
 heb	nld	המתמטיקה הוא אותו חלק של המדע שהיית יכול להמשיך לעסוק בו לו התעוררת בבוקר אחד ולפתע שמת לב שהיקום נעלם לו.	Wiskunde is het deel van de wetenschap waarmee je je nog steeds zou kunnen bezighouden als je 's morgens wakker zou worden en zou merken dat het heelal er niet meer is.
 heb	nld	המתן בבקשה עד שאשוב.	Wacht alstublieft tot ik terugkom.
 heb	nld	המתן עד שאספור עד עשר.	Wacht tot ik tot tien tel.
 heb	nld	המתן שניה.	Wacht een beetje.
+heb	nld	הם תרגמו את הרומן מיפנית לאנגלית.	We vertaalden de roman van het Japans naar het Engels.
+heb	nld	הם תרמו כסף למגן דויד אדום.	Ze schonken geld aan het Rode Kruis.
 heb	nld	הנה אנו פה.	Hier zijn we dan.
 heb	nld	הנה הדגל שלי לנינורסק. היות שהאידאולוגיה של נינורסק מושתתת על התנתקות מהשפה הדנית, הוחלף הרקע הדני של הדגל ברקע איסלנדי, משום שיוצרי השפה שאבו השראה מהאיסלנדית. הדגל אינו מלבני משום... אכן, משום שנינורסק מוזרה.	Hier is mijn vlag voor Nynorsk. Aangezien de ideologie van het Nynorsk gebaseerd is op maximale afwijking van het Deens, wordt de Deense achtergrond van de vlag vervangen door de IJslandse, want de makers van de taal hebben het IJslands als inspiratie gebruikt. De vlag is niet rechthoekig omdat... nou ja, omdat Nynorsk gewoon raar is.
 heb	nld	הנה! ואל תשכחו את טוב לבי.	Hier! En vergeet mijn goedheid niet.
@@ -2347,6 +2353,7 @@ heb	nld	הסתלק מחיי!	Verdwijn uit mijn leven!
 heb	nld	הסתלקתי ממחנה האימונים.	Ik liep weg uit het oefenkamp.
 heb	nld	הסתתרנו מאחורי עץ גדול.	We schuilden achter een grote boom.
 heb	nld	העוגה הזאת מתוקה מאוד.	Deze cake is erg zoet.
+heb	nld	העולם זה עם.	De wereld is een natie.
 heb	nld	העיניים שלי לא מתפקדות עוד כל כך טוב.	Mijn ogen doen het niet goed meer.
 heb	nld	העיר מאקו הייתה מרכז גידולי הבצל.	De stad Mako was het centrum van de uienteelt.
 heb	nld	העיתונאי עובד עבור העיתון.	De journalist werkt voor de krant.
@@ -2416,6 +2423,7 @@ heb	nld	הראיתי לה את החדר שלי.	Ik heb haar mijn kamer getoond.
 heb	nld	הרבה אושר.	Veel geluk.
 heb	nld	הרבה גברים נספו בים.	Vele mannen stierven op zee.
 heb	nld	הִרבה טף, הִרבה מלאכה.	Veel kinderen, veel handen.
+heb	nld	הרבה יוונים גרים בגרמניה.	In Duitsland wonen veel Grieken.
 heb	nld	הרבה עצים נכרתו.	Veel bomen zijn omgehakt.
 heb	nld	הרגע.	Blijf rustig.
 heb	nld	הרגשתי שאני חייב לעשות זאת.	Ik vond dat ik dat moest doen.
@@ -2511,8 +2519,8 @@ heb	nld	התיידדנו עם ג'יין.	We hebben vriendschap gesloten met Jane
 heb	nld	התינוק זז ללא הרף כשצילמתי אותו.	De baby bewoog altijd als ik afdrukte.
 heb	nld	התמונה הזו צולמה בנארה.	Deze foto is genomen in Nara.
 heb	nld	התמימות יפיפיה.	Onschuld is een schone zaak.
-heb	nld	התנדף מפה, לפני שיראו אותך.	Maak dat je weg komt vooraleer ze je hier zien.
 heb	nld	התנדפי! אעשה זאת בעצמי.	Ga weg! Ik doe het zelf wel!
+heb	nld	התנדף מפה, לפני שיראו אותך.	Maak dat je weg komt vooraleer ze je hier zien.
 heb	nld	התנהגותו היא הדאגה החשובה ביותר שלי.	Zijn gedrag is mijn belangrijkste zorg.
 heb	nld	התנועה בסביבה ערה.	Er is heel veel verkeer hier in de buurt.
 heb	nld	התעלם ממני וארדוף אחריך, לך אחרי ואתעלם ממך.	Ontwijk mij en ik zal volgen, volg mij en ik zal u ontwijken.
@@ -2734,6 +2742,7 @@ heb	nld	חמש ועוד שבע הם שתים עשרה.	Vijf plus zeven is twaalf
 heb	nld	חסר לו בורג!	Die vent ziet ze vliegen!
 heb	nld	חצאיות המיני יצאו מהאופנה.	Minirokjes zijn uit de mode geraakt.
 heb	nld	חצי מיליון ילדים עדיין סובלים מתת תזונה בניז'ר.	Een half miljoen kinderen zijn ook nu nog ondervoed in Niger.
+heb	nld	חקרת.	Je onderzocht.
 heb	nld	חרכתי את קצה האצבע.	Ik heb mijn vingertop verbrand.
 heb	nld	חשבון זה כיף.	Ik vind wiskunde leuk.
 heb	nld	חשבתי כרגע על מישרה חדשה.	Ik dacht net aan een nieuwe baan.
@@ -2873,6 +2882,7 @@ heb	nld	יש לך טיפה חום היום, נכון?	Je hebt een klein beetje k
 heb	nld	יש לך טלפון נייד?	Hebt ge een gsm?
 heb	nld	יש לך יחסים תקינים עם המנהל שלך?	Heb je een goede verstandhouding met je baas?
 heb	nld	יש לך כרטיס אשראי?	Heeft u een kredietkaart?
+heb	nld	יש לכם אורז?	Heeft u rijst?
 heb	nld	יש לך מחלת לב מוכרת או הפרעות זרימת דם למוח?	Heeft u een gekende hartziekte of storingen in de bloedsomloop van de hersenen?
 heb	nld	יש לך מילון אנגלי?	Heb je een Engels woordenboek?
 heb	nld	יש לך מעט לזכות והרבה להפסיד.	Je hebt weinig te winnen en veel te verliezen.
@@ -2886,7 +2896,6 @@ heb	nld	יש לך עפרון אדום?	Heb je een rood potlood?
 heb	nld	יש לך שכירים דוברי יפנית?	Heeft u werknemers die Japans spreken?
 heb	nld	יש לך שלוש מכוניות.	Jij hebt drie auto's.
 heb	nld	יש לך שקיות תחת העיניים.	Je hebt wallen onder je ogen.
-heb	nld	יש לכם אורז?	Heeft u rijst?
 heb	nld	יש למישהו אחר הצעה?	Heeft iemand anders een voorstel?
 heb	nld	יש לנו ארבע ארנבות מהן אחת נושכת.	We hebben vier konijnen, één ervan bijt.
 heb	nld	יש לנו גם עדשות במבחר שלנו.	We hebben ook lenzen in ons assortiment.
@@ -2958,9 +2967,9 @@ heb	nld	כִּי אֶל אֲשֶׁר תֵּלְכִי אֵלֵךְ, וּבַאֲ
 heb	nld	כיוונתי את המצלמה אליה.	Ik heb mijn fototoestel op haar gericht.
 heb	nld	כימיה יכולה להיות מסובכת מאוד.	Scheikunde kan zeer ingewikkeld zijn.
 heb	nld	כִּי עָפָר אַתָּה, וְאֶל עָפָר תָּשׁוּב.	Want gij zijt stof, en gij zult tot stof wederkeren.
-heb	nld	כך קורה תמיד עם עריצים.	Zo gebeurt altijd met tirannen!
 heb	nld	ככל שאנו לומדים יותר, אנו יודעים יותר.	Hoe meer we leren, hoe meer we weten.
 heb	nld	ככל שתמהר כן ייטב.	Hoe sneller je het doet, hoe beter het is.
+heb	nld	כך קורה תמיד עם עריצים.	Zo gebeurt altijd met tirannen!
 heb	nld	כל אחד יכול לטעות.	Iedereen kan fouten maken.
 heb	nld	כלב הצייד פנה אל החורש.	De jachthond begaf zich naar het bos.
 heb	nld	כל בוקר היא קוראת את העיתון.	Ze leest elke morgen de krant.
@@ -2973,6 +2982,7 @@ heb	nld	כל גופו היה מקועקע.	Zijn lichaam zat onder de tatoeages.
 heb	nld	כל דיעה היא שילוב של אמת וטעייה.	Elke mening is een mengeling van waarheid en vergissing.
 heb	nld	כל האוטובוסים מלאים.	Alle bussen zitten vol.
 heb	nld	כל האנשים שווים.	Alle mensen zijn gelijk.
+heb	nld	כל הארצות מזויפות.	Alle landen zijn nep.
 heb	nld	כל הבשר התקלקל.	Al het vlees was slecht.
 heb	nld	כל המדינות התרבותיות מתנגדות למלחמה.	Alle beschaafde landen zijn tegen oorlog.
 heb	nld	כל הסוכר נפל על הארץ.	Alle suiker is op de grond gevallen.
@@ -3010,8 +3020,8 @@ heb	nld	כמה זמן יש לי לענות?	Hoeveel tijd heb ik om te antwoorden
 heb	nld	כמה זמן ישן הדוב?	Hoelang slaapt een beer?
 heb	nld	כמה זמן לוקח להגיע למדריד?	Hoe lang duurt het om naar Madrid te gaan?
 heb	nld	כמה זמן לקח לך להתאושש מהניתוח?	Hoe lang kostte het je om van je operatie te herstellen?
-heb	nld	כמה חבל שאין לי גינה!	Wat jammer dat ik geen tuin heb!
 heb	nld	כמה חבל שאינך יכול לרקוד!	Wat jammer dat je niet kan dansen!
+heb	nld	כמה חבל שאין לי גינה!	Wat jammer dat ik geen tuin heb!
 heb	nld	כמה חודשים תוכל להישאר פה?	Hoeveel maanden kan je hier blijven?
 heb	nld	כמה מדליק היה לו אובמה היה מגדל תספורת "אפרו" עבה?	Hoe vet zou het zijn als Obama een mooi, dik afrokapsel zou laten staan?
 heb	nld	כמה מהר עפה לה הציפור?	Hoe snel vliegt die vogel?
@@ -3049,8 +3059,8 @@ heb	nld	כן, מיץ תפוזים בבקשה.	Ja, sinaasappelsap, alstublieft.
 heb	nld	כנראה ירד הערב שלג.	Waarschijnlijk zal het vanavond sneeuwen.
 heb	nld	כנראה שהיא נפגעה ממה שהוא אמר.	Blijkbaar was ze gekwetst door wat hij zei.
 heb	nld	כסף הוא עוצמה.	Geld is macht.
-heb	nld	כסף שינה את חייו.	Geld heeft zijn leven veranderd.
 heb	nld	כספנו אזל.	Ons geld is op.
+heb	nld	כסף שינה את חייו.	Geld heeft zijn leven veranderd.
 heb	nld	כעבור כמה ימים תוכל לרוץ שוב.	Over een paar dagen zul je weer kunnen rennen.
 heb	nld	כעת אנחנו מפחדים מגן העדן אותו בנינו.	Nu zijn we bang voor het paradijs dat we hebben gebouwd.
 heb	nld	כעת אני אופה לחם, מאזין למוסיקה או קורא קומיקס.	Nu, ik bak brood, luister naar muziek, of lees een beeldverhaal.
@@ -3141,6 +3151,7 @@ heb	nld	לא יכולה להציל אותך.	Ik kan u niet redden.
 heb	nld	לא יכול להציל אותך.	Ik kan u niet redden.
 heb	nld	לאישה שני תיקי יד.	Die vrouw heeft twee handtassen.
 heb	nld	לא יתכן שזה יהלום אמיתי.	Dat kan geen echte diamant zijn.
+heb	nld	לא כל היהודים דתיים.	Niet alle joden zijn religieus.
 heb	nld	לא לגעת!	Handen af!
 heb	nld	לא לכל התפוחים האדומים יש אותו הטעם.	Niet alle rode appels smaken hetzelfde.
 heb	nld	לא ללכת על הדשא.	Niet op het gras lopen.
@@ -3219,18 +3230,18 @@ heb	nld	ליום הולדתך אני רוצה לתת לך אופניים.	Voor u
 heb	nld	לילה גרבה גרביים בצבעי הקשת.	Layla droeg regenboogsokken.
 heb	nld	לילה טוב, טטואבה.	Goedenacht, Tatoeba.
 heb	nld	לימוד שפה זרה זה תמיד קשה.	Een vreemde taal leren is moeilijk.
-heb	nld	לך ישר עד קצה הרחוב.	Ga rechtdoor, tot het einde van de straat.
-heb	nld	לך לבית הספר.	Ga naar school.
-heb	nld	לך מפה בבקשה.	Ga weg, alstublieft.
-heb	nld	לך על זה! ואל תחסוך מעצמך דבר.	Pak aan! En ontzeg jezelf niets.
 heb	nld	לכדתי פרפרים ברשת.	Ik heb vlinders gevangen met een net.
 heb	nld	לכו לכל הרוחות!	Loop naar de duivel!
 heb	nld	לכי הביתה.	Ga naar huis.
 heb	nld	לכי לכל הרוחות!	Loop naar de duivel!
+heb	nld	לך ישר עד קצה הרחוב.	Ga rechtdoor, tot het einde van de straat.
+heb	nld	לך לבית הספר.	Ga naar school.
 heb	nld	לכל המאוחר הוא יחזור ביום שני.	Ten laatste maandag is hij terug.
 heb	nld	לכל מדינה היה קול אחד בלבד.	Elke staat had slechts één stem.
 heb	nld	לכמה זמן תישאר בשנחאי?	Voor hoelang bent u in Sjanghai?
+heb	nld	לך מפה בבקשה.	Ga weg, alstublieft.
 heb	nld	לכן קמתי הבוקר מוקדם יותר.	Daarom stond ik vroeg op deze morgen.
+heb	nld	לך על זה! ואל תחסוך מעצמך דבר.	Pak aan! En ontzeg jezelf niets.
 heb	nld	ללא מים לא יחיה האדם.	Men kan niet leven zonder water.
 heb	nld	ללא תנועה עומדים העצים, מוסווים על ידי הדמדומים, מורווים בשפע אגלי טל.	De bomen staan onbeweeglijk, gehuld in de schemering, rijkelijk bedekt met dauwdruppels.
 heb	nld	ללוות כסף עולה כסף.	Geld lenen kost geld!
@@ -3249,7 +3260,11 @@ heb	nld	למה אתה לומד?	Waarom studeer je?
 heb	nld	למה אתה מעמיד פנים כאילו אתה לא מכיר אותי?	Waarom doe je alsof je me niet kent?
 heb	nld	למה אתה עובד פה?	Warom werk jij hier?
 heb	nld	למה אתה קם לפני שאתה מתעורר?	Waarom sta je op voor dat je wakker wordt?
+heb	nld	למה אתה שונא את החופש?	Waarom haat je vrijheid?
+heb	nld	למה אתה שונא את החופש?	Waarom haat u vrijheid?
 heb	nld	למה את מציירת פרחים?	Waarom schilder je bloemen?
+heb	nld	למה את שונאת את החופש?	Waarom haat je vrijheid?
+heb	nld	למה את שונאת את החופש?	Waarom haat u vrijheid?
 heb	nld	למה גרת בקיוטו לפני שנה?	Waarom woonde je in Kyoto vorig jaar?
 heb	nld	למה הוא התגורר בארה"ב?	Waarom heeft hij in de Verenigde Staten gewoond?
 heb	nld	למה הוא שינה את תוכניותיו?	Waarom heeft hij zijn plannen veranderd?
@@ -3510,12 +3525,12 @@ heb	nld	מילאתי דלק בתחנת הדלק שבפינה.	Ik heb mijn auto b
 heb	nld	מילון זה זהה לשלי.	Dit is hetzelfde woordenboek als ik heb.
 heb	nld	מילותיו נשאו אותי איתם לימי ילדותי.	Zijn woorden voerden me terug tot mijn vroege kindertijd.
 heb	nld	מים אפשר לשתות אבל גם להפריש.	Water kun je drinken, maar je kunt het ook laten lopen.
+heb	nld	מי מהילדים בכיתה שלך שר הכי טוב?	Wie van de jongens in uw klas zingt het best?
 heb	nld	מים ושמן שניהם נוזלים.	Water en olie zijn allebei vloeistoffen.
+heb	nld	מי מכם היה פה ראשון?	Wie van jullie was hier het eerst?
 heb	nld	מים מורכבים ממימן וחמצן.	Water is gevormd uit waterstof en zuurstof.
 heb	nld	מים קופאים באפס מעלות צלסיוס.	Water bevriest bij nul graden Celsius.
 heb	nld	מים קופאים באפס מעלות צלסיוס, נכון?	Water bevriest bij nul graden Celsius, toch?
-heb	nld	מי מהילדים בכיתה שלך שר הכי טוב?	Wie van de jongens in uw klas zingt het best?
-heb	nld	מי מכם היה פה ראשון?	Wie van jullie was hier het eerst?
 heb	nld	מי מתלונן?	Wie klaagt?
 heb	nld	מי נבוך?	Wie is in de war?
 heb	nld	מי עוד מקדיש זמן לכתוב מכתב ארוך לחבר?	Wie neemt nog tijd voor een lange brief aan een vriend?
@@ -3739,9 +3754,9 @@ heb	nld	סוג זה של העבודה מסוכן מאוד.	Dit soort werk is zee
 heb	nld	סוג זה של עבודה מסוכן ביותר.	Dit soort werk is zeer gevaarlijk.
 heb	nld	סולקתי מהתיכון.	Ik werd uit de middelbare school getrapt.
 heb	nld	"סוני" הוא מותג מוכר ברחבי העולם.	"Sony" is een naam die gekend is in de hele wereld.
-heb	nld	סוף סוף הם קיבלו את ההצעה.	Uiteindelijk hebben ze het voorstel aangenomen.
 heb	nld	סופסוף אנחנו נפגשים! ציפיתי לכך כל כך הרבה זמן.	Eindelijk ontmoeten we elkaar dan! Ik heb hier zo lang op gewacht.
 heb	nld	סופסוף הגיע האביב למחוז זה ביפן.	Eindelijk heeft de lente dit deel van Japan bereikt.
+heb	nld	סוף סוף הם קיבלו את ההצעה.	Uiteindelijk hebben ze het voorstel aangenomen.
 heb	nld	סופ״ש נעים!	Een fijn weekend!
 heb	nld	סייג לחוכמה שתיקה.	Soms is het beter niet te veel te zeggen.
 heb	nld	סייג לחוכמה שתיקה.	Spreken is zilver, zwijgen is goud.
@@ -3802,9 +3817,9 @@ heb	nld	עולמנו קטן ןהולך.	Onze wereld wordt steeds kleiner en klei
 heb	nld	עומד לי על קצה הלשון.	Het ligt op het puntje van mijn tong.
 heb	nld	עומד לי על קצה הלשון.	Het ligt op het topje van mijn tong.
 heb	nld	עומד עוד בקבוק כזה במקרר.	Er ligt een fles van in de koelkast.
-heb	nld	עוף לי מהעיניים!	Uit mijn ogen!
 heb	nld	עופו לי מהעיניים!	Uit mijn ogen!
 heb	nld	עופי לי מהעיניים!	Uit mijn ogen!
+heb	nld	עוף לי מהעיניים!	Uit mijn ogen!
 heb	nld	עורה צח כשלג.	Haar huid is wit, zo wit als sneeuw.
 heb	nld	עורך הדין היה ממוצא מערבי ולא התמצא בתרבויות שלהם.	De advocaat was westers en niet bekend met hun culturen.
 heb	nld	עורך הדין המתין לבן.	De advocaat verwachtte Ben.
@@ -3839,15 +3854,15 @@ heb	nld	עלינו להפריד פוליטיקה מדת.	We moeten politiek en r
 heb	nld	עלינו לשים לב לרמזור.	We moeten op het stoplicht letten.
 heb	nld	על מה בעצם אתה מדבר?	Over wat hebt ge het eigenlijk?
 heb	nld	על מה מדובר?	Waarover gaat het precies?
+heb	nld	עמדה לה טחנת מים מתחת לסכר.	Er stond een watermolen onderaan de dam.
+heb	nld	עמדנו בכניסה וברכנו את האורחים לשלום.	We stonden aan de ingang en verwelkomden de gasten.
+heb	nld	עמדנו על פי התהום.	We stonden aan de rand van een klif.
 heb	nld	עם החתול שלי אני מדבר ספרדית.	Tegen mijn kat spreek ik Spaans.
 heb	nld	עם הכסף הוא יכול היה לרכוש רכב חדש.	Met het geld kon hij een nieuwe auto kopen.
 heb	nld	עם מה פתחת את זה?	Waarmee hebt ge het geopend?
 heb	nld	עם פנים מכורכמות האזין הוא למורה שלו.	Met een droevig gezicht luisterde hij naar zijn leraar.
 heb	nld	עם קצת יותר מאמץ.	Met een beetje meer moeite.
 heb	nld	עם שיערה של האישה תוכל לקשור אפילו פיל גדול.	Met de haar van een vrouw kun je zelfs een grote olifant vastbinden.
-heb	nld	עמדה לה טחנת מים מתחת לסכר.	Er stond een watermolen onderaan de dam.
-heb	nld	עמדנו בכניסה וברכנו את האורחים לשלום.	We stonden aan de ingang en verwelkomden de gasten.
-heb	nld	עמדנו על פי התהום.	We stonden aan de rand van een klif.
 heb	nld	ענן עשן תלוי מעל למחוז.	Er hangt een rookwolk over de provincie.
 heb	nld	עץ טוב לא יניב פירות באושים.	Een goede boom kan geen slechte vruchten geven.
 heb	nld	עצלנותה הייתה סימן רע לבאות.	Haar luiheid was een slecht teken voor de toekomst.
@@ -3907,8 +3922,8 @@ heb	nld	פעילותו מבלבלת אותי.	Zijn activiteit brengt mij in de w
 heb	nld	פעם בחודש הוא אוכל ארוחת צהרים עם אבא שלו.	Een keer per maand luncht zij met haar vader.
 heb	nld	פעם בשבוע הם אוכלים בשר.	Ze eten een keer per week vlees.
 heb	nld	פעם הבאה תביא איתך את אחותך.	Breng volgende keer uw zuster mee.
-heb	nld	פעם ראשונה שאחזתי ביד חברתי היה בבית הרוחות בלונה-פארק.	De eerste keer dat ik de hand van mijn vriendin vasthield was in het spookhuis.
 heb	nld	פעמיים בשבוע בא הגנן לכסח את הדשא, לכן לא יכולתי אף פעם לשכב בעשב הגבוה.	Twee keer in de week kwam de tuinman om het gras te maaien, daarom kon ik nooit in het lange gras liggen.
+heb	nld	פעם ראשונה שאחזתי ביד חברתי היה בבית הרוחות בלונה-פארק.	De eerste keer dat ik de hand van mijn vriendin vasthield was in het spookhuis.
 heb	nld	פצעתי אותך?	Heb ik u verwond?
 heb	nld	פצעתי את אצבעי בסכין.	Ik heb me met een mes in mijn vinger gesneden.
 heb	nld	פצצת האטום היא איום גדול על האנושות.	De atoombom is een grote bedreiging voor de mensheid.
@@ -3936,13 +3951,13 @@ heb	nld	צפה בחתול שלך ולמד להכיר אותו.	Observeer uw kat 
 heb	nld	צפיתי במשחק טניס בטלוויזיה.	Ik heb een tenniswedstrijd gekeken op televisie.
 heb	nld	צץ לי רעיון.	Ik had een idee.
 heb	nld	צריך אמנם לעשות משהו כדי לפתור את הבעיה, אבל זה שקול ליריית פגז תותח על יתוש.	Er moet inderdaad wat gedaan worden aan het probleem, maar dit is met een kanon op een mug schieten.
+heb	nld	צריכים לפטר 300 עובדים במפעל.	Ze moesten driehonderd mannen ontslaan in de fabriek.
 heb	nld	צריך לגהץ את החולצה הזאת.	Dit overhemd moet gestreken worden.
 heb	nld	צריך לקבל את החיים כפי שהם, לטוב ולרע.	We moeten het leven aanvaarden, ten goede of ten kwade.
 heb	nld	צריך לתקן את האופניים האלה.	Deze fiets moet gerepareerd worden.
 heb	nld	צריך לתקן את הכסא הזה.	Deze stoel moet gerepareerd worden.
 heb	nld	צריך לתקן את השעון המעורר שלי.	Mijn klok moet gerepareerd worden.
 heb	nld	צריך לתקן את שעון היד שלי.	Mijn horloge moet gerepareerd worden.
-heb	nld	צריכים לפטר 300 עובדים במפעל.	Ze moesten driehonderd mannen ontslaan in de fabriek.
 heb	nld	צר לי שהלכתי לשם.	Het spijt mij dat ik er naartoe geweest ben.
 heb	nld	צרפתים חושבים שדבר לא נבצר מהם.	Fransen denken dat niets onmogelijk is.
 heb	nld	צרפתית אני לא מדבר כל כך טוב.	Zo goed spreek ik geen Frans.
@@ -3955,8 +3970,8 @@ heb	nld	קדימה! לאופניים!	Vooruit! Naar de fietsen!
 heb	nld	קדימה! קצת יותר מהר!	Vooruit! Iets sneller!
 heb	nld	קולך גרם לי לבכות.	Je stem deed me huilen.
 heb	nld	קומי עורי אהובתי ובואי איתי יפתי.	Sta op mijn geliefde en kom met mij, mijn schoonheid.
-heb	nld	קוף מטפס על עץ גבוה.	Een aap beklimt een hoge boom.
 heb	nld	קופים מטפסים על עצים.	Apen klimmen in bomen.
+heb	nld	קוף מטפס על עץ גבוה.	Een aap beklimt een hoge boom.
 heb	nld	קח את התרופה אחרי כל ארוחה.	Neem dit medicijn na elke maaltijd.
 heb	nld	קח את התרופה הזאת. מיד תרגיש הקלה.	Neem deze medicatie. Je zal je snel beter voelen.
 heb	nld	קח ממחטה, אפך נוזל.	Neem een zakdoek, uw neus loopt.
@@ -3968,11 +3983,11 @@ heb	nld	קל לחבר בעזרת מחשבון.	Het is gemakkelijk getallen samen
 heb	nld	קל מאוד להשיב על שאלות אלו.	Deze vragen zijn heel gemakkelijk te beantwoorden.
 heb	nld	קלף שתיים מן הבננות.	Schil twee van de bananen.
 heb	nld	קמיל ורפאל לוחצים ידיים בסיום התחרות.	Kamiel en Rafaël schudden elkaar de hand aan het einde van de wedstrijd.
-heb	nld	קן קיפל את הסדין לחצי.	Ken vouwde het laken in twee.
 heb	nld	קנדה גדולה מיפן.	Canada is groter dan Japan.
 heb	nld	קנדה עשירה בעץ גולמי.	Canada is rijk aan hout.
 heb	nld	קניתי לי שעון יפה.	Ik kocht een mooi horloge voor mezelf.
 heb	nld	קניתי שתי ככרות לחם.	Ik heb twee broden gekocht.
+heb	nld	קן קיפל את הסדין לחצי.	Ken vouwde het laken in twee.
 heb	nld	קפה חם מרענן אותי תמיד.	Hete koffie verfrist mij altijd.
 heb	nld	קפוץ! אל תפחד! זה לא כל כך גבוה!	Spring! Geen schrik! Het is niet heel hoog!
 heb	nld	קפוץ פנימה והבא איתך את חבריך!	Spring eens binnen en breng al je vrienden mee!
@@ -4096,7 +4111,6 @@ heb	nld	שלם בזמן את חובותיך.	Betaal op tijd uw schulden af.
 heb	nld	של מי האופניים האלה?	Van wie is die fiets?
 heb	nld	של מי העט הזה?	Wiens schrijfgerei is dat?
 heb	nld	שם הבן שלהם ג'ון.	De naam van hun zoon is John.
-heb	nld	שם עמדתי, איש הצוות היחידי שלא נפגע.	Daar stond ik, het enig ongeschonden bemanningslid.
 heb	nld	שמה לוציפרה.	Haar naam is Lucifera.
 heb	nld	שמור את העודף!	Hou het wisselgeld!
 heb	nld	שמור לי את הספר בצד.	Leg dat boek voor mij aan de kant.
@@ -4109,6 +4123,7 @@ heb	nld	שמחתי לראות אנשים שנהנים ואוהבים אחד את
 heb	nld	שמי וואנג.	Mijn naam is Wang.
 heb	nld	שמי טאנאקה איצ'ירו.	Ik heet Tanaka Itsjiro.
 heb	nld	שמי יוחנן.	Ik heet John.
+heb	nld	שם עמדתי, איש הצוות היחידי שלא נפגע.	Daar stond ik, het enig ongeschonden bemanningslid.
 heb	nld	שמעתי עליו אבל אני לא מכיר אותו אישית.	Ik heb van hem gehoord maar ik ken hem niet persoonlijk.
 heb	nld	שמתי את מבטחי בו.	Ik nam hem in vertrouwen.
 heb	nld	שמתי לב שדוברי אספרנטו לא מתעניינים בהפרת זכויות האדם באוקרינה.	Ik heb gemerkt dat esperantisten berichten over schending van mensenrechten in Oekraïne niet interessant vinden.
@@ -4165,8 +4180,6 @@ heb	nld	תודה רבה!	Dank u wel!
 heb	nld	תודיע לי מתי תחזור הביתה.	Laat mij weten wanneer ge terug naar huis komt.
 heb	nld	תודיע לנו אם אתה יכול לבוא.	Laat ons weten of ge kunt komen.
 heb	nld	תוודא שתהיה באחת עשרה בדיוק בתחנת הרכבת.	Zorg dat ge om elf uur precies in het station zijt.
-heb	nld	תוך עשר שנים תשתנה עירנו במידה רבה.	In tien jaar zal onze stad sterk veranderen.
-heb	nld	תוך שישה חודשים היא עוזבת את הארץ.	Binnen zes maanden verlaat ze het land.
 heb	nld	תוכלי לעזור לי רגע?	Kunt u me helpen?
 heb	nld	תוכל להזמין לי מונית?	Kunt ge een taxi voor mij bestellen?
 heb	nld	תוכל להחליף את זה, בבקשה?	Zou u dit alstublieft kunnen ruilen?
@@ -4181,6 +4194,8 @@ heb	nld	תוכל לתת לי דוגמא?	Kan je me een voorbeeld geven?
 heb	nld	תוכל לתת לנו כמה דוגמאות?	Kunt u ons een paar voorbeelden geven?
 heb	nld	תוכל מחר להסתדר בלי הרכב? אני צריך אותו.	Kunt ge morgen uw zaken afhandelen zonder de auto? Ik heb hem nodig.
 heb	nld	תוכנית הוועידה חולקה.	De dagorde van de vergadering werd rondgedeeld.
+heb	nld	תוך עשר שנים תשתנה עירנו במידה רבה.	In tien jaar zal onze stad sterk veranderen.
+heb	nld	תוך שישה חודשים היא עוזבת את הארץ.	Binnen zes maanden verlaat ze het land.
 heb	nld	תום אוויל משריש.	Tom is een dommerik.
 heb	nld	תום אינו מוסיקאי גרוע.	Tom is geen slechte muzikant.
 heb	nld	תום אמר שהוא לא חשב שמרי הייתה צריכה לעשות זאת.	Tom zei dat hij niet dacht dat Mary dat moest doen.
@@ -4300,6 +4315,7 @@ heb	nld	תמיד תהיתי איך מרגישים כשיש אח או אחות.	I
 heb	nld	תמסור לה ד"ש ממני.	Doe haar de groeten van mij.
 heb	nld	תמתיני בבקשה עד שאחזור.	Wacht alstublieft tot ik terugkom.
 heb	nld	תן את העותק הזה לתום.	Geef deze kopie aan Tom.
+heb	nld	תנין נשך לו ברגל.	Een krokodil heeft in zijn been gebeten.
 heb	nld	תן לו אצבע והוא ירצה את כל היד.	Als je hem een vinger geeft, neemt hij de hele hand.
 heb	nld	תן לו להנות מהספק.	Geef hem het voordeel van de twijfel.
 heb	nld	תן לו למצוא בעצמו פתרון.	Laat hem zelf een oplossing vinden.
@@ -4316,7 +4332,6 @@ heb	nld	תן לי עוד הזדמנות אחת.	Geef me alstublieft nog een kans
 heb	nld	תן לכל לצאת.	Laat het er allemaal uit.
 heb	nld	תן לתום לסחוב את זה.	Laat Tom het dragen.
 heb	nld	תן מזון לציפור!	Geef de vogel voer!
-heb	nld	תנין נשך לו ברגל.	Een krokodil heeft in zijn been gebeten.
 heb	nld	תנסה לא להגזים באכילה.	Probeer niet te veel te eten.
 heb	nld	תנסי לא לעלות לו על העצבים.	Probeer hem niet te ergeren.
 heb	nld	תסדר בבקשה את הכלים שם.	Ruim a.u.b. dat vaatwerk daar op.

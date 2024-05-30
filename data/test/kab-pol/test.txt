@@ -1,7 +1,11 @@
 kab	pol	Acekkuḥ-is d awraɣ yerna d tazerqaqt.	Ona ma blond włosy i niebieskie oczy.
+kab	pol	Ad tenseḍ da tameddit-a.	Tutaj będziesz dzisiaj spać.
+kab	pol	Ad tensem da tameddit-a.	Tutaj będziesz dzisiaj spać.
+kab	pol	Ad tensemt da tameddit-a.	Tutaj będziesz dzisiaj spać.
 kab	pol	Ad ttxemmimeɣ anwa i ixedmen akk annect-a.	Zastanawiam się, kto to wszystko zrobił.
 kab	pol	Aɛudiw-nni d aberkan.	Koń jest czany.
 kab	pol	Amek yezmer ad d-yerr ayen yexser?	Jak zamierza naprawić wyrządzoną stratę?
+kab	pol	Anida i zemreɣ ad ẓẓalleɣ?	Gdzie mogę się pomodlić?
 kab	pol	Anwa i ak-d-yennan aya?	Kto pani to powiedział?
 kab	pol	Anwa i akent-id-yennan aya?	Kto pani to powiedział?
 kab	pol	Anwa i am-d-yennan aya?	Kto pani to powiedział?
@@ -16,10 +20,22 @@ kab	pol	D acu i k-yuɣen?	Co pan ma?
 kab	pol	D acu i tesɛam?	Co pan ma?
 kab	pol	D acu i tesɛamt?	Co pan ma?
 kab	pol	Dayen ḥemmleɣ-k.	Zakochałem się w Tobie.
+kab	pol	Ddumt yid-sen.	Pojedź z nimi.
+kab	pol	Ddumt yid-sent.	Pojedź z nimi.
+kab	pol	Ddut yid-sen.	Pojedź z nimi.
+kab	pol	Ddut yid-sent.	Pojedź z nimi.
+kab	pol	Ddu yid-sen.	Pojedźcie z nimi.
+kab	pol	Ddu yid-sen.	Pojedź z nimi.
+kab	pol	Ddu yid-sent.	Pojedź z nimi.
+kab	pol	D tudayt kemm?	Jesteś żydem?
+kab	pol	D uday kečč?	Jesteś żydem?
 kab	pol	Iḥemmel-itt. Daɣ tḥemmel-it.	On ją kocha. Ona jego również.
 kab	pol	Iḥeqqa, teẓriḍ anda i tezdeɣ tura?	Apropos, czy wiesz gdzie ona teraz mieszka?
 kab	pol	Imeḥbas ad rewwlen!	Więźniowie uciekają!
 kab	pol	Iruḥ Tom ɣer uɣervaz.	Tom poszedł do szkoły.
+kab	pol	Kečč d ineslem?	Jesteś muzułmaninem?
+kab	pol	Kečč d uday?	Jesteś żydem?
+kab	pol	Kemm d tineslemt?	Jesteś muzułmaninem?
 kab	pol	Kyoto d tamdint icebḥen aṭas.	Kioto jest pięknym miastem.
 kab	pol	Llan 150 d aqeṛṛu i yulin ar tmacint.	Na pokładzie samolotu było 150 pasażerów.
 kab	pol	Llan 150 medden i yulin ar tmacint.	Na pokładzie samolotu było 150 pasażerów.
@@ -37,6 +53,7 @@ kab	pol	Ṛuḥ tura, neɣ ad kem-teǧǧ tmacint.	Idź natychmiast, bo się spó
 kab	pol	Ṛuḥ tura, neɣ ad k-teǧǧ tmacint.	Idź natychmiast, bo się spóźnisz na pociąg.
 kab	pol	Sɛiɣ yiwen n uvilu d azewwaɣ.	Mam czerwony rower.
 kab	pol	Taddart-a d agadir aneggaru n ucengu.	Ta wieś to ostatni przyczółek nieprzyjaciela.
+kab	pol	Tagi, d weltma.	To moja siostra.
 kab	pol	Taqenduṛt-a meqqret aṭas fell-i.	Ta sukienka jest dla mnie za duża.
 kab	pol	Telluẓeḍ yal ass.	Jesteś wiecznie głodny!
 kab	pol	Telluẓemt yal ass.	Jesteś wiecznie głodny!
@@ -50,11 +67,16 @@ kab	pol	Tom ad yeqqim.	Tom zostaje.
 kab	pol	Tom ḥemmlen-t imeddukal-is.	Przyjaciele lubią Toma.
 kab	pol	Ttlussuɣ yal ass itteqciren iberkanen.	Zwykle chodzę w czarnych butach.
 kab	pol	Ttlussuɣ yal tikkelt itteqciren iberkanen.	Zwykle chodzę w czarnych butach.
+kab	pol	Tzemreḍ ad teẓẓalleḍ din.	Tam możesz się pomodlić.
+kab	pol	Tzemrem ad teẓẓallem din.	Tam możesz się pomodlić.
+kab	pol	Tzemremt ad teẓẓallemt din.	Tam możesz się pomodlić.
 kab	pol	Ugadeɣ belli tikti-w akken nniḍen di taluft-a.	Obawiam się, że mam odmienne zdanie w tej sprawie.
 kab	pol	Ur tegziḍ ara.	Nie zrozumiałeś.
 kab	pol	Ur tessin ara uletma-k ad tɛumm akken iwata anaɣ?	Pańska siostra nie pływa zbyt dobrze, prawda?
+kab	pol	Wagi, d gma.	To mój brat.
 kab	pol	Yeffeɣ seg texxamt war awal.	Wyszedł z pokoju bez słowa.
 kab	pol	Yella ur yesɛi amwanes deg wexxam.	On był sam w domu.
+kab	pol	Yelluẓ mmi.	Moje dziecko jest głodne.
 kab	pol	Yeqqim Tom.	Tom zostaje.
 kab	pol	Yesɛa tikti nniḍen. (Yesɛa : deg yezri).	Miał odmienne zdanie.
 kab	pol	Yeṭṭes Tom.	Tom zaspał.

@@ -6,6 +6,7 @@ fra	hun	Aide-moi !	Segíts nekem!
 fra	hun	Aide-moi.	Segíts nekem!
 fra	hun	Aimeriez-vous les voir ?	Szereted nézni őket?
 fra	hun	Aimes-tu faire la cuisine ?	Szeretsz főzni?
+fra	hun	Aimes-tu la compote ?	Szereted a kompótot?
 fra	hun	Aimes-tu le base-ball ?	Szereted a baseballt?
 fra	hun	Aimes-tu ta mère ?	Szereted édesanyádat?
 fra	hun	Aimez-vous la littérature française ?	Szereti ön a francia irodalmat?
@@ -24,11 +25,19 @@ fra	hun	Alors n'hésitez pas.	Tehát, ne teketóriázz!
 fra	hun	Alors quel est ton problème ?	Neked meg mi a bajod?
 fra	hun	Alors, vous êtes-vous décidés ?	Nos, dűlőre jutott már?
 fra	hun	À mon avis, il a raison.	Szerintem igaza van.
+fra	hun	À Paris, on parle français.	Párizsban franciául beszélnek.
+fra	hun	À part son nom, je ne savais rien de lui.	A nevén kívül mást nem tudtam róla.
+fra	hun	Appelez !	Hívjátok!
 fra	hun	Appelez-nous !	Hívjál meg bennünket.
+fra	hun	Appelle !	Hívd!
+fra	hun	Appelle !	Hívjad!
 fra	hun	Apporte-moi le journal.	Hozd el nekem az újságot.
 fra	hun	Apprendre l'espéranto est très intéressant.	Az eszperantó nyelv tanulása nagyon érdekes.
+fra	hun	Apprendre une langue tout seul est une chose difficile.	Egyedül nyelvet tanulni kemény dolog.
 fra	hun	Apprenez ces phrases.	Tanuljátok meg ezeket a mondatokat!
+fra	hun	Après vingt ans d'absence, elle vient me chercher !	Húsz év távollét után, jött, keresett engem.
 fra	hun	Après vous.	Csak ön után.
+fra	hun	À propos, comment va ta mère ?	Apropó, hogy van az anyád?
 fra	hun	À proximité se trouve un arrêt de bus.	Van egy buszmegálló itt a közelben.
 fra	hun	À quel étage habites-tu ?	Melyik szinten laksz?
 fra	hun	À quelle amicale appartiens-tu ?	Melyik baráti csoportnak vagy a tagja?
@@ -37,22 +46,33 @@ fra	hun	À quelle heure le train pour New York part-il ?	Hány órakor indul a v
 fra	hun	À quelle heure part le train pour New York ?	Hány órakor indul a vonat New Yorkba?
 fra	hun	À quelle heure tu t'es levé aujourd'hui ?	Hány órakor keltél ma fel?
 fra	hun	À quelle heure tu t'es levée aujourd'hui ?	Hány órakor keltél ma fel?
+fra	hun	À qui est-il adressé ?	Kinek van címezve?
 fra	hun	Arrête de me fixer des yeux !	Ne bámulj engem.
 fra	hun	Arrêtez de me corriger !	Többé ne javíts ki!
 fra	hun	Assieds-toi, s'il te plaît.	Ülj le, kérlek.
+fra	hun	« As-tu acheté une nouvelle maison ? » « Oui, j'en ai acheté une. »	— Új házat vettél? — Igen, azt.
+fra	hun	« As-tu acheté une nouvelle maison ? » « Oui, j'en ai acheté une. »	— Vettél egy új házat? — Igen, vettem egyet.
+fra	hun	As-tu attendu longtemps ?	Sokat vártál?
 fra	hun	As-tu compris ?	Megértetted?
 fra	hun	As-tu déjà chanté pour un public?	Énekeltél már publikum előtt?
 fra	hun	As-tu déjà été à l'étranger ?	Voltál már külföldön?
 fra	hun	As-tu du vin ?	Van borod?
+fra	hun	As-tu encore de l'argent ?	Van még pénzed?
+fra	hun	As-tu encore même de la présence d’esprit ?	Itt vagy még lélekben?
+fra	hun	As-tu enfin rangé ta chambre ?	Összerámoltad végre-valahára a szobád?
+fra	hun	As-tu enfin rangé ta chambre ?	Összetakarítottad végre a szobádat?
 fra	hun	As-tu envie d'aller nager ?	Van kedved úszni menni?
 fra	hun	As-tu fait ceci ?	Megtetted ezt?
+fra	hun	As-tu fait quelque chose contre ?	Tettél valamit ellene?
 fra	hun	As-tu fini ?	Befejezted?
 fra	hun	As-tu jamais essayé d'apprendre une autre langue?	Próbáltál már más nyelvet tanulni?
 fra	hun	As-tu oublié ton argent ?	Elfelejtetted a pénzedet?
 fra	hun	As-tu peur des araignées ?	Félsz a pókoktól?
 fra	hun	As-tu peur des serpents ?	Félsz a kígyóktól?
 fra	hun	As-tu reçu ma lettre ?	Megkaptad a levelem?
+fra	hun	As-tu tes papiers sur toi ?	Nálad vannak az irataid?
 fra	hun	As-tu un dictionnaire d'anglais ?	Van egy angol szótárad?
+fra	hun	As-tu une clé de réserve ?	Van pótkulcsod?
 fra	hun	À ta place, je lui demanderais.	Ha a helyedben lennék, megkérdezném tőle.
 fra	hun	A-t-il déjà fini ses devoirs ?	Befejezte már a háziját?
 fra	hun	Attache-toi, lorsque tu conduis !	Kapcsold be a biztonsági övet, ha volán mögött ülsz!
@@ -61,7 +81,10 @@ fra	hun	Attendez un moment.	Várjon egy percet!
 fra	hun	Attends de voir ça !	Várj, míg meg nem látod!
 fra	hun	Au début, Mag avait le mal du pays.	Kezdetben Mag honvágyat érzett.
 fra	hun	Au Japon, la nouvelle année scolaire commence en avril.	Japánban az új tanév áprilisban kezdődik.
+fra	hun	Aujourd'hui, c'est la fête au village.	Ma van falunap.
+fra	hun	Aujourd'hui, c'est la fête au village.	Ünnep van ma a faluban.
 fra	hun	Aujourd'hui, c'est mardi.	Ma kedd van.
+fra	hun	Aujourd'hui, c'est mon jour de congé.	Ma van a szabadnapom.
 fra	hun	Aujourd'hui, c'est vendredi.	Ma péntek van.
 fra	hun	Aujourd'hui il y a peu de clients.	Ma kevés ügyfél van.
 fra	hun	Aujourd'hui je ne vais plus nulle part.	Sehova máshova nem megyek ma.
@@ -77,12 +100,21 @@ fra	hun	Avec quel savon te laves-tu les mains ?	Milyen szappannal mosol kezet?
 fra	hun	Avec qui fêtes-tu le Jour de l'an ?	Kivel töltöd a szilvesztert?
 fra	hun	Avec un chariot à provisions, j'ai transporté à pied le sapin de Noël depuis le magasin jusqu'à la maison.	Egy bevásárlókocsival toltam el a fenyőfát az üzlettől a házig.
 fra	hun	Avez-vous des enfants ?	Vannak gyerekeitek?
+fra	hun	Avez-vous des livres de grammaire française ?	Vannak francia nyelvtankönyvei?
 fra	hun	Avez-vous mal au ventre ?	Önnek fáj a hasa?
+fra	hun	Avez-vous montré cela à vos parents ?	Megmutatta ezt a szüleinek?
 fra	hun	Avez-vous une chambre moins chère ?	Van egy nem túl drága szobájuk?
 fra	hun	Avez-vous une question ?	Van kérdése?
 fra	hun	Avons-nous gagné ?	Nyertünk?
 fra	hun	À votre place, je lui viendrais en aide.	A helyedben segítenék neki.
 fra	hun	Barack Obama est chrétien.	Barack Obama keresztény.
+fra	hun	Beaucoup connaissent la vérité.	Az igazságot sokan ismerik.
+fra	hun	Beaucoup connaissent la vérité.	Sokan ismerik az igazságot.
+fra	hun	Beaucoup connaissent la vérité.	Sokan tudják az igazságot.
+fra	hun	Beaucoup de gens ont besoin d'aide.	Sokaknak van szüksége segítségre.
+fra	hun	Beaucoup de gens ont besoin d'aide.	Sok emberenek kell segítség.
+fra	hun	Beaucoup de gens ont besoin d'aide.	Sok ember szorul segítségre.
+fra	hun	Beaucoup de voitures ont dérapé.	Sok autó megcsúszott.
 fra	hun	Beaucoup d'hommes partirent vers l'Ouest à la recherche d'or.	Sok ember indult el A nyugatra aranyat keresni.
 fra	hun	Beaucoup étaient blessées.	Sokan megsérültek.
 fra	hun	Berne est la capitale de la Suisse.	Bern Svájc fővárosa.
@@ -90,6 +122,9 @@ fra	hun	Beth attendait avec impatience de le voir, mais il ne se montra jamais.	
 fra	hun	Betty est professeur de danse.	Betty tánctanár.
 fra	hun	Bien sûr.	Persze!
 fra	hun	Bien sûr que je comprends.	Természetesen, értem.
+fra	hun	Bien sûr que je m'en souviens !	Persze hogy emlékszem rá!
+fra	hun	Bienvenue au club, Tom.	Üdv a klubban, Tom!
+fra	hun	Bienvenue au club !	Üdv a klubban!
 fra	hun	Bienvenue dans ma vie !	Üdvözöllek az életemben.
 fra	hun	Bill a beaucoup d'amis.	Billnek sok barátja van.
 fra	hun	Bois ton lait.	Idd a tejed!
@@ -104,6 +139,7 @@ fra	hun	Bon, je suis prêt.	Na, én kész vagyok.
 fra	hun	Bonjour, comment allez-vous ?	Jó estét, hogy van?
 fra	hun	Bonjour, comment allez-vous ?	Jó reggelt! Hogy van?
 fra	hun	Bonjour, comment ça va ?	Halló! Hogy vagy?
+fra	hun	Bonjour, je m'appelle Mohand.	Jó napot, a nevem Mohand.
 fra	hun	Bonjour, Madame Virtanen.	Jó napot, Virtanen asszony.
 fra	hun	Bonjour, Mike.	Jó reggelt, Mike.
 fra	hun	Bonne chance.	Sok szerencsét!
@@ -115,6 +151,8 @@ fra	hun	Ça alors !	Egek Ura!
 fra	hun	Ça alors !	Még ilyet!
 fra	hun	Ça c'est la véritable raison.	Ez az igazi ok.
 fra	hun	Ça colle parce que j'ai malheureusement renversé de la bière dessus.	Sajnos ragad, mert rádöntöttem a sört.
+fra	hun	Ça doit être une illusion d'optique.	Ez biztos egy optikai csalódás.
+fra	hun	Ça fonctionne de nouveau.	Újra működik.
 fra	hun	Ça n'a aucun sens.	Ennek nincs értelme.
 fra	hun	Ça ne sert à rien de pleurer.	A sírás semmit sem segít.
 fra	hun	Ça n'est pas une phrase.	Ez nem egy mondat.
@@ -124,10 +162,14 @@ fra	hun	Ça sent bon !	Az illata az jó!
 fra	hun	Ça sera assez.	Ez elég lesz.
 fra	hun	Ça va.	Minden rendben van.
 fra	hun	Ce bébé ne fait rien d'autre que pleurer.	Az a baba semmit sem csinál, csak sír.
+fra	hun	Ce champignon n'est pas toxique.	Ez a gomba nem mérgező.
+fra	hun	Ce champignon n'est pas toxique.	Nem mérgező ez a gomba.
+fra	hun	Ce chien semble être malade.	Ez a kutya betegnek tűnik.
 fra	hun	Ceci est le livre dont je vous ai parlé.	Ez az a könyv, amiről beszéltem önöknek.
 fra	hun	Ceci n'est pas une phrase.	Ez nem egy mondat.
 fra	hun	Ceci n'est pas un serpent !	Ez nem kígyó!
 fra	hun	Ce couteau ne coupe pas bien.	Ez a kés nem jól vág.
+fra	hun	Ce fut un beau tumulte.	Nagy botrány volt.
 fra	hun	Ce fut une idée stupide.	Ez egy ostoba ötlet volt.
 fra	hun	Ce fut un plaisir de vous rencontrer, M. Tamori.	Öröm volt találkozni önnel, Tamori úr.
 fra	hun	Ce garçon est mon fils.	Ez a fiú az én fiam.
@@ -149,7 +191,10 @@ fra	hun	Ce livre parle de la torture.	Ebben a könyvben a kínzásokról van sz�
 fra	hun	Ce mec est complètement zinzin !	Teljesen buggyant a mókus!
 fra	hun	Ce mec est complètement zinzin !	Totál flúgos a krapek!
 fra	hun	Ce mot a deux sens.	Ennek a szónak két jelentése van.
+fra	hun	Ce mot ne s'emploie pas.	Ezt a szót nem használják.
+fra	hun	Ce ne sont pas mes parents.	Nem az én szüleim.
 fra	hun	Ce ne sont toutes que de vieilles histoires.	Ezek mind régi történetek.
+fra	hun	Ce n'est jamais bon.	Soha nem jó.
 fra	hun	Ce n'est pas bien.	Ez nem jó.
 fra	hun	Ce n'est pas clair du tout.	Nagyon nem tiszta.
 fra	hun	Ce n'est pas drôle !	Ez nem vicces.
@@ -157,8 +202,12 @@ fra	hun	Ce n'est pas dur.	Ez nem nehéz.
 fra	hun	Ce n'est pas encore la fin de l'histoire.	Ez még nem a történet vége.
 fra	hun	Ce n'est pas Joan. Tu t'es trompé.	Ez nem Joan. Tévedsz.
 fra	hun	Ce n'est pas Joan. Vous vous êtez trompée.	Ez nem Joan. Tévedsz.
+fra	hun	Ce n'est pas mon chien.	Ez nem az én kutyám.
 fra	hun	Ce n'est pas mon père.	Ő nem az apám.
+fra	hun	Ce n'est pas toi qui diriges.	Nem te dirigálsz!
+fra	hun	Ce n'est pas toi qui diriges.	Nem te vagy az, aki hozza a parancsokat!
 fra	hun	Ce n'est pas ton couteau.	Ez nem a te késed.
+fra	hun	Ce n'est pas un crocodile, mais un alligator.	Az nem krokodil, hanem aligátor.
 fra	hun	Ce n'est pas une illusion.	Ez nem illúzió.
 fra	hun	Ce n'est pas une phrase.	Ez nem egy mondat.
 fra	hun	Ce n'est pas un hôpital.	Ez nem kórház.
@@ -167,6 +216,12 @@ fra	hun	Ce n'est qu'un ami.	Nem más, mint egy barát.
 fra	hun	Ce n'est qu'une rumeur.	Ez csak valami mesebeszéd.
 fra	hun	Ce n'est qu'une rumeur.	Ez nem több, mint egy mende-monda.
 fra	hun	Ce n'est qu'une rumeur.	Ezt csak úgy mondják.
+fra	hun	Ce n’est qu’un jeu de mon imagination.	Ez csupán csak a képzeletem játéka.
+fra	hun	Ce n'est qu'un troll.	Ő csak egy troll.
+fra	hun	Ce n'était qu'une illusion d'optique.	Csak egy optikai csalódás volt.
+fra	hun	Ce n'était qu'une illusion d'optique.	Csak optikai csalódás volt.
+fra	hun	Ce n'était qu'une illusion d'optique.	Ez csak optikai csalódás volt.
+fra	hun	Ce n'était qu'une rumeur.	Csak pletyka volt.
 fra	hun	Central Park est proche de mon lieu de travail.	A Central Park a munkahelyem közelében van.
 fra	hun	Ce pantalon est un peu trop serré à la taille.	Ez a nadrág túlságosan szűk derékban.
 fra	hun	Ce poisson est-il encore vivant ?	Él még az a hal?
@@ -185,15 +240,18 @@ fra	hun	Ces livres sont les nôtres.	Ezek a mi könyveink.
 fra	hun	Ces lunettes te vont bien.	Jól áll neked a szemüveg.
 fra	hun	Ce soir, nos amis viennent nous voir.	Ma este a barátaink jönnek hozzánk.
 fra	hun	Ce sont des fleurs jaunes.	Ezek sárga virágok.
+fra	hun	Ce sont des problèmes sérieux.	Ezek komoly gondok.
 fra	hun	Ce sont les avions qui se posent dans les aéroports.	Repülőtérre szállnak le a repülőgépek.
 fra	hun	Ce sont les chaussures de qui ?	Kinek a cipője ez?
 fra	hun	Ce sont nos livres.	Ezek a mi könyveink.
 fra	hun	Ce sont nos voitures.	Ezek a mi autóink.
+fra	hun	Ce sont tes amis ?	A barátaid?
 fra	hun	Ces problèmes doivent être traités avec attention.	Ezeket a problémákat figyelmesen kell kezelni.
 fra	hun	C'est à cause de toi si je suis estropié .	Miattad lettem rokkant.
 fra	hun	C'est affaire de goût.	Ez ízlés dolga.
 fra	hun	C'est à lui que tu dois rendre ce livre.	Neki kell ezt a könyvet visszaadnod.
 fra	hun	C'est arrangé, alors.	Nos akkor ez így jól van.
+fra	hun	C'est arrivé par accident.	Megtörtént csak úgy.
 fra	hun	C'est au crayon, donc tu peux le gommer si besoin.	Ez ceruzával van, ha szükséges, kiradírozhatod.
 fra	hun	C'est beau.	Ez gyönyörű.
 fra	hun	C'est bien la dernière personne que je veux voir.	Ő az utolsó ember, akit látni akarok.
@@ -201,7 +259,9 @@ fra	hun	C'est bien, non ?	Az jó, nem igaz?
 fra	hun	C'est ce que je ferais.	Én ezt tenném.
 fra	hun	C'est cool.	Ez király!
 fra	hun	C'est difficile.	Ez nehéz.
+fra	hun	C'est du sabotage !	Ez szabotázs!
 fra	hun	C'est en quelque sorte étrange.	Ez valahogy különös.
+fra	hun	C'est exactement ça !	Pontosan ez az!
 fra	hun	C'est facile à dire !	Könnyű azt mondani!
 fra	hun	C'est fait.	Elkészült.
 fra	hun	C'est fini entre nous, rends-moi ma bague !	Köztünk mindennek vége, add vissza a gyűrűmet!
@@ -209,6 +269,7 @@ fra	hun	C'est froid comme de la glace.	Ez jéghideg.
 fra	hun	C'est intéressant.	Ez érdekes.
 fra	hun	C'est juste.	Ez igaz.
 fra	hun	C'est juste !	Ez így igaz.
+fra	hun	C'est juste un jeu de mon imagination.	Ez csupán csak a képzeletem játéka.
 fra	hun	C'est la clé que je cherchais.	Ez az a kulcs, amit kerestem.
 fra	hun	C'est la femme qui choisit l'homme qui la choisira.	A nő az, aki kiválasztja azt a férfit, aki kiválasztja őt.
 fra	hun	C'est la maison où j'ai vécu quand j'étais enfant.	Ebben a házban laktam, amikor gyerek voltam.
@@ -217,12 +278,16 @@ fra	hun	C'est l'amour véritable.	Ez az igaz szerelem.
 fra	hun	C'est la plus longue rue de la ville.	Ez a leghosszabb utca a városban.
 fra	hun	C'est la réponse correcte.	Ez a helyes válasz.
 fra	hun	C'est la réponse.	Ez a válasz.
+fra	hun	C'est la terre de nos ancêtres.	Ez őseink földje.
+fra	hun	C'est la trace d'un renard.	Ez rókanyom.
 fra	hun	C'est la vie !	Az élet az már csak ilyen!
+fra	hun	C'est la voiture du futur.	Ez a jövő autója.
 fra	hun	C'est le communisme.	Ez a kommunizmus.
 fra	hun	C'est le dernier train pour la fin du monde.	Ez az utolsó vonat a világ végére.
 fra	hun	C'est le fruit défendu qui a le goût le plus doux.	A tiltott gyümölcs a legédesebb.
 fra	hun	C'est le meilleur restaurant que je connaisse.	Ez a legjobb étterem, amit ismerek.
 fra	hun	C'est l'enfant terrible d'Hollywood.	Ő Hollywood fenegyereke.
+fra	hun	C'est le plus grand festival de musique.	Ez a legnagyobb zenei fesztivál.
 fra	hun	C'est le plus grand hôtel dans cette ville.	Ez a legnagyobb szálloda ebben a városban.
 fra	hun	C'est le plus long roman que j'ai jamais lu.	Ez a leghosszabb regény, amit valaha olvastam.
 fra	hun	C'est le stylo que j'ai perdu hier.	Ez az a toll, amit tegnap elvesztettem.
@@ -230,9 +295,11 @@ fra	hun	C'est le village où j'ai passé mon enfance.	Ez az a falu, ahol a gyerm
 fra	hun	C'est l'une de nos règles.	Ez az egyik szabályunk.
 fra	hun	C'est ma chambre à coucher.	Ez a hálószobám.
 fra	hun	C'est ma chambre à coucher.	Ez az én hálószobám.
+fra	hun	C'est ma propriété.	Ez az én tulajdonom.
 fra	hun	C'est ma vie !	Ez az életem!
 fra	hun	C'est mieux.	Jobb.
 fra	hun	C'est moi.	Ez vagyok én.
+fra	hun	C'est mon avion privé.	Ez az én privát gépem.
 fra	hun	C'est mon école.	Ez az én iskolám.
 fra	hun	C'est mon père.	Ő az édesapám.
 fra	hun	C'est mon rêve, de devenir enseignant.	Az az álmom, hogy tanár legyek.
@@ -240,6 +307,7 @@ fra	hun	C'est mon troisième mariage.	Ez a harmadik házasságom.
 fra	hun	C'est mon troisième mariage.	Harmadszor mentem férjhez.
 fra	hun	C'est mon troisième mariage.	Harmadszorra nősültem.
 fra	hun	C'est mon ultime proposition.	Ez az utolsó ajánlatom.
+fra	hun	C'est notre secret.	Ez a mi kis titkunk.
 fra	hun	C'est nouveau.	Új.
 fra	hun	C'est pas drôle !	Ez nem vicces.
 fra	hun	C'est possible.	Ez lehetséges.
@@ -248,17 +316,21 @@ fra	hun	C'est redondant.	Ez fölösleges.
 fra	hun	C'est Tatoeba.	Ez a Tatoeba.
 fra	hun	C'est temporaire.	Ez átmeneti.
 fra	hun	C'est toi le plus vieux.	Te vagy a legidősebb.
+fra	hun	C'est toi qui ne comprends pas !	Te nem érted!
 fra	hun	C'est ton stylo ?	Ez a te tollad?
 fra	hun	C'est tout ?	Ez minden?
 fra	hun	C'est tout nouveau.	Ez egészen új.
 fra	hun	C’est tout sauf ça.	Ez minden, csak az nem.
 fra	hun	C’est tout sauf ça.	Ez minden, de nem az.
+fra	hun	C'est trop profond pour moi.	Ez túl mély nekem.
 fra	hun	C'est trop tard pour y faire quelque chose maintenant.	Túl késő van bármit is csinálni még ma.
 fra	hun	C'est typique.	Ez tipikus.
 fra	hun	C'est un aimant très puissant.	Ez nagyon erős mágnes.
 fra	hun	C'est un ami à lui.	Ő egy barátja.
+fra	hun	C'est un ami ?	Ő egy barát?
 fra	hun	C'est un barrage de castors.	Ez hódvár.
 fra	hun	C'est un bon conseil.	Ez egy jó tanács.
+fra	hun	C'est un chat et en plus, il est orange.	Ez macska, méghozzá vörös.
 fra	hun	C'est un cigare cubain.	Ez egy kubai szivar.
 fra	hun	C'est un cul-de-sac.	Zsákutca.
 fra	hun	C'est une bonne école.	Ez egy jó iskola.
@@ -269,35 +341,47 @@ fra	hun	C'est une connaissance de ma femme.	Ő a feleségem egy ismerőse.
 fra	hun	C'est une connaissance de ma femme.	Ő a feleségem ismerőse.
 fra	hun	C'est une exagération.	Ez túlzás.
 fra	hun	C'est une excellente idée !	Kitűnő ötlet!
+fra	hun	C'est une filiale de la même entreprise.	Ez ugyanannak a cégnek a leányvállalata.
 fra	hun	C'est une idée très simple.	Nagyon egyszerű ötlet.
 fra	hun	C'est une personne très intéressante.	Nagyon érdekes személyiség.
 fra	hun	C'est une phrase.	Ez egy mondat.
+fra	hun	C'est une salle de chat privée.	Ez egy privát chatszoba.
 fra	hun	C'est une table.	Ez egy asztal.
+fra	hun	C’est une trace de chien.	Ez kutyanyom.
+fra	hun	C'est une vraie héroïne !	Ő igazi hős!
 fra	hun	C'est un homme de foi.	Hívő ember.
 fra	hun	C'est un petit village.	Ez egy kis falu.
 fra	hun	C'est un poisson.	Ez egy hal.
+fra	hun	C'est un problème mineur.	Ez egy apró probléma.
 fra	hun	C'est un train rapide. Il ne fera que peu d’arrêt.	Ez gyorsvonat. Nem sok helyen fog megállni.
 fra	hun	C'est un très bon signe.	Ez egy nagyon jó jel.
+fra	hun	C'est un vrai héros !	Ő igazi hős!
 fra	hun	C'est vert.	Ez zöld.
 fra	hun	C'est vide.	Ez üres.
+fra	hun	C’est vieux comme le monde.	Ez olyan öreg, mint a világ.
+fra	hun	C’est vieux comme le monde.	Ez olyan régi, mint a világ.
 fra	hun	C'est vrai ?	Ez igaz?
 fra	hun	C'est vrai ?	Ez így van?
 fra	hun	C'est vraiment super.	Az igazán nagyszerű.
 fra	hun	C'était avant que John aille en prison.	Ez még azelőtt volt, hogy John börtönbe került.
 fra	hun	C'était comment ?	Milyen volt?
+fra	hun	C'était horrible !	Borzalmas volt!
 fra	hun	C'était impressionnant.	Ez lenyűgöző volt.
 fra	hun	C'était la nuit.	Éjszaka volt.
 fra	hun	C'était prévisible.	Ez előre látható volt.
 fra	hun	C’était qui, la femme avec qui t’étais hier ?	Ki volt az a nő, akivel együtt voltál tegnap?
 fra	hun	C'était son unique espoir.	Ez volt az egyetlen reménye.
+fra	hun	C'était très instructif.	Igen tanulságos volt.
 fra	hun	C'était une femme d'environ quarante ans.	Egy negyven év körüli nő volt.
 fra	hun	C'était une nuit calme.	Ez egy csendes este volt.
 fra	hun	C'était un pauvre musicien.	Egy szegény muzsikus volt.
 fra	hun	C'était votre erreur.	Ez volt a hibád.
 fra	hun	Ce tapis est beau.	Ez a szőnyeg szép.
 fra	hun	Ce tapis est beau.	Szép ez a szőnyeg.
+fra	hun	Cet arbre ne jette pas d'ombre.	Nem vet árnyékot ez a fa.
 fra	hun	Cet homme m'a saluée, mais je ne le connais pas.	Ez a férfi köszönt nekem, de én nem ismerem őt.
 fra	hun	Cet oiseau est une bergeronnette grise.	Ez a madár egy barázdabillegető.
+fra	hun	Ce Tom est une catastrophe.	Ez a Tom egy sorscsapás.
 fra	hun	Ce travail est assez simple pour être accompli par un enfant.	Ez a munka annyira egyszerű, hogy egy gyerek is el tudná végezni.
 fra	hun	Ce travail exige de la pratique.	Ehhez a munkához tapasztalat kell.
 fra	hun	Cette boîte n'est pas si lourde.	Ez a doboz nem olyan nehéz.
@@ -326,16 +410,21 @@ fra	hun	Chapeau!	Le a kalappal!
 fra	hun	Chaque dimanche, je vais à l'église.	Minden vasárnap megyek templomba.
 fra	hun	Chaque mot est important.	Minden szó fontos.
 fra	hun	Chaque personne est responsable de sa conduite.	Mindenki felelős a viselkedéséért.
+fra	hun	Chut ! Vous parlez trop fort !	Sss! Túl hangosan beszéltek.
 fra	hun	Combien avez-vous d'enfants ?	Önnek hány gyereke van?
 fra	hun	Combien coûtent ces pantalons noirs et ces chemises rouges?	Mennyibe kerülnek ezek a fekete nadrágok és ezek a piros ingek?
 fra	hun	Combien de fleurs achètes-tu ?	Hány virágot vettél?
 fra	hun	Combien de gens sont susceptibles de venir ?	Mennyi ember várható?
+fra	hun	« Combien d'enfants as-tu ? » « Je n'en ai qu'un. »	— Hány gyereked van? — Csak egy.
+fra	hun	Combien de personnes travaillent pour vous ?	Hányan dolgoznak önnek?
+fra	hun	Combien de personnes travaillent pour vous ?	Hány ember dolgozik ön alatt?
 fra	hun	Combien de sandwichs restent-ils ?	Hány szendvics maradt?
 fra	hun	Combien de temps cela prendra-t-il pour arriver là-bas ?	Mennyi időbe telik odajutni?
 fra	hun	Combien de temps dois-je attendre pour le prochain bus?	Mennyit kell várnom a következő buszig?
 fra	hun	Combien de temps faut-il d'ici à la gare ?	Mennyi ideig tart az út innen az állomásra?
 fra	hun	Combien de temps va durer ce froid ?	Mennyi ideig tart még ez a hideg?
 fra	hun	Combien de voitures as-tu ?	Hány kocsid van?
+fra	hun	Combien d'heures avez-vous dormi la nuit dernière ?	Hány órát aludtatok múlt éjjel?
 fra	hun	Combien font deux et deux ?	Mennyi kettő meg kettő?
 fra	hun	Combien y a-t-il de fenêtres ?	Hány ablak van?
 fra	hun	Comme c'est intéressant !	Milyen érdekes!
@@ -348,6 +437,10 @@ fra	hun	Commençons.	Kezdjünk!
 fra	hun	Comment allez-vous ?	Hogy van?
 fra	hun	Comment as-tu fait cela ?	Hogy csináltad ezt?
 fra	hun	Comment as-tu résolu le problème ?	Hogy oldottad meg a problémát?
+fra	hun	Comment avez-vous ouvert la porte ?	Hogyan nyitottátok ki az ajtót?
+fra	hun	Comment c'est arrivé ?	Ez hogyan történt?
+fra	hun	Comment c'est arrivé ?	Hogyan történt?
+fra	hun	Comment c'est arrivé ?	Hogyan történt az?
 fra	hun	Comment dit-on "good bye" en allemand ?	Hogy mondják azt, hogy 'good bye' németül?
 fra	hun	Comment le sais-tu ?	Honnan tudod?
 fra	hun	Comment les ordinateurs fonctionnent-ils ?	Hogyan működnek a számítógépek?
@@ -362,19 +455,27 @@ fra	hun	Comme on fait son lit, on se couche.	Ki mint veti ágyát, úgy alussza 
 fra	hun	Comparé à d'autres, le passeport français est tellement moche.	Másokkal összevetve a francia útlevél elég hitvány.
 fra	hun	Comprends-tu ce livre ?	Érted ezt a könyvet?
 fra	hun	Compris ?	Megértetted?
+fra	hun	Concentre-toi sur le présent !	Koncentrálj a jelenre!
 fra	hun	Connais-tu l'anglais ?	Tudsz angolul?
 fra	hun	Connais-tu le massage cardiaque ?	Ismered a szívmasszázst?
 fra	hun	Connais-tu le mot « merci » ?	Ismered a köszönöm szót?
+fra	hun	Connais-tu les règles de ce jeu ?	Ismered ennek a játékszabályait?
 fra	hun	Connaît-elle ton numéro de téléphone ?	Tudja a telefonszámodat?
 fra	hun	Conte-moi une histoire pour m'endormir !	Mesélj egy történetet, hogy elaludjak!
+fra	hun	Continue ! Il n'y a rien à voir ici.	Haladjon! Nincs itt semmi látnivaló.
 fra	hun	Continue, mais en finnois.	Folytasd, csak finnül!
 fra	hun	Contre la bêtise il n'y a point de remède.	Hülyeség ellen nincs orvosság.
 fra	hun	Courage, mes amis !	Bátorság, barátaim!
+fra	hun	Crois-tu que je suis coupable ?	Szerinted én vagyok a hibás?
+fra	hun	Cuisiner est un art.	A főzés művészet.
 fra	hun	D'accord. Pardon.	Rendben van. Bocsánat.
 fra	hun	Dan a beaucoup d'amis sur ce site.	Dannek sok barátja van ezen a weboldalon.
 fra	hun	Dan a commencé une nouvelle vie à Londres.	Dani új életet kezdett Londonban.
 fra	hun	Dan aime voir ses phrases traduites.	Örömmel látja Dani mondatainak fordítását.
+fra	hun	Dansez.	Táncoljatok!
+fra	hun	Dans le communisme, les gens ont bâti la bêtise sur la folie.	A kommunizmusban közösen építették az ostobaságot az eszetlenségre.
 fra	hun	Dans quelle direction va cette rue ?	Merre megy ez az utca?
+fra	hun	Dans une démocratie, ce n'est pas la majorité qui prend les décisions, mais les politiciens.	A demokráciában nem a többség dönt, hanem a politikusok.
 fra	hun	Décembre a 31 jours.	Decemberben harmincegy nap van.
 fra	hun	Dégoûtant !	Gusztustalan!
 fra	hun	Demain c'est son anniversaire.	Holnap lesz a születésnapja.
@@ -406,6 +507,7 @@ fra	hun	Deux familles vivent dans la même maison.	A házban két család is lak
 fra	hun	Deux familles vivent dans la même maison.	Két család lakik ugyanabban a házban.
 fra	hun	Deux fois sept égale quatorze.	Kétszer hét az tizennégy.
 fra	hun	Deux problèmes sont restés non résolus.	Két megoldatlan probléma maradt.
+fra	hun	Devine qui était ici.	Tippelj, ki volt itt!
 fra	hun	D'habitude je me lève à huit heures.	Általában nyolckor kelek.
 fra	hun	D'habitude je me lève tôt.	Általában korán kelek.
 fra	hun	D'habitude je ne mens pas.	Általában nem hazudok.
@@ -430,16 +532,21 @@ fra	hun	Donc qui ?	Ki a csuda?
 fra	hun	Donne-moi le téléphone, Tom.	Add ide nekem a telefont, Tom.
 fra	hun	Donne-moi ton argent.	Add nekem a pénzedet.
 fra	hun	Donne-moi une tasse de café.	Adj nekem egy csésze kávét!
+fra	hun	D'où vient-elle ?	Honnan jön?
 fra	hun	Du moment que tu es silencieux, tu peux rester ici.	Amíg csendben vagy, itt maradhatsz.
 fra	hun	Écrivez votre nom, je vous prie.	Kérem, írja le a nevét.
+fra	hun	Eh bien.	Na jó.
 fra	hun	Elle a 8 ans.	Nyolc éves.
 fra	hun	Elle a 8 ans.	Ő nyolc éves.
 fra	hun	Elle a acheté une douzaine d'œufs.	Vásárolt egy tucat tojást.
 fra	hun	Elle a applaudi.	Tapsolt.
 fra	hun	Elle achète l'ordinateur.	Ő veszi meg a számítógépet.
+fra	hun	Elle a de beaux cheveux.	Szép a haja.
+fra	hun	Elle a de la fièvre.	Láza van.
 fra	hun	Elle a deux mille livres.	Van kétezer könyve.
 fra	hun	Elle adore ses enfants.	Szereti a gyerekeit.
 fra	hun	Elle a essuyé ses chaussures avant d'entrer dans la maison.	Letörölte a cipőjét, mielőtt belépett a házba.
+fra	hun	Elle a été l'amour de ma vie.	Ő volt életem szerelme.
 fra	hun	Elle a fait beaucoup d'erreurs.	Sok hibát csinált.
 fra	hun	Elle a fait beaucoup d'erreurs.	Sok hibát követett el.
 fra	hun	Elle a fait rire les enfants.	Megnevettette a gyerekeket.
@@ -452,6 +559,7 @@ fra	hun	Elle aime les enfants.	Szereti a gyermekeket.
 fra	hun	Elle aime quand un garçon la regarde.	Szereti, ha egy fiú nézi.
 fra	hun	Elle a les cheveux blonds platine.	Platinaszőke haja van.
 fra	hun	Elle a passé toute l'après-midi à cuisiner.	Főzéssel töltötte az egész délutánt.
+fra	hun	Elle apprend le hongrois.	Magyarul tanul.
 fra	hun	Elle a préparé une soupe de légumes hier soir.	Előkészítette tegnap este a zöldséglevest.
 fra	hun	Elle a préparé une soupe de légumes hier soir.	Tegnap este előkészítette a zöldséglevest.
 fra	hun	Elle a raison.	Igaza van.
@@ -460,12 +568,14 @@ fra	hun	Elle arriva au moment le plus favorable.	A legjobb pillanatban érkezett
 fra	hun	Elle a un mari et deux filles.	Férje van és két lánya.
 fra	hun	Elle avait besoin de quelqu'un qui la comprendrait.	Szüksége volt valakire, aki megérti.
 fra	hun	Elle avait des cheveux noirs de jais.	Koromfekete haja volt.
+fra	hun	Elle avait l'air un peu triste.	Némileg szomorúnak tűnt.
 fra	hun	Elle avait le mal du pays.	Honvágya volt.
 fra	hun	Elle chante, il joue de la guitare et nous dansons.	Ő énekel, ő meg gitározik, mi pedig táncolunk.
 fra	hun	Elle cherche un travail.	Munkát keres.
 fra	hun	Elle commença à chanter.	Énekelni kezdett.
 fra	hun	Elle cuisine.	Főz.
 fra	hun	Elle dépend de son mari.	A férjétől függ.
+fra	hun	Elle écrit un article pour le journal de l'école.	Cikket ír az iskolaújságba.
 fra	hun	Elle émergea de la cuisine.	A konyhából bukkant elő.
 fra	hun	Elle est à l'hôpital en ce moment.	Ő most kórházban van.
 fra	hun	Elle est architecte.	Ő építész.
@@ -473,16 +583,23 @@ fra	hun	Elle est aussi encore dépendante de ses parents après son mariage.	Mé
 fra	hun	Elle est capable de nager rapidement.	Tud gyorsan úszni.
 fra	hun	Elle est cliente de notre entreprise.	Ő a cégünk ügyfele.
 fra	hun	Elle est convaincue de mon innocence.	Szilárdan hisz ártatlanságomban.
+fra	hun	Elle est cuisinière.	Ő szakácsnő.
+fra	hun	Elle est cuisinière.	Szakácsnő.
 fra	hun	Elle est de France.	Franciaországból származik.
 fra	hun	Elle est de mauvaise humeur.	Le volt lombozódva.
 fra	hun	Elle est de mauvaise humeur.	Rossz hangulatában van.
 fra	hun	Elle est en colère avec moi.	Mérges rám.
 fra	hun	Elle est en colère contre moi.	Mérges rám.
+fra	hun	Elle est encore en bas.	Lenn van még.
+fra	hun	Elle est encore en bas.	Még lent van.
 fra	hun	Elle est là.	Ő van ott.
 fra	hun	Elle est mauvaise langue.	Gonosz nyelve van.
 fra	hun	Elle est née le cul bordé de nouilles.	Reményteljesen született.
 fra	hun	Elle est parti d'ici longtemps avant que tu arrives.	Ő már régen elment, mielőtt te megérkeztél.
+fra	hun	Elle est Polonaise.	Lengyel.
+fra	hun	Elle est Polonaise.	Ő lengyel.
 fra	hun	Elle est presque aussi grande que toi.	Ő majdnem olyan nagy, mint te.
+fra	hun	Elle est réceptionniste.	Ő recepciósnő.
 fra	hun	Elle est timide et parle peu.	Ő félénk és keveset beszél.
 fra	hun	Elle est très passable pour son âge.	Nagyon szép a korához képest.
 fra	hun	Elle était au désespoir à la mort de son mari.	Kétségbe volt esve férje halálakor.
@@ -502,6 +619,9 @@ fra	hun	Elle n'a pas de frère.	Nincs fiútestvére.
 fra	hun	Elle n'avait pas de secrets.	Nem voltak titkai.
 fra	hun	Elle ne boit que de l'eau.	Csak vizet iszik.
 fra	hun	Elle ne boit que de l'eau.	Ő csak vizet iszik.
+fra	hun	Elle ne l'a jamais oublié.	Soha nem felejtette el őt.
+fra	hun	Elle ne l'a jamais oublié.	Soha sem felejtette el őt.
+fra	hun	Elle n'est pas comme toi.	Ő nem olyan, mit te.
 fra	hun	Elle n'est pas encore là.	Ő még nincs itt.
 fra	hun	Elle n'est pas obligée de le manger.	Nem muszáj ezt megennie.
 fra	hun	Elle parle beaucoup.	Sokat beszél.
@@ -518,11 +638,16 @@ fra	hun	Elle se dévêtit.	Levetkőzött.
 fra	hun	Elle se prostituait près de la gare ferroviaire.	A vasútállomáshoz közel strichel.
 fra	hun	Elle sera toujours avec toi.	Ő mindig veled lesz.
 fra	hun	Elle s'est assise à côté de moi.	Leült mellém.
+fra	hun	Elles ne croient pas en Dieu.	Nem hisznek Istenben.
 fra	hun	Elles ne peuvent pas me donner ce que je veux.	Nem tudják nekem megadni azt, amit akarok.
 fra	hun	Elles n'ont pas besoin d'argent.	Nincs szükségük pénzre.
 fra	hun	Elles n'ont pas d'argent.	Nincsen pénzük.
 fra	hun	Elle soignait son époux malade.	Ápolta a beteg férjét.
 fra	hun	Elle souhaitait être belle.	Szép akart lenni.
+fra	hun	Elles parlent de vous.	Magáról beszélnek.
+fra	hun	Elles parlent de vous.	Önről beszélnek.
+fra	hun	Elles parlent de vous.	Rólatok beszélnek.
+fra	hun	Elles savent cela.	Ők tudják azt.
 fra	hun	Elles sont dans la fleur de l'âge.	A virágkorukat élik.
 fra	hun	Elles sont vieilles.	Ők öregek.
 fra	hun	Elle t'a donné son numéro de téléphone ?	Megadta a telefonszámát?
@@ -530,9 +655,11 @@ fra	hun	Elle t'attend chez elle.	Otthon vár rád.
 fra	hun	Elle vend des légumes.	Zöldséget árul.
 fra	hun	Elle vit à Paris depuis dix ans.	Tíz éve lakik Párizsban.
 fra	hun	Embrassez les enfants de notre part à tous.	Öleld meg a gyerekeket mindannyiiunk nevében.
+fra	hun	Émilie est ma meilleure amie.	Emília a legjobb barátnőm.
 fra	hun	Emily pleure.	Emília pityereg.
 fra	hun	Emily pleure.	Emília sír.
 fra	hun	Emily pleure.	Emília sirdogál.
+fra	hun	Émoi, émoi… et moi ?	Félelem és félelem... És énvelem?
 fra	hun	Enchanté !	Örvendek!
 fra	hun	Encore deux bières, s'il vous plaît !	Még két sört, legyen szíves!
 fra	hun	En démocratie, il est important que la presse soit indépendante.	Egy demokráciában fontos, hogy a sajtó független legyen.
@@ -551,17 +678,20 @@ fra	hun	Est-ce mauvais ?	Ez rossz?
 fra	hun	Est-ce que Bornéo est une île ou un continent ?	Borneó sziget vagy földrész?
 fra	hun	Est-ce que ce produit existe encore ?	Ez a termék még létezik?
 fra	hun	Est-ce que ce siège est libre ?	Szabad ez az ülés?
+fra	hun	Est-ce que c'est aujourd'hui son anniversaire ?	Ma van a születésnapja?
 fra	hun	Est-ce que je dois faire ça ?	Meg kell ezt csinálnom?
 fra	hun	Est-ce que l'avion va à Genève?	Megy a hajó Genovába?
 fra	hun	Est-ce que le petit déjeuner est prêt ?	Kész a reggeli?
 fra	hun	Est-ce qu'elle joue du piano ?	Zongorázik?
 fra	hun	Est-ce que Paris est loin ?	Messze van Párizs?
+fra	hun	Est-ce que quelqu'un a un conseil ?	Van valakinek javaslata?
 fra	hun	Est-ce que quelqu'un de votre famille souffre d'asthme ou d'une autre maladie allergique ?	Rokonai közül szenved-e valaki asztmában, vagy más, allergiás betegségben?
 fra	hun	Est-ce que quelqu'un ici parle français ?	Tud itt valaki franciául beszélni?
 fra	hun	Est-ce que Tom est vivant ?	Tomi él?
 fra	hun	Est-ce que tu dois le faire justement maintenant ?	Ezt neked épp most kell csinálni?
 fra	hun	Est-ce que tu es au Bangladesh ?	Bangladesben vagy?
 fra	hun	Est-ce que tu joues encore de la guitare ?	Gitározol még mindig?
+fra	hun	Est-ce que tu m'aimes aussi ?	Te is szeretsz engem?
 fra	hun	Est-ce que tu sais pourquoi ?	Tudod, hogy miért?
 fra	hun	Est-ce que vous savez nager ?	Tudnak úszni?
 fra	hun	Est-ce que vous savez nager ?	Tud úszni?
@@ -572,31 +702,48 @@ fra	hun	« Est-ce qu'il te plaît ? — Non. — Alors pourquoi rougis-tu ? »	-
 fra	hun	Est-ce ta fille ?	Ez a lányod?
 fra	hun	Est-ce ta petite amie ?	Ő a barátnőd?
 fra	hun	Est-ce Tom ?	Az Tomi?
+fra	hun	Est-ce une cigogne ou un héron ?	Ez gólya vagy gém?
+fra	hun	Est-ce un renard ?	Az egy róka?
 fra	hun	Est-ce votre chariot ?	Ez az ön bevásárlókocsija?
 fra	hun	Est-il enseignant ?	Tanár?
+fra	hun	Est-il Hongrois ?	Magyar?
+fra	hun	Est-il Hongrois ?	Ő magyar?
 fra	hun	Est-il possible qu'un cheval blanc ne soit pas un cheval ?	Lehetséges, hogy a fehér ló nem is ló?
 fra	hun	Es-tu à Naples ?	Nápolyban vagy?
 fra	hun	Es-tu chauve ?	Kopasz vagy?
+fra	hun	Es-tu d'accord ou non ?	Egyetértesz vagy nem?
 fra	hun	Es-tu de mauvaise humeur, ou quoi ?	Rossz a kedved, vagy mi?
 fra	hun	Était-il tout seul à la maison ?	Teljesen egyedül volt otthon?
 fra	hun	Et alors ?	És?
 fra	hun	Et alors ?	Na és?
+fra	hun	Et cela ne te suffit pas ?	És ez nem elég neked?
 fra	hun	Êtes-vous à Naples ?	Nápolyban vagy?
+fra	hun	« Êtes-vous chinois ? » « Non, je suis japonais. »	— Ön kínai? — Nem, japán vagyok.
+fra	hun	Êtes-vous Hongrois ?	Maga magyar?
 fra	hun	Êtes-vous jamais montée à cheval ?	Lovagoltál már valaha?
 fra	hun	Êtes-vous lycéen ?	Gimnazisták vagytok?
 fra	hun	Étonnamment, il nage même les jours où il fait froid.	Meglepő módon még a hideg napokon is úszik.
+fra	hun	Et quelles sont tes conditions ?	És mik a feltételeid?
 fra	hun	Et toi, qui es-tu ?	És te ki vagy?
 fra	hun	Et toi, qui es-tu ?	Hát te ki vagy?
 fra	hun	Étudier le français à Paris est mon rêve.	Az álmom, hogy franciául tanulhassak Párizsban.
+fra	hun	Ève a donné deux jolies pommes rouges à Adam.	Éva két szép piros almát adott Ádámnak.
+fra	hun	Ève a donné deux jolies pommes rouges à Adam.	Két szép piros almát adott Ádámnak Éva.
 fra	hun	Évidemment.	Természetesen.
+fra	hun	Excusez-moi d'exister.	Bocsánat, hogy létezem!
 fra	hun	Excusez-moi, où se trouve la bibliothèque ?	Elnézést, hol van a könyvtár?
 fra	hun	Excusez-moi, puis-je utiliser votre téléphone?	Bocsásson meg, de használhatnám a telefonját?
+fra	hun	Exprimez-vous clairement !	Érthetően fejezzétek ki magatokat!
+fra	hun	Fais ce que je dis, pas ce que je fais.	Azt csináld, amit mondok, ne azt, amit csinálok!
 fra	hun	Fais-moi un bisou.	Adj egy puszit!
 fra	hun	Faisons quelque chose de différent, cet après-midi !	Csináljunk valami más ma délután.
 fra	hun	Fais ton lit !	Vesd meg az ágyad!
 fra	hun	Fais ton travail rapidement.	Csináld gyorsan a munkád!
 fra	hun	Fantastique !	Fantasztikus!
+fra	hun	Faut-il leur dire ?	Kell nekik mondani?
 fra	hun	Faux.	Rossz.
+fra	hun	Fifty-fifty ?	Fele-fele?
+fra	hun	Fifty-fifty ?	Fifty-fifty?
 fra	hun	Fille ou garçon ?	Fiú vagy lány?
 fra	hun	Finalement nous sommes parvenus à un compromis.	Végre kompromisszumot értünk el.
 fra	hun	Finalement nous sommes parvenus à un compromis.	Végre kompromisszumra jutottunk.
@@ -605,6 +752,7 @@ fra	hun	Finis ton verre !	Fejezd be az ivást!
 fra	hun	Formidable !	Kiváló!
 fra	hun	Formidable !	Marha jó!
 fra	hun	Formidable !	Tök állat!
+fra	hun	Grâce à Dieu, je suis athée.	Hál' isten, ateista vagyok.
 fra	hun	Hannibal aux portes !	Hannibál a kapuk előtt.
 fra	hun	Helen a dix-sept ans.	Helén tizenhét éves.
 fra	hun	Hemmingen est une commune allemande.	Hemmingen egy község Németországban.
@@ -615,6 +763,8 @@ fra	hun	Hier, j'ai reçu une lettre de maman.	Tegnap levelet kaptam anyutól.
 fra	hun	Hier je ne me suis pas maquillée.	Tegnap nem sminkeltem ki magam.
 fra	hun	Hier j'étais chez moi toute la journée.	Tegnap egész nap otthon voltam.
 fra	hun	Hop !	Hopp!
+fra	hun	Ici il fait complètement sombre.	Itt egész sötét van.
+fra	hun	Ici, il n'y a pas d'eau chaude.	Itt nincs melegvíz.
 fra	hun	Ici, personne ne mange de viande.	Itt senki nem eszik húst.
 fra	hun	Idiot !	Barom!
 fra	hun	Il a beaucoup de connaissance économique.	Jó gazdasági ismeretei vannak.
@@ -642,6 +792,7 @@ fra	hun	Il aime travailler au jardin.	Szeret a kertben dolgozni.
 fra	hun	Il a parlé de l'incident ?	Beszélt a balesetről?
 fra	hun	Il a passé dix ans derrière les barreaux pour meurtre.	Tíz évet töltött börtönben gyilkosságért.
 fra	hun	Il a perdu son billet de cinéma.	Elhagyta a mozijegyét.
+fra	hun	Il apprend le hongrois.	Magyarul tanul.
 fra	hun	Il a pris l'habitude de fumer dans sa jeunesse.	Ifjúkorában szokott rá a dohányzásra.
 fra	hun	Il a rencontré sa femme sur Internet.	Feleségét az Interneten ismerte meg.
 fra	hun	Il a sept fils.	Hét fia van.
@@ -664,6 +815,7 @@ fra	hun	Il est beaucoup plus efficace d'étudier les langues étrangères dans u
 fra	hun	Il est bien connu dans notre pays.	Hazánkban ő jól ismert.
 fra	hun	Il est complètement fou.	Teljesen bolond.
 fra	hun	Il est considéré comme le meilleur médecin du village.	Őt tartják a legjobb orvosnak a faluban.
+fra	hun	Il est dangereux de sortir seule la nuit.	Veszélyes éjszaka kimenni egyedül.
 fra	hun	Il est difficile de trouver une personne contente.	Nehéz találni elégedett embert.
 fra	hun	Il est encore au lit.	Még ágyban van.
 fra	hun	Il est encore ici.	Ő még mindig itt van.
@@ -675,6 +827,8 @@ fra	hun	Il est le père de trois enfants.	Ő három gyermek édesapja.
 fra	hun	Il est mort depuis 5 ans.	Öt éve halott.
 fra	hun	Il est plus fort que toi.	Erősebb nálad.
 fra	hun	Il est plus jeune que moi.	Ő fiatalabb nálam.
+fra	hun	Il est Polonais.	Lengyel.
+fra	hun	Il est Polonais.	Ő lengyel.
 fra	hun	Il est populaire parmi nous.	Mi szeretjük és tiszteljük őt.
 fra	hun	Il est populaire parmi ses collègues.	Szeretik a munkatársai.
 fra	hun	Il est reporter pour le Time.	A Time magazin riportere.
@@ -722,6 +876,7 @@ fra	hun	Il m'a posé un lapin; je l'ai attendu toute la soirée !	Felültetett. 
 fra	hun	Il me dit que je devais parler plus lentement.	Azt mondta, hogy beszéljek lassabban.
 fra	hun	Il me semble qu’il était riche.	Nekem úgy látszik, hogy gazdag volt.
 fra	hun	Il me supplia de rester.	Kérte, hogy maradjak.
+fra	hun	Il n'a absolument rien dit à ce propos.	Semmit sem mondott erről.
 fra	hun	Il n'a pas de sang dans les veines.	Nincs vér az ereiben.
 fra	hun	Il n'a pas la langue dans la poche.	Jól fel van vágva a nyelve.
 fra	hun	Il n'a pas le sens du rythme.	Nincs ritmusérzéke.
@@ -734,21 +889,28 @@ fra	hun	Il ne comprend pas l'anglais.	Ő nem ért angolul.
 fra	hun	Il ne connaît aucun d'entre nous.	Egyikünket sem ismeri.
 fra	hun	Il ne court pas.	Nem fut.
 fra	hun	Il ne doit pas être jeune.	Nem lehet már fiatal.
+fra	hun	Il ne faut pas s'arrêter aux apparences.	Kis dolgokon nem kell fennakadni.
 fra	hun	Il neige.	Esik a hó.
 fra	hun	Il ne pouvait sous aucun prétexte manquer cette fête.	Semmilyen ürüggyel sem tudott távol maradni az ünnepségről.
 fra	hun	Il ne sait pas que j'ai un chat.	Nem tudja, hogy én egy macska vagyok.
 fra	hun	Il ne se fit pas prendre.	Nem sikerült őt elkapni.
+fra	hun	Il ne s'est rien passé d'autre ?	Más amúgy nem volt?
+fra	hun	Il ne s'est rien passé d'autre ?	Más nem történt?
 fra	hun	Il n'est pas américain mais français.	Nem amerikai, hanem francia.
+fra	hun	Il n'est pas comme toi.	Ő nem olyan, mit te.
+fra	hun	Il n'est pas Juif.	Nem zsidó.
 fra	hun	Il n'est pas lui-même aujourd'hui.	Ma ő nem önmaga.
 fra	hun	Il n'est pas mon cousin.	Ő nem az unokatestvérem.
 fra	hun	Il n'est pas mon père.	Ő nem az apám.
 fra	hun	Il n'est pas nécessaire que tu sois si pressée.	Nem kell annyira sietned.
+fra	hun	Il n'est pas nécessaire que vous continuiez à le faire.	Nem szükséges tovább folytatnia.
 fra	hun	Il n'est pas obligé de le savoir.	Nem kell, hogy tudja.
 fra	hun	Il n'est pas possible aux humains de vivre pour l'éternité.	Az ember nem élhet örökké.
 fra	hun	Il n'est pas satisfait de lui-même.	Elégedetlen saját magával.
 fra	hun	Il n'est pas toujours heureux.	Az ember nem lehet örökké boldog.
 fra	hun	Il n'est peut-être pas heureux.	Lehet, hogy nem boldog.
 fra	hun	Il n'est peut-être pas heureux.	Talán nem boldog.
+fra	hun	Il n'est rien arrivé d'autre ?	Más nem történt?
 fra	hun	Il ne visitera plus jamais la ville.	Soha többé nem fog elmenni abba a városba.
 fra	hun	Il n'y a aucune autre possibilité que de remettre notre départ.	Nincs más választásunk, el kell halasztani az indulást.
 fra	hun	Il n'y a pas beaucoup de meubles dans ma chambre.	A szobámban nincs sok bútor.
@@ -757,6 +919,7 @@ fra	hun	Il n'y a pas de chaises dans cette salle.	Nincsenek székek ebben a szob
 fra	hun	Il n'y a pas de chien plus gros que ça.	Ennél nagyobb kutya nincs.
 fra	hun	Il n'y a pas de quoi avoir peur.	Nincs mitől félni.
 fra	hun	Il n'y a pas de roses dans le jardin.	Nincsenek rózsák a kertben.
+fra	hun	Il n'y a pas un jour où je ne pense à elle.	Nincs olyan nap, hogy ne gondolnék rá.
 fra	hun	Il n'y a personne ici.	Nincs itt senki.
 fra	hun	Il n'y a plus de lait.	Nincs több tej.
 fra	hun	Il n'y a rien de plus important que les amis.	Semmi sem fontosabb, mint a barátok.
@@ -787,12 +950,16 @@ fra	hun	Ils étaient trop naïfs pour comprendre la nécessité des études.	Tú
 fra	hun	Ils furent très contents lorsque nous sommes arrivés.	Nagyon megörültek, amikor megérkeztünk.
 fra	hun	Ils furent très contents lorsque nous sommes arrivés.	Nagyon örültek, amikor megérkeztünk.
 fra	hun	Ils l'ont élu pour maire.	Polgármesterré választották.
+fra	hun	Ils mangent à l'école.	Az iskolában esznek.
 fra	hun	Ils m'ont fait attendre longtemps.	Sokáig várattak.
+fra	hun	Ils ne croient pas en Dieu.	Nem hisznek Istenben.
+fra	hun	Ils ne s'occupent pas du chien.	Nem foglalkoznak a kutyával.
 fra	hun	Ils ont besoin d'argent.	Pénzre van szükségük.
 fra	hun	Ils ont déjà mangé.	Ők már ettek.
 fra	hun	Ils ont oublié de verrouiller la porte.	Elfelejtették bezárni az ajtót.
 fra	hun	Ils ont voyagé à l'étranger pour la première fois.	Első alkalommal utaznak külföldre.
 fra	hun	Ils ouvrent la fenêtre.	Kinyitják az ablakot.
+fra	hun	Ils savaient qu'ils étaient en danger.	Tudták, hogy veszélyben vannak.
 fra	hun	Ils s'ennuient.	Ők unatkoznak.
 fra	hun	Ils sont chrétiens.	Keresztények.
 fra	hun	Ils sont ici.	Itt vannak.
@@ -802,6 +969,7 @@ fra	hun	Ils sont tristes.	Szomorúak.
 fra	hun	Ils travaillent de nuit.	Éjszaka dolgoznak.
 fra	hun	Ils vont souvent en pique-nique à vélo.	Gyakran járnak piknikre kerékpárral.
 fra	hun	Il t'en faut peu.	Nincs szükséged sokra.
+fra	hun	Il te regarde. Est-ce-que tu le connais ?	Ő téged néz. Ismered?
 fra	hun	Il tint sa promesse.	Betartotta az ígéretét.
 fra	hun	Il tomba amoureux d'elle au premier regard.	Első pillantásra beleszeretett.
 fra	hun	Il travaille dans une banque.	Egy bankban dolgozik.
@@ -815,13 +983,18 @@ fra	hun	Il voudrait devenir médecin.	Orvos szeretne lenni.
 fra	hun	Il voulait être riche.	Gazdag akart lenni.
 fra	hun	Il y a beaucoup de chiens errants ici.	Errefelé sok a kóbor kutya.
 fra	hun	Il y a beaucoup de vaisselle sale dans l'évier.	Sok koszos edény van a mosogatóban.
+fra	hun	Il y a de la violence partout.	Mindenhol erőszak van.
+fra	hun	Il y a des gens qui font confiance aux politiciens.	Vannak emberek, akik bíznak a politikusokban.
 fra	hun	Il y a tant à apprendre, encore.	Sokat kell még tanulni.
+fra	hun	Il y a toujours une possibilité.	Mindig van lehetőség.
+fra	hun	Il y a trois arbres dans la cour.	Három fa áll az udvaron.
 fra	hun	Il y a un détective parmi nous.	Van köztünk egy detektív.
 fra	hun	Il y a un détective parmi nous.	Van köztünk egy nyomozó.
 fra	hun	Il y a une autre question dont nous devons discuter.	Van még egy másik kérdés, amit meg kell vitatnunk.
 fra	hun	Il y a un étang au milieu du parc.	A park közepén egy tó áll.
 fra	hun	Il y a un garçon.	Ott van egy fiú.
 fra	hun	Il y a un traître parmi nous.	Egy áruló van köztünk.
+fra	hun	Il y a un ver de terre sous la pierre.	Van egy földigiliszta a kő alatt.
 fra	hun	Il y avait beaucoup de nourriture dans la maison.	Sok ennivaló volt a házban.
 fra	hun	Il y avait un énorme embouteillage dans le centre-ville de Kyoto.	Nagy közlekedési dugó volt Tokió központjában.
 fra	hun	Impossible !	Lehetetlen!
@@ -833,6 +1006,7 @@ fra	hun	J'admire ton courage.	Csodálom a bátorságodat.
 fra	hun	J'admire ton ignorance.	Csak ámulok és bámulok a tudatlanságodon.
 fra	hun	J'admire ton talent.	Csodálom a tehetségedet.
 fra	hun	J'adore cette langue.	Imádom ezt a nyelvet.
+fra	hun	J'adore la langue polonaise !	Imádom a lengyel nyelvet!
 fra	hun	J'adore l'arabe.	Szeretem az arab nyelvet.
 fra	hun	J'adore l'automne.	Szeretem az őszt.
 fra	hun	J'adore le bœuf.	Imádom a marhahúst.
@@ -841,6 +1015,7 @@ fra	hun	J'adore mes parents.	Szeretem a szüleimet.
 fra	hun	J'adorerais danser avec toi.	Nagyon szeretnék táncolni veled.
 fra	hun	J'ai accepté son invitation.	Elfogadtam a meghívását.
 fra	hun	J'ai acheté une paire de chaussures.	Vettem egy pár cipőt.
+fra	hun	J'ai acheté un produit défectueux.	Selejtes terméket vettem.
 fra	hun	J'ai à nouveau gagné.	Megint nyertem!
 fra	hun	J'ai appris un peu de français.	Tanultam egy kevés franciát.
 fra	hun	J'ai arrêté de fumer et de boire.	Abbahagytam a dohányzást és az ivást.
@@ -848,6 +1023,7 @@ fra	hun	J'ai assez de temps.	Van elég időm.
 fra	hun	J'ai attendu dix minutes.	Tíz percet vártam.
 fra	hun	J'ai attendu le bus sous la neige pendant deux heures.	Két órán át vártam a hóban az autóbuszra.
 fra	hun	J'ai beaucoup de rêves.	Sok álmom van.
+fra	hun	J'ai beaucoup trop mangé.	Nagyon sokat ettem.
 fra	hun	J'ai besoin d'enveloppes.	Borítékokat szeretnék.
 fra	hun	J'ai besoin de ton aide.	Szükségem van a segítségedre.
 fra	hun	J'ai besoin de trois volontaires !	Kérek három önkéntes jelenkezőt!
@@ -863,8 +1039,10 @@ fra	hun	J'ai calculé.	Osztottam-szoroztam.
 fra	hun	J'ai commencé à apprendre le français depuis quelques semaines.	Pár hete elkezdtem franciául tanulni.
 fra	hun	J'ai commencé à apprendre l'espéranto.	Elkezdtem eszperantóul tanulni.
 fra	hun	J'ai compté.	Számoltam.
+fra	hun	J'ai continué à lire le livre.	Továbbolvastam a könyvet.
 fra	hun	J'ai crié.	Kiáltottam.
 fra	hun	J'ai déjà essayé cela.	Ezt már próbáltam.
+fra	hun	J'ai de l’asthme.	Asztmás vagyok.
 fra	hun	J'ai de nombreux clients.	Sok ügyfelem van.
 fra	hun	J'ai des problèmes de thunes.	Anyagi gondjaim vannak.
 fra	hun	J'ai deux enfants.	Két gyermekem van.
@@ -875,6 +1053,7 @@ fra	hun	J'ai envie d'apprendre l'hébreu.	Szeretnék megtanulni héberül.
 fra	hun	J'ai envie de boire une bière.	Szeretnék inni sört.
 fra	hun	J'ai envie de chanter.	Énekelni van kedvem.
 fra	hun	J'ai été occupé toute la journée.	Egész nap el voltam foglalva.
+fra	hun	J'ai étudié la finance.	Tanultam pénzügyet.
 fra	hun	J'ai étudié les mathématiques plus que toi.	Keményebben tanultam a matematikát, mint te.
 fra	hun	J'ai eu une attaque cardiaque.	Szívrohamom volt.
 fra	hun	J'ai eu une bonne idée.	Volt egy jó ötletem.
@@ -889,6 +1068,9 @@ fra	hun	J'ai horreur des reptiles.	Utálom a hüllőket.
 fra	hun	J'ai horreur des serpents.	Gyűlölöm a kígyókat.
 fra	hun	J'ai joué avec des amis.	Barátokkal játszottam.
 fra	hun	J'ai juste fini de déjeuner.	Éppen megebédeltem.
+fra	hun	J'ai juste une question.	Csak egy kérdésem lenne.
+fra	hun	J'ai juste une question.	Egy kérdésem van csak.
+fra	hun	J'ai juste une question.	Egy kérdésem volna csupán.
 fra	hun	J'ai l'habitude de cuisiner pour moi.	Magamnak szoktam főzni.
 fra	hun	J'ai lu un article intéressant ce matin.	Ma reggel olvastam egy érdekes cikket.
 fra	hun	J'ai mal à la gorge.	Fáj a torkom.
@@ -896,12 +1078,15 @@ fra	hun	J'ai mal à la tête.	Fáj a fejem.
 fra	hun	J'ai mal au bras.	Fáj a karom.
 fra	hun	J'ai mal dormi la nuit dernière.	Rosszul aludtam az éjjel.
 fra	hun	J'aime beaucoup la pizza.	Nagyon szeretem a pizzát.
+fra	hun	J'aime beaucoup les serpents.	Én nagyon szeretem a kígyókat.
+fra	hun	J'aime bien la viande de porc et de volaille.	Szeretem a disznó- és csirkehúst.
 fra	hun	J'aime courir.	Szeretek futni.
 fra	hun	J'aime dormir.	Szeretek aludni.
 fra	hun	J'aime être seul.	Szívesen vagyok egyedül.
 fra	hun	J'aime la mélodie de cette chanson.	Szeretem ennek a dalnak a melódiáját.
 fra	hun	J'aime la neige.	Szeretem a havat.
 fra	hun	J'aime le rock.	Szeretem a rockot.
+fra	hun	J'aime les bretzels.	Szeretem a perecet.
 fra	hun	J'aime les femmes.	Szeretem a nőket.
 fra	hun	J'aime le thé.	Szeretem a teát.
 fra	hun	J'aime le vin rouge plus que le vin blanc.	Jobban szeretem a vörösbort, mint a fehéret.
@@ -915,15 +1100,20 @@ fra	hun	J'aimerais annuler ma réservation.	Szeretném a foglalásomat törölni
 fra	hun	J'aimerais apprendre le français.	Szeretnék megtanulni franciául.
 fra	hun	J'aimerais bien quelque chose à boire.	Szeretnék inni valamit.
 fra	hun	J'aimerais faire mes études à Paris.	Szeretnék Párizsban tanulni.
+fra	hun	J'aimerais faire plus.	Szeretnék többet tenni.
 fra	hun	J'aimerais nager dans cette rivière.	Szeretnék ebben a folyóban úszni.
 fra	hun	J'aimerais ne pas être une telle idiote.	Bárcsak ne lettem volna olyan hüllye.
 fra	hun	J'aimerais parler à votre directeur.	Szeretnék beszélni az ön igazgatójával.
 fra	hun	J'aimerais trouver quelqu'un pour s'occuper de mes enfants.	Szeretnék valakit találni, aki foglalkozik a gyermekeimmel.
+fra	hun	J'aime tous les animaux.	Minden állatot szeretek.
+fra	hun	J'aime tous les animaux.	Szeretek minden állatot.
 fra	hun	J'aime voyager en train.	Szeretek vonattal utazni.
 fra	hun	J'ai mis quelques biscuits sur la table et les enfants les ont immédiatement mangés.	Egy kis kekszet tettem az asztalra, és a gyerekek azonnal megették.
 fra	hun	J'ai oublié d'éteindre la télé avant de me coucher.	Elfelejtettem kikapcsolni a tévét, mielőtt lefeküdtem.
 fra	hun	J'ai oublié hier soir de mettre mon téléphone à recharger.	Tegnap este elfelejtettem a telefonomat töltőre rakni.
 fra	hun	J'ai oublié le livre à la maison.	A könyvet otthon felejtettem.
+fra	hun	J'ai oublié son anniversaire.	Elfelejtkeztem a születésnapjáról.
+fra	hun	J'ai paniqué et je ne savais pas quoi faire.	Bepánikoltam, és nem tudtam, mit tegyek.
 fra	hun	J'ai passé la fin de semaine avec mes amis.	A hétvégét a barátaimmal töltöttem.
 fra	hun	J'ai passé une partie de mes vacances d'été au bord du Lac Léman avec ma famille.	A Genfi-tónál töltöttem a nyári szünet egy részét a családommal.
 fra	hun	J'ai payé en petite monnaie.	Aprópénzzel fizettem.
@@ -933,8 +1123,10 @@ fra	hun	J'ai perdu mon parapluie.	Elhagytam az esernyőmet.
 fra	hun	J'ai perdu mon parapluie.	Elvesztettem az esernyőmet.
 fra	hun	J'ai peur des chevaux.	Félek a lovaktól.
 fra	hun	J'ai peur que ta montre ne retarde de deux minutes.	Attól tartok, hogy az órád két percet késik.
+fra	hun	J'ai peur que vous n'ayez une fausse idée de moi.	Attól tartok, rossz képet alkot rólam.
 fra	hun	J'ai préparé du thé.	Csináltam teát.
 fra	hun	J'ai presque oublié de dire que Marie est à l'hôpital.	Majdnem elfelejtettem mondani, hogy Mária kórházban van.
+fra	hun	J'ai quatre chats.	Négy macskám van.
 fra	hun	J’ai quelque chose dans l’œil.	Valami van a szememben.
 fra	hun	J'ai reçu une longue lettre de mes parents.	Egy hosszú levelet kaptam a szüleimtől.
 fra	hun	J'ai regardé partout, mais je n'ai pas trouvé mon portefeuille.	Már mindenütt megnéztem, de nem találom a tárcámat.
@@ -957,6 +1149,7 @@ fra	hun	J'ai très mal dormi.	Én nagyon rosszul aludtam.
 fra	hun	J'ai trouvé facile de répondre à la question.	Könnyűnek találtam a választ a kérdésre.
 fra	hun	J'ai trouvé un porte-monnaie dans la rue.	Felvettem egy tárcát az utcán.
 fra	hun	J'ai un chat blanc.	Van egy fehér macskám.
+fra	hun	J'ai un chat et un perroquet.	Van egy macskám meg egy papagájom.
 fra	hun	J'ai une bonne idée.	Nekem van egy jó ötletem.
 fra	hun	J'ai une bonne idée.	Van egy jó ötletem.
 fra	hun	J'ai une chatte.	Van egy macskám.
@@ -965,13 +1158,16 @@ fra	hun	J'ai une faim de cheval.	Farkaséhes vagyok.
 fra	hun	J'ai une femme et des enfants.	Feleségem és gyerekeim vannak.
 fra	hun	J'ai une grande famille.	Nagy a családom.
 fra	hun	J'ai une nouvelle adresse e-mail.	Új email-címem van.
+fra	hun	J'ai une place côté fenêtre.	Az ablak mellett ülök.
 fra	hun	J'ai une prescription pour ce médicament.	Van receptem ehhez az orvossághoz.
 fra	hun	J'ai vécu ici depuis un peu plus de 60 ans.	Itt laktam valamivel több mint 60 évig.
+fra	hun	J'ai visité trois pays européens jusqu'à présent.	Eddig három európai országban jártam.
 fra	hun	J'ai vu John à la bibliothèque.	A könyvtárban láttam Johnt.
 fra	hun	J'ai vu John à la bibliothèque.	Láttam Johnt a könyvtárban.
 fra	hun	J‘ai vu John dans la bibliothèque.	A könyvtárban láttam Johnt.
 fra	hun	J‘ai vu John dans la bibliothèque.	Láttam Johnt a könyvtárban.
 fra	hun	J'ai vu un avion.	Láttam egy repülőt.
+fra	hun	Jamais je ne dévierai de mon chemin.	Soha nem fogok letérni az útamról.
 fra	hun	J'apprécie ton aide.	Lekötelezel, hogy segítesz.
 fra	hun	J'apprends l'allemand.	Tanulom a németet.
 fra	hun	J'apprends le tchèque.	Tanulok csehül.
@@ -985,6 +1181,7 @@ fra	hun	J'aurais dû mentir mais je lui ai dit la vérité.	Hazudnom kellett vol
 fra	hun	J'aurais dû rester où j'étais.	Ott kellett volna maradnom, ahol voltam.
 fra	hun	J'avais alors 18 ans.	Abban az időben 18 éves voltam.
 fra	hun	J'avais l'habitude de nager quotidiennement quand j'étais enfant.	Minden nap szoktam úszni, amikor gyerek voltam.
+fra	hun	Je cherche la traduction de cette expression.	Keresem ennek a kifejezésnek a fordítását.
 fra	hun	Je cherche les lavabos.	Keresem a mellékhelyiséget.
 fra	hun	Je cherche son numéro de téléphone dans l'annuaire.	Keresem a telefonszámát a telefonkönyvben.
 fra	hun	Je cherche un correspondant français.	Francia levelezőtársat keresek.
@@ -1003,10 +1200,13 @@ fra	hun	Je connais très bien ton père.	Jól ismerem az apádat.
 fra	hun	J'économise pour acheter une nouvelle voiture.	Egy új autóra spórolok.
 fra	hun	Je crains pour l'avenir de l'humanité.	Aggódom az emberiség jövőjéért.
 fra	hun	J'écris des lettres presque tous les jours.	Majdnem minden nap írok leveleket.
+fra	hun	J'écris mieux que je ne parle.	Jobban tudok írni, mint beszélni.
 fra	hun	J'écris une phrase en allemand.	Irok egy mondatot németül.
+fra	hun	J'écris un nouveau livre.	Új könyvet írok.
 fra	hun	Je crois aux fantômes.	Én hiszek a szellemekben.
 fra	hun	Je crois en son innocence.	Hiszek az ártatlanságában.
 fra	hun	Je crois que cette photo a été prise en mai.	Azt hiszem, májusban készült ez a fénykép.
+fra	hun	Je crois que Dieu existe.	Hiszem, hogy Isten létezik.
 fra	hun	Je crois que je ne quitterai jamais Tatoeba.	Szerintem soha nem hagyok fel a Tatoebával.
 fra	hun	Je crois qu'il a raison.	Szerintem igaza van.
 fra	hun	Je crois qu'il neigera demain.	Azt hiszem, hogy holnap havazni fog.
@@ -1021,12 +1221,14 @@ fra	hun	Je déteste mon travail.	Utálom a munkámat.
 fra	hun	Je deviens folle.	Megőrülök!
 fra	hun	Je deviens fou.	Megőrülök!
 fra	hun	Je dispose de beaucoup d'espace.	Sok helyem van.
+fra	hun	Je dois absolument te dire quelque chose.	Muszáj valamit elmondanom.
 fra	hun	Je dois aller dormir.	Mennem kell aludni.
 fra	hun	Je dois apprendre le français.	Franciául kell tanulnom.
 fra	hun	Je dois porter des lunettes.	Szemüveget kell viselnem.
 fra	hun	Je dois y aller, même s'il pleut.	El kell mennem, még ha esik is.
 fra	hun	Je dormis à dix heures du soir.	Este tízkor aludtam.
 fra	hun	Je ferais n'importe quoi pour vous, Tom.	Bármit megtennék Önért, Tom.
+fra	hun	Je filais derrière lui.	Mögötte futottam.
 fra	hun	Je finis mes devoirs.	Befejeztem a feladataimat.
 fra	hun	Je hais l'hiver.	Utálom a telet.
 fra	hun	Je joue du violon.	Játszom hegedűn.
@@ -1034,6 +1236,9 @@ fra	hun	Je jure sur mon honneur.	Becsületszavamat adom neked.
 fra	hun	Je l'accompagnai au piano.	Zongorán kísértem.
 fra	hun	Je l'ai acheté la semaine passée.	A múlt héten vettem.
 fra	hun	Je l'ai attendu pendant une heure, mais il ne s'est pas montré.	Egy órát vártam rá, de nem mutatkozott.
+fra	hun	Je l'ai certes promis, mais j'ai changé d'avis.	Persze, megígértem, de meggondoltam magam.
+fra	hun	Je l'ai informée de son arrivée.	Informáltam az érkezéséről.
+fra	hun	Je l'ai informée de son arrivée.	Tudattam vele az érkezését.
 fra	hun	Je l'aime bien non pas parce qu'il est gentil mais parce qu'il est honnête.	Bírom őt, nem azért, mert barátságos, hanem mert becsületes.
 fra	hun	Je l’ai payé la semaine dernière.	A múlt héten megfizettem.
 fra	hun	Je l'ai recherché dans le supermarché.	A szupermarketben kerestem őt.
@@ -1048,6 +1253,7 @@ fra	hun	Je lisais alors un roman.	Akkor egy regényt olvastam épp'.
 fra	hun	Je lui ai montré ma chambre.	Megmutattam neki a szobámat.
 fra	hun	Je lui ai téléphoné hier.	Telefonáltam neki tegnap.
 fra	hun	Je lui donnai tout l'argent dont je disposais.	Neki adtam minden pénzem, ami volt.
+fra	hun	Je mange, car j’ai faim.	Eszem, mert éhes vagyok.
 fra	hun	Je mange des fruits et bois de l'eau.	Gyümölcsöt eszem és vizet iszom.
 fra	hun	Je mange du chocolat.	Csokoládét eszem.
 fra	hun	Je mange ma pomme.	Az almám eszem.
@@ -1058,6 +1264,7 @@ fra	hun	Je m'appelle Hisashi.	Hiszasinak hívnak.
 fra	hun	Je me connais très bien.	Nagyon jól ismerem magam.
 fra	hun	Je me nomme Tom.	A nevem Tom.
 fra	hun	Je me rappelle qu'elle portait un chapeau vert.	Emlékszem, hogy egy zöld kalapot viselt.
+fra	hun	Je me regarde dans le miroir.	Nézem magam a tükörben.
 fra	hun	Je me rends maintenant à la poste pour prendre quelques timbres.	Most elmegyek a postára, és szerzek néhány bélyeget.
 fra	hun	Je me sens bien mieux aujourd'hui.	Ma sokkal jobban vagyok.
 fra	hun	Je me sens confuse.	Össze vagyok zavarodva.
@@ -1079,9 +1286,11 @@ fra	hun	Je n'accepte pas les cadeaux.	Nem fogadok el ajándékot.
 fra	hun	Je n'achetai pas la voiture.	Nem vettem meg az autót.
 fra	hun	Je n'affame pas les chiens.	Nem éheztetem a kutyákat!
 fra	hun	Je n'ai absolument pas peur.	Én egyáltalán nem félek.
+fra	hun	Je n'ai aucun papier sur moi.	Nincs nálam semmilyen papír.
 fra	hun	Je n'ai d'autre choix que de manger ce qu'elles me servent.	Nincs más választásom, mint azt enni, amit felszolgálnak.
 fra	hun	Je n'ai encore toujours rien entendu à son sujet.	Még mindig nem hallottam róla semmit.
 fra	hun	Je n'ai jamais été timide.	Soha nem hátráltam meg.
+fra	hun	Je n'ai le temps pour rien.	Nincs időm semmire.
 fra	hun	Je n'aime pas beaucoup la télévision.	Nem szoktam a televízió előtt üldögélni.
 fra	hun	Je n'aime pas la neige.	Nem szeretem a havat.
 fra	hun	Je n'aime pas votre façon de jouer.	Nem tetszik az ön játéka.
@@ -1089,6 +1298,7 @@ fra	hun	Je n'ai pas accepté les cadeaux.	Én nem fogadtam el az ajándékokat.
 fra	hun	Je n'ai pas aimé.	Nem kedveltem.
 fra	hun	Je n'ai pas assez de temps pour déjeuner aujourd'hui.	Ma nincs elég időm ebédelni.
 fra	hun	Je n'ai pas beaucoup de temps.	Nincs túl sok időm.
+fra	hun	Je n'ai pas besoin de ça.	Ez nekem nem is kell.
 fra	hun	Je n'ai pas besoin de médecin.	Nincs szükségem orvosra.
 fra	hun	Je n'ai pas d'énergie aujourd'hui.	Ma nincs energiám.
 fra	hun	Je n'ai pas dit cela.	Én ilyet nem mondtam.
@@ -1107,7 +1317,9 @@ fra	hun	Je n'ai pas trop le temps maintenant.	Most nincs sok időm.
 fra	hun	Je n'ai plus besoin de toi.	A továbbiakban már nincs szükségem rád.
 fra	hun	Je n'ai plus besoin de toi.	Már nem kellesz.
 fra	hun	Je n'ai plus vu Tom depuis 1988.	Nem láttam Tomit 1988 óta.
+fra	hun	Je n'ai que toi.	Nekem rajtad kívül nincs más.
 fra	hun	Je n'ai rien de neuf.	Semmi újat nem tudok.
+fra	hun	Je n'ai simplement pas le choix.	Egyszerűen nem volt választásom.
 fra	hun	Je n'ai vraiment pas assez d'argent.	Nincs elég pénzem.
 fra	hun	Je n'arrive pas à croire que tu ne sois pas tout au moins disposée à envisager d'autres possibilités.	Nem tudom elhinni, hogy nem vagy legalábbis kész megfontolni más lehetőségeket.
 fra	hun	Je n'arrive pas à supporter tout ce bruit.	Nem bírom elviselni ezt a zajt.
@@ -1124,7 +1336,9 @@ fra	hun	Je ne comprends rien à ce qu'il dit.	Semmit sem értek abból, amit mon
 fra	hun	Je ne connaissais pas Tom.	Nem ismertem Tomot.
 fra	hun	Je ne considère pas que ça soit important.	Ezt nem tartom lényegesnek.
 fra	hun	Je ne cours pas aussi vite que Jim.	Nem futok olyan gyorsan, mint Jim.
+fra	hun	Je ne crois pas à cette théorie.	Én nem hiszek ebben az elméletben.
 fra	hun	Je ne croyais pas que Tom irait à Boston.	Nem gondoltam, hogy Tom elmegy Bostonba.
+fra	hun	Je ne dévierai jamais de mon chemin.	Soha nem fogok letérni az útamról.
 fra	hun	Je ne dors pas depuis des jours.	Napok óta nem alszom.
 fra	hun	Je ne fais pas pleurer leurs enfants.	Nem ríkatom meg a gyerekeit.
 fra	hun	Je ne fume pas.	Nem dohányzok.
@@ -1134,56 +1348,77 @@ fra	hun	Je ne les garde pas.	Nem vigyázok rájuk.
 fra	hun	Je ne les mange pas.	Meg nem eszem én ezeket.
 fra	hun	Je ne mange pas de viande de porc.	Nem eszem disznóhúst.
 fra	hun	Je ne m'appelle pas Tom.	Nem Tomnak hívnak.
+fra	hun	Je ne me refuse aucun plaisir.	Én nem tagadok meg magamtól semmilyen élvezetet.
 fra	hun	Je ne me satisfais pas de cette situation.	Nem vagyok elégedett a jelen helyzettel.
 fra	hun	Je ne me sens pas très bien.	Nem érzem túl jól magam.
 fra	hun	Je ne me souviens pas quand je l'ai rencontré pour la première fois.	Nem emlékszem, hogy mikor találkoztam vele először.
+fra	hun	Je n'en veux pas beaucoup.	Nem akarok sokat.
 fra	hun	Je ne parle pas allemand.	Nem beszélek németül.
 fra	hun	Je ne parle pas italien.	Nem beszélek olaszul.
 fra	hun	Je ne parle pas suffisamment bien le français.	Nem beszélek elég jól franciául.
 fra	hun	Je ne parle pas très bien espéranto.	Nem beszélek jól eszperantóul.
 fra	hun	Je ne pensais pas que tu me le dirais.	Nem gondoltam, hogy ezt fogod mondani nekem.
+fra	hun	Je ne perçois aucun goût.	Nem érzek ízeket.
 fra	hun	Je ne peux l'imaginer.	Nem tudom elképzelni.
 fra	hun	Je ne peux pas attendre plus longtemps.	Nem tudok tovább várni.
+fra	hun	Je ne peux pas les laisser faire ça.	Nem hagyhatom, hogy ezt tegyék.
 fra	hun	Je ne peux pas me permettre l'achat d'une nouvelle voiture.	Nem engedhetek meg magamnak egy új kocsit.
 fra	hun	Je ne peux pas te le dire. C'est un secret et si je te le disais, ce ne serait plus un secret.	Nem mondhatom el neked. Ez titok. És, ha elmondanám neked, nem lenne többé titok.
+fra	hun	Je ne peux pas venir.	Nem tudok elmenni.
 fra	hun	Je ne peux plus attendre.	Nem tudok tovább várni.
 fra	hun	Je ne peux plus attendre plus longtemps.	Nem tudok tovább várni.
 fra	hun	Je ne puis m'arrêter de rire.	Nem tudom abbahagyni a nevetést.
+fra	hun	Je ne sais encore rien de toi.	Rólad még nem tudok semmit.
 fra	hun	Je ne sais pas précisément où je suis né.	Nem tudom pontosan, hogy hol születtem.
+fra	hun	Je ne sais pas quand il ment.	Nem tudom, mikor hazudik.
 fra	hun	Je ne sais pas si on a besoin de ça.	Nem tudom, hogy szükséges-e ez.
+fra	hun	Je ne sais pas, Tom.	Nem tudom, Tom.
 fra	hun	Je ne sais pas trop à quelle heure il va venir.	Nem tudom pontosan, mikor érkezik.
 fra	hun	Je ne souhaite pas en parler pour le moment.	Most nem akarok erről beszélni.
 fra	hun	Je ne suis amoureuse de personne.	Nem vagyok szerelmes senkibe.
 fra	hun	Je ne suis jamais allé à Paris.	Sohasem voltam Párizsban.
+fra	hun	Je ne suis pas à la maison, tu m'entends ?	Nem vagyok itthon, hallod?
 fra	hun	Je ne suis pas Canadien.	Nem vagyok kanadai.
 fra	hun	Je ne suis pas d'accord avec le verdict.	Nem értek egyet az ítélettel.
 fra	hun	Je ne suis pas d'accord et je vais te dire la raison.	Nem értek veled egyet és megmondom neked miért nem.
 fra	hun	Je ne suis pas de la région.	Nem vagyok idevalósi.
 fra	hun	Je ne suis pas italien.	Nem vagyok olasz.
 fra	hun	Je ne suis pas malade.	Nem vagyok beteg.
+fra	hun	Je ne suis pas prête pour une relation.	Nem állok még készen egy kapcsolatra.
+fra	hun	Je ne suis pas prête pour une relation.	Nem vagyok még kész egy kapcsolatra.
 fra	hun	Je ne suis pas rancunier, mais je n'oublie rien non plus.	Nem vagyok haragtartó, de semmit sem felejtek el.
 fra	hun	Je ne suis pas sûre que Tom soit prêt.	Nem vagyok biztos abban, hogy Tom készen áll.
+fra	hun	Je ne suis pas sûr que tu aies bien compris.	Nem vagyok benne biztos, hogy jól értetted.
+fra	hun	Je ne suis pas sûr que tu l’aies correctement compris.	Nem vagyok benne biztos, hogy jól értetted.
+fra	hun	Je n'étais pas là la semaine dernière.	Nem voltam itt a múlt héten.
 fra	hun	Je ne traduis pas, donc je ne suis pas.	Nem fordítok, tehát nem vagyok.
+fra	hun	Je ne trouve pas les ciseaux.	Nem találom az ollót.
 fra	hun	Je ne trouve pas mes lunettes.	Nem találom a szemüvegemet.
 fra	hun	Je ne vais pas bien.	Rosszul érzem magam.
 fra	hun	Je ne vais pas me disputer avec toi !	Nem fogok vitatkozni veled.
+fra	hun	Je ne vais pas sortir d'ici.	Nem fogok innen elmenni.
 fra	hun	Je ne veux pas aller manger aujourd'hui.	Ma nem akarok elmenni enni.
 fra	hun	Je ne veux pas attendre plus longtemps.	Nem akarok tovább várni.
 fra	hun	Je ne veux pas danser.	Nem akarok táncolni.
 fra	hun	Je ne veux pas entendre davantage !	Nem akarok többet hallani!
+fra	hun	Je ne veux pas entrer dans les details.	Nem akarok részletekbe merítkezni.
 fra	hun	Je ne veux pas mourir ici.	Nem akarok itt meghalni.
 fra	hun	Je ne veux pas que mon cœur se brise une seconde fois.	Nem akarom, hogy másodszorra is összetörjék a szívemet.
 fra	hun	Je ne veux pas ramasser de la merde de chien.	Nem akarom felszedni a kutyaszart.
 fra	hun	Je ne veux pas t'attendre.	Nem akarok várni rád.
+fra	hun	Je ne veux pas vivre dans cette maison pour le reste de ma vie.	Nem akarok az életem végéig ebben a házban élni.
 fra	hun	Je ne veux plus entendre d'autres excuses.	Nem akarok több kifogást hallani.
+fra	hun	Je ne veux plus mener une telle vie de chien.	Ezt a kutya életet már nem akarom.
 fra	hun	Je ne veux plus parler de ça.	Nem akarok erről többet mondani.
 fra	hun	Je ne veux qu'un peu plus de temps.	Nem akarok mást, mint egy kevéssel több időt.
 fra	hun	Je ne vois pas cela comme un problème.	Én nem látom úgy, hogy ez probléma lenne.
+fra	hun	Je ne vous connais pas très bien.	Nem ismerlek egy jól titeket.
 fra	hun	Je ne vous évite pas.	Nem kerüllek téged.
 fra	hun	Je ne vous regrette pas.	Nem sajnálom önt.
 fra	hun	Je ne vous vois pas.	Nem látom önt.
 fra	hun	J'en suis heureux.	Boldog vagyok.
 fra	hun	J'entendis tout.	Mindent hallottam.
+fra	hun	J'entends qu'il pleut.	Úgy hallom, esik.
 fra	hun	Je paie.	Fizetek.
 fra	hun	Je paierai le double.	A dupláját fizetem.
 fra	hun	Je parle anglais.	Beszélek angolul.
@@ -1194,6 +1429,7 @@ fra	hun	Je parle le suédois.	Beszélek svédül.
 fra	hun	Je parle mieux français qu'anglais.	Jobban beszélek franciául, mint angolul.
 fra	hun	Je parle seulement français à la maison avec mes parents.	Otthon beszélek csak franciául a szüleimmel.
 fra	hun	Je parle suédois.	Beszélek svédül.
+fra	hun	Je parle très sérieusement.	Most nagyon komolyan mondom ezt.
 fra	hun	Je parle un peu espagnol.	Egy kicsit beszélek spanyolul.
 fra	hun	Je parle un peu français.	Egy kicsit beszélek franciául.
 fra	hun	Je parle un peu russe.	Egy kicsit beszélek oroszul.
@@ -1210,9 +1446,11 @@ fra	hun	Je pense que Tom a peut-être besoin de moi.	Szerintem engem akarhat Tom
 fra	hun	Je pense que Tom avait peut-être raison.	Azt gondolom, Tomnak talán igaza volt.
 fra	hun	Je pense que tu aimes Tom.	Úgy gondolom, hogy kedveled Tomit.
 fra	hun	Je pense que tu es le seul à avoir besoin d'aide.	Azt hiszem, te vagy az egyetlen, akinek segítségre van szüksége.
+fra	hun	Je pense qu'il manque une conjonction.	Énszerintem hiányzik egy kötőszó.
 fra	hun	Je pense qu'ils t'ont vue.	Gondolom, láttak téged.
 fra	hun	Je peux chanter.	Tudok énekelni.
 fra	hun	Je peux distinguer le bien du mal.	Meg tudom különböztetni a jót a rossztól.
+fra	hun	Je peux le comprendre.	Fel tudom fogni.
 fra	hun	Je peux le faire.	Meg tudom csinálni.
 fra	hun	Je peux survivre.	Túl fogom élni.
 fra	hun	Je pige pas.	Nem értem.
@@ -1222,8 +1460,11 @@ fra	hun	Je préfère le vin rouge au blanc.	A vörösbort jobban szeretem a feh�
 fra	hun	Je préfère le vin rouge au vin blanc.	A vörösbort jobban szeretem a fehérnél.
 fra	hun	Je préférerais avoir du thé que du café.	Szívesebben innék teát, mint kávét.
 fra	hun	Je prends toujours un bain avant d'aller me coucher.	Lefekvés előtt mindig megfürdöm.
+fra	hun	Je prends un train plus tard.	Későbbi vonattal megyek.
+fra	hun	Je prends un train plus tard.	Későbbi vonattal utazom.
 fra	hun	Je rappellerai dans vingt minutes.	Vissza foglak hívni húsz perc múlva.
 fra	hun	Je reçois souvent des lettres de lui.	Gyakran kapok tőle levelet.
+fra	hun	Je refuse de vivre comme un esclave.	Elutasítom a rabszolgaként való életet.
 fra	hun	Je refuse.	Visszautasítom.
 fra	hun	Je regardais la télé lorsque le téléphone a sonné.	Éppen a televíziót néztem, amikor csengett a telefon.
 fra	hun	Je regardais la télévision quand le téléphone a sonné.	Éppen a televíziót néztem, amikor csengett a telefon.
@@ -1238,11 +1479,14 @@ fra	hun	Je sais ce que je sais !	Tudom, amit tudok!
 fra	hun	Je sais ce qui est juste.	Tudom, mi a helyes.
 fra	hun	Je sais déjà.	Már tudom.
 fra	hun	Je sais exactement quoi faire.	Pontosan tudom, hogy mit kell tenni.
+fra	hun	Je sais, je sais, ma tourterelle.	Tudom, tudom, galambom.
 fra	hun	Je sais lire.	Tudok olvasni.
+fra	hun	Je sais mieux parler qu'écrire.	Jobban tudok beszélni, mint írni.
 fra	hun	Je sais où il habite.	Tudom, hol lakik.
 fra	hun	Je sais que je peux le faire.	Tudom, hogy meg tudom csinálni.
 fra	hun	Je sais que l'argent n'est pas tout.	Tudom, hogy a pénz nem minden.
 fra	hun	Je sais que Tom est ton ami.	Tudom, hogy Tom a barátod.
+fra	hun	Je sais que tu ne dors pas.	Tudom, hogy nem alszol.
 fra	hun	Je sais que tu sais cela.	Tudom, hogy tudod.
 fra	hun	Je sais qui il est.	Én tudom, hogy ki ő.
 fra	hun	Je savais que c'était Tom.	Tudtam, hogy ez Tom volt.
@@ -1250,24 +1494,42 @@ fra	hun	Je serai là-bas à cinq heures.	Ötkor ott leszek.
 fra	hun	Je serais heureux de le rencontrer.	Találkoznék vele örömest.
 fra	hun	Je skie souvent.	Gyakran síelek.
 fra	hun	J'espère que John vient.	Remélem, hogy John eljön.
+fra	hun	J'espère que tu le sais déjà.	Remélem, ezt már tudod.
 fra	hun	J'espère que vous serez complètement guéries.	Remélem, mindannyian meggyógyultatok.
 fra	hun	J'espère rester.	Remélem, maradok.
 fra	hun	J'essaie de perdre un peu de poids.	Megpróbáltam leadni egy pár kilót.
 fra	hun	J'essuie la table à manger.	Letörlöm az étkezőasztalt.
+fra	hun	Je suis à demi Chinois, à demi Japonais.	Félig kínai, félig japán vagyok.
+fra	hun	Je suis à demi Chinoise, à demi Japonaise.	Félig kínai, félig japán vagyok.
+fra	hun	Je suis à demi Hongrois, à demi Polonais.	Félig magyar, félig lengyel vagyok.
+fra	hun	Je suis à demi Hongroise, à demi Polonaise.	Félig magyar, félig lengyel vagyok.
+fra	hun	Je suis à demi Russe, à demi Ukrainien.	Félig orosz, félig ukrán vagyok.
+fra	hun	Je suis à demi Russe, à demi Ukrainienne.	Félig orosz, félig ukrán vagyok.
 fra	hun	Je suis allé à pied à l'école.	Gyalog mentem az iskolába.
 fra	hun	Je suis allé à pied.	Gyalog mentem.
 fra	hun	Je suis allé boire une bière avec des amis.	Elmentem a barátokkal meginni egy sört.
 fra	hun	Je suis allé boire une bière avec des amis.	Elmentem egy sörre a barátokkal.
 fra	hun	Je suis américaine.	Amerikai vagyok.
+fra	hun	Je suis à moitié Chinois, à moitié Japonais.	Félig kínai, félig japán vagyok.
+fra	hun	Je suis à moitié Chinoise, à moitié Japonaise.	Félig kínai, félig japán vagyok.
+fra	hun	Je suis à moitié Hongrois, à moitié Polonais.	Félig magyar, félig lengyel vagyok.
+fra	hun	Je suis à moitié Hongroise, à moitié Polonaise.	Félig magyar, félig lengyel vagyok.
+fra	hun	Je suis à moitié Russe, à moitié Ukrainien.	Félig orosz, félig ukrán vagyok.
+fra	hun	Je suis à moitié Russe, à moitié Ukrainienne.	Félig orosz, félig ukrán vagyok.
 fra	hun	Je suis arrivé à Toronto au début du mois de juin.	Június elején érkeztem Torontóba.
 fra	hun	Je suis au chômage à cause du coronavirus.	Munkanélkülivé váltam a koronavírus miatt.
 fra	hun	Je suis au lit.	Ágyban vagyok.
 fra	hun	Je suis comme ça depuis toujours.	Mindig is ilyen voltam.
 fra	hun	Je suis content de mon travail.	Meg vagyok elégedve a munkámmal.
+fra	hun	Je suis contente de ce que j'ai.	Elégedett vagyok azzal, amim van.
 fra	hun	Je suis content que tu sois là.	Boldog vagyok, hogy itt vagy.
 fra	hun	Je suis content que tu sois mon ami.	Örülök, hogy a barátom vagy.
 fra	hun	Je suis cuisinier.	Szakács vagyok.
 fra	hun	Je suis dans le jardin.	A kertben vagyok.
+fra	hun	Je suis déjà allé à Paris.	Voltam már Párizsban.
+fra	hun	Je suis déjà allé à Varsovie.	Voltam már Varsóban.
+fra	hun	Je suis déjà allée à Paris.	Voltam már Párizsban.
+fra	hun	Je suis déjà allée à Varsovie.	Voltam már Varsóban.
 fra	hun	Je suis de retour ! Ah ? Nous avons un invité ?	Visszajöttem! Ó? Vendégünk van?
 fra	hun	Je suis déshydratée.	Ki vagyok száradva.
 fra	hun	Je suis désolé de répondre tardivement à votre e-mail.	Sajnálom, hogy az e-mailjére ilyen későn válaszolok.
@@ -1279,6 +1541,7 @@ fra	hun	Je suis !	Én vagyok!
 fra	hun	Je suis faible en allemand.	Nem vagyok jó németes.
 fra	hun	Je suis français.	Én francia vagyok.
 fra	hun	Je suis heureuse que tu sois là.	Boldog vagyok, hogy itt vagy.
+fra	hun	Je suis heureux, car je peux les aider.	Örülök, hogy segíthetek neki.
 fra	hun	Je suis heureux que tu sois là.	Boldog vagyok, hogy itt vagy.
 fra	hun	Je suis hongrois.	Magyar vagyok.
 fra	hun	Je suis italien.	Olasz vagyok.
@@ -1287,6 +1550,11 @@ fra	hun	Je suis la chef.	Én vagyok a főnökasszony.
 fra	hun	Je suis le plus grand de notre classe.	Én vagyok a legmagasabb az osztályunkban.
 fra	hun	Je suis libre.	Szabad vagyok!
 fra	hun	Je suis mariée et j'ai deux enfants.	Házas vagyok, és két gyerekem van.
+fra	hun	Je suis mauvais en maths.	Én nagyon nem vagyok ott matekból.
+fra	hun	Je suis mauvais en maths.	Nekem nem áll rá az agyam a matekra.
+fra	hun	Je suis mauvais en maths.	Nekem nem fekszik a matek egyáltalán.
+fra	hun	Je suis mauvais en maths.	Nekem nem megy a matek.
+fra	hun	Je suis mauvais en maths.	Pocsék vagyok matekból.
 fra	hun	Je suis meilleur que lui.	Én jobb vagyok, mint ő.
 fra	hun	Je suis né en octobre.	Októberben születtem.
 fra	hun	Je suis occupé.	Elfoglalt vagyok.
@@ -1298,6 +1566,7 @@ fra	hun	Je suis résolu à arrêter de fumer.	Elhatároztam, hogy abbahagyom a d
 fra	hun	Je suis riche.	Gazdag vagyok.
 fra	hun	Je suis si fatigué de garder des secrets.	Belefáradtam, hogy őrzöm a titkokat.
 fra	hun	Je suis si heureux de te revoir.	Olyan boldog vagyok, hogy újra látlak!
+fra	hun	Je suis terriblement blessé.	Szörnyen sértve érzem magam.
 fra	hun	Je suis tombé par terre.	A földre pottyantam.
 fra	hun	Je suis tombé par terre.	Leestem a földre.
 fra	hun	Je suis ton père.	Az apád vagyok.
@@ -1309,14 +1578,17 @@ fra	hun	Je suis triste, car mon chat est mort.	Szomorú vagyok, mert elhunyt a m
 fra	hun	Je suis un espion.	Kém vagyok.
 fra	hun	Je suis une travailleuse sociale.	Szociális munkás vagyok.
 fra	hun	Je suis un héros.	Hős vagyok.
+fra	hun	Je suis un robot.	Robot vagyok.
 fra	hun	Je suis un travailleur social.	Szociális munkás vagyok.
 fra	hun	Je suis.	Vagyok.
 fra	hun	Je suis végétarienne.	Vegetáriánus vagyok.
+fra	hun	Je suis venu ici pour lui parler.	Azért jöttem, hogy beszéljek vele.
 fra	hun	Je suis vraiment désolée d'être rentré à la maison aussi tard.	Nagyon sajnálom, hogy olyan későn értem haza.
 fra	hun	Je suppose que c'est ton père.	Feltételezem, ő az édesapád.
 fra	hun	Je suppose que nous pourrions.	Feltételezem, meg tudjuk csinálni.
 fra	hun	Je suppose que tu auras besoin d'aide.	Föltételezem, hogy lesz szükséged segítségre.
 fra	hun	Je suppose que vous ne mangerez pas avec nous maintenant.	Feltételezem, nem eszel most velünk együtt.
+fra	hun	Jésus n'était pas un chrétien.	Jézus nem volt keresztény.
 fra	hun	Je t'aime beaucoup.	Nagyon szeretlek!
 fra	hun	Je t'aime juste comme tu es.	Én úgy szeretlek, amilyen vagy.
 fra	hun	Je t'aime !	Szeretlek.
@@ -1332,9 +1604,11 @@ fra	hun	J'étais la personne la plus heureuse au monde.	Én voltam a legboldogab
 fra	hun	J'étais tellement énervé que je n'arrivais pas à m'endormir.	Annyira fel voltam csigázva, nem tudtam elaludni.
 fra	hun	J'étais très riche, jusqu'à ce que je la rencontre.	Nagyon gazdag voltam, míg nem találkoztam vele.
 fra	hun	J'étais trop ambitieux.	Igen ambíciózus voltam.
+fra	hun	J'étais un peu nerveux.	Ideges voltam kicsit.
 fra	hun	Je t'ai trouvé.	Megtaláltalak.
 fra	hun	Je t'ai vu dans le parc, hier.	Láttalak tegnap a parkban.
 fra	hun	Je te donne la clé de la maison, mais ne la perds pas.	Odaadom a ház kulcsát, de ne veszítsd el!
+fra	hun	Je te recontacte au courant du mois d'août.	Augusztusban még felveszem veled a kapcsolatot.
 fra	hun	Je travaille dans le secteur du luxe.	A luxusiparban dolgozom.
 fra	hun	Je travaille en tant qu'assistant de M. Eliot.	Elliot úr asszisztenseként dolgozom.
 fra	hun	Je travaille pour ce journal depuis 4 ans.	Négy éve dolgozom ennek az újságnak.
@@ -1350,12 +1624,16 @@ fra	hun	Je vais à la campagne avec mes amis.	A barátaimmal vidékre megyek.
 fra	hun	Je vais bien y réfléchir avant de vous donner ma réponse.	Jól meg kell gondolnom ezt, mielőtt válaszolok neked.
 fra	hun	Je vais en Europe la semaine prochaine.	A jövő héten Európába megyek.
 fra	hun	Je vais plus souvent à Bruxelles qu'à Paris.	Gyakrabban megyek Brüsszelbe, mint Párizsba.
+fra	hun	Je vais poser ma question d'une autre façon.	Máshogy teszem fel a kérdésemet.
 fra	hun	Je vais regarder la télé ce soir.	Ma este tv-t fogok nézni.
+fra	hun	Je vais t'attendre dehors.	Kint foglak várni.
 fra	hun	Je vends une nouvelle voiture.	Új autót árulok.
 fra	hun	Je veux acheter un livre.	Akarok venni egy könyvet.
 fra	hun	Je veux améliorer mon espagnol.	Szeretnék javítani a spanyol nyelvtudásomon.
 fra	hun	Je veux améliorer mon italien.	Az olasztudásomat akarom javítani.
 fra	hun	Je veux apprendre à nager.	Meg akarok tanulni úszni.
+fra	hun	Je veux avoir une conversation avec lui.	Beszélni akarok vele.
+fra	hun	Je veux avoir une conversation avec lui.	Beszélni akarok vele egyet.
 fra	hun	Je veux coucher avec ta femme.	A feleségeddel akarok aludni.
 fra	hun	Je veux de l'argent.	Pénzt akarok.
 fra	hun	Je veux devenir actrice.	Színésznő akarok lenni.
@@ -1367,6 +1645,9 @@ fra	hun	Je veux partir à l'étranger.	Külföldre akarok menni.
 fra	hun	Je veux quelque chose de mieux.	Valami jobbat akarok.
 fra	hun	Je veux que vous partiez.	Azt akarom, hogy menjetek el.
 fra	hun	Je veux rester ici.	Itt akarok maradni.
+fra	hun	Je veux retrouver mon ancienne vie.	A régi életemet szeretném visszakapni.
+fra	hun	Je veux savoir ce que tu fais pour vivre.	Akarom tudni, mit dolgozol.
+fra	hun	Je veux savoir ce que tu fais pour vivre.	Akarom tudni, mivel foglalkozol.
 fra	hun	Je veux savoir qui les a tués.	Tudni akarom, hogy ki tette el őket láb alól.
 fra	hun	Je veux savoir qui les a tués.	Tudni akarom, ki ölte meg őket.
 fra	hun	Je veux savoir qui les a tués.	Tudni akarom, ki végzett velük.
@@ -1377,6 +1658,7 @@ fra	hun	Je veux un nouveau chien.	Szeretnék egy új kutyát!
 fra	hun	Je veux vivre au Brésil.	Brazíliában akarok élni.
 fra	hun	Je veux vivre en Italie.	Olaszországban akarok élni.
 fra	hun	Je viens à 10 heures précises.	Pontosan 10-kor jövök.
+fra	hun	Je viens d'Argentine.	Argentínából jöttem.
 fra	hun	Je viens demain matin sans faute.	Mindenképpen jönni fogok holnap reggel.
 fra	hun	Je viens de manger mon petit déjeuner.	Éppen megreggeliztem.
 fra	hun	Je viens de prendre une douche.	Éppen most zuhanyoztam.
@@ -1384,9 +1666,14 @@ fra	hun	Je viens de prendre une douche.	Most zuhanyoztam.
 fra	hun	Je viens juste de finir de déjeuner.	Éppen most fejezetem be az ebédet.
 fra	hun	Je viens sans faute demain matin.	Mindenképpen jönni fogok holnap reggel.
 fra	hun	Je vis actuellement à Boston.	Jelenleg Bostonban lakom.
+fra	hun	Je vis ici depuis trente ans.	Harminc éve itt élek.
+fra	hun	Je vois que tu es encore là.	Látom, te még mindig itt vagy.
+fra	hun	Je vois que tu es toujours là.	Látom, te még mindig itt vagy.
 fra	hun	Je vote blanc.	Üres szavazócédulát adok le.
 fra	hun	Je voudrais faire davantage.	Többet szeretnék tenni.
 fra	hun	Je voudrais manger quelque chose.	Szeretnék enni valamit.
+fra	hun	Je voudrais poser ma candidature pour cet emploi.	Szeretnék jelentkezni erre az állásra.
+fra	hun	Je voudrais un vin blanc doux.	Fehérbort szeretnék, édeset.
 fra	hun	Je voudrais vous demander une faveur.	Szeretném önt megkérni egy szívességre.
 fra	hun	Je voulais payer.	Én akartam fizetni.
 fra	hun	Je voulais payer.	Fizetni akartam.
@@ -1407,6 +1694,7 @@ fra	hun	Jim a un chapeau blanc sur la tête.	Jimnek fehér kalap van a fején.
 fra	hun	J'irais bien dormir !	Aludni mennék!
 fra	hun	J'irai tout seul.	Egyedül megyek oda.
 fra	hun	Jiro a fait un croquis du mont Fuji.	Jiro csinált egy vázlatot a Fudzsi-hegyről.
+fra	hun	« Joe Biden » veut une guerre mondiale.	"Joe Biden" világháborút akar.
 fra	hun	John a fait une chose courageuse.	János bátor tettet vitt véghez.
 fra	hun	John est à l'aéroport.	John a repülőtéren van.
 fra	hun	John et Ann s'aiment.	János és Anna szerelmesek egymásba.
@@ -1418,6 +1706,7 @@ fra	hun	Joyeux anniversaire Aiba !	Boldog születésnapot, Aiba!
 fra	hun	Joyeux anniversaire !	Boldog születésnapot!
 fra	hun	Joyeux anniversaire, cher ami!	Boldog születésnapot, kedves barátom!
 fra	hun	Julien porte des lunettes rondes comme celles de John Lennon.	Julián kerek szemüveget hord, hasonlót, mint John Lennon.
+fra	hun	Jusqu'à présent, j'ai écrit 8 livres en kabyle.	Nyolc könyvet írtam eddig.
 fra	hun	Karine est Autrichienne.	Karin osztrák.
 fra	hun	Karin est Autrichienne.	Karin osztrák.
 fra	hun	« Kayak » est un exemple de palindrome.	A kajak szó a palindromra egy példa.
@@ -1441,24 +1730,36 @@ fra	hun	La cloche est en train de sonner.	Szól a harang.
 fra	hun	La cloche sonne.	Szól a harang.
 fra	hun	La colombe est le symbole de la paix.	A galamb a béke szimbóluma.
 fra	hun	La conférence n'a pas totalement été un succès.	A konferencia nem volt teljes siker.
+fra	hun	La cuisine est aussi un art.	A főzés is művészet.
+fra	hun	La dernière fois que je l'ai vue, c'était hier.	Amikor utoljára láttam, az itt volt.
 fra	hun	La dernière fois que je le vis, il portait une chemise bleue et un pantalon blanc.	Amikor legutolsó alkalommal láttam, kék ing és fehér nadrág volt rajta.
 fra	hun	La dernière fois que je le vis, il portait une chemise bleue et un pantalon blanc.	Legutoljára, amikor láttam, kék ing és fehér nadrág volt rajta.
 fra	hun	La femme de Tom est enceinte de leur deuxième enfant.	Tom felesége a második gyereküket várja.
 fra	hun	La femme de Tom lui manque.	Tominak hiányzik a felesége.
+fra	hun	La femme est l'avenir de l'homme.	A férfi jövője a nő.
+fra	hun	La femme est l'avenir de l'homme.	A nő a férfi jövője.
+fra	hun	La fenêtre est grande ouverte.	Az ablak tárva-nyitva.
 fra	hun	La fête a été un fiasco.	Az ünnepség dugába dőlt.
 fra	hun	La fille, qui parle avec Tom, c'est Mary.	A lány, aki Tommal beszél, Mary.
 fra	hun	La fleur est bleue.	A virág kék.
 fra	hun	La fleur est jaune.	A virág sárga.
 fra	hun	La forêt était très calme.	Az erdő nagyon nyugodt volt.
 fra	hun	La France est le pays le plus visité au monde.	Franciaország a világ leglátogatottabb országa.
+fra	hun	L'Afrique aux africains.	Afrika az afrikaiaké.
+fra	hun	L'Afrique est beaucoup plus grande que l'on imagine.	Afrika jóval nagyobb, mint azt hinnéd.
+fra	hun	L'Afrique est beaucoup plus grande que l'on imagine.	Afrika jóval nagyobb, mint azt hiszed.
+fra	hun	L'Afrique est beaucoup plus grande que l'on imagine.	Afrika jóval nagyobb, mint hinnéd.
+fra	hun	L'Afrique est beaucoup plus grande que l'on imagine.	Afrika jóval nagyobb, mint hiszed.
 fra	hun	La glace a fondu dans l'eau.	A jég elolvadt a vízben.
 fra	hun	La guerre commença en dix-neuf-cents-quarante-et-un.	A háború 1941-ben kezdődött.
 fra	hun	L'air est rare au sommet d'une haute montagne.	Egy magas hegy tetején ritka a levegő.
 fra	hun	Laisse-moi faire mon travail !	Hagyd, hogy végezzem a munkámat.
 fra	hun	Laisse-moi juste terminer cette phrase.	Hadd fejezzem be még ezt a mondatot!
+fra	hun	Laisse-moi t'acheter ça.	Hadd vegyem meg neked.
 fra	hun	Laisse-moi te féliciter pour ton succès.	Engedd meg, hogy gratuláljak a sikeredhez.
 fra	hun	Laisse-moi te présenter ma mère.	Engedd meg, hogy bemutassam neked az édesanyámat.
 fra	hun	Laissez-les faire leur travail !	Hagyd, hogy végezze a dolgát.
+fra	hun	La langue hongroise est-elle une langue turque ou bien une langue finno-ougrienne ?	A magyar nyelv türk nyelv vagy finn-ugor?
 fra	hun	La lettre était signée par Tom.	A levelet Tom írta alá.
 fra	hun	La loi a été modifiée.	A törvény módosítva lett.
 fra	hun	La maison dont vous pouvez voir le toit est celle de M. Baker.	Amelyik ház tetejét látod, az Baker úré.
@@ -1472,7 +1773,10 @@ fra	hun	L'amour ne suffit pas.	A szerelem nem elég.
 fra	hun	La musique est une langue commune pour l'humanité.	A zene közös nyelv az emberiség számára.
 fra	hun	La nécessité est mère de l'invention.	A szükségesség a találmányok szülőanyja.
 fra	hun	L'anglais est parlé dans de nombreux pays dans le monde entier.	Az angolt világszerte sok országban beszélik.
+fra	hun	L'anniversaire de mon amie est en mai.	A barátnőm születésnapja májusban van.
+fra	hun	La Norvège est le pays le plus riche du monde.	Norvégia a világ leggazdagabb országa.
 fra	hun	Lantier ne travaille pas.	Lantier nem dolgozik.
+fra	hun	La nuit est bonne conseillère.	Az éjszaka jó tanácsadó.
 fra	hun	La nuit fut très calme.	Az éjszaka nagyon csendes volt.
 fra	hun	La parole est d’argent et le silence est d’or.	Beszélni ezüst, hallgatni arany.
 fra	hun	La parole est d'argent, le silence est d'or.	Beszélni ezüst, hallgatni arany.
@@ -1491,6 +1795,7 @@ fra	hun	La profession de ses rêves est astronaute.	Arról álmodozik, hogy űrh
 fra	hun	La puissance de l'amour et de la compassion est infiniment plus forte que la puissance des armes.	A szeretet és együttérzés ereje sokkalta nagyobb a fegyverek hatalmánál.
 fra	hun	La qualité du riz diminue.	Romlik a rizs minősége.
 fra	hun	L'arbre est vert.	A fa zöld.
+fra	hun	La reine est morte, vive le roi !	Meghalt a királynő, éljen a király!
 fra	hun	L'argent ne fait pas le bonheur.	A pénz nem boldogít.
 fra	hun	La saison du printemps tire vers sa fin.	Végéhez közeledik a tavasz.
 fra	hun	La semaine a sept jours.	A hétnek hét napja van.
@@ -1501,6 +1806,7 @@ fra	hun	L'as-tu déjà vendu ?	Eladtad már?
 fra	hun	La table est verte.	Az asztal zöld.
 fra	hun	La tasse est pleine.	A csésze tele van.
 fra	hun	La télévision joue un rôle important dans la vie quotidienne.	A televízió fontos szerepet játszik a mindennapi életben.
+fra	hun	La télévision ment.	A televízió hazudik.
 fra	hun	La terre est bleue comme une orange.	A föld oly kék, mint egy narancs.
 fra	hun	La tour se dressait parmi les ruines.	A torony a romok fölé magasodott.
 fra	hun	L'auteur a un beau style.	A szerzőnek szép a stílusa.
@@ -1510,19 +1816,31 @@ fra	hun	L'auteur de cet article est un critique célèbre.	Ennek az újságcikkn
 fra	hun	L'auteur est brésilien.	A szerző brazil.
 fra	hun	L'auto roule rapidement.	A kocsi gyorsan megy.
 fra	hun	Lave bien tes mains.	Jól mosd meg a kezed!
+fra	hun	La vérité est la première victime de la guerre.	A háború első áldozata az igazság.
 fra	hun	Lave-toi le visage.	Mosd meg az arcod!
 fra	hun	La viande est congelée.	Fagyott a hús.
+fra	hun	La victoire ou la mort.	Győzelem vagy halál?!
 fra	hun	La vie de ce patient est en danger.	Ennek a betegnek az élete veszélyben van.
 fra	hun	La vie est belle.	Az élet szép!
 fra	hun	La vie est belle.	Az élet szép.
+fra	hun	La vie est une lutte.	Az élet küzdelem.
 fra	hun	La vieille femme est trop faible pour se lever du lit.	Az idős asszonynak nem volt ereje felkelni.
 fra	hun	La ville dormait.	A város aludt.
 fra	hun	La violence dura deux semaines.	Az erőszak két héten át dúlt.
 fra	hun	La voiture est bleue.	Az autó kék.
+fra	hun	L'eau est-elle propre ?	A víz tiszta?
+fra	hun	L'eau est-elle propre ?	Tiszta a víz?
 fra	hun	L'eau est source de vie.	A víz az élet forrása.
+fra	hun	L'eau était très chaude.	Nagyon forró volt a víz.
+fra	hun	L'eau était très froide.	A víz nagyon hideg volt.
 fra	hun	L'eau gèle à zéro degré Celsius.	A víz nulla foknál fagy.
+fra	hun	Le bateau part à sept heures.	Hétkor indul a hajó.
 fra	hun	Le brouillard se raréfia.	Ritkult a köd.
+fra	hun	Le café est-il prêt ?	Kész a kávé?
+fra	hun	Le café est noir.	A kávé fekete.
+fra	hun	Le caracal est un animal très élégant.	A karakál nagyon elegáns állat.
 fra	hun	Le carnaval de Rio a lieu en février.	A riói karnevált februárban rendezik.
+fra	hun	Le chat dort sur mes pantoufles.	A papucsomon alszik a macska.
 fra	hun	Le chat est noir.	A macska fekete.
 fra	hun	Le chat est sur le toit.	A macska a háztetőn van.
 fra	hun	Le chauffeur de bus ne vit pas le piéton.	A buszvezető nem látta a gyalogost.
@@ -1534,19 +1852,29 @@ fra	hun	Le cœur de l'homme est l'endroit où demeure le diable ; je sens parfoi
 fra	hun	L'école commence au printemps.	Tavasszal kezdődik az iskola.
 fra	hun	L'école est une perte de temps.	Az iskola csak időpocsékolás.
 fra	hun	L'école était fermée pour les vacances de Noël.	Az iskola zárva volt a téli szünet alatt.
+fra	hun	Le concept d'existence n'a pas de sens.	A létezés fogalomnak semmi értelme.
+fra	hun	Le Coran est écrit en arabe.	A Korán arab nyelven van írva.
+fra	hun	Le Coran est écrit en arabe.	A Korán arabul van megírva.
+fra	hun	Le coucou pond ses œufs dans les nids des autres.	A kakukk más madarak fészkébe rakja a tojásait.
 fra	hun	Le démon est mort.	A démon halott.
+fra	hun	Le diable n'existe pas !	Nincs ördög!
 fra	hun	Le dîner est-il prêt ?	Kész van a vacsora?
 fra	hun	Le drapeau français est bleu, blanc et rouge.	A francia zászló kék, fehér és piros.
 fra	hun	Le film commence à dix heures.	A film tízkor kezdődik.
 fra	hun	Le film est ennuyeux.	A film unalmas.
+fra	hun	Le gouvernement ment.	A kormány hazudik.
 fra	hun	Le Japon est en Asie orientale.	Japán Kelet-Ázsiában van.
 fra	hun	Le jardin est en face de la maison.	A kert a ház előtt van.
 fra	hun	Le jardinier était l'assassin.	A kertész volt a gyilkos.
 fra	hun	Le joueur a feint une blessure.	A játékos sérülést színlelt.
 fra	hun	Le jour de sa mort a été le dernier jour de sa vie.	Halála napja életének utolsó napja volt.
+fra	hun	Le khmer est la langue officielle du Cambodge.	A khmer Kambodzsa hivatalos nyelve.
 fra	hun	Le lait est dans le réfrigérateur.	A tej a hűtőszekrényben van.
+fra	hun	Le lait est frais.	A tej friss.
+fra	hun	Le lait est frais.	Friss a tej.
 fra	hun	Le latin utilise 23 lettres : a, b, c, d, e, f, g, h, i, k, l, m, n, o, p, q, r, s, t, u, x, y, z.	A latin nyelv 23 betűt használ: a, b, c, d, e, f, g, h, i, k, l, m, n, o, p, q, r, s, t, u, x,y, z.
 fra	hun	L'Elbrouz est la plus haute montagne en Europe.	Az Elbrusz Európa legmagasabb hegye.
+fra	hun	L'éléphant est grand.	Az elefánt nagy.
 fra	hun	Le lion est le roi des animaux.	Az oroszlán az állatok királya.
 fra	hun	Le lion est un animal.	Az oroszlán egy állat.
 fra	hun	Le livre est maintenant prêt pour la publication.	A könyv most kész a kiadásra.
@@ -1556,8 +1884,11 @@ fra	hun	Le malheur n'attend pas d'invitation.	A szerencsétlenség nem vár a me
 fra	hun	Le malheur n'attend pas d'invitation.	Egy szerencsétlenség hívás nélkül is bekövetkezik.
 fra	hun	Le médecin a déclaré que le patient s'est déjà rétabli et peut quitter l'hôpital.	Az orvos kijelentette, hogy a beteg már meggyógyult, és elhagyhatja a kórházat.
 fra	hun	Le mobile du meurtre n'est pas encore connu.	A gyilkos indítéka még ismeretlen.
+fra	hun	Le monde est en ordre tel qu'il est.	A világ úgy jó, ahogy van.
 fra	hun	Le monde est grand.	Nagy a világ.
 fra	hun	Le monde est petit.	Kicsi a világ.
+fra	hun	Le monde est plein d'imbéciles.	A világ teli van idiótákkal.
+fra	hun	Le monde parle l'anglais.	A világ angolul beszél.
 fra	hun	Le monde serait bien triste si tu n'étais pas là.	A világ lehet szomorú, de te ne legyél az.
 fra	hun	Le Mont Blanc est la plus haute montagne.	A Mont Blanc a legmagasabb hegy.
 fra	hun	Le Musée de l'Orangerie a de magnifiques peintures de Monet.	Az Orangerie Múzeumnak csodálatos Monet festményei vannak.
@@ -1570,6 +1901,7 @@ fra	hun	Le nouveau coronavirus est très contagieux.	Az új koronavírus erősen
 fra	hun	L'environnement influence notre caractère.	A jellemünket befolyásolja a környezet.
 fra	hun	Le petit-déjeuner est-il prêt ?	Kész a reggeli?
 fra	hun	Le petit lapin court dans la steppe.	A nyuszika fut a pusztában.
+fra	hun	Le pilote a fait un atterrissage d'urgence dans le désert.	Kényszerleszállást hajtott végre a pilóta a sivatagban.
 fra	hun	Le poisson est-il encore vivant ?	Él még az a hal?
 fra	hun	Le problème c'est que je n'ai pas assez d'argent.	A probléma abban rejlik, hogy nincs elég pénzem.
 fra	hun	Le problème est que notre voiture ne sera pas disponible ce jour-là.	Az a probléma, hogy a kocsink aznap nem áll rendelkezésre.
@@ -1579,14 +1911,21 @@ fra	hun	Lequel d'entre eux est le mien ?	Melyik az enyém közülük?
 fra	hun	Lequel est le plus lourd des deux ?	Melyik nehezebb a kettő közül?
 fra	hun	Le roi était célèbre pour son splendide palais.	A király pompás palotájáról volt híres.
 fra	hun	Le roi et sa famille vivent au palais royal.	A király és családja a királyi palotában él.
+fra	hun	Le rouge est la couleur de l'amour.	A piros a szerelem színe.
 fra	hun	Le sang circule dans le corps.	A vér a testben kering.
+fra	hun	Les animaux communiquent entre eux, et les plantes aussi.	Az állatok is kommunikálnak egymással, sőt a növények is.
+fra	hun	Les animaux ont-ils une conscience ?	Az állatok tudatlények?
 fra	hun	Les animaux ont peur du feu.	Az állatok félnek a tűztől.
 fra	hun	Les billets que j'ai achetés ne sont pas remboursables.	A jegyeket, amiket vásároltam, nem lehet visszaváltani.
 fra	hun	Les chats n'aiment pas les chiens.	A macskák nem szeretik a kutyákat.
 fra	hun	Les chats noirs portent malheur.	Fekete macska szerencsétlenséget hoz.
 fra	hun	Les chats ont deux oreilles.	A macskáknak két fülük van.
+fra	hun	Les chats sont plus petits que les chiens.	A macska kisebb, mint a kutya.
+fra	hun	Les chats sont plus petits que les chiens.	A macskák kisebbek a kutyáknál.
+fra	hun	Les chats sont plus petits que les chiens.	Egy macska kisebb, mint egy kutya.
 fra	hun	Les chiens sont fidèles.	A kutyák hűsėgesek.
 fra	hun	Les cloches de l'église sonnent.	Szólnak a templomok harangjai.
+fra	hun	Les cochons sont des animaux qui puent.	A disznók büdös állatok.
 fra	hun	Les compte-rendus de ma mort sont très exagérés.	A halálomról szóló híresztelések jócskán túloznak.
 fra	hun	Les compte-rendus de ma mort sont très exagérés.	Halálhírem erősen túlzottnak bizonyult.
 fra	hun	Les courtisans entouraient le roi de flatteries.	Az udvaroncok körülhízelegték a királyt.
@@ -1597,6 +1936,7 @@ fra	hun	Les enfants ont parfois peu de l'obscurité.	A gyerekek néha félnek a 
 fra	hun	Le service dans ce restaurant n'est pas très rapide.	A kiszolgálás ebben az étteremben nem túl gyors.
 fra	hun	Les Étatsuniens mangent beaucoup de viande.	Az amerikaiak sok húst esznek.
 fra	hun	Les étudiants sont en vacances actuellement.	A hallgatóknak szünidő van.
+fra	hun	Les extra-terrestres existent.	Léteznek a földönkívüliek.
 fra	hun	Les faits valent mieux que les mots.	A tettek többet érnek a szavaknál.
 fra	hun	Les fantômes existent-ils vraiment ?	Vajon tényleg vannak szellemek?
 fra	hun	Les femmes aiment les cadeaux.	A nők szeretik az ajándékokat.
@@ -1604,13 +1944,17 @@ fra	hun	Les femmes changent le monde.	A nők megváltoztatják a világot.
 fra	hun	Les femmes d'abord.	Először a hölgyek.
 fra	hun	Les femmes sont mes tantes.	Ezek a hölgyek a nagynénéim.
 fra	hun	Les filles se maquillent chaque matin.	A lányok minden reggel kisminkelik magukat.
+fra	hun	Les girafes dorment debout.	A zsiráfok állva alszanak.
 fra	hun	Les hommes d'affaires vont souvent à ce restaurant.	Üzletemberek gyakran járnak ebbe az étterembe.
 fra	hun	Les hommes mangent pour vivre, mais ne vivent pas pour manger.	Az ember nem azért él, hogy egyen, hanem azért eszik, hogy éljen.
 fra	hun	Les Hongrois vont avoir plus de phrases que nous.	A magyaroknak több mondatuk lesz, mint nekünk.
+fra	hun	Les idéologies ne sont rien de plus qu'un lavage de cerveau.	Az ideológia nem más, mint agymosás.
 fra	hun	Les infirmières surveillent le malade nuit et jour.	Az ápolónők éjjel-nappal vigyáznak a betegre.
 fra	hun	Les journaux imprimèrent la proclamation.	Az újságokban megjelent a proklamáció.
+fra	hun	Le slovène est une belle langue.	A szlovén szép nyelv.
 fra	hun	Les magazines ont tous été vendus.	A magazinokat mind eladták.
 fra	hun	Les mots ne pourraient le décrire.	Szavakkal ezt nem lehet leírni.
+fra	hun	Le soir, Peter aime prendre une bière.	Esténként Péter meg szokott inni egy sört.
 fra	hun	Le soleil brillait fort.	Erősen sütött a nap.
 fra	hun	Le soleil brillait fort.	Sütött a nap erősen.
 fra	hun	Le soleil va se lever.	Nemsokára felkel a nap.
@@ -1622,11 +1966,17 @@ fra	hun	L'esperanto est parlé.	Itt beszélnek eszperantóul.
 fra	hun	L'Espéranto, langue officielle de l'Union européenne, maintenant !	Az Eszperantót az Európai Unió hivatalos nyelvének, most!
 fra	hun	Les petites entreprises ressentent la pression de l'inflation.	A kisvállalkozások megérzik az inflációs nyomást.
 fra	hun	Les pigeons étaient enfermés dans un réduit sale, sans nourriture. Deux avaient déjà crevé.	A galambok egy piszkos ketrecbe voltak bezárva élelem nélkül. Kettő közülük már meg is döglött.
+fra	hun	Les pirates ne boivent jamais d'eau.	A kalózok sosem isznak vizet.
+fra	hun	Les portes de la maison étaient rouges.	A ház ajtajai pirosak voltak.
 fra	hun	Les poupées aux filles et le ballon aux garçons.	A babák a lányoknak és a labda a fiúknak.
 fra	hun	Les prix baissent.	Az árak csökkennek.
 fra	hun	Les prix des actions chutèrent nettement.	Jelentősen estek a részvényárak.
+fra	hun	Les règles de ce jeu sont simples.	A játék szabályai egyszerűek.
 fra	hun	Les roses bleues sont très jolies.	A kék rózsák nagyon szépek.
+fra	hun	Les Russes sont mes amis.	Az oroszok a barátaim.
+fra	hun	Les serpents sont des animaux très intéressants.	A kígyók nagyon érdekes állatok.
 fra	hun	Les statistiques montrent que la population de cette ville aura doublé dans cinq ans.	A statisztikák azt mutatják, hogy ennek a városnak a lakossága öt éven belül megduplázódik.
+fra	hun	Le stalinisme, c'est du racisme.	A sztálinizmus rasszizmus.
 fra	hun	Les utilisateurs de Tatoeba sont gentils.	A Tatoeba felhasználói kedvesek.
 fra	hun	Les utilisateurs de Tatoeba sont gentils.	A Tatoeba felhasználói udvariasak.
 fra	hun	Les vacances d'été commencent en juillet.	A nyári vakáció júliusban kezdődik.
@@ -1640,9 +1990,13 @@ fra	hun	Le temps était idéal.	Az időjárás ideális volt.
 fra	hun	Le temps était idéal.	Az idő tökéletes volt.
 fra	hun	Le temps s'envole.	Repül az idő.
 fra	hun	Le tennis est très populaire parmi les étudiants.	A tenisz nagyon népszerű a tanulók körében.
+fra	hun	Le terme « politique » est synonyme de « corruption ».	A politika szó a korrupció szinonímája.
 fra	hun	Le thé chai contient souvent de la cardamome.	A chai tea gyakran tartalmaz kardamomot.
 fra	hun	Le tien est ici.	A tied itt van.
+fra	hun	Le tigre de Sibérie est au bord de l'extinction.	A szibériai tigris a kihalás szélén áll.
+fra	hun	Le train a une heure de retard.	Egy órát késik a vonat.
 fra	hun	Le train est en retard de dix minutes aujourd'hui.	A vonat ma tíz percet késik.
+fra	hun	Le train est sur le point de partir. Dépêche-toi.	Indul mindjárt a vonat! Siessél!
 fra	hun	Le train fut en retard en raison de lourdes chutes de neige.	A vonat az erős havazás miatt késett.
 fra	hun	L'être humain n'est pas fait pour comprendre la vie, mais pour la vivre.	Az ember nem arra lett teremtve, hogy megértse az életet, hanem, hogy élje azt.
 fra	hun	Le vent s'est calmé.	Csökkent a szél.
@@ -1650,6 +2004,8 @@ fra	hun	Le vent s'est calmé.	Elült a szél.
 fra	hun	Le vent s'est calmé.	Lecsillapodott a szél.
 fra	hun	Le verre est fait de plastique transparent.	A pohár átlátszó műanyagból készült.
 fra	hun	Le vin blanc devrait être plus frais.	A fehérbornak hidegebbnek kellene lenni.
+fra	hun	L'examen était trop difficile.	Jó nehéz volt a vizsga.
+fra	hun	L'explosion a tout détruit.	A robbanás mindent elpusztított.
 fra	hun	L'histoire m'a donné des frissons.	A történettől libabőrös lettem.
 fra	hun	L'hiver, c'est le temps de la neige.	Télen hull a hó.
 fra	hun	L'hiver, c'est le temps de la neige.	Télen van itt a havazás ideje.
@@ -1664,18 +2020,23 @@ fra	hun	L'Italie n'est pas la Grèce.	Olaszország nem Görögország.
 fra	hun	L'or est plus lourd que le fer.	Az arany nehezebb a vasnál.
 fra	hun	Lorsque je cours, je transpire.	Amikor futok, megizzadok.
 fra	hun	Lorsque Marc arriva, je dormais.	Mikor Márk megjött, aludtam már.
+fra	hun	Lorsque Marie se réveilla, Tom avait disparu.	Amikor Mari felébredt, Tomi már nem volt ott.
 fra	hun	Lui et moi avons presque la même taille.	Ő és én majdnem egyforma magasak vagyunk.
+fra	hun	Ma femme n'a pas pu venir.	A feleségem nem tudott eljönni.
 fra	hun	Ma fille est la prunelle de mes yeux.	A kislányom a szemem fénye.
+fra	hun	Ma fille s'est mariée avec un homme riche de Hong Kong.	A lányom egy gazgag hongkongihoz ment hozzá.
 fra	hun	Magnifique journée, n'est-ce pas ?	Gyönyörű nap van, ugye?
 fra	hun	Ma grand-mère se lève tôt.	A nagyanyám korán kel.
 fra	hun	Maintenant, commençons notre travail.	Most kezdjük el a munkánkat.
 fra	hun	Maintenant, il cherche un autre travail.	Másik munka után néz most.
+fra	hun	Maintenant le vent est notre ami.	A szél most a mi barátunk.
 fra	hun	Mais ce n'est pas la question.	De nem ez a kérdés.
 fra	hun	Mais c'était inutile.	De ez hiábavaló volt.
 fra	hun	Malgré le mauvais temps, nous sommes sortis quand même.	A rossz idő ellenére mégis elmentünk.
 fra	hun	Ma mère a acheté un parapluie jaune à mon frère.	Anyám vett a testvéremnek egy sárga esernyőt.
 fra	hun	Ma mère a horreur de regarder la télévision.	Édesanyám nem szeret tévét nézni.
 fra	hun	Ma mère est plus âgée que mon père.	Anyám idősebb apámnál.
+fra	hun	Ma mère m'a appris à le faire.	Megtanított erre anyám.
 fra	hun	Mange tout.	Mindent egyél meg.
 fra	hun	Mangez beaucoup de légumes.	Egyetek sok zöldséget!
 fra	hun	Mangez du pain et buvez de l'eau.	Egyél kenyeret és igyál vizet.
@@ -1701,14 +2062,19 @@ fra	hun	Me conduiras-tu chez moi ?	Hazaviszel?
 fra	hun	Même les enfants peuvent comprendre cela.	Ezt még a gyerekek is megértik.
 fra	hun	Merci à toi aussi !	Köszönöm neked is!
 fra	hun	Merci beaucoup d'avance pour ta coopération.	Köszönöm szépen előre is a közreműködésedet.
+fra	hun	Merci beaucoup pour ton aide rapide.	Hálás köszönet a gyors segítségedért!
+fra	hun	Merci, c’est gentil, mais je n’ai pas besoin que tu m’emmènes, je suis véhiculé.	Köszönöm, ez kedves, de nekem nem kell fuvar, én kocsival vagyok.
 fra	hun	Merci d'avance.	Előre is köszönöm.
 fra	hun	Merci d'avoir parlé d'autisme.	Köszönöm, hogy beszéltél az autizmusról.
 fra	hun	Merci et bonne nuit !	Köszönöm, és jó éjszakát!
+fra	hun	Merci, j'ai passé une très bonne soirée.	Köszönöm, remek estém volt.
 fra	hun	Merci pour le compliment.	Köszönöm a bókot!
 fra	hun	Merci pour le conseil !	Köszönöm a tanácsot.
 fra	hun	Mère Teresa est née en Yougoslavie en 1910.	Teréz anya 1910-ben Jugoszláviában született.
 fra	hun	Merveilleux !	Csodálatos!
 fra	hun	Mes enfants sont à l'école.	A gyermekeim iskolában vannak.
+fra	hun	Mes frères sont dauphins.	A bátyáim delfinek.
+fra	hun	Mes parents habitent en Amérique du Sud.	Szüleim Dél-Amerikában élnek.
 fra	hun	Mes parents ne sont pas en vie.	A szüleim nem élnek.
 fra	hun	Mets-toi à ma place.	Képzeld magad az én helyzetembe.
 fra	hun	Mets ton manteau.	Bújj bele a kabátodba.
@@ -1716,12 +2082,15 @@ fra	hun	Mets ton manteau.	Vedd fel a kabátodat.
 fra	hun	Mets ton manteau.	Vedd magadra a kabátod!
 fra	hun	Ming Xiao ne sait pas encore où il va aller l'année prochaine.	Ming Xiao még nem tudja, hová megy a jövő évben.
 fra	hun	Moi, j'aime dormir sur le ventre.	Hason fekve szeretek aludni.
+fra	hun	Moi, j'aime les araignées.	Én szeretem a pókokat.
 fra	hun	Moi, je suis belge.	Belga vagyok.
 fra	hun	Moi, je suis un enfant.	Én még gyerek vagyok.
 fra	hun	Moi non plus.	Én sem.
 fra	hun	Mon ami est ici.	A barátom van itt.
+fra	hun	Mon chat, qui a le statut de réfugié, parle avec un accent vietnamien.	A menekült státuszban lévő macskám vietnámi akcentussal beszél.
 fra	hun	Mon chef est marié.	Nős a főnököm.
 fra	hun	Mon chien est blanc.	Az én kutyám fehér.
+fra	hun	Mon cœur t'appartient.	Szívem a tiéd.
 fra	hun	Mon collège comporte un dortoir.	Az egyetemünk rendelkezik diákotthonnal.
 fra	hun	Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné ?	Istenem, Istenem, miért hagytál el engem?
 fra	hun	Mon épouse chante dans le chœur féminin.	Feleségem a női kórusban énekel.
@@ -1746,10 +2115,12 @@ fra	hun	Mon opinion est qu'il a raison.	Szerintem igaza van.
 fra	hun	Mon opinion est totalement différente de la vôtre.	Én egészen más véleményen vagyok.
 fra	hun	Mon ordinateur est en panne et je dois le faire réparer.	Elromlott a számítógépem, és meg kell javíttatnom.
 fra	hun	Mon père aime voyager par avion.	Apám szeret repülővel utazni.
+fra	hun	Mon père a l'habitude de venir à la maison à six heures.	Apám hatkor szokott hazajönni.
 fra	hun	Mon père avait déjà été en Grèce.	Apám már volt valamikor Görögországban.
 fra	hun	Mon père est enseignant.	Apám tanító.
 fra	hun	Mon père est jeune.	Édasapám fiatal.
 fra	hun	Mon père était un acteur.	Édesapám színész volt.
+fra	hun	Mon père joue de cinq instruments.	Apám öt hangszeren játszik.
 fra	hun	Mon père m'a emmené au cinéma hier soir.	Tegnap este apám elvitt moziba.
 fra	hun	Mon père m'alloue une somme de dix dollars par semaine.	Apám 10 dollár zsebpénzt ad nekem hetente.
 fra	hun	Mon père n'est pas encore à la maison.	Apám még nincs otthon.
@@ -1764,10 +2135,18 @@ fra	hun	Montrez vos papiers.	Mutassa a papírjait.
 fra	hun	Mon voisin est menuisier.	A szomszédom asztalos.
 fra	hun	Mr Brown est notre professeur d'anglais.	Mr Brown a mi angoltanárunk.
 fra	hun	Muiriel a vingt ans.	Muiriel húsz éves.
+fra	hun	Nage.	Ússz!
+fra	hun	Nage.	Ússzál!
+fra	hun	Nagez.	Ússzatok!
 fra	hun	N'agis pas contre ton opinion !	Ne csinálj segget a szádból!
+fra	hun	N'aimez-vous pas votre chien ?	Nem szereti a kutyáját?
+fra	hun	N'as-tu pas peur ?	Te nem félsz?
 fra	hun	Ne jetez pas ce magazine. Je ne l'ai pas encore lu.	Ne dobd el ezt az újságot! Én még nem olvastam.
 fra	hun	Ne joue pas avec moi !	Ne játssz velem!
 fra	hun	Ne le regarde pas !	Ne nézd őt!
+fra	hun	Ne les crois pas !	Ne higgy nekik!
+fra	hun	Ne lis pas ce livre !	Ne olvasd el ezt a könyvet!
+fra	hun	Ne mange pas trop de bonbons.	Ne egyél túl sok édességet!
 fra	hun	Ne mange pas trop.	Ne egyél túl sokat!
 fra	hun	Ne me jugez pas.	Ne ítélkezz fölöttem.
 fra	hun	Ne me repose pas la question !	Ne kérdezz meg újra.
@@ -1789,7 +2168,9 @@ fra	hun	Nettoie ta chambre.	Takarítsd ki a szobádat.
 fra	hun	N'importe quoi est infiniment mieux que rien.	Bármi sokkal jobb mint a semmi.
 fra	hun	Noël approche.	Közeleg a karácsony.
 fra	hun	Non, ce sont les tomates.	Nem, ezek paradicsomok.
+fra	hun	Non, c'est toi qui ne comprends pas !	Nem! Te nem érted!
 fra	hun	Non, je ne connais pas votre frère.	Nem, én nem ismerem az ön bátyját.
+fra	hun	Non, je ne vois rien.	Nem, nem látok semmit.
 fra	hun	Non, merci.	Nem, köszönöm.
 fra	hun	Non !	Nem!
 fra	hun	Non, non et non !	Nem, nem és nem!
@@ -1798,6 +2179,7 @@ fra	hun	Notre chien a été écrasé par un camion.	A kutyánkat elgázolta egy 
 fra	hun	Notre fille s'est brûlée le doigt avec une allumette.	A lányunk megégette az ujját egy gyufával.
 fra	hun	Notre Père, qui es aux cieux, Que ton nom soit sanctifié, Que ton règne vienne, Que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain de ce jour. Pardonne-nous nos offenses Comme nous pardonnons aussi à ceux qui nous ont offensés. Et ne nous soumets pas à la tentation, mais délivre-nous du mal.	Miatyánk, ki vagy a mennyekben; szenteltessék meg a Te neved; jöjjön el a Te országod; legyen meg a Te akaratod, miképen mennyben, azonképen itt a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg a mi vétkeinket; miképen mi is megbocsátunk az ellenünk vétetteknek; és ne vigy minket kisértésbe; de szabadíts meg a gonosztól. Amen.
 fra	hun	Notre réfrigérateur ne fonctionne pas.	Nem működik a hűtőszekrényünk.
+fra	hun	N'oublie pas de lui demander son avis !	Ne felejtsed el megkérdezni a véleményét!
 fra	hun	Nous achèterons de la paraffine.	Mi fogjuk megvenni a paraffint.
 fra	hun	Nous aimons la nourriture chinoise.	Szeretjük a kínai ételeket.
 fra	hun	Nous allons bientôt décoller.	Hamarosan felszállunk.
@@ -1833,6 +2215,7 @@ fra	hun	Nous le voulons.	Akarjuk.
 fra	hun	Nous mangeons des œufs au petit-déjeuner.	Tojást eszünk reggelire.
 fra	hun	Nous mangeons par la bouche.	A szájunkkal eszünk.
 fra	hun	Nous n'acceptons pas les pourboires.	Nem fogadunk el borravalót.
+fra	hun	Nous n'avons pas besoin de toi ici.	Itt nincs rád szükségünk.
 fra	hun	Nous n'avons pas été jaloux.	Nem voltunk féltékenyek.
 fra	hun	Nous n'avons pas peur de la mort.	Nem félünk a haláltól.
 fra	hun	Nous n'avons pas pu acheter de places, nous ne sommes donc pas allé au concert.	Nem tudtunk jegyet vásárolni, így nem mentünk a koncertre.
@@ -1846,6 +2229,8 @@ fra	hun	Nous nous aimons encore.	Még mindig szerelmesek vagyunk egymásba.
 fra	hun	Nous nous dirigeons vers le nord.	Északnak tartunk.
 fra	hun	Nous nous disons juste bonjour bonsoir.	Csak köszönő viszonyban vagyok vele.
 fra	hun	Nous nous sommes tous consacrés au développement de notre pays.	Mi mindannyian hazánk fejlődésének szenteltük magunknak.
+fra	hun	Nous pouvons vous voir.	Látunk titeket.
+fra	hun	Nous restons à votre disposition pour tout renseignement supplémentaire.	Amennyiben egyéb információra van szüksége, továbbra is állunk rendelkezésére.
 fra	hun	Nous savons ce que nous voulons.	Mi tudjuk, mit akarunk.
 fra	hun	Nous savons.	Tudjuk.
 fra	hun	Nous sommes à l'aéroport.	A repülőtéren vagyunk.
@@ -1878,9 +2263,18 @@ fra	hun	Oh ! Montrez-moi s'il vous plaît.	Na, mutasd meg, kérlek.
 fra	hun	Oh ! Quel dommage !	Ó, micsoda pech!
 fra	hun	Oh, un papillon !	Ó, egy pillangó!
 fra	hun	On a besoin de quelqu'un qui peut nous aider.	Szükségünk van valakire, aki tud segíteni.
+fra	hun	On a déjà fait la plus grande partie du chemin.	Az út legnagyobb részét már megtettük.
+fra	hun	On a mangé des oranges.	Narancsot ettünk.
 fra	hun	On connaît un arbre par ses fruits.	Gyümölcséről ismerszik meg a fa.
+fra	hun	On croit ce qu'on veut croire.	Azt hiszi el az ember, amit el akar.
+fra	hun	On est allé se baigner à la mer.	A tengerre mentünk fürödni.
+fra	hun	On manque de personnel en ce moment.	Jelenleg munkaerőhiány van.
+fra	hun	On m'attend.	Engem várnak.
 fra	hun	On n'a pas de freins !	Nincs fék!
+fra	hun	On ne connoît point l’enfance : sur les fausses idées qu’on en a, plus on va, plus on s’égare.	Nem ismerik a gyermekéletet: mennél messzebbre megyünk róla szóló hamis fogalmaink után, annál jobban eltévelyedünk.
 fra	hun	On ne parle pas anglais ici.	Itt nem beszélnek angolul.
+fra	hun	On ne peut pas les oublier.	Őt nem lehet elfelejteni.
+fra	hun	On ne peut pas l'oublier.	Őt nem lehet elfelejteni.
 fra	hun	On ne peut pas lutter contre son destin.	Nem küzdhetünk a sorsunk ellen.
 fra	hun	On ne peut rien en dire pour l'instant.	Pillanatnyilag még semmit nem lehet mondani.
 fra	hun	On ne saurait rien accomplir sans encourir de risque.	Kockázat nélkül nincs siker.
@@ -1901,6 +2295,7 @@ fra	hun	Où est la sortie ?	Hol van a kijárat?
 fra	hun	Où est le chat ?	Hol van a macska?
 fra	hun	Où est le dentifrice ?	Hol van a fogkrém?
 fra	hun	Où est le pain ?	Hol van a kenyér?
+fra	hun	Où est ma fille ?	Hol a lányom?
 fra	hun	Où est mon cheval ?	Hol van a lovam?
 fra	hun	Où est mon mari ?	Hol van a férjem?
 fra	hun	Où est mon micro ?	Hol a mikrofonom?
@@ -1926,17 +2321,22 @@ fra	hun	Où pourrai-je faire réparer ma montre ?	Hol tudom megjavíttatni az ó
 fra	hun	Où se trouve la pharmacie ?	Hol van a patika?
 fra	hun	Où se trouve l'endroit le plus beau au monde ?	Hol van a világ legszebb helye?
 fra	hun	Où sommes-nous ?	Hol vagyunk?
+fra	hun	Où sont les ciseaux ?	Hol van az olló?
 fra	hun	Où sont les parents ?	Hol vannak a szülők?
 fra	hun	Où sont les toilettes ? À gauche.	Merre van a mosdó? Balra.
 fra	hun	Où sont vos parents ?	Hol vannak a szüleid?
 fra	hun	Où vas-tu ?	Hova mész?
 fra	hun	Où vivez-vous ?	Hol laktok?
 fra	hun	Ouvre la bouche !	Tátsa ki a száját!
+fra	hun	Ouvre-moi la porte.	Nyisd ki nekem az ajtót.
 fra	hun	Pâle comme il est, il a probablement dû avoir trop bu hier soir.	Amilyen sápadt, valószínűleg túl sokat ivott tegnap este.
 fra	hun	Pardon !	Bocsánat!
+fra	hun	Pardonnez.	Bocsássatok meg!
 fra	hun	Pardon, pourrais-tu m'expliquer la signification de cette phrase ?	Elnézést, el tudnád magyarázni nekem, hogy mit jelent ez a mondat?
+fra	hun	Parfois, je me demande, qui je suis.	Néha tűnődöm azon, hogy ki vagyok.
 fra	hun	Paris est la ville de l'amour.	Párizs a szerelem városa.
 fra	hun	Parle-moi de tes problèmes!	Beszélj nekem a problémáidról!
+fra	hun	Parle-moi de votre fils.	Beszéljen a fiáról.
 fra	hun	Parles-tu bien français ?	Jól beszélsz franciául?
 fra	hun	Parles-tu hongrois ?	Beszélsz magyarul?
 fra	hun	Parles-tu slovaque ?	Beszélsz szlovákul?
@@ -1955,11 +2355,15 @@ fra	hun	Pas de chance.	Semmi esély rá.
 fra	hun	Pas de questions ?	Nincsen kérdés?
 fra	hun	Pas du tout.	Egyáltalán nem.
 fra	hun	Pas maintenant, alors quand ?	Ha most nem, mikor hát?
+fra	hun	Pas même un seul jour ne passe sans que je ne pense à elle.	Egyetlen nap sem telik úgy el, hogy nem gondolok rá.
 fra	hun	Passe-le trente secondes au micro-ondes.	Tedd be harminc másodpercre a mikrosütőbe.
 fra	hun	Passe-moi la tasse de café !	Add ide a kávéscsészét.
 fra	hun	Passez-vous beaucoup de temps à rédiger des courriels ?	Sok időt fordítasz üzenetek írására?
 fra	hun	Paul est aussi ponctuel qu'une horloge.	Paul óramű pontosságú.
 fra	hun	Pendant combien de temps étudiez-vous l'anglais chaque jour ?	Naponta mennyi ideig tanulod az angol nyelvet?
+fra	hun	Pendant que certains demandent : « Pourquoi ? » D'autres demandent : « Pourquoi pas ? »	Míg egyesek azt kérdezik, miért, mások azt, miért ne.
+fra	hun	Pendant que certains demandent : « Pourquoi ? » D'autres demandent : « Pourquoi pas ? »	Míg egyesek azt kérdezik, miért, mások azt, miért nem.
+fra	hun	Penses-tu que cette idée est stupide ?	Ez szerinted ostoba ötlet?
 fra	hun	Pensons à ce qui pourrait arriver de pire.	Gondoljunk a legrosszabbra, ami megtörténhet.
 fra	hun	Père m'a acheté un nouveau vélo.	Apa vett nekem egy új biciklit.
 fra	hun	Permets-moi de rester.	Hadd maradjak!
@@ -1969,13 +2373,20 @@ fra	hun	Personne ne saura.	Ember meg nem tudja.
 fra	hun	Personne ne s'en fiche sauf toi.	Nem foglalkozik ezzel senki - kivéve téged.
 fra	hun	Personne ne s'en fiche sauf toi.	Rajtad kívül senkit nem érdekel ez.
 fra	hun	Personne n'est innocent.	Senki sem ártatlan.
+fra	hun	Personne n'est parfait, et c'est bien comme ça.	Az emberek nem tökéletesek, és ez így jól van.
+fra	hun	Personne ne va survivre.	Senki sem éli túl.
 fra	hun	Peut-être que vous vous trompez.	Talán tévedtek.
+fra	hun	Peut-on faire confiance à ces gens ?	Lehet bízni ezekben?
+fra	hun	Peut-on faire confiance à ces gens ?	Meg lehet bízni ezekben az emberekben?
 fra	hun	Peux-tu continuer ?	Tudod folytatni?
 fra	hun	Peux-tu marcher ?	Tudsz menni?
 fra	hun	Peux-tu m'écrire un mot en finnois ?	Le tudnál nekem írni finnül egy szót?
 fra	hun	Peux-tu me laisser passer s'il te plaît ?	Átengednél?
+fra	hun	Peux-tu me montrer le cheval ?	Meg tudod mutatni a lovat?
+fra	hun	Peux-tu m'expliquer les règles de ce jeu ?	El tudnád magyarázni ennek a játéknak a szabályait?
 fra	hun	Peux-tu piloter un avion ?	Tudsz repülőt vezetni?
 fra	hun	Peux-tu rester quelques jours ?	Tudsz maradni néhány napig?
+fra	hun	« Peux-tu venir cet après-midi ? » « Oui, sans doute. »	— Át tudsz ugrani délután? — Naná hogy át!
 fra	hun	Pierre, papier, ciseaux.	Kő, papír, olló.
 fra	hun	Pjotr et Lech viennent tous les deux de Pologne.	Piotr és Lech midketten Lengyelországból vannak.
 fra	hun	Plantez des arbres !	Ültessünk fákat!
@@ -1990,12 +2401,14 @@ fra	hun	Pour être aimées, soyez aimables !	Ha azt akarod, hogy szeressenek, sz
 fra	hun	Pour le dessert, Marie avait fait son gâteau au chocolat et une salade de fruits.	Desszertnek Mária csokoládétortát és gyümölcssalátát készített.
 fra	hun	Pour l'instant, il habite en Allemagne.	Jelenleg Németországban lakik.
 fra	hun	Pour moi, c'est important.	Nekem ez fontos.
+fra	hun	Pour moi, c'est un nul.	Számomra ő egy nulla.
 fra	hun	Pour quelle raison le fais-tu ?	Mi okod van rá, hogy ezt tedd?
 fra	hun	Pour qui l'argent n'est pas important?	Kinek ne lenne fontos a pénz?
 fra	hun	Pour qui travailles-tu ?	Kinek dolgozol?
 fra	hun	Pourquoi agis-tu comme ça ?	Miért viselkedsz így?
 fra	hun	Pourquoi as-tu acheté des fleurs ?	Miért vettél virágot?
 fra	hun	Pourquoi avez-vous acheté des fleurs ?	Miért vettél virágot?
+fra	hun	« Pourquoi avez-vous fait ça ? » « Je voulais voir ce qui se passerait. »	— Miért csinálta ezt? — Látni akartam, mi történik.
 fra	hun	Pourquoi c'était un secret?	Ez miért volt titok?
 fra	hun	Pourquoi ceux qui ne veulent pas d'enfants doivent-ils payer pour ceux qui en veulent ?	Miért fizessenek a gyermeket nem vállalók azoknak, akik vállalnak gyermeket?
 fra	hun	Pourquoi chuchotez-vous ?	Miért suttogtok?
@@ -2010,16 +2423,24 @@ fra	hun	Pourquoi fait-il cela ?	Miért teszi ezt?
 fra	hun	Pourquoi la neige est-elle blanche ?	Miért fehér a hó?
 fra	hun	Pourquoi l'espéranto est-il une langue idéale pour voyager ?	Miért ideális nyelv az eszperantó utazáshoz?
 fra	hun	Pourquoi Marie resta-t-elle vierge ?	Miért maradt Mária szűz?
+fra	hun	Pourquoi m'a-t-il menti ?	Miért hazudott nekem?
 fra	hun	Pourquoi n'as-tu pas changé le plan ?	Miért nem változtattad meg a tervet?
+fra	hun	Pourquoi n'écoutez-vous pas ?	Miért nem figyeltek?
+fra	hun	Pourquoi n'es-tu pas à l'école en ce moment ?	Miért nem vagy most iskolában?
+fra	hun	Pourquoi ne veux-tu pas parler avec moi ?	Miért nem akarsz beszélni velem?
 fra	hun	Pourquoi ne viens-tu pas pêcher avec nous ce week-end, si tu n'es pas occupé ?	Miért nem jössz velünk a hétvégén halat fogni, ha nem vagy elfoglalva.
 fra	hun	Pourquoi pas demain ?	Miért nem holnap?
 fra	hun	Pourquoi pleures-tu ?	Miért sírsz?
 fra	hun	Pourquoi ris-tu ?	Miért nevetsz?
 fra	hun	Pourquoi ta bouche est-elle si grande ?	Miért ilyen nagy a szád?
+fra	hun	Pourquoi Tom apprend-il le français s'il est canadien ?	Miért tanul Tom franciául, ha egyszer kanadai?
 fra	hun	Pourquoi Tom le voulait ?	Tom miért akarja?
 fra	hun	Pourquoi tu le fais ici ?	Ezt miért itt csinálod?
 fra	hun	Pourquoi tu ne travailles pas?	Miért nem dolgozol?
+fra	hun	Pourquoi veux-tu apprendre le néerlandais ?	Miért akarsz hollandul tanulni?
 fra	hun	Pourriez-vous m'apporter mon petit déjeuner à la chambre 305 ?	Föl tudná hozni a reggelit a 305-ös szobába?
+fra	hun	Poutine danse avec les loups.	Putyin a farkasokkal táncol.
+fra	hun	Poutine se bat contre l'Ukraine dénazie.	Putyin a nácizmus ellen harcol Ukrajnában.
 fra	hun	Pouvez-vous me passer le sel, s’il vous plait ?	Idenyújtaná nekem, kérem, a sót?
 fra	hun	Prends les habits sales et va les laver !	Fogd a piszkos ruhákat és menj, mosd ki őket!
 fra	hun	Prends ton temps, Yoshida.	Hagyj időt rá, Yoshida.
@@ -2032,32 +2453,47 @@ fra	hun	Puis-je manger ce gâteau ?	Megehetem a kalácsot?
 fra	hun	Puis-je poser une question ?	Lehet egy kérdésem?
 fra	hun	Puis-je t'inviter à dîner?	Meghívhatlak vacsorára?
 fra	hun	Puis-je vous poser une question ?	Feltehetek egy kérdést?
+fra	hun	Puisqu'il en est ainsi, je pars.	Mivel ez így van, én távozom.
 fra	hun	Putain, il fait froid !	Itt fagyok meg mindjárt!
 fra	hun	Putain, il fait froid !	Mindjárt szétfagyok!
 fra	hun	Putain, tu avais raison !	Hogy a fene egye meg, neked volt igazad!
 fra	hun	Qu'a dit Tom ?	Mit mondott Tom?
+fra	hun	Qu'alliez-vous me dire ?	Mit akartatok nekem mondani?
 fra	hun	Quand cela commence-t-il ?	Mikor kezdődik?
 fra	hun	Quand Goethe est-il mort ?	Mikor halt meg Goethe?
 fra	hun	Quand il revint à lui, il était allongé dans le parc.	Amikor magához tért a parkban feküdt.
+fra	hun	Quand j'ai froid je me couvre et quand j'ai chaud je me découvre.	Ha fázom, betakarózom, ha melegem van, akkor meg kitakarózom.
 fra	hun	Quand je serai grand, je me marierai avec Tom.	Amikor felnövök, összeházasodom Tommal.
 fra	hun	Quand la saison des pluies commence-t-elle au Japon ?	Mikor kezdődik Japánban az esős évszak?
+fra	hun	Quand le chat dort, les souris dansent.	Macska mikor szunnyad, egerek táncolnak.
 fra	hun	Quand m'as-tu dit pour la dernière fois que tu m'aimais?	Mikor mondtad utoljára, hogy szeretsz?
+fra	hun	Quand on est riche, on a beaucoup d’amis.	Ha gazdag vagy, sok barátod van.
 fra	hun	Quand retournes-tu au Japon ?	Mikor mész vissza Japánba?
+fra	hun	Quand seras-tu à la maison ?	Mikor leszel otthon?
 fra	hun	Quand seras-tu libre ?	Mikor leszel szabad?
 fra	hun	Qu'as-tu dit ?	Mit mondtál?
 fra	hun	Qu'as-tu fait ?	Mit csináltál?
+fra	hun	Qu'as-tu ressenti quand il est mort ?	Mit éreztél, amikor meghalt?
 fra	hun	Que ces photos sont jolies !	Olyan vidámak ezek a fotók.
 fra	hun	Que c'est bête !	Milyen bolond!
 fra	hun	Que disais-tu ?	Mit mondtál?
 fra	hun	Que dit-elle ?	Mit mond ő?
 fra	hun	Que dit-il ?	Mit mond ő?
+fra	hun	Que dois-je faire pour que je sois heureuse ?	Mit kell tegyek, hogy boldog legyek?
 fra	hun	Que fais-tu dans la vie ?	Mivel foglalkozol?
 fra	hun	Que fait ton père ?	Mivel foglalkozik apád?
+fra	hun	Que ferais-tu à ma place, Jean ?	Te mit csinálnál a helyemben, Jani?
+fra	hun	Que ferons-nous demain ?	Holnap mit fogunk csinálni?
+fra	hun	Que ferons-nous demain ?	Mit teszünk majd holnap?
 fra	hun	Quel animal est grand ?	Melyik állat nagy?
 fra	hun	Quel animal est petit ?	Melyik állat kicsi?
 fra	hun	Quel dommage !	De kár!
+fra	hun	Que le diable aille au diable !	A pokolba is az ördöggel!
 fra	hun	Que le diable les emporte !	Az ördög vigye őket!
+fra	hun	Quel est le contraire de « vide » ?	Mi az üres ellentéte?
 fra	hun	Quel est le cours du jour ?	Mi a mai árfolyam?
+fra	hun	Quel est le goût de l'eau ?	Milyen íze van a víznek?
+fra	hun	Quel est le goût de l'eau ?	Milyen ízű a víz?
 fra	hun	Quel est le meilleur hôtel de la ville ?	Melyik a legjobb szálloda a városban?
 fra	hun	Quel est le nom de cet oiseau ?	Mi a neve ennek a madárnak?
 fra	hun	Quel est le prix de ce parapluie ?	Mennyi az ára ennek az esernyőnek?
@@ -2067,47 +2503,79 @@ fra	hun	Quel est mon numéro de chambre ?	Mi a szobaszámom?
 fra	hun	Quel est ton fruit préféré ?	Melyik a kedvenc gyümölcsöd?
 fra	hun	Quel est ton souhait ?	Mi a kívánságod?
 fra	hun	Quel genre de travail fais-tu ?	Milyen munkát végzel?
+fra	hun	Quel goût ça a ?	Milyen íze van?
 fra	hun	Quelle belle ville !	Milyen szép város!
 fra	hun	Quelle est cette odeur ?	Mi ez a szag?
 fra	hun	Quelle est la bonne réponse ?	Mi a helyes válasz?
+fra	hun	Quelle est la différence entre un crocodile et un alligator ?	Mi a különbség a krokodil és az aligátor között?
+fra	hun	Quelle est la différence entre un crocodile et un alligator ?	Mi a különbség krokodil és aligátor között?
+fra	hun	Quelle est la prochaine étape du processus ?	Mi az eljárás következő fázisa?
+fra	hun	« Quelle est la température du vin ? » « Il a la température de la cave. »	— Milyen hőmérsékletű a bor? — Pincehideg.
 fra	hun	Quelle nuit merveilleuse !	Milyen csodálatos éjszaka!
+fra	hun	Quelle quantité de neige est tombée ?	Mennyi hó esett?
 fra	hun	Quelles furent ses dernières paroles ?	Mik voltak az utolsó szavai?
 fra	hun	Quelle sorte d'animal est-ce là ?	Milyen állat ez?
 fra	hun	Quelle sorte de gens préférez-vous ?	Milyen embertípus jön be neked?
 fra	hun	Quel médicament recommandez-vous ?	Melyik gyógyszert ajánlja?
 fra	hun	Quel programme avez-vous regardé hier ?	Melyik adást nézted tegnap?
+fra	hun	Quelque chose de mauvais va arriver, je le sens.	Érzem, hogy valami rossz fog bekövetkezni.
 fra	hun	Quelqu'un a pris la place de Tom.	Valaki elfoglalta Tomi helyét.
 fra	hun	Quelqu'un a volé mes chèques de voyage.	Valaki ellopta az utazási csekkjeim.
 fra	hun	Quelqu'un m'observe.	Valaki figyel engem.
+fra	hun	Quels sont tes plans pour demain ?	Mik a terveid holnapra?
+fra	hun	Quel temps fera-t-il demain à Debrecen ?	Milyen idő lesz holnap Debrecenben?
 fra	hun	Quel temps horrible !	Milyen borzasztó időjárás!
 fra	hun	Quel type de shampoing utilises-tu ?	Milyen sampont használsz?
+fra	hun	Que mange-t-on au petit déjeuner en Russie ?	Mit esznek reggelire Oroszországban?
+fra	hun	Qu'en est-il de la situation politique en France ?	Milyen a politikai helyzet Franciaországban?
 fra	hun	Que penses-tu de ces écrivains japonais ?	Mit szólsz ezekről a japán írókról?
 fra	hun	Que se passe-t-il à la rivière ?	Mi történik a folyónál?
+fra	hun	Que se passe-t-il après la mort ?	Mi történik a halál után?
+fra	hun	Que se passe-t-il dans le monde ?	Mi folyik a világban?
+fra	hun	Que signifie cette expression ?	Ez a kifejezés mit jelent?
+fra	hun	Qu'est-ce que c'était bon !	Ez aztán jó volt!
+fra	hun	Qu'est-ce que tu fais ici avec elle ?	Mit csinálsz te itt vele?
 fra	hun	Qu’est-ce que tu lis ?	Mit olvasol most?
+fra	hun	Qu'est-ce que tu prends normalement au petit déjeuner ?	Mit szoktál reggelire enni?
+fra	hun	Qu'est-ce que tu prends normalement au petit déjeuner ?	Reggelire mit szoktál enni?
 fra	hun	Qu'est-ce que tu veux dire ?	Mit akarsz mondani?
 fra	hun	Qu'est-ce que tu veux ?	Mit akarsz?
 fra	hun	Qu'est-ce qui a été volé ?	Mit loptak el?
+fra	hun	Qu'est-ce qui est le plus facile, pardonner ou oublier ?	Mi egyszerűbb: megbocsátani vagy elfelejteni?
+fra	hun	Qu'est-ce qui serait préférable ?	Mi lenne jobb?
 fra	hun	Qu'est-ce qui te retient éveillé si tard ?	Mitől bírsz fent lenni ilyen sokáig?
 fra	hun	Qu'est-il ? Vieux ou jeune ?	Milyen? Idős vagy fiatal?
+fra	hun	Que t'a apporté le Père Noël ?	Mit hozott neked a télapó?
 fra	hun	Que vas-tu faire ensuite ?	Mit fogsz csinálni legközelebb?
+fra	hun	Que veulent-elles savoir ?	Mit akarnak tudni?
+fra	hun	Que veulent-ils savoir ?	Mit akarnak tudni?
+fra	hun	Que veut cette femme ?	Mit akar ez a nő?
+fra	hun	Que veux-tu faire maintenant ?	Most mit akarsz tenni?
 fra	hun	Que veux-tu ?	Mit akarsz?
+fra	hun	Que voulais-tu que je fasse ?	Mit akartál, mit tegyek?
 fra	hun	Que voulez-vous dire ?	Mit akar mondani?
 fra	hun	Qui cherche, trouve.	Aki keres, az talál.
 fra	hun	Qui connaissez-vous à Boston ?	Kit ismer Bostonban?
 fra	hun	Quiconque pourrait le faire.	Ezt bárki meg tudná csinálni.
+fra	hun	Qui dit A, doit dire B.	Aki Á-t mond, mondjon B-t is.
 fra	hun	Qui est absent ?	Ki hiányzik?
 fra	hun	Qui est cet homme ?	Ki ez a férfi?
 fra	hun	Qui est cette jolie fille ?	Ki az a csinos lány?
 fra	hun	Qui est dans la cuisine ?	Ki van a konyhában?
+fra	hun	« Qui est le coupable ? » « Tom est le coupable ! »	– Ki a bűnös? – Tom a bűnös!
 fra	hun	Qui est l'élue de ton cœur ?	Ki a szíved választottja?
 fra	hun	Qui est le prochain?	Ki a következő?
+fra	hun	Qui est le roi d'Espagne ?	Ki a spanyol király?
+fra	hun	Qui est le roi ?	Ki a király?
 fra	hun	Qui est l'homme qui a été tué sur cette colline ?	Ki volt az az ember, akit ezen a dombon öltek meg?
+fra	hun	Qui est ton musicien préféré ?	Ki a kedvenc zenészed?
 fra	hun	Qui mange des abeilles ?	Ki eszik méheket?
 fra	hun	Qui, parmi nous, est parfait ?	Ki tökéletes közülünk?
 fra	hun	Qui sommes-nous ?	Kik vagyunk?
 fra	hun	Qui t'a parlé de moi ?	Ki beszélt neked rólam?
 fra	hun	Qui vit dans la chambre du dessous ?	Ki él a lenti szobában?
 fra	hun	Quoi ?	Mi?
+fra	hun	Qu'y a-t-il après la mort ?	Mi van a halál után?
 fra	hun	Qu'y a-t-il à voir à Nantes pour un touriste ?	Mi látnivaló van Nantes-ban egy turista számára?
 fra	hun	Reconnaissez-vous quiconque ?	Felismer valakit?
 fra	hun	Regarde cette maison.	Nézd azt a házat.
@@ -2121,6 +2589,7 @@ fra	hun	Rien ne se passe.	Nem történik semmi.
 fra	hun	Rien n'est dur comme le diamant.	Semmi sem keményebb a gyémántnál.
 fra	hun	Rien n'est pardonné.	Semmi sincs megbocsátva.
 fra	hun	Sa bicyclette est bleue.	A kerékpárja kék.
+fra	hun	Sabotage ?	Szabotázs?
 fra	hun	S'agit-il d'une chauve-souris ?	Ez egy denevér?
 fra	hun	Sa grand-mère vécut jusqu'à quatre-vingt-huit ans.	Nagyanyja nyolcvannyolc évet élt.
 fra	hun	Sais-tu faire la différence entre le bien et le mal ?	Tudod, hogy mi a különbség a jó és a rossz között?
@@ -2133,23 +2602,29 @@ fra	hun	Sais-tu si mon père est encore au bureau ?	Nem tudod, apám még mindig
 fra	hun	Salutation depuis la France !	Üdvözlet Franciaországból!
 fra	hun	Salut, ça va ?	Halló! Hogy vagy?
 fra	hun	Salut, c'est moi, Nancy !	Szia, én vagyok az, Nancy!
+fra	hun	Salut, c'est moi.	Szia, én vagyok.
 fra	hun	Salut, comment vas-tu ?	Halló! Hogy vagy?
+fra	hun	Salut Tom, ça va ?	Szia, Tom! Hogy vagy?
 fra	hun	Sa maison est au bord de la rivière.	Egy folyó partján van a háza.
 fra	hun	Sa maison est en vente.	A háza eladó.
 fra	hun	Samedi, je te raconterai tout.	Szombaton mindent elmesélek neked.
 fra	hun	Sa mémoire vivra éternellement.	Emléke fennmarad örökké.
 fra	hun	Sa mère parle en italien.	Az édesanyja beszél olaszul.
 fra	hun	Sa mère parle italien.	Az édesanyja beszél olaszul.
+fra	hun	Sans paysans, il n'y a pas d'avenir.	Parasztok nélkül nincsen jövő.
 fra	hun	Sa santé s'est dégradée à cause du surmenage.	Az egészségét a túlzott munka tette tönkre.
 fra	hun	Sa théorie se fonde sur des faits.	Az elmélete tényeken alapul.
 fra	hun	Savez-vous jouer du piano ?	Ön tud zongorázni?
 fra	hun	Savez-vous où elle est ?	Tudjátok, hogy ő hol van?
 fra	hun	Savez-vous que je vous aime ?	Tudja-e, hogy szeretem önt?
+fra	hun	Sa voix est très masculine.	Olyan férfias a hangja.
+fra	hun	Sa voix me plaît.	Tetszik nekem a hangja.
 fra	hun	Sèche le pantalon sur le radiateur !	Szárítsd meg a nadrágot a fűtőtesten!
 fra	hun	Sept dollars, s'il vous plait.	Hét dollárt kérek.
 fra	hun	Sérieusement ? Je n'ai rien remarqué.	Tényleg? É semmit sem vettem észre.
 fra	hun	Ses cheveux ont repoussé.	A haja újra kinőtt.
 fra	hun	Ses dents furent blanches.	A fogai fehérek voltak.
+fra	hun	Ses jouets sont bleus.	Kékek a játékai.
 fra	hun	Ses mains étaient aussi froides que de la glace.	A keze olyan hideg volt, mint a jég.
 fra	hun	Si elle m'avait dit la vérité, je ne serais pas énervée maintenant.	Ha megmondta volna nekem az igazat, most nem lennék ideges.
 fra	hun	Si elle m'avait dit la vérité, je ne serais pas énervé maintenant.	Ha megmondta volna nekem az igazat, most nem lennék ideges.
@@ -2161,6 +2636,8 @@ fra	hun	S'il est libre, il l'aidera.	Ha szabad volna, segítene neki.
 fra	hun	S'il le faut vraiment, je l'inviterai.	Ha valóban szükséges, akkor meghívom őt.
 fra	hun	S'il m'avait dit la vérité, je ne serais pas énervée maintenant.	Ha megmondta volna nekem az igazat, most nem lennék ideges.
 fra	hun	S'il n'y a pas de solutions, c'est qu'il n'y a pas de problème.	Ha nincs megoldás, az azt jelenti, hogy nincs probléma sem.
+fra	hun	S'il vous plaît cliquez ici.	Kérlek kattints ide.
+fra	hun	« S'il vous plaît, mettez ça au-dessus. » « Au-dessus de quoi ? »	— Rakja ezt fel, legyen szíves! — Hova fel?
 fra	hun	Si nécessaire, je viendrai à neuf heures demain.	Ha szükséges, holnap kilenckor jövök.
 fra	hun	Si nous voulons finir ce projet à temps, il va falloir mettre les bouchées doubles.	Ha időben be akarjuk fejezni ezt a projektet, különösen keményen kell majd dolgoznunk.
 fra	hun	Si seulement je connaissais son adresse.	Bárcsak tudnám a címét!
@@ -2168,19 +2645,23 @@ fra	hun	Si tu as besoin d'un dictionnaire, je te prêterai mon vieux.	Ha szüks�
 fra	hun	Si tu as faim, pourquoi ne manges-tu pas ?	Ha éhes vagy, miért nem eszel?
 fra	hun	Si tu as la moindre difficulté, n'hésites pas à me demander de l'aide.	Bármilyen nehézség esetén, ne habozz segítséget kérni tőlem.
 fra	hun	Si tu comprends celle-là, les autres sont peu ou prou la même chose.	Ha ezt érted, a többi majdnem ugyanaz.
+fra	hun	Si tu es malade, reste à la maison !	Ha beteg vagy, maradj otthon!
 fra	hun	Si tu fais ça, tout le monde va te détester.	Ha ezt megteszed, mindenki utálni fog.
+fra	hun	Si tu n'arrêtes pas de mentir tu deviendras un journaliste.	Ha nem fejezed be a hazudozást, újságíró lesz belőled.
 fra	hun	Si tu n'as rien à faire, regarde le plafond de ta chambre.	Ha semmi tennivalód nincsen, nézd a szobád mennyezetét.
 fra	hun	Si tu ne manges pas, tu mourras.	Ha nem eszel, meg fogsz halni.
 fra	hun	Si tu ne manges que des hambourgeois, ton menu sera peu équilibré.	Ha csak hamburgert eszel, kiegyensúlyozatlan lesz az étrended!
 fra	hun	Si tu ne parles pas français, ils ne te comprendront pas.	Ha nem beszélsz franciául, nem fognak ők téged megérteni.
 fra	hun	Si tu rencontres un ours, fais semblant d'être mort.	Ha találkoznál egy medvével, tégy úgy, mintha halott lennél.
 fra	hun	Si tu veux pleurer, pleure.	Ha sírni akarsz, sírj!
+fra	hun	Si vous êtes en train de lire cette lettre, ça signifie que je suis mort.	Ha ezt a levelet olvassátok, az azt jelenti, hogy meghaltam.
 fra	hun	Si vous voulez une fille, faites la cour à la mère.	Ha a lányt akarod, udvarolj a mamájának.
 fra	hun	Six mois, c'est long à attendre.	Hat hónap hosszú várakozásnak számít.
 fra	hun	Sois sérieuse !	Legyél komoly!
 fra	hun	Sois sérieux !	Legyél komoly!
 fra	hun	Sois sérieux.	Legyél komoly!
 fra	hun	Soit on parle chinois, soit on ne parle pas du tout.	Vagy kínaiul beszéljünk vagy sehogy.
+fra	hun	Son anniversaire, c'est demain.	Holnap van a szülinapja.
 fra	hun	Son cadeau est une bouteille de vin.	Az ajándéka egy üveg bor.
 fra	hun	Son courage m'a surprise.	El voltam ájulva a bátorságán.
 fra	hun	Son épouse est suédoise.	A felesége svéd.
@@ -2188,9 +2669,12 @@ fra	hun	Son fils est malade.	A fia beteg.
 fra	hun	Son livre est très intéressant.	Az ő könyve nagyon érdekes.
 fra	hun	Son nom est connu dans le monde entier.	Neve ismert az egész világon.
 fra	hun	Son nom est Ken.	A neve Ken.
+fra	hun	Son nom est Muhammad.	A neve Mohamed.
 fra	hun	Son nom est Tom, pas John.	A neve Tom, és nem John.
 fra	hun	Son père est décédé la nuit dernière à l'hôpital.	Tegnap éjjel az édesapja elhunyt a kórházban.
 fra	hun	Son père est policier.	Édesapja rendőr.
+fra	hun	Son vêtement est transparent.	Átlátszó a ruhája.
+fra	hun	Sortez d'ici avec cette cigarette !	Húzzál ki innen a cigiddel!
 fra	hun	Souhaitez-vous que je vous l'explique ?	Elmagyarázzam ezt neked?
 fra	hun	Souriez !	Mosolyogj!
 fra	hun	Soyez sérieuse !	Legyél komoly!
@@ -2208,11 +2692,14 @@ fra	hun	Ta mère est d'Arkhangelsk.	Édesanyád Arhangelszkből származik.
 fra	hun	Ta réponse est juste.	A feleleted helyes.
 fra	hun	Taro, le dîner est prêt.	Taro, kész a vacsora!
 fra	hun	Ted a finalement réussi à communiquer ses pensées en japonais.	Végre ma sikerült Tednek a gondolatait japánul kifejezni.
+fra	hun	Tes cheveux me plaisent.	Nekem tetszik a hajad.
 fra	hun	Tes lèvres sont bleues, tu devrais sortir de l'eau.	Az ajkaid elkékültek, ki kellene jönnöd a vízből.
 fra	hun	Tes oreilles sont rouges comme des betteraves.	Pirosak a füleid, mint a cékla.
 fra	hun	T'es relou.	Uncsi vagy.
 fra	hun	Tes yeux me rappellent des étoiles.	Szemeid a csillagokra emlékeztetnek.
 fra	hun	Thomas n’est pas très économe.	Thomas nem valami hatékony.
+fra	hun	Tiens la boîte à deux mains.	Két kézzel tartsd a dobozt.
+fra	hun	Tiens le vase à deux mains.	Két kézzel fogja a vázát!
 fra	hun	Tom a acheté une voiture.	Tom vett egy autót.
 fra	hun	Tom a apporté ceci.	Tomi hozta ezt.
 fra	hun	Tom a besoin d'argent.	Tomnak pénzre van szüksége.
@@ -2230,6 +2717,8 @@ fra	hun	Tom a parlé de Boston.	Tom Bostonról beszélt.
 fra	hun	Tom appuya sur le bouton puis attendit.	Tom megnyomta a gombot és várt.
 fra	hun	Tom a promis de nous attendre.	Tom megígérte, hogy vár ránk.
 fra	hun	Tom a trouvé son nouvel emploi intéressant.	Tomi érdekesnek találta az új munkáját.
+fra	hun	Tom a une amie russe.	Tomnak orosz barátnője van.
+fra	hun	Tom a une amie turque.	Tomnak török barátnője van.
 fra	hun	Tom a une automobile.	Tomnak van autója.
 fra	hun	Tom a un long cou.	Tomnak hosszú nyaka van.
 fra	hun	Tom but un verre de vin.	Tom ivott egy pohár bort.
@@ -2252,15 +2741,24 @@ fra	hun	Tom est le prochain.	Tom a következő.
 fra	hun	Tom est maladivement jaloux.	Tom betegesen féltékeny.
 fra	hun	Tom est mon ex.	Tom a volt férjem.
 fra	hun	Tom est petit et gros.	Tom kicsi és kövér.
+fra	hun	Tom est polyglotte.	Tamás soknyelvű.
 fra	hun	Tom est seul.	Tom egyedül van.
+fra	hun	Tom est très jeune, donc il ne comprend pas vraiment ce qui ce passe.	Tomi még túl fiatal, így nem érti, mi történik.
+fra	hun	Tom est un nom à trois lettres.	A Tom egy hárombetűs név.
 fra	hun	Tom est un nudiste.	Tom nudista.
+fra	hun	Tom est un saboteur.	Tom szabotőr.
+fra	hun	Tom est un saint.	Tom szent.
+fra	hun	Tom est vendeur de bretzels.	Tom pereces.
 fra	hun	Tom était courageux.	Merész volt Tomi.
 fra	hun	Tom était très compréhensible.	Tom nagyon megértő volt.
 fra	hun	Tom et Marie parlent très bien hongrois.	Tamás és Mária nagyon jól beszélnek magyarul.
 fra	hun	Tom et Mary forment un joli couple.	Szép pár Tomi es Mari.
 fra	hun	Tom et moi nous travaillons parfois ensemble.	Tom és én néha együtt dolgozunk.
 fra	hun	Tom fait beaucoup d'erreurs.	Tom sok hibát követ el.
+fra	hun	Tom fut un vrai héros.	Igazi hős volt Tom.
+fra	hun	Tom fut un vrai héros.	Tom igazi hős volt.
 fra	hun	Tom habite sur un bateau.	Tom egy csónakban lakik.
+fra	hun	Tom mange la bouche ouverte et parle la bouche pleine.	Tom nyitott szájjal eszik és teli szájjal beszél.
 fra	hun	Tom mange.	Tom eszik.
 fra	hun	Tom mange une pomme.	Tom almát eszik.
 fra	hun	Tom ment.	Tom hazudik.
@@ -2286,6 +2784,7 @@ fra	hun	Tom n'est pas ici.	Tom nincs itt.
 fra	hun	Tom n'est pas jaloux.	Tom nem féltékeny.
 fra	hun	Tom n'est pas religieux.	Tom nem vallásos.
 fra	hun	Tom n'est pas venu, Jane non plus.	Tom nem jött, és Jane sem.
+fra	hun	Tom, on l'appelle Pinocchio, pas du tout parce que c'est une tête de bois, mais parce qu'il ment en permanence.	Tomot Pinocchiónak hívják, de nem azért mert fafej, hanem mert állandóan hazudik.
 fra	hun	Tom parle bien français.	Tom jól tud franciául.
 fra	hun	Tom parle de son travail.	Tom a munkájáról beszél.
 fra	hun	Tom parle parfaitement français.	Tom perfekt beszél franciául.
@@ -2296,12 +2795,15 @@ fra	hun	Tom passa le reste de la nuit à penser à Marie.	Tomi az éjszaka hátr
 fra	hun	Tom passa trois semaines à Boston.	Tom három hetet töltött Bostonban.
 fra	hun	Tom peut marcher sur les mains.	Tom tud kézen járni.
 fra	hun	Tom porte rarement un chapeau.	Ritkán visel Tom kalapot.
+fra	hun	Tom ronfle très fort.	Tamás nagyon hangosan horkol.
 fra	hun	Tom sait que Maria ne parle pas français.	Tom tudja, hogy Mária nem beszél franciául.
 fra	hun	Tom semble calme.	Tom nyugodtnak látszik.
 fra	hun	Tom semble calme.	Tom nyugodtnak tűnik.
 fra	hun	Tom se noie.	Tom fuldoklik.
 fra	hun	Tom t'attendra.	Tom várni fog rád.
 fra	hun	Tom transpire beaucoup.	Tom sokat izzad.
+fra	hun	Tom travaille douze heures par jour.	Tom naponta tizenkét órát dolgozik.
+fra	hun	Tom travaille douze heures par jour.	Tom tizenkét-órázik.
 fra	hun	Tom travaille-t-il, aujourd'hui ?	Tom dolgozik ma?
 fra	hun	Tom veut en savoir davantage sur le passé de Marie.	Tomi többet akar tudni Mari multjáról.
 fra	hun	Tom veut se marier avec Marie.	Tomi össze akar házasodni Marival.
@@ -2310,6 +2812,7 @@ fra	hun	Tom voulait mourir.	Tom meg akart halni.
 fra	hun	Tom voulait venir avec nous.	Tom akart jönni velünk.
 fra	hun	Ton anglais s'est grandement amélioré.	Sokat javult az angolod.
 fra	hun	Ton chat survivra.	Megmarad a macskád.
+fra	hun	Ton désir est un ordre.	Kérésed számomra parancs.
 fra	hun	Ton visage est rouge.	Kipirosodott az arcod.
 fra	hun	Ton visage est tout le temps sale.	Mindig piszkos az arcod.
 fra	hun	Tous ces livres sont à moi.	Ez mind az én könyvem.
@@ -2321,19 +2824,29 @@ fra	hun	Tous les hommes sont égaux devant Dieu.	Isten előtt minden ember egyen
 fra	hun	Tous sont là.	Mindenki ott van.
 fra	hun	Tous y sommes allés, lui excepté.	Mi mind mentünk, kivéve őt.
 fra	hun	Tout a changé. Je ne suis plus moi-même.	Minden megváltozott. Már én sem vagyok ugyanaz.
+fra	hun	Toute la maison est endormie.	Elaludt az egész ház.
 fra	hun	Toute la ville était en flammes.	Az egész város lángokban állt.
+fra	hun	Toutes les blagues ne sont pas drôles.	Nem minden vicc vicces.
+fra	hun	Toutes les idéologies, y compris les religions, sont manipulatrices.	Minden ideológia, beleértve a vallásokat is, manipulatívok.
+fra	hun	Tout est blanc dehors.	Kint fehér minden.
+fra	hun	Tout est blanc dehors.	Kint minden fehér.
+fra	hun	Tout est dans les sacs des femmes.	A női táskákban van minden.
 fra	hun	Tout est fini.	Mindennek vége.
 fra	hun	Tout est possible.	Minden lehetséges.
+fra	hun	Tout finit un jour.	Minden véget ér egyszer.
 fra	hun	«Tout le monde fait des fautes...» «Surtout les imbéciles !»	"Mindenki követhet el hibát." "Főleg a hülyék!"
 fra	hun	Tout ou rien.	Mindent vagy semmit.
 fra	hun	Traduire cette phrase sera très facile.	Nagyon könnyű lesz lefordítani ezt a mondatot.
+fra	hun	Traduis ces phrases.	Fordítsd le ezeket a mondatokat!
 fra	hun	Travaillent-elles, aujourd'hui ?	Dolgoznak ma?
 fra	hun	Travailler dur n'a encore jamais tué personne. Mais pourquoi prendre le risque ?	A kemény munka még nem ölt meg senkit. De miért reszkírozzuk?
 fra	hun	Trois ans se sont écoulés depuis.	Azóta elmúlt három év.
 fra	hun	Tu as bu une tasse de café.	Ittál egy csésze kávét.
+fra	hun	Tu as certainement le Covid-19.	Biztos covidos vagy.
 fra	hun	Tu as de la chance d'être une fille.	Szerencséd van, hogy lány vagy.
 fra	hun	Tu as fait une erreur.	Hibáztál.
 fra	hun	Tu as le temps de penser.	Van időd gondolkodni.
+fra	hun	« Tu as le temps ? » « Pour toi, toujours. »	— Ráérsz? — Rád mindig van időm.
 fra	hun	Tu as oublié ton parapluie dans un bus.	Buszon felejtetted az esernyődet.
 fra	hun	Tu as perdu du poids.	Lefogytál.
 fra	hun	Tu as perdu, n'est-ce pas ?	Vesztettél, nemde?
@@ -2346,8 +2859,16 @@ fra	hun	Tu attends trop d'elle.	Túl sokat vársz tőle.
 fra	hun	Tu aurais dû saisir la chance, alors.	Akkor kellett volna kihasználnod a lehetőséget.
 fra	hun	Tu avais de la chance.	Szerencsés voltál.
 fra	hun	Tu bois trop de café.	Túl sok kávét iszol.
+fra	hun	Tu compliques tout.	Mindent elbonyolítasz.
+fra	hun	Tu compliques tout.	Mindent túldimenzionálsz.
+fra	hun	Tu compliques tout.	Mindent túlkomplikálsz.
+fra	hun	Tu demandes trop.	Túl sokat kérsz.
+fra	hun	Tu détruis tout.	Mindent tönkreteszel.
+fra	hun	Tu détruis tout.	Mindent tönkrevágsz te.
 fra	hun	Tu dois choisir.	Választanod kell.
 fra	hun	Tu dois faire ton travail.	A te munkádat neked kell elvégezned.
+fra	hun	Tu dois lui dire.	El kell neki mondanod.
+fra	hun	Tu dois lui dire.	Meg kell neki mondanod.
 fra	hun	Tu es agressif.	Agresszív vagy.
 fra	hun	Tu es au bon endroit.	Jó helyen vagy.
 fra	hun	Tu es couché dans mon lit.	Az én ágyamban fekszel.
@@ -2355,6 +2876,8 @@ fra	hun	Tu es courageux.	Van vér a pucádban.
 fra	hun	Tu es encore jeune.	Még fiatal vagy.
 fra	hun	Tu es en train de mentir.	Össze-vissza hazudozik.
 fra	hun	Tu es impatient.	Türelmetlen vagy.
+fra	hun	Tu es importante pour moi.	Fontos vagy nekem.
+fra	hun	Tu es important pour moi.	Fontos vagy nekem.
 fra	hun	Tu es le grand amour de ma vie.	Te vagy az életem nagy szerelme!
 fra	hun	Tu es malade!	Te beteg vagy!
 fra	hun	Tu es mon fils.	Te a fiam vagy.
@@ -2367,23 +2890,36 @@ fra	hun	Tu es toujours en retard.	Mindig késel.
 fra	hun	Tu es tout pour moi.	Te vagy a mindenem.
 fra	hun	Tu es très bon.	Te nagyon jó vagy.
 fra	hun	Tu es très brave.	Nagyon bátor vagy.
+fra	hun	Tu es très important pour moi.	Nagyon fontos vagy nekem.
 fra	hun	Tu es très riche.	Te nagyon gazdag vagy.
 fra	hun	Tu es un chien.	Kutya vagy.
+fra	hun	Tu es un saboteur !	Szabotőr vagy te!
 fra	hun	Tu étais absent.	Te hiányoztál.
 fra	hun	Tu lis le blog de Tom ?	Szoktad olvasni Tom blogját?
 fra	hun	Tu lis quoi ?	Mit olvasol most?
 fra	hun	Tu me dois un bisou.	Jössz nekem egy puszival!
 fra	hun	Tu mets ma patience à l'épreuve.	Próbára teszed a türelmemet.
+fra	hun	Tu n'as aucun talent.	Nincs semmi tehetséged.
+fra	hun	Tu n'as aucun talent.	Semmi tehetséged.
+fra	hun	Tu n'as aucun talent.	Semmi tehetséged sincs.
+fra	hun	Tu n'as aucun talent.	Semmi tehetséged sincsen.
+fra	hun	Tu n'as pas beaucoup d'argent.	Nincs sok pénzed.
 fra	hun	Tu n'as pas besoin de mon aide.	Nincs szükséged a segítségemre.
 fra	hun	Tu n'as pas besoin de penser à ça maintenant.	Most nem kell arra gondolnod.
 fra	hun	Tu n'as pas besoin de répondre à cette lettre.	Erre a levélre nem kell válaszolnod.
 fra	hun	Tu n'as pas idée de combien tu es important pour moi.	Fogalmad sincs, milyen fontos vagy nekem.
 fra	hun	Tu n'as pas le droit de fumer dans cette salle.	Ebben a helyiségben tilos a dohányzás.
+fra	hun	Tu n'as pas parlé de toi.	Te még nem meséltél magadról semmit.
 fra	hun	Tu ne devrais pas croire tout ce que Tom te dit.	Ne higgy el mindent, amit Tom mond neked.
 fra	hun	Tu ne devrais pas faire une telle chose.	Nem kellett volna ilyesmit tenned.
 fra	hun	Tu ne m'as pas encore dit qui il est.	Még mindig nem mondtad meg nekem, hogy ki az.
+fra	hun	Tu ne m'as pas pris ça ?	Ezt nem tőlem vetted el?
+fra	hun	Tu ne me dis pas bonjour ?	Nekem nem is köszönsz?
+fra	hun	Tu ne peux pas comprendre ça.	Te ezt nem értheted.
 fra	hun	Tu ne prévois pas d'y aller, n'est-ce pas ?	Ugye nem akarsz odamenni?
+fra	hun	Tu ne regardes pas les nouvelles ?	Nem nézed a híreket?
 fra	hun	Tu ne sais pas combien je t'aime.	Te nem tudod, mennyire szeretlek.
+fra	hun	Tu n'es pas encore au courant ?	Nem tudod még?
 fra	hun	Tu n'es pas forcée d'y aller.	Nem kell lemenned.
 fra	hun	Tu n'es pas ma mère.	Te nem vagy az anyám.
 fra	hun	Tu n'es pas obligé d'y aller, à moins que tu ne le veuilles.	Nem kötelező menned, csak ha akarsz.
@@ -2392,11 +2928,14 @@ fra	hun	Tu n'es pas obligée de tout lui dire.	Nem kell neki mindent elmondanod.
 fra	hun	Tu n'es pas seule.	Te nem vagy egyedül.
 fra	hun	Tu n'es pas seul.	Te nem vagy egyedül.
 fra	hun	Tu ne t'es pas encore lavé les mains, si ?	Te még nem mostál kezet, igaz?
+fra	hun	Tu parles comme un politicien.	Úgy beszélsz, mint egy politikus.
 fra	hun	Tu passes trop de temps à regarder la télé.	Túl sok időt töltesz tévénézéssel.
 fra	hun	Tu penses qu'Obama sait parler espagnol ?	Szerinted Obama tud spanyolul?
+fra	hun	« Tu penses souvent à elle ? » « Chaque jour, chaque minute. »	— Gyakran gondolsz őrá? — Minden nap minden percében.
 fra	hun	Tu peux lire en arabe ?	El tudod olvasni az arab írást?
 fra	hun	Tu peux me tutoyer.	Tegezhetsz.
 fra	hun	Tu peux rester avec nous pour la nuit.	Nálunk éjszakázhatsz.
+fra	hun	Tu peux rester ici jusqu’à demain.	Holnapig itt maradhatsz.
 fra	hun	Tu pourrais au moins dire merci !	Legalább megköszönhetnéd.
 fra	hun	Tu sais ce que tu veux.	Te tudod, mit akarsz.
 fra	hun	Tu sais que je suis plus intelligent que toi.	Tudod, hogy okosabb vagyok nálad.
@@ -2423,6 +2962,7 @@ fra	hun	Une stupide incompréhension a interrompu leur longue amitié.	Egy buta 
 fra	hun	Une table a quatre pieds.	Egy asztalnak négy lába van.
 fra	hun	Une tempête dans un verre d'eau.	Vihar egy pohár vízben.
 fra	hun	Un étranger entra dans l'immeuble.	Egy ismeretlen lépett be az épületbe.
+fra	hun	Un exemple vaut mille mots.	Egy példa többet mond ezer szónál.
 fra	hun	Un groupe de voleurs a cambriolé la banque.	Egy tolvajbanda betört a bankba.
 fra	hun	Unité, justice et liberté sont la garantie du bonheur.	Egység, igazság és szabadság - ezek a jószerencse letéteményesei.
 fra	hun	Un manteau est un vêtement.	A kabát az egy ruhadarab.
@@ -2431,6 +2971,8 @@ fra	hun	Un paquet de cigarettes en contient vingt.	Egy csomag húsz cigarettát 
 fra	hun	Un plus deux égale trois.	Egy meg kettő egyenlő három.
 fra	hun	Un pour tous, tous pour un.	Egy mindenkiért, mindenki egyért.
 fra	hun	Un sandwich sans jambon n'est pas un sandwich.	A szendvics sonka nélkül nem szendvics.
+fra	hun	Un seul arbre ne fait pas la forêt.	Egy fa még nem erdő.
+fra	hun	Un seul arbre ne fait pas la forêt.	Egy fa nem erdő.
 fra	hun	Un vieillard solitaire y habite.	Egy magányos öregember él ott.
 fra	hun	Vas-tu ouvrir cette enveloppe?	Kinyitod ezt a borítékot?
 fra	hun	Venez déjeuner avec nous.	Ebédelj velünk.
@@ -2455,16 +2997,22 @@ fra	hun	Voici la réponse.	Íme a válasz.
 fra	hun	Voici mon numéro de téléphone.	Itt a telefonszámom.
 fra	hun	Voici ton sac !	Íme a táskád!
 fra	hun	Voici ton sac.	Íme a táskád!
+fra	hun	Voilà !	Itt van e!
+fra	hun	Voilà !	Tá-dám!
 fra	hun	Voilà ton sac.	Íme a táskád!
 fra	hun	Volontiers. Combien ?	Szívesen. Mennyi?
+fra	hun	Votez pour moi.	Szavazzanak rám!
 fra	hun	Votre femme est encore en Amérique ?	A feleséged még Amerikában van?
 fra	hun	Votre hypothèse est erronée.	A feltételezésed téves.
 fra	hun	Voulez-vous coucher avec moi ?	Lefekszetek velem?
 fra	hun	Voulez-vous manger ici ?	Itt akarsz enni?
+fra	hun	Voulez-vous un café ?	Kér egy kávét?
 fra	hun	"Voulez-vous une autre tasse de café ?" "Non merci"	- Akarsz még egy csésze kávét? - Nem, köszönöm.
 fra	hun	Voulez-vous une tasse de café ?	Kér egy csésze kávét?
 fra	hun	Vous a-t-on jamais embrassés auparavant ?	Megcsókolt már téged valaha valaki?
+fra	hun	Vous avez besoin d'un permis de travail ?	Szüksége van munkavállalási engedélyre?
 fra	hun	Vous devez attendre jusqu'à l'année prochaine.	Jövő évig várnia kell.
+fra	hun	Vous devriez diminuer votre consommation d'alcool.	Csökkentenie kellene az alkohol fogyasztását.
 fra	hun	Vous dites ?	Mit beszélsz?
 fra	hun	Vous êtes descendues du septième étage.	A hetediken szálltatok ki.
 fra	hun	Vous êtes encore jeune.	Még fiatalok.
@@ -2477,6 +3025,8 @@ fra	hun	Vous habitez où ?	Hol él ön?
 fra	hun	Vous habitez où ?	Hol lakik?
 fra	hun	Vous habitez où ?	Hol laknak önök?
 fra	hun	Vous habitez où ?	Hol laktok?
+fra	hun	Vous n'aimez pas votre chien ?	Nem szereti a kutyáját?
+fra	hun	Vous n'avez pas de conscience !	Tudattalanok vagytok.
 fra	hun	Vous n'avez pas l'air d'un millionnaire.	Nem kelted egy milliomos benyomását.
 fra	hun	Vous ne devriez pas employer ce mot à son endroit.	Nem kellene ezzel a szóval illetned őt.
 fra	hun	Vous ne le croiriez pas.	Nem is hinné.
@@ -2484,11 +3034,19 @@ fra	hun	Vous ne pouvez pas parler anglais, n'est-ce pas ?	Te nem beszélsz angol
 fra	hun	Vous n'êtes pas obligé de le manger.	Nem muszáj ezt megennie.
 fra	hun	Vous pouvez aller où cela vous plaît.	Oda tudtok menni, ahova csak akartok.
 fra	hun	Vous pouvez en donner la totalité à Tom, si vous voulez.	Oda adhatsz Tomnak ebből mindent, ha karod.
+fra	hun	Vous seule pouvez nous sauver.	Csak ön tud megmenteni minket.
+fra	hun	Vous seule pouvez nous sauver.	Egyedül ön tud megmenteni minket.
 fra	hun	Vous souvenez-vous de ce jeu ?	Emlékszel erre a játékra?
 fra	hun	Vous vous sentez bien ?	Jól érzik magukat?
 fra	hun	Voyagez-vous beaucoup ?	Sokat utazol?
+fra	hun	Voyez-vous quelque chose d'intéressant ?	Látnak önök valami érdekeset?
+fra	hun	Voyez-vous quelque chose d'intéressant ?	Láttok-e valami érdekeset?
+fra	hun	Voyez-vous quelque chose d'intéressant ?	Lát valami érdekeset?
+fra	hun	Voyez-vous quelque chose d'intéressant ?	Valami érdekeset láttok?
 fra	hun	Vue depuis le ciel, la rivière ressemblait à un énorme serpent.	Az égből nézve a folyó kígyónak látszott.
 fra	hun	Watanabe est mon nom de famille.	Watanabe a családnevem.
+fra	hun	Y a-t-il des loups en Australie ?	Ausztráliában vannak farkasok?
 fra	hun	Y a-t-il des verbes irréguliers en espéranto ?	Vannak rendhagyó igék az eszperantóban?
+fra	hun	Y a-t-il quelqu'un chez vous en ce moment ?	Van most otthon valaki nálatok?
 fra	hun	Y aurait-il un traître parmi nous ?	Áruló lenne közöttünk?
 fra	hun	Zsuzsi est plus jeune que moi de deux ans.	Zsuzsi két évvel fiatalabb, mint én.

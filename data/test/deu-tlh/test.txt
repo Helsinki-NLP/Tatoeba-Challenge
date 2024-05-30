@@ -264,7 +264,7 @@ deu	tlh_Latn	Er glaubte nicht ein einziges Wort in dieser Geschichte.	lutvamDaq 
 deu	tlh_Latn	Er hat 3 Töchter.	3 puqbe'pu' ghaj.
 deu	tlh_Latn	Er hat Angst vor Hunden.	Ha'DIbaH Haj.
 deu	tlh_Latn	Er hat braune Augen.	Qaj wuS rur mInDu'Daj.
-deu	tlh_Latn	Er hat das Zimmer betreten.	pa' 'el.
+deu	tlh	Er hat das Zimmer betreten.	pa' 'el.
 deu	tlh_Latn	Er hat dieses Buch gestern gelesen.	wa'Hu' paqvam laDta'.
 deu	tlh_Latn	Er hat drei Töchter.	wej puqbe'pu' ghaj.
 deu	tlh_Latn	Er hat eine Menge Sachen in seinem Sack.	buqDajDaq Dochmey law' ghaj.
@@ -338,7 +338,7 @@ deu	tlh_Latn	Es ist nicht meine Schuld!	pIch vIghajbe'!
 deu	tlh_Latn	Es ist passiert.	qaSpu'.
 deu	tlh_Latn	Es regnet hier fast nie.	naDev tlhoS not SIS.
 deu	tlh_Latn	Essen Sie gerne japanisch?	nIpon Soj DaparHa''a'?
-deu	tlh_Latn	Es tut furchtbar weh.	'oy'qu'.
+deu	tlh	Es tut furchtbar weh.	'oy'qu'.
 deu	tlh_Latn	Es tut mir hier weh.	naDev 'oy'.
 deu	tlh_Latn	Es tut mir leid, aber ich kann Sie nicht gut hören.	jIQoS, 'ach qaQoychu'laHbe'.
 deu	tlh_Latn	Es tut mir leid, ich komme mit ihm nicht aus.	jIQoS. malajchuqlaHbe'.
@@ -574,7 +574,7 @@ deu	tlh_Latn	Ich muss heute nicht zur Schule.	DaHjaj DuSaQ vIghoSnISbe'.
 deu	tlh_Latn	Ich muss ihn finden.	vISamnIS.
 deu	tlh_Latn	Ich muss ins Krankenhaus gehen.	ropyaH qach vI'elnIS.
 deu	tlh_Latn	Ich muss jetzt schlafen.	DaH jIQongnIS.
-deu	tlh_Latn	Ich musste feststellen, dass...	... 'e' vItu'.
+deu	tlh	Ich musste feststellen, dass...	... 'e' vItu'.
 deu	tlh_Latn	Ich nehme ab.	jIlangchoHtaH.
 deu	tlh_Latn	Ich rate dir, auf deinen Arzt zu hören.	QellIj DaQoy 'e' vIchup.
 deu	tlh_Latn	Ich riet ihm, sofort zurückzukommen.	vIqeSta'. jIjatlh SIbI' yIchegh.
@@ -657,7 +657,7 @@ deu	tlh_Latn	Ist es kostenlos?	DIlnISbe'lu''a'?
 deu	tlh_Latn	Ja!	HIja'!
 deu	tlh_Latn	Ja.	HISlaH.
 deu	tlh_Latn	Ja, ich habe ihn geküsst.	HISlaH, vIchopta'.
-deu	tlh_Latn	Ja.	lu'.
+deu	tlh	Ja.	lu'.
 deu	tlh_Latn	Jeder liebt Musik.	QoQ muSHa' Hoch.
 deu	tlh_Latn	Jemand hat mir meine Sachen gestohlen.	DochmeywIj nIHta' vay'.
 deu	tlh_Latn	Jene Bücher sind schwieriger als diese.	paqmeyvetlh Qatlh law' paqmeyvam Qatlh puS.
@@ -1013,7 +1013,7 @@ deu	tlh_Latn	Wer könnte ihn vergessen?	ghaH lIjlaH 'Iv?
 deu	tlh_Latn	Wer könnte ihn vergessen?	'oH lIjlaH 'Iv?
 deu	tlh_Latn	Wer könnte sie vergessen?	'oH lIjlaH 'Iv?
 deu	tlh_Latn	Wer sind diese Kinder?	puqmeyvam 'Iq?
-deu	tlh_Latn	„Wer sind Sie?“ — „Ich bin ich selbst.“	«SoH 'Iv?» — «jIH jIH'e'.»
+deu	tlh	„Wer sind Sie?“ — „Ich bin ich selbst.“	«SoH 'Iv?» — «jIH jIH'e'.»
 deu	tlh_Latn	Wer spricht französisch?	vIraS Hol jatlh 'Iv?
 deu	tlh_Latn	Wer spricht Französisch?	vIraS Hol jatlh 'Iv?
 deu	tlh_Latn	„Wie alt bist du?“ „Sechzehn.“	«ben 'ar bIboghpu'?» «wa'maH jav.»

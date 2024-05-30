@@ -281,18 +281,18 @@ rus	tur	Все мальчики удалились.	Bütün çocuklar uzaklaşt�
 rus	tur	Всем встать.	Herkes kalksın.
 rus	tur	Все меня бросили.	Herkes beni terk etti.
 rus	tur	Все могут участвовать.	Herkes katılabilir.
+rus	tur	Всё можно оформить через Интернет.	Gerekli tüm evrak işleri internet üzerinde halledilebilir.
+rus	tur	Всё можно оформить через Интернет.	Tüm resmi belgeleri internet aracılığı ile doldurup göndermek mümkün.
+rus	tur	Всё можно решить с помощью денег.	Sen paradan haber ver.
 rus	tur	Все мои товарищи спали.	Tüm dostlarım uykuda.
 rus	tur	Всем прятаться!	Herkes saklansın.
+rus	tur	Всё осталось по-прежнему.	Her şey hâlâ öyle bekliyor.
 rus	tur	Все пели припев.	Millet hep bir ağızdan nakaratı söylüyordu.
 rus	tur	Все присутствующие на собрании подписали эту петицию.	Toplantıdaki herkes dilekçeyi imzaladı.
 rus	tur	Все указали на Фому.	Herkes Tom'u işaret etti.
 rus	tur	Все участники надеются, что на Татоэбе будет миллион предложений к концу года.	Tüm üyeler Tatoeba'nın yıl sonuna kadar bir milyon cümleye sahip olmasını umut ediyor.
 rus	tur	Всех ждала одна судьба — смерть.	Herkes aynı kaderi bekliyordu - ölüm.
 rus	tur	Все хорошо до тех пор, пока не возникают проблемы.	Henüz bir problem oluşmadığından, her şey iyi.
-rus	tur	Всё можно оформить через Интернет.	Gerekli tüm evrak işleri internet üzerinde halledilebilir.
-rus	tur	Всё можно оформить через Интернет.	Tüm resmi belgeleri internet aracılığı ile doldurup göndermek mümkün.
-rus	tur	Всё можно решить с помощью денег.	Sen paradan haber ver.
-rus	tur	Всё осталось по-прежнему.	Her şey hâlâ öyle bekliyor.
 rus	tur	Всё, что тебе нужно сделать - это просто посидеть здесь.	Yapmanız gereken bütün şey sadece burada oturmak.
 rus	tur	Всё это нам давно известно.	Bütün bunlar uzun süredir biliniyor.
 rus	tur	В скором времени я надеюсь узнать, как вы.	Kısa sürede sizden haber almayı umuyorum.
@@ -317,6 +317,7 @@ rus	tur	В усадьбе много комнат.	Çiftliğinde birçok oda bul
 rus	tur	Входная дверь осталась запертой на замок.	Ön kapı kilitli kaldı.
 rus	tur	В холодные московские зимы лучше носить на голове шапку.	Soğuk Moskova kışlarında kendi başına şapka takmak en iyisidir.
 rus	tur	В чем проявляется неисправность?	Hata nasıl gözlendi?
+rus	tur	В чём, собственно, дело?	Mevzunun aslı ne?
 rus	tur	Вчера вечером я написал письмо.	Dün gece bir mektup yazdım.
 rus	tur	Вчера, дописав письмо, я лег спать очень поздно.	Dün, mektubu bitirdim, çok geç yattım.
 rus	tur	Вчера мы играли в теннис.	Biz dün tenis oynadık.
@@ -328,7 +329,6 @@ rus	tur	Вчера я встретила Мэри на улице.	Dün caddede 
 rus	tur	Вчера я встретил Джека.	Dün karşılaştığım Jack'ti.
 rus	tur	Вчера я встретил Мэри на улице.	Dün caddede Mary'ye rastladım.
 rus	tur	Вчера я купил книгу.	Dün bir kitap aldım.
-rus	tur	В чём, собственно, дело?	Mevzunun aslı ne?
 rus	tur	В Швейцарии всего 80 уйгуров.	İsviçre'de sadece 80 Uygur var.
 rus	tur	В школе первоклассники мастерят рождественские украшения.	Okulda birinci sınıf öğrencileri Noel süslemeleri yapıyorlar.
 rus	tur	Вы беззащитны.	Sen savunmasızsın.
@@ -503,9 +503,9 @@ rus	tur	Давай заново рассмотрим этот вопрос.	Hayd
 rus	tur	Давай измерим твой рост.	Hadi boyunu ölçelim.
 rus	tur	Давай перейдём в гостиную.	Oturma odasına geçelim.
 rus	tur	Давай поддерживать связь.	Teması sürdürelim.
-rus	tur	Давай подождем здесь, пока он не вернется.	O, geri dönünceye kadar burada bekleyelim.
 rus	tur	Давай подождём ещё 5 минут.	Beş dakika daha bekleyelim.
 rus	tur	Давай подождём здесь.	Burada bekleyelim.
+rus	tur	Давай подождем здесь, пока он не вернется.	O, geri dönünceye kadar burada bekleyelim.
 rus	tur	Давай подождём, когда дождь закончится.	Yağmurun durmasını bekleyelim!
 rus	tur	Давай подождём, когда дождь закончится.	Yağmurun durmasını bekleyelim.
 rus	tur	Давай подождём, пока он не проснётся.	O, uyanana kadar bekleyelim.
@@ -1227,10 +1227,10 @@ rus	tur	Меня не интересует материальная выгода
 rus	tur	Меня не считайте.	Beni saymayın.
 rus	tur	Меня укусила собака.	Beni köpek ısırdı.
 rus	tur	Меня укусил комар.	Beni sivrisinek ısırdı.
+rus	tur	Мёртвый ишак волков не боится	Ölmüş eşek kurttan korkmaz.
 rus	tur	Метод, который мы предлагаем, имеет два основных преимущества.	Bizim sunduğumuz çözümün iki temel avantajı var.
 rus	tur	Метод хороший, но требует доработки.	Metot iyi ama geliştirilmeye ihtiyacı var.
 rus	tur	Механик открывает свою мастерскую в семь часов.	Usta iş yerini saat yedide açar.
-rus	tur	Мёртвый ишак волков не боится	Ölmüş eşek kurttan korkmaz.
 rus	tur	Милостивый государь! Будьте добры, обратите внимание на несчастного, голодного человека.	Sayın bayım, lütfen, zavallı, aç bir insana yardım elinizi uzatın.
 rus	tur	Министерство обороны России работает над проектом создания нескольких резервных армий, которые будут состоять из добровольцев.	Rusya'nın savunma bakanlığı, gönüllülerden oluşacak birkaç rezerv ordusu oluşturma projesi üzerinde çalışıyor.
 rus	tur	Мир жесток.	Dünya acımasız.
@@ -1322,10 +1322,10 @@ rus	tur	Могу я сделать бронирование?	Bir rezervasyon yap
 rus	tur	Могу я сказать одну вещь?	Bir şey söyleyebilir miyim?
 rus	tur	Могу я украсть у Вас несколько минут?	Birkaç dakikanızı alabilir miyim?
 rus	tur	Могу я украсть у Вас несколько минут?	Sizi birkaç dakikalığına çalsam olur mu?
-rus	tur	Моей сестре за двадцать.	Kız kardeşim yirmili yaşlarındadır.
 rus	tur	Моё время заканчивается.	Vaktim tükenmek üzere.
 rus	tur	Моё имя - на двери.	İsmim kapıda.
 rus	tur	Моё имя не Том.	Adım Tom değil.
+rus	tur	Моей сестре за двадцать.	Kız kardeşim yirmili yaşlarındadır.
 rus	tur	Моё мнение схоже с твоим.	Benim görüşüm seninkine benzer.
 rus	tur	Моё пальто в конце концов износилось.	Ceketim sonunda yıprandı.
 rus	tur	Моё положение не такое уж и безнадёжное.	O kadar da çaresiz değilim.
@@ -1358,8 +1358,8 @@ rus	tur	Мой багаж потерялся.	Bagajım kayıp.
 rus	tur	Мой брат безработный.	Kardeşim işsizdir.
 rus	tur	Мой брат всегда встаёт раньше меня.	Erkek kardeşim her zaman benden önce uyanır.
 rus	tur	Мой брат живет в Сан-Диего.	Erkek kardeşim San Diego'da yaşıyor.
-rus	tur	Мой брат живет за рубежом.	Erkek kardeşim yurtdışında yaşıyor.
 rus	tur	Мой брат живёт в Токио.	Erkek kardeşim Tokyo'da yaşıyor.
+rus	tur	Мой брат живет за рубежом.	Erkek kardeşim yurtdışında yaşıyor.
 rus	tur	Мой дом всего в пяти минутах ходьбы от вокзала.	İstasyondan yürüyerek eve gitmek sadece beş dakika.
 rus	tur	Мой дом всего в пяти минутах ходьбы от вокзала.	İstasyondan yürüyerek eve gitmek yalnız beş dakika.
 rus	tur	Мой дом - твой дом.	Benim evim senin evindir.
@@ -1442,8 +1442,8 @@ rus	tur	Мы её не видели.	Onu görmedik.
 rus	tur	Мы ездили на большое озеро на пикник.	Piknik için büyük göle gittik.
 rus	tur	Мы ещё очень внимательно понаблюдаем за ситуацией.	Biz durumu dikkatle izlemeye devam edeceğiz.
 rus	tur	Мы ждали открытия магазина.	Dükkânın açılmasını bekliyorduk.
-rus	tur	Мы живем в прекрасном городе.	Güzel bir kentte yaşıyoruz.
 rus	tur	Мы живём в избе.	Kır evinde yaşıyoruz.
+rus	tur	Мы живем в прекрасном городе.	Güzel bir kentte yaşıyoruz.
 rus	tur	Мы живём не для пустого развлечения.	Biz boş eğlence için yaşamıyoruz.
 rus	tur	Мы забрались в машину.	Arabaya bindik.
 rus	tur	Мы здесь, чтобы поддержать тебя, Фома.	Seni desteklemek için buradayız, Tom.
@@ -1864,9 +1864,9 @@ rus	tur	Она вела себя загадочным образом.	O esrareng
 rus	tur	Она взяла на себя полную ответственность за свои действия.	O, onun eylemleri için tam sorumluluk aldı.
 rus	tur	Она воспитала пятерых детей.	Beş çocuk yetiştirdi.
 rus	tur	Она в отличной физической форме.	O fiziksel olarak mükemmel durumda.
+rus	tur	Она всё время тебе врёт.	O her zaman sana yalan söylüyor.
 rus	tur	Она всегда мне улыбается.	O her zaman bana gülümsüyor.
 rus	tur	Она всегда носит одежду, которая вышла из моды.	O her zaman modaya uymayan giysileri giyer.
-rus	tur	Она всё время тебе врёт.	O her zaman sana yalan söylüyor.
 rus	tur	Она вспахала поле.	O tarlayı sürdü.
 rus	tur	Она выглянула из окна.	O, pencereden dışarıya baktı.
 rus	tur	Она выиграла конкурс красоты.	O bir güzellik yarışmasını kazandı.
@@ -2055,11 +2055,11 @@ rus	tur	Он вообще не смотрит телевизор.	O, hiç televi
 rus	tur	Он в очках.	O gözlük takıyor.
 rus	tur	Он врун.	O yalancıdır.
 rus	tur	Он вручил визитку.	Kartvizitini verdi.
+rus	tur	Он всё время курит.	O her zaman sigara içiyor.
+rus	tur	Он всё время молчал.	O her zaman sessiz kaldı.
 rus	tur	Он всегда будет с тобой.	Her zaman seninle olacak.
 rus	tur	Он всегда ворчит.	O hep homurdanıyor.
 rus	tur	Он всего лишь ребёнок.	O sadece bir çocuk.
-rus	tur	Он всё время курит.	O her zaman sigara içiyor.
-rus	tur	Он всё время молчал.	O her zaman sessiz kaldı.
 rus	tur	Он всё оставляет на последнюю минуту.	O her şeyi son dakikaya bırakır.
 rus	tur	Он вскочил в поезд.	O trene atladı.
 rus	tur	Он выглядит немного уставшим, не правда ли?	Biraz yorgun görünüyor, değil mi?
@@ -2304,9 +2304,9 @@ rus	tur	Он предложил мне пойти с ним на вечерин�
 rus	tur	Он предложил мне помощь.	Bana yardım etmeyi önerdi.
 rus	tur	Он преодолел свои затруднения.	Zorluklarının üstesinden geldi.
 rus	tur	Он прибавил скорости.	O hızını yükseltti
-rus	tur	Он приветливый человек.	O dost canlısı bir insandır.
 rus	tur	Он привёл в порядок свою комнату.	O, odasını toparladı.
 rus	tur	Он привёл его в порядок.	O onu toparladı.
+rus	tur	Он приветливый человек.	O dost canlısı bir insandır.
 rus	tur	Он привык говорить публично.	O, herkesin önünde konuşmaya alışkındır.
 rus	tur	Он придёт пешком или приедет на велосипеде.	O, yaya ya da bisikletle gelecek.
 rus	tur	Он признался в суде, что контактировал с расистскими группировками.	O, ırkçı gruplarla temas halinde olduğunu mahkemede itiraf etti.
@@ -2462,8 +2462,8 @@ rus	tur	Перед вокзалом есть фонтан.	Garın önünde fısk
 rus	tur	Переедать плохо.	Aşırı yemek iyi değildir.
 rus	tur	Перестань мучить животное.	Hayvanlara eziyet etmeye bir son ver.
 rus	tur	Перестань оправдываться.	Mazeret beyan etmeyi bırak.
-rus	tur	Песчаная буря — красивое зрелище.	Bir kum fırtınası , güzel bir manzara.
 rus	tur	Пёс прыгает.	Köpek zıplıyor.
+rus	tur	Песчаная буря — красивое зрелище.	Bir kum fırtınası , güzel bir manzara.
 rus	tur	Плавать в море не значит владеть морем.	Denizde yüzmek, denize sahip olmanın anlamına gelmez.
 rus	tur	План сработает.	Plan başarılı olacaktır.
 rus	tur	Планы наступления держались в тайне.	Saldırı planları gizliydi.
@@ -2539,8 +2539,8 @@ rus	tur	Поздравляю с победой.	Zaferini kutlarım.
 rus	tur	Поздравляю с праздником!	Bayramınızı kutlarım.
 rus	tur	Позже.	Sonra.
 rus	tur	Позже приду.	Daha sonra geleceğim.
-rus	tur	Пойдем на пляж.	Haydi plaja gidelim.
 rus	tur	Пойдём и съедим что-нибудь?	Gidelim ve bir şeyler yiyelim mi?
+rus	tur	Пойдем на пляж.	Haydi plaja gidelim.
 rus	tur	"Пойдём", - сказал он мне.	O, bana "Gidelim" dedi.
 rus	tur	Покажи мне её фотографию.	Bana onun resmini göster.
 rus	tur	Покажите мне другую сумку.	Bana başka bir çanta göster.
@@ -2885,12 +2885,12 @@ rus	tur	Скоро улица Эсперанто в Казани будет пе
 rus	tur	Скоро улица Эсперанто в Казани будет переименована.	Yakın bir zaman içerisinde Kazan şehrindeki Esperanto Caddesi yeniden adlandırılacak.
 rus	tur	Скоро я куплю себе новый автомобиль.	Yakında kendime yeni bir araba alıyorum.
 rus	tur	Скот кормится травой.	Sığırlar otla beslenirler.
+rus	tur	С лёгким паром!	Sihhatler olsun!
 rus	tur	Следи за Томом.	Tom'u izle.
 rus	tur	Следите за дорогой.	Dikkatinizi yola verin.
 rus	tur	Следует выполнять обещания.	Verilen sözü tutmak lazım.
 rus	tur	Следуй за мной.	Beni takip et.
 rus	tur	Следуйте за нами.	Bizi takip edin.
-rus	tur	С лёгким паром!	Sihhatler olsun!
 rus	tur	Слишком поздно! Она нас уже увидела.	Çok geç! O, bizi görmüş.
 rus	tur	Слишком рано, чтобы вставать.	Kalkmak için çok erken.
 rus	tur	Слишком темно.	Çok karanlık.
@@ -3023,8 +3023,8 @@ rus	tur	«Таллинское пробуждение» начала 80-х го�
 rus	tur	Там, где есть жизнь, есть надежда.	Yaşamın olduğu yerde, umut vardır.
 rus	tur	Там, наверху, кто-то есть.	Orada, yukarıda, birileri var.
 rus	tur	Там пятьдесят звезд.	Elli tane yıldız var.
-rus	tur	Твоему терпению можно позавидовать.	Kıskanılacak derecede sabırlısın.
 rus	tur	Твоё желание сбылось?	Dileğin gerçek oldu mu?
+rus	tur	Твоему терпению можно позавидовать.	Kıskanılacak derecede sabırlısın.
 rus	tur	Твои платежи опаздывают на два месяца.	Şu anda ödemeniz iki ay gecikmiş.
 rus	tur	Твой доход примерно в два раза больше моего.	Gelirin, benimkinin yaklaşık iki katı kadar büyük.
 rus	tur	Твой дядя всё ещё за границей?	Amcan hâlâ yurt dışında mı?
@@ -3074,11 +3074,11 @@ rus	tur	Теперь, даже если и умру, то не расстрою�
 rus	tur	Теперь Ирак является важным поставщиком нефти.	Artık Irak en önemli petrol tedarikçisi konumunda.
 rus	tur	Теперь он занимает высокий пост.	O artık yüksek bir pozisyona getirildi.
 rus	tur	Теперь это уже не важно.	Artık önemli değil.
+rus	tur	Тёплая кровь брызгала в лицо.	Sıcak kan yüzüme sıçramıştı.
 rus	tur	Терапия не подействовала.	Terapi işe yaramadı.
 rus	tur	Терпение - с горечью, но плоды его сладкие.	Sabır acıdır, meyvası tatlıdır.
 rus	tur	Терпеть не могу зиму.	Kıştan nefret ederim.
 rus	tur	Терпеть не могу соседей.	Komşulara tahammül edemiyorum.
-rus	tur	Тёплая кровь брызгала в лицо.	Sıcak kan yüzüme sıçramıştı.
 rus	tur	Тигр был убит.	Kaplan öldürüldü.
 rus	tur	Тишина этого дома меня очень успокаивает.	Bu evin sessizliği beni sakinleştiriyor.
 rus	tur	Товарищи, в чём дело, я спрашиваю?! Товарищи, что за бесцеремонность! Я вас спрашиваю! Какая бестактность!	Yoldaşlar, ne oluyor soruyorum?! Bu ne küstahlık, yoldaşlar! Ben size soruyorum! Bu ne patavatsızlık!
@@ -3201,8 +3201,8 @@ rus	tur	Том может прийти, но после больше не смо
 rus	tur	Том может спать где угодно.	Tom her yerde uyuyabilir.
 rus	tur	Том мой друг.	Tom benim arkadaşım.
 rus	tur	Том - молодой и талантливый танцор.	Tom genç ve yetenekli bir dansçı.
-rus	tur	Том навестил могилу Мэри.	Tom, Mary'nin mezarını ziyaret etti.
 rus	tur	Том навёл порядок в гостиной.	Tom oturma odasını toparladı.
+rus	tur	Том навестил могилу Мэри.	Tom, Mary'nin mezarını ziyaret etti.
 rus	tur	Том надеялся увидеть Мэри.	Tom Mary'yi görmeyi umuyordu.
 rus	tur	Том назвал меня жирной.	Tom bana şişman dedi.
 rus	tur	Том назвал меня толстым.	Tom bana şişman dedi.
@@ -3442,8 +3442,8 @@ rus	tur	Ты влюблена в него?	Ona aşık oldun mu?
 rus	tur	Ты в моём сердце.	Sen benim kalbimdesin.
 rus	tur	Ты в плохой форме.	Formda değilsin.
 rus	tur	Ты всегда признаёшь мою правоту.	Hep benim haklı olduğumu kabul ediyorsun.
-rus	tur	Ты всерьёз думаешь об отъезде?	Gitmeyi ciddi olarak düşünüyor musun?
 rus	tur	Ты всё ещё можешь это сделать.	Bunu hâlâ yapabilirsin.
+rus	tur	Ты всерьёз думаешь об отъезде?	Gitmeyi ciddi olarak düşünüyor musun?
 rus	tur	Ты въехал в ситуацию.	Olayı anladın.
 rus	tur	Ты выглядел напуганным.	Korkmuş görünüyordun.
 rus	tur	Ты выглядишь великолепно.	Muhteşem görünüyorsun.
@@ -4007,8 +4007,8 @@ rus	tur	Чья была идея поставить здесь палатку?	�
 rus	tur	Чья книга?	Kitap kimin?
 rus	tur	Чья очередь раздавать карты?	Kartları dağıtmak için kimin sırası?
 rus	tur	Чья это гитара?	Bu kimin gitarı?
-rus	tur	Шеф сказал, что это срочно.	Şef acil olduğunu söyledi
 rus	tur	Шёл сильный дождь, и поэтому бейсбольный матч был отменён.	Çok yağmur yağdı ve dolayısıyla beyzbol maçı iptal edildi.
+rus	tur	Шеф сказал, что это срочно.	Şef acil olduğunu söyledi
 rus	tur	Школа закрыта.	Okul kapalı.
 rus	tur	Школа скоро закроется на летние каникулы.	Okul yakında yaz tatili için tatile girecek.
 rus	tur	Шпаргалки писать очень полезно.	Kopya yazmak çok yararlıdır.
@@ -4326,8 +4326,8 @@ rus	tur	Я вполне доволен своим новым домом.	Yeni ev
 rus	tur	Я вполне счастливый человек!	Ben tamamen mutlu bir insanım.
 rus	tur	Я всегда покупаю продукт высшего качества, даже если он немного дорогой.	Biraz pahalı olsalar bile, ben daime en iyi ürünleri satın alırım.
 rus	tur	Я всегда принимаю ванну перед тем, как лечь спать.	Ben her zaman yatmadan önce banyo yaparım.
-rus	tur	Я всецело поддерживаю твой план.	Tamamen senin planı destekliyorum.
 rus	tur	Я всё знаю.	Her şeyi biliyorum.
+rus	tur	Я всецело поддерживаю твой план.	Tamamen senin planı destekliyorum.
 rus	tur	Я встал в семь.	Ben yedide kalktım.
 rus	tur	Я встретила её во время моего пребывания в Мексике.	Onunla Meksika'da kaldığım sırada tanıştım.
 rus	tur	Я встретил там друга.	Orada bir arkadaşla karşılaştım.
@@ -4708,9 +4708,9 @@ rus	tur	Я объяснил им правила игры.	Oyunun kurallarını o
 rus	tur	Я одолжу тебе эту книгу.	Bu kitabı sana ödünç vereceğim.
 rus	tur	Я оставил его у себя ночевать.	Evimde uyumasına izin verdim.
 rus	tur	Я остаюсь скептиком.	Şüpheli kalırım.
+rus	tur	Я отвёл его в больницу.	Onu hastaneye götürdüm.
 rus	tur	Я ответила на твой вопрос?	Sorunu yanıtladım mı?
 rus	tur	Я ответил на вопрос.	Soruya cevap verdim.
-rus	tur	Я отвёл его в больницу.	Onu hastaneye götürdüm.
 rus	tur	Я о тебе никому не буду рассказывать.	Kimseye sizden bahsetmeyeceğim.
 rus	tur	Я открыл бутылку красного вина.	Bir şişe kırmızı şarap açtım.
 rus	tur	Я открыл жалюзи.	Jaluziyi açtım.
@@ -4721,11 +4721,11 @@ rus	tur	Я очень сильная.	Ben çok güçlüyüm.
 rus	tur	Я очутился между молотом и наковальней.	Kendimi çekiçle örs arasında buldum.
 rus	tur	Я пекла торт.	Kek pişiriyordum.
 rus	tur	Я пекла торт.	Pasta yapıyordum.
+rus	tur	Я пёк торт.	Kek pişiriyordum.
 rus	tur	Я переживаю очень трудное время.	Çok zor bir zaman geçiriyorum.
 rus	tur	Я пересёк пешеходный переход.	Yaya geçidinden karşıya geçtim.
 rus	tur	Я пересказала им всё.	Onlara her şeyi söyledim.
 rus	tur	Я перешёл через пешеходный переход.	Yaya geçidinden karşıya geçtim.
-rus	tur	Я пёк торт.	Kek pişiriyordum.
 rus	tur	Я пишу, потому что мне нравится.	Yazıyorum, çünkü hoşuma gidiyor.
 rus	tur	Я планирую получить степень магистра.	Master yapmayı planlıyorum.
 rus	tur	Я плохо плаваю.	Ben iyi yüzemiyorum.
@@ -4793,9 +4793,9 @@ rus	tur	Я приобрёл новую шапку в универмаге.	Mağa
 rus	tur	Я приобрёл новую шляпу в универмаге.	Mağazada yeni bir şapka aldım.
 rus	tur	Я приставил лестницу к стене.	Ben duvara karşı bir merdiven koydum.
 rus	tur	Я приучил себя работать часами.	Ben, kendimi saatlerce çalışmaya eğittim.
+rus	tur	Я пришёл сюда работать с Фомой.	Tom'la çalışmak için buraya geldim.
 rus	tur	Я пришел, чтобы с тобой поговорить.	Seninle konuşmak için geldim.
 rus	tur	Я пришел, чтобы убить его.	Onu öldürmek için geldim.
-rus	tur	Я пришёл сюда работать с Фомой.	Tom'la çalışmak için buraya geldim.
 rus	tur	Я проверю их.	Onları kontrol edeceğim.
 rus	tur	Я провожу каждое утро с Фомой.	Her sabahı Tom'la geçiriyorum.
 rus	tur	Я провожу моё свободное время с моими детьми.	Boş zamanımı çocuklarımla harcarım.

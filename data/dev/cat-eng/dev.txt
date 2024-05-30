@@ -1,4 +1,7 @@
 cat	eng	Acabo de llegir un article amb consells per a reduir l'estrés coronavíric.	I've just read an article on tips for reducing coronaviral stress.
+cat	eng	Adora la música i toca el piano.	He loves music and plays the piano.
+cat	eng	Adora la música i toca la bateria.	He loves music and plays the drums.
+cat	eng	Adora la música i toca la guitarra.	He loves music and plays the guitar.
 cat	eng	Ahir em vaig començar un llibre nou.	I started a new book yesterday.
 cat	eng	Ahir vaig començar un llibre nou.	I started a new book yesterday.
 cat	eng	Això és racisme pur!	That's pure racism.
@@ -12,27 +15,35 @@ cat	eng	Al segle XIX es produí una revitalització de la literatura en català 
 cat	eng	A mi tant me val si ella hi està d'acord o no.	I don't care if she agrees or not.
 cat	eng	Aqueix llibre descriu la vida d'una família jueva durant l'època del nazisme.	This book describes the life of a Jewish family during the Nazi era.
 cat	eng	Aquella ampolla és plena.	That bottle is full.
+cat	eng	Aquell lloc està ple d'insectes, més que una simple mosca.	That place is full of insects, more than a simple fly.
+cat	eng	Aquesta oració té, exactament, vuitanta-set caràcters, igual que les seves traduccions.	This sentence comprises of exactly eighty-seven characters, and so do its translations.
 cat	eng	Aquestes caixes van ser produïdes amb plaques d'acer soldades entre si.	These boxes were made with steel plates welded together.
 cat	eng	Aquest és un recordatori fugaç que gràcies als mites de les antigues civilitzacions grega, mesopotàmica i egípcia, les persones queer arreu podem assegurar que som divines. Quelcom a recordar el proper cop que hagis de lluitar contra queerfòbia de qualsevol mena.	This is your friendly reminder that thanks to ancient Greek, Mesopotamian, and Egyptian myth, queer people the world over can accurately say we're god-like. Something to remember next time you're dealing with queerphobes of all sorts.
+cat	eng	A Tità, un riu de metà fosc flueix cap un llac de metà envoltat per un desert de dunes.	On Titan, a dark methanic river flows into a methanic lake surrounded by a desert of dunes.
 cat	eng	Avorreixo YouTube.	I hate YouTube.
 cat	eng	Avui és un divendres molt dissabte.	Today is a very Saturday-ish Friday.
 cat	eng	Avui no fa gaire calor.	It's not too hot today.
+cat	eng	Bona sort intentant traduir aquesta oració que conté exactament vuitanta-set caràcters.	Good luck trying to translate this sentence with exactly eighty-seven characters in it.
 cat	eng	Cassussa que m'entra en veure un bon plat de sopa al meu davant.	I get so hungry as soon as I spot a soup plate in front of me.
 cat	eng	Com es diu el teu restaurant preferit?	What's the name of your favorite restaurant?
 cat	eng	Com et pots menjar una entxilada sense salsa?	How can you eat an enchilada without salsa?
 cat	eng	Com li dic a un amic meu que he perdut una samarreta que em va deixar un dia que vaig anar a dormir a casa seva? És de les seves samarretes preferides...	How do I tell a friend of mine that I lost a t-shirt he lent me one day when I went to sleep at his house? It's one of his favourite t-shirts...
+cat	eng	Com pots estar segur que passarà?	How can you be sure that's going to happen?
 cat	eng	De fet, ell se'n va als Estats Units.	Actually, he went to America.
 cat	eng	De fet, ell se'n va als Estats Units.	Actually, he went to the United States.
 cat	eng	Demà aniran de compres.	They're going shopping tomorrow.
 cat	eng	Demà serà pitjor.	It will be worse tomorrow.
 cat	eng	Desestigmatitzem la masturbació femenina ja o què?	Shall we destigmatise female masturbation yet or what?
 cat	eng	Després de quaranta dies, es va deixar lliure en Yanni sense cap càrrec,	After forty days, Yanni was released without ever being charged.
+cat	eng	Dibuixa tot el que hagis vist.	Draw everything you saw.
+cat	eng	Dibuixa tot el que vas veure.	Draw everything you saw.
 cat	eng	Digues el que penses!	Say what you think!
 cat	eng	Diuen que ell és multimilionari.	They say that he's a multimillionaire.
 cat	eng	Donar un ou per rebre un bou.	Throw out a sprat to catch a mackerel.
 cat	eng	Duc mitjons llargs.	I put on thick socks.
 cat	eng	El beisbol no li interessa massa.	Baseball doesn't interest him too much.
 cat	eng	El coronavirus ho ha desestabilitzat tot.	Coronavirus has destabilised everything.
+cat	eng	El correu arriba abans del migdia.	The post arrives before midday.
 cat	eng	El ferro s'usa en la construcció nàutica.	Iron is used in nautical construction.
 cat	eng	El ferro s'usa per a construir vaixells.	Iron is used for ship building.
 cat	eng	Ella era una feminista radical, quan tenia la mínima sospita que el seu xicot estava objectificant una dona, es posava feta una fúria.	She was a radical feminist. When she had the slightest suspicion that her boyfriend was objectifying a woman, she became furious.
@@ -55,6 +66,7 @@ cat	eng	Ell tingué una bona idea.	He had a good idea.
 cat	eng	El meu germà té problemes d’oïda: en tinc zero dubtes i un fum de proves.	My brother has some hearing trouble: no doubts, much proof.
 cat	eng	El mosquit tigre és un dels portants més habituals del chikungunya o del dengue.	The tiger mosquito is one of the most common carriers of chikungunya and dengue.
 cat	eng	El músic és tan popular a l'estranger com al Japó.	The music is just as popular in other countries as in Japan.
+cat	eng	El nostre planeta és bonic.	Our planet is beautiful.
 cat	eng	El professor de portuguès és molt exigent.	The Portuguese teacher is very demanding.
 cat	eng	El racisme encara hi és amb nosaltres.	Racism is still with us.
 cat	eng	El racisme és una qüestió seriosa?	Is racism a serious issue?
@@ -72,9 +84,11 @@ cat	eng	El veí d'en Tom fa tiktoks.	Tom's neighbor makes TikTok videos.
 cat	eng	Em costa molt ajudar-te i no sé què fer.	It's hard for me to help you and I don't know what to do.
 cat	eng	Em fa gràcia que diguin que hem d'acceptar que les llengües morin. Que fàcil que és dir això quan la teva és ben viva. En fi, és una manca d'empatia absoluta.	It's funny that they say that we have to accept that languages die. How easy that is to say when yours is so alive. All in all it's a complete lack of empathy.
 cat	eng	Em fan por els ratpenats.	Bats scare me.
+cat	eng	Em pregunto què està passant allà dins.	I wonder what's going on in there.
 cat	eng	Em sap molt de greu haver estat tant de temps sense escriure't.	I'm so sorry for not writing to you for such a long time.
 cat	eng	Em va agradar molt el ball que vam veure ahir.	I really liked the dance that we saw yesterday.
 cat	eng	Em vull tatuar.	I want to get a tattoo.
+cat	eng	En algunes llunes d'aquell gegant de gas hi ha camps i muntanyes de gel.	On some moons of that gas giant, there are fields and mountains of ice.
 cat	eng	Encara ets massa jove per a beure.	You're still too young to drink.
 cat	eng	En guerra la justícia calla.	In war justice is silent.
 cat	eng	En Tom creu en Al·là.	Tom believes in Allah.
@@ -100,6 +114,7 @@ cat	eng	Espero que la Mary es recuperi aviat.	I hope that Mary recovers soon.
 cat	eng	Espero que ningú no em contradigui en això que penso.	I hope no one contradicts my view.
 cat	eng	Estic acostumada a les baixes temperatures.	I am used to low temperatures.
 cat	eng	Estic acostumat a les baixes temperatures.	I am used to low temperatures.
+cat	eng	Estic enmig d'una crisi.	I'm in the midst of a crisis.
 cat	eng	És un tema del qual se sol parlar poc.	It's a topic that isn't often discussed.
 cat	eng	És un tema del qual se sol parlar poc.	It's a topic that's not often discussed.
 cat	eng	És útil saber parlar francès a París.	Being able to speak French in Paris is useful.
@@ -114,6 +129,7 @@ cat	eng	Gràcies a tu per interessar-te per la nostra llengua.	Thank you for you
 cat	eng	Gràcies pels teus consells, Arnau.	Thanks for your advice, Arnau.
 cat	eng	Has de fer-li una ullada al malalt.	You have to take a look at the patient.
 cat	eng	Has piulat mai al Twitter?	Have you ever tweeted?
+cat	eng	Has tingut temps d'apuntar-ho?	Have you had time to note it down?
 cat	eng	Has trobat la resposta a aquella pregunta?	Have you found the answer to that question?
 cat	eng	Hauria d'estar estudiant, car tindré una prova de llatí ben aviat.	I should be studying because I'll have a Latin test very soon.
 cat	eng	He dinat fa dues hores i mitja.	I had lunch two and a half hours ago.
@@ -134,6 +150,7 @@ cat	eng	La ciència és la seva religió.	Science is her religion.
 cat	eng	La ciència és la seva religió.	Science is his religion.
 cat	eng	La ciència és la seva religió.	Science is their religion.
 cat	eng	La festa serà el proper dissabte és a dir, el 26 d'agost.	The party will be next Saturday. That is to say the 26th of August.
+cat	eng	La flor més maca que he vist mai és l'orquídia.	The nicest flower I've ever seen is the orchid.
 cat	eng	La gent impuntual em posa supernerviosa.	Late people make me supernervous.
 cat	eng	La germana d'en Tom és a TikTok tot el dia.	Tom's sister watches TikTok all the time.
 cat	eng	La ideologia inhumana del racisme tingué una gran difusió als Estats Units i a Gran Bretanya.	The inhuman ideology of racism was widespread in the United States and Great Britain.
@@ -145,18 +162,22 @@ cat	eng	La Mary no es mereix un noi com aquell.	Mary doesn't deserve a guy like 
 cat	eng	La meva adreça de correu electrònic canviarà a partir de l'1 d'agost, com pots veure.	My email address will change from the 1st of August, as you can see.
 cat	eng	La meva filla és espanyola i polonesa alhora.	My daughter is simultaneously Spanish and Polish.
 cat	eng	La meva filla és espanyola i polonesa alhora.	My daughter is Spanish and Polish at the same time.
+cat	eng	La meva fruita preferida és la poma.	Apples are my favourite fruit.
 cat	eng	La meva mare es diu Ina.	My mum is called Ina.
 cat	eng	La meva vida seria tan diferent ara mateix si no hagués fet allò.	My life would be so different now if I hadn't done that.
 cat	eng	La publicació del primer llibre de "El Senyor dels Anells" per l'autor britànic Tolkien en asturià és una molt bona notícia per a la literatura asturiana i per al propi idioma.	The publication of the first book of "The Lord of the Rings" by the British author Tolkien in Asturian is great news for Asturian literature and for the language itself.
 cat	eng	La Safo de Lesbos és sens dubte una de les majors icones lèsbiques que hi ha hagut en la història, i de les queers també.	Sappho is without a doubt one of the greatest icons for both lesbians and queers that there has ever been in all of history.
 cat	eng	La sèrie de "Les de l'hoquei" és divina.	The series 'The Hockey Girls' is excellent.
+cat	eng	La tasca d'establir la utopia a la galàxia no es va dur a terme sense fricció. Els diferents tipus de races eren susceptibles de tenir polítiques diferents per a la galàxia. Encara que la guerra ja era impensable, el tipus de lluites que coneixem entre individus o associacions dins d'un mateix estat era habitual. Hi va haver, per exemple, una lluita constant entre els sistemes planetaris que estaven principalment interessats en la construcció de la Utopia, els que estaven més preocupats per entrar en contacte amb altres galàxies i els que la preocupació principal era espiritual.	The task of establishing Utopia in the galaxy was not pursued without friction. Different kinds of races were apt to have different policies for the galaxy. Though war was by now unthinkable, the sort of strife which we know between individuals or associations within the same state was common. There was, for instance, a constant struggle between the planetary systems that were chiefly interested in the building of Utopia, those that were most concerned to make contact with other galaxies, and those whose main preoccupation was spiritual.
 cat	eng	L'August és la persona més perfeccionista que he conegut mai.	August is the most perfectionist person I've ever met.
 cat	eng	La veïna d'en Tom fa tiktoks.	Tom's neighbor makes TikTok videos.
 cat	eng	Les forces aliades van començar a ocupar París a finals d'agost.	The allied forces started to occupy Paris at the end of August.
 cat	eng	Les sabates són sota el llit.	The shoes are under the bed.
 cat	eng	—Linda, moltes persones en l'antiguitat es pensaven que la bisexualitat era la norma. —Ja, Marla, ho he llegit en els llibres d'història a la universitat.	"Linda, many ancient peoples thought that bisexuality was the norm." "Yeah, Marla, I read that in history books during university."
+cat	eng	Li va cantar una canço.	He sang him a song.
 cat	eng	Llarga vida a l'esperanto!	Long live Esperanto!
 cat	eng	M'agrada la pizza amb pinya.	I like pizza with pineapple.
+cat	eng	M'agradaria anar al cinema amb tu.	I'd like to go to the movies with you.
 cat	eng	Mai no oblidarem els crims comesos durant el nazisme.	We will never forget the crimes committed during the rule of Nazism.
 cat	eng	Ma mare retornarà del banc en una estoneta.	My mum will come back from the bank in a bit.
 cat	eng	Mantén-te contra la paret!	Stay against the wall.
@@ -164,7 +185,10 @@ cat	eng	Me n'aniré de vacances a l'agost.	I'm going on holiday in August.
 cat	eng	Menjo a la feina.	I eat at work.
 cat	eng	Mirar el cel em transmet una pau i un benestar brutals.	Looking at the sky gives me an amazing feeling of peace and well-being.
 cat	eng	Miro les coses que vull mirar.	I see the things I want to see.
+cat	eng	Mort a l'invasor!	Death to the invader!
 cat	eng	Nancy és de Londres.	Nancy is from London.
+cat	eng	Necessito algú que m'entengui.	I need somebody who understands me.
+cat	eng	Necessito algú que m'entengui.	I need someone who understands me.
 cat	eng	No comparis el nazisme amb el socialisme.	Don't compare Nazism with socialism.
 cat	eng	No em puc creure que et vaig mostrar allò.	I can't believe that I showed you that.
 cat	eng	No es pot prendre una frase en una llengua i traduir-la a una altra paraula per paraula. Les llengües no funcionen d'aquesta manera.	You cannot take a sentence in one language and translate it into another word for word. Languages don't work like that.
@@ -186,8 +210,12 @@ cat	eng	Penso que ell s'assembla d'alguna manera a un poeta.	I feel like he rese
 cat	eng	Per què no seus i bevem junts una copa?	Why don't you sit down, and we'll have a drink together?
 cat	eng	Poden dir que un gat és un tigre menut com podem dir que un tigre és un gat gegantesc.	They can say that a cat is a small tiger just as we can say that a tiger is a gigantic cat.
 cat	eng	Podria ser-nos més fàcil a nosaltres fer-ho.	It might be easier for us to do that.
+cat	eng	Posa la cadira prop de la finestra, si us plau.	Put the chair near the window, please.
+cat	eng	Pots esborrar aquesta foto?	Can you delete this photo?
+cat	eng	Preferiria menjar mussaca en una ciutat grega costanera.	I would rather eat moussaka in a seaside Greek city.
 cat	eng	Preparar les classes no és gens fàcil.	Preparing classes is not at all easy.
 cat	eng	Quan el 28 d'agost el primer ministre britànic Boris Johnson va declarar que suspendria el parlament va esclatar el desordre polític al voltant d'una "crisi constitucional" amb manifestacions al carrer contra "el cop d'estat".	When British Prime Minister Boris Johnson declared on the 28th August that he would suspend parliament, political unrest erupted over a "constitutional crisis" with street demonstrations against the "coup d'état".
+cat	eng	Quantes preguntes has contestat?	How many questions did you answer?
 cat	eng	Quants cops has plorat aquest any? Jo, cinc.	How many times have you cried this year? For me, five.
 cat	eng	Què dirà ell?	What'll he say?
 cat	eng	Que has pagat ja l'assegurança del viatge a Itàlia?	Have you paid for the travel insurance to Italy yet?
@@ -219,6 +247,7 @@ cat	eng	Vaig a una acadèmia d'anglès en línia cada dilluns al vespre.	I atten
 cat	eng	Vaig enviar una carta als meus pares.	I sent a letter to my parents.
 cat	eng	Va llegir ella aquest article?	Did she read this article?
 cat	eng	Vam caminar tres quilòmetres.	We walked three kilometers.
+cat	eng	Van començar a ballar.	They began dancing.
 cat	eng	Van criar un conill preciós.	They raised a beautiful rabbit.
 cat	eng	Va ser una victòria fàcil.	It was an easy win.
 cat	eng	Venus és un símbol de feminitat i elegància.	Venus is a symbol of femininity and elegance.

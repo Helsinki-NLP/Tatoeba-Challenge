@@ -4,6 +4,7 @@ chv	spa	Вӑл шкула автобуспа нихӑҫан та ҫӳремес�
 chv	spa	Вӑл шкула автобуспа нихӑҫан та ҫӳреместь.	Él nunca va a la escuela en autobús.
 chv	spa	Вӗсем пӗрле ҫӳреттчӗҫ.	Ellos caminaron juntos.
 chv	spa	Вӗҫӗ ҫывӑх.	El fin está cerca.
+chv	spa	Ӗнер питӗ канӑҫсӑр кунччӗ.	Ayer fue un día muy ajetreado.
 chv	spa	Кӗнеке сӗтел ҫинче выртать.	El libro está sobre la mesa.
 chv	spa	Ку манӑн хӗрлӗ калемӗм.	Este es mi lápiz rojo.
 chv	spa	Куна юлашки вӑхӑтра хӑҫан ӗҫнӗ?	¿Cuándo fue la última vez que bebiste esto?
@@ -15,12 +16,12 @@ chv	spa	Осакара юр ҫӑватчӗ.	Estaba nevando en Osaka.
 chv	spa	Панулми юрататӑр-и?	¿Le gustan las manzanas?
 chv	spa	Пулӑшу килет.	La ayuda viene en camino.
 chv	spa	Пурте французла калаҫатпӑр.	Todos hablamos francés.
-chv	spa	Ҫак статьяна вуларӑн и?	¿Leíste este artículo?
 chv	spa	Санӑн ҫыру ҫыраспӑть.	Debes escribir una carta.
 chv	spa	Санӑн ҫыру ҫырмалла.	Deberías escribir una carta.
-chv	spa	Ҫи!	¡Come!
 chv	spa	Сирӗн ҫыру ҫыраспӑть.	Debe usted escribir una carta.
 chv	spa	Сирӗн ҫыру ҫырмалла.	Debería usted escribir una carta.
+chv	spa	Ҫак статьяна вуларӑн и?	¿Leíste este artículo?
+chv	spa	Ҫи!	¡Come!
 chv	spa	Ҫичӗ хут виҫ, пӗр хут кас.	Mide siete veces, corta una vez.
 chv	spa	Ҫынсем ирӗклӗхе юратаҫҫӗ.	Las personas aman la libertad.
 chv	spa	Томӑн урӑх укҫа ҫук.	Tom no tiene suficiente dinero.
@@ -33,7 +34,13 @@ chv	spa	Ӳсен-тӑран ӳсет.	La planta crece.
 chv	spa	Ӳсен-тӑран ӳсет.	Las plantas crecen.
 chv	spa	Ӳссен патша пулассӑм килет.	Cuando crezca, quiero ser un rey.
 chv	spa	Хӑвна вӗлерни йӑнӑш пулнине ӗненетӗп.	Creo que el suicidio está mal.
+chv	spa	Хӗлле ту тӑрри юрпа витӗннӗ.	La cima de la montaña está cubierta de nieve en el invierno.
+chv	spa	Хӗлле ту тӑрри юр пеле витӗннӗ.	La cima de la montaña está cubierta de nieve en el invierno.
 chv	spa	Хушма ҫӑраҫҫи пур и?	¿Tienes una llave de repuesto?
+chv	spa	Эпӗ актёр мар.	No soy actor.
+chv	spa	Эпӗ ӑна ӑҫта шырамаллине пӗлетӗп.	Sé donde buscarlo.
 chv	spa	Эпӗ ӳссен патша пуласшӑн.	Cuando crezca, quiero ser un rey.
+chv	spa	Эпӗ эрмен чӗлхине вӗренетӗп.	Estoy aprendiendo armenio.
 chv	spa	Эсӗ мӗн каланине ӑнланмастӑп.	No entiendo lo que quiere decir.
 chv	spa	Эсӗ мӗн пирки каланине ӑнланмастӑп.	No entiendo lo que quiere decir.
+chv	spa	Юр ҫуркунне ирӗлет.	La nieve se derrite en la primavera.

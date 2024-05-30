@@ -1,7 +1,7 @@
-apc	ina_Latn	بدي أشتري بيت.	Io vole comprar un casa.
-apc	ina_Latn	بدي أشتري بيت.	Io vole emer un domo.
-apc	ina_Latn	شو كلمه؟	Que es un parola?
-apc_Latn	ina_Latn	Merci!	Gratias!
+ara	ina_Latn	بدي أشتري بيت.	Io vole comprar un casa.
+ara	ina_Latn	بدي أشتري بيت.	Io vole emer un domo.
+ara	ina_Latn	شو كلمه؟	Que es un parola?
+ara	ina_Latn	Merci!	Gratias!
 ara	ina_Latn	أبدا.	Jammais.
 ara	ina_Latn	أبدا.	Nunquam.
 ara	ina_Latn	أحب قطتك.	Io ama vostre catta.
@@ -12,44 +12,62 @@ ara	ina_Latn	أحب هذا الألبوم.	Io ama iste album.
 ara	ina_Latn	أريد أن أشتري منزلا.	Io vole comprar un casa.
 ara	ina_Latn	أريد أن أشتري منزلا.	Io vole emer un domo.
 ara	ina_Latn	أريد فرصة ثانية.	Io vole un secunde occasion.
-ara	ina_Latn	الدنيا جميلة.	Le mundo es belle.
-ara	ina_Latn	الرَّبُّ أَعْطَى وَالرَّبُّ أَخَذَ.	Le Senior dava e le Senior ha prendite.
-ara	ina_Latn	العبرية والفينيقية لغات كنعانية.	Hebreo e phenicio es linguas canaanita.
-ara	ina_Latn	العربية تشبه العبرية.	Arabe es simile a hebreo.
-ara	ina_Latn	الكراهية لها مكانها.	Odio ha su loco.
+ara	ina_Latn	أريد كلبا.	Io vole un can.
 ara	ina_Latn	أنا أشرب الماء	Io bibe aqua.
 ara	ina_Latn	أنا عبقري مستقر جدا.	Io es un genio multo stabile.
 ara	ina_Latn	أنا لن أطلب منك شيء	Io non demandara alique de vos.
 ara	ina_Latn	أنت تأكل اللحم.	Tu mangia carne.
 ara	ina_Latn	أنت تأكل اللحم.	Vos mangia carne.
 ara	ina_Latn	أوميد بهائي.	Omid es bahai.
+ara	ina_Latn	الحرب سيئة.	Le guerra es mal.
+ara	ina_Latn	الحرّيّة لإسكتلندا!	Libera Scotia!
+ara	ina_Latn	الحرّيّة للتبت!	Libera Tibet!
+ara	ina_Latn	الدنيا جميلة.	Le mundo es belle.
+ara	ina_Latn	الرَّبُّ أَعْطَى وَالرَّبُّ أَخَذَ.	Le Senior dava e le Senior ha prendite.
+ara	ina_Latn	العبرية والفينيقية لغات كنعانية.	Hebreo e phenicio es linguas canaanita.
+ara	ina_Latn	العربية تشبه العبرية.	Arabe es simile a hebreo.
+ara	ina_Latn	الكراهية لها مكانها.	Odio ha su loco.
+ara	ina_Latn	اليهود قوم. دينهم اليهودية.	Judeos son un nation. Lor religion es judaismo.
 ara	ina_Latn	بعض الماء، من فضلك	Un pauc de aqua, per favor.
 ara	ina_Latn	بعض الماء، من فضلك	Un pauc de aqua, si il vos place.
+ara	ina_Latn	تريد ماء.	Illa vole aqua.
 ara	ina_Latn	توم ليس ترامب.	Tom non es Trump.
 ara	ina_Latn	توم ليس مترجم.	Tom non es un traductor.
 ara	ina_Latn	دونالد ترامب كذاب مرضي.	Donald Trump es un mentitor pathologic.
-ara	ina_Latn	سامي يكره الماء	Sami odia aqua.
 ara	ina_Latn	سأنام هنا.	Io dormira hic.
 ara	ina_Latn	سأنام هنا.	Io va dormir hic.
+ara	ina_Latn	سامي يكره الماء	Sami odia aqua.
+ara	ina_Latn	طيور ليست حقيقية	Aves non son real.
 ara	ina_Latn	عندنا ستيغوصور.	Nos ha un stegosauro.
+ara	ina_Latn	قطاط توم يحبوني.	Le cattos de Tom me ama.
 ara	ina_Latn	كان الماء ازرقا	Le aqua era blau.
 ara	ina_Latn	كان سامي كذاب مرضي.	Sami era un mentitor pathologic.
 ara	ina_Latn	كلنا أمهات.	Tote nos es matres.
+ara	ina_Latn	لا أريد الكثير.	Io non vole multo.
 ara	ina_Latn	لا أريد لحما.	Io non vole carne.
+ara	ina_Latn	لا أعلم يا تام.	Io non sape, Tom.
 ara	ina_Latn	لا ترفع أمة على أمة سيفا ولا يتعلمون الحرب فيما بعد.	Un nation non levara le gladio contra un nation, ni on plus apprendera le guerra.
 ara	ina_Latn	لا تشتم الاصم وقدام الاعمى لا تجعل معثرة. بل اخش الهك. انا الرب.	Que tu non maledice un surde ni da un petra de scandalo ante un ceco, mais time tu Deo: Io es le Senior.
 ara	ina_Latn	لا يأكلون اللحم.	Illes non mangia carne.
+ara	ina_Latn	لدى العراق لغتان رسميتين.	Iraq ha duo linguas official.
+ara	ina_Latn	ليس كل ما هو سيء إبادة جماعية.	Non tote le mal es genocidio.
 ara	ina_Latn	ليس لدينا كهرباء.	Nos non ha electricitate.
 ara	ina_Latn	ما افضل طريقه لحل المشكله	Que es le optime maniera de resolver le problema?
 ara	ina_Latn	ما افضل طريقه لحل المشكله	Que es le optime maniera de solver le problema?
 ara	ina_Latn	ماذا الحرية؟	Que es libertate?
 ara	ina_Latn	ماذا قلت أمس؟	Que diceva tu heri?
 ara	ina_Latn	معاداة السامية هي اشتراكية الحمقى.	Antisemitismo es le socialismo del imbecilles.
+ara	ina_Latn	نحن لا نريد حربا.	Nos non vole un guerra.
+ara	ina_Latn	نحن يهود.	Nos es judeos.
 ara	ina_Latn	هتلر كره اليهود.	Hitler odiava le judeos.
 ara	ina_Latn	هذا الكتاب أحمر.	Iste libro es rubie.
 ara	ina_Latn	هم مدمني الكحول.	Illes son alcoholicos.
 ara	ina_Latn	هن مدمنات الكحول.	Illas son alcoholicas.
+ara	ina_Latn	هو علماني.	Ille es secular.
+ara	ina_Latn	يتعلم توم الجودو.	Tom apprende judo.
 ara	ina_Latn	يهود بولندا أقرب إلى يهود العراق منهم إلى البولونيون غير اليهود.	Le judeos polonese son plus parente al judeos iraqui que al polacos non judee.
-arq_Latn	ina_Latn	kul aghrum acherab elma.	Mangia pan e bibe aqua.
-arz	ina_Latn	كلمة ايه؟	Que es un parola?
-arz	ina_Latn	لا اله الا الله	Il ha nulle deo salvo Deo.
+ara	ina_Latn	kul aghrum acherab elma.	Mangia pan e bibe aqua.
+ara	ina_Latn	توم قرر يزرع شجرة.	Tom decideva plantar un arbore.
+ara	ina_Latn	كل الدول مزيفة.	Tote le paises son fraudulente.
+ara	ina_Latn	كلمة ايه؟	Que es un parola?
+ara	ina_Latn	لا اله الا الله	Il ha nulle deo salvo Deo.

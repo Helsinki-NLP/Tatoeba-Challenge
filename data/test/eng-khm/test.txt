@@ -11,34 +11,41 @@ eng	khm	"Andrew, where's the map? Have you got it?" "I don't think so."	« អ�
 eng	khm	And you?	ចុះបងវិញ?
 eng	khm	And you?	ចុះអូនវិញ?
 eng	khm	Are we missing anything else?	តើយើងខ្វះអីទៀតអត់ ?
-eng	khm	Are you happy?	សប្បាយអត់ ?
 eng	khm	Are you happy?	តើសប្បាយទេ ?
 eng	khm	Are you happy?	តើអ្នកសប្បាយចិត្តទេ ?
+eng	khm	Are you happy?	សប្បាយអត់ ?
 eng	khm	Are you hungry?	ឃ្លានអត់ ?
 eng	khm	Are you hungry?	តើអ្នកឃ្លានទេ ?
-eng	khm	Are you married?	ឯងរៀបការហើយ ?
-eng	khm	Are you married?	តើអ្នករៀបការហើយ ?
 eng	khm	Are you married?	តើលោករៀបការហើយឬនៅ ?
+eng	khm	Are you married?	តើអ្នករៀបការហើយ ?
+eng	khm	Are you married?	ឯងរៀបការហើយ ?
 eng	khm	Are you sure?	តើប្រាកដ ?
 eng	khm	Are you sure?	តើអ្នកច្បាស់ហេ៎ ?
-eng	khm	Are you tired?	ហត់អត់ ?
+eng	khm	Are you sure?	តើអ្នកប្រាកដហេ៎ ?
 eng	khm	Are you tired?	តើអ្នកហត់ឬទេ ?
 eng	khm	Are you tired?	តើអ្នកអស់កម្លាំង ?
+eng	khm	Are you tired?	ហត់អត់ ?
 eng	khm	Are you volunteering?	តើ​អ្នក​កំពុង​ស្ម័គ្រចិត្ត​ឬ​?
 eng	khm	As for me, I think the play was quite interesting.	សម្រាប់​ខ្ញុំ​គិត​ថា ល្ខោន​នេះ​គឺ​គួរ​ឱ្យ​ចាប់​អារម្មណ៍​ណាស់​។
 eng	khm	Atoms cannot be seen with your own eye.	បរិមាណូមិនអាចមើលឃើញដោយភ្នែកទទេបានទេ ។
 eng	khm	Bless you!	ស្បើយ!
+eng	khm	Break time!	ចេញលេង!
 eng	khm	Burj Khalifa is currently the tallest skyscraper in the world.	បច្ចុប្បន្ននេះ បឹច ខាលីហ្វា គឺជាអគារដែលខ្ពស់ជាងគេនៅលើពិភពលោក ។
 eng	khm	But no disciple can be excused if he does not have zeal.	ប៉ុន្តែ​សិស្ស​មិន​អាច​យក​លេស​រួច​ខ្លួន​បាន​ទេ បើ​គេ​មិន​មាន​ភាព​ឧស្សាហ៍។
+eng	khm	Call me if you're able to come.	ទូរស័ព្ទមកខ្ញុំប្រសិនបើអ្នកអាចមកបាន។
 eng	khm	Can I help you?	ខ្ញុំជួយអីបានអត់ ?
 eng	khm	Can I help you?	តើខ្ញុំអាចជួយអីបានទេ ?
 eng	khm	Can I help you?	តើខ្ញុំអាចជួយអ្នកបានអត់ ?
 eng	khm	Can you write?	ចេះអក្សរទេ ?
+eng	khm	Catch!	ចាប់!
 eng	khm	Cats catch mice.	ឆ្មាចាប់កណ្ដុរ ។
 eng	khm	Cats hate water.	ឆ្មាស្អប់ទឹក ។
 eng	khm	Cheers!	ជល់មួយ !
 eng	khm	Christ is believed to have worked many miracles.	គ្រិស្ត​ត្រូវ​បាន​គេ​ជឿ​ថា​បាន​ធ្វើ​នូវ​រឿង​អស្ចារ្យ​ជា​ច្រើន​។
 eng	khm	Close your mouth!	បិទមាត់ !
+eng	khm	Close.	បិទ។
+eng	khm	Close.	បិទទៅ។
+eng	khm	Close.	បិទវា។
 eng	khm	Come back, OK?	ត្រលប់មកវិញណា !
 eng	khm	Come dance!	មករាំ !
 eng	khm	Come eat!	មកញ៉ាំ !
@@ -61,9 +68,10 @@ eng	khm	Don't do that again.	កុំធ្វើបែបហ្នឹងទៀ
 eng	khm	Don't forget to bring it, OK?	កុំភ្លេចយកមកផងណា !
 eng	khm	Don't go.	កុំទៅ។
 eng	khm	Don't lie to me!	កុំកុហកខ្ញុំ!
-eng	khm	Don't worry.	កុំភ័យអី ។
-eng	khm	Don't worry.	កុំព្រួយណា៎ ។
 eng	khm	Don't worry about making mistakes.	កុំ​ព្រួយ​បារម្ភ​ពី​ការ​ធ្វេី​កំហុស​។
+eng	khm	Don't worry.	កុំបារម្ភអី ។
+eng	khm	Don't worry.	កុំព្រួយណា៎ ។
+eng	khm	Don't worry.	កុំភ័យអី ។
 eng	khm	Don't you like it?	អត់​ចូលចិត្ត​វា​ទេ​?
 eng	khm	Do unto others as you would have others do unto you.	ចូរ​អ្នក​ធ្វើ​លើ​គេ ដូចដែល​អ្នក​ចង់​ឱ្យ​អ្នក​ដទៃ​ធ្វើ​មក​លើ​អ្នក​វិញ​ដូច្នេះ​ដែរ ។
 eng	khm	Do we need anything else?	តើយើងត្រូវការអីទៀតទេ ?
@@ -72,8 +80,10 @@ eng	khm	Do you follow?	យល់អត់?
 eng	khm	Do you know any martial arts to be traveling like this?	តើអ្នកចេះក្បាច់គុនខ្លះទេ ដោយធ្វើដំណើរទេសចណ៏បែបនេះ ?
 eng	khm	Do you know who wrote this book?	តើ​អ្នក​ដឹង​ថា​នរណា​បាន​និពន្ធ​សៀភៅ​នេះ​?
 eng	khm	Do you like bowling?	អ្នក​ចូលចិត្ត​លេង​បោះប៊ូល​ទេ​?
-eng	khm	Do you live here?	រស់នៅទីនេះមែន ?
+eng	khm	Do you live here?	តើលោករស់នៅនេះ ?
 eng	khm	Do you live here?	តើអ្នករស់នៅទីនេះ ?
+eng	khm	Do you live here?	រស់នៅទីនេះមែន ?
+eng	khm	Do you love me?	តើបងស្រលាញ់អូនអត់ ?
 eng	khm	Do you love me?	តើអូនស្រលាញ់បងហេ៎ ?
 eng	khm	Do you love me?	តើអ្នកស្រលាញ់ខ្ញុំទេ ?
 eng	khm	Do you speak English?	តើ​អ្នក​ចេះ​និយាយ​ភាសា​អង់គ្លេស​ទេ ?
@@ -81,49 +91,51 @@ eng	khm	Do you trust me?	តើអ្នកជឿលើខ្ញុំទេ ?
 eng	khm	Do you understand?	យល់អត់?
 eng	khm	Do you want me to get rid of this?	តើ​អ្នក​ចង់​ឱ្យ​ខ្ញុំ​ហ្នឹង​បោះចោល​អ្វី​មួយ​នេះ​ឬ​?
 eng	khm	Do you want something to eat?	ចង់ញ៉ាំអីអត់ ?
+eng	khm	Do you watch the news?	តើអ្នកមើលព័ត៌មានទេ?
 eng	khm	Drive slowly. You might have an accident.	បើក​យឺត​ៗ​។ អ្នក​អាច​មាន​គ្រោះថ្នាក់​បាន​។
 eng	khm	Drugs should be used only at the direction of a doctor.	ត្រូវតែ​ញ៉ាំ​ថ្នាំតាម​វេជ្ជបញ្ជា​ពេទ្យ ។
-eng	khm	Eat!	ញ៉ាំ !
 eng	khm	Eat more, or you won't gain strength.	ញ៉ាំឱ្យច្រើន បើមិនអញ្ចឹង អ្នកអត់មានកំលាំងទេ ។
+eng	khm	Eat!	ញ៉ាំ !
 eng	khm	English is spoken in Singapore.	ភាសាអង់គ្លេស​ត្រូវ​បាន​និយាយ​នៅ​ប្រទេស​សិង្ហបុរី​។
 eng	khm	Everyone loves sports.	មនុស្សទាំងអស់សុទ្ធតែ ស្រលាញ់ កីឡា ។
+eng	khm	Face reality.	ប្រឈមមុខនឹងការពិត។
 eng	khm	Find the cat.	រកឆ្មាមើល ។
+eng	khm	Fish together.	ស្ទូចត្រីទាំងអស់គ្នា។
 eng	khm	Follow me.	មកតាមខ្ញុំ ។
 eng	khm	Food's ready!	បាយឆ្អិនអើរ !
 eng	khm	Forgive them, for they know not what they do.	សូម​អត់​ទោស​ដល់​អ្នក​ទាំង​នេះ​ផង ដ្បិត​គេ​មិន​ដឹង​ជា​គេ​ធ្វើ​អ្វី​ទេ ។
 eng	khm	Freedom is not free.	សេរីភាព​មិន​មែន​ហ៊្វ្រី​ទេ​។
-eng	khm	Free Palestine!	ឱ្យសេរីភាពប៉ា​ឡេ​ស្ទី​ន​ !
 eng	khm	Free Palestine!	ទាមទាសេរីភាពប៉ា​ឡេ​ស្ទី​ន​ !
+eng	khm	Free Palestine!	ឱ្យសេរីភាពប៉ា​ឡេ​ស្ទី​ន​ !
 eng	khm	Fuck you!	ចុយម៉ែវា !
 eng	khm	Get out!	ចេញទៅ !
-eng	khm	Go!	ទៅ!
-eng	khm	Go.	ទៅ។
-eng	khm	Go away!	ទៅទៅ !
+eng	khm	Go away.	ឃ្លាតឆ្ងាយហើយ ។
+eng	khm	Go away.	ចាកចេញឆ្ងាយ ។
+eng	khm	Go away.	ចេញឆ្ងាយហើយ ។
 eng	khm	Go away!	ចេញទៅ !
 eng	khm	Go away!	ទៅក្រៅទៅ !
-eng	khm	Go away!	ទៅឱ្យឆ្ងាយ !
+eng	khm	Go away!	ទៅទៅ !
 eng	khm	Go away.	ទៅបាត់ហើយ ។
+eng	khm	Go away!	ទៅឱ្យឆ្ងាយ !
 eng	khm	Go away.	ទៅឱ្យឆ្ងាយ ។
-eng	khm	Go away.	ចាកចេញឆ្ងាយ ។
-eng	khm	Go away.	ឃ្លាតឆ្ងាយហើយ ។
 eng	khm	Go get changed.	ទៅផ្លាស់ខោអាវ។
 eng	khm	Go, go, go!	ទៅ ទៅ ទៅ!
 eng	khm	Go help Tom.	ទៅជួយ ថម។
-eng	khm	Go home!	ទៅផ្ទះ!
 eng	khm	Go home!	ចេញទៅផ្ទះ!
+eng	khm	Go home!	ទៅផ្ទះ!
 eng	khm	Go home.	ទៅផ្ទះ។
 eng	khm	Go meet Tom.	ទៅជួប ថម។
 eng	khm	Go now.	ទៅឥឡូវហ្នឹង។
-eng	khm	Good.	ល្អ។
 eng	khm	Good afternoon.	ទិវា​សួស្ដី ។
-eng	khm	Goodbye!	លា​ហើយ​!
 eng	khm	Goodbye!	ជំរាបលា​!
 eng	khm	Goodbye!	លា​សិន​ហើយ​។
+eng	khm	Goodbye!	លា​ហើយ​!
 eng	khm	Good evening.	សាយ័ណ្ហសួស្ដី។
 eng	khm	Good food brings good health.	អាហារល្អ នាំមកនូវសុខភាពល្អ ។
 eng	khm	Good morning!	អរុណសួស្ដី!
-eng	khm	Good night!	រាត្រី​សួស្តី !
 eng	khm	Good night. Sweet dreams.	រាត្រី​សួស្តី ។ សុបិន្ត​ល្អ​ណា៎ ។
+eng	khm	Good night!	រាត្រី​សួស្តី !
+eng	khm	Good.	ល្អ។
 eng	khm	Go over there.	ទៅទីនោះ។
 eng	khm	Go play baseball!	ទៅលេងកីឡាបេស្បល!
 eng	khm	Go see Tom.	ទៅជួប ថម។
@@ -134,9 +146,12 @@ eng	khm	Go to school.	ទៅសាលារៀន។
 eng	khm	Go with me.	ទៅជាមួយខ្ញុំ។
 eng	khm	Go with them!	ទៅជាមួយពួកគេ!
 eng	khm	Go with Tom.	ទៅជាមួយ ថម។
+eng	khm	Go!	ទៅ!
+eng	khm	Go.	ទៅ។
 eng	khm	Granny is exercising.	លោកយាយហាត់ប្រាណ ។
 eng	khm	Hanako grew taller than her mother.	ហាណាកូ លូតខ្ពស់ជាងម្តាយរបស់នាង ។
 eng	khm	Happy International Women's Day!	​រីករាយទិវាសិទ្ធិនារីអន្តរជាតិ !
+eng	khm	Happy New Year!	រីករាយ ឆ្នាំថ្មី !
 eng	khm	Happy New Year!	សួស្តី ឆ្នាំថ្មី !
 eng	khm	Happy New Year!	អបអរសាទរ ចូលឆ្នាំថ្មី !
 eng	khm	Has the motorcycle been filled up with gas yet?	តើម៉ូតូ ចាក់សាំងហើយនៅ ?
@@ -154,8 +169,8 @@ eng	khm	He is studying English, but he is also studying German.	គាត់រ�
 eng	khm	He is very a dangerous man.	គាត់ជាបុរសដែលគួរឲ្យគ្រោះថ្នាក់ណាស់ ។
 eng	khm	He likes sports.	គាត់ចូលចិត្តកីឡា ។
 eng	khm	He lives in New York.	គាត់រស់នៅក្រុងញូវយ៉ក ។
-eng	khm	Help me.	ជួយខ្ញុំផង ។
 eng	khm	Help me out.	ជួយខ្ញុំផង ។
+eng	khm	Help me.	ជួយខ្ញុំផង ។
 eng	khm	He may be on the next train.	ប្រហែលជាគាត់ជិះរថភ្លើងជើងក្រោយ ។
 eng	khm	Her eyes are blue.	ភ្នែករបស់នាងពណ៌ខៀវ ។
 eng	khm	Her nose is abnormally large.	ច្រមុះនាងធំខុសពីធម្មតា ។
@@ -168,8 +183,8 @@ eng	khm	He's probably sleeping.	គាត់ ប្រហែលកំពុង�
 eng	khm	He's staring at her really hard.	គាត់សម្លឹងនាងខ្លាំងណាស់ ។
 eng	khm	He stared at her really hard.	គាត់សម្លឹងនាងខ្លាំងណាស់ ។
 eng	khm	He was a very smart lawyer and politician.	គាត់​ជា​មេធាវី​ហើយ​អ្នកនយោបាយ​ឆ្លាត​ខ្លាំង​ណាស់​។
-eng	khm	He will come tomorrow.	ថ្ងៃស្អែក គាត់នឹងមោ ។
 eng	khm	He will come tomorrow.	គាត់មកនៅថ្ងៃស្អែក ។
+eng	khm	He will come tomorrow.	ថ្ងៃស្អែក គាត់នឹងមោ ។
 eng	khm	He won't be able to escape from there without a miracle, will he?	គាត់​មិន​អាច​គេច​ពី​ទីនោះ​បាន​ទេ លុះត្រាតែ​មាន​អព្ភូតហេតុ មែន​ទេ​?
 eng	khm	His back itches.	គាត់រមាស់ខ្នង ។
 eng	khm	His handwriting is bad.	អក្សរ​សរសេរ​ដៃ​របស់​គាត់​អាក្រក់​។
@@ -182,46 +197,48 @@ eng	khm	How is it going?	សុខសប្បាយអត់ ?
 eng	khm	How is it? Is it alright?	ម៉េចដែរ ល្មមទេ ?
 eng	khm	How is it? Is it enough?	ម៉េចដែរ ល្មមទេ ?
 eng	khm	How long did you stay?	តើអ្នកបានស្នាក់នៅរយៈពេលប៉ុន្មាន ?
-eng	khm	How old are you?	តើអាយុប៉ុន្មានទៅ ?
 eng	khm	How old are you?	តើមានអាយុប៉ុន្មាន ?
+eng	khm	How old are you?	តើអាយុប៉ុន្មានទៅ ?
 eng	khm	How old are you?	តើអ្នកមានអាយុប៉ុន្មាន ?
 eng	khm	How rude of you!	ឈ្លើយណាស់ !
 eng	khm	How tall you are!	អ្នក​ខ្ពស់​ណាស់ !
-eng	khm	Hurry up.	លឿនឡើង ។
 eng	khm	Hurry up.	ប្រញាប់ឡើង ។
+eng	khm	Hurry up.	លឿនឡើង ។
+eng	khm	Hurry up.	ឱ្យលឿន ។
 eng	khm	I admit it to be true.	ខ្ញុំសារភាពថា វាពិតមែន ។
 eng	khm	I am a college student.	ខ្ញុំ​គឺ​និស្សិត​។
 eng	khm	I am a woman.	ខ្ញុំ​គឺជា​មនុស្ស​ស្រី ។
 eng	khm	I am eating rice.	ខ្ញុំ​កំពុង​ញ៉ាំ​បាយ ។
 eng	khm	I am in London.	ខ្ញុំនៅទីក្រុងឡុងដ៍ ។
 eng	khm	I am sick.	ខ្ញុំឈឺ ។
+eng	khm	I beg your pardon for troubling you, but you seem to be a mechanic, and that's just the sort of man I'm looking for.	ខ្ញុំសុំអភ័យទោសដែលខ្ញុំរំខានអ្នក ប៉ុន្តែអ្នកមើលទៅដូចជាអ្នកជាងម៉ាស៊ីន ហើយអ្នកជាបុរសដែលខ្ញុំកំពុងស្វែងរក។
 eng	khm	I believe that Tom is really honest.	ខ្ញុំជឿថា ថម ស្មោះមែន ។
 eng	khm	I can go.	ខ្ញុំទៅបាន។
 eng	khm	I can read German, but I can't speak it.	ខ្ញុំ​ចេះ​អាន​អាល្លឺម៉ង់ ប៉ុន្តែ​ខ្ញុំ​មិន​ចេះ​និយាយ​វា​ទេ ​។
 eng	khm	I can speak Spanish fluently.	ខ្ញុំអាចនិយាយអេស្ប៉ាញបានញាប់ ។
 eng	khm	I can't sleep.	ខ្ញុំ គេងអត់លក់ ។
 eng	khm	I can't speak the Berber language, but someday I will speak it well.	ខ្ញុំ​មិន​ចេះ​និយាយ​ភាសា​ បឺបឺ ប៉ុន្តែ​ថ្ងៃ​ណា​មួយ​នឹង​និយាយ​វា​បាន​ល្អ​។
-eng	khm	I didn't want to humiliate Tom.	ខ្ញុំ​មិន​មាន​បំណង ធ្វើ​ឱ្យ ថម​អាម៉ាស់​មុខ​ទេ​។
 eng	khm	I didn't want to humiliate Tom.	ខ្ញុំ​មិន​ចង់​ធ្វើ​ឱ្យ ថម អាម៉ាស់​មុខ​ទេ​។
+eng	khm	I didn't want to humiliate Tom.	ខ្ញុំ​មិន​មាន​បំណង ធ្វើ​ឱ្យ ថម​អាម៉ាស់​មុខ​ទេ​។
 eng	khm	I do not have a cat.	ខ្ញុំអត់មានឆ្មា។
 eng	khm	I do not have a cat.	ខ្ញុំអត់មានឆ្មាទេ។
 eng	khm	I don't have a cat.	ខ្ញុំអត់មានឆ្មា។
 eng	khm	I don't have a cat.	ខ្ញុំអត់មានឆ្មាទេ។
-eng	khm	I don't have any money.	ខ្ញុំអត់លុយទេ ។
-eng	khm	I don't have any money.	ខ្ញុំមិនមានលុយទេ ។
 eng	khm	I don't have any money at all.	ខ្ញុំអត់មានលុយសោះ ។
+eng	khm	I don't have any money.	ខ្ញុំមិនមានលុយទេ ។
+eng	khm	I don't have any money.	ខ្ញុំអត់លុយទេ ។
 eng	khm	I don't have anything to give to you.	ខ្ញុំគ្មានអ្វីឱ្យអ្នកទេ ។
 eng	khm	I don't have much money.	ខ្ញុំមិនមានលុយច្រើនទេ ។
-eng	khm	I don't know.	ខ្ញុំ អត់ដឹង ។
-eng	khm	I don't know.	ខ្ញុំ មិនដឹងអីទេ ។
 eng	khm	I don't know any martial arts.	ខ្ញុំ អត់ចេះក្បាច់គុនអីទេ ។
-eng	khm	I don't know anything about his past.	ខ្ញុំអត់ដឹងអីផងអំពីអតីតកាលរបស់គាត់ ។
 eng	khm	I don't know anything about his past.	ខ្ញុំអត់ដឹងអីទាំងអស់អំពីរឿងអតីតកាលរបស់គាត់ ។
+eng	khm	I don't know anything about his past.	ខ្ញុំអត់ដឹងអីផងអំពីអតីតកាលរបស់គាត់ ។
 eng	khm	I don't know at all.	ខ្ញុំ អត់ដឹងអីសោះ ។
+eng	khm	I don't know.	ខ្ញុំ មិនដឹងអីទេ ។
+eng	khm	I don't know.	ខ្ញុំ អត់ដឹង ។
 eng	khm	I don't speak Japanese.	ខ្ញុំ​អត់​និយាយ​ភាសា​ជប៉ុន​ទេ​។
+eng	khm	I don't understand at all.	ខ្ញុំ អត់យល់សោះ ។
 eng	khm	I don't understand.	ខ្ញុំ មិនយល់ទេ ។
 eng	khm	I don't understand.	អត់យល់ ។
-eng	khm	I don't understand at all.	ខ្ញុំ អត់យល់សោះ ។
 eng	khm	I don't want meat.	ខ្ញុំ​មិន​ចង់​បាន​សាច់​ទេ ។
 eng	khm	I don't want you to kill Tom.	ខ្ញុំអត់ចង់ឱ្យអ្នកសម្លាប់ ថម ទេ ។​
 eng	khm	I'd rather die.	ខ្ញុំ​ចង់​ស្លាប់​ជាង​។
@@ -233,9 +250,14 @@ eng	khm	I go home.	ខ្ញុំទៅផ្ទះ។
 eng	khm	I got a cramp in my leg for having stood so long.	ញុំចុកជើងណាស់ ឈរយូរហើយ ។
 eng	khm	I have a dictionary.	ខ្ញុំមានវចនានុក្រម។
 eng	khm	I have a headache.	ខ្ញុំឈឺក្បាល ។
+eng	khm	I have a headache.	ខ្ញុំឈឺឡាតែត ។
 eng	khm	I have a question.	ខ្ញុំមានសំណួរ។
 eng	khm	I have a question.	ខ្ញុំមានសំណួរមួយ។
+eng	khm	I have a question.	ខ្ញុំមានសំនួរ។
+eng	khm	I have a question.	ខ្ញុំមានសំនួរមួយ។
 eng	khm	I have a toothache.	ខ្ញុំឈឺធ្មេញ ។
+eng	khm	I have got a question.	ខ្ញុំមានសំណួរ។
+eng	khm	I have got a question.	ខ្ញុំមានសំណួរមួយ។
 eng	khm	I have got a question.	ខ្ញុំមានសំនួរ។
 eng	khm	I have got a question.	ខ្ញុំមានសំនួរមួយ។
 eng	khm	I have nothing else to say.	គ្មានតអី្វទេ។
@@ -255,45 +277,49 @@ eng	khm	I like Russian food.	ខ្ញុំចូលចិត្តម្ហូ
 eng	khm	I like the Kurdish language.	ខ្ញុំចូលចិត្តភាសាឃឺដ ។
 eng	khm	I like to eat Greek food.	ខ្ញុំចូលចិត្តញ៉ាំម្ហូបក្រិច ។
 eng	khm	I like to think I know what I'm talking about.	ខ្ញុំចង់គិតថា ខ្ញុំដឹងអ្វីដែល ខ្ញុំនិយាយ ។
-eng	khm	I'll be seeing you.	ថ្ងៃក្រោយជួបគ្នា។
 eng	khm	I'll be seeing you later.	ថ្ងៃក្រោយជួបគ្នា។
+eng	khm	I'll be seeing you.	ថ្ងៃក្រោយជួបគ្នា។
 eng	khm	I'll catch you later.	ថ្ងៃក្រោយជួបគ្នា។
 eng	khm	I'll see you around.	ថ្ងៃក្រោយជួបគ្នា។
 eng	khm	I'll see you later.	ថ្ងៃក្រោយជួបគ្នា។
 eng	khm	I love cats.	ខ្ញុំស្រលាញ់ឆ្មា ។
 eng	khm	I love sports, too.	ខ្ញុំ ស្រលាញ់ផ្នែកកីឡាណាស់ដែរ ។
 eng	khm	I love swimming.	ខ្ញុំ ស្រលាញ់កីឡាហែលទឹក ។
+eng	khm	I love you more than you love me.	ខ្ញុំ​ស្រលាញ់​អ្នក​ខ្លាំង​ជាង​អ្នក​ស្រលាញ់​ខ្ញុំ​។
 eng	khm	I love you!	អូនស្រលាញ់បង !
 eng	khm	I love you.	អូនស្រលាញ់បង។
-eng	khm	I love you more than you love me.	ខ្ញុំ​ស្រលាញ់​អ្នក​ខ្លាំង​ជាង​អ្នក​ស្រលាញ់​ខ្ញុំ​។
 eng	khm	I'm a light sleeper.	ខ្ញុំ​គឺជាអ្នក​គេង​ល្វាស ។
 eng	khm	I'm allergic to peanuts. If I eat them, I will die.	ខ្ញុំប្រតិកម្មជាមួយសណ្ដែកដី។ បេីខ្ញុំញ៉ាំវា ខ្ញុំនឹងស្លាប់។
 eng	khm	I'm a woman.	ខ្ញុំ​គឺជា​មនុស្ស​ស្រី ។
 eng	khm	I'm exercising.	ខ្ញុំ ហាត់ប្រាណ ។
 eng	khm	I'm fed up with it!	ខ្ញុំហត់នឿយ !
-eng	khm	I'm fine.	ខ្ញុំសុខសប្បាយ ។
 eng	khm	I'm finely grinding the chilies.	ខ្ញុំកំពុងចិញ្រ្ចាំម្ទេសអោយមត់ ។
 eng	khm	I'm fine, thanks for asking!	សុខសប្បាយ ។ អរគុណដែលបានសួរ !
 eng	khm	I'm fine, thanks for asking.	សុខសប្បាយ ។ អរគុណដែលបានសួរ ។
+eng	khm	I'm fine.	ខ្ញុំសុខសប្បាយ ។
 eng	khm	I'm fully recovered.	ខ្ញុំ​បាន​ជា​វិញ​ទាំងស្រុង​។
 eng	khm	I'm giving my husband a massage.	ញុំធ្វើសរសៃរអោយប្តីញុំ ។
-eng	khm	I'm hungry!	ហេវបាយ !
-eng	khm	I'm hungry!	ខ្ញុំហេវ !
 eng	khm	I'm hungry!	ខ្ញុំឃ្លាន !
+eng	khm	I'm hungry!	ខ្ញុំហេវ !
+eng	khm	I'm hungry!	ឃ្លានបាយ !
+eng	khm	I'm hungry!	ហេវបាយ !
 eng	khm	I'm looking for a job.	ខ្ញុំរកការងារធ្វើ។
 eng	khm	I'm looking for work.	ខ្ញុំរកការងារធ្វើ។
 eng	khm	I'm not a doctor.	ខ្ញុំមិនមែនជា គ្រូពេទ្យទេ ។
-eng	khm	I'm sorry.	សុំទោស ។
-eng	khm	I'm sorry.	សុំទោសណា ។
-eng	khm	I'm sorry.	ខ្ញុំសុំទោស ។
+eng	khm	I'm not thrilled with this idea.	ខ្ញុំ​មិន​រំភើប​នឹង​គំនិត​នេះ​ទេ។
 eng	khm	I'm sorry I didn't come by last night.	សុំទោស​ដែល​អត់​បាន​មក​យប់​មិញ​។
 eng	khm	I'm sorry I'm late.	សុំទោសដែលខ្ញុំមកយឺត ។
+eng	khm	I'm sorry.	ខ្ញុំសុំទោស ។
+eng	khm	I'm sorry.	សុំទោស ។
+eng	khm	I'm sorry.	សុំទោសណា ។
+eng	khm	I'm spending tonight at a friend's.	យប់នឹងខ្ញុំនៅផ្ទះមិត្តភក្តិ។
 eng	khm	I'm sure you're very busy.	ខ្ញុំប្រាកដថា អ្នករវល់ណាស់ ។
 eng	khm	I'm thirsty.	ខ្ញុំឃ្លានទឹក ។
+eng	khm	I'm thirsty.	ខ្ញុំស្រេកទឺក ។
 eng	khm	I'm tired.	ខ្ញុំ គឺ ហត់ ។
+eng	khm	I'm tired.	ខ្ញុំអស់កម្លាំង ។
 eng	khm	I'm tired.	ហត់ដល់ហើយ ។
 eng	khm	I'm tired.	អស់កម្លាំងណាស់ ។
-eng	khm	I'm tired.	ខ្ញុំអស់កម្លាំង ។
 eng	khm	I'm very disappointed in you.	ខ្ញុំខកចិត្តអ្នកណាស់ ។
 eng	khm	In 1971 the United Kingdom changed its currency to the decimal system.	នៅឆ្នាំ ១៩៧១ ចក្រភពអង់គ្លេសបានផ្លាស់ប្តូររូបិយប័ណ្ណរបស់គេទៅក្នុងប្រព័ន្ធទសភាគ ។
 eng	khm	I need to be alone.	ខ្ញុំត្រូវការនៅម្នាក់ឯង ។
@@ -315,8 +341,8 @@ eng	khm	It doesn't bother me.	ខ្ញុំមិនប្រកាន់ទ�
 eng	khm	It doesn't hurt.	អត់​ឈឺ​។
 eng	khm	I thank you.	ខ្ញុំសូមអរគុណដល់អ្នក ។
 eng	khm	I think it's somewhere around here.	ខ្ញុំ​គិត​ថា​វា​នៅ​កន្លែង​ណា​មួយ​ក្បែរ​ៗ​នេះ​។
-eng	khm	I think, therefore I am.	ខ្ញុំគិត, អញ្ជឹងខ្ញុំនៅ ។
 eng	khm	I think, therefore I am.	ខ្ញុំគិត, ដូច្នោះខ្ញុំនៅ ។
+eng	khm	I think, therefore I am.	ខ្ញុំគិត, អញ្ជឹងខ្ញុំនៅ ។
 eng	khm	I think Tom killed himself.	ខ្ញុំគិតថា ថម សម្លាប់ខ្លួន ។
 eng	khm	I think you need to see him.	ខ្ញុំ​គិត​ថា​អ្នក​ត្រូវ​ជួប​គាត់​។
 eng	khm	I thought I heard something outside.	ខ្ញុំ​បាន​គិត​ថា ខ្ញុំ​បាន​ឮ​សំឡេង​អ្វី​មួយ​នៅ​ខាង​ក្រៅ​។
@@ -332,10 +358,12 @@ eng	khm	It's a miracle that I've got over cancer.	វា​ជា​អព្ភ
 eng	khm	It's cold.	រងារ​។
 eng	khm	It's for tourists.	គឺសម្រាប់ភ្ញៀវទេសចរណ៍។
 eng	khm	It's late already. Go home.	ឥឡូវល្ងាចហើយ ទៅទះសិនចុះ ។
+eng	khm	It smells good!	ក្លិនវាគួរឱ្យឆ្ងាញ់ !
 eng	khm	It smells good!	ធំក្លិនគួរឱ្យឆ្ងាញ់ !
 eng	khm	It smells good!	ហិតក្លិនគួរឱ្យឆ្ងាញ់ !
 eng	khm	It's nice to meet you too.	ខ្ញុំ​ក៏​រីករាយ​​ដែរ ដែល​បាន​ជួប​អ្នក ។
 eng	khm	It's not important.	មិន​សំខាន់​ទេ​។
+eng	khm	It's not important.	អត់​សំខាន់​ទេ​។
 eng	khm	It's not pornography, it's art.	មិន​មែន​រូបអាសអាភាស​ទេ គឺ​សិល្បៈ ។
 eng	khm	It's not worth it.	វាមិនលើគ្នាទេ ។
 eng	khm	It snowed yesterday.	ម្សិលមិញ​ធ្លាក់​ព្រិល​។
@@ -346,10 +374,12 @@ eng	khm	It's worth a try.	សាកមើលគ្រាន់បើជាង �
 eng	khm	It was hot yesterday.	ម្សិលមិញ​ក្តៅ​ណាស់​។
 eng	khm	I understand.	យល់​ហើយ ។
 eng	khm	I usually get up at 8.	ជាធម្មតាខ្ញុំក្រោកពីគេងនៅម៉ោង ៨ ។
-eng	khm	I usually get up at eight.	ជាធម្មតាខ្ញុំក្រោកពីគេងនៅម៉ោង ៨ ។
 eng	khm	I usually get up at eight o'clock.	ជាធម្មតាខ្ញុំក្រោកពីគេងនៅម៉ោង ៨ ។
+eng	khm	I usually get up at eight.	ជាធម្មតាខ្ញុំក្រោកពីគេងនៅម៉ោង ៨ ។
 eng	khm	I've got a question.	ខ្ញុំមានសំណួរ។
 eng	khm	I've got a question.	ខ្ញុំមានសំណួរមួយ។
+eng	khm	I've got a question.	ខ្ញុំមានសំនួរ។
+eng	khm	I've got a question.	ខ្ញុំមានសំនួរមួយ។
 eng	khm	I've got a toothache.	ខ្ញុំឈឺធ្មេញ ។
 eng	khm	I've got the munchies.	ឃ្លាន​អូចៗ​ ។
 eng	khm	I've got time.	ខ្ញុំមានពេល ។
@@ -357,45 +387,50 @@ eng	khm	I wanna go.	ខ្ញុំចង់ទៅ។
 eng	khm	I want money.	ខ្ញុំចង់បានលុយ ។
 eng	khm	I want to be alone!	ខ្ញុំចង់នៅម្នាក់ឯង !
 eng	khm	I want to buy some waffles with syrup.	ចង់ទិញនំពុម្ពជាមួយទឹកស៊ីរ៉ូប។
-eng	khm	I want to go.	ខ្ញុំចង់ទៅ។
 eng	khm	I want to go with you.	ខ្ញុំ​ចង់​ទៅ​ជាមួយ​អ្នក​។
+eng	khm	I want to go.	ខ្ញុំចង់ទៅ។
 eng	khm	I want to learn karate.	ខ្ញុំ ចង់រៀនក្បាច់គុន ការ៉ាតេដូរ ។
 eng	khm	I want to live.	ខ្ញុំចង់រស់។
 eng	khm	I was told that you might be able to help me.	មាន​គេ​ប្រាប់​ខ្ញុំ​ថា អ្នក​អាច​ជួយ​ខ្ញុំ​បាន​។
-eng	khm	I will be back soon.	ខ្ញុំ នឹងមកវិញលឿន ។
-eng	khm	I will be back soon.	ខ្ញុំ នឹងមកវិញឆាប់ៗនេះ ។
 eng	khm	I will be back soon.	ខ្ញុំ នឹងត្រលប់មកឆាប់ៗនេះ ។
+eng	khm	I will be back soon.	ខ្ញុំ នឹងមកវិញឆាប់ៗនេះ ។
+eng	khm	I will be back soon.	ខ្ញុំ នឹងមកវិញលឿន ។
 eng	khm	I will see you around.	ថ្ងៃក្រោយជួបគ្នា។
 eng	khm	Just joshing.	ភរ​លេង ។
 eng	khm	Kids like ice cream.	ក្មេងៗ ចូលចិត្តការ៉េម ។
 eng	khm	Last night, we watched television together.	យប់មិញ មើលទូរទស្សន៍ជាមួយគា្ន ។
-eng	khm_Latn	Bless you!	Baəy !
-eng	khm_Latn	Do you speak English?	Ceh yəy ɑŋgleih ɑt?
-eng	khm_Latn	He speaks five languages.	Goat yiəy peam pʰiəsaa.
-eng	khm_Latn	No.	ʔɑɑɾei.
-eng	khm_Latn	One, two, three, four, five, six, seven, eight, nine, ten.	Muuy, pii, bəy, buən, peam, mmuuy, mpəl, mbəy, mbuən, dɑp.
-eng	khm_Latn	Ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty.	Dɑp, maa ndɑp, pii ndɑp, bəy ndɑp, buən ndɑp, pʰam ndɑp, pəm muuy ndɑp, mpəl ndɑp, mbəy ndɑp, mbuən ndɑp, məʔpʰəy.
-eng	khm_Latn	That's great!	ɑɑ nah!
-eng	khm_Latn	The company employs 500 workers.	Kɑmhun cuul mnuh peam hɔɔy neak.
-eng	khm_Latn	This was my mistake.	Anih ciə kɑmhoh bɑh ɲom.
-eng	khm_Latn	Tom drinks too much.	Tom pək sea cəən pek.
-eng	khm_Latn	What fun!	Sɑbaay-ə nəh!
-eng	khm	Leave me alone!	ឱ្យខ្ញុំនៅម្នាក់់ឯង !
+eng	khm	Bless you!	Baəy !
+eng	khm	Do you speak English?	Ceh yəy ɑŋgleih ɑt?
+eng	khm	He speaks five languages.	Goat yiəy peam pʰiəsaa.
+eng	khm	No.	ʔɑɑɾei.
+eng	khm	One, two, three, four, five, six, seven, eight, nine, ten.	Muuy, pii, bəy, buən, peam, mmuuy, mpəl, mbəy, mbuən, dɑp.
+eng	khm	Ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty.	Dɑp, maa ndɑp, pii ndɑp, bəy ndɑp, buən ndɑp, pʰam ndɑp, pəm muuy ndɑp, mpəl ndɑp, mbəy ndɑp, mbuən ndɑp, məʔpʰəy.
+eng	khm	That's great!	ɑɑ nah!
+eng	khm	The company employs 500 workers.	Kɑmhun cuul mnuh peam hɔɔy neak.
+eng	khm	This was my mistake.	Anih ciə kɑmhoh bɑh ɲom.
+eng	khm	Tom drinks too much.	Tom pək sea cəən pek.
+eng	khm	What fun!	Sɑbaay-ə nəh!
 eng	khm	Leave me alone!	ទុកខ្ញុំនៅម្នាក់ឯងបានហើយ !
+eng	khm	Leave me alone!	ទុកខ្ញុំនៅស្ងាត់សិន !
+eng	khm	Leave me alone!	ឱ្យខ្ញុំនៅម្នាក់់ឯង !
+eng	khm	Let's go over there; it'll be easier for us to talk.	ទៅកន្លែងនោះយើងស្រួលនិយាយគ្នា ។
 eng	khm	Let's go!	តោះ!
+eng	khm	Let's go.	តោះ។
 eng	khm	Let's go!	តោះទៅ !
 eng	khm	Let's go!	តោះយើង !
 eng	khm	Let's go!	តោះយើងទៅ !
-eng	khm	Let's go.	តោះ។
-eng	khm	Let's go over there; it'll be easier for us to talk.	ទៅកន្លែងនោះយើងស្រួលនិយាយគ្នា ។
 eng	khm	Let's play cards.	តោះ យើងលេងបៀរ ។
 eng	khm	Let's start working.	តោះយើងចាប់ផ្តើមធ្វើការ ។
 eng	khm	Like it?	ចូលចិត្តវាអត់ ?
 eng	khm	Li Lianjie is a Chinese celebrity.	លីលានជា គឺជា​តារា​ភាពយន្ត​ចិន ។
-eng	khm	Listen!	ស្ដាប់!
+eng	khm	Listen.	ចូរ​ស្ដាប់​។
 eng	khm	Listen.	សូម​ស្ដាប់​។
+eng	khm	Listen!	ស្ដាប់!
+eng	khm	Look above that building.	មើលលើអគារនោះ។
 eng	khm	Look at this book, this page is cool!!	មើលសៀវភៅនេះ ទំព័រនេះឡូយ !!
 eng	khm	Look! Here they come crossing the water.	មើល! ពួកគេឆ្លងទឹកមកហើយ ។
+eng	khm	Make coffee.	ធ្វើកាហ្វេ។
+eng	khm	Make this.	ធ្វើអានេះ។
 eng	khm	Mary doesn't love Tom.	ម៉ារី មិនស្រលាញ់ ថមទេ ។
 eng	khm	Mary drinks a lot of water.	ម៉ារី ផឹកទឹកច្រើន ។
 eng	khm	Mary is a fox.	ម៉ារី ​សិចស៊ី​ណាស់​ ។
@@ -421,19 +456,22 @@ eng	khm	My skin is soft.	ស្បែកខ្ញុំទន់ ។
 eng	khm	My teeth hurt.	ខ្ញុំឈឺធ្មេញ ។
 eng	khm	My tooth hurts.	ខ្ញុំឈឺធ្មេញ ។
 eng	khm	Newspapers lay scattered all over the floor.	កាសែតបានដាក់ដោយគ្មានសណ្តាប់ធ្នាប់ពាសពេញកំរាល ។
-eng	khm	No.	អត់ទេ ។
 eng	khm	No matter when you meet him, he is always chewing gum.	ជួបគាត់ពេលណា ទំពាស្ករកៅស៊ូរហូត ។
-eng	khm	No prob.	​អត់បញ្ហា។
 eng	khm	No problem.	​អត់បញ្ហា។
-eng	khm	No way!	ចប់ហើយ !
-eng	khm	No way!	អត់មានទេ !
+eng	khm	No prob.	​អត់បញ្ហា។
+eng	khm	Not only are they synonyms, they're basically the same word.	ពួកវា​មិន​ត្រឹម​តែជា​ពាក្យ​មានសទិសន័យនឹង​គ្នា​នោះ​ទេ ពួក​វា​គឺជាពាក្យតែមួយ។
+eng	khm	No way!	កប់យោបល់ !
 eng	khm	No way!	គ្តៀនគំនិត !
 eng	khm	No way!	គ្មានគំនិតទេ !
+eng	khm	No way!	គ្មានយោបល់ទេ !
+eng	khm	No way!	ចប់ហើយ !
+eng	khm	No way!	អត់មានទេ !
+eng	khm	No.	អត់ទេ ។
 eng	khm	Of course!	ច្បាស់ជាអញ្ចឹងហើយ!
-eng	khm	OK.	ល្អ។
 eng	khm	Okay.	ល្អ។
 eng	khm	OK. I agree.	ចា៎​! យល់ព្រម ​។
 eng	khm	OK. I agree.	បាទ​! យល់ព្រម​ ។
+eng	khm	OK.	ល្អ។
 eng	khm	One, two, three, four, five, six, seven, eight, nine, ten.	មួយ ពីរ បី បួន ប្រាំ ប្រាំមួយ ប្រាំពីរ ប្រាំបី ប្រាំបួន ដប់។
 eng	khm	Our class has forty-five students.	ថ្នាក់យើង មានសិស្ស សែសិបប្រាំនាក់ ។
 eng	khm	Out of twenty students, only one has read the book.	ក្នុង​និស្សិត​ម្ភៃ​នាក់ តែ​ម្នាក់​បាន​អាន​សៀវភៅ​នោះ​។
@@ -447,6 +485,7 @@ eng	khm	Scram, you cats!	ចេញទៅ ឆ្មា!
 eng	khm	See you tomorrow!	ស្អែកជួបគ្នា !
 eng	khm	She adores cats.	នាងស្រលាញ់ឆ្មា ។
 eng	khm	She gave birth to a daughter yesterday.	ម្សិលមិញ នាង​បង្កើត​បាន​កូន​ស្រី​ម្នាក់ ។
+eng	khm	She graduated from Harvard.	នាងបានបញ្ចប់ការសិក្សាពីសាកលវិទ្យាល័យហាវឺត។
 eng	khm	She has a good heart.	នាង​មាន​ចិត្ត​ល្អ​។
 eng	khm	She has blonde hair.	នាងមានសក់ពណ៌លឿង ។
 eng	khm	She has yellow hair.	នាងមានសក់ពណ៌លឿង ។
@@ -479,9 +518,9 @@ eng	khm	Thanks a whole lot for the food.	អរគុណខ្លាំងណា
 eng	khm	Thanks for coming.	អរគុណ ដែលបានមកលេង ។
 eng	khm	Thanks for reading my message.	សូមអរគុណក្នុងការអានរបស់ខ្ញុំ ។
 eng	khm	Thanks for the visit.	អរគុណ ដែលបានមកលេង ។
-eng	khm	Thank you!	អរគុណ !
 eng	khm	Thank you for coming.	អរគុណ ដែលបានមកលេង ។
 eng	khm	"Thank you." "You're welcome."	«អរគុណ» «អត់អីអេ៎»
+eng	khm	Thank you!	អរគុណ !
 eng	khm	That child caused a lot of trouble.	កូន​គ្មេង​នោះ​បាន​បង្ករ​បញ្ហា​ច្រើន​។
 eng	khm	That dog is super enormous.	ឆ្កែនោះ គឺធំខ្លាំងបំផុត ។
 eng	khm	That girl is walking slowly.	នារីនោះដើរយឺតៗ ។
@@ -490,8 +529,8 @@ eng	khm	The apple is on the table.	ផ្លែ​ប៉ោម​នៅ​លើ
 eng	khm	The bird is in the sky.	បក្សី​នៅ​លើ​មេឃ ។
 eng	khm	The body quickly adjusts itself to changes in temperature.	ខ្លួន​ប្រាណ​ឆាប់​ស៊ាំ​នឹង​អាកាសធាតុ​ផ្លាស់ប្តូរ​យ៉ាង​ឆាប់​រហ័ស​។
 eng	khm	The book is on the table.	សៀវភៅ គឺនៅលើតុ ។
-eng	khm	The book is on the table.	សៀវភៅនៅលើតុ ។
 eng	khm	The book is on the table.	សៀវភៅទុកលើតុ ។
+eng	khm	The book is on the table.	សៀវភៅនៅលើតុ ។
 eng	khm	The car is turning left.	ឡានបត់ឆ្វេង ។
 eng	khm	The car is turning right.	ឡានបត់ស្ដាំ ។
 eng	khm	The car turned left.	ឡានបត់ឆ្វេង ។
@@ -502,6 +541,7 @@ eng	khm	The company employs 500 workers.	ក្រុមហ៊ុន​ជួល
 eng	khm	The cup was empty.	ពែងនេះគឺទទេស្អាត។
 eng	khm	The design is quite interesting.	ការរចនាឡើង គួរអោយចាប់អារម្មណ៍គួរសម ។
 eng	khm	The doctor thought the patient's pulse was rather rapid.	វេជ្ជបណ្ឌិត​បាន​គិត​ថា​ជីពចរ​របស់​អ្នកជំងឺ​លោត​ញាប់​បន្តិច​។
+eng	khm	The elevators in a skyscraper are vital systems.	ជណ្តើរយន្តនៅក្នុងអគារខ្ពស់ៗគឺជាប្រព័ន្ធដ៏សំខាន់។
 eng	khm	The food is very yummy tonight.	យប់នេះម្ហូបឆ្ញាញ់ដ៏ករ ។
 eng	khm	The girl is pulling her mom's hair.	កូនស្រី ទាញសក់ម៉ាក់ ។
 eng	khm	The king abused his power.	ស្តេចលោភនឹងអំណាច​ ។
@@ -512,10 +552,10 @@ eng	khm	The law was changed.	ច្បាប់​ត្រូវ​បាន​
 eng	khm	The matter is all settled.	រឿងនេះត្រូវបានផ្សះផ្សារួចហើយ ។
 eng	khm	The motorcycle ran out of gas.	ម៉ូតូអស់សាំងហើយ ។
 eng	khm	The paper is under the table.	ក្រដាសនៅក្រោមតុ ។
-eng	khm	The password is "Muiriel".	លេខសំងាត់ គឺ « មុយរាល » ។
-eng	khm	The password is "Muiriel".	លេខសម្ងាត់ គឺ « មុយរាល » ។
 eng	khm	The password is "Muiriel".	ពាក្យសំងាត់ គឺ « មុយរាល » ។
 eng	khm	The password is "Muiriel".	ពាក្យសម្ងាត់ គឺ « មុយរាល » ។
+eng	khm	The password is "Muiriel".	លេខសំងាត់ គឺ « មុយរាល » ។
+eng	khm	The password is "Muiriel".	លេខសម្ងាត់ គឺ « មុយរាល » ។
 eng	khm	There are islands in the sea.	មានកោះជាច្រើន នៅក្នុងសមុទ្រ ។
 eng	khm	There is a full moon tonight.	យប់នេះមានព្រះច័ន្ទរះពេញណា ។
 eng	khm	There is no problem.	​អត់បញ្ហា។
@@ -532,11 +572,12 @@ eng	khm	They are preparing the food for the party.	ពួកគេ កំពុ�
 eng	khm	They eat healthy foods.	ពួកគេ ញ៉ាំអាហារដែលមានសុខភាព ។
 eng	khm	They eat raw meat.	ពួកគេ ញ៉ាំសាច់ឆៅ ។
 eng	khm	They're preparing a meal for us.	ពួកគេរៀបចំបាយទឹកសំរាប់យើង ។
+eng	khm	They welcomed Tom aboard.	ពួកគេបានស្វាគមន៍ថមទៅលើយន្តហោះ។
 eng	khm	This book is easy enough for me to read.	សៀវភៅនេះ ត្រូវនឹងខ្ញុំស្រួលអាន ។
 eng	khm	This book makes pleasant reading.	សៀវភៅ​នេះ​អាន​ទៅ​មាន​អារម្មណ៍​ថា​រីករាយ​!
 eng	khm	This cake contains flour, milk, eggs and sugar.	នំខេក​នេះ​មាន​ដាក់​ម្សៅ ទឹកដោះគោ ពងមាន់ និង ស្ករ​។
-eng	khm	This dog is big.	ឆ្កែនេះ គឺធំ ។
 eng	khm	This dog is bigger.	ឆ្កែនេះ គឺធំជាង ។
+eng	khm	This dog is big.	ឆ្កែនេះ គឺធំ ។
 eng	khm	This food doesn't taste good at all.	ម្ហូបនេះ មិនឆ្ងាញ់សោះ ។
 eng	khm	This food is very sweet.	ម្ហូបនេះ ផ្អែមណាស់ ។
 eng	khm	This food truly is tasty.	ម្ហូបនេះ ពិតជាឆ្ងាញ់មែន ។
@@ -545,8 +586,8 @@ eng	khm	This is a difficult math problem.	មួយ​នេះ​គឺជា�
 eng	khm	This is difficult.	អា៎នេះពិបាក។
 eng	khm	This is food.	នេះគឺជា អាហារ ។
 eng	khm	This is hard.	អា៎នេះពិបាក។
-eng	khm	This is not his handwriting.	នេះមិនមែនជាការសរសេររបស់គាត់ទេ។
 eng	khm	This is not his handwriting.	នេះមិនមែនជាការសរសេរដោយដៃរបស់គាត់ទេ។
+eng	khm	This is not his handwriting.	នេះមិនមែនជាការសរសេររបស់គាត់ទេ។
 eng	khm	This is the kind of job I like the most.	នេះជាប្រភេទការងារដែលខ្ញុំពេញចិត្តបំផុត។
 eng	khm	This is the love that esteems others better than oneself.	នេះ​គឺ​ជា​សេចក្តី​ស្រឡាញ់​ដែល​ចាត់​ទុក​អ្នក​ដទៃ​ប្រសើរ​ជា​ជាង​ខ្លួនឯង។
 eng	khm	This snack doesn't taste good at all.	នំនេះមិនឆ្ងាញ់សោះ ។
@@ -566,6 +607,7 @@ eng	khm	Tom has three children.	ថម មាន​កូន​បី​នា�
 eng	khm	Tom is a heavy sleeper.	ថម គឺជា​អ្នក​គេង​ស្កប់ស្កល់ ។
 eng	khm	Tom is annoying Mary.	ថម កំពុង​រំខាន ម៉ារី ។
 eng	khm	Tom is good-hearted.	ថម ចិត្តល្អ ។
+eng	khm	Tom isn't worried about his grades.	ថម អត់ខ្វល់អំពីចំណាត់ថ្នាក់គាត់ទេ។
 eng	khm	Tom isn't worried about his grades.	ថម អត់បារម្ភរឿងចំណាត់ថ្នាក់គាត់ទេ។
 eng	khm	Tom is popping a wheelie on his motorcycle.	ថម ជិះម៉ូតូបង្ហោះ ។
 eng	khm	Tom is scratching Mary.	ថម អេះឱ្យ ម៉ារី ។
@@ -574,6 +616,7 @@ eng	khm	Tom is with Mary.	ថម នៅ​ជាមួយ ម៉ារី​ ។
 eng	khm	Tom likes swimming.	ថម ចូលចិត្តហែលទឹក។
 eng	khm	Tom loves Mary more than his own life.	ថម ស្រលាញ់ ម៉ារី លើសពីជីវិតគាត់ ។
 eng	khm	Tom loves soccer.	ថម ស្រលាញ់ កីឡាបាល់ទាត់ ។
+eng	khm	Tom needs some flour.	ថមត្រូវការម្សៅខ្លះ។
 eng	khm	Tom needs some sleep.	ថម ត្រូវការពេលគេងបន្តិច ។
 eng	khm	Tom often forgets to use his turn signal.	ថម គាត់តែងតែភ្លេចភ្លើងសីញ៉ូ។
 eng	khm	Tom pronounces the letter "r" incorrectly.	ថម និយាយសម្លេងអក្សរ «រ» ខុស ។
@@ -585,6 +628,7 @@ eng	khm	Tom wants to eat fried rice.	ថម ចង់ញ៉ាំបាយឆា
 eng	khm	Tom was home.	ថម នៅផ្ទះ ។
 eng	khm	Tom went home.	ថម ទៅផ្ទះ ។
 eng	khm	Tom, what sports do you like?	ថម តើឯងស្រលាញ់កីឡាអី ?
+eng	khm	Trust the bear!	ទុកចិត្តលើខ្លាឃ្មុំ!
 eng	khm	Turtles don't have teeth.	អណ្តើកមិនមានធ្មេញ។
 eng	khm	Understand?	យល់អត់?
 eng	khm	Up to you whether or not you believe me.	ជឿមិនជឿស្អីចិត្ត។
@@ -593,16 +637,15 @@ eng	khm	Was it fun?	សប្បាយអត់ ?
 eng	khm	We all know that you're angry.	យើងទាំងអស់ដឹងហើយថា ឯងខឹង ។
 eng	khm	We can go.	យើងអាចទៅបាន។
 eng	khm	We chose Henry to be the captain of our team.	យើងយក ហេនរី ជាប្រធានក្រុមយើង ។
+eng	khm	We hear!	ខ្ញុំឮ!
 eng	khm	We just ate sushi and drank beer.	ពួកយើង​ទើបតែ​ញ៉ាំ​ស៊ូស៊ី និង​ផឹក​ស្រាបៀរ​។
-eng	khm	Welcome!	សូមស្វាគមន៏!
-eng	khm	Welcome.	សូមស្វាគមន៏ ។
 eng	khm	Welcome to Tatoeba!	តាតូអេបា សូមស្វាគមន៍ !
 eng	khm	Welcome to Tatoeba!	សូមស្វាគមន៍មកចូលរួម តាតូអេបា !
+eng	khm	Welcome!	សូមស្វាគមន៏!
+eng	khm	Welcome.	សូមស្វាគមន៏ ។
 eng	khm	We'll share our food with them.	យើងចែក ម្ហូបទៅពួកគេ ។
 eng	khm	We're special.	យើងគឺពិសេស ។
 eng	khm	We were certain of winning the game.	យើង​បាន​ប្រាកដ​ថា យើង​នឹង​ឈ្នះ​ល្បែង​នេះ​។
-eng	khm	What?	អីគេ?
-eng	khm	What?	ថាម៉េច?
 eng	khm	What about Jack?	ចុះ ជែក វិញ?
 eng	khm	What about you?	ចុះបងវិញ?
 eng	khm	What about you?	ចុះអូនវិញ?
@@ -613,19 +656,19 @@ eng	khm	What are you carrying there?	តើឯងយួរអីហ្នឹង 
 eng	khm	What are you looking at?	កំពុងមើលអីហ្នឹង?
 eng	khm	What are you saying?	តើនិយាយអីហ្នឹង ?
 eng	khm	What are you saying?	តើលោកកំពុងនិយាយអី ?
-eng	khm	What are you talking about?	និយាយរឿងអី ?
 eng	khm	What are you talking about?	តើអ្នកកំពុងនិយាយអំពីអ្វី ?
+eng	khm	What are you talking about?	និយាយរឿងអី ?
 eng	khm	What did you say?	ថាម៉េច?
 eng	khm	What? Does it please you?	ម៉េច ? ពេញចិត្តអេ ?
 eng	khm	What do you think?	តើឯងគិតយ៉ាងណា ?
 eng	khm	What do you wanna eat?	ចង់ញ៉ាំអី?
-eng	khm	What do you want?	ចង់បានអី ?
-eng	khm	What do you want?	តើឯងចង់បានអី ?
-eng	khm	What do you want?	តើចង់បានអីហ្នឹង ?
-eng	khm	What do you want?	តើអ្នកចង់បានអ្វី ?
 eng	khm	What do you want to buy?	ចង់ទិញអី?
 eng	khm	What do you want to eat?	ចង់ញ៉ាំអី?
 eng	khm	What do you want to eat?	តើអូនចង់ញ៉ាំអី ?
+eng	khm	What do you want?	ចង់បានអី ?
+eng	khm	What do you want?	តើចង់បានអីហ្នឹង ?
+eng	khm	What do you want?	តើអ្នកចង់បានអ្វី ?
+eng	khm	What do you want?	តើឯងចង់បានអី ?
 eng	khm	What fun!	សប្បាយ​ណាស់ !
 eng	khm	What have you done with my pen? It was here a minute ago.	តើ​អ្នក​មាន​យក​ប៊ិច​ខ្ញុំ​ទេ​? ព្រោះអី​ម៉ិញ​វា​នៅ​ទីនេះ​តើ​!
 eng	khm	What have you done with my pen? It was here a minute ago.	តើ​អ្នក​មាន​យក​ប៊ិច​ខ្ញុំ​ទេ​? ព្រោះអី​ម៉ិញ​វា​នៅ​ទីនេះ​តើ​។
@@ -645,29 +688,32 @@ eng	khm	What sport do you like best?	តើកីឡាអីដែលឯងច�
 eng	khm	What's the matter?	មាន​រឿង​អី​?
 eng	khm	What's the problem?	មាន​បញ្ហា​អី​?
 eng	khm	What's your name?	តើគាត់ឈ្មោះអី?
-eng	khm	What's your name?	អ្នក​ឈ្មោះ​អី​?
 eng	khm	What's your name?	តើ​លោក​ឈ្មោះ​អី ?
 eng	khm	What's your name?	តើ​អ្នក​ឈ្មោះ​អ្វី​?
+eng	khm	What's your name?	អ្នក​ឈ្មោះ​អី​?
 eng	khm	What time is it?	តើវាម៉ោងប៉ុន្មានហើយ ?
+eng	khm	What?	ថាម៉េច?
+eng	khm	What?	អីគេ?
+eng	khm	What?	អ្វី?
 eng	khm	When we made fun of her, she blushed.	នៅពេលដែលយើងបង្អាប់លេងដាក់នាង មុខនាងឡើងក្រហម ។
-eng	khm	Where are you?	តើឯងនៅណា ?
-eng	khm	Where are you?	នៅណាហ្នឹង ?
-eng	khm	Where are you?	តើនៅណាហ្នឹង ?
-eng	khm	Where are you?	តើនៅកន្លែងណា ?
-eng	khm	Where are you?	តើអ្នកនៅកន្លែងណា ?
-eng	khm	Where are you from?	អ្នកមកពីប្រទេសណា?
 eng	khm	Where are you from?	តើ​អ្នក​ជនជាតិ​អ្វី​?
-eng	khm	Where are you going?	តើឯងទៅណាហ្នឹង ?
+eng	khm	Where are you from?	អ្នកមកពីប្រទេសណា?
+eng	khm	Where are you going?	តើលោកត្រូវការទៅណា ?
 eng	khm	Where are you going?	តើលោកត្រូវទៅណា ?
 eng	khm	Where are you going?	តើអ្នកទៅកន្លែងណា ?
-eng	khm	Where are you going?	តើលោកត្រូវការទៅណា ?
+eng	khm	Where are you going?	តើឯងទៅណាហ្នឹង ?
 eng	khm	Where are you staying?	ស្នាក់នៅណា?
+eng	khm	Where are you?	តើនៅកន្លែងណា ?
+eng	khm	Where are you?	តើនៅណាហ្នឹង ?
+eng	khm	Where are you?	តើអ្នកនៅកន្លែងណា ?
+eng	khm	Where are you?	តើឯងនៅណា ?
+eng	khm	Where are you?	នៅណាហ្នឹង ?
 eng	khm	Where do I go then?	អញ្ចឹង​ខ្ញុំ​ទៅ​ណា​?
 eng	khm	Where do you live?	តើលោករស់នៅឯណា ?
-eng	khm	Where do you live?	តើអ្នករស់នៅឯណា ?
 eng	khm	Where do you live?	តើអ្នករស់កន្លែងណា ?
-eng	khm	Where do you work?	ធ្វើការនៅណា​?
+eng	khm	Where do you live?	តើអ្នករស់នៅឯណា ?
 eng	khm	Where do you work?	តើធ្វើការនៅណា​?
+eng	khm	Where do you work?	ធ្វើការនៅណា​?
 eng	khm	Where is it?	តើនៅកន្លែងណា ?
 eng	khm	Where is my food?	តើម្ហូបរបស់ខ្ញុំនៅឯណា ?
 eng	khm	Where is my suitcase?	វ៉ាលីស៍ខ្ញុំនៅណា?
@@ -694,20 +740,24 @@ eng	khm	Who is the woman?	ស្រី្តគឺជាអ្នកណា?
 eng	khm	Whose lunch box is this?	ប្រអប់បាយនេះ ជារបស់នណា?
 eng	khm	Who's going to believe us?	នណានឹងជឿយើងទៅ ?
 eng	khm	Who wrote this book?	នរណា​បាន​និពន្ធ​សៀវភៅ​នេះ​?
-eng	khm	Why?	ហេតុអី ?
-eng	khm	Why are you crying?	ហេតុអីបានយំ ?
-eng	khm	Why are you crying?	តើហេតុអីអូនយំ ?
-eng	khm	Why are you crying?	ហេតុអីបានជាអូនយំ ?
 eng	khm	Why are you crying?	តើមូលហេតុអីជាអ្នកយំ ?
+eng	khm	Why are you crying?	តើហេតុអីអូនយំ ?
+eng	khm	Why are you crying?	តើហេតុអី្វអ្នកយំ ?
+eng	khm	Why are you crying?	ហេតុអីបានជាអូនយំ ?
+eng	khm	Why are you crying?	ហេតុអីបានយំ ?
+eng	khm	Why?	ហេតុអី ?
 eng	khm	Would you come with me, please?	ទៅ​ជា​មួយ​ខ្ញុំ​បាន​ទេ​?
 eng	khm	Would you like some? I'll eat some too.	បងញ៉ាំអី អូនញ៉ាំនឹងដែរ ។
 eng	khm	Wrap yourself warm, it is cold out there.	ដណ្តប់​ខ្លួន​ឯង​ឱ្យ​កក់ក្តៅ នៅ​ខាង​ក្រៅ​ត្រជាក់​។
+eng	khm	Yes.	ចាស ។
 eng	khm	Yes.	បាទ ។
 eng	khm	You are a panda.	អ្នក​គឺជា​ផេនដា ។
 eng	khm	You aren't my mother.	អ្នកមិនមែនជាម្ដាយខ្ញុំទេ ។
 eng	khm	You are wrong.	អ្នកខុសហើយ ។
 eng	khm	You go first.	ទៅមុនទៅ ។
 eng	khm	You have to go to the hospital.	អ្នក​ត្រូវ​ទៅ​មន្ទីរពេទ្យ​។
+eng	khm	You hear me?	អ្នកឮខ្ញុំទេ?
+eng	khm	You hear me?	ឯងឮខ្ញុំទេ?
 eng	khm	You like balls.	​អ្នកចូលចិត្ត​បាល់។
 eng	khm	You like elephants.	អ្នកចូលចិត្តដំរី ។
 eng	khm	You like fruit.	អ្នកចូលចិត្តផ្លែឈើ។
@@ -721,6 +771,8 @@ eng	khm	You're not supposed to eat on the job.	អ្នកមិនគួរញ
 eng	khm	You're talking out of your ass.	អ្នកគឺកំពុងនិយាយផ្ដេះផ្ដាស់ហើយ ។
 eng	khm	You're wrong.	អ្នកខុសហើយ ។
 eng	khm	Your friend is here.	ពួកម៉ាក​របស់​អ្នក​នៅ​ទីនេះ​។
+eng	khm	Your room is out of order.	បន្ទប់របស់អ្នកគ្មានសណ្តាប់ធ្នាប់។
 eng	khm	You saw her, didn't you?	អ្នកបានឃើញនាង, តើមែនអត់ ?
 eng	khm	You should know it in order to protect yourself.	អ្នកគួរតែចេះវា សំរាប់ការពារខ្លូន ។
 eng	khm	You still have a lot to learn about relationships.	អ្នក​ត្រូវការ​រៀន​ឲ្យ​ច្រើន​បន្ថែម​ទៀត​ស្តី​អំពី​សម្ព័ន្ធភាព​។
+eng	khm	Ziri never really looked into Islam.	Ziri មិនដែលរកមើលទៅក្នុងសាសនាអ៊ីស្លាមទេ។

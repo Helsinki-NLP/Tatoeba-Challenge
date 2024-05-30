@@ -14,12 +14,12 @@ ang_Latn	epo	Hēo hæfþ catt. Se catt is hƿīte.	Ŝi havas katon. La kato esta
 ang_Latn	epo	Hēo hæfþ grēne ēagan.	Ŝi havas verdajn okulojn.
 ang_Latn	epo	Hēo wæs mǣġþ, and hē wæs cnapa.	Ŝi estis knabino, kaj li estis knabo.
 ang_Latn	epo	Hē sealde eall ðæt hē āhte.	Li vendis ĉion, kion li posedis.
+ang_Latn	epo	Hwæt biþ word?	Kio estas vorto?
+ang_Latn	epo	Hwī wrāt hē þæt?	Kial li skribis tion?
 ang_Latn	epo	Hƿǣr ƿǣre þū?	Kie vi estis?
 ang_Latn	epo	Hƿǣr ƿǣron ᵹē?	Kie vi estis?
-ang_Latn	epo	Hwæt biþ word?	Kio estas vorto?
 ang_Latn	epo	Hƿæt biþ ƿord?	Kio estas vorto?
 ang_Latn	epo	Hƿæt sæᵹde hē?	Kion li diris?
-ang_Latn	epo	Hwī wrāt hē þæt?	Kial li skribis tion?
 ang_Latn	epo	Ič hæbbe catt and hund. Se catt is blæc and se hund is hƿīte.	Mi havas katon kaj hundon. La kato estas nigra kaj la hundo estas blanka.
 ang_Latn	epo	Ič hæbbe dōhtor.	Mi havas filinon.
 ang_Latn	epo	Ič lufie þē.	Mi amas vin!
@@ -41,6 +41,7 @@ ang_Latn	epo	Se catt is dēad.	La kato estas mortinta.
 ang_Latn	epo	Se catt is dēad.	La virkato estas mortinta.
 ang_Latn	epo	Se mann is se cyning.	Tiu viro estas la reĝo.
 ang_Latn	epo	Sēo catte is dēad.	La katino estas mortinta.
+ang_Latn	epo	Sēo weorold is ādliġ.	La mondo estas malsana.
 ang_Latn	epo	Se wulf æt þæt bān.	La lupo manĝis la oston.
 ang_Latn	epo	Se wulf æt þone cyning	La lupo manĝis la reĝon.
 ang_Latn	epo	Sumor is hāt.	Somero estas varmega.
@@ -48,11 +49,11 @@ ang_Latn	epo	To-dæg is Frig-dæg.	Hodiaŭ estas vendredo.
 ang_Latn	epo	Tom ne biþ Trump.	Tomo ne estas Trump.
 ang_Latn	epo	Tom ne hæfde ᵹe-nōgne fēoh.	Tom ne havis sufiĉan monon.
 ang_Latn	epo	Wē cunnon þone bæcere.	Ni konas la bakiston.
-ang_Latn	epo	Ƿilcume on þā Engliscan Ƿikipǣdie.	Bonvenon en la anglan Vikipedion.
-ang_Latn	epo	Ƿile ūser land nān-ƿiht būtan friþ.	Nia lando deziras nur la pacon.
 ang_Latn	epo	Þa Darius geseah þæt he overƿunnen beon ƿolde, þa ƿolde he hiene selfne on ðæm gefeohte forspillan.	Kiam Dario vidis, ke li estas venkota, tiam li volis sin mem mortigi en tiu ĉi batalo.
 ang_Latn	epo	Þæt is þīn bōc.	Ĝi estas via libro.
 ang_Latn	epo	Þæt is þīn bōc.	Tiu estas via libro.
 ang_Latn	epo	Þæt ƿæs se besta dæᵹ mīnes līfes.	Tiu estis la plej bela tago en mia vivo.
 ang_Latn	epo	Þæt ƿæs se besta dæᵹ on mīnum līfe.	Tiu estis la plej bela tago en mia vivo.
 ang_Latn	epo	Þū frugne mē.	Vi demandis min.
+ang_Latn	epo	Ƿilcume on þā Engliscan Ƿikipǣdie.	Bonvenon en la anglan Vikipedion.
+ang_Latn	epo	Ƿile ūser land nān-ƿiht būtan friþ.	Nia lando deziras nur la pacon.

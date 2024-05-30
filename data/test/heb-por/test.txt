@@ -20,8 +20,8 @@ heb	por	אין בעד מה.	Não há de quê!
 heb	por	אין להשיג את המוצרים האלו.	Estes artigos não estão à venda.
 heb	por	אין לי הרבה תיאבון לאחרונה.	Eu não tenho muito apetite ultimamente.
 heb	por	אין לי כסף לקנות אופניים חדשים.	Não tenho dinheiro para comprar uma nova bicicleta.
-heb	por	אין שום דבר שאני יכול לעשות כדי לעזור להם.	Não há nada que eu possa fazer para ajudá-los.
 heb	por	אינני סבור שיירד מחר גשם.	Não acredito que vai chover amanhã.
+heb	por	אין שום דבר שאני יכול לעשות כדי לעזור להם.	Não há nada que eu possa fazer para ajudá-los.
 heb	por	איפה אוכל להשיג מונית?	Onde posso conseguir um táxi?
 heb	por	איפה אוכל למצוא את טום?	Onde posso encontrar o Tom?
 heb	por	איפה אוכל לפגוש את טום?	Onde posso encontrar o Tom?
@@ -53,6 +53,7 @@ heb	por	אם את לא בפייסבוק, את לא קיימת!	Se não estás no
 heb	por	אָמֵן!	Amém!
 heb	por	אנו לומדים על הרבייה באדם.	Estamos estudando a reprodução humana.
 heb	por	אנחנו אוהבים לשחות בים.	Nós gostamos de nadar no mar.
+heb	por	אנחנו אומה עצמאית.	Somos uma nação independente.
 heb	por	אנחנו בטוחים שתהיה בסדר.	Temos certeza de que você vai ficar bom.
 heb	por	אנחנו זקוקים לשפה עולמית?	Nós precisamos de uma língua mundial?
 heb	por	אנחנו יכולים לדבר עכשיו?	Podemos falar agora?
@@ -74,6 +75,10 @@ heb	por	אני בן אדם, ואת כל בני האדם אני רואה כמשפ
 heb	por	אני גאון יציב מאוד.	Sou um gênio muito estável.
 heb	por	אני גזעי.	Sou legal.
 heb	por	אני גזעית.	Sou legal.
+heb	por	אני גר בריו דה ז'ניירו.	Eu moro no Rio de Janeiro.
+heb	por	אני גר בריו דה ז'ניירו.	Moro no Rio de Janeiro.
+heb	por	אני גרה בריו דה ז'ניירו.	Eu moro no Rio de Janeiro.
+heb	por	אני גרה בריו דה ז'ניירו.	Moro no Rio de Janeiro.
 heb	por	אני זוכר היטב את היום שבו נולדת.	Lembro bem do dia em que você nasceu.
 heb	por	אני זוכרת היטב את היום שבו נולדת.	Lembro bem do dia em que você nasceu.
 heb	por	אני זקוקה לך לצדי.	Eu preciso de você do meu lado.
@@ -118,10 +123,10 @@ heb	por	אני לא קוסם.	Eu não sou mágico.
 heb	por	אני מאוד אוהב את עבודתי.	Gosto muito do meu trabalho.
 heb	por	אני מאוד אוהבת את העבודה שלי.	Gosto muito do meu trabalho.
 heb	por	אני מאמין בו.	Eu acredito nele.
-heb	por	אני מאמין שאלביס עדיין חי.	Acredito que Elvis ainda está vivo.
 heb	por	אני מאמינה בו.	Eu acredito nele.
 heb	por	אני מאמינה שאלביס עדיין חי.	Acredito que Elvis ainda está vivo.
 heb	por	אני מאמינה שהסיפור אמיתי.	Acho que a história é verdadeira.
+heb	por	אני מאמין שאלביס עדיין חי.	Acredito que Elvis ainda está vivo.
 heb	por	אני מביט מהחלון.	Eu olho da janela.
 heb	por	אני מבשל, אבל אני לא עושה את זה בתענוג גדול.	Eu cozinho, mas não faço isso com muito gosto.
 heb	por	אני מבשל, אבל לא בתענוג גדול.	Eu cozinho, mas não faço isso com muito gosto.
@@ -141,6 +146,10 @@ heb	por	אני מפחד להיות מפוחד.	Estou com medo de ficar com medo.
 heb	por	אני מצביע בעד ההצעה הראשונה.	Voto pela primeira proposta.
 heb	por	אני מקווה שלא קרה לה שום דבר.	Eu espero que nada tenha acontecido com ela.
 heb	por	אני משיזואוקה.	Sou de Shizuoka.
+heb	por	אני מתגורר בריו דה ז'ניירו.	Eu moro no Rio de Janeiro.
+heb	por	אני מתגורר בריו דה ז'ניירו.	Moro no Rio de Janeiro.
+heb	por	אני מתגוררת בריו דה ז'ניירו.	Eu moro no Rio de Janeiro.
+heb	por	אני מתגוררת בריו דה ז'ניירו.	Moro no Rio de Janeiro.
 heb	por	אני מתכוון לדבר ביותר מ-20 שפות עד שנת 2015.	Pretendo falar mais de 20 idiomas até 2015.
 heb	por	אני סבורה שהסיפור אמיתי.	Acho que a história é verdadeira.
 heb	por	אני סבור שהסיפור אמיתי.	Acho que a história é verdadeira.
@@ -150,10 +159,10 @@ heb	por	אני סובל מכאב.	Estou ressentido.
 heb	por	אני עובד עם החבר שלך.	Trabalho com o teu amigo.
 heb	por	אני עובדת עם החבר שלך.	Trabalho com o teu amigo.
 heb	por	אני עסוק.	Estou ocupado.
-heb	por	אני צריך לענות לטלפון.	Tenho que atender o telefone.
-heb	por	אני צריך מתרגם.	Preciso de um tradutor.
 heb	por	אני צריכה לקום מחר מוקדם מאוד.	Eu devo acordar bem cedo amanhã.
 heb	por	אני צריכה מתרגם.	Preciso de um tradutor.
+heb	por	אני צריך לענות לטלפון.	Tenho que atender o telefone.
+heb	por	אני צריך מתרגם.	Preciso de um tradutor.
 heb	por	אני רוצה להתחתן איתה.	Quero me casar com ela.
 heb	por	אני רוצה לקנות תריסר מהבננות האלה.	Quero comprar uma dúzia daquelas bananas.
 heb	por	אני רעבה מאוד.	Estou com muita fome.
@@ -221,11 +230,11 @@ heb	por	את יכולה ללכת עם עיניים עצומות?	Você consegue 
 heb	por	את לא חייבת ללכת לשם אם את לא רוצה.	Você não tem que ir para lá se não quiser.
 heb	por	את לא יכולה להקליד מספרים כי הנורית של המקלדת הנומרית כבויה.	Você não consegue digitar os números porque o LED da tecla Num Lock está apagado.
 heb	por	את לומדת אנגלית.	Você estuda inglês.
-heb	por	אתם מדברים פורטוגזית?	Vocês falam português?
 heb	por	את מדברת סלובקית?	Você fala eslovaco?
 heb	por	את מה חוקר הסובייטולוג?	O que um sovietólogo estuda?
 heb	por	אתמול האזנתי לרדיו.	Eu escutei o rádio ontem.
 heb	por	אתמול שיחקתי כדורגל.	Ontem joguei futebol.
+heb	por	אתם מדברים פורטוגזית?	Vocês falam português?
 heb	por	את מן הסתם עצובה על כך שאיבדת אחד מחברייך.	Você deve estar triste, já que perdeu um de seus amigos.
 heb	por	את מתחילה.	Você primeiro.
 heb	por	את צודקת לגבי זה. אני תוהה אם הם יבינו אותך.	Você está certo a respeito disso. Me pergunto se eles vão entender você.
@@ -272,8 +281,8 @@ heb	por	במקום שיש חיים, יש תקווה.	Onde há vida, há esperan�
 heb	por	במקרה של שריפה יש לשבור את החלון.	Em caso de incêndio, quebre esta janela.
 heb	por	בנצרות מאמינים שישוע הוא בנו של האלוהים.	No cristianismo crê-se que Jesus é o filho de Deus.
 heb	por	בנקודה זאת אני מוותר לך; בכל דבר אחר - לא.	Neste ponto cedo a você; em tudo o mais, não.
-heb	por	בסוף כולם מתים.	Todo mundo morre.
 heb	por	בסופו של דבר החלטנו להסגיר אותו למשטרה.	Finalmente decidimos entregá-lo à polícia
+heb	por	בסוף כולם מתים.	Todo mundo morre.
 heb	por	בקרב האומה כולה השתרר אבל כשנודע על מות המלך.	Toda a nação ficou triste ao saber que seu rei havia morrido.
 heb	por	בקש מאביך לעזור לך.	Peça para seu pai te ajudar.
 heb	por	ברוך שובך הביתה!	Bem-vindo a casa!
@@ -345,6 +354,7 @@ heb	por	הוא קם מוקדם.	Ele acorda cedo.
 heb	por	הוא קרא ספר שנכתב באנגלית.	Ele leu um livro escrito em inglês.
 heb	por	הוא רגיל לשאול הרבה שאלות.	Ele costuma fazer muitas perguntas.
 heb	por	הוא רימה אותי.	Ele me enganou.
+heb	por	הוא רשע.	Ele é um homem mau.
 heb	por	הוא שם לב אליי.	Ele não está prestando nenhuma atenção em mim.
 heb	por	הוא תמיד בוכה כשהוא שיכור.	Sempre chora quando está bêbado.
 heb	por	הוא תמיד בוכה כשהוא שתוי.	Sempre chora quando está bêbado.
@@ -393,35 +403,36 @@ heb	por	הכמויות במשורה.	A quantidade é limitada.
 heb	por	הלווית כסף לאחי?	Você emprestou algum dinheiro ao meu irmão?
 heb	por	הלילה הוא בוודאי יתקשר אליי.	Certamente esta noite ele me telefonará.
 heb	por	הם אלכוהוליסטים.	Eles são alcoólatras.
-heb	por	הם יהיו נשואים בעוד זמן קצר.	Eles estarão casados em pouco tempo.
-heb	por	הם יודעים מי אני.	Eles sabem quem eu sou.
-heb	por	הם יתחתנו תוך זמן קצר.	Eles estarão casados em pouco tempo.
-heb	por	הם מתבדחים.	Eles estão brincando.
-heb	por	הם מתלוצצים.	Eles estão brincando.
-heb	por	הם נישקו זה את זה.	Eles se beijaram.
-heb	por	הם נישקו זה את זו.	Eles se beijaram.
 heb	por	המאמץ השתלם, כי עברתי את הבחינה.	O esforço valeu a pena porque eu passei no teste.
 heb	por	המאמץ השתלם, משום שעברתי את הבחינה בהצלחה.	O esforço valeu a pena porque eu passei no teste.
 heb	por	המאמץ השתלם, משום שעברתי בהצלחה את הבחינה.	O esforço valeu a pena porque eu passei no teste.
 heb	por	המורה אמרה שהוא לא יודע את התשובה לשאלה שלי.	A professora disse que não sabe a resposta para a pergunta que eu fiz.
 heb	por	המורה אמרה שהיא לא יודעת את התשובה לשאלה שלי.	A professora disse que não sabe a resposta para a pergunta que eu fiz.
 heb	por	המחלה נגרמה על ידי מיקרו-אורגניזם חדש.	A doença foi causada devido à ação de um novo micro-organismo.
+heb	por	הם יהיו נשואים בעוד זמן קצר.	Eles estarão casados em pouco tempo.
+heb	por	הם יודעים מי אני.	Eles sabem quem eu sou.
+heb	por	הם יתחתנו תוך זמן קצר.	Eles estarão casados em pouco tempo.
 heb	por	המלכה חייבת למות.	A rainha deve morrer.
 heb	por	הממשלה לא משקיעה הרבה בחינוך.	O governo investe pouco em educação.
 heb	por	הממשלה משקיעה מעט בחינוך.	O governo investe pouco em educação.
+heb	por	הם מתבדחים.	Eles estão brincando.
+heb	por	הם מתלוצצים.	Eles estão brincando.
+heb	por	הם נישקו זה את זה.	Eles se beijaram.
+heb	por	הם נישקו זה את זו.	Eles se beijaram.
 heb	por	המפלגה הסוציאליסטית זכתה ב18% בלבד.	O Partido Socialista conseguiu apenas 18% dos votos.
+heb	por	המשפחה שלי גרה בעיר.	A minha família mora na cidade.
 heb	por	המשפט הנוכחי אינו נכון.	A presente frase é falsa.
 heb	por	המשפט הנוכחי לא נכון.	A presente frase é falsa.
 heb	por	המתרגם - בוגד.	Tradutor é um traidor.
 heb	por	המתרגם - בוגד.	Tradutor, traidor.
 heb	por	המתרגמים - בוגדים.	Tradutor é um traidor.
 heb	por	המתרגמים - בוגדים.	Tradutor, traidor.
-heb	por	הן התנשקו.	Elas se beijaram.
-heb	por	הן יודעות מי אני.	Elas sabem quem eu sou.
-heb	por	הן ראו את עצמן במראה.	Elas se viram no espelho.
 heb	por	הנגיף הכי נורא הוא הקפיטליזם.	O pior vírus é o capitalismo.
 heb	por	הנגיף הנורא ביותר הוא הקפיטליזם.	O pior vírus é o capitalismo.
+heb	por	הן התנשקו.	Elas se beijaram.
+heb	por	הן יודעות מי אני.	Elas sabem quem eu sou.
 heb	por	הניתוח מלווה בכאבים קשים.	A operação é acompanhada com muita dor.
+heb	por	הן ראו את עצמן במראה.	Elas se viram no espelho.
 heb	por	הסגנון הזה של כובעים הוא כרגע באופנה.	Esse estilo de chapéu está na moda agora.
 heb	por	הסוכר נמס במים חמים.	O açúcar se dissolve em água quente.
 heb	por	הסופה גרמה להפסקת חשמל.	A tempestade provocou uma queda de eletricidade.
@@ -433,6 +444,8 @@ heb	por	העבד מביא מים.	O escravo traz água.
 heb	por	העברית המודרנית קלה יותר מהעברית העתיקה.	O hebraico moderno é mais fácil que o hebraico antigo.
 heb	por	העובדה הזאת מוכיחה את חפותה.	Este fato prova sua inocência.
 heb	por	העובדה הזאת מוכיחה את חפותו.	Este fato prova sua inocência.
+heb	por	העולם זה עם.	O mundo é uma nação.
+heb	por	העיר מוגנת על ידי גולם.	A cidade é protegida por um golem.
 heb	por	"העקרונות המתמטיים של פילוסופיית הטבע" פורסם על ידי אייזק ניוטון ב-1687.	Os Princípios Matemáticos da Filosofia Natural foram publicados por Isaac Newton em 1687.
 heb	por	"העקרונות המתמטיים של פילוסופיית הטבע" פורסם על ידי אייזק ניוטון בשנת 1687.	Os Princípios Matemáticos da Filosofia Natural foram publicados por Isaac Newton em 1687.
 heb	por	הפארק הישן הפך לאחד המקומות המבוקשים בעיר.	O antigo parque se tornou um dos lugares mais solicitados da cidade.
@@ -445,6 +458,7 @@ heb	por	הציפור בשמיים.	O pássaro está no céu.
 heb	por	הציפור נמצאת בשמיים.	O pássaro está no céu.
 heb	por	הצלחתי הודות לעצתו.	Eu consegui graças ao seu conselho.
 heb	por	הקוראן הוא הספר הקדוש למוסלמים.	O Alcorão é o livro sagrado dos muçulmanos.
+heb	por	הרבה יוונים גרים בגרמניה.	Muitos gregos vivem na Alemanha.
 heb	por	הרוב בועדה הצביע נגד הפרויקט.	A maioria do comitê votou contra o projeto.
 heb	por	הרוב הצביע נגד הצעת החוק.	A maioria votou contra o projeto de lei.
 heb	por	הרומנים שלו אהובים על הצעירים.	Seus romances são populares entre os jovens.
@@ -485,6 +499,7 @@ heb	por	זה תפוז.	Isto é uma laranja.
 heb	por	זו הייתה טעות.	Foi um erro.
 heb	por	זו לא הייתה הפעם הראשונה, והיא גם לא תהיה האחרונה.	Não foi a primeira vez e não será a última.
 heb	por	זו קלות דעת רבה לשחות בזרמים כאלה.	É muito arriscado nadar nessa corrente de água.
+heb	por	זין על המשטרה.	Que se foda a polícia.
 heb	por	זכויות הנשים הן זכויות האדם.	Os direitos das mulheres são direitos humanos.
 heb	por	חבר שלי גר בבית הזה.	Meu amigo mora nesta casa.
 heb	por	חום הוא צורה של אנרגיה.	O calor é uma forma de energia.
@@ -585,6 +600,7 @@ heb	por	מאז נפטר בעלה, כריסטינה סבלה מאוד.	Desde a mo
 heb	por	מדוע הגעת באיחור הבוקר?	Por que você chegou atrasado hoje de manhã?
 heb	por	מדוע לא הודעת לי?	Por que não me avisou?
 heb	por	מה אם אסרב?	E daí se eu digo "não"?
+heb	por	מה אני?	Eu sou o quê?
 heb	por	מה אתה לומד בבית הספר?	O que você aprende na escola?
 heb	por	מה אתה מתכנן לעשות אחרי שזה ייגמר?	O que você está planejando fazer após isso acabar?
 heb	por	מה את מתכננת לעשות אחרי שזה יסתיים?	O que você está planejando fazer após isso acabar?
@@ -630,6 +646,7 @@ heb	por	מתי עשית את הבחינה?	Quando você fez o exame?
 heb	por	נאגאנו הביסה את סולט-לייק סיטי ארבעים ושש נגד ארבעים ושתיים.	Nagano ganha Salt Lake City por 46 votos a 42.
 heb	por	נהגתי ללכת לשחות בנהר בהיותי ילד.	Eu costumava ir nadar no rio quando era criança.
 heb	por	נומרולוגיה היא כמו סכיזופרניה.	Numerologia é como esquisofrenia.
+heb	por	נורוז שמח!	Feliz Noruz!
 heb	por	"נטשה" הוא שם רוסי.	Natasha é um nome russo.
 heb	por	נעים מאוד להכיר את כולכם!	Prazer em conhecer todos vocês!
 heb	por	נפלא!	Magnífico!
@@ -690,6 +707,7 @@ heb	por	שנות החמישים מתאפיינות במלחמה קרה בין ה
 heb	por	שנתיים עברו מאז.	Dois anos se passaram desde então.
 heb	por	שרידיהם של הסבא והסבתא שלך נמצאים בכנסייה הזאת.	Os restos mortais de seus avós estão nessa igreja.
 heb	por	תגיד לחברים שלך להתראות.	Diz tchau para os teus amigos.
+heb	por	תגנו על ילדים טרנסג'נדרים.	Protejam as crianças transgêneras.
 heb	por	תדליק בבקשה את סיר האורז.	Ligue a panela de arroz, por favor.
 heb	por	תהיה כן אתי.	Seja sincera comigo.
 heb	por	תהיה פנוי אחר הצהריים?	Você estará livre à tarde?

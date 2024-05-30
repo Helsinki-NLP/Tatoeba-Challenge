@@ -8,6 +8,8 @@ deu	fin	Ach, keine Ahnung!	Ei siis aavistustakaan!
 deu	fin	Ach so, jetzt ist es mir klar.	Ahaa, nyt tajusin!
 deu	fin	Alle bewundern Henry.	Kaikki ihailevat Henryä.
 deu	fin	Alle Pferde sind Tiere, aber nicht alle Tiere sind Pferde.	Kaikki hevoset ovat eläimiä, mutta kaikki eläimet eivät ole hevosia.
+deu	fin	Alle Schriftsysteme haben ihre guten und ihre schlechten Seiten.	Kaikilla kirjoitusjärjestelmillä on hyvät ja huonot puolensa.
+deu	fin	Alle Schriftsysteme haben ihre guten und schlechten Seiten.	Kaikilla kirjoitusjärjestelmillä on hyvät ja huonot puolensa.
 deu	fin	Alle setzten sich.	Kaikki istuutuivat.
 deu	fin	Alle setzten sich.	Kaikki menivät istumaan.
 deu	fin	Alles klar. Wir sehen uns dann nächste Woche.	Hyvä homma. Me näemme sitten ensi viikolla.
@@ -31,28 +33,37 @@ deu	fin	An deiner Stelle würde ich seinem Rat folgen.	Sinuna seuraisin hänen n
 deu	fin	Ändere bitte die Flagge.	Vaihda lippua, kiitos.
 deu	fin	Ändere bitte die Flagge.	Voisitko vaihtaa lipun, kiitos.
 deu	fin	Ändern Sie bitte die Flagge.	Voisitko vaihtaa lipun, kiitos.
+deu	fin	An der Wand hängt ein großer Spiegel.	Seinällä riippuu suuri peili.
 deu	fin	Angeblich ist er hier gestorben.	Hänen kerrotaan kuolleen täällä.
 deu	fin	Angela hat in jener Nacht kein bisschen geschlafen.	Angela ei nukkunut hitustakaan sinä yönä.
 deu	fin	Angela Merkel wurde in Ostdeutschland geboren.	Angela Merkel syntyi Itä-Saksassa.
 deu	fin	Äpfel sind rot.	Omenat ovat punaisia.
+deu	fin	Atomwaffen sind eine Bedrohung.	Ydinaseet ovat uhka.
 deu	fin	Auch du bist Karelierin.	Sinäkin olet karjalainen.
 deu	fin	Auch du bist Karelier.	Sinäkin olet karjalainen.
+deu	fin	Auch heute haben wir Frost.	Tänäänkin on pakkasta.
+deu	fin	Auch heute herrscht Frost.	Tänäänkin on pakkasta.
+deu	fin	Auch heute ist Frost.	Tänäänkin on pakkasta.
 deu	fin	Auch ich kann nicht tanzen.	En minäkään osaa tanssia.
 deu	fin	Auf beiden Seiten der Straße waren viele Leute.	Kadun molemmilla puolin oli paljon väkeä.
 deu	fin	Auf dein Wohl! Prost!	Tämä on sinulle! Kippis!
 deu	fin	Auf dem Stuhl saß eine Katze.	Tuolilla istui kissa.
 deu	fin	Auf dem Tisch war eine Katze.	Pöydän päällä oli kissa.
 deu	fin	Auf der Party hat ihn einer seiner politischen Gegner vor den Augen zahlreicher Gäste gedemütigt.	Juhlissa yksi hänen poliittisista vastustajistaan nöyryytti häntä useiden vieraiden silmien edessä.
+deu	fin	Aufgrund der Position der Wunde fand die Polizei heraus, dass der Täter Linkshänder war.	Haavojen sijainnin perusteella poliisi sai selville, että hyökkääjä oli vasenkätinen.
 deu	fin	Auf welchen Namen hört das Pferd?	Mikä hevosen nimi on?
 deu	fin	Au! Mir ist ein Apfel auf die Birne gefallen.	Auts! Omena putosi kaaliini.
 deu	fin	Aus dem Bett mit dir!	Ylös sängystä!
 deu	fin	Aus Liisas Sicht war das Ereignis langweilig.	Liisan kannalta tapaus oli ikävä.
 deu	fin	Bald danach begann es zu regnen.	Pian sen jälkeen alkoi sataa.
 deu	fin	Beeil dich, Tom!	Pidä kiirettä, Tom.
+deu	fin	Befreie uns von dem Bösen.	Päästä meidät pahasta.
+deu	fin	Befreit uns von dem Bösen.	Päästäkää meidät pahasta.
 deu	fin	Beide lächelten.	He molemmat hymyilevät.
 deu	fin	Beide sind unberechenbar und ungeduldig.	Molemmat heistä ovat ennustamattomia ja kärsimättömiä.
 deu	fin	Bei mir ist alles in Ordnung.	Minulla on kaikki hyvin.
 deu	fin	Benimm dich wie ein Mann!	Käyttäydy niin kuin mies.
+deu	fin	Benutze nicht diese Brücke.	Älä käytä tätä siltaa.
 deu	fin	Beste Grüße an alle.	Terveisiä kaikille.
 deu	fin	Bevor du stirbst, siehst du den Ring!	Ennen kuolemaasi näet renkaan!
 deu	fin	Biegen Sie an der Kreuzung rechts ab.	Kääntykää risteyksessä oikealle.
@@ -68,6 +79,8 @@ deu	fin	Bist du ein Mann oder ein Schisshase?	Oletko mies vai hiiri?
 deu	fin	Bist du ihre Mutter?	Oletko hänen äitinsä?
 deu	fin	Bist du ihre Mutter?	Oletko sinä hänen äitinsä?
 deu	fin	Bist du in letzter Zeit in Boston gewesen?	Oletko käynyt Bostonissa viime aikoina?
+deu	fin	Bist du Jude?	Oletko juutalainen?
+deu	fin	Bist du Jüdin?	Oletko juutalainen?
 deu	fin	Bist du mit dem Ergebnis zufrieden?	Oletko tyytyväinen tulokseen?
 deu	fin	Bist du müde?	Oletko väsynyt?
 deu	fin	"Bist du Schwede?" "Nein, Schweizer."	”Oletko ruotsalainen?” ”En, sveitsiläinen."
@@ -78,6 +91,7 @@ deu	fin	Bist du wirklich Ausländer?	Oletko todellakin ulkomaalainen?
 deu	fin	Bist du wirklich der Ansicht, dass das okay ist?	Oletko tosissaan sitä mieltä, että tämä on OK?
 deu	fin	Bist du wirklich der Ansicht, dass dies meinen Ruf ruiniert?	Oletko todellakin sitä mieltä, että tämä pilaa maineeni?
 deu	fin	Bis zum Wochenende!	Viikonloppuun asti.
+deu	fin	Bis zur Stadt sind es nur zwei Meilen.	Kaupunkiin on vain kaksi mailia.
 deu	fin	Bitte entschuldigen Sie mein Zuspätkommen.	Anteeksi kun tulen myöhässä.
 deu	fin	Bitte mach die Tür auf.	Avaisitko oven.
 deu	fin	Bitte mehr Kaffee.	Saisinko lisää kahvia?
@@ -85,12 +99,22 @@ deu	fin	Bitte nehmen Sie Platz!	Käykää istumaan!
 deu	fin	Bitte sage mir, wo ich meinen Wagen parken kann.	Voisitteko kertoa, mihin voin pysäköidä autoni?
 deu	fin	Bitte setze am Ende des Satzes noch einen Punkt!	Lisäisitkö lauseen loppuun vielä pisteen!
 deu	fin	Bitte warten Sie fünf Minuten.	Odottakaa viisi minuuttia.
+deu	fin	Böse Menschen haben der Kleinen Meerjungfrau den Kopf abgesägt.	Pahat ihmiset ovat sahanneet Pieneltä merenneidolta pään pois.
 deu	fin	Brauchst du etwas?	Tarvitsetko jotakin?
 deu	fin	Brauchst du Hilfe?	Tarvitsetko apua?
 deu	fin	Brich die Schokolade in kleine Stücke!	Murra suklaasta pieniä paloja.
+deu	fin	Bring den Wassereimer hierher.	Tuo tuo vesiämpäri tänne.
 deu	fin	Bücher sind unerschöpfliche Wissensquellen.	Kirjat ovat ehtymättömiä tietolähteitä.
+deu	fin	Da fahre ich mit dem Fahrrad hin.	Minä pyöräilen sinne.
+deu	fin	Da fahre ich mit dem Rad hin.	Minä pyöräilen sinne.
+deu	fin	Dahin fahre ich mit dem Fahrrad.	Minä pyöräilen sinne.
+deu	fin	Dahin fahre ich mit dem Rad.	Minä pyöräilen sinne.
 deu	fin	Da kann man nichts machen.	Sille ei voi mitään.
 deu	fin	Da lachen ja die Hühner.	Sille nauravat naurismaan aidatkin.
+deu	fin	Dank der Satellitentechnik kann man die Oberfläche der Meere jetzt vermessen.	Satelliittiteknologian ansiosta merten pintaa voidaan nyt mitata.
+deu	fin	Dank der Satellitentechnik kann man die Oberfläche der Meere jetzt vermessen.	Satelliittiteknologian ansiosta merten pinta voidaan nyt mitata.
+deu	fin	Dank der Satellitentechnik kann man die Oberfläche der Meere jetzt vermessen.	Tekokuuteknologian ansiosta merten pintaa voidaan nyt mitata.
+deu	fin	Dank der Satellitentechnik kann man die Oberfläche der Meere jetzt vermessen.	Tekokuuteknologian ansiosta merten pinta voidaan nyt mitata.
 deu	fin	Danke, dass du bei uns einkaufst.	Kiitos kun teit ostoksia kaupassamme!
 deu	fin	Danke, dass du diesen Satz adoptierst.	Kiitos, että adoptoit tämän lauseen.
 deu	fin	Danke, dass du diesen Satz adoptiert hast.	Kiitos, että adoptoit tämän lauseen.
@@ -127,6 +151,7 @@ deu	fin	Das geht mir am Arsch vorbei.	Ei vois vittu vähempää kiinnostaa.
 deu	fin	Das Geschäft ist heute geschlossen.	Kauppa on tänään suljettu.
 deu	fin	Das Gesetz bin ich!	Minä olen laki!
 deu	fin	Das Gesetz muss geändert werden.	Lakia on muutettava.
+deu	fin	Das gilt für die Ethnomathematik.	Tämä koskee etnomatematiikkaa.
 deu	fin	Das habe ich aus zuverlässiger Quelle gehört.	Kuulin sen luotettavasta lähteestä.
 deu	fin	Das hängt von der Größe des Sessels ab.	Se riippuu tuolin koosta.
 deu	fin	Das hast du sehr gut gemacht.	Teit sen oikein hyvin.
@@ -143,6 +168,7 @@ deu	fin	Das Huhn hat in letzter Zeit überhaupt keine Eier gelegt.	Tuo kana ei o
 deu	fin	Das is dann doch vielleicht ein bisschen zu grausam.	Eiköhän se ole vähän liian julmaa.
 deu	fin	Das ist äußerst wichtig.	Se on todella tärkeää.
 deu	fin	Das ist das Haus, in dem ich als Kind gewohnt habe.	Tässä talossa asuin lapsena.
+deu	fin	Das ist das Haus, in dem sie geboren wurde.	Tämä on se talo, jossa hän syntyi.
 deu	fin	Das ist dein Hund.	Tämä on sinun koirasi.
 deu	fin	Das ist dein Hund. Wo ist meiner?	Tämä on sinun koirasi. Missä minun on?
 deu	fin	Das ist der Junge.	Tämä on se poika.
@@ -151,10 +177,13 @@ deu	fin	Das ist doch jetzt Haarspalterei.	Tuo nyt on hiusten halkomista.
 deu	fin	Das ist eine DVD.	Tämä on DVD.
 deu	fin	Das ist eine lächerliche Idee.	Tuo on naurettava ajatus.
 deu	fin	Das ist eine Menge Arbeit.	Se on kova työ.
+deu	fin	Das ist eine Schnecke.	Se on etana.
 deu	fin	Das ist ein Foto meiner Schwester.	Tämä on kuva siskostani.
+deu	fin	Das ist ein gutes Buch, aber dieses Buch dort ist besser.	Tämä on hyvä kirja, mutta tuo kirja on parempi.
 deu	fin	Das ist ein Hase.	Tuo on jänis.
 deu	fin	Das ist ein heikles Thema.	Se on arkaluonteinen ongelma.
 deu	fin	Das ist ein kleines Städtchen, in dem jeder jeden kennt.	Tämä on pieni kaupunki. Jokainen tuntee jokaisen.
+deu	fin	Das ist ein konstruktiver Vorschlag.	Se on rakentava ehdotus.
 deu	fin	Das ist ein Problem.	Se on ongelma.
 deu	fin	Das ist ein Schlag unter die Gürtellinie.	Se on isku vyön alle.
 deu	fin	Das ist genug.	Antaisit jo olla!
@@ -177,11 +206,17 @@ deu	fin	Das ist so, weil du nicht allein sein willst.	Se johtuu siitä, että si
 deu	fin	Das ist überraschend.	Tuo on yllättävää.
 deu	fin	Das ist unser Hauptziel.	Tämä on päätavoitteemme.
 deu	fin	Das ist weitgehend eine Frage des Willens.	Tuo on pitkälti tahdon asia.
+deu	fin	Das ist wie Zauberei.	Tämä näyttää taikuudelta.
+deu	fin	Das ist wie Zauberei.	Tämä on kuin taikuutta.
 deu	fin	Das kann ein Problem sein.	Se voi olla ongelma.
+deu	fin	Das kann Wochen oder Monate dauern.	Se voi kestää viikkoja tai kuukausia.
 deu	fin	Das Karussell dreht sich im Uhrzeigersinn.	Karuselli pyörii myötäpäivään.
 deu	fin	Das Kind bettelt immer um etwas.	Lapsi kerjää aina jotakin.
+deu	fin	Das Kind braucht ein Spielzeug.	Lapsi tarvitsee lelun.
 deu	fin	Das klingt befremdlich.	Se kuulostaa oudolta.
 deu	fin	Das klingt nach Spaß.	Tuo kuulostaa hauskalta.
+deu	fin	Das klingt schlecht!	Se kuulostaa pahalta!
+deu	fin	Das klingt schlecht!	Tuo kuulostaa pahalta!
 deu	fin	Das Konzert war ein Erfolg.	Konsertti oli menestys.
 deu	fin	Das läge mir fern!	Pois se minusta!
 deu	fin	Das lässt sich nicht vermeiden.	Sitä ei voi välttää.
@@ -189,6 +224,7 @@ deu	fin	Das Laub des Baumes wurde gelb.	Puun lehdet kellastuivat.
 deu	fin	Das Leben ist voller Probleme.	Elämä on täynnä ongelmia.
 deu	fin	Das Lieblingsspielzeug von Marys Hund ist eine alte Socke.	Marin koiran suosikkilelu on vanha sukka.
 deu	fin	Das liegt daran, dass du nicht allein sein willst.	Se johtuu siitä, että sinä et halua olla yksin.
+deu	fin	Das Luftverschmutzungsproblem von Tokio ist viel schlimmer als das von New York.	Tokion ilmansaasteongelma on vieläkin pahempi kuin New Yorkin.
 deu	fin	Das macht keinen Sinn.	Tässä ei ole mitään järkeä.
 deu	fin	Das Mädchen, das mit Tom spricht, ist Mary.	Tomin kanssa jutteleva tyttö on Mary.
 deu	fin	Das Mädchen sieht echt nett aus.	Tuo tyttö näyttää todella suloiselta.
@@ -199,11 +235,15 @@ deu	fin	Das neue Steuergesetz ist voller Löcher.	Uusi verolaki on täynnä pors
 deu	fin	Das neue Steuergesetz ist voller Schlupflöcher.	Uusi verolaki on täynnä porsaanreikiä.
 deu	fin	Das Paar waren im gleichen Alter.	Pari oli samanikäinen.
 deu	fin	Das Passwort ist "Muiriel".	Salasana on ”Muiriel”.
+deu	fin	Das Problem der Luftverschmutzung von Tokio ist viel schlimmer als das von New York.	Tokion ilmansaasteongelma on vieläkin pahempi kuin New Yorkin.
 deu	fin	Das riecht nach einer Falle.	Se haiskahtaa ansalta.
 deu	fin	Das sage ich dir nicht.	Sitä minä en sano sinulle.
 deu	fin	Das Saunabaden stimulierte mich.	Saunassa käynti virkisti minua.
+deu	fin	Das schmeckt aber gut!	Tämäpä maistuu hyvältä!
 deu	fin	Das seltsame Objekt am Himmel konnte man mit dem bloßen Auge sehen.	Oudon objektin taivaalla saattoi nähdä paljaalla silmällä.
 deu	fin	Das sollte kein Problem sein.	Sen ei pitäisi olla ongelma.
+deu	fin	Das Spinnennetz glitzerte durch den Morgentau.	Hämähäkinseitti kiilteli aamukasteesta.
+deu	fin	Das Spinnennetz glitzerte im Morgentau.	Hämähäkinseitti kiilteli aamukasteesta.
 deu	fin	Das steht noch nicht einmal auf der Karte.	Sitä ei ole edes kartalla.
 deu	fin	Das Telefon war ständig besetzt.	Puhelin oli jatkuvasti varattu.
 deu	fin	Das Thermometer zeigt 10 °C.	Lämpömittari näyttää 10 astetta.
@@ -226,6 +266,10 @@ deu	fin	Das wird nie enden.	Tämä ei lopu ikinä.
 deu	fin	Das wird nie enden.	Tämä ei pääty koskaan.
 deu	fin	Das Wörterbuch enthält ungefähr eine halbe Million Wörter.	Tässä sanakirjassa on noin puoli miljoonaa sanaa.
 deu	fin	Das Wort „vierundzwanzigbuchstabig“ ist vierundzwanzigbuchstabig.	Sana ”kakskytäneljäkirjaiminen” on kakskytäneljäkirjaiminen.
+deu	fin	Da Thomas das Benzin ausgegangen ist, ist er zum Treffen zu spät gekommen.	Koska Tuomaalta loppui bensiini, tuli hän myöhässä tapaamiseen.
+deu	fin	Da Thomas das Benzin ausgegangen ist, ist er zu spät zum Treffen gekommen.	Koska Tuomaalta loppui bensiini, tuli hän myöhässä tapaamiseen.
+deu	fin	Da Thomas das Benzin ausging, kam er zum Treffen zu spät.	Koska Tuomaalta loppui bensiini, tuli hän myöhässä tapaamiseen.
+deu	fin	Da Thomas das Benzin ausging, kam er zu spät zum Treffen.	Koska Tuomaalta loppui bensiini, tuli hän myöhässä tapaamiseen.
 deu	fin	Da waren wir aber gut dran.	Kylläpä meille sattui hyvin.
 deu	fin	Dein Bruder bittet um Hilfe.	Veljesi pyytää apua.
 deu	fin	Dein dusseliger Plan funktioniert tatsächlich.	Typerä suunnitelmasi todella toimii.
@@ -240,17 +284,23 @@ deu	fin	Denk an deine Familie!	Ajattele perhettäsi!
 deu	fin	Denke an deine Familie!	Ajattele perhettäsi!
 deu	fin	Denkst du, ich bin hässlich?	Olenko minä sinusta ruma?
 deu	fin	Denkt an eure Familie!	Ajattele perhettäsi!
+deu	fin	Den Satz kann man nicht anders verstehen.	Lausetta ei voi ymmärtää toisin.
 deu	fin	Der Bär frisst einen Apfel.	Karhu syö omenaa.
 deu	fin	Der Biwasee ist der größte See Japans.	Biwa-järvi on Japanin suurin järvi.
 deu	fin	Der Blumentopf kippte plötzlich um.	Kukkaruukku keikahti yhtäkkiä nurin.
 deu	fin	Der Bub wirft einen Stein.	Poika heittää kiven.
+deu	fin	Der Ernteertrag dieses Jahres übertrifft nicht den des letzten Jahres.	Tämän vuoden sato ei ylitä viime vuoden satoa.
 deu	fin	Der Fehler wurde korrigiert.	Virhe korjattiin.
+deu	fin	Der Feigenbaum hat große Blätter.	Viikunapensaassa on isot lehdet.
 deu	fin	Der Fernseher ist an.	Televisio on auki.
 deu	fin	Der Film hat mir gefallen.	Pidin tästä elokuvasta.
 deu	fin	Der Fluss, der durch Paris fließt, ist die Seine.	Pariisin läpi virtaava joki on Seine.
 deu	fin	Der Frühling steht unmittelbar vor der Tür.	Kevät on aivan nurkan takana.
 deu	fin	Der Geist der Wahrheit und der Geist der Freiheit - das sind die Pfeiler einer Gesellschaft.	Totuudenhenki ja vapaudenhenki — nämä ovat yhteiskunnan tukipilarit.
 deu	fin	Der Gesundheitszustand meines Vaters bessert sich allmählich.	Isäni vointi paranee vähitellen.
+deu	fin	Der größte Teil der japanischen Tempel ist aus Holz erbaut.	Suurin osa japanilaisista temppeleistä on rakennettu puusta.
+deu	fin	Der größte Teil der japanischen Tempel ist aus Holz erbaut.	Suurin osa japanilaisista temppeleistä on tehty puusta.
+deu	fin	Der Herbst ist gekommen.	Syksy on saapunut.
 deu	fin	Der Hubschrauber landete auf dem Dach.	Helikopteri laskeutui katolle.
 deu	fin	Der Hund biss mir in die Hand.	Koira puri minua käteen.
 deu	fin	Der Hund biss mir ins Bein.	Koira puri minua jalkaan.
@@ -259,33 +309,61 @@ deu	fin	Der Inhalt dieser Nachricht verstößt gegen unsere Regeln und wurde dah
 deu	fin	Der Junge hat einen Hund gekauft.	Poika osti koiran.
 deu	fin	Der Junge war so müde, dass er keinen Schritt weitergehen konnte.	Poika oli niin väsynyt, ettei jaksanut ottaa enää askeltakaan.
 deu	fin	Der Kaffee schmeckt nach Spülwasser.	Tämä kahvi maistuu tiskivedeltä.
+deu	fin	Der Kapitalismus ist ein verrücktes System, das einer Minderheit ein gutes Leben gewährt, aber die Mehrheit im Elend ertränkt!	Kapitalismi on hullu järjestelmä, joka suo hyvän elämän vähemmistölle, mutta hukuttaa enemmistön kurjuuteen!
+deu	fin	Der kleine Hund wurde über 17 Jahre alt.	Pieni koira eli yli 17-vuotiaaksi.
 deu	fin	Der Kleinen Meerjungfrau hatten böse Menschen den Kopf abgesägt.	Ilkeät ihmiset olivat sahanneet pään poikki pieneltä merenneidolta.
 deu	fin	Der Kranich ist das Symbol der Lufthansa.	Kurki on Lufthansan symboli.
+deu	fin	Der Kunde hat nicht immer Recht.	Asiakas ei aina ole oikeassa.
+deu	fin	Der Kunde hat nicht immer Recht.	Asiakas ei ole aina oikeassa.
+deu	fin	Der Kunde ist nicht immer im Recht.	Asiakas ei aina ole oikeassa.
+deu	fin	Der Kunde ist nicht immer im Recht.	Asiakas ei ole aina oikeassa.
 deu	fin	Der Kurs wird um neun fortgesetzt.	Kurssi jatkuu kello yhdeksältä.
 deu	fin	Der Lärm hielt mich die ganze Nacht lang wach.	Meteli piti minut hereillä koko yön.
 deu	fin	Der Lehrerberuf begann Tom zu langweilen, und er sah sich nach einer neuen Arbeit um.	Tom kyllästyi opettamiseen ja hän etsi uutta työtä.
 deu	fin	Der Lehrer gab uns Hausaufgaben auf.	Opettaja antoi meille läksyjä.
 deu	fin	Der Lehrer war von meiner Antwort enttäuscht.	Opettaja oli pettynyt vastaukseeni.
 deu	fin	Der letzte Sommer war außergewöhnlich kalt und die Reisernte war die schlechteste in zehn Jahren.	Viime kesä oli harvinaisen kylmä, ja riisisato oli huonoin kymmeneen vuoteen.
+deu	fin	Der Mann, der da drüben steht, ist mein Vater.	Mies, joka seisoo tuolla noin, on isäni.
+deu	fin	Der Mann, der da drüben steht, ist mein Vater.	Mies, joka seisoo tuolla noin, on minun isäni.
+deu	fin	Der Mann, der da drüben steht, ist mein Vater.	Mies, joka seisoo tuolla, on isäni.
+deu	fin	Der Mann, der da drüben steht, ist mein Vater.	Mies, joka seisoo tuolla, on minun isäni.
+deu	fin	Der Mann, der da drüben steht, ist mein Vater.	Tuolla noin seisova mies on isäni.
+deu	fin	Der Mann, der da drüben steht, ist mein Vater.	Tuolla noin seisova mies on minun isäni.
+deu	fin	Der Mann, der da drüben steht, ist mein Vater.	Tuolla seisova mies on isäni.
+deu	fin	Der Mann, der da drüben steht, ist mein Vater.	Tuolla seisova mies on minun isäni.
 deu	fin	Der Mann, der vor einer Stunde angerufen hat, war Frank.	Mies, joka soitti tunti sitten, oli Frank.
 deu	fin	Der Mann gab zu, dass es wahr war.	Mies myönsi sen todeksi.
 deu	fin	Der Mann hat recht.	Mies on oikeassa.
 deu	fin	Der Mann hatte das Brot gegessen.	Mies söi leivän.
 deu	fin	Der Mann schimpft, weil der Hund bellt, oder umgekehrt?	Mies valittaa, koska koira haukkuu, vai päinvastoin?
 deu	fin	Der Mann von nebenan ist Marys Liebhaber.	Naapurissa asuva mies on Maryn rakastaja.
+deu	fin	Der Mond ist schön.	Kuu on kaunis.
 deu	fin	Der Mond ist wirklich schön heute Abend.	Kuu on todella kaunis tänä iltana.
 deu	fin	Der Motor sprang an.	Moottori lähti käyntiin.
 deu	fin	Der Nebel lichtete sich.	Sumu hälveni.
 deu	fin	Der neue Plan wurde als praktikabel eingestuft.	Uusi suunnitelma arvioitiin käytännössä toteutettavaksi.
 deu	fin	Der Parkwächter dirigierte Tom zu einem freien Platz.	Parkkipaikkavahti viittoili Tomin vapaaseen paikkaan.
 deu	fin	Der Polizist durchsuchte seine Taschen, aber fand nichts.	Poliisi tarkasti hänen taskunsa mutta ei löytänyt mitään.
+deu	fin	Der Preis ändert sich entsprechend der Nachfrage.	Hinta muuttuu kysynnän mukaan.
+deu	fin	Der Preis ändert sich entsprechend der Nachfrage.	Hinta muuttuu kysynnän myötä.
+deu	fin	Der Preis schwankt entsprechend der Nachfrage.	Hinta vaihtelee kysynnän mukaan.
+deu	fin	Der Preis schwankt entsprechend der Nachfrage.	Hinta vaihtelee kysynnän myötä.
+deu	fin	Der Preis schwankt mit der Nachfrage.	Hinta vaihtelee kysynnän mukaan.
+deu	fin	Der Preis schwankt mit der Nachfrage.	Hinta vaihtelee kysynnän myötä.
+deu	fin	Der Puls ist ein wenig erhöht.	Pulssi on vähän nopea.
+deu	fin	Der Puls ist etwas erhöht.	Pulssi on vähän nopea.
 deu	fin	Der Regenbogen hat sieben Farben.	Sateenkaaressa on seitsemän väriä.
+deu	fin	Der Reifen ist geplatzt.	Rengas on puhjennut.
+deu	fin	Der Richter befragte mich.	Tuomari kuulusteli minua.
+deu	fin	Der Richter hat mich befragt.	Tuomari kuulusteli minua.
 deu	fin	Der Sand ist gelb, und auch die Sonne ist gelb. Der Sand und die Sonne sind gelb.	Hiekka on keltaista ja aurinkokin on keltainen. Hiekka ja aurinko ovat keltaisia.
 deu	fin	Der Satz des Pythagoras sagt, dass das Quadrat der Hypotenuse gleich der Summe der Quadrate der anderen beiden Seiten ist.	Pythagoraan lauseen mukaan hypotenuusan neliö on yhtä suuri kuin kahden muun sivun neliöitten summa.
 deu	fin	Der Schlüssel ist auf dem Pult.	Avain on pulpetilla.
 deu	fin	Der Server ist wieder ausgefallen.	Palvelin on taas alhaalla.
 deu	fin	Der Sommer ist vergangen. Ein leichter Wind beginnt zu säuseln. Ich rieche einen Sturm.	Kesä on ohi. Kevyt tuuli hyräilee. Tuoksuu myrskyltä.
+deu	fin	Der Sonnenuntergang ist eines der schönsten Schauspiele der Natur.	Auringonlasku on luonnon kauneimpia näytelmiä.
 deu	fin	Der Sperling in der Hand ist besser als die Taube auf dem Dach.	Parempi pyy pivossa kuin kymmenen oksalla.
+deu	fin	Der Sprit ist jetzt billig.	Bensa on nyt halpaa.
 deu	fin	Der Streit wurde hitziger.	Väittelystä tuli kiivas.
 deu	fin	Der Strom ist seit heute Morgen ausgefallen.	Sähköt ovat olleet poikki tästä aamusta lähtien.
 deu	fin	Der Tag graut.	Päivä koittaa.
@@ -301,6 +379,8 @@ deu	fin	Deshalb bin ich noch am Leben.	Siksi olen yhä elossa.
 deu	fin	Dessen kannst du sicher sein.	Siitä voit olla varma.
 deu	fin	Deutschland hat die FIFA-Weltmeisterschaft 2014 gewonnen!	Saksa voitti 2014 jalkapallon maailmanmestaruuden!
 deu	fin	Dich zu treffen ist immer ein großes Vergnügen.	Sinun tapaamisesi on aina mukavaa.
+deu	fin	Die Ägypter erbauten diesen Tempel zu Ehren von Pharao Ramses dem Zweiten.	Egyptiläiset rakensivat tämän temppelin kunnioittaakseen faarao Ramses toista.
+deu	fin	Die Ägypter erbauten diesen Tempel zu Ehren von Pharao Ramses II.	Egyptiläiset rakensivat tämän temppelin faarao Ramses II:n kunniaksi.
 deu	fin	Die Angelegenheit ist eine Überlegung wert.	Sitä sietää miettiä.
 deu	fin	Die Anweisungen, die sie gibt, sind immer genau.	Ohjeet, joita hän antaa, ovat aina tarkkoja.
 deu	fin	Die Ärzte versuchen immer noch, Tom zu retten.	Lääkärit yrittävät yhä pelastaa Tomia.
@@ -317,45 +397,75 @@ deu	fin	Die Blume ist weiß.	Tuo kukka on valkoinen.
 deu	fin	Die Busse fuhren einer nach dem anderen ab.	Bussit lähtivät yksi toisensa perään.
 deu	fin	Die englische Sprache ist mit der deutschen verwandt.	Englannin kieli on sukua saksan kielelle.
 deu	fin	Die entscheidenden Leute bei der EU heißen "Kommissare". Wie bei Stalin.	EU:ssa päätöksentekijöitä kutsutaan "komissaareiksi", niin kuin Stalinin aikana.
+deu	fin	Die Ernte dieses Jahres übertrifft nicht die des letzten Jahres.	Tämän vuoden sato ei ylitä viime vuoden satoa.
 deu	fin	Die erste Jahreszeit im Jahr ist der Frühling.	Ensimmäinen vuodenaika on kevät.
+deu	fin	Die erste und zweite Seite bitte kopieren.	Kopioikaa ensimmäinen ja toinen sivu.
 deu	fin	Die Familie aß zusammen zu Abend.	Perhe söi illallisen yhdessä.
 deu	fin	Die Familie aß zusammen zu Abend.	Perhe söi päivällisen yhdessä.
 deu	fin	Die Fastenzeit ist für Katholiken wichtig.	Paastonaika on tärkeä katolilaisille.
+deu	fin	Die Flucht dauerte viele Tage.	Pakomatkat kestivät monia päiviä.
+deu	fin	Die Frage höre ich tatsächlich oft.	Sen kysymyksen kuulen itse asiassa usein.
+deu	fin	Die Frage höre ich tatsächlich oft.	Tuon kysymyksen kuulen itse asiassa usein.
+deu	fin	Die Geschichte des Glases reicht sehr lange zurück, sie begann im Alten Orient.	Lasin historia on todella pitkä, se alkoi muinaisissa itämaissa.
 deu	fin	Die Geschichte handelt von einer Katze.	Tämä on tarina kissasta.
 deu	fin	Die Grammatik ist hochkompliziert.	Kielioppi on todella mutkikasta.
 deu	fin	Die Grundlage unseres Erfolgs ist die gute Zusammenarbeit.	Menestyksemme perustuu hyvään yhteistyöhön.
+deu	fin	Die Hauptstadt der Präfektur Fukuoka ist Fukuoka-Stadt.	Fukuokan prefektuurin pääkaupunki on Fukuokan kaupunki.
 deu	fin	Die Hauptstadt von Mongolei ist Ulaanbaatar.	Mongolian pääkaupunkin on Ulaanbaatar.
 deu	fin	Die Hochzeit wurde verschoben.	Häitä lykättiin.
+deu	fin	Die Höhe des Stuhls ist verstellbar.	Tuolin korkeus on säädettävissä.
+deu	fin	Die Höhe des Stuhls kann man verstellen.	Tuolin korkeutta voi säätää.
+deu	fin	Die Höhe des Stuhls lässt sich verstellen.	Tuolin korkeutta voi säätää.
+deu	fin	Die junge Frau seufzte.	Nuori nainen huokaisi.
 deu	fin	Die Katze ist unter dem Bett.	Kissa on sängyn alla.
 deu	fin	Die Katze saß auf dem Tisch.	Kissa istui pöydällä.
+deu	fin	Die Kinder lernen Fahrrad fahren.	Lapset oppivat pyöräilemään.
 deu	fin	Die Kinder schubsten sich gegenseitig.	Lapset tuuppivat toisiaan.
 deu	fin	Die Kirche ist mitten im Dorf.	Kirkko on keskellä kylää.
 deu	fin	Die Klimaanlage ist außer Betrieb.	Ilmastointilaite on epäkunnossa.
 deu	fin	Die Klimaanlage ist kaputtgegangen.	Ilmastointilaite on mennyt epäkuntoon.
 deu	fin	Die Klimaanlage ist kaputtgegangen.	Ilmastointilaite on mennyt rikki.
 deu	fin	Die Klimaanlage ist zu laut.	Ilmastointilaite pitää liian kovaa ääntä.
+deu	fin	Die Kluft zwischen den Reichen und den Armen wächst.	Kuilu rikkaiden ja köyhien välillä kasvaa.
+deu	fin	Die Kluft zwischen Reich und Arm wächst.	Kuilu rikkaiden ja köyhien välillä kasvaa.
 deu	fin	Die Landesvorwahl von Italien ist +39.	Italian maakoodi on 39.
 deu	fin	Die Leute haben die Neigung laut zu werden, wenn sie aufgeregt sind.	Ihmisillä on taipumus puhua kovemmalla äänellä, kun he innostuvat.
 deu	fin	Die Maschine lebt nicht, sie funktioniert.	Kone ei elä, se toimii.
+deu	fin	Die Meinungen der beiden gingen weit auseinander.	Heidän kahden mielipiteiden välillä oli iso ero.
 deu	fin	Die Milch kochte über.	Maito kiehui yli.
 deu	fin	Die Milliardenverpflichtungen höhlen die Haushaltshoheit des Bundestags aus.	Miljardisitoumukset nakertavat liittopäivien budjettivaltaa.
+deu	fin	Die Mundharmonika ist ein gutes Geschenk.	Huuliharppu on hyvä lahja.
 deu	fin	Die Nacht war so schwarz, fast so schwarz wie ihr Herz.	Yö oli niin pimeä, melkein yhtä pimeä kuin hänen sydämensä.
 deu	fin	Die neue Brücke wird bis April fertiggestellt worden sein.	Uusi silta valmistunee huhtikuuhun mennessä.
+deu	fin	Die Neugierde liegt mir im Blut.	Uteliaisuus on veressäni.
+deu	fin	Die Neugier liegt mir im Blut.	Uteliaisuus on veressäni.
 deu	fin	Die Philosophie ist eigentlich Heimweh – Trieb, überall zu Hause zu sein.	Filosofia on oikeastaan koti-ikävää – halua olla kaikkialla kotonaan.
 deu	fin	Die Polizei wird uns nie finden.	Poliisi ei tule koskaan löytämään meitä.
 deu	fin	Die Presse interessiert sich für sein Privatleben.	Lehdistö kiinnostuu hänen yksityiselämästään.
 deu	fin	Die Prinzessin ruhte mit geschlossenen Augen.	Prinsessa makasi silmät ummessa.
+deu	fin	Die Regierung sollte das Gemeinwohl fördern.	Hallituksen pitäisi edistää yhteistä hyvinvointia.
+deu	fin	Die Reichen werden immer reicher.	Rikkaat rikastuvat entisestään.
 deu	fin	Die Reichen werden reicher und die Armen werden ärmer.	Rikkaat rikastuvat ja köyhät köyhtyvät.
 deu	fin	Die Sache verhält sich etwas anders.	Asia ei aivan ole noin.
 deu	fin	Die Schule hat heute Spaß gemacht.	Koulussa oli kivaa tänään.
+deu	fin	Diese alte Mauer ist von Hand zusammengesetzt worden.	Tämä vanha muuri on koottu käsin.
 deu	fin	Diese Arbeit erfordert viel Kraft.	Se työ vaatii paljon voimaa.
+deu	fin	Diese Blume duftet sehr.	Tämä kukka tuoksuu voimakkaalta.
+deu	fin	Diese Blume ist die schönste aller Blumen.	Tämä kukka on kaunein kaikista kukista.
+deu	fin	Diese Blume ist die schönste von allen Blumen.	Tämä kukka on kaunein kaikista kukista.
 deu	fin	Diese Blume riecht gut.	Tämä kukka tuoksuu hyvältä.
 deu	fin	Diese Bücher kann ich empfehlen.	Näitä kirjoja voin suositella.
 deu	fin	Diese Fabrik produziert 500 Autos am Tag.	Tämä tehdas tuottaa 500 autoa päivässä.
 deu	fin	Diese Fahrkarte ist ab dem Kauf nur zwei Tage lang gültig.	Tämä matkalippu on voimassa vain kaksi päivää ostosta.
+deu	fin	Diese Frage höre ich tatsächlich oft.	Sen kysymyksen kuulen itse asiassa usein.
+deu	fin	Diese Frage höre ich tatsächlich oft.	Tuon kysymyksen kuulen itse asiassa usein.
 deu	fin	Diese Kiste ist zu schwer, ich könnte sie nicht allein anheben.	Tämä laatikko on liian painava, jotta voisin nostaa sen yksin.
 deu	fin	Diese Kreuzung ist gefährlich.	Tämä risteys on vaarallinen.
 deu	fin	Diesem Verein gehören 50 Mitglieder an.	Tähän klubiin kuuluu viisikymmentä jäsentä.
+deu	fin	Diesen Sommer fahren wir in die Berge und an die See.	Tänä kesänä menemme vuorille ja merelle.
+deu	fin	Diesen Sommer fahren wir in die Berge und ans Meer.	Tänä kesänä menemme vuorille ja merelle.
+deu	fin	Diesen Sommer fahren wir ins Gebirge und an die See.	Tänä kesänä menemme vuorille ja merelle.
+deu	fin	Diesen Sommer fahren wir ins Gebirge und ans Meer.	Tänä kesänä menemme vuorille ja merelle.
 deu	fin	Diesen Sommer ist es schrecklich heiß.	Tänä kesänä on hirveän kuuma.
 deu	fin	Diesen Sommer ist es schrecklich kalt.	Tänä kesänä on hirveän kylmä.
 deu	fin	Dieser Baum trägt eine Menge guter Früchte.	Tämä puu tuottaa paljon hyviä hedelmiä.
@@ -396,23 +506,37 @@ deu	fin	Dies ist mein Computer.	Tämä on tietokoneeni.
 deu	fin	Dies ist meine einzige Kamera.	Tämä on ainoa kamerani.
 deu	fin	Dies ist mein Zimmer.	Tämä on minun huoneeni.
 deu	fin	Die Sterne prangen am Firmament.	Tähdet tuikkivat taivaankannella.
+deu	fin	Die Temperatur misst man mit einem Thermometer.	Lämpötilaa mitataan lämpömittarilla.
+deu	fin	Die Türen sind offen.	Ovet on auki.
 deu	fin	Die Tür geht nicht auf.	Ovi ei aukea.
 deu	fin	Die Ursache des Unfalls ist ungeklärt.	Onnettomuuden syy on epäselvä.
+deu	fin	Die USA sind der böse Zwilling Kanadas.	USA on Kanadan paha kaksonen.
 deu	fin	Die Vereinten Nationen sind eine internationale Organisation.	Yhdistyneet kansakunnat on kansainvälinen järjestö.
 deu	fin	Die Vögel singen.	Linnut laulavat.
 deu	fin	Die Vorstellung war echt gut. Es hätte sich auch für dich gelohnt.	Näytelmä oli tosi hauska. Voi kunpa sinäkin olisit ollut siellä.
 deu	fin	Die Wahrheit ist, dass ich gelogen habe.	Totuus on että valehtelin.
 deu	fin	Die Wände haben Ohren.	Seinillä on korvat.
 deu	fin	Die Wellen verschluckten das Boot.	Aallot nielaisivat veneen.
+deu	fin	Die Welt ist ein Buch und jeder Schritt öffnet eine Seite.	Maailma on kirja ja jokainen askel avaa sivun.
+deu	fin	Die Welt ist krank.	Maailma on sairas.
+deu	fin	Die Welt ist schlecht.	Maailma on paha.
 deu	fin	Die Wohnung ist langgestreckt.	Asunto on pitkänomainen.
 deu	fin	Die Zeit ist sehr schnell vergangen.	Aika on kulunut nopeasti.
 deu	fin	Die Zeit vergeht zu schnell.	Aika kuluu liian nopeasti!
 deu	fin	Doch, ich heiße Tom.	Kyllä, nimeni on Tom.
 deu	fin	Doch, mein Name ist Tom.	Kyllä, nimeni on Tom.
+deu	fin	Dorthin fahre ich mit dem Fahrrad.	Minä pyöräilen sinne.
 deu	fin	Dort stand weinend ein Mädchen.	Tyttö seisoi siellä itkien.
+deu	fin	Draußen war es schon dunkel.	Ulkona oli jo pimeää.
+deu	fin	Drücke im Notfall diese Taste.	Hätätilassa paina tätä painiketta.
+deu	fin	Drück im Notfall diese Taste.	Hätätilassa paina tätä painiketta.
 deu	fin	Du bist auch Karelierin.	Sinäkin olet karjalainen.
 deu	fin	Du bist auch Karelier.	Sinäkin olet karjalainen.
 deu	fin	Du bist die einzige Person, der ich vertrauen kann.	Olet ainoa, johon voin luottaa.
+deu	fin	Du bist eine gute Kundin.	Olet hyvä asiakas.
+deu	fin	Du bist eine gute Kundin.	Sinä olet hyvä asiakas.
+deu	fin	Du bist ein guter Kunde.	Olet hyvä asiakas.
+deu	fin	Du bist ein guter Kunde.	Sinä olet hyvä asiakas.
 deu	fin	Du bist ein gutes Kind, Tom.	Olet hyvä lapsi, Tom.
 deu	fin	Du bist ein Mensch.	Sinä olet ihminen.
 deu	fin	Du bist ein Träumer.	Olet haaveilija.
@@ -422,13 +546,24 @@ deu	fin	Du bist nicht der Einzige, der in Maria verliebt ist.	Et ole ainoa, joka
 deu	fin	Du bist nicht der Einzige, der mit Tom Schwierigkeiten hatte.	Et ole ainoa, jolla on ollut ongelmia Tomin kanssa.
 deu	fin	Du bist so sympathisch.	Sinä olet niin mukava.
 deu	fin	Du bist umwerfend.	Olet tyrmäävä.
+deu	fin	Du bist unsere sechste Kundin!	Olet meidän kuudes asiakkaamme!
+deu	fin	Du bist unsere sechste Kundin!	Sinä olet meidän kuudes asiakkaamme!
+deu	fin	Du bist unser sechster Kunde!	Olet meidän kuudes asiakkaamme!
+deu	fin	Du bist unser sechster Kunde!	Sinä olet meidän kuudes asiakkaamme!
 deu	fin	Du brauchst bei der heutigen Besprechung nicht dabei zu sein.	Sinua ei tarvita päivän kokouksessa.
 deu	fin	Du brauchst dich nicht sofort zu entscheiden.	Sinun ei tarvitse päättää juuri nyt.
 deu	fin	Du brauchst nicht zu sprechen.	Sinun ei tarvitse puhua.
 deu	fin	Du darfst die Kunstwerke nicht berühren.	Et saa koskea taideteoksiin.
 deu	fin	Du darfst nicht in die Küche kommen.	Et saa tulla keittiöön.
+deu	fin	Du darfst nicht vergessen, dass er viel jünger ist als du.	Sinun on muistettava, että hän on paljon sinua nuorempi.
+deu	fin	Du darfst nicht vergessen, dass sie viel jünger ist als du.	Sinun on muistettava, että hän on paljon sinua nuorempi.
 deu	fin	Du darfst nicht zunehmen.	Et saa lihoa.
+deu	fin	Du gehörst zur nächsten Generation.	Kuulut seuraavaan sukupolveen.
 deu	fin	Du hast die richtige Entscheidung getroffen.	Teit oikean ratkaisun.
+deu	fin	Du hast eigentlich ganz recht.	Olet itse asiassa aivan oikeassa.
+deu	fin	Du hast eigentlich ganz Recht.	Olet itse asiassa aivan oikeassa.
+deu	fin	Du hast eigentlich vollkommen recht.	Olet itse asiassa täysin oikeassa.
+deu	fin	Du hast eigentlich vollkommen Recht.	Olet itse asiassa täysin oikeassa.
 deu	fin	Du hast gut reden!	Sinun kelpaa puhua!
 deu	fin	Du hast keine Ahnung, wie viel das mir bedeutet.	Sinulla ei ole aavistustakaan kuinka paljon se merkitsee minulle.
 deu	fin	Du hast mehr verdient.	Sinä ansaitset enemmän.
@@ -437,6 +572,10 @@ deu	fin	Du hast nicht zufällig noch die Zeitung vom letzten Sonnabend?	Ei sinul
 deu	fin	Du hast noch viel zu lernen.	Sinulla on paljon opittavaa.
 deu	fin	Du hast Recht. Ich werde ein Taxi nehmen.	Olet oikeassa. Menen taksilla.
 deu	fin	Du hast Talent.	Sinä olet lahjakas.
+deu	fin	Du hast tatsächlich ganz recht.	Olet itse asiassa aivan oikeassa.
+deu	fin	Du hast tatsächlich ganz Recht.	Olet itse asiassa aivan oikeassa.
+deu	fin	Du hast tatsächlich vollkommen recht.	Olet itse asiassa täysin oikeassa.
+deu	fin	Du hast tatsächlich vollkommen Recht.	Olet itse asiassa täysin oikeassa.
 deu	fin	Du hast Tom zum Weinen gebracht.	Sait Tomin itkemään.
 deu	fin	Du hast vielleicht davon gehört.	Olet saattanut kuulla siitä.
 deu	fin	Du hattest einen langen Tag.	Sinulla oli pitkä päivä.
@@ -448,6 +587,8 @@ deu	fin	Du kannst gut mit Menschen umgehen.	Olet hyvä ihmisten kanssa.
 deu	fin	Du kannst gut mit Menschen umgehen.	Osaat käsitellä ihmisiä hyvin.
 deu	fin	Du kannst mein Büro benutzen.	Voit käyttää toimistoani.
 deu	fin	Du kannst Tom nicht davon abhalten, heute arbeiten zu gehen.	Et voi estää Tomia menemästä töihin tänään.
+deu	fin	Du kannst vorgehen. Wir kommen nach.	Voit mennä edellä. Tulemme perässä.
+deu	fin	Du kannst vorgehen. Wir kommen nach.	Voit mennä edeltä. Tulemme perästä.
 deu	fin	Du kriegst den Bus noch, wenn du dich beeilst.	Ehdit bussiin jos kiiruhdat.
 deu	fin	Du machst meinen ganzen Plan zunichte.	Pilaat koko suunnitelmani.
 deu	fin	Du magst Englisch, nicht wahr?	Pidät englannista, eikö totta?
@@ -459,6 +600,8 @@ deu	fin	Du musst ein bisschen abnehmen.	Sinun täytyy pudottaa painoa.
 deu	fin	Du musst es selbst machen.	Sinun täytyy tehdä se itse.
 deu	fin	Du musst Geduld haben.	Sinun täytyy olla kärsivällinen.
 deu	fin	Du musst gehen.	Sinun täytyy mennä.
+deu	fin	Du musst immer daran denken, dass er viel jünger ist als du.	Sinun on pidettävä mielessäsi, että hän on paljon sinua nuorempi.
+deu	fin	Du musst immer daran denken, dass sie viel jünger ist als du.	Sinun on pidettävä mielessäsi, että hän on paljon sinua nuorempi.
 deu	fin	Du musst öfter mal rausgehen.	Sinun tarvitsee päästä enemmän ulos talosta.
 deu	fin	Du musst versuchen, dich zu entspannen.	Sinun täytyy yrittää rentoutua.
 deu	fin	Du neigst zu Flüchtigkeitsfehlern.	Sinulla on taipumusta huolimattomuusvirheisiin.
@@ -480,6 +623,9 @@ deu	fin	Du solltest sie nicht verachten, nur weil sie eine schlechte Handschrift
 deu	fin	Du sprichst fließend Englisch.	Puhut sujuvaa englantia.
 deu	fin	Du verstehst mich.	Sinä ymmärrät minua.
 deu	fin	Du warst ein Dummkopf.	Olit pöhkö.
+deu	fin	Du weißt, dass ich anders bin.	Sinä tiedät minun olevan erilainen.
+deu	fin	Du weißt, dass ich anders bin.	Tiedät että olen erilainen.
+deu	fin	Du weißt, dass ich anders bin.	Tiedät minun olevan erilainen.
 deu	fin	Du weißt, dass ich es hasse.	Sinä tiedät, että vihaan sitä.
 deu	fin	Du weißt, was ich brauche.	Tiedät mitä tarvitsen.
 deu	fin	Du willst es nicht wissen.	Et halua tietää sitä.
@@ -494,6 +640,7 @@ deu	fin	Eine globale Krise steht unmittelbar bevor.	Globaali kriisi on käsillä
 deu	fin	Eine Gruppe Heranwachsender hat mir Geld geraubt.	Teinijoukko ryösti minulta rahat.
 deu	fin	Ein Eishockey-Puck ist nicht kugelförmig.	Jääkiekkokiekko ei ole pallo.
 deu	fin	Eine Mannschaft besteht aus elf Spielern.	Joukkue muodostuu yhdestätoista pelaajasta.
+deu	fin	Eine Mundharmonika ist ein gutes Geschenk.	Huuliharppu on hyvä lahja.
 deu	fin	Einen Geheimgang gibt es.	Salareitti on olemassa.
 deu	fin	Eine Reise nach Amerika kommt nicht in Frage.	Matka Amerikkaan ei tule kysymykseenkään.
 deu	fin	Einer meiner Koffer fehlt.	Yksi laukuistani puuttuu
@@ -503,6 +650,8 @@ deu	fin	Eines Tages werden wir alle sterben müssen.	Jonain päivänä meidän k
 deu	fin	Eines Tages wirst du die Wahrheit erfahren.	Jonain päivänä sinä tiedät totuuden.
 deu	fin	Eines Tages wirst du die Wahrheit kennen.	Jonain päivänä sinä tiedät totuuden.
 deu	fin	Eine Woche später war er tot.	Viikkoa myöhemmin hän oli kuollut.
+deu	fin	Ein Feigling bleibt ein Feigling, auch wenn man ihn in Butter brät.	Pelkuri on pelkuri vaikka voissa paistaisi.
+deu	fin	Ein Feigling bleibt ein Feigling, selbst wenn man ihn in Butter brät.	Pelkuri on pelkuri vaikka voissa paistaisi.
 deu	fin	Ein Geheimgang existiert.	Salareitti on olemassa.
 deu	fin	Ein Hilfeschrei hallte durch die Nacht.	Avunhuuto kaikui yössä.
 deu	fin	Ein Japaner würde so etwas nie tun.	Japanilainen ei ikinä tekisi sellaista.
@@ -522,6 +671,7 @@ deu	fin	Eisen leitet Wärme ausreichend gut.	Rauta johdattaa lämpöä tarpeeksi
 deu	fin	Emily geht zur Schule.	Emily käy koulua.
 deu	fin	Empfindet ihr alle so?	Tuntuuko teistä kaikista siltä?
 deu	fin	Endlich fand ich sein Haus.	Lopulta löysin hänen talonsa.
+deu	fin	Endlich kam der Frühling.	Vihdoinkin tuli kevät.
 deu	fin	Entschuldige, dass ich zu spät bin.	Anteeksi, että olen myöhässä.
 deu	fin	Entschuldige die Verspätung! Ich habe verschlafen.	Anteeksi, että olen myöhässä. Nukuin liian pitkään.
 deu	fin	Entschuldigen Sie bitte meine Verspätung.	Anteeksi että olen myöhässä.
@@ -532,15 +682,19 @@ deu	fin	Entschuldigt meine Verspätung.	Anteeksi, että olen myöhässä.
 deu	fin	Entschuldigung, dass ich störe.	Anteeksi, että häiritsen.
 deu	fin	Entschuldigung, wie spät ist es?	Anteeksi, mitä kello on?
 deu	fin	Entweder alle oder gar keiner.	Joko kaikki tai ei kukaan.
+deu	fin	Er antwortete innerhalb von zehn Minuten auf alle Fragen.	Hän vastasi kymmenessä minuutissa kaikkiin kysymyksiin.
 deu	fin	Er arbeitete hart.	Hän työskenteli kovasti.
 deu	fin	Er arbeitet in einem Adoptionsbüro.	Hän työskentelee adoptiotoimistossa.
 deu	fin	Er arbeitet jeden Tag außer Sonntags.	Hän työskentelee joka päivä, paitsi sunnuntaisin.
 deu	fin	Er bat um Geld.	Hän pyysi rahaa.
+deu	fin	Er beantwortete innerhalb von zehn Minuten alle Fragen.	Hän vastasi kymmenessä minuutissa kaikkiin kysymyksiin.
 deu	fin	Er begann seine Weltumsegelung in einem Segelboot.	Hän aloitti maailmanympäripurjehduksensa purjeveneellä.
 deu	fin	Er benahm sich schlecht.	Hän käyttäytyi huonosti.
 deu	fin	Er beneidet sie um ihr Talent.	Hän on kateellinen hänen lahjakkuudestaan.
+deu	fin	Er betätigte sich während meines Aufenthalts in Kyoto als Stadtführer.	Hän toimi oppaana ollessani Kiotossa.
 deu	fin	Er braucht das Auto nicht zu waschen.	Ei hänen tarvitse pestä autoa.
 deu	fin	Er brauchte ein halbes Jahr um Finnisch verstehen zu können.	Hän oppi ymmärtämään suomea puolessa vuodessa.
+deu	fin	Er buk eine Pastete.	Hän leipoi piirakan.
 deu	fin	Er dachte darüber nach, wie schnell die Zeit vergeht.	Hän pohdiskeli sitä, miten nopeasti aika kulkee.
 deu	fin	Er erforschte den Regenwald am Amazonas.	Hän tutki Amazonasin sademetsän.
 deu	fin	Er ertrank im Fluss.	Hän hukkui jokeen.
@@ -550,6 +704,13 @@ deu	fin	Er fällte jenen Kirschbaum.	Hän kaatoi tuon kirsikkapuun.
 deu	fin	Er fand eine kaputte Kamera.	Hän löysi rikkinäisen kameran.
 deu	fin	Er fing an, sich zu langweilen.	Häntä alkoi pitkästyttää.
 deu	fin	Er formte den Ton zu einer Kugel.	Hän muotoili savesta kulhon.
+deu	fin	Er fuhr mit Vollgas auf die rote Ampel zu. Schließlich musste er scharf bremsen. Offensichtlich ist Benzin immer noch zu billig.	Hän lähestyi punaisia valoja täydessä vauhdissa. Lopulta hänen täytyi jarruttaa kovasti. Ilmeisesti bensiini on vieläkin liian halpaa.
+deu	fin	Er fuhr mit Vollgas auf die rote Ampel zu. Schließlich musste er scharf bremsen. Offensichtlich ist Benzin immer noch zu billig.	Hän lähestyi punaisia valoja täydessä vauhdissa. Lopulta hänen täytyi jarruttaa kovasti. Ilmeisesti polttoaine on vieläkin liian halpaa.
+deu	fin	Er fuhr mit Vollgas auf die rote Ampel zu. Schließlich musste er scharf bremsen. Offensichtlich ist Benzin immer noch zu billig.	Hän lähestyi punaisia valoja täyttä vauhtia. Lopulta hänen täytyi jarruttaa kovasti. Ilmeisesti bensiini on vieläkin liian halpaa.
+deu	fin	Er fuhr mit Vollgas auf die rote Ampel zu. Schließlich musste er scharf bremsen. Offensichtlich ist Benzin immer noch zu billig.	Hän lähestyi punaisia valoja täyttä vauhtia. Lopulta hänen täytyi jarruttaa kovasti. Ilmeisesti polttoaine on vieläkin liian halpaa.
+deu	fin	Er fuhr mit Vollgas auf die rote Ampel zu. Schließlich musste er scharf bremsen. Offensichtlich ist der Sprit immer noch zu billig.	Hän lähestyi punaisia valoja täydessä vauhdissa. Lopulta hänen täytyi jarruttaa kovasti. Ilmeisesti bensa on vieläkin liian halpaa.
+deu	fin	Er fuhr mit Vollgas auf die rote Ampel zu. Schließlich musste er scharf bremsen. Offensichtlich ist der Sprit immer noch zu billig.	Hän lähestyi punaisia valoja täyttä vauhtia. Lopulta hänen täytyi jarruttaa kovasti. Ilmeisesti bensa on vieläkin liian halpaa.
+deu	fin	Er gab die Hoffnung auf.	Hän luopui toivosta.
 deu	fin	Er genoss in vollen Zügen.	Hän nautti täysin siemauksin.
 deu	fin	Er gießt die Blumen im Sommer jeden Tag.	Hän kastelee kukat joka päivä kesällä.
 deu	fin	Er ging durch den Wald.	Hän käveli metsän halki.
@@ -560,15 +721,19 @@ deu	fin	Er hat blonde Haare.	Hän on vaaleahiuksinen.
 deu	fin	Er hat blonde Haare.	Hän on vaaleatukkainen.
 deu	fin	Er hat blondes Haar.	Hän on vaaleahiuksinen.
 deu	fin	Er hat blondes Haar.	Hän on vaaleatukkainen.
+deu	fin	Er hat die Hoffnung aufgegeben.	Hän luopui toivosta.
 deu	fin	Er hat die Wahrheit gesagt.	Hän sanoi totuuden.
 deu	fin	Er hat doch bestimmt viele Freundinnen.	Hänellä on kai paljon tyttöystäviä.
 deu	fin	Er hat einen Toyota.	Hänellä on Toyota.
+deu	fin	Er hat eine Pastete gebacken.	Hän leipoi piirakan.
 deu	fin	Er hat ein gutes Auge für Kunst.	Hänellä on silmää taiteelle.
 deu	fin	Er hat Geld wie Heu.	Hänellä on rahaa kuin roskaa.
 deu	fin	Er hat gestern den ganzen Tag gearbeitet.	Hän teki töitä koko eilispäivän.
 deu	fin	Er hat ihr einen Hund gekauft.	Hän osti koiran hänelle.
 deu	fin	Er hat in letzter Zeit zugenommen.	Hän on lihonut viime aikoina.
 deu	fin	Er hat keine Freundin.	Hänellä ei ole tyttöystävää.
+deu	fin	Er hat mich vor einer Stunde angerufen.	Hän soitti minulle tunti sitten.
+deu	fin	Er hat mir das neue Wörterbuch gekauft.	Hän osti uuden sanakirjan minulle.
 deu	fin	Er hat mir meine Uhr geklaut.	Hän varasti minun kelloni.
 deu	fin	Er hat Nerven wie Stahl.	Hänellä on teräksiset hermot.
 deu	fin	Er hat nichts begriffen.	Hän ei tajunnut mitään.
@@ -579,10 +744,15 @@ deu	fin	Er hat seine Frau verlassen.	Hän jätti vaimonsa.
 deu	fin	Er hat sich von seiner Freundin getrennt, deshalb versucht er oft, sich umzubringen.	Hän lopetti suhteen tyttöystäväänsä; siksi hän usein yrittää tappaa itsensä.
 deu	fin	Er hat viele Bücher über China geschrieben.	Hän on kirjoittanut monia kirjoja Kiinasta.
 deu	fin	Er hat viele Bücher über China geschrieben.	Hän on kirjoittanut monta kirjaa Kiinasta.
+deu	fin	Er hat viele Gedichte geschrieben.	Hän kirjoitti monia runoja.
 deu	fin	Er hat Wunder vollbracht.	Hän on saanut aikaan ihmeitä.
 deu	fin	Er hat zwei Bücher geschrieben.	Hän kirjoitti kaksi kirjaa.
 deu	fin	Er hört seinen Eltern nicht zu.	Hän ei kuuntele vanhempiaan.
 deu	fin	Erinnerst du dich?	Muistatko sinä?
+deu	fin	Erinnerst du dich noch daran, was letztes Jahr passiert ist?	Muistatko vielä, mitä viime vuonna tapahtui?
+deu	fin	Erinnerst du dich noch, was letztes Jahr passiert ist?	Muistatko vielä, mitä viime vuonna tapahtui?
+deu	fin	Erinnert ihr euch noch daran, was letztes Jahr passiert ist?	Muistatteko vielä, mitä viime vuonna tapahtui?
+deu	fin	Erinnert ihr euch noch, was letztes Jahr passiert ist?	Muistatteko vielä, mitä viime vuonna tapahtui?
 deu	fin	Er ist blond.	Hän on vaaleahiuksinen.
 deu	fin	Er ist blond.	Hän on vaaleatukkainen.
 deu	fin	Er ist Busfahrer.	Hän on bussikuski.
@@ -596,8 +766,10 @@ deu	fin	Er ist ein guter Schüler.	Hän on hyvä oppilas.
 deu	fin	Er ist ein guter Schwimmer.	Hän on hyvä uimari.
 deu	fin	Er ist ein japanischer Junge.	Hän on japanilainen poika.
 deu	fin	Er ist ein junger Student.	Hän on nuori opiskelija.
+deu	fin	Er ist ein Mensch, den wir alle schätzen.	Hän on henkilö, jota me kaikki kunnioitamme.
 deu	fin	Er ist ein schweigsamer Mann.	Hän on vaitelias mies.
 deu	fin	Er ist ein wirklich netter und höflicher junger Mann.	Hän on todella kiva ja kohtelias nuorimies.
+deu	fin	Er ist essen gegangen.	Hän lähti syömään.
 deu	fin	Er ist geistig behindert.	Hän on kehitysvammainen.
 deu	fin	Er ist gekommen, um zu bleiben.	Hän on tullut jäädäkseen.
 deu	fin	Er ist gut im Fußball.	Hän on hyvä jalkapallossa.
@@ -609,6 +781,7 @@ deu	fin	Er ist klug.	Hän on fiksu.
 deu	fin	Er ist krank.	Hän on sairaana.
 deu	fin	Er ist krank.	Hän on sairas.
 deu	fin	Er ist Maler.	Hän on taidemaalari.
+deu	fin	Er ist nicht mehr einsam.	Hän ei ole enää yksinäinen.
 deu	fin	Er ist nicht so alt wie mein Bruder.	Hän ei ole yhtä vanha kuin veljeni.
 deu	fin	Er ist nicht zuhause.	Hän ei ole kotona.
 deu	fin	Er ist sehr krank.	Hän on hyvin sairas.
@@ -624,17 +797,29 @@ deu	fin	Er kann es sich nicht leisten, ein Auto zu kaufen.	Hänellä ei ole vara
 deu	fin	Er kann Gitarre spielen.	Hän osaa soittaa kitaraa.
 deu	fin	Er kann gut Französisch sprechen.	Hän osaa puhua ranskaa hyvin.
 deu	fin	Er kann mir mal im Mondschein begegnen!	Minä hänestä viis välitän!
+deu	fin	Er kann mit mir mitfahren.	Hän voi mennä kanssani.
+deu	fin	Er kann mit mir mitgehen.	Hän voi mennä kanssani.
 deu	fin	Er kaufte ein neues Auto.	Hän osti uuden auton.
+deu	fin	Er kaufte mir das neue Wörterbuch.	Hän osti uuden sanakirjan minulle.
+deu	fin	Er kaufte mir ein neues Wörterbuch.	Hän osti minulle uuden sanakirjan.
+deu	fin	Er kaufte mir ein neues Wörterbuch.	Hän osti uuden sanakirjan minulle.
 deu	fin	Er kommt jeden Moment.	Hän tulee hetken kuluttua.
 deu	fin	Er kommt vielleicht morgen.	Hän tulee ehkä huomenna.
 deu	fin	Er konnte Französisch sprechen.	Hän osasi puhua ranskaa.
 deu	fin	Er küsste mich und dann knallte ich ihm eine.	Hän suuteli minua ja sitten läimäytin häntä.
+deu	fin	Er lebt in der Ukraine.	Hän asuu Ukrainassa.
+deu	fin	Er lebt in der Ukraine.	Se asuu Ukrainas.
+deu	fin	Er lebt ohne Pläne und Ziele.	Hän elää ilman suunnitelmia ja tavoitteita.
+deu	fin	Er lebt ohne Pläne und Ziele.	Hän elää ilman tasoja ja tavoitteita.
 deu	fin	Er lehrt Mathematik sowie Englisch.	Hän opettaa matematiikkaa ja Englantia.
 deu	fin	Er lief so schnell, wie er konnte.	Hän juoksi niin nopeasti kuin pystyi.
+deu	fin	Erlöst uns von dem Bösen.	Päästäkää meidät pahasta.
 deu	fin	Er lügt.	Hän valehtelee!
 deu	fin	Er macht aus einer Mücke einen Elefanten.	Hän tekee kärpäsestä härkäsen.
 deu	fin	Er macht gerne Fotos.	Hän valokuvaa mielellään.
 deu	fin	Er möchte seine Bücher loswerden.	Hän haluaa päästä eroon kirjoistaan.
+deu	fin	Er musste eine hohe Geldbuße entrichten.	Hänet laitettiin maksamaan suuri sakko.
+deu	fin	Er musste eine hohe Geldbuße zahlen.	Hänet laitettiin maksamaan suuri sakko.
 deu	fin	Er nervte mich.	Hän ärsytti minua.
 deu	fin	Er presste seine Lippen auf meine.	Hän painoi huulensa huuliani vasten.
 deu	fin	Er protestiert dagegen, wie ein Kind behandelt zu werden.	Hän vastustaa että häntä kohdellaan kuin lasta.
@@ -650,7 +835,10 @@ deu	fin	Er sah eine Maus.	Hän näki hiiren.
 deu	fin	Er schickte Mary eine Karte.	Hän lähetti kortin Marylle.
 deu	fin	Er schien gute Laune zu haben.	Hän tuntui olevan hyvällä tuulella.
 deu	fin	Er schlich um das Haus zur Hintertür.	Hän hiippaili talon ympäri takaovelle.
+deu	fin	Er schlug dem Kunden vor, sich einen blauen Schlips zu kaufen.	Hän ehdotti asiakkaalle, että tämä voisi ostaa sinisen kravatin.
+deu	fin	Er schlug dem Kunden vor, sich einen blauen Schlips zu kaufen.	Hän ehdotti asiakkaalle, että tämä voisi ostaa sinisen solmion.
 deu	fin	Er schrieb mir einen Brief.	Hän kirjoitti minulle kirjeen.
+deu	fin	Er schrieb viele Gedichte.	Hän kirjoitti monia runoja.
 deu	fin	Er setzte sich neben sie.	Hän istuutui hänen viereensä.
 deu	fin	Er sieht alt aus für sein Alter.	Hän näyttää vanhalta ikäisekseen.
 deu	fin	Er sieht nicht nach einem intelligenten Jungen aus.	Hän ei näytä älykkäältä pojalta.
@@ -670,6 +858,7 @@ deu	fin	Er verschwand in der Menge.	Hän katosi väkijoukkoon.
 deu	fin	Er versuchte, Französisch mit uns zu sprechen.	Hän yritti puhua meille ranskaa.
 deu	fin	Er versuchte, seine Wut zu zügeln.	Hän yritti hillitä suuttumustaan.
 deu	fin	Er war auch in meinem Haus.	Hän oli talossanikin.
+deu	fin	Er war der letzte Kunde.	Hän oli viimeinen asiakas.
 deu	fin	Er war zu jung, um allein zu wohnen.	Hän oli liian nuori elämään yksin.
 deu	fin	Er wiegt siebzig Kilo.	Hän painaa seitsemänkymmentä kiloa.
 deu	fin	Er will dich tot sehen.	Hän tahtoo sinun kuolevan.
@@ -679,19 +868,30 @@ deu	fin	Er wohnt außerhalb der Stadt.	Hän asuu kaupungin ulkopuolella.
 deu	fin	Er wohnte in einem netten Hotel.	Hän yöpyi mukavassa hotellissa.
 deu	fin	Er wohnt in einer Wohnung.	Hän asuu kerrostaloasunnossa.
 deu	fin	Er wohnt mit seinen Eltern zusammen.	Hän asuu vanhempiensa kanssa.
+deu	fin	Er wurde Fünfter im Laufwettbewerb.	Hän tuli viidenneksi juoksukilpailussa.
 deu	fin	Er wurde nicht schlau daraus.	Hän ei saanut tuosta mitään tolkkua.
 deu	fin	Er wurde verdächtigt, ein Spion zu sein.	Häntä epäiltiin vakoilijaksi.
+deu	fin	Erzählen Sie mir von ihm.	Kertokaa minulle hänestä.
+deu	fin	Erzählen Sie mir von ihr.	Kertokaa minulle hänestä.
 deu	fin	Erzähl es keinem!	Älä kerro tätä kenellekään.
+deu	fin	Erzählt mir von ihm.	Kertokaa minulle hänestä.
+deu	fin	Erzählt mir von ihr.	Kertokaa minulle hänestä.
 deu	fin	Er zeichnete auf dem Papier ein Schiff.	Hän piirsi veneen paperiin.
 deu	fin	Er zitiert oft Shakespeare.	Hän siteeraa usein Shakespearea.
 deu	fin	Es betrifft in hohem Maße uns.	Se koskettaa suuressa määrin meitä.
 deu	fin	Es bleibt abzuwarten.	Se jää nähtäväksi.
 deu	fin	Es braucht nur Zeit.	Tarvitaan vain aikaa.
 deu	fin	Es existiert ein Geheimgang.	On olemassa salareitti.
+deu	fin	Es fehlt ein Plan.	Suunnitelma puuttuu.
+deu	fin	Es fehlt ein Plan.	Suunnitelma uupuu.
 deu	fin	Es geht ihm den Umständen entsprechend gut.	Hän voi olosuhteisiin nähden hyvin.
 deu	fin	Es genügt nicht, Gutes zu tun, man muss es auch gut machen.	Ei riitä, että tekee hyvää - se täytyy tehdä myös hyvin.
 deu	fin	Es gibt keinen Gott außer Gott, und Mohammed ist sein Prophet.	Ei ole muuta jumalaa kuin Jumala, ja Muhammed on hänen profeettansa.
+deu	fin	Es gibt keinen Plan.	Suunnitelma puuttuu.
+deu	fin	Es gibt keinen Plan.	Suunnitelma uupuu.
 deu	fin	Es gibt keine Überlebenden.	Henkiinjääneitä ei ole.
+deu	fin	Es gibt kein Europa.	Eurooppaa ei ole.
+deu	fin	Es gibt kein Europa.	Eurooppaa ei ole olemassa.
 deu	fin	Es gibt keine Zufälle.	Sattumia ei ole.
 deu	fin	Es gibt Leute, die die Verfassung ändern wollen.	On ihmisiä, jotka haluavat muuttaa perustuslakia.
 deu	fin	Es gibt nichts umsonst.	Ilmaisia lounaita ei ole.
@@ -699,11 +899,14 @@ deu	fin	Es hagelt.	Sataa rakeita.
 deu	fin	Es hagelt.	Ulkona sataa rakeita.
 deu	fin	Es hängt von der Situation ab.	Se riippuu tilanteesta.
 deu	fin	Es hat sich noch nichts geändert.	Mikään ei ole muuttunut vielä.
+deu	fin	Es herrscht ein Schneesturm.	Pyryttää.
 deu	fin	Es hörte auf zu regnen.	Sade lakkasi.
 deu	fin	Es ist beinahe Zeit, zu gehen.	On melkein aika mennä.
 deu	fin	Es ist eine Kostenfrage.	Se on kustannuskysymys.
+deu	fin	Es ist ein Hut.	Se on hattu.
 deu	fin	Es ist ein Passwort erforderlich.	Salasana vaaditaan.
 deu	fin	Es ist ein schöner Tag.	On kaunis päivä.
+deu	fin	Es ist fast Mittag.	On melkein keskipäivä.
 deu	fin	Es ist heute sehr kalt.	Tänään on hirveän kylmä.
 deu	fin	Es ist höchste Zeit für mich zu gehen.	Minun on jo korkea aika mennä.
 deu	fin	Es ist immerhin ein Job.	Se on kuitenkin työ.
@@ -718,6 +921,7 @@ deu	fin	Es ist nicht gerade ein Geheimnis.	Se ei ole tarkalleen ottaen salaisuus
 deu	fin	Es ist nicht immer leicht, sein Ziel zu erreichen.	Ei ole aina helppoa päästä tavoitteeseensa.
 deu	fin	Es ist nie zu spät für eine Veränderung.	Ei ole koskaan liian myöhäistä muuttua.
 deu	fin	Es ist reine Glückssache.	Se on sattuman varassa.
+deu	fin	Es ist schon 22 Uhr.	On jo kello 22.
 deu	fin	Es ist schon um 7.	Kello on jo seitsemän.
 deu	fin	Es ist schrecklich anzusehen.	Se on kauheaa katsella.
 deu	fin	Es ist sehr komisch.	Se on todella outoa.
@@ -732,6 +936,9 @@ deu	fin	Es ist zu erwarten.	Se on odotettavissa.
 deu	fin	Es ist zu klein.	Se on liian pieni.
 deu	fin	Es ist zwar bewölkt, aber es regnet nicht.	On pilvistä, mutta ei sada.
 deu	fin	Es kann sein, dass du Tom dort triffst.	Saatat nähdä Tomin siellä.
+deu	fin	Es kann sein, dass er nicht kommen kann.	Voi olla, ettei hän voi tulla.
+deu	fin	Es kann sein, dass sie nicht kommen kann.	Voi olla, ettei hän voi tulla.
+deu	fin	Es kann Wochen oder Monate dauern.	Se voi kestää viikkoja tai kuukausia.
 deu	fin	Es kostet ein Vermögen.	Se maksaa maltaita.
 deu	fin	Es regnet.	Sataa vettä.
 deu	fin	Es scheint alles in Ordnung zu sein.	Kaikki vaikuttaa olevan kunnossa.
@@ -754,14 +961,25 @@ deu	fin	Es war einmal ein kleines Mädchen, hübsch und zierlich, doch es war ar
 deu	fin	Es waren einmal ein armer, alter Mann und eine reiche Frau.	Elipä päivänä muutamana köyhä vanha mies ja rikas nainen.
 deu	fin	Es war keine große Sache.	Se ei ollut mikään iso juttu.
 deu	fin	Es war mir eine Freude, mit Ihnen zusammenzuarbeiten!	On ollut ilo työskennellä kanssasi.
+deu	fin	Es war nicht klar, was er sagen wollte.	Ei ollut selvää, mitä hän halusi sanoa.
+deu	fin	Es war nicht klar, was sie sagen wollte.	Ei ollut selvää, mitä hän halusi sanoa.
 deu	fin	Es war nicht meine Schuld.	Se ei ollut minun syytäni.
 deu	fin	Es war nicht Tom derjenige, der das Lagerfeuer entzündete.	Ei se ollut Tom joka sytytti leiritulen.
 deu	fin	Es war schon zu spät.	Oli jo liian myöhäistä.
 deu	fin	Es war sehr günstig.	Se oli tosi halpa.
+deu	fin	Es war so dunkel, dass sie kaum etwas sahen.	Oli niin pimeää, että he tuskin näkivät.
+deu	fin	Es war so dunkel, dass sie kaum etwas sahen.	Oli niin pimeää, että ne tuskin näkivät.
+deu	fin	Es war so dunkel, dass sie kaum sehen konnten.	Oli niin pimeää, että he tuskin näkivät.
+deu	fin	Es war so dunkel, dass sie kaum sehen konnten.	Oli niin pimeää, että ne tuskin näkivät.
 deu	fin	Es wartet Arbeit auf dich.	Sinulla on töitä tehtävänä.
 deu	fin	Es wehte ein sanfter Wind.	Lempeä tuuli puhalsi.
+deu	fin	Es weiß ja keiner, dass du hier bist. Sorge dich also nicht!	Eihän sitä kukaan tiedä, että olet täällä. Älä siis murehdi!
 deu	fin	Es wird dir gefallen.	Sinä tulet pitämään siitä.
 deu	fin	Euer Leben könnte in Gefahr sein.	Henkenne saattavat olla vaarassa.
+deu	fin	Fahre nicht über diese Brücke.	Älä ylitä tätä siltaa.
+deu	fin	Fahr nicht über diese Brücke.	Älä käytä tätä siltaa.
+deu	fin	Fahr nicht über diese Brücke.	Älä ylitä tätä siltaa.
+deu	fin	Fährst du mit dem Bus oder mit der Bahn zur Schule?	Menetkö kouluun bussilla vai junalla?
 deu	fin	Fangen wir nochmal an.	Aloitetaan taas!
 deu	fin	Felicja sieht gerne fern.	Felicja katsoo mielellään televisiota.
 deu	fin	Finden Sie, ich bin hässlich?	Olenko minä sinusta ruma?
@@ -771,21 +989,32 @@ deu	fin	Finnisch ist die Sprache meiner Frau.	Suomi on vaimoni kieli.
 deu	fin	Finnland ist auf der Landkarte.	Suomi on kartalla.
 deu	fin	Finnland ist bekannt für seine Saunas.	Suomi on tunnettu saunoistaan.
 deu	fin	Finnland unterstützt Griechenland schweren Herzens.	Suomi tukee Kreikkaa raskain sydämin.
+deu	fin	Fliegst du oder fährst du mit der Bahn?	Lennätkö vai menetkö junalla?
 deu	fin	Frag nicht.	Älä kysy!
+deu	fin	Frag nicht, denk selbst.	Älä utele, ajattele itse.
+deu	fin	Französisch ist nicht die einzige Sprache, die Tom spricht, wohl aber die einzige, über die er spricht.	Ranska ei ole ainoa kieli, jota Tom puhuu, vaan ainoa kieli, josta hän puhuu.
 deu	fin	Frau Wood war sehr erfahren beim Kochen.	Rouva Woods oli todella hyvä laittamaan ruokaa.
 deu	fin	Früher oder später wird er mir alles erzählen.	Hän kertoo kaiken minulle ennemmin tai myöhemmin.
 deu	fin	Füge keine urheberrechtlich geschützten Sätze hinzu.	Älä lisää lauseita, jotka ovat peräisin tekijänoikeussuojatuista lähteistä.
 deu	fin	Füge keine urheberrechtlich geschützten Sätze hinzu.	Älä lisää lauseita tekijänoikeudella suojatuista lähteistä.
+deu	fin	Fürchte dich nicht so.	Älä pelkää niin.
+deu	fin	Fürchtet euch nicht so.	Älkää peljätkö niin.
 deu	fin	Für dieses Problem gibt es keine einfache Lösung.	Tähän ongelmaan ei ole ole yksinkertaista ratkaisua.
 deu	fin	Für mich klingt es nicht dumm.	Se ei kuulosta minusta typerältä.
 deu	fin	Für weitere Details wenden Sie sich bitte an meinen Vorgesetzten.	Jos haluat lisätietoja siitä, sinun täytyy kysyä pomoltani.
 deu	fin	Ganz plötzlich fing es zu regnen an.	Aivan yhtäkkiä alkoi sataa.
+deu	fin	Ganz zufällig habe ich meinen alten Freund am Flughafen getroffen.	Täysin sattumalta tapasin vanhan ystäväni lentokentällä.
 deu	fin	Gebrannte Kinder scheuen das Feuer.	Palanut lapsi pelkää tulta.
+deu	fin	Geduld zahlt sich aus.	Kärsivällisyys saa palkkansa.
 deu	fin	Gefällt dir dieser Garten?	Pidätkö tästä puutarhasta?
 deu	fin	Gefällt dir Toms Tätowierung?	Tykkäätkö Tomin tatskasta?
+deu	fin	Geh bitte nicht zu schnell.	Ethän kävele liian lujaa.
 deu	fin	Geh diese Straße lang und bieg bei der Bank nach rechts ab.	Kulje pitkin tätä katua ja käänny oikealle pankin kohdalla.
 deu	fin	Gehen wir ein wenig an der Küste spazieren!	Mennäänpä vähän kävelemään merenrantaan.
 deu	fin	Geh hin und wecke Tom!	Mene herättäämään Tom.
+deu	fin	Geh nicht über diese Brücke.	Älä käytä tätä siltaa.
+deu	fin	Geh nicht über diese Brücke.	Älä mene tämän sillan yli.
+deu	fin	Geh nicht über diese Brücke.	Älä ylitä tätä siltaa.
 deu	fin	Geh schnell heim!	Mene kipinkapin kotiin.
 deu	fin	Geht deine Uhr richtig?	Onko kellosi oikeassa?
 deu	fin	Geh und mach deine Hausaufgaben!	Mene tekemään läksysi.
@@ -809,14 +1038,20 @@ deu	fin	Gibt es eine kleinere Größe?	Olisiko pienempää kokoa?
 deu	fin	Gibt es etwas, was du mir sagen willst?	Onko jotain mitä haluat kertoa minulle?
 deu	fin	Gibt es hier irgendwelche Lebensmittel, aus denen man schnell ein Gericht zubereiten kann?	Onko täällä jotain ruokaa, jota saa valmistettua nopeasti.
 deu	fin	Gibt es in der Nähe des Bahnhofs eine Bank?	Onko aseman lähellä pankkia?
+deu	fin	Gibt es jemanden, dessen Muttersprache Esperanto ist?	Onko kenenkään äidinkieli esperanto?
 deu	fin	Gibt es Überlebende?	Selvisikö kukaan hengissä?
 deu	fin	Glaube mir.	Usko minua.
 deu	fin	Glaubst du, du hast Fieber?	Luuletko, että sinulla on kuumetta?
 deu	fin	Gordon interessiert sich für die japanische Lebensart.	Japanilainen elämänmuoto kiinnostaa Gordonia.
 deu	fin	Greta geht zur Botschaft.	Greta menee suurlähetystöön.
+deu	fin	Guckt mich an, wenn ich mit euch rede!	Katsokaa minua, kun minä puhun teille!
+deu	fin	Guckt mich an, wenn ich mit euch spreche!	Katsokaa minua, kun minä puhun teille!
 deu	fin	Gute Besserung!	Pikaista paranemista!
 deu	fin	Gute Fahrt!	Hyvää matkaa!
 deu	fin	Guten Abend, wie geht's?	Hyvää iltaa, mitä kuuluu?
+deu	fin	Gute Nacht und schlaf gut.	Hyvää yötä ja nuku hyvin.
+deu	fin	Guten Morgen Ana! Wie gehts?	Hyvää huomenta Ana! Miten menee?
+deu	fin	Guten Morgen, Prinzessin!	Hyvää huomenta, prinsessa.
 deu	fin	Guten Morgen. Wie geht's?	Huomenta, miten menee?
 deu	fin	Guten Morgen. Wie geht's?	Hyvää huomenta, mitä kuuluu?
 deu	fin	Guten Tag, gnädige Frau!	Hyvää päivää, armon rouva.
@@ -832,13 +1067,26 @@ deu	fin	Haben Sie es eilig?	Onko sinulla kiire?
 deu	fin	Haben Sie Gitarre spielen gelernt?	Oletteko oppinut soittamaan kitaraa?
 deu	fin	Haben Sie Kleingeld?	Onko sinulla pikkurahaa?
 deu	fin	Haben wir uns nicht schon einmal getroffen?	Emmekö ole tavanneet aikaisemmin?
+deu	fin	Hab nicht so eine Angst.	Älä pelkää niin.
+deu	fin	Habt ihr als Kind schwimmen gelernt?	Opitteko lapsena uimaan?
+deu	fin	Habt ihr das nicht gehört?	Ettekö kuulleet tuota?
+deu	fin	Habt ihr das nicht gehört?	Ettekö kuullut?
+deu	fin	Habt ihr ein nagelneues Auto gekauft?	Oletteko ostaneet upouuden auton?
+deu	fin	Habt ihr ein nagelneues Auto gekauft?	Oletteko te ostaneet upouuden auton?
+deu	fin	Habt ihr euch ein nagelneues Auto gekauft?	Oletteko ostaneet upouuden auton?
+deu	fin	Habt ihr euch ein nagelneues Auto gekauft?	Oletteko te ostaneet upouuden auton?
+deu	fin	Habt nicht so eine Angst.	Älkää peljätkö niin.
 deu	fin	Hallo. Bist du Jackie Scott?	Terve. Oletko sinä Jackie Scott?
 deu	fin	Hallo, bist du Tom?	Hei, oletko sinä Tom?
+deu	fin	Halt den Wagenheber!	Pidä tunkkis!
 deu	fin	Halt's Maul!	Suu kiinni!
 deu	fin	Halt's Maul!	Turpa kiinni!
 deu	fin	Hältst du mich für einen Dummkopf?	Pidätkö minua ihan idioottina?
 deu	fin	Hasst du mich?	Vihaatko sinä minua?
 deu	fin	Hast du Akrophobie?	Pelkäätkö korkeita paikkoja?
+deu	fin	Hast du als Kind schwimmen gelernt?	Opitko lapsena uimaan?
+deu	fin	Hast du das nicht gehört?	Etkö kuullut?
+deu	fin	Hast du das nicht gehört?	Etkö kuullut tuota?
 deu	fin	Hast du deine Schlüssel gefunden?	Löysitkö avaimesi?
 deu	fin	Hast du die Kartoffeln mit Schale gekocht?	Keititkö perunat kuorineen?
 deu	fin	Hast du eine Klimaanlage?	Onko sinulla ilmastointilaitetta?
@@ -860,16 +1108,25 @@ deu	fin	Hast du sie schon um Entschuldigung gebeten?	Oletko jo pyytänyt anteeks
 deu	fin	Hast du Tom etwas davon erzählt?	Puhuitko siitä Tomille?
 deu	fin	Hast du Tom gefragt?	Kysyitkö Tomilta?
 deu	fin	Hast du vergessen, Eier zu kaufen?	Unohditko ostaa munia?
+deu	fin	Hast du Wanderschuhe?	Onko sinulla vaelluskengät?
 deu	fin	Hat deine Mutter das gemacht?	Onko äitisi tehnyt sen?
 deu	fin	Hat er unsere Einladung angenommen?	Hyväksyikö hän kutsumme?
 deu	fin	Hat euer Land Atomwaffen?	Onko teidän maallanne ydinaseita?
 deu	fin	Hat sie das Buch schon ausgelesen?	Onko hän jo lukenut kirjan?
+deu	fin	Hätte ich den Film doch gesehen!	Olisinpa katsonut sen elokuvan.
+deu	fin	Hätte ich den Film doch nur gesehen!	Olisinpa katsonut sen elokuvan.
 deu	fin	Hätte ich dich doch um Rat gefragt!	Kunpa olisin kysynyt neuvoasi.
+deu	fin	Hätte ich diesen Film doch gesehen!	Olisinpa katsonut sen elokuvan.
+deu	fin	Hätte ich diesen Film doch nur gesehen!	Olisinpa katsonut sen elokuvan.
+deu	fin	Hätte ich doch nur mehr gelernt, als ich jung war.	Olisinpa opiskellut enemmän nuorena.
+deu	fin	Hätte ich doch nur mehr Zeit!	Olisipa minulla enemmän aikaa.
+deu	fin	Hätte ich doch nur viel Geld!	Olisipa minulla paljon rahaa.
 deu	fin	Hättest du das bloß eher gesagt.	Olisitpa sanonut tuon aiemmin.
 deu	fin	Hättest du etwas dagegen, wenn ich dieses Gespräch aufzeichne?	Haittaako sinua, jos nauhoitan tämän keskustelun?
 deu	fin	Hättest du etwas dagegen, wenn ich mich zu dir setze?	Haittaako, jos istun kanssasi?
 deu	fin	Hättest du Lust, mit mir essen zu gehen?	Haluaisitko lähteä syömään kanssani?
 deu	fin	Hat Tom dir vergeben?	Antoiko Tomi sinulle anteeksi?
+deu	fin	Hat Tom wirklich verloren?	Hävisikö Tom tosiaan?
 deu	fin	Heißt du nicht Tom?	Eikö sinun nimesi ole Tom?
 deu	fin	Heraus mit der Sprache!	Sano se suoraan.
 deu	fin	Heraus mit der Wahrheit!	Salat julki!
@@ -885,6 +1142,8 @@ deu	fin	Heute ist Sonntag.	Tänään on sunnuntai.
 deu	fin	Heute Morgen war ich schon schrecklich früh auf den Beinen.	Tänä aamuna olin liikkeellä jo hirveän aikaisin.
 deu	fin	Heute passt es ausgezeichnet.	Tänään passaa.
 deu	fin	Heute war ein schöner Tag.	Tänään oli kaunis päivä.
+deu	fin	Hier gibt es keine Reset-Taste.	Tässä ei ole resettinappia.
+deu	fin	Hier gibt es keine Rückstelltaste.	Tässä ei ole resettinappia.
 deu	fin	Hier ist es echt laut.	Täällä on todella meluisaa.
 deu	fin	Hier ist Ihr Schlüssel.	Tässä avaimenne.
 deu	fin	Hier wird es zu gefährlich.	Asiat ovat käymässä liian vaarallisiksi näillä main.
@@ -907,12 +1166,14 @@ deu	fin	Ich badete gerade, als das Telefon klingelte.	Olin juuri kylvyssä, kun 
 deu	fin	Ich befolge die Anweisungen.	Noudatan ohjeita.
 deu	fin	Ich befürchte, dass dein Plan nicht aufgeht.	Pelkäänpä, ettei suunnitelmasi tule toimimaan.
 deu	fin	Ich begleite dich.	Minä seuraan sinua.
+deu	fin	Ich bekam eine seltsame Nachricht.	Sain oudon viestin.
 deu	fin	Ich bekomme immer Schulterschmerzen, wenn ich laufe.	Minua alkaa aina sattua olkapäähän kun juoksen.
 deu	fin	Ich bereue, dass ich nicht hingegangen bin.	Minua kaduttaa se, etten mennyt sinne.
 deu	fin	Ich beschwere mich nicht.	En valita.
 deu	fin	Ich besuche eine Fahrschule.	Käyn autokoulussa.
 deu	fin	Ich betrachte dich als einen Freund.	Pidän sinua ystävänäni.
 deu	fin	Ich betrachte dich als meinen besten Freund.	Pidän sinua parhaana ystävänäni.
+deu	fin	Ich betrachte mein im See reflektiertes Spiegelbild.	Katselen järvestä heijastuvaa kuvajaistani.
 deu	fin	Ich betrachte Tom als guten Freund.	Pidän Tomia hyvänä ystävänäni.
 deu	fin	Ich bewundere dich.	Ihailen sinua.
 deu	fin	Ich bewundere Pharamp sehr.	Ihailen Pharampia suuresti.
@@ -922,7 +1183,9 @@ deu	fin	Ich bin auf deiner Seite.	Olen puolellasi.
 deu	fin	Ich bin aufgefordert, fleißig zu lernen.	Minulta vaaditaan, että opiskelen hyvin.
 deu	fin	Ich bin daran gewöhnt.	Minä olen tottunut tähän.
 deu	fin	Ich bin derart daran gewöhnt, morgens Kaffee zu trinken, dass ich nicht ohne auskommen könnte.	Olen niin tottunut juomaan kahvia aamulla, etten enää osaa olla sitä ilman.
+deu	fin	Ich bin der gleichen Meinung wie ihr.	Olen samaa mieltä kuin te.
 deu	fin	Ich bin der lebende Beweis, dass man den Tod überwinden kann.	Olen elävä todiste siitä, että kuolema voidaan voittaa.
+deu	fin	Ich bin derselben Meinung wie ihr.	Olen samaa mieltä kuin te.
 deu	fin	Ich bin die Beste.	Minä olen paras.
 deu	fin	Ich bin eifersüchtig.	Olen mustasukkainen.
 deu	fin	Ich bin ein Berliner.	Minä olen berliiniläinen.
@@ -936,14 +1199,22 @@ deu	fin	Ich bin fest davon überzeugt.	Olen täysin vakuuttunut siitä.
 deu	fin	Ich bin froh, dass es funktionierte.	Olen iloinen että se toimi.
 deu	fin	Ich bin froh, dass Tom ok ist.	Olen iloinen että Tom on kunnossa.
 deu	fin	Ich bin froh, dass wir gewartet haben.	Olen iloinen että odotimme.
+deu	fin	Ich bin früher mit ihr zur Schule gegangen.	Menin ennen kouluun hänen kanssaan.
 deu	fin	Ich bin Funkamateur.	Olen radioamatööri.
 deu	fin	Ich bin ganz durcheinander.	Olen aivan poissa tolaltani.
 deu	fin	Ich bin Georg.	Minä olen Yrjö.
 deu	fin	Ich bin gerade mit dem Frühstück fertig geworden.	Söin juuri aamiaiseni loppuun.
 deu	fin	Ich bin gleich wieder da!	Palaan pian.
 deu	fin	Ich bin groß.	Olen pitkä.
+deu	fin	Ich bin heute 13 km gegangen.	Tänään kävelin 13 kilometriä.
 deu	fin	Ich bin Idealist. Ich weiß nicht, wohin ich gehe, aber ich bin auf dem Weg.	Olen idealisti. En tiedä minne olen menossa, mutta olen matkalla.
+deu	fin	Ich bin im Moment in Eile.	Minä olen nykyään kiireinen.
+deu	fin	Ich bin im Wohnzimmer.	Olen olohuoneessa.
 deu	fin	Ich bin in den falschen Bus gestiegen.	Nousin väärään bussiin.
+deu	fin	Ich bin in dieser Hinsicht mit dir einer Meinung.	Olen samaa mieltä kanssasi tästä asiasta.
+deu	fin	Ich bin in dieser Hinsicht mit dir einer Meinung.	Olen sinun kanssasi samaa mieltä tästä asiasta.
+deu	fin	Ich bin in dieser Hinsicht mit dir einer Meinung.	Olen tästä asiasta samaa mieltä kanssasi.
+deu	fin	Ich bin in dieser Hinsicht mit dir einer Meinung.	Olen tästä asiasta samaa mieltä sinun kanssasi.
 deu	fin	Ich bin in einer Stunde wieder zurück.	Palaan takaisin tunnin kuluttua.
 deu	fin	Ich bin in einer Stunde zurück.	Palaan takaisin tunnin kuluttua.
 deu	fin	Ich bin in London.	Olen Lontoossa.
@@ -969,6 +1240,8 @@ deu	fin	Ich bin mir ziemlich sicher, dass ich Arbeit finden werde.	Olen aika var
 deu	fin	Ich bin mir ziemlich sicher, dass ich es erwähnt habe.	Olen melko varma että mainitsin sen.
 deu	fin	Ich bin mit ihr verlobt.	Olen kihloissa hänen kanssaan.
 deu	fin	Ich bin mit Tom verwandt.	Olen sukua Tomille.
+deu	fin	Ich bin momentan in Eile.	Minä olen nykyään kiireinen.
+deu	fin	Ich bin momentan in Eile.	Olen nykyään kiireinen.
 deu	fin	Ich bin morgen nicht hier.	En ole täällä huomenna.
 deu	fin	Ich bin müde. Es war ein langer Tag.	Minua väsyttää. On ollut pitkä päivä.
 deu	fin	Ich bin müde!	Mua väsyttää!
@@ -991,6 +1264,7 @@ deu	fin	Ich bin so beschäftigt, dass ich dir nicht helfen kann.	Minulla on niin
 deu	fin	Ich bin so beschäftigt, dass ich euch nicht helfen kann.	Minulla on niin kiire, etten voi auttaa teitä.
 deu	fin	Ich bin so dick.	Olen hirvittävän lihava.
 deu	fin	Ich bin später als gewöhnlich angekommen.	Saavuin perille tavallista myöhemmin.
+deu	fin	Ich bin stolz darauf, an diesem Projekt beteiligt zu sein.	Olen ylpeä ollessani osa tätä hanketta.
 deu	fin	Ich bin Tatoeba-süchtig.	Minä olen Tatoeba-addikti.
 deu	fin	Ich bin Ungar.	Olen unkarilainen.
 deu	fin	Ich bin verheiratet und habe drei nette Kinder.	Olen naimisissa ja minulla on kolme hienoa lasta.
@@ -1000,9 +1274,11 @@ deu	fin	Ich bin weitsichtig.	Minä olen pitkänäköinen.
 deu	fin	Ich bin wirtschaftlich unabhängig von meinen Eltern.	Olen taloudellisesti riippumaton vanhemmistani.
 deu	fin	Ich bin zu betrunken.	Olen liian humalassa.
 deu	fin	Ich bin zu Hause.	Olen kotona.
+deu	fin	Ich bin zweimal in Kyoto gewesen.	Olen käynyt kahdesti Kiotossa.
 deu	fin	Ich bleibe zu Hause, wenn es morgen regnet.	Jos huomenna sataa, jään kotiin.
 deu	fin	Ich brauche Bedenkzeit.	Tarvitsen harkinta-aikaa.
 deu	fin	Ich brauche eine Kiste von etwa dieser Größe.	Tarvitsen suunnilleen näin ison laatikon.
+deu	fin	Ich brauche einen neuen Verband.	Tarvitsen uuden siteen.
 deu	fin	Ich brauche eine Schere, um dieses Papier zu zerschneiden.	Tarvitsen sakset leikatakseni tämän paperin.
 deu	fin	Ich brauche ein wenig Hilfe.	Tarvitsen vähän apua.
 deu	fin	Ich brauche Geld.	Tarvitsen rahaa.
@@ -1011,6 +1287,7 @@ deu	fin	Ich brauche seine Hilfe.	Minä tarvitsen hänen apuaan.
 deu	fin	Ich brauchte dir nicht zu helfen, machte es aber trotzdem.	Ei minun tarvinnut auttaa sinua mutta tein sen silti.
 deu	fin	Ich bringe das in Ordnung.	Minä järjestän asian.
 deu	fin	Ich bügel meine Taschentücher.	Silitän nenäliinojani.
+deu	fin	Ich dachte, dass du uns vielleicht helfen könntest.	Ajattelin, että ehkäpä voisit auttaa meitä.
 deu	fin	Ich dachte, du wärst zufrieden.	Ajattelin että olisit tyytyväinen.
 deu	fin	Ich dachte, du würdest es mögen.	Uskoin että pitäisit siitä.
 deu	fin	Ich dachte, es wäre ein Witz.	Luulin sen olevan pilaa.
@@ -1018,9 +1295,11 @@ deu	fin	Ich dachte, es würde dich zum Lachen bringen.	Luulin, että se nauratta
 deu	fin	Ich dachte, Tom hätte gesagt, es wäre ein Hund.	Luulin, että Tom sanoi sen olevan koira.
 deu	fin	Ich dachte, Tom wäre tot.	Luulin Tomin olevan kuollut.
 deu	fin	Ich denke ab und zu daran.	Ajattelen sitä silloin tällöin.
+deu	fin	„Ich denke, also bin ich“, sagte René Descartes.	”Ajattelen, siis olen”, sanoi René Descartes.
 deu	fin	Ich denke an dich.	Ajattelen sinua.
 deu	fin	Ich denke, du bist eifersüchtig.	Minun mielestäni olet mustasukkainen.
 deu	fin	Ich denke, ich werde endlich in Rente gehen.	Luulen että lopultakin menen eläkkeelle.
+deu	fin	Ich erinnere mich an dich, wir sind uns vor drei Jahren begegnet.	Muistan sinut, tapasimme kolme vuotta sitten.
 deu	fin	Ich erinnere mich an die Nacht, in der ich die Milchstraße zum ersten Mal sah.	Muistan sen yön, kun ensi kerran näin linnunradan.
 deu	fin	Ich erinnere mich nicht an deinen Namen.	En muista nimeäsi.
 deu	fin	Ich erinnere mich nicht, wohnt Jussi in Helsinki oder in Turku?	En muista, asuuko Jussi Helsingissä vai Turussa?
@@ -1028,16 +1307,32 @@ deu	fin	Ich erkannte einen.	Tunnistin yhden.
 deu	fin	Ich erledige das.	Hoidan tätä.
 deu	fin	Ich erledige meine Arbeitsaufgaben so gut ich es vermag.	Suoritan työtehtäväni niin hyvin kuin kykenen.
 deu	fin	Ich ertrage kein Gedränge.	En siedä tungosta.
+deu	fin	Ich erwarte heute eine Kundin.	Minä odotan tänään asiakasta.
+deu	fin	Ich erwarte heute eine Kundin.	Odotan tänään asiakasta.
 deu	fin	Ich esse gerade einen Apfel.	Syön nyt omenaa.
 deu	fin	Ich esse gerne Drachenfrüchte.	Syön mielelläni lohikäärmehedelmää.
+deu	fin	Ich esse Kartoffelpüree mit Gemüse zum Abendessen.	Minä syön perunamuusia kasvisten kanssa illalliseksi.
+deu	fin	Ich esse Kartoffelpüree mit Gemüse zum Abendessen.	Minä syön perunamuusia kasvisten kanssa iltaruoaksi.
+deu	fin	Ich esse Kartoffelpüree mit Gemüse zum Abendessen.	Minä syön perunamuusia kasvisten kera iltaruoaksi.
+deu	fin	Ich esse Kartoffelpüree mit Gemüse zum Abendessen.	Syön perunamuusia kasvisten kanssa illalliseksi.
+deu	fin	Ich esse Kartoffelpüree mit Gemüse zum Abendessen.	Syön perunamuusia kasvisten kanssa iltaruoaksi.
+deu	fin	Ich esse Kartoffelpüree mit Gemüse zum Abendessen.	Syön perunamuusia kasvisten kera illalliseksi.
+deu	fin	Ich esse Kartoffelpüree mit Gemüse zum Abendessen.	Syön perunamuusia kasvisten kera iltaruoaksi.
 deu	fin	Ich esse.	Minä syön.
+deu	fin	Ich esse weder Schweine- noch Rindfleisch, noch Hühnereier.	En syö porsaan- enkä naudanlihaa enkä kananmunia.
 deu	fin	Ich fahre dich nach Hause.	Heitän sinut kotiin.
 deu	fin	Ich fahre dich nach Hause.	Vien sinut kotiin.
+deu	fin	Ich fahre mit dem Auto durch ein Dorf.	Minä ajan autolla kylän läpi.
+deu	fin	Ich fahre mit dem Fahrrad dorthin.	Minä pyöräilen sinne.
+deu	fin	Ich fahre mit dem Motorrad.	Ajan moottoripyörällä.
+deu	fin	Ich fahre mit dem Motorrad.	Minä ajan moottoripyörällä.
+deu	fin	Ich fahre mit dem Motorrad.	Moottoripyöräilen.
 deu	fin	Ich finde das ganz toll.	Minusta se on tosi hieno.
 deu	fin	Ich finde das Spiel nicht sonderlich lustig.	Minusta tuo peli ei ole kovin hauska.
 deu	fin	Ich finde Fremdsprachen sehr interessant.	Minusta vieraat kielet ovat todella mielenkiintoisia.
 deu	fin	Ich finde meine Aktentasche nicht.	En löydä salkkuani.
 deu	fin	Ich finde meine Handschuhe nicht.	En löydä hansikkaitani.
+deu	fin	Ich finde nicht die richtigen Worte.	En löydä oikeita sanoja.
 deu	fin	Ich fing an zu weinen.	Purskahdin itkemään.
 deu	fin	Ich frage mich, wie das Wetter morgen sein wird.	Millainenhan sää huomenna on?
 deu	fin	Ich fragte mich, ob du heute kommen würdest.	Mietin jo, että oletko tulossa tänään ollenkaan.
@@ -1061,6 +1356,8 @@ deu	fin	Ich gebe auf.	Luovutan.
 deu	fin	Ich gebe dir keine Schuld.	En syytä sinua.
 deu	fin	Ich gehe am Samstag zur Schule.	Menen kouluun lauantaina.
 deu	fin	Ich gehe am Sonnabend zur Schule.	Menen kouluun lauantaina.
+deu	fin	Ich gehe gerade nach Hause.	Olen kävelemässä kotiin.
+deu	fin	Ich gehe gerade zu Fuß nach Hause.	Olen kävelemässä kotiin.
 deu	fin	Ich gehe jetzt.	Menen juuri nyt.
 deu	fin	Ich gehe nach draußen spielen. Kommst du mit?	Menen ulos leikkimään. Tuletko mukaan?
 deu	fin	Ich gehe zum Laden.	Lähden kauppaan.
@@ -1077,6 +1374,8 @@ deu	fin	Ich glaube, Tom könnte dir helfen.	Luulen, että Tom voisi auttaa sinua
 deu	fin	Ich glaube, Tom sagt die Wahrheit.	Luulen, että Tom puhuu totta.
 deu	fin	Ich glaube, Tom war es egal.	Luulen, että Tom ei välittänyt.
 deu	fin	Ich glaube wir sind alle ein bisschen verrückt.	Luulen meitä kaikkia vähän hulluiksi.
+deu	fin	„Ich hab' dir doch gesagt, dass du mich um sieben wecken sollst.“ – „Sorry, hab's vergessen.“	”Mähän sanoin sulle, et herätä mut seittemältä.” ”Sori, unohin.”
+deu	fin	Ich habe auch für Tom etwas zu essen gekauft.	Ostin ruokaa myös Tomille.
 deu	fin	Ich habe bei ihnen gearbeitet.	Olin heillä töissä.
 deu	fin	Ich habe Blumen gekauft, weil ich heute Nachmittag meine Oma besuchen gehe.	Ostin kukkia, koska menen tänään iltapäivällä käymään mummoni luona.
 deu	fin	Ich habe das gleiche Problem, das du hattest.	Minulla on sama ongelma kuin sinulla oli.
@@ -1087,14 +1386,19 @@ deu	fin	Ich habe deine E-Mail im Spam-Ordner gefunden.	Löysin sähköpostisi ro
 deu	fin	Ich habe deinen Brief bekommen.	Olen saanut kirjeesi.
 deu	fin	Ich habe deinen Freund getroffen.	Tapasin ystäväsi.
 deu	fin	Ich habe deine Software aktualisiert.	Olen päivittänyt ohjelmistosi.
+deu	fin	Ich habe den ganzen Nachmittag geschlafen.	Nukuin koko iltapäivän.
 deu	fin	Ich habe den Namen Ihres Bruders vergessen; wie heißt er?	Olen unohtanut veljenne nimen. Mikä hänen nimensä on?
 deu	fin	Ich habe den perfekten Ehemann noch nicht getroffen.	En ole vielä löytänyt täydellistä aviomiestä.
 deu	fin	Ich habe den Satz verbessert.	Olen parannellut lausetta.
 deu	fin	Ich habe dich lange nicht gesehen.	En ole nähnyt sinua aikoihin.
 deu	fin	Ich habe die ganze Woche nichts von Tom gehört.	En ole kuullut Tomista koko viikkona.
 deu	fin	Ich habe die Schachteln selbst gemacht.	Olen tehnyt nämä laatikot itse.
+deu	fin	Ich habe dieses Buch gelesen: Es ist interessant.	Olen lukenut tämän kirjan: Se on mielenkiintoinen.
+deu	fin	„Ich habe dir gesagt, dass du mich um sieben Uhr wecken sollst.“ – „Entschuldigung, das habe ich vergessen.“	”Käskin sinun herättää minut seitsemältä.” ”Anteeksi, unohdin.”
 deu	fin	Ich habe dort drei Monate gearbeitet.	Olen työskennelyt siellä kolme kuukautta.
 deu	fin	Ich habe dort zahlreiche Brieffreunde gewonnen.	Olen saanut sieltä lukuisia kirjekavereita.
+deu	fin	Ich habe durch Zufall meine verlorene Kamera wiedergefunden.	Löysin sattumalta hukkuneen kamerani.
+deu	fin	Ich habe durch Zufall meine verlorene Kamera wiedergefunden.	Minä löysin sattumalta hukkuneen kamerani.
 deu	fin	Ich habe eine andere Idee.	Minulla on toinen ajatus.
 deu	fin	Ich habe eine dumme Frage.	Minulla on typerä kysymys.
 deu	fin	Ich habe eine Frau und Kinder.	Minulla on vaimo ja lapsia.
@@ -1105,7 +1409,9 @@ deu	fin	Ich habe einen Freund in England.	Minulla on ystävä Englannissa.
 deu	fin	Ich habe einen Platz gefunden, wo man günstig Obst kaufen kann.	Löysin paikan, josta voi ostaa halpoja hedelmiä.
 deu	fin	Ich habe einen Salat zu Mittag gegessen.	Söin salaatin päivälliseksi.
 deu	fin	Ich habe einen schwarzen Hund, der Tiki heißt.	Minulla on musta koira nimeltä Tiki.
+deu	fin	Ich habe eine seltsame Nachricht bekommen.	Sain oudon viestin.
 deu	fin	Ich habe eine Stunde auf sie gewartet.	Odotin häntä tunnin verran.
+deu	fin	Ich habe eine Tasse Kaffee gekauft.	Ostin kupin kahvia.
 deu	fin	Ich habe einige schwierige Texte zu übersetzen.	Minulla on pari melko vaikeaa tekstiä käännettävänä.
 deu	fin	Ich habe ein Lied für dich geschrieben.	Sävelsin sinulle laulun.
 deu	fin	Ich habe ein Mädchen mit langen Haaren gesehen.	Näin pitkätukkaisen tytön.
@@ -1113,6 +1419,7 @@ deu	fin	Ich habe ein neues Haus gebaut.	Rakensin uuden talon.
 deu	fin	Ich habe ein normales Sehvermögen.	Minulla on normaali näkö.
 deu	fin	Ich habe ein rotes Fahrrad.	Minulla on punainen pyörä
 deu	fin	Ich habe es dir ja gleich gesagt!	Minähän sanoin sinulle!
+deu	fin	Ich habe es im Moment eilig.	Minulla on nykyään kiireitä.
 deu	fin	Ich habe es mit eigenen Augen gesehen.	Näin sen omin silmin.
 deu	fin	Ich habe es Tom angeboten.	Tarjosin sitä Tomille.
 deu	fin	Ich habe gehört, dass du eine neue Freundin hast.	Kuulin, että sinulla on uusi tyttöystävä.
@@ -1134,7 +1441,10 @@ deu	fin	Ich habe Husten und ein bisschen Fieber.	Minulla on yskä ja vähän kuu
 deu	fin	Ich habe ihm eine Puppe gekauft.	Ostin hänelle nuken.
 deu	fin	Ich habe ihm ein neues Auto gekauft.	Ostin uuden auton hänelle.
 deu	fin	Ich habe ihn seitdem nicht mehr gesehen.	En ole sittemmin nähnyt häntä.
+deu	fin	Ich habe im Zoo ein Zebra gesehen.	Näin seepran eläintarhassa.
 deu	fin	Ich habe in der Schule drei Jahre und auf der Universität zwei Jahre Deutsch gelernt.	Olen lukenut saksaa koulussa kolme ja yliopistossa kaksi vuotta.
+deu	fin	Ich habe Jane zum Abendessen eingeladen.	Kutsuin Janen illalliselle.
+deu	fin	Ich habe Jane zum Abendessen eingeladen.	Minä kutsuin Janen illalliselle.
 deu	fin	Ich habe Kaffee getrunken.	Join kahvia.
 deu	fin	Ich habe keine Lust zu gehen, denn ich sitze hier sehr bequem.	Minua ei huvita lähteä, koska istun tässä varsin mukavasti.
 deu	fin	Ich habe kein Ersatzhemd.	Minulla ei ole varapaitaa.
@@ -1143,6 +1453,8 @@ deu	fin	Ich habe kein Geld mehr in meinem Portemonnaie.	Minulla ei ole enää ra
 deu	fin	Ich habe Konzentrationsprobleme.	Minulla on keskittymisongelmia.
 deu	fin	Ich habe Kopfschmerzen.	Mun pää on kipee.
 deu	fin	Ich habe letzte Nacht eine Dummheit gemacht.	Tein typerän jutun viime yönä.
+deu	fin	Ich habe letzten Freitag den letzten Zug verpasst.	Myöhästyin viimeisestä junasta viime perjantaina.
+deu	fin	Ich habe letzten Freitag den letzten Zug verpasst.	Myöhästyin viime perjantain viimeisestä junasta.
 deu	fin	Ich habe Lust, zu kotzen.	Minua oksettaa.
 deu	fin	Ich habe meine Haare nicht gewaschen.	En ole pessyt hiuksiani.
 deu	fin	Ich habe meine Kraft verloren.	Olen menettänyt voimani.
@@ -1153,6 +1465,7 @@ deu	fin	Ich habe mich immer sehr fürs Programmieren interessiert.	Ohjelmointi o
 deu	fin	Ich habe mich nicht an dem Gespräch beteiligt.	En osallistunut keskusteluun.
 deu	fin	Ich habe mich noch nicht rasiert.	En ole vielä ajanut partaa.
 deu	fin	Ich habe mir diese superschnelle Popcornmaschine als Weihnachtsgeschenk gekauft.	Ostin itselleni joululahjaksi tämän huippunopean popcorn-koneen.
+deu	fin	Ich habe mir eine Tasse Kaffee gekauft.	Ostin kupin kahvia.
 deu	fin	Ich habe mir nicht die Haare gewaschen.	En ole pessyt hiuksiani.
 deu	fin	Ich habe nach ihr gesucht.	Minä etsin häntä.
 deu	fin	Ich habe nicht an der Unterhaltung teilgenommen.	En osallistunut keskusteluun.
@@ -1168,6 +1481,7 @@ deu	fin	Ich habe nur eine Brille.	Minulla on vain yhdet silmälasit.
 deu	fin	Ich habe recht.	Olen oikeassa.
 deu	fin	Ich habe Rick nicht getroffen, seit er aus Neuseeland zurückgekommen ist.	En ole tavannut Rickiä sen jälkeen kun hän palasi Uudesta Seelannista.
 deu	fin	Ich habe schreckliche Kopfschmerzen.	Minulla on kauhea päänsärky!
+deu	fin	Ich habe Tom gebeten, uns heute Nachmittag zu helfen.	Pyysin Tomia auttamaan meitä tänään iltapäivällä.
 deu	fin	Ich habe Tom gerade gesagt, dass ich ihm helfen wollte, die Garage sauberzumachen.	Kerroin juuri Tomille, että halusin auttaa häntä autotallin siivoamisessa.
 deu	fin	Ich habe Tom gesagt, dass Sie sicher gerne davon wüssten.	Kerroin Tomille, että haluaisit tietää.
 deu	fin	Ich habe Tom in Notwehr getötet.	Tapoin Tomin itsepuolustuksena.
@@ -1175,6 +1489,7 @@ deu	fin	Ich habe Tom vor ein paar Minuten gesehen.	Näin Tomin muutama minutti s
 deu	fin	Ich habe wenig Geld.	Minulla on vähän rahaa.
 deu	fin	Ich habe zehn Minuten lang gewartet.	Odotin kymmenen minuuttia.
 deu	fin	Ich habe zu langes Haar.	Minulla on liian pitkä tukka.
+deu	fin	Ich habe zwei Fliegen mit einer Klappe geschlagen.	Iskin kaksi kärpästä yhdellä iskulla.
 deu	fin	Ich hab’s vergessen.	Unohdin.
 deu	fin	Ich halte die Kälte nicht länger aus.	En kestä enää tätä kylmyyttä.
 deu	fin	Ich halte es für gefährlich.	Luulen sen olevan vaarallista.
@@ -1186,6 +1501,7 @@ deu	fin	Ich halte Sie nicht für herzlos.	En usko sinun olevan sydämetön.
 deu	fin	Ich hasse Karaoke.	Inhoan karaokea.
 deu	fin	Ich hätte das Geld nehmen sollen.	Minun olisi pitänyt valita raha.
 deu	fin	Ich hatte die gleichen Probleme.	Minulla oli samat ongelmat.
+deu	fin	Ich hatte ein Motorrad.	Minulla oli moottoripyörä.
 deu	fin	Ich hätte es ohne Ihre Hilfe nicht gekonnt.	Ilman teidän apuanne en olisi voinut tehdä sitä.
 deu	fin	Ich hatte etwa zwanzig Bier getrunken, aber die Polizei hat nicht gemerkt, dass ich blau war und ließ mich laufen.	Join parikymmentä olutta, mutta poliisi ei huomannut, että olin kännissä, ja päästi minut menemään.
 deu	fin	Ich hätte gerade nichts gegen ein Bier.	En panisi nyt pahakseni yhtä olutta.
@@ -1197,8 +1513,11 @@ deu	fin	Ich hatte seit Montag eine Grippe. Jetzt ist das Fieber zwar gesunken, a
 deu	fin	Ich hätte Tom um Rat fragen sollen.	Minun olisi pitänyt kysyä Tomilta neuvoa.
 deu	fin	Ich heiße Ricardo.	Minun nimeni on Ricardo.
 deu	fin	Ich heiße Tom.	Olen Tom.
+deu	fin	Ich hoffe auf eine baldige Antwort.	Toivon pikaista vastausta.
 deu	fin	Ich hoffe, dass alle deine Träume in Erfüllung gehen.	Toivon, että kaikki unelmasi toteutuvat.
+deu	fin	Ich hoffe, dass du mir möglichst bald antwortest.	Toivon, että vastaat minulle mahdollisimman pikaisesti.
 deu	fin	Ich hoffe, dass ich niemanden störe.	Toivottavasti en häiritse ketään.
+deu	fin	Ich hoffe, dass ihr mir möglichst bald antwortet.	Toivon, että vastaatte minulle mahdollisimman pikaisesti.
 deu	fin	Ich hoffe, du begehst keine Dummheit.	Toivon, että et tee jotain typerää.
 deu	fin	Ich hoffe, du hast nichts dagegen.	Toivon ettet välitä.
 deu	fin	Ich hoffe, ihm nicht mehr zu begegnen.	Toivon, etten tapaa häntä enää ikinä.
@@ -1209,15 +1528,18 @@ deu	fin	Ich interessiere mich für Mathematik.	Matematiikka kiinnostaa minua.
 deu	fin	Ich kann Abstände nicht schätzen.	En osaa arvioida etäisyyksiä.
 deu	fin	Ich kann diese Theorie nicht gutheißen.	En voi hyväksyä tätä teoriaa.
 deu	fin	Ich kann dir Geld leihen, wenn du möchtest.	Voin lainata sinulle rahaa jos haluat.
+deu	fin	Ich kann es alleine machen.	Pystyn tehdä sen yksin.
 deu	fin	Ich kann es nicht bestätigen.	En voi vahvistaa tätä.
 deu	fin	Ich kann es nicht finden.	En pysty sitä löytämään.
 deu	fin	Ich kann gehen.	Osaan kävellä.
 deu	fin	Ich kann gut kochen.	Olen hyvä kokki.
 deu	fin	Ich kann heute nicht kommen und morgen auch nicht.	En voi tulla tänään enkä huomennakaan.
+deu	fin	Ich kann jetzt nichts sagen, aber ich sage es dir, sobald ich es allen sagen kann.	En voi sanoa mitään nyt, mutta kerron sinulle heti, kun voin kertoa kaikille.
 deu	fin	Ich kann kein solches Leben führen.	En voi elää sellaista elämää.
 deu	fin	Ich kann kein Wort verstehen.	En pysty ymmärtämään sanaakaan.
 deu	fin	Ich kann mir so eine tolle Kamera, wie du sie hast, nicht leisten.	Minulla ei ole varaa yhtä hyvään kameraan kuin mikä sinulla on.
 deu	fin	Ich kann nicht abstreiten, dass ich mir hin und wieder Sorgen um Liisa mache.	En voi kieltää, ettenkö aina silloin tällöin olisi huolissani Liisasta.
+deu	fin	Ich kann nicht atmen.	En pysty hengittämään.
 deu	fin	Ich kann nicht fahren, ich habe vergessen wie es geht.	En pysty ajamaan, unohdin kuinka.
 deu	fin	Ich kann nicht gut schwimmen.	Olen huono uimaan.
 deu	fin	Ich kann nichts versprechen.	En voi luvata mitään.
@@ -1230,7 +1552,9 @@ deu	fin	Ich kann so ein Leben nicht leben.	En voi elää sellaista elämää.
 deu	fin	Ich kannte die Frau überhaupt nicht.	En tuntenut naista ollenkaan.
 deu	fin	Ich kann Tom in der Küche Geschirr spülen hören.	Voin kuulla Tomin tiskaavan astioita keittiössä.
 deu	fin	Ich kann Tom nicht ansehen.	En voi katsoa Tomia.
+deu	fin	Ich kaufte eine Tasse Kaffee.	Ostin kupin kahvia.
 deu	fin	Ich kaufte mir einen neuen Anzug.	Ostin uuden puvun.
+deu	fin	Ich kaufte mir eine Tasse Kaffee.	Ostin kupin kahvia.
 deu	fin	Ich kenne dich kaum.	Minä hädin tuskin tunnen sinut.
 deu	fin	Ich kenne dich nicht.	En tunne sinua.
 deu	fin	Ich kenne keinen der beiden.	En tunne heistä kumpaakaan.
@@ -1239,6 +1563,7 @@ deu	fin	Ich kenne niemanden in Boston.	En tunne ketään Bostonista.
 deu	fin	Ich kenne sie irgendwoher.	Tunnen hänet jotenkuten
 deu	fin	Ich kenne Sie nicht.	En tunne teitä.
 deu	fin	Ich kenne viele Schüler jener Schule.	Tunnen useita oppilaita siitä koulusta.
+deu	fin	Ich komme aus Frankreich, und du?	Olen kotoisin Ranskasta, entä sinä?
 deu	fin	Ich komme bald wieder.	Tulen pian takaisin.
 deu	fin	Ich komme bald zurück.	Tulen pian takaisin.
 deu	fin	Ich komme gleich.	Tulen aivan kohta.
@@ -1255,12 +1580,21 @@ deu	fin	Ich küsste sie auf die Stirn.	Suutelin häntä otsalle.
 deu	fin	Ich laufe nicht gern.	En pidä juoksemisesta.
 deu	fin	Ich laufe nicht gern.	En tykkää juosta.
 deu	fin	Ich lebe hier.	Asun täällä.
+deu	fin	Ich lebe in der Ukraine.	Asun Ukrainassa.
+deu	fin	Ich lebe in der Ukraine.	Minä asun Ukrainassa.
+deu	fin	Ich lebe in einem Land, in dem ein Liter Benzin billiger ist als ein Liter Wasser.	Asun maassa, jossa litra bensiiniä on halvempi kuin litra vettä.
+deu	fin	Ich lebe in einem Land, in dem ein Liter Benzin billiger ist als ein Liter Wasser.	Asun maassa, jossa litra polttoainetta on halvempi kuin litra vettä.
+deu	fin	Ich lebe in einem Land, in dem ein Liter Benzin billiger ist als ein Liter Wasser.	Minä asun maassa, jossa litra bensiiniä on halvempi kuin litra vettä.
+deu	fin	Ich lebe in einem Land, in dem ein Liter Benzin billiger ist als ein Liter Wasser.	Minä asun maassa, jossa litra polttoainetta on halvempi kuin litra vettä.
 deu	fin	Ich lebe in Europa.	Minä asun Euroopassa.
 deu	fin	Ich legte eine rote Rose auf sein Grab.	Vein hänen haudalleen punaisen ruusun.
 deu	fin	Ich lehne deinen Vorschlag ab.	Hylkään ehdotuksesi.
 deu	fin	Ich lerne durchschnittlich zwei Stunden lang Englisch am Tag.	Opiskelen englantia keskimäärin kaksi tuntia päivässä.
 deu	fin	Ich lerne jeden Tag Englisch.	Opiskelen englantia joka päivä.
 deu	fin	Ich lerne schnell.	Olen nopea oppimaan.
+deu	fin	Ich lerne, weil ich nächste Woche eine Prüfung habe.	Opiskelen, koska ensiviikolla on koe.
+deu	fin	Ich lerne, weil nächste Woche eine Prüfung ist.	Opiskelen, koska ensiviikolla on koe.
+deu	fin	Ich lerne zwei Sprachen.	Minä opettelen kahta kieltä.
 deu	fin	Ich lese jeden Tag die Zeitung, um auf dem Laufenden zu bleiben.	Luen joka päivä sanomalehtiä pysyäkseni ajan tasalla.
 deu	fin	Ich liebe Arabisch.	Rakastan arabiaa.
 deu	fin	Ich liebe dich mehr als alles andere.	Rakastan sinua enemmän kuin mitään muuta.
@@ -1274,14 +1608,18 @@ deu	fin	Ich liebe sie so sehr, dass ich für sie sterben würde.	Rakastan hänt�
 deu	fin	Ich liebe Tee.	Minä rakastan teetä.
 deu	fin	Ich liebe Ziegenkäse.	Rakastan vuohenjuustoa.
 deu	fin	Ich ließ mich scheiden.	Otin avioeron.
+deu	fin	Ich mache mir Sorgen um die Zukunft.	Olen huolissani tulevaisuudesta.
 deu	fin	Ich mag deine Freunde überhaupt nicht.	En yhtään pidä ystävistäsi.
+deu	fin	Ich mag den Frühling mehr als den Sommer.	Pidän enemmän keväästä kuin kesästä.
 deu	fin	Ich mag es, am Wochenende auszuschlafen.	Tykkään nukkua pitkään viikonloppuisin.
 deu	fin	Ich mag es wirklich sehr.	Pidän siitä hyvin paljon.
 deu	fin	Ich mag Kaffee lieber als schwarzen Tee.	Pidän enemmän kahvista kuin mustasta teestä.
+deu	fin	Ich mag Kirschen mehr als Erdbeeren.	Pidän enemmän kirsikoista kuin mansikoista.
 deu	fin	Ich mag sie sehr gerne.	Tykkään hänestä kovasti.
 deu	fin	Ich mische mich da nicht ein.	En sekaannu siihen.
 deu	fin	Ich möchte abnehmen.	Haluan pudottaa painoani.
 deu	fin	Ich möchte bei dir sein, wann immer es möglich ist.	Haluan olla kanssasi aina kuin vain mahdollista.
+deu	fin	Ich möchte das gleiche Wörterbuch, das du hast.	Haluan saman sanakirjan kuin sinulla on.
 deu	fin	Ich möchte, dass du das Fenster öffnest.	Haluan sinun avaavan ikkunan.
 deu	fin	Ich möchte, dass du wieder mein Freund bist.	Haluan sinun taas olevan ystäväni.
 deu	fin	Ich möchte dich nicht heiraten.	En halua mennä naimisiin kanssasi.
@@ -1309,9 +1647,14 @@ deu	fin	Ich muss alle diese Äpfel tragen, von dem Sack Kartoffeln gar nicht zu 
 deu	fin	Ich muss dich an dein Versprechen erinnern.	Minun täytyy muistuttaa sinua lupauksestasi.
 deu	fin	Ich muss dich warnen.	Minun täytyy varoittaa sinua.
 deu	fin	Ich muss die Schule wechseln.	Minun täytyy vaihtaa koulua.
+deu	fin	Ich muss ein paar Sachen erledigen.	Minun pitää tehdä joitakin asioita.
 deu	fin	Ich muss fertig sein, wenn Tom ankommt.	Minun täytyy olla valmiina, kun Tom saapuu.
 deu	fin	Ich muss gehen.	Minun täytyy lähteä.
 deu	fin	Ich muss gehen.	Minun täytyy mennä.
+deu	fin	Ich muss genau herausfinden, was schiefgegangen ist.	Minun täytyy selvittää täsmälleen, mikä meni pieleen.
+deu	fin	Ich muss genau herausfinden, was schiefgelaufen ist.	Minun täytyy selvittää täsmälleen, mikä meni pieleen.
+deu	fin	Ich muss herausfinden, was genau schiefgegangen ist.	Minun täytyy selvittää täsmälleen, mikä meni pieleen.
+deu	fin	Ich muss herausfinden, was genau schiefgelaufen ist.	Minun täytyy selvittää täsmälleen, mikä meni pieleen.
 deu	fin	Ich muss in Bewegung bleiben.	Minun täytyy pysyä liikkeessä.
 deu	fin	Ich muss ins Krankenhaus gehen.	Minun täytyy mennä sairaalaan.
 deu	fin	Ich muss jetzt los.	Minun täytyy lähteä nyt.
@@ -1345,6 +1688,7 @@ deu	fin	Ich sah nicht die Spur eines Lächelns.	En nähnyt hymynhäivääkään.
 deu	fin	Ich saß auf der Bank und wartete.	Istuin penkillä ja odotin.
 deu	fin	Ich saß auf der Bank und wartete.	Istuin penkillä odottamassa.
 deu	fin	Ich schaue sie an.	Minä katson näitä.
+deu	fin	Ich schlief den ganzen Nachmittag.	Nukuin koko iltapäivän.
 deu	fin	Ich schloss mich in meinem Zimmer ein.	Lukitsin itseni huoneeseeni.
 deu	fin	Ich schreibe jeden Tag in mein Tagebuch.	Kirjoitan päiväkirjaani joka päivä.
 deu	fin	Ich schreibe jeden Tag in mein Tagebuch.	Pidän päiväkirjaa päivittäin.
@@ -1364,6 +1708,9 @@ deu	fin	Ich sehe Marika fast jeden Tag.	Näen Marikaa melkein joka päivä.
 deu	fin	Ich sehe sie nirgends.	En näe heitä missään.
 deu	fin	Ich sehe wie Tom aus.	Näytän Tomilta.
 deu	fin	Ich sehe wie Tom aus.	Olen Tomin näköinen.
+deu	fin	Ich spiele Gitarre, aber ich singe nicht.	Soitan kitaraa, mutten laula.
+deu	fin	Ich spreche Estnisch.	Puhun eestiä.
+deu	fin	Ich spreche Estnisch.	Puhun viron kieltä.
 deu	fin	Ich spreche kein Französisch.	En osaa puhua yhtään ranskaa.
 deu	fin	Ich spreche kein Japanisch.	En puhu japania.
 deu	fin	Ich spreche mit Tom.	Puhun Tomin kanssa.
@@ -1374,6 +1721,7 @@ deu	fin	Ich stand da wie ein begossener Pudel.	Olin nolona kuin uitettu koira
 deu	fin	Ich stehe dahinter.	Kannatan asiaa.
 deu	fin	Ich sterbe vor Hunger!	Mä kuolen nälkään!
 deu	fin	Ich suche ein Buch über das mittelalterliche Spanien.	Etsin kirjaa keskiajan Espanjasta.
+deu	fin	Ich suche ein Reisebüro.	Etsin matkailutoimistoa.
 deu	fin	Ich suche für meine Mutter ein Geschenk.	Etsin lahjaa äidilleni.
 deu	fin	Ich suche Tom. Hast du ihn gesehen?	Etsin Tomia. Oletko nähnyt häntä?
 deu	fin	Ich treffe dich dort, sobald ich kann.	Tapaan sinut siellä niin pian kuin voin.
@@ -1383,12 +1731,15 @@ deu	fin	Ich unterbreche dich nicht gerne, aber ich muss etwas sagen.	En haluaisi
 deu	fin	Ich unterstütze die Sache.	Kannatan asiaa.
 deu	fin	Ich verlasse die Stadt.	Olen lähdössä kaupungista.
 deu	fin	Ich verspreche es.	Minä lupaan.
+deu	fin	Ich verstehe dich nicht ganz.	En ymmärrä sinua täysin.
+deu	fin	Ich verstehe dich nicht ganz.	Minä en ymmärrä sinua täysin.
 deu	fin	Ich verstehe nicht, was du meinst.	En ymmärrä mitä tarkoitat.
 deu	fin	Ich verstehe nicht, was passiert ist.	En voi ymmärtää mitä tapahtui.
 deu	fin	Ich versuche, aus ihr schlau zu werden.	Yritän saada hänestä tolkkua.
 deu	fin	Ich versuchte zu vergessen.	Yritin unohtaa.
 deu	fin	Ich war der einzige Mann.	Olin ainoa mies.
 deu	fin	Ich war dumm genug, Tom zu glauben.	Olin tarpeeksi typerä uskoakseni Tomia.
+deu	fin	Ich war in der Badewanne, als das Telefon klingelte.	Olin ammeessa, kun puhelin soi.
 deu	fin	Ich war Lehrer.	Minä olin opettaja.
 deu	fin	Ich war neun Jahre alt, als ich meine Mutter fragte, ob es den Weihnachtsmann wirklich gibt.	Olin yhdeksänvuotias kun kysyin äidiltäni onko joulupukki oikeasti olemassa.
 deu	fin	Ich warte schon seit zwei Stunden. Ich kann nicht noch länger warten.	Olen odottanut kaksi kokonaista tuntia. En voi odottaa kauempaa.
@@ -1397,6 +1748,9 @@ deu	fin	Ich war überrascht, als Tom sagte, dass er im Ausland studieren wollte.
 deu	fin	Ich wasche meine Socken.	Pesen sukkani.
 deu	fin	Ich wasche mir des Morgens nicht die Haare.	En pese tukkaani aamulla.
 deu	fin	Ich weiß alles.	Tiedän kaiken.
+deu	fin	Ich weiß, dass du nicht schläfst.	Minä tiedän, että sinä et nuku.
+deu	fin	Ich weiß, dass du nicht schläfst.	Tiedän, että et nuku.
+deu	fin	Ich weiß, dass du nicht schläfst.	Tiedän, että olet hereillä.
 deu	fin	Ich weiß, dass es nicht leicht ist.	Tiedän, että se ei ole helppoa.
 deu	fin	Ich weiß, dass ich sterben werde.	Tiedän tulevani kuolemaan.
 deu	fin	Ich weiß es aus Erfahrung.	Tiedän kokemuksesta.
@@ -1410,7 +1764,10 @@ deu	fin	Ich weiß nichts über ihre Familie.	En tiedä mitään hänen perheest�
 deu	fin	Ich weiß nicht, warum ich das gesagt habe.	En tiedä miksi sanoin niin.
 deu	fin	Ich weiß nicht, was ich sagen soll, um dich zu trösten.	En tiedä mitä minun pitäisi sanoa sinua lohduttaakseni.
 deu	fin	Ich weiß nicht, wo ich bin.	En tiedä missä olen.
+deu	fin	Ich weiß noch nichts vom Plan fürs Wochenende.	En tiedä vielä mitään viikonlopun suunnitelmista.
 deu	fin	Ich weiß.	Tiedän.
+deu	fin	Ich weiß, wohin Thomas danach geht.	Tiedän mihin Tuomo menee tämän jälkeen.
+deu	fin	Ich weiß, wohin Thomas nachher geht.	Tiedän mihin Tuomo menee seuraavaksi.
 deu	fin	Ich werde auf dich warten.	Minä odotan sinua.
 deu	fin	Ich werde das Risiko eingehen.	Otan riskin.
 deu	fin	Ich werde dich beobachten.	Tarkkailen sinua.
@@ -1431,14 +1788,19 @@ deu	fin	Ich werde wahnsinnig.	Mulla menee järki.
 deu	fin	Ich werd noch mal verrückt!	Minä tulen vielä hulluksi.
 deu	fin	Ich wette, Tom hat es nicht zum ersten Mal gemacht.	Lyön vetoa että Tom ei tehnyt sitä ensimmäistä kertaa.
 deu	fin	Ich will Ananas kaufen.	Haluan ostaa ananaksia.
+deu	fin	Ich will das nie wieder tun.	En halua tehdä sitä ikinä enää.
+deu	fin	Ich will, dass du mir keinen weiteren Ärger machst.	Haluan, että et aiheuta minulle enempää vaivaa.
+deu	fin	Ich will, dass ihr aus dem Fenster schaut.	Haluan teidän katsovan ikkunasta.
 deu	fin	Ich will dein Blut.	Haluan vertasi.
 deu	fin	Ich will dich nie wiedersehen.	En halua nähdä sinua enää koskaan uudestaan.
+deu	fin	Ich will eine bessere Zukunft für meine Kinder.	Haluan paremman tulevaisuuden lapsilleni.
 deu	fin	Ich will einen Fernseher, aber ich kann mir keinen leisten.	Haluan televisovastaanottimen, mutta minulla ei ole varaa ostaa sitä.
 deu	fin	Ich will frei sein.	Minä haluan olla vapaa.
 deu	fin	Ich will jetzt kein Fleisch essen.	En tahdo syödä lihaa nyt.
 deu	fin	Ich will kein Fleisch essen.	En halua syödä lihaa.
 deu	fin	Ich will mich mit Tom treffen.	Haluan tavata Tomin.
 deu	fin	Ich will mir die blühenden Kirschbäume anschauen gehen.	Haluan mennä katsomaan kukkivia kirsikkapuita.
+deu	fin	Ich will Naturfotografin werden.	Haluan luontokuvaajaksi.
 deu	fin	Ich will nichts anderes ausprobieren!	En halua koettaa mitään muuta.
 deu	fin	Ich will nicht warten.	En halua odottaa.
 deu	fin	Ich will nur mit dir sprechen.	Haluan vain jutella kanssasi.
@@ -1447,17 +1809,35 @@ deu	fin	Ich will nur sicherstellen, das wir alle auf derselben Wellenlänge sind
 deu	fin	Ich wohne in Boston.	Asun Bostonissa.
 deu	fin	Ich wohne in der Nähe des Spielzeugladens.	Asun lelukaupan lähellä.
 deu	fin	Ich wohne in einer kleinen Wohnung.	Minä asun pienessä asunnossa.
+deu	fin	Ich wohne in Moskau.	Asun Moskovassa.
 deu	fin	Ich wollte, dass du mir bei meinen Schularbeiten hilfst.	Halusin sinun auttavan minua läksyissäni.
 deu	fin	Ich wollte dich nicht aufwecken.	En tarkoittanut herättää sinua.
 deu	fin	Ich wollte dich nur necken.	Minä vain kiusasin sinua.
 deu	fin	Ich wollte gerade das Haus verlassen, als das Telefon klingelte.	Olin juuri lähdössä talosta, kun puhelin soi.
+deu	fin	Ich wollte in ihrer eigenen Sprache sprechen.	Halusin puhua hänen omalla kielellään.
+deu	fin	Ich wollte in seiner eigenen Sprache sprechen.	Halusin puhua hänen omalla kielellään.
 deu	fin	Ich wollte nicht gestört werden.	En halunnut, että minua häiritään.
+deu	fin	Ich wollte nur mit dir sprechen.	Haluin vain puhua kanssasi.
+deu	fin	Ich wollte nur mit euch sprechen.	Haluin vain puhua kanssanne.
 deu	fin	Ich wünsche mir, dass ich dem Mädchen gegenüber freundlicher gewesen wäre.	Toivon, että olisin ollut kiltimpi sitä tyttöä kohtaan.
 deu	fin	Ich wünschte, dass ich mich sicher, klar, freundlich und der Situation angemessen äußern könnte.	Haluaisin osata ilmaista itseäni varmasti, selkeästi ja kohteliaasti tilanteen vaatimalla tavalla.
 deu	fin	Ich wünschte, ich wäre vor drei Stunden hier gewesen.	Voi kunpa olisin ollut täällä kolme tuntia sitten.
 deu	fin	Ich würde alles Mögliche tun, nur das nicht.	Tekisin mitä tahansa paitsi tuota.
 deu	fin	Ich wurde am 10. Oktober 1972 geboren.	Olen syntynyt 10. lokakuuta 1972.
+deu	fin	Ich wurde am 22. Januar 1993 geboren.	Synnyin kahdeskymmenes toinen ensimmäistä 1993.
+deu	fin	Ich wurde am 22. Januar 1993 geboren.	Synnyin tammikuun 22. vuonna 1993.
+deu	fin	Ich würde an deiner Stelle anders handeln.	Toimisin toisin sinun asemassasi.
+deu	fin	Ich würde anders handeln, wenn ich du wäre.	Minä toimisin toisin jos olisin sinä.
+deu	fin	Ich würde anders handeln, wenn ich du wäre.	Toimisin toisin jos olisin sinä.
 deu	fin	Ich würde auch gerne kommen, aber ich habe kein Geld, deshalb kann ich es nicht.	Minäkin haluaisin tulla, mutta minulla ei ole rahaa, joten en voi.
+deu	fin	Ich würde gern den Baum sehen, von dem du diese Äpfel gepflückt hast.	Minä näkisin mielelläni puun, josta poimit nämä omenat.
+deu	fin	Ich würde gern den Baum sehen, von dem du diese Äpfel gepflückt hast.	Minä näkisin mielelläni sen puun, josta poimit nämä omenat.
+deu	fin	Ich würde gern den Baum sehen, von dem du diese Äpfel gepflückt hast.	Näkisin mielelläni puun, josta poimit nämä omenat.
+deu	fin	Ich würde gern den Baum sehen, von dem du diese Äpfel gepflückt hast.	Näkisin mielelläni sen puun, josta poimit nämä omenat.
+deu	fin	Ich würde gerne den Baum sehen, von dem du diese Äpfel gepflückt hast.	Minä näkisin mielelläni puun, josta poimit nämä omenat.
+deu	fin	Ich würde gerne den Baum sehen, von dem du diese Äpfel gepflückt hast.	Minä näkisin mielelläni sen puun, josta poimit nämä omenat.
+deu	fin	Ich würde gerne den Baum sehen, von dem du diese Äpfel gepflückt hast.	Näkisin mielelläni puun, josta poimit nämä omenat.
+deu	fin	Ich würde gerne den Baum sehen, von dem du diese Äpfel gepflückt hast.	Näkisin mielelläni sen puun, josta poimit nämä omenat.
 deu	fin	Ich würde gerne eines Tages dorthin gehen.	Haluaisin mennä mielelläni sinne jonain päivänä.
 deu	fin	Ich würde gerne wissen, wann der beste Moment ist zu kündigen.	Haluaisin tietää milloin on paras hetki sanoa itsensä irti.
 deu	fin	Ich würde sagen, wir haben ein Problem.	Sanoisin, että meillä on ongelma.
@@ -1467,8 +1847,14 @@ deu	fin	Ich wusste nicht, wie ich seine Frage beantworten sollte.	Minä en tieny
 deu	fin	Ihm fiel ein Stein vom Herzen.	Kivi vierähti hänen sydämeltään.
 deu	fin	Ihm gefallen meine Witze.	Hän tykkää minun vitseistäni.
 deu	fin	Ihm ist es noch nicht gelungen.	Hän ei ole vielä onnistunut.
+deu	fin	Ihr Bruder ist im letzten Monat verstorben.	Hänen veljensä menehtyi viime kuussa.
+deu	fin	Ihr Bruder ist letzten Monat verstorben.	Hänen veljensä menehtyi viime kuussa.
+deu	fin	Ihre Handschrift ist wirklich schön.	Hänen käsialansa on todella kaunista.
 deu	fin	Ihr Erfolg ist das Ergebnis Ihrer harten Arbeit.	Menestyksenne on kovan työnne tulosta.
 deu	fin	Ihr Gesicht strahlte vor Glück.	Hänen kasvonsa säteilivät onnea.
+deu	fin	Ihr Gesundheitszustand hat sich deutlich verbessert.	Hänen terveydentilansa koheni huomattavasti.
+deu	fin	Ihr Gesundheitszustand hat sich deutlich verbessert.	Hänen terveydentilansa koheni merkittävästi.
+deu	fin	Ihr Gesundheitszustand hat sich erheblich verbessert.	Hänen terveydentilansa koheni merkittävästi.
 deu	fin	Ihr wisst nicht, wer ich bin.	Ette tiedä, kuka minä olen.
 deu	fin	Iker Casillas ist der beste Torhüter der Welt.	Iker Casillas on maailman paras maalivahti.
 deu	fin	Im Allgemeinen spielen kleine Mädchen gern mit Puppen.	Yleisesti ottaen pikkutytöt tykkäävät nukeista.
@@ -1483,6 +1869,7 @@ deu	fin	Im Meer gibt es Inseln.	Meressä on saaria.
 deu	fin	Immer wenn wir uns treffen, beschwert er sich über seine Frau.	Aina tavatessamme hän valittaa vaimostaan.
 deu	fin	Im Norden ist der Winter kalt.	Pohjoisessa on talvella kylmä.
 deu	fin	Im Park waren viele Leute.	Puistossa oli paljon ihmisiä.
+deu	fin	Im Teich ist das Schwimmen verboten.	Lammessa uiminen kielletty.
 deu	fin	Im Wald herrschte Stille.	Metsässä vallitsi hiljaisuus.
 deu	fin	Im Westen nichts Neues.	Länsirintamalta ei mitään uutta.
 deu	fin	Im Zimmer waren viele Leute.	Huoneessa oli paljon väkeä.
@@ -1497,10 +1884,14 @@ deu	fin	In Finnland ist morgen Muttertag.	Suomessa on huomenna äitienpäivä.
 deu	fin	In Finnland leben keine Affen in der freien Natur.	Suomessa ei elä apinoita luonnonvaraisena.
 deu	fin	In Frankreich spricht man Französisch.	Ranskassa puhutaan ranskaa.
 deu	fin	In Japan beginnt das neue Schuljahr im April.	Japanissa uusi lukuvuosi alkaa huhtikuussa.
+deu	fin	In Japan ist es jetzt Morgen.	Japanissa on nyt aamu.
+deu	fin	In Kyoto gibt es viele alte Tempel.	Kiotossa on paljon vanhoja temppeleitä.
 deu	fin	In Lappland spricht man viele Sprachen.	Lapissa puhutaan monia kieliä.
 deu	fin	In Rovaniemi sind die Linienbusfahrer echt klasse. Sie halten dort, wo der Weg zu unserem Wochenendhaus abzweigt, obwohl die eigentliche Haltestelle viel weiter weg ist.	Rovaniemellä bussikuskit on aina tosi kivoja. Ne aina pysähtyy siihen meidän mökkitien päähän, vaikka oikeasti pysäkki on paljon pidemmällä.
 deu	fin	In Singapur wird Englisch gesprochen.	Singaporessa puhutaan englantia.
 deu	fin	In Zeiten wie diesen sollten wir alle an einem Strange ziehen.	Tällaisina aikoina meidän pitäisi kaikkien vetää yhtä köyttä.
+deu	fin	Irgendeine Gymnasiastin hat diesen Roboter gebaut.	Eräs lukiolainen teki tämän robotin.
+deu	fin	Irgendein Gymnasiast hat diesen Roboter gebaut.	Eräs lukiolainen teki tämän robotin.
 deu	fin	Irgendwas ist in meinem Auge.	Minulla on jotain silmässä.
 deu	fin	Irland liegt in Westeuropa.	Irlanti sijaitsee Länsi-Euroopassa.
 deu	fin	Iss das Brot!	Syö tuo leipä!
@@ -1525,10 +1916,15 @@ deu	fin	Ist dies deine Freundin?	Onko tämä tyttöystäväsi?
 deu	fin	Ist diese Kollegmappe deine?	Onko tämä salkkusi?
 deu	fin	Ist dieser Brief an dich oder an mich gerichtet?	Onko tämä kirje sinulle vai minulle?
 deu	fin	Ist ein Hutgeschäft in der Nähe?	Onko tässä lähellä hattukauppaa?
+deu	fin	Ist er Naturfotograf?	Onko hän luontokuvaaja?
 deu	fin	Ist es eine Verabredung?	Onko meillä treffit?
+deu	fin	Ist es möglich, dass Tom verhaftet wird?	Onko mahdollista, että Tomi pidätetään?
+deu	fin	Ist heute Schule?	Onko tänään koulua?
+deu	fin	Ist Mayonnaise ein Instrument?	Onko majoneesi soitin?
 deu	fin	Ist mit dir alles in Ordnung, Tom?	Oletko OK, Tom?
 deu	fin	Ist Mutter zu Hause?	Onkos äiti kotona?
 deu	fin	Ist schon klar, dass du Atheist bist, aber ein Gewissen hast du doch?	On selvää, että olet ateisti, mutta onko sinulla omatunto?
+deu	fin	Ist sie Naturfotografin?	Onko hän luontokuvaaja?
 deu	fin	Ist Tom ein Augenzeuge?	Onko Tom silminnäkijä?
 deu	fin	Ist Tom mit Maria verwandt?	Onko Tomi sukua Marille?
 deu	fin	Ist überhaupt noch Wasser in der Kanne?	Onko kannussa yhtään vettä?
@@ -1605,14 +2001,29 @@ deu	fin	Könntest du ein bisschen helfen?	Voisitko auttaa hieman?
 deu	fin	Könntest du einen Augenblick auf mich warten?	Voisitko odottaa minua vähän aikaa?
 deu	fin	Könntest du einen Moment auf mich warten?	Voisitko odottaa minua vähän aikaa?
 deu	fin	Könntest du mich bitte in Ruhe lassen!	Jättäisitkö minut rauhaan.
+deu	fin	Könntest du mir das grüne Hemd zeigen?	Näyttäisitkö minulle sitä vihreää paitaa.
+deu	fin	Könntest du mir die Bilder zeigen?	Voisitko näyttää minulle kuvat?
+deu	fin	Könntest du mir die Bilder zeigen?	Voisitko näyttää minulle ne kuvat?
+deu	fin	Könntest du mir die Fotos zeigen?	Voisitko näyttää minulle ne valokuvat?
+deu	fin	Könntest du mir die Fotos zeigen?	Voisitko näyttää minulle valokuvat?
+deu	fin	Könntest du mir diese Bilder zeigen?	Voisitko näyttää minulle ne kuvat?
+deu	fin	Könntest du mir diese Fotos zeigen?	Voisitko näyttää minulle ne valokuvat?
 deu	fin	Könntest du mir ein wenig helfen?	Voisitko auttaa minua vähän?
 deu	fin	Könntet ihr ein bisschen auf mich warten?	Voisitteko odottaa minua vähän?
 deu	fin	Könntet ihr einen Augenblick auf mich warten?	Voisitteko odottaa minua vähän aikaa?
 deu	fin	Könntet ihr einen Moment auf mich warten?	Voisitteko odottaa minua vähän aikaa?
 deu	fin	Kopf runter!	Päät alas.
 deu	fin	Korrigieren Sie die folgenden Sätze.	Korjatkaa seuraavat lauseet.
+deu	fin	Krieg erzeugt Unsicherheit.	Sota luo epävarmuutta.
 deu	fin	Krokodile haben scharfe Zähne.	Krokotiileilla on terävät hampaat.
 deu	fin	Kümmert es dich, was andere über dich denken?	Välitätkö siitä mitä muut ajattelevat sinusta?
+deu	fin	Kündige ihm nicht.	Älä erota häntä.
+deu	fin	Kündige ihr nicht.	Älä erota häntä.
+deu	fin	Kündigen Sie ihm nicht.	Älkää erottako häntä.
+deu	fin	Kündigen Sie ihr nicht.	Älkää erottako häntä.
+deu	fin	Kündigt ihm nicht.	Älkää erottako häntä.
+deu	fin	Kündigt ihr nicht.	Älkää erottako häntä.
+deu	fin	Lang lebe die Ukraine!	Kauan eläköön Ukraina!
 deu	fin	Langsam bitte.	Hitaasti, kiitos.
 deu	fin	Lass das Auto zu Hause!	Jätä auto kotiin.
 deu	fin	Lass das sein!	Lopeta jo!
@@ -1648,6 +2059,10 @@ deu	fin	Liisa kam zu früh.	Liisa tuli liian aikaisin.
 deu	fin	Liisa spricht nicht mehr mit Markku. Sie ist sauer auf ihn.	Liisa ei puhu Markulle enää. Hän on suuttunut hänelle.
 deu	fin	Liisa war ganz schön überrascht über den Sieg von Markku.	Liisa oli hyvin hämmästynyt Markun voitosta.
 deu	fin	Liisa wird zu Hause verwöhnt.	Liisaa hemmotellaan kotona.
+deu	fin	Los! Du bist an der Reihe.	Mene! On sinun vuorosi.
+deu	fin	Los! Du bist dran.	Mene! On sinun vuorosi.
+deu	fin	Los! Ihr seid an der Reihe.	Menkää! On teidän vuoronne.
+deu	fin	Los! Ihr seid dran.	Menkää! On teidän vuoronne.
 deu	fin	Lucy kommt aus Amerika.	Lucy on Amerikasta.
 deu	fin	Mach das Licht an, bitte!	Laittaisitko valot päälle?
 deu	fin	Mach deine Augen auf und suche.	Ota silmät käteesi ja etsi.
@@ -1660,7 +2075,9 @@ deu	fin	Mach dir keine Sorgen, du hast ja noch viele Alternativen.	Älä suotta 
 deu	fin	Mach dir nichts draus!	Älä välitä siitä.
 deu	fin	Mache es gleich, damit du es nicht vergisst.	Tee se heti, ettet unohda sitä.
 deu	fin	Machen wir eine kurze Pause!	Otetaan lyhyt paussi.
+deu	fin	Machen wir es so.	Tehdään se näin.
 deu	fin	Mach es auf deine Weise.	Tee se omalla tavallasi.
+deu	fin	Mach es nicht so.	Älä tee näin.
 deu	fin	Mach mal Schluss damit!	Anna jo olla.
 deu	fin	Machst du Witze oder ist das dein Ernst?	Vitsailetko vai oletko vakavissasi?
 deu	fin	Macht keine Fehler!	Älä tee virheitä!
@@ -1669,12 +2086,14 @@ deu	fin	Magst du Fisch?	Pidätkö kalasta?
 deu	fin	Magst du Insekten?	Pidätkö hyönteisistä?
 deu	fin	Magst du Rap?	Pidätkö rapista?
 deu	fin	Mal sehen, was ich tun kann.	Katson mitä voin tehdä.
+deu	fin	Mama, die Hunde haben Hunger.	Äiti, koirilla on nälkä.
 deu	fin	Mama, Tom macht mir alles nach!	Äiti, Tom matkii!
 deu	fin	Mama, wann gibt es Abendessen?	Äiti, monelta illallinen on?
 deu	fin	Mandarinen sind reich an Vitamin C.	Mandariineissa on paljon C-vitamiinia.
 deu	fin	Man hofft, dass sie kommt.	Toivotaan että hän tulee.
 deu	fin	Man ist müde und ausgelaugt.	Takki on täysin tyhjä.
 deu	fin	Man kann beim Überqueren einer Straße nie vorsichtig genug sein.	Katua ylittäessä ei voi koskaan olla liian varovainen.
+deu	fin	Man ließ ihn eine hohe Geldbuße zahlen.	Hänet laitettiin maksamaan suuri sakko.
 deu	fin	Man muss fit bleiben.	Kuntoaan pitää pitää yllä.
 deu	fin	Männer sind Schweine.	Miehet ovat sikoja.
 deu	fin	Man sagt, dass er krank ist.	Sanotaan että hän on sairas.
@@ -1683,7 +2102,10 @@ deu	fin	Man sagt, Freitag der 13. ist ein Unglückstag.	Sanotaan, että perjanta
 deu	fin	Maria betrachtete sich im Spiegel.	Mary katsoi itseään peilistä.
 deu	fin	Maria braucht neue Schuhe.	Mari tarvitsee uudet kengät.
 deu	fin	Maria füllte mit einer Plastikschaufel Sand in ihr Eimerchen.	Mary täytti ämpärinsä hiekalla muovilapiolla.
+deu	fin	María half ihrer Mutter beim Schmücken des Weihnachtsbaumes.	María auttoi äitiään koristelemaan joulukuusen.
+deu	fin	María half ihrer Mutter beim Schmücken des Weihnachtsbaums.	María auttoi äitiään koristelemaan joulukuusen.
 deu	fin	Maria sieht gern fern.	Mary pitää television katselusta.
+deu	fin	Marias leibliche Mutter starb vor fünf Jahren an den Folgen ihres Alkoholkonsums.	Marin biologinen äiti kuoli viisi vuotta sitten alkoholin kulutuksensa takia.
 deu	fin	Maria versteht Chinesisch.	Mari ymmärtää kiinaa.
 deu	fin	Mari flucht wie ein Landsknecht.	Mari kiroilee kuin merirosvo.
 deu	fin	Marika hat mir etwas Finnisch beigebracht.	Marika opetti minulle vähän suomea.
@@ -1705,8 +2127,11 @@ deu	fin	Mein Bruder kann sehr schnell rennen.	Veljeni pystyy juoksemaan todella 
 deu	fin	Meine Augen schmerzen.	Silmiäni aristaa.
 deu	fin	Meine Ehefrau ist Polin.	Olen naimisissa puolalaisen naisen kanssa.
 deu	fin	Meine Eltern sind beide gestorben.	Molemmat vanhemmistani ovat kuolleet.
+deu	fin	Meine Familie wohnt in der Stadt.	Perheeni asuu kaupungissa.
 deu	fin	Meine Frau wollte ein Kind adoptieren.	Vaimoni halusi adoptoida lapsen.
 deu	fin	Meine Freundin ist Chinesin.	Tyttöystäväni on kiinalainen.
+deu	fin	Meine Großmutter ist letzte Woche erkrankt.	Isoäitini sairastui viime viikolla.
+deu	fin	Meine Großmutter ist letzte Woche krank geworden.	Isoäitini sairastui viime viikolla.
 deu	fin	Meine Haare werden leicht strubbelig.	Mun hiuksiin tulee herkästi takkuja.
 deu	fin	Meine Katze liebt Garnelen.	Kissani rakastaa katkarapuja.
 deu	fin	Meine Katze liebt Katzenminze.	Kissani pitää kovasti kissanmintusta.
@@ -1716,7 +2141,9 @@ deu	fin	Meine Mutter kann ohne Brille nicht lesen.	Minun äitini ei voi lukea il
 deu	fin	Meine Mutter liebt Musik.	Äitini rakastaa musiikkia.
 deu	fin	Meine Mutter sagte mir, ich solle mich gut benehmen.	Äitini käski minun käyttäytyä kunnolla.
 deu	fin	Meine Mutter war sehr überrascht.	Äitini oli kovasti yllättynyt.
+deu	fin	Meine Nebelscheinwerfer sind an.	Sumuvaloni ovat päällä.
 deu	fin	Meiner Ansicht nach wäre eine solche Vorgehensweise nicht klug.	Minusta sellainen menettely olisi epäviisasta.
+deu	fin	Meiner Meinung nach ist das ein gutes Omen.	Minusta tuo on hyvä enne.
 deu	fin	Meiner Meinung nach ist Deutsch die beste Sprache der Welt.	Minun mielestäni saksa on maailman paras kieli.
 deu	fin	Meiner Meinung nach ist Deutsch die schönste Sprache auf der ganzen Welt.	Minun mielestäni saksa on maailman paras kieli.
 deu	fin	Meiner Meinung nach ist es wichtig, sich selber ein Ziel zu setzen.	Minusta on tärkeää asettaa itselleen tavoite.
@@ -1735,8 +2162,12 @@ deu	fin	Mein Freund lernt Koreanisch.	Ystäväni opiskelevat koreaa.
 deu	fin	Mein Geburtsjahr ist 1982.	Syntymävuoteni on 1982.
 deu	fin	Mein Glas ist leer.	Lasini on tyhjä.
 deu	fin	Mein Gott, mein Gott, warum hast du mich verlassen?	Jumalani, Jumalani, miksi minut hylkäsit?
+deu	fin	Mein Lebensziel ist es, Ministerpräsident zu werden.	Tavoitteeni elämässä on tulla pääministeriksi.
+deu	fin	Mein Lebensziel ist es, Premierminister zu werden.	Tavoitteeni elämässä on tulla pääministeriksi.
 deu	fin	Mein Name ist Ivan.	Nimeni on Ivan.
 deu	fin	Mein Onkel lebte viele Jahre im Ausland.	Setäni asui monta vuotta ulkomailla.
+deu	fin	Mein Rucksack ist sehr schwer.	Mun reppu on tosi raskas.
+deu	fin	Mein Schwager ist älter als ich.	Mun lanko on vanhempi kuin mä.
 deu	fin	Mein Sohn kann noch nicht zählen.	Poikani ei osaa vielä laskea.
 deu	fin	Mein Vater arbeitet bei einer Bank.	Isäni on töissä pankissa.
 deu	fin	Mein Vater ermutigte mich, Klavierspielen zu lernen.	Isäni rohkaisi minua opettelemaan pianon soittoa.
@@ -1749,11 +2180,25 @@ deu	fin	Mein Vater rasiert sich gerade im Badezimmer.	Isäni ajaa parhaillaan pa
 deu	fin	Mein Vater reist gern mit dem Flugzeug.	Isäni tykkää matkustaa lentokoneella.
 deu	fin	"Mein Vater trinkt keinen Sake." "Meiner auch nicht."	"Minun isäni ei juo sakea." "Ei minunkaan."
 deu	fin	Mein Vater war ein alter Mann geworden.	Minun isästäni oli tullut vanha mies.
+deu	fin	Mein Ziel im Leben ist es, Ministerpräsident zu werden.	Tavoitteeni elämässä on tulla pääministeriksi.
+deu	fin	Mein Ziel im Leben ist es, Premierminister zu werden.	Tavoitteeni elämässä on tulla pääministeriksi.
 deu	fin	Melde dich, bevor du antwortest!	Viittaa ennen kuin vastaat.
 deu	fin	Michael Jackson ist tot.	Michael Jackson on kuollut.
 deu	fin	Mike, dies Gespräch ist für dich. Es ist Jane.	Mike, puhelimeen. Jane soittaa.
 deu	fin	Mikko ist am ältesten von uns.	Vanhin meistä on nimeltään Mikko.
 deu	fin	Miniröcke sind aus der Mode.	Minihameista on tullut epämuodikkaita.
+deu	fin	Mir gefällt das Konzept dieser Webseite sehr.	Pidän todellakin tämän verkkosivun ajatuksesta.
+deu	fin	Mir gefällt das Konzept dieser Webseite wirklich gut.	Pidän todellakin tämän verkkosivun ajatuksesta.
+deu	fin	Mir gefällt dein Motorrad.	Minä pidän moottoripyörästäsi.
+deu	fin	Mir gefällt dein Motorrad.	Minä pidän sinun moottoripyörästäsi.
+deu	fin	Mir gefällt dein Motorrad.	Minä tykkään moottoripyörästäsi.
+deu	fin	Mir gefällt dein Motorrad.	Minä tykkään sinun moottoripyörästäsi.
+deu	fin	Mir gefällt dein Motorrad.	Pidän moottoripyörästäsi.
+deu	fin	Mir gefällt dein Motorrad.	Pidän sinun moottoripyörästäsi.
+deu	fin	Mir gefällt dein Motorrad.	Tykkään moottoripyörästäsi.
+deu	fin	Mir gefällt die Idee dieser Webseite sehr.	Pidän todellakin tämän verkkosivun ajatuksesta.
+deu	fin	Mir gefällt die Idee dieser Webseite wirklich gut.	Pidän todellakin tämän verkkosivun ajatuksesta.
+deu	fin	Mir gefällt diese Antwort.	Pidän tästä vastauksesta.
 deu	fin	Mir geht ein Licht auf.	Minulle alkaa selvitä.
 deu	fin	Mir hat es nicht gefallen.	En tykännyt siitä.
 deu	fin	Mir scheint, dass ich der einzige Langschläfer bin.	Minä taidan olla ainoa aamu-uninen.
@@ -1761,17 +2206,21 @@ deu	fin	Mir tun die Augen weh.	Silmiäni aristaa.
 deu	fin	Mir wurde die Uhr gestohlen.	Minulta varastettiin kello.
 deu	fin	Mit einer Lungenentzündung ist nicht zu spaßen.	Keuhkotulehdus ei ole naurun asia.
 deu	fin	Mit großer Mühe konnten wir verhindern, dass der Plan umgesetzt wurde.	Suurella vaivalla voisimme estää suunnitelman täytäntöönpanon
+deu	fin	Mit Thomas wäre es anders gewesen.	Tuomon kanssa se olisi ollut erilaista.
 deu	fin	Mittlerweile kann ich mich verständlich machen.	Sillä välin voin tehdä itseni ymmärretyiksi.
 deu	fin	Mit wem essen Sie zu Abend?	Kenen kanssa sinä aiot syödä illallista?
 deu	fin	Möchten Sie etwas Tee oder Kaffee?	Haluaisitteko teetä tai kahvia?
 deu	fin	Möchtest du heute Abend essen gehen?	Tahdotko syödä ulkona tänä iltana?
 deu	fin	Möchtest du heute nicht schwimmen?	Etkö halua uida tänään?
+deu	fin	Möchtest du mit mir dorthin gehen?	Haluaisitko mennä sinne minun kanssani?
+deu	fin	Möchtet ihr mit mir dorthin gehen?	Haluaisitteko mennä sinne minun kanssani?
 deu	fin	M+S-Reifen nutzen sich schneller ab als Sommerreifen.	Kitkarenkaat kuluvat kesärenkaita nopeammin.
 deu	fin	Muiriel ist jetzt 20.	Muiriel on nyt kaksikymmentä.
 deu	fin	Muiriel ist jetzt zwanzig Jahre alt.	Muiriel on nyt kaksikymmentä.
 deu	fin	Muiriel ist jetzt zwanzig Jahre alt.	Muiriel on nyt kaksikymmentävuotias.
 deu	fin	Musst du gehen?	Onko sinun pakko mennä?
 deu	fin	Mutter geht jeden Tag auf den Markt.	Äiti menee joka päivä torille.
+deu	fin	Nach Benzin gibt es eine große Nachfrage.	Polttoaineelle on suuri kysyntä.
 deu	fin	Nachdem die Bewohner weggezogen waren, blieb das Haus leer.	Talo jäi tyhjäksi, kun asukkaat muuttivat pois.
 deu	fin	Nachdem ich die Hausaufgaben erledigt hatte, plauderte ich mit Mama.	Sen jälkeen kun sain läksyt tehtyä, juttelin äiskän kanssa.
 deu	fin	Nach ihrer Krankheit war sie nur noch ein Schatten ihrer selbst.	Hän oli vain varjo entisestä itsestään sairautensa jälkeen.
@@ -1781,14 +2230,20 @@ deu	fin	Nächste Woche wird es vielleicht Frost geben.	Ensi viikolla saattaa pak
 deu	fin	Nagoya ist für seine Burg bekannt.	Nagoya on tunnettu linnastaan.
 deu	fin	Nanako ist echt hübsch, oder?	Nanako on tosi söpö, eikö olekin?
 deu	fin	Natürlich braucht man für die Bedienung eines Kranes eine Lizenz.	Tietenkin nostokurjen käyttöön tarvitaan lisenssi.
+deu	fin	Na, was hast du gesehen?	No, mitä sinä näit?
 deu	fin	Neben Englisch spricht sie auch Deutsch.	Hän puhuu englannin lisäksi saksaa.
 deu	fin	Nein danke, ich bin schwanger.	Ei kiitos. Olen raskaana.
 deu	fin	Nein, ich bin Engländer.	Ei, minä olen englantilainen.
 deu	fin	Nein, ich leide nicht an Asthma, ich stöhne vor Lust!	Ei, en minä kärsi astmasta. Ynisen halusta.
 deu	fin	Nein, mein Name ist nicht Tom.	Ei, nimeni ei ole Tom.
 deu	fin	Nein, mein Name ist nicht Tom. Mein Name ist Mary.	Ei, nimeni ei ole Tom. Nimeni on Mari.
+deu	fin	Neugierde liegt mir im Blut.	Uteliaisuus on veressäni.
 deu	fin	New York ist eine große Stadt.	New York on suuri kaupunki.
+deu	fin	Nicht alle können perfekt sein.	Kaikki eivät voi olla täydellisiä.
 deu	fin	Nicht alle Lehrer benehmen sich so.	Eivät kaikki opettajat käyttädy sillä tavalla.
+deu	fin	Nicht immer hat der Kunde recht.	Asiakas ei aina ole oikeassa.
+deu	fin	Nicht immer hat der Kunde Recht.	Asiakas ei aina ole oikeassa.
+deu	fin	Nicht immer ist der Kunde im Recht.	Asiakas ei aina ole oikeassa.
 deu	fin	Nicht jeder ist ehrlich.	Jokainen ei ole rehellinen.
 deu	fin	Nicht jeder kann ein Dichter sein.	Kaikki eivät voi olla runoilijoita.
 deu	fin	Nicht nur die Briten glauben, der Europäischen Union nicht zu bedürfen.	Eivät ainoastaan britit ole sitä mieltä, että he eivät tarvitse Euroopan unionia.
@@ -1812,6 +2267,7 @@ deu	fin	Nimm so viele Pfirsiche, wie du willst.	Ota niin monta persikkaa kuin ha
 deu	fin	Nimmst du an dem Fest teil?	Osallistutko juhlaan?
 deu	fin	Noch ein paar Minuten und ich bin fertig.	Vielä muutama minuutti, ja olen valmis.
 deu	fin	Noch habe ich kein Geld.	Minulla ei ole vielä rahaa.
+deu	fin	Normalerweise gehe ich ungefähr um 23 Uhr schlafen.	Tavallisesti menen nukkumaan noin klo 23.
 deu	fin	Normalerweise sind Japaner schüchtern.	Tavallisesti japanilaiset ovat ujoja.
 deu	fin	Normalerweise stehe ich um sechs auf.	Nousen yleensä ylös kello kuusi.
 deu	fin	Normalerweise trägt Tom keinen Hut.	Tomilla ei tavallisesti ole päässään hattua.
@@ -1823,15 +2279,22 @@ deu	fin	Öffne nicht die Tür, bevor der Zug zum Stillstand gekommen ist.	Älä 
 deu	fin	Ohne deine Hilfe hätte ich es nicht machen können.	Ilman sinun apuasi en olisi voinut tehdä sitä.
 deu	fin	Ohne Ihre Hilfe hätte ich es nicht gekonnt.	Ilman teidän apuanne en olisi voinut tehdä sitä.
 deu	fin	Oma lässt grüßen.	Mummi lähettää terveisiä.
+deu	fin	Passt es dir, wenn ich um achtzehn Uhr komme?	Sopiiko sinulle jos tulen kello kahdeksaltatoista?
 deu	fin	Peking ist die Hauptstadt Chinas.	Peking on Kiinan pääkaupunki.
 deu	fin	Peter und Eve sind ein entzückendes Paar.	Peter ja Eve ovat ihastuttava pari.
 deu	fin	Pfirsiche schmecken süß.	Persikat maistuvat makeilta.
 deu	fin	Plötzlich fing es an zu regnen.	Yhtäkkiä alkoi sataa.
 deu	fin	Polen den Polen, Erde den Erdäpfeln.	Puola puolalaisille, maa maaomenille.
+deu	fin	Pompeji ist eine Weltkulturerbestätte der UNESCO.	Pompeiji on Unescon maailmanperintökohde.
 deu	fin	Positive Überzeugungen sind unsere besten Verbündeten.	Positiiviset uskomukset ovat parhaita liittolaisiamme.
 deu	fin	Probier es noch mal.	Yritä vielä kerran uudelleen.
 deu	fin	Probiert es noch mal.	Yritä uudestaan.
+deu	fin	Putin ist ein Arschloch!	Putin on persereikä!
 deu	fin	Putz den Spiegel!	Pyyhi peili puhtaaksi.
+deu	fin	Rate mal, wer heute Abend zum Abendessen kommt!	Arvaa ketkä tulevat illalliselle tänä iltana!
+deu	fin	Rate mal, wer heute Abend zum Abendessen kommt!	Arvaa kuka tulee illalliselle tänä iltana!
+deu	fin	Ratet mal, wer heute Abend zum Abendessen kommt!	Arvatkaa ketkä tulevat illalliselle tänä iltana!
+deu	fin	Ratet mal, wer heute Abend zum Abendessen kommt!	Arvatkaa kuka tulee illalliselle tänä iltana!
 deu	fin	Rauchen hier ist streng verboten.	Tupakointi on ehdottomasti kielletty täällä.
 deu	fin	Rauchen ist schlecht für dich.	Tupakointi on pahasta.
 deu	fin	Rauchen schadet wohl den Lungen.	Tupakointi raastaa sun keuhkot riekaleiksi.
@@ -1844,7 +2307,9 @@ deu	fin	Rom wurde nicht an einem Tag erbaut.	Roomaa ei päivässä rakennettu.
 deu	fin	Rufen Sie mich morgen an!	Soittakaa minulle huomenna.
 deu	fin	Ruf mich bitte um halb sieben an.	Soita minulle puoli seitsemältä.
 deu	fin	Ruf nicht einfach in die Klasse, Tom! Melde dich, wenn du etwas sagen willst, und warte, bis du drankommst!	Älä vain huuda luokassa, Tom! Viittaa kun haluat sanoa jotakin ja odota vuoroasi!
+deu	fin	Ruhm der Ukraine! Ehre den Helden!	Kunnia Ukrainalle! Kunnia sankareille!
 deu	fin	Sag, dass du mich liebst!	Sano, että rakastat minua.
+deu	fin	Sag du doch, was du willst, ich gebe nicht auf.	Sanot sinä mitä tahansa, minä en anna periksi.
 deu	fin	Sag mir, was du möchtest!	Kerro minulle mitä haluat.
 deu	fin	Sam, was machst du?	Sam, mitä teet?
 deu	fin	Schade.	Harmi.
@@ -1852,8 +2317,16 @@ deu	fin	Schade.	Oi voi.
 deu	fin	Schäl bitte die Kartoffeln.	Kuorisitko perunat?
 deu	fin	Schaltest du bitte den Fernseher an?	Laittaisitko television päälle?
 deu	fin	Schau dir meine Finger an.	Katso sormiani.
+deu	fin	Schaut mich an, wenn ich mit euch rede!	Katsokaa minua, kun minä puhun teille!
+deu	fin	Schaut mich an, wenn ich mit euch spreche!	Katsokaa minua, kun minä puhun teille!
 deu	fin	Schlaf gut und träum etwas Schönes!	Nuku hyvin ja kauniita unia!
+deu	fin	Schlag das Lehrbuch auf Seite 50 auf.	Avaa oppikirja sivulle 50.
+deu	fin	Schlag das Lehrbuch auf Seite 50 auf.	Avaa se oppikirja sivulle 50.
 deu	fin	Schlag die Nummer im Telefonbuch nach!	Katso numero puhelinluettelosta!
+deu	fin	Schlagen Sie das Lehrbuch auf Seite 50 auf.	Avatkaa oppikirja sivulle 50.
+deu	fin	Schlagen Sie das Lehrbuch auf Seite 50 auf.	Avatkaa se oppikirja sivulle 50.
+deu	fin	Schlagt das Lehrbuch auf Seite 50 auf.	Avatkaa oppikirja sivulle 50.
+deu	fin	Schlagt das Lehrbuch auf Seite 50 auf.	Avatkaa se oppikirja sivulle 50.
 deu	fin	Schließ das Tor.	Sulje portti.
 deu	fin	Schließlich erkannte er seinen Fehler.	Lopulta hän huomasi virheensä.
 deu	fin	Schließlich fand ich heraus, was die Schmerzen in meinem Bein verursacht hat.	Sain vihdoinkin selville mikä on aiheuttanut kipua jalkaani.
@@ -1865,11 +2338,20 @@ deu	fin	Schwamm drüber!	Ei enää puhuta siitä!
 deu	fin	Schwarze Katzen bringen Unglück.	Mustat kissat tuovat epäonnea.
 deu	fin	Schwarz steht dir.	Musta sopii sinulle.
 deu	fin	Schweden ist das größte Land Skandinaviens.	Ruotsi on Skandinavian suurin maa.
+deu	fin	Seht mich an, wenn ich mit euch rede!	Katsokaa minua, kun minä puhun teille!
+deu	fin	Seht mich an, wenn ich mit euch spreche!	Katsokaa minua, kun minä puhun teille!
 deu	fin	Sei artig.	Ole kiltti.
 deu	fin	Seid alle ruhig!	Olkaa kaikki hiljaa!
+deu	fin	Seid ihr anderer Meinung?	Oletteko eri mieltä?
+deu	fin	Seid ihr keine Katholiken?	Ettekö ole katolilaisia?
+deu	fin	Seid ihr nicht Katholiken?	Ettekö ole katolilaisia?
+deu	fin	Seid still, während wir essen.	Olkaa hiljaa kun syömme.
+deu	fin	Sein Bruder ist im letzten Monat verstorben.	Hänen veljensä menehtyi viime kuussa.
+deu	fin	Sein Bruder ist letzten Monat verstorben.	Hänen veljensä menehtyi viime kuussa.
 deu	fin	Seine Eltern lieben mich.	Hänen vanhempansa rakastavat minua.
 deu	fin	Seine Erklärung ist nicht wirklich einleuchtend.	Hänen selityksensä ei todellakaan ole selkeä.
 deu	fin	Seine Freundin ist Japanerin.	Hänen tyttöystävänsä on japanilainen.
+deu	fin	Seine Handschrift ist wirklich schön.	Hänen käsialansa on todella kaunista.
 deu	fin	Seine Hilfe kam im letzten Moment.	Hänen apunsa tuli viime tingassa.
 deu	fin	Seine Krankheit hat einen einfachen Grund: er trinkt zu viel.	Hänen sairautensa johtuu liiasta juomisesta.
 deu	fin	Seine Mutter versuchte, das Interesse ihres Sohnes an der Kunst zu wecken.	Hänen äitinsä yritti herättää poikansa kiinnostusta taiteeseen.
@@ -1878,6 +2360,9 @@ deu	fin	Seine Rede machte auf mich großen Eindruck.	Hänen puheensa teki minuun
 deu	fin	Seine Übersetzung ist nahe am Original.	Hänen käännöksensä on lähellä alkuperäistä.
 deu	fin	Seine Worte verletzten Meg.	Hänen sanansa haavoittivat Megiä.
 deu	fin	Seine Zähne waren weiß.	Hänen hampaansa olivat valkoiset.
+deu	fin	Sein Gesundheitszustand hat sich deutlich verbessert.	Hänen terveydentilansa koheni huomattavasti.
+deu	fin	Sein Gesundheitszustand hat sich deutlich verbessert.	Hänen terveydentilansa koheni merkittävästi.
+deu	fin	Sein Gesundheitszustand hat sich erheblich verbessert.	Hänen terveydentilansa koheni merkittävästi.
 deu	fin	Sein Haus liegt ziemlich weit weg von dem Bahnhof.	Hänen talonsa on hyvin kaukana asemalta.
 deu	fin	Sei nicht so streng zu dir!	Älä ole niin ankara itsellesi!
 deu	fin	Sei nicht traurig!	Älä sure.
@@ -1892,17 +2377,28 @@ deu	fin	Seit wann ist Ricardo verheiratet?	Mistä asti Ricardo on naimisissa?
 deu	fin	Sei vorsichtig, Mutter hat schlechte Laune.	Ole varovainen, äiti on pahalla päällä.
 deu	fin	Selbst wenn du keinen Appetit hast, musst du etwas essen. Sonst hältst du bis zum Mittag nicht durch.	Vaikka sinulla ei olisikaan ruokahalua, niin sinun pitää syödä jotain, tai et kestä lounaaseen saakka.
 deu	fin	Sie amüsierten sich mit Videospielen.	He huvittelivat pelaamalla videopelejä.
+deu	fin	Sie antwortete innerhalb von zehn Minuten auf alle Fragen.	Hän vastasi kymmenessä minuutissa kaikkiin kysymyksiin.
+deu	fin	Sie beantwortete innerhalb von zehn Minuten alle Fragen.	Hän vastasi kymmenessä minuutissa kaikkiin kysymyksiin.
 deu	fin	Sie beging ein Verbrechen.	Hän teki rikoksen.
 deu	fin	Sie bekommen Wochenlohn.	He saavat viikkopalkkaa.
 deu	fin	Sie beobachtete, wie Schmetterlinge fliegen.	Hän tarkkaili, miten perhoset lentävät.
 deu	fin	Sie bereitete mir das Abendessen zu.	Hän valmisti minulle päivällisen.
+deu	fin	Sie betätigte sich während meines Aufenthalts in Kyoto als Stadtführerin.	Hän toimi oppaana ollessani Kiotossa.
 deu	fin	Sie blieb allein hier.	Hän jäi tänne yksikseen.
 deu	fin	Sie brauchen kein Geld.	Et tarvitse rahaa.
 deu	fin	Sie braucht dich.	Hän tarvitsee sinua.
+deu	fin	Sie buk eine Pastete.	Hän leipoi piirakan.
 deu	fin	Sie erinnern sich möglicherweise nicht an mich, aber wir haben uns letzten Sommer getroffen.	Et välttämättä muista minua, mutta tapasimme viime kesänä.
 deu	fin	Sie errötete.	Hän punaistui.
 deu	fin	Sie fiel hin und brach sich das linke Bein.	Hän kaatui ja mursi vasemman jalkansa.
+deu	fin	Sie fuhr mit Vollgas auf die rote Ampel zu. Schließlich musste sie scharf bremsen. Offensichtlich ist Benzin immer noch zu billig.	Hän lähestyi punaisia valoja täydessä vauhdissa. Lopulta hänen täytyi jarruttaa kovasti. Ilmeisesti bensiini on vieläkin liian halpaa.
+deu	fin	Sie fuhr mit Vollgas auf die rote Ampel zu. Schließlich musste sie scharf bremsen. Offensichtlich ist Benzin immer noch zu billig.	Hän lähestyi punaisia valoja täydessä vauhdissa. Lopulta hänen täytyi jarruttaa kovasti. Ilmeisesti polttoaine on vieläkin liian halpaa.
+deu	fin	Sie fuhr mit Vollgas auf die rote Ampel zu. Schließlich musste sie scharf bremsen. Offensichtlich ist Benzin immer noch zu billig.	Hän lähestyi punaisia valoja täyttä vauhtia. Lopulta hänen täytyi jarruttaa kovasti. Ilmeisesti bensiini on vieläkin liian halpaa.
+deu	fin	Sie fuhr mit Vollgas auf die rote Ampel zu. Schließlich musste sie scharf bremsen. Offensichtlich ist Benzin immer noch zu billig.	Hän lähestyi punaisia valoja täyttä vauhtia. Lopulta hänen täytyi jarruttaa kovasti. Ilmeisesti polttoaine on vieläkin liian halpaa.
+deu	fin	Sie fuhr mit Vollgas auf die rote Ampel zu. Schließlich musste sie scharf bremsen. Offensichtlich ist der Sprit immer noch zu billig.	Hän lähestyi punaisia valoja täydessä vauhdissa. Lopulta hänen täytyi jarruttaa kovasti. Ilmeisesti bensa on vieläkin liian halpaa.
+deu	fin	Sie fuhr mit Vollgas auf die rote Ampel zu. Schließlich musste sie scharf bremsen. Offensichtlich ist der Sprit immer noch zu billig.	Hän lähestyi punaisia valoja täyttä vauhtia. Lopulta hänen täytyi jarruttaa kovasti. Ilmeisesti bensa on vieläkin liian halpaa.
 deu	fin	Sie führt ein Tagebuch auf Englisch.	Hän pitää päiväkirjaa englanniksi.
+deu	fin	Sie gab die Hoffnung auf.	Hän luopui toivosta.
 deu	fin	Sie geht immer mit leichten Schritten.	Hän kävelee aina kevein askelin.
 deu	fin	Sie gewannen die Silbermedaille.	He saivat hopeamitalin.
 deu	fin	Sie gibt den Fehler nicht zu.	Hän ei myönnä itse olevansa väärässä.
@@ -1916,24 +2412,33 @@ deu	fin	Sie halfen einander.	He auttoivat toisiaan.
 deu	fin	Sie hasst Tom.	Hän vihaa Tomia.
 deu	fin	Sie hat all ihre Weihnachtsfeste zu Hause bei ihrer Familie verbracht.	Hän vietti kaikki joulunsa kotona perheensä kanssa.
 deu	fin	Sie hat die Butter durch Margarine ersetzt.	Hän käytti margariinia voin sijasta.
+deu	fin	Sie hat die Hoffnung aufgegeben.	Hän luopui toivosta.
 deu	fin	Sie hat ein Doppelkinn.	Hänellä on kaksoisleuka.
 deu	fin	Sie hat einen unglaublich wertvollen Ring.	Hänellä on uskomattoman arvokas sormus.
+deu	fin	Sie hat eine Pastete gebacken.	Hän leipoi piirakan.
 deu	fin	Sie hat eine weiße Katze.	Hänellä on valkoinen kissa.
 deu	fin	Sie hat ein kleines Haus.	Hänellä on pieni talo.
 deu	fin	Sie hat fünf große Brüder.	Hänellä on viisi isoveljeä.
 deu	fin	Sie hat ihre Hausaufgaben gemacht.	Hän on tehnyt kotiläksynsä.
 deu	fin	Sie hat ihren Hut verloren, aber hat ihn bald wiedergefunden.	Hän hukkasi hattunsa, mutta löysi sen pian.
 deu	fin	Sie hat mein Leben zerstört.	Hän tuhosi elämäni.
+deu	fin	Sie hat mich vor einer Stunde angerufen.	Hän soitti minulle tunti sitten.
+deu	fin	Sie hat mir das neue Wörterbuch gekauft.	Hän osti uuden sanakirjan minulle.
 deu	fin	Sie hat mir einen Liebesbrief auf Esperanto geschrieben.	Hän kirjoitti minulle rakkauskirjeen esperantoksi.
+deu	fin	Sie hat mir ein neues Wörterbuch gekauft.	Hän osti minulle uuden sanakirjan.
+deu	fin	Sie hat mir ein neues Wörterbuch gekauft.	Hän osti uuden sanakirjan minulle.
 deu	fin	Sie hat nicht geantwortet.	Hän ei vastannut.
 deu	fin	Sie hatte keine Bleistifte.	Hänellä ei ollut lyijykyniä.
 deu	fin	Sie hatten nichts Kleineres.	Heillä ei ollut mitään pienempää.
 deu	fin	Siehe oben!	Katso yllä!
+deu	fin	Sieh nur! Eine fliegende Untertasse!	Katso! Lentävä lautanen!
 deu	fin	Sie ist als Linguistikexpertin anerkannt.	Hänet tunnustetaan lingvistiikan asiantuntijaksi.
 deu	fin	Sie ist attraktiv.	Hän on viehättävä.
 deu	fin	Sie ist die schönste Frau.	Hän on mitä kaunein nainen.
 deu	fin	Sie ist eine bewunderungswürdige Frau.	Hän on ihailtava nainen.
+deu	fin	Sie ist ein Mensch, den wir alle schätzen.	Hän on henkilö, jota me kaikki kunnioitamme.
 deu	fin	Sie ist erfahrener als ich.	Hän on kokeneempi kuin minä.
+deu	fin	Sie ist essen gegangen.	Hän lähti syömään.
 deu	fin	Sie ist fünf Jahre jünger als er.	Hän on häntä viisi vuotta nuorempi.
 deu	fin	Sie ist im Dunkeln verschwunden.	Hän katosi pimeään.
 deu	fin	Sie ist in keiner Weise egoistisch.	Hän ei ole millään tavoin itsekäs.
@@ -1948,11 +2453,20 @@ deu	fin	Sie ist wirklich intelligent, oder?	Hän on tosi fiksu, vai kuinka?
 deu	fin	Sie kam die Treppe herunter, mit einem Brief in der Hand.	Hän tuli alakertaan kirje kädessään.
 deu	fin	Sie kam zu spät zur Schule.	Hän oli myöhässä kouluun.
 deu	fin	Sie kann gut Geige spielen.	Hän soittaa hyvin viulua.
+deu	fin	Sie kann mit mir mitfahren.	Hän voi mennä kanssani.
+deu	fin	Sie kann mit mir mitgehen.	Hän voi mennä kanssani.
 deu	fin	Sie kaufte ihrem Sohn eine Kamera.	Hän osti kameran pojalleen.
+deu	fin	Sie kaufte mir das neue Wörterbuch.	Hän osti uuden sanakirjan minulle.
+deu	fin	Sie kaufte mir ein neues Wörterbuch.	Hän osti minulle uuden sanakirjan.
+deu	fin	Sie kaufte mir ein neues Wörterbuch.	Hän osti uuden sanakirjan minulle.
 deu	fin	Sie kommt in ein paar Minuten zurück.	Hän on takaisin muutamassa minuutissa.
 deu	fin	Sie konnte ihre Tränen nicht zurückhalten.	Hän ei pystynyt estämään kyyneleitään.
 deu	fin	Sie lässt nicht locker.	Hän ei hellitä.
 deu	fin	Sie lebt ein unglückliches Leben.	Hän elää onnetonta elämää.
+deu	fin	Sie lebt in der Ukraine.	Hän asuu Ukrainassa.
+deu	fin	Sie lebt in der Ukraine.	Se asuu Ukrainas.
+deu	fin	Sie lebt ohne Pläne und Ziele.	Hän elää ilman suunnitelmia ja tavoitteita.
+deu	fin	Sie lebt ohne Pläne und Ziele.	Hän elää ilman tasoja ja tavoitteita.
 deu	fin	Sie machte den Magister vor drei Jahren.	Hän suoritti maisterin tutkinnon kolme vuotta sitten.
 deu	fin	Sie macht einen wirklich erfreuten Eindruck.	Hän vaikuttaa todella iloiselta.
 deu	fin	Sie mag Kartoffelsalat.	Hän tykkää perunasalaatista.
@@ -1967,7 +2481,10 @@ deu	fin	Sie scheinen nicht glücklich zu sein.	He eivät tunnu olevan onnellisia
 deu	fin	Sie scheinen sich hier nicht sonderlich wohlzufühlen.	Ette taida viihtyä täällä kovinkaan hyvin.
 deu	fin	Sie scheint reich zu sein.	Hän näyttää rikkaalta.
 deu	fin	Sie schien ihre Tränen zu unterdrücken.	Hän näytti pidättelevän itkua.
+deu	fin	Sie schlug dem Kunden vor, sich einen blauen Schlips zu kaufen.	Hän ehdotti asiakkaalle, että tämä voisi ostaa sinisen kravatin.
+deu	fin	Sie schlug dem Kunden vor, sich einen blauen Schlips zu kaufen.	Hän ehdotti asiakkaalle, että tämä voisi ostaa sinisen solmion.
 deu	fin	Sie schmückte die Wände mit Bildern.	Hän koristeli seinän kuvin.
+deu	fin	Sie schrieb viele Gedichte.	Hän kirjoitti monia runoja.
 deu	fin	Sie sind Ärzte.	He ovat lääkäreitä.
 deu	fin	Sie sind Ärzte.	Olette lääkäreitä.
 deu	fin	Sie sind einander sehr zugetan.	He ovat kovin kiintyneitä toisiinsa.
@@ -1988,15 +2505,25 @@ deu	fin	Sie war bereit, ihm all sein Geld zurückzugeben.	Hän oli valmis antama
 deu	fin	Sie war bereits schwanger.	Hän oli jo raskaana.
 deu	fin	Sie war eifersüchtig, als er mit einem anderen Mädchen sprach.	Hän oli mustasukkainen kun hän puhui toiselle tytölle.
 deu	fin	Sie waren bewaffnet.	Heillä oli aseet.
+deu	fin	Sie waren letztes Jahr in Joes Klasse.	He olivat Joen luokalla viime vuonna.
+deu	fin	Sie waren letztes Jahr in Joes Klasse.	Ne olivat Joen luokalla viime vuonna.
+deu	fin	Sie war sich der Gefahr bewusst.	Hän oli tietoinen vaarasta.
 deu	fin	Sie weint immer, wenn er betrunken ist.	Hän itkee aina kun hän on humalassa.
 deu	fin	Sie werden dich nicht finden.	He eivät löydä sinua.
 deu	fin	Sie will einen Millionär heiraten.	Hän haluaa mennä naimisiin miljonäärin kanssa.
+deu	fin	Sie wohnen in der Ukraine.	He asuvat Ukrainassa.
+deu	fin	Sie wohnen in der Ukraine.	Ne asuu Ukrainas.
+deu	fin	Sie wohnt in der Ukraine.	Hän asuu Ukrainassa.
+deu	fin	Sie wohnt in der Ukraine.	Se asuu Ukrainas.
 deu	fin	Sie wohnt in Kyoto.	Hän asuu Kiotossa.
 deu	fin	Sie wurde 1960 geboren.	Hän syntyi vuonna 1960.
 deu	fin	Sie wurde auf frischer Tat ertappt, als sie versuchte, eine Halskette zu stehlen.	Hän jäi kiinni rysän päältä kun hän yritti varastaa kaulakorua.
+deu	fin	Sie wurde Fünfte im Laufwettbewerb.	Hän tuli viidenneksi juoksukilpailussa.
 deu	fin	Sie wusste es nicht.	Hän ei tiennyt sitä.
 deu	fin	Sie zeigte uns das Foto ihrer Mutter.	Hän näytti meille kuvan äidistään.
 deu	fin	Sie zitterte vor Angst.	Hän vapisi pelosta.
+deu	fin	Sind Sie Jude?	Oletko juutalainen?
+deu	fin	Sind Sie Jüdin?	Oletko juutalainen?
 deu	fin	„Sind Sie Lehrer?“ – „Ja, bin ich!“	"Oletteko opettaja?" "Olen!"
 deu	fin	Sind wir uns nicht schon einmal begegnet?	Emmekö ole tavanneet aikaisemmin?
 deu	fin	Singst du gerne?	Pidätkö laulamisesta?
@@ -2009,14 +2536,20 @@ deu	fin	So etwas Schönes verliert nie seinen Wert.	Tämänkaltainen kaunis esin
 deu	fin	Sonntags gehe ich in die Kirche.	Käyn kirkossa sunnuntaisin.
 deu	fin	Soweit ich weiß, existiert kein solches Wort.	Minun tietääkseni sellaista sanaa ei ole olemassa.
 deu	fin	Soweit ich weiß, gibt es kein solches Wort.	Minun tietääkseni sellaista sanaa ei ole olemassa.
+deu	fin	So weit ist alles in Ordnung.	Tähän mennessä kaikki hyvin.
 deu	fin	Spaßeshalber ging ich auf den Vorschlag ein.	Huvin vuoksi, suostuin ehdotukseen.
 deu	fin	Spikereifen halten auf Eis besser als Alljahresreifen.	Nastarenkaat pitävät jäällä paremmin kuin kitkarenkaat.
 deu	fin	Spreche ich dir zu schnell?	Puhunko minä sinulle liian nopeasti?
 deu	fin	Spreche ich Ihnen zu schnell?	Puhunko minä teille liian nopeasti?
+deu	fin	Sprecht ihr Klingonisch?	Puhutteko klingonia?
+deu	fin	Sprecht ihr Norwegisch?	Puhutteko norjaa?
+deu	fin	Sprichst du Norwegisch?	Puhutko norjaa?
+deu	fin	Sprit ist jetzt billig.	Bensa on nyt halpaa.
 deu	fin	Steck deine Nase nicht in die Angelegenheiten anderer Leute.	Älä tunge nenääsi muiden asioihin.
 deu	fin	Stecke deine Nase nicht in anderer Leute Angelegenheiten.	Älä tunge nenääsi muiden asioihin.
 deu	fin	Steh auf!	Ylös sängystä!
 deu	fin	Steigen Sie aus?	Jäättekö pois?
+deu	fin	Stell das ganze Lagerfeuer zusammen.	Kokoa kokoon koko kokko.
 deu	fin	Stell nur Fragen, die man mit Ja oder Nein beantworten kann.	Esitä vain kysymyksiä, joihin voi vastata joko kyllä tai ei.
 deu	fin	Stimmt es, dass Tom seinen Namen geändert hat?	Onko totta, että Tom muutti nimensä?
 deu	fin	Suchst du dies?	Etsitkö tätä?
@@ -2031,6 +2564,7 @@ deu	fin	Tom beklagt sich nahezu nie über etwas.	Tom tuskin koskaan valittaa mis
 deu	fin	Tom beschwert sich ständig über seine Frau.	Tom valittaa aina vaimostaan.
 deu	fin	Tom betrachtete den Apfel, den er gerade aß, und er bemerkte, dass er soeben einen halben Wurm gegessen hatte.	Kun Tom katsoi omenaa, jota oli syömässä, hän huomasi että oli syönyt puolen matoa.
 deu	fin	Tom biss sich auf die Lippe.	Tom puri itseään huuleen.
+deu	fin	Tom bittet niemals jemanden um Hilfe.	Tom ei koskaan pyydä apua keneltäkään.
 deu	fin	Tom blieb sein ganzes Leben über arm.	Tom pysyi köyhänä koko ikänsä.
 deu	fin	Tom brauchte etwas Geld, um etwas für Mary zu kaufen.	Tom tarvitsi vähän rahaa ostaakseen jotakin Marylle.
 deu	fin	Tom erbte den Familienbetrieb.	Tom peri perheensä yrityksen.
@@ -2043,16 +2577,19 @@ deu	fin	Tom fiel vom Baum.	Tom putosi puusta.
 deu	fin	Tom fing an zu singen.	Tom rupesi laulamaan.
 deu	fin	Tom fing einen großen Fisch.	Tom nappasi kiinni oikean vonkaleen.
 deu	fin	Tom fragte Maria, ob sie ihm helfen würde.	Tom kysyi Marilta auttaisiko hän häntä.
+deu	fin	Tom frustriert es oft, wenn er sich nicht auf Französisch verständigen kann.	Tomi turhautuu usein, kun hän ei osaa tehdä itseään ymmärretyksi ranskaksi.
 deu	fin	Tom gab es zu.	Tomi myönsi sen.
 deu	fin	Tom gab Mary den Rat, früh am Morgen aufzubrechen.	Tom neuvoi Maryä lähtemään aikaisin aamulla.
 deu	fin	Tom gehört zu einer Verbrecherbande. Du solltest dich von ihm fernhalten!	Tom on jengiläinen. Sinun pitäisi pysyä erossa hänestä.
 deu	fin	Tom genießt es, Sport zu treiben.	Tom nauttii urheilusta.
 deu	fin	Tom geriet in einen Regenschauer, und sein neuer Anzug wurde ruiniert.	Tom joutui sateeseen ja hänen uusi pukunsa meni pilalle.
+deu	fin	Tom gibt immer an.	Tom tärkeilee aina.
 deu	fin	Tom ging zum Postamt, um einen Brief aufzugeben.	Tom meni postiin lähettääkseen kirjeen.
 deu	fin	Tom ging zurück nach draußen.	Tom palasi ulos.
 deu	fin	Tom glaubt dir.	Tom uskoo sinua.
 deu	fin	Tom hat blaue Augen.	Tomilla on siniset silmät.
 deu	fin	Tom hat blaue Augen.	Tomin silmät ovat siniset.
+deu	fin	Tom hat dem Beschluss nicht zugestimmt.	Tom ei yhtynyt päätökseen.
 deu	fin	Tom hat die Gewohnheit von seinem Vater übernommen.	Tom omaksui tuon tavan isältään.
 deu	fin	Tom hat drei ältere Schwestern.	Tomilla on kolme vanhempaa sisarta.
 deu	fin	Tom hat drei jüngere Schwestern.	Tomilla on kolme nuorempaa sisarta.
@@ -2068,10 +2605,13 @@ deu	fin	Tom hat ein Konto in der Schweiz.	Tomilla on pankkitili Sveitsissä.
 deu	fin	Tom hat ein schlechtes Erinnerungsvermögen.	Tomilla on huono muisti.
 deu	fin	Tom hat ein schwaches Herz.	Tomilla on heikko sydän.
 deu	fin	Tom hat gerade schlechte Laune.	Tom on nyt huonolla päällä.
+deu	fin	Tom hat gesagt, dass es reiner Zufall gewesen ist.	Tom sanoi, että se oli pelkkä sattuma.
 deu	fin	Tom hat Herzbeschwerden.	Tomilla on sydänongelmia.
 deu	fin	Tom hat heute Geburtstag.	Tomilla on tänään syntymäpäivä.
 deu	fin	Tom hat Höhenangst.	Tom pelkää korkeita paikkoja.
 deu	fin	Tom hat Hunger.	Tom on nälkäinen.
+deu	fin	Tom hat ihnen eine Falle gestellt.	Tom asetti heille ansan.
+deu	fin	Tom hat ihnen eine Falle gestellt.	Tom asetti niille ansan.
 deu	fin	Tom hat kein Bargeld.	Tomilla ei ole käteistä.
 deu	fin	Tom hat keine Geduld.	Tom on äkkipikainen.
 deu	fin	Tom hat lange Beine.	Tomilla on pitkät sääret.
@@ -2101,13 +2641,16 @@ deu	fin	Tom isst nur, was er essen will.	Tom syö vain mitä hän haluaa syödä
 deu	fin	Tom ist begriffsstutzig.	Tom on itsepäinen.
 deu	fin	Tom ist begriffsstutzig.	Tom on jääräpäinen.
 deu	fin	Tom ist davon nicht begeistert.	Tomi ei ole innoissaan tästä.
+deu	fin	Tom ist der Ehemann meiner jüngeren Schwester.	Tomi on nuoremman siskoni aviomies.
 deu	fin	Tom ist der einzige Zeuge des Verbrechens.	Tom on rikoksen ainoa todistaja.
 deu	fin	Tom ist der perfekte Vater.	Tom on täydellinen isä.
 deu	fin	Tom ist ein Auftragsmörder.	Tom on ammattisalamurjaaja.
 deu	fin	Tom ist eine Quasselstrippe.	Tom on puhelias.
 deu	fin	Tom ist ein guter Schriftsteller.	Tomi on hyvä kirjoittaja.
 deu	fin	Tom ist ein Hypochonder.	Tom on luulosairas.
+deu	fin	Tom ist ein Name mit drei Buchstaben.	Tom on kolmikirjaiminen nimi.
 deu	fin	Tom ist ein schlaues Kerlchen.	Tom on fiksu nassikka.
+deu	fin	Tom ist ein typischer Ami.	Tomi on tyypillinen jenkki.
 deu	fin	Tom ist Elektroingenieur.	Tom on sähköinsinööri.
 deu	fin	Tom ist erleichtert.	Tom on helpottunut.
 deu	fin	Tom ist erst fünf, aber er kann schon lesen.	Tom on vasta viisi, mutta hän osaa jo lukea.
@@ -2117,6 +2660,7 @@ deu	fin	Tom ist ganz bestimmt bereit, alles Nötige zu tun.	Olen melko varma, et
 deu	fin	Tom ist gestorben.	Tom on kuollut.
 deu	fin	Tom ist gleich alt wie ich.	Tom on samanikäinen kuin minä.
 deu	fin	Tom ist gleich alt wie ich.	Tom on yhtä vanha kuin minä.
+deu	fin	Tom ist grob, aber gutmütig.	Tom on töykeä mutta hyväntahtoinen.
 deu	fin	Tom ist ins Schwimmbecken gefallen.	Tom putosi uima-altaaseen.
 deu	fin	Tom ist intelligent.	Tom on hyvä päästään.
 deu	fin	Tom ist kein Anarchist.	Tom ei ole anarkisti.
@@ -2127,6 +2671,7 @@ deu	fin	Tom ist krank.	Tom on sairaana.
 deu	fin	Tom ist Lasterfahrer.	Tom on kuorma-autonkuljettaja.
 deu	fin	Tom ist Lehrer.	Tom on opettaja.
 deu	fin	Tom ist mein Cousin.	Tom on serkkuni.
+deu	fin	Tom ist mein Schwager.	Tomi on mun lanko.
 deu	fin	Tom ist neugierig.	Tom on utelias.
 deu	fin	Tom ist nicht da.	Tom ei ole paikalla.
 deu	fin	Tom ist niedergeschlagen.	Tom on alakuloinen.
@@ -2137,6 +2682,8 @@ deu	fin	Tom ist schlecht im Sport.	Tom on huono urheilemaan.
 deu	fin	Tom ist sehr berühmt.	Tom on todella kuuluisa.
 deu	fin	Tom ist sehr groß.	Tom on todella pitkä.
 deu	fin	Tom ist sehr nett.	Tom on todella kiltti.
+deu	fin	Tom ist so ein Angsthase.	Tomi on sellainen jänishousu.
+deu	fin	Tom ist so ein Hasenfuß.	Tomi on sellainen jänishousu.
 deu	fin	Tom ist Vegetarier.	Tom on vegetariaani.
 deu	fin	Tom ist vergesslich.	Tom unohtelee asioita helposti.
 deu	fin	Tom ist viel älter als Mary.	Tom on paljon vanhempi kuin Mary.
@@ -2159,6 +2706,7 @@ deu	fin	Tom kann jederzeit kommen.	Tom voi tulla mihin aikaan tahansa.
 deu	fin	Tom kann mit einer Hand ein Ei aufschlagen.	Tom osaa rikkoa munan yhdellä kädellä.
 deu	fin	Tom kann schlecht gucken.	Tomilla on huono näkö.
 deu	fin	Tom kann schnell laufen.	Tom pystyy juoksemaan nopeasti.
+deu	fin	Tom kann sich nicht an Marys Adresse erinnern.	Tom ei pysty muistamaan Maryn osoitetta.
 deu	fin	Tom kaufte sich ein neues Auto.	Tom osti uuden auton.
 deu	fin	Tom kennt Marys Vater.	Tom tuntee Maryn isän.
 deu	fin	Tom kennt nicht den Unterschied zwischen einem Zigeuner und einem Ungarn.	Tom ei tiedä, mitä eroa on mustalaisella ja unkarilaisella.
@@ -2185,6 +2733,9 @@ deu	fin	Tom möchte nicht schwach erscheinen.	Tom ei halua vaikuttaa heikolta.
 deu	fin	Tom muss jetzt nach Hause gehen.	Tomin täytyy mennä nyt kotiin.
 deu	fin	Tom nahm seine Mütze ab.	Tom riisui lakkinsa.
 deu	fin	Tom rannte um sein Leben.	Tom pakeni henkensä edestä.
+deu	fin	Tom sagte, dass es reiner Zufall gewesen sei.	Tom sanoi, että se oli pelkkä sattuma.
+deu	fin	Tom sagte, dass es reiner Zufall war.	Tom sanoi, että se oli pelkkä sattuma.
+deu	fin	Tom sagte, es sei reiner Zufall gewesen.	Tom sanoi sen olleen pelkkä sattuma.
 deu	fin	Tom sagte Maria, dass ihm ihre Schuhe sehr gefielen, obwohl er sie eigentlich hässlich fand.	Tom sanoi Marylle, että hän pitää Maryn kengistä, vaikka ne olivatkin hänen mielestään rumat.
 deu	fin	Tom sagte sich, dass er die richtige Entscheidung getroffen hätte.	Tom sanoi itselleen, että hän oli tehnyt oikean päätöksen.
 deu	fin	Tom sah den Kindern beim Spielen zu.	Tom katsoi lasten leikkivän.
@@ -2204,6 +2755,7 @@ deu	fin	Tom setzte sich neben mich.	Tom istuutui viereeni.
 deu	fin	Tom setzte sich.	Tom istui.
 deu	fin	Tom setzte sich.	Tom istui alas.
 deu	fin	Tom setzte sich.	Tom istuutui.
+deu	fin	Toms Haus hat ein Strohdach.	Tomin talossa on olkikatto.
 deu	fin	Tom sieht fern.	Tom katsoo TV:tä.
 deu	fin	Tom sieht mich an.	Tom katsoo minua.
 deu	fin	Tom sieht sich an seinem Rechner einen Film an.	Tom katsoo elokuvaa tietokoneeltaan.
@@ -2217,10 +2769,15 @@ deu	fin	Tom spricht Englisch mit französischem Akzent.	Tom puhuu englantia rans
 deu	fin	Tom spricht Englisch mit starkem französischem Akzent.	Tom puhuu englantia voimakkaalla ranskalaisella aksentilla.
 deu	fin	Tom spricht immer Französisch.	Tom puhuu aina ranskaa.
 deu	fin	Tom spricht langsam.	Tom puhuu hitaasti.
+deu	fin	Tom spricht nicht nur Französisch.	Tom ei puhu vain ranskaa.
 deu	fin	Tom starb bei dem Versuch, Mary zu retten.	Tom kuoli yrittäessään pelastaa Maria.
 deu	fin	Tom starb vor zehn Jahren im Gefängnis.	Tom kuoli vankilassa kymmenen vuotta sitten.
 deu	fin	Tom steckt in ernsten Schwierigkeiten.	Tom on vakavissa ongelmissa.
 deu	fin	Tom steht jeden Morgen um sechs Uhr auf.	Tom nousee ylös joka aamu kuudelta.
+deu	fin	Tom stellte ihnen eine Falle.	Tom asetti heille ansan.
+deu	fin	Tom stellte ihnen eine Falle.	Tom asetti niille ansan.
+deu	fin	Tom stimmte dem Beschluss nicht zu.	Tom ei yhtynyt päätökseen.
+deu	fin	Toms Urgroßvater ist munter wie ein Fisch im Wasser.	Tomin isoisoisä on terve kuin pukki.
 deu	fin	Toms Vater geht es gegen den Strich, dass sein Sohn lange Haare hat und einen Bart trägt.	Tomin isä ei hyväksy Tomin pitkiä hiuksia ja partaa.
 deu	fin	Toms Zustand verschlechterte sich.	Tomin tila huononi.
 deu	fin	Tom teilte seine Tafel Schokolade mit seinem Freund.	Tom jakoi suklaapatukkansa ystävänsä kanssa.
@@ -2232,6 +2789,8 @@ deu	fin	Tom und Maria kündigten die Auflösung ihrer Ehe an.	Tom ja Mari ilmoit
 deu	fin	Tom und Maria sind glücklich.	Tomi ja Mari ovat onnellisia.
 deu	fin	Tom und Maria spielten zusammen im Sandkasten und bauten Sandburgen.	Tom ja Mari leikkivät yhdessä hiekkalaatikolla ja tekivät hiekkalinnoja.
 deu	fin	Tom und Maria tanzten zusammen.	Tom ja Maria tanssivat yhdessä.
+deu	fin	Tom und Mary haben gesagt, dass sie es nicht glaubten.	Tomi ja Mari sanoivat etteivät he uskoneet sitä.
+deu	fin	Tom und Mary sagten, dass sie es nicht glaubten.	Tomi ja Mari sanoivat etteivät he uskoneet sitä.
 deu	fin	Tom und Mary scheinen nicht hungrig zu sein.	Tom ja Mary eivät vaikuta nälkäisiltä.
 deu	fin	Tom und Mary versuchten John zu ermorden.	Tom ja Mary yrittivät murhata Johnin.
 deu	fin	Tom unterschrieb den Vertrag, ohne ihn zu lesen.	Tom allekirjoitti sopimuksen lukematta sitä.
@@ -2259,6 +2818,7 @@ deu	fin	Tom weinte.	Tom itki.
 deu	fin	Tom weint immer noch.	Tom itkee vieläkin.
 deu	fin	Tom weint.	Tom itkee.
 deu	fin	Tom weiß nicht, wie das auf Englisch heißt.	Tom ei tiedä miksi tätä sanotaan englanniksi.
+deu	fin	Tom will nicht Tierarzt werden.	Tom ei halua eläinlääkäriksi.
 deu	fin	Tom wird dieses Jahr dreißig.	Tom täyttää tänä vuonna kolmekymmentä.
 deu	fin	Tom wird wahrscheinlich nichts essen.	Tom ei luultavasti syö mitään.
 deu	fin	Tom wirkte ganz entschlossen.	Tom vaikutti melko päättäväiseltä.
@@ -2287,9 +2847,12 @@ deu	fin	Tom zog sein Hemd aus.	Tom riisui paitansa.
 deu	fin	Tom zog Socken an.	Tom laittoi sukat jalkaan.
 deu	fin	Tom zuckte mit den Achseln.	Tom kohautti olkiaan.
 deu	fin	Tom zufolge hat sich Maria selbst getötet.	Tomin mukaan Mari tappoi itsensä.
+deu	fin	Trinke mehr Milch.	Juo enemmän maitoa.
 deu	fin	Trinken Sie ein bisschen Tee.	Ottakaa toki hiukkasen teetä.
 deu	fin	Trink kein Bier, bevor du schlafen gehst.	Älä juo olutta ennen nukkumaanmenoa.
+deu	fin	Trink mehr Milch.	Juo enemmän maitoa.
 deu	fin	Trinkst du Alkohol?	Juotko alkoholia?
+deu	fin	Trinkt mehr Milch.	Juokaa enemmän maitoa.
 deu	fin	Trugen beide einen Helm?	Kantoivatko molemmat kypärää?
 deu	fin	Tu es mit mir.	Tee se minun kanssani.
 deu	fin	Tut mir leid, dass ich dich so lange habe warten lassen.	Anteeksi, että jouduit odottamaan niin pitkään.
@@ -2297,6 +2860,8 @@ deu	fin	Tu, was ich sage!	Tee niin kuin käsken.
 deu	fin	Twitter ist einer der ärgsten Feinde des Islam.	Twitter on yksi islamin suurimmista vihollisista.
 deu	fin	Übelkeit lässt sich nicht allein durch Willenskraft überwinden.	Pahoinvointia ei voiteta pelkällä tahdonvoimalla.
 deu	fin	Über den Genozid der USA an den Indianern wird oft geschwiegen.	Intiaanien kansanmurha USA:ssa vaietaan usein kuoliaaksi.
+deu	fin	Überquere diese Brücke nicht.	Älä käytä tätä siltaa.
+deu	fin	Überquere diese Brücke nicht.	Älä ylitä tätä siltaa.
 deu	fin	Übersetze diesen Textabschnitt Wort für Wort.	Käännä se tekstikappale sanasta sanaan.
 deu	fin	Übersetzen Sie diesen Textabschnitt Wort für Wort.	Kääntäkää se tekstikappale sanasta sanaan.
 deu	fin	Übersetzt diesen Textabschnitt Wort für Wort.	Kääntäkää se tekstikappale sanasta sanaan.
@@ -2306,20 +2871,35 @@ deu	fin	Und Gott sprach: Es werde Licht. Und es wurde Licht.	Jumala sanoi: "Tulk
 deu	fin	Und ich weiß, dass du es nicht für mich getan hast.	Ja minä tiedän, että et tehnyt sitä minun takiani.
 deu	fin	Und sie hatte wieder mal recht, so wie immer.	Ja hän oli oikeassa taas kerran, niin kuin aina.
 deu	fin	Und was dann?	Ja entä sitten?
+deu	fin	Ungarische Tomaten sind die besten, die ich je gegessen habe.	Unkarilaiset tomaatit ovat parhaita, mitä olen ikinä syönyt.
+deu	fin	Ungarische Tomaten sind die besten, die ich je gegessen habe.	Unkarilaistomaatit ovat parhaita, mitä olen ikinä syönyt.
+deu	fin	Ungarische Tomaten sind die besten, die ich jemals gegessen habe.	Unkarilaiset tomaatit ovat parhaita, mitä olen ikinä syönyt.
+deu	fin	Ungarische Tomaten sind die besten, die ich jemals gegessen habe.	Unkarilaistomaatit ovat parhaita, mitä olen ikinä syönyt.
 deu	fin	Unglücklicherweise stimmt es.	Pitää paikkansa, ikävä kyllä.
 deu	fin	Unser Auto ist mit einer Klimaanlage ausgestattet.	Meidän automme on varustettu ilmastoinnilla.
 deu	fin	Unsere Familie besteht aus fünf Personen.	Perheessäni on viisi henkeä.
 deu	fin	Unsere Galaxie wird Milchstraße genannt.	Meidän galaksimme nimi on Linnunrata.
 deu	fin	Unsere Götter sind tot.	Jumalamme ovat kuolleet.
 deu	fin	Unsere Schule befindet sich in diesem Dorf.	Koulumme sijaitsee tässä kylässä.
+deu	fin	Unser Hund ist fast unters Auto gekommen.	Meidän koira jäi melkein auton alle.
+deu	fin	Unser Planet ist krank.	Planeettamme on sairas.
+deu	fin	Unterschreib das Dokument nicht, ohne es gelesen zu haben.	Älä allekirjoita dokumenttia lukematta sitä.
+deu	fin	Unterschreibe das Dokument nicht, ohne es gelesen zu haben.	Älä allekirjoita dokumenttia lukematta sitä.
+deu	fin	Unterschreiben Sie das Dokument nicht, ohne es gelesen zu haben.	Älkä allekirjoitattako dokumenttia lukematta sitä.
+deu	fin	Unterschreibt das Dokument nicht, ohne es gelesen zu haben.	Älkä allekirjoitattako dokumenttia lukematta sitä.
 deu	fin	Unwissenheit ist unsichtbar für diejenigen, die darunter leiden.	Tietämättömyys on näkymätöntä siitä kärsiville.
+deu	fin	Unzufriedene Kunden stimmen mit den Füßen ab.	Tyytymättömät asiakkaat äänestävät jaloillaan.
 deu	fin	Vegetarier essen kein Fleisch.	Kasvissyöjät eivät syö lihaa.
 deu	fin	Verbrauchen Sie bitte nicht mehr Wasser als nötig!	Käytäthän vettä säästeliäästi.
 deu	fin	„Verdammte Scheiße!“ schrie Robert. „Was, zum Teufel, sollen wir denn jetzt tun?“	"Voi vitun vittu!", huudahti Robert, "ja mitä helvettiä meidän pitäisi nyt tehdä?"
+deu	fin	Vergesst nicht, uns anzurufen, wenn ihr in Kioto ankommt.	Älkää unohtako soittaa meille, kun saavutte Kiotoon.
+deu	fin	Vergesst nicht, uns anzurufen, wenn ihr in Kyoto ankommt.	Älkää unohtako soittaa meille, kun saavutte Kiotoon.
 deu	fin	Vergeude nicht Toms Zeit!	Älä tuhlaa Tomin aikaa.
 deu	fin	Vergiss deinen Schirm nicht!	Ethän unohda sateenvarjoasi.
 deu	fin	Vergiss es!	Älä viitsi!
 deu	fin	Vergiss nicht deinen Regenschirm!	Ethän unohda sateenvarjoasi.
+deu	fin	Vergiss nicht, uns anzurufen, wenn du in Kioto ankommst.	Älä unohda soittaa meille, kun saavut Kiotoon.
+deu	fin	Vergiss nicht, uns anzurufen, wenn du in Kyoto ankommst.	Älä unohda soittaa meille, kun saavut Kiotoon.
 deu	fin	Verglichen mit seinem Vater ist er oberflächlich.	Isäänsä verrattuna hän on pinnallinen.
 deu	fin	Verheimlichst du mir etwas?	Salaatko jotakin minulta?
 deu	fin	Verschlaf nicht!	Älä nuku pommiin.
@@ -2354,11 +2934,16 @@ deu	fin	Vielleicht weiß Tom etwas.	Ehkä Tom tietää jotain.
 deu	fin	Vögel singen.	Linnut laulavat.
 deu	fin	Volltanken.	Tankki täyteen, kiitos!
 deu	fin	Vor einigen Tagen wolltest du nicht einmal mit mir reden.	Muutama päivä sitten et halunnut edes puhua minulle.
+deu	fin	Vorgestern war ein Gewitter.	Toissa päivänä oli ukkonen.
 deu	fin	Wähle den Satz, der grammatikalisch nicht korrekt ist.	Valitse lause, joka ei ole kieliopillisesti oikein.
 deu	fin	Während ich auf den Bus wartete, sah ich einen Verkehrsunfall.	Odottaessani bussia näin liikenneonnettomuuden.
 deu	fin	Während Liisa in den Laden ging, las Markku die Zeitung.	Sillä aikaa kun Liisa kävi kaupassa, Markku luki sanomalehden.
 deu	fin	Wahrscheinlich war sie sich dessen bewusst, dass sie von vielen Jungs angestarrt wurde.	Luultavasti tyttö oli tietoinen, että monta poikaa tuijotti häntä.
 deu	fin	Wann bist du aus London zurückgekehrt?	Milloin palasit Lontoosta?
+deu	fin	„Wann fahren Sie?“ – „Wir fahren übermorgen.“	”Milloin te menette?” ”Me menemme ylihuomenna.”
+deu	fin	„Wann fahrt ihr?“ – „Wir fahren übermorgen.“	”Milloin te menette?” ”Me menemme ylihuomenna.”
+deu	fin	„Wann gehen Sie?“ – „Wir gehen übermorgen.“	”Milloin te menette?” ”Me menemme ylihuomenna.”
+deu	fin	„Wann geht ihr?“ – „Wir gehen übermorgen.“	”Milloin te menette?” ”Me menemme ylihuomenna.”
 deu	fin	Wann hast du das letzte Mal Sex gehabt?	Milloin sinä viimeksi harrastit seksiä?
 deu	fin	Wann seid ihr zurückgekommen?	Milloin tulitte takaisin?
 deu	fin	Wann spielst du Tennis?	Milloin sinä pelaat tennistä?
@@ -2377,8 +2962,20 @@ deu	fin	Warum gehen Leute ins Kino?	Miksi ihmiset käyvät elokuvissa?
 deu	fin	Warum gehen Menschen ins Kino?	Miksi ihmiset käyvät elokuvissa?
 deu	fin	Warum gehst du ins Krankenhaus?	Miksi sinä menet sairaalaan?
 deu	fin	Warum gibst du immer mir die Schuld?	Miksi aina syytät minua?
+deu	fin	Warum habt ihr in die andere Richtung geschaut, als ihr ihm begegnet seid?	Miksi katsoitte toiseen suuntaan, kun tapasitte hänet?
+deu	fin	Warum habt ihr in die andere Richtung geschaut, als ihr ihr begegnet seid?	Miksi katsoitte toiseen suuntaan, kun tapasitte hänet?
+deu	fin	Warum hast du in die andere Richtung geschaut, als du ihm begegnet bist?	Miksi katsoit toiseen suuntaan, kun tapasit hänet?
+deu	fin	Warum hast du in die andere Richtung geschaut, als du ihr begegnet bist?	Miksi katsoit toiseen suuntaan, kun tapasit hänet?
 deu	fin	Warum hast du nicht gefrühstückt?	Mikset syönyt aamiaista?
+deu	fin	Warum isst du nicht mit uns zusammen zu Abend?	Mikset illasta meidän kanssamme?
+deu	fin	Warum isst du nicht mit uns zusammen zu Abend?	Mikset sinä illasta meidän kanssamme?
 deu	fin	Warum ist sie so beliebt?	Miksi hän on niin suosittu?
+deu	fin	Warum ist Tom im Gefängnis?	Miksi Tomi on vankilassa?
+deu	fin	Warum ist Tom im Gefängnis?	Miks Tomi on linnassa?
+deu	fin	Warum konnte er nicht kommen?	Miksei hän voinut tulla?
+deu	fin	Warum konnte er nicht kommen?	Miksi hän ei voinut tulla?
+deu	fin	Warum konnte sie nicht kommen?	Miksei hän voinut tulla?
+deu	fin	Warum konnte sie nicht kommen?	Miksi hän ei voinut tulla?
 deu	fin	Warum lachte sie?	Miksi hän nauroi?
 deu	fin	Warum möchtest du Krankenpfleger werden?	Miksi haluat sairaanhoitajaksi?
 deu	fin	Warum nennt man die Leute in den Zufallssätzen immer Tom?	Miksi henkilöiden nimi on aina Tom satunnaisissa lauseissa?
@@ -2389,6 +2986,7 @@ deu	fin	Warum sind Sie immer so früh hier?	Miksi sinä olet aina niin aikaisess
 deu	fin	Warum sind Sie immer so früh hier?	Miksi sinä olet aina niin aikaisin täällä?
 deu	fin	Warum sollte ich eifersüchtig sein?	Miksi minun pitäisi olla mustasukkainen?
 deu	fin	Warum sollte Tom jemanden töten wollen?	Miksi Tom haluaisi tappaa ketään?
+deu	fin	Warum steht ihr hier?	Miksi te täällä seisotte?
 deu	fin	Warum trägst du keine Handschuhe?	Miksi et pidä hansikkaita?
 deu	fin	Warum trinken Sie Wasser?	Miksi te juotte vettä?
 deu	fin	Warum versteckt er sich?	Miksi hän pysyttelee piilossa?
@@ -2408,6 +3006,7 @@ deu	fin	Was genau erwartest du von uns?	Mitä tarkkaan ottaen haluat meistä?
 deu	fin	Was gilt die Wette?	Mitä lyödään vetoa ?
 deu	fin	„Was hast du gesagt?“ – „Ich habe nichts gesagt.“	"Mitä sinä sanoit?" "En minä sanonut mitään."
 deu	fin	Washington ist die Hauptstadt der Vereinigten Staaten.	Washington on Yhdysvaltojen pääkaupunki.
+deu	fin	„Was ist das?“ – „Das ist ein Buch.“	”Mikä tämä on?” ”Se on kirja.”
 deu	fin	Was ist dein deutsches Lieblingsvolkslied?	Mikä on saksalainen suosikkikansanlaulusi?
 deu	fin	Was ist deine Lieblingsfarbe?	Mikä sinun lempivärisi on?
 deu	fin	Was ist deine Lieblingssendung im Fernsehen?	Mikä on sinun suosikkiohjelmasi?
@@ -2438,6 +3037,14 @@ deu	fin	Wegen eines Unfalls kam ich zu spät zur Schule.	Myöhästyin koulusta o
 deu	fin	Wegen meines gebrochenen Beins kann ich nicht laufen.	En voi kävellä, koska jalkani on murtunut.
 deu	fin	Weil dieser Vogel große Flügel hat, fliegt er wirklich schnell.	Koska tällä linnulla on suuret siivet, se lentää todella nopeasti.
 deu	fin	Weil ich sehr müde war, ging ich früh zu Bett.	Olin tosi väsynyt, joten menin aikaisin nukkumaan.
+deu	fin	Weil keine Kunden da waren, haben wir das Geschäft vorzeitig geschlossen.	Koska asiakkaita ei ollut, suljimme kaupan etuajassa.
+deu	fin	Weil keine Kunden da waren, haben wir das Geschäft vorzeitig geschlossen.	Koska asiakkaita ei ollut, suljimme liikkeen etuajassa.
+deu	fin	Weil Thomas das Benzin ausgegangen ist, ist er zu spät zum Treffen gekommen.	Koska Tuomaalta loppui bensiini, tuli hän myöhässä tapaamiseen.
+deu	fin	Weil Thomas das Benzin ausging, kam er zu spät zum Treffen.	Koska Tuomaalta loppui bensiini, tuli hän myöhässä tapaamiseen.
+deu	fin	Weil Thomas der Sprit ausgegangen ist, ist er zu spät zum Treffen gekommen.	Koska Tuomaalta loppui bensa, tuli hän myöhässä tapaamiseen.
+deu	fin	Weil Thomas der Sprit ausgegangen ist, ist er zu spät zum Treffen gekommen.	Koska Tuomakselta loppui bensa, tuli hän myöhässä tapaamiseen.
+deu	fin	Weil Thomas der Sprit ausging, kam er zu spät zum Treffen.	Koska Tuomaalta loppui bensa, tuli hän myöhässä tapaamiseen.
+deu	fin	Weil Thomas der Sprit ausging, kam er zu spät zum Treffen.	Koska Tuomakselta loppui bensa, tuli hän myöhässä tapaamiseen.
 deu	fin	Wein fördert die Verdauung.	Viini auttaa ruoansulatusta.
 deu	fin	Weißt du denn nicht, was gestern passiert ist?	Etkö tiedä, mitä eilen tapahtui?
 deu	fin	Weißt du, warum der Himmel blau ist?	Tiedätkö, miksi taivas on sininen?
@@ -2446,6 +3053,7 @@ deu	fin	Weißt du, welche Farbe sie mag?	Tiedätkö mistä väristä hän pitä�
 deu	fin	Weißt du, wer dort geht?	Tiedätkö kuka siellä menee?
 deu	fin	Weißt du, wie gefährlich das ist?	Tiedätkö kuinka vaarallinen se on?
 deu	fin	Weißt du, wie gefährlich das ist?	Tiedätkö kuinka vaarallista se on?
+deu	fin	„Weißt du, wie Marias Tochter aussieht?“ – „Natürlich. Sie hat mir ein Foto von ihr gezeigt.“	”Tiedätkö, miltä Marian tytär näyttää?” ”Tietysti. Hän on näyttänyt minulle tyttärensä kuvan.”
 deu	fin	Weißt du, wie viel das kostet!	Tiedätkö sinä, kuinka paljon se maksaa!
 deu	fin	Weißt du, woraus diese Schachtel gemacht ist?	Tiedätkö, mistä tämä rasia on tehty?
 deu	fin	Welche Mannschaft wird das Spiel gewinnen?	Mikä joukkue tulee voittamaan pelin?
@@ -2454,13 +3062,20 @@ deu	fin	Welches ist der höchste Berg in Europa?	Mikä on Euroopan korkein vuori
 deu	fin	Welche Sprachen spricht Tom?	Mitä kieliä Tom osaa puhua?
 deu	fin	Welches Vergnügen bereitet uns das Geld, wenn es an der Gesundheit mangelt?	Mitä iloa meillä rahasta on, jos terveys puuttuu?
 deu	fin	Wem habe ich zu danken?	Ketä minun on kiittäminen?
+deu	fin	Wen?	Ketkä?
 deu	fin	Wenn du diesen Satz gelesen hast, wirst du dich in einer angenehmen Trance befinden und dich sehr wohlfühlen. Danach kannst du den Satz in deine Muttersprache übersetzen.	Kun olet lukenut tämän lauseen, olet miellyttävässä transsitilassa ja voit oikein hyvin. Tämän jälkeen voit kääntää lauseen äidinkielellesi.
+deu	fin	Wenn du hier drückst, erhöht sich die Lautstärke.	Kun painat tästä, äänenvoimakkuus nousee.
 deu	fin	Wenn du Hunger hast, schmeckt alles gut.	Kun on nälkä, kaikki maistuu hyvältä.
+deu	fin	Wenn du lernen willst, eine Sprache so wie ein Muttersprachler auszusprechen, wähle einen Dialekt und übe ihn. Muttersprachler verwenden in Alltagsgesprächen nicht mehrere verschiedene Dialekte.	Jos haluat oppia ääntämään kieltä niin kuin äidinkielinen puhuja, valitse yksi murre ja harjoittele sitä. Äidinkieliset puhujat eivät käytä päivittäisessä puheessaan useita murteita.
 deu	fin	Wenn du mich nicht so gekannt hast, dann hast du mich einfach gar nicht gekannt.	Jos et tuntenut minua tällä tavalla, et yksinkertaisesti tuntenut minua.
 deu	fin	Wenn du vorsichtig fährst, wirst du Unfälle vermeiden.	Jos ajat varovaisesti, vältät onnettomuudet.
+deu	fin	Wenn du willst, kannst du mein Auto nehmen.	Halutessasi sinä voit ottaa minun autoni.
+deu	fin	Wenn du willst, kannst du mein Auto nehmen.	Halutessasi voit ottaa minun autoni.
 deu	fin	Wenn er auf den Doktor gehört hätte, wäre er vielleicht noch am Leben.	Jos hän olisi totellut lääkäriä, hän olisi ehkä vielä elossa.
 deu	fin	Wenn es mir noch einmal misslingt, gebe ich den Plan auf.	Jos epäonnistun vielä kerran hylkään sen suunnitelman.
 deu	fin	Wenn ich dir doch nur helfen könnte!	Kunpa voisin auttaa sinua.
+deu	fin	Wenn ich du gewesen wäre, dann hätte ich es genauso gemacht.	Jos olisin ollut sinä, niin olisin tehnyt saman.
+deu	fin	Wenn ich du gewesen wäre, hätte ich es genauso gemacht.	Jos olisin ollut sinä, olisin tehnyt saman.
 deu	fin	Wenn ich ein bisschen mehr Geld gehabt hätte, hätte ich ihn gekauft.	Jos minulla olisi ollut hieman enemmän rahaa, olisin ostanut sen.
 deu	fin	Wenn ich ein Vogel wäre, würde ich zu dir fliegen.	Jos olisin lintu, lentäisin luoksesi.
 deu	fin	Wenn ich Ihre Hilfe nicht gehabt hätte, hätte ich es nicht gekonnt.	Ilman teidän apuanne en olisi voinut tehdä sitä.
@@ -2472,6 +3087,8 @@ deu	fin	Wenn sie dich nicht liebt, wo ist dann das Problem? Du kannst dich ja se
 deu	fin	Wenn Ted hier wäre, könnte er uns helfen, unser Zimmer aufzuräumen.	Jos Ted olisi täällä, hän voisi auttaa meitä siivoamaan huoneemme.
 deu	fin	Wenn wir uns nicht verirrt hätten, wären wir schneller hergekommen.	Eksyimme matkalla, mutta jos niin ei olisi käynyt, luulen että olisimme tulleet tänne nopeammin.
 deu	fin	Wer A sagt, muss auch B sagen.	Joka leikkiin lähtee, se leikin kestäköön!
+deu	fin	Werft ihn nicht raus.	Älkää antako hänelle potkuja.
+deu	fin	Werft sie nicht raus.	Älkää antako hänelle potkuja.
 deu	fin	Wer hat den Apfel gestohlen?	Kuka varasti omenan?
 deu	fin	Wer hat die Insel entdeckt?	Kuka löysi sen saaren?
 deu	fin	Wer hat hier Pizza bestellt?	Kuka tilasi pizzan?
@@ -2480,6 +3097,7 @@ deu	fin	Wer ist das?	Kuka toi on?
 deu	fin	Wer ist dein bester Freund?	Kuka on sinun paras ystäväsi?
 deu	fin	Wer ist dein bester Kumpel?	Kuka on sun paras kaveri?
 deu	fin	Wer ist dein Chinesischlehrer?	Kuka on kiinankielenopettajasi?
+deu	fin	Wer keine Fremdsprache kennt, weiß nichts von seiner eigenen.	Ken ei osaa vierasta kieltä, ei tiedä mitään omastaan.
 deu	fin	Wer wäre denn ein solcher Tor?	Kukahan sellainen hölmö olisi?
 deu	fin	Wer wäre so dumm, dies zu tun?	Kuka olisi niin typerä, että tekisi noin?
 deu	fin	Wer würde solch eine Dummheit machen?	Kuka tekisi sellaisen typeryyden?
@@ -2496,11 +3114,13 @@ deu	fin	Wie fühlt es sich an, wieder zu Hause zu sein?	Miltä tuntuu olla taas 
 deu	fin	Wie funktioniert das?	Miten tämä toimii?
 deu	fin	Wie geht es deiner Familie?	Mitä perheellesi kuuluu?
 deu	fin	Wie geht es Ihrer Familie?	Mitä perheellesi kuuluu?
+deu	fin	„Wie geht's?“ – „Danke, gut. Und dir?“ – „Mir geht's auch gut.“	”Mitä kuuluu?” ”Kiitos hyvää. Entä sinulle?” ”Minullekin kuuluu hyvää.”
 deu	fin	Wie geht's dir?	Miten menee?
 deu	fin	„Wie geht's?“ – „Mir geht es gut. Und dir?“ – „Mir geht es auch gut.“	”Mitä kuuluu?” ”Minulle kuuluu hyvää. Entä sinulle?” ”Minullekin kuuluu hyvää.”
 deu	fin	Wie groß bist du?	Miten pitkä olet?
 deu	fin	Wie hast du Tom kennengelernt?	Miten tapasit Tomin?
 deu	fin	Wie hat er auf die schlechten Nachrichten reagiert?	Miten hän otti vastaan ne huonot uutiset?
+deu	fin	Wie heißt der berühmteste Kriegsverbrecher?	Mikä on kuuluisimman sotarikollisen nimi?
 deu	fin	Wie heißt dieser Hund?	Mikä tämän koiran nimi on?
 deu	fin	Wie heißt dieses Insekt auf Englisch?	Miksi tätä hyönteistä sanotaan englanniksi?
 deu	fin	Wie heißt du?	Mikä on nimesi?
@@ -2510,6 +3130,8 @@ deu	fin	Wie ist deine Adresse?	Mikä sinun osoitteesi on?
 deu	fin	Wie ist dein Vorstellungsgespräch gelaufen?	Miten haastattelusi meni?
 deu	fin	Wie kann ich ein Foto auf deine Seite hochladen?	Miten voin ladata kuvan nettisivullesi?
 deu	fin	Wie komme ich am besten dorthin?	Miten pääsen sinne parhaiten?
+deu	fin	Wie lange dauerte es?	Kuinka kauan se kesti?
+deu	fin	Wie lange hat es gedauert?	Kuinka kauan se kesti?
 deu	fin	„Wie lange warst du gestern noch wach?“ – „Etwa bis halb drei.“	”Kuinka myöhään valvoit eilen?” ”Noin puoli kolmeen.”
 deu	fin	Wie lange war Tom dort?	Kuinka pitkään Tom oli siellä?
 deu	fin	Wie lautet der erste Buchstabe des Alphabets?	Mikä on aakkosten ensimmäinen kirjain?
@@ -2519,6 +3141,7 @@ deu	fin	Wie oft pro Tag fährt dieser Bus?	Kuinka monta kertaa päivässä täm�
 deu	fin	Wie sagt man "kaisha" auf Englisch?	Miten sanotaan "kaisha" englanniksi?
 deu	fin	Wie schnell dieses Pferd läuft!	Miten nopeasti tuo hevonen juokseekaan!
 deu	fin	Wieso?	Miten niin?
+deu	fin	Wie spät ist es, bitte?	Mitäköhän kello on?
 deu	fin	Wie spricht man deinen Namen aus?	Miten nimesi lausutaan?
 deu	fin	Wie stehen die Dinge?	Kuinka asiat ovat?
 deu	fin	Wie trinkst du den Kaffee, mit oder ohne Zucker?	Miten juot kahvisi, sokerilla vai ilman?
@@ -2532,34 +3155,44 @@ deu	fin	Wie viel hat Ihre Lautsprecheranlage gekostet?	Kuinka paljon teidän kai
 deu	fin	Wie viel kostet das?	Kuinka paljon se maksaa?
 deu	fin	Wie viel kostet das?	Mitä tämä maksaa?
 deu	fin	Wie viel kostet der Holzstuhl?	Paljonko puinen tuoli maksaa?
+deu	fin	Wie viel Uhr ist es, bitte?	Mitäköhän kello on?
 deu	fin	Wie viel wiegt dies?	Paljonko tämä painaa?
 deu	fin	Wie viel wiegt ein Fußball?	Paljonko jalkapallo painaa?
 deu	fin	Wie war dein Nachmittag?	Millainen oli iltapäiväsi?
 deu	fin	Wie war dein Tag?	Millainen oli päiväsi?
 deu	fin	Wie wäre es mit heute Abend?	Entäpä tänä iltana?
 deu	fin	Wie wärs mit ein bisschen Spaß?	Haluatko vähän hupia?
+deu	fin	Wie weit entfernt ist Guangzhou?	Kuinka kaukana Guangzhou on?
+deu	fin	Wie weit entfernt ist Kanton?	Kuinka kaukana Kanton on?
 deu	fin	Wie wurde Tom ermordet?	Miten Tom tapettiin?
 deu	fin	Willst du ihn treffen?	Haluatko tavata hänet?
 deu	fin	Willst du irgendwohin?	Haluatko mennä jonnekin?
 deu	fin	Willst du mich verarschen?	Kusetat sä mua?
 deu	fin	Wir alle wussten davon.	Me kaikki tiesimme siitä.
 deu	fin	Wir beenden unsere Arbeit um sechs.	Lopetamme työt kello kuusi.
+deu	fin	Wir betrachten ihr schönes Bild.	Katselemme hänen kaunista kuvaansa.
+deu	fin	Wir betrachten sein schönes Bild.	Katselemme hänen kaunista kuvaansa.
 deu	fin	Wir blieben am Leben.	Jäimme eloon.
 deu	fin	Wir brauchen es nicht zu machen.	Meidän ei tarvitse tehdä tätä.
 deu	fin	Wir brauchen mehr talentierte Menschen.	Tarvitsemme enemmän lahjakkaita ihmisiä.
+deu	fin	Wirf ihn nicht raus.	Älä anna hänelle potkuja.
 deu	fin	Wir freuen uns darauf, dich zu treffen.	Odotamme innolla, että tapaamme sinut.
+deu	fin	Wirf sie nicht raus.	Älä anna hänelle potkuja.
 deu	fin	Wir genossen unsere Ferien in vollen Zügen.	Nautimme lomistamme täysin rinnoin.
 deu	fin	Wir glauben noch immer an seine Unschuld.	Me uskomme hänen syyttömyytensä todeksi vieläkin.
 deu	fin	Wir haben alle Angst.	Olemme kaikki peloissamme.
 deu	fin	Wir haben auch ihnen geholfen.	Autoimme heitäkin.
 deu	fin	Wir haben aufmerksam zugehört, um nicht ein einziges Wort zu verpassen.	Kuuntelimme tarkkaavaisesti, jotta yksikään sana ei jäisi kuulematta.
 deu	fin	Wir haben bei Null angefangen.	Aloitimme aivan alusta.
+deu	fin	Wir haben das kleinere der beiden Übel gewählt.	Valitsimme pienemmän kahdesta pahasta.
 deu	fin	Wir haben das Problem gelöst.	Ratkaisimme ongelman.
 deu	fin	Wir haben den Gipfel nicht erreicht.	Emme päässeet vuorenhuipulle saakka.
 deu	fin	Wir haben dies und jenes zu besprechen.	Meillä on yhtä ja toista juteltavaa.
 deu	fin	Wir haben ein großes Problem.	Meillä on iso ongelma.
 deu	fin	Wir haben keinen Zucker.	Meillä ei ole sokeria.
+deu	fin	Wir haben Medikamente ins Lager transportiert.	Kuljetimme lääkkeitä leiriin.
 deu	fin	Wir haben nicht gestritten!	Emme riidelleet!
+deu	fin	Wir haben Tom nicht singen lassen.	Emme antaneet Tomin laulaa.
 deu	fin	Wir haben uns freiwillig gemeldet.	Me ilmoittauduimme vapaaehtoisiksi.
 deu	fin	Wir haben uns sehr lange unterhalten.	Me puhuimme todella pitkään.
 deu	fin	Wir haben verschlafen.	Nukuimme pommiin.
@@ -2578,9 +3211,17 @@ deu	fin	Wir kommen einmal im Monat zusammen.	Me kokoonnumme yhteen kerran kuussa
 deu	fin	Wir kommen morgen zurück.	Tulemme takaisin huomenna.
 deu	fin	Wir können es ja auf einen Versuch ankommen lassen.	Saatamme koettaa.
 deu	fin	Wir könnten genauso gut warten.	Voimme aivan hyvin odottaa.
+deu	fin	Wir leben in der Ukraine.	Asumme Ukrainassa.
+deu	fin	Wir leben in der Ukraine.	Me asumme Ukrainassa.
+deu	fin	Wir leben in der Ukraine.	Me asutaan Ukrainassa.
+deu	fin	Wir lieben unsere Kundinnen.	Me rakastamme asiakkaitamme.
+deu	fin	Wir lieben unsere Kundinnen.	Rakastamme asiakkaitamme.
 deu	fin	Wir müssen das Problem aus einer globalen Perspektive betrachten.	Meidän täytyy pohtia sitä ongelmaa globaalista näkökulmasta.
 deu	fin	Wir müssen die Verkehrsregeln befolgen.	Meidän pitää noudattaa liikennesääntöjä.
+deu	fin	Wir müssen uns wohl eine Weile mit dem alten begnügen.	Meidän on kai pärjättävä vanhalla jonkin aikaa.
 deu	fin	Wir saßen sozusagen auf dem Pulverfass.	Istuimme niin sanoakseni ruutitynnyrin päällä.
+deu	fin	Wir schauen uns ihr schönes Bild an.	Katselemme hänen kaunista kuvaansa.
+deu	fin	Wir schauen uns sein schönes Bild an.	Katselemme hänen kaunista kuvaansa.
 deu	fin	Wir sehen uns dann morgen!	Nähdään huomenna.
 deu	fin	Wir sehen uns nächste Woche!	Nähdään ensi viikolla!
 deu	fin	Wir sind gerade gelandet.	Me laskeuduimme vastikään.
@@ -2590,10 +3231,16 @@ deu	fin	Wir sind stolz auf dich.	Olemme ylpeitä sinusta.
 deu	fin	Wir sprechen später darüber.	Puhumme tästä myöhemmin.
 deu	fin	Wir testen gerade eine komplett neue Methode.	Kokeilemme kokonaan uutta menetelmää.
 deu	fin	Wir trafen uns, wo sich Fuchs und Hase gute Nacht sagen.	Tapasimme Jumalan selän takana.
+deu	fin	Wir transportierten Medikamente ins Lager.	Kuljetimme lääkkeitä leiriin.
+deu	fin	Wir trinken nach dem Essen gewöhnlich Tee.	Juomme yleensä teetä ruoan jälkeen.
 deu	fin	Wirtschaftlichkeit und Qualität sind keine Gegensätze, sondern zwei Seiten der gleichen Medaille.	Taloudellisuus ja laatu eivät ole vastakohtia vaan saman mitalin kaksi puolta.
 deu	fin	Wir verbrachten den ganzen Tag am See.	Vietimme koko päivän järvellä.
+deu	fin	Wir verfügen über begrenzte Ressourcen.	Meillä on rajatut resurssit.
 deu	fin	Wir verschoben die Sitzung um eine Woche.	Viivytimme kokousta viikolla.
+deu	fin	Wir wählten das kleinere der beiden Übel.	Valitsimme pienemmän kahdesta pahasta.
+deu	fin	Wir waren die Ersten.	Me olimme ensimmäiset.
 deu	fin	Wir waren gestern im Kino.	Me käytiin leffassa eilen.
+deu	fin	Wir waren nicht vorsichtig genug.	Emme olleet tarpeeksi varovaisia.
 deu	fin	Wir werden diesen Sommer ins Ausland reisen.	Aiomme matkustaa ulkomaille tänä kesänä.
 deu	fin	Wir werden in drei Monaten heiraten.	Olemme menossa naimisiin kolmen kuukauden päästä.
 deu	fin	Wir werden später darüber reden.	Puhumme tästä myöhemmin.
@@ -2617,15 +3264,22 @@ deu	fin	Wofür ist es berühmt?	Mistä se on tunnettu?
 deu	fin	Wofür ist sie bekannt?	Mistä hän on tunnettu?
 deu	fin	Wofür ist sie bekannt?	Mistä se on tunnettu?
 deu	fin	Wo gehst du hin?	Mihin matka?
+deu	fin	Wo habe ich nur die Schlüssel hingelegt?	Mihin minä laitoinkaan avaimet?
+deu	fin	Wo hab' ich nur die Schlüssel hingelegt?	Mihin mä laitoinkaa avaimet?
 deu	fin	Woher kennen wir uns?	Mistä tunnemme toisemme?
 deu	fin	Woher kommst du?	Mistä päin tulet?
 deu	fin	Wohin gehst du?	Mihin sinä menet?
+deu	fin	Wohin habe ich nur die Schlüssel gelegt?	Mihin minä laitoinkaan avaimet?
 deu	fin	Wo ist das Buch?	Missä kirja on?
 deu	fin	Wo ist der Ausgang?	Missä on uloskäynti?
+deu	fin	Wo ist der Treffpunkt?	Missä tapaamispaikka on?
 deu	fin	Wo ist die nächste U-Bahn-Station?	Missä on lähin metroasema?
+deu	fin	Wo ist ihr Hund?	Missä hänen koiransa on?
 deu	fin	Wo ist mein Auto?	Missä minun autoni on?
 deu	fin	Wo ist meine Sonnenbrille?	Missä minun aurinkolasini ovat?
+deu	fin	Wo ist sein Hund?	Missä hänen koiransa on?
 deu	fin	Wo kann ich mein Elektroauto aufladen?	Missä voin ladata sähköautoni?
+deu	fin	Wo sind die Löwen und die Tiger?	Missä leijonat ja tiikerit ovat?
 deu	fin	Wo sind Sie her?	Mistä olet kotoisin?
 deu	fin	Wo sind sie?	Missä he ovat?
 deu	fin	Wo sind wir?	Missä me olemme?
@@ -2633,15 +3287,34 @@ deu	fin	Wo treffen wir uns?	Missä tapaamme?
 deu	fin	Wovon man nicht sprechen kann, darüber muss man schweigen.	Mistä ei voi puhua, siitä täytyy vaieta.
 deu	fin	Wovon man nicht sprechen kann, darüber muss man schweigen.	Siitä josta ei voi puhua, on vaiettava.
 deu	fin	Wo wohnst du?	Missä asut?
+deu	fin	Wo wohnte er?	Missä hän asui?
+deu	fin	Wo wohnte sie?	Missä hän asui?
 deu	fin	Wozu?	Minkä tähden?
 deu	fin	Würden Sie mir bitte eine Tasse Kaffee geben?	Saisinko kupin kahvia, kiitos.
 deu	fin	Würdest du lieber in den Zoo oder ins Kino gehen?	Menisitkö mieluummin eläintarhaan vai elokuviin?
+deu	fin	Würdest du mir die Bilder zeigen?	Näyttäisitkö minulle kuvat?
+deu	fin	Würdest du mir die Bilder zeigen?	Näyttäisitkö minulle ne kuvat?
+deu	fin	Würdest du mir die Fotos zeigen?	Näyttäisitkö minulle ne valokuvat?
+deu	fin	Würdest du mir die Fotos zeigen?	Näyttäisitkö minulle valokuvat?
+deu	fin	Würdest du mir diese Bilder zeigen?	Näyttäisitkö minulle ne kuvat?
+deu	fin	Würdest du mir diese Fotos zeigen?	Näyttäisitkö minulle ne valokuvat?
 deu	fin	Wusstest du nicht, dass Tom und Mary ein Paar sind?	Etkö tiennyt, että Tomi ja Mari ovat pari?
 deu	fin	Wusstest du nicht, dass Tom und Mary ein Pärchen sind?	Etkö tiennyt, että Tomi ja Mari ovat pari?
 deu	fin	Yoga hilft ihr, ruhig zu bleiben.	Jooga auttaa häntä pysymään rauhallisena.
 deu	fin	Zehn, elf, zwölf, dreizehn, vierzehn, fünfzehn, sechzehn, siebzehn, achtzehn, neunzehn, zwanzig.	Kymmenen, yksitoista, kaksitoista, kolmetoista, neljätoista, viisitoista, kuusitoista, seitsemäntoista, kahdeksantoista, yhdeksäntoista, kaksikymmentä.
 deu	fin	Zieh deinen Schlafanzug an!	Pue yöpuku päälle.
+deu	fin	Zieh dir vor dem Eintreten die Schuhe aus.	Riisu kengät ennen sisääntuloa.
+deu	fin	Zieht euch vor dem Eintreten die Schuhe aus.	Riisukaa kengät ennen sisääntuloa.
 deu	fin	Zuerst dachte ich, dass ich krank wäre.	Ensin luulin olevani kipeä.
+deu	fin	Zu Hause bestimmt Liisa.	Kotona Liisa määrää.
 deu	fin	Zu meinem Leidwesen muss ich dir leider sagen, dass ...	Valitettavasti joudun kertomaan sinulle, että...
 deu	fin	Zu viel ist zu viel!	Liika on liikaa!
+deu	fin	Zwanzig Menschen kamen bei dem Brand ums Leben.	Kaksikymmentä ihmistä kuoli tulipalossa.
+deu	fin	Zwanzig Menschen sind bei dem Brand ums Leben gekommen.	Kaksikymmentä ihmistä kuoli tulipalossa.
+deu	fin	Zwanzig Personen kamen bei dem Brand ums Leben.	Kaksikymmentä henkeä menetettiin palossa.
+deu	fin	Zwanzig Personen kamen bei dem Brand ums Leben.	Kaksikymmentä henkeä menetettiin tulipalossa.
+deu	fin	Zwanzig Personen sind bei dem Brand ums Leben gekommen.	Kaksikymmentä henkeä menetettiin palossa.
+deu	fin	Zwanzig Personen sind bei dem Brand ums Leben gekommen.	Kaksikymmentä henkeä menetettiin tulipalossa.
 deu	fin	Zweifellos ist das Universum unendlich.	Maailmankaikkeus on epäilemättä ääretön.
+deu	fin	Zwei Fliegen mit einer Klappe!	Kaksi kärpästä yhdellä iskulla!
+deu	fin	Zwischen den Meinungen der beiden gab es einen großen Unterschied.	Heidän kahden mielipiteiden välillä oli iso ero.

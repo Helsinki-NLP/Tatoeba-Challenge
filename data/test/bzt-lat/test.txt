@@ -7,7 +7,11 @@ bzt_Latn	lat_Latn	Eo serai yn fon ferch.	Puella proba ero.
 bzt_Latn	lat_Latn	Eo su rhen di gath.	Catta non sum.
 bzt_Latn	lat_Latn	Eo su rhen di gath.	Cattus non sum.
 bzt_Latn	lat_Latn	Eo su tew padr.	Ego pater tuus sum.
+bzt_Latn	lat_Latn	Eo su yn mengyb.	Servus sum.
+bzt_Latn	lat_Latn	Eo su yn testfein di Iehofa.	Testis Iehovae sum.
+bzt_Latn	lat_Latn	Eo 'w nef rhen.	Nihil vobis debeo.
 bzt_Latn	lat_Latn	Eo wol comprar yn gas.	Domum emere volo.
+bzt_Latn	lat_Latn	Eo wol ddunar-llw a Fair.	Mariae id volo dare.
 bzt_Latn	lat_Latn	Eo yst compran yn ros.	Rosam emo.
 bzt_Latn	lat_Latn	Es-sa ffelig?	Estne laeta?
 bzt_Latn	lat_Latn	Estuir es lla briwad di Fair.	Esther uxor Mariae est.
@@ -18,41 +22,61 @@ bzt_Latn	lat_Latn	Greg' es bel.	Graecia formosa est.
 bzt_Latn	lat_Latn	Greg' es bel.	Graecia pulchra est.
 bzt_Latn	lat_Latn	Greid, eo lw ed.	Gratias tibi ago; id odi.
 bzt_Latn	lat_Latn	Hitler edif llo h-yddew.	Hitler Iudaeos oderat.
+bzt_Latn	lat_Latn	Iesu er rhen cristian.	Iēsus Christiānus non erat.
+bzt_Latn	lat_Latn	Ill afur af afar ill afur.	Amor amorem amare amat.
 bzt_Latn	lat_Latn	Ill bethisad es yn segruid.	Universum mysterium est.
+bzt_Latn	lat_Latn	Ill can di Domos es ci.	Canis Thomae hic est.
 bzt_Latn	lat_Latn	Ill cath es gran.	Cattus magnus est.
 bzt_Latn	lat_Latn	Ill diawl es morth.	Diabolus mortuus est.
 bzt_Latn	lat_Latn	Ill diawl es morth.	Larva mortua est.
 bzt_Latn	lat_Latn	Ill Dôn dunaf e-dd ill Dôn a tolled.	Dominus dedit et Dominus abstulit.
 bzt_Latn	lat_Latn	Ill mun es yn lan.	Mundus villagium est.
+bzt_Latn	lat_Latn	Ill mun es yn nediwn.	Mundus natio est.
+bzt_Latn	lat_Latn	Ill munn es maled.	Mundus aegrotat.
 bzt_Latn	lat_Latn	Ill puf ci es gwirdd.	Hoc malum viride est.
 bzt_Latn	lat_Latn	Ill puf es gwirdd.	Malum viride est.
 bzt_Latn	lat_Latn	Ill temp es yn segruid.	Tempus mysterium est.
+bzt_Latn	lat_Latn	"Ke dem?" "Nonc."	"Quando?" "Numquam."
 bzt_Latn	lat_Latn	Ke gws es lla liferthad?	Quid est libertas?
 bzt_Latn	lat_Latn	Ke gws es tew nôn?	Quid est nomēn tibi?
 bzt_Latn	lat_Latn	Ke gws es yn barol?	Quid est verbum?
 bzt_Latn	lat_Latn	Ke gws es yn barol?	Quid est vocabulum?
 bzt_Latn	lat_Latn	Ke gws es yn barol?	Verbum quid est?
 bzt_Latn	lat_Latn	Ke gws es yn barol?	Vocabulum quid est?
+bzt_Latn	lat_Latn	K'lwg es mew ffeil?	Ubi est filia mea?
+bzt_Latn	lat_Latn	K'lwg es nwstr ffeil?	Ubi est filia nostra?
+bzt_Latn	lat_Latn	K'lwg es nwstr ffeil?	Ubi est filius noster?
+bzt_Latn	lat_Latn	Lla ag es-sa funn?	Estne aqua munda?
 bzt_Latn	lat_Latn	Lla briwad di Fair es yn feddig.	Uxor Mariae medica est.
 bzt_Latn	lat_Latn	Lla der es bel.	Terra pulchra est.
+bzt_Latn	lat_Latn	Lla homosesaldad es nadyral.	Homosexualitas naturalis est.
 bzt_Latn	lat_Latn	Lla lyn es rhen d'yn ystuil.	Luna stella non est.
 bzt_Latn	lat_Latn	Lla riant ddef morir.	Regina debet mori.
 bzt_Latn	lat_Latn	Llo cherfel sunt h-ystran.	Cerebra extranea sunt.
+bzt_Latn	lat_Latn	Llo h-arfur wiwent.	Arbores vivunt.
 bzt_Latn	lat_Latn	Llo h-eliffan fanugant erf.	Elephantes herbam edunt.
 bzt_Latn	lat_Latn	Llo h-eliffan fanugant erf.	Elephanti herbam edunt.
 bzt_Latn	lat_Latn	Mair es rhen di faled.	Maria non aegrotat.
 bzt_Latn	lat_Latn	Mew nôn es Omid.	Nomen mihi Omid est.
+bzt_Latn	lat_Latn	Mew padr es maled.	Pater meus aegrotat.
 bzt_Latn	lat_Latn	Negyn mi lic.	Nemini placeo.
+bzt_Latn	lat_Latn	Nonc.	Numquam.
 bzt_Latn	lat_Latn	Nu fefeirafan.	Studebamus.
 bzt_Latn	lat_Latn	Nu mharolan rhen di Ffrencig.	Francogallice non loquimur.
 bzt_Latn	lat_Latn	Nu sun di llo châr.	Heroes sumus.
 bzt_Latn	lat_Latn	Nu sun h-efig.	Amici sumus.
 bzt_Latn	lat_Latn	Nu ystan mefeiran.	Studebamus.
 bzt_Latn	lat_Latn	Nw affrênefan Saesonig.	Linguam Anglicam discebamus.
+bzt_Latn	lat_Latn	Nw wolen wiwer ci i mheg.	Hic in pace vivere volumus.
 bzt_Latn	lat_Latn	Ô-g es yn seir problem.	Istud problema grave est.
 bzt_Latn	lat_Latn	Sa bod gwenir eidd.	Hodie venire potest.
+bzt_Latn	lat_Latn	Sa es di llo ddragun lla.	Ibi sunt dracones.
 bzt_Latn	lat_Latn	Sa es math.	Insanit.
+bzt_Latn	lat_Latn	Sa es yn ddew.	Dea est.
 bzt_Latn	lat_Latn	Sa gantaf e-dd ys dansaf.	Ea cantavit et is saltavit.
+bzt_Latn	lat_Latn	Sa wiwant i mheg.	In pace vivunt.
+bzt_Latn	lat_Latn	Sew llifr new es mirefilus.	Liber novus eius est mirabilis.
+bzt_Latn	lat_Latn	Si, eo abit ci.	Ita, hic habito.
 bzt_Latn	lat_Latn	Sunt-sa ffelig?	Suntne laetae?
 bzt_Latn	lat_Latn	Sunt-ys ffelig?	Suntne laeti?
 bzt_Latn	lat_Latn	Tom es yscrifen rhen.	Thomas non scribit.
@@ -66,3 +90,4 @@ bzt_Latn	lat_Latn	Ty es yn lladrun, Tomos.	Fur es, Didyme.
 bzt_Latn	lat_Latn	Ys es math.	Insanit.
 bzt_Latn	lat_Latn	Ys mhassarent rhen!	Non praeteribunt!
 bzt_Latn	lat_Latn	Ys pod gwenir eidd.	Hodie venire potest.
+bzt_Latn	lat_Latn	Ys wiwant i mheg.	In pace vivunt.

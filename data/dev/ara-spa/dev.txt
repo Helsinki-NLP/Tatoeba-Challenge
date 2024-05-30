@@ -1,21 +1,19 @@
-apc_Latn	spa	3ende bsen w kalb. El-Bsen 2aswad w El-kalb 2abyaD.	Tengo un gato y un perro. El gato es negro y el perro es blanco.
-apc_Latn	spa	Ana beru7 3a Mesr shahrèn.	Voy a Egipto por dos meses.
-apc_Latn	spa	Ana nesè telefonè bel bet rafi2è.	He olvidado mi teléfono en la casa de mi amigo.
-apc_Latn	spa	Tom nazara 3abra esh-shubbak.	Tom miró por la ventana.
-apc	spa	انا بشغل معك.	Trabajo contigo.
-apc	spa	توم بيفهم اللي انت ما بتفهمه.	Tom entiende lo que no entiendes.
-apc	spa	شو في عألمسرح عاشيه؟	¿Qué hay en el teatro esta noche?
-apc	spa	طيزها حلو كتير.	Ella tiene un buen culo.
-apc	spa	في علي شغل كتير .	Tengo mucho trabajo que hacer.
-apc	spa	قديش مدارس في ع مدينتك ¿	¿Cuántos colegios hay en su ciudad?
-apc	spa	كم مدرسة في بمدينتك؟	¿Cuántos colegios hay en su ciudad?
-apc	spa	مرأتي رح ع السوق	Mi mujer va al mercado.
-ara	spa	ابتسم سامي.	Sonríe, Sami.
+ara	spa	3ende bsen w kalb. El-Bsen 2aswad w El-kalb 2abyaD.	Tengo un gato y un perro. El gato es negro y el perro es blanco.
+ara	spa	Ana beru7 3a Mesr shahrèn.	Voy a Egipto por dos meses.
+ara	spa	Ana nesè telefonè bel bet rafi2è.	He olvidado mi teléfono en la casa de mi amigo.
+ara	spa	Tom nazara 3abra esh-shubbak.	Tom miró por la ventana.
+ara	spa	انا بشغل معك.	Trabajo contigo.
+ara	spa	توم بيفهم اللي انت ما بتفهمه.	Tom entiende lo que no entiendes.
+ara	spa	شو في عألمسرح عاشيه؟	¿Qué hay en el teatro esta noche?
+ara	spa	طيزها حلو كتير.	Ella tiene un buen culo.
+ara	spa	في علي شغل كتير .	Tengo mucho trabajo que hacer.
+ara	spa	قديش مدارس في ع مدينتك ¿	¿Cuántos colegios hay en su ciudad?
+ara	spa	كم مدرسة في بمدينتك؟	¿Cuántos colegios hay en su ciudad?
+ara	spa	مرأتي رح ع السوق	Mi mujer va al mercado.
+ara	spa	آسف، أحبك	Lo siento, te amo.
+ara	spa	آمل أن نشكّل فريقا رائعا.	Espero que formemos un buen equipo.
 ara	spa	أبحث عن هدية لأبي.	Estoy buscando un regalo para mi padre.
 ara	spa	أبحث عن هدية لصديقي.	Busco un regalo para mi amigo.
-ara	spa	إبحث و ستجد.	Busca y encontrarás.
-ara	spa	ابق ساكتا بينما نأكل.	Cállate mientras comemos.
-ara	spa	ابني الآن في المرحلة الثانوية.	Mi hijo está en la secundaria ahora.
 ara	spa	أبي مدرّس.	Mi padre es maestro.
 ara	spa	أبي مدرس اللغة الإنجليزية.	Mi padre es profesor de inglés.
 ara	spa	أبي ينسى كل شيء.	Mi padre se olvida de todo.
@@ -23,11 +21,9 @@ ara	spa	أتت إلى طوكيو عندما كان عمرها ثمانية عش�
 ara	spa	أتريد شيئاً؟	¿Quieres algo?
 ara	spa	أتريد شيئاً؟	¿Quieres alguna cosa?
 ara	spa	أتريد فنجانا من الشاي؟	¿Querés una taza de té?
-ara	spa	اتّصل فاضل بليلى على هاتفها الخلوي.	Fadel contactó con Laila por teléfono móvil.
+ara	spa	أتساءل أين أخفى توم مفتاحه.	Me pregunto dónde escondió Tom su llave.
 ara	spa	أتعرف أحدًا في أستراليا؟	¿Conoces a alguien en Australia?
 ara	spa	أتعلم بسرعة.	Aprendo rápido.
-ara	spa	اتفقا على أن يعملا سويا.	Acordaron trabajar juntos.
-ara	spa	إتفقوا على سعر.	Acordaron un precio.
 ara	spa	أتكلم الأسبانية للإله والإيطالية للنساء والفرنسية للرجال والألمانية لحصاني	Hablo en español con Dios, en italiano con las mujeres, en francés con los hombres, y en alemán con mi caballo.
 ara	spa	أتكلم العربية.	Hablo árabe.
 ara	spa	أتمتلك سيارة؟	¿Tenés auto?
@@ -40,10 +36,10 @@ ara	spa	أجبرتها على القيام بواجباتي.	Le obligué a hacer
 ara	spa	أجبني.	Respóndeme.
 ara	spa	أحاول النوم.	Intento dormir.
 ara	spa	أحب أكل اللازانيا.	Me encanta la lasaña.
-ara	spa	أحب اللّغة العربية.	Me encanta el árabe.
 ara	spa	أحب أمي.	Quiero a mi mamá.
-ara	spa	أحب أن أشاهد الأطفال يلعبون.	Me gusta mirar a niños jugando.
 ara	spa	أحب أن آكل البطيخ.	Me gusta comer sandía.
+ara	spa	أحب أن أشاهد الأطفال يلعبون.	Me gusta mirar a niños jugando.
+ara	spa	أحب اللّغة العربية.	Me encanta el árabe.
 ara	spa	أحببت هذا الفيلم.	Me gustó esta película.
 ara	spa	أحب توم لأنه أمين.	Me gusta Tom porque es honesto.
 ara	spa	أحب ذلك الكلب.	Me gusta el perro.
@@ -55,13 +51,9 @@ ara	spa	أحتاج وظيفة.	Necesito un trabajo.
 ara	spa	أحدهم سرق محفظتي.	Alguien me robó la billetera.
 ara	spa	أحقا مات أبي؟	¿En serio mi padre murió?
 ara	spa	أحقا مات أبي؟	¿Se murió mi padre de verdad?
-ara	spa	إحمل الطاولة إلى الخارج من فضلك.	Saque la mesa afuera, por favor.
 ara	spa	أخبر توم ماري عن الحادث.	Tom le mencionó el incidente a Mary.
 ara	spa	أخبرني ما حدث.	Dime qué ha pasado.
 ara	spa	أخبرني ما حدث.	Dime qué pasó.
-ara	spa	اختر مضربك المفضل.	Escoge tu bate preferido.
-ara	spa	اختر مضربك المفضل.	Escoge tu raqueta preferida.
-ara	spa	اختفت عدسات سامي.	Las lentillas de Sami desaparecieron.
 ara	spa	أخذت تبكي.	Empecé a llorar.
 ara	spa	أخذ صورة للكوالا.	Le hizo una foto al koala.
 ara	spa	أخي الأصغر طالب في المدرسة الثانوية.	Mi hermano pequeño es alumno en la escuela secundaria.
@@ -69,13 +61,11 @@ ara	spa	أدخله.	Hazle entrar.
 ara	spa	أذكر أني أغلقت الباب.	Recuerdo haber cerrado la puerta con llave.
 ara	spa	أذلك لك ؟	¿Eso es tuyo?
 ara	spa	أذهب إلى المدرسة في الساعة السابعة	Voy a la escuela a las siete.
-ara	spa	اذهب أنت أولاً.	Tú primero.
 ara	spa	أراك الأسبوع القادم!	Nos vemos la semana que viene.
-ara	spa	ارتدت ملابسها بسرعة.	Ella se vistió rápidamente.
-ara	spa	ارتدي معطفك .	Ponte el abrigo.
-ara	spa	أردت الذهاب إلى هناك.	Yo quería ir allí.
 ara	spa	أردت أن أكون في باريس.	Quería estar en París.
+ara	spa	أردت الذهاب إلى هناك.	Yo quería ir allí.
 ara	spa	أرغمته أن يفتح الباب.	Le hice abrir la puerta.
+ara	spa	أرى كتاباً.	Veo un libro.
 ara	spa	أريد أن أتعلم كيف أقول هذه الكلمة باللغة العربية.	Quiero aprender a decir esta palabra en árabe.
 ara	spa	أريد أن أشتري منزلا.	Quiero comprar una casa.
 ara	spa	أريد أن أعود إلى البيت.	Quiero volver a casa.
@@ -83,33 +73,14 @@ ara	spa	أريد أن أقول لك شيئاً.	Quiero decirte algo.
 ara	spa	أريد أن أقول لك شيئاً.	Quiero decirte una cosa.
 ara	spa	أريد بالفعل أن أكون بجوارك في هذه اللحظات العصيبة .	Realmente quiero estar a tu lado en estos momentos difíciles.
 ara	spa	أريدك.	Yo te deseo.
-ara	spa	أرى كتاباً.	Veo un libro.
 ara	spa	أزور أبي مرتين في السنة.	Visito a mi padre dos veces por año.
-ara	spa	اسأل شرطيًّا!	Pregúntale a un policía.
-ara	spa	إسبانيا دولة متقدمة.	España es un país desarrollado.
-ara	spa	استجوبت الشّرطة بعض سكّان الحيّ.	La Policía interrogó a algunos vecinos del barrio.
-ara	spa	استحم من فضلك.	Por favor, bañate.
 ara	spa	أستطيع ان أعدد إلى مئة.	Sé contar hasta cien.
 ara	spa	أستفيق عادةً على الساعة 6.	Suelo levantarme a las 6.
-ara	spa	استمعت لي.	Ella me escuchó.
-ara	spa	استنصحت صديقتها.	Ella le pidió consejo a su amiga.
-ara	spa	استيقظ!	¡Despertate!
-ara	spa	استيقظت في الخامسة هذا الصباح.	Me desperté a las 5 esta mañana.
-ara	spa	استيقظت في السابعة هذا الصباح.	Esta mañana me levanté a las siete.
 ara	spa	أسرع و إلا فاتنا القطار.	Date prisa, o si no, perdemos el tren.
-ara	spa	آسف، أحبك	Lo siento, te amo.
-ara	spa	اسكت يا غبي!	¡Cállate, idiota!
-ara	spa	اسكت يا غبي!	¡Cállate, imbécil!
 ara	spa	أسكُن عند عمي.	Vivo con mi tío.
 ara	spa	أسكن في تركيا.	Vivo en Turquía.
 ara	spa	أسمعك لكنني لا أراك.	Te escucho, pero no te veo.
 ara	spa	أشتاق إليه.	Lo extraño.
-ara	spa	اشترت البيض بالدرزن.	Compró una docena de huevos.
-ara	spa	اشتريت القميص بعشرة دولارات فقط.	Sólo he pagado diez dólares por la camisa.
-ara	spa	اشتريت قبّعة في هذا الدكّان.	Compré una gorra en esta tienda.
-ara	spa	اشتريته بالأمس.	Lo compré ayer.
-ara	spa	اشتريت هذه السيارة.	Me compré este coche.
-ara	spa	اشترى صديقي سيّارة لونها أصفر.	Mi amigo compró un coche de color amarillo.
 ara	spa	أشعر دائما بالتعب.	Siempre me siento cansado.
 ara	spa	أصبح المطر ثلجاً.	La lluvia se convirtió en nieve.
 ara	spa	أصبح بوب مهندساً.	Bob se hizo ingeniero.
@@ -117,15 +88,11 @@ ara	spa	أصبحَتْ طبيبة.	Llegó a ser médico.
 ara	spa	أطفأ التلفاز.	Apaga la tele.
 ara	spa	أظن أنني قد كنت هنا.	Creo que ya estuve aquí.
 ara	spa	أعارني كتابَيْن.	Él me prestó dos libros.
-ara	spa	اعترف سامي بالقيام بذلك.	Sami reconoció haberlo hecho.
-ara	spa	اعتقدت أنه مريض.	Pensé que él estaba enfermo.
-ara	spa	اعتُقِلت صديقتي بسبب إفراطها في السّرعة.	Mi amiga fue arrestada por exceso de velocidad.
 ara	spa	أعدت لنا وجبة رائعة.	Nos preparó una cena maravillosa.
-ara	spa	أعرف اسمه.	Conozco su nombre.
 ara	spa	أعرف أن طوم ما زال مغرم بكنّ.	Sé que Tom todavía está enamorado de vosotras.
+ara	spa	أعرف اسمه.	Conozco su nombre.
 ara	spa	أعرف بعض أصدقاء نانسي.	Conozco a algunos de los amigos de Nancy.
 ara	spa	أعرِفها.	Le conozco.
-ara	spa	إعزف لي مقطوعة لشوبان.	Toca a Chopin para mí.
 ara	spa	أعطاني أبي قلمًا سائلًا جديدًا.	Mi padre me regaló una pluma estilográfica nueva.
 ara	spa	أعطاني عمي كاميرا.	Mi tío me regaló una cámara.
 ara	spa	أعطني الحساب من فضلك.	Deme la cuenta, por favor.
@@ -136,26 +103,181 @@ ara	spa	أعطى بلده حياته.	Dio la vida por su país.
 ara	spa	أعمل معه.	Trabajo con él.
 ara	spa	أعيش وأعمل هنا .	Vivo y trabajo aquí.
 ara	spa	أغلقَ الباب.	Cerró la puerta.
-ara	spa	افتح الراديو.	Prendé la radio.
-ara	spa	افتقدتك.	Te extraño.
+ara	spa	أفضّل أن أموت بدلا من أن أستسلم.	Prefiero morir a rendirme.
 ara	spa	أفضل الذهاب مشيا بدلا من الذهاب بالحافلة.	Prefiero ir a pie que ir en autobús.
 ara	spa	أفضل الغناء على الرقص.	Prefiero el canto que el baile.
 ara	spa	أفضل القهوة.	Prefiero café.
-ara	spa	أفضّل أن أموت بدلا من أن أستسلم.	Prefiero morir a rendirme.
-ara	spa	إفعلْ شيئاً	¡Haz algo!
-ara	spa	إقترح المدير خطة جديدة.	El director sugirió un nuevo plan.
 ara	spa	أقرأ على الأقل كتاباً واحداً في الشهر.	Yo leo por lo menos un libro al mes.
 ara	spa	أقفل الباب!	¡Traba la puerta!
 ara	spa	أقلعت عن التدخين منذ سنة.	Dejé de fumar hace un año.
 ara	spa	أكتب أغنية باللغة الألمانية.	Estoy escribiendo una canción en alemán.
-ara	spa	اِكتب عنوانك من فضلك.	Apunte su dirección, por favor.
 ara	spa	أكلت طعام الغداء بسرعة.	Almorcé rápido.
 ara	spa	ألا تزال السمكة حية؟	¿El pez está vivo todavía?
 ara	spa	ألا تشعر بالبرد؟	¿No sentís frío?
+ara	spa	أمطرت بكثرة هذا العام.	Ha llovido mucho este año.
+ara	spa	أمطرت كثيراً الشهر الماضي .	El mes pasado llovió mucho.
+ara	spa	أملك كلباً وقطة.	Tengo un perro y un gato.
+ara	spa	أمي أخت أمهم.	Mi madre es la hermana de la madre de ellos.
+ara	spa	أنا أتعلم اليابانية.	Estoy aprendiendo japonés.
+ara	spa	أنا أحب اللغة اليابانية كثيراً.	Me gusta mucho el japonés.
+ara	spa	أنا أحبك.	Te quiero.
+ara	spa	أنا أعتني بجيم.	Yo me preocupo por Jim
+ara	spa	أنا جائع جداً.	¡Me muero de hambre!
+ara	spa	أنا جائع دائما.	Siempre estoy hambriento.
+ara	spa	أنا جبان لدرجة أنني نادرا ما أزور طبيب الأسنان.	Soy tan cobarde que al dentista sólo voy muy de vez en cuando.
+ara	spa	أنا حُرّ.	Yo soy libre.
+ara	spa	أنا حزين.	Estoy triste.
+ara	spa	أنا صديق.	Soy un amigo.
+ara	spa	أنا طويل.	Soy alto.
+ara	spa	أنا عبقري مستقر جدا.	Soy un genio muy estable.
+ara	spa	أنا فخورٌ بنفسي.	Estoy orgulloso de mí mismo.
+ara	spa	أنا فقير.	Soy pobre.
+ara	spa	أنا في غاية الجوع.	Yo tengo mucha hambre.
+ara	spa	أنا لا أريد أن تشعر بمزيد من الألم.	Ya no quiero sentir más dolor.
+ara	spa	أنا لا أريد العودة.	No quiero volver.
+ara	spa	أنا لا أشرب القهوة.	No bebo café.
+ara	spa	أنا لا أعرف ما معنى الكلمة "المستحيل".	No sé lo que significa la palabra 'imposible'.
+ara	spa	أنا لا أعرف ما هو الوقت.	No sé qué hora es.
+ara	spa	أنا لست خبيرا.	No soy un especialista.
+ara	spa	أنا لست خبيرا.	No soy un experto.
+ara	spa	أنا لست طالباً.	No soy un estudiante.
+ara	spa	أنا لن أذهب إلى هناك لأموت. أنا ذاهب لأعيش.	No voy a ir allí a morir. Me voy a vivir.
+ara	spa	أنا متأكّد من أنّني أطفيت الغاز.	Estoy seguro de que apagué el gas.
+ara	spa	أنا متعب بسبب المرض والعمل.	Estoy cansado, por la enfermedad y el trabajo.
+ara	spa	أنا متعبة جدا اليوم.	Hoy estoy muy cansada.
+ara	spa	أنا محقّق.	Soy detective.
+ara	spa	أنا مدرس أيضاً.	Yo soy maestro también.
+ara	spa	أنا معتاد على الضجة.	Estoy acostumbrado al ruido.
+ara	spa	أنا مغنية أمريكية.	Soy una cantante americana.
+ara	spa	أنا من النرويج.	Yo soy de Noruega.
+ara	spa	أنا من كيوتو.	Yo soy de Kioto.
+ara	spa	أنت أميرتي.	Eres mi princesa.
+ara	spa	أنت -بالنسبة لي- كل شيء.	Eres todo para mí.
+ara	spa	أنتَ تبدو متعباً جداً.	Pareces muy cansado.
+ara	spa	أنت تتكلّم بسرعة.	Hablas rápido.
+ara	spa	أنت صديقي.	Eres mi amigo.
+ara	spa	أنت عرضة للنسيان.	Eres propenso a olvidar.
+ara	spa	أنت في مكان آمن.	Estás en un lugar seguro.
+ara	spa	أنت لست صديقنا.	Tú no eres nuestro amigo.
+ara	spa	أنت لم تفهم ما قلته.	No entendiste lo que dije.
+ara	spa	أنتَ يمكنكَ أن تأتي معنا.	Podés venir con nosotros.
+ara	spa	أنظر إلى ذاك البناء الأحمر.	Mirá ese edificio rojo.
+ara	spa	أهذا كتابك؟	¿Éste no es tu libro?
+ara	spa	أهلاً بيل ، كيف الأحوال؟	Hola Bill, ¿cómo estás?
+ara	spa	أهلاً بيل ، كيف الأحوال؟	Hola Bill, ¿qué tal?
+ara	spa	أهلاً كيف حالك؟	¡Hola! ¿Cómo estás?
+ara	spa	أهلاً كيف حالك؟	¡Hola! ¿Qué tal?
+ara	spa	أهنّئك بمناسبة نجاحك.	Te felicito por tu éxito.
+ara	spa	أوّل من وصل كان السيد جريي.	El primero en llegar fue el Sr. Gray.
+ara	spa	أي السيارات لوالدك؟	¿Qué carro es lo de tu padre?
+ara	spa	أي لغة يتحدثون بها في أميركا؟	¿Qué lengua se habla en América?
+ara	spa	أيمكنك أن تكرره مرة أخرى؟	¿Puede repetir eso de nuevo?
+ara	spa	أيمكنك فتح النافذة؟	¿Puedes abrir la ventana?
+ara	spa	أيمكنك مساعدتي؟	¿Podrías ayudarme?
+ara	spa	أيمكنني أن أدخّن هنا؟	¿Puedo fumar aquí?
+ara	spa	أيمكنني أن أقول شيئاً؟	¿Podría decir algo?
+ara	spa	أيمكنني أن أقول شيئاً؟	¿Puedo decir algo?
+ara	spa	أيمكنني أن أناديك بوب؟	¿Puedo llamarte Bob?
+ara	spa	أيمكنني الذهاب إلى النهر؟	¿Puedo irme al río?
+ara	spa	أين أبوك؟	¿Dónde está tu padre?
+ara	spa	أين أقرب مخبز؟	¿Dónde está la panadería más cercana?
+ara	spa	أين السفارة البريطانية؟	¿Dónde está la embajada británica?
+ara	spa	أين المطبخ؟	¿Dónde está la cocina?
+ara	spa	أين الولد؟	¿Dónde está el chico?
+ara	spa	أين الولد؟	¿Dónde está el niño?
+ara	spa	أين بيتك؟	¿Dónde está su casa?
+ara	spa	أين بيتك؟	¿Dónde está tu casa?
+ara	spa	أين تقع عيادته؟	¿Dónde tiene la consulta?
+ara	spa	أين ذهب؟	¿A dónde fue?
+ara	spa	أين ستأكل طعام الغداء؟	¿A dónde vas a ir a almorzar?
+ara	spa	أين سنلتقي؟	¿Dónde nos encontraremos?
+ara	spa	أين فصل توم؟	¿Dónde está la clase de Tom?
+ara	spa	أين كنت البارحة ?	¿Dónde estuviste ayer?
+ara	spa	أين وُلِدَ توم؟	¿Dónde nació Tom?
+ara	spa	أين يسكن عمك؟	¿Dónde vive tu tío?
+ara	spa	إبحث و ستجد.	Busca y encontrarás.
+ara	spa	إتفقوا على سعر.	Acordaron un precio.
+ara	spa	إحمل الطاولة إلى الخارج من فضلك.	Saque la mesa afuera, por favor.
+ara	spa	إسبانيا دولة متقدمة.	España es un país desarrollado.
+ara	spa	إعزف لي مقطوعة لشوبان.	Toca a Chopin para mí.
+ara	spa	إفعلْ شيئاً	¡Haz algo!
+ara	spa	إقترح المدير خطة جديدة.	El director sugirió un nuevo plan.
+ara	spa	إلتطمت السيارة بالشجرة.	El coche se estampó contra el árbol.
+ara	spa	إلى أين أنت ذاهب؟	¿Adónde vas?
+ara	spa	إلى ماذا تنظر؟	¿Qué estás mirando?
+ara	spa	إلى من يهمه الأمر.	A quien pueda interesar:
+ara	spa	إن أبي غاضب مني جداً.	Mi padre está muy enojado conmigo.
+ara	spa	إن أردت أن تقتلني، فافعل ذلك.	Si quieres matarme, hazlo.
+ara	spa	إنّ الشّرطة هنا.	La policía está aquí.
+ara	spa	إن الكلب أبيض.	El perro es blanco.
+ara	spa	إنتهى الأمر على خير.	Acabó bien.
+ara	spa	إن سلوكهم غريب.	Ellos se comportaban extraño.
+ara	spa	إنّك تكذب.	Estás mintiendo.
+ara	spa	إننا رجال.	Somos hombres.
+ara	spa	إنني أستمع إلى المذياع.	Estoy escuchando la radio.
+ara	spa	إنه آخر من أطلب منه المساعدة فهو شخص لا يعتمد عليه.	Él sería el último al que pediría ayuda porque es una persona poco fiable.
+ara	spa	إنها تتناول العشاء.	Está cenando.
+ara	spa	إنها تحب أن تمشي معي.	A ella le gusta caminar conmigo.
+ara	spa	إنها تحب البرتقال، أليس كذلك؟	Le gustan las naranjas, ¿o no?
+ara	spa	إنها تعيش حياة مريحة.	Ella vive con comodidad.
+ara	spa	إنها تمطر بشدة.	Llueve a mares.
+ara	spa	إنها تمطر بشدة الآن.	Llueve ahora a cántaros.
+ara	spa	إنها تمطر بغزارة.	Llueve a mares.
+ara	spa	إنها خائفة من السفر وحدها.	Ella estaba atemorizada de viajar sola.
+ara	spa	إنها ذكية جداً ، أليس كذلك؟	Ella es muy inteligente, ¿no?
+ara	spa	إنها ساعة متأخرة.	Es tarde.
+ara	spa	إنها غالية جداً!	¡Es demasiado caro!
+ara	spa	إنها لذيذة المذاق.	El sabor es delicioso.
+ara	spa	إنه سهل جدا.	Es muy fácil.
+ara	spa	إنه غني إلا أنه ليس سعيداً.	Él es rico, pero no es feliz.
+ara	spa	إنه لا يعرف كيف يقود سيارة.	Él no sabe conducir un auto.
+ara	spa	إنه لطيف.	Es majo.
+ara	spa	إنه لطيف جداً.	Él es muy amable.
+ara	spa	إنه مجرد طفل .	Él es solo un niño.
+ara	spa	إنّه محامٍ ويجب أن يعامل على هذا الأساس.	Él es un abogado, y debe ser tratado como tal.
+ara	spa	إنه وقت الغداء.	Es hora del almuerzo.
+ara	spa	إنه يتحدث على الهاتف.	Está hablando por teléfono.
+ara	spa	إنى أتذكر يوم تقابلنا لأول مرة.	Me acuerdo del día en que nos conocimos.
+ara	spa	إنّي أبوك.	Yo soy tu padre.
+ara	spa	إني أغسل يدي لأنهما متسختان.	Me lavo las manos porque están sucias.
+ara	spa	إني أقرأ كتاباً عن الحيوانات.	Estoy leyendo un libro sobre animales.
+ara	spa	ابتسم سامي.	Sonríe, Sami.
+ara	spa	ابق ساكتا بينما نأكل.	Cállate mientras comemos.
+ara	spa	ابني الآن في المرحلة الثانوية.	Mi hijo está en la secundaria ahora.
+ara	spa	اتّصل فاضل بليلى على هاتفها الخلوي.	Fadel contactó con Laila por teléfono móvil.
+ara	spa	اتفقا على أن يعملا سويا.	Acordaron trabajar juntos.
+ara	spa	اختر مضربك المفضل.	Escoge tu bate preferido.
+ara	spa	اختر مضربك المفضل.	Escoge tu raqueta preferida.
+ara	spa	اختفت عدسات سامي.	Las lentillas de Sami desaparecieron.
+ara	spa	اذهب أنت أولاً.	Tú primero.
+ara	spa	ارتدت ملابسها بسرعة.	Ella se vistió rápidamente.
+ara	spa	ارتدي معطفك .	Ponte el abrigo.
+ara	spa	اسأل شرطيًّا!	Pregúntale a un policía.
+ara	spa	استجوبت الشّرطة بعض سكّان الحيّ.	La Policía interrogó a algunos vecinos del barrio.
+ara	spa	استحم من فضلك.	Por favor, bañate.
+ara	spa	استمعت لي.	Ella me escuchó.
+ara	spa	استنصحت صديقتها.	Ella le pidió consejo a su amiga.
+ara	spa	استيقظ!	¡Despertate!
+ara	spa	استيقظت في الخامسة هذا الصباح.	Me desperté a las 5 esta mañana.
+ara	spa	استيقظت في السابعة هذا الصباح.	Esta mañana me levanté a las siete.
+ara	spa	اسكت يا غبي!	¡Cállate, idiota!
+ara	spa	اسكت يا غبي!	¡Cállate, imbécil!
+ara	spa	اشترت البيض بالدرزن.	Compró una docena de huevos.
+ara	spa	اشترى صديقي سيّارة لونها أصفر.	Mi amigo compró un coche de color amarillo.
+ara	spa	اشتريت القميص بعشرة دولارات فقط.	Sólo he pagado diez dólares por la camisa.
+ara	spa	اشتريت قبّعة في هذا الدكّان.	Compré una gorra en esta tienda.
+ara	spa	اشتريته بالأمس.	Lo compré ayer.
+ara	spa	اشتريت هذه السيارة.	Me compré este coche.
+ara	spa	اعترف سامي بالقيام بذلك.	Sami reconoció haberlo hecho.
+ara	spa	اعتقدت أنه مريض.	Pensé que él estaba enfermo.
+ara	spa	اعتُقِلت صديقتي بسبب إفراطها في السّرعة.	Mi amiga fue arrestada por exceso de velocidad.
+ara	spa	افتح الراديو.	Prendé la radio.
+ara	spa	افتقدتك.	Te extraño.
+ara	spa	اِكتب عنوانك من فضلك.	Apunte su dirección, por favor.
+ara	spa	الآن تذكرت.	Ahora me acuerdo.
 ara	spa	الأرانب تحب أكل الجزر.	A los conejos les gusta comer zanahorias.
 ara	spa	الأرانب لهم آذان طويلة.	Los conejos tienen orejas grandes.
 ara	spa	الأصدقاء يجدون دائما حلاّ.	Los amigos siempre hallan una solución.
-ara	spa	الآن تذكرت.	Ahora me acuerdo.
 ara	spa	البارحة كان برداً.	Ayer hacía frío.
 ara	spa	البدو يعيشون في الصحراء.	Los beduinos viven en el desierto.
 ara	spa	البركة عميقة جدًّا.	El estanque es muy profundo.
@@ -164,7 +286,6 @@ ara	spa	البعيد عن العين بعيد عن القلب.	Ojos que no ven, 
 ara	spa	البقر يعطينا الحليب.	Las vacas nos dan la leche.
 ara	spa	البنت لا قالت شيء.	La niña no dijo nada.
 ara	spa	التحدث بالإنجليزية ليس أمراً سهلاً.	Hablar inglés no es cosa fácil.
-ara	spa	إلتطمت السيارة بالشجرة.	El coche se estampó contra el árbol.
 ara	spa	التقيت بأحد أصدقائك القدامى هذا المساء.	Vi a un viejo amigo tuyo esta tarde.
 ara	spa	التلفزيون لا يشتغل.	La televisión no trabaja.
 ara	spa	الجو بارد.	Hace frío.
@@ -172,6 +293,8 @@ ara	spa	الحاجة أم الإختراع.	La necesidad es la madre de la inven
 ara	spa	الحاسوب جديد.	La computadora es nueva.
 ara	spa	الحب أعمى.	El amor es ciego.
 ara	spa	الحب أن تراها حتى في أحلامك.	Amar es verla hasta en tus sueños.
+ara	spa	الحرب سيئة.	La guerra es mala.
+ara	spa	الحرّيّة لإسكتلندا!	¡Liberen a Escocia!
 ara	spa	الحمد لله.	Gracias a Dios.
 ara	spa	الحياة طريق طويل جداً.	La vida es un camino muy largo.
 ara	spa	الخنازير أذكى من الكلاب والقطط.	Los cerdos son más inteligentes que los perros y los gatos.
@@ -210,152 +333,33 @@ ara	spa	الهجوم شنه انتحاري بسيارة مفخخة.	El ataque fu
 ara	spa	الولايات المتحدة بلد غني بالموارد الطبيعية.	Estados Unidos es rico en recursos naturales.
 ara	spa	الولد لطيف.	El niño es amable.
 ara	spa	اليابان بلد صناعي.	Japón es un país industrial.
-ara	spa	إلى أين أنت ذاهب؟	¿Adónde vas?
-ara	spa	إلى ماذا تنظر؟	¿Qué estás mirando?
-ara	spa	إلى من يهمه الأمر.	A quien pueda interesar:
 ara	spa	اليهودية جميلة.	El judaísmo es bello.
 ara	spa	اليهودية جميلة.	El judaísmo es lindo.
 ara	spa	اليوم ممطر.	Es un día lluvioso.
 ara	spa	اليوم هو الأحد.	Hoy es domingo.
-ara	spa	أمطرت بكثرة هذا العام.	Ha llovido mucho este año.
-ara	spa	أمطرت كثيراً الشهر الماضي .	El mes pasado llovió mucho.
 ara	spa	املأ الإستمارة أدناه.	Rellene el siguiente formulario.
-ara	spa	آمل أن نشكّل فريقا رائعا.	Espero que formemos un buen equipo.
-ara	spa	أملك كلباً وقطة.	Tengo un perro y un gato.
 ara	spa	امنحني ساعتان.	Concédeme dos horas.
-ara	spa	أمي أخت أمهم.	Mi madre es la hermana de la madre de ellos.
-ara	spa	أنا أتعلم اليابانية.	Estoy aprendiendo japonés.
-ara	spa	أنا أحب اللغة اليابانية كثيراً.	Me gusta mucho el japonés.
-ara	spa	أنا أحبك.	Te quiero.
-ara	spa	أنا أعتني بجيم.	Yo me preocupo por Jim
 ara	spa	انا الشيطان.	Soy el diablo.
 ara	spa	انا بخير ، وانت ؟	Estoy bien, ¿y vos?
-ara	spa	إن أبي غاضب مني جداً.	Mi padre está muy enojado conmigo.
-ara	spa	أنا جائع جداً.	¡Me muero de hambre!
-ara	spa	أنا جائع دائما.	Siempre estoy hambriento.
-ara	spa	أنا جبان لدرجة أنني نادرا ما أزور طبيب الأسنان.	Soy tan cobarde que al dentista sólo voy muy de vez en cuando.
-ara	spa	أنا حُرّ.	Yo soy libre.
-ara	spa	أنا حزين.	Estoy triste.
-ara	spa	إن أردت أن تقتلني، فافعل ذلك.	Si quieres matarme, hazlo.
-ara	spa	أنا صديق.	Soy un amigo.
 ara	spa	انا طباخ.	Soy cocinero.
 ara	spa	انا طموحة.	Soy ambiciosa.
-ara	spa	أنا طويل.	Soy alto.
-ara	spa	أنا عبقري مستقر جدا.	Soy un genio muy estable.
-ara	spa	أنا فخورٌ بنفسي.	Estoy orgulloso de mí mismo.
-ara	spa	أنا فقير.	Soy pobre.
-ara	spa	أنا في غاية الجوع.	Yo tengo mucha hambre.
-ara	spa	أنا لا أريد العودة.	No quiero volver.
-ara	spa	أنا لا أريد أن تشعر بمزيد من الألم.	Ya no quiero sentir más dolor.
-ara	spa	أنا لا أشرب القهوة.	No bebo café.
-ara	spa	أنا لا أعرف ما معنى الكلمة "المستحيل".	No sé lo que significa la palabra 'imposible'.
-ara	spa	أنا لا أعرف ما هو الوقت.	No sé qué hora es.
-ara	spa	أنا لست خبيرا.	No soy un especialista.
-ara	spa	أنا لست خبيرا.	No soy un experto.
-ara	spa	أنا لست طالباً.	No soy un estudiante.
-ara	spa	إنّ الشّرطة هنا.	La policía está aquí.
-ara	spa	إن الكلب أبيض.	El perro es blanco.
-ara	spa	أنا لن أذهب إلى هناك لأموت. أنا ذاهب لأعيش.	No voy a ir allí a morir. Me voy a vivir.
-ara	spa	أنا متأكّد من أنّني أطفيت الغاز.	Estoy seguro de que apagué el gas.
-ara	spa	أنا متعب بسبب المرض والعمل.	Estoy cansado, por la enfermedad y el trabajo.
-ara	spa	أنا متعبة جدا اليوم.	Hoy estoy muy cansada.
-ara	spa	أنا محقّق.	Soy detective.
-ara	spa	أنا مدرس أيضاً.	Yo soy maestro también.
-ara	spa	أنا معتاد على الضجة.	Estoy acostumbrado al ruido.
-ara	spa	أنا مغنية أمريكية.	Soy una cantante americana.
-ara	spa	أنا من النرويج.	Yo soy de Noruega.
-ara	spa	أنا من كيوتو.	Yo soy de Kioto.
-ara	spa	أنت أميرتي.	Eres mi princesa.
-ara	spa	أنت -بالنسبة لي- كل شيء.	Eres todo para mí.
-ara	spa	أنتَ تبدو متعباً جداً.	Pareces muy cansado.
-ara	spa	أنت تتكلّم بسرعة.	Hablas rápido.
-ara	spa	أنت صديقي.	Eres mi amigo.
-ara	spa	أنت عرضة للنسيان.	Eres propenso a olvidar.
-ara	spa	أنت في مكان آمن.	Estás en un lugar seguro.
-ara	spa	أنت لست صديقنا.	Tú no eres nuestro amigo.
 ara	spa	انتهت المباراة بالتعادل.	El juego acabó en empate.
-ara	spa	إنتهى الأمر على خير.	Acabó bien.
-ara	spa	أنتَ يمكنكَ أن تأتي معنا.	Podés venir con nosotros.
 ara	spa	اِندلعت الحرب عام ١٩٤١م.	La guerra estalló en 1941.
-ara	spa	إن سلوكهم غريب.	Ellos se comportaban extraño.
 ara	spa	انطفأ هاتفي الخلوي.	Mi móvil se apagó.
-ara	spa	أنظر إلى ذاك البناء الأحمر.	Mirá ese edificio rojo.
 ara	spa	انظر، إنها تمطر.	Mira, está lloviendo.
-ara	spa	إنّك تكذب.	Estás mintiendo.
 ara	spa	انكلترا فخورة بشعرائها.	Inglaterra se enorgullece de sus poetas.
 ara	spa	ان لم يكن الان, متى؟	Si no es ahora, ¿cuándo?
-ara	spa	إننا رجال.	Somos hombres.
-ara	spa	إنني أستمع إلى المذياع.	Estoy escuchando la radio.
-ara	spa	إنها تتناول العشاء.	Está cenando.
-ara	spa	إنها تحب البرتقال، أليس كذلك؟	Le gustan las naranjas, ¿o no?
-ara	spa	إنها تحب أن تمشي معي.	A ella le gusta caminar conmigo.
-ara	spa	إنها تعيش حياة مريحة.	Ella vive con comodidad.
-ara	spa	إنها تمطر بشدة.	Llueve a mares.
-ara	spa	إنها تمطر بشدة الآن.	Llueve ahora a cántaros.
-ara	spa	إنها تمطر بغزارة.	Llueve a mares.
-ara	spa	إنها خائفة من السفر وحدها.	Ella estaba atemorizada de viajar sola.
-ara	spa	إنه آخر من أطلب منه المساعدة فهو شخص لا يعتمد عليه.	Él sería el último al que pediría ayuda porque es una persona poco fiable.
-ara	spa	إنها ذكية جداً ، أليس كذلك؟	Ella es muy inteligente, ¿no?
-ara	spa	إنها ساعة متأخرة.	Es tarde.
-ara	spa	إنها غالية جداً!	¡Es demasiado caro!
-ara	spa	إنها لذيذة المذاق.	El sabor es delicioso.
 ara	spa	انها نهاية العالم.	Es el fin del mundo.
-ara	spa	إنه سهل جدا.	Es muy fácil.
 ara	spa	انهض من سريرك!	¡Sal de la cama!
-ara	spa	إنه غني إلا أنه ليس سعيداً.	Él es rico, pero no es feliz.
-ara	spa	إنه لا يعرف كيف يقود سيارة.	Él no sabe conducir un auto.
-ara	spa	إنه لطيف.	Es majo.
-ara	spa	إنه لطيف جداً.	Él es muy amable.
-ara	spa	إنه مجرد طفل .	Él es solo un niño.
-ara	spa	إنّه محامٍ ويجب أن يعامل على هذا الأساس.	Él es un abogado, y debe ser tratado como tal.
 ara	spa	انه معهد جميل	Es un instituto bonito.
-ara	spa	إنه وقت الغداء.	Es hora del almuerzo.
-ara	spa	إنه يتحدث على الهاتف.	Está hablando por teléfono.
 ara	spa	انه يحب الشاي.	Le gusta el té.
 ara	spa	انه يعلمنا اللغة الفرنسية .	Nos enseña francés.
-ara	spa	إنّي أبوك.	Yo soy tu padre.
-ara	spa	إنى أتذكر يوم تقابلنا لأول مرة.	Me acuerdo del día en que nos conocimos.
-ara	spa	إني أغسل يدي لأنهما متسختان.	Me lavo las manos porque están sucias.
-ara	spa	إني أقرأ كتاباً عن الحيوانات.	Estoy leyendo un libro sobre animales.
 ara	spa	اهدنا الصراط المستقيم.	Guíanos por el sendero recto.
-ara	spa	أهذا كتابك؟	¿Éste no es tu libro?
-ara	spa	أهلاً بيل ، كيف الأحوال؟	Hola Bill, ¿cómo estás?
-ara	spa	أهلاً بيل ، كيف الأحوال؟	Hola Bill, ¿qué tal?
-ara	spa	أهلاً كيف حالك؟	¡Hola! ¿Cómo estás?
-ara	spa	أهلاً كيف حالك؟	¡Hola! ¿Qué tal?
-ara	spa	أهنّئك بمناسبة نجاحك.	Te felicito por tu éxito.
-ara	spa	أوّل من وصل كان السيد جريي.	El primero en llegar fue el Sr. Gray.
-ara	spa	أي السيارات لوالدك؟	¿Qué carro es lo de tu padre?
-ara	spa	أي لغة يتحدثون بها في أميركا؟	¿Qué lengua se habla en América?
-ara	spa	أيمكنك أن تكرره مرة أخرى؟	¿Puede repetir eso de nuevo?
-ara	spa	أيمكنك فتح النافذة؟	¿Puedes abrir la ventana?
-ara	spa	أيمكنك مساعدتي؟	¿Podrías ayudarme?
-ara	spa	أيمكنني الذهاب إلى النهر؟	¿Puedo irme al río?
-ara	spa	أيمكنني أن أدخّن هنا؟	¿Puedo fumar aquí?
-ara	spa	أيمكنني أن أقول شيئاً؟	¿Podría decir algo?
-ara	spa	أيمكنني أن أقول شيئاً؟	¿Puedo decir algo?
-ara	spa	أيمكنني أن أناديك بوب؟	¿Puedo llamarte Bob?
-ara	spa	أين أبوك؟	¿Dónde está tu padre?
-ara	spa	أين أقرب مخبز؟	¿Dónde está la panadería más cercana?
-ara	spa	أين السفارة البريطانية؟	¿Dónde está la embajada británica?
-ara	spa	أين المطبخ؟	¿Dónde está la cocina?
-ara	spa	أين الولد؟	¿Dónde está el chico?
-ara	spa	أين الولد؟	¿Dónde está el niño?
-ara	spa	أين بيتك؟	¿Dónde está su casa?
-ara	spa	أين بيتك؟	¿Dónde está tu casa?
-ara	spa	أين تقع عيادته؟	¿Dónde tiene la consulta?
-ara	spa	أين ذهب؟	¿A dónde fue?
-ara	spa	أين ستأكل طعام الغداء؟	¿A dónde vas a ir a almorzar?
-ara	spa	أين سنلتقي؟	¿Dónde nos encontraremos?
-ara	spa	أين فصل توم؟	¿Dónde está la clase de Tom?
-ara	spa	أين كنت البارحة ?	¿Dónde estuviste ayer?
-ara	spa	أين وُلِدَ توم؟	¿Dónde nació Tom?
-ara	spa	أين يسكن عمك؟	¿Dónde vive tu tío?
+ara	spa	بأيّة لغة تريد أن تتكلم معي ؟	¿En qué idioma querés hablar conmigo?
+ara	spa	بإمكان هذا الطفل العد إلى ٢۰	Este niño sabe contar hasta 20.
 ara	spa	بالأمس وصل توم إلى بوسطن.	Ayer Tom llegó a Boston.
 ara	spa	بالكاد لم يصدّقها أحد.	Casi nadie le creyó.
 ara	spa	بالنسبة لي إن ذلك شيء مهم.	Para mí eso es algo importante.
-ara	spa	بإمكان هذا الطفل العد إلى ٢۰	Este niño sabe contar hasta 20.
-ara	spa	بأيّة لغة تريد أن تتكلم معي ؟	¿En qué idioma querés hablar conmigo?
 ara	spa	بدأ سامي يواعد الفتيات.	Sami empezó a quedar con chicas.
 ara	spa	بدأنا نفهم أكثر.	Empezamos a entenderlo mejor.
 ara	spa	بعثت بهدية عوضاً عن الذهاب بنفسي.	En lugar de ir yo mismo, envié un regalo.
@@ -391,6 +395,7 @@ ara	spa	تعجبني سيارتك.	Me gusta tu coche.
 ara	spa	تعرّض سامي لحادث صغير.	Sami sufrió un pequeño accidente.
 ara	spa	تعرّض سامي للسّرقة.	Robaron a Sami.
 ara	spa	تغيرتَ كثيرًا.	Has cambiado mucho.
+ara	spa	تكتب مقالاً لصحيفة المدرسة.	Ella está escribiendo un artículo para el periódico de la escuela.
 ara	spa	تلقى توم ثلاثة هدايا بمناسبة عيد مولده.	Tom recibió tres regalos por su cumpleaños.
 ara	spa	تلك فكرة جيدة.	Esa es una buena idea.
 ara	spa	تمثل الخطوط الحمراء على الخريطة السكة الحديدية.	La línea roja en el mapa representa una vía férrea.
@@ -406,12 +411,12 @@ ara	spa	توم لم يطرد ماري	Tom no echó a Mary.
 ara	spa	توم لم يعرف ماذا يفعل أولا.	Tom no sabía qué hacer primero.
 ara	spa	توم ليس اشتراكي.	Tom no es socialista.
 ara	spa	توم هو صديق لي.	Tom es un amigo mío.
+ara	spa	جئت هنا بالأمس.	He venido ayer.
 ara	spa	جاء الطالب من لندن.	El estudiante vino de Londres.
 ara	spa	جفّ القلم.	Este bolígrafo se secó.
-ara	spa	جئت هنا بالأمس.	He venido ayer.
 ara	spa	جين من أستراليا.	Jane es oriunda de Australia.
-ara	spa	حاولت الاتصال بك و لكني لم أستطِع.	Intenté llamarte pero no pude.
 ara	spa	حاولت أن أقيم علاقة صداقة مع زملائي في القسم.	Intenté hacerme amigo de los compañeros de clase.
+ara	spa	حاولت الاتصال بك و لكني لم أستطِع.	Intenté llamarte pero no pude.
 ara	spa	حاول سامي الفرار من العدالة.	Sami intentó huir de la justicia.
 ara	spa	حسناً.	De acuerdo.
 ara	spa	حسناً.	Vale.
@@ -432,8 +437,8 @@ ara	spa	خرجت قطة من تحت المكتب.	Ha salido un gato de debajo de
 ara	spa	خسرت أموالها، أسرتها وأصدقائها .	Ella perdió su dinero, su familia, sus amigos.
 ara	spa	خطرت لي فكرة جيدة.	Se me ocurrió una buena idea.
 ara	spa	خوان ينام وعيناه مفتوحتان.	Juan duerme con los ojos abiertos.
-ara	spa	دامت الحرب سنتين.	La guerra duró dos años.
 ara	spa	دائما أردت أن أكون مغنّيا.	Siempre he querido ser cantante.
+ara	spa	دامت الحرب سنتين.	La guerra duró dos años.
 ara	spa	دراجته زرقاء.	Su bicicleta es azul.
 ara	spa	دعني أراها.	Déjame verlo.
 ara	spa	دعونا نتذكر أن رجلاً من هذه الولاية كان هو أول من رفع راية الحزب الجمهوري في البيت الأبيض ـ حزب تأسس على قيم الاستقلال، والحرية الفردية، والوحدة الوطنية. هذه هي القيم التي نتقاسمها جميعاً، وفي هذه اللحظة التي أحرز فيها الحزب الديمقراطي نصراً كبيراً، فإننا نحتفل بذلك ونحن نتحلى بالتواضع والعزم على تضميد الانقسامات التي أعاقت سيرنا إلى الأمام	Déjenos recordar que un hombre de este estado fue el primero en alzar la bandera de este partido republicano en la Casa Blanca -- un partido que se fundó sobre los valores de independencia, la libertad individual, y la integridad nacional. Estos valores que todos compartimos, y en este momento en el que el partido democrático alcanzó un triunfo grande, nosotros celebramos eso y nos proponemos con humildad y determinación a sanar las divisiones que obstruyeron nuestro camino hacia adelante.
@@ -442,15 +447,17 @@ ara	spa	دمي ليس أكثر حمرة من دمك.	Mi sangre no es más roja q
 ara	spa	دونالد ترامب كذاب مرضي.	Donald Trump es un mentiroso patológico.
 ara	spa	ذلك المحل يغلق في الساعة التاسعة كل ليلة.	Esa tienda cierra a las 9 todas las noches.
 ara	spa	ذلك قطي.	Ése es mi gato.
+ara	spa	ذهبت أمي إلى السوق.	Mamá se fue al mercado.
 ara	spa	ذهبت إلى الحديقة الحيوان.	Fui al zoológico.
 ara	spa	ذهبت إلى السوق مرة في الأسبوع.	Ella iba al mercado una vez a la semana.
+ara	spa	ذهبت إلى بوسطن مع توم وماري.	Yo fui a Boston con Tom y Mary.
 ara	spa	ذهبت إلى بيتي.	Fui a casa.
 ara	spa	ذهبت إلى هناك بالأمس.	Ella fue allá ayer.
 ara	spa	ذهبت اليوم إلى الطبيب	Fui hoy al médico.
-ara	spa	ذهبت أمي إلى السوق.	Mamá se fue al mercado.
 ara	spa	رأيت جون في المكتبة.	Vi a John en la biblioteca.
 ara	spa	رأيت طوم قبل دقائق.	Vi a Tom hace unos minutos.
 ara	spa	رأيته منذ أسبوع.	Lo vi hace una semana.
+ara	spa	رئيس أوكرانيا هو يهودي.	El presidente de Ucrania es judío.
 ara	spa	ربطة عنقك تليق ببزتك.	Tu corbata hace buen par con tu traje.
 ara	spa	رجاءً أطفئ التلفاز.	Por favor, apaga la televisión.
 ara	spa	رسم خطاً مستقيماً على الحائط.	Trazó una línea recta en la pared.
@@ -458,12 +465,16 @@ ara	spa	رفضت طلبي.	Ella rechazó mi petición.
 ara	spa	رفض توم أن يسدّد الفاتورة.	Tom se rehusó a pagar su cuenta.
 ara	spa	ركز على الأشياء التي تهم حقا.	¡Centra tu atención en las cosas verdaderamente importantes!
 ara	spa	ركض الكلب عقب القط.	Corrió el perro tras el gato.
+ara	spa	رمى تلك الموزة.	Tiró aquel plátano.
+ara	spa	رمى دان هاتفه في المسبح.	Dan tiró su teléfono a la piscina.
+ara	spa	رمى كلّ كتبه.	Tiró todos sus libros.
+ara	spa	رمى يانّي تلك الجريدة.	Yanni tiró ese periódico.
 ara	spa	روما لم تبن في يوم واحد.	Roma no fue construida en un día.
 ara	spa	روما لم تبن في يوم واحد.	Roma no se hizo en un día.
 ara	spa	زرنا طوكيو مرات عديدة.	Visitamos Tokio varias veces.
+ara	spa	سآخذ نصيحتك بعين الاعتبار.	Tendré en cuenta tu consejo.
 ara	spa	سأتصل عليك بعد ظهر الغد.	Te llamaré mañana a la tarde.
 ara	spa	سأحضر بعض كؤوس الشرب.	Traeré vasos.
-ara	spa	سآخذ نصيحتك بعين الاعتبار.	Tendré en cuenta tu consejo.
 ara	spa	سأذهب إلى لندن في الصيف.	Voy a ir a Londres este verano.
 ara	spa	سأرجع حالا !	¡Vuelvo enseguida!
 ara	spa	سأساندك مهما حصل.	Estaré contigo pase lo que pase.
@@ -473,12 +484,16 @@ ara	spa	سأطلق النار عليه.	Le voy a disparar.
 ara	spa	سأظل حتى يرحل توم.	Me quedaré hasta que se vaya Tom.
 ara	spa	سأعود في خلال ساعة.	Estaré de vuelta en una hora.
 ara	spa	سأعود في عشر دقائق.	Volveré en diez minutos.
+ara	spa	سأفر.	Escaparé.
+ara	spa	سأفر.	Huiré.
 ara	spa	سأكون هناك غداً.	Voy a estar allí mañana.
-ara	spa	سامحني رجاءً!	Le ruego que me disculpe.
-ara	spa	سامي كاذب منعدم المبادئ.	Sami es un mentiroso sin escrúpulos.
 ara	spa	سأنزل عند المحطة القادمة.	Bajaré en la próxima parada.
 ara	spa	سأنظف المطبخ لاحقا.	Limpiaré la cocina más tarde.
 ara	spa	سأنهي واجباتي عندما أعود إلى البيت بعد الظهر.	Voy a hacer la tarea a la tarde cuando llegue a casa.
+ara	spa	سأهرب.	Escaparé.
+ara	spa	سأهرب.	Huiré.
+ara	spa	سامحني رجاءً!	Le ruego que me disculpe.
+ara	spa	سامي كاذب منعدم المبادئ.	Sami es un mentiroso sin escrúpulos.
 ara	spa	ستمطر الليلة.	Esta noche lloverá.
 ara	spa	ستمطر اليوم.	Hoy lloverá.
 ara	spa	ستندم على ذلك!	¡Ya te arrepentirás de ello!
@@ -507,6 +522,7 @@ ara	spa	طرد توم من عمله.	Dispararon a Tom.
 ara	spa	طلبت النجدة.	Pedí ayuda.
 ara	spa	طلبت مني أن أوقظها عند السادسة.	Me pidió despertarla a las seis.
 ara	spa	طلب توم مني المساعدة.	Tom me pidió ayuda.
+ara	spa	طيور ليست حقيقية	Los pájaros no son reales.
 ara	spa	ظننت أنه لم يكن أحد في المطبخ.	Pensé que no había nadie en la cocina.
 ara	spa	عاد إلى بيته متعبا وسكرانا	Volvió a casa cansado y bebido.
 ara	spa	عادة ما تخلد إلى السرير الساعة التاسعة.	Suele acostarse a las nueve.
@@ -515,15 +531,15 @@ ara	spa	عاد سامي إلى المنزل و تناول الغذاء مع لي
 ara	spa	عثرت على الكتاب الذي فقدته البارحة.	He encontrado el libro que perdí ayer.
 ara	spa	علمتني عمتي كيف أحضّر قهوةً لذيذة.	Mi tía me enseñó a hacer buen café.
 ara	spa	علمتني عمتي كيف أحضّر قهوةً لذيذة.	Mi tía me mostró cómo hacer buen café.
+ara	spa	على أي سرير تريد أن تنام؟	¿En qué cama querés dormir?
 ara	spa	على الأصدقاء مساعدة بعضهم البعض.	Los amigos deben ayudarse mutuamente.
-ara	spa	عليّ الذهاب إلى النوم.	Tengo que irme a dormir.
 ara	spa	على الرغم من ثرائها إلا أنها لا تبدو سعيدة.	A pesar de su riqueza, no parece muy feliz.
 ara	spa	عليّ أن أنام.	Me tengo que ir a la cama.
-ara	spa	على أي سرير تريد أن تنام؟	¿En qué cama querés dormir?
-ara	spa	عليك النوم.	Deberías dormir.
+ara	spa	عليّ الذهاب إلى النوم.	Tengo que irme a dormir.
 ara	spa	عليك أن تبقي غرفتك نظيفة.	Debes dejar tu habitación ordenada.
-ara	spa	علينا الجلوس.	Tenemos que sentarnos.
+ara	spa	عليك النوم.	Deberías dormir.
 ara	spa	علينا أن نوقف هذا قبل أن يحدث.	Debemos pararlo antes de que suceda.
+ara	spa	علينا الجلوس.	Tenemos que sentarnos.
 ara	spa	"عندك مفتاح؟" "نعم."	"¿Tienes la llave?" "Sí, la tengo."
 ara	spa	عندما فتحتُ الباب وجدته ينام	Cuando abrí la puerta lo encontré durmiendo.
 ara	spa	عندما كان المعلم على وشك الانتهاء من النقاش العقيم، تلقى ضربةً في وجهه من قبضة تلميذ.	Cuando el profesor estaba a punto de terminar el debate inútil, recibió un golpe a la cara del puño de un alumno.
@@ -549,9 +565,9 @@ ara	spa	فقدت مفاتيح سيارتها.	Ella perdió las llaves de su coch
 ara	spa	فقط أخبريني ماذا تريدين.	Tan sólo dime lo que quieres.
 ara	spa	فكر في مستقبلك!	¡Piensa en tu futuro!
 ara	spa	فلنلعب!	¡Juguemos!
+ara	spa	في أي ظروف ظهر الخطأ؟	¿Dónde ha aparecido el error?
 ara	spa	في الأرض كما في السماء.	En la tierra como en el cielo.
 ara	spa	في الحقيقة لا أدري.	La verdad es que no lo sé.
-ara	spa	في أي ظروف ظهر الخطأ؟	¿Dónde ha aparecido el error?
 ara	spa	في منزلنا قطتان, واحدة بيضاء والاخرى سوداء.	En nuestra casa hay dos gatos: uno blanco y otro negro.
 ara	spa	في هذا العالم يعاني بعضُ الناسِ الجوعَ.	En este mundo algunas personas sufren hambre.
 ara	spa	قابلت سالي هاري في المحطة.	Sally se encontró con Harry en la estación.
@@ -560,15 +576,17 @@ ara	spa	قال انه يريد بعض المال.	Él dijo que quería algo de d
 ara	spa	قال توم أنه لا يحلم أبدا.	Tom dice no soñar nunca.
 ara	spa	قال لي قصة حياته .	Él me contó la historia de su vida.
 ara	spa	قال لي كل شيء.	Me lo ha dicho todo.
+ara	spa	قامت الشّرطة بسجن دان.	La policía encarceló a Dan.
 ara	spa	قرر الكيميائي الشاب أن يفتح صيدلية.	El joven químico decidió abrir una farmacia.
+ara	spa	قطاط توم يحبوني.	Los gatos de Tom me quieren.
 ara	spa	قفز من النافذة.	Él saltó por la ventana.
 ara	spa	قلت لك كل ما أعرفه عن ألمانيا.	Te he dicho todo lo que sé de Alemania.
 ara	spa	قل لها ألّا تقرب الكلب.	Decile a ella que no se acerque al perro.
 ara	spa	كابول هي عاصمة أفغانستان.	Kabul es la capital de Afganistán.
 ara	spa	كان أبوه شرطيا.	Su padre era policía.
 ara	spa	كان أصدقاؤه ينادونه تيد.	Sus amigos le llamaban Ted.
-ara	spa	كانت الإشارة حمراء.	El semáforo estaba en rojo.
 ara	spa	كانت الأم خجِلةً من تصرفات ابنها السيئة.	La madre estaba avergonzada por el mal comportamiento de su hijo.
+ara	spa	كانت الإشارة حمراء.	El semáforo estaba en rojo.
 ara	spa	كانت الغرفة مظلمة تماما.	La habitación estaba completamente oscura.
 ara	spa	كانت تضع كل حليها في علبة حمراء صغيرة.	Ella ponía todas sus joyas en una cajita roja.
 ara	spa	كانت كلّهنّ صديقات عندما كنّ صغيرات.	Todas eran amigas cuando pequeñas.
@@ -609,6 +627,7 @@ ara	spa	كيف عرفت أنها مريضة؟	¿Cómo supiste que ella está enf
 ara	spa	كيف كانت المقابلة؟	¿Cómo te fue en la entrevista?
 ara	spa	كيف لي أن أعرف؟	¿Cómo lo iba a saber?
 ara	spa	كيف وجدت هذا الكتاب؟	¿Cómo encontraste ese libro?
+ara	spa	لأن الكلاب أكثر وفاء من القطط.	Porque los perros son más leales que los gatos.
 ara	spa	لا.	No.
 ara	spa	لا أحب الطريقة التي يتكلم بها.	No me gusta su manera de hablar.
 ara	spa	لا أحب اللعب معه. نحن نفعل دائماً الأشياء نفسها.	No me gusta jugar con él. Siempre hacemos las mismas cosas.
@@ -623,10 +642,11 @@ ara	spa	لا أستطيع أن أفهم أي نوع من الأشخاص هو	No 
 ara	spa	لا أستطيع تحمل الحرارة.	No puedo soportar el calor.
 ara	spa	لا أعتقد أنني يمكن أن أعيش بدونك.	Yo no creo que puedo vivir sin ti.
 ara	spa	لا أعتقد أنه سيأتي.	No creo que él venga.
-ara	spa	لا اعتقد انه من العار أن يكون الإنسان فقيراً.	No creo que ser pobre sea algo para avergonzarse.
 ara	spa	لا أعرف‏.‏‏	Ni idea.
+ara	spa	لا أعلم يا تام.	No sé, Tom.
 ara	spa	لا أملك المال لشراء القاموس.	No tengo dinero para comprar un diccionario.
 ara	spa	لا. أنا آسف، عليّ العودة مبكراً.	No. Lo siento, tengo que volver pronto.
+ara	spa	لا اعتقد انه من العار أن يكون الإنسان فقيراً.	No creo que ser pobre sea algo para avergonzarse.
 ara	spa	لا تأتي المصائب فُرَادَى.	Las desgracias nunca vienen solas.
 ara	spa	لا تبكِ من فضلك.	No llores por favor.
 ara	spa	لا تتركني.	No me abandones.
@@ -637,14 +657,13 @@ ara	spa	لا تضع الكتب على الطاولة.	No pongas libros sobre la 
 ara	spa	لا تفتح الباب.	No abras la puerta.
 ara	spa	لا تكذب أبداً!	¡No mientas jamás!
 ara	spa	لا تكُن رطْباً فتُعْصر ولا يابِساً فتُكْسر.	No seas tan blando que te expriman, ni tan duro que te rompan.
-ara	spa	لا تنس التذكرة.	No te olvides el billete.
 ara	spa	لا تنسَ أن ترسل هذه الرسالة.	No te olvides de enviar la carta.
+ara	spa	لا تنس التذكرة.	No te olvides el billete.
 ara	spa	لا تنس تكنيس المطبخ.	No olvides barrer la cocina.
 ara	spa	لا شكر على واجب.	De nada.
 ara	spa	لا شك في أن الإسبرانتو مضيعة وقت كبيرة.	¡El esperanto es seguramente una enorme pérdida de tiempo!
 ara	spa	لا شك في ذلك.	No hay duda.
 ara	spa	لا مشكلة على الإطلاق!	¡Sin ningún problema!
-ara	spa	لأن الكلاب أكثر وفاء من القطط.	Porque los perros son más leales que los gatos.
 ara	spa	لا وقت للشرح.	No hay tiempo para explicaciones.
 ara	spa	لا يحلق سامي لحيته أبدا.	Sami nunca se afeita la barba.
 ara	spa	لا يريد أن يدرس	No quiere estudiar.
@@ -654,9 +673,9 @@ ara	spa	لا يمكنني.	No puedo.
 ara	spa	لا يمكنني أن أتحدث الفرنسية على الإطلاق.	No sé hablar nada de francés.
 ara	spa	لا يمكنني فهم ما تعنيه هذه الجملة بالضبط.	No puedo entender qué significa esta oración exactamente.
 ara	spa	لا يوجد شك.	No cabe duda.
-ara	spa	لدي ابنتان.	Tengo dos hijas.
 ara	spa	لدي أخوان.	Tengo dos hermanos.
 ara	spa	لدي أفضل الكلمات.	Tengo las mejores palabras.
+ara	spa	لدي ابنتان.	Tengo dos hijas.
 ara	spa	لدي بعض الكتب الإنكليزية.	Tengo un par de libros en inglés.
 ara	spa	لدي سيارة حمراء جديدة.	Tengo un coche rojo nuevo.
 ara	spa	لديّ صديق يعيش في ألمانيا.	Tengo un amigo que vive en Alemania.
@@ -687,15 +706,15 @@ ara	spa	لقى العديد من الأشخاص حتفهم في الحادث.	Hu
 ara	spa	للأسف ذلك صحيح.	Por desgracia, eso es cierto.
 ara	spa	للأسف، لا أتذكر أي شيء.	Desafortunadamente, no recuerdo nada.
 ara	spa	لم؟	¿Por qué?
+ara	spa	لم آكل مذ أفطرت، وأنا جائع جدا.	No comí desde el desayuno, estoy hambriento.
+ara	spa	لم أرى شيئا.	Yo no vi nada.
+ara	spa	لم أعرف أن الكلاب تجيدُ السباحَةَ جيّداً.	No sabía que los perros nadan bien.
+ara	spa	لم أكن أتوقع هذا منك حقا.	Realmente no esperaba eso de vos.
 ara	spa	لماذا؟	¿Por qué?
 ara	spa	لماذا بقيت في المنزل بالأمس.	¿Por qué te quedaste ayer en casa?
 ara	spa	لماذا تعتقد ذلك؟	¿Por qué crees eso?
 ara	spa	لماذا تقول هذا لي؟	¿Por qué me lo dices a mí?
 ara	spa	لماذا لا تريد أن تقول لنا الحقيقة؟	¿Por qué no quieres decirnos la verdad?
-ara	spa	لم أرى شيئا.	Yo no vi nada.
-ara	spa	لم أعرف أن الكلاب تجيدُ السباحَةَ جيّداً.	No sabía que los perros nadan bien.
-ara	spa	لم آكل مذ أفطرت، وأنا جائع جدا.	No comí desde el desayuno, estoy hambriento.
-ara	spa	لم أكن أتوقع هذا منك حقا.	Realmente no esperaba eso de vos.
 ara	spa	لما لم تقل لها؟	¿Por qué no se lo dijiste a ella?
 ara	spa	لم تبن روما في يوم واحد.	Roma no se hizo en un día.
 ara	spa	لم تتمكّن صديقتي من المجيء.	Mi amiga no pudo venir.
@@ -722,6 +741,7 @@ ara	spa	لي أخ وحيد.	Tengo un hermano.
 ara	spa	لي ثلاث أخوات.	Tengo tres hermanas.
 ara	spa	ليست لدي أدنى فكرة عن مكان إقامتها.	No tengo idea de dónde ella vive.
 ara	spa	ليس صحيحًا بالضرورة أن كل ما يقوله المعلم صحيح دائمًا.	No es necesariamente cierto que todo lo que dice el profesor siempre es verdad.
+ara	spa	ليس عربي, ولكن يهودي مزراحي.	No es árabe, sino judío mizrají.
 ara	spa	ليس عندي إلا نصف عدد كتبه.	No tengo ni la mitad de los libros que tiene él.
 ara	spa	ليس غبياً.	No es tonto.
 ara	spa	ليس كل ما يلمع ذهباً.	No es oro todo lo que reluce.
@@ -756,9 +776,10 @@ ara	spa	ماذا تريد أن تفعل في المستقبل؟	¿Qué quieres h
 ara	spa	ماذا تعرف عن أمريكا؟	¿Qué sabes de América?
 ara	spa	ماذا تقصد بذلك؟	¿Qué quieres decir con eso?
 ara	spa	ماذا حدث؟	¿Qué sucedió?
-ara	spa	ماذا ستفعل الليلة؟	¿Qué vas a hacer esta tarde?
 ara	spa	ماذا ستفعل إن التقيت برجل من كوكب آخر؟	¿Qué harías si te encontraras con un hombre de otro planeta?
+ara	spa	ماذا ستفعل الليلة؟	¿Qué vas a hacer esta tarde?
 ara	spa	ماذا سنفعل ؟	¿Qué hemos de hacer?
+ara	spa	ماذا طبختن؟	¿Qué habéis cocinado?
 ara	spa	ماذا كانت وظيفتك في الماضي؟	¿De qué trabajabas antes?
 ara	spa	ماذا؟ لا أسمعك.	¿Qué? No te oigo.
 ara	spa	ما رأيك إن ذهبنا نأكل خارج البيت؟	¿Qué tal si salimos a comer afuera esta noche?
@@ -785,6 +806,7 @@ ara	spa	متى ستغادر؟	¿A qué hora te irás?
 ara	spa	متى سيذهب أصدقاؤك إلى الولايات المتّحدة.	¿Cuándo salen tus amigos hacia EEUU?
 ara	spa	متى علينا الذهاب؟	¿Cuándo nos tenemos que ir?
 ara	spa	متى علينا الذهاب؟	¿Cuándo tenemos que irnos?
+ara	spa	متى كانت آخر مرّة نظّمت فيها حفلة؟	¿Cuándo ha sido la última vez en la que diste una fiesta?
 ara	spa	متى ولدت؟	¿Cuándo nació?
 ara	spa	متى وُلِدْت؟	¿Cuándo naciste?
 ara	spa	متى ينتهي ذلك؟	¿Cuándo se termina?
@@ -800,8 +822,8 @@ ara	spa	مع من كنت تتكلم؟	¿Con quién hablabas?
 ara	spa	من الممكن أن تكون محقا.	Puede que tengas razón.
 ara	spa	من تلك المرأة التي ترتدي فستاناً وردياً؟	¿Quién es aquella mujer vestida de rosa?
 ara	spa	منذ أن ذهب، لم يراسلني إلا مرة واحدة.	Desde que se fue, me ha escrito una sola vez.
-ara	spa	من فضلك إتّصل بي لاحقاً.	Llámame más tarde por favor.
 ara	spa	من فضلك أطفأ التلفاز.	Por favor apaga la televisión.
+ara	spa	من فضلك إتّصل بي لاحقاً.	Llámame más tarde por favor.
 ara	spa	من فضلك إلغِ هذا الملفّ.	Por favor, borra este archivo.
 ara	spa	من فضلك إلغِ هذا الملفّ.	Por favor, borre este archivo.
 ara	spa	من فضلك انقر على الباب قبل أن تدخل.	Por favor, golpeá la puerta antes de entrar.
@@ -835,6 +857,7 @@ ara	spa	نعرف أن الشمس أكبر من الأرض.	Nosotros sabemos que 
 ara	spa	نعم، ولكن سيكون صعبا.	Sí, pero será difícil.
 ara	spa	نمى أولاده.	Sus hijos crecieron.
 ara	spa	نهاية العالم قريبة جداً!	¡El fin del mundo está muy cerca!
+ara	spa	هؤلاء الذين لا يردنا الذهاب، لا ضرورة لهم الذهاب.	Aquellos que no deseen ir no tienen que ir.
 ara	spa	ها هو العنوان.	Acá está la dirección.
 ara	spa	هذا أجمل.	Éste es más bonito.
 ara	spa	هذا الرجل يأكل الخبز.	El hombre está comiendo pan.
@@ -859,8 +882,6 @@ ara	spa	هذه الأعين تعبر عن كل شيء.	Esos ojos dicen todo.
 ara	spa	هذه سيالتي.	Esta lapicera me pertenece.
 ara	spa	هذه فكرة جيدة!	¡Esto es una buena idea!
 ara	spa	هذه قصة حقيقية.	Esta historia es verdadera.
-ara	spa	"هلّا أغلقت الباب؟" "حسنًا".	¿Le importaría cerrar la puerta? No, en absoluto.
-ara	spa	هل اتصل بي أحد عندما كنت في الخارج؟	¿Ha llamado alguien para mí durante mi ausencia?
 ara	spa	هل أعجبتك الجامعة؟	¿Te gusta el colegio?
 ara	spa	هل أعجبك بيتك الجديد؟	¿Te gusta tu casa nueva?
 ara	spa	هل أنا مخطئ؟	¿Estoy equivocada?
@@ -874,6 +895,8 @@ ara	spa	هل أنت من كوكب لا تعيش فيه إلا النساء؟	¿E
 ara	spa	هل أنت من كوكب لا تعيش فيه إلا النساء؟	¿Eres de un planeta poblado únicamente por mujeres?
 ara	spa	هل أنهيت واجباتك؟	¿Has hecho los deberes?
 ara	spa	هل أنهيت واجباتك؟	¿Terminaste tu tarea?
+ara	spa	"هلّا أغلقت الباب؟" "حسنًا".	¿Le importaría cerrar la puerta? No, en absoluto.
+ara	spa	هل اتصل بي أحد عندما كنت في الخارج؟	¿Ha llamado alguien para mí durante mi ausencia?
 ara	spa	هل بإمكانك أن تعيرني هاتفك النقال للحظة؟	¿Podrías dejarme tu móvil un momento?
 ara	spa	هل تأكل اللحم؟	¿Comés carne?
 ara	spa	هل تتحدث الفرنسية؟	¿Hablas francés?
@@ -923,8 +946,8 @@ ara	spa	هم لا يحبّون أصدقائي.	No les gustan mis amigos.
 ara	spa	هناك العديد من الجامعات في كيوتو.	Hay numerosas universidades en Kioto.
 ara	spa	هناك الكثير من الأشجار حول البركة.	Hay un montón de árboles alrededor de la laguna.
 ara	spa	هناك قط صغير مختبىء خلف السيارة.	Hay un pequeño gato escondido detrás del coche.
-ara	spa	هو إبنهم الوحيد.	Él es el único hijo que tienen.
 ara	spa	هو أحد أصدقائه.	Es un amigo de él.
+ara	spa	هو إبنهم الوحيد.	Él es el único hijo que tienen.
 ara	spa	هو ذئب في ثوب حمل.	Él es un lobo con piel de cordero.
 ara	spa	هو رجل حكمة.	Él es un hombre sabio.
 ara	spa	هو صبي وهي فتاة.	Él es un chico y ella es una chica.
@@ -932,7 +955,6 @@ ara	spa	هو صديق لأخي.	Es amigo de mi hermano.
 ara	spa	هو صديق له.	Es un amigo de él.
 ara	spa	هو صَفّ سيّارته بحانب الرصيف.	Estacionó su auto cerca de la acera.
 ara	spa	هو عمي.	Es mi tío.
-ara	spa	هؤلاء الذين لا يردنا الذهاب، لا ضرورة لهم الذهاب.	Aquellos que no deseen ir no tienen que ir.
 ara	spa	هو لا يدخن.	Él no fuma.
 ara	spa	هو لديه ابن صغير.	Él tiene un hijo pequeño.
 ara	spa	هو له ابن صغير.	Él tiene un hijo pequeño.
@@ -941,6 +963,8 @@ ara	spa	هو مؤرخ.	Es un historiador.
 ara	spa	هو يتعلم الالمانية.	Él está aprendiendo alemán.
 ara	spa	هو يحب المربى.	A él le gusta la mermelada.
 ara	spa	هو يدرس الفرنسية و تصميم المواقيع.	Él estudia francés y diseño web.
+ara	spa	هى غائبة بسبب المرض.	Ella está ausente por motivos de salud.
+ara	spa	هى مغنية مشهورة.	Ella es una cantante famosa.
 ara	spa	هي أفزعت القط.	Ella asustó al gato.
 ara	spa	هيا لنلعب.	Vamos a jugar.
 ara	spa	هي تتعلم الالمانية.	Ella está aprendiendo alemán.
@@ -948,19 +972,17 @@ ara	spa	هي تمضي وقتا طويلا تتمرّن على عزف البيا�
 ara	spa	هي زوجتي.	Ella es mi esposa.
 ara	spa	هي صديقتك.	Ella es tu amiga.
 ara	spa	هي طالبة.	Ella es estudiante.
-ara	spa	هى غائبة بسبب المرض.	Ella está ausente por motivos de salud.
 ara	spa	هي ليست طبيبة.	Ella no es médica.
 ara	spa	هيلين في السابعة عشر من عمرها.	Helen tiene diecisiete años.
-ara	spa	هى مغنية مشهورة.	Ella es una cantante famosa.
 ara	spa	وأخيراً قرر أن يتزوج.	Él ha decidido casarse finalmente.
-ara	spa	والدي مشغول.	Mi padre está ocupado.
 ara	spa	و أنت؟	¿Y tú?
+ara	spa	والدي مشغول.	Mi padre está ocupado.
 ara	spa	وتلك الضحكات؟	¿Y esas risas?
 ara	spa	وجدنا الباب الرئيسي مقفل.	Encontramos que la puerta principal estaba cerrada.
 ara	spa	وجدناه حيا.	Lo encontramos vivo.
+ara	spa	وصلت إلى المطار للتو.	Acabo de llegar al aeropuerto.
 ara	spa	وصلت البارحة.	Llegué ayer.
 ara	spa	وصلت الطائرة في التاسعة بالضبط.	El avión llegó exactamente a las nueve.
-ara	spa	وصلت إلى المطار للتو.	Acabo de llegar al aeropuerto.
 ara	spa	وضح لي ما تريدني أن أفعل.	Dime lo que quieras que haga.
 ara	spa	وقبل أكثر من سبع سنوات قامت الولايات المتحدة بملاحقة تنظيم القاعدة ونظام طالبان بدعم دولي واسع النطاق. لم نذهب إلى هناك باختيارنا وإنما بسبب الضرورة	Hace alrededor de siete años que Estados Unidos persigue a Al-Qaeda y a los talibanes con un amplio apoyo internacional. No nos fuimos por elección, nos fuimos por necesidad.
 ara	spa	وقفت في آخر الصف.	Se paró al final de la fila.
@@ -972,20 +994,22 @@ ara	spa	ولكن أنا أفهم ما يقول.	Pero yo entiendo lo que él dice
 ara	spa	و لكنني أعيش في طوكيو الآن.	Pero ahora vivo en Tokio.
 ara	spa	يا أحمق!	¡Idiota!
 ara	spa	يا أحمق!	¡Tonto!
+ara	spa	يا صاحي، ثق بي.	Wey, créeme.
 ara	spa	يا لها من جملة!	¡Pero qué frase!
 ara	spa	يبدو صغيراً، ولكن في الواقع هو فوقَ الأربعين.	Parece joven pero en realidad tiene más de cuarenta.
 ara	spa	يبدو متعباً.	Parece cansado.
 ara	spa	يتحدث الكتاب عن ملك يفقد تاجه.	El libro habla sobre un rey que pierde su corona.
 ara	spa	يتحدث بالانجليزية في أجزاء كثيرة من العالم.	El inglés se habla en muchas partes del mundo.
 ara	spa	يتحدث خمس لغات.	Él habla cinco lenguas.
+ara	spa	يتعلم توم الجودو.	Tom está aprendiendo judo.
 ara	spa	يجب أن أضبط ساعتي. إنها بطيئة.	Tengo que ajustar mi reloj. Es que va atrasado.
 ara	spa	يجب أن نحافظ على التقاليد العائليّة.	Debemos mantener las tradiciones familiares.
 ara	spa	يجب أن نكون مستعدّين لذلك الأمر.	Tenemos que estar preparados para eso.
 ara	spa	يجب علي أن أساعد أمي.	Tengo que ayudar a mi madre.
-ara	spa	يجب عليك البدأ قريبا.	Usted debe comenzar pronto.
-ara	spa	يجب عليك الذهاب إلى الحفلة.	Deberías ir a la fiesta.
 ara	spa	يجب عليك أن تخبره بالحقيقة.	Deberías decirle la verdad.
 ara	spa	يجب عليك أن تخبره بالحقيقة.	Debes decirle la verdad.
+ara	spa	يجب عليك البدأ قريبا.	Usted debe comenzar pronto.
+ara	spa	يجب عليك الذهاب إلى الحفلة.	Deberías ir a la fiesta.
 ara	spa	يحب البرتقال.	Le encantan las naranjas.
 ara	spa	يحب الموسيقى كثيرا.	Le gusta mucho la música.
 ara	spa	يحب توم الجبنة.	A Tom le gusta el queso.
@@ -1004,28 +1028,33 @@ ara	spa	يعيش صديقي في ذلك المنزل.	Mi amigo vive en esa casa.
 ara	spa	يلعب الأولاد باللعب.	Los niños juegan con juguetes.
 ara	spa	يلعب كِن كرة القدم كل يوم.	Ken juega al fútbol todos los días.
 ara	spa	يمثل الليمون الساخن مع العسل علاجا جيدا للزكام.	Limón caliente con miel es un buen remedio para los resfriados.
+ara	spa	يمكنك أن تقرأ هذا الكتاب .	Tú puedes leer este libro.
 ara	spa	يمكنك استخدام دراجتي.	Podés usar mi bicicleta.
 ara	spa	يمكنك المجيئ معي.	Puedes venir conmigo.
-ara	spa	يمكنك أن تقرأ هذا الكتاب .	Tú puedes leer este libro.
 ara	spa	ينبغي أن تميز بين الصحيح والخطأ.	Debe distinguir entre el bien y el mal.
-arq	spa	خلاّ التّاقة مغلوقة.	Él dejó la ventana cerrada.
-arq	spa	راني فرحان بالمسيد تاعي.	Estoy orgulloso de mi colegio.
-arq	spa	راهوم يفّطرو في الجنان.	Están almorzando en el jardín.
-arq	spa	شافتو كي كسّر التّاقة.	Ella lo ha visto romper la ventana.
-arq	spa	شريت دلاّعة؟	¿Has comprado un melón?
-arq	spa	شكون كسّر التّاقة؟	¿Quién rompió la ventana?
-arq	spa	صاحبي قتارحنّا فكرا مليحا.	Mi amigo propuso una buena sugerencia.
-arq	spa	عندي لحق؟	¿Tengo razón?
-arq	spa	كاش واحد فتح التاقة.	Alguien abrió la ventana.
-arq	spa	كنت داير في بالي ايجي.	Yo pensé que él vendría.
-arq	spa	ماعليهش تغلق التّاقة؟	¿Podrías cerrar la ventana?
-arq	spa	ما قادرش القانون تاع المسيد.	Ellos no cumplieron el reglamento de la escuela.
-arq	spa	ما نقدرش نخايل حياتي بلا بيك.	No puedo imaginar mi vida sin vos.
-arq	spa	مبروك!	¡Felicitaciones!
-arq	spa	مور لفطور عندنا زوج دروس.	Tenemos dos clases más después del almuerzo.
-arz	spa	احنا اتولدنا بعد الحرب.	Nosotras nacimos después de la guerra.
-arz	spa	احنا اتولدنا بعد الحرب.	Nosotros nacimos después de la guerra.
-arz	spa	اليهوديه جميلة.	El judaísmo es bello.
-arz	spa	اليهوديه جميلة.	El judaísmo es lindo.
-arz	spa	اليهوديه حلوة.	El judaísmo es bello.
-arz	spa	اليهوديه حلوة.	El judaísmo es lindo.
+ara	spa	خلاّ التّاقة مغلوقة.	Él dejó la ventana cerrada.
+ara	spa	راني فرحان بالمسيد تاعي.	Estoy orgulloso de mi colegio.
+ara	spa	راهوم يفّطرو في الجنان.	Están almorzando en el jardín.
+ara	spa	شافتو كي كسّر التّاقة.	Ella lo ha visto romper la ventana.
+ara	spa	شريت دلاّعة؟	¿Has comprado un melón?
+ara	spa	شكون كسّر التّاقة؟	¿Quién rompió la ventana?
+ara	spa	صاحبي قتارحنّا فكرا مليحا.	Mi amigo propuso una buena sugerencia.
+ara	spa	عندي لحق؟	¿Tengo razón?
+ara	spa	كاش واحد فتح التاقة.	Alguien abrió la ventana.
+ara	spa	كنت داير في بالي ايجي.	Yo pensé que él vendría.
+ara	spa	ماعليهش تغلق التّاقة؟	¿Podrías cerrar la ventana?
+ara	spa	ما قادرش القانون تاع المسيد.	Ellos no cumplieron el reglamento de la escuela.
+ara	spa	ما نقدرش نخايل حياتي بلا بيك.	No puedo imaginar mi vida sin vos.
+ara	spa	مبروك!	¡Felicitaciones!
+ara	spa	مور لفطور عندنا زوج دروس.	Tenemos dos clases más después del almuerzo.
+ara	spa	احنا اتولدنا بعد الحرب.	Nosotras nacimos después de la guerra.
+ara	spa	احنا اتولدنا بعد الحرب.	Nosotros nacimos después de la guerra.
+ara	spa	المدينة موقعها في أقصى شمال اليابان.	El pueblo está ubicado en el extremo norte de Japón.
+ara	spa	اليهوديه جميلة.	El judaísmo es bello.
+ara	spa	اليهوديه جميلة.	El judaísmo es lindo.
+ara	spa	اليهوديه حلوة.	El judaísmo es bello.
+ara	spa	اليهوديه حلوة.	El judaísmo es lindo.
+ara	spa	جدك لسه عيان؟	¿Tu abuelo aún esta enfermo?
+ara	spa	رحت بوسطن مع توم و ماري.	Yo fui a Boston con Tom y Mary.
+ara	spa	طبعا بحبها.	Por supuesto que la amo.
+ara	spa	مدرستنا فيها جيم بس مفهاش حمام سباحه.	Nuestra escuela tiene gimnasio pero no piscina.

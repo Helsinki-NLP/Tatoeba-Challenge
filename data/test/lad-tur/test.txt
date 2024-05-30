@@ -4,10 +4,12 @@ lad_Latn	tur	Donald Trump es un mentirozo patolojiko.	Donald Trump iflah olmaz b
 lad_Latn	tur	Donald Trump es un mentirozo patolojiko.	Donald Trump patolojik bir yalancıdır.
 lad_Latn	tur	Donald Trump es un mintirozo patolojiko.	Donald Trump iflah olmaz bir yalancı.
 lad_Latn	tur	Donald Trump es un mintirozo patolojiko.	Donald Trump patolojik bir yalancıdır.
+lad_Latn	tur	El amor ama amar el amor.	Aşk aşkı sevmeyi sever.
 lad_Latn	tur	El antisemitizmo es el sosializmo de bovos.	Antisemitizm aptalların sosyalizmidir.
 lad_Latn	tur	Epstein no se mato.	Epstein kendini öldürmedi.
 lad_Latn	tur	Epstein no se suisido.	Epstein kendini öldürmedi.
 lad_Latn	tur	Esta mansana es kolorada.	Bu elma kırmızı.
+lad_Latn	tur	Estamos muy hazinos.	Çok hastayız.
 lad_Latn	tur	Este livro es preto.	Bu kitap siyah.
 lad_Latn	tur	Ester es un terdjuman.	Ester bir çevirmen.
 lad_Latn	tur	Ester es un terdjuman.	Ester bir tercüman.
@@ -20,22 +22,38 @@ lad_Latn	tur	Esto es una mezkita?	Bu bir cami mi?
 lad_Latn	tur	Esto es una mishkita?	Bu bir cami mi?
 lad_Latn	tur	Esto es un gato?	Bu bir kedi mi?
 lad_Latn	tur	Esto es un perro?	Bu bir köpek mi?
+lad_Latn	tur	Evropa no egziste.	Avrupa yok.
 lad_Latn	tur	Keremos una solusion pasifika.	Barışçıl bir çözüm istiyoruz.
 lad_Latn	tur	La berendjena fue ekselente.	Patlıcan harikaydı.
+lad_Latn	tur	La gerra es mala.	Savaş kötüdür.
 lad_Latn	tur	Las flores son amariyas.	Çiçekler sarıdır.
 lad_Latn	tur	La vida es un egzilio.	Hayat bir sürgündür.
 lad_Latn	tur	La vida es un galut.	Yaşam bir sürgündür.
 lad_Latn	tur	Los turkos i los kurdos son ermanos.	Türk ve Kürt kardeştir.
+lad_Latn	tur	Marx i Engels no eran neviim.	Marx ve Engels nebi değildi.
 lad_Latn	tur	Mi nombre es Tom.	İsmim Tom.
 lad_Latn	tur	Moro en Etiopia.	Etiyopya'da yaşıyorum.
 lad_Latn	tur	Noel no es una fiesta sekular.	Noel seküler bir tatil değildir.
+lad_Latn	tur	No es djudio.	O Yahudi değil.
+lad_Latn	tur	No keremos una gerra.	Savaş istemiyoruz.
+lad_Latn	tur	No kero muncho.	Çok istemiyorum.
+lad_Latn	tur	No kreyo mas en el Dio.	Artık Tanrı'ya inanmıyorum.
 lad_Latn	tur	No te enviti.	Seni davet etmedim.
+lad_Latn	tur	No tienes munchas paras.	Çok paran yok.
+lad_Latn	tur	Otro mundo es posivle?	Başka bir dünya mümkün mü?
+lad_Latn	tur	So anarkista.	Anarşistim.
+lad_Latn	tur	So anarkisto.	Anarşistim.
 lad_Latn	tur	So el diavlo.	Ben şeytanım.
 lad_Latn	tur	So el satan.	Ben şeytanım.
 lad_Latn	tur	Solo tengo tres livros.	Sadece üç kitabım var.
+lad_Latn	tur	Somos djudios.	Biz Yahudiyiz.
+lad_Latn	tur	Somos djudios.	Yahudiyiz.
+lad_Latn	tur	Son rumanas?	Onlar Rumen mi?
+lad_Latn	tur	Son rumanos?	Onlar Rumen mi?
 lad_Latn	tur	So una gata.	Ben bir kediyim.
 lad_Latn	tur	So un djenio muy estavle.	Ben çok dengeli bir dâhiyim.
 lad_Latn	tur	So un gato.	Ben bir kediyim.
+lad_Latn	tur	Te plazen los portokales?	Portakal sever misin?
 lad_Latn	tur	Tom es un filozofo.	Tom bir felsefeci.
 lad_Latn	tur	Tom es un filozofo.	Tom bir filozof.
 lad_Latn	tur	Tom komio la salata de Miri.	Tom, Mary'nin salatasını yedi.
@@ -55,6 +73,7 @@ lad	tur	לה בﬞידה איס און איגזיליו.	Yaşam bir sürgündür
 lad	tur	לה בﬞידה איס און גלות.	Hayat bir sürgündür.
 lad	tur	לה בﬞידה איס און גלות.	Yaşam bir sürgündür.
 lad	tur	לה בירינגﬞינה פﬞוי איקסילינטי.	Patlıcan harikaydı.
+lad	tur	לה גיררה איס מאלה.	Savaş kötüdür.
 lad	tur	מורו אין איטיופיה.	Etiyopya'da yaşıyorum.
 lad	tur	נואיל נו איס אונה פﬞיייסטה סיקולאר.	Noel seküler bir tatil değildir.
 lad	tur	סו און גאטו.	Ben bir kediyim.

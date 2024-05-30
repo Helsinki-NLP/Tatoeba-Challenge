@@ -48,6 +48,7 @@ epo	tur	Ankaŭ mi ne sciis, ke vi venos ĉi tien.	Buraya geldiğinizi ben de bil
 epo	tur	Ankaŭ mi ŝatas la anglan lingvon.	Ben de İngilizceyi seviyorum.
 epo	tur	Ankaŭ ni konsentas.	Biz de aynı fikirdeyiz.
 epo	tur	Ankaŭ ni konsentas.	Biz de kabul ediyoruz.
+epo	tur	Ankaŭ tio estas manĝebla.	Bu da yenebilir.
 epo	tur	Ankaŭ tio estas pomo.	Bu da bir elma.
 epo	tur	Ankaŭ Tomo impresis min.	Tom da beni etkiledi.
 epo	tur	Ankaŭ Tomo ne tre ŝatas vin.	Tom sizlerden de özellikle hoşlanmıyor.
@@ -305,6 +306,7 @@ epo	tur	Ĉi tiu estas mia instruisto. Li nomiĝas S-ro Haddad.	Bu benim öğretm
 epo	tur	Ĉi tiu estas mia libro.	Bu benim kitabım.
 epo	tur	Ĉi tiu fenestro estas pafrezista.	Bu cam kurşun geçirmez.
 epo	tur	Ĉi tiu fenestro estas pafrezista.	Bu pencere kurşun geçirmez.
+epo	tur	Ĉi tiu fiŝo ne manĝeblas.	Bu balık yenmez.
 epo	tur	Ĉi tiu hotelo havas sportosalonon kaj naĝujon.	Bu otelin bir spor salonu ve bir yüzme havuzu vardır.
 epo	tur	Ĉi tiu hundo ne estas mia.	Bu köpek benim değil.
 epo	tur	Ĉi tiuj hundoj estas grandaj.	Bu köpekler büyük.
@@ -320,6 +322,7 @@ epo	tur	Ĉi tiu pomo estas dolĉa.	Bu elma tatlıdır.
 epo	tur	Ĉi tiu produkto estas farita en Italujo.	Bu ürün İtalya'da üretilir.
 epo	tur	Ĉi tiu rivero estas plej profunda ĉi tie.	Bu nehrin en derin yeri burası.
 epo	tur	Ĉi tiu sako kostis al mi ses pundojn.	Bu çanta bana 6 paunda maloldu.
+epo	tur	Ĉi tiu ŝtelis mian identigan karton!	Bu vatandaş benim kimliğimi çaldı!
 epo	tur	Ĉi tiu tasko estas tro granda por mi.	Bu görev benim için çok fazla.
 epo	tur	Ĉi tiu tranĉilo estas tre akra.	Bu bıçak çok keskin.
 epo	tur	Ĉi tiu vortaro estas tre utila.	Bu sözlük çok yararlıdır.
@@ -378,6 +381,7 @@ epo	tur	Ĉiu vojo finiĝas en Romo.	Bütün yollar Roma'ya çıkar.
 epo	tur	Ĉiu volas renkonti vin, vi estas famulo!	Herkes seninle tanışmak istiyor.Sen ünlüsün!
 epo	tur	Ĉiu volas renkonti vin, vi estas famulo!	Herkes sizi görmek istiyor. Siz ünlüsünüz!
 epo	tur	Ĉi-vespere mi vere lacis.	Bu akşam gerçekten yoruldum.
+epo	tur	Ĉu alia mondo eblas?	Başka bir dünya mümkün mü?
 epo	tur	Ĉu almenaŭ vi scias, kio estas tio?	Hiç değilse ne olduğunu biliyor musun?
 epo	tur	Ĉu ankaŭ Tomo ludas la mandolinon?	Tom da mandolin çalıyor mu?
 epo	tur	Ĉu ankaŭ Tomo parolas la francan?	Tom da Fransızca konuşuyor mu?
@@ -411,6 +415,7 @@ epo	tur	Ĉu ĝi estas senpaga?	O ücretsiz mi?
 epo	tur	Ĉu ĝi estis la ideo de alia persono?	Bu başka birinin fikri miydi?
 epo	tur	Ĉu ili alvenos ĉi tien morgaŭ?	Yarın buraya mı geliyorlar?
 epo	tur	Ĉu ili estas amikoj?	Onlar arkadaş mı?
+epo	tur	Ĉu ili estas rumanoj?	Onlar Rumen mi?
 epo	tur	Ĉu ili havas monon?	Onların parası var mı?
 epo	tur	Ĉu ili povas fari tion?	Onlar bunu yapabilirler mi?
 epo	tur	Ĉu io videblas tie?	Orada herhangi bir şey görebiliyor musun?
@@ -427,6 +432,7 @@ epo	tur	Ĉu la difekto okazas ripetiĝante aŭ sporade? Ĉu la difekto estas rep
 epo	tur	Ĉu la hindan lingvon oni instruu en la lernejoj ĉie en Barato?	Hindistan genelindeki okullarda Hintçe öğretilmeli mi?
 epo	tur	Ĉu la horo konvenas al vi?	Saat sana uyuyor mu?
 epo	tur	Ĉu la kato troviĝas sur la seĝo, ĉu sub la seĝo?	Kedi, sandalyenin üstünde mi yoksa altında mı?
+epo	tur	Ĉu la leono estas mamulo?	Aslan memeli mi?
 epo	tur	Ĉu la libro estis interesa?	Kitap enteresan mıydı?
 epo	tur	Ĉu lamo estas kamelo?	Lama deve midir?
 epo	tur	Ĉu la respondo ne estas simpla?	Cevap kolay değil mi?
@@ -448,6 +454,7 @@ epo	tur	Ĉu li iras al la superbazaro?	O, süpermarkete mi gidiyor?
 epo	tur	Ĉu li loĝas ĉi tie?	O burada mı yaşıyor?
 epo	tur	Ĉu li loĝas ĉi tie?	O burada yaşıyor mu?
 epo	tur	Ĉu li ludas pianon?	O, piyano çalar mı?
+epo	tur	Ĉu li scias, ke mi estas ĉi tie?	Burada olduğumu biliyor mu?
 epo	tur	Ĉu li scias kiel vi sentas vin?	O senin nasıl hissettiğini biliyor mu?
 epo	tur	Ĉu li tuŝis vin?	O sana dokundu mu?
 epo	tur	Ĉu li venis per aŭtobuso aŭ per vagonaro ?	O, otobüsle mi yoksa trenle mi geldi?
@@ -529,6 +536,7 @@ epo	tur	Ĉu ŝi estas via fratino?	O senin kız kardeşin mi?
 epo	tur	"Ĉu ŝi havas hundon?" "Ne."	"Onun köpeği var mı?" "Hayır, yok."
 epo	tur	Ĉu ŝi respondas la demandojn?	O, soruları cevaplıyor mu?
 epo	tur	Ĉu ŝi ŝatas min?	Benden hoşlanıyor mu?
+epo	tur	Ĉu ŝi scias, ke mi estas ĉi tie?	Burada olduğumu biliyor mu?
 epo	tur	Ĉu ŝi scias kiel vi sentas vin?	O senin nasıl hissettiğini biliyor mu?
 epo	tur	Ĉu tio estas invito?	Bu bir davet mi?
 epo	tur	Ĉu tio estas kato?	O bir kedi mi?
@@ -864,6 +872,7 @@ epo	tur	Ĉu vi ŝatas iri al la teatro?	Tiyatroya gitmekten hoşlanıyor musun?
 epo	tur	Ĉu vi ŝatas kafon?	Kahveyi sever misin?
 epo	tur	Ĉu vi ŝatas lerni la francan lingvon?	Fransızca öğrenmeyi seviyor musun?
 epo	tur	Ĉu vi ŝatas manĝi tofuon?	Tofu sever misin?
+epo	tur	Ĉu vi ŝatas ŝakon?	Satranç sever misin?
 epo	tur	Ĉu vi ŝatas tiun knabinon?	Bu kızı beğeniyor musunuz?
 epo	tur	Ĉu vi ŝatas trinki ion?	Bir şeyler içmek ister misin?
 epo	tur	Ĉu vi ŝatis Romon?	Roma'yı beğendin mi?
@@ -904,6 +913,8 @@ epo	tur	Ĉu vi serioze parolas?	Gerçekten onu mu demek istiyorsun?
 epo	tur	Ĉu vi tie ĉi estas novulo?	Burada yeni misin?
 epo	tur	Ĉu vi timas perdi vian monon?	Paranızı kaybetmekten korkuyor musunuz?
 epo	tur	Ĉu vi transloĝiĝas?	Taşınıyor musun?
+epo	tur	Ĉu vi trovis vian katon hieraŭ?	Dün kedini buldun mu?
+epo	tur	Ĉu vi trovis vian katon hieraŭ?	Dün kedinizi buldunuz mu?
 epo	tur	Ĉu vi uzas heroinon aŭ metadonon?	Eroin ya da metadon kullanıyor musunuz?
 epo	tur	Ĉu vi uzas ketaminon?	Ketamin kullanıyor musunuz?
 epo	tur	Ĉu vi uzas kratomon?	Kratom kullanıyor musunuz?
@@ -1188,6 +1199,7 @@ epo	tur	Estas al mi tede.	Canım sıkılıyor.
 epo	tur	Estas al mi tede.	Sıkıldım.
 epo	tur	Estas alveninta la momento.	Vakit geldi.
 epo	tur	Estas belaj urboj en Japanujo, ekzemple Kioto kaj Nara.	Japonya'da Kyoto ve Nara gibi güzel şehirler vardır.
+epo	tur	Estas belega tago hodiaŭ.	Bugün çok güzel bir gün.
 epo	tur	Estas ĉio.	Hepsi bu kadar.
 epo	tur	Estas danĝere ludi proksime de la fajro.	Ateş etrafında oynamak tehlikelidir.
 epo	tur	Estas diversspecaj bombonoj en tiu vazo.	O kasede değişik türde şekerleme var.
@@ -1277,6 +1289,7 @@ epo	tur	Estus bone, se vi edziĝus denove.	Tekrar evlenmelisin.
 epo	tur	Estu singarda.	Dikkatli ol.
 epo	tur	Estus revo, se mi scipovus paroli dek lingvojn.	On dil konuşabilsem, çok güzel olur!
 epo	tur	Eŭropanoj ŝatas trinki vinon.	Avrupalılar şarap içmek isterler.
+epo	tur	Eŭropo ne ekzistas.	Avrupa yok.
 epo	tur	Facilis al li solvi la problemon.	O,kolaylıkla problemi çözebildi.
 epo	tur	Fadilo atendis apude.	Fadıl yakında bekledi.
 epo	tur	Fakte, Marie Curie estis polino, ne francino.	Aslında Marie Curie Fransız değil, Polonyalıdır.
@@ -1359,6 +1372,7 @@ epo	tur	Ĝi estas ĉina kompanio.	O bir Çin şirketi.
 epo	tur	Ĝi estas ege facila.	Çok kolay.
 epo	tur	Ĝi estas glacie malvarma.	O buz gibi soğuk.
 epo	tur	Ĝi estas glacie malvarma.	O, buz kadar soğuk.
+epo	tur	Ĝi estas granda kaj tre bela.	O, büyük ve çok güzeldir.
 epo	tur	Ĝi estas ilia kulpo.	Bu onların hatası.
 epo	tur	Ĝi estas la pomo de Johano.	O John'un elması.
 epo	tur	Ĝi estas larĝa.	O, geniştir.
@@ -1402,6 +1416,8 @@ epo	tur	Graham Greene estas mia preferata verkisto.	Graham Greene en sevdiğim y
 epo	tur	Graham Greene estas unu el miaj plej ŝatataj verkistoj.	Graham Greene, benim en sevdiğim yazarlardan biridir.
 epo	tur	Granda besto fuĝis el la bestoĝardeno.	Büyük bir hayvan hayvanat bahçesinden kaçtı.
 epo	tur	Granda besto fuĝis el la bestoĝardeno.	Büyük bir hayvan, hayvanat bahçesinden kaçtı.
+epo	tur	Granda domo	Büyük ev
+epo	tur	Grandaj domoj.	Büyük evler.
 epo	tur	Grandan parton de la germana, kiun mi nun scias, mi lernis danke al Tatoeba.	Şu anda bildiğim Almancanın büyük bir kısmını Tatoeba sayesinde öğrendim.
 epo	tur	Grandioza, ĉu ne?	Harika, değil mi?
 epo	tur	Gravas ke vi estu akurata.	Dakik olman gerektiği çok önemlidir.
@@ -1455,6 +1471,7 @@ epo	tur	Hodiaŭ estas la dek-oka de junio kaj la naskiĝtago de Muiriel.	Bugün 
 epo	tur	Hodiaŭ estas la plej varmega tago dum tiu ĉi jaro.	Bugün, bu yılın en sıcak günüdür.
 epo	tur	Hodiaŭ estas lundo.	Bugün pazartesi.
 epo	tur	Hodiaŭ estas pluva vetero en Vieno.	Bugün Viyana'da yağmurlu bir hava var.
+epo	tur	Hodiaŭ haveblas neniu pano.	Bugün ekmek yok.
 epo	tur	Hodiaŭ la superbazaro estis fermita.	Süpermarket bugün kapalıydı.
 epo	tur	Hodiaŭ la vetero estas tre bona.	Bugün hava çok güzel
 epo	tur	Hodiaŭ matene mi renkontis Tonion survoje lernejen.	Bu sabah okula giderken Tony ile karşılaştım.
@@ -1504,6 +1521,7 @@ epo	tur	Ili estas ambaŭ en la ĉambro.	Onlardan ikisi odadadır.
 epo	tur	Ili estas ambaŭ en la ĉambro.	Onların her ikisi de odadalar.
 epo	tur	Ili estas en mia domo.	Onlar benim evimde.
 epo	tur	Ili estas en tiu aviadilo.	Onlar bu uçakta.
+epo	tur	Ili estas fiŝoj.	Onlar balık.
 epo	tur	Ili estas infanoj.	Onlar çocuklar.
 epo	tur	Ili estas kapablaj studantoj.	Onlar yetenekli öğrenciler.
 epo	tur	Ili estas kaptitaj.	Onlar yakalandı.
@@ -1538,6 +1556,12 @@ epo	tur	Ili lavas siajn manojn.	Onlar ellerini yıkar.
 epo	tur	Ili lavas siajn manojn.	Onlar ellerini yıkıyorlar.
 epo	tur	Ili lernis nenion en la lernejo.	Okulda hiçbir şey öğrenmediler.
 epo	tur	Ili lernis nenion en la lernejo.	Okulda hiçbir şey öğrenmemişler.
+epo	tur	Ili loĝas en Nederlando.	Hollanda'da yaşarlar.
+epo	tur	Ili loĝas en Nederlando.	Hollanda'da yaşıyorlar.
+epo	tur	Ili loĝas en Nederlando.	Onlar Hollanda'da yaşar.
+epo	tur	Ili loĝas en Nederlando.	Onlar Hollanda'da yaşarlar.
+epo	tur	Ili loĝas en Nederlando.	Onlar Hollanda'da yaşıyor.
+epo	tur	Ili loĝas en Nederlando.	Onlar Hollanda'da yaşıyorlar.
 epo	tur	Ili malfruas, kiel kutime.	Onlar her zamanki gibi geç kaldılar.
 epo	tur	Ili malŝategas araneojn.	Onlar örümceklerden nefret eder.
 epo	tur	Ili manĝas pomojn.	Onlar elmalar yiyorlar.
@@ -1566,6 +1590,7 @@ epo	tur	Ili provizis per nutraĵo la militviktimojn.	Savaş kurbanlarına yiyece
 epo	tur	Ili respektas lin.	Ona saygı duyuyorlar.
 epo	tur	Ili restis amikoj.	Onlar arkadaş kaldı.
 epo	tur	Ili ridas.	Gülüyorlar.
+epo	tur	Ili rigardas min.	Onlar beni izliyor.
 epo	tur	Ili scias, kio okazis.	Onlar ne olduğunu biliyor.
 epo	tur	Ili sciis kiel eltiri feron el erco.	Onlar metali demir cevherlerinden nasıl eriteceğini biliyordu.
 epo	tur	Ili scipovas paroli la hispanan.	Onlar İspanyolca konuşabilir.
@@ -1673,6 +1698,7 @@ epo	tur	Jes, mi estas el Sapporo.	Evet, ben Sapporo'danım.
 epo	tur	Jes, mi komprenas. Dankon.	Evet, anlıyorum. Teşekkürler.
 epo	tur	Jes, mi scias.	Evet, biliyorum.
 epo	tur	Jes, ni povos ŝanĝi.	Evet, değiştirebiliriz.
+epo	tur	Jesuo ne estis kristano.	İsa Hristiyan değildi.
 epo	tur	Jim amegas sian koramikinon.	Jim kız arkadaşını çok seviyor.
 epo	tur	Jim atentigis min pri kelkaj gramatikaj eraroj en mia redaktaĵo.	Jim, benim kompozisyonumda bazı dil bilgisi hatalarına dikkat çekti.
 epo	tur	Jim estis kaptita je fikopiado dum la ekzameno.	Jim sınavda kopya çekerken yakalandı.
@@ -1735,6 +1761,7 @@ epo	tur	Kia diferenco estas inter ĉi tio kaj tio?	Bunun ve şunun arasındaki f
 epo	tur	Kia estas la gusto?	Tadı nasıl?
 epo	tur	Kia estas la vetero en Saloniko?	Selânik'te hava nasıl?
 epo	tur	Kia estas la vetero?	Hava nasıl?
+epo	tur	Kia estas lia domo?	Onun evi nasıl?
 epo	tur	Kia estas tie la vetero?	Orada hava nasıl?
 epo	tur	Kia estas via vidkapablo?	Görmeniz nasıl?
 epo	tur	Kia estis via vojaĝo al Aŭstralio?	Avustralya'ya yolculuğun nasıldı?
@@ -1915,6 +1942,7 @@ epo	tur	Kiel mi povas pagi miajn kalkulojn sen laboro!	Nasıl çalışmadan bor�
 epo	tur	Kiel ni haltigas homojn kiel Tomo?	Tom gibi adamları nasıl durdururuz?
 epo	tur	Kiel ni trovos tion?	Onu nasıl bulacağız?
 epo	tur	Kiel nomiĝas la hundo de Tomo?	Tom'un köpeğinin adı ne?
+epo	tur	Kiel nomiĝas la plej fama militkrimulo?	En meşhur savaş suçlusunun adı nedir?
 epo	tur	Kiel nomiĝas tiu birdo?	O kuşa ne denir?
 epo	tur	Kiel nomiĝas tiu birdo?	Şu kuşun adı ne?
 epo	tur	Kiel nomiĝas tiu vojkruciĝo?	Bu kavşağın adı nedir?
@@ -2023,6 +2051,7 @@ epo	tur	Kiom bone vi konis Tomon?	Tom'u ne kadar iyi tanıyordun?
 epo	tur	Kiom da fojoj en la semajno vi manĝas eksterhejme?	Haftada kaç kez dışarıda yersiniz?
 epo	tur	Kiom da fojoj jare vi foriras por skiadi?	Her yıl ne sıklıkla kayağa gidersin?
 epo	tur	Kiom da homoj estis mortigitaj en la magazeno?	Mağazada kaç kişi öldürüldü?
+epo	tur	"Kiom da infanoj vi havas?" "Mi havas du filojn kaj unu filinon."	"Kaç çocuğun var?" "İki oğlum ve bir kızım var."
 epo	tur	Kiom da katoj vi havas?	Kaç kediniz var?
 epo	tur	Kiom da kilometrojn la veturilo rulas je litro?	Ortalama araba litre başına kaç kilometre gider?
 epo	tur	Kiom da literoj estas en la angla alfabeto?	İngiliz alfabesinde kaç tane harf var?
@@ -2081,6 +2110,7 @@ epo	tur	Kion li faris ne estis malprava.	Onun yaptığı şey yanlış değildi.
 epo	tur	Kion li faris ne estis malprava.	Yaptığı yanlış değildi.
 epo	tur	Kion li faris?	O ne yaptı?
 epo	tur	Kion li scius?	O ne bilirdi?
+epo	tur	Kion li volis diri?	O ne demek istedi?
 epo	tur	Kion Mary faris, tio ne plaĉis al mi.	Mary'nin yaptığı şeyi beğenmedim.
 epo	tur	Kion mi bezonas?	Benim neye ihtiyacım var?
 epo	tur	Kion mi estus devinta fari?	Ne yapmalıydım?
@@ -2165,6 +2195,7 @@ epo	tur	Kion vi volas, ke mi faru?	Benim yapmamı istediğin şey nedir?
 epo	tur	Kion vi volas, ke mi faru?	Ne yapmamı istersin?
 epo	tur	Kion vi volas por la matenmanĝo?	Kahvaltı için ne istiyorsun?
 epo	tur	Kion vi volas por via matenmanĝo?	Kahvaltı için ne istersiniz?
+epo	tur	Kio okazas en tiu ĉi lando?	Bu ülkede neler oluyor?
 epo	tur	Kio okazis al vi? Ĉu vi malsanas aŭ io?	Neyin var, hasta filan mısın?
 epo	tur	Kio okazis ĉi tie?	Burada ne oldu?
 epo	tur	Kio okazos se nun forestos la kurento?	Şimdi elektrik kesintisi olursa ne olur?
@@ -2281,6 +2312,7 @@ epo	tur	Kiu sin deklaras respondeca pri la perdo?	Kim kayıp için sorumluluk al
 epo	tur	Kiu skribis ĉi tiujn leterojn?	Bu mektupları kim yazdı?
 epo	tur	Kiu tago estas hodiaŭ?	Bugün hangi gün?
 epo	tur	Kiu telefonis?	Kim telefon etti?
+epo	tur	Kiu venos lunĉi?	Öğle yemeğine kim gelecek?
 epo	tur	Kiu verkis „La Princo”?	"Prens"i kim yazdı?
 epo	tur	Kiu vi pensas, ke vi estas?	Kendinizi ne sanıyorsunuz?
 epo	tur	Kiu vojo kondukas al la futbala stadiono?	Hangi yol futbol stadyumuna götürür?
@@ -2426,6 +2458,7 @@ epo	tur	La gepatroj de la knabino jesis al ŝia peto.	Kızın ebeveynleri onun r
 epo	tur	La germana registaro ne helpu al ili.	Alman hükümeti onlara yardım etmemelidir.
 epo	tur	La glacio estas sufiĉe dika por piediri sur ĝi.	Buz üzerinde yürümek için yeteri kadar kalın.
 epo	tur	La glaso estas malpura.	Bardak kirli.
+epo	tur	La grandaj knabinoj estas simpatiaj.	Büyük kızlar sempatiktir.
 epo	tur	La greka estas nefacila lingvo.	Yunanca kolay bir dil değildir.
 epo	tur	La hararo de Manjo estas nature bukla.	Mary'nin saçı doğuştan kıvırcık.
 epo	tur	La hebrea estas malfacila lingvo.	İbranice zor bir dildir.
@@ -2470,6 +2503,10 @@ epo	tur	La kato de la najbaro ŝatas nian ĝardenon.	Komşunun kedisi bizim bah�
 epo	tur	La kato dormas sur seĝo.	Kedi bir sandalyede uyuyor.
 epo	tur	La kato estas sub la lito.	Kedi yatağın altında.
 epo	tur	La kato estis ludanta per vivanta muso.	Kedi canlı bir fare ile oynuyordu.
+epo	tur	La katoj estas nigraj.	Kediler siyah.
+epo	tur	La katoj estas nigraj.	Kediler siyahlar.
+epo	tur	La katoj estas nigraj.	Kediler siyahtır.
+epo	tur	La katoj estas nigraj.	Kediler siyahtırlar.
 epo	tur	La kato kaŝas sin sub la kanapo.	Kedi kanapenin altında saklanıyor.
 epo	tur	La kato kuŝas sur la mato.	Kedi paspasın üzerinde.
 epo	tur	La kato kuŝas sur la mato.	Kedi paspasta.
@@ -2505,6 +2542,7 @@ epo	tur	La kuracisto diris al Tomo, ke li manĝu malpli da ruĝa viando.	Doktor 
 epo	tur	La kuracisto ekzamenis la pacientojn.	Doktor hastaları muayene etti.
 epo	tur	La kuracisto ĝuste nun ekzamenas Tomon.	Doktor şu anda Tom'u muayene ediyor.
 epo	tur	La kuracisto, kiun ŝi konsultis, estas fama.	Onun gittiği doktor ünlüdür.
+epo	tur	La kuraco estas Sarigulo.	Çare Sarıgül.
 epo	tur	La kurdoj ne havas propran ŝtaton.	Kürtlerin kendi devletleri yok.
 epo	tur	La kvadrato de la hipotenuzo egalas al la sumo de la kvadratoj de la aliaj du lateroj.	Hipotenüsün karesi diğer iki kenarın kareleri toplamına eşittir.
 epo	tur	La laboristoj ne havas patrion.	İşçilerin ülkesi yoktur.
@@ -2608,6 +2646,7 @@ epo	tur	La politiko estas malpura.	Siyaset kirlidir.
 epo	tur	La pordo ne estis fermita.	Kapı kapalı değildi.
 epo	tur	La postan tagon miaj kruroj doloris.	Ertesi gün bacaklarım acıyordu.
 epo	tur	La prezidanto kaj la sekretario interparolis dum kaftrinkado.	Başkan ve sekreter bir fincan kahve içerken sohbet ettiler.
+epo	tur	La prezidento de Ukrainio estas judo.	Ukrayna devlet başkanı yahudidir.
 epo	tur	La prezidento restis en la lito.	Başkan yatakta kaldı.
 epo	tur	La prezo de oro varias ĉiutage.	Altının fiyatı günden güne değişiyor.
 epo	tur	La prezo estas malgranda, sed la kvalito ne tre bonas.	Fiyat düşük ama kalitesi çok iyi değil.
@@ -2620,6 +2659,7 @@ epo	tur	La profesoro lekciis pri Mez-Oriento.	Profesör, Orta Doğu üzerine bir
 epo	tur	La profesoro malakceptis liajn ideojn.	Profesör fikirlerini reddetti.
 epo	tur	La profesoro pri historio skribis interesan artikolon en la loka gazeto.	Tarih profesörü, yerel gazetede ilginç bir makale yazdı.
 epo	tur	La reago de Tomo estis la malo de tio, kion Maria atendis.	Tom'un tepkisi Mary'nin beklediği şeyin tersiydi.
+epo	tur	La reĝo loĝas en la kastelo.	Kral kalede yaşar.
 epo	tur	La reĝo regis la landon.	Kral ülkeyi yönetti.
 epo	tur	La renkontiĝo finiĝis tagmeze.	Toplantı gün ortasında bitti.
 epo	tur	La respondo de Tomo estis surpriza.	Tom'un cevabı şaşırtıcıydı.
@@ -2684,6 +2724,7 @@ epo	tur	La tagmanĝo estas preta.	Öğle yemeği hazır.
 epo	tur	La tago belas, ĉu ne?	Güzel bir gün değil mi?
 epo	tur	La tagoj longiĝas.	Günler uzuyor.
 epo	tur	La tasko de la tradukanto ne estas enkonduki aŭtoron el fremda lando, sed konstrui por li monumenton en la propra lingvo.	Çevirmenin görevi yabancı bir ülkeden bir yazarı tanıtmak değil de kendi dilinde onun için bir anıt inşa etmektir.
+epo	tur	La teksto estas francigenda.	Metnin Fransızcaya çevrilmesi gerekiyor.
 epo	tur	La telefono estis inventita de Bell en 1876.	Telefon, 1876'da Bell tarafından bulundu.
 epo	tur	La televidilo ne funkcias.	Televizyon çalışmıyor.
 epo	tur	La televidilo restis ŝaltita la tutan nokton.	TV bütün gece açıktı.
@@ -2718,6 +2759,7 @@ epo	tur	Laŭ mi, la vetero estas bona.	Bana göre hava hoş.
 epo	tur	Laŭ mi Tomo ŝatos tion.	Bence Tom bunu sevecek.
 epo	tur	La universo estas plena de sekretoj.	Evren gizemlerle dolu.
 epo	tur	La universo estas plena de sekretoj.	Evren sırlarla dolu.
+epo	tur	La unuigita popolo neniam estos venkita.	Birleşen halk asla yenilmez.
 epo	tur	La urbo estas plena de taksioj.	Şehir taksiden geçilmiyor.
 epo	tur	Laurie amas min.	Laurie beni sever.
 epo	tur	Laurie estas dekstre.	Laurie sağda.
@@ -2800,6 +2842,7 @@ epo	tur	Liaj desegnaĵoj estas ekstreme detalitaj kaj precizaj; ĉiam estas nedi
 epo	tur	Liaj gepatroj estas tre konservemaj.	Anne ve babası çok muhafazakar.
 epo	tur	Liaj haroj estas longaj.	Onun saçı uzun.
 epo	tur	Liaj romanoj estas famaj ĉe junuloj.	Onun romanları genç kişiler arasında ünlüdür.
+epo	tur	Liaj sukcesoj estis rekonataj.	Başarıları takdir edildi.
 epo	tur	Liaj vortoj donis al mi esperon.	Sözleri bana umut verdi.
 epo	tur	Lia kapablo pri matematiko estas elstara.	Onun matematikteki yeteneği çok iyi.
 epo	tur	Lia kompleto estis griza kaj lia kravato estis flava.	Kıyafeti gri, kravatı sarıydı.
@@ -2832,6 +2875,7 @@ epo	tur	Li baldaŭ estos ĉi tie.	O yakında burada olacak.
 epo	tur	Li baldaŭ kapablos naĝi.	Yakında yüzebilecek.
 epo	tur	Liberigu Kurdion!	Özgür Kürdistan!
 epo	tur	Liberigu Kurdistanon!	Özgür Kürdistan!
+epo	tur	Liberigu Ukrainion!	Ukrayna'ya özgürlük!
 epo	tur	Li bezonas vin.	Onun sana ihtiyacı var.
 epo	tur	Li blindiĝis.	O kör oldu.
 epo	tur	Li bone eltenis la operacion.	Ameliyata iyi dayandı.
@@ -2920,6 +2964,7 @@ epo	tur	Li estas granda kaj forta.	O, uzun ve güçlüdür.
 epo	tur	Li estas instruisto pri la angla.	O bir İngilizce öğretmeni.
 epo	tur	Li estas inteligenta knabo.	O, akıllı bir çocuktur.
 epo	tur	Li estas ĵaluza.	O kıskançtır.
+epo	tur	Li estas juda antisemito.	O antisemit bir Yahudi.
 epo	tur	Li estas juna, sed havas sperton.	O genç ama deneyimli.
 epo	tur	Li estas kun siaj amikoj en la ludejo.	Arkadaşlarıyla birlikte oyun alanında.
 epo	tur	Li estas kuranta.	Koşuyor.
@@ -2996,6 +3041,7 @@ epo	tur	Li havas blankan katon.	Onun beyaz bir kedisi var.
 epo	tur	Li havas bonan reputacion.	O iyi bir üne sahiptir.
 epo	tur	Li havas dek infanojn.	O on çocuğa sahiptir.
 epo	tur	Li havas dek unu jarojn.	O on bir yaşında.
+epo	tur	Li havas du infanojn, kaj ambaŭ estas knaboj.	İki çocukları var ve ikisi de oğlan.
 epo	tur	Li havas du katojn: blankan kaj nigran.	Onun iki kedisi var biri beyaz biri siyah.
 epo	tur	Li havas filon en via aĝo.	Senin yaşında bir oğlu var.
 epo	tur	Li havas fraton kaj du fratinojn.	Bir erkek ve iki kız kardeşi var.
@@ -3094,6 +3140,7 @@ epo	tur	Li membriĝis en grupon.	O bir gruba katıldı.
 epo	tur	Li mensogis al ni.	O bize yalan söyledi.
 epo	tur	Li meritas la premion.	Ödülü hak ediyor.
 epo	tur	Li montris al mi sian fotalbumon.	Bana fotoğraf albümünü gösterdi.
+epo	tur	Li mordis sin.	O, kendini ısırdı.
 epo	tur	Li mortis antaŭ kvin jaroj.	O beş yıldır ölüdür.
 epo	tur	Li mortis en la batalo.	Savaşta öldü.
 epo	tur	Li mortis hieraŭ.	O, dün öldü.
@@ -3113,15 +3160,19 @@ epo	tur	Li ne ĉesis paroli.	O, konuşmayı kesmedi.
 epo	tur	Li ne ĉiam malfruas.	O her zaman geç gelmez.
 epo	tur	Li ne ĉiam malfruas.	O her zaman geç kalmaz.
 epo	tur	Li ne ellitiĝas frue.	O, erken kalkmaz.
+epo	tur	Li ne estas hebreo.	O Yahudi değil.
 epo	tur	Li ne estas idiota.	O aptal değil.
 epo	tur	Li ne estas idiota.	O aptal değildir.
 epo	tur	Li ne estas idiota.	O bir aptal değil.
 epo	tur	Li ne estas iu ajn.	O sıradan bir adam değil.
+epo	tur	Li ne estas judo.	O Yahudi değil.
 epo	tur	Li ne estas malbona homo.	O kötü bir adam değil.
 epo	tur	Li ne estas ordinarulo.	O sıradan bir adam değil.
 epo	tur	Li ne estas tiel energia kiel li iam estis.	Bir zamanlar olduğu kadar enerjik değil.
 epo	tur	Li ne estas tie.	O orada değil.
 epo	tur	Li ne estis via frato.	O, senin kardeşin değildi.
+epo	tur	Li ne faldas la ŝtrumpetojn.	O, çorapları katlamıyor.
+epo	tur	Li ne faldas ŝtrumpetojn.	O, çorap katlamıyor.
 epo	tur	Li ne haltigis sian aŭton ĉe la ruĝa trafiklumo.	O, arabasını kırmızı ışıkta durdurmadı.
 epo	tur	Li ne havas sufiĉe da mono por nova aŭtomobilo.	Yeni bir araba için parası yok.
 epo	tur	Li ne havis monon.	Onun parası yoktu.
@@ -3154,6 +3205,7 @@ epo	tur	Li ne sciis, kion diri, tial li restis silenta.	Ne diyeceğini bilmiyord
 epo	tur	Li ne scipovas naĝi.	O yüzemez.
 epo	tur	Li ne sekvis nian konsilon.	O, bizim tavsiyemizi izleyemedi.
 epo	tur	Li ne taŭgas kiel doktoro.	Doktor olarak iyi değil.
+epo	tur	Li ne volas porti ĉapelojn.	O, şapka takmak istemiyor.
 epo	tur	Lin ĝojigis bicikli.	O bisiklet sürmekten hoşlandı.
 epo	tur	Lingvo povas esti uzata diversmaniere.	Dil çeşitli şekillerde kullanılabilir.
 epo	tur	Lin nomis Ted liaj amikinoj.	Ona arkadaşları tarafından Ted denilirdi.
@@ -3281,6 +3333,7 @@ epo	tur	Li venis frue, ĉu ne?	Erken geldi, öyle değil mi?
 epo	tur	Li venis.	Geldi.
 epo	tur	Li venos alian fojon.	Başka zaman gelir.
 epo	tur	Li vere kolerigas min.	O beni gerçekten kızdırır.
+epo	tur	Li verkas novan romanon.	Yeni bir roman yazıyor.
 epo	tur	Li verkis libron pri Ĉinio.	O Çin hakkında bir kitap yazdı.
 epo	tur	Li verkis libron pri Ĉinio.	O Çin üzerine bir kitap yazdı.
 epo	tur	Li verkis tiun libron dudekjaraĝa.	Bu kitabı yirmi yaşında yazdı.
@@ -3342,6 +3395,7 @@ epo	tur	Manjo ĉiam kunhavas sian tekokomputilon.	Mary dizüstü bilgisayarını
 epo	tur	Manjo estas la filino de Tomo.	Mary Tom'un kızıdır.
 epo	tur	Manjo estas mia filino.	Mary benim kızımdır.
 epo	tur	Manjo estas ne tre virineca.	Mary çok kadınsı değil.
+epo	tur	Manjo estas pli bela ol mi.	Maria benden daha güzel.
 epo	tur	Manjo estas riĉa virino.	Mary zengin bir kadın.
 epo	tur	Manjo estis akuzata pri sorĉado.	Mary, büyü uygulama konusunda suçlanıyordu.
 epo	tur	Manjo finfine konvinkis Tomon per tiuj vortoj.	Mary nihayet bu sözlerle Tom'u ikna etti.
@@ -3373,6 +3427,7 @@ epo	tur	Marika estas nenio, kompare kun ŝi.	Mariko onun yanında bir hiç.
 epo	tur	Marika fojfoje pensas, ke ŝi estas la umbiliko de la mondo.	Marika zaman zaman dünyanın merkezi olduğunu düşünür.
 epo	tur	Mario ofte surhavas ŝuojn kun altaj kalkanumoj.	Mary sık sık yüksek topuklu giyer.
 epo	tur	Marko havas pli da mono ol vi.	Mark'ın senden fazla parası var.
+epo	tur	Markso kaj Engelso ne estis profetoj.	Marx ve Engels nebi değildi.
 epo	tur	Marta amas vin.	Marta seni sever.
 epo	tur	Martina devenas el Vroclavo.	Martyna bir Wrocław yerlisidir.
 epo	tur	Mary jam komencis.	Mary zaten başladı.
@@ -3520,6 +3575,7 @@ epo	tur	Mia nomo estas Yatarou.	Benim adım Yatarou.
 epo	tur	Mi anstataŭigis la baterion de mia horloĝo.	Saatimin pilini değiştirdim.
 epo	tur	Mi antaŭe estis riĉa.	Eskiden zengindim.
 epo	tur	Mi antaŭĝojas pro kristnasko.	Noeli dört gözle bekliyorum.
+epo	tur	Mia okulo doloras.	Gözüm acıyor.
 epo	tur	Mia onklo estas el Madagaskaro. Li estas madagaskarano.	Amcam Madagaskar'dan. O, Madagaskarlı.
 epo	tur	Mia onklo havas tri infanojn.	Amcamın üç çocuğu var.
 epo	tur	Mia onklo loĝas apud la lernejo.	Dayım okulun yakınında yaşıyor.
@@ -3589,6 +3645,7 @@ epo	tur	Mi aŭdis, ke vi serĉas min.	Beni aradığını duydum.
 epo	tur	Mi aŭdis ke vi venkis. Gratulon!	Kazandığını duydum. Tebrikler!
 epo	tur	Mi aŭdis la bonan novaĵon.	İyi haberi duydum.
 epo	tur	Mi aŭdis la sonoradon de la telefono.	Telefonun çaldığını duydum.
+epo	tur	Mi aŭdis neniom pri ĝi.	Onun hakkında hiçbir şey duymadım.
 epo	tur	Mi aŭdis ŝian voĉon dum mia dormo.	Uykumda onun sesini duydum.
 epo	tur	Mi aŭdis sonori la telefonon.	Ben telefonun çaldığını duydum.
 epo	tur	Mi aŭdis vin dirantan tion ĉi-matene.	Bu sabah onu söylediğini duydum.
@@ -3649,6 +3706,7 @@ epo	tur	Mi certas, ke li sukcesos.	Ben onun başarısından eminim.
 epo	tur	Mi certas, ke li sukcesos.	Onun başaracağından eminim.
 epo	tur	Mi certas, ke li sukcesos.	Onun başarısından eminim.
 epo	tur	Mi certas, ke tio ne estis parto de lia plano.	Bunun planının bir parçası olmadığından eminim.
+epo	tur	Mi certas ke Tomo povas aŭdi nin.	Tom'un bizi duyabildiğinden eminim.
 epo	tur	Mi certas, ke vi ŝatos ĝin.	Ondan hoşlanacağından eminim.
 epo	tur	Mi certe restos.	Kalmak için buradayım.
 epo	tur	Mi certiĝis, ke neniu sekvis min.	Takip edilmediğimden emin oldum.
@@ -3782,6 +3840,7 @@ epo	tur	Mi esperas, ke vi restos longan tempon kun ni.	Bizimle uzun zaman kalaca
 epo	tur	Mi esperas lin vidi.	Onu göreceğimi umuyorum.
 epo	tur	Mi esperis paroli kun ili.	Onlarla konuşmayı ümit etmiştim.
 epo	tur	Mi estas amiko.	Ben bir dostum.
+epo	tur	Mi estas anarkiisto.	Anarşistim.
 epo	tur	Mi estas ankoraŭ tro malforta.	Ben hala çok zayıfım.
 epo	tur	Mi estas ano de la bazopilka skipo.	Ben beyzbol takımına üyeyim.
 epo	tur	Mi estas ano de la bazopilka skipo.	Beyzbol takımının bir üyesiyim.
@@ -3917,6 +3976,7 @@ epo	tur	Mi faras nenion ajn.	Hiçbir şey yapmam.
 epo	tur	Mi faras nenion ajn.	Hiçbir şey yapmıyorum.
 epo	tur	Mi faras nenion.	Hiçbir şey yapmıyorum.
 epo	tur	Mi faras tion ne pro mono.	Bunu para için yapmıyorum.
+epo	tur	Mi farbis mian domon blanka.	Evimi beyaza boyadım.
 epo	tur	Mi faris eksperimentojn pri bestoj.	Hayvanlar üzerinde deney yaptım.
 epo	tur	Mi faris foton de mia familio.	Ailemin bir fotoğrafını çektim.
 epo	tur	Mi faris grandan eraron elektante la edzinon.	Karımı seçerken büyük bir hata yaptım.
@@ -3940,6 +4000,7 @@ epo	tur	Mi foriros ĉi-vespere.	Bu akşam ayrılıyorum.
 epo	tur	Mi foriros la proksiman semajnon.	Önümüzdeki hafta yola çıkacağım.
 epo	tur	Mi forlasas Tatoeba.	Tatoeba'yı bırakıyorum.
 epo	tur	Mi frenezas pri futbalo.	Futbolu çok fazla seviyorum.
+epo	tur	Mi fumas herbon.	Ot içiyorum.
 epo	tur	Mi gajnis la unuan premion.	Birincilik ödülünü kazandım.
 epo	tur	Mi gladis la poŝtukon.	Ben mendili ütüledim.
 epo	tur	Mi ĝojas helpi vin.	Sana yardım ettiğime memnun oldum.
@@ -4228,6 +4289,7 @@ epo	tur	Mi manĝas sandviĉon.	Bir sandviç yiyorum.
 epo	tur	Mi manĝas sandviĉon.	Sandviç yiyorum.
 epo	tur	Mi manĝas ŝmirpanon.	Sandviç yiyorum.
 epo	tur	Mi manĝas.	Yemek yiyorum.
+epo	tur	Mi manĝis bonan sandviĉon.	İyi bir sandviç yedim.
 epo	tur	Mi manĝis kolbasbulkon kiel tagmanĝon.	Ben öğle yemeği için bir sosisli sandviç yedim.
 epo	tur	Mi manĝis pomon antaŭ ol mi iris promeni.	Yürüyüşe gitmeden önce bir elma yedim.
 epo	tur	Mi manĝis pomon.	Bir elma yedim.
@@ -4420,6 +4482,7 @@ epo	tur	Mi ne pensas, ke Tomo scias, ke mi estas kanadanino.	Tom'un Kanadalı ol
 epo	tur	Mi ne petis de Tomo fari ion ajn.	Tom'un bir şey yapmasını istemedim.
 epo	tur	Mi ne plu estas malgranda knabino.	Ben artık küçük bir kız değilim.
 epo	tur	Mi ne plu kisos Tomon.	Tom'u artık öpmeyeceğim.
+epo	tur	Mi ne plu kredas je Dio.	Artık Tanrı'ya inanmıyorum.
 epo	tur	Mi ne plu maltrankviligos vin.	Artık seni rahatsız etmeyeceğim.
 epo	tur	Mi ne plu ŝatas picon.	Ben artık pizzayı sevmiyorum.
 epo	tur	Mi ne plu ŝatas vin.	Artık seni sevmiyorum.
@@ -4474,6 +4537,7 @@ epo	tur	Mi ne rekonas tiun ĉemizon. Al kiu ĝi apartenas?	Bu gömleği tanımı
 epo	tur	Mi ne revidis lin de tiam.	O zamandan beri onu görmedim.
 epo	tur	Mi nervoziĝis sur la scenejo.	Ben sahnede sinirlendim.
 epo	tur	Mi ne ŝatas esti traktata tiel.	Böyle davranılmak hoşuma gitmiyor.
+epo	tur	Mi ne ŝatas faldi miajn vestaĵojn.	Kıyafetlerimi katlamayı sevmiyorum.
 epo	tur	Mi ne ŝatas fromaĝon.	Peyniri sevmiyorum.
 epo	tur	Mi ne ŝatas ĝin.	Onu sevmiyorum.
 epo	tur	Mi ne ŝatas grandajn urbojn.	Ben büyük şehirleri sevmem.
@@ -4518,6 +4582,7 @@ epo	tur	Mi ne scias, kiu tiu estas.	Onun kim olduğunu bilmiyorum.
 epo	tur	Mi ne scias la finon de la historio.	Hikayenin sonunu bilmiyorum.
 epo	tur	Mi ne scias la veron.	Doğruyu bilmiyorum.
 epo	tur	Mi ne scias, pri kio vi parolas.	Ne hakkınızda konuştuğunu bilmiyorum.
+epo	tur	Mi ne scias, Tomo.	Bilmiyorum, Tom.
 epo	tur	Mi ne sciis, ĉu mi koleru, ĉu ridu.	Kızayım mı yoksa güleyim mi bilmiyordum.
 epo	tur	Mi ne sciis, ke Tomo estas dika.	Tom'un şişman olduğunu bilmiyordum.
 epo	tur	Mi ne scipovas kudri aŭ brodi.	Dikiş veya nakış yapmayı bilmiyorum.
@@ -4561,6 +4626,8 @@ epo	tur	Mi ne volas malfermi la fenestron.	Pencereyi açmak istemiyorum.
 epo	tur	Mi ne volas malsukcesi.	Başarısız olmak istemiyorum.
 epo	tur	Mi ne volas mensogi al ili.	Onlara yalan söylemek istemiyorum.
 epo	tur	Mi ne volas morti.	Ölmek istemiyorum.
+epo	tur	Mi ne volas multe.	Çok istemiyorum.
+epo	tur	Mi ne volas multon.	Çok istemiyorum.
 epo	tur	Mi ne volas paroli pri la vetero.	Hava hakkında konuşmak istemiyorum.
 epo	tur	Mi ne volas paroli pri li.	Onun hakkında konuşmak istemiyorum.
 epo	tur	Mi ne volas paroli pri Tomo.	Tom hakkında konuşmak istemiyorum.
@@ -4698,6 +4765,7 @@ epo	tur	Mi piedbatos vian postaĵon!	Popona tekme atacağım!
 epo	tur	Mi piediris dek kilometrojn hodiaŭ.	Bugün 10 kilometre yürüdüm.
 epo	tur	Mi planas kontakti Toĉjon morgaŭ per telefono kaj peti, ke li helpu nin.	Yarın telefonla Tom'a ulaşmayı ve bize yardım etmesini rica etmeyi planlıyorum.
 epo	tur	Mi planas loĝi en hotelo.	Bir otelde kalmayı planlıyorum.
+epo	tur	Mi planu ĉion.	Her şeyi planlayayım.
 epo	tur	Mi plene konsentas.	Ben tamamen katılıyorum.
 epo	tur	Mi plene konsentas.	Tamamen aynı fikirdeyim.
 epo	tur	Mi plene konsentas.	Tamamen katılıyorum.
@@ -4932,6 +5000,7 @@ epo	tur	Mi solvis la kazon, sed mi ne volas fari ion malĝustan.	Olayı çözdü
 epo	tur	Mi solvis la puzlon.	Bilmeceyi çözdüm.
 epo	tur	Mi sonĝis, ke mi estas en arbaro.	Bir ormanda olduğumu hayal ettim.
 epo	tur	Mi staris tuj post Tomo.	Ben Tom'un hemen arkasındaydım.
+epo	tur	Mi ŝteligis mian tutan monon.	Tüm paramı çaldırdım.
 epo	tur	Mi ŝtelis la monon de Tomo.	Tom'un parasını çaldım.
 epo	tur	Mi strangolos ĝin.	Ben onu boğacağım.
 epo	tur	Mi strangolos ŝin.	Ben onu boğacağım.
@@ -5037,8 +5106,10 @@ epo	tur	Mi vere maltrankvilis koncerne Manjon.	Maria için gerçekten endişelen
 epo	tur	Mi vere ne povas paroli pri tio.	Gerçekten bu konuda konuşamam.
 epo	tur	Mi vere ne volis fari tion.	Gerçekten onu yapmak istemedim.
 epo	tur	Mi vere ŝatas la olivosapojn, kiujn mi aĉetis en Hatay. Ili ne estas malmultekostaj, tamen.	Hatay'da aldığım zeytinyağı sabunlarını gerçekten seviyorum. Halbuki onlar ucuz değil.
+epo	tur	Mi verkis soneton por vi.	Sana bir sone yazdım.
 epo	tur	Mi verŝis por mi glason da viskio.	Kendime bir bardak viski koydum.
 epo	tur	Mi veturos morgaŭ al Turkujo.	Yarın Türkiye'ye gideceğim.
+epo	tur	Mi vidas ion, sed ne scias, kio ĝi estas.	Bir şey görüyorum, ancak ne olduğunu bilmiyorum.
 epo	tur	Mi vidas la kronon.	Taç görüyorum.
 epo	tur	Mi vidas neniun diferencon.	Ben hiçbir farkın farkına varmam.
 epo	tur	Mi vidis araneon marŝi sur la plafono.	Tavanda yürüyen bir örümcek gördüm.
@@ -5269,6 +5340,7 @@ epo	tur	Ne falas frukto malproksime de l' arbo.	Armut dalının dibine düşer.
 epo	tur	Ne faru tion.	Şunu yapma.
 epo	tur	Ne fermu la pordon!	Kapıyı kapatmayın!
 epo	tur	Ne fidu lin.	Ona güvenme.
+epo	tur	Ne fiksrigardu min tiel.	Bana öyle dik dik bakma.
 epo	tur	Ne forgesu estingi la fajron.	Ateşi söndürmeyi unutma.
 epo	tur	Ne forgesu, ke ni havas hejmtaskojn.	Ev ödevimiz olduğunu unutma.
 epo	tur	Ne forgesu, kion vi bezonas.	Neye ihtiyacın olduğunu unutma.
@@ -5382,6 +5454,7 @@ epo	tur	Ne sciante kion diri, mi silentis.	Ne söyleyeceğimi bilmediğim için,
 epo	tur	Ne senesperiĝu.	Ümidini yitirme.
 epo	tur	Ne senigu vin je la ĝojigaĵoj de la vivo!	Hayatın zevklerinden kendinizi mahrum etmeyin.
 epo	tur	Ne serĉu nin!	Bizi arama.
+epo	tur	Ne sidu ĉi tie.	Buraya oturma.
 epo	tur	Ne starigu tiom da demandoj!	Bu kadar çok soru sorma!
 epo	tur	Ne starigu tiom da demandoj!	Bu kadar çok soru sormayın!
 epo	tur	Ne subtaksu min.	Beni hafife almayın.
@@ -5439,6 +5512,7 @@ epo	tur	Ni bezonas solvi tiun problemon nun.	Şimdi bu sorunu düzeltmemiz gerek
 epo	tur	Ni bezonas solvi tiun problemon tuj.	Bu sorunu derhal düzeltmemiz gerekiyor.
 epo	tur	Ni bezonas vin.	Sana ihtiyacımız var.
 epo	tur	Ni bonŝance trovis vojon de eskapo.	Neyse ki, biz bir kaçış yolu bulduk.
+epo	tur	Ni butikumu kune.	Alışverişe beraber gidelim.
 epo	tur	Ni ĉiuj estas mortantaj.	Hepimiz ölüyoruz.
 epo	tur	Ni ĉiuj estis lacaj.	Hepimiz yorgunduk.
 epo	tur	Ni ĉiuj indas je respekto.	Hepimiz saygıyı hak ediyoruz.
@@ -5484,10 +5558,14 @@ epo	tur	Ni esperas, ke vi ĝuos la filmon.	Biz filmi beğeneceğinizi umuyoruz.
 epo	tur	Ni estas ĉampionoj.	Biz şampiyonlarız.
 epo	tur	Ni estas fieraj.	Gururluyuz.
 epo	tur	Ni estas fratoj.	Biz kardeşiz.
+epo	tur	Ni estas hebreoj.	Biz Yahudiyiz.
+epo	tur	Ni estas hebreoj.	Yahudiyiz.
 epo	tur	Ni estas homoj.	Biz insanız.
 epo	tur	Ni estas inoj.	Biz bayanız.
 epo	tur	Ni estas instruistoj.	Biz öğretmeniz.
 epo	tur	Ni estas intrigitaj.	Biz meraklıyız.
+epo	tur	Ni estas judoj.	Biz Yahudiyiz.
+epo	tur	Ni estas judoj.	Yahudiyiz.
 epo	tur	Ni estas la unuaj alvenantoj.	İlk olarak biz geldik.
 epo	tur	Ni estas liaj gefiloj.	Biz, onun çocuklarıyız.
 epo	tur	Ni estas perditaj!	Kaybolduk!
@@ -5515,6 +5593,7 @@ epo	tur	Ni havas surprizon.	Bir sürprizimiz var.
 epo	tur	Ni havas tri infanojn.	Bizim üç çocuğumuz var.
 epo	tur	Ni havas tri infanojn.	Üç çocuğumuz var.
 epo	tur	Ni havas tro da klasoj.	Çok fazla sınıfımız var.
+epo	tur	Ni havis la feliĉon gajni la militon.	Şansımız vardı da savaşı kazandık.
 epo	tur	Ni havu tujmanĝon en la eta trinkejo apud la parko!	Parkın yanındaki küçük kahvehanede hızlı bir öğle yemeğini alalım.
 epo	tur	Ni hisas la flagojn dum naciaj feritagoj.	Ulusal bayramlarda bayrakları havaya kaldırmalıyız.
 epo	tur	Ni interkonatiĝu antaŭ ol unu el ni du mortas.	İkimizden biri ölmeden önce tanışalım.
@@ -5593,6 +5672,7 @@ epo	tur	Ni ne sciis, kion plu fari.	Başka ne yapacağımızı bilmiyorduk.
 epo	tur	Ni ne scios.	Biz bilmeyeceğiz.
 epo	tur	Ni ne spektu televidon.	TV izlemeyelim.
 epo	tur	Ni ne vidis lin.	Onu görmedik.
+epo	tur	Ni ne volas militon.	Savaş istemiyoruz.
 epo	tur	Ni ne volis tion.	Biz bunu istemiyorduk.
 epo	tur	Ni nun ne rezignu.	Şimdi vazgeçemeyiz.
 epo	tur	Ni nur amikas. Vere!	Biz sadece arkadaşız. Ciddi olarak!
@@ -5634,6 +5714,7 @@ epo	tur	Ni reiru.	Geri dönelim.
 epo	tur	Ni reiru kaj prenu iom pli.	Geri dönelim ve biraz daha alalım.
 epo	tur	Ni renkontiĝis antaŭ la lernejo.	Biz okulun önünde buluştuk.
 epo	tur	Ni rigardas.	İzliyoruz.
+epo	tur	Ni rigardas ŝin.	Onu izliyoruz.
 epo	tur	Ni rigardis, sed nenion vidis.	Baktık, ama hiçbir şey görmedik.
 epo	tur	Ni rigardu televidon.	Haydi TV izleyelim.
 epo	tur	Ni riparos tion.	Bunu tamir edeceğiz.
@@ -5797,6 +5878,8 @@ epo	tur	Per kio la difekto montriĝas?	Hata nasıl gözlendi?
 epo	tur	Permesu al li, ke li restu ĉi tie.	Onun burada kalmasına izin ver.
 epo	tur	Permesu al ŝi, ke ŝi restu ĉi tie.	Onun burada kalmasına izin ver.
 epo	tur	Personoj malpli ol dekokjaraj ne estas akceptataj.	18 yaşın altındaki çocuklar içeri alınmazlar.
+epo	tur	Per tondilo ni tondas.	Makasla keseriz.
+epo	tur	Per tondilo ni tondas.	Makasla kesiyoruz.
 epo	tur	Peterhouse estas la plej malnova de la 33 kolegioj de Cambridge.	Peterhouse Cambridge'in 33 kolejinin en eskisidir.
 epo	tur	"Pfirsichbäumchen" signifas "malgranda persikarbo" en la germana.	"Pfirsichbäumchen" Almancada "küçük şeftali ağacı" demektir.
 epo	tur	Plaĉas al mi ekkoni vin.	Seninle tanıştığıma çok memnun oldum.
@@ -5832,6 +5915,7 @@ epo	tur	Post pluvo sekvas sunbrilo. Estu pacienca!	Yağmurdan sonra güzel hava 
 epo	tur	Povas esti, ke la trinkakvo entenas kloron, plumbon aŭ similajn nocajn damaĝilojn.	İçme suyunda klor, kurşun ya da benzer kirletici madde bulunması mümkün.
 epo	tur	Povus esti ambaŭ.	Her ikisi de olabilir.
 epo	tur	Povus esti Tomo kiu sendis al vi ĉi tiujn rozojn.	Sana bu çiçekleri gönderen Tom olabilir.
+epo	tur	Prefere vi ne iru morgaŭ al la lernejo.	İyisi yarın okula gitme.
 epo	tur	Prenu kiun ajn vi volas.	İstediğiniz herhangi birisini alın.
 epo	tur	Prenu tiun, kiun vi preferas.	En çok istediğin birini al.
 epo	tur	Preskaŭ ĉiutage li iras al la rivero kaj fiŝkaptas.	O neredeyse her gün nehire gidip balık avlıyor.
@@ -5865,6 +5949,7 @@ epo	tur	Rapidu, ĉar urĝas.	Acele ediniz, bu acil.
 epo	tur	Rapidu.	Hızlı ol.
 epo	tur	Reagan iĝis prezidento de Usono en 1981.	Reagan 1981 yılında Amerika Birleşik Devletlerinin başkanı oldu.
 epo	tur	Rendevui kun knabinoj estas malfacile.	Kızlarla tanışmak zordur.
+epo	tur	Respektu la bestojn.	Hayvanlara saygı duy.
 epo	tur	Respondu en la angla.	İngilizce cevap ver.
 epo	tur	Respondu la ĉi-subajn demandojn en la angla.	Aşağıdaki soruları İngilizce olarak cevapla.
 epo	tur	Respondu la telefonon.	Telefona cevap ver.
@@ -5880,6 +5965,7 @@ epo	tur	Restu kun ni dum kelkaj tagoj.	Bizimle birkaç gün kalın.
 epo	tur	Ri dormas.	O uyuyor.
 epo	tur	Ri estas mia amiko.	O benim arkadaşım.
 epo	tur	Rigardante ĉirkaŭe, mi vidis nur maizkampojn.	Etrafa baktığımda sadece mısır tarlaları gördüm.
+epo	tur	Rigardante la ĉielon, mi dirus ke baldaŭ pluvos.	Gökyüzüne bakılırsa, yakında yağmur yağacak.
 epo	tur	Rigardu en la spegulon.	Aynaya bak.
 epo	tur	Rigardu la mapon sur paĝo 25.	Sayfa yirmi beşteki haritaya bak.
 epo	tur	Rigardu min, kiam mi parolas al vi!	Ben seninle konuştuğum zaman bana bak.
@@ -5918,6 +6004,7 @@ epo	tur	Sami kuris en la domo.	Sami eve doğru koştu.
 epo	tur	Sami ne vidis multajn filmetojn pri tio.	Sami o konuda pek fazla video izlemedi.
 epo	tur	Samio atendis.	Sami bekledi.
 epo	tur	Samio ekhavis islaman nomon.	Sami Müslüman ismi aldı.
+epo	tur	Samio estas en Egiptio.	Sami Mısır'da.
 epo	tur	Samio estas senhara.	Sami kel.
 epo	tur	Samio estas senhara.	Sami keldir.
 epo	tur	Samio estis anĝelo.	Sami bir melekti.
@@ -5984,6 +6071,7 @@ epo	tur	Se paroli malferme, li estas nefidinda.	Açıkça konuşmak gerekirse, o
 epo	tur	Se pluvas, mi restos.	Eğer yağmur yağarsa kalacağım.
 epo	tur	Sergio Ramos: "Madrido bezonis iun kiel Mou."	Sergio Ramos: "Madrid'in Mou gibi birisine ihtiyâcı vardı".
 epo	tur	Se vi bezonas helpon, petu min.	Yardıma ihtiyacın olursa, benden iste.
+epo	tur	Se vi enuas, mi proponas al vi iri al la kinejo.	Canın sıkılıyorsa sinemaya gitmeni tavsiye ederim.
 epo	tur	Se vi estas okupataj, mi helpos vin.	Meşgulseniz, size yardım edeceğim.
 epo	tur	Se vi feliĉas, mi feliĉas.	Eğer sen mutluysan, ben de mutluyum.
 epo	tur	Se vi havus unu milionon da enoj, kion vi farus per ĝi?	Faraza bir milyon yenin olsa, onunla ne yaparsın?
@@ -6151,6 +6239,7 @@ epo	tur	Ŝi evitis lin, kiam ajn eblis.	Mümkün olduğunca ondan kaçındı.
 epo	tur	Ŝi facile malvarmumiĝis.	O, soğuk algınlığına duyarlıydı.
 epo	tur	Ŝi facile solvis la problemon.	Kolayca sorunu çözdü.
 epo	tur	Ŝi falis de la ŝtupetaro.	O, merdivenden düştü.
+epo	tur	Ŝi faris por li sandviĉon.	Ona bir sandviç yaptı.
 epo	tur	Ŝi ferias.	O tatilde.
 epo	tur	Ŝi fermis ĉiujn fenestrojn de la ĉambro.	Odadaki bütün pencereleri kapattı.
 epo	tur	Ŝi finfine alvenis!	Sonunda geldi!
@@ -6307,6 +6396,7 @@ epo	tur	Ŝi restos 5 tagojn.	O, 5 gün kalacak.
 epo	tur	Ŝi revenis du tagojn poste.	O iki gün sonra geri geldi.
 epo	tur	Ŝi revenis hejmen tri horojn poste.	O, eve üç saat sonra geldi.
 epo	tur	Ŝi revenos el la lernejo ĉirkaŭ la sesa.	Saat altıya kadar okuldan dönecek.
+epo	tur	Ŝi rigardas nin.	O, bizi izliyor.
 epo	tur	Ŝi ŝajne ne rekonis min.	O beni tanımış gibi görünmüyordu.
 epo	tur	Ŝi ŝanĝis la temon.	O konuyu değiştirdi.
 epo	tur	Ŝi ŝatas fiŝi.	O, balık tutmayı seviyor.
@@ -6520,6 +6610,7 @@ epo	tur	Tio neniel utilis.	O bir işe yaramadı.
 epo	tur	Tio ne plu eblas.	Bu artık mümkün değil.
 epo	tur	Tio ne plus estas sekreto.	Bu artık bir sır değil.
 epo	tur	Tio ne povas esti vera.	Bu doğru olamaz.
+epo	tur	Tio ne tiel interesas min.	Bu beni o kadar da ilgilendirmiyor.
 epo	tur	Tio ne tute malĝustas.	O bütünüyle yanlış değil.
 epo	tur	Tio ne vere okazis.	O, gerçekten olmadı.
 epo	tur	Tion faris ne ni.	Onu yapan biz değiliz.
@@ -6585,6 +6676,8 @@ epo	tur	Tiu hamburgero estis aĉa!	O burger korkunçtu!
 epo	tur	Tiu horloĝo estas elektra.	Bu saat elektrikli.
 epo	tur	Tiu horloĝo malfruas tri minutojn en tago.	Bu saat günde üç dakika geri kalır.
 epo	tur	Tiu infano enuis.	O çocuk sıkıldı.
+epo	tur	Tiuj ĉi verkistoj estas famaj.	Bu yazarlar ünlüdürler.
+epo	tur	Tiuj ĉi verkistoj estas famaj.	Bu yazarlar ünlüler.
 epo	tur	Tiuj estas miaj libroj.	Bunlar benim kitaplarım.
 epo	tur	Tiuj estas tre malnovaj libroj.	Bunlar çok eski kitaplar.
 epo	tur	Tiuj estis la plej sekaj ses monatoj dum tridek jaroj.	Bu, otuz yıl içinde en kuru altı ay oldu.
@@ -6828,11 +6921,13 @@ epo	tur	Tomo aspektas senpacienca.	Tom sabırsız görünüyor.
 epo	tur	Tomo atendas sian amikon.	Tom arkadaşını bekliyor.
 epo	tur	Tomo atendis min.	Tom beni bekliyordu.
 epo	tur	Tomo atingis novan mondrekordon.	Tom yeni bir dünya rekoru kırdı.
+epo	tur	Tomo bahaaniĝis.	Tom Bahai oldu.
 epo	tur	Tomo baldaŭ mortos.	Tom yakında ölecek.
 epo	tur	Tomo bezonas iom da gvidado.	Tom'un biraz rehberliğe ihtiyacı var.
 epo	tur	Tomo bezonas kaskon.	Tom'un kaska ihtiyacı var.
 epo	tur	Tomo bezonas vian helpon.	Tom'un, yardımına ihtiyacı var.
 epo	tur	Tomo bone konas nin.	Tom bizi iyi tanır.
+epo	tur	Tomo budhistiĝis.	Tom Budist oldu.
 epo	tur	Tomo bukis sian sekurzonon.	Tom emniyet kemerini taktı.
 epo	tur	Tomo certe ne faris ion indan je tiaj punoj.	Tom kesinlikle o tür cezayı hak edecek bir şey yapmadı.
 epo	tur	Tomo ĉesis provi maldikiĝi.	Tom kilo vermeye çalışmaktan vazgeçti.
@@ -6891,6 +6986,7 @@ epo	tur	Tomo estas alta viro.	Tom uzun bir adamdır.
 epo	tur	Tomo estas ankoraŭ kun mi.	Tom hâlâ benimle.
 epo	tur	Tomo estas ankoraŭ la sama persono.	Tom hâlâ aynı adam.
 epo	tur	Tomo estas ankoraŭ unu el ni.	Tom hâlâ bizden biri.
+epo	tur	Tomo estas aŭtoritatisto.	Tom bir otoriter.
 epo	tur	Tomo estas bona estro.	Tom iyi bir patron.
 epo	tur	Tomo estas bona gitaristo.	Tom iyi bir gitaristtir.
 epo	tur	Tomo estas bone ripozinta.	Tom iyi dinlenmiş.
@@ -6909,6 +7005,7 @@ epo	tur	Tomo estas filozofo.	Tom bir felsefeci.
 epo	tur	Tomo estas filozofo.	Tom bir filozof.
 epo	tur	Tomo estas ĝardenisto.	Tom bir bahçıvan.
 epo	tur	Tomo estas iomete timema.	Tom biraz utangaç.
+epo	tur	Tomo estas kiel granda pluŝurso.	Tom, büyük bir oyuncak ayı gibi.
 epo	tur	Tomo estas kolorblinda, ĉu ne?	Tom renk körüdür, değil mi?
 epo	tur	Tomo estas konformisto.	Tom bir konformist.
 epo	tur	Tomo estas kontraŭ samseksaj edziĝoj.	Tom eşcinsel evliliklere karşıdır.
@@ -6953,6 +7050,7 @@ epo	tur	Tomo faris pupeton por Maria.	Tom Mary'ye bir bebek yaptı.
 epo	tur	Tomo faris tri erarojn.	Tom üç hata yaptı.
 epo	tur	Tomo fieras pri sia filino.	Tom kızıyla gurur duyuyor.
 epo	tur	Tomo finfine estas ĉi tie.	Tom sonunda burada.
+epo	tur	Tomo forlasis la ĉambron de Manjo.	Tom Mary'nin odasından ayrıldı.
 epo	tur	Tomo fotis la florojn.	Tom çiçeklerin bir resmini çekti.
 epo	tur	Tomo frue ellitiĝis.	Tom erkenden kalkmıştı.
 epo	tur	Tom ofte ne plenumas sian promeson.	Tom sık sık sözünü tutmaz.
@@ -6962,6 +7060,7 @@ epo	tur	Tomo havas dek tri jarojn.	Tom 13 yaşında.
 epo	tur	Tomo havas foton de flughaveno.	Bir havaalanının Tom'da bir fotoğrafı var.
 epo	tur	Tomo havas geamikojn en Germanio.	Tom'un Almanya'da arkadaşları var.
 epo	tur	Tomo havas grandajn orelojn.	Tom'un büyük kulakları var.
+epo	tur	Tomo havas hamstron.	Tom'un bir hamsterı var.
 epo	tur	Tomo havas malpli da amikoj ol mi.	Tom'un benden daha az arkadaşı var.
 epo	tur	Tomo havas neniun, kiu helpas lin.	Tom'un yardım edecek kimsesi yok.
 epo	tur	Tomo havas nerealajn antaŭvidojn.	Tom'un gerçekçi olmayan beklentileri var.
@@ -7313,6 +7412,7 @@ epo	tur	Unu minuto havas sesdek sekundojn.	Bir dakikada altmış saniye vardır.
 epo	tur	Unu pomo en tago tenas la kuraciston fore.	Her gün bir elma, doktoru uzak tutar.
 epo	tur	Urano kaj Neptuno estas tre similaj laŭ konsisto.	Uranüs ve Neptün oluşumları bakımından çok benzerdir.
 epo	tur	Urĝe bezonatas mono.	Paraya acil ihtiyaç vardır.
+epo	tur	Usonanoj estas obezaj.	Amerikalılar obezdir.
 epo	tur	Uzu la ŝtuparon.	Merdivenleri kullan.
 epo	tur	Vagonaro baldaŭ foriros.	Bir tren yakında gidecek.
 epo	tur	Venas la vico de Tomo.	Sonra sıra Tom'da.
@@ -7446,6 +7546,7 @@ epo	tur	Vi estas knabo.	Sen bir oğlansın.
 epo	tur	Vi estas kompleta fiporko!	Böyle bir domuzsun.
 epo	tur	Vi estas la filino de Tomo, ĉu ne?	Sen Tom'un kızısın, değil mi?
 epo	tur	Vi estas la plej aĝa.	Sen en yaşlısın.
+epo	tur	Vi estas la plej avara homo kiun mi konas.	Sen tanıdığım en cimri insansın.
 epo	tur	Vi estas malfeliĉa.	Sen üzgünsün.
 epo	tur	Vi estas malkuraĝa.	Korkaksınız.
 epo	tur	Vi estas malkuraĝulo.	Korkaksınız.
@@ -7466,6 +7567,7 @@ epo	tur	Vi estas prava.	Doğru söylüyorsun.
 epo	tur	Vi estas prava.	Haklısın.
 epo	tur	Vi estas riĉa.	Sen zenginsin.
 epo	tur	Vi estas riĉa.	Siz zenginsiniz.
+epo	tur	Vi estas scivolema, ĉu ne?	Meraklısın, değil mi?
 epo	tur	Vi estas sorĉisto, Tomo.	Sen bir büyücüsün, Tom.
 epo	tur	Vi estas strangaj.	Siz garipsiniz.
 epo	tur	Vi estas studento.	Bir öğrencisin.
@@ -7539,6 +7641,7 @@ epo	tur	Vi ne estas devigata peti pardonon.	Özür dilemek zorunda değilsin.
 epo	tur	Vi ne estas japano.	Sen Japon değilsin.
 epo	tur	Vi ne estas juna.	Genç değilsin.
 epo	tur	Vi ne estas juna.	Genç değilsiniz.
+epo	tur	Vi ne estas la unuaj, kiujn mi vidas hodiaŭ matene.	Bu sabah gördüğüm ilk kişi sen değilsin.
 epo	tur	Vi ne estas la unua, kiu proponas tion.	Bunu öneren ilk sen değilsin.
 epo	tur	Vi ne estas mortinta.	Sen ölmüş değilsin.
 epo	tur	Vi ne fermis la fridujon.	Buzdolabını kapatmadın.
@@ -7547,6 +7650,7 @@ epo	tur	Vi ne fumas, ĉu?	Sigara içmiyorsun, değil mi?
 epo	tur	Vi ne havas febron.	Ateşin yok.
 epo	tur	Vi ne havas koron.	Senin bir kalbin yok.
 epo	tur	Vi ne havas koron.	Sen kalpsizsin.
+epo	tur	Vi ne havas multan monon.	Çok paran yok.
 epo	tur	Vi ne helpis al mi.	Sen bana yardım etmedin.
 epo	tur	Vi ne impresas min.	Beni etkilemiyorsun.
 epo	tur	Vi ne komprenis.	Anlamadın.
@@ -7574,6 +7678,8 @@ epo	tur	Vi ne rajtas paroli tiel laŭte ĉi tie.	Burada öyle yüksek sesle konu
 epo	tur	Vi ne rajtas perfidi min.	Bana ihanet etmemelisiniz.
 epo	tur	Vi ne ŝatas min.	Beni beğenmiyorsun.
 epo	tur	Vi ne scias, kion vi faras.	Ne yaptığını bilmiyorsun.
+epo	tur	Vi ne scios, kion fari.	Ne yapacağını bilmeyeceksin.
+epo	tur	Vi ne scios, kion fari.	Ne yapacağınızı bilmeyeceksiniz.
 epo	tur	Vi ne sukcesos en la ekzameno sen prepariĝi por ĝi.	Çalışmazsan sınavı geçemezsin.
 epo	tur	Vi ne surgrimpu la monton en tiel malbona vetero.	Böylesine kötü bir havada dağa tırmanmamalısın.
 epo	tur	Vi ne volas tion, ĉu?	Onu istemiyorsun, değil mi?
@@ -7610,6 +7716,7 @@ epo	tur	Vi ŝajnas ĝoja hodiaŭ.	Bugün mutlu görünüyorsun.
 epo	tur	Vi ŝajnas lacega.	Çok yorgun görünüyorsunuz.
 epo	tur	Vi ŝajnas lacega.	Çok yorugun görünüyorsun.
 epo	tur	Vi ŝajnas streĉata.	Gergin görünüyorsun.
+epo	tur	Vi ŝajnis malfeliĉa.	Sen mutsuz görünüyordun.
 epo	tur	Vi scias ĉion pri mi.	Benim hakkımda her şeyi biliyorsunuz.
 epo	tur	Vi scias ĝin, ĉu ne?	Onu biliyorsun, değil mi?
 epo	tur	Vi scias ke mi malamas spinacon.	Ispanaktan nefret ettiğimi biliyorsun.

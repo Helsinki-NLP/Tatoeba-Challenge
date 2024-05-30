@@ -2,8 +2,8 @@ kab	kab	Abbu akked duxxan teffɣen seg usenfu.	Abbu akked duxxan teffɣen seg us
 kab	kab	Acḥal diri tizzelgi!	Acḥal diri tiɛɛewji!
 kab	kab	Acḥal-it?	Acḥal yeswa?
 kab	kab	Acuɣer i yi-d-tɛerḍemt?	Acuɣef i yi-d-tɛerḍem?
-kab	kab	Ad ak-d-awiɣ ayekfi.	Ad ak-d-aɣeɣ ayekfi.
 kab	kab	Ad ak-d-awiɣ ayekfi.	Ad ak-d-aǧweɣ ayekfi.
+kab	kab	Ad ak-d-awiɣ ayekfi.	Ad ak-d-aɣeɣ ayekfi.
 kab	kab	Ad ak-d-awiɣ ayekfi.	Ad ak-d-ḍebbṛeɣ ayekfi.
 kab	kab	Ad ak-d-awiɣ ayekfi.	Ad ak-d-ḥebbreɣ ayefki.
 kab	kab	Ad ak-d-awiɣ ayekfi.	Ad ak-d-heggiɣ ayekfi.
@@ -11,11 +11,11 @@ kab	kab	Ad ak-d-awiɣ ayekfi.	Ad ak-d-jabeɣ ayefki.
 kab	kab	Ad ak-d-awiɣ ayekfi.	Ad ak-d-nadiɣ ayefki.
 kab	kab	Ad ak-d-awiɣ ayekfi.	Ad ak-d-qewwreɣ ayefki.
 kab	kab	Ad ak-d-awiɣ ayekfi.	Ad ak-d-ssiwḍeɣ ayekfi.
-kab	kab	Ad ak-d-awiɣ ayekfi.	Ad am-d-aɣeɣ ayekfi.
 kab	kab	Ad ak-d-awiɣ ayekfi.	Ad am-d-aǧweɣ ayekfi.
+kab	kab	Ad ak-d-awiɣ ayekfi.	Ad am-d-aɣeɣ ayekfi.
 kab	kab	Ad ak-d-awiɣ ayekfi.	Ad am-d-ssiwḍeɣ ayekfi.
-kab	kab	Ad asent-id-awiɣ ayekfi.	Ad asent-id-aɣeɣ ayekfi.
 kab	kab	Ad asent-id-awiɣ ayekfi.	Ad asent-id-aǧweɣ ayekfi.
+kab	kab	Ad asent-id-awiɣ ayekfi.	Ad asent-id-aɣeɣ ayekfi.
 kab	kab	Ad asent-id-awiɣ ayekfi.	Ad asent-id-ḍebbṛeɣ ayekfi.
 kab	kab	Ad asent-id-awiɣ ayekfi.	Ad asent-id-ḥebbreɣ ayefki.
 kab	kab	Ad asent-id-awiɣ ayekfi.	Ad asent-id-heggiɣ ayekfi.
@@ -37,6 +37,9 @@ kab	kab	Ad tekkseḍ afus i tsebbalt!	Ad tekkseḍ abuḍ i uḥellab!
 kab	kab	Ad tekkseḍ afus i tsebbalt!	Ad tekkseḍ afus i ṭṭas!
 kab	kab	Aɛebbuḍ d aseqqaḍ. Ma teǧǧiḍ-t i yiman-is, ad ak-yekkes imeddukal.	Aɛebbuḍ d aseqqaḍ. Ma teǧǧiḍ-t i yiman-is, ad am-yekkes timeddukal.
 kab	kab	Aɣelɣal wezzil usallaf-is.	Ursu ila adfar wezzilen.
+kab	kab	Aɣ-rren ɣur deffir.	Am win i k-innan, aɣ-rren ɣur deffir.
+kab	kab	Aɣ-rren ɣur deffir.	Iban ubrid, aɣ-rren ɣur deffir.
+kab	kab	Aɣyul ur neffud, ulayɣer ad t-tḥettmeḍ.	Mačči s tyitwin ara nesselḥuy allaɣ.
 kab	kab	Ahat yenɣa-k usemmiḍ, mi teccaṛṛweḍ?	Ahat yenɣa-k usemmiḍ, imi teccaṛṛweḍ?
 kab	kab	Ahat yenɣa-k usemmiḍ, mi teccaṛṛweḍ?	Ahat yenɣa-k usemmiḍ, imi teccuεbneḍ?
 kab	kab	Ahat yenɣa-k usemmiḍ, mi teccaṛṛweḍ?	Ahat yenɣa-k usemmiḍ, imi teflawseḍ?
@@ -107,8 +110,6 @@ kab	kab	Aql-i kkuniktiɣ ar Marikan, s yiwen uẓeṭṭa vpn. Ihi tura, iRusiye
 kab	kab	Ar da d-ilhu, imiren ad iḥlu.	Ar d ilhu, imiren ad iḥlu.
 kab	kab	Ar d ad tgeḍ acu d-nniɣ, ad tegziḍ mliḥ.	Ar d ad tgeḍ acu d-nniɣ, ad tegziḍ akken iwata.
 kab	kab	Ar d ad tgeḍ acu d-nniɣ, ad tegziḍ mliḥ.	Ar d ad tgeḍ acu d-nniɣ, ad tegziḍ swaswa.
-kab	kab	Aɣ-rren ɣur deffir.	Am win i k-innan, aɣ-rren ɣur deffir.
-kab	kab	Aɣ-rren ɣur deffir.	Iban ubrid, aɣ-rren ɣur deffir.
 kab	kab	Ar tezṛuţ i gguniɣ.	Ay gguniɣ d tazṛuţ.
 kab	kab	Ar tezṛuţ i gguniɣ.	D tazṛuţ i gguniɣ.
 kab	kab	Ar tura, ula yiwen ma yemmut.	Ar tura, ula d yiwen ur yemmut.
@@ -173,7 +174,6 @@ kab	kab	Ayhuh! Uma d ibureɣsen ttwaggzen s wengar.	Ayhuh! Ula d ibureɣsen ttwa
 kab	kab	Ay iles yellan d aksum, dacu k-yerran d asennan?	Ay iles yellan d aksum, ayɣeṛ tesmiriyeḍ ala ssem?
 kab	kab	Ay iles yellan d aksum, dacu k-yerran d asennan?	Ay iles yellan d aksum, ayɣeṛ tgežžmeḍ am lmus?
 kab	kab	Ay iles yellan d aksum, dacu k-yerran d asennan?	Iles yellan d aksum, yuɣal igežžem am lmus.
-kab	kab	Aɣyul ur neffud, ulayɣer ad t-tḥettmeḍ.	Mačči s tyitwin ara nesselḥuy allaɣ.
 kab	kab	Azduz d umehraz, akken i ddukulen.	Azduz d umehraz, ddukulen akken.
 kab	kab	Azerwal azulay, azegzaw, awraɣ, rnu-yas aẓa azeggaɣ, ha-t-an wennay amaziɣ!	Azenǧar azulay, azegzaw, awraɣ, rnu aẓa azeggaɣ, ha-t wennay amaziɣ!
 kab	kab	Azerwal azulay, azegzaw, awraɣ, rnu-yas aẓa azeggaɣ, ha-t-an wennay amaziɣ!	Azerwal azulay, azegzaw, awraɣ, rnu aẓa azeggaɣ, ha-t wennay amaziɣ!
@@ -248,11 +248,11 @@ kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad tec�
 kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad tecḍeḥ tewwurt, ma tezga tebṛaṛaḥ.
 kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad teclex teggurt, ma tezga tebṛaṛaḥ.
 kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad teclex tewwurt, ma tezga tebṛaṛaḥ.
-kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad tehtuti teggurt, ma tezga tebṛaṛeḥ.
-kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad tehtuti tewwurt, ma tezga tebṛaṛeḥ.
 kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad teɣli tebburt, ma tezga tebṛaṛaḥ.
 kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad teɣli teggurt, ma tezga tebṛaṛaḥ.
 kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad teɣli tewwurt, ma tezga tebṛaṛaḥ.
+kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad tehtuti teggurt, ma tezga tebṛaṛeḥ.
+kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad tehtuti tewwurt, ma tezga tebṛaṛeḥ.
 kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad teqleε tebburt, ma tezga tebṛaṛaḥ.
 kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad teqleε teggurt, ma tezga tebṛaṛaḥ.
 kab	kab	Du laqrar ad teclex tebburt, ma tezga tebṛaṛaḥ.	Du laqrar ad teqleε tewwurt, ma tezga tebṛaṛaḥ.
@@ -288,6 +288,9 @@ kab	kab	FST: Fecleɣ si teḍṣa!	MST: Mmuteɣ si teḍṣa!
 kab	kab	FST: Fecleɣ si teḍṣa!	QST: Qerṣeɣ si teḍṣa!
 kab	kab	FST: Fecleɣ si teḍṣa!	TST: Ṭerḍqeɣ si teḍṣa!
 kab	kab	Gziɣ-k akken iwata.	Gziɣ-kem akken iwata.
+kab	kab	Ɣileɣ yukkes yilef-nni, ziɣ mazal-it d amiddur.	Ɣileɣ yemmut yilef-nni, ziɣ mazal-it d amiddur.
+kab	kab	Ɣiwlet, smechet-as zzit i wemcic-a yeččan ḥellejɣaṛ!	Smechet-as zzit i wemcic-a yeččan ḥellejɣaṛ, ɣiwlet!
+kab	kab	Ɣur-k ittecceg!	Ɣur-m ittecceg!
 kab	kab	Ha-t-an, diɣ iṛuḥ ad yesniger ar tiremt-is!	Ha-t-an, diɣ iṛuḥ ad yesniger!
 kab	kab	Hatan iḍall-d!	Hatan yeznuker-d!
 kab	kab	Ha-t-an, iṛuḥ diɣ ad yesniger ar tiremt-nni!	Ha-t-an, diɣ iṛuḥ ad yesniger ar tiremt-is!
@@ -329,6 +332,14 @@ kab	kab	Igenni d aɣembanbu, ɣas ur d yegli s waman.	Igenni d aɣembanbu, tiqit
 kab	kab	Igenni d aɣembanbu, ɣas ur d yegli s waman.	Igenni terkeb-it tawla, iqiḥ ur d-yeɣli.
 kab	kab	Igenni d aɣembanbu, ɣas ur d yegli s waman.	Igenni terkeb-it tawla, tiqit ur d-teɣli.
 kab	kab	Igwanciyen d aɣref amaziɣ werǧin teɛdda fell-asen tineslemt. Twalam dɣa, amek...	Twalam dɣa, amek? Igwanciyen d aɣref amaziɣ werǧin teɛdda fell-asen tineslemt.
+kab	kab	Iɣsan-is di talwit.	Ad fell-as yeɛfu wuzmir.
+kab	kab	Iɣsan-is di talwit.	Ad t-irḥem Ṛebbi.
+kab	kab	Iɣsan-is di talwit.	Ad yesgunfu di talwit!
+kab	kab	Iɣsan-is di talwit.	Ad yifsus fell-as wakal.
+kab	kab	Iɣsan-is di talwit.	Amḍiq-ines di talwit.
+kab	kab	Iɣsan-is di talwit.	Aseqamu-s di ṛraḥma n Ṛebbi.
+kab	kab	Iɣsan-is di talwit.	A t-yeg wuzmir di ṛṛeḥba n wayetma-s.
+kab	kab	Iɣsan-is di talwit.	Iɣsan-is di talwit!
 kab	kab	Ih, aql-i ṭṭenṭuneɣ!	Ih, aql-i ččenčuneɣ!
 kab	kab	Ihi, ziɣ d wa iyi-kksen kan akka seg umuɣ-is, yibbwas deg ussan, ur iyi-d-inni ɣef wacu. Nniqal, ţuɣ-t akk, tura diɣ tesmektim-aɣ-t-id!	Yah, ihi d wa iyi-kksen kan akka seg umuɣ-is, yibbwas deg ussan, ur iyi-d-inni ɣef wacu. Nniqal, ţuɣ-t akk, tura diɣ tesmektim-aɣ-t-id!
 kab	kab	Ihi, ziɣ d wa iyi-kksen kan akka seg umuɣ-is, yibbwas deg ussan, ur iyi-d-inni ɣef wacu. Nniqal, ţuɣ-t akk, tura diɣ tesmektim-aɣ-t-id!	Yah, ihi d wa iyi-kksen kan akka seg umuɣ-is, yibbwas deg ussan, ur iyi-d-inni ɣef wacu. Ţuɣ-t acḥal-aya, tura diɣ tesmektim-aɣ-t-id!
@@ -340,21 +351,12 @@ kab	kab	Ih, ṛuḥ ar Tatoeba, taruḍ-t-id din!	Ih, ṛuḥ ar Tatoeba, din ta
 kab	kab	Ilaq ad ternumt tifyar-a ɣer Tatoeba.	Ilaq ad ternum tifyar-a ɣer Tatoeba.
 kab	kab	Ilaq-iyi usteɛfu.	Yessefk-iyi usgunfu.
 kab	kab	Ilaq, wa ad yesfaḍ i wa, mačči wa ad yesfaḍ ɣef wa.	Wa ad yesfaḍ i wa, yif wa ad yesfaḍ ɣef wa.
-kab	kab	Ɣileɣ yukkes yilef-nni, ziɣ mazal-it d amiddur.	Ɣileɣ yemmut yilef-nni, ziɣ mazal-it d amiddur.
 kab	kab	Ili-k tukiḍ!	Ddu d yiman-yik!
 kab	kab	“Imi k-tewwet tawla, ḥṣu-k-id temmugreḍ-t-id” i s-yenna yiwen i wayeḍ, mi t-iwala yezzuɣur iṣebbaḍen-is.	“Imi k-tewwet tawla, ḥṣu-k-id temmugreḍ-t-id” i s-yenna yiwen i wayeḍ, mi t-iwala yeţḥuffu icifaḍ-is.
 kab	kab	“Imi k-tewwet tawla, ḥṣu-k-id temmugreḍ-t-id” i s-yenna yiwen i wayeḍ, mi t-iwala yezzuɣur iṣebbaḍen-is.	“Imi k-tewwet tawla, ḥṣu-k-id temmugreḍ-t-id” i s-yenna yiwen i wayeḍ, mi t-iwala ẓẓayit fell-as iṣebbaḍen-is.
 kab	kab	“Imi k-tewwet tawla, ḥṣu-k-id temmugreḍ-t-id” i s-yenna yiwen i wayeḍ, mi t-iwala yezzuɣur iṣebbaḍen-is.	“Imi k-tuɣ tawla, ḥṣu-k-id temmugreḍ-t-id", i s-yenna yiwen i wayeḍ, mi t-iwala yesderdif kan s iqebqaben-is.
 kab	kab	Imir, yiwen ur d-yusi!	Dɣa, yiwen ur d-yusi!
 kab	kab	Irden i yir tuɣmas.	Ɛelqen-as leḥbeq i weɣyul, ikker iɣeẓẓa-t.
-kab	kab	Iɣsan-is di talwit.	Ad fell-as yeɛfu wuzmir.
-kab	kab	Iɣsan-is di talwit.	Ad t-irḥem Ṛebbi.
-kab	kab	Iɣsan-is di talwit.	Ad yesgunfu di talwit!
-kab	kab	Iɣsan-is di talwit.	Ad yifsus fell-as wakal.
-kab	kab	Iɣsan-is di talwit.	Amḍiq-ines di talwit.
-kab	kab	Iɣsan-is di talwit.	Aseqamu-s di ṛraḥma n Ṛebbi.
-kab	kab	Iɣsan-is di talwit.	A t-yeg wuzmir di ṛṛeḥba n wayetma-s.
-kab	kab	Iɣsan-is di talwit.	Iɣsan-is di talwit!
 kab	kab	I talwit d umtawa ara yilin d azday i tudert-nneɣ.	Nessaram talwit d umserḍu ara yilin d tadukkli i tudert-nneɣ.
 kab	kab	Iteţ ibeqqis, tama n yilmes ideg teddegdig tmes.	Iseţ ibeqqis, tama n yilmes ideg teddegdig tmes.
 kab	kab	Iteţ ibeqqis, tama n yilmes ideg teddegdig tmes.	Isgermic ibeqqis, tama n yilmes ideg teddegdig tmes.
@@ -363,7 +365,6 @@ kab	kab	Iteţ ibeqqis, tama n yilmes ideg teddegdig tmes.	Iteţ ibeqqis, tama n 
 kab	kab	Iṭṭekṭek yakk.	Yeṭṭekṭek maḍi.
 kab	kab	Iwexxed-iyi waḍu.	Ţwaxxdeɣ seg waḍu.
 kab	kab	Iwexxed-iyi waḍu.	Yezwi-yi waḍu.
-kab	kab	Ɣiwlet, smechet-as zzit i wemcic-a yeččan ḥellejɣaṛ!	Smechet-as zzit i wemcic-a yeččan ḥellejɣaṛ, ɣiwlet!
 kab	kab	Iwqeɛ-iţ dderdiḥ!	Iwqeɛ-iţ ddriz!
 kab	kab	Iwqeɛ-iţ dderdiḥ!	Iwqeɛ-iţ waẓakkin!
 kab	kab	Iwqeɛ-iţ dderdiḥ!	Yekker hendiwal!
@@ -543,6 +544,7 @@ kab	kab	Neţmagar-d tikwal izirdi mara yezger abrid. Tajeḥniṭ-is d tacattawt
 kab	kab	Neţmagar-d tikwal izirdi mara yezger abrid. Tajeḥniṭ-is d tacattawt, neţţa iṛuḥ d iɣiɣed.	Tikwal, neţmagar-d izerdi mara yezger abrid. Tajeḥniṭ-is d tacattawt, neţţa iṛuḥ d iɣiɣed.
 kab	kab	Neţnig ur nufi, neqqel-d s irden n ukufi.	Neţnadi ur nufi, neqqel-d s irden n ukufi.
 kab	kab	Neţnig ur nufi, neqqel-d s irden n ukufi.	Nnuda ur nufi, neqqel-d s irden n ukufi.
+kab	kab	Nnig wakka d nnger!	A bu-snat, bru i yiwet!
 kab	kab	Nniɣ-d akka, ur d-nniɣ acemma.	Nniɣ-d akka, acemma ur d-nniɣ.
 kab	kab	Nniɣ-d akka, ur d-nniɣ acemma.	Nniɣ-d akka, amzun ur d-nniɣ.
 kab	kab	Nniɣ-d akka, ur d-nniɣ acemma.	Nniɣ-d akka, ur d-nniɣ.
@@ -551,7 +553,6 @@ kab	kab	Nniɣ-d akka, ur d-nniɣ.	Nekk nniɣ-ak-d, daya.
 kab	kab	Nniɣ-d akka, ur d-nniɣ.	Nniɣ-ak...
 kab	kab	Nniɣ-d akka, ur d-nniɣ.	Nniɣ-ak-d, daya.
 kab	kab	Nniɣ-d akka, ur d-nniɣ.	Nniɣ-d akka, daya.
-kab	kab	Nnig wakka d nnger!	A bu-snat, bru i yiwet!
 kab	kab	Nwan sɛan lḥeqq.	Ils croient avoir raison.
 kab	kab	Qaṛeɛ kan ad as-d-mlen abrid imi tezga d aɛeṭṭel ar uxeddim.	Qaṛeɛ kan ad ţ-id-awin baṛṛa imi tezga d aɛeṭṭel ar uxeddim.
 kab	kab	Qaṛeɛ kan ad as-d-mlen abrid imi tezga d aɛeṭṭel ar uxeddim.	Qaṛeɛ kan ad ţ-id-qeccɛen imi tezga d aɛeṭṭel ar uxeddim.
@@ -566,8 +567,6 @@ kab	kab	Qwejj, tenniḍ-t. Lɛeṛ tebbwiḍ-t. Tiddin ur teddiḍ ara.	Beṛṛ
 kab	kab	Ṛuḥ kečč tura, werɛad d-ibbwiḍ lawan n yibawen: tili meqqaṛ ad n-izmir ad nẓer anwi deg-sen i g ţebbwayen! Ihi, ṛuḥ a "zzmeṛ", ar tafsut, ad nečč sin imensawen sɣuṛ yir imeksawen.	Ṛuḥ tura keččini, werɛad d-ibbwiḍ lawan n yibawen: tili meqqaṛ ad n-izmir ad nẓer anwi deg-sen i g ţebbwayen! Ihi, ṛuḥ a "zzmeṛ", ar tafsut, ad nečč sin imensawen sɣuṛ yir imeksawen.
 kab	kab	Ṛuḥ wali qbel acu xeddmeɣ, talseḍ-as mliḥ, a wagi i ţ-yeddan fell-i!	Ṛuḥ qbel ad twaliḍ acu xeddmeɣ, talseḍ-as mliḥ, a wagi i ţ-yeddan fell-i!
 kab	kab	Ṛuḥ wali qbel acu xeddmeɣ, talseḍ-as mliḥ, a wagi i ţ-yeddan fell-i!	Ṛuḥ qbel wali acu xeddmeɣ, talseḍ-as mliḥ, a wagi i ţ-yeddan fell-i!
-kab	kab	Sɛan kifkif deg ususru d illɣayen ufayen akked itergiyen. Igwanciyen d aɣref amaziɣ werǧin teɛdda fell-asen tineslemt. Twalam dɣa, amek...	Sɛan kifkif am itergiyen, deg ususru d illɣayen ufayen. Igwanciyen d aɣref amaziɣ werǧin teɛdda fell-asen tineslemt. Twalam dɣa, amek...
-kab	kab	Sɛan kifkif deg ususru d illɣayen ufayen akked itergiyen. Igwanciyen d aɣref amaziɣ werǧin teɛdda fell-asen tineslemt. Twalam dɣa, amek...	Sɛan yiwen ususru d illɣayen ufayen, am itergiyen. Igwanciyen d aɣref amaziɣ werǧin teɛdda fell-asen tineslemt. Twalam dɣa, amek...
 kab	kab	Segger iman-ik!	Ddu ṭran d uḍaṛ-ik!
 kab	kab	Segmi d aserba, nniqal yekɛer; yuɣal yekker.	Segmi d aserba, nniqal yekɛec; yeqqel yeḥrec.
 kab	kab	Segmi d aserba, nniqal yekɛer; yuɣal yekker.	Segmi d aserba, nniqal yekɛer; tura yekker.
@@ -578,6 +577,8 @@ kab	kab	Segmi d-yenqeṛ yiṭij, ur yerri iles-is gar tuɣmas-is.	Segmi d-yenqe
 kab	kab	Segmi d-yenqeṛ yiṭij, ur yerri iles-is gar tuɣmas-is.	Segmi d-yenqeṛ yiṭij, ur yejmiɛ iles-is.
 kab	kab	Segmi d-yenqeṛ yiṭij, ur yerri iles-is gar tuɣmas-is.	Segmi d-yenqeṛ yiṭij, ur yekfi lehduṛ.
 kab	kab	Segmi d-yenqeṛ yiṭij, ur yerri iles-is gar tuɣmas-is.	Segmi d-yenqeṛ yiṭij, ur yessusem.
+kab	kab	Sɛan kifkif deg ususru d illɣayen ufayen akked itergiyen. Igwanciyen d aɣref amaziɣ werǧin teɛdda fell-asen tineslemt. Twalam dɣa, amek...	Sɛan kifkif am itergiyen, deg ususru d illɣayen ufayen. Igwanciyen d aɣref amaziɣ werǧin teɛdda fell-asen tineslemt. Twalam dɣa, amek...
+kab	kab	Sɛan kifkif deg ususru d illɣayen ufayen akked itergiyen. Igwanciyen d aɣref amaziɣ werǧin teɛdda fell-asen tineslemt. Twalam dɣa, amek...	Sɛan yiwen ususru d illɣayen ufayen, am itergiyen. Igwanciyen d aɣref amaziɣ werǧin teɛdda fell-asen tineslemt. Twalam dɣa, amek...
 kab	kab	Sfeḍ-it s ucwaw-agi.	Sfeḍ-it s ucelliq-agi.
 kab	kab	Snat n leqhawi ttxil-m.	Snat n leqhawi ttxil-k.
 kab	kab	Ssbelɛemt tasulla-nkent.	Lemẓemt tasulla-nwent.
@@ -588,7 +589,6 @@ kab	kab	S tiṭ n wul i neţmuqul wid ncedha.	S tiṭ n wul i neţţarju wid nce
 kab	kab	Suref-iyi ma teɛwej tenfalit-a.	Suref-iyi ma tezleg tenfalit-a.
 kab	kab	Sya ɣer da, neţmagar-d izirdi mara yezger abrid. Tajeḥniṭ-is d tacattawt, neţţa iṛuḥ d iɣiɣed.	Neţmagar-d tikwal izirdi mara yezger abrid. Tajeḥniṭ-is d tacattawt, neţţa iṛuḥ d iɣiɣed.
 kab	kab	Sya ɣer da, neţmagar-d izirdi mara yezger abrid. Tajeḥniṭ-is d tacattawt, neţţa iṛuḥ d iɣiɣed.	Tikwal, neţmagar-d izirdi mara yezger abrid. Tajeḥniṭ-is d tacattawt, neţţa iṛuḥ d iɣiɣed.
-kab	kab	Taɣawsa i isemden teččur; ticki ara s-nernu tussda, neqqar-as tedmek.	Taɣawsa i isemden teččur; ticki ara s-nernu tussda, neqqar-as tessed.
 kab	kab	Taddart n yiḥenderfufen, wa ɣef udem, wa tinnegnit.	Taddart n yiḥenderfufen, wa tiffudemt, wa tinnegnit.
 kab	kab	Ţaddrent-ţ-id zik temɣaṛin, upapas Ɣilas 1u.	Hemmlent temɣaṛin ad d-addrent apapas Ɣilas 1u.
 kab	kab	Taḍsa d imeṭṭi, akken i ţemsutraren.	Akken i ţemsutraren, taḍsa d imeṭṭi.
@@ -599,6 +599,7 @@ kab	kab	Taḍsa d imeṭṭi, akken i ţemsutraren.	Taḍsa d imeṭṭi, akken 
 kab	kab	Taḍsa d imeṭṭi, akken i ţemsutraren.	Taḍsa d imeṭṭi, zgan ţemsutraren.
 kab	kab	Taggara, yiwen ur d-yusi!	Imir, yiwen ur d-yusi!
 kab	kab	Taggara, yiwen ur d-yusi!	Taggara, yiwen ur d-iṛuḥ!
+kab	kab	Taɣawsa i isemden teččur; ticki ara s-nernu tussda, neqqar-as tedmek.	Taɣawsa i isemden teččur; ticki ara s-nernu tussda, neqqar-as tessed.
 kab	kab	Tamekkast d yiwet ma d isragen ugten.	Tamekkast d yiwet ma d timentilin ugtent.
 kab	kab	Tamtunt tebḍa d tuntawin.	Tamtunt tebḍa d iḥricen.
 kab	kab	Tamtunt tebḍa d tuntawin.	Tamtunt tebḍa d imuren.
@@ -634,9 +635,9 @@ kab	kab	Tewweḍ-as-d ɣer yiri.	Tewweḍ-as-d armi d iri.
 kab	kab	Tewweḍ-as-d ɣer yiri.	Tewweḍ-as ɣer tyersi.
 kab	kab	Tewweḍ-as-d ɣer yiri.	Yeggumma.
 kab	kab	Ţeẓgeɣ, yessenduy umcic!	Srewteɣ, ččan wiyiḍ.
-kab	kab	Ţeẓgeɣ, yessenduy umcic!	Srewteɣ, ɣellten wiyiḍ.
 kab	kab	Ţeẓgeɣ, yessenduy umcic!	Srewteɣ, ɛwebban wiyaḍ.
 kab	kab	Ţeẓgeɣ, yessenduy umcic!	Srewteɣ, ɛwebban wiyiḍ.
+kab	kab	Ţeẓgeɣ, yessenduy umcic!	Srewteɣ, ɣellten wiyiḍ.
 kab	kab	Tezmer ad texdem kullec.	Elle peut tout faire.
 kab	kab	Teẓram, nekk tura d ajermeq i d taḥusrift-iw.	Teẓram, nekk tura d aḥwaṣ i d taḥusrift-iw.
 kab	kab	Teẓram, nekk tura d ajermeq i d taḥusrift-iw.	Teẓram, nekk tura d takkerḍa i d ccɣel-iw.
@@ -675,15 +676,15 @@ kab	kab	Ṭṭfeɣ-as tamedwazt i uzniq.	Ṭṭfeɣ-as tafelluct i ubṛaḥ.
 kab	kab	Ṭṭfeɣ-as tamezzirt i uzniq.	Ṭṭfeɣ-as tafelluct i ubṛaḥ.
 kab	kab	Ṭṭfeɣ-as timeṣleḥt i uzniq.	Ṭṭfeɣ-as tafelluct i ubṛaḥ.
 kab	kab	Tuɣal tbarda ɣef ucwari.	Yuɣal uqelmun ar iḍaṛṛen.
+kab	kab	Tuɣ wa d asefru.	Tuɣ d asefru.
 kab	kab	Tura hah, i rniɣ snat-agi n tefyar.	Rniɣ snat-agi n tefyar, tura hah.
 kab	kab	Tura hah, i rniɣ snat-agi n tefyar.	Tura dɣa, i rniɣ snat-agi n tefyar.
 kab	kab	Tura hah, i rniɣ snat-agi n tefyar.	Tura kan, i rniɣ snat-agi n tefyar.
 kab	kab	Tura'kka, ẓẓayet mliḥ tuqqna: ticki d-tuɣal, ad t-ɣreɣ: daymi ur kin-rriɣ ara s temɣiwelt.	Tura akka, ẓẓayet mliḥ tuqqna: ticki d-tuɣal, ad t-ɣreɣ: daymi ur kin-rriɣ ara s temɣiwelt.
 kab	kab	Tura kkseɣ ddens fell-i, nniɣ-as aẓ-d a tayri.	Imi kkseɣ ddens fell-i, nniɣ-as aẓ-d a tayri.
 kab	kab	Tura kkseɣ ddens fell-i, nniɣ-as aẓ-d a tayri.	Tura imi kkseɣ ddens fell-i, nniɣ-as aẓ-d a tayri.
-kab	kab	Tuɣ wa d asefru.	Tuɣ d asefru.
-kab	kab	Udem usnan yeţţarra timucuha ḥenturi.	Tussna teţɛerri timucuha.
 kab	kab	Udem usnan yeţţarra timucuha ḥenturi.	Tussna teţekkes afud i timucuha.
+kab	kab	Udem usnan yeţţarra timucuha ḥenturi.	Tussna teţɛerri timucuha.
 kab	kab	Udem usnan yeţţarra timucuha ḥenturi.	Tussna teţţarra timucuha ḥenturi.
 kab	kab	Udiɣ taxeffeţ.	Udiɣ tafexxeţ.
 kab	kab	Udiɣ taxeffeţ.	Udiɣ tamerḍast.
@@ -723,6 +724,7 @@ kab	kab	Ur cukkeɣ!	Ur walaɣ!
 kab	kab	Ur cukkeɣ yella wugur.	Ur cukkeɣ yella weɣbel.
 kab	kab	Ur d-yeqqimen qim!	Ur d-yeqqimen kra!
 kab	kab	Ur friḥeɣ ara s wakken.	Ur umreɣ ara s wanect-nni.
+kab	kab	Uriɣ tafyirt deg zmam-iw.	J’ai écrit une phrase dans mon cahier.
 kab	kab	Ur inḥerwa ara.	Ur icliɛ ara.
 kab	kab	Ur inḥerwa ara.	Ur ictin ara.
 kab	kab	Ur inḥerwa ara.	Ur s-tewqiɛ ara.
@@ -737,9 +739,7 @@ kab	kab	Ur inḥerwa ara.	Ur yejjim kra.
 kab	kab	Ur inḥerwa ara.	Ur yeksi ara.
 kab	kab	Ur inḥerwa ara.	Ur yesruḥ ara.
 kab	kab	Ur iruḥ ani ɣer umsuji	Il n'est pas allé au medecin
-kab	kab	Uriɣ tafyirt deg zmam-iw.	J’ai écrit une phrase dans mon cahier.
 kab	kab	Ur iyi-ţqamar ara!	Ur iyi-ţnamar ara!
-kab	kab	Ɣur-k ittecceg!	Ɣur-m ittecceg!
 kab	kab	Ur tban d acu-ţ!	Teţţuɛelleq teqqim!
 kab	kab	Ur tban d acu-ţ!	Teţţuzuɣer akkin!
 kab	kab	Ur tban d acu-ţ!	Ur tban amek!
@@ -871,7 +871,6 @@ kab	kab	Yečča-d isenseg anda nniḍen.	Yečča-d ssemm anda nniḍen.
 kab	kab	Yečča tiremt.	Yesɛedda tiremt.
 kab	kab	Yeččur.	Yebbelkeḍ.
 kab	kab	Yeččur.	Yeffukti.
-kab	kab	Yeɣder-iyi yiḍes.	Teɣder-iyi tnafa.
 kab	kab	Yefka-yas tuggimt akken ad s-yerr ayen i s-yerḍel.	Iweǧǧel-as akken ad s-yerr ayen i s-yerḍel.
 kab	kab	Yefka-yas tuggimt akken ad s-yerr ayen i s-yerḍel.	Iweǧǧel-as akken ad s-yerr ayen i s-yeţţalas.
 kab	kab	Yefka-yas tuggimt akken ad s-yerr ayen i s-yerḍel.	Iweǧǧel-as akken ad s-yerr ayla-s.
@@ -880,13 +879,14 @@ kab	kab	Yeggumma.	Tewweḍ-as-d armi d imi.
 kab	kab	Yeggumma.	Tewweḍ-as-d ɣer temgarḍt.
 kab	kab	Yeggumma.	Tewweḍ-as-d ɣer temgerṭ.
 kab	kab	Yeggumma.	Tewweḍ-as-d ɣer txennaqt.
+kab	kab	Yeɣder-iyi yiḍes.	Teɣder-iyi tnafa.
+kab	kab	Yeɣma uksum-is seg yiṭij.	Yebrek uksum-is seg yiṭij.
+kab	kab	Yeɣma uksum-is seg yiṭij.	Yeqlelles uksum-is seg yiṭij.
 kab	kab	Yeḥlales ugrud-nni, segmi t-teqṛeḥ tyita.	Yeqqedṛaṛef ugrud-nni, segmi t-teqṛeḥ tyita.
 kab	kab	Yekker-iţ dderdiḥ!	Iwqeɛ-iţ waẓakkin!
 kab	kab	Yekker-iţ ugerdiḥ!	Iwqeɛ-iţ waẓakkin!
 kab	kab	Yella deg wawal: "segmi ḥemmlen at taddart aɣyul, ɣiwel zwir ḥucc-as-d!"	Yella deg wawal: "imi ḥemmlen at taddart aɣyul, ɣur-k zwir ḥucc-as-d!"
 kab	kab	Yella deg wawal: "segmi ḥemmlen at taddart aɣyul, ɣiwel zwir ḥucc-as-d!"	Yella deg wawal: "Mi ḥemmlen at taddart aɣyul, zwir ḥucc-as-d!"
-kab	kab	Yeɣma uksum-is seg yiṭij.	Yebrek uksum-is seg yiṭij.
-kab	kab	Yeɣma uksum-is seg yiṭij.	Yeqlelles uksum-is seg yiṭij.
 kab	kab	Yenna-as wedɣaɣ i ukerra: “ad fsiɣ”. Yerra-as-d: “mer ad teẓreḍ nekk!”	Yenna-as wedɣaɣ i uɣuḍeṛ: “ad fsiɣ”. Yerra-as-d: “mer ad teẓreḍ nekk!”
 kab	kab	Yenna-d Muḥen U Yahia (Moḥya [1950-2004] ɣef yimaziɣen): "Win d-yusan ad ten-yelles... Anda lulen i ţmeţţaten... Yerna dessen..."	"Win d-yusan ad ten-yelles... Anda lulen i ţmeţţaten... Yerna dessen..." (Muḥend U Yahia, Moḥya [1950-2004] ɣef yimaziɣen)
 kab	kab	Yenna-t-id Aristotélès: "Ungif yeţgalla, amusnaw yeţcukku, ukyis yeswingim."	Yenna-t-id Aristotélès: "Ungif yeţnamar, amusnaw yeţkayad, ukyis yeswingim."
@@ -936,11 +936,11 @@ kab	kab	Yir awal yeqqaz, iteţ.	Awal yeqqaz, irennu.
 kab	kab	Yir tagmaţ am kalitus: Si lbeɛd i yeţţarra tili.	Yir tagmaţ am kalitus: mbeɛid i yeţţarra tili.
 kab	kab	Yir tagmat am kalitus, xas ɣezzif messus, mbeɛid i yettarra tili!	Yir tagmaţ am kalitus, xas ɣezzif messus: mbeɛid i yeţţarra tili.
 kab	kab	Yir tagmat am kalitus, xas ɣezzif messus, mbeɛid i yettarra tili!	Yir tagmaţ am kalitus, xas ɣezzif messus: Si lbeɛd i yeţţarra tili.
-kab	kab	Yuɣal ɣer tid-is.	Yuɣal ɣer tannumi-ines.
 kab	kab	Yufeg-iyi uqermud-nni n tqacuct. 😱	Tufeg-iyi tqacuct, ur di qqim u qermud. 👽
 kab	kab	Yufeg-iyi uqermud-nni n tqacuct.	Yufeg-iyi uqarmud-nni yellan d taqacuct.
 kab	kab	Yufeg-iyi uqermud-nni n tqacuct. 😱	Yufeg-iyi uqermud-nni aqacuc. 😱
 kab	kab	Yufeg-iyi uqermud-nni n tqacuct. 😱	Yuli-iyi lgaz. Yerwi-d ɛemmar-iw. 🦄
+kab	kab	Yuɣal ɣer tid-is.	Yuɣal ɣer tannumi-ines.
 kab	kab	Yumayna, yekkat ugeffur, srucci ma ad tesrucciḍ.	Yumayna, yewwet ugeffur, srucci ma ad ternud.
 kab	kab	Yumayna, yewwet ugeffur, srucci ma ad ternud.	Ussan-a yezrin, yekkat ugeffur d iceṛcuren, ur yessawi.
 kab	kab	Yumayna, yewwet ugeffur, srucci ma ad ternud.	Ussan-a yezrin, yekkat ugeffur d iceṛcuren, ur yewwi.

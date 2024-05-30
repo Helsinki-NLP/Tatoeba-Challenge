@@ -49,17 +49,14 @@ heb	ita	אין אנו מסוגלים להכשל.	Non possiamo fallire.
 heb	ita	אין אנו שוכחים את יום ההולדת שלנו.	Non dimentichiamo il nostro compleanno.
 heb	ita	אין דרך חזרה.	Non c'è via di ritorno.
 heb	ita	אין כאן אף אחד.	Non c'è nessuno qui.
+heb	ita	אינך עוזר לעניים.	Tu non aiutavi i poveri.
+heb	ita	אינך תומך בעניים.	Tu non aiutavi i poveri.
 heb	ita	אין לי כסף לקנות אופניים חדשים.	Non ho soldi per comprare una bici nuova.
 heb	ita	אין לי מושג.	Non ne ho idea.
 heb	ita	אין לי ספרים לקרוא.	Non ho libri da leggere.
 heb	ita	אין לי שיעורי בית היום.	Non ho compiti oggi.
 heb	ita	אין לך את המפתח, לא?	Non hai la chiave?
 heb	ita	אין מים.	Non c'è acqua.
-heb	ita	אין סיבה לצחוק.	Non c'è motivo di ridere.
-heb	ita	אין ספק לגבי זה.	Su quello non c'è dubbio.
-heb	ita	אין שום דבר לאכול.	Non c'è niente da mangiare.
-heb	ita	אינך עוזר לעניים.	Tu non aiutavi i poveri.
-heb	ita	אינך תומך בעניים.	Tu non aiutavi i poveri.
 heb	ita	אינני אוהב את עיר מגוריו.	Non mi piace la città in cui vive.
 heb	ita	אינני אוהבת את עיר מגוריו.	Non mi piace la città in cui vive.
 heb	ita	אינני חולם לעולם. זה נורמלי?	Non sogno mai, è normale?
@@ -78,6 +75,9 @@ heb	ita	אינני מסוגל להמשיך לעשות זאת.	Io non posso conti
 heb	ita	אינני מספרת להם היסטוריה.	Non gli racconto la storia.
 heb	ita	אינני עסוקה כמו יושיו.	Non sono impegnata come Yoshio.
 heb	ita	אינני עסוק כמו יושיו.	Non sono impegnata come Yoshio.
+heb	ita	אין סיבה לצחוק.	Non c'è motivo di ridere.
+heb	ita	אין ספק לגבי זה.	Su quello non c'è dubbio.
+heb	ita	אין שום דבר לאכול.	Non c'è niente da mangiare.
 heb	ita	איפה אחיך?	Dov'è tuo fratello?
 heb	ita	איפה אני יכולה לקנות כרטיסים?	Dove posso comprare dei biglietti?
 heb	ita	איפה אני יכולה לקנות כרטיסים?	Dove posso comprare i biglietti?
@@ -85,8 +85,8 @@ heb	ita	איפה אני יכול לקנות כרטיסים?	Dove posso comprare 
 heb	ita	איפה אתם גרים?	Dove abitate?
 heb	ita	איפה הטבח?	Dov'è il cuoco?
 heb	ita	איפה היא הייתה באותו רגע?	Dove si trovava lei in quel momento?
-heb	ita	איפה הם שוחים?	Dove stanno nuotando?
 heb	ita	איפה המזוודה שלי?	Dov'è la mia valigia?
+heb	ita	איפה הם שוחים?	Dove stanno nuotando?
 heb	ita	איפה הן שוחות?	Dove stanno nuotando?
 heb	ita	איפה השטן מרגיש בבית?	Il diavolo dove si sente a casa?
 heb	ita	איפה השף?	Dov'è il cuoco?
@@ -111,17 +111,17 @@ heb	ita	אל תשתעשעי ברגשותיה!	Non giocare con i suoi sentimenti!
 heb	ita	אל תשתעשעי ברגשותיו!	Non giocare con i suoi sentimenti!
 heb	ita	אל תתן אמון בזרים.	Non dare fiducia agli estranei.
 heb	ita	אל תתן אמון בזרים.	Non fidarti degli estranei.
-heb	ita	אם אתה גבר, התנהג כך.	Se sei un uomo, comportati come tale.
-heb	ita	אם אתה גבר, התנהג ככזה.	Se sei un uomo, comportati come tale.
-heb	ita	אם לא תקח חופשה, אתה תקרוס.	Se non ti prendi una vacanza, collasserai.
-heb	ita	אם לומר את האמת, אני לא ממש אוהב אותה.	A dire il vero, in realtà lei non mi piace.
-heb	ita	אם נניח אפוא בקשר לנסיך לדברים שבדמיון ונדון בדברים האמיתיים, אני אומר שכל בני האדם, כשמדברים עליהם, ובמיוחד הנסיכים, משום שהם מורמים מכולם, ניכרים בכמה מן התכונות האלה שמקנות להם או גנאי או שבח; כלומר, זה נחשב לנדיב, ההוא למִיזֶרו (אם להשתמש במונח טוסקאני, כי אָבָארו בלשוננו הוא גם מי שמשתוקק לחמוס כדי שיהיה לו, ומיזרו אנו מכנים את מי שנמנע יתר על המידה מלהשתמש במה שיש לו); זה נחשב לנותן, ההוא לחמסן; זה אכזר, ההוא רחמן; אחד מפר אמון, האחר נאמן; אחד נשי ורך-לב, האחר סוער ועז-רוח; האחד אנושי, האחר מתנשא; האחד שטוף בזימה, האחר צנוע; האחד ישר-דרך, האחר ערמומי; האחד נוקשה, האחר נוח לרצות; האחד כבד-ראש, האחר קל-דעת; האחד ירא-שמים, האחר בלתי מאמין, וכדומה.	Lasciando adunque indietro le cose circa un Principe immaginate, e discorrendo quelle che son vere, dico, che tutti gli uomini, quando se ne parla, e massime i Principi, per esser posti più alto, sono notati di alcune di queste qualità che arrecano loro o biasimo, o laude; e questo è che alcuno è tenuto liberale, alcuno misero, usando uno termine Toscano, (perché avaro in nostra lingua è ancor colui che per rapina desidera d’avere, e misero chiamiamo quello che si astiene dall’usare il suo) alcuno è tenuto donatore, alcuno rapace; alcuno crudele, alcuno pietoso; l’uno fedifrago, l’altro fedele; l’uno effeminato e pusillanime, l’altro feroce e animoso; l’uno umano, l’altro superbo; l’uno lascivo, l’altro casto; l’uno intero, l’altro astuto; l’uno duro, l’altro facile; l’uno grave, l’altro leggiere; l’uno religioso, l’altro incredulo, e simili. Io so che ciascuno confesserà, che sarebbe laudabilissima cosa un Principe trovarsi di tutte le sopraddette qualità, quelle che sono tenute buone; ma perché non si possono avere, né interamente osservare per le condizioni umane che non lo consentono, gli è necessario essere tanto prudente, che sappia fuggire l’infamia di quelli vizi che li torrebbono lo Stato, e da quelli che non gliene tolgano, guardarsi, se egli è possibile; ma non potendosi, si può con minor rispetto lasciare andare. Ed ancora...
 heb	ita	אמא שלה לא כל כך זקנה כפי שהיא נראית.	Sua madre non è vecchia come sembra.
 heb	ita	אמא שלו לא כל כך זקנה כפי שהיא נראית.	Sua madre non è vecchia come sembra.
 heb	ita	אמא שלי נראית צעירה לגילה.	Mia madre sembra giovane per la sua età.
+heb	ita	אם אתה גבר, התנהג כך.	Se sei un uomo, comportati come tale.
+heb	ita	אם אתה גבר, התנהג ככזה.	Se sei un uomo, comportati come tale.
 heb	ita	אמור תמיד את האמת.	Di' sempre la verità.
 heb	ita	אמי היא אחות של אמם.	Mia madre è sorella della loro madre.
 heb	ita	אמי שמה את העוגה במקרר.	Mia madre mise la torta nel frigorifero.
+heb	ita	אם לא תקח חופשה, אתה תקרוס.	Se non ti prendi una vacanza, collasserai.
+heb	ita	אם לומר את האמת, אני לא ממש אוהב אותה.	A dire il vero, in realtà lei non mi piace.
+heb	ita	אם נניח אפוא בקשר לנסיך לדברים שבדמיון ונדון בדברים האמיתיים, אני אומר שכל בני האדם, כשמדברים עליהם, ובמיוחד הנסיכים, משום שהם מורמים מכולם, ניכרים בכמה מן התכונות האלה שמקנות להם או גנאי או שבח; כלומר, זה נחשב לנדיב, ההוא למִיזֶרו (אם להשתמש במונח טוסקאני, כי אָבָארו בלשוננו הוא גם מי שמשתוקק לחמוס כדי שיהיה לו, ומיזרו אנו מכנים את מי שנמנע יתר על המידה מלהשתמש במה שיש לו); זה נחשב לנותן, ההוא לחמסן; זה אכזר, ההוא רחמן; אחד מפר אמון, האחר נאמן; אחד נשי ורך-לב, האחר סוער ועז-רוח; האחד אנושי, האחר מתנשא; האחד שטוף בזימה, האחר צנוע; האחד ישר-דרך, האחר ערמומי; האחד נוקשה, האחר נוח לרצות; האחד כבד-ראש, האחר קל-דעת; האחד ירא-שמים, האחר בלתי מאמין, וכדומה.	Lasciando adunque indietro le cose circa un Principe immaginate, e discorrendo quelle che son vere, dico, che tutti gli uomini, quando se ne parla, e massime i Principi, per esser posti più alto, sono notati di alcune di queste qualità che arrecano loro o biasimo, o laude; e questo è che alcuno è tenuto liberale, alcuno misero, usando uno termine Toscano, (perché avaro in nostra lingua è ancor colui che per rapina desidera d’avere, e misero chiamiamo quello che si astiene dall’usare il suo) alcuno è tenuto donatore, alcuno rapace; alcuno crudele, alcuno pietoso; l’uno fedifrago, l’altro fedele; l’uno effeminato e pusillanime, l’altro feroce e animoso; l’uno umano, l’altro superbo; l’uno lascivo, l’altro casto; l’uno intero, l’altro astuto; l’uno duro, l’altro facile; l’uno grave, l’altro leggiere; l’uno religioso, l’altro incredulo, e simili. Io so che ciascuno confesserà, che sarebbe laudabilissima cosa un Principe trovarsi di tutte le sopraddette qualità, quelle che sono tenute buone; ma perché non si possono avere, né interamente osservare per le condizioni umane che non lo consentono, gli è necessario essere tanto prudente, che sappia fuggire l’infamia di quelli vizi che li torrebbono lo Stato, e da quelli che non gliene tolgano, guardarsi, se egli è possibile; ma non potendosi, si può con minor rispetto lasciare andare. Ed ancora...
 heb	ita	אמרתי לתום שזה דחוף.	Ho detto a Tom che era urgente.
 heb	ita	אמרת שזה דחוף.	Hai detto che era urgente.
 heb	ita	אנא סילחו לי על האיחור.	Vogliate scusare il mio ritardo.
@@ -243,13 +243,13 @@ heb	ita	אני מאושרת מאוד בגאורגיה.	Sono molto felice in Geor
 heb	ita	אני מאחורי המטבח.	Sono dietro la cucina.
 heb	ita	אני מאחל לך בהצלחה.	Ti auguro il successo.
 heb	ita	אני מאחלת לעצמי אך ורק בריאות.	La salute è tutto ciò che desidero.
-heb	ita	אני מאמין שהוא אף פעם לא יחזור.	Credo che non tornerà mai.
-heb	ita	אני מאמין שהיא אף פעם לא תחזור.	Credo che non tornerà mai.
 heb	ita	אני מאמינה שהוא אף פעם לא יחזור.	Credo che non tornerà mai.
 heb	ita	אני מאמינה שהיא אף פעם לא תחזור.	Credo che non tornerà mai.
+heb	ita	אני מאמין שהוא אף פעם לא יחזור.	Credo che non tornerà mai.
+heb	ita	אני מאמין שהיא אף פעם לא תחזור.	Credo che non tornerà mai.
 heb	ita	אני מדבר קצת ספרדית.	Parlo un po' di spagnolo.
-heb	ita	אני מוכן לעזור לך.	Sono pronto ad aiutarti.
 heb	ita	אני מוכנה לעזור לך.	Sono pronto ad aiutarti.
+heb	ita	אני מוכן לעזור לך.	Sono pronto ad aiutarti.
 heb	ita	אני מופתעת מהעובדה שאתה נאיבי כל כך.	Sono sorpresa dal fatto che tu sia così infantile.
 heb	ita	אני מופתעת מכך שאת נאיבית כל כך.	Sono sorpresa dal fatto che tu sia così infantile.
 heb	ita	אני מזוכיסט.	Io sono masochista.
@@ -265,8 +265,8 @@ heb	ita	אני מכיר את הבת שלי טוב מכל אחד אחר.	Conosco 
 heb	ita	אני מכירה את הבת שלי טוב מכל אחד אחר.	Conosco mia figlia meglio di chiunque altro.
 heb	ita	אני ממליץ לך לנסוע ברכבת.	Ti consiglio di andare in treno.
 heb	ita	אני ממש רוצה לדעת מה קורה כאן.	Voglio proprio sapere che cosa sta succedendo qui.
-heb	ita	אני ממתין לך בביתי.	Ti aspetto a casa mia.
 heb	ita	אני ממתינה לך בביתי.	Ti aspetto a casa mia.
+heb	ita	אני ממתין לך בביתי.	Ti aspetto a casa mia.
 heb	ita	אני מנמנם כמעט כל יום.	Io faccio un sonnellino quasi ogni giorno.
 heb	ita	אני מנסה לזכור.	Io provo a ricordare.
 heb	ita	אני מנסה לחסוך כסף.	Sto cercando di risparmiare dei soldi.
@@ -326,17 +326,17 @@ heb	ita	אני עומד לקנות אוטו חדש.	Sto per comprare una nuova a
 heb	ita	אני עומד לשנות את זה.	Io sto per cambiarlo.
 heb	ita	אני עושה זאת כל שבוע.	Lo faccio settimanalmente.
 heb	ita	אני עושה זאת מדי שבוע.	Lo faccio settimanalmente.
+heb	ita	אני עייפה כמוך.	Sono stanco come te.
 heb	ita	אני עייף כמוך.	Sono stanco come te.
 heb	ita	אני עייף עכשיו.	Sono stanco adesso.
-heb	ita	אני עייפה כמוך.	Sono stanco come te.
 heb	ita	אני פרופסור.	Sono un professore.
 heb	ita	אני צועקת אך איש לא שומע אותי.	Grido, ma nessuno mi sente.
-heb	ita	אני צריך ללכת לבית החולים.	Devo andare all'ospedale.
-heb	ita	אני צריך לנקות את החדר שלי.	Devo pulire camera mia.
-heb	ita	אני צריך לקבל את תשובתך היום בערב.	Ho bisogno di ricevere una tua risposta entro stasera.
 heb	ita	אני צריכה חופשה!	Ho bisogno di una vacanza!
 heb	ita	אני צריכה ללכת לבית החולים.	Devo andare all'ospedale.
 heb	ita	אני צריכה לנקות את חדרי.	Devo pulire camera mia.
+heb	ita	אני צריך ללכת לבית החולים.	Devo andare all'ospedale.
+heb	ita	אני צריך לנקות את החדר שלי.	Devo pulire camera mia.
+heb	ita	אני צריך לקבל את תשובתך היום בערב.	Ho bisogno di ricevere una tua risposta entro stasera.
 heb	ita	אני קטן יותר ממך.	Sono più piccolo di te.
 heb	ita	אני רגיל לחיות לבד.	Io sono abituato a vivere da solo.
 heb	ita	אני רואה אותה אף בחלומותי.	La vedo anche nei sogni.
@@ -365,14 +365,14 @@ heb	ita	אעמוד לצידך מה שלא יקרה.	Sarò dalla tua parte in ogn
 heb	ita	אף אחד לא באמת רוצה אותנו כאן.	Nessuno ci vuole veramente qui.
 heb	ita	אף אחד לא יכול להשתוות אליו באנגלית.	Nessuno può eguagliarlo in inglese.
 heb	ita	אף אחד לא עזר לי.	Nessuno mi ha aiutato.
-heb	ita	אף פעם איננו יודעים מה היעד.	Noi non sappiamo mai la destinazione.
-heb	ita	אף פעם לא הייתי בחלק זה של הארץ.	Io non sono mai stato in quella parte del paese.
 heb	ita	אפילו היום אני אוהב אותך כל כך.	Ti amo tanto anche oggi.
 heb	ita	אפילו יוני לא כל כך רחוק.	Anche giugno non è così lontano.
 heb	ita	אפילו פעם אחת עוד לא נפגשנו.	Non l'ho incontrato neanche una volta.
 heb	ita	אפילו קצת ירד גשם.	Ha pure piovuto un po'.
 heb	ita	אפילו שעון מקולקל מראה את השעה הנכונה פעמיים ביום.	Anche un orologio fermo segna l'ora giusta due volte al giorno.
 heb	ita	אפילו תינוק היה מבין זאת.	Lo capirebbe anche un bambino.
+heb	ita	אף פעם איננו יודעים מה היעד.	Noi non sappiamo mai la destinazione.
+heb	ita	אף פעם לא הייתי בחלק זה של הארץ.	Io non sono mai stato in quella parte del paese.
 heb	ita	אפשר לדבר עם ג'ודי?	Posso parlare con Judy?
 heb	ita	אפשר להיכנס?	Posso entrare?
 heb	ita	אפשר להתקשר לחברי ביפן?	Posso chiamare il mio amico in Giappone?
@@ -464,34 +464,34 @@ heb	ita	את לא יכולה לעצור אותי בגין היותי מוקיו�
 heb	ita	את לא מכירה אותו אבל אני כן.	Tu non lo conosci ma io si.
 heb	ita	את לא מסייעת לעניים.	Tu non aiutavi i poveri.
 heb	ita	את לא עוזרת לאביונים.	Tu non aiutavi i poveri.
-heb	ita	אתם גרמנים, נכון?	Siete tedesche, vero?
-heb	ita	אַתֶּם, הַנִּכְנָסִים לְכָאן, אַבְּדוּ כָּל תִּקְוָה.	Lasciate ogne speranza, voi ch'intrate.
-heb	ita	אתם יוצאים לחופשה השנה?	Andate in vacanza quest'anno?
-heb	ita	אתם יכולים לעזור לי בשיעורי הבית?	Mi potete aiutare con i miei compiti?
-heb	ita	אתם יכולים לראות שהבית בנוי יציב.	Potete vedere che la casa è stata costruita regolarmente.
-heb	ita	אתם יכולים לתרגם לי את השיר הזה?	Puoi tradurmi questa canzone?
-heb	ita	אתם מאוד סקסיים.	Siete molto sexy.
-heb	ita	אתם מבינים מה הוא אומר?	Capite quello che sta dicendo?
-heb	ita	אתם מבינים מה הוא אומר?	Voi capite quello che sta dicendo?
-heb	ita	אתם מחביאים משהו.	State nascondendo qualcosa.
-heb	ita	אתם שיכורים? אל תנהגו.	Siete ubriachi? Non guidate.
 heb	ita	את מבינה מה הוא אומר?	Capisci quello che sta dicendo?
 heb	ita	את מגעילה!	Sei disgustosa!
+heb	ita	אתם גרמנים, נכון?	Siete tedesche, vero?
 heb	ita	את מדברת ברצינות או נטרפה עליך דעתך?	Parli sul serio o vaneggi?
 heb	ita	את מדברת לטינית?	Parlate il latino?
+heb	ita	אַתֶּם, הַנִּכְנָסִים לְכָאן, אַבְּדוּ כָּל תִּקְוָה.	Lasciate ogne speranza, voi ch'intrate.
 heb	ita	אתמול היא כתבה טוב יותר מהיום.	Ieri lei scriveva meglio di oggi.
 heb	ita	אתמול היה יום שישי.	Ieri era venerdì.
 heb	ita	אתמול עבדתי כל היום.	Ho lavorato tutto il giorno ieri.
 heb	ita	אתמול תפסתי דג גדול.	Ho preso un pesce grande ieri.
 heb	ita	את מושכת את השמיכה.	Tu tiri su la coperta.
+heb	ita	אתם יוצאים לחופשה השנה?	Andate in vacanza quest'anno?
+heb	ita	אתם יכולים לעזור לי בשיעורי הבית?	Mi potete aiutare con i miei compiti?
+heb	ita	אתם יכולים לראות שהבית בנוי יציב.	Potete vedere che la casa è stata costruita regolarmente.
+heb	ita	אתם יכולים לתרגם לי את השיר הזה?	Puoi tradurmi questa canzone?
 heb	ita	את מכירה איזו מסעדה טובה כאן בסביבה?	Conosci qualche buon ristorante qui vicino?
+heb	ita	אתם מאוד סקסיים.	Siete molto sexy.
+heb	ita	אתם מבינים מה הוא אומר?	Capite quello che sta dicendo?
+heb	ita	אתם מבינים מה הוא אומר?	Voi capite quello che sta dicendo?
+heb	ita	אתם מחביאים משהו.	State nascondendo qualcosa.
 heb	ita	את מעדיפה יין לבן או אדום?	Preferisci vino bianco o rosso?
 heb	ita	את מקשיבה?	Mi stai ascoltando?
 heb	ita	את מקשיבה?	Stai ascoltando?
+heb	ita	אתם שיכורים? אל תנהגו.	Siete ubriachi? Non guidate.
 heb	ita	את מתכוננת לעשות את זה שוב?	Sei pronta a farlo di nuovo?
-heb	ita	אתן מאוד סקסיות.	Siete molto sexy.
 heb	ita	את נוסעת לאן שהוא הקיץ?	Vai da qualche parte questa estate?
 heb	ita	את נוסעת לאנשהו הקיץ?	Vai da qualche parte questa estate?
+heb	ita	אתן מאוד סקסיות.	Siete molto sexy.
 heb	ita	את נראית עסוקה.	Sembri impegnata.
 heb	ita	את צעירה מכדי לאהוב.	Sei troppo giovane per amare.
 heb	ita	את צריכה לפגוש מישהו.	Hai bisogno di vedere qualcuno.
@@ -884,36 +884,13 @@ heb	ita	הלכתי כשהתברר לי שלא תהיה אפשרות לעשות �
 heb	ita	הם אוהבים להיות בסביבה מזוהמת.	Amano stare in un ambiente sporco.
 heb	ita	הם אומרים שדודה עבד אצלם.	Dicono che suo zio lavorava per loro.
 heb	ita	הם אומרים שדודו עבד אצלם.	Dicono che suo zio lavorava per loro.
+heb	ita	המאמרים שלך מוצאים חן בעיניי.	Mi piacciono i tuoi articoli.
 heb	ita	הם אמריקנים?	Loro sono americane?
 heb	ita	הם הכירו ימים טובים יותר.	Hanno conosciuto giorni migliori.
-heb	ita	הם השאירו את הרכב ברחוב הזה.	Hanno lasciato la macchina su quella strada.
-heb	ita	הם התעצבנו והלכו.	Sono diventati molto nervosi.
-heb	ita	הם ידעו ימים טובים יותר.	Hanno conosciuto giorni migliori.
-heb	ita	הם יכולים להציע משהו שונה.	Possono offrire qualcos'altro.
-heb	ita	הם יצרו שרשרת אנושית.	Loro formarono una catena umana.
-heb	ita	הם יצרו שרשרת אנושית.	Loro hanno formato una catena umana.
-heb	ita	הם ישנו.	Loro dormivano.
-heb	ita	הם לא ימצאו אותה.	Non la troveranno.
-heb	ita	הם לא ימצאו אותך.	Loro non la troveranno.
-heb	ita	הם לא ימצאו את זה.	Non la troveranno.
-heb	ita	הם לעולם לא יאמינו לנו.	Non ci crederebbe mai.
-heb	ita	הם מנצחים בידיים קשורות!	Vincono a mani basse!
-heb	ita	הם משתעשעים.	Loro si divertirono.
-heb	ita	הם ניסו.	Provavano.
-heb	ita	הם נסעו ברחובות שונים.	Seguivano diverse strade.
-heb	ita	הם נפגשו בדרך לעבודה.	Si sono incontrati sulla strada per andare al lavoro.
-heb	ita	הם נפגשו על החוף.	Si sono incontrati sulla spiaggia.
-heb	ita	הם נפטרו לאחר כמה חודשים.	Morirono dopo pochi mesi.
-heb	ita	הם עדיין לא יודעים.	Non lo sanno ancora.
-heb	ita	הם עוד לא יודעים.	Loro non lo sanno ancora.
-heb	ita	הם עזבו לפני סוף ההופעה.	Loro sono andati via prima della fine dello spettacolo.
-heb	ita	הם קנו אותו.	Loro lo hanno comprato.
-heb	ita	הם רוצים לצלם כל עיר.	Vogliono fotografare ogni città.
-heb	ita	הם רצו לגנוב את המכונית.	Volevano rubare la macchina.
-heb	ita	הם שמו את כל הבנים ביחד.	Mettevano insieme tutti i ragazzi.
-heb	ita	המאמרים שלך מוצאים חן בעיניי.	Mi piacciono i tuoi articoli.
 heb	ita	המהנדס חישב את ההספק האפקטיבי של המכונה.	L'ingegnere calcolò l'effettiva potenza della macchina.
 heb	ita	המהפכה פתחה עידן חדש.	La rivoluzione ha aperto una nuova era.
+heb	ita	הם השאירו את הרכב ברחוב הזה.	Hanno lasciato la macchina su quella strada.
+heb	ita	הם התעצבנו והלכו.	Sono diventati molto nervosi.
 heb	ita	המוות הוא גברת מסתורית חסרת רחמים.	La morte è una misteriosa donna senza misericordia.
 heb	ita	המוזיקה היא שפה אוניברסלית.	La musica è una lingua universale.
 heb	ita	המורה הזהיר אותנו שהמבחן יהיה קשה.	L'insegnante ci ha avvertiti che il test sarebbe stato difficile.
@@ -927,20 +904,43 @@ heb	ita	המחמאות האלה מעודדות אותי להמשיך. אבל ה�
 heb	ita	המחמאות הללו ממריצות אותי להמשיך. ברם, הדרך עדיין ארוכה.	Questi complimenti mi incoraggiano a continuare. Ma la strada è ancora lunga.
 heb	ita	המחשב שלי אטי מאוד.	Il mio computer è molto lento.
 heb	ita	המטוס מוכן.	È pronto l'aereo.
+heb	ita	הם ידעו ימים טובים יותר.	Hanno conosciuto giorni migliori.
+heb	ita	הם יכולים להציע משהו שונה.	Possono offrire qualcos'altro.
 heb	ita	המים קפואים כקרח.	L'acqua è gelida.
+heb	ita	הם יצרו שרשרת אנושית.	Loro formarono una catena umana.
+heb	ita	הם יצרו שרשרת אנושית.	Loro hanno formato una catena umana.
+heb	ita	הם ישנו.	Loro dormivano.
 heb	ita	המכונית הזאת היא בבעלותי.	Questa automobile è posseduta da me.
 heb	ita	המכשיר פשוט להפליא להפעלה.	L'apparecchio è meravigliosamente semplice da utilizzare.
+heb	ita	הם לא ימצאו אותה.	Non la troveranno.
+heb	ita	הם לא ימצאו אותך.	Loro non la troveranno.
+heb	ita	הם לא ימצאו את זה.	Non la troveranno.
 heb	ita	המלון נשרף כליל.	L'albergo fu ridotto in cenere.
 heb	ita	המלכה חייבת למות.	La regina deve morire.
+heb	ita	הם לעולם לא יאמינו לנו.	Non ci crederebbe mai.
+heb	ita	הם מנצחים בידיים קשורות!	Vincono a mani basse!
+heb	ita	הם משתעשעים.	Loro si divertirono.
+heb	ita	הם ניסו.	Provavano.
+heb	ita	הם נסעו ברחובות שונים.	Seguivano diverse strade.
+heb	ita	הם נפגשו בדרך לעבודה.	Si sono incontrati sulla strada per andare al lavoro.
+heb	ita	הם נפגשו על החוף.	Si sono incontrati sulla spiaggia.
+heb	ita	הם נפטרו לאחר כמה חודשים.	Morirono dopo pochi mesi.
+heb	ita	הם עדיין לא יודעים.	Non lo sanno ancora.
+heb	ita	הם עוד לא יודעים.	Loro non lo sanno ancora.
+heb	ita	הם עזבו לפני סוף ההופעה.	Loro sono andati via prima della fine dello spettacolo.
 heb	ita	המצב מסובך.	La situazione è complicata.
 heb	ita	המצב עבורי מיום ליום נעשה חמור יותר.	Per me la situazione si fa di giorno in giorno più seria.
 heb	ita	המציאות יפה.	La realtà è bella.
 heb	ita	המצלמה שלי טובה בהרבה משלה.	La mia macchina fotografica è molto meglio della sua.
 heb	ita	המצלמה שלי טובה בהרבה משלו.	La mia macchina fotografica è molto meglio della sua.
 heb	ita	המצלמה שלי טובה בהרבה משלך.	La mia macchina fotografica è molto meglio della tua.
+heb	ita	הם קנו אותו.	Loro lo hanno comprato.
+heb	ita	הם רוצים לצלם כל עיר.	Vogliono fotografare ogni città.
 heb	ita	המרמיטה היא אלמותית.	La marmotta è immortale.
 heb	ita	המרמיטה היא בת-אלמוות.	La marmotta è immortale.
+heb	ita	הם רצו לגנוב את המכונית.	Volevano rubare la macchina.
 heb	ita	המשכתי לנסות עוד ועוד.	Io continuavo a provare ancora.
+heb	ita	הם שמו את כל הבנים ביחד.	Mettevano insieme tutti i ragazzi.
 heb	ita	המשפט הזה לא באיטלקית.	Questa frase non è in italiano.
 heb	ita	המשפט הזה מורכב מארבעים וחמש אותיות.	Questa frase è costituita da quarantacinque lettere.
 heb	ita	המשפט הנוכחי לא נכון.	La seguente frase non è corretta.
@@ -950,15 +950,15 @@ heb	ita	המתרגם - בוגד.	Tradurre è tradire.
 heb	ita	המתרגם - בוגד.	Traduttore, traditore.
 heb	ita	המתרגמים - בוגדים.	Tradurre è tradire.
 heb	ita	המתרגמים - בוגדים.	Traduttore, traditore.
-heb	ita	הן התעצבנו והלכו.	Sono diventate molto nervose.
-heb	ita	הן ניסו.	Provavano.
 heb	ita	הנה בא האוטובוס.	Ecco che arriva l'autobus.
 heb	ita	הנה בא האוטובוס.	Il bus sta arrivando.
 heb	ita	הנה הוא בא.	Eccolo che arriva.
 heb	ita	הנה הוא בא.	Sta arrivando.
+heb	ita	הן התעצבנו והלכו.	Sono diventate molto nervose.
 heb	ita	הנושא הוא שונה.	Il soggetto è diverso.
 heb	ita	הנח את עפרונך והקשב.	Metti giù la tua matita e ascolta.
 heb	ita	הניחי את עפרונך והקשיבי.	Metti giù la tua matita e ascolta.
+heb	ita	הן ניסו.	Provavano.
 heb	ita	הנסיבות חייבו אותנו לומר את האמת.	Le circostanze ci hanno costretto a dire la verità.
 heb	ita	הנסיעות אל האיים לא זולות.	I viaggi alle isole non sono economici.
 heb	ita	הסוג הזה של כלבים קיים רק ביפן.	Questo tipo di cane esiste solo in Giappone.
@@ -1282,11 +1282,11 @@ heb	ita	לא משנה לי.	Non mi cambia nulla.
 heb	ita	לא משנה מה הוא אומר, אל תאמין לו.	Qualsiasi cosa dica, non credergli.
 heb	ita	לאמתו של דבר, הוא שיקר.	Infatti ha mentito.
 heb	ita	לאן אתה שלחת אותה?	Dove l'hai mandata?
+heb	ita	לא נותר לך אלא להמתין.	Non ti resta che aspettare.
 heb	ita	לאן לקחת את הסדין שלי?	Dove hai portato il mio lenzuolo?
 heb	ita	לאן לקחת לי את הסדין?	Dove hai portato il mio lenzuolo?
 heb	ita	לאן לקחתם לי את הסדין?	Dove avete portato il mio lenzuolo?
 heb	ita	לאן לקחתם לי את הסדין?	Dove hai portato il mio lenzuolo?
-heb	ita	לא נותר לך אלא להמתין.	Non ti resta che aspettare.
 heb	ita	לא עוברת שנייה שבה אני לא חושב עלייך.	Non c'è secondo che passa in cui io non penso a te.
 heb	ita	לא ערבה לך ארוחת הבוקר היום?	Non ti è piaciuta la colazione oggi?
 heb	ita	לא פגשתיו אפילו פעם אחת.	Non l'ho incontrato neanche una volta.
@@ -1313,15 +1313,15 @@ heb	ita	לחיים ללא אהבה אין שום משמעות.	Una vita senza am
 heb	ita	לילה. המשפחה אוכלת ארוחת ערב.	È notte. La famiglia sta cenando.
 heb	ita	לך אני יכולה לעזור.	Ti posso aiutare io.
 heb	ita	לך אני יכול לעזור.	Ti posso aiutare io.
-heb	ita	לך בלי לחשוב פעמיים!	Vai senza pensarci due volte!
-heb	ita	לך לבד!	Andate avanti da soli!
-heb	ita	לך תגיד לטום איך אתה מרגיש.	Vai a dire a Tom come ti senti.
 heb	ita	לכבוד הוא לי.	Questo è un onore per me.
+heb	ita	לך בלי לחשוב פעמיים!	Vai senza pensarci due volte!
 heb	ita	לכי לבד!	Andate avanti da soli!
 heb	ita	לכי תגידי לטום איך את מרגישה.	Vai a dire a Tom come ti senti.
 heb	ita	לכל אחד יש נקודת מבט; אל תצפה שנקודת המבט שלי תהיה זהה לשלך.	Ognuno ha un punto di vista, non ti aspettare che il mio sia uguale al tuo.
+heb	ita	לך לבד!	Andate avanti da soli!
 heb	ita	לכל הערים הגדולות יש בעיות תחבורה.	Tutte le città grandi hanno problemi di traffico.
 heb	ita	לכל ילד יש חדר משלו.	Ogni bambino ha la sua stanza.
+heb	ita	לך תגיד לטום איך אתה מרגיש.	Vai a dire a Tom come ti senti.
 heb	ita	למה את אומרת שזה פועל?	Perché dici che è un verbo?
 heb	ita	למה אתה לא עונה לי?	Perché non mi risponde?
 heb	ita	למה אתה מאחר תמיד?	Perché sei sempre in ritardo?
@@ -1373,9 +1373,9 @@ heb	ita	מה אתה עושה?	Che cosa fai?
 heb	ita	מה אתה רוצה לדעת?	Che cosa vuoi sapere?
 heb	ita	מה אתה רוצה לעשות?	Che cosa vuoi fare?
 heb	ita	מה את חושבת על הסרטים שראינו אתמול?	Che cosa pensi dei film che abbiamo visto ieri?
-heb	ita	מה אתם רוצים לדעת?	Voi che cosa volete sapere?
 heb	ita	מה את ממליצה?	Che cosa tu suggerisci?
 heb	ita	מה את ממליצה לי?	Che cosa mi consigli?
+heb	ita	מה אתם רוצים לדעת?	Voi che cosa volete sapere?
 heb	ita	מה את רוצה לדעת?	Che cosa vuoi sapere?
 heb	ita	מה הדבר שלמדנו?	Cos'è che abbiamo imparato?
 heb	ita	מה הוא אומר?	Che dice?
@@ -1500,8 +1500,8 @@ heb	ita	סליחה, טעיתי בדרך.	Scusa, ho sbagliato.
 heb	ita	סליחה, טעיתי בדרך.	Scusate, ho sbagliato strada.
 heb	ita	סליחה, טעיתי בדרך.	Scusi, ho sbagliato strada.
 heb	ita	סליחה, לא הבנתי אותך.	Scusami, non ti ho capito.
-heb	ita	סליחה שהיית צריך לחכות.	Mi dispiace di averti fatto aspettare.
 heb	ita	סליחה שהיית צריכה לחכות.	Mi dispiace di averti fatto aspettare.
+heb	ita	סליחה שהיית צריך לחכות.	Mi dispiace di averti fatto aspettare.
 heb	ita	ספרים אלה הם הספרים שלי.	Questi libri sono i miei libri.
 heb	ita	ספרים אלה הם ספריי.	Questi libri sono i miei libri.
 heb	ita	עבדתי אתמול כל היום.	Ho lavorato tutto il giorno ieri.
@@ -1546,11 +1546,11 @@ heb	ita	קחי את התרופות.	Prendi le medicine.
 heb	ita	קיבלת את המכתב שלי?	Hai ricevuto la mia lettera?
 heb	ita	קיים גם כעס לנוכח קיפוח הזכויות.	C'è anche la rabbia per vedersi usurpare i diritti.
 heb	ita	קְלַבָּסטר וגיזמו הם חתולים.	Klabaster e Gizmo sono gatti.
+heb	ita	קניתי את העט הזה בשני דולר.	Ho comprato questa biro per 2 dollari.
+heb	ita	קניתי את העט הכדורי הזה בשני דולרים.	Ho comprato questa biro per 2 dollari.
 heb	ita	קן משחק כדורגל כל יום.	Ken gioca a calcio tutti i giorni.
 heb	ita	קן משחק כל יום כדורגל.	Ken gioca a calcio tutti i giorni.
 heb	ita	קן משחק תמיד כדורגל.	Ken gioca a calcio tutti i giorni.
-heb	ita	קניתי את העט הזה בשני דולר.	Ho comprato questa biro per 2 dollari.
-heb	ita	קניתי את העט הכדורי הזה בשני דולרים.	Ho comprato questa biro per 2 dollari.
 heb	ita	קראתי את כל הספרים בספריה.	Io ho letto ogni libro della biblioteca.
 heb	ita	קראתי כל ספר מהספריה.	Io ho letto ogni libro della biblioteca.
 heb	ita	קר מדי.	Fa troppo freddo.
@@ -1683,13 +1683,13 @@ heb	ita	תישאר כאן ותמתין לו, בבקשה.	Resta qui e aspettalo, 
 heb	ita	תמהני אם תום ישוב אי פעם הביתה.	Dubito che Tom tornerà mai a casa.
 heb	ita	תמהני: מדוע הוא מתמהמה?	Mi sto chiedendo: perché è in ritardo?
 heb	ita	תמיד היה לו חיוך.	Aveva sempre il sorriso.
-heb	ita	תן לי בבקשה תמונה שלך.	Dammi per favore una tua foto.
-heb	ita	תן לי לומר לך מדוע טום לא מוצא חן בעיניי.	Mi lasci dire perché non mi piace Tom.
 heb	ita	תנו לי הזדמנות!	Datemi un'opportunità!
 heb	ita	תנו לי קצת גלידה.	Datemi un po' di gelato.
 heb	ita	תניח את העפרון ותקשיב.	Metti giù la tua matita e ascolta.
 heb	ita	תניחי את העפרון ותקשיבי.	Metti giù la tua matita e ascolta.
 heb	ita	תני לי לומר לך מדוע טום לא מוצא חן בעיניי.	Mi lasci dire perché non mi piace Tom.
+heb	ita	תן לי בבקשה תמונה שלך.	Dammi per favore una tua foto.
+heb	ita	תן לי לומר לך מדוע טום לא מוצא חן בעיניי.	Mi lasci dire perché non mi piace Tom.
 heb	ita	תסתכלי! הרכבת הגיעה!	Guarda! Il treno è arrivato!
 heb	ita	תעבור שוב על החומר בהיסטוריה כדי להתכונן לבחינה.	Ripassa ancora una volta storia, per prepararti all'esame.
 heb	ita	תעיף עין בבקשה בתמונה הזאת.	Dai un'occhiata a questa foto, per favore.

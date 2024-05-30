@@ -7,6 +7,8 @@ deu	got_Goth	Er sieht euer Pferd.	𐍃𐌰𐌹𐍈𐌹𐌸 𐌰𐌹𐍈 𐌹𐌶
 deu	got_Goth	Genau!	𐌱𐌹 𐍃𐌿𐌽𐌾𐌰𐌹!
 deu	got_Goth	Guten Morgen!	𐌲𐍉𐌳𐌰𐌽𐌰 𐌼𐌰𐌿𐍂𐌲𐌹𐌽!
 deu	got_Goth	Guten Tag!	𐌲𐍉𐌳𐌰𐌽𐌰 𐌳𐌰𐌲!
+deu	got_Goth	Hallo!	𐌷𐌰𐌹𐌻𐌰!
+deu	got_Goth	Hallo!	𐌷𐌰𐌹𐌻𐌰𐌹!
 deu	got_Goth	Hallo!	𐌷𐌰𐌹𐌻𐍃!
 deu	got_Goth	Hallo!	𐌷𐌰𐌹𐌻𐍉𐍃!
 deu	got_Goth	Ich esse.	𐌹𐍄𐌰.
@@ -20,8 +22,9 @@ deu	got_Goth	Ich habe zwei Bücher.	𐌹𐌺 𐌷𐌰𐌱𐌰 𐍄𐍅𐍉𐍃 �
 deu	got_Goth	Ich heiße Tom.	𐌹𐌺 𐌷𐌰𐌹𐍄𐌰𐌳𐌰 𐍄𐍉𐌼.
 deu	got_Goth	Ich liebe dich!	𐌹𐌺 𐍆𐍂𐌹𐌾𐍉 𐌸𐌿𐌺!
 deu	got_Goth	Ich liebe dich.	𐌹𐌺 𐍆𐍂𐌹𐌾𐍉 𐌸𐌿𐌺.
-deu	got_Goth	Ich liebe euch.	𐌹𐌺 𐍆𐍂𐌹𐌾𐍉 𐌹𐌶𐍅𐌹𐍃.
 deu	got_Goth	Ich liebe euch beide.	𐌹𐌺 𐍆𐍂𐌹𐌾𐍉 𐌹𐌲𐌵𐌹𐍃.
+deu	got_Goth	Ich liebe euch.	𐌹𐌺 𐍆𐍂𐌹𐌾𐍉 𐌹𐌲𐌵𐌹𐍃.
+deu	got_Goth	Ich liebe euch.	𐌹𐌺 𐍆𐍂𐌹𐌾𐍉 𐌹𐌶𐍅𐌹𐍃.
 deu	got_Goth	Ich lüge nicht.	𐌽𐌹 𐍅𐌰𐌹𐌷𐍄 𐌻𐌹𐌿𐌲𐌰.
 deu	got_Goth	Ich mag deine Stadt.	𐌱𐌿𐍂𐌲𐍃 𐌸𐌴𐌹𐌽𐌰 𐌲𐌰𐌻𐌴𐌹𐌺𐌰𐌹𐌸 𐌼𐌹𐍃.
 deu	got_Goth	Ich setzte mich neben John.	𐌹𐌺 𐌲𐌰𐍃𐌰𐍄 𐌽𐌴𐍈𐌰 𐌹𐍉𐌷𐌰𐌽𐌽𐌴.
@@ -35,6 +38,7 @@ deu	got_Goth	Nein!	𐌽𐌴!
 deu	got_Goth	Nein.	𐌽𐌴.
 deu	got_Goth	Schau dir das Buch auf dem Tisch an.	𐌰𐍄𐍃𐌰𐌹𐍈 𐌸𐍉𐍃 𐌱𐍉𐌺𐍉𐍃 𐌰𐌽𐌰 𐌱𐌹𐌿𐌳𐌰.
 deu	got_Goth	Sie ist gut.	𐍃𐌹 𐌹𐍃𐍄 𐌲𐍉𐌳𐌰.
+deu	got_Goth	Tom denkt.	𐍄𐍉𐌼 𐌸𐌰𐌲𐌺𐌾𐌹𐌸.
 deu	got_Goth	Tom denkt.	𐍄𐍉𐌼 𐌸𐌰𐌽𐌺𐌴𐌹𐌸.
 deu	got_Goth	Tom isst.	𐍄𐍉𐌼 𐌹𐍄𐌹𐌸.
 deu	got_Goth	Tom lügt.	𐍄𐍉𐌼 𐌻𐌹𐌿𐌲𐌹𐌸.
@@ -45,6 +49,6 @@ deu	got_Goth	Was ist das?	𐍈𐌰 𐌹𐍃𐍄 𐌸𐌰𐍄𐌰?
 deu	got_Goth	Was ist gut?	𐍈𐌰 𐌲𐍉𐌸𐍃 𐌹𐍃𐍄?
 deu	got_Goth	Wir wollen Frieden.	𐍅𐌹𐌻𐌴𐌹𐌼𐌰 𐌲𐌰𐍅𐌰𐌹𐍂𐌸𐌹.
 deu	got_Goth	Woher kommst du?	𐍈𐌰𐌸𐍂𐍉 𐌵𐌹𐌼𐌹𐍃?
-deu	got_Goth	Woher kommt ihr?	𐍈𐌰𐌸𐍂𐍉 𐌵𐌹𐌼𐌹𐌸?
 deu	got_Goth	Woher kommt ihr?	𐍈𐌰𐌸𐍂𐍉 𐌵𐌹𐌼𐌰𐍄𐍃?
+deu	got_Goth	Woher kommt ihr?	𐍈𐌰𐌸𐍂𐍉 𐌵𐌹𐌼𐌹𐌸?
 deu	got_Goth	Wo sind Ihre Kinder jetzt?	𐍈𐌰𐍂 𐍃𐌹𐌽𐌳 𐌱𐌰𐍂𐌽𐌰 𐌹𐌶𐍅𐌰𐍂𐌰 𐌽𐌿?

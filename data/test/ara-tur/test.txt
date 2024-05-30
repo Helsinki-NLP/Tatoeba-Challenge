@@ -1,31 +1,25 @@
-apc_Latn	tur	Merci!	Teşekkür ederim!
-apc_Latn	tur	Merci!	Teşekkürler!
-ara_Latn	tur	Nous devons trouver un autre chemin.	Başka yol bulmak zorundayız.
+ara	tur	Merci!	Teşekkür ederim!
+ara	tur	Merci!	Teşekkürler!
+ara	tur	Nous devons trouver un autre chemin.	Başka yol bulmak zorundayız.
 ara	tur	٠ دَرَسَ ابْنُ سِيناَ أَكْثَرَ مِنْ اثْنَيْ عَشَرَ عِلْماً	İbn Sînâ 12 den daha çok ilim tahsil etti.
-ara	tur	ابتعد عن طريقي يا فتى.	Yolumdan çekil, delikanlı !
 ara	tur	أتذكر رؤيتها في مكان ما.	Onu bir yerlerde gördüğümü hatırlıyorum.
-ara	tur	اتركني وشأني.	Beni rahat bırak.
-ara	tur	اتركه لي.	Onu bana bırak.
 ara	tur	أترى الفرنسية صعبة؟	Fransızcayı zor buluyor musun?
 ara	tur	أتساءل إن كان بينهما رابط.	Herhangi bir bağlantı olup olmadığını merak ediyorum.
 ara	tur	أتساءل متى سيتقاعد "توم"؟	Tom'un ne zaman emekli olacağını merak ediyorum.
 ara	tur	أتعلم العربية.	Arapça öğreniyorum.
-ara	tur	اتفقت معه على هذه النقطة	Ben o konuda onunla anlaştım.
 ara	tur	أتمنى لك يوماً طيباً.	İyi günler.
-ara	tur	اتهم توم ماري بأنها سارقة.	Tom, Mary'yi hırsız olmakla suçladı.
 ara	tur	أتود مشاهدة التلفاز؟	Televizyon seyretmek istiyor musun?
 ara	tur	أجري تجربة لبناء دولة من الصفر.	Sıfırdan bir ülke yaratmada bir deney gerçekleştirin.
 ara	tur	أُجلت رحلتهم بسبب هطول المطر.	Yağmur nedeniyle onların gezisi ertelendi.
 ara	tur	أحاول منع توم من الوقوع في نفس الأخطاء التي وقعت فيها.	Tom'u benim yaptığım aynı hataları yapmaktan durdurmaya çalışıyorum.
+ara	tur	أحب أن أرقص.	Dans etmeyi severim.
+ara	tur	أحب أن أقرأ الكتب.	Kitap okumayı severim.
 ara	tur	أحب الأفلام.	Filmleri severim.
-ara	tur	احب البنات	Kızları severim.
 ara	tur	أحب اللغات السلافية.	Slav dillerini seviyorum.
 ara	tur	أحب اللّغة العربية.	Arapça'yı seviyorum.
 ara	tur	أحب المفاجئات.	Sürprizleri severim.
 ara	tur	أحب الورد الأحمر.	Ben kırmızı gülleri severim.
 ara	tur	أحب الورود الحمراء.	Ben kırmızı gülleri severim.
-ara	tur	أحب أن أرقص.	Dans etmeyi severim.
-ara	tur	أحب أن أقرأ الكتب.	Kitap okumayı severim.
 ara	tur	أحب تجربة السيارات الجديدة.	Yeni arabaları denemeyi severim.
 ara	tur	أحبك و أريد أن أتزوجك.	Sana aşığım ve seninle evlenmek istiyorum.
 ara	tur	أحبك و أريد أن أتزوجك.	Seni seviyorum ve seninle evlenmek istiyorum.
@@ -35,26 +29,18 @@ ara	tur	أحتاج للوحة مفاتيح.	Bir klavyeye ihtiyacım var.
 ara	tur	أحسنت عملا!	Aferin!
 ara	tur	أخذت موعداً مع الطبيب عند الرابعة.	Saat dörde doktordan randevu aldım.
 ara	tur	أخذ توم شيئا ما من فوق الأرض.	Tom, zeminden bir şey aldı.
-ara	tur	إذا خرجت الكلمة من القلب دخلت في القلب و إذا خرجت من اللسان لم تتجاوز الاذن.	Söz kalpten çıkarsa kalbe kadar gider, dilden çıkarsa kulağı aşamaz.
-ara	tur	إذا كان الكلام من فضة فالسكوت من ذهب.	Söz gümüşse, sükut altındır.
-ara	tur	اذكر كل عضو باسمه.	Her üyeyi adıyla dile getir.
-ara	tur	إذهب إلى هناك الآن.	Şimdi oraya gidin.
-ara	tur	اذهب أنت أولاً.	Siz önce gidin.
 ara	tur	أراد بوب أن يحتفظ بالثعلب في المنزل.	Bob Tilkiye evde bakmak istedi.
 ara	tur	أرادت ليلى مغادرة السيارة	Leyla arabadan inmek istedi.
-ara	tur	أراد توم التوضيح ولكن ماري لم تدعه.	Tom açıklamak istedi fakat Mary ona izin vermedi.
 ara	tur	أراد توم أن يُجرب شيئا مختلفا.	Tom farklı bir şey denemek istedi.
 ara	tur	أراد توم أن يذهب إلى الشاطئ معنا.	Tom bizimle sahile gitmek istedi.
 ara	tur	أراد توم أن يلتقي بك في المكتبة.	Tom kütüphanede seninle tanışmak istedi.
+ara	tur	أراد توم التوضيح ولكن ماري لم تدعه.	Tom açıklamak istedi fakat Mary ona izin vermedi.
 ara	tur	أراد توم تعلم الغناء باللغة الفرنسية.	Tom, Fransızca şarkı söylemeyi öğrenmek istedi.
 ara	tur	أراد توم تعلُّم بعض الأغاني الفرنسية.	Tom bazı Fransızca şarkıları öğrenmek istedi.
 ara	tur	أراد توم شراء معطفٍ من الفروِ لماري.	Tom, Mary için bir kürk palto almak istedi.
 ara	tur	أراد توم فتح مطعمه الخاص.	Tom kendi restoranını açmak istedi.
 ara	tur	أردت أن أضربه و لكنه هرب مني.	Ona vurmak istedim ama benden kaçtı.
 ara	tur	أردت تحسين نطقي باللغة الانجليزية	İngilizce telaffuzumu iyileştirmek isterdim.
-ara	tur	اركض من مدينة الى آخرى , وأذهب من قرية الى أخرى لكن لا اتحرك ابداً " الطريق "	"Şehirden şehire koşarım, köyden köye giderim fakat hiç hareket etmem." "Yol."
-ara	tur	أريد إضافة بعض الملاحظات	Birkaç not eklemek isterim.
-ara	tur	اريد التحدث معها على انفراد.	Onunla yalnız konuşmak istiyorum.
 ara	tur	أريد أن أبدله	Onu değiştirmek istiyorum.
 ara	tur	أريد أن أتزوج منها.	Onunla evlenmek istiyorum.
 ara	tur	أريد أن أذهب إلى أمريكا في يوم من الأيام.	Bir gün Amerika'ya gitmek istiyorum.
@@ -68,43 +54,26 @@ ara	tur	أريد أن أقول وداعا	Veda etmek istiyorum.
 ara	tur	أريد أن أنام الآن.	Şimdi uyumak istiyorum.
 ara	tur	أريد أن أنتحر	İntihar etmek istiyorum.
 ara	tur	أُرِيدُ أَن تَذهَبَ مَعي.	Benimle birlikte gitmeni istiyorum.
+ara	tur	أريد إضافة بعض الملاحظات	Birkaç not eklemek isterim.
 ara	tur	أريد تغيير حياتي	Hayatımı değiştirmek istiyorum.
 ara	tur	أريد شخصا يمكنه التحدث باللغة الفرنسية.	Fransızca konuşabilen birini istiyorum.
 ara	tur	أريدك ان تجدها.	Onu bulmanı istiyorum.
-ara	tur	اريد لقاء والدك	Ben babanı görmek istiyorum.
-ara	tur	ازعج دان ليندا بمكالماته المستمرة.	Dan sürekli aramalarla Linda'yı rahatsız etti.
 ara	tur	أساهم في هذا المنتدى كل يوم.	Neredeyse her gün bu foruma katkıda bulunuyorum?
 ara	tur	أستاذنا بالحقيقة مغفل	Öğretmenimiz gerçek bir idiot.
-ara	tur	استدان من رفقائه	Arkadaşından ödünç para aldı.
 ara	tur	أستطيع الذهاب بالقطار.	Trenle gidebilirim.
-ara	tur	استطيع القراءة بدون النظارات.	Ben gözlüksüz okuyabilirim.
-ara	tur	إستعجل! نحن ننتظرك.	Acele et! Seni bekliyoruz.
-ara	tur	استمر توم بالمشي.	Tom yürümeye devam etti.
-ara	tur	استمر خطابه لثلاثة ساعات.	Onun konuşması üç saat sürdü.
 ara	tur	أَسَّسَ اْلشَّرِيفُ النَّاظِمَ فِي اْلبَلْدَةِ.	Şerif, kasabada düzen tesis etti.
 ara	tur	أسقط توم الحاوية من الرافعة دون قصد.	Tom konteyneri kazara vincinden düşürdü.
-ara	tur	إسمي توم.	İsmim Tom.
-ara	tur	اسمي جاك.	Benim adım Jack.
-ara	tur	اسمي شو.	Adım Shu.
-ara	tur	إشتريتُ ساعةً وأضعتها في اليومِ التالي.	Bir saat aldım, sonraki gün kaybettim.
-ara	tur	اشتريت سيارة جديدة الاسبوع الماضي.	Geçen hafta yeni bir araba satın aldım.
 ara	tur	أشتريت مجلة لها .	Ona dergi aldım.
-ara	tur	إشترىته عشر دولار	Onu on dolara aldım.
-ara	tur	اشترى توم شرابا من آلة البيع الآلي.	Tom otomatik satış makinesinden bir içki satın aldı.
-ara	tur	اشترى توم هاتفا جوالا.	Tom bir cep telefonu aldı.
-ara	tur	اشترى لي أبي هذه القبعة.	Bu şapkayı bana babam satın aldı.
-ara	tur	إشتقت إليك كثيرا !	Seni çok özledim.
+ara	tur	أشعر بألمك	Acını hissediyorum.
 ara	tur	أشعر بالانتعاش	Yenilenmiş hissediyorum.
 ara	tur	أشعر بالتعب	Yorgun hissediyorum.
 ara	tur	أشعر بالسعادة	Mutlu hissediyorum.
 ara	tur	أشعر بالضياع	Kaybolmuş hissediyorum.
-ara	tur	أشعر بألمك	Acını hissediyorum.
 ara	tur	أشعر دائما بالتعب.	Sürekli üzerimde bir yorgunluk hissediyorum.
 ara	tur	"أشكرك على مساعدتك لي" "لا شكر على واجب."	"Bana yardım ettiğiniz için teşekkür ederim." " Bir şey değil."
 ara	tur	أصبحت بالغ الآن	Artık bir yetişkinim.
 ara	tur	أصبحت صديق توم.	Tom ile arkadaş oldum.
 ara	tur	أصبح رئيسا للشركة في سن الثلاثين.	Otuz yaşında şirkete müdür oldu.
-ara	tur	اضطررنا أن نؤجل جولتنا .	Gezimizi ertelemek zorunda kaldık.
 ara	tur	أضعت طريقي.	Kayboldum.
 ara	tur	أطفأت المذياع.	Radyoyu kapattım.
 ara	tur	أظن أن أعياد الميلاد مهمة.	Doğum günlerinin önemli olduğunu düşünüyorum.
@@ -112,15 +81,10 @@ ara	tur	أظن أن شجرة السنديان هذه هي الأكثر تعمي�
 ara	tur	أظن أن قاطع تلك الأشجار كان "توم".	Sanırım o ağaçları kesen kişi Tom'du.
 ara	tur	أظن أنكم كلكم مخطئون.	Bana kalırsa hepiniz hatalısınız.
 ara	tur	أظن أنك يجب أن تفعله.	Bence yapmalısın.
-ara	tur	اظن اننا أقارب	Sanırım biz akrabayız.
-ara	tur	اظن انني فعلت هذا على الأقل مئة مرة	Bunu en az yüz kere yaptım, sanırım.
-ara	tur	أظن انه يجب ان يذهب	Sanırım gitmem gerekiyor.
 ara	tur	أظن أني أضعت قبل قليل جواز سفري.	Sanırım az önce pasaportumu kaybettim.
+ara	tur	أظن انه يجب ان يذهب	Sanırım gitmem gerekiyor.
 ara	tur	أعتقد أن عيناك جميلة جدّا.	Bence gözlerin çok güzel.
-ara	tur	اعتقد غير ذلك.	Ben daha farklı düşünüyorum.
-ara	tur	اعذرني على التأخير.	Geç kaldığım için özür dilerim.
 ara	tur	أعرف أنني أستحق هذا.	Bunu hak ettiğimi biliyorum.
-ara	tur	اعطني فرصة!	Bana bir şans ver!
 ara	tur	أعطني نصف كيلو من التفاح.	Bana yarım kilo elma verin.
 ara	tur	أعلم أن وقت الرحيل قد حان و لكنّي أريد البقاء فترة أطول.	Gitme zamanı olduğunu biliyorum ama biraz daha kalmak istiyorum.
 ara	tur	أعلن مصطفى كمال أتاتورك قيام الجمهورية التركية في سنة 1923 م.	Mustafa Kemal Atatürk, 1923'te Türkiye Cumhuriyetini ilan etti.
@@ -128,28 +92,208 @@ ara	tur	أعيش في بيت عائلتي .	Aileme ait olan evde yaşıyorum.
 ara	tur	أفرغ جيبك	Ceplerini boşalt.
 ara	tur	أفرغ جيوبك	Ceplerini boşalt!
 ara	tur	أفضل الخروج على تصفح الفيسبوك.	Facebook'ta kalmaktansa dışarı gitmeyi tercih ederim.
-ara	tur	افعل.	Yap!
-ara	tur	افعل ما تحب.	Sevdiğin şeyi yap.
 ara	tur	أقسم أنني لم أفعل أي شيء.	Yemin ederim, ben bir şey yapmadım.
 ara	tur	أقفز من غصن الى غصن و أتعلق من ذيلي " القرد "	"Daldan dala atlarım, Kuyruğumdan sarkarım." "Maymun."
 ara	tur	أقلت شيئا كان ينبغي علي أن لا أقوله؟	Söylememem gereken bir şey mi söyledim?
 ara	tur	أقلّ توم ماري من المطار.	Tom havaalanında Mary'yi aldı.
-ara	tur	اكتشفت اليوم أن هناك فيلم اسمه "الروس قادمون!" الروس قادمون!	Bugün "Ruslar geliyor! Ruslar geliyor!" adında bir filmin olduğunu keşfettim.
-ara	tur	اكتشفنا كلمة المرور بسهولة	Parolayı kolaylıkla öğrendik.
-ara	tur	الأب هناك	Baba orada.
 ara	tur	ألا تتذكر إسمي؟	İsmimi hatırlamıyor musun?
 ara	tur	ألا تريد مشاهدة التلفاز؟	Televizyon seyretmek istemiyor musun?
-ara	tur	الإثنين هو يوم رمي الزبالة	Pazartesi çöp günüdür.
-ara	tur	الأرض كروية.	Dünya yuvarlaktır.
-ara	tur	الأسد ملك الحيوانات.	Aslan, hayvanların kralıdır.
-ara	tur	الاسعار تنخفض	Fiyatlar iniyor.
-ara	tur	الأسلحة النارية ليست من يقتل البشر. البشر هم من يقتل البشر.	Silahlar insanları öldürmez. İnsanlar insanları öldürür.
+ara	tur	ألقي القبض عليك لتجاوزك على الممتلكات.	İzinsiz girdiğin için tutuklusun.
+ara	tur	ألقيت نظرة داخل الغرفة و لم أرى أحدا.	Odanın içine göz attım, kimseyi göremedim.
+ara	tur	أليس لديك بعض المال؟	Biraz paran var mı?
+ara	tur	أليس معك بعض النقود؟	Biraz paran var mı?
+ara	tur	أمسك "توم" بيد "ماري" تحت الطاولة.	Tom, Mary'nin elini masanın altında tuttu.
+ara	tur	أملك بيتاً في الجبال.	Dağlarda bir evim var.
+ara	tur	أملك قطة وكلب. القطة سوداء و الكلب أبيض.	Kedim ve köpeğim var. Kedim siyah, köpeğim ise beyazdır.
+ara	tur	أمي تكبر أبي عمراً.	Annem babamdan daha büyük.
+ara	tur	أمي تكبر أبي عمراً.	Annem babamdan daha yaşlı.
+ara	tur	أمي، قلت لأبي وأختي أنا سنخرج في عطلة مع بعضنا.	Annem, babam ve kız kardeşim ile birlikte tatile çıkacağımızı onlara söylemiştim.
+ara	tur	أنا أبحث عن توم.	Tom'u arıyorum.
+ara	tur	أنا أبوك.	Ben senin babanım.
+ara	tur	أنا أتمشى مع أولادي في الحديقة.	Çocuklarımla parkta yürüyorum.
+ara	tur	أنا أحبُّ أنْ أدرسَ اللغاتَ الأجنبيةَ.	Yabancı dillere çalışmayı severim.
+ara	tur	أنا أحب الشمس.	Güneşi seviyorum.
+ara	tur	أنا أحب اللغة التركية كثيراً.	Türkçeyi çok seviyorum.
+ara	tur	أنا أحب اللغة اليابانية كثيراً.	Japonca’yı çok seviyorum.
+ara	tur	أنا أدرسُ.	Öğretiyorum.
+ara	tur	أنا أدرسُ!	Sonunda!
+ara	tur	أنا أدرس اللغة الفارسية.	Fars dili okuyorum.
+ara	tur	أنا أزرع الفاصولياء في حديقتي	Bahçemde fasulye ekiyorum.
+ara	tur	أنا أشرب القهوة	Kahve içiyorum.
+ara	tur	أنا أعرف أن أتزلج.	Ben nasıl kayacağımı biliyorum.
+ara	tur	أنا أعمل في بلدة بالقرب من روما.	Ben, Roma'ya yakın bir yerleşim yerinde çalışıyorum.
+ara	tur	أَنَا أَكْبَرٌ سِناً مِنْ أَخِيكَ.	Ben senin erkek kardeşinden daha yaşlıyım.
+ara	tur	أنا أكثر طولاً.	Ben daha uzun boyluyum.
+ara	tur	أنا أكره جيراني.	Komşularımdan nefret ediyorum.
+ara	tur	أنا إقترضت هذا الكتاب منه.	Bu kitabı ondan ödünç aldım.
+ara	tur	أنا العب مع أصحابي.	Arkadaşlarımla oynuyorum.
+ara	tur	أنا امرأة قوية.	Ben güçlü bir kadınım.
+ara	tur	أنا بالغ	Ben bir yetişkinim.
+ara	tur	أنا بالغ	Ben yetişkinim.
+ara	tur	أنا تعب من مشاهدة التلفاز	Televizyon seyretmekten bıktım.
+ara	tur	أنا جائع.	Ben açım.
+ara	tur	أنا حامل.	Ben hamileyim.
+ara	tur	أنا حزين جداً اليوم.	Bugün çok mutsuzum.
+ara	tur	أنا عبقري مستقر جدا.	Ben çok dengeli bir dâhiyim.
+ara	tur	أنا عداء.	Koşucuyum.
+ara	tur	أنا غاضب!	Sinirlendim!
+ara	tur	أنا في المكتبة.	Ben kütüphanedeyim.
+ara	tur	أنا في قاعة الإنتظار.	Bekleme salonundayım.
+ara	tur	أنا قاس	Ben katıyım.
+ara	tur	أنا لا آكل.	Yemiyorum.
+ara	tur	أنا لا أعرف احدا من إخوته.	Onun erkek kardeşlerinden herhangi birini tanımıyorum.
+ara	tur	أنا لا أعرف مفتاح النجاح، لكن مفتاح الفشل هو محاولة ارضاء الجميع .	Ben başarının anahtarını bilmiyorum ancak başarısızlığın anahtarı herkesi hoşnut etmeye çabalamaktır.
+ara	tur	أنا لا أفاوض.	Ben görüşmem.
+ara	tur	أنا لا أفكر أن ذلك مهم.	Bunun önemli bir şey olduğunu düşünmüyorum.
+ara	tur	أنا لست بخبير.	Ben uzman değilim.
+ara	tur	أنا لست جائعا على الإطلاق.	Ben hiç aç değilim.
+ara	tur	أنا لست خبيرا.	Ben uzman değilim.
+ara	tur	أنا متأكد من أن توم لم ينسَ وعده.	Tom'un sözünü unutmadığından eminim.
+ara	tur	أنا مترجم	Ben bir tercümanım.
+ara	tur	أنا متعب.	Ben yorgunum.
+ara	tur	أنا متعب. أعتقد أنني سأخلد إلى السرير.	Çok yorgunum; Sanırım yatacağım.
+ara	tur	أنا متعبة جدا اليوم.	Bugün çok yorgunum.
+ara	tur	أنا مُرهق.	Çok yoruldum.
+ara	tur	أنا مريض.	Hastayım.
+ara	tur	أنا مستعد للأسوء	En kötüsüne hazırım.
+ara	tur	أنا مشغول مثل النحلة	Bir arı gibi meşgulüm.
+ara	tur	أنا ممتنع عن شرب الكحول	İçmekten kaçınırım.
+ara	tur	أنا ممتن لك لاستضافتك إياي في الحفلة.	Beni partiye davet ettiğin için minnettarım.
+ara	tur	أنا من أُستراليا.	Ben Avustralyalıyım.
+ara	tur	أنا نادم	Pişmanım.
+ara	tur	أنا هنا كصديق.	Arkadaş olarak buradayım.
+ara	tur	أنا وتوم هنا لمساعدتك.	Tom ve ben size yardımcı olmak için buradayız.
+ara	tur	أنت بالغ	Sen bir yetişkinsin.
+ara	tur	أنت بيضاء كالورق.	Bir çarşaf kadar beyazsın.
+ara	tur	أنت تتلاعب بي.	Beni manipüle ediyorsun.
+ara	tur	أنتَ تكره_ أنتِ تكرهين أفلام الرعب، أليس كذلك؟	Sen korku filmlerini sevmiyorsun, değil mi?
+ara	tur	أنت تهزأ بي,أليس كذلك؟	Benimle alay ediyorsun, değil mi?
+ara	tur	أنت صديق رائع.	Sen harika bir arkadaşsın.
+ara	tur	أنت عرضة للنسيان.	Unutkanlığa yatkınsın.
+ara	tur	أن تعيش هو أن تشعر	Yaşamak hissetmektir.
+ara	tur	أنت في القطار الخطأ.	Yanlış trendesin.
+ara	tur	أنت قاس	Sen katısın.
+ara	tur	أنت كريمٌ جداً.	Çok cömertsin.
+ara	tur	أنتُما الإثنان تعالا إلى هنا.	Siz ikiniz buraya gelin.
+ara	tur	أنت مصور ذكي.	Sen zeki bir fotoğrafçısın.
+ara	tur	أنتم في القطار الخطأ.	Yanlış trendesiniz.
+ara	tur	أنتَ يمكنك الرقص, أليس كذلك؟	Dans edebilirsin, öyle değil mi?
+ara	tur	أن جد ممتن لمساعدتك	Yardımınız için size çok minnettarım.
+ara	tur	أنجزت مهمتها.	O, vazifesini yaptı.
+ara	tur	أنظر إلى الخارطة.	Haritaya bakıyorum.
+ara	tur	أهدافي متواضعة.	Benim hedeflerim mütevazi.
+ara	tur	أودُ أن أدعوكَ إلى الحفلة.	Sizi partiye davet etmek istiyorum.
+ara	tur	أودُ أن أدعوكي إلى الحفلة.	Sizi partiye davet etmek istiyorum.
+ara	tur	أود أن أذهب إلى الحفل.	Törene gitmek istiyorum.
+ara	tur	أود أن أساعد	Yardım etmek istiyorum.
+ara	tur	أودّ العودة إلى بوسطن.	Ben Boston'a geri gitmek isterim.
+ara	tur	أود النزول في الجادة الخامسة	Beşinci caddede inmek istiyorum.
+ara	tur	أود تغيير حجزي	Rezervasyonumu değiştirmek istiyorum.
+ara	tur	أوصلني حتى القصر.	O, saraya kadar bana rehberlik yaptı.
+ara	tur	أوقِفُوا القطار!	Treni durdurun.
+ara	tur	أيّاً كان فلا تقل اسمي.	Ne olursa olsun adımı söyleme.
+ara	tur	أيمكنك إغلاق هذه النافذة من فضلك؟	Pencereyi kapatmanız mümkün mü?
+ara	tur	أيمكنك التحقق من ضغط الإطار؟	Lastik basıncını kontrol eder misin?
+ara	tur	أيمكننا الوثوق بك؟	Size güvenebilir miyim?
+ara	tur	أيمكنني أن أكلم الطبيب؟	Ben doktorla konuşabilir miyim?
+ara	tur	أيمكنني استعارة مضربك للتنس اليوم؟	Bugün senin tenis raketini ödünç alabilir miyim?
+ara	tur	أين أخي؟	Erkek kardeşim nerede?
+ara	tur	أين الأحذية؟	Ayakkabılar nerede?
+ara	tur	أين الحبل؟	İp nerede?
+ara	tur	أين الحمام؟	Tuvalet nerede?
+ara	tur	أين تركت حذاءك؟	Ayakkabılarını nerede bıraktın?
+ara	tur	أين تعمل؟	O nerede çalışıyor?
+ara	tur	أين رأيته?	Onu nerede gördün?
+ara	tur	أين عربات الأمتعة؟	Bagaj arabaları nerede?
+ara	tur	أين كان الخطأ؟	Hata neredeydi?
+ara	tur	أين كنت؟	Neredeydin?
+ara	tur	أين مظلّتك?	Şemsiyen nerede?
+ara	tur	إذا خرجت الكلمة من القلب دخلت في القلب و إذا خرجت من اللسان لم تتجاوز الاذن.	Söz kalpten çıkarsa kalbe kadar gider, dilden çıkarsa kulağı aşamaz.
+ara	tur	إذا كان الكلام من فضة فالسكوت من ذهب.	Söz gümüşse, sükut altındır.
+ara	tur	إذهب إلى هناك الآن.	Şimdi oraya gidin.
+ara	tur	إستعجل! نحن ننتظرك.	Acele et! Seni bekliyoruz.
+ara	tur	إسمي توم.	İsmim Tom.
+ara	tur	إشترىته عشر دولار	Onu on dolara aldım.
+ara	tur	إشتريتُ ساعةً وأضعتها في اليومِ التالي.	Bir saat aldım, sonraki gün kaybettim.
+ara	tur	إشتقت إليك كثيرا !	Seni çok özledim.
+ara	tur	إلى أين تذهبين؟	Nereye gidiyorsunuz?
+ara	tur	إلى الآن أنت لا تعلم حتى أين نحن ذاهبون.	Henüz nereye gittiğimizi sen bile bilmiyorsun.
+ara	tur	إلى ماذا تنظر؟	Neye bakıyorsun?
+ara	tur	إلى ماذا تنظر؟	Neye bakıyorsunuz?
+ara	tur	إن الحاسوب في المكتبة.	Bilgisayar kütüphanededir.
+ara	tur	إن النساء يغيرن العالم.	Dünyayı kadınlar değiştirecek.
+ara	tur	إنك لا تنصت مطلقاً. من الأفضل لي أن أتحدث إلى الجدار.	Asla dinlemiyorsun. Duvara konuşsam daha iyi.
+ara	tur	إنّما الأعمال بالنيّات	Ameller niyetlere göredir.
+ara	tur	إن مريم وتوم عاشقين منذ الصف الثامن.	Meryem ve Tom sekizinci sınıftan beri birbirlerine aşık.
+ara	tur	إنه آخر شخصٍ أود رؤيته.	O, görmek istediğim son adamdır.
+ara	tur	إنها تأمل أن تصبح مصممة أزياء.	Moda tasarımcısı olmayı umuyor.
+ara	tur	إنها تحب أن تمشي معي.	O benimle yürümekten hoşlanır.
+ara	tur	إنها جارتنا.	O bayan bizim komşumuz.
+ara	tur	إنها حادة الذكاء.	O bir deha.
+ara	tur	إنه اختلاف.	O bir anlaşmazlıktı.
+ara	tur	إنها مشغولة في كتابة الرسائل.	O, mektupları yazmakla meşguldü.
+ara	tur	إنه ذكي في صنع الأعذار	Bahane uydurmada zekidir.
+ara	tur	إنه فوقك تماما.	O tam senin üzerinde.
+ara	tur	إنه في مكتبته.	O, kütüphanesindedir.
+ara	tur	إنه لا يفهمك .	O seni anlamıyor.
+ara	tur	إنهم إناس بالغون	Onlar yetişkin insanlar.
+ara	tur	إنهم بالغون	Onlar yetişkindiler.
+ara	tur	إنهم على وشك الرحيل	Gitmek üzereler.
+ara	tur	إنه ولد في قرية صغيرة في جنوب تركيا.	Türkiye'nin güneyinde küçük bir köyde doğdu.
+ara	tur	إنهُ يتحدث على الهاتف.	Telefonla konuşuyor.
+ara	tur	إنه يرمي الأوراق في الهواء	O kağıtları havaya atıyor.
+ara	tur	إنه يشرب كأساً من الماء كل صباح.	O her sabah bir bardak su içer.
+ara	tur	إنه يعرف أسماء كل زبائنه.	O tüm müşterilerinin adlarını bilir.
+ara	tur	إنّي أبوك.	Ben senin babanım.
+ara	tur	إني أستفرغ	İstifra ediyorum.
+ara	tur	إني أصلي	Dua ediyorum.
+ara	tur	إني أكتب مقالا.	Bir makale yazıyorum.
+ara	tur	إيطاليا بلد جميل جدا.	İtalya çok güzel bir ülke.
+ara	tur	إيمي فتاة حسنة.	Emi iyi bir kız.
+ara	tur	ابتعد عن طريقي يا فتى.	Yolumdan çekil, delikanlı !
+ara	tur	اتركني وشأني.	Beni rahat bırak.
+ara	tur	اتركه لي.	Onu bana bırak.
+ara	tur	اتفقت معه على هذه النقطة	Ben o konuda onunla anlaştım.
+ara	tur	اتهم توم ماري بأنها سارقة.	Tom, Mary'yi hırsız olmakla suçladı.
+ara	tur	احب البنات	Kızları severim.
+ara	tur	اذكر كل عضو باسمه.	Her üyeyi adıyla dile getir.
+ara	tur	اذهب أنت أولاً.	Siz önce gidin.
+ara	tur	اركض من مدينة الى آخرى , وأذهب من قرية الى أخرى لكن لا اتحرك ابداً " الطريق "	"Şehirden şehire koşarım, köyden köye giderim fakat hiç hareket etmem." "Yol."
+ara	tur	اريد التحدث معها على انفراد.	Onunla yalnız konuşmak istiyorum.
+ara	tur	اريد لقاء والدك	Ben babanı görmek istiyorum.
+ara	tur	ازعج دان ليندا بمكالماته المستمرة.	Dan sürekli aramalarla Linda'yı rahatsız etti.
+ara	tur	استدان من رفقائه	Arkadaşından ödünç para aldı.
+ara	tur	استطيع القراءة بدون النظارات.	Ben gözlüksüz okuyabilirim.
+ara	tur	استمر توم بالمشي.	Tom yürümeye devam etti.
+ara	tur	استمر خطابه لثلاثة ساعات.	Onun konuşması üç saat sürdü.
+ara	tur	اسمي جاك.	Benim adım Jack.
+ara	tur	اسمي شو.	Adım Shu.
+ara	tur	اشترى توم شرابا من آلة البيع الآلي.	Tom otomatik satış makinesinden bir içki satın aldı.
+ara	tur	اشترى توم هاتفا جوالا.	Tom bir cep telefonu aldı.
+ara	tur	اشترى لي أبي هذه القبعة.	Bu şapkayı bana babam satın aldı.
+ara	tur	اشتريت سيارة جديدة الاسبوع الماضي.	Geçen hafta yeni bir araba satın aldım.
+ara	tur	اضطررنا أن نؤجل جولتنا .	Gezimizi ertelemek zorunda kaldık.
+ara	tur	اظن اننا أقارب	Sanırım biz akrabayız.
+ara	tur	اظن انني فعلت هذا على الأقل مئة مرة	Bunu en az yüz kere yaptım, sanırım.
+ara	tur	اعتقد غير ذلك.	Ben daha farklı düşünüyorum.
+ara	tur	اعذرني على التأخير.	Geç kaldığım için özür dilerim.
+ara	tur	اعطني فرصة!	Bana bir şans ver!
+ara	tur	افعل.	Yap!
+ara	tur	افعل ما تحب.	Sevdiğin şeyi yap.
+ara	tur	اكتشفت اليوم أن هناك فيلم اسمه "الروس قادمون!" الروس قادمون!	Bugün "Ruslar geliyor! Ruslar geliyor!" adında bir filmin olduğunu keşfettim.
+ara	tur	اكتشفنا كلمة المرور بسهولة	Parolayı kolaylıkla öğrendik.
 ara	tur	"الآن أنا حزينة، بلا أمل، هو سعيد ومتفائل" عائشة جوقلب - وداعا	Şimdilerde ben mutsuz, umutsuz; o mutlu ve umutlu.
 ara	tur	الآن انت مدينن لي	Şimdi bana borçlusun.
+ara	tur	الآن حان وقت الموت	Şimdi ölme zamanı.
+ara	tur	الأب هناك	Baba orada.
+ara	tur	الأرض كروية.	Dünya yuvarlaktır.
+ara	tur	الأسد ملك الحيوانات.	Aslan, hayvanların kralıdır.
+ara	tur	الأسلحة النارية ليست من يقتل البشر. البشر هم من يقتل البشر.	Silahlar insanları öldürmez. İnsanlar insanları öldürür.
+ara	tur	الإثنين هو يوم رمي الزبالة	Pazartesi çöp günüdür.
+ara	tur	الإنسان لديه القدرة على الكلام.	İnsan konuşma yetisine sahiptir.
+ara	tur	الاسعار تنخفض	Fiyatlar iniyor.
 ara	tur	الانتظار أشد من النار.	Beklemek ateşten beterdir.
 ara	tur	الانتظار أشد من النار.	Beklemek ateşten daha yakıcıdır.
-ara	tur	الآن حان وقت الموت	Şimdi ölme zamanı.
-ara	tur	الإنسان لديه القدرة على الكلام.	İnsan konuşma yetisine sahiptir.
 ara	tur	البابُ لم يَكنْ مفتوحاً.	Kapı açık değildi.
 ara	tur	البارحة كان يوم الخميس.	Dün perşembeydi.
 ara	tur	البدو يعيشون في الصحراء.	Bedeviler çölde yaşar.
@@ -194,8 +338,6 @@ ara	tur	الفنان موهوب.	Sanatçı yetenekli.
 ara	tur	القانون والسياسة هما شيئان مختلفان.	Hukuk ve siyaset birbiriyle çelişir.
 ara	tur	القشة التي قصمت ظهر البعير.	Bardağı taşıran son damla.
 ara	tur	القط ينام على الطاولة.	Kedi masanın üzerinde uyuyor.
-ara	tur	ألقي القبض عليك لتجاوزك على الممتلكات.	İzinsiz girdiğin için tutuklusun.
-ara	tur	ألقيت نظرة داخل الغرفة و لم أرى أحدا.	Odanın içine göz attım, kimseyi göremedim.
 ara	tur	الكحول في ألمانيا رخيص	Alkol Almanya'da da ucuzdur.
 ara	tur	الكلاب تنبح، والقافلة تسير.	İt ürür, kervan yürür.
 ara	tur	اللغات الهندية والأردية لغة واحدة.	Hintçe ve Urduca bir dildir.
@@ -208,176 +350,34 @@ ara	tur	المعنى المجازي للوقح هو الذي لا يخجل , ع�
 ara	tur	المنزل صغير لكنه جميل.	Ev küçük ama güzel.
 ara	tur	الموسيقى لغة العالم	Müzik uluslararası dildir.
 ara	tur	النظرية النسبية عند البيرت انشتاين من اشهر النظريات في العالم	Albert Einstein'ın Görelilik Teorisi dünyadaki en ünlü formüldür.
-ara	tur	إلى الآن أنت لا تعلم حتى أين نحن ذاهبون.	Henüz nereye gittiğimizi sen bile bilmiyorsun.
-ara	tur	إلى أين تذهبين؟	Nereye gidiyorsunuz?
-ara	tur	أليس لديك بعض المال؟	Biraz paran var mı?
-ara	tur	أليس معك بعض النقود؟	Biraz paran var mı?
-ara	tur	إلى ماذا تنظر؟	Neye bakıyorsun?
-ara	tur	إلى ماذا تنظر؟	Neye bakıyorsunuz?
 ara	tur	اليوم الإثنين.	Bugün Pazartesi.
 ara	tur	اليوم هو الأحد.	Bugün pazar.
 ara	tur	اليوم هو اول يوم في المدرسة	Bugün okulda ilk günü.
 ara	tur	اليوم هو اول يوم من ايام المدرسة	Bugün onun okulunun ilk günü.
 ara	tur	اما كل شيء او لا شيء	Ya hep ya hiç.
-ara	tur	أمسك "توم" بيد "ماري" تحت الطاولة.	Tom, Mary'nin elini masanın altında tuttu.
-ara	tur	أملك بيتاً في الجبال.	Dağlarda bir evim var.
-ara	tur	أملك قطة وكلب. القطة سوداء و الكلب أبيض.	Kedim ve köpeğim var. Kedim siyah, köpeğim ise beyazdır.
-ara	tur	أمي تكبر أبي عمراً.	Annem babamdan daha büyük.
-ara	tur	أمي تكبر أبي عمراً.	Annem babamdan daha yaşlı.
-ara	tur	أمي، قلت لأبي وأختي أنا سنخرج في عطلة مع بعضنا.	Annem, babam ve kız kardeşim ile birlikte tatile çıkacağımızı onlara söylemiştim.
-ara	tur	أنا أبحث عن توم.	Tom'u arıyorum.
-ara	tur	أنا أبوك.	Ben senin babanım.
 ara	tur	انا اتعلم العربي	Arapça öğreniyorum.
-ara	tur	أنا أتمشى مع أولادي في الحديقة.	Çocuklarımla parkta yürüyorum.
-ara	tur	أنا أحب الشمس.	Güneşi seviyorum.
-ara	tur	أنا أحب اللغة التركية كثيراً.	Türkçeyi çok seviyorum.
-ara	tur	أنا أحب اللغة اليابانية كثيراً.	Japonca’yı çok seviyorum.
-ara	tur	أنا أحبُّ أنْ أدرسَ اللغاتَ الأجنبيةَ.	Yabancı dillere çalışmayı severim.
-ara	tur	أنا أدرسُ.	Öğretiyorum.
-ara	tur	أنا أدرسُ!	Sonunda!
-ara	tur	أنا أدرس اللغة الفارسية.	Fars dili okuyorum.
-ara	tur	أنا أزرع الفاصولياء في حديقتي	Bahçemde fasulye ekiyorum.
-ara	tur	أنا أشرب القهوة	Kahve içiyorum.
-ara	tur	أنا أعرف أن أتزلج.	Ben nasıl kayacağımı biliyorum.
-ara	tur	أنا أعمل في بلدة بالقرب من روما.	Ben, Roma'ya yakın bir yerleşim yerinde çalışıyorum.
-ara	tur	أنا إقترضت هذا الكتاب منه.	Bu kitabı ondan ödünç aldım.
 ara	tur	انا اقف بين شوق اثنين واجعلهم يتكلمون فمن اكون ؟ . "الهاتف "	"Ben iki hasretlinin arasında dururum. Onları konuştururum." "Telefon."
-ara	tur	أَنَا أَكْبَرٌ سِناً مِنْ أَخِيكَ.	Ben senin erkek kardeşinden daha yaşlıyım.
-ara	tur	أنا أكثر طولاً.	Ben daha uzun boyluyum.
-ara	tur	أنا أكره جيراني.	Komşularımdan nefret ediyorum.
-ara	tur	أنا العب مع أصحابي.	Arkadaşlarımla oynuyorum.
-ara	tur	أنا امرأة قوية.	Ben güçlü bir kadınım.
-ara	tur	أنا بالغ	Ben bir yetişkinim.
-ara	tur	أنا بالغ	Ben yetişkinim.
-ara	tur	أنا تعب من مشاهدة التلفاز	Televizyon seyretmekten bıktım.
-ara	tur	أنا جائع.	Ben açım.
-ara	tur	أنا حامل.	Ben hamileyim.
-ara	tur	أنا حزين جداً اليوم.	Bugün çok mutsuzum.
 ara	tur	انا سوف اشتري لحم وجبنة وبندورة	Ben et, peynir ve domates satın alacağım.
-ara	tur	أنا عبقري مستقر جدا.	Ben çok dengeli bir dâhiyim.
-ara	tur	أنا عداء.	Koşucuyum.
-ara	tur	أنا غاضب!	Sinirlendim!
-ara	tur	أنا في المكتبة.	Ben kütüphanedeyim.
-ara	tur	أنا في قاعة الإنتظار.	Bekleme salonundayım.
-ara	tur	أنا قاس	Ben katıyım.
 ara	tur	انا لا اجعلك تعمل شيء	Sana bir şey yaptırmıyorum.
-ara	tur	أنا لا أعرف احدا من إخوته.	Onun erkek kardeşlerinden herhangi birini tanımıyorum.
-ara	tur	أنا لا أعرف مفتاح النجاح، لكن مفتاح الفشل هو محاولة ارضاء الجميع .	Ben başarının anahtarını bilmiyorum ancak başarısızlığın anahtarı herkesi hoşnut etmeye çabalamaktır.
-ara	tur	أنا لا أفاوض.	Ben görüşmem.
-ara	tur	أنا لا أفكر أن ذلك مهم.	Bunun önemli bir şey olduğunu düşünmüyorum.
-ara	tur	أنا لا آكل.	Yemiyorum.
-ara	tur	إن الحاسوب في المكتبة.	Bilgisayar kütüphanededir.
 ara	tur	ان الرجال هم سبب عدم حب النساء لبعضنّ البعض	Kadınların birbirlerini sevmemelerinin nedeni erkeklerdir.
-ara	tur	أنا لست بخبير.	Ben uzman değilim.
-ara	tur	أنا لست جائعا على الإطلاق.	Ben hiç aç değilim.
-ara	tur	أنا لست خبيرا.	Ben uzman değilim.
-ara	tur	إن النساء يغيرن العالم.	Dünyayı kadınlar değiştirecek.
-ara	tur	أنا متأكد من أن توم لم ينسَ وعده.	Tom'un sözünü unutmadığından eminim.
-ara	tur	أنا مترجم	Ben bir tercümanım.
-ara	tur	أنا متعب.	Ben yorgunum.
-ara	tur	أنا متعب. أعتقد أنني سأخلد إلى السرير.	Çok yorgunum; Sanırım yatacağım.
-ara	tur	أنا متعبة جدا اليوم.	Bugün çok yorgunum.
-ara	tur	أنا مُرهق.	Çok yoruldum.
-ara	tur	أنا مريض.	Hastayım.
-ara	tur	أنا مستعد للأسوء	En kötüsüne hazırım.
-ara	tur	أنا مشغول مثل النحلة	Bir arı gibi meşgulüm.
 ara	tur	انا مضطر أن أؤجل الاجتماع.	Toplantıyı ertelemek zorundayım.
-ara	tur	أنا ممتنع عن شرب الكحول	İçmekten kaçınırım.
-ara	tur	أنا ممتن لك لاستضافتك إياي في الحفلة.	Beni partiye davet ettiğin için minnettarım.
-ara	tur	أنا من أُستراليا.	Ben Avustralyalıyım.
 ara	tur	انا مهتم بالأدب الامريكي.	Amerikan Edebiyatı ile ilgileniyorum.
-ara	tur	أنا نادم	Pişmanım.
-ara	tur	أنا هنا كصديق.	Arkadaş olarak buradayım.
-ara	tur	أنا وتوم هنا لمساعدتك.	Tom ve ben size yardımcı olmak için buradayız.
-ara	tur	أنت بالغ	Sen bir yetişkinsin.
 ara	tur	انتبه الى حقائبي	Valizlerime dikkat et.
-ara	tur	أنت بيضاء كالورق.	Bir çarşaf kadar beyazsın.
-ara	tur	أنت تتلاعب بي.	Beni manipüle ediyorsun.
-ara	tur	أنتَ تكره_ أنتِ تكرهين أفلام الرعب، أليس كذلك؟	Sen korku filmlerini sevmiyorsun, değil mi?
-ara	tur	أنت تهزأ بي,أليس كذلك؟	Benimle alay ediyorsun, değil mi?
 ara	tur	انت حياتي.	Hayatımsın.
-ara	tur	أنت صديق رائع.	Sen harika bir arkadaşsın.
 ara	tur	انتظرت توم لوقت طويل.	Uzun süre Tom'u bekledim.
 ara	tur	انتظرني	Bekle beni!
-ara	tur	أنت عرضة للنسيان.	Unutkanlığa yatkınsın.
-ara	tur	أن تعيش هو أن تشعر	Yaşamak hissetmektir.
-ara	tur	أنت في القطار الخطأ.	Yanlış trendesin.
-ara	tur	أنت قاس	Sen katısın.
 ara	tur	انتقم لموت أبيه.	Babasının ölümünün intikamını aldı.
-ara	tur	أنت كريمٌ جداً.	Çok cömertsin.
-ara	tur	أنتُما الإثنان تعالا إلى هنا.	Siz ikiniz buraya gelin.
 ara	tur	انت مخطئ في هذه الحالة	Bu durumda, sen yanılıyorsun.
 ara	tur	انت مخطئ في هذه الحالة	Bu durumda yanılıyorsunuz.
-ara	tur	أنت مصور ذكي.	Sen zeki bir fotoğrafçısın.
-ara	tur	أنتم في القطار الخطأ.	Yanlış trendesiniz.
 ara	tur	انت نور عيوني ... وتاج راسي.	Gözümün nuru, başımın tacısın.
 ara	tur	انتهى المؤتمر عند الخامسة.	Konferans saat beşte bitti.
-ara	tur	أنتَ يمكنك الرقص, أليس كذلك؟	Dans edebilirsin, öyle değil mi?
-ara	tur	أن جد ممتن لمساعدتك	Yardımınız için size çok minnettarım.
-ara	tur	أنجزت مهمتها.	O, vazifesini yaptı.
 ara	tur	انشر الخبر	Haberi yay!
-ara	tur	أنظر إلى الخارطة.	Haritaya bakıyorum.
 ara	tur	انظر إلى الصورة.	Resme bak.
-ara	tur	إنك لا تنصت مطلقاً. من الأفضل لي أن أتحدث إلى الجدار.	Asla dinlemiyorsun. Duvara konuşsam daha iyi.
-ara	tur	إنّما الأعمال بالنيّات	Ameller niyetlere göredir.
-ara	tur	إن مريم وتوم عاشقين منذ الصف الثامن.	Meryem ve Tom sekizinci sınıftan beri birbirlerine aşık.
 ara	tur	اننا ذاهبون إلى سينما ، فتعال معنا.	Sinemaya gidiyoruz. Gel bizimle.
-ara	tur	إنها تأمل أن تصبح مصممة أزياء.	Moda tasarımcısı olmayı umuyor.
-ara	tur	إنها تحب أن تمشي معي.	O benimle yürümekten hoşlanır.
-ara	tur	إنها جارتنا.	O bayan bizim komşumuz.
-ara	tur	إنها حادة الذكاء.	O bir deha.
-ara	tur	إنه اختلاف.	O bir anlaşmazlıktı.
-ara	tur	إنه آخر شخصٍ أود رؤيته.	O, görmek istediğim son adamdır.
 ara	tur	انها صورة جميلة.	O güzel bir resim.
-ara	tur	إنها مشغولة في كتابة الرسائل.	O, mektupları yazmakla meşguldü.
 ara	tur	انه جميل لكن لا اظن انه يكون مناسب للسرير	O güzel ama yatakta çok iyi olduğunu sanmıyorum.
-ara	tur	إنه ذكي في صنع الأعذار	Bahane uydurmada zekidir.
-ara	tur	إنه فوقك تماما.	O tam senin üzerinde.
-ara	tur	إنه في مكتبته.	O, kütüphanesindedir.
-ara	tur	إنه لا يفهمك .	O seni anlamıyor.
-ara	tur	إنهم إناس بالغون	Onlar yetişkin insanlar.
-ara	tur	إنهم بالغون	Onlar yetişkindiler.
-ara	tur	إنهم على وشك الرحيل	Gitmek üzereler.
-ara	tur	إنه ولد في قرية صغيرة في جنوب تركيا.	Türkiye'nin güneyinde küçük bir köyde doğdu.
 ara	tur	انهيت الباقة اليومية المحددة من الرسائل	Günlük mesaj limitimin sonuna geldim.
-ara	tur	إنهُ يتحدث على الهاتف.	Telefonla konuşuyor.
-ara	tur	إنه يرمي الأوراق في الهواء	O kağıtları havaya atıyor.
-ara	tur	إنه يشرب كأساً من الماء كل صباح.	O her sabah bir bardak su içer.
-ara	tur	إنه يعرف أسماء كل زبائنه.	O tüm müşterilerinin adlarını bilir.
-ara	tur	إنّي أبوك.	Ben senin babanım.
-ara	tur	إني أستفرغ	İstifra ediyorum.
-ara	tur	إني أصلي	Dua ediyorum.
-ara	tur	إني أكتب مقالا.	Bir makale yazıyorum.
-ara	tur	أهدافي متواضعة.	Benim hedeflerim mütevazi.
 ara	tur	اهدِنَا الصِّرَاطَ المُستَقِيمَ صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ الضَّالِّين .	Hidayet eyle bizi doğru yola, o kendilerine nimet verdiğin mutlu kimselerin yoluna; o gazaba uğramışların ve o sapmışların yoluna değil.
-ara	tur	أودّ العودة إلى بوسطن.	Ben Boston'a geri gitmek isterim.
-ara	tur	أود النزول في الجادة الخامسة	Beşinci caddede inmek istiyorum.
-ara	tur	أودُ أن أدعوكَ إلى الحفلة.	Sizi partiye davet etmek istiyorum.
-ara	tur	أودُ أن أدعوكي إلى الحفلة.	Sizi partiye davet etmek istiyorum.
-ara	tur	أود أن أذهب إلى الحفل.	Törene gitmek istiyorum.
-ara	tur	أود أن أساعد	Yardım etmek istiyorum.
-ara	tur	أود تغيير حجزي	Rezervasyonumu değiştirmek istiyorum.
-ara	tur	أوصلني حتى القصر.	O, saraya kadar bana rehberlik yaptı.
-ara	tur	أوقِفُوا القطار!	Treni durdurun.
-ara	tur	أيّاً كان فلا تقل اسمي.	Ne olursa olsun adımı söyleme.
-ara	tur	إيطاليا بلد جميل جدا.	İtalya çok güzel bir ülke.
-ara	tur	أيمكنك إغلاق هذه النافذة من فضلك؟	Pencereyi kapatmanız mümkün mü?
-ara	tur	أيمكنك التحقق من ضغط الإطار؟	Lastik basıncını kontrol eder misin?
-ara	tur	أيمكننا الوثوق بك؟	Size güvenebilir miyim?
-ara	tur	أيمكنني استعارة مضربك للتنس اليوم؟	Bugün senin tenis raketini ödünç alabilir miyim?
-ara	tur	أيمكنني أن أكلم الطبيب؟	Ben doktorla konuşabilir miyim?
-ara	tur	إيمي فتاة حسنة.	Emi iyi bir kız.
-ara	tur	أين أخي؟	Erkek kardeşim nerede?
-ara	tur	أين الأحذية؟	Ayakkabılar nerede?
-ara	tur	أين الحبل؟	İp nerede?
-ara	tur	أين الحمام؟	Tuvalet nerede?
-ara	tur	أين تركت حذاءك؟	Ayakkabılarını nerede bıraktın?
-ara	tur	أين تعمل؟	O nerede çalışıyor?
-ara	tur	أين رأيته?	Onu nerede gördün?
-ara	tur	أين عربات الأمتعة؟	Bagaj arabaları nerede?
-ara	tur	أين كان الخطأ؟	Hata neredeydi?
-ara	tur	أين كنت؟	Neredeydin?
-ara	tur	أين مظلّتك?	Şemsiyen nerede?
 ara	tur	اي يوم من ايام هذا الاسبوع سوف تتحقق ؟	Bu, haftanın hangi günleri gerçekleşiyor?
 ara	tur	باراك الله عليك.	Allah sana bereket versin.
 ara	tur	بالتأكيد لا أريد أن أفعل ما قام بفعله توم قبل قليل.	Kesinlikle Tom'un az önce yaptığını yapmak istemem.
@@ -446,8 +446,8 @@ ara	tur	توقفت سيارة عند المدخل.	Girişte bir araba durdu.
 ara	tur	توقفت لوحة المفاتيح عن العمل.	Klavye çalışmayı durdurdu.
 ara	tur	توقف عن القراءة.	Okumaktan vazgeç.
 ara	tur	توقف عن اللهو	Aylaklık etmekten vazgeç.
-ara	tur	توم ابن حرام محظوظ	Tom şanslı bir piç.
 ara	tur	توم إنتهى الثاني.	Tom ikinci geldi.
+ara	tur	توم ابن حرام محظوظ	Tom şanslı bir piç.
 ara	tur	توم بالغ	Tom bir yetişkin.
 ara	tur	توم جعلني اقسم يمين ان لا أقول شيئ	Tom bir şey söylememem için bana yemin ettirdi.
 ara	tur	توم حُرٌ.	Tom özgürdür
@@ -552,8 +552,6 @@ ara	tur	سآتيك بتوم.	Tom'u sana getireceğim.
 ara	tur	سأجرّب.	Deneyeceğim.
 ara	tur	سأجعل هؤلاء ينتظرون خارج الباب .	Onları kapının dışında tutacağım.
 ara	tur	سأضيف شيء ما من اجلك	Senin için bir şey ekleyeceğim.
-ara	tur	ساعد نفسك و سيساعدك الله.	Sen kendine yardım et, Allah da sana yardım edecektir.
-ara	tur	ساعدني في تنظيف البيت من فضلك.	Evi temizlemem için lütfen bana yardım et.
 ara	tur	سأفعل ما تريد.	İstediğin gibi yapacağım.
 ara	tur	سأفعل ما تطلبه.	İstediğin gibi yapacağım.
 ara	tur	سأفعل ما طلبته.	İstediğin gibi yapacağım.
@@ -565,11 +563,16 @@ ara	tur	سأل ديما وفي صوته لمحة من غضب: "نوبز؟ هذه
 ara	tur	سألعب معك.	Seninle oynayacağım.
 ara	tur	سألني توم عن حقيقة المشكلة.	Tom bana sorunun ne olduğunu sordu.
 ara	tur	سأمهلك حتّى الغدّ.	Sana yarına kadar mühlet veriyorum.
+ara	tur	سأنتقم منك ولو كلفني ذلك ما تبقى من عمري.	Ömrümün geri kalanını alsa bile senden intikamımı alacağım.
+ara	tur	سأوصل الصندوق.	Kutuyu teslim edeceğim.
+ara	tur	سئمت من أعذارك	Bahanelerinden usandım.
+ara	tur	سئمت من سماع حكايات تبجحك.	Senin övüngen masallarını dinlemekten bıktım.
+ara	tur	سئمت من سماع حكايات مدح نفسك.	Senin övüngen masallarını dinlemekten bıktım.
+ara	tur	ساعد نفسك و سيساعدك الله.	Sen kendine yardım et, Allah da sana yardım edecektir.
+ara	tur	ساعدني في تنظيف البيت من فضلك.	Evi temizlemem için lütfen bana yardım et.
 ara	tur	سامي انزل سلاحه	Sami silahını indirdi.
 ara	tur	سامي ليس جديرا بالثقة.	Sami güvenilir değildi.
 ara	tur	سانتظرك.	Seni bekledim.
-ara	tur	سأنتقم منك ولو كلفني ذلك ما تبقى من عمري.	Ömrümün geri kalanını alsa bile senden intikamımı alacağım.
-ara	tur	سأوصل الصندوق.	Kutuyu teslim edeceğim.
 ara	tur	ستتزوّج برجل ثريّ.	Zengin bir adamla evlenecek.
 ara	tur	ستفهم ذلك يوما ما.	Birgün bunu anlayacaksın.
 ara	tur	ستندم	Pişman olacaksın!
@@ -584,13 +587,10 @@ ara	tur	سنساعده إن طلب منا.	Eğer isterse ona yardım edeceğiz.
 ara	tur	سنلتقي بهم الليلة.	Bu gece onlarla buluşacağım.
 ara	tur	سوفَ أسمح لكَ أن تذهب.	Gitmene izin vereceğim.
 ara	tur	سوفَ أسمح لكِ ان تذهبي.	Gitmene izin vereceğim.
-ara	tur	سوف تكتب رسالة بعد المدرسة.	Okuldan sonra bir mektup yazacak.
 ara	tur	سوف تؤتي جهودهم ثمارها بالفعل	Çabanız mutlaka sonuç verecek.
+ara	tur	سوف تكتب رسالة بعد المدرسة.	Okuldan sonra bir mektup yazacak.
 ara	tur	سوف نجربه.	Bunu deneyeceğiz.
 ara	tur	سوف نضيع ، أليس كذلك ؟	Kaybedeceğiz, değil mi?
-ara	tur	سئمت من أعذارك	Bahanelerinden usandım.
-ara	tur	سئمت من سماع حكايات تبجحك.	Senin övüngen masallarını dinlemekten bıktım.
-ara	tur	سئمت من سماع حكايات مدح نفسك.	Senin övüngen masallarını dinlemekten bıktım.
 ara	tur	سيأخذ دقيقة من وقتك فقط.	Bu yalnızca bir dakika alır.
 ara	tur	سيقبل الناس فكرتك أسرع إن أخبرتهم أن بنجامين فرانكلن قالها أولا.	Onu daha önce Benjamin Franklin'in söylediğini söylersen, insanlar senin fikrini daha çabuk kabul edeceklerdir.
 ara	tur	سيمكننا هذا من كسب بعض الوقت.	Bu bize biraz zaman kazandırmalı.
@@ -617,10 +617,11 @@ ara	tur	عرض كلاود بيرون في مقالته "الإسبرانتو: ل
 ara	tur	عرفته مباشرة.	Onu hemen tanıdım.
 ara	tur	عرفنا من مصدر موثوق به.	Güvenilir kaynaklardan onun hakkında bilgi edindim.
 ara	tur	علم الفلك هو علم الكون.	Astronomi gezegen bilimidir.
-ara	tur	عليّ الذهاب إلى النوم.	Uyumam lazım.
-ara	tur	على الرغم من ثرائها إلا أنها لا تبدو سعيدة .	Sağlıklı olmasına rağmen mutlu görünmüyor.
-ara	tur	عليّ أن أبدأ.	Başlamalıyım.
 ara	tur	على أي سرير تريد أن تنام؟	Uyumak için hangi yatağı istersin?
+ara	tur	على الرغم من ثرائها إلا أنها لا تبدو سعيدة .	Sağlıklı olmasına rağmen mutlu görünmüyor.
+ara	tur	على واحد منكما أن يذهب إلى هناك.	İkinizden biri oraya gitmek zorunda olacak.
+ara	tur	عليّ أن أبدأ.	Başlamalıyım.
+ara	tur	عليّ الذهاب إلى النوم.	Uyumam lazım.
 ara	tur	عليك أن تأخذ ما تريد.	İstediğini almalısın.
 ara	tur	عليك أن تساعد	Yardım etmek zorundasın.
 ara	tur	عليك أن تنظّف غرفتك.	Odanı temizlemelisin.
@@ -630,7 +631,6 @@ ara	tur	علينا أن نتّبع مثاله.	Onun örneğini takip etmeliyiz.
 ara	tur	علينا أن نجد طريقا آخر.	Başka yol bulmak zorundayız.
 ara	tur	علينا أن نساعد	Yardım etmek zorundayız.
 ara	tur	عليهم عمل الشيء ذاته.	Onlar aynı şeyi yapmalı.
-ara	tur	على واحد منكما أن يذهب إلى هناك.	İkinizden biri oraya gitmek zorunda olacak.
 ara	tur	عملت جيدا بامتحان الفرنسي	Fransızca sınavımda iyi yaptım.
 ara	tur	عملت غلطة كبيرة بالفحص	Testte kötü bir hata yaptım.
 ara	tur	عمل تقدم قليل بالغة الإنكيزية	O, İngilizcesinde az gelişme yaptı.
@@ -659,9 +659,9 @@ ara	tur	فلندعوا. ألا يحدث شيء لماري	Dua edelim; Mary'e bir
 ara	tur	فلنستمع لحجتك	Bahaneni duyalım.
 ara	tur	فلنكن صرحاء.	Dürüst olalım.
 ara	tur	فنجانا قهوة بالحليب من فضلك.	İki sütlü kahve, lütfen.
+ara	tur	في أي دور تسكن؟	Hangi katta oturuyorsun?
 ara	tur	في المكتبة.	Kütüphanede.
 ara	tur	في النمسا هناك الكوالا‎.	Avusturya'da koala var.
-ara	tur	في أي دور تسكن؟	Hangi katta oturuyorsun?
 ara	tur	في فصل الخريف تصبح الأوراق بنية	Sonbaharda yapraklar kahverengiye döner.
 ara	tur	في محلين فاضيين	İki koltuk boş.
 ara	tur	قابلته في طريقي إلى المنزل.	Eve dönerken onunla karşılaştım.
@@ -675,10 +675,10 @@ ara	tur	قال توم أنه تفاجئ حقا.	Tom gerçekten şaşırdığın�
 ara	tur	قال توم أنه كان حقا سعيدا.	Tom gerçekten memnun olduğunu söyledi.
 ara	tur	قال توم أنه كان حقا مُتأثرا.	Tom gerçekten etkilendiğini söyledi.
 ara	tur	قال توم أنه كان حقا مرهقا.	Tom gerçekten bitkin olduğunu söyledi.
-ara	tur	قال توم إنه كان حقا مُشكِّكًا.	Tom gerçekten şüpheci olduğunu söyledi.
 ara	tur	قال توم أنه كان حقا مضطربًا.	Tom gerçekten tedirgin olduğunu söyledi.
 ara	tur	قال توم أنه كان حقا يائسًا.	Tom gerçekten umutsuz olduğunu söyledi.
 ara	tur	قال توم أنه متعبٌ لكنه سعيد.	Tom yorgun ama mutlu olduğunu söyledi.
+ara	tur	قال توم إنه كان حقا مُشكِّكًا.	Tom gerçekten şüpheci olduğunu söyledi.
 ara	tur	قال توم بأنه رأى ماري البارحة.	Dün Tom Mary'yi gördüğünü söyledi.
 ara	tur	قال توني: لا أعلم.	Tony dedi ki: bilmiyorum.
 ara	tur	قال لي توم أن كل شيء جاهز.	Tom bana her şeyin hazır olduğunu söyledi.
@@ -699,6 +699,7 @@ ara	tur	قلت أني كنت وحيدا، أليس كذلك؟	Yalnız olduğumu 
 ara	tur	قلت عجلوا.	Çabuk ol dedim ya!
 ara	tur	قل لي من اكتشف الهواء	Bana havaya kimin keşfettiğini söyle.
 ara	tur	قمت باختيار قبعة جديدة من المحل	Mağazada yeni bir şapka seçtim.
+ara	tur	كائن من يكون الذي يمر يجب ان لاتفتح له الباب	Kim uğrarsa uğrasın, kapıyı açmamalısın.
 ara	tur	كادت ماري أن تقتل توم ضرباً.	Mary, Tom'u öldüresiye dövüyordu
 ara	tur	كان الثلج يتساقط طوال الليل.	Bütün gece kar yağıyordu.
 ara	tur	كان السير خانقاً ، فتأخرت على الإجتماع.	Trafik çok kalabalıktı. Toplantıya geç kaldım.
@@ -725,7 +726,6 @@ ara	tur	كان يأتي إلى هنا كي يتلقّ العلاج.	Tedavi olmak
 ara	tur	كان يجب أن لا ألعب خارجاً في المطر	Yağmurda dışarıda oynamamalıydım.
 ara	tur	كان يمكن أن يكون في أي مكان.	Her yerde olabilirdi.
 ara	tur	كَانَ يَهُوداً في دُوَلٍ عَرَبيَّةٍ قَبلَ تَقسِيمِ فَلَسطِينِ.	Arap ülkelerinde Filistin'in bölünmesinden önce Yahudiler vardı.
-ara	tur	كائن من يكون الذي يمر يجب ان لاتفتح له الباب	Kim uğrarsa uğrasın, kapıyı açmamalısın.
 ara	tur	كتير صعب عليي فيق قبل الستة	Benim için altıdan önce kalkmak zor.
 ara	tur	كثيراً ما تشرب أختي الكبرى الشاي بالحليب.	Ablam sık sık sütlü çay içer.
 ara	tur	كرمك مقدر	Cömertliğin takdir edilmektedir.
@@ -782,23 +782,24 @@ ara	tur	كيفَ سنسدد ديوننا الآن؟	Borcumuzu nasıl ödeyeceği
 ara	tur	كيف علمت أن أخاك يعيش هناك	Kardeşinin orada yaşadığını nasıl öğrendin?
 ara	tur	كيف فكرت بهذه الفكرة المجنونة؟	Bu çılgın fikri nasıl buldun?
 ara	tur	كيفما حسبتها، سنصل قبلهم.	Büyük olasılıkla, onlardan önce varacağız.
+ara	tur	لأن الكلاب أكثر وفاء من القطط.	Çünkü köpekler kedilerden daha sadıktır.
 ara	tur	لا.	Hayır.
 ara	tur	لا أتكلم الألمانية.	Almanca konuşmuyorum.
 ara	tur	لا أثق بالخياط.	Terziye güvenmiyorum.
+ara	tur	لا أحب أن أكون محكوما	Kontrol edilmekten hoşlanmam.
 ara	tur	لا أحب الآفلين.	Batan şeyleri sevmem.
 ara	tur	لا أحب الآفلين.	Ben batanları sevmem.
-ara	tur	لا أحب أن أكون محكوما	Kontrol edilmekten hoşlanmam.
 ara	tur	لا أحب مدرستي.	Okulumu sevmiyorum.
 ara	tur	لا أحد يدعوها ليلا. الكل يدعوها "أمي"	Kimse ona Leyla demez. Herkes ona "anne" der.
 ara	tur	لا أحد يعرف.	Kimse bilmiyor.
 ara	tur	لا أحد يقرأ مدونتي	Hiç kimse bloğumu okumuyor.
 ara	tur	لا أخاف من العناكب	Örümceklerden korkmam.
 ara	tur	لا أرتعب من العناكب	Örümceklerden korkmuyorum.
+ara	tur	لا أرى مشكلةً بذلك.	Bununla ilgili bir sorun görmüyorum.
 ara	tur	لا أريد البقاء لوحدي.	Yalnız olmanı istemiyorum.
 ara	tur	لا أريد البقاء وحيدا.	Yalnız olmanı istemiyorum.
 ara	tur	لا أريد الرحيل	Gitmek istemiyorum.
 ara	tur	لا أريد مشاهدة ذلك الفيلم	O filmi seyretmek istemiyorum.
-ara	tur	لا أرى مشكلةً بذلك.	Bununla ilgili bir sorun görmüyorum.
 ara	tur	لا أستطيع أن أساعدك حالا.	Sana hemen yardım edemem.
 ara	tur	لا أستطيع أن أفهم أي نوع من الأشخاص هو	Bu kişilerden hiçbir şey anlayamıyorum.
 ara	tur	لا أستطيع ان اقول الفرق بينهم	Onların arasındaki farkı söyleyemem.
@@ -811,6 +812,7 @@ ara	tur	لا إله إلا الله محمد رسول الله.	Allah'tan başka
 ara	tur	لا اهتم بما يقوله الآخرون.	Başkalarının dediklerini umursama
 ara	tur	لا بد أن تشاهد هذا الفيلم	Bu filmi seyretmek zorundasın.
 ara	tur	لا بد أنه غبي ليقوم بشيء كهذا.	Böyle bir şey yapmak için aptal olmalı.
+ara	tur	لا تؤجل عمل اليوم إلى الغد.	Bugünün işini yarına bırakma!
 ara	tur	لا تُبالِغ.	Abartma.
 ara	tur	لا تتكلم في غرفة القراءة.	Okuma odasında konuşma.
 ara	tur	لا تتكلم في غرفة المطالعة.	Okuma odasında konuşma.
@@ -829,9 +831,7 @@ ara	tur	لا تقلق. يمكنك أن تثق بي.	Merak etme. Bana güvenebili
 ara	tur	لا تكن ولداً سيئاً.	Kötü bir çocuk olma.
 ara	tur	لا تنسنا.	Bizi unutma!
 ara	tur	لا توجد تلميذة من الفتياة	Kızlardan hiçbiri öğrenci değil.
-ara	tur	لا تؤجل عمل اليوم إلى الغد.	Bugünün işini yarına bırakma!
 ara	tur	لا ليس حقا.	Hayır, gerçek değil.
-ara	tur	لأن الكلاب أكثر وفاء من القطط.	Çünkü köpekler kedilerden daha sadıktır.
 ara	tur	لا نعلم كلمات الأغنية	Şarkının sözlerini bilmiyorum.
 ara	tur	لا يبدو المكيف أنه يعمل.	Klima çalışıyor gibi görünmüyor.
 ara	tur	لا يحترق البلاستيك بسهولة.	Plastik kolayca yanmaz.
@@ -841,8 +841,8 @@ ara	tur	لا يطيق صبرا ليراك.	Seni görmek için sabırsızlanıyor
 ara	tur	لا يعرفون عنواني	Adresimi bilmiyorlar.
 ara	tur	لا يمكن أن يُتلاعب بي.	Ben manipüle edilmem.
 ara	tur	لا يمكن توم تحملها	Tom buna katlanamaz.
-ara	tur	لا يمكنني السماح بذلك.	Muhtemelen ona izin veremem.
 ara	tur	لا يمكنني أن أتحدث الفرنسية على الإطلاق.	Hiçbir şekilde Farsça konuşamıyorum.
+ara	tur	لا يمكنني السماح بذلك.	Muhtemelen ona izin veremem.
 ara	tur	لا يمكنني تصديق ذلك!	İnanmıyorum!
 ara	tur	لا ينبغي لتوم أن يكون خارجا حتى وقت متأخر.	Tom geç saatlere kadar dışarıda kalmamalıydı.
 ara	tur	لا ينكسر البلاستيك بسهولة.	Plastik kolay kırılmaz.
@@ -852,9 +852,9 @@ ara	tur	لا يوجد أسئلة حول هذا!	Bunun hakkında bir soru yok.
 ara	tur	لا يوجد تعقّل زائد عن الحاجة.	Sağduyu asla çok fazla değildir.
 ara	tur	لا يوجد دخان من غير نار.	Ateş olmayan yerden duman çıkmaz.
 ara	tur	لا يوجد ما يمكن التفاوض عليه.	Müzakere edilecek hiçbir şey yok.
+ara	tur	لدى توم زوجة وولد صغير.	Tom'un bir eşi ve küçük bir çocuğu var.
 ara	tur	لدي الكثير من الأشياء الأخرى أريد القيام بها.	Yapmak istediğim bir sürü başka şeyler var.
 ara	tur	لدي الكثير من الواجبات هذا اليوم.	Bugün, çok fazla ödevim var.
-ara	tur	لدى توم زوجة وولد صغير.	Tom'un bir eşi ve küçük bir çocuğu var.
 ara	tur	لديك خياران. ساو باولو أو ريو ديجينيرو	İki seçeneğin var. Sao Paulo ve Rio de Janeiro.
 ara	tur	لدي كلب لونه أسود واسمه تيكي.	Benim bir köpeğim var. Rengi siyah ve ismi Tiki.
 ara	tur	لديك مستقبل مشرق.	Senin parlak bir geleceğin var.
@@ -871,8 +871,8 @@ ara	tur	لست نادم على ما فعلت	Yaptığıma pişman değilim.
 ara	tur	لقد أصبح حاقداً بعض الشيء بعد ترك زوجته له.	O, karısı onu terk ettikten sonra oldukça kindar oldu.
 ara	tur	لقد أعطيتك معلومات أكثر مما ينبغي.	Zaten sana çok fazla bilgi verdim.
 ara	tur	لقد أقلعت عن التدخين	Sigara içmekten vazgeçtim.
-ara	tur	لقد انفصلنا.	Ayrıldık.
 ara	tur	لقد أهنت	Rencide edildim.
+ara	tur	لقد انفصلنا.	Ayrıldık.
 ara	tur	لقد ترقيت	Terfi edildim.
 ara	tur	لقد حدث هذا منذ زمن طويل.	O uzun zaman önce oldu.
 ara	tur	لقد حدث هذا منذ وقت طويل.	O uzun zaman önce oldu.
@@ -880,10 +880,20 @@ ara	tur	لقد سئمت من أعذارك يا "توم"	Bahanelerinden bıktım,
 ara	tur	لقد شفيت	Tedavi edildim.
 ara	tur	للصراحة هذه ليست بالادق صحيحة	Aslında bu oldukça doğru değil.
 ara	tur	لم أجد طريقة أخرى لأخبرك بذلك.	Bunu sana anlatmanın başka yolunu bulamadım.
+ara	tur	لم أستطع إنهائها.	Bunu bitiremedim.
+ara	tur	لم أستطع اللحاق بالقطار.	Trene yetişemedim.
+ara	tur	لم أصدُق معك تماما.	Sana tamamen inanmıyorum.
+ara	tur	لم أفعل ذلك الشيء من أجله.	Ben onu, onun için yapmadım.
+ara	tur	لم أفعل ذلك الشيء من أجلها.	Ben onu, onun için yapmadım.
+ara	tur	لم أكن أريد الذهاب	Gitmek istemedim.
+ara	tur	لم أنت عابس؟	Neden somurtuyorsun?
+ara	tur	لم أندم أبدا على أي شيء فعلته.	Yaptığım şeylerde asla pişmanlık duymadım.
+ara	tur	لم أولد هنا لكن امضيت معظم طفولتي هنا	Burada doğmadım ama bütün çocukluğumu burada geçirdim.
+ara	tur	لم أولد هنا لكن امضيت معظم طفولتي هنا	Burada doğmadım fakat çocukluğumun çoğunu burada geçirdim.
 ara	tur	لماذا أبي في المطبخ؟	Babam neden mutfakta?
-ara	tur	لماذا السماء زرقاء؟	Gökyüzü neden mavidir?
 ara	tur	لماذا أنت غاضب إلى هذا الحد هذه الليلة؟	Bu gece neden bu kadar sinirlisin?
 ara	tur	لماذا أنت مذنِب؟	Sen neden suçlusun?
+ara	tur	لماذا السماء زرقاء؟	Gökyüzü neden mavidir?
 ara	tur	لماذا تبكين, يا حبيبتي؟	Aşkım! Neden ağlıyorsun?
 ara	tur	لماذا تبكين, يا عزيزتي؟	Canım! Neden ağlıyorsun?
 ara	tur	لماذا تَرْجَمْتَ هذه الجملة؟	Neden bu cümleyi çevirdin?
@@ -894,16 +904,6 @@ ara	tur	لماذا لا أستطيع الاستماع	Ben neden duyamıyorum?
 ara	tur	لماذا لا تحبني	Niçin beni sevmiyorsun?
 ara	tur	لماذا لم تخبرني عن ماري؟	Bana neden Mary'yi anlatmadın?
 ara	tur	لماذا يريد توم التحدث معي؟	Tom neden benim ile konuşmak istiyor?
-ara	tur	لم أستطع اللحاق بالقطار.	Trene yetişemedim.
-ara	tur	لم أستطع إنهائها.	Bunu bitiremedim.
-ara	tur	لم أصدُق معك تماما.	Sana tamamen inanmıyorum.
-ara	tur	لم أفعل ذلك الشيء من أجله.	Ben onu, onun için yapmadım.
-ara	tur	لم أفعل ذلك الشيء من أجلها.	Ben onu, onun için yapmadım.
-ara	tur	لم أكن أريد الذهاب	Gitmek istemedim.
-ara	tur	لم أنت عابس؟	Neden somurtuyorsun?
-ara	tur	لم أندم أبدا على أي شيء فعلته.	Yaptığım şeylerde asla pişmanlık duymadım.
-ara	tur	لم أولد هنا لكن امضيت معظم طفولتي هنا	Burada doğmadım ama bütün çocukluğumu burada geçirdim.
-ara	tur	لم أولد هنا لكن امضيت معظم طفولتي هنا	Burada doğmadım fakat çocukluğumun çoğunu burada geçirdim.
 ara	tur	لم تأتِ بعد.	O henüz gelmedi.
 ara	tur	لم حدث ذلك؟	Bu neden oldu?
 ara	tur	لِمَ لَم تأكل حلواك؟	Neden çikolatanı yemedin?
@@ -921,11 +921,11 @@ ara	tur	لم يكن توم يستمع.	Tom dinlemiyordu.
 ara	tur	لم يكن هذا ما أردت سماعه.	Duymak istediğim bu değildi.
 ara	tur	لم ينطق و لم يبك ، بل خرج ساكنا.	O, ne konuştu nede ağladı, sessizce dışarı çıktı.
 ara	tur	لم ينقاش توم عمله مع ماري بتاتا.	Tom işini Mary ile asla tartışmaz.
-ara	tur	لن اتحرك.	Hareket etmeyeceğim.
 ara	tur	لن آخذ هؤلاء الى الداخل .	Onları içeriye almayacağım.
 ara	tur	لن أسامح نفسي إن حدث شيء لتوم.	Tom'a bir şey olduysa kendimi asla affetmeyeceğim.
 ara	tur	لن أستطيع القدوم غدا.	Yarın gelemeyeceğim.
 ara	tur	لن أفعلها ثانيةً.	Onu bir daha yapmayacağım.
+ara	tur	لن اتحرك.	Hareket etmeyeceğim.
 ara	tur	لن تتأخر، أليس كذلك؟	Geç kalmayacaksın, değil mi?
 ara	tur	لنتحدث حول السعادة.	Mutluluk hakkında konuşalım.
 ara	tur	لن تستطيع اللحاق بالقطار.	Trene yetişemeyeceksiniz.
@@ -960,6 +960,7 @@ ara	tur	ليس هناك وقت للأسئلة.	Sorular için zaman yok.
 ara	tur	ليلة سعيدة!	İyi geceler!
 ara	tur	ليلة سعيدة.	İyi geceler.
 ara	tur	ليلة سعيدة يا أُم.	İyi geceler, anne.
+ara	tur	مؤلف الكتاب لساته صغير بالعمر	Bu kitabın yazarı hâlâ genç.
 ara	tur	ما الرياضة التي تفضل مشاهدتها؟	Seyretmek için favori sporun nedir?
 ara	tur	ما الفرق بين الكمان والبيانو؟ البيانو يحترق مدة أطول.	Keman ve piyano arasındaki fark nedir? Piyano daha uzun süre yanar.
 ara	tur	مات توم في ٢٠١٣.	Tom 2013'te öldü.
@@ -1031,7 +1032,6 @@ ara	tur	من يحب الورود يتحمل شوكها.	Gülü seven dikenine ka
 ara	tur	من يقرا كثـيراً يـعرِف كثــيراً.	Çok okuyan çok bilir.
 ara	tur	من يملك هذه الفِلّا؟	Bu villanın sahibi kim?
 ara	tur	مَوقِفي أقنَعَهُم.	Benim tavrım onları ikna etmişti.
-ara	tur	مؤلف الكتاب لساته صغير بالعمر	Bu kitabın yazarı hâlâ genç.
 ara	tur	نبدأ الدروس يوم الإثنين القادم.	Derslere önümüzdeki pazartesi başlıyoruz.
 ara	tur	نترجم الجمل إلى اللغات الأخرى.	Biz, cümleleri başka dillere tercüme ediyoruz.
 ara	tur	نتفلكس متوفر الآن في أروبا.	Netflix artık Avrupa'da kullanılabilir.
@@ -1058,6 +1058,7 @@ ara	tur	نشيط كالنمل.	Karınca gibi çalışın.
 ara	tur	نظر توم الى محفظته	Tom ajandaya baktı.
 ara	tur	نعم، سيكفي الحليب حتى يوم الجمعة.	Evet, süt cumaya kadar yeter.
 ara	tur	نُفِى توم من البلدة.	Tom kasabadan sürüldü.
+ara	tur	هؤلاء الذين لا يردنا الذهاب، لا ضرورة لهم الذهاب.	Gitmek istemeyen insanlar gitmek zorunda değil.
 ara	tur	هذا أغرب شيء تناولته على الإطلاق.	Bu şimdiye kadar yediğin en tuhaf şey.
 ara	tur	هذا البناء أزرق.	Bu bina mavi.
 ara	tur	هذا التلفاز ’ صنع في كوريا	Bu TV, Kore'de yapıldı.
@@ -1086,26 +1087,26 @@ ara	tur	هذه حبة اجاص	Bu bir armut.
 ara	tur	هذه كمثرى	Bu bir armut.
 ara	tur	هذه ملاحظة في غاية الأهمية.	Bu, çok önemli bir nokta.
 ara	tur	هرب الرجل بعد أن رأى الشرطي.	Adam polisi görünce kaçtı.
-ara	tur	هل استطعت حل المشكلة؟	Sorunu halledebildin mi?
 ara	tur	هل أستطيع الحصول على رقم هاتفك؟	Telefon numaranızı alabilir miyim?
 ara	tur	هل أعادوا لك وظيفتك؟	Onlar sana işini geri verdi mi?
 ara	tur	هل أعجبكِ الأكلُ؟	Yemeği beğendin mi?
-ara	tur	هل الركض هنا خطر ؟ .	Burada koşmak tehlikeli mi?
-ara	tur	هل المصرف بعيد عن هنا؟	Banka buraya uzak mı?
 ara	tur	هل أمك في البيت الآن؟	Şimdi annen evde mi?
 ara	tur	هل أنت صينية أم يابانية؟	Çinli misin yoksa Japon musun?
+ara	tur	هل أنت من كوكب لا تعيش فيه إلا النساء؟	Sadece kadınların yaşadığı bir gezegenden misin?
+ara	tur	هل أنت نادم؟	Pişman mısın?
+ara	tur	هل استطعت حل المشكلة؟	Sorunu halledebildin mi?
+ara	tur	هل الركض هنا خطر ؟ .	Burada koşmak tehlikeli mi?
+ara	tur	هل المصرف بعيد عن هنا؟	Banka buraya uzak mı?
 ara	tur	هل انت ضد الاجهاض ؟	Kürtaja karşı mısınız?
 ara	tur	هل انت متأكد	Emin misin?
 ara	tur	هل انت متزوج؟	Evli misin?
-ara	tur	هل أنت من كوكب لا تعيش فيه إلا النساء؟	Sadece kadınların yaşadığı bir gezegenden misin?
-ara	tur	هل أنت نادم؟	Pişman mısın?
 ara	tur	هل تتهم 'توم' بالتخريب؟	Tom'u sabotajla mı suçluyorsun?
 ara	tur	هل تدرس اللغة الانكليزية كل يوم	Her gün İngilizce mi çalışıyorsunuz?
 ara	tur	هل ترغب في السفر إلى الخارج؟	Yurt dışına gitmek ister misin?
 ara	tur	هل تركت إكرامية؟	Bahşiş bıraktın mı?
 ara	tur	هل تريد سمكاً؟	Balık ister misin?
-ara	tur	هل تستطيع التحدث باللغة الفرنسية ؟ لا . لكني استطيع التحدث باللغتين الانجليزية والألمانية	"Fransızca konuşmayı biliyor musun?" "Hayır, ama İngilizce ve Almanca konuşabiliyorum."
 ara	tur	هل تستطيع أن تكتشف الدوحة في الخريطة؟	Doha'yı haritada bulabilir misin?
+ara	tur	هل تستطيع التحدث باللغة الفرنسية ؟ لا . لكني استطيع التحدث باللغتين الانجليزية والألمانية	"Fransızca konuşmayı biliyor musun?" "Hayır, ama İngilizce ve Almanca konuşabiliyorum."
 ara	tur	هل تسكن في لبنان؟	Lübnan'da mı yaşıyorsun?
 ara	tur	هل تشربون؟	İçiyor musun?
 ara	tur	هل تعرف ماذا يعني عندما يعطي الرجل المرأة خاتماً؟	Bir erkek bir kadına bir yüzük verirse bunun ne demek olduğunu biliyor musun?
@@ -1164,7 +1165,6 @@ ara	tur	هو خارج مكانه.	O yerinde değil.
 ara	tur	هو، خرج للمشي قبل فطور الصباح.	O, kahvaltıdan önce bir yürüyüşe çıktı.
 ara	tur	هو في الصف العاشر.	O, onuncu sınıfta okuyor.
 ara	tur	هو في القطار.	O, trende.
-ara	tur	هؤلاء الذين لا يردنا الذهاب، لا ضرورة لهم الذهاب.	Gitmek istemeyen insanlar gitmek zorunda değil.
 ara	tur	هو يتعقب توم	O, Tom'u takip edecek.
 ara	tur	هو يتكلم خمس لغات اجنبية , لكن اذا اراد ان يشتم يتحدث بلغته الام	O, beş yabancı dil konuşur ama o küfretmek istediğinde annesinin dilinde konuşur.
 ara	tur	هو يدرس الحقوق في هارفرد.	O, Harvard'da hukuk okuyor.
@@ -1229,9 +1229,9 @@ ara	tur	يحبون الرقص.	Dans etmeyi severler.
 ara	tur	يحتمل أن توم لا يحبك.	Tom muhtemelen seni sevmiyor.
 ara	tur	يدرس التاريخ في الجامعة.	Üniversitede tarih bölümünde okuyor.
 ara	tur	يرتفع تعاطي الكحول سنويّا.	Alkol tüketimi her sene artıyor.
+ara	tur	يريد توم أن يراك قبل أن تغادر.	Tom, sen ayrılmadan önce seni görmek istiyor.
 ara	tur	يريد توم الحديث عن ما حدث.	Tom ne olduğu hakkında konuşmak istiyor.
 ara	tur	يريد توم الذهاب إلى أستراليا.	Tom Avustralya'ya gitmek istiyor.
-ara	tur	يريد توم أن يراك قبل أن تغادر.	Tom, sen ayrılmadan önce seni görmek istiyor.
 ara	tur	يريدون محادثة توم فقط.	Onlar sadece Tom'la konuşmak istiyor.
 ara	tur	يسأل أسئلة سخيفة في كل وقت.	O her zaman aptal sorular soruyor.
 ara	tur	يستطيع التكلم بالفرنسية أيضا.	Fransızca da konuşuyour.
@@ -1243,8 +1243,8 @@ ara	tur	يعجبني أسلوبك.	Üslubun hoşuma gitti.
 ara	tur	يعجبني فيك شجاعتك.	Cesaretine hayranım
 ara	tur	يعيش البدو في الصحراء.	Bedeviler çölde yaşar.
 ara	tur	يقال أنها درست الترجمة في المانيا.	Onun Almanya'da çeviri okuduğu söyleniyor.
-ara	tur	يقال انها طباخة ماهرة.	O çok iyi bir aşçıymış.
 ara	tur	يقال أنه درس الترجمة في المانيا.	Onun Almanya'da çeviri okuduğu söyleniyor.
+ara	tur	يقال انها طباخة ماهرة.	O çok iyi bir aşçıymış.
 ara	tur	يقدم الإفطار بين ٧ و ٩.	Kahvaltı saat 7 ile 9 arasında servis edilmektedir.
 ara	tur	يقرأ الصبي كتابه.	Oğlan, kitabını okuyor.
 ara	tur	يقع هذا الفندق في مكان مناسب فيما يخص النقل العمومي.	Bu otel, toplu taşımaya uygun bir yerde bulunuyor.
@@ -1259,5 +1259,5 @@ ara	tur	يوجد امرأة تقرأ في المكتبة	Bir kadın kütüphaned
 ara	tur	يوجد خدشة هنا، فهل تستطيع اعطائي حسم؟	Burada çizik var. İndirim verebilir misiniz?
 ara	tur	يوقظني الديك وطيور أخرى في الصباح.	Sabahları horoz ve diğer kuşlar beni uyandırıyor.
 ara	tur	يوما الإثنين والثلاثاء القادمين عطلة.	Önümüzdeki pazartesi ve salı günleri tatil.
-arq_Latn	tur	kul aghrum acherab elma.	Ekmek ye ve su iç.
-arq_Latn	tur	kul aghrum acherab elma.	Ekmek yiyip su iç.
+ara	tur	kul aghrum acherab elma.	Ekmek ye ve su iç.
+ara	tur	kul aghrum acherab elma.	Ekmek yiyip su iç.

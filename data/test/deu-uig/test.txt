@@ -28,8 +28,8 @@ deu	uig_Arab	Die Lebenshaltungskosten in Tokyo sind sehr hoch.	توكيۇنىڭ 
 deu	uig_Arab	Diese Suppe ist wirklich sehr gut.	بۇ شورپا ھەقىقەتەن بەك ياخشىكەن.
 deu	uig_Arab	Eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn.	بىر، ئىككى، ئۈچ، تۆت، بەش، ئالتە، يەتتە، سەككىز، توققۇز، ئون.
 deu	uig_Arab	Entschuldigen Sie, ich habe mich verirrt.	كەچۈرۈڭ، مەن يولدىن ئېزىپ قالدىم.
-deu	uig_Arab	Er arbeitet in einer Fabrik.	بىر زاۋۇتتا ئىشلەيدۇ.
 deu	uig_Arab	Er arbeitet in einer Fabrik.	ئۇ ىىر زاۋۇتتا ئىشلەيدۇ.
+deu	uig_Arab	Er arbeitet in einer Fabrik.	بىر زاۋۇتتا ئىشلەيدۇ.
 deu	uig_Arab	Er gab vor, Anwalt zu sein.	ئۇ ئادۋۇكات سىياقىغا كىرىۋالدى.
 deu	uig_Arab	Er hat mir eine interessante Geschichte erzählt.	ئۇ ماڭا بىر قىزىق ھېكايە ئېيتىپ بەردى.
 deu	uig_Arab	Er hat seiner Tochter ziemlich viel Geld gegeben.	ئۇ قىزىغا خېلىلا كۆپ پۇل بەردى.
@@ -148,6 +148,7 @@ deu	uig_Arab	Wie war gestern das Wetter?	تۈنۈگۈن ھاۋا قانداق ئ
 deu	uig_Arab	Willkommen!	سىزنى قارشى ئالىمىز!
 deu	uig_Arab	Wir haben viele Kaffeevariationen.	بىزنىڭكى قەھۋە خىلىم كۆپ.
 deu	uig_Arab	Wo arbeitest du?	نەدە ئىشلەيسەن؟
-deu	uig_Arab	Wo ist das Problem?	نېمە مەسىلە بار؟
 deu	uig_Arab	Wo ist das Problem?	نېمە ئىش بولمايدۇ؟
+deu	uig_Arab	Wo ist das Problem?	نېمە مەسىلە بار؟
+deu	uig_Arab	Wo ist ihr Hund?	ئۇنىڭ ئىتى نەدە؟
 deu	uig_Cyrl	Die Kommunistische Partei ist die Vorhut der Arbeiterklasse.	Коммунистлар партияси — ишчилар синипиниң авангарди.‎

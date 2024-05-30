@@ -177,6 +177,7 @@ ron	tur	Ai grijă la ceea ce spui.	Söylediklerine dikkat et.
 ron	tur	Ai idee cine a scris această carte?	Bu kitabı kimin yazdığına dair bir fikrin var mı?
 ron	tur	Ai încălcat regulile.	Kurallara karşı geldin.
 ron	tur	A început să plouă, așa că am intrat sub umbrela prietenului meu.	Yağmur yağmaya başladı bu yüzden arkadaşımın şemsiyesinin altına geçtim.
+ron	tur	Ai nevoie de mașină?	Sana araba gerekiyor mu?
 ron	tur	Ai nevoie de somn.	Uykuya ihtiyacın var.
 ron	tur	Ai nevoie de un avocat.	Sana bir avukat lazım.
 ron	tur	A întârziat din cauza zăpezii.	Kar yüzünden geç kaldı.
@@ -304,6 +305,8 @@ ron	tur	Am scăpat ca prin minune.	Kıl payı kurtulduk.
 ron	tur	Am scăpat cu greu.	Kıl payı kurtulduk.
 ron	tur	Am simțit o oarecare anxietate în piept.	Göğsümde belli bir anksiyete hissettim.
 ron	tur	Am stat în pat din cauza gripei.	Grip yüzünden yataktaydım.
+ron	tur	Am stat patru ani la Diyarbakır.	Diyarbakır'da dört sene kaldım.
+ron	tur	Am terminat liceul anul trecut.	Liseden geçen yıl mezun oldum.
 ron	tur	Am terminat tot ce era necesar.	Gerekli olan her şeyi tamamladım.
 ron	tur	Am transpirat la subrațe.	Kollarımın altında terledim.
 ron	tur	Am un bun simț al mirosului.	İyi bir koku alma duyum var.
@@ -362,6 +365,7 @@ ron	tur	A sosit ziua judecății.	Yargılama günü geldi.
 ron	tur	Asta dă o nouă dimensiune problemei noastre.	O, sorunumuza yeni bir boyut kattı.
 ron	tur	Ăsta e ajutorul de care avem nevoie.	Bize gerekli olan yardım bu.
 ron	tur	Asta e ceea ce dorește guvernul.	Hükümetin istediği bu.
+ron	tur	Asta este exact ce are nevoie Tom.	Tom'a gereken şey tam olarak bu.
 ron	tur	Asta este o afacere extraordinară.	Bu muazzam bir anlaşma.
 ron	tur	Asta este o afacere importantă.	Bu muazzam bir anlaşma.
 ron	tur	Asta este partea distractivă.	İşte eğlenceli kısım.
@@ -460,6 +464,7 @@ ron	tur	Capitala României este București.	Romanya'nın başkenti Bükreş'tir
 ron	tur	Care este activitatea ta preferata?	Senin gözde etkinliğin nedir?
 ron	tur	Care este culoarea Pământului?	Dünya'nın rengi nedir?
 ron	tur	Care este diferența dintre a plăcea și a iubi pe cineva?	Birinden hoşlanmak ve birini sevmek arasındaki fark nedir?
+ron	tur	Care este diferența dintre Judo și Ju-jitsu?	Judo ve Jiu-jitsu arasındaki fark nedir?
 ron	tur	Care este domeniul tău principal?	Asıl branş alanın nedir?
 ron	tur	Care este leguma ta preferată?	Gözde sebzen nedir?
 ron	tur	Care este lungimea acestui pod?	Bu köprünün uzunluğu ne kadar?
@@ -672,9 +677,11 @@ ron	tur	De cât timp locuiți în Japonia?	Ne kadar süredir Japonya'da yaşıyo
 ron	tur	De ce ai nevoie?	Neye ihtiyacın var?
 ron	tur	De ce este nefericită?	O neden talihsiz?
 ron	tur	De ce este nefericit?	O neden talihsiz?
+ron	tur	De ce eşti atât de interesat de el?	Neden onunla bu kadar ilgileniyorsun?
 ron	tur	De ce ești atât de interesat de el?	Neden onunla bu kadar ilgileniyorsun?
 ron	tur	De ce eşti mereu aşa de rău?	Neden hep bu kadar kötüsün?
 ron	tur	De ce eşti mereu aşa de rea?	Neden hep bu kadar kötüsün?
+ron	tur	De ce ești ocupat astăzi?	Bugün neden meşgulsün?
 ron	tur	De ce încerci să mă faci să râd?	Neden beni güldürmeye çalışıyorsun?
 ron	tur	De ce își aplică ulei de măsline pe gene?	O neden kirpiklerine zeytin yağı sürer?
 ron	tur	De ce măcar îți pasă?	Neden sen bile önemsiyorsun?
@@ -684,9 +691,11 @@ ron	tur	De ce?	Niye?
 ron	tur	De ce nu ai venit la petrecerea de ieri?	Dünkü partiye niçin gelmedin?
 ron	tur	De ce nu îi pot iubi pe ei amândoi?	Neden onların ikisini de sevemem?
 ron	tur	De ce nu îți actualizezi site-ul?	Neden internet siteni güncellemiyorsun?
+ron	tur	De ce nu mănânci?	Niye yemiyorsun?
 ron	tur	De ce parte ești?	Hangi taraftasın?
 ron	tur	De ce să facă asta?	Neden bunu yapsınlar?
 ron	tur	De ce trebuie să mă suni la astfel de ore nepotrivite?	Böyle pek uygunsuz saatlerde neden beni aramak zorundasın?
+ron	tur	De ce veveriţele sunt atât de drăguţe?	Neden sincaplar bu kadar şirin?
 ron	tur	De ce veverițele sunt atât de drăguțe?	Neden sincaplar bu kadar şirin?
 ron	tur	Deci, care este următoarea mutare?	Yani bir sonraki hamle nedir?
 ron	tur	Declarațiile tale se contrazic reciproc.	İfadelerin birbiriyle çelişiyor.
@@ -786,6 +795,7 @@ ron	tur	Ea era fericită fiindcă a luat examenul.	Sınavı geçmiş olmaktan do
 ron	tur	Ea este soţia lui actuală.	O onun şimdiki eşi.
 ron	tur	Ea mi-a spus că va merge la Paris, în luna august.	O, bana ağustosta Paris'e gideceğini söyledi.
 ron	tur	Ea mormăie pentru ea însăși.	O kendi kendine mırıldanıyor.
+ron	tur	Ea nu știe ce i s-a întâmplat.	O, ona ne olduğunu bilmiyor.
 ron	tur	Ea nu vrea să se implice.	O yer almak istemiyor.
 ron	tur	Ea ocupă o poziție de invidiat.	O çok kıskanılacak bir konuma sahiptir.
 ron	tur	Ea ori este beată ori nebună.	O ya sarhoş ya da deli.
@@ -890,6 +900,7 @@ ron	tur	El este sub anestezie.	O narkoz altında.
 ron	tur	El este un copil delicat.	O narin bir çocuktur.
 ron	tur	El este un inspector.	O bir müfettiş.
 ron	tur	El este un tânăr foarte promiţător.	O, çok umut verici genç bir adamdır.
+ron	tur	El gătește cina.	O, akşam yemeğini yapıyor.
 ron	tur	El însuși a făcut toate hainele.	O bütün giysileri kendisi üretti.
 ron	tur	El însuşi s-a dedicat mai multor activități culturale.	Kendini birçok kültürel etkinliklere adadı.
 ron	tur	El m-a făcut să îndrăgesc jazz-ul.	O bana cazı sevdirdi.
@@ -936,6 +947,7 @@ ron	tur	E o poveste vagă.	O belirsiz bir hikaye.
 ron	tur	E posibil ca Tom să aibă sub treizeci de ani.	Tom otuzun altında olabilir.
 ron	tur	Era evident că el a vrut să o sărute.	Onun onu öpmek istediği belliydi.
 ron	tur	Eram pe cale să plec când ai intrat.	Sen içeri girdiğinde ayrılmak üzereydim.
+ron	tur	Eram sub atac.	Saldırı altındaydık.
 ron	tur	Era o cafenea în apropierea școlii.	Okula yakın bir kahvehane vardı.
 ron	tur	Este bine să mâncăm legume în fiecare zi.	Her gün sebze yememiz faydalıdır.
 ron	tur	Este ceva în neregulă?	Herhangi bir şey yanlış mı?
@@ -1106,6 +1118,7 @@ ron	tur	Îmi pare rău că nu pot satisface cererea ta.	Üzgünüm talebini kar�
 ron	tur	Îmi place această casă așa cum este.	Bu evi olduğu gibi seviyorum.
 ron	tur	Îmi place ciocolata.	Çikolata hoşuma gider.
 ron	tur	Îmi place felul în care mă faci să râd.	Senin beni güldürme tarzını seviyorum.
+ron	tur	Îmi place foarte mult casa asta.	Bu evi bayağı beğeniyorum.
 ron	tur	Îmi place ploaia de vară.	Yaz yağmurunu severim.
 ron	tur	Îmi place să citesc cărți.	Kitap okumaktan keyif alırım.
 ron	tur	Îmi place să citesc cărți.	Kitap okumayı severim.
@@ -1191,6 +1204,7 @@ ron	tur	Învățăm să citim și să scriem.	Okumayı yazmayı öğren.
 ron	tur	În viitorul apropiat va fi o criză energetică.	Yakın gelecekte bir enerji krizi olacak.
 ron	tur	În zilele noastre, mulți pantofi sunt făcuți din plastic.	Günümüzde birçok ayakkabı plastikten yapılmaktadır.
 ron	tur	Îşi ţine întotdeauna promisiunile.	Kendi sözlerini her zaman tutar.
+ron	tur	Isus nu era creștin.	İsa Hristiyan değildi.
 ron	tur	Îți înțeleg frustrarea.	Senin hayal kırıklığını anlıyorum.
 ron	tur	Îți mulțumesc pentru efort.	Zahmetin için teşekkür ederim.
 ron	tur	Îți poți aminti ce trebuia să facem?	Ne yapmamız gerektiğini hatırlayabiliyor musun?
@@ -1206,6 +1220,7 @@ ron	tur	Joey reprezintă familia.	Joey aileyi temsil ediyor.
 ron	tur	Jorge vorbeşte patru limbi.	Jorge dört dil konuşuyor.
 ron	tur	Jucătorul a fost aplaudat de fani.	Oyuncu fanatikleri tarafından alkışlandı.
 ron	tur	La acest centru de învăţare a limbilor, se predau aproximativ 15 limbi internaţionale inclusiv limba engleză.	Bu dil öğrenme merkezinde İngilizce dahil 15 uluslararası dil öğretilir.
+ron	tur	La ce universitate ai studiat?	Hangi üniversitede okudun?
 ron	tur	La conferință au participat reprezentanți din mai multe țări.	Konferansa birçok ülkeden temsilciler katıldı.
 ron	tur	L-am ales primar.	Biz onu belediye başkanı seçtik.
 ron	tur	L-am rugat să o facă.	Ona onu yapmasını rica ettim.
@@ -1294,6 +1309,7 @@ ron	tur	Martie este a treia luna a anului.	Mart yılın üçüncü ayıdır.
 ron	tur	Martie se situează între februarie și aprilie.	Mart şubat ve nisan arasında gelir.
 ron	tur	Mary este nepoata mea.	Mary benim yeğenim.
 ron	tur	Mary este o studentă promiţătoare.	Mary umut verici bir öğrenci.
+ron	tur	Mary își caută câinele.	Mary köpeğini arıyor.
 ron	tur	Mary lucrează în Africa pentru o organizație non-guvernamentală.	Mary, Afrika'da bir sivil toplum örgütü için çalışıyor
 ron	tur	Mary lucrează pentru un ONG în Africa.	Mary, Afrika'da bir sivil toplum örgütü için çalışıyor
 ron	tur	Mașina lor a depășit-o pe a noastră.	Onların arabası bizimkini solladı.
@@ -1305,16 +1321,19 @@ ron	tur	Mașina lui Tom este mult mai veche decât a mea.	Tom'un arabası benimk
 ron	tur	Mașina lui Tom tocmai a intrat în parcare.	Tom'un arabası özel araba yoluna çekildi.
 ron	tur	Mașina mea e Ford, ca și a dumneavoastră.	Arabam Ford, sizinki gibi.
 ron	tur	Mass-media nu difuzează această veste.	Medya bu haberi bildirmiyor.
+ron	tur	Mătușa mea mi-a făcut o fustă nouă.	Teyzem bana yeni bir etek yaptı.
 ron	tur	Mă voi duce.	Gideceğim.
 ron	tur	Mă voi duce într-un fel sau altul.	Öyle ya da böyle gideceğim.
 ron	tur	Mă voi duce la teatru.	Tiyatroya gideceğim.
 ron	tur	Mă voi întoarce până la șapte sau opt.	Yedi ya da sekize kadar döneceğim.
+ron	tur	Mă voi simți mai bine într-un minut.	Bir dakika içinde kendimi daha iyi hissedeceğim.
 ron	tur	Mediul influențează comunicarea.	Ortam iletişimi etkiler.
 ron	tur	Menstruația mea este regulată.	Âdetlerim düzenli.
 ron	tur	Mențiunea lui a fost într-adevăr inadecvată.	Onun sözü gerçekten uygunsuzdu.
 ron	tur	Mergeți drept înainte.	Dümdüz gidin.
 ron	tur	Merg în aceeaşi direcţie. Vino cu mine. Te voi duce acolo.	Ben aynı yöne gidiyorum. Gel benimle. Seni oraya götüreceğim.
 ron	tur	Mesajul dumneavoastră a fost recepționat.	Mesajınız alınmıştır.
+ron	tur	Mestecatul de gumă în sala de clasă este interzis.	Sınıfta sakız çiğnemek yasaktır.
 ron	tur	Meteorologul spune că vine o furtună.	Meteoroloji uzmanı bir fırtınanın geldiğini söylüyor.
 ron	tur	Mi-a ajuns acest loc!	Bu yerden bıktım.
 ron	tur	Mi-a ajuns!	Ondan bıktım artık!
@@ -1343,6 +1362,7 @@ ron	tur	Misiunea americană este de a elimina comunismul din lume.	Amerikan misy
 ron	tur	Misiunea Americii este de a elimina comunismul din lume.	Amerika'nın görevi komünizmi dünyadan kaldırmaktır.
 ron	tur	Moartea tragică a prințesei Diana a șocat lumea.	Prenses Diana'nın trajik ölümü dünyayı şoka uğrattı.
 ron	tur	Mori!	Öl!
+ron	tur	Mult aer proaspăt și exerciții fizice îți vor face bine.	Çokça temiz hava ve fiziksel aktivite sana iyi gelecek.
 ron	tur	Multe comentarii ale consumatorilor de pe Amazon sunt false.	Amazon'daki birçok tüketici yorumu sahtedir.
 ron	tur	Mulți au fost uciși.	Birçoğu öldürüldü.
 ron	tur	Mulți au petrecut ani întregi în fabricile britanice.	Birçoğu İngiliz fabrikalarında yıllar geçirmişti.
@@ -1459,6 +1479,7 @@ ron	tur	Nu are nevoie de nimic.	Herhangi bir şeye ihtiyacı yok.
 ron	tur	Nu are nicio problemă la școală.	Okulda herhangi bir sorunu yok.
 ron	tur	Nu ar fi ridicat nici măcar un deget.	Bir parmağını bile kaldırmazdı.
 ron	tur	Nu au putut să se apere de unii singuri.	Kendilerini savunamadılar.
+ron	tur	Nu avem hârtie.	Bizim kâğıdımız yok.
 ron	tur	Nu avem nevoie de banii tăi.	Parana ihtiyacımız yok.
 ron	tur	Nu citesc cărți.	Ben kitap okumam.
 ron	tur	Nu confunda răbdarea cu toleranța.	Sabrı hoşgörü ile karıştırmayın.
@@ -1553,11 +1574,13 @@ ron	tur	Nu mi-am imaginat niciodată, nici pentru un moment, că blog-ul meu va 
 ron	tur	Nu-mi da nicio idee.	Bana herhangi bir fikir vermeyin.
 ron	tur	Nu-mi da-ți nicio idee.	Bana herhangi bir fikir vermeyin.
 ron	tur	Nu-mi pasă.	Aldırmıyorum.
+ron	tur	Nu-mi place gustul alcoolului.	Alkolün tadını sevmiyorum.
 ron	tur	Nu-mi place modul în care Tom face afaceri.	Tom'un iş yapma tarzını sevmiyorum.
 ron	tur	Nu-mi place nici ceaiul nici cafeaua.	Ne çayı ne de kahveyi severim.
 ron	tur	Nu-mi place să fiu controlat.	Kontrol edilmekten hoşlanmam.
 ron	tur	Nu-mi place să fiu forțat să fac lucruri pe care nu vreau să le fac.	Yapmak istemediğim şeylerin yaptırılmasını sevmiyorum
 ron	tur	Nu-mi place să fiu judecat.	Yargılanmaktan hoşlanmam.
+ron	tur	Nu-mi place să merg pe bicicletă.	Bisikletle gitmeyi sevmem.
 ron	tur	Nu-mi place sfecla de zahăr.	Şeker pancarını sevmiyorum.
 ron	tur	Nu-mi place stilul lui Tom de a face afaceri.	Tom'un iş yapma tarzını sevmiyorum.
 ron	tur	Nu-mi pot dezvălui sursele.	Kaynaklarımı teşhir edemem.
@@ -1598,6 +1621,7 @@ ron	tur	Nu putem să vorbim despre asta dimineaţa?	Sabah konuşamaz mıyız bun
 ron	tur	Nu putem termina acest proiect fără tine.	Biz sen olmadan bu projeyi bitiremeyiz.
 ron	tur	Nu putem trăi nici măcar o zi fără apă.	Su olmadan bir gün bile yaşayamayız.
 ron	tur	Nu se comportă ca o femeie respectabilă.	Saygılı bir kadına yaraşır biçimde davranmıyor.
+ron	tur	Nu sînt cel mai bun din lume, dar cred ca nimeni nu este mai bun decît mine.	Dünyanın en iyisi değilim, ancak kimsenin benden daha iyi olmadığını düşünüyorum.
 ron	tur	Nu sta acolo ca un butuc, începe să iei notiţe!	Kütük gibi durma, not almaya başla.
 ron	tur	Nu știam despre planul lui.	Onun planını bilmiyordum.
 ron	tur	Nu știm de ce.	Sebebini bilmiyoruz.
@@ -1628,6 +1652,7 @@ ron	tur	Nu te voi dezamăgi niciodată.	Asla seni hayal kırıklığına uğratm
 ron	tur	Nu te voi lăsa să pleci singură.	Yalnız gitmene izin vermeyeceğim.
 ron	tur	Nu te voi lăsa să pleci singur.	Yalnız gitmene izin vermeyeceğim.
 ron	tur	Nu te voi mai deranja.	Artık canını sıkmayacağım.
+ron	tur	Nu te vom lăsa să devii președinte.	Seni başkan yaptırmayacağız.
 ron	tur	Nu-ți fie frică.	Korkma.
 ron	tur	Nu-ți fie teamă.	Korkma.
 ron	tur	Nu-ți fie teamă să faci greșeli atunci când vorbești engleza.	İngilizce konuşurken hatalar yapmaktan korkma.
@@ -1761,6 +1786,7 @@ ron	tur	Piscina e folosită în comun de toţi copiii din vecinătate.	Havuz mah
 ron	tur	Pisica are douăzeci de zile.	Kedi yirmi günlüktür.
 ron	tur	Pisica este sub scaun.	Kedi sandalyenin altındadır.
 ron	tur	Pisica pe care ai găsit-o e a mea.	Bulduğun kedi benim.
+ron	tur	Pisicile conduc lumea.	Kediler dünyayı yönetiyor.
 ron	tur	Plantele se îndreaptă spre lumina soarelui.	Bitkiler güneş ışığına doğru yönelir.
 ron	tur	Plecăm din când în când la pescuit.	Zaman zaman balık tutmaya gideriz.
 ron	tur	Plecarea a fost amânată din cauza înrăutățirii vremii.	Hava kötüleştiği için, kalkış ertelendi.
@@ -1776,6 +1802,7 @@ ron	tur	Poate cineva să răspundă la telefon?	Birisi telefona cevap verebilir 
 ron	tur	Poate fi spălată această rochie?	Bu elbise yıkanılabilir mi?
 ron	tur	Podul nu a rezistat din cauza inundațiilor.	Köprü sel nedeniyle dayanamadı.
 ron	tur	Poftiţi!	Buyrun!
+ron	tur	Poftiți!	Buyrun!
 ron	tur	Politețea este o virtute.	Nezaket bir erdemdir.
 ron	tur	Poliția îl suspectează.	Polis ondan kuşkulandı.
 ron	tur	Poliția va lua doar banii și poate nici măcar nu vor căuta proprietarul.	Polis sadece parayı alacak ve belki de sahibini aramayacaklar bile.
@@ -1862,6 +1889,7 @@ ron	tur	Remarca lui a fost într-adevăr nepotrivită.	Onun sözü gerçekten uy
 ron	tur	Renunț.	Vazgeçerim.
 ron	tur	Resping toate aceste acuzații.	Ben tüm bu suçlamaları reddediyorum.
 ron	tur	Resursele se vor termina în curând.	Kaynaklar yakında bitecek.
+ron	tur	Rezultatul mi-a depășit așteptările.	Sonuç beklentilerimi aştı.
 ron	tur	Rezultatul rămâne de văzut.	Sonuç görülmek için kalır.
 ron	tur	Ridică-te și luptă.	Kalk ve dövüş.
 ron	tur	Robert este mulțumit de poziţia lui actuală.	Robert şimdiki görevinden memnun.
@@ -1884,6 +1912,7 @@ ron	tur	Să mergem.	Gidelim!
 ron	tur	Șamponul și pasta de dinți sunt la același preț.	Şampuan ve diş macunu aynı fiyattır.
 ron	tur	S-a născut pe 17 iulie, la șase dimineața.	17 Temmuzda sabah 6:00 da doğdu.
 ron	tur	Să ne căsătorim.	Evlenelim.
+ron	tur	S-a observat o creștere a temperaturii medii a straturilor inferioare ale atmosferei planetei.	Gezegenin atmosferinin alt katmanlarının ortalama sıcaklığında bir artış kaydedildi.
 ron	tur	Să o facem împreună.	Onu birlikte yapalım.
 ron	tur	Săptămâna aceasta teroriștii vor coborî din munți.	Bu hafta teröristler dağlardan inecekler.
 ron	tur	Săptămâna trecută, parlamentul a aprobat noua lege.	Meclis geçen hafta yeni yasayı onayladı.
@@ -1956,6 +1985,7 @@ ron	tur	Știința este credința în ignoranța experților.	Bilim uzmanların c
 ron	tur	Ştirea a fost captivantă.	Haber heyecan vericiydi.
 ron	tur	Știrea mi-a fost povestită de către Ito.	Haber bana Ito tarafından anlatıldı.
 ron	tur	Ştiri despre moartea actorului, s-au răspândit pe internet.	Aktörün ölüm haberleri internette yayıldı.
+ron	tur	Știți multe despre asta.	Bununla ilgili çok şey biliyorsunuz.
 ron	tur	Știu.	Biliyorum.
 ron	tur	Strada este pustie.	Sokak ıssız.
 ron	tur	Străzile sunt sub apă.	Sokaklar su altında.
@@ -2116,6 +2146,7 @@ ron	tur	Tom are o conexiune de mare viteză la internet.	Tom'un hızlı bir inte
 ron	tur	Tom are părul lung până la umeri.	Tom'un omuz uzunluğunda saçı var.
 ron	tur	Tom are tendința de a exagera.	Tom'un abartma eğilimi var.
 ron	tur	Tom are trei nepoți.	Tom üç tane torun sahibidir.
+ron	tur	Tom are un apartament mic la ultimul etaj.	Tom'un sonuncu katta ufak bir dairesi var.
 ron	tur	Tom are un salariu rezonabil.	Tom'un makul bir maaşı vardır.
 ron	tur	Tom are un talent natural.	Tom'un doğal bir yeteneği var.
 ron	tur	Tom ar fi dezvăluit cele mai intime detalii ale relației sale cu Maria.	Tom, Mary ile olan ilişkisin en mahrem ayrıntılarını ortaya çıkardı.
@@ -2206,6 +2237,7 @@ ron	tur	Tom și-a scos jacheta, a îmbrăcat o vestă anti-glonț și apoi și-a
 ron	tur	Tom și Mary au descoperit ceva interesant.	Tom ve Mary heyecan verici bir şey keşfettiler.
 ron	tur	Tom și Mary au mers de-a lungul holului unul lângă altul.	Tom ve Mary yan yana holden aşağıya doğru yürüdü.
 ron	tur	Tom speră să-și fi terminat treaba până la 02:30.	Tom 2.30'a kadar işin yaptırılmasını umuyor.
+ron	tur	Tom spunea că studiază să devină medic.	Tom doktor olmak için çalıştığını söylüyordu.
 ron	tur	Tom spune că asta este o situaţie de criză.	Tom bunun bir kriz olduğunu söylüyor.
 ron	tur	Tom spune că este capabil să comunice cu morții.	Tom ölülerle iletişim kurabileceğini söylüyor.
 ron	tur	Tom, știu că ești acolo.	Tom, orada olduğunu biliyorum.
@@ -2217,6 +2249,7 @@ ron	tur	Tom voia să intre în pământ de rușine.	Tom, utancından yerin dibin
 ron	tur	Tom vrea ca eu să fac asta acum.	Tom şimdi bunu yapmamı istiyor.
 ron	tur	Tom vrea să aranjeze o întâlnire.	Tom bir buluşma düzenlemek istiyor.
 ron	tur	Tot ce trebuie să faci este să înveți această frază de rost.	Tüm yapmanız gereken bu cümleyi ezbere öğrenmek.
+ron	tur	Toți angajații fac parte din sindicat.	Tüm çalışanlar sendikanın parçasıdır.
 ron	tur	Toţi care au lucrat la acest proiect au devenit milionari.	Bu projede çalışan herkes milyoner oldu.
 ron	tur	Toți lucrătorii din fabrica asta sunt de sex feminin.	Bu fabrikadaki tüm işçiler kadın.
 ron	tur	Toți pentru unul și unul pentru toți.	Birimiz hepimiz, hepimiz birimiz için.
@@ -2397,6 +2430,7 @@ ron	tur	Vino!	Gel!
 ron	tur	Vino-ți în fire.	Kendine gel.
 ron	tur	Vinul care este făcut aici este foarte faimos.	Burada yapılan şarap çok ünlüdür.
 ron	tur	Vinul făcut aici este foarte faimos.	Burada yapılan şarap çok ünlüdür.
+ron	tur	Visul meu este să studiez limba kurdă la Diyarbakır.	Hayalim Diyarbakır'da Kürtçe okumak.
 ron	tur	Voi cumpăra niște cereale și suc de portocale.	Biraz kahvaltılık gevrek ve portakal suyu alacağım.
 ron	tur	Voi doi, duceți-vă la spital.	Siz ikiniz, hastaneye gidin.
 ron	tur	Voi face tot posibilul ca să vin devreme.	Erken gelmek için elimden geleni yapacağım.
@@ -2414,6 +2448,7 @@ ron	tur	Voi vorbi despre poluare și efectele acesteia.	Kirlilik ve etkileri hak
 ron	tur	Vom avea grijă de noi înșine.	Kendimizle ilgileneceğiz.
 ron	tur	Vom găsi un leac.	Bir çare bulacağız.
 ron	tur	Vom găsi un remediu.	Bir çare bulacağız.
+ron	tur	Vom zbura acolo în 50 de minute.	Oraya 50 dakikada uçacağız.
 ron	tur	Vorbăria lui este deranjantă.	Onun konuşkanlığı rahatsızlık verici.
 ron	tur	Vorbesc cu mine însumi.	Kendi kendime konuşuyorum.
 ron	tur	Vorbește limba engleză cel mai bine din clasă.	İngilizceyi sınıfta en iyi konuşuyor.

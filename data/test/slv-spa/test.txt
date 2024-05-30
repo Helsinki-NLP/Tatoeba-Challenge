@@ -8,12 +8,19 @@ slv	spa	Chcem, aby si spievala.	Quiero que cantes.
 slv	spa	Chcem, aby si spieval.	Quiero que cantes.
 slv	spa	Choď do piči!	¡Vete a la mierda!
 slv	spa	Chodiš stále neskoro.	Tú siempre llegas tarde.
+slv	spa	Chutí ti ten čokoládový koláč?	¿Te gusta el pastel de chocolate?
 slv	spa	Čo si povedal(a)?	¿Qué dijiste?
+slv	spa	Čuj mojo skrivnost. Zelo preprosta je : Kdor hoče videti, mora gledati s srcem. Bistvo je očem nevidno.	He aquí mi secreto. Es muy simple: Solo se ve bien con el corazón. Lo esencial es invisible a los ojos.
 slv	spa	David Beckham je Anglež.	David Beckham es inglés.
 slv	spa	Dievča šlo do školy aj keď bolo choré.	La niña fue a la escuela a pesar de estar enferma.
 slv	spa	Dodržal svoj sľub.	Mantuvo su promesa.
 slv	spa	Dom je studený.	La casa está fría.
 slv	spa	Farbil si si niekedy vlasy?	¿Alguna vez te has teñido el pelo?
+slv	spa	Govorim bosansko.	Hablo bosnio.
+slv	spa	Govorim slovensko.	Hablo esloveno.
+slv	spa	Govorim tibetansko in ujgursko.	Hablo tibetano y uigur.
+slv	spa	Govoriš korejsko?	¿Hablas coreano?
+slv	spa	Govoriš malteško?	¿Hablas maltés?
 slv	spa	Grem na plažo.	Me voy a la playa.
 slv	spa	Grem na plažo.	Voy a la playa.
 slv	spa	Hľadám svojho brata.	Busco a mi hermano.
@@ -26,6 +33,9 @@ slv	spa	Hovoríš po albánsky?	¿Hablas albanés?
 slv	spa	Idem nakupovať.	Me voy de compras.
 slv	spa	Imam dosti stvari, ki jih ne potrebujem.	Tengo tantas cosas que no necesito.
 slv	spa	Imam veliko knjig.	Tengo muchos libros.
+slv	spa	Ime mi je Hiraya.	Mi nombre es Hiraya.
+slv	spa	Ime mi je Makisig.	Mi nombre es Makisig.
+slv	spa	Ime mi je Wang.	Mi nombre es Wang.
 slv	spa	Iz Nemčije smo.	Somos de Alemania.
 slv	spa	Iz Nemčije sva.	Ambos somos de Alemania.
 slv	spa	Iz Nemčije sva.	Somos de Alemania.
@@ -33,6 +43,7 @@ slv	spa	Ja nie. A ty?	Yo no, ¿y tú?
 slv	spa	Japončina je môj materinský jazyk.	El japonés es mi lengua materna.
 slv	spa	Jem.	Como.
 slv	spa	Jem rád koláč.	Me gusta comer pastel.
+slv	spa	Jem sendvič.	Como un sándwich.
 slv	spa	Je to lacnejšie ako chemické hnojivá.	Es más económico que los fertilizantes químicos.
 slv	spa	Je to žrebec alebo kobyla?	¿Es este un garañón o una yegua?
 slv	spa	Je to žrebec alebo kobyla?	¿Es este un padrillo o una yegua?
@@ -42,8 +53,10 @@ slv	spa	Kaj se je zgodilo z ostalo hrano?	¿Qué pasó con el resto de la comida
 slv	spa	Kde je žena?	¿Dónde está la mujer?
 slv	spa	Kde sme?	¿Dónde estamos?
 slv	spa	Kdo je že buden?	¿Quién está ya despierto?
+slv	spa	Kdor hoče videti, mora gledati s srcem.	Solo se ve bien con el corazón.
 slv	spa	Kniha je malá.	El libro es chico.
 slv	spa	Knjiga je mala.	El libro es chico.
+slv	spa	Koliko je ura na Luni?	¿Qué hora es en la Luna?
 slv	spa	Koľko traktorov si predal minulý týždeň?	¿Cuántos tractores vendiste la semana pasada?
 slv	spa	Kto sa teraz smeje?	¿Quién se ríe ahora?
 slv	spa	Kto si?	¿Quién eres?
@@ -60,12 +73,17 @@ slv	spa	Mám turistické víza.	Tengo un visado de turista.
 slv	spa	Mám veľa kníh.	Tengo muchos libros.
 slv	spa	Máte tri mačky.	Tenéis tres gatos.
 slv	spa	Môj dom je blízko vlakovej stanice.	Mi casa está cerca de la estación de tren.
+slv	spa	Moje ime je Hiraya.	Mi nombre es Hiraya.
+slv	spa	Moje ime je Makisig.	Mi nombre es Makisig.
+slv	spa	Moje ime je Wang.	Mi nombre es Wang.
 slv	spa	Moj oče mi bo pomagal finančno.	Mi padre me ayudará económicamente.
 slv	spa	Môžem ťa pobozkať?	¿Puedo besarte?
 slv	spa	Môžeš prestať kričať?	¿Puedes parar de gritar?
 slv	spa	Musím dostať povolenie od rodičov, aby som mohla ísť s tebou tancovať.	Tendré que pedirle permiso a mis padres para ir al baile contigo.
 slv	spa	Nebo a peklo existujú v srdci človeka.	El cielo y el infierno existen en el corazón del hombre.
 slv	spa	Ne bodi neumen.	No seas tonto.
+slv	spa	Ne govorim angleško.	No hablo inglés.
+slv	spa	Ne govorim bosansko.	No hablo bosnio.
 slv	spa	Nemôžem im ho dať.	No se le puedo dar a ellos.
 slv	spa	Nerozumiem.	No entiendo.
 slv	spa	Nežijeme v Bostone.	No vivimos en Boston.
@@ -77,15 +95,19 @@ slv	spa	Nočem prevesti te povedi.	No quiero traducir esta frase.
 slv	spa	Nudím sa.	Estoy aburrido.
 slv	spa	Obleč sa!	¡Vestite!
 slv	spa	Obloha je plná hviezd.	El cielo está lleno de estrellas.
+slv	spa	Okej.	Okey.
 slv	spa	Ona je mojou priateľkou.	Ella es mi novia.
 slv	spa	Ona stála v strede izby.	Ella estaba estudiando en medio del cuarto.
 slv	spa	Pamätám si ich.	Me acuerdo de ellas.
 slv	spa	Pamätám si ich.	Me acuerdo de ellos.
 slv	spa	Pobozkaj ma.	Bésame.
 slv	spa	Poljubi me.	Bésame.
+slv	spa	Pomagaj si sam in Bog ti bo pomagal.	Ayúdate a ti mismo y Dios te ayudará.
+slv	spa	Pomogaj si sam in Bog ti bo pomagal!	¡Ayúdate a ti mismo y Dios te ayudará!
 slv	spa	Portugalsko má len jedného suseda, a to Španielsko.	Portugal tiene sólo un vecino y es España.
 slv	spa	Pozerala naňho nahnevane.	Ella le miró con enfado.
 slv	spa	Prečo si sama?	¿Por qué estás sola?
+slv	spa	Prečo vás vyhodili?	¿Por qué os sacaron?
 slv	spa	Pre ktorú firmu pracuješ?	¿Para qué firma trabajas?
 slv	spa	Prepáč, ľúbim ťa.	Lo siento, te quiero.
 slv	spa	Pripomínaš mi tvojho otca.	Me recuerdas a tu padre.
@@ -112,7 +134,9 @@ slv	spa	Tom kašle.	Tom está tosiendo.
 slv	spa	Tom živi sam v gozdu.	Tom vive solo en el bosque.
 slv	spa	To nie je drahé.	Esto no es caro.
 slv	spa	Toto je naš hlavný cieĺ.	Este es nuestro principal objectivo.
+slv	spa	Tukaj sem tujec.	Aquí soy extranjero.
 slv	spa	Ty si zabil môjho otca.	Tú mataste a mi padre.
+slv	spa	Učim se turško.	Aprendo turco.
 slv	spa	Urobil som pár zmien.	Hice un par de cambios.
 slv	spa	Uvidíme sa zajtra!	¡Nos vemos mañana!
 slv	spa	Už ho neľúbim.	Ya no lo amo.
@@ -121,9 +145,19 @@ slv	spa	Viem, že máš plné ruky.	Sé que tienes las manos ocupadas.
 slv	spa	Vieš, čo máš robiť?	¿Sabes lo que tienes que hacer?
 slv	spa	V lete v Anglicku vychádza slnko okolo štvrtej ráno.	En verano el sol sale alrededor de las 4 a.m. en Inglaterra.
 slv	spa	V mojej izbe nie sú žiadne hodiny.	En mi cuarto no hay ningún reloj.
+slv	spa	Vse ali nič!	¡O todo o nada!
 slv	spa	Vyrieš ten problém!	¡Resuelve el problema!
 slv	spa	Zachránil si mi život.	Me salvaste la vida.
 slv	spa	Zastávka autobusu je blízko našej školy.	La parada de autobús está cerca de nuestra escuela.
+slv	spa	Želim biti kot on.	Quiero ser como él.
+slv	spa	Živijo, ime mi je Janez.	Hola, mi nombre es Janez.
+slv	spa	Živijo, ime mi je Marija.	Hola, mi nombre es María.
+slv	spa	Živijo, ime mi je Sergej.	Hola, mi nombre es Sergej.
+slv	spa	Živijo, ime mi je Tom.	Hola, mi nombre es Tom.
+slv	spa	Živijo, moje ime je Janez.	Hola, mi nombre es Janez.
+slv	spa	Živijo, moje ime je Marija.	Hola, mi nombre es María.
+slv	spa	Živijo. Moje ime je Sergej.	Hola, mi nombre es Sergej.
+slv	spa	Živijo, moje ime je Tom.	Hola, mi nombre es Tom.
 slv	spa	Život je pekný.	La vida es bella.
 slv	spa	Život nie je ľahký.	La vida no es fácil.
 slv	spa	Zvoní zvonček.	Suena el timbre.

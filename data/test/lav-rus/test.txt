@@ -19,12 +19,14 @@ lav	rus	Cik daudz alus ir palicis?	Сколько пива осталось?
 lav	rus	Cik daudz angļu vārdus tu zini?	Сколько английских слов вы знаете?
 lav	rus	Cilvēces šūpulis ir Āfrika.	Африка - колыбель человечества.
 lav	rus	Cilvēces šūpulis ir Āfrika.	Африка является колыбелью человечества.
+lav	rus	Cilvēki ir slinkākie dzīvnieki.	Люди — самые ленивые животные.
 lav	rus	Dāmas arī spēlē bumbu.	Дамы тоже играют с мячом.
 lav	rus	Debesīs peldēja mākoņis.	По небу плыло облако.
 lav	rus	Dievs ir.	Бог есть.
 lav	rus	Dodiet man glāzi ūdens, lūdzu.	Дайте мне стакан воды, пожалуйста.
 lav	rus	Dodiet man paēst, lūdzu.	Дайте мне поесть, пожалуйста.
 lav	rus	Dodiet to man, lūdzu.	Дайте мне это, пожалуйста.
+lav	rus	Ej tur viens pats.	Иди туда один.
 lav	rus	Eksperiments neizdevās.	Эксперимент провалился.
 lav	rus	Es aizmirsu izslēgt gāzi!	Я забыл выключить газ!
 lav	rus	Es aizmirsu kā viņu sauc.	Я забыл, как его зовут.
@@ -91,6 +93,7 @@ lav	rus	Jā, steidzos.	Да, спешу.
 lav	rus	Ja vien es būtu jaunāks.	Если бы только я был моложе.
 lav	rus	Jā.	Да.
 lav	rus	Jums draud briesmas.	Тебе грозит опасность.
+lav	rus	Jums nav daudz pieredzes.	У вас не так много опыта.
 lav	rus	Jūs esat briesmās.	Тебе грозит опасность.
 lav	rus	Kāda brīnišķīga diena šodien bija!	Какой сегодня был прекрасный день!
 lav	rus	Kad būsi grāmatu izlasījis, iedod to man.	Когда прочитаешь книгу, дай её мне.
@@ -124,6 +127,7 @@ lav	rus	Lekcijas notiek bieži.	Лекции проходят часто.
 lav	rus	Lūdzu, dodiet man vēl vienu iespēju.	Пожалуйста, дайте мне ещё один шанс.
 lav	rus	Lūdzu, ļaujiet man nomierināties.	Пожалуйста, дайте мне успокоиться.
 lav	rus	Mana dzimšanas diena ir novembrī.	Мой день рождения в ноябре.
+lav	rus	Mana ģimene dzīvo pilsētā.	Моя семья живёт в городе.
 lav	rus	Mana karote ir ļoti liela!	Моя ложка очень большая!
 lav	rus	Mana mamma bieži teica, ka laiks ir nauda.	Мама часто говорила, что время — деньги.
 lav	rus	Mana māsa ļoti labi dzied .	Моя сестра очень хорошо поёт.
@@ -132,6 +136,7 @@ lav	rus	Man ir auksti.	Мне холодно.
 lav	rus	Man ir nams.	У меня есть дом.
 lav	rus	Man ir zirgs.	У меня есть конь.
 lav	rus	Man ir zirgs.	У меня есть лошадь.
+lav	rus	Man nāksies visu sākt no jauna.	Мне придётся всё начать сначала.
 lav	rus	Man nav vārdu.	У меня нет слов.
 lav	rus	Man nav zirga.	У меня нет коня.
 lav	rus	Man nav zirga.	У меня нет лошади.
@@ -209,6 +214,7 @@ lav	rus	Toms apsēdās.	Том сел.
 lav	rus	Toms drātēja Mēriju, vienlaicīgi tulkodams šo teikumu caur "Android" ierīci.	Том трахал Мэри, переводя это предложение на своём Андроиде.
 lav	rus	Toms ieskrēja iekšā.	Том вбежал внутрь.
 lav	rus	Toms ir labs kaimiņš.	Том - хороший сосед.
+lav	rus	Toms laiku nezaudē.	Том времени не теряет.
 lav	rus	Toms nedzirdēja neko.	Том ничего не слышал.
 lav	rus	Toms pateica ar labunakti.	Том сказал спокойной ночи.
 lav	rus	Toms pateica kautko.	Том что-то сказал.

@@ -1,16 +1,171 @@
-ind	zlm_Latn	Mereka akan melakukan apa yang kami katakan kepada mereka untuk dilakukan	Diorang nak buat apa yang kita bagitahu kat diorang nak buat.
-ind	zsm_Latn	Aku tidak berubah	Aku tidak berubah.
-ind	zsm_Latn	Dia berkata dia pikir bahwa saya sudah meninggal	Katanya, dia ingat saya dah meninggal.
-ind	zsm_Latn	Kamu bisa berenang, tetapi aku tidak bisa	Awak pandai berenang, tetapi saya tidak pandai.
-ind	zsm_Latn	Mereka akan melakukan apa yang kami katakan kepada mereka untuk dilakukan	Mereka akan melakukan apa yang kita suruh lakukan.
-ind	zsm_Latn	Sami kadang-kadang menelpon Layla	Kadang-kadang Sami menelefon Layla.
-ind	zsm_Latn	Sami terus membicarakan hal tersebut	Sami terus bercakap pasal hal ini.
-ind	zsm_Latn	Sebelum kita mulai, biarkan saya bertanya suatu pertanyaan	Sebelum kita bermula, biarkan saya bertanya soalan.
-zlm_Latn	ind	Diorang nak buat apa yang kita bagitahu kat diorang nak buat.	Mereka akan melakukan apa yang kami katakan kepada mereka untuk dilakukan
-zsm_Latn	ind	Aku tidak berubah.	Aku tidak berubah
-zsm_Latn	ind	Awak pandai berenang, tetapi saya tidak pandai.	Kamu bisa berenang, tetapi aku tidak bisa
-zsm_Latn	ind	Katanya, dia ingat saya dah meninggal.	Dia berkata dia pikir bahwa saya sudah meninggal
-zsm_Latn	ind	Kenapa dia tak tidur?	Kenapa dia tidak tidur?
-zsm_Latn	ind	Mereka akan melakukan apa yang kita suruh lakukan.	Mereka akan melakukan apa yang kami katakan kepada mereka untuk dilakukan
-zsm_Latn	ind	Perkauman masih menjadi isu.	Rasisme masih merupakan suatu masalah
-zsm_Latn	ind	Sami terus bercakap pasal hal ini.	Sami terus membicarakan hal tersebut
+msa_Latn	msa_Latn	Aku rancak ke Australia.	Aku sering datang ke Australia.
+msa_Latn	msa_Latn	Apa lah nang buhan ikam padahakan inya?	Apa yang kalian katakan padanya?
+msa_Latn	msa_Latn	Buhan inya baapa ay di atas situ?	Apa yang mereka lakukan di atas sana?
+msa_Latn	msa_Latn	Buhan inya haratan mandangarakan radiu.	Mereka sedang mendengarkan radio.
+msa_Latn	msa_Latn	Buhan inya kada haus.	Mereka tidak haus.
+msa_Latn	msa_Latn	Buhan inya tulak ka masjid.	Mereka pergi ke masjid.
+msa_Latn	msa_Latn	Bukan itu ai nang kutakunakan ka ikam.	Bukan itu yang aku tanyakan kepadamu.
+msa_Latn	msa_Latn	Ikam dari mana?	Kamu dari mana?
+msa_Latn	msa_Latn	Ikam harus balajar basa Parancis.	Kamu harus belajar bahasa Prancis.
+msa_Latn	msa_Latn	Ikam katuju mambaca kah?	Apakah kamu suka membaca?
+msa_Latn	msa_Latn	Inya kada kadangaran mun ngarannya dikiau.	Dia tidak mendengar namanya dipanggil.
+msa_Latn	msa_Latn	Inya katuju mandangarakan radiu.	Dia suka mendengarkan radio.
+msa_Latn	msa_Latn	Inya maajarakan yoga.	Dia mengajar yoga.
+msa_Latn	msa_Latn	Itu buku nang ulun tukar kamarian.	Itu buku yang aku beli kemarin.
+msa_Latn	msa_Latn	Itu kada salah kita.	Itu bukan salah kita.
+msa_Latn	msa_Latn	Jane kada masuk sakulah harini.	Jane tidak masuk sekolah hari ini.
+msa_Latn	msa_Latn	Jangan culas.	Jangan curang.
+msa_Latn	msa_Latn	Jangan laju-laju bajalan. Aku kada kawa maumpati.	Jangan jalan cepat-cepat! Aku tidak bisa mengikutimu.
+msa_Latn	msa_Latn	Kada lawas lagi Tom bakal bulik pang.	Tidak akan lama lagi Tom kembali.
+msa_Latn	msa_Latn	Kanapa pian handak balajar basa Inggris?	Mengapa Anda ingin belajar bahasa Inggris?
+msa_Latn	msa_Latn	Sami tulak ka Mesir gasan balajar basa Arab.	Sami pergi ke Mesir untuk belajar bahasa Arab.
+msa_Latn	msa_Latn	Takunakan gih ka urang lain.	Tanya saja orang lain.
+msa_Latn	msa_Latn	Tom baisi mobil sorang.	Tom memiliki mobilnya sendiri.
+msa_Latn	msa_Latn	Tom kada handak datang.	Tom tidak ingin datang.
+msa_Latn	msa_Latn	Ulun handak tulak ka Korea.	Aku ingin pergi ke Korea.
+msa_Latn	msa_Latn	Ulun kawalnya Tom.	Saya teman Tom.
+msa_Latn	msa_Latn	Unda balajar.	Aku belajar.
+msa_Latn	msa_Latn	Unda balum kawa batutur basa Indonesia nang lancar.	Aku belum bisa berbicara bahasa Indonesia dengan lancar.
+msa_Latn	msa_Latn	Unda gin urang Berlin jua.	Aku juga orang Berlin.
+msa_Latn	msa_Latn	Unda kada katuju duduk di luar.	Aku tidak suka duduk di luar.
+msa_Latn	msa_Latn	Unda kada kawa.	Aku tidak bisa.
+msa_Latn	msa_Latn	Unda rancak tulak ka toko buku tu.	Aku sering pergi ke toko buku itu.
+msa_Latn	msa_Latn	Unda sudah manulis banyak kalimat babasa Prancis.	Aku sudah menulis banyak kalimat dalam bahasa Prancis.
+msa_Latn	msa_Latn	Aku belajar.	Unda balajar.
+msa_Latn	msa_Latn	Aku ingin pergi ke Korea.	Ulun handak tulak ka Korea.
+msa_Latn	msa_Latn	Aku sering pergi ke toko buku itu.	Unda rancak tulak ka toko buku tu.
+msa_Latn	msa_Latn	Aku sudah menulis banyak kalimat dalam bahasa Prancis.	Unda sudah manulis banyak kalimat babasa Prancis.
+msa_Latn	msa_Latn	Aku tidak bisa.	Unda kada kawa.
+msa_Latn	msa_Latn	Aku tidak ingin pergi berenang hari ini.	Unda kada handak tulak bakunyung harini.
+msa_Latn	msa_Latn	Aku tidak suka duduk di luar.	Unda kada katuju duduk di luar.
+msa_Latn	msa_Latn	Apakah kamu suka membaca?	Ikam katuju mambaca kah?
+msa_Latn	msa_Latn	Apa yang kalian katakan padanya?	Apa lah nang buhan ikam padahakan inya?
+msa_Latn	msa_Latn	Apa yang mereka lakukan di atas sana?	Buhan inya baapa ay di atas situ?
+msa_Latn	msa_Latn	Bukan itu yang aku tanyakan kepadamu.	Bukan itu ai nang kutakunakan ka ikam.
+msa_Latn	msa_Latn	Dia mengajar yoga.	Inya maajarakan yoga.
+msa_Latn	msa_Latn	Dia orang Turki.	Inya urang Turki.
+msa_Latn	msa_Latn	Dia suka mendengarkan radio.	Inya katuju mandangarakan radiu.
+msa_Latn	msa_Latn	Dia tidak mendengar namanya dipanggil.	Inya kada kadangaran mun ngarannya dikiau.
+msa_Latn	msa_Latn	Itu buku yang aku beli kemarin.	Itu buku nang ulun tukar kamarian.
+msa_Latn	msa_Latn	Jane tidak masuk sekolah hari ini.	Jane kada masuk sakulah harini.
+msa_Latn	msa_Latn	Jangan curang.	Jangan culas.
+msa_Latn	msa_Latn	Jangan jalan cepat-cepat! Aku tidak bisa mengikutimu.	Jangan laju-laju bajalan. Aku kada kawa maumpati.
+msa_Latn	msa_Latn	Kamu dari mana?	Ikam dari mana?
+msa_Latn	msa_Latn	Mengapa Anda ingin belajar bahasa Inggris?	Kanapa pian handak balajar basa Inggris?
+msa_Latn	msa_Latn	Mereka orang Asia.	Buhan inya urang Asia.
+msa_Latn	msa_Latn	Mereka pergi ke masjid.	Buhan inya tulak ka masjid.
+msa_Latn	msa_Latn	Mereka sedang mendengarkan radio.	Buhan inya haratan mandangarakan radiu.
+msa_Latn	msa_Latn	Mereka tidak haus.	Buhan inya kada haus.
+msa_Latn	msa_Latn	Saya teman Tom.	Ulun kawalnya Tom.
+msa_Latn	msa_Latn	Tanya saja orang lain.	Takunakan gih ka urang lain.
+msa_Latn	msa_Latn	Tom memiliki mobilnya sendiri.	Tom baisi mobil sorang.
+msa_Latn	msa_Latn	Tom tidak ingin datang.	Tom kada handak datang.
+msa_Latn	msa_Latn	Tom tidak menyukaiku.	Tom kada katuju lawan ulun.
+msa_Latn	msa_Latn	Aku akan memakan jerukmu.	Jerukmu akan aku makan.
+msa_Latn	msa_Latn	Aku butuh bantuannya.	Aku membutuhkan bantuannya.
+msa_Latn	msa_Latn	Aku ENTJ.	Tipe kepribadianku ENTJ.
+msa_Latn	msa_Latn	Aku mencoba tidak tertawa.	Aku berusaha menahan tawa.
+msa_Latn	msa_Latn	Apakah kamu suka membaca?	Apakah Anda suka membaca?
+msa_Latn	msa_Latn	Apa yang mereka minum?	Mereka minum apa?
+msa_Latn	msa_Latn	Bayarannya bagus.	Gajinya bagus.
+msa_Latn	msa_Latn	Berapa ungkapan yang sudah kita pelajari sampai sekarang?	Berapa banyak idiom yang sudah kita pelajari sejauh ini?
+msa_Latn	msa_Latn	Beri aku satu.	Beri saya sebuah.
+msa_Latn	msa_Latn	Dengan apa kalian pergi ke kota?	Kalian pergi ke kota mengendarai apa?
+msa_Latn	msa_Latn	Di kota itu gedung tingginya banyak.	Ada banyak gedung tinggi di kota itu.
+msa_Latn	msa_Latn	Di mana aku?	Aku di mana?
+msa_Latn	msa_Latn	Kertas ini diimpor.	Ini kertas impor.
+msa_Latn	msa_Latn	Kota itu memiliki banyak gedung tinggi.	Ada banyak gedung tinggi di kota itu.
+msa_Latn	msa_Latn	Membunuh dua burung dengan satu kerikil.	Sekali dayung, dua tiga pulau terlampaui.
+msa_Latn	msa_Latn	Sekarang jam sepuluh.	Sekarang pukul sepuluh.
+msa_Latn	msa_Latn	Tanya orang lain selain aku.	Tanya saja orang lain.
+msa_Latn	msa_Latn	Telepon itu merah.	Telepon itu berwarna merah.
+msa_Latn	msa_Latn	Mereka akan melakukan apa yang kami katakan kepada mereka untuk dilakukan	Diorang nak buat apa yang kita bagitahu kat diorang nak buat.
+msa_Latn	msa_Latn	Aku berkenalan dengan seorang wanita di kereta bawah tanah.	Saya terjumpa seorang wanita dekat MRT .
+msa_Latn	msa_Latn	Aku butuh kabel lain.	Saya perlukan kabel lain.
+msa_Latn	msa_Latn	Aku menonton televisi seharian.	Saya menonton TV sepanjang hari.
+msa_Latn	msa_Latn	Aku tidak berubah	Aku tidak berubah.
+msa_Latn	msa_Latn	Apa ada hal yang bisa kubantu?	Ada apa-apa yang saya boleh bantu?
+msa_Latn	msa_Latn	Apa kamu bisa meluangkan waktumu sebentar? Ada yang ingin aku tanyakan.	Bolehkah awak meluangkan masa seminit? Ada sesuatu yang saya nak tanya.
+msa_Latn	msa_Latn	Apa kelebihan teknologi ini?	Apakah kelebihan teknologi ini?
+msa_Latn	msa_Latn	Apa yang bisa saya temukan di laman web ini?	Apa yang boleh saya temui di laman web ini?
+msa_Latn	msa_Latn	Bahasa Malaysia dan Bahasa Indonesia hampir mirip, tetapi kosakatanya sangat berbeda.	Bahasa Malaysia dan bahasa Indonesia adalah hampir sama, tetapi ia jauh beza kosakatanya.
+msa_Latn	msa_Latn	Basi deh lo! Baru ngomong sekarang kalau dia itu ternyata punya perasaan juga sama gue.	Alah, takkanlah awak nak bagitahu saya awal-awal kalau dia juga ada perasaan kat saya? Sekarang, dah terlambat!
+msa_Latn	msa_Latn	Basi! Madingnya udah siap terbit!	Sudah terlambat! Majalah dinding sudah sedia untuk diterbitkan!
+msa_Latn	msa_Latn	Cuaca hari ini sangat panas karena tidak hujan.	Cuaca hari ini sangat panas kerana tidak hujan.
+msa_Latn	msa_Latn	Dia berkata dia pikir bahwa saya sudah meninggal	Katanya, dia ingat saya dah meninggal.
+msa_Latn	msa_Latn	Dia mengecat sepedanya dengan warna biru.	Dia mengecat basikalnya dengan biru.
+msa_Latn	msa_Latn	Ekormu lucu.	Ekor awak comel.
+msa_Latn	msa_Latn	Jinnie mendapat hadiah ulang tahun berupa jam tangan mewah.	Jinnie mendapat hadiah hari jadi berupa jam tangan mewah.
+msa_Latn	msa_Latn	Kamu bisa berenang, tetapi aku tidak bisa	Awak pandai berenang, tetapi saya tidak pandai.
+msa_Latn	msa_Latn	Kamu sudah menjawab pertanyaanmu sendiri.	Awak telah menjawab soalan awak sendiri.
+msa_Latn	msa_Latn	Kucing itu terus berdiam di depan rumah majikannya.	Kucing itu terus tinggal di hadapan rumah tuannya.
+msa_Latn	msa_Latn	Masih ada hal yang aku belum jelas.	Ada sesuatu yang saya kurang jelaskannya.
+msa_Latn	msa_Latn	Mengapa Anda ingin belajar bahasa Inggris?	Kenapa awak hendak mempelajari bahasa Inggeris?
+msa_Latn	msa_Latn	Menurut saya bahasa Indonesia lebih mudah dipelajari daripada bahasa Melayu.	Saya mendapati bahasa Indonesia lebih mudah dipelajari daripada bahasa Melayu.
+msa_Latn	msa_Latn	Mereka akan melakukan apa yang kami katakan kepada mereka untuk dilakukan	Mereka akan melakukan apa yang kita suruh lakukan.
+msa_Latn	msa_Latn	Pergi ke mana, gitu, yuk!	Jom kemana jua.
+msa_Latn	msa_Latn	Permisi pak, apa anda membutuhkan bantuan?	Maaf tuan, adakah anda memerlukan bantuan?
+msa_Latn	msa_Latn	Sami kadang-kadang menelpon Layla	Kadang-kadang Sami menelefon Layla.
+msa_Latn	msa_Latn	Sami terus membicarakan hal tersebut	Sami terus bercakap pasal hal ini.
+msa_Latn	msa_Latn	Saya mencoba untuk menulisnya dengan tangan kiri.	Saya cuba menulis dengan tangan kiri.
+msa_Latn	msa_Latn	Sebelum kita mulai, biarkan saya bertanya suatu pertanyaan	Sebelum kita bermula, biarkan saya bertanya soalan.
+msa_Latn	msa_Latn	Sekarang lewat jam delapan.	Sudah pukul lapan lebih.
+msa_Latn	msa_Latn	Tata pergi ke pasar untuk membeli sayur dan buah.	Tata pergi ke pasar untuk membeli sayur-sayuran dan buah-buahan.
+msa_Latn	msa_Latn	Tomlah yang membangunkanku.	Tom yang membangunkan saya.
+msa_Latn	msa_Latn	Diorang nak buat apa yang kita bagitahu kat diorang nak buat.	Mereka akan melakukan apa yang kami katakan kepada mereka untuk dilakukan
+msa_Latn	msa_Arab	Tak kuasa aku nak layan mamat tu.	تق كواس اكو نق لاين مامت تو.
+msa_Latn	msa_Arab	Tak kuasa aku nak layan mamat tu.	اكو مالسله نق لاين دي ايت.
+msa_Latn	msa_Latn	Pakcik saya tinggal di Madrid, ibu kota Sepanyol.	Bapa saudara saya tinggal di Madrid, ibu negara Sepanyol.
+msa_Latn	msa_Latn	Tak kuasa aku nak layan mamat tu.	Aku malaslah nak layan dia itu.
+msa_Arab	msa_Latn	اكو مالسله نق لاين دي ايت.	Tak kuasa aku nak layan mamat tu.
+msa_Latn	msa_Latn	Borat berasal dari Kazakhstan; dia bukan orang Amerika.	Borat baasal matan Kazakstan; inya lain urang Amirika.
+msa_Latn	msa_Latn	Adakah kawasan itu berbahaya?	Berbahaya kah daerah sana?
+msa_Latn	msa_Latn	Adakah makanan awak mencukupi?	Apa kau sudah cukup makan?
+msa_Latn	msa_Latn	Aku tidak berubah.	Aku tidak berubah
+msa_Latn	msa_Latn	Alah, takkanlah awak nak bagitahu saya awal-awal kalau dia juga ada perasaan kat saya? Sekarang, dah terlambat!	Basi deh lo! Baru ngomong sekarang kalau dia itu ternyata punya perasaan juga sama gue.
+msa_Latn	msa_Latn	Apakah kelebihan teknologi ini?	Apa kelebihan teknologi ini?
+msa_Latn	msa_Latn	Apa yang boleh saya temui di laman web ini?	Apa yang bisa saya temukan di laman web ini?
+msa_Latn	msa_Latn	Awak pandai berenang, tetapi saya tidak pandai.	Kamu bisa berenang, tetapi aku tidak bisa
+msa_Latn	msa_Latn	Awak telah menjawab soalan awak sendiri.	Kamu sudah menjawab pertanyaanmu sendiri.
+msa_Latn	msa_Latn	Cuaca hari ini sangat panas kerana tidak hujan.	Cuaca hari ini sangat panas karena tidak hujan.
+msa_Latn	msa_Latn	Dia mengecat basikalnya dengan biru.	Dia mengecat sepedanya dengan warna biru.
+msa_Latn	msa_Latn	Ekor awak comel.	Ekormu lucu.
+msa_Latn	msa_Latn	Jangan lupa itu.	Jangan lupakan itu.
+msa_Latn	msa_Latn	Jom kemana jua.	Pergi ke mana, gitu, yuk!
+msa_Latn	msa_Latn	Kami faham anda ingin mencari hartanah yang bagus dengan harga yang rendah, oleh sebab itu, kami sentiasa mencari hartanah di bawah harga pasaran.	Kami mengerti Anda pasti mau cari properti bagus dengan harga miring, oleh karena itu Tim Hargamiring selalu memburu properti dengan harga di bawah harga pasar.
+msa_Latn	msa_Latn	Katanya, dia ingat saya dah meninggal.	Dia berkata dia pikir bahwa saya sudah meninggal
+msa_Latn	msa_Latn	Kenapa awak hendak mempelajari bahasa Inggeris?	Mengapa Anda ingin belajar bahasa Inggris?
+msa_Latn	msa_Latn	Kenapa dia tak tidur?	Kenapa dia tidak tidur?
+msa_Latn	msa_Latn	Kucing itu terus tinggal di hadapan rumah tuannya.	Kucing itu terus berdiam di depan rumah majikannya.
+msa_Latn	msa_Latn	Lita mempunyai dua ekor anjing.	Lita memiliki dua ekor anjing.
+msa_Latn	msa_Latn	Mary tidak mempunyai apa yang dia perlukan.	Mary tidak memiliki yang ia butuhkan.
+msa_Latn	msa_Latn	Mereka akan melakukan apa yang kita suruh lakukan.	Mereka akan melakukan apa yang kami katakan kepada mereka untuk dilakukan
+msa_Latn	msa_Latn	Perkauman masih menjadi isu.	Rasisme masih merupakan suatu masalah
+msa_Latn	msa_Latn	Sami terus bercakap pasal hal ini.	Sami terus membicarakan hal tersebut
+msa_Latn	msa_Latn	Saya berasa tidak berdaya.	Aku merasa tidak berdaya.
+msa_Latn	msa_Latn	Saya cuba menulis dengan tangan kiri.	Saya mencoba untuk menulisnya dengan tangan kiri.
+msa_Latn	msa_Latn	Saya mendapati bahasa Indonesia lebih mudah dipelajari daripada bahasa Melayu.	Menurut saya bahasa Indonesia lebih mudah dipelajari daripada bahasa Melayu.
+msa_Latn	msa_Latn	Saya menonton TV sepanjang hari.	Aku menonton televisi seharian.
+msa_Latn	msa_Latn	Saya nak awak datang.	Aku ingin kamu datang.
+msa_Latn	msa_Latn	Saya perlukan kabel lain.	Aku butuh kabel lain.
+msa_Latn	msa_Latn	Saya terjumpa seorang wanita dekat MRT .	Aku berkenalan dengan seorang wanita di kereta bawah tanah.
+msa_Latn	msa_Latn	Sudah pukul lapan lebih.	Sekarang lewat jam delapan.
+msa_Latn	msa_Latn	Sudah terlambat! Majalah dinding sudah sedia untuk diterbitkan!	Basi! Madingnya udah siap terbit!
+msa_Latn	msa_Latn	Tata pergi ke pasar untuk membeli sayur-sayuran dan buah-buahan.	Tata pergi ke pasar untuk membeli sayur dan buah.
+msa_Latn	msa_Latn	Aku malaslah nak layan dia itu.	Tak kuasa aku nak layan mamat tu.
+msa_Latn	msa_Latn	Bapa saudara saya tinggal di Madrid, ibu negara Sepanyol.	Pakcik saya tinggal di Madrid, ibu kota Sepanyol.
+msa_Latn	msa_Arab	Aku ingin mati bersama Getter Jaani.	اكو ايڠين ماتي برسام ڬيتتر ياني.
+msa_Latn	msa_Arab	Ayuh, mari kita mulakan perseteruan kita!	ايوه، ماري كيت مولاكن ڤرستروان كيت!
+msa_Latn	msa_Arab	Buku-buku yang terdapat di perpustakaan awam itu kebanyakannya adalah keluaran Dewan Bahasa dan Pustaka.	بوکو٢ يڠ ترداڤت دڤرڤوستاکاءن عوام ايت کباڽقنڽ اداله کلوارن ديوان بهاس دان ڤوستاک.
+msa_Latn	msa_Arab	Ia sudahpun terlambat.	اي سودهڤون ترلمبت.
+msa_Latn	msa_Arab	Ini benda mudah.	اين بندا موده.
+msa_Latn	msa_Arab	Ke bukit sama didaki, ke lurah sama dituruni	كبوكيت سام دداكي، كلوره سام دتوروني.
+msa_Latn	msa_Arab	"Mustahil beta akan berputih mata selepas melihat keadaan rakyat beta yang sengsara!" kata sang raja kepada penasihatnya.	"مستحيل بيتا اكن برڤوتيه مات سلڤس مليهت كأداءن رعيت بيتا يڠ سڠسارا!" كات سڠ راج كڤد ڤنصيحتڽ.
+msa_Latn	msa_Arab	Panas sungguh hari ini, berpeluh aku dibuatnya.	ڤانس سوڠڬوه هاري اين، برڤلوه اكو دبواتڽ.
+msa_Latn	msa_Arab	Salam takziah buat keluarga kamu, harap kamu sekeluarga tabah menghadapi ujian ini.	سلام تعزيه بوات کلوارݢ کامو⹁ هارڤ کامو سکلوارݢ تابه مڠهادڤي اوجين اين.
+msa_Latn	msa_Arab	Saya gemar menonton anime.	ساي ڬمر منونتون انيمي.
+msa_Latn	msa_Arab	Saya tidak tahan dengan dia.	ساي تيدق تاهن دڠن دي.
+msa_Latn	msa_Arab	Terdapat kemalangan di persimpangan.	ترداڤت كمالڠن دڤرسيمڤاڠن.
+msa_Latn	msa_Arab	Tindak tanduknya itu sangat mencurigakan, seperti udang di sebalik batu.	تيندق تندوقڽ ايت ساڠت منچوريݢاکن⹁ سڤرتي اودڠ دسباليق باتو.
+msa_Latn	msa_Arab	Wah, sudah lama kita tidak bersua! Kamu apa khabar?	وه⹁ سوده لاما کيت تيدق برسوا! کامو اڤ خبر؟
+msa_Latn	msa_Arab	Wajah mereka berdua itu serupa benar, bagai pelanduk dua serupa.	واجه مريک بردوا ايت سروڤا بنر، باڬاي ڤلندوق دوا سروڤا.

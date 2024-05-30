@@ -50,6 +50,7 @@ bul	epo	Бети е учител по танци.	Betty estas dancinstruisto.
 bul	epo	Бети е учител по танци.	Betty estas instruistino pri dancado.
 bul	epo	Беше много студено онази вечер.	Estis tre malvarme en tiu vespero.
 bul	epo	Би ли ми дал чаша вода?	Bonvolu doni al mi glason da akvo.
+bul	epo	Бих искал да знам защо си тук.	Mi ŝatus scii, kial vi estas ĉi tie.
 bul	epo	Бих искал да изпея песен.	Mi volus kanti kanton.
 bul	epo	Бих искал да пия нещо.	Mi ŝatus trinki ion.
 bul	epo	Бих искал да пия чаша кафе.	Mi ŝatus havi tason da kafo.
@@ -141,6 +142,7 @@ bul	epo	Ето голяма карта на Германия.	Jen granda mapo pr
 bul	epo	Жени с големи или с малки гърди харесваш?	Ĉu vi ŝatas virinojn kun grandaj aŭ kun etaj mamoj?
 bul	epo	Животът е труден.	La vivo malfacilas.
 bul	epo	Забрави го.	Forgesu lin.
+bul	epo	Забравил е да архивира документите.	Li forgesis enarĥivigi la dokumentojn.
 bul	epo	Завийте надясно, ако обичате.	Bonvolu turni dekstren.
 bul	epo	За да се защити, той използва чадъра си.	Por defendi sin li uzis sian ombrelon.
 bul	epo	За децата е нужно да спят много.	Infanoj bezonas dormi multe.
@@ -194,6 +196,7 @@ bul	epo	Какво да правя?	Kion mi faru?
 bul	epo	Какво е фалафел?	Kio estas falaflo?
 bul	epo	Какво искаш да кажеш?	Kion vi volas diri?
 bul	epo	Какво красиво цвете!	Kia bela floro!
+bul	epo	Какво крият те?	Kion ili kaŝas?
 bul	epo	Какво съдържа то?	Kion ĝi enhavas?
 bul	epo	Каквото ще да става, ще ги накараме да говорят.	Ni igos ilin paroli, kion ajn tio necesigas.
 bul	epo	Какво ще е времето утре?	Kia vetero estos morgaŭ?
@@ -259,6 +262,7 @@ bul	epo	Можеш ли да разясниш малко по-подробно?	
 bul	epo	Моливът е черен.	La krajono estas nigra.
 bul	epo	Моля.	Ne dankinde.
 bul	epo	Моля изчакайте за момент.	Bonvolu atendi momenton.
+bul	epo	Моля се за теб.	Mi preĝas por vi.
 bul	epo	Момичето, облечено в бяла рокля, е моята сестра.	La knabino surhavanta blankan robon estas mia fratino.
 bul	epo	Момчето обеща да не бъде повече лошо.	La knabo promesis, ke li ne estos malbona.
 bul	epo	Моята малка сестра отива в училище за медицински сестри.	Mia malgranda fratino iras al infanĝardeno.
@@ -276,6 +280,7 @@ bul	epo	Нарежи тортата с този нож.	Tranĉu la kukon per tiu
 bul	epo	На север времето е лошо.	En la nordo estas malbona vetero.
 bul	epo	На Том му е много по-лесно да говори френски, отколкото английски.	Estas multe pli facile por Tom paroli france, ol angle.
 bul	epo	Начинаещи сте, но учите бързо.	Vi estas komencantoj, sed vi lernas rapide.
+bul	epo	Небето беше ясно.	La ĉielo estis klara.
 bul	epo	Небето е синьо.	La ĉielo bluas.
 bul	epo	Небето се синее.	La ĉielo bluas.
 bul	epo	Не благодаря, просто разглеждам.	Ne, dankon. Mi nur rigardas.
@@ -283,8 +288,10 @@ bul	epo	Не бъдете толкова шумни, моля ви.	Ne faru tiom
 bul	epo	Не бъди толкова шумен, моля те.	Ne faru tiom da bruo, mi petas.
 bul	epo	Не вдигайте толкова шум, моля ви.	Ne faru tiom da bruo, mi petas.
 bul	epo	Не вдигай толкова шум, моля те.	Ne faru tiom da bruo, mi petas.
+bul	epo	Не виждам друго решение.	Mi ne vidas alian solvon.
 bul	epo	Не влизай.	Ne eniru.
 bul	epo	Не всяка лампа е вълшебна.	Ne ĉiu lampo estas magia.
+bul	epo	Не ги оставяй да умрат.	Ne lasu ilin morti.
 bul	epo	Неговата родна страна е Германия.	Lia hejmlando estas Germanujo.
 bul	epo	Не говори за хората зад гърба им.	Ne parolu pri homoj dorsflanke de ili.
 bul	epo	Не говори за хората зад гърба им.	Ne parolu pri homoj malantaŭ ties dorsoj.
@@ -304,6 +311,8 @@ bul	epo	Не ми каза нито дума.	Ŝi diris eĉ ne unu vorton al mi.
 bul	epo	Не ми харесва вкусът на доматите.	Mi ne ŝatas la guston de tomatoj.
 bul	epo	Не много сладко.	Ne tre dolĉa.
 bul	epo	Не мога да отварям SWF-файлове.	Mi ne povas malfermi SWF-dosierojn.
+bul	epo	Не може да се пътува без паспорт.	Sen pasporto oni ne povas vojaĝi.
+bul	epo	Не можеш да пътуваш без паспорт.	Vi ne povas vojaĝi sen pasporto.
 bul	epo	Не можеш да се пенсионираш все още.	Vi ankoraŭ ne povas retiri vin.
 bul	epo	Не ни забравяй!	Ne forgesu nin!
 bul	epo	Не пий бира преди лягане.	Ne trinku bieron antaŭ enlitiĝo.
@@ -335,6 +344,7 @@ bul	epo	Никой не е изтрил това изречение.	Neniu forig
 bul	epo	Никой не ме разбира.	Neniu komprenas min.
 bul	epo	Никой никога не беше чувал за това.	Neniu neniam aŭdis pri tio.
 bul	epo	Никой няма да знае.	Neniu scios.
+bul	epo	Никой тук, освен Томас, не ми харесва.	Neniu krom Tomaso plaĉas al mi tie ĉi.
 bul	epo	Носиш ли шофьорската книжка?	Ĉu vi havas vian kondukpermesilon?
 bul	epo	Някои жени изглеждат по-скоро мъжествено, отколкото женствено.	Kelkaj virinoj aspektas pli vire ol ine.
 bul	epo	Някои хора със сигурност биха попитали, защо просто не си съберем нещата и не се изтеглим от Афганистан?	Iuj homoj certe demandos, kial ni ne simple paku ĉion kaj forlasu Afganujon?
@@ -346,7 +356,9 @@ bul	epo	Няма извинение за закъснението му.	Ne estas
 bul	epo	Нямам книги за четене.	Mi havas neniun libron legotan.
 bul	epo	Нямам нищо за казване.	Mi havas nenion por diri.
 bul	epo	Нямам търпение да те видя.	Mi antaŭĝuas renkonti vin.
+bul	epo	Нямаше съвсем никакво съмнение.	Estis absolute neniu dubo.
 bul	epo	Нямаш температура.	Vi ne havas febron.
+bul	epo	Обединените хора никога няма да бъдат победени.	La unuigita popolo neniam estos venkita.
 bul	epo	Обикновено сутрин се будя преди осем.	Kutime mi vekiĝas antaŭ la oka matene.
 bul	epo	Обичам окситански език.	Mi ŝatas la okcitanan lingvon.
 bul	epo	Обичаш ли китайска кухня?	Ĉu vi ŝatas ĉinan kuirarton?
@@ -391,6 +403,7 @@ bul	epo	През следващите четири години е нужно д
 bul	epo	Приятелите на баща ти не са единствените му поддръжници.	La amikoj de via patro ne estas liaj nuraj subtenantoj.
 bul	epo	Приятелката ми е много ревнива.	Mia amikino estas tre ĵaluza.
 bul	epo	Проблем за който нямаме отговор е.	Ĝi estas problemo por kiu ni ne havas respondon.
+bul	epo	Продадох старата си китара.	Mi vendis mian malnovan gitaron.
 bul	epo	Просто ми трябва малко повече време.	Mi bezonas nur iomete pli da tempo.
 bul	epo	Просто следвай сърцето си.	Simple sekvu vian koron.
 bul	epo	Публиката е най-добрият съдия.	La publiko estas la plej bona juĝisto.
@@ -423,6 +436,7 @@ bul	epo	Статистиката показва, че населението н�
 bul	epo	Стената е студена.	Tiu muro estas malvarma.
 bul	epo	Стив се качва в автобуса.	Steĉjo eniras aŭtobuson.
 bul	epo	Странно е чувството, което те обзема, когато стоиш пред някого, когото си сънувал предишната нощ.	Estas stranga sento kiu rampas sur vi, kiam vi staras fronte al iu, pri kiu vi sonĝis lastan nokton.
+bul	epo	Студено е през зимата.	Malvarmas en la vintro.
 bul	epo	С туптящо сърце, тя отвори вратата.	Kun batanta koro ŝi malfermis la pordon.
 bul	epo	Сънувах те.	Mi sonĝis pri vi.
 bul	epo	Тази къща има нужда от пребоядисване.	Tiu domo bezonas refarbon.
@@ -463,6 +477,8 @@ bul	epo	Този преносим телефон се продава отлич�
 bul	epo	Този ръчен часовник е произведен в Япония.	Tiu ĉi brakhorloĝo estis produktita en Japanio.
 bul	epo	Този символ показва, че отговорът е верен.	Tiu simbolo indikas, ke la respondo ĝustas.
 bul	epo	Той бе убит на бойното поле.	Li estas mortigita sur la batalkampo.
+bul	epo	Той беше един от най-добрите ми приятели.	Li estis unu el miaj plej bonaj amikoj.
+bul	epo	Той говореше с американски акцент.	Li parolis kun usona akĉento.
 bul	epo	Той е вълк в овча кожа.	Portante ŝafan pelton li tamen restas lupo.
 bul	epo	Той е добре по математика.	Li estas lerta pri matematiko.
 bul	epo	Той е луд по теб.	Li freneze sopiras al vi.
@@ -476,6 +492,7 @@ bul	epo	Той заслужава медал за храбростта си.	Li 
 bul	epo	Той изглеждаше сякаш някога е бил богат.	Ŝajnis ke li estis riĉa.
 bul	epo	Той има прекалено много книги.	Li havas tro da libroj.
 bul	epo	Той ми е като брат.	Li estas kiel frato por mi.
+bul	epo	Той не беше вкъщи.	Li ne estis hejme.
 bul	epo	Той не искаше да те наранява.	Ne estis lia intenco kaŭzi aflikton al vi.
 bul	epo	Той не искаше да те наранява.	Ne estis lia intenco kaŭzi doloron al vi.
 bul	epo	Той не обича да пътува със самолет.	Li ne ŝatas vojaĝi aviadile.
@@ -564,6 +581,7 @@ bul	epo	Чухте ли за него?	Ĉu vi aŭdis pri li?
 bul	epo	Чух, че той е болен от миналия месец.	Mi aŭdis ke li malsanas de la pasinta monato.
 bul	epo	Шегата му накара целия клас да избухне в смях.	Lia ŝerco igis la tutan klason ekridegi.
 bul	epo	Шегувам се.	Mi ŝercas.
+bul	epo	Ще бъдат ли достатъчни три долара?	Ĉu tri dolaroj sufiĉos?
 bul	epo	Ще запазите ли това място за мен?	Ĉu vi rezervus tiun lokon por mi?
 bul	epo	Ще се върна в шест и трийсет.	Mi revenos je la sesa kaj tridek.
 bul	epo	Ще трябва да му се извиниш когато го видиш.	Vi devas pardonpeti kiam vi renkontos lin.

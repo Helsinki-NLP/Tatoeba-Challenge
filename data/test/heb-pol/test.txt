@@ -195,7 +195,11 @@ heb	pol	אין זמן לבזבז.	Nie ma czasu do stracenia!
 heb	pol	אין טעם לדבר איתה.	Nie ma sensu z nią rozmawiać.
 heb	pol	אין טעם לדבר איתו, הוא אף פעם לא מקשיב.	Nie ma sensu z nim rozmawiać, on nigdy nie słucha.
 heb	pol	אין טעם לנסות לשכנע אותה.	Nie ma sensu próbować ją przekonać.
+heb	pol	איני יודע דבר על יפן.	Nie wiem nic o Japonii.
+heb	pol	איני יודע להביע את רגשותיי.	Nie umiem wyrazić swoich uczuć.
 heb	pol	אין כבר חלב.	Nie ma już mleka.
+heb	pol	אינך דובר אנגלית?	Nie mówi Pani po angielsku?
+heb	pol	אינך חיב לומר תמיד את האמת.	Nie musisz mówić prawdy przez cały czas.
 heb	pol	אין כניסה לבניין הזה.	Do tego budynku nie ma wstępu.
 heb	pol	אין לה כבר מרץ כמו שהיה לה בעבר.	Już nie jest tak energiczna jak kiedyś.
 heb	pol	אין לו מושג באלקטרוניקה.	On nie ma pojęcia o elektronice.
@@ -224,21 +228,17 @@ heb	pol	אין מה לדאוג.	Nie ma się czym martwić.
 heb	pol	אין מה לדבר, הוא אדם גבוה.	Co by nie mówić, jest wysoki.
 heb	pol	אין מה לומר, זה אדם גבוה.	Co by nie mówić, jest wysoki.
 heb	pol	אין ממה לחשוש.	Nie ma się co obawiać.
-heb	pol	אין ספקות לגבי היושר שלו.	Nie ma wątpliwości do jego uczciwości.
-heb	pol	אין עליי אפילו שקל.	Nie mam ani grosza.
-heb	pol	אין צורך לצעוק כל כך.	Nie ma potrzeby tak krzyczeć.
-heb	pol	אין צלחות נקיות.	Nie ma czystych talerzy.
-heb	pol	אין שום בעיה!	Żaden problem!
-heb	pol	איני יודע דבר על יפן.	Nie wiem nic o Japonii.
-heb	pol	איני יודע להביע את רגשותיי.	Nie umiem wyrazić swoich uczuć.
-heb	pol	אינך דובר אנגלית?	Nie mówi Pani po angielsku?
-heb	pol	אינך חיב לומר תמיד את האמת.	Nie musisz mówić prawdy przez cały czas.
 heb	pol	אינני אמן, אף פעם לא חשבתי על כך.	Nie jestem artystą, nigdy o tym nie myślałem.
 heb	pol	אינני יודע אם יש לי זמן.	Nie wiem, czy mam czas.
 heb	pol	אינני יודע אם עלי להסכים איתך.	Nie wiem czy mam się z tobą zgodzić.
 heb	pol	אינני יכול לענות על השאלה שלך.	Nie mogę odpowiedzieć na Państwa pytanie.
 heb	pol	אינני מדברת יפנית.	Nie mówię po japońsku.
 heb	pol	אינני שותף לדעתך.	Nie podzielam tego zdania.
+heb	pol	אין ספקות לגבי היושר שלו.	Nie ma wątpliwości do jego uczciwości.
+heb	pol	אין עליי אפילו שקל.	Nie mam ani grosza.
+heb	pol	אין צורך לצעוק כל כך.	Nie ma potrzeby tak krzyczeć.
+heb	pol	אין צלחות נקיות.	Nie ma czystych talerzy.
+heb	pol	אין שום בעיה!	Żaden problem!
 heb	pol	איפה אתה עובד?	Gdzie pracujesz?
 heb	pol	איפה אתה עכשיו?	Gdzie teraz jesteś?
 heb	pol	איפה האמבטיה?	Gdzie jest łazienka?
@@ -267,9 +267,9 @@ heb	pol	איש לא נפצע.	Nikt nie był ranny.
 heb	pol	איש מבינינו לא קרא לך.	Nikt z nas cię nie wołał.
 heb	pol	איש רוח הוא אדם שגילה דבר מה שמושך יותר מסקס.	Intelektualista to ktoś, kto odkryl coś znacznie bardziej pociągającego niż seks,
 heb	pol	אך, איזה ניחוח נהדר!	Cóż za smakowity zapach!
-heb	pol	אך, לו ידעתי לדבר צרפתית.	Ach, gdybym umiał mówić po francusku...!
 heb	pol	אכילה טובה, ריקון מעיים ושינה - אלה סממנים של בריאות.	Dobre jedzenie, wypróżnianie i sen - oto oznaki zdrowia.
 heb	pol	אכילס היה גיבור יווני בימים עברו.	Achilles był starożytnym greckim bohaterem.
+heb	pol	אך, לו ידעתי לדבר צרפתית.	Ach, gdybym umiał mówić po francusku...!
 heb	pol	אכלתי ארוחת צהריים זריזה.	Zjadłem szybki obiad.
 heb	pol	אכלתי יותר מדי.	Przejadłem się.
 heb	pol	אכלת כבר ארוחת בוקר?	Jadłeś już śniadanie?
@@ -359,31 +359,57 @@ heb	pol	אל תתבלבל בין סוכר למלח.	Nie pomyl cukru z solą.
 heb	pol	אל תתחיל לכעוס.	Nie wpadaj w gniew.
 heb	pol	אל תתלונן.	Nie narzekaj.
 heb	pol	אל תתקרב לכלב הזה.	Nie zbliżaj się do tego psa.
+heb	pol	אמא, איפה המטפחת אף שלי?	Mamo, gdzie moja chusteczka?
+heb	pol	אמא בטח תתנגד.	Mama na pewno się sprzeciwi.
+heb	pol	אמא דפקה בדלת.	Matka zapukała do drzwi.
+heb	pol	אמא היתה מאושרת כשראתה את האורחים זוללים את העוגות שלה.	Mama była szczęśliwa widząc, jak goście zajadają się jej ciastami.
+heb	pol	אמא היתה מותשת.	Matka była wykończona.
+heb	pol	אמא השכיבה את הילד במיטה.	Matka położyła dziecko na łóżku.
+heb	pol	אם אינך אוכל, אתה גווע.	Jeśli nie jesz, umierasz.
 heb	pol	אם אין להם מים, הפרחים מתים.	Kwiaty umierają jeśli nie mają wody.
 heb	pol	אם אין לך את התוכנה הזאת, אפשר להוריד אותה עכשיו.	Jeśli nie ma pan tego programu, można go teraz ściągnąć.
-heb	pol	אם אינך אוכל, אתה גווע.	Jeśli nie jesz, umierasz.
+heb	pol	אמא יצאה לקניות.	Mama wyszła na zakupy.
 heb	pol	אם אפגוש אותה, מאד ארצה לנשק אותה.	Jeśli ją spotkam, bardzo będę chciał ją pocałować.
 heb	pol	אם אפשר, אבוא מחר.	Jeśli można, przyjdę jutro.
+heb	pol	אמא שלה גרה בכפר, לגמרי לבד.	Jej matka mieszka na wsi zupełnie sama.
+heb	pol	אמא שלו נפטרה כשהיה קטן, לכן הסבתא גידלה אותו.	Jego matka zmarła kiedy był mały, więc wychowała go babcia.
+heb	pol	אמא שלי תפרה לי שמלה לבנה.	Moja mama uszyła mi białą sukienkę.
 heb	pol	אם אתה לא אוכל, אתה מת.	Jeśli nie jesz, umierasz.
 heb	pol	אם אתה נוסע לארה"ב, תלמד אנגלית מדוברת.	Jeśli jedziesz do USA, poucz się angielskiego w mowie.
 heb	pol	אם אתה עייף, אינך חייב ללמוד בשקידה כה רבה.	Jeśliś zmęczony, nie musisz się tak pilnie uczyć.
 heb	pol	אם אתה עסוק, אשמח לעזור.	Jeśli jesteś zajęty, chętnie pomogę.
 heb	pol	אם אתה רוצה, נוכל להשתמש באנגלית.	Jeżeli chcesz, to możemy używać angielskiego.
+heb	pol	אמא תפרה לי שמלה חדשה.	Mama uszyła mi nową sukienkę.
+heb	pol	אמבטיה חמה שחררה לי את השרירים.	Gorąca kąpiel rozluźniła mi mięśnie.
 heb	pol	אם בכל זאת הוא יגיע למצב של מוות מוחי, הוא לא יוכל עוד לחשוב, לדבר או לשמוע.	Jeśli jednak dojdzie do niego do śmierci mózgu, nigdy już nie będzie myślał, mówił, ani słyszał.
 heb	pol	אם הוא יבוא, תמסור לו ד"ש ממני.	Jeśli przyjdzie, pozdrów go ode mnie.
 heb	pol	אם הוא יתאמץ, הוא יצליח.	Jeśli się przyłoży, da radę.
 heb	pol	אם הלב פועם, סימן שאתה חי.	Serce ci bije, znaczy, że żyjesz.
+heb	pol	אמונה עושה פלאים.	Wiara czyni cuda!
+heb	pol	אמי דוברת אנגלית חלשה למדי.	Moja mama mówi dość słabo po angielsku.
 heb	pol	אם יהיה צורך, אלך איתך.	Jeśli będzie trzeba, pójdę z tobą.
 heb	pol	אם ישאלו אותך על הנקודות החזקות שלך, תכין תשובה מראש.	Jeśli cię zapytają o twoje mocne punkty, miej przygotowaną odpowiedź.
 heb	pol	אם יש לך שאלות, נא לא להסס.	Jeśli ma pan pytania, proszę się nie krępować.
+heb	pol	אמך בבית?	Czy twoja mama jest w domu?
 heb	pol	אם לא יוכלו להיות לך ילדים משלך, תמיד תוכלי לאמץ.	Jeśli nie możesz mieć dzieci, zawsze możesz adoptować.
 heb	pol	אם לא יוכלו להיות לך ילדים משלך, תמיד תוכל לאמץ.	Jeśli nie możesz mieć dzieci, zawsze możesz adoptować.
 heb	pol	אם לבדוק את הנושא יותר לעומק, היא צודקת.	Jeśli badać sprawę bardziej dogłębnie, - on ma rację.
 heb	pol	אם לומר זאת בכנות, אני רואה בו מנהל טוב.	Szczerze powiedziawszy, uważam go za dobrego szefa.
 heb	pol	אם לשפוט לפי מראה עיניים, הוא ללא ספק אדם עשיר.	Sądząc po jego wyglądzie, niewątpliwie jest zamożny.
 heb	pol	אם משהו יקרה, בבקשנ לטלפן מיד.	Gdyby coś się działo, proszę natychmiast dzwonić.
+heb	pol	אמנות למען האמנות.	Sztuka dla sztuki.
+heb	pol	אמנם הוא התנצל, אבל אני עדיין רותח מזעם.	Chociaż przeprosił, ja wciąż jestem wściekły.
+heb	pol	אמרו לך מדוע לא שכרנו אותך?	Czy wiesz, dlaczego cię nie zatrudniliśmy?
+heb	pol	אמרתי את זה כבדיחה.	Powiedziałem w żarcie.
+heb	pol	אמרתי לה.	Mówiłem jej.
+heb	pol	אמרתי לכם שעליכם ללכת הביתה. למה אתם עדיין כאן?	Powiedziałem wam, że macie iść do domu. Czemu wciąż tu jesteście?
+heb	pol	אמרתי לך שאיני יודע איך לעשות את זה.	Powiedziałem Tobie, że nie wiem jak to zrobić.
+heb	pol	אמרת משהו?	Mówiłeś coś?
+heb	pol	אמרת שאני אף פעם לא אנצח?	Powiedziałeś, że nigdy nie wygram?
+heb	pol	אמש היא קראה ספר בישול.	Wczoraj wieczorem czytała książkę kucharską.
 heb	pol	אם תזלול - תשמין.	Jak będziesz się obżerał, utyjesz.
 heb	pol	אם תיקח את התרופה הזאת, תיפטר מההצטננות.	Jeśli weźmiesz to lekarstwo, pozbędziesz się zaziębienia.
+heb	pol	אמת לא זקוקה לרוב מילים.	Prawda nie potrzebuje wielu słów.
 heb	pol	אם תמצאו עניין משותף, זה עשוי להצליח.	Jeśli znajdziecie wspólne zainteresowania, jakoś pójdzie.
 heb	pol	אם תעשה את זה, תסתכן בביקורת קשה.	Jeśli to zrobisz, narazisz się na ostrą krytykę.
 heb	pol	אם תעשה טעות, תשלם קנס.	Jeśli popełnisz błąd, płacisz karę.
@@ -394,32 +420,6 @@ heb	pol	אם תקנה את זה, אתן לך הנחה של 15%.	Jeśli to kupisz
 heb	pol	אם תשמוט את זה, זה יתנפץ.	Gdyby to upuścić, stłukłoby się.
 heb	pol	אם תשמע אזעקה, לך, אל תרוץ.	Jeśli usłyszysz alarm, idź, nie biegnij.
 heb	pol	אם תתעמק במילים, תראה שאין להן משמעות רבה.	Jeśli przyjrzysz się słowom, to one naprawdę nie znaczą wiele.
-heb	pol	אמא, איפה המטפחת אף שלי?	Mamo, gdzie moja chusteczka?
-heb	pol	אמא בטח תתנגד.	Mama na pewno się sprzeciwi.
-heb	pol	אמא דפקה בדלת.	Matka zapukała do drzwi.
-heb	pol	אמא היתה מאושרת כשראתה את האורחים זוללים את העוגות שלה.	Mama była szczęśliwa widząc, jak goście zajadają się jej ciastami.
-heb	pol	אמא היתה מותשת.	Matka była wykończona.
-heb	pol	אמא השכיבה את הילד במיטה.	Matka położyła dziecko na łóżku.
-heb	pol	אמא יצאה לקניות.	Mama wyszła na zakupy.
-heb	pol	אמא שלה גרה בכפר, לגמרי לבד.	Jej matka mieszka na wsi zupełnie sama.
-heb	pol	אמא שלו נפטרה כשהיה קטן, לכן הסבתא גידלה אותו.	Jego matka zmarła kiedy był mały, więc wychowała go babcia.
-heb	pol	אמא שלי תפרה לי שמלה לבנה.	Moja mama uszyła mi białą sukienkę.
-heb	pol	אמא תפרה לי שמלה חדשה.	Mama uszyła mi nową sukienkę.
-heb	pol	אמבטיה חמה שחררה לי את השרירים.	Gorąca kąpiel rozluźniła mi mięśnie.
-heb	pol	אמונה עושה פלאים.	Wiara czyni cuda!
-heb	pol	אמי דוברת אנגלית חלשה למדי.	Moja mama mówi dość słabo po angielsku.
-heb	pol	אמך בבית?	Czy twoja mama jest w domu?
-heb	pol	אמנות למען האמנות.	Sztuka dla sztuki.
-heb	pol	אמנם הוא התנצל, אבל אני עדיין רותח מזעם.	Chociaż przeprosił, ja wciąż jestem wściekły.
-heb	pol	אמרו לך מדוע לא שכרנו אותך?	Czy wiesz, dlaczego cię nie zatrudniliśmy?
-heb	pol	אמרתי את זה כבדיחה.	Powiedziałem w żarcie.
-heb	pol	אמרתי לה.	Mówiłem jej.
-heb	pol	אמרתי לך שאיני יודע איך לעשות את זה.	Powiedziałem Tobie, że nie wiem jak to zrobić.
-heb	pol	אמרתי לכם שעליכם ללכת הביתה. למה אתם עדיין כאן?	Powiedziałem wam, że macie iść do domu. Czemu wciąż tu jesteście?
-heb	pol	אמרת משהו?	Mówiłeś coś?
-heb	pol	אמרת שאני אף פעם לא אנצח?	Powiedziałeś, że nigdy nie wygram?
-heb	pol	אמש היא קראה ספר בישול.	Wczoraj wieczorem czytała książkę kucharską.
-heb	pol	אמת לא זקוקה לרוב מילים.	Prawda nie potrzebuje wielu słów.
 heb	pol	אן היא בקבוצת מעודדות.	Ann jest cheerleaderką.
 heb	pol	אן היא ילדה קטנה.	Ann jest małą dziewczynką.
 heb	pol	אנו אוהבים ילדים.	Lubimy dzieci.
@@ -511,11 +511,11 @@ heb	pol	אני אסע לאוסטרליה ברכבת.	Pojadę do Australii pocią
 heb	pol	אני אסע לצרפת ללמוד ציור.	Pojadę do Francji studiować malarstwo.
 heb	pol	אני אעשה הכל בשבילו.	Zrobię dla niego wszystko.
 heb	pol	אני אעשה כעצתך.	Zrobię, jak radzisz.
+heb	pol	אני אפס.	Jestem zerem.
+heb	pol	אני אפס מאופס.	Jestem zerem.
 heb	pol	אני אף פעם לא אפגע בך.	Nigdy Cię nie skrzywdzę.
 heb	pol	אני אף פעם לא חש בנוח בחברתו.	Nigdy nie czuję się dobrze w jego towarzystwie.
 heb	pol	אני אף פעם לא מאחר לבית הספר.	Nigdy się nie spóźniam do szkoły.
-heb	pol	אני אפס.	Jestem zerem.
-heb	pol	אני אפס מאופס.	Jestem zerem.
 heb	pol	אני אפרד מכם לאט.	Będę się powoli żegnał.
 heb	pol	אני אצא מכאן.	Ja wyjdę stąd.
 heb	pol	אני אקבל הנחה?	Dostanę zniżkę?
@@ -945,7 +945,12 @@ heb	pol	אף אחד לא חושב כך.	Nikt tak nie myśli.
 heb	pol	אף אחד לא מבוגר מדי כדי ללמוד.	Nikt nie jest za stary na naukę.
 heb	pol	אף אחת מהתמונות האלה לא מוצאת חם בעיניי.	Żaden z tych obrazów mi się nie podoba.
 heb	pol	אף אישה לא תקנה את זה.	Żadna kobieta tego nie kupi.
+heb	pol	אפגוש בו במהלך השבוע.	W ciągu tygodnia spotkam się z nim.
+heb	pol	אפילו אם זאת לא אמת, זה רעיון טוב.	Jeśli nawet to nie prawda, to dobrze wymyślone.
+heb	pol	אפילו לרגע לא הטלתי בך ספק.	Ani przez chwilę w ciebie nie wątpiłem.
+heb	pol	אפילו מונית אחת לא עצרה.	Nie zatrzymała się ani jedna taksówka.
 heb	pol	אף מילה לאף אחד.	Ani słowa nikomu.
+heb	pol	אפף אותו חושך מצרים.	Otaczały go egipskie ciemności.
 heb	pol	אף פעם איננו יודעים מה יקרה מחר.	Nigdy nie wiemy, co zdarzy się jutro.
 heb	pol	אף פעם אל תשכח לנעול את המנעול כשאתה הולך לישון.	Nigdy nie zapominaj zamknąć zamka, kiedy idziesz spać.
 heb	pol	אף פעם לא היית בפריז?	Nigdy nie byłeś w Paryżu?
@@ -955,12 +960,6 @@ heb	pol	אף פעם לא תהיה לבד.	Nigdy nie będziesz sam.
 heb	pol	אף פעם לא תהיו לבד.	Nigdy nie będziesz sam.
 heb	pol	אף שאני יושב כאן בשמש, עדיין קר לי.	Mimo że siedzę tu w słońcu, wciąż mi zimno.
 heb	pol	אף שלא היתה רזה, היא רקדה היטב.	Choć nie była szczupła, tańczyła dobrze.
-heb	pol	אף תמונה לא מוצאת חן בעיניי.	Żaden z tych obrazów mi się nie podoba.
-heb	pol	אפגוש בו במהלך השבוע.	W ciągu tygodnia spotkam się z nim.
-heb	pol	אפילו אם זאת לא אמת, זה רעיון טוב.	Jeśli nawet to nie prawda, to dobrze wymyślone.
-heb	pol	אפילו לרגע לא הטלתי בך ספק.	Ani przez chwilę w ciebie nie wątpiłem.
-heb	pol	אפילו מונית אחת לא עצרה.	Nie zatrzymała się ani jedna taksówka.
-heb	pol	אפף אותו חושך מצרים.	Otaczały go egipskie ciemności.
 heb	pol	אפשר בארבעה, או בשישה, או בשנים עשר תשלומים.	Może być cztery, sześć lub dwanaście rat.
 heb	pol	אפשר לבקש כוס מים?	Czy można prosić o szklankę wody?
 heb	pol	אפשר לבקש סליחה לרגע?	Czy mogę przeprosić na moment?
@@ -969,6 +968,7 @@ heb	pol	אפשר להציץ בעיתון שלך?	Mogę przejrzeć pańską gazet
 heb	pol	אפשר להשכיב את משענת המושב?	Czy mogę położyć siedzenie?
 heb	pol	אפשר לכבות את האור?	Czy mogę zgasić światło?
 heb	pol	אפשר לקבל מפה?	Czy mogę dostać mapę?
+heb	pol	אף תמונה לא מוצאת חן בעיניי.	Żaden z tych obrazów mi się nie podoba.
 heb	pol	אצל אחותי תמיד יש סדר בחדר.	Moja siostra zawsze ma porządek w pokoju.
 heb	pol	אצלי הכל בסדר.	U mnie wszystko w porządku.
 heb	pol	אצל מי אתה מתגורר?	U kogo mieszkasz?
@@ -1149,11 +1149,6 @@ heb	pol	את כועסת?	Jesteś zła?
 heb	pol	את כותבת יפה.	Ładnie piszesz.
 heb	pol	את כתובת האימייל שלך קיבלתי ממר וילדר.	Pański adres e-mail otrzymałem od p. Wildera.
 heb	pol	את לא חייבת להישאר עד הסוף.	Nie musisz czekać do końca.
-heb	pol	אתם יכולים לפתוח את החלון?	Mogą panowie otworzyć okno?
-heb	pol	אתם יכולים לפתוח את החלון?	Mogą państwo otworzyć okno?
-heb	pol	אתם ילדים.	Jesteście dziećmi.
-heb	pol	אתם סטודנטים?	Jesteście studentami?
-heb	pol	אתם צריכים לומר תמיד את האמת.	Powinniście zawsze mówić prawdę.
 heb	pol	את מדברת עליי?	O mnie mówisz?
 heb	pol	אתמול בבוקר ירד גשם חזק.	Wczoraj rano mocno padało.
 heb	pol	אתמול בערב האופניים שלי נגנבו.	Wczoraj wieczorem ukradziono mi rower.
@@ -1169,8 +1164,13 @@ heb	pol	אתמול זה פשוט לא היה היום שלי.	Wczoraj, to po pro
 heb	pol	אתמול לא קראתי בספר.	Wczoraj nie czytałem książki.
 heb	pol	אתמול פשוט לא הלכתי לעבודה.	Wczoraj, po prostu nie poszedłem do pracy.
 heb	pol	את מי אתה מחפש?	Kogo szukasz?
+heb	pol	אתם יכולים לפתוח את החלון?	Mogą panowie otworzyć okno?
+heb	pol	אתם יכולים לפתוח את החלון?	Mogą państwo otworzyć okno?
+heb	pol	אתם ילדים.	Jesteście dziećmi.
 heb	pol	את מי פגשת?	Kogo spotkałeś?
 heb	pol	את מכירה אותם?	Znasz ich?
+heb	pol	אתם סטודנטים?	Jesteście studentami?
+heb	pol	אתם צריכים לומר תמיד את האמת.	Powinniście zawsze mówić prawdę.
 heb	pol	אתן לא חייבות לאכול.	Nie musicie jeść.
 heb	pol	אתן לך חמש דקות לפתור את הבעיה.	Dam ci pięć minut na rozwiązanie tego zadania.
 heb	pol	את נראית מצודדת בכחול.	Cudownie wyglądasz w niebieskim.
@@ -1373,16 +1373,16 @@ heb	pol	במהלך מאה השנים האחרונות, לא היה כנראה א
 heb	pol	במובן מסוים אתה צודק, אבל עדיין יש לי ספקות.	W jakimś sensie masz rację, ale wciąż mam wątpliwości.
 heb	pol	במועדון היאכטות שלנו יש עשרה חברים.	Nasz jachtklub ma dziesięciu członków.
 heb	pol	במוקדם או במאוחר תצטער על חוסר המעש שלך.	Prędzej czy później pożałujesz swojej bezczynności.
-heb	pol	במידה מסוימת אני מסכים עם מה שאת אומרת.	Do pewnego stopnia zgadzam się z tym co mówisz.
 heb	pol	במידה מסוימת אני מסכימה עם מה שאתה אומר.	Do pewnego stopnia zgadzam się z tym co mówisz.
+heb	pol	במידה מסוימת אני מסכים עם מה שאת אומרת.	Do pewnego stopnia zgadzam się z tym co mówisz.
 heb	pol	במילה tomorrow ההטעמה מלעילית.	W wyrazie 'tomorrow' akcent pada na drugą sylabę.
 heb	pol	במילים אחרות, הוא היה ישר מדי.	Innymi słowy, był zbyt uczciwy.
 heb	pol	במלון הזה אפשר לאכסן 50 איש.	W tym hotelu może się zatrzymać 50 gości.
 heb	pol	במסעדות רבות בתורכיה, שיפודים מהווים את המנה העיקרית.	W wielu tureckich restauracjach szisz kebab stanowi główne danie.
 heb	pol	במפגש השתתפו שנים עשר איש.	W spotkaniu uczestniczyło 12 osób.
 heb	pol	במפתיע נתגלה אי חדש.	Niespodziewanie odkryto nową wyspę.
-heb	pol	במקום ללכת לעבודה, ישבתי כל היום בבית.	Zamiast iść do pracy, cały dzień siedziałem w domu.
 heb	pol	במקומך לא הייתי גר איתו.	Na twoim miejscu nie mieszkałbym z nim.
+heb	pol	במקום ללכת לעבודה, ישבתי כל היום בבית.	Zamiast iść do pracy, cały dzień siedziałem w domu.
 heb	pol	במקצועו הוא רופא.	On jest z zawodu lekarzem.
 heb	pol	במקרה הייתי שם כשהיא טלפנה.	Przypadkiem byłem tam, kiedy zadzwoniła.
 heb	pol	במקרה הצורך תפנה אליי.	W razie potrzeby zgłoś się do mnie.
@@ -1399,8 +1399,6 @@ heb	pol	במשך מאות שנים שימשה קראקוב בירת פולין.	
 heb	pol	במשך שלוש שעות תיקנתי את הרכב שלי.	Przez trzy godziny reperowałem swój samochód.
 heb	pol	בן החליט לספר לעו"ד את כל מה שהוא יודע.	Ben postanowił powiedzieć adwokatowi wszystko, co wie.
 heb	pol	בן החליט לספר לפרקליט את כל הידוע לו.	Ben postanowił powiedzieć adwokatowi wszystko, co wie.
-heb	pol	בן כמה סבא שלך?	Ile lat ma twój dziadek?
-heb	pol	בן כמה סבא שלך?	Ile twój dziadek ma lat?
 heb	pol	בנו נפטר שנה קודם לכן.	Jego syn zmarł rok wcześniej.
 heb	pol	בני אדם לא מסוגלים לעשות מספר דברים בו-זמנית.	Ludzie nie mogą robić wielu rzeczy w tym samym czasie.
 heb	pol	בני המשפחה אכלו יחד ארוחת ערב.	Rodzina jadła razem kolację.
@@ -1409,6 +1407,8 @@ heb	pol	בני כמה תהיו בשנה הבאה?	Ile lat będziecie mieli w prz
 heb	pol	בניתי בית בשולי יער-עד.	Zbudowałem dom tuż obok puszczy.
 heb	pol	בניתי בית חדש.	Zbudowałem nowy dom.
 heb	pol	בניתי בית חדש בשביל הבן.	Zbudowałem nowy dom dla syna.
+heb	pol	בן כמה סבא שלך?	Ile lat ma twój dziadek?
+heb	pol	בן כמה סבא שלך?	Ile twój dziadek ma lat?
 heb	pol	בסדר.	Zgoda.
 heb	pol	בסדר. אל תדאג. אתה יכול לסמוך עליי במאה אחוז.	Już dobrze. Nie martw się. Możesz na mnie polegać w stu procentach.
 heb	pol	"בסדר", אמר מר ווד.	"No dobra" - powiedział p. Wood.
@@ -1586,14 +1586,15 @@ heb	pol	האורחים שלנו יושבים בסלון.	Nasi goście siedzą w 
 heb	pol	האור כבה מאליו.	Światło samo zgasło.
 heb	pol	האחות מדדה לי חום.	Pielęgniarka zmierzyła mi gorączkę.
 heb	pol	האיכר זורע גרעינים.	Rolnik sieje ziarno.
-heb	pol	האין צבעו שחור?	Czy to nie jest czarne?
 heb	pol	האינטרסים שלו הפוכים משלי.	Jego interesy są rozbieżne z moimi.
+heb	pol	האין צבעו שחור?	Czy to nie jest czarne?
 heb	pol	האישה הזאת ערומה.	Ta kobieta jest naga.
 heb	pol	האיש הזה שתוי.	Ten mężczyzna jest pijany.
 heb	pol	האיש הזקן אמר משהו.	Stary człowiek coś powiedział.
 heb	pol	האיש הזקן ניסה לשחות 5 קילמטר.	Ten staruszek próbował przepłynąć 5 kilometrów.
 heb	pol	האישה שאיתה דיברת, זו אחותי.	Pani, z którą rozmawiałeś, jest moją siostrą.
 heb	pol	האישה שיושבת שם ממול, זו אשתו הנוכחית.	Kobieta, która siedzi tam naprzeciwko, to jego obecna żona.
+heb	pol	האמא הולכת עם הילד יד ביד.	Matka idzie z dzieckiem za rękę.
 heb	pol	האם אי פעם שמעת כזה סיפור?	Czy kiedykolwiek słyszałes taką historię?
 heb	pol	האם אלה האנשים שראית אתמול?	Czy to są ci ludzie, których widział pan wczoraj?
 heb	pol	האם אמא שלך בבית?	Czy Twoja mama jest w domu?
@@ -1651,8 +1652,8 @@ heb	pol	האם יש חתול מתחת לשולחן?	Czy pod stołem jest kot?
 heb	pol	האם יש טיולים של יום אחד?	Czy są wycieczki jednodniowe?
 heb	pol	האם יש כאן משהו שאסור לי לאכול?	Czy jest coś, czego nie mogę jeść?
 heb	pol	האם יש לו דבר מה משותף עם התנועה הזאת?	Czy on ma coś wspólnego z tym ruchem?
-heb	pol	האם יש לך מפת תיירות של העיר?	Czy jest turystyczny plan miasta?
 heb	pol	האם יש לכם בית באיטליה?	Mają państwo dom we Włoszech?
+heb	pol	האם יש לך מפת תיירות של העיר?	Czy jest turystyczny plan miasta?
 heb	pol	האם יש מישהו שיצליח לבטא את המילה?	Czy jest ktoś, kto potrafi wypowiedzieć to słowo?
 heb	pol	האם יש משהו על הרצפה?	Czy cokolwiek jest na podłodze?
 heb	pol	האם יש סיכוי שהוא יצליח?	Czy jest szansa, że mu się uda?
@@ -1668,7 +1669,10 @@ heb	pol	האם מר איטו מלמד היסטוריה?	Czy p. Ito uczy historii
 heb	pol	האם נגיע בזמן?	Czy przyjedziemy na czas?
 heb	pol	האם נולדת באנגליה? נראה לי שאין לך מבטא בריטי.	Czy urodziłeś się w Anglii? Wydaje się, że nie masz brytyjskiego akcentu.
 heb	pol	האם נטלת ידיך?	Umyłeś już ręce?
+heb	pol	האמנם גרמתי לו אי נעימות?	Czyżbym sprawił mu przykrość?
+heb	pol	האמנם הבכתי אותו?	Czyżbym sprawił mu przykrość?
 heb	pol	האם פתוח כאן בימי ראשון?	Czy jest otwarte w niedzielę ?
+heb	pol	האמריקאי הצעיר הזה דיבר יפנית רצוצה.	Ten młody Amerykanin mówił łamanym japońskim.
 heb	pol	האם שניכם כבר אכלתם?	Czy obaj już jedliście?
 heb	pol	האם שניכם כבר אכלתם צהריים?	Czy obaj jesteście już po obiedzie?
 heb	pol	האם תוכל, בבקשה, להפסיק לדבר?	Czy mógłbyś, proszę, przestać rozmawiać?
@@ -1678,10 +1682,6 @@ heb	pol	האם תעשו כתוביות באספרנטו?	Czy zrobicie napisy w e
 heb	pol	האם תרצה להמתין בחדר הזה?	Zechciałbyś poczekać w tym pokoju?
 heb	pol	האם תרצי לשתות דבר מה?	Chce Pani coś do picia?
 heb	pol	האם תתחתני אתי?	Czy zostaniesz moją żoną?
-heb	pol	האמא הולכת עם הילד יד ביד.	Matka idzie z dzieckiem za rękę.
-heb	pol	האמנם גרמתי לו אי נעימות?	Czyżbym sprawił mu przykrość?
-heb	pol	האמנם הבכתי אותו?	Czyżbym sprawił mu przykrość?
-heb	pol	האמריקאי הצעיר הזה דיבר יפנית רצוצה.	Ten młody Amerykanin mówił łamanym japońskim.
 heb	pol	האנטיביוטיקה התבררה כמועילה.	Antybiotyk okazał się skuteczny.
 heb	pol	האנשים בברזיל התגאו בו.	Ludzie w Brazylii byli z niego dumni.
 heb	pol	האנשים, רובם ככולם, אוהבים לאכול.	Większość ludzi, jeśli nie wszyscy, lubi jeść.
@@ -1721,12 +1721,12 @@ heb	pol	הבית שלי נמצא בכפר.	Mój dom jest na wsi.
 heb	pol	הבית שלי נמצא בקרבה לפארק.	Mój dom znajduje się bardzo blisko parku.
 heb	pol	הבלגן השתלט.	Zupa się wylała.
 heb	pol	הבלמים מזייפים!	Hamulce szwankują.
+heb	pol	הבנות התנגדו לתכנית שלנו.	Dziewczyny sprzeciwiły się naszemu planowi.
+heb	pol	הבננות בצבע צהוב.	Banany są żółte.
 heb	pol	הבן שלי גבוה ממני.	Mój syn jest wyższy ode mnie.
 heb	pol	הבן של מי אתה?	Czyim synem jesteś?
 heb	pol	הבן שלנו נהרג במלחמה.	Nasz syn zginął na wojnie.
 heb	pol	הבן שלנו נפל במלחמה.	Nasz syn zginął na wojnie.
-heb	pol	הבנות התנגדו לתכנית שלנו.	Dziewczyny sprzeciwiły się naszemu planowi.
-heb	pol	הבננות בצבע צהוב.	Banany są żółte.
 heb	pol	הבעיה אינה בעיקרון אלא בצורה.	Problemem jest nie tyle sama istota, co wygląd.
 heb	pol	הבעיה היא בכך שאין לנו די כסף.	Problem w tym, że nie mamy dość pieniędzy.
 heb	pol	הבעיה נפתרה מעצמה.	Problem rozwiązał się sam.
@@ -1747,10 +1747,10 @@ heb	pol	הגיע הזמן שתגיד לה את האמת.	Nadszedł czas, abyś p
 heb	pol	הגיעה שעת ארוחת הערב, הדיילות מגישות ארוחה.	Przyszedł czas na kolację, stewardesy roznoszą posiłek.
 heb	pol	הגיעו כל כך הרבה גברים.	Przyszło tylu mężczyzn.
 heb	pol	הגלים גבוהים.	Fale są wysokie.
-heb	pol	הגן שלנו היה מלא עשבים.	Nasz ogród był zachwaszczony.
 heb	pol	הגנב ארב במסדרון החשוך.	Złodziej czaił się w ciemnej sieni.
 heb	pol	הגנב ברח לכיוון התחנה.	Złodziej uciekł w stronę dworca.
 heb	pol	הגנב נמלט לעבר התחנה.	Złodziej uciekł w stronę dworca.
+heb	pol	הגן שלנו היה מלא עשבים.	Nasz ogród był zachwaszczony.
 heb	pol	הגענו לאי יומיים מאוחר יותר.	Dotarliśmy na wyspę dwa dni później.
 heb	pol	הגענו לעיר הזאת ונשארנו שבוע.	Przyjechaliśmy do tego miasta i zostaliśmy przez tydzień.
 heb	pol	הגענו לשחרר אותך מפה.	Przyszliśmy cię stąd wypuścić.
@@ -2235,8 +2235,8 @@ heb	pol	הוריי ישבו תחת העץ.	Moi rodzice siedzieli pod drzewem.
 heb	pol	הורים רבים סבורים שיש בטלוויזיה יותר מדי אלימות.	Wielu rodziców uważa, że w telewizji jest za dużo przemocy.
 heb	pol	הורשעתי שלא בצדק.	Zostałem niesprawiedliwie skazany.
 heb	pol	הזהרתי אותו הרבה פעמים.	Ostrzegałem go wiele razy.
-heb	pol	הזמן מרפא פצעים.	Czas leczy rany.
 heb	pol	הזמנּו רופא.	Wezwaliśmy lekarza.
+heb	pol	הזמן מרפא פצעים.	Czas leczy rany.
 heb	pol	הזמנתי ספר בלונדון.	Zamówiłem książkę w Londynie.
 heb	pol	הזמנתי שני המבורגרים.	Zamówiłem dwa hamburgery.
 heb	pol	הזעתי בבתי השחי.	Spociłem się pod pachami.
@@ -2284,9 +2284,9 @@ heb	pol	החיים זה לא רק שמחה וחוסר דאגה.	Życie to nie ty
 heb	pol	החיים מלאי תעלומות.	Życie jest pełne tajemnic.
 heb	pol	החיים מתחילים כאשר אתה מתחיל לדעת מה אתה רוצה מהחיים.	Życie zaczyna się wtedy, kiedy zaczynasz wiedzieć, czego od niego chcesz.
 heb	pol	החיפזון מהשטן.	Co nagle, to po diable.
+heb	pol	החלומות דוברי אמת הם.	Sny mówią prawdę.
 heb	pol	החלום שלה הם חיים מלאי תהפוכות.	Jej marzeniem jest życie pełne zmian.
 heb	pol	החלום שלי זה להיות שחקן בייסבול.	Moim marzeniem jest zostać baseballistą.
-heb	pol	החלומות דוברי אמת הם.	Sny mówią prawdę.
 heb	pol	החלון פונה לחצר.	Okno wychodzi na podwórze.
 heb	pol	החלטנו להסתתר ליומיים-שלושה.	Postanowiliśmy ukryć się na dwa-trzy dni.
 heb	pol	החלטתי לבקש ייעוץ משפטי.	Postanowiłem zasięgnąć porady adwokata.
@@ -2533,9 +2533,9 @@ heb	pol	הידידים שלך יתגעגעו אליך.	Twoi przyjaciele będą z
 heb	pol	היֹה היה פעם אדם צעיר.	Dawno temu był sobie młody człowiek.
 heb	pol	היה כל כך משעמם שנרדמתי.	Było tak nudno, że usnąłem.
 heb	pol	היה לה התקף שיעול.	Ona miała napad kaszlu.
+heb	pol	היה לה מזל שעברה את המבחן.	Miała szczęście, że zdała ten egzamin.
 heb	pol	היה להם רוב בבית הנבחרים.	Mieli większość w parlamencie.
 heb	pol	היה להם רוב בכנסת.	Mieli większość w parlamencie.
-heb	pol	היה לה מזל שעברה את המבחן.	Miała szczęście, że zdała ten egzamin.
 heb	pol	היה לה משהו מוזר על הראש.	Miała coś dziwnego na głowie.
 heb	pol	היה לה על הראש כובע מאד מוזר, לכן אנשים צחקו ממנה.	Miała na głowie bardzo dziwny kapelusz, więc ludzie się z niej śmiali.
 heb	pol	היה לו מזל שתפס את הרכבת.	Miał szczęście, że złapał pociąg.
@@ -2691,9 +2691,17 @@ heb	pol	הלכתי לקניות בשבת.	Byłem na zakupach w sobotę.
 heb	pol	הלכת מכות עם קן?	Biłeś się z Kenem?
 heb	pol	הלשכה שלי נמצאת במרכז העיר.	Moje biuro leży w śródmieściu.
 heb	pol	הם אימצו את ההשקפה שלי.	Przyjęli mój punkt widzenia.
+heb	pol	המאמן שלי אוכל שמונת אלפים קלוריות ליום ולא עולה במשקל.	Mój trener zjada 8 tys. kalorii dziennie i nie przybiera na wadze.
+heb	pol	המאמצים שלו העלו חרס.	Jego wysiłki spełzły na niczym.
+heb	pol	המבחן בביוכימיה היה פשוט.	Egzamin z biochemii był prosty.
+heb	pol	המבחן האחרון הה קשה מאד.	Ostatni egzamin był bardzo trudny.
+heb	pol	המבחנים בפתח.	Egzaminy już zaraz.
+heb	pol	המגרעות שלך לא מפחיתות מהערכתי אליך, והרי בידידות זה מה שנחשב.	Twoje wady nie umniejszają mojego szacunku do ciebie, a w przyjaźni to właśnie się liczy.
 heb	pol	הם דיברו על הא ועל דא.	Rozmawiali o różnych rzeczach.
+heb	pol	המדינה החדשה נתונה תחת השפעה כלכלית של יפן.	Ten nowy kraj jest pod gospodarczym wpływem Japonii.
 heb	pol	הם הביאו על עצמם צרות.	Ściągnęli na siebie kłopoty.
 heb	pol	הם הגיעו לאנגליה לפני שבוע.	Przyjechali do Anglii tydzień temu.
+heb	pol	המהגרים ידעו סבל גופני וגם נפשי.	Imigranci zaznali cierpień fizycznych i psychicznych.
 heb	pol	הם הולכים בלי נעליים.	Chodzą bez butów.
 heb	pol	הם הקימו אגודה עצמאית, כלל-ארצית, תחת השם: האגודה האמריקאית לגמלאים.	Utworzyli niezależne ogólnokrajowe stowarzyszenie pod nazwą Amerykańskie Towarzystwo Emerytów.
 heb	pol	הם השוו את הרכב החדש עם הרכב הישן.	Oni porównywali nowy samochód ze starym.
@@ -2701,46 +2709,6 @@ heb	pol	הם התבצרו בחדר.	Zabarykadowali się w pokoju.
 heb	pol	הם התיחסו אליו כאל מנהיג.	Uważali go za swego przywódcę.
 heb	pol	הם התייחסו אליו כאל מנהיגם.	Uważali go za swego przywódcę.
 heb	pol	הם התקבצו באולם הספורט.	Zgromadzili się w sali gimnastycznej.
-heb	pol	הם חוסכים כדי לבנות בית חדש.	Oszczędzają, by zbudować nowy dom.
-heb	pol	הם חייבים להיות אמריקאים.	Oni muszą być Amerykanami.
-heb	pol	הם חיים מן היד אל הפה.	Żyją z dnia na dzień.
-heb	pol	הם חצו את הגבול ונכנסו לספרד.	Przekroczyli granicę i wjechali do Hiszpanii.
-heb	pol	הם חשבו שהוא בנו של השֶמש.	Myśleli, że on jest synem słońca.
-heb	pol	הם יצאו ישר אל היעד.	Ruszyli prosto do celu.
-heb	pol	הם יצאו עם משלחת לקוטב הצפוני.	Wyruszyli z ekspedycją na biegun północny.
-heb	pol	הם לא היו די בוגרים כדי להבין את חשיבותם של לימודים.	Byli zbyt niedojrzali, by zrozumieć, jak ważna jest nauka.
-heb	pol	הם לא היו די בשלים כדי להבין את חשיבותם של לימודים.	Byli zbyt niedojrzali, by zrozumieć, jak ważna jest nauka.
-heb	pol	הם לא יודעים מה לעשות עם הכסף.	Nie wiedzą, co robić z pieniędzmi.
-heb	pol	הם לחמו בדיקטטור.	Walczyli z dyktatorem.
-heb	pol	הם מאוכזבים מהבן.	Są zawiedzeni synem.
-heb	pol	הם ניכסו לעצמם את הניצחון.	Przywłaszczyli sobie zwycięstwo.
-heb	pol	הם ניסו לחצות דרך קווי האויב.	Próbowali przedrzeć się przez linie wroga.
-heb	pol	הם נלחמו בשריפה תוך סיכון חייהם.	Z narażeniem życia walczyli z ogniem.
-heb	pol	הם נראים מאושרים.	Wyglądają na szczęśliwych.
-heb	pol	הם נשארו ידידים טובים	Pozostali dobrymi przyjaciółmi.
-heb	pol	הם עדיין לא חזרו הביתה.	Jeszcze nie wrócili do domu.
-heb	pol	הם עובדים יותר מדי.	Oni pracują za dużo.
-heb	pol	הם עצמם לא ידעו על כך.	Sami o tym nie wiedzieli.
-heb	pol	הם פשוט מחכים לסוף הסערה.	Oni po prostu czekają aż sztorm się skończy.
-heb	pol	הם צחקו מהבוּרות שלו.	Śmiali się z jego ignorancji.
-heb	pol	הם צחקו על המאמצים שלנו.	Wyśmiali nasze wysiłki.
-heb	pol	הם קיטרו על משכורות נמוכות.	Narzekali na niskie pensje.
-heb	pol	הם קראו לילדה ג'יין.	Nazwali jej dziecko Jane.
-heb	pol	הם ראו בו את מנהיגם.	Uważali go za swego przywódcę.
-heb	pol	הם רוצים להופיע במשחקים האולימפיים.	Oni chcą wystąpić na olimpiadzie.
-heb	pol	הם רוצים להשתתף במשחקים האולימפיים.	Chcą wziąć udział w olimpiadzie.
-heb	pol	הם שישה אנשים.	Jest ich sześć osób.
-heb	pol	הם שלטו בשדה נפט.	Zarządzali polem naftowym.
-heb	pol	הם תומכים בתכנית שלך.	Popierają twój plan.
-heb	pol	הם תפסו את האויב במארב.	Złapali nieprzyjaciela w zasadzkę.
-heb	pol	המאמן שלי אוכל שמונת אלפים קלוריות ליום ולא עולה במשקל.	Mój trener zjada 8 tys. kalorii dziennie i nie przybiera na wadze.
-heb	pol	המאמצים שלו העלו חרס.	Jego wysiłki spełzły na niczym.
-heb	pol	המבחן בביוכימיה היה פשוט.	Egzamin z biochemii był prosty.
-heb	pol	המבחן האחרון הה קשה מאד.	Ostatni egzamin był bardzo trudny.
-heb	pol	המבחנים בפתח.	Egzaminy już zaraz.
-heb	pol	המגרעות שלך לא מפחיתות מהערכתי אליך, והרי בידידות זה מה שנחשב.	Twoje wady nie umniejszają mojego szacunku do ciebie, a w przyjaźni to właśnie się liczy.
-heb	pol	המדינה החדשה נתונה תחת השפעה כלכלית של יפן.	Ten nowy kraj jest pod gospodarczym wpływem Japonii.
-heb	pol	המהגרים ידעו סבל גופני וגם נפשי.	Imigranci zaznali cierpień fizycznych i psychicznych.
 heb	pol	המוזיקה הזאת מעצבנת את כולם.	Ta muzyka wszystkich denerwuje.
 heb	pol	המוזיקה משמחת את האזניים.	Muzyka raduje uszy.
 heb	pol	המולדת שלו היא גרמניה.	Jego ojczyzną są Niemcy.
@@ -2753,13 +2721,18 @@ heb	pol	המורה שלנו תמיד מגיע בזמן לשיעור.	Nasz nauczy
 heb	pol	המזגן לא תקין.	Klimatyzator jest zepsuty.
 heb	pol	המזון הקוריאני מאד פיקנטי בדרך כלל.	Koreańskie jedzenie jest generalnie bardzo pikantne.
 heb	pol	המזלגות לסלט קטנים יותר מהמזלגות הרגילים, והם מונחים יותר רחוק מהצלחת.	Widelce do sałaty są mniejsze niż widelce normalne i są one umieszczone dalej od talerza.
+heb	pol	הם חוסכים כדי לבנות בית חדש.	Oszczędzają, by zbudować nowy dom.
+heb	pol	הם חייבים להיות אמריקאים.	Oni muszą być Amerykanami.
+heb	pol	הם חיים מן היד אל הפה.	Żyją z dnia na dzień.
 heb	pol	המחירים כבר יותר גבוהים מהר מקינלי.	Ceny są już wyższe niż Mount McKinley.
 heb	pol	המחירים עלו.	Ceny poszły w górę.
 heb	pol	המחירים צנחו פתאום.	Ceny spadły nagle.
 heb	pol	המחיר לא מהווה בעיה.	Cena nie gra roli.
 heb	pol	המחלה של הכלב שלי היתה קשה.	Choroba mojego pieska była ciężka.
+heb	pol	הם חצו את הגבול ונכנסו לספרד.	Przekroczyli granicę i wjechali do Hiszpanii.
 heb	pol	המחשב הוא בצבע אדום.	Ten komputer jest czerwony.
 heb	pol	המחשב התקלקל.	Komputer się popsuł.
+heb	pol	הם חשבו שהוא בנו של השֶמש.	Myśleli, że on jest synem słońca.
 heb	pol	המחשבות שלי אתכם.	Moje myśli są z Wami.
 heb	pol	המחשב נפל.	Komputer się popsuł.
 heb	pol	המטוס המריא בעשר בדיוק.	Samolot wystartował punktualnie o dziesiątej.
@@ -2776,6 +2749,8 @@ heb	pol	המים האלה מזוהמים בנפט.	Ta woda jest zanieczyszczona 
 heb	pol	המים האלה מעט מלוחים.	Ta woda jest odrobinę słonawa.
 heb	pol	המים היו מאד קרים, אז החלטנו לא להתרחץ.	Woda była bardzo zimna, więc postanowiliśmy nie kąpać się.
 heb	pol	המים היו קרים מאד, כך שהחלטנו לא לשחות.	Woda była bardzo zimna, więc postanowiliśmy nie kąpać się.
+heb	pol	הם יצאו ישר אל היעד.	Ruszyli prosto do celu.
+heb	pol	הם יצאו עם משלחת לקוטב הצפוני.	Wyruszyli z ekspedycją na biegun północny.
 heb	pol	המיתון הכניס עובדים שכירים לצרות.	Recesja wpędziła pracowników najemnych w kłopoty.
 heb	pol	המכונית בצבע תכלת.	Samochód jest niebieski.
 heb	pol	המכונית החדשה שלו נראתה בסדר.	Jego nowy samochód wyglądał ok.
@@ -2784,31 +2759,52 @@ heb	pol	המכונית שלי מתוצרת גרמניה.	Moje auto jest niemieck
 heb	pol	המכנסיים האלה גדולים מדי.	Te spodnie są za duże.
 heb	pol	המכתב הזה הגיע אליי.	Ten list przyszedł do mnie.
 heb	pol	המכתב הזה לא היה צריך להישלח אף פעם.	Ten list nigdy nie powinien był zostać wysłany.
+heb	pol	הם לא היו די בוגרים כדי להבין את חשיבותם של לימודים.	Byli zbyt niedojrzali, by zrozumieć, jak ważna jest nauka.
+heb	pol	הם לא היו די בשלים כדי להבין את חשיבותם של לימודים.	Byli zbyt niedojrzali, by zrozumieć, jak ważna jest nauka.
+heb	pol	הם לא יודעים מה לעשות עם הכסף.	Nie wiedzą, co robić z pieniędzmi.
 heb	pol	המלון הזה קרוב מאד לאגם.	Ten hotel jest bardzo blisko jeziora.
 heb	pol	המלון נשרף.	Hotel spłonął.
 heb	pol	המלחמה נטלה מאיתנו את האושר והמירה אותו בפחד.	Wojna zabrała nasze szczęście i zastąpiła je grozą.
+heb	pol	הם לחמו בדיקטטור.	Walczyli z dyktatorem.
 heb	pol	המלך יצא בבוקר לציד.	Król pojechał rano na polowanie.
+heb	pol	הם מאוכזבים מהבן.	Są zawiedzeni synem.
 heb	pol	הממשלה אולצה להנהיג שינויים במדיניות החוץ.	Rząd był zmuszony do wprowadzenia zmian w swojej polityce zagranicznej.
 heb	pol	הממשלה הוכרחה לבצע שינויים במדיניות החוץ.	Rząd był zmuszony do wprowadzenia zmian w swojej polityce zagranicznej.
 heb	pol	הממשלה תעמיד לרשות החברות המשתתפות בתכנית, הלוואות ללא ריבית.	Rząd zapewni firmom uczestniczącym w programie, kredyty wolne od odsetek.
 heb	pol	המנגנון הזה מוּנע במגנט.	Ten mechanizm napędzany jest magnetycznie.
 heb	pol	המניות נפלו תוך לילה.	Akcje poszły w dół w ciągu jednej nocy.
+heb	pol	הם ניכסו לעצמם את הניצחון.	Przywłaszczyli sobie zwycięstwo.
+heb	pol	הם ניסו לחצות דרך קווי האויב.	Próbowali przedrzeć się przez linie wroga.
+heb	pol	הם נלחמו בשריפה תוך סיכון חייהם.	Z narażeniem życia walczyli z ogniem.
+heb	pol	הם נראים מאושרים.	Wyglądają na szczęśliwych.
+heb	pol	הם נשארו ידידים טובים	Pozostali dobrymi przyjaciółmi.
 heb	pol	המסוכנים הם מי שאינם עושים רעש.	Niebezpieczni są ci, którzy nie robią hałasu.
 heb	pol	המסעדה הזו תמיד מלאה.	Ta restauracja jest zawsze pełna.
 heb	pol	המסעדה נמצאת בקומת הקרקע.	Restauracja znajduje się na parterze.
 heb	pol	המספר הזה כבר עלה לעשרים עד אפריל.	Ta liczba wzrosła do kwietnia już do dwudziestu.
+heb	pol	הם עדיין לא חזרו הביתה.	Jeszcze nie wrócili do domu.
+heb	pol	הם עובדים יותר מדי.	Oni pracują za dużo.
 heb	pol	המעיל הזה צריך תיקון.	Ten płaszcz wymaga przeróbki.
 heb	pol	המעלית נוסעת מלמעלה למטה.	Winda jeździ z góry na dół.
 heb	pol	המענה היה חיובי.	Odpowiedź była pozytywna.
+heb	pol	הם עצמם לא ידעו על כך.	Sami o tym nie wiedzieli.
 heb	pol	המעשים שלו בלתי חוקיים.	Jego działania są bezprawne.
 heb	pol	המפציץ טס גבוה.	Leci bombowiec wysoko.
 heb	pol	המפקד חשף את אנשיו לאש.	Dowódca wystawił swoich ludzi na ogień.
 heb	pol	המפרץ הפרסי מהווה, עבור האיראנים, מרכיב של זהות היסטורית.	Zatoka Perska to dla Irańczyków element tożsamości historycznej.
+heb	pol	הם פשוט מחכים לסוף הסערה.	Oni po prostu czekają aż sztorm się skończy.
 heb	pol	המפתח הזה לא מתאים למנעול.	Ten klucz nie pasuje do zamka.
 heb	pol	המצב הזה עורר עצבות.	Ta sytuacja budziła smutek.
+heb	pol	הם צחקו מהבוּרות שלו.	Śmiali się z jego ignorancji.
+heb	pol	הם צחקו על המאמצים שלנו.	Wyśmiali nasze wysiłki.
 heb	pol	המצלמה שלי אטומה למים.	Mój aparat jest wodoodporny.
 heb	pol	המצלמה שלי תוצרת ניקון.	Mój aparat to Nikon.
+heb	pol	הם קיטרו על משכורות נמוכות.	Narzekali na niskie pensje.
+heb	pol	הם קראו לילדה ג'יין.	Nazwali jej dziecko Jane.
 heb	pol	המקרר פתוח.	Lodówka jest otwarta.
+heb	pol	הם ראו בו את מנהיגם.	Uważali go za swego przywódcę.
+heb	pol	הם רוצים להופיע במשחקים האולימפיים.	Oni chcą wystąpić na olimpiadzie.
+heb	pol	הם רוצים להשתתף במשחקים האולימפיים.	Chcą wziąć udział w olimpiadzie.
 heb	pol	המרק חם מדי.	Zupa jest zbyt gorąca.
 heb	pol	המרק יותר מדי חם.	Zupa jest zbyt gorąca.
 heb	pol	המשאית פגעה בילד.	Ciężarówka potrąciła chłopaka.
@@ -2819,18 +2815,21 @@ heb	pol	המשטרה מפזרת את המפגינים.	Policja rozpędza demonst
 heb	pol	המשטרה עצרה אותו.	Zatrzymała go policja.
 heb	pol	המשטרה ערכה חיפוש בבית והחרימה שני קילוגרם הרואין.	Policja przeszukała dom i zarekwirowała dwa kilogramy heroiny.
 heb	pol	המשטר נאלץ לשנות את מדיניות החוץ שלו.	Rząd był zmuszony zmienić politykę zagraniczną.
+heb	pol	הם שישה אנשים.	Jest ich sześć osób.
+heb	pol	הם שלטו בשדה נפט.	Zarządzali polem naftowym.
 heb	pol	המשפחה אכלה יחד ארוחת ערב.	Rodzina jadła razem kolację.
 heb	pol	המשפחה שלי לא תהיה כאן במשך שבוע.	Mojej rodziny nie będzie przez tydzień.
 heb	pol	המשפחה שלי מאד אהבה את הכלב.	Moja rodzina bardzo kochała tego psa.
 heb	pol	המשפט הזה, מחוץ להקשרו, לא ממש מעניין.	To zdanie, wyjęte z kontekstu, nie jest zbyt ciekawe.
 heb	pol	המשפט הזה נראה לי מתאים.	To zdanie wydaje mi się właściwe.
+heb	pol	הם תומכים בתכנית שלך.	Popierają twój plan.
+heb	pol	הם תפסו את האויב במארב.	Złapali nieprzyjaciela w zasadzkę.
 heb	pol	המתקן הזה מחולל חשמל.	To urządzenie produkuje elektryczność.
 heb	pol	הןא עושה הכל בדרכו שלו.	On wszystko robi po swojemu.
-heb	pol	הן בצבע צהוב.	One są żółte.
-heb	pol	הן צהובות.	One są żółte.
 heb	pol	הנבחרת הזאת מעולם לא שיחקה כל כך טוב כמו היום.	Ta drużyna nigdy nie grała tak dobrze jak dziś.
 heb	pol	הנבחרת שלנו ניצחה אתמול במשחק.	Nasza drużyna wygrała wczoraj mecz.
 heb	pol	הנבחרת שלנו ניצחה במשחק.	Nasza drużyna wygrała mecz.
+heb	pol	הן בצבע צהוב.	One są żółte.
 heb	pol	הנה בית הספר שלנו.	Oto nasza szkoła.
 heb	pol	הנהג הגביר מהירות.	Kierowca zwiększył prędkość.
 heb	pol	הנה המפתח שלי.	Oto mój klucz.
@@ -2852,6 +2851,7 @@ heb	pol	הנסיעה תמשך חמישה ימים לפחות.	Podróż potrwa co
 heb	pol	הנעליים האלה החזיקו מעמד שנה.	Te buty wytrzymały rok.
 heb	pol	הנעליים האלה כל כך לוחצות שאיני מסוגל לנעול אותן.	Te buty są tak ciasne, że nie jestem w stanie ich założyć.
 heb	pol	הנעליים שלי ישנות, ואילו שלו - חדשות.	Moje buty są stare, a jego - nowe.
+heb	pol	הן צהובות.	One są żółte.
 heb	pol	הנשיא לא בא, אבל שלח את סגן הנשיא למלא את מקומו.	Prezes nie przyszedł, ale wysłał wiceprezesa w zastępstwie.
 heb	pol	הנשיא מגיע העירה במסוק.	Prezydent przylatuje do miasta helikopterem.
 heb	pol	הנשים עובדות.	Kobiety pracują.
@@ -3339,25 +3339,25 @@ heb	pol	חיכינו לו עד שתיים בלילה, אך לבסוף הלכנו
 heb	pol	חיכיתי לו עד שעה עשר.	Czekałem na niego do dziesiątej.
 heb	pol	חיפשתי את אנדי. אתה לא יודע איפה הוא?	Szukałem Andy'ego. Nie wiesz, gdzie jest?
 heb	pol	חכה רגע.	Zaczekaj chwilę.
-heb	pol	חלום רע הטריד אותי.	Dręczył mnie zły sen.
 heb	pol	חלומו התממש.	Jego marzenie ziściło się.
 heb	pol	חלומות פז!	Miłych snów!
+heb	pol	חלום רע הטריד אותי.	Dręczył mnie zły sen.
 heb	pol	חלמתי עלייךְ.	Śniłem o tobie.
 heb	pol	חלמתי עליךָ.	Śniłem o tobie.
 heb	pol	חלפו כבר עשר שנים מאז מותו של אבי.	Mija już dziesięć lat od śmierci mojego ojca.
 heb	pol	חלק מהמפעלים מזהמים את הסביבה.	Niektóre fabryki zanieczyszczają środowisko.
+heb	pol	חמאה וגבינה עשויים מחלב.	Masła i sery są robione z mleka
+heb	pol	חמאה עשויה מחלב.	Masło jest zrobione z mleka.
 heb	pol	חם בחדר הזה.	W tym pokoju jest gorąco.
+heb	pol	חמישה ימים חלפו מיום סיום הלימודים, כאשר הבת שלי המריאה משדה התעופה באוסקה לגרמניה.	Pięć dni minęło od zakończenia studiów, kiedy moja córka odleciała z lotniska w Osace do Niemiec.
 heb	pol	חם כאן מאוד.	Bardzo tu gorąco.
 heb	pol	חם לי מדי.	Jest dla mnie za ciepło.
 heb	pol	חם מאד היום!	Dzisiaj jest bardzo gorąco.
 heb	pol	חם מאוד כאן.	Bardzo tu gorąco.
 heb	pol	חם מדי.	Jest za gorąco.
-heb	pol	חמאה וגבינה עשויים מחלב.	Masła i sery są robione z mleka
-heb	pol	חמאה עשויה מחלב.	Masło jest zrobione z mleka.
-heb	pol	חמישה ימים חלפו מיום סיום הלימודים, כאשר הבת שלי המריאה משדה התעופה באוסקה לגרמניה.	Pięć dni minęło od zakończenia studiów, kiedy moja córka odleciała z lotniska w Osace do Niemiec.
 heb	pol	חמש ועוד שתיים הן שבע.	Pięć i dwa daje siedem.
-heb	pol	חן חן.	Bardzo dziękuję.
 heb	pol	חנות הצינורות נמצאת מעבר לכביש.	Sklep z rurami jest po drugiej stronie ulicy.
+heb	pol	חן חן.	Bardzo dziękuję.
 heb	pol	חסרה לו מוטיבציה.	Brak mu motywacji.
 heb	pol	חסרו לי מילים.	Zabrakło mi słów.
 heb	pol	חסרות לי מילים.	Brak mi słów.
@@ -3406,12 +3406,12 @@ heb	pol	טום מקבל החלטות תוך קושי.	Tom z trudnością podejmu
 heb	pol	טום נוסע מהר מדי.	Tom jeździ za szybko.
 heb	pol	טום נעדר.	Tom jest nieobecny.
 heb	pol	טום נראה מאד מרוצה.	Tom wygląda na bardzo zadowolonego
+heb	pol	טומן ראשו בחול, כמו יעֵן.	Chowa głowę w piasek niczym struś.
 heb	pol	טום עושה ממני צחוק.	Tom wyśmiewa się ze mnie.
 heb	pol	טום פילס דרכו דרך ההמונים.	Tom przepychał się przez tłum.
 heb	pol	טום קנה לעצמו משאית משומשת.	Tom kupił używaną swoją ciężarówkę.
 heb	pol	טום שוחה מהר מאד.	Tom pływa bardzo szybko.
 heb	pol	טום שכח לשאול את מרי על מה הוא רצה לשאול אותה.	Tom zapomniał zapytać Mary, o co miał ją zapytać.
-heb	pol	טומן ראשו בחול, כמו יעֵן.	Chowa głowę w piasek niczym struś.
 heb	pol	טוני בחובות מעל לראש.	Tonie po uszy w długach.
 heb	pol	טוני יכול לרוץ מהר.	Tony umie szybko biegać.
 heb	pol	טוקיו היא בירת יפן.	Tokio jest stolicą Japonii.
@@ -3558,7 +3558,9 @@ heb	pol	יש לך הכל?	Masz wszystko?
 heb	pol	יש לך חשק ללכת לתיאטרון?	Masz ochotę pójść do teatru?
 heb	pol	יש לך כבר נושא לחיבור?	Masz już temat pracy?
 heb	pol	יש לך כתובת מייל שקל לזכור.	Masz łatwy do zapamiętania adres email.
+heb	pol	יש לכם חמש דקות לפתור את הבעיה.	Macie pięć minut na rozwiązanie tego zadania.
 heb	pol	יש לך מכונית?	Czy masz samochód?
+heb	pol	יש לכם סיורים חד-יומיים?	Czy są kursy jednodniowe?
 heb	pol	יש לך משהו יותר זול?	Macie coś tańszego?
 heb	pol	יש לך עיפרון?	Czy masz ołówek?
 heb	pol	יש לך פגישה איתו?	Masz z nim spotkanie?
@@ -3569,8 +3571,6 @@ heb	pol	יש לך רעיון טוב יותר?	Masz lepszy pomysł?
 heb	pol	יש לך שני ספרים.	Masz dwie książki.
 heb	pol	יש לך תוכניות להשתתף בישיבה?	Czy masz zamiar uczestniczyć w tym zebraniu?
 heb	pol	יש לך תלבושת אחידה?	Masz mundurek szkolny?
-heb	pol	יש לכם חמש דקות לפתור את הבעיה.	Macie pięć minut na rozwiązanie tego zadania.
-heb	pol	יש לכם סיורים חד-יומיים?	Czy są kursy jednodniowe?
 heb	pol	ישל לנו הרבה זמן, נספיק לתפוס את הרכבת.	Mamy dużo czasu, zdążymy złapać pociąg.
 heb	pol	יש לנו אפיפיור חדש!	Mamy papieża.
 heb	pol	יש לנו המון זמן.	Mamy mnóstwo czasu.
@@ -3836,13 +3836,13 @@ heb	pol	לא לפתוח לפני עצירת הרכבת.	Nie otwierać przed zatr
 heb	pol	לא לפתוח לפני שהרכבת עוצרת	Nie otwierać przed zatrzymaniem pociągu.
 heb	pol	לא מוצא חן בעיניי מה שעשית.	Nie podoba mi się to, co zrobiłeś.
 heb	pol	לאן אנחנו צריכים ללכת?	Gdzie mamy iść?
-heb	pol	לאן יש ידידים רבים.	Ann ma wielu przyjaciół.
-heb	pol	לאן עלינו ללכת?	Gdzie mamy iść?
 heb	pol	לא נבחרתי.	Nie zostałem wybrany.
 heb	pol	לא נוכל לסמוך על הדוח הזה.	Nie mamy polegać na tym raporcie.
 heb	pol	לא נותר אף אחד.	Nie został ani jeden.
 heb	pol	לא נותר לי, אלא לבכות.	Pozostaje tylko płakać.
+heb	pol	לאן יש ידידים רבים.	Ann ma wielu przyjaciół.
 heb	pol	לא ניתן להפריד בין שפה לבין תרבות.	Nie da się oddzielić języka od kultury.
+heb	pol	לאן עלינו ללכת?	Gdzie mamy iść?
 heb	pol	לא נראה באופק שעומדים למנות אותו.	Nie ma widoków, by go mianowano.
 heb	pol	לא נראית אצלו כל התקדמות.	Nie widać u niego postępów.
 heb	pol	לא נשאר אפילו אחד.	Nie został ani jeden.
@@ -3901,10 +3901,6 @@ heb	pol	לילה טוב, אמא.	Dobranoc, mamo.
 heb	pol	לינדה חזרה הביתה מאוחר בלילה.	Linda wróciła do domu późno w nocy.
 heb	pol	לינקולן מת בשנת 1865.	Lincoln umarł w 1865.
 heb	pol	ליפן יש הרבה תכונות מיוחדות.	Japonia ma wiele cech szczególnych.
-heb	pol	לך להיפרד ממנו, בטרם ייסע.	Idź się z nim pożegnać, zanim wyjedzie.
-heb	pol	לך לכל הרוחות!	Idź precz!
-heb	pol	לך לעזאזל!	Idź do diabła!
-heb	pol	לך, מתי שתרצה.	Idź, kiedy chcesz.
 heb	pol	לכדנו את הגנב.	Schwytaliśmy tego złodzieja.
 heb	pol	לכל אדם יש כוכב.	Każdy ma swoją gwiazdę.
 heb	pol	ֹלכל אחד יש נקודות רגישות משלו.	Każdy ma swój czuły punkt.
@@ -3912,7 +3908,11 @@ heb	pol	ֹלכל אחד יש נקודות תורפה משלו.	Każdy ma swój c
 heb	pol	לכל בן אדם הזכות להשתתף באופן חופשי בחיי התרבות של החברה, ליהנות מהאמנות, להשתתף בהתקדמות המדע וליהנות מפירותיו.	Każdy człowiek ma prawo swobodnie uczestniczyć w życiu kulturalnym społeczeństwa, korzystać ze sztuki, uczestniczyć w postępie nauki i korzystać z jego owoców.
 heb	pol	לכל דבר גבולות משלו.	Wszystko ma swoje granice.
 heb	pol	לכל דבר צד חיובי וצד שלילי. למרבה הצער, בדרך כלל אנחנו רואים רק אחד מהם.	Wszystko ma swoje dobre i złe strony. Szkoda, że zwykle dostrzegamy tylko jedną z nich.
+heb	pol	לך להיפרד ממנו, בטרם ייסע.	Idź się z nim pożegnać, zanim wyjedzie.
 heb	pol	לכל הרוחות, שוב בזבזתי המון כסף!	Cholera, znów przepuściłem masę pieniędzy!
+heb	pol	לך לכל הרוחות!	Idź precz!
+heb	pol	לך לעזאזל!	Idź do diabła!
+heb	pol	לך, מתי שתרצה.	Idź, kiedy chcesz.
 heb	pol	לכן אמרתי לך שלא תיסע ברכב.	Dlatego mówiłem ci, byś nie jechał samochodem.
 heb	pol	ללא מים לא נוכל לחיות אפילו יום אחד.	Bez wody nie przeżyjemy nawet dnia.
 heb	pol	ללא סיוע של הכוכבים היינו מיד מאבדים את הכיוון.	Bez pomocy gwiazd natychmiast stracilibyśby swój kurs.
@@ -4143,8 +4143,8 @@ heb	pol	מה שבא בקלות, הולך בקלות.	Łatwo przyszło, łatwo po
 heb	pol	מה שהוא אמר שעלול לקרות, אכן קרה.	To co mówił, że może się stać, stało się.
 heb	pol	מה שיהיה, יהיה.	Co będzie, to będzie.
 heb	pol	מה שלום אמך?	Jak się czuje twoja matka?
-heb	pol	מה שלום כבודו?	Jak się pan miewa?
 heb	pol	מה שלומו של אדוני?	Jak się pan miewa?
+heb	pol	מה שלום כבודו?	Jak się pan miewa?
 heb	pol	מה שסיפרת, לא ישים במקרה הזה.	To, co powiedziałeś, nie ma zastosowania w tym przypadku.
 heb	pol	מה תזמינו?	Co podać?
 heb	pol	מה תרצה לארוחת הצהריים?	Co chcesz na obiad?
@@ -4205,11 +4205,11 @@ heb	pol	מי כתב מכתב?	Kto napisał list?
 heb	pol	מי לא יאהב מורד?	Któż nie kocha buntownika?
 heb	pol	מי לימד אותה אנגלית?	Kto ją uczył angielskiego?
 heb	pol	מי לימד אותם נימוסי שולחן?	Kto ich uczył zachowania przy stole?
+heb	pol	מי מהשופטים מטפל בתיק?	Który z sędziów prowadził sprawę?
 heb	pol	מים ושמן לא מתערבבים.	Oliwa i woda nie mieszają się.
+heb	pol	מי מחיפושיות הקצב הכי אהוב עליך?	Kogo z bitlesów lubisz najbardziej?
 heb	pol	מים, יערות ומחצבים הם משאבי טבע חשובים.	Woda, lasy i surowce naturalne to ważne zasoby przyrody.
 heb	pol	מים פרצו מהברז השבור.	Woda wytrysnęła z zepsutego kurka.
-heb	pol	מי מהשופטים מטפל בתיק?	Który z sędziów prowadził sprawę?
-heb	pol	מי מחיפושיות הקצב הכי אהוב עליך?	Kogo z bitlesów lubisz najbardziej?
 heb	pol	מי צדק - רק ימים יגידו.	Tylko czas pokaże czy miał rację.
 heb	pol	מי קורא?	Kto czyta?
 heb	pol	מי שאוכל בערב, מעלה במשקל.	Kto je wieczorem, przybiera na wadze.
@@ -4365,6 +4365,7 @@ heb	pol	נסענו להרים לעשות סקי.	Pojechaliśmy w góry na narty.
 heb	pol	נסענו מהר מדי כדי להנות מהנוף היפה.	Jechaliśmy zbyt szybko, by nacieszyć się pięknym otoczeniem.
 heb	pol	נסעתי בכביש המהיר מס' 58.	Pojechałem autostradą numer 58.
 heb	pol	נעים לנו מאד.	Jest nam bardzo miło.
+heb	pol	נעניתי בשלילה.	Otrzymałem odmowę.
 heb	pol	נפגוש אותו מחר.	Spotkamy go jutro.
 heb	pol	נפּגש איתו מחר.	Spotkamy go jutro.
 heb	pol	נפגש באחת בצהריים.	Spotkajmy się o pierwszej po południu.
@@ -4573,10 +4574,10 @@ heb	pol	צלצלתי אליו הבוקר.	Zadzwoniłem do niego dziś rano.
 heb	pol	צמיחה רבעונית בשיעור 1.2% פירושה צמיחה שנתית בשיעור 4.9%.	Wzrost kwartalny w wysokoości 1,2 proc. oznacza wzrost roczny w wysokości 4,8 proc.
 heb	pol	צעדנו שעות רבות.	Chodziliśmy przez wiele godzin.
 heb	pol	צץ לי בראש רעיון לא רע.	Przyszła mi do głowy niezła myśl.
+heb	pol	צריכים אותו כאן כמו חור בראש.	Jest on potrzebny jak dziura w moście.
 heb	pol	צריך לדאוג לבריאות.	Trzeba dbać o zdrowie.
 heb	pol	צריך להאשים את ההורים, ולא את הילדים.	Należy obwiniać rodziców, a nie dzieci.
 heb	pol	צריך לתרגם את הטקסט לבלארוסית.	Trzeba przetłumaczyć tekst na język białoruski.
-heb	pol	צריכים אותו כאן כמו חור בראש.	Jest on potrzebny jak dziura w moście.
 heb	pol	צר לי, אבל זה בלתי אפשרי.	Przykro mi, ale to jest niemożliwe.
 heb	pol	צר לי, אבל כל המקומות הוזמנו מראש.	Przepraszam, ale wszystko dzisiaj jest zarezerwowane.
 heb	pol	צר לי לשמוע שאביך נפטר.	Przykro mi słyszeć, ze twój ojciec zmarł.
@@ -4589,8 +4590,8 @@ heb	pol	קבלת הפנים נדחתה ליום שלישי הבא.	Przyjęcie od
 heb	pol	קבענו להיפגש כאן בשש.	Umówiliśmy się tu na szóstą.
 heb	pol	קודם אפילו העתיד היה יותר טוב.	Przedtem nawet przyszłość była lepsza.
 heb	pol	קודם כל לא להזיק.	Przede wszystkim - nie szkodzić.
-heb	pol	קום, זה ממש מאוחר.	Wstawaj, jest naprawdę późno.
 heb	pol	קומו!	Wstańcie!
+heb	pol	קום, זה ממש מאוחר.	Wstawaj, jest naprawdę późno.
 heb	pol	קונסטלציה זו קבוצת כוכבים.	Gwiazdozbiór to grupa gwiazd.
 heb	pol	קופים הם אינטליגנטיים.	Małpy są inteligentne.
 heb	pol	קוקו היא לא גורילה רגילה.	Koko nie jest zwyczajnym gorylem.
@@ -4614,17 +4615,17 @@ heb	pol	קל להירשם כמנוי לכתב העת האינטרנטי שלנו
 heb	pol	קמח עשוי מחיטה.	Mąkę robi się z pszenicy.
 heb	pol	קמתי הבוקר מוקדם כדי לצאת לדיג.	Wstałem wcześnie dziś rano, by iść na ryby.
 heb	pol	קמתי השכם בבוקר.	Wstałem wczesnym rankiem.
+heb	pol	קֶנְדוֹ, דרך החרב, זו אמנות לחימה יפנית עתיקה, שמקורה בימי הסמוראים.	Droga miecza to starożytna japońska sztuka walki, wywodząca się z czasów samurajów.
 heb	pol	קן הפסיק לדבר והתמסר לאכילה.	Ken przestał mówić i zabrał się do jedzenia.
 heb	pol	קן התיישב לידי.	Ken usiadł obok mnie.
 heb	pol	קן התמודד עם זה.	Ken dał radę.
-heb	pol	קן מחכה שהרכבת תגיע.	Ken czeka na przyjazd pociągu.
-heb	pol	קן ניצח אותי בשח.	Ken pobił mnie w szachy.
-heb	pol	קֶנְדוֹ, דרך החרב, זו אמנות לחימה יפנית עתיקה, שמקורה בימי הסמוראים.	Droga miecza to starożytna japońska sztuka walki, wywodząca się z czasów samurajów.
 heb	pol	קנט הוא מנהיג מלידה.	Kent jest urodzonym liderem.
 heb	pol	קניתי כובע בחנות הזאת.	Kupiłem czapkę w tym sklepie.
 heb	pol	קניתי לג'ון אלבום.	Kupiłem Johnowi album.
 heb	pol	קניתי לה שימלה בשמו.	Kupiłem jej sukienkę w jego imieniu.
 heb	pol	קניתי לעצמי מתנה לחג - מכשיר להכנה מהירה מאד של פופקורן.	Kupiłem sobie bardzo szybką maszynę do popcornu jako świąteczny prezent.
+heb	pol	קן מחכה שהרכבת תגיע.	Ken czeka na przyjazd pociągu.
+heb	pol	קן ניצח אותי בשח.	Ken pobił mnie w szachy.
 heb	pol	קר.	Zimno.
 heb	pol	קראו מה שתרצו.	Czytajcie co chcecie.
 heb	pol	קראנו לרופא.	Wezwaliśmy lekarza.
@@ -4738,10 +4739,10 @@ heb	pol	שכרנו אופניים וסיירנו בהאגינו.	Pożyczyliśmy 
 heb	pol	שלא תזכיר לי.	Nie przypominaj mi.
 heb	pol	שלא תכתוב את זה!	Nie pisz tego!
 heb	pol	שלום. אפשר לדבר עם מר ג'ונסון?	Witam. Mógłbym rozmawiać z panem Johnsonem?
+heb	pol	שלומה טוב יותר מאשר אז, כשראיתי אותה לאחרונה.	Ona ma się lepiej niż wtedy, kiedy widziałem ją ostatnio.
 heb	pol	שלום, סבא!	Cześć, dziadku!
 heb	pol	"שלום, עם מי אני מדבר?"	Dzień dobry, z kim rozmawiam?
 heb	pol	שלום, רק רציתי להגיד שהבעיה שלך פתורה.	Cześć, chciałem tylko powiedzieć, że twój problem jest rozwiązany.
-heb	pol	שלומה טוב יותר מאשר אז, כשראיתי אותה לאחרונה.	Ona ma się lepiej niż wtedy, kiedy widziałem ją ostatnio.
 heb	pol	שלוש בשלישית שווה 27.	Trzy do potęgi trzeciej równa się 27.
 heb	pol	שלוש האחיות מאד דומות זו לזו.	Te trzy siostry są bardzo do siebie podobne.
 heb	pol	שלוש כאלה, בבקשה.	Takie trzy poproszę.
@@ -4842,8 +4843,6 @@ heb	pol	תודה רבה!	Wielkie dzięki!
 heb	pol	תודה רבה מכל הלב!	Bardzo serdecznie dziękuje!
 heb	pol	תודה רבה על ההכוונה בדרך.	Bardzo dziękuję za wskazanie drogi.
 heb	pol	תודה שהאזנתם לי.	Dziękuję za wysłuchanie mnie.
-heb	pol	תוך עשר דקות היא היתה בצד השני.	W 10 minut była po drugiej stronie.
-heb	pol	תוך צפייה בטלוויזיה - נרדמתי.	Oglądając telewizję zasnąłem.
 heb	pol	תוכל לארוז את זה כמתנה?	Czy może pan to zapakować na prezent?
 heb	pol	תוכל לדבר טיפה יותר לאט?	Mógłbyś mówić odrobinę wolniej?
 heb	pol	תוכל להגיד לי איך להגיע לרכבת התחתית?	Czy możesz mi powiedzieć jak dojść do metra?
@@ -4861,6 +4860,8 @@ heb	pol	תוכל לרשום כאן את שמך?	Możesz tu wpisać swoje nazwisk
 heb	pol	תוכל לשלוח עבורי את המכתב הזה בדוא"ל?	Mógłby pan wysłać mi ten list mailem?
 heb	pol	תוכל לתת לי ספל קפה?	Możesz podać mi filiżankę herbaty?
 heb	pol	תוכל לתת לי קצת כסף?	Możesz mi dać trochę pieniędzy?
+heb	pol	תוך עשר דקות היא היתה בצד השני.	W 10 minut była po drugiej stronie.
+heb	pol	תוך צפייה בטלוויזיה - נרדמתי.	Oglądając telewizję zasnąłem.
 heb	pol	תום מכוער.	Tom jest brzydki.
 heb	pol	תום צעיר.	Tomasz jest młody.
 heb	pol	תוציא את התפוזים מהמקרר.	Wyjmij pomarańcze z lodówki.
@@ -4920,15 +4921,15 @@ heb	pol	תמסרי דרישת שלום להורים.	Proszę pozdrowić rodzicó
 heb	pol	תמסרי להורייך דרישת שלום ממני.	Przekaż rodzicom pozdrowienia ode mnie.
 heb	pol	תמתין להזדמנות נוספת.	Poczekaj na inną okazję.
 heb	pol	תן בי אמון.	Zaufaj mi.
+heb	pol	תנוח, אחרת תתמוטט.	Odpocznij, bo padniesz.
+heb	pol	תנו לי לנצח.	Dajcie mi wygrać.
+heb	pol	תניח לי.	Daj spokój.
+heb	pol	תניח לי.	Zostaw mnie.
 heb	pol	תן לי את הספר.	Daj mi tę książkę.
 heb	pol	תן לי את העט הכדורי.	Daj mi długopis.
 heb	pol	תן לי את כספך.	Daj mi twoje pieniądze.
 heb	pol	תן לי את מספר הטלפון שלך.	Daj mi swój numer telefonu.
 heb	pol	תן לי דוגמה אחרת, בבקשה.	Proszę podać mi inny przykład.
-heb	pol	תנוח, אחרת תתמוטט.	Odpocznij, bo padniesz.
-heb	pol	תנו לי לנצח.	Dajcie mi wygrać.
-heb	pol	תניח לי.	Daj spokój.
-heb	pol	תניח לי.	Zostaw mnie.
 heb	pol	תנקה את החדר.	Posprzątaj pokój.
 heb	pol	תסביר את הדבר הא.	Wyjaśnij następującą rzecz.
 heb	pol	תסביר את זה שוב, ג'רי.	Wyjaśnij to jeszcze raz, Jerry.
@@ -4991,8 +4992,8 @@ heb	pol	תתחבר לשיחה!	Włącz się do rozmowy!
 heb	pol	תתחתן אתי?	Czy zostaniesz moją żoną?
 heb	pol	תתחתני אתי?	Czy zostaniesz moją żoną?
 heb	pol	תתכבד.	Poczęstuj się.
-heb	pol	תתן לי סימן כשיעברו שלוש דקות?	Dasz mi znać, jak miną trzy minuty?
 heb	pol	תתנהג יפה, אחרת תצטרך לצאת מכאן.	Zachowuj się albo będziesz musiał stąd wyjść.
+heb	pol	תתן לי סימן כשיעברו שלוש דקות?	Dasz mi znać, jak miną trzy minuty?
 heb	pol	תתעסק עם העבודה שלך.	Zajmij się swoją robotą.
 heb	pol	תתקשר אליי הערב.	Zadzwoń do mnie dziś wieczorem.
 heb	pol	תתקשר לעוזר שלי במידה שיהיו לך איזה שהן שאלות.	Skontaktuj się z moim asystentem, jeżeli będziesz miał jakiekolwiek pytania.

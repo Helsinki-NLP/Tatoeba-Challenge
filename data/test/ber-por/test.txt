@@ -43,12 +43,15 @@ ber_Latn	por	D tidet tesɛiḍ gma-k deg Lalman?	É verdade que você tem um irm
 ber_Latn	por	D tikkelt tamezwarut aydeg ara ssikleɣ s usafag.	É a primeira vez que eu viajo de avião.
 ber_Latn	por	D wa ay d ameddakel amaway akk n wemdan!	Aí está o melhor amigo do homem!
 ber_Latn	por	D yiwen n weqcic ay d-yufan adamas-nni deg wagim tamet n twinas sat n tmerwin ed kraḍ.	O diamante foi descoberto por um garoto em 1873.
-ber_Latn	por	Ɣef ljal n usehwu-nni ay ɛeḍḍleɣ akken ad d-awḍeɣ ɣer uɣerbaz.	Por culpa do acidente, eu cheguei atrasado à escola.
 ber_Latn	por	Fuṛseɣ tagnit yerwin yerna mmɣeɣ ɣef ucengu.	Me aproveitei da confusão e ataquei o inimigo.
 ber_Latn	por	Gant tasestant.	Eles investigaram.
 ber_Latn	por	Gma-k mazal-it deg Lalman?	O seu irmão ainda está na Alemanha?
 ber_Latn	por	Gma-k mazal-it deg Lalman?	O teu irmão ainda está na Alemanha?
 ber_Latn	por	Gma-k yezwej, naɣ?	Seu irmão se casou, não é?
+ber_Latn	por	Ɣef ljal n usehwu-nni ay ɛeḍḍleɣ akken ad d-awḍeɣ ɣer uɣerbaz.	Por culpa do acidente, eu cheguei atrasado à escola.
+ber_Latn	por	Ɣir asey yan.	Peguem uma só.
+ber_Latn	por	Ɣriɣ tasaɛet.	Estudei por uma hora.
+ber_Latn	por	Ɣur-k ad ɛawdeɣ ad k-ḍḍfeɣ la tettgeḍ aya.	Que eu não te pegue outra vez fazendo algo assim.
 ber_Latn	por	Ḥemmleɣ ad ḥesbeɣ.	Eu gosto de calcular.
 ber_Latn	por	Ḥemmleɣ baba.	Eu gosto do meu pai.
 ber_Latn	por	Ḥemmlent-aɣ.	Amam-nos.
@@ -56,11 +59,10 @@ ber_Latn	por	HP anamek-nnes Hewlett-Packard.	HP significa Hewlett-Packard.
 ber_Latn	por	Ibaṛbaṛen llan ur ssinen awanak wala tira.	Os bárbaros desconheciam o Estado e a escrita.
 ber_Latn	por	Ih a Mass, nekk bɣiɣ ad ssiwleɣ s tefṛensist.	Sim, senhor, eu gostaria de falar francês.
 ber_Latn	por	Imir-a kan ay d-qqleɣ seg uɣerbaz.	Acabo de voltar da escola.
-ber_Latn	por	Ɣir asey yan.	Peguem uma só.
 ber_Latn	por	Ireg-a ireɣɣ mliḥ.	Este carvão queima bem.
 ber_Latn	por	Isem-inu Wang.	Eu me chamo Wang.
-ber_Latn	por	Isnegmeḍ timedditin-nnes i yat tramsut tamaynut; issenta ar ittelmad talimant.	Ele dedicou as noites a um passatempo novo; começou a aprender Alemão.
 ber_Latn	por	"Is ɣurek illa yan uɣanib?", "ah, illa yan".	"Tens uma caneta?" "Sim, tenho uma."
+ber_Latn	por	Isnegmeḍ timedditin-nnes i yat tramsut tamaynut; issenta ar ittelmad talimant.	Ele dedicou as noites a um passatempo novo; começou a aprender Alemão.
 ber_Latn	por	I tmeddurt ɣezzifen, d tummirt!	Por uma vida longa e feliz!
 ber_Latn	por	Izzayriyen lemden tamaziɣt deg uɣerbaz.	Os argelinos aprendem berbere na escola.
 ber_Latn	por	João yella yerfa.	João estava furioso.
@@ -101,13 +103,12 @@ ber_Latn	por	Osaka d ammas amsenzi n Japun.	Osaca é o centro comercial do Japã
 ber_Latn	por	Ṛeḥmemt-iyi.	Tenha piedade de mim.
 ber_Latn	por	Ṛeḥmet-iyi.	Tenha piedade de mim.
 ber_Latn	por	Ṛḥem-iyi.	Tenha piedade de mim.
-ber_Latn	por	Ɣriɣ tasaɛet.	Estudei por uma hora.
 ber_Latn	por	Seg wass n ssebt ay lliɣ da.	Estou aqui desde sábado.
 ber_Latn	por	Seg zik ay tezdeɣ deg Otaru.	Ela sempre viveu em Otaru.
 ber_Latn	por	Seg zik ay ttagadeɣ tamettant.	Sempre tive medo da morte.
 ber_Latn	por	Sɛiɣ asegzawal am win n gma-k.	Eu tenho o mesmo dicionário que o seu irmão.
-ber_Latn	por	Sḥissifeɣ imi ay ak-d-giɣ anect-a akk n wuguren.	Lamento ter te causado tantos problemas.
 ber_Latn	por	Sɣiɣ-d timseknewt yelhan.	Eu comprei uma boa câmera.
+ber_Latn	por	Sḥissifeɣ imi ay ak-d-giɣ anect-a akk n wuguren.	Lamento ter te causado tantos problemas.
 ber_Latn	por	Smenyafeɣ ad dduɣ s asalay n tẓuri wala ad dduɣ ɣer ssinima.	Preferia ir ao museu de artes do que ao cinema.
 ber_Latn	por	Ssaramen ad ten-tɛawen Mary.	Eles esperam que Mary os ajude.
 ber_Latn	por	Ssersemt iman-nwent teslemt-iyi-d.	Fiquem tranquilos e me escutem.
@@ -146,7 +147,6 @@ ber_Latn	por	Tom yeḥdeq.	Tom é gentil.
 ber_Latn	por	Tzemreḍ ad d-tafeḍ acḥal iseggasen-inu?	Pode adivinhar a minha idade?
 ber_Latn	por	Ur bɣiɣ ad ddreɣ din.	Eu não gostaria de morar ali.
 ber_Latn	por	Ur d-cligeɣ seg wucci abeṛṛani.	Não me interesso por comida estrangeira.
-ber_Latn	por	Ɣur-k ad ɛawdeɣ ad k-ḍḍfeɣ la tettgeḍ aya.	Que eu não te pegue outra vez fazendo algo assim.
 ber_Latn	por	Ur qebbleɣ ad aruɣ tabṛat n ussuter n usaruf.	Não aceitarei escrever uma carta pedindo desculpas.
 ber_Latn	por	Ur rewwi ara tiɣawsiwin.	Não crie confusão!
 ber_Latn	por	Ur rewwi tiɣawsiwin.	Não crie confusão!

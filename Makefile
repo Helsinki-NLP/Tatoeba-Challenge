@@ -51,6 +51,8 @@
 ## make update-git ............. update the git repository
 ##
 
+
+
 SHELL := bash
 CPU_MODULES := parallel
 
@@ -116,7 +118,6 @@ SCRIPTDIR      = scripts
 TOKENIZER      = ${SCRIPTDIR}/moses/tokenizer
 ISO639         = iso639
 GET_ISO_CODE   = ${ISO639} -m
-# GET_ISO_CODE = ${ISO639} -m -k
 
 
 ## set additional argument options for opus_read (if it is used)
@@ -125,30 +126,58 @@ GET_ISO_CODE   = ${ISO639} -m
 ##       (disadvantage: much slower!)
 OPUSREAD_ARGS =
 
+
+## settings for sort (parsort is part of GNU parallel)
+
 THREADS ?= 4
-SORT = sort -T ${TMPDIR} -S50M --parallel=${THREADS}
+ifneq (${shell which parsort 2>/dev/null},)
+  SORT = LC_ALL=C parsort -T ${TMPDIR} -S100M
+else
+  SORT = LC_ALL=C sort -T ${TMPDIR} -S100M --parallel=${THREADS}
+endif
+
+
+## tool for shuffling data (terashuf or sort)
+
 SHUFFLE = ${shell which terashuf 2>/dev/null}
 ifeq (${SHUFFLE},)
   SHUFFLE = ${SORT} --random-sort
 endif
+
+
+## use pigz if available
+
 GZIP := ${shell which pigz 2>/dev/null}
 GZIP ?= gzip
 ZCAT := ${GZIP} -cd
 
-PARALLEL_ARGS := --pipe --keep-order -q -L10000 --max-procs 25%
-PARALLEL := ${shell if [ `which parallel 2>/dev/null | wc -l` -gt 0 ]; then echo 'parallel ${PARALLEL_ARGS}'; fi }
+## check whether GNU parallel is available
+
+ifneq (${shell which parallel 2>/dev/null},)
+  PARALLEL_ARGS := --pipe --keep-order -q -L10000 --max-procs 25%
+  PARALLEL := parallel ${PARALLEL_ARGS}
+endif
 
 
 ## basic training data filtering pipeline
+## TODO: get rid of recode?
+## TODO: use GNU parallel?
 
 BASIC_FILTERS = | perl -CS -pe 'tr[\x{9}\x{A}\x{D}\x{20}-\x{D7FF}\x{E000}-\x{FFFD}\x{10000}-\x{10FFFF}][]cd;' \
-		| perl -CS -pe 's/\&\s*\#\s*160\s*\;/ /g' \
-		| perl -pe 's/[\p{C}-[\n\t]]/ /g;' \
-		| iconv -c -f UTF-8 -t UTF-16 | iconv -c -f UTF-16 -t UTF-8 \
+		| recode -f utf8..utf16 | recode -f utf16..utf8 \
 		| $(TOKENIZER)/deescape-special-chars.perl \
 		| sed 's/(Translated with Google Translate)//g'
 
 #		| recode -f utf8..utf16 | recode -f utf16..utf8 \
+
+# iconv instead of recode:
+# 		| iconv -c -f UTF-8 -t UTF-16 | iconv -c -f UTF-16 -t UTF-8 \
+
+## DONE: remove lines 2 and 3 (they do too much, also remove emojis)
+##
+#		| perl -CS -pe 's/\&\s*\#\s*160\s*\;/ /g' \
+#		| perl -pe 's/[\p{C}-[\n\t]]/ /g;' \
+
 
 ## available OPUS languages (IDs in the way they appear in the corpus)
 
@@ -218,7 +247,7 @@ DEV_RELEASE_TSV := ${patsubst ${RELEASEDIR}/%/dev.id,${DEVRELEASEDIR}/tatoeba-de
 
 ## language pairs that we can release
 
-RELEASE_DATA := $(shell find ${RELEASEDIR} -maxdepth 1 -mindepth 1 -type d)
+RELEASE_DATA := $(shell find ${RELEASEDIR} -maxdepth 1 -mindepth 1 -type d -name '*-*')
 
 
 ## this is for regular updates of testdata with new Tatoeba releases in OPUS
@@ -347,7 +376,7 @@ release-tag:
 	@echo "* [Test data](${TATOEBA_DATAURL}-devtest/test-${VERSION}.tar) (${VERSION})" >> ${DATADIR}/Releases.md
 	@echo "* [Development data](${TATOEBA_DATAURL}-devtest/dev-${VERSION}.tar) (${VERSION})" >> ${DATADIR}/Releases.md
 	@echo "* [Bilingual training data](README-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> ${DATADIR}/Releases.md
-	@echo "* [Extra bilingual training data](data/subsets/NoTestData-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> ${DATADIR}/Releases.md
+	@echo "* [Extra bilingual training data](subsets/NoTestData-${VERSION}.md) (${VERSION}), language-pair specific downloads" >> ${DATADIR}/Releases.md
 	@echo ""                             >> ${DATADIR}/Releases.md
 	git add ${TESTDATADIR}/*/*.txt
 	git add ${DEVDATADIR}/*/*.txt
@@ -386,14 +415,15 @@ README.md: README.template ${TESTDATADIR}-${VERSION} ${DEVDATADIR}-${VERSION}
 		-e 's/%%TRAINSET_RELEASE%%/${TRAINSET_VERSION}/g' \
 		-e 's/%%EXTRATRAINSET_RELEASE%%/${EXTRATRAINSET_VERSION}/g' \
 		-e 's/%%MONO_RELEASE%%/${MONO_VERSION}/g' \
-		-e 's/%%NR_BITEXTS%%/${shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt | wc -l | numfmt --grouping}/' \
+		-e 's/%%NR_BITEXTS%%/${shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt | cut -f10 | grep . | wc -l | numfmt --grouping}/' \
+		-e 's/%%NR_LANGPAIRS%%/${shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt | wc -l | numfmt --grouping}/' \
 		-e 's/%%NR_LANGS%%/${shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt | cut -f1 | tr '-' ' ' | tr ' ' "\n" | sort -u | wc -l}/' \
 		-e 's/%%NR_TEST_LANGPAIRS%%/${shell cat ${RELEASEDIR}/released-bitexts-min200.txt | wc -l}/' \
 		-e 's/%%NR_TEST_LANGS%%/${shell cut -f1 ${RELEASEDIR}/released-bitexts-min200.txt  | tr '-' ' ' | tr ' ' "\n" | sort -u | wc -l}/' \
 		-e 's/%%TRAIN_SIZE%%/${shell tail -n +2 ${RELEASEDIR}/released-bitexts.txt  | awk "{SUM+=\$$10}END{print SUM}" | numfmt --to=si}/' \
 	< $< > $@
 	tail -n +2 ${RELEASEDIR}/released-bitexts.txt  | awk "{SUM+=\$$10}END{print SUM}" | numfmt --to=si
-
+	cp $@ README-${VERSION}.md
 
 
 
@@ -446,6 +476,11 @@ traindata: ${TRAIN_DATA}
 testdata: ${TEST_DATA}
 devdata: ${DEV_DATA}
 
+MISSING_TRAIN_DATA = $(patsubst %,%.missing,${TRAIN_DATA})
+print-missing-traindata: ${MISSING_TRAIN_DATA}
+
+${MISSING_TRAIN_DATA}:
+	@if [ ! -e $(@:.missing=) ]; then echo "$(@:.missing=)"; fi
 
 
 ## divide into several jobs for creating training data
@@ -508,7 +543,6 @@ upload-devtest: ${DEVTESTDIR}.done
 upload-test: ${TESTDATADIR}-${VERSION}.done ${RELEASEHOME}/test.done
 upload-dev: ${DEVDATADIR}-${VERSION}.done ${RELEASEHOME}/dev.done
 upload-train: ${patsubst %,%.done,${RELEASE_DATA}}
-# upload-train: ${patsubst %,${RELEASEDIR}/%.done,${TATOEBA_PAIRS3}}
 upload-mono: ${patsubst %,${RELEASEDIR}/%.done,${WIKI_LANGS3}} # ${RELEASEDIR}/wiki.langs.done
 upload-wikishuffled: ${patsubst wiki-shuffled/%,${RELEASEDIR}/wiki-shuffled-%.done,${wildcard wiki-shuffled/???}}
 upload-wikidoc: ${patsubst wiki-doc/%,${RELEASEDIR}/wiki-doc-%.done,${wildcard wiki-doc/???}}
@@ -831,7 +865,6 @@ test-create-train: ${RELEASEDIR}/nld-uzb/train.id.gz
 
 OPUS_API := https://opus.nlpl.eu/opusapi/
 OPUS_API_MOSES := ${OPUS_API}?preprocessing=moses&version=latest
-UNICODE_CLEANUP := perl -CS -pe 'tr[\x{9}\x{A}\x{D}\x{20}-\x{D7FF}\x{E000}-\x{FFFD}\x{10000}-\x{10FFFF}][]cd;s/\&\s*\#\s*160\s*\;/ /g;'
 
 ${RELEASEDIR}/%/train.id.gz:
 	@echo "make train data for ${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}"
@@ -854,8 +887,9 @@ ${RELEASEDIR}/%/train.id.gz:
 		    wget -q -O ${dir $@}train.d/moses.zip $$z; \
 		    unzip -qq -n -d ${dir $@}train.d ${dir $@}train.d/moses.zip; \
 		    rm -f ${dir $@}train.d/moses.zip; \
-		    paste ${dir $@}train.d/*.$$a ${dir $@}train.d/*.$$b ${BASIC_FILTERS} |\
-		    ${SCRIPTDIR}/bitext-match-lang.py -s $$e -t $$f   > $@.tmp2; \
+		    paste ${dir $@}train.d/*.$$a ${dir $@}train.d/*.$$b ${BASIC_FILTERS} \
+		    | ${SCRIPTDIR}/exclude-identical.pl \
+		    | ${SCRIPTDIR}/bitext-match-lang.py -s $$e -t $$f   > $@.tmp2; \
 		    rm -f ${dir $@}train.d/*; \
 		    if [ -e $@.tmp2 ]; then \
 		      cut -f1 $@.tmp2 | ${PARALLEL} langscript -3 -l $$e -r -D ${FIXLANGIDS} > $@.tmp2srcid; \
@@ -883,7 +917,8 @@ ifdef PREVIOUS_VERSION
 	  s=${firstword ${subst -, ,${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}}}; \
 	  t=${lastword ${subst -, ,${patsubst ${RELEASEDIR}/%/train.id.gz,%,$@}}}; \
 	  paste <(gzip -cd $(patsubst ${RELEASEDIR}/%.id.gz,${PREVIOUS_RELEASEDIR}/%.src.gz,$@)) \
-		<(gzip -cd $(patsubst ${RELEASEDIR}/%.id.gz,${PREVIOUS_RELEASEDIR}/%.trg.gz,$@)) > $@.tmp2; \
+		<(gzip -cd $(patsubst ${RELEASEDIR}/%.id.gz,${PREVIOUS_RELEASEDIR}/%.trg.gz,$@)) \
+	  | ${SCRIPTDIR}/exclude-identical.pl > $@.tmp2; \
 	  ${GZIP} -cd $(patsubst ${RELEASEDIR}/%,${PREVIOUS_RELEASEDIR}/%,$@) | cut -f1 > $@.tmp2corpus; \
 	  if [ -e $@.tmp2 ]; then \
 	    cut -f1 $@.tmp2 | ${PARALLEL} langscript -3 -l $$s -r -D  ${FIXLANGIDS} > $@.tmp2srcid; \
@@ -897,8 +932,14 @@ ifdef PREVIOUS_VERSION
 endif
 
 ## sort, de-duplicate and shuffle the collected data
+
 	@if [ -s $@.tmp1 ]; then \
+<<<<<<< HEAD
 	  ${SORT} -t '	' -k4,5 -u < $@.tmp1 | ${SHUFFLE} \
+=======
+	  ${SORT} -t '	' -k4,5 -u < $@.tmp1 \
+	  | ${SHUFFLE} \
+>>>>>>> 2b57ae87581ce7394686585b63b63d45f40bad67
 	  | scripts/exclude-devtest.pl -a -l \
 		${dir $@}test.src ${dir $@}test.trg \
 		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp2 2>$(@:.id.gz=.log); \
@@ -908,62 +949,6 @@ endif
 	fi
 	rm -f $@.tmp1 $@.tmp2
 	rmdir ${dir $@}train.d
-	touch $(@:.id.gz=.corrected)
-
-
-
-
-## re-run the filter of excluding dev and test data
-## (in case this was not correctly done before, e.g. because the files were not there yet)
-
-# TO_BE_CORRECTED = $(patsubst %.id.gz,%.corrected,\
-# 	$(wildcard ${RELEASEDIR}/ara-*/train.id.gz) $(wildcard ${RELEASEDIR}/afr-*/train.id.gz))
-
-TO_BE_CORRECTED = $(patsubst %.id.gz,%.corrected,$(wildcard ${RELEASEDIR}/*/train.id.gz))
-
-%-missing-traindata:
-	${MAKE} ${RELEASEDIR}/$(@:-missing-traindata=)/train.id.gz
-
-correct-files:
-	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=1-00 THREADS=8 fra-ita-missing-traindata.submit
-	${MAKE} HPC_MEM=64g HPC_CORES=16 HPC_DISK=1000 HPC_TIME=1-12 THREADS=8 correct-train-files.submit
-	${MAKE} HPC_MEM=32g HPC_CORES=8 HPC_DISK=500 HPC_TIME=1-00 THREADS=8 fra-rus-missing-traindata.submit
-	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 deu-est-missing-traindata.submit
-	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 eng-est-missing-traindata.submit
-	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 est-fin-missing-traindata.submit
-	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 est-fra-missing-traindata.submit
-	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 est-rus-missing-traindata.submit
-	${MAKE} HPC_MEM=16g HPC_CORES=4 HPC_DISK=500 HPC_TIME=1-00 THREADS=4 est-swe-missing-traindata.submit
-
-correct-train-files: ${TO_BE_CORRECTED}
-
-${RELEASEDIR}/%/train.corrected:
-	paste 	<(gzip -cd ${dir $@}train.id.gz) \
-		<(gzip -cd ${dir $@}train.src.gz) \
-		<(gzip -cd ${dir $@}train.trg.gz) \
-	| ${UNICODE_CLEANUP} \
-	| scripts/exclude-identical.pl \
-	| ${SORT} -t '	' -k4,5 -u | ${SHUFFLE} \
-	| scripts/exclude-devtest.pl -a -l \
-		${dir $@}test.src ${dir $@}test.trg \
-		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp2
-	cut -f4 $@.tmp2 | ${GZIP} -c > $@.src.gz
-	cut -f5 $@.tmp2 | ${GZIP} -c > $@.trg.gz
-	cut -f1,2,3 $@.tmp2 | ${GZIP} -c > $@.id.gz
-	rm -f $@.tmp2
-	if [ `zcat $@.id.gz | wc -l` -eq `zcat ${dir $@}train.id.gz | wc -l` ]; then \
-	  echo "no change! delete corrected files!"; \
-	  rm -f $@.src.gz $@.trg.gz $@.id.gz; \
-	else \
-	  mv ${dir $@}train.id.gz ${dir $@}train.backup.id.gz; \
-	  mv ${dir $@}train.src.gz ${dir $@}train.backup.src.gz; \
-	  mv ${dir $@}train.trg.gz ${dir $@}train.backup.trg.gz; \
-	  mv $@.id.gz ${dir $@}train.id.gz; \
-	  mv $@.src.gz ${dir $@}train.src.gz; \
-	  mv $@.trg.gz ${dir $@}train.trg.gz; \
-	fi
-	touch $@
-
 
 
 
@@ -981,6 +966,68 @@ ${PREVIOUS_RELEASEDIR}/%/train.id.gz:
 	fi
 
 endif
+
+
+
+ifdef CHECK_PREVIOUS_VERSION
+ifdef PREVIOUS_VERSION
+
+TESTDATA_THIS_RELEASE := $(patsubst ${RELEASEDIR}/%,%,$(dir $(wildcard ${RELEASEDIR}/*/test.id)))
+TRAINDATA_THIS_RELEASE := $(patsubst ${RELEASEDIR}/%,%,$(dir $(wildcard ${RELEASEDIR}/*/train.id.gz)))
+TRAINDATA_PREVIOUS_RELEASE := $(patsubst ${PREVIOUS_RELEASEDIR}/%,%,$(dir $(wildcard ${PREVIOUS_RELEASEDIR}/*/train.id.gz)))
+
+## get all training data from the previous release that are missing from the current release
+## for which we also have test data in the current release
+
+TRAINDATA_MISSING = $(filter ${TESTDATA_THIS_RELEASE},$(filter-out ${TRAINDATA_THIS_RELEASE},${TRAINDATA_PREVIOUS_RELEASE}))
+
+print-missing-from-previous:
+	@echo "${TRAINDATA_MISSING}" | sort | tr ' ' "\n"
+
+endif
+endif
+
+
+%-missing-traindata:
+	${MAKE} ${RELEASEDIR}/$(@:-missing-traindata=)/train.id.gz
+
+
+
+
+fix-ladino-and-kurdisch:
+	make $(patsubst %.id.gz,%.srcid-backup.gz,\
+		$(wildcard ${RELEASEDIR}/kur-*/train.id.gz) \
+		$(wildcard ${RELEASEDIR}/lad-*/train.id.gz))
+	make $(patsubst %.id.gz,%.trgid-backup.gz,\
+		$(wildcard ${RELEASEDIR}/*-kur/train.id.gz) \
+		$(wildcard ${RELEASEDIR}/*-lad/train.id.gz))
+
+## fix langids that are incorrect on the source side of the training data
+
+${RELEASEDIR}/%/train.srcid-backup.gz:
+	mv ${@:srcid-backup.gz=id.gz} $@
+	${GZIP} -cd < ${@:srcid-backup.gz=src.gz} \
+	| langscript -3 -r -D -l $(firstword $(subst -, ,$(patsubst ${RELEASEDIR}/%/train.srcid-backup.gz,%,$@))) \
+	${FIXLANGIDS} > $@.srcid
+	${GZIP} -cd $@ | cut -f1 > $@.corpus
+	${GZIP} -cd $@ | cut -f3 > $@.trgid
+	paste $@.corpus $@.srcid $@.trgid | ${GZIP} -c > ${@:srcid-backup.gz=id.gz}
+	rm -f $@.corpus $@.srcid $@.trgid
+	touch $@
+
+## fix langids that are incorrect on the target side of the training data
+
+${RELEASEDIR}/%/train.trgid-backup.gz:
+	mv ${@:trgid-backup.gz=id.gz} $@
+	${GZIP} -cd < ${@:trgid-backup.gz=trg.gz} \
+	| langscript -3 -r -D -l $(lastword $(subst -, ,$(patsubst ${RELEASEDIR}/%/train.trgid-backup.gz,%,$@))) \
+	${FIXLANGIDS} > $@.trgid
+	${GZIP} -cd $@ | cut -f1,2 > $@.corpus
+	paste $@.corpus $@.trgid | ${GZIP} -c > ${@:trgid-backup.gz=id.gz}
+	rm -f $@.corpus $@.trgid
+	touch $@
+
+
 
 
 
@@ -1107,10 +1154,17 @@ ${RELEASEDIR}/%/test.id:
 	mkdir -p ${dir $@}
 	cat ${patsubst ${RELEASEDIR}/%/test.id,${DEVTESTDIR}/%,$@}/test-*.txt |\
 	sed "s/ *\t/\t/g;s/ *$$//" | sort -u > $@.merged
-	cut -f1,2 $@.merged > $@
+	cut -f3 $@.merged | langscript -3 -r -D \
+		-l $(firstword $(subst -, , $(patsubst ${RELEASEDIR}/%/test.id,%,$@))) \
+		${FIXLANGIDS} > $@.srcid
+	cut -f4 $@.merged | langscript -3 -r -D \
+		-l $(lastword $(subst -, , $(patsubst ${RELEASEDIR}/%/test.id,%,$@))) \
+		${FIXLANGIDS} > $@.trgid
+	paste $@.srcid $@.trgid  > $@
+#	cut -f1,2 $@.merged > $@
 	cut -f3 $@.merged > ${dir $@}test.src
 	cut -f4 $@.merged > ${dir $@}test.trg
-	rm -f $@.merged
+	rm -f $@.merged $@.srcid $@.trgid
 
 ## dev data in the release: merge all cumulated dev data in data/devtest
 
@@ -1120,11 +1174,17 @@ ${RELEASEDIR}/%/dev.id:
 	-cat ${patsubst ${RELEASEDIR}/%/dev.id,${DEVTESTDIR}/%,$@}/dev-*.txt |\
 	sed "s/ *\t/\t/g;s/ *$$//" | sort -u > $@.merged
 	if [ -s $@.merged ]; then \
-	  cut -f1,2 $@.merged > $@; \
+	  cut -f3 $@.merged | langscript -3 -r -D \
+		-l $(firstword $(subst -, , $(patsubst ${RELEASEDIR}/%/dev.id,%,$@))) \
+		${FIXLANGIDS} > $@.srcid; \
+	  cut -f4 $@.merged | langscript -3 -r -D \
+		-l $(lastword $(subst -, , $(patsubst ${RELEASEDIR}/%/dev.id,%,$@))) \
+		${FIXLANGIDS} > $@.trgid; \
+	  paste $@.srcid $@.trgid  > $@; \
 	  cut -f3 $@.merged > ${dir $@}dev.src; \
 	  cut -f4 $@.merged > ${dir $@}dev.trg; \
 	fi
-	rm -f $@.merged
+	rm -f $@.merged $@.srcid $@.trgid
 
 
 ## add test and dev data from the Tatoeba release
@@ -1470,9 +1530,54 @@ ${RELEASEDIR}/released-bitexts-zero-shot.txt: ${RELEASEDIR}/released-bitexts.txt
 	grep -v '^#' $< | awk -F "\t" '$$4 >= 200' | awk -F "\t" '$$10 < 1' > $@
 
 
-#	for l in ${TATOEBA_PAIRS3}; do \
+
+
+## getting all counts of all bitexts
+## --> several count files to make it possible to run in parallel
 
 ${RELEASEDIR}/released-bitexts.txt:
+	${MAKE} temporary-data-counts
+	echo "# langpair	source-lang	target-lang	test-size	test-source	test-target	dev-size	dev-source	dev-target	train-size	train-source	train-target" > $@
+	find ${RELEASEDIR} -maxdepth 1 -mindepth 1 -type f -name '*.counts' | sort | xargs cat >> $@
+	find ${RELEASEDIR} -maxdepth 1 -mindepth 1 -type f -name '*.counts' -delete
+
+
+TEMPORARY_DATA_COUNT_FILES := $(patsubst %,%.counts,$(RELEASE_DATA))
+
+INTERMEDIATE: ${TEMPORARY_DATA_COUNT_FILES}
+
+.PHONY: temporary-data-counts
+temporary-data-counts: ${TEMPORARY_DATA_COUNT_FILES}
+
+${RELEASEDIR}/%.counts: ${RELEASEDIR}/%
+	echo -n "$(notdir $<)	" > $@
+	@echo "$(notdir $<)" | tr '-' ' '  | xargs iso639 | sed 's/" "/\t/;s/"//g' | tr "\n" "\t" >> $@
+	@if [ -s $</test.id ]; then \
+	    cat $</test.src | wc -lw | sed 's/^ *//;s/  */\t/g' | tr "\n" "\t" >> $@; \
+	    cat $</test.trg | wc -w | sed 's/^ *//;s/  */\t/g'  | tr "\n" "\t" >> $@; \
+	else \
+	    echo -n "			" >> $@; \
+	fi
+	@if [ -s $</dev.id ]; then \
+	    cat $</dev.src | wc -lw | sed 's/^ *//;s/  */\t/g' | tr "\n" "\t" >> $@; \
+	    cat $</dev.trg | wc -w | sed 's/^ *//;s/  */\t/g'  | tr "\n" "\t" >> $@; \
+	else \
+	    echo -n "			" >> $@; \
+	fi
+	@if [ -e $</train.id.gz ]; then \
+	    ${GZIP} -cd < $</train.src.gz | wc -lw | sed 's/^ *//;s/  */\t/g' | tr "\n" "\t" >> $@; \
+	    ${GZIP} -cd < $</train.trg.gz | wc -w | sed 's/^ *//;s/  */\t/g'  | tr "\n" "\t">> $@; \
+	else \
+	    echo -n "		" >> $@; \
+	fi
+	@echo "" >> $@
+
+
+
+## old way of getting all counts with a for loop
+## --> this is slow!
+
+${RELEASEDIR}/released-bitexts-old.txt:
 	echo "# langpair	source-lang	target-lang	test-size	test-source	test-target	dev-size	dev-source	dev-target	train-size	train-source	train-target" > $@
 	for l in `find ${RELEASEDIR} -maxdepth 1 -mindepth 1 -type d -name '*-*' -printf "%f\n" | sort`; do \
 	  echo "count size of bitext $$l"; \

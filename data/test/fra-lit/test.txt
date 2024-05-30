@@ -3,6 +3,7 @@ fra	lit	Aimes-tu ton pays ?	Ar tu myli savo šalį?
 fra	lit	Après ta réponse, je suis convaincue : il y a de très nombreuses personnes intelligentes en Russie !	Po tavo atsakymo esu įsitikinęs: Rusijoje yra daug protingų žmonių!
 fra	lit	Après ta réponse, je suis convaincue : il y a de très nombreuses personnes intelligentes en Russie !	Po tavo atsakymo esu įsitikinusi: Rusijoje yra daug protingų žmonių!
 fra	lit	À propos de musique classique, quel est ton compositeur préféré ?	Beje, kalbant apie klasikinę muziką, koks tavo mėgstamiausias kompozitorius?
+fra	lit	À quoi pense Christian ?	Apie ką Kristianas galvoja?
 fra	lit	Aujourd'hui, c'est l'anniversaire de ma femme.	Šiandien mano žmonos gimtadienis.
 fra	lit	Avez-vous une expérience professionnelle ?	Ar turite profesinės patirties?
 fra	lit	Baignade interdite.	Maudytis draudžiama.
@@ -25,6 +26,7 @@ fra	lit	Est-ce que tu connais son père ?	Ar tu pažįsti jos tėvą?
 fra	lit	Huit et deux font dix.	Aštuoni plius du lygu dešimt.
 fra	lit	Huit et deux font dix.	Prie aštuonių pridėti du yra lygu dešimt.
 fra	lit	Il adore les voitures.	Jis dievina mašinas.
+fra	lit	Il craint d'être trompé.	Jis bijo būti apgautas.
 fra	lit	Il est assis dans la salle de réunion.	Jis sėdi posėdžių salėje.
 fra	lit	Il est grand temps que vous entrepreniez une nouvelle affaire.	Pats laikas tau pradėti naują verslą.
 fra	lit	Il est grand temps que vous entrepreniez une nouvelle affaire.	Tau pats laikas pradėti naują veiklą.
@@ -41,12 +43,14 @@ fra	lit	Je crois avoir entendu un chat miauler dans l'appartement voisin.	Aš, r
 fra	lit	Je dois réfléchir.	Aš turiu pagalvoti.
 fra	lit	Je dois réfléchir.	Man reikia pagalvoti.
 fra	lit	Je l'ai rencontré avant.	Esu jį sutikęs anksčiau.
+fra	lit	Je m'appelle Marina.	Mano vardas Marina.
 fra	lit	Je m'appelle Sally.	Mano vardas yra Sally.
 fra	lit	Je n'ai pas mangé depuis six jours.	Aš nevalgiau šešias dienas.
 fra	lit	Je ne connais pas l'anglais.	Aš nemoku anglų kalbos.
 fra	lit	Je ne peux pas voyager en avion.	Aš negaliu keliauti lėktuvu.
 fra	lit	Je ne peux rien vous donner de plus, sauf mon sang.	Daugiau jums nieko negaliu duoti, išskyrus savo kraują.
 fra	lit	Je ne sais pas l'anglais.	Aš nemoku anglų kalbos.
+fra	lit	Je ne sais pas, Tom.	Aš nežinau, Tomai.
 fra	lit	Je ne veux pas passer le reste de ma vie à le regretter.	Nenoriu praleisti visą likusį gyvenimą gailintis dėl to.
 fra	lit	J'entends un son au loin.	Aš girdžiu garsą tolumoje.
 fra	lit	Je regrette d'avoir dit cela.	Gailiuosi tai pasakęs.
@@ -84,6 +88,7 @@ fra	lit	Le rat est là ! Allez chercher le chat !	Čia yra žiurkė! Pašaukite 
 fra	lit	Les animaux courent.	Gyvūnai bėga.
 fra	lit	Les livres pour les jeunes se vendent bien ces jours-ci.	Šiuo metu gerai parduodamos knygos, skirtos jauniems žmonėms.
 fra	lit	L'Espéranto, langue officielle de l'Union européenne, maintenant !	Esperanto, oficiali Europos Sąjungos kalba, jau dabar!
+fra	lit	Le stalinisme, c'est du racisme.	Stalinizmas yra rasizmas.
 fra	lit	Le voleur ne croit pas que les honnêtes gens existent.	Vagis netiki, kad yra sąžiningų žmonių.
 fra	lit	Ma fille va à l'école.	Mano duktė eina į mokyklą.
 fra	lit	Marie est une artiste de renommée mondiale.	Marija yra visame pasaulyje žinoma menininkė.

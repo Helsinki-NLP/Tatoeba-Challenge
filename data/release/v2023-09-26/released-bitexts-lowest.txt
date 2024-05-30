@@ -1,0 +1,74 @@
+ara-ber	Arabic	Berber languages	2498	11078	11927	1058	4733	5142	4	20	9	
+avk-fra	Kotava	French	1244	6557	9181	43	187	262	5	49	192	
+ber-deu	Berber languages	German	671	3320	3859				5	11	25	
+ber-eng	Berber languages	English	26088	144176	155233	108422	590231	673066	32	204	247	
+ber-epo	Berber languages	Esperanto	1576	7992	9364	23	106	111	5	11	22	
+ber-fra	Berber languages	French	14666	63825	88078	34705	140107	190877	1	2	3	
+ber-spa	Berber languages	Spanish	10339	54271	58829	14044	73889	78952	5	11	29	
+bua-rus	Buriat	Russian	806	2807	2893				1024	8858	10900	
+cbk-eng	Chavacano	English	1498	8879	8303	1026	6048	5751	16	292	252	
+chm-rus	Mari (Russia)	Russian	2750	15104	16269	1000	5305	5720	3699	14220	14552	
+cor-deu	Cornish	German	821	3855	3732				896	4334	4216	
+cor-eng	Cornish	English	3198	14464	13500	1000	4601	4272	2434	23873	43357	
+cor-epo	Cornish	Esperanto	663	3026	2877				1062	4641	4401	
+cor-fra	Cornish	French	555	2560	2614				1064	5493	6293	
+cor-ita	Cornish	Italian	287	1211	1079				1121	5564	5833	
+cor-rus	Cornish	Russian	218	959	820				1304	5870	5331	
+cor-spa	Cornish	Spanish	206	944	847				1155	5662	6190	
+crh-tur	Crimean Tatar	Turkish	208	824	794				9111	47776	47016	
+deu-ido	German	Ido	1000	4872	4726	928	4461	4422	5210	10183	11486	
+deu-ile	German	Interlingue	2278	11146	11531	1372	6540	6818	3	35	76	
+deu-jbo	German	Lojban	1449	8454	9715	20	213	301	381	744	1086	
+deu-tlh	German	Klingon	1099	6292	3573	1081	6002	3477	113	2046	1280	
+deu-vol	German	Volapük	214	1084	811	7	32	33	1	72	13	
+eng-got	English	Gothic	207	865	685				117	2479	1169	
+eng-grc	English	Ancient Greek (to 1453)	623	4676	3509	6	28	28	19	387	54	
+eng-gsw	English	Swiss German	218	854	836	3	13	18	106	2701	2256	
+eng-ile	English	Interlingue	1711	8607	8832	1143	5763	5928	242	2205	1651	
+eng-jbo	English	Lojban	4996	28565	33556	7050	41034	48459	451	1379	1716	
+eng-lad	English	Ladino	867	3824	3727	58	224	254	29	550	569	
+eng-lfn	English	Lingua Franca Nova	4594	29698	32700	3706	23624	25842	43	763	807	
+eng-nov	English	Novial	222	1159	1148	14	59	61	4	76	52	
+eng-pam	English	Pampanga	1000	5621	4989	494	2851	2504	30	78	64	
+eng-pms	English	Piemontese	270	1714	1910				45	299	285	
+eng-tlh	English	Klingon	5000	27391	15764	8717	47645	27521	136	2339	1423	
+eng-vol	English	Volapük	1541	8149	6093	1356	7128	5449	70	1372	438	
+eng-xal	English	Kalmyk	281	1726	1366				28	54	44	
+epo-epo	Esperanto	Esperanto	10000	60347	60394	9874	60255	60298	266	1818	1810	
+epo-ido	Esperanto	Ido	1183	6325	6295	743	3236	3223	7173	16340	17845	
+epo-ile	Esperanto	Interlingue	334	1411	1514	23	95	101	7	136	88	
+epo-jbo	Esperanto	Lojban	1167	6044	7229	64	415	549	304	580	761	
+epo-lad	Esperanto	Ladino	475	2093	2151	52	205	219	12	101	118	
+epo-lfn	Esperanto	Lingua Franca Nova	997	4839	5583	604	2884	3256	6	41	40	
+epo-tlh	Esperanto	Klingon	1930	9942	6161	247	1053	696	136	1988	1401	
+fra-ido	French	Ido	566	3058	2689	26	132	108	6885	18123	17797	
+fra-ile	French	Interlingue	401	2054	1966	8	38	39	2	7	10	
+fra-jbo	French	Lojban	1140	7811	8187	5	19	16	172	567	690	
+fra-pcd	French	Picard	268	1465	1355				57	1190	830	
+fra-tlh	French	Klingon	648	3614	1995	15	71	50	129	2362	1406	
+ido-ina	Ido	Interlingua (International Auxiliary Language Association)	414	1671	1828	52	228	253	455	1063	1268	
+ido-ita	Ido	Italian	1460	8272	8216	73	352	348	6558	15255	14914	
+ido-lat	Ido	Latin	214	817	692	32	146	126	3024	5628	5547	
+ido-spa	Ido	Spanish	584	3027	3076	15	62	76	6706	15673	15635	
+ido-yid	Ido	Yiddish	576	2420	2726	58	265	307	1418	2756	2695	
+ina-lat	Interlingua (International Auxiliary Language Association)	Latin	1017	5964	4296	70	328	245	162	416	328	
+ina-tlh	Interlingua (International Auxiliary Language Association)	Klingon	284	1134	722	34	146	97	5	10	6	
+ina-yid	Interlingua (International Auxiliary Language Association)	Yiddish	997	4766	4852	328	1555	1600	311	784	847	
+ita-lij	Italian	Ligurian	216	1106	1244				6120	49232	51484	
+ita-pms	Italian	Piemontese	233	1453	1661				91	1653	2064	
+jbo-jpn	Lojban	Japanese	921	5735	926				304	853	363	
+jbo-rus	Lojban	Russian	1199	7959	5456	11	55	36	343	944	690	
+jbo-spa	Lojban	Spanish	1507	9686	7787	15	67	64	77	400	281	
+jbo-swe	Lojban	Swedish	243	1243	1097				302	774	565	
+jbo-zho	Lojban	Chinese	518	3020	524	23	137	25	507	1447	682	
+jpn-tlh	Japanese	Klingon	676	684	2617				131	377	1420	
+lad-spa	Ladino	Spanish	336	1451	1424	25	119	109	18	850	1054	
+lat-tlh	Latin	Klingon	268	897	759	30	104	92	15	23	17	
+lfn-spa	Lingua Franca Nova	Spanish	389	2197	2043	46	370	347	7	215	212	
+rus-sah	Russian	Yakut	994	5075	3851				5953	88413	70581	
+rus-tlh	Russian	Klingon	262	1048	750	6	22	18	133	2119	1310	
+rus-xal	Russian	Kalmyk	209	1076	1013				25	46	41	
+spa-tlh	Spanish	Klingon	348	1614	1050	10	43	31	145	2525	1435	
+tlh-yid	Klingon	Yiddish	408	1138	1794	49	151	233	3	3	4	
+tlh-zho	Klingon	Chinese	448	1477	461	1	4	1	119	816	271	
+ukr-ukr	Ukrainian	Ukrainian	831	3352	3286				1921	12597	12749	

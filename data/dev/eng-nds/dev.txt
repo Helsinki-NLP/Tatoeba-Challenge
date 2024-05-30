@@ -184,12 +184,14 @@ eng	nds	Didn't you know that?	Wüsst du dat nich?
 eng	nds	Didn't you read the sign?	Hebbt ji das Schild nich läsen?
 eng	nds	Didn't you read the sign?	Hest du dat Schild nich läsen?
 eng	nds	Did Tom and Mary do anything?	Hebbt Tom un Ria wat doon?
+eng	nds	Did Tom help Mary?	Hett Tom Ria holpen?
 eng	nds	Did you bring your family with you?	Hest du diene Famielje mitbröcht?
 eng	nds	Did you buy this book?	Hest du dit Book köfft?
 eng	nds	Did you drink a lot?	Hebbt ji veel drunken?
 eng	nds	Did you drink a lot?	Hest du veel drunken?
 eng	nds	Did you enjoy the film?	Hett di de Film gefallen?
 eng	nds	Did you enjoy the movie?	Hett jo de Film gefallen?
+eng	nds	Did you go to a football match when you were in England?	Büst du mol to en Footballspeel wäsen, as du in Ingland wast?
 eng	nds	Did you hear about yesterday's fire?	Hest du von dat Füür güstern höört?
 eng	nds	Did you know that Tom has three children?	Hebbt ji wüßt, dat Tom dree Kinner hett?
 eng	nds	Did you like the meal?	Hest du dat Eten mücht?
@@ -210,6 +212,9 @@ eng	nds	Does Tom have a brother?	Hett Tom en broer?
 eng	nds	Does Tom think that dogs are smarter than cats?	Hüllt Tom Hunnen för klöker as Katten?
 eng	nds	Does your head hurt?	Deit di dien Kopp weh?
 eng	nds	Does your stomach hurt?	Hest du Buukwehdaag?
+eng	nds	Do I have to change trains for Paris?	Mütt ik na Paris ümstiegen?
+eng	nds	Do I need to change for Paris?	Mütt ik na Paris ümstiegen?
+eng	nds	Do I need to change trains for Paris?	Mütt ik na Paris ümstiegen?
 eng	nds	Do not bend or fold!	Nich knicken oder folen!
 eng	nds	Do not do that.	Do dat nich.
 eng	nds	Don't ask where that turkey baster's been.	Fraag nich, woneem de Bradenpipett al wesen is.
@@ -260,6 +265,7 @@ eng	nds	Do you know his brother?	Kennst du sien Broder?
 eng	nds	Do you know Roman numerals?	Kennst du de röömschen Tallen?
 eng	nds	Do you know this song?	Kennst du dit Leed?
 eng	nds	Do you know what time they came?	Weetst du wannehr se kamen sünd?
+eng	nds	Do you know when Tom died?	Weetst du, wannehr Tom starven is?
 eng	nds	Do you know who sings that song?	Weetst du, ’keen dat Leed singt?
 eng	nds	Do you like cats or dogs better?	Magst du lever Katten oder Hunnen?
 eng	nds	Do you like China?	Magst du China?
@@ -380,6 +386,7 @@ eng	nds	Had I taken that plane, I would be dead by now.	Harr ik dissen Fleger na
 eng	nds	Hans is a German name.	Hans is en düütschen Naam.
 eng	nds	Happy Fourth of July!	Frohen 4. Juli!
 eng	nds	Happy New Year!	Proost Neejohr!
+eng	nds	Has he always been like that?	Was he al jümmer so?
 eng	nds	Has Lucy already called?	Hett Lucy al anropen?
 eng	nds	Has Lucy called yet?	Hett Lucy al anropen?
 eng	nds	Has she received my letter?	Hett se mien Breef kregen?
@@ -388,6 +395,7 @@ eng	nds	Has your dog ever bitten anybody?	Hett joon Hund mol een bäten?
 eng	nds	Has your dog ever bitten anyone?	Hett dien Hund mol een bäten?
 eng	nds	Has your dog ever bitten anyone?	Hett joon Hund mol een bäten?
 eng	nds	Have fun.	Veel Spaaß!
+eng	nds	Have I got to change for Paris?	Mütt ik na Paris ümstiegen?
 eng	nds	Have mercy!	Gnaad!
 eng	nds	Have the children eaten yet?	Hebbt de Kinner al äten?
 eng	nds	Have Tom and Mary already been here?	Sünd Tom un Ria al hier wäsen?
@@ -443,6 +451,7 @@ eng	nds	He doesn't have any pets.	He hett keen Huusdeerten.
 eng	nds	He doesn't like oranges.	He mag keen Appelsienen.
 eng	nds	He doesn't like oranges.	He mag kene Appelsienen.
 eng	nds	He doesn't look his age.	Man sütt em sien Öller nich an.
+eng	nds	He doesn't want to say anything.	He will nix seggen.
 eng	nds	He drank a beer.	He drünk en Beer.
 eng	nds	He drank a cup of tea and then asked for another.	He drünk en Köppken Kaffe un hett denn üm noch een beden.
 eng	nds	He dried his wet clothes by the fire.	He deed siene natten Klamotten an ’t Füür drögen.
@@ -578,6 +587,8 @@ eng	nds	He sat on the bench in the park.	He seet op de Bank in ’n Park.
 eng	nds	He sat surrounded by young girls.	He seet mank en Hümpel junge Deerns.
 eng	nds	He says he won't come.	He seggt, dat he nich kummt.
 eng	nds	He says that he knows you.	He seggt, he kennt di.
+eng	nds	He says that I should drive to Boston with her.	He seggt, ik schall mit ehr na Boston föhren.
+eng	nds	He says that I should go to Boston with her.	He seggt, ik schall mit ehr na Boston föhren.
 eng	nds	He’s been asleep for ten hours now.	He slöppt nu al teihn Stünnen.
 eng	nds	He's been to the stadium.	He is na ’t Stadion wesen.
 eng	nds	He's coming closer.	He kummt neger.
@@ -615,6 +626,7 @@ eng	nds	He took second place.	He hett den tweten Platz maakt.
 eng	nds	He tried to kill himself.	He versöch sik sülvs ümtobringen.
 eng	nds	He used all his strength to crawl out of the wrecked car.	He deed all sien Knööv bruken, üm ut dat Autowrack to krupen.
 eng	nds	He wanted to become a farmer.	He wull Buur warrn.
+eng	nds	He wants me to drive to Boston with her.	He will, dat ik mit ehr na Boston föhr.
 eng	nds	He was absent from school because he was sick.	He weer nich in ’e School, denn he weer krank.
 eng	nds	He was born in Switzerland.	He is in de Swiez boren.
 eng	nds	He was forced to resign as prime minister.	He müss as Premierminister Bott geven.
@@ -674,6 +686,7 @@ eng	nds	How many eyes had the Cyclops?	Woveel Ogen harr de Zykloop?
 eng	nds	How many guests did you invite?	Woveel Gäst hest du inlaadt?
 eng	nds	How many hours did you work this week?	Woveel Stünnen hebbt ji düsse Week arbeidt?
 eng	nds	How many hours did you work this week?	Woveel Stünnen hest du düsse Week arbeidt?
+eng	nds	How many lawyers do you think there are in Boston?	Wat gläuvst du, woveel Afkoten dat in Boston gifft?
 eng	nds	How many mangoes do you want?	Woveel Mangos wullt du?
 eng	nds	How many pages did you translate today?	Woveel Sieden hest du vundaag översett?
 eng	nds	How many tractors did you sell last week?	Woveel Treckers hest du vergangen Week verköfft?
@@ -696,6 +709,7 @@ eng	nds	Hurry up, and you'll catch the bus.	Nu man gau, denn kriggst den Bus noc
 eng	nds	Hurry up, and you will be on time.	Maak man to, denn kummst du noch rechttiedig.
 eng	nds	I almost dropped a plate.	Ik heff binah en Teller dalsmeten.
 eng	nds	I already have a plan.	Ik heff al en Plaan.
+eng	nds	I already told Tom what I want to buy.	Ik heff Tom al seggt, wat ik köpen will.
 eng	nds	I always keep promises.	Ik holl Verspreken jümmer.
 eng	nds	I always walk to school.	Ik gah jümmer to Foot na School.
 eng	nds	I am able to drive a car.	Ik kann Auto föhren.
@@ -888,11 +902,15 @@ eng	nds	I eat with my hands.	Ik eet mit mien Hannen.
 eng	nds	I feel cold.	Mi is koold.
 eng	nds	I feel like throwing up.	Ik föhl mi, as wen ik breken mutt.
 eng	nds	I feel like throwing up.	Ik föhl mi, as wenn ik kalvern mutt.
+eng	nds	I feel sorry for Tom, but not for Mary.	Tom deit mi leed, man nich Ria.
 eng	nds	I fell asleep.	Ik bün inslopen.
 eng	nds	I felt my hands tremble.	Ik heff mien Hannen beven föhlt.
 eng	nds	If I could rearrange the alphabet, I would put U and I together.	Wenn ik dat Alphabeet nee sorteren kunn, denn deed ik M un R blangenenanner setten, dat sünd wi beid.
 eng	nds	If I didn't have money I wouldn't have a house.	Wenn ik keen Geld harr, harr ik keen Huus.
 eng	nds	If I read a thousand books in English, will I become fluent in it?	Wenn ik dusend Beuker op Engelsch lääs, kann ik dat denn fleten?
+eng	nds	If I see Tom, I’ll tell him you were looking for him.	Wenn ik Tom seh, segg ik em, dat du em söcht hest.
+eng	nds	If I see Tom, I’ll tell him you were looking for him.	Wenn ik Tom seh, segg ik em, dat ji em söcht hebbt.
+eng	nds	If I see Tom, I’ll tell him you were looking for him.	Wenn ik Tom seh, segg ik em, dat Se em söcht hebbt.
 eng	nds	If I were invisible I wouldn't have to dress myself.	Wenn ik unsichtbor weer, denn müss ik nix anhebben.
 eng	nds	If I were you, I'd go home right away.	Wenn ik du weer, deed ik glieks na Huus gahn.
 eng	nds	If I were you, I would go home at once.	Wenn ik du weer, deed ik glieks na Huus gahn.
@@ -908,6 +926,7 @@ eng	nds	If they don't have bread, let them eat cake.	Wenn se keen Brood hebbt, d
 eng	nds	If Tom had said that to me, I'd have slapped him.	Harr Tom mi dat seggt, harr he vun mi enen an’n Kopp kregen.
 eng	nds	If you can read this sentence, then you're able to read.	Wenn du dissen Satz lesen kannst, denn kannst du lesen.
 eng	nds	If you cut the tail off of a lizard, it will grow back.	Wenn du en Eerdkrüper den Steert afsniddst, denn wasst he wedder na.
+eng	nds	If you don't like it here, you don't need to stay.	Wenn di dat hier nich gefallt, bruukst du nich to blieven.
 eng	nds	If you don't understand, ask a question.	Wenn du wat nich versteihst, denn fraag.
 eng	nds	If you don't want to put on sunscreen, that's your problem. Just don't come complaining to me when you get a sunburn.	Wenn du keen Sünnkreem bruken wullt, denn is dat dien Saak. Aver jabbel later nich, wenn du en Sünnbrand kriggst.
 eng	nds	If you do what I want you to do, I'll give this to you.	Wenn du deist, wat ik will, geev ik di dat hier.
@@ -941,11 +960,14 @@ eng	nds	I have about 5,000 yen.	Ik heff üm un bi 5.000 Yen.
 eng	nds	I have a cat and a dog. The cat is black and the dog is white.	Ik heff en Katt un en Hund. De Katt is swart un de Hund is witt.
 eng	nds	I have a dictionary.	Ik heff en Wöörbook.
 eng	nds	I have a friend who feeds his dog strawberries.	Ik heff en Fründ, de sien Hund Eerdbeern to freten gifft.
+eng	nds	I have a friend who lives in Spain.	Ik heff en Fründ, de in Spanien wahnt.
+eng	nds	I have a friend who lives in Spain.	Ik heff en Fründin, de in Spanien wahnt.
 eng	nds	I have a headache.	Ik heff Koppwehdaag.
 eng	nds	I have a horror of snakes.	Ik bün hellschen bang vör Snaken.
 eng	nds	I have a large family.	Ik heff en grote Familie.
 eng	nds	I have almost no money with me.	Ik heff meist keen Geld bi mi.
 eng	nds	I have a lot of books.	Ik heff en Barg Böker.
+eng	nds	I have already been married to Ria for four years.	Ik bün al veer Johr mit Ria verheirodt.
 eng	nds	I have already done it.	Ik heff dat al daan.
 eng	nds	I have an old bicycle.	Ik heff en oold Fohrrad.
 eng	nds	I have a pair of mittens.	Ik heff en Poor Fuusthanschen.
@@ -976,6 +998,7 @@ eng	nds	I haven't asked Tom yet.	Ik heff Tom noch nich fraagt.
 eng	nds	I haven't heard from him for a long time.	Ik heff al lang nix mehr von em höört.
 eng	nds	I haven't told anyone anything.	Ik heff nüms wat seggt.
 eng	nds	I have relatives in Boston.	Ik heff Verwandte in Boston.
+eng	nds	I have rewritten this sentence.	Ik heff düssen Satz ümschreven.
 eng	nds	I have studied Italian for a few months.	Ik heff för en poor Maand Italieensch lehrt.
 eng	nds	I have to examine you.	Ik mutt di ünnersöken.
 eng	nds	I have to hurry!	Ik mutt mi spoden!
@@ -1005,6 +1028,7 @@ eng	nds	I hope you'll like it.	Ik hööp, dat gefallt jo.
 eng	nds	I invited him over to my place.	Ik heff em na mi tohuus inlaadt.
 eng	nds	I invited my friends.	Ik heff mien Frünn inloden.
 eng	nds	I just found out that my wife cheated on me.	Ik heff jüst utfunnen, dat mien Froo mi bedrüggt.
+eng	nds	I just got back yesterday.	Ik bün ierst gistern torüchkomen.
 eng	nds	I just hope nothing goes wrong this time.	Ik hööp man bloot, dat disse Tuur nix scheev geiht.
 eng	nds	I just met your mother.	Ik heff grood dien Modder dropen.
 eng	nds	I just met your mother.	Ik heff grood joon Modder dropen.
@@ -1127,11 +1151,14 @@ eng	nds	I'm looking for my eyeglasses.	Ik kiek na mien Brill.
 eng	nds	I'm making far journeys, seeing foreign countries, doing things I never did before.	Ik maak wiede Reisen, besöök feerne Länner, do Saken, de ik noch nie daan heff.
 eng	nds	I'm not a doctor.	Ik bün keen Dokter.
 eng	nds	I'm not afraid at all.	Ik bün gornich bang.
+eng	nds	I'm not afraid to say what I think.	Ik bün nich bang to seggen, wat ik denk.
 eng	nds	I'm not an American.	Ik bün keen Amerikaner.
 eng	nds	I'm not from Boston.	Ik bün nich ut Boston.
 eng	nds	I'm not going back.	Ik gah nich trügg.
+eng	nds	I'm not saying this just because you're my sister.	Ik segg dat nich blot, wiel du mien Süster büst.
 eng	nds	I'm not supposed to help Tom and Mary do that.	Dor schall ik Tom und Ria nich bi helpen.
 eng	nds	I'm not supposed to talk to you.	Ik schall nich mit di snacken.
+eng	nds	I'm not sure we have enough time.	Ik bün mi nich säker, of wi noog Tiet hebbt.
 eng	nds	I'm not tired yet.	Ik bün noch nicht meud.
 eng	nds	I'm not well.	Mi geiht dat slecht.
 eng	nds	I'm older than your brother.	Ik bün öller as dien Broder.
@@ -1229,6 +1256,7 @@ eng	nds	I see the house.	Ik seh dat Huus.
 eng	nds	I see this house.	Ik seh dit Huus.
 eng	nds	I see what you mean.	Ik verstah, wat du meenst.
 eng	nds	I see your house.	Ik seh dien Huus.
+eng	nds	I sent her a letter.	Ik heff ehr en Breef schickt.
 eng	nds	Is Gronings a language or a dialect?	Is dat Groningsch en Spraak of en Dialekt?
 eng	nds	Is he a real doctor? He talks so normally.	Is de woll en echten Dokter? De küert so normaal.
 eng	nds	Is he right?	Hett he recht?
@@ -1247,7 +1275,9 @@ eng	nds	I speak a little Slovenian.	Ik snack en beten Sloveensch.
 eng	nds	I speak a little Spanish.	Ik snack en beten Spaansch.
 eng	nds	I speak English every day.	Ik snack elk Dag Engelsch.
 eng	nds	I speak of my friend.	Ik snack von mien Fründ.
+eng	nds	I spent all day at home today.	Ik heff hiut den ganzen Dag tohuus verbröcht.
 eng	nds	I spent hours reading books.	Ik heff Stünnen mit Böker lesen tobröcht.
+eng	nds	I spent my money on clothes, food and books.	Ik heff mien Geld för Kleder, Äten un Beuker utgäven.
 eng	nds	I spent the weekend reading a long novel.	Ik heff dat Wekenenn tobröcht, en lang Romaan to lesen.
 eng	nds	I spent the whole day in the park.	Ik heff den ganzen Dag in’n Park verbröcht.
 eng	nds	I spoke to her yesterday.	Ik heff gistern mit ehr snackt.
@@ -1397,6 +1427,7 @@ eng	nds	I usually go on foot.	Ik gah normalerwies to Foot.
 eng	nds	I usually take a shower after I play tennis, but today I couldn't.	Normalerwies duusch ik na ’n Tennis, man vondaag kunn ik nich.
 eng	nds	I've already told Tom that Mary isn't here.	Ik heff Tom al seggt, dat Ria nich hier is.
 eng	nds	I've always wanted to meet you.	Ik wull di al jümmer drepen.
+eng	nds	I've been married to Mary for four years.	Ik bün al veer Johr mit Ria verheirodt.
 eng	nds	I've forgotten my pin number.	Ik heff mien PIN vergeten.
 eng	nds	I've got a big dick!	Ik heff en groten Pesel!
 eng	nds	I've got a question.	Ik heff en Fraag.
@@ -1575,9 +1606,12 @@ eng	nds	Malaria is a disease that mosquitoes carry.	Malaria is en Krankheit, de 
 eng	nds	Man is a wolf to man.	De Minsch is ’n Minsch sien Wulv.
 eng	nds	Manny wants to be a unicorn so girls will ride him.	Manny will geern en Eenhoorn wesen. Dat all Deerns em rieden wüllt.
 eng	nds	Many European kitchens have scales because dry ingredients are measured by weight there, unlike in America, where they are measured by volume.	Veel europääsche Köken hebbt Waggen, vonwegen dat se dröge Todaden dor na Wicht meet, anners as in Amerika, wo se de na Volumen meet.
+eng	nds	Many people start their day with a cup of coffee.	Veel fangt den Dag mit en Köppen Kaffee an.
 eng	nds	Many people study biology in school.	Veel hebbt Biologie in’e School.
 eng	nds	Many trees lose their leaves in the winter.	Veel Bööm smiet jemehr Loff in ’n Winter af.
 eng	nds	Many weeds were growing among the flowers.	Mank de Blomen wüss veel Unkruud.
+eng	nds	Maria does not speak German.	Maria sprickt keen Diutsch.
+eng	nds	Maria doesn't speak German.	Maria sprickt keen Diutsch.
 eng	nds	Maria has long hair.	Maria hett lang Hoor.
 eng	nds	Marie no longer works as much as she used to.	Ria arbeidt nich mihr soveel as freuher.
 eng	nds	Mark has my book.	Mark hett mien Book.
@@ -1633,6 +1667,7 @@ eng	nds	Mt. Fuji is a beautiful sight at sunset.	de Barg Fuji sütt mooi ut bi S
 eng	nds	My best friend is in Rome now.	Mien besten Fründ is jüst in Room.
 eng	nds	My birthday is in July.	Mien Geboortsdag is in ’n Juli.
 eng	nds	My box is twice as heavy as yours.	Mien Karton is twee Maal so swoor as dien.
+eng	nds	My brother has announced that he's getting married at last, which is very good news.	Mien Broer hett ankünnigt, dat he endlich heirodt, wat en heel gode Noricht is.
 eng	nds	My brother-in-law died last Friday.	Mien Swager is vergangen Freedag doodbleven.
 eng	nds	My brother is an idiot.	Mien Broder is en Idioot.
 eng	nds	My brother is a professor.	Mien Broder is en Perfesser.
@@ -1783,6 +1818,7 @@ eng	nds	Paris is called the City of Lights. Many beautiful buildings are lit at 
 eng	nds	Paris is the capital of France.	Paris is de Höövdstad von Frankriek.
 eng	nds	Paul was born in Rome.	Paul is in Room boren.
 eng	nds	Pedro doesn't have a sister.	Pedro hett keen Süster.
+eng	nds	Peter is the bigger of the two boys.	Peter is de gröttere vun de beiden Jungs.
 eng	nds	Phone for you.	Telefoon för di.
 eng	nds	Play the Humppa!	Speelt Humppa!
 eng	nds	Please don't make such a loud noise.	Maak doch nich so ’n Larm.
@@ -1992,6 +2028,7 @@ eng	nds	She's picking her nose.	Se puult in ’e Nees.
 eng	nds	She's selling drugs at concerts.	Se verköfft bi Kunzerten Drogen.
 eng	nds	She's still young.	Se is noch jung.
 eng	nds	She's taller than him.	Se is grötter as he.
+eng	nds	She's three years older than him.	Se is dree Johr öller as he.
 eng	nds	She still buys milk.	Se köfft noch jümmer Melk.
 eng	nds	She stole a lot of money from him.	Se hett em en Barg Geld stahlen.
 eng	nds	She stood as close to him as she could.	Se stünn so dicht bi em as dat güng.
@@ -2099,6 +2136,8 @@ eng	nds	Talking to Eliana is like talking to a wall.	Mit Eliana snacken is as we
 eng	nds	'Tammi' with two m's. So that's T-A-M-M-I.	‚Tammi‘ mit twee m. Also T-A-M-M-I.
 eng	nds	Taste this wine to see if you like it.	Prööv dissen Wien, üm to sehn, wat du em magst.
 eng	nds	Tatoeba: Because a language is more than the sum of its words.	Tatoeba: Wieldat ’n Spraak mehr is as de Summ vun ehr Wöör.
+eng	nds	Tatoeba is not a dictionary.	Tatoeba is keen Wöörbook.
+eng	nds	Tatoeba isn't a dictionary.	Tatoeba is keen Wöörbook.
 eng	nds	Tatoeba: Join the dark side. We have chocolate cookies.	Tatoeba: Kumm op de düüstere Sied. Wi hebbt Schokoladenkeks’.
 eng	nds	Tatoeba: Where sentences are always sentences, except when they aren't.	Tatoeba: Wo Sätz alltied Sätz sünd, utbenahmen wenn se ’t nich sünd.
 eng	nds	Tears came to her eyes.	Tranen schöten ehr in de Ogen.
@@ -2128,6 +2167,7 @@ eng	nds	That horse can talk.	Dat Peerd kann kören.
 eng	nds	That is a schooner.	Dat is en Schoner.
 eng	nds	That is a ship.	Dat is en Schipp.
 eng	nds	That is a table.	Dat is en Disch.
+eng	nds	That is for you.	Dat is för di!
 eng	nds	That is her car.	Dat is ehr Auto.
 eng	nds	That is his car.	Dat is sien Auto.
 eng	nds	That is my book.	Dat is mien Book.
@@ -2402,6 +2442,7 @@ eng	nds	The robot was so lifelike that it was uncanny.	De Roboter weer so levens
 eng	nds	The rooster crows at sunrise.	De Hahn kreiht bi Sünnopgang.
 eng	nds	The roses in the garden smell sweet.	De Rosen in ’n Goorn reekt good.
 eng	nds	The rule does not apply in our case.	De Regel gellt in uns Fall nich.
+eng	nds	The sea is cold.	Dat Meer is koolt.
 eng	nds	These apples aren't ripe yet.	Düsse Appeln sünd noch nich riep.
 eng	nds	These are my books.	Dat sünd miene Böker.
 eng	nds	These are my parents.	Dat sünd miene Öllern.
@@ -2482,8 +2523,10 @@ eng	nds	They get a great deal of snow in Hokkaido.	Se kriegt en ganzen Hümpel S
 eng	nds	They go to work every day.	Se gaht elk Dag na Arbeid.
 eng	nds	They had no food.	Se harrn nix to eten.
 eng	nds	They had to start from scratch.	Se möten noch wedder von vörn anfangen.
+eng	nds	They have a basket full of apples.	De hebbt en Korf vull mit Appeln.
 eng	nds	They have brown skin and black hair.	Se hebbt brune Huud un swart Hoor.
 eng	nds	They invited me to play cards.	Se hebbt mi inlaadt, Koorten to spelen.
+eng	nds	They know Kabyle.	De künnt Kabylsch.
 eng	nds	They looked and tasted like shrimps, but I can assure you those were not real shrimps.	De hebbt utsehn un smeckt as Shrimps, man ik kann di seggen, dat weren keen echte Shrimps.
 eng	nds	They looked at the photo taken of me when I was a boy and laughed.	Se hebbt sik dat Foto von mi as lütt Jung ankeken un lacht.
 eng	nds	They missed a lot.	Se hebbt veel verpasst.
@@ -2492,10 +2535,12 @@ eng	nds	The youngsters were singing folk songs.	De jungen Lüüd hebbt Volkslede
 eng	nds	They're both expecting babies.	Se verwacht all beid Kinner.
 eng	nds	They regarded the man as a danger to society.	Se hebbt den Mann as Gefohr för de Sellschop ansehn.
 eng	nds	They're inside.	De sünd binnen.
+eng	nds	They're looking for volunteers.	De seukt Friewillige.
 eng	nds	They say he is very rich.	He schall bannig riek sien.
 eng	nds	They say he's very rich.	Man seggt, dat he temlich riek is.
 eng	nds	They say that he is very rich.	He schall bannig riek sien.
 eng	nds	They sell everything here.	Hier warrt allens verköfft.
+eng	nds	They've always been like that.	De sünd al jümmer so wäsen.
 eng	nds	They've fooled you.	Se hebbt di narrt.
 eng	nds	They want to kill me.	Se wüllt mi ümbringen.
 eng	nds	They want to participate in the Olympic Games.	Se wüllt bi de Olympschen Spelen mitmaken.
@@ -2545,6 +2590,7 @@ eng	nds	This is the book that I told you about.	Dat is dat Book, von dat ik di v
 eng	nds	This is the flag of Japan.	Dat is de Fahn von Japan.
 eng	nds	This is the reason I came here.	Dat is de Grund, worüm as ik herkamen bün.
 eng	nds	This is Tom's knife.	Dat is Tom sien Knief.
+eng	nds	This is written in English.	Dat is up Engelsch schreven.
 eng	nds	This is your doing!	Dat hest du daan!
 eng	nds	This kind of dog exists only in Japan.	Disse Soort Hunnen gifft dat bloot in Japan.
 eng	nds	This land is my property.	Dit Land is mien Egendom.
@@ -2584,6 +2630,7 @@ eng	nds	To change the units from metric to imperial and vice versa, the 'menu' b
 eng	nds	Today is a good day to die.	Vondaag is en goden Dag to ’n Starven.
 eng	nds	Today is a hot day.	Vondaag is dat hitt.
 eng	nds	Today is Saturday and tomorrow will be Sunday.	Vondaag is Sünnavend un morgen is Sünndag.
+eng	nds	Today I won't be going to church.	Hiut goh ik nich na Kerk.
 eng	nds	Today, we have to sleep outdoors.	Vondaag mööt wi buten slapen.
 eng	nds	Tofu goes well with sake.	Tofu geiht good mit Sake tohoop.
 eng	nds	Tom admitted that he hadn't read Mary's book.	Tom geev to, dat he Ria ehr Book nich läsen harr.
@@ -2771,6 +2818,7 @@ eng	nds	Twenty families live here.	Twintig Familien leevt hier.
 eng	nds	Two children are sitting on top of the fence.	Twee Kinner sitt baven op ’n Tuun.
 eng	nds	Two times seven is fourteen.	Twee maal söven is veerteihn.
 eng	nds	Two years ago I went to China.	Vör twee Johr bün ik na China gahn.
+eng	nds	Unfortunately, I can't help you, but I have a suggestion.	Ik di nich helpen, dat deit mi leed, man ik heff en Vörslag.
 eng	nds	Usually I get up at six, but today I got up at eight.	Sünst stah ik üm süß up, aver vundaag bün ik üm acht upstahn.
 eng	nds	War broke out in 1941.	De Krieg füng 1941 an.
 eng	nds	War is a crime against humanity.	Krieg is en Verbreken gegen de Minschheid.
@@ -2827,6 +2875,7 @@ eng	nds	We have always been friends.	Wi sünd jümmer Frünnen wesen.
 eng	nds	We have enough money to buy this CD.	Wi hebbt noog Geld üm disse CD to köpen.
 eng	nds	We have had enough of empty words.	Wi hebbt noog leddige Wöör hatt.
 eng	nds	We have had little snow this year.	We hebbt dit Johr nich veel Snee hatt.
+eng	nds	We haven't changed anything yet.	Wi hebbt noch nix ännert.
 eng	nds	We have only three days.	Wi hebbt blot dree Daag.
 eng	nds	We have three children.	Wi hebbt dree Kinner.
 eng	nds	We have to look after our parents.	Wi mööt uns üm uns Öllern kümmern.
@@ -2867,8 +2916,10 @@ eng	nds	We're all happy.	Wi sünd all blied.
 eng	nds	We're all out of coffee.	Wi hebbt keen Kaffe mehr.
 eng	nds	We're almost there.	Wi sünd al meist dor.
 eng	nds	We're a lot younger than Tom.	Wi sünd veel jünger as Tom.
+eng	nds	We're at the museum.	Wi sünd in’t Museum.
 eng	nds	We're going home together.	Wi goht tosammen na Huus.
 eng	nds	We're going to Germany.	Wi föhrt na Diutschland.
+eng	nds	We're learning how to write.	Wi lehrt schrieven.
 eng	nds	We're not in the jungle.	Wi sünd nich in ’n Dschungel.
 eng	nds	We're not there yet.	Wi sünd noch nich dor.
 eng	nds	We're selling everything.	Wi verköfft allens.
@@ -3062,10 +3113,12 @@ eng	nds	Who is there?	’Keen is dor?
 eng	nds	Who is your favorite actor?	’Keen is dien leevsten Schauspeler?
 eng	nds	Who said that?	’Keen hett dat seggt?
 eng	nds	Who's coming with me?	’Keen kummt mit mi?
+eng	nds	Who seeks shall find the wise said.	„’keen söcht, de schall finnen“, sä de Wiese.
 eng	nds	Whose friend are you?	’keen sien Fründ büst du?
 eng	nds	Whose is that book?	’Keen sien Book is dat?
 eng	nds	Whose is this bag?	Wen häöert düsse Tasken?
 eng	nds	Whose turn is it?	’Keen is an ’e Reeg?
+eng	nds	Who's got a key to this flat?	’keen hett allens en Wahnungsslötel?
 eng	nds	Who told you the story?	’Keen hett di de Geschicht vertellt?
 eng	nds	Who was Mona Lisa?	’Keen weer Mona Lisa?
 eng	nds	Who was this window broken by?	’Keen hett dit Finster tweibraken?
@@ -3087,6 +3140,8 @@ eng	nds	Why are you home?	Worüm büst du to Huus?
 eng	nds	Why are you so mad?	Worüm büst du so wöterig?
 eng	nds	Why are you so sad?	Worüm sünd ji so trurig?
 eng	nds	Why are you washing your hands?	Worüm wascht du di de Hannen?
+eng	nds	Why can't you swim here?	Worüm dröff man hier nich swemmen?
+eng	nds	Why can't you swim here?	Worüm is dat nich tolaten, hier to swemmen?
 eng	nds	Why did he do that?	Worüm hett he dat daan?
 eng	nds	Why did he run away?	Worüm is he weglopen?
 eng	nds	Why didn't anybody tell me what to do?	Worüm hett mi keeneen seggt, wat ik doon schall?
@@ -3183,6 +3238,9 @@ eng	nds	You must learn from your mistakes.	Du musst ut dien Fehlers lehren.
 eng	nds	You must not play.	Du dröffst nich spelen.
 eng	nds	You must not stay in bed.	Du dröffst nich in’t Bett blieven.
 eng	nds	You must not stay in bed.	Ji dröfft nich in’t Bett blieven.
+eng	nds	You mustn't go.	Du dröffst nich gohn.
+eng	nds	You mustn't go.	Ji dröfft nich gohn.
+eng	nds	You mustn't go.	Se dröfft nich gohn.
 eng	nds	You must read between the lines.	Du musst twüschen de Regen lesen.
 eng	nds	You need this.	Du bruukst dit.
 eng	nds	You need to finish your homework.	Du musst die Huusopgaven trechmaken.

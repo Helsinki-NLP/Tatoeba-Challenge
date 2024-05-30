@@ -1,6 +1,7 @@
 dan	rus	Advarsel! Gulvet er vådt!	Внимание! Скользкий пол.
 dan	rus	Æblerne er røde.	Яблоки красные.
 dan	rus	Æblet, som jeg har fundet, er grønt.	Яблоко, которое я нашёл, зелёное.
+dan	rus	»Æsler« er flertal af »æsel«.	"Ослы" - это множественное число от спова "осёл".
 dan	rus	Afbrudt samleje beskytter ikke mod kønssygdomme.	Прерванный половой акт не защищает от болезней, передающихся половым путём.
 dan	rus	Afrika er menneskehedens vugge.	Африка является колыбелью человечества.
 dan	rus	A-kraft er dyr og farlig.	Атомная энергия дорога и опасна.
@@ -40,6 +41,7 @@ dan	rus	Bryssel er Belgiens hovedstad.	Брюссель — столица Бе�
 dan	rus	Byg og hvede vokser på markerne rundt om landsbyen.	На полях вокруг деревни растут ячмень и пшеница.
 dan	rus	Chișinău er hovedstaden i Moldova.	Кишинёв - столица Молдавии.
 dan	rus	Chokolade smager sødt.	Шоколад на вкус сладкий.
+dan	rus	Citat slut.	Конец цитаты.
 dan	rus	Dagpåfugleøje (Inachis io) er en smuk og let genkendelig sommerfugl.	Павлиний глаз (Inachis io) — красивая и легко узнаваемая бабочка.
 dan	rus	Da jeg boede i Rom, tog jeg metroen hver dag.	Когда я жил в Риме, я ездил на метро каждый день.
 dan	rus	Danmark vandt over Sverige.	Дания победила Швецию.
@@ -49,6 +51,8 @@ dan	rus	De fleste russere kender kun tre franske ord: amour, toujours og bonjour
 dan	rus	De gav deres heste vand.	Они напоили своих лошадей.
 dan	rus	De gennemsøgte huset.	Они обыскали дом.
 dan	rus	De hader edderkopper.	Они ненавидят пауков.
+dan	rus	De har en bedre idé.	У них есть идея получше.
+dan	rus	De har en kurv fuld af æbler.	У них корзина, полная яблок.
 dan	rus	De hvide duer er smukke fugle.	Белые голуби - красивые птицы.
 dan	rus	De ligner hinanden som to dråber vand.	Они похожи друг на друга как две капли воды.
 dan	rus	Den afrikanske elefant har større ører end den asiatiske.	У африканского слона уши больше, чем у азиатского.
@@ -103,10 +107,13 @@ dan	rus	Det er ikke en hemmelighed.	Это не секрет.
 dan	rus	Det er ikke ulovligt.	Это не противозаконно.
 dan	rus	Det er koldt i dag!	Холодно сегодня!
 dan	rus	Det er min onkels bil.	Это машина моего дяди.
+dan	rus	Det er på tide at lære dansk.	Пора учить датский.
+dan	rus	Det er på tide at lære dansk.	Пора учить датский язык.
 dan	rus	Det er sent.	Поздно.
 dan	rus	Det er Toms skyld.	Это Том виноват.
 dan	rus	Det er varmt i dag.	Сегодня жарко.
 dan	rus	Det fantastiske norske efterår nærmer sig.	Приближается фантастическая норвежская осень.
+dan	rus	Det forenede folk vil aldrig blive besejret.	Объединённый народ никогда не будет повержен.
 dan	rus	Det går mig på nerverne.	Это действует мне на нервы.
 dan	rus	Det kan jeg se med det blotte øje.	Это я могу видеть невооружённым глазом.
 dan	rus	Det officielle sprog i Niue er niueansk.	Официальный язык на Ниуэ — ниуэ.
@@ -115,6 +122,7 @@ dan	rus	Det skal du få betalt!	Ты за это поплатишься!
 dan	rus	Det skete for tre dage siden.	Это случилось три дня назад.
 dan	rus	Dette bord er hvidt.	Этот стол белый.
 dan	rus	Dette er den bedste bog, jeg nogensinde har læst.	Это лучшая книга, которую я когда-либо читал.
+dan	rus	Dette er dit brød.	Это твой хлеб.
 dan	rus	Dette er en i sandhed salomonisk løsning.	Это поистине соломоново решение.
 dan	rus	Dette er en mobiltelefon.	Это мобильный телефон.
 dan	rus	Dette er et grønt æble.	Это зелёное яблоко.
@@ -176,6 +184,7 @@ dan	rus	Enken var klædt i sort.	Вдова была одета в черное.
 dan	rus	En te med citron, tak!	Чай с лимоном, пожалуйста.
 dan	rus	En uge har syv dage: mandag, tirsdag, onsdag, torsdag, fredag, lørdag og søndag.	В неделе семь дней: понедельник, вторник, среда, четверг, пятница, суббота и воскресенье.
 dan	rus	Er æblet rødt?	Яблоко красное?
+dan	rus	Er den bog hun læser, interessant?	Книга, которую она читает, интересная?
 dan	rus	Er denne pære grøn?	Эта груша зелёная?
 dan	rus	Er der noget vigtigt?	Есть что-то важное?
 dan	rus	Er der nogle gode restauranter heromkring?	Есть здесь в округе какие-нибудь хорошие рестораны?
@@ -191,7 +200,11 @@ dan	rus	"Er du stadig vred på mig?" - "Nej, slet ikke."	"Ты всё ещё с�
 dan	rus	Er du syg i hovedet?	С головой не всё в порядке?
 dan	rus	Er I døve?	Вы глухие?
 dan	rus	Er I tvillinger?	Вы близнецы?
+dan	rus	Er Mary en berømt skuespillerinde?	Мэри - известная актриса?
+dan	rus	Ester blev født i en kibbutz.	Эстер родилась в киббуце.
+dan	rus	Esther blev født i en kibbutz.	Эстер родилась в киббуце.
 dan	rus	Et godt helbred er bedre end alverdens guld.	Доброе здоровье важнее всего золота мира.
+dan	rus	Et hurtigt mål stak en kæp i hjulet på alle vores planer.	Быстрый гол спутал нам все карты.
 dan	rus	Et kvadrat har fire hjørner.	У квадрата четыре угла.
 dan	rus	Et sprog er en dialekt med en hær og en flåde.	Язык - это диалект с армией и флотом.
 dan	rus	Europa er en af Jupiters måner.	Европа — один из спутников Юпитера.
@@ -405,11 +418,14 @@ dan	rus	Hvilket sprog taler man i Mexico?	На каком языке говор�
 dan	rus	Hvilket sprog tales i Mexico?	На каком языке говорят в Мексике?
 dan	rus	Hvis det sner i morgen, vil jeg lave en snemand.	Если завтра будет снег, я слеплю снеговика.
 dan	rus	Hvis du spiser meget, bliver du tyk.	Будешь много есть — растолстеешь.
+dan	rus	Hvis jeg ser Tom, vil jeg sige til ham, at du har ledt efter ham.	Если я увижу Тома, я скажу ему, что ты его искал.
+dan	rus	Hvis jeg ser Tom, vil jeg sige til ham, at I har ledt efter ham.	Если я увижу Тома, я скажу ему, что вы его искали.
 dan	rus	Hvis jeg var dig så ville jeg straks gå hjem.	На твоём месте я бы сразу пошла домой.
 dan	rus	Hvordan går det med jobsøgningen?	Как дела с поиском работы?
 dan	rus	Hvordan kom du ind?	Как ты вошёл?
 dan	rus	Hvor drikker du kaffe?	Где ты пьёшь кофе?
 dan	rus	Hvor er beviserne?	Где доказательства?
+dan	rus	Hvor er det muligt at betale?	Где можно оплатить?
 dan	rus	Hvor er din far nu?	Где сейчас твой отец?
 dan	rus	Hvor er din søn nu?	Где сейчас твой сын?
 dan	rus	"Hvor er hoveddørsnøglen?" "Den er i min jakkelomme."	«Где ключ от входной двери?» – «У меня в кармане куртки».
@@ -435,12 +451,15 @@ dan	rus	Hvor har du købt billetten?	Где ты купил билет?
 dan	rus	Hvor høj er du?	Какой у тебя рост?
 dan	rus	Hvor kan jeg få fat i et kort over Europa?	Где можно достать карту Европы?
 dan	rus	Hvor kan jeg tage lufthavnsbussen?	Где я могу сесть на автобус в аэропорт?
+dan	rus	Hvor kan man betale?	Где можно оплатить?
 dan	rus	Hvor købte du billetten?	Где ты купил билет?
 dan	rus	Hvor mange børn har du?	Сколько у тебя детей?
 dan	rus	Hvor mange dage er der i et skudår?	Сколько дней в високосном году?
 dan	rus	Hvor mange katte har du?	Сколько у тебя кошек?
 dan	rus	Hvor mange katte har I?	Сколько у вас кошек?
 dan	rus	Hvor mange mennesker bor der på Jorden?	Сколько людей живет на Земле?
+dan	rus	Hvor meget koster denne vin?	Сколько стоит это вино?
+dan	rus	Hvornår blev Det Andet Tempel ødelagt?	Когда был разрушен Второй Храм?
 dan	rus	Hvornår vender de hjem?	Когда они вернутся домой?
 dan	rus	Hvornår vil det ske?	Когда это случится?
 dan	rus	Hvor skjulte du dem?	Где ты их спрятала?
@@ -492,6 +511,7 @@ dan	rus	Jeg bryder mig ikke om at spise hvidløg om morgenen.	Я не люблю
 dan	rus	Jeg drikker hverken kaffe eller te.	Я не пью ни кофе, ни чай.
 dan	rus	Jeg drikker ikke kaffe.	Я не пью кофе.
 dan	rus	Jeg drikker sædvanligvis sort kaffe fordi jeg ikke bryder mig om mælk.	Я обычно пью чёрный кофе, потому что не люблю молоко.
+dan	rus	Jeg drikker te hver dag.	Я пью чай ежедневно.
 dan	rus	Jeg elsker dig mere end du elsker mig.	Я люблю тебя больше, чем ты меня.
 dan	rus	Jeg elsker Frankrig.	Я люблю Францию.
 dan	rus	Jeg elsker jer begge af hele mit hjerte.	Я всем сердцем люблю вас обеих.
@@ -583,6 +603,7 @@ dan	rus	Jeg har en hund og en kat.	У меня есть кошка и собак
 dan	rus	Jeg har en kat og en hund. Katten er sort og hunden er hvid.	У меня есть кошка и собака. Кошка чёрная, а собака белая.
 dan	rus	Jeg har en let hovedpine.	У меня небольшая головная боль.
 dan	rus	Jeg har en ordbog.	У меня есть словарь.
+dan	rus	Jeg har en ven der bor i Spanien.	У меня есть друг, который живёт в Испании.
 dan	rus	Jeg har et tv-apparat i soveværelset.	У меня в спальне есть телевизор.
 dan	rus	Jeg har få bøger.	У меня мало книг.
 dan	rus	Jeg har fået Toms besked.	Я получил сообщение Тома.
@@ -598,6 +619,7 @@ dan	rus	Jeg har lært 2000 engelske ord udenad.	Я выучил наизусть
 dan	rus	Jeg har læst mange af hans romaner i oversættelse.	Я прочёл многие из его романов в переводе.
 dan	rus	Jeg har lige fundet dem.	Я только что их нашёл.
 dan	rus	Jeg har næsten ikke en krone tilbage.	У меня почти ни кроны не осталось.
+dan	rus	Jeg har omskrevet denne sætning.	Я переписала это предложение.
 dan	rus	Jeg har problemer med den franske grammatik.	У меня проблемы с французской грамматикой.
 dan	rus	Jeg har problemer med den franske grammatik.	У меня трудности с французской грамматикой.
 dan	rus	Jeg har puttet lidt fløde i min kaffe.	Я добавил себе в кофе немного сливок.
@@ -606,6 +628,7 @@ dan	rus	Jeg har skrællet æblet.	Я почистил яблоко.
 dan	rus	Jeg har skrevet mange sætninger på esperanto.	Я написал много предложений на эсперанто.
 dan	rus	Jeg har spist de grønne æbler.	Я съел зелёные яблоки.
 dan	rus	Jeg har tabt mit ur.	Я потерял свои часы.
+dan	rus	Jeg har to søstre. De er begge gift.	У меня две сестры. Они обе замужем.
 dan	rus	Jeg har viklet mig ind i et net af løgne.	Я запутался в паутине лжи.
 dan	rus	Jeg havde en forfærdelig smerte.	Мне было ужасно больно.
 dan	rus	Jeg havde en kanin og en hund.	У меня были кролик и собака.
@@ -620,9 +643,11 @@ dan	rus	Jeg kan ikke holde den her støj ud længere.	Я больше не мо�
 dan	rus	Jeg kan ikke køre hjem.	Я не могу ехать домой.
 dan	rus	Jeg kan ikke leve uden dig.	Я не могу жить без тебя.
 dan	rus	Jeg kan ikke lide at se tv.	Я не люблю смотреть телевизор.
+dan	rus	Jeg kan ikke lide de fattige; de tænker kun på penge.	Не люблю бедных, они думают только о деньгах.
 dan	rus	Jeg kan ikke lide din far.	Мне не нравится твой отец.
 dan	rus	Jeg kan ikke lide dit navn.	Мне не нравится твоё имя.
 dan	rus	Jeg kan ikke oversætte denne sætning. Den er for lang.	Я не могу перевести это предложение. Оно слишком длинное.
+dan	rus	Jeg kan ikke se uden briller.	Без очков я не вижу.
 dan	rus	Jeg kan ikke tro at det her virkelig sker.	Поверить не могу, что это на самом деле происходит.
 dan	rus	Jeg kan ikke udstå gulerødder.	Я терпеть не могу морковку.
 dan	rus	Jeg kan ikke vide alt.	Я не могу знать всё.
@@ -633,16 +658,19 @@ dan	rus	Jeg kan lide dyr, for eksempel katte og hunde.	Мне нравятся �
 dan	rus	Jeg kan mange sprog.	Я знаю много языков.
 dan	rus	Jeg kender hans hemmelighed.	Я знаю его секрет.
 dan	rus	Jeg købte en ny bil til hende.	Я купил ей новый автомобиль.
+dan	rus	Jeg kørte derhen i bil.	Я поехал туда на машине.
 dan	rus	Jeg læste, at Brasiliens præsident er en kvinde. Hun hedder Dilma.	Я читала, что президент Бразилии женщина. Её зовут Дилма.
 dan	rus	Jeg læste ikke.	Я не читал.
 dan	rus	Jeg løste let problemet.	Я легко решил проблему.
 dan	rus	Jeg lover at jeg aldrig vil gøre det igen.	Я обещаю, что никогда больше не буду так делать.
+dan	rus	Jeg lytter til Björks nye sang.	Я слушаю новую песню Бьорк.
 dan	rus	Jeg lytter.	Я слушаю.
 dan	rus	Jeg måtte gå hjem til fods.	Мне пришлось идти домой пешком.
 dan	rus	Jeg mødte ham da han var i Japan.	Я встретила его, когда он был в Японии.
 dan	rus	Jeg mødte ham efter arbejde.	Я встретил его после работы.
 dan	rus	Jeg ønskede ikke at han skulle dø.	Я не хотел, чтобы он умирал.
 dan	rus	Jeg ønsker at bo i Italien.	Я хочу жить в Италии.
+dan	rus	Jeg ønsker ham død.	Я хочу, чтобы он умер.
 dan	rus	Jeg ønsker ikke at kende sandheden.	Я не хочу знать правду.
 dan	rus	Jeg overdriver.	Я преувеличиваю.
 dan	rus	Jeg plejer at gå i seng klokken ni.	Обычно я ложусь в девять часов.
@@ -673,6 +701,7 @@ dan	rus	Jeg tager af sted til Tyrkiet i morgen.	Завтра я уезжаю в 
 dan	rus	Jeg tager min paryk på.	Я надеваю парик.
 dan	rus	Jeg tager til stranden.	Я иду на пляж.
 dan	rus	Jeg taler esperanto.	Я говорю на эсперанто.
+dan	rus	Jeg taler ikke polsk.	Я не говорю по-польски.
 dan	rus	Jeg taler i telefon.	Я разговариваю по телефону.
 dan	rus	Jeg tilbragte tolv timer i toget.	Я был в поезде двенадцать часов.
 dan	rus	Jeg tror hun kan lide ham.	Думаю, он ей нравится.
@@ -706,6 +735,7 @@ dan	rus	Jeg ville have brug for en evighed for at forklare alt.	Мне потр�
 dan	rus	Jeg ville have brug for en evighed for at forklare alt.	Мне потребуется вечность, чтобы всё объяснить.
 dan	rus	Jeg vil skrive en bog.	Я хочу написать книгу.
 dan	rus	Jeres hund er her.	Ваша собака здесь.
+dan	rus	Jo ældre jeg bliver, desto glemsommere bliver jeg.	Чем я старше, тем забывчивей.
 dan	rus	Jo flere penge vi har, jo flere ønsker vi.	Чем больше у нас денег, тем больше мы хотим.
 dan	rus	Jorden er brun.	Земля коричневая.
 dan	rus	Jorden, Mars og Jupiter er planeter.	Земля, Марс и Юпитер - планеты.
@@ -733,6 +763,7 @@ dan	rus	Kernekraft er dyr og farlig.	Атомная энергия дорога 
 dan	rus	København er Danmarks hovedstad.	Копенгаген - столица Дании.
 dan	rus	Køber du stadigvæk lottokuponer?	Ты до сих пор покупаешь лотерейные билеты?
 dan	rus	Kom ikke for sent til arbejdet!	Не опаздывай на работу!
+dan	rus	Kommer du ikke i morgen?	Ты завтра не придёшь?
 dan	rus	Kompasset viser mod nord.	Компас указывает на север.
 dan	rus	Kunne du lide filmen?	Тебе понравился фильм?
 dan	rus	Kunst er min passion.	Искусство — моя страсть.
@@ -756,6 +787,7 @@ dan	rus	Må jeg låne din computer?	Можно мне одолжить твой 
 dan	rus	Må jeg slukke lyset?	Можно я выключу свет?
 dan	rus	Man bør se begge sider af medaljen.	Нужно видеть обе стороны медали.
 dan	rus	Månen drejer sig om Jorden.	Луна вращается вокруг Земли.
+dan	rus	Mange begynder dagen med en kop kaffe.	Многие начинают день с чашки кофе.
 dan	rus	Mange kongresdeltagere boede på Hotel Lux.	Многие участники конгресса жили в гостинице «Люкс».
 dan	rus	Mange tak!	Спасибо вам большое!
 dan	rus	Man har misforstået mig.	Меня неправильно поняли.
@@ -794,6 +826,7 @@ dan	rus	Min hund har fået et dansk pas.	Моей собаке дали датс
 dan	rus	Min hund kan forstå esperanto men kan ikke tale det.	Моя собака понимает эсперанто, но не умеет на нём говорить.
 dan	rus	Min kone er vegetar.	Моя жена — вегетарианка.
 dan	rus	Min kone køber grøntsager fra et supermarked i nærheden.	Моя жена покупает овощи в супермаркете неподалеку.
+dan	rus	Min mor synger altid, når hun laver mad.	Мама всегда поёт, когда готовит.
 dan	rus	Min mor var danser.	Моя мать была танцовщицей.
 dan	rus	Min mor var norsk, og min far var dansk. Først da jeg var fem år, fandt jeg ud af at de talte to forskellige sprog.	Моя мать была норвежкой, а отец — датчанином. Только когда мне было пять лет я понял, что они говорят на двух разных языках.
 dan	rus	Min søn tog til Iran.	Мой сын поехал в Иран.
@@ -846,9 +879,14 @@ dan	rus	Rusland er stort.	Россия большая.
 dan	rus	Sådan er livet.	Такова жизнь.
 dan	rus	Så du det?	Ты это видел?
 dan	rus	Sædvanligvis går jeg til fods til skole.	Обычно я иду в школу пешком.
+dan	rus	Sami har en chinchilla.	У Сами есть шиншилла.
 dan	rus	Se, et egern!	Смотри, белка!
+dan	rus	Selv professorer ved ikke alt.	Даже профессора знают не всё.
+dan	rus	Selv professorer ved ikke alt.	Даже профессора не всё знают.
 dan	rus	Semikolonet ser ud som et punktum over et komma.	Точка с запятой выглядит как точка над запятой.
 dan	rus	Se på huset med det røde tag.	Посмотри на дом с красной крышей.
+dan	rus	Sidste år læste jeg to hundrede bøger.	В прошлом году я прочитала двести книг.
+dan	rus	Sidste år læste jeg to hundrede bøger.	В прошлом году я прочитал двести книг.
 dan	rus	Silke er blød og glat.	Шёлк мягкий и гладкий.
 dan	rus	Situationen er værre end vi troede.	Ситуация хуже, чем мы думали.
 dan	rus	Skoleåret begynder den tiende april.	Учебный год начинается 10 апреля.
@@ -872,6 +910,7 @@ dan	rus	Svøm ikke i dammen.	Не плавай в пруду.
 dan	rus	Tag jeres sko på.	Обуйтесь.
 dan	rus	Tak.	Спасибо.
 dan	rus	Taler du engelsk?	Ты говоришь по-английски?
+dan	rus	Taler du ukrainsk eller russisk?	Ты говоришь по-украински или по-русски?
 dan	rus	Temperaturen er i øjeblikket ti grader under nul.	Температура на данный момент — десять градусов ниже нуля.
 dan	rus	Temperaturen er over tredive grader i skyggen.	Температура — свыше тридцати градусов в тени.
 dan	rus	Thailand ligger i Asien.	Таиланд находится в Азии.
@@ -897,6 +936,7 @@ dan	rus	Tom er forelsket i Maria.	Том влюблён в Мэри.
 dan	rus	Tom er fransklærer.	Том — учитель французского.
 dan	rus	Tom er grundskolelærer.	Том - учитель начальной школы.
 dan	rus	Tom er i færd med at skrive et brev.	Том пишет письмо.
+dan	rus	Tom er ikke så religiøs som Mary.	Том не так религиозен, как Мэри.
 dan	rus	Tom er i live.	Том жив.
 dan	rus	Tom er landet på månen.	Том прилунился.
 dan	rus	Tom er Marys dattersøn.	Том — внук Мэри.
@@ -908,6 +948,7 @@ dan	rus	Tom er ved at spise.	Том ест.
 dan	rus	Tom faldt af sin cykel.	Том упал со своего велосипеда.
 dan	rus	Tom faldt i brønden.	Том упал в колодец.
 dan	rus	Tom faldt i søvn i toget.	Том уснул в поезде.
+dan	rus	Tom forsøgte at lukke døren.	Том попытался закрыть дверь.
 dan	rus	Tom forstår fransk.	Том понимает по-французски.
 dan	rus	Tom fortalte mig at han drikker mindst tre kopper kaffe om dagen.	Том сказал мне, что он пьёт не меньше трёх чашек кофе в день.
 dan	rus	Tom går aldrig til fods i skole.	Том никогда не ходит в школу пешком.
@@ -918,6 +959,7 @@ dan	rus	Tom græder hver nat.	Том плачет каждую ночь.
 dan	rus	Tom har bedt mig om at komme hjem til ham i morgen.	Том попросил меня прийти завтра к нему домой.
 dan	rus	Tom har blond hår og grønne øjne.	У Тома светлые волосы и зелёные глаза.
 dan	rus	Tom har en kone og tre børn.	У Тома жена и трое детей.
+dan	rus	Tom har en mobiltelefon.	У Тома есть мобильный телефон.
 dan	rus	Tom har en muskuløs krop.	У Тома мускулистое тело.
 dan	rus	Tom har fået det forkerte ben ud af sengen.	Том встал не с той ноги.
 dan	rus	Tom har gråt hår.	Том седой.
@@ -978,12 +1020,15 @@ dan	rus	Væggene har ører, dørene har øjne.	У стен есть уши, у �
 dan	rus	Væk ikke en sovende løve.	Не будите спящего льва.
 dan	rus	Vær opmærksom!	Будь внимателен!
 dan	rus	Vær så venlig at putte dette i mikroovnen.	Пожалуйста, поставьте это в микроволновку.
+dan	rus	Vandet er uklart.	Вода мутная.
 dan	rus	Vand koger ved 100 grader celsius.	Вода закипает при 100 градусах по Цельсию.
 dan	rus	Var dine forældre hjemme?	Твои родители были дома?
 dan	rus	Varme er en form for energi.	Тепло — одна из форм энергии.
 dan	rus	Ved bordet var der kun en stol.	Рядом со столом был только один стул.
 dan	rus	Velkommen!	Добро пожаловать!
 dan	rus	Vent til det bliver grønt.	Подожди, пока не загорится зелёный.
+dan	rus	Verden er en nation.	Мир - это нация.
+dan	rus	Verden er syg.	Мир болен.
 dan	rus	Vi blev slået i dag.	Нас сегодня побили.
 dan	rus	Vi er af forskellig alder. Han er ældre end mig.	У нас разный возраст. Он старше, чем я.
 dan	rus	Vi er fra Tyskland.	Мы из Германии.

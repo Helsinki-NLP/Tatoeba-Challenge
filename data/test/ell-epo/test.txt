@@ -52,6 +52,7 @@ ell	epo	Αυτό είναι το εισιτήριο της επιστροφής 
 ell	epo	Αυτό έκανα την πρώτη φορά.	Tion mi faris la unuan fojon.
 ell	epo	Αυτοί είναι χριστιανοί.	Ili estas kristanoj.
 ell	epo	Αυτοί έχουν ζάχαρη.	Ili havas sukeron.
+ell	epo	Αυτοί μείωσαν τον μισθό του.	Ili reduktis lian salajron.
 ell	epo	Αυτό, κατά τη γνώμη μου, δεν είναι καλή ιδέα.	Tio, en mia opinio, ne estas bona ideo.
 ell	epo	Αυτός αποφάσισε να πουλήσει το αυτοκίνητό του.	Li decidis vendi sian aŭton.
 ell	epo	Αυτός γράφει γράμματα στη μητέρα του.	Li skribas leterojn al sia patrino.
@@ -98,6 +99,7 @@ ell	epo	Βλέπω τηλεόραση.	Mi spektas televidon.
 ell	epo	Βοήθεια!	Helpu!
 ell	epo	Βρήκα το κτίριο.	Mi trovis la konstruaĵon.
 ell	epo	Γεια σου, κόσμε!	Saluton, mondo!
+ell	epo	Γέλασα καλά.	Mi bone ridis.
 ell	epo	Γευματίζω κάθε μέρα.	Ĉiutage mi tagmanĝas.
 ell	epo	Για δεν μου το είπατε αυτό πριν;	Kial vi ne antaŭe diris tion al mi?
 ell	epo	Για μένα δεν έχει σημασία ποιός θα κερδίσει.	Por mi ne gravas, kiu venkos.
@@ -110,8 +112,11 @@ ell	epo	Γιατί χρησιμοποιείς την Tatoeba;	Kial vi uzas Tatoe
 ell	epo	Γίνε ρεαλιστής.	Iĝu realisma.
 ell	epo	Γκαρσόν, θα ήθελα να παραγγείλω.	Kelnero, mi volus mendi.
 ell	epo	Γνωρίζω τι να αγνοώ.	Mi scias kion ignori.
+ell	epo	Γράφονται περισσότερα βιβλία από όσα διαβάζονται.	Pli da libroj estas skribitaj ol estas legitaj.
+ell	epo	Γράφονται περισσότερα βιβλία από όσα διαβάζονται.	Pli da libroj oni skribas, ol oni legas.
 ell	epo	Δε βρήκα ούτε έναν γιατρό.	Mi ne trovis kuraciston.
 ell	epo	Δε μιλάω Ιαπωνικά.	Mi ne parolas la japanan.
+ell	epo	Δε μου αρέσει το μεταλλικό νερό.	Mi ne ŝatas mineralakvon.
 ell	epo	Δεν αποφάσισα ακόμη.	Mi ankoraŭ ne decidis.
 ell	epo	Δεν είμαι βέβαιος αν αυτό είναι ειρωνικό ή όχι.	Mi ne certas, ĉu tio estas ironia aŭ ne.
 ell	epo	Δεν είμαι καθολική.	Mi ne estas katolikino.
@@ -123,6 +128,7 @@ ell	epo	Δεν είπα την τελευταία λέξη!	Mi ne diris mian las
 ell	epo	Δεν έχω καθόλου χρόνο γι' αυτό και εκτός αυτού δεν έχω καθόλου χρήματα.	Mi ne havas tempon por tio, kaj cetere mi ne havas monon.
 ell	epo	Δεν έχω κανένα μολύβι.	Mi ne havas krajonon.
 ell	epo	Δεν έχω μικρότερα αδέρφια.	Mi ne havas fratinojn.
+ell	epo	Δεν ήθελα να κλείσω την πόρτα.	Mi ne volis fermi la pordon.
 ell	epo	Δεν θα έπρεπε να ψεύδεστε.	Vi ne devis mensogi.
 ell	epo	Δεν θέλουμε να διαβάσουμε το βιβλίο.	Mi ne volas legi la libron.
 ell	epo	Δεν θέλω να σε βοηθήσω.	Mi ne volas helpi al vi.
@@ -175,6 +181,7 @@ ell	epo	Είμαι νέα.	Mi estas juna.
 ell	epo	Είμαι ο καινούργιος δάσκαλος.	Mi estas la nova instruisto.
 ell	epo	Είμαι σε διακοπές αυτή την εβδομάδα.	Dum nuna semajno mi ferias.
 ell	epo	Είμαστε γιατροί.	Ni estas kuracistoj.
+ell	epo	Είμαστε οι πρώτοι.	Ni estas la unuaj.
 ell	epo	Είναι αυτός μια σιγανοπαπαδίτσα.	Portante ŝafan pelton li tamen restas lupo.
 ell	epo	Είναι αυτό το λεξικό σου;	Ĉu ĉi tio estas via vortaro?
 ell	epo	Είναι αυτό το λεξικό σου;	Ĉu ĝi estas via vortaro?
@@ -229,6 +236,7 @@ ell	epo	Η ζωή είναι γεμάτη μυστήρια.	La vivo plenas je mi
 ell	epo	Η ζωή είναι περίεργη.	La vivo strangas.
 ell	epo	Η ζωή της είναι σε κίνδυνο.	Ŝian vivon minacas danĝero.
 ell	epo	Ήθελα μόνον να δω τι θα συμβεί.	Mi volis nur vidi, kio okazos.
+ell	epo	Η Θεσσαλονίκη είναι η δεύτερη πολυπληθέστερη πόλη της Ελλάδας.	Tesaloniko estas la dua plej popolriĉa urbo en Grekio.
 ell	epo	Η Ιταλία είναι χερσόνησος.	Italio estas duoninsulo.
 ell	epo	Η Κωνσταντινούπολη είναι η πιο πυκνοκατοικημένη πόλη της Τουρκίας.	Istanbulo estas la plej dense loĝata urbo de Turkujo.
 ell	epo	Η λίμνη είναι πολύ βαθιά.	La lago estas tre profunda.
@@ -249,12 +257,15 @@ ell	epo	Ήρθα εδώ χθες.	Hieraŭ mi venis ĉi tien.
 ell	epo	Η Σανγκάη είναι μία από τις μεγαλύτερες πόλεις στον κόσμο.	Ŝanhajo estas unu el la plej grandaj urboj de la mondo.
 ell	epo	Η Σαχάρα είναι μεγάλη έρημος.	Saharo estas granda dezerto.
 ell	epo	Η σκυλίτσα μου είναι έγκυος.	Mia hundino estas graveda.
+ell	epo	Η στρατιωτική θητεία είναι επίσης ένα πατριωτικό καθήκον.	Ankaŭ militservo estas patriota devo.
+ell	epo	Ήταν μια όμορφη μέρα, αλλά δεν μπορούσα να βγω έξω.	Estis bela tago, sed mi ne povis eliri eksteren.
 ell	epo	Ήταν προφανές για όλους μας ότι αυτός ήταν αθώος.	Estis evidente por ni ĉiuj, ke li estas senkulpa.
 ell	epo	Η Τατοέμπα είναι εθιστική.	Tatoeba estas kutimiga.
 ell	epo	Η Τατοέμπα με βοηθάει να βελτιώσω την Εσπεράντο μου.	Tatoeba helpas plibonigi mian Esperanton.
 ell	epo	Η Τζέιν - δεν είναι τέτοιος κακός άνθρωπος.	Jana ne estas tiu malbona homo.
 ell	epo	Η φοράδα μου είναι άσπρη.	Mia ĉevalino estas blanka.
 ell	epo	Η φυλακή την άλλαξε;	Ĉu la malliberejo ŝanĝis ŝin?
+ell	epo	Η ψηφοφορία είναι ένα πατριωτικό καθήκον.	Voĉdoni estas patriota devo.
 ell	epo	Θα αργήσω στο μάθημα.	Mi malfruiĝos al la lernejo.
 ell	epo	Θα αρχίσεις να μένεις εδώ;	Ĉu vi ekloĝos ĉi tie?
 ell	epo	Θα αρχίσετε να μένετε εδώ;	Ĉu vi ekloĝos ĉi tie?
@@ -298,6 +309,7 @@ ell	epo	Κάποιος μου έκλεψε όλα τα χρήματα.	Iu ŝteli
 ell	epo	Κάποτε αυτός την αγαπούσε.	Iam li amis ŝin.
 ell	epo	Κατακρίνει τους πάντες και τα πάντα.	Li kritikas ĉiujn kaj ĉion.
 ell	epo	Κατάλαβα αυτό το κείμενο.	Mi komprenis tiun tekston.
+ell	epo	Κατά τη γνώμη μου είναι τα μάτια σου πολύ όμορφα.	Mi pensas, ke viaj okuloj estas tre belaj.
 ell	epo	Κλείσε το παράθυρο.	Fermu la fenestron.
 ell	epo	Κοιμήθηκα καλά αυτή τη νύχτα.	Mi bone dormis tiun ĉi nokton.
 ell	epo	Κοιμήθηκα καλά όλη τη νύχτα.	Mi bone dormis la tutan nokton.
@@ -344,6 +356,7 @@ ell	epo	Μου αρέσει το μυθιστόρημά της.	Ŝia romano pla�
 ell	epo	Μου ζήτησε περισσότερα χρήματα απ΄όσα του χρειάζονταν.	Li petis de mi pli da mono ol necese.
 ell	epo	Μπορείς να με βοηθήσεις;	Ĉu vi povas helpi min?
 ell	epo	Μπορείς να στείλεις αυτό το γράμμα στην Ιαπωνία;	Ĉu vi povas sendi tiun leteron al Japanujo?
+ell	epo	Μπορείς να χορεύεις καλά;	Ĉu vi scipovas danci bone?
 ell	epo	Μπορείτε να τηλεφωνήσετε στον Τομ.	Mi povas alvoki Tom.
 ell	epo	Μπορείτε να χρησιμοποιήσετε την πισίνα του ξενοδοχείου.	Vi povas uzi la naĝujon de la hotelo.
 ell	epo	Μπορώ να κολυμπήσω πολύ γρήγορα.	Mi kapablas rapidege naĝi.
@@ -353,6 +366,7 @@ ell	epo	Να θυμάσαι το θάνατο, αλλά να σκέφτεσαι 
 ell	epo	Ναί!	Jes!
 ell	epo	Ναι, αλλά αυτή μόλις έφυγε.	Jes, sed ŝi ĵus foriris.
 ell	epo	Ναι, αυτή είναι σπίτι.	Jes, ŝi estas hejme.
+ell	epo	Να πιούμε τσάι;	Ĉu ni trinku teon?
 ell	epo	Νοιαζόμαστε για τους άλλους.	Ni zorgas pri la aliaj.
 ell	epo	Νομίζω ότι γνωρίζω, τι είναι απαραίτητο.	Mi pensas, ke mi scias, kio estas necesa.
 ell	epo	Ξαφνικά ξεκίνησε να βρέχει.	Subite komencis pluvi.
@@ -370,8 +384,10 @@ ell	epo	Ο ήλιος έδυσε.	La suno subiris.
 ell	epo	Ο Ήλιος είναι το κοντινότερο αστέρι στην Γη.	La Suno estas la stelo plej proksima al Tero.
 ell	epo	Ο Ήλιος είναι το κοντινότερο στη Γη άστρο.	La Suno estas la stelo plej proksima al Tero.
 ell	epo	Ο Θεός δημιούργησε τον κόσμο.	Dio kreis la mondon.
+ell	epo	Ο Ιανουάριος είναι ο μήνας μου.	Januaro estas mia monato.
 ell	epo	Ο Ιανουάριος είναι ο πρώτος μήνας του χρόνου.	Januaro estas la unua monato de la jaro.
 ell	epo	Οι γυναίκες αγωνίζονται σε αυτή εδώ τη χώρα για την ελευθερία.	Virinoj batalas en tiu ĉi lando por libereco.
+ell	epo	Οι κόκκινοι βάτραχοι πηδούσαν στη γεμάτη λωτούς λιμνούλα του όμορφου πράσινου πάρκου.	La ruĝaj ranoj saltis en la lotusplenan lageton en la bela verda parko.
 ell	epo	Οι λευκές μας τρίχες πολλαπλασιάζονται.	Miaj blankaj haroj plimultiĝas.
 ell	epo	Οι λύκοι περιπλανούνται μέσα στο δάσος.	La lupoj vagadas tra la arbaro.
 ell	epo	Οι μηλιές ανθίζουν την άνοιξη.	Pomarboj floras printempe.
@@ -385,6 +401,7 @@ ell	epo	Ο καναπές είναι άβολος.	La sofo estas malkomforta.
 ell	epo	Ο καπετάνιος είναι νάρκισσος.	La kapitano estas narcisisto.
 ell	epo	Όλα μου τα γλυκά είναι νόστιμα!	Ĉiuj miaj kukoj estas bongustaj!
 ell	epo	Ο λαός είμαι εγώ.	La popolo estas mi.
+ell	epo	Ο λαός ενωμένος δεν θα ηττηθεί ποτέ.	La unuigita popolo neniam estos venkita.
 ell	epo	Όλοι οι άνθρωποι είναι θνητοί, όλοι οι Έλληνες είναι άνθρωποι, επομένως όλοι οι Έλληνες είναι θνητοί.	Ĉiuj homoj estas mortemaj, ĉiuj grekoj estas homoj, sekve ĉiuj grekoj estas mortemaj.
 ell	epo	Ο Μπιλ ήταν στην Ιαπωνία.	Bill estis en Japanio.
 ell	epo	Ο νόμος και η πολιτική είναι δύο διαφορετικά πράγματα.	Leĝo kaj politiko estas du malsamaj aferoj.
@@ -490,6 +507,8 @@ ell	epo	Σ'αγαπώ!	Amas mi vin!
 ell	epo	Σ' αγαπώ.	Mi amas vin.
 ell	epo	Σ'αγαπώ.	Mi amas vin!
 ell	epo	Σας αρέσει αυτό το χρώμα;	Ĉu plaĉas al vi tiu koloro?
+ell	epo	Σε γνωρίζω από την κόψη του σπαθιού την τρομερή.	Mi rekonas vin per la terura tranĉrando de via glavo.
+ell	epo	Σε ενδιαφέρει επίσης ο ελληνικός πολιτισμός;	Ĉu ankaŭ vi interesiĝas pri la greka kulturo?
 ell	epo	Σήμερα γίνομαι τεσσάρων χρονών.	Hodiaŭ mi iĝos kvarjara.
 ell	epo	Σήμερα σηκώθηκα από τις επτά το πρωί.	Ĉi-matene mi ekstaris je la sepa.
 ell	epo	Σκέφτομαι ότι είναι καλύτερο να μείνω εδώ.	Mi pensas, ke estas pli bone resti ĉi tie.
@@ -500,6 +519,7 @@ ell	epo	Σου το είχα πει πως δεν θα δούλευε.	Mi ja dir
 ell	epo	Στη Γη υπάρχουν επτά ήπειροι.	Sur la planedo Tero ekzistas sep kontinentoj.
 ell	epo	Στη γυναίκα μου δεν αρέσουν καθόλου οι γάτες.	Mia edzino tute ne ŝatas katojn.
 ell	epo	Στην Ιαπωνία υπάρχουν πολλά όμορφα μέρη.	En Japanujo ekzistas multaj belaj lokoj.
+ell	epo	Στον Τιτάνα, ένας σκοτεινός ποταμός μεθανίου ρέει σε μια λίμνη μεθανίου που περιβάλλεται από μια έρημο αμμόλοφων.	Sur Titano, malhela metana rivero fluas en metanan lagon ĉirkaŭatan de dezerto da dunoj.
 ell	epo	Στον Τομ αρέσει η ρέγγε.	Tom ŝatas regeon.
 ell	epo	Συμφωνήσαμε να επεξεργαστούμε ένα πρόγραμμα δράσης.	Ni konsentis ellabori agoprogramon.
 ell	epo	Συνέχισε να κρύβεις το κεφάλι σου μέσα στην άμμο.	Ĉesu kaŝi vian kapon en la sablo.
@@ -514,10 +534,12 @@ ell	epo	Τα πόδια μου βελτιώνονται κάθε μέρα.	Miaj 
 ell	epo	Τα πορτοκάλια έχουν πολύ βιταμίνη C.	Oranĝoj enhavas multe da vitamino C.
 ell	epo	Τα σχέδια του άλλαξαν δραστικά.	Liaj planoj draste ŝanĝiĝis.
 ell	epo	Τέλος καλό, όλα καλά.	Fino bona, ĉio bona!
+ell	epo	Τέτοιες λέξεις λένε μόνο οι τρελοί.	Nur frenezuloj diras tiajn vortojn.
 ell	epo	Τη θαύμασε.	Li admiris ŝin.
 ell	epo	Τη λατρεύω αυτή τη φωτογραφία.	Mi ŝategas tiun foton.
 ell	epo	Την ενημέρωσα για την άφιξή μου.	Mi informis ŝin pri mia alveno.
 ell	epo	Την επόμενη εβδομάδα θα είμαι απασχολημένος.	Venontan semajnon mi estos okupita.
+ell	epo	Της εξήγησα τη διαδικασία.	Mi klarigis al ŝi la procedon.
 ell	epo	Τι δουλειά κάνει ο πατέρας σου;	Kiun laboron faras via patro?
 ell	epo	Τι ημερομηνία έχουμε σήμερα;	Kiun daton ni havas hodiaŭ?
 ell	epo	Τι θα έκανες αν έβλεπες ένα φάντασμα;	Kion vi farus se vi vidus fantomon?
@@ -532,15 +554,19 @@ ell	epo	Τι μελετά ένας σοβιετολόγος;	Kion esploras sovet
 ell	epo	Τι να μαγειρέψουμε;	Kion ni kuiru?
 ell	epo	Τίνος είναι αυτή τη βαλίτσα;	Kies valizo ĝi estas?
 ell	epo	Τις τελευταίες μέρες αυτός γράφει όλο και λιγότερο συχνά σε μένα.	Li skribas pli kaj pli malofte dum tiuj ĉi tagoj.
+ell	epo	Τι συμβαίνει στη χώρα αυτή;	Kio okazas en tiu ĉi lando?
 ell	epo	Τι συνέβη;	Kio okazis?
 ell	epo	Τι συνέβη στον σκύλο σας.	Kio okazis al via hundo?
+ell	epo	Τι υπάρχει όμως από την άλλη πλευρά;	Sed kio estas aliflanke?
 ell	epo	Τι φρούτο θέλετε;	Kiun frukton vi volas?
 ell	epo	Το αγόρασες αυτό στη μαύρη αγορά;	Ĉu vi aĉetis ĝin sur la nigra merkato?
 ell	epo	Το αγόρι τρέχει.	La knabo kuras.
+ell	epo	Το αλάτι είναι στην αλατιέρα.	La salo estas en la salujo.
 ell	epo	Το αληθινό της όνομα είναι Λίζα.	Ŝia vera nomo estas Lisa.
 ell	epo	Το άρθρο αξίζει προσεκτικής μελέτης.	La artikolo meritas atentan studadon.
 ell	epo	Το αυτοκίνητο είναι μπλε.	La aŭto estas blua.
 ell	epo	Το βαμβάκι απορροφά το νερό.	Katuno ensorbas akvon.
+ell	epo	Το βιβλίο που έγραψε ο Τομ στην Εσπεράντο έχει μεταφραστεί σε πολλές γλώσσες σε όλο τον κόσμο.	La libro kiun Tomo skribis en Esperanto estis tradukita en multajn lingvojn tra la mondo.
 ell	epo	Το βιβλίο σου άλλαξε τη ζωή μου.	Via libro ŝanĝis mian vivon.
 ell	epo	Το δωμάτιο είναι σκοτεινό.	La ĉambro estas malhela.
 ell	epo	Το δωμάτιο ήταν ζεστό.	La ĉambro estis varma.
@@ -555,6 +581,7 @@ ell	epo	Το καλοκαίρι εδώ είναι πολύ ζεστό.	La somero
 ell	epo	Το κάπνισμα έχει επηρεάσει την υγεία του.	Fumado efikis sur lian sanon.
 ell	epo	Το κορίτσι πηδάει.	La knabino saltas.
 ell	epo	Το κουτί είναι πολύ βαρύ.	La skatolo estis tro peza.
+ell	epo	Το κυριλλικό αλφάβητο δημιουργήθηκε με βάση το ελληνικό αλφάβητο.	La cirila alfabeto estis kreita surbaze de la greka alfabeto.
 ell	epo	Το μεγάλο πουκάμισο είναι καφέ.	La granda ĉemizo estas bruna.
 ell	epo	Το μήλο είναι πάνω στο τραπέζι.	La pomo estas sur la tablo.
 ell	epo	"Τομ!" "Μαίρη!"	"Tom!" "Mary!"
@@ -582,6 +609,7 @@ ell	epo	Το στομάχι είναι ένα από τα εσωτερικά ό�
 ell	epo	Το σύστημα λειτούργησε καλά.	La sistemo bone funkciis.
 ell	epo	Το σχολείο βρίσκεται πέντε χιλιόμετρα από το σπίτι.	La lernejo situas kvin kilometrojn for de la domo.
 ell	epo	Το τείχος του Βερολίνου έπεσε το 1989.	Estis en 1989, ke la berlina muro estis malkonstruita.
+ell	epo	Το τζάμι του κινητού μου έσπασε.	La vitro de mia poŝtelefono rompiĝis.
 ell	epo	Το τηλέφωνό μου δε λειτουργεί.	Mia telefono ne funkcias.
 ell	epo	Το Τόκιο είναι μεγαλύτερο από τη Γιοκοχάμα.	Tokio estas pli granda ol Jokohamo.
 ell	epo	Το χειμώνα πέφτει χιόνι.	En la vintro neĝas.
@@ -595,6 +623,8 @@ ell	epo	Φοράει ένα λευκό βαμβακερό πουκάμισο.	Li
 ell	epo	Φυσάει ο άνεμος.	Blovas la vento.
 ell	epo	Φωνή λαού - φωνή Θεού.	Popola voĉo - Dia voĉo.
 ell	epo	Χαίρομαι που σας γνωρίζω.	Mi ĝojas ekkoni vin.
+ell	epo	Χθες πήγα στην παραλία.	Hieraŭ mi iris al la plaĝo.
+ell	epo	Χθες τελείωσε η πρώτη περίοδος.	La unua periodo finiĝis hieraŭ.
 ell	epo	Χρησιμοποίησα τη φαντασία μου.	Mi uzis mian fantazion.
 ell	epo	Χριστός ανέστη!	Kristo resurektis!
 ell	epo	Χτες ήμουν άρρωστη.	Hieraŭ mi estis malsana.
