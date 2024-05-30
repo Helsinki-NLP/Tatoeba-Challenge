@@ -934,12 +934,8 @@ endif
 ## sort, de-duplicate and shuffle the collected data
 
 	@if [ -s $@.tmp1 ]; then \
-<<<<<<< HEAD
-	  ${SORT} -t '	' -k4,5 -u < $@.tmp1 | ${SHUFFLE} \
-=======
 	  ${SORT} -t '	' -k4,5 -u < $@.tmp1 \
 	  | ${SHUFFLE} \
->>>>>>> 2b57ae87581ce7394686585b63b63d45f40bad67
 	  | scripts/exclude-devtest.pl -a -l \
 		${dir $@}test.src ${dir $@}test.trg \
 		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp2 2>$(@:.id.gz=.log); \
