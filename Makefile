@@ -144,10 +144,11 @@ PARALLEL := ${shell if [ `which parallel 2>/dev/null | wc -l` -gt 0 ]; then echo
 BASIC_FILTERS = | perl -CS -pe 'tr[\x{9}\x{A}\x{D}\x{20}-\x{D7FF}\x{E000}-\x{FFFD}\x{10000}-\x{10FFFF}][]cd;' \
 		| perl -CS -pe 's/\&\s*\#\s*160\s*\;/ /g' \
 		| perl -pe 's/[\p{C}-[\n\t]]/ /g;' \
-		| recode -f utf8..utf16 | recode -f utf16..utf8 \
+		| iconv -c -f UTF-8 -t UTF-16 | iconv -c -f UTF-16 -t UTF-8 \
 		| $(TOKENIZER)/deescape-special-chars.perl \
 		| sed 's/(Translated with Google Translate)//g'
 
+#		| recode -f utf8..utf16 | recode -f utf16..utf8 \
 
 ## available OPUS languages (IDs in the way they appear in the corpus)
 
@@ -859,7 +860,8 @@ ${RELEASEDIR}/%/train.id.gz:
 		    if [ -e $@.tmp2 ]; then \
 		      cut -f1 $@.tmp2 | ${PARALLEL} langscript -3 -l $$e -r -D ${FIXLANGIDS} > $@.tmp2srcid; \
 		      cut -f2 $@.tmp2 | ${PARALLEL} langscript -3 -l $$f -r -D ${FIXLANGIDS} > $@.tmp2trgid; \
-		      paste $@.tmp2srcid $@.tmp2trgid $@.tmp2 | sed "s/^/$$c-$$v	/"  >> $@.tmp1; \
+		      paste $@.tmp2srcid $@.tmp2trgid $@.tmp2 | sed "s/^/$$c-$$v	/"  \
+		      | ${UNICODE_CLEANUP} | scripts/exclude-identical.pl >> $@.tmp1; \
 		      rm -f $@.tmp2 $@.tmp2srcid $@.tmp2trgid; \
 		    fi \
 		  else \
@@ -886,7 +888,8 @@ ifdef PREVIOUS_VERSION
 	  if [ -e $@.tmp2 ]; then \
 	    cut -f1 $@.tmp2 | ${PARALLEL} langscript -3 -l $$s -r -D  ${FIXLANGIDS} > $@.tmp2srcid; \
 	    cut -f2 $@.tmp2 | ${PARALLEL} langscript -3 -l $$t -r -D  ${FIXLANGIDS} > $@.tmp2trgid; \
-	    paste $@.tmp2corpus $@.tmp2srcid $@.tmp2trgid $@.tmp2 >> $@.tmp1; \
+	    paste $@.tmp2corpus $@.tmp2srcid $@.tmp2trgid $@.tmp2 \
+	    | ${UNICODE_CLEANUP} | scripts/exclude-identical.pl >> $@.tmp1; \
 	    rm -f $@.tmp2 $@.tmp2srcid $@.tmp2trgid $@.tmp2corpus; \
 	  fi \
 	fi
@@ -895,10 +898,7 @@ endif
 
 ## sort, de-duplicate and shuffle the collected data
 	@if [ -s $@.tmp1 ]; then \
-	  cat $@.tmp1 \
-	  | ${UNICODE_CLEANUP} \
-	  | scripts/exclude-identical.pl \
-	  | ${SORT} -t '	' -k4,5 -u | ${SHUFFLE} \
+	  ${SORT} -t '	' -k4,5 -u < $@.tmp1 | ${SHUFFLE} \
 	  | scripts/exclude-devtest.pl -a -l \
 		${dir $@}test.src ${dir $@}test.trg \
 		${dir $@}dev.src ${dir $@}dev.trg > $@.tmp2 2>$(@:.id.gz=.log); \
@@ -2068,12 +2068,12 @@ ifdef EMAIL
 	echo '#SBATCH --mail-type=END' >> $@
 	echo '#SBATCH --mail-user=${EMAIL}' >> $@
 endif
-ifeq (${shell hostname --domain 2>/dev/null},bullx)
+# ifeq (${shell hostname --domain 2>/dev/null},bullx)
 	echo '#SBATCH --account=${CSCPROJECT}' >> $@
 ifneq (${HPC_DISK},)
 	echo '#SBATCH --gres=nvme:${HPC_DISK}' >> $@
 endif
-endif
+# endif
 	echo '#SBATCH -n ${HPC_CORES}' >> $@
 	echo '#SBATCH -N ${HPC_NODES}' >> $@
 	echo '#SBATCH -p ${HPC_QUEUE}' >> $@
