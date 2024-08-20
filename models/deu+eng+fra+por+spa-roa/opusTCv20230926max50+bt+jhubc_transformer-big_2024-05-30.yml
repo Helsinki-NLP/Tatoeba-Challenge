@@ -1,0 +1,326 @@
+release: deu+eng+fra+por+spa-roa/opusTCv20230926max50+bt+jhubc_transformer-big_2024-05-29.zip
+release-date: 2024-05-29
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+target-languages:
+   - acf
+   - arg
+   - ast
+   - cat
+   - cbk_Latn
+   - cos
+   - crs
+   - egl
+   - ext
+   - fra
+   - frm_Latn
+   - fro_Latn
+   - frp
+   - fur
+   - gcf
+   - gcf_Latn
+   - glg
+   - hat
+   - ita
+   - kea
+   - lad
+   - lad_Latn
+   - lij
+   - lld_Latn
+   - lmo
+   - lou_Latn
+   - mfe
+   - mol
+   - mwl
+   - nap
+   - oci
+   - osp_Latn
+   - pap
+   - pcd
+   - pms
+   - por
+   - roh
+   - ron
+   - rup
+   - scn
+   - spa
+   - srd
+   - vec
+   - wln
+raw-source-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+raw-target-languages:
+   - acf
+   - arg
+   - ast
+   - cat
+   - cbk
+   - cos
+   - crs
+   - egl
+   - ext
+   - fra
+   - frm
+   - fro
+   - frp
+   - fur
+   - gcf
+   - glg
+   - hat
+   - ita
+   - kea
+   - lad
+   - lij
+   - lld
+   - lmo
+   - lou
+   - mfe
+   - mol
+   - mwl
+   - nap
+   - oci
+   - osp
+   - pap
+   - pcd
+   - pms
+   - por
+   - roh
+   - ron
+   - rup
+   - scn
+   - spa
+   - srd
+   - vec
+   - wln
+use-target-labels:
+training-data:
+   deu-acf: bible (235699) 
+   deu-ast: Tatoeba-train-v2023-09-26.ast-deu.strict (103512) 
+   deu-cat: Tatoeba-train-v2023-09-26.cat-deu.strict (2029333) bible (125990) 
+   deu-cos: Tatoeba-train-v2023-09-26.cos-deu.strict (1567) 
+   deu-fra: Tatoeba-train-v2023-09-26.deu-fra.strict (24561677) bible (4943903) 
+   deu-glg: Tatoeba-train-v2023-09-26.deu-glg.strict (441937) 
+   deu-hat: Tatoeba-train-v2023-09-26.deu-hat.strict (294062) bible (709346) 
+   deu-ita: Tatoeba-train-v2023-09-26.deu-ita.strict (19148773) bible (1773184) 
+   deu-mfe: bible (134470) 
+   deu-mol: Tatoeba-train-v2023-09-26.deu-mol.strict (1) 
+   deu-oci: Tatoeba-train-v2023-09-26.deu-oci.strict (80644) 
+   deu-por: Tatoeba-train-v2023-09-26.deu-por.strict (18058963) bible (1734205) 
+   deu-roh: Tatoeba-train-v2023-09-26.deu-roh.strict (22566) 
+   deu-ron: Tatoeba-train-v2023-09-26.deu-ron.strict (11441158) bible (636295) 
+   deu-scn: Tatoeba-train-v2023-09-26.deu-scn.strict (1200) 
+   deu-spa: Tatoeba-train-v2023-09-26.deu-spa.strict (23249015) bible (973995) 
+   eng-acf: bible (314494) 
+   eng-arg: Tatoeba-train-v2023-09-26.arg-eng.strict (39569) wiki.aa (170732) 
+   eng-ast: Tatoeba-train-v2023-09-26.ast-eng.strict (1819909) wiki.aa (930535) wiki.ab (931041) wiki.ac (32805) wikibooks.aa (84) wikiquote.aa (325) 
+   eng-cat: Tatoeba-train-v2023-09-26.cat-eng.strict (9067040) wiki.aa (954729) wiki.ab (954660) wiki.ac (954148) wiki.ad (954534) wiki.ae (954455) wiki.af (954649) wiki.ag (954669) wiki.ah (538851) wikibooks.aa (39436) wikinews.aa (8897) wikiquote.aa (52251) wikisource.aa (158807) bible (167899) 
+   eng-cos: Tatoeba-train-v2023-09-26.cos-eng.strict (2027) wiki.aa (28306) wikibooks.aa (423) wikiquote.aa (372) 
+   eng-ext: wiki.aa.ext-eng (20776) 
+   eng-fra: Tatoeba-train-v2023-09-26.eng-fra.strict (44772138) wiki.aa.fra-eng (935620) wiki.ab.fra-eng (936213) wiki.ac.fra-eng (936067) wiki.ad.fra-eng (935869) wiki.ae.fra-eng (936118) wiki.af.fra-eng (935646) wiki.ag.fra-eng (936104) wiki.ah.fra-eng (935625) wiki.ai.fra-eng (936039) wiki.aj.fra-eng (935966) wiki.ak.fra-eng (936320) wiki.al.fra-eng (935840) wiki.am.fra-eng (936023) wiki.an.fra-eng (935744) wiki.ao.fra-eng (935858) wiki.ap.fra-eng (935631) wiki.aq.fra-eng (935711) wiki.ar.fra-eng (936272) wiki.as.fra-eng (936056) wiki.at.fra-eng (935866) wiki.au.fra-eng (946440) wiki.av.fra-eng (947586) wiki.aw.fra-eng (947881) wiki.ax.fra-eng (948194) wiki.ay.fra-eng (947457) wiki.az.fra-eng (948042) wiki.ba.fra-eng (948056) wiki.bb.fra-eng (947946) wiki.bc.fra-eng (947780) wiki.bd.fra-eng (947899) wiki.be.fra-eng (947676) wiki.bf.fra-eng (948079) wiki.bg.fra-eng (721919) wikibooks.aa.fra-eng (175350) wikinews.aa.fra-eng (153939) wikiquote.aa.fra-eng (127852) wikisource.aa.fra-eng (949635) wikisource.ab.fra-eng (949313) wikisource.ac.fra-eng (948945) wikisource.ad.fra-eng (949740) wikisource.ae.fra-eng (949568) wikisource.af.fra-eng (949251) wikisource.ag.fra-eng (949415) wikisource.ah.fra-eng (949323) wikisource.ai.fra-eng (949941) wikisource.aj.fra-eng (949287) wikisource.ak.fra-eng (949564) wikisource.al.fra-eng (949369) wikisource.am.fra-eng (949096) wikisource.an.fra-eng (949484) wikisource.ao.fra-eng (949565) wikisource.ap.fra-eng (949363) wikisource.aq.fra-eng (949559) wikisource.ar.fra-eng (949432) wikisource.as.fra-eng (949957) wikisource.at.fra-eng (949348) wikisource.au.fra-eng (949622) wikisource.av.fra-eng (949590) wikisource.aw.fra-eng (949602) wikisource.ax.fra-eng (949449) wikisource.ay.fra-eng (949183) wikisource.az.fra-eng (949534) wikisource.ba.fra-eng (949730) wikisource.bb.fra-eng (300650) bible (3725995) 
+   eng-frp: Tatoeba-train-v2023-09-26.eng-frp.strict (499) 
+   eng-fur: Tatoeba-train-v2023-09-26.eng-fur.strict (675364) 
+   eng-glg: Tatoeba-train-v2023-09-26.eng-glg.strict (6056956) wiki.aa.glg-eng (970849) wiki.ab.glg-eng (945712) wikibooks.aa.glg-eng (11090) wikiquote.aa.glg-eng (3891) wikisource.aa.glg-eng (21806) 
+   eng-hat: Tatoeba-train-v2023-09-26.eng-hat.strict (5822372) wiki.aa.hat-eng (84089) wikisource.aa.hat-eng (1419) bible (479515) 
+   eng-ita: Tatoeba-train-v2023-09-26.eng-ita.strict (29832761) wiki.aa.ita-eng (963938) wiki.ab.ita-eng (964009) wiki.ac.ita-eng (963763) wiki.ad.ita-eng (963847) wiki.ae.ita-eng (963958) wiki.af.ita-eng (963876) wiki.ag.ita-eng (964250) wiki.ah.ita-eng (963629) wiki.ai.ita-eng (963852) wiki.aj.ita-eng (963923) wiki.ak.ita-eng (963829) wiki.al.ita-eng (964273) wiki.am.ita-eng (964212) wiki.an.ita-eng (963810) wiki.ao.ita-eng (963653) wiki.ap.ita-eng (963764) wiki.aq.ita-eng (963947) wiki.ar.ita-eng (805544) wikibooks.aa.ita-eng (136077) wikinews.aa.ita-eng (78931) wikiquote.aa.ita-eng (606161) wikisource.aa.ita-eng (956602) wikisource.ab.ita-eng (939738) bible (1347008) 
+   eng-kea: Tatoeba-train-v2023-09-26.eng-kea.strict (1139798) 
+   eng-lad: Tatoeba-train-v2023-09-26.eng-lad.strict (1) wiki.aa.lad-eng (21232) 
+   eng-lad_Latn: Tatoeba-train-v2023-09-26.eng-lad_Latn.strict (24) 
+   eng-lij: Tatoeba-train-v2023-09-26.eng-lij.strict (640421) wiki.aa.lij-eng (14231) 
+   eng-lmo: Tatoeba-train-v2023-09-26.eng-lmo.strict (3664529) wiki.aa.lmo-eng (138358) 
+   eng-mfe: Tatoeba-train-v2023-09-26.eng-mfe.strict (153571) bible (179283) 
+   eng-mol: Tatoeba-train-v2023-09-26.eng-mol.strict (14) 
+   eng-mwl: Tatoeba-train-v2023-09-26.eng-mwl.strict (16548) wiki.aa.mwl-eng (70179) 
+   eng-oci: Tatoeba-train-v2023-09-26.eng-oci.strict (1408802) wiki.aa.oci-eng (383193) wikibooks.aa.oci-eng (714) 
+   eng-pap: Tatoeba-train-v2023-09-26.eng-pap.strict (5031154) wiki.aa.pap-eng (8438) 
+   eng-pms: wiki.aa.pms-eng (664) wikisource.aa.pms-eng (67185) 
+   eng-por: Tatoeba-train-v2023-09-26.eng-por.strict (31442910) wiki.aa.por-eng (973429) wiki.ab.por-eng (973335) wiki.ac.por-eng (973600) wiki.ad.por-eng (973680) wiki.ae.por-eng (973997) wiki.af.por-eng (973529) wiki.ag.por-eng (973357) wiki.ah.por-eng (973735) wiki.ai.por-eng (973614) wiki.aj.por-eng (973818) wiki.ak.por-eng (973528) wiki.al.por-eng (973510) wiki.am.por-eng (860570) wikibooks.aa.por-eng (161718) wikinews.aa.por-eng (157020) wikiquote.aa.por-eng (109072) wikisource.aa.por-eng (959439) wikisource.ab.por-eng (107329) bible (1556188) 
+   eng-roh: Tatoeba-train-v2023-09-26.eng-roh.strict (20990) wiki.aa.roh-eng (78759) 
+   eng-ron: Tatoeba-train-v2023-09-26.eng-ron.strict (18301465) wiki.aa.ron-eng (955315) wiki.ab.ron-eng (955189) wiki.ac.ron-eng (955103) wiki.ad.ron-eng (425254) wikibooks.aa.ron-eng (7285) wikinews.aa.ron-eng (11336) wikiquote.aa.ron-eng (8822) wikisource.aa.ron-eng (792617) bible (594582) 
+   eng-scn: Tatoeba-train-v2023-09-26.eng-scn.strict (982399) wiki.aa.scn-eng (74264) 
+   eng-spa: Tatoeba-train-v2023-09-26.eng-spa.strict (50000000) wiki.aa.spa-eng (944705) wiki.ab.spa-eng (944800) wiki.ac.spa-eng (944652) wiki.ad.spa-eng (944925) wiki.ae.spa-eng (944831) wiki.af.spa-eng (945241) wiki.ag.spa-eng (944584) wiki.ah.spa-eng (944533) wiki.ai.spa-eng (944811) wiki.aj.spa-eng (944939) wiki.ak.spa-eng (944824) wiki.al.spa-eng (944687) wiki.am.spa-eng (944465) wiki.an.spa-eng (944354) wiki.ao.spa-eng (944503) wiki.ap.spa-eng (944756) wiki.aq.spa-eng (944075) wiki.ar.spa-eng (945208) wiki.as.spa-eng (944464) wiki.at.spa-eng (944877) wiki.au.spa-eng (944873) wiki.av.spa-eng (944665) wiki.aw.spa-eng (944716) wiki.ax.spa-eng (944534) wiki.ay.spa-eng (703227) wikibooks.aa.spa-eng (179533) wikinews.aa.spa-eng (122072) wikiquote.aa.spa-eng (145726) wikisource.aa.spa-eng (955939) wikisource.ab.spa-eng (955646) wikisource.ac.spa-eng (864285) bible (1299444) 
+   eng-srd: Tatoeba-train-v2023-09-26.eng-srd.strict (914840) 
+   eng-vec: Tatoeba-train-v2023-09-26.eng-vec.strict (3005784) wiki.aa.vec-eng (60124) wikisource.aa.vec-eng (31661) 
+   eng-wln: Tatoeba-train-v2023-09-26.eng-wln.strict (42090) wiki.aa.wln-eng (53084) wikibooks.aa.wln-eng (4) 
+   fra-acf: bible (194917) 
+   fra-arg: Tatoeba-train-v2023-09-26.arg-fra.strict (28702) 
+   fra-ast: Tatoeba-train-v2023-09-26.ast-fra.strict (1302976) 
+   fra-cat: Tatoeba-train-v2023-09-26.cat-fra.strict (7564392) bible (104106) 
+   fra-cos: Tatoeba-train-v2023-09-26.cos-fra.strict (2389) 
+   fra-fra: Tatoeba-train-v2023-09-26.fra-fra.strict.fra1.gz (1941716) 
+   fra-glg: Tatoeba-train-v2023-09-26.fra-glg.strict (8920937) 
+   fra-hat: Tatoeba-train-v2023-09-26.fra-hat.strict (3272267) bible (664732) 
+   fra-ita: Tatoeba-train-v2023-09-26.fra-ita.strict (23225677) bible (1636612) 
+   fra-lij: Tatoeba-train-v2023-09-26.fra-lij.strict (6281) 
+   fra-lmo: Tatoeba-train-v2023-09-26.fra-lmo.strict (4388) 
+   fra-mfe: bible (111162) 
+   fra-mol: Tatoeba-train-v2023-09-26.fra-mol.strict (3) 
+   fra-oci: Tatoeba-train-v2023-09-26.fra-oci.strict (3122342) 
+   fra-pap: Tatoeba-train-v2023-09-26.fra-pap.strict (283827) 
+   fra-por: Tatoeba-train-v2023-09-26.fra-por.strict (22955538) bible (1561873) 
+   fra-roh: Tatoeba-train-v2023-09-26.fra-roh.strict (18297) 
+   fra-ron: Tatoeba-train-v2023-09-26.fra-ron.strict (15077010) bible (569262) 
+   fra-scn: Tatoeba-train-v2023-09-26.fra-scn.strict (1571432) 
+   fra-spa: Tatoeba-train-v2023-09-26.fra-spa.strict (31636519) bible (805480) 
+   fra-wln: Tatoeba-train-v2023-09-26.fra-wln.strict (22364) 
+   por-acf: bible (92731) 
+   por-ast: Tatoeba-train-v2023-09-26.ast-por.strict (848877) 
+   por-cat: Tatoeba-train-v2023-09-26.cat-por.strict (5741562) bible (49462) 
+   por-fra: Tatoeba-train-v2023-09-26.fra-por.strict (22955538) bible (1561873) 
+   por-glg: Tatoeba-train-v2023-09-26.glg-por.strict (12697794) 
+   por-hat: Tatoeba-train-v2023-09-26.hat-por.strict (315937) bible (217119) 
+   por-ita: Tatoeba-train-v2023-09-26.ita-por.strict (18633019) bible (561941) 
+   por-mfe: bible (52817) 
+   por-mol: Tatoeba-train-v2023-09-26.mol-por.strict (1) 
+   por-mwl: Tatoeba-train-v2023-09-26.mwl-por.strict (40641) 
+   por-por: Tatoeba-train-v2023-09-26.por-por.strict.por1.gz (9804598) 
+   por-roh: Tatoeba-train-v2023-09-26.por-roh.strict (33290) 
+   por-ron: Tatoeba-train-v2023-09-26.por-ron.strict (13950996) bible (216547) 
+   por-spa: Tatoeba-train-v2023-09-26.por-spa.strict (27432585) bible (382665) 
+   spa-acf: bible (93584) 
+   spa-arg: Tatoeba-train-v2023-09-26.arg-spa.strict (40623) 
+   spa-ast: Tatoeba-train-v2023-09-26.ast-spa.strict (2868702) 
+   spa-cat: Tatoeba-train-v2023-09-26.cat-spa.strict (16640546) bible (49969) 
+   spa-fra: Tatoeba-train-v2023-09-26.fra-spa.strict (31636519) bible (805480) 
+   spa-fur: Tatoeba-train-v2023-09-26.fur-spa.strict (5212) 
+   spa-glg: Tatoeba-train-v2023-09-26.glg-spa.strict (9688660) 
+   spa-hat: Tatoeba-train-v2023-09-26.hat-spa.strict (507947) bible (93136) 
+   spa-ita: Tatoeba-train-v2023-09-26.ita-spa.strict (23469977) bible (292961) 
+   spa-mfe: bible (53330) 
+   spa-mol: Tatoeba-train-v2023-09-26.mol-spa.strict (2) 
+   spa-oci: Tatoeba-train-v2023-09-26.oci-spa.strict (720761) 
+   spa-por: Tatoeba-train-v2023-09-26.por-spa.strict (27432585) bible (382665) 
+   spa-roh: Tatoeba-train-v2023-09-26.roh-spa.strict (14412) 
+   spa-ron: Tatoeba-train-v2023-09-26.ron-spa.strict (15734406) bible (149907) 
+   spa-scn: Tatoeba-train-v2023-09-26.scn-spa.strict (1186) 
+   spa-spa: Tatoeba-train-v2023-09-26.spa-spa.strict.spa1.gz (3270193) 
+   spa-wln: Tatoeba-train-v2023-09-26.spa-wln.strict (26262) 
+validation-data:
+   ast-deu: Tatoeba-dev-v2023-09-26, 1000
+   cat-deu: Tatoeba-dev-v2023-09-26, 925
+   cos-deu: Tatoeba-dev-v2023-09-26, 1000
+   deu-fra: Tatoeba-dev-v2023-09-26, 97398
+   deu-glg: Tatoeba-dev-v2023-09-26, 906
+   deu-hat: Tatoeba-dev-v2023-09-26, 1000
+   deu-ita: Tatoeba-dev-v2023-09-26, 12124
+   deu-lad: Tatoeba-dev-v2023-09-26, 26
+   deu-lij: Tatoeba-dev-v2023-09-26, 31
+   deu-oci: Tatoeba-dev-v2023-09-26, 870
+   deu-pms: Tatoeba-dev-v2023-09-26, 52
+   deu-por: Tatoeba-dev-v2023-09-26, 7782
+   deu-roh: Tatoeba-dev-v2023-09-26, 1000
+   deu-ron: Tatoeba-dev-v2023-09-26, 1106
+   deu-scn: Tatoeba-dev-v2023-09-26, 1000
+   deu-spa: Tatoeba-dev-v2023-09-26, 74631
+   arg-eng: Tatoeba-dev-v2023-09-26, 945
+   ast-eng: Tatoeba-dev-v2023-09-26, 581
+   cat-eng: Tatoeba-dev-v2023-09-26, 257
+   cos-eng: Tatoeba-dev-v2023-09-26, 1000
+   eng-ext: Tatoeba-dev-v2023-09-26, 23
+   eng-fra: Tatoeba-dev-v2023-09-26, 249783
+   eng-frp: Tatoeba-dev-v2023-09-26, 1000
+   eng-fur: Tatoeba-dev-v2023-09-26, 1000
+   eng-glg: Tatoeba-dev-v2023-09-26, 991
+   eng-hat: Tatoeba-dev-v2023-09-26, 1000
+   eng-ita: Tatoeba-dev-v2023-09-26, 468299
+   eng-kea: Tatoeba-dev-v2023-09-26, 1000
+   eng-lad: Tatoeba-dev-v2023-09-26, 21
+   eng-lad_Latn: Tatoeba-dev-v2023-09-26, 36
+   eng-lij: Tatoeba-dev-v2023-09-26, 973
+   eng-lmo: Tatoeba-dev-v2023-09-26, 1000
+   eng-mfe: Tatoeba-dev-v2023-09-26, 1000
+   eng-mwl: Tatoeba-dev-v2023-09-26, 1000
+   eng-nap: Tatoeba-dev-v2023-09-26, 35
+   eng-oci: Tatoeba-dev-v2023-09-26, 972
+   eng-pap: Tatoeba-dev-v2023-09-26, 1000
+   eng-pms: Tatoeba-dev-v2023-09-26, 35
+   eng-por: Tatoeba-dev-v2023-09-26, 203681
+   eng-roh: Tatoeba-dev-v2023-09-26, 1000
+   eng-ron: Tatoeba-dev-v2023-09-26, 9591
+   eng-rup: Tatoeba-dev-v2023-09-26, 449
+   eng-scn: Tatoeba-dev-v2023-09-26, 1002
+   eng-spa: Tatoeba-dev-v2023-09-26, 195935
+   eng-srd: Tatoeba-dev-v2023-09-26, 1000
+   eng-vec: Tatoeba-dev-v2023-09-26, 1000
+   eng-wln: Tatoeba-dev-v2023-09-26, 1000
+   arg-fra: Tatoeba-dev-v2023-09-26, 1000
+   ast-fra: Tatoeba-dev-v2023-09-26, 1000
+   cat-fra: Tatoeba-dev-v2023-09-26, 989
+   cos-fra: Tatoeba-dev-v2023-09-26, 1000
+   fra-fra: Tatoeba-dev-v2023-09-26, 2422
+   fra-glg: Tatoeba-dev-v2023-09-26, 986
+   fra-hat: Tatoeba-dev-v2023-09-26, 1000
+   fra-ita: Tatoeba-dev-v2023-09-26, 68377
+   fra-lad: Tatoeba-dev-v2023-09-26, 26
+   fra-lij: Tatoeba-dev-v2023-09-26, 1000
+   fra-lmo: Tatoeba-dev-v2023-09-26, 1000
+   fra-nap: Tatoeba-dev-v2023-09-26, 35
+   fra-oci: Tatoeba-dev-v2023-09-26, 977
+   fra-pap: Tatoeba-dev-v2023-09-26, 1000
+   fra-pcd: Tatoeba-dev-v2023-09-26, 45
+   fra-pms: Tatoeba-dev-v2023-09-26, 55
+   fra-por: Tatoeba-dev-v2023-09-26, 16944
+   fra-roh: Tatoeba-dev-v2023-09-26, 1000
+   fra-ron: Tatoeba-dev-v2023-09-26, 80
+   fra-scn: Tatoeba-dev-v2023-09-26, 1000
+   fra-spa: Tatoeba-dev-v2023-09-26, 40126
+   fra-srd: Tatoeba-dev-v2023-09-26, 999
+   fra-vec: Tatoeba-dev-v2023-09-26, 885
+   fra-wln: Tatoeba-dev-v2023-09-26, 1000
+   ast-por: Tatoeba-dev-v2023-09-26, 1000
+   cat-por: Tatoeba-dev-v2023-09-26, 986
+   fra-por: Tatoeba-dev-v2023-09-26, 16944
+   glg-por: Tatoeba-dev-v2023-09-26, 917
+   hat-por: Tatoeba-dev-v2023-09-26, 1000
+   ita-por: Tatoeba-dev-v2023-09-26, 6355
+   lad-por: Tatoeba-dev-v2023-09-26, 17
+   mwl-por: Tatoeba-dev-v2023-09-26, 1000
+   por-por: Tatoeba-dev-v2023-09-26, 4777
+   por-roh: Tatoeba-dev-v2023-09-26, 1000
+   por-ron: Tatoeba-dev-v2023-09-26, 967
+   por-spa: Tatoeba-dev-v2023-09-26, 56755
+   arg-spa: Tatoeba-dev-v2023-09-26, 1000
+   ast-spa: Tatoeba-dev-v2023-09-26, 653
+   cat-spa: Tatoeba-dev-v2023-09-26, 1320
+   fra-spa: Tatoeba-dev-v2023-09-26, 40126
+   fur-spa: Tatoeba-dev-v2023-09-26, 1000
+   glg-spa: Tatoeba-dev-v2023-09-26, 1012
+   hat-spa: Tatoeba-dev-v2023-09-26, 1000
+   ita-spa: Tatoeba-dev-v2023-09-26, 9607
+   lad-spa: Tatoeba-dev-v2023-09-26, 41
+   lij-spa: Tatoeba-dev-v2023-09-26, 22
+   oci-spa: Tatoeba-dev-v2023-09-26, 972
+   pms-spa: Tatoeba-dev-v2023-09-26, 34
+   por-spa: Tatoeba-dev-v2023-09-26, 56755
+   roh-spa: Tatoeba-dev-v2023-09-26, 1000
+   ron-spa: Tatoeba-dev-v2023-09-26, 115
+   scn-spa: Tatoeba-dev-v2023-09-26, 1000
+   spa-spa: Tatoeba-dev-v2023-09-26, 3049
+   spa-wln: Tatoeba-dev-v2023-09-26, 1000
+   total-size-shuffled: 80906
+   devset-selected: top 5000  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 10000/83108
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 52.8
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.70620

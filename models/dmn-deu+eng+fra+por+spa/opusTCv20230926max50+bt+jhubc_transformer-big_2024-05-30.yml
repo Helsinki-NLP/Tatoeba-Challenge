@@ -1,0 +1,200 @@
+release: dmn-deu+eng+fra+por+spa/opusTCv20230926max50+bt+jhubc_transformer-big_2024-05-29.zip
+release-date: 2024-05-29
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bam
+   - bam_Latn
+   - bbo
+   - bib
+   - bqc
+   - bqp
+   - bus
+   - bwq
+   - dnj
+   - dyu
+   - kao
+   - knk
+   - kno
+   - lok
+   - men
+   - moa
+   - neb
+   - sbd
+   - sus
+   - yal
+target-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+raw-source-languages:
+   - bam
+   - bbo
+   - bib
+   - bqc
+   - bqp
+   - bus
+   - bwq
+   - dnj
+   - dyu
+   - kao
+   - knk
+   - kno
+   - lok
+   - men
+   - moa
+   - neb
+   - sbd
+   - sus
+   - yal
+raw-target-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+use-target-labels:
+training-data:
+   bam-deu: bible (134537) 
+   bam-eng: Tatoeba-train-v2023-09-26.bam-eng.strict (161392) bible (179279) 
+   bam-fra: bible (111161) 
+   bam-por: bible (52895) 
+   bam-spa: bible (53391) 
+   bib-deu: bible (141894) 
+   bib-eng: bible (189344) 
+   bib-fra: bible (117449) 
+   bib-por: bible (55684) 
+   bib-spa: bible (56320) 
+   bqc-deu: bible (406610) 
+   bqc-eng: bible (273808) 
+   bqc-fra: bible (380875) 
+   bqc-por: bible (124269) 
+   bqc-spa: bible (53225) 
+   bqp-deu: bible (253089) 
+   bqp-eng: bible (212558) 
+   bqp-fra: bible (230122) 
+   bqp-por: bible (82895) 
+   bqp-spa: bible (50017) 
+   bus-deu: bible (253230) 
+   bus-eng: bible (212622) 
+   bus-fra: bible (230285) 
+   bus-por: bible (82936) 
+   bus-spa: bible (50017) 
+   bwq-deu: bible (126028) 
+   bwq-eng: bible (167986) 
+   bwq-fra: bible (104194) 
+   bwq-por: bible (49495) 
+   bwq-spa: bible (50011) 
+   dnj-deu: bible (203197) 
+   dnj-eng: bible (270092) 
+   dnj-fra: bible (167913) 
+   dnj-por: bible (79768) 
+   dnj-spa: bible (80632) 
+   dyu-deu: bible (514998) 
+   dyu-eng: Tatoeba-train-v2023-09-26.dyu-eng.strict (247224) bible (431492) 
+   dyu-fra: bible (468401) 
+   dyu-por: bible (168741) 
+   dyu-spa: bible (101580) 
+   kao-deu: bible (125918) 
+   kao-eng: bible (167865) 
+   kao-fra: bible (104117) 
+   kao-por: bible (49451) 
+   kao-spa: bible (49981) 
+   knk-deu: bible (204734) 
+   knk-eng: bible (273197) 
+   knk-fra: bible (169468) 
+   knk-por: bible (80256) 
+   knk-spa: bible (81224) 
+   kno-deu: bible (124688) 
+   kno-eng: bible (166354) 
+   kno-fra: bible (103087) 
+   kno-por: bible (48974) 
+   kno-spa: bible (49530) 
+   lok-deu: bible (126152) 
+   lok-eng: bible (168128) 
+   lok-fra: bible (104308) 
+   lok-por: bible (49529) 
+   lok-spa: bible (50055) 
+   men-deu: bible (137135) 
+   men-eng: bible (182907) 
+   men-fra: bible (113382) 
+   men-por: bible (53791) 
+   men-spa: bible (54449) 
+   moa-deu: bible (126153) 
+   moa-eng: bible (168169) 
+   moa-fra: bible (104316) 
+   moa-por: bible (49538) 
+   moa-spa: bible (50067) 
+   neb-deu: bible (236277) 
+   neb-eng: bible (315075) 
+   neb-fra: bible (195535) 
+   neb-por: bible (92698) 
+   neb-spa: bible (93795) 
+   sbd-deu: bible (125566) 
+   sbd-eng: bible (167528) 
+   sbd-fra: bible (103824) 
+   sbd-por: bible (49326) 
+   sbd-spa: bible (49865) 
+   sus-deu: bible (133117) 
+   sus-eng: bible (177002) 
+   sus-fra: bible (109892) 
+   sus-por: bible (52279) 
+   sus-spa: bible (52705) 
+   yal-deu: bible (126122) 
+   yal-eng: bible (168136) 
+   yal-fra: bible (104270) 
+   yal-por: bible (49521) 
+   yal-spa: bible (50049) 
+validation-data:
+   bam-eng: Tatoeba-dev-v2023-09-26, 1000
+   dyu-eng: Tatoeba-dev-v2023-09-26, 1000
+   total-size-shuffled: 2000
+   devset-selected: top 2000  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 7/20
+   flores200-devtest.bam-deu: 1012/25094
+   flores200-devtest.bam-eng: 1012/24721
+   flores200-devtest.bam-fra: 1012/28343
+   flores200-devtest.bam-por: 1012/26519
+   flores200-devtest.bam-spa: 1012/29199
+   flores200-devtest.dyu-deu: 1012/25094
+   flores200-devtest.dyu-eng: 1012/24721
+   flores200-devtest.dyu-fra: 1012/28343
+   flores200-devtest.dyu-por: 1012/26519
+   flores200-devtest.dyu-spa: 1012/29199
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 14.0
+   flores200-devtest.bam-deu: 0.2
+   flores200-devtest.bam-eng: 1.0
+   flores200-devtest.bam-fra: 0.5
+   flores200-devtest.bam-por: 0.3
+   flores200-devtest.bam-spa: 0.3
+   flores200-devtest.dyu-deu: 0.2
+   flores200-devtest.dyu-eng: 0.6
+   flores200-devtest.dyu-fra: 0.2
+   flores200-devtest.dyu-por: 0.1
+   flores200-devtest.dyu-spa: 0.2
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.35296
+   flores200-devtest.bam-deu: 0.17791
+   flores200-devtest.bam-eng: 0.16686
+   flores200-devtest.bam-fra: 0.18597
+   flores200-devtest.bam-por: 0.17323
+   flores200-devtest.bam-spa: 0.17054
+   flores200-devtest.dyu-deu: 0.17955
+   flores200-devtest.dyu-eng: 0.16920
+   flores200-devtest.dyu-fra: 0.18513
+   flores200-devtest.dyu-por: 0.17556
+   flores200-devtest.dyu-spa: 0.17573

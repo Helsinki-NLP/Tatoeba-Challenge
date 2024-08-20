@@ -1,0 +1,175 @@
+release: sit-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - acn
+   - aeu
+   - ahk
+   - bgr
+   - bod
+   - brx
+   - cfm
+   - cjy_Hans
+   - cjy_Hant
+   - cmn
+   - cmn_Hans
+   - cmn_Hant
+   - cmr
+   - cnh
+   - cnh_Latn
+   - cnw
+   - csy
+   - ctd
+   - czt
+   - dng
+   - dzo
+   - hlt
+   - hsn
+   - iii
+   - kac
+   - kle
+   - lhu
+   - lif
+   - lsi
+   - lus
+   - mhx
+   - mni
+   - mya
+   - new
+   - njm
+   - nst_Latn
+   - pck_Latn
+   - pww
+   - rav
+   - suz
+   - taj
+   - wuu
+   - xsr
+   - ycl
+   - yue_Hans
+   - yue_Hant
+   - zom
+   - zyp
+target-languages:
+   - eng
+raw-source-languages:
+   - acn
+   - aeu
+   - ahk
+   - bgr
+   - bod
+   - brx
+   - cfm
+   - cjy
+   - cmn
+   - cmr
+   - cnh
+   - cnw
+   - csy
+   - ctd
+   - czt
+   - dng
+   - dzo
+   - hlt
+   - hsn
+   - iii
+   - kac
+   - kle
+   - lhu
+   - lif
+   - lsi
+   - lus
+   - mhx
+   - mni
+   - mya
+   - new
+   - njm
+   - nst
+   - pck
+   - pww
+   - rav
+   - suz
+   - taj
+   - wuu
+   - xsr
+   - ycl
+   - yue
+   - zom
+   - zyp
+raw-target-languages:
+   - eng
+training-data:
+   acn-eng: bible (170863) 
+   aeu-eng: bible (168100) 
+   ahk-eng: bible (333053) 
+   bgr-eng: bible (172361) 
+   cfm-eng: bible (238486) 
+   cmn-eng: bible (258413) 
+   cmn_Hans-eng: Tatoeba-train-v2023-09-26.cmn_Hans-eng.strict (50000000) wikibooks.aa.eng-cmn_Hans (991522) wikinews.aa.eng-cmn_Hans (457100) wikipedia.aa.eng-cmn_Hans (982476) wikipedia.ab.eng-cmn_Hans (982651) wikipedia.ac.eng-cmn_Hans (982701) wikipedia.ad.eng-cmn_Hans (982428) wikiquote.aa.eng-cmn_Hans (996832) 
+   cmn_Hant-eng: Tatoeba-train-v2023-09-26.cmn_Hant-eng.strict (22123097) wikibooks.aa.eng-cmn_Hant (991522) wikinews.aa.eng-cmn_Hant (457100) wikipedia.aa.eng-cmn_Hant (982476) wikipedia.ab.eng-cmn_Hant (982651) wikipedia.ac.eng-cmn_Hant (982701) wikipedia.ad.eng-cmn_Hant (982428) wikiquote.aa.eng-cmn_Hant (996832) 
+   cmr-eng: bible (168039) 
+   cnh-eng: bible (258309) 
+   cnw-eng: bible (166035) 
+   csy-eng: bible (166309) 
+   ctd-eng: bible (257028) 
+   czt-eng: bible (166433) 
+   hlt-eng: bible (167496) 
+   kac-eng: bible (438033) 
+   kle-eng: bible (168280) 
+   lhu-eng: bible (332402) 
+   lif-eng: bible (329252) 
+   lsi-eng: bible (421616) 
+   lus-eng: bible (158232) 
+   mhx-eng: bible (334941) 
+   mya-eng: Tatoeba-train-v2023-09-26.eng-mya.strict (6992505) bible (418774) 
+   new-eng: bible (181173) 
+   njm-eng: bible (161775) 
+   pww-eng: bible (167612) 
+   rav-eng: bible (168214) 
+   suz-eng: bible (259156) 
+   taj-eng: bible (333575) 
+   wuu-eng: Tatoeba-train-v2023-09-26.eng-wuu.strict (11288) 
+   xsr-eng: bible (168195) 
+   ycl-eng: bible (165208) 
+   yue_Hans-eng: Tatoeba-train-v2023-09-26.eng-yue_Hans.strict (602) 
+   yue_Hant-eng: Tatoeba-train-v2023-09-26.eng-yue_Hant.strict (402) 
+   zom-eng: bible (258295) 
+   zyp-eng: bible (168157) 
+validation-data:
+   bod-eng: Tatoeba-dev-v2023-09-26, 1000
+   brx-eng: Tatoeba-dev-v2023-09-26, 1000
+   cjy_Hans-eng: Tatoeba-dev-v2023-09-26, 4
+   cjy_Hant-eng: Tatoeba-dev-v2023-09-26, 3
+   cmn-eng: Tatoeba-dev-v2023-09-26, 16
+   cmn_Hans-eng: Tatoeba-dev-v2023-09-26, 13365
+   cmn_Hant-eng: Tatoeba-dev-v2023-09-26, 14961
+   cnh_Latn-eng: Tatoeba-dev-v2023-09-26, 1000
+   dzo-eng: Tatoeba-dev-v2023-09-26, 1000
+   eng-hsn: Tatoeba-dev-v2023-09-26, 3
+   eng-kac: Tatoeba-dev-v2023-09-26, 1000
+   eng-lus: Tatoeba-dev-v2023-09-26, 1000
+   eng-mni: Tatoeba-dev-v2023-09-26, 1000
+   eng-mya: Tatoeba-dev-v2023-09-26, 648
+   eng-new: Tatoeba-dev-v2023-09-26, 10
+   eng-wuu: Tatoeba-dev-v2023-09-26, 644
+   eng-yue_Hans: Tatoeba-dev-v2023-09-26, 1747
+   eng-yue_Hant: Tatoeba-dev-v2023-09-26, 1101
+   total-size-shuffled: 12326
+   devset-selected: top 5000  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-eng: 10000/82547
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 21.0
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 0.47541

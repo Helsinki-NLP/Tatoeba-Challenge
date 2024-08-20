@@ -1,0 +1,71 @@
+release: mkh-fra+ita+por+spa/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bru
+   - cmo
+   - kha
+   - khm
+   - kxm
+   - vie
+   - wbm
+target-languages:
+   - fra
+   - ita
+   - por
+   - spa
+raw-source-languages:
+   - bru
+   - cmo
+   - kha
+   - khm
+   - kxm
+   - vie
+   - wbm
+raw-target-languages:
+   - fra
+   - ita
+   - por
+   - spa
+use-target-labels:
+training-data:
+   bru-fra: bible (128841) 
+   bru-por: bible (61213) 
+   bru-spa: bible (61800) 
+   khm-fra: bible (205331) 
+   khm-por: bible (97512) 
+   khm-spa: Tatoeba-train-v2023-09-26.khm-spa.strict (212782) bible (98560) 
+   kxm-fra: bible (104074) 
+   kxm-por: bible (49430) 
+   kxm-spa: bible (49948) 
+   vie-fra: Tatoeba-train-v2023-09-26.fra-vie.strict (22506188) bible (1426842) 
+   vie-ita: Tatoeba-train-v2023-09-26.ita-vie.strict (14622818) 
+   vie-por: bible (523664) 
+   vie-spa: Tatoeba-train-v2023-09-26.spa-vie.strict (39269325) bible (332844) 
+   wbm-fra: bible (360193) 
+   wbm-por: bible (117329) 
+   wbm-spa: bible (49811) 
+validation-data:
+   khm-spa: Tatoeba-dev-v2023-09-26, 601
+   fra-vie: Tatoeba-dev-v2023-09-26, 972
+   ita-vie: Tatoeba-dev-v2023-09-26, 961
+   spa-vie: Tatoeba-dev-v2023-09-26, 982
+   total-size-shuffled: 3516
+   devset-selected: top 3516  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 3861/27219
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 29.1
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.48655

@@ -1,0 +1,73 @@
+release: zhx-deu+eng+fra+por+spa/opusTCv20230926max50+bt+jhubc_transformer-big_2024-05-29.zip
+release-date: 2024-05-29
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - cjy_Hans
+   - cjy_Hant
+   - cmn
+   - cmn_Hans
+   - cmn_Hant
+   - hsn
+   - wuu
+   - yue_Hans
+   - yue_Hant
+target-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+raw-source-languages:
+   - cjy
+   - cmn
+   - hsn
+   - wuu
+   - yue
+raw-target-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+use-target-labels:
+training-data:
+   cmn-deu: Tatoeba-train-v2023-09-26.cmn-deu.strict (40652) bible (383998) 
+   cmn-eng: Tatoeba-train-v2023-09-26.cmn-eng.strict (157476) bible (258413) 
+   cmn-fra: Tatoeba-train-v2023-09-26.cmn-fra.strict (57694) bible (360655) 
+   cmn-por: Tatoeba-train-v2023-09-26.cmn-por.strict (144730) bible (117534) 
+   cmn-spa: Tatoeba-train-v2023-09-26.cmn-spa.strict (65009) bible (49905) 
+   cmn_Hans-eng: Tatoeba-train-v2023-09-26.cmn_Hans-eng.strict (50000000) wikibooks.aa.eng-cmn_Hans (991522) wikinews.aa.eng-cmn_Hans (457100) wikipedia.aa.eng-cmn_Hans (982476) wikipedia.ab.eng-cmn_Hans (982651) wikipedia.ac.eng-cmn_Hans (982701) wikipedia.ad.eng-cmn_Hans (982428) wikiquote.aa.eng-cmn_Hans (996832) 
+   cmn_Hant-eng: Tatoeba-train-v2023-09-26.cmn_Hant-eng.strict (22123097) wikibooks.aa.eng-cmn_Hant (991522) wikinews.aa.eng-cmn_Hant (457100) wikipedia.aa.eng-cmn_Hant (982476) wikipedia.ab.eng-cmn_Hant (982651) wikipedia.ac.eng-cmn_Hant (982701) wikipedia.ad.eng-cmn_Hant (982428) wikiquote.aa.eng-cmn_Hant (996832) 
+   wuu-eng: Tatoeba-train-v2023-09-26.eng-wuu.strict (11288) 
+   yue_Hans-eng: Tatoeba-train-v2023-09-26.eng-yue_Hans.strict (602) 
+   yue_Hant-eng: Tatoeba-train-v2023-09-26.eng-yue_Hant.strict (402) 
+validation-data:
+   cmn-deu: Tatoeba-dev-v2023-09-26, 4
+   cmn-eng: Tatoeba-dev-v2023-09-26, 16
+   cmn-fra: Tatoeba-dev-v2023-09-26, 8
+   cmn-por: Tatoeba-dev-v2023-09-26, 5
+   cmn-spa: Tatoeba-dev-v2023-09-26, 10
+   cmn_Hans-eng: Tatoeba-dev-v2023-09-26, 13365
+   cmn_Hant-eng: Tatoeba-dev-v2023-09-26, 14961
+   eng-wuu: Tatoeba-dev-v2023-09-26, 644
+   eng-yue_Hans: Tatoeba-dev-v2023-09-26, 1747
+   eng-yue_Hant: Tatoeba-dev-v2023-09-26, 1101
+   total-size-shuffled: 4685
+   devset-selected: top 4685  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 10000/82611
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 34.1
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.52761

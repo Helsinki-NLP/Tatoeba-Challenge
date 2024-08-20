@@ -1,0 +1,55 @@
+release: tup-deu+eng+nld/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-18.zip
+release-date: 2024-08-18
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - grn
+   - gyr
+   - kgk
+   - myu
+   - srq
+   - tpw_Latn
+target-languages:
+   - deu
+   - eng
+raw-source-languages:
+   - grn
+   - gyr
+   - kgk
+   - myu
+   - srq
+   - tpw
+raw-target-languages:
+   - deu
+   - eng
+use-target-labels:
+training-data:
+   grn-eng: Tatoeba-train-v2023-09-26.eng-grn.strict (2651804) 
+   gyr-deu: bible (279454) 
+   gyr-eng: bible (373002) 
+   kgk-deu: bible (121426) 
+   kgk-eng: bible (161822) 
+   myu-deu: bible (122269) 
+   myu-eng: bible (163091) 
+   srq-deu: bible (124935) 
+   srq-eng: bible (166559) 
+validation-data:
+   eng-grn: Tatoeba-dev-v2023-09-26, 930
+   total-size-shuffled: 930
+   devset-selected: top 930  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 193/1438
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 12.1
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.26685

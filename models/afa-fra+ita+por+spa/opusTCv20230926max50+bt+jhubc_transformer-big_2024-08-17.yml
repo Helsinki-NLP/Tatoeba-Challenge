@@ -1,0 +1,278 @@
+release: afa-fra+ita+por+spa/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - amh
+   - apc
+   - ara
+   - arq
+   - arz
+   - bcw
+   - cop
+   - daa
+   - dsh
+   - gde
+   - gnd
+   - hau
+   - hau_Latn
+   - hbo
+   - hbo_Hebr
+   - heb
+   - hig
+   - irk
+   - jpa_Hebr
+   - kab
+   - ker
+   - kqp
+   - ktb
+   - kxc
+   - lln
+   - lme
+   - meq
+   - mfh
+   - mfi
+   - mfk
+   - mif
+   - mlt
+   - mpg
+   - mqb
+   - muy
+   - oar_Hebr
+   - pbi
+   - phn_Phnx
+   - rif_Latn
+   - sgw
+   - shi
+   - shi_Latn
+   - shy_Latn
+   - som
+   - sur
+   - syc
+   - thv
+   - tir
+   - tmc
+   - tmh
+   - tmr_Hebr
+   - ttr
+   - wal
+   - xed
+   - zgh
+target-languages:
+   - fra
+   - ita
+   - por
+   - spa
+raw-source-languages:
+   - amh
+   - apc
+   - ara
+   - arq
+   - arz
+   - bcw
+   - cop
+   - daa
+   - dsh
+   - gde
+   - gnd
+   - hau
+   - hbo
+   - heb
+   - hig
+   - irk
+   - jpa
+   - kab
+   - ker
+   - kqp
+   - ktb
+   - kxc
+   - lln
+   - lme
+   - meq
+   - mfh
+   - mfi
+   - mfk
+   - mif
+   - mlt
+   - mpg
+   - mqb
+   - muy
+   - oar
+   - pbi
+   - phn
+   - rif
+   - sgw
+   - shi
+   - shy
+   - som
+   - sur
+   - syc
+   - thv
+   - tir
+   - tmc
+   - tmh
+   - tmr
+   - ttr
+   - wal
+   - xed
+   - zgh
+raw-target-languages:
+   - fra
+   - ita
+   - por
+   - spa
+use-target-labels:
+training-data:
+   amh-fra: bible (99839) 
+   amh-por: bible (47492) 
+   amh-spa: bible (47988) 
+   ara-fra: Tatoeba-train-v2023-09-26.ara-fra.strict (45964250) 
+   ara-ita: Tatoeba-train-v2023-09-26.ara-ita.strict (31730583) 
+   ara-spa: Tatoeba-train-v2023-09-26.ara-spa.strict (50000000) 
+   arq-fra: Tatoeba-train-v2023-09-26.arq-fra.strict (951) 
+   arz-fra: bible (459508) 
+   arz-por: bible (164425) 
+   arz-spa: bible (97223) 
+   bcw-fra: bible (111247) 
+   bcw-por: bible (52874) 
+   bcw-spa: bible (53383) 
+   cop-fra: bible (312603) 
+   cop-por: bible (148471) 
+   cop-spa: bible (150070) 
+   daa-fra: bible (169767) 
+   daa-por: bible (80630) 
+   daa-spa: bible (81437) 
+   dsh-fra: bible (104205) 
+   dsh-por: bible (49498) 
+   dsh-spa: bible (50017) 
+   gde-fra: bible (106086) 
+   gde-por: bible (50363) 
+   gde-spa: bible (50918) 
+   gnd-fra: bible (103705) 
+   gnd-por: bible (49252) 
+   gnd-spa: bible (49817) 
+   hau-fra: bible (204116) 
+   hau-por: bible (97055) 
+   hau-spa: bible (97956) 
+   hbo-fra: bible (1298077) 
+   hbo-por: bible (344240) 
+   heb-fra: Tatoeba-train-v2023-09-26.fra-heb.strict (34620340) bible (201550) 
+   heb-ita: Tatoeba-train-v2023-09-26.heb-ita.strict (17324582) 
+   heb-por: Tatoeba-train-v2023-09-26.heb-por.strict (37901950) bible (95693) 
+   heb-spa: Tatoeba-train-v2023-09-26.heb-spa.strict (36033274) bible (96843) 
+   hig-fra: bible (173071) 
+   hig-por: bible (82187) 
+   hig-spa: bible (82906) 
+   irk-fra: bible (196159) 
+   irk-por: bible (93181) 
+   irk-spa: bible (94166) 
+   kab-fra: Tatoeba-train-v2023-09-26.fra-kab.strict (720961) bible (207457) 
+   kab-por: bible (98517) 
+   kab-spa: Tatoeba-train-v2023-09-26.kab-spa.strict (29671) bible (99564) 
+   ker-fra: bible (104258) 
+   ker-por: bible (49521) 
+   ker-spa: bible (50045) 
+   kqp-fra: bible (109301) 
+   kqp-por: bible (51977) 
+   kqp-spa: bible (52423) 
+   ktb-fra: bible (104221) 
+   ktb-por: bible (49500) 
+   ktb-spa: bible (50041) 
+   kxc-fra: bible (104328) 
+   kxc-por: bible (49550) 
+   kxc-spa: bible (50069) 
+   lln-fra: bible (104382) 
+   lln-por: bible (49575) 
+   lln-spa: bible (50102) 
+   lme-fra: bible (104284) 
+   lme-por: bible (49523) 
+   lme-spa: bible (50052) 
+   meq-fra: bible (104150) 
+   meq-por: bible (49455) 
+   meq-spa: bible (49980) 
+   mfh-fra: bible (104648) 
+   mfh-por: bible (49696) 
+   mfh-spa: bible (50221) 
+   mfi-fra: bible (207767) 
+   mfi-por: bible (98695) 
+   mfi-spa: bible (99711) 
+   mfk-fra: bible (104337) 
+   mfk-por: bible (49552) 
+   mfk-spa: bible (50081) 
+   mif-fra: bible (143647) 
+   mif-por: bible (68562) 
+   mif-spa: bible (68883) 
+   mlt-fra: bible (101479) 
+   mlt-por: bible (48228) 
+   mlt-spa: bible (48742) 
+   mpg-fra: bible (104281) 
+   mpg-por: bible (49516) 
+   mpg-spa: bible (50040) 
+   mqb-fra: bible (107464) 
+   mqb-por: bible (51079) 
+   mqb-spa: bible (51588) 
+   muy-fra: bible (104171) 
+   muy-por: bible (49483) 
+   muy-spa: bible (49995) 
+   pbi-fra: bible (166854) 
+   pbi-por: bible (79103) 
+   pbi-spa: bible (80003) 
+   sgw-fra: bible (95191) 
+   sgw-por: bible (45091) 
+   sgw-spa: bible (45668) 
+   shi-fra: bible (207769) 
+   shi-por: bible (98660) 
+   shi-spa: bible (99748) 
+   som-fra: bible (368949) 
+   som-por: bible (120342) 
+   som-spa: bible (51261) 
+   sur-fra: bible (143916) 
+   sur-por: bible (68328) 
+   sur-spa: bible (68961) 
+   syc-fra: bible (103548) 
+   syc-por: bible (49174) 
+   syc-spa: bible (49693) 
+   tir-fra: bible (104207) 
+   tir-por: bible (49486) 
+   tir-spa: bible (50021) 
+   tmc-fra: bible (104369) 
+   tmc-por: bible (49562) 
+   tmc-spa: bible (50095) 
+   ttr-fra: bible (102677) 
+   ttr-por: bible (48786) 
+   ttr-spa: bible (49314) 
+   wal-fra: bible (356573) 
+   wal-por: bible (116022) 
+   wal-spa: bible (48859) 
+   xed-fra: bible (104367) 
+   xed-por: bible (49560) 
+   xed-spa: bible (50092) 
+validation-data:
+   ara-fra: Tatoeba-dev-v2023-09-26, 101
+   ara-ita: Tatoeba-dev-v2023-09-26, 944
+   ara-spa: Tatoeba-dev-v2023-09-26, 998
+   arq-fra: Tatoeba-dev-v2023-09-26, 3
+   fra-heb: Tatoeba-dev-v2023-09-26, 1053
+   heb-ita: Tatoeba-dev-v2023-09-26, 974
+   heb-por: Tatoeba-dev-v2023-09-26, 965
+   heb-spa: Tatoeba-dev-v2023-09-26, 1095
+   fra-kab: Tatoeba-dev-v2023-09-26, 16531
+   kab-spa: Tatoeba-dev-v2023-09-26, 604
+   total-size-shuffled: 7589
+   devset-selected: top 5000  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 10000/78439
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 25.6
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.44153

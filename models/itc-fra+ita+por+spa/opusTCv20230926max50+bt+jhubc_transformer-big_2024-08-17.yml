@@ -1,0 +1,204 @@
+release: itc-fra+ita+por+spa/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - acf
+   - arg
+   - ast
+   - cat
+   - cbk_Latn
+   - cos
+   - crs
+   - egl
+   - fra
+   - frm_Latn
+   - fro_Latn
+   - fur
+   - gcf_Latn
+   - glg
+   - hat
+   - ita
+   - lad
+   - lad_Latn
+   - lat
+   - lat_Latn
+   - lij
+   - lld_Latn
+   - lmo
+   - lou_Latn
+   - mfe
+   - mol
+   - mwl
+   - nap
+   - oci
+   - osp_Latn
+   - pap
+   - pcd
+   - pms
+   - por
+   - roh
+   - ron
+   - scn
+   - spa
+   - srd
+   - vec
+   - wln
+target-languages:
+   - fra
+   - ita
+   - por
+   - spa
+raw-source-languages:
+   - acf
+   - arg
+   - ast
+   - cat
+   - cbk
+   - cos
+   - crs
+   - egl
+   - fra
+   - frm
+   - fro
+   - fur
+   - gcf
+   - glg
+   - hat
+   - ita
+   - lad
+   - lat
+   - lij
+   - lld
+   - lmo
+   - lou
+   - mfe
+   - mol
+   - mwl
+   - nap
+   - oci
+   - osp
+   - pap
+   - pcd
+   - pms
+   - por
+   - roh
+   - ron
+   - scn
+   - spa
+   - srd
+   - vec
+   - wln
+raw-target-languages:
+   - fra
+   - ita
+   - por
+   - spa
+use-target-labels:
+training-data:
+   acf-fra: bible (194917) 
+   acf-por: bible (92731) 
+   acf-spa: bible (93584) 
+   ast-spa: Tatoeba-train-v2023-09-26.ast-spa.strict (3640730) 
+   cat-fra: Tatoeba-train-v2023-09-26.cat-fra.strict (11955159) bible (104106) 
+   cat-ita: Tatoeba-train-v2023-09-26.cat-ita.strict (8435204) 
+   cat-por: Tatoeba-train-v2023-09-26.cat-por.strict (9074264) bible (49462) 
+   cat-spa: Tatoeba-train-v2023-09-26.cat-spa.strict (26299584) bible (49969) 
+   fra-fra: Tatoeba-train-v2023-09-26.fra-fra.strict.fra1.gz (1941716) 
+   fra-ita: Tatoeba-train-v2023-09-26.fra-ita.strict (36707067) bible (1636612) 
+   fra-por: Tatoeba-train-v2023-09-26.fra-por.strict (36280126) bible (1561873) 
+   fra-spa: Tatoeba-train-v2023-09-26.fra-spa.strict (50000000) bible (805480) 
+   glg-fra: Tatoeba-train-v2023-09-26.fra-glg.strict (14099113) 
+   glg-por: Tatoeba-train-v2023-09-26.glg-por.strict (20068254) 
+   glg-spa: Tatoeba-train-v2023-09-26.glg-spa.strict (15312463) 
+   hat-fra: bible (664732) 
+   hat-por: bible (217119) 
+   hat-spa: bible (93136) 
+   ita-fra: Tatoeba-train-v2023-09-26.fra-ita.strict (36707067) bible (1636612) 
+   ita-ita: Tatoeba-train-v2023-09-26.ita-ita.strict.ita1.gz (612774) 
+   ita-por: Tatoeba-train-v2023-09-26.ita-por.strict (29448592) bible (561941) 
+   ita-spa: Tatoeba-train-v2023-09-26.ita-spa.strict (37093173) bible (292961) 
+   lat-fra: bible (711395) 
+   lat-por: Tatoeba-train-v2023-09-26.lat-por.strict (285659) bible (231147) 
+   lat-spa: Tatoeba-train-v2023-09-26.lat-spa.strict (509471) bible (99022) 
+   lat_Latn-fra: Tatoeba-train-v2023-09-26.fra-lat_Latn.strict (482491) 
+   lat_Latn-ita: Tatoeba-train-v2023-09-26.ita-lat_Latn.strict (283450) 
+   lat_Latn-por: Tatoeba-train-v2023-09-26.lat_Latn-por.strict (285659) 
+   lij-ita: Tatoeba-train-v2023-09-26.ita-lij.strict (5001) 
+   mfe-fra: bible (111162) 
+   mfe-por: bible (52817) 
+   mfe-spa: bible (53330) 
+   oci-fra: Tatoeba-train-v2023-09-26.fra-oci.strict (4312991) 
+   oci-spa: Tatoeba-train-v2023-09-26.oci-spa.strict (720761) 
+   por-fra: Tatoeba-train-v2023-09-26.fra-por.strict (36280126) bible (1561873) 
+   por-ita: Tatoeba-train-v2023-09-26.ita-por.strict (29448592) bible (561941) 
+   por-por: Tatoeba-train-v2023-09-26.por-por.strict.por1.gz (15495696) 
+   por-spa: Tatoeba-train-v2023-09-26.por-spa.strict (43355883) bible (382665) 
+   ron-fra: Tatoeba-train-v2023-09-26.fra-ron.strict (23828491) bible (569262) 
+   ron-ita: Tatoeba-train-v2023-09-26.ita-ron.strict (19077246) 
+   ron-por: Tatoeba-train-v2023-09-26.por-ron.strict (22048880) bible (216547) 
+   ron-spa: Tatoeba-train-v2023-09-26.ron-spa.strict (24867473) bible (149907) 
+   spa-fra: Tatoeba-train-v2023-09-26.fra-spa.strict (50000000) bible (805480) 
+   spa-ita: Tatoeba-train-v2023-09-26.ita-spa.strict (37093173) bible (292961) 
+   spa-por: Tatoeba-train-v2023-09-26.por-spa.strict (43355883) bible (382665) 
+   spa-spa: Tatoeba-train-v2023-09-26.spa-spa.strict.spa1.gz (4731123) 
+validation-data:
+   ast-spa: Tatoeba-dev-v2023-09-26, 653
+   cat-fra: Tatoeba-dev-v2023-09-26, 989
+   cat-ita: Tatoeba-dev-v2023-09-26, 985
+   cat-por: Tatoeba-dev-v2023-09-26, 986
+   cat-spa: Tatoeba-dev-v2023-09-26, 1320
+   fra-fra: Tatoeba-dev-v2023-09-26, 2422
+   fra-ita: Tatoeba-dev-v2023-09-26, 68377
+   fra-por: Tatoeba-dev-v2023-09-26, 16944
+   fra-spa: Tatoeba-dev-v2023-09-26, 40126
+   fra-glg: Tatoeba-dev-v2023-09-26, 986
+   glg-por: Tatoeba-dev-v2023-09-26, 917
+   glg-spa: Tatoeba-dev-v2023-09-26, 1012
+   fra-ita: Tatoeba-dev-v2023-09-26, 68377
+   ita-ita: Tatoeba-dev-v2023-09-26, 355
+   ita-por: Tatoeba-dev-v2023-09-26, 6355
+   ita-spa: Tatoeba-dev-v2023-09-26, 9607
+   fra-lad: Tatoeba-dev-v2023-09-26, 26
+   lad-spa: Tatoeba-dev-v2023-09-26, 41
+   lat-por: Tatoeba-dev-v2023-09-26, 8619
+   lat-spa: Tatoeba-dev-v2023-09-26, 1223
+   fra-lat_Latn: Tatoeba-dev-v2023-09-26, 1229
+   ita-lat_Latn: Tatoeba-dev-v2023-09-26, 122
+   lat_Latn-por: Tatoeba-dev-v2023-09-26, 8619
+   ita-lij: Tatoeba-dev-v2023-09-26, 980
+   fra-oci: Tatoeba-dev-v2023-09-26, 977
+   oci-spa: Tatoeba-dev-v2023-09-26, 972
+   fra-pcd: Tatoeba-dev-v2023-09-26, 45
+   ita-pms: Tatoeba-dev-v2023-09-26, 79
+   pms-spa: Tatoeba-dev-v2023-09-26, 34
+   fra-por: Tatoeba-dev-v2023-09-26, 16944
+   ita-por: Tatoeba-dev-v2023-09-26, 6355
+   por-por: Tatoeba-dev-v2023-09-26, 4777
+   por-spa: Tatoeba-dev-v2023-09-26, 56755
+   fra-ron: Tatoeba-dev-v2023-09-26, 80
+   ita-ron: Tatoeba-dev-v2023-09-26, 973
+   por-ron: Tatoeba-dev-v2023-09-26, 967
+   ron-spa: Tatoeba-dev-v2023-09-26, 115
+   fra-spa: Tatoeba-dev-v2023-09-26, 40126
+   ita-spa: Tatoeba-dev-v2023-09-26, 9607
+   por-spa: Tatoeba-dev-v2023-09-26, 56755
+   spa-spa: Tatoeba-dev-v2023-09-26, 3049
+   total-size-shuffled: 31282
+   devset-selected: top 5000  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 10000/81911
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 50.9
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.68480

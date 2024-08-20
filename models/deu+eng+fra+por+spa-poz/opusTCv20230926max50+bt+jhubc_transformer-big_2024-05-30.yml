@@ -1,0 +1,1381 @@
+release: deu+eng+fra+por+spa-poz/opusTCv20230926max50+bt+jhubc_transformer-big_2024-05-29.zip
+release-date: 2024-05-29
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+target-languages:
+   - aai
+   - ace
+   - agn
+   - aia
+   - akl_Latn
+   - alj
+   - alp
+   - amk
+   - aoz
+   - apr
+   - atq
+   - aui
+   - ban
+   - bcl
+   - bep
+   - bhz
+   - bik
+   - bku
+   - blz
+   - bmk
+   - bnp
+   - bpr
+   - bps
+   - btd
+   - bth
+   - bto
+   - bts
+   - btx
+   - bug
+   - buk
+   - bvy_Latn
+   - bzh
+   - ceb
+   - cgc
+   - cha
+   - dad
+   - dob
+   - dtp
+   - dww
+   - emi
+   - far
+   - fij
+   - fil
+   - frd
+   - gfk
+   - gil
+   - gor
+   - haw
+   - hil
+   - hla
+   - hnn
+   - hot
+   - hvn
+   - iba
+   - ifa
+   - ifb
+   - ifk
+   - ifu
+   - ify
+   - ilo
+   - ind
+   - iry
+   - itv
+   - jak_Latn
+   - jav
+   - jav_Java
+   - jvn
+   - kbm
+   - khz
+   - kje
+   - kne
+   - kpg
+   - kqe
+   - kqf
+   - kqw
+   - krj
+   - kud
+   - kwf
+   - kzf
+   - laa_Latn
+   - law
+   - lcm
+   - leu
+   - lew
+   - lex
+   - lid
+   - ljp
+   - lnd
+   - mad
+   - mah
+   - mak
+   - max_Latn
+   - mbb
+   - mbf
+   - mbt
+   - mee
+   - mek
+   - mgm_Latn
+   - mhy
+   - mlg
+   - mmo
+   - mmx
+   - mna
+   - mnb
+   - mog
+   - mox
+   - mpx
+   - mqj
+   - mri
+   - mrw
+   - msa
+   - msa_Arab
+   - msa_Latn
+   - msm
+   - mta
+   - mva
+   - mvp
+   - mvv_Latn
+   - mwc
+   - mwv
+   - myw
+   - mzz
+   - nak
+   - nau
+   - nia
+   - nij
+   - niu
+   - npy
+   - nsn
+   - nss
+   - nwi
+   - obo
+   - pag
+   - pam
+   - pau
+   - plt
+   - plw
+   - pmf
+   - pmy_Latn
+   - pne
+   - ppk
+   - ppk_Latn
+   - prf
+   - ptp
+   - ptu
+   - pwg
+   - rai
+   - rap
+   - rej
+   - rro
+   - rug
+   - sas
+   - sbl
+   - sda
+   - sgb
+   - sgz
+   - smk
+   - sml
+   - sml_Latn
+   - smo
+   - snc
+   - sps
+   - stn
+   - sun
+   - swp
+   - sxn
+   - tah
+   - tbc
+   - tbl
+   - tbo
+   - tet
+   - tgl
+   - tgl_Latn
+   - tgl_Tglg
+   - tgo
+   - tgp
+   - tkl
+   - tlx
+   - tmw_Latn
+   - ton
+   - tpa
+   - tpz
+   - tte
+   - tuc
+   - tvl
+   - twb
+   - twu
+   - txa
+   - ubr
+   - uvl
+   - viv
+   - war
+   - wed
+   - wuv
+   - xsb
+   - xsi
+   - yml
+   - zlm_Arab
+   - zlm_Latn
+   - zsm_Arab
+   - zsm_Latn
+raw-source-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+raw-target-languages:
+   - aai
+   - ace
+   - agn
+   - aia
+   - akl
+   - alj
+   - alp
+   - amk
+   - aoz
+   - apr
+   - atq
+   - aui
+   - ban
+   - bcl
+   - bep
+   - bhz
+   - bik
+   - bku
+   - blz
+   - bmk
+   - bnp
+   - bpr
+   - bps
+   - btd
+   - bth
+   - bto
+   - bts
+   - btx
+   - bug
+   - buk
+   - bvy
+   - bzh
+   - ceb
+   - cgc
+   - cha
+   - dad
+   - dob
+   - dtp
+   - dww
+   - emi
+   - far
+   - fij
+   - fil
+   - frd
+   - gfk
+   - gil
+   - gor
+   - haw
+   - hil
+   - hla
+   - hnn
+   - hot
+   - hvn
+   - iba
+   - ifa
+   - ifb
+   - ifk
+   - ifu
+   - ify
+   - ilo
+   - ind
+   - iry
+   - itv
+   - jak
+   - jav
+   - jvn
+   - kbm
+   - khz
+   - kje
+   - kne
+   - kpg
+   - kqe
+   - kqf
+   - kqw
+   - krj
+   - kud
+   - kwf
+   - kzf
+   - laa
+   - law
+   - lcm
+   - leu
+   - lew
+   - lex
+   - lid
+   - ljp
+   - lnd
+   - mad
+   - mah
+   - mak
+   - max
+   - mbb
+   - mbf
+   - mbt
+   - mee
+   - mek
+   - mgm
+   - mhy
+   - mlg
+   - mmo
+   - mmx
+   - mna
+   - mnb
+   - mog
+   - mox
+   - mpx
+   - mqj
+   - mri
+   - mrw
+   - msa
+   - msm
+   - mta
+   - mva
+   - mvp
+   - mvv
+   - mwc
+   - mwv
+   - myw
+   - mzz
+   - nak
+   - nau
+   - nia
+   - nij
+   - niu
+   - npy
+   - nsn
+   - nss
+   - nwi
+   - obo
+   - pag
+   - pam
+   - pau
+   - plt
+   - plw
+   - pmf
+   - pmy
+   - pne
+   - ppk
+   - prf
+   - ptp
+   - ptu
+   - pwg
+   - rai
+   - rap
+   - rej
+   - rro
+   - rug
+   - sas
+   - sbl
+   - sda
+   - sgb
+   - sgz
+   - smk
+   - sml
+   - smo
+   - snc
+   - sps
+   - stn
+   - sun
+   - swp
+   - sxn
+   - tah
+   - tbc
+   - tbl
+   - tbo
+   - tet
+   - tgl
+   - tgo
+   - tgp
+   - tkl
+   - tlx
+   - tmw
+   - ton
+   - tpa
+   - tpz
+   - tte
+   - tuc
+   - tvl
+   - twb
+   - twu
+   - txa
+   - ubr
+   - uvl
+   - viv
+   - war
+   - wed
+   - wuv
+   - xsb
+   - xsi
+   - yml
+   - zlm
+   - zsm
+use-target-labels:
+training-data:
+   deu-aai: bible (126222) 
+   deu-ace: bible (191327) 
+   deu-agn: bible (194970) 
+   deu-aia: bible (244179) 
+   deu-alj: bible (125748) 
+   deu-alp: bible (125330) 
+   deu-amk: bible (126080) 
+   deu-apr: bible (123823) 
+   deu-atq: bible (125781) 
+   deu-aui: bible (13089) 
+   deu-ban: bible (160788) 
+   deu-bcl: bible (153205) 
+   deu-bep: bible (124691) 
+   deu-bhz: bible (124751) 
+   deu-bku: bible (125718) 
+   deu-blz: bible (247935) 
+   deu-bmk: bible (13049) 
+   deu-bnp: bible (198582) 
+   deu-bpr: bible (136310) 
+   deu-bps: bible (125662) 
+   deu-btd: bible (166261) 
+   deu-bth: bible (123397) 
+   deu-bto: bible (126193) 
+   deu-bts: bible (161659) 
+   deu-btx: bible (194556) 
+   deu-bug: bible (124532) 
+   deu-buk: bible (123694) 
+   deu-bzh: bible (172917) 
+   deu-ceb: Tatoeba-train-v2023-09-26.ceb-deu.strict (1163371) bible (1087140) 
+   deu-cgc: bible (125823) 
+   deu-cha: Tatoeba-train-v2023-09-26.cha-deu.strict (5479) bible (227326) 
+   deu-dad: bible (122734) 
+   deu-dob: bible (124964) 
+   deu-dtp: bible (123338) 
+   deu-dww: bible (125002) 
+   deu-emi: bible (55348) 
+   deu-far: bible (126084) 
+   deu-fij: bible (259962) 
+   deu-fil: bible (249075) 
+   deu-frd: bible (123083) 
+   deu-gfk: bible (120417) 
+   deu-gil: bible (248599) 
+   deu-gor: bible (251398) 
+   deu-haw: bible (114827) 
+   deu-hil: bible (176360) 
+   deu-hla: bible (122511) 
+   deu-hnn: bible (196142) 
+   deu-hot: bible (122090) 
+   deu-hvn: bible (125303) 
+   deu-iba: bible (133031) 
+   deu-ifa: bible (384763) 
+   deu-ifb: bible (433816) 
+   deu-ifk: bible (209663) 
+   deu-ifu: bible (232568) 
+   deu-ify: bible (697081) 
+   deu-ilo: Tatoeba-train-v2023-09-26.deu-ilo.strict (1162195) bible (124742) 
+   deu-ind: bible (1404039) 
+   deu-iry: bible (125456) 
+   deu-itv: bible (173952) 
+   deu-jav: Tatoeba-train-v2023-09-26.deu-jav.strict (710115) bible (370298) 
+   deu-jvn: bible (191001) 
+   deu-kbm: bible (123318) 
+   deu-khz: bible (126053) 
+   deu-kje: bible (125864) 
+   deu-kne: bible (125813) 
+   deu-kpg: bible (125912) 
+   deu-kqe: bible (126078) 
+   deu-kqf: bible (13129) 
+   deu-kqw: bible (44332) 
+   deu-krj: bible (192562) 
+   deu-kud: bible (125339) 
+   deu-kwf: bible (124949) 
+   deu-kzf: bible (202537) 
+   deu-law: bible (125492) 
+   deu-lcm: bible (143087) 
+   deu-leu: bible (124746) 
+   deu-lew: bible (126086) 
+   deu-lex: bible (126045) 
+   deu-lid: bible (143704) 
+   deu-ljp: bible (216223) 
+   deu-lnd: bible (379134) 
+   deu-mad: bible (479570) 
+   deu-mah: bible (384785) 
+   deu-mak: bible (240528) 
+   deu-mbb: bible (177790) 
+   deu-mbf: bible (126088) 
+   deu-mbt: bible (194520) 
+   deu-mee: bible (125385) 
+   deu-mek: bible (123253) 
+   deu-mhy: bible (125073) 
+   deu-mlg: bible (637015) 
+   deu-mmo: bible (126137) 
+   deu-mmx: bible (127664) 
+   deu-mna: bible (155248) 
+   deu-mnb: bible (172639) 
+   deu-mog: bible (203722) 
+   deu-mox: bible (124178) 
+   deu-mpx: bible (185272) 
+   deu-mqj: bible (117246) 
+   deu-mri: bible (385037) 
+   deu-mrw: bible (379792) 
+   deu-msa: Tatoeba-train-v2023-09-26.deu-msa.strict (22050495) bible (123106) 
+   deu-msm: bible (124084) 
+   deu-mta: bible (125169) 
+   deu-mva: bible (126148) 
+   deu-mvp: bible (236240) 
+   deu-mwc: bible (11346) 
+   deu-mwv: bible (251453) 
+   deu-myw: bible (106600) 
+   deu-mzz: bible (13089) 
+   deu-nak: bible (125187) 
+   deu-nia: bible (249972) 
+   deu-nij: bible (190046) 
+   deu-npy: bible (170973) 
+   deu-nsn: bible (125137) 
+   deu-nss: bible (30585) 
+   deu-nwi: bible (118078) 
+   deu-obo: bible (221158) 
+   deu-pag: Tatoeba-train-v2023-09-26.deu-pag.strict (142925) bible (136872) 
+   deu-pam: bible (139006) 
+   deu-pau: bible (125858) 
+   deu-plt: bible (511091) 
+   deu-plw: bible (126249) 
+   deu-pmf: bible (161838) 
+   deu-pne: bible (124242) 
+   deu-ppk: bible (248601) 
+   deu-prf: bible (181468) 
+   deu-ptp: bible (125680) 
+   deu-ptu: bible (259506) 
+   deu-pwg: bible (125700) 
+   deu-rai: bible (125142) 
+   deu-rej: bible (125894) 
+   deu-rro: bible (126140) 
+   deu-rug: bible (380507) 
+   deu-sas: bible (125335) 
+   deu-sbl: bible (125147) 
+   deu-sda: bible (227542) 
+   deu-sgb: bible (190972) 
+   deu-sgz: bible (123393) 
+   deu-smk: bible (115615) 
+   deu-sml: bible (126040) 
+   deu-smo: bible (242215) 
+   deu-snc: bible (125999) 
+   deu-sps: bible (128690) 
+   deu-stn: bible (138430) 
+   deu-sun: bible (187623) 
+   deu-swp: bible (157129) 
+   deu-sxn: bible (368241) 
+   deu-tbc: bible (124618) 
+   deu-tbl: bible (123850) 
+   deu-tbo: bible (125644) 
+   deu-tgl: Tatoeba-train-v2023-09-26.deu-tgl.strict (52441) bible (605950) 
+   deu-tgo: bible (126160) 
+   deu-tgp: bible (136625) 
+   deu-tlx: bible (126245) 
+   deu-tpa: bible (13163) 
+   deu-tpz: bible (124568) 
+   deu-tte: bible (122637) 
+   deu-tuc: bible (150754) 
+   deu-twb: bible (126146) 
+   deu-twu: bible (208846) 
+   deu-txa: bible (126093) 
+   deu-ubr: bible (142588) 
+   deu-uvl: bible (125427) 
+   deu-viv: bible (119463) 
+   deu-war: Tatoeba-train-v2023-09-26.deu-war.strict (238916) bible (125639) 
+   deu-wed: bible (26275) 
+   deu-wuv: bible (126032) 
+   deu-xsb: bible (252087) 
+   deu-xsi: bible (126960) 
+   deu-yml: bible (116202) 
+   eng-aai: bible (168266) 
+   eng-ace: Tatoeba-train-v2023-09-26.ace-eng.strict (2188810) bible (255450) 
+   eng-agn: bible (259919) 
+   eng-aia: bible (325605) 
+   eng-alj: bible (167812) 
+   eng-alp: bible (167063) 
+   eng-amk: bible (168015) 
+   eng-apr: bible (165149) 
+   eng-atq: bible (167651) 
+   eng-aui: bible (16999) 
+   eng-ban: Tatoeba-train-v2023-09-26.ban-eng.strict (290425) bible (214560) 
+   eng-bcl: Tatoeba-train-v2023-09-26.bcl-eng.strict (10917) bible (204239) 
+   eng-bep: bible (166342) 
+   eng-bhz: bible (166312) 
+   eng-bik: Tatoeba-train-v2023-09-26.bik-eng.strict (440102) 
+   eng-bku: bible (167682) 
+   eng-blz: bible (330665) 
+   eng-bmk: bible (16951) 
+   eng-bnp: bible (192265) 
+   eng-bpr: bible (181678) 
+   eng-bps: bible (167564) 
+   eng-btd: bible (221808) 
+   eng-bth: bible (164663) 
+   eng-bto: bible (168236) 
+   eng-bts: bible (215556) 
+   eng-btx: bible (259770) 
+   eng-bug: Tatoeba-train-v2023-09-26.bug-eng.strict (1132285) bible (166094) 
+   eng-buk: bible (164967) 
+   eng-bzh: bible (230636) 
+   eng-ceb: Tatoeba-train-v2023-09-26.ceb-eng.strict (12569788) wikipedia.aa (984343) wikipedia.ab (984394) wikipedia.ac (984601) wikipedia.ad (984409) wikipedia.ae (984446) wikipedia.af (984458) wikipedia.ag (984537) wikipedia.ah (984602) wikipedia.ai (984590) wikipedia.aj (984489) wikipedia.ak (984453) wikipedia.al (984435) wikipedia.am (984437) wikipedia.an (984393) wikipedia.ao (984372) wikipedia.ap (984570) wikipedia.aq (476640) bible (969460) 
+   eng-cgc: bible (167772) 
+   eng-cha: Tatoeba-train-v2023-09-26.cha-eng.strict (11857) wiki.aa (991) bible (272061) 
+   eng-dad: bible (163893) 
+   eng-dob: bible (166644) 
+   eng-dtp: bible (164545) 
+   eng-dww: bible (166665) 
+   eng-emi: bible (72233) 
+   eng-far: bible (168061) 
+   eng-fij: Tatoeba-train-v2023-09-26.eng-fij.strict (3896660) wiki.aa.fij-eng (2460) bible (346320) 
+   eng-fil: Tatoeba-train-v2023-09-26.eng-fil.strict (41496) bible (332537) 
+   eng-frd: bible (164134) 
+   eng-gfk: bible (160596) 
+   eng-gil: Tatoeba-train-v2023-09-26.eng-gil.strict (200210) bible (331608) 
+   eng-gor: bible (335213) 
+   eng-haw: wiki.aa.haw-eng (8344) bible (153837) 
+   eng-hil: Tatoeba-train-v2023-09-26.eng-hil.strict (807212) bible (235215) 
+   eng-hla: bible (163336) 
+   eng-hnn: bible (261619) 
+   eng-hot: bible (162765) 
+   eng-hvn: bible (167135) 
+   eng-iba: Tatoeba-train-v2023-09-26.eng-iba.strict (34450) bible (177430) 
+   eng-ifa: bible (258989) 
+   eng-ifb: bible (324016) 
+   eng-ifk: bible (279960) 
+   eng-ifu: bible (310362) 
+   eng-ify: bible (471498) 
+   eng-ilo: Tatoeba-train-v2023-09-26.eng-ilo.strict (1790720) wiki.aa.ilo-eng (87459) bible (166496) 
+   eng-ind: wikibooks.aa.ind-eng (76707) wikipedia.aa.ind-eng (982337) wikipedia.ab.ind-eng (982185) wikipedia.ac.ind-eng (982572) wikipedia.ad.ind-eng (982368) wikipedia.ae.ind-eng (982630) wikipedia.af.ind-eng (696037) wikiquote.aa.ind-eng (16480) wikisource.aa.ind-eng (229946) bible (1366840) 
+   eng-iry: bible (167372) 
+   eng-itv: bible (232120) 
+   eng-jak_Latn: Tatoeba-train-v2023-09-26.eng-jak_Latn.strict (13194) 
+   eng-jav: Tatoeba-train-v2023-09-26.eng-jav.strict (16336018) wiki.aa.jav-eng (301137) bible (493679) 
+   eng-jav_Java: Tatoeba-train-v2023-09-26.eng-jav_Java.strict (6) 
+   eng-jvn: bible (255045) 
+   eng-kbm: bible (164531) 
+   eng-khz: bible (167998) 
+   eng-kje: bible (167864) 
+   eng-kne: bible (167701) 
+   eng-kpg: bible (167873) 
+   eng-kqe: bible (168037) 
+   eng-kqf: bible (17057) 
+   eng-kqw: bible (57667) 
+   eng-krj: bible (256694) 
+   eng-kud: bible (167133) 
+   eng-kwf: bible (166650) 
+   eng-kzf: bible (270095) 
+   eng-law: bible (167403) 
+   eng-lcm: bible (172662) 
+   eng-leu: bible (166331) 
+   eng-lew: bible (168083) 
+   eng-lex: bible (167967) 
+   eng-lid: bible (173597) 
+   eng-ljp: bible (288888) 
+   eng-lnd: bible (257160) 
+   eng-mad: bible (404922) 
+   eng-mah: Tatoeba-train-v2023-09-26.eng-mah.strict (148803) wiki.aa.mah-eng (25) bible (259160) 
+   eng-mak: bible (321251) 
+   eng-mbb: bible (237387) 
+   eng-mbf: bible (168076) 
+   eng-mbt: bible (259669) 
+   eng-mee: bible (167250) 
+   eng-mek: bible (164316) 
+   eng-mhy: bible (166804) 
+   eng-mlg: Tatoeba-train-v2023-09-26.eng-mlg.strict (5386514) wiki.aa.mlg-eng (232341) wikibooks.aa.mlg-eng (320) bible (593591) 
+   eng-mmo: bible (168112) 
+   eng-mmx: bible (168468) 
+   eng-mna: bible (171773) 
+   eng-mnb: bible (230459) 
+   eng-mog: bible (271962) 
+   eng-mox: bible (165545) 
+   eng-mpx: bible (205375) 
+   eng-mqj: bible (154860) 
+   eng-mri: Tatoeba-train-v2023-09-26.eng-mri.strict (5498985) wiki.aa.mri-eng (11092) bible (259166) 
+   eng-mrw: bible (257143) 
+   eng-msa: Tatoeba-train-v2023-09-26.eng-msa.strict (50000000) wiki.aa.msa-eng (979954) wiki.ab.msa-eng (692436) wikibooks.aa.msa-eng (6784) bible (164309) 
+   eng-msa_Arab: Tatoeba-train-v2023-09-26.eng-msa_Arab.strict (12) 
+   eng-msa_Latn: Tatoeba-train-v2023-09-26.eng-msa_Latn.strict (49937785) 
+   eng-msm: bible (165506) 
+   eng-mta: bible (166826) 
+   eng-mva: bible (168182) 
+   eng-mvp: bible (315172) 
+   eng-mwc: bible (14377) 
+   eng-mwv: bible (335251) 
+   eng-myw: bible (142492) 
+   eng-mzz: bible (17002) 
+   eng-nak: bible (166857) 
+   eng-nau: wiki.aa.nau-eng (1513) wikibooks.aa.nau-eng (3) 
+   eng-nia: Tatoeba-train-v2023-09-26.eng-nia.strict (30367) bible (333558) 
+   eng-nij: bible (253295) 
+   eng-niu: Tatoeba-train-v2023-09-26.eng-niu.strict (213845) 
+   eng-npy: bible (228216) 
+   eng-nsn: bible (166858) 
+   eng-nss: bible (23582) 
+   eng-nwi: bible (157711) 
+   eng-obo: bible (294852) 
+   eng-pag: Tatoeba-train-v2023-09-26.eng-pag.strict (1772999) wiki.aa.pag-eng (3278) bible (182653) 
+   eng-pam: Tatoeba-train-v2023-09-26.eng-pam.strict (30) bible (185287) 
+   eng-pau: bible (167870) 
+   eng-plt: Tatoeba-train-v2023-09-26.eng-plt.strict (30834) bible (425672) 
+   eng-plw: bible (168279) 
+   eng-pmf: bible (215836) 
+   eng-pne: bible (165706) 
+   eng-ppk: Tatoeba-train-v2023-09-26.eng-ppk.strict (13521) bible (331459) 
+   eng-prf: bible (242220) 
+   eng-ptp: bible (167528) 
+   eng-ptu: bible (329267) 
+   eng-pwg: bible (167643) 
+   eng-rai: bible (166850) 
+   eng-rej: bible (167907) 
+   eng-rro: bible (168146) 
+   eng-rug: bible (257563) 
+   eng-sas: bible (167175) 
+   eng-sbl: bible (166819) 
+   eng-sda: bible (303621) 
+   eng-sgb: bible (255135) 
+   eng-sgz: bible (164582) 
+   eng-smk: bible (154578) 
+   eng-sml: bible (168096) 
+   eng-smo: Tatoeba-train-v2023-09-26.eng-smo.strict (6350538) wiki.aa.smo-eng (4220) bible (323261) 
+   eng-snc: bible (167926) 
+   eng-sps: bible (168494) 
+   eng-stn: bible (184665) 
+   eng-sun: Tatoeba-train-v2023-09-26.eng-sun.strict (7880518) wiki.aa.sun-eng (179692) wikibooks.aa.sun-eng (96) wikiquote.aa.sun-eng (2429) bible (250385) 
+   eng-swp: bible (178537) 
+   eng-sxn: bible (491331) 
+   eng-tah: Tatoeba-train-v2023-09-26.eng-tah.strict (545947) wiki.aa.tah-eng (934) 
+   eng-tbc: bible (166389) 
+   eng-tbl: bible (165244) 
+   eng-tbo: bible (167501) 
+   eng-tet: wiki.aa.tet-eng (5602) 
+   eng-tgl: Tatoeba-train-v2023-09-26.eng-tgl.strict (244269) wiki.aa.tgl-eng (347086) wikibooks.aa.tgl-eng (9385) bible (554163) 
+   eng-tgl_Latn: Tatoeba-train-v2023-09-26.eng-tgl_Latn.strict (31434407) 
+   eng-tgl_Tglg: Tatoeba-train-v2023-09-26.eng-tgl_Tglg.strict (32) 
+   eng-tgo: bible (168168) 
+   eng-tgp: bible (181847) 
+   eng-tlx: bible (168294) 
+   eng-ton: Tatoeba-train-v2023-09-26.eng-ton.strict (323472) wiki.aa.ton-eng (2574) 
+   eng-tpa: bible (17104) 
+   eng-tpz: bible (166092) 
+   eng-tte: bible (163565) 
+   eng-tuc: bible (200983) 
+   eng-tvl: Tatoeba-train-v2023-09-26.eng-tvl.strict (171709) 
+   eng-twb: bible (168124) 
+   eng-twu: bible (278885) 
+   eng-txa: bible (168092) 
+   eng-ubr: bible (173421) 
+   eng-uvl: bible (167222) 
+   eng-viv: bible (159291) 
+   eng-war: Tatoeba-train-v2023-09-26.eng-war.strict (2696491) wiki.aa.war-eng (962869) wiki.ab.war-eng (962982) wiki.ac.war-eng (121870) bible (167590) 
+   eng-wed: bible (34131) 
+   eng-wuv: bible (168096) 
+   eng-xsb: bible (336029) 
+   eng-xsi: bible (167556) 
+   eng-yml: bible (155025) 
+   fra-aai: bible (104372) 
+   fra-ace: bible (158230) 
+   fra-agn: bible (161263) 
+   fra-aia: bible (201901) 
+   fra-alj: bible (103938) 
+   fra-alp: bible (103637) 
+   fra-amk: bible (104225) 
+   fra-apr: bible (102353) 
+   fra-atq: bible (103985) 
+   fra-aui: bible (10559) 
+   fra-ban: bible (133028) 
+   fra-bcl: bible (126815) 
+   fra-bep: bible (103067) 
+   fra-bhz: bible (103137) 
+   fra-bku: bible (103921) 
+   fra-blz: bible (204949) 
+   fra-bmk: bible (10527) 
+   fra-bnp: bible (175269) 
+   fra-bpr: bible (112691) 
+   fra-bps: bible (103909) 
+   fra-btd: bible (137567) 
+   fra-bth: bible (102119) 
+   fra-bto: bible (104337) 
+   fra-bts: bible (133604) 
+   fra-btx: bible (160931) 
+   fra-bug: bible (102962) 
+   fra-buk: bible (102287) 
+   fra-bzh: bible (142974) 
+   fra-ceb: Tatoeba-train-v2023-09-26.ceb-fra.strict (891388) bible (981091) 
+   fra-cgc: bible (104018) 
+   fra-cha: Tatoeba-train-v2023-09-26.cha-fra.strict (5480) bible (190820) 
+   fra-dad: bible (101475) 
+   fra-dob: bible (103303) 
+   fra-dtp: bible (102037) 
+   fra-dww: bible (103356) 
+   fra-emi: bible (45905) 
+   fra-far: bible (104247) 
+   fra-fij: Tatoeba-train-v2023-09-26.fij-fra.strict (334856) bible (214818) 
+   fra-fil: bible (205984) 
+   fra-frd: bible (101785) 
+   fra-gfk: bible (99580) 
+   fra-gil: bible (205491) 
+   fra-gor: bible (207863) 
+   fra-haw: bible (95210) 
+   fra-hil: bible (145860) 
+   fra-hla: bible (101324) 
+   fra-hnn: bible (162299) 
+   fra-hot: bible (100910) 
+   fra-hvn: bible (103613) 
+   fra-iba: Tatoeba-train-v2023-09-26.fra-iba.strict (21130) bible (109975) 
+   fra-ifa: bible (361474) 
+   fra-ifb: bible (402056) 
+   fra-ifk: bible (173498) 
+   fra-ifu: bible (192394) 
+   fra-ify: bible (653919) 
+   fra-ilo: Tatoeba-train-v2023-09-26.fra-ilo.strict (809082) bible (103125) 
+   fra-ind: bible (1246460) 
+   fra-iry: bible (103722) 
+   fra-itv: bible (144007) 
+   fra-jav: Tatoeba-train-v2023-09-26.fra-jav.strict (319454) bible (306363) 
+   fra-jvn: bible (158057) 
+   fra-kbm: bible (101987) 
+   fra-khz: bible (104202) 
+   fra-kje: bible (104041) 
+   fra-kne: bible (104011) 
+   fra-kpg: bible (104111) 
+   fra-kqe: bible (104227) 
+   fra-kqf: bible (10592) 
+   fra-kqw: bible (35971) 
+   fra-krj: bible (159325) 
+   fra-kud: bible (103642) 
+   fra-kwf: bible (103304) 
+   fra-kzf: bible (167148) 
+   fra-law: bible (103748) 
+   fra-lcm: bible (121285) 
+   fra-leu: bible (103126) 
+   fra-lew: bible (104247) 
+   fra-lex: bible (104200) 
+   fra-lid: bible (121742) 
+   fra-ljp: bible (178787) 
+   fra-lnd: bible (355839) 
+   fra-mad: bible (436217) 
+   fra-mah: bible (361438) 
+   fra-mak: bible (198873) 
+   fra-mbb: bible (147111) 
+   fra-mbf: bible (104223) 
+   fra-mbt: bible (160979) 
+   fra-mee: bible (103648) 
+   fra-mek: bible (101878) 
+   fra-mhy: bible (103409) 
+   fra-mlg: Tatoeba-train-v2023-09-26.fra-mlg.strict (4332079) bible (569219) 
+   fra-mmo: bible (104285) 
+   fra-mmx: bible (105741) 
+   fra-mna: bible (134976) 
+   fra-mnb: bible (142932) 
+   fra-mog: bible (168406) 
+   fra-mox: bible (102660) 
+   fra-mpx: bible (159527) 
+   fra-mqj: bible (96363) 
+   fra-mri: bible (361723) 
+   fra-mrw: bible (356561) 
+   fra-msa: Tatoeba-train-v2023-09-26.fra-msa.strict (23494903) bible (101862) 
+   fra-msm: bible (102593) 
+   fra-mta: bible (103467) 
+   fra-mva: bible (104308) 
+   fra-mvp: bible (195385) 
+   fra-mwc: bible (9100) 
+   fra-mwv: bible (207896) 
+   fra-myw: bible (88232) 
+   fra-mzz: bible (10561) 
+   fra-nak: bible (103491) 
+   fra-nia: bible (206683) 
+   fra-nij: bible (156976) 
+   fra-npy: bible (141317) 
+   fra-nsn: bible (103468) 
+   fra-nss: bible (27716) 
+   fra-nwi: bible (97586) 
+   fra-obo: bible (182962) 
+   fra-pag: Tatoeba-train-v2023-09-26.fra-pag.strict (139441) bible (113307) 
+   fra-pam: bible (115066) 
+   fra-pau: bible (104052) 
+   fra-plt: Tatoeba-train-v2023-09-26.fra-plt.strict (15279) bible (465134) 
+   fra-plw: bible (104385) 
+   fra-pmf: bible (133871) 
+   fra-pne: bible (102823) 
+   fra-ppk: bible (205481) 
+   fra-prf: bible (150043) 
+   fra-ptp: bible (103916) 
+   fra-ptu: bible (217281) 
+   fra-pwg: bible (103917) 
+   fra-rai: bible (103438) 
+   fra-rej: bible (104094) 
+   fra-rro: bible (104292) 
+   fra-rug: bible (357261) 
+   fra-sas: bible (103628) 
+   fra-sbl: bible (103461) 
+   fra-sda: bible (188218) 
+   fra-sgb: bible (158220) 
+   fra-sgz: bible (102066) 
+   fra-smk: bible (95601) 
+   fra-sml: bible (104222) 
+   fra-smo: Tatoeba-train-v2023-09-26.fra-smo.strict (340810) bible (200263) 
+   fra-snc: bible (104166) 
+   fra-sps: bible (106824) 
+   fra-stn: bible (114469) 
+   fra-sun: bible (155135) 
+   fra-swp: bible (134645) 
+   fra-sxn: bible (304540) 
+   fra-tah: Tatoeba-train-v2023-09-26.fra-tah.strict (514415) 
+   fra-tbc: bible (103019) 
+   fra-tbl: bible (102467) 
+   fra-tbo: bible (103850) 
+   fra-tgl: Tatoeba-train-v2023-09-26.fra-tgl.strict (53042) bible (544474) 
+   fra-tgo: bible (104290) 
+   fra-tgp: bible (112869) 
+   fra-tlx: bible (104392) 
+   fra-ton: Tatoeba-train-v2023-09-26.fra-ton.strict (303967) 
+   fra-tpa: bible (10623) 
+   fra-tpz: bible (102974) 
+   fra-tte: bible (101424) 
+   fra-tuc: bible (124398) 
+   fra-twb: bible (104281) 
+   fra-twu: bible (172895) 
+   fra-txa: bible (104245) 
+   fra-ubr: bible (120626) 
+   fra-uvl: bible (103701) 
+   fra-viv: bible (98781) 
+   fra-war: Tatoeba-train-v2023-09-26.fra-war.strict (235888) bible (103903) 
+   fra-wed: bible (21200) 
+   fra-wuv: bible (104187) 
+   fra-xsb: bible (208397) 
+   fra-xsi: bible (105130) 
+   fra-yml: bible (96154) 
+   por-aai: bible (49568) 
+   por-ace: bible (75212) 
+   por-agn: bible (76542) 
+   por-aia: bible (95857) 
+   por-alj: bible (49371) 
+   por-alp: bible (49190) 
+   por-amk: bible (49483) 
+   por-apr: bible (48612) 
+   por-atq: bible (49381) 
+   por-aui: bible (5213) 
+   por-ban: bible (63157) 
+   por-bcl: bible (60178) 
+   por-bep: bible (48978) 
+   por-bhz: bible (49011) 
+   por-bku: bible (49381) 
+   por-blz: bible (97364) 
+   por-bmk: bible (5197) 
+   por-bnp: bible (68318) 
+   por-bpr: bible (53606) 
+   por-bps: bible (49352) 
+   por-btd: bible (65331) 
+   por-bth: bible (48526) 
+   por-bto: bible (49549) 
+   por-bts: bible (63473) 
+   por-btx: bible (76401) 
+   por-bug: bible (48934) 
+   por-buk: bible (48588) 
+   por-bzh: bible (67859) 
+   por-ceb: Tatoeba-train-v2023-09-26.ceb-por.strict (933545) bible (364319) 
+   por-cgc: bible (49400) 
+   por-cha: bible (85613) 
+   por-dad: bible (48265) 
+   por-dob: bible (49062) 
+   por-dtp: bible (48485) 
+   por-dww: bible (49080) 
+   por-emi: bible (21447) 
+   por-far: bible (49493) 
+   por-fij: bible (102108) 
+   por-fil: bible (97865) 
+   por-frd: bible (48385) 
+   por-gfk: bible (47324) 
+   por-gil: bible (97610) 
+   por-gor: bible (98744) 
+   por-haw: bible (45102) 
+   por-hil: bible (69317) 
+   por-hla: bible (48155) 
+   por-hnn: bible (77318) 
+   por-hot: bible (47953) 
+   por-hvn: bible (49237) 
+   por-iba: bible (52247) 
+   por-ifa: bible (117810) 
+   por-ifb: bible (137091) 
+   por-ifk: bible (82538) 
+   por-ifu: bible (91354) 
+   por-ify: bible (213450) 
+   por-ilo: bible (49001) 
+   por-ind: bible (485124) 
+   por-iry: bible (49276) 
+   por-itv: bible (68303) 
+   por-jak_Latn: Tatoeba-train-v2023-09-26.jak_Latn-por.strict (3276) 
+   por-jav: bible (145452) 
+   por-jvn: bible (75115) 
+   por-kbm: bible (48456) 
+   por-khz: bible (49502) 
+   por-kje: bible (49421) 
+   por-kne: bible (49386) 
+   por-kpg: bible (49460) 
+   por-kqe: bible (49495) 
+   por-kqf: bible (5229) 
+   por-kqw: bible (17496) 
+   por-krj: bible (75713) 
+   por-kud: bible (49226) 
+   por-kwf: bible (49063) 
+   por-kzf: bible (79735) 
+   por-law: bible (49289) 
+   por-lcm: bible (53801) 
+   por-leu: bible (49020) 
+   por-lew: bible (49505) 
+   por-lex: bible (49481) 
+   por-lid: bible (54050) 
+   por-ljp: bible (85065) 
+   por-lnd: bible (116256) 
+   por-mad: bible (157459) 
+   por-mah: bible (117774) 
+   por-mak: bible (94567) 
+   por-mbb: bible (70009) 
+   por-mbf: bible (49508) 
+   por-mbt: bible (76386) 
+   por-mee: bible (49240) 
+   por-mek: bible (48404) 
+   por-mhy: bible (49144) 
+   por-mlg: bible (216329) 
+   por-mmo: bible (49531) 
+   por-mmx: bible (49882) 
+   por-mna: bible (56538) 
+   por-mnb: bible (67843) 
+   por-mog: bible (80154) 
+   por-mox: bible (48768) 
+   por-mpx: bible (67190) 
+   por-mqj: bible (45536) 
+   por-mri: bible (117850) 
+   por-mrw: bible (116402) 
+   por-msa: Tatoeba-train-v2023-09-26.msa-por.strict (24717244) bible (48421) 
+   por-msa_Arab: Tatoeba-train-v2023-09-26.msa_Arab-por.strict (1) 
+   por-msa_Latn: Tatoeba-train-v2023-09-26.msa_Latn-por.strict (25125296) 
+   por-msm: bible (48717) 
+   por-mta: bible (49140) 
+   por-mva: bible (49541) 
+   por-mvp: bible (92781) 
+   por-mwc: bible (4437) 
+   por-mwv: bible (98760) 
+   por-myw: bible (41941) 
+   por-mzz: bible (5213) 
+   por-nak: bible (49166) 
+   por-nia: bible (98233) 
+   por-nij: bible (74741) 
+   por-npy: bible (67098) 
+   por-nsn: bible (49141) 
+   por-nss: bible (9878) 
+   por-nwi: bible (46478) 
+   por-obo: bible (86890) 
+   por-pag: bible (53737) 
+   por-pam: bible (54551) 
+   por-pau: bible (49438) 
+   por-plt: bible (166915) 
+   por-plw: bible (49572) 
+   por-pmf: bible (63572) 
+   por-pne: bible (48848) 
+   por-ppk: bible (97590) 
+   por-prf: bible (71487) 
+   por-ptp: bible (49356) 
+   por-ptu: bible (99680) 
+   por-pwg: bible (49350) 
+   por-rai: bible (49126) 
+   por-rej: bible (49456) 
+   por-rro: bible (49531) 
+   por-rug: bible (116640) 
+   por-sas: bible (49239) 
+   por-sbl: bible (49143) 
+   por-sda: bible (89383) 
+   por-sgb: bible (74942) 
+   por-sgz: bible (48483) 
+   por-smk: bible (45542) 
+   por-sml: bible (49509) 
+   por-smo: bible (95242) 
+   por-snc: bible (49479) 
+   por-sps: bible (50132) 
+   por-stn: bible (54294) 
+   por-sun: bible (73755) 
+   por-swp: bible (57564) 
+   por-sxn: bible (144729) 
+   por-tbc: bible (48964) 
+   por-tbl: bible (48664) 
+   por-tbo: bible (49331) 
+   por-tgl: Tatoeba-train-v2023-09-26.por-tgl.strict (45170) bible (204689) 
+   por-tgo: bible (49519) 
+   por-tgp: bible (53519) 
+   por-tlx: bible (49576) 
+   por-tpa: bible (5247) 
+   por-tpz: bible (48916) 
+   por-tte: bible (48183) 
+   por-tuc: bible (59777) 
+   por-twb: bible (49527) 
+   por-twu: bible (81950) 
+   por-txa: bible (49507) 
+   por-ubr: bible (53805) 
+   por-uvl: bible (49254) 
+   por-viv: bible (46968) 
+   por-war: bible (49357) 
+   por-wed: bible (10466) 
+   por-wuv: bible (49472) 
+   por-xsb: bible (98973) 
+   por-xsi: bible (49604) 
+   por-yml: bible (45692) 
+   spa-aai: bible (50096) 
+   spa-ace: bible (75965) 
+   spa-agn: bible (77282) 
+   spa-aia: bible (96902) 
+   spa-alj: bible (49945) 
+   spa-alp: bible (49750) 
+   spa-amk: bible (50008) 
+   spa-apr: bible (49188) 
+   spa-atq: bible (49902) 
+   spa-aui: bible (5067) 
+   spa-ban: bible (63785) 
+   spa-bcl: bible (60786) 
+   spa-bep: bible (49513) 
+   spa-bhz: bible (49529) 
+   spa-bku: bible (49913) 
+   spa-blz: bible (98352) 
+   spa-bmk: bible (5051) 
+   spa-bnp: bible (49620) 
+   spa-bpr: bible (54102) 
+   spa-bps: bible (49890) 
+   spa-btd: bible (65929) 
+   spa-bth: bible (49015) 
+   spa-bto: bible (50075) 
+   spa-bts: bible (64085) 
+   spa-btx: bible (77222) 
+   spa-bug: bible (49450) 
+   spa-buk: bible (49129) 
+   spa-bzh: bible (68562) 
+   spa-ceb: Tatoeba-train-v2023-09-26.ceb-spa.strict (898413) bible (236940) 
+   spa-cgc: bible (49912) 
+   spa-cha: bible (78508) 
+   spa-dad: bible (48737) 
+   spa-dob: bible (49626) 
+   spa-dtp: bible (48979) 
+   spa-dww: bible (49634) 
+   spa-emi: bible (21293) 
+   spa-far: bible (50041) 
+   spa-fij: bible (103081) 
+   spa-fil: bible (98966) 
+   spa-frd: bible (48911) 
+   spa-gfk: bible (47906) 
+   spa-gil: bible (98675) 
+   spa-gor: bible (99785) 
+   spa-haw: bible (45711) 
+   spa-hil: bible (69988) 
+   spa-hla: bible (48676) 
+   spa-hnn: bible (77867) 
+   spa-hot: bible (48463) 
+   spa-hvn: bible (49756) 
+   spa-iba: bible (52787) 
+   spa-ifa: bible (49987) 
+   spa-ifb: bible (69381) 
+   spa-ifk: bible (83216) 
+   spa-ifu: bible (92316) 
+   spa-ify: bible (91517) 
+   spa-ilo: bible (49557) 
+   spa-ind: bible (352474) 
+   spa-iry: bible (49819) 
+   spa-itv: bible (69009) 
+   spa-jak_Latn: Tatoeba-train-v2023-09-26.jak_Latn-spa.strict (3324) 
+   spa-jav: Tatoeba-train-v2023-09-26.jav-spa.strict (371422) bible (146974) 
+   spa-jvn: bible (75861) 
+   spa-kbm: bible (48970) 
+   spa-khz: bible (50019) 
+   spa-kje: bible (49961) 
+   spa-kne: bible (49917) 
+   spa-kpg: bible (49986) 
+   spa-kqe: bible (50016) 
+   spa-kqf: bible (5082) 
+   spa-kqw: bible (17398) 
+   spa-krj: bible (76403) 
+   spa-kud: bible (49772) 
+   spa-kwf: bible (49633) 
+   spa-kzf: bible (80344) 
+   spa-law: bible (49830) 
+   spa-lcm: bible (49559) 
+   spa-leu: bible (49527) 
+   spa-lew: bible (50031) 
+   spa-lex: bible (50014) 
+   spa-lid: bible (49753) 
+   spa-ljp: bible (85769) 
+   spa-lnd: bible (50092) 
+   spa-mad: bible (95531) 
+   spa-mah: bible (50087) 
+   spa-mak: bible (95510) 
+   spa-mbb: bible (70614) 
+   spa-mbf: bible (50021) 
+   spa-mbt: bible (77243) 
+   spa-mee: bible (49757) 
+   spa-mek: bible (48997) 
+   spa-mhy: bible (49662) 
+   spa-mlg: bible (149783) 
+   spa-mmo: bible (50049) 
+   spa-mmx: bible (49994) 
+   spa-mna: bible (47345) 
+   spa-mnb: bible (68545) 
+   spa-mog: bible (80745) 
+   spa-mox: bible (49314) 
+   spa-mpx: bible (56746) 
+   spa-mqj: bible (46011) 
+   spa-mri: bible (50063) 
+   spa-mrw: bible (50011) 
+   spa-msa: Tatoeba-train-v2023-09-26.msa-spa.strict (28381273) bible (48892) 
+   spa-msa_Latn: Tatoeba-train-v2023-09-26.msa_Latn-spa.strict (28671142) 
+   spa-msm: bible (49285) 
+   spa-mta: bible (49669) 
+   spa-mva: bible (50067) 
+   spa-mvp: bible (93756) 
+   spa-mwc: bible (4358) 
+   spa-mwv: bible (99796) 
+   spa-myw: bible (42469) 
+   spa-mzz: bible (5068) 
+   spa-nak: bible (49694) 
+   spa-nia: bible (99293) 
+   spa-nij: bible (75224) 
+   spa-npy: bible (67876) 
+   spa-nsn: bible (49690) 
+   spa-nss: bible (5230) 
+   spa-nwi: bible (46953) 
+   spa-obo: bible (87754) 
+   spa-pag: bible (54306) 
+   spa-pam: bible (55143) 
+   spa-pau: bible (49950) 
+   spa-plt: bible (99825) 
+   spa-plw: bible (50102) 
+   spa-pmf: bible (64230) 
+   spa-pne: bible (49346) 
+   spa-ppk: bible (98609) 
+   spa-prf: bible (71929) 
+   spa-ptp: bible (49894) 
+   spa-ptu: bible (96243) 
+   spa-pwg: bible (49917) 
+   spa-rai: bible (49680) 
+   spa-rej: bible (49974) 
+   spa-rro: bible (50058) 
+   spa-rug: bible (50041) 
+   spa-sas: bible (49762) 
+   spa-sbl: bible (49672) 
+   spa-sda: bible (90287) 
+   spa-sgb: bible (75787) 
+   spa-sgz: bible (49009) 
+   spa-smk: bible (45959) 
+   spa-sml: bible (50031) 
+   spa-smo: bible (96186) 
+   spa-snc: bible (49995) 
+   spa-sps: bible (49851) 
+   spa-stn: bible (54921) 
+   spa-sun: bible (74422) 
+   spa-swp: bible (49906) 
+   spa-sxn: bible (146213) 
+   spa-tbc: bible (49509) 
+   spa-tbl: bible (49189) 
+   spa-tbo: bible (49862) 
+   spa-tgl: Tatoeba-train-v2023-09-26.spa-tgl.strict (61032) bible (137805) 
+   spa-tgo: bible (50063) 
+   spa-tgp: bible (54052) 
+   spa-tlx: bible (50107) 
+   spa-ton: Tatoeba-train-v2023-09-26.spa-ton.strict (303850) 
+   spa-tpa: bible (5092) 
+   spa-tpz: bible (49453) 
+   spa-tte: bible (48737) 
+   spa-tuc: bible (59729) 
+   spa-twb: bible (50049) 
+   spa-twu: bible (82899) 
+   spa-txa: bible (50034) 
+   spa-ubr: bible (49820) 
+   spa-uvl: bible (49794) 
+   spa-viv: bible (47478) 
+   spa-war: bible (49884) 
+   spa-wed: bible (10172) 
+   spa-wuv: bible (50034) 
+   spa-xsb: bible (100025) 
+   spa-xsi: bible (49737) 
+   spa-yml: bible (46207) 
+validation-data:
+   ceb-deu: Tatoeba-dev-v2023-09-26, 941
+   cha-deu: Tatoeba-dev-v2023-09-26, 1000
+   deu-ilo: Tatoeba-dev-v2023-09-26, 1000
+   deu-jav: Tatoeba-dev-v2023-09-26, 1000
+   deu-msa: Tatoeba-dev-v2023-09-26, 983
+   deu-pag: Tatoeba-dev-v2023-09-26, 1000
+   deu-tgl: Tatoeba-dev-v2023-09-26, 11
+   deu-war: Tatoeba-dev-v2023-09-26, 1000
+   ace-eng: Tatoeba-dev-v2023-09-26, 1000
+   ban-eng: Tatoeba-dev-v2023-09-26, 1000
+   bcl-eng: Tatoeba-dev-v2023-09-26, 26
+   bik-eng: Tatoeba-dev-v2023-09-26, 974
+   bug-eng: Tatoeba-dev-v2023-09-26, 1000
+   ceb-eng: Tatoeba-dev-v2023-09-26, 980
+   cha-eng: Tatoeba-dev-v2023-09-26, 991
+   dtp-eng: Tatoeba-dev-v2023-09-26, 1288
+   eng-fij: Tatoeba-dev-v2023-09-26, 1000
+   eng-fil: Tatoeba-dev-v2023-09-26, 1000
+   eng-gil: Tatoeba-dev-v2023-09-26, 1000
+   eng-gor: Tatoeba-dev-v2023-09-26, 564
+   eng-haw: Tatoeba-dev-v2023-09-26, 334
+   eng-hil: Tatoeba-dev-v2023-09-26, 1000
+   eng-iba: Tatoeba-dev-v2023-09-26, 1000
+   eng-ilo: Tatoeba-dev-v2023-09-26, 955
+   eng-jav: Tatoeba-dev-v2023-09-26, 938
+   eng-mad: Tatoeba-dev-v2023-09-26, 132
+   eng-mah: Tatoeba-dev-v2023-09-26, 1000
+   eng-mlg: Tatoeba-dev-v2023-09-26, 990
+   eng-mri: Tatoeba-dev-v2023-09-26, 954
+   eng-msa: Tatoeba-dev-v2023-09-26, 7426
+   eng-nia: Tatoeba-dev-v2023-09-26, 1000
+   eng-niu: Tatoeba-dev-v2023-09-26, 1000
+   eng-pag: Tatoeba-dev-v2023-09-26, 1000
+   eng-pam: Tatoeba-dev-v2023-09-26, 481
+   eng-plt: Tatoeba-dev-v2023-09-26, 10
+   eng-ppk: Tatoeba-dev-v2023-09-26, 1000
+   eng-sml: Tatoeba-dev-v2023-09-26, 15
+   eng-smo: Tatoeba-dev-v2023-09-26, 1000
+   eng-sun: Tatoeba-dev-v2023-09-26, 1000
+   eng-tah: Tatoeba-dev-v2023-09-26, 1000
+   eng-tet: Tatoeba-dev-v2023-09-26, 575
+   eng-tgl: Tatoeba-dev-v2023-09-26, 2
+   eng-tgl_Latn: Tatoeba-dev-v2023-09-26, 4732
+   eng-ton: Tatoeba-dev-v2023-09-26, 1000
+   eng-tvl: Tatoeba-dev-v2023-09-26, 1000
+   eng-war: Tatoeba-dev-v2023-09-26, 55
+   ceb-fra: Tatoeba-dev-v2023-09-26, 1000
+   cha-fra: Tatoeba-dev-v2023-09-26, 1000
+   fij-fra: Tatoeba-dev-v2023-09-26, 1000
+   fra-iba: Tatoeba-dev-v2023-09-26, 1000
+   fra-ilo: Tatoeba-dev-v2023-09-26, 1000
+   fra-jav: Tatoeba-dev-v2023-09-26, 1000
+   fra-mlg: Tatoeba-dev-v2023-09-26, 998
+   fra-msa: Tatoeba-dev-v2023-09-26, 966
+   fra-nau: Tatoeba-dev-v2023-09-26, 3
+   fra-pag: Tatoeba-dev-v2023-09-26, 1000
+   fra-plt: Tatoeba-dev-v2023-09-26, 2
+   fra-smo: Tatoeba-dev-v2023-09-26, 1000
+   fra-tah: Tatoeba-dev-v2023-09-26, 1000
+   fra-tgl: Tatoeba-dev-v2023-09-26, 12
+   fra-ton: Tatoeba-dev-v2023-09-26, 1000
+   fra-war: Tatoeba-dev-v2023-09-26, 1000
+   ceb-por: Tatoeba-dev-v2023-09-26, 1000
+   msa-por: Tatoeba-dev-v2023-09-26, 976
+   msa_Latn-por: Tatoeba-dev-v2023-09-26, 1000
+   por-tgl: Tatoeba-dev-v2023-09-26, 14
+   ceb-spa: Tatoeba-dev-v2023-09-26, 1000
+   jav-spa: Tatoeba-dev-v2023-09-26, 1000
+   msa-spa: Tatoeba-dev-v2023-09-26, 972
+   msa_Latn-spa: Tatoeba-dev-v2023-09-26, 1000
+   pam-spa: Tatoeba-dev-v2023-09-26, 21
+   spa-tet: Tatoeba-dev-v2023-09-26, 343
+   spa-ton: Tatoeba-dev-v2023-09-26, 1000
+   total-size-shuffled: 58217
+   devset-selected: top 5000  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 10000/72442
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 17.9
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.44830

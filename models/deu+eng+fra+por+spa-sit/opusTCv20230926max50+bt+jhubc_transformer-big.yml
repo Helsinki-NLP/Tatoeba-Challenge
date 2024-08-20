@@ -1,0 +1,316 @@
+release: deu+eng+fra+por+spa-sit/opusTCv20230926max50+bt+jhubc_transformer-big_2024-05-29.zip
+release-date: 2024-05-29
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+target-languages:
+   - acn
+   - aeu
+   - ahk
+   - bgr
+   - bod
+   - brx
+   - cfm
+   - cjy_Hans
+   - cjy_Hant
+   - cmn
+   - cmn_Hans
+   - cmn_Hant
+   - cmr
+   - cnh
+   - cnh_Latn
+   - cnw
+   - csy
+   - ctd
+   - czt
+   - dng
+   - dzo
+   - hlt
+   - hsn
+   - iii
+   - kac
+   - kle
+   - lhu
+   - lif
+   - lsi
+   - lus
+   - mhx
+   - mni
+   - mya
+   - new
+   - njm
+   - nst_Latn
+   - pck_Latn
+   - pww
+   - rav
+   - suz
+   - taj
+   - wuu
+   - xsr
+   - ycl
+   - yue_Hans
+   - yue_Hant
+   - zom
+   - zyp
+raw-source-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+raw-target-languages:
+   - acn
+   - aeu
+   - ahk
+   - bgr
+   - bod
+   - brx
+   - cfm
+   - cjy
+   - cmn
+   - cmr
+   - cnh
+   - cnw
+   - csy
+   - ctd
+   - czt
+   - dng
+   - dzo
+   - hlt
+   - hsn
+   - iii
+   - kac
+   - kle
+   - lhu
+   - lif
+   - lsi
+   - lus
+   - mhx
+   - mni
+   - mya
+   - new
+   - njm
+   - nst
+   - pck
+   - pww
+   - rav
+   - suz
+   - taj
+   - wuu
+   - xsr
+   - ycl
+   - yue
+   - zom
+   - zyp
+use-target-labels:
+training-data:
+   deu-acn: bible (128192) 
+   deu-aeu: bible (126120) 
+   deu-ahk: bible (249567) 
+   deu-bgr: bible (129243) 
+   deu-cfm: bible (178688) 
+   deu-cmn: Tatoeba-train-v2023-09-26.cmn-deu.strict (40652) bible (383998) 
+   deu-cmr: bible (126076) 
+   deu-cnh: bible (383728) 
+   deu-cnw: bible (124489) 
+   deu-csy: bible (124686) 
+   deu-ctd: bible (192658) 
+   deu-czt: bible (124728) 
+   deu-hlt: bible (125546) 
+   deu-kac: bible (517694) 
+   deu-kle: bible (126248) 
+   deu-lhu: bible (249073) 
+   deu-lif: bible (246908) 
+   deu-lsi: bible (502652) 
+   deu-lus: bible (118626) 
+   deu-mhx: bible (251112) 
+   deu-mya: Tatoeba-train-v2023-09-26.deu-mya.strict (241990) bible (503918) 
+   deu-new: bible (163798) 
+   deu-njm: bible (121317) 
+   deu-pww: bible (125748) 
+   deu-rav: bible (126176) 
+   deu-suz: bible (384879) 
+   deu-taj: bible (250230) 
+   deu-xsr: bible (126160) 
+   deu-ycl: bible (137308) 
+   deu-zom: bible (383777) 
+   deu-zyp: bible (126111) 
+   eng-acn: bible (170863) 
+   eng-aeu: bible (168100) 
+   eng-ahk: bible (333053) 
+   eng-bgr: bible (172361) 
+   eng-bod: Tatoeba-train-v2023-09-26.bod-eng.strict (715144) wiki.aa (27) 
+   eng-brx: Tatoeba-train-v2023-09-26.brx-eng.strict (4127) 
+   eng-cfm: bible (238486) 
+   eng-cmn: Tatoeba-train-v2023-09-26.cmn-eng.strict (157476) bible (258413) 
+   eng-cmn_Hans: Tatoeba-train-v2023-09-26.cmn_Hans-eng.strict (50000000) wikibooks.aa (31722) wikinews.aa (34638) wikipedia.aa (981365) wikipedia.ab (981399) wikipedia.ac (981588) wikipedia.ad (981454) wikipedia.ae (981426) wikipedia.af (981273) wikipedia.ag (981337) wikipedia.ah (259892) wikiquote.aa (33548) wikisource.aa (979041) wikisource.ab (978803) wikisource.ac (978809) wikisource.ad (588119) 
+   eng-cmn_Hant: Tatoeba-train-v2023-09-26.cmn_Hant-eng.strict (22123097) wikibooks.aa (229) wikinews.aa (63) wikipedia.aa (84591) wikiquote.aa (668) wikisource.aa (253516) 
+   eng-cmr: bible (168039) 
+   eng-cnh: Tatoeba-train-v2023-09-26.cnh-eng.strict (19) bible (258309) 
+   eng-cnh_Latn: Tatoeba-train-v2023-09-26.cnh_Latn-eng.strict (23547) 
+   eng-cnw: bible (166035) 
+   eng-csy: bible (166309) 
+   eng-ctd: bible (257028) 
+   eng-czt: bible (166433) 
+   eng-dzo: Tatoeba-train-v2023-09-26.dzo-eng.strict (59733) 
+   eng-hlt: bible (167496) 
+   eng-kac: Tatoeba-train-v2023-09-26.eng-kac.strict (895387) bible (438033) 
+   eng-kle: bible (168280) 
+   eng-lhu: bible (332402) 
+   eng-lif: bible (329252) 
+   eng-lsi: bible (421616) 
+   eng-lus: Tatoeba-train-v2023-09-26.eng-lus.strict (5061967) bible (158232) 
+   eng-mhx: bible (334941) 
+   eng-mni: Tatoeba-train-v2023-09-26.eng-mni.strict (496602) 
+   eng-mya: Tatoeba-train-v2023-09-26.eng-mya.strict (6992505) wiki.aa.mya-eng (3281) bible (418774) 
+   eng-new: bible (181173) 
+   eng-njm: bible (161775) 
+   eng-pww: bible (167612) 
+   eng-rav: bible (168214) 
+   eng-suz: bible (259156) 
+   eng-taj: bible (333575) 
+   eng-wuu: Tatoeba-train-v2023-09-26.eng-wuu.strict (11288) 
+   eng-xsr: bible (168195) 
+   eng-ycl: bible (165208) 
+   eng-yue_Hans: Tatoeba-train-v2023-09-26.eng-yue_Hans.strict (602) 
+   eng-yue_Hant: Tatoeba-train-v2023-09-26.eng-yue_Hant.strict (402) 
+   eng-zom: bible (258295) 
+   eng-zyp: bible (168157) 
+   fra-acn: bible (106004) 
+   fra-aeu: bible (104275) 
+   fra-ahk: bible (206335) 
+   fra-bgr: bible (106863) 
+   fra-cfm: bible (147918) 
+   fra-cmn: Tatoeba-train-v2023-09-26.cmn-fra.strict (57694) bible (360655) 
+   fra-cmr: bible (104228) 
+   fra-cnh: bible (360555) 
+   fra-cnw: bible (102937) 
+   fra-csy: bible (103122) 
+   fra-ctd: bible (159351) 
+   fra-czt: bible (103155) 
+   fra-hlt: bible (103838) 
+   fra-kac: bible (471184) 
+   fra-kle: bible (104379) 
+   fra-lhu: bible (205895) 
+   fra-lif: bible (204175) 
+   fra-lsi: bible (458183) 
+   fra-lus: bible (98064) 
+   fra-mhx: bible (207631) 
+   fra-mya: bible (459962) 
+   fra-new: bible (141856) 
+   fra-njm: bible (100486) 
+   fra-pww: bible (103927) 
+   fra-rav: bible (104331) 
+   fra-suz: bible (361568) 
+   fra-taj: bible (206882) 
+   fra-xsr: bible (104297) 
+   fra-ycl: bible (116406) 
+   fra-zom: bible (360575) 
+   fra-zyp: bible (104274) 
+   por-acn: bible (50341) 
+   por-aeu: bible (49511) 
+   por-ahk: bible (97987) 
+   por-bgr: bible (50795) 
+   por-cfm: bible (70144) 
+   por-cmn: Tatoeba-train-v2023-09-26.cmn-por.strict (144730) bible (117534) 
+   por-cmr: bible (49502) 
+   por-cnh: bible (117469) 
+   por-cnw: bible (48872) 
+   por-csy: bible (48992) 
+   por-ctd: bible (75808) 
+   por-czt: bible (48994) 
+   por-hlt: bible (49339) 
+   por-kac: bible (170220) 
+   por-kle: bible (49575) 
+   por-lhu: bible (97827) 
+   por-lif: bible (96958) 
+   por-lsi: bible (164767) 
+   por-lus: bible (46619) 
+   por-mhx: bible (98638) 
+   por-mya: bible (164745) 
+   por-new: bible (59322) 
+   por-njm: bible (47717) 
+   por-pww: bible (49379) 
+   por-rav: bible (49550) 
+   por-suz: bible (117805) 
+   por-taj: bible (98259) 
+   por-xsr: bible (49542) 
+   por-ycl: bible (51618) 
+   por-zom: bible (117474) 
+   por-zyp: bible (49519) 
+   spa-acn: bible (50868) 
+   spa-aeu: bible (50044) 
+   spa-ahk: bible (99135) 
+   spa-bgr: bible (51290) 
+   spa-cfm: bible (70917) 
+   spa-cmn: Tatoeba-train-v2023-09-26.cmn-spa.strict (65009) bible (49905) 
+   spa-cmr: bible (50031) 
+   spa-cnh: bible (49932) 
+   spa-cnw: bible (49427) 
+   spa-csy: bible (49523) 
+   spa-ctd: bible (76391) 
+   spa-czt: bible (49558) 
+   spa-hlt: bible (49860) 
+   spa-kac: bible (103479) 
+   spa-kle: bible (50101) 
+   spa-lhu: bible (98877) 
+   spa-lif: bible (98100) 
+   spa-lsi: bible (99050) 
+   spa-lus: bible (47149) 
+   spa-mhx: bible (99734) 
+   spa-mya: Tatoeba-train-v2023-09-26.mya-spa.strict (480876) bible (97764) 
+   spa-new: bible (49980) 
+   spa-njm: bible (48164) 
+   spa-pww: bible (49906) 
+   spa-rav: bible (50083) 
+   spa-suz: bible (50097) 
+   spa-taj: bible (99307) 
+   spa-xsr: bible (50064) 
+   spa-ycl: bible (47323) 
+   spa-zom: bible (49914) 
+   spa-zyp: bible (50047) 
+validation-data:
+   cmn-deu: Tatoeba-dev-v2023-09-26, 4
+   deu-mya: Tatoeba-dev-v2023-09-26, 1000
+   bod-eng: Tatoeba-dev-v2023-09-26, 1000
+   brx-eng: Tatoeba-dev-v2023-09-26, 1000
+   cmn-eng: Tatoeba-dev-v2023-09-26, 16
+   cmn_Hans-eng: Tatoeba-dev-v2023-09-26, 13365
+   cmn_Hant-eng: Tatoeba-dev-v2023-09-26, 14961
+   cnh_Latn-eng: Tatoeba-dev-v2023-09-26, 1000
+   dzo-eng: Tatoeba-dev-v2023-09-26, 1000
+   eng-kac: Tatoeba-dev-v2023-09-26, 1000
+   eng-lus: Tatoeba-dev-v2023-09-26, 1000
+   eng-mni: Tatoeba-dev-v2023-09-26, 1000
+   eng-mya: Tatoeba-dev-v2023-09-26, 648
+   eng-new: Tatoeba-dev-v2023-09-26, 10
+   eng-wuu: Tatoeba-dev-v2023-09-26, 644
+   eng-yue_Hans: Tatoeba-dev-v2023-09-26, 1747
+   eng-yue_Hant: Tatoeba-dev-v2023-09-26, 1101
+   cmn-fra: Tatoeba-dev-v2023-09-26, 8
+   cmn-por: Tatoeba-dev-v2023-09-26, 5
+   cmn-spa: Tatoeba-dev-v2023-09-26, 10
+   mya-spa: Tatoeba-dev-v2023-09-26, 1000
+   total-size-shuffled: 14345
+   devset-selected: top 5000  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 10000/108800
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 24.2
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.23820

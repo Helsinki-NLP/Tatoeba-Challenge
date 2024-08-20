@@ -1,0 +1,93 @@
+release: art-fra+ita+por+spa/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - afh_Latn
+   - avk_Latn
+   - bzt_Latn
+   - dws_Latn
+   - epo
+   - ido_Latn
+   - igs_Latn
+   - ile_Latn
+   - ina_Latn
+   - jbo
+   - jbo_Latn
+   - ldn_Latn
+   - lfn_Cyrl
+   - lfn_Latn
+   - nov_Latn
+   - qya_Latn
+   - sjn_Latn
+   - tlh
+   - tlh_Latn
+   - tzl_Latn
+   - vol_Latn
+target-languages:
+   - fra
+   - ita
+   - por
+   - spa
+raw-source-languages:
+   - afh
+   - avk
+   - bzt
+   - dws
+   - epo
+   - ido
+   - igs
+   - ile
+   - ina
+   - jbo
+   - ldn
+   - lfn
+   - nov
+   - qya
+   - sjn
+   - tlh
+   - tzl
+   - vol
+raw-target-languages:
+   - fra
+   - ita
+   - por
+   - spa
+use-target-labels:
+training-data:
+   epo-fra: Tatoeba-train-v2023-09-26.epo-fra.strict (20366206) bible (360576) 
+   epo-ita: Tatoeba-train-v2023-09-26.epo-ita.strict (2941330) 
+   epo-por: Tatoeba-train-v2023-09-26.epo-por.strict (563121) bible (117602) 
+   epo-spa: Tatoeba-train-v2023-09-26.epo-spa.strict (6145407) bible (50021) 
+   tlh-fra: bible (360650) 
+   tlh-por: bible (117581) 
+   tlh-spa: bible (49946) 
+validation-data:
+   epo-fra: Tatoeba-dev-v2023-09-26, 283538
+   epo-ita: Tatoeba-dev-v2023-09-26, 40209
+   epo-por: Tatoeba-dev-v2023-09-26, 45848
+   epo-spa: Tatoeba-dev-v2023-09-26, 64540
+   fra-jbo: Tatoeba-dev-v2023-09-26, 162
+   ita-jbo: Tatoeba-dev-v2023-09-26, 317
+   jbo-spa: Tatoeba-dev-v2023-09-26, 89
+   fra-tlh: Tatoeba-dev-v2023-09-26, 98
+   ita-tlh: Tatoeba-dev-v2023-09-26, 84
+   spa-tlh: Tatoeba-dev-v2023-09-26, 100
+   total-size-shuffled: 4842
+   devset-selected: top 4842  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 10000/79152
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 38.4
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.59373

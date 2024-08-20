@@ -1,0 +1,275 @@
+release: deu+eng+fra+por+spa-aav/opusTCv20230926max50+bt+jhubc_transformer-big_2024-05-29.zip
+release-date: 2024-05-29
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+target-languages:
+   - bru
+   - cmo
+   - hoc
+   - hoc_Wara
+   - jun
+   - kha
+   - khm
+   - kxm
+   - mnw
+   - ngt_Latn
+   - sat
+   - sat_Latn
+   - vie
+   - wbm
+raw-source-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+raw-target-languages:
+   - bru
+   - cmo
+   - hoc
+   - jun
+   - kha
+   - khm
+   - kxm
+   - mnw
+   - ngt
+   - sat
+   - vie
+   - wbm
+use-target-labels:
+training-data:
+   deu-bru: bible (155705) 
+   deu-jun: bible (126188) 
+   deu-khm: Tatoeba-train-v2023-09-26.deu-khm.strict (327722) bible (248348) 
+   deu-kxm: bible (125895) 
+   deu-vie: Tatoeba-train-v2023-09-26.deu-vie.strict (17931000) bible (1576028) 
+   deu-wbm: bible (383326) 
+   eng-bru: bible (207587) 
+   eng-jun: bible (168218) 
+   eng-khm: Tatoeba-train-v2023-09-26.eng-khm.strict (5937630) wiki.aa.khm-eng (786) wikibooks.aa.khm-eng (21) bible (330967) 
+   eng-kxm: bible (167820) 
+   eng-mnw: wiki.aa.mnw-eng (994) 
+   eng-sat: Tatoeba-train-v2023-09-26.eng-sat.strict (72117) 
+   eng-sat_Latn: Tatoeba-train-v2023-09-26.eng-sat_Latn.strict (35) 
+   eng-vie: Tatoeba-train-v2023-09-26.eng-vie.strict (50000000) wiki.aa.vie-eng (979780) wiki.ab.vie-eng (979445) wiki.ac.vie-eng (979525) wiki.ad.vie-eng (979806) wiki.ae.vie-eng (979580) wiki.af.vie-eng (979625) wiki.ag.vie-eng (214448) wikibooks.aa.vie-eng (57260) wikiquote.aa.vie-eng (17471) wikisource.aa.vie-eng (486537) bible (1378414) 
+   eng-wbm: bible (257945) 
+   fra-bru: bible (128841) 
+   fra-jun: bible (104348) 
+   fra-khm: Tatoeba-train-v2023-09-26.fra-khm.strict (344679) bible (205331) 
+   fra-kxm: bible (104074) 
+   fra-vie: Tatoeba-train-v2023-09-26.fra-vie.strict (22506188) bible (1426842) 
+   fra-wbm: bible (360193) 
+   por-bru: bible (61213) 
+   por-jun: bible (49553) 
+   por-khm: bible (97512) 
+   por-kxm: bible (49430) 
+   por-vie: Tatoeba-train-v2023-09-26.por-vie.strict (18076468) bible (523664) 
+   por-wbm: bible (117329) 
+   spa-bru: bible (61800) 
+   spa-jun: bible (50084) 
+   spa-khm: Tatoeba-train-v2023-09-26.khm-spa.strict (212782) bible (98560) 
+   spa-kxm: bible (49948) 
+   spa-vie: Tatoeba-train-v2023-09-26.spa-vie.strict (37121119) bible (332844) 
+   spa-wbm: bible (49811) 
+validation-data:
+   deu-khm: Tatoeba-dev-v2023-09-26, 1000
+   deu-vie: Tatoeba-dev-v2023-09-26, 934
+   eng-kha: Tatoeba-dev-v2023-09-26, 103
+   eng-khm: Tatoeba-dev-v2023-09-26, 898
+   eng-mnw: Tatoeba-dev-v2023-09-26, 972
+   eng-sat: Tatoeba-dev-v2023-09-26, 919
+   eng-vie: Tatoeba-dev-v2023-09-26, 4265
+   fra-khm: Tatoeba-dev-v2023-09-26, 1000
+   fra-vie: Tatoeba-dev-v2023-09-26, 972
+   por-vie: Tatoeba-dev-v2023-09-26, 1000
+   khm-spa: Tatoeba-dev-v2023-09-26, 601
+   spa-vie: Tatoeba-dev-v2023-09-26, 982
+   total-size-shuffled: 10381
+   devset-selected: top 5000  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 9540/66166
+   flores101-devtest.deu-khm: 1012/7006
+   flores101-devtest.deu-vie: 1012/33331
+   flores101-devtest.eng-khm: 1012/7006
+   flores101-devtest.eng-vie: 1012/33331
+   flores101-devtest.fra-khm: 1012/7006
+   flores101-devtest.por-khm: 1012/7006
+   flores101-devtest.por-vie: 1012/33331
+   flores101-devtest.spa-khm: 1012/7006
+   flores101-devtest.spa-vie: 1012/33331
+   flores200-devtest.deu-khm: 1012/7006
+   flores200-devtest.deu-sat: 1012/25693
+   flores200-devtest.deu-vie: 1012/33331
+   flores200-devtest.eng-khm: 1012/7006
+   flores200-devtest.eng-sat: 1012/25693
+   flores200-devtest.eng-vie: 1012/33331
+   flores200-devtest.fra-khm: 1012/7006
+   flores200-devtest.fra-sat: 1012/25693
+   flores200-devtest.fra-vie: 1012/33331
+   flores200-devtest.por-khm: 1012/7006
+   flores200-devtest.por-sat: 1012/25693
+   flores200-devtest.por-vie: 1012/33331
+   flores200-devtest.spa-khm: 1012/7006
+   flores200-devtest.spa-sat: 1012/25693
+   flores200-devtest.spa-vie: 1012/33331
+   newstest2020.eng-khm: 2320/15454
+   ntrex128.deu-khm: 1997/15866
+   ntrex128.deu-vie: 1997/64655
+   ntrex128.eng-khm: 1997/15866
+   ntrex128.eng-vie: 1997/64655
+   ntrex128.fra-khm: 1997/15866
+   ntrex128.fra-vie: 1997/64655
+   ntrex128.por-khm: 1997/15866
+   ntrex128.por-vie: 1997/64655
+   ntrex128.spa-khm: 1997/15866
+   ntrex128.spa-vie: 1997/64655
+   tatoeba-test-v2020-07-28.eng-khm: 752/1737
+   tatoeba-test-v2020-07-28.spa-khm: 1472/3391
+   tatoeba-test-v2020-07-28.spa-vie: 582/4654
+   tatoeba-test-v2021-03-30.deu-vie: 401/3775
+   tatoeba-test-v2021-03-30.eng-hoc: 661/2594
+   tatoeba-test-v2021-03-30.eng-khm: 754/1741
+   tatoeba-test-v2021-03-30.spa-khm: 1472/3391
+   tatoeba-test-v2021-03-30.spa-vie: 604/4824
+   tatoeba-test-v2021-08-07.deu-vie: 400/3768
+   tatoeba-test-v2021-08-07.eng-hoc: 660/2591
+   tatoeba-test-v2021-08-07.eng-kha: 1314/9269
+   tatoeba-test-v2021-08-07.eng-khm: 726/1692
+   tatoeba-test-v2021-08-07.eng-vie: 2500/24427
+   tatoeba-test-v2021-08-07.fra-vie: 1299/13219
+   tatoeba-test-v2021-08-07.spa-khm: 1448/3343
+   tatoeba-test-v2021-08-07.spa-vie: 594/4740
+   tico19-test.eng-khm: 2100/15810
+   tico19-test.fra-khm: 2100/15810
+   tico19-test.por-khm: 2100/15810
+   tico19-test.spa-khm: 2100/15810
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 22.9
+   flores101-devtest.deu-khm: 2.3
+   flores101-devtest.deu-vie: 33.8
+   flores101-devtest.eng-khm: 1.3
+   flores101-devtest.eng-vie: 42.1
+   flores101-devtest.fra-khm: 2.2
+   flores101-devtest.por-khm: 2.1
+   flores101-devtest.por-vie: 36.0
+   flores101-devtest.spa-khm: 1.3
+   flores101-devtest.spa-vie: 27.8
+   flores200-devtest.deu-khm: 2.4
+   flores200-devtest.deu-sat: 0.1
+   flores200-devtest.deu-vie: 34.0
+   flores200-devtest.eng-khm: 1.3
+   flores200-devtest.eng-sat: 0.0
+   flores200-devtest.eng-vie: 42.4
+   flores200-devtest.fra-khm: 2.3
+   flores200-devtest.fra-sat: 0.1
+   flores200-devtest.fra-vie: 34.6
+   flores200-devtest.por-khm: 1.9
+   flores200-devtest.por-sat: 0.1
+   flores200-devtest.por-vie: 36.1
+   flores200-devtest.spa-khm: 1.4
+   flores200-devtest.spa-sat: 0.1
+   flores200-devtest.spa-vie: 28.1
+   newstest2020.eng-khm: 0.9
+   ntrex128.deu-khm: 3.5
+   ntrex128.deu-vie: 31.4
+   ntrex128.eng-khm: 1.6
+   ntrex128.eng-vie: 0.0
+   ntrex128.fra-khm: 2.4
+   ntrex128.fra-vie: 31.8
+   ntrex128.por-khm: 2.5
+   ntrex128.por-vie: 33.3
+   ntrex128.spa-khm: 2.7
+   ntrex128.spa-vie: 33.4
+   tatoeba-test-v2020-07-28.eng-khm: 0.2
+   tatoeba-test-v2020-07-28.spa-khm: 0.2
+   tatoeba-test-v2020-07-28.spa-vie: 34.2
+   tatoeba-test-v2021-03-30.deu-vie: 25.4
+   tatoeba-test-v2021-03-30.eng-hoc: 0.2
+   tatoeba-test-v2021-03-30.eng-khm: 0.2
+   tatoeba-test-v2021-03-30.spa-khm: 0.2
+   tatoeba-test-v2021-03-30.spa-vie: 34.3
+   tatoeba-test-v2021-08-07.deu-vie: 25.6
+   tatoeba-test-v2021-08-07.eng-hoc: 0.2
+   tatoeba-test-v2021-08-07.eng-kha: 0.0
+   tatoeba-test-v2021-08-07.eng-khm: 0.2
+   tatoeba-test-v2021-08-07.eng-vie: 39.4
+   tatoeba-test-v2021-08-07.fra-vie: 35.2
+   tatoeba-test-v2021-08-07.spa-khm: 0.2
+   tatoeba-test-v2021-08-07.spa-vie: 34.2
+   tico19-test.eng-khm: 2.5
+   tico19-test.fra-khm: 1.0
+   tico19-test.por-khm: 1.1
+   tico19-test.spa-khm: 1.0
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.40649
+   flores101-devtest.deu-khm: 0.38800
+   flores101-devtest.deu-vie: 0.53381
+   flores101-devtest.eng-khm: 0.42302
+   flores101-devtest.eng-vie: 0.59621
+   flores101-devtest.fra-khm: 0.40042
+   flores101-devtest.por-khm: 0.40585
+   flores101-devtest.por-vie: 0.54919
+   flores101-devtest.spa-khm: 0.36844
+   flores101-devtest.spa-vie: 0.49921
+   flores200-devtest.deu-khm: 0.38953
+   flores200-devtest.deu-sat: 0.13449
+   flores200-devtest.deu-vie: 0.53671
+   flores200-devtest.eng-khm: 0.42148
+   flores200-devtest.eng-sat: 0.355
+   flores200-devtest.eng-vie: 0.59842
+   flores200-devtest.fra-khm: 0.39960
+   flores200-devtest.fra-sat: 0.13630
+   flores200-devtest.fra-vie: 0.54101
+   flores200-devtest.por-khm: 0.40832
+   flores200-devtest.por-sat: 0.13503
+   flores200-devtest.por-vie: 0.54970
+   flores200-devtest.spa-khm: 0.36868
+   flores200-devtest.spa-sat: 0.13742
+   flores200-devtest.spa-vie: 0.50025
+   newstest2020.eng-khm: 0.35104
+   ntrex128.deu-khm: 0.44903
+   ntrex128.deu-vie: 0.52124
+   ntrex128.eng-khm: 0.50494
+   ntrex128.eng-vie: 3.831
+   ntrex128.fra-khm: 0.43841
+   ntrex128.fra-vie: 0.52044
+   ntrex128.por-khm: 0.46655
+   ntrex128.por-vie: 0.53060
+   ntrex128.spa-khm: 0.46443
+   ntrex128.spa-vie: 0.53293
+   tatoeba-test-v2020-07-28.eng-khm: 0.34565
+   tatoeba-test-v2020-07-28.spa-khm: 0.37159
+   tatoeba-test-v2020-07-28.spa-vie: 0.52030
+   tatoeba-test-v2021-03-30.deu-vie: 0.45756
+   tatoeba-test-v2021-03-30.eng-hoc: 6.373
+   tatoeba-test-v2021-03-30.eng-khm: 0.34549
+   tatoeba-test-v2021-03-30.spa-khm: 0.37159
+   tatoeba-test-v2021-03-30.spa-vie: 0.52010
+   tatoeba-test-v2021-08-07.deu-vie: 0.45795
+   tatoeba-test-v2021-08-07.eng-hoc: 6.438
+   tatoeba-test-v2021-08-07.eng-kha: 5.741
+   tatoeba-test-v2021-08-07.eng-khm: 0.33850
+   tatoeba-test-v2021-08-07.eng-vie: 0.56461
+   tatoeba-test-v2021-08-07.fra-vie: 0.52806
+   tatoeba-test-v2021-08-07.spa-khm: 0.37427
+   tatoeba-test-v2021-08-07.spa-vie: 0.52131
+   tico19-test.eng-khm: 0.47806
+   tico19-test.fra-khm: 3.268
+   tico19-test.por-khm: 3.900
+   tico19-test.spa-khm: 3.784

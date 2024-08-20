@@ -1,0 +1,326 @@
+release: bnt-fra+ita+por+spa/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bss
+   - cce
+   - cwe
+   - dig
+   - dug
+   - gog
+   - gwr
+   - hay
+   - heh
+   - jmc
+   - kdc
+   - kdn
+   - kin
+   - kki
+   - kkj
+   - kng
+   - ksb
+   - ldi
+   - lem
+   - lin
+   - lon
+   - lsm
+   - mcp
+   - myx
+   - nde
+   - ndo
+   - nim
+   - nnb
+   - nnb_Latn
+   - nso
+   - nuj
+   - nya
+   - nyf
+   - nyn
+   - nyo
+   - nyy
+   - old
+   - ozm
+   - pkb
+   - rim
+   - run
+   - seh
+   - sna
+   - sot
+   - suk
+   - swa
+   - swc
+   - swh
+   - sxb
+   - thk
+   - tlj
+   - toh
+   - tsn
+   - tso
+   - vmw
+   - vun
+   - wmw
+   - xho
+   - xog
+   - zul
+target-languages:
+   - fra
+   - ita
+   - por
+   - spa
+raw-source-languages:
+   - bss
+   - cce
+   - cwe
+   - dig
+   - dug
+   - gog
+   - gwr
+   - hay
+   - heh
+   - jmc
+   - kdc
+   - kdn
+   - kin
+   - kki
+   - kkj
+   - kng
+   - ksb
+   - ldi
+   - lem
+   - lin
+   - lon
+   - lsm
+   - mcp
+   - myx
+   - nde
+   - ndo
+   - nim
+   - nnb
+   - nso
+   - nuj
+   - nya
+   - nyf
+   - nyn
+   - nyo
+   - nyy
+   - old
+   - ozm
+   - pkb
+   - rim
+   - run
+   - seh
+   - sna
+   - sot
+   - suk
+   - swa
+   - swc
+   - swh
+   - sxb
+   - thk
+   - tlj
+   - toh
+   - tsn
+   - tso
+   - vmw
+   - vun
+   - wmw
+   - xho
+   - xog
+   - zul
+raw-target-languages:
+   - fra
+   - ita
+   - por
+   - spa
+use-target-labels:
+training-data:
+   bss-fra: bible (152192) 
+   bss-por: bible (72394) 
+   bss-spa: bible (73063) 
+   cce-fra: bible (105876) 
+   cce-por: bible (50282) 
+   cce-spa: bible (50796) 
+   cwe-fra: bible (103793) 
+   cwe-por: bible (49296) 
+   cwe-spa: bible (49827) 
+   dig-fra: bible (103657) 
+   dig-por: bible (49245) 
+   dig-spa: bible (49761) 
+   dug-fra: bible (153809) 
+   dug-por: bible (73101) 
+   dug-spa: bible (73773) 
+   gog-fra: bible (106133) 
+   gog-por: bible (50415) 
+   gog-spa: bible (50925) 
+   gwr-fra: bible (104209) 
+   gwr-por: bible (49495) 
+   gwr-spa: bible (50023) 
+   hay-fra: bible (117321) 
+   hay-por: bible (55740) 
+   hay-spa: bible (56223) 
+   heh-fra: bible (104317) 
+   heh-por: bible (49542) 
+   heh-spa: bible (50072) 
+   jmc-fra: bible (140219) 
+   jmc-por: bible (66549) 
+   jmc-spa: bible (67320) 
+   kdc-fra: bible (104255) 
+   kdc-por: bible (49520) 
+   kdc-spa: bible (50031) 
+   kdn-fra: bible (102294) 
+   kdn-por: bible (48610) 
+   kdn-spa: bible (49149) 
+   kin-fra: bible (305035) 
+   kin-por: bible (144885) 
+   kin-spa: bible (146722) 
+   kki-fra: bible (104485) 
+   kki-por: bible (49618) 
+   kki-spa: bible (50146) 
+   kkj-fra: bible (104365) 
+   kkj-por: bible (49568) 
+   kkj-spa: bible (50092) 
+   kng-fra: bible (104209) 
+   kng-por: bible (49502) 
+   kng-spa: bible (50027) 
+   ksb-fra: bible (104217) 
+   ksb-por: bible (49510) 
+   ksb-spa: bible (50016) 
+   ldi-fra: bible (104287) 
+   ldi-por: bible (49528) 
+   ldi-spa: bible (50073) 
+   lem-fra: bible (208363) 
+   lem-por: bible (98935) 
+   lem-spa: bible (100009) 
+   lon-fra: bible (103912) 
+   lon-por: bible (49348) 
+   lon-spa: bible (49905) 
+   lsm-fra: bible (104263) 
+   lsm-por: bible (49513) 
+   lsm-spa: bible (50055) 
+   mcp-fra: bible (104250) 
+   mcp-por: bible (49519) 
+   mcp-spa: bible (50031) 
+   myx-fra: bible (104388) 
+   myx-por: bible (49577) 
+   myx-spa: bible (50106) 
+   nde-fra: bible (101180) 
+   nde-por: bible (48118) 
+   nde-spa: bible (48633) 
+   ndo-fra: bible (100817) 
+   ndo-por: bible (47857) 
+   ndo-spa: bible (48544) 
+   nim-fra: bible (111535) 
+   nim-por: bible (52957) 
+   nim-spa: bible (53531) 
+   nnb-fra: bible (104387) 
+   nnb-por: bible (49573) 
+   nnb-spa: bible (50100) 
+   nso-fra: bible (206206) 
+   nso-por: bible (97955) 
+   nso-spa: bible (99017) 
+   nuj-fra: bible (104314) 
+   nuj-por: bible (49539) 
+   nuj-spa: bible (50064) 
+   nya-fra: bible (104015) 
+   nya-por: bible (49389) 
+   nya-spa: bible (49928) 
+   nyf-fra: bible (113342) 
+   nyf-por: bible (53870) 
+   nyf-spa: bible (54369) 
+   nyn-fra: bible (104294) 
+   nyn-por: bible (49532) 
+   nyn-spa: bible (50053) 
+   nyo-fra: bible (104341) 
+   nyo-por: bible (49556) 
+   nyo-spa: bible (50073) 
+   nyy-fra: bible (178355) 
+   nyy-por: bible (84611) 
+   nyy-spa: bible (85554) 
+   old-fra: bible (141227) 
+   old-por: bible (67078) 
+   old-spa: bible (67754) 
+   ozm-fra: bible (207569) 
+   ozm-por: bible (98555) 
+   ozm-spa: bible (99675) 
+   pkb-fra: bible (106012) 
+   pkb-por: bible (50395) 
+   pkb-spa: bible (50913) 
+   rim-fra: bible (104471) 
+   rim-por: bible (49610) 
+   rim-spa: bible (50146) 
+   run-fra: Tatoeba-train-v2023-09-26.fra-run.strict (1326535) bible (104294) 
+   run-por: bible (49539) 
+   run-spa: Tatoeba-train-v2023-09-26.run-spa.strict (317411) bible (50052) 
+   seh-fra: bible (95852) 
+   seh-por: bible (45414) 
+   seh-spa: bible (46022) 
+   sna-fra: bible (104377) 
+   sna-por: bible (49566) 
+   sna-spa: bible (50096) 
+   sot-fra: bible (206939) 
+   sot-por: bible (98327) 
+   sot-spa: bible (99322) 
+   suk-fra: bible (104235) 
+   suk-por: bible (49508) 
+   suk-spa: bible (50026) 
+   swh-fra: bible (265086) 
+   swh-por: bible (126009) 
+   swh-spa: bible (127307) 
+   sxb-fra: bible (100799) 
+   sxb-por: bible (47952) 
+   sxb-spa: bible (48392) 
+   thk-fra: bible (104565) 
+   thk-por: bible (49654) 
+   thk-spa: bible (50197) 
+   tlj-fra: bible (104258) 
+   tlj-por: bible (49505) 
+   tlj-spa: bible (50030) 
+   toh-fra: bible (136786) 
+   toh-por: bible (65406) 
+   toh-spa: bible (65702) 
+   tsn-fra: bible (207123) 
+   tsn-por: bible (98364) 
+   tsn-spa: bible (99399) 
+   tso-fra: bible (102679) 
+   tso-por: bible (48750) 
+   tso-spa: bible (49283) 
+   vmw-fra: bible (104401) 
+   vmw-por: bible (49581) 
+   vmw-spa: bible (50107) 
+   vun-fra: bible (146130) 
+   vun-por: bible (69277) 
+   vun-spa: bible (70116) 
+   wmw-fra: bible (115182) 
+   wmw-por: bible (54740) 
+   wmw-spa: bible (55332) 
+   xho-fra: bible (711172) 
+   xho-por: bible (232054) 
+   xho-spa: bible (99159) 
+   xog-fra: bible (104364) 
+   xog-por: bible (49566) 
+   xog-spa: bible (50092) 
+   zul-fra: bible (104138) 
+   zul-por: bible (49461) 
+   zul-spa: bible (49986) 
+validation-data:
+   fra-run: Tatoeba-dev-v2023-09-26, 943
+   run-spa: Tatoeba-dev-v2023-09-26, 933
+   total-size-shuffled: 1876
+   devset-selected: top 1876  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 2326/13414
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 12.1
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.28722

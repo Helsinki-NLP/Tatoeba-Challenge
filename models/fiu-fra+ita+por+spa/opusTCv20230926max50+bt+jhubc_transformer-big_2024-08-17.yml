@@ -1,0 +1,91 @@
+release: fiu-fra+ita+por+spa/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - chm
+   - est
+   - fin
+   - fkv_Latn
+   - hun
+   - krl
+   - liv_Latn
+   - mrj
+   - myv
+   - sme
+   - udm
+   - vep
+   - vro
+target-languages:
+   - fra
+   - ita
+   - por
+   - spa
+raw-source-languages:
+   - chm
+   - est
+   - fin
+   - fkv
+   - hun
+   - krl
+   - liv
+   - mrj
+   - myv
+   - sme
+   - udm
+   - vep
+   - vro
+raw-target-languages:
+   - fra
+   - ita
+   - por
+   - spa
+use-target-labels:
+training-data:
+   est-fra: bible (103200) 
+   est-por: bible (49002) 
+   est-spa: bible (49518) 
+   fin-fra: Tatoeba-train-v2023-09-26.fin-fra.strict (46525576) bible (1078935) 
+   fin-ita: Tatoeba-train-v2023-09-26.fin-ita.strict (37611753) bible (386679) 
+   fin-por: Tatoeba-train-v2023-09-26.fin-por.strict (43607508) bible (351856) 
+   fin-spa: Tatoeba-train-v2023-09-26.fin-spa.strict (47672698) bible (149857) 
+   hun-fra: Tatoeba-train-v2023-09-26.fra-hun.strict (48036213) bible (938752) 
+   hun-ita: Tatoeba-train-v2023-09-26.hun-ita.strict (37938568) 
+   hun-por: Tatoeba-train-v2023-09-26.hun-por.strict (46273856) bible (338154) 
+   hun-spa: Tatoeba-train-v2023-09-26.hun-spa.strict (50000000) bible (203751) 
+   myv-fra: bible (104038) 
+   myv-por: bible (49415) 
+   myv-spa: bible (49940) 
+   sme-fra: bible (104104) 
+   sme-por: bible (49445) 
+   sme-spa: bible (49969) 
+   udm-fra: bible (104180) 
+   udm-por: bible (49486) 
+   udm-spa: bible (50001) 
+validation-data:
+   fin-fra: Tatoeba-dev-v2023-09-26, 1011
+   fin-ita: Tatoeba-dev-v2023-09-26, 958
+   fin-por: Tatoeba-dev-v2023-09-26, 856
+   fin-spa: Tatoeba-dev-v2023-09-26, 7213
+   fra-hun: Tatoeba-dev-v2023-09-26, 4495
+   hun-ita: Tatoeba-dev-v2023-09-26, 7145
+   hun-por: Tatoeba-dev-v2023-09-26, 3413
+   hun-spa: Tatoeba-dev-v2023-09-26, 4492
+   total-size-shuffled: 7814
+   devset-selected: top 5000  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 10000/65198
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 48.5
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.67829

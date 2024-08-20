@@ -1,0 +1,104 @@
+release: phi-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - akl_Latn
+   - bcl
+   - bik
+   - bto
+   - ceb
+   - cgc
+   - fil
+   - gor
+   - hil
+   - ify
+   - ilo
+   - krj
+   - mbb
+   - mbt
+   - mog
+   - mrw
+   - msm
+   - mta
+   - obo
+   - pag
+   - pam
+   - sxn
+   - tbl
+   - war
+target-languages:
+   - eng
+raw-source-languages:
+   - akl
+   - bcl
+   - bik
+   - bto
+   - ceb
+   - cgc
+   - fil
+   - gor
+   - hil
+   - ify
+   - ilo
+   - krj
+   - mbb
+   - mbt
+   - mog
+   - mrw
+   - msm
+   - mta
+   - obo
+   - pag
+   - pam
+   - sxn
+   - tbl
+   - war
+raw-target-languages:
+   - eng
+training-data:
+   bcl-eng: bible (204239) 
+   bto-eng: bible (168236) 
+   ceb-eng: Tatoeba-train-v2023-09-26.ceb-eng.strict (12569788) wikibooks.aa.eng-ceb (990980) wikinews.aa.eng-ceb (457101) wikipedia.aa.eng-ceb (981155) wikipedia.ab.eng-ceb (981305) wikipedia.ac.eng-ceb (981300) wikipedia.ad.eng-ceb (981212) wikiquote.aa.eng-ceb (996894) bible (969460) 
+   cgc-eng: bible (167772) 
+   fil-eng: bible (332537) 
+   gor-eng: bible (335213) 
+   hil-eng: bible (235215) 
+   ify-eng: bible (471498) 
+   ilo-eng: Tatoeba-train-v2023-09-26.eng-ilo.strict (1790720) wikibooks.aa (990980) wikinews.aa (457101) wikipedia.aa (981155) wikipedia.ab (981305) wikipedia.ac (981300) wikipedia.ad (981212) wikiquote.aa (996894) bible (166496) 
+   krj-eng: bible (256694) 
+   mbb-eng: bible (237387) 
+   mbt-eng: bible (259669) 
+   mog-eng: bible (271962) 
+   mrw-eng: bible (257143) 
+   msm-eng: bible (165506) 
+   mta-eng: bible (166826) 
+   obo-eng: bible (294852) 
+   pag-eng: bible (182653) 
+   pam-eng: Tatoeba-train-v2023-09-26.eng-pam.strict (30) bible (185287) 
+   sxn-eng: bible (491331) 
+   tbl-eng: bible (165244) 
+   war-eng: Tatoeba-train-v2023-09-26.eng-war.strict (2696491) wikibooks.aa (990749) wikinews.aa (457039) wikipedia.aa (980754) wikipedia.ab (980847) wikipedia.ac (980869) wikipedia.ad (980736) wikiquote.aa (996816) bible (167590) 
+validation-data:
+   ceb-eng: Tatoeba-dev-v2023-09-26, 980
+   eng-ilo: Tatoeba-dev-v2023-09-26, 955
+   eng-pam: Tatoeba-dev-v2023-09-26, 481
+   eng-war: Tatoeba-dev-v2023-09-26, 55
+   total-size-shuffled: 2471
+   devset-selected: top 2471  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-eng: 4100/28584
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 20.5
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 0.40265

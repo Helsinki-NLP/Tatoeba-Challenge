@@ -1,0 +1,82 @@
+release: art-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - afh_Latn
+   - avk_Latn
+   - bzt_Latn
+   - dws_Latn
+   - epo
+   - ido_Latn
+   - ile_Latn
+   - ina_Latn
+   - jbo
+   - jbo_Cyrl
+   - jbo_Latn
+   - ldn_Latn
+   - lfn_Cyrl
+   - lfn_Latn
+   - nov_Latn
+   - qya
+   - qya_Latn
+   - sjn_Latn
+   - tlh
+   - tlh_Latn
+   - tzl
+   - tzl_Latn
+   - vol_Latn
+target-languages:
+   - eng
+raw-source-languages:
+   - afh
+   - avk
+   - bzt
+   - dws
+   - epo
+   - ido
+   - ile
+   - ina
+   - jbo
+   - ldn
+   - lfn
+   - nov
+   - qya
+   - sjn
+   - tlh
+   - tzl
+   - vol
+raw-target-languages:
+   - eng
+training-data:
+   epo-eng: Tatoeba-train-v2023-09-26.eng-epo.strict (50000000) wikibooks.aa (991905) wikinews.aa (457337) wikipedia.aa (983705) wikipedia.ab (983883) wikipedia.ac (983873) wikipedia.ad (983675) wikiquote.aa (996991) bible (258756) 
+   jbo_Latn-eng: Tatoeba-train-v2023-09-26.eng-jbo_Latn.strict (401) 
+   lfn_Latn-eng: Tatoeba-train-v2023-09-26.eng-lfn_Latn.strict (42) 
+   tlh-eng: Tatoeba-train-v2023-09-26.eng-tlh.strict (86) bible (258520) 
+   tlh_Latn-eng: Tatoeba-train-v2023-09-26.eng-tlh_Latn.strict (86) 
+validation-data:
+   eng-epo: Tatoeba-dev-v2023-09-26, 240122
+   eng-jbo_Latn: Tatoeba-dev-v2023-09-26, 6728
+   eng-lfn_Latn: Tatoeba-dev-v2023-09-26, 2469
+   eng-qya: Tatoeba-dev-v2023-09-26, 3
+   eng-tlh: Tatoeba-dev-v2023-09-26, 6298
+   eng-tlh_Latn: Tatoeba-dev-v2023-09-26, 6277
+   eng-tzl: Tatoeba-dev-v2023-09-26, 20
+   total-size-shuffled: 4026
+   devset-selected: top 4026  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-eng: 10000/89203
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 36.5
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 0.52052

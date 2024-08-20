@@ -575,6 +575,20 @@ update-models:
 	git add models/results/*.txt
 	${MAKE} GIT_COMMIT_MESSAGE='latest models added' update-git
 
+.PHONY: update-models-info
+update-models-info:
+	-${MAKE} released-model-list
+	-${MAKE} released-model-results
+	python3 ${SCRIPTDIR}/convert-model-info-to-json.py
+	find ${MODEL_RELEASEDIR} -name 'README.md' | xargs -n 500 git add
+	find ${MODEL_RELEASEDIR} -name '*.yml' | xargs -n 500 git add
+	find ${MODEL_RELEASEDIR} -name '*.json' | xargs -n 500 git add
+	git add results/*.md
+	git add models/*.txt
+	git add models/results/*.txt
+	${MAKE} GIT_COMMIT_MESSAGE='latest models added' update-git
+
+
 GIT_COMMIT_MESSAGE ?= latest changes
 
 .PHONY: update-git

@@ -192,3 +192,24 @@
 | tico19-test.en-ti_ET.tir-eng 	| 33.4 	| 0.452 	| 2100 	| 56848 	| 1.000 |
 | tico19-test.tir-eng 	| 30.6 	| 0.426 	| 2100 	| 56848 	| 1.000 |
 
+
+# opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+
+* dataset: opusTCv20230926max50+bt+jhubc
+* model: transformer-big
+* source language(s): acm afb amh apc ara arc arq arz hbo hbo_Hebr heb jpa_Hebr mlt oar_Hebr oar_Syrc phn_Phnx sgw syc syr tig tir tmr_Hebr
+* target language(s): eng
+* raw source language(s): acm afb amh apc ara arc arq arz hbo heb jpa mlt oar phn sgw syc syr tig tir tmr
+* raw target language(s): eng
+* model: transformer-big
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip)
+* test set translations: [opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.test.txt)
+* test set scores: [opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/sem-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test-v2023-09-26.multi-eng 	| 48.5 	| 0.64511 	| 10000 	| 71553 	| 0.997 |
+

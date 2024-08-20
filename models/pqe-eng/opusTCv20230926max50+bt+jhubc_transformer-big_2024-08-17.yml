@@ -1,0 +1,291 @@
+release: pqe-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - aai
+   - aia
+   - alp
+   - amk
+   - aoz
+   - apr
+   - aui
+   - bmk
+   - bnp
+   - buk
+   - bzh
+   - dad
+   - dob
+   - dww
+   - emi
+   - far
+   - fij
+   - frd
+   - gfk
+   - gil
+   - haw
+   - hla
+   - hot
+   - hvn
+   - kbm
+   - khz
+   - kje
+   - kpg
+   - kqf
+   - kqw
+   - kud
+   - kwf
+   - lcm
+   - leu
+   - lex
+   - lid
+   - mah
+   - mee
+   - mek
+   - mgm_Latn
+   - mmo
+   - mmx
+   - mna
+   - mox
+   - mpx
+   - mri
+   - mva
+   - mwc
+   - myw
+   - mzz
+   - nak
+   - nau
+   - niu
+   - nsn
+   - nss
+   - nwi
+   - ptp
+   - pwg
+   - rai
+   - rap
+   - rro
+   - rug
+   - sgz
+   - smo
+   - snc
+   - sps
+   - stn
+   - swp
+   - tah
+   - tbc
+   - tbo
+   - tet
+   - tgo
+   - tgp
+   - tkl
+   - tlx
+   - ton
+   - tpa
+   - tpz
+   - tte
+   - tuc
+   - tvl
+   - twu
+   - ubr
+   - uvl
+   - viv
+   - wed
+   - wuv
+   - xsi
+   - yml
+target-languages:
+   - eng
+raw-source-languages:
+   - aai
+   - aia
+   - alp
+   - amk
+   - aoz
+   - apr
+   - aui
+   - bmk
+   - bnp
+   - buk
+   - bzh
+   - dad
+   - dob
+   - dww
+   - emi
+   - far
+   - fij
+   - frd
+   - gfk
+   - gil
+   - haw
+   - hla
+   - hot
+   - hvn
+   - kbm
+   - khz
+   - kje
+   - kpg
+   - kqf
+   - kqw
+   - kud
+   - kwf
+   - lcm
+   - leu
+   - lex
+   - lid
+   - mah
+   - mee
+   - mek
+   - mgm
+   - mmo
+   - mmx
+   - mna
+   - mox
+   - mpx
+   - mri
+   - mva
+   - mwc
+   - myw
+   - mzz
+   - nak
+   - nau
+   - niu
+   - nsn
+   - nss
+   - nwi
+   - ptp
+   - pwg
+   - rai
+   - rap
+   - rro
+   - rug
+   - sgz
+   - smo
+   - snc
+   - sps
+   - stn
+   - swp
+   - tah
+   - tbc
+   - tbo
+   - tet
+   - tgo
+   - tgp
+   - tkl
+   - tlx
+   - ton
+   - tpa
+   - tpz
+   - tte
+   - tuc
+   - tvl
+   - twu
+   - ubr
+   - uvl
+   - viv
+   - wed
+   - wuv
+   - xsi
+   - yml
+raw-target-languages:
+   - eng
+training-data:
+   aai-eng: bible (168266) 
+   aia-eng: bible (325605) 
+   alp-eng: bible (167063) 
+   amk-eng: bible (168015) 
+   apr-eng: bible (165149) 
+   aui-eng: bible (16999) 
+   bmk-eng: bible (16951) 
+   bnp-eng: bible (192265) 
+   buk-eng: bible (164967) 
+   bzh-eng: bible (230636) 
+   dad-eng: bible (163893) 
+   dob-eng: bible (166644) 
+   dww-eng: bible (166665) 
+   emi-eng: bible (72233) 
+   far-eng: bible (168061) 
+   fij-eng: bible (346320) 
+   frd-eng: bible (164134) 
+   gfk-eng: bible (160596) 
+   gil-eng: bible (331608) 
+   haw-eng: bible (153837) 
+   hla-eng: bible (163336) 
+   hot-eng: bible (162765) 
+   hvn-eng: bible (167135) 
+   kbm-eng: bible (164531) 
+   khz-eng: bible (167998) 
+   kje-eng: bible (167864) 
+   kpg-eng: bible (167873) 
+   kqf-eng: bible (17057) 
+   kqw-eng: bible (57667) 
+   kud-eng: bible (167133) 
+   kwf-eng: bible (166650) 
+   lcm-eng: bible (172662) 
+   leu-eng: bible (166331) 
+   lex-eng: bible (167967) 
+   lid-eng: bible (173597) 
+   mah-eng: bible (259160) 
+   mee-eng: bible (167250) 
+   mek-eng: bible (164316) 
+   mmo-eng: bible (168112) 
+   mmx-eng: bible (168468) 
+   mna-eng: bible (171773) 
+   mox-eng: bible (165545) 
+   mpx-eng: bible (205375) 
+   mri-eng: Tatoeba-train-v2023-09-26.eng-mri.strict (5498985) bible (259166) 
+   mva-eng: bible (168182) 
+   mwc-eng: bible (14377) 
+   myw-eng: bible (142492) 
+   mzz-eng: bible (17002) 
+   nak-eng: bible (166857) 
+   nsn-eng: bible (166858) 
+   nss-eng: bible (23582) 
+   nwi-eng: bible (157711) 
+   ptp-eng: bible (167528) 
+   pwg-eng: bible (167643) 
+   rai-eng: bible (166850) 
+   rro-eng: bible (168146) 
+   rug-eng: bible (257563) 
+   sgz-eng: bible (164582) 
+   smo-eng: bible (323261) 
+   snc-eng: bible (167926) 
+   sps-eng: bible (168494) 
+   stn-eng: bible (184665) 
+   swp-eng: bible (178537) 
+   tbc-eng: bible (166389) 
+   tbo-eng: bible (167501) 
+   tgo-eng: bible (168168) 
+   tgp-eng: bible (181847) 
+   tlx-eng: bible (168294) 
+   tpa-eng: bible (17104) 
+   tpz-eng: bible (166092) 
+   tte-eng: bible (163565) 
+   tuc-eng: bible (200983) 
+   twu-eng: bible (278885) 
+   ubr-eng: bible (173421) 
+   uvl-eng: bible (167222) 
+   viv-eng: bible (159291) 
+   wed-eng: bible (34131) 
+   wuv-eng: bible (168096) 
+   xsi-eng: bible (167556) 
+   yml-eng: bible (155025) 
+validation-data:
+   eng-mri: Tatoeba-dev-v2023-09-26, 954
+   total-size-shuffled: 954
+   devset-selected: top 954  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-eng: 625/3991
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 11.4
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 0.29256

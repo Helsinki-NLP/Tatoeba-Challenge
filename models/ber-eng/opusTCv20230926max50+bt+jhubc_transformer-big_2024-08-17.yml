@@ -1,0 +1,62 @@
+release: ber-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - ber_Arab
+   - ber_Latn
+   - ber_Tfng
+   - kab
+   - rif_Latn
+   - shi
+   - shi_Latn
+   - shy_Latn
+   - taq
+   - tmh
+   - ttq
+   - tzm_Latn
+   - tzm_Tfng
+   - zgh
+target-languages:
+   - eng
+raw-source-languages:
+   - ber
+   - kab
+   - rif
+   - shi
+   - shy
+   - taq
+   - tmh
+   - ttq
+   - tzm
+   - zgh
+raw-target-languages:
+   - eng
+training-data:
+   ber_Latn-eng: Tatoeba-train-v2023-09-26.ber_Latn-eng.strict (27) 
+   kab-eng: Tatoeba-train-v2023-09-26.eng-kab.strict (2820810) bible (334404) 
+   shi-eng: Tatoeba-train-v2023-09-26.eng-shi.strict (8084) bible (335071) 
+   taq-eng: bible (335784) 
+   ttq-eng: bible (11999) 
+validation-data:
+   ber_Latn-eng: Tatoeba-dev-v2023-09-26, 103682
+   eng-kab: Tatoeba-dev-v2023-09-26, 13560
+   eng-shi: Tatoeba-dev-v2023-09-26, 780
+   total-size-shuffled: 2780
+   devset-selected: top 2780  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-eng: 10000/70602
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 12.7
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 0.30237

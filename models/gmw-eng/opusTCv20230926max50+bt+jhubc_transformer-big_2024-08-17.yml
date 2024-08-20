@@ -1,0 +1,151 @@
+release: gmw-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - afr
+   - ang_Latn
+   - bar
+   - bis
+   - bzj
+   - deu
+   - djk
+   - djk_Latn
+   - drt_Latn
+   - eng
+   - enm_Latn
+   - frr
+   - fry
+   - gos
+   - gsw
+   - hrx_Latn
+   - hwc
+   - icr
+   - jam
+   - kri
+   - ksh
+   - lim
+   - ltz
+   - nds
+   - nld
+   - ofs_Latn
+   - pcm
+   - pdc
+   - pfl
+   - pih
+   - pih_Latn
+   - pis
+   - rop
+   - sco
+   - srm
+   - srn
+   - stq
+   - swg
+   - tcs
+   - tpi
+   - vls
+   - wae
+   - yid
+   - zea
+target-languages:
+   - eng
+raw-source-languages:
+   - afr
+   - ang
+   - bar
+   - bis
+   - bzj
+   - deu
+   - djk
+   - drt
+   - eng
+   - enm
+   - frr
+   - fry
+   - gos
+   - gsw
+   - hrx
+   - hwc
+   - icr
+   - jam
+   - kri
+   - ksh
+   - lim
+   - ltz
+   - nds
+   - nld
+   - ofs
+   - pcm
+   - pdc
+   - pfl
+   - pih
+   - pis
+   - rop
+   - sco
+   - srm
+   - srn
+   - stq
+   - swg
+   - tcs
+   - tpi
+   - vls
+   - wae
+   - yid
+   - zea
+raw-target-languages:
+   - eng
+training-data:
+   afr-eng: Tatoeba-train-v2023-09-26.afr-eng.strict (12784912) wikibooks.aa.eng-afr (991733) wikinews.aa.eng-afr (457100) wikipedia.aa.eng-afr (981401) wikipedia.ab.eng-afr (981576) wikipedia.ac.eng-afr (981595) wikipedia.ad.eng-afr (981384) wikiquote.aa.eng-afr (996976) bible (922740) 
+   bis-eng: bible (165807) 
+   bzj-eng: bible (195886) 
+   deu-eng: Tatoeba-train-v2023-09-26.deu-eng.strict (50000000) wikibooks.aa.eng-deu (992787) wikinews.aa.eng-deu (457495) wikipedia.aa.eng-deu (984173) wikipedia.ab.eng-deu (984354) wikipedia.ac.eng-deu (984335) wikipedia.ad.eng-deu (984104) wikiquote.aa.eng-deu (997198) bible (4301355) 
+   djk-eng: bible (167816) 
+   eng-eng: Tatoeba-train-v2023-09-26.eng-eng.strict.eng1.gz (8853224) 
+   fry-eng: Tatoeba-train-v2023-09-26.eng-fry.strict (629865) wikibooks.aa (991899) wikinews.aa (457270) wikipedia.aa (983313) wikipedia.ab (983525) wikipedia.ac (983530) wikipedia.ad (983304) wikiquote.aa (996833) 
+   gsw-eng: bible (167921) 
+   hwc-eng: bible (156111) 
+   icr-eng: bible (168072) 
+   jam-eng: bible (225886) 
+   kri-eng: bible (171442) 
+   ltz-eng: Tatoeba-train-v2023-09-26.eng-ltz.strict (7566766) wikibooks.aa (991899) wikinews.aa (457270) wikipedia.aa (983313) wikipedia.ab (983525) wikipedia.ac (983530) wikipedia.ad (983304) wikiquote.aa (996833) 
+   nds-eng: Tatoeba-train-v2023-09-26.eng-nds.strict (195900) wikibooks.aa (991899) wikinews.aa (457270) wikipedia.aa (983313) wikipedia.ab (983525) wikipedia.ac (983530) wikipedia.ad (983304) wikiquote.aa (996833) bible (167839) 
+   nld-eng: Tatoeba-train-v2023-09-26.eng-nld.strict (32412964) wikibooks.aa (992499) wikinews.aa (457299) wikipedia.aa (983381) wikipedia.ab (983558) wikipedia.ac (983500) wikipedia.ad (983330) wikiquote.aa (997131) bible (746353) 
+   pcm-eng: bible (168282) 
+   pis-eng: bible (264692) 
+   rop-eng: bible (159674) 
+   sco-eng: bible (17604) 
+   srm-eng: bible (191469) 
+   srn-eng: bible (218990) 
+   swg-eng: bible (160373) 
+   tcs-eng: bible (168669) 
+   tpi-eng: bible (258009) 
+   yid-eng: Tatoeba-train-v2023-09-26.eng-yid.strict (4905887) 
+validation-data:
+   afr-eng: Tatoeba-dev-v2023-09-26, 1052
+   deu-eng: Tatoeba-dev-v2023-09-26, 288997
+   eng-eng: Tatoeba-dev-v2023-09-26, 96568
+   eng-fry: Tatoeba-dev-v2023-09-26, 898
+   eng-gos: Tatoeba-dev-v2023-09-26, 95
+   eng-gsw: Tatoeba-dev-v2023-09-26, 104
+   eng-ltz: Tatoeba-dev-v2023-09-26, 642
+   eng-nds: Tatoeba-dev-v2023-09-26, 3278
+   eng-nld: Tatoeba-dev-v2023-09-26, 62130
+   eng-yid: Tatoeba-dev-v2023-09-26, 4276
+   total-size-shuffled: 7739
+   devset-selected: top 5000  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-eng: 10000/84720
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 52.6
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 0.70028

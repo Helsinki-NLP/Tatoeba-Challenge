@@ -1,0 +1,161 @@
+release: deu+eng+fra+por+spa-bat/opusTCv20230926max50+bt+jhubc_transformer-big_2024-05-29.zip
+release-date: 2024-05-29
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+target-languages:
+   - lav
+   - lit
+   - prg_Latn
+   - sgs
+raw-source-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+raw-target-languages:
+   - lav
+   - lit
+   - prg
+   - sgs
+use-target-labels:
+training-data:
+   deu-lav: Tatoeba-train-v2023-09-26.deu-lav.strict (28099047) bible (251844) 
+   deu-lit: Tatoeba-train-v2023-09-26.deu-lit.strict (35861637) bible (495823) 
+   eng-lav: Tatoeba-train-v2023-09-26.eng-lav.strict (43599765) wiki.aa.lav-eng (976697) wiki.ab.lav-eng (268289) wikibooks.aa.lav-eng (715) bible (335703) 
+   eng-lit: Tatoeba-train-v2023-09-26.eng-lit.strict (50000000) wiki.aa.lit-eng (972259) wiki.ab.lit-eng (971851) wiki.ac.lit-eng (68088) wikibooks.aa.lit-eng (4563) wikiquote.aa.lit-eng (32439) wikisource.aa.lit-eng (53672) bible (407423) 
+   fra-lav: Tatoeba-train-v2023-09-26.fra-lav.strict (32481778) bible (208233) 
+   fra-lit: Tatoeba-train-v2023-09-26.fra-lit.strict (41832825) bible (453163) 
+   por-lav: Tatoeba-train-v2023-09-26.lav-por.strict (22465190) bible (98882) 
+   por-lit: Tatoeba-train-v2023-09-26.lit-por.strict (28601983) bible (161429) 
+   spa-lav: Tatoeba-train-v2023-09-26.lav-spa.strict (30190674) bible (99939) 
+   spa-lit: Tatoeba-train-v2023-09-26.lit-spa.strict (40471670) bible (94402) 
+validation-data:
+   deu-lav: Tatoeba-dev-v2023-09-26, 843
+   deu-lit: Tatoeba-dev-v2023-09-26, 539
+   eng-lav: Tatoeba-dev-v2023-09-26, 185
+   eng-lit: Tatoeba-dev-v2023-09-26, 5547
+   eng-sgs: Tatoeba-dev-v2023-09-26, 19
+   fra-lav: Tatoeba-dev-v2023-09-26, 1000
+   fra-lit: Tatoeba-dev-v2023-09-26, 950
+   lav-por: Tatoeba-dev-v2023-09-26, 1000
+   lit-por: Tatoeba-dev-v2023-09-26, 1000
+   lav-spa: Tatoeba-dev-v2023-09-26, 1000
+   lit-spa: Tatoeba-dev-v2023-09-26, 937
+   total-size-shuffled: 8473
+   devset-selected: top 5000  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 6367/38034
+   flores101-devtest.deu-lav: 1012/22092
+   flores101-devtest.eng-lav: 1012/22092
+   flores101-devtest.eng-lit: 1012/20695
+   flores101-devtest.fra-lav: 1012/22092
+   flores101-devtest.fra-lit: 1012/20695
+   flores101-devtest.spa-lav: 1012/22092
+   flores200-devtest.deu-lit: 1012/20695
+   flores200-devtest.eng-lit: 1012/20695
+   flores200-devtest.fra-lit: 1012/20695
+   flores200-devtest.por-lit: 1012/20695
+   flores200-devtest.spa-lit: 1012/20695
+   newstest2017.eng-lav: 2001/39392
+   newstest2019.eng-lit: 998/19711
+   ntrex128.deu-lav: 1997/44709
+   ntrex128.deu-lit: 1997/41189
+   ntrex128.eng-lav: 1997/44709
+   ntrex128.eng-lit: 1997/41189
+   ntrex128.fra-lav: 1997/44709
+   ntrex128.fra-lit: 1997/41189
+   ntrex128.por-lav: 1997/44709
+   ntrex128.por-lit: 1997/41189
+   ntrex128.spa-lav: 1997/44709
+   ntrex128.spa-lit: 1997/41189
+   tatoeba-test-v2020-07-28.eng-lit: 2500/14798
+   tatoeba-test-v2020-07-28.spa-lit: 452/2341
+   tatoeba-test-v2021-03-30.eng-lit: 5003/29598
+   tatoeba-test-v2021-03-30.spa-lit: 457/2364
+   tatoeba-test-v2021-08-07.deu-lit: 1115/7091
+   tatoeba-test-v2021-08-07.eng-lav: 1631/9932
+   tatoeba-test-v2021-08-07.eng-lit: 2528/14942
+   tatoeba-test-v2021-08-07.spa-lit: 454/2352
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 43.3
+   flores101-devtest.deu-lav: 24.4
+   flores101-devtest.eng-lav: 31.0
+   flores101-devtest.eng-lit: 27.2
+   flores101-devtest.fra-lav: 24.2
+   flores101-devtest.fra-lit: 22.4
+   flores101-devtest.spa-lav: 17.8
+   flores200-devtest.deu-lit: 22.6
+   flores200-devtest.eng-lit: 27.7
+   flores200-devtest.fra-lit: 22.3
+   flores200-devtest.por-lit: 22.6
+   flores200-devtest.spa-lit: 16.9
+   newstest2017.eng-lav: 21.5
+   newstest2019.eng-lit: 18.3
+   ntrex128.deu-lav: 16.8
+   ntrex128.deu-lit: 17.6
+   ntrex128.eng-lav: 20.6
+   ntrex128.eng-lit: 21.5
+   ntrex128.fra-lav: 15.5
+   ntrex128.fra-lit: 16.2
+   ntrex128.por-lav: 17.3
+   ntrex128.por-lit: 17.5
+   ntrex128.spa-lav: 17.1
+   ntrex128.spa-lit: 17.1
+   tatoeba-test-v2020-07-28.eng-lit: 39.5
+   tatoeba-test-v2020-07-28.spa-lit: 42.8
+   tatoeba-test-v2021-03-30.eng-lit: 39.5
+   tatoeba-test-v2021-03-30.spa-lit: 42.8
+   tatoeba-test-v2021-08-07.deu-lit: 39.8
+   tatoeba-test-v2021-08-07.eng-lav: 46.4
+   tatoeba-test-v2021-08-07.eng-lit: 39.8
+   tatoeba-test-v2021-08-07.spa-lit: 43.3
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.68018
+   flores101-devtest.deu-lav: 0.54724
+   flores101-devtest.eng-lav: 0.59955
+   flores101-devtest.eng-lit: 0.58961
+   flores101-devtest.fra-lav: 0.54276
+   flores101-devtest.fra-lit: 0.54665
+   flores101-devtest.spa-lav: 0.50131
+   flores200-devtest.deu-lit: 0.54957
+   flores200-devtest.eng-lit: 0.59338
+   flores200-devtest.fra-lit: 0.54683
+   flores200-devtest.por-lit: 0.55033
+   flores200-devtest.spa-lit: 0.50725
+   newstest2017.eng-lav: 0.53192
+   newstest2019.eng-lit: 0.51714
+   ntrex128.deu-lav: 0.47980
+   ntrex128.deu-lit: 0.50645
+   ntrex128.eng-lav: 0.51026
+   ntrex128.eng-lit: 0.54187
+   ntrex128.fra-lav: 0.45346
+   ntrex128.fra-lit: 0.48870
+   ntrex128.por-lav: 0.47809
+   ntrex128.por-lit: 0.50653
+   ntrex128.spa-lav: 0.47690
+   ntrex128.spa-lit: 0.50412
+   tatoeba-test-v2020-07-28.eng-lit: 0.67468
+   tatoeba-test-v2020-07-28.spa-lit: 0.68015
+   tatoeba-test-v2021-03-30.eng-lit: 0.67451
+   tatoeba-test-v2021-03-30.spa-lit: 0.68064
+   tatoeba-test-v2021-08-07.deu-lit: 0.65379
+   tatoeba-test-v2021-08-07.eng-lav: 0.68823
+   tatoeba-test-v2021-08-07.eng-lit: 0.67792
+   tatoeba-test-v2021-08-07.spa-lit: 0.68133

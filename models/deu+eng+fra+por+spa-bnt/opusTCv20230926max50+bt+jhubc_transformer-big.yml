@@ -1,0 +1,1195 @@
+release: deu+eng+fra+por+spa-bnt/opusTCv20230926max50+bt+jhubc_transformer-big_2024-05-29.zip
+release-date: 2024-05-29
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+target-languages:
+   - bas
+   - bem
+   - bnt_Latn
+   - bss
+   - cce
+   - cjk
+   - cjk_Latn
+   - cwe
+   - dig
+   - dug
+   - gog
+   - gwr
+   - hay
+   - heh
+   - her
+   - jmc
+   - kam
+   - kdc
+   - kdn
+   - kik
+   - kin
+   - kki
+   - kkj
+   - kmb
+   - kng
+   - kon
+   - ksb
+   - kua
+   - ldi
+   - lem
+   - lin
+   - lon
+   - lsm
+   - lua
+   - lug
+   - luy
+   - mcp
+   - myx
+   - nbl
+   - nde
+   - ndo
+   - nim
+   - nnb
+   - nnb_Latn
+   - nso
+   - nuj
+   - nya
+   - nyf
+   - nyn
+   - nyo
+   - nyy
+   - old
+   - ozm
+   - pkb
+   - rim
+   - run
+   - seh
+   - sna
+   - sot
+   - ssw
+   - suk
+   - swa
+   - swc
+   - swh
+   - sxb
+   - thk
+   - tlj
+   - toh
+   - toi
+   - toi_Latn
+   - tsn
+   - tso
+   - tum
+   - umb
+   - ven
+   - vmw
+   - vun
+   - wmw
+   - xho
+   - xog
+   - zul
+raw-source-languages:
+   - deu
+   - eng
+   - fra
+   - por
+   - spa
+raw-target-languages:
+   - bas
+   - bem
+   - bnt
+   - bss
+   - cce
+   - cjk
+   - cwe
+   - dig
+   - dug
+   - gog
+   - gwr
+   - hay
+   - heh
+   - her
+   - jmc
+   - kam
+   - kdc
+   - kdn
+   - kik
+   - kin
+   - kki
+   - kkj
+   - kmb
+   - kng
+   - kon
+   - ksb
+   - kua
+   - ldi
+   - lem
+   - lin
+   - lon
+   - lsm
+   - lua
+   - lug
+   - luy
+   - mcp
+   - myx
+   - nbl
+   - nde
+   - ndo
+   - nim
+   - nnb
+   - nso
+   - nuj
+   - nya
+   - nyf
+   - nyn
+   - nyo
+   - nyy
+   - old
+   - ozm
+   - pkb
+   - rim
+   - run
+   - seh
+   - sna
+   - sot
+   - ssw
+   - suk
+   - swa
+   - swc
+   - swh
+   - sxb
+   - thk
+   - tlj
+   - toh
+   - toi
+   - tsn
+   - tso
+   - tum
+   - umb
+   - ven
+   - vmw
+   - vun
+   - wmw
+   - xho
+   - xog
+   - zul
+use-target-labels:
+training-data:
+   deu-bss: bible (184140) 
+   deu-cce: bible (128060) 
+   deu-cwe: bible (125550) 
+   deu-dig: bible (125379) 
+   deu-dug: bible (186112) 
+   deu-gog: bible (128369) 
+   deu-gwr: bible (126064) 
+   deu-hay: bible (141928) 
+   deu-heh: bible (126148) 
+   deu-jmc: bible (169702) 
+   deu-kdc: bible (126103) 
+   deu-kdn: bible (123687) 
+   deu-kin: bible (368527) 
+   deu-kki: bible (126358) 
+   deu-kkj: bible (126211) 
+   deu-kng: bible (126040) 
+   deu-ksb: bible (126079) 
+   deu-ldi: bible (126146) 
+   deu-lem: bible (251997) 
+   deu-lon: bible (125702) 
+   deu-lsm: bible (126105) 
+   deu-mcp: bible (126118) 
+   deu-myx: bible (126248) 
+   deu-nde: bible (122316) 
+   deu-ndo: bible (121795) 
+   deu-nim: bible (134866) 
+   deu-nnb: bible (126248) 
+   deu-nso: bible (249356) 
+   deu-nuj: bible (126168) 
+   deu-nya: bible (125823) 
+   deu-nyf: bible (137103) 
+   deu-nyn: bible (126135) 
+   deu-nyo: bible (126208) 
+   deu-nyy: bible (215661) 
+   deu-old: bible (170891) 
+   deu-ozm: bible (251045) 
+   deu-pkb: bible (128272) 
+   deu-rim: bible (126341) 
+   deu-run: Tatoeba-train-v2023-09-26.deu-run.strict (320760) bible (126164) 
+   deu-seh: bible (115795) 
+   deu-sna: bible (126234) 
+   deu-sot: bible (250258) 
+   deu-suk: bible (126091) 
+   deu-swa: Tatoeba-train-v2023-09-26.deu-swa.strict (4070049) 
+   deu-swh: bible (320259) 
+   deu-sxb: bible (121887) 
+   deu-thk: bible (126474) 
+   deu-tlj: bible (126116) 
+   deu-toh: bible (165993) 
+   deu-tsn: Tatoeba-train-v2023-09-26.deu-tsn.strict (735237) bible (250442) 
+   deu-tso: bible (124186) 
+   deu-vmw: bible (126259) 
+   deu-vun: bible (176639) 
+   deu-wmw: bible (139306) 
+   deu-xho: Tatoeba-train-v2023-09-26.deu-xho.strict (942602) bible (757273) 
+   deu-xog: bible (126219) 
+   deu-zul: bible (125970) 
+   eng-bas: Tatoeba-train-v2023-09-26.bas-eng.strict (26778) 
+   eng-bem: Tatoeba-train-v2023-09-26.bem-eng.strict (728913) 
+   eng-bss: bible (245439) 
+   eng-cce: bible (170662) 
+   eng-cjk: Tatoeba-train-v2023-09-26.cjk-eng.strict (643) 
+   eng-cjk_Latn: Tatoeba-train-v2023-09-26.cjk_Latn-eng.strict (231757) 
+   eng-cwe: bible (167373) 
+   eng-dig: bible (167146) 
+   eng-dug: bible (248232) 
+   eng-gog: bible (171103) 
+   eng-gwr: bible (168022) 
+   eng-hay: bible (188755) 
+   eng-heh: bible (168178) 
+   eng-her: Tatoeba-train-v2023-09-26.eng-her.strict (6892) 
+   eng-jmc: bible (226180) 
+   eng-kam: Tatoeba-train-v2023-09-26.eng-kam.strict (1400241) 
+   eng-kdc: bible (168101) 
+   eng-kdn: bible (165114) 
+   eng-kik: Tatoeba-train-v2023-09-26.eng-kik.strict (1897923) 
+   eng-kin: Tatoeba-train-v2023-09-26.eng-kin.strict (10105386) wiki.aa.kin-eng (3694) bible (491715) 
+   eng-kki: bible (168431) 
+   eng-kkj: bible (168279) 
+   eng-kmb: Tatoeba-train-v2023-09-26.eng-kmb.strict (275734) 
+   eng-kng: bible (168022) 
+   eng-kon: Tatoeba-train-v2023-09-26.eng-kon.strict (2200421) 
+   eng-ksb: bible (168055) 
+   eng-kua: Tatoeba-train-v2023-09-26.eng-kua.strict (100837) 
+   eng-ldi: bible (168183) 
+   eng-lem: bible (335874) 
+   eng-lin: Tatoeba-train-v2023-09-26.eng-lin.strict (2943745) wiki.aa.lin-eng (7553) 
+   eng-lon: bible (167641) 
+   eng-lsm: bible (168146) 
+   eng-lua: Tatoeba-train-v2023-09-26.eng-lua.strict (386398) 
+   eng-lug: Tatoeba-train-v2023-09-26.eng-lug.strict (3261035) wiki.aa.lug-eng (16111) 
+   eng-mcp: bible (168094) 
+   eng-myx: bible (168291) 
+   eng-nbl: Tatoeba-train-v2023-09-26.eng-nbl.strict (3524) 
+   eng-nde: Tatoeba-train-v2023-09-26.eng-nde.strict (56559) bible (163400) 
+   eng-ndo: bible (162448) 
+   eng-nim: bible (179769) 
+   eng-nnb: bible (168284) 
+   eng-nso: Tatoeba-train-v2023-09-26.eng-nso.strict (2506327) bible (332625) 
+   eng-nuj: bible (168186) 
+   eng-nya: Tatoeba-train-v2023-09-26.eng-nya.strict (2418334) wiki.aa.nya-eng (5459) bible (167714) 
+   eng-nyf: bible (182713) 
+   eng-nyn: bible (168146) 
+   eng-nyo: bible (168209) 
+   eng-nyy: bible (287700) 
+   eng-old: bible (227702) 
+   eng-ozm: bible (334883) 
+   eng-pkb: bible (171058) 
+   eng-rim: bible (168430) 
+   eng-run: Tatoeba-train-v2023-09-26.eng-run.strict (979800) wiki.aa.run-eng (2551) bible (168168) 
+   eng-seh: bible (154654) 
+   eng-sna: Tatoeba-train-v2023-09-26.eng-sna.strict (9062941) wiki.aa.sna-eng (30652) bible (168288) 
+   eng-sot: Tatoeba-train-v2023-09-26.eng-sot.strict (2036550) bible (333667) 
+   eng-ssw: Tatoeba-train-v2023-09-26.eng-ssw.strict (272551) 
+   eng-suk: bible (168072) 
+   eng-swa: Tatoeba-train-v2023-09-26.eng-swa.strict (31212354) wiki.aa.swa-eng (254959) wikibooks.aa.swa-eng (1758) 
+   eng-swh: bible (427160) 
+   eng-sxb: bible (162658) 
+   eng-thk: bible (168600) 
+   eng-tlj: bible (168077) 
+   eng-toh: bible (220790) 
+   eng-toi: Tatoeba-train-v2023-09-26.eng-toi.strict (573) 
+   eng-toi_Latn: Tatoeba-train-v2023-09-26.eng-toi_Latn.strict (288965) 
+   eng-tsn: Tatoeba-train-v2023-09-26.eng-tsn.strict (5068038) bible (333869) 
+   eng-tso: Tatoeba-train-v2023-09-26.eng-tso.strict (1262071) wiki.aa.tso-eng (4437) bible (165534) 
+   eng-tum: Tatoeba-train-v2023-09-26.eng-tum.strict (52814) 
+   eng-umb: Tatoeba-train-v2023-09-26.eng-umb.strict (457741) 
+   eng-ven: Tatoeba-train-v2023-09-26.eng-ven.strict (205317) 
+   eng-vmw: bible (168298) 
+   eng-vun: bible (235647) 
+   eng-wmw: bible (185828) 
+   eng-xho: Tatoeba-train-v2023-09-26.eng-xho.strict (8358384) wiki.aa.xho-eng (8899) wikibooks.aa.xho-eng (44) bible (511566) 
+   eng-xog: bible (168260) 
+   eng-zul: Tatoeba-train-v2023-09-26.eng-zul.strict (5440523) wiki.aa.zul-eng (7060) wikibooks.aa.zul-eng (19) bible (167937) 
+   fra-bss: bible (152192) 
+   fra-cce: bible (105876) 
+   fra-cwe: bible (103793) 
+   fra-dig: bible (103657) 
+   fra-dug: bible (153809) 
+   fra-gog: bible (106133) 
+   fra-gwr: bible (104209) 
+   fra-hay: bible (117321) 
+   fra-heh: bible (104317) 
+   fra-jmc: bible (140219) 
+   fra-kdc: bible (104255) 
+   fra-kdn: bible (102294) 
+   fra-kin: bible (305035) 
+   fra-kki: bible (104485) 
+   fra-kkj: bible (104365) 
+   fra-kng: bible (104209) 
+   fra-ksb: bible (104217) 
+   fra-ldi: bible (104287) 
+   fra-lem: bible (208363) 
+   fra-lin: Tatoeba-train-v2023-09-26.fra-lin.strict (1061725) 
+   fra-lon: bible (103912) 
+   fra-lsm: bible (104263) 
+   fra-mcp: bible (104250) 
+   fra-myx: bible (104388) 
+   fra-nde: bible (101180) 
+   fra-ndo: bible (100817) 
+   fra-nim: bible (111535) 
+   fra-nnb: bible (104387) 
+   fra-nso: bible (206206) 
+   fra-nuj: bible (104314) 
+   fra-nya: bible (104015) 
+   fra-nyf: bible (113342) 
+   fra-nyn: bible (104294) 
+   fra-nyo: bible (104341) 
+   fra-nyy: bible (178355) 
+   fra-old: bible (141227) 
+   fra-ozm: bible (207569) 
+   fra-pkb: bible (106012) 
+   fra-rim: bible (104471) 
+   fra-run: Tatoeba-train-v2023-09-26.fra-run.strict (1326535) bible (104294) 
+   fra-seh: bible (95852) 
+   fra-sna: Tatoeba-train-v2023-09-26.fra-sna.strict (2702897) bible (104377) 
+   fra-sot: bible (206939) 
+   fra-suk: bible (104235) 
+   fra-swa: Tatoeba-train-v2023-09-26.fra-swa.strict (14863523) 
+   fra-swh: bible (265086) 
+   fra-sxb: bible (100799) 
+   fra-thk: bible (104565) 
+   fra-tlj: bible (104258) 
+   fra-toh: bible (136786) 
+   fra-tsn: bible (207123) 
+   fra-tso: bible (102679) 
+   fra-vmw: bible (104401) 
+   fra-vun: bible (146130) 
+   fra-wmw: bible (115182) 
+   fra-xho: Tatoeba-train-v2023-09-26.fra-xho.strict (2769683) bible (711172) 
+   fra-xog: bible (104364) 
+   fra-zul: bible (104138) 
+   por-bss: bible (72394) 
+   por-cce: bible (50282) 
+   por-cwe: bible (49296) 
+   por-dig: bible (49245) 
+   por-dug: bible (73101) 
+   por-gog: bible (50415) 
+   por-gwr: bible (49495) 
+   por-hay: bible (55740) 
+   por-heh: bible (49542) 
+   por-jmc: bible (66549) 
+   por-kdc: bible (49520) 
+   por-kdn: bible (48610) 
+   por-kin: bible (144885) 
+   por-kki: bible (49618) 
+   por-kkj: bible (49568) 
+   por-kng: bible (49502) 
+   por-ksb: bible (49510) 
+   por-ldi: bible (49528) 
+   por-lem: bible (98935) 
+   por-lon: bible (49348) 
+   por-lsm: bible (49513) 
+   por-mcp: bible (49519) 
+   por-myx: bible (49577) 
+   por-nde: bible (48118) 
+   por-ndo: bible (47857) 
+   por-nim: bible (52957) 
+   por-nnb: bible (49573) 
+   por-nso: bible (97955) 
+   por-nuj: bible (49539) 
+   por-nya: bible (49389) 
+   por-nyf: bible (53870) 
+   por-nyn: bible (49532) 
+   por-nyo: bible (49556) 
+   por-nyy: bible (84611) 
+   por-old: bible (67078) 
+   por-ozm: bible (98555) 
+   por-pkb: bible (50395) 
+   por-rim: bible (49610) 
+   por-run: bible (49539) 
+   por-seh: bible (45414) 
+   por-sna: bible (49566) 
+   por-sot: bible (98327) 
+   por-suk: bible (49508) 
+   por-swa: Tatoeba-train-v2023-09-26.por-swa.strict (5231536) 
+   por-swh: bible (126009) 
+   por-sxb: bible (47952) 
+   por-thk: bible (49654) 
+   por-tlj: bible (49505) 
+   por-toh: bible (65406) 
+   por-tsn: bible (98364) 
+   por-tso: bible (48750) 
+   por-vmw: bible (49581) 
+   por-vun: bible (69277) 
+   por-wmw: bible (54740) 
+   por-xho: bible (232054) 
+   por-xog: bible (49566) 
+   por-zul: bible (49461) 
+   spa-bss: bible (73063) 
+   spa-cce: bible (50796) 
+   spa-cwe: bible (49827) 
+   spa-dig: bible (49761) 
+   spa-dug: bible (73773) 
+   spa-gog: bible (50925) 
+   spa-gwr: bible (50023) 
+   spa-hay: bible (56223) 
+   spa-heh: bible (50072) 
+   spa-jmc: bible (67320) 
+   spa-kdc: bible (50031) 
+   spa-kdn: bible (49149) 
+   spa-kin: bible (146722) 
+   spa-kki: bible (50146) 
+   spa-kkj: bible (50092) 
+   spa-kng: bible (50027) 
+   spa-ksb: bible (50016) 
+   spa-ldi: bible (50073) 
+   spa-lem: bible (100009) 
+   spa-lin: Tatoeba-train-v2023-09-26.lin-spa.strict (513916) 
+   spa-lon: bible (49905) 
+   spa-lsm: bible (50055) 
+   spa-mcp: bible (50031) 
+   spa-myx: bible (50106) 
+   spa-nde: bible (48633) 
+   spa-ndo: bible (48544) 
+   spa-nim: bible (53531) 
+   spa-nnb: bible (50100) 
+   spa-nso: bible (99017) 
+   spa-nuj: bible (50064) 
+   spa-nya: bible (49928) 
+   spa-nyf: bible (54369) 
+   spa-nyn: bible (50053) 
+   spa-nyo: bible (50073) 
+   spa-nyy: bible (85554) 
+   spa-old: bible (67754) 
+   spa-ozm: bible (99675) 
+   spa-pkb: bible (50913) 
+   spa-rim: bible (50146) 
+   spa-run: Tatoeba-train-v2023-09-26.run-spa.strict (317411) bible (50052) 
+   spa-seh: bible (46022) 
+   spa-sna: bible (50096) 
+   spa-sot: bible (99322) 
+   spa-suk: bible (50026) 
+   spa-swa: Tatoeba-train-v2023-09-26.spa-swa.strict (8610749) 
+   spa-swh: bible (127307) 
+   spa-sxb: bible (48392) 
+   spa-thk: bible (50197) 
+   spa-tlj: bible (50030) 
+   spa-toh: bible (65702) 
+   spa-tsn: bible (99399) 
+   spa-tso: bible (49283) 
+   spa-vmw: bible (50107) 
+   spa-vun: bible (70116) 
+   spa-wmw: bible (55332) 
+   spa-xho: bible (99159) 
+   spa-xog: bible (50092) 
+   spa-zul: bible (49986) 
+validation-data:
+   deu-run: Tatoeba-dev-v2023-09-26, 912
+   deu-swa: Tatoeba-dev-v2023-09-26, 1000
+   deu-tsn: Tatoeba-dev-v2023-09-26, 1000
+   deu-xho: Tatoeba-dev-v2023-09-26, 1000
+   bas-eng: Tatoeba-dev-v2023-09-26, 1000
+   bem-eng: Tatoeba-dev-v2023-09-26, 1000
+   cjk-eng: Tatoeba-dev-v2023-09-26, 3
+   cjk_Latn-eng: Tatoeba-dev-v2023-09-26, 997
+   eng-her: Tatoeba-dev-v2023-09-26, 1000
+   eng-kam: Tatoeba-dev-v2023-09-26, 1000
+   eng-kik: Tatoeba-dev-v2023-09-26, 1000
+   eng-kin: Tatoeba-dev-v2023-09-26, 1000
+   eng-kmb: Tatoeba-dev-v2023-09-26, 1000
+   eng-kon: Tatoeba-dev-v2023-09-26, 1000
+   eng-kua: Tatoeba-dev-v2023-09-26, 1000
+   eng-lin: Tatoeba-dev-v2023-09-26, 1000
+   eng-lua: Tatoeba-dev-v2023-09-26, 1000
+   eng-lug: Tatoeba-dev-v2023-09-26, 1000
+   eng-luy: Tatoeba-dev-v2023-09-26, 8
+   eng-nbl: Tatoeba-dev-v2023-09-26, 1000
+   eng-nde: Tatoeba-dev-v2023-09-26, 1000
+   eng-nso: Tatoeba-dev-v2023-09-26, 1000
+   eng-nya: Tatoeba-dev-v2023-09-26, 1000
+   eng-run: Tatoeba-dev-v2023-09-26, 965
+   eng-sna: Tatoeba-dev-v2023-09-26, 1000
+   eng-sot: Tatoeba-dev-v2023-09-26, 1000
+   eng-ssw: Tatoeba-dev-v2023-09-26, 1000
+   eng-swa: Tatoeba-dev-v2023-09-26, 1000
+   eng-toi_Latn: Tatoeba-dev-v2023-09-26, 1000
+   eng-tsn: Tatoeba-dev-v2023-09-26, 1000
+   eng-tso: Tatoeba-dev-v2023-09-26, 1000
+   eng-tum: Tatoeba-dev-v2023-09-26, 1000
+   eng-umb: Tatoeba-dev-v2023-09-26, 1000
+   eng-ven: Tatoeba-dev-v2023-09-26, 1000
+   eng-xho: Tatoeba-dev-v2023-09-26, 319
+   eng-zul: Tatoeba-dev-v2023-09-26, 1017
+   fra-lin: Tatoeba-dev-v2023-09-26, 1000
+   fra-run: Tatoeba-dev-v2023-09-26, 943
+   fra-sna: Tatoeba-dev-v2023-09-26, 1000
+   fra-swa: Tatoeba-dev-v2023-09-26, 1000
+   fra-xho: Tatoeba-dev-v2023-09-26, 1000
+   por-swa: Tatoeba-dev-v2023-09-26, 1000
+   lin-spa: Tatoeba-dev-v2023-09-26, 1000
+   run-spa: Tatoeba-dev-v2023-09-26, 933
+   spa-swa: Tatoeba-dev-v2023-09-26, 1000
+   total-size-shuffled: 42080
+   devset-selected: top 5000  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 6293/25973
+   flores101-devtest.deu-kam: 1012/23656
+   flores101-devtest.deu-sna: 1012/20105
+   flores101-devtest.deu-umb: 1012/20203
+   flores101-devtest.eng-lin: 1012/26769
+   flores101-devtest.eng-lug: 1012/20070
+   flores101-devtest.eng-nso: 1012/31298
+   flores101-devtest.eng-sna: 1012/20105
+   flores101-devtest.eng-xho: 1012/18227
+   flores101-devtest.fra-lug: 1012/20070
+   flores101-devtest.fra-sna: 1012/20105
+   flores101-devtest.por-lin: 1012/26769
+   flores101-devtest.por-nso: 1012/31298
+   flores101-devtest.por-xho: 1012/18227
+   flores101-devtest.spa-lin: 1012/26769
+   flores101-devtest.spa-lug: 1012/20070
+   flores101-devtest.spa-swh: 1012/23959
+   flores101-devtest.spa-xho: 1012/18227
+   flores200-devtest.deu-bem: 1012/25648
+   flores200-devtest.deu-cjk: 1012/22991
+   flores200-devtest.deu-kam: 1012/23656
+   flores200-devtest.deu-kik: 1012/26527
+   flores200-devtest.deu-kin: 1012/22774
+   flores200-devtest.deu-kmb: 1012/25787
+   flores200-devtest.deu-kon: 1012/30121
+   flores200-devtest.deu-lin: 1012/26769
+   flores200-devtest.deu-lua: 1012/25734
+   flores200-devtest.deu-lug: 1012/20070
+   flores200-devtest.deu-nso: 1012/31298
+   flores200-devtest.deu-nya: 1012/22180
+   flores200-devtest.deu-run: 1012/22986
+   flores200-devtest.deu-sna: 1012/20105
+   flores200-devtest.deu-sot: 1012/31600
+   flores200-devtest.deu-ssw: 1012/18508
+   flores200-devtest.deu-swh: 1012/23959
+   flores200-devtest.deu-tsn: 1012/33831
+   flores200-devtest.deu-tso: 1012/29548
+   flores200-devtest.deu-tum: 1012/27273
+   flores200-devtest.deu-umb: 1012/20650
+   flores200-devtest.deu-xho: 1012/18227
+   flores200-devtest.deu-zul: 1012/18556
+   flores200-devtest.eng-bem: 1012/25648
+   flores200-devtest.eng-cjk: 1012/22991
+   flores200-devtest.eng-kam: 1012/23656
+   flores200-devtest.eng-kik: 1012/26527
+   flores200-devtest.eng-kin: 1012/22774
+   flores200-devtest.eng-kmb: 1012/25787
+   flores200-devtest.eng-kon: 1012/30121
+   flores200-devtest.eng-lin: 1012/26769
+   flores200-devtest.eng-lua: 1012/25734
+   flores200-devtest.eng-lug: 1012/20070
+   flores200-devtest.eng-nso: 1012/31298
+   flores200-devtest.eng-nya: 1012/22180
+   flores200-devtest.eng-run: 1012/22986
+   flores200-devtest.eng-sna: 1012/20105
+   flores200-devtest.eng-sot: 1012/31600
+   flores200-devtest.eng-ssw: 1012/18508
+   flores200-devtest.eng-swh: 1012/23959
+   flores200-devtest.eng-tsn: 1012/33831
+   flores200-devtest.eng-tso: 1012/29548
+   flores200-devtest.eng-tum: 1012/27273
+   flores200-devtest.eng-umb: 1012/20650
+   flores200-devtest.eng-xho: 1012/18227
+   flores200-devtest.eng-zul: 1012/18556
+   flores200-devtest.fra-bem: 1012/25648
+   flores200-devtest.fra-cjk: 1012/22991
+   flores200-devtest.fra-kam: 1012/23656
+   flores200-devtest.fra-kik: 1012/26527
+   flores200-devtest.fra-kin: 1012/22774
+   flores200-devtest.fra-kmb: 1012/25787
+   flores200-devtest.fra-kon: 1012/30121
+   flores200-devtest.fra-lin: 1012/26769
+   flores200-devtest.fra-lua: 1012/25734
+   flores200-devtest.fra-lug: 1012/20070
+   flores200-devtest.fra-nso: 1012/31298
+   flores200-devtest.fra-nya: 1012/22180
+   flores200-devtest.fra-run: 1012/22986
+   flores200-devtest.fra-sna: 1012/20105
+   flores200-devtest.fra-sot: 1012/31600
+   flores200-devtest.fra-ssw: 1012/18508
+   flores200-devtest.fra-swh: 1012/23959
+   flores200-devtest.fra-tsn: 1012/33831
+   flores200-devtest.fra-tso: 1012/29548
+   flores200-devtest.fra-tum: 1012/27273
+   flores200-devtest.fra-umb: 1012/20650
+   flores200-devtest.fra-xho: 1012/18227
+   flores200-devtest.fra-zul: 1012/18556
+   flores200-devtest.por-bem: 1012/25648
+   flores200-devtest.por-cjk: 1012/22991
+   flores200-devtest.por-kam: 1012/23656
+   flores200-devtest.por-kik: 1012/26527
+   flores200-devtest.por-kin: 1012/22774
+   flores200-devtest.por-kmb: 1012/25787
+   flores200-devtest.por-kon: 1012/30121
+   flores200-devtest.por-lin: 1012/26769
+   flores200-devtest.por-lua: 1012/25734
+   flores200-devtest.por-lug: 1012/20070
+   flores200-devtest.por-nso: 1012/31298
+   flores200-devtest.por-nya: 1012/22180
+   flores200-devtest.por-run: 1012/22986
+   flores200-devtest.por-sna: 1012/20105
+   flores200-devtest.por-sot: 1012/31600
+   flores200-devtest.por-ssw: 1012/18508
+   flores200-devtest.por-swh: 1012/23959
+   flores200-devtest.por-tsn: 1012/33831
+   flores200-devtest.por-tso: 1012/29548
+   flores200-devtest.por-tum: 1012/27273
+   flores200-devtest.por-umb: 1012/20650
+   flores200-devtest.por-xho: 1012/18227
+   flores200-devtest.por-zul: 1012/18556
+   flores200-devtest.spa-bem: 1012/25648
+   flores200-devtest.spa-cjk: 1012/22991
+   flores200-devtest.spa-kam: 1012/23656
+   flores200-devtest.spa-kik: 1012/26527
+   flores200-devtest.spa-kin: 1012/22774
+   flores200-devtest.spa-kmb: 1012/25787
+   flores200-devtest.spa-kon: 1012/30121
+   flores200-devtest.spa-lin: 1012/26769
+   flores200-devtest.spa-lua: 1012/25734
+   flores200-devtest.spa-lug: 1012/20070
+   flores200-devtest.spa-nso: 1012/31298
+   flores200-devtest.spa-nya: 1012/22180
+   flores200-devtest.spa-run: 1012/22986
+   flores200-devtest.spa-sna: 1012/20105
+   flores200-devtest.spa-sot: 1012/31600
+   flores200-devtest.spa-ssw: 1012/18508
+   flores200-devtest.spa-swh: 1012/23959
+   flores200-devtest.spa-tsn: 1012/33831
+   flores200-devtest.spa-tso: 1012/29548
+   flores200-devtest.spa-tum: 1012/27273
+   flores200-devtest.spa-umb: 1012/20650
+   flores200-devtest.spa-xho: 1012/18227
+   flores200-devtest.spa-zul: 1012/18556
+   ntrex128.deu-bem: 1997/46405
+   ntrex128.deu-kin: 1997/48475
+   ntrex128.deu-nde: 1997/38616
+   ntrex128.deu-nso: 1997/59715
+   ntrex128.deu-nya: 1997/43727
+   ntrex128.deu-ssw: 1997/36169
+   ntrex128.deu-swa: 1997/46859
+   ntrex128.deu-tsn: 1997/71271
+   ntrex128.deu-ven: 1997/58273
+   ntrex128.deu-xho: 1997/35439
+   ntrex128.deu-zul: 1997/34438
+   ntrex128.eng-bem: 1997/46405
+   ntrex128.eng-kin: 1997/48475
+   ntrex128.eng-nde: 1997/38616
+   ntrex128.eng-nso: 1997/59715
+   ntrex128.eng-nya: 1997/43727
+   ntrex128.eng-ssw: 1997/36169
+   ntrex128.eng-swa: 1997/46859
+   ntrex128.eng-tsn: 1997/71271
+   ntrex128.eng-ven: 1997/58273
+   ntrex128.eng-xho: 1997/35439
+   ntrex128.eng-zul: 1997/34438
+   ntrex128.fra-bem: 1997/46405
+   ntrex128.fra-kin: 1997/48475
+   ntrex128.fra-nde: 1997/38616
+   ntrex128.fra-nso: 1997/59715
+   ntrex128.fra-nya: 1997/43727
+   ntrex128.fra-ssw: 1997/36169
+   ntrex128.fra-swa: 1997/46859
+   ntrex128.fra-tsn: 1997/71271
+   ntrex128.fra-ven: 1997/58273
+   ntrex128.fra-xho: 1997/35439
+   ntrex128.fra-zul: 1997/34438
+   ntrex128.por-bem: 1997/46405
+   ntrex128.por-kin: 1997/48475
+   ntrex128.por-nde: 1997/38616
+   ntrex128.por-nso: 1997/59715
+   ntrex128.por-nya: 1997/43727
+   ntrex128.por-ssw: 1997/36169
+   ntrex128.por-swa: 1997/46859
+   ntrex128.por-tsn: 1997/71271
+   ntrex128.por-ven: 1997/58273
+   ntrex128.por-xho: 1997/35439
+   ntrex128.por-zul: 1997/34438
+   ntrex128.spa-bem: 1997/46405
+   ntrex128.spa-kin: 1997/48475
+   ntrex128.spa-nde: 1997/38616
+   ntrex128.spa-nso: 1997/59715
+   ntrex128.spa-nya: 1997/43727
+   ntrex128.spa-ssw: 1997/36169
+   ntrex128.spa-swa: 1997/46859
+   ntrex128.spa-tsn: 1997/71271
+   ntrex128.spa-ven: 1997/58273
+   ntrex128.spa-xho: 1997/35439
+   ntrex128.spa-zul: 1997/34438
+   tatoeba-test-v2020-07-28.fra-run: 1278/5095
+   tatoeba-test-v2021-03-30.eng-swa: 394/1915
+   tatoeba-test-v2021-03-30.spa-run: 968/3908
+   tatoeba-test-v2021-08-07.deu-run: 1752/6954
+   tatoeba-test-v2021-08-07.eng-run: 1703/6710
+   tatoeba-test-v2021-08-07.eng-swa: 387/1888
+   tatoeba-test-v2021-08-07.fra-run: 1274/5081
+   tatoeba-test-v2021-08-07.spa-run: 963/3886
+   tico19-test.eng-kin: 2100/55034
+   tico19-test.eng-lin: 2100/61116
+   tico19-test.eng-lug: 2100/52849
+   tico19-test.eng-swa: 2100/58846
+   tico19-test.eng-zul: 2100/44098
+   tico19-test.fra-kin: 2100/55034
+   tico19-test.fra-lin: 2100/61116
+   tico19-test.fra-lug: 2100/52849
+   tico19-test.fra-swa: 2100/58846
+   tico19-test.fra-zul: 2100/44098
+   tico19-test.por-kin: 2100/55034
+   tico19-test.por-lin: 2100/61116
+   tico19-test.por-lug: 2100/52849
+   tico19-test.por-swa: 2100/58846
+   tico19-test.por-zul: 2100/44098
+   tico19-test.spa-kin: 2100/55034
+   tico19-test.spa-lin: 2100/61116
+   tico19-test.spa-lug: 2100/52849
+   tico19-test.spa-swa: 2100/58846
+   tico19-test.spa-zul: 2100/44098
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 11.6
+   flores101-devtest.deu-kam: 1.8
+   flores101-devtest.deu-sna: 4.4
+   flores101-devtest.deu-umb: 1.0
+   flores101-devtest.eng-lin: 13.2
+   flores101-devtest.eng-lug: 5.3
+   flores101-devtest.eng-nso: 19.4
+   flores101-devtest.eng-sna: 9.4
+   flores101-devtest.eng-xho: 11.6
+   flores101-devtest.fra-lug: 3.5
+   flores101-devtest.fra-sna: 6.2
+   flores101-devtest.por-lin: 10.7
+   flores101-devtest.por-nso: 5.6
+   flores101-devtest.por-xho: 5.3
+   flores101-devtest.spa-lin: 8.8
+   flores101-devtest.spa-lug: 3.2
+   flores101-devtest.spa-swh: 1.1
+   flores101-devtest.spa-xho: 3.5
+   flores200-devtest.deu-bem: 4.4
+   flores200-devtest.deu-cjk: 1.5
+   flores200-devtest.deu-kam: 2.1
+   flores200-devtest.deu-kik: 3.6
+   flores200-devtest.deu-kin: 5.0
+   flores200-devtest.deu-kmb: 1.7
+   flores200-devtest.deu-kon: 7.9
+   flores200-devtest.deu-lin: 9.9
+   flores200-devtest.deu-lua: 1.8
+   flores200-devtest.deu-lug: 3.7
+   flores200-devtest.deu-nso: 7.4
+   flores200-devtest.deu-nya: 4.5
+   flores200-devtest.deu-run: 5.6
+   flores200-devtest.deu-sna: 5.0
+   flores200-devtest.deu-sot: 6.5
+   flores200-devtest.deu-ssw: 3.6
+   flores200-devtest.deu-swh: 1.2
+   flores200-devtest.deu-tsn: 11.9
+   flores200-devtest.deu-tso: 7.2
+   flores200-devtest.deu-tum: 0.6
+   flores200-devtest.deu-umb: 1.2
+   flores200-devtest.deu-xho: 4.8
+   flores200-devtest.deu-zul: 4.1
+   flores200-devtest.eng-bem: 7.1
+   flores200-devtest.eng-cjk: 1.9
+   flores200-devtest.eng-kam: 2.4
+   flores200-devtest.eng-kik: 4.3
+   flores200-devtest.eng-kin: 11.1
+   flores200-devtest.eng-kmb: 1.7
+   flores200-devtest.eng-kon: 9.8
+   flores200-devtest.eng-lin: 14.7
+   flores200-devtest.eng-lua: 1.9
+   flores200-devtest.eng-lug: 5.9
+   flores200-devtest.eng-nso: 20.8
+   flores200-devtest.eng-nya: 10.7
+   flores200-devtest.eng-run: 8.5
+   flores200-devtest.eng-sna: 10.1
+   flores200-devtest.eng-sot: 15.4
+   flores200-devtest.eng-ssw: 7.1
+   flores200-devtest.eng-swh: 2.1
+   flores200-devtest.eng-tsn: 17.7
+   flores200-devtest.eng-tso: 18.3
+   flores200-devtest.eng-tum: 0.8
+   flores200-devtest.eng-umb: 1.2
+   flores200-devtest.eng-xho: 13.1
+   flores200-devtest.eng-zul: 14.0
+   flores200-devtest.fra-bem: 4.8
+   flores200-devtest.fra-cjk: 1.4
+   flores200-devtest.fra-kam: 1.8
+   flores200-devtest.fra-kik: 3.4
+   flores200-devtest.fra-kin: 6.0
+   flores200-devtest.fra-kmb: 1.3
+   flores200-devtest.fra-kon: 9.2
+   flores200-devtest.fra-lin: 13.0
+   flores200-devtest.fra-lua: 1.6
+   flores200-devtest.fra-lug: 3.9
+   flores200-devtest.fra-nso: 8.7
+   flores200-devtest.fra-nya: 6.0
+   flores200-devtest.fra-run: 6.9
+   flores200-devtest.fra-sna: 6.9
+   flores200-devtest.fra-sot: 7.9
+   flores200-devtest.fra-ssw: 4.2
+   flores200-devtest.fra-swh: 1.1
+   flores200-devtest.fra-tsn: 12.0
+   flores200-devtest.fra-tso: 8.8
+   flores200-devtest.fra-tum: 0.6
+   flores200-devtest.fra-umb: 1.1
+   flores200-devtest.fra-xho: 7.1
+   flores200-devtest.fra-zul: 5.7
+   flores200-devtest.por-bem: 4.7
+   flores200-devtest.por-cjk: 1.6
+   flores200-devtest.por-kam: 2.0
+   flores200-devtest.por-kik: 3.7
+   flores200-devtest.por-kin: 4.4
+   flores200-devtest.por-kmb: 1.7
+   flores200-devtest.por-kon: 9.4
+   flores200-devtest.por-lin: 11.7
+   flores200-devtest.por-lua: 2.0
+   flores200-devtest.por-lug: 4.3
+   flores200-devtest.por-nso: 6.5
+   flores200-devtest.por-nya: 4.2
+   flores200-devtest.por-run: 6.1
+   flores200-devtest.por-sna: 5.5
+   flores200-devtest.por-sot: 5.3
+   flores200-devtest.por-ssw: 3.9
+   flores200-devtest.por-swh: 0.8
+   flores200-devtest.por-tsn: 10.5
+   flores200-devtest.por-tso: 5.7
+   flores200-devtest.por-tum: 0.6
+   flores200-devtest.por-umb: 1.3
+   flores200-devtest.por-xho: 5.8
+   flores200-devtest.por-zul: 3.7
+   flores200-devtest.spa-bem: 3.8
+   flores200-devtest.spa-cjk: 1.3
+   flores200-devtest.spa-kam: 1.7
+   flores200-devtest.spa-kik: 3.3
+   flores200-devtest.spa-kin: 3.8
+   flores200-devtest.spa-kmb: 1.6
+   flores200-devtest.spa-kon: 8.0
+   flores200-devtest.spa-lin: 9.4
+   flores200-devtest.spa-lua: 1.6
+   flores200-devtest.spa-lug: 3.4
+   flores200-devtest.spa-nso: 5.6
+   flores200-devtest.spa-nya: 3.4
+   flores200-devtest.spa-run: 4.9
+   flores200-devtest.spa-sna: 4.3
+   flores200-devtest.spa-sot: 4.6
+   flores200-devtest.spa-ssw: 3.3
+   flores200-devtest.spa-swh: 0.9
+   flores200-devtest.spa-tsn: 8.5
+   flores200-devtest.spa-tso: 5.2
+   flores200-devtest.spa-tum: 0.6
+   flores200-devtest.spa-umb: 1.1
+   flores200-devtest.spa-xho: 4.2
+   flores200-devtest.spa-zul: 2.9
+   ntrex128.deu-bem: 4.7
+   ntrex128.deu-kin: 5.7
+   ntrex128.deu-nde: 1.7
+   ntrex128.deu-nso: 5.0
+   ntrex128.deu-nya: 6.4
+   ntrex128.deu-ssw: 3.6
+   ntrex128.deu-swa: 18.0
+   ntrex128.deu-tsn: 15.4
+   ntrex128.deu-ven: 2.7
+   ntrex128.deu-xho: 4.0
+   ntrex128.deu-zul: 3.6
+   ntrex128.eng-bem: 6.8
+   ntrex128.eng-kin: 10.5
+   ntrex128.eng-nde: 4.2
+   ntrex128.eng-nso: 8.1
+   ntrex128.eng-nya: 14.9
+   ntrex128.eng-ssw: 6.7
+   ntrex128.eng-swa: 33.4
+   ntrex128.eng-tsn: 22.2
+   ntrex128.eng-ven: 6.3
+   ntrex128.eng-xho: 11.2
+   ntrex128.eng-zul: 10.7
+   ntrex128.fra-bem: 4.9
+   ntrex128.fra-kin: 6.2
+   ntrex128.fra-nde: 1.6
+   ntrex128.fra-nso: 5.7
+   ntrex128.fra-nya: 7.4
+   ntrex128.fra-ssw: 4.0
+   ntrex128.fra-swa: 17.5
+   ntrex128.fra-tsn: 15.3
+   ntrex128.fra-ven: 3.4
+   ntrex128.fra-xho: 5.2
+   ntrex128.fra-zul: 4.5
+   ntrex128.por-bem: 5.2
+   ntrex128.por-kin: 5.1
+   ntrex128.por-nde: 1.2
+   ntrex128.por-nso: 4.8
+   ntrex128.por-nya: 6.7
+   ntrex128.por-ssw: 4.1
+   ntrex128.por-swa: 18.0
+   ntrex128.por-tsn: 14.5
+   ntrex128.por-ven: 3.0
+   ntrex128.por-xho: 5.0
+   ntrex128.por-zul: 3.5
+   ntrex128.spa-bem: 5.4
+   ntrex128.spa-kin: 5.3
+   ntrex128.spa-nde: 1.4
+   ntrex128.spa-nso: 5.1
+   ntrex128.spa-nya: 6.6
+   ntrex128.spa-ssw: 4.2
+   ntrex128.spa-swa: 18.1
+   ntrex128.spa-tsn: 14.2
+   ntrex128.spa-ven: 3.3
+   ntrex128.spa-xho: 4.9
+   ntrex128.spa-zul: 3.7
+   tatoeba-test-v2020-07-28.fra-run: 9.3
+   tatoeba-test-v2021-03-30.eng-swa: 32.4
+   tatoeba-test-v2021-03-30.spa-run: 8.9
+   tatoeba-test-v2021-08-07.deu-run: 7.2
+   tatoeba-test-v2021-08-07.eng-run: 11.8
+   tatoeba-test-v2021-08-07.eng-swa: 32.7
+   tatoeba-test-v2021-08-07.fra-run: 11.2
+   tatoeba-test-v2021-08-07.spa-run: 10.5
+   tico19-test.eng-kin: 11.3
+   tico19-test.eng-lin: 15.5
+   tico19-test.eng-lug: 10.9
+   tico19-test.eng-swa: 28.0
+   tico19-test.eng-zul: 14.4
+   tico19-test.fra-kin: 7.1
+   tico19-test.fra-lin: 12.0
+   tico19-test.fra-lug: 6.4
+   tico19-test.fra-swa: 16.8
+   tico19-test.fra-zul: 6.0
+   tico19-test.por-kin: 6.3
+   tico19-test.por-lin: 12.5
+   tico19-test.por-lug: 6.8
+   tico19-test.por-swa: 19.6
+   tico19-test.por-zul: 5.3
+   tico19-test.spa-kin: 6.6
+   tico19-test.spa-lin: 12.1
+   tico19-test.spa-lug: 6.8
+   tico19-test.spa-swa: 18.8
+   tico19-test.spa-zul: 5.3
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.43414
+   flores101-devtest.deu-kam: 0.20549
+   flores101-devtest.deu-sna: 0.35655
+   flores101-devtest.deu-umb: 0.24496
+   flores101-devtest.eng-lin: 0.43748
+   flores101-devtest.eng-lug: 0.32632
+   flores101-devtest.eng-nso: 0.47122
+   flores101-devtest.eng-sna: 0.44294
+   flores101-devtest.eng-xho: 0.50110
+   flores101-devtest.fra-lug: 0.30351
+   flores101-devtest.fra-sna: 0.40676
+   flores101-devtest.por-lin: 0.41675
+   flores101-devtest.por-nso: 0.30661
+   flores101-devtest.por-xho: 0.39822
+   flores101-devtest.spa-lin: 0.40631
+   flores101-devtest.spa-lug: 0.30296
+   flores101-devtest.spa-swh: 0.22466
+   flores101-devtest.spa-xho: 0.37483
+   flores200-devtest.deu-bem: 0.32696
+   flores200-devtest.deu-cjk: 0.20525
+   flores200-devtest.deu-kam: 0.21503
+   flores200-devtest.deu-kik: 0.26259
+   flores200-devtest.deu-kin: 0.32115
+   flores200-devtest.deu-kmb: 0.23421
+   flores200-devtest.deu-kon: 0.37890
+   flores200-devtest.deu-lin: 0.40763
+   flores200-devtest.deu-lua: 0.19764
+   flores200-devtest.deu-lug: 0.31632
+   flores200-devtest.deu-nso: 0.35024
+   flores200-devtest.deu-nya: 0.34096
+   flores200-devtest.deu-run: 0.35378
+   flores200-devtest.deu-sna: 0.37424
+   flores200-devtest.deu-sot: 0.32589
+   flores200-devtest.deu-ssw: 0.37053
+   flores200-devtest.deu-swh: 0.21885
+   flores200-devtest.deu-tsn: 0.39738
+   flores200-devtest.deu-tso: 0.34314
+   flores200-devtest.deu-tum: 0.11324
+   flores200-devtest.deu-umb: 0.25744
+   flores200-devtest.deu-xho: 0.40586
+   flores200-devtest.deu-zul: 0.37724
+   flores200-devtest.eng-bem: 0.36381
+   flores200-devtest.eng-cjk: 0.22543
+   flores200-devtest.eng-kam: 0.21102
+   flores200-devtest.eng-kik: 0.25486
+   flores200-devtest.eng-kin: 0.41492
+   flores200-devtest.eng-kmb: 0.22656
+   flores200-devtest.eng-kon: 0.37759
+   flores200-devtest.eng-lin: 0.45568
+   flores200-devtest.eng-lua: 0.18222
+   flores200-devtest.eng-lug: 0.34208
+   flores200-devtest.eng-nso: 0.48626
+   flores200-devtest.eng-nya: 0.45067
+   flores200-devtest.eng-run: 0.38821
+   flores200-devtest.eng-sna: 0.45629
+   flores200-devtest.eng-sot: 0.45331
+   flores200-devtest.eng-ssw: 0.43635
+   flores200-devtest.eng-swh: 0.24504
+   flores200-devtest.eng-tsn: 0.45233
+   flores200-devtest.eng-tso: 0.48529
+   flores200-devtest.eng-tum: 0.11988
+   flores200-devtest.eng-umb: 0.25193
+   flores200-devtest.eng-xho: 0.51974
+   flores200-devtest.eng-zul: 0.53320
+   flores200-devtest.fra-bem: 0.33206
+   flores200-devtest.fra-cjk: 0.21189
+   flores200-devtest.fra-kam: 0.21483
+   flores200-devtest.fra-kik: 0.25167
+   flores200-devtest.fra-kin: 0.33774
+   flores200-devtest.fra-kmb: 0.22736
+   flores200-devtest.fra-kon: 0.38056
+   flores200-devtest.fra-lin: 0.44410
+   flores200-devtest.fra-lua: 0.18591
+   flores200-devtest.fra-lug: 0.32001
+   flores200-devtest.fra-nso: 0.36382
+   flores200-devtest.fra-nya: 0.36524
+   flores200-devtest.fra-run: 0.37277
+   flores200-devtest.fra-sna: 0.42053
+   flores200-devtest.fra-sot: 0.35218
+   flores200-devtest.fra-ssw: 0.38791
+   flores200-devtest.fra-swh: 0.21702
+   flores200-devtest.fra-tsn: 0.39823
+   flores200-devtest.fra-tso: 0.36584
+   flores200-devtest.fra-tum: 0.11632
+   flores200-devtest.fra-umb: 0.24707
+   flores200-devtest.fra-xho: 0.44537
+   flores200-devtest.fra-zul: 0.41291
+   flores200-devtest.por-bem: 0.33540
+   flores200-devtest.por-cjk: 0.21305
+   flores200-devtest.por-kam: 0.21323
+   flores200-devtest.por-kik: 0.26363
+   flores200-devtest.por-kin: 0.28859
+   flores200-devtest.por-kmb: 0.24080
+   flores200-devtest.por-kon: 0.39008
+   flores200-devtest.por-lin: 0.42944
+   flores200-devtest.por-lua: 0.19835
+   flores200-devtest.por-lug: 0.32581
+   flores200-devtest.por-nso: 0.31387
+   flores200-devtest.por-nya: 0.30964
+   flores200-devtest.por-run: 0.36279
+   flores200-devtest.por-sna: 0.38455
+   flores200-devtest.por-sot: 0.29749
+   flores200-devtest.por-ssw: 0.37903
+   flores200-devtest.por-swh: 0.20310
+   flores200-devtest.por-tsn: 0.37629
+   flores200-devtest.por-tso: 0.30393
+   flores200-devtest.por-tum: 0.11762
+   flores200-devtest.por-umb: 0.26095
+   flores200-devtest.por-xho: 0.41363
+   flores200-devtest.por-zul: 0.34236
+   flores200-devtest.spa-bem: 0.32470
+   flores200-devtest.spa-cjk: 0.19413
+   flores200-devtest.spa-kam: 0.21456
+   flores200-devtest.spa-kik: 0.26220
+   flores200-devtest.spa-kin: 0.29401
+   flores200-devtest.spa-kmb: 0.23906
+   flores200-devtest.spa-kon: 0.38571
+   flores200-devtest.spa-lin: 0.41938
+   flores200-devtest.spa-lua: 0.19795
+   flores200-devtest.spa-lug: 0.31836
+   flores200-devtest.spa-nso: 0.31740
+   flores200-devtest.spa-nya: 0.30661
+   flores200-devtest.spa-run: 0.35118
+   flores200-devtest.spa-sna: 0.36728
+   flores200-devtest.spa-sot: 0.29649
+   flores200-devtest.spa-ssw: 0.36650
+   flores200-devtest.spa-swh: 0.20568
+   flores200-devtest.spa-tsn: 0.36289
+   flores200-devtest.spa-tso: 0.30620
+   flores200-devtest.spa-tum: 0.12289
+   flores200-devtest.spa-umb: 0.25817
+   flores200-devtest.spa-xho: 0.38844
+   flores200-devtest.spa-zul: 0.33487
+   ntrex128.deu-bem: 0.33373
+   ntrex128.deu-kin: 0.33513
+   ntrex128.deu-nde: 0.27203
+   ntrex128.deu-nso: 0.29577
+   ntrex128.deu-nya: 0.36512
+   ntrex128.deu-ssw: 0.36818
+   ntrex128.deu-swa: 0.48979
+   ntrex128.deu-tsn: 0.41894
+   ntrex128.deu-ven: 0.28636
+   ntrex128.deu-xho: 0.39006
+   ntrex128.deu-zul: 0.38144
+   ntrex128.eng-bem: 0.34472
+   ntrex128.eng-kin: 0.39546
+   ntrex128.eng-nde: 0.36699
+   ntrex128.eng-nso: 0.33765
+   ntrex128.eng-nya: 0.46801
+   ntrex128.eng-ssw: 0.42880
+   ntrex128.eng-swa: 0.60117
+   ntrex128.eng-tsn: 0.46599
+   ntrex128.eng-ven: 0.36472
+   ntrex128.eng-xho: 0.48847
+   ntrex128.eng-zul: 0.49764
+   ntrex128.fra-bem: 0.34511
+   ntrex128.fra-kin: 0.34159
+   ntrex128.fra-nde: 0.26703
+   ntrex128.fra-nso: 0.29945
+   ntrex128.fra-nya: 0.37785
+   ntrex128.fra-ssw: 0.38771
+   ntrex128.fra-swa: 0.45494
+   ntrex128.fra-tsn: 0.41426
+   ntrex128.fra-ven: 0.30816
+   ntrex128.fra-xho: 0.41206
+   ntrex128.fra-zul: 0.39971
+   ntrex128.por-bem: 0.33791
+   ntrex128.por-kin: 0.30672
+   ntrex128.por-nde: 0.23541
+   ntrex128.por-nso: 0.27386
+   ntrex128.por-nya: 0.34090
+   ntrex128.por-ssw: 0.38006
+   ntrex128.por-swa: 0.46465
+   ntrex128.por-tsn: 0.40236
+   ntrex128.por-ven: 0.29795
+   ntrex128.por-xho: 0.40070
+   ntrex128.por-zul: 0.35588
+   ntrex128.spa-bem: 0.34521
+   ntrex128.spa-kin: 0.31555
+   ntrex128.spa-nde: 0.24553
+   ntrex128.spa-nso: 0.28154
+   ntrex128.spa-nya: 0.34996
+   ntrex128.spa-ssw: 0.38713
+   ntrex128.spa-swa: 0.46670
+   ntrex128.spa-tsn: 0.40263
+   ntrex128.spa-ven: 0.30513
+   ntrex128.spa-xho: 0.40247
+   ntrex128.spa-zul: 0.36604
+   tatoeba-test-v2020-07-28.fra-run: 0.40725
+   tatoeba-test-v2021-03-30.eng-swa: 0.59506
+   tatoeba-test-v2021-03-30.spa-run: 0.39494
+   tatoeba-test-v2021-08-07.deu-run: 0.37601
+   tatoeba-test-v2021-08-07.eng-run: 0.44207
+   tatoeba-test-v2021-08-07.eng-swa: 0.60298
+   tatoeba-test-v2021-08-07.fra-run: 0.42664
+   tatoeba-test-v2021-08-07.spa-run: 0.41921
+   tico19-test.eng-kin: 0.40952
+   tico19-test.eng-lin: 0.44670
+   tico19-test.eng-lug: 0.38546
+   tico19-test.eng-swa: 0.56798
+   tico19-test.eng-zul: 0.53624
+   tico19-test.fra-kin: 0.34137
+   tico19-test.fra-lin: 0.39748
+   tico19-test.fra-lug: 0.32872
+   tico19-test.fra-swa: 0.44926
+   tico19-test.fra-zul: 0.40588
+   tico19-test.por-kin: 0.32204
+   tico19-test.por-lin: 0.41729
+   tico19-test.por-lug: 0.34651
+   tico19-test.por-swa: 0.49303
+   tico19-test.por-zul: 0.39496
+   tico19-test.spa-kin: 0.33156
+   tico19-test.spa-lin: 0.41645
+   tico19-test.spa-lug: 0.34587
+   tico19-test.spa-swa: 0.48614
+   tico19-test.spa-zul: 0.40058

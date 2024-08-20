@@ -1,0 +1,61 @@
+release: xgn-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bua
+   - mon
+   - xal
+target-languages:
+   - eng
+raw-source-languages:
+   - bua
+   - mon
+   - xal
+raw-target-languages:
+   - eng
+training-data:
+   mon-eng: Tatoeba-train-v2023-09-26.eng-mon.strict (15761324) 
+   xal-eng: bible (278167) 
+validation-data:
+   eng-mon: Tatoeba-dev-v2023-09-26, 939
+   eng-xal: Tatoeba-dev-v2023-09-26, 24
+   total-size-shuffled: 963
+   devset-selected: top 963  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-eng: 698/5400
+   flores101-devtest.mon-eng: 1012/24721
+   ntrex128.mon-eng: 1997/47673
+   tatoeba-test-v2020-07-28.mon-eng: 337/2693
+   tatoeba-test-v2021-03-30.mon-eng: 396/3170
+   tatoeba-test-v2021-03-30.xal-eng: 282/2065
+   tatoeba-test-v2021-08-07.mon-eng: 415/3334
+   tatoeba-test-v2021-08-07.xal-eng: 281/2055
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 16.0
+   flores101-devtest.mon-eng: 18.5
+   ntrex128.mon-eng: 13.2
+   tatoeba-test-v2020-07-28.mon-eng: 24.7
+   tatoeba-test-v2021-03-30.mon-eng: 25.0
+   tatoeba-test-v2021-03-30.xal-eng: 4.8
+   tatoeba-test-v2021-08-07.mon-eng: 24.9
+   tatoeba-test-v2021-08-07.xal-eng: 4.8
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 0.35392
+   flores101-devtest.mon-eng: 0.46789
+   ntrex128.mon-eng: 0.39732
+   tatoeba-test-v2020-07-28.mon-eng: 0.42802
+   tatoeba-test-v2021-03-30.mon-eng: 0.42895
+   tatoeba-test-v2021-03-30.xal-eng: 0.22288
+   tatoeba-test-v2021-08-07.mon-eng: 0.43378
+   tatoeba-test-v2021-08-07.xal-eng: 0.22274

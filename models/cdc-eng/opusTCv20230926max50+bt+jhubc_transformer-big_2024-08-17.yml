@@ -1,0 +1,116 @@
+release: cdc-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - bcw
+   - daa
+   - gde
+   - gnd
+   - hau
+   - hau_Latn
+   - hig
+   - ker
+   - kqp
+   - lln
+   - lme
+   - meq
+   - mfh
+   - mfi
+   - mfk
+   - mif
+   - mpg
+   - mqb
+   - muy
+   - pbi
+   - sur
+   - tmc
+   - ttr
+   - xed
+target-languages:
+   - eng
+raw-source-languages:
+   - bcw
+   - daa
+   - gde
+   - gnd
+   - hau
+   - hig
+   - ker
+   - kqp
+   - lln
+   - lme
+   - meq
+   - mfh
+   - mfi
+   - mfk
+   - mif
+   - mpg
+   - mqb
+   - muy
+   - pbi
+   - sur
+   - tmc
+   - ttr
+   - xed
+raw-target-languages:
+   - eng
+training-data:
+   bcw-eng: bible (179292) 
+   daa-eng: bible (273951) 
+   gde-eng: bible (171041) 
+   gnd-eng: bible (167285) 
+   hau-eng: Tatoeba-train-v2023-09-26.eng-hau.strict (3992917) bible (329034) 
+   hig-eng: bible (279018) 
+   ker-eng: bible (168099) 
+   kqp-eng: bible (176087) 
+   lln-eng: bible (168276) 
+   lme-eng: bible (168120) 
+   meq-eng: bible (167907) 
+   mfh-eng: bible (168709) 
+   mfi-eng: bible (335011) 
+   mfk-eng: bible (168227) 
+   mif-eng: bible (231750) 
+   mpg-eng: bible (168121) 
+   mqb-eng: bible (173360) 
+   muy-eng: bible (167980) 
+   pbi-eng: bible (268918) 
+   sur-eng: bible (231832) 
+   tmc-eng: bible (168250) 
+   ttr-eng: bible (165578) 
+   xed-eng: bible (168245) 
+validation-data:
+   eng-hau: Tatoeba-dev-v2023-09-26, 432
+   total-size-shuffled: 432
+   devset-selected: top 432  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-eng: 256/2479
+   flores101-devtest.hau-eng: 1012/24721
+   flores200-devtest.hau-eng: 1012/24721
+   newstest2021.hau-eng: 997/27372
+   ntrex128.hau-eng: 1997/47673
+   tico19-test.hau-eng: 2100/56824
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 13.8
+   flores101-devtest.hau-eng: 8.8
+   flores200-devtest.hau-eng: 8.8
+   newstest2021.hau-eng: 6.9
+   ntrex128.hau-eng: 7.9
+   tico19-test.hau-eng: 16.7
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 0.34266
+   flores101-devtest.hau-eng: 0.33648
+   flores200-devtest.hau-eng: 0.33647
+   newstest2021.hau-eng: 0.32201
+   ntrex128.hau-eng: 0.32391
+   tico19-test.hau-eng: 0.40956

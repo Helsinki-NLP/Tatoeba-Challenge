@@ -1,0 +1,78 @@
+release: cau-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - abk
+   - ady
+   - ava
+   - che
+   - inh
+   - inh_Latn
+   - kat
+   - kbd
+   - lbe
+   - lez
+   - lzz_Latn
+   - tab
+   - xmf
+target-languages:
+   - eng
+raw-source-languages:
+   - abk
+   - ady
+   - ava
+   - che
+   - inh
+   - kat
+   - kbd
+   - lbe
+   - lez
+   - lzz
+   - tab
+   - xmf
+raw-target-languages:
+   - eng
+training-data:
+   ava-eng: bible (214518) 
+   che-eng: bible (408654) 
+   kat-eng: Tatoeba-train-v2023-09-26.eng-kat.strict (10460984) bible (87707) 
+   tab-eng: bible (166525) 
+validation-data:
+   eng-kat: Tatoeba-dev-v2023-09-26, 841
+   total-size-shuffled: 841
+   devset-selected: top 841  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-eng: 1113/6869
+   flores101-devtest.kat-eng: 1012/24721
+   flores200-devtest.kat-eng: 1012/24721
+   ntrex128.kat-eng: 1997/47673
+   tatoeba-test-v2020-07-28.kat-eng: 983/5992
+   tatoeba-test-v2021-03-30.kat-eng: 1006/6144
+   tatoeba-test-v2021-08-07.kat-eng: 984/5994
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 35.5
+   flores101-devtest.kat-eng: 19.4
+   flores200-devtest.kat-eng: 19.4
+   ntrex128.kat-eng: 20.8
+   tatoeba-test-v2020-07-28.kat-eng: 37.0
+   tatoeba-test-v2021-03-30.kat-eng: 36.7
+   tatoeba-test-v2021-08-07.kat-eng: 36.9
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-eng: 0.51767
+   flores101-devtest.kat-eng: 0.49901
+   flores200-devtest.kat-eng: 0.49902
+   ntrex128.kat-eng: 0.48971
+   tatoeba-test-v2020-07-28.kat-eng: 0.53011
+   tatoeba-test-v2021-03-30.kat-eng: 0.52784
+   tatoeba-test-v2021-08-07.kat-eng: 0.53007

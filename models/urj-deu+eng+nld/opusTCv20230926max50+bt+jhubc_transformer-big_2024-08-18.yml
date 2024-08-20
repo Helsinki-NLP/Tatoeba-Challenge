@@ -1,0 +1,102 @@
+release: urj-deu+eng+nld/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-18.zip
+release-date: 2024-08-18
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - chm
+   - est
+   - fin
+   - fkv_Latn
+   - hun
+   - izh
+   - koi
+   - kom
+   - kpv
+   - krl
+   - liv_Latn
+   - mdf
+   - mrj
+   - myv
+   - sma
+   - sme
+   - smn
+   - udm
+   - vot
+   - vot_Latn
+   - vro
+target-languages:
+   - deu
+   - eng
+   - nld
+raw-source-languages:
+   - chm
+   - est
+   - fin
+   - fkv
+   - hun
+   - izh
+   - koi
+   - kom
+   - kpv
+   - krl
+   - liv
+   - mdf
+   - mrj
+   - myv
+   - sma
+   - sme
+   - smn
+   - udm
+   - vot
+   - vro
+raw-target-languages:
+   - deu
+   - eng
+   - nld
+use-target-labels:
+training-data:
+   chm-deu: Tatoeba-train-v2023-09-26.chm-deu.strict (2739) 
+   est-deu: Tatoeba-train-v2023-09-26.deu-est.strict (24597757) bible (124785) 
+   est-eng: Tatoeba-train-v2023-09-26.eng-est.strict (32979536) wikibooks.aa (992135) wikinews.aa (457165) wikipedia.aa (982415) wikipedia.ab (982545) wikipedia.ac (982582) wikipedia.ad (982357) wikiquote.aa (996877) bible (166456) 
+   fin-deu: Tatoeba-train-v2023-09-26.deu-fin.strict (42295111) wiki.ab (963187) wiki.ac (963277) wiki.ad (963646) wiki.ae (963757) wiki.af (963759) wiki.ag (963584) wiki.ai (963730) wiki.ak (963582) wiki.al (963477) wiki.am (963586) wiki.ao (963458) wiki.aq (963492) wiki.as (963651) wiki.at (963492) wiki.au (963782) wiki.av (963453) wiki.aw (963734) wiki.ax (963477) wiki.ay (963572) wiki.az (963482) wiki.ba (963715) wiki.bb (963792) wiki.bd (964535) wiki.bf (964567) wiki.bg (964392) wiki.bh (964172) wiki.bi (964295) wiki.bj (964337) wiki.bk (963828) wiki.bl (964209) wiki.bm (964303) wiki.bn (964329) wiki.bo (964027) wiki.bp (964207) wiki.bq (964273) wiki.br (964327) wiki.bs (964043) wiki.bt (963964) wiki.bu (964237) wiki.bv (964105) wiki.bx (613766) wikibooks.aa (455498) wikinews.aa (184505) wikiquote.aa (79691) wikisource.ab (944409) wikisource.ac (945006) wikisource.ad (944451) wikisource.ae (944491) wikisource.af (944781) wikisource.ag (944655) wikisource.ah (51603) bible (1149209) 
+   fin-eng: Tatoeba-train-v2023-09-26.eng-fin.strict (50000000) news.2007.en.shuffled.deduped.aa (995827) news.2007.en.shuffled.deduped.ab (995744) news.2007.en.shuffled.deduped.ac (995730) news.2007.en.shuffled.deduped.ad (386386) news.2008.en.shuffled.deduped.aa (996856) news.2008.en.shuffled.deduped.ab (996897) news.2008.en.shuffled.deduped.ac (996857) news.2008.en.shuffled.deduped.ad (996952) news.2009.en.shuffled.deduped.aa (997324) news.2009.en.shuffled.deduped.ab (997307) news.2009.en.shuffled.deduped.ac (997323) news.2009.en.shuffled.deduped.ad (997343) news.2010.en.shuffled.deduped.aa (998438) news.2010.en.shuffled.deduped.ab (998404) news.2010.en.shuffled.deduped.ac (998443) news.2010.en.shuffled.deduped.ad (998426) news.2011.en.shuffled.deduped.aa (998625) news.2011.en.shuffled.deduped.ab (998559) news.2011.en.shuffled.deduped.ac (998533) news.2011.en.shuffled.deduped.ad (998596) news.2013.en.shuffled.deduped.aa (996357) news.2013.en.shuffled.deduped.ab (996368) news.2013.en.shuffled.deduped.ac (996368) news.2013.en.shuffled.deduped.ad (996394) news.2021.en.shuffled.deduped.aa (976234) news.2021.en.shuffled.deduped.ab (976038) news.2021.en.shuffled.deduped.ac (976001) news.2021.en.shuffled.deduped.ad (976334) wikibooks.aa (992334) wikinews.aa (457233) wikipedia.aa (983013) wikipedia.ab (983150) wikipedia.ac (983127) wikipedia.ad (982918) wikiquote.aa (997039) bible (774772) 
+   fin-nld: Tatoeba-train-v2023-09-26.fin-nld.strict (28954591) bible (144089) 
+   hun-deu: Tatoeba-train-v2023-09-26.deu-hun.strict (31393390) bible (1030765) 
+   hun-eng: Tatoeba-train-v2023-09-26.eng-hun.strict (46574070) wikibooks.aa (992417) wikinews.aa (457398) wikipedia.aa (983945) wikipedia.ab (984162) wikipedia.ac (984097) wikipedia.ad (983931) wikiquote.aa (997214) bible (866276) 
+   hun-nld: Tatoeba-train-v2023-09-26.hun-nld.strict (27736042) 
+   kpv-deu: bible (224451) 
+   kpv-eng: bible (299360) 
+   myv-deu: bible (125858) 
+   myv-eng: bible (167751) 
+   sme-deu: bible (125934) 
+   sme-eng: bible (167849) 
+   udm-deu: bible (126034) 
+   udm-eng: bible (167985) 
+validation-data:
+   chm-deu: Tatoeba-dev-v2023-09-26, 948
+   deu-est: Tatoeba-dev-v2023-09-26, 953
+   eng-est: Tatoeba-dev-v2023-09-26, 1169
+   deu-fin: Tatoeba-dev-v2023-09-26, 6913
+   eng-fin: Tatoeba-dev-v2023-09-26, 67377
+   fin-nld: Tatoeba-dev-v2023-09-26, 875
+   deu-hun: Tatoeba-dev-v2023-09-26, 52162
+   eng-hun: Tatoeba-dev-v2023-09-26, 92504
+   hun-nld: Tatoeba-dev-v2023-09-26, 398
+   total-size-shuffled: 8173
+   devset-selected: top 5000  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 10000/78967
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 46.1
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.65088

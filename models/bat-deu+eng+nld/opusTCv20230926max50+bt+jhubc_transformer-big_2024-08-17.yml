@@ -1,0 +1,51 @@
+release: bat-deu+eng+nld/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - lav
+   - lit
+   - prg_Latn
+   - sgs
+target-languages:
+   - deu
+   - eng
+   - nld
+raw-source-languages:
+   - lav
+   - lit
+   - prg
+   - sgs
+raw-target-languages:
+   - deu
+   - eng
+   - nld
+use-target-labels:
+training-data:
+   lav-deu: Tatoeba-train-v2023-09-26.deu-lav.strict (28099047) bible (251844) 
+   lav-eng: Tatoeba-train-v2023-09-26.eng-lav.strict (43966149) wikibooks.aa (992058) wikinews.aa (457128) wikipedia.aa (982597) wikipedia.ac (982763) wikipedia.ad (982535) wikiquote.aa (996682) bible (335703) 
+   lit-deu: Tatoeba-train-v2023-09-26.deu-lit.strict (35861637) bible (495823) 
+   lit-eng: Tatoeba-train-v2023-09-26.eng-lit.strict (50000000) wikibooks.aa (992487) wikinews.aa (457227) wikipedia.aa (983219) wikipedia.ab (983375) wikipedia.ac (983375) wikipedia.ad (983136) wikiquote.aa (996891) bible (407423) 
+validation-data:
+   deu-lav: Tatoeba-dev-v2023-09-26, 843
+   eng-lav: Tatoeba-dev-v2023-09-26, 185
+   deu-lit: Tatoeba-dev-v2023-09-26, 539
+   eng-lit: Tatoeba-dev-v2023-09-26, 5547
+   total-size-shuffled: 2567
+   devset-selected: top 2567  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 5531/39520
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 56.9
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.72041

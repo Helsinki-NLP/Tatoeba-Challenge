@@ -1,0 +1,794 @@
+release: alv-deu+eng+nld/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+release-date: 2024-08-17
+dataset-name: opusTCv20230926max50+bt+jhubc
+modeltype: transformer-big
+vocabulary:
+   source: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+   target: opusTCv20230926max50+bt+jhubc.spm32k-spm32k.vocab.yml
+pre-processing: normalization + SentencePiece (spm32k,spm32k)
+subwords:
+   source: spm32k
+   target: spm32k
+subword-models:
+   source: source.spm
+   target: target.spm
+source-languages:
+   - abi
+   - acd
+   - ade
+   - adj
+   - aka
+   - akp
+   - ann
+   - anv
+   - atg
+   - avn
+   - bas
+   - bav
+   - bba
+   - beh
+   - bem
+   - bfd
+   - bfo
+   - bim
+   - biv
+   - bkv
+   - blh
+   - bmq
+   - bmv
+   - bom_Latn
+   - bov
+   - box
+   - bqj
+   - bss
+   - btt
+   - bud
+   - bwu
+   - cce
+   - cjk
+   - cjk_Latn
+   - cko
+   - cme
+   - csk
+   - cwe
+   - cwt
+   - dag_Latn
+   - dga
+   - dgi
+   - dig
+   - dop
+   - dop_Latn
+   - dug
+   - dyi
+   - dyo
+   - efi
+   - ewe
+   - fal
+   - fon
+   - fuc
+   - ful
+   - gej
+   - gkn
+   - gng
+   - gog
+   - gud
+   - gur
+   - guw
+   - guw_Latn
+   - gux
+   - gwr
+   - hag
+   - hay
+   - heh
+   - her
+   - ibo
+   - ife
+   - iri
+   - izr
+   - jbu
+   - jmc
+   - kam
+   - kbp
+   - kbp_Cans
+   - kbp_Ethi
+   - kbp_Geor
+   - kbp_Grek
+   - kbp_Hang
+   - kbp_Latn
+   - kbp_Mlym
+   - kbp_Yiii
+   - kdc
+   - kdl
+   - kdn
+   - ken
+   - keu
+   - kez
+   - kia
+   - kik
+   - kin
+   - kki
+   - kkj
+   - kma
+   - kmb
+   - kon
+   - ksb
+   - ktj
+   - kua
+   - kub
+   - kus
+   - kyf
+   - las
+   - lee
+   - lef
+   - lem
+   - lia
+   - lin
+   - lip
+   - lob
+   - lon
+   - lua
+   - lug
+   - luy
+   - maw
+   - mcp
+   - mcu
+   - mda
+   - mfq
+   - mgo
+   - mnf
+   - mnh
+   - mor
+   - mos
+   - muh
+   - myk
+   - myx
+   - mzk
+   - mzm
+   - mzw
+   - nbl
+   - ncu
+   - nde
+   - ndo
+   - ndz
+   - nfr
+   - nhu
+   - nim
+   - nin
+   - nmz
+   - nnb
+   - nnb_Latn
+   - nnh
+   - nnw
+   - nso
+   - ntm
+   - ntr
+   - nuj
+   - nwb
+   - nya
+   - nyf
+   - nyn
+   - nyo
+   - nyy
+   - nzi
+   - oku
+   - old
+   - ozm
+   - pai_Latn
+   - pbl
+   - pkb
+   - rim
+   - run
+   - sag
+   - seh
+   - sig
+   - sil
+   - sld
+   - sna
+   - snw
+   - sot
+   - soy
+   - spp
+   - ssw
+   - suk
+   - swa
+   - swc
+   - swh
+   - sxb
+   - tbz
+   - tem
+   - thk
+   - tik
+   - tlj
+   - toh
+   - toi
+   - toi_Latn
+   - tpm
+   - tsn
+   - tso
+   - tsw
+   - tum
+   - twi
+   - umb
+   - vag
+   - ven
+   - vmw
+   - vun
+   - wmw
+   - wob
+   - wol
+   - xho
+   - xog
+   - xon
+   - xrb
+   - xsm
+   - xuo
+   - yam
+   - yaz
+   - yor
+   - zul
+target-languages:
+   - deu
+   - eng
+   - nld
+raw-source-languages:
+   - abi
+   - acd
+   - ade
+   - adj
+   - aka
+   - akp
+   - ann
+   - anv
+   - atg
+   - avn
+   - bas
+   - bav
+   - bba
+   - beh
+   - bem
+   - bfd
+   - bfo
+   - bim
+   - biv
+   - bkv
+   - blh
+   - bmq
+   - bmv
+   - bom
+   - bov
+   - box
+   - bqj
+   - bss
+   - btt
+   - bud
+   - bwu
+   - cce
+   - cjk
+   - cko
+   - cme
+   - csk
+   - cwe
+   - cwt
+   - dag
+   - dga
+   - dgi
+   - dig
+   - dop
+   - dug
+   - dyi
+   - dyo
+   - efi
+   - ewe
+   - fal
+   - fon
+   - fuc
+   - ful
+   - gej
+   - gkn
+   - gng
+   - gog
+   - gud
+   - gur
+   - guw
+   - gux
+   - gwr
+   - hag
+   - hay
+   - heh
+   - her
+   - ibo
+   - ife
+   - iri
+   - izr
+   - jbu
+   - jmc
+   - kam
+   - kbp
+   - kdc
+   - kdl
+   - kdn
+   - ken
+   - keu
+   - kez
+   - kia
+   - kik
+   - kin
+   - kki
+   - kkj
+   - kma
+   - kmb
+   - kon
+   - ksb
+   - ktj
+   - kua
+   - kub
+   - kus
+   - kyf
+   - las
+   - lee
+   - lef
+   - lem
+   - lia
+   - lin
+   - lip
+   - lob
+   - lon
+   - lua
+   - lug
+   - luy
+   - maw
+   - mcp
+   - mcu
+   - mda
+   - mfq
+   - mgo
+   - mnf
+   - mnh
+   - mor
+   - mos
+   - muh
+   - myk
+   - myx
+   - mzk
+   - mzm
+   - mzw
+   - nbl
+   - ncu
+   - nde
+   - ndo
+   - ndz
+   - nfr
+   - nhu
+   - nim
+   - nin
+   - nmz
+   - nnb
+   - nnh
+   - nnw
+   - nso
+   - ntm
+   - ntr
+   - nuj
+   - nwb
+   - nya
+   - nyf
+   - nyn
+   - nyo
+   - nyy
+   - nzi
+   - oku
+   - old
+   - ozm
+   - pai
+   - pbl
+   - pkb
+   - rim
+   - run
+   - sag
+   - seh
+   - sig
+   - sil
+   - sld
+   - sna
+   - snw
+   - sot
+   - soy
+   - spp
+   - ssw
+   - suk
+   - swa
+   - swc
+   - swh
+   - sxb
+   - tbz
+   - tem
+   - thk
+   - tik
+   - tlj
+   - toh
+   - toi
+   - tpm
+   - tsn
+   - tso
+   - tsw
+   - tum
+   - twi
+   - umb
+   - vag
+   - ven
+   - vmw
+   - vun
+   - wmw
+   - wob
+   - wol
+   - xho
+   - xog
+   - xon
+   - xrb
+   - xsm
+   - xuo
+   - yam
+   - yaz
+   - yor
+   - zul
+raw-target-languages:
+   - deu
+   - eng
+   - nld
+use-target-labels:
+training-data:
+   abi-deu: bible (124987) 
+   abi-eng: bible (166662) 
+   acd-deu: bible (223954) 
+   acd-eng: bible (298683) 
+   ade-deu: bible (206372) 
+   ade-eng: bible (275306) 
+   adj-deu: bible (134199) 
+   adj-eng: bible (178814) 
+   aka-deu: bible (126128) 
+   aka-eng: bible (168173) 
+   akp-deu: bible (126151) 
+   akp-eng: bible (168169) 
+   ann-deu: bible (137501) 
+   ann-eng: bible (183300) 
+   anv-deu: bible (251396) 
+   anv-eng: bible (335239) 
+   atg-deu: bible (187794) 
+   atg-eng: bible (250645) 
+   avn-deu: bible (126213) 
+   avn-eng: bible (168260) 
+   bav-deu: bible (246786) 
+   bav-eng: bible (329316) 
+   bba-deu: bible (666433) 
+   bba-eng: bible (452649) 
+   beh-deu: bible (142608) 
+   beh-eng: bible (173394) 
+   bfd-deu: bible (251943) 
+   bfd-eng: bible (335952) 
+   bfo-deu: bible (125859) 
+   bfo-eng: bible (167882) 
+   bim-deu: bible (125361) 
+   bim-eng: bible (167209) 
+   biv-deu: bible (148841) 
+   biv-eng: bible (198509) 
+   bkv-deu: bible (126039) 
+   bkv-eng: bible (167973) 
+   blh-deu: bible (125384) 
+   blh-eng: bible (167295) 
+   bmq-deu: bible (126178) 
+   bmq-eng: bible (168155) 
+   bmv-deu: bible (126239) 
+   bmv-eng: bible (168287) 
+   bov-deu: bible (126199) 
+   bov-eng: bible (168225) 
+   box-deu: bible (120982) 
+   box-eng: bible (161687) 
+   bqj-deu: bible (144885) 
+   bqj-eng: bible (174686) 
+   bss-deu: bible (184140) 
+   bss-eng: bible (245439) 
+   btt-deu: bible (125061) 
+   btt-eng: bible (166738) 
+   bud-deu: bible (225035) 
+   bud-eng: bible (300255) 
+   bwu-deu: bible (124102) 
+   bwu-eng: bible (165509) 
+   cce-deu: bible (128060) 
+   cce-eng: bible (170662) 
+   cko-deu: bible (125427) 
+   cko-eng: bible (167211) 
+   cme-deu: bible (634346) 
+   cme-eng: bible (591560) 
+   csk-deu: bible (127806) 
+   csk-eng: bible (170236) 
+   cwe-deu: bible (125550) 
+   cwe-eng: bible (167373) 
+   cwt-deu: bible (166022) 
+   cwt-eng: bible (221988) 
+   dga-deu: bible (126182) 
+   dga-eng: bible (168221) 
+   dgi-deu: bible (214022) 
+   dgi-eng: bible (285405) 
+   dig-deu: bible (125379) 
+   dig-eng: bible (167146) 
+   dop-deu: bible (196346) 
+   dop-eng: bible (261962) 
+   dug-deu: bible (186112) 
+   dug-eng: bible (248232) 
+   dyi-deu: bible (126145) 
+   dyi-eng: bible (168171) 
+   dyo-deu: bible (126229) 
+   dyo-eng: bible (168262) 
+   ewe-deu: bible (166749) 
+   ewe-eng: bible (221623) 
+   fal-deu: bible (142873) 
+   fal-eng: bible (190592) 
+   fon-deu: bible (126217) 
+   fon-eng: bible (168230) 
+   gej-deu: bible (231788) 
+   gej-eng: bible (309257) 
+   gkn-deu: bible (251156) 
+   gkn-eng: bible (334920) 
+   gng-deu: bible (243994) 
+   gng-eng: bible (325347) 
+   gog-deu: bible (128369) 
+   gog-eng: bible (171103) 
+   gud-deu: bible (126201) 
+   gud-eng: bible (168165) 
+   gur-deu: bible (686458) 
+   gur-eng: bible (660828) 
+   gux-deu: bible (134022) 
+   gux-eng: bible (178383) 
+   gwr-deu: bible (126064) 
+   gwr-eng: bible (168022) 
+   hag-deu: bible (121742) 
+   hag-eng: bible (162340) 
+   hay-deu: bible (141928) 
+   hay-eng: bible (188755) 
+   heh-deu: bible (126148) 
+   heh-eng: bible (168178) 
+   ibo-deu: bible (126078) 
+   ibo-eng: bible (168055) 
+   ife-deu: bible (125976) 
+   ife-eng: bible (167917) 
+   iri-deu: bible (126220) 
+   iri-eng: bible (168249) 
+   izr-deu: bible (132686) 
+   izr-eng: bible (176864) 
+   jbu-deu: bible (167660) 
+   jbu-eng: bible (223662) 
+   jmc-deu: bible (169702) 
+   jmc-eng: bible (226180) 
+   kbp-deu: bible (240285) 
+   kbp-eng: bible (320495) 
+   kdc-deu: bible (126103) 
+   kdc-eng: bible (168101) 
+   kdl-deu: bible (124555) 
+   kdl-eng: bible (166087) 
+   kdn-deu: bible (123687) 
+   kdn-eng: bible (165114) 
+   ken-deu: bible (224156) 
+   ken-eng: bible (299066) 
+   keu-deu: bible (126183) 
+   keu-eng: bible (168197) 
+   kez-deu: bible (162645) 
+   kez-eng: bible (216748) 
+   kia-deu: bible (252163) 
+   kia-eng: bible (336089) 
+   kin-deu: bible (368527) 
+   kin-eng: bible (491715) 
+   kki-deu: bible (126358) 
+   kki-eng: bible (168431) 
+   kkj-deu: bible (126211) 
+   kkj-eng: bible (168279) 
+   kma-deu: bible (126066) 
+   kma-eng: bible (168083) 
+   ksb-deu: bible (126079) 
+   ksb-eng: bible (168055) 
+   ktj-deu: bible (125756) 
+   ktj-eng: bible (167721) 
+   kub-deu: bible (226555) 
+   kub-eng: bible (302486) 
+   kus-deu: bible (163436) 
+   kus-eng: bible (217929) 
+   kyf-deu: bible (125742) 
+   kyf-eng: bible (167737) 
+   las-deu: bible (242774) 
+   las-eng: bible (323929) 
+   lee-deu: bible (214897) 
+   lee-eng: bible (286977) 
+   lef-deu: bible (125270) 
+   lef-eng: bible (167034) 
+   lem-deu: bible (251997) 
+   lem-eng: bible (335874) 
+   lia-deu: bible (132555) 
+   lia-eng: bible (176761) 
+   lip-deu: bible (126179) 
+   lip-eng: bible (168217) 
+   lob-deu: bible (126189) 
+   lob-eng: bible (168209) 
+   lon-deu: bible (125702) 
+   lon-eng: bible (167641) 
+   maw-deu: bible (220936) 
+   maw-eng: bible (294793) 
+   mcp-deu: bible (126118) 
+   mcp-eng: bible (168094) 
+   mcu-deu: bible (251522) 
+   mcu-eng: bible (335244) 
+   mda-deu: bible (166752) 
+   mda-eng: bible (222313) 
+   mfq-deu: bible (265777) 
+   mfq-eng: bible (354091) 
+   mgo-deu: bible (126140) 
+   mgo-eng: bible (168161) 
+   mnf-deu: bible (155234) 
+   mnf-eng: bible (206808) 
+   mnh-deu: bible (125116) 
+   mnh-eng: bible (166820) 
+   mor-deu: bible (126150) 
+   mor-eng: bible (168151) 
+   mos-deu: bible (453794) 
+   mos-eng: bible (605563) 
+   muh-deu: bible (118612) 
+   muh-eng: bible (158240) 
+   myk-deu: bible (130812) 
+   myk-eng: bible (174309) 
+   myx-deu: bible (126248) 
+   myx-eng: bible (168291) 
+   mzk-deu: bible (224248) 
+   mzk-eng: bible (299183) 
+   mzm-deu: bible (126103) 
+   mzm-eng: bible (168120) 
+   mzw-deu: bible (125352) 
+   mzw-eng: bible (167396) 
+   ncu-deu: bible (232509) 
+   ncu-eng: bible (310296) 
+   nde-deu: bible (122316) 
+   nde-eng: bible (163400) 
+   ndo-deu: bible (121795) 
+   ndo-eng: bible (162448) 
+   ndz-deu: bible (238673) 
+   ndz-eng: bible (318140) 
+   nfr-deu: bible (125891) 
+   nfr-eng: bible (167853) 
+   nhu-deu: bible (214755) 
+   nhu-eng: bible (286816) 
+   nim-deu: bible (134866) 
+   nim-eng: bible (179769) 
+   nin-deu: bible (162484) 
+   nin-eng: bible (216775) 
+   nmz-deu: bible (126047) 
+   nmz-eng: bible (167987) 
+   nnb-deu: bible (126248) 
+   nnb-eng: bible (168284) 
+   nnh-deu: bible (122907) 
+   nnh-eng: bible (163976) 
+   nnw-deu: bible (222480) 
+   nnw-eng: bible (296781) 
+   nso-deu: bible (249356) 
+   nso-eng: bible (332625) 
+   ntm-deu: bible (156901) 
+   ntm-eng: bible (178684) 
+   ntr-deu: bible (125700) 
+   ntr-eng: bible (167597) 
+   nuj-deu: bible (126168) 
+   nuj-eng: bible (168186) 
+   nwb-deu: bible (125520) 
+   nwb-eng: bible (167451) 
+   nya-deu: bible (125823) 
+   nya-eng: bible (167714) 
+   nyf-deu: bible (137103) 
+   nyf-eng: bible (182713) 
+   nyn-deu: bible (126135) 
+   nyn-eng: bible (168146) 
+   nyo-deu: bible (126208) 
+   nyo-eng: bible (168209) 
+   nyy-deu: bible (215661) 
+   nyy-eng: bible (287700) 
+   nzi-deu: bible (126139) 
+   nzi-eng: bible (168141) 
+   oku-deu: bible (126215) 
+   oku-eng: bible (168222) 
+   old-deu: bible (170891) 
+   old-eng: bible (227702) 
+   ozm-deu: bible (251045) 
+   ozm-eng: bible (334883) 
+   pbl-deu: bible (125759) 
+   pbl-eng: bible (167623) 
+   pkb-deu: bible (128272) 
+   pkb-eng: bible (171058) 
+   rim-deu: bible (126341) 
+   rim-eng: bible (168430) 
+   run-deu: Tatoeba-train-v2023-09-26.deu-run.strict (320760) bible (126164) 
+   run-eng: Tatoeba-train-v2023-09-26.eng-run.strict (979800) wikibooks.aa (991041) wikinews.aa (456917) wikipedia.aa (980427) wikipedia.ab (980688) wikipedia.ac (980679) wikipedia.ad (980458) wikiquote.aa (996767) bible (168168) 
+   sag-deu: bible (126123) 
+   sag-eng: bible (168106) 
+   seh-deu: bible (115795) 
+   seh-eng: bible (154654) 
+   sig-deu: bible (134230) 
+   sig-eng: bible (179098) 
+   sil-deu: bible (223040) 
+   sil-eng: bible (297557) 
+   sld-deu: bible (250924) 
+   sld-eng: bible (334578) 
+   sna-deu: bible (126234) 
+   sna-eng: bible (168288) 
+   snw-deu: bible (126171) 
+   snw-eng: bible (168184) 
+   sot-deu: bible (250258) 
+   sot-eng: bible (333667) 
+   soy-deu: bible (126125) 
+   soy-eng: bible (168147) 
+   spp-deu: bible (125891) 
+   spp-eng: bible (167801) 
+   suk-deu: bible (126091) 
+   suk-eng: bible (168072) 
+   swa-eng: wikibooks.aa (990754) wikinews.aa (457086) wikipedia.aa (980957) wikipedia.ab (981114) wikipedia.ac (981152) wikipedia.ad (980969) wikiquote.aa (996914) 
+   swh-deu: bible (320259) 
+   swh-eng: bible (427160) 
+   sxb-deu: bible (121887) 
+   sxb-eng: bible (162658) 
+   tbz-deu: bible (407947) 
+   tbz-eng: bible (272641) 
+   tem-deu: bible (191988) 
+   tem-eng: bible (255952) 
+   thk-deu: bible (126474) 
+   thk-eng: bible (168600) 
+   tik-deu: bible (150634) 
+   tik-eng: bible (200759) 
+   tlj-deu: bible (126116) 
+   tlj-eng: bible (168077) 
+   toh-deu: bible (165993) 
+   toh-eng: bible (220790) 
+   tpm-deu: bible (386461) 
+   tpm-eng: bible (259070) 
+   tsn-deu: bible (250442) 
+   tsn-eng: bible (333869) 
+   tso-deu: bible (124186) 
+   tso-eng: bible (165534) 
+   tsw-deu: bible (121546) 
+   tsw-eng: bible (162243) 
+   vag-deu: bible (126149) 
+   vag-eng: bible (168182) 
+   vmw-deu: bible (126259) 
+   vmw-eng: bible (168298) 
+   vun-deu: bible (176639) 
+   vun-eng: bible (235647) 
+   wmw-deu: bible (139306) 
+   wmw-eng: bible (185828) 
+   wob-deu: bible (125677) 
+   wob-eng: bible (167524) 
+   wol-deu: bible (125565) 
+   wol-eng: bible (167466) 
+   xho-deu: bible (757273) 
+   xho-eng: Tatoeba-train-v2023-09-26.eng-xho.strict (8358384) bible (511566) 
+   xog-deu: bible (126219) 
+   xog-eng: bible (168260) 
+   xon-deu: bible (275688) 
+   xon-eng: bible (367484) 
+   xrb-deu: bible (128601) 
+   xrb-eng: bible (171356) 
+   xsm-deu: bible (371822) 
+   xsm-eng: bible (495911) 
+   xuo-deu: bible (126078) 
+   xuo-eng: bible (168043) 
+   yam-deu: bible (125774) 
+   yam-eng: bible (167786) 
+   yaz-deu: bible (126244) 
+   yaz-eng: bible (168283) 
+   yor-deu: bible (121956) 
+   yor-eng: bible (162443) 
+   zul-deu: bible (125970) 
+   zul-eng: bible (167937) 
+validation-data:
+   deu-run: Tatoeba-dev-v2023-09-26, 912
+   eng-run: Tatoeba-dev-v2023-09-26, 965
+   eng-xho: Tatoeba-dev-v2023-09-26, 319
+   total-size-shuffled: 2196
+   devset-selected: top 2196  lines of Tatoeba-dev-v2023-09-26.src.shuffled
+test-data:
+   Tatoeba-test-v2023-09-26.multi-multi: 3903/23492
+BLEU-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 24.1
+chr-F-scores:
+   Tatoeba-test-v2023-09-26.multi-multi: 0.40620

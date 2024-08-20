@@ -245,3 +245,24 @@
 | Tatoeba-test.swg-eng.swg.eng 	| 17.8 	| 0.315 |
 | Tatoeba-test.yid-eng.yid.eng 	| 20.8 	| 0.409 |
 
+
+# opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip
+
+* dataset: opusTCv20230926max50+bt+jhubc
+* model: transformer-big
+* source language(s): afr ang_Latn bar bis bzj dan deu djk djk_Latn drt_Latn eng enm_Latn fao frr fry gos got got_Goth gsw hrx_Latn hwc icr isl jam kri ksh lim ltz nds nld nno nob non nor ofs_Latn pcm pdc pfl pih pih_Latn pis rop sco srm srn stq swe swg tcs tpi vls wae yid zea
+* target language(s): eng
+* raw source language(s): afr ang bar bis bzj dan deu djk drt eng enm fao frr fry gos got gsw hrx hwc icr isl jam kri ksh lim ltz nds nld nno nob non nor ofs pcm pdc pfl pih pis rop sco srm srn stq swe swg tcs tpi vls wae yid zea
+* raw target language(s): eng
+* model: transformer-big
+* pre-processing: normalization + SentencePiece (spm32k,spm32k)
+* download: [opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip](https://object.pouta.csc.fi/Tatoeba-MT-models/gem-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.zip)
+* test set translations: [opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.test.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gem-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.test.txt)
+* test set scores: [opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.eval.txt](https://object.pouta.csc.fi/Tatoeba-MT-models/gem-eng/opusTCv20230926max50+bt+jhubc_transformer-big_2024-08-17.eval.txt)
+
+## Benchmarks
+
+| testset | BLEU  | chr-F | #sent | #words | BP |
+|---------|-------|-------|-------|--------|----|
+| Tatoeba-test-v2023-09-26.multi-eng 	| 45.3 	| 0.69005 	| 10000 	| 80588 	| 1.000 |
+
