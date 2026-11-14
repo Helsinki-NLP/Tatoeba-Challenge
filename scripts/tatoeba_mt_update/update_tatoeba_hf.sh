@@ -16,20 +16,32 @@ tar -xf dev-${version}.tar
 
 rm -r $dataset_name/*
 
+echo "Creating tsv files..."
 configs=""
 for setname in "test" "dev"
 do
     mkdir -p $dataset_name/data/$setname
     for fname in `ls data/${setname}-${version}/*/*txt`
     do
-        lang_pair=`echo $fname | cut -d"/" -f3`
-        new_file=$dataset_name/data/$setname/tatoeba-${setname}.${lang_pair}.tsv
-        echo -e "sourceLang\ttargetLang\tsourceString\ttargetString" > $new_file
-        cat $fname >> $new_file
+        new_file_prefix=$dataset_name/data/$setname/tatoeba-${setname}
+        lang_pairs=$(awk -F '\t' -v prefix="$new_file_prefix" '{
+            filename = prefix "." $1 "-" $2 ".tsv"
 
-        configs="$configs|$lang_pair+$setname"
+            if (!seen[filename]++) {
+                print "sourceLang\ttargetLang\tsourceString\ttargetString" > filename
+                print $1 "-" $2
+            }
+
+            print >> filename
+            close(filename)
+        }' $fname)
+
+        for lang_pair in $lang_pairs; do
+            configs="$configs|$lang_pair+$setname"
+        done
     done
 done
+echo "Done"
 
 echo $configs > .tmp_hf_config_string
 python build_yaml.py

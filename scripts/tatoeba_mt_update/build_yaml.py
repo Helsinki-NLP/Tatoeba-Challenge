@@ -23,8 +23,9 @@ with open(".tmp_hf_config_string") as cs:
             configs[langpair] = {"config_name": langpair,
             "data_files": [],
             "sep": "\t", "quoting": 3}
-        configs[langpair]["data_files"].append({"split": setname,
-            "path": f"data/{setname}/tatoeba-{setname}.{langpair}.tsv"})
+        if setname not in [x["split"] for x in configs[langpair]["data_files"]]:
+            configs[langpair]["data_files"].append({"split": setname,
+                "path": f"data/{setname}/tatoeba-{setname}.{langpair}.tsv"})
 languages = sorted(list(languages))
 
 with open(".tmp_languages.txt", "w") as tmp_languages:
